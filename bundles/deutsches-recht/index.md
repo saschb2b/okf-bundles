@@ -163,6 +163,17 @@ Die allgemeinen Lehren jeder Straftat.
 - [Versuch und Rücktritt (§§ 22 bis 24)](strafrecht-at/versuch-und-ruecktritt-22-24.md) - Unmittelbares Ansetzen, Straflosigkeit.
 - [Täterschaft und Teilnahme (§§ 25 bis 27)](strafrecht-at/taeterschaft-und-teilnahme-25-27.md) - Täter, Anstifter, Gehilfe.
 
+# Strafrecht Besonderer Teil (StGB)
+
+Die Kerndelikte gegen Leben, Körper, Eigentum, Vermögen und Rechtsverkehr.
+
+- [Tötungsdelikte (§§ 211, 212)](strafrecht-bt/toetungsdelikte-211-212.md) - Totschlag und Mord, Mordmerkmale.
+- [Körperverletzung (§ 223)](strafrecht-bt/koerperverletzung-223.md) - Grundtatbestand, Qualifikationen, Todesfolge.
+- [Diebstahl (§ 242)](strafrecht-bt/diebstahl-242.md) - Wegnahme in Zueignungsabsicht.
+- [Betrug (§ 263)](strafrecht-bt/betrug-263.md) - Täuschung, Irrtum, Vermögensverfügung, Schaden.
+- [Raub und Erpressung (§§ 249, 253)](strafrecht-bt/raub-und-erpressung-249-253.md) - Wegnahme mit Nötigung.
+- [Urkundenfälschung (§ 267)](strafrecht-bt/urkundenfaelschung-267.md) - Echtheit von Urkunden.
+
 # Allgemeines Verwaltungsrecht (VwVfG, VwGO)
 
 Verwaltungshandeln und Verwaltungsprozess.

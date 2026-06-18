@@ -16,3 +16,4 @@
 * **Tier 2**: Gebiet Verfassungsrecht (Grundgesetz) angelegt: Grundrechtsfunktionen und -prüfung, Menschenwürde Art. 1, Gleichheitssatz Art. 3, Verhältnismäßigkeit, Staatsstrukturprinzipien Art. 20 und Verfassungsbeschwerde Art. 93 GG / § 90 BVerfGG.
 * **Tier 2**: Gebiet Sozialrecht (SGB, SGG) angelegt: Aufbau des SGB, Sozialverwaltungsakt und Überprüfung §§ 31, 44 SGB X, Bürgergeld § 7 SGB II, sozialgerichtliches Verfahren (SGG), gesetzliche Kranken- und Rentenversicherung (SGB V, VI).
 * **Tier 2**: Gebiet Besondere Schuldverhältnisse (Schuldrecht BT) angelegt: Werkvertrag § 631, Dienstvertrag § 611, Darlehen § 488, Bürgschaft § 765, Schenkung § 516 und Geschäftsführung ohne Auftrag § 677.
+* **Tier 2**: Gebiet Strafrecht Besonderer Teil (StGB) angelegt: Tötungsdelikte §§ 211, 212, Körperverletzung § 223, Diebstahl § 242, Betrug § 263, Raub und Erpressung §§ 249, 253 und Urkundenfälschung § 267.
