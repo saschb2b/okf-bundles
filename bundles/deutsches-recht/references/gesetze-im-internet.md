@@ -58,6 +58,8 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | GmbHG | GmbH-Gesetz (§§ 1, 5, 5a, 11, 13, 43) | https://www.gesetze-im-internet.de/gmbhg/ |
 | GG | Grundgesetz (Art. 1, 3, 20, 79, 93) | https://www.gesetze-im-internet.de/gg/ |
 | BVerfGG | Gesetz über das Bundesverfassungsgericht (§§ 90, 93) | https://www.gesetze-im-internet.de/bverfgg/ |
+| SGB II/V/VI/X | Sozialgesetzbuch (Bürgergeld, Kranken-, Rentenversicherung, Verfahren) | https://www.gesetze-im-internet.de/ (sgb_2, sgb_5, sgb_6, sgb_10) |
+| SGG | Sozialgerichtsgesetz (§§ 78, 84, 86b, 87, 183) | https://www.gesetze-im-internet.de/sgg/ |
 
 # Hinweis
 

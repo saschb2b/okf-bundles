@@ -184,6 +184,17 @@ Grundrechte und Staatsorganisation.
 - [Staatsstrukturprinzipien (Art. 20 GG)](verfassungsrecht/staatsstrukturprinzipien-20-gg.md) - Demokratie, Rechtsstaat, Sozialstaat, Bundesstaat.
 - [Verfassungsbeschwerde (Art. 93 GG)](verfassungsrecht/verfassungsbeschwerde-93.md) - Rechtsschutz vor dem BVerfG.
 
+# Sozialrecht (SGB, SGG)
+
+Sozialleistungen und ihr Rechtsschutz.
+
+- [Aufbau des SGB](sozialrecht/aufbau-des-sgb.md) - Die Bücher des Sozialgesetzbuchs und der Sozialrechtsweg.
+- [Sozialverwaltungsakt und Überprüfung (§§ 31, 44 SGB X)](sozialrecht/sozialverwaltungsakt-ueberpruefung-44-sgb10.md) - Rücknahme zugunsten, vier Jahre rückwirkend.
+- [Bürgergeld (§ 7 SGB II)](sozialrecht/buergergeld-sgb2.md) - Grundsicherung, Bedarfsgemeinschaft.
+- [Sozialgerichtliches Verfahren (SGG)](sozialrecht/sozialgerichtliches-verfahren-sgg.md) - Widerspruch, Klagefrist, Eilrechtsschutz.
+- [Gesetzliche Krankenversicherung (SGB V)](sozialrecht/krankenversicherung-sgb5.md) - Versicherungspflicht, Sachleistungsprinzip.
+- [Gesetzliche Rentenversicherung (SGB VI)](sozialrecht/rentenversicherung-sgb6.md) - Alters- und Erwerbsminderungsrente.
+
 # Referenzen
 
 - [Amtliche Quellen](references/index.md) - Der belegte Normtext, an dem dieses Bündel hängt.
