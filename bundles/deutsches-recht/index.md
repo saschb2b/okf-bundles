@@ -85,6 +85,17 @@ Die Kontrolle vorformulierter Vertragsbedingungen.
 - [Anwendungsbereich (§ 310)](agb-kontrolle/anwendungsbereich-310.md) - B2B, Verbraucher, Ausnahmen.
 - [Prüfschema](agb-kontrolle/pruefungsschema.md) - Reihenfolge der Prüfung einer Klausel.
 
+# Arbeitsrecht (Kündigung und Befristung)
+
+Der Kern des Individualarbeitsrechts; Normen im BGB, KSchG und TzBfG.
+
+- [Arbeitsvertrag und Arbeitnehmer (§ 611a BGB)](arbeitsrecht/arbeitsvertrag-611a.md) - Weisungsgebundene, fremdbestimmte Arbeit.
+- [Ordentliche Kündigung und Fristen (§ 622 BGB)](arbeitsrecht/ordentliche-kuendigung-622.md) - Grundfrist und gestaffelte Fristen.
+- [Kündigungsschutz (§ 1 KSchG)](arbeitsrecht/kuendigungsschutz-1-kschg.md) - Soziale Rechtfertigung, Sozialauswahl.
+- [Außerordentliche Kündigung (§ 626 BGB)](arbeitsrecht/ausserordentliche-kuendigung-626.md) - Wichtiger Grund, Zwei-Wochen-Frist.
+- [Kündigungsschutzklage (§ 4 KSchG)](arbeitsrecht/kuendigungsschutzklage-4-kschg.md) - Drei-Wochen-Frist, Wirksamkeitsfiktion.
+- [Befristung (§ 14 TzBfG)](arbeitsrecht/befristung-14-tzbfg.md) - Sachgrund, sachgrundlose Befristung, Schriftform.
+
 # Referenzen
 
 - [Amtliche Quellen](references/index.md) - Der belegte Normtext, an dem dieses Bündel hängt.

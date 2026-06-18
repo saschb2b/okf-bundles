@@ -38,6 +38,15 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 
 Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
 
+# Nebengesetze
+
+Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im-internet.de konsolidiert.
+
+| Gesetz | Gegenstand | Fundstelle |
+|--------|------------|------------|
+| KSchG | Kündigungsschutzgesetz (§§ 1, 4, 7, 23) | https://www.gesetze-im-internet.de/kschg/ |
+| TzBfG | Teilzeit- und Befristungsgesetz (§§ 14, 17) | https://www.gesetze-im-internet.de/tzbfg/ |
+
 # Hinweis
 
 Konsolidierte Fassungen geben den geltenden Stand wieder, sind aber kein amtliches Verkündungsorgan. Der Abrufstand dieses Bündels ist 2026-06-18; für den tagesaktuellen Stand ist die Quelle erneut zu prüfen.
