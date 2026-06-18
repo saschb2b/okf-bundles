@@ -61,6 +61,8 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | BVerfGG | Gesetz über das Bundesverfassungsgericht (§§ 90, 93) | https://www.gesetze-im-internet.de/bverfgg/ |
 | SGB II/V/VI/X | Sozialgesetzbuch (Bürgergeld, Kranken-, Rentenversicherung, Verfahren) | https://www.gesetze-im-internet.de/ (sgb_2, sgb_5, sgb_6, sgb_10) |
 | SGG | Sozialgerichtsgesetz (§§ 78, 84, 86b, 87, 183) | https://www.gesetze-im-internet.de/sgg/ |
+| ZPO | Zivilprozessordnung (§§ 253, 261, 322, 330, 331, 688, 704, 767, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
+| GVG | Gerichtsverfassungsgesetz (§§ 23, 71 Zuständigkeit) | https://www.gesetze-im-internet.de/gvg/ |
 
 # Hinweis
 

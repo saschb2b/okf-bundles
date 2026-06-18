@@ -1,7 +1,7 @@
 ---
 type: Overview
 title: "Deutsches Recht: Überblick"
-description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind die Methodik, das gesamte Bürgerliche Recht (alle fünf Bücher des BGB), das Handels-, Arbeits-, Miet- und AGB-Recht, das Strafrecht (Allgemeiner und Besonderer Teil) sowie das öffentliche Recht (Verfassung, Verwaltung, Sozial).
+description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind die Methodik, das gesamte Bürgerliche Recht (alle fünf Bücher des BGB), das Handels-, Arbeits-, Miet- und AGB-Recht, das Strafrecht (Allgemeiner und Besonderer Teil), das öffentliche Recht (Verfassung, Verwaltung, Sozial) und der Zivilprozess.
 tags: [deutsches-recht, agb-recht, bgb]
 timestamp: 2026-06-18T12:00:00Z
 ---
@@ -19,8 +19,9 @@ Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt 
 - **Wirtschafts- und Sonderprivatrecht:** [Handels- und Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md), [AGB-Kontrolle](/agb-kontrolle/index.md), [Arbeitsrecht](/arbeitsrecht/index.md), [Mietrecht](/mietrecht/index.md).
 - **Strafrecht:** [Allgemeiner Teil](/strafrecht-at/index.md), [Besonderer Teil](/strafrecht-bt/index.md).
 - **Öffentliches Recht:** [Verfassungsrecht](/verfassungsrecht/index.md), [allgemeines Verwaltungsrecht](/verwaltungsrecht/index.md), [Sozialrecht](/sozialrecht/index.md).
+- **Verfahrensrecht:** [Zivilprozess](/zivilprozess/index.md) (von der Klage bis zur Zwangsvollstreckung).
 
-Weitere Gebiete (etwa der Zivilprozess oder das Europarecht) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.
+Weitere Gebiete (etwa das Europarecht oder das Strafprozessrecht) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.
 
 # Wo anfangen
 
