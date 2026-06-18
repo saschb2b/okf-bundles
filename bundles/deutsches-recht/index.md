@@ -96,6 +96,17 @@ Der Kern des Individualarbeitsrechts; Normen im BGB, KSchG und TzBfG.
 - [Kündigungsschutzklage (§ 4 KSchG)](arbeitsrecht/kuendigungsschutzklage-4-kschg.md) - Drei-Wochen-Frist, Wirksamkeitsfiktion.
 - [Befristung (§ 14 TzBfG)](arbeitsrecht/befristung-14-tzbfg.md) - Sachgrund, sachgrundlose Befristung, Schriftform.
 
+# Mietrecht (Wohnraummiete, §§ 535 ff. BGB)
+
+Pflichten, Mängel, Betriebskosten, Kaution, Mieterhöhung und Kündigung bei Wohnraum.
+
+- [Mietvertrag und Pflichten (§ 535)](mietrecht/mietvertrag-pflichten-535.md) - Gebrauchsüberlassung und Erhaltung gegen Miete.
+- [Mängel und Mietminderung (§§ 536, 536a)](mietrecht/maengel-und-minderung-536.md) - Kraft Gesetzes geminderte Miete.
+- [Betriebskosten (§ 556)](mietrecht/betriebskosten-556.md) - Umlage und Zwölf-Monats-Abrechnungsfrist.
+- [Kaution (§ 551)](mietrecht/kaution-551.md) - Höchstens drei Monatsmieten.
+- [Mieterhöhung (§ 558)](mietrecht/mieterhoehung-558.md) - Vergleichsmiete und Kappungsgrenze.
+- [Kündigung durch den Vermieter (§§ 573, 573c)](mietrecht/vermieterkuendigung-573.md) - Berechtigtes Interesse, Eigenbedarf, Fristen.
+
 # Referenzen
 
 - [Amtliche Quellen](references/index.md) - Der belegte Normtext, an dem dieses Bündel hängt.

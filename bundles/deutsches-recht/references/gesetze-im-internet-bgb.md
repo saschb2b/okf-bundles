@@ -35,6 +35,8 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | Kaufrecht | §§ 433, 434, 437, 438, 439, 440, 441, 474, 476, 477 |
 | Deliktsrecht und Schadensrecht | §§ 249 bis 254, 823, 826, 831 |
 | Bereicherungsrecht | §§ 812, 814, 817, 818, 819 |
+| Mietrecht (Wohnraum) | §§ 535, 536, 536a, 551, 556, 556d, 558, 573, 573c |
+| Arbeitsrecht (BGB-Teil) | §§ 611a, 622, 626 |
 
 Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
 
