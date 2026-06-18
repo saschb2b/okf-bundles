@@ -39,6 +39,7 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | Arbeitsrecht (BGB-Teil) | §§ 611a, 622, 626 |
 | Sachenrecht | §§ 854, 858, 861, 873, 892, 925, 929 bis 935, 985, 986, 1004 |
 | Erbrecht | §§ 1922, 1924 bis 1931, 1937, 1942 bis 1944, 1967, 1975, 2247, 2303 |
+| Familienrecht | §§ 1363, 1365, 1373, 1378, 1565, 1566, 1601, 1603, 1626, 1671 |
 
 Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
 

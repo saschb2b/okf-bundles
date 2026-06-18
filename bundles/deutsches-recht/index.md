@@ -95,6 +95,16 @@ Gesetzliche und gewillkürte Erbfolge, Pflichtteil und Erbenhaftung.
 - [Annahme und Ausschlagung (§§ 1942 ff.)](erbrecht/annahme-ausschlagung-1942.md) - Anfall und Sechs-Wochen-Frist.
 - [Haftung des Erben (§§ 1967 ff.)](erbrecht/haftung-erben-1967.md) - Nachlassverbindlichkeiten, Haftungsbeschränkung.
 
+# Familienrecht (§§ 1297 ff. BGB)
+
+Güterstand, Scheidung, Ausgleich, Unterhalt und elterliche Sorge.
+
+- [Güterstand der Zugewinngemeinschaft (§§ 1363 ff.)](familienrecht/gueterstand-zugewinn-1363.md) - Getrennte Vermögen, Verfügungsbeschränkungen.
+- [Scheidung (§§ 1565, 1566)](familienrecht/scheidung-1565.md) - Scheitern der Ehe, Trennungsjahr.
+- [Zugewinnausgleich (§§ 1373, 1378)](familienrecht/zugewinnausgleich-1378.md) - Hälfte des Überschusses.
+- [Unterhalt (§§ 1601 ff., 1569 ff.)](familienrecht/unterhalt-1601.md) - Verwandten-, Kindes-, nachehelicher Unterhalt.
+- [Elterliche Sorge (§§ 1626, 1671)](familienrecht/elterliche-sorge-1626.md) - Personen- und Vermögenssorge, Kindeswohl.
+
 # AGB-Kontrolle (§§ 305 bis 310 BGB)
 
 Die Kontrolle vorformulierter Vertragsbedingungen.
