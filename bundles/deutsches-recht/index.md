@@ -229,6 +229,16 @@ Durchsetzung zivilrechtlicher Ansprüche, von der Klage bis zur Vollstreckung.
 - [Einstweiliger Rechtsschutz (§§ 916, 935)](zivilprozess/einstweiliger-rechtsschutz-935.md) - Arrest und einstweilige Verfügung.
 - [Zwangsvollstreckung (§§ 704 ff.)](zivilprozess/zwangsvollstreckung-704.md) - Titel, Pfändung, Schuldnerschutz.
 
+# Europarecht (EUV, AEUV)
+
+Unionsrecht und sein Verhältnis zum nationalen Recht.
+
+- [Rechtsquellen und Handlungsformen (Art. 288 AEUV)](europarecht/rechtsquellen-handlungsformen-288.md) - Primär- und Sekundärrecht.
+- [Vorrang und unmittelbare Wirkung](europarecht/vorrang-und-unmittelbare-wirkung.md) - Anwendungsvorrang, Direktwirkung.
+- [Grundfreiheiten](europarecht/grundfreiheiten.md) - Waren, Personen, Dienstleistungen, Kapital.
+- [Vorabentscheidungsverfahren (Art. 267 AEUV)](europarecht/vorabentscheidungsverfahren-267.md) - Auslegung und Gültigkeit durch den EuGH.
+- [Richtlinienwirkung und Staatshaftung](europarecht/richtlinie-wirkung-und-staatshaftung.md) - Unmittelbare Wirkung, Francovich.
+
 # Referenzen
 
 - [Amtliche Quellen](references/index.md) - Der belegte Normtext, an dem dieses Bündel hängt.
