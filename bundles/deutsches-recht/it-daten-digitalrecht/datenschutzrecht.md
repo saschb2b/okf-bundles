@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "Datenschutzrecht"
-description: "DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung."
+description: "DSGVO/BDSG/TDDDG - PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/datenschutzrecht
 tags: [datenschutzrecht, dsgvo, bdsg, tdddg, pia, dpia, avv-review, auskunft, art, datenpanne]
 plugin_slug: datenschutzrecht
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.
+DSGVO/BDSG/TDDDG - PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA, Behördenpaket und Brückenskills zur Sanktionsverteidigung.
 
 Teil des Rechtsgebiets [IT-, Daten- & Digitalrecht](/it-daten-digitalrecht/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **365 Skills** (Stand v335.0.0).
 

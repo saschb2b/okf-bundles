@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "Gesellschaftsrecht"
-description: "Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen."
+description: "Gesellschaftsrecht - GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht
 tags: [gesellschaftsrecht, gmbh, personengesellschaften, a-due-diligence, ohne, discovery, datenraum, gesellschafterbeschluesse, hrb, hra-anmeldungen]
 plugin_slug: gesellschaftsrecht
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-Gesellschaftsrecht – GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen.
+Gesellschaftsrecht - GmbH/AG/Personengesellschaften, M&A-Due-Diligence ohne Discovery (Q&A + Datenraum), Gesellschafterbeschlüsse, HRB/HRA-Anmeldungen, Closing Checklists, Compliance-Fristen.
 
 Teil des Rechtsgebiets [Handels- & Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **106 Skills** (Stand v335.0.0).
 

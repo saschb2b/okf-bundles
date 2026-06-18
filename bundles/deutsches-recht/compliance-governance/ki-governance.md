@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "KI Governance"
-description: "EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie."
+description: "EU-KI-VO + DSGVO - Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/ki-governance
 tags: [governance, eu-ki-vo, dsgvo, use-case-triage, ki-inventar, aia, dpia, vendor-review, drift-monitoring, ki-richtlinie]
 plugin_slug: ki-governance
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.
+EU-KI-VO + DSGVO - Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.
 
 Teil des Rechtsgebiets [Compliance, Governance & interne Untersuchungen](/compliance-governance/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **59 Skills** (Stand v335.0.0).
 

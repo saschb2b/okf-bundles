@@ -14,31 +14,31 @@ Dieser Bundle erschließt die experimentelle Sammlung [claude-fuer-deutsches-rec
 
 Die Plugins sind in **25 Rechtsgebiete** gruppiert. Diese Einteilung ist eine kuratierte Lesehilfe dieses Bundles, keine amtliche Systematik; einige Plugins ließen sich mehreren Gebieten zuordnen.
 
-- [Methodik, Theorie & Studium](/methodik-grundlagen/index.md) — Juristische Methodenlehre, Rechtstheorie, Zitierweise, Sprache und Ausbildung. Die Querschnitts-Grundlage, auf der die anderen Gebiete aufsetzen.
-- [Bürgerliches Recht (BGB)](/buergerliches-recht/index.md) — Allgemeiner Teil, Schuldrecht und die mechanischen Prüf-Workflows des bürgerlichen Rechts.
-- [Vertrags- & AGB-Recht](/vertrags-agb-recht/index.md) — Vertragsgestaltung, AGB-Kontrolle nach §§ 305 ff. BGB, NDA und besondere Vertragstypen.
-- [Handels- & Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md) — HGB, GmbH/AG/Personengesellschaften, Organe, Gründung, Register und Verbände.
-- [M&A, Transaktionen & Beteiligungen](/ma-transaktionen/index.md) — Unternehmenskäufe, Corporate-Praxis, Private Equity, Venture Capital und Finanzierungsinstrumente.
-- [Insolvenz- & Sanierungsrecht](/insolvenz-sanierung/index.md) — InsO und StaRUG: Antrag, Anfechtung, Plan, Verwaltung, Krisenfrüherkennung und Liquidität.
-- [Arbeitsrecht & Personal](/arbeitsrecht-hr/index.md) — Individual- und Kollektivarbeitsrecht, Zeugnisse, betriebliche Altersversorgung und HR-Operations.
-- [Familien-, Betreuungs- & Erbrecht](/familien-betreuung-erbrecht/index.md) — Familiengericht, Betreuung nach BtOG sowie Erb- und Pflichtteilsrecht.
-- [Immobilien-, Bau- & Mietrecht](/immobilien-bau-mietrecht/index.md) — Grundstücke, Grundbuch, Bauträger, HOAI, WEG und Wohn-/Gewerberaummiete.
-- [Geistiges Eigentum, Wettbewerb & Medien](/geistiges-eigentum/index.md) — Marken, Patente, Design, Urheber-, Wettbewerbs-, Kartell- und Äußerungsrecht.
-- [IT-, Daten- & Digitalrecht](/it-daten-digitalrecht/index.md) — Datenschutz, Software, E-Commerce, Datenbankrecht und EU-Digitalregulierung.
-- [Compliance, Governance & interne Untersuchungen](/compliance-governance/index.md) — Querschnittliche Compliance: KI-VO, Geldwäsche, Hinweisgeberschutz, NIS-2, Insider und Berichtspflichten.
-- [Straf- & Ordnungswidrigkeitenrecht](/strafrecht-owi/index.md) — Materielles und prozessuales Strafrecht, Verteidigung, Staatsanwaltschaft und Bußgeldverfahren.
-- [Öffentliches Recht & Verwaltung](/oeffentliches-recht/index.md) — Verfassung, allgemeines und besonderes Verwaltungsrecht, Beamten-, Migrations-, Vergabe- und Bildungsrecht.
-- [Umwelt, Planung, Energie & Infrastruktur](/umwelt-planung-infrastruktur/index.md) — Umwelt-, Energie- und Telekommunikationsregulierung sowie Planung, Straßen und Infrastruktur.
-- [Sozial- & Gesundheitsrecht](/sozial-gesundheitsrecht/index.md) — Sozialgerichtsbarkeit, Kranken- und Rentenversicherung, Medizin-, Krankenhaus- und Apothekenrecht.
-- [Steuer-, Finanz- & Aufsichtsrecht](/steuer-finanz-aufsichtsrecht/index.md) — Steuerrecht, Bank- und Kapitalmarktrecht, Versicherung, Außenwirtschaft und Aufsichtsrecht.
-- [Prozess, Gericht & Vollstreckung](/prozess-vollstreckung/index.md) — Verfahrensführung, Aktenarbeit, Selbstvertretung, richterliche Praxis und Zwangsvollstreckung.
-- [Berufsrecht & Kanzleiorganisation](/berufsrecht-kanzlei/index.md) — Berufsrecht der rechts- und steuerberatenden Berufe sowie Kanzlei- und Mandatsmanagement.
-- [Verbraucher- & Alltagsrecht](/verbraucher-alltagsrecht/index.md) — Verbraucherschutz, Fahrgast-/Fluggastrechte, Produktrecht, Verkehr und Bürokratiehilfe für Laien.
-- [Internationales Recht & Rechtsvergleichung](/internationales-rechtsvergleichung/index.md) — Europarecht, Common Law, internationales Handelsrecht, US-Recht und Legal English.
-- [Branchen- & Spezialrecht](/branchen-spezialrecht/index.md) — Sektorspezifische Rechtsgebiete von Luft-, See- und Weltraumrecht über Sport und Mode bis Tierschutz und Verlag.
-- [Staat, Politik & Gesetzgebung](/staat-politik-gesetzgebung/index.md) — Gesetzgebungslehre, Parteien- und Wahlkampfrecht, Lobbyregister, Haushalt und Informationsfreiheit.
-- [Rechtsgeschichte & besondere Rechtsordnungen](/rechtsgeschichte/index.md) — Deutsche Rechtsgeschichte, römisches Recht, Preußisches Landrecht, Einigungsvertrag und Kirchenrecht.
-- [Werkzeuge & Dokumentenproduktion](/werkzeuge-dokumente/index.md) — Querschnittliche Werkzeuge für Dokumentenproduktion, Vorlagen, Tabellen-Review und Word-Integration.
+- [Methodik, Theorie & Studium](/methodik-grundlagen/index.md) - Juristische Methodenlehre, Rechtstheorie, Zitierweise, Sprache und Ausbildung. Die Querschnitts-Grundlage, auf der die anderen Gebiete aufsetzen.
+- [Bürgerliches Recht (BGB)](/buergerliches-recht/index.md) - Allgemeiner Teil, Schuldrecht und die mechanischen Prüf-Workflows des bürgerlichen Rechts.
+- [Vertrags- & AGB-Recht](/vertrags-agb-recht/index.md) - Vertragsgestaltung, AGB-Kontrolle nach §§ 305 ff. BGB, NDA und besondere Vertragstypen.
+- [Handels- & Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md) - HGB, GmbH/AG/Personengesellschaften, Organe, Gründung, Register und Verbände.
+- [M&A, Transaktionen & Beteiligungen](/ma-transaktionen/index.md) - Unternehmenskäufe, Corporate-Praxis, Private Equity, Venture Capital und Finanzierungsinstrumente.
+- [Insolvenz- & Sanierungsrecht](/insolvenz-sanierung/index.md) - InsO und StaRUG: Antrag, Anfechtung, Plan, Verwaltung, Krisenfrüherkennung und Liquidität.
+- [Arbeitsrecht & Personal](/arbeitsrecht-hr/index.md) - Individual- und Kollektivarbeitsrecht, Zeugnisse, betriebliche Altersversorgung und HR-Operations.
+- [Familien-, Betreuungs- & Erbrecht](/familien-betreuung-erbrecht/index.md) - Familiengericht, Betreuung nach BtOG sowie Erb- und Pflichtteilsrecht.
+- [Immobilien-, Bau- & Mietrecht](/immobilien-bau-mietrecht/index.md) - Grundstücke, Grundbuch, Bauträger, HOAI, WEG und Wohn-/Gewerberaummiete.
+- [Geistiges Eigentum, Wettbewerb & Medien](/geistiges-eigentum/index.md) - Marken, Patente, Design, Urheber-, Wettbewerbs-, Kartell- und Äußerungsrecht.
+- [IT-, Daten- & Digitalrecht](/it-daten-digitalrecht/index.md) - Datenschutz, Software, E-Commerce, Datenbankrecht und EU-Digitalregulierung.
+- [Compliance, Governance & interne Untersuchungen](/compliance-governance/index.md) - Querschnittliche Compliance: KI-VO, Geldwäsche, Hinweisgeberschutz, NIS-2, Insider und Berichtspflichten.
+- [Straf- & Ordnungswidrigkeitenrecht](/strafrecht-owi/index.md) - Materielles und prozessuales Strafrecht, Verteidigung, Staatsanwaltschaft und Bußgeldverfahren.
+- [Öffentliches Recht & Verwaltung](/oeffentliches-recht/index.md) - Verfassung, allgemeines und besonderes Verwaltungsrecht, Beamten-, Migrations-, Vergabe- und Bildungsrecht.
+- [Umwelt, Planung, Energie & Infrastruktur](/umwelt-planung-infrastruktur/index.md) - Umwelt-, Energie- und Telekommunikationsregulierung sowie Planung, Straßen und Infrastruktur.
+- [Sozial- & Gesundheitsrecht](/sozial-gesundheitsrecht/index.md) - Sozialgerichtsbarkeit, Kranken- und Rentenversicherung, Medizin-, Krankenhaus- und Apothekenrecht.
+- [Steuer-, Finanz- & Aufsichtsrecht](/steuer-finanz-aufsichtsrecht/index.md) - Steuerrecht, Bank- und Kapitalmarktrecht, Versicherung, Außenwirtschaft und Aufsichtsrecht.
+- [Prozess, Gericht & Vollstreckung](/prozess-vollstreckung/index.md) - Verfahrensführung, Aktenarbeit, Selbstvertretung, richterliche Praxis und Zwangsvollstreckung.
+- [Berufsrecht & Kanzleiorganisation](/berufsrecht-kanzlei/index.md) - Berufsrecht der rechts- und steuerberatenden Berufe sowie Kanzlei- und Mandatsmanagement.
+- [Verbraucher- & Alltagsrecht](/verbraucher-alltagsrecht/index.md) - Verbraucherschutz, Fahrgast-/Fluggastrechte, Produktrecht, Verkehr und Bürokratiehilfe für Laien.
+- [Internationales Recht & Rechtsvergleichung](/internationales-rechtsvergleichung/index.md) - Europarecht, Common Law, internationales Handelsrecht, US-Recht und Legal English.
+- [Branchen- & Spezialrecht](/branchen-spezialrecht/index.md) - Sektorspezifische Rechtsgebiete von Luft-, See- und Weltraumrecht über Sport und Mode bis Tierschutz und Verlag.
+- [Staat, Politik & Gesetzgebung](/staat-politik-gesetzgebung/index.md) - Gesetzgebungslehre, Parteien- und Wahlkampfrecht, Lobbyregister, Haushalt und Informationsfreiheit.
+- [Rechtsgeschichte & besondere Rechtsordnungen](/rechtsgeschichte/index.md) - Deutsche Rechtsgeschichte, römisches Recht, Preußisches Landrecht, Einigungsvertrag und Kirchenrecht.
+- [Werkzeuge & Dokumentenproduktion](/werkzeuge-dokumente/index.md) - Querschnittliche Werkzeuge für Dokumentenproduktion, Vorlagen, Tabellen-Review und Word-Integration.
 
 # Wo anfangen
 

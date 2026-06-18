@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "Regulatorisches Recht"
-description: "Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest."
+description: "Aufsichtsrecht - KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/regulatorisches-recht
 tags: [regulatorisches, aufsichtsrecht, kwg, zag, wphg, gwg, enwg, tkg, heilmwerbg, umsatzsteuer-voranmeldung]
 plugin_slug: regulatorisches-recht
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-Aufsichtsrecht – KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.
+Aufsichtsrecht - KWG, ZAG, WpHG, GwG, EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds, Wochendigest.
 
 Teil des Rechtsgebiets [Steuer-, Finanz- & Aufsichtsrecht](/steuer-finanz-aufsichtsrecht/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **61 Skills** (Stand v335.0.0).
 

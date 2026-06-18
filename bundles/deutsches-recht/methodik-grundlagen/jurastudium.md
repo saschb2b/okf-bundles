@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "Jurastudium"
-description: "Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung."
+description: "Studium und Referendariat - Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/jurastudium
 tags: [jurastudium, studium, referendariat, pruefungsgespraech, nach, ag-tradition, subsumtionslehre, methodenlehre, zivilrecht, strafrecht]
 plugin_slug: jurastudium
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung.
+Studium und Referendariat - Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung.
 
 Teil des Rechtsgebiets [Methodik, Theorie & Studium](/methodik-grundlagen/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **58 Skills** (Stand v335.0.0).
 

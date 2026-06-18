@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "Aktenaufbereiter Strafrecht"
-description: "Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere."
+description: "Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten - Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/aktenaufbereiter-strafrecht
 tags: [strafrecht, strafverteidigung, aktenaufbereitung, wirtschaftsstrafrecht, btm-verfahren, personenverzeichnis, chronologie, tatkomplex, beziehungsverzeichnis, fristen]
 plugin_slug: aktenaufbereiter-strafrecht
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere.
+Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten - Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie; Fristen. Fortlaufend ergaenzbar. Erkennt Luecken und Widersprueche. Kein Ersatz für Aktenlektuere.
 
 Teil des Rechtsgebiets [Straf- & Ordnungswidrigkeitenrecht](/strafrecht-owi/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **59 Skills** (Stand v335.0.0).
 

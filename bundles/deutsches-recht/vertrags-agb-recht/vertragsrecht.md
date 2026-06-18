@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "Vertragsrecht"
-description: "Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen."
+description: "Vertragsrecht - Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/vertragsrecht
 tags: [vertragsrecht, lieferanten, vertriebsvertraege, agb, bgb, nda, saas, msa-review, renewal-tracking, eskalations-routing]
 plugin_slug: vertragsrecht
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-Vertragsrecht – Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen.
+Vertragsrecht - Lieferanten- und Vertriebsverträge, AGB §§ 305 ff. BGB, NDA, SaaS-/MSA-Review, Renewal-Tracking, Eskalations-Routing, Business-Zusammenfassungen.
 
 Teil des Rechtsgebiets [Vertrags- & AGB-Recht](/vertrags-agb-recht/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **59 Skills** (Stand v335.0.0).
 

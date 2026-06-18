@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "Memorandums Ersteller"
-description: "Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher."
+description: "Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung - Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/memorandums-ersteller
 tags: [memorandum, mandatsaufbereitung, sachverhaltserfassung, piercing-questions, quellenreferenzierung, ein-satz-frage, ein-satz-antwort, juristische-pruefung, anspruchsgrundlage, subsumtion]
 plugin_slug: memorandums-ersteller
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung — Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher.
+Wandelt Mandantenunterlagen in ein juristisches Memorandum mit Vier-Teile-Gliederung - Sachverhalt mit Quellenreferenz; Ein-Satz-Fragen; Ein-Satz-Antworten; rechtliche Ausführungen mit Pinpoint-Zitierung. Optional Piercing-Questions. Rechtsgebietsneutral. Alias Memorandumsmacher.
 
 Teil des Rechtsgebiets [Werkzeuge & Dokumentenproduktion](/werkzeuge-dokumente/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **58 Skills** (Stand v335.0.0).
 

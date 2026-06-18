@@ -1,7 +1,7 @@
 ---
 type: Rechts-Plugin
 title: "Gesellschaftsrecht: Legal English"
-description: "Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte."
+description: "Didaktisches Gesellschaftsrecht - English Business Terms: Corporate Legal English für Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte."
 resource: https://github.com/Klotzkette/claude-fuer-deutsches-recht/tree/main/gesellschaftsrecht-legal-english
 tags: [gesellschaftsrecht, corporate-legal-english, ma, venture-capital, startup, cap-table, term-sheet, shareholders-agreement, liquidation-preference, anti-dilution]
 plugin_slug: gesellschaftsrecht-legal-english
@@ -13,7 +13,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Überblick
 
-Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English für Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte.
+Didaktisches Gesellschaftsrecht - English Business Terms: Corporate Legal English für Big-Law-Anfaenger. Dealroom: Cap Table vs Gesellschafterliste; Term Sheet; SHA; Vesting; Drag/Tag; Liquidation Preference; Anti-Dilution; SPA; DD; Notar/HR; Multi-Format-Auswertung; Frankfurt-Startup-Akte.
 
 Teil des Rechtsgebiets [Internationales Recht & Rechtsvergleichung](/internationales-rechtsvergleichung/index.md) in der Sammlung [claude-fuer-deutsches-recht](/references/claude-fuer-deutsches-recht.md). Das Plugin bündelt **53 Skills** (Stand v335.0.0).
 
