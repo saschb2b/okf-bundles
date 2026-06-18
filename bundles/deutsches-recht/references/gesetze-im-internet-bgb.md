@@ -50,6 +50,8 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | KSchG | Kündigungsschutzgesetz (§§ 1, 4, 7, 23) | https://www.gesetze-im-internet.de/kschg/ |
 | TzBfG | Teilzeit- und Befristungsgesetz (§§ 14, 17) | https://www.gesetze-im-internet.de/tzbfg/ |
 | StGB | Strafgesetzbuch, Allgemeiner Teil (§§ 15-35, 22-27) | https://www.gesetze-im-internet.de/stgb/ |
+| VwVfG | Verwaltungsverfahrensgesetz (§§ 35, 36, 48, 49) | https://www.gesetze-im-internet.de/vwvfg/ |
+| VwGO | Verwaltungsgerichtsordnung (§§ 42, 68, 70, 113) | https://www.gesetze-im-internet.de/vwgo/ |
 
 # Hinweis
 

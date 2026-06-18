@@ -131,6 +131,16 @@ Die allgemeinen Lehren jeder Straftat.
 - [Versuch und Rücktritt (§§ 22 bis 24)](strafrecht-at/versuch-und-ruecktritt-22-24.md) - Unmittelbares Ansetzen, Straflosigkeit.
 - [Täterschaft und Teilnahme (§§ 25 bis 27)](strafrecht-at/taeterschaft-und-teilnahme-25-27.md) - Täter, Anstifter, Gehilfe.
 
+# Allgemeines Verwaltungsrecht (VwVfG, VwGO)
+
+Verwaltungshandeln und Verwaltungsprozess.
+
+- [Verwaltungsakt (§ 35 VwVfG)](verwaltungsrecht/verwaltungsakt-35.md) - Die zentrale Handlungsform und ihre Merkmale.
+- [Nebenbestimmungen (§ 36 VwVfG)](verwaltungsrecht/nebenbestimmungen-36.md) - Befristung, Bedingung, Auflage, Vorbehalte.
+- [Rücknahme und Widerruf (§§ 48, 49 VwVfG)](verwaltungsrecht/ruecknahme-widerruf-48-49.md) - Aufhebung durch die Behörde, Vertrauensschutz.
+- [Klagearten (§ 42 VwGO)](verwaltungsrecht/klagearten-42-vwgo.md) - Anfechtungs- und Verpflichtungsklage, Klagebefugnis.
+- [Widerspruchsverfahren (§ 68 VwGO)](verwaltungsrecht/widerspruchsverfahren-68-vwgo.md) - Das behördliche Vorverfahren.
+
 # Referenzen
 
 - [Amtliche Quellen](references/index.md) - Der belegte Normtext, an dem dieses Bündel hängt.
