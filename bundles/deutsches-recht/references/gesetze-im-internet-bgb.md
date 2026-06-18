@@ -33,6 +33,7 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | BGB Allgemeiner Teil | §§ 104 bis 113, 119 bis 124, 125 bis 129, 130, 133, 142, 143, 145 bis 157, 164 bis 181, 194 bis 218 |
 | Schuldrecht AT (Leistungsstörungen) | §§ 275, 276, 278, 280, 281, 283, 286, 288, 311a, 323, 326, 346 |
 | Kaufrecht | §§ 433, 434, 437, 438, 439, 440, 441, 474, 476, 477 |
+| Deliktsrecht und Schadensrecht | §§ 249 bis 254, 823, 826, 831 |
 
 Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
 

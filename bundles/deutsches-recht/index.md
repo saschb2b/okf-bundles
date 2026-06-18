@@ -51,6 +51,17 @@ Der Kaufvertrag und die Mängelrechte nach der Reform 2022.
 - [Verjährung (§ 438)](kaufrecht/verjaehrung-438.md) - Regelmäßig zwei Jahre.
 - [Verbrauchsgüterkauf (§§ 474 ff.)](kaufrecht/verbrauchsgueterkauf.md) - Schutz beim Verkauf an Verbraucher.
 
+# Deliktsrecht (§§ 823 ff. BGB)
+
+Die gesetzliche Haftung für unerlaubte Handlungen, auch ohne Vertrag.
+
+- [Grundtatbestand (§ 823 Abs. 1)](deliktsrecht/grundtatbestand-823-1.md) - Verletzung absoluter Rechtsgüter.
+- [Schutzgesetzverletzung (§ 823 Abs. 2)](deliktsrecht/schutzgesetzverletzung-823-2.md) - Verstoß gegen ein Schutzgesetz.
+- [Vorsätzliche sittenwidrige Schädigung (§ 826)](deliktsrecht/sittenwidrige-schaedigung-826.md) - Auch reine Vermögensschäden.
+- [Haftung für den Verrichtungsgehilfen (§ 831)](deliktsrecht/verrichtungsgehilfe-831.md) - Eigene Haftung mit Exkulpation.
+- [Schadensersatzrecht (§§ 249 bis 253)](deliktsrecht/schadensersatzrecht-249-253.md) - Naturalrestitution, Schmerzensgeld.
+- [Mitverschulden (§ 254)](deliktsrecht/mitverschulden-254.md) - Quotelung bei eigenem Beitrag.
+
 # AGB-Kontrolle (§§ 305 bis 310 BGB)
 
 Die Kontrolle vorformulierter Vertragsbedingungen.

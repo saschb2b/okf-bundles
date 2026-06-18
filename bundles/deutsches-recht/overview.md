@@ -1,7 +1,7 @@
 ---
 type: Overview
 title: "Deutsches Recht: Überblick"
-description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind Methodik, BGB Allgemeiner Teil, Schuldrecht AT, Kaufrecht und AGB-Kontrolle.
+description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind Methodik, BGB Allgemeiner Teil, Schuldrecht AT, Kaufrecht, Deliktsrecht und AGB-Kontrolle.
 tags: [deutsches-recht, agb-recht, bgb]
 timestamp: 2026-06-18T12:00:00Z
 ---
@@ -12,7 +12,7 @@ Dieses Bündel hält fest, **was im deutschen Recht gilt**, in Form belegter Kon
 
 # Aufbau
 
-Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt als viele Gebiete oberflächlich. Ausgearbeitet sind die zivilrechtliche Grundlage und ihre erste Vertiefung: die [Methodik](/methodik/index.md), der [BGB Allgemeine Teil](/bgb-at/index.md), das [Schuldrecht AT](/schuldrecht-at/index.md) mit den Leistungsstörungen, das [Kaufrecht](/kaufrecht/index.md) und die [AGB-Kontrolle](/agb-kontrolle/index.md). Weitere Gebiete (etwa Bereicherungs- und Deliktsrecht, Arbeits-, Miet- oder Strafrecht) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.
+Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt als viele Gebiete oberflächlich. Ausgearbeitet sind die zivilrechtliche Grundlage und ihre erste Vertiefung: die [Methodik](/methodik/index.md), der [BGB Allgemeine Teil](/bgb-at/index.md), das [Schuldrecht AT](/schuldrecht-at/index.md) mit den Leistungsstörungen, das [Kaufrecht](/kaufrecht/index.md), das [Deliktsrecht](/deliktsrecht/index.md) und die [AGB-Kontrolle](/agb-kontrolle/index.md). Weitere Gebiete (etwa Bereicherungsrecht, Arbeits-, Miet- oder Strafrecht) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.
 
 # Wo anfangen
 
