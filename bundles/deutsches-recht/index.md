@@ -72,6 +72,18 @@ Die Rückabwicklung rechtsgrundloser Vermögensverschiebungen.
 - [Verschärfte Haftung (§§ 818 Abs. 4, 819)](bereicherungsrecht/verschaerfte-haftung-819.md) - Bei Bösgläubigkeit.
 - [Ausschluss der Rückforderung (§§ 814, 817)](bereicherungsrecht/ausschluss-814-817.md) - Kenntnis der Nichtschuld, beiderseitiger Verstoß.
 
+# Sachenrecht (§§ 854 ff. BGB)
+
+Besitz, Eigentum und die Ansprüche des Eigentümers.
+
+- [Trennungs- und Abstraktionsprinzip](sachenrecht/abstraktionsprinzip.md) - Verpflichtung und Verfügung getrennt und unabhängig.
+- [Besitz (§§ 854, 858, 861)](sachenrecht/besitz-854.md) - Tatsächliche Sachherrschaft und ihr Schutz.
+- [Eigentumserwerb an beweglichen Sachen (§ 929)](sachenrecht/eigentumserwerb-bewegliche-929.md) - Einigung und Übergabe.
+- [Gutgläubiger Erwerb (§§ 932, 935)](sachenrecht/gutglaeubiger-erwerb-932.md) - Erwerb vom Nichtberechtigten.
+- [Eigentumserwerb an Grundstücken (§§ 873, 925)](sachenrecht/eigentumserwerb-grundstueck-873-925.md) - Auflassung und Eintragung.
+- [Herausgabeanspruch (§§ 985, 986)](sachenrecht/herausgabeanspruch-985.md) - Vindikation, Recht zum Besitz.
+- [Beseitigung und Unterlassung (§ 1004)](sachenrecht/beseitigung-unterlassung-1004.md) - Der negatorische Anspruch.
+
 # AGB-Kontrolle (§§ 305 bis 310 BGB)
 
 Die Kontrolle vorformulierter Vertragsbedingungen.

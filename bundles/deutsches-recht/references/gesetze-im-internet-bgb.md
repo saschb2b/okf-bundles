@@ -37,6 +37,7 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | Bereicherungsrecht | §§ 812, 814, 817, 818, 819 |
 | Mietrecht (Wohnraum) | §§ 535, 536, 536a, 551, 556, 556d, 558, 573, 573c |
 | Arbeitsrecht (BGB-Teil) | §§ 611a, 622, 626 |
+| Sachenrecht | §§ 854, 858, 861, 873, 892, 925, 929 bis 935, 985, 986, 1004 |
 
 Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
 
