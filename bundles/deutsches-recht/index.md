@@ -62,6 +62,16 @@ Die gesetzliche Haftung für unerlaubte Handlungen, auch ohne Vertrag.
 - [Schadensersatzrecht (§§ 249 bis 253)](deliktsrecht/schadensersatzrecht-249-253.md) - Naturalrestitution, Schmerzensgeld.
 - [Mitverschulden (§ 254)](deliktsrecht/mitverschulden-254.md) - Quotelung bei eigenem Beitrag.
 
+# Bereicherungsrecht (§§ 812 ff. BGB)
+
+Die Rückabwicklung rechtsgrundloser Vermögensverschiebungen.
+
+- [Leistungskondiktion (§ 812 Abs. 1)](bereicherungsrecht/leistungskondiktion-812.md) - Rückforderung des ohne Rechtsgrund Geleisteten.
+- [Nichtleistungskondiktion (§ 812 Abs. 1)](bereicherungsrecht/nichtleistungskondiktion-812.md) - Eingriff, Verwendung, Rückgriff.
+- [Umfang der Herausgabe (§ 818)](bereicherungsrecht/umfang-818.md) - Nutzungen, Wertersatz, Entreicherung.
+- [Verschärfte Haftung (§§ 818 Abs. 4, 819)](bereicherungsrecht/verschaerfte-haftung-819.md) - Bei Bösgläubigkeit.
+- [Ausschluss der Rückforderung (§§ 814, 817)](bereicherungsrecht/ausschluss-814-817.md) - Kenntnis der Nichtschuld, beiderseitiger Verstoß.
+
 # AGB-Kontrolle (§§ 305 bis 310 BGB)
 
 Die Kontrolle vorformulierter Vertragsbedingungen.
