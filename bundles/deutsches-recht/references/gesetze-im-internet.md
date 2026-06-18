@@ -54,6 +54,8 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | StGB | Strafgesetzbuch, Allgemeiner Teil (§§ 15-35, 22-27) | https://www.gesetze-im-internet.de/stgb/ |
 | VwVfG | Verwaltungsverfahrensgesetz (§§ 35, 36, 48, 49) | https://www.gesetze-im-internet.de/vwvfg/ |
 | VwGO | Verwaltungsgerichtsordnung (§§ 42, 68, 70, 113) | https://www.gesetze-im-internet.de/vwgo/ |
+| HGB | Handelsgesetzbuch (§§ 1, 2, 5, 15, 48 bis 50, 105, 161) | https://www.gesetze-im-internet.de/hgb/ |
+| GmbHG | GmbH-Gesetz (§§ 1, 5, 5a, 11, 13, 43) | https://www.gesetze-im-internet.de/gmbhg/ |
 
 # Hinweis
 

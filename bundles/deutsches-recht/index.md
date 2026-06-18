@@ -162,6 +162,17 @@ Verwaltungshandeln und Verwaltungsprozess.
 - [Klagearten (§ 42 VwGO)](verwaltungsrecht/klagearten-42-vwgo.md) - Anfechtungs- und Verpflichtungsklage, Klagebefugnis.
 - [Widerspruchsverfahren (§ 68 VwGO)](verwaltungsrecht/widerspruchsverfahren-68-vwgo.md) - Das behördliche Vorverfahren.
 
+# Handels- und Gesellschaftsrecht (HGB, GmbHG, BGB)
+
+Kaufmannsrecht und die Rechtsformen des Unternehmens.
+
+- [Kaufmann (§§ 1, 2, 5 HGB)](handels-gesellschaftsrecht/kaufmann-1-hgb.md) - Wer dem Handelsrecht unterliegt.
+- [Publizität des Handelsregisters (§ 15 HGB)](handels-gesellschaftsrecht/handelsregister-publizitaet-15-hgb.md) - Negative und positive Publizität.
+- [Prokura (§§ 48 bis 50 HGB)](handels-gesellschaftsrecht/prokura-48-hgb.md) - Umfang und Unbeschränkbarkeit.
+- [Personengesellschaften (§ 705 BGB, HGB)](handels-gesellschaftsrecht/personengesellschaften.md) - GbR nach MoPeG, OHG, KG; persönliche Haftung.
+- [GmbH (§§ 1, 5, 11, 13 GmbHG)](handels-gesellschaftsrecht/gmbh.md) - Gründung, Stammkapital, Haftungsbeschränkung.
+- [Geschäftsführerhaftung (§ 43 GmbHG)](handels-gesellschaftsrecht/geschaeftsfuehrerhaftung-43-gmbhg.md) - Sorgfalt eines ordentlichen Geschäftsmanns.
+
 # Referenzen
 
 - [Amtliche Quellen](references/index.md) - Der belegte Normtext, an dem dieses Bündel hängt.
