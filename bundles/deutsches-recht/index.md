@@ -84,6 +84,17 @@ Besitz, Eigentum und die Ansprüche des Eigentümers.
 - [Herausgabeanspruch (§§ 985, 986)](sachenrecht/herausgabeanspruch-985.md) - Vindikation, Recht zum Besitz.
 - [Beseitigung und Unterlassung (§ 1004)](sachenrecht/beseitigung-unterlassung-1004.md) - Der negatorische Anspruch.
 
+# Erbrecht (§§ 1922 ff. BGB)
+
+Gesetzliche und gewillkürte Erbfolge, Pflichtteil und Erbenhaftung.
+
+- [Gesetzliche Erbfolge (§§ 1924 ff.)](erbrecht/gesetzliche-erbfolge-1924.md) - Ordnungen, Stämme, Repräsentation.
+- [Ehegattenerbrecht (§ 1931)](erbrecht/ehegattenerbrecht-1931.md) - Quoten und Güterstand.
+- [Testament und Form (§§ 1937, 2247)](erbrecht/testament-2247.md) - Testierfähigkeit, eigenhändiges und öffentliches Testament.
+- [Pflichtteil (§ 2303)](erbrecht/pflichtteil-2303.md) - Halber gesetzlicher Erbteil als Geldanspruch.
+- [Annahme und Ausschlagung (§§ 1942 ff.)](erbrecht/annahme-ausschlagung-1942.md) - Anfall und Sechs-Wochen-Frist.
+- [Haftung des Erben (§§ 1967 ff.)](erbrecht/haftung-erben-1967.md) - Nachlassverbindlichkeiten, Haftungsbeschränkung.
+
 # AGB-Kontrolle (§§ 305 bis 310 BGB)
 
 Die Kontrolle vorformulierter Vertragsbedingungen.

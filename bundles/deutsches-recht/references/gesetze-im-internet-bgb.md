@@ -38,6 +38,7 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | Mietrecht (Wohnraum) | §§ 535, 536, 536a, 551, 556, 556d, 558, 573, 573c |
 | Arbeitsrecht (BGB-Teil) | §§ 611a, 622, 626 |
 | Sachenrecht | §§ 854, 858, 861, 873, 892, 925, 929 bis 935, 985, 986, 1004 |
+| Erbrecht | §§ 1922, 1924 bis 1931, 1937, 1942 bis 1944, 1967, 1975, 2247, 2303 |
 
 Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
 
