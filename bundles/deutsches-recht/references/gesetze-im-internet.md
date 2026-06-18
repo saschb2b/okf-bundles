@@ -56,6 +56,8 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | VwGO | Verwaltungsgerichtsordnung (§§ 42, 68, 70, 113) | https://www.gesetze-im-internet.de/vwgo/ |
 | HGB | Handelsgesetzbuch (§§ 1, 2, 5, 15, 48 bis 50, 105, 161) | https://www.gesetze-im-internet.de/hgb/ |
 | GmbHG | GmbH-Gesetz (§§ 1, 5, 5a, 11, 13, 43) | https://www.gesetze-im-internet.de/gmbhg/ |
+| GG | Grundgesetz (Art. 1, 3, 20, 79, 93) | https://www.gesetze-im-internet.de/gg/ |
+| BVerfGG | Gesetz über das Bundesverfassungsgericht (§§ 90, 93) | https://www.gesetze-im-internet.de/bverfgg/ |
 
 # Hinweis
 

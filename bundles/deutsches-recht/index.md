@@ -173,6 +173,17 @@ Kaufmannsrecht und die Rechtsformen des Unternehmens.
 - [GmbH (§§ 1, 5, 11, 13 GmbHG)](handels-gesellschaftsrecht/gmbh.md) - Gründung, Stammkapital, Haftungsbeschränkung.
 - [Geschäftsführerhaftung (§ 43 GmbHG)](handels-gesellschaftsrecht/geschaeftsfuehrerhaftung-43-gmbhg.md) - Sorgfalt eines ordentlichen Geschäftsmanns.
 
+# Verfassungsrecht (Grundgesetz)
+
+Grundrechte und Staatsorganisation.
+
+- [Grundrechte: Funktionen und Prüfung](verfassungsrecht/grundrechte-grundlagen.md) - Abwehrrecht, Schutzpflicht; Schutzbereich, Eingriff, Rechtfertigung.
+- [Menschenwürde (Art. 1 GG)](verfassungsrecht/menschenwuerde-1-gg.md) - Unantastbar, Ewigkeitsgarantie.
+- [Gleichheitssatz (Art. 3 GG)](verfassungsrecht/gleichheitssatz-3-gg.md) - Allgemeiner Gleichheitssatz, Benachteiligungsverbote.
+- [Verhältnismäßigkeit](verfassungsrecht/verhaeltnismaessigkeit.md) - Legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit.
+- [Staatsstrukturprinzipien (Art. 20 GG)](verfassungsrecht/staatsstrukturprinzipien-20-gg.md) - Demokratie, Rechtsstaat, Sozialstaat, Bundesstaat.
+- [Verfassungsbeschwerde (Art. 93 GG)](verfassungsrecht/verfassungsbeschwerde-93.md) - Rechtsschutz vor dem BVerfG.
+
 # Referenzen
 
 - [Amtliche Quellen](references/index.md) - Der belegte Normtext, an dem dieses Bündel hängt.
