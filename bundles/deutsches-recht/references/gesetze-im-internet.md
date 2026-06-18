@@ -1,10 +1,10 @@
 ---
 type: Reference
 title: "Gesetze im Internet (amtliche Quellen)"
-description: Das amtliche Portal mit dem geltenden Bundesrecht in konsolidierter Fassung; primäre Fundstelle für den Normtext aller Konzepte dieses Bündels (BGB, StGB, VwVfG, VwGO, KSchG, TzBfG).
+description: Das amtliche Portal mit dem geltenden Bundesrecht in konsolidierter Fassung; primäre Fundstelle für den Normtext nahezu aller Konzepte dieses Bündels (BGB, HGB, GmbHG, StGB, ZPO, GG, SGB und weitere); das Unionsrecht steht bei EUR-Lex.
 resource: https://www.gesetze-im-internet.de/
 tags: [external, primary-source, amtlich, bgb, stgb]
-timestamp: 2026-06-18T12:00:00Z
+timestamp: 2026-06-19T12:00:00Z
 ---
 
 # Zusammenfassung
@@ -41,6 +41,7 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | Sachenrecht | §§ 854, 858, 861, 873, 892, 925, 929 bis 935, 985, 986, 1004 |
 | Erbrecht | §§ 1922, 1924 bis 1931, 1937, 1942 bis 1944, 1967, 1975, 2247, 2303 |
 | Familienrecht | §§ 1363, 1365, 1373, 1378, 1565, 1566, 1601, 1603, 1626, 1671 |
+| Gesellschaftsrecht (BGB-Teil) | §§ 705, 721 (GbR nach MoPeG 2024) |
 
 Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
 
@@ -66,7 +67,7 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 
 # Hinweis
 
-Konsolidierte Fassungen geben den geltenden Stand wieder, sind aber kein amtliches Verkündungsorgan. Der Abrufstand dieses Bündels ist 2026-06-18; für den tagesaktuellen Stand ist die Quelle erneut zu prüfen.
+Konsolidierte Fassungen geben den geltenden Stand wieder, sind aber kein amtliches Verkündungsorgan. Der Abrufstand dieses Bündels ist der 18. und 19. Juni 2026; für den tagesaktuellen Stand ist die Quelle erneut zu prüfen.
 
 # Citations
 

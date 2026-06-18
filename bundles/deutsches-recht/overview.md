@@ -32,4 +32,4 @@ Weitere Gebiete (etwa das Strafprozessrecht oder das Steuerrecht) folgen nach de
 
 # Normstand und Haftung
 
-Die Konzepte geben den Normtext und die gefestigte Dogmatik wieder, Stand 2026-06-18, belegt an der amtlichen Fassung. Sie sind **keine Rechtsberatung**. Den aktuellen Normstand, Rechtsprechung und Literatur prüft die Nutzerin oder der Nutzer eigenverantwortlich; Gesetze ändern sich, und die amtliche Fundstelle in jedem Konzept ist der Weg zur Gegenprüfung.
+Die Konzepte geben den Normtext und die gefestigte Dogmatik wieder, Stand Juni 2026, belegt an der amtlichen Fassung. Sie sind **keine Rechtsberatung**. Den aktuellen Normstand, Rechtsprechung und Literatur prüft die Nutzerin oder der Nutzer eigenverantwortlich; Gesetze ändern sich, und die amtliche Fundstelle in jedem Konzept ist der Weg zur Gegenprüfung.
