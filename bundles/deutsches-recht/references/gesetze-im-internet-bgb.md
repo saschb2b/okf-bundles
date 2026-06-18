@@ -1,0 +1,45 @@
+---
+type: Reference
+title: "BGB bei gesetze-im-internet.de"
+description: Amtliche, konsolidierte Fassung des Bürgerlichen Gesetzbuchs; primäre Fundstelle für den Normtext der §§ 305 bis 310 BGB.
+resource: https://www.gesetze-im-internet.de/bgb/
+tags: [external, bgb, primary-source, amtlich]
+timestamp: 2026-06-18T12:00:00Z
+---
+
+# Zusammenfassung
+
+`gesetze-im-internet.de` ist das gemeinsame Portal des Bundesministeriums der Justiz und des Bundesamts für Justiz, das das geltende Bundesrecht in konsolidierter Fassung bereitstellt. Es ist die maßgebliche, frei zugängliche Quelle für den Wortlaut des BGB und damit für jedes Konzept im Gebiet AGB-Kontrolle dieses Bündels.
+
+# Einzelnormen (AGB-Recht)
+
+| Norm | Gegenstand | Fundstelle |
+|------|------------|------------|
+| § 305 | Einbeziehung; Begriff der AGB | https://www.gesetze-im-internet.de/bgb/__305.html |
+| § 305b | Vorrang der Individualabrede | https://www.gesetze-im-internet.de/bgb/__305b.html |
+| § 305c | Überraschende und mehrdeutige Klauseln | https://www.gesetze-im-internet.de/bgb/__305c.html |
+| § 306 | Rechtsfolgen bei Nichteinbeziehung und Unwirksamkeit | https://www.gesetze-im-internet.de/bgb/__306.html |
+| § 307 | Inhaltskontrolle | https://www.gesetze-im-internet.de/bgb/__307.html |
+| § 308 | Klauselverbote mit Wertungsmöglichkeit | https://www.gesetze-im-internet.de/bgb/__308.html |
+| § 309 | Klauselverbote ohne Wertungsmöglichkeit | https://www.gesetze-im-internet.de/bgb/__309.html |
+| § 310 | Anwendungsbereich | https://www.gesetze-im-internet.de/bgb/__310.html |
+
+# Einzelnormen (übrige Gebiete)
+
+Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm konkret herangezogenen Paragraphen.
+
+| Gebiet | Zentrale Normen |
+|--------|-----------------|
+| BGB Allgemeiner Teil | §§ 104 bis 113, 119 bis 124, 125 bis 129, 130, 133, 142, 143, 145 bis 157, 164 bis 181, 194 bis 218 |
+| Schuldrecht AT (Leistungsstörungen) | §§ 275, 276, 278, 280, 281, 283, 286, 288, 311a, 323, 326, 346 |
+| Kaufrecht | §§ 433, 434, 437, 438, 439, 440, 441, 474, 476, 477 |
+
+Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
+
+# Hinweis
+
+Konsolidierte Fassungen geben den geltenden Stand wieder, sind aber kein amtliches Verkündungsorgan. Der Abrufstand dieses Bündels ist 2026-06-18; für den tagesaktuellen Stand ist die Quelle erneut zu prüfen.
+
+# Citations
+
+[1] [Bürgerliches Gesetzbuch (BGB)](https://www.gesetze-im-internet.de/bgb/)

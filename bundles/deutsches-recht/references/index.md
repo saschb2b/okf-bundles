@@ -1,5 +1,5 @@
 # Referenzen
 
-Externe Quellen, die dieser Bundle spiegelt und zitiert.
+Amtliche Quellen, an denen die Konzepte dieses Bündels belegt sind.
 
-- [claude-fuer-deutsches-recht (Quell-Repository)](claude-fuer-deutsches-recht.md) - Die experimentelle Plugin-Sammlung, aus der dieser Katalog erzeugt wurde.
+- [BGB bei gesetze-im-internet.de](gesetze-im-internet-bgb.md) - Amtliche konsolidierte Fassung des BGB, Fundstelle für §§ 305 bis 310.
