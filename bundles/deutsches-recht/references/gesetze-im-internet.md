@@ -1,15 +1,15 @@
 ---
 type: Reference
-title: "BGB bei gesetze-im-internet.de"
-description: Amtliche, konsolidierte Fassung des Bürgerlichen Gesetzbuchs; primäre Fundstelle für den Normtext der §§ 305 bis 310 BGB.
-resource: https://www.gesetze-im-internet.de/bgb/
-tags: [external, bgb, primary-source, amtlich]
+title: "Gesetze im Internet (amtliche Quellen)"
+description: Das amtliche Portal mit dem geltenden Bundesrecht in konsolidierter Fassung; primäre Fundstelle für den Normtext aller Konzepte dieses Bündels (BGB, StGB, VwVfG, VwGO, KSchG, TzBfG).
+resource: https://www.gesetze-im-internet.de/
+tags: [external, primary-source, amtlich, bgb, stgb]
 timestamp: 2026-06-18T12:00:00Z
 ---
 
 # Zusammenfassung
 
-`gesetze-im-internet.de` ist das gemeinsame Portal des Bundesministeriums der Justiz und des Bundesamts für Justiz, das das geltende Bundesrecht in konsolidierter Fassung bereitstellt. Es ist die maßgebliche, frei zugängliche Quelle für den Wortlaut des BGB und damit für jedes Konzept im Gebiet AGB-Kontrolle dieses Bündels.
+`gesetze-im-internet.de` ist das gemeinsame Portal des Bundesministeriums der Justiz und des Bundesamts für Justiz, das das geltende Bundesrecht in konsolidierter Fassung bereitstellt. Es ist die maßgebliche, frei zugängliche Quelle für den Wortlaut der in diesem Bündel zitierten Vorschriften, vom BGB über das StGB bis zu den Verfahrensgesetzen. Die folgenden Tabellen führen die je Gebiet herangezogenen Normen auf; jedes Konzept verlinkt zusätzlich seine konkrete Fundstelle.
 
 # Einzelnormen (AGB-Recht)
 
@@ -61,4 +61,5 @@ Konsolidierte Fassungen geben den geltenden Stand wieder, sind aber kein amtlich
 
 # Citations
 
-[1] [Bürgerliches Gesetzbuch (BGB)](https://www.gesetze-im-internet.de/bgb/)
+[1] [Gesetze im Internet (Bundesrecht konsolidiert)](https://www.gesetze-im-internet.de/)
+[2] [Bürgerliches Gesetzbuch (BGB)](https://www.gesetze-im-internet.de/bgb/)

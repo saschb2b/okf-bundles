@@ -2,4 +2,4 @@
 
 Amtliche Quellen, an denen die Konzepte dieses Bündels belegt sind.
 
-- [BGB bei gesetze-im-internet.de](gesetze-im-internet-bgb.md) - Amtliche konsolidierte Fassung des BGB, Fundstelle für §§ 305 bis 310.
+- [Gesetze im Internet (amtliche Quellen)](gesetze-im-internet.md) - Das amtliche Portal des geltenden Bundesrechts; Fundstelle für BGB, StGB, VwVfG, VwGO und die weiteren zitierten Gesetze.

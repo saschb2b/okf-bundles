@@ -8,7 +8,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Was das ist
 
-Dieses Bündel hält fest, **was im deutschen Recht gilt**, in Form belegter Konzepte am Gesetzestext. Jedes Konzept beschreibt eine Norm oder eine Dogmatik (Tatbestand, Rechtsfolge, Prüfung), nennt die Vorschrift und verlinkt die amtliche Fundstelle bei [gesetze-im-internet.de](/references/gesetze-im-internet-bgb.md). Es ist eine Wissensquelle, die ein Agent zum Argumentieren heranzieht, kein Werkzeug und keine Liste von Werkzeugen.
+Dieses Bündel hält fest, **was im deutschen Recht gilt**, in Form belegter Konzepte am Gesetzestext. Jedes Konzept beschreibt eine Norm oder eine Dogmatik (Tatbestand, Rechtsfolge, Prüfung), nennt die Vorschrift und verlinkt die amtliche Fundstelle bei [gesetze-im-internet.de](/references/gesetze-im-internet.md). Es ist eine Wissensquelle, die ein Agent zum Argumentieren heranzieht, kein Werkzeug und keine Liste von Werkzeugen.
 
 # Aufbau
 
