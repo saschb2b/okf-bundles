@@ -107,6 +107,18 @@ Pflichten, Mängel, Betriebskosten, Kaution, Mieterhöhung und Kündigung bei Wo
 - [Mieterhöhung (§ 558)](mietrecht/mieterhoehung-558.md) - Vergleichsmiete und Kappungsgrenze.
 - [Kündigung durch den Vermieter (§§ 573, 573c)](mietrecht/vermieterkuendigung-573.md) - Berechtigtes Interesse, Eigenbedarf, Fristen.
 
+# Strafrecht Allgemeiner Teil (StGB)
+
+Die allgemeinen Lehren jeder Straftat.
+
+- [Aufbau der Straftat](strafrecht-at/aufbau-der-straftat.md) - Tatbestand, Rechtswidrigkeit, Schuld.
+- [Vorsatz und Tatbestandsirrtum (§§ 15, 16)](strafrecht-at/vorsatz-und-irrtum-15-16.md) - Wissen und Wollen; Irrtum.
+- [Notwehr (§ 32)](strafrecht-at/notwehr-32.md) - Erforderliche Verteidigung.
+- [Notstand (§§ 34, 35)](strafrecht-at/notstand-34-35.md) - Rechtfertigend und entschuldigend.
+- [Schuld (§§ 17, 19, 20)](strafrecht-at/schuld-17-19-20.md) - Schuldfähigkeit, Verbotsirrtum.
+- [Versuch und Rücktritt (§§ 22 bis 24)](strafrecht-at/versuch-und-ruecktritt-22-24.md) - Unmittelbares Ansetzen, Straflosigkeit.
+- [Täterschaft und Teilnahme (§§ 25 bis 27)](strafrecht-at/taeterschaft-und-teilnahme-25-27.md) - Täter, Anstifter, Gehilfe.
+
 # Referenzen
 
 - [Amtliche Quellen](references/index.md) - Der belegte Normtext, an dem dieses Bündel hängt.

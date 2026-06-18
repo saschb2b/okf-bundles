@@ -48,6 +48,7 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 |--------|------------|------------|
 | KSchG | Kündigungsschutzgesetz (§§ 1, 4, 7, 23) | https://www.gesetze-im-internet.de/kschg/ |
 | TzBfG | Teilzeit- und Befristungsgesetz (§§ 14, 17) | https://www.gesetze-im-internet.de/tzbfg/ |
+| StGB | Strafgesetzbuch, Allgemeiner Teil (§§ 15-35, 22-27) | https://www.gesetze-im-internet.de/stgb/ |
 
 # Hinweis
 
