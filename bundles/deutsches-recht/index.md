@@ -51,6 +51,17 @@ Der Kaufvertrag und die Mängelrechte nach der Reform 2022.
 - [Verjährung (§ 438)](kaufrecht/verjaehrung-438.md) - Regelmäßig zwei Jahre.
 - [Verbrauchsgüterkauf (§§ 474 ff.)](kaufrecht/verbrauchsgueterkauf.md) - Schutz beim Verkauf an Verbraucher.
 
+# Besondere Schuldverhältnisse (Schuldrecht BT)
+
+Vertragstypen und gesetzliche Schuldverhältnisse neben Kauf und Miete.
+
+- [Werkvertrag (§ 631)](besondere-schuldverhaeltnisse/werkvertrag-631.md) - Geschuldet ist ein Erfolg; Abnahme, Mängelrechte.
+- [Dienstvertrag (§ 611)](besondere-schuldverhaeltnisse/dienstvertrag-611.md) - Geschuldet ist die Tätigkeit.
+- [Darlehen (§ 488)](besondere-schuldverhaeltnisse/darlehen-488.md) - Geld gegen Zins und Rückzahlung.
+- [Bürgschaft (§ 765)](besondere-schuldverhaeltnisse/buergschaft-765.md) - Akzessorische Sicherung, Schriftform.
+- [Schenkung (§ 516)](besondere-schuldverhaeltnisse/schenkung-516.md) - Unentgeltliche Zuwendung, Form, Widerruf.
+- [Geschäftsführung ohne Auftrag (§ 677)](besondere-schuldverhaeltnisse/goa-677.md) - Fremdes Geschäft ohne Auftrag.
+
 # Deliktsrecht (§§ 823 ff. BGB)
 
 Die gesetzliche Haftung für unerlaubte Handlungen, auch ohne Vertrag.

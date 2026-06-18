@@ -1,7 +1,7 @@
 ---
 type: Overview
 title: "Deutsches Recht: Überblick"
-description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind Methodik, BGB Allgemeiner Teil, Schuldrecht AT, Kaufrecht, Deliktsrecht, Bereicherungsrecht, Sachenrecht, Erbrecht, Familienrecht, AGB-Kontrolle, Arbeitsrecht, Mietrecht, der Strafrecht Allgemeine Teil, das allgemeine Verwaltungsrecht, das Handels- und Gesellschaftsrecht, das Verfassungsrecht und das Sozialrecht.
+description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind die Methodik, das gesamte Bürgerliche Recht (alle fünf Bücher des BGB), das Handels-, Arbeits-, Miet- und AGB-Recht, der Strafrecht Allgemeine Teil sowie das öffentliche Recht (Verfassung, Verwaltung, Sozial).
 tags: [deutsches-recht, agb-recht, bgb]
 timestamp: 2026-06-18T12:00:00Z
 ---
@@ -12,7 +12,15 @@ Dieses Bündel hält fest, **was im deutschen Recht gilt**, in Form belegter Kon
 
 # Aufbau
 
-Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt als viele Gebiete oberflächlich. Ausgearbeitet sind die zivilrechtliche Grundlage und ihre erste Vertiefung: die [Methodik](/methodik/index.md), der [BGB Allgemeine Teil](/bgb-at/index.md), das [Schuldrecht AT](/schuldrecht-at/index.md) mit den Leistungsstörungen, das [Kaufrecht](/kaufrecht/index.md), das [Deliktsrecht](/deliktsrecht/index.md), das [Bereicherungsrecht](/bereicherungsrecht/index.md), das [Sachenrecht](/sachenrecht/index.md), das [Erbrecht](/erbrecht/index.md), das [Familienrecht](/familienrecht/index.md) und die [AGB-Kontrolle](/agb-kontrolle/index.md), dazu als erste Gebiete der Praxis das [Arbeitsrecht](/arbeitsrecht/index.md) und das [Mietrecht](/mietrecht/index.md) sowie aus dem Strafrecht der [Allgemeine Teil](/strafrecht-at/index.md) und das [allgemeine Verwaltungsrecht](/verwaltungsrecht/index.md) und das [Handels- und Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md) und das [Verfassungsrecht](/verfassungsrecht/index.md) und das [Sozialrecht](/sozialrecht/index.md). Weitere Gebiete (etwa die besonderen Schuldverhältnisse oder das Strafrecht Besonderer Teil) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.
+Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt als viele Gebiete oberflächlich. Ausgearbeitet sind:
+
+- **Grundlage:** [Methodik](/methodik/index.md) (Anspruchsaufbau, Gutachtenstil, Auslegung).
+- **Bürgerliches Recht:** [BGB Allgemeiner Teil](/bgb-at/index.md), [Schuldrecht AT](/schuldrecht-at/index.md), [Kaufrecht](/kaufrecht/index.md), [besondere Schuldverhältnisse](/besondere-schuldverhaeltnisse/index.md), [Deliktsrecht](/deliktsrecht/index.md), [Bereicherungsrecht](/bereicherungsrecht/index.md), [Sachenrecht](/sachenrecht/index.md), [Erbrecht](/erbrecht/index.md), [Familienrecht](/familienrecht/index.md).
+- **Wirtschafts- und Sonderprivatrecht:** [Handels- und Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md), [AGB-Kontrolle](/agb-kontrolle/index.md), [Arbeitsrecht](/arbeitsrecht/index.md), [Mietrecht](/mietrecht/index.md).
+- **Strafrecht:** [Allgemeiner Teil](/strafrecht-at/index.md).
+- **Öffentliches Recht:** [Verfassungsrecht](/verfassungsrecht/index.md), [allgemeines Verwaltungsrecht](/verwaltungsrecht/index.md), [Sozialrecht](/sozialrecht/index.md).
+
+Weitere Gebiete (etwa das Strafrecht Besonderer Teil, der Zivilprozess oder das Europarecht) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.
 
 # Wo anfangen
 
