@@ -1,0 +1,12 @@
+# OS and editor cruft
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Local agent install artifacts. This repo publishes knowledge; it does not
+# consume skills, so installed copies and the lock file should not be tracked.
+.agents/
+.claude/
+skills-lock.json
