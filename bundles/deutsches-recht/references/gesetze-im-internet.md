@@ -40,7 +40,7 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | Arbeitsrecht (BGB-Teil) | §§ 611a, 622, 626 |
 | Sachenrecht | §§ 854, 858, 861, 873, 892, 925, 929 bis 935, 985, 986, 1004 |
 | Erbrecht | §§ 1922, 1924 bis 1931, 1937, 1942 bis 1944, 1967, 1975, 2247, 2303 |
-| Familienrecht | §§ 1363, 1365, 1373, 1378, 1565, 1566, 1601, 1603, 1626, 1671 |
+| Familienrecht | §§ 1361, 1363 bis 1384, 1408, 1410, 1565, 1566, 1569 bis 1578b, 1591 bis 1600d, 1601 bis 1612b, 1626, 1666, 1666a, 1671, 1684 |
 | Gesellschaftsrecht (BGB-Teil) | §§ 705, 721 (GbR nach MoPeG 2024) |
 
 Einstieg in das BGB nach Paragraph: `https://www.gesetze-im-internet.de/bgb/__<nummer>.html` (etwa `__280.html`).
@@ -64,6 +64,7 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | SGG | Sozialgerichtsgesetz (§§ 78, 84, 86b, 87, 183) | https://www.gesetze-im-internet.de/sgg/ |
 | ZPO | Zivilprozessordnung (§§ 253, 261, 322, 330, 331, 688, 704, 767, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
 | GVG | Gerichtsverfassungsgesetz (§§ 23, 71 Zuständigkeit) | https://www.gesetze-im-internet.de/gvg/ |
+| VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |
 
 # Hinweis
 

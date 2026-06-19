@@ -19,3 +19,7 @@
 * **Tier 2**: Gebiet Strafrecht Besonderer Teil (StGB) angelegt: Tötungsdelikte §§ 211, 212, Körperverletzung § 223, Diebstahl § 242, Betrug § 263, Raub und Erpressung §§ 249, 253 und Urkundenfälschung § 267.
 * **Tier 2**: Gebiet Zivilprozess (ZPO) angelegt: Klageerhebung § 253, Rechtshängigkeit § 261, Versäumnisurteil §§ 330, 331, Rechtskraft § 322, Mahnverfahren § 688, einstweiliger Rechtsschutz §§ 916, 935 und Zwangsvollstreckung §§ 704 ff.
 * **Tier 2**: Gebiet Europarecht (EUV, AEUV) angelegt: Rechtsquellen und Handlungsformen Art. 288 AEUV, Vorrang und unmittelbare Wirkung, Grundfreiheiten, Vorabentscheidungsverfahren Art. 267 AEUV sowie Richtlinienwirkung und Staatshaftung. Belegt an EUR-Lex (neue Referenz), nicht an gesetze-im-internet.de.
+
+## 2026-06-19
+
+* **Vertiefung**: Gebiet Familienrecht von 5 auf 13 Konzepte ausgebaut (Praxis-/Rechner-Tiefe). Neu: Kindesunterhalt (§ 1612a, Düsseldorfer Tabelle), Ehegattenunterhalt (Trennungs- und nachehelicher, §§ 1361, 1569 ff., 1578b), Versorgungsausgleich (VersAusglG), Zugewinn-Berechnung (§§ 1374, 1375, 1378 Abs. 2, 1379, 1384), Abstammung (§§ 1591 ff.), Umgangsrecht (§ 1684), Kindeswohlgefährdung (§§ 1666, 1666a) und Ehevertrag/Inhaltskontrolle (§ 1408). Das Unterhalt-Grundkonzept zur Rangfolge (§ 1609) umgearbeitet. Konkrete jährlich wechselnde Beträge bewusst nicht hartkodiert.
