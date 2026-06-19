@@ -261,14 +261,19 @@ Durchsetzung zivilrechtlicher Ansprüche, von der Klage bis zur Vollstreckung.
 - [Einstweiliger Rechtsschutz (§§ 916, 935)](zivilprozess/einstweiliger-rechtsschutz-935.md) - Arrest und einstweilige Verfügung.
 - [Zwangsvollstreckung (§§ 704 ff.)](zivilprozess/zwangsvollstreckung-704.md) - Titel, Pfändung, Schuldnerschutz.
 
-# Insolvenzrecht (InsO)
+# Insolvenzrecht (InsO, StaRUG)
 
-Das Verfahren bei Zahlungsunfähigkeit und Überschuldung, bis zur Restschuldbefreiung.
+Das Verfahren bei Zahlungsunfähigkeit und Überschuldung, von der Eröffnung über die Sanierung bis zur Restschuldbefreiung.
 
 - [Eröffnungsgründe und Antragspflicht (§§ 17 bis 19)](insolvenzrecht/eroeffnungsgruende-17-19.md) - Zahlungsunfähigkeit, Überschuldung, § 15a.
 - [Insolvenzmasse, Gläubiger, Verwalter (§§ 35, 38, 80)](insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) - Massebeschlag, Aussonderung, Absonderung, Rang.
 - [Forderungsanmeldung zur Tabelle (§ 174)](insolvenzrecht/forderungsanmeldung-174.md) - Anmeldung statt Vollstreckung, Feststellung, Quote.
+- [Verträge in der Insolvenz: Wahlrecht (§ 103)](insolvenzrecht/vertraege-in-der-insolvenz-103.md) - Erfüllung oder Ablehnung, Dauerschuldverhältnisse, Lösungsklauseln.
+- [Aufrechnung in der Insolvenz (§§ 94 bis 96)](insolvenzrecht/aufrechnung-in-der-insolvenz-94.md) - Erhalt bestehender Aufrechnungslagen, Aufrechnungsverbote.
 - [Insolvenzanfechtung (§§ 129 ff.)](insolvenzrecht/insolvenzanfechtung-129.md) - Rückholung von Vermögensverschiebungen, Vorsatzanfechtung.
+- [Eigenverwaltung und Schutzschirm (§§ 270 ff.)](insolvenzrecht/eigenverwaltung-und-schutzschirm-270.md) - Sanierung in eigener Hand unter Sachwalter.
+- [Insolvenzplan (§§ 217 ff.)](insolvenzrecht/insolvenzplan-217.md) - Gestaltung der Befriedigung, Gruppen, Obstruktionsverbot.
+- [Restrukturierung außerhalb der Insolvenz (StaRUG)](insolvenzrecht/restrukturierung-starug.md) - Präventiver Rahmen bei drohender Zahlungsunfähigkeit.
 - [Verbraucherinsolvenz (§§ 304 ff.)](insolvenzrecht/verbraucherinsolvenz-304.md) - Vereinfachtes Verfahren, außergerichtlicher Einigungsversuch.
 - [Restschuldbefreiung (§§ 286 ff.)](insolvenzrecht/restschuldbefreiung-286.md) - Befreiung nach dreijähriger Abtretungsfrist; Ausnahmen.
 

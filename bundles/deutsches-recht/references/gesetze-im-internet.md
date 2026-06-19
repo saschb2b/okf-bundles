@@ -77,7 +77,8 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | GewStG | Gewerbesteuergesetz (§§ 2, 11; Gewerbeertrag, Hebesatz) | https://www.gesetze-im-internet.de/gewstg/ |
 | WoEigG (WEG) | Wohnungseigentumsgesetz (§ 20 bauliche Veränderungen) | https://www.gesetze-im-internet.de/woeigg/ |
 | ZPO | Zivilprozessordnung (§§ 253, 261, 322, 330, 331, 688, 704, 767, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
-| InsO | Insolvenzordnung (§§ 15a, 17 bis 19, 35, 38, 39, 47, 49, 80, 129 bis 133, 143, 174, 178, 286 bis 302, 304, 305) | https://www.gesetze-im-internet.de/inso/ |
+| InsO | Insolvenzordnung (§§ 15a, 17 bis 19, 35, 38, 39, 47, 49, 80, 94 bis 96, 103, 108, 109, 113, 119, 129 bis 133, 143, 174, 178, 217 bis 254, 270 bis 270d, 286 bis 302, 304, 305) | https://www.gesetze-im-internet.de/inso/ |
+| StaRUG | Unternehmensstabilisierungs- und -restrukturierungsgesetz (§§ 1, 29, 49, 60; präventiver Restrukturierungsrahmen, seit 2021) | https://www.gesetze-im-internet.de/starug/ |
 | GVG | Gerichtsverfassungsgesetz (§§ 23, 71 Zuständigkeit) | https://www.gesetze-im-internet.de/gvg/ |
 | VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |
 | GewSchG | Gewaltschutzgesetz (§§ 1, 2, 4; Schutzanordnungen, Wohnungsüberlassung) | https://www.gesetze-im-internet.de/gewschg/ |
