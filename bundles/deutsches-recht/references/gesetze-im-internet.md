@@ -33,6 +33,7 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | BGB Allgemeiner Teil | §§ 104 bis 113, 119 bis 124, 125 bis 129, 130, 133, 142, 143, 145 bis 157, 164 bis 181, 194 bis 218 |
 | Schuldrecht AT (Leistungsstörungen) | §§ 275, 276, 278, 280, 281, 283, 286, 288, 311a, 323, 326, 346 |
 | Schuldrecht AT (Erfüllung, Anrechnung, Zinsen) | §§ 246, 247, 266, 289, 291, 362, 364, 366, 367 |
+| Schuldrecht AT (Abtretung, Aufrechnung, Kosten) | §§ 387 bis 394, 398, 404, 406, 407, 409 |
 | Kaufrecht | §§ 433, 434, 437, 438, 439, 440, 441, 474, 476, 477 |
 | Besondere Schuldverhältnisse | §§ 488, 491, 497, 516, 518, 530, 611, 631, 634, 640, 677, 683, 765, 766, 771 |
 | Deliktsrecht und Schadensrecht | §§ 249 bis 254, 823, 826, 831 |
@@ -66,6 +67,8 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | ZPO | Zivilprozessordnung (§§ 253, 261, 322, 330, 331, 688, 704, 767, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
 | GVG | Gerichtsverfassungsgesetz (§§ 23, 71 Zuständigkeit) | https://www.gesetze-im-internet.de/gvg/ |
 | VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |
+| RDG | Rechtsdienstleistungsgesetz (Inkasso, §§ 13a ff.) | https://www.gesetze-im-internet.de/rdg/ |
+| RVG | Rechtsanwaltsvergütungsgesetz (Geschäftsgebühr Nr. 2300 VV) | https://www.gesetze-im-internet.de/rvg/ |
 
 # Hinweis
 

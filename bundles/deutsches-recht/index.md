@@ -41,6 +41,9 @@ Was gilt, wenn die Leistung ausbleibt, zu spät kommt, unmöglich wird oder mang
 - [Erfüllung und Teilleistung (§§ 362, 266)](schuldrecht-at/erfuellung-362.md) - Erlöschen der Schuld, keine Teilleistungspflicht.
 - [Tilgungs- und Anrechnungsreihenfolge (§§ 366, 367)](schuldrecht-at/tilgungsreihenfolge-366-367.md) - Kosten vor Zinsen vor Hauptforderung; Verbraucherdarlehen.
 - [Zinsrecht (§§ 246 bis 291)](schuldrecht-at/zinsrecht-246-291.md) - Gesetzlicher Zins, Basiszinssatz, Zinseszinsverbot, Prozesszinsen.
+- [Abtretung (§ 398)](schuldrecht-at/abtretung-398.md) - Gläubigerwechsel durch Vertrag, Schuldnerschutz.
+- [Aufrechnung (§§ 387 ff.)](schuldrecht-at/aufrechnung-387.md) - Erlöschen gegenseitiger Forderungen, rückwirkend.
+- [Rechtsverfolgungs- und Inkassokosten (§§ 280, 286)](schuldrecht-at/rechtsverfolgungskosten-inkasso.md) - Verzugsschaden, RVG/RDG-Deckelung.
 
 # Kaufrecht
 

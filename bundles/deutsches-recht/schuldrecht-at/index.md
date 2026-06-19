@@ -20,3 +20,11 @@ Wie eine Forderung erlischt, wie Teilzahlungen auf Kosten, Zinsen und Hauptforde
 - [Erfüllung und Teilleistung (§§ 362, 266)](erfuellung-362.md) - Erlöschen der Schuld, keine Teilleistungspflicht.
 - [Tilgungs- und Anrechnungsreihenfolge (§§ 366, 367)](tilgungsreihenfolge-366-367.md) - Kosten vor Zinsen vor Hauptforderung; Sonderfall Verbraucherdarlehen.
 - [Zinsrecht (§§ 246 bis 291)](zinsrecht-246-291.md) - Gesetzlicher Zins, Basiszinssatz, Zinseszinsverbot, Prozesszinsen.
+
+# Gläubigerwechsel, Aufrechnung und Kosten
+
+Übertragung der Forderung, ihr Erlöschen durch Aufrechnung und die als Verzugsschaden ersatzfähigen Kosten.
+
+- [Abtretung (§ 398)](abtretung-398.md) - Gläubigerwechsel durch Vertrag, Schuldnerschutz.
+- [Aufrechnung (§§ 387 ff.)](aufrechnung-387.md) - Erlöschen gegenseitiger Forderungen, rückwirkend.
+- [Rechtsverfolgungs- und Inkassokosten (§§ 280, 286)](rechtsverfolgungskosten-inkasso.md) - Verzugsschaden, RVG/RDG-Deckelung.
