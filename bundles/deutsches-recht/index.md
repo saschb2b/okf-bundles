@@ -276,7 +276,13 @@ Das Verfahren bei Zahlungsunfähigkeit und Überschuldung, von der Eröffnung ü
 - [Forderungsanmeldung zur Tabelle (§ 174)](insolvenzrecht/forderungsanmeldung-174.md) - Anmeldung statt Vollstreckung, Feststellung, Quote.
 - [Verträge in der Insolvenz: Wahlrecht (§ 103)](insolvenzrecht/vertraege-in-der-insolvenz-103.md) - Erfüllung oder Ablehnung, Dauerschuldverhältnisse, Lösungsklauseln.
 - [Aufrechnung in der Insolvenz (§§ 94 bis 96)](insolvenzrecht/aufrechnung-in-der-insolvenz-94.md) - Erhalt bestehender Aufrechnungslagen, Aufrechnungsverbote.
-- [Insolvenzanfechtung (§§ 129 ff.)](insolvenzrecht/insolvenzanfechtung-129.md) - Rückholung von Vermögensverschiebungen, Vorsatzanfechtung.
+- [Insolvenzanfechtung: Grundtatbestand und System (§ 129)](insolvenzrecht/insolvenzanfechtung-129.md) - Gläubigerbenachteiligung, Überblick über die Tatbestände.
+- [Deckungsanfechtung (§§ 130 bis 132)](insolvenzrecht/anfechtung-deckungen-130-132.md) - Kongruente und inkongruente Deckung, Drei-Monats-Krise.
+- [Vorsatzanfechtung (§ 133)](insolvenzrecht/vorsatzanfechtung-133.md) - Benachteiligungsvorsatz, Reform 2017, zehn bzw. vier Jahre.
+- [Schenkungs- und Gesellschafteranfechtung (§§ 134, 135)](insolvenzrecht/anfechtung-unentgeltlich-gesellschafter-134-135.md) - Unentgeltliche Leistung, Gesellschafterdarlehen.
+- [Nahestehende, Bargeschäft, Zeitpunkt (§§ 138, 140, 142)](insolvenzrecht/anfechtung-nahestehende-bargeschaeft-138-142.md) - Beweislastumkehr, Bargeschäftsprivileg, Fristbeginn.
+- [Anfechtung: Rechtsfolgen und Verjährung (§§ 143 bis 146)](insolvenzrecht/anfechtung-rechtsfolgen-143-146.md) - Rückgewähr, verschärfte Haftung, Wiederaufleben, Verjährung.
+- [Gläubigeranfechtung außerhalb der Insolvenz (AnfG)](insolvenzrecht/glaeubigeranfechtung-anfg.md) - Anfechtung durch den einzelnen Titelgläubiger.
 - [Eigenverwaltung und Schutzschirm (§§ 270 ff.)](insolvenzrecht/eigenverwaltung-und-schutzschirm-270.md) - Sanierung in eigener Hand unter Sachwalter.
 - [Insolvenzplan (§§ 217 ff.)](insolvenzrecht/insolvenzplan-217.md) - Gestaltung der Befriedigung, Gruppen, Obstruktionsverbot.
 - [Restrukturierung außerhalb der Insolvenz (StaRUG)](insolvenzrecht/restrukturierung-starug.md) - Präventiver Rahmen bei drohender Zahlungsunfähigkeit.

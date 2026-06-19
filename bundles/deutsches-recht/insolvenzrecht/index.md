@@ -12,7 +12,16 @@ Das Verfahren bei Zahlungsunfähigkeit und Überschuldung, von den Eröffnungsgr
 
 - [Verträge in der Insolvenz: Wahlrecht (§ 103)](vertraege-in-der-insolvenz-103.md) - Erfüllung oder Ablehnung, Dauerschuldverhältnisse, Lösungsklauseln.
 - [Aufrechnung in der Insolvenz (§§ 94 bis 96)](aufrechnung-in-der-insolvenz-94.md) - Erhalt bestehender Aufrechnungslagen, Aufrechnungsverbote.
-- [Insolvenzanfechtung (§§ 129 ff.)](insolvenzanfechtung-129.md) - Rückholung von Vermögensverschiebungen vor Eröffnung.
+
+# Insolvenzanfechtung (§§ 129 ff.)
+
+- [Grundtatbestand und System (§ 129)](insolvenzanfechtung-129.md) - Gläubigerbenachteiligung, Überblick über die Tatbestände.
+- [Deckungsanfechtung (§§ 130 bis 132)](anfechtung-deckungen-130-132.md) - Kongruente, inkongruente Deckung, unmittelbar nachteilige Geschäfte.
+- [Vorsatzanfechtung (§ 133)](vorsatzanfechtung-133.md) - Benachteiligungsvorsatz und Kenntnis; Reform 2017, zehn bzw. vier Jahre.
+- [Schenkungs- und Gesellschafteranfechtung (§§ 134, 135)](anfechtung-unentgeltlich-gesellschafter-134-135.md) - Unentgeltliche Leistung, Gesellschafterdarlehen.
+- [Nahestehende, Bargeschäft, Zeitpunkt (§§ 138, 140, 142)](anfechtung-nahestehende-bargeschaeft-138-142.md) - Beweislastumkehr, Bargeschäftsprivileg, Fristbeginn.
+- [Rechtsfolgen und Verjährung (§§ 143 bis 146)](anfechtung-rechtsfolgen-143-146.md) - Rückgewähr, verschärfte Haftung, Wiederaufleben, Dreijahresverjährung.
+- [Gläubigeranfechtung außerhalb der Insolvenz (AnfG)](glaeubigeranfechtung-anfg.md) - Anfechtung durch den einzelnen Titelgläubiger.
 
 # Sanierung und Restrukturierung
 

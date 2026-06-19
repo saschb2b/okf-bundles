@@ -77,8 +77,9 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | GewStG | Gewerbesteuergesetz (§§ 2, 11; Gewerbeertrag, Hebesatz) | https://www.gesetze-im-internet.de/gewstg/ |
 | WoEigG (WEG) | Wohnungseigentumsgesetz (§ 20 bauliche Veränderungen) | https://www.gesetze-im-internet.de/woeigg/ |
 | ZPO | Zivilprozessordnung (§§ 12, 13, 29, 32, 50, 78, 91 bis 93, 114, 253, 256, 260, 263, 286 bis 288, 322, 330, 331, 415, 511, 529, 543, 567, 688, 704, 767, 802c, 803, 808, 829, 850c, 850k, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
-| InsO | Insolvenzordnung (§§ 15a, 17 bis 19, 35, 38, 39, 47, 49, 80, 94 bis 96, 103, 108, 109, 113, 119, 129 bis 133, 143, 174, 178, 217 bis 254, 270 bis 270d, 286 bis 302, 304, 305) | https://www.gesetze-im-internet.de/inso/ |
+| InsO | Insolvenzordnung (§§ 15a, 17 bis 19, 35, 38, 39, 47, 49, 80, 94 bis 96, 103, 108, 109, 113, 119, 129 bis 135, 138, 140, 142 bis 146, 174, 178, 217 bis 254, 270 bis 270d, 286 bis 302, 304, 305) | https://www.gesetze-im-internet.de/inso/ |
 | StaRUG | Unternehmensstabilisierungs- und -restrukturierungsgesetz (§§ 1, 29, 49, 60; präventiver Restrukturierungsrahmen, seit 2021) | https://www.gesetze-im-internet.de/starug/ |
+| AnfG | Anfechtungsgesetz (§§ 1 bis 4, 11; Gläubigeranfechtung außerhalb der Insolvenz) | https://www.gesetze-im-internet.de/anfg_1999/ |
 | GVG | Gerichtsverfassungsgesetz (§§ 23, 23a, 71 Zuständigkeit; Amtsgericht bis 10.000 Euro) | https://www.gesetze-im-internet.de/gvg/ |
 | ZVG | Zwangsversteigerungsgesetz (Zwangsversteigerung und Zwangsverwaltung von Grundstücken) | https://www.gesetze-im-internet.de/zvg/ |
 | VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |

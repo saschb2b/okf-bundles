@@ -1,35 +1,44 @@
 ---
 type: Rechtsregel
-title: "Insolvenzanfechtung (§§ 129 ff. InsO)"
-description: Der Verwalter kann Rechtshandlungen, die vor der Eröffnung Gläubiger benachteiligt haben, anfechten und das Weggegebene zur Masse zurückholen; die Anfechtungsfristen reichen je nach Tatbestand von Monaten bis zu zehn Jahren.
+title: "Insolvenzanfechtung: Grundtatbestand und System (§ 129 InsO)"
+description: Der Verwalter kann Rechtshandlungen vor der Eröffnung, die die Insolvenzgläubiger objektiv benachteiligt haben, nach den besonderen (§§ 130 bis 135) und der allgemeinen (§ 133) Anfechtung angreifen und das Weggegebene zur Masse zurückholen; dieser Knoten ordnet die Tatbestände ein.
 resource: https://www.gesetze-im-internet.de/inso/__129.html
-tags: [insolvenzrecht, insolvenzanfechtung, glaeubigerbenachteiligung, vorsatzanfechtung, rueckgewaehr]
-norm: "§§ 129, 130, 131, 132, 133, 143 InsO"
+tags: [insolvenzrecht, insolvenzanfechtung, glaeubigerbenachteiligung, rechtshandlung, systematik]
+norm: "§§ 129 bis 147 InsO"
 timestamp: 2026-06-19T12:00:00Z
 ---
 
-# Zweck (§ 129)
+# Grundtatbestand (§ 129)
 
-Anfechtbar sind **Rechtshandlungen vor der Verfahrenseröffnung, die die Insolvenzgläubiger benachteiligen**. Die Anfechtung soll Vermögen, das der Schuldner in der Krise weggegeben hat, zur Masse zurückführen, damit alle Gläubiger gleichmäßig (par condicio creditorum) befriedigt werden. Anfechtungsberechtigt ist der Insolvenzverwalter.
+Anfechtbar sind **Rechtshandlungen, die vor der Eröffnung des Insolvenzverfahrens vorgenommen wurden und die Insolvenzgläubiger benachteiligen**. Die Anfechtung holt Vermögen, das der Schuldner in der Krise weggegeben hat, zur Masse zurück, damit alle Gläubiger gleichmäßig befriedigt werden (par condicio creditorum). Jede Anfechtung verlangt:
 
-# Anfechtungstatbestände
+- eine **Rechtshandlung** (auch ein Unterlassen, § 129 Abs. 2), vorgenommen vor Eröffnung (Zeitpunkt nach § 140),
+- eine **objektive Gläubigerbenachteiligung** (die Befriedigungsaussichten der Gläubiger sind verkürzt),
+- den **Tatbestand einer der Anfechtungsnormen** (§§ 130 bis 135),
+- kein Eingreifen des **Bargeschäftsprivilegs** (§ 142).
 
-- **Kongruente Deckung (§ 130).** Eine Sicherung oder Befriedigung, die der Gläubiger so beanspruchen konnte, ist anfechtbar, wenn sie in den **letzten drei Monaten** vor dem Antrag erfolgte und der Schuldner zahlungsunfähig war und der Gläubiger das kannte.
-- **Inkongruente Deckung (§ 131).** Eine Sicherung oder Befriedigung, die der Gläubiger **nicht oder nicht so oder nicht zu der Zeit** zu beanspruchen hatte, ist unter erleichterten Voraussetzungen anfechtbar (im letzten Monat sogar ohne weitere Kenntnis).
-- **Unmittelbar nachteilige Rechtshandlungen (§ 132).** Geschäfte, die die Gläubiger unmittelbar benachteiligen, im selben Drei-Monats-Zeitraum.
-- **Vorsatzanfechtung (§ 133).** Eine Handlung, die der Schuldner **mit dem Vorsatz, seine Gläubiger zu benachteiligen** vorgenommen hat und der andere Teil diesen Vorsatz kannte, ist innerhalb von **zehn Jahren** vor dem Antrag anfechtbar. Hat die Handlung dem anderen Teil eine Sicherung oder Befriedigung gewährt oder ermöglicht (kongruente Deckung), beträgt der Zeitraum **vier Jahre** (§ 133 Abs. 2). Die Kenntnis wird vermutet, wenn der andere Teil die drohende Zahlungsunfähigkeit und die Benachteiligung kannte.
+Anfechtungsberechtigt ist allein der **Insolvenzverwalter** (in der Einzelvollstreckung der Gläubiger nach dem [AnfG](/insolvenzrecht/glaeubigeranfechtung-anfg.md)).
 
-# Rechtsfolge (§ 143)
+# System der Anfechtungstatbestände
 
-Was durch die anfechtbare Handlung aus dem Vermögen des Schuldners weggegeben wurde, ist **zur Masse zurückzugewähren**. Der Empfänger wird wegen seiner eigenen Forderung wieder Insolvenzgläubiger.
+Das Gesetz unterscheidet **besondere** (an die Krisennähe gebundene) und die **allgemeine** Anfechtung:
+
+- **Deckungsanfechtung (§§ 130 bis 132)** in der Drei-Monats-Krise: [kongruente, inkongruente Deckung und unmittelbar nachteilige Geschäfte](/insolvenzrecht/anfechtung-deckungen-130-132.md).
+- **Vorsatzanfechtung (§ 133)** mit langer Frist: die [vorsätzliche Gläubigerbenachteiligung](/insolvenzrecht/vorsatzanfechtung-133.md) (zehn bzw. vier Jahre).
+- **Schenkungs- und Gesellschafteranfechtung (§§ 134, 135):** [unentgeltliche Leistungen und Gesellschafterdarlehen](/insolvenzrecht/anfechtung-unentgeltlich-gesellschafter-134-135.md).
+
+Quer dazu liegen die Hilfsnormen: [nahestehende Personen (§ 138), Bargeschäft (§ 142) und der Zeitpunkt der Rechtshandlung (§ 140)](/insolvenzrecht/anfechtung-nahestehende-bargeschaeft-138-142.md).
+
+# Rechtsfolge
+
+Was anfechtbar weggegeben wurde, ist [zur Masse zurückzugewähren (§§ 143 bis 146)](/insolvenzrecht/anfechtung-rechtsfolgen-143-146.md); der Empfänger haftet verschärft und wird wegen seiner wiederauflebenden Forderung Insolvenzgläubiger.
 
 # Bezug
 
-Die Anfechtung knüpft an die [Eröffnungsgründe](/insolvenzrecht/eroeffnungsgruende-17-19.md) (insbesondere die Zahlungsunfähigkeit) an und füllt die [Masse](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) auf. Für das Forderungsmanagement bedeutet es: eine kurz vor der Insolvenz erlangte Zahlung oder Sicherheit ist nicht endgültig, sondern kann vom Verwalter zurückgefordert werden.
+Die Anfechtung knüpft an die [Eröffnungsgründe](/insolvenzrecht/eroeffnungsgruende-17-19.md) (insbesondere die Zahlungsunfähigkeit) an und füllt die [Masse](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) auf. Für das Forderungsmanagement heißt das: eine kurz vor der Insolvenz erlangte Zahlung oder Sicherheit ist nicht endgültig, sondern kann vom Verwalter zurückgefordert werden.
 
 # Citations
 
 [1] [§ 129 InsO](https://www.gesetze-im-internet.de/inso/__129.html)
-[2] [§ 133 InsO](https://www.gesetze-im-internet.de/inso/__133.html)
-[3] [§ 131 InsO](https://www.gesetze-im-internet.de/inso/__131.html)
-[4] [§ 143 InsO](https://www.gesetze-im-internet.de/inso/__143.html)
+[2] [§ 140 InsO](https://www.gesetze-im-internet.de/inso/__140.html)
+[3] [§ 142 InsO](https://www.gesetze-im-internet.de/inso/__142.html)
