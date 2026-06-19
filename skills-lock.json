@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "okf": {
+      "source": "saschb2b/skills",
+      "sourceType": "github",
+      "skillPath": "skills/engineering/okf/SKILL.md",
+      "computedHash": "5c564e13b0ceee11ec0bc3f121e11ec9d7d9c7cf57ead1ac5e564083f83b5725"
+    }
+  }
+}
