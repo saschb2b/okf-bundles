@@ -246,6 +246,17 @@ Durchsetzung zivilrechtlicher Ansprüche, von der Klage bis zur Vollstreckung.
 - [Einstweiliger Rechtsschutz (§§ 916, 935)](zivilprozess/einstweiliger-rechtsschutz-935.md) - Arrest und einstweilige Verfügung.
 - [Zwangsvollstreckung (§§ 704 ff.)](zivilprozess/zwangsvollstreckung-704.md) - Titel, Pfändung, Schuldnerschutz.
 
+# Insolvenzrecht (InsO)
+
+Das Verfahren bei Zahlungsunfähigkeit und Überschuldung, bis zur Restschuldbefreiung.
+
+- [Eröffnungsgründe und Antragspflicht (§§ 17 bis 19)](insolvenzrecht/eroeffnungsgruende-17-19.md) - Zahlungsunfähigkeit, Überschuldung, § 15a.
+- [Insolvenzmasse, Gläubiger, Verwalter (§§ 35, 38, 80)](insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) - Massebeschlag, Aussonderung, Absonderung, Rang.
+- [Forderungsanmeldung zur Tabelle (§ 174)](insolvenzrecht/forderungsanmeldung-174.md) - Anmeldung statt Vollstreckung, Feststellung, Quote.
+- [Insolvenzanfechtung (§§ 129 ff.)](insolvenzrecht/insolvenzanfechtung-129.md) - Rückholung von Vermögensverschiebungen, Vorsatzanfechtung.
+- [Verbraucherinsolvenz (§§ 304 ff.)](insolvenzrecht/verbraucherinsolvenz-304.md) - Vereinfachtes Verfahren, außergerichtlicher Einigungsversuch.
+- [Restschuldbefreiung (§§ 286 ff.)](insolvenzrecht/restschuldbefreiung-286.md) - Befreiung nach dreijähriger Abtretungsfrist; Ausnahmen.
+
 # Europarecht (EUV, AEUV)
 
 Unionsrecht und sein Verhältnis zum nationalen Recht.

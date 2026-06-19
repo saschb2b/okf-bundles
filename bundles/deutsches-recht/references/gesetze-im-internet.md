@@ -72,6 +72,7 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | EStG | Einkommensteuergesetz (§ 33b Behinderten-Pauschbetrag) | https://www.gesetze-im-internet.de/estg/ |
 | WoEigG (WEG) | Wohnungseigentumsgesetz (§ 20 bauliche Veränderungen) | https://www.gesetze-im-internet.de/woeigg/ |
 | ZPO | Zivilprozessordnung (§§ 253, 261, 322, 330, 331, 688, 704, 767, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
+| InsO | Insolvenzordnung (§§ 15a, 17 bis 19, 35, 38, 39, 47, 49, 80, 129 bis 133, 143, 174, 178, 286 bis 302, 304, 305) | https://www.gesetze-im-internet.de/inso/ |
 | GVG | Gerichtsverfassungsgesetz (§§ 23, 71 Zuständigkeit) | https://www.gesetze-im-internet.de/gvg/ |
 | VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |
 | RDG | Rechtsdienstleistungsgesetz (Inkasso, §§ 13a ff.) | https://www.gesetze-im-internet.de/rdg/ |
