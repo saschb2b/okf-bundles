@@ -70,7 +70,11 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | SGB XI | Soziale Pflegeversicherung (§§ 14, 15, 36, 37, 40) | https://www.gesetze-im-internet.de/sgb_11/ |
 | AGG | Allgemeines Gleichbehandlungsgesetz (§§ 1, 3, 7, 15, 19) | https://www.gesetze-im-internet.de/agg/ |
 | BGG / BFSG | Behindertengleichstellung; Barrierefreiheitsstärkungsgesetz | https://www.gesetze-im-internet.de/bgg/ |
-| EStG | Einkommensteuergesetz (§ 33b Behinderten-Pauschbetrag) | https://www.gesetze-im-internet.de/estg/ |
+| AO | Abgabenordnung (§§ 3, 30, 37, 38, 155, 169, 172, 173, 347, 355, 370; allgemeines Steuerrecht) | https://www.gesetze-im-internet.de/ao_1977/ |
+| EStG | Einkommensteuergesetz (§§ 1, 2, 15, 32a, 32d; § 33b Behinderten-Pauschbetrag) | https://www.gesetze-im-internet.de/estg/ |
+| UStG | Umsatzsteuergesetz (§§ 1, 2, 12, 14, 15, 19; Vorsteuer und Kleinunternehmer) | https://www.gesetze-im-internet.de/ustg_1980/ |
+| KStG | Körperschaftsteuergesetz (§§ 1, 23; Körperschaftsteuersatz) | https://www.gesetze-im-internet.de/kstg_1977/ |
+| GewStG | Gewerbesteuergesetz (§§ 2, 11; Gewerbeertrag, Hebesatz) | https://www.gesetze-im-internet.de/gewstg/ |
 | WoEigG (WEG) | Wohnungseigentumsgesetz (§ 20 bauliche Veränderungen) | https://www.gesetze-im-internet.de/woeigg/ |
 | ZPO | Zivilprozessordnung (§§ 253, 261, 322, 330, 331, 688, 704, 767, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
 | InsO | Insolvenzordnung (§§ 15a, 17 bis 19, 35, 38, 39, 47, 49, 80, 129 bis 133, 143, 174, 178, 286 bis 302, 304, 305) | https://www.gesetze-im-internet.de/inso/ |

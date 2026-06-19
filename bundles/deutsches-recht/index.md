@@ -292,6 +292,16 @@ Software, digitale Dienste und Daten: Urheberrecht, Lizenz, Datenschutz, Impress
 - [Digitale Dienste: Impressum und Haftung (DDG)](it-ip-recht/telemedien-impressum-ddg.md) - Anbieterkennzeichnung, Providerhaftung, kein allgemeines Monitoring.
 - [Softwarevertrag und SaaS (§§ 433, 535, 631, 327 ff. BGB)](it-ip-recht/softwarevertrag-und-saas.md) - Kauf, Miete, Werkvertrag, digitale Produkte.
 
+# Steuerrecht (AO, EStG, UStG, KStG, GewStG)
+
+Das Verfahrensrecht der Abgabenordnung und die wichtigsten Steuerarten.
+
+- [Abgabenordnung und Besteuerungsverfahren (AO)](steuerrecht/abgabenordnung-und-verfahren.md) - Steuerbescheid, Festsetzungsfrist, Einspruch, Korrektur, Hinterziehung.
+- [Einkommensteuer (EStG)](steuerrecht/einkommensteuer.md) - Steuerpflicht, sieben Einkunftsarten, zu versteuerndes Einkommen, Tarif.
+- [Umsatzsteuer (UStG)](steuerrecht/umsatzsteuer.md) - Steuerbare Umsätze, Sätze, Vorsteuerabzug, Rechnung, Kleinunternehmer.
+- [Unternehmensbesteuerung (KStG, GewStG, EStG)](steuerrecht/unternehmensbesteuerung.md) - Körperschaft- und Gewerbesteuer, Transparenzprinzip, Abgeltungsteuer.
+- [Grundprinzipien der Besteuerung](steuerrecht/besteuerungsgrundsaetze.md) - Gesetzmäßigkeit, Leistungsfähigkeit, Gleichheit, Bestimmtheit, Rückwirkung.
+
 # Betreuungsrecht (§§ 1814 ff. BGB)
 
 Rechtliche Betreuung Volljähriger und Vorsorge (Reform 2023).
