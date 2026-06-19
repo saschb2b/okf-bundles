@@ -63,6 +63,8 @@ Rules:
 - Prefer structural markdown (headings, lists, tables, fenced code) over freeform prose.
 - Link with bundle-absolute targets (`/techniques/invest.md`), and put the relationship in the prose around the link, not in the link itself.
 - External sources you mirror live under `references/<slug>.md` with `type: Reference`, the live URL in `resource`, and a dated `timestamp`. Summarize and cite; do not paste a third party's full text.
+- Where case law shapes the rule, not just the statute, add a `# Rechtsprechung` section with the leading decisions: court, date, and docket number (`BGH, Urteil vom 06.05.2021 - IX ZR 72/20`), each summarized in a sentence and cited to a free public source (rechtsprechung-im-internet.de, dejure.org, openJur, Curia). Verify the docket number; never invent one. The statute is the commodity, the case law is the value.
+- Do not mirror copyrighted commentary (Beck, Wolters Kluwer, juris and similar paid or AI-gated literature). Cite primary law and free case law; name a commentary at most as a pointer, never reproduce its text.
 - Dates and timestamps are ISO 8601.
 
 ## Style

@@ -10,6 +10,8 @@ timestamp: 2026-06-18T12:00:00Z
 
 Dieses Bündel hält fest, **was im deutschen Recht gilt**, in Form belegter Konzepte am Gesetzestext. Jedes Konzept beschreibt eine Norm oder eine Dogmatik (Tatbestand, Rechtsfolge, Prüfung), nennt die Vorschrift und verlinkt die amtliche Fundstelle bei [gesetze-im-internet.de](/references/gesetze-im-internet.md). Es ist eine Wissensquelle, die ein Agent zum Argumentieren heranzieht, kein Werkzeug und keine Liste von Werkzeugen.
 
+Wo das geltende Recht erst in der Rechtsprechung entsteht, tragen Konzepte unter `# Rechtsprechung` die Leitentscheidungen (Gericht, Datum, Aktenzeichen), belegt an [frei zugänglichen Quellen](/references/rechtsprechung-quellen.md). Die kostenpflichtige Kommentarliteratur wird zitiert, aber nicht gespiegelt; das hält das Bündel rechtlich sauber und frei verteilbar.
+
 # Aufbau
 
 Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt als viele Gebiete oberflächlich. Ausgearbeitet sind:

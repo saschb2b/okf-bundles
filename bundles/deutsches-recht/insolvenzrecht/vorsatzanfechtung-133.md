@@ -29,6 +29,14 @@ Ein **entgeltlicher Vertrag mit einer nahestehenden Person** (§ 138), der die G
 
 Ein **Bargeschäft** (Leistung gegen unmittelbar gleichwertige Gegenleistung) ist nur über § 133 anfechtbar, und auch dann nur, wenn der andere Teil **erkannt hat, dass der Schuldner unlauter handelte** (§ 142, siehe [nahestehende Personen und Bargeschäft](/insolvenzrecht/anfechtung-nahestehende-bargeschaeft-138-142.md)). Das nimmt dem laufenden, wertgedeckten Leistungsaustausch das Anfechtungsrisiko.
 
+# Rechtsprechung
+
+Die Vorsatzanfechtung wird weniger vom Wortlaut als von der Rechtsprechung des Bundesgerichtshofs getragen. Leitentscheidung ist die Neujustierung von 2021:
+
+- **BGH, Urteil vom 06.05.2021 - IX ZR 72/20.** Der BGH gibt die frühere Linie teilweise auf: Die **erkannte Zahlungsunfähigkeit allein** begründet den Gläubigerbenachteiligungsvorsatz **nicht mehr**. Erforderlich ist zusätzlich, dass der Schuldner im maßgeblichen Zeitpunkt **billigend in Kauf nahm, auch die übrigen Gläubiger künftig nicht vollständig befriedigen zu können**. Fehlen weitere Indizien, muss der Verwalter neben der Zahlungsunfähigkeit darlegen, dass **keine begründete Aussicht bestand, die Deckungslücke zu beseitigen**. Das verschiebt die Darlegungs- und Beweislast zulasten des Insolvenzverwalters und entschärft die Anfechtung kongruenter Deckungen zusätzlich zur Fristverkürzung des § 133 Abs. 2.
+
+Die vollständige, fortlaufend aktualisierte Rechtsprechung zu § 133 InsO (mehrere Tausend Entscheidungen) ist über die [frei zugänglichen Quellen](/references/rechtsprechung-quellen.md) abrufbar, etwa die normbezogene Liste bei dejure.org.
+
 # Bezug
 
 Die Vorsatzanfechtung ist die **allgemeine** Insolvenzanfechtung mit der weitesten Reichweite und ergänzt die kurzfristige [Deckungsanfechtung](/insolvenzrecht/anfechtung-deckungen-130-132.md). Sie setzt den [Grundtatbestand des § 129](/insolvenzrecht/insolvenzanfechtung-129.md) voraus; Rechtsfolge ist die [Rückgewähr](/insolvenzrecht/anfechtung-rechtsfolgen-143-146.md).
@@ -38,3 +46,5 @@ Die Vorsatzanfechtung ist die **allgemeine** Insolvenzanfechtung mit der weitest
 [1] [§ 133 InsO](https://www.gesetze-im-internet.de/inso/__133.html)
 [2] [§ 142 InsO](https://www.gesetze-im-internet.de/inso/__142.html)
 [3] [§ 138 InsO](https://www.gesetze-im-internet.de/inso/__138.html)
+[4] [BGH, Urteil vom 06.05.2021 - IX ZR 72/20 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX%20ZR%2072/20)
+
