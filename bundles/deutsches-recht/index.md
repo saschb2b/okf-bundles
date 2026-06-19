@@ -190,6 +190,17 @@ Die Kerndelikte gegen Leben, Körper, Eigentum, Vermögen und Rechtsverkehr.
 - [Raub und Erpressung (§§ 249, 253)](strafrecht-bt/raub-und-erpressung-249-253.md) - Wegnahme mit Nötigung.
 - [Urkundenfälschung (§ 267)](strafrecht-bt/urkundenfaelschung-267.md) - Echtheit von Urkunden.
 
+# Strafprozessrecht (StPO)
+
+Vom Tatverdacht zum Urteil: Ermittlung, Anklage, Beweis und Rechtsmittel.
+
+- [Legalitätsprinzip und Anklage (§§ 152, 170)](strafprozess/legalitaetsprinzip-und-anklage-152-170.md) - Anklagezwang, Verfahrensgang, Opportunität.
+- [Beschuldigtenrechte und Belehrung (§ 136)](strafprozess/beschuldigtenrechte-und-belehrung-136.md) - Schweigerecht, Verteidiger, Verwertungsverbote.
+- [Untersuchungshaft (§ 112)](strafprozess/untersuchungshaft-112.md) - Dringender Tatverdacht, Haftgründe, Verhältnismäßigkeit.
+- [Ermittlungseingriffe (§§ 94 ff., 102, 100a)](strafprozess/ermittlungseingriffe-102-100a.md) - Beschlagnahme, Durchsuchung, TKÜ, Richtervorbehalt.
+- [Beweisaufnahme und Beweiswürdigung (§§ 244, 261)](strafprozess/beweisaufnahme-und-wuerdigung-244-261.md) - Amtsaufklärung, Beweisantrag, freie Würdigung, in dubio pro reo.
+- [Rechtsmittel (§§ 296 ff.)](strafprozess/rechtsmittel-296.md) - Berufung, Revision, Beschwerde, Verschlechterungsverbot.
+
 # Allgemeines Verwaltungsrecht (VwVfG, VwGO)
 
 Verwaltungshandeln und Verwaltungsprozess.
