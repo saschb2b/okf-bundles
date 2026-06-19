@@ -15,7 +15,7 @@ Dieses Bündel hält fest, **was im deutschen Recht gilt**, in Form belegter Kon
 Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt als viele Gebiete oberflächlich. Ausgearbeitet sind:
 
 - **Grundlage:** [Methodik](/methodik/index.md) (Anspruchsaufbau, Gutachtenstil, Auslegung).
-- **Bürgerliches Recht:** [BGB Allgemeiner Teil](/bgb-at/index.md), [Schuldrecht AT](/schuldrecht-at/index.md), [Kaufrecht](/kaufrecht/index.md), [besondere Schuldverhältnisse](/besondere-schuldverhaeltnisse/index.md), [Deliktsrecht](/deliktsrecht/index.md), [Bereicherungsrecht](/bereicherungsrecht/index.md), [Sachenrecht](/sachenrecht/index.md), [Erbrecht](/erbrecht/index.md), [Familienrecht](/familienrecht/index.md).
+- **Bürgerliches Recht:** [BGB Allgemeiner Teil](/bgb-at/index.md), [Schuldrecht AT](/schuldrecht-at/index.md), [Kaufrecht](/kaufrecht/index.md), [besondere Schuldverhältnisse](/besondere-schuldverhaeltnisse/index.md), [Deliktsrecht](/deliktsrecht/index.md), [Bereicherungsrecht](/bereicherungsrecht/index.md), [Sachenrecht](/sachenrecht/index.md), [Erbrecht](/erbrecht/index.md), [Familienrecht](/familienrecht/index.md), [Betreuungsrecht](/betreuungsrecht/index.md).
 - **Wirtschafts- und Sonderprivatrecht:** [Handels- und Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md), [AGB-Kontrolle](/agb-kontrolle/index.md), [Arbeitsrecht](/arbeitsrecht/index.md), [Mietrecht](/mietrecht/index.md).
 - **Strafrecht:** [Allgemeiner Teil](/strafrecht-at/index.md), [Besonderer Teil](/strafrecht-bt/index.md).
 - **Öffentliches Recht:** [Verfassungsrecht](/verfassungsrecht/index.md), [allgemeines Verwaltungsrecht](/verwaltungsrecht/index.md), [Sozialrecht](/sozialrecht/index.md).

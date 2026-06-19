@@ -256,6 +256,16 @@ Unionsrecht und sein Verhältnis zum nationalen Recht.
 - [Vorabentscheidungsverfahren (Art. 267 AEUV)](europarecht/vorabentscheidungsverfahren-267.md) - Auslegung und Gültigkeit durch den EuGH.
 - [Richtlinienwirkung und Staatshaftung](europarecht/richtlinie-wirkung-und-staatshaftung.md) - Unmittelbare Wirkung, Francovich.
 
+# Betreuungsrecht (§§ 1814 ff. BGB)
+
+Rechtliche Betreuung Volljähriger und Vorsorge (Reform 2023).
+
+- [Rechtliche Betreuung (§ 1814)](betreuungsrecht/rechtliche-betreuung-1814.md) - Voraussetzungen, freier Wille, Erforderlichkeit.
+- [Wünsche und Selbstbestimmung (§ 1821)](betreuungsrecht/wuensche-und-selbstbestimmung-1821.md) - Unterstützung statt Bevormundung.
+- [Vorsorgevollmacht und Kontrollbetreuung (§ 1820)](betreuungsrecht/vorsorgevollmacht-1820.md) - Die Vollmacht, die Betreuung erübrigt.
+- [Patientenverfügung (§ 1827)](betreuungsrecht/patientenverfuegung-1827.md) - Vorausverfügung über ärztliche Maßnahmen.
+- [Genehmigungen und Unterbringung (§§ 1831, 1829, 1833)](betreuungsrecht/genehmigung-und-unterbringung-1831.md) - Freiheitsentzug, genehmigungspflichtige Geschäfte.
+
 # Behinderung und Teilhabe (SGB IX, AGG, BGG)
 
 Schwerbehinderten- und Teilhaberecht.
