@@ -8,3 +8,4 @@ Das System der Sozialleistungen und sein Rechtsschutz: der Aufbau des Sozialgese
 - [Sozialgerichtliches Verfahren (SGG)](sozialgerichtliches-verfahren-sgg.md) - Widerspruch, Klagefrist, Eilrechtsschutz, Kostenfreiheit.
 - [Gesetzliche Krankenversicherung (SGB V)](krankenversicherung-sgb5.md) - Versicherungspflicht und Sachleistungsprinzip.
 - [Gesetzliche Rentenversicherung (SGB VI)](rentenversicherung-sgb6.md) - Alters- und Erwerbsminderungsrente, Wartezeit.
+- [Pflegeversicherung (SGB XI)](pflegeversicherung-sgb11.md) - Pflegegrade, Leistungen, wohnumfeldverbessernde Maßnahmen.

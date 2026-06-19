@@ -153,6 +153,7 @@ Der Kern des Individualarbeitsrechts; Normen im BGB, KSchG und TzBfG.
 - [Außerordentliche Kündigung (§ 626 BGB)](arbeitsrecht/ausserordentliche-kuendigung-626.md) - Wichtiger Grund, Zwei-Wochen-Frist.
 - [Kündigungsschutzklage (§ 4 KSchG)](arbeitsrecht/kuendigungsschutzklage-4-kschg.md) - Drei-Wochen-Frist, Wirksamkeitsfiktion.
 - [Befristung (§ 14 TzBfG)](arbeitsrecht/befristung-14-tzbfg.md) - Sachgrund, sachgrundlose Befristung, Schriftform.
+- [Schwerbehinderte Beschäftigte (§§ 168 ff. SGB IX)](arbeitsrecht/schwerbehinderung-168.md) - Zustimmung des Integrationsamts, Zusatzurlaub.
 
 # Mietrecht (Wohnraummiete, §§ 535 ff. BGB)
 
@@ -164,6 +165,7 @@ Pflichten, Mängel, Betriebskosten, Kaution, Mieterhöhung und Kündigung bei Wo
 - [Kaution (§ 551)](mietrecht/kaution-551.md) - Höchstens drei Monatsmieten.
 - [Mieterhöhung (§ 558)](mietrecht/mieterhoehung-558.md) - Vergleichsmiete und Kappungsgrenze.
 - [Kündigung durch den Vermieter (§§ 573, 573c)](mietrecht/vermieterkuendigung-573.md) - Berechtigtes Interesse, Eigenbedarf, Fristen.
+- [Barrierefreier Umbau (§ 554)](mietrecht/barrierefreiheit-554.md) - Anspruch des Mieters auf bauliche Veränderungen.
 
 # Strafrecht Allgemeiner Teil (StGB)
 
@@ -230,6 +232,7 @@ Sozialleistungen und ihr Rechtsschutz.
 - [Sozialgerichtliches Verfahren (SGG)](sozialrecht/sozialgerichtliches-verfahren-sgg.md) - Widerspruch, Klagefrist, Eilrechtsschutz.
 - [Gesetzliche Krankenversicherung (SGB V)](sozialrecht/krankenversicherung-sgb5.md) - Versicherungspflicht, Sachleistungsprinzip.
 - [Gesetzliche Rentenversicherung (SGB VI)](sozialrecht/rentenversicherung-sgb6.md) - Alters- und Erwerbsminderungsrente.
+- [Pflegeversicherung (SGB XI)](sozialrecht/pflegeversicherung-sgb11.md) - Pflegegrade, Leistungen, wohnumfeldverbessernde Maßnahmen.
 
 # Zivilprozess (ZPO)
 
@@ -252,6 +255,18 @@ Unionsrecht und sein Verhältnis zum nationalen Recht.
 - [Grundfreiheiten](europarecht/grundfreiheiten.md) - Waren, Personen, Dienstleistungen, Kapital.
 - [Vorabentscheidungsverfahren (Art. 267 AEUV)](europarecht/vorabentscheidungsverfahren-267.md) - Auslegung und Gültigkeit durch den EuGH.
 - [Richtlinienwirkung und Staatshaftung](europarecht/richtlinie-wirkung-und-staatshaftung.md) - Unmittelbare Wirkung, Francovich.
+
+# Behinderung und Teilhabe (SGB IX, AGG, BGG)
+
+Schwerbehinderten- und Teilhaberecht.
+
+- [Grad der Behinderung (§ 152 SGB IX)](behinderung-teilhabe/grad-der-behinderung-152.md) - Feststellung, Schwerbehinderung, Gleichstellung.
+- [Merkzeichen und Nachteilsausgleiche (§§ 152, 228, 229)](behinderung-teilhabe/merkzeichen-nachteilsausgleiche.md) - aG, G, H; Parken, Freifahrt, Steuer.
+- [Teilhabe und Persönliches Budget (SGB IX Teil 1)](behinderung-teilhabe/teilhabe-persoenliches-budget.md) - Leistungen, Zuständigkeit, Budget.
+- [Eingliederungshilfe (SGB IX Teil 2)](behinderung-teilhabe/eingliederungshilfe.md) - Assistenz und Teilhabe nach dem BTHG.
+- [Hilfsmittel und Rollstuhl (§ 33 SGB V)](behinderung-teilhabe/hilfsmittel-rollstuhl-33.md) - Versorgung durch die Krankenkasse.
+- [Benachteiligungsverbot (AGG, Art. 3 GG, UN-BRK)](behinderung-teilhabe/benachteiligungsverbot-agg.md) - Diskriminierungsschutz.
+- [Barrierefreiheit (BGG, BFSG, BITV)](behinderung-teilhabe/barrierefreiheit-bgg-bfsg.md) - Zugänglichkeit von Bauten, Produkten, Diensten.
 
 # Referenzen
 

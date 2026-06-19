@@ -8,3 +8,4 @@ Das Wohnraummietrecht: die Pflichten aus dem Mietvertrag, die Minderung bei Män
 - [Kaution (§ 551)](kaution-551.md) - Höchstens drei Monatsmieten, Ratenzahlung, getrennte Anlage.
 - [Mieterhöhung (§ 558)](mieterhoehung-558.md) - Ortsübliche Vergleichsmiete und Kappungsgrenze.
 - [Kündigung durch den Vermieter (§§ 573, 573c)](vermieterkuendigung-573.md) - Berechtigtes Interesse, Eigenbedarf, Fristen.
+- [Barrierefreier Umbau (§ 554)](barrierefreiheit-554.md) - Anspruch des Mieters auf bauliche Veränderungen.

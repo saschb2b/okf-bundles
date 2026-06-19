@@ -21,6 +21,7 @@ Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt 
 - **Öffentliches Recht:** [Verfassungsrecht](/verfassungsrecht/index.md), [allgemeines Verwaltungsrecht](/verwaltungsrecht/index.md), [Sozialrecht](/sozialrecht/index.md).
 - **Verfahrensrecht:** [Zivilprozess](/zivilprozess/index.md) (von der Klage bis zur Zwangsvollstreckung).
 - **Europarecht:** [EUV und AEUV](/europarecht/index.md) (Vorrang, Grundfreiheiten, Vorabentscheidung).
+- **Behinderung und Teilhabe:** [SGB IX, AGG, BGG](/behinderung-teilhabe/index.md) (GdB, Merkzeichen, Eingliederungshilfe, Hilfsmittel, Barrierefreiheit).
 
 Weitere Gebiete (etwa das Strafprozessrecht oder das Steuerrecht) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.
 

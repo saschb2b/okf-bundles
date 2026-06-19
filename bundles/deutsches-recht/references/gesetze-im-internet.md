@@ -64,6 +64,12 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | BVerfGG | Gesetz über das Bundesverfassungsgericht (§§ 90, 93) | https://www.gesetze-im-internet.de/bverfgg/ |
 | SGB II/V/VI/X | Sozialgesetzbuch (Bürgergeld, Kranken-, Rentenversicherung, Verfahren) | https://www.gesetze-im-internet.de/ (sgb_2, sgb_5, sgb_6, sgb_10) |
 | SGG | Sozialgerichtsgesetz (§§ 78, 84, 86b, 87, 183) | https://www.gesetze-im-internet.de/sgg/ |
+| SGB IX | Rehabilitation und Teilhabe (§§ 2, 14, 29, 78, 90, 99, 152, 164, 168, 208, 228, 229) | https://www.gesetze-im-internet.de/sgb_9_2018/ |
+| SGB XI | Soziale Pflegeversicherung (§§ 14, 15, 36, 37, 40) | https://www.gesetze-im-internet.de/sgb_11/ |
+| AGG | Allgemeines Gleichbehandlungsgesetz (§§ 1, 3, 7, 15, 19) | https://www.gesetze-im-internet.de/agg/ |
+| BGG / BFSG | Behindertengleichstellung; Barrierefreiheitsstärkungsgesetz | https://www.gesetze-im-internet.de/bgg/ |
+| EStG | Einkommensteuergesetz (§ 33b Behinderten-Pauschbetrag) | https://www.gesetze-im-internet.de/estg/ |
+| WoEigG (WEG) | Wohnungseigentumsgesetz (§ 20 bauliche Veränderungen) | https://www.gesetze-im-internet.de/woeigg/ |
 | ZPO | Zivilprozessordnung (§§ 253, 261, 322, 330, 331, 688, 704, 767, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
 | GVG | Gerichtsverfassungsgesetz (§§ 23, 71 Zuständigkeit) | https://www.gesetze-im-internet.de/gvg/ |
 | VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |
