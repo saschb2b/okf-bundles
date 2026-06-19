@@ -1,6 +1,6 @@
 # Familienrecht (§§ 1297 ff. BGB, VersAusglG)
 
-Güterrecht, Scheidung und ihre vermögensrechtlichen Folgen, Unterhalt, Abstammung und das Kindschaftsrecht. Die berechenbaren Scheidungsfolgen (Zugewinn, Versorgungsausgleich, Unterhalt) sind als eigene Rechen-Konzepte ausgeführt.
+Güterrecht, Scheidung und ihre vermögensrechtlichen Folgen, Unterhalt, Abstammung und das Kindschaftsrecht einschließlich Adoption, der Gewaltschutz und das familiengerichtliche Verfahren. Die berechenbaren Scheidungsfolgen (Zugewinn, Versorgungsausgleich, Unterhalt) sind als eigene Rechen-Konzepte ausgeführt.
 
 # Güterrecht und Ehevertrag
 
@@ -13,6 +13,7 @@ Güterrecht, Scheidung und ihre vermögensrechtlichen Folgen, Unterhalt, Abstamm
 
 - [Scheidung (§§ 1565, 1566)](scheidung-1565.md) - Scheitern der Ehe, Trennungsjahr, Vermutungen.
 - [Versorgungsausgleich (VersAusglG)](versorgungsausgleich.md) - Hälftige Teilung der in der Ehezeit erworbenen Anrechte.
+- [Ehewohnung und Haushaltsgegenstände (§§ 1361a, 1361b, 1568a, 1568b)](ehewohnung-und-haushalt-1361b-1568a.md) - Zuweisung bei Getrenntleben und Scheidung, Eintritt in das Mietverhältnis.
 
 # Unterhalt
 
@@ -26,3 +27,9 @@ Güterrecht, Scheidung und ihre vermögensrechtlichen Folgen, Unterhalt, Abstamm
 - [Umgangsrecht (§ 1684)](umgangsrecht-1684.md) - Recht des Kindes auf Umgang, Wohlverhaltenspflicht.
 - [Kindeswohlgefährdung (§§ 1666, 1666a)](kindeswohlgefaehrdung-1666.md) - Staatliches Wächteramt, Trennung als letztes Mittel.
 - [Abstammung (§§ 1591 ff.)](abstammung-1591.md) - Mutter, Vater, Anerkennung, Anfechtung.
+- [Adoption (§§ 1741 ff.)](adoption-1741.md) - Annahme als Kind, Kindeswohl, Einwilligungen, Voll- und Stiefkindadoption.
+
+# Schutz und Verfahren
+
+- [Gewaltschutz (GewSchG)](gewaltschutz-gewschg.md) - Kontakt- und Näherungsverbote, Wohnungsüberlassung, Strafbarkeit bei Verstoß.
+- [Familiengerichtliches Verfahren (FamFG)](familienverfahren-famfg.md) - Familiengericht, Amtsermittlung, Scheidungsverbund, Kindesanhörung, einstweilige Anordnung.

@@ -42,7 +42,7 @@ Ankernormen der weiteren Gebiete; jedes Konzept zitiert zusätzlich die von ihm 
 | Arbeitsrecht (BGB-Teil) | §§ 611a, 622, 626 |
 | Sachenrecht | §§ 854, 858, 861, 873, 892, 925, 929 bis 935, 985, 986, 1004 |
 | Erbrecht | §§ 1922, 1924 bis 1931, 1937, 1942 bis 1944, 1967, 1975, 2247, 2303 |
-| Familienrecht | §§ 1361, 1363 bis 1384, 1408, 1410, 1565, 1566, 1569 bis 1578b, 1591 bis 1600d, 1601 bis 1612b, 1626, 1666, 1666a, 1671, 1684 |
+| Familienrecht | §§ 1361, 1361a, 1361b, 1363 bis 1384, 1408, 1410, 1565, 1566, 1568a, 1568b, 1569 bis 1578b, 1591 bis 1600d, 1601 bis 1612b, 1626, 1666, 1666a, 1671, 1684, 1741 bis 1767 |
 | Betreuungsrecht | §§ 1814 bis 1816, 1820, 1821, 1827, 1829, 1831, 1833 (Reform 2023) |
 | Gesellschaftsrecht (BGB-Teil) | §§ 705, 721 (GbR nach MoPeG 2024) |
 
@@ -76,6 +76,8 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | InsO | Insolvenzordnung (§§ 15a, 17 bis 19, 35, 38, 39, 47, 49, 80, 129 bis 133, 143, 174, 178, 286 bis 302, 304, 305) | https://www.gesetze-im-internet.de/inso/ |
 | GVG | Gerichtsverfassungsgesetz (§§ 23, 71 Zuständigkeit) | https://www.gesetze-im-internet.de/gvg/ |
 | VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |
+| GewSchG | Gewaltschutzgesetz (§§ 1, 2, 4; Schutzanordnungen, Wohnungsüberlassung) | https://www.gesetze-im-internet.de/gewschg/ |
+| FamFG | Verfahren in Familiensachen (§§ 26, 49, 111, 137, 158, 159, 214) | https://www.gesetze-im-internet.de/famfg/ |
 | RDG | Rechtsdienstleistungsgesetz (Inkasso, §§ 13a ff.) | https://www.gesetze-im-internet.de/rdg/ |
 | RVG | Rechtsanwaltsvergütungsgesetz (Geschäftsgebühr Nr. 2300 VV) | https://www.gesetze-im-internet.de/rvg/ |
 | UrhG | Urheberrechtsgesetz (§§ 2, 7, 11, 31, 69a bis 69e, 97; Software-Urheberrecht und Lizenz) | https://www.gesetze-im-internet.de/urhg/ |

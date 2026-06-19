@@ -129,6 +129,10 @@ Güterstand, Scheidung, Ausgleich, Unterhalt und elterliche Sorge.
 - [Umgangsrecht (§ 1684)](familienrecht/umgangsrecht-1684.md) - Recht des Kindes auf Umgang.
 - [Kindeswohlgefährdung (§§ 1666, 1666a)](familienrecht/kindeswohlgefaehrdung-1666.md) - Staatliches Wächteramt.
 - [Abstammung (§§ 1591 ff.)](familienrecht/abstammung-1591.md) - Mutter, Vater, Anerkennung, Anfechtung.
+- [Adoption (§§ 1741 ff.)](familienrecht/adoption-1741.md) - Annahme als Kind, Kindeswohl, Einwilligungen, Voll- und Stiefkindadoption.
+- [Ehewohnung und Haushalt (§§ 1361a, 1361b, 1568a, 1568b)](familienrecht/ehewohnung-und-haushalt-1361b-1568a.md) - Zuweisung bei Getrenntleben und Scheidung.
+- [Gewaltschutz (GewSchG)](familienrecht/gewaltschutz-gewschg.md) - Kontakt- und Näherungsverbote, Wohnungsüberlassung.
+- [Familiengerichtliches Verfahren (FamFG)](familienrecht/familienverfahren-famfg.md) - Amtsermittlung, Scheidungsverbund, Kindesanhörung, einstweilige Anordnung.
 
 # AGB-Kontrolle (§§ 305 bis 310 BGB)
 
