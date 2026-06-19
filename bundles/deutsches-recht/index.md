@@ -251,15 +251,21 @@ Sozialleistungen und ihr Rechtsschutz.
 
 # Zivilprozess (ZPO)
 
-Durchsetzung zivilrechtlicher Ansprüche, von der Klage bis zur Vollstreckung.
+Durchsetzung zivilrechtlicher Ansprüche, von der Zuständigkeit über die Klage und den Beweis bis zur Vollstreckung.
 
+- [Zuständigkeit und Parteien (§§ 12 ff. ZPO, §§ 23, 71 GVG)](zivilprozess/zustaendigkeit-und-parteien-12.md) - Sachliche und örtliche Zuständigkeit, Anwaltszwang, Parteifähigkeit.
 - [Klageerhebung (§ 253)](zivilprozess/klageerhebung-253.md) - Klageschrift, Streitgegenstand, Zuständigkeit.
+- [Klagearten und Streitgegenstand (§ 256)](zivilprozess/klagearten-und-streitgegenstand-256.md) - Leistungs-, Feststellungs-, Gestaltungsklage.
 - [Rechtshängigkeit (§ 261)](zivilprozess/rechtshaengigkeit-261.md) - Wirkungen, Rückwirkung der Zustellung.
+- [Beweisrecht und Beweislast (§ 286)](zivilprozess/beweisrecht-und-beweislast-286.md) - Beibringungsgrundsatz, Beweismittel, freie Würdigung, Beweislast.
 - [Versäumnisurteil (§§ 330, 331)](zivilprozess/versaeumnisurteil-330.md) - Säumnis und Einspruch.
 - [Rechtskraft (§ 322)](zivilprozess/rechtskraft-322.md) - Materielle Rechtskraft und Bindung.
+- [Prozesskosten und Prozesskostenhilfe (§§ 91 ff.)](zivilprozess/prozesskosten-und-pkh-91.md) - Unterliegensprinzip, Streitwert, Zugang zum Recht.
+- [Rechtsmittel (§§ 511 ff.)](zivilprozess/rechtsmittel-zpo-511.md) - Berufung, Revision, Beschwerde.
 - [Mahnverfahren (§ 688)](zivilprozess/mahnverfahren-688.md) - Mahnbescheid und Vollstreckungsbescheid.
 - [Einstweiliger Rechtsschutz (§§ 916, 935)](zivilprozess/einstweiliger-rechtsschutz-935.md) - Arrest und einstweilige Verfügung.
-- [Zwangsvollstreckung (§§ 704 ff.)](zivilprozess/zwangsvollstreckung-704.md) - Titel, Pfändung, Schuldnerschutz.
+- [Zwangsvollstreckung: Grundlagen (§§ 704 ff.)](zivilprozess/zwangsvollstreckung-704.md) - Titel, Pfändung, Schuldnerschutz.
+- [Arten der Zwangsvollstreckung (§§ 803 ff.)](zivilprozess/vollstreckungsarten-803.md) - Sach-, Forderungs- und Immobiliarvollstreckung, Pfändungsschutz.
 
 # Insolvenzrecht (InsO, StaRUG)
 

@@ -76,10 +76,11 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | KStG | Körperschaftsteuergesetz (§§ 1, 23; Körperschaftsteuersatz) | https://www.gesetze-im-internet.de/kstg_1977/ |
 | GewStG | Gewerbesteuergesetz (§§ 2, 11; Gewerbeertrag, Hebesatz) | https://www.gesetze-im-internet.de/gewstg/ |
 | WoEigG (WEG) | Wohnungseigentumsgesetz (§ 20 bauliche Veränderungen) | https://www.gesetze-im-internet.de/woeigg/ |
-| ZPO | Zivilprozessordnung (§§ 253, 261, 322, 330, 331, 688, 704, 767, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
+| ZPO | Zivilprozessordnung (§§ 12, 13, 29, 32, 50, 78, 91 bis 93, 114, 253, 256, 260, 263, 286 bis 288, 322, 330, 331, 415, 511, 529, 543, 567, 688, 704, 767, 802c, 803, 808, 829, 850c, 850k, 916, 935) | https://www.gesetze-im-internet.de/zpo/ |
 | InsO | Insolvenzordnung (§§ 15a, 17 bis 19, 35, 38, 39, 47, 49, 80, 94 bis 96, 103, 108, 109, 113, 119, 129 bis 133, 143, 174, 178, 217 bis 254, 270 bis 270d, 286 bis 302, 304, 305) | https://www.gesetze-im-internet.de/inso/ |
 | StaRUG | Unternehmensstabilisierungs- und -restrukturierungsgesetz (§§ 1, 29, 49, 60; präventiver Restrukturierungsrahmen, seit 2021) | https://www.gesetze-im-internet.de/starug/ |
-| GVG | Gerichtsverfassungsgesetz (§§ 23, 71 Zuständigkeit) | https://www.gesetze-im-internet.de/gvg/ |
+| GVG | Gerichtsverfassungsgesetz (§§ 23, 23a, 71 Zuständigkeit; Amtsgericht bis 10.000 Euro) | https://www.gesetze-im-internet.de/gvg/ |
+| ZVG | Zwangsversteigerungsgesetz (Zwangsversteigerung und Zwangsverwaltung von Grundstücken) | https://www.gesetze-im-internet.de/zvg/ |
 | VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |
 | GewSchG | Gewaltschutzgesetz (§§ 1, 2, 4; Schutzanordnungen, Wohnungsüberlassung) | https://www.gesetze-im-internet.de/gewschg/ |
 | FamFG | Verfahren in Familiensachen (§§ 26, 49, 111, 137, 158, 159, 214) | https://www.gesetze-im-internet.de/famfg/ |
