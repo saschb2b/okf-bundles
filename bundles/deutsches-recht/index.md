@@ -38,6 +38,9 @@ Was gilt, wenn die Leistung ausbleibt, zu spät kommt, unmöglich wird oder mang
 - [Unmöglichkeit (§ 275)](schuldrecht-at/unmoeglichkeit.md) - Wegfall der Leistungspflicht.
 - [Schadensersatz statt der Leistung (§§ 281 ff.)](schuldrecht-at/schadensersatz-statt-der-leistung.md) - Mit Fristsetzung.
 - [Rücktritt (§§ 323, 346)](schuldrecht-at/ruecktritt.md) - Lösung und Rückabwicklung.
+- [Erfüllung und Teilleistung (§§ 362, 266)](schuldrecht-at/erfuellung-362.md) - Erlöschen der Schuld, keine Teilleistungspflicht.
+- [Tilgungs- und Anrechnungsreihenfolge (§§ 366, 367)](schuldrecht-at/tilgungsreihenfolge-366-367.md) - Kosten vor Zinsen vor Hauptforderung; Verbraucherdarlehen.
+- [Zinsrecht (§§ 246 bis 291)](schuldrecht-at/zinsrecht-246-291.md) - Gesetzlicher Zins, Basiszinssatz, Zinseszinsverbot, Prozesszinsen.
 
 # Kaufrecht
 
