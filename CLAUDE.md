@@ -2,6 +2,15 @@
 
 This repo is a collection of knowledge bundles in the Open Knowledge Format (OKF v0.1). Each bundle is one self-contained folder at the repo root, readable by any AI agent with no SDK. The format is markdown files with YAML frontmatter; the spec is at [GoogleCloudPlatform/knowledge-catalog](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md).
 
+## Tooling: the `/okf` skill
+
+Authoring and maintenance run through the OKF skill installed at `.claude/skills/okf/`. It is the authoritative tooling; this file is the repo-specific overlay on top of it. Reach for the skill, do not reinvent its steps by hand.
+
+- **Commands.** Invoke `/okf <command>`: `init` (new bundle), `add` (one concept), `enrich` and `export` (turn a source, a docs site, or a URL into concepts), `link`, `index`, `log`, `validate`, `consume`. Each is detailed in [`.claude/skills/okf/commands.md`](.claude/skills/okf/commands.md).
+- **Deep references.** The normative spec is [`.claude/skills/okf/spec.md`](.claude/skills/okf/spec.md); copy-paste starting points are [`.claude/skills/okf/templates.md`](.claude/skills/okf/templates.md). When this file and the spec disagree on anything beyond repo layout, the spec wins.
+- **Implicit mode (the discipline this repo most needs).** Whenever you touch a concept, keep the bundle conformant in the same change: refresh that concept's `timestamp`, append a `log.md` entry, regenerate the affected `index.md` (both the area listing and the root), and add the cross-links the new relationships imply. Validate after each slice, not just at the end. This bookkeeping is where bundles silently rot.
+- **Guard.** OKF is for knowledge an agent reads. Do not convert human-only prose (a README, a blog post, a design doc) into a bundle; ask first when an artifact's audience is unclear.
+
 ## Layout
 
 ```
@@ -21,11 +30,11 @@ A bundle is conformant when every concept document carries YAML frontmatter with
 
 ## Adding a bundle
 
-1. Create `bundles/<bundle>/` with a root `index.md` declaring `okf_version: "0.1"`.
-2. Write concepts grouped by domain. Reserved filenames are `index.md` (listings) and `log.md` (history). Never name a concept either, and never put a `README.md` inside a bundle: the checker treats any other `.md` as a concept and will fail it for missing `type`.
+1. `/okf init` under `bundles/<bundle>/`: a root `index.md` declaring `okf_version: "0.1"`.
+2. `/okf add` one concept at a time, grouped by domain. Reserved filenames are `index.md` (listings) and `log.md` (history). Never name a concept either, and never put a `README.md` inside a bundle: the checker treats any other `.md` as a concept and will fail it for missing `type`.
 3. Add a `log.md` Creation entry dated today (`## YYYY-MM-DD`).
 4. Add a row to the Bundles table in `README.md`.
-5. Run `node scripts/check-bundles.mjs` and fix any errors before committing.
+5. Validate before committing. `/okf validate bundles/<bundle>` checks one bundle; `node scripts/check-bundles.mjs` gates the whole repo (it wraps the same checker over every bundle and warns on a missing README row). `scripts/okf-validate.mjs` is a vendored copy of the skill's `okf-validate.mjs`, kept in sync so the repo gate still runs where the skill is not installed.
 
 ## Concept format
 
