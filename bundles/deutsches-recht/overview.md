@@ -1,7 +1,7 @@
 ---
 type: Overview
 title: "Deutsches Recht: Überblick"
-description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind die Methodik, das gesamte Bürgerliche Recht (alle fünf Bücher des BGB), das Handels-, Arbeits-, Miet- und AGB-Recht, das Strafrecht (Allgemeiner und Besonderer Teil sowie das Strafprozessrecht), das öffentliche Recht (Verfassung, Verwaltung, Sozial), der Zivilprozess, das Insolvenzrecht und das Europarecht.
+description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind die Methodik, das gesamte Bürgerliche Recht (alle fünf Bücher des BGB), das Handels-, Arbeits-, Miet- und AGB-Recht, das Strafrecht (Allgemeiner und Besonderer Teil sowie das Strafprozessrecht), das öffentliche Recht (Verfassung, Verwaltung, Sozial), der Zivilprozess, das Insolvenzrecht, das Europarecht und das IT- und IP-Recht.
 tags: [deutsches-recht, agb-recht, bgb]
 timestamp: 2026-06-18T12:00:00Z
 ---
@@ -22,6 +22,7 @@ Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt 
 - **Verfahrensrecht:** [Zivilprozess](/zivilprozess/index.md) (von der Klage bis zur Zwangsvollstreckung).
 - **Insolvenzrecht:** [InsO](/insolvenzrecht/index.md) (Eröffnungsgründe, Forderungsanmeldung, Anfechtung, Verbraucherinsolvenz, Restschuldbefreiung).
 - **Europarecht:** [EUV und AEUV](/europarecht/index.md) (Vorrang, Grundfreiheiten, Vorabentscheidung).
+- **IT- und IP-Recht:** [UrhG, DSGVO, DDG, BGB](/it-ip-recht/index.md) (Software-Urheberrecht, Lizenz, Datenschutz, Impressum, Softwarevertrag und SaaS).
 - **Behinderung und Teilhabe:** [SGB IX, AGG, BGG](/behinderung-teilhabe/index.md) (GdB, Merkzeichen, Eingliederungshilfe, Hilfsmittel, Barrierefreiheit).
 
 Weitere Gebiete (etwa das Strafprozessrecht oder das Steuerrecht) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.

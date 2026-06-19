@@ -78,6 +78,9 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 | VersAusglG | Versorgungsausgleichsgesetz (§§ 1, 10, 14, 18) | https://www.gesetze-im-internet.de/versausglg/ |
 | RDG | Rechtsdienstleistungsgesetz (Inkasso, §§ 13a ff.) | https://www.gesetze-im-internet.de/rdg/ |
 | RVG | Rechtsanwaltsvergütungsgesetz (Geschäftsgebühr Nr. 2300 VV) | https://www.gesetze-im-internet.de/rvg/ |
+| UrhG | Urheberrechtsgesetz (§§ 2, 7, 11, 31, 69a bis 69e, 97; Software-Urheberrecht und Lizenz) | https://www.gesetze-im-internet.de/urhg/ |
+| DDG | Digitale-Dienste-Gesetz (§§ 5, 7 bis 10; Impressum und Providerhaftung, seit 2024 statt TMG) | https://www.gesetze-im-internet.de/ddg/ |
+| BDSG | Bundesdatenschutzgesetz (§§ 26, 38; ergänzt die DSGVO) | https://www.gesetze-im-internet.de/bdsg_2018/ |
 
 # Hinweis
 

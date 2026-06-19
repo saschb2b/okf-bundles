@@ -278,6 +278,16 @@ Unionsrecht und sein Verhältnis zum nationalen Recht.
 - [Vorabentscheidungsverfahren (Art. 267 AEUV)](europarecht/vorabentscheidungsverfahren-267.md) - Auslegung und Gültigkeit durch den EuGH.
 - [Richtlinienwirkung und Staatshaftung](europarecht/richtlinie-wirkung-und-staatshaftung.md) - Unmittelbare Wirkung, Francovich.
 
+# IT- und IP-Recht
+
+Software, digitale Dienste und Daten: Urheberrecht, Lizenz, Datenschutz, Impressum und Softwarevertrag.
+
+- [Urheberrecht an Software (§§ 69a ff. UrhG)](it-ip-recht/urheberrecht-software-69a.md) - Schutzgegenstand, Arbeitnehmer-Software, Verwertungsrechte, erlaubte Handlungen.
+- [Urheberrecht und Lizenz (§§ 31, 97 UrhG)](it-ip-recht/urheberrecht-und-lizenz-31-97.md) - Nutzungsrechte, Zweckübertragung, Open Source, Ansprüche bei Verletzung.
+- [Datenschutz (DSGVO, BDSG)](it-ip-recht/datenschutz-dsgvo-bdsg.md) - Grundsätze, Rechtsgrundlagen, Betroffenenrechte, Auftragsverarbeitung, Bußgelder.
+- [Digitale Dienste: Impressum und Haftung (DDG)](it-ip-recht/telemedien-impressum-ddg.md) - Anbieterkennzeichnung, Providerhaftung, kein allgemeines Monitoring.
+- [Softwarevertrag und SaaS (§§ 433, 535, 631, 327 ff. BGB)](it-ip-recht/softwarevertrag-und-saas.md) - Kauf, Miete, Werkvertrag, digitale Produkte.
+
 # Betreuungsrecht (§§ 1814 ff. BGB)
 
 Rechtliche Betreuung Volljähriger und Vorsorge (Reform 2023).

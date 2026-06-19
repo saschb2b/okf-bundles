@@ -1,10 +1,10 @@
 ---
 type: Reference
 title: "EUR-Lex (Unionsrecht)"
-description: Das amtliche Portal der Europäischen Union für das Unionsrecht; primäre Fundstelle für EUV, AEUV und das Sekundärrecht, auf das die Konzepte im Gebiet Europarecht gestützt sind.
+description: Das amtliche Portal der Europäischen Union für das Unionsrecht; primäre Fundstelle für EUV, AEUV und das Sekundärrecht, auf das die Konzepte im Gebiet Europarecht und (für die DSGVO) im IT- und IP-Recht gestützt sind.
 resource: https://eur-lex.europa.eu/
-tags: [external, eu-recht, primary-source, eur-lex]
-timestamp: 2026-06-18T12:00:00Z
+tags: [external, eu-recht, primary-source, eur-lex, dsgvo]
+timestamp: 2026-06-19T12:00:00Z
 ---
 
 # Zusammenfassung
@@ -17,6 +17,7 @@ timestamp: 2026-06-18T12:00:00Z
 |--------|--------|------------|
 | EUV | Vertrag über die Europäische Union (konsolidiert) | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016M/TXT |
 | AEUV | Vertrag über die Arbeitsweise der EU (konsolidiert) | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT |
+| DSGVO | Verordnung (EU) 2016/679 (Datenschutz-Grundverordnung) | https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679 |
 | Sekundärrecht | Verordnungen, Richtlinien, Beschlüsse | https://eur-lex.europa.eu/ |
 
 # Hinweis
