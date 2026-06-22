@@ -1,14 +1,15 @@
 # BLW – 2005
 
-10 Entscheidung(en).
+11 Entscheidung(en).
 
 - [BGH, Beschluss vom 09.11.2005 - BLw 21/05](blw-21-05.md) — BGH, Beschluss vom 09.11.2005 - BLw 21/05
-- [BGH, Beschluss vom 06.10.2005 - BLw 1/05](blw-1-05.md) — BGH, Beschluss vom 06.10.2005 - BLw 1/05
-- [BGH, Beschluss vom 06.10.2005 - BLw 10/05](blw-10-05.md) — BGH, Beschluss vom 06.10.2005 - BLw 10/05
+- [BGH, Beschluss vom 06.10.2005 - BLw 1/05](blw-1-05.md) — I. Der während der Anhängigkeit der Sache in der Beschwerdeinstanz, am 31. Oktober 2004, verstorbene F. S. (im folgenden: Erblasser) hat aus eigenem Recht und als Erbe seiner 1995 …
+- [BGH, Beschluss vom 06.10.2005 - BLw 10/05](blw-10-05.md) — I. Der Antragsteller macht gegen die Antragsgegnerin Abfindungsansprü- che geltend. Er war Mitglied der LPG (P) T. , aus der er im Herbst 1990 ausschied. Im Wege des …
 - [BGH, Beschluss vom 06.10.2005 - BLw 14/05](blw-14-05.md) — Besorgnis der Befangenheit abgelehnt. Das Amtsgericht hat das Ablehnungsgesuch zurückgewiesen. Die sofortige Beschwerde der Antragsgegnerin
-- [BGH, Beschluss vom 06.10.2005 - BLw 17/05](blw-17-05.md) — BGH, Beschluss vom 06.10.2005 - BLw 17/05
-- [BGH, Beschluss vom 06.10.2005 - BLw 18/05](blw-18-05.md) — BGH, Beschluss vom 06.10.2005 - BLw 18/05
-- [BGH, Beschluss vom 29.04.2005 - BLw 21/04](blw-21-04.md) — BGH, Beschluss vom 29.04.2005 - BLw 21/04
-- [BGH, Beschluss vom 14.04.2005 - BLw 2/05](blw-2-05.md) — BGH, Beschluss vom 14.04.2005 - BLw 2/05
+- [BGH, Beschluss vom 06.10.2005 - BLw 17/05](blw-17-05.md) — I. Der Antragsteller verfolgt aus abgetretenem Recht Ansprüche nach dem Landwirtschaftsanpassungsgesetz. Er hat beantragt, die Antragsgegnerin zur Zahlung von 14.022,17 € nebst …
+- [BGH, Beschluss vom 06.10.2005 - BLw 18/05](blw-18-05.md) — I. Der Antragsteller verfolgt aus abgetretenem Recht Ansprüche nach dem Landwirtschaftsanpassungsgesetz. Er hat beantragt, die Antragsgegnerin zur Zahlung von 19.862,86 € nebst …
+- [BGH, Beschluss vom 06.10.2005 - BLw 7/05](blw-7-05.md) — I. Der Antragsteller trat 1965 in die LPG "H. " G. L. ein und setzte die Mitgliedschaft später in der Antragsgegnerin, die sich seit dem 1. Januar 1992 in Liquidation befindet …
+- [BGH, Beschluss vom 29.04.2005 - BLw 21/04](blw-21-04.md) — der von W. L.
+- [BGH, Beschluss vom 14.04.2005 - BLw 2/05](blw-2-05.md) — I. Die Antragstellerin und der Antragsgegner sind die Kinder des Arztes Dr. F. H. (nachfolgend Erblasser genannt) und seiner Ehe- frau. Der Erblasser war Eigentümer des im …
 - [BGH, Beschluss vom 03.03.2005 - BLw 32/04](blw-32-04.md) — BGH, Beschluss vom 03.03.2005 - BLw 32/04
 - [BGH, Beschluss vom 03.03.2005 - BLw 33/04](blw-33-04.md) — BGH, Beschluss vom 03.03.2005 - BLw 33/04

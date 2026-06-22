@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BNotO"
 description: "BGH-Entscheidungen zu BNotO, geordnet nach Vorschrift."
 tags: [register, navigation, bnoto]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift
@@ -41,6 +41,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des BNotO auslege
 | § BNotO | [BGH, Beschluss vom 17.03.2014 - ARNot 1/13](../entscheidungen/arnot/2014/arnot-1-13.md) |
 | § BNotO | [BGH, Beschluss vom 24.11.2014 - NotSt (Brfg) 5/14](../entscheidungen/notst/2014/notst-brfg-5-14.md); [BGH, Beschluss vom 23.07.2012 - NotSt (Brfg) 5/11](../entscheidungen/notst/2012/notst-brfg-5-11.md) |
 | § BNotO | [BGH, Urteil vom 18.11.2019 - NotSt (Brfg) 1/19](../entscheidungen/notst/2019/notst-brfg-1-19.md); [BGH, Beschluss vom 17.03.2014 - NotZ (Brfg) 18/13](../entscheidungen/senat-fuer-notarsachen/2014/notz-brfg-18-13.md) |
+| § BNotO | [BGH, Beschluss vom 20.03.2000 - NotZ 20/00](../entscheidungen/senat-fuer-notarsachen/2000/notz-20-00.md); [BGH, Beschluss vom 20.03.2000 - NotZ 20/99](../entscheidungen/senat-fuer-notarsachen/2000/notz-20-99.md) |
 | § BNotO | [BGH, Beschluss vom 07.06.2010 - NotZ 9/09](../entscheidungen/senat-fuer-notarsachen/2010/notz-9-09.md) |
 | § BNotO | [BGH, Beschluss vom 21.11.2016 - NotZ (Brfg) 2/16](../entscheidungen/senat-fuer-notarsachen/2016/notz-brfg-2-16.md); [BGH, Beschluss vom 05.03.2012 - NotZ (Brfg) 13/11](../entscheidungen/senat-fuer-notarsachen/2012/notz-brfg-13-11.md) |
 | § BNotO | [BGH, Beschluss vom 23.05.2022 - V ZB 9/21](../entscheidungen/v-zivilsenat/2022/v-zb-9-21.md) |

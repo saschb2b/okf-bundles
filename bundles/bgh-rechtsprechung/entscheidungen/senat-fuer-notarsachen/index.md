@@ -1,6 +1,6 @@
 # Senat für Notarsachen
 
-Berufsrecht der Notare. 164 Entscheidung(en).
+Berufsrecht der Notare. 227 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -20,11 +20,12 @@ Berufsrecht der Notare. 164 Entscheidung(en).
 - [2012](2012/index.md) (13)
 - [2011](2011/index.md) (6)
 - [2010](2010/index.md) (10)
-- [2009](2009/index.md) (1)
-- [2008](2008/index.md) (7)
-- [2007](2007/index.md) (12)
-- [2006](2006/index.md) (7)
-- [2005](2005/index.md) (11)
-- [2004](2004/index.md) (2)
-- [2003](2003/index.md) (5)
-- [2002](2002/index.md) (1)
+- [2009](2009/index.md) (5)
+- [2008](2008/index.md) (14)
+- [2007](2007/index.md) (17)
+- [2006](2006/index.md) (24)
+- [2005](2005/index.md) (14)
+- [2004](2004/index.md) (7)
+- [2003](2003/index.md) (7)
+- [2002](2002/index.md) (10)
+- [2000](2000/index.md) (11)

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZPO"
 description: "BGH-Entscheidungen zu ZPO, geordnet nach Vorschrift."
 tags: [register, navigation, zpo]
-timestamp: 2026-06-22T13:45:57Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift
@@ -167,7 +167,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des ZPO auslegen.
 | § ZPO | [BGH, Beschluss vom 15.12.2020 - XI ZB 24/16](../entscheidungen/xi-zivilsenat/2020/xi-zb-24-16.md); [BGH, Urteil vom 28.01.2020 - EnZR 116/18](../entscheidungen/kartellsenat/2020/enzr-116-18.md); [BGH, Urteil vom 26.02.2016 - V ZR 131/15](../entscheidungen/v-zivilsenat/2016/v-zr-131-15.md); [BGH, Urteil vom 23.04.2015 - III ZR 195/14](../entscheidungen/iii-zivilsenat/2015/iii-zr-195-14.md); [BGH, Urteil vom 19.10.2012 - V ZR 233/11](../entscheidungen/v-zivilsenat/2012/v-zr-233-11.md); [BGH, Beschluss vom 20.02.2012 - KZR 23/11](../entscheidungen/kartellsenat/2012/kzr-23-11.md); [BGH, Urteil vom 10.02.2012 - V ZR 145/11](../entscheidungen/v-zivilsenat/2012/v-zr-145-11.md); [BGH, Urteil vom 11.11.2011 - V ZR 45/11](../entscheidungen/v-zivilsenat/2011/v-zr-45-11.md); [BGH, Urteil vom 20.05.2011 - V ZR 175/10](../entscheidungen/v-zivilsenat/2011/v-zr-175-10.md) |
 | Art. ZPO | [BGH, Beschluss vom 12.10.2023 - IX ZB 60/21](../entscheidungen/ix-zivilsenat/2023/ix-zb-60-21.md); [BGH, Beschluss vom 19.05.2022 - IX ZB 58/20](../entscheidungen/ix-zivilsenat/2022/ix-zb-58-20.md) |
 | § ZPO | [BGH, Beschluss vom 20.05.2025 - II ZR 99/24](../entscheidungen/ii-zivilsenat/2025/ii-zr-99-24.md); [BGH, Beschluss vom 29.08.2023 - VIII ZR 227/22](../entscheidungen/viii-zivilsenat/2023/viii-zr-227-22.md); [BGH, Urteil vom 21.07.2023 - V ZR 90/22](../entscheidungen/v-zivilsenat/2023/v-zr-90-22.md); [BGH, Beschluss vom 27.01.2022 - V ZR 64/21](../entscheidungen/v-zivilsenat/2022/v-zr-64-21.md); [BGH, Beschluss vom 09.12.2021 - V ZR 112/21](../entscheidungen/v-zivilsenat/2021/v-zr-112-21.md); [BGH, Beschluss vom 19.10.2021 - VIII ZR 160/20](../entscheidungen/viii-zivilsenat/2021/viii-zr-160-20.md); [BGH, Urteil vom 15.09.2016 - III ZR 461/15](../entscheidungen/iii-zivilsenat/2016/iii-zr-461-15.md); [BGH, Beschluss vom 06.07.2016 - IV ZR 430/15](../entscheidungen/iv-zivilsenat/2016/iv-zr-430-15.md); [BGH, Urteil vom 26.10.2012 - V ZR 7/12](../entscheidungen/v-zivilsenat/2012/v-zr-7-12.md); [BGH, Beschluss vom 07.03.2012 - AnwZ (B) 13/10](../entscheidungen/senat-fuer-anwaltssachen/2012/anwz-b-13-10.md) |
-| § ZPO | [BGH, Beschluss vom 10.12.2024 - VI ZR 7/24](../entscheidungen/vi-zivilsenat/2024/vi-zr-7-24.md); [BGH, Beschluss vom 20.04.2023 - V ZB 56/22](../entscheidungen/v-zivilsenat/2023/v-zb-56-22.md); [BGH, Beschluss vom 28.01.2022 - V ZR 86/21](../entscheidungen/v-zivilsenat/2022/v-zr-86-21.md) |
+| § ZPO | [BGH, Beschluss vom 10.12.2024 - VI ZR 7/24](../entscheidungen/vi-zivilsenat/2024/vi-zr-7-24.md); [BGH, Beschluss vom 20.04.2023 - V ZB 56/22](../entscheidungen/v-zivilsenat/2023/v-zb-56-22.md); [BGH, Beschluss vom 28.01.2022 - V ZR 86/21](../entscheidungen/v-zivilsenat/2022/v-zr-86-21.md); [BGH, Beschluss vom 20.03.2000 - NotZ 20/00](../entscheidungen/senat-fuer-notarsachen/2000/notz-20-00.md); [BGH, Beschluss vom 20.03.2000 - NotZ 20/99](../entscheidungen/senat-fuer-notarsachen/2000/notz-20-99.md) |
 | § ZPO | [BGH, Beschluss vom 24.03.2022 - V ZR 149/21](../entscheidungen/v-zivilsenat/2022/v-zr-149-21.md); [BGH, Urteil vom 13.01.2011 - IX ZR 53/09](../entscheidungen/ix-zivilsenat/2011/ix-zr-53-09.md); [BGH, Beschluss vom 18.08.2010 - V ZB 164/09](../entscheidungen/v-zivilsenat/2010/v-zb-164-09.md) |
 | Art. ZPO | [BGH, Beschluss vom 15.07.2021 - IX ZB 73/19](../entscheidungen/ix-zivilsenat/2021/ix-zb-73-19.md) |
 | § ZPO | [BGH, Beschluss vom 16.12.2010 - Xa ZR 81/09](../entscheidungen/x-a/2010/xa-zr-81-09.md); [BGH, Beschluss vom 31.05.2010 - II ZB 9/09](../entscheidungen/ii-zivilsenat/2010/ii-zb-9-09.md) |
@@ -357,7 +357,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des ZPO auslegen.
 | § ZPO | [BGH, Beschluss vom 17.09.2024 - XI ZR 130/23](../entscheidungen/xi-zivilsenat/2024/xi-zr-130-23.md); [BGH, Urteil vom 04.11.2010 - I ZR 190/08](../entscheidungen/i-zivilsenat/2010/i-zr-190-08.md); [BGH, Beschluss vom 01.07.2010 - I ZR 61/09](../entscheidungen/i-zivilsenat/2010/i-zr-61-09.md) |
 | § ZPO | [BGH, Urteil vom 08.09.2016 - III ZR 7/15](../entscheidungen/iii-zivilsenat/2016/iii-zr-7-15.md); [BGH, Beschluss vom 31.03.2016 - I ZB 76/15](../entscheidungen/i-zivilsenat/2016/i-zb-76-15.md) |
 | § ZPO | [BGH, Beschluss vom 28.06.2012 - IX ZB 313/11](../entscheidungen/ix-zivilsenat/2012/ix-zb-313-11.md) |
-| § ZPO | [BGH, Beschluss vom 25.02.2021 - I ZB 78/20](../entscheidungen/i-zivilsenat/2021/i-zb-78-20.md) |
+| § ZPO | [BGH, Beschluss vom 25.02.2021 - I ZB 78/20](../entscheidungen/i-zivilsenat/2021/i-zb-78-20.md); [BGH, Beschluss vom 20.03.2000 - NotZ 20/00](../entscheidungen/senat-fuer-notarsachen/2000/notz-20-00.md); [BGH, Beschluss vom 20.03.2000 - NotZ 20/99](../entscheidungen/senat-fuer-notarsachen/2000/notz-20-99.md) |
 | § ZPO | [BGH, Beschluss vom 13.03.2025 - V ZR 188/24](../entscheidungen/v-zivilsenat/2025/v-zr-188-24.md) |
 | § ZPO | [BGH, Beschluss vom 14.01.2020 - X ZR 33/19](../entscheidungen/x-zivilsenat/2020/x-zr-33-19.md); [BGH, Beschluss vom 05.04.2017 - IV AR (VZ) 2/16](../entscheidungen/iv-ar/2017/iv-ar-vz-2-16.md) |
 | § ZPO | [BGH, Beschluss vom 25.06.2020 - I ZB 108/19](../entscheidungen/i-zivilsenat/2020/i-zb-108-19.md); [BGH, Beschluss vom 14.02.2019 - I ZB 33/18](../entscheidungen/i-zivilsenat/2019/i-zb-33-18.md); [BGH, Urteil vom 20.06.2013 - VII ZR 103/12](../entscheidungen/vii-zivilsenat/2013/vii-zr-103-12.md); [BGH, Urteil vom 09.11.2011 - IV ZR 171/10](../entscheidungen/iv-zivilsenat/2011/iv-zr-171-10.md); [BGH, Urteil vom 11.05.2011 - VIII ZR 42/10](../entscheidungen/viii-zivilsenat/2011/viii-zr-42-10.md) |
@@ -478,6 +478,8 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des ZPO auslegen.
 | § ZPO | [BGH, Beschluss vom 27.01.2011 - VII ZR 175/09](../entscheidungen/vii-zivilsenat/2011/vii-zr-175-09.md) |
 | § ZPO | [BGH, Beschluss vom 27.01.2010 - VII ZR 97/08](../entscheidungen/vii-zivilsenat/2010/vii-zr-97-08.md) |
 | § ZPO | [BGH, Beschluss vom 23.06.2014 - X ARZ 146/14](../entscheidungen/x-arz/2014/x-arz-146-14.md) |
+| § ZPO | [BGH, Urteil vom 07.05.2003 - XII ZR 140/01](../entscheidungen/xii-zivilsenat/2003/xii-zr-140-01.md) |
+| § ZPO | [BGH, Urteil vom 07.05.2003 - XII ZR 140/01](../entscheidungen/xii-zivilsenat/2003/xii-zr-140-01.md) |
 | § ZPO | [BGH, Versäumnisurteil vom 09.04.2026 - III ZR 52/25](../entscheidungen/iii-zivilsenat/2026/iii-zr-52-25.md) |
 | § ZPO | [BGH, Urteil vom 22.01.2015 - I ZR 59/14](../entscheidungen/i-zivilsenat/2015/i-zr-59-14.md) |
 | § ZPO | [BGH, Beschluss vom 07.06.2018 - V ZB 252/17](../entscheidungen/v-zivilsenat/2018/v-zb-252-17.md) |

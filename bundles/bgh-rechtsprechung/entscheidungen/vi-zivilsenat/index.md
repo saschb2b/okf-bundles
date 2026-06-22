@@ -1,6 +1,6 @@
 # VI. Zivilsenat
 
-Deliktsrecht, Arzthaftung, Persönlichkeits- und Presserecht, Verkehrsunfall. 1662 Entscheidung(en).
+Deliktsrecht, Arzthaftung, Persönlichkeits- und Presserecht, Verkehrsunfall. 1852 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -21,13 +21,13 @@ Deliktsrecht, Arzthaftung, Persönlichkeits- und Presserecht, Verkehrsunfall. 16
 - [2012](2012/index.md) (82)
 - [2011](2011/index.md) (90)
 - [2010](2010/index.md) (106)
-- [2009](2009/index.md) (21)
-- [2008](2008/index.md) (28)
-- [2007](2007/index.md) (33)
-- [2006](2006/index.md) (24)
-- [2005](2005/index.md) (23)
-- [2004](2004/index.md) (25)
-- [2003](2003/index.md) (31)
-- [2002](2002/index.md) (24)
-- [2001](2001/index.md) (16)
-- [2000](2000/index.md) (11)
+- [2009](2009/index.md) (38)
+- [2008](2008/index.md) (53)
+- [2007](2007/index.md) (55)
+- [2006](2006/index.md) (50)
+- [2005](2005/index.md) (36)
+- [2004](2004/index.md) (55)
+- [2003](2003/index.md) (53)
+- [2002](2002/index.md) (40)
+- [2001](2001/index.md) (24)
+- [2000](2000/index.md) (22)

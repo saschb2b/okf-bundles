@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Urteil vom 18.05.2005 - VIII ZR 368/03"
-description: "unberechtigter Eigenbedarfskündigung. "
+description: "unberechtigter Eigenbedarfskündigung."
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2003/VIII_ZR_368-03.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "VIII. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2005-05-18
 aktenzeichen: "VIII ZR 368/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:19:48Z
+timestamp: 2026-06-22T14:12:00Z
 ---
 # Volltext
 

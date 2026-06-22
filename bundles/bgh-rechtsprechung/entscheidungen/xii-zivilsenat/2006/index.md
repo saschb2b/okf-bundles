@@ -1,22 +1,38 @@
 # XII. Zivilsenat – 2006
 
-31 Entscheidung(en).
+51 Entscheidung(en).
 
 - [BGH, Urteil vom 20.12.2006 - XII ZR 137/04](xii-zr-137-04.md) — Tatbestand:
+- [BGH, Beschluss vom 13.12.2006 - XII ZB 176/03](xii-zb-176-03.md) — I. 1 Der Kläger wendet sich dagegen, dass ihm in der Kostenentscheidung nach Klagerücknahme im Hauptsacheverfahren auch die den Beklagten im selbständigen Beweisverfahren …
+- [BGH, Beschluss vom 13.12.2006 - XII ZR 18/06](xii-zr-18-06.md) — Soweit der Beklagte für die Zeit vom April 2003 bis Mai 2005 zur Zahlung verurteilt worden ist, ist er mit 5.940 € beschwert.
+- [BGH, Urteil vom 06.12.2006 - XII ZR 164/04](xii-zr-164-04.md) — Tenor berichtigt durch anliegenden Beschluss.
 - [BGH, Urteil vom 06.12.2006 - XII ZR 190/06](xii-zr-190-06.md) — eines gesetzlichen Verbindungsverbots nicht hätten verbunden werden dürfen.
+- [BGH, Beschluss vom 29.11.2006 - XII ZB 194/05](xii-zb-194-05.md) — I. 1 Mit Teilurteil vom 21. April 2005 hat das Landgericht auf die Zwischen- feststellungswiderklage des Beklagten festgestellt, "dass die Klägerin verpflich- tet ist, im …
+- [BGH, Beschluss vom 29.11.2006 - XII ZB 9/04](xii-zb-9-04.md) — Die Anhörungsrügen sind zulässig, aber nicht begründet.
+- [BGH, Beschluss vom 29.11.2006 - XII ZR 136/05](xii-zr-136-05.md) — des Beschlusses vom 5. Oktober 2006 wird verwiesen. Hahne Ahlt Sprick Vézina Fuchs Vorinstanzen: LG Itzehoe, Entscheidung vom 24.10.2001 - 6 O 112/01 OLG Schleswig, Entscheidung …
+- [BGH, Beschluss vom 29.11.2006 - XII ZR 174/05](xii-zr-174-05.md) — BGH, Beschluss vom 29.11.2006 - XII ZR 174/05
 - [BGH, Beschluss vom 29.11.2006 - XII ZR 175/04](xii-zr-175-04.md) — BGH, Beschluss vom 29.11.2006 - XII ZR 175/04
-- [BGH, Urteil vom 22.11.2006 - XII ZR 119/04](xii-zr-119-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.11.2006 - XII ZR 24/04](xii-zr-24-04.md) — BGH, Urteil vom 22.11.2006 - XII ZR 24/04
 - [BGH, Urteil vom 22.11.2006 - XII ZR 8/05](xii-zr-8-05.md) — einer (weiteren) Zugewinnausgleichsforderung in Höhe von 68.873,74 € nebst Zinsen zurückgewiesen worden ist.
+- [BGH, Urteil vom 15.11.2006 - XII ZR 63/04](xii-zr-63-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2006 - XII ZR 92/04](xii-zr-92-04.md) — Tatbestand:
 - [BGH, Beschluss vom 15.11.2006 - XII ZR 97/04](xii-zr-97-04.md) — des Verbindungsverbots des § 640 c ZPO den Haupt- und den Hilfsantrag der Klage vor dem Verhandlungstermin am 6. Dezember 2006 durch Beschlu
 - [BGH, Beschluss vom 25.10.2006 - XII ZB 211/04](xii-zb-211-04.md) — BGH, Beschluss vom 25.10.2006 - XII ZB 211/04
+- [BGH, Urteil vom 25.10.2006 - XII ZR 144/04](xii-zr-144-04.md) — Tatbestand:
 - [BGH, Urteil vom 25.10.2006 - XII ZR 5/04](xii-zr-5-04.md) — Tatbestand:
 - [BGH, Beschluss vom 11.10.2006 - XII ZR 285/02](xii-zr-285-02.md) — BGH, Beschluss vom 11.10.2006 - XII ZR 285/02
 - [BGH, Urteil vom 11.10.2006 - XII ZR 79/04](xii-zr-79-04.md) — Tatbestand:
-- [BGH, Beschluss vom 05.10.2006 - XII ZR 50/04](xii-zr-50-04.md) — BGH, Beschluss vom 05.10.2006 - XII ZR 50/04
 - [BGH, Beschluss vom 20.09.2006 - XII ZB 248/03](xii-zb-248-03.md) — regelmäßig nach der Barwert-Verordnung zu ermitteln.
+- [BGH, Urteil vom 30.08.2006 - XII ZR 138/04](xii-zr-138-04.md) — 3-
+- [BGH, Urteil vom 30.08.2006 - XII ZR 98/04](xii-zr-98-04.md) — Tatbestand:
+- [BGH, Beschluss vom 23.08.2006 - XII ZR 214/04](xii-zr-214-04.md) — Zahlungsverzugs der Be-
+- [BGH, Beschluss vom 02.08.2006 - XII ZB 84/06](xii-zb-84-06.md) — Versäumung der Berufungsbegründungsfrist. Zur Begrün-
 - [BGH, Beschluss vom 26.07.2006 - XII ZR 46/05](xii-zr-46-05.md) — BGH, Beschluss vom 26.07.2006 - XII ZR 46/05
 - [BGH, Urteil vom 12.07.2006 - XII ZR 178/03](xii-zr-178-03.md) — BGH, Urteil vom 12.07.2006 - XII ZR 178/03
+- [BGH, Urteil vom 12.07.2006 - XII ZR 39/04](xii-zr-39-04.md) — des damit verbundenen Haftungsrisikos des Mieters gegen § 307 Abs. 1 Satz 1 BGB.
+- [BGH, Urteil vom 28.06.2006 - XII ZR 50/04](xii-zr-50-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 28.06.2006 - XII ZR 82/04](xii-zr-82-04.md) — Tatbestand:
+- [BGH, Urteil vom 21.06.2006 - XII ZR 147/04](xii-zr-147-04.md) — Tatbestand:
 - [BGH, Beschluss vom 17.05.2006 - XII ZB 233/05](xii-zb-233-05.md) — BGH, Beschluss vom 17.05.2006 - XII ZB 233/05
 - [BGH, Beschluss vom 17.05.2006 - XII ZB 250/03](xii-zb-250-03.md) — BGH, Beschluss vom 17.05.2006 - XII ZB 250/03
 - [BGH, Beschluss vom 10.05.2006 - XII ZB 42/05](xii-zb-42-05.md) — Versäumung dieser Frist verwerfenden Beschlusses voraus.
@@ -29,6 +45,10 @@
 - [BGH, Urteil vom 12.04.2006 - XII ZR 31/04](xii-zr-31-04.md) — Tatbestand:
 - [BGH, Beschluss vom 29.03.2006 - XII ZB 2/02](xii-zb-2-02.md) — grober Unbilligkeit nach § 1587 c Abs. 1 Nr. 1 BGB im Einzelfall eine Gesamtwürdigung aller wirtschaftlichen, sozialen und persönlichen Verh
 - [BGH, Urteil vom 29.03.2006 - XII ZR 207/03](xii-zr-207-03.md) — Tatbestand:
+- [BGH, Beschluss vom 15.03.2006 - XII ZR 209/05](xii-zr-209-05.md) — eines Teils der prozessbezogenen Kosten (hier: Anwaltsgebühren) verständigen und der Rechtsmittelführer danach eine von ihm eingelegte Nicht
+- [BGH, Urteil vom 15.03.2006 - XII ZR 30/04](xii-zr-30-04.md) — Tatbestand:
+- [BGH, Urteil vom 01.03.2006 - XII ZR 210/04](xii-zr-210-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 01.03.2006 - XII ZR 230/04](xii-zr-230-04.md) — Tatbestand:
 - [BGH, Beschluss vom 25.01.2006 - XII ZR 86/04](xii-zr-86-04.md) — BGH, Beschluss vom 25.01.2006 - XII ZR 86/04
 - [BGH, Beschluss vom 18.01.2006 - XII ZB 137/01](xii-zb-137-01.md) — BGH, Beschluss vom 18.01.2006 - XII ZB 137/01
 - [BGH, Beschluss vom 18.01.2006 - XII ZB 206/01](xii-zb-206-01.md) — BGH, Beschluss vom 18.01.2006 - XII ZB 206/01

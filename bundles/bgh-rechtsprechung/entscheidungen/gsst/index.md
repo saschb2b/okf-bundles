@@ -1,6 +1,6 @@
 # GSST
 
-Großer Senat bzw. Vereinigte Große Senate (Vorlagen zur Sicherung der Rechtseinheit). 15 Entscheidung(en).
+Großer Senat bzw. Vereinigte Große Senate (Vorlagen zur Sicherung der Rechtseinheit). 17 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -16,3 +16,5 @@ Großer Senat bzw. Vereinigte Große Senate (Vorlagen zur Sicherung der Rechtsei
 - [2010](2010/index.md) (1)
 - [2008](2008/index.md) (1)
 - [2007](2007/index.md) (1)
+- [2005](2005/index.md) (1)
+- [2001](2001/index.md) (1)

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu TPG"
 description: "BGH-Entscheidungen zu TPG, geordnet nach Vorschrift."
 tags: [register, navigation, tpg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

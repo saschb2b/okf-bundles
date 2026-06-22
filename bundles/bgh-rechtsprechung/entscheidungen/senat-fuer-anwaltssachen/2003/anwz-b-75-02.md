@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 29.09.2003 - AnwZ (B) 75/02"
-description: "Widerrufs der Zulassung zur Rechtsanwaltschaft "
+description: "Widerrufs der Zulassung zur Rechtsanwaltschaft"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2002/AnwZ_B__75-02.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "Senat für Anwaltssachen"
@@ -9,7 +9,7 @@ datum: 2003-09-29
 aktenzeichen: "AnwZ (B) 75/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:16:02Z
+timestamp: 2026-06-22T14:07:59Z
 ---
 # Volltext
 

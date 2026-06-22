@@ -1,33 +1,66 @@
 # I. Zivilsenat – 2004
 
-29 Entscheidung(en).
+62 Entscheidung(en).
 
+- [BGH, Beschluss vom 16.12.2004 - I ZB 12/02](i-zb-12-02.md) — eines engen beschreibenden Bezugs der angemeldeten Marke zu allen angemeldeten Waren und Dienstleistungen nicht begründet werden.
 - [BGH, Beschluss vom 16.12.2004 - I ZB 23/04](i-zb-23-04.md) — BGH, Beschluss vom 16.12.2004 - I ZB 23/04
+- [BGH, Urteil vom 16.12.2004 - I ZR 222/02](i-zr-222-02.md) — Tatbestand:
+- [BGH, Urteil vom 16.12.2004 - I ZR 69/02](i-zr-69-02.md) — Tatbestand:
+- [BGH, Beschluss vom 02.12.2004 - I ZB 14/04](i-zb-14-04.md) — I. Der Schutz für die am 30. Juni 1922 angemeldete Wortmarke Kanold wurde zuletzt mit Wirkung vom Juni 1992 verlängert. Die niederländischen Vertreter der Markeninhaberin …
 - [BGH, Beschluss vom 02.12.2004 - I ZB 8/04](i-zb-8-04.md) — BGH, Beschluss vom 02.12.2004 - I ZB 8/04
 - [BGH, Urteil vom 02.12.2004 - I ZR 207/01](i-zr-207-01.md) — Tatbestand:
 - [BGH, Beschluss vom 25.11.2004 - I ZB 16/04](i-zb-16-04.md) — berufswidriger Werbung geltend, hat er im Rahmen der Kostenerstattung keinen Anspruch auf Zahlung von Umsatzsteuer.
+- [BGH, Urteil vom 25.11.2004 - I ZR 145/02](i-zr-145-02.md) — 3-
+- [BGH, Urteil vom 25.11.2004 - I ZR 210/01](i-zr-210-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.11.2004 - I ZR 156/02](i-zr-156-02.md) — Tatbestand:
 - [BGH, Urteil vom 28.10.2004 - I ZR 38/02](i-zr-38-02.md) — Tatbestand:
+- [BGH, Urteil vom 28.10.2004 - I ZR 59/02](i-zr-59-02.md) — Tatbestand:
+- [BGH, Beschluss vom 13.10.2004 - I ZB 10/02](i-zb-10-02.md) — absoluter Schutzhindernisse nach § 8 Abs. 2 MarkenG nicht eingetragen werden dürfen. Sie lehne sich an den INN (International Nonproprietary
+- [BGH, Beschluss vom 13.10.2004 - I ZB 4/02](i-zb-4-02.md) — der klanglichen Ähnlichkeit der Marken nicht ausgegangen werden. Der Gesamteindruck der kollidierenden Marken werde nicht nur durch die Wört
+- [BGH, Urteil vom 13.10.2004 - I ZR 181/02](i-zr-181-02.md) — 3Tatbestand:
+- [BGH, Urteil vom 13.10.2004 - I ZR 49/03](i-zr-49-03.md) — Tatbestand:
+- [BGH, Beschluss vom 07.10.2004 - I ZB 19/04](i-zb-19-04.md) — Der Beklagte legt nicht dar, aus welchen Gründen der entsprechend der rechtsfehlerfreien Bemessung der Vorinstanzen auf 20.000 € festgesetzte Beschwerdewert auf 4.000 € …
+- [BGH, Urteil vom 07.10.2004 - I ZR 18/02](i-zr-18-02.md) — 3-
 - [BGH, Versäumnisurteil vom 30.09.2004 - I ZR 135/02](i-zr-135-02.md) — Tatbestand:
+- [BGH, Urteil vom 30.09.2004 - I ZR 14/02](i-zr-14-02.md) — Tatbestand:
 - [BGH, Urteil vom 30.09.2004 - I ZR 261/02](i-zr-261-02.md) — Tatbestand:
+- [BGH, Beschluss vom 30.09.2004 - I ZR 30/04](i-zr-30-04.md) — I. Die Beklagte hat in einer am Freitag, den 21. Juni 2002 erschienenen Werbeanzeige die Gewährung von 20 % Rabatt "auf alles - heute und morgen" angekündigt. Der Kläger hat darin …
 - [BGH, Urteil vom 09.09.2004 - I ZR 65/02](i-zr-65-02.md) — Tatbestand:
 - [BGH, Urteil vom 09.09.2004 - I ZR 93/02](i-zr-93-02.md) — Tatbestand:
+- [BGH, Beschluss vom 12.08.2004 - I ZB 1/04](i-zb-1-04.md) — I. Die Anmelder haben mit ihrer am 18. Mai 1999 eingereichten Anmeldung die Eintragung der nachstehend dargestellten Bildmarke für die Dienstleistungen "Geschäftsführung …
 - [BGH, Beschluss vom 12.08.2004 - I ZB 19/01](i-zb-19-01.md) — BGH, Beschluss vom 12.08.2004 - I ZB 19/01
 - [BGH, Beschluss vom 12.08.2004 - I ZB 20/01](i-zb-20-01.md) — BGH, Beschluss vom 12.08.2004 - I ZB 20/01
 - [BGH, Beschluss vom 12.08.2004 - I ZB 35/00](i-zb-35-00.md) — BGH, Beschluss vom 12.08.2004 - I ZB 35/00
 - [BGH, Beschluss vom 12.08.2004 - I ZR 98/02](i-zr-98-02.md) — BGH, Beschluss vom 12.08.2004 - I ZR 98/02
+- [BGH, Urteil vom 22.07.2004 - I ZR 288/01](i-zr-288-01.md) — seines Nähr-, Geruchs- oder Geschmackswerts Lebensmitteln zugesetzt wird.
 - [BGH, Urteil vom 15.07.2004 - I ZR 142/01](i-zr-142-01.md) — zu berücksichtigen.
+- [BGH, Urteil vom 15.07.2004 - I ZR 37/01](i-zr-37-01.md) — 3-
 - [BGH, Urteil vom 08.07.2004 - I ZR 142/02](i-zr-142-02.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2004 - I ZR 26/02](i-zr-26-02.md) — Werbebehinderung gegen § 1 UWG und stellen auch keine nach dieser Bestimmung unzulässige allgemeine Marktbehinderung dar.
-- [BGH, Urteil vom 17.06.2004 - I ZR 284/01](i-zr-284-01.md) — BGH, Urteil vom 17.06.2004 - I ZR 284/01
+- [BGH, Beschluss vom 17.06.2004 - I ZR 12/04](i-zr-12-04.md) — BGH, Beschluss vom 17.06.2004 - I ZR 12/04
+- [BGH, Urteil vom 17.06.2004 - I ZR 284/01](i-zr-284-01.md) — 3-
 - [BGH, Urteil vom 09.06.2004 - I ZR 266/00](i-zr-266-00.md) — Tatbestand:
+- [BGH, Urteil vom 09.06.2004 - I ZR 70/02](i-zr-70-02.md) — 3-
 - [BGH, Urteil vom 13.05.2004 - I ZR 261/01](i-zr-261-01.md) — BGH, Urteil vom 13.05.2004 - I ZR 261/01
 - [BGH, Urteil vom 13.05.2004 - I ZR 264/00](i-zr-264-00.md) — Tatbestand:
+- [BGH, Urteil vom 06.05.2004 - I ZR 223/01](i-zr-223-01.md) — 3-
+- [BGH, Beschluss vom 29.04.2004 - I ZB 17/03](i-zb-17-03.md) — fehlender Unterscheidungskraft zurückgewiesen.
+- [BGH, Beschluss vom 29.04.2004 - I ZB 26/02](i-zb-26-02.md) — I. Für die Markeninhaberin ist seit dem 13. Oktober 1997 die Marke Nr. 397 20 885 als farbiges (grün/creme) Bildzeichen für die Waren "Antidepressiva enthaltende pharmazeutische …
+- [BGH, Urteil vom 29.04.2004 - I ZR 233/01](i-zr-233-01.md) — Tatbestand:
+- [BGH, Urteil vom 22.04.2004 - I ZR 189/01](i-zr-189-01.md) — des ausschließlich beschreibenden Bezugs jegliche Unterscheidungskraft. Diese Wortkombination kann daher ohne Verkehrsdurchsetzung (§ 8 Abs.
 - [BGH, Urteil vom 01.04.2004 - I ZR 227/01](i-zr-227-01.md) — Tatbestand:
 - [BGH, Urteil vom 01.04.2004 - I ZR 23/02](i-zr-23-02.md) — BGH, Urteil vom 01.04.2004 - I ZR 23/02
+- [BGH, Beschluss vom 25.03.2004 - I ZR 187/01](i-zr-187-01.md) — offenbarer Unrichtigkeit dahin berichtigt, daß es auf Seite 7 des Urteils in Zeile 6 des zweiten Absatzes statt "ihr" heißen muß "ihm".
 - [BGH, Urteil vom 25.03.2004 - I ZR 205/01](i-zr-205-01.md) — Tatbestand:
 - [BGH, Urteil vom 04.03.2004 - I ZR 200/01](i-zr-200-01.md) — BGH, Urteil vom 04.03.2004 - I ZR 200/01
 - [BGH, Urteil vom 04.03.2004 - I ZR 221/01](i-zr-221-01.md) — Tatbestand:
 - [BGH, Urteil vom 04.03.2004 - I ZR 244/01](i-zr-244-01.md) — Tatbestand:
-- [BGH, Urteil vom 19.02.2004 - I ZR 172/01](i-zr-172-01.md) — BGH, Urteil vom 19.02.2004 - I ZR 172/01
+- [BGH, Beschluss vom 04.03.2004 - I ZR 50/03](i-zr-50-03.md) — I. Das Landgericht hat die Beklagte dazu verurteilt, die Internet-Domain "ritter.de" auf die Klägerin zu übertragen und der Umschreibung auf diese gegenüber der DENIC zuzustimmen …
+- [BGH, Urteil vom 19.02.2004 - I ZR 172/01](i-zr-172-01.md) — Tatbestand:
+- [BGH, Urteil vom 19.02.2004 - I ZR 76/02](i-zr-76-02.md) — Irreführung verboten werden. Selbst wenn einzelne Verbraucher annehmen, derart gekennzeichnete Artikel würden, von Ausreißern abgesehen, gen
 - [BGH, Urteil vom 19.02.2004 - I ZR 82/01](i-zr-82-01.md) — Verletzung seiner Rechte veranlaßt hat, steht ein Anspruch auf "Sperrung" des Domain-Namens für jede zukünftige Eintragung eines Dritten nic
 - [BGH, Beschluss vom 29.01.2004 - I ZA 7/03](i-za-7-03.md) — BGH, Beschluss vom 29.01.2004 - I ZA 7/03
+- [BGH, Urteil vom 29.01.2004 - I ZR 132/01](i-zr-132-01.md) — Tatbestand: Die Parteien sind Wettbewerber im Einzelhandel mit Elektronikgeräten.
+- [BGH, Urteil vom 29.01.2004 - I ZR 135/00](i-zr-135-00.md) — Tatbestand:
+- [BGH, Urteil vom 29.01.2004 - I ZR 163/01](i-zr-163-01.md) — Tatbestand:
+- [BGH, Urteil vom 29.01.2004 - I ZR 164/01](i-zr-164-01.md) — Tatbestand:

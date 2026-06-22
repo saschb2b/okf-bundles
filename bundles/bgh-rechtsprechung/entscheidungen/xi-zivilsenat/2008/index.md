@@ -1,17 +1,32 @@
 # XI. Zivilsenat – 2008
 
-41 Entscheidung(en).
+80 Entscheidung(en).
 
 - [BGH, Urteil vom 16.12.2008 - XI ZR 454/07](xi-zr-454-07.md) — Tatbestand:
 - [BGH, Beschluss vom 16.12.2008 - XI ZR 574/07](xi-zr-574-07.md) — BGH, Beschluss vom 16.12.2008 - XI ZR 574/07
 - [BGH, Beschluss vom 09.12.2008 - XI ZR 444/07](xi-zr-444-07.md) — BGH, Beschluss vom 09.12.2008 - XI ZR 444/07
-- [BGH, Beschluss vom 03.12.2008 - XI ZR 395/07](xi-zr-395-07.md) — BGH, Beschluss vom 03.12.2008 - XI ZR 395/07
 - [BGH, Beschluss vom 02.12.2008 - XI ZR 29/07](xi-zr-29-07.md) — BGH, Beschluss vom 02.12.2008 - XI ZR 29/07
 - [BGH, Urteil vom 25.11.2008 - XI ZR 426/07](xi-zr-426-07.md) — Tatbestand:
 - [BGH, Urteil vom 18.11.2008 - XI ZR 157/07](xi-zr-157-07.md) — BGH, Urteil vom 18.11.2008 - XI ZR 157/07
 - [BGH, Urteil vom 18.11.2008 - XI ZR 590/07](xi-zr-590-07.md) — BGH, Urteil vom 18.11.2008 - XI ZR 590/07
 - [BGH, Beschluss vom 17.11.2008 - XI ZR 89/07](xi-zr-89-07.md) — BGH, Beschluss vom 17.11.2008 - XI ZR 89/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 164/07](xi-zr-164-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 164/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 165/07](xi-zr-165-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 165/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 231/07](xi-zr-231-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 231/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 249/07](xi-zr-249-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 249/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 259/07](xi-zr-259-07.md) — lag, ist hier mit Rücksicht auf das Vorbringen der Nichtzulassungsbeschwerde nicht veranlasst, die die Auslegung des Klagebegehrens durch das Berufungsgericht nicht angegriffen …
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 315/07](xi-zr-315-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 315/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 321/07](xi-zr-321-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 321/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 322/07](xi-zr-322-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 322/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 424/07](xi-zr-424-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 424/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 428/07](xi-zr-428-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 428/07
+- [BGH, Beschluss vom 07.10.2008 - XI ZR 12/08](xi-zr-12-08.md) — BGH, Beschluss vom 07.10.2008 - XI ZR 12/08
+- [BGH, Beschluss vom 07.10.2008 - XI ZR 519/07](xi-zr-519-07.md) — des Berufungsurteils Berücksichtigung gefunden.
 - [BGH, Urteil vom 23.09.2008 - XI ZR 253/07](xi-zr-253-07.md) — Beratungsverschuldens" die Verjährung eines Bereicherungsanspruchs gemäß § 812 Abs. 1 Satz 1 BGB hemmt.
+- [BGH, Urteil vom 23.09.2008 - XI ZR 262/07](xi-zr-262-07.md) — der Rechtsunkenntnis des Gläubigers hinausgeschoben, beginnt die Verjährung mit der objektiven Klärung der Rechtslage. Auf die Kenntnis bzw.
+- [BGH, Urteil vom 23.09.2008 - XI ZR 263/07](xi-zr-263-07.md) — BGH, Urteil vom 23.09.2008 - XI ZR 263/07
+- [BGH, Urteil vom 23.09.2008 - XI ZR 266/07](xi-zr-266-07.md) — 3-
+- [BGH, Urteil vom 23.09.2008 - XI ZR 395/07](xi-zr-395-07.md) — 3-
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 434/07](xi-zr-434-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 434/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 446/07](xi-zr-446-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 446/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 463/07](xi-zr-463-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 463/07
@@ -19,7 +34,12 @@
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 500/07](xi-zr-500-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 500/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 512/07](xi-zr-512-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 512/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 535/07](xi-zr-535-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 535/07
+- [BGH, Urteil vom 29.07.2008 - XI ZR 297/06](xi-zr-297-06.md) — Tatbestand:
+- [BGH, Urteil vom 22.07.2008 - XI ZR 389/07](xi-zr-389-07.md) — Tatbestand:
 - [BGH, Beschluss vom 22.07.2008 - XI ZR 455/07](xi-zr-455-07.md) — BGH, Beschluss vom 22.07.2008 - XI ZR 455/07
+- [BGH, Beschluss vom 15.07.2008 - XI ZR 449/06](xi-zr-449-06.md) — BGH, Beschluss vom 15.07.2008 - XI ZR 449/06
+- [BGH, Beschluss vom 15.07.2008 - XI ZR 518/07](xi-zr-518-07.md) — BGH, Beschluss vom 15.07.2008 - XI ZR 518/07
+- [BGH, Beschluss vom 15.07.2008 - XI ZR 554/07](xi-zr-554-07.md) — BGH, Beschluss vom 15.07.2008 - XI ZR 554/07
 - [BGH, Beschluss vom 17.06.2008 - XI ZA 15/07](xi-za-15-07.md) — BGH, Beschluss vom 17.06.2008 - XI ZA 15/07
 - [BGH, Urteil vom 17.06.2008 - XI ZR 121/07](xi-zr-121-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 123/07](xi-zr-123-07.md) — Tatbestand:
@@ -27,19 +47,38 @@
 - [BGH, Urteil vom 17.06.2008 - XI ZR 193/07](xi-zr-193-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 194/07](xi-zr-194-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 201/07](xi-zr-201-07.md) — Tatbestand:
+- [BGH, Entscheidung vom 10.06.2008 - XI ZR 283/07](xi-zr-283-07.md) — XI ZR 283/07 Schreibfehlerberichtigung Die Ausfertigung des am 10. Juni 2008 verkündeten Urteils des XI. Zivilsenats des Bundesgerichtshofes wird wegen eines offensichtlichen …
 - [BGH, Beschluss vom 10.06.2008 - XI ZR 297/07](xi-zr-297-07.md) — BGH, Beschluss vom 10.06.2008 - XI ZR 297/07
+- [BGH, Beschluss vom 03.06.2008 - XI ZR 13/07](xi-zr-13-07.md) — BGH, Beschluss vom 03.06.2008 - XI ZR 13/07
+- [BGH, Beschluss vom 03.06.2008 - XI ZR 239/07](xi-zr-239-07.md) — BGH, Beschluss vom 03.06.2008 - XI ZR 239/07
 - [BGH, Urteil vom 03.06.2008 - XI ZR 318/06](xi-zr-318-06.md) — Tatbestand:
+- [BGH, Urteil vom 03.06.2008 - XI ZR 353/07](xi-zr-353-07.md) — 3-
+- [BGH, Beschluss vom 03.06.2008 - XI ZR 5/07](xi-zr-5-07.md) — BGH, Beschluss vom 03.06.2008 - XI ZR 5/07
+- [BGH, Beschluss vom 27.05.2008 - XI ZB 41/06](xi-zb-41-06.md) — fehlerhafter Information über die erwor-
 - [BGH, Beschluss vom 27.05.2008 - XI ZR 220/07](xi-zr-220-07.md) — BGH, Beschluss vom 27.05.2008 - XI ZR 220/07
 - [BGH, Beschluss vom 27.05.2008 - XI ZR 292/07](xi-zr-292-07.md) — BGH, Beschluss vom 27.05.2008 - XI ZR 292/07
 - [BGH, Beschluss vom 27.05.2008 - XI ZR 375/07](xi-zr-375-07.md) — BGH, Beschluss vom 27.05.2008 - XI ZR 375/07
 - [BGH, Beschluss vom 06.05.2008 - XI ZR 233/07](xi-zr-233-07.md) — BGH, Beschluss vom 06.05.2008 - XI ZR 233/07
+- [BGH, Beschluss vom 22.04.2008 - XI ZR 355/06](xi-zr-355-06.md) — fehlender örtlicher Zuständigkeit an
+- [BGH, Beschluss vom 22.04.2008 - XI ZR 408/07](xi-zr-408-07.md) — BGH, Beschluss vom 22.04.2008 - XI ZR 408/07
+- [BGH, Beschluss vom 22.04.2008 - XI ZR 438/07](xi-zr-438-07.md) — BGH, Beschluss vom 22.04.2008 - XI ZR 438/07
+- [BGH, Beschluss vom 15.04.2008 - XI ZR 76/07](xi-zr-76-07.md) — eines Wissensvorsprungs in Bezug auf eine angeblich sittenwidrige Übervorteilung der Erwerber. Dies ist aber nicht entscheidungserheblich, w
 - [BGH, Beschluss vom 14.04.2008 - XI ZR 67/07](xi-zr-67-07.md) — offensichtlicher Unrichtigkeit dahingehend berichtigt, dass der Name des Klägers richtig lautet:
 - [BGH, Versäumnisurteil vom 08.04.2008 - XI ZR 377/06](xi-zr-377-06.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 18.03.2008 - XI ZR 241/06](xi-zr-241-06.md) — 3-
+- [BGH, Urteil vom 18.03.2008 - XI ZR 246/06](xi-zr-246-06.md) — eines durch sie bewusst geschaffenen oder begünstigten besonderen Gefährdungstatbestands bei Hinzutreten spezifischer Risiken des konkreten
+- [BGH, Urteil vom 18.03.2008 - XI ZR 454/06](xi-zr-454-06.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2008 - XI ZR 215/07](xi-zr-215-07.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 11.03.2008 - XI ZR 317/06](xi-zr-317-06.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2008 - XI ZR 68/07](xi-zr-68-07.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2008 - XI ZR 81/07](xi-zr-81-07.md) — Tatbestand:
 - [BGH, Urteil vom 04.03.2008 - XI ZR 288/06](xi-zr-288-06.md) — BGH, Urteil vom 04.03.2008 - XI ZR 288/06
+- [BGH, Beschluss vom 03.03.2008 - XI ZB 10/07](xi-zb-10-07.md) — BGH, Beschluss vom 03.03.2008 - XI ZB 10/07
 - [BGH, Beschluss vom 26.02.2008 - XI ZR 258/07](xi-zr-258-07.md) — BGH, Beschluss vom 26.02.2008 - XI ZR 258/07
+- [BGH, Beschluss vom 26.02.2008 - XI ZR 428/06](xi-zr-428-06.md) — BGH, Beschluss vom 26.02.2008 - XI ZR 428/06
+- [BGH, Urteil vom 19.02.2008 - XI ZR 170/07](xi-zr-170-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.01.2008 - XI ZR 160/07](xi-zr-160-07.md) — 3-
 - [BGH, Beschluss vom 29.01.2008 - XI ZR 97/07](xi-zr-97-07.md) — BGH, Beschluss vom 29.01.2008 - XI ZR 97/07
-- [BGH, Beschluss vom 22.01.2008 - XI ZB 10/07](xi-zb-10-07.md) — BGH, Beschluss vom 22.01.2008 - XI ZB 10/07
 - [BGH, Urteil vom 22.01.2008 - XI ZR 16/06](xi-zr-16-06.md) — Tatbestand:
-- [BGH, Urteil vom 22.01.2008 - XI ZR 3/06](xi-zr-3-06.md) — BGH, Urteil vom 22.01.2008 - XI ZR 3/06
 - [BGH, Urteil vom 22.01.2008 - XI ZR 34/06](xi-zr-34-06.md) — Tatbestand:
-- [BGH, Urteil vom 22.01.2008 - XI ZR 6/06](xi-zr-6-06.md) — BGH, Urteil vom 22.01.2008 - XI ZR 6/06
+- [BGH, Beschluss vom 15.01.2008 - XI ZR 393/07](xi-zr-393-07.md) — BGH, Beschluss vom 15.01.2008 - XI ZR 393/07

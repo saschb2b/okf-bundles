@@ -9,7 +9,7 @@ datum: 2007-12-19
 aktenzeichen: "XII ZR 13/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:26:01Z
+timestamp: 2026-06-22T14:18:35Z
 ---
 # Volltext
 

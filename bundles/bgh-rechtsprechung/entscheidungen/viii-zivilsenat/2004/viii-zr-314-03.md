@@ -9,7 +9,7 @@ datum: 2004-05-26
 aktenzeichen: "VIII ZR 314/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:17:20Z
+timestamp: 2026-06-22T14:09:23Z
 ---
 # Volltext
 

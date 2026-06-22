@@ -1,23 +1,33 @@
 # XII. Zivilsenat – 2004
 
-53 Entscheidung(en).
+80 Entscheidung(en).
 
 - [BGH, Beschluss vom 22.12.2004 - XII ZA 25/03](xii-za-25-03.md) — Ablaufs der nach § 575 Abs. 1 ZPO einzuhaltenden Notfrist verspätet. Auch könnte einem etwaigen Antrag des Beklagten gemäß § 233 ZPO auf Wie
 - [BGH, Beschluss vom 22.12.2004 - XII ZR 107/02](xii-zr-107-02.md) — BGH, Beschluss vom 22.12.2004 - XII ZR 107/02
 - [BGH, Beschluss vom 15.12.2004 - XII ZB 166/03](xii-zb-166-03.md) — BGH, Beschluss vom 15.12.2004 - XII ZB 166/03
+- [BGH, Beschluss vom 15.12.2004 - XII ZB 179/03](xii-zb-179-03.md) — I. Die Parteien haben am 16. April 1982 geheiratet. Der Scheidungsantrag der Ehefrau (Antragstellerin; geboren am 20. Februar 1957) ist dem Ehemann (Antragsgegner; geboren am 9 …
 - [BGH, Urteil vom 15.12.2004 - XII ZR 121/03](xii-zr-121-03.md) — Tatbestand: Die Klägerin verlangt von dem Beklagten Unterhalt nach § 1615 l BGB aus Anlaß der Geburt eines Kindes. Der Beklagte ist Vater de
-- [BGH, Beschluss vom 01.12.2004 - XII ZB 45/01](xii-zb-45-01.md) — BGH, Beschluss vom 01.12.2004 - XII ZB 45/01
-- [BGH, Beschluss vom 01.12.2004 - XII ZB 67/00](xii-zb-67-00.md) — BGH, Beschluss vom 01.12.2004 - XII ZB 67/00
+- [BGH, Beschluss vom 01.12.2004 - XII ZB 164/03](xii-zb-164-03.md) — I. Die Parteien sind geschiedene Eheleute. Das Landgericht verurteilte den Beklagten zur Rückzahlung eines ihm von der Klägerin gewährten Darlehens von 220.000 DM nebst Zinsen …
+- [BGH, Beschluss vom 01.12.2004 - XII ZB 45/01](xii-zb-45-01.md) — Berufsunfähigkeit sowie mit Vollendung des 65. Lebensjahres ein Altersruhegeld, dessen Jahresbetrag in Prozentsätzen der bis zum Eintritt de
+- [BGH, Beschluss vom 01.12.2004 - XII ZB 67/00](xii-zb-67-00.md) — I. Die am 14. April 1979 geschlossene Ehe der Parteien wurde auf den dem Ehemann (Antragsgegner) am 3. Februar 1999 zugestellten Antrag der Ehefrau (Antragstellerin) durch …
 - [BGH, Urteil vom 10.11.2004 - XII ZR 71/01](xii-zr-71-01.md) — Tatbestand: Die Parteien streiten um rückständigen Mietzins für die Zeit von Juni bis Juli 1997 sowie von November 1997 bis Dezember 1999 un
 - [BGH, Beschluss vom 03.11.2004 - XII ZB 83/00](xii-zb-83-00.md) — BGH, Beschluss vom 03.11.2004 - XII ZB 83/00
+- [BGH, Urteil vom 03.11.2004 - XII ZR 120/02](xii-zr-120-02.md) — fehlender Bedürftigkeit für die Zeit ab der letzten mündlichen Verhandlung entfaltet auch dann keine materielle Rechtskraft für die Zukunft,
+- [BGH, Urteil vom 03.11.2004 - XII ZR 128/02](xii-zr-128-02.md) — Tatbestand: Der Kläger verlangt von der Beklagten Zustimmung zur Zusammenveranlagung zur Einkommensteuer für das Jahr 1999. Die Parteien sin
+- [BGH, Beschluss vom 27.10.2004 - XII ZB 106/04](xii-zb-106-04.md) — des vereinbarten Kündigungsausschlusses habe die Klägerin das zwischen ihr und dem Beklagten bestehende Pachtverhältnis nicht durch die von
 - [BGH, Beschluss vom 20.10.2004 - XII ZB 152/04](xii-zb-152-04.md) — BGH, Beschluss vom 20.10.2004 - XII ZB 152/04
 - [BGH, Beschluss vom 20.10.2004 - XII ZB 159/04](xii-zb-159-04.md) — BGH, Beschluss vom 20.10.2004 - XII ZB 159/04
 - [BGH, Beschluss vom 13.10.2004 - XII ZR 16/00](xii-zr-16-00.md) — eines offenkundigen Schreibfehlers - dahin berichtigt, daß auf Seite 7 im dritten Satz das dritte Wort Zwangsverwaltung statt Zwangsversteig
+- [BGH, Urteil vom 13.10.2004 - XII ZR 7/01](xii-zr-7-01.md) — Tatbestand:
 - [BGH, Beschluss vom 06.10.2004 - XII ZB 110/99](xii-zb-110-99.md) — BGH, Beschluss vom 06.10.2004 - XII ZB 110/99
-- [BGH, Beschluss vom 06.10.2004 - XII ZB 133/04](xii-zb-133-04.md) — BGH, Beschluss vom 06.10.2004 - XII ZB 133/04
-- [BGH, Beschluss vom 06.10.2004 - XII ZB 139/04](xii-zb-139-04.md) — BGH, Beschluss vom 06.10.2004 - XII ZB 139/04
+- [BGH, Beschluss vom 06.10.2004 - XII ZB 133/04](xii-zb-133-04.md) — I. Die Parteien haben am 4. Februar 1983 geheiratet. Der Scheidungsantrag der Ehefrau (Antragstellerin; geboren am 21. August 1956) ist dem Ehemann (Antragsgegner; geboren am 15 …
+- [BGH, Beschluss vom 06.10.2004 - XII ZB 139/04](xii-zb-139-04.md) — Erwerbsunfähigkeit, während der Antragsgegner (geboren am 25. November 1936) seit 1. Dezember 2001 eine Vollrente wegen Alters und bereits s
+- [BGH, Urteil vom 06.10.2004 - XII ZR 319/01](xii-zr-319-01.md) — Tatbestand: Die Parteien streiten um Trennungsunterhalt. Der Kläger hat die iranische, die Beklagte die deutsche Staatsangehörigkeit. Ihre 1
+- [BGH, Versäumnisurteil vom 06.10.2004 - XII ZR 323/01](xii-zr-323-01.md) — Tatbestand: Die Parteien streiten über die Zulässigkeit der Zwangsvollstreckung aus einem Kostenfestsetzungsbeschluß. Die Ehe der Eltern des
+- [BGH, Beschluss vom 29.09.2004 - XII ZR 148/02](xii-zr-148-02.md) — I. Der Kläger macht rückständige Miete aus einem gewerblichen Mietverhältnis geltend. Mit schriftlichem Vertrag vom 14. Juli 1997 mietete die Beklagte von der damaligen …
 - [BGH, Beschluss vom 08.09.2004 - XII ZB 144/04](xii-zb-144-04.md) — BGH, Beschluss vom 08.09.2004 - XII ZB 144/04
 - [BGH, Beschluss vom 08.09.2004 - XII ZB 93/04](xii-zb-93-04.md) — BGH, Beschluss vom 08.09.2004 - XII ZB 93/04
+- [BGH, Urteil vom 08.09.2004 - XII ZR 194/01](xii-zr-194-01.md) — Tatbestand: Die Parteien streiten um den Zugewinnausgleich. Die am 17. Februar 1984 geschlossene Ehe der Parteien wurde auf den am 2. Februa
 - [BGH, Beschluss vom 01.09.2004 - XII ZR 73/01](xii-zr-73-01.md) — BGH, Beschluss vom 01.09.2004 - XII ZR 73/01
 - [BGH, Beschluss vom 04.08.2004 - XII ZB 44/04](xii-zb-44-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 44/04
 - [BGH, Beschluss vom 04.08.2004 - XII ZB 65/04](xii-zb-65-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 65/04
@@ -29,10 +39,15 @@
 - [BGH, Urteil vom 28.07.2004 - XII ZR 153/03](xii-zr-153-03.md) — Tatbestand: Die Klägerin zu 1 macht als Haftpflicht- und Kaskoversicherer der Klägerin zu 2 Schadensersatz aus übergegangenen, die Klägerin
 - [BGH, Urteil vom 28.07.2004 - XII ZR 163/03](xii-zr-163-03.md) — Tatbestand: Die Kläger sind Eigentümer und Vermieter eines Grundstücks in H.. Sie verlangen von der beklagten Mieterin Erstattung der Kosten
 - [BGH, Urteil vom 28.07.2004 - XII ZR 292/02](xii-zr-292-02.md) — Tatbestand:
-- [BGH, Beschluss vom 14.07.2004 - XII ZB 268/03](xii-zb-268-03.md) — BGH, Beschluss vom 14.07.2004 - XII ZB 268/03
+- [BGH, Beschluss vom 21.07.2004 - XII ZB 50/04](xii-zb-50-04.md) — I. Der Abänderungsklage, mit der der Kläger die Herabsetzung seiner Verpflichtung zur Zahlung von Kindesunterhalt auf monatlich 80 € begehrte, gab das Familiengericht durch …
+- [BGH, Beschluss vom 14.07.2004 - XII ZB 268/03](xii-zb-268-03.md) — der Verletzung des rechtlichen Gehörs sei nicht gegeben, weil eine solche Verletzung tatsächlich nicht vorliege. Das Oberlandesgericht hat d
 - [BGH, Urteil vom 14.07.2004 - XII ZR 257/01](xii-zr-257-01.md) — Tatbestand:
-- [BGH, Beschluss vom 07.07.2004 - XII ZB 12/03](xii-zb-12-03.md) — BGH, Beschluss vom 07.07.2004 - XII ZB 12/03
-- [BGH, Beschluss vom 07.07.2004 - XII ZB 277/03](xii-zb-277-03.md) — BGH, Beschluss vom 07.07.2004 - XII ZB 277/03
+- [BGH, Beschluss vom 07.07.2004 - XII ZB 12/03](xii-zb-12-03.md) — I. Die Parteien streiten um nachehelichen Ehegattenunterhalt. Mit Verbundurteil vom 31. Oktober 1996 wurde die Ehe der Parteien geschieden und der Antragsteller verurteilt, an die …
+- [BGH, Beschluss vom 07.07.2004 - XII ZB 277/03](xii-zb-277-03.md) — I. Die Parteien haben am 15. April 1976 geheiratet. Der Scheidungsantrag des Ehemannes (Antragsteller; geboren am 27. November 1953) ist der Ehefrau (Antragsgegnerin; geboren am …
+- [BGH, Urteil vom 07.07.2004 - XII ZR 272/02](xii-zr-272-02.md) — Tatbestand: Die Klägerin nimmt den Beklagten aus übergegangenem Recht auf Zahlung von Elternunterhalt in Anspruch. Der am 25. September 1924
+- [BGH, Beschluss vom 30.06.2004 - XII ZB 21/03](xii-zb-21-03.md) — I. Das Amtsgericht hat der Klage, soweit sie auf Zahlung restlicher Miete gerichtet war, in Höhe von 578,24 € stattgegeben und sie im übrigen als unbegründet abgewiesen. Die von …
+- [BGH, Beschluss vom 30.06.2004 - XII ZB 227/02](xii-zb-227-02.md) — I. Die Beklagten wurden durch Urteil des Landgerichts Karlsruhe zur Zahlung und Kostentragung verpflichtet. Im Kostenfestsetzungsverfahren haben die Kläger unter anderem die …
+- [BGH, Beschluss vom 23.06.2004 - XII ZB 61/04](xii-zb-61-04.md) — I. Der Antragsteller begehrt die Beiordnung eines weiteren - unterbevollmächtigten - Rechtsanwalts im Rahmen der ihm für sein Scheidungsverbundverfahren bewilligten …
 - [BGH, Beschluss vom 09.06.2004 - XII ZB 170/03](xii-zb-170-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 170/03
 - [BGH, Beschluss vom 09.06.2004 - XII ZB 172/03](xii-zb-172-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 172/03
 - [BGH, Beschluss vom 09.06.2004 - XII ZB 178/03](xii-zb-178-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 178/03
@@ -40,18 +55,30 @@
 - [BGH, Beschluss vom 09.06.2004 - XII ZB 256/03](xii-zb-256-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 256/03
 - [BGH, Urteil vom 09.06.2004 - XII ZR 277/02](xii-zr-277-02.md) — Tatbestand: Die Klägerin verlangt vom Beklagten für die Zeit von Januar 1999 bis 19. Juli 2002 Unterhalt wegen Getrenntlebens. Die 1979 gesc
 - [BGH, Urteil vom 02.06.2004 - XII ZR 217/01](xii-zr-217-01.md) — Tatbestand: Die seit dem 8. Februar 2000 rechtskräftig geschiedenen Parteien, aus deren Ehe Kinder nicht hervorgegangen sind, streiten um na
-- [BGH, Beschluss vom 19.05.2004 - XII ZA 11/03](xii-za-11-03.md) — BGH, Beschluss vom 19.05.2004 - XII ZA 11/03
-- [BGH, Beschluss vom 19.05.2004 - XII ZB 11/04](xii-zb-11-04.md) — BGH, Beschluss vom 19.05.2004 - XII ZB 11/04
+- [BGH, Beschluss vom 19.05.2004 - XII ZA 11/03](xii-za-11-03.md) — I. Das Amtsgericht - Familiengericht - hat mit Beschlüssen vom 9. Dezember 1996 und 10. August 2001 unterbringungsähnliche Maßnahmen für die Antragstellerin genehmigt. Mit …
+- [BGH, Beschluss vom 19.05.2004 - XII ZB 11/04](xii-zb-11-04.md) — I. Das Amtsgericht hat mit Urteil vom 8. Juli 2003, der Beklagten zugestellt am 24. Juli 2003, einen Vergleich der Parteien über die Leistung nachehelichen Unterhalts abgeändert …
 - [BGH, Beschluss vom 19.05.2004 - XII ZB 14/03](xii-zb-14-03.md) — BGH, Beschluss vom 19.05.2004 - XII ZB 14/03
 - [BGH, Beschluss vom 19.05.2004 - XII ZB 155/02](xii-zb-155-02.md) — BGH, Beschluss vom 19.05.2004 - XII ZB 155/02
+- [BGH, Urteil vom 19.05.2004 - XII ZR 143/01](xii-zr-143-01.md) — Tatbestand: Die Parteien streiten um Unterhaltsansprüche aus einem notariellen Ehevertrag. Das Amtsgericht - Familiengericht - hat der Klage
 - [BGH, Urteil vom 19.05.2004 - XII ZR 270/02](xii-zr-270-02.md) — Tatbestand: Die Parteien streiten um nachehelichen Ehegattenunterhalt für die Zeit ab Mai 1999. Das Amtsgericht hat der Klage überwiegend st
 - [BGH, Urteil vom 05.05.2004 - XII ZR 132/02](xii-zr-132-02.md) — im Wege der Differenzmethode in die Berechnung des nachehelichen Unterhalts einzubeziehen (im Anschluß an die Senatsurteile vom 13. Juni 200
+- [BGH, Urteil vom 05.05.2004 - XII ZR 15/03](xii-zr-15-03.md) — rückläufiger Betriebsergebnisse herabgesetzt hat.
 - [BGH, Beschluss vom 22.04.2004 - XII ZR 16/04](xii-zr-16-04.md) — BGH, Beschluss vom 22.04.2004 - XII ZR 16/04
 - [BGH, Beschluss vom 21.04.2004 - XII ZB 243/03](xii-zb-243-03.md) — BGH, Beschluss vom 21.04.2004 - XII ZB 243/03
+- [BGH, Urteil vom 21.04.2004 - XII ZR 170/01](xii-zr-170-01.md) — Tatbestand: Der Kläger verlangt vom Beklagten Zahlung von 70.000 DM aus einem Vergleich. Der Kläger ist der Schwiegersohn des Beklagten. Die
 - [BGH, Urteil vom 21.04.2004 - XII ZR 251/01](xii-zr-251-01.md) — unbilliger Härte ausgeschlossen sein, wenn der Elternteil wegen einer auf seine Kriegserlebnisse zurückzuführenden psychischen Erkrankung ni
+- [BGH, Beschluss vom 14.04.2004 - XII ZB 224/02](xii-zb-224-02.md) — nicht rechtzeitiger Räumung verurteilt. Das Landgericht hat den Streitwert für das Berufungsverfahren auf 582,88 € festgesetzt und die Beruf
+- [BGH, Beschluss vom 07.04.2004 - XII ZB 51/02](xii-zb-51-02.md) — des rückständigen Unterhalts bis zum Tode seines Vaters im November 1995 mit der deutschen Vollstreckungsklausel zu versehen.
+- [BGH, Entscheidung vom 07.04.2004 - XII ZB 79/04](xii-zb-79-04.md) — SorgeRÜbkAG §§ 8 Abs. 2 Satz 3, 6 Abs. 2 Satz 2 Im Verfahren nach dem Sorgerechtsübereinkommens-Ausführungsgesetz findet ein Rechtsmittel zum Bundesgerichtshof nicht statt. BGH …
 - [BGH, Beschluss vom 24.03.2004 - XII ZB 286/03](xii-zb-286-03.md) — BGH, Beschluss vom 24.03.2004 - XII ZB 286/03
 - [BGH, Beschluss vom 24.03.2004 - XII ZB 287/03](xii-zb-287-03.md) — BGH, Beschluss vom 24.03.2004 - XII ZB 287/03
 - [BGH, Beschluss vom 24.03.2004 - XII ZB 288/03](xii-zb-288-03.md) — BGH, Beschluss vom 24.03.2004 - XII ZB 288/03
+- [BGH, Beschluss vom 17.03.2004 - XII ZR 254/00](xii-zr-254-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 17.03.2004 - XII ZR 306/00](xii-zr-306-00.md) — Tatbestand: Die Klägerinnen machen gegen den Beklagten aus abgetretenem Recht Mietzins für Juni 1996 bis September 1996 geltend. Der Beklagt
+- [BGH, Beschluss vom 03.03.2004 - XII ZA 13/01](xii-za-13-01.md) — Beschädigung seines Pkw's, den er dem Beklagten geliehen hatte. Der Beklagte hatte am 7. Juli 1997 mit dem Pkw einen Unfall, der nach den Fe
 - [BGH, Beschluss vom 25.02.2004 - XII ZB 208/00](xii-zb-208-00.md) — eines übersteigenden Ausgleichsanspruchs bleibt der Ehefrau der schuldrechtliche Versorgungsausgleich vorbehalten."
 - [BGH, Beschluss vom 18.02.2004 - XII ZB 182/03](xii-zb-182-03.md) — BGH, Beschluss vom 18.02.2004 - XII ZB 182/03
+- [BGH, Beschluss vom 11.02.2004 - XII ZB 158/02](xii-zb-158-02.md) — I. Die Parteien streiten um das Sorgerecht für die am 11. Dezember 1998 geborene gemeinsame Tochter Jessica. Die Antragsgegnerin (Beteiligte zu 2) war während der Schwangerschaft …
+- [BGH, Beschluss vom 09.02.2004 - XII ZB 246/04](xii-zb-246-04.md) — I. Das Amtsgericht - Familiengericht -, das der Mutter zunächst ratenfreie Prozeßkostenhilfe bewilligt hatte, änderte seine Entscheidung auf die Beschwerde des Bezirksrevisors …
 - [BGH, Urteil vom 04.02.2004 - XII ZR 301/01](xii-zr-301-01.md) — Tatbestand:
+- [BGH, Urteil vom 28.01.2004 - XII ZR 221/01](xii-zr-221-01.md) — Tatbestand: Die Klägerin verlangt mit der Klage einen Zugewinnausgleich in Höhe von 112.500 DM. Die am 13. Oktober 1953 geschlossene Ehe der

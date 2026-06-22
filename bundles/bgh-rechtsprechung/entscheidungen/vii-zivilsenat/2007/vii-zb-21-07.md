@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 12.12.2007 - VII ZB 21/07"
-description: "BGH, Beschluss vom 12.12.2007 - VII ZB 21/07"
+description: "I. 1 Durch rechtskräftiges Urteil vom 4. Mai 2004 wurde der Schuldner zu ei- ner Freiheitsstrafe verurteilt. Gleichzeitig wurde der Verfall von Wertersatz in Höhe von 4.500.000 € angeordnet. Im Ermitt"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2007/VII_ZB__21-07.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "VII. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2007-12-12
 aktenzeichen: "VII ZB 21/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:25:54Z
+timestamp: 2026-06-22T14:18:28Z
 ---
 # Volltext
 

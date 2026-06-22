@@ -1,6 +1,6 @@
 # II. Zivilsenat – 2008
 
-38 Entscheidung(en).
+63 Entscheidung(en).
 
 - [BGH, Beschluss vom 08.12.2008 - II ZB 11/08](ii-zb-11-08.md) — BGH, Beschluss vom 08.12.2008 - II ZB 11/08
 - [BGH, Beschluss vom 08.12.2008 - II ZR 263/07](ii-zr-263-07.md) — Verstoßes gegen § 34 Abs. 3 GmbHG jedenfalls dann nichtig, wenn infolge einer Unterbilanz bzw. einer darüber hinausgehenden bilanziellen Übe
@@ -8,22 +8,43 @@
 - [BGH, Beschluss vom 08.12.2008 - II ZR 44/08](ii-zr-44-08.md) — BGH, Beschluss vom 08.12.2008 - II ZR 44/08
 - [BGH, Beschluss vom 24.11.2008 - II ZB 4/08](ii-zb-4-08.md) — ausdrücklich
 - [BGH, Urteil vom 24.11.2008 - II ZR 116/08](ii-zr-116-08.md) — Verstoßes gegen die gesellschafterliche Treuepflicht unwirksam sein, was auf einer zweiten Stufe zu prüfen ist (vgl. Senat BGHZ 170, 283 Tz
-- [BGH, Beschluss vom 03.11.2008 - II ZR 236/07](ii-zr-236-07.md) — BGH, Beschluss vom 03.11.2008 - II ZR 236/07
-- [BGH, Urteil vom 27.10.2008 - II ZR 158/06](ii-zr-158-06.md) — BGH, Urteil vom 27.10.2008 - II ZR 158/06
-- [BGH, Beschluss vom 23.10.2008 - II ZR 211/08](ii-zr-211-08.md) — BGH, Beschluss vom 23.10.2008 - II ZR 211/08
-- [BGH, Beschluss vom 20.10.2008 - II ZR 207/07](ii-zr-207-07.md) — BGH, Beschluss vom 20.10.2008 - II ZR 207/07
+- [BGH, Beschluss vom 03.11.2008 - II ZR 236/07](ii-zr-236-07.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
+- [BGH, Urteil vom 27.10.2008 - II ZR 158/06](ii-zr-158-06.md) — 3-
+- [BGH, Beschluss vom 23.10.2008 - II ZR 211/08](ii-zr-211-08.md) — der Vergrößerung
+- [BGH, Beschluss vom 20.10.2008 - II ZR 207/07](ii-zr-207-07.md) — I. Die Beschwerde ist begründet und führt gemäß § 544 Abs. 7 ZPO un- ter Aufhebung des angefochtenen Urteils zur Zurückverweisung an das Beru- fungsgericht, wobei der Senat von …
 - [BGH, Beschluss vom 20.10.2008 - II ZR 211/07](ii-zr-211-07.md) — Insolvenzverschleppung gemäß §§ 823 Abs. 2
-- [BGH, Beschluss vom 20.10.2008 - II ZR 291/07](ii-zr-291-07.md) — BGH, Beschluss vom 20.10.2008 - II ZR 291/07
-- [BGH, Beschluss vom 13.10.2008 - II ZR 233/07](ii-zr-233-07.md) — BGH, Beschluss vom 13.10.2008 - II ZR 233/07
-- [BGH, Beschluss vom 01.10.2008 - II ZR 202/07](ii-zr-202-07.md) — offenbarer Unrichtigkeit dahingehend berichtigt, dass die Sache nicht an den 13., sondern an den 23. Zivilsenat des Berufungsgerichts zurück
+- [BGH, Beschluss vom 20.10.2008 - II ZR 291/07](ii-zr-291-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 13.10.2008 - II ZR 112/07](ii-zr-112-07.md) — Tatbestand:
+- [BGH, Beschluss vom 13.10.2008 - II ZR 233/07](ii-zr-233-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 13.10.2008 - II ZR 76/07](ii-zr-76-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.09.2008 - II ZR 234/07](ii-zr-234-07.md) — gemäß § 30 Abs. 1 GmbHG verbotener Auszahlungen (§ 43 Abs. 3 GmbHG) verjähren gemäß § 43 Abs. 4 GmbHG in fünf Jahren ab der jeweiligen Zahlu
+- [BGH, Beschluss vom 22.09.2008 - II ZR 257/07](ii-zr-257-07.md) — Prospektmängeln geltend gemacht hatte, vorgetragen, er
+- [BGH, Beschluss vom 22.09.2008 - II ZR 261/07](ii-zr-261-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 27.08.2008 - II ZR 203/07](ii-zr-203-07.md) — nicht für durchgreifend erachtet hat (vgl.
 - [BGH, Beschluss vom 27.08.2008 - II ZR 26/07](ii-zr-26-07.md) — BGH, Beschluss vom 27.08.2008 - II ZR 26/07
+- [BGH, Beschluss vom 30.07.2008 - II ZR 184/07](ii-zr-184-07.md) — nicht für durchgreifend erachtet hat (vgl.
+- [BGH, Beschluss vom 21.07.2008 - II ZB 43/07](ii-zb-43-07.md) — I. Die Klägerin nimmt den Beklagten gemäß § 985 BGB auf Herausgabe eines Kraftfahrzeugs, hilfsweise auf Schadensersatz in Anspruch. Das Landge- richt hat die Klage abgewiesen. Die …
 - [BGH, Beschluss vom 21.07.2008 - II ZR 1/07](ii-zr-1-07.md) — BGH, Beschluss vom 21.07.2008 - II ZR 1/07
-- [BGH, Urteil vom 14.07.2008 - II ZR 132/07](ii-zr-132-07.md) — Erlöschens der titulierten Forderung begründet war und der Herausgabeschuldner der Erledigung widerspricht.
+- [BGH, Beschluss vom 21.07.2008 - II ZR 183/07](ii-zr-183-07.md) — nicht darauf an, dass es auch durchgreifenden rechtlichen Bedenken begegnet, dass das Berufungsgericht von seinem Verständnis der Pfändung a
+- [BGH, Beschluss vom 21.07.2008 - II ZR 230/07](ii-zr-230-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 14.07.2008 - II ZR 132/07](ii-zr-132-07.md) — BGB §§ 371, 398, 812 Abs. 1 a) Eine Klage auf Herausgabe der vollstreckbaren Ausfertigung eines unter § 794 ZPO fallenden Titels analog § 371 BGB ist - jedenfalls dann - zulässig …
+- [BGH, Beschluss vom 14.07.2008 - II ZR 202/07](ii-zr-202-07.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
+- [BGH, Beschluss vom 14.07.2008 - II ZR 204/07](ii-zr-204-07.md) — I. Die zum Unternehmensverbund der Bankgesellschaft B. gehörende Klägerin nimmt den Beklagten als Kommanditisten der B. GmbH & Co. KG gemäß §§ 171 Abs. 1, 172 Abs. 4 HGB auf …
+- [BGH, Beschluss vom 14.07.2008 - II ZR 92/07](ii-zr-92-07.md) — I. 1 Die Nichtzulassungsbeschwerde des Klägers wird zurückgewiesen, weil, soweit er durch das angegriffene Urteil beschwert ist, keiner der im Gesetz -3- (§ 543 Abs. 2 ZPO) …
 - [BGH, Beschluss vom 11.07.2008 - II ZR 125/07](ii-zr-125-07.md) — BGH, Beschluss vom 11.07.2008 - II ZR 125/07
-- [BGH, Beschluss vom 25.06.2008 - II ZR 96/07](ii-zr-96-07.md) — BGH, Beschluss vom 25.06.2008 - II ZR 96/07
+- [BGH, Beschluss vom 07.07.2008 - II ZR 147/07](ii-zr-147-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 07.07.2008 - II ZR 37/07](ii-zr-37-07.md) — Tatbestand:
+- [BGH, Beschluss vom 07.07.2008 - II ZR 81/07](ii-zr-81-07.md) — unbilliger Erschwerung des beruflichen Fortkommens des
+- [BGH, Beschluss vom 25.06.2008 - II ZR 179/07](ii-zr-179-07.md) — Die Beschwerde ist unzulässig. Der Wert der mit der Revision geltend zu machenden Beschwer beträgt 16.531,58 € und übersteigt nicht den nach § 26 Nr. 8 EGZPO maßgeblichen Wert von …
+- [BGH, Beschluss vom 25.06.2008 - II ZR 96/07](ii-zr-96-07.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
+- [BGH, Beschluss vom 02.06.2008 - II ZR 67/07](ii-zr-67-07.md) — in der Lage ist, die streitigen Fragen abschließend zu beurteilen.
+- [BGH, Beschluss vom 26.05.2008 - II ZB 23/07](ii-zb-23-07.md) — I. Die 38 Kläger und die fünf Nebenintervenienten - darunter die beiden Rechtsbeschwerdeführer (nachfolgend: Nebenintervenient zu 41 und Nebenin- tervenientin zu 43) - sind …
+- [BGH, Urteil vom 05.05.2008 - II ZR 105/07](ii-zr-105-07.md) — Tatbestand:
 - [BGH, Beschluss vom 05.05.2008 - II ZR 292/06](ii-zr-292-06.md) — der wirtschaftlichen Entwicklung der Gesellschaft, des Vereins oder der Genossenschaft entweder weniger als den Wert seiner Einlage zurücker
 - [BGH, Beschluss vom 28.04.2008 - II ZA 11/07](ii-za-11-07.md) — BGH, Beschluss vom 28.04.2008 - II ZA 11/07
+- [BGH, Urteil vom 28.04.2008 - II ZR 11/07](ii-zr-11-07.md) — Tatbestand:
 - [BGH, Urteil vom 28.04.2008 - II ZR 264/06](ii-zr-264-06.md) — materieller Unterkapitalisierung im Wege höchstrichterlicher Rechtsfortbildung ist bereits mangels einer im derzeitigen gesetzlichen System
+- [BGH, Beschluss vom 28.04.2008 - II ZR 61/07](ii-zr-61-07.md) — Das Berufungsgericht hat den Vortrag des Klägers nur unvollständig und zudem nur im Zusammenhang mit der Prüfung der Frage der ordnungsgemä- ßen Zustellung des Versäumnisurteils …
 - [BGH, Beschluss vom 23.04.2008 - II ZB 1/08](ii-zb-1-08.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 23.04.2008 - II ZB 28/07](ii-zb-28-07.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 10.04.2008 - II ZR 187/06](ii-zr-187-06.md) — BGH, Beschluss vom 10.04.2008 - II ZR 187/06
@@ -35,8 +56,12 @@
 - [BGH, Beschluss vom 12.03.2008 - II ZB 38/07](ii-zb-38-07.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 12.03.2008 - II ZB 41/07](ii-zb-41-07.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 10.03.2008 - II ZR 135/07](ii-zr-135-07.md) — der nach den Feststellungen des Berufungsgerichts der Beklagten erst nachträglich bekannt gewordenen - aus dem Bericht der C. vom 28. April
-- [BGH, Beschluss vom 10.03.2008 - II ZR 180/07](ii-zr-180-07.md) — BGH, Beschluss vom 10.03.2008 - II ZR 180/07
+- [BGH, Beschluss vom 10.03.2008 - II ZR 180/07](ii-zr-180-07.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
+- [BGH, Urteil vom 10.03.2008 - II ZR 312/06](ii-zr-312-06.md) — Tatbestand:
 - [BGH, Beschluss vom 25.02.2008 - II ZB 9/07](ii-zb-9-07.md) — angeblich verspäte-
-- [BGH, Urteil vom 18.02.2008 - II ZR 132/06](ii-zr-132-06.md) — BGH, Urteil vom 18.02.2008 - II ZR 132/06
+- [BGH, Urteil vom 18.02.2008 - II ZR 132/06](ii-zr-132-06.md) — Tatbestand:
 - [BGH, Beschluss vom 11.02.2008 - II ZR 291/06](ii-zr-291-06.md) — BGH, Beschluss vom 11.02.2008 - II ZR 291/06
+- [BGH, Beschluss vom 28.01.2008 - II ZR 290/06](ii-zr-290-06.md) — Die Voraussetzungen für die Zulassung der Revision liegen nicht vor, und die Revision hat auch keine Aussicht auf Erfolg (§ 552 a ZPO).
 - [BGH, Beschluss vom 17.01.2008 - II ZB 10/07](ii-zb-10-07.md) — BGH, Beschluss vom 17.01.2008 - II ZB 10/07
+- [BGH, Beschluss vom 14.01.2008 - II ZR 85/07](ii-zr-85-07.md) — Zulassungsgründe (§ 543 Abs. 2 ZPO) liegen nicht vor; die Revision hat auch keine Aussicht auf Erfolg. 2 I. Weder der vom Berufungsgericht als Zulassungsgrund angeführte noch ein …
+- [BGH, Urteil vom 07.01.2008 - II ZR 283/06](ii-zr-283-06.md) — Tatbestand:

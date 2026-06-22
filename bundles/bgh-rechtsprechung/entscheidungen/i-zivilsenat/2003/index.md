@@ -1,37 +1,71 @@
 # I. Zivilsenat – 2003
 
-33 Entscheidung(en).
+67 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2003 - I ZA 2/03](i-za-2-03.md) — I. Die Parteien streiten darüber, wem die Rechte für eine CD-Nutzung aus einem 1976 geschlossenen Schallplattenvertrag zustehen. Je nach Begründung der beabsichtigten …
 - [BGH, Beschluss vom 18.12.2003 - I ZB 18/03](i-zb-18-03.md) — BGH, Beschluss vom 18.12.2003 - I ZB 18/03
 - [BGH, Urteil vom 18.12.2003 - I ZR 228/01](i-zr-228-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.12.2003 - I ZR 74/01](i-zr-74-01.md) — 3Tatbestand:
+- [BGH, Beschluss vom 04.12.2003 - I ZA 4/03](i-za-4-03.md) — Die Antragstellerin will sich mit der Beschwerde gegen den Beschluß des Bundespatentgerichts vom 28.
+- [BGH, Beschluss vom 04.12.2003 - I ZB 19/03](i-zb-19-03.md) — I. Die Klägerin ist ein pharmazeutisches Unternehmen. Sie produziert und vertreibt das Arzneimittel "I. 20 % Salbe" mit dem Wirkstoff "Ammoniumbituminosulfonat" in 20 %iger …
+- [BGH, Beschluss vom 04.12.2003 - I ZR 119/03](i-zr-119-03.md) — BGH, Beschluss vom 04.12.2003 - I ZR 119/03
 - [BGH, Beschluss vom 27.11.2003 - I ZR 76/03](i-zr-76-03.md) — BGH, Beschluss vom 27.11.2003 - I ZR 76/03
 - [BGH, Urteil vom 20.11.2003 - I ZR 102/02](i-zr-102-02.md) — BGH, Urteil vom 20.11.2003 - I ZR 102/02
 - [BGH, Urteil vom 20.11.2003 - I ZR 120/00](i-zr-120-00.md) — Tatbestand:
 - [BGH, Urteil vom 20.11.2003 - I ZR 294/02](i-zr-294-02.md) — Tatbestand:
 - [BGH, Urteil vom 13.11.2003 - I ZR 103/01](i-zr-103-01.md) — BGH, Urteil vom 13.11.2003 - I ZR 103/01
 - [BGH, Urteil vom 13.11.2003 - I ZR 40/01](i-zr-40-01.md) — Tatbestand:
+- [BGH, Beschluss vom 30.10.2003 - I ZR 113/03](i-zr-113-03.md) — nicht entnommen werden, daß das Berufungsgericht den von der Nichtzulassungsbeschwerde formulierten Rechtssatz aufgestellt hat, in den Fällen des § 151 BGB sei nicht nur die …
+- [BGH, Beschluss vom 30.10.2003 - I ZR 176/01](i-zr-176-01.md) — Der Tatbestandsberichtigungsantrag ist bereits deshalb unzulässig, weil er, obwohl es sich um einen bestimmenden Schriftsatz handelt, nicht von einem beim Bundesgerichtshof …
 - [BGH, Beschluss vom 23.10.2003 - I ZB 45/02](i-zb-45-02.md) — Zuwiderhandlungen, die vor dem erledigenden Ereignis begangen worden sind, aufrechterhalten bleiben soll.
+- [BGH, Urteil vom 23.10.2003 - I ZR 193/97](i-zr-193-97.md) — Tatbestand:
 - [BGH, Urteil vom 23.10.2003 - I ZR 55/01](i-zr-55-01.md) — Tatbestand:
+- [BGH, Beschluss vom 21.10.2003 - I ZR 4/03](i-zr-4-03.md) — BGH, Beschluss vom 21.10.2003 - I ZR 4/03
+- [BGH, Urteil vom 09.10.2003 - I ZR 167/01](i-zr-167-01.md) — 3-
 - [BGH, Urteil vom 09.10.2003 - I ZR 17/01](i-zr-17-01.md) — Tatbestand:
 - [BGH, Urteil vom 02.10.2003 - I ZR 150/01](i-zr-150-01.md) — BGH, Urteil vom 02.10.2003 - I ZR 150/01
+- [BGH, Urteil vom 04.09.2003 - I ZR 128/01](i-zr-128-01.md) — 3-
+- [BGH, Urteil vom 04.09.2003 - I ZR 32/01](i-zr-32-01.md) — 3-
+- [BGH, Urteil vom 04.09.2003 - I ZR 44/01](i-zr-44-01.md) — BGH, Urteil vom 04.09.2003 - I ZR 44/01
+- [BGH, Beschluss vom 28.08.2003 - I ZB 5/03](i-zb-5-03.md) — des absoluten Schutzhindernisses des § 8 Abs. 2 Nr. 2 MarkenG nicht eingetragen werden könne. Hierzu hat es ausgeführt:
+- [BGH, Urteil vom 17.07.2003 - I ZR 259/00](i-zr-259-00.md) — BGH, Urteil vom 17.07.2003 - I ZR 259/00
+- [BGH, Urteil vom 26.06.2003 - I ZR 206/00](i-zr-206-00.md) — Tatbestand:
+- [BGH, Urteil vom 05.06.2003 - I ZR 234/00](i-zr-234-00.md) — Tatbestand:
 - [BGH, Beschluss vom 22.05.2003 - I ZB 32/02](i-zb-32-02.md) — Versäumung der Frist zur Begründung der Berufung gegen das Urteil des Landgerichts München I, 9. Kammer für Handelssachen, vom 26. März 2002
 - [BGH, Beschluss vom 22.05.2003 - I ZB 38/02](i-zb-38-02.md) — von ihr als irreführend angesehener Wer-
+- [BGH, Urteil vom 22.05.2003 - I ZR 251/00](i-zr-251-00.md) — 3-
+- [BGH, Urteil vom 22.05.2003 - I ZR 8/01](i-zr-8-01.md) — Tatbestand: Die Beklagte, die ein großes Versandhaus betreibt, verschickte an Personen zu deren Geburtstag Einkaufsgutscheine über jeweils 1
 - [BGH, Urteil vom 15.05.2003 - I ZR 214/00](i-zr-214-00.md) — BGH, Urteil vom 15.05.2003 - I ZR 214/00
 - [BGH, Urteil vom 15.05.2003 - I ZR 277/00](i-zr-277-00.md) — BGH, Urteil vom 15.05.2003 - I ZR 277/00
+- [BGH, Urteil vom 08.05.2003 - I ZR 234/02](i-zr-234-02.md) — Tatbestand:
 - [BGH, Urteil vom 08.05.2003 - I ZR 64/03](i-zr-64-03.md) — BGH, Urteil vom 08.05.2003 - I ZR 64/03
+- [BGH, Beschluss vom 10.04.2003 - I ZB 33/02](i-zb-33-02.md) — eines behaupteten Wettbewerbsverstoßes eine Schutzschrift ein, die den Antrag enthielt, einen etwaigen Antrag auf Erlaß einer einstweiligen
+- [BGH, Beschluss vom 10.04.2003 - I ZB 36/02](i-zb-36-02.md) — I. Die Verfügungsklägerin ist ein größeres, in Berlin ansässiges Mineralölunternehmen. In einem wettbewerbsrechtlichen Streit mit der Verfügungsbeklagten beauftragte sie die …
+- [BGH, Beschluss vom 10.04.2003 - I ZB 42/02](i-zb-42-02.md) — Versäumung der Frist für die Berufungsbegründung beantragte die Klägerin Wiedereinsetzung in den vorigen Stand. Zur Begründung des Wiederein
+- [BGH, Urteil vom 10.04.2003 - I ZR 276/00](i-zr-276-00.md) — Tatbestand:
+- [BGH, Beschluss vom 03.04.2003 - I ZB 37/02](i-zb-37-02.md) — I. Die Parteien streiten im Rahmen der Kostenfestsetzung um die Erstattungsfähigkeit einer Patentanwaltsgebühr eines als Rechtsanwalt und zugleich als Patentanwalt zugelassenen …
 - [BGH, Urteil vom 03.04.2003 - I ZR 203/00](i-zr-203-00.md) — BGH, Urteil vom 03.04.2003 - I ZR 203/00
+- [BGH, Anerkenntnisurteil vom 03.04.2003 - I ZR 209/00](i-zr-209-00.md) — BGH, Anerkenntnisurteil vom 03.04.2003 - I ZR 209/00
 - [BGH, Beschluss vom 20.03.2003 - I ZB 1/02](i-zb-1-02.md) — BGH, Beschluss vom 20.03.2003 - I ZB 1/02
 - [BGH, Beschluss vom 20.03.2003 - I ZB 2/02](i-zb-2-02.md) — BGH, Beschluss vom 20.03.2003 - I ZB 2/02
+- [BGH, Beschluss vom 20.03.2003 - I ZB 21/02](i-zb-21-02.md) — I. Die Markeninhaberin ist Inhaberin der auf die Anmeldung vom 24. März 1994 kraft Verkehrsdurchsetzung am 29. Juni 1995 für die Ware "Sahnebonbons" eingetragenen farbigen …
 - [BGH, Beschluss vom 20.03.2003 - I ZB 27/01](i-zb-27-01.md) — BGH, Beschluss vom 20.03.2003 - I ZB 27/01
 - [BGH, Beschluss vom 20.03.2003 - I ZB 29/01](i-zb-29-01.md) — BGH, Beschluss vom 20.03.2003 - I ZB 29/01
 - [BGH, Urteil vom 20.03.2003 - I ZR 117/00](i-zr-117-00.md) — Tatbestand:
 - [BGH, Urteil vom 20.03.2003 - I ZR 225/00](i-zr-225-00.md) — Verstoßes gegen die guten Sitten gemäß § 138 Abs. 1 BGB nichtig ist.
 - [BGH, Beschluss vom 20.03.2003 - I ZR 240/02](i-zr-240-02.md) — BGH, Beschluss vom 20.03.2003 - I ZR 240/02
 - [BGH, Urteil vom 20.03.2003 - I ZR 60/01](i-zr-60-01.md) — BGH, Urteil vom 20.03.2003 - I ZR 60/01
+- [BGH, Urteil vom 13.03.2003 - I ZR 143/00](i-zr-143-00.md) — Tatbestand:
 - [BGH, Beschluss vom 13.03.2003 - I ZR 203/02](i-zr-203-02.md) — BGH, Beschluss vom 13.03.2003 - I ZR 203/02
+- [BGH, Beschluss vom 27.02.2003 - I ZR 208/02](i-zr-208-02.md) — BGH, Beschluss vom 27.02.2003 - I ZR 208/02
 - [BGH, Urteil vom 27.02.2003 - I ZR 253/00](i-zr-253-00.md) — BGH, Urteil vom 27.02.2003 - I ZR 253/00
+- [BGH, Urteil vom 13.02.2003 - I ZR 128/00](i-zr-128-00.md) — Tatbestand:
 - [BGH, Urteil vom 13.02.2003 - I ZR 170/00](i-zr-170-00.md) — Tatbestand:
 - [BGH, Beschluss vom 13.02.2003 - I ZR 218/02](i-zr-218-02.md) — BGH, Beschluss vom 13.02.2003 - I ZR 218/02
 - [BGH, Urteil vom 13.02.2003 - I ZR 41/00](i-zr-41-00.md) — BGH, Urteil vom 13.02.2003 - I ZR 41/00
+- [BGH, Urteil vom 30.01.2003 - I ZR 136/99](i-zr-136-99.md) — Tatbestand:
+- [BGH, Urteil vom 23.01.2003 - I ZR 171/00](i-zr-171-00.md) — BGH, Urteil vom 23.01.2003 - I ZR 171/00
+- [BGH, Urteil vom 23.01.2003 - I ZR 174/00](i-zr-174-00.md) — Tatbestand:
 - [BGH, Urteil vom 23.01.2003 - I ZR 18/00](i-zr-18-00.md) — Tatbestand:
 - [BGH, Beschluss vom 16.01.2003 - I ZB 34/02](i-zb-34-02.md) — BGH, Beschluss vom 16.01.2003 - I ZB 34/02
+- [BGH, Beschluss vom 16.01.2003 - I ZR 130/02](i-zr-130-02.md) — grundsätzliche Bedeutung, weil der Senat gehalten wäre, zur Frage der Warenähnlichkeit ein Vorabentscheidungsersuchen an den Gerichtshof der

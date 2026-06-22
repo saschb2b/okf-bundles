@@ -9,7 +9,7 @@ datum: 2000-01-13
 aktenzeichen: "II ZR 7/98"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:09:27Z
+timestamp: 2026-06-22T14:01:08Z
 ---
 # Volltext
 

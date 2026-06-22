@@ -9,7 +9,7 @@ datum: 2002-09-23
 aktenzeichen: "AnwZ (B) 67/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:14:04Z
+timestamp: 2026-06-22T14:05:52Z
 ---
 # Volltext
 

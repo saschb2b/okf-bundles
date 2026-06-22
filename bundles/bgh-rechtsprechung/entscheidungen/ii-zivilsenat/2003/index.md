@@ -1,20 +1,48 @@
 # II. Zivilsenat – 2003
 
-16 Entscheidung(en).
+44 Entscheidung(en).
 
-- [BGH, Beschluss vom 17.12.2003 - II ZB 34/03](ii-zb-34-03.md) — BGH, Beschluss vom 17.12.2003 - II ZB 34/03
+- [BGH, Beschluss vom 17.12.2003 - II ZB 34/03](ii-zb-34-03.md) — I. Mit Beschluß vom 26. März 2003 hat das Landgericht Ansbach im Ausgangsverfahren dem Beklagten zu 4 für die beabsichtigte Rechtsverteidi- -3- gung Prozeßkostenhilfe bewilligt …
+- [BGH, Urteil vom 15.12.2003 - II ZR 194/01](ii-zr-194-01.md) — Tatbestand:
+- [BGH, Urteil vom 15.12.2003 - II ZR 244/01](ii-zr-244-01.md) — 3-
+- [BGH, Beschluss vom 08.12.2003 - II ZR 33/03](ii-zr-33-03.md) — I. Das Berufungsgericht hat den Beklagten zu 2 gesamtschuldnerisch mit den weiteren Beklagten zum Schadensersatz aus Prospekthaftung verurteilt. Gegen das ihm am 17. Januar 2003 …
+- [BGH, Beschluss vom 08.12.2003 - II ZR 38/03](ii-zr-38-03.md) — I. Das Berufungsgericht hat den Beklagten zu 3 gesamtschuldnerisch mit den weiteren Beklagten zum Schadensersatz aus Prospekthaftung verurteilt. Gegen das ihm am 16. Januar 2003 …
+- [BGH, Beschluss vom 08.12.2003 - II ZR 39/03](ii-zr-39-03.md) — I. Das Berufungsgericht hat den Beklagten zu 3 gesamtschuldnerisch mit den weiteren Beklagten zum Schadensersatz aus Prospekthaftung verurteilt. Gegen das ihm am 16. Januar 2003 …
+- [BGH, Beschluss vom 08.12.2003 - II ZR 40/03](ii-zr-40-03.md) — I. Das Berufungsgericht hat den Beklagten zu 2 gesamtschuldnerisch mit den weiteren Beklagten zum Schadensersatz aus Prospekthaftung verurteilt. Gegen das ihm am 20. Januar 2003 …
+- [BGH, Beschluss vom 08.12.2003 - II ZR 41/03](ii-zr-41-03.md) — I. Das Berufungsgericht hat den Beklagten zu 3 gesamtschuldnerisch mit den weiteren Beklagten zum Schadensersatz aus Prospekthaftung verurteilt. Gegen das ihm am 17. Januar 2003 …
+- [BGH, Beschluss vom 08.12.2003 - II ZR 42/03](ii-zr-42-03.md) — I. Das Berufungsgericht hat den Beklagten zu 3 gesamtschuldnerisch mit den weiteren Beklagten zum Schadensersatz aus Prospekthaftung verurteilt. Gegen das ihm am 17. Januar 2003 …
+- [BGH, Beschluss vom 08.12.2003 - II ZR 43/03](ii-zr-43-03.md) — I. Das Berufungsgericht hat den Beklagten zu 2 gesamtschuldnerisch mit den weiteren Beklagten zum Schadensersatz aus Prospekthaftung verurteilt. Gegen das ihm am 20. Januar 2003 …
 - [BGH, Urteil vom 01.12.2003 - II ZR 202/01](ii-zr-202-01.md) — Tatbestand:
-- [BGH, Urteil vom 24.11.2003 - II ZR 127/01](ii-zr-127-01.md) — BGH, Urteil vom 24.11.2003 - II ZR 127/01
+- [BGH, Beschluss vom 24.11.2003 - II ZB 37/02](ii-zb-37-02.md) — I. Die Beklagten sind durch Urteil des Landgerichts Leipzig vom 14. November 2001 rechtskräftig zur Zahlung von jeweils 50.000,00 DM nebst Zinsen an die Klägerin verurteilt …
+- [BGH, Urteil vom 24.11.2003 - II ZR 127/01](ii-zr-127-01.md) — 3-
+- [BGH, Beschluss vom 10.11.2003 - II ZB 14/02](ii-zb-14-02.md) — die Rechtsbeschwerde - auch zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung - zuzulassen ist.
+- [BGH, Beschluss vom 10.11.2003 - II ZB 26/03](ii-zb-26-03.md) — Versäumung der Begründungsfrist Wiedereinsetzung in den vorherigen Stand zu gewähren ist, nicht ankommt.
+- [BGH, Beschluss vom 03.11.2003 - II ZB 1/03](ii-zb-1-03.md) — teilweise geändert und wie folgt gefaßt:
+- [BGH, Beschluss vom 03.11.2003 - II ZB 17/02](ii-zb-17-02.md) — I. Die Beklagten sind durch Urteil des Landgerichts München I vom 16. November 2001 zur Zahlung von 43.500,00 DM an den Kläger verurteilt worden. Mit Schriftsatz vom 24. Januar …
+- [BGH, Urteil vom 03.11.2003 - II ZR 158/01](ii-zr-158-01.md) — 3-
 - [BGH, Beschluss vom 22.10.2003 - II ZR 140/02](ii-zr-140-02.md) — BGH, Beschluss vom 22.10.2003 - II ZR 140/02
 - [BGH, Beschluss vom 20.10.2003 - II ZB 31/02](ii-zb-31-02.md) — BGH, Beschluss vom 20.10.2003 - II ZB 31/02
-- [BGH, Urteil vom 22.09.2003 - II ZR 229/02](ii-zr-229-02.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja GmbHG §§ 30, 31 Abs. 2, 3 a) Die Erstattung von gemäß § 30 GmbHG verbotenen Auszahlungen ist i.S. von § 31 Abs. 2, 3 GmbHG zur …
+- [BGH, Beschluss vom 20.10.2003 - II ZR 340/02](ii-zr-340-02.md) — hat die Klägerin die Beklagte auf Unterlassung in Anspruch genommen, in ihrem - der Klägerin - Eigentum stehende, mit der Aufschrift "R." ve
+- [BGH, Urteil vom 20.10.2003 - II ZR 7/01](ii-zr-7-01.md) — Tatbestand:
+- [BGH, Urteil vom 22.09.2003 - II ZR 229/02](ii-zr-229-02.md) — Tatbestand:
+- [BGH, Urteil vom 22.09.2003 - II ZR 74/01](ii-zr-74-01.md) — 3-
+- [BGH, Urteil vom 15.09.2003 - II ZR 367/02](ii-zr-367-02.md) — Tatbestand:
 - [BGH, Beschluss vom 21.07.2003 - II ZB 17/01](ii-zb-17-01.md) — BGH, Beschluss vom 21.07.2003 - II ZB 17/01
 - [BGH, Urteil vom 21.07.2003 - II ZR 109/02](ii-zr-109-02.md) — Tatbestand:
+- [BGH, Urteil vom 14.07.2003 - II ZR 202/02](ii-zr-202-02.md) — Tatbestand:
+- [BGH, Urteil vom 07.07.2003 - II ZR 241/02](ii-zr-241-02.md) — Tatbestand:
 - [BGH, Urteil vom 23.06.2003 - II ZR 305/01](ii-zr-305-01.md) — Tatbestand:
+- [BGH, Beschluss vom 10.06.2003 - II ZA 2/02](ii-za-2-02.md) — Der Senat sieht die bezeichnete Eingabe des Beklagten als Gegenvorstellung an, da gegen die Versagung der Prozeßkostenhilfe durch den Bundesgerichtshof weder die Beschwerde noch …
 - [BGH, Urteil vom 02.06.2003 - II ZR 134/02](ii-zr-134-02.md) — BGH, Urteil vom 02.06.2003 - II ZR 134/02
+- [BGH, Urteil vom 05.05.2003 - II ZR 112/01](ii-zr-112-01.md) — Tatbestand: Die Parteien kamen 1991 überein, gemeinsam eine zum Verkauf stehende Spielhalle zu übernehmen und zu betreiben. Für diesen Zweck
 - [BGH, Versäumnisurteil vom 05.05.2003 - II ZR 50/01](ii-zr-50-01.md) — Tatbestand:
 - [BGH, Urteil vom 07.04.2003 - II ZR 193/02](ii-zr-193-02.md) — Tatbestand:
+- [BGH, Urteil vom 31.03.2003 - II ZR 192/02](ii-zr-192-02.md) — Tatbestand:
+- [BGH, Urteil vom 31.03.2003 - II ZR 8/01](ii-zr-8-01.md) — 3-
 - [BGH, Urteil vom 10.03.2003 - II ZR 163/02](ii-zr-163-02.md) — Tatbestand:
 - [BGH, Urteil vom 24.02.2003 - II ZR 243/02](ii-zr-243-02.md) — Tatbestand:
 - [BGH, Urteil vom 17.02.2003 - II ZR 187/02](ii-zr-187-02.md) — Tatbestand:
+- [BGH, Urteil vom 17.02.2003 - II ZR 340/01](ii-zr-340-01.md) — Tatbestand:
+- [BGH, Beschluss vom 03.02.2003 - II ZB 19/02](ii-zb-19-02.md) — I. Der Kläger war mit seinen Brüdern, den Beklagten zu 12 und 13, Gesellschafter der Beklagten zu 1 bis 11 sowie Geschäftsführer der Beklagten zu 6 und 8. Durch Vertrag vom 4 …
+- [BGH, Versäumnisurteil vom 13.01.2003 - II ZR 58/00](ii-zr-58-00.md) — Tatbestand:
 - [BGH, Beschluss vom 10.01.2003 - II ZR 275/02](ii-zr-275-02.md) — BGH, Beschluss vom 10.01.2003 - II ZR 275/02

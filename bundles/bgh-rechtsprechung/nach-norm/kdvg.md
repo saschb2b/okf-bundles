@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu KDVG"
 description: "BGH-Entscheidungen zu KDVG, geordnet nach Vorschrift."
 tags: [register, navigation, kdvg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

@@ -1,27 +1,49 @@
 # VIII. Zivilsenat – 2006
 
-23 Entscheidung(en).
+45 Entscheidung(en).
 
 - [BGH, Urteil vom 20.12.2006 - VIII ZR 112/06](viii-zr-112-06.md) — Tatbestand:
 - [BGH, Beschluss vom 19.12.2006 - VIII ZB 49/06](viii-zb-49-06.md) — der Besorgnis der Befangenheit abgelehnt und ihm im Hin-
+- [BGH, Urteil vom 13.12.2006 - VIII ZR 25/06](viii-zr-25-06.md) — Tatbestand:
 - [BGH, Urteil vom 29.11.2006 - VIII ZR 246/05](viii-zr-246-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.11.2006 - VIII ZB 52/06](viii-zb-52-06.md) — I. 1 Das Endurteil des Amtsgerichts, mit dem der Beklagte verurteilt worden ist, an die Klägerin 1.490,37 Euro nebst Zinsen zu zahlen, ist der Hauptbevoll- mächtigten des …
 - [BGH, Urteil vom 22.11.2006 - VIII ZR 72/06](viii-zr-72-06.md) — die vereinbarte Beschaffenheit "fahrbereit", weil der Motor wegen eines fortschreitenden Schadens nach einer Fahrtstrecke von höchsten 2.000
 - [BGH, Beschluss vom 07.11.2006 - VIII ZB 38/06](viii-zb-38-06.md) — BGH, Beschluss vom 07.11.2006 - VIII ZB 38/06
+- [BGH, Beschluss vom 07.11.2006 - VIII ZR 73/06](viii-zr-73-06.md) — zu legen hat. Für den vorliegenden Fall steht damit die sachliche Unzuständigkeit des von den Klägern erstinstanzlich angerufenen Landgerichts ohne Rücksicht darauf fest, ob das …
 - [BGH, Urteil vom 25.10.2006 - VIII ZR 251/05](viii-zr-251-05.md) — Tatbestand:
 - [BGH, Urteil vom 18.10.2006 - VIII ZR 52/06](viii-zr-52-06.md) — Tatbestand:
 - [BGH, Urteil vom 11.10.2006 - VIII ZR 148/05](viii-zr-148-05.md) — Tatbestand:
+- [BGH, Beschluss vom 11.10.2006 - VIII ZR 163/06](viii-zr-163-06.md) — BGH, Beschluss vom 11.10.2006 - VIII ZR 163/06
+- [BGH, Urteil vom 27.09.2006 - VIII ZR 217/05](viii-zr-217-05.md) — Verlusts des Leasingfahrzeugs Anspruch auf dessen Zeitwert oder den Restvertragswert in Höhe seines nicht amortisierten Gesamtaufwandes hat,
 - [BGH, Urteil vom 20.09.2006 - VIII ZR 100/05](viii-zr-100-05.md) — Verstoßes gegen § 87c HGB unwirksam (Bestätigung von BGH, Urteil vom 20. Februar 1964 - VII ZR 147/62, LM Nr. 4a zu § 87c HGB).
+- [BGH, Urteil vom 20.09.2006 - VIII ZR 127/04](viii-zr-127-04.md) — Tatbestand:
 - [BGH, Beschluss vom 20.09.2006 - VIII ZR 141/05](viii-zr-141-05.md) — BGH, Beschluss vom 20.09.2006 - VIII ZR 141/05
-- [BGH, Beschluss vom 19.09.2006 - VIII ZB 42/05](viii-zb-42-05.md) — BGH, Beschluss vom 19.09.2006 - VIII ZB 42/05
+- [BGH, Beschluss vom 19.09.2006 - VIII ZB 42/05](viii-zb-42-05.md) — I. 1 Die Parteien streiten um das Eigentum an einem Kraftfahrzeug der Marke D. . Die vom Kläger erhobene Klage auf Feststellung, dass er gutgläubig Eigentum an dem Pkw erworben …
 - [BGH, Beschluss vom 16.08.2006 - VIII ZR 200/05](viii-zr-200-05.md) — BGH, Beschluss vom 16.08.2006 - VIII ZR 200/05
+- [BGH, Urteil vom 12.07.2006 - VIII ZR 235/04](viii-zr-235-04.md) — Tatbestand:
+- [BGH, Urteil vom 19.06.2006 - VIII ZR 284/05](viii-zr-284-05.md) — eines Mangels der Mietsache, der vor der Veräußerung entstanden ist. Vom Zeitpunkt der Veräußerung an ist nur noch der Erwerber zur Mangelbe
+- [BGH, Urteil vom 14.06.2006 - VIII ZR 257/04](viii-zr-257-04.md) — 3-
+- [BGH, Beschluss vom 07.06.2006 - VIII ZB 108/05](viii-zb-108-05.md) — I. 1 Die Klägerin hat ein Versäumnisurteil vom 18. Januar 2005 nach § 331 Abs. 3 ZPO über eine Klageforderung von 122.455,66 € erwirkt. Nachdem der Beklagte hiergegen Einspruch …
+- [BGH, Beschluss vom 07.06.2006 - VIII ZB 96/05](viii-zb-96-05.md) — I. 1 Der Kläger ist Eigentümer einer in H. gelegenen Wohnung. Mit der Behauptung, der Beklagte habe die Wohnung nach dem Auszug der Miete- rin mehrere Monate unberechtigt genutzt …
+- [BGH, Beschluss vom 07.06.2006 - VIII ZR 229/04](viii-zr-229-04.md) — die-
 - [BGH, Beschluss vom 17.05.2006 - VIII ZB 15/06](viii-zb-15-06.md) — grundsätzlicher Bedeutung zugelassen
 - [BGH, Beschluss vom 25.04.2006 - VIII ZB 30/06](viii-zb-30-06.md) — BGH, Beschluss vom 25.04.2006 - VIII ZB 30/06
+- [BGH, Urteil vom 05.04.2006 - VIII ZR 109/05](viii-zr-109-05.md) — unangemessener Benachteiligung des Mieters unwirksam.
+- [BGH, Urteil vom 05.04.2006 - VIII ZR 152/05](viii-zr-152-05.md) — unangemessener Benachteiligung des Mieters unwirksam.
 - [BGH, Urteil vom 05.04.2006 - VIII ZR 178/05](viii-zr-178-05.md) — Tatbestand:
+- [BGH, Urteil vom 05.04.2006 - VIII ZR 384/04](viii-zr-384-04.md) — 3-
 - [BGH, Urteil vom 29.03.2006 - VIII ZR 250/05](viii-zr-250-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.03.2006 - VIII ZB 29/05](viii-zb-29-05.md) — I. 1 Die Klägerin erwarb von der Beklagten gemäß Bestellung vom 28. November 2003 ein Kraftfahrzeug. Mit ihrer am 9. September 2004 beim Landgericht eingegangenen Klage hat die …
+- [BGH, Urteil vom 22.03.2006 - VIII ZR 173/04](viii-zr-173-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2006 - VIII ZR 120/04](viii-zr-120-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2006 - VIII ZR 123/05](viii-zr-123-05.md) — Tatbestand:
+- [BGH, Urteil vom 15.03.2006 - VIII ZR 134/05](viii-zr-134-05.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2006 - VIII ZR 74/05](viii-zr-74-05.md) — Tatbestand:
+- [BGH, Urteil vom 08.03.2006 - VIII ZR 78/05](viii-zr-78-05.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2006 - VIII ZR 362/04](viii-zr-362-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2006 - VIII ZR 91/05](viii-zr-91-05.md) — Tatbestand:
 - [BGH, Urteil vom 08.02.2006 - VIII ZR 304/04](viii-zr-304-04.md) — Tatbestand:
 - [BGH, Urteil vom 25.01.2006 - VIII ZR 398/03](viii-zr-398-03.md) — besonders grober Verletzung des Grundsatzes der Sparsamkeit und Wirtschaftlichkeit kommunaler Haushaltsführung.
+- [BGH, Urteil vom 25.01.2006 - VIII ZR 56/04](viii-zr-56-04.md) — Tatbestand:
+- [BGH, Urteil vom 18.01.2006 - VIII ZR 114/05](viii-zr-114-05.md) — Tatbestand:
+- [BGH, Urteil vom 11.01.2006 - VIII ZR 268/04](viii-zr-268-04.md) — Tatbestand:

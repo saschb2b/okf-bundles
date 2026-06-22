@@ -1,21 +1,31 @@
 # III. Zivilsenat – 2002
 
-32 Entscheidung(en).
+48 Entscheidung(en).
 
+- [BGH, Beschluss vom 19.12.2002 - III ZB 33/02](iii-zb-33-02.md) — BGH, Beschluss vom 19.12.2002 - III ZB 33/02
 - [BGH, Urteil vom 12.12.2002 - III ZR 16/02](iii-zr-16-02.md) — Tatbestand
-- [BGH, Urteil vom 12.12.2002 - III ZR 182/01](iii-zr-182-01.md) — Tatbestand
+- [BGH, Entscheidung vom 12.12.2002 - III ZR 201/01](iii-zr-201-01.md) — BGH, Entscheidung vom 12.12.2002 - III ZR 201/01
 - [BGH, Beschluss vom 05.12.2002 - III ZR 295/02](iii-zr-295-02.md) — BGH, Beschluss vom 05.12.2002 - III ZR 295/02
 - [BGH, Beschluss vom 05.12.2002 - III ZR 61/02](iii-zr-61-02.md) — BGH, Beschluss vom 05.12.2002 - III ZR 61/02
+- [BGH, Beschluss vom 19.11.2002 - III ZR 280/01](iii-zr-280-01.md) — dargetan werden, die dafür sprechen, dass die Entscheidung auf einer unsachlichen Einstellung des Richters gegenüber der ablehnenden Partei oder auf Willkür beruht (vgl.
 - [BGH, Beschluss vom 14.11.2002 - III ZB 73/02](iii-zb-73-02.md) — BGH, Beschluss vom 14.11.2002 - III ZB 73/02
 - [BGH, Urteil vom 14.11.2002 - III ZR 131/01](iii-zr-131-01.md) — BGH, Urteil vom 14.11.2002 - III ZR 131/01
 - [BGH, Urteil vom 14.11.2002 - III ZR 19/02](iii-zr-19-02.md) — Tatbestand
 - [BGH, Urteil vom 14.11.2002 - III ZR 87/02](iii-zr-87-02.md) — Tatbestand
 - [BGH, Urteil vom 07.11.2002 - III ZR 147/02](iii-zr-147-02.md) — Tatbestand
+- [BGH, Beschluss vom 31.10.2002 - III ZB 17/02](iii-zb-17-02.md) — unwirksam, weil die Geschäftsstelle des Gerichts - objektiv zu Unrecht - im Zustellungsauftrag eine Ersatzzustellung ausgeschlossen hatte.
+- [BGH, Beschluss vom 31.10.2002 - III ZB 23/02](iii-zb-23-02.md) — der Versäumung der Frist zur Begründung der Berufung gegen das Urteil der 21. Zivilkammer des Landgerichts Frankfurt am Main vom 14. Dezembe
+- [BGH, Beschluss vom 31.10.2002 - III ZR 13/02](iii-zr-13-02.md) — I. In dem vorliegenden baulandgerichtlichen Verfahren im Anschluß an eine - sowohl von der Beteiligten zu 1 als auch von der Beteiligten zu 2 (Stadt W. ) angefochtene - …
+- [BGH, Beschluss vom 31.10.2002 - III ZR 89/02](iii-zr-89-02.md) — Die Beschwerde ist nach § 544 Abs. 1 und 2 ZPO zulässig, hat aber in der Sache keinen Erfolg. 1. Entgegen der Auffassung der Beschwerdeführerin ist der Zulassungsgrund des § 543 …
 - [BGH, Beschluss vom 26.09.2002 - III ZA 9/02](iii-za-9-02.md) — BGH, Beschluss vom 26.09.2002 - III ZA 9/02
 - [BGH, Beschluss vom 26.09.2002 - III ZR 165/96](iii-zr-165-96.md) — BGH, Beschluss vom 26.09.2002 - III ZR 165/96
 - [BGH, Beschluss vom 25.07.2002 - III ZB 41/02](iii-zb-41-02.md) — BGH, Beschluss vom 25.07.2002 - III ZB 41/02
-- [BGH, Urteil vom 25.07.2002 - III ZR 113/02](iii-zr-113-02.md) — BGH, Urteil vom 25.07.2002 - III ZR 113/02
-- [BGH, Urteil vom 25.07.2002 - III ZR 207/01](iii-zr-207-01.md) — BGH, Urteil vom 25.07.2002 - III ZR 207/01
+- [BGH, Urteil vom 25.07.2002 - III ZR 113/02](iii-zr-113-02.md) — Tatbestand
+- [BGH, Urteil vom 25.07.2002 - III ZR 207/01](iii-zr-207-01.md) — Tatbestand
+- [BGH, Urteil vom 11.07.2002 - III ZR 160/01](iii-zr-160-01.md) — Tatbestand
+- [BGH, Beschluss vom 04.07.2002 - III ZR 182/01](iii-zr-182-01.md) — BGH, Beschluss vom 04.07.2002 - III ZR 182/01
+- [BGH, Urteil vom 27.06.2002 - III ZR 234/01](iii-zr-234-01.md) — Tatbestand
+- [BGH, Urteil vom 13.06.2002 - III ZR 186/01](iii-zr-186-01.md) — Tatbestand
 - [BGH, Beschluss vom 06.06.2002 - III ZB 20/02](iii-zb-20-02.md) — BGH, Beschluss vom 06.06.2002 - III ZB 20/02
 - [BGH, Urteil vom 06.06.2002 - III ZR 206/01](iii-zr-206-01.md) — Tatbestand
 - [BGH, Versäumnisurteil vom 16.05.2002 - III ZR 253/01](iii-zr-253-01.md) — Tatbestand
@@ -24,8 +34,14 @@
 - [BGH, Versäumnisurteil vom 04.04.2002 - III ZR 237/01](iii-zr-237-01.md) — unzureichender Aufklärung beim Erwerb von besonders risikobehafteten ("Marktenge") Aktien, die über das amerikanische NASDAQ-Computersystem
 - [BGH, Urteil vom 04.04.2002 - III ZR 4/01](iii-zr-4-01.md) — der Durchführung von Maßnahmen, die von der Gemeinde nach Maßgabe des § 177 Abs. 4 und 5 BauGB finanziert werden (hier: Wiederherstellung de
 - [BGH, Urteil vom 04.04.2002 - III ZR 70/01](iii-zr-70-01.md) — Tatbestand
+- [BGH, Beschluss vom 27.03.2002 - III ZB 43/00](iii-zb-43-00.md) — I. Die Antragsgegnerin wurde durch Schiedsspruch des ICC-Schiedsrichters F. W. vom 21. Juni 1999 verurteilt, an die Antragstellerinnen 345.490 DM nebst Zinsen zu zahlen und ihnen …
+- [BGH, Beschluss vom 27.03.2002 - III ZB 8/02](iii-zb-8-02.md) — Gegen Entscheidungen des Beschwerdegerichts ist als weiteres Rechtsmittel nur die Rechtsbeschwerde statthaft, sofern dies im Gesetz ausdrücklich bestimmt ist oder das …
+- [BGH, Urteil vom 14.03.2002 - III ZR 302/00](iii-zr-302-00.md) — BGH, Urteil vom 14.03.2002 - III ZR 302/00
+- [BGH, Urteil vom 14.03.2002 - III ZR 320/00](iii-zr-320-00.md) — Tatbestand
 - [BGH, Beschluss vom 28.02.2002 - III ZR 32/00](iii-zr-32-00.md) — dieses und anderer Verkaufsfälle mit derselben Beurkundungspraxis Provisionsansprüche zustehen, vorgreiflich.
 - [BGH, Beschluss vom 28.02.2002 - III ZR 328/00](iii-zr-328-00.md) — offenbarer Unrichtigkeit wie folgt berichtigt:
+- [BGH, Urteil vom 07.02.2002 - III ZR 1/01](iii-zr-1-01.md) — Tatbestand
+- [BGH, Urteil vom 07.02.2002 - III ZR 92/01](iii-zr-92-01.md) — 3-
 - [BGH, Beschluss vom 31.01.2002 - III ZB 69/01](iii-zb-69-01.md) — Versäumung der Berufungsfrist zugleich mit folgender Begründung Wiedereinsetzung in den vorigen Stand: Ihr Prozeßbevollmächtigter erster Ins
 - [BGH, Beschluss vom 31.01.2002 - III ZR 135/01](iii-zr-135-01.md) — BGH, Beschluss vom 31.01.2002 - III ZR 135/01
 - [BGH, Urteil vom 24.01.2002 - III ZR 103/01](iii-zr-103-01.md) — Tatbestand

@@ -9,7 +9,7 @@ datum: 2004-06-28
 aktenzeichen: "AnwSt (R) 16/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:17:45Z
+timestamp: 2026-06-22T14:09:54Z
 ---
 # Volltext
 

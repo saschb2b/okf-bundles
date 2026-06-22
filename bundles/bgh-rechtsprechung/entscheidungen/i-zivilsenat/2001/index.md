@@ -1,29 +1,69 @@
 # I. Zivilsenat – 2001
 
-25 Entscheidung(en).
+65 Entscheidung(en).
 
 - [BGH, Urteil vom 20.12.2001 - I ZR 135/99](i-zr-135-99.md) — BGH, Urteil vom 20.12.2001 - I ZR 135/99
-- [BGH, Urteil vom 20.12.2001 - I ZR 15/98](i-zr-15-98.md) — desselben Wettbewerbsverstoßes zeitlich versetzt beim selben Gericht auf Unterlassung in Anspruch, kann nicht für die erste, wohl aber für d
 - [BGH, Urteil vom 20.12.2001 - I ZR 152/99](i-zr-152-99.md) — BGH, Urteil vom 20.12.2001 - I ZR 152/99
 - [BGH, Beschluss vom 20.12.2001 - I ZR 156/01](i-zr-156-01.md) — BGH, Beschluss vom 20.12.2001 - I ZR 156/01
-- [BGH, Urteil vom 20.12.2001 - I ZR 188/98](i-zr-188-98.md) — BGH, Urteil vom 20.12.2001 - I ZR 188/98
 - [BGH, Urteil vom 20.12.2001 - I ZR 227/99](i-zr-227-99.md) — Tatbestand:
 - [BGH, Urteil vom 20.12.2001 - I ZR 60/99](i-zr-60-99.md) — Tatbestand:
+- [BGH, Urteil vom 20.12.2001 - I ZR 78/99](i-zr-78-99.md) — Tatbestand:
 - [BGH, Urteil vom 20.12.2001 - I ZR 80/99](i-zr-80-99.md) — Tatbestand:
+- [BGH, Beschluss vom 13.12.2001 - I ZB 22/01](i-zb-22-01.md) — I. Die Klägerin hat gegen das ihr am 21. Mai 2001 zugestellte Urteil der 12. Zivilkammer (2. Kammer für Handelssachen) des Landgerichts Oldenburg vom 16. Mai 2001 am 22. Juni 2001 …
+- [BGH, Urteil vom 13.12.2001 - I ZR 164/99](i-zr-164-99.md) — Tatbestand:
+- [BGH, Urteil vom 13.12.2001 - I ZR 41/99](i-zr-41-99.md) — BGH, Urteil vom 13.12.2001 - I ZR 41/99
+- [BGH, Urteil vom 13.12.2001 - I ZR 44/99](i-zr-44-99.md) — Tatbestand:
+- [BGH, Beschluss vom 13.12.2001 - I ZR 92/01](i-zr-92-01.md) — BGH, Beschluss vom 13.12.2001 - I ZR 92/01
+- [BGH, Beschluss vom 06.12.2001 - I ZB 25/01](i-zb-25-01.md) — fehlender Erfolgsaussicht der beabsichtigten Rechtsverfolgung zurückgewiesen. Die dagegen gerichtete Beschwerde hat das Landgericht München
+- [BGH, Urteil vom 06.12.2001 - I ZR 101/99](i-zr-101-99.md) — BGH, Urteil vom 06.12.2001 - I ZR 101/99
+- [BGH, Urteil vom 06.12.2001 - I ZR 11/99](i-zr-11-99.md) — Tatbestand:
+- [BGH, Urteil vom 06.12.2001 - I ZR 14/99](i-zr-14-99.md) — BGH, Urteil vom 06.12.2001 - I ZR 14/99
+- [BGH, Beschluss vom 06.12.2001 - I ZR 154/01](i-zr-154-01.md) — BGH, Beschluss vom 06.12.2001 - I ZR 154/01
+- [BGH, Urteil vom 06.12.2001 - I ZR 283/00](i-zr-283-00.md) — BGH, Urteil vom 06.12.2001 - I ZR 283/00
+- [BGH, Urteil vom 06.12.2001 - I ZR 284/00](i-zr-284-00.md) — BGH, Urteil vom 06.12.2001 - I ZR 284/00
+- [BGH, Urteil vom 06.12.2001 - I ZR 316/98](i-zr-316-98.md) — BGH, Urteil vom 06.12.2001 - I ZR 316/98
+- [BGH, Urteil vom 15.11.2001 - I ZR 182/99](i-zr-182-99.md) — Verlustes, sondern wegen Beschädigung von Transportgut Schadensersatz verlangt wird.
+- [BGH, Urteil vom 15.11.2001 - I ZR 264/99](i-zr-264-99.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2001 - I ZR 275/99](i-zr-275-99.md) — 3Tatbestand:
+- [BGH, Urteil vom 15.11.2001 - I ZR 74/99](i-zr-74-99.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 15.11.2001 - I ZR 75/99](i-zr-75-99.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2001 - I ZR 76/99](i-zr-76-99.md) — 3-
+- [BGH, Beschluss vom 14.11.2001 - I ZR 266/98](i-zr-266-98.md) — I. Die Klägerin, die Zentrale zur Bekämpfung unlauteren Wettbewerbs, hat mit der Beklagten, einer zur französischen A. -Gruppe gehörenden inländischen Hotelbetriebsgesellschaft …
 - [BGH, Beschluss vom 18.10.2001 - I ZR 187/98](i-zr-187-98.md) — BGH, Beschluss vom 18.10.2001 - I ZR 187/98
 - [BGH, Urteil vom 18.10.2001 - I ZR 91/99](i-zr-91-99.md) — Tatbestand:
+- [BGH, Beschluss vom 26.09.2001 - I ZR 3/01](i-zr-3-01.md) — I. Der Kläger ist ein eingetragener Verein, dem Gewerbetreibende und Verbände von Gewerbetreibenden zur Bekämpfung von Verstößen gegen das UWG angehören. Er hat die Beklagte, die …
 - [BGH, Urteil vom 12.07.2001 - I ZR 100/99](i-zr-100-99.md) — Tatbestand:
 - [BGH, Urteil vom 12.07.2001 - I ZR 261/98](i-zr-261-98.md) — BGH, Urteil vom 12.07.2001 - I ZR 261/98
 - [BGH, Beschluss vom 12.07.2001 - I ZR 280/00](i-zr-280-00.md) — BGH, Beschluss vom 12.07.2001 - I ZR 280/00
 - [BGH, Urteil vom 12.07.2001 - I ZR 40/99](i-zr-40-99.md) — BGH, Urteil vom 12.07.2001 - I ZR 40/99
 - [BGH, Urteil vom 12.07.2001 - I ZR 89/99](i-zr-89-99.md) — BGH, Urteil vom 12.07.2001 - I ZR 89/99
+- [BGH, Urteil vom 05.07.2001 - I ZR 311/98](i-zr-311-98.md) — Tatbestand:
+- [BGH, Urteil vom 05.07.2001 - I ZR 335/98](i-zr-335-98.md) — Tatbestand:
+- [BGH, Beschluss vom 28.06.2001 - I ZA 2/00](i-za-2-00.md) — Besorgnis der Befangenheit abgelehnt. Die Markenabteilung hat den Antrag
+- [BGH, Beschluss vom 28.06.2001 - I ZB 1/99](i-zb-1-99.md) — fehlender Unterscheidungskraft und wegen eines Freihaltebedürfnisses zurückgewiesen.
+- [BGH, Beschluss vom 28.06.2001 - I ZB 58/98](i-zb-58-98.md) — fehlender Unterscheidungskraft des Zeichens zurückgewiesen.
+- [BGH, Urteil vom 28.06.2001 - I ZR 121/99](i-zr-121-99.md) — Tatbestand:
+- [BGH, Urteil vom 28.06.2001 - I ZR 13/99](i-zr-13-99.md) — Tatbestand:
 - [BGH, Urteil vom 07.06.2001 - I ZR 157/98](i-zr-157-98.md) — Tatbestand:
 - [BGH, Urteil vom 07.06.2001 - I ZR 198/98](i-zr-198-98.md) — Tatbestand:
 - [BGH, Urteil vom 07.06.2001 - I ZR 210/97](i-zr-210-97.md) — Tatbestand:
 - [BGH, Beschluss vom 19.04.2001 - I ZA 4/00](i-za-4-00.md) — BGH, Beschluss vom 19.04.2001 - I ZA 4/00
 - [BGH, Urteil vom 19.04.2001 - I ZR 46/99](i-zr-46-99.md) — BGH, Urteil vom 19.04.2001 - I ZR 46/99
+- [BGH, Urteil vom 05.04.2001 - I ZR 132/98](i-zr-132-98.md) — BGH, Urteil vom 05.04.2001 - I ZR 132/98
+- [BGH, Beschluss vom 05.04.2001 - I ZR 15/98](i-zr-15-98.md) — BGH, Beschluss vom 05.04.2001 - I ZR 15/98
+- [BGH, Urteil vom 05.04.2001 - I ZR 168/98](i-zr-168-98.md) — Tatbestand:
+- [BGH, Beschluss vom 05.04.2001 - I ZR 188/98](i-zr-188-98.md) — desselben Wettbewerbsverhaltens in jeweils getrennten Verfahren gerichtlich gegen die Beklagte vorgegangen. Alle Konzerngesellschaften waren
+- [BGH, Beschluss vom 05.04.2001 - I ZR 257/98](i-zr-257-98.md) — BGH, Beschluss vom 05.04.2001 - I ZR 257/98
+- [BGH, Urteil vom 05.04.2001 - I ZR 32/99](i-zr-32-99.md) — 3-
+- [BGH, Urteil vom 05.04.2001 - I ZR 39/99](i-zr-39-99.md) — 3Tatbestand:
+- [BGH, Beschluss vom 05.04.2001 - I ZR 45/98](i-zr-45-98.md) — desselben Wettbewerbsverhaltens in jeweils getrennten Verfahren gerichtlich gegen die Beklagte vorgegangen. Alle Konzerngesellschaften waren
+- [BGH, Beschluss vom 05.04.2001 - I ZR 78/00](i-zr-78-00.md) — BGH, Beschluss vom 05.04.2001 - I ZR 78/00
 - [BGH, Beschluss vom 22.02.2001 - I ZA 1/01](i-za-1-01.md) — Nichtbenutzung in Anspruch genommen.
 - [BGH, Urteil vom 22.02.2001 - I ZR 194/98](i-zr-194-98.md) — Tatbestand:
-- [BGH, Urteil vom 22.02.2001 - I ZR 227/00](i-zr-227-00.md) — BGH, Urteil vom 22.02.2001 - I ZR 227/00
-- [BGH, Urteil vom 22.02.2001 - I ZR 282/98](i-zr-282-98.md) — BGH, Urteil vom 22.02.2001 - I ZR 282/98
+- [BGH, Urteil vom 22.02.2001 - I ZR 227/00](i-zr-227-00.md) — 3-
+- [BGH, Urteil vom 22.02.2001 - I ZR 282/98](i-zr-282-98.md) — 3Tatbestand:
 - [BGH, Urteil vom 25.01.2001 - I ZR 120/98](i-zr-120-98.md) — Tatbestand:
+- [BGH, Urteil vom 25.01.2001 - I ZR 287/98](i-zr-287-98.md) — Nichterfüllung verlangen, ohne daß es einer Nachfristsetzung mit Ablehnungsandrohung bedarf.
+- [BGH, Urteil vom 25.01.2001 - I ZR 323/98](i-zr-323-98.md) — des typischen Charakters von Unterlassungsverträgen regelmäßig nach denselben Grundsätzen zu beurteilen sein.
+- [BGH, Urteil vom 25.01.2001 - I ZR 53/99](i-zr-53-99.md) — Tatbestand:
+- [BGH, Beschluss vom 18.01.2001 - I ZB 37/00](i-zb-37-00.md) — greifbarer Gesetzwidrigkeit kann nur in Betracht kommen, wenn die angegriffene Entscheidung jeder rechtlichen Grundlage entbehrt oder mit de

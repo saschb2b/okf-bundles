@@ -1,10 +1,11 @@
 # IV. Zivilsenat – 2006
 
-32 Entscheidung(en).
+52 Entscheidung(en).
 
-- [BGH, Beschluss vom 20.12.2006 - IV ZB 25/06](iv-zb-25-06.md) — BGH, Beschluss vom 20.12.2006 - IV ZB 25/06
+- [BGH, Beschluss vom 20.12.2006 - IV ZB 25/06](iv-zb-25-06.md) — anderweitiger von der betreffenden Mitarbeiterin zu bearbeitender
 - [BGH, Urteil vom 20.12.2006 - IV ZR 175/05](iv-zr-175-05.md) — Tatbestand:
 - [BGH, Urteil vom 20.12.2006 - IV ZR 325/05](iv-zr-325-05.md) — Tatbestand:
+- [BGH, Urteil vom 13.12.2006 - IV ZR 252/05](iv-zr-252-05.md) — Tatbestand:
 - [BGH, Beschluss vom 13.12.2006 - IV ZR 261/04](iv-zr-261-04.md) — BGH, Beschluss vom 13.12.2006 - IV ZR 261/04
 - [BGH, Beschluss vom 06.12.2006 - IV ZB 20/06](iv-zb-20-06.md) — Mängel bei den Formerfordernissen des § 519 Abs. 2 ZPO verworfen werden, wenn sich diese Mängel über einen Abgleich mit den erstinstanzliche
 - [BGH, Beschluss vom 06.12.2006 - IV ZR 14/06](iv-zr-14-06.md) — BGH, Beschluss vom 06.12.2006 - IV ZR 14/06
@@ -12,25 +13,44 @@
 - [BGH, Beschluss vom 27.11.2006 - IV ZB 23/06](iv-zb-23-06.md) — BGH, Beschluss vom 27.11.2006 - IV ZB 23/06
 - [BGH, Beschluss vom 22.11.2006 - IV ZB 18/06](iv-zb-18-06.md) — BGH, Beschluss vom 22.11.2006 - IV ZB 18/06
 - [BGH, Beschluss vom 21.11.2006 - IV ZR 143/05](iv-zr-143-05.md) — Verweigerung
+- [BGH, Versäumnisurteil vom 15.11.2006 - IV ZR 122/05](iv-zr-122-05.md) — Tatbestand:
 - [BGH, Beschluss vom 07.11.2006 - IV ZR 71/06](iv-zr-71-06.md) — weiterer Einzelheiten nimmt der
+- [BGH, Urteil vom 11.10.2006 - IV ZR 66/05](iv-zr-66-05.md) — Tatbestand:
 - [BGH, Beschluss vom 20.09.2006 - IV ZB 16/06](iv-zb-16-06.md) — BGH, Beschluss vom 20.09.2006 - IV ZB 16/06
+- [BGH, Beschluss vom 20.09.2006 - IV ZR 28/05](iv-zr-28-05.md) — I. Der Kläger hat die Feststellung begehrt, dass die Beklagte als sein privater Krankenversicherer verpflichtet war, für eine im Jahre 2003 geplante Implantation dreier Zähne …
+- [BGH, Beschluss vom 20.09.2006 - IV ZR 328/05](iv-zr-328-05.md) — BGH, Beschluss vom 20.09.2006 - IV ZR 328/05
+- [BGH, Urteil vom 13.09.2006 - IV ZR 378/02](iv-zr-378-02.md) — Schäden an gemieteten Sachen deckt (Bestätigung und Fortführung von BGHZ 145, 393).
+- [BGH, Beschluss vom 13.09.2006 - IV ZR 99/05](iv-zr-99-05.md) — BGH, Beschluss vom 13.09.2006 - IV ZR 99/05
+- [BGH, Beschluss vom 28.07.2006 - IV ZR 6/04](iv-zr-6-04.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Gehörsrüge ist nicht begründet.
+- [BGH, Beschluss vom 12.07.2006 - IV ZA 11/06](iv-za-11-06.md) — Die Rechtsverfolgung bietet auch in Anbetracht der mit der Über- raschungsentscheidung des Berufungsgerichts zu § 275 Abs.
+- [BGH, Urteil vom 05.07.2006 - IV ZR 105/05](iv-zr-105-05.md) — Tatbestand:
 - [BGH, Beschluss vom 05.07.2006 - IV ZR 204/05](iv-zr-204-05.md) — BGH, Beschluss vom 05.07.2006 - IV ZR 204/05
 - [BGH, Beschluss vom 05.07.2006 - IV ZR 39/05](iv-zr-39-05.md) — BGH, Beschluss vom 05.07.2006 - IV ZR 39/05
+- [BGH, Beschluss vom 28.06.2006 - IV ZB 44/05](iv-zb-44-05.md) — I. Der Rechtsbeschwerdeführer verlangt im Kostenfestsetzungsver- fahren Erstattung fiktiver Reisekosten seines Hauptprozessbevollmäch- tigten. 2 Im Ausgangsrechtsstreit stritt der …
+- [BGH, Beschluss vom 28.06.2006 - IV ZR 161/05](iv-zr-161-05.md) — Die Wertfestsetzung richtet sich gemäß § 3 ZPO nach dem wirt- schaftlichen Interesse des Beklagten anhand der von ihm geltend ge- machten Beteiligung von 1/5 an dem …
+- [BGH, Beschluss vom 28.06.2006 - IV ZR 190/05](iv-zr-190-05.md) — BGH, Beschluss vom 28.06.2006 - IV ZR 190/05
 - [BGH, Beschluss vom 14.06.2006 - IV ZB 18/05](iv-zb-18-05.md) — BGH, Beschluss vom 14.06.2006 - IV ZB 18/05
 - [BGH, Beschluss vom 14.06.2006 - IV ZR 219/04](iv-zr-219-04.md) — BGH, Beschluss vom 14.06.2006 - IV ZR 219/04
 - [BGH, Urteil vom 24.05.2006 - IV ZR 203/03](iv-zr-203-03.md) — Tatbestand:
 - [BGH, Urteil vom 03.05.2006 - IV ZR 134/05](iv-zr-134-05.md) — Tatbestand:
-- [BGH, Beschluss vom 03.05.2006 - IV ZR 240/03](iv-zr-240-03.md) — BGH, Beschluss vom 03.05.2006 - IV ZR 240/03
-- [BGH, Beschluss vom 03.05.2006 - IV ZR 72/05](iv-zr-72-05.md) — BGH, Beschluss vom 03.05.2006 - IV ZR 72/05
+- [BGH, Beschluss vom 03.05.2006 - IV ZR 240/03](iv-zr-240-03.md) — Die Beschwerde ist zurückzuweisen, weil ein Zulassungsgrund nicht dargelegt ist (§§ 543 Abs.
+- [BGH, Beschluss vom 03.05.2006 - IV ZR 72/05](iv-zr-72-05.md) — I. Die Klägerinnen nehmen die Beklagte aus § 2287 BGB im We- sentlichen auf Herausgabe von Grundstücken in Anspruch. Die Eltern der Beklagten errichteten am 14. März 1995 ein …
+- [BGH, Beschluss vom 26.04.2006 - IV ZA 17/05](iv-za-17-05.md) — eines
 - [BGH, Beschluss vom 25.04.2006 - IV ZA 19/05](iv-za-19-05.md) — BGH, Beschluss vom 25.04.2006 - IV ZA 19/05
 - [BGH, Beschluss vom 25.04.2006 - IV ZA 20/05](iv-za-20-05.md) — BGH, Beschluss vom 25.04.2006 - IV ZA 20/05
 - [BGH, Beschluss vom 25.04.2006 - IV ZA 21/05](iv-za-21-05.md) — BGH, Beschluss vom 25.04.2006 - IV ZA 21/05
 - [BGH, Beschluss vom 25.04.2006 - IV ZA 24/05](iv-za-24-05.md) — BGH, Beschluss vom 25.04.2006 - IV ZA 24/05
 - [BGH, Beschluss vom 25.04.2006 - IV ZA 25/05](iv-za-25-05.md) — BGH, Beschluss vom 25.04.2006 - IV ZA 25/05
+- [BGH, Urteil vom 22.03.2006 - IV ZR 93/05](iv-zr-93-05.md) — 3-
+- [BGH, Beschluss vom 15.03.2006 - IV ZB 38/05](iv-zb-38-05.md) — I. Die Parteien streiten um die Erbberechtigung nach der 1991 ver- storbenen Großmutter der Klägerin und Mutter der Drittwiderbeklagten. 2 Das Landgericht hat die Klage auf …
 - [BGH, Beschluss vom 15.03.2006 - IV ZR 146/05](iv-zr-146-05.md) — BGH, Beschluss vom 15.03.2006 - IV ZR 146/05
+- [BGH, Beschluss vom 08.03.2006 - IV ZB 19/05](iv-zb-19-05.md) — I. Der Kläger nimmt die Beklagte, seinen Rechtsschutzversicherer, auf Deckungsschutz für seine Auseinandersetzung mit einem Dritten aus einem "Unterpachtvertrag" vom 18. März 2003 …
 - [BGH, Urteil vom 08.03.2006 - IV ZR 145/05](iv-zr-145-05.md) — Tatbestand:
 - [BGH, Urteil vom 08.03.2006 - IV ZR 263/04](iv-zr-263-04.md) — Tatbestand:
 - [BGH, Urteil vom 08.03.2006 - IV ZR 409/02](iv-zr-409-02.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 22.02.2006 - IV ZR 56/05](iv-zr-56-05.md) — Tatbestand:
 - [BGH, Urteil vom 15.02.2006 - IV ZR 192/04](iv-zr-192-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.02.2006 - IV ZR 209/04](iv-zr-209-04.md) — Tatbestand:
+- [BGH, Urteil vom 18.01.2006 - IV ZR 244/04](iv-zr-244-04.md) — Tatbestand:
+- [BGH, Beschluss vom 11.01.2006 - IV ZR 119/05](iv-zr-119-05.md) — BGH, Beschluss vom 11.01.2006 - IV ZR 119/05
+- [BGH, Beschluss vom 11.01.2006 - IV ZR 52/04](iv-zr-52-04.md) — I. Das Berufungsgericht hat die Beklagte verurteilt, den Rück- kaufswert in Höhe von 55.878,58 € aus einer Lebensversicherung der -3- Streithelferin an den Kläger zu zahlen Zug um …

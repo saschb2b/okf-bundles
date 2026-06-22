@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UmwG"
 description: "BGH-Entscheidungen zu UmwG, geordnet nach Vorschrift."
 tags: [register, navigation, umwg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

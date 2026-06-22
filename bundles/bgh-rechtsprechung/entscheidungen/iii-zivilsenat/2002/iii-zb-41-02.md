@@ -9,7 +9,7 @@ datum: 2002-07-25
 aktenzeichen: "III ZB 41/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:13:54Z
+timestamp: 2026-06-22T14:05:40Z
 ---
 # Volltext
 

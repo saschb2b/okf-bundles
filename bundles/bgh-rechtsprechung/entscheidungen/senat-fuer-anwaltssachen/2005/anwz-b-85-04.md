@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 14.11.2005 - AnwZ (B) 85/04"
-description: "Widerrufs der Zulassung zur Rechtsanwaltschaft "
+description: "Widerrufs der Zulassung zur Rechtsanwaltschaft"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__85-04.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "Senat für Anwaltssachen"
@@ -9,7 +9,7 @@ datum: 2005-11-14
 aktenzeichen: "AnwZ (B) 85/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:20:58Z
+timestamp: 2026-06-22T14:13:03Z
 ---
 # Volltext
 

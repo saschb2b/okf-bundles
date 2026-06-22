@@ -1,21 +1,21 @@
 ---
 type: Gerichtsentscheidung
-title: "BGH, Beschluss vom 05.06.2008 - IX ZB 9/07"
-description: "BGH, Beschluss vom 05.06.2008 - IX ZB 9/07"
-resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2007/IX_ZB___9-07A.pdf?__blob=publicationFile&v=1
+title: "BGH, Beschluss vom 27.03.2008 - IX ZB 9/07"
+description: "der erlangten Versorgungsbezüge gemäß § 35 BEG gerechtfertigt sein (vgl."
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2007/IX_ZB___9-07.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "IX. Zivilsenat"
-datum: 2008-06-05
+datum: 2008-03-27
 aktenzeichen: "IX ZB 9/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:27:02Z
+timestamp: 2026-06-22T14:19:27Z
 ---
 # Volltext
 
-Volltext (PDF) beim Bundesgerichtshof: IX ZB 9/07 vom 05.06.2008.
+Volltext (PDF) beim Bundesgerichtshof: IX ZB 9/07 vom 27.03.2008.
 
 # Citations
 
-[1] [BGH, Beschluss vom 05.06.2008 - IX ZB 9/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2007/IX_ZB___9-07A.pdf?__blob=publicationFile&v=1)
+[1] [BGH, Beschluss vom 27.03.2008 - IX ZB 9/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2007/IX_ZB___9-07.pdf?__blob=publicationFile&v=1)
 

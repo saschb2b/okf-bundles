@@ -1,21 +1,55 @@
 # 1. Strafsenat – 2004
 
-17 Entscheidung(en).
+51 Entscheidung(en).
 
+- [BGH, Beschluss vom 17.12.2004 - 1 StR 522/04](1-str-522-04.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 16.12.2004 - 1 StR 420/03](1-str-420-03.md) — Veröffentlichung: ja ________________________ AktG § 400 Abs. 1 Nr. 1 Quartalsberichte über Umsätze und Erträge (§§ 53, 54 BörsZulV) geben die Verhältnisse der Aktiengesellschaft …
+- [BGH, Urteil vom 07.12.2004 - 1 StR 395/04](1-str-395-04.md) — Betruges
+- [BGH, Beschluss vom 07.12.2004 - 1 StR 487/04](1-str-487-04.md) — versuchter Beteiligung am Totschlag u.a.
+- [BGH, Urteil vom 23.11.2004 - 1 StR 331/04](1-str-331-04.md) — Mordes
+- [BGH, Beschluss vom 23.11.2004 - 1 StR 449/04](1-str-449-04.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 18.11.2004 - 1 StR 457/04](1-str-457-04.md) — versuchter Anstiftung zum Mord
+- [BGH, Beschluss vom 09.11.2004 - 1 StR 442/04](1-str-442-04.md) — sexueller Nötigung
 - [BGH, Urteil vom 22.10.2004 - 1 StR 248/04](1-str-248-04.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 21.10.2004 - 1 StR 324/04](1-str-324-04.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 19.10.2004 - 1 StR 254/04](1-str-254-04.md) — schwerer Körperverletzung
+- [BGH, Urteil vom 06.10.2004 - 1 StR 286/04](1-str-286-04.md) — Mordes
+- [BGH, Beschluss vom 05.10.2004 - 1 StR 284/04](1-str-284-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 29.09.2004 - 1 StR 565/03](1-str-565-03.md) — Untreue u.a.
+- [BGH, Beschluss vom 14.09.2004 - 1 StR 44/04](1-str-44-04.md) — schweren Raubes u.a.
 - [BGH, Urteil vom 31.08.2004 - 1 StR 213/04](1-str-213-04.md) — schweren Raubes
 - [BGH, Beschluss vom 31.08.2004 - 1 StR 265/04](1-str-265-04.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 31.08.2004 - 1 StR 347/04](1-str-347-04.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 17.08.2004 - 1 StR 315/04](1-str-315-04.md) — unerlaubten bewaffneten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 08.07.2004 - 1 StR 273/04](1-str-273-04.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Urteil vom 07.07.2004 - 1 StR 115/04](1-str-115-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge unter Mitführung einer Schußwaffe u.a.
 - [BGH, Beschluss vom 07.07.2004 - 1 StR 241/04](1-str-241-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 30.06.2004 - 1 StR 525/03](1-str-525-03.md) — unerlaubten Umgangs mit gefährlichen Abfällen
+- [BGH, Beschluss vom 30.06.2004 - 1 StR 526/03](1-str-526-03.md) — unerlaubten Umgangs mit gefährlichen Abfällen
+- [BGH, Beschluss vom 17.06.2004 - 1 StR 24/04](1-str-24-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 16.06.2004 - 1 StR 166/04](1-str-166-04.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 16.06.2004 - 1 StR 214/04](1-str-214-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 15.06.2004 - 1 StR 80/04](1-str-80-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 27.05.2004 - 1 StR 187/04](1-str-187-04.md) — Betruges
+- [BGH, Urteil vom 26.05.2004 - 1 StR 94/04](1-str-94-04.md) — bandenmäßiger Geldfälschung u.a.
+- [BGH, Urteil vom 26.05.2004 - 1 StR 98/04](1-str-98-04.md) — bandenmäßiger Geldfälschung u.a.
+- [BGH, Beschluss vom 11.05.2004 - 1 StR 181/04](1-str-181-04.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 05.05.2004 - 1 StR 135/04](1-str-135-04.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 04.05.2004 - 1 StR 391/03](1-str-391-03.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Urteil vom 21.04.2004 - 1 StR 522/03](1-str-522-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 20.04.2004 - 1 StR 123/04](1-str-123-04.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 01.04.2004 - 1 StR 101/04](1-str-101-04.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 31.03.2004 - 1 StR 2/04](1-str-2-04.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 30.03.2004 - 1 StR 1/04](1-str-1-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 17.03.2004 - 1 StR 572/03](1-str-572-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Urteil vom 16.03.2004 - 1 StR 443/03](1-str-443-03.md) — Hehlerei
+- [BGH, Urteil vom 16.03.2004 - 1 StR 543/03](1-str-543-03.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 18.02.2004 - 1 StR 296/03](1-str-296-03.md) — Verstoßes gegen das Außenwirtschaftsgesetz
 - [BGH, Beschluss vom 17.02.2004 - 1 StR 33/04](1-str-33-04.md) — unerlaubter Ausübung der tatsächlichen Gewalt über eine vollautomatische Selbstladewaffe u.a.
 - [BGH, Urteil vom 17.02.2004 - 1 StR 369/03](1-str-369-03.md) — räuberischer Erpressung
-- [BGH, Urteil vom 17.02.2004 - 1 StR 437/03](1-str-437-03.md) — BGH, Urteil vom 17.02.2004 - 1 StR 437/03
+- [BGH, Urteil vom 17.02.2004 - 1 StR 437/03](1-str-437-03.md) — Gründe:
+- [BGH, Entscheidung vom 04.02.2004 - 1 StR 545/03](1-str-545-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 03.02.2004 - 1 StR 524/03](1-str-524-03.md) — Beihilfe zur unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.01.2004 - 1 StR 561/03](1-str-561-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 21.01.2004 - 1 StR 346/03](1-str-346-03.md) — Veröffentlichung StGB § 20, § 21 Zur Beurteilung des Schweregrads einer anderen seelischen Abartigkeit (hier „dissoziale und schizoide Persönlichkeitsstörung“) und der …
+- [BGH, Urteil vom 20.01.2004 - 1 StR 319/03](1-str-319-03.md) — vorsätzlicher Körperverletzung u.a.

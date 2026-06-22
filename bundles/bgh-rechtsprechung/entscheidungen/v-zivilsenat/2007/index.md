@@ -1,35 +1,55 @@
 # V. Zivilsenat – 2007
 
-33 Entscheidung(en).
+53 Entscheidung(en).
 
 - [BGH, Beschluss vom 13.12.2007 - V ZR 24/07](v-zr-24-07.md) — er auch einen Verkauf für 25.000 € erreicht haben soll.
 - [BGH, Urteil vom 07.12.2007 - V ZR 21/07](v-zr-21-07.md) — BGH, Urteil vom 07.12.2007 - V ZR 21/07
 - [BGH, Urteil vom 07.12.2007 - V ZR 210/06](v-zr-210-06.md) — BGH, Urteil vom 07.12.2007 - V ZR 210/06
 - [BGH, Beschluss vom 06.12.2007 - V ZB 67/07](v-zb-67-07.md) — Suizidgefährdung der
-- [BGH, Beschluss vom 05.12.2007 - V ZB 70/07](v-zb-70-07.md) — BGH, Beschluss vom 05.12.2007 - V ZB 70/07
+- [BGH, Beschluss vom 05.12.2007 - V ZB 70/07](v-zb-70-07.md) — I. 1 Der Kläger verlangt von der Beklagten die Erstattung von Kosten, die seinem Vater durch die Verlegung eines Schmutzwasserkanals entstanden sind. Er stützt den Anspruch auf …
+- [BGH, Beschluss vom 04.12.2007 - V ZR 180/07](v-zr-180-07.md) — Als Rechtsmittel gegen die angefochtene Entscheidung des Oberlandes- gerichts Koblenz kommt allein die Nichtzulassungsbeschwerde in Betracht.
 - [BGH, Urteil vom 30.11.2007 - V ZR 284/06](v-zr-284-06.md) — Tatbestand:
 - [BGH, Urteil vom 30.11.2007 - V ZR 288/03](v-zr-288-03.md) — Tatbestand:
 - [BGH, Beschluss vom 29.11.2007 - V ZR 69/07](v-zr-69-07.md) — BGH, Beschluss vom 29.11.2007 - V ZR 69/07
 - [BGH, Urteil vom 26.10.2007 - V ZR 26/07](v-zr-26-07.md) — Tatbestand
+- [BGH, Beschluss vom 26.10.2007 - V ZR 42/07](v-zr-42-07.md) — BGH, Beschluss vom 26.10.2007 - V ZR 42/07
+- [BGH, Beschluss vom 18.10.2007 - V ZB 141/06](v-zb-141-06.md) — bestimmten zweiten Termin am 11. Oktober
 - [BGH, Beschluss vom 18.10.2007 - V ZB 44/07](v-zb-44-07.md) — Irrtums über eine verkehrswesentliche Eigenschaft nach § 119 Abs. 2 BGB anfechten kann, sofern das Fehlen der Eigenschaft einen Sachmangel b
 - [BGH, Beschluss vom 18.10.2007 - V ZB 52/07](v-zb-52-07.md) — BGH, Beschluss vom 18.10.2007 - V ZB 52/07
-- [BGH, Beschluss vom 11.10.2007 - V ZB 178/06](v-zb-178-06.md) — BGH, Beschluss vom 11.10.2007 - V ZB 178/06
+- [BGH, Beschluss vom 11.10.2007 - V ZA 9/07](v-za-9-07.md) — BGH, Beschluss vom 11.10.2007 - V ZA 9/07
+- [BGH, Beschluss vom 11.10.2007 - V ZB 178/06](v-zb-178-06.md) — I. 1 Die Beteiligten zu 2 bis 4 betreiben die Zwangsvollstreckung in das im Eingang des Beschlusses bezeichnete Grundstück des Schuldners. Das Voll- streckungsgericht hat den …
 - [BGH, Urteil vom 28.09.2007 - V ZR 139/06](v-zr-139-06.md) — Tatbestand:
 - [BGH, Beschluss vom 27.09.2007 - V ZB 56/07](v-zb-56-07.md) — BGH, Beschluss vom 27.09.2007 - V ZB 56/07
 - [BGH, Beschluss vom 27.09.2007 - V ZB 60/07](v-zb-60-07.md) — BGH, Beschluss vom 27.09.2007 - V ZB 60/07
-- [BGH, Beschluss vom 19.07.2007 - V ZB 15/07](v-zb-15-07.md) — BGH, Beschluss vom 19.07.2007 - V ZB 15/07
+- [BGH, Beschluss vom 27.09.2007 - V ZR 9/07](v-zr-9-07.md) — I. 1 Die Beklagte ist Eigentümerin eines Hausgrundstücks, das sie von ihrem in Finanznot geratenen Bruder, dem Kläger, aufgrund notariellen Vertrages vom 20. August 2002 erworben …
+- [BGH, Beschluss vom 19.07.2007 - V ZB 15/07](v-zb-15-07.md) — bestimmten zweiten Versteigerungstermin wur-
+- [BGH, Beschluss vom 19.07.2007 - V ZR 240/06](v-zr-240-06.md) — BGH, Beschluss vom 19.07.2007 - V ZR 240/06
+- [BGH, Urteil vom 13.07.2007 - V ZR 189/06](v-zr-189-06.md) — Tatbestand:
+- [BGH, Beschluss vom 12.07.2007 - V ZB 166/05](v-zb-166-05.md) — BGH, Beschluss vom 12.07.2007 - V ZB 166/05
+- [BGH, Beschluss vom 05.07.2007 - V ZB 48/06](v-zb-48-06.md) — rückständiger Grund-
 - [BGH, Urteil vom 22.06.2007 - V ZR 260/06](v-zr-260-06.md) — Tatbestand:
 - [BGH, Urteil vom 22.06.2007 - V ZR 269/06](v-zr-269-06.md) — Tatbestand:
-- [BGH, Beschluss vom 14.06.2007 - V ZB 18/07](v-zb-18-07.md) — BGH, Beschluss vom 14.06.2007 - V ZB 18/07
-- [BGH, Beschluss vom 14.06.2007 - V ZB 28/07](v-zb-28-07.md) — BGH, Beschluss vom 14.06.2007 - V ZB 28/07
+- [BGH, Beschluss vom 14.06.2007 - V ZB 102/06](v-zb-102-06.md) — I. 1 Die Beteiligten sind getrennt lebende Eheleute und zu gleichen Teilen Mit- eigentümer des im Rubrum bezeichneten Grundstücks. Der Miteigentumsanteil stellt das gesamte …
+- [BGH, Beschluss vom 14.06.2007 - V ZB 18/07](v-zb-18-07.md) — I. 1 Der Antragsteller ist Eigentümer des in dem Eingang dieses Beschlusses bezeichneten Wohnungseigentums. In einem notariell beglaubigten Schriftstück vom 20. Juni 2005 erklärte …
+- [BGH, Beschluss vom 14.06.2007 - V ZB 28/07](v-zb-28-07.md) — Die Beteiligte zu 1 betreibt die Zwangsvollstreckung aus einer für sie an dem Grundstück des Schuldners eingetragenen Grundschuld.
 - [BGH, Beschluss vom 14.06.2007 - V ZB 42/07](v-zb-42-07.md) — BGH, Beschluss vom 14.06.2007 - V ZB 42/07
+- [BGH, Beschluss vom 14.06.2007 - V ZR 150/06](v-zr-150-06.md) — BGH, Beschluss vom 14.06.2007 - V ZR 150/06
 - [BGH, Beschluss vom 14.06.2007 - V ZR 258/06](v-zr-258-06.md) — des Zahlungsanspruchs an das Landgericht zurückverwiesen hat (BGH, Beschl. v. 23. März 1970, VII ZR 137/68, NJW 1970, 1083; Beschl. v. 3. Ju
+- [BGH, Beschluss vom 14.06.2007 - V ZR 268/06](v-zr-268-06.md) — BGH, Beschluss vom 14.06.2007 - V ZR 268/06
+- [BGH, Beschluss vom 27.05.2007 - V ZR 17/06](v-zr-17-06.md) — BGH, Beschluss vom 27.05.2007 - V ZR 17/06
 - [BGH, Beschluss vom 24.05.2007 - V ZR 237/06](v-zr-237-06.md) — BGH, Beschluss vom 24.05.2007 - V ZR 237/06
 - [BGH, Beschluss vom 24.05.2007 - V ZR 250/06](v-zr-250-06.md) — BGH, Beschluss vom 24.05.2007 - V ZR 250/06
-- [BGH, Beschluss vom 24.05.2007 - V ZR 251/06](v-zr-251-06.md) — BGH, Beschluss vom 24.05.2007 - V ZR 251/06
+- [BGH, Beschluss vom 24.05.2007 - V ZR 251/06](v-zr-251-06.md) — I. 1 Die Nichtzulassungsbeschwerde ist unzulässig, weil sie nicht in einer den Anforderungen des § 544 Abs. 2 Satz 3 ZPO genügenden Weise begrün- det worden ist. 2 1. Die genannte …
+- [BGH, Beschluss vom 10.05.2007 - V ZB 83/06](v-zb-83-06.md) — Nichterreichens der 5/10-
+- [BGH, Beschluss vom 10.05.2007 - V ZB 90/06](v-zb-90-06.md) — Nichterreichens der 5/10-
+- [BGH, Beschluss vom 29.03.2007 - V ZR 253/06](v-zr-253-06.md) — Vollstreckungsschutz über den Ausspruch der Ab-
+- [BGH, Beschluss vom 22.03.2007 - V ZB 152/06](v-zb-152-06.md) — I. 1 Die Beteiligten sind zu je ½ Anteil Eigentümer des im Rubrum bezeichne- ten Grundstücks, auf dem sich ein Wohnhaus befindet. Darin wohnten sie bis zu ihrer Trennung mit ihren …
+- [BGH, Beschluss vom 15.03.2007 - V ZB 145/06](v-zb-145-06.md) — I. 1 Die Antragsteller sind in ungeteilter Erbengemeinschaft Miteigentümer ei- nes Grundstücks. Mitglied der Erbengemeinschaft war bis zu ihrem Tod auch P. S. . Sie wurde von dem …
+- [BGH, Beschluss vom 15.03.2007 - V ZB 170/06](v-zb-170-06.md) — Zahlungsverzuges erhob der Kläger gegen den Beklagten
 - [BGH, Beschluss vom 15.03.2007 - V ZB 95/06](v-zb-95-06.md) — BGH, Beschluss vom 15.03.2007 - V ZB 95/06
 - [BGH, Urteil vom 09.03.2007 - V ZR 116/06](v-zr-116-06.md) — Tatbestand
 - [BGH, Beschluss vom 28.02.2007 - V ZB 154/06](v-zb-154-06.md) — BGH, Beschluss vom 28.02.2007 - V ZB 154/06
+- [BGH, Urteil vom 02.02.2007 - V ZR 34/06](v-zr-34-06.md) — Tatbestand:
 - [BGH, Beschluss vom 01.02.2007 - V ZR 200/06](v-zr-200-06.md) — BGH, Beschluss vom 01.02.2007 - V ZR 200/06
 - [BGH, Versäumnisurteil vom 26.01.2007 - V ZR 137/06](v-zr-137-06.md) — BGH, Versäumnisurteil vom 26.01.2007 - V ZR 137/06
 - [BGH, Urteil vom 19.01.2007 - V ZR 163/06](v-zr-163-06.md) — eines medizinisch notwendigen Aufenthalts in einem Pflegeheim nicht ausüben, kommt die Begründung einer Zahlungspflicht des Verpflichteten i

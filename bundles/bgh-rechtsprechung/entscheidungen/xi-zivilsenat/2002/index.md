@@ -1,22 +1,31 @@
 # XI. Zivilsenat – 2002
 
-40 Entscheidung(en).
+50 Entscheidung(en).
 
 - [BGH, Urteil vom 17.12.2002 - XI ZR 90/02](xi-zr-90-02.md) — Tatbestand:
 - [BGH, Beschluss vom 10.12.2002 - XI ZR 115/02](xi-zr-115-02.md) — Einstellung des Gewerbebetriebes seitens des Beklagten zur fristlosen Kündigung der ausgereichten Kredite berechtigt ist oder der Erwerb ein
 - [BGH, Beschluss vom 10.12.2002 - XI ZR 162/02](xi-zr-162-02.md) — BGH, Beschluss vom 10.12.2002 - XI ZR 162/02
+- [BGH, Beschluss vom 03.12.2002 - XI ZR 144/02](xi-zr-144-02.md) — Die Klägerin hat die Voraussetzungen der von ihr geltend gemachten Revisionszulassungsgründe der grundsätzlichen Bedeutung der Rechtssache (§ 543 Abs.
+- [BGH, Beschluss vom 03.12.2002 - XI ZR 240/02](xi-zr-240-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
+- [BGH, Beschluss vom 03.12.2002 - XI ZR 274/02](xi-zr-274-02.md) — Die Voraussetzungen für die Zulassung der Revision (§ 543 Abs.
+- [BGH, Beschluss vom 03.12.2002 - XI ZR 56/02](xi-zr-56-02.md) — offenbarer Unrichtigkeit durch das Wort "Revisionsverfahrens" ersetzt (§ 319 Abs. 1 ZPO).
 - [BGH, Urteil vom 26.11.2002 - XI ZR 10/00](xi-zr-10-00.md) — Tatbestand:
 - [BGH, Beschluss vom 26.11.2002 - XI ZR 86/02](xi-zr-86-02.md) — BGH, Beschluss vom 26.11.2002 - XI ZR 86/02
+- [BGH, Urteil vom 05.11.2002 - XI ZR 381/01](xi-zr-381-01.md) — 3-
+- [BGH, Beschluss vom 05.11.2002 - XI ZR 91/02](xi-zr-91-02.md) — Die Rechtssache hat entgegen der Ansicht der Beschwerdeführerin weder grundsätzliche Bedeutung, noch ist eine Entscheidung des Revisionsgerichts zur Sicherung einer einheitlichen …
 - [BGH, Urteil vom 22.10.2002 - XI ZR 393/01](xi-zr-393-01.md) — BGH, Urteil vom 22.10.2002 - XI ZR 393/01
 - [BGH, Urteil vom 22.10.2002 - XI ZR 394/01](xi-zr-394-01.md) — BGH, Urteil vom 22.10.2002 - XI ZR 394/01
 - [BGH, Urteil vom 10.09.2002 - XI ZR 151/99](xi-zr-151-99.md) — Tatbestand:
 - [BGH, Urteil vom 10.09.2002 - XI ZR 305/01](xi-zr-305-01.md) — Tatbestand:
-- [BGH, Beschluss vom 10.09.2002 - XI ZR 321/98](xi-zr-321-98.md) — BGH, Beschluss vom 10.09.2002 - XI ZR 321/98
+- [BGH, Beschluss vom 10.09.2002 - XI ZR 321/98](xi-zr-321-98.md) — Der als Erinnerung nach § 5 GKG auszulegende Antrag auf Erlaß eines "Gebührenrückfestsetzungsbeschlusses" ist unbegründet.
 - [BGH, Urteil vom 09.07.2002 - XI ZR 323/01](xi-zr-323-01.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2002 - XI ZR 363/01](xi-zr-363-01.md) — Tatbestand:
 - [BGH, Beschluss vom 09.07.2002 - XI ZR 378/01](xi-zr-378-01.md) — BGH, Beschluss vom 09.07.2002 - XI ZR 378/01
 - [BGH, Urteil vom 18.06.2002 - XI ZR 160/01](xi-zr-160-01.md) — Tatbestand:
 - [BGH, Urteil vom 18.06.2002 - XI ZR 359/01](xi-zr-359-01.md) — (teilweiser) Nichterfüllung resultieren. Sie dient aber nicht darüber hinaus zur Absicherung von erwarteten Steuervorteilen und Nutzungen.
+- [BGH, Urteil vom 04.06.2002 - XI ZR 301/01](xi-zr-301-01.md) — Tatbestand:
+- [BGH, Urteil vom 04.06.2002 - XI ZR 361/01](xi-zr-361-01.md) — Tatbestand:
+- [BGH, Beschluss vom 04.06.2002 - XI ZR 379/00](xi-zr-379-00.md) — Die Gegenvorstellung gibt zu einer Herabsetzung des Revisionsstreitwerts keinen Anlaß.
 - [BGH, Urteil vom 28.05.2002 - XI ZR 150/01](xi-zr-150-01.md) — unzureichender Aufklärung über die Risiken von Warentermin- oder Optionsgeschäften verlangt, beginnt die Verjährungsfrist nicht, bevor der G
 - [BGH, Urteil vom 28.05.2002 - XI ZR 199/01](xi-zr-199-01.md) — Tatbestand:
 - [BGH, Urteil vom 28.05.2002 - XI ZR 205/01](xi-zr-205-01.md) — BGH, Urteil vom 28.05.2002 - XI ZR 205/01
@@ -31,12 +40,13 @@
 - [BGH, Beschluss vom 14.05.2002 - XI ZR 53/02](xi-zr-53-02.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung haben sie im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen die Aug
 - [BGH, Beschluss vom 14.05.2002 - XI ZR 70/02](xi-zr-70-02.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat er im wesentlichen geltend gemacht: Die abgelehnten
 - [BGH, Urteil vom 14.05.2002 - XI ZR 81/01](xi-zr-81-01.md) — BGH, Urteil vom 14.05.2002 - XI ZR 81/01
+- [BGH, Urteil vom 23.04.2002 - XI ZR 136/01](xi-zr-136-01.md) — zu ermitteln. Diese Ermittlungspflicht umfaßt auch die ausländische Rechtspraxis, wie sie in der Rechtsprechung der Gerichte des betreffende
 - [BGH, Urteil vom 09.04.2002 - XI ZR 245/01](xi-zr-245-01.md) — Tatbestand:
-- [BGH, Urteil vom 09.04.2002 - XI ZR 32/99](xi-zr-32-99.md) — BGH, Urteil vom 09.04.2002 - XI ZR 32/99
+- [BGH, Urteil vom 09.04.2002 - XI ZR 32/99](xi-zr-32-99.md) — 3-
 - [BGH, Urteil vom 12.03.2002 - XI ZR 258/01](xi-zr-258-01.md) — Tatbestand:
 - [BGH, Beschluss vom 12.03.2002 - XI ZR 285/01](xi-zr-285-01.md) — BGH, Beschluss vom 12.03.2002 - XI ZR 285/01
 - [BGH, Urteil vom 26.02.2002 - XI ZR 226/01](xi-zr-226-01.md) — Tatbestand:
-- [BGH, Beschluss vom 26.02.2002 - XI ZR 326/01](xi-zr-326-01.md) — BGH, Beschluss vom 26.02.2002 - XI ZR 326/01
+- [BGH, Beschluss vom 26.02.2002 - XI ZR 326/01](xi-zr-326-01.md) — I. Das Berufungsgericht hat die in der Hauptsache auf Zahlung von 12.264,92 DM gerichtete Klage abgewiesen und festgestellt, die Beschwer der Klägerin übersteige 60.000 DM nicht …
 - [BGH, Versäumnisurteil vom 26.02.2002 - XI ZR 60/01](xi-zr-60-01.md) — Tatbestand:
 - [BGH, Urteil vom 29.01.2002 - XI ZR 112/01](xi-zr-112-01.md) — Tatbestand:
 - [BGH, Teilurteil vom 29.01.2002 - XI ZR 86/01](xi-zr-86-01.md) — unzureichender Aufklärung über die Risiken von Warentermin- oder Optionsgeschäften verlangt, beginnt die Verjährungsfrist nicht, bevor der G

@@ -1,25 +1,50 @@
 # IX. Zivilsenat – 2001
 
-21 Entscheidung(en).
+46 Entscheidung(en).
 
 - [BGH, Beschluss vom 13.12.2001 - IX ZR 231/00](ix-zr-231-00.md) — BGH, Beschluss vom 13.12.2001 - IX ZR 231/00
 - [BGH, Beschluss vom 13.12.2001 - IX ZR 285/00](ix-zr-285-00.md) — BGH, Beschluss vom 13.12.2001 - IX ZR 285/00
 - [BGH, Urteil vom 13.12.2001 - IX ZR 306/00](ix-zr-306-00.md) — BGH, Urteil vom 13.12.2001 - IX ZR 306/00
+- [BGH, Beschluss vom 08.11.2001 - IX ZB 44/01](ix-zb-44-01.md) — I. Das Landgericht, bei dem zwischen den Beteiligten ein Rechtsstreit um die Bewilligung und Eintragung eines Wegerechtes in der Berufungsinstanz anhängig war, erließ nach …
+- [BGH, Beschluss vom 08.11.2001 - IX ZR 110/00](ix-zr-110-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b ZPO).
+- [BGH, Beschluss vom 08.11.2001 - IX ZR 364/00](ix-zr-364-00.md) — eines Teils des Anspruchs beantragt wird (BGH, Beschl. v. 2. Februar 1962 - V ZR 70/60, NJW 1962, 806; v. 23. September 1987 - III ZR 96/87,
+- [BGH, Urteil vom 08.11.2001 - IX ZR 398/99](ix-zr-398-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2001 - IX ZR 64/01](ix-zr-64-01.md) — unfallbedingt vermehrter Bedürfnisse sind dem Anspruch des Empfängers auf Ersatz seines Erwerbsschadens nicht kongruent (im Anschluß an BGH
+- [BGH, Beschluss vom 09.08.2001 - IX ZR 62/00](ix-zr-62-00.md) — BGH, Beschluss vom 09.08.2001 - IX ZR 62/00
+- [BGH, Beschluss vom 19.07.2001 - IX ZB 19/01](ix-zb-19-01.md) — Gemäß § 2 Abs. 5 des Ausführungsgesetzes zum deutsch-österreichischen Anerkennungs- und Vollstreckungsvertrag vom 6. Juni 1959 i.V.m. § 1065 Abs. 2 Satz 2, §§ 554 Abs. 1, 554 a …
+- [BGH, Urteil vom 19.07.2001 - IX ZR 149/00](ix-zr-149-00.md) — Tatbestand:
+- [BGH, Beschluss vom 19.07.2001 - IX ZR 179/00](ix-zr-179-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO).
+- [BGH, Urteil vom 19.07.2001 - IX ZR 246/00](ix-zr-246-00.md) — Tatbestand: Die Klägerin nimmt den Beklagten wegen der Verletzung von Pflichten aus einem Steuerberatermandat auf Schadensersatz in Anspruch
+- [BGH, Beschluss vom 19.07.2001 - IX ZR 25/99](ix-zr-25-99.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 19.07.2001 - IX ZR 31/99](ix-zr-31-99.md) — Die Sache wirft ungeklärte Rechtsfragen von grundsätzlicher Bedeutung nicht auf, und das Berufungsgericht läßt Rechtsfehler zu Lasten des Klägers nicht erkennen (§ 554b ZPO).
+- [BGH, Beschluss vom 19.07.2001 - IX ZR 319/00](ix-zr-319-00.md) — Verletzung eines Vertrages mit Schutzwirkung für Dritte scheiden aus den vom Berufungsgericht zutreffend bezeichneten Gründen aus. Die Vorsc
+- [BGH, Urteil vom 19.07.2001 - IX ZR 36/99](ix-zr-36-99.md) — Tatbestand:
+- [BGH, Beschluss vom 19.07.2001 - IX ZR 37/99](ix-zr-37-99.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Urteil vom 19.07.2001 - IX ZR 411/00](ix-zr-411-00.md) — Tatbestand:
+- [BGH, Beschluss vom 19.07.2001 - IX ZR 458/99](ix-zr-458-99.md) — der Verfügung über die Maschinen verneint hat, sind revisionsrechtlich nicht zu beanstanden. Die Verfahrensrügen wurden geprüft, jedoch nich
+- [BGH, Beschluss vom 19.07.2001 - IX ZR 46/01](ix-zr-46-01.md) — einer schuldhaften Verletzung des Anwaltsvertrages Schadensersatz. Er hat eine Leistungsklage über 279.433,38 DM erhoben, welche das Oberlan
+- [BGH, Beschluss vom 19.07.2001 - IX ZR 59/99](ix-zr-59-99.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Fragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
 - [BGH, Beschluss vom 12.07.2001 - IX ZR 50/99](ix-zr-50-99.md) — BGH, Beschluss vom 12.07.2001 - IX ZR 50/99
 - [BGH, Urteil vom 21.06.2001 - IX ZR 69/00](ix-zr-69-00.md) — der bisherigen Gestaltung des Rechtsverhältnisses nicht mit einer - in der früheren Bürgschaftsurkunde nicht enthaltenen - Haftungsausschluß
-- [BGH, Urteil vom 05.04.2001 - IX ZR 216/98](ix-zr-216-98.md) — BGH, Urteil vom 05.04.2001 - IX ZR 216/98
-- [BGH, Beschluss vom 05.04.2001 - IX ZR 27/01](ix-zr-27-01.md) — BGH, Beschluss vom 05.04.2001 - IX ZR 27/01
+- [BGH, Beschluss vom 08.05.2001 - IX ZB 21/01](ix-zb-21-01.md) — Das Brandenburgische Oberlandesgericht hat die Sache zur Entscheidung über die zugelassene weitere Beschwerde eines vorläufigen Insolvenzverwalters in einem Vergütungsverfahren …
+- [BGH, Beschluss vom 08.05.2001 - IX ZR 315/00](ix-zr-315-00.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554 b ZPO).
+- [BGH, Urteil vom 08.05.2001 - IX ZR 9/99](ix-zr-9-99.md) — Tatbestand:
+- [BGH, Urteil vom 05.04.2001 - IX ZR 216/98](ix-zr-216-98.md) — eines über 58.562,26 DM nebst Zinsen hinausgehenden Betrages abgewiesen worden ist.
+- [BGH, Beschluss vom 05.04.2001 - IX ZR 27/01](ix-zr-27-01.md) — Das Berufungsgericht hat den verklagten Notar - im Wege des Schadensersatzes für eine der Klägerin entgangene lebenslange Leibrente - verurteilt, an die Klägerin 2.000 DM nebst …
 - [BGH, Urteil vom 05.04.2001 - IX ZR 276/98](ix-zr-276-98.md) — des verbürgten Anspruchs aufschiebt, so daß bis dahin die Zahlungen nur als Sicherheit gelten, ist auch dann wirksam, wenn der - allein verb
 - [BGH, Urteil vom 05.04.2001 - IX ZR 309/00](ix-zr-309-00.md) — prüfen.
+- [BGH, Beschluss vom 05.04.2001 - IX ZR 336/98](ix-zr-336-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet im Endergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
 - [BGH, Urteil vom 05.04.2001 - IX ZR 441/99](ix-zr-441-99.md) — Tatbestand
 - [BGH, Beschluss vom 29.03.2001 - IX ZA 26/00](ix-za-26-00.md) — BGH, Beschluss vom 29.03.2001 - IX ZA 26/00
 - [BGH, Urteil vom 29.03.2001 - IX ZR 20/00](ix-zr-20-00.md) — Tatbestand:
 - [BGH, Beschluss vom 29.03.2001 - IX ZR 256/00](ix-zr-256-00.md) — BGH, Beschluss vom 29.03.2001 - IX ZR 256/00
 - [BGH, Urteil vom 29.03.2001 - IX ZR 34/00](ix-zr-34-00.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 22.03.2001 - IX ZR 373/98](ix-zr-373-98.md) — übertragbar und werden für die Übertragung üblicherweise Geldbeträge bezahlt, so ist es grundsätzlich pfändbar und unterliegt dem Konkursbes
+- [BGH, Urteil vom 22.03.2001 - IX ZR 407/98](ix-zr-407-98.md) — einer Forderung in Höhe von 548.496,32 DM abgewiesen worden ist.
 - [BGH, Beschluss vom 15.03.2001 - IX ZR 57/00](ix-zr-57-00.md) — BGH, Beschluss vom 15.03.2001 - IX ZR 57/00
 - [BGH, Urteil vom 22.02.2001 - IX ZR 191/98](ix-zr-191-98.md) — Tatbestand:
-- [BGH, Urteil vom 22.02.2001 - IX ZR 293/99](ix-zr-293-99.md) — BGH, Urteil vom 22.02.2001 - IX ZR 293/99
+- [BGH, Urteil vom 22.02.2001 - IX ZR 293/99](ix-zr-293-99.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2001 - IX ZR 357/99](ix-zr-357-99.md) — Tatbestand
-- [BGH, Beschluss vom 22.02.2001 - IX ZR 407/98](ix-zr-407-98.md) — BGH, Beschluss vom 22.02.2001 - IX ZR 407/98
 - [BGH, Beschluss vom 08.02.2001 - IX ZR 376/98](ix-zr-376-98.md) — BGH, Beschluss vom 08.02.2001 - IX ZR 376/98
 - [BGH, Urteil vom 08.02.2001 - IX ZR 394/99](ix-zr-394-99.md) — BGH, Urteil vom 08.02.2001 - IX ZR 394/99
+- [BGH, Urteil vom 18.01.2001 - IX ZR 223/99](ix-zr-223-99.md) — Tatbestand:

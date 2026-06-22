@@ -1,6 +1,6 @@
 # 1. Strafsenat
 
-Revisionen und Beschlüsse in Strafsachen (Zuständigkeit überwiegend nach Land- und OLG-Bezirken). 2460 Entscheidung(en).
+Revisionen und Beschlüsse in Strafsachen (Zuständigkeit überwiegend nach Land- und OLG-Bezirken). 2819 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -21,13 +21,13 @@ Revisionen und Beschlüsse in Strafsachen (Zuständigkeit überwiegend nach Land
 - [2012](2012/index.md) (97)
 - [2011](2011/index.md) (92)
 - [2010](2010/index.md) (74)
-- [2009](2009/index.md) (42)
-- [2008](2008/index.md) (21)
-- [2007](2007/index.md) (26)
-- [2006](2006/index.md) (34)
-- [2005](2005/index.md) (27)
-- [2004](2004/index.md) (17)
-- [2003](2003/index.md) (32)
-- [2002](2002/index.md) (21)
-- [2001](2001/index.md) (40)
-- [2000](2000/index.md) (67)
+- [2009](2009/index.md) (77)
+- [2008](2008/index.md) (57)
+- [2007](2007/index.md) (67)
+- [2006](2006/index.md) (74)
+- [2005](2005/index.md) (52)
+- [2004](2004/index.md) (51)
+- [2003](2003/index.md) (67)
+- [2002](2002/index.md) (47)
+- [2001](2001/index.md) (92)
+- [2000](2000/index.md) (102)

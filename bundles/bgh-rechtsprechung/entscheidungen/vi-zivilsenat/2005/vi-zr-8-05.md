@@ -9,7 +9,7 @@ datum: 2005-11-15
 aktenzeichen: "VI ZR 8/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:20:54Z
+timestamp: 2026-06-22T14:12:58Z
 ---
 # Volltext
 

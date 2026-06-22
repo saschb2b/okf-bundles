@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu COVInsAG"
 description: "BGH-Entscheidungen zu COVInsAG, geordnet nach Vorschrift."
 tags: [register, navigation, covinsag]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

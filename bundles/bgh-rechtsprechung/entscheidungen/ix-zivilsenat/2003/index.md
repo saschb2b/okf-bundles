@@ -1,30 +1,69 @@
 # IX. Zivilsenat – 2003
 
-33 Entscheidung(en).
+73 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2003 - IX ZB 60/03](ix-zb-60-03.md) — BGH, Beschluss vom 18.12.2003 - IX ZB 60/03
-- [BGH, Beschluss vom 18.12.2003 - IX ZR 267/00](ix-zr-267-00.md) — BGH, Beschluss vom 18.12.2003 - IX ZR 267/00
+- [BGH, Beschluss vom 18.12.2003 - IX ZR 267/00](ix-zr-267-00.md) — Die Sache wirft keine Rechtsfrage von grundsätzlicher Bedeutung auf und ist vom Berufungsgericht im Ergebnis richtig entschieden worden (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 18.12.2003 - IX ZR 45/03](ix-zr-45-03.md) — BGH, Beschluss vom 18.12.2003 - IX ZR 45/03
+- [BGH, Beschluss vom 27.11.2003 - IX ZB 418/02](ix-zb-418-02.md) — I. Zur Beantwortung der vorstehenden Vorlagefrage, von der die Entscheidung des Rechtsstreits abhängt, ist Art. 3 EuInsVO auszulegen. Die Verordnung ist auf Art. 61c und Art. 67 …
+- [BGH, Beschluss vom 27.11.2003 - IX ZR 464/00](ix-zr-464-00.md) — Die Sache wirft keine Rechtsfrage von grundsätzlicher Bedeutung auf und ist vom Berufungsgericht richtig entschieden worden (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 27.11.2003 - IX ZR 92/02](ix-zr-92-02.md) — BGH, Beschluss vom 27.11.2003 - IX ZR 92/02
+- [BGH, Beschluss vom 20.11.2003 - IX ZB 469/02](ix-zb-469-02.md) — des Umfangs seiner Tätigkeit mit dem sechsfachen Satz multiplizierte und sodann die so errechnete Vergütung von 64.200 DM um die gesetzliche
+- [BGH, Beschluss vom 20.11.2003 - IX ZB 567/02](ix-zb-567-02.md) — I. Mit Schriftsatz vom 15. März 2002 überreichte der Konkursverwalter seinen Schlußbericht vom 12. März 2002 und beantragte Festsetzung seiner Ver- !© #" &$ ( % '¨)10 4 2 …
+- [BGH, Beschluss vom 20.11.2003 - IX ZR 145/03](ix-zr-145-03.md) — Der Antrag wird abgelehnt, weil die erhobene Beschwerde keine hinreichende Aussicht auf Erfolg bietet (§ 114 ZPO).
 - [BGH, Beschluss vom 20.11.2003 - IX ZR 25/02](ix-zr-25-02.md) — BGH, Beschluss vom 20.11.2003 - IX ZR 25/02
-- [BGH, Beschluss vom 23.10.2003 - IX ZB 159/03](ix-zb-159-03.md) — BGH, Beschluss vom 23.10.2003 - IX ZB 159/03
+- [BGH, Urteil vom 20.11.2003 - IX ZR 259/02](ix-zr-259-02.md) — Tatbestand:
+- [BGH, Beschluss vom 20.11.2003 - IX ZR 265/00](ix-zr-265-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 20.11.2003 - IX ZR 339/01](ix-zr-339-01.md) — Die Sache hat keine grundsätzliche Bedeutung, weil die aufgeworfenen Rechtsfragen nur auslaufendes Recht betreffen.
+- [BGH, Beschluss vom 23.10.2003 - IX ZB 369/02](ix-zb-369-02.md) — einer Forderung von 8.198,43 DM. Der vom Gericht bestellte vorläufige Insolvenzverwalter legte am 8. Februar 2002 ein Gutachten vor. Mit Bes
 - [BGH, Beschluss vom 23.10.2003 - IX ZB 474/02](ix-zb-474-02.md) — BGH, Beschluss vom 23.10.2003 - IX ZB 474/02
+- [BGH, Urteil vom 23.10.2003 - IX ZR 165/02](ix-zr-165-02.md) — Tatbestand:
+- [BGH, Beschluss vom 23.10.2003 - IX ZR 174/02](ix-zr-174-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
+- [BGH, Urteil vom 23.10.2003 - IX ZR 249/02](ix-zr-249-02.md) — Tatbestand:
+- [BGH, Urteil vom 23.10.2003 - IX ZR 252/01](ix-zr-252-01.md) — 3-
+- [BGH, Urteil vom 23.10.2003 - IX ZR 270/02](ix-zr-270-02.md) — 3-
+- [BGH, Urteil vom 23.10.2003 - IX ZR 324/01](ix-zr-324-01.md) — der danach noch offen stehenden Umsatzsteuer erlassen und wenn die Vollstreckung gegen den wegen des Differenzbetrages verurteilten Käufer a
+- [BGH, Beschluss vom 16.10.2003 - IX ZB 133/03](ix-zb-133-03.md) — einer
 - [BGH, Beschluss vom 16.10.2003 - IX ZB 247/02](ix-zb-247-02.md) — BGH, Beschluss vom 16.10.2003 - IX ZB 247/02
+- [BGH, Beschluss vom 16.10.2003 - IX ZB 475/02](ix-zb-475-02.md) — I. Auf den Insolvenzeröffnungsantrag der Schuldnerin bestellte das Amtsgericht Pforzheim - Insolvenzgericht - mit Beschluß vom 8. November 2001 Rechtsanwalt Dr. G. zum vorläufigen …
+- [BGH, Beschluss vom 16.10.2003 - IX ZB 557/02](ix-zb-557-02.md) — Zahlungsunfähigkeit und Überschuldung eröffnet und den weiteren Beteiligten zu 3 zum Insolvenzverwalter bestellt. Die hiergegen gerichtete s
+- [BGH, Beschluss vom 16.10.2003 - IX ZB 61/03](ix-zb-61-03.md) — . Die beiden Rechtsfragen, die die Rechtsbeschwerde für grundsätzlich hält, hat der Senat bereits entschieden. a) Allein der Umstand, daß der Beschwerdeführer zum starken …
+- [BGH, Beschluss vom 09.10.2003 - IX ZA 8/03](ix-za-8-03.md) — Versäumung der Rechtsmittelfrist nur dann, wenn die Partei vernünftigerweise nicht damit rechnen mußte, ihr Antrag könne zurückgewiesen werd
 - [BGH, Beschluss vom 09.10.2003 - IX ZB 458/02](ix-zb-458-02.md) — BGH, Beschluss vom 09.10.2003 - IX ZB 458/02
+- [BGH, Beschluss vom 09.10.2003 - IX ZR 178/00](ix-zr-178-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung; das Berufungsurteil beruht auch nicht auf Rechtsirrtum (§ 554b ZPO a.F.).
+- [BGH, Urteil vom 09.10.2003 - IX ZR 28/03](ix-zr-28-03.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2003 - IX ZB 132/03](ix-zb-132-03.md) — Aussichtslosigkeit zurückzuweisen, weil sie erst nach Ablauf der Rechtsbeschwerdefrist gestellt worden sind. Im übrigen liegen auch die weit
+- [BGH, Beschluss vom 25.09.2003 - IX ZB 270/02](ix-zb-270-02.md) — I. Die Gläubigerin hat in einem kontradiktorischen Verfahren eine Ent- scheidung des Berufungsgerichts in L. vom 11. Juni 1999 erwirkt, demzufol- ge die " " mit dem Sitz "B straße …
+- [BGH, Beschluss vom 25.09.2003 - IX ZB 51/03](ix-zb-51-03.md) — statthafte Rechtsbeschwerde ist unzulässig, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung des Rechts noc
+- [BGH, Beschluss vom 18.09.2003 - IX ZB 40/03](ix-zb-40-03.md) — I. Der Kläger, ein Steuerberater, wurde mit einer Klage auf Zahlung offener Gebührenforderungen durch Urteil des Landgerichts vom 2. Juli 2002 abgewiesen. Ausweislich einer bei …
 - [BGH, Beschluss vom 18.09.2003 - IX ZB 75/03](ix-zb-75-03.md) — BGH, Beschluss vom 18.09.2003 - IX ZB 75/03
+- [BGH, Beschluss vom 11.09.2003 - IX ZB 37/03](ix-zb-37-03.md) — I. Die Anträge des Schuldners vom 9. Mai 2001 auf Eröffnung des Insolvenzverfahrens über sein Vermögen sowie auf Erteilung der Restschuldbefreiung sind am 11. Mai 2001 beim …
 - [BGH, Beschluss vom 24.07.2003 - IX ZB 607/02](ix-zb-607-02.md) — gerechtfertigt, weil die Höhe der Fremdrechte oder die Anzahl der Berechtigten eine bestimmte Quote erreicht; er kommt vielmehr nur dann in
 - [BGH, Beschluss vom 24.07.2003 - IX ZR 2/03](ix-zr-2-03.md) — BGH, Beschluss vom 24.07.2003 - IX ZR 2/03
 - [BGH, Urteil vom 24.07.2003 - IX ZR 333/00](ix-zr-333-00.md) — BGH, Urteil vom 24.07.2003 - IX ZR 333/00
 - [BGH, Beschluss vom 24.07.2003 - IX ZR 74/02](ix-zr-74-02.md) — BGH, Beschluss vom 24.07.2003 - IX ZR 74/02
-- [BGH, Beschluss vom 17.07.2003 - IX ZB 456/02](ix-zb-456-02.md) — BGH, Beschluss vom 17.07.2003 - IX ZB 456/02
 - [BGH, Urteil vom 17.07.2003 - IX ZR 215/02](ix-zr-215-02.md) — Tatbestand:
 - [BGH, Urteil vom 17.07.2003 - IX ZR 268/02](ix-zr-268-02.md) — Tatbestand:
-- [BGH, Beschluss vom 24.06.2003 - IX ZB 453/02](ix-zb-453-02.md) — BGH, Beschluss vom 24.06.2003 - IX ZB 453/02
+- [BGH, Beschluss vom 24.06.2003 - IX ZB 453/02](ix-zb-453-02.md) — des begrenzten zeitlichen und sachlichen Rahmens - einen angemessenen Bruchteil der Vergütung des (endgültigen) Insolvenzverwalters nicht üb
 - [BGH, Versäumnisurteil vom 24.06.2003 - IX ZR 120/02](ix-zr-120-02.md) — Tatbestand:
+- [BGH, Beschluss vom 17.06.2003 - IX ZR 304/00](ix-zr-304-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
 - [BGH, Urteil vom 27.05.2003 - IX ZR 169/02](ix-zr-169-02.md) — BGH, Urteil vom 27.05.2003 - IX ZR 169/02
+- [BGH, Beschluss vom 22.05.2003 - IX ZB 456/02](ix-zb-456-02.md) — Steuerhinterziehung verurteilt sei, in den letzten drei Jahren vor der Antragstellung keine Steuererklärungen abgegeben und bei Beantragung
 - [BGH, Urteil vom 15.05.2003 - IX ZR 218/02](ix-zr-218-02.md) — Tatbestand:
+- [BGH, Beschluss vom 15.05.2003 - IX ZR 232/00](ix-zr-232-00.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 15.05.2003 - IX ZR 322/01](ix-zr-322-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 15.05.2003 - IX ZR 335/01](ix-zr-335-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Urteil vom 08.05.2003 - IX ZR 334/01](ix-zr-334-01.md) — Tatbestand:
 - [BGH, Urteil vom 08.05.2003 - IX ZR 385/00](ix-zr-385-00.md) — Antragsrücknahme aufgehoben, kann der Zwangsverwalter ohne Ermächtigung im Aufhebungsbeschluß von ihm eingeleitete Zahlungsprozesse wegen be
+- [BGH, Urteil vom 29.04.2003 - IX ZR 138/02](ix-zr-138-02.md) — Tatbestand:
 - [BGH, Urteil vom 29.04.2003 - IX ZR 54/02](ix-zr-54-02.md) — Tatbestand:
+- [BGH, Beschluss vom 10.04.2003 - IX ZB 506/02](ix-zb-506-02.md) — Mit der vorliegenden Rechtsbeschwerde wendet sich der Gläubiger gegen die Entscheidung des Landgerichts, durch welche die zur Sicherung des Schuldnervermögens durch das …
+- [BGH, Beschluss vom 10.04.2003 - IX ZB 586/02](ix-zb-586-02.md) — verpflichtet", mag zu Bedenken Anlaß geben. Die Amtsermittlungspflicht (§ 5 InsO) greift ein,
+- [BGH, Beschluss vom 27.03.2003 - IX ZB 366/02](ix-zb-366-02.md) — Steuerrückständen in Höhe von ca. 2,2 Mio. & ¡
+- [BGH, Beschluss vom 27.03.2003 - IX ZR 288/01](ix-zr-288-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Endergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 20.03.2003 - IX ZR 284/02](ix-zr-284-02.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil es an einer den Anforderungen der § 543 Abs.
+- [BGH, Beschluss vom 13.03.2003 - IX ZB 134/02](ix-zb-134-02.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen.
+- [BGH, Beschluss vom 13.03.2003 - IX ZB 290/02](ix-zb-290-02.md) — grundsätzlicher Bedeutung der Sache die Rechtsbeschwerde zulassen und andererseits selbst entscheiden dürfen.
 - [BGH, Urteil vom 13.03.2003 - IX ZR 181/99](ix-zr-181-99.md) — die Scheidungsklage hätte abweisen müssen.
 - [BGH, Urteil vom 20.02.2003 - IX ZR 102/02](ix-zr-102-02.md) — Tatbestand:
 - [BGH, Urteil vom 20.02.2003 - IX ZR 384/99](ix-zr-384-99.md) — Tatbestand:
@@ -34,4 +73,5 @@
 - [BGH, Beschluss vom 28.01.2003 - IX ZB 555/02](ix-zb-555-02.md) — BGH, Beschluss vom 28.01.2003 - IX ZB 555/02
 - [BGH, Beschluss vom 23.01.2003 - IX ZR 337/01](ix-zr-337-01.md) — einer Forderung in Höhe von 154.165,61 DM aufgrund Aufrechnung der Beklagten abgewiesen hat (BU S. 14 unter II 4). Im übrigen wird das Gesuc
 - [BGH, Urteil vom 23.01.2003 - IX ZR 39/02](ix-zr-39-02.md) — Tatbestand:
+- [BGH, Urteil vom 16.01.2003 - IX ZR 171/00](ix-zr-171-00.md) — einer unzutreffenden Bonitätsauskunft.
 - [BGH, Urteil vom 09.01.2003 - IX ZR 353/99](ix-zr-353-99.md) — weitergehender Ansprüche gegen andere Gesamtschuldner Vorrang im Verhältnis zu dem am Vergleich beteiligten Gesamtschuldner haben soll, nach

@@ -1,6 +1,6 @@
 # VIII. Zivilsenat
 
-Wohnraummiete, Kauf- und Verbrauchsgüterkaufrecht, Energielieferung. 1955 Entscheidung(en).
+Wohnraummiete, Kauf- und Verbrauchsgüterkaufrecht, Energielieferung. 2183 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -21,13 +21,13 @@ Wohnraummiete, Kauf- und Verbrauchsgüterkaufrecht, Energielieferung. 1955 Entsc
 - [2012](2012/index.md) (121)
 - [2011](2011/index.md) (157)
 - [2010](2010/index.md) (169)
-- [2009](2009/index.md) (39)
-- [2008](2008/index.md) (29)
-- [2007](2007/index.md) (24)
-- [2006](2006/index.md) (23)
-- [2005](2005/index.md) (43)
-- [2004](2004/index.md) (39)
-- [2003](2003/index.md) (43)
-- [2002](2002/index.md) (16)
-- [2001](2001/index.md) (10)
-- [2000](2000/index.md) (10)
+- [2009](2009/index.md) (74)
+- [2008](2008/index.md) (55)
+- [2007](2007/index.md) (47)
+- [2006](2006/index.md) (45)
+- [2005](2005/index.md) (67)
+- [2004](2004/index.md) (73)
+- [2003](2003/index.md) (63)
+- [2002](2002/index.md) (35)
+- [2001](2001/index.md) (20)
+- [2000](2000/index.md) (25)

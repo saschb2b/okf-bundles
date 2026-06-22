@@ -1,6 +1,6 @@
 # ENVZ
 
-Kartell- und Energie-Beschwerdesachen (Kartellsenat). 63 Entscheidung(en).
+Kartell- und Energie-Beschwerdesachen (Kartellsenat). 65 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -18,4 +18,5 @@ Kartell- und Energie-Beschwerdesachen (Kartellsenat). 63 Entscheidung(en).
 - [2014](2014/index.md) (1)
 - [2013](2013/index.md) (1)
 - [2012](2012/index.md) (1)
+- [2009](2009/index.md) (2)
 - [2008](2008/index.md) (1)

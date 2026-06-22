@@ -1,25 +1,49 @@
 # II. Zivilsenat – 2004
 
-21 Entscheidung(en).
+45 Entscheidung(en).
 
 - [BGH, Urteil vom 13.12.2004 - II ZR 206/02](ii-zr-206-02.md) — existenzvernichtenden Eingriffs setzt weiter voraus, daß die der Gesellschaft zugefügten Nachteile nicht nach den Regeln der §§ 30 f. GmbHG
+- [BGH, Urteil vom 13.12.2004 - II ZR 409/02](ii-zr-409-02.md) — Tatbestand:
 - [BGH, Urteil vom 29.11.2004 - II ZR 254/03](ii-zr-254-03.md) — Tatbestand:
+- [BGH, Urteil vom 29.11.2004 - II ZR 364/02](ii-zr-364-02.md) — Tatbestand:
 - [BGH, Urteil vom 15.11.2004 - II ZR 282/01](ii-zr-282-01.md) — seiner Höhe und der gesamten Verfahrenskosten wird die Sache zur anderweiten Verhandlung und Entscheidung an das Berufungsgericht zurückverw
 - [BGH, Beschluss vom 08.11.2004 - II ZR 202/03](ii-zr-202-03.md) — BGH, Beschluss vom 08.11.2004 - II ZR 202/03
 - [BGH, Urteil vom 08.11.2004 - II ZR 300/02](ii-zr-300-02.md) — Tatbestand:
 - [BGH, Urteil vom 08.11.2004 - II ZR 362/02](ii-zr-362-02.md) — BGH, Urteil vom 08.11.2004 - II ZR 362/02
 - [BGH, Urteil vom 25.10.2004 - II ZR 397/02](ii-zr-397-02.md) — Tatbestand:
 - [BGH, Urteil vom 25.10.2004 - II ZR 413/02](ii-zr-413-02.md) — Tatbestand:
-- [BGH, Urteil vom 13.09.2004 - II ZR 276/02](ii-zr-276-02.md) — irreführender Ver-
+- [BGH, Beschluss vom 18.10.2004 - II ZB 30/03](ii-zb-30-03.md) — I. Das Landgericht hat die Beklagte mit Urteil vom 13. Juli 2001 verurteilt, an den Kläger 98.000,00 DM zu zahlen. Das Urteil wurde der Beklagten am 17. Juli 2001 zugestellt. Am …
+- [BGH, Urteil vom 04.10.2004 - II ZR 356/02](ii-zr-356-02.md) — Tatbestand:
+- [BGH, Urteil vom 27.09.2004 - II ZR 320/03](ii-zr-320-03.md) — Tatbestand:
+- [BGH, Urteil vom 27.09.2004 - II ZR 321/03](ii-zr-321-03.md) — 3-
+- [BGH, Urteil vom 27.09.2004 - II ZR 378/02](ii-zr-378-02.md) — Tatbestand:
+- [BGH, Urteil vom 27.09.2004 - II ZR 380/02](ii-zr-380-02.md) — Tatbestand:
+- [BGH, Urteil vom 27.09.2004 - II ZR 390/02](ii-zr-390-02.md) — Tatbestand: Die Klägerin, die zeitweise als A. AG firmierte, streitet mit den Beklagten um die wechselseitigen Ansprüche aus einem Darlehens
+- [BGH, Urteil vom 27.09.2004 - II ZR 391/02](ii-zr-391-02.md) — Tatbestand:
+- [BGH, Urteil vom 20.09.2004 - II ZR 302/02](ii-zr-302-02.md) — der Kosten des ersten und zweiten Rechtszuges bleibt die Kostenentscheidung dem Schlußurteil des Berufungsgerichts vorbehalten.
+- [BGH, Urteil vom 13.09.2004 - II ZR 276/02](ii-zr-276-02.md) — II ZR 276/02 Schreibfehlerberichtigung In dem Urteil des II. Zivilsenats des Bundesgerichtshofes vom 13. September 2004, Seite 22, 1. Zeile muß es richtig heißen: "… im Ausland …
+- [BGH, Urteil vom 13.09.2004 - II ZR 372/02](ii-zr-372-02.md) — Tatbestand:
+- [BGH, Urteil vom 13.09.2004 - II ZR 373/02](ii-zr-373-02.md) — 3-
+- [BGH, Urteil vom 13.09.2004 - II ZR 383/02](ii-zr-383-02.md) — Tatbestand:
+- [BGH, Urteil vom 13.09.2004 - II ZR 384/02](ii-zr-384-02.md) — Tatbestand: Die Klägerin, die zeitweise als A. AG firmierte, nimmt den Beklagten auf Rückzahlung eines Darlehens in Anspruch, mit dem der Be
+- [BGH, Urteil vom 13.09.2004 - II ZR 392/02](ii-zr-392-02.md) — Tatbestand:
+- [BGH, Urteil vom 13.09.2004 - II ZR 393/01](ii-zr-393-01.md) — Tatbestand:
 - [BGH, Beschluss vom 12.07.2004 - II ZB 11/03](ii-zb-11-03.md) — BGH, Beschluss vom 12.07.2004 - II ZB 11/03
 - [BGH, Beschluss vom 12.07.2004 - II ZB 19/03](ii-zb-19-03.md) — BGH, Beschluss vom 12.07.2004 - II ZB 19/03
 - [BGH, Beschluss vom 28.06.2004 - II ZR 299/02](ii-zr-299-02.md) — BGH, Beschluss vom 28.06.2004 - II ZR 299/02
 - [BGH, Urteil vom 28.06.2004 - II ZR 373/00](ii-zr-373-00.md) — Tatbestand:
+- [BGH, Beschluss vom 21.06.2004 - II ZB 18/03](ii-zb-18-03.md) — Versäumung der Berufungsbegründungsfrist als unzulässig verworfen. Dagegen richtet sich die Rechtsbeschwerde der Kläger.
 - [BGH, Beschluss vom 14.06.2004 - II ZB 9/03](ii-zb-9-03.md) — BGH, Beschluss vom 14.06.2004 - II ZB 9/03
+- [BGH, Urteil vom 14.06.2004 - II ZR 121/02](ii-zr-121-02.md) — Tatbestand:
 - [BGH, Urteil vom 14.06.2004 - II ZR 393/02](ii-zr-393-02.md) — Verschuldens bei Vertragsschluß auf Schadensersatz, wenn sie ihn über ihr bekannte Risiken des Fondsprojekts nicht aufklärt, obwohl sie in b
 - [BGH, Urteil vom 14.06.2004 - II ZR 407/02](ii-zr-407-02.md) — BGH, Urteil vom 14.06.2004 - II ZR 407/02
+- [BGH, Beschluss vom 17.05.2004 - II ZB 14/03](ii-zb-14-03.md) — Arbeitsüberlastung war es bisher leider nicht möglich, die schwierige Angelegenheit mit der nötigen Sorgfalt zu durchdenken". Nach antragsge
+- [BGH, Urteil vom 17.05.2004 - II ZR 261/01](ii-zr-261-01.md) — Tatbestand:
 - [BGH, Urteil vom 26.04.2004 - II ZR 120/02](ii-zr-120-02.md) — Tatbestand:
 - [BGH, Urteil vom 26.04.2004 - II ZR 154/02](ii-zr-154-02.md) — des mit ihr verbundenen weiteren Mediatisierungseffekts in Betracht kommen. Eine wesentliche Beeinträchtigung der Mitwirkungsbefugnisse der
+- [BGH, Urteil vom 26.04.2004 - II ZR 155/02](ii-zr-155-02.md) — des mit ihr verbundenen weiteren Mediatisierungseffekts in Betracht kommen. Eine wesentliche Beeinträchtigung der Mitwirkungsbefugnisse der
 - [BGH, Urteil vom 15.03.2004 - II ZR 247/01](ii-zr-247-01.md) — Falschangaben in einem Konnossement.
 - [BGH, Urteil vom 08.03.2004 - II ZR 165/02](ii-zr-165-02.md) — Tatbestand:
+- [BGH, Urteil vom 16.02.2004 - II ZR 288/01](ii-zr-288-01.md) — Tatbestand:
+- [BGH, Urteil vom 16.02.2004 - II ZR 316/02](ii-zr-316-02.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 09.02.2004 - II ZR 131/03](ii-zr-131-03.md) — Tatbestand:

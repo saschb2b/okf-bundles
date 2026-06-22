@@ -1,7 +1,8 @@
 # 4. Strafsenat – 2008
 
-49 Entscheidung(en).
+109 Entscheidung(en).
 
+- [BGH, Urteil vom 18.12.2008 - 4 StR 455/08](4-str-455-08.md) — des Belehrungsverstoßes (§ 136 Abs. 1 Satz 2 StPO) bei Beginn der nachfolgenden Vernehmung als Beschuldigter auf die Nichtverwertbarkeit der
 - [BGH, Beschluss vom 18.11.2008 - 4 StR 301/08](4-str-301-08.md) — Mordes u.a.
 - [BGH, Beschluss vom 18.11.2008 - 4 StR 380/08](4-str-380-08.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 11.11.2008 - 4 StR 480/08](4-str-480-08.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
@@ -9,45 +10,104 @@
 - [BGH, Urteil vom 06.11.2008 - 4 StR 375/08](4-str-375-08.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 06.11.2008 - 4 StR 495/08](4-str-495-08.md) — Nötigung
 - [BGH, Beschluss vom 04.11.2008 - 4 StR 195/08](4-str-195-08.md) — schweren Parteiverrats u.a.
-- [BGH, Beschluss vom 04.11.2008 - 4 StR 196/08](4-str-196-08.md) — Betruges u.a.
 - [BGH, Beschluss vom 04.11.2008 - 4 StR 411/08](4-str-411-08.md) — schweren Raubes u.a.
+- [BGH, Urteil vom 30.10.2008 - 4 StR 235/08](4-str-235-08.md) — Körperverletzung mit Todesfolge u.a.
 - [BGH, Urteil vom 30.10.2008 - 4 StR 352/08](4-str-352-08.md) — versuchten Mordes
+- [BGH, Beschluss vom 28.10.2008 - 4 StR 447/08](4-str-447-08.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 23.10.2008 - 4 StR 317/08](4-str-317-08.md) — sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 23.10.2008 - 4 StR 416/08](4-str-416-08.md) — Vergewaltigung
 - [BGH, Beschluss vom 21.10.2008 - 4 StR 440/08](4-str-440-08.md) — unterlassener Hilfeleistung
+- [BGH, Beschluss vom 21.10.2008 - 4 StR 460/08](4-str-460-08.md) — sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 21.10.2008 - 4 StR 466/08](4-str-466-08.md) — schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 16.10.2008 - 4 StR 465/08](4-str-465-08.md) — schwerer Vergewaltigung
+- [BGH, Beschluss vom 14.10.2008 - 4 StR 167/08](4-str-167-08.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 14.10.2008 - 4 StR 172/08](4-str-172-08.md) — Nötigung
 - [BGH, Beschluss vom 14.10.2008 - 4 StR 384/08](4-str-384-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 10.10.2008 - 4 StR 141/08](4-str-141-08.md) — Vergewaltigung im schweren Fall u.a.
+- [BGH, Urteil vom 09.10.2008 - 4 StR 354/08](4-str-354-08.md) — Mordes u.a.
 - [BGH, Beschluss vom 08.10.2008 - 4 StR 226/08](4-str-226-08.md) — Totschlags
 - [BGH, Beschluss vom 08.10.2008 - 4 StR 233/08](4-str-233-08.md) — versuchten Mordes u.a.
-- [BGH, Beschluss vom 08.10.2008 - 4 StR 354/08](4-str-354-08.md) — Mordes u.a., hier: wegen des Verdachts der Vergewaltigung
 - [BGH, Beschluss vom 07.10.2008 - 4 StR 464/08](4-str-464-08.md) — Gebührenüberhebung
-- [BGH, Beschluss vom 30.09.2008 - 4 StR 153/08](4-str-153-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 02.10.2008 - 4 StR 153/08](4-str-153-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 18.09.2008 - 4 StR 353/08](4-str-353-08.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 09.09.2008 - 4 StR 368/08](4-str-368-08.md) — Landfriedensbruchs
+- [BGH, Beschluss vom 04.09.2008 - 4 StR 378/08](4-str-378-08.md) — besonders schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 02.09.2008 - 4 StR 249/08](4-str-249-08.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 02.09.2008 - 4 StR 281/08](4-str-281-08.md) — veruntreuender Unterschlagung
 - [BGH, Beschluss vom 28.08.2008 - 4 StR 237/08](4-str-237-08.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 28.08.2008 - 4 StR 270/08](4-str-270-08.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 28.08.2008 - 4 StR 327/08](4-str-327-08.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 26.08.2008 - 4 StR 175/08](4-str-175-08.md) — Anstiftung zum Mord
 - [BGH, Beschluss vom 26.08.2008 - 4 StR 214/08](4-str-214-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 26.08.2008 - 4 StR 299/08](4-str-299-08.md) — Totschlags
+- [BGH, Beschluss vom 21.08.2008 - 4 StR 350/08](4-str-350-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 19.08.2008 - 4 StR 208/08](4-str-208-08.md) — versuchten Totschlags u.a.
 - [BGH, Urteil vom 14.08.2008 - 4 StR 223/08](4-str-223-08.md) — Totschlags
+- [BGH, Beschluss vom 12.08.2008 - 4 StR 202/08](4-str-202-08.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 12.08.2008 - 4 StR 340/08](4-str-340-08.md) — BGH, Beschluss vom 12.08.2008 - 4 StR 340/08
+- [BGH, Beschluss vom 07.08.2008 - 4 StR 112/08](4-str-112-08.md) — gewerbsmäßiger Hehlerei u.a.
+- [BGH, Beschluss vom 07.08.2008 - 4 StR 188/08](4-str-188-08.md) — Wohnungseinbruchsdiebstahls u.a.
 - [BGH, Beschluss vom 05.08.2008 - 4 StR 290/08](4-str-290-08.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 05.08.2008 - 4 StR 305/08](4-str-305-08.md) — schwerer Brandstiftung u.a.
 - [BGH, Urteil vom 31.07.2008 - 4 StR 144/08](4-str-144-08.md) — schweren Bandendiebstahls u.a.
+- [BGH, Urteil vom 31.07.2008 - 4 StR 152/08](4-str-152-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 31.07.2008 - 4 StR 251/08](4-str-251-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 29.07.2008 - 4 StR 232/08](4-str-232-08.md) — Beihilfe zur Untreue
 - [BGH, Beschluss vom 24.07.2008 - 4 StR 84/08](4-str-84-08.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 22.07.2008 - 4 StR 245/08](4-str-245-08.md) — schweren räuberischen Diebstahls u.a.
+- [BGH, Beschluss vom 22.07.2008 - 4 StR 269/08](4-str-269-08.md) — schwerer Körperverletzung u.a.
 - [BGH, Beschluss vom 17.07.2008 - 4 StR 205/08](4-str-205-08.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 17.07.2008 - 4 StR 221/08](4-str-221-08.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 10.07.2008 - 4 StR 157/08](4-str-157-08.md) — sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 08.07.2008 - 4 StR 108/08](4-str-108-08.md) — schweren sexuellen Missbrauchs einer widerstandsunfähigen Person u.a.
+- [BGH, Beschluss vom 01.07.2008 - 4 StR 657/07](4-str-657-07.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 24.06.2008 - 4 StR 151/08](4-str-151-08.md) — Diebstahls u.a.
-- [BGH, Beschluss vom 19.06.2008 - 4 StR 314/07](4-str-314-07.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
-- [BGH, Beschluss vom 19.06.2008 - 4 StR 391/07](4-str-391-07.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 18.06.2008 - 4 StR 189/08](4-str-189-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 12.06.2008 - 4 StR 67/08](4-str-67-08.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 05.06.2008 - 4 StR 207/08](4-str-207-08.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 27.05.2008 - 4 StR 58/08](4-str-58-08.md) — zu 1.: Betrugs u.a. zu 2.: Beihilfe zum Betrug u.a.
+- [BGH, Beschluss vom 29.04.2008 - 4 StR 617/07](4-str-617-07.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
+- [BGH, Beschluss vom 24.04.2008 - 4 StR 126/08](4-str-126-08.md) — Beihilfe zum Diebstahl u.a.
+- [BGH, Beschluss vom 24.04.2008 - 4 StR 133/08](4-str-133-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 22.04.2008 - 4 StR 135/08](4-str-135-08.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 22.04.2008 - 4 StR 587/07](4-str-587-07.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 22.04.2008 - 4 StR 92/08](4-str-92-08.md) — schweren Bandendiebstahls u.a. zu Ziff. 3.: wegen Wohnungseinbruchsdiebstahls
+- [BGH, Beschluss vom 17.04.2008 - 4 StR 118/08](4-str-118-08.md) — schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 17.04.2008 - 4 StR 634/07](4-str-634-07.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 15.04.2008 - 4 ARs 22/07](4-ars-22-07.md) — I. 1 1. Die polnischen Strafverfolgungsbehörden haben auf der Grundlage ei- nes Europäischen Haftbefehls des Bezirksgerichts Legnica vom 9. März 2007 um Auslieferung des deutschen …
+- [BGH, Urteil vom 15.04.2008 - 4 StR 42/08](4-str-42-08.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 15.04.2008 - 4 StR 639/07](4-str-639-07.md) — fahrlässiger Körperverletzung u.a.
+- [BGH, Urteil vom 15.04.2008 - 4 StR 651/07](4-str-651-07.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 15.04.2008 - 4 StR 94/08](4-str-94-08.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 10.04.2008 - 4 StR 443/07](4-str-443-07.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 08.04.2008 - 4 StR 21/08](4-str-21-08.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 03.04.2008 - 4 StR 81/08](4-str-81-08.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 01.04.2008 - 4 StR 315/07](4-str-315-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 01.04.2008 - 4 StR 475/07](4-str-475-07.md) — schweren räuberischen Diebstahls
+- [BGH, Beschluss vom 01.04.2008 - 4 StR 56/08](4-str-56-08.md) — räuberischen Angriffs auf einen Kraftfahrer u.a.
 - [BGH, Beschluss vom 01.04.2008 - 4 StR 642/07](4-str-642-07.md) — sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 01.04.2008 - 4 StR 69/08](4-str-69-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.03.2008 - 4 StR 63/08](4-str-63-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 18.03.2008 - 4 StR 455/07](4-str-455-07.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 18.03.2008 - 4 StR 485/07](4-str-485-07.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 18.03.2008 - 4 StR 6/08](4-str-6-08.md) — Hausfriedensbruchs u.a.
+- [BGH, Urteil vom 13.03.2008 - 4 StR 511/07](4-str-511-07.md) — zu Ziff. 1.:Untreue zu Ziff. 2.: Beihilfe zur Untreue
 - [BGH, Beschluss vom 13.03.2008 - 4 StR 534/07](4-str-534-07.md) — gewerbs- und bandenmäßigen Betrugs u.a.
 - [BGH, Urteil vom 13.03.2008 - 4 StR 610/07](4-str-610-07.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 06.03.2008 - 4 StR 33/08](4-str-33-08.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u.a.
-- [BGH, Beschluss vom 15.01.2008 - 4 StR 530/07](4-str-530-07.md) — Mordes u.a.
+- [BGH, Beschluss vom 06.03.2008 - 4 StR 669/07](4-str-669-07.md) — fahrlässiger Tötung
+- [BGH, Entscheidung vom 04.03.2008 - 4 StR 589/07](4-str-589-07.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 26.02.2008 - 4 StR 15/08](4-str-15-08.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 21.02.2008 - 4 StR 666/07](4-str-666-07.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 19.02.2008 - 4 StR 29/08](4-str-29-08.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 14.02.2008 - 4 StR 681/07](4-str-681-07.md) — Fälschung von Zahlungskarten mit Garantiefunktion u.a.
+- [BGH, Beschluss vom 12.02.2008 - 4 StR 623/07](4-str-623-07.md) — Betruges oder Computerbetruges in Betracht.
+- [BGH, Urteil vom 07.02.2008 - 4 StR 502/07](4-str-502-07.md) — zu 1.: schweren Raubes u.a. zu 2.: unerlaubten Besitzes einer Schusswaffe u.a.
+- [BGH, Beschluss vom 05.02.2008 - 4 StR 314/07](4-str-314-07.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 05.02.2008 - 4 StR 391/07](4-str-391-07.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 29.01.2008 - 4 StR 595/07](4-str-595-07.md) — besonders schwerer Vergewaltigung u.a.
+- [BGH, Beschluss vom 24.01.2008 - 4 StR 542/07](4-str-542-07.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 22.01.2008 - 4 StR 507/07](4-str-507-07.md) — Kreditbetruges u.a.
+- [BGH, Beschluss vom 15.01.2008 - 4 StR 452/07](4-str-452-07.md) — besonders schwerer Vergewaltigung u.a.
+- [BGH, Beschluss vom 15.01.2008 - 4 StR 530/07](4-str-530-07.md) — Beihilfe zum Mord
+- [BGH, Beschluss vom 15.01.2008 - 4 StR 631/07](4-str-631-07.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u.a.

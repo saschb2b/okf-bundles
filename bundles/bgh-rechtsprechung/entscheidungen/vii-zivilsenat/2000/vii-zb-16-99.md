@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 13.01.2000 - VII ZB 16/99"
-description: "BGH, Beschluss vom 13.01.2000 - VII ZB 16/99"
+description: "I. Die Klägerin hatte eine Treppenanlage für einen Neubau geliefert und dort eingebaut. Die beiden Beklagten, auf deren Grundstück der Neubau steht, betreiben dort ein Medizinzentrum. Wer und in wesse"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/1999/VII_ZB__16-99.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "VII. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2000-01-13
 aktenzeichen: "VII ZB 16/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:09:26Z
+timestamp: 2026-06-22T14:01:07Z
 ---
 # Volltext
 

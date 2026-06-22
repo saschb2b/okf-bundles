@@ -1,8 +1,9 @@
 # BLW – 2003
 
-4 Entscheidung(en).
+5 Entscheidung(en).
 
 - [BGH, Beschluss vom 30.10.2003 - BLw 16/03](blw-16-03.md) — Irrtums und wegen arglistiger Täuschung an und machten geltend, er sei im übrigen sittenwidrig. Hierüber unterrichteten die Antragsteller di
+- [BGH, Beschluss vom 30.10.2003 - BLw 20/03](blw-20-03.md) — I. Der Antragsteller war seit 1977 Mitglied der LPG (T) S. , die 1991 noch 203 Mitglieder hatte. Am 25. November 1991 beschloß die Vollversammlung die Umwandlung in eine …
 - [BGH, Beschluss vom 30.10.2003 - BLw 9/03](blw-9-03.md) — BGH, Beschluss vom 30.10.2003 - BLw 9/03
-- [BGH, Beschluss vom 03.04.2003 - BLw 2/03](blw-2-03.md) — BGH, Beschluss vom 03.04.2003 - BLw 2/03
-- [BGH, Beschluss vom 03.04.2003 - BLw 33/02](blw-33-02.md) — BGH, Beschluss vom 03.04.2003 - BLw 33/02
+- [BGH, Beschluss vom 03.04.2003 - BLw 2/03](blw-2-03.md) — I. Die Antragstellerin macht gegen die Antragsgegnerin als Rechtsnachfol- gerin der LPG (P) G. L. eigene, ererbte und abgetretene Abfin- dungsansprüche nach §§ 44 Abs. 1 Nr. 1 und …
+- [BGH, Beschluss vom 03.04.2003 - BLw 33/02](blw-33-02.md) — I. Die Antragstellerin macht als früheres Mitglied der Rechtsvorgängerin der Antragsgegnerin Abfindungsansprüche nach dem Landwirtschaftsanpassungsgesetz geltend. Das …

@@ -1,31 +1,76 @@
 # 4. Strafsenat – 2002
 
-37 Entscheidung(en).
+87 Entscheidung(en).
 
 - [BGH, Beschluss vom 19.12.2002 - 4 StR 433/02](4-str-433-02.md) — Totschlags
+- [BGH, Beschluss vom 17.12.2002 - 4 StR 480/02](4-str-480-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 10.12.2002 - 4 StR 477/02](4-str-477-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 10.12.2002 - 4 StR 479/02](4-str-479-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 05.12.2002 - 4 StR 87/02](4-str-87-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 03.12.2002 - 4 StR 416/02](4-str-416-02.md) — versuchter Vergewaltigung u.a.
 - [BGH, Beschluss vom 03.12.2002 - 4 StR 432/02](4-str-432-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 03.12.2002 - 4 StR 442/02](4-str-442-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 03.12.2002 - 4 StR 458/02](4-str-458-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 03.12.2002 - 4 StR 461/02](4-str-461-02.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 26.11.2002 - 4 StR 389/02](4-str-389-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 19.11.2002 - 4 StR 278/02](4-str-278-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 12.11.2002 - 4 StR 356/02](4-str-356-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.11.2002 - 4 StR 384/02](4-str-384-02.md) — versuchten Mordes u. a.
 - [BGH, Beschluss vom 07.11.2002 - 4 StR 247/02](4-str-247-02.md) — Bestechlichkeit u. a.
 - [BGH, Entscheidung vom 05.11.2002 - 4 StR 312/02](4-str-312-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 05.11.2002 - 4 StR 316/02](4-str-316-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 31.10.2002 - 4 StR 403/02](4-str-403-02.md) — Totschlags
+- [BGH, Beschluss vom 29.10.2002 - 4 StR 281/02](4-str-281-02.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 29.10.2002 - 4 StR 322/02](4-str-322-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 29.10.2002 - 4 StR 342/02](4-str-342-02.md) — zu Ziff. 1.: Vergewaltigung u.a. zu Ziff. 2.: sexueller Nötigung u.a.
 - [BGH, Beschluss vom 22.10.2002 - 4 StR 339/02](4-str-339-02.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 22.10.2002 - 4 StR 347/02](4-str-347-02.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 22.10.2002 - 4 StR 405/02](4-str-405-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 22.10.2002 - 4 StR 584/01](4-str-584-01.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 08.10.2002 - 4 StR 166/02](4-str-166-02.md) — Mordes u.a.
+- [BGH, Beschluss vom 08.10.2002 - 4 StR 235/02](4-str-235-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 08.10.2002 - 4 StR 330/02](4-str-330-02.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 08.10.2002 - 4 StR 349/02](4-str-349-02.md) — schweren räuberischen Diebstahls u.a.
 - [BGH, Beschluss vom 08.10.2002 - 4 StR 360/02](4-str-360-02.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 08.10.2002 - 4 StR 383/02](4-str-383-02.md) — schweren räuberischen Diebstahls
 - [BGH, Beschluss vom 01.10.2002 - 4 StR 334/02](4-str-334-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 26.09.2002 - 4 StR 168/02](4-str-168-02.md) — Raubes u.a.
+- [BGH, Beschluss vom 26.09.2002 - 4 StR 209/02](4-str-209-02.md) — Totschlags u.a.
+- [BGH, Beschluss vom 26.09.2002 - 4 StR 306/02](4-str-306-02.md) — räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 26.09.2002 - 4 StR 329/02](4-str-329-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 05.09.2002 - 4 StR 253/02](4-str-253-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 05.09.2002 - 4 StR 279/02](4-str-279-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 13.08.2002 - 4 StR 208/02](4-str-208-02.md) — schweren Bandendiebstahls u.a.
+- [BGH, Beschluss vom 13.08.2002 - 4 StR 270/02](4-str-270-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 13.08.2002 - 4 StR 275/02](4-str-275-02.md) — Raubes mit Todesfolge
+- [BGH, Beschluss vom 13.08.2002 - 4 StR 592/01](4-str-592-01.md) — Verkehrsordnungswidrigkeit
+- [BGH, Urteil vom 08.08.2002 - 4 StR 169/02](4-str-169-02.md) — Totschlags u.a.
+- [BGH, Beschluss vom 08.08.2002 - 4 StR 250/02](4-str-250-02.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 08.08.2002 - 4 StR 88/02](4-str-88-02.md) — Beihilfe zum Mord
 - [BGH, Urteil vom 25.07.2002 - 4 StR 104/02](4-str-104-02.md) — gewerbsmäßiger Abgabe von Betäubungsmitteln an Personen unter 18 Jahren u.a.
 - [BGH, Beschluss vom 25.07.2002 - 4 StR 242/02](4-str-242-02.md) — Wohnungseinbruchsdiebstahls u.a.
 - [BGH, Beschluss vom 23.07.2002 - 4 StR 170/02](4-str-170-02.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 16.07.2002 - 4 StR 179/02](4-str-179-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 11.07.2002 - 4 StR 189/02](4-str-189-02.md) — unerlaubter Abgabe von Betäubungsmitteln an eine Minderjährige u.a.
+- [BGH, Beschluss vom 27.06.2002 - 4 StR 162/02](4-str-162-02.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 18.06.2002 - 4 StR 178/02](4-str-178-02.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 13.06.2002 - 4 StR 51/02](4-str-51-02.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 13.06.2002 - 4 StR 95/02](4-str-95-02.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 11.06.2002 - 4 StR 108/02](4-str-108-02.md) — Anstiftung zur räuberischen Erpressung u.a.
 - [BGH, Beschluss vom 11.06.2002 - 4 StR 128/02](4-str-128-02.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 11.06.2002 - 4 StR 183/02](4-str-183-02.md) — Totschlags
+- [BGH, Beschluss vom 04.06.2002 - 4 StR 156/02](4-str-156-02.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 04.06.2002 - 4 StR 160/02](4-str-160-02.md) — vorsätzlichen Vollrausches
+- [BGH, Beschluss vom 04.06.2002 - 4 StR 164/02](4-str-164-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 16.05.2002 - 4 StR 105/02](4-str-105-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 16.05.2002 - 4 StR 118/02](4-str-118-02.md) — unerlaubter Abgabe von Betäubungsmitteln an eine Person unter 18 Jahren u.a.
+- [BGH, Beschluss vom 16.05.2002 - 4 StR 512/01](4-str-512-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 11.04.2002 - 4 StR 2/02](4-str-2-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 11.04.2002 - 4 StR 537/01](4-str-537-01.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 11.04.2002 - 4 StR 538/01](4-str-538-01.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 11.04.2002 - 4 StR 585/01](4-str-585-01.md) — Verdachts des Mordes
 - [BGH, Beschluss vom 20.03.2002 - 4 StR 225/00](4-str-225-00.md) — Körperverletzung mit Todesfolge u.a. hier: Antrag des Verteidigers auf Pauschvergütung
+- [BGH, Urteil vom 14.03.2002 - 4 StR 583/01](4-str-583-01.md) — Erpressung
 - [BGH, Beschluss vom 06.03.2002 - 4 StR 13/02](4-str-13-02.md) — Raubes u.a.
 - [BGH, Beschluss vom 06.03.2002 - 4 StR 29/02](4-str-29-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 06.03.2002 - 4 StR 30/02](4-str-30-02.md) — gefährlicher Körperverletzung u.a.
@@ -33,6 +78,11 @@
 - [BGH, Beschluss vom 21.02.2002 - 4 StR 5/02](4-str-5-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 21.02.2002 - 4 StR 545/01](4-str-545-01.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 21.02.2002 - 4 StR 578/01](4-str-578-01.md) — erpresserischen Menschenraubes u.a.
+- [BGH, Beschluss vom 13.02.2002 - 4 StR 573/01](4-str-573-01.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 29.01.2002 - 4 StR 519/01](4-str-519-01.md) — Betruges u.a.
+- [BGH, Beschluss vom 29.01.2002 - 4 StR 520/01](4-str-520-01.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 29.01.2002 - 4 StR 529/01](4-str-529-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 29.01.2002 - 4 StR 541/01](4-str-541-01.md) — schweren räuberischen Diebstahls
 - [BGH, Beschluss vom 22.01.2002 - 4 StR 392/01](4-str-392-01.md) — unterlassener Hilfeleistung
 - [BGH, Beschluss vom 22.01.2002 - 4 StR 553/01](4-str-553-01.md) — Aussetzung mit Todesfolge u.a.
 - [BGH, Beschluss vom 15.01.2002 - 4 StR 499/01](4-str-499-01.md) — schweren Bandendiebstahls u.a.

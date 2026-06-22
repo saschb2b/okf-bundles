@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu CHE"
 description: "BGH-Entscheidungen zu CHE, geordnet nach Vorschrift."
 tags: [register, navigation, che]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

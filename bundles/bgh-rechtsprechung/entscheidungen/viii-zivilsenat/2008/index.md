@@ -1,33 +1,59 @@
 # VIII. Zivilsenat – 2008
 
-29 Entscheidung(en).
+55 Entscheidung(en).
 
 - [BGH, Urteil vom 17.12.2008 - VIII ZR 13/08](viii-zr-13-08.md) — des gegen den Vermieter gerichteten Anspruchs auf Verschaffung des Eigentums an der Mietwohnung nicht zu.
+- [BGH, Urteil vom 17.12.2008 - VIII ZR 274/06](viii-zr-274-06.md) — unangemessen benachteiligt.
 - [BGH, Urteil vom 17.12.2008 - VIII ZR 92/08](viii-zr-92-08.md) — Tatbestand:
 - [BGH, Urteil vom 10.12.2008 - VIII ZR 293/07](viii-zr-293-07.md) — Tatbestand:
 - [BGH, Beschluss vom 09.12.2008 - VIII ZR 212/06](viii-zr-212-06.md) — BGH, Beschluss vom 09.12.2008 - VIII ZR 212/06
+- [BGH, Urteil vom 19.11.2008 - VIII ZR 295/07](viii-zr-295-07.md) — Tatbestand:
 - [BGH, Urteil vom 19.11.2008 - VIII ZR 47/07](viii-zr-47-07.md) — Tatbestand:
+- [BGH, Beschluss vom 11.11.2008 - VIII ZB 24/08](viii-zb-24-08.md) — desselben Gegenstandes angefallene Ge-
 - [BGH, Beschluss vom 05.11.2008 - VIII ZB 3/08](viii-zb-3-08.md) — offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO in der Formel dahin berichtigt, dass es in der Formel heißt: "... als die sofortige Beschwer
+- [BGH, Urteil vom 05.11.2008 - VIII ZR 166/07](viii-zr-166-07.md) — Tatbestand:
 - [BGH, Urteil vom 29.10.2008 - VIII ZR 205/05](viii-zr-205-05.md) — des Anspruchs auf Buchauszug insgesamt abgewiesen.
+- [BGH, Beschluss vom 21.10.2008 - VIII ZR 189/07](viii-zr-189-07.md) — nicht vertragsgemäßen Gebrauchs der Mieträume durch die Beklagte
+- [BGH, Urteil vom 01.10.2008 - VIII ZR 21/07](viii-zr-21-07.md) — Tatbestand:
+- [BGH, Beschluss vom 30.09.2008 - VIII ZR 248/06](viii-zr-248-06.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil der Wert der von der Beklagten mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
+- [BGH, Urteil vom 24.09.2008 - VIII ZR 275/07](viii-zr-275-07.md) — Tatbestand:
+- [BGH, Beschluss vom 23.09.2008 - VIII ZR 85/08](viii-zr-85-08.md) — I. 1 Das Amtsgericht Traunstein hat durch Urteil vom 13. Dezember 2006 die Beklagte verurteilt, an die Klägerin 2.784 € nebst Zinsen zu zahlen; im Übrigen hat es die Klage …
 - [BGH, Beschluss vom 03.09.2008 - VIII ZR 163/08](viii-zr-163-08.md) — BGH, Beschluss vom 03.09.2008 - VIII ZR 163/08
+- [BGH, Beschluss vom 19.08.2008 - VIII ZR 249/07](viii-zr-249-07.md) — offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO dahin berichtigt, dass die (in der Revisionsinstanz) unterlegenen Kläger die Kosten des Revi
 - [BGH, Urteil vom 16.07.2008 - VIII ZR 57/07](viii-zr-57-07.md) — Tatbestand:
 - [BGH, Beschluss vom 15.07.2008 - VIII ZB 83/06](viii-zb-83-06.md) — BGH, Beschluss vom 15.07.2008 - VIII ZB 83/06
+- [BGH, Urteil vom 09.07.2008 - VIII ZR 181/07](viii-zr-181-07.md) — Tatbestand:
+- [BGH, Beschluss vom 09.07.2008 - VIII ZR 184/07](viii-zr-184-07.md) — Fehlens der internationalen Zuständigkeit deut-
+- [BGH, Urteil vom 09.07.2008 - VIII ZR 280/07](viii-zr-280-07.md) — Tatbestand:
 - [BGH, Urteil vom 25.06.2008 - VIII ZR 307/07](viii-zr-307-07.md) — Tatbestand:
 - [BGH, Beschluss vom 25.06.2008 - VIII ZR 81/05](viii-zr-81-05.md) — BGH, Beschluss vom 25.06.2008 - VIII ZR 81/05
-- [BGH, Beschluss vom 16.06.2008 - VIII ZB 87/06](viii-zb-87-06.md) — BGH, Beschluss vom 16.06.2008 - VIII ZB 87/06
-- [BGH, Beschluss vom 03.06.2008 - VIII ZB 101/07](viii-zb-101-07.md) — BGH, Beschluss vom 03.06.2008 - VIII ZB 101/07
+- [BGH, Urteil vom 18.06.2008 - VIII ZR 224/07](viii-zr-224-07.md) — unangemessener Benachteiligung des Mieters unwirksam, wenn sie nicht auf den Zustand der Wohnung im Zeitpunkt der Rückgabe der Mietsache bes
+- [BGH, Beschluss vom 16.06.2008 - VIII ZB 87/06](viii-zb-87-06.md) — I. 1 Die Kläger sind Eigentümer eines von acht gleichen Häusern einer Ein- familienhausreihe in D. . Die Häuser werden aufgrund einheitlicher Ver- träge mit den jeweiligen …
+- [BGH, Beschluss vom 03.06.2008 - VIII ZB 101/07](viii-zb-101-07.md) — von einem entsprechenden Wert der Beschwer
 - [BGH, Urteil vom 28.05.2008 - VIII ZR 133/07](viii-zr-133-07.md) — Tatbestand:
 - [BGH, Urteil vom 28.05.2008 - VIII ZR 261/07](viii-zr-261-07.md) — erforderlich, weil diese Werte für aufeinander folgende Abrechnungsjahre Unterschiede aufweisen, deren Grund für den Mieter nicht ohne Weite
 - [BGH, Urteil vom 28.05.2008 - VIII ZR 271/07](viii-zr-271-07.md) — Tatbestand:
 - [BGH, Beschluss vom 27.05.2008 - VIII ZB 104/07](viii-zb-104-07.md) — BGH, Beschluss vom 27.05.2008 - VIII ZB 104/07
 - [BGH, Urteil vom 21.05.2008 - VIII ZR 90/06](viii-zr-90-06.md) — Tatbestand:
+- [BGH, Beschluss vom 20.05.2008 - VIII ZB 92/07](viii-zb-92-07.md) — eines Mangels
+- [BGH, Urteil vom 30.04.2008 - VIII ZR 233/07](viii-zr-233-07.md) — Tatbestand:
 - [BGH, Beschluss vom 29.04.2008 - VIII ZB 67/07](viii-zb-67-07.md) — BGH, Beschluss vom 29.04.2008 - VIII ZB 67/07
 - [BGH, Urteil vom 16.04.2008 - VIII ZR 230/07](viii-zr-230-07.md) — Tatbestand:
+- [BGH, Beschluss vom 15.04.2008 - VIII ZB 127/06](viii-zb-127-06.md) — der Ver-
+- [BGH, Beschluss vom 18.03.2008 - VIII ZB 4/06](viii-zb-4-06.md) — der Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen
 - [BGH, Beschluss vom 12.03.2008 - VIII ZB 12/07](viii-zb-12-07.md) — BGH, Beschluss vom 12.03.2008 - VIII ZB 12/07
+- [BGH, Beschluss vom 12.03.2008 - VIII ZB 47/07](viii-zb-47-07.md) — Die gemäß § 17a Abs. 4 Satz 4 GVG, § 574 Abs. 1 Satz 1 Nr. 2 ZPO statthafte und auch im Übrigen zulässige Rechtsbeschwerde hat keinen Erfolg. Der Senat hat durch Beschlüsse vom …
+- [BGH, Beschluss vom 12.03.2008 - VIII ZB 60/07](viii-zb-60-07.md) — I. 1 Die Beklagten sind Eigentümer eines Wohnhauses, in dem die Kläger von der Voreigentümerin eine Wohnung gemietet haben. In dem Gebäude be- findet sich im Dachgeschoß unter …
 - [BGH, Urteil vom 12.03.2008 - VIII ZR 188/07](viii-zr-188-07.md) — Tatbestand:
+- [BGH, Urteil vom 05.03.2008 - VIII ZR 31/07](viii-zr-31-07.md) — Tatbestand:
+- [BGH, Urteil vom 05.03.2008 - VIII ZR 80/07](viii-zr-80-07.md) — 3-
 - [BGH, Versäumnisurteil vom 20.02.2008 - VIII ZR 27/07](viii-zr-27-07.md) — Tatbestand:
 - [BGH, Urteil vom 13.02.2008 - VIII ZR 208/07](viii-zr-208-07.md) — BGH, Urteil vom 13.02.2008 - VIII ZR 208/07
+- [BGH, Beschluss vom 05.02.2008 - VIII ZB 56/07](viii-zb-56-07.md) — dessen Verhalten und Äuße-
+- [BGH, Beschluss vom 05.02.2008 - VIII ZR 278/05](viii-zr-278-05.md) — BGH, Beschluss vom 05.02.2008 - VIII ZR 278/05
+- [BGH, Beschluss vom 05.02.2008 - VIII ZR 94/07](viii-zr-94-07.md) — Die Revision ist gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
 - [BGH, Urteil vom 23.01.2008 - VIII ZR 246/06](viii-zr-246-06.md) — Tatbestand:
 - [BGH, Urteil vom 23.01.2008 - VIII ZR 46/07](viii-zr-46-07.md) — Beschädigung sowie unzureichender Reinigung der Mietsache nach Beendigung der Mietzeit kann die irrtümliche Bezeichnung im Mahnbescheidsantr
 - [BGH, Urteil vom 16.01.2008 - VIII ZR 254/06](viii-zr-254-06.md) — Gläubigerbenachteiligung anfechtbares Rechtsgeschäft erlangt hat, bei Fortsetzung des Mietverhältnisses eine Verwertung des Grundstücks zu z
 - [BGH, Urteil vom 09.01.2008 - VIII ZR 12/07](viii-zr-12-07.md) — Tatbestand:
+- [BGH, Urteil vom 09.01.2008 - VIII ZR 210/06](viii-zr-210-06.md) — Tatbestand:

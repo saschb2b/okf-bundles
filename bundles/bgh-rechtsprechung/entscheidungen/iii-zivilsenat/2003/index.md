@@ -1,31 +1,55 @@
 # III. Zivilsenat – 2003
 
-27 Entscheidung(en).
+51 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2003 - III ZB 67/03](iii-zb-67-03.md) — I. Die Klägerin hat die Beklagte auf Zahlung von 8.095,18 ¢¡¤£¦¥¨§© % Zinsen über dem Basiszinssatz seit dem 24. Oktober 2001 in Anspruch ge- nommen. Nachdem die Beklagte …
+- [BGH, Entscheidung vom 27.11.2003 - III ZR 37/03](iii-zr-37-03.md) — III ZR 37/03 BERICHTIGUNG Das zur Veröffentlichung in BGHZ vorgesehene Senatsurteil vom 27. November 2003 - III ZR 37/03 - ist auf Seite 12, siebte Zeile des Urteilsumdrucks dahin …
 - [BGH, Beschluss vom 20.11.2003 - III ZR 131/03](iii-zr-131-03.md) — BGH, Beschluss vom 20.11.2003 - III ZR 131/03
-- [BGH, Urteil vom 30.10.2003 - III ZR 32/00](iii-zr-32-00.md) — Tatbestand
+- [BGH, Beschluss vom 23.10.2003 - III ZB 11/03](iii-zb-11-03.md) — I. Der klagende Verein, Hauptpächter einer Kleingartenanlage, kündigte den mit den beklagten Eheleuten geschlossenen Unterpachtvertrag über eine Kleingartenparzelle aus wichtigem …
+- [BGH, Beschluss vom 23.10.2003 - III ZB 29/03](iii-zb-29-03.md) — I. Der Antragsteller hat am 17. April 2003 Rechtsbeschwerde gegen den Beschluß des Bayerischen Obersten Landesgerichts eingelegt, durch den der Antrag auf teilweise Aufhebung des …
+- [BGH, Urteil vom 23.10.2003 - III ZR 354/02](iii-zr-354-02.md) — 3-
+- [BGH, Urteil vom 23.10.2003 - III ZR 41/03](iii-zr-41-03.md) — Tatbestand
+- [BGH, Beschluss vom 23.10.2003 - III ZR 49/03](iii-zr-49-03.md) — BGH, Beschluss vom 23.10.2003 - III ZR 49/03
+- [BGH, Urteil vom 16.10.2003 - III ZR 62/03](iii-zr-62-03.md) — ungenauer Bezeichnung des Kaufgegenstands.
 - [BGH, Urteil vom 02.10.2003 - III ZR 114/02](iii-zr-114-02.md) — Tatbestand
 - [BGH, Beschluss vom 02.10.2003 - III ZR 397/02](iii-zr-397-02.md) — der von der Beschwerde gerügten Verfahrensfehler oder einer Verletzung des allgemeinen Gleichheitssatzes als Willkürverbot (Art. 3 Abs. 1 GG
+- [BGH, Urteil vom 02.10.2003 - III ZR 420/02](iii-zr-420-02.md) — Tatbestand
+- [BGH, Urteil vom 02.10.2003 - III ZR 5/03](iii-zr-5-03.md) — Tatbestand
+- [BGH, Beschluss vom 25.09.2003 - III ZR 384/02](iii-zr-384-02.md) — anzuhören oder zu vernehmen.
 - [BGH, Beschluss vom 25.09.2003 - III ZR 61/03](iii-zr-61-03.md) — BGH, Beschluss vom 25.09.2003 - III ZR 61/03
 - [BGH, Urteil vom 18.09.2003 - III ZR 416/02](iii-zr-416-02.md) — Tatbestand
+- [BGH, Urteil vom 11.09.2003 - III ZR 381/02](iii-zr-381-02.md) — Tatbestand
 - [BGH, Beschluss vom 31.07.2003 - III ZB 7/03](iii-zb-7-03.md) — BGH, Beschluss vom 31.07.2003 - III ZB 7/03
-- [BGH, Beschluss vom 11.07.2003 - III ZR 205/03](iii-zr-205-03.md) — BGH, Beschluss vom 11.07.2003 - III ZR 205/03
+- [BGH, Urteil vom 24.07.2003 - III ZR 207/02](iii-zr-207-02.md) — Tatbestand
 - [BGH, Urteil vom 10.07.2003 - III ZR 379/02](iii-zr-379-02.md) — Tatbestand
 - [BGH, Urteil vom 03.07.2003 - III ZR 109/02](iii-zr-109-02.md) — Tatbestand
 - [BGH, Urteil vom 03.07.2003 - III ZR 326/02](iii-zr-326-02.md) — Tatbestand
 - [BGH, Urteil vom 03.07.2003 - III ZR 348/02](iii-zr-348-02.md) — Tatbestand
 - [BGH, Beschluss vom 26.06.2003 - III ZB 57/02](iii-zb-57-02.md) — BGH, Beschluss vom 26.06.2003 - III ZB 57/02
+- [BGH, Beschluss vom 26.06.2003 - III ZB 71/02](iii-zb-71-02.md) — fehlerhafter Gefahraufdrucke unverkäuflich. Die
 - [BGH, Beschluss vom 26.06.2003 - III ZR 405/02](iii-zr-405-02.md) — BGH, Beschluss vom 26.06.2003 - III ZR 405/02
+- [BGH, Urteil vom 15.05.2003 - III ZR 42/02](iii-zr-42-02.md) — Amtsmißbrauchs bei der Erteilung einer Genehmigung nach § 19a GüKG a.F.
 - [BGH, Urteil vom 15.05.2003 - III ZR 43/02](iii-zr-43-02.md) — Tatbestand
+- [BGH, Urteil vom 15.05.2003 - III ZR 7/02](iii-zr-7-02.md) — Tatbestand
+- [BGH, Urteil vom 08.05.2003 - III ZR 68/02](iii-zr-68-02.md) — 3-
 - [BGH, Beschluss vom 30.04.2003 - III ZR 237/02](iii-zr-237-02.md) — BGH, Beschluss vom 30.04.2003 - III ZR 237/02
 - [BGH, Beschluss vom 17.04.2003 - III ZR 266/02](iii-zr-266-02.md) — BGH, Beschluss vom 17.04.2003 - III ZR 266/02
 - [BGH, Urteil vom 10.04.2003 - III ZR 196/02](iii-zr-196-02.md) — des vergleichbaren Schutzbedürfnisses auch auf wirtschaftlich abhängige freie Mitarbeiter (Subunternehmer) anzuwenden.
 - [BGH, Urteil vom 10.04.2003 - III ZR 38/02](iii-zr-38-02.md) — Tatbestand
-- [BGH, Beschluss vom 27.02.2003 - III ZB 30/02](iii-zb-30-02.md) — BGH, Beschluss vom 27.02.2003 - III ZB 30/02
+- [BGH, Beschluss vom 27.02.2003 - III ZB 29/02](iii-zb-29-02.md) — BGH, Beschluss vom 27.02.2003 - III ZB 29/02
+- [BGH, Beschluss vom 27.02.2003 - III ZB 30/02](iii-zb-30-02.md) — I. Im Juni 2001 ging der Antragstellerin ein Versandhandelskatalog der C. S.L. zu. Der Sendung lag eine "Dokumentation der letzten -3- Chance für J. B. 75.000,00 DM plus 369,86 DM …
+- [BGH, Beschluss vom 27.02.2003 - III ZB 34/02](iii-zb-34-02.md) — I. Im April 2001 ging der Antragstellerin ein Versandhandelskatalog der H. & F. bv. zu. Der Sendung war ein Schreiben der "V. Beurkun- -3- dung- und Finanzgruppe E.G." vom 20 …
+- [BGH, Beschluss vom 27.02.2003 - III ZB 35/02](iii-zb-35-02.md) — eines Fernsehers
+- [BGH, Beschluss vom 27.02.2003 - III ZR 200/02](iii-zr-200-02.md) — $ # Neben der mit 251.882,82 bewertenden Klageforderung fällt die Widerklage gegen die Widerbeklagte zu 1 streitwertmäßig nicht ins Gewicht.
+- [BGH, Urteil vom 20.02.2003 - III ZR 224/01](iii-zr-224-01.md) — enteignungsgleichen Eingriffs.
+- [BGH, Urteil vom 13.02.2003 - III ZR 176/02](iii-zr-176-02.md) — Tatbestand
+- [BGH, Urteil vom 13.02.2003 - III ZR 194/02](iii-zr-194-02.md) — Tatbestand
 - [BGH, Urteil vom 06.02.2003 - III ZR 223/02](iii-zr-223-02.md) — Tatbestand
 - [BGH, Urteil vom 06.02.2003 - III ZR 287/02](iii-zr-287-02.md) — Tatbestand
 - [BGH, Urteil vom 06.02.2003 - III ZR 44/02](iii-zr-44-02.md) — Tatbestand
+- [BGH, Beschluss vom 30.01.2003 - III ZR 36/02](iii-zr-36-02.md) — BGH, Beschluss vom 30.01.2003 - III ZR 36/02
 - [BGH, Urteil vom 23.01.2003 - III ZR 54/02](iii-zr-54-02.md) — BGH, Urteil vom 23.01.2003 - III ZR 54/02
-- [BGH, Beschluss vom 13.01.2003 - III ZB 68/02](iii-zb-68-02.md) — BGH, Beschluss vom 13.01.2003 - III ZB 68/02
+- [BGH, Urteil vom 16.01.2003 - III ZR 269/01](iii-zr-269-01.md) — Tatbestand
+- [BGH, Beschluss vom 13.01.2003 - III ZB 68/02](iii-zb-68-02.md) — Die Antragsgegner haben weder dargetan noch glaubhaft gemacht, dass ihre wirtschaftlichen Interessen gegenüber dem Interesse der Antragsteller an der Vollstreckung aus dem …
 - [BGH, Urteil vom 09.01.2003 - III ZR 217/01](iii-zr-217-01.md) — Tatbestand
 - [BGH, Urteil vom 09.01.2003 - III ZR 46/02](iii-zr-46-02.md) — BGH, Urteil vom 09.01.2003 - III ZR 46/02

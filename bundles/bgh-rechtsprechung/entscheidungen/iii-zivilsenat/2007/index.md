@@ -1,32 +1,66 @@
 # III. Zivilsenat – 2007
 
-28 Entscheidung(en).
+62 Entscheidung(en).
 
-- [BGH, Beschluss vom 20.12.2007 - III ZR 123/07](iii-zr-123-07.md) — BGH, Beschluss vom 20.12.2007 - III ZR 123/07
-- [BGH, Beschluss vom 20.12.2007 - III ZR 23/07](iii-zr-23-07.md) — BGH, Beschluss vom 20.12.2007 - III ZR 23/07
-- [BGH, Beschluss vom 20.12.2007 - III ZR 24/07](iii-zr-24-07.md) — BGH, Beschluss vom 20.12.2007 - III ZR 24/07
-- [BGH, Beschluss vom 20.12.2007 - III ZR 25/07](iii-zr-25-07.md) — BGH, Beschluss vom 20.12.2007 - III ZR 25/07
-- [BGH, Beschluss vom 20.12.2007 - III ZR 26/07](iii-zr-26-07.md) — BGH, Beschluss vom 20.12.2007 - III ZR 26/07
-- [BGH, Beschluss vom 20.12.2007 - III ZR 27/07](iii-zr-27-07.md) — BGH, Beschluss vom 20.12.2007 - III ZR 27/07
-- [BGH, Beschluss vom 20.12.2007 - III ZR 306/06](iii-zr-306-06.md) — BGH, Beschluss vom 20.12.2007 - III ZR 306/06
-- [BGH, Beschluss vom 20.12.2007 - III ZR 61/07](iii-zr-61-07.md) — BGH, Beschluss vom 20.12.2007 - III ZR 61/07
+- [BGH, Beschluss vom 20.12.2007 - III ZR 123/07](iii-zr-123-07.md) — behaupteter Fehler bei der Prüfung des Prospekts begehrt der
+- [BGH, Beschluss vom 20.12.2007 - III ZR 23/07](iii-zr-23-07.md) — behaupteter Mängel des Prospekts begehrt der Kläger Zug um
+- [BGH, Beschluss vom 20.12.2007 - III ZR 24/07](iii-zr-24-07.md) — behaupteter Mängel des Prospekts begehrt der Kläger Zug um
+- [BGH, Beschluss vom 20.12.2007 - III ZR 25/07](iii-zr-25-07.md) — behaupteter Mängel des Prospekts hat der Kläger Zug um Zug
+- [BGH, Beschluss vom 20.12.2007 - III ZR 26/07](iii-zr-26-07.md) — behaupteter Mängel des Prospekts begehrt der Kläger Zug um
+- [BGH, Beschluss vom 20.12.2007 - III ZR 27/07](iii-zr-27-07.md) — behaupteter Mängel des Prospekts begehrt die Klägerin Zug um
+- [BGH, Beschluss vom 20.12.2007 - III ZR 306/06](iii-zr-306-06.md) — behaupteter Mängel des Prospekts begehrt der Kläger Zug um
+- [BGH, Beschluss vom 20.12.2007 - III ZR 61/07](iii-zr-61-07.md) — behaupteter Mängel des Prospekts begehrt der Kläger Zug um
 - [BGH, Urteil vom 13.12.2007 - III ZR 163/07](iii-zr-163-07.md) — Tatbestand
+- [BGH, Versäumnisurteil vom 06.12.2007 - III ZR 146/07](iii-zr-146-07.md) — 3-
 - [BGH, Beschluss vom 28.11.2007 - III ZR 198/06](iii-zr-198-06.md) — BGH, Beschluss vom 28.11.2007 - III ZR 198/06
 - [BGH, Urteil vom 22.11.2007 - III ZR 9/07](iii-zr-9-07.md) — Tatbestand
+- [BGH, Urteil vom 15.11.2007 - III ZR 247/06](iii-zr-247-06.md) — 3-
+- [BGH, Beschluss vom 25.10.2007 - III ZA 21/07](iii-za-21-07.md) — Die beabsichtigte Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg, wie es Voraussetzung für die Bewilligung von Prozesskostenhilfe ist (§ 114 Satz 1 ZPO).
+- [BGH, Beschluss vom 25.10.2007 - III ZB 65/07](iii-zb-65-07.md) — Die beabsichtigte Rechtsverfolgung bietet keine hinreichende Aussicht auf Erfolg im Sinne von § 114 Satz 1 ZPO.
+- [BGH, Urteil vom 25.10.2007 - III ZR 91/07](iii-zr-91-07.md) — Tatbestand
+- [BGH, Urteil vom 11.10.2007 - III ZR 301/06](iii-zr-301-06.md) — Tatbestand
+- [BGH, Urteil vom 11.10.2007 - III ZR 63/07](iii-zr-63-07.md) — Tatbestand
 - [BGH, Beschluss vom 02.10.2007 - III ZR 13/07](iii-zr-13-07.md) — Amtspflichtverletzun-
+- [BGH, Beschluss vom 02.10.2007 - III ZR 131/07](iii-zr-131-07.md) — Die Streitwertfestsetzung beruht auf § 47 Abs.
 - [BGH, Urteil vom 20.09.2007 - III ZR 33/07](iii-zr-33-07.md) — Tatbestand
 - [BGH, Beschluss vom 13.09.2007 - III ZA 17/07](iii-za-17-07.md) — statthaft, soweit die
 - [BGH, Beschluss vom 13.09.2007 - III ZR 150/07](iii-zr-150-07.md) — BGH, Beschluss vom 13.09.2007 - III ZR 150/07
-- [BGH, Beschluss vom 13.09.2007 - III ZR 45/07](iii-zr-45-07.md) — BGH, Beschluss vom 13.09.2007 - III ZR 45/07
+- [BGH, Beschluss vom 13.09.2007 - III ZR 45/07](iii-zr-45-07.md) — verfrühter Zahlung des Kaufpreises ist nach den Feststellungen des Berufungsgerichts nicht entstanden oder jedenfalls mit den vom Kläger ver
+- [BGH, Beschluss vom 01.08.2007 - III ZA 14/07](iii-za-14-07.md) — Die beabsichtigte Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg, wie es Voraussetzung für die Bewilligung von Prozesskostenhilfe ist (§ 114 Satz 1 ZPO).
+- [BGH, Beschluss vom 01.08.2007 - III ZA 15/07](iii-za-15-07.md) — Die beabsichtigte Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg, wie es Voraussetzung für die Bewilligung von Prozesskostenhilfe ist (§ 114 Satz 1 ZPO).
+- [BGH, Beschluss vom 01.08.2007 - III ZA 16/07](iii-za-16-07.md) — Die beabsichtigte Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg, wie es Voraussetzung für die Bewilligung von Prozesskostenhilfe ist (§ 114 Satz 1 ZPO).
 - [BGH, Beschluss vom 01.08.2007 - III ZB 35/07](iii-zb-35-07.md) — BGH, Beschluss vom 01.08.2007 - III ZB 35/07
+- [BGH, Beschluss vom 01.08.2007 - III ZB 44/07](iii-zb-44-07.md) — Dem Kläger kann die begehrte Prozesskostenhilfe nicht gewährt werden, weil die beabsichtigte Rechtsbeschwerde keine hinreichende Aussicht auf Erfolg bietet.
+- [BGH, Beschluss vom 01.08.2007 - III ZR 125/06](iii-zr-125-06.md) — Die Zulässigkeit des Rechtsbehelfs ist zweifelhaft, weil die Beklagte zu 1 in ihrer Rüge auf kein Vorbringen hinweist, das der Senat im Sinn des Art.
+- [BGH, Beschluss vom 01.08.2007 - III ZR 185/05](iii-zr-185-05.md) — Die Zulässigkeit des Rechtsbehelfs ist zweifelhaft, weil die Beklagte zu 1 in ihrer Rüge auf kein Vorbringen hinweist, das der Senat im Sinn des Art.
+- [BGH, Beschluss vom 01.08.2007 - III ZR 300/05](iii-zr-300-05.md) — Die Zulässigkeit des Rechtsbehelfs ist zweifelhaft, weil die Beklagte zu 1 in ihrer Rüge auf kein Vorbringen hinweist, das der Senat im Sinn des Art.
 - [BGH, Beschluss vom 01.08.2007 - III ZR 35/07](iii-zr-35-07.md) — BGH, Beschluss vom 01.08.2007 - III ZR 35/07
+- [BGH, Beschluss vom 01.08.2007 - III ZR 56/07](iii-zr-56-07.md) — I. 1 Der Kläger ist von Beruf Rechtsanwalt. Die Beklagte erbringt als Rechts- anwaltsgesellschaft mit beschränkter Haftung an zahlreichen Standorten in der Bundesrepublik …
+- [BGH, Beschluss vom 19.07.2007 - III ZA 10/07](iii-za-10-07.md) — Die beabsichtigte Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg, wie es Voraussetzung für die Bewilligung von Prozesskostenhilfe ist (§ 114 Satz 1 ZPO).
+- [BGH, Beschluss vom 19.07.2007 - III ZA 11/07](iii-za-11-07.md) — Die beabsichtigte Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg, wie es Voraussetzung für die Bewilligung von Prozesskostenhilfe ist (§ 114 Satz 1 ZPO).
+- [BGH, Urteil vom 19.07.2007 - III ZR 305/06](iii-zr-305-06.md) — Tatbestand
+- [BGH, Urteil vom 05.07.2007 - III ZR 143/06](iii-zr-143-06.md) — Tatbestand
+- [BGH, Urteil vom 21.06.2007 - III ZR 177/06](iii-zr-177-06.md) — Tatbestand
 - [BGH, Urteil vom 14.06.2007 - III ZR 269/06](iii-zr-269-06.md) — Tatbestand
+- [BGH, Beschluss vom 06.06.2007 - III ZB 16/07](iii-zb-16-07.md) — unrichtiger
+- [BGH, Beschluss vom 06.06.2007 - III ZR 313/06](iii-zr-313-06.md) — I. 1 Die Klägerin betreibt einen Gartenbaubetrieb, der Beklagte bewirtschaftet eine höher liegende angrenzende Ackerparzelle. Seit mehreren Jahren baut der Beklagte dort Spargel …
+- [BGH, Urteil vom 31.05.2007 - III ZR 22/06](iii-zr-22-06.md) — Tatbestand
+- [BGH, Urteil vom 24.05.2007 - III ZR 467/04](iii-zr-467-04.md) — Tatbestand
 - [BGH, Urteil vom 24.05.2007 - III ZR 468/04](iii-zr-468-04.md) — Tatbestand
+- [BGH, Urteil vom 10.05.2007 - III ZR 115/06](iii-zr-115-06.md) — Tatbestand
 - [BGH, Urteil vom 10.05.2007 - III ZR 291/06](iii-zr-291-06.md) — Tatbestand
 - [BGH, Beschluss vom 03.05.2007 - III ZR 162/06](iii-zr-162-06.md) — BGH, Beschluss vom 03.05.2007 - III ZR 162/06
+- [BGH, Beschluss vom 19.04.2007 - III ZR 74/06](iii-zr-74-06.md) — Wie in dem Senatsbeschluss vom 18. Januar 2007 bereits ausgeführt, haben die Klägerin zu 1 und der Kläger zu 3 auf die Verfügung der Rechtspfle- gerin vom 24. November 2006 die …
+- [BGH, Beschluss vom 04.04.2007 - III ZR 197/06](iii-zr-197-06.md) — I. 1 Die klagende Jagdgenossenschaft nimmt den Beklagten zu 2 als Pächter des gemeinschaftlichen Jagdbezirks S. II und die Beklagte zu 1 als Erbin des früheren Mitpächters, des …
+- [BGH, Beschluss vom 04.04.2007 - III ZR 30/06](iii-zr-30-06.md) — Der Rechtsbehelf ist zulässig, aber unbegründet.
 - [BGH, Beschluss vom 04.04.2007 - III ZR 304/06](iii-zr-304-06.md) — der Versäumung der Frist zur Einlegung und Begründung der Nichtzulassungsbeschwerde gegen das Urteil des 10. Zivilsenats des Kammergerichts
+- [BGH, Beschluss vom 04.04.2007 - III ZR 309/06](iii-zr-309-06.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 22.03.2007 - III ZR 218/06](iii-zr-218-06.md) — Tatbestand
 - [BGH, Urteil vom 22.03.2007 - III ZR 98/06](iii-zr-98-06.md) — Tatbestand
+- [BGH, Urteil vom 08.03.2007 - III ZR 128/06](iii-zr-128-06.md) — Tatbestand
+- [BGH, Urteil vom 08.03.2007 - III ZR 55/06](iii-zr-55-06.md) — Tatbestand
 - [BGH, Beschluss vom 01.03.2007 - III ZB 7/06](iii-zb-7-06.md) — vorzeitiger Beendigung eines angeblich mit
 - [BGH, Urteil vom 01.03.2007 - III ZR 164/06](iii-zr-164-06.md) — Tatbestand
-- [BGH, Beschluss vom 22.02.2007 - III ZR 16/06](iii-zr-16-06.md) — BGH, Beschluss vom 22.02.2007 - III ZR 16/06
+- [BGH, Beschluss vom 22.02.2007 - III ZR 16/06](iii-zr-16-06.md) — I. 1 Die Anhörungsrüge des Klägers ist zulässig, aber unbegründet. Der Se- nat hat in der dem angegriffenen Beschluss zugrunde liegenden Beratung das Vorbringen des Klägers …
 - [BGH, Versäumnisurteil vom 18.01.2007 - III ZR 44/06](iii-zr-44-06.md) — Tatbestand
+- [BGH, Urteil vom 11.01.2007 - III ZR 302/05](iii-zr-302-05.md) — Überlastung). Die Erfüllung dieser Verpflichtung kann den Justizbehörden insgesamt als drittgerichtete Amtspflicht obliegen (teilweise Abwei

@@ -1,6 +1,6 @@
 # IV AR
 
-Allgemeines Register, Rechtshilfe- und Zuständigkeitssachen. 18 Entscheidung(en).
+Allgemeines Register, Rechtshilfe- und Zuständigkeitssachen. 20 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -17,3 +17,5 @@ Allgemeines Register, Rechtshilfe- und Zuständigkeitssachen. 18 Entscheidung(en
 - [2013](2013/index.md) (1)
 - [2012](2012/index.md) (2)
 - [2007](2007/index.md) (1)
+- [2005](2005/index.md) (1)
+- [2002](2002/index.md) (1)

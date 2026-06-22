@@ -1,20 +1,41 @@
 # VIII. Zivilsenat – 2007
 
-24 Entscheidung(en).
+47 Entscheidung(en).
 
 - [BGH, Urteil vom 28.11.2007 - VIII ZR 306/04](viii-zr-306-04.md) — Tatbestand:
 - [BGH, Urteil vom 14.11.2007 - VIII ZR 19/07](viii-zr-19-07.md) — des Auszugs eines Mieters vor Ablauf der Abrechnungsperiode entstehen, sind keine Betriebskosten, sondern Verwaltungskosten, die in Ermangel
+- [BGH, Beschluss vom 13.11.2007 - VIII ZB 14/07](viii-zb-14-07.md) — feh-
 - [BGH, Urteil vom 07.11.2007 - VIII ZR 341/06](viii-zr-341-06.md) — BGH, Urteil vom 07.11.2007 - VIII ZR 341/06
 - [BGH, Urteil vom 31.10.2007 - VIII ZR 261/06](viii-zr-261-06.md) — Tatbestand:
 - [BGH, Urteil vom 17.10.2007 - VIII ZR 251/06](viii-zr-251-06.md) — unangemessener Benachteiligung des Kunden unwirksam (im Anschluss an BGH, Urteil vom 24. April 1991 - VIII ZR 180/90, NJW-RR 1991, 1013).
 - [BGH, Urteil vom 10.10.2007 - VIII ZR 260/06](viii-zr-260-06.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 10.10.2007 - VIII ZR 330/06](viii-zr-330-06.md) — Tatbestand:
+- [BGH, Urteil vom 26.09.2007 - VIII ZR 143/06](viii-zr-143-06.md) — unangemessener Benachteiligung des Mieters unwirksam, wenn ihr Wortlaut für den Mieter nicht eindeutig erkennen lässt, dass die Abgeltungsqu
+- [BGH, Beschluss vom 25.09.2007 - VIII ZB 49/07](viii-zb-49-07.md) — feh-
 - [BGH, Beschluss vom 25.09.2007 - VIII ZR 318/06](viii-zr-318-06.md) — BGH, Beschluss vom 25.09.2007 - VIII ZR 318/06
+- [BGH, Urteil vom 19.09.2007 - VIII ZR 6/07](viii-zr-6-07.md) — Modernisierung steht nicht entgegen, dass der Vermieter den Beginn der Modernisierungsarbeiten weniger als drei Monate vorher angekündigt un
+- [BGH, Urteil vom 18.07.2007 - VIII ZR 227/06](viii-zr-227-06.md) — Tatbestand:
+- [BGH, Urteil vom 18.07.2007 - VIII ZR 236/05](viii-zr-236-05.md) — der Abweisung der Widerklage zurückgewiesen worden ist.
+- [BGH, Urteil vom 18.07.2007 - VIII ZR 267/05](viii-zr-267-05.md) — Tatbestand:
+- [BGH, Beschluss vom 17.07.2007 - VIII ZB 107/06](viii-zb-107-06.md) — Versäumung der Berufungsbegrün-
+- [BGH, Beschluss vom 13.07.2007 - VIII ZR 306/06](viii-zr-306-06.md) — Die Einstellung der Zwangsvollstreckung in dem Umfang, wie im Tenor beschrieben, ist auf Antrag vorzunehmen, obwohl die Kläger im Berufungs- rechtszug keinen …
 - [BGH, Beschluss vom 10.07.2007 - VIII ZR 66/04](viii-zr-66-04.md) — BGH, Beschluss vom 10.07.2007 - VIII ZR 66/04
+- [BGH, Urteil vom 27.06.2007 - VIII ZR 149/06](viii-zr-149-06.md) — Tatbestand:
+- [BGH, Urteil vom 27.06.2007 - VIII ZR 271/06](viii-zr-271-06.md) — des Eigenbedarfs eines Gesellschafters zulässig, sofern dieser bereits bei Abschluss des Mietvertrages Gesellschafter war.
+- [BGH, Urteil vom 13.06.2007 - VIII ZR 352/04](viii-zr-352-04.md) — Tatbestand:
+- [BGH, Urteil vom 13.06.2007 - VIII ZR 387/04](viii-zr-387-04.md) — 3-
+- [BGH, Urteil vom 23.05.2007 - VIII ZR 122/06](viii-zr-122-06.md) — Tatbestand:
+- [BGH, Urteil vom 23.05.2007 - VIII ZR 231/06](viii-zr-231-06.md) — Tatbestand:
 - [BGH, Urteil vom 09.05.2007 - VIII ZR 347/06](viii-zr-347-06.md) — Tatbestand:
+- [BGH, Beschluss vom 08.05.2007 - VIII ZB 128/06](viii-zb-128-06.md) — eines der Be-
+- [BGH, Beschluss vom 08.05.2007 - VIII ZR 235/06](viii-zr-235-06.md) — I. 1 Die Ehefrau des Beklagten zu 1 war alleinige Gesellschafterin der mit ei- nem Stammkapital in Höhe von 25.200 € ausgestatteten A. GmbH. Mit notariellem Vertrag vom 21 …
 - [BGH, Beschluss vom 18.04.2007 - VIII ZR 189/06](viii-zr-189-06.md) — BGH, Beschluss vom 18.04.2007 - VIII ZR 189/06
 - [BGH, Beschluss vom 17.04.2007 - VIII ZB 100/05](viii-zb-100-05.md) — BGH, Beschluss vom 17.04.2007 - VIII ZB 100/05
+- [BGH, Beschluss vom 04.04.2007 - VIII ZB 109/05](viii-zb-109-05.md) — Versäumung der Berufungsfrist als unzulässig zurückgewiesen und die
+- [BGH, Urteil vom 04.04.2007 - VIII ZR 219/06](viii-zr-219-06.md) — Tatbestand:
 - [BGH, Urteil vom 04.04.2007 - VIII ZR 223/06](viii-zr-223-06.md) — Eigenbedarfs zu kündigen, bedarf - wie der gesamte Mietvertrag - gemäß § 550 Satz 1 BGB der Schriftform, wenn der Verzicht für mehr als ein
+- [BGH, Urteil vom 28.03.2007 - VIII ZR 199/06](viii-zr-199-06.md) — unangemessener Benachteiligung des Mieters unwirksam, wenn die Verpflichtung als solche und ihre inhaltliche Ausgestaltung in zwei verschied
+- [BGH, Urteil vom 28.03.2007 - VIII ZR 42/06](viii-zr-42-06.md) — BGH, Urteil vom 28.03.2007 - VIII ZR 42/06
 - [BGH, Beschluss vom 27.03.2007 - VIII ZB 123/06](viii-zb-123-06.md) — BGH, Beschluss vom 27.03.2007 - VIII ZB 123/06
 - [BGH, Urteil vom 14.03.2007 - VIII ZR 184/06](viii-zr-184-06.md) — BGH, Urteil vom 14.03.2007 - VIII ZR 184/06
 - [BGH, Urteil vom 14.03.2007 - VIII ZR 68/06](viii-zr-68-06.md) — BGH, Urteil vom 14.03.2007 - VIII ZR 68/06
@@ -24,5 +45,7 @@
 - [BGH, Urteil vom 07.03.2007 - VIII ZR 247/05](viii-zr-247-05.md) — Wertersatzes für die Markise und für den Teppichboden durch das Urteil des Amtsgerichts Charlottenburg vom 29. März 2005 zurückgewiesen word
 - [BGH, Urteil vom 07.03.2007 - VIII ZR 86/06](viii-zr-86-06.md) — desselben Gegenstands entstandene Geschäftsgebühr anteilig auf die Verfahrensgebühr des gerichtlichen Verfahrens anzurechnen, so vermindert
 - [BGH, Urteil vom 28.02.2007 - VIII ZR 156/06](viii-zr-156-06.md) — Tatbestand:
-- [BGH, Beschluss vom 06.02.2007 - VIII ZB 105/06](viii-zb-105-06.md) — BGH, Beschluss vom 06.02.2007 - VIII ZB 105/06
+- [BGH, Urteil vom 28.02.2007 - VIII ZR 30/06](viii-zr-30-06.md) — Tatbestand:
+- [BGH, Urteil vom 14.02.2007 - VIII ZR 123/06](viii-zr-123-06.md) — Tatbestand:
+- [BGH, Beschluss vom 06.02.2007 - VIII ZB 105/06](viii-zb-105-06.md) — Der Einspruch ist als Erinnerung gegen den Kostenansatz gemäß § 66 Abs.
 - [BGH, Beschluss vom 16.01.2007 - VIII ZB 75/06](viii-zb-75-06.md) — Versäumung einer Frist zur Begründung eines Rechtsmittels ist erst und nur dann zu entscheiden, wenn nicht festgestellt werden kann, dass di

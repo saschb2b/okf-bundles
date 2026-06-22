@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Urteil vom 25.10.2005 - VI ZR 9/05"
-description: "BGH, Urteil vom 25.10.2005 - VI ZR 9/05"
+description: "-3-"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2005/VI_ZR___9-05.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "VI. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2005-10-25
 aktenzeichen: "VI ZR 9/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:20:58Z
+timestamp: 2026-06-22T14:13:03Z
 ---
 # Volltext
 

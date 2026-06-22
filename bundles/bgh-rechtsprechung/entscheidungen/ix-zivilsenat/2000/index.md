@@ -1,21 +1,28 @@
 # IX. Zivilsenat – 2000
 
-32 Entscheidung(en).
+48 Entscheidung(en).
 
 - [BGH, Beschluss vom 14.12.2000 - IX ZA 22/00](ix-za-22-00.md) — Zahlungsunfähigkeit der Schuldnerin gestellt. Vor Entscheidung über diesen Antrag hat die Schuldnerin am 18. März 1999 die Durchführung eine
 - [BGH, Beschluss vom 14.12.2000 - IX ZB 105/00](ix-zb-105-00.md) — BGH, Beschluss vom 14.12.2000 - IX ZB 105/00
 - [BGH, Urteil vom 14.12.2000 - IX ZR 300/98](ix-zr-300-98.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 14.12.2000 - IX ZR 332/99](ix-zr-332-99.md) — BGH, Versäumnisurteil vom 14.12.2000 - IX ZR 332/99
 - [BGH, Beschluss vom 14.12.2000 - IX ZR 41/98](ix-zr-41-98.md) — BGH, Beschluss vom 14.12.2000 - IX ZR 41/98
+- [BGH, Beschluss vom 23.11.2000 - IX ZB 83/00](ix-zb-83-00.md) — der Versäumung der Berufungsfrist gegen das Urteil des Landgerichts Passau - 1. Zivilkammer - vom 28. Oktober 1999 Wiedereinsetzung in den v
+- [BGH, Urteil vom 23.11.2000 - IX ZR 155/00](ix-zr-155-00.md) — welcher vollstreckbaren Forderung die anfechtungsrechtliche Rückgewähr verlangt wird, ist neben einem besonders hervorgehobenen Klageantrag
 - [BGH, Beschluss vom 19.10.2000 - IX ZB 69/00](ix-zb-69-00.md) — BGH, Beschluss vom 19.10.2000 - IX ZB 69/00
 - [BGH, Urteil vom 19.10.2000 - IX ZR 255/99](ix-zr-255-99.md) — Tatbestand:
 - [BGH, Beschluss vom 19.10.2000 - IX ZR 327/98](ix-zr-327-98.md) — BGH, Beschluss vom 19.10.2000 - IX ZR 327/98
 - [BGH, Beschluss vom 19.10.2000 - IX ZR 426/99](ix-zr-426-99.md) — BGH, Beschluss vom 19.10.2000 - IX ZR 426/99
+- [BGH, Beschluss vom 28.09.2000 - IX ZR 288/98](ix-zr-288-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 28.09.2000 - IX ZR 300/99](ix-zr-300-99.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 28.09.2000 - IX ZR 33/00](ix-zr-33-00.md) — Die Sache hat - nachdem die Frage, ob ein Geschäftsbesorgungsvertrag der vorliegenden Art gemäß Art.
+- [BGH, Beschluss vom 28.09.2000 - IX ZR 348/98](ix-zr-348-98.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
 - [BGH, Beschluss vom 06.04.2000 - IX ZR 160/98](ix-zr-160-98.md) — BGH, Beschluss vom 06.04.2000 - IX ZR 160/98
 - [BGH, Urteil vom 06.04.2000 - IX ZR 2/98](ix-zr-2-98.md) — Tatbestand:
 - [BGH, Urteil vom 06.04.2000 - IX ZR 442/98](ix-zr-442-98.md) — BGH, Urteil vom 06.04.2000 - IX ZR 442/98
-- [BGH, Beschluss vom 17.02.2000 - IX ZB 98/00](ix-zb-98-00.md) — BGH, Beschluss vom 17.02.2000 - IX ZB 98/00
-- [BGH, Beschluss vom 17.02.2000 - IX ZR 146/98](ix-zr-146-98.md) — BGH, Beschluss vom 17.02.2000 - IX ZR 146/98
+- [BGH, Urteil vom 21.03.2000 - IX ZR 183/98](ix-zr-183-98.md) — 3-
+- [BGH, Beschluss vom 17.02.2000 - IX ZB 98/00](ix-zb-98-00.md) — Die sofortige Beschwerde des Klägers ist zulässig (§§ 519 b Abs.
+- [BGH, Beschluss vom 17.02.2000 - IX ZR 146/98](ix-zr-146-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
 - [BGH, Urteil vom 17.02.2000 - IX ZR 32/99](ix-zr-32-99.md) — Tatbestand:
 - [BGH, Urteil vom 17.02.2000 - IX ZR 344/98](ix-zr-344-98.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 17.02.2000 - IX ZR 436/98](ix-zr-436-98.md) — einer von ihm verschuldeten unklaren Vertragsgestaltung.
@@ -29,8 +36,17 @@
 - [BGH, Beschluss vom 27.01.2000 - IX ZR 21/99](ix-zr-21-99.md) — BGH, Beschluss vom 27.01.2000 - IX ZR 21/99
 - [BGH, Urteil vom 27.01.2000 - IX ZR 354/98](ix-zr-354-98.md) — BGH, Urteil vom 27.01.2000 - IX ZR 354/98
 - [BGH, Beschluss vom 27.01.2000 - IX ZR 72/98](ix-zr-72-98.md) — BGH, Beschluss vom 27.01.2000 - IX ZR 72/98
-- [BGH, Beschluss vom 13.01.2000 - IX ZB 3/99](ix-zb-3-99.md) — BGH, Beschluss vom 13.01.2000 - IX ZB 3/99
-- [BGH, Beschluss vom 13.01.2000 - IX ZB 39/99](ix-zb-39-99.md) — BGH, Beschluss vom 13.01.2000 - IX ZB 39/99
+- [BGH, Beschluss vom 20.01.2000 - IX ZB 34/99](ix-zb-34-99.md) — Ein gesetzlicher Grund für die Zulassung der Revision liegt nicht vor (§ 219 Abs.
+- [BGH, Beschluss vom 20.01.2000 - IX ZR 10/99](ix-zr-10-99.md) — der Zahlung eines Betrages von 25.000 DM an die AVM GmbH keine Schadensersatz- oder sonstigen Forderungen zustehen -, wirft die Revision kei
+- [BGH, Beschluss vom 20.01.2000 - IX ZR 136/99](ix-zr-136-99.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 20.01.2000 - IX ZR 158/99](ix-zr-158-99.md) — Verschuldens bei den Vertragsverhandlungen besteht nicht, weil es das Recht des Käufers war, sich auf die Formnichtigkeit des Kaufvertrages
+- [BGH, Beschluss vom 20.01.2000 - IX ZR 28/99](ix-zr-28-99.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b Abs.
+- [BGH, Beschluss vom 20.01.2000 - IX ZR 428/98](ix-zr-428-98.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b Abs.
+- [BGH, Urteil vom 20.01.2000 - IX ZR 58/99](ix-zr-58-99.md) — Tatbestand:
+- [BGH, Beschluss vom 20.01.2000 - IX ZR 76/98](ix-zr-76-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 20.01.2000 - IX ZR 98/98](ix-zr-98-98.md) — Gewerbesteuer für die Jahre 1989 bis 1991 nebst Nachzahlungszinsen gemäß § 51 Fall 2 BRAO a.F. (= § 51 b Fall 2 BRAO n.F.) vor Einreichung d
+- [BGH, Beschluss vom 13.01.2000 - IX ZB 3/99](ix-zb-3-99.md) — Entziehung von Schmuck, Hausratssilber und einer Münzsammlung im Wiederbeschaffungswert von insgesamt 234.778,40 DM begehrt. Die Anspruchsan
+- [BGH, Beschluss vom 13.01.2000 - IX ZB 39/99](ix-zb-39-99.md) — Ein gesetzlicher Grund für die Zulassung der Revision liegt nicht vor (§ 219 Abs.
 - [BGH, Versäumnisurteil vom 13.01.2000 - IX ZR 11/99](ix-zr-11-99.md) — Tatbestand:
-- [BGH, Beschluss vom 13.01.2000 - IX ZR 5/99](ix-zr-5-99.md) — BGH, Beschluss vom 13.01.2000 - IX ZR 5/99
-- [BGH, Beschluss vom 13.01.2000 - IX ZR 55/99](ix-zr-55-99.md) — BGH, Beschluss vom 13.01.2000 - IX ZR 55/99
+- [BGH, Beschluss vom 13.01.2000 - IX ZR 5/99](ix-zr-5-99.md) — der dem Kläger abverlangten Änderungen, soweit diese nach dem Schreiben der Arbeitgeberin vom 1. April 1993 überhaupt noch galten; davon sin
+- [BGH, Beschluss vom 13.01.2000 - IX ZR 55/99](ix-zr-55-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).

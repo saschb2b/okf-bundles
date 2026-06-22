@@ -1,114 +1,195 @@
 # IX. Zivilsenat – 2006
 
-110 Entscheidung(en).
+191 Entscheidung(en).
 
 - [BGH, Beschluss vom 21.12.2006 - IX ZB 264/05](ix-zb-264-05.md) — BGH, Beschluss vom 21.12.2006 - IX ZB 264/05
-- [BGH, Beschluss vom 21.12.2006 - IX ZB 309/04](ix-zb-309-04.md) — BGH, Beschluss vom 21.12.2006 - IX ZB 309/04
+- [BGH, Beschluss vom 21.12.2006 - IX ZB 265/05](ix-zb-265-05.md) — einer Teilforderung
+- [BGH, Beschluss vom 21.12.2006 - IX ZB 309/04](ix-zb-309-04.md) — I. 1 Der Kläger macht Anwaltshonorar aus einer Stundenabrechnungsverein- barung geltend. Das Landgericht wies die Klage durch Urteil vom 18. Juni 2004 ab, das dem Kläger am 14 …
 - [BGH, Beschluss vom 21.12.2006 - IX ZB 60/06](ix-zb-60-06.md) — Besorgnis der Befangenheit abgelehnt. Das
+- [BGH, Urteil vom 21.12.2006 - IX ZR 66/05](ix-zr-66-05.md) — liegenden Anspruch erstrecken. BGH, Urteil vom 21. Dezember 2006 - IX ZR 66/05 - LG Kleve AG Moers -2- -3- Der IX. Zivilsenat des Bundesgerichtshofs hat auf die mündliche …
 - [BGH, Beschluss vom 14.12.2006 - IX ZA 38/06](ix-za-38-06.md) — BGH, Beschluss vom 14.12.2006 - IX ZA 38/06
 - [BGH, Urteil vom 14.12.2006 - IX ZR 194/05](ix-zr-194-05.md) — Tatbestand:
-- [BGH, Beschluss vom 14.12.2006 - IX ZR 236/03](ix-zr-236-03.md) — BGH, Beschluss vom 14.12.2006 - IX ZR 236/03
+- [BGH, Beschluss vom 14.12.2006 - IX ZR 220/05](ix-zr-220-05.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
+- [BGH, Beschluss vom 14.12.2006 - IX ZR 236/03](ix-zr-236-03.md) — des nicht nachgelassenen
 - [BGH, Beschluss vom 14.12.2006 - IX ZR 34/05](ix-zr-34-05.md) — BGH, Beschluss vom 14.12.2006 - IX ZR 34/05
 - [BGH, Beschluss vom 07.12.2006 - IX ZB 11/06](ix-zb-11-06.md) — BGH, Beschluss vom 07.12.2006 - IX ZB 11/06
+- [BGH, Beschluss vom 07.12.2006 - IX ZB 257/05](ix-zb-257-05.md) — Fehlens eines gesetzlichen Vertreters.
 - [BGH, Beschluss vom 07.12.2006 - IX ZB 82/06](ix-zb-82-06.md) — BGH, Beschluss vom 07.12.2006 - IX ZB 82/06
 - [BGH, Beschluss vom 07.12.2006 - IX ZR 157/04](ix-zr-157-04.md) — BGH, Beschluss vom 07.12.2006 - IX ZR 157/04
+- [BGH, Urteil vom 07.12.2006 - IX ZR 157/05](ix-zr-157-05.md) — Tatbestand:
 - [BGH, Beschluss vom 07.12.2006 - IX ZR 173/03](ix-zr-173-03.md) — fehlerhafter Beratung im Zusammenhang mit der
+- [BGH, Urteil vom 07.12.2006 - IX ZR 37/04](ix-zr-37-04.md) — 3-
+- [BGH, Beschluss vom 23.11.2006 - IX ZB 291/05](ix-zb-291-05.md) — I. 1 Der beklagte Rechtsanwalt, der sich in erster Instanz selbst vertreten hatte, wurde durch Urteil des Landgerichts Göttingen vom 4. August 2005 zur Zahlung von 122.023,98 Euro …
+- [BGH, Urteil vom 23.11.2006 - IX ZR 141/04](ix-zr-141-04.md) — 3-
 - [BGH, Urteil vom 23.11.2006 - IX ZR 21/03](ix-zr-21-03.md) — verloren hätte (Fortführung von BGH, Urt. v. 16. Dezember 2004 - IX ZR 295/00, WM 2005, 950, 951).
 - [BGH, Beschluss vom 23.11.2006 - IX ZR 33/06](ix-zr-33-06.md) — BGH, Beschluss vom 23.11.2006 - IX ZR 33/06
+- [BGH, Beschluss vom 16.11.2006 - IX ZA 26/06](ix-za-26-06.md) — ist eine zusätzliche Überprüfung gerichtlicher Entscheidun-
+- [BGH, Beschluss vom 16.11.2006 - IX ZA 32/06](ix-za-32-06.md) — Prozesskostenhilfe kann dem Antragsteller nicht gewährt werden, weil das beabsichtigte Rechtsmittel keine Aussicht auf Erfolg hat (§ 114 Satz 1 ZPO).
 - [BGH, Beschluss vom 16.11.2006 - IX ZB 302/05](ix-zb-302-05.md) — BGH, Beschluss vom 16.11.2006 - IX ZB 302/05
-- [BGH, Beschluss vom 26.10.2006 - IX ZB 176/05](ix-zb-176-05.md) — BGH, Beschluss vom 26.10.2006 - IX ZB 176/05
+- [BGH, Beschluss vom 16.11.2006 - IX ZB 57/06](ix-zb-57-06.md) — der Begründung einer arbeitsrechtlichen Masseverbindlichkeit, die hernach nicht aus der Masse erfüllt werden kann, ist der Rechtsweg zu den
+- [BGH, Urteil vom 16.11.2006 - IX ZR 135/05](ix-zr-135-05.md) — Tatbestand:
+- [BGH, Beschluss vom 09.11.2006 - IX ZA 27/06](ix-za-27-06.md) — Wegfalls des Eröffnungsgrundes
+- [BGH, Beschluss vom 09.11.2006 - IX ZB 305/05](ix-zb-305-05.md) — Ob die Gegenvorstellung zulässig ist, kann dahingestellt bleiben.
+- [BGH, Beschluss vom 09.11.2006 - IX ZR 170/06](ix-zr-170-06.md) — vorsätzlicher
+- [BGH, Beschluss vom 09.11.2006 - IX ZR 25/04](ix-zr-25-04.md) — Die Nichtzulassungsbeschwerden sind zulässig (§ 544 ZPO); sie sind jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat -3- (§ 543 Abs.
+- [BGH, Beschluss vom 09.11.2006 - IX ZR 251/03](ix-zr-251-03.md) — Die Nichtzulassungsbeschwerde ist statthaft und auch im Übrigen zuläs- sig (§ 544 ZPO).
+- [BGH, Beschluss vom 26.10.2006 - IX ZB 155/05](ix-zb-155-05.md) — I. 1 Das Amtsgericht eröffnete mit Beschluss vom 23. November 2004 über den Nachlass des verstorbenen Schuldners das Insolvenzverfahren und bestell- te den Insolvenzverwalter …
+- [BGH, Beschluss vom 26.10.2006 - IX ZB 176/05](ix-zb-176-05.md) — I. 1 Der Kläger, ein Rechtsanwalt, ist Verwalter im Insolvenzverfahren über das Vermögen der D. GmbH (fortan: Schuldnerin). Er nimmt die Beklagte unter dem Gesichtspunkt der …
 - [BGH, Beschluss vom 26.10.2006 - IX ZB 244/04](ix-zb-244-04.md) — BGH, Beschluss vom 26.10.2006 - IX ZB 244/04
+- [BGH, Beschluss vom 26.10.2006 - IX ZB 78/06](ix-zb-78-06.md) — Die statthafte (§ 522 Abs. 1 Satz 4, § 574 Abs. 1 Satz 1 Nr. 1 ZPO) Rechtsbeschwerde ist unzulässig, weil sie nicht fristgerecht bei dem Rechtsbe- schwerdegericht durch einen bei …
 - [BGH, Beschluss vom 26.10.2006 - IX ZB 95/06](ix-zb-95-06.md) — BGH, Beschluss vom 26.10.2006 - IX ZB 95/06
+- [BGH, Beschluss vom 26.10.2006 - IX ZR 148/04](ix-zr-148-04.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordert eine Entscheidung des …
+- [BGH, Beschluss vom 12.10.2006 - IX ZA 30/06](ix-za-30-06.md) — I. 1 Das Amtsgericht - Insolvenzgericht - hat den Antrag der Schuldnerin ab- gelehnt, einen Betrag in Höhe von 213,35 €, den sie aus bezogenen Sozialhilfe- leistungen angespart …
+- [BGH, Beschluss vom 12.10.2006 - IX ZB 191/05](ix-zb-191-05.md) — vorzeitiger Beendigung des vereinfachten Insolvenzverfahrens setzt nicht eine vergleichsweise kurze Verfahrensdauer voraus.
+- [BGH, Beschluss vom 12.10.2006 - IX ZB 294/05](ix-zb-294-05.md) — eines nachträglichen Zahlungseingangs von
 - [BGH, Beschluss vom 12.10.2006 - IX ZB 34/05](ix-zb-34-05.md) — BGH, Beschluss vom 12.10.2006 - IX ZB 34/05
 - [BGH, Beschluss vom 12.10.2006 - IX ZB 54/06](ix-zb-54-06.md) — BGH, Beschluss vom 12.10.2006 - IX ZB 54/06
 - [BGH, Beschluss vom 12.10.2006 - IX ZB 9/05](ix-zb-9-05.md) — BGH, Beschluss vom 12.10.2006 - IX ZB 9/05
+- [BGH, Beschluss vom 12.10.2006 - IX ZB 96/06](ix-zb-96-06.md) — Die Eingabe vom 1. Juni 2006 ist als Rechtsbeschwerde zu behandeln und als solche nicht statthaft, weil die Rechtsbeschwerde weder nach dem Ge- setz allgemein eröffnet, noch vom …
+- [BGH, Beschluss vom 12.10.2006 - IX ZR 105/03](ix-zr-105-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung des Rechts …
+- [BGH, Urteil vom 12.10.2006 - IX ZR 108/03](ix-zr-108-03.md) — Tatbestand:
 - [BGH, Beschluss vom 12.10.2006 - IX ZR 213/04](ix-zr-213-04.md) — BGH, Beschluss vom 12.10.2006 - IX ZR 213/04
+- [BGH, Beschluss vom 12.10.2006 - IX ZR 219/04](ix-zr-219-04.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung des Rechts …
+- [BGH, Urteil vom 12.10.2006 - IX ZR 228/03](ix-zr-228-03.md) — Tatbestand:
 - [BGH, Beschluss vom 28.09.2006 - IX ZA 16/04](ix-za-16-04.md) — BGH, Beschluss vom 28.09.2006 - IX ZA 16/04
 - [BGH, Beschluss vom 28.09.2006 - IX ZA 20/06](ix-za-20-06.md) — BGH, Beschluss vom 28.09.2006 - IX ZA 20/06
+- [BGH, Beschluss vom 28.09.2006 - IX ZB 212/03](ix-zb-212-03.md) — I. 1 Die W. GmbH & Co. KG (fortan: Schuldnerin) stellte am 19. Mai 1999 Antrag auf Eröffnung des Insol- venzverfahrens. Mit Beschluss vom 26. Mai 1999 bestellte das Amtsgericht - …
+- [BGH, Beschluss vom 28.09.2006 - IX ZB 230/05](ix-zb-230-05.md) — I. 1 Die Schuldnerin war eine aus den weiteren Beteiligten zu 1 und zu 2 ge- bildete Gesellschaft bürgerlichen Rechts. Ihr Vermögen bestand im Wesentli- chen aus zwei …
+- [BGH, Beschluss vom 28.09.2006 - IX ZB 52/06](ix-zb-52-06.md) — I. 1 Die unbedingt eingelegte Rechtsbeschwerde ist schon deshalb als unzu- lässig zu verwerfen, weil sie nicht durch einen beim Bundesgerichtshof zuge- lassenen Rechtsanwalt …
 - [BGH, Urteil vom 28.09.2006 - IX ZR 136/05](ix-zr-136-05.md) — Tatbestand:
 - [BGH, Beschluss vom 28.09.2006 - IX ZR 274/03](ix-zr-274-03.md) — BGH, Beschluss vom 28.09.2006 - IX ZR 274/03
+- [BGH, Urteil vom 28.09.2006 - IX ZR 98/05](ix-zr-98-05.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2006 - IX ZA 23/06](ix-za-23-06.md) — Die beabsichtigte Rechtsverfolgung hat keine Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 127/05](ix-zb-127-05.md) — 1. Über das Vermögen des Schuldners ist am 12. Februar 2004 das In- solvenzverfahren eröffnet worden. Der (weitere) Beteiligte zu 2 ist zum Insol- venzverwalter bestellt worden …
 - [BGH, Beschluss vom 21.09.2006 - IX ZB 187/05](ix-zb-187-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 187/05
 - [BGH, Beschluss vom 21.09.2006 - IX ZB 239/05](ix-zb-239-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 239/05
 - [BGH, Beschluss vom 21.09.2006 - IX ZB 24/06](ix-zb-24-06.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 24/06
-- [BGH, Beschluss vom 21.09.2006 - IX ZB 287/05](ix-zb-287-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 287/05
-- [BGH, Beschluss vom 21.09.2006 - IX ZB 31/04](ix-zb-31-04.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 31/04
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 287/05](ix-zb-287-05.md) — I. 1 Der Schuldner stellte am 19. Dezember 2000 Antrag auf Eröffnung des Insolvenzverfahrens und Erteilung der Restschuldbefreiung. Am 5. Januar 2003 eröffnete das …
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 288/05](ix-zb-288-05.md) — I. 1 Der Schuldner stellte am 19. Dezember 2000 Antrag auf Eröffnung des Insolvenzverfahrens und Erteilung der Restschuldbefreiung. Am 3. Dezember 2002 beantragte er die …
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 31/04](ix-zb-31-04.md) — I. 1 Auf Antrag der Schuldnerin hat das Insolvenzgericht durch Beschluss vom 27. Februar 2002 das Insolvenzverfahren eröffnet. Im Schlusstermin vom 9. Dezember 2003 hat es die …
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 7/06](ix-zb-7-06.md) — "grob fahrlässige(r) Verlet-
+- [BGH, Beschluss vom 21.09.2006 - IX ZR 119/05](ix-zr-119-05.md) — Die Anhörungsrüge ist unbegründet. Die Gerichte sind nach Art. 103 Abs. 1 GG verpflichtet, das Vorbringen der Parteien zur Kenntnis zu nehmen und in Erwägung zu ziehen. Hingegen …
 - [BGH, Beschluss vom 21.09.2006 - IX ZR 139/05](ix-zr-139-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZR 139/05
 - [BGH, Beschluss vom 21.09.2006 - IX ZR 187/05](ix-zr-187-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZR 187/05
+- [BGH, Beschluss vom 21.09.2006 - IX ZR 19/03](ix-zr-19-03.md) — inkongruenter Befriedi-
+- [BGH, Beschluss vom 21.09.2006 - IX ZR 197/05](ix-zr-197-05.md) — der Verschiedenheit mehrerer in einer Klage zusammengefasster, prozessual selbständiger Ansprüche ein Grundurteil nur unter eingeschränkten
+- [BGH, Urteil vom 21.09.2006 - IX ZR 23/05](ix-zr-23-05.md) — Tatbestand:
 - [BGH, Urteil vom 21.09.2006 - IX ZR 235/04](ix-zr-235-04.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2006 - IX ZR 236/04](ix-zr-236-04.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordert eine Entscheidung des …
 - [BGH, Beschluss vom 21.09.2006 - IX ZR 25/05](ix-zr-25-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZR 25/05
 - [BGH, Urteil vom 21.09.2006 - IX ZR 89/05](ix-zr-89-05.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2006 - IX ZR 95/03](ix-zr-95-03.md) — Die Nichtzulassungsbeschwerde ist statthaft und auch im Übrigen zuläs- sig (§ 544 ZPO).
 - [BGH, Urteil vom 10.08.2006 - IX ZR 28/05](ix-zr-28-05.md) — der Mängel an dem Bauwerk nur eine Insolvenzforderung zusteht.
 - [BGH, Beschluss vom 27.07.2006 - IX ZB 12/06](ix-zb-12-06.md) — BGH, Beschluss vom 27.07.2006 - IX ZB 12/06
 - [BGH, Beschluss vom 27.07.2006 - IX ZB 141/05](ix-zb-141-05.md) — BGH, Beschluss vom 27.07.2006 - IX ZB 141/05
 - [BGH, Beschluss vom 27.07.2006 - IX ZB 171/05](ix-zb-171-05.md) — BGH, Beschluss vom 27.07.2006 - IX ZB 171/05
+- [BGH, Beschluss vom 27.07.2006 - IX ZB 204/04](ix-zb-204-04.md) — offener Forderungen
 - [BGH, Beschluss vom 27.07.2006 - IX ZB 243/05](ix-zb-243-05.md) — BGH, Beschluss vom 27.07.2006 - IX ZB 243/05
 - [BGH, Beschluss vom 20.07.2006 - IX ZA 12/06](ix-za-12-06.md) — BGH, Beschluss vom 20.07.2006 - IX ZA 12/06
 - [BGH, Beschluss vom 20.07.2006 - IX ZR 179/05](ix-zr-179-05.md) — BGH, Beschluss vom 20.07.2006 - IX ZR 179/05
+- [BGH, Urteil vom 20.07.2006 - IX ZR 77/05](ix-zr-77-05.md) — Tatbestand:
+- [BGH, Urteil vom 20.07.2006 - IX ZR 94/03](ix-zr-94-03.md) — Tatbestand:
+- [BGH, Beschluss vom 13.07.2006 - IX ZB 104/05](ix-zb-104-05.md) — I. 1 Am 23. Juni 2004 stellte die weitere Beteiligte zu 1 gegen den Schuldner Antrag auf Eröffnung des Insolvenzverfahrens. Mit Beschluss vom 13. Juli 2004 ordnete das Amtsgericht …
 - [BGH, Beschluss vom 13.07.2006 - IX ZB 108/04](ix-zb-108-04.md) — BGH, Beschluss vom 13.07.2006 - IX ZB 108/04
 - [BGH, Beschluss vom 13.07.2006 - IX ZB 117/04](ix-zb-117-04.md) — geändert werden.
+- [BGH, Beschluss vom 13.07.2006 - IX ZB 194/04](ix-zb-194-04.md) — I. 1 Das Insolvenzgericht hat in dem auf Antrag des weiteren Beteiligten we- gen rückständiger Steuern eingeleiteten Insolvenzantragsverfahren Siche- rungsmaßnahmen getroffen und …
+- [BGH, Beschluss vom 13.07.2006 - IX ZB 27/04](ix-zb-27-04.md) — Die Rechtsbeschwerde ist nach § 574 Abs. 1 Satz 1 Nr. 1, § 7 InsO statthaft. Sie ist jedoch unzulässig, weil die Voraussetzungen des § 574 Abs. 2 ZPO nicht gegeben sind. 2 1 …
 - [BGH, Beschluss vom 13.07.2006 - IX ZB 288/03](ix-zb-288-03.md) — BGH, Beschluss vom 13.07.2006 - IX ZB 288/03
+- [BGH, Urteil vom 13.07.2006 - IX ZR 90/05](ix-zr-90-05.md) — Tatbestand:
+- [BGH, Beschluss vom 06.07.2006 - IX ZA 5/06](ix-za-5-06.md) — 1. Die von den Antragstellern beabsichtigte Rechtsbeschwerde im eige- nen Namen hat keine Aussicht auf Erfolg (§ 114 ZPO). Die Befugnis zur Rechtsbeschwerde setzt voraus, dass die …
 - [BGH, Beschluss vom 06.07.2006 - IX ZB 261/04](ix-zb-261-04.md) — Schadens an Körper und Gesundheit ab. Der
 - [BGH, Beschluss vom 06.07.2006 - IX ZB 56/06](ix-zb-56-06.md) — BGH, Beschluss vom 06.07.2006 - IX ZB 56/06
 - [BGH, Beschluss vom 06.07.2006 - IX ZR 131/05](ix-zr-131-05.md) — BGH, Beschluss vom 06.07.2006 - IX ZR 131/05
 - [BGH, Beschluss vom 06.07.2006 - IX ZR 188/05](ix-zr-188-05.md) — BGH, Beschluss vom 06.07.2006 - IX ZR 188/05
 - [BGH, Beschluss vom 29.06.2006 - IX ZA 17/05](ix-za-17-05.md) — BGH, Beschluss vom 29.06.2006 - IX ZA 17/05
 - [BGH, Beschluss vom 29.06.2006 - IX ZA 7/04](ix-za-7-04.md) — BGH, Beschluss vom 29.06.2006 - IX ZA 7/04
-- [BGH, Beschluss vom 29.06.2006 - IX ZB 19/06](ix-zb-19-06.md) — BGH, Beschluss vom 29.06.2006 - IX ZB 19/06
+- [BGH, Beschluss vom 29.06.2006 - IX ZB 19/06](ix-zb-19-06.md) — Der Senat hat die Rechtsbeschwerde der Schuldnerin aus den Gründen des Senatsbeschlusses vom 18.
 - [BGH, Beschluss vom 29.06.2006 - IX ZB 197/04](ix-zb-197-04.md) — BGH, Beschluss vom 29.06.2006 - IX ZB 197/04
-- [BGH, Beschluss vom 29.06.2006 - IX ZB 43/06](ix-zb-43-06.md) — BGH, Beschluss vom 29.06.2006 - IX ZB 43/06
+- [BGH, Beschluss vom 29.06.2006 - IX ZB 43/06](ix-zb-43-06.md) — Die Rechtsbeschwerde ist gemäß § 574 Abs. 1 Satz 1 Nr. 1, § 522 Abs. 1 Satz 4 ZPO statthaft, aber unzulässig, weil sie nicht binnen einer Notfrist von einem Monat nach Zustellung …
+- [BGH, Beschluss vom 29.06.2006 - IX ZB 46/06](ix-zb-46-06.md) — Die als Rechtsbeschwerde zu behandelnde Eingabe vom 30.
 - [BGH, Beschluss vom 29.06.2006 - IX ZR 149/05](ix-zr-149-05.md) — BGH, Beschluss vom 29.06.2006 - IX ZR 149/05
-- [BGH, Beschluss vom 29.06.2006 - IX ZR 163/05](ix-zr-163-05.md) — BGH, Beschluss vom 29.06.2006 - IX ZR 163/05
+- [BGH, Beschluss vom 29.06.2006 - IX ZR 168/04](ix-zr-168-04.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordert eine Entscheidung des …
 - [BGH, Beschluss vom 29.06.2006 - IX ZR 176/04](ix-zr-176-04.md) — BGH, Beschluss vom 29.06.2006 - IX ZR 176/04
+- [BGH, Beschluss vom 29.06.2006 - IX ZR 43/04](ix-zr-43-04.md) — des Einzelfallcharakters der
 - [BGH, Beschluss vom 29.06.2006 - IX ZR 75/06](ix-zr-75-06.md) — BGH, Beschluss vom 29.06.2006 - IX ZR 75/06
+- [BGH, Beschluss vom 13.06.2006 - IX ZA 29/05](ix-za-29-05.md) — offensichtlicher Unrichtigkeit zu berichtigen.
 - [BGH, Beschluss vom 13.06.2006 - IX ZA 8/06](ix-za-8-06.md) — BGH, Beschluss vom 13.06.2006 - IX ZA 8/06
 - [BGH, Beschluss vom 13.06.2006 - IX ZB 220/05](ix-zb-220-05.md) — BGH, Beschluss vom 13.06.2006 - IX ZB 220/05
+- [BGH, Beschluss vom 13.06.2006 - IX ZB 238/05](ix-zb-238-05.md) — rückständiger Sozialver-
+- [BGH, Beschluss vom 13.06.2006 - IX ZB 262/05](ix-zb-262-05.md) — Zah-
+- [BGH, Beschluss vom 18.05.2006 - IX ZB 103/05](ix-zb-103-05.md) — I. 1 Die Anträge des Schuldners vom 23. Juni 2000 auf Eröffnung des Verbraucherinsolvenzverfahrens über sein Vermögen sowie auf Erteilung der Restschuldbefreiung gingen am 26 …
 - [BGH, Beschluss vom 18.05.2006 - IX ZB 205/05](ix-zb-205-05.md) — BGH, Beschluss vom 18.05.2006 - IX ZB 205/05
-- [BGH, Beschluss vom 18.05.2006 - IX ZB 268/05](ix-zb-268-05.md) — BGH, Beschluss vom 18.05.2006 - IX ZB 268/05
-- [BGH, Beschluss vom 18.05.2006 - IX ZR 61/05](ix-zr-61-05.md) — BGH, Beschluss vom 18.05.2006 - IX ZR 61/05
-- [BGH, Beschluss vom 11.05.2006 - IX ZR 80/05](ix-zr-80-05.md) — BGH, Beschluss vom 11.05.2006 - IX ZR 80/05
-- [BGH, Beschluss vom 04.05.2006 - IX ZA 26/04](ix-za-26-04.md) — BGH, Beschluss vom 04.05.2006 - IX ZA 26/04
-- [BGH, Beschluss vom 04.05.2006 - IX ZB 202/05](ix-zb-202-05.md) — BGH, Beschluss vom 04.05.2006 - IX ZB 202/05
+- [BGH, Beschluss vom 18.05.2006 - IX ZB 268/05](ix-zb-268-05.md) — der Unzu-
+- [BGH, Beschluss vom 18.05.2006 - IX ZR 1/03](ix-zr-1-03.md) — Die Nichtzulassungsbeschwerde ist statthaft und auch im Übrigen zuläs- sig (§ 544 ZPO).
+- [BGH, Urteil vom 18.05.2006 - IX ZR 53/05](ix-zr-53-05.md) — Tatbestand:
+- [BGH, Beschluss vom 18.05.2006 - IX ZR 61/05](ix-zr-61-05.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordert eine Entscheidung des …
+- [BGH, Beschluss vom 11.05.2006 - IX ZB 249/04](ix-zb-249-04.md) — I. 1 Aufgrund Eigenantrags bestellte das Amtsgericht mit Beschluss vom 20. September 2002 die (weitere) Beteiligte zur vorläufigen Verwalterin im In- solvenzeröffnungsverfahren …
+- [BGH, Beschluss vom 11.05.2006 - IX ZR 80/05](ix-zr-80-05.md) — Die Nichtzulassungsbeschwerde ist statthaft und auch im Übrigen zuläs- sig (§ 544 ZPO).
+- [BGH, Beschluss vom 04.05.2006 - IX ZA 26/04](ix-za-26-04.md) — Die durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Beklagten eingetretene Verfahrensunterbrechung nach § 240 ZPO bezieht sich nicht auf das hier vorliegende …
+- [BGH, Beschluss vom 04.05.2006 - IX ZB 202/05](ix-zb-202-05.md) — I. 1 In dem Insolvenzverfahren über das Vermögen des Schuldners führte der Insolvenzverwalter dessen Betrieb fort. Der Schuldner war ohne weitere Vergütung im Betrieb tätig. Der …
 - [BGH, Beschluss vom 04.05.2006 - IX ZR 152/05](ix-zr-152-05.md) — BGH, Beschluss vom 04.05.2006 - IX ZR 152/05
-- [BGH, Beschluss vom 04.05.2006 - IX ZR 243/04](ix-zr-243-04.md) — BGH, Beschluss vom 04.05.2006 - IX ZR 243/04
+- [BGH, Beschluss vom 04.05.2006 - IX ZR 243/04](ix-zr-243-04.md) — Verletzung insolvenzspezifischer Pflichten
 - [BGH, Beschluss vom 13.04.2006 - IX ZA 1/04](ix-za-1-04.md) — BGH, Beschluss vom 13.04.2006 - IX ZA 1/04
+- [BGH, Beschluss vom 13.04.2006 - IX ZB 118/04](ix-zb-118-04.md) — rückständiger Gesamtsozialver-
+- [BGH, Beschluss vom 13.04.2006 - IX ZR 154/05](ix-zr-154-05.md) — Da die Nichtzulassungsbeschwerdeschrift vom 1.
 - [BGH, Beschluss vom 13.04.2006 - IX ZR 173/02](ix-zr-173-02.md) — BGH, Beschluss vom 13.04.2006 - IX ZR 173/02
 - [BGH, Beschluss vom 13.04.2006 - IX ZR 275/02](ix-zr-275-02.md) — BGH, Beschluss vom 13.04.2006 - IX ZR 275/02
+- [BGH, Beschluss vom 06.04.2006 - IX ZB 109/05](ix-zb-109-05.md) — I. 1 Am 12. Dezember 2003 wurde der (weitere) Beteiligte zum vorläufigen Verwalter im Insolvenzeröffnungsverfahren über das Vermögen des Schuldners bestellt. Das …
 - [BGH, Beschluss vom 06.04.2006 - IX ZB 170/05](ix-zb-170-05.md) — BGH, Beschluss vom 06.04.2006 - IX ZB 170/05
+- [BGH, Beschluss vom 06.04.2006 - IX ZB 289/04](ix-zb-289-04.md) — der nach Ansicht des Schuldners unberechtigten Einleitung
+- [BGH, Beschluss vom 06.04.2006 - IX ZR 163/05](ix-zr-163-05.md) — Verjährung
+- [BGH, Beschluss vom 06.04.2006 - IX ZR 240/04](ix-zr-240-04.md) — I. 1 Die Voraussetzungen für die Zulassung der Revision liegen nicht vor, und die Revision hat keine Aussicht auf Erfolg. 2 1. Die Revision der Klägerin erweist sich als …
 - [BGH, Beschluss vom 05.04.2006 - IX ZB 144/05](ix-zb-144-05.md) — BGH, Beschluss vom 05.04.2006 - IX ZB 144/05
 - [BGH, Beschluss vom 05.04.2006 - IX ZB 169/04](ix-zb-169-04.md) — BGH, Beschluss vom 05.04.2006 - IX ZB 169/04
 - [BGH, Beschluss vom 05.04.2006 - IX ZB 49/05](ix-zb-49-05.md) — BGH, Beschluss vom 05.04.2006 - IX ZB 49/05
 - [BGH, Beschluss vom 05.04.2006 - IX ZR 245/03](ix-zr-245-03.md) — BGH, Beschluss vom 05.04.2006 - IX ZR 245/03
+- [BGH, Beschluss vom 30.03.2006 - IX ZB 15/05](ix-zb-15-05.md) — eines Rechenfehlers auf 9.041,02 € reduziert worden. In den Gründen
 - [BGH, Beschluss vom 30.03.2006 - IX ZB 36/05](ix-zb-36-05.md) — BGH, Beschluss vom 30.03.2006 - IX ZB 36/05
+- [BGH, Versäumnisurteil vom 30.03.2006 - IX ZR 84/05](ix-zr-84-05.md) — Tatbestand:
 - [BGH, Urteil vom 23.03.2006 - IX ZR 140/03](ix-zr-140-03.md) — der Gewerbesteuer steuermindernd geltend zu machen.
+- [BGH, Beschluss vom 23.03.2006 - IX ZR 310/01](ix-zr-310-01.md) — Die nach § 321a Abs. 1 und 2 ZPO statthafte, in der gesetzlichen Form und Frist eingelegte Anhörungsrüge ist unbegründet. 2 Die rechtlichen Erwägungen in dem Senatsbeschluss vom …
+- [BGH, Beschluss vom 09.03.2006 - IX ZA 13/04](ix-za-13-04.md) — I. 1 Der Gläubiger begehrt die Eröffnung des Insolvenzverfahrens über das Vermögen der Schuldnerin. In den Vorinstanzen blieb er hiermit erfolglos. Der mit der Rechtsbeschwerde …
+- [BGH, Beschluss vom 09.03.2006 - IX ZA 31/05](ix-za-31-05.md) — Die beantragte Prozesskostenhilfe ist zu versagen, weil die beabsichtigte Durchführung der Rechtsbeschwerde keine Aussicht auf Erfolg hat, § 114 Satz 1 ZPO, § 4 InsO.
 - [BGH, Beschluss vom 09.03.2006 - IX ZB 161/05](ix-zb-161-05.md) — BGH, Beschluss vom 09.03.2006 - IX ZB 161/05
 - [BGH, Beschluss vom 09.03.2006 - IX ZB 19/05](ix-zb-19-05.md) — BGH, Beschluss vom 09.03.2006 - IX ZB 19/05
+- [BGH, Beschluss vom 09.03.2006 - IX ZB 209/04](ix-zb-209-04.md) — gerichtlich festge-
+- [BGH, Beschluss vom 09.03.2006 - IX ZB 257/04](ix-zb-257-04.md) — I. 1 Der (weitere) Beteiligte war zum Treuhänder im Verbraucherinsolvenz- verfahren über das Vermögen der Schuldnerin bestellt worden, das am 16. Ja- nuar 2004 eröffnet worden …
 - [BGH, Beschluss vom 09.03.2006 - IX ZB 83/05](ix-zb-83-05.md) — BGH, Beschluss vom 09.03.2006 - IX ZB 83/05
 - [BGH, Beschluss vom 09.03.2006 - IX ZR 113/03](ix-zr-113-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 113/03
 - [BGH, Beschluss vom 09.03.2006 - IX ZR 115/03](ix-zr-115-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 115/03
 - [BGH, Beschluss vom 09.03.2006 - IX ZR 133/03](ix-zr-133-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 133/03
 - [BGH, Beschluss vom 09.03.2006 - IX ZR 191/03](ix-zr-191-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 191/03
 - [BGH, Beschluss vom 09.03.2006 - IX ZR 286/03](ix-zr-286-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 286/03
+- [BGH, Urteil vom 09.03.2006 - IX ZR 55/04](ix-zr-55-04.md) — Tatbestand:
 - [BGH, Beschluss vom 09.03.2006 - IX ZR 67/04](ix-zr-67-04.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 67/04
-- [BGH, Beschluss vom 02.03.2006 - IX ZB 225/04](ix-zb-225-04.md) — BGH, Beschluss vom 02.03.2006 - IX ZB 225/04
-- [BGH, Beschluss vom 02.03.2006 - IX ZB 23/06](ix-zb-23-06.md) — BGH, Beschluss vom 02.03.2006 - IX ZB 23/06
+- [BGH, Beschluss vom 02.03.2006 - IX ZB 225/04](ix-zb-225-04.md) — I. 1 Der Schuldner, über dessen Vermögen mit Beschluss des Insolvenzge- richts vom 18. Mai 2001 das Insolvenzverfahren eröffnet wurde, hat mit Schrei- ben vom 28. November 2002 …
+- [BGH, Beschluss vom 02.03.2006 - IX ZB 23/06](ix-zb-23-06.md) — I. 1 Das Landgericht Colmar hat den Schuldner am 9. Oktober 2003 zur Zah- lung einer Geldsumme an die Gläubigerin verurteilt. Auf deren Antrag hat der Vorsitzende der 15 …
 - [BGH, Urteil vom 02.03.2006 - IX ZR 15/05](ix-zr-15-05.md) — Tatbestand:
+- [BGH, Beschluss vom 02.03.2006 - IX ZR 217/05](ix-zr-217-05.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordert eine Entscheidung des …
 - [BGH, Beschluss vom 02.03.2006 - IX ZR 24/05](ix-zr-24-05.md) — BGH, Beschluss vom 02.03.2006 - IX ZR 24/05
 - [BGH, Beschluss vom 16.02.2006 - IX ZR 254/02](ix-zr-254-02.md) — BGH, Beschluss vom 16.02.2006 - IX ZR 254/02
 - [BGH, Beschluss vom 16.02.2006 - IX ZR 32/02](ix-zr-32-02.md) — BGH, Beschluss vom 16.02.2006 - IX ZR 32/02
 - [BGH, Beschluss vom 09.02.2006 - IX ZB 196/04](ix-zb-196-04.md) — deren Vertretung in einem vorausgegangenen Rechtsstreit vor dem
 - [BGH, Beschluss vom 09.02.2006 - IX ZB 200/04](ix-zb-200-04.md) — BGH, Beschluss vom 09.02.2006 - IX ZB 200/04
-- [BGH, Beschluss vom 09.02.2006 - IX ZB 218/04](ix-zb-218-04.md) — BGH, Beschluss vom 09.02.2006 - IX ZB 218/04
+- [BGH, Beschluss vom 09.02.2006 - IX ZB 218/04](ix-zb-218-04.md) — I. 1 Am 3. März 2003 eröffnete das Insolvenzgericht das Verbraucherinsol- venzverfahren über das Vermögen des Schuldners; zugleich stundete es ihm die Verfahrenskosten. Am 17 …
 - [BGH, Urteil vom 09.02.2006 - IX ZR 151/04](ix-zr-151-04.md) — Tatbestand:
+- [BGH, Beschluss vom 09.02.2006 - IX ZR 36/05](ix-zr-36-05.md) — der
 - [BGH, Beschluss vom 02.02.2006 - IX ZB 279/04](ix-zb-279-04.md) — BGH, Beschluss vom 02.02.2006 - IX ZB 279/04
+- [BGH, Beschluss vom 02.02.2006 - IX ZB 73/05](ix-zb-73-05.md) — I. 1 Das Amtsgericht hat den Beschwerdeführer aus seinem Amt als Mitglied des Gläubigerausschusses entlassen. Das Landgericht hat die hiergegen einge- legte sofortige Beschwerde …
 - [BGH, Beschluss vom 02.02.2006 - IX ZB 78/04](ix-zb-78-04.md) — BGH, Beschluss vom 02.02.2006 - IX ZB 78/04
-- [BGH, Beschluss vom 02.02.2006 - IX ZR 296/01](ix-zr-296-01.md) — BGH, Beschluss vom 02.02.2006 - IX ZR 296/01
 - [BGH, Urteil vom 02.02.2006 - IX ZR 46/05](ix-zr-46-05.md) — Tatbestand:
+- [BGH, Urteil vom 02.02.2006 - IX ZR 82/02](ix-zr-82-02.md) — Tatbestand:
+- [BGH, Beschluss vom 26.01.2006 - IX ZB 222/04](ix-zb-222-04.md) — Die Rechtsbeschwerde ist gemäß §§ 7, 34 Abs.
+- [BGH, Beschluss vom 26.01.2006 - IX ZB 261/05](ix-zb-261-05.md) — Die Rechtsbeschwerde des Beklagten, an dessen Prozessfähigkeit keine Zweifel bestehen, ist gemäß § 522 Abs.
 - [BGH, Beschluss vom 26.01.2006 - IX ZR 204/02](ix-zr-204-02.md) — BGH, Beschluss vom 26.01.2006 - IX ZR 204/02
+- [BGH, Beschluss vom 19.01.2006 - IX ZA 26/05](ix-za-26-05.md) — I. 1 Auf Antrag vom 15. Februar 2000 wurde am 7. März 2000 das Insol- venzverfahren über das Vermögen des Antragstellers (i.F.: Schuldner) eröffnet. Mit schriftlicher Erklärung …
+- [BGH, Beschluss vom 19.01.2006 - IX ZB 14/03](ix-zb-14-03.md) — I. 1 Der Rechtsbeschwerdeführer war bis Juli 1999 Geschäftsführer der Schuldnerin, über deren Vermögen am 18. September 2000 die Eröffnung des Insolvenzverfahrens beantragt wurde …
 - [BGH, Beschluss vom 19.01.2006 - IX ZB 52/03](ix-zb-52-03.md) — BGH, Beschluss vom 19.01.2006 - IX ZB 52/03
 - [BGH, Urteil vom 19.01.2006 - IX ZR 154/03](ix-zr-154-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.01.2006 - IX ZR 232/01](ix-zr-232-01.md) — BGH, Urteil vom 19.01.2006 - IX ZR 232/01
 - [BGH, Beschluss vom 19.01.2006 - IX ZR 262/03](ix-zr-262-03.md) — BGH, Beschluss vom 19.01.2006 - IX ZR 262/03
-- [BGH, Beschluss vom 12.01.2006 - IX ZB 29/04](ix-zb-29-04.md) — BGH, Beschluss vom 12.01.2006 - IX ZB 29/04
+- [BGH, Beschluss vom 12.01.2006 - IX ZB 223/04](ix-zb-223-04.md) — Die Anhörungsrüge ist unbegründet. 2 1. Die Gerichte sind nach Art. 103 Abs. 1 GG verpflichtet, das Vorbringen der Verfahrensbeteiligten zur Kenntnis zu nehmen und in Erwägung zu …
+- [BGH, Beschluss vom 12.01.2006 - IX ZB 29/04](ix-zb-29-04.md) — der desolaten Kassenführung
+- [BGH, Beschluss vom 12.01.2006 - IX ZR 151/02](ix-zr-151-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO), hat aber kei- nen Erfolg.
 - [BGH, Beschluss vom 12.01.2006 - IX ZR 238/04](ix-zr-238-04.md) — ist der Anspruch ohne weiteres aus §§ 30, 31 GmbHG begründet. Auf
-- [BGH, Beschluss vom 12.01.2006 - IX ZR 35/05](ix-zr-35-05.md) — BGH, Beschluss vom 12.01.2006 - IX ZR 35/05
 - [BGH, Beschluss vom 12.01.2006 - IX ZR 83/02](ix-zr-83-02.md) — BGH, Beschluss vom 12.01.2006 - IX ZR 83/02

@@ -1,25 +1,42 @@
 # VI. Zivilsenat – 2009
 
-21 Entscheidung(en).
+38 Entscheidung(en).
 
+- [BGH, Urteil vom 15.12.2009 - VI ZR 227/08](vi-zr-227-08.md) — Tatbestand:
+- [BGH, Urteil vom 15.12.2009 - VI ZR 228/08](vi-zr-228-08.md) — Tatbestand:
 - [BGH, Urteil vom 08.12.2009 - VI ZR 119/09](vi-zr-119-09.md) — Tatbestand:
+- [BGH, Beschluss vom 24.11.2009 - VI ZB 36/09](vi-zb-36-09.md) — I. 1 Das Landgericht hat mit Urteil vom 18. Dezember 2008, den Prozessbe- vollmächtigten des Klägers zugestellt am 29. Dezember 2008, die Klage abge- wiesen. Am 27. Januar 2009 …
 - [BGH, Urteil vom 24.11.2009 - VI ZR 219/08](vi-zr-219-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.11.2009 - VI ZR 217/08](vi-zr-217-08.md) — BGH, Beschluss vom 10.11.2009 - VI ZR 217/08
 - [BGH, Urteil vom 10.11.2009 - VI ZR 247/08](vi-zr-247-08.md) — eines ärztlichen Behandlungsfehlers begründenden Umständen.
 - [BGH, Beschluss vom 20.10.2009 - VI ZB 53/08](vi-zb-53-08.md) — BGH, Beschluss vom 20.10.2009 - VI ZB 53/08
+- [BGH, Urteil vom 20.10.2009 - VI ZR 53/09](vi-zr-53-09.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2009 - VI ZR 288/08](vi-zr-288-08.md) — verspäteter Insolvenzantragstellung auf Ersatz von ihr geleisteten Insolvenzgeldes aus § 826 BGB in Anspruch, so stellt sich der Einwand des
 - [BGH, Beschluss vom 12.10.2009 - VI ZB 57/09](vi-zb-57-09.md) — BGH, Beschluss vom 12.10.2009 - VI ZB 57/09
+- [BGH, Beschluss vom 15.09.2009 - VI ZR 8/09](vi-zr-8-09.md) — BGH, Beschluss vom 15.09.2009 - VI ZR 8/09
 - [BGH, Beschluss vom 11.08.2009 - VI ZR 215/08](vi-zr-215-08.md) — BGH, Beschluss vom 11.08.2009 - VI ZR 215/08
+- [BGH, Beschluss vom 04.08.2009 - VI ZR 174/08](vi-zr-174-08.md) — Ab-
+- [BGH, Urteil vom 30.06.2009 - VI ZR 310/08](vi-zr-310-08.md) — Tatbestand:
+- [BGH, Beschluss vom 30.06.2009 - VI ZR 340/08](vi-zr-340-08.md) — hartnäckiger
 - [BGH, Urteil vom 16.06.2009 - VI ZR 107/08](vi-zr-107-08.md) — Tatbestand:
+- [BGH, Beschluss vom 15.06.2009 - VI ZA 12/08](vi-za-12-08.md) — Der Antragsteller hat sein Ablehnungsgesuch damit begründet, dass die abgelehnten Richter in einem Parallelverfahren VI ZA 22/08 den dort gestell- ten Antrag des Beklagten und …
+- [BGH, Urteil vom 09.06.2009 - VI ZR 110/08](vi-zr-110-08.md) — Tatbestand:
+- [BGH, Beschluss vom 09.06.2009 - VI ZR 138/08](vi-zr-138-08.md) — 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
 - [BGH, Beschluss vom 26.05.2009 - VI ZB 71/08](vi-zb-71-08.md) — BGH, Beschluss vom 26.05.2009 - VI ZB 71/08
 - [BGH, Beschluss vom 19.05.2009 - VI ZA 10/09](vi-za-10-09.md) — BGH, Beschluss vom 19.05.2009 - VI ZA 10/09
+- [BGH, Urteil vom 19.05.2009 - VI ZR 160/08](vi-zr-160-08.md) — Tatbestand:
 - [BGH, Urteil vom 12.05.2009 - VI ZR 294/08](vi-zr-294-08.md) — der Vorenthaltung von Gesamtsozialversicherungsbeiträgen.
 - [BGH, Urteil vom 21.04.2009 - VI ZR 304/07](vi-zr-304-07.md) — Tatbestand:
 - [BGH, Beschluss vom 17.03.2009 - VI ZB 14/08](vi-zb-14-08.md) — BGH, Beschluss vom 17.03.2009 - VI ZB 14/08
 - [BGH, Beschluss vom 17.03.2009 - VI ZB 20/08](vi-zb-20-08.md) — ihres Schadens aus einem Verkehrsunfall Schadensersatzansprüche geltend
-- [BGH, Beschluss vom 16.03.2009 - VI ZR 317/07](vi-zr-317-07.md) — BGH, Beschluss vom 16.03.2009 - VI ZR 317/07
+- [BGH, Beschluss vom 17.03.2009 - VI ZR 145/08](vi-zr-145-08.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
+- [BGH, Urteil vom 17.03.2009 - VI ZR 176/08](vi-zr-176-08.md) — Tatbestand:
 - [BGH, Urteil vom 10.03.2009 - VI ZR 261/07](vi-zr-261-07.md) — Tatbestand:
 - [BGH, Urteil vom 10.03.2009 - VI ZR 39/08](vi-zr-39-08.md) — Tatbestand:
-- [BGH, Beschluss vom 17.02.2009 - VI ZB 60/07](vi-zb-60-07.md) — BGH, Beschluss vom 17.02.2009 - VI ZB 60/07
+- [BGH, Beschluss vom 17.02.2009 - VI ZB 33/07](vi-zb-33-07.md) — I. 1 Das Landgericht hat den Beklagten mit Urteil vom 23. Februar 2007 un- ter Klageabweisung im Übrigen verurteilt, an die Klägerin 22.065,91 € nebst Zinsen zu zahlen. Gegen das …
+- [BGH, Beschluss vom 17.02.2009 - VI ZB 60/07](vi-zb-60-07.md) — I. 1 Der Kläger nimmt die Beklagten auf Schadensersatz aufgrund eines Ver- kehrsunfalls vom 4. Juli 2005 in Anspruch. Auf den ursprünglich geltend ge- machten Schaden von 3.053,61 …
 - [BGH, Beschluss vom 17.02.2009 - VI ZB 75/08](vi-zb-75-08.md) — der Versäumung der Beru-
 - [BGH, Urteil vom 10.02.2009 - VI ZR 28/08](vi-zr-28-08.md) — Tatbestand:
-- [BGH, Beschluss vom 21.01.2009 - VI ZR 170/08](vi-zr-170-08.md) — BGH, Beschluss vom 21.01.2009 - VI ZR 170/08
+- [BGH, Beschluss vom 21.01.2009 - VI ZR 170/08](vi-zr-170-08.md) — 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
 - [BGH, Urteil vom 13.01.2009 - VI ZR 205/08](vi-zr-205-08.md) — Tatbestand:
+- [BGH, Beschluss vom 13.01.2009 - VI ZR 43/08](vi-zr-43-08.md) — BGH, Beschluss vom 13.01.2009 - VI ZR 43/08

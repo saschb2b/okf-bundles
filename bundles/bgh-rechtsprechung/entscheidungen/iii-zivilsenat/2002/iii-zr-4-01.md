@@ -9,7 +9,7 @@ datum: 2002-04-04
 aktenzeichen: "III ZR 4/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:13:17Z
+timestamp: 2026-06-22T14:05:01Z
 ---
 # Volltext
 

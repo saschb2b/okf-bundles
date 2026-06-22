@@ -1,22 +1,39 @@
 # 2. Strafsenat – 2001
 
-61 Entscheidung(en).
+83 Entscheidung(en).
 
 - [BGH, Beschluss vom 20.12.2001 - 2 ARs 322/01](2-ars-322-01.md) — Fahrens ohne Fahrerlaubnis
 - [BGH, Beschluss vom 20.12.2001 - 2 StR 509/01](2-str-509-01.md) — Betrugs
 - [BGH, Beschluss vom 20.12.2001 - 2 StR 513/01](2-str-513-01.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 20.12.2001 - 2 StR 518/01](2-str-518-01.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 20.12.2001 - 2 StR 529/01](2-str-529-01.md) — Vergewaltigung
+- [BGH, Beschluss vom 07.12.2001 - 2 ARs 335/01](2-ars-335-01.md) — uneidlicher Falschaussage, falscher Versicherung an Eides Statt Az.: 55 Js 1580/98 Staatsanwaltschaft Berlin Az.: 246 Ds 513/00 Amtsgericht
+- [BGH, Beschluss vom 07.12.2001 - 2 StR 24/01](2-str-24-01.md) — Totschlags
+- [BGH, Beschluss vom 07.12.2001 - 2 StR 463/01](2-str-463-01.md) — sexueller Nötigung u. a.
 - [BGH, Beschluss vom 05.12.2001 - 2 ARs 321/01](2-ars-321-01.md) — Willkürlichkeit für unwirksam. Die Abgabe durch das Amtsgericht Köln an das Wohnsitzgericht ist gemäß § 462 a Abs. 2 Satz 2 StPO wirksam und
 - [BGH, Beschluss vom 05.12.2001 - 2 ARs 331/01](2-ars-331-01.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a. hier: Antrag auf Gerichtsstandsbestimmung
 - [BGH, Urteil vom 05.12.2001 - 2 StR 273/01](2-str-273-01.md) — erpresserischen Menschenraubes u.a.
 - [BGH, Urteil vom 05.12.2001 - 2 StR 353/01](2-str-353-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 05.12.2001 - 2 StR 410/01](2-str-410-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 23.11.2001 - 2 StR 456/01](2-str-456-01.md) — Totschlags u.a.
+- [BGH, Beschluss vom 31.10.2001 - 2 ARs 271/01](2-ars-271-01.md) — Betrugs u.a.
+- [BGH, Beschluss vom 31.10.2001 - 2 ARs 296/01](2-ars-296-01.md) — Vortäuschens einer Straftat u.a.
+- [BGH, Urteil vom 31.10.2001 - 2 StR 296/01](2-str-296-01.md) — schweren Raubes u.a.
+- [BGH, Urteil vom 31.10.2001 - 2 StR 315/01](2-str-315-01.md) — Verabredung eines Verbrechens u.a.
+- [BGH, Beschluss vom 24.10.2001 - 2 StR 372/00](2-str-372-00.md) — Vergewaltigung u.a. hier: Bewilligung einer Pauschvergütung
+- [BGH, Beschluss vom 24.10.2001 - 2 StR 422/01](2-str-422-01.md) — Zuhälterei
+- [BGH, Beschluss vom 24.10.2001 - 2 StR 430/01](2-str-430-01.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 19.10.2001 - 2 StR 349/01](2-str-349-01.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 10.10.2001 - 2 StR 376/01](2-str-376-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 10.10.2001 - 2 StR 405/01](2-str-405-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 10.10.2001 - 2 StR 406/01](2-str-406-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 26.09.2001 - 2 ARs 258/01](2-ars-258-01.md) — Der Generalbundesanwalt hat in seiner Antragsschrift vom 30.
+- [BGH, Beschluss vom 26.09.2001 - 2 StR 340/01](2-str-340-01.md) — Veröffentlichung: ja StPO §§ 4 Abs. 1, 269 Die Verfahrenstrennung nach Eröffnung des Hauptverfahrens läßt die einmal begründete Zuständigkeit des höherrangigen Gerichts nicht …
+- [BGH, Beschluss vom 26.09.2001 - 2 StR 368/01](2-str-368-01.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 26.09.2001 - 2 StR 380/01](2-str-380-01.md) — Mordes u.a.
+- [BGH, Beschluss vom 26.09.2001 - 2 StR 383/01](2-str-383-01.md) — Betrugs u.a.
 - [BGH, Urteil vom 19.09.2001 - 2 StR 240/01](2-str-240-01.md) — schweren Raubes
 - [BGH, Beschluss vom 05.09.2001 - 2 ARs 228/01](2-ars-228-01.md) — Betrugs u.a.
-- [BGH, Beschluss vom 05.09.2001 - 2 ARs 280/00](2-ars-280-00.md) — BGH, Beschluss vom 05.09.2001 - 2 ARs 280/00
 - [BGH, Beschluss vom 25.07.2001 - 2 ARs 187/01](2-ars-187-01.md) — BGH, Beschluss vom 25.07.2001 - 2 ARs 187/01
 - [BGH, Beschluss vom 25.07.2001 - 2 StR 19/01](2-str-19-01.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 25.07.2001 - 2 StR 218/01](2-str-218-01.md) — erpresserischen Menschenraubes zu 6., 9. u. 10. wegen Beihilfe zum erpresserischen Menschenraub
@@ -24,6 +41,7 @@
 - [BGH, Beschluss vom 25.07.2001 - 2 StR 287/01](2-str-287-01.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 25.07.2001 - 2 StR 289/01](2-str-289-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 25.07.2001 - 2 StR 299/01](2-str-299-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 18.07.2001 - 2 StR 286/01](2-str-286-01.md) — Totschlags
 - [BGH, Beschluss vom 04.07.2001 - 2 ARs 137/01](2-ars-137-01.md) — Diebstahls im besonders schweren Fall
 - [BGH, Beschluss vom 04.07.2001 - 2 ARs 178/01](2-ars-178-01.md) — BGH, Beschluss vom 04.07.2001 - 2 ARs 178/01
 - [BGH, Beschluss vom 04.07.2001 - 2 StR 247/01](2-str-247-01.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
@@ -50,6 +68,8 @@
 - [BGH, Urteil vom 18.04.2001 - 2 StR 492/00](2-str-492-00.md) — Totschlags u.a.
 - [BGH, Urteil vom 18.04.2001 - 2 StR 492/01](2-str-492-01.md) — Totschlags u.a.
 - [BGH, Beschluss vom 18.04.2001 - 2 StR 51/01](2-str-51-01.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Urteil vom 06.04.2001 - 2 StR 356/00](2-str-356-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 06.04.2001 - 2 StR 75/01](2-str-75-01.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Urteil vom 23.03.2001 - 2 StR 369/00](2-str-369-00.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 23.03.2001 - 2 StR 48/01](2-str-48-01.md) — Betruges
 - [BGH, Urteil vom 23.03.2001 - 2 StR 488/00](2-str-488-00.md) — Verletzung des Dienstgeheimnisses
@@ -61,5 +81,7 @@
 - [BGH, Beschluss vom 14.03.2001 - 2 StR 4/01](2-str-4-01.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 14.03.2001 - 2 StR 54/01](2-str-54-01.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 14.03.2001 - 2 StR 66/01](2-str-66-01.md) — Hehlerei u.a.
+- [BGH, Beschluss vom 09.03.2001 - 2 StR 30/01](2-str-30-01.md) — Strafvereitelung
+- [BGH, Beschluss vom 17.01.2001 - 2 ARs 370/00](2-ars-370-00.md) — Die Abgabe an das Amtsgericht Berlin-Tiergarten ist nicht zweckmäßig.
 - [BGH, Beschluss vom 10.01.2001 - 2 StR 496/00](2-str-496-00.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 10.01.2001 - 2 StR 500/00](2-str-500-00.md) — versuchter Erpressung

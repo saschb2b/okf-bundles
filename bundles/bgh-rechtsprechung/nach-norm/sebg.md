@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SEBG"
 description: "BGH-Entscheidungen zu SEBG, geordnet nach Vorschrift."
 tags: [register, navigation, sebg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

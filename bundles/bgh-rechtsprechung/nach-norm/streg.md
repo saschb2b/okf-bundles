@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu StrEG"
 description: "BGH-Entscheidungen zu StrEG, geordnet nach Vorschrift."
 tags: [register, navigation, streg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

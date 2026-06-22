@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu OWiG"
 description: "BGH-Entscheidungen zu OWiG, geordnet nach Vorschrift."
 tags: [register, navigation, owig]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift
@@ -20,6 +20,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des OWiG auslegen
 | § OWiG | [BGH, Beschluss vom 10.06.2020 - 3 StR 52/20](../entscheidungen/3-strafsenat/2020/3-str-52-20.md) |
 | § OWiG | [BGH, Beschluss vom 16.12.2015 - 4 StR 227/15](../entscheidungen/4-strafsenat/2015/4-str-227-15.md) |
 | § OWiG | [BGH, Urteil vom 07.07.2020 - 1 StR 242/19](../entscheidungen/1-strafsenat/2020/1-str-242-19.md) |
+| § OWiG | [BGH, Urteil vom 05.12.2000 - 1 StR 411/00](../entscheidungen/1-strafsenat/2000/1-str-411-00.md) |
 | § OWiG | [BGH, Beschluss vom 08.05.2013 - 4 StR 336/12](../entscheidungen/4-strafsenat/2013/4-str-336-12.md) |
 | § OWiG | [BGH, Beschluss vom 13.02.2025 - 2 ARs 13/25](../entscheidungen/2-strafsenat/2025/2-ars-13-25.md); [BGH, Beschluss vom 27.03.2012 - 2 ARs 65/12](../entscheidungen/2-strafsenat/2012/2-ars-65-12.md) |
 | § OWiG | [BGH, Beschluss vom 18.07.2012 - 4 StR 603/11](../entscheidungen/4-strafsenat/2012/4-str-603-11.md) |

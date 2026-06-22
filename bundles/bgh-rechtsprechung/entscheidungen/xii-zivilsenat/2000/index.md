@@ -1,11 +1,22 @@
 # XII. Zivilsenat – 2000
 
-26 Entscheidung(en).
+49 Entscheidung(en).
 
+- [BGH, Beschluss vom 06.12.2000 - XII ZB 193/00](xii-zb-193-00.md) — I. Durch Urteil des Landgerichts vom 15. Juni 2000 wurde der Beklagte zur Zahlung von 64.484,91 DM nebst Zinsen und zur Räumung und Herausgabe von gewerblich genutzten Räumen an …
+- [BGH, Beschluss vom 06.12.2000 - XII ZR 167/98](xii-zr-167-98.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 06.12.2000 - XII ZR 219/98](xii-zr-219-98.md) — Tatbestand:
+- [BGH, Urteil vom 04.10.2000 - XII ZR 44/98](xii-zr-44-98.md) — Tatbestand: Mit Formularmietvertrag vom 5. September 1995 vermieteten die Kläger den Beklagten Geschäftsräume in einem neu errichteten Einka
 - [BGH, Beschluss vom 31.08.2000 - XII ZR 103/98](xii-zr-103-98.md) — BGH, Beschluss vom 31.08.2000 - XII ZR 103/98
 - [BGH, Beschluss vom 16.08.2000 - XII ZB 122/00](xii-zb-122-00.md) — BGH, Beschluss vom 16.08.2000 - XII ZB 122/00
 - [BGH, Beschluss vom 16.08.2000 - XII ZB 136/00](xii-zb-136-00.md) — BGH, Beschluss vom 16.08.2000 - XII ZB 136/00
 - [BGH, Beschluss vom 16.08.2000 - XII ZB 65/00](xii-zb-65-00.md) — der Erfolgsaussicht hat er auf einen als Anlage beigefügten "Entwurf der Berufungsbegründung" verwiesen. Die Anlage ist mit "Be-
+- [BGH, Beschluss vom 19.07.2000 - XII ZB 178/99](xii-zb-178-99.md) — Die sofortige Beschwerde gegen den die Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Berufungsfrist versagenden Beschluß des Berufungsgerichts hat aus den …
+- [BGH, Beschluss vom 19.07.2000 - XII ZB 25/00](xii-zb-25-00.md) — fehlender Begründung des Rechtsmittels als unzulässig verworfen. Die am 3. November 1999 - und damit unabhängig von dem Fehlen einer formell
+- [BGH, Beschluss vom 19.07.2000 - XII ZB 80/98](xii-zb-80-98.md) — I. Die Beschwerdeführerin, für die eine Betreuerin unter anderem mit den Aufgabenbereichen der Gesundheitssorge und des Aufenthaltsbestimmungsrechts einschließlich der …
+- [BGH, Urteil vom 19.07.2000 - XII ZR 176/98](xii-zr-176-98.md) — Tatbestand:
+- [BGH, Beschluss vom 19.07.2000 - XII ZR 269/99](xii-zr-269-99.md) — Der Wert der Beschwer bemißt sich nach § 8 ZPO.
+- [BGH, Beschluss vom 28.06.2000 - XII ZB 157/99](xii-zb-157-99.md) — I. Der Kläger hat sich in einem Prozeßvergleich verpflichtet, monatlich an die Beklagte 1.103 DM nachehelichen Unterhalt und zu Händen der Beklagten 480 DM Kindesunterhalt zu …
+- [BGH, Urteil vom 28.06.2000 - XII ZR 55/98](xii-zr-55-98.md) — Tatbestand: Der Kläger verlangt von der Beklagten aus abgetretenem Recht der Firma J. F. G. Mietzins. Die Beklagte ist Mieterin, die Firma J
 - [BGH, Beschluss vom 21.06.2000 - XII ZB 12/97](xii-zb-12-97.md) — des Auskunftsbegehrens in der Hauptsache übereinstimmend für erledigt erklärt hatten, stellte die Antragsgegnerin den Antrag, den Antragstel
 - [BGH, Beschluss vom 21.06.2000 - XII ZB 93/00](xii-zb-93-00.md) — Versäumung der Beschwerdefrist unzulässig. a) Da der Beschluß des Oberlandesgerichts der Beklagten zu Händen ihres Prozeßbevollmächtigten am
 - [BGH, Urteil vom 21.06.2000 - XII ZR 153/98](xii-zr-153-98.md) — BGH, Urteil vom 21.06.2000 - XII ZR 153/98
@@ -13,18 +24,30 @@
 - [BGH, Beschluss vom 31.05.2000 - XII ZB 211/99](xii-zb-211-99.md) — BGH, Beschluss vom 31.05.2000 - XII ZB 211/99
 - [BGH, Urteil vom 31.05.2000 - XII ZR 119/98](xii-zr-119-98.md) — Tatbestand: Die Antragsgegnerin nimmt als Prozeßstandschafterin den Beklagten auf Kindesunterhalt ab Scheidung der Ehe in Anspruch. Die 1988
 - [BGH, Urteil vom 31.05.2000 - XII ZR 41/98](xii-zr-41-98.md) — Tatbestand: Die Klägerin hat von der Beklagten - der Generalmieterin - in einem damals noch nicht fertiggestellten Einkaufszentrum Räume zum
+- [BGH, Beschluss vom 17.05.2000 - XII ZR 314/99](xii-zr-314-99.md) — im Unter- und Erdgeschoß aufgetretener Feuchtigkeitsschäden kündigte der Kläger außerdem Mietminderung an und erhob Klage mit dem Antrag, di
+- [BGH, Urteil vom 17.05.2000 - XII ZR 344/97](xii-zr-344-97.md) — Tatbestand: Der Kläger war Miteigentümer eines im Wohnungsgrundbuch eingetragenen Grundstücks. Mit seinem Anteil war das Sondereigentum an e
+- [BGH, Urteil vom 17.05.2000 - XII ZR 88/98](xii-zr-88-98.md) — Tatbestand: Die Parteien streiten in einem Abänderungsverfahren um nachehelichen Unterhalt. Die erste 1967 geschlossene Ehe der Parteien wur
 - [BGH, Urteil vom 10.05.2000 - XII ZR 149/98](xii-zr-149-98.md) — Tatbestand:
 - [BGH, Beschluss vom 10.05.2000 - XII ZR 335/99](xii-zr-335-99.md) — BGH, Beschluss vom 10.05.2000 - XII ZR 335/99
 - [BGH, Beschluss vom 03.05.2000 - XII ZB 21/00](xii-zb-21-00.md) — BGH, Beschluss vom 03.05.2000 - XII ZB 21/00
 - [BGH, Urteil vom 03.05.2000 - XII ZR 42/98](xii-zr-42-98.md) — Tatbestand: Die V. GmbH vermietete im Jahre 1987 ein Geschäftshaus an den eingetragenen Verein G. . Nach dem schriftlichen Mietvertrag hatte
 - [BGH, Beschluss vom 03.05.2000 - XII ZR 81/98](xii-zr-81-98.md) — BGH, Beschluss vom 03.05.2000 - XII ZR 81/98
+- [BGH, Urteil vom 05.04.2000 - XII ZR 96/98](xii-zr-96-98.md) — Tatbestand: Die Klägerin nimmt den Beklagten auf Zahlung von nachehelichem Unterhalt in Anspruch. Die Ehe der Parteien ist seit Januar 1995
+- [BGH, Beschluss vom 01.03.2000 - XII ZB 8/00](xii-zb-8-00.md) — einer ausweislich seines Antrages seit nahezu einem Monat bekannten Terminskollision zu verlegen, stattgeben werde. Dies gilt um
+- [BGH, Versäumnisurteil vom 01.03.2000 - XII ZR 272/97](xii-zr-272-97.md) — Tatbestand: Die Kläger verlangen vom Beklagten rückständige Miete sowie Räumung und Herausgabe von gewerblich genutzten Räumen, die sie dem
+- [BGH, Beschluss vom 16.02.2000 - XII ZR 135/97](xii-zr-135-97.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 16.02.2000 - XII ZR 162/98](xii-zr-162-98.md) — des Erwerbs eigener Räume auf eine - etwa anzunehmende - Formnichtigkeit der Vereinbarung zu berufen, nachdem er sowohl im Jahr 1993 als auc
 - [BGH, Urteil vom 16.02.2000 - XII ZR 258/97](xii-zr-258-97.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 16.02.2000 - XII ZR 279/97](xii-zr-279-97.md) — Tatbestand:
 - [BGH, Beschluss vom 09.02.2000 - XII ZB 24/96](xii-zb-24-96.md) — BGH, Beschluss vom 09.02.2000 - XII ZB 24/96
 - [BGH, Beschluss vom 09.02.2000 - XII ZB 76/99](xii-zb-76-99.md) — BGH, Beschluss vom 09.02.2000 - XII ZB 76/99
 - [BGH, Urteil vom 09.02.2000 - XII ZR 202/97](xii-zr-202-97.md) — Tatbestand: Der Kläger nimmt den Beklagten u.a. wegen Forderungen aus einem Geschäftsraummietverhältnis in Anspruch. Der Beklagte, ein Recht
-- [BGH, Beschluss vom 02.02.2000 - XII ZB 175/96](xii-zb-175-96.md) — BGH, Beschluss vom 02.02.2000 - XII ZB 175/96
-- [BGH, Beschluss vom 02.02.2000 - XII ZB 59/99](xii-zb-59-99.md) — BGH, Beschluss vom 02.02.2000 - XII ZB 59/99
+- [BGH, Beschluss vom 02.02.2000 - XII ZB 175/96](xii-zb-175-96.md) — der gesetzlichen Rente gekürzte Anwartschaft auf Beamtenversorgung von 1.902,87 DM, jeweils monatlich und auf die Ehezeit bezogen. Auf seite
+- [BGH, Beschluss vom 02.02.2000 - XII ZB 59/99](xii-zb-59-99.md) — der Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen Stand beantragt und zur Begründung vorgetragen, aus Gründen, die nicht meh
 - [BGH, Urteil vom 02.02.2000 - XII ZR 25/98](xii-zr-25-98.md) — Tatbestand: Die Klägerin verlangt von der Beklagten gemäß § 1368 BGB Zahlung des Betrages, den die Beklagte aus der Rückzahlung von Wertpapi
-- [BGH, Beschluss vom 12.01.2000 - XII ZA 21/99](xii-za-21-99.md) — BGH, Beschluss vom 12.01.2000 - XII ZA 21/99
-- [BGH, Beschluss vom 12.01.2000 - XII ZR 37/98](xii-zr-37-98.md) — BGH, Beschluss vom 12.01.2000 - XII ZR 37/98
+- [BGH, Beschluss vom 26.01.2000 - XII ZR 204/97](xii-zr-204-97.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 19.01.2000 - XII ZB 16/96](xii-zb-16-96.md) — I. Die Parteien haben am 24. Februar 1968 die Ehe geschlossen, aus der zwei Kinder hervorgegangen sind. Auf den der Ehefrau (Antragsgegnerin) am 10. November 1982 zugestellten …
+- [BGH, Beschluss vom 19.01.2000 - XII ZB 202/99](xii-zb-202-99.md) — Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen Stand zu gewähren. Nach § 233 ZPO ist einer Partei wegen Versäumung (unter and
+- [BGH, Beschluss vom 19.01.2000 - XII ZB 22/99](xii-zb-22-99.md) — Versäumung der Frist zur Begründung der Berufung gegen das Urteil der 9. Zivilkammer des Landgerichts Halle vom 24. September 1998 Wiederein
+- [BGH, Beschluss vom 12.01.2000 - XII ZA 21/99](xii-za-21-99.md) — Die von dem Berufungsgericht zu § 11 des - individuell vereinbarten Gewerberaummietvertrages vom 25.
+- [BGH, Beschluss vom 12.01.2000 - XII ZR 37/98](xii-zr-37-98.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.

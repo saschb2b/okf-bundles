@@ -1,38 +1,78 @@
 # 1. Strafsenat – 2006
 
-34 Entscheidung(en).
+74 Entscheidung(en).
 
+- [BGH, Beschluss vom 20.12.2006 - 1 StR 540/06](1-str-540-06.md) — falscher uneidlicher Aussage u. a.
 - [BGH, Beschluss vom 20.12.2006 - 1 StR 595/06](1-str-595-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 19.12.2006 - 1 StR 583/06](1-str-583-06.md) — schweren sexuellen Missbrauchs von Kindern u.a.
-- [BGH, Beschluss vom 18.12.2006 - 1 StR 161/01](1-str-161-01.md) — Vergewaltigung u.a.
-- [BGH, Beschluss vom 22.11.2006 - 1 StR 180/06](1-str-180-06.md) — versuchten Totschlags
+- [BGH, Beschluss vom 05.12.2006 - 1 StR 561/06](1-str-561-06.md) — Vergewaltigung
+- [BGH, Beschluss vom 29.11.2006 - 1 StR 493/06](1-str-493-06.md) — zu 1.: Vergewaltigung u.a. zu 2.: Beihilfe zum Menschenhandel u.a.
+- [BGH, Beschluss vom 24.11.2006 - 1 StR 558/06](1-str-558-06.md) — Mordes
 - [BGH, Beschluss vom 10.11.2006 - 1 StR 483/06](1-str-483-06.md) — Entscheidung über die Anordnung der vorbehaltenen Sicherungsverwahrung
 - [BGH, Beschluss vom 09.11.2006 - 1 StR 360/06](1-str-360-06.md) — Geiselnahme u. a.
+- [BGH, Beschluss vom 09.11.2006 - 1 StR 474/06](1-str-474-06.md) — Verstoßes gegen das Betäubungsmittelgesetz
+- [BGH, Beschluss vom 08.11.2006 - 1 StR 421/06](1-str-421-06.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 08.11.2006 - 1 StR 441/06](1-str-441-06.md) — Diebstahls und Körperverletzung
+- [BGH, Beschluss vom 08.11.2006 - 1 StR 454/06](1-str-454-06.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 08.11.2006 - 1 StR 506/06](1-str-506-06.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Urteil vom 07.11.2006 - 1 StR 307/06](1-str-307-06.md) — versuchter gefährlicher Körperverletzung
+- [BGH, Beschluss vom 07.11.2006 - 1 StR 408/06](1-str-408-06.md) — Untreue
+- [BGH, Beschluss vom 27.10.2006 - 1 StR 501/06](1-str-501-06.md) — Körperverletzung mit Todesfolge u.a.
 - [BGH, Beschluss vom 25.10.2006 - 1 StR 384/06](1-str-384-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 25.10.2006 - 1 StR 424/06](1-str-424-06.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 24.10.2006 - 1 StR 503/06](1-str-503-06.md) — Mordes
+- [BGH, Urteil vom 16.10.2006 - 1 StR 180/06](1-str-180-06.md) — versuchten Totschlags
+- [BGH, Beschluss vom 11.10.2006 - 1 StR 270/06](1-str-270-06.md) — Mordes hier: Erinnerung gegen den Kostenansatz
+- [BGH, Beschluss vom 11.10.2006 - 1 StR 276/06](1-str-276-06.md) — gefährlicher Körperverletzung u.a
+- [BGH, Urteil vom 10.10.2006 - 1 StR 284/06](1-str-284-06.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 10.10.2006 - 1 StR 466/06](1-str-466-06.md) — schweren bandenmäßigen Diebstahls
+- [BGH, Beschluss vom 10.10.2006 - 1 StR 468/06](1-str-468-06.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 26.09.2006 - 1 StR 132/06](1-str-132-06.md) — Untreue
 - [BGH, Beschluss vom 29.08.2006 - 1 StR 285/06](1-str-285-06.md) — Strafvereitelung
 - [BGH, Beschluss vom 22.08.2006 - 1 StR 293/06](1-str-293-06.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 22.08.2006 - 1 StR 547/05](1-str-547-05.md) — Betruges u. a.
 - [BGH, Beschluss vom 09.08.2006 - 1 StR 252/06](1-str-252-06.md) — versuchter räuberischer Erpressung u.a.
 - [BGH, Urteil vom 09.08.2006 - 1 StR 50/06](1-str-50-06.md) — Untreue u. a.
+- [BGH, Beschluss vom 08.08.2006 - 1 StR 373/06](1-str-373-06.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 31.07.2006 - 1 StR 70/06](1-str-70-06.md) — Betrugs u.a.
 - [BGH, Beschluss vom 27.07.2006 - 1 StR 147/06](1-str-147-06.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 26.07.2006 - 1 StR 310/06](1-str-310-06.md) — Totschlags
 - [BGH, Beschluss vom 25.07.2006 - 1 StR 297/06](1-str-297-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 25.07.2006 - 1 StR 302/06](1-str-302-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 25.07.2006 - 1 StR 304/06](1-str-304-06.md) — schweren räuberischen Diebstahls u.a.
 - [BGH, Beschluss vom 13.07.2006 - 1 StR 208/06](1-str-208-06.md) — Betrugs u. a .
+- [BGH, Urteil vom 11.07.2006 - 1 StR 188/06](1-str-188-06.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 03.07.2006 - 1 StR 168/06](1-str-168-06.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern
 - [BGH, Urteil vom 27.06.2006 - 1 StR 113/06](1-str-113-06.md) — Totschlags
 - [BGH, Beschluss vom 22.06.2006 - 1 StR 167/06](1-str-167-06.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 21.06.2006 - 1 StR 220/06](1-str-220-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.06.2006 - 1 StR 169/06](1-str-169-06.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Urteil vom 01.06.2006 - 1 StR 32/06](1-str-32-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 31.05.2006 - 1 StR 202/06](1-str-202-06.md) — gewerbsmäßiger unerlaubter Abgabe von Betäubungsmitteln
+- [BGH, Beschluss vom 17.05.2006 - 1 StR 182/06](1-str-182-06.md) — schweren Bandendiebstahls u.a.
 - [BGH, Urteil vom 16.05.2006 - 1 StR 46/06](1-str-46-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 11.05.2006 - 1 StR 23/06](1-str-23-06.md) — Betruges u.a.
+- [BGH, Entscheidung vom 09.05.2006 - 1 StR 142/06](1-str-142-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 09.05.2006 - 1 StR 57/06](1-str-57-06.md) — § 55 Abs. 2 JGG unzulässig war.
+- [BGH, Beschluss vom 26.04.2006 - 1 StR 120/06](1-str-120-06.md) — versuchten Totschlags u.a.
+- [BGH, Urteil vom 25.04.2006 - 1 StR 519/05](1-str-519-05.md) — Untreue
+- [BGH, Urteil vom 06.04.2006 - 1 StR 78/06](1-str-78-06.md) — schwerer Brandstiftung u.a. hier: nachträgliche Anordnung der Sicherungsverwahrung
+- [BGH, Beschluss vom 24.03.2006 - 1 StR 27/06](1-str-27-06.md) — nachträglicher Anordnung der Sicherungsverwahrung
+- [BGH, Urteil vom 23.03.2006 - 1 StR 476/05](1-str-476-05.md) — nachträglicher Anordnung der Sicherungsverwahrung
 - [BGH, Beschluss vom 22.03.2006 - 1 StR 2/06](1-str-2-06.md) — Mordes
 - [BGH, Beschluss vom 08.03.2006 - 1 StR 34/06](1-str-34-06.md) — Vergewaltigung u.a.
-- [BGH, Beschluss vom 08.03.2006 - 1 StR 357/05](1-str-357-05.md) — Hehlerei u.a.
 - [BGH, Urteil vom 21.02.2006 - 1 StR 278/05](1-str-278-05.md) — vorsätzlicher Körperverletzung u.a.
+- [BGH, Urteil vom 08.02.2006 - 1 StR 523/05](1-str-523-05.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 07.02.2006 - 1 StR 22/06](1-str-22-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 07.02.2006 - 1 StR 504/05](1-str-504-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Entscheidung vom 07.02.2006 - 1 StR 555/05](1-str-555-05.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 07.02.2006 - 1 StR 584/05](1-str-584-05.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 07.02.2006 - 1 StR 647/95](1-str-647-95.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 25.01.2006 - 1 StR 438/05](1-str-438-05.md) — Betruges u.a.
+- [BGH, Urteil vom 24.01.2006 - 1 StR 357/05](1-str-357-05.md) — Hehlerei u.a.
+- [BGH, Urteil vom 24.01.2006 - 1 StR 362/05](1-str-362-05.md) — sexuellen Missbrauchs von Schutzbefohlenen
 - [BGH, Beschluss vom 24.01.2006 - 1 StR 561/05](1-str-561-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 19.01.2006 - 1 StR 409/05](1-str-409-05.md) — Vergewaltigung
 - [BGH, Beschluss vom 16.01.2006 - 1 StR 273/05](1-str-273-05.md) — schweren Raubes u. a.
-- [BGH, Beschluss vom 12.01.2006 - 1 StR 476/05](1-str-476-05.md) — nachträglicher Anordnung der Sicherungsverwahrung
+- [BGH, Beschluss vom 12.01.2006 - 1 StR 466/05](1-str-466-05.md) — gefährlicher Körperverletzung hier: Anfrage gemäß § 132 Abs. 3 GVG
+- [BGH, Beschluss vom 10.01.2006 - 1 StR 533/05](1-str-533-05.md) — versuchter Herbeiführung einer Sprengstoffexplosion

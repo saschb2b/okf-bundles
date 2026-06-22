@@ -1,42 +1,88 @@
 # 2. Strafsenat – 2009
 
-38 Entscheidung(en).
+84 Entscheidung(en).
 
+- [BGH, Beschluss vom 16.12.2009 - 2 StR 305/09](2-str-305-09.md) — schweren Raubes u. a.
 - [BGH, Urteil vom 16.12.2009 - 2 StR 446/09](2-str-446-09.md) — sexuellen Missbrauchs einer widerstandsunfähigen Person mit Todesfolge u. a.
 - [BGH, Beschluss vom 09.12.2009 - 2 StR 417/09](2-str-417-09.md) — sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 09.12.2009 - 2 StR 433/09](2-str-433-09.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 09.12.2009 - 2 StR 528/09](2-str-528-09.md) — Totschlags
+- [BGH, Beschluss vom 03.12.2009 - 2 StR 435/09](2-str-435-09.md) — Mordes
 - [BGH, Urteil vom 27.11.2009 - 2 StR 104/09](2-str-104-09.md) — Bestechlichkeit u. a.
+- [BGH, Beschluss vom 27.11.2009 - 2 StR 496/09](2-str-496-09.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 25.11.2009 - 2 StR 344/09](2-str-344-09.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 18.11.2009 - 2 StR 362/09](2-str-362-09.md) — besonders schwerer Vergewaltigung u. a.
 - [BGH, Beschluss vom 11.11.2009 - 2 StR 349/09](2-str-349-09.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 28.10.2009 - 2 StR 441/09](2-str-441-09.md) — schweren sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 23.10.2009 - 2 StR 398/09](2-str-398-09.md) — schweren sexuellen Missbrauchs einer widerstandsunfähigen Person u. a.
+- [BGH, Beschluss vom 21.10.2009 - 2 ARs 449/09](2-ars-449-09.md) — Die Staatsanwaltschaft Rottweil hat gegen den Angeschuldigten beim Amtsgericht - Schöffengericht - Tuttlingen Anklage erhoben, die Staatsanwalt- schaft Berlin beim Amtsgericht - …
 - [BGH, Urteil vom 14.10.2009 - 2 StR 205/09](2-str-205-09.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 30.09.2009 - 2 StR 329/09](2-str-329-09.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 23.09.2009 - 2 ARs 405/09](2-ars-405-09.md) — Betruges
 - [BGH, Beschluss vom 23.09.2009 - 2 ARs 418/09](2-ars-418-09.md) — schwerer Brandstiftung u. a.
+- [BGH, Beschluss vom 16.09.2009 - 2 ARs 318/09](2-ars-318-09.md) — Verstoßes gegen das Betäubungsmittelgesetz pp.
+- [BGH, Beschluss vom 16.09.2009 - 2 StR 259/09](2-str-259-09.md) — räuberischer Erpressung mit Todesfolge
 - [BGH, Beschluss vom 08.09.2009 - 2 StR 91/09](2-str-91-09.md) — gewerbs- und bandenmäßigen Betruges
+- [BGH, Beschluss vom 02.09.2009 - 2 StR 284/09](2-str-284-09.md) — Computerbetruges u.a.
+- [BGH, Beschluss vom 02.09.2009 - 2 StR 304/09](2-str-304-09.md) — Untreue
 - [BGH, Beschluss vom 26.08.2009 - 2 ARs 363/09](2-ars-363-09.md) — Rechtsbeugung Antragstellerin:
+- [BGH, Urteil vom 26.08.2009 - 2 StR 223/09](2-str-223-09.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 26.08.2009 - 2 StR 263/09](2-str-263-09.md) — schweren Raubes
+- [BGH, Beschluss vom 26.08.2009 - 2 StR 274/09](2-str-274-09.md) — versuchter Vergewaltigung u.a.
 - [BGH, Beschluss vom 19.08.2009 - 2 StR 301/09](2-str-301-09.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 12.08.2009 - 2 StR 165/09](2-str-165-09.md) — fahrlässiger Tötung
 - [BGH, Urteil vom 12.08.2009 - 2 StR 226/09](2-str-226-09.md) — schwerer Körperverletzung
 - [BGH, Urteil vom 12.08.2009 - 2 StR 262/09](2-str-262-09.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 31.07.2009 - 2 StR 95/09](2-str-95-09.md) — Untreue
 - [BGH, Beschluss vom 29.07.2009 - 2 StR 160/09](2-str-160-09.md) — Betrugs
+- [BGH, Beschluss vom 29.07.2009 - 2 StR 265/09](2-str-265-09.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 23.07.2009 - 2 StR 248/09](2-str-248-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 22.07.2009 - 2 StR 240/09](2-str-240-09.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 22.07.2009 - 2 StR 250/09](2-str-250-09.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 01.07.2009 - 2 StR 116/09](2-str-116-09.md) — Betrugs
+- [BGH, Beschluss vom 01.07.2009 - 2 StR 235/09](2-str-235-09.md) — (unerlaubter) Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 01.07.2009 - 2 StR 53/09](2-str-53-09.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 24.06.2009 - 2 ARs 231/09](2-ars-231-09.md) — Diebstahls u. a. Az.: 51 Ls - 4 Js 4876/07 Amtsgericht Limburg an der Lahn
 - [BGH, Beschluss vom 24.06.2009 - 2 StR 215/09](2-str-215-09.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 24.06.2009 - 2 StR 41/09](2-str-41-09.md) — Vergewaltigung
+- [BGH, Beschluss vom 17.06.2009 - 2 ARs 138/09](2-ars-138-09.md) — sexuellen Missbrauchs eines Kindes hier: Anfragebeschluss des 5. Strafsenats vom 10. März 2009 - 5 StR 460/08 -
+- [BGH, Beschluss vom 17.06.2009 - 2 StR 105/09](2-str-105-09.md) — Totschlags u. a.
 - [BGH, Urteil vom 10.06.2009 - 2 StR 103/09](2-str-103-09.md) — Körperverletzung mit Todesfolge u. a.
+- [BGH, Entscheidung vom 10.06.2009 - 2 StR 145/09](2-str-145-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Urteil vom 10.06.2009 - 2 StR 386/08](2-str-386-08.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 03.06.2009 - 2 StR 163/09](2-str-163-09.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 03.06.2009 - 2 StR 61/09](2-str-61-09.md) — Mordes
+- [BGH, Beschluss vom 27.05.2009 - 2 ARs 257/09](2-ars-257-09.md) — Betrugs
+- [BGH, Beschluss vom 27.05.2009 - 2 StR 168/09](2-str-168-09.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 27.05.2009 - 2 StR 177/09](2-str-177-09.md) — versuchten schweren Raubes u. a.
+- [BGH, Beschluss vom 20.05.2009 - 2 StR 106/09](2-str-106-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 20.05.2009 - 2 StR 85/09](2-str-85-09.md) — schweren Raubes u. a.
+- [BGH, Entscheidung vom 13.05.2009 - 2 StR 142/09](2-str-142-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 30.04.2009 - 2 StR 112/09](2-str-112-09.md) — sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 29.04.2009 - 2 StR 120/09](2-str-120-09.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 29.04.2009 - 2 StR 124/09](2-str-124-09.md) — besonders schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 29.04.2009 - 2 StR 34/09](2-str-34-09.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 22.04.2009 - 2 StR 102/09](2-str-102-09.md) — fahrlässiger Tötung u. a.
 - [BGH, Urteil vom 22.04.2009 - 2 StR 43/09](2-str-43-09.md) — Betrugs u. a.
+- [BGH, Beschluss vom 08.04.2009 - 2 StR 576/08](2-str-576-08.md) — gefährlicher Körperverletzung hier: Anhörungsrüge
 - [BGH, Beschluss vom 08.04.2009 - 2 StR 64/09](2-str-64-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 02.04.2009 - 2 StR 11/09](2-str-11-09.md) — Vergewaltigung
+- [BGH, Beschluss vom 01.04.2009 - 2 StR 330/08](2-str-330-08.md) — versuchten Mordes hier: Antrag auf Nachholung rechtlichen Gehörs
+- [BGH, Urteil vom 01.04.2009 - 2 StR 571/08](2-str-571-08.md) — versuchten Totschlags u. a.
 - [BGH, Urteil vom 01.04.2009 - 2 StR 601/08](2-str-601-08.md) — Totschlags
+- [BGH, Urteil vom 18.03.2009 - 2 StR 16/09](2-str-16-09.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 12.03.2009 - 2 ARs 562/08](2-ars-562-08.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 11.03.2009 - 2 ARs 101/09](2-ars-101-09.md) — Das Landgericht Münster, das am 12. Januar 2009 ein Verfahren gegen den Angeklagten eröffnet hat, ist bereit, das beim Amtsgericht - Strafrichter - Leverkusen anhängige Verfahren …
+- [BGH, Beschluss vom 11.03.2009 - 2 ARs 83/09](2-ars-83-09.md) — Das Amtsgericht Oberhausen hatte den Verurteilten am 7.
+- [BGH, Beschluss vom 04.03.2009 - 2 StR 25/09](2-str-25-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 25.02.2009 - 2 StR 46/09](2-str-46-09.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 18.02.2009 - 2 StR 593/08](2-str-593-08.md) — gewerbsmäßigen Bandenbetrugs
-- [BGH, Beschluss vom 13.02.2009 - 2 StR 479/08](2-str-479-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 11.02.2009 - 2 StR 528/08](2-str-528-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 04.02.2009 - 2 StR 544/08](2-str-544-08.md) — Mordes u. a.
-- [BGH, Beschluss vom 28.01.2009 - 2 ARs 547/08](2-ars-547-08.md) — BGH, Beschluss vom 28.01.2009 - 2 ARs 547/08
+- [BGH, Beschluss vom 04.02.2009 - 2 StR 586/08](2-str-586-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 28.01.2009 - 2 ARs 547/08](2-ars-547-08.md) — Gegen den Angeklagten ist ein Strafbefehl des Amtsgerichts Tiergarten ergangen.
 - [BGH, Beschluss vom 28.01.2009 - 2 StR 412/08](2-str-412-08.md) — Totschlags u. a.
 - [BGH, Urteil vom 28.01.2009 - 2 StR 511/08](2-str-511-08.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Urteil vom 28.01.2009 - 2 StR 531/08](2-str-531-08.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 14.01.2009 - 2 StR 516/08](2-str-516-08.md) — Betrugs
 - [BGH, Beschluss vom 14.01.2009 - 2 StR 565/08](2-str-565-08.md) — versuchten Totschlags u. a.

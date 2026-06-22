@@ -1,47 +1,88 @@
 # 3. Strafsenat – 2009
 
-49 Entscheidung(en).
+90 Entscheidung(en).
 
 - [BGH, Beschluss vom 17.12.2009 - 3 StR 521/09](3-str-521-09.md) — Misshandlung von Schutzbefohlenen
 - [BGH, Beschluss vom 03.12.2009 - 3 StR 253/09](3-str-253-09.md) — Untreue
+- [BGH, Beschluss vom 01.12.2009 - 3 StR 432/09](3-str-432-09.md) — Volksverhetzung u. a.
 - [BGH, Beschluss vom 01.12.2009 - 3 StR 458/09](3-str-458-09.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 01.12.2009 - 3 StR 474/09](3-str-474-09.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 01.12.2009 - 3 StR 479/09](3-str-479-09.md) — Vergewaltigung
 - [BGH, Beschluss vom 24.11.2009 - 3 StR 327/09](3-str-327-09.md) — versuchten Mordes u. a.
 - [BGH, Beschluss vom 17.11.2009 - 3 ARs 16/09](3-ars-16-09.md) — Betruges hier: Anfragebeschluss des 1. Strafsenats vom 2. September 2009
 - [BGH, Beschluss vom 17.11.2009 - 3 StR 437/09](3-str-437-09.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 17.11.2009 - 3 StR 441/09](3-str-441-09.md) — sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 17.11.2009 - 3 StR 455/09](3-str-455-09.md) — Beihilfe zur Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 29.10.2009 - 3 StR 141/09](3-str-141-09.md) — Körperverletzung u. a.
 - [BGH, Beschluss vom 27.10.2009 - 3 StR 404/09](3-str-404-09.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 27.10.2009 - 3 StR 424/09](3-str-424-09.md) — Mordes u. a.
+- [BGH, Beschluss vom 20.10.2009 - 3 StR 552/08](3-str-552-08.md) — zu 1.: Mitgliedschaft in einer ausländischen terroristischen Vereinigung u. a.
 - [BGH, Beschluss vom 06.10.2009 - 3 StR 326/09](3-str-326-09.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 06.10.2009 - 3 StR 373/09](3-str-373-09.md) — Betruges
+- [BGH, Beschluss vom 29.09.2009 - 3 StR 322/09](3-str-322-09.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 24.09.2009 - 3 StR 280/09](3-str-280-09.md) — zu 1.: Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 24.09.2009 - 3 StR 319/09](3-str-319-09.md) — Vorenthaltens von Arbeitsentgelt u. a.
+- [BGH, Beschluss vom 24.09.2009 - 3 StR 340/09](3-str-340-09.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 22.09.2009 - 3 StR 321/09](3-str-321-09.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 22.09.2009 - 3 StR 383/09](3-str-383-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 10.09.2009 - 3 StR 293/09](3-str-293-09.md) — bandenmäßiger Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 01.09.2009 - 3 StR 601/08](3-str-601-08.md) — Geldfälschung u. a.
+- [BGH, Urteil vom 27.08.2009 - 3 StR 246/09](3-str-246-09.md) — versuchten Totschlags u. a.
 - [BGH, Urteil vom 27.08.2009 - 3 StR 250/09](3-str-250-09.md) — besonders schwerer Vergewaltigung
+- [BGH, Beschluss vom 25.08.2009 - 3 StR 291/09](3-str-291-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 13.08.2009 - 3 StR 168/09](3-str-168-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 13.08.2009 - 3 StR 224/09](3-str-224-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.08.2009 - 3 StR 226/09](3-str-226-09.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 13.08.2009 - 3 StR 228/09](3-str-228-09.md) — Verwendens von Kennzeichen verfassungswidriger Organisationen u. a.
 - [BGH, Beschluss vom 13.08.2009 - 3 StR 255/09](3-str-255-09.md) — versuchter Anstiftung zum Mord
 - [BGH, Beschluss vom 11.08.2009 - 3 StR 175/09](3-str-175-09.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 11.08.2009 - 3 StR 283/09](3-str-283-09.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 11.08.2009 - 3 StR 308/09](3-str-308-09.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 06.08.2009 - 3 StR 248/09](3-str-248-09.md) — Totschlags
 - [BGH, Beschluss vom 06.08.2009 - 3 StR 296/09](3-str-296-09.md) — Vergewaltigung u. a.
-- [BGH, Beschluss vom 06.08.2009 - 3 StR 319/09](3-str-319-09.md) — Bankrotts u. a.
+- [BGH, Beschluss vom 06.08.2009 - 3 StR 547/08](3-str-547-08.md) — Beihilfe zum Bandenhandel mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 04.08.2009 - 3 StR 174/09](3-str-174-09.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 04.08.2009 - 3 StR 271/09](3-str-271-09.md) — schweren Raubes
+- [BGH, Beschluss vom 04.08.2009 - 3 StR 305/09](3-str-305-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 30.07.2009 - 3 StR 273/09](3-str-273-09.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 28.07.2009 - 3 StR 268/09](3-str-268-09.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 28.07.2009 - 3 StR 288/09](3-str-288-09.md) — bewaffneten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 28.07.2009 - 3 StR 44/09](3-str-44-09.md) — Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 28.07.2009 - 3 StR 80/09](3-str-80-09.md) — Beihilfe zum Bandenhandel mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 16.07.2009 - 3 StR 148/09](3-str-148-09.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 16.07.2009 - 3 StR 206/09](3-str-206-09.md) — besonders schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 16.07.2009 - 3 StR 211/09](3-str-211-09.md) — Betruges
 - [BGH, Beschluss vom 14.07.2009 - 3 StR 133/09](3-str-133-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 14.07.2009 - 3 StR 239/09](3-str-239-09.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 14.07.2009 - 3 StR 259/09](3-str-259-09.md) — Betruges u. a.
+- [BGH, Beschluss vom 14.07.2009 - 3 StR 276/09](3-str-276-09.md) — schwerer Brandstiftung
+- [BGH, Beschluss vom 09.07.2009 - 3 StR 257/09](3-str-257-09.md) — versuchter schwerer räuberischer Erpressung u. a.; hier: Revision des Angeklagten S. Ö.
+- [BGH, Beschluss vom 07.07.2009 - 3 StR 132/09](3-str-132-09.md) — Beihilfe zur Zuhälterei u. a.
 - [BGH, Beschluss vom 07.07.2009 - 3 StR 137/09](3-str-137-09.md) — versuchter Anstiftung zum Totschlag u. a.
 - [BGH, Beschluss vom 07.07.2009 - 3 StR 223/09](3-str-223-09.md) — Vergewaltigung u. a
 - [BGH, Beschluss vom 02.07.2009 - 3 StR 131/09](3-str-131-09.md) — zu 1.: Betruges u. a. zu 2.: Betruges
 - [BGH, Beschluss vom 18.06.2009 - 3 StR 194/09](3-str-194-09.md) — schwerer räuberischer Erpressung u. a. hier: Revision des Angeklagten A.
+- [BGH, Beschluss vom 16.06.2009 - 3 StR 173/09](3-str-173-09.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 16.06.2009 - 3 StR 193/09](3-str-193-09.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 16.06.2009 - 3 StR 6/09](3-str-6-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 04.06.2009 - 3 StR 61/09](3-str-61-09.md) — Beihilfe zur gewerbs- und bandenmäßigen Fälschung von Zahlungskarten mit Garantiefunktion u. a.
 - [BGH, Beschluss vom 04.06.2009 - 3 StR 66/09](3-str-66-09.md) — Beihilfe zur Gründung einer ausländischen terroristischen Vereinigung u. a.
-- [BGH, Beschluss vom 26.03.2009 - 3 ARs 6/09](3-ars-6-09.md) — BGH, Beschluss vom 26.03.2009 - 3 ARs 6/09
+- [BGH, Beschluss vom 19.05.2009 - 3 StR 579/08](3-str-579-08.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge hier: Anhörungsrüge des Verurteilten
+- [BGH, Beschluss vom 14.05.2009 - 3 StR 170/09](3-str-170-09.md) — Vergewaltigung u. a.
+- [BGH, Urteil vom 07.05.2009 - 3 StR 142/09](3-str-142-09.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 07.05.2009 - 3 StR 153/09](3-str-153-09.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 23.04.2009 - 3 StR 100/09](3-str-100-09.md) — Totschlags
+- [BGH, Urteil vom 23.04.2009 - 3 StR 83/09](3-str-83-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 21.04.2009 - 3 StR 107/09](3-str-107-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 09.04.2009 - 3 StR 376/08](3-str-376-08.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 26.03.2009 - 3 ARs 6/09](3-ars-6-09.md) — der Eilbedürftigkeit den Antrag zu stellen, dass der Aus-
 - [BGH, Beschluss vom 24.03.2009 - 3 StR 555/08](3-str-555-08.md) — gewerbsmäßigen Bandenbetruges
 - [BGH, Beschluss vom 17.03.2009 - 3 StR 84/09](3-str-84-09.md) — schweren Raubes
 - [BGH, Beschluss vom 05.03.2009 - 3 StR 25/09](3-str-25-09.md) — Betruges u. a.
 - [BGH, Beschluss vom 03.03.2009 - 3 StR 47/09](3-str-47-09.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 03.03.2009 - 3 StR 52/09](3-str-52-09.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 19.02.2009 - 3 StR 506/08](3-str-506-08.md) — Mordes u. a.
-- [BGH, Beschluss vom 17.02.2009 - 3 ARs 24/08](3-ars-24-08.md) — BGH, Beschluss vom 17.02.2009 - 3 ARs 24/08
+- [BGH, Beschluss vom 17.02.2009 - 3 ARs 24/08](3-ars-24-08.md) — Das Begehren des Antragstellers richtet sich gegen die Anordnungen des Vorsitzenden des 1.
 - [BGH, Beschluss vom 17.02.2009 - 3 StR 490/08](3-str-490-08.md) — bewaffneten Handeltreibens mit Betäubungsmitteln u. a.
 - [BGH, Beschluss vom 27.01.2009 - 3 StR 592/08](3-str-592-08.md) — schweren Raubes
 - [BGH, Beschluss vom 22.01.2009 - 3 StR 482/08](3-str-482-08.md) — zu 1. und 2.: Körperverletzung mit Todesfolge zu 3.: gefährlicher Körperverletzung

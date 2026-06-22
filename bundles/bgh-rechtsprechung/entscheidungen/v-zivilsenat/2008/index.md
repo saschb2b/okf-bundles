@@ -1,44 +1,85 @@
 # V. Zivilsenat – 2008
 
-41 Entscheidung(en).
+82 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2008 - V ZR 110/08](v-zr-110-08.md) — BGH, Beschluss vom 18.12.2008 - V ZR 110/08
 - [BGH, Beschluss vom 18.12.2008 - V ZR 77/08](v-zr-77-08.md) — BGH, Beschluss vom 18.12.2008 - V ZR 77/08
 - [BGH, Urteil vom 12.12.2008 - V ZR 106/07](v-zr-106-07.md) — des zweiten Hilfsantrags der Widerkläger wird die Sache zur neuen Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens
 - [BGH, Urteil vom 12.12.2008 - V ZR 49/08](v-zr-49-08.md) — Tatbestand:
+- [BGH, Beschluss vom 04.12.2008 - V ZB 74/08](v-zb-74-08.md) — beider Zahlungsansprüche beantragte sie unter Vorlage der Titel-
+- [BGH, Beschluss vom 13.11.2008 - V ZR 59/08](v-zr-59-08.md) — Die Rechtssache wirft keine entscheidungserheblichen Fragen von grundsätzlicher Bedeutung auf.
+- [BGH, Urteil vom 07.11.2008 - V ZR 138/07](v-zr-138-07.md) — Tatbestand:
 - [BGH, Beschluss vom 06.11.2008 - V ZR 42/08](v-zr-42-08.md) — BGH, Beschluss vom 06.11.2008 - V ZR 42/08
 - [BGH, Urteil vom 31.10.2008 - V ZR 71/08](v-zr-71-08.md) — Tatbestand:
+- [BGH, Beschluss vom 30.10.2008 - V ZB 41/08](v-zb-41-08.md) — I. 1 Die Beteiligten zu 2 und 3 (Schuldner) sind Eigentümer des im Rubrum näher bezeichneten Grundstücks, dessen Zwangsversteigerung angeordnet worden ist. In dem …
+- [BGH, Beschluss vom 23.10.2008 - V ZB 89/08](v-zb-89-08.md) — I. 1 Die Kostenschuldnerin, eine Wohnungseigentümergemeinschaft, be- schloss in ihrer Eigentümerversammlung vom 24. Mai 2006, die amtierende Verwalterin für weitere fünf Jahre zu …
+- [BGH, Beschluss vom 16.10.2008 - V ZB 94/08](v-zb-94-08.md) — eines dinglichen Anspruchs von 60.000 € die Zwangsver-
 - [BGH, Beschluss vom 16.10.2008 - V ZR 40/08](v-zr-40-08.md) — grundsätzlicher Bedeutung
+- [BGH, Beschluss vom 09.10.2008 - V ZB 138/08](v-zb-138-08.md) — Die Antragstellerin wendet sich gegen die Festsetzung des Verkehrs- werts ihres Grundstücks in einem Zwangsversteigerungsverfahren.
 - [BGH, Beschluss vom 09.10.2008 - V ZB 21/08](v-zb-21-08.md) — einer Grundschuld in
+- [BGH, Beschluss vom 25.09.2008 - V ZB 59/08](v-zb-59-08.md) — I. 1 Die Parteien sind Grundstücksnachbarn. Auf dem Grundstück der Kläger befindet sich als Abgrenzung zu dem Grundstück der Beklagten ein in Sockel einbetonierter …
+- [BGH, Beschluss vom 25.09.2008 - V ZR 23/08](v-zr-23-08.md) — BGH, Beschluss vom 25.09.2008 - V ZR 23/08
+- [BGH, Beschluss vom 25.09.2008 - V ZR 36/08](v-zr-36-08.md) — Nach § 26 Nr. 8 EGZPO ist die Beschwerde gegen die Nichtzulassung der Revision durch das Berufungsgericht nur zulässig, wenn der Wert der mit der Revision geltend zu machenden …
+- [BGH, Urteil vom 19.09.2008 - V ZR 152/07](v-zr-152-07.md) — Tatbestand:
+- [BGH, Urteil vom 19.09.2008 - V ZR 28/08](v-zr-28-08.md) — Tatbestand:
+- [BGH, Beschluss vom 18.09.2008 - V ZB 129/08](v-zb-129-08.md) — I. 1 Der Beteiligte zu 3 gab dem Betroffenen mit einem sofort vollziehbaren Bescheid vom 20. Februar 2008 auf, das Bundesgebiet bis zum Ablauf des 31. März 2008 zu verlassen, und …
+- [BGH, Beschluss vom 18.09.2008 - V ZB 18/08](v-zb-18-08.md) — der in dem anderen Zwangsver-
 - [BGH, Beschluss vom 18.09.2008 - V ZB 22/08](v-zb-22-08.md) — Suizidgefahr der Schuldnerin einstweilen eingestellt.
+- [BGH, Beschluss vom 18.09.2008 - V ZB 32/08](v-zb-32-08.md) — anderer Arbeiten am 24. Dezember 2007 anfertigen und einreichen wollen. Dazu sei er nicht in der Lage gewesen, weil bei ihm am 22. Dezember
+- [BGH, Beschluss vom 18.09.2008 - V ZB 40/08](v-zb-40-08.md) — I. 1 Der Kläger ist Insolvenzverwalter über das Vermögen der W. und P. gesellschaft mbH (im Folgenden: Schuldnerin). 2 Die Schuldnerin, die als Bauträgerin tätig war, erwarb auf …
+- [BGH, Beschluss vom 26.08.2008 - V ZR 108/07](v-zr-108-07.md) — Es kann dahinstehen, ob der von dem Sekretariat der e.
+- [BGH, Beschluss vom 26.08.2008 - V ZR 22/08](v-zr-22-08.md) — BGH, Beschluss vom 26.08.2008 - V ZR 22/08
 - [BGH, Urteil vom 18.07.2008 - V ZR 70/07](v-zr-70-07.md) — Tatbestand:
+- [BGH, Beschluss vom 17.07.2008 - V ZB 151/07](v-zb-151-07.md) — statthafte Rechtsbeschwerde (§§ 522
+- [BGH, Beschluss vom 17.07.2008 - V ZB 61/08](v-zb-61-08.md) — Der als "sofortige Rechtsbeschwerde" bezeichnete Rechtsbehelf ist als Erinnerung gegen den Kostenansatz nach § 66 Abs.
+- [BGH, Beschluss vom 17.07.2008 - V ZB 67/08](v-zb-67-08.md) — Der als "sofortige Rechtsbeschwerde" bezeichnete Rechtsbehelf ist als Erinnerung gegen den Kostenansatz nach § 66 Abs.
 - [BGH, Beschluss vom 10.07.2008 - V ZR 213/07](v-zr-213-07.md) — BGH, Beschluss vom 10.07.2008 - V ZR 213/07
 - [BGH, Beschluss vom 03.07.2008 - V ZR 144/07](v-zr-144-07.md) — BGH, Beschluss vom 03.07.2008 - V ZR 144/07
 - [BGH, Beschluss vom 03.07.2008 - V ZR 194/07](v-zr-194-07.md) — BGH, Beschluss vom 03.07.2008 - V ZR 194/07
+- [BGH, Beschluss vom 03.07.2008 - V ZR 20/07](v-zr-20-07.md) — I. 1 Mitte der achtziger Jahre errichtete die E. KG (im Folgenden E. ) auf ihrem Grundstück T. straße in M. eine Wohnanlage mit über 600 Einheiten, welche sie im Rahmen eines …
 - [BGH, Urteil vom 27.06.2008 - V ZR 135/07](v-zr-135-07.md) — Tatbestand:
 - [BGH, Urteil vom 27.06.2008 - V ZR 15/07](v-zr-15-07.md) — Tatbestand:
-- [BGH, Beschluss vom 19.06.2008 - V ZB 29/08](v-zb-29-08.md) — BGH, Beschluss vom 19.06.2008 - V ZB 29/08
+- [BGH, Urteil vom 27.06.2008 - V ZR 83/07](v-zr-83-07.md) — Tatbestand:
+- [BGH, Beschluss vom 26.06.2008 - V ZR 225/07](v-zr-225-07.md) — I. 1 Mit notarieller Erklärung vom 20. Oktober 1996 gaben die Kläger ein An- gebot zum Erwerb einer Eigentumswohnung in B. ab, das die Beklagte kurz darauf annahm. Dem …
+- [BGH, Beschluss vom 19.06.2008 - V ZB 29/08](v-zb-29-08.md) — I. 1 Mit den Klägern am 1. August 2007 zugestelltem Urteil hat das Landge- richt die Zahlungsklage der Kläger zum überwiegenden Teil abgewiesen. Hier- gegen haben die Kläger …
+- [BGH, Beschluss vom 19.06.2008 - V ZB 39/08](v-zb-39-08.md) — Soweit sich das Rechtsmittel gegen den Beschluss vom 14.
 - [BGH, Beschluss vom 19.06.2008 - V ZR 190/07](v-zr-190-07.md) — BGH, Beschluss vom 19.06.2008 - V ZR 190/07
-- [BGH, Beschluss vom 12.06.2008 - V ZR 221/07](v-zr-221-07.md) — BGH, Beschluss vom 12.06.2008 - V ZR 221/07
-- [BGH, Beschluss vom 12.06.2008 - V ZR 222/07](v-zr-222-07.md) — BGH, Beschluss vom 12.06.2008 - V ZR 222/07
-- [BGH, Beschluss vom 12.06.2008 - V ZR 223/07](v-zr-223-07.md) — BGH, Beschluss vom 12.06.2008 - V ZR 223/07
+- [BGH, Beschluss vom 12.06.2008 - V ZR 221/07](v-zr-221-07.md) — I. 1 Am 4. Dezember 1998 schlossen der Kläger und die V. gesellschaft mbH & Co. KG einen notariellen Kaufvertrag mit Bauver- pflichtung über eine Eigentumswohnung auf dem Gelände …
+- [BGH, Beschluss vom 12.06.2008 - V ZR 222/07](v-zr-222-07.md) — I. 1 Am 12. März 2001 schlossen die Kläger und die V. gesellschaft mbH & Co. KG einen notariellen Kaufvertrag mit Bauverpflichtung über ein Townhouse auf dem Gelände einer …
+- [BGH, Beschluss vom 12.06.2008 - V ZR 223/07](v-zr-223-07.md) — I. 1 Am 12. Dezember 2000 unterbreiteten die Kläger der V. gesellschaft mbH & Co. KG ein notarielles Angebot zum Abschluss ei- nes Kaufvertrages mit Bauverpflichtung über eine …
+- [BGH, Beschluss vom 05.06.2008 - V ZB 125/07](v-zb-125-07.md) — Nichterreichens der 5/10-
 - [BGH, Beschluss vom 05.06.2008 - V ZB 150/07](v-zb-150-07.md) — einer Fehlvorstellung über den Umfang der nach den Versteigerungsbedingungen bestehen bleibenden Rechte gem. § 119 Abs. 1 BGB anfechten.
 - [BGH, Beschluss vom 05.06.2008 - V ZR 127/07](v-zr-127-07.md) — BGH, Beschluss vom 05.06.2008 - V ZR 127/07
 - [BGH, Urteil vom 30.05.2008 - V ZR 184/07](v-zr-184-07.md) — Tatbestand:
 - [BGH, Beschluss vom 29.05.2008 - V ZB 6/08](v-zb-6-08.md) — BGH, Beschluss vom 29.05.2008 - V ZB 6/08
+- [BGH, Beschluss vom 29.05.2008 - V ZR 186/07](v-zr-186-07.md) — I. 1 Die Parteien sind die gesetzlichen Erben der am 15. Dezember 2002 ver- storbenen B. S. . Die Erblasserin war die Mutter des Klägers und der bereits im Oktober 2002 …
+- [BGH, Beschluss vom 27.05.2008 - V ZB 52/08](v-zb-52-08.md) — Der als „Rechtsbeschwerde“ bezeichnete Rechtsbehelf ist als Erinnerung gegen den Kostenansatz nach § 66 Abs.
+- [BGH, Urteil vom 16.05.2008 - V ZR 182/07](v-zr-182-07.md) — Tatbestand:
+- [BGH, Beschluss vom 15.05.2008 - V ZR 178/07](v-zr-178-07.md) — I. 1 Die Beklagte kauft Altwohnbestände an und veräußert sie nach Durch- führung von Renovierungsmaßnahmen als Wohnungseigentum weiter. Die Klä- gerin und ihr Ehemann erwarben im …
 - [BGH, Beschluss vom 15.05.2008 - V ZR 192/07](v-zr-192-07.md) — BGH, Beschluss vom 15.05.2008 - V ZR 192/07
+- [BGH, Beschluss vom 17.04.2008 - V ZB 146/07](v-zb-146-07.md) — I. 1 Die Beteiligten zu 4 bis 71 sind Gesellschafter der Beteiligten zu 2, eines geschlossenen Immobilienfonds in der Rechtsform einer Gesellschaft bürgerli- chen Rechts, deren …
+- [BGH, Beschluss vom 11.04.2008 - V ZB 35/08](v-zb-35-08.md) — Der Beschluss des Oberlandesgerichts ist unanfechtbar.
 - [BGH, Urteil vom 11.04.2008 - V ZR 117/07](v-zr-117-07.md) — Tatbestand:
 - [BGH, Urteil vom 11.04.2008 - V ZR 74/07](v-zr-74-07.md) — der geltend gemachten Auskunftsansprüche über die nach dem 11. Juni 1991 von der Beklagten gezogenen Nutzungen abgewiesen worden ist, und da
-- [BGH, Beschluss vom 13.03.2008 - V ZB 99/07](v-zb-99-07.md) — BGH, Beschluss vom 13.03.2008 - V ZB 99/07
+- [BGH, Beschluss vom 03.04.2008 - V ZR 131/07](v-zr-131-07.md) — grundsätzlicher Bedeutung der Rechtssache zugelassen.
+- [BGH, Urteil vom 14.03.2008 - V ZR 16/07](v-zr-16-07.md) — Tatbestand:
+- [BGH, Beschluss vom 13.03.2008 - V ZB 113/07](v-zb-113-07.md) — I. 1 Die Kläger sind Eigentümer eines Grundstücks auf dem Gebiet der be- klagten, früher preußischen, heute hessischen Gemeinde. Das Grundstück grenzt an ein Grundstück der …
+- [BGH, Beschluss vom 13.03.2008 - V ZR 130/07](v-zr-130-07.md) — Die Beschwerde ist nach § 26 Nr. 8 EGZPO unzulässig, weil der Wert des Beschwerdegegenstandes zwanzigtausend Euro nicht erreicht ist. Er be- trägt 4.000 €. 2 1. Bei einem Streit …
 - [BGH, Urteil vom 07.03.2008 - V ZR 89/07](v-zr-89-07.md) — Tatbestand:
 - [BGH, Beschluss vom 27.02.2008 - V ZB 16/08](v-zb-16-08.md) — BGH, Beschluss vom 27.02.2008 - V ZB 16/08
+- [BGH, Beschluss vom 21.02.2008 - V ZB 123/07](v-zb-123-07.md) — eines titulierten Anspruchs gegen den Schuldner auf Zahlung von Haus-
+- [BGH, Beschluss vom 21.02.2008 - V ZB 96/07](v-zb-96-07.md) — I. 1 Der Kläger hat von dem Beklagten verlangt, es zu unterlassen, sein Grundstück zu begehen und/oder zu befahren oder es von Dritten begehen und/oder befahren zu lassen. Das …
 - [BGH, Beschluss vom 21.02.2008 - V ZR 33/07](v-zr-33-07.md) — BGH, Beschluss vom 21.02.2008 - V ZR 33/07
 - [BGH, Urteil vom 15.02.2008 - V ZR 17/07](v-zr-17-07.md) — BGH, Urteil vom 15.02.2008 - V ZR 17/07
 - [BGH, Urteil vom 15.02.2008 - V ZR 222/06](v-zr-222-06.md) — BGH, Urteil vom 15.02.2008 - V ZR 222/06
+- [BGH, Beschluss vom 14.02.2008 - V ZB 80/07](v-zb-80-07.md) — I. 1 Die Beteiligte zu 3 betreibt die Zwangsvollstreckung in das im Eingang des Beschlusses bezeichnete Grundstück der Schuldnerin. 2 In dem Versteigerungstermin am 22. Mai 2007 …
 - [BGH, Beschluss vom 14.02.2008 - V ZR 285/06](v-zr-285-06.md) — BGH, Beschluss vom 14.02.2008 - V ZR 285/06
+- [BGH, Beschluss vom 14.02.2008 - V ZR 84/07](v-zr-84-07.md) — Mängel der Entwässerung im Keller entschieden worden ist. Im Umfang der Aufhebung wird der Rechtsstreit zur neuen Verhandlung und Entscheidu
 - [BGH, Urteil vom 25.01.2008 - V ZR 63/07](v-zr-63-07.md) — Tatbestand:
+- [BGH, Urteil vom 25.01.2008 - V ZR 79/07](v-zr-79-07.md) — Tatbestand:
 - [BGH, Urteil vom 25.01.2008 - V ZR 93/07](v-zr-93-07.md) — Tatbestand:
 - [BGH, Beschluss vom 24.01.2008 - V ZB 118/07](v-zb-118-07.md) — BGH, Beschluss vom 24.01.2008 - V ZB 118/07
+- [BGH, Beschluss vom 24.01.2008 - V ZB 99/07](v-zb-99-07.md) — der Wohngeldrückstände
 - [BGH, Urteil vom 18.01.2008 - V ZR 174/06](v-zr-174-06.md) — eines Zahlungsanspruchs in Höhe von 85.204,37 € nebst Zinsen zurückgewiesen worden ist. Im Übrigen wird die Revision zurückgewiesen. Im Umfa
 - [BGH, Beschluss vom 10.01.2008 - V ZB 31/07](v-zb-31-07.md) — BGH, Beschluss vom 10.01.2008 - V ZB 31/07
 - [BGH, Beschluss vom 10.01.2008 - V ZR 52/07](v-zr-52-07.md) — BGH, Beschluss vom 10.01.2008 - V ZR 52/07

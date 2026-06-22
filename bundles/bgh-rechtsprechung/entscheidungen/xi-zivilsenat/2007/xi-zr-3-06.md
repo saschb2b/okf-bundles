@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 20.03.2007 - XI ZR 3/06"
-description: "Verletzung einer Aufklärungspflicht nicht zu. Von einer näheren Begründung wird gemäß § 544 Abs. 4 Satz 2 Halbs. 2 ZPO abgesehen. "
+description: "Verletzung einer Aufklärungspflicht nicht zu. Von einer näheren Begründung wird gemäß § 544 Abs. 4 Satz 2 Halbs. 2 ZPO abgesehen."
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2006/XI_ZR___3-06.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "XI. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2007-03-20
 aktenzeichen: "XI ZR 3/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:24:01Z
+timestamp: 2026-06-22T14:16:12Z
 ---
 # Volltext
 

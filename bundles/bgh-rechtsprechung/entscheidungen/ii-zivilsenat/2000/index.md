@@ -1,30 +1,51 @@
 # II. Zivilsenat – 2000
 
-26 Entscheidung(en).
+47 Entscheidung(en).
 
 - [BGH, Versäumnisurteil vom 18.12.2000 - II ZR 191/99](ii-zr-191-99.md) — BGH, Versäumnisurteil vom 18.12.2000 - II ZR 191/99
 - [BGH, Urteil vom 18.12.2000 - II ZR 31/99](ii-zr-31-99.md) — BGH, Urteil vom 18.12.2000 - II ZR 31/99
 - [BGH, Urteil vom 18.12.2000 - II ZR 385/98](ii-zr-385-98.md) — BGH, Urteil vom 18.12.2000 - II ZR 385/98
 - [BGH, Versäumnisurteil vom 18.12.2000 - II ZR 84/99](ii-zr-84-99.md) — BGH, Versäumnisurteil vom 18.12.2000 - II ZR 84/99
+- [BGH, Beschluss vom 14.12.2000 - II ZB 20/00](ii-zb-20-00.md) — I. Das Landgericht hat die Berufung des Klägers gegen das seine Klage in einer Vereinsangelegenheit teilweise abweisende Urteil des Amtsgerichts als unzulässig verworfen, weil die …
+- [BGH, Beschluss vom 27.11.2000 - II ZB 6/00](ii-zb-6-00.md) — I. Die Parteien verband ab dem Jahre 1979 eine "enge persönliche Beziehung", die auf Initiative der Beklagten 1995 endete. In der Folge kam es zu einem Rechtsstreit, in dem es um …
+- [BGH, Urteil vom 27.11.2000 - II ZR 179/99](ii-zr-179-99.md) — Tatbestand:
+- [BGH, Urteil vom 27.11.2000 - II ZR 190/99](ii-zr-190-99.md) — Tatbestand:
+- [BGH, Urteil vom 27.11.2000 - II ZR 218/00](ii-zr-218-00.md) — Tatbestand:
 - [BGH, Urteil vom 09.10.2000 - II ZR 58/99](ii-zr-58-99.md) — BGH, Urteil vom 09.10.2000 - II ZR 58/99
+- [BGH, Urteil vom 02.10.2000 - II ZR 54/99](ii-zr-54-99.md) — Tatbestand:
+- [BGH, Urteil vom 02.10.2000 - II ZR 64/99](ii-zr-64-99.md) — Tatbestand:
+- [BGH, Urteil vom 18.09.2000 - II ZR 15/99](ii-zr-15-99.md) — Tatbestand:
+- [BGH, Urteil vom 18.09.2000 - II ZR 365/98](ii-zr-365-98.md) — Tatbestand:
+- [BGH, Beschluss vom 17.08.2000 - II ZR 302/99](ii-zr-302-99.md) — . Der Wert des bezifferten Schadensersatzbegehrens für rückständiges Geschäftsführergehalt beträgt entsprechend dem zuletzt gestellten Zahlungsantrag 187.500,-- DM. Abschläge …
+- [BGH, Beschluss vom 17.08.2000 - II ZR 348/98](ii-zr-348-98.md) — Versäumung der Revisionsbegründungsfrist als unzulässig verworfen worden ist, kann auf Gegenvorstellungen hin nicht mehr abgeändert werden.
+- [BGH, Urteil vom 24.07.2000 - II ZR 168/99](ii-zr-168-99.md) — Tatbestand:
+- [BGH, Urteil vom 24.07.2000 - II ZR 202/98](ii-zr-202-98.md) — BGH, Urteil vom 24.07.2000 - II ZR 202/98
 - [BGH, Urteil vom 03.07.2000 - II ZR 12/99](ii-zr-12-99.md) — Tatbestand: Der Kläger war vom 1. April 1987 bis zum 30. Juni 1996 Mitglied des Vorstandes der Beklagten. Als Vergütung bezog er neben einig
 - [BGH, Urteil vom 03.07.2000 - II ZR 381/98](ii-zr-381-98.md) — BGH, Urteil vom 03.07.2000 - II ZR 381/98
 - [BGH, Urteil vom 19.06.2000 - II ZR 319/98](ii-zr-319-98.md) — Tatbestand:
 - [BGH, Urteil vom 19.06.2000 - II ZR 73/99](ii-zr-73-99.md) — BGH, Urteil vom 19.06.2000 - II ZR 73/99
 - [BGH, Urteil vom 29.05.2000 - II ZR 118/98](ii-zr-118-98.md) — Verstoßes gegen § 30 Abs. 1 GmbHG entstandener Erstattungsanspruch nach § 31 Abs. 1 GmbHG entfällt daher nicht von Gesetzes wegen, wenn das
-- [BGH, Beschluss vom 29.05.2000 - II ZR 321/99](ii-zr-321-99.md) — BGH, Beschluss vom 29.05.2000 - II ZR 321/99
+- [BGH, Beschluss vom 29.05.2000 - II ZR 321/99](ii-zr-321-99.md) — I. Die Parteien und ihr Bruder W. B. sind zu gleichen Teilen Miterben ihrer inzwischen verstorbenen Eltern Dr. K. und E. B. . Diese hatten 1978 die Staatlich anerkannte Schulen …
+- [BGH, Urteil vom 29.05.2000 - II ZR 347/97](ii-zr-347-97.md) — Tatbestand:
+- [BGH, Urteil vom 29.05.2000 - II ZR 75/98](ii-zr-75-98.md) — Tatbestand:
 - [BGH, Beschluss vom 18.05.2000 - II ZR 296/98](ii-zr-296-98.md) — BGH, Beschluss vom 18.05.2000 - II ZR 296/98
 - [BGH, Beschluss vom 18.05.2000 - II ZR 304/98](ii-zr-304-98.md) — BGH, Beschluss vom 18.05.2000 - II ZR 304/98
-- [BGH, Urteil vom 03.04.2000 - II ZR 194/98](ii-zr-194-98.md) — BGH, Urteil vom 03.04.2000 - II ZR 194/98
-- [BGH, Urteil vom 03.04.2000 - II ZR 373/98](ii-zr-373-98.md) — BGH, Urteil vom 03.04.2000 - II ZR 373/98
+- [BGH, Urteil vom 15.05.2000 - II ZR 359/98](ii-zr-359-98.md) — Tatbestand: Die Kläger wenden sich mit der von ihnen erhobenen Anfechtungsklage gegen einen Hauptversammlungsbeschluß der Beklagten vom 28.
+- [BGH, Versäumnisurteil vom 15.05.2000 - II ZR 63/99](ii-zr-63-99.md) — Tatbestand:
+- [BGH, Urteil vom 03.04.2000 - II ZR 194/98](ii-zr-194-98.md) — Tatbestand:
+- [BGH, Urteil vom 03.04.2000 - II ZR 373/98](ii-zr-373-98.md) — Tatbestand: Der beklagte Verein ist nach seiner Satzung "der zuchtbuchführende Rassezuchtverein für den deutschen Schäferhund". Der Kläger,
+- [BGH, Urteil vom 20.03.2000 - II ZR 250/99](ii-zr-250-99.md) — Tatbestand: Die Parteien sind Patentanwälte, die sich ab 1. Januar 1989 in Gesellschaft bürgerlichen Rechts zu einer überörtlichen Sozietät
 - [BGH, Urteil vom 13.03.2000 - II ZR 234/99](ii-zr-234-99.md) — BGH, Urteil vom 13.03.2000 - II ZR 234/99
 - [BGH, Beschluss vom 07.02.2000 - II ZR 1/99](ii-zr-1-99.md) — BGH, Beschluss vom 07.02.2000 - II ZR 1/99
-- [BGH, Urteil vom 31.01.2000 - II ZR 189/99](ii-zr-189-99.md) — BGH, Urteil vom 31.01.2000 - II ZR 189/99
+- [BGH, Urteil vom 31.01.2000 - II ZR 189/99](ii-zr-189-99.md) — Tatbestand: Der Beklagte war geschäftsführender Alleingesellschafter der Ende 1996 in Konkurs gefallenen H. B. GmbH, gegen die der Klägerin
 - [BGH, Urteil vom 31.01.2000 - II ZR 209/98](ii-zr-209-98.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 31.01.2000 - II ZR 309/98](ii-zr-309-98.md) — BGH, Versäumnisurteil vom 31.01.2000 - II ZR 309/98
-- [BGH, Beschluss vom 31.01.2000 - II ZR 36/99](ii-zr-36-99.md) — BGH, Beschluss vom 31.01.2000 - II ZR 36/99
+- [BGH, Beschluss vom 31.01.2000 - II ZR 36/99](ii-zr-36-99.md) — I. Die Parteien streiten mit Klage und Widerklage darüber, ob die Klägerin, die am Stammkapital der beklagten GmbH von 50.000,-- DM ursprünglich mit 10.000,-- DM beteiligt war …
+- [BGH, Urteil vom 24.01.2000 - II ZR 172/98](ii-zr-172-98.md) — Tatbestand:
+- [BGH, Urteil vom 24.01.2000 - II ZR 185/98](ii-zr-185-98.md) — Tatbestand:
+- [BGH, Urteil vom 24.01.2000 - II ZR 268/98](ii-zr-268-98.md) — Tatbestand:
 - [BGH, Beschluss vom 13.01.2000 - II ZR 7/98](ii-zr-7-98.md) — BGH, Beschluss vom 13.01.2000 - II ZR 7/98
-- [BGH, Beschluss vom 10.01.2000 - II ZB 14/99](ii-zb-14-99.md) — BGH, Beschluss vom 10.01.2000 - II ZB 14/99
-- [BGH, Beschluss vom 10.01.2000 - II ZB 17/99](ii-zb-17-99.md) — BGH, Beschluss vom 10.01.2000 - II ZB 17/99
+- [BGH, Beschluss vom 10.01.2000 - II ZB 14/99](ii-zb-14-99.md) — I. Der Beklagte hat rechtzeitig und formgerecht am 1. März 1999 bei dem Hanseatischen Oberlandesgericht Berufung eingelegt. Den an den Berufungszivilsenat adressierten Antrag auf …
+- [BGH, Beschluss vom 10.01.2000 - II ZB 17/99](ii-zb-17-99.md) — greifbarer Gesetzwidrigkeit sind nicht gegeben.
 - [BGH, Urteil vom 10.01.2000 - II ZR 247/98](ii-zr-247-98.md) — Tatbestand: Der inzwischen über 70 Jahre alte Kläger verlangt von der etwa 40 Jahre alten Beklagten nach der Beendigung ihrer seit 18 Jahren
-- [BGH, Urteil vom 10.01.2000 - II ZR 251/98](ii-zr-251-98.md) — BGH, Urteil vom 10.01.2000 - II ZR 251/98
+- [BGH, Urteil vom 10.01.2000 - II ZR 251/98](ii-zr-251-98.md) — Tatbestand:

@@ -1,45 +1,81 @@
 # V. Zivilsenat – 2003
 
-41 Entscheidung(en).
+77 Entscheidung(en).
 
 - [BGH, Urteil vom 12.12.2003 - V ZR 180/03](v-zr-180-03.md) — Tatbestand:
 - [BGH, Urteil vom 12.12.2003 - V ZR 98/03](v-zr-98-03.md) — BGH, Urteil vom 12.12.2003 - V ZR 98/03
 - [BGH, Beschluss vom 11.12.2003 - V ZR 416/02](v-zr-416-02.md) — BGH, Beschluss vom 11.12.2003 - V ZR 416/02
-- [BGH, Urteil vom 05.12.2003 - V ZR 341/02](v-zr-341-02.md) — BGH, Urteil vom 05.12.2003 - V ZR 341/02
+- [BGH, Urteil vom 05.12.2003 - V ZR 341/02](v-zr-341-02.md) — Tatbestand:
+- [BGH, Urteil vom 05.12.2003 - V ZR 447/01](v-zr-447-01.md) — Tatbestand:
 - [BGH, Urteil vom 28.11.2003 - V ZR 123/03](v-zr-123-03.md) — Tatbestand:
+- [BGH, Urteil vom 28.11.2003 - V ZR 129/03](v-zr-129-03.md) — Tatbestand:
+- [BGH, Beschluss vom 27.11.2003 - V ZR 159/03](v-zr-159-03.md) — und Entscheidungsgründen bedeutet keinen Rechtsmittelverzicht (MünchKomm-ZPO/Rimmelspacher, 2.
 - [BGH, Beschluss vom 27.11.2003 - V ZR 163/03](v-zr-163-03.md) — BGH, Beschluss vom 27.11.2003 - V ZR 163/03
 - [BGH, Beschluss vom 27.11.2003 - V ZR 179/03](v-zr-179-03.md) — des Kostenerstattungsanspruchs als derzeit unbegründet zurückgewiesen (Senatsbeschl. v. 9. März 1989, V ZR 194/88, AnwBl. 1990,328).
+- [BGH, Urteil vom 14.11.2003 - V ZR 102/03](v-zr-102-03.md) — des Ablaufs der dafür in dem Landesnachbarrecht vorgesehenen Ausschlußfrist nicht mehr verlangen kann, kann für den erhöhten Reinigungsaufwa
 - [BGH, Urteil vom 07.11.2003 - V ZR 65/03](v-zr-65-03.md) — aufgehoben.
 - [BGH, Urteil vom 31.10.2003 - V ZR 423/02](v-zr-423-02.md) — BGH, Urteil vom 31.10.2003 - V ZR 423/02
 - [BGH, Urteil vom 24.10.2003 - V ZR 424/02](v-zr-424-02.md) — Tatbestand:
+- [BGH, Beschluss vom 23.10.2003 - V ZA 4/03](v-za-4-03.md) — Zwar hat die Klägerin die wirtschaftlichen Voraussetzungen für die Bewilligung von Prozeßkostenhilfe mit ihrem Schriftsatz vom 6.
+- [BGH, Beschluss vom 23.10.2003 - V ZB 28/03](v-zb-28-03.md) — I. Gegen das ihr am 7. November 2002 zugestellte Urteil des Amtsgerichts hat die Beklagte Berufung eingelegt. Die Berufungsbegründung ist per Fax am 8. Januar 2003 bei dem …
+- [BGH, Beschluss vom 23.10.2003 - V ZB 44/03](v-zb-44-03.md) — I. Mit am 11. März 2003 der Beklagten zugestelltem Urteil vom 7. März 2003 entschied das Amtsgericht K. zum Nachteil der Beklagten. Hierge- -3- gen legte die Beklagte am 10. April …
 - [BGH, Urteil vom 17.10.2003 - V ZR 71/03](v-zr-71-03.md) — der Aufhebung des Ergänzungsurteils werden nicht erhoben.
+- [BGH, Beschluss vom 16.10.2003 - V ZR 31/03](v-zr-31-03.md) — BGH, Beschluss vom 16.10.2003 - V ZR 31/03
 - [BGH, Beschluss vom 02.10.2003 - V ZB 18/03](v-zb-18-03.md) — BGH, Beschluss vom 02.10.2003 - V ZB 18/03
 - [BGH, Beschluss vom 02.10.2003 - V ZB 34/03](v-zb-34-03.md) — BGH, Beschluss vom 02.10.2003 - V ZB 34/03
 - [BGH, Beschluss vom 02.10.2003 - V ZB 8/03](v-zb-8-03.md) — BGH, Beschluss vom 02.10.2003 - V ZB 8/03
+- [BGH, Beschluss vom 02.10.2003 - V ZR 38/03](v-zr-38-03.md) — Die Beschwerde ist nicht zulässig, da der Wert der mit der Revision geltend zu machenden Beschwer 20.000 £¡ ¢¥¤§©¦ ¨   ¨!" ¢¥$# ¨% & 26 Nr.
+- [BGH, Beschluss vom 02.10.2003 - V ZR 42/03](v-zr-42-03.md) — BGH, Beschluss vom 02.10.2003 - V ZR 42/03
 - [BGH, Urteil vom 26.09.2003 - V ZR 217/02](v-zr-217-02.md) — Tatbestand:
+- [BGH, Urteil vom 26.09.2003 - V ZR 41/03](v-zr-41-03.md) — Tatbestand:
 - [BGH, Urteil vom 26.09.2003 - V ZR 70/03](v-zr-70-03.md) — Tatbestand:
-- [BGH, Urteil vom 19.09.2003 - V ZR 360/02](v-zr-360-02.md) — BGH, Urteil vom 19.09.2003 - V ZR 360/02
+- [BGH, Beschluss vom 25.09.2003 - V ZB 17/03](v-zb-17-03.md) — I. Die Klägerin verlangt von den Beklagten, die Benutzung eines Kellers zu unterlassen. Mit ihr am 7. November 2002 zugestelltem Urteil hat das Landgericht die Klage abgewiesen …
+- [BGH, Beschluss vom 25.09.2003 - V ZR 27/03](v-zr-27-03.md) — Die Beschwerde ist unzulässig, weil der Wert des Beschwerdegegenstandes für das beabsichtigte Revisionsverfahren 20.000 £¡ ¢¥¤§©¦ ¨    !¨ " ¢¥#$¨"%& 26 Nr.
+- [BGH, Urteil vom 19.09.2003 - V ZR 360/02](v-zr-360-02.md) — Tatbestand:
 - [BGH, Urteil vom 19.09.2003 - V ZR 383/02](v-zr-383-02.md) — Tatbestand:
-- [BGH, Beschluss vom 18.09.2003 - V ZB 53/02](v-zb-53-02.md) — BGH, Beschluss vom 18.09.2003 - V ZB 53/02
+- [BGH, Beschluss vom 18.09.2003 - V ZB 23/03](v-zb-23-03.md) — der Erkrankung ihres Prozeßbevollmächtigten Wiedereinsetzung zu gewähren ist, ist in der Rechtsprechung des Bundesgerichtshofes geklärt. Dan
+- [BGH, Beschluss vom 18.09.2003 - V ZB 53/02](v-zb-53-02.md) — I. Der Kläger obsiegte vor dem Landgericht gegen einen weiteren Beklagten, unterlag aber gegenüber den Beklagten zu 1 und zu 2. Deren außergerichtliche Kosten wurden auf 1.931,02 …
 - [BGH, Beschluss vom 18.09.2003 - V ZB 9/03](v-zb-9-03.md) — BGH, Beschluss vom 18.09.2003 - V ZB 9/03
 - [BGH, Urteil vom 25.07.2003 - V ZR 192/02](v-zr-192-02.md) — Tatbestand:
 - [BGH, Urteil vom 25.07.2003 - V ZR 362/02](v-zr-362-02.md) — Tatbestand:
 - [BGH, Urteil vom 25.07.2003 - V ZR 387/02](v-zr-387-02.md) — seiner Aufwendungen ein Ersatzanspruch zusteht.
+- [BGH, Urteil vom 18.07.2003 - V ZR 275/02](v-zr-275-02.md) — der unterschiedlichen Zielsetzungen beider Vorschriften nicht deckungsgleich.
+- [BGH, Urteil vom 18.07.2003 - V ZR 431/02](v-zr-431-02.md) — Tatbestand:
+- [BGH, Urteil vom 18.07.2003 - V ZR 435/02](v-zr-435-02.md) — Tatbestand:
 - [BGH, Beschluss vom 17.07.2003 - V ZB 11/03](v-zb-11-03.md) — BGH, Beschluss vom 17.07.2003 - V ZB 11/03
+- [BGH, Urteil vom 11.07.2003 - V ZR 199/02](v-zr-199-02.md) — Tatbestand:
+- [BGH, Urteil vom 11.07.2003 - V ZR 233/01](v-zr-233-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.07.2003 - V ZR 83/02](v-zr-83-02.md) — Tatbestand:
 - [BGH, Beschluss vom 26.06.2003 - V ZB 15/03](v-zb-15-03.md) — BGH, Beschluss vom 26.06.2003 - V ZB 15/03
+- [BGH, Beschluss vom 26.06.2003 - V ZR 441/02](v-zr-441-02.md) — I. Die Nichtzulassungsbeschwerde ist zulässig. Sie scheitert insbesondere nicht an § 26 Nr. 8 EGZPO. Denn der Wert der Beschwer, die mit der Revision £¡ ¢¥§¤ ¦©¨  ¤§ ¨  …
+- [BGH, Urteil vom 06.06.2003 - V ZR 392/02](v-zr-392-02.md) — des Berufungsurteils tatbestandliche Darstellungen enthalten, die für eine revisionsrechtliche Nachprüfung ausreichen.
 - [BGH, Urteil vom 30.05.2003 - V ZR 216/02](v-zr-216-02.md) — Tatbestand:
+- [BGH, Urteil vom 30.05.2003 - V ZR 37/02](v-zr-37-02.md) — 3-
 - [BGH, Urteil vom 30.05.2003 - V ZR 370/02](v-zr-370-02.md) — BGH, Urteil vom 30.05.2003 - V ZR 370/02
+- [BGH, Beschluss vom 28.05.2003 - V ZB 47/02](v-zb-47-02.md) — I. E. und H. K. sind als Eigentümerinnen der im Grundbuch von D. Blatt 2 verzeichneten Grundstücke eingetragen. Darüber hinaus sind sie -3- als Miteigentümerinnen zu insgesamt 1/4 …
+- [BGH, Urteil vom 23.05.2003 - V ZR 393/02](v-zr-393-02.md) — 3-
+- [BGH, Urteil vom 09.05.2003 - V ZR 240/02](v-zr-240-02.md) — Tatbestand:
 - [BGH, Urteil vom 09.05.2003 - V ZR 388/02](v-zr-388-02.md) — BGH, Urteil vom 09.05.2003 - V ZR 388/02
+- [BGH, Beschluss vom 30.04.2003 - V ZB 71/02](v-zb-71-02.md) — I. Gegen das beiden Parteien am 16. Juli 2002 zugestellte Urteil des Landgerichts hat der Beklagte am 9. August 2002 Berufung eingelegt, die er mit Schriftsatz vom 2. Oktober 2002 …
 - [BGH, Urteil vom 30.04.2003 - V ZR 361/02](v-zr-361-02.md) — BGH, Urteil vom 30.04.2003 - V ZR 361/02
+- [BGH, Urteil vom 11.04.2003 - V ZR 323/02](v-zr-323-02.md) — Tatbestand:
 - [BGH, Urteil vom 04.04.2003 - V ZR 268/02](v-zr-268-02.md) — BGH, Urteil vom 04.04.2003 - V ZR 268/02
 - [BGH, Beschluss vom 03.04.2003 - V ZB 44/02](v-zb-44-02.md) — Mängeln des von ihnen erworbenen Anwesens
 - [BGH, Beschluss vom 27.03.2003 - V ZR 291/02](v-zr-291-02.md) — der grundsätzliche Bedeutung (§ 543 Abs. 2 Satz 1 Nr. 1 ZPO) geltend gemacht wird, auslaufendes Recht, so muß in der Begründung der Nichtzul
+- [BGH, Urteil vom 21.03.2003 - V ZR 290/02](v-zr-290-02.md) — Tatbestand:
+- [BGH, Urteil vom 21.03.2003 - V ZR 319/02](v-zr-319-02.md) — Tatbestand:
 - [BGH, Beschluss vom 20.03.2003 - V ZR 333/02](v-zr-333-02.md) — BGH, Beschluss vom 20.03.2003 - V ZR 333/02
+- [BGH, Versäumnisurteil vom 14.03.2003 - V ZR 280/02](v-zr-280-02.md) — Tatbestand:
 - [BGH, Urteil vom 14.03.2003 - V ZR 304/02](v-zr-304-02.md) — Tatbestand:
+- [BGH, Beschluss vom 06.03.2003 - V ZB 5/03](v-zb-5-03.md) — Die außerordentliche Beschwerde ist nicht zulässig.
 - [BGH, Beschluss vom 06.03.2003 - V ZR 121/01](v-zr-121-01.md) — BGH, Beschluss vom 06.03.2003 - V ZR 121/01
 - [BGH, Beschluss vom 20.02.2003 - V ZB 59/02](v-zb-59-02.md) — BGH, Beschluss vom 20.02.2003 - V ZB 59/02
-- [BGH, Beschluss vom 20.02.2003 - V ZB 60/02](v-zb-60-02.md) — BGH, Beschluss vom 20.02.2003 - V ZB 60/02
+- [BGH, Beschluss vom 20.02.2003 - V ZB 60/02](v-zb-60-02.md) — der
+- [BGH, Beschluss vom 13.02.2003 - V ZR 422/02](v-zr-422-02.md) — angeblich falscher Informationen beim Kauf einer Eigentumswohnung auf Rückabwicklung dieses Geschäfts in Anspruch. Mit ihrer Wi-
 - [BGH, Urteil vom 07.02.2003 - V ZR 285/02](v-zr-285-02.md) — Tatbestand:
 - [BGH, Urteil vom 07.02.2003 - V ZR 42/02](v-zr-42-02.md) — BGH, Urteil vom 07.02.2003 - V ZR 42/02
 - [BGH, Urteil vom 31.01.2003 - V ZR 229/02](v-zr-229-02.md) — Tatbestand:
+- [BGH, Beschluss vom 30.01.2003 - V ZB 2/03](v-zb-2-03.md) — Gegen Entscheidungen des Berufungsgerichts ist eine weitere Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 30.01.2003 - V ZB 3/03](v-zb-3-03.md) — Gegen Entscheidungen des Amtsgerichts ist eine Beschwerde an den Bundesgerichtshof nicht statthaft.
 - [BGH, Urteil vom 17.01.2003 - V ZR 127/02](v-zr-127-02.md) — Tatbestand:
+- [BGH, Beschluss vom 09.01.2003 - V ZB 62/02](v-zb-62-02.md) — Gegen Entscheidungen des Beschwerdegerichts ist eine weitere Beschwerde nicht statthaft (§ 567 Abs.

@@ -9,7 +9,7 @@ datum: 2007-03-07
 aktenzeichen: "VIII ZR 247/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:24:00Z
+timestamp: 2026-06-22T14:16:12Z
 ---
 # Volltext
 

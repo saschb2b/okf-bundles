@@ -1,24 +1,46 @@
 # VII. Zivilsenat – 2004
 
-20 Entscheidung(en).
+42 Entscheidung(en).
 
-- [BGH, Beschluss vom 11.11.2004 - VII ZR 95/04](vii-zr-95-04.md) — BGH, Beschluss vom 11.11.2004 - VII ZR 95/04
+- [BGH, Versäumnisurteil vom 16.12.2004 - VII ZR 270/03](vii-zr-270-03.md) — Tatbestand: Die Klägerin verlangt die Beseitigung von Mängeln am Fassadenputz eines Bauwerks. Sie klagt aus abgetretenem Recht der Firma R..
+- [BGH, Beschluss vom 16.12.2004 - VII ZR 54/04](vii-zr-54-04.md) — BGH, Beschluss vom 16.12.2004 - VII ZR 54/04
+- [BGH, Beschluss vom 09.12.2004 - VII ZR 120/04](vii-zr-120-04.md) — BGH, Beschluss vom 09.12.2004 - VII ZR 120/04
+- [BGH, Beschluss vom 09.12.2004 - VII ZR 357/03](vii-zr-357-03.md) — BGH, Beschluss vom 09.12.2004 - VII ZR 357/03
+- [BGH, Beschluss vom 11.11.2004 - VII ZR 95/04](vii-zr-95-04.md) — I. Die Kläger haben Klage erhoben, die Beklagte zur Zahlung von 400.000 DM Mängelbeseitigungskosten zu verurteilen. Sie haben insoweit einen Schadensersatzanspruch geltend …
+- [BGH, Beschluss vom 28.10.2004 - VII ZR 102/04](vii-zr-102-04.md) — Die Nichtzulassungsbeschwerde ist gemäß § 26 Nr.
 - [BGH, Urteil vom 28.10.2004 - VII ZR 18/03](vii-zr-18-03.md) — Tatbestand: Die Klägerin macht gegen die Beklagte Ansprüche aus einem von ihr gekündigten Werkvertrag geltend. Die Beklagte beauftragte die
 - [BGH, Beschluss vom 14.10.2004 - VII ZB 23/03](vii-zb-23-03.md) — BGH, Beschluss vom 14.10.2004 - VII ZB 23/03
+- [BGH, Beschluss vom 14.10.2004 - VII ZR 132/03](vii-zr-132-03.md) — BGH, Beschluss vom 14.10.2004 - VII ZR 132/03
 - [BGH, Urteil vom 14.10.2004 - VII ZR 180/03](vii-zr-180-03.md) — Tatbestand: Der Kläger verlangt restliche Vergütung von 78.969,49 € für eine Brandschadenssanierung bei einem Objekt des Beklagten. Der Bekl
+- [BGH, Urteil vom 14.10.2004 - VII ZR 190/03](vii-zr-190-03.md) — Tatbestand: Die Klägerin verlangt von den Beklagten restlichen Werklohn. Die Beklagten beauftragten die Klägerin mit Bauarbeiten an einem Ba
+- [BGH, Urteil vom 30.09.2004 - VII ZR 187/03](vii-zr-187-03.md) — Tatbestand: Der Beklagte verlangt mit der Widerklage, um die allein es noch geht, die Rückzahlung von 3.319,10 € aus einer an die Klägerin g
 - [BGH, Urteil vom 30.09.2004 - VII ZR 192/03](vii-zr-192-03.md) — Tatbestand: Die Klägerin verlangt restliches Ingenieurhonorar. Die Beklagte fordert widerklagend Überzahlungen, die sie sich errechnet hat,
-- [BGH, Beschluss vom 22.07.2004 - VII ZB 3/03](vii-zb-3-03.md) — BGH, Beschluss vom 22.07.2004 - VII ZB 3/03
-- [BGH, Urteil vom 08.07.2004 - VII ZR 231/03](vii-zr-231-03.md) — BGH, Urteil vom 08.07.2004 - VII ZR 231/03
-- [BGH, Beschluss vom 24.06.2004 - VII ZB 34/03](vii-zb-34-03.md) — BGH, Beschluss vom 24.06.2004 - VII ZB 34/03
+- [BGH, Urteil vom 30.09.2004 - VII ZR 456/01](vii-zr-456-01.md) — Tatbestand: Die Parteien streiten über restliches Architektenhonorar des Klägers. Ende März 1996 schloß der Kläger mit einer Gesellschaft bü
+- [BGH, Beschluss vom 30.09.2004 - VII ZR 48/03](vii-zr-48-03.md) — einer offensichtlichen Unrichtigkeit (Rechenfehler bei Nachtrag 13) in Ziffer 1 des Tenors dahin abgeändert, daß "49.250,93 €" durch "44.137
+- [BGH, Versäumnisurteil vom 30.09.2004 - VII ZR 92/03](vii-zr-92-03.md) — Tatbestand: I.
+- [BGH, Beschluss vom 23.09.2004 - VII ZB 43/03](vii-zb-43-03.md) — I. Das mit der Berufung angegriffene Urteil des Landgerichts ist dem Beklagten am 10. April 2003 zugestellt worden. Mit Telefax vom 11. Juni 2003 hat der Beklagte beantragt, die …
+- [BGH, Beschluss vom 23.09.2004 - VII ZR 133/03](vii-zr-133-03.md) — BGH, Beschluss vom 23.09.2004 - VII ZR 133/03
+- [BGH, Beschluss vom 23.09.2004 - VII ZR 227/03](vii-zr-227-03.md) — BGH, Beschluss vom 23.09.2004 - VII ZR 227/03
+- [BGH, Beschluss vom 22.07.2004 - VII ZB 3/03](vii-zb-3-03.md) — I. Die Antragsteller erwarben von der Antragsgegnerin ein von dieser mit einem Mehrfamilienhaus zu bebauendes Grundstück. Mit der Behauptung, die in Erfüllung des Vertrages …
+- [BGH, Urteil vom 08.07.2004 - VII ZR 231/03](vii-zr-231-03.md) — Tatbestand: Die Klägerin verlangt restlichen Werklohn. Die Beklagte übertrug ihr 1994 die Putz- und Stuckarbeiten an ihrem Alten- und Pflege
+- [BGH, Beschluss vom 24.06.2004 - VII ZB 34/03](vii-zb-34-03.md) — I. Die Beklagte wendet sich dagegen, daß im Kostenfestsetzungsverfahren Auslagen für ein Gutachten des Sachverständigen M. (1.040,72 €) in den Kostenausgleich eingestellt und sie …
 - [BGH, Beschluss vom 24.06.2004 - VII ZB 35/03](vii-zb-35-03.md) — BGH, Beschluss vom 24.06.2004 - VII ZB 35/03
+- [BGH, Urteil vom 24.06.2004 - VII ZR 259/02](vii-zr-259-02.md) — Tatbestand: I.
 - [BGH, Versäumnisurteil vom 24.06.2004 - VII ZR 271/01](vii-zr-271-01.md) — Tatbestand: Die frühere Klägerin mit Sitz in Italien (künftig weiterhin: Klägerin), für die ihr Insolvenzverwalter den Rechtsstreit nach Auf
-- [BGH, Urteil vom 17.06.2004 - VII ZR 226/03](vii-zr-226-03.md) — BGH, Urteil vom 17.06.2004 - VII ZR 226/03
+- [BGH, Urteil vom 17.06.2004 - VII ZR 226/03](vii-zr-226-03.md) — 3-
 - [BGH, Urteil vom 17.06.2004 - VII ZR 25/03](vii-zr-25-03.md) — behaupteter Planungsfehler.
 - [BGH, Urteil vom 17.06.2004 - VII ZR 337/02](vii-zr-337-02.md) — Tatbestand: Der Kläger verlangt als Konkursverwalter über das Vermögen der F. AG (Gemeinschuldnerin) restlichen Werklohn. Die Beklagte hat d
+- [BGH, Beschluss vom 17.06.2004 - VII ZR 345/03](vii-zr-345-03.md) — Es kommt nicht darauf an, ob die Beklagte zu 1 ein Organisationsverschulden trifft, wie das Berufungsgericht angenommen hat.
 - [BGH, Urteil vom 17.06.2004 - VII ZR 75/03](vii-zr-75-03.md) — Tatbestand: Die Klägerin verlangt von der Beklagten restlichen Werklohn für Dämmarbeiten. Die Beklagte wurde mit der Errichtung einer Naturs
+- [BGH, Beschluss vom 27.05.2004 - VII ZB 28/03](vii-zb-28-03.md) — I. Den Beklagten ist für einen Rechtsstreit vor dem Landgericht Prozeßkostenhilfe ohne Ratenzahlungsverpflichtung bewilligt worden. Die Parteien haben auf Vorschlag des Gerichts …
 - [BGH, Versäumnisurteil vom 13.05.2004 - VII ZR 424/02](vii-zr-424-02.md) — Tatbestand: Die Beklagten beauftragten die Klägerin mit VOB-Vertrag zu einem Pauschalpreis mit Sanierungsarbeiten an einem Wohnhaus. Die gef
 - [BGH, Beschluss vom 13.05.2004 - VII ZR 99/03](vii-zr-99-03.md) — BGH, Beschluss vom 13.05.2004 - VII ZR 99/03
+- [BGH, Beschluss vom 15.04.2004 - VII ZR 67/02](vii-zr-67-02.md) — Mietausfalls ist, soweit die Hauptforderung nicht durch die Aufrechnung mit Ansprüchen wegen der Geschirrspüler verbraucht ist, ebenfalls al
 - [BGH, Beschluss vom 11.03.2004 - VII ZB 27/03](vii-zb-27-03.md) — BGH, Beschluss vom 11.03.2004 - VII ZB 27/03
 - [BGH, Versäumnisurteil vom 11.03.2004 - VII ZR 339/02](vii-zr-339-02.md) — Tatbestand: Die Klägerin verlangt restlichen Werklohn aus einem mit dem Beklagten unter Einbeziehung der VOB/B geschlossenen Bauvertrag über
+- [BGH, Urteil vom 11.03.2004 - VII ZR 351/02](vii-zr-351-02.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Werklohn. Im Streit ist noch der Nachtrag N 11 in Höhe von 554.141,94 DM. Die Klägerin w
+- [BGH, Beschluss vom 22.01.2004 - VII ZR 170/03](vii-zr-170-03.md) — BGH, Beschluss vom 22.01.2004 - VII ZR 170/03
+- [BGH, Urteil vom 22.01.2004 - VII ZR 419/02](vii-zr-419-02.md) — Tatbestand: Die Klägerin begehrt restlichen Werklohn. Die Parteien streiten darüber, ob die Beklagte die Schlußzahlungseinrede nach § 16 Nr.
 - [BGH, Urteil vom 22.01.2004 - VII ZR 68/03](vii-zr-68-03.md) — BGH, Urteil vom 22.01.2004 - VII ZR 68/03
+- [BGH, Urteil vom 08.01.2004 - VII ZR 12/03](vii-zr-12-03.md) — Tatbestand: Der Kläger verlangt Werklohn für Malerarbeiten, die in einigen Wohnungen einer mehr als 500 Einheiten umfassenden Plattenbau-Woh
 - [BGH, Urteil vom 08.01.2004 - VII ZR 198/02](vii-zr-198-02.md) — Mängeln nicht fällig, kann sich der Besteller auch nach längerer Nutzung des Bauwerks noch auf die fehlende Fälligkeit berufen.

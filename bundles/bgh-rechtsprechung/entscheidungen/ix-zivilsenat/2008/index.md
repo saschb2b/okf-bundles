@@ -1,42 +1,77 @@
 # IX. Zivilsenat – 2008
 
-93 Entscheidung(en).
+183 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2008 - IX ZB 114/08](ix-zb-114-08.md) — BGH, Beschluss vom 18.12.2008 - IX ZB 114/08
 - [BGH, Beschluss vom 18.12.2008 - IX ZB 253/08](ix-zb-253-08.md) — BGH, Beschluss vom 18.12.2008 - IX ZB 253/08
 - [BGH, Beschluss vom 18.12.2008 - IX ZB 273/08](ix-zb-273-08.md) — BGH, Beschluss vom 18.12.2008 - IX ZB 273/08
 - [BGH, Beschluss vom 16.12.2008 - IX ZA 46/08](ix-za-46-08.md) — BGH, Beschluss vom 16.12.2008 - IX ZA 46/08
+- [BGH, Beschluss vom 16.12.2008 - IX ZR 111/06](ix-zr-111-06.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
 - [BGH, Beschluss vom 16.12.2008 - IX ZR 174/06](ix-zr-174-06.md) — BGH, Beschluss vom 16.12.2008 - IX ZR 174/06
+- [BGH, Beschluss vom 16.12.2008 - IX ZR 175/05](ix-zr-175-05.md) — Die Anhörungsrüge ist unbegründet. Die Gerichte sind nach Art. 103 Abs. 1 GG verpflichtet, das Vorbringen der Parteien zur Kenntnis zu nehmen und in Erwägung zu ziehen. Hingegen …
+- [BGH, Beschluss vom 16.12.2008 - IX ZR 229/08](ix-zr-229-08.md) — Vermögensdelikten später rechts-
 - [BGH, Beschluss vom 16.12.2008 - IX ZR 243/06](ix-zr-243-06.md) — BGH, Beschluss vom 16.12.2008 - IX ZR 243/06
-- [BGH, Beschluss vom 11.12.2008 - IX ZR 134/06](ix-zr-134-06.md) — BGH, Beschluss vom 11.12.2008 - IX ZR 134/06
+- [BGH, Beschluss vom 11.12.2008 - IX ZB 232/08](ix-zb-232-08.md) — Der Kläger hat am 6. Oktober 2003 bei dem Landgericht eine auf Amts- pflichtverletzung gestützte Schadensersatzklage gegen den Beklagten, einen ehemaligen Notar, eingereicht. Über …
+- [BGH, Urteil vom 11.12.2008 - IX ZR 156/07](ix-zr-156-07.md) — Tatbestand:
+- [BGH, Urteil vom 11.12.2008 - IX ZR 194/07](ix-zr-194-07.md) — Tatbestand:
 - [BGH, Urteil vom 11.12.2008 - IX ZR 195/07](ix-zr-195-07.md) — In einem Schneeballsystem ausgezahlte Scheingewinne sind unentgeltliche Leistungen und nach § 134 InsO anfechtbar, weil ihnen keine werthaltige Gegenleistung gegenübersteht.
+- [BGH, Beschluss vom 11.12.2008 - IX ZR 216/07](ix-zr-216-07.md) — nicht durchgreifen lassen, weil es an
 - [BGH, Beschluss vom 11.12.2008 - IX ZR 26/06](ix-zr-26-06.md) — BGH, Beschluss vom 11.12.2008 - IX ZR 26/06
-- [BGH, Beschluss vom 04.12.2008 - IX ZR 154/08](ix-zr-154-08.md) — BGH, Beschluss vom 04.12.2008 - IX ZR 154/08
 - [BGH, Beschluss vom 04.12.2008 - IX ZR 188/06](ix-zr-188-06.md) — BGH, Beschluss vom 04.12.2008 - IX ZR 188/06
 - [BGH, Beschluss vom 04.12.2008 - IX ZR 64/08](ix-zr-64-08.md) — BGH, Beschluss vom 04.12.2008 - IX ZR 64/08
 - [BGH, Beschluss vom 20.11.2008 - IX ZB 30/08](ix-zb-30-08.md) — BGH, Beschluss vom 20.11.2008 - IX ZB 30/08
+- [BGH, Urteil vom 20.11.2008 - IX ZR 130/07](ix-zr-130-07.md) — Tatbestand:
 - [BGH, Beschluss vom 20.11.2008 - IX ZR 145/06](ix-zr-145-06.md) — BGH, Beschluss vom 20.11.2008 - IX ZR 145/06
 - [BGH, Versäumnisurteil vom 20.11.2008 - IX ZR 180/07](ix-zr-180-07.md) — Tatbestand:
+- [BGH, Urteil vom 20.11.2008 - IX ZR 188/07](ix-zr-188-07.md) — Tatbestand:
 - [BGH, Beschluss vom 20.11.2008 - IX ZR 34/06](ix-zr-34-06.md) — BGH, Beschluss vom 20.11.2008 - IX ZR 34/06
+- [BGH, Beschluss vom 18.11.2008 - IX ZA 20/08](ix-za-20-08.md) — Wiedereinsetzung in die versäumte Frist zu gewähren (§§ 233 ff ZPO), wenn sie bis zu deren Ablauf einen den gesetzlichen Anforderungen entsp
+- [BGH, Beschluss vom 18.11.2008 - IX ZA 8/08](ix-za-8-08.md) — BGH, Beschluss vom 18.11.2008 - IX ZA 8/08
 - [BGH, Beschluss vom 13.11.2008 - IX ZB 42/07](ix-zb-42-07.md) — BGH, Beschluss vom 13.11.2008 - IX ZB 42/07
 - [BGH, Beschluss vom 13.11.2008 - IX ZR 210/08](ix-zr-210-08.md) — BGH, Beschluss vom 13.11.2008 - IX ZR 210/08
+- [BGH, Beschluss vom 13.11.2008 - IX ZR 24/06](ix-zr-24-06.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
+- [BGH, Beschluss vom 12.11.2008 - IX ZA 21/08](ix-za-21-08.md) — nicht. Der Antragsteller kann nicht damit rechnen, dass weitere in die gleiche Richtung zielende Eingaben beantwortet werden. Ganter Gehrlein Vill Fischer Grupp Vorinstanzen: AG …
+- [BGH, Beschluss vom 12.11.2008 - IX ZA 42/08](ix-za-42-08.md) — zulässig noch durch das Beschwerdegericht im Einzelfall zugelassen worden ist (§ 574 Abs. 1 ZPO).
+- [BGH, Beschluss vom 06.11.2008 - IX ZB 196/05](ix-zb-196-05.md) — Die Entscheidung der Vorinstanzen ist mit dem Rechtssatz des Senats- beschlusses vom 21.
+- [BGH, Beschluss vom 23.10.2008 - IX ZB 112/08](ix-zb-112-08.md) — eines formellen Verfahrensfehlers auf. Es hatte festgestellt, dass dem Insolvenzantrag die Abtretungserklärung des Schuldners nach § 287 Abs
 - [BGH, Beschluss vom 23.10.2008 - IX ZB 157/05](ix-zb-157-05.md) — BGH, Beschluss vom 23.10.2008 - IX ZB 157/05
+- [BGH, Beschluss vom 23.10.2008 - IX ZB 17/08](ix-zb-17-08.md) — I. 1 Auf Antrag des Schuldners vom 1. August 2005 wurde über sein Vermö- gen am 22. August 2005 das Insolvenzverfahren eröffnet, in dem er Rest- schuldbefreiung begehrt. Das durch …
 - [BGH, Beschluss vom 23.10.2008 - IX ZB 197/05](ix-zb-197-05.md) — BGH, Beschluss vom 23.10.2008 - IX ZB 197/05
+- [BGH, Beschluss vom 23.10.2008 - IX ZB 7/08](ix-zb-7-08.md) — rückständiger
+- [BGH, Beschluss vom 23.10.2008 - IX ZB 71/05](ix-zb-71-05.md) — Die Rechtsbeschwerde ist nach § 574 Abs. 2 ZPO unzulässig. Die Zu- lässigkeitsvoraussetzungen der kraft Gesetzes - hier § 7 InsO - statthaften Rechtsbeschwerde beurteilen sich …
+- [BGH, Urteil vom 23.10.2008 - IX ZR 111/07](ix-zr-111-07.md) — Tatbestand:
+- [BGH, Beschluss vom 23.10.2008 - IX ZR 115/07](ix-zr-115-07.md) — Die Sache hat keine grundsätzliche Bedeutung, und weder die Fortbil- dung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfor- dert eine Entscheidung des …
+- [BGH, Beschluss vom 23.10.2008 - IX ZR 173/06](ix-zr-173-06.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
 - [BGH, Urteil vom 23.10.2008 - IX ZR 202/07](ix-zr-202-07.md) — Tatbestand:
 - [BGH, Beschluss vom 23.10.2008 - IX ZR 211/06](ix-zr-211-06.md) — BGH, Beschluss vom 23.10.2008 - IX ZR 211/06
-- [BGH, Beschluss vom 16.10.2008 - IX ZR 147/07](ix-zr-147-07.md) — BGH, Beschluss vom 16.10.2008 - IX ZR 147/07
-- [BGH, Beschluss vom 16.10.2008 - IX ZR 207/06](ix-zr-207-06.md) — BGH, Beschluss vom 16.10.2008 - IX ZR 207/06
-- [BGH, Beschluss vom 09.10.2008 - IX ZB 16/08](ix-zb-16-08.md) — BGH, Beschluss vom 09.10.2008 - IX ZB 16/08
+- [BGH, Beschluss vom 16.10.2008 - IX ZB 138/07](ix-zb-138-07.md) — Die Rechtsbeschwerde ist gemäß § 574 Abs. 1 Satz 1 Nr. 1, § 522 Abs. 1 Satz 4 ZPO statthaft, aber nicht zulässig. Weder hat die Rechtssache grundsätzliche Bedeutung, noch …
+- [BGH, Beschluss vom 16.10.2008 - IX ZB 146/08](ix-zb-146-08.md) — Nichtzahlung ei-
+- [BGH, Beschluss vom 16.10.2008 - IX ZB 247/06](ix-zb-247-06.md) — des Kaufpreisanspruches von 1.090.000 € hatte der Insolvenz-
+- [BGH, Beschluss vom 16.10.2008 - IX ZR 147/07](ix-zr-147-07.md) — Mängeln der Berufungsschrift beanstandet, fehlt es bereits an
+- [BGH, Urteil vom 16.10.2008 - IX ZR 183/06](ix-zr-183-06.md) — Tatbestand:
+- [BGH, Beschluss vom 16.10.2008 - IX ZR 207/06](ix-zr-207-06.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
+- [BGH, Beschluss vom 09.10.2008 - IX ZA 35/08](ix-za-35-08.md) — I. 1 Mit Beschluss vom 7. Dezember 2007 ist das Verbraucherinsolvenzver- fahren über das Vermögen des Schuldners eröffnet und der weitere Beteiligte (fortan: Treuhänder) zum …
+- [BGH, Beschluss vom 09.10.2008 - IX ZB 16/08](ix-zb-16-08.md) — I. 1 Die gemäß § 574 Abs. 1 Satz 1 Nr. 1 ZPO, §§ 7, 6 Abs. 1, § 296 Abs. 3 InsO statthafte Rechtsbeschwerde ist unzulässig, weil ein Grund zur Rechts- fortbildung nicht …
+- [BGH, Beschluss vom 09.10.2008 - IX ZB 212/07](ix-zb-212-07.md) — I. 1 Auf den Eigenantrag des Schuldners, der zugleich Restschuldbefreiung begehrt, wurde am 17. Februar 2006 über sein Vermögen das Insolvenzverfah- ren eröffnet. In seinem Antrag …
+- [BGH, Beschluss vom 09.10.2008 - IX ZB 224/07](ix-zb-224-07.md) — I. 1 Die Rechtsbeschwerde gegen die vom Landgericht bestätigte Anordnung von Sicherungsmaßnahmen ist statthaft (§ 574 Abs. 1 Satz 1 Nr. 1 ZPO in Ver- bindung mit § 7 InsO). Der …
+- [BGH, Beschluss vom 09.10.2008 - IX ZR 134/06](ix-zr-134-06.md) — I. 1 Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs. 1 Satz 1 ZPO). Sie hat jedoch keinen Erfolg. Weder hat die Rechtssache grundsätzliche Be- deutung noch erfordert die …
+- [BGH, Urteil vom 09.10.2008 - IX ZR 138/06](ix-zr-138-06.md) — des weitergehenden Zinsanspruchs wird die Klage abgewiesen.
+- [BGH, Beschluss vom 09.10.2008 - IX ZR 186/06](ix-zr-186-06.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
 - [BGH, Urteil vom 09.10.2008 - IX ZR 59/07](ix-zr-59-07.md) — Tatbestand:
-- [BGH, Beschluss vom 25.09.2008 - IX ZA 20/08](ix-za-20-08.md) — BGH, Beschluss vom 25.09.2008 - IX ZA 20/08
 - [BGH, Beschluss vom 25.09.2008 - IX ZA 25/08](ix-za-25-08.md) — BGH, Beschluss vom 25.09.2008 - IX ZA 25/08
 - [BGH, Beschluss vom 25.09.2008 - IX ZB 154/05](ix-zb-154-05.md) — BGH, Beschluss vom 25.09.2008 - IX ZB 154/05
 - [BGH, Beschluss vom 25.09.2008 - IX ZB 233/04](ix-zb-233-04.md) — BGH, Beschluss vom 25.09.2008 - IX ZB 233/04
-- [BGH, Beschluss vom 25.09.2008 - IX ZB 233/07](ix-zb-233-07.md) — BGH, Beschluss vom 25.09.2008 - IX ZB 233/07
+- [BGH, Beschluss vom 25.09.2008 - IX ZB 233/07](ix-zb-233-07.md) — I. 1 Die Schuldnerin war früher im Kfz-Handel mit Im- und Export von Fahr- zeugen nach Spanien tätig. Sie beantragte am 21. März 2007 die Eröffnung des …
+- [BGH, Urteil vom 25.09.2008 - IX ZR 133/07](ix-zr-133-07.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2008 - IX ZR 150/07](ix-zr-150-07.md) — Über die Kosten des Rechtsstreits ist gemäß § 91a ZPO nach billigem Ermessen unter Berücksichtigung des bisherigen Sach- und Streitstandes zu befinden.
+- [BGH, Beschluss vom 25.09.2008 - IX ZR 235/07](ix-zr-235-07.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
 - [BGH, Beschluss vom 23.09.2008 - IX ZA 31/08](ix-za-31-08.md) — Verfristung unzulässig.
-- [BGH, Beschluss vom 18.09.2008 - IX ZA 12/07](ix-za-12-07.md) — BGH, Beschluss vom 18.09.2008 - IX ZA 12/07
-- [BGH, Beschluss vom 30.07.2008 - IX ZA 9/08](ix-za-9-08.md) — BGH, Beschluss vom 30.07.2008 - IX ZA 9/08
+- [BGH, Beschluss vom 18.09.2008 - IX ZA 12/07](ix-za-12-07.md) — Der Antrag des Streithelfers zu 2 ist mit dessen Tod gegenstandslos ge- worden.
+- [BGH, Beschluss vom 18.09.2008 - IX ZR 173/05](ix-zr-173-05.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
+- [BGH, Beschluss vom 16.09.2008 - IX ZR 245/06](ix-zr-245-06.md) — Der Senat hat die Rüge, die sich in einer Wiederholung der Revisionsbe- gründungsschrift erschöpft und sich mit der Urteilsbegründung nicht im Einzel- nen auseinandersetzt …
+- [BGH, Beschluss vom 25.08.2008 - IX ZB 91/06](ix-zb-91-06.md) — Der Senat hat die mit dem Ziel der Versagung der Restschuldbefreiung erhobene Rechtsbeschwerde der Gläubigerin als unzulässig verworfen und den Wert des Beschwerdegegenstandes …
 - [BGH, Beschluss vom 22.07.2008 - IX ZB 209/07](ix-zb-209-07.md) — BGH, Beschluss vom 22.07.2008 - IX ZB 209/07
+- [BGH, Beschluss vom 17.07.2008 - IX ZB 171/07](ix-zb-171-07.md) — der von ihm selbst gemachten unrichtigen Angaben den Versagungsgrund des
 - [BGH, Beschluss vom 17.07.2008 - IX ZB 183/07](ix-zb-183-07.md) — BGH, Beschluss vom 17.07.2008 - IX ZB 183/07
 - [BGH, Beschluss vom 17.07.2008 - IX ZB 225/07](ix-zb-225-07.md) — BGH, Beschluss vom 17.07.2008 - IX ZB 225/07
 - [BGH, Beschluss vom 17.07.2008 - IX ZR 123/07](ix-zr-123-07.md) — BGH, Beschluss vom 17.07.2008 - IX ZR 123/07
@@ -44,54 +79,109 @@
 - [BGH, Urteil vom 17.07.2008 - IX ZR 148/07](ix-zr-148-07.md) — Tatbestand:
 - [BGH, Beschluss vom 17.07.2008 - IX ZR 174/05](ix-zr-174-05.md) — BGH, Beschluss vom 17.07.2008 - IX ZR 174/05
 - [BGH, Urteil vom 17.07.2008 - IX ZR 203/07](ix-zr-203-07.md) — Tatbestand:
-- [BGH, Urteil vom 17.07.2008 - IX ZR 245/06](ix-zr-245-06.md) — Tatbestand:
 - [BGH, Beschluss vom 10.07.2008 - IX ZB 10/07](ix-zb-10-07.md) — BGH, Beschluss vom 10.07.2008 - IX ZB 10/07
+- [BGH, Beschluss vom 10.07.2008 - IX ZB 116/07](ix-zb-116-07.md) — aufgedrängt, weil der Schuldner nach dem Vorbringen der Rechts-
+- [BGH, Beschluss vom 10.07.2008 - IX ZB 164/07](ix-zb-164-07.md) — I. 1 Über das Vermögen des Schuldners wurde auf dessen in Verbindung mit einem Antrag auf Restschuldbefreiung gestellten Eigenantrag am 25. Juli 2005 das Insolvenzverfahren …
 - [BGH, Beschluss vom 10.07.2008 - IX ZB 42/08](ix-zb-42-08.md) — BGH, Beschluss vom 10.07.2008 - IX ZB 42/08
+- [BGH, Beschluss vom 10.07.2008 - IX ZR 116/07](ix-zr-116-07.md) — Weder hat das Berufungsgericht, indem es die Voraussetzungen eines Bargeschäfts verneint hat, das rechtliche Gehör der Beklagten verletzt, noch trifft dieser Vorwurf den Senat.
 - [BGH, Urteil vom 10.07.2008 - IX ZR 118/07](ix-zr-118-07.md) — BGH, Urteil vom 10.07.2008 - IX ZR 118/07
+- [BGH, Urteil vom 10.07.2008 - IX ZR 128/07](ix-zr-128-07.md) — Tatbestand:
+- [BGH, Beschluss vom 10.07.2008 - IX ZR 142/07](ix-zr-142-07.md) — der zusätzlich von Dritten erteilten Bürgschaften besser gesichert, weil etwaige Leistungen des Bürgen das Schuldnervermögen nicht berühren
 - [BGH, Beschluss vom 10.07.2008 - IX ZR 152/07](ix-zr-152-07.md) — BGH, Beschluss vom 10.07.2008 - IX ZR 152/07
+- [BGH, Beschluss vom 10.07.2008 - IX ZR 172/07](ix-zr-172-07.md) — BGH, Beschluss vom 10.07.2008 - IX ZR 172/07
+- [BGH, Beschluss vom 07.07.2008 - IX ZB 18/08](ix-zb-18-08.md) — Die Rechtsbeschwerde ist gemäß § 522 Abs. 1 Satz 4, § 574 Abs. 1 Satz 1 Nr. 1 ZPO statthaft, aber nach § 577 Abs. 1 Satz 2 ZPO als unzulässig zu verwerfen, weil sie entgegen § 78 …
 - [BGH, Beschluss vom 03.07.2008 - IX ZB 167/07](ix-zb-167-07.md) — BGH, Beschluss vom 03.07.2008 - IX ZB 167/07
 - [BGH, Beschluss vom 03.07.2008 - IX ZB 181/07](ix-zb-181-07.md) — BGH, Beschluss vom 03.07.2008 - IX ZB 181/07
 - [BGH, Beschluss vom 03.07.2008 - IX ZB 182/07](ix-zb-182-07.md) — BGH, Beschluss vom 03.07.2008 - IX ZB 182/07
 - [BGH, Beschluss vom 03.07.2008 - IX ZB 65/07](ix-zb-65-07.md) — BGH, Beschluss vom 03.07.2008 - IX ZB 65/07
 - [BGH, Beschluss vom 02.07.2008 - IX ZB 194/07](ix-zb-194-07.md) — BGH, Beschluss vom 02.07.2008 - IX ZB 194/07
 - [BGH, Urteil vom 26.06.2008 - IX ZR 145/05](ix-zr-145-05.md) — Tatbestand:
+- [BGH, Beschluss vom 26.06.2008 - IX ZR 232/07](ix-zr-232-07.md) — etwaiger Ansprüche aus § 546 BGB, die durch die Kündi-
+- [BGH, Beschluss vom 12.06.2008 - IX ZB 205/07](ix-zb-205-07.md) — der nicht
 - [BGH, Urteil vom 12.06.2008 - IX ZR 100/07](ix-zr-100-07.md) — Tatbestand:
-- [BGH, Beschluss vom 12.06.2008 - IX ZR 110/05](ix-zr-110-05.md) — BGH, Beschluss vom 12.06.2008 - IX ZR 110/05
+- [BGH, Beschluss vom 12.06.2008 - IX ZR 110/05](ix-zr-110-05.md) — Die zulässige Beschwerde (§ 544 ZPO) ist unbegründet.
+- [BGH, Beschluss vom 12.06.2008 - IX ZR 160/05](ix-zr-160-05.md) — arglistigen Verschweigens von Fehlern im Gemein-
 - [BGH, Beschluss vom 05.06.2008 - IX ZA 7/08](ix-za-7-08.md) — BGH, Beschluss vom 05.06.2008 - IX ZA 7/08
 - [BGH, Beschluss vom 05.06.2008 - IX ZB 119/06](ix-zb-119-06.md) — BGH, Beschluss vom 05.06.2008 - IX ZB 119/06
 - [BGH, Beschluss vom 05.06.2008 - IX ZB 37/06](ix-zb-37-06.md) — unrichtiger oder unvollständiger Angaben über den "sonstigen Lebensunterhalt" in dem Vermögensverzeichnis des Schuldners.
-- [BGH, Beschluss vom 05.06.2008 - IX ZB 9/07](ix-zb-9-07.md) — BGH, Beschluss vom 05.06.2008 - IX ZB 9/07
+- [BGH, Urteil vom 05.06.2008 - IX ZR 163/07](ix-zr-163-07.md) — Tatbestand:
 - [BGH, Beschluss vom 05.06.2008 - IX ZR 17/05](ix-zr-17-05.md) — der an-
 - [BGH, Urteil vom 05.06.2008 - IX ZR 17/07](ix-zr-17-07.md) — BGH, Urteil vom 05.06.2008 - IX ZR 17/07
-- [BGH, Beschluss vom 29.05.2008 - IX ZB 103/07](ix-zb-103-07.md) — BGH, Beschluss vom 29.05.2008 - IX ZB 103/07
-- [BGH, Beschluss vom 29.05.2008 - IX ZB 303/05](ix-zb-303-05.md) — BGH, Beschluss vom 29.05.2008 - IX ZB 303/05
+- [BGH, Beschluss vom 29.05.2008 - IX ZB 102/07](ix-zb-102-07.md) — vermeintlicher Masseverbindlichkeiten im Wege der Vollstreckungserinnerung abwehren.
+- [BGH, Beschluss vom 29.05.2008 - IX ZB 103/07](ix-zb-103-07.md) — I. 1 Der High Court of Justice zu Leeds/England eröffnete am 16. Mai 2003 auf Antrag vom gleichen Tage das Hauptinsolvenzverfahren über das Vermö- gen der I. GmbH (fortan …
+- [BGH, Beschluss vom 29.05.2008 - IX ZB 303/05](ix-zb-303-05.md) — I. 1 Das Amtsgericht bestellte mit Beschluss vom 1. November 2003 den Rechtsbeschwerdeführer in den Insolvenzverfahren über die Vermögen der Ausstatter für Herren A. KG (im …
 - [BGH, Beschluss vom 29.05.2008 - IX ZR 3/05](ix-zr-3-05.md) — BGH, Beschluss vom 29.05.2008 - IX ZR 3/05
 - [BGH, Urteil vom 29.05.2008 - IX ZR 45/07](ix-zr-45-07.md) — Tatbestand:
+- [BGH, Beschluss vom 08.05.2008 - IX ZB 204/07](ix-zb-204-07.md) — I. 1 In dem auf Antrag des beteiligten Finanzamtes eingeleiteten Insolvenz- eröffnungsverfahren hat das Insolvenzgericht durch Beschluss vom 30. Sep- tember 2005 den weiteren …
 - [BGH, Beschluss vom 08.05.2008 - IX ZB 54/07](ix-zb-54-07.md) — BGH, Beschluss vom 08.05.2008 - IX ZB 54/07
-- [BGH, Beschluss vom 08.05.2008 - IX ZR 116/07](ix-zr-116-07.md) — BGH, Beschluss vom 08.05.2008 - IX ZR 116/07
 - [BGH, Beschluss vom 08.05.2008 - IX ZR 120/07](ix-zr-120-07.md) — BGH, Beschluss vom 08.05.2008 - IX ZR 120/07
-- [BGH, Beschluss vom 24.04.2008 - IX ZB 115/06](ix-zb-115-06.md) — BGH, Beschluss vom 24.04.2008 - IX ZB 115/06
+- [BGH, Urteil vom 08.05.2008 - IX ZR 54/07](ix-zr-54-07.md) — Tatbestand:
+- [BGH, Beschluss vom 24.04.2008 - IX ZB 115/06](ix-zb-115-06.md) — I. 1 Auf Antrag des Schuldners vom 10. Dezember 2003 wurde über sein Vermögen am 26. Januar 2004 das (Regel-)Insolvenzverfahren eröffnet, in dem er Restschuldbefreiung begehrt …
+- [BGH, Beschluss vom 17.04.2008 - IX ZR 145/07](ix-zr-145-07.md) — Die statthafte Nichtzulassungsbeschwerde der Klägerin ist auch im Übri- gen zulässig.
+- [BGH, Beschluss vom 17.04.2008 - IX ZR 76/07](ix-zr-76-07.md) — Die statthafte Rechtsbeschwerde ist auch im Übrigen zulässig.
 - [BGH, Beschluss vom 27.03.2008 - IX ZA 24/07](ix-za-24-07.md) — Aussichtslosigkeit unterbleibt. Die
-- [BGH, Beschluss vom 27.03.2008 - IX ZB 178/07](ix-zb-178-07.md) — BGH, Beschluss vom 27.03.2008 - IX ZB 178/07
-- [BGH, Beschluss vom 27.03.2008 - IX ZR 33/05](ix-zr-33-05.md) — BGH, Beschluss vom 27.03.2008 - IX ZR 33/05
-- [BGH, Beschluss vom 27.03.2008 - IX ZR 8/05](ix-zr-8-05.md) — BGH, Beschluss vom 27.03.2008 - IX ZR 8/05
+- [BGH, Beschluss vom 27.03.2008 - IX ZB 144/07](ix-zb-144-07.md) — Fehlens eines rechtlichen Interesses als unzulässig zurückgewiesen, weil das
+- [BGH, Beschluss vom 27.03.2008 - IX ZB 178/07](ix-zb-178-07.md) — der grund-
+- [BGH, Beschluss vom 27.03.2008 - IX ZB 9/07](ix-zb-9-07.md) — der erlangten Versorgungsbezüge gemäß § 35 BEG gerechtfertigt sein (vgl.
+- [BGH, Beschluss vom 27.03.2008 - IX ZR 185/05](ix-zr-185-05.md) — Die zulässige Beschwerde (§ 544 ZPO) ist unbegründet.
+- [BGH, Beschluss vom 27.03.2008 - IX ZR 210/07](ix-zr-210-07.md) — I. 1 Der Antrag auf Zulassung der Sprungrevision ist statthaft (§ 566 Abs. 1 Satz 1 Nr. 1 ZPO) und zulässig (§ 566 Abs. 2 ZPO). Er hat jedoch keinen Er- folg. Weder hat die …
+- [BGH, Beschluss vom 27.03.2008 - IX ZR 29/07](ix-zr-29-07.md) — I. 1 Der klagende Insolvenzverwalter verlangt von der beklagten Bank gem. §§ 675, 667 BGB die Auszahlung von Gutschriftsbeträgen, deren Verrechnung seiner Ansicht nach anfechtbar …
+- [BGH, Beschluss vom 27.03.2008 - IX ZR 33/05](ix-zr-33-05.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
+- [BGH, Urteil vom 27.03.2008 - IX ZR 65/06](ix-zr-65-06.md) — Tatbestand:
+- [BGH, Beschluss vom 27.03.2008 - IX ZR 8/05](ix-zr-8-05.md) — Die zulässige Beschwerde (§ 544 ZPO) ist unbegründet.
+- [BGH, Beschluss vom 27.03.2008 - IX ZR 95/05](ix-zr-95-05.md) — Die zulässige Beschwerde (§ 544 ZPO) ist unbegründet.
+- [BGH, Urteil vom 27.03.2008 - IX ZR 98/07](ix-zr-98-07.md) — Tatbestand:
+- [BGH, Beschluss vom 20.03.2008 - IX ZA 28/07](ix-za-28-07.md) — Das Prozesskostenhilfegesuch war zurückzuweisen, weil die Rechtsver- folgung keine Aussicht auf Erfolg bietet (§ 114 Satz 1 ZPO).
+- [BGH, Beschluss vom 20.03.2008 - IX ZA 29/07](ix-za-29-07.md) — Das Prozesskostenhilfegesuch war zurückzuweisen, weil die Rechtsver- folgung keine Aussicht auf Erfolg bietet (§ 114 Satz 1 ZPO).
+- [BGH, Beschluss vom 20.03.2008 - IX ZB 68/06](ix-zb-68-06.md) — I. 1 Der Beklagte ist Verwalter in dem Insolvenzverfahren über das Vermö- gen der Schuldnerin. Diese war von der Klägerin auf Zahlung von Werklohn in Höhe von umgerechnet …
+- [BGH, Beschluss vom 20.03.2008 - IX ZB 92/06](ix-zb-92-06.md) — I. 1 Der Kläger begehrt von dem Beklagten im Wege der Insolvenzanfech- tung die Zahlung von 8.000 € zuzüglich Zinsen. Das Landgericht hat den Be- klagten bis auf einen Teil der …
+- [BGH, Beschluss vom 20.03.2008 - IX ZR 10/06](ix-zr-10-06.md) — Die Nichtzulassungsbeschwerde ist unbegründet.
+- [BGH, Urteil vom 20.03.2008 - IX ZR 2/07](ix-zr-2-07.md) — Tatbestand:
+- [BGH, Urteil vom 20.03.2008 - IX ZR 236/06](ix-zr-236-06.md) — Tatbestand:
 - [BGH, Urteil vom 20.03.2008 - IX ZR 238/06](ix-zr-238-06.md) — Tatbestand:
+- [BGH, Beschluss vom 20.03.2008 - IX ZR 52/06](ix-zr-52-06.md) — Die Nichtzulassungsbeschwerde ist unbegründet.
+- [BGH, Beschluss vom 20.03.2008 - IX ZR 68/06](ix-zr-68-06.md) — Insolvenzzweckwidrigkeit nichtig.
+- [BGH, Beschluss vom 13.03.2008 - IX ZB 152/05](ix-zb-152-05.md) — Entrei-
 - [BGH, Beschluss vom 13.03.2008 - IX ZB 157/06](ix-zb-157-06.md) — BGH, Beschluss vom 13.03.2008 - IX ZB 157/06
+- [BGH, Beschluss vom 13.03.2008 - IX ZB 59/07](ix-zb-59-07.md) — Die Rechtsbeschwerde ist statthaft (§ 574 Abs.
+- [BGH, Beschluss vom 13.03.2008 - IX ZB 60/05](ix-zb-60-05.md) — I. 1 Am 14. Juli 2004 beantragte die Schuldnerin die Eröffnung des Insol- venzverfahrens über ihr Vermögen und Erteilung der Restschuldbefreiung. Mit Beschluss vom 15. Juli 2004 …
+- [BGH, Beschluss vom 13.03.2008 - IX ZB 67/07](ix-zb-67-07.md) — Gemäß § 47 Abs. 1 Satz 1 GKG bestimmt sich im Rechtsmittelverfahren der Streitwert nach den Anträgen des Rechtsmittelführers. Endet das Verfah- ren, ohne dass solche Anträge …
 - [BGH, Urteil vom 13.03.2008 - IX ZR 117/07](ix-zr-117-07.md) — Tatbestand:
 - [BGH, Urteil vom 13.03.2008 - IX ZR 119/06](ix-zr-119-06.md) — Tatbestand:
+- [BGH, Beschluss vom 13.03.2008 - IX ZR 13/05](ix-zr-13-05.md) — I. 1 Soweit die Klägerinnen die Zulassung der Revision für ihre vom Beru- fungsgericht abgewiesenen Hauptanträge auf Freistellung erstreben, ist diese mangels erhobener …
+- [BGH, Urteil vom 13.03.2008 - IX ZR 14/07](ix-zr-14-07.md) — Tatbestand:
+- [BGH, Beschluss vom 13.03.2008 - IX ZR 155/05](ix-zr-155-05.md) — Die zulässige Beschwerde (§ 544 ZPO) ist unbegründet.
+- [BGH, Beschluss vom 13.03.2008 - IX ZR 24/07](ix-zr-24-07.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordert eine Entscheidung des …
+- [BGH, Beschluss vom 28.02.2008 - IX ZB 147/07](ix-zb-147-07.md) — seines Vergütungsanspruchs zu den am Gegenstand des Rechts-
+- [BGH, Beschluss vom 28.02.2008 - IX ZR 126/06](ix-zr-126-06.md) — angefochten wird, und ent-
+- [BGH, Urteil vom 28.02.2008 - IX ZR 213/06](ix-zr-213-06.md) — 3-
 - [BGH, Beschluss vom 28.02.2008 - IX ZR 48/07](ix-zr-48-07.md) — BGH, Beschluss vom 28.02.2008 - IX ZR 48/07
+- [BGH, Beschluss vom 28.02.2008 - IX ZR 49/07](ix-zr-49-07.md) — Mängeln der
 - [BGH, Beschluss vom 21.02.2008 - IX ZA 26/07](ix-za-26-07.md) — BGH, Beschluss vom 21.02.2008 - IX ZA 26/07
 - [BGH, Beschluss vom 21.02.2008 - IX ZB 112/07](ix-zb-112-07.md) — BGH, Beschluss vom 21.02.2008 - IX ZB 112/07
+- [BGH, Beschluss vom 21.02.2008 - IX ZB 232/06](ix-zb-232-06.md) — I. 1 Der zunächst als vorläufiger Insolvenzverwalter eingesetzte Rechtsbe- schwerdeführer wurde durch Beschluss des Amtsgerichts Pinneberg vom 21. Juli 2004 zum Verwalter im …
 - [BGH, Beschluss vom 21.02.2008 - IX ZB 62/05](ix-zb-62-05.md) — BGH, Beschluss vom 21.02.2008 - IX ZB 62/05
+- [BGH, Beschluss vom 21.02.2008 - IX ZB 96/07](ix-zb-96-07.md) — I. 1 Das Insolvenzgericht hat den Entscheidungssatz seines Eröffnungsbe- schlusses über das Vermögen der Schuldnerin vom 21. Februar 2007 auf eine entsprechende Anregung der …
+- [BGH, Beschluss vom 21.02.2008 - IX ZR 124/07](ix-zr-124-07.md) — vor-
+- [BGH, Urteil vom 21.02.2008 - IX ZR 255/06](ix-zr-255-06.md) — Tatbestand:
+- [BGH, Beschluss vom 21.02.2008 - IX ZR 32/07](ix-zr-32-07.md) — Die statthafte Rechtsbeschwerde ist auch im Übrigen zulässig.
+- [BGH, Beschluss vom 21.02.2008 - IX ZR 44/07](ix-zr-44-07.md) — Die Nichtzulassungsbeschwerde ist statthaft und auch sonst zulässig.
 - [BGH, Beschluss vom 21.02.2008 - IX ZR 82/07](ix-zr-82-07.md) — der ohnehin gegebenen Zah-
+- [BGH, Beschluss vom 14.02.2008 - IX ZA 31/07](ix-za-31-07.md) — Die beabsichtigte Rechtsverfolgung hat keine Aussicht auf Erfolg (§ 114 ZPO).
 - [BGH, Beschluss vom 07.02.2008 - IX ZA 18/06](ix-za-18-06.md) — BGH, Beschluss vom 07.02.2008 - IX ZA 18/06
+- [BGH, Beschluss vom 07.02.2008 - IX ZB 77/05](ix-zb-77-05.md) — zu gewährende Wiedereinsetzung in den vorigen Stand scheidet mangels aktenkundiger Tatsachen aus (vgl. BGHZ 63, 389, 392; Beschl. v. 17. Jan
 - [BGH, Urteil vom 07.02.2008 - IX ZR 149/04](ix-zr-149-04.md) — Tatbestand:
-- [BGH, Beschluss vom 24.01.2008 - IX ZB 120/07](ix-zb-120-07.md) — BGH, Beschluss vom 24.01.2008 - IX ZB 120/07
+- [BGH, Beschluss vom 07.02.2008 - IX ZR 244/06](ix-zr-244-06.md) — die Vorinstanz die Revision zugelassen hat, bezieht sich nicht auf
+- [BGH, Beschluss vom 07.02.2008 - IX ZR 66/06](ix-zr-66-06.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
+- [BGH, Beschluss vom 24.01.2008 - IX ZB 120/07](ix-zb-120-07.md) — I. 1 Der Antragsteller war Insolvenzverwalter in dem am 21. Oktober 2003 eröffneten und am 25. Mai 2005 gemäß § 213 Abs. 1 InsO eingestellten Insol- venzverfahren über das …
 - [BGH, Beschluss vom 24.01.2008 - IX ZB 66/07](ix-zb-66-07.md) — BGH, Beschluss vom 24.01.2008 - IX ZB 66/07
 - [BGH, Urteil vom 24.01.2008 - IX ZR 216/06](ix-zr-216-06.md) — Tatbestand:
-- [BGH, Beschluss vom 17.01.2008 - IX ZB 167/06](ix-zb-167-06.md) — BGH, Beschluss vom 17.01.2008 - IX ZB 167/06
+- [BGH, Beschluss vom 17.01.2008 - IX ZB 118/07](ix-zb-118-07.md) — Die Eingabe vom 26. Juni 2007 ist als Rechtsbeschwerde zu behandeln und als solche nicht statthaft, weil die Rechtsbeschwerde weder nach dem Ge- setz allgemein eröffnet, noch vom …
+- [BGH, Beschluss vom 17.01.2008 - IX ZB 167/06](ix-zb-167-06.md) — fehlerhafter Besetzung des Be-
 - [BGH, Beschluss vom 17.01.2008 - IX ZB 202/06](ix-zb-202-06.md) — BGH, Beschluss vom 17.01.2008 - IX ZB 202/06
-- [BGH, Beschluss vom 17.01.2008 - IX ZR 134/07](ix-zr-134-07.md) — BGH, Beschluss vom 17.01.2008 - IX ZR 134/07
+- [BGH, Beschluss vom 17.01.2008 - IX ZR 134/07](ix-zr-134-07.md) — Gemäß § 552a ZPO weist das Revisionsgericht die von dem Berufungs- gericht zugelassene Revision durch einstimmigen Beschluss zurück, wenn es davon überzeugt ist, dass die …
 - [BGH, Urteil vom 17.01.2008 - IX ZR 220/06](ix-zr-220-06.md) — der Anmeldung von Tatsachen, aus denen sich nach Einschätzung des Gläubigers ergibt, dass der Forderung eine vorsätzlich begangene unerlaubt
 - [BGH, Beschluss vom 17.01.2008 - IX ZR 38/05](ix-zr-38-05.md) — BGH, Beschluss vom 17.01.2008 - IX ZR 38/05
+- [BGH, Beschluss vom 10.01.2008 - IX ZB 109/07](ix-zb-109-07.md) — ist eine zusätzliche Überprüfung gerichtlicher Entscheidungen im Wege der Rechtsbeschwerde nicht geboten (BGH, Beschl. v. 16. November 2006
+- [BGH, Beschluss vom 10.01.2008 - IX ZB 125/07](ix-zb-125-07.md) — Die Eingabe vom 8. Juni 2007 ist als Rechtsbeschwerde zu behandeln und als solche nicht statthaft, weil die Rechtsbeschwerde weder nach dem Ge- setz allgemein eröffnet noch vom …
 - [BGH, Urteil vom 10.01.2008 - IX ZR 94/06](ix-zr-94-06.md) — Tatbestand:

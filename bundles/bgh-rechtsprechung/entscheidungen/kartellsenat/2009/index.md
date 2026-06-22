@@ -1,8 +1,10 @@
 # Kartellsenat – 2009
 
-15 Entscheidung(en).
+17 Entscheidung(en).
 
 - [BGH, Beschluss vom 13.10.2009 - KVZ 41/08](kvz-41-08.md) — BGH, Beschluss vom 13.10.2009 - KVZ 41/08
+- [BGH, Beschluss vom 29.09.2009 - EnVR 36/08](envr-36-08.md) — Die Antragstellerin trägt nach § 90 EnWG die Kosten des Rechtsbeschwerde- verfahrens.
+- [BGH, Beschluss vom 29.09.2009 - EnVR 5/08](envr-5-08.md) — Die Antragstellerin trägt nach § 90 EnWG die Kosten des Rechtsbeschwerde- verfahrens.
 - [BGH, Beschluss vom 29.09.2009 - KZR 43/08](kzr-43-08.md) — BGH, Beschluss vom 29.09.2009 - KZR 43/08
 - [BGH, Beschluss vom 21.07.2009 - EnVR 12/08](envr-12-08.md) — BGH, Beschluss vom 21.07.2009 - EnVR 12/08
 - [BGH, Beschluss vom 21.07.2009 - EnVR 33/08](envr-33-08.md) — BGH, Beschluss vom 21.07.2009 - EnVR 33/08

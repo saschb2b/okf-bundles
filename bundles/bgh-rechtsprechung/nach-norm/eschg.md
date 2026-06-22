@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ESchG"
 description: "BGH-Entscheidungen zu ESchG, geordnet nach Vorschrift."
 tags: [register, navigation, eschg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

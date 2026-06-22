@@ -1,7 +1,8 @@
 # 2. Strafsenat – 2007
 
-56 Entscheidung(en).
+114 Entscheidung(en).
 
+- [BGH, Urteil vom 19.12.2007 - 2 StR 489/07](2-str-489-07.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 04.12.2007 - 2 StR 469/07](2-str-469-07.md) — Beihilfe zum räuberischen Diebstahl u. a.
 - [BGH, Beschluss vom 04.12.2007 - 2 StR 573/07](2-str-573-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 28.11.2007 - 2 StR 415/07](2-str-415-07.md) — Vergewaltigung hier: Anhörungsrüge
@@ -9,40 +10,87 @@
 - [BGH, Beschluss vom 21.11.2007 - 2 StR 548/07](2-str-548-07.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 14.11.2007 - 2 ARs 245/07](2-ars-245-07.md) — Widerstands gegen Vollstreckungsbeamte u. a.
 - [BGH, Beschluss vom 14.11.2007 - 2 ARs 297/06](2-ars-297-06.md) — Zuständigkeitsüberprüfung gemäß § 13 a StPO
+- [BGH, Beschluss vom 14.11.2007 - 2 ARs 446/07](2-ars-446-07.md) — Brandstiftung
 - [BGH, Beschluss vom 14.11.2007 - 2 StR 417/07](2-str-417-07.md) — Totschlags
 - [BGH, Beschluss vom 14.11.2007 - 2 StR 434/07](2-str-434-07.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 14.11.2007 - 2 StR 458/07](2-str-458-07.md) — versuchten Mordes u. a.
 - [BGH, Beschluss vom 14.11.2007 - 2 StR 465/07](2-str-465-07.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 14.11.2007 - 2 StR 501/07](2-str-501-07.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 02.11.2007 - 2 StR 384/07](2-str-384-07.md) — Betrugs
+- [BGH, Urteil vom 17.10.2007 - 2 StR 369/07](2-str-369-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 17.10.2007 - 2 StR 445/07](2-str-445-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 17.10.2007 - 2 StR 462/07](2-str-462-07.md) — versuchter schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 05.10.2007 - 2 StR 440/07](2-str-440-07.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 05.10.2007 - 2 StR 441/07](2-str-441-07.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 05.10.2007 - 2 StR 443/07](2-str-443-07.md) — Hehlerei u. a.
+- [BGH, Beschluss vom 04.10.2007 - 2 StR 401/07](2-str-401-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 04.10.2007 - 2 StR 431/07](2-str-431-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 26.09.2007 - 2 StR 290/07](2-str-290-07.md) — Betruges
 - [BGH, Beschluss vom 26.09.2007 - 2 StR 326/07](2-str-326-07.md) — besonders schwerer Vergewaltigung
 - [BGH, Beschluss vom 21.09.2007 - 2 StR 390/07](2-str-390-07.md) — Vergewaltigung
-- [BGH, Beschluss vom 29.08.2007 - 2 StR 306/07](2-str-306-07.md) — Totschlags
+- [BGH, Urteil vom 19.09.2007 - 2 StR 248/07](2-str-248-07.md) — Totschlags
+- [BGH, Beschluss vom 05.09.2007 - 2 StR 306/07](2-str-306-07.md) — Totschlags
+- [BGH, Beschluss vom 22.08.2007 - 2 StR 323/07](2-str-323-07.md) — Betrugs u. a.
 - [BGH, Beschluss vom 10.08.2007 - 2 StR 255/07](2-str-255-07.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 08.08.2007 - 2 StR 234/07](2-str-234-07.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 08.08.2007 - 2 StR 285/07](2-str-285-07.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 08.08.2007 - 2 StR 316/07](2-str-316-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 25.07.2007 - 2 StR 209/07](2-str-209-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 25.07.2007 - 2 StR 239/07](2-str-239-07.md) — Vergewaltigung
+- [BGH, Beschluss vom 19.07.2007 - 2 StR 266/07](2-str-266-07.md) — schwerer Brandstiftung u.a.
 - [BGH, Beschluss vom 18.07.2007 - 2 StR 280/07](2-str-280-07.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 17.07.2007 - 2 ARs 184/07](2-ars-184-07.md) — Mit dem Beschluss vom 25. Juni 2007 hat der Senat das Befangenheits- gesuch des Beschwerdeführers gegen alle Mitglieder des 2. Strafsenats sowie seine Beschwerde gegen den …
+- [BGH, Beschluss vom 11.07.2007 - 2 StR 236/07](2-str-236-07.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 06.07.2007 - 2 StR 207/07](2-str-207-07.md) — schweren Menschenhandels zum Zweck der sexuellen Ausbeutung u.a.
+- [BGH, Beschluss vom 04.07.2007 - 2 StR 258/07](2-str-258-07.md) — sexuellen Missbrauchs widerstandsunfähiger Personen
+- [BGH, Beschluss vom 04.07.2007 - 2 StR 505/06](2-str-505-06.md) — sexuellen Missbrauchs eines Kindes hier: Anhörungsrüge
+- [BGH, Beschluss vom 20.06.2007 - 2 ARs 162/07](2-ars-162-07.md) — Nötigung
 - [BGH, Beschluss vom 20.06.2007 - 2 StR 493/06](2-str-493-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 06.06.2007 - 2 StR 215/07](2-str-215-07.md) — Beihilfe zum (unerlaubten) Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 30.05.2007 - 2 StR 22/07](2-str-22-07.md) — Bandendiebstahls u. a.
+- [BGH, Beschluss vom 25.05.2007 - 2 StR 186/07](2-str-186-07.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 25.05.2007 - 2 StR 469/06](2-str-469-06.md) — Untreue
+- [BGH, Beschluss vom 23.05.2007 - 2 StR 138/07](2-str-138-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 16.05.2007 - 2 StR 78/07](2-str-78-07.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 09.05.2007 - 2 StR 530/06](2-str-530-06.md) — gewerbsmäßiger Bandenhehlerei u. a. hier: Anhörungsrüge
+- [BGH, Urteil vom 27.04.2007 - 2 StR 490/06](2-str-490-06.md) — Bestechlichkeit
+- [BGH, Beschluss vom 25.04.2007 - 2 StR 25/07](2-str-25-07.md) — zu 1.: Betrugs zu 2.: Beihilfe zur Untreue
 - [BGH, Beschluss vom 18.04.2007 - 2 ARs 150/07](2-ars-150-07.md) — gemeinschaftlichen gewerbsmäßigen Betrugs
+- [BGH, Beschluss vom 18.04.2007 - 2 StR 111/07](2-str-111-07.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 18.04.2007 - 2 StR 144/07](2-str-144-07.md) — Untreue u. a.
+- [BGH, Beschluss vom 18.04.2007 - 2 StR 541/06](2-str-541-06.md) — Untreue u.a.
 - [BGH, Urteil vom 18.04.2007 - 2 StR 571/06](2-str-571-06.md) — des Verdachts des Menschenhandels zum Zweck der sexuellen Ausbeutung u.a.
 - [BGH, Beschluss vom 18.04.2007 - 2 StR 589/06](2-str-589-06.md) — sexueller Nötigung u. a.
 - [BGH, Beschluss vom 11.04.2007 - 2 StR 107/07](2-str-107-07.md) — Beihilfe zur Zuhälterei
 - [BGH, Urteil vom 04.04.2007 - 2 StR 37/07](2-str-37-07.md) — schweren Raubes
+- [BGH, Beschluss vom 28.03.2007 - 2 ARs 121/07](2-ars-121-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 28.03.2007 - 2 StR 103/07](2-str-103-07.md) — besonders schwerer Vergewaltigung
 - [BGH, Beschluss vom 28.03.2007 - 2 StR 41/07](2-str-41-07.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 28.03.2007 - 2 StR 62/07](2-str-62-07.md) — Mordes u. a.
+- [BGH, Beschluss vom 23.03.2007 - 2 ARs 70/07](2-ars-70-07.md) — Die Voraussetzungen einer Abgabe gemäß § 42 Abs.
+- [BGH, Beschluss vom 23.03.2007 - 2 StR 46/07](2-str-46-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 23.03.2007 - 2 StR 80/07](2-str-80-07.md) — Beihilfe zur Urkundenfälschung u. a.
 - [BGH, Beschluss vom 23.03.2007 - 2 StR 92/07](2-str-92-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 23.03.2007 - 2 StR 97/07](2-str-97-07.md) — Wohnungseinbruchsdiebstahls
+- [BGH, Beschluss vom 21.03.2007 - 2 ARs 107/07](2-ars-107-07.md) — Beleidigung eines Vorsitzenden Richters am Landgericht
+- [BGH, Beschluss vom 21.03.2007 - 2 ARs 87/07](2-ars-87-07.md) — Verstoßes gegen das Betäubungsmittelgesetz u. a.
+- [BGH, Beschluss vom 21.03.2007 - 2 StR 598/06](2-str-598-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 20.03.2007 - 2 ARs 116/07](2-ars-116-07.md) — räuberischen Diebstahls u. a.
 - [BGH, Beschluss vom 16.03.2007 - 2 StR 50/07](2-str-50-07.md) — versuchten Diebstahls
+- [BGH, Beschluss vom 14.03.2007 - 2 StR 54/07](2-str-54-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 14.03.2007 - 2 StR 606/06](2-str-606-06.md) — schweren Raubes
 - [BGH, Beschluss vom 14.03.2007 - 2 StR 75/07](2-str-75-07.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 09.03.2007 - 2 StR 11/07](2-str-11-07.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 09.03.2007 - 2 StR 63/07](2-str-63-07.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 07.03.2007 - 2 StR 42/07](2-str-42-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 07.03.2007 - 2 StR 52/07](2-str-52-07.md) — Das Landgericht hat die Unterbringung des Beschuldigten in einem psy- chiatrischen Krankenhaus angeordnet.
+- [BGH, Beschluss vom 02.03.2007 - 2 StR 559/06](2-str-559-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 28.02.2007 - 2 ARs 48/07](2-ars-48-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge hier: Zuständigkeitsstreit gemäß § 14 StPO
+- [BGH, Beschluss vom 28.02.2007 - 2 StR 338/06](2-str-338-06.md) — Betruges
 - [BGH, Beschluss vom 28.02.2007 - 2 StR 467/06](2-str-467-06.md) — des Verdachts mittelbarer Falschbeurkundung
 - [BGH, Urteil vom 28.02.2007 - 2 StR 516/06](2-str-516-06.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 28.02.2007 - 2 StR 57/07](2-str-57-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 28.02.2007 - 2 StR 67/07](2-str-67-07.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 21.02.2007 - 2 StR 5/07](2-str-5-07.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 21.02.2007 - 2 StR 540/06](2-str-540-06.md) — Mordes u. a.
 - [BGH, Beschluss vom 14.02.2007 - 2 ARs 63/07](2-ars-63-07.md) — Bandenhehlerei u. a.
@@ -53,8 +101,18 @@
 - [BGH, Beschluss vom 07.02.2007 - 2 StR 577/06](2-str-577-06.md) — Beihilfe zum schweren Raub u. a.
 - [BGH, Beschluss vom 31.01.2007 - 2 ARs 525/06](2-ars-525-06.md) — Diebstahls u. a.
 - [BGH, Beschluss vom 31.01.2007 - 2 StR 605/06](2-str-605-06.md) — gewerbsmäßiger unerlaubter Abgabe von Betäubungsmitteln
+- [BGH, Beschluss vom 26.01.2007 - 2 StR 591/06](2-str-591-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 24.01.2007 - 2 StR 431/06](2-str-431-06.md) — Diebstahls oder gewerbsmäßiger Hehlerei; hier: Antrag nach § 356a StPO
+- [BGH, Beschluss vom 24.01.2007 - 2 StR 461/06](2-str-461-06.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 24.01.2007 - 2 StR 583/06](2-str-583-06.md) — Raubes u. a.
 - [BGH, Beschluss vom 19.01.2007 - 2 StR 498/06](2-str-498-06.md) — versuchter schwerer Brandstiftung u. a.
+- [BGH, Beschluss vom 19.01.2007 - 2 StR 558/06](2-str-558-06.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 17.01.2007 - 2 StR 277/06](2-str-277-06.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 17.01.2007 - 2 StR 567/06](2-str-567-06.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 17.01.2007 - 2 StR 568/06](2-str-568-06.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 12.01.2007 - 2 StR 485/06](2-str-485-06.md) — Betrugs u. a.
 - [BGH, Beschluss vom 10.01.2007 - 2 ARs 545/06](2-ars-545-06.md) — gemeinschädlicher Sachbeschädigung
+- [BGH, Beschluss vom 10.01.2007 - 2 StR 405/06](2-str-405-06.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.01.2007 - 2 StR 486/06](2-str-486-06.md) — Raubes u. a.
+- [BGH, Beschluss vom 10.01.2007 - 2 StR 496/06](2-str-496-06.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.01.2007 - 2 StR 555/06](2-str-555-06.md) — Mordes

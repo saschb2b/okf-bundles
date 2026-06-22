@@ -9,7 +9,7 @@ datum: 2007-09-11
 aktenzeichen: "XII ZB 27/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:25:17Z
+timestamp: 2026-06-22T14:17:48Z
 ---
 # Volltext
 

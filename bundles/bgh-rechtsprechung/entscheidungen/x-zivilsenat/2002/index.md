@@ -1,21 +1,32 @@
 # X. Zivilsenat – 2002
 
-25 Entscheidung(en).
+36 Entscheidung(en).
 
-- [BGH, Urteil vom 10.12.2002 - X ZR 68/99](x-zr-68-99.md) — Tatbestand: Die Beklagte ist Inhaberin des auch mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 0 555 460 (Str
+- [BGH, Beschluss vom 17.12.2002 - X ZB 21/01](x-zb-21-01.md) — BGH, Beschluss vom 17.12.2002 - X ZB 21/01
+- [BGH, Beschluss vom 03.12.2002 - X ZB 20/02](x-zb-20-02.md) — Die Beschwerde des Antragstellers ist unzulässig.
+- [BGH, Beschluss vom 19.11.2002 - X ZB 19/02](x-zb-19-02.md) — I. Der Beklagte ist vom Amtsgericht Starnberg zur Zahlung eines Geldbetrags verurteilt worden. Nach fristgerechter Berufungseinlegung ist die an das für das Berufungsverfahren …
+- [BGH, Urteil vom 19.11.2002 - X ZR 243/01](x-zr-243-01.md) — Tatbestand: Der Kläger ist ein in die Liste qualifizierter Einrichtungen nach § 22 a AGBG (jetzt § 4 Abs. 1 Nr. 1 UKlaG) eingetragener Verei
+- [BGH, Beschluss vom 12.11.2002 - X ZR 176/01](x-zr-176-01.md) — Besorgnis der Befangenheit grundsätzlich nicht rechtfertigt.
 - [BGH, Urteil vom 22.10.2002 - X ZR 115/99](x-zr-115-99.md) — Tatbestand:
 - [BGH, Urteil vom 15.10.2002 - X ZR 132/01](x-zr-132-01.md) — Tatbestand:
 - [BGH, Urteil vom 15.10.2002 - X ZR 147/01](x-zr-147-01.md) — nicht voraussehbarer höherer Gewalt besteht auch dann, wenn mit dem Eintritt des schädigenden Ereignisses (hier: Hurrikan im Zielgebiet in d
+- [BGH, Urteil vom 09.10.2002 - X ZR 22/99](x-zr-22-99.md) — BGH, Urteil vom 09.10.2002 - X ZR 22/99
+- [BGH, Urteil vom 09.10.2002 - X ZR 80/01](x-zr-80-01.md) — Tatbestand: Die Klägerin betreibt eine Werbeagentur. Sie nimmt die Beklagte, eine Einzelhandelsfilialistin mit zahlreichen Filialen, auf Zah
 - [BGH, Beschluss vom 10.09.2002 - X ZB 11/02](x-zb-11-02.md) — Verletzung des Grundgesetzes (gesetzlicher Richter) oder einer sonstigen greifbaren Gesetzwidrigkeit.
 - [BGH, Urteil vom 09.07.2002 - X ZR 154/00](x-zr-154-00.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2002 - X ZR 242/99](x-zr-242-99.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2002 - X ZR 244/00](x-zr-244-00.md) — BGH, Urteil vom 09.07.2002 - X ZR 244/00
 - [BGH, Urteil vom 09.07.2002 - X ZR 70/00](x-zr-70-00.md) — eines mit der Widerklage geltend gemachten Betrages von 6.758.139,94 DM nebst anteiliger Zinsen und des mit der Widerklage verfolgten Festst
 - [BGH, Urteil vom 28.05.2002 - X ZR 18/99](x-zr-18-99.md) — BGH, Urteil vom 28.05.2002 - X ZR 18/99
+- [BGH, Urteil vom 23.04.2002 - X ZR 209/99](x-zr-209-99.md) — Tatbestand:
+- [BGH, Urteil vom 23.04.2002 - X ZR 29/00](x-zr-29-00.md) — des Zahlungsantrags zu 1 a) und der Feststellungsanträge 3 bis 5 abgewiesen worden ist. Auf die Anschlußrevision der Beklagten wird das Urte
+- [BGH, Beschluss vom 23.04.2002 - X ZR 83/01](x-zr-83-01.md) — Der Senat hat den Antragsteller gebeten mitzuteilen, ob er dazu in der Lage und bereit sei, als gerichtlicher Sachverständiger ein schriftliches Gutachten zu erstatten.
 - [BGH, Beschluss vom 12.03.2002 - X ZB 12/00](x-zb-12-00.md) — BGH, Beschluss vom 12.03.2002 - X ZB 12/00
+- [BGH, Urteil vom 12.03.2002 - X ZR 135/01](x-zr-135-01.md) — Tatbestand:
 - [BGH, Urteil vom 12.03.2002 - X ZR 168/00](x-zr-168-00.md) — Tatbestand: Die Klägerin ist Inhaberin einer ausschließlichen Lizenz an dem am 12. Juni 1987 angemeldeten deutschen Patent 37 19 721 (Klagep
 - [BGH, Urteil vom 12.03.2002 - X ZR 224/98](x-zr-224-98.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 12.03.2002 - X ZR 226/99](x-zr-226-99.md) — immaterieller Schäden (Schmerzensgeld) gegen den Beklagten zu 1 zuerkannt worden sind.
+- [BGH, Urteil vom 12.03.2002 - X ZR 43/01](x-zr-43-01.md) — BGH, Urteil vom 12.03.2002 - X ZR 43/01
 - [BGH, Urteil vom 12.03.2002 - X ZR 73/01](x-zr-73-01.md) — Tatbestand:
 - [BGH, Beschluss vom 29.01.2002 - X ZB 12/01](x-zb-12-01.md) — BGH, Beschluss vom 29.01.2002 - X ZB 12/01
 - [BGH, Urteil vom 29.01.2002 - X ZR 231/00](x-zr-231-00.md) — Tatbestand:

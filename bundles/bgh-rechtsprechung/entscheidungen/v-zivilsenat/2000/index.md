@@ -1,19 +1,26 @@
 # V. Zivilsenat – 2000
 
-38 Entscheidung(en).
+47 Entscheidung(en).
 
+- [BGH, Urteil vom 15.12.2000 - V ZR 241/99](v-zr-241-99.md) — Tatbestand:
 - [BGH, Beschluss vom 14.12.2000 - V ZB 51/00](v-zb-51-00.md) — ihrer vorangegangenen Spruchtätigkeit nicht genehm sind, von der Ent-
-- [BGH, Beschluss vom 16.11.2000 - V ZB 48/00](v-zb-48-00.md) — BGH, Beschluss vom 16.11.2000 - V ZB 48/00
+- [BGH, Beschluss vom 16.11.2000 - V ZB 48/00](v-zb-48-00.md) — der zu befürchtenden Kostenbelastung sei ihm auch nicht zumutbar gewesen, die Kostenentscheidung zu einem Zeitpunkt anzufechten, zu dem noch
 - [BGH, Urteil vom 03.11.2000 - V ZR 189/99](v-zr-189-99.md) — BGH, Urteil vom 03.11.2000 - V ZR 189/99
 - [BGH, Urteil vom 03.11.2000 - V ZR 306/99](v-zr-306-99.md) — des Ausstehens der Genehmigung der Rechtsaufsichtsbehörde nach § 49 KomVerf schwebend unwirksame Grundstücksgeschäfte der Gemeinde wurden mi
+- [BGH, Beschluss vom 26.10.2000 - V ZB 32/00](v-zb-32-00.md) — I. Der Beklagte wurde vom Landgericht verurteilt, einen Kaufvertrag mit dem Inhalt eines notariellen Vermittlungsvorschlages abzuschließen. Nach Zustellung des Urteils am 22. März …
 - [BGH, Urteil vom 20.10.2000 - V ZR 207/99](v-zr-207-99.md) — Tatbestand:
 - [BGH, Urteil vom 20.10.2000 - V ZR 285/99](v-zr-285-99.md) — BGH, Urteil vom 20.10.2000 - V ZR 285/99
 - [BGH, Beschluss vom 28.09.2000 - V ZB 35/00](v-zb-35-00.md) — BGH, Beschluss vom 28.09.2000 - V ZB 35/00
+- [BGH, Urteil vom 15.09.2000 - V ZR 420/98](v-zr-420-98.md) — Tatbestand:
+- [BGH, Beschluss vom 13.09.2000 - V ZB 14/00](v-zb-14-00.md) — I. Die Beteiligte ist Eigentümerin einer Wohnung. Im Grundbuch sind zu ihren Gunsten als Inhalt des Sondereigentums zwei in der Teilungserklärung vom 23. Oktober 1978/5. Oktober …
 - [BGH, Urteil vom 14.07.2000 - V ZR 320/98](v-zr-320-98.md) — BGH, Urteil vom 14.07.2000 - V ZR 320/98
 - [BGH, Urteil vom 14.07.2000 - V ZR 328/99](v-zr-328-99.md) — Tatbestand:
 - [BGH, Urteil vom 14.07.2000 - V ZR 368/98](v-zr-368-98.md) — der Überlassung der Lagerhalle in Höhe von 64.440 DM zuzüglich der verlangten Zinsen zum Nachteil der Klägerin erkannt worden ist.
 - [BGH, Urteil vom 14.07.2000 - V ZR 384/98](v-zr-384-98.md) — Tatbestand:
 - [BGH, Urteil vom 14.07.2000 - V ZR 82/99](v-zr-82-99.md) — aufgewendeter Kreditzinsen) erklärte Aufrechnung mit einem Saldoposten erst beachtlich, wenn der Saldo feststeht; dies gilt auch dann, wenn
+- [BGH, Urteil vom 07.07.2000 - V ZR 287/99](v-zr-287-99.md) — einer Störung des gemeinschaftlichen Eigentums beginnt nicht, bevor nicht jeder Miterbe Kenntnis vom Entstehen des Anspruchs hat.
+- [BGH, Urteil vom 07.07.2000 - V ZR 425/98](v-zr-425-98.md) — Tatbestand:
+- [BGH, Urteil vom 07.07.2000 - V ZR 435/98](v-zr-435-98.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 30.06.2000 - V ZR 116/99](v-zr-116-99.md) — Tatbestand:
 - [BGH, Urteil vom 30.06.2000 - V ZR 149/99](v-zr-149-99.md) — Tatbestand:
 - [BGH, Urteil vom 30.06.2000 - V ZR 156/99](v-zr-156-99.md) — Tatbestand:
@@ -35,6 +42,8 @@
 - [BGH, Beschluss vom 03.02.2000 - V ZR 386/99](v-zr-386-99.md) — BGH, Beschluss vom 03.02.2000 - V ZR 386/99
 - [BGH, Urteil vom 28.01.2000 - V ZR 252/98](v-zr-252-98.md) — Tatbestand:
 - [BGH, Urteil vom 28.01.2000 - V ZR 402/98](v-zr-402-98.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2000 - V ZR 327/98](v-zr-327-98.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2000 - V ZR 387/98](v-zr-387-98.md) — Tatbestand:
 - [BGH, Urteil vom 14.01.2000 - V ZR 269/98](v-zr-269-98.md) — Nichterfüllung" eines notariellen Kaufvertrages wird nicht der Anspruch des Schuldners gegen den Drittschuldner auf Zahlung des Kaufpreises
 - [BGH, Urteil vom 14.01.2000 - V ZR 386/98](v-zr-386-98.md) — Tatbestand:
 - [BGH, Urteil vom 14.01.2000 - V ZR 416/97](v-zr-416-97.md) — Tatbestand:

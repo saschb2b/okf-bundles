@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VerbrKrG"
 description: "BGH-Entscheidungen zu VerbrKrG, geordnet nach Vorschrift."
 tags: [register, navigation, verbrkrg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

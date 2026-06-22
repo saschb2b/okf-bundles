@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GSG"
 description: "BGH-Entscheidungen zu GSG, geordnet nach Vorschrift."
 tags: [register, navigation, gsg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

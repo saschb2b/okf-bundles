@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 29.05.2000 - AnwZ (B) 43/99"
-description: "Zulassung zur Rechtsanwaltschaft "
+description: "Zulassung zur Rechtsanwaltschaft"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/1999/AnwZ_B__43-99.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "Senat für Anwaltssachen"
@@ -9,7 +9,7 @@ datum: 2000-05-29
 aktenzeichen: "AnwZ (B) 43/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:10:08Z
+timestamp: 2026-06-22T14:01:47Z
 ---
 # Volltext
 

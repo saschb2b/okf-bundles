@@ -9,7 +9,7 @@ datum: 2008-11-26
 aktenzeichen: "XII ZR 85/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:28:22Z
+timestamp: 2026-06-22T14:21:31Z
 ---
 # Volltext
 

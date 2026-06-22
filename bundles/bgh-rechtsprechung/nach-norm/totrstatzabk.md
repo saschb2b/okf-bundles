@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu TOTrStatZAbk"
 description: "BGH-Entscheidungen zu TOTrStatZAbk, geordnet nach Vorschrift."
 tags: [register, navigation, totrstatzabk]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

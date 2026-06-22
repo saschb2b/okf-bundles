@@ -1,44 +1,75 @@
 # III. Zivilsenat – 2008
 
-40 Entscheidung(en).
+71 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2008 - III ZR 249/07](iii-zr-249-07.md) — Der von der Beschwerde geltend gemachte Zulassungsgrund der Siche- rung einer einheitlichen Rechtsprechung gemäß § 543 Abs.
 - [BGH, Beschluss vom 11.12.2008 - III ZB 53/08](iii-zb-53-08.md) — BGH, Beschluss vom 11.12.2008 - III ZB 53/08
 - [BGH, Beschluss vom 11.12.2008 - III ZR 216/07](iii-zr-216-07.md) — BGH, Beschluss vom 11.12.2008 - III ZR 216/07
 - [BGH, Beschluss vom 11.12.2008 - III ZR 271/07](iii-zr-271-07.md) — BGH, Beschluss vom 11.12.2008 - III ZR 271/07
 - [BGH, Beschluss vom 04.12.2008 - III ZB 15/08](iii-zb-15-08.md) — BGH, Beschluss vom 04.12.2008 - III ZB 15/08
 - [BGH, Beschluss vom 04.12.2008 - III ZB 93/07](iii-zb-93-07.md) — BGH, Beschluss vom 04.12.2008 - III ZB 93/07
+- [BGH, Beschluss vom 27.11.2008 - III ZR 196/07](iii-zr-196-07.md) — grundsätzlicher Bedeutung zuzulassen. Die von der Nichtzulassungsbeschwer-
+- [BGH, Beschluss vom 27.11.2008 - III ZR 303/07](iii-zr-303-07.md) — Der Kläger sieht eine Verletzung seines Anspruchs auf rechtliches Gehör darin, dass der Senat ihm nicht die Möglichkeit vorbehalten habe, nach Zulas- sung der Revision und nach …
+- [BGH, Beschluss vom 11.11.2008 - III ZB 31/08](iii-zb-31-08.md) — BGH, Beschluss vom 11.11.2008 - III ZB 31/08
 - [BGH, Beschluss vom 11.11.2008 - III ZR 313/07](iii-zr-313-07.md) — BGH, Beschluss vom 11.11.2008 - III ZR 313/07
 - [BGH, Beschluss vom 11.11.2008 - III ZR 314/07](iii-zr-314-07.md) — BGH, Beschluss vom 11.11.2008 - III ZR 314/07
 - [BGH, Beschluss vom 11.11.2008 - III ZR 315/07](iii-zr-315-07.md) — BGH, Beschluss vom 11.11.2008 - III ZR 315/07
 - [BGH, Beschluss vom 11.11.2008 - III ZR 317/07](iii-zr-317-07.md) — BGH, Beschluss vom 11.11.2008 - III ZR 317/07
-- [BGH, Beschluss vom 30.10.2008 - III ZR 205/07](iii-zr-205-07.md) — BGH, Beschluss vom 30.10.2008 - III ZR 205/07
+- [BGH, Urteil vom 06.11.2008 - III ZR 120/08](iii-zr-120-08.md) — Tatbestand
+- [BGH, Urteil vom 06.11.2008 - III ZR 121/08](iii-zr-121-08.md) — Tatbestand
+- [BGH, Beschluss vom 30.10.2008 - III ZR 205/07](iii-zr-205-07.md) — des unterlassenen Hinweises unterblieben sei, rechtfertigt im Übrigen auch in der Sache keine andere Beurteilung als sie das Oberlandesgeric
 - [BGH, Beschluss vom 30.10.2008 - III ZR 307/07](iii-zr-307-07.md) — BGH, Beschluss vom 30.10.2008 - III ZR 307/07
-- [BGH, Beschluss vom 16.10.2008 - III ZB 31/08](iii-zb-31-08.md) — BGH, Beschluss vom 16.10.2008 - III ZB 31/08
 - [BGH, Urteil vom 16.10.2008 - III ZR 253/07](iii-zr-253-07.md) — Tatbestand
 - [BGH, Beschluss vom 09.10.2008 - III ZR 13/08](iii-zr-13-08.md) — einer Amtspflichtverletzung als
-- [BGH, Beschluss vom 25.09.2008 - III ZR 207/07](iii-zr-207-07.md) — BGH, Beschluss vom 25.09.2008 - III ZR 207/07
-- [BGH, Beschluss vom 25.09.2008 - III ZR 259/07](iii-zr-259-07.md) — BGH, Beschluss vom 25.09.2008 - III ZR 259/07
+- [BGH, Beschluss vom 25.09.2008 - III ZB 63/08](iii-zb-63-08.md) — Der Senat fasst das als Beschwerde gegen den Beschluss des Landgerichts Bückeburg und die Bestätigung durch das Oberlandesgericht Celle bezeichnete Rechtsmittel als …
+- [BGH, Beschluss vom 17.09.2008 - III ZR 326/07](iii-zr-326-07.md) — eines beruflichen Tätigkeitsverbots im Sinn des § 31 IfSG ist gegen das Land, in dem das Verbot erlassen wurde, zu richten (§ 66 Abs. 1 IfSG
 - [BGH, Beschluss vom 17.09.2008 - III ZR 71/08](iii-zr-71-08.md) — BGH, Beschluss vom 17.09.2008 - III ZR 71/08
 - [BGH, Urteil vom 11.09.2008 - III ZR 212/07](iii-zr-212-07.md) — einer Straftat im Zusammenhang mit dem Führen eines Kraftfahrzeugs entzogen worden ist, seinen Wohnsitz bei Erteilung der Fahrerlaubnis nich
+- [BGH, Urteil vom 10.07.2008 - III ZR 255/07](iii-zr-255-07.md) — Tatbestand
 - [BGH, Beschluss vom 03.07.2008 - III ZA 8/08](iii-za-8-08.md) — BGH, Beschluss vom 03.07.2008 - III ZA 8/08
-- [BGH, Beschluss vom 12.06.2008 - III ZR 305/07](iii-zr-305-07.md) — BGH, Beschluss vom 12.06.2008 - III ZR 305/07
+- [BGH, Urteil vom 03.07.2008 - III ZR 189/07](iii-zr-189-07.md) — Tatbestand
+- [BGH, Urteil vom 03.07.2008 - III ZR 260/07](iii-zr-260-07.md) — Tatbestand
+- [BGH, Beschluss vom 12.06.2008 - III ZR 305/07](iii-zr-305-07.md) — Eine Zulassung der Revision ist nicht geboten.
 - [BGH, Urteil vom 05.06.2008 - III ZR 137/07](iii-zr-137-07.md) — Tatbestand
 - [BGH, Beschluss vom 29.05.2008 - III ZA 9/08](iii-za-9-08.md) — BGH, Beschluss vom 29.05.2008 - III ZA 9/08
+- [BGH, Urteil vom 29.05.2008 - III ZR 330/07](iii-zr-330-07.md) — Tatbestand
+- [BGH, Urteil vom 29.05.2008 - III ZR 59/07](iii-zr-59-07.md) — Tatbestand
+- [BGH, Beschluss vom 21.05.2008 - III ZR 174/07](iii-zr-174-07.md) — legen und davon ausgehen, dass sich der weitergehende Vortrag der Kläger im Schriftsatz vom 28.
 - [BGH, Beschluss vom 21.05.2008 - III ZR 194/07](iii-zr-194-07.md) — BGH, Beschluss vom 21.05.2008 - III ZR 194/07
 - [BGH, Beschluss vom 21.05.2008 - III ZR 228/07](iii-zr-228-07.md) — BGH, Beschluss vom 21.05.2008 - III ZR 228/07
+- [BGH, Beschluss vom 21.05.2008 - III ZR 230/07](iii-zr-230-07.md) — nicht gezahlter Miet-
+- [BGH, Beschluss vom 30.04.2008 - III ZA 27/07](iii-za-27-07.md) — BGH, Beschluss vom 30.04.2008 - III ZA 27/07
 - [BGH, Beschluss vom 30.04.2008 - III ZB 8/08](iii-zb-8-08.md) — BGH, Beschluss vom 30.04.2008 - III ZB 8/08
 - [BGH, Beschluss vom 30.04.2008 - III ZR 127/07](iii-zr-127-07.md) — BGH, Beschluss vom 30.04.2008 - III ZR 127/07
 - [BGH, Beschluss vom 30.04.2008 - III ZR 202/07](iii-zr-202-07.md) — einer unterlassenen Beförderung bemisst sich nach dem Rechtsgedanken des § 9 ZPO. Danach ist der 3½-fache Wert der einjährigen Bruttogehalts
 - [BGH, Beschluss vom 17.04.2008 - III ZB 97/06](iii-zb-97-06.md) — widersprüchlichen Verhaltens (venire contra factum proprium) entgegensteht.
 - [BGH, Urteil vom 17.04.2008 - III ZR 27/06](iii-zr-27-06.md) — Tatbestand
+- [BGH, Beschluss vom 10.04.2008 - III ZR 21/08](iii-zr-21-08.md) — BGH, Beschluss vom 10.04.2008 - III ZR 21/08
+- [BGH, Beschluss vom 03.04.2008 - III ZA 4/08](iii-za-4-08.md) — Die beabsichtigte Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg, wie es Voraussetzung für die Bewilligung von Prozesskostenhilfe ist (§ 114 Satz 1 ZPO).
+- [BGH, Urteil vom 03.04.2008 - III ZR 190/07](iii-zr-190-07.md) — Sittenwidrigkeit nichtig.
+- [BGH, Urteil vom 03.04.2008 - III ZR 243/07](iii-zr-243-07.md) — Tatbestand
+- [BGH, Beschluss vom 19.03.2008 - III ZB 80/07](iii-zb-80-07.md) — Ar-
+- [BGH, Beschluss vom 19.03.2008 - III ZR 220/07](iii-zr-220-07.md) — Verstoßes gegen das Rechtsberatungsgesetz).
 - [BGH, Beschluss vom 19.03.2008 - III ZR 49/07](iii-zr-49-07.md) — der zwischenzeitlichen Rechtsänderung erfolgreich mit der Vollstreckungsabwehrklage angegriffen werden kann (im Anschluss an BVerwGE 117, 44
 - [BGH, Urteil vom 13.03.2008 - III ZR 165/07](iii-zr-165-07.md) — Verletzung der Pflicht zu korrektem Steuerabzug.
+- [BGH, Urteil vom 06.03.2008 - III ZR 206/07](iii-zr-206-07.md) — Tatbestand
+- [BGH, Urteil vom 06.03.2008 - III ZR 219/06](iii-zr-219-06.md) — Tatbestand
 - [BGH, Urteil vom 06.03.2008 - III ZR 219/07](iii-zr-219-07.md) — Tatbestand
 - [BGH, Urteil vom 06.03.2008 - III ZR 298/05](iii-zr-298-05.md) — Tatbestand
+- [BGH, Urteil vom 06.03.2008 - III ZR 87/06](iii-zr-87-06.md) — Tatbestand
 - [BGH, Urteil vom 28.02.2008 - III ZR 149/07](iii-zr-149-07.md) — Tatbestand
+- [BGH, Urteil vom 28.02.2008 - III ZR 151/06](iii-zr-151-06.md) — Tatbestand
+- [BGH, Beschluss vom 28.02.2008 - III ZR 186/07](iii-zr-186-07.md) — Der Rechtsbehelf ist zulässig, aber unbegründet.
 - [BGH, Urteil vom 28.02.2008 - III ZR 297/05](iii-zr-297-05.md) — Tatbestand
 - [BGH, Beschluss vom 28.02.2008 - III ZR 65/07](iii-zr-65-07.md) — BGH, Beschluss vom 28.02.2008 - III ZR 65/07
+- [BGH, Beschluss vom 28.02.2008 - III ZR 74/07](iii-zr-74-07.md) — Der Rechtsbehelf ist zulässig aber unbegründet.
+- [BGH, Urteil vom 28.02.2008 - III ZR 90/06](iii-zr-90-06.md) — Tatbestand
+- [BGH, Beschluss vom 28.02.2008 - III ZR 92/06](iii-zr-92-06.md) — BGH, Beschluss vom 28.02.2008 - III ZR 92/06
+- [BGH, Beschluss vom 21.02.2008 - III ZB 74/07](iii-zb-74-07.md) — I. 1 Durch Urteil des Amtsgerichts vom 18. Mai 2007 wurde die zunächst von der D. GmbH erhobene und später im Wege des Parteiwechsels nach einer Rückab- tretung von den Klägern …
 - [BGH, Urteil vom 21.02.2008 - III ZR 200/07](iii-zr-200-07.md) — eines Sachmangels Gewährleistungsrechte zu.
+- [BGH, Beschluss vom 21.02.2008 - III ZR 29/07](iii-zr-29-07.md) — Verschuldens bei Vertragsschluss, weil sie bei Abschluss des
+- [BGH, Urteil vom 14.02.2008 - III ZR 145/07](iii-zr-145-07.md) — Tatbestand
+- [BGH, Beschluss vom 31.01.2008 - III ZR 108/07](iii-zr-108-07.md) — der im Prospekt abgedruckten Bestätigungsvermerke befasst und
 - [BGH, Beschluss vom 31.01.2008 - III ZR 135/07](iii-zr-135-07.md) — der im Prospekt abgedruckten Bestätigungsvermerke befasst und
 - [BGH, Beschluss vom 31.01.2008 - III ZR 161/07](iii-zr-161-07.md) — einer Insolvenzstraftat steht der Bestellung eines Rechtsanwalts zum Insolvenzverwalter im Allgemeinen ohne Rücksicht darauf entgegen, ob di
 - [BGH, Urteil vom 17.01.2008 - III ZR 239/06](iii-zr-239-06.md) — Tatbestand

@@ -9,7 +9,7 @@ datum: 2005-02-16
 aktenzeichen: "VIII ZR 6/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:19:06Z
+timestamp: 2026-06-22T14:11:19Z
 ---
 # Volltext
 

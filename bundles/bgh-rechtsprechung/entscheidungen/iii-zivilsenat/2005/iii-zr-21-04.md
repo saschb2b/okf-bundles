@@ -9,7 +9,7 @@ datum: 2005-06-09
 aktenzeichen: "III ZR 21/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:19:45Z
+timestamp: 2026-06-22T14:11:55Z
 ---
 # Volltext
 

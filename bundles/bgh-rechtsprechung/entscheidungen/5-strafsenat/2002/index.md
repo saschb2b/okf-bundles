@@ -1,16 +1,20 @@
 # 5. Strafsenat – 2002
 
-58 Entscheidung(en).
+79 Entscheidung(en).
 
 - [BGH, Beschluss vom 11.12.2002 - 5 StR 519/02](5-str-519-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 10.12.2002 - 5 StR 433/02](5-str-433-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 10.12.2002 - 5 StR 454/02](5-str-454-02.md) — sexueller Nötigung u.a.
-- [BGH, Urteil vom 09.12.2002 - 5 StR 276/02](5-str-276-02.md) — Verletzung des Dienstgeheimnisses
+- [BGH, Urteil vom 09.12.2002 - 5 StR 276/02](5-str-276-02.md) — : nein Veröffentlichung: ja StGB § 353b Abs. 1 Satz 1 Strafbarkeit nach § 353b Abs. 1 Satz 1 StGB liegt mangels Gefährdung wichtiger öffentlicher Interessen nicht vor, wenn ein …
+- [BGH, Urteil vom 28.11.2002 - 5 StR 334/02](5-str-334-02.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 28.11.2002 - 5 StR 381/02](5-str-381-02.md) — Steuerhinterziehung u.a.
 - [BGH, Beschluss vom 26.11.2002 - 5 StR 479/02](5-str-479-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 26.11.2002 - 5 StR 513/02](5-str-513-02.md) — Geldwäsche u.a.
 - [BGH, Beschluss vom 07.11.2002 - 5 StR 336/02](5-str-336-02.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 07.11.2002 - 5 StR 357/02](5-str-357-02.md) — Betruges u.a.
 - [BGH, Beschluss vom 07.11.2002 - 5 StR 401/02](5-str-401-02.md) — Betruges u.a.
 - [BGH, Beschluss vom 07.11.2002 - 5 StR 472/02](5-str-472-02.md) — BGH, Beschluss vom 07.11.2002 - 5 StR 472/02
+- [BGH, Entscheidung vom 06.11.2002 - 5 StR 421/02](5-str-421-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 05.11.2002 - 5 StR 249/02](5-str-249-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 05.11.2002 - 5 StR 368/02](5-str-368-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 05.11.2002 - 5 StR 447/02](5-str-447-02.md) — Mordes u.a.
@@ -18,9 +22,14 @@
 - [BGH, Urteil vom 22.10.2002 - 5 StR 295/02](5-str-295-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 22.10.2002 - 5 StR 441/02](5-str-441-02.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 21.10.2002 - 5 ARs 33/02](5-ars-33-02.md) — versuchten Mordes u.a. hier: Anfragebeschluß vom 14. August 2002 – 2 StR 251/02
-- [BGH, Beschluss vom 21.10.2002 - 5 StR 433/02](5-str-433-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 09.10.2002 - 5 StR 252/02](5-str-252-02.md) — Anstiftung zum Mord u.a.
+- [BGH, Urteil vom 09.10.2002 - 5 StR 42/02](5-str-42-02.md) — : ja Veröffentlichung: ja StGB §§ 227, 22, 23 Der Versuch einer Körperverletzung mit Todesfolge in Form eines "erfolgsqualifizierten Versuchs" ist möglich. BGH, Urt. v. 9. Oktober …
 - [BGH, Beschluss vom 08.10.2002 - 5 StR 309/02](5-str-309-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 08.10.2002 - 5 StR 365/02](5-str-365-02.md) — Totschlags
+- [BGH, Beschluss vom 26.09.2002 - 5 StR 374/02](5-str-374-02.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 26.09.2002 - 5 StR 389/02](5-str-389-02.md) — Computerbetruges
+- [BGH, Beschluss vom 26.09.2002 - 5 StR 397/02](5-str-397-02.md) — schweren Raubes
+- [BGH, Beschluss vom 26.09.2002 - 5 StR 428/02](5-str-428-02.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 20.08.2002 - 5 StR 215/02](5-str-215-02.md) — Bestechlichkeit u.a.
 - [BGH, Beschluss vom 20.08.2002 - 5 StR 259/02](5-str-259-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 20.08.2002 - 5 StR 269/02](5-str-269-02.md) — Betruges u.a.
@@ -32,6 +41,13 @@
 - [BGH, Beschluss vom 07.08.2002 - 5 StR 228/02](5-str-228-02.md) — Untreue
 - [BGH, Beschluss vom 07.08.2002 - 5 StR 248/02](5-str-248-02.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 07.08.2002 - 5 StR 292/02](5-str-292-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 11.07.2002 - 5 StR 516/01](5-str-516-01.md) — : ja Veröffentlichung: ja StGB § 46 Abs. 2 Satz 2; AO § 370 Abs. 1 Nr. 1; UStG § 14 Abs. 3 Können Scheinrechnungen nach den vom Gerichtshof der Europäischen Gemeinschaften …
+- [BGH, Beschluss vom 26.06.2002 - 5 StR 456/01](5-str-456-01.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 13.06.2002 - 5 StR 188/02](5-str-188-02.md) — Betruges
+- [BGH, Beschluss vom 13.06.2002 - 5 StR 193/02](5-str-193-02.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 13.06.2002 - 5 StR 201/02](5-str-201-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 13.06.2002 - 5 StR 203/02](5-str-203-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 13.06.2002 - 5 StR 237/02](5-str-237-02.md) — Vergewaltigung
 - [BGH, Urteil vom 11.06.2002 - 5 StR 130/02](5-str-130-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 11.06.2002 - 5 StR 170/02](5-str-170-02.md) — Beihilfe zur Brandstiftung
 - [BGH, Beschluss vom 11.06.2002 - 5 StR 190/02](5-str-190-02.md) — schwerer Brandstiftung
@@ -40,7 +56,10 @@
 - [BGH, Beschluss vom 16.05.2002 - 5 StR 12/02](5-str-12-02.md) — Betruges
 - [BGH, Beschluss vom 16.05.2002 - 5 StR 136/02](5-str-136-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 16.05.2002 - 5 StR 137/02](5-str-137-02.md) — Beihilfe zur Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 16.05.2002 - 5 StR 166/02](5-str-166-02.md) — Nötigung u.a.
 - [BGH, Beschluss vom 16.05.2002 - 5 StR 176/02](5-str-176-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 22.04.2002 - 5 StR 101/02](5-str-101-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 22.04.2002 - 5 StR 149/02](5-str-149-02.md) — Vergewaltigung
 - [BGH, Beschluss vom 20.03.2002 - 5 StR 1/02](5-str-1-02.md) — gewerbsmäßigen Betruges u.a.
 - [BGH, Beschluss vom 20.03.2002 - 5 StR 448/01](5-str-448-01.md) — Steuerhinterziehung u.a.
 - [BGH, Beschluss vom 20.03.2002 - 5 StR 574/01](5-str-574-01.md) — Beihilfe zur gewerbsmäßigen Bandenhehlerei u.a.
@@ -60,3 +79,5 @@
 - [BGH, Beschluss vom 22.01.2002 - 5 StR 568/01](5-str-568-01.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 22.01.2002 - 5 StR 578/01](5-str-578-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 10.01.2002 - 5 StR 452/01](5-str-452-01.md) — der Abgabe unrichtiger Steuererklärungen ein Steuerstrafverfahren anhängig, rechtfertigt das in § 393 Abs. 1 Sätze 2 und 3 AO normierte Zwan
+- [BGH, Beschluss vom 09.01.2002 - 5 StR 543/01](5-str-543-01.md) — Raubes mit Todesfolge
+- [BGH, Beschluss vom 09.01.2002 - 5 StR 556/01](5-str-556-01.md) — schweren sexuellen Mißbrauchs von Kindern

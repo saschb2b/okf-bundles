@@ -1,32 +1,74 @@
 # 5. Strafsenat – 2007
 
-28 Entscheidung(en).
+70 Entscheidung(en).
 
 - [BGH, Beschluss vom 19.12.2007 - 5 StR 534/07](5-str-534-07.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 19.12.2007 - 5 StR 543/07](5-str-543-07.md) — Betrugs
+- [BGH, Beschluss vom 18.12.2007 - 5 StR 530/07](5-str-530-07.md) — Totschlags
+- [BGH, Beschluss vom 18.12.2007 - 5 StR 552/07](5-str-552-07.md) — versuchter besonders schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 06.12.2007 - 5 StR 418/07](5-str-418-07.md) — schweren Bandendiebstahls u. a.
+- [BGH, Beschluss vom 06.12.2007 - 5 StR 478/07](5-str-478-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 06.12.2007 - 5 StR 522/07](5-str-522-07.md) — versuchter räuberischer Erpressung mit Todesfolge u. a.
+- [BGH, Beschluss vom 05.12.2007 - 5 StR 451/07](5-str-451-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 05.12.2007 - 5 StR 471/07](5-str-471-07.md) — Totschlags
+- [BGH, Beschluss vom 05.12.2007 - 5 StR 495/07](5-str-495-07.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 04.12.2007 - 5 StR 491/07](5-str-491-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 03.12.2007 - 5 StR 504/07](5-str-504-07.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 08.11.2007 - 5 StR 393/07](5-str-393-07.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 08.11.2007 - 5 StR 403/07](5-str-403-07.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 07.11.2007 - 5 StR 325/07](5-str-325-07.md) — Betruges
+- [BGH, Beschluss vom 24.10.2007 - 5 StR 308/07](5-str-308-07.md) — besonders schwerer Vergewaltigung
+- [BGH, Beschluss vom 24.10.2007 - 5 StR 455/07](5-str-455-07.md) — räuberischen Diebstahls u. a.
+- [BGH, Urteil vom 23.10.2007 - 5 StR 161/07](5-str-161-07.md) — Bestimmens eines Minderjährigen zum unerlaubten Veräußern von Betäubungsmitteln u. a.
+- [BGH, Urteil vom 23.10.2007 - 5 StR 270/07](5-str-270-07.md) — Computerbetruges u. a.
+- [BGH, Beschluss vom 23.10.2007 - 5 StR 334/07](5-str-334-07.md) — Totschlags
+- [BGH, Beschluss vom 23.10.2007 - 5 StR 381/07](5-str-381-07.md) — BGH, Beschluss vom 23.10.2007 - 5 StR 381/07
+- [BGH, Beschluss vom 23.10.2007 - 5 StR 401/07](5-str-401-07.md) — Unterschlagung u. a.
+- [BGH, Beschluss vom 22.10.2007 - 5 StR 364/07](5-str-364-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 10.10.2007 - 5 StR 376/07](5-str-376-07.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Beschluss vom 09.10.2007 - 5 StR 374/07](5-str-374-07.md) — Mordes u. a.
+- [BGH, Beschluss vom 27.09.2007 - 5 StR 230/07](5-str-230-07.md) — Unterschlagung hier: Antrag des Verurteilten nach § 356a StPO
 - [BGH, Beschluss vom 27.09.2007 - 5 StR 414/07](5-str-414-07.md) — Betruges u. a.
+- [BGH, Beschluss vom 26.09.2007 - 5 StR 208/07](5-str-208-07.md) — Vergewaltigung
 - [BGH, Beschluss vom 26.09.2007 - 5 StR 373/07](5-str-373-07.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 25.09.2007 - 5 StR 226/07](5-str-226-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 25.09.2007 - 5 StR 277/07](5-str-277-07.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 25.09.2007 - 5 StR 375/07](5-str-375-07.md) — Totschlags
+- [BGH, Beschluss vom 24.09.2007 - 5 StR 397/07](5-str-397-07.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 13.09.2007 - 5 StR 65/07](5-str-65-07.md) — Beihilfe zum Betrug
+- [BGH, Urteil vom 12.09.2007 - 5 StR 227/07](5-str-227-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 11.09.2007 - 5 StR 213/07](5-str-213-07.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 30.08.2007 - 5 StR 247/07](5-str-247-07.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 28.08.2007 - 5 StR 267/07](5-str-267-07.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Urteil vom 28.08.2007 - 5 StR 31/07](5-str-31-07.md) — Mordes u. a.
 - [BGH, Beschluss vom 15.08.2007 - 5 StR 199/07](5-str-199-07.md) — Betruges u. a.
+- [BGH, Beschluss vom 01.08.2007 - 5 StR 147/07](5-str-147-07.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 01.08.2007 - 5 StR 276/07](5-str-276-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 01.08.2007 - 5 StR 282/07](5-str-282-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 31.07.2007 - 5 StR 347/06](5-str-347-06.md) — Untreue
 - [BGH, Beschluss vom 18.07.2007 - 5 StR 224/07](5-str-224-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u. a.
 - [BGH, Beschluss vom 18.07.2007 - 5 StR 271/07](5-str-271-07.md) — Beihilfe zur Steuerhinterziehung
 - [BGH, Beschluss vom 18.07.2007 - 5 StR 279/07](5-str-279-07.md) — vorsätzlichen Vollrausches
 - [BGH, Beschluss vom 18.07.2007 - 5 StR 39/07](5-str-39-07.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u. a.
 - [BGH, Beschluss vom 17.07.2007 - 5 StR 219/07](5-str-219-07.md) — Mordes u. a.
-- [BGH, Urteil vom 06.06.2007 - 5 StR 127/07](5-str-127-07.md) — Untreue (§ 266 StGB) in Tateinheit mit Steuerhinterziehung (§ 370 AO), nicht aber wegen Computerbetruges (§ 263a StGB) strafbar.
+- [BGH, Urteil vom 21.06.2007 - 5 StR 532/06](5-str-532-06.md) — Steuerhinterziehung u. a.
+- [BGH, Urteil vom 21.06.2007 - 5 StR 83/07](5-str-83-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.06.2007 - 5 StR 461/06](5-str-461-06.md) — Beihilfe zum bandenmäßigen Schmuggel hier: Antrag des Wahlverteidigers auf Feststellung einer Pauschgebühr
+- [BGH, Urteil vom 06.06.2007 - 5 StR 127/07](5-str-127-07.md) — : ja (zu 1. und 2.) Veröffentlichung : ja AO § 370 Abs. 1 Nr. 1; StGB §§ 52, 263, 263a, 266 1. Bewirkt ein Sachbearbeiter des Finanzamtes durch die eigenhändig vorgenommene …
 - [BGH, Beschluss vom 05.06.2007 - 5 StR 126/07](5-str-126-07.md) — sexuellen Missbrauchs eines Kindes
 - [BGH, Beschluss vom 05.06.2007 - 5 StR 182/07](5-str-182-07.md) — besonders schwerer Vergewaltigung
+- [BGH, Beschluss vom 24.05.2007 - 5 StR 72/07](5-str-72-07.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 10.05.2007 - 5 StR 87/07](5-str-87-07.md) — gewerbsmäßiger Steuerhehlerei u. a.
 - [BGH, Beschluss vom 09.05.2007 - 5 StR 24/07](5-str-24-07.md) — Steuerhinterziehung u. a.
 - [BGH, Urteil vom 18.04.2007 - 5 StR 546/06](5-str-546-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 16.04.2007 - 5 StR 335/06](5-str-335-06.md) — Mordes u. a.
+- [BGH, Beschluss vom 27.03.2007 - 5 StR 491/06](5-str-491-06.md) — Totschlags
 - [BGH, Beschluss vom 13.02.2007 - 5 StR 4/07](5-str-4-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 01.02.2007 - 5 StR 445/06](5-str-445-06.md) — schweren räuberischen Diebstahls u. a.
 - [BGH, Beschluss vom 01.02.2007 - 5 StR 494/06](5-str-494-06.md) — Mordes u. a.
+- [BGH, Beschluss vom 10.01.2007 - 5 StR 304/06](5-str-304-06.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 10.01.2007 - 5 StR 305/06](5-str-305-06.md) — : ja Veröffentlichung : ja IRG § 72 StPO §§ 206a, 353 Abs. 2 Zum Widerruf der Bewilligung von Rechtshilfen durch Überstellung von Unterlagen, wenn diese bereits abschließend …
+- [BGH, Beschluss vom 10.01.2007 - 5 StR 401/06](5-str-401-06.md) — schwerer Brandstiftung u. a.
 - [BGH, Beschluss vom 10.01.2007 - 5 StR 454/06](5-str-454-06.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 10.01.2007 - 5 StR 542/06](5-str-542-06.md) — Diebstahls
 - [BGH, Beschluss vom 09.01.2007 - 5 StR 489/06](5-str-489-06.md) — schweren Raubes

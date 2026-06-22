@@ -1,15 +1,28 @@
 # 1. Strafsenat – 2009
 
-42 Entscheidung(en).
+77 Entscheidung(en).
 
 - [BGH, Beschluss vom 17.12.2009 - 1 StR 436/09](1-str-436-09.md) — Steuerhinterziehung u.a. hier: Anhörungsrüge
+- [BGH, Beschluss vom 09.12.2009 - 1 StR 563/09](1-str-563-09.md) — Geiselnahme u.a.
+- [BGH, Beschluss vom 02.12.2009 - 1 StR 478/09](1-str-478-09.md) — Steuerhinterziehung u.a. hier: Anhörungsrüge
+- [BGH, Beschluss vom 24.11.2009 - 1 StR 565/09](1-str-565-09.md) — Mordes u.a.
+- [BGH, Beschluss vom 11.11.2009 - 1 StR 547/09](1-str-547-09.md) — Beihilfe zur mittelbaren Falschbeurkundung u.a.
+- [BGH, Beschluss vom 10.11.2009 - 1 StR 162/09](1-str-162-09.md) — gewerbs- und bandenmäßigen Betruges u.a.
 - [BGH, Beschluss vom 10.11.2009 - 1 StR 283/09](1-str-283-09.md) — Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 29.10.2009 - 1 StR 431/09](1-str-431-09.md) — Steuerhinterziehung u.a.
 - [BGH, Beschluss vom 29.10.2009 - 1 StR 459/09](1-str-459-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 29.10.2009 - 1 StR 501/09](1-str-501-09.md) — Steuerhinterziehung u.a.
+- [BGH, Urteil vom 28.10.2009 - 1 StR 205/09](1-str-205-09.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 27.10.2009 - 1 StR 343/09](1-str-343-09.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 27.10.2009 - 1 StR 515/09](1-str-515-09.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 06.10.2009 - 1 StR 494/09](1-str-494-09.md) — versuchten Mordes u.a. Der 1. Strafsenat des Bundesgerichtshofs hat am 6. Oktober 2009 beschlossen:
 - [BGH, Beschluss vom 29.09.2009 - 1 StR 376/09](1-str-376-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 29.09.2009 - 1 StR 451/09](1-str-451-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 29.09.2009 - 1 StR 476/09](1-str-476-09.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 16.09.2009 - 1 StR 440/09](1-str-440-09.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 16.09.2009 - 1 StR 475/09](1-str-475-09.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 01.09.2009 - 1 StR 301/09](1-str-301-09.md) — Untreue u.a.
+- [BGH, Beschluss vom 01.09.2009 - 1 StR 399/09](1-str-399-09.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 01.09.2009 - 1 StR 412/09](1-str-412-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 01.09.2009 - 1 StR 441/09](1-str-441-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 19.08.2009 - 1 StR 282/09](1-str-282-09.md) — Steuerhinterziehung u.a.
@@ -22,7 +35,10 @@
 - [BGH, Beschluss vom 05.08.2009 - 1 StR 363/09](1-str-363-09.md) — Hehlerei
 - [BGH, Beschluss vom 04.08.2009 - 1 StR 287/09](1-str-287-09.md) — Vergewaltigung u.a. hier: Anhörungsrüge vom 22. Juli 2009
 - [BGH, Beschluss vom 04.08.2009 - 1 StR 297/09](1-str-297-09.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 04.08.2009 - 1 StR 300/09](1-str-300-09.md) — besonders schwerer Vergewaltigung u.a.
+- [BGH, Beschluss vom 08.07.2009 - 1 StR 214/09](1-str-214-09.md) — Steuerhinterziehung u.a.
 - [BGH, Urteil vom 24.06.2009 - 1 StR 216/09](1-str-216-09.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 24.06.2009 - 1 StR 229/09](1-str-229-09.md) — Steuerhinterziehung u.a.
 - [BGH, Urteil vom 23.06.2009 - 1 StR 191/09](1-str-191-09.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 18.06.2009 - 1 StR 237/09](1-str-237-09.md) — unerlaubter Veräußerung von Betäubungsmitteln
 - [BGH, Beschluss vom 17.06.2009 - 1 StR 212/09](1-str-212-09.md) — falscher uneidlicher Aussage u.a.
@@ -31,16 +47,35 @@
 - [BGH, Beschluss vom 17.06.2009 - 1 StR 252/09](1-str-252-09.md) — schweren Bandendiebstahls
 - [BGH, Beschluss vom 17.06.2009 - 1 StR 263/09](1-str-263-09.md) — schwerer Körperverletzung u.a.
 - [BGH, Urteil vom 26.05.2009 - 1 StR 597/08](1-str-597-08.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 13.05.2009 - 1 StR 149/09](1-str-149-09.md) — Steuerhehlerei u.a.
+- [BGH, Beschluss vom 13.05.2009 - 1 StR 199/09](1-str-199-09.md) — besonders schweren Raubes u. a.
 - [BGH, Beschluss vom 13.05.2009 - 1 StR 209/09](1-str-209-09.md) — zu 1.: Vergewaltigung u.a. zu 2.: Beihilfe zur Vergewaltigung u.a.
 - [BGH, Urteil vom 12.05.2009 - 1 StR 718/08](1-str-718-08.md) — Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 05.05.2009 - 1 StR 737/08](1-str-737-08.md) — versuchten schweren Raubes u.a.
 - [BGH, Urteil vom 29.04.2009 - 1 StR 701/08](1-str-701-08.md) — Mordes u.a.
+- [BGH, Beschluss vom 22.04.2009 - 1 StR 140/09](1-str-140-09.md) — Beihilfe zur Steuerhehlerei u.a.
 - [BGH, Beschluss vom 22.04.2009 - 1 StR 39/09](1-str-39-09.md) — Steuerhinterziehung u.a.
 - [BGH, Beschluss vom 21.04.2009 - 1 StR 105/09](1-str-105-09.md) — sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 21.04.2009 - 1 StR 163/09](1-str-163-09.md) — räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 21.04.2009 - 1 StR 73/09](1-str-73-09.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 01.04.2009 - 1 StR 138/09](1-str-138-09.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 01.04.2009 - 1 StR 79/09](1-str-79-09.md) — zu 1. bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 31.03.2009 - 1 StR 76/09](1-str-76-09.md) — besonders schwerer Vergewaltigung
 - [BGH, Urteil vom 18.03.2009 - 1 StR 549/08](1-str-549-08.md) — Mordes u.a.
+- [BGH, Beschluss vom 17.03.2009 - 1 StR 479/08](1-str-479-08.md) — Steuerhinterziehung
 - [BGH, Urteil vom 17.03.2009 - 1 StR 627/08](1-str-627-08.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 04.03.2009 - 1 StR 27/09](1-str-27-09.md) — gewerbs- und bandenmäßigen Betruges
 - [BGH, Beschluss vom 03.03.2009 - 1 StR 61/09](1-str-61-09.md) — unerlaubten Führens einer halbautomatischen Kurzwaffe u.a.
+- [BGH, Beschluss vom 18.02.2009 - 1 StR 4/09](1-str-4-09.md) — der Vortat strafbar i.S.d. § 261 Abs. 9 Satz 2 StGB gemacht hat, ist allein auf das deutsche Recht abzustellen.
 - [BGH, Beschluss vom 18.02.2009 - 1 StR 731/08](1-str-731-08.md) — Betruges
+- [BGH, Beschluss vom 17.02.2009 - 1 StR 37/09](1-str-37-09.md) — Brandstiftung u.a.
 - [BGH, Beschluss vom 17.02.2009 - 1 StR 381/08](1-str-381-08.md) — wiederholten Zuwiderhandelns gegen eine räumliche Beschränkung
+- [BGH, Beschluss vom 17.02.2009 - 1 StR 691/08](1-str-691-08.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 05.02.2009 - 1 StR 697/08](1-str-697-08.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 03.02.2009 - 1 StR 687/08](1-str-687-08.md) — Bestechung im geschäftlichen Verkehr
 - [BGH, Beschluss vom 22.01.2009 - 1 StR 618/08](1-str-618-08.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 21.01.2009 - 1 StR 661/08](1-str-661-08.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 21.01.2009 - 1 StR 680/08](1-str-680-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 21.01.2009 - 1 StR 727/08](1-str-727-08.md) — bandenmäßiger Geldfälschung
+- [BGH, Beschluss vom 20.01.2009 - 1 StR 705/08](1-str-705-08.md) — gewerbsmäßiger Bandenhehlerei u.a.
+- [BGH, Beschluss vom 13.01.2009 - 1 StR 709/08](1-str-709-08.md) — Geiselnahme u.a.

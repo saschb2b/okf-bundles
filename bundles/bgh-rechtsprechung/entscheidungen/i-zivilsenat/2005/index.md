@@ -1,53 +1,78 @@
 # I. Zivilsenat – 2005
 
-52 Entscheidung(en).
+77 Entscheidung(en).
 
 - [BGH, Beschluss vom 15.12.2005 - I ZB 32/04](i-zb-32-04.md) — BGH, Beschluss vom 15.12.2005 - I ZB 32/04
 - [BGH, Beschluss vom 15.12.2005 - I ZB 33/04](i-zb-33-04.md) — BGH, Beschluss vom 15.12.2005 - I ZB 33/04
 - [BGH, Beschluss vom 15.12.2005 - I ZB 34/04](i-zb-34-04.md) — BGH, Beschluss vom 15.12.2005 - I ZB 34/04
-- [BGH, Beschluss vom 15.12.2005 - I ZB 63/05](i-zb-63-05.md) — BGH, Beschluss vom 15.12.2005 - I ZB 63/05
+- [BGH, Beschluss vom 15.12.2005 - I ZB 63/05](i-zb-63-05.md) — I. Die Gläubigerin betreibt gegen den Schuldner aus mehreren Kosten- festsetzungsbeschlüssen die Zwangsvollstreckung. Nachdem der Schuldner im Termin zur Abgabe der …
+- [BGH, Urteil vom 15.12.2005 - I ZR 72/03](i-zr-72-03.md) — Tatbestand:
 - [BGH, Urteil vom 15.12.2005 - I ZR 9/03](i-zr-9-03.md) — Tatbestand:
+- [BGH, Urteil vom 15.12.2005 - I ZR 95/03](i-zr-95-03.md) — Tatbestand:
 - [BGH, Urteil vom 01.12.2005 - I ZR 108/04](i-zr-108-04.md) — Tatbestand:
 - [BGH, Urteil vom 01.12.2005 - I ZR 265/03](i-zr-265-03.md) — Absehens von einem Hinweis auf die Gefahr eines ungewöhnlich hohen Schadens (§ 254 Abs. 2 Satz 1 BGB) setzt nicht die Feststellung voraus, d
+- [BGH, Beschluss vom 24.11.2005 - I ZR 28/05](i-zr-28-05.md) — des erweiterten Schutzbereichs der Gemeinschaftsmarke (vgl. dazu auch BGHZ 127, 262, 273 f. - NEUTREX - zur Geltendmachung von Ansprüchen au
 - [BGH, Beschluss vom 17.11.2005 - I ZB 12/04](i-zb-12-04.md) — BGH, Beschluss vom 17.11.2005 - I ZB 12/04
+- [BGH, Beschluss vom 17.11.2005 - I ZB 13/04](i-zb-13-04.md) — I. Der Schutz der nachfolgend wiedergegebenen, unter IR 638 663 für die Waren „Rasoirs électriques, parties et accessoires pour les produits précités, y compris unités de rasage …
 - [BGH, Beschluss vom 17.11.2005 - I ZB 45/05](i-zb-45-05.md) — BGH, Beschluss vom 17.11.2005 - I ZB 45/05
 - [BGH, Beschluss vom 17.11.2005 - I ZB 48/05](i-zb-48-05.md) — BGH, Beschluss vom 17.11.2005 - I ZB 48/05
 - [BGH, Urteil vom 17.11.2005 - I ZR 300/02](i-zr-300-02.md) — der höheren Kostenbelastung gegenüber einer streitgenössischen Inanspruchnahme auf der Beklagtenseite rechtsmissbräuchlich sein. Dass die zu
+- [BGH, Urteil vom 03.11.2005 - I ZR 311/02](i-zr-311-02.md) — Tatbestand:
 - [BGH, Urteil vom 03.11.2005 - I ZR 53/05](i-zr-53-05.md) — BGH, Urteil vom 03.11.2005 - I ZR 53/05
+- [BGH, Beschluss vom 20.10.2005 - I ZB 21/05](i-zb-21-05.md) — einer Kennzeichenverletzung und eines
+- [BGH, Urteil vom 20.10.2005 - I ZR 112/03](i-zr-112-03.md) — 3-
 - [BGH, Urteil vom 20.10.2005 - I ZR 18/03](i-zr-18-03.md) — Tatbestand:
+- [BGH, Beschluss vom 06.10.2005 - I ZB 20/03](i-zb-20-03.md) — I. Gegen die Eintragung der von der Markeninhaberin am 9. Dezember 1992 für die Dienstleistungen "Marktforschung, Meinungsforschung, Sozialfor- schung" angemeldeten Wortmarke Nr …
 - [BGH, Beschluss vom 06.10.2005 - I ZB 37/05](i-zb-37-05.md) — BGH, Beschluss vom 06.10.2005 - I ZB 37/05
 - [BGH, Urteil vom 06.10.2005 - I ZR 266/02](i-zr-266-02.md) — BGH, Urteil vom 06.10.2005 - I ZR 266/02
 - [BGH, Urteil vom 06.10.2005 - I ZR 267/02](i-zr-267-02.md) — Tatbestand:
+- [BGH, Urteil vom 06.10.2005 - I ZR 322/02](i-zr-322-02.md) — Tatbestand:
 - [BGH, Beschluss vom 22.09.2005 - I ZB 4/05](i-zb-4-05.md) — BGH, Beschluss vom 22.09.2005 - I ZB 4/05
 - [BGH, Beschluss vom 22.09.2005 - I ZB 40/03](i-zb-40-03.md) — BGH, Beschluss vom 22.09.2005 - I ZB 40/03
 - [BGH, Urteil vom 22.09.2005 - I ZR 188/02](i-zr-188-02.md) — BGH, Urteil vom 22.09.2005 - I ZR 188/02
 - [BGH, Urteil vom 22.09.2005 - I ZR 28/03](i-zr-28-03.md) — Tatbestand:
 - [BGH, Urteil vom 22.09.2005 - I ZR 55/02](i-zr-55-02.md) — BGH, Urteil vom 22.09.2005 - I ZR 55/02
 - [BGH, Urteil vom 22.09.2005 - I ZR 67/03](i-zr-67-03.md) — Tatbestand:
+- [BGH, Beschluss vom 15.09.2005 - I ZB 10/03](i-zb-10-03.md) — I. Gegen die für "Strumpfwaren" eingetragene und am 5. Februar 1996 veröffentlichte Wortmarke Nr. 395 06 940 "Nora" hat die Widersprechende Widerspruch erhoben aus der am 20. Juni …
+- [BGH, Beschluss vom 15.09.2005 - I ZB 25/03](i-zb-25-03.md) — I. Der Verein zum Schutz der geographischen Angabe Königsberger Mar- zipan e.V. hat beim Deutschen Patent- und Markenamt beantragt, die Bezeich- nung "Königsberger Marzipan" für …
 - [BGH, Urteil vom 15.09.2005 - I ZR 151/02](i-zr-151-02.md) — vermeidbarer Herkunftstäuschung nach §§ 3, 4 Nr. 9 lit. a UWG werden nicht dadurch ausgeschlossen, dass für das Erzeugnis Schutz für ein nic
+- [BGH, Beschluss vom 28.07.2005 - I ZB 20/05](i-zb-20-05.md) — I. Der in Spanien ansässige Geschmacksmusterinhaber, der im Inland weder eine Niederlassung noch einen Wohnsitz hat, meldete am 1. Juni 1988 vier Muster für Schreibgeräte in Form …
+- [BGH, Beschluss vom 28.07.2005 - I ZR 154/04](i-zr-154-04.md) — BGH, Beschluss vom 28.07.2005 - I ZR 154/04
 - [BGH, Beschluss vom 21.07.2005 - I ZR 172/04](i-zr-172-04.md) — dieser beiden Bestandteile als wettbewerbswidriges Gewinnspiel untersagt ist -, sich die Revision des Beschwerdeführers aber nur gegen den v
+- [BGH, Beschluss vom 21.07.2005 - I ZR 204/04](i-zr-204-04.md) — BGH, Beschluss vom 21.07.2005 - I ZR 204/04
 - [BGH, Urteil vom 21.07.2005 - I ZR 290/02](i-zr-290-02.md) — BGH, Urteil vom 21.07.2005 - I ZR 290/02
 - [BGH, Urteil vom 21.07.2005 - I ZR 293/02](i-zr-293-02.md) — Tatbestand:
 - [BGH, Urteil vom 21.07.2005 - I ZR 318/02](i-zr-318-02.md) — Tatbestand:
 - [BGH, Beschluss vom 07.07.2005 - I ZB 7/05](i-zb-7-05.md) — BGH, Beschluss vom 07.07.2005 - I ZB 7/05
-- [BGH, Urteil vom 09.06.2005 - I ZR 135/02](i-zr-135-02.md) — Tatbestand:
+- [BGH, Urteil vom 07.07.2005 - I ZR 115/01](i-zr-115-01.md) — Tatbestand:
+- [BGH, Beschluss vom 07.07.2005 - I ZR 289/02](i-zr-289-02.md) — über die Kosten zu entscheiden. Gemäß § 98 ZPO kann die in dem Vergleich getroffene Kostenregelung der Kostenentscheidung gemäß § 91a ZPO zu
+- [BGH, Urteil vom 23.06.2005 - I ZR 227/02](i-zr-227-02.md) — 3Tatbestand:
 - [BGH, Urteil vom 09.06.2005 - I ZR 279/02](i-zr-279-02.md) — BGH, Urteil vom 09.06.2005 - I ZR 279/02
 - [BGH, Urteil vom 02.06.2005 - I ZR 215/02](i-zr-215-02.md) — BGH, Urteil vom 02.06.2005 - I ZR 215/02
 - [BGH, Beschluss vom 02.06.2005 - I ZR 246/02](i-zr-246-02.md) — BGH, Beschluss vom 02.06.2005 - I ZR 246/02
 - [BGH, Urteil vom 02.06.2005 - I ZR 252/02](i-zr-252-02.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2005 - I ZR 285/02](i-zr-285-02.md) — Tatbestand:
 - [BGH, Beschluss vom 04.05.2005 - I ZB 10/05](i-zb-10-05.md) — BGH, Beschluss vom 04.05.2005 - I ZB 10/05
 - [BGH, Urteil vom 04.05.2005 - I ZR 127/02](i-zr-127-02.md) — Tatbestand:
 - [BGH, Urteil vom 04.05.2005 - I ZR 295/02](i-zr-295-02.md) — Tatbestand:
 - [BGH, Beschluss vom 21.04.2005 - I ZB 10/04](i-zb-10-04.md) — BGH, Beschluss vom 21.04.2005 - I ZB 10/04
+- [BGH, Urteil vom 21.04.2005 - I ZR 1/02](i-zr-1-02.md) — Tatbestand:
+- [BGH, Urteil vom 21.04.2005 - I ZR 190/02](i-zr-190-02.md) — Tatbestand:
 - [BGH, Urteil vom 21.04.2005 - I ZR 201/02](i-zr-201-02.md) — Tatbestand:
+- [BGH, Beschluss vom 21.04.2005 - I ZR 88/04](i-zr-88-04.md) — BGH, Beschluss vom 21.04.2005 - I ZR 88/04
+- [BGH, Urteil vom 07.04.2005 - I ZR 140/02](i-zr-140-02.md) — Tatbestand:
 - [BGH, Urteil vom 07.04.2005 - I ZR 314/02](i-zr-314-02.md) — Tatbestand:
 - [BGH, Beschluss vom 24.03.2005 - I ZR 142/04](i-zr-142-04.md) — BGH, Beschluss vom 24.03.2005 - I ZR 142/04
 - [BGH, Beschluss vom 21.03.2005 - I ZR 30/02](i-zr-30-02.md) — BGH, Beschluss vom 21.03.2005 - I ZR 30/02
 - [BGH, Urteil vom 03.03.2005 - I ZR 111/02](i-zr-111-02.md) — BGH, Urteil vom 03.03.2005 - I ZR 111/02
 - [BGH, Urteil vom 03.03.2005 - I ZR 117/02](i-zr-117-02.md) — Tatbestand:
+- [BGH, Urteil vom 03.03.2005 - I ZR 133/02](i-zr-133-02.md) — 3-
 - [BGH, Urteil vom 03.03.2005 - I ZR 134/02](i-zr-134-02.md) — Tatbestand:
-- [BGH, Beschluss vom 24.02.2005 - I ZB 2/04](i-zb-2-04.md) — BGH, Beschluss vom 24.02.2005 - I ZB 2/04
+- [BGH, Urteil vom 03.03.2005 - I ZR 273/02](i-zr-273-02.md) — Tatbestand:
+- [BGH, Beschluss vom 24.02.2005 - I ZB 2/04](i-zb-2-04.md) — I. Gegen die am 18. April 1997 angemeldete und am 14. Juli 1997 für die Waren "Bekleidungsstücke für Damen, Schuhwaren, Kopfbedeckungen" eingetragene Wort-/Bildmarke Nr. 397 17 …
 - [BGH, Versäumnisurteil vom 24.02.2005 - I ZR 101/02](i-zr-101-02.md) — Herkunftstäuschung und unlauterer Rufausbeutung sind nicht schon dann ausgeschlossen, wenn der Vertrieb des nachgeahmten Produkts gegen ein
+- [BGH, Urteil vom 24.02.2005 - I ZR 161/02](i-zr-161-02.md) — Tatbestand:
+- [BGH, Urteil vom 03.02.2005 - I ZR 159/02](i-zr-159-02.md) — Tatbestand:
 - [BGH, Beschluss vom 27.01.2005 - I ZR 113/04](i-zr-113-04.md) — BGH, Beschluss vom 27.01.2005 - I ZR 113/04
 - [BGH, Urteil vom 27.01.2005 - I ZR 146/02](i-zr-146-02.md) — Tatbestand:
 - [BGH, Urteil vom 27.01.2005 - I ZR 202/02](i-zr-202-02.md) — Tatbestand:

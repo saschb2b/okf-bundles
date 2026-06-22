@@ -1,57 +1,101 @@
 # IX. Zivilsenat – 2004
 
-53 Entscheidung(en).
+97 Entscheidung(en).
 
-- [BGH, Beschluss vom 16.12.2004 - IX ZR 107/04](ix-zr-107-04.md) — BGH, Beschluss vom 16.12.2004 - IX ZR 107/04
+- [BGH, Beschluss vom 16.12.2004 - IX ZB 301/03](ix-zb-301-03.md) — des Verschlechterungsverbots erneut auf 137.478,24 DM festgesetzt. Auf die sofortige Beschwerde des Antragstellers hat sie das Landgericht a
+- [BGH, Beschluss vom 16.12.2004 - IX ZR 107/04](ix-zr-107-04.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil sie nicht durch einen beim Bundesgerichtshof zugelassenen Rechtsanwalt begründet worden ist, § 544 Abs.
 - [BGH, Beschluss vom 16.12.2004 - IX ZR 18/04](ix-zr-18-04.md) — BGH, Beschluss vom 16.12.2004 - IX ZR 18/04
+- [BGH, Beschluss vom 16.12.2004 - IX ZR 25/01](ix-zr-25-01.md) — eines Betrages von 259.270,20 DM Revision eingelegt hat, steht rechtskräftig fest, daß er mindestens (459.236 DM – 259.270 DM =) 199.965,80
+- [BGH, Beschluss vom 16.12.2004 - IX ZR 35/01](ix-zr-35-01.md) — Die Sache wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554 b Abs.
+- [BGH, Urteil vom 16.12.2004 - IX ZR 36/04](ix-zr-36-04.md) — Tatbestand: Die in Israel lebende Klägerin beansprucht Hinterbliebenenrente als Witwe eines rentenberechtigten Verfolgten, der am 16. Dezemb
+- [BGH, Beschluss vom 16.12.2004 - IX ZR 59/01](ix-zr-59-01.md) — Die Rechtssache wirft keine Fragen von grundsätzlicher Bedeutung auf und ist richtig entschieden worden (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 09.12.2004 - IX ZR 84/02](ix-zr-84-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
 - [BGH, Beschluss vom 02.12.2004 - IX ZA 22/04](ix-za-22-04.md) — BGH, Beschluss vom 02.12.2004 - IX ZA 22/04
 - [BGH, Urteil vom 02.12.2004 - IX ZR 200/03](ix-zr-200-03.md) — eines Mangels der Schriftform nichtig, kann der Entleiher Sozialversicherungsbeiträge, die er nach Eröffnung des Insolvenzverfahrens über da
+- [BGH, Beschluss vom 02.12.2004 - IX ZR 466/00](ix-zr-466-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 18.11.2004 - IX ZR 217/03](ix-zr-217-03.md) — BGH, Beschluss vom 18.11.2004 - IX ZR 217/03
+- [BGH, Urteil vom 18.11.2004 - IX ZR 299/00](ix-zr-299-00.md) — Tatbestand:
+- [BGH, Beschluss vom 11.11.2004 - IX ZB 258/03](ix-zb-258-03.md) — verspäteter Zahlung erklärten die Verkäufer, daß die auflösende Bedingung eingetreten, der Kaufvertrag mithin nicht mehr gültig sei. Nachdem
 - [BGH, Beschluss vom 11.11.2004 - IX ZR 267/03](ix-zr-267-03.md) — BGH, Beschluss vom 11.11.2004 - IX ZR 267/03
 - [BGH, Beschluss vom 04.11.2004 - IX ZB 100/04](ix-zb-100-04.md) — anwaltlicher Pflichtverletzungen auf Schadensersatz in Anspruch und hat in erster Instanz obsiegt. Der Beklagte, der auf die Deckungszusage
 - [BGH, Beschluss vom 04.11.2004 - IX ZB 52/04](ix-zb-52-04.md) — zu gewährenden Zuschläge zum Regelsatz der Vergütung grundsätzlich für beide mit dem gleichen Hundertsatz zu bemessen.
+- [BGH, Beschluss vom 04.11.2004 - IX ZR 16/02](ix-zr-16-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und ist richtig entschieden worden (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 04.11.2004 - IX ZR 266/03](ix-zr-266-03.md) — Die Beschwerde ist nach § 544 Abs. 1 Satz 1 ZPO statthaft; sie ist jedoch nicht begründet. Weder hat die Rechtssache grundsätzliche Bedeutung noch erfordert die Fortbildung des …
+- [BGH, Urteil vom 04.11.2004 - IX ZR 82/03](ix-zr-82-03.md) — Tatbestand:
 - [BGH, Beschluss vom 21.10.2004 - IX ZR 5/01](ix-zr-5-01.md) — BGH, Beschluss vom 21.10.2004 - IX ZR 5/01
+- [BGH, Beschluss vom 14.10.2004 - IX ZB 114/04](ix-zb-114-04.md) — BGH, Beschluss vom 14.10.2004 - IX ZB 114/04
 - [BGH, Beschluss vom 14.10.2004 - IX ZR 249/01](ix-zr-249-01.md) — BGH, Beschluss vom 14.10.2004 - IX ZR 249/01
 - [BGH, Urteil vom 28.09.2004 - IX ZR 155/03](ix-zr-155-03.md) — Tatbestand:
 - [BGH, Urteil vom 28.09.2004 - IX ZR 157/03](ix-zr-157-03.md) — Tatbestand:
 - [BGH, Urteil vom 28.09.2004 - IX ZR 158/03](ix-zr-158-03.md) — Tatbestand:
+- [BGH, Beschluss vom 28.09.2004 - IX ZR 475/00](ix-zr-475-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Endergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 23.09.2004 - IX ZB 215/03](ix-zb-215-03.md) — I. Der weitere Beteiligte wurde durch Beschluß des Amtsgerichts vom 13. Februar 2001 zum vorläufigen, mit Beschluß vom 26. April 2001 zum endgültigen Verwalter im …
 - [BGH, Beschluss vom 23.09.2004 - IX ZB 291/03](ix-zb-291-03.md) — BGH, Beschluss vom 23.09.2004 - IX ZB 291/03
+- [BGH, Beschluss vom 23.09.2004 - IX ZB 293/03](ix-zb-293-03.md) — I. Das Amtsgericht hat am 22. Oktober 1999 das Insolvenzverfahren über das Vermögen der Schuldnerin eröffnet und den Rechtsbeschwerdeführer zum Insolvenzverwalter bestellt. Die …
+- [BGH, Urteil vom 23.09.2004 - IX ZR 25/03](ix-zr-25-03.md) — Tatbestand:
 - [BGH, Urteil vom 23.09.2004 - IX ZR 421/00](ix-zr-421-00.md) — Tatbestand:
 - [BGH, Beschluss vom 23.07.2004 - IX ZB 248/03](ix-zb-248-03.md) — BGH, Beschluss vom 23.07.2004 - IX ZB 248/03
-- [BGH, Beschluss vom 23.07.2004 - IX ZB 255/03](ix-zb-255-03.md) — BGH, Beschluss vom 23.07.2004 - IX ZB 255/03
-- [BGH, Beschluss vom 23.07.2004 - IX ZR 165/01](ix-zr-165-01.md) — BGH, Beschluss vom 23.07.2004 - IX ZR 165/01
-- [BGH, Beschluss vom 22.07.2004 - IX ZB 161/03](ix-zb-161-03.md) — BGH, Beschluss vom 22.07.2004 - IX ZB 161/03
+- [BGH, Beschluss vom 23.07.2004 - IX ZB 255/03](ix-zb-255-03.md) — I. Mit Beschluß vom 31. August 2000 eröffnete das Amtsgericht das Insolvenzverfahren über das Vermögen der Schuldnerin und bestellte den Rechtsbeschwerdeführer zum …
+- [BGH, Beschluss vom 23.07.2004 - IX ZB 276/03](ix-zb-276-03.md) — I. Die nach § 7 InsO i.V.m. § 574 Abs. 1 Nr. 1 ZPO statthafte Rechtsbeschwerde ist unzulässig, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung …
+- [BGH, Beschluss vom 23.07.2004 - IX ZR 165/01](ix-zr-165-01.md) — Die Revision wirft keine klärungsbedürftige Rechtsfrage von grundsätzlicher Bedeutung auf und hat im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 23.07.2004 - IX ZR 177/01](ix-zr-177-01.md) — Die Rechtssache wirft keine ungeklärten Rechtsfragen von grundsätzli- cher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554b Abs.
+- [BGH, Beschluss vom 22.07.2004 - IX ZB 161/03](ix-zb-161-03.md) — I. Mit Beschluß vom 28. Juni 2002 wurde das Insolvenzverfahren über das Vermögen der Schuldnerin eröffnet, die eine Schneiderwerkstatt für Mode und -3- Textilkunst betrieb. Das …
+- [BGH, Beschluss vom 22.07.2004 - IX ZB 222/03](ix-zb-222-03.md) — des Mehraufwandes, den er infolge seiner Beauftragung mit den Zustellungen gehabt habe, insgesamt also 4.211,55 €.
 - [BGH, Urteil vom 22.07.2004 - IX ZR 183/03](ix-zr-183-03.md) — Tatbestand:
+- [BGH, Beschluss vom 22.07.2004 - IX ZR 81/03](ix-zr-81-03.md) — Die Beschwerde ist nach § 544 ZPO statthaft; sie ist jedoch nicht begründet.
+- [BGH, Beschluss vom 22.07.2004 - IX ZR 93/03](ix-zr-93-03.md) — Die Beschwerde ist nach § 544 ZPO statthaft; sie ist jedoch nicht begründet.
+- [BGH, Beschluss vom 15.07.2004 - IX ZB 172/03](ix-zb-172-03.md) — I. Mit Beschluß vom 30. April 2003 hat das Amtsgericht - Insolvenzgericht auf Antrag einer Gläubigerin das Insolvenzverfahren über das Vermögen der Schuldnerin eröffnet. Hiergegen …
+- [BGH, Beschluss vom 15.07.2004 - IX ZB 280/03](ix-zb-280-03.md) — I. Mit Beschluß vom 7. Juli 2003 hat das Amtsgericht - Insolvenzgericht - durch den Richter B. den Antrag des weiteren Beteiligten auf Eröffnung eines Insolvenzverfahrens über das …
+- [BGH, Urteil vom 15.07.2004 - IX ZR 256/03](ix-zr-256-03.md) — einer unzureichenden und pflichtwidrigen Leistung des Rechtsanwalts nicht gekürzt werden oder in Wegfall geraten.
+- [BGH, Beschluss vom 08.07.2004 - IX ZB 126/03](ix-zb-126-03.md) — Die gemäß § 7 InsO, § 574 Abs. 1 Nr. 1 ZPO statthafte Rechtsbeschwerde ist unzulässig, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung des Rechts …
+- [BGH, Beschluss vom 08.07.2004 - IX ZB 209/03](ix-zb-209-03.md) — I. Am 21. November 2001 beantragte die Gläubigerin die Eröffnung des Insolvenzverfahrens über das Vermögen des Schuldners. Am 26. Februar 2002 stellte dieser Antrag auf …
+- [BGH, Beschluss vom 08.07.2004 - IX ZB 565/02](ix-zb-565-02.md) — BGH, Beschluss vom 08.07.2004 - IX ZB 565/02
+- [BGH, Beschluss vom 02.07.2004 - IX ZB 305/03](ix-zb-305-03.md) — BGH, Beschluss vom 02.07.2004 - IX ZB 305/03
 - [BGH, Urteil vom 29.06.2004 - IX ZR 195/03](ix-zr-195-03.md) — Tatbestand:
 - [BGH, Beschluss vom 17.06.2004 - IX ZB 206/03](ix-zb-206-03.md) — einer Anwaltshonorarforderung von 272,60 € zuzüglich Kosten und Zinsen einen Mahnbescheid. Als Zustellungsanschrift gab er die Meldeadresse
 - [BGH, Beschluss vom 17.06.2004 - IX ZR 226/00](ix-zr-226-00.md) — BGH, Beschluss vom 17.06.2004 - IX ZR 226/00
+- [BGH, Beschluss vom 08.06.2004 - IX ZB 239/03](ix-zb-239-03.md) — I. Am 14. Dezember 2001 beantragte der Schuldner die Eröffnung des Insolvenzverfahrens über sein Vermögen und die Erteilung der Restschuldbefreiung. Im Verfahren erklärte er, daß …
+- [BGH, Urteil vom 08.06.2004 - IX ZR 119/03](ix-zr-119-03.md) — Tatbestand:
 - [BGH, Beschluss vom 08.06.2004 - IX ZR 229/00](ix-zr-229-00.md) — BGH, Beschluss vom 08.06.2004 - IX ZR 229/00
-- [BGH, Beschluss vom 24.05.2004 - IX ZB 94/04](ix-zb-94-04.md) — BGH, Beschluss vom 24.05.2004 - IX ZB 94/04
+- [BGH, Beschluss vom 24.05.2004 - IX ZB 94/04](ix-zb-94-04.md) — Der Prozeßkostenhilfeantrag ist zurückzuweisen, weil die Rechtsverfolgung aussichtslos ist (§ 114 ZPO).
+- [BGH, Beschluss vom 21.05.2004 - IX ZB 294/03](ix-zb-294-03.md) — I. Am 11. Juli 2002 beantragte die Schuldnerin die Eröffnung eines Insolvenzverfahrens über ihr Vermögen und die Erteilung der Restschuldbefreiung. Dabei wies sie darauf hin, daß …
+- [BGH, Beschluss vom 18.05.2004 - IX ZR 138/03](ix-zr-138-03.md) — Der Nichtzulassungsbeschwerde muß der Erfolg versagt bleiben.
+- [BGH, Urteil vom 06.05.2004 - IX ZR 211/00](ix-zr-211-00.md) — mangelhafter Beaufsichtigung des Unternehmers verjähren lassen und entsteht in diesem Zusammenhang Streit über die Höhe der Leistungen, die
 - [BGH, Urteil vom 06.05.2004 - IX ZR 85/03](ix-zr-85-03.md) — Tatbestand:
-- [BGH, Beschluss vom 04.05.2004 - IX ZR 255/00](ix-zr-255-00.md) — BGH, Beschluss vom 04.05.2004 - IX ZR 255/00
+- [BGH, Beschluss vom 29.04.2004 - IX ZB 24/04](ix-zb-24-04.md) — Die beabsichtigte Rechtsverfolgung bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 29.04.2004 - IX ZB 30/04](ix-zb-30-04.md) — I. Die Schuldnerin, die vormals selbständig tätig war und jetzt Rentnerin ist, hat einen Eigenantrag auf Eröffnung des Insolvenzverfahrens nach § 304 ff InsO gestellt. Ein …
 - [BGH, Beschluss vom 29.04.2004 - IX ZR 265/03](ix-zr-265-03.md) — BGH, Beschluss vom 29.04.2004 - IX ZR 265/03
 - [BGH, Beschluss vom 27.04.2004 - IX ZA 4/04](ix-za-4-04.md) — BGH, Beschluss vom 27.04.2004 - IX ZA 4/04
 - [BGH, Beschluss vom 22.04.2004 - IX ZB 154/03](ix-zb-154-03.md) — BGH, Beschluss vom 22.04.2004 - IX ZB 154/03
-- [BGH, Beschluss vom 18.03.2004 - IX ZB 159/03](ix-zb-159-03.md) — BGH, Beschluss vom 18.03.2004 - IX ZB 159/03
+- [BGH, Beschluss vom 18.03.2004 - IX ZB 159/03](ix-zb-159-03.md) — Die gemäß § 5 Abs. 1 Satz 1 GKG statthafte Erinnerung des weiteren Beteiligten vom 16. September 2003 ist unbegründet, weil der Erinnerungsführer - neben der Schuldnerin - …
+- [BGH, Urteil vom 18.03.2004 - IX ZR 177/03](ix-zr-177-03.md) — Tatbestand:
 - [BGH, Beschluss vom 18.03.2004 - IX ZR 234/02](ix-zr-234-02.md) — BGH, Beschluss vom 18.03.2004 - IX ZR 234/02
+- [BGH, Urteil vom 18.03.2004 - IX ZR 255/00](ix-zr-255-00.md) — eines Anwaltsfehlers verfehlt, besteht der Vermögensschaden des Mandanten, wenn er den erstrebten Titel nicht hätte durchsetzen wollen, nich
+- [BGH, Beschluss vom 18.03.2004 - IX ZR 60/02](ix-zr-60-02.md) — der Bindungswirkung der Feststellungsbescheide zuzustimmen. Die Zustellung an den Steuerberater A. war wirksam (vgl. § 80 Abs. 1 Satz 4 AO).
 - [BGH, Urteil vom 11.03.2004 - IX ZR 16/01](ix-zr-16-01.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 11.03.2004 - IX ZR 160/02](ix-zr-160-02.md) — BGH, Versäumnisurteil vom 11.03.2004 - IX ZR 160/02
+- [BGH, Urteil vom 11.03.2004 - IX ZR 178/03](ix-zr-178-03.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 11.03.2004 - IX ZR 202/03](ix-zr-202-03.md) — Tatbestand:
+- [BGH, Beschluss vom 04.03.2004 - IX ZB 113/03](ix-zb-113-03.md) — Ein gesetzlicher Grund für die Zulassung der Revision (§ 219 Abs.
+- [BGH, Beschluss vom 04.03.2004 - IX ZB 121/03](ix-zb-121-03.md) — Die gemäß § 574 Abs. 1 Nr. 1, § 522 Abs. 1 Satz 4 ZPO statthafte Rechtsbeschwerde ist unzulässig, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung …
 - [BGH, Beschluss vom 04.03.2004 - IX ZB 587/02](ix-zb-587-02.md) — BGH, Beschluss vom 04.03.2004 - IX ZB 587/02
 - [BGH, Urteil vom 04.03.2004 - IX ZR 101/03](ix-zr-101-03.md) — Tatbestand: Die Klägerin, eine in München ansässige Anwaltssozietät, hat gegen den in Zittau/Sachsen wohnhaften Beklagten bei dem für den Si
-- [BGH, Beschluss vom 17.02.2004 - IX ZB 102/03](ix-zb-102-03.md) — BGH, Beschluss vom 17.02.2004 - IX ZB 102/03
+- [BGH, Beschluss vom 17.02.2004 - IX ZB 102/03](ix-zb-102-03.md) — Die gemäß § 574 Abs. 1 Nr. 1, § 522 Abs. 1 Satz 4 ZPO statthafte Rechtsbeschwerde ist als unzulässig zu verwerfen, weil die in § 574 Abs. 2 ZPO genannten Zulassungsgründe nicht …
 - [BGH, Beschluss vom 17.02.2004 - IX ZB 306/03](ix-zb-306-03.md) — einer Hauptforderung "aus vorsätzlich begangener unerlaubter Handlung". Die im Vollstreckungsbescheid titulierte Forderung ist zur Insolvenz
+- [BGH, Beschluss vom 17.02.2004 - IX ZR 435/00](ix-zr-435-00.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 12.02.2004 - IX ZR 328/00](ix-zr-328-00.md) — BGH, Beschluss vom 12.02.2004 - IX ZR 328/00
-- [BGH, Urteil vom 12.02.2004 - IX ZR 98/03](ix-zr-98-03.md) — BGH, Urteil vom 12.02.2004 - IX ZR 98/03
+- [BGH, Urteil vom 12.02.2004 - IX ZR 98/03](ix-zr-98-03.md) — 3-
 - [BGH, Beschluss vom 05.02.2004 - IX ZR 473/00](ix-zr-473-00.md) — BGH, Beschluss vom 05.02.2004 - IX ZR 473/00
 - [BGH, Beschluss vom 22.01.2004 - IX ZR 252/00](ix-zr-252-00.md) — BGH, Beschluss vom 22.01.2004 - IX ZR 252/00
 - [BGH, Beschluss vom 22.01.2004 - IX ZR 279/00](ix-zr-279-00.md) — BGH, Beschluss vom 22.01.2004 - IX ZR 279/00
 - [BGH, Beschluss vom 22.01.2004 - IX ZR 339/00](ix-zr-339-00.md) — BGH, Beschluss vom 22.01.2004 - IX ZR 339/00
 - [BGH, Urteil vom 22.01.2004 - IX ZR 65/01](ix-zr-65-01.md) — Tatbestand:
 - [BGH, Beschluss vom 22.01.2004 - IX ZR 78/02](ix-zr-78-02.md) — BGH, Beschluss vom 22.01.2004 - IX ZR 78/02
+- [BGH, Beschluss vom 15.01.2004 - IX ZB 197/03](ix-zb-197-03.md) — Die nach § 574 Abs. 1 Nr. 1 ZPO, § 7 InsO statthafte Rechtsbeschwerde ist unzulässig. Die Erledigungserklärungen der Beteiligten vom 11. und 22. Dezember 2003 bleiben ohne …
 - [BGH, Beschluss vom 15.01.2004 - IX ZB 413/02](ix-zb-413-02.md) — Ent-
 - [BGH, Beschluss vom 15.01.2004 - IX ZB 46/03](ix-zb-46-03.md) — BGH, Beschluss vom 15.01.2004 - IX ZB 46/03
 - [BGH, Beschluss vom 15.01.2004 - IX ZB 96/03](ix-zb-96-03.md) — BGH, Beschluss vom 15.01.2004 - IX ZB 96/03
-- [BGH, Beschluss vom 15.01.2004 - IX ZR 278/03](ix-zr-278-03.md) — BGH, Beschluss vom 15.01.2004 - IX ZR 278/03
+- [BGH, Beschluss vom 15.01.2004 - IX ZR 278/03](ix-zr-278-03.md) — Die Beschwerde ist nach § 544 ZPO statthaft; sie ist jedoch nicht begründet.
 - [BGH, Beschluss vom 15.01.2004 - IX ZR 494/00](ix-zr-494-00.md) — BGH, Beschluss vom 15.01.2004 - IX ZR 494/00
+- [BGH, Beschluss vom 13.01.2004 - IX ZB 101/03](ix-zb-101-03.md) — Das Prozeßkostenhilfegesuch ist unbegründet, weil die beabsichtigte Rechtsverfolgung keine Aussicht auf Erfolg hat (§ 114 ZPO).
 - [BGH, Urteil vom 08.01.2004 - IX ZR 30/03](ix-zr-30-03.md) — Forderung

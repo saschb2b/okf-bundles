@@ -1,24 +1,47 @@
 # XI. Zivilsenat – 2006
 
-21 Entscheidung(en).
+44 Entscheidung(en).
 
+- [BGH, Urteil vom 19.12.2006 - XI ZR 113/06](xi-zr-113-06.md) — Tatbestand:
+- [BGH, Urteil vom 19.12.2006 - XI ZR 192/04](xi-zr-192-04.md) — Tatbestand:
+- [BGH, Urteil vom 19.12.2006 - XI ZR 401/03](xi-zr-401-03.md) — Tatbestand:
+- [BGH, Urteil vom 19.12.2006 - XI ZR 56/05](xi-zr-56-05.md) — Tatbestand:
 - [BGH, Urteil vom 12.12.2006 - XI ZR 20/06](xi-zr-20-06.md) — Tatbestand:
 - [BGH, Urteil vom 21.11.2006 - XI ZR 347/05](xi-zr-347-05.md) — eines Wissensvorsprungs gelten auch bei einem verbundenen Geschäft, wenn die außerhalb des Verbunds stehenden Fondsinitiatoren oder Gründung
+- [BGH, Urteil vom 14.11.2006 - XI ZR 294/05](xi-zr-294-05.md) — Tatbestand:
+- [BGH, Beschluss vom 07.11.2006 - XI ZR 438/04](xi-zr-438-04.md) — I. 1 Die Klägerin nimmt die Beklagten aus abgetretenem Recht der Volksbank E. (im Folgenden: Volksbank) gesamtschuldnerisch auf Rückzahlung eines gekündigten Darlehens in …
+- [BGH, Beschluss vom 24.10.2006 - XI ZB 16/06](xi-zb-16-06.md) — ihres bevorstehenden Urlaubs am
+- [BGH, Urteil vom 24.10.2006 - XI ZR 216/05](xi-zr-216-05.md) — Tatbestand:
+- [BGH, Urteil vom 24.10.2006 - XI ZR 265/03](xi-zr-265-03.md) — Tatbestand:
+- [BGH, Beschluss vom 24.10.2006 - XI ZR 9/05](xi-zr-9-05.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, auch die Fortbildung des Rechts sowie die Sicherung einer einheitlichen Recht- sprechung erfordern eine Entscheidung des …
+- [BGH, Urteil vom 17.10.2006 - XI ZR 19/05](xi-zr-19-05.md) — BGH, Urteil vom 17.10.2006 - XI ZR 19/05
+- [BGH, Urteil vom 17.10.2006 - XI ZR 205/05](xi-zr-205-05.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 10.10.2006 - XI ZR 265/05](xi-zr-265-05.md) — Verstoßes gegen Art. 1 § 1 RBerG i.V. mit § 134 BGB nichtige, umfassende Vollmacht zum Abschluss aller mit dem Erwerb oder der Finanzierung
 - [BGH, Beschluss vom 26.09.2006 - XI ZB 19/06](xi-zb-19-06.md) — BGH, Beschluss vom 26.09.2006 - XI ZB 19/06
 - [BGH, Urteil vom 26.09.2006 - XI ZR 156/05](xi-zr-156-05.md) — Tatbestand:
 - [BGH, Urteil vom 26.09.2006 - XI ZR 283/03](xi-zr-283-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.09.2006 - XI ZR 204/04](xi-zr-204-04.md) — unterbliebener Widerrufsbelehrung gemäß § 2 HWiG setzt ein Verschulden des Unternehmers voraus.
 - [BGH, Urteil vom 19.09.2006 - XI ZR 209/04](xi-zr-209-04.md) — Tatbestand:
+- [BGH, Beschluss vom 13.09.2006 - XI ZR 31/05](xi-zr-31-05.md) — BGH, Beschluss vom 13.09.2006 - XI ZR 31/05
+- [BGH, Urteil vom 12.09.2006 - XI ZR 296/05](xi-zr-296-05.md) — Tatbestand:
 - [BGH, Beschluss vom 14.06.2006 - XI ZR 326/04](xi-zr-326-04.md) — BGH, Beschluss vom 14.06.2006 - XI ZR 326/04
 - [BGH, Urteil vom 16.05.2006 - XI ZR 104/04](xi-zr-104-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.05.2006 - XI ZR 15/04](xi-zr-15-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.05.2006 - XI ZR 26/04](xi-zr-26-04.md) — Tatbestand:
+- [BGH, Urteil vom 16.05.2006 - XI ZR 48/04](xi-zr-48-04.md) — Tatbestand:
+- [BGH, Beschluss vom 09.05.2006 - XI ZB 45/04](xi-zb-45-04.md) — eines erst kurz vor Ablauf der Rechtsmittelfrist aufgetretenen Defekts des Druckers seines Laptops nicht ausgedruckt werden kann, in der Kan
+- [BGH, Urteil vom 09.05.2006 - XI ZR 3/05](xi-zr-3-05.md) — Tatbestand:
 - [BGH, Urteil vom 25.04.2006 - XI ZR 271/05](xi-zr-271-05.md) — Tatbestand:
+- [BGH, Urteil vom 25.04.2006 - XI ZR 29/05](xi-zr-29-05.md) — fehlender Gesamtbetragsangabe nichtiger Darlehensvertrag wird gemäß § 6 Abs. 2 Satz 1 VerbrKrG gültig, wenn dem Kreditnehmer die Darlehensva
 - [BGH, Urteil vom 25.04.2006 - XI ZR 330/05](xi-zr-330-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.03.2006 - XI ZR 388/04](xi-zr-388-04.md) — korrigiert werden.
+- [BGH, Beschluss vom 21.03.2006 - XI ZR 116/05](xi-zr-116-05.md) — BGH, Beschluss vom 21.03.2006 - XI ZR 116/05
 - [BGH, Urteil vom 21.03.2006 - XI ZR 204/03](xi-zr-204-03.md) — Tatbestand:
 - [BGH, Urteil vom 21.03.2006 - XI ZR 63/05](xi-zr-63-05.md) — Tatbestand:
-- [BGH, Beschluss vom 07.02.2006 - XI ZB 9/05](xi-zb-9-05.md) — BGH, Beschluss vom 07.02.2006 - XI ZB 9/05
+- [BGH, Beschluss vom 07.02.2006 - XI ZB 9/05](xi-zb-9-05.md) — I. 1 Die Parteien streiten über die Verpflichtung der Klägerin zur Rück- zahlung von Darlehen, die die beklagte Sparkasse ihr und ihrem - inzwi- -3- schen geschiedenen - Ehemann …
+- [BGH, Urteil vom 24.01.2006 - XI ZR 306/04](xi-zr-306-04.md) — Tatbestand:
+- [BGH, Urteil vom 24.01.2006 - XI ZR 384/03](xi-zr-384-03.md) — BGH, Urteil vom 24.01.2006 - XI ZR 384/03
+- [BGH, Urteil vom 24.01.2006 - XI ZR 405/04](xi-zr-405-04.md) — Tatbestand:
 - [BGH, Beschluss vom 17.01.2006 - XI ZB 4/05](xi-zb-4-05.md) — BGH, Beschluss vom 17.01.2006 - XI ZB 4/05
 - [BGH, Beschluss vom 17.01.2006 - XI ZR 147/05](xi-zr-147-05.md) — BGH, Beschluss vom 17.01.2006 - XI ZR 147/05
 - [BGH, Urteil vom 17.01.2006 - XI ZR 179/04](xi-zr-179-04.md) — Tatbestand:

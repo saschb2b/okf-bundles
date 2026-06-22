@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu FinG"
 description: "BGH-Entscheidungen zu FinG, geordnet nach Vorschrift."
 tags: [register, navigation, fing]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

@@ -9,7 +9,7 @@ datum: 2000-01-12
 aktenzeichen: "VIII ZR 19/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:09:24Z
+timestamp: 2026-06-22T14:01:06Z
 ---
 # Volltext
 

@@ -9,7 +9,7 @@ datum: 2004-10-13
 aktenzeichen: "XII ZR 16/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:18:08Z
+timestamp: 2026-06-22T14:10:24Z
 ---
 # Volltext
 

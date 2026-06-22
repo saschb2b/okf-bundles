@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AVBWasserV"
 description: "BGH-Entscheidungen zu AVBWasserV, geordnet nach Vorschrift."
 tags: [register, navigation, avbwasserv]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

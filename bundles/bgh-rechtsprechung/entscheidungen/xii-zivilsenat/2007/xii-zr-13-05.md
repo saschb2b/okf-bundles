@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Urteil vom 16.05.2007 - XII ZR 13/05"
-description: "Tatbestand: "
+description: "Tatbestand:"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2005/XII_ZR__13-05.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "XII. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2007-05-16
 aktenzeichen: "XII ZR 13/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:24:30Z
+timestamp: 2026-06-22T14:16:48Z
 ---
 # Volltext
 

@@ -1,67 +1,96 @@
 # IV. Zivilsenat – 2008
 
-63 Entscheidung(en).
+92 Entscheidung(en).
 
-- [BGH, Beschluss vom 17.12.2008 - IV ZB 39/08](iv-zb-39-08.md) — BGH, Beschluss vom 17.12.2008 - IV ZB 39/08
-- [BGH, Beschluss vom 17.12.2008 - IV ZB 40/08](iv-zb-40-08.md) — BGH, Beschluss vom 17.12.2008 - IV ZB 40/08
-- [BGH, Beschluss vom 17.12.2008 - IV ZB 42/08](iv-zb-42-08.md) — BGH, Beschluss vom 17.12.2008 - IV ZB 42/08
-- [BGH, Beschluss vom 17.12.2008 - IV ZB 43/08](iv-zb-43-08.md) — BGH, Beschluss vom 17.12.2008 - IV ZB 43/08
-- [BGH, Beschluss vom 17.12.2008 - IV ZB 45/08](iv-zb-45-08.md) — BGH, Beschluss vom 17.12.2008 - IV ZB 45/08
+- [BGH, Beschluss vom 17.12.2008 - IV ZB 39/08](iv-zb-39-08.md) — vermeintlicher Grundrechtsverstöße für rechtswidrig erachtet und den Klagantrag angekündigt festzustellen, dass sie auch nach dem 1. Januar
+- [BGH, Beschluss vom 17.12.2008 - IV ZB 40/08](iv-zb-40-08.md) — vermeintlicher Grundrechtsverstöße für rechtswidrig erachtet und den Klagantrag angekündigt festzustellen, dass sie auch nach dem 1. Januar
+- [BGH, Beschluss vom 17.12.2008 - IV ZB 41/08](iv-zb-41-08.md) — vermeintlicher Grundrechtsverstöße für rechtswidrig erachtet und den Klagantrag angekündigt festzustellen, dass er auch nach dem 1. Januar 2
+- [BGH, Beschluss vom 17.12.2008 - IV ZB 42/08](iv-zb-42-08.md) — vermeintlicher Grundrechtsverstöße für rechtswidrig erachtet und den Klagantrag angekündigt festzustellen, dass sie auch nach dem 1. Januar
+- [BGH, Beschluss vom 17.12.2008 - IV ZB 43/08](iv-zb-43-08.md) — vermeintlicher Grundrechtsverstöße für rechtswidrig erachtet und den Klagantrag angekündigt festzustellen, dass sie auch nach dem 1. Januar
+- [BGH, Beschluss vom 17.12.2008 - IV ZB 44/08](iv-zb-44-08.md) — vermeintlicher Grundrechtsverstöße für rechtswidrig erachtet und den Klagantrag angekündigt festzustellen, dass sie auch nach dem 1. Januar
+- [BGH, Beschluss vom 17.12.2008 - IV ZB 45/08](iv-zb-45-08.md) — vermeintlicher Grundrechtsverstöße für rechtswidrig erachtet und den Klagantrag angekündigt festzustellen, dass er auch nach dem 1. Januar 2
+- [BGH, Beschluss vom 17.12.2008 - IV ZB 46/08](iv-zb-46-08.md) — vermeintlicher Grundrechtsverstöße für rechtswidrig erachtet und den Klagantrag angekündigt festzustellen, dass er auch nach dem 1. Januar 2
 - [BGH, Beschluss vom 10.12.2008 - IV ZR 194/06](iv-zr-194-06.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 10.12.2008 - IV ZR 261/06](iv-zr-261-06.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 03.12.2008 - IV ZB 50/05](iv-zb-50-05.md) — BGH, Beschluss vom 03.12.2008 - IV ZB 50/05
 - [BGH, Urteil vom 03.12.2008 - IV ZR 105/06](iv-zr-105-06.md) — Tatbestand:
 - [BGH, Urteil vom 03.12.2008 - IV ZR 148/08](iv-zr-148-08.md) — BGH, Urteil vom 03.12.2008 - IV ZR 148/08
 - [BGH, Urteil vom 03.12.2008 - IV ZR 20/06](iv-zr-20-06.md) — Tatbestand:
+- [BGH, Urteil vom 03.12.2008 - IV ZR 251/06](iv-zr-251-06.md) — 3-
 - [BGH, Beschluss vom 03.12.2008 - IV ZR 292/06](iv-zr-292-06.md) — BGH, Beschluss vom 03.12.2008 - IV ZR 292/06
 - [BGH, Beschluss vom 01.12.2008 - IV ZR 150/06](iv-zr-150-06.md) — BGH, Beschluss vom 01.12.2008 - IV ZR 150/06
 - [BGH, Beschluss vom 19.11.2008 - IV ZB 38/08](iv-zb-38-08.md) — BGH, Beschluss vom 19.11.2008 - IV ZB 38/08
+- [BGH, Urteil vom 19.11.2008 - IV ZR 293/05](iv-zr-293-05.md) — Tatbestand:
 - [BGH, Beschluss vom 17.11.2008 - IV ZR 172/06](iv-zr-172-06.md) — BGH, Beschluss vom 17.11.2008 - IV ZR 172/06
-- [BGH, Beschluss vom 11.11.2008 - IV ZR 82/06](iv-zr-82-06.md) — BGH, Beschluss vom 11.11.2008 - IV ZR 82/06
+- [BGH, Beschluss vom 11.11.2008 - IV ZR 255/06](iv-zr-255-06.md) — der den Tarifvertrags-
+- [BGH, Beschluss vom 11.11.2008 - IV ZR 82/06](iv-zr-82-06.md) — der den Tarifvertrags-
 - [BGH, Beschluss vom 07.11.2008 - IV ZR 38/07](iv-zr-38-07.md) — BGH, Beschluss vom 07.11.2008 - IV ZR 38/07
 - [BGH, Beschluss vom 04.11.2008 - IV ZR 128/05](iv-zr-128-05.md) — der den Tarifvertragsparteien mit
 - [BGH, Beschluss vom 04.11.2008 - IV ZR 167/05](iv-zr-167-05.md) — der den Tarifvertragsparteien mit
-- [BGH, Beschluss vom 29.10.2008 - IV ZA 14/07](iv-za-14-07.md) — BGH, Beschluss vom 29.10.2008 - IV ZA 14/07
+- [BGH, Beschluss vom 04.11.2008 - IV ZR 168/05](iv-zr-168-05.md) — der den Tarifvertragsparteien mit
+- [BGH, Beschluss vom 04.11.2008 - IV ZR 208/05](iv-zr-208-05.md) — der den Tarifvertragsparteien mit
+- [BGH, Beschluss vom 04.11.2008 - IV ZR 213/05](iv-zr-213-05.md) — der den Tarifvertragsparteien mit
+- [BGH, Beschluss vom 04.11.2008 - IV ZR 214/05](iv-zr-214-05.md) — der den Tarifvertragsparteien mit
+- [BGH, Beschluss vom 04.11.2008 - IV ZR 224/05](iv-zr-224-05.md) — der den Tarifvertragsparteien mit
+- [BGH, Beschluss vom 29.10.2008 - IV ZA 14/07](iv-za-14-07.md) — Die beabsichtigte Rechtsverfolgung bietet keine hinreichende Aus- sicht auf Erfolg.
 - [BGH, Urteil vom 29.10.2008 - IV ZR 128/07](iv-zr-128-07.md) — Tatbestand:
-- [BGH, Beschluss vom 16.10.2008 - IV ZR 183/06](iv-zr-183-06.md) — BGH, Beschluss vom 16.10.2008 - IV ZR 183/06
+- [BGH, Beschluss vom 16.10.2008 - IV ZR 183/06](iv-zr-183-06.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
 - [BGH, Beschluss vom 15.10.2008 - IV ZA 11/07](iv-za-11-07.md) — BGH, Beschluss vom 15.10.2008 - IV ZA 11/07
 - [BGH, Beschluss vom 15.10.2008 - IV ZR 31/08](iv-zr-31-08.md) — BGH, Beschluss vom 15.10.2008 - IV ZR 31/08
-- [BGH, Beschluss vom 01.10.2008 - IV ZB 27/07](iv-zb-27-07.md) — BGH, Beschluss vom 01.10.2008 - IV ZB 27/07
+- [BGH, Beschluss vom 01.10.2008 - IV ZB 27/07](iv-zb-27-07.md) — I. Die Klägerin, zweite Ehefrau des am 13. Mai 2006 verstorbenen Erblassers, nimmt die Kinder des Erblassers aus dessen erster Ehe als Erben im Wege der Stufenklage auf Erfüllung …
 - [BGH, Beschluss vom 24.09.2008 - IV ZB 24/07](iv-zb-24-07.md) — BGH, Beschluss vom 24.09.2008 - IV ZB 24/07
 - [BGH, Beschluss vom 24.09.2008 - IV ZR 171/06](iv-zr-171-06.md) — weiterer Einzelheiten nimmt der Senat Bezug auf den Hinweis
+- [BGH, Beschluss vom 24.09.2008 - IV ZR 219/07](iv-zr-219-07.md) — Die Revision war zurückzuweisen, weil die Voraussetzungen für ih- re Zulassung nicht vorliegen und das Rechtsmittel keine Aussicht auf Er- folg hat (§ 552a Satz 1 ZPO).
+- [BGH, Urteil vom 24.09.2008 - IV ZR 250/06](iv-zr-250-06.md) — Tatbestand:
+- [BGH, Beschluss vom 24.09.2008 - IV ZR 26/08](iv-zr-26-08.md) — BGH, Beschluss vom 24.09.2008 - IV ZR 26/08
 - [BGH, Beschluss vom 23.09.2008 - IV ZR 184/06](iv-zr-184-06.md) — weiterer Einzel-
 - [BGH, Beschluss vom 23.09.2008 - IV ZR 188/06](iv-zr-188-06.md) — weiterer Einzelheiten nimmt der
-- [BGH, Beschluss vom 23.09.2008 - IV ZR 255/06](iv-zr-255-06.md) — weiterer Einzel-
 - [BGH, Beschluss vom 23.09.2008 - IV ZR 291/05](iv-zr-291-05.md) — weiterer Einzel-
 - [BGH, Beschluss vom 17.09.2008 - IV ZB 11/08](iv-zb-11-08.md) — einer Prämienforderung von 3.770,95 € zu-
 - [BGH, Beschluss vom 17.09.2008 - IV ZB 13/08](iv-zb-13-08.md) — einer Prämienforderung von 2.985,53 € zu-
 - [BGH, Beschluss vom 17.09.2008 - IV ZB 14/08](iv-zb-14-08.md) — einer Prämienforderung von 3.674,81 € zu-
+- [BGH, Beschluss vom 17.09.2008 - IV ZB 17/08](iv-zb-17-08.md) — einer Prämienforderung von 2.500,30 € zu-
 - [BGH, Beschluss vom 17.09.2008 - IV ZR 125/05](iv-zr-125-05.md) — BGH, Beschluss vom 17.09.2008 - IV ZR 125/05
-- [BGH, Urteil vom 17.09.2008 - IV ZR 208/05](iv-zr-208-05.md) — BGH, Urteil vom 17.09.2008 - IV ZR 208/05
 - [BGH, Urteil vom 17.09.2008 - IV ZR 30/05](iv-zr-30-05.md) — BGH, Urteil vom 17.09.2008 - IV ZR 30/05
 - [BGH, Urteil vom 17.09.2008 - IV ZR 31/05](iv-zr-31-05.md) — BGH, Urteil vom 17.09.2008 - IV ZR 31/05
 - [BGH, Beschluss vom 26.08.2008 - IV ZR 258/07](iv-zr-258-07.md) — weiterer Einzelheiten nimmt der
 - [BGH, Beschluss vom 26.08.2008 - IV ZR 264/07](iv-zr-264-07.md) — weiterer Einzelheiten nimmt der
 - [BGH, Beschluss vom 04.08.2008 - IV ZR 293/07](iv-zr-293-07.md) — BGH, Beschluss vom 04.08.2008 - IV ZR 293/07
+- [BGH, Beschluss vom 25.07.2008 - IV ZB 16/08](iv-zb-16-08.md) — I. Der Kläger hat die Beklagte auf Leistungen aus einer Berufsun- fähigkeitsversicherung in Anspruch genommen und zudem die Feststel- lung begehrt, dass der Versicherungsvertrag …
 - [BGH, Beschluss vom 16.07.2008 - IV ZR 252/07](iv-zr-252-07.md) — BGH, Beschluss vom 16.07.2008 - IV ZR 252/07
 - [BGH, Beschluss vom 02.07.2008 - IV ZB 5/08](iv-zb-5-08.md) — Ver-
-- [BGH, Beschluss vom 02.07.2008 - IV ZR 290/06](iv-zr-290-06.md) — BGH, Beschluss vom 02.07.2008 - IV ZR 290/06
+- [BGH, Beschluss vom 02.07.2008 - IV ZR 290/06](iv-zr-290-06.md) — Nachdem die Parteien den Rechtsstreit in der Hauptsache über- einstimmend für erledigt erklärt haben, war gemäß § 91a ZPO über die gesamten Kosten des Rechtsstreits nach billigem …
+- [BGH, Beschluss vom 02.07.2008 - IV ZR 312/05](iv-zr-312-05.md) — weiterer
 - [BGH, Beschluss vom 02.07.2008 - IV ZR 34/08](iv-zr-34-08.md) — BGH, Beschluss vom 02.07.2008 - IV ZR 34/08
+- [BGH, Beschluss vom 18.06.2008 - IV ZR 138/06](iv-zr-138-06.md) — BGH, Beschluss vom 18.06.2008 - IV ZR 138/06
 - [BGH, Urteil vom 18.06.2008 - IV ZR 87/07](iv-zr-87-07.md) — Tatbestand:
 - [BGH, Beschluss vom 28.05.2008 - IV ZR 138/07](iv-zr-138-07.md) — BGH, Beschluss vom 28.05.2008 - IV ZR 138/07
 - [BGH, Beschluss vom 28.05.2008 - IV ZR 276/06](iv-zr-276-06.md) — Schäden an gemieteten
 - [BGH, Urteil vom 14.05.2008 - IV ZR 100/05](iv-zr-100-05.md) — Streitwert: 3.220,22 €
 - [BGH, Urteil vom 14.05.2008 - IV ZR 217/06](iv-zr-217-06.md) — Streitwert: 733,49 €
 - [BGH, Urteil vom 14.05.2008 - IV ZR 256/04](iv-zr-256-04.md) — Streitwert: 13.720,90 €
+- [BGH, Urteil vom 14.05.2008 - IV ZR 26/07](iv-zr-26-07.md) — Streitwert: 4.757,42 €
+- [BGH, Urteil vom 14.05.2008 - IV ZR 278/04](iv-zr-278-04.md) — Streitwert: 4.882,08 €
+- [BGH, Urteil vom 14.05.2008 - IV ZR 30/07](iv-zr-30-07.md) — Streitwert: 4.215,12 €
 - [BGH, Urteil vom 14.05.2008 - IV ZR 47/05](iv-zr-47-05.md) — Streitwert: 4.900,90 €
+- [BGH, Urteil vom 14.05.2008 - IV ZR 49/05](iv-zr-49-05.md) — Streitwert: 9.853,54 €
 - [BGH, Urteil vom 30.04.2008 - IV ZR 227/06](iv-zr-227-06.md) — Tatbestand:
 - [BGH, Beschluss vom 30.04.2008 - IV ZR 53/05](iv-zr-53-05.md) — BGH, Beschluss vom 30.04.2008 - IV ZR 53/05
+- [BGH, Beschluss vom 30.04.2008 - IV ZR 77/05](iv-zr-77-05.md) — BGH, Beschluss vom 30.04.2008 - IV ZR 77/05
+- [BGH, Beschluss vom 16.04.2008 - IV ZR 205/07](iv-zr-205-07.md) — Die beabsichtigte Rechtsverfolgung erscheint aussichtslos (§ 78 b Abs.
+- [BGH, Beschluss vom 16.04.2008 - IV ZR 335/06](iv-zr-335-06.md) — Der Senat hat die Nichtzulassungsbeschwerde des Klägers gegen das Urteil des 10.
 - [BGH, Beschluss vom 12.03.2008 - IV ZR 123/06](iv-zr-123-06.md) — BGH, Beschluss vom 12.03.2008 - IV ZR 123/06
+- [BGH, Beschluss vom 12.03.2008 - IV ZR 33/07](iv-zr-33-07.md) — Die Beschwerde führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache. 2 I. Das Berufungsgericht hat den Anspruch des Klägers auf …
+- [BGH, Beschluss vom 12.03.2008 - IV ZR 330/06](iv-zr-330-06.md) — Verletzung anwaltlicher Pflichten auf Schadenser-
 - [BGH, Beschluss vom 05.03.2008 - IV ZB 11/07](iv-zb-11-07.md) — BGH, Beschluss vom 05.03.2008 - IV ZB 11/07
-- [BGH, Beschluss vom 05.03.2008 - IV ZR 305/06](iv-zr-305-06.md) — BGH, Beschluss vom 05.03.2008 - IV ZR 305/06
+- [BGH, Urteil vom 05.03.2008 - IV ZR 119/06](iv-zr-119-06.md) — Tatbestand:
+- [BGH, Beschluss vom 05.03.2008 - IV ZR 305/06](iv-zr-305-06.md) — 1. Soweit sich die Nichtzulassungsbeschwerde der Beklagten da- gegen wendet, dass das Berufungsgericht der Klägerin die Versiche- rungsleistung in Höhe von 2.383.021,81 € nebst 8% …
+- [BGH, Urteil vom 05.03.2008 - IV ZR 89/07](iv-zr-89-07.md) — Tatbestand:
+- [BGH, Urteil vom 27.02.2008 - IV ZR 219/06](iv-zr-219-06.md) — Tatbestand:
 - [BGH, Urteil vom 27.02.2008 - IV ZR 270/06](iv-zr-270-06.md) — Tatbestand:
-- [BGH, Beschluss vom 18.02.2008 - IV ZA 19/07](iv-za-19-07.md) — BGH, Beschluss vom 18.02.2008 - IV ZA 19/07
+- [BGH, Beschluss vom 18.02.2008 - IV ZA 19/07](iv-za-19-07.md) — Der Senat hat der Klägerin mit Beschluss vom 16.
 - [BGH, Beschluss vom 13.02.2008 - IV ZR 13/06](iv-zr-13-06.md) — BGH, Beschluss vom 13.02.2008 - IV ZR 13/06
 - [BGH, Beschluss vom 30.01.2008 - IV ZR 18/07](iv-zr-18-07.md) — angeblicher Entwendung am 7. November 2005
 - [BGH, Urteil vom 23.01.2008 - IV ZR 169/06](iv-zr-169-06.md) — Tatbestand:
 - [BGH, Beschluss vom 16.01.2008 - IV ZR 271/06](iv-zr-271-06.md) — BGH, Beschluss vom 16.01.2008 - IV ZR 271/06
+- [BGH, Urteil vom 16.01.2008 - IV ZR 85/07](iv-zr-85-07.md) — Tatbestand:

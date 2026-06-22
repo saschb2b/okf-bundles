@@ -1,29 +1,59 @@
 # VI. Zivilsenat – 2004
 
-25 Entscheidung(en).
+55 Entscheidung(en).
 
 - [BGH, Urteil vom 21.12.2004 - VI ZR 276/03](vi-zr-276-03.md) — Tatbestand: Am 28. Oktober 2002 beschädigte der damals neun Jahre alte Beklagte den ordnungsgemäß am Straßenrand geparkten PKW der Klägerin,
+- [BGH, Beschluss vom 14.12.2004 - VI ZB 60/04](vi-zb-60-04.md) — I. Das die Klage abweisende Urteil des Amtsgerichts vom 13. April 2004 ist dem Prozeßbevollmächtigten des Klägers am 15. April 2004 zugestellt worden. Der Kläger hat hiergegen am …
+- [BGH, Beschluss vom 09.12.2004 - VI ZR 303/03](vi-zr-303-03.md) — Der Antrag der Beklagten, das Revisionsverfahren analog § 321 a Abs.
+- [BGH, Beschluss vom 09.12.2004 - VI ZR 305/03](vi-zr-305-03.md) — Der Antrag der Beklagten, das Revisionsverfahren analog § 321 a Abs.
+- [BGH, Urteil vom 07.12.2004 - VI ZR 308/03](vi-zr-308-03.md) — Tatbestand: Der Kläger betreibt eine gynäkologische Praxis, in der er unter Beachtung der gesetzlichen Bestimmungen Schwangerschaftsabbrüche
+- [BGH, Beschluss vom 30.11.2004 - VI ZR 209/04](vi-zr-209-04.md) — BGH, Beschluss vom 30.11.2004 - VI ZR 209/04
 - [BGH, Beschluss vom 23.11.2004 - VI ZB 6/04](vi-zb-6-04.md) — BGH, Beschluss vom 23.11.2004 - VI ZB 6/04
+- [BGH, Beschluss vom 16.11.2004 - VI ZR 116/04](vi-zr-116-04.md) — BGH, Beschluss vom 16.11.2004 - VI ZR 116/04
+- [BGH, Beschluss vom 16.11.2004 - VI ZR 28/04](vi-zr-28-04.md) — BGH, Beschluss vom 16.11.2004 - VI ZR 28/04
+- [BGH, Beschluss vom 16.11.2004 - VI ZR 56/04](vi-zr-56-04.md) — BGH, Beschluss vom 16.11.2004 - VI ZR 56/04
+- [BGH, Beschluss vom 09.11.2004 - VI ZR 169/04](vi-zr-169-04.md) — I. Die Kläger haben den Beklagten aufgrund eines Verkehrsunfalls auf Ersatz weiteren materiellen und immateriellen Schadens in Anspruch genommen. Das Landgericht hat die Klage …
+- [BGH, Urteil vom 26.10.2004 - VI ZR 300/03](vi-zr-300-03.md) — Tatbestand: Die Klägerin, eine Autovermietung, macht gegen den beklagten Kraftfahrzeughaftpflichtversicherer Ansprüche auf Ersatz restlicher
+- [BGH, Beschluss vom 19.10.2004 - VI ZB 32/04](vi-zb-32-04.md) — I. Der Kläger, der Rechtsanwalt in Mecklenburg-Vorpommern ist, hat die Beklagten nach einem Verkehrsunfall in Berlin auf Schadensersatz vor dem -3- Amtsgericht Berlin Mitte in …
+- [BGH, Urteil vom 19.10.2004 - VI ZR 291/03](vi-zr-291-03.md) — 3-
+- [BGH, Urteil vom 19.10.2004 - VI ZR 292/03](vi-zr-292-03.md) — Tatbestand: Die Klägerin wendet sich mit der Klage gegen eine Berichterstattung in der von der Beklagten verlegten Zeitschrift SUPER ILLU. D
+- [BGH, Urteil vom 19.10.2004 - VI ZR 293/03](vi-zr-293-03.md) — Tatbestand: Die Klägerin wendet sich mit der Klage gegen eine Bildberichterstattung in der von der Beklagten verlegten Zeitschrift FREIZEIT
 - [BGH, Urteil vom 05.10.2004 - VI ZR 255/03](vi-zr-255-03.md) — einer schweren Persönlichkeitsrechtsverletzung hat ihre Wurzel im Verfassungsrecht und Zivilrecht und stellt keine strafrechtliche Sanktion
 - [BGH, Beschluss vom 05.10.2004 - VI ZR 348/03](vi-zr-348-03.md) — überhöhter Geschwindigkeit der Klägerin einen Mitverschuldensanteil in Höhe von 30 % angenommen und der Klage nur unter Berücksichtigung ein
 - [BGH, Urteil vom 28.09.2004 - VI ZR 302/03](vi-zr-302-03.md) — Tatbestand: Die Klägerin, eine Tochter der Prinzessin Caroline von Hannover, nimmt die Beklagte auf Unterlassung der erneuten Veröffentlichu
-- [BGH, Urteil vom 28.09.2004 - VI ZR 305/03](vi-zr-305-03.md) — Tatbestand: Die Klägerin, eine Tochter der Prinzessin Caroline von Hannover, nimmt die Beklagte auf Unterlassung der erneuten Veröffentlichu
 - [BGH, Urteil vom 28.09.2004 - VI ZR 362/03](vi-zr-362-03.md) — Tatbestand: Der Kläger begehrt von den Beklagten aufgrund Anspruchsübergangs Ersatz von Schäden, die der Feuerwehrbeamte L. am 15. Oktober 1
+- [BGH, Beschluss vom 20.09.2004 - VI ZB 51/03](vi-zb-51-03.md) — der Beteiligung der Beklagten zu 3, einem Versicherungsunternehmen mit Sitz im Ausland, das Oberlandesgericht zuständig gewesen wäre, was au
+- [BGH, Beschluss vom 14.09.2004 - VI ZB 37/04](vi-zb-37-04.md) — des örtlichen Bezugs zum
+- [BGH, Beschluss vom 14.09.2004 - VI ZR 14/04](vi-zr-14-04.md) — BGH, Beschluss vom 14.09.2004 - VI ZR 14/04
+- [BGH, Urteil vom 14.09.2004 - VI ZR 32/04](vi-zr-32-04.md) — Tatbestand: Die Klägerin war als Auszubildende zur Pferdewirtin von ihrem Arbeitgeber zur Betreuung von dessen Pferden bei einer von dem Bek
 - [BGH, Beschluss vom 14.09.2004 - VI ZR 347/03](vi-zr-347-03.md) — BGH, Beschluss vom 14.09.2004 - VI ZR 347/03
 - [BGH, Beschluss vom 13.07.2004 - VI ZB 12/04](vi-zb-12-04.md) — des Restbetrages auf eigene Kosten des Antragstellers) erhoben werden soll (bzw. bereits erhoben ist). Zunächst ist stets zu prüfen, ob eine
-- [BGH, Beschluss vom 13.07.2004 - VI ZB 63/03](vi-zb-63-03.md) — BGH, Beschluss vom 13.07.2004 - VI ZB 63/03
+- [BGH, Beschluss vom 13.07.2004 - VI ZB 63/03](vi-zb-63-03.md) — der gemeinsamen minderjährigen Kinder geführt worden sei. Der Ausschluß von Ehrschutzklagen für Äußerungen in einem Rechtsverfahren sei auch
 - [BGH, Beschluss vom 13.07.2004 - VI ZR 10/04](vi-zr-10-04.md) — BGH, Beschluss vom 13.07.2004 - VI ZR 10/04
 - [BGH, Urteil vom 13.07.2004 - VI ZR 136/03](vi-zr-136-03.md) — Beteiligung an dem sittenwidrigen Verhalten des Anlageberaters und -vermittlers in Betracht. Der Tatrichter kann den Mittäter- oder Gehilfen
+- [BGH, Urteil vom 06.07.2004 - VI ZR 266/03](vi-zr-266-03.md) — Tatbestand: Die Klägerin begehrt Ersatz ihres materiellen und immateriellen Schadens sowie die Feststellung der Haftung der Beklagten für ma
 - [BGH, Beschluss vom 30.06.2004 - VI ZB 81/03](vi-zb-81-03.md) — BGH, Beschluss vom 30.06.2004 - VI ZB 81/03
+- [BGH, Urteil vom 29.06.2004 - VI ZR 211/03](vi-zr-211-03.md) — Tatbestand: Die Klägerin, eine Innungskrankenkasse, verlangt von dem Beklagten aus gemäß § 116 SGB X auf sie übergegangenem Recht ihres Vers
 - [BGH, Urteil vom 22.06.2004 - VI ZR 112/03](vi-zr-112-03.md) — entgangener Eigenleistungen (Bauarbeiten) eines bei einem Unfall getöteten Angehörigen.
 - [BGH, Beschluss vom 15.06.2004 - VI ZB 69/03](vi-zb-69-03.md) — BGH, Beschluss vom 15.06.2004 - VI ZB 69/03
 - [BGH, Urteil vom 15.06.2004 - VI ZR 60/03](vi-zr-60-03.md) — vermehrter Bedürfnisse gemäß § 843 BGB unberührt, wenn bei dem Unfall eine Verletzung der Obhutspflicht durch die Mutter mitgewirkt hat.
 - [BGH, Beschluss vom 08.06.2004 - VI ZB 49/03](vi-zb-49-03.md) — BGH, Beschluss vom 08.06.2004 - VI ZB 49/03
+- [BGH, Beschluss vom 08.06.2004 - VI ZR 343/03](vi-zr-343-03.md) — BGH, Beschluss vom 08.06.2004 - VI ZR 343/03
 - [BGH, Beschluss vom 18.05.2004 - VI ZA 4/04](vi-za-4-04.md) — BGH, Beschluss vom 18.05.2004 - VI ZA 4/04
-- [BGH, Urteil vom 18.05.2004 - VI ZR 267/03](vi-zr-267-03.md) — BGH, Urteil vom 18.05.2004 - VI ZR 267/03
+- [BGH, Urteil vom 18.05.2004 - VI ZR 267/03](vi-zr-267-03.md) — Tatbestand: Der Kläger verlangt von der beklagten Haftpflichtversicherung Schadensersatz aus einem Verkehrsunfall vom 4. September 2002, bei
+- [BGH, Beschluss vom 27.04.2004 - VI ZB 64/03](vi-zb-64-03.md) — I. Die Beklagten wenden sich mit der Rechtsbeschwerde dagegen, daß der Rechtspfleger des Amtsgerichts in einem Zivilrechtsstreit im Rahmen der Kostenfestsetzung zugunsten des …
 - [BGH, Beschluss vom 20.04.2004 - VI ZR 197/03](vi-zr-197-03.md) — BGH, Beschluss vom 20.04.2004 - VI ZR 197/03
 - [BGH, Beschluss vom 20.04.2004 - VI ZR 253/03](vi-zr-253-03.md) — BGH, Beschluss vom 20.04.2004 - VI ZR 253/03
 - [BGH, Beschluss vom 20.04.2004 - VI ZR 307/03](vi-zr-307-03.md) — BGH, Beschluss vom 20.04.2004 - VI ZR 307/03
+- [BGH, Beschluss vom 20.04.2004 - VI ZR 317/03](vi-zr-317-03.md) — BGH, Beschluss vom 20.04.2004 - VI ZR 317/03
+- [BGH, Urteil vom 30.03.2004 - VI ZR 163/03](vi-zr-163-03.md) — Tatbestand: Die Parteien sind Schüler eines Gymnasiums. Sie streiten über die Verpflichtung des Beklagten, der Klägerin Schadensersatz wegen
 - [BGH, Beschluss vom 30.03.2004 - VI ZR 193/03](vi-zr-193-03.md) — BGH, Beschluss vom 30.03.2004 - VI ZR 193/03
 - [BGH, Urteil vom 30.03.2004 - VI ZR 25/03](vi-zr-25-03.md) — Tatbestand: Der Beklagte nimmt im Wege der Widerklage den Kläger und den Widerbeklagten zu 2 auf Schmerzensgeld wegen Verletzungen in Anspru
 - [BGH, Beschluss vom 22.03.2004 - VI ZA 20/03](vi-za-20-03.md) — BGH, Beschluss vom 22.03.2004 - VI ZA 20/03
+- [BGH, Beschluss vom 09.03.2004 - VI ZR 269/03](vi-zr-269-03.md) — BGH, Beschluss vom 09.03.2004 - VI ZR 269/03
+- [BGH, Urteil vom 17.02.2004 - VI ZR 39/03](vi-zr-39-03.md) — desselben Schadens mit der Klage gegen einen Dritten (hier: die Universitätsklinik) verbunden und ist die Frage, ob diesen eine Ersatzpflich
+- [BGH, Beschluss vom 27.01.2004 - VI ZB 30/03](vi-zb-30-03.md) — I. Die Klägerin hat, nachdem ihre Klage vom Amtsgericht abgewiesen worden war, gegen das ihrem Prozeßbevollmächtigten am 4. November 2002 zugestellte Urteil des Amtsgerichts vom …
+- [BGH, Beschluss vom 27.01.2004 - VI ZB 33/03](vi-zb-33-03.md) — I. Der Kläger verlangt von der Beklagten ein angemessenes Schmerzensgeld und materiellen Schadensersatz, weil diese ihn am Umgangsrecht mit seinen Kindern gehindert und ihn dabei …
+- [BGH, Beschluss vom 27.01.2004 - VI ZR 426/02](vi-zr-426-02.md) — BGH, Beschluss vom 27.01.2004 - VI ZR 426/02
+- [BGH, Beschluss vom 20.01.2004 - VI ZR 100/03](vi-zr-100-03.md) — zu legen ist. Gemessen daran ist seine Annahme, für eine die subjektive Tatseite des Betruges betreffende ausreichende Kenntnis des Geschäftsführers der Klägerin seien keine …
+- [BGH, Beschluss vom 20.01.2004 - VI ZR 2/03](vi-zr-2-03.md) — BGH, Beschluss vom 20.01.2004 - VI ZR 2/03

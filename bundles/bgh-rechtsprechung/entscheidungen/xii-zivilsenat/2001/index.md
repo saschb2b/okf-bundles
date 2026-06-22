@@ -1,21 +1,41 @@
 # XII. Zivilsenat – 2001
 
-23 Entscheidung(en).
+43 Entscheidung(en).
 
 - [BGH, Beschluss vom 05.12.2001 - XII ZA 16/01](xii-za-16-01.md) — BGH, Beschluss vom 05.12.2001 - XII ZA 16/01
+- [BGH, Versäumnisurteil vom 14.11.2001 - XII ZR 142/99](xii-zr-142-99.md) — Tatbestand:
 - [BGH, Beschluss vom 07.11.2001 - XII ZR 187/99](xii-zr-187-99.md) — BGH, Beschluss vom 07.11.2001 - XII ZR 187/99
 - [BGH, Urteil vom 07.11.2001 - XII ZR 247/00](xii-zr-247-00.md) — Tatbestand: Die 1914 geborene Antragstellerin und der 1970 geborene Antragsgegner haben am 3. November 1995 miteinander die Ehe geschlossen.
-- [BGH, Beschluss vom 24.10.2001 - XII ZB 142/01](xii-zb-142-01.md) — BGH, Beschluss vom 24.10.2001 - XII ZB 142/01
-- [BGH, Beschluss vom 24.10.2001 - XII ZB 182/01](xii-zb-182-01.md) — BGH, Beschluss vom 24.10.2001 - XII ZB 182/01
-- [BGH, Beschluss vom 24.10.2001 - XII ZB 88/99](xii-zb-88-99.md) — BGH, Beschluss vom 24.10.2001 - XII ZB 88/99
-- [BGH, Beschluss vom 24.10.2001 - XII ZR 182/98](xii-zr-182-98.md) — BGH, Beschluss vom 24.10.2001 - XII ZR 182/98
+- [BGH, Beschluss vom 24.10.2001 - XII ZB 142/01](xii-zb-142-01.md) — I. Für die Betroffene ist zur Besorgung ihrer Angelegenheiten Betreuung angeordnet und ein Betreuer bestellt. Dieser führt die Betreuung berufsmäßig und begehrt für seine in der …
+- [BGH, Beschluss vom 24.10.2001 - XII ZB 182/01](xii-zb-182-01.md) — Die Unterzeichnung der Rechtsmittelschrift genügt nicht den an die erforderliche Unterschrift zu stellenden Anforderungen.
+- [BGH, Beschluss vom 24.10.2001 - XII ZB 88/99](xii-zb-88-99.md) — I. Der weitere Beteiligte zu 1, der am 2. September 1984 geborene Roy Z., ist aus der am 12. März 1987 geschiedenen Ehe des Antragsgegners mit der Antragstellerin hervorgegangen …
+- [BGH, Beschluss vom 24.10.2001 - XII ZR 182/98](xii-zr-182-98.md) — unterlassener Reinigungs- bzw. Ausbesserungsarbeiten in Gesamthöhe von 7.625 DM (1.300 DM für Reinigungsarbeiten an den Fliesen; 6.325 DM fü
 - [BGH, Urteil vom 24.10.2001 - XII ZR 284/99](xii-zr-284-99.md) — Tatbestand: Die Parteien streiten um nachehelichen Unterhalt. Durch Verbundurteil vom 14. März 1994 wurde ihre im Jahre 1989 geschlossene Eh
+- [BGH, Beschluss vom 17.10.2001 - XII ZB 102/01](xii-zb-102-01.md) — I. Die am 26. September 1975 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 24. November 2000 zugestellten Antrag des Ehemanns (Antragsteller) durch …
+- [BGH, Beschluss vom 17.10.2001 - XII ZB 107/01](xii-zb-107-01.md) — I. Die am 21. Dezember 1979 geschlossene Ehe der Parteien wurde auf den dem Ehemann (Antragsgegner) am 2. August 2000 zugestellten Antrag der Ehefrau (Antragstellerin) durch …
+- [BGH, Beschluss vom 17.10.2001 - XII ZB 169/01](xii-zb-169-01.md) — I. Die am 15. Januar 1982 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 22. April 2000 zugestellten Antrag des Ehemanns (Antragsteller) durch …
+- [BGH, Beschluss vom 17.10.2001 - XII ZB 87/01](xii-zb-87-01.md) — I. Die am 18. Dezember 1989 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 29. Mai 2000 zugestellten Antrag des Ehemanns (Antragsteller) durch …
+- [BGH, Beschluss vom 17.10.2001 - XII ZR 27/00](xii-zr-27-00.md) — Nach den von der Antragstellerin bis zum Erlaß des Beschlusses vom 25.
+- [BGH, Beschluss vom 05.09.2001 - XII ZB 174/01](xii-zb-174-01.md) — BGH, Beschluss vom 05.09.2001 - XII ZB 174/01
+- [BGH, Beschluss vom 05.09.2001 - XII ZB 28/97](xii-zb-28-97.md) — Alters bezieht, unter Zugrundelegung der Entgeltpunkte der gezahlten Rente monatlich 1.286,51 DM. Die Ehefrau hat in der Ehezeit darüber hin
+- [BGH, Beschluss vom 05.09.2001 - XII ZB 56/98](xii-zb-56-98.md) — I. Durch Verbundurteil hat das Familiengericht die am 9. Juli 1982 geschlossene Ehe der Parteien geschieden, das Sorgerecht für die im Dezember 1982 geborene gemeinsame Tochter …
+- [BGH, Beschluss vom 05.09.2001 - XII ZB 81/01](xii-zb-81-01.md) — der Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen Stand zu gewähren.
+- [BGH, Beschluss vom 05.09.2001 - XII ZR 319/00](xii-zr-319-00.md) — Voraussetzung für die Beiordnung eines Notanwalts gemäß § 78 b ZPO ist zum einen, daß die Partei keinen zu ihrer Vertretung bereiten Rechtsanwalt findet.
 - [BGH, Beschluss vom 10.05.2001 - XII ZB 204/00](xii-zb-204-00.md) — der Versäumung der Be-
 - [BGH, Urteil vom 10.05.2001 - XII ZR 108/99](xii-zr-108-99.md) — Tatbestand: Die Parteien streiten um Kindesunterhalt. Die am 3. (nicht: 4.) April 1979 geborene Beklagte ist die Tochter des Klägers aus ges
 - [BGH, Versäumnisurteil vom 10.05.2001 - XII ZR 60/99](xii-zr-60-99.md) — Tatbestand: Die Klägerin verlangt rückständigen Mietzins für eine Teilfläche ihres Grundstücks, die sie dem Beklagten mit Vertrag vom 3. Dez
+- [BGH, Urteil vom 25.04.2001 - XII ZR 263/98](xii-zr-263-98.md) — Tatbestand: Durch schriftlichen Mietvertrag vom 7. März 1994 vermietete die Klägerin dem Beklagten Verkaufs- und Lagerräume in der S.straße
+- [BGH, Urteil vom 25.04.2001 - XII ZR 43/99](xii-zr-43-99.md) — Tatbestand: Mit Mietvertrag vom 19. Dezember 1991 vermietete die frühere Eigentümerin an Frau H. Gewerberäume zum Betrieb einer Gaststätte.
+- [BGH, Beschluss vom 04.04.2001 - XII ZB 147/99](xii-zb-147-99.md) — I. Die Parteien, die am 13. Oktober 1984 die Ehe schlossen, haben zwei Töchter, Juliane, geboren am 14. Juni 1983, und Anna, geboren am 3. Dezember 1986. Seit der im Herbst 1995 …
+- [BGH, Beschluss vom 04.04.2001 - XII ZB 3/00](xii-zb-3-00.md) — I. Die Beteiligten zu 1. und 2. sind die nicht miteinander verheirateten Eltern des am 2. April 1993 geborenen Kindes Jonathan, für das der Vater (Beteiligter zu 1.) durch …
+- [BGH, Beschluss vom 04.04.2001 - XII ZB 51/01](xii-zb-51-01.md) — Versäumung der Berufungsbegründungsfrist Wiederein-
+- [BGH, Beschluss vom 28.03.2001 - XII ZB 100/00](xii-zb-100-00.md) — I. Gegen das ihr am 1. September 1999 zugestellte Urteil des Landgerichts, durch das sie zur Zahlung von 24.624,45 DM nebst Zinsen verurteilt wurde, legte die Beklagte am 1 …
+- [BGH, Beschluss vom 28.03.2001 - XII ZB 32/01](xii-zb-32-01.md) — Entgegen der Auffassung des Oberlandesgerichts war dem Kläger gemäß § 233 ZPO Wiedereinsetzung in den vorigen Stand zu gewähren, weil er ohne Verschulden verhindert war, die …
+- [BGH, Urteil vom 28.03.2001 - XII ZR 128/98](xii-zr-128-98.md) — Tatbestand:
 - [BGH, Urteil vom 14.03.2001 - XII ZR 51/99](xii-zr-51-99.md) — Tatbestand: Die Parteien sind geschiedene Eheleute. Der Kläger macht gegen die Beklagte Ausgleichsansprüche geltend, weil er nach der Trennu
 - [BGH, Urteil vom 14.03.2001 - XII ZR 57/99](xii-zr-57-99.md) — Tatbestand: Der Kläger nimmt den seit Jahren von seiner Ehefrau getrennt lebenden Beklagten aus gemäß § 7 UVG übergegangenem Recht auf Unter
 - [BGH, Urteil vom 14.03.2001 - XII ZR 81/99](xii-zr-81-99.md) — Tatbestand: Die Klägerin nimmt den Beklagten auf Zahlung von Ausbildungsunterhalt in Anspruch. Die am 1. Mai 1970 geborene Klägerin ist die
+- [BGH, Beschluss vom 07.03.2001 - XII ZR 262/00](xii-zr-262-00.md) — Das Revisionsgericht kann nach Einlegung der Revision gegen ein für vorläufig vollstreckbar erklärtes Urteil die einstweilige Einstellung der Zwangsvollstreckung bis zur …
 - [BGH, Beschluss vom 07.02.2001 - XII ZB 34/00](xii-zb-34-00.md) — Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen Stand zu gewähren. Nach § 233 ZPO ist einer Partei wegen Versäumung (u.a.) der
 - [BGH, Urteil vom 07.02.2001 - XII ZR 118/98](xii-zr-118-98.md) — Tatbestand:
 - [BGH, Beschluss vom 07.02.2001 - XII ZR 26/99](xii-zr-26-99.md) — BGH, Beschluss vom 07.02.2001 - XII ZR 26/99

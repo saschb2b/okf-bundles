@@ -1,18 +1,38 @@
 # 5. Strafsenat – 2009
 
-40 Entscheidung(en).
+81 Entscheidung(en).
 
 - [BGH, Urteil vom 09.12.2009 - 5 StR 403/09](5-str-403-09.md) — Mordes u. a.
+- [BGH, Urteil vom 09.12.2009 - 5 StR 459/09](5-str-459-09.md) — Betruges
+- [BGH, Beschluss vom 09.12.2009 - 5 StR 482/09](5-str-482-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 08.12.2009 - 5 StR 418/09](5-str-418-09.md) — Mordes u. a.
 - [BGH, Entscheidung vom 08.12.2009 - 5 StR 441/09](5-str-441-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 08.12.2009 - 5 StR 449/09](5-str-449-09.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 26.11.2009 - 5 StR 91/09](5-str-91-09.md) — leichtfertiger Geldwäsche
+- [BGH, Beschluss vom 10.11.2009 - 5 StR 413/09](5-str-413-09.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 28.10.2009 - 5 ARs 53/09](5-ars-53-09.md) — Betruges hier: Anfragebeschluss des 1. Strafsenats vom 2. September 2009
+- [BGH, Beschluss vom 28.10.2009 - 5 StR 171/09](5-str-171-09.md) — Betruges u. a.
+- [BGH, Urteil vom 28.10.2009 - 5 StR 261/09](5-str-261-09.md) — vorsätzlicher Brandstiftung u. a.
 - [BGH, Beschluss vom 28.10.2009 - 5 StR 419/09](5-str-419-09.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 28.10.2009 - 5 StR 439/09](5-str-439-09.md) — versuchter schwerer Brandstiftung u. a.
+- [BGH, Beschluss vom 28.10.2009 - 5 StR 443/09](5-str-443-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.10.2009 - 5 StR 242/09](5-str-242-09.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.10.2009 - 5 StR 289/09](5-str-289-09.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Urteil vom 27.10.2009 - 5 StR 296/09](5-str-296-09.md) — : nein Veröffentlichung : ja StGB § 66b Zur Anwendbarkeit der Vorschrift des § 66b Abs. 1 Satz 2 StGB (im Anschluss an BGHSt 52, 205). BGH, Urteil vom 27. Oktober 2009 – 5 StR …
 - [BGH, Beschluss vom 15.10.2009 - 5 StR 344/09](5-str-344-09.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 15.10.2009 - 5 StR 351/09](5-str-351-09.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 15.10.2009 - 5 StR 373/09](5-str-373-09.md) — Vergewaltigung
 - [BGH, Beschluss vom 15.10.2009 - 5 StR 401/09](5-str-401-09.md) — BGH, Beschluss vom 15.10.2009 - 5 StR 401/09
 - [BGH, Beschluss vom 15.10.2009 - 5 StR 407/09](5-str-407-09.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 13.10.2009 - 5 StR 400/09](5-str-400-09.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 23.09.2009 - 5 StR 287/09](5-str-287-09.md) — Mordes
 - [BGH, Beschluss vom 23.09.2009 - 5 StR 314/09](5-str-314-09.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 23.09.2009 - 5 StR 333/09](5-str-333-09.md) — bandenmäßiger Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 22.09.2009 - 5 StR 375/09](5-str-375-09.md) — besonders schweren Raubes
+- [BGH, Beschluss vom 17.09.2009 - 5 StR 343/09](5-str-343-09.md) — Totschlags
+- [BGH, Beschluss vom 16.09.2009 - 5 StR 334/09](5-str-334-09.md) — besonders schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 16.09.2009 - 5 StR 348/09](5-str-348-09.md) — Diebstahls
+- [BGH, Beschluss vom 15.09.2009 - 5 StR 335/09](5-str-335-09.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 03.09.2009 - 5 StR 207/09](5-str-207-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 18.08.2009 - 5 StR 227/09](5-str-227-09.md) — Raubes mit Todesfolge
 - [BGH, Beschluss vom 18.08.2009 - 5 StR 323/09](5-str-323-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
@@ -21,14 +41,34 @@
 - [BGH, Beschluss vom 05.08.2009 - 5 StR 294/09](5-str-294-09.md) — unerlaubter Abgabe von Betäubungsmitteln u. a.
 - [BGH, Beschluss vom 04.08.2009 - 5 StR 244/09](5-str-244-09.md) — schweren Bandendiebstahls u. a.
 - [BGH, Beschluss vom 04.08.2009 - 5 StR 253/09](5-str-253-09.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 21.07.2009 - 5 StR 255/09](5-str-255-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 17.07.2009 - 5 StR 234/09](5-str-234-09.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 16.07.2009 - 5 StR 221/09](5-str-221-09.md) — schweren Bandendiebstahls
 - [BGH, Beschluss vom 09.07.2009 - 5 StR 239/09](5-str-239-09.md) — gewerbsmäßiger Hehlerei u. a.
 - [BGH, Urteil vom 09.07.2009 - 5 StR 600/07](5-str-600-07.md) — Bestechung u. a.
 - [BGH, Beschluss vom 08.07.2009 - 5 StR 217/09](5-str-217-09.md) — besonders schweren räuberischen Diebstahls u. a.
 - [BGH, Beschluss vom 08.07.2009 - 5 StR 219/09](5-str-219-09.md) — besonders schweren Raubes u. a.
 - [BGH, Beschluss vom 07.07.2009 - 5 StR 204/09](5-str-204-09.md) — Vergewaltigung
+- [BGH, Beschluss vom 25.06.2009 - 5 StR 174/09](5-str-174-09.md) — Totschlags
+- [BGH, Beschluss vom 24.06.2009 - 5 StR 206/09](5-str-206-09.md) — besonders schweren Raubes u. a.
+- [BGH, Urteil vom 23.06.2009 - 5 StR 189/09](5-str-189-09.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Urteil vom 23.06.2009 - 5 StR 195/09](5-str-195-09.md) — räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 22.06.2009 - 5 StR 168/09](5-str-168-09.md) — sexuellen Missbrauchs eines Kindes u. a.
 - [BGH, Entscheidung vom 09.06.2009 - 5 StR 190/09](5-str-190-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Entscheidung vom 26.05.2009 - 5 StR 139/09](5-str-139-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Entscheidung vom 26.05.2009 - 5 StR 180/09](5-str-180-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 08.04.2009 - 5 StR 18/09](5-str-18-09.md) — gewerbsmäßiger Hehlerei u. a.
+- [BGH, Beschluss vom 08.04.2009 - 5 StR 40/09](5-str-40-09.md) — besonders schwerer Vergewaltigung u. a. hier: Anhörungsrüge
+- [BGH, Urteil vom 08.04.2009 - 5 StR 65/09](5-str-65-09.md) — Totschlags
+- [BGH, Beschluss vom 07.04.2009 - 5 StR 602/08](5-str-602-08.md) — vorsätzlicher Herbeiführung einer Sprengstoffexplosion
+- [BGH, Beschluss vom 06.04.2009 - 5 StR 106/09](5-str-106-09.md) — Totschlags
+- [BGH, Beschluss vom 06.04.2009 - 5 StR 120/09](5-str-120-09.md) — sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 06.04.2009 - 5 StR 94/09](5-str-94-09.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 26.03.2009 - 5 StR 74/09](5-str-74-09.md) — Betruges
+- [BGH, Urteil vom 25.03.2009 - 5 StR 31/09](5-str-31-09.md) — : ja Veröffentlichung : ja StGB § 250 Abs. 2 Nr. 3 lit. a Schwere Misshandlungen nach Vollendung einer Raubtat können den Qualifikationstatbestand des § 250 Abs. 2 Nr. 3 lit.a …
+- [BGH, Beschluss vom 25.03.2009 - 5 StR 7/09](5-str-7-09.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 24.03.2009 - 5 StR 225/06](5-str-225-06.md) — Vergehens nach dem Außenwirtschaftsgesetz hier: Antrag des Vertreters der Verfallsbeteiligten Rechtsanwalt H. auf Festsetzung des Gegenstand
+- [BGH, Beschluss vom 24.03.2009 - 5 StR 353/08](5-str-353-08.md) — Bankrotts u. a.
 - [BGH, Beschluss vom 24.03.2009 - 5 StR 394/08](5-str-394-08.md) — Betruges
 - [BGH, Beschluss vom 11.03.2009 - 5 ARs 3/09](5-ars-3-09.md) — schweren Raubes u. a. hier: Anfrage des 2. Strafsenats vom 29. Oktober 2008 – 2 StR 386/08 –
 - [BGH, Beschluss vom 10.03.2009 - 5 StR 460/08](5-str-460-08.md) — sexuellen Missbrauchs eines Kindes
@@ -40,5 +80,6 @@
 - [BGH, Beschluss vom 08.01.2009 - 5 StR 528/08](5-str-528-08.md) — sexueller Nötigung u. a.
 - [BGH, Beschluss vom 08.01.2009 - 5 StR 547/08](5-str-547-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Urteil vom 08.01.2009 - 5 StR 548/08](5-str-548-08.md) — versuchten Totschlags u. a.
+- [BGH, Entscheidung vom 07.01.2009 - 5 StR 539/08](5-str-539-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 07.01.2009 - 5 StR 586/08](5-str-586-08.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 07.01.2009 - 5 StR 600/08](5-str-600-08.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u. a.

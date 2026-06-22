@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AbsFondsG"
 description: "BGH-Entscheidungen zu AbsFondsG, geordnet nach Vorschrift."
 tags: [register, navigation, absfondsg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

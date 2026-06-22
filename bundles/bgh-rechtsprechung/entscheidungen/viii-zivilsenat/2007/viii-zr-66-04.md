@@ -9,7 +9,7 @@ datum: 2007-07-10
 aktenzeichen: "VIII ZR 66/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:24:50Z
+timestamp: 2026-06-22T14:17:17Z
 ---
 # Volltext
 

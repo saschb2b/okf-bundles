@@ -1,6 +1,6 @@
 # KRB
 
-Kartell- und Energie-Beschwerdesachen (Kartellsenat). 31 Entscheidung(en).
+Kartell- und Energie-Beschwerdesachen (Kartellsenat). 33 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -19,6 +19,6 @@ Kartell- und Energie-Beschwerdesachen (Kartellsenat). 31 Entscheidung(en).
 - [2012](2012/index.md) (1)
 - [2011](2011/index.md) (2)
 - [2007](2007/index.md) (1)
-- [2005](2005/index.md) (1)
+- [2005](2005/index.md) (3)
 - [2004](2004/index.md) (1)
 - [2003](2003/index.md) (1)

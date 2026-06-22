@@ -1,6 +1,6 @@
 # Senat für Anwaltssachen – 2009
 
-31 Entscheidung(en).
+42 Entscheidung(en).
 
 - [BGH, Beschluss vom 07.12.2009 - AnwZ (B) 111/08](anwz-b-111-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 07.12.2009 - AnwZ (B) 115/08](anwz-b-115-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
@@ -14,20 +14,31 @@
 - [BGH, Beschluss vom 21.10.2009 - AnwZ (B) 69/09](anwz-b-69-09.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 09.10.2009 - AnwZ (B) 45/09](anwz-b-45-09.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 07.08.2009 - AnwZ (B) 112/08](anwz-b-112-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 30.07.2009 - AnwSt (B) 13/08](anwst-b-13-08.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 21.07.2009 - AnwZ (B) 50/09](anwz-b-50-09.md) — Versagung einer Genehmigung nach § 47 Abs. 1 Satz 2 BRAO
 - [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 29/08](anwz-b-29-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 35/08](anwz-b-35-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 41/09](anwz-b-41-09.md) — Wiederaufnahme
+- [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 52/08](anwz-b-52-08.md) — Ernennung zum (Fach-) Hochschulprofessor unter Berufung in das Beamtenverhältnis auf Lebenszeit verstößt weder gegen die Eigentumsgarantie (
+- [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 70/08](anwz-b-70-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 75/08](anwz-b-75-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 77/08](anwz-b-77-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 79/08](anwz-b-79-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 06.07.2009 - AnwZ (B) 82/08](anwz-b-82-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 04.07.2009 - AnwZ (B) 14/08](anwz-b-14-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.06.2009 - AnwZ (B) 64/08](anwz-b-64-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 12.06.2009 - AnwZ (B) 71/06](anwz-b-71-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 08.06.2009 - AnwZ (B) 23/08](anwz-b-23-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.05.2009 - AnwZ (B) 7/09](anwz-b-7-09.md) — Gestattung des Führens einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 14.05.2009 - AnwZ (B) 119/08](anwz-b-119-08.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 12.05.2009 - AnwZ (B) 110/08](anwz-b-110-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 103/08](anwz-b-103-08.md) — Unzulässigkeit der Zwangsvollstreckung
+- [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 43/08](anwz-b-43-08.md) — Verleihung einer Fachanwaltsbezeichnung
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 44/08](anwz-b-44-08.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 48/08](anwz-b-48-08.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja FAO § 5 Satz 1 Buchst. m, § 14f a) Zu einem erbrechtlichen Fall wird ein Fall dadurch, dass er sich schwerpunktmäßig auf einen der in § 14f …
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 54/08](anwz-b-54-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 94/07](anwz-b-94-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.04.2009 - AnwZ (B) 20/09](anwz-b-20-09.md) — Erlass einer Regelungsverfügung
 - [BGH, Beschluss vom 16.03.2009 - AnwZ (B) 30/08](anwz-b-30-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 16.03.2009 - AnwZ (B) 34/08](anwz-b-34-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 16.03.2009 - AnwZ (B) 60/07](anwz-b-60-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft

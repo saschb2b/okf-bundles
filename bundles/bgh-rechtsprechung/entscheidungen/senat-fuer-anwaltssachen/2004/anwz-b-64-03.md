@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 28.06.2004 - AnwZ (B) 64/03"
-description: "Widerrufs der Zulassung zur Rechtsanwaltschaft "
+description: "Widerrufs der Zulassung zur Rechtsanwaltschaft"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2003/AnwZ_B__64-03.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "Senat für Anwaltssachen"
@@ -9,7 +9,7 @@ datum: 2004-06-28
 aktenzeichen: "AnwZ (B) 64/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:17:37Z
+timestamp: 2026-06-22T14:09:47Z
 ---
 # Volltext
 

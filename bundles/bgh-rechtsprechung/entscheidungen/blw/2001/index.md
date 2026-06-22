@@ -4,16 +4,16 @@
 
 - [BGH, Beschluss vom 09.11.2001 - BLw 23/01](blw-23-01.md) — BGH, Beschluss vom 09.11.2001 - BLw 23/01
 - [BGH, Beschluss vom 09.11.2001 - BLw 30/01](blw-30-01.md) — seiner Mitgliedschaft in der Rechtsvorgängerin der Antragsgegnerin Abfindungsansprüche nach § 44 LwAnpG geltend. Aufgrund einer Abfindungsve
-- [BGH, Beschluss vom 13.09.2001 - BLw 12/01](blw-12-01.md) — BGH, Beschluss vom 13.09.2001 - BLw 12/01
-- [BGH, Beschluss vom 13.09.2001 - BLw 13/01](blw-13-01.md) — BGH, Beschluss vom 13.09.2001 - BLw 13/01
-- [BGH, Beschluss vom 13.09.2001 - BLw 14/01](blw-14-01.md) — BGH, Beschluss vom 13.09.2001 - BLw 14/01
+- [BGH, Beschluss vom 13.09.2001 - BLw 12/01](blw-12-01.md) — I. 1. Die Antragstellerin macht Ansprüche auf Abfindung nach dem Ausscheiden aus der Rechtsvorgängerin der Antragsgegnerin geltend. Das Land- -3- wirtschaftsgericht hat den Antrag …
+- [BGH, Beschluss vom 13.09.2001 - BLw 13/01](blw-13-01.md) — I. Der Antragsteller beabsichtigt, gegen die Antragsgegnerin aus abgetretenem Recht Ansprüche auf Abfindung nach § 44 LwAnpG geltend zu machen. Hierzu hat er beantragt, die …
+- [BGH, Beschluss vom 13.09.2001 - BLw 14/01](blw-14-01.md) — I. Der Antragsteller macht aus abgetretenem Recht Ansprüche auf Abfindung nach § 44 LwAnpG geltend. Hierzu hat er beantragt, die Antragsgegnerin zu verpflichten, ihm über ihre …
 - [BGH, Beschluss vom 13.09.2001 - BLw 16/01](blw-16-01.md) — dessen Mitgliedschaft in der Rechtsvorgängerin der Antragsgegnerin geltend. Das Landwirtschaftsgericht hat den Antrag auf Zahlung von 94.431
-- [BGH, Beschluss vom 13.09.2001 - BLw 18/01](blw-18-01.md) — BGH, Beschluss vom 13.09.2001 - BLw 18/01
+- [BGH, Beschluss vom 13.09.2001 - BLw 18/01](blw-18-01.md) — I. Der Antragsteller macht Ansprüche auf bare Zuzahlung aus abgetretenem Recht seiner Mutter, hilfsweise der Erbengemeinschaft nach seinem Vater und gestützt auf ein eigenes …
 - [BGH, Beschluss vom 13.09.2001 - BLw 21/01](blw-21-01.md) — dessen Mitgliedschaft in der Rechtsvorgängerin der Antragsgegnerin geltend. Das Landwirtschaftsgericht hat den Antrag auf Zahlung von 88.149
-- [BGH, Beschluss vom 13.09.2001 - BLw 22/01](blw-22-01.md) — BGH, Beschluss vom 13.09.2001 - BLw 22/01
-- [BGH, Beschluss vom 13.09.2001 - BLw 3/01](blw-3-01.md) — BGH, Beschluss vom 13.09.2001 - BLw 3/01
-- [BGH, Beschluss vom 28.06.2001 - BLw 11/01](blw-11-01.md) — BGH, Beschluss vom 28.06.2001 - BLw 11/01
-- [BGH, Beschluss vom 28.06.2001 - BLw 4/01](blw-4-01.md) — BGH, Beschluss vom 28.06.2001 - BLw 4/01
+- [BGH, Beschluss vom 13.09.2001 - BLw 22/01](blw-22-01.md) — I. Die Antragssteller sind aus der Antragsgegnerin ausgeschieden. Im Hinblick auf ihr Ausscheiden haben sie mit der Antragsgegnerin eine Vereinbarung über die Höhe ihrer Abfindung …
+- [BGH, Beschluss vom 13.09.2001 - BLw 3/01](blw-3-01.md) — I. Die Beteiligten streiten über die Hoferbfolge . Der Beteiligte zu 1 hat beantragt, festzustellen, daß die im Verlauf des Verfahrens verstorbene G. H. nicht wirtschaftsfähig …
+- [BGH, Beschluss vom 28.06.2001 - BLw 11/01](blw-11-01.md) — grundsätzlicher Bedeutung zulassen
+- [BGH, Beschluss vom 28.06.2001 - BLw 4/01](blw-4-01.md) — I. Der Antragsteller war bis zum 31. März 1988 Mitglied der LPG (P) H., der Rechtsvorgängerin der Antragsgegnerin. Anschließend arbeitete er bei der BHG B.. Er ist der Ansicht …
 - [BGH, Beschluss vom 27.04.2001 - BLw 14/00](blw-14-00.md) — BGH, Beschluss vom 27.04.2001 - BLw 14/00
 - [BGH, Beschluss vom 27.04.2001 - BLw 21/00](blw-21-00.md) — BGH, Beschluss vom 27.04.2001 - BLw 21/00
 - [BGH, Beschluss vom 27.04.2001 - BLw 22/00](blw-22-00.md) — BGH, Beschluss vom 27.04.2001 - BLw 22/00

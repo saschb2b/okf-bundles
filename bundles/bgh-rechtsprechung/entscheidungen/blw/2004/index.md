@@ -1,6 +1,6 @@
 # BLW – 2004
 
-15 Entscheidung(en).
+20 Entscheidung(en).
 
 - [BGH, Beschluss vom 05.11.2004 - BLw 11/04](blw-11-04.md) — BGH, Beschluss vom 05.11.2004 - BLw 11/04
 - [BGH, Beschluss vom 05.11.2004 - BLw 13/04](blw-13-04.md) — BGH, Beschluss vom 05.11.2004 - BLw 13/04
@@ -10,10 +10,15 @@
 - [BGH, Beschluss vom 05.11.2004 - BLw 27/04](blw-27-04.md) — BGH, Beschluss vom 05.11.2004 - BLw 27/04
 - [BGH, Beschluss vom 05.11.2004 - BLw 28/04](blw-28-04.md) — BGH, Beschluss vom 05.11.2004 - BLw 28/04
 - [BGH, Beschluss vom 05.11.2004 - BLw 29/04](blw-29-04.md) — BGH, Beschluss vom 05.11.2004 - BLw 29/04
-- [BGH, Beschluss vom 07.10.2004 - BLw 24/04](blw-24-04.md) — BGH, Beschluss vom 07.10.2004 - BLw 24/04
+- [BGH, Beschluss vom 07.10.2004 - BLw 12/04](blw-12-04.md) — I. Mit notariellem Vertrag vom 3. April 2002 verkaufte der Beteiligte zu 2 sein ca. 2,1 ha großes landwirtschaftliches Grundstück Flur Parzelle Nr. in W. an den Beteiligten zu 1 …
+- [BGH, Beschluss vom 07.10.2004 - BLw 24/04](blw-24-04.md) — I. Die Antragsteller streiten um die Erbfolge hinsichtlich des im Rubrum bezeichneten Hofes im Sinne der Höfeordnung. Eigentümer dieses landwirt- schaftlichen Betriebs war W. -H …
+- [BGH, Beschluss vom 10.09.2004 - BLw 10/04](blw-10-04.md) — I. Die Eltern und der Bruder des Antragstellers waren bis zu ihrem Tod Mitglieder der LPG "R. S. " in D. /D. . Die von dem Vater des Antragstellers in die LPG eingebrachten …
 - [BGH, Beschluss vom 10.09.2004 - BLw 17/04](blw-17-04.md) — BGH, Beschluss vom 10.09.2004 - BLw 17/04
+- [BGH, Beschluss vom 10.09.2004 - BLw 9/04](blw-9-04.md) — I. Der Antragsteller und seine verstorbene Mutter, die von ihm allein beerbt worden ist, waren Mitglieder der LPG "Friedensscholle" B. . Diese ging zunächst in einer anderen LPG …
 - [BGH, Beschluss vom 16.04.2004 - BLw 27/03](blw-27-03.md) — BGH, Beschluss vom 16.04.2004 - BLw 27/03
 - [BGH, Beschluss vom 18.03.2004 - BLw 32/03](blw-32-03.md) — BGH, Beschluss vom 18.03.2004 - BLw 32/03
 - [BGH, Beschluss vom 18.03.2004 - BLw 34/03](blw-34-03.md) — BGH, Beschluss vom 18.03.2004 - BLw 34/03
-- [BGH, Beschluss vom 18.03.2004 - BLw 36/03](blw-36-03.md) — BGH, Beschluss vom 18.03.2004 - BLw 36/03
-- [BGH, Beschluss vom 18.03.2004 - BLw 37/03](blw-37-03.md) — BGH, Beschluss vom 18.03.2004 - BLw 37/03
+- [BGH, Beschluss vom 18.03.2004 - BLw 35/03](blw-35-03.md) — I. Der Antragsteller war seit 1960 Mitglied der LPG (T) "W. " in M. , in die er Ackerland einbrachte. Anläßlich der Umwandlung dieser LPG vom Typ I in eine LPG des Typs III im …
+- [BGH, Beschluss vom 18.03.2004 - BLw 36/03](blw-36-03.md) — I. Der Antragsteller war Mitglied der LPG (T) "W. " in M. , in die er landwirtschaftliche Flächen und lebendes Kapital einbrachte. Am 5. September 1990 kündigte er seine …
+- [BGH, Beschluss vom 18.03.2004 - BLw 37/03](blw-37-03.md) — I. Der Vater des Antragstellers wurde 1960 Mitglied der LPG (T) "N. " R. , in die er landwirtschaftliche Flächen und lebendes und totes Inventar einbrachte. Nach Eintritt in den …
+- [BGH, Beschluss vom 23.02.2004 - BLw 25/03](blw-25-03.md) — I. Mit notariell beurkundetem Vertrag vom 28. September 2001 erwarb die zwischenzeitlich verstorbene Ehefrau des Beteiligten zu 2 von dem Beteiligten zu 1 zwei landwirtschaftlich …

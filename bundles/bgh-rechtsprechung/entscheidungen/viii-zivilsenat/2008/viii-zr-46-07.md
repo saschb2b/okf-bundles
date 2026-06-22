@@ -9,7 +9,7 @@ datum: 2008-01-23
 aktenzeichen: "VIII ZR 46/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:26:06Z
+timestamp: 2026-06-22T14:18:41Z
 ---
 # Volltext
 

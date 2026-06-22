@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 02.07.2008 - IV ZB 5/08"
-description: "Ver- "
+description: "Ver-"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2008/IV_ZB___5-08.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "IV. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2008-07-02
 aktenzeichen: "IV ZB 5/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:27:21Z
+timestamp: 2026-06-22T14:20:15Z
 ---
 # Volltext
 

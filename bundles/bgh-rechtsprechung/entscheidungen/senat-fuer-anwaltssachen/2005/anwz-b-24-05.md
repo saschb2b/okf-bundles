@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Beschluss vom 28.10.2005 - AnwZ (B) 24/05"
-description: "Widerrufs der Zulassung zur Rechtsanwaltschaft "
+description: "Widerrufs der Zulassung zur Rechtsanwaltschaft"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2005/AnwZ_B__24-05.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "Senat für Anwaltssachen"
@@ -9,7 +9,7 @@ datum: 2005-10-28
 aktenzeichen: "AnwZ (B) 24/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:20:52Z
+timestamp: 2026-06-22T14:12:56Z
 ---
 # Volltext
 

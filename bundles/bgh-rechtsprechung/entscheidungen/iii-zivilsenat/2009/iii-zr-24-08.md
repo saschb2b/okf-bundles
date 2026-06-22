@@ -9,7 +9,7 @@ datum: 2009-03-19
 aktenzeichen: "III ZR 24/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:29:10Z
+timestamp: 2026-06-22T14:22:15Z
 ---
 # Volltext
 

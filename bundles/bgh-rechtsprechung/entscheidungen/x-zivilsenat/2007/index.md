@@ -1,26 +1,45 @@
 # X. Zivilsenat – 2007
 
-22 Entscheidung(en).
+41 Entscheidung(en).
 
-- [BGH, Teilurteil vom 18.12.2007 - X ZR 137/04](x-zr-137-04.md) — BGH, Teilurteil vom 18.12.2007 - X ZR 137/04
+- [BGH, Teilurteil vom 18.12.2007 - X ZR 137/04](x-zr-137-04.md) — 3Tatbestand:
+- [BGH, Urteil vom 04.12.2007 - X ZR 102/06](x-zr-102-06.md) — Tatbestand:
+- [BGH, Beschluss vom 04.12.2007 - X ZR 127/06](x-zr-127-06.md) — Verletzung des rechtlichen Gehörs nach § 321 a ZPO wird zurückgewiesen.
+- [BGH, Urteil vom 27.11.2007 - X ZR 18/07](x-zr-18-07.md) — Tatbestand:
+- [BGH, Beschluss vom 13.11.2007 - X ZR 100/07](x-zr-100-07.md) — I. Die Beklagte ist Inhaberin des europäischen Patents 0 311 541 (Streitpatents), das ein Verfahren zum Mykoplasmennachweis betrifft. Auf die Nichtigkeitsklage der Klägerin hat …
+- [BGH, Urteil vom 23.10.2007 - X ZR 104/06](x-zr-104-06.md) — Tatbestand:
+- [BGH, Urteil vom 23.10.2007 - X ZR 20/05](x-zr-20-05.md) — Tatbestand:
+- [BGH, Beschluss vom 23.10.2007 - X ZR 92/05](x-zr-92-05.md) — 1. Patentanwalt S. und Patentanwalt K. begehren je mit getrennten Anträgen Einsicht in die Akten des Nichtigkeitsverfahrens 4 Ni 39/04 vor dem Bundespatentgericht und des sich …
 - [BGH, Urteil vom 16.10.2007 - X ZR 226/02](x-zr-226-02.md) — Tatbestand:
+- [BGH, Urteil vom 04.10.2007 - X ZR 182/03](x-zr-182-03.md) — Tatbestand:
+- [BGH, Urteil vom 25.09.2007 - X ZR 198/02](x-zr-198-02.md) — Tatbestand:
 - [BGH, Urteil vom 18.09.2007 - X ZR 167/05](x-zr-167-05.md) — Tatbestand:
 - [BGH, Urteil vom 18.09.2007 - X ZR 89/04](x-zr-89-04.md) — Tatbestand:
+- [BGH, Urteil vom 11.09.2007 - X ZR 27/04](x-zr-27-04.md) — Tatbestand:
 - [BGH, Beschluss vom 24.07.2007 - X ZR 109/05](x-zr-109-05.md) — offenbarer Unrichtigkeit durch "Grundstücksverkehrsverordnung"
 - [BGH, Urteil vom 17.07.2007 - X ZR 31/06](x-zr-31-06.md) — Tatbestand:
-- [BGH, Beschluss vom 10.07.2007 - X ZB 4/06](x-zb-4-06.md) — BGH, Beschluss vom 10.07.2007 - X ZB 4/06
+- [BGH, Beschluss vom 10.07.2007 - X ZB 4/06](x-zb-4-06.md) — Mit seiner Anhörungsrüge macht der Rechtsbeschwerdeführer geltend, der Senat habe sich nicht mit der Argumentation in der Rechtsbeschwerdebe- gründung befasst, mit der gerügt …
 - [BGH, Urteil vom 10.07.2007 - X ZR 240/02](x-zr-240-02.md) — Tatbestand:
-- [BGH, Urteil vom 24.04.2007 - X ZR 201/02](x-zr-201-02.md) — BGH, Urteil vom 24.04.2007 - X ZR 201/02
+- [BGH, Beschluss vom 04.07.2007 - X ZR 92/06](x-zr-92-06.md) — Die Anhörungsrüge ist nicht begründet. Der Senat hat die vom Kläger gerügte Gehörsverletzung des Berufungsgerichts letztendlich für nicht ent- scheidungserheblich gehalten. Er hat …
+- [BGH, Beschluss vom 27.06.2007 - X ZB 6/05](x-zb-6-05.md) — sämtliche selbständigen Patentansprüche betreffen oder der Patentinhaber die Aufrechterhaltung des Patents nur im Umfang eines Anspruchssatzes begehrt, der zumindest einen nicht …
+- [BGH, Urteil vom 19.06.2007 - X ZR 5/07](x-zr-5-07.md) — Tatbestand:
+- [BGH, Urteil vom 19.06.2007 - X ZR 61/06](x-zr-61-06.md) — Verletzungen, die sie bei einem Verkehrsunfall, der sich auf einer Aus-
+- [BGH, Urteil vom 12.06.2007 - X ZR 87/06](x-zr-87-06.md) — Tatbestand:
+- [BGH, Urteil vom 22.05.2007 - X ZR 56/03](x-zr-56-03.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2007 - X ZR 79/02](x-zr-79-02.md) — Tatbestand:
+- [BGH, Urteil vom 24.04.2007 - X ZR 201/02](x-zr-201-02.md) — 3-
 - [BGH, Urteil vom 24.04.2007 - X ZR 64/04](x-zr-64-04.md) — Tatbestand:
+- [BGH, Urteil vom 17.04.2007 - X ZR 72/05](x-zr-72-05.md) — Tatbestand:
 - [BGH, Urteil vom 03.04.2007 - X ZR 104/04](x-zr-104-04.md) — Tatbestand:
 - [BGH, Urteil vom 03.04.2007 - X ZR 36/04](x-zr-36-04.md) — Tatbestand:
-- [BGH, Urteil vom 27.03.2007 - X ZR 130/03](x-zr-130-03.md) — BGH, Urteil vom 27.03.2007 - X ZR 130/03
+- [BGH, Urteil vom 27.03.2007 - X ZR 130/03](x-zr-130-03.md) — 3Tatbestand:
 - [BGH, Urteil vom 13.03.2007 - X ZR 169/02](x-zr-169-02.md) — BGH, Urteil vom 13.03.2007 - X ZR 169/02
-- [BGH, Beschluss vom 06.03.2007 - X ZB 20/06](x-zb-20-06.md) — BGH, Beschluss vom 06.03.2007 - X ZB 20/06
+- [BGH, Beschluss vom 06.03.2007 - X ZB 20/06](x-zb-20-06.md) — Die Entscheidung beruht auf §§ 99 Abs. 3, 31 PatG. Die Akteneinsicht in die Akten des Patents wie die des Einspruchs- und des sich daran anschlie- ßenden …
 - [BGH, Beschluss vom 06.03.2007 - X ZR 58/06](x-zr-58-06.md) — BGH, Beschluss vom 06.03.2007 - X ZR 58/06
+- [BGH, Beschluss vom 13.02.2007 - X ZB 13/06](x-zb-13-06.md) — der Frage zugelassen, ob das Erfor-
 - [BGH, Urteil vom 13.02.2007 - X ZR 73/05](x-zr-73-05.md) — Tatbestand:
 - [BGH, Urteil vom 13.02.2007 - X ZR 74/05](x-zr-74-05.md) — Tatbestand:
-- [BGH, Urteil vom 06.02.2007 - X ZR 117/04](x-zr-117-04.md) — BGH, Urteil vom 06.02.2007 - X ZR 117/04
+- [BGH, Urteil vom 06.02.2007 - X ZR 117/04](x-zr-117-04.md) — 3-
 - [BGH, Beschluss vom 30.01.2007 - X ZB 2/06](x-zb-2-06.md) — BGH, Beschluss vom 30.01.2007 - X ZB 2/06
 - [BGH, Beschluss vom 30.01.2007 - X ZR 147/06](x-zr-147-06.md) — Mittellosigkeit nicht in der Lage sein wird, den beigetriebenen Geldbetrag zurückzuzahlen.
 - [BGH, Urteil vom 09.01.2007 - X ZR 173/02](x-zr-173-02.md) — BGH, Urteil vom 09.01.2007 - X ZR 173/02

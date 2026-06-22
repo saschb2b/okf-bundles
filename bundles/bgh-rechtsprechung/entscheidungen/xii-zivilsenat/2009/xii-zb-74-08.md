@@ -9,7 +9,7 @@ datum: 2009-01-14
 aktenzeichen: "XII ZB 74/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:28:46Z
+timestamp: 2026-06-22T14:21:52Z
 ---
 # Volltext
 

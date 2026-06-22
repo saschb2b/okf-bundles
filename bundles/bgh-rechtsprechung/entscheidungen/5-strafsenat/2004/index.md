@@ -1,6 +1,6 @@
 # 5. Strafsenat – 2004
 
-23 Entscheidung(en).
+60 Entscheidung(en).
 
 - [BGH, Urteil vom 25.11.2004 - 5 StR 411/04](5-str-411-04.md) — Betruges u. a.
 - [BGH, Beschluss vom 24.11.2004 - 5 StR 480/04](5-str-480-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
@@ -13,14 +13,51 @@
 - [BGH, Beschluss vom 28.10.2004 - 5 StR 430/04](5-str-430-04.md) — fehlerhafter Gesamtstrafenbildung bedarf es keiner Zurückverweisung.
 - [BGH, Urteil vom 27.10.2004 - 5 StR 368/04](5-str-368-04.md) — gewerbs- und bandenmäßiger Steuerhehlerei
 - [BGH, Beschluss vom 26.10.2004 - 5 StR 365/04](5-str-365-04.md) — Betruges u. a.
+- [BGH, Beschluss vom 12.10.2004 - 5 StR 181/04](5-str-181-04.md) — schweren räuberischen Diebstahls u. a.
+- [BGH, Entscheidung vom 30.09.2004 - 5 StR 266/04](5-str-266-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Urteil vom 30.09.2004 - 5 StR 312/04](5-str-312-04.md) — besonders schweren Raubes u.a.
 - [BGH, Beschluss vom 29.09.2004 - 5 StR 357/04](5-str-357-04.md) — Anstiftung zum versuchten Betrug u. a.
+- [BGH, Beschluss vom 01.09.2004 - 5 ARs 55/04](5-ars-55-04.md) — Steuerhinterziehung u. a.
 - [BGH, Urteil vom 22.07.2004 - 5 StR 154/04](5-str-154-04.md) — Körperverletzung mit Todesfolge u. a.
+- [BGH, Beschluss vom 20.07.2004 - 5 StR 539/03](5-str-539-03.md) — erpresserischen Menschenraubes u. a.
+- [BGH, Beschluss vom 16.06.2004 - 5 StR 148/04](5-str-148-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 16.06.2004 - 5 StR 211/04](5-str-211-04.md) — versuchten schweren Raubes u. a.
+- [BGH, Beschluss vom 09.06.2004 - 5 StR 174/04](5-str-174-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 09.06.2004 - 5 StR 180/04](5-str-180-04.md) — sexuellen Mißbrauchs einer Schutzbefohlenen u. a.
+- [BGH, Beschluss vom 08.06.2004 - 5 StR 173/04](5-str-173-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 04.05.2004 - 5 StR 115/04](5-str-115-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 04.05.2004 - 5 StR 306/03](5-str-306-03.md) — Mordes u. a.
+- [BGH, Beschluss vom 04.05.2004 - 5 StR 588/03](5-str-588-03.md) — Steuerhinterziehung
 - [BGH, Urteil vom 22.04.2004 - 5 StR 534/02](5-str-534-02.md) — Mordes u. a.
+- [BGH, Entscheidung vom 31.03.2004 - 5 StR 498/03](5-str-498-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 03.03.2004 - 5 StR 60/04](5-str-60-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 02.03.2004 - 5 StR 38/04](5-str-38-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 01.03.2004 - 5 StR 271/03](5-str-271-03.md) — Bestechlichkeit u. a.
+- [BGH, Beschluss vom 01.03.2004 - 5 StR 35/04](5-str-35-04.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 01.03.2004 - 5 StR 53/04](5-str-53-04.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Urteil vom 19.02.2004 - 5 StR 524/03](5-str-524-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 18.02.2004 - 5 StR 21/04](5-str-21-04.md) — schweren Menschenhandels u.a.
+- [BGH, Beschluss vom 18.02.2004 - 5 StR 23/04](5-str-23-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 18.02.2004 - 5 StR 566/03](5-str-566-03.md) — sexueller Nötigung
+- [BGH, Beschluss vom 18.02.2004 - 5 StR 589/03](5-str-589-03.md) — Mordes
+- [BGH, Beschluss vom 17.02.2004 - 5 StR 441/03](5-str-441-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 17.02.2004 - 5 StR 529/03](5-str-529-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 17.02.2004 - 5 StR 585/03](5-str-585-03.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Urteil vom 05.02.2004 - 5 StR 420/03](5-str-420-03.md) — Steuerhinterziehung
 - [BGH, Urteil vom 05.02.2004 - 5 StR 580/03](5-str-580-03.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 04.02.2004 - 5 StR 281/03](5-str-281-03.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 04.02.2004 - 5 StR 444/03](5-str-444-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 04.02.2004 - 5 StR 472/03](5-str-472-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 04.02.2004 - 5 StR 511/03](5-str-511-03.md) — Betruges
 - [BGH, Beschluss vom 03.02.2004 - 5 ARs (Vollz) 78/03](5-ars-vollz-78-03.md) — Einsatzes einer Trennscheibe
+- [BGH, Beschluss vom 03.02.2004 - 5 StR 359/03](5-str-359-03.md) — gewerbsmäßigen Schmuggels
+- [BGH, Beschluss vom 03.02.2004 - 5 StR 488/03](5-str-488-03.md) — sexuellen Mißbrauchs von Schutzbefohlenen u.a.
 - [BGH, Urteil vom 03.02.2004 - 5 StR 563/03](5-str-563-03.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 22.01.2004 - 5 StR 415/03](5-str-415-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 22.01.2004 - 5 StR 546/03](5-str-546-03.md) — unerlaubten Führens einer halbautomatischen Selbstladekurzwaffe u.a.
+- [BGH, Beschluss vom 22.01.2004 - 5 StR 582/03](5-str-582-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 20.01.2004 - 5 StR 395/03](5-str-395-03.md) — Totschlags
+- [BGH, Beschluss vom 20.01.2004 - 5 StR 507/03](5-str-507-03.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Urteil vom 20.01.2004 - 5 StR 530/03](5-str-530-03.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 20.01.2004 - 5 StR 569/03](5-str-569-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 20.01.2004 - 5 StR 581/03](5-str-581-03.md) — Steuerhinterziehung u.a.

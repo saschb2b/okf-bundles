@@ -1,6 +1,6 @@
 # PATANWZ
 
-Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 11 Entscheidung(en).
+Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 13 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -13,3 +13,5 @@ Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtsc
 - [2013](2013/index.md) (1)
 - [2012](2012/index.md) (1)
 - [2011](2011/index.md) (2)
+- [2002](2002/index.md) (1)
+- [2001](2001/index.md) (1)

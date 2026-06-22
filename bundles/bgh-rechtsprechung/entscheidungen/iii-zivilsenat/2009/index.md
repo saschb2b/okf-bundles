@@ -1,26 +1,34 @@
 # III. Zivilsenat – 2009
 
-42 Entscheidung(en).
+66 Entscheidung(en).
 
 - [BGH, Urteil vom 17.12.2009 - III ZR 4/08](iii-zr-4-08.md) — Tatbestand
 - [BGH, Urteil vom 17.12.2009 - III ZR 49/08](iii-zr-49-08.md) — Tatbestand
 - [BGH, Urteil vom 17.12.2009 - III ZR 5/08](iii-zr-5-08.md) — Tatbestand
 - [BGH, Urteil vom 17.12.2009 - III ZR 61/08](iii-zr-61-08.md) — Tatbestand
 - [BGH, Urteil vom 17.12.2009 - III ZR 62/08](iii-zr-62-08.md) — Tatbestand
-- [BGH, Beschluss vom 26.11.2009 - III ZR 316/08](iii-zr-316-08.md) — BGH, Beschluss vom 26.11.2009 - III ZR 316/08
+- [BGH, Urteil vom 03.12.2009 - III ZR 73/09](iii-zr-73-09.md) — Tatbestand
+- [BGH, Beschluss vom 26.11.2009 - III ZR 316/08](iii-zr-316-08.md) — kann es
 - [BGH, Urteil vom 12.11.2009 - III ZR 113/09](iii-zr-113-09.md) — Tatbestand
+- [BGH, Urteil vom 05.11.2009 - III ZR 181/09](iii-zr-181-09.md) — Tatbestand
+- [BGH, Urteil vom 05.11.2009 - III ZR 302/08](iii-zr-302-08.md) — Tatbestand
+- [BGH, Urteil vom 05.11.2009 - III ZR 6/09](iii-zr-6-09.md) — Tatbestand
 - [BGH, Beschluss vom 29.10.2009 - III ZA 18/09](iii-za-18-09.md) — BGH, Beschluss vom 29.10.2009 - III ZA 18/09
+- [BGH, Beschluss vom 29.10.2009 - III ZB 40/09](iii-zb-40-09.md) — der ihrer Ansicht nach zu niedrigen Streit-
 - [BGH, Beschluss vom 29.10.2009 - III ZB 73/09](iii-zb-73-09.md) — BGH, Beschluss vom 29.10.2009 - III ZB 73/09
 - [BGH, Urteil vom 15.10.2009 - III ZR 310/08](iii-zr-310-08.md) — Tatbestand
 - [BGH, Versäumnisurteil vom 15.10.2009 - III ZR 8/09](iii-zr-8-09.md) — Tatbestand
 - [BGH, Urteil vom 08.10.2009 - III ZR 207/07](iii-zr-207-07.md) — Tatbestand
+- [BGH, Urteil vom 08.10.2009 - III ZR 241/08](iii-zr-241-08.md) — Tatbestand
 - [BGH, Urteil vom 08.10.2009 - III ZR 259/07](iii-zr-259-07.md) — Tatbestand
 - [BGH, Beschluss vom 24.09.2009 - III ZA 8/09](iii-za-8-09.md) — BGH, Beschluss vom 24.09.2009 - III ZA 8/09
 - [BGH, Beschluss vom 17.09.2009 - III ZB 67/09](iii-zb-67-09.md) — BGH, Beschluss vom 17.09.2009 - III ZB 67/09
+- [BGH, Beschluss vom 17.09.2009 - III ZR 249/08](iii-zr-249-08.md) — Zur Begründung verweist der Senat auf den Hinweisbeschluss vom 25.
 - [BGH, Beschluss vom 03.09.2009 - III ZA 16/09](iii-za-16-09.md) — BGH, Beschluss vom 03.09.2009 - III ZA 16/09
 - [BGH, Beschluss vom 27.08.2009 - III ZB 60/09](iii-zb-60-09.md) — BGH, Beschluss vom 27.08.2009 - III ZB 60/09
 - [BGH, Beschluss vom 27.08.2009 - III ZB 62/09](iii-zb-62-09.md) — BGH, Beschluss vom 27.08.2009 - III ZB 62/09
 - [BGH, Beschluss vom 24.08.2009 - III ZB 65/09](iii-zb-65-09.md) — BGH, Beschluss vom 24.08.2009 - III ZB 65/09
+- [BGH, Beschluss vom 12.08.2009 - III ZA 15/09](iii-za-15-09.md) — Prozesskostenhilfe kann nur gewährt werden, wenn die beabsichtigte Rechtsverfolgung hinreichende Aussicht auf Erfolg hat (§ 114 ZPO).
 - [BGH, Urteil vom 23.07.2009 - III ZR 2/08](iii-zr-2-08.md) — Tatbestand
 - [BGH, Urteil vom 23.07.2009 - III ZR 323/07](iii-zr-323-07.md) — Tatbestand
 - [BGH, Urteil vom 16.07.2009 - III ZR 298/08](iii-zr-298-08.md) — zu erstattende und nicht (nur) der von der Landesjustizverwaltung zuerkannte Betrag maßgeblich ist.
@@ -30,17 +38,33 @@
 - [BGH, Urteil vom 02.07.2009 - III ZR 333/08](iii-zr-333-08.md) — Tatbestand
 - [BGH, Beschluss vom 25.06.2009 - III ZB 75/08](iii-zb-75-08.md) — BGH, Beschluss vom 25.06.2009 - III ZB 75/08
 - [BGH, Beschluss vom 25.06.2009 - III ZB 99/08](iii-zb-99-08.md) — BGH, Beschluss vom 25.06.2009 - III ZB 99/08
+- [BGH, Beschluss vom 25.06.2009 - III ZR 222/08](iii-zr-222-08.md) — behaupteter Mängel des Prospekts begehrt der Kläger Zug um
+- [BGH, Beschluss vom 25.06.2009 - III ZR 278/08](iii-zr-278-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen nicht vor.
+- [BGH, Urteil vom 04.06.2009 - III ZR 82/08](iii-zr-82-08.md) — Tatbestand
+- [BGH, Beschluss vom 27.05.2009 - III ZB 30/09](iii-zb-30-09.md) — der Versäumung der Frist zur Einlegung sowie zur Begründung der Rechtsbeschwerde Wiedereinsetzung in den vorigen Stand gewährt.
+- [BGH, Beschluss vom 27.05.2009 - III ZR 181/08](iii-zr-181-08.md) — des im Haushaltsrecht geltenden Jährlichkeitsprinzips nur darauf an, ob die Gemeinde in dem den Genehmigungszeitpunkt betreffenden Haushalts
 - [BGH, Beschluss vom 27.05.2009 - III ZR 274/07](iii-zr-274-07.md) — BGH, Beschluss vom 27.05.2009 - III ZR 274/07
+- [BGH, Beschluss vom 20.05.2009 - III ZR 75/08](iii-zr-75-08.md) — BGH, Beschluss vom 20.05.2009 - III ZR 75/08
 - [BGH, Urteil vom 14.05.2009 - III ZR 86/08](iii-zr-86-08.md) — Tatbestand
 - [BGH, Beschluss vom 30.04.2009 - III ZB 5/09](iii-zb-5-09.md) — BGH, Beschluss vom 30.04.2009 - III ZB 5/09
 - [BGH, Beschluss vom 30.04.2009 - III ZB 91/07](iii-zb-91-07.md) — BGH, Beschluss vom 30.04.2009 - III ZB 91/07
 - [BGH, Beschluss vom 09.04.2009 - III ZA 5/09](iii-za-5-09.md) — BGH, Beschluss vom 09.04.2009 - III ZA 5/09
 - [BGH, Beschluss vom 09.04.2009 - III ZB 17/09](iii-zb-17-09.md) — BGH, Beschluss vom 09.04.2009 - III ZB 17/09
+- [BGH, Beschluss vom 19.03.2009 - III ZB 93/08](iii-zb-93-08.md) — BGH, Beschluss vom 19.03.2009 - III ZB 93/08
+- [BGH, Beschluss vom 19.03.2009 - III ZB 94/08](iii-zb-94-08.md) — BGH, Beschluss vom 19.03.2009 - III ZB 94/08
 - [BGH, Beschluss vom 19.03.2009 - III ZR 106/08](iii-zr-106-08.md) — der
-- [BGH, Beschluss vom 19.03.2009 - III ZR 163/08](iii-zr-163-08.md) — BGH, Beschluss vom 19.03.2009 - III ZR 163/08
+- [BGH, Beschluss vom 19.03.2009 - III ZR 163/08](iii-zr-163-08.md) — der Stellung der Beklagten als Gründungskommanditistin auf einer Verletzung vorvertraglicher Pflichten.
 - [BGH, Beschluss vom 19.03.2009 - III ZR 24/08](iii-zr-24-08.md) — BGH, Beschluss vom 19.03.2009 - III ZR 24/08
-- [BGH, Beschluss vom 19.03.2009 - III ZR 249/08](iii-zr-249-08.md) — BGH, Beschluss vom 19.03.2009 - III ZR 249/08
 - [BGH, Urteil vom 12.03.2009 - III ZR 142/08](iii-zr-142-08.md) — Tatbestand
-- [BGH, Beschluss vom 26.02.2009 - III ZR 135/08](iii-zr-135-08.md) — BGH, Beschluss vom 26.02.2009 - III ZR 135/08
+- [BGH, Urteil vom 05.03.2009 - III ZR 17/08](iii-zr-17-08.md) — Tatbestand
+- [BGH, Beschluss vom 26.02.2009 - III ZA 3/09](iii-za-3-09.md) — BGH, Beschluss vom 26.02.2009 - III ZA 3/09
+- [BGH, Beschluss vom 26.02.2009 - III ZR 129/08](iii-zr-129-08.md) — Die Rechtssache hat weder grundsätzliche Bedeutung noch erfordern die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des …
+- [BGH, Beschluss vom 26.02.2009 - III ZR 135/08](iii-zr-135-08.md) — 1. Der Rechtssache fehlt die grundsätzliche Bedeutung (§ 543 Abs. 2 Satz 1 Nr. 1 ZPO), da sie keine entscheidungserhebliche klärungsbedürftige Frage aufwirft, deren Auftreten in …
 - [BGH, Teilurteil vom 12.02.2009 - III ZR 119/08](iii-zr-119-08.md) — Tatbestand
-- [BGH, Beschluss vom 29.01.2009 - III ZR 232/08](iii-zr-232-08.md) — BGH, Beschluss vom 29.01.2009 - III ZR 232/08
+- [BGH, Beschluss vom 05.02.2009 - III ZR 171/07](iii-zr-171-07.md) — unrichtiger Sachbehandlung
+- [BGH, Beschluss vom 05.02.2009 - III ZR 308/07](iii-zr-308-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 29.01.2009 - III ZR 115/08](iii-zr-115-08.md) — einer ärztlichen Gebührenforderung gegen
+- [BGH, Beschluss vom 29.01.2009 - III ZR 156/08](iii-zr-156-08.md) — BGH, Beschluss vom 29.01.2009 - III ZR 156/08
+- [BGH, Beschluss vom 29.01.2009 - III ZR 182/08](iii-zr-182-08.md) — 1. Der Rechtssache fehlt die grundsätzliche Bedeutung (§ 543 Abs. 2 Satz 1 Nr. 1 ZPO), da sie keine entscheidungserheblichen klärungsbedürftigen Fragen aufwirft, deren Auftreten …
+- [BGH, Beschluss vom 29.01.2009 - III ZR 232/08](iii-zr-232-08.md) — ein Surrogat, den Anspruch auf Auszahlung des Scheckbetrages, als Ersatz für den eingelösten Scheck erhalten.
+- [BGH, Beschluss vom 15.01.2009 - III ZB 54/08](iii-zb-54-08.md) — eines Schreibfehlers dahingehend berichtigt, dass in den Gründen unter I. zu Beginn des zweiten Absatzes das Wort "Durchschrift" durch "Durc

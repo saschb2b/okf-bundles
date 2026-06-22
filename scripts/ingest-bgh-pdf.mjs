@@ -21,6 +21,7 @@
 //   --conc N        concurrent PDF downloads/extracts (default 4)
 //   --delay MS      pause between search-page fetches (default 200)
 //   --max-pages N   stop after scraping N result pages (for testing)
+//   --overwrite     re-extract and rewrite existing files (e.g. after improving parsing)
 //   --out DIR       bundle root (default bundles/bgh-rechtsprechung)
 //
 // Resumable (skips existing files). Requires pdftotext on PATH and Node 18+.
@@ -41,9 +42,23 @@ const UNTIL = Number(opt("--until", "2009"));
 const CONC = Math.max(1, Number(opt("--conc", "4")));
 const DELAY = Number(opt("--delay", "200"));
 const MAXPAGES = Number(opt("--max-pages", "0")) || Infinity;
+const OVERWRITE = args.includes("--overwrite"); // re-extract and rewrite existing files
 const OUT = opt("--out", join("bundles", "bgh-rechtsprechung"));
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+// Retry transient fetch failures so one blip cannot abort a long crawl.
+async function getText(url) {
+  for (let a = 0; ; a++) {
+    try { return await (await fetch(url, UA)).text(); }
+    catch (e) { if (a >= 3) throw e; await sleep(800 * (a + 1)); }
+  }
+}
+async function getBuf(url) {
+  for (let a = 0; ; a++) {
+    try { return Buffer.from(await (await fetch(url, UA)).arrayBuffer()); }
+    catch (e) { if (a >= 3) throw e; await sleep(800 * (a + 1)); }
+  }
+}
 const dec = (s) => s.replace(/&amp;/g, "&").replace(/&#228;/g, "ä").replace(/&#246;/g, "ö")
   .replace(/&#252;/g, "ü").replace(/&#196;/g, "Ä").replace(/&#214;/g, "Ö").replace(/&#220;/g, "Ü")
   .replace(/&#223;/g, "ß").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").trim();
@@ -78,7 +93,7 @@ function pdftext(buf) {
     const tmp = join(tmpdir(), `bghpdf-${process.pid}-${pdfCounter++}.pdf`);
     try { writeFileSync(tmp, buf); } catch { return resolve(""); }
     const done = (out) => { try { unlinkSync(tmp); } catch {} resolve(out); };
-    const p = spawn("pdftotext", ["-enc", "UTF-8", "-f", "1", "-l", "2", tmp, "-"]);
+    const p = spawn("pdftotext", ["-enc", "UTF-8", "-f", "1", "-l", "3", tmp, "-"]);
     let out = "";
     p.stdout.on("data", (d) => (out += d));
     p.on("error", () => done(""));
@@ -88,25 +103,41 @@ function pdftext(buf) {
 
 // --- parse one decision PDF's leading text ---------------------------------
 function parsePdf(text) {
-  const head = text.split(/BUNDESGERICHTSHOF/)[0] || "";
+  const clean = (s) => (s || "").replace(/\s*\n\s*/g, " ").replace(/\s{2,}/g, " ").trim();
   const doktyp = (text.match(/\b(Vers[äa]umnisurteil|Anerkenntnisurteil|Teilurteil|Urteil|Beschluss|Verf[üu]gung)\b/i) || [, "Entscheidung"])[1];
-  const wegen = (text.match(/wegen\s+([^\n]{3,140})/i) || [])[1];
+
+  // Leitsatz wherever it appears; else the preamble before "BUNDESGERICHTSHOF".
   let leitsatz = "";
-  const lm = head.match(/Leits[äa]tze?\s*:?\s*\n?([\s\S]{20,1600})/i);
+  const lm = text.match(/Leits[äa]tze?\s*:?\s*\n+([\s\S]{20,1600}?)(?:\n\s*\n|BUNDESGERICHTSHOF|$)/i);
   if (lm) leitsatz = lm[1];
   else {
+    const head = text.split(/BUNDESGERICHTSHOF/)[0] || "";
     const cleaned = head.replace(/^(BGHZ|BGHSt|BGHR|Nachschlagewerk|ja|nein)[:\s].*$/gim, "").trim();
     if (cleaned.length > 70) leitsatz = cleaned;
   }
-  leitsatz = leitsatz.replace(/\s*\n\s*/g, " ").replace(/\s{2,}/g, " ").trim().slice(0, 1600);
-  const normen = [...head.matchAll(/§+\s*\d+[a-z]?\s+[A-ZÄÖÜ][A-Za-z]{1,10}\b/g)]
-    .map((m) => m[0].replace(/\s+/g, " ").trim());
-  return { doktyp: doktyp[0].toUpperCase() + doktyp.slice(1).toLowerCase(), wegen, leitsatz, normen: [...new Set(normen)].slice(0, 12) };
+  leitsatz = clean(leitsatz).slice(0, 1600);
+
+  const wegen = clean((text.match(/wegen\s+([^\n]{3,140})/i) || [])[1] || "");
+
+  // First substantive sentence of the reasoning (description fallback for civil decisions).
+  let body1 = "";
+  const bm = text.match(/(?:Entscheidungsgr|Gr)[üu]nde\b\s*:?\s*\n{0,4}\s*([\s\S]{30,500})|\bTatbestand\b\s*:?\s*\n{0,4}\s*([\s\S]{30,500})/i);
+  if (bm) {
+    body1 = clean(bm[1] || bm[2]).replace(/^\d+\s*/, "");
+    const end = body1.search(/[.!?](\s|$)/);
+    if (end > 40) body1 = body1.slice(0, end + 1);
+    body1 = body1.slice(0, 240);
+  }
+
+  const description = (leitsatz ? leitsatz.slice(0, 220) : wegen || body1).trim();
+  const head = text.split(/BUNDESGERICHTSHOF/)[0] || "";
+  const normen = [...head.matchAll(/§+\s*\d+[a-z]?\s+[A-ZÄÖÜ][A-Za-z]{1,10}\b/g)].map((m) => clean(m[0]));
+  return { doktyp: doktyp[0].toUpperCase() + doktyp.slice(1).toLowerCase(), wegen, leitsatz, description, normen: [...new Set(normen)].slice(0, 12) };
 }
 
 function concept({ az, isoDate, ddmmyyyy, sen, pdfUrl, parsed }) {
   const title = `BGH, ${parsed.doktyp} vom ${ddmmyyyy} - ${az}`;
-  const desc = (parsed.wegen || parsed.leitsatz || title).replace(/\s+/g, " ").slice(0, 200);
+  const desc = (parsed.description || title).replace(/\s+/g, " ").slice(0, 200);
   const fm = [
     "---", "type: Gerichtsentscheidung", `title: ${yaml(title)}`, `description: ${yaml(desc)}`,
     `resource: ${pdfUrl}`, "gericht: Bundesgerichtshof", `senat: ${yaml(sen.label)}`,
@@ -126,7 +157,7 @@ function concept({ az, isoDate, ddmmyyyy, sen, pdfUrl, parsed }) {
 const ROW = /<tr>\s*<td>\s*([^<]*?)<\/td>\s*<td>\s*(\d{2}\.\d{2}\.\d{4})\s*<\/td>\s*<td>\s*([^<]*?)<\/td>\s*<td>[\s\S]*?href="([^"]*?\.pdf[^"]*?)"/g;
 
 async function run() {
-  const first = await (await fetch(`${FORM}?gtp=565194_list%253D1`, UA)).text();
+  const first = await getText(`${FORM}?gtp=565194_list%253D1`);
   const total = Number((first.match(/von insgesamt\s+([\d.]+)/) || [, "0"])[1].replace(/\./g, ""));
   const lastPage = Math.max(1, Math.ceil(total / 10));
   process.stdout.write(`Gesamt ${total} Entscheidungen, letzte Seite ${lastPage}. Ziel: Jahre ${FROM}-${UNTIL}.\n`);
@@ -134,7 +165,7 @@ async function run() {
   let written = 0, skipped = 0, scanned = 0, pages = 0;
   for (let page = lastPage; page >= 1 && pages < MAXPAGES; page--, pages++) {
     let html;
-    try { html = await (await fetch(`${FORM}?gtp=565194_list%253D${page}`, UA)).text(); }
+    try { html = await getText(`${FORM}?gtp=565194_list%253D${page}`); }
     catch (e) { process.stderr.write(`Seite ${page}: ${e.message}\n`); await sleep(DELAY); continue; }
     const rows = [...html.matchAll(ROW)].map((m) => ({
       senatTxt: dec(m[1]), datum: m[2], az: dec(m[3]), href: dec(m[4]),
@@ -151,10 +182,10 @@ async function run() {
         const [d, mo, y] = r.datum.split(".");
         const iso = `${y}-${mo}-${d}`, sen = senatOf(r.az);
         const path = join(OUT, "entscheidungen", sen.slug, y, `${fileBase(r.az)}.md`);
-        if (existsSync(path)) { skipped++; continue; }
+        if (existsSync(path) && !OVERWRITE) { skipped++; continue; }
         try {
           const pdfUrl = r.href.startsWith("http") ? r.href : BASE + r.href;
-          const buf = Buffer.from(await (await fetch(pdfUrl, UA)).arrayBuffer());
+          const buf = await getBuf(pdfUrl);
           const parsed = parsePdf(await pdftext(buf));
           mkdirSync(dirname(path), { recursive: true });
           writeFileSync(path, concept({ az: r.az, isoDate: iso, ddmmyyyy: r.datum, sen, pdfUrl, parsed }));

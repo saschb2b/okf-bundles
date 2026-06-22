@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BtRRefG"
 description: "BGH-Entscheidungen zu BtRRefG, geordnet nach Vorschrift."
 tags: [register, navigation, btrrefg]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

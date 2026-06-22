@@ -9,7 +9,7 @@ datum: 2000-04-04
 aktenzeichen: "VI ZB 9/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:09:54Z
+timestamp: 2026-06-22T14:01:34Z
 ---
 # Volltext
 

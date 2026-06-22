@@ -1,10 +1,16 @@
 # 4. Strafsenat – 2001
 
-28 Entscheidung(en).
+67 Entscheidung(en).
 
+- [BGH, Urteil vom 13.12.2001 - 4 StR 363/01](4-str-363-01.md) — zu 1.: Untreue u.a. zu 2.: Beihilfe zur Untreue
+- [BGH, Urteil vom 13.12.2001 - 4 StR 448/01](4-str-448-01.md) — schwerer Körperverletzung u.a.
+- [BGH, Beschluss vom 13.12.2001 - 4 StR 506/01](4-str-506-01.md) — Beihilfe zum schweren Raub
+- [BGH, Beschluss vom 06.12.2001 - 4 StR 483/01](4-str-483-01.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 04.12.2001 - 4 StR 435/01](4-str-435-01.md) — Totschlags u.a.
 - [BGH, Beschluss vom 04.12.2001 - 4 StR 492/01](4-str-492-01.md) — versuchten schweren Raubes
 - [BGH, Beschluss vom 04.12.2001 - 4 StR 93/01](4-str-93-01.md) — Verstoßes gegen das Berliner Straßengesetz
+- [BGH, Beschluss vom 22.11.2001 - 4 StR 331/01](4-str-331-01.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 22.11.2001 - 4 StR 471/01](4-str-471-01.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 08.11.2001 - 4 StR 429/01](4-str-429-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 08.11.2001 - 4 StR 464/01](4-str-464-01.md) — Betruges u.a.
 - [BGH, Beschluss vom 06.11.2001 - 4 StR 461/01](4-str-461-01.md) — schwerer räuberischer Erpressung u.a.
@@ -12,21 +18,54 @@
 - [BGH, Urteil vom 25.10.2001 - 4 StR 262/01](4-str-262-01.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 23.10.2001 - 4 StR 249/01](4-str-249-01.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 18.10.2001 - 4 StR 347/01](4-str-347-01.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 16.10.2001 - 4 ARs 4/01](4-ars-4-01.md) — schweren betrügerischen Bankrotts (Tatzeit: 1994 bis 17.11.1995) aus einem Urteil des Landgerichts Padua vom 18. Mai 1998 ersucht. Die Entsc
+- [BGH, Beschluss vom 16.10.2001 - 4 StR 406/01](4-str-406-01.md) — zu 1.: Anstiftung zur besonders schweren Brandstiftung u.a. zu 2. und 3.: besonders schwerer Brandstiftung
+- [BGH, Beschluss vom 16.10.2001 - 4 StR 415/01](4-str-415-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 25.09.2001 - 4 StR 353/01](4-str-353-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 25.09.2001 - 4 StR 355/01](4-str-355-01.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 20.09.2001 - 4 StR 330/01](4-str-330-01.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 13.09.2001 - 4 StR 322/01](4-str-322-01.md) — Anstiftung zur schweren räuberischen Erpressung u.a.
+- [BGH, Beschluss vom 09.08.2001 - 4 StR 115/01](4-str-115-01.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 09.08.2001 - 4 StR 227/01](4-str-227-01.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 09.08.2001 - 4 StR 298/01](4-str-298-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 09.08.2001 - 4 StR 308/01](4-str-308-01.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 24.07.2001 - 4 StR 268/01](4-str-268-01.md) — Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Urteil vom 19.07.2001 - 4 StR 144/01](4-str-144-01.md) — schwerer Körperverletzung u.a.
+- [BGH, Urteil vom 19.07.2001 - 4 StR 457/00](4-str-457-00.md) — Betruges
+- [BGH, Urteil vom 19.07.2001 - 4 StR 65/01](4-str-65-01.md) — Betruges
 - [BGH, Urteil vom 12.07.2001 - 4 StR 104/01](4-str-104-01.md) — räuberischen Angriffs auf Kraftfahrer u.a.
 - [BGH, Urteil vom 12.07.2001 - 4 StR 550/00](4-str-550-00.md) — Bestechlichkeit
 - [BGH, Entscheidung vom 10.07.2001 - 4 StR 175/01](4-str-175-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 10.07.2001 - 4 StR 202/01](4-str-202-01.md) — Betruges
+- [BGH, Beschluss vom 12.06.2001 - 4 StR 174/01](4-str-174-01.md) — fahrlässiger Tötung u.a.
+- [BGH, Beschluss vom 12.06.2001 - 4 StR 189/01](4-str-189-01.md) — schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 12.06.2001 - 4 StR 402/00](4-str-402-00.md) — Betruges
+- [BGH, Beschluss vom 12.06.2001 - 4 StR 44/01](4-str-44-01.md) — schweren Bandendiebstahls u.a.
+- [BGH, Beschluss vom 12.06.2001 - 4 StR 67/01](4-str-67-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.06.2001 - 4 StR 7/01](4-str-7-01.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 12.06.2001 - 4 StR 80/01](4-str-80-01.md) — Raubes
+- [BGH, Beschluss vom 12.06.2001 - 4 StR 83/01](4-str-83-01.md) — Diebstahls mit Waffen u.a.
 - [BGH, Beschluss vom 07.06.2001 - 4 StR 149/01](4-str-149-01.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 07.06.2001 - 4 StR 156/01](4-str-156-01.md) — schweren Raubes
 - [BGH, Beschluss vom 07.06.2001 - 4 StR 178/01](4-str-178-01.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 07.06.2001 - 4 StR 186/01](4-str-186-01.md) — Raubes u.a.
+- [BGH, Beschluss vom 08.05.2001 - 4 StR 105/01](4-str-105-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 08.05.2001 - 4 StR 114/01](4-str-114-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.05.2001 - 4 StR 58/01](4-str-58-01.md) — Vergewaltigung u.a.
 - [BGH, Urteil vom 26.04.2001 - 4 StR 30/01](4-str-30-01.md) — Totschlags u.a.
+- [BGH, Beschluss vom 24.04.2001 - 4 StR 120/01](4-str-120-01.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 05.04.2001 - 4 StR 106/01](4-str-106-01.md) — Mordes
+- [BGH, Beschluss vom 05.04.2001 - 4 StR 56/01](4-str-56-01.md) — Das Landgericht hat die Unterbringung der Beschuldigten in einem psychiatrischen Krankenhaus angeordnet.
+- [BGH, Beschluss vom 27.03.2001 - 4 StR 414/00](4-str-414-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 27.03.2001 - 4 StR 592/00](4-str-592-00.md) — Betruges u.a.
 - [BGH, Beschluss vom 13.03.2001 - 4 StR 567/00](4-str-567-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 06.03.2001 - 4 StR 505/00](4-str-505-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 06.03.2001 - 4 StR 529/00](4-str-529-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 06.03.2001 - 4 StR 541/00](4-str-541-00.md) — Totschlags
+- [BGH, Beschluss vom 06.03.2001 - 4 StR 558/00](4-str-558-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 22.02.2001 - 4 StR 25/01](4-str-25-01.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Urteil vom 22.02.2001 - 4 StR 421/00](4-str-421-00.md) — Bankrotts u.a.
+- [BGH, Beschluss vom 13.02.2001 - 4 StR 17/01](4-str-17-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 13.02.2001 - 4 StR 23/01](4-str-23-01.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 13.02.2001 - 4 StR 562/00](4-str-562-00.md) — Mordes u.a.
 - [BGH, Beschluss vom 23.01.2001 - 4 StR 572/00](4-str-572-00.md) — Betruges

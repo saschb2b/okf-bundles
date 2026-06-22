@@ -1,15 +1,17 @@
 # XII. Zivilsenat – 2007
 
-37 Entscheidung(en).
+71 Entscheidung(en).
 
 - [BGH, Urteil vom 19.12.2007 - XII ZR 13/06](xii-zr-13-06.md) — dieser vertragswidrigen Weigerung des Mieters weitervermietet hat, auf § 537 Abs. 2 BGB beruft (im Anschluss an Senatsurteil BGHZ 122, 163).
-- [BGH, Beschluss vom 12.12.2007 - XII ZB 158/05](xii-zb-158-05.md) — BGH, Beschluss vom 12.12.2007 - XII ZB 158/05
+- [BGH, Beschluss vom 12.12.2007 - XII ZB 158/05](xii-zb-158-05.md) — I. 1 Die Antragstellerin (Mutter) und der Antragsgegner (Vater) streiten um die elterliche Sorge für ihre beiden gemeinsamen Kinder. 2 Die Mutter hatte mit dem Vater eine …
 - [BGH, Beschluss vom 12.12.2007 - XII ZB 240/05](xii-zb-240-05.md) — auch ohne eine entsprechende Rüge des Beklagten zu prüfen; dagegen besteht aber keine Verpflichtung des Rechtsbehelfsgerichts, die für die E
 - [BGH, Urteil vom 12.12.2007 - XII ZR 173/04](xii-zr-173-04.md) — Tatbestand:
 - [BGH, Urteil vom 28.11.2007 - XII ZR 132/05](xii-zr-132-05.md) — Tatbestand:
 - [BGH, Urteil vom 21.11.2007 - XII ZR 128/05](xii-zr-128-05.md) — Tatbestand:
 - [BGH, Urteil vom 21.11.2007 - XII ZR 15/06](xii-zr-15-06.md) — Tatbestand:
 - [BGH, Urteil vom 31.10.2007 - XII ZR 112/05](xii-zr-112-05.md) — Tatbestand:
+- [BGH, Urteil vom 31.10.2007 - XII ZR 261/04](xii-zr-261-04.md) — Tatbestand:
+- [BGH, Urteil vom 24.10.2007 - XII ZR 24/06](xii-zr-24-06.md) — Tatbestand:
 - [BGH, Beschluss vom 17.10.2007 - XII ZB 99/07](xii-zb-99-07.md) — BGH, Beschluss vom 17.10.2007 - XII ZB 99/07
 - [BGH, Urteil vom 17.10.2007 - XII ZR 146/05](xii-zr-146-05.md) — Tatbestand:
 - [BGH, Beschluss vom 10.10.2007 - XII ZB 26/05](xii-zb-26-05.md) — BGH, Beschluss vom 10.10.2007 - XII ZB 26/05
@@ -18,24 +20,56 @@
 - [BGH, Beschluss vom 26.09.2007 - XII ZB 80/07](xii-zb-80-07.md) — BGH, Beschluss vom 26.09.2007 - XII ZB 80/07
 - [BGH, Urteil vom 26.09.2007 - XII ZR 11/05](xii-zr-11-05.md) — Tatbestand:
 - [BGH, Urteil vom 26.09.2007 - XII ZR 15/05](xii-zr-15-05.md) — Tatbestand:
+- [BGH, Urteil vom 19.09.2007 - XII ZR 121/05](xii-zr-121-05.md) — Tatbestand:
 - [BGH, Beschluss vom 11.09.2007 - XII ZB 109/04](xii-zb-109-04.md) — Personalmangels zulässig sein sollte, eine Auszubildende mit der Fristüberwachung zu betrauen, muss eine Kontrolle durch den Rechtsanwalt se
 - [BGH, Beschluss vom 11.09.2007 - XII ZB 177/04](xii-zb-177-04.md) — zu beachtende Verfahrensvorschriften (Fortführung des Senatsbeschlusses vom 18. Dezember 1985 - IVb ZB 677/81 - FamRZ 1986, 455 ff.).
 - [BGH, Beschluss vom 11.09.2007 - XII ZB 27/07](xii-zb-27-07.md) — der Bedeutung der Statusfeststellung auf seinen Antrag regelmäßig sogleich (und nicht erst nach Eingang eines die Vaterschaft bejahenden Abs
+- [BGH, Beschluss vom 25.07.2007 - XII ZB 64/07](xii-zb-64-07.md) — Zu 1: Die Anhörungsrüge ist unbegründet. Der Senat hat bei seiner Entscheidung die mit der Anhörungsrüge erneut vorgetragenen Angriffe bereits in vollem Umfang geprüft, aber nicht …
+- [BGH, Beschluss vom 18.07.2007 - XII ZA 11/07](xii-za-11-07.md) — Die Parteien, die inzwischen rechtskräftig geschieden sind, stritten um Trennungs- und Kindesunterhalt.
+- [BGH, Beschluss vom 18.07.2007 - XII ZB 162/06](xii-zb-162-06.md) — Versäumung der Berufungsbegründungsfrist ist dem Berufungskläger rechtliches Gehör zu gewähren (im Anschluss an Senatsbeschluss vom 13. Juli
+- [BGH, Beschluss vom 18.07.2007 - XII ZB 92/06](xii-zb-92-06.md) — "greifbarer Gesetzeswidrigkeit" bejaht und damit die Möglichkeit zur erneuten
+- [BGH, Urteil vom 11.07.2007 - XII ZR 164/03](xii-zr-164-03.md) — Tatbestand:
 - [BGH, Urteil vom 11.07.2007 - XII ZR 197/05](xii-zr-197-05.md) — Tatbestand:
-- [BGH, Beschluss vom 04.07.2007 - XII ZB 199/05](xii-zb-199-05.md) — BGH, Beschluss vom 04.07.2007 - XII ZB 199/05
+- [BGH, Beschluss vom 04.07.2007 - XII ZB 199/05](xii-zb-199-05.md) — I. 1 Die Klägerin wurde 1961 während der Ehe ihrer Mutter mit K. geboren. Nachdem auf ihre Anfechtungsklage mit seit 6. Januar 2004 rechtskräftigem Urteil des Amtsgerichts …
 - [BGH, Beschluss vom 04.07.2007 - XII ZB 68/04](xii-zb-68-04.md) — beizuladen.
-- [BGH, Beschluss vom 20.06.2007 - XII ZB 126/04](xii-zb-126-04.md) — BGH, Beschluss vom 20.06.2007 - XII ZB 126/04
-- [BGH, Beschluss vom 20.06.2007 - XII ZB 50/05](xii-zb-50-05.md) — BGH, Beschluss vom 20.06.2007 - XII ZB 50/05
+- [BGH, Urteil vom 04.07.2007 - XII ZR 141/05](xii-zr-141-05.md) — Tatbestand:
+- [BGH, Urteil vom 04.07.2007 - XII ZR 251/04](xii-zr-251-04.md) — Tatbestand:
+- [BGH, Beschluss vom 04.07.2007 - XII ZR 84/04](xii-zr-84-04.md) — offensichtlicher Schreibfehler dahin berichtigt, dass es
+- [BGH, Urteil vom 27.06.2007 - XII ZR 53/05](xii-zr-53-05.md) — Tatbestand:
+- [BGH, Beschluss vom 20.06.2007 - XII ZB 126/04](xii-zb-126-04.md) — Alters.
+- [BGH, Beschluss vom 20.06.2007 - XII ZB 50/05](xii-zb-50-05.md) — I. 1 Die Parteien streiten um schuldrechtlichen Versorgungsausgleich. 2 Die am 26. Februar 1971 geschlossene Ehe der Parteien, die seit No- vember 1985 getrennt leben, wurde auf …
 - [BGH, Urteil vom 23.05.2007 - XII ZR 245/04](xii-zr-245-04.md) — Tatbestand:
 - [BGH, Urteil vom 23.05.2007 - XII ZR 250/04](xii-zr-250-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.05.2007 - XII ZR 13/05](xii-zr-13-05.md) — Tatbestand:
+- [BGH, Beschluss vom 09.05.2007 - XII ZB 77/06](xii-zb-77-06.md) — der bereits während der Ehe erfolgten vorzeitigen Inanspruchnahme einer Altersrente in der gesetzlichen Rentenversicherung einen Abschlag be
+- [BGH, Beschluss vom 02.05.2007 - XII ZB 156/06](xii-zb-156-06.md) — I. 1 Im Hauptsacheverfahren hat die Klägerin von dem Beklagten zu 1 als Gesamtschuldner mit den Beklagten zu 2 und 3 rückständige Miete in Höhe von 18.446,51 € begehrt. Die …
+- [BGH, Beschluss vom 02.05.2007 - XII ZB 157/06](xii-zb-157-06.md) — I. 1 Im Hauptsacheverfahren hat die Klägerin von dem Beklagten zu 2 als Gesamtschuldner mit den Beklagten zu 1 und 3 rückständige Miete in Höhe von 18.446,51 € begehrt. Die …
+- [BGH, Beschluss vom 02.05.2007 - XII ZB 158/06](xii-zb-158-06.md) — I. 1 Im Hauptsacheverfahren hat die Klägerin von dem Beklagten zu 3 als Gesamtschuldner mit den Beklagten zu 1 und 2 rückständige Miete in Höhe von 18.446,51 € begehrt. Die …
 - [BGH, Beschluss vom 02.05.2007 - XII ZB 205/06](xii-zb-205-06.md) — BGH, Beschluss vom 02.05.2007 - XII ZB 205/06
+- [BGH, Urteil vom 02.05.2007 - XII ZR 178/04](xii-zr-178-04.md) — Tatbestand:
+- [BGH, Beschluss vom 02.05.2007 - XII ZR 87/05](xii-zr-87-05.md) — zu prüfen und ist dabei weder an die Angaben der Parteien noch an die
+- [BGH, Beschluss vom 25.04.2007 - XII ZB 10/07](xii-zb-10-07.md) — Die Parteien streiten im Scheidungsverbund unter anderem um den Zu- gewinnausgleich.
+- [BGH, Beschluss vom 25.04.2007 - XII ZB 179/06](xii-zb-179-06.md) — I. 1 Der Kläger begehrt im Hauptsacheverfahren die Abänderung eines Ver- gleichs, durch den er sich zur Zahlung von Kindesunterhalt an seine minderjäh- rigen Kinder, die Beklagten …
 - [BGH, Beschluss vom 25.04.2007 - XII ZB 206/06](xii-zb-206-06.md) — BGH, Beschluss vom 25.04.2007 - XII ZB 206/06
+- [BGH, Urteil vom 25.04.2007 - XII ZR 189/04](xii-zr-189-04.md) — Tatbestand:
+- [BGH, Urteil vom 25.04.2007 - XII ZR 58/06](xii-zr-58-06.md) — Tatbestand:
 - [BGH, Urteil vom 18.04.2007 - XII ZR 139/05](xii-zr-139-05.md) — Tatbestand:
-- [BGH, Beschluss vom 28.03.2007 - XII ZR 119/04](xii-zr-119-04.md) — BGH, Beschluss vom 28.03.2007 - XII ZR 119/04
+- [BGH, Beschluss vom 28.03.2007 - XII ZR 119/04](xii-zr-119-04.md) — Die Anhörungsrüge ist nicht begründet. Der Senat hat in der mündlichen Verhandlung ausführlich die Frage einer Sittenwidrigkeit des von den Parteien geschlossenen Ehevertrags …
+- [BGH, Urteil vom 28.03.2007 - XII ZR 163/04](xii-zr-163-04.md) — Wegfalls ihrer Geschäftsgrundlage an die veränderten Verhältnisse anzupassen sind.
+- [BGH, Urteil vom 28.03.2007 - XII ZR 21/05](xii-zr-21-05.md) — Tatbestand:
+- [BGH, Urteil vom 21.03.2007 - XII ZR 176/04](xii-zr-176-04.md) — Tatbestand:
+- [BGH, Urteil vom 21.03.2007 - XII ZR 36/05](xii-zr-36-05.md) — Tatbestand:
+- [BGH, Beschluss vom 14.03.2007 - XII ZB 142/06](xii-zb-142-06.md) — I. 1 Die Parteien haben am 4. September 1964 geheiratet. Der Scheidungs- antrag der Ehefrau (Antragstellerin; geboren am 8. Oktober 1940) ist dem Ehe- mann (Antragsgegner; geboren …
+- [BGH, Beschluss vom 14.03.2007 - XII ZB 148/03](xii-zb-148-03.md) — I. 1 Mit einstweiliger Anordnung vom 14. März 2001 hat das Amtsgericht - Vormundschaftsgericht - den Eltern des Kindes Dennis die Personensorge entzogen und - auf entsprechenden …
+- [BGH, Beschluss vom 14.03.2007 - XII ZB 201/06](xii-zb-201-06.md) — I. 1 Dem Betroffenen (geboren am 25. Januar 1922) steht ein lebenslängli- ches und unentgeltliches Wohnrecht auf dem Hof zu, der auch von seinem Sohn K.-H. und dessen Familie …
+- [BGH, Beschluss vom 14.03.2007 - XII ZB 36/05](xii-zb-36-05.md) — I. 1 Die Parteien streiten um den Versorgungsausgleich. 2 Die Ehegatten, die am 7. März 1988 miteinander die Ehe geschlossen haben, lebten im Güterstand der Gütergemeinschaft, die …
+- [BGH, Beschluss vom 14.03.2007 - XII ZB 85/03](xii-zb-85-03.md) — Erwerbsunfähigkeit; der Antragsgegner war als Beamter im Polizeidienst tätig und bezieht seit November 1997 Pension.
+- [BGH, Urteil vom 07.03.2007 - XII ZR 40/05](xii-zr-40-05.md) — Tatbestand:
+- [BGH, Beschluss vom 14.02.2007 - XII ZB 52/03](xii-zb-52-03.md) — arglistiger
 - [BGH, Urteil vom 14.02.2007 - XII ZR 163/05](xii-zr-163-05.md) — Tatbestand:
 - [BGH, Beschluss vom 07.02.2007 - XII ZB 175/06](xii-zb-175-06.md) — der verspätet eingegangenen Begründung als unselbständige Anschlussberufung zu behandeln war (Fortführung des Senatsbeschlusses vom 26. Janu
-- [BGH, Beschluss vom 31.01.2007 - XII ZB 207/06](xii-zb-207-06.md) — BGH, Beschluss vom 31.01.2007 - XII ZB 207/06
+- [BGH, Beschluss vom 31.01.2007 - XII ZB 207/06](xii-zb-207-06.md) — einer zwischenzeit-
 - [BGH, Beschluss vom 17.01.2007 - XII ZB 166/05](xii-zb-166-05.md) — BGH, Beschluss vom 17.01.2007 - XII ZB 166/05
-- [BGH, Beschluss vom 10.01.2007 - XII ZB 194/05](xii-zb-194-05.md) — eines offensichtlichen Schreibversehens von Amts wegen dahin berichtigt, dass es anstatt 8. Zivilkammer des Kammergerichts in Berlin, 8. Ziv
+- [BGH, Beschluss vom 17.01.2007 - XII ZB 182/05](xii-zb-182-05.md) — BGH, Beschluss vom 17.01.2007 - XII ZB 182/05
+- [BGH, Beschluss vom 17.01.2007 - XII ZB 39/03](xii-zb-39-03.md) — BGH, Beschluss vom 17.01.2007 - XII ZB 39/03
 - [BGH, Urteil vom 10.01.2007 - XII ZR 235/04](xii-zr-235-04.md) — Tatbestand:

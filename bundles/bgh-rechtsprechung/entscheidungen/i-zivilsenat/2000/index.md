@@ -1,12 +1,32 @@
 # I. Zivilsenat – 2000
 
-32 Entscheidung(en).
+69 Entscheidung(en).
 
-- [BGH, Urteil vom 16.11.2000 - I ZR 186/98](i-zr-186-98.md) — BGH, Urteil vom 16.11.2000 - I ZR 186/98
+- [BGH, Beschluss vom 14.12.2000 - I ZB 25/98](i-zb-25-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Beschluss vom 14.12.2000 - I ZB 26/98](i-zb-26-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Beschluss vom 14.12.2000 - I ZB 27/98](i-zb-27-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Beschluss vom 14.12.2000 - I ZB 28/98](i-zb-28-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Beschluss vom 14.12.2000 - I ZB 39/98](i-zb-39-98.md) — fehlender Unterscheidungskraft sowie wegen eines Freihaltungsbedürfnisses teilweise zurückgewiesen, nämlich für die "Dienstleistungen" "Immo
+- [BGH, Beschluss vom 14.12.2000 - I ZB 40/98](i-zb-40-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Beschluss vom 14.12.2000 - I ZB 41/98](i-zb-41-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Beschluss vom 14.12.2000 - I ZB 44/98](i-zb-44-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Beschluss vom 14.12.2000 - I ZB 47/98](i-zb-47-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Beschluss vom 14.12.2000 - I ZB 49/98](i-zb-49-98.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines Freihaltebedürfnisses den Schutz verweigert.
+- [BGH, Urteil vom 14.12.2000 - I ZR 147/98](i-zr-147-98.md) — Tatbestand:
+- [BGH, Urteil vom 14.12.2000 - I ZR 181/99](i-zr-181-99.md) — Tatbestand:
+- [BGH, Urteil vom 14.12.2000 - I ZR 213/98](i-zr-213-98.md) — 3Tatbestand:
+- [BGH, Beschluss vom 23.11.2000 - I ZB 34/00](i-zb-34-00.md) — Versäumung der Frist zur Einlegung der sofortigen Beschwerde gegen den Beschluß des 6. Zivilsenats des Oberlandesgerichts Frankfurt am Main
+- [BGH, Beschluss vom 23.11.2000 - I ZB 34/98](i-zb-34-98.md) — BGH, Beschluss vom 23.11.2000 - I ZB 34/98
+- [BGH, Beschluss vom 23.11.2000 - I ZB 46/98](i-zb-46-98.md) — BGH, Beschluss vom 23.11.2000 - I ZB 46/98
+- [BGH, Urteil vom 23.11.2000 - I ZR 130/98](i-zr-130-98.md) — Tatbestand:
+- [BGH, Urteil vom 23.11.2000 - I ZR 78/98](i-zr-78-98.md) — 3-
+- [BGH, Urteil vom 23.11.2000 - I ZR 93/98](i-zr-93-98.md) — Tatbestand:
+- [BGH, Urteil vom 16.11.2000 - I ZR 186/98](i-zr-186-98.md) — 3-
 - [BGH, Urteil vom 16.11.2000 - I ZR 34/98](i-zr-34-98.md) — Tatbestand:
 - [BGH, Urteil vom 02.11.2000 - I ZR 154/98](i-zr-154-98.md) — Tatbestand:
 - [BGH, Beschluss vom 02.11.2000 - I ZR 22/00](i-zr-22-00.md) — BGH, Beschluss vom 02.11.2000 - I ZR 22/00
 - [BGH, Urteil vom 02.11.2000 - I ZR 246/98](i-zr-246-98.md) — Tatbestand:
+- [BGH, Urteil vom 26.10.2000 - I ZR 144/98](i-zr-144-98.md) — 3-
 - [BGH, Urteil vom 05.10.2000 - I ZR 166/98](i-zr-166-98.md) — Tatbestand:
 - [BGH, Urteil vom 05.10.2000 - I ZR 210/98](i-zr-210-98.md) — der Besonderheiten des Immobilienmarktes besteht zwischen bundesweit tätigen Anbietern von Immobilien nicht ohne weiteres ein konkretes Wett
 - [BGH, Urteil vom 05.10.2000 - I ZR 224/98](i-zr-224-98.md) — BGH, Urteil vom 05.10.2000 - I ZR 224/98
@@ -18,9 +38,23 @@
 - [BGH, Urteil vom 21.09.2000 - I ZR 135/98](i-zr-135-98.md) — BGH, Urteil vom 21.09.2000 - I ZR 135/98
 - [BGH, Urteil vom 21.09.2000 - I ZR 143/98](i-zr-143-98.md) — Tatbestand: Die Klägerin ist Inhaberin der am 10. Dezember 1993 angemeldeten und am 10. Februar 1994 eingetragenen Marke Nr. 2 056 640 "Wint
 - [BGH, Urteil vom 21.09.2000 - I ZR 216/98](i-zr-216-98.md) — Tatbestand:
+- [BGH, Beschluss vom 10.08.2000 - I ZB 13/00](i-zb-13-00.md) — greifbarer Gesetzwidrigkeit kann nur in Betracht kommen, wenn die angegriffene Entscheidung jeder rechtlichen Grundlage entbehrt oder mit de
 - [BGH, Urteil vom 10.08.2000 - I ZR 126/98](i-zr-126-98.md) — BGH, Urteil vom 10.08.2000 - I ZR 126/98
 - [BGH, Urteil vom 10.08.2000 - I ZR 283/97](i-zr-283-97.md) — bösgläubiger Markenanmeldung nicht aus.
-- [BGH, Beschluss vom 17.02.2000 - I ZB 31/97](i-zb-31-97.md) — BGH, Beschluss vom 17.02.2000 - I ZB 31/97
+- [BGH, Beschluss vom 06.07.2000 - I ZB 12/00](i-zb-12-00.md) — nicht fristgerechter Zahlung der Beschwerdegebühr als nicht eingelegt angesehen, den Wiedereinsetzungsantrag verworfen und den Antrag auf Be
+- [BGH, Urteil vom 06.07.2000 - I ZR 21/98](i-zr-21-98.md) — Tatbestand:
+- [BGH, Urteil vom 06.07.2000 - I ZR 243/97](i-zr-243-97.md) — Tatbestand:
+- [BGH, Urteil vom 06.07.2000 - I ZR 244/97](i-zr-244-97.md) — Tatbestand: Die Klägerin ist die Microsoft Corporation. Sie unterhält für die von ihr entwickelten und vertriebenen Computerprogramme, insbe
+- [BGH, Beschluss vom 15.06.2000 - I ZB 4/98](i-zb-4-98.md) — fehlender Unterscheidungskraft und Bestehens eines Freihaltungsbedürfnisses versagt.
+- [BGH, Urteil vom 15.06.2000 - I ZR 193/98](i-zr-193-98.md) — Tatbestand:
+- [BGH, Urteil vom 15.06.2000 - I ZR 202/98](i-zr-202-98.md) — Tatbestand:
+- [BGH, Urteil vom 15.06.2000 - I ZR 231/97](i-zr-231-97.md) — Fehlens einer Prozeßvoraussetzung (hier: Durchführung des durch § 16 UrhWG vorgeschriebenen Schiedsstellenverfahrens) unzulässig ist.
+- [BGH, Urteil vom 15.06.2000 - I ZR 55/98](i-zr-55-98.md) — Tatbestand:
+- [BGH, Urteil vom 15.06.2000 - I ZR 90/98](i-zr-90-98.md) — BGH, Urteil vom 15.06.2000 - I ZR 90/98
+- [BGH, Beschluss vom 27.04.2000 - I ZR 236/97](i-zr-236-97.md) — BGH, Beschluss vom 27.04.2000 - I ZR 236/97
+- [BGH, Urteil vom 27.04.2000 - I ZR 287/97](i-zr-287-97.md) — Tatbestand:
+- [BGH, Urteil vom 27.04.2000 - I ZR 292/97](i-zr-292-97.md) — 3Tatbestand:
+- [BGH, Beschluss vom 17.02.2000 - I ZB 31/97](i-zb-31-97.md) — Fehlens der Unterscheidungskraft zurückgewiesen. Die Beschwerde der Anmelderin hat das Bundespatentgericht zurückgewiesen (BPatG GRUR 1997,
 - [BGH, Urteil vom 17.02.2000 - I ZR 239/97](i-zr-239-97.md) — psychischen Kaufzwangs bei der Durchführung eines Gewinnspiels.
 - [BGH, Urteil vom 17.02.2000 - I ZR 254/97](i-zr-254-97.md) — Tatbestand:
 - [BGH, Beschluss vom 10.02.2000 - I ZB 37/97](i-zb-37-97.md) — BGH, Beschluss vom 10.02.2000 - I ZB 37/97
@@ -29,8 +63,11 @@
 - [BGH, Beschluss vom 27.01.2000 - I ZB 47/97](i-zb-47-97.md) — BGH, Beschluss vom 27.01.2000 - I ZB 47/97
 - [BGH, Beschluss vom 27.01.2000 - I ZR 159/99](i-zr-159-99.md) — BGH, Beschluss vom 27.01.2000 - I ZR 159/99
 - [BGH, Urteil vom 27.01.2000 - I ZR 241/97](i-zr-241-97.md) — BGH, Urteil vom 27.01.2000 - I ZR 241/97
+- [BGH, Beschluss vom 20.01.2000 - I ZB 32/97](i-zb-32-97.md) — BGH, Beschluss vom 20.01.2000 - I ZB 32/97
+- [BGH, Beschluss vom 20.01.2000 - I ZB 50/97](i-zb-50-97.md) — I. Gegen die am 22. März 1995 unter der Nr. 2 904 283 für die Waren "Handbetätigte Reinigungsgeräte für den Haushalt" eingetragene Wortmarke "Micro-PUR" hat die Inhaberin der …
+- [BGH, Urteil vom 20.01.2000 - I ZR 196/97](i-zr-196-97.md) — Tatbestand:
 - [BGH, Urteil vom 13.01.2000 - I ZR 135/97](i-zr-135-97.md) — BGH, Urteil vom 13.01.2000 - I ZR 135/97
-- [BGH, Urteil vom 13.01.2000 - I ZR 223/97](i-zr-223-97.md) — BGH, Urteil vom 13.01.2000 - I ZR 223/97
-- [BGH, Urteil vom 13.01.2000 - I ZR 253/97](i-zr-253-97.md) — BGH, Urteil vom 13.01.2000 - I ZR 253/97
+- [BGH, Urteil vom 13.01.2000 - I ZR 223/97](i-zr-223-97.md) — 3-
+- [BGH, Urteil vom 13.01.2000 - I ZR 253/97](i-zr-253-97.md) — 3-
 - [BGH, Urteil vom 13.01.2000 - I ZR 271/97](i-zr-271-97.md) — Tatbestand:
 - [BGH, Beschluss vom 13.01.2000 - I ZR 55/99](i-zr-55-99.md) — BGH, Beschluss vom 13.01.2000 - I ZR 55/99

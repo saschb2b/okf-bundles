@@ -20,7 +20,7 @@
 //
 // Reads frontmatter only (title/description/datum/senat/normen). Zero deps.
 
-import { readFileSync, writeFileSync, readdirSync, statSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, readdirSync, statSync, existsSync, unlinkSync } from "node:fs";
 import { join, relative } from "node:path";
 
 const args = process.argv.slice(2);
@@ -193,6 +193,21 @@ for (const g of gesetze) {
     `| Norm | Entscheidung(en) |\n|------|------------------|\n${rows.join("\n")}\n`);
 }
 
-process.stdout.write(`${decisions.length} Entscheidung(en), ${senates.size} Senat(e), ${gesetze.length} Gesetz(e), ${writes.length} Index-Dateien.\n`);
+// Prune orphaned index/register files (e.g. a year folder emptied by dedup),
+// so no stale index keeps a dangling link.
+let pruned = 0;
+const willWrite = new Set(writes.map((w) => w.path));
+const pruneDir = (dir, pred) => {
+  if (!existsSync(dir)) return;
+  for (const e of readdirSync(dir)) {
+    const p = join(dir, e);
+    if (statSync(p).isDirectory()) pruneDir(p, pred);
+    else if (pred(e) && !willWrite.has(p)) { if (!DRY) unlinkSync(p); pruned++; }
+  }
+};
+pruneDir(ENTSCH, (e) => e === "index.md");
+pruneDir(NORM, (e) => e.endsWith(".md"));
+
+process.stdout.write(`${decisions.length} Entscheidung(en), ${senates.size} Senat(e), ${gesetze.length} Gesetz(e), ${writes.length} Index-Dateien, ${pruned} verwaiste entfernt.\n`);
 for (const w of writes) { if (!DRY) writeFileSync(w.path, w.content); }
 if (DRY) process.stdout.write(`(dry-run, nichts geschrieben)\n`);

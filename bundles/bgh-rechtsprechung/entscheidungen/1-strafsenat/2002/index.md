@@ -1,18 +1,42 @@
 # 1. Strafsenat – 2002
 
-21 Entscheidung(en).
+47 Entscheidung(en).
 
+- [BGH, Beschluss vom 19.12.2002 - 1 StR 306/02](1-str-306-02.md) — Veröffentlichung: ja _________________ StPO § 225a § 225a Abs. 1 bis 3 StPO findet im Berufungsverfahren entsprechende Anwendung. BGH, Beschl. vom 19. Dezember 2002 - 1 StR 306/02 …
 - [BGH, Beschluss vom 19.12.2002 - 1 StR 366/02](1-str-366-02.md) — wettbewerbsbeschränkender Absprachen bei Ausschreibungen
 - [BGH, Urteil vom 19.12.2002 - 1 StR 405/02](1-str-405-02.md) — Vergewaltigung
 - [BGH, Beschluss vom 17.12.2002 - 1 StR 488/02](1-str-488-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 04.12.2002 - 1 StR 356/02](1-str-356-02.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 03.12.2002 - 1 StR 327/02](1-str-327-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 13.11.2002 - 1 StR 270/02](1-str-270-02.md) — Vergewaltigung
 - [BGH, Beschluss vom 06.11.2002 - 1 StR 363/02](1-str-363-02.md) — zu 1., 2. und 4.: schweren Raubes u.a.
 - [BGH, Beschluss vom 06.11.2002 - 1 StR 382/02](1-str-382-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.10.2002 - 1 StR 169/02](1-str-169-02.md) — bandenmäßigen Betruges u.a.
+- [BGH, Beschluss vom 22.10.2002 - 1 StR 298/02](1-str-298-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 22.10.2002 - 1 StR 308/02](1-str-308-02.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 22.10.2002 - 1 StR 332/02](1-str-332-02.md) — versuchten Mordes
+- [BGH, Beschluss vom 22.10.2002 - 1 StR 339/02](1-str-339-02.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Urteil vom 09.10.2002 - 1 StR 137/02](1-str-137-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
 - [BGH, Urteil vom 08.10.2002 - 1 StR 150/02](1-str-150-02.md) — versuchter Erpressung
+- [BGH, Beschluss vom 08.10.2002 - 1 StR 225/02](1-str-225-02.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 08.10.2002 - 1 StR 326/02](1-str-326-02.md) — Betruges u. a.
+- [BGH, Entscheidung vom 10.09.2002 - 1 StR 318/02](1-str-318-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 20.08.2002 - 1 StR 305/02](1-str-305-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 10.07.2002 - 1 StR 117/02](1-str-117-02.md) — versuchter schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 10.07.2002 - 1 StR 140/02](1-str-140-02.md) — Mordes
+- [BGH, Beschluss vom 26.06.2002 - 1 StR 145/02](1-str-145-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 26.06.2002 - 1 StR 191/02](1-str-191-02.md) — Bandendiebstahls u.a.
+- [BGH, Beschluss vom 16.05.2002 - 1 StR 146/02](1-str-146-02.md) — versuchten Totschlags
+- [BGH, Beschluss vom 16.05.2002 - 1 StR 553/01](1-str-553-01.md) — Mordes
+- [BGH, Beschluss vom 16.05.2002 - 1 StR 90/02](1-str-90-02.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 16.05.2002 - 1 StR 96/02](1-str-96-02.md) — Geldfälschung
 - [BGH, Beschluss vom 24.04.2002 - 1 StR 535/01](1-str-535-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 23.04.2002 - 1 StR 100/02](1-str-100-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 23.04.2002 - 1 StR 41/02](1-str-41-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 23.04.2002 - 1 StR 95/02](1-str-95-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 14.03.2002 - 1 StR 504/01](1-str-504-01.md) — Zuhälterei u.a.
+- [BGH, Beschluss vom 13.03.2002 - 1 StR 39/02](1-str-39-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 13.03.2002 - 1 StR 47/02](1-str-47-02.md) — schweren Raubes
 - [BGH, Beschluss vom 06.03.2002 - 1 StR 427/01](1-str-427-01.md) — unerlaubten Umgangs mit gefährlichen Abfällen u.a.
 - [BGH, Urteil vom 21.02.2002 - 1 StR 538/01](1-str-538-01.md) — Mordes
 - [BGH, Beschluss vom 19.02.2002 - 1 StR 28/02](1-str-28-02.md) — Körperverletzung mit Todesfolge u.a.
@@ -20,6 +44,8 @@
 - [BGH, Beschluss vom 19.02.2002 - 1 StR 502/01](1-str-502-01.md) — gewerbsmäßiger Bandenhehlerei u.a.
 - [BGH, Beschluss vom 19.02.2002 - 1 StR 532/01](1-str-532-01.md) — gewerbsmäßiger Hehlerei
 - [BGH, Urteil vom 19.02.2002 - 1 StR 546/01](1-str-546-01.md) — Vergewaltigung u.a.
+- [BGH, Entscheidung vom 05.02.2002 - 1 StR 403/01](1-str-403-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Entscheidung vom 05.02.2002 - 1 StR 570/01](1-str-570-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 23.01.2002 - 1 StR 528/01](1-str-528-01.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 15.01.2002 - 1 StR 494/01](1-str-494-01.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 15.01.2002 - 1 StR 515/01](1-str-515-01.md) — gefährlicher Körperverletzung

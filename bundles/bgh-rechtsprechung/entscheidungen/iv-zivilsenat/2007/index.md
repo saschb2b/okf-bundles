@@ -1,25 +1,59 @@
 # IV. Zivilsenat – 2007
 
-21 Entscheidung(en).
+55 Entscheidung(en).
 
+- [BGH, Beschluss vom 19.12.2007 - IV ZR 126/07](iv-zr-126-07.md) — BGH, Beschluss vom 19.12.2007 - IV ZR 126/07
 - [BGH, Beschluss vom 19.12.2007 - IV ZR 297/05](iv-zr-297-05.md) — BGH, Beschluss vom 19.12.2007 - IV ZR 297/05
 - [BGH, Beschluss vom 19.12.2007 - IV ZR 298/05](iv-zr-298-05.md) — BGH, Beschluss vom 19.12.2007 - IV ZR 298/05
-- [BGH, Beschluss vom 12.12.2007 - IV ZR 178/06](iv-zr-178-06.md) — BGH, Beschluss vom 12.12.2007 - IV ZR 178/06
+- [BGH, Beschluss vom 12.12.2007 - IV ZR 178/06](iv-zr-178-06.md) — Dem Rechtsmittel des Klägers war nach § 544 Abs.
+- [BGH, Beschluss vom 12.12.2007 - IV ZR 268/06](iv-zr-268-06.md) — BGH, Beschluss vom 12.12.2007 - IV ZR 268/06
+- [BGH, Urteil vom 05.12.2007 - IV ZR 275/06](iv-zr-275-06.md) — Tatbestand:
+- [BGH, Beschluss vom 21.11.2007 - IV ZR 123/05](iv-zr-123-05.md) — BGH, Beschluss vom 21.11.2007 - IV ZR 123/05
+- [BGH, Beschluss vom 21.11.2007 - IV ZR 195/05](iv-zr-195-05.md) — BGH, Beschluss vom 21.11.2007 - IV ZR 195/05
+- [BGH, Beschluss vom 21.11.2007 - IV ZR 282/05](iv-zr-282-05.md) — BGH, Beschluss vom 21.11.2007 - IV ZR 282/05
 - [BGH, Beschluss vom 21.11.2007 - IV ZR 321/05](iv-zr-321-05.md) — Verstoßes gegen das Transparenzgebot
 - [BGH, Beschluss vom 21.11.2007 - IV ZR 48/07](iv-zr-48-07.md) — BGH, Beschluss vom 21.11.2007 - IV ZR 48/07
+- [BGH, Beschluss vom 14.11.2007 - IV ZB 22/07](iv-zb-22-07.md) — I. Die Beklagte wurde vom Amtsgericht zur Zahlung von Kranken- versicherungsprämien in Höhe von 2.202,54 € verurteilt. Das Urteil wur- de dem Prozessbevollmächtigten der Beklagten …
+- [BGH, Beschluss vom 14.11.2007 - IV ZR 112/07](iv-zr-112-07.md) — BGH, Beschluss vom 14.11.2007 - IV ZR 112/07
 - [BGH, Beschluss vom 14.11.2007 - IV ZR 256/05](iv-zr-256-05.md) — BGH, Beschluss vom 14.11.2007 - IV ZR 256/05
+- [BGH, Beschluss vom 07.11.2007 - IV ZR 103/06](iv-zr-103-06.md) — 1. Will der Versicherer den ihm nach § 123 BGB obliegenden Nachweis führen, der Versicherungsnehmer habe bei Anbahnung des Versicherungsvertrages arglistig falsche Angaben …
+- [BGH, Beschluss vom 07.11.2007 - IV ZR 116/04](iv-zr-116-04.md) — I. Der Kläger schloss bei der Beklagten, einer deutschen Nieder- lassung einer schweizerischen Versicherungsgenossenschaft auf Ge- genseitigkeit, in den Jahren 1988 und 1991 drei …
+- [BGH, Beschluss vom 07.11.2007 - IV ZR 149/04](iv-zr-149-04.md) — Die Beschwerde ist zurückzuweisen, weil ein Zulassungsgrund nicht dargelegt ist (§§ 543 Abs.
+- [BGH, Beschluss vom 07.11.2007 - IV ZR 151/04](iv-zr-151-04.md) — Der geltend gemachte Zulassungsgrund der Sicherung einer ein- heitlichen Rechtsprechung ist nicht gegeben, weil das Berufungsgericht den Anspruch der Klägerin auf Gewährung …
+- [BGH, Urteil vom 24.10.2007 - IV ZR 12/07](iv-zr-12-07.md) — Tatbestand:
 - [BGH, Urteil vom 24.10.2007 - IV ZR 30/06](iv-zr-30-06.md) — Tatbestand:
-- [BGH, Beschluss vom 17.10.2007 - IV ZR 37/07](iv-zr-37-07.md) — BGH, Beschluss vom 17.10.2007 - IV ZR 37/07
+- [BGH, Beschluss vom 24.10.2007 - IV ZR 99/07](iv-zr-99-07.md) — I. Für den Beklagten zu 1 ist im Grundbuch von D. Bl. 881 bis 887 Teileigentum eingetragen verbunden mit dem Sondereigentum an im betreffenden Aufteilungsplan näher bezeichneten …
+- [BGH, Beschluss vom 17.10.2007 - IV ZR 37/07](iv-zr-37-07.md) — I. Der Senat hat den Parteien gemäß § 552a ZPO folgenden Hin- weis erteilt: 2 1. Die Voraussetzungen für die Zulassung liegen nicht vor. Grund- sätzliche Bedeutung kommt einer …
+- [BGH, Beschluss vom 17.10.2007 - IV ZR 56/07](iv-zr-56-07.md) — I. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zu- rückverweisung des Rechtsstreits an das …
+- [BGH, Beschluss vom 10.10.2007 - IV ZR 95/07](iv-zr-95-07.md) — 1. Die Annahme des Berufungsgerichts, die in der Schadenanzeige - wie schon in den Versicherungsanträgen - erfolgte falsche Angabe zum Bestehen weiterer Unfallversicherungen sei …
 - [BGH, Urteil vom 26.09.2007 - IV ZR 252/06](iv-zr-252-06.md) — Tatbestand:
+- [BGH, Beschluss vom 19.09.2007 - IV ZR 226/06](iv-zr-226-06.md) — I. Die Parteien streiten darüber, ob die Kläger gegen die Beklagte einen Anspruch auf Auskunft über die Höhe von Darlehensforderungen haben, die die Beklagte gegen einen Dritten …
 - [BGH, Beschluss vom 05.09.2007 - IV ZB 13/07](iv-zb-13-07.md) — BGH, Beschluss vom 05.09.2007 - IV ZB 13/07
+- [BGH, Beschluss vom 20.08.2007 - IV ZR 130/07](iv-zr-130-07.md) — Die Annahme des Berufungsgerichts, der Kläger habe keine weite- ren verjährungshemmenden Verhandlungsmaßnahmen nach dem 8.
 - [BGH, Urteil vom 18.07.2007 - IV ZR 129/06](iv-zr-129-06.md) — BGH, Urteil vom 18.07.2007 - IV ZR 129/06
 - [BGH, Urteil vom 18.07.2007 - IV ZR 254/03](iv-zr-254-03.md) — Tatbestand:
+- [BGH, Urteil vom 18.07.2007 - IV ZR 258/03](iv-zr-258-03.md) — Tatbestand:
 - [BGH, Beschluss vom 11.07.2007 - IV ZB 38/06](iv-zb-38-06.md) — Verletzung einer Verfügungsunterlassungsverpflich-
-- [BGH, Beschluss vom 11.07.2007 - IV ZR 112/05](iv-zr-112-05.md) — BGH, Beschluss vom 11.07.2007 - IV ZR 112/05
+- [BGH, Beschluss vom 11.07.2007 - IV ZR 112/05](iv-zr-112-05.md) — I. 1. Die Klägerin verlangt vom Beklagten nach Kündigung mehre- rer verzinslicher Darlehen deren Rückzahlung. Die Parteien streiten dar- über, ob die Darlehen dem Beklagten …
+- [BGH, Beschluss vom 11.07.2007 - IV ZR 254/06](iv-zr-254-06.md) — gelegt (vgl. BAG AP Nr. 2 zu § 320 ZPO; BFHE 157, 494; Zöller/Vollkommer, ZPO 26. Aufl. § 320 Rdn. 1). Auch vor diesem Hintergrund erweisen sich die Gehörsrügen als unbegründet …
+- [BGH, Beschluss vom 04.07.2007 - IV ZR 170/04](iv-zr-170-04.md) — arglistiger Täuschung überzeugt sieht. Sie hält die Zulassung der Revi-
 - [BGH, Anerkenntnisurteil vom 04.07.2007 - IV ZR 211/06](iv-zr-211-06.md) — eines 678,07 € übersteigenden Betrages nebst anteiliger Zinsen zurückgewiesen worden ist.
+- [BGH, Beschluss vom 04.07.2007 - IV ZR 47/06](iv-zr-47-06.md) — BGH, Beschluss vom 04.07.2007 - IV ZR 47/06
+- [BGH, Beschluss vom 20.06.2007 - IV ZR 228/06](iv-zr-228-06.md) — Das Berufungsgericht hat den Anspruch der Beklagten auf rechtli- ches Gehör (Art.
+- [BGH, Beschluss vom 20.06.2007 - IV ZR 3/05](iv-zr-3-05.md) — Das Berufungsgericht hat den Anspruch der Klägerin auf rechtli- ches Gehör (Art.
 - [BGH, Beschluss vom 23.05.2007 - IV ZB 48/05](iv-zb-48-05.md) — BGH, Beschluss vom 23.05.2007 - IV ZB 48/05
+- [BGH, Beschluss vom 23.05.2007 - IV ZR 24/06](iv-zr-24-06.md) — Die Klägerin macht mit Recht geltend, dass das Berufungsgericht die Präklusionsvorschrift des § 531 Abs.
 - [BGH, Beschluss vom 09.05.2007 - IV ZR 182/06](iv-zr-182-06.md) — BGH, Beschluss vom 09.05.2007 - IV ZR 182/06
-- [BGH, Beschluss vom 25.04.2007 - IV ZB 41/06](iv-zb-41-06.md) — BGH, Beschluss vom 25.04.2007 - IV ZB 41/06
+- [BGH, Beschluss vom 25.04.2007 - IV ZB 41/06](iv-zb-41-06.md) — fehlen-
 - [BGH, Beschluss vom 25.04.2007 - IV ZR 175/04](iv-zr-175-04.md) — BGH, Beschluss vom 25.04.2007 - IV ZR 175/04
+- [BGH, Beschluss vom 24.04.2007 - IV ZR 259/06](iv-zr-259-06.md) — Art. 103 Abs. 1 GG verpflichtet die Gerichte lediglich, das Vorbrin- gen der Parteien zur Kenntnis zu nehmen und in Erwägung zu ziehen. Hingegen ist es nicht erforderlich, alle …
+- [BGH, Beschluss vom 18.04.2007 - IV ZA 18/05](iv-za-18-05.md) — Die Gründe für die Versagung von Prozesskostenhilfe bestehen unverändert fort.
+- [BGH, Beschluss vom 28.03.2007 - IV ZR 74/04](iv-zr-74-04.md) — Das Berufungsgericht hat den Anspruch der Klägerin auf rechtli- ches Gehör (Art.
+- [BGH, Urteil vom 07.03.2007 - IV ZR 133/06](iv-zr-133-06.md) — Tatbestand:
+- [BGH, Beschluss vom 28.02.2007 - IV ZR 320/04](iv-zr-320-04.md) — des aus der
 - [BGH, Urteil vom 14.02.2007 - IV ZR 258/05](iv-zr-258-05.md) — der ursprünglichen Schenkung zu.
+- [BGH, Beschluss vom 07.02.2007 - IV ZR 25/06](iv-zr-25-06.md) — Das Berufungsgericht, welches den beklagten Feuerversicherer für leistungsfrei hält, weil es sich davon überzeugt hat, dass der Brand, auf den die Klägerin ihr Begehren stützt …
+- [BGH, Beschluss vom 24.01.2007 - IV ZR 183/05](iv-zr-183-05.md) — Unerheblichkeit unberücksichtigt geblieben (BGHZ 53, 245, 259 f.; 121, 266, 271). Es trifft auch nicht zu, dass sich das Berufungsgericht im
+- [BGH, Beschluss vom 24.01.2007 - IV ZR 210/05](iv-zr-210-05.md) — BGH, Beschluss vom 24.01.2007 - IV ZR 210/05
 - [BGH, Beschluss vom 24.01.2007 - IV ZR 288/04](iv-zr-288-04.md) — Schadenstiftung durch eine wissentliche Pflichtverlet-
+- [BGH, Urteil vom 17.01.2007 - IV ZR 106/06](iv-zr-106-06.md) — Tatbestand:

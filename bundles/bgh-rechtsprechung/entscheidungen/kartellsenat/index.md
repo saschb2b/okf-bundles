@@ -1,6 +1,6 @@
 # Kartellsenat
 
-Kartell-, Vergabe- und Energiewirtschaftsrecht. 521 Entscheidung(en).
+Kartell-, Vergabe- und Energiewirtschaftsrecht. 563 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -21,12 +21,13 @@ Kartell-, Vergabe- und Energiewirtschaftsrecht. 521 Entscheidung(en).
 - [2012](2012/index.md) (22)
 - [2011](2011/index.md) (21)
 - [2010](2010/index.md) (22)
-- [2009](2009/index.md) (15)
-- [2008](2008/index.md) (8)
-- [2007](2007/index.md) (11)
-- [2006](2006/index.md) (8)
-- [2005](2005/index.md) (7)
-- [2004](2004/index.md) (2)
-- [2003](2003/index.md) (3)
+- [2009](2009/index.md) (17)
+- [2008](2008/index.md) (12)
+- [2007](2007/index.md) (17)
+- [2006](2006/index.md) (17)
+- [2005](2005/index.md) (9)
+- [2004](2004/index.md) (9)
+- [2003](2003/index.md) (10)
 - [2002](2002/index.md) (5)
-- [2000](2000/index.md) (6)
+- [2001](2001/index.md) (4)
+- [2000](2000/index.md) (7)

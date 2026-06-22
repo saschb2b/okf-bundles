@@ -1,9 +1,8 @@
 # XII. Zivilsenat – 2005
 
-55 Entscheidung(en).
+85 Entscheidung(en).
 
 - [BGH, Beschluss vom 21.12.2005 - XII ZB 33/05](xii-zb-33-05.md) — Anwaltsverschuldens zurückgewiesen und sich die Verwerfung der Berufung vorbehalten hat, wenn diese Frist in Wirklichkeit nicht versäumt ist
-- [BGH, Beschluss vom 21.12.2005 - XII ZB 80/05](xii-zb-80-05.md) — BGH, Beschluss vom 21.12.2005 - XII ZB 80/05
 - [BGH, Beschluss vom 14.12.2005 - XII ZB 161/03](xii-zb-161-03.md) — BGH, Beschluss vom 14.12.2005 - XII ZB 161/03
 - [BGH, Beschluss vom 14.12.2005 - XII ZR 67/02](xii-zr-67-02.md) — BGH, Beschluss vom 14.12.2005 - XII ZR 67/02
 - [BGH, Beschluss vom 07.12.2005 - XII ZB 197/04](xii-zb-197-04.md) — BGH, Beschluss vom 07.12.2005 - XII ZB 197/04
@@ -14,46 +13,77 @@
 - [BGH, Beschluss vom 23.11.2005 - XII ZB 260/03](xii-zb-260-03.md) — BGH, Beschluss vom 23.11.2005 - XII ZB 260/03
 - [BGH, Urteil vom 23.11.2005 - XII ZR 155/03](xii-zr-155-03.md) — Tatbestand:
 - [BGH, Urteil vom 16.11.2005 - XII ZR 124/03](xii-zr-124-03.md) — Tatbestand:
-- [BGH, Beschluss vom 09.11.2005 - XII ZB 270/04](xii-zb-270-04.md) — BGH, Beschluss vom 09.11.2005 - XII ZB 270/04
+- [BGH, Beschluss vom 09.11.2005 - XII ZB 229/01](xii-zb-229-01.md) — I. 1 Die Parteien haben am 1. August 1980 geheiratet. Der Scheidungsantrag der Ehefrau (Antragstellerin; geboren am 9. August 1952) ist dem Ehemann (Antragsgegner; geboren am 26 …
+- [BGH, Beschluss vom 09.11.2005 - XII ZB 270/04](xii-zb-270-04.md) — I. 1 Durch Urteil des Amtsgerichts - Familiengericht - ist der Beklagte verur- teilt worden, an die Klägerin Trennungsunterhalt zu zahlen. Gegen das ihm zu Händen seiner …
 - [BGH, Beschluss vom 02.11.2005 - XII ZB 264/03](xii-zb-264-03.md) — BGH, Beschluss vom 02.11.2005 - XII ZB 264/03
 - [BGH, Urteil vom 02.11.2005 - XII ZR 212/03](xii-zr-212-03.md) — Tatbestand:
-- [BGH, Urteil vom 02.11.2005 - XII ZR 233/03](xii-zr-233-03.md) — BGH, Urteil vom 02.11.2005 - XII ZR 233/03
+- [BGH, Urteil vom 02.11.2005 - XII ZR 233/03](xii-zr-233-03.md) — Tatbestand:
+- [BGH, Beschluss vom 26.10.2005 - XII ZB 125/05](xii-zb-125-05.md) — krankheitsbedingt fehlender Leis-
+- [BGH, Beschluss vom 26.10.2005 - XII ZB 25/05](xii-zb-25-05.md) — I. 1 Die Parteien streiten im Wege der Stufenklage um Trennungs- und Kin- desunterhalt. 2 Durch Teilurteil des Amtsgerichts Karlsruhe vom 16. Januar 2004 wurde der Beklagte …
 - [BGH, Beschluss vom 28.09.2005 - XII ZB 127/01](xii-zb-127-01.md) — eines offensichtlichen Versehens bei der Wiedergabe der Rechtsausführungen des Oberlandesgerichts dahin berichtigt, dass der dritte Satz des
-- [BGH, Beschluss vom 28.09.2005 - XII ZB 177/00](xii-zb-177-00.md) — BGH, Beschluss vom 28.09.2005 - XII ZB 177/00
+- [BGH, Beschluss vom 28.09.2005 - XII ZB 177/00](xii-zb-177-00.md) — I. 1 Der Antragsteller (im Folgenden: Ehemann) und die Antragsgegnerin (im Folgenden: Ehefrau) haben am 18. September 1981 die Ehe geschlossen; aus der Ehe ist eine am 14. Januar …
 - [BGH, Beschluss vom 21.09.2005 - XII ZB 83/05](xii-zb-83-05.md) — BGH, Beschluss vom 21.09.2005 - XII ZB 83/05
+- [BGH, Beschluss vom 21.09.2005 - XII ZR 256/03](xii-zr-256-03.md) — Wuchers - unwirksam sei, dass die Beklagte zu 1 seit April 2002 berechtigt sei, die Miete vollständig zu mindern bzw. zurückzubehalten und d
+- [BGH, Versäumnisurteil vom 21.09.2005 - XII ZR 312/02](xii-zr-312-02.md) — Tatbestand: Der Kläger macht rückständige Miete geltend. Er vermietete mit schriftlichem Vertrag vom 7. Oktober 1999 Geschäftsräume zu einem
 - [BGH, Urteil vom 07.09.2005 - XII ZR 209/02](xii-zr-209-02.md) — Tatbestand: Die Parteien streiten über Zugewinnausgleich. Ihre am 22. Juli 1987 geschlossene Ehe wurde auf den dem Antragsgegner (Ehemann) a
+- [BGH, Urteil vom 07.09.2005 - XII ZR 311/02](xii-zr-311-02.md) — Unbilligkeit nur aus Gründen des Kindeswohls ausscheidet.
 - [BGH, Urteil vom 07.09.2005 - XII ZR 316/02](xii-zr-316-02.md) — Tatbestand:
 - [BGH, Beschluss vom 31.08.2005 - XII ZB 159/05](xii-zb-159-05.md) — BGH, Beschluss vom 31.08.2005 - XII ZB 159/05
 - [BGH, Beschluss vom 10.08.2005 - XII ZB 112/05](xii-zb-112-05.md) — BGH, Beschluss vom 10.08.2005 - XII ZB 112/05
 - [BGH, Beschluss vom 10.08.2005 - XII ZB 191/01](xii-zb-191-01.md) — BGH, Beschluss vom 10.08.2005 - XII ZB 191/01
 - [BGH, Beschluss vom 10.08.2005 - XII ZB 63/05](xii-zb-63-05.md) — einer mit dem Arbeitgeber vereinbarten Verschwiegenheitspflicht geltend macht.
-- [BGH, Beschluss vom 10.08.2005 - XII ZR 73/05](xii-zr-73-05.md) — BGH, Beschluss vom 10.08.2005 - XII ZR 73/05
+- [BGH, Beschluss vom 10.08.2005 - XII ZR 73/05](xii-zr-73-05.md) — I. Die Parteien sind geschiedene Ehegatten. Sie streiten um die Zulässigkeit der Zwangsvollstreckung aus zwei Vergleichen vom 7. Januar und 11. November 2003. Am 7. Januar 2003 …
 - [BGH, Beschluss vom 27.07.2005 - XII ZR 67/03](xii-zr-67-03.md) — BGH, Beschluss vom 27.07.2005 - XII ZR 67/03
 - [BGH, Beschluss vom 20.07.2005 - XII ZB 211/00](xii-zb-211-00.md) — BGH, Beschluss vom 20.07.2005 - XII ZB 211/00
-- [BGH, Beschluss vom 20.07.2005 - XII ZB 98/02](xii-zb-98-02.md) — BGH, Beschluss vom 20.07.2005 - XII ZB 98/02
+- [BGH, Beschluss vom 20.07.2005 - XII ZB 98/02](xii-zb-98-02.md) — I. Die Parteien haben am 20. Januar 1961 geheiratet. Der Scheidungsantrag der Ehefrau (Antragstellerin) ist dem Ehemann (Antragsgegner) am 2. August 2001 zugestellt worden. Das …
 - [BGH, Beschluss vom 20.07.2005 - XII ZB 99/02](xii-zb-99-02.md) — BGH, Beschluss vom 20.07.2005 - XII ZB 99/02
 - [BGH, Urteil vom 20.07.2005 - XII ZR 155/04](xii-zr-155-04.md) — BGH, Urteil vom 20.07.2005 - XII ZR 155/04
 - [BGH, Urteil vom 20.07.2005 - XII ZR 301/02](xii-zr-301-02.md) — Tatbestand: Die Parteien streiten um Zugewinnausgleich. Die am 9. August 1952 geschlossene Ehe wurde auf den dem Ehemann (früherer Antragsge
+- [BGH, Beschluss vom 13.07.2005 - XII ZB 80/05](xii-zb-80-05.md) — Versäumung der Berufungsbegründungsfrist ist dem Berufungskläger rechtliches Gehör zu gewähren (im Anschluß an BGH, Beschluß vom 29. Juni 19
+- [BGH, Beschluss vom 06.07.2005 - XII ZB 101/01](xii-zb-101-01.md) — I. Die Parteien haben am 17. September 1976 geheiratet. Der Scheidungsantrag des Ehemannes (Antragsteller; geboren am 21. August 1950) ist der Ehefrau (Antragsgegnerin; geboren am …
+- [BGH, Beschluss vom 06.07.2005 - XII ZB 226/01](xii-zb-226-01.md) — vorzeitiger Erwerbsunfähigkeit gezahlten Versorgungsrente der öffentlich-rechtlichen Zusatzversorgung (im Anschluß an Senatsbeschluß vom 4.
 - [BGH, Versäumnisurteil vom 06.07.2005 - XII ZR 145/03](xii-zr-145-03.md) — Tatbestand: Die Parteien streiten im Scheidungsverbund um nachehelichen Ehegattenunterhalt. Die Parteien haben am 23. Februar 1980 die Ehe g
 - [BGH, Versäumnisurteil vom 06.07.2005 - XII ZR 293/02](xii-zr-293-02.md) — BGH, Versäumnisurteil vom 06.07.2005 - XII ZR 293/02
-- [BGH, Beschluss vom 29.06.2005 - XII ZR 259/04](xii-zr-259-04.md) — BGH, Beschluss vom 29.06.2005 - XII ZR 259/04
+- [BGH, Beschluss vom 29.06.2005 - XII ZB 195/04](xii-zb-195-04.md) — I. Die Klägerin wehrt sich mit der vom Beschwerdegericht zugelassenen Rechtsbeschwerde gegen die Aufhebung des Kostenfestsetzungsbeschlusses des Landgerichts vom 18. Mai 2004. Mit …
+- [BGH, Beschluss vom 29.06.2005 - XII ZR 259/04](xii-zr-259-04.md) — von Amts wegen aufzuheben und die Sache an das Landgericht zurückzuverweisen. Denn unabhängig davon, welche Ansprüche der Kläger mit seiner
+- [BGH, Urteil vom 15.06.2005 - XII ZR 82/02](xii-zr-82-02.md) — Tatbestand:
+- [BGH, Beschluss vom 08.06.2005 - XII ZB 177/03](xii-zb-177-03.md) — I. Die Parteien streiten um die Einbeziehung einer betrieblichen Altersversorgung in den Versorgungsausgleich. Die am 15. Mai 1987 geschlossene Ehe der Parteien, die durch …
+- [BGH, Beschluss vom 08.06.2005 - XII ZR 177/03](xii-zr-177-03.md) — I. Der ursprüngliche Kläger (im folgenden: der Kläger) hatte, vertreten durch seinen Vater als Betreuer, von der Beklagten verlangt, seine künstliche Ernährung einzustellen, um …
+- [BGH, Beschluss vom 01.06.2005 - XII ZR 275/02](xii-zr-275-02.md) — unterschlagenen Wohnmobiliars.
+- [BGH, Beschluss vom 11.05.2005 - XII ZB 120/04](xii-zb-120-04.md) — I. Die Parteien streiten um den Ausschluß des Rechts des Antragstellers zum Umgang mit den gemeinsamen Kindern. Die Ehe der Parteien, aus der die Kinder Fabian (geboren 18 …
+- [BGH, Beschluss vom 11.05.2005 - XII ZB 143/03](xii-zb-143-03.md) — grundsätzlicher Bedeutung der Sache zugelassen hat. Daran ist der Senat gebunden (§ 574 Abs. 3 Satz 2 ZPO).
 - [BGH, Urteil vom 11.05.2005 - XII ZR 108/02](xii-zr-108-02.md) — Tatbestand: Die Parteien streiten um den Ausgleich steuerlicher Nachteile der Klägerin infolge der Inanspruchnahme des sog. begrenzten Reals
 - [BGH, Urteil vom 11.05.2005 - XII ZR 211/02](xii-zr-211-02.md) — Tatbestand: Die Klägerin zu 1 (im folgenden: Klägerin) verlangt von dem Beklagten nachehelichen Unterhalt (Elementar- und Altersvorsorgeunte
-- [BGH, Beschluss vom 04.05.2005 - XII ZB 202/04](xii-zb-202-04.md) — BGH, Beschluss vom 04.05.2005 - XII ZB 202/04
+- [BGH, Beschluss vom 04.05.2005 - XII ZB 202/04](xii-zb-202-04.md) — I. Die Beklagte war mit dem Vater der Kläger verheiratet. Sie war als dessen Betreuerin, auch für den Bereich der Vermögenssorge, bestellt. Der Vater verstarb am 2. September …
+- [BGH, Urteil vom 04.05.2005 - XII ZR 23/03](xii-zr-23-03.md) — Tatbestand: Der Kläger macht als Zwangsverwalter Nebenkosten aus einem Pachtvertrag geltend. Mit Vertrag vom 19. August 1997 mietete die Bek
+- [BGH, Beschluss vom 27.04.2005 - XII ZB 184/02](xii-zb-184-02.md) — I. Die Antragstellerin begehrt die Feststellung, daß der 2001 verstorbene Joseph G. ihr Vater ist. Sie hatte unmittelbar nach dessen Tod veranlaßt, daß ihm das Institut für …
 - [BGH, Beschluss vom 27.04.2005 - XII ZB 48/01](xii-zb-48-01.md) — BGH, Beschluss vom 27.04.2005 - XII ZB 48/01
 - [BGH, Beschluss vom 20.04.2005 - XII ZR 248/04](xii-zr-248-04.md) — arglistiger Täuschung im Jahre 2003 angefochten hat. Die Klägerin hat mit der Klage gegen die Beklagten Schadensersatz- bzw. Bereicherungsan
 - [BGH, Beschluss vom 20.04.2005 - XII ZR 58/03](xii-zr-58-03.md) — BGH, Beschluss vom 20.04.2005 - XII ZR 58/03
 - [BGH, Beschluss vom 20.04.2005 - XII ZR 92/02](xii-zr-92-02.md) — BGH, Beschluss vom 20.04.2005 - XII ZR 92/02
-- [BGH, Beschluss vom 13.04.2005 - XII ZB 165/03](xii-zb-165-03.md) — BGH, Beschluss vom 13.04.2005 - XII ZB 165/03
+- [BGH, Beschluss vom 13.04.2005 - XII ZB 112/02](xii-zb-112-02.md) — I. Die Parteien haben am 2. März 1967 geheiratet. Der Scheidungsantrag des Ehemannes (Antragsteller; geboren am 6. Februar 1945) ist der Ehefrau (Antragsgegnerin; geboren am 8 …
+- [BGH, Beschluss vom 13.04.2005 - XII ZB 165/03](xii-zb-165-03.md) — I. Die Parteien streiten im Scheidungsverbundverfahren über das Aufenthaltsbestimmungsrecht für ihre 1996 bzw. 1998 geborenen Kinder. Mit einstweiliger Anordnung vom 12. Dezember …
 - [BGH, Urteil vom 13.04.2005 - XII ZR 273/02](xii-zr-273-02.md) — Tatbestand: Die Parteien streiten um Abänderung zweier Jugendamtsurkunden über die Verpflichtung zur Zahlung von Kindesunterhalt. Die Kläger
-- [BGH, Versäumnisurteil vom 13.04.2005 - XII ZR 296/00](xii-zr-296-00.md) — BGH, Versäumnisurteil vom 13.04.2005 - XII ZR 296/00
+- [BGH, Versäumnisurteil vom 13.04.2005 - XII ZR 296/00](xii-zr-296-00.md) — 3-
 - [BGH, Urteil vom 06.04.2005 - XII ZR 132/03](xii-zr-132-03.md) — Tatbestand:
+- [BGH, Beschluss vom 23.03.2005 - XII ZB 13/05](xii-zb-13-05.md) — der Fortdauer ihrer Ausbildung noch keine eigene Lebensstellung erreicht haben.
+- [BGH, Beschluss vom 23.03.2005 - XII ZB 204/03](xii-zb-204-03.md) — I. Die Parteien haben am 15. Mai 1987 geheiratet. Der Scheidungsantrag der Ehefrau (Antragstellerin; geboren am 31. Mai 1954) ist dem Ehemann (Antragsgegner; geboren am 14. Januar …
+- [BGH, Beschluss vom 23.03.2005 - XII ZB 255/03](xii-zb-255-03.md) — I. Die Parteien haben am 10. August 1973 geheiratet. Der Scheidungsantrag des Ehemannes (Antragsteller; geboren am 15. März 1941) ist der Ehefrau (Antragsgegnerin; geboren am 17 …
+- [BGH, Beschluss vom 23.03.2005 - XII ZB 65/03](xii-zb-65-03.md) — I. Die am 13. August 1980 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 19. Oktober 1994 zugestellten Antrag des Ehemannes (Antragsteller) durch …
+- [BGH, Beschluss vom 10.03.2005 - XII ZB 153/03](xii-zb-153-03.md) — I. Die Ehe der Antragstellerin und des Antragsgegners, in der beide den Ehenamen "L. " führten und aus der der am 24. Oktober 1991 geborene Sohn Richard hervorgegangen ist, wurde …
 - [BGH, Beschluss vom 23.02.2005 - XII ZB 1/03](xii-zb-1-03.md) — BGH, Beschluss vom 23.02.2005 - XII ZB 1/03
+- [BGH, Beschluss vom 23.02.2005 - XII ZB 105/04](xii-zb-105-04.md) — I. Die am 12. Oktober 1989 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 6. Oktober 2003 zugestellten Antrag des Ehemannes (Antragstellers) durch …
 - [BGH, Beschluss vom 23.02.2005 - XII ZB 198/01](xii-zb-198-01.md) — BGH, Beschluss vom 23.02.2005 - XII ZB 198/01
 - [BGH, Beschluss vom 23.02.2005 - XII ZB 212/04](xii-zb-212-04.md) — BGH, Beschluss vom 23.02.2005 - XII ZB 212/04
 - [BGH, Beschluss vom 23.02.2005 - XII ZB 71/00](xii-zb-71-00.md) — BGH, Beschluss vom 23.02.2005 - XII ZB 71/00
 - [BGH, Urteil vom 23.02.2005 - XII ZR 114/03](xii-zr-114-03.md) — Tatbestand: Die Parteien streiten um Abänderung der Unterhaltspflicht des Beklagten für seinen minderjährigen Sohn. Der am 23. Mai 1990 gebo
+- [BGH, Urteil vom 16.02.2005 - XII ZR 216/02](xii-zr-216-02.md) — Tatbestand: Der Kläger verlangt von dem Beklagten Ersatz des Schadens, den er durch den Brand des Wohnwagens des Beklagten erlitten hat. Die
+- [BGH, Beschluss vom 16.02.2005 - XII ZR 24/02](xii-zr-24-02.md) — . Die Rechtssache hat keine grundsätzliche Bedeutung. Die Frage, ob die bisherige Rechtsprechung des Bundesgerichtshofs zur analogen Anwendung des § 539 BGB a.F. auf Fälle, in …
+- [BGH, Beschluss vom 16.02.2005 - XII ZR 46/03](xii-zr-46-03.md) — . Der nach § 26 Nr. 8 EGZPO erforderliche Beschwerdewert von über 20.000 € ist entgegen den Angriffen der Beschwerdeführer nicht erreicht. a) Die Berechnung der Beschwer richtet …
 - [BGH, Beschluss vom 09.02.2005 - XII ZB 146/04](xii-zb-146-04.md) — BGH, Beschluss vom 09.02.2005 - XII ZB 146/04
+- [BGH, Beschluss vom 09.02.2005 - XII ZB 184/03](xii-zb-184-03.md) — I. Das Oberlandesgericht hat dem Kläger Prozeßkostenhilfe für das Berufungsverfahren mit einer monatlichen Ratenzahlung von 60 € bewilligt, da ihm nach der zugrunde gelegten …
+- [BGH, Beschluss vom 09.02.2005 - XII ZB 40/02](xii-zb-40-02.md) — I. Die minderjährige Isabel S. wurde am 10. Januar 1996 als Kind der miteinander verheirateten Antragsgegner geboren. Der Antragsteller ist der leibliche Vater von Isabel; er …
+- [BGH, Beschluss vom 09.02.2005 - XII ZB 48/04](xii-zb-48-04.md) — lediglich in Höhe der Regelbeträge nach § 2 der Regelbetrag-VO unterhaltspflichtig
 - [BGH, Beschluss vom 02.02.2005 - XII ZR 233/02](xii-zr-233-02.md) — BGH, Beschluss vom 02.02.2005 - XII ZR 233/02
 - [BGH, Beschluss vom 26.01.2005 - XII ZB 163/04](xii-zb-163-04.md) — BGH, Beschluss vom 26.01.2005 - XII ZB 163/04
 - [BGH, Beschluss vom 12.01.2005 - XII ZB 127/02](xii-zb-127-02.md) — BGH, Beschluss vom 12.01.2005 - XII ZB 127/02

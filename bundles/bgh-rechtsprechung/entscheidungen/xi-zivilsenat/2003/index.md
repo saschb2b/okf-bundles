@@ -1,31 +1,44 @@
 # XI. Zivilsenat – 2003
 
-27 Entscheidung(en).
+40 Entscheidung(en).
 
 - [BGH, Urteil vom 09.12.2003 - XI ZR 372/02](xi-zr-372-02.md) — Tatbestand:
 - [BGH, Beschluss vom 09.12.2003 - XI ZR 68/03](xi-zr-68-03.md) — BGH, Beschluss vom 09.12.2003 - XI ZR 68/03
 - [BGH, Urteil vom 02.12.2003 - XI ZR 429/02](xi-zr-429-02.md) — Tatbestand:
 - [BGH, Beschluss vom 18.11.2003 - XI ZA 15/03](xi-za-15-03.md) — BGH, Beschluss vom 18.11.2003 - XI ZA 15/03
 - [BGH, Beschluss vom 18.11.2003 - XI ZB 18/03](xi-zb-18-03.md) — BGH, Beschluss vom 18.11.2003 - XI ZB 18/03
-- [BGH, Urteil vom 11.11.2003 - XI ZR 21/03](xi-zr-21-03.md) — Tatbestand:
-- [BGH, Beschluss vom 30.09.2003 - XI ZR 466/02](xi-zr-466-02.md) — BGH, Beschluss vom 30.09.2003 - XI ZR 466/02
+- [BGH, Urteil vom 18.11.2003 - XI ZR 322/01](xi-zr-322-01.md) — Tatbestand:
+- [BGH, Beschluss vom 14.10.2003 - XI ZR 21/03](xi-zr-21-03.md) — Die Revision des Beklagten bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 30.09.2003 - XI ZR 466/02](xi-zr-466-02.md) — Divergenz rechtfertigt das schon deshalb nicht, weil das Berufungsgericht den von der Nichtzulassungsbeschwerde aufgezeigten abstrakten Rech
 - [BGH, Urteil vom 23.09.2003 - XI ZR 135/02](xi-zr-135-02.md) — Tatbestand:
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 25/03](xi-zr-25-03.md) — BGH, Beschluss vom 23.09.2003 - XI ZR 25/03
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 27/03](xi-zr-27-03.md) — BGH, Beschluss vom 23.09.2003 - XI ZR 27/03
+- [BGH, Beschluss vom 23.09.2003 - XI ZR 325/02](xi-zr-325-02.md) — Eine Vorlage an den Gerichtshof der Europäischen Gemeinschaften ist nach Auffassung des Senats nicht veranlaßt.
 - [BGH, Urteil vom 23.09.2003 - XI ZR 380/00](xi-zr-380-00.md) — Tatbestand:
+- [BGH, Beschluss vom 23.09.2003 - XI ZR 42/03](xi-zr-42-03.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 54/03](xi-zr-54-03.md) — BGH, Beschluss vom 23.09.2003 - XI ZR 54/03
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 78/03](xi-zr-78-03.md) — BGH, Beschluss vom 23.09.2003 - XI ZR 78/03
+- [BGH, Beschluss vom 16.09.2003 - XI ZR 447/02](xi-zr-447-02.md) — . Der Antrag der Kläger auf Prozeßkostenhilfe hat insoweit hinreichende Aussicht auf Erfolg, als das Berufungsgericht ihren Feststellungsantrag abgewiesen hat. Mit ihrem Antrag …
+- [BGH, Beschluss vom 16.09.2003 - XI ZR 464/02](xi-zr-464-02.md) — Die Nichtzulassungsbeschwerde des Beklagten ist unzulässig; der Wert des Beschwerdegegenstandes übersteigt die Wertgrenze von ¢¡¤¥ £ ¢¦§¦©¨§§ ¨  20.000 26 Nr.
+- [BGH, Urteil vom 24.06.2003 - XI ZR 100/02](xi-zr-100-02.md) — 3-
+- [BGH, Urteil vom 17.06.2003 - XI ZR 195/02](xi-zr-195-02.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 13.05.2003 - XI ZR 1/02](xi-zr-1-02.md) — 3-
+- [BGH, Urteil vom 29.04.2003 - XI ZR 201/02](xi-zr-201-02.md) — Tatbestand:
 - [BGH, Beschluss vom 11.04.2003 - XI ZB 5/03](xi-zb-5-03.md) — BGH, Beschluss vom 11.04.2003 - XI ZB 5/03
+- [BGH, Urteil vom 08.04.2003 - XI ZR 423/01](xi-zr-423-01.md) — Tatbestand:
+- [BGH, Beschluss vom 01.04.2003 - XI ZR 299/02](xi-zr-299-02.md) — Die Rechtssache hat entgegen der Ansicht der Beklagten weder grundsätzliche Bedeutung noch ist eine Entscheidung des Revisionsgerichts zur Sicherung einer einheitlichen …
 - [BGH, Beschluss vom 25.03.2003 - XI ZR 241/02](xi-zr-241-02.md) — BGH, Beschluss vom 25.03.2003 - XI ZR 241/02
-- [BGH, Beschluss vom 11.02.2003 - XI ZR 153/02](xi-zr-153-02.md) — BGH, Beschluss vom 11.02.2003 - XI ZR 153/02
+- [BGH, Beschluss vom 25.03.2003 - XI ZR 264/02](xi-zr-264-02.md) — der Plazierung der Unterschrift neben und oberhalb des Textes nicht eingegangen sei, kann dahinstehen, ob die Nichterwähnung dieses von der
+- [BGH, Beschluss vom 11.02.2003 - XI ZR 153/02](xi-zr-153-02.md) — Revisionszulassungsgründe im Sinne des § 543 Abs.
 - [BGH, Urteil vom 11.02.2003 - XI ZR 214/01](xi-zr-214-01.md) — Tatbestand:
-- [BGH, Urteil vom 04.02.2003 - XI ZR 117/02](xi-zr-117-02.md) — BGH, Urteil vom 04.02.2003 - XI ZR 117/02
+- [BGH, Urteil vom 04.02.2003 - XI ZR 117/02](xi-zr-117-02.md) — Tatbestand:
+- [BGH, Urteil vom 28.01.2003 - XI ZR 243/02](xi-zr-243-02.md) — Vermögenslosigkeit und/oder Löschung im Handelsregister als Rechtsperson untergegangen ist und aus diesem Grund die gegen sie gerichteten Fo
+- [BGH, Urteil vom 21.01.2003 - XI ZR 125/02](xi-zr-125-02.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2003 - XI ZR 145/02](xi-zr-145-02.md) — Tatbestand:
 - [BGH, Beschluss vom 13.01.2003 - XI ZR 14/02](xi-zr-14-02.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 14/02
 - [BGH, Beschluss vom 13.01.2003 - XI ZR 162/00](xi-zr-162-00.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 162/00
 - [BGH, Beschluss vom 13.01.2003 - XI ZR 18/02](xi-zr-18-02.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 18/02
 - [BGH, Beschluss vom 13.01.2003 - XI ZR 196/01](xi-zr-196-01.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 196/01
 - [BGH, Beschluss vom 13.01.2003 - XI ZR 28/02](xi-zr-28-02.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 28/02
 - [BGH, Beschluss vom 13.01.2003 - XI ZR 304/01](xi-zr-304-01.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 304/01
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 322/01](xi-zr-322-01.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 322/01
 - [BGH, Beschluss vom 13.01.2003 - XI ZR 338/01](xi-zr-338-01.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 338/01
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 390/01](xi-zr-390-01.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 390/01

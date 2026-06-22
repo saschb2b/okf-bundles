@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Urteil vom 26.05.2004 - VIII ZR 135/03"
-description: "Tatbestand: "
+description: "Tatbestand:"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2003/VIII_ZR_135-03.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "VIII. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2004-05-26
 aktenzeichen: "VIII ZR 135/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:17:20Z
+timestamp: 2026-06-22T14:09:23Z
 ---
 # Volltext
 

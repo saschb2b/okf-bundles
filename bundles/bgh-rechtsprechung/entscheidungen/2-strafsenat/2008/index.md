@@ -1,30 +1,87 @@
 # 2. Strafsenat – 2008
 
-26 Entscheidung(en).
+83 Entscheidung(en).
 
+- [BGH, Beschluss vom 19.12.2008 - 2 StR 401/08](2-str-401-08.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 17.12.2008 - 2 ARs 467/08](2-ars-467-08.md) — eines offensichtlichen Schreibversehens dahin berichtigt, dass es in Zeile 2 der Gründe statt § 81 a StPO heißen muss § 81 g StPO.
+- [BGH, Beschluss vom 17.12.2008 - 2 StR 461/08](2-str-461-08.md) — sexuellen Missbrauchs von Jugendlichen u. a.
+- [BGH, Beschluss vom 17.12.2008 - 2 StR 519/08](2-str-519-08.md) — Totschlags
+- [BGH, Beschluss vom 12.12.2008 - 2 ARs 517/08](2-ars-517-08.md) — Der Antrag war, wie der Generalbundesanwalt zutreffend dargelegt hat, zurückzuweisen, weil die aufgrund der Konzentrationswirkung des § 462 a Abs.
+- [BGH, Beschluss vom 12.12.2008 - 2 StR 479/08](2-str-479-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 10.12.2008 - 2 StR 338/08](2-str-338-08.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 05.12.2008 - 2 StR 424/08](2-str-424-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 03.12.2008 - 2 StR 500/08](2-str-500-08.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 28.11.2008 - 2 StR 501/08](2-str-501-08.md) — Das Landgericht hat im selbständigen Einziehungsverfahren nach § 76a StGB die Einziehung von drei im Eigentum des Nebenbeteiligten stehenden Computerfestplatten angeordnet.
+- [BGH, Beschluss vom 27.11.2008 - 2 StR 421/08](2-str-421-08.md) — erpresserischen Menschenraubes u.a.
+- [BGH, Beschluss vom 27.11.2008 - 2 StR 493/08](2-str-493-08.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 27.11.2008 - 2 StR 513/08](2-str-513-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Urteil vom 19.11.2008 - 2 StR 394/08](2-str-394-08.md) — Vergewaltigung
 - [BGH, Beschluss vom 12.11.2008 - 2 StR 416/08](2-str-416-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 12.11.2008 - 2 StR 474/08](2-str-474-08.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Entscheidung vom 31.10.2008 - 2 StR 378/08](2-str-378-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 15.10.2008 - 2 StR 331/08](2-str-331-08.md) — Mordes u. a.
+- [BGH, Beschluss vom 15.10.2008 - 2 StR 351/08](2-str-351-08.md) — schweren Raubes
+- [BGH, Beschluss vom 15.10.2008 - 2 StR 352/08](2-str-352-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 15.10.2008 - 2 StR 391/08](2-str-391-08.md) — Raubes u. a.
+- [BGH, Beschluss vom 15.10.2008 - 2 StR 392/08](2-str-392-08.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 15.10.2008 - 2 StR 442/08](2-str-442-08.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 01.10.2008 - 2 StR 360/08](2-str-360-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 17.09.2008 - 2 StR 326/08](2-str-326-08.md) — Diebstahls
+- [BGH, Beschluss vom 17.09.2008 - 2 StR 333/08](2-str-333-08.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 17.09.2008 - 2 StR 396/08](2-str-396-08.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 17.09.2008 - 2 StR 399/08](2-str-399-08.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 05.09.2008 - 2 StR 237/08](2-str-237-08.md) — versuchten schweren Raubes u. a.
+- [BGH, Urteil vom 03.09.2008 - 2 StR 305/08](2-str-305-08.md) — Totschlags u.a.
 - [BGH, Urteil vom 29.08.2008 - 2 StR 587/07](2-str-587-07.md) — Untreue u. a. Nebenbeteiligte:
 - [BGH, Beschluss vom 27.08.2008 - 2 StR 260/08](2-str-260-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 27.08.2008 - 2 StR 261/08](2-str-261-08.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.08.2008 - 2 StR 263/08](2-str-263-08.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 27.08.2008 - 2 StR 329/08](2-str-329-08.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 22.08.2008 - 2 StR 335/08](2-str-335-08.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 08.08.2008 - 2 StR 246/08](2-str-246-08.md) — bandenmäßigen Menschenhandels u. a.
 - [BGH, Beschluss vom 08.08.2008 - 2 StR 277/08](2-str-277-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 08.08.2008 - 2 StR 292/08](2-str-292-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 08.08.2008 - 2 StR 337/08](2-str-337-08.md) — schweren Raubes
+- [BGH, Beschluss vom 06.08.2008 - 2 StR 19/08](2-str-19-08.md) — Betruges u. a.
+- [BGH, Beschluss vom 30.07.2008 - 2 StR 234/08](2-str-234-08.md) — Vergewaltigung
+- [BGH, Beschluss vom 30.07.2008 - 2 StR 270/08](2-str-270-08.md) — Totschlags
 - [BGH, Beschluss vom 23.07.2008 - 2 StR 283/08](2-str-283-08.md) — schweren Raubes
 - [BGH, Beschluss vom 18.07.2008 - 2 StR 266/08](2-str-266-08.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 18.07.2008 - 2 StR 296/08](2-str-296-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 16.07.2008 - 2 StR 230/08](2-str-230-08.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 16.07.2008 - 2 StR 250/08](2-str-250-08.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 16.07.2008 - 2 StR 83/08](2-str-83-08.md) — Mordes u. a.
+- [BGH, Beschluss vom 02.07.2008 - 2 ARs 217/08](2-ars-217-08.md) — unerlaubtem gewerbsmäßigem Handeltreiben mit Betäubungsmitteln
 - [BGH, Beschluss vom 25.06.2008 - 2 StR 226/08](2-str-226-08.md) — räuberischen Diebstahls u. a.
 - [BGH, Beschluss vom 18.06.2008 - 2 ARs 246/08](2-ars-246-08.md) — vorsätzlicher Körperverletzung
+- [BGH, Beschluss vom 18.06.2008 - 2 StR 144/08](2-str-144-08.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 18.06.2008 - 2 StR 179/08](2-str-179-08.md) — Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 18.06.2008 - 2 StR 198/08](2-str-198-08.md) — Raubes u. a.
+- [BGH, Beschluss vom 13.06.2008 - 2 StR 213/08](2-str-213-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 28.05.2008 - 2 ARs 214/08](2-ars-214-08.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 28.05.2008 - 2 StR 140/08](2-str-140-08.md) — Erpressung
+- [BGH, Beschluss vom 28.05.2008 - 2 StR 96/08](2-str-96-08.md) — gewerbsmäßiger Bandenhehlerei
+- [BGH, Beschluss vom 15.05.2008 - 2 ARs 452/07](2-ars-452-07.md) — falscher uneidlicher Aussage u. a.
+- [BGH, Beschluss vom 14.05.2008 - 2 ARs 168/08](2-ars-168-08.md) — Die Staatsanwaltschaft in Köln hat gegen den in Essen wohnhaften K.B.
+- [BGH, Beschluss vom 14.05.2008 - 2 StR 169/08](2-str-169-08.md) — Mordes
+- [BGH, Beschluss vom 07.05.2008 - 2 StR 154/08](2-str-154-08.md) — Beihilfe zum schweren Raub
 - [BGH, Beschluss vom 30.04.2008 - 2 StR 10/08](2-str-10-08.md) — Wohnungseinbruchsdiebstahls u. a.
 - [BGH, Beschluss vom 30.04.2008 - 2 StR 123/08](2-str-123-08.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 30.04.2008 - 2 StR 51/08](2-str-51-08.md) — versuchter schwerer Brandstiftung u. a.
+- [BGH, Urteil vom 02.04.2008 - 2 StR 621/07](2-str-621-07.md) — Mordes
+- [BGH, Beschluss vom 26.03.2008 - 2 ARs 84/08](2-ars-84-08.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 26.03.2008 - 2 StR 25/08](2-str-25-08.md) — Geiselnahme u.a.
+- [BGH, Beschluss vom 26.03.2008 - 2 StR 90/08](2-str-90-08.md) — versuchten Menschenhandels u.a.
 - [BGH, Beschluss vom 05.03.2008 - 2 ARs 24/08](2-ars-24-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 05.03.2008 - 2 StR 54/08](2-str-54-08.md) — Beihilfe zur schweren räuberischen Erpressung
 - [BGH, Beschluss vom 05.03.2008 - 2 StR 56/08](2-str-56-08.md) — Betruges u.a.
+- [BGH, Urteil vom 05.03.2008 - 2 StR 626/07](2-str-626-07.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 27.02.2008 - 2 ARs 70/08](2-ars-70-08.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 27.02.2008 - 2 StR 593/07](2-str-593-07.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 20.02.2008 - 2 StR 619/07](2-str-619-07.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 20.02.2008 - 2 StR 9/08](2-str-9-08.md) — BGH, Beschluss vom 20.02.2008 - 2 StR 9/08
 - [BGH, Beschluss vom 15.02.2008 - 2 StR 589/07](2-str-589-07.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 13.02.2008 - 2 StR 406/07](2-str-406-07.md) — Betruges u. a.
 - [BGH, Beschluss vom 11.02.2008 - 2 StR 603/07](2-str-603-07.md) — Totschlags
-- [BGH, Beschluss vom 11.02.2008 - 2 StR 626/07](2-str-626-07.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 06.02.2008 - 2 StR 583/07](2-str-583-07.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 23.01.2008 - 2 StR 426/07](2-str-426-07.md) — schwerer Brandstiftung

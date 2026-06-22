@@ -9,7 +9,7 @@ datum: 2000-02-02
 aktenzeichen: "XII ZR 25/98"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:09:35Z
+timestamp: 2026-06-22T14:01:20Z
 ---
 # Volltext
 

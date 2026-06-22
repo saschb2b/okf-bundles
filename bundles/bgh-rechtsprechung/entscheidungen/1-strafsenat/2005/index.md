@@ -1,31 +1,56 @@
 # 1. Strafsenat – 2005
 
-27 Entscheidung(en).
+52 Entscheidung(en).
 
+- [BGH, Beschluss vom 15.12.2005 - 1 StR 411/05](1-str-411-05.md) — schweren Bandendiebstahls u.a.
 - [BGH, Beschluss vom 06.12.2005 - 1 StR 445/05](1-str-445-05.md) — Betruges u.a.
+- [BGH, Beschluss vom 24.11.2005 - 1 StR 169/05](1-str-169-05.md) — Brandstiftung u.a.
 - [BGH, Beschluss vom 24.11.2005 - 1 StR 443/05](1-str-443-05.md) — Geldfälschung u.a.
 - [BGH, Beschluss vom 24.11.2005 - 1 StR 464/05](1-str-464-05.md) — Vergewaltigung
 - [BGH, Beschluss vom 23.11.2005 - 1 StR 474/05](1-str-474-05.md) — Geiselnahme u.a.
+- [BGH, Beschluss vom 09.11.2005 - 1 StR 447/05](1-str-447-05.md) — Verletzung der §§ 136 Abs. 1 Satz 2, 163a Abs. 4 Satz 2 StPO oder sonstiger Belehrungspflichten aus dem Grundsatz des fairen Verfahrens kann
+- [BGH, Beschluss vom 09.11.2005 - 1 StR 478/05](1-str-478-05.md) — Betruges
 - [BGH, Beschluss vom 08.11.2005 - 1 StR 268/05](1-str-268-05.md) — versuchten schweren Raubes u.a.
+- [BGH, Beschluss vom 08.11.2005 - 1 StR 389/05](1-str-389-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.11.2005 - 1 StR 455/05](1-str-455-05.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 27.10.2005 - 1 StR 218/05](1-str-218-05.md) — Totschlags
+- [BGH, Entscheidung vom 26.10.2005 - 1 StR 412/05](1-str-412-05.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 26.10.2005 - 1 StR 435/05](1-str-435-05.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 25.10.2005 - 1 StR 320/05](1-str-320-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 25.10.2005 - 1 StR 328/05](1-str-328-05.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 18.10.2005 - 1 StR 365/05](1-str-365-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 12.10.2005 - 1 StR 364/05](1-str-364-05.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 11.10.2005 - 1 StR 250/05](1-str-250-05.md) — zu 1. Verdachts des Mordes zu 2. Verdachts der Anstiftung zum Mord
+- [BGH, Beschluss vom 11.10.2005 - 1 StR 344/05](1-str-344-05.md) — zu 1. u. 3.: bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 20.09.2005 - 1 StR 288/05](1-str-288-05.md) — Körperverletzung mit Todesfolge
 - [BGH, Urteil vom 20.09.2005 - 1 StR 86/05](1-str-86-05.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 19.09.2005 - 1 StR 274/05](1-str-274-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 19.09.2005 - 1 StR 296/05](1-str-296-05.md) — sexuellen Missbrauchs von Kindern
+- [BGH, Entscheidung vom 08.09.2005 - 1 StR 323/05](1-str-323-05.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 06.09.2005 - 1 StR 363/05](1-str-363-05.md) — Vergewaltigung
 - [BGH, Beschluss vom 06.09.2005 - 1 StR 366/05](1-str-366-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 24.08.2005 - 1 StR 162/05](1-str-162-05.md) — Körperverletzung
 - [BGH, Beschluss vom 10.08.2005 - 1 StR 271/05](1-str-271-05.md) — besonders schwerer Vergewaltigung
 - [BGH, Urteil vom 09.08.2005 - 1 StR 99/05](1-str-99-05.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 27.07.2005 - 1 StR 208/05](1-str-208-05.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 22.07.2005 - 1 StR 84/05](1-str-84-05.md) — versuchter Anstiftung zum Mord
+- [BGH, Beschluss vom 12.07.2005 - 1 StR 258/05](1-str-258-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 30.06.2005 - 1 StR 176/05](1-str-176-05.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 29.06.2005 - 1 StR 149/05](1-str-149-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 29.06.2005 - 1 StR 222/05](1-str-222-05.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 28.06.2005 - 1 StR 177/05](1-str-177-05.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 28.06.2005 - 1 StR 178/05](1-str-178-05.md) — schwerer Körperverletzung
 - [BGH, Beschluss vom 28.06.2005 - 1 StR 235/05](1-str-235-05.md) — versuchten Totschlags u. a.
+- [BGH, Urteil vom 15.06.2005 - 1 StR 499/04](1-str-499-04.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Urteil vom 31.05.2005 - 1 StR 290/04](1-str-290-04.md) — Mordes
+- [BGH, Urteil vom 11.05.2005 - 1 StR 37/05](1-str-37-05.md) — nachträglicher Anordnung der Sicherungsverwahrung
+- [BGH, Beschluss vom 20.04.2005 - 1 StR 120/05](1-str-120-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 20.04.2005 - 1 StR 123/05](1-str-123-05.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 20.04.2005 - 1 StR 552/04](1-str-552-04.md) — Beihilfe zur gefährlichen Körperverletzung
 - [BGH, Urteil vom 07.04.2005 - 1 StR 326/04](1-str-326-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 06.04.2005 - 1 StR 60/05](1-str-60-05.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln
+- [BGH, Entscheidung vom 30.03.2005 - 1 StR 537/04](1-str-537-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 17.03.2005 - 1 StR 82/05](1-str-82-05.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 24.02.2005 - 1 StR 33/05](1-str-33-05.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 15.02.2005 - 1 StR 91/04](1-str-91-04.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 12.01.2005 - 1 StR 476/04](1-str-476-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.

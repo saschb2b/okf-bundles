@@ -1,7 +1,7 @@
 ---
 type: Gerichtsentscheidung
 title: "BGH, Urteil vom 17.12.2009 - III ZR 5/08"
-description: "Tatbestand "
+description: "Tatbestand"
 resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2008/III_ZR___5-08.pdf?__blob=publicationFile&v=1
 gericht: Bundesgerichtshof
 senat: "III. Zivilsenat"
@@ -9,7 +9,7 @@ datum: 2009-12-17
 aktenzeichen: "III ZR 5/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:31:01Z
+timestamp: 2026-06-22T14:24:00Z
 ---
 # Volltext
 

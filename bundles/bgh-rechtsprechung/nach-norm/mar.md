@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu MAR"
 description: "BGH-Entscheidungen zu MAR, geordnet nach Vorschrift."
 tags: [register, navigation, mar]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

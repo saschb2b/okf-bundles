@@ -9,7 +9,7 @@ datum: 2002-05-08
 aktenzeichen: "XII ZR 8/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:13:28Z
+timestamp: 2026-06-22T14:05:11Z
 ---
 # Volltext
 

@@ -1,15 +1,48 @@
 # I. Zivilsenat – 2002
 
-25 Entscheidung(en).
+72 Entscheidung(en).
 
+- [BGH, Beschluss vom 19.12.2002 - I ZB 21/00](i-zb-21-00.md) — fehlender Unterscheidungskraft nach § 8 Abs. 2 Nr. 1 MarkenG zurückgewiesen.
+- [BGH, Urteil vom 19.12.2002 - I ZR 160/00](i-zr-160-00.md) — derselben Wettbewerbshandlung mit einem anderen Unterlassungsgläubiger in einer laufenden wettbewerbsrechtlichen Auseinandersetzung befindet
+- [BGH, Urteil vom 12.12.2002 - I ZR 124/00](i-zr-124-00.md) — 3-
 - [BGH, Urteil vom 12.12.2002 - I ZR 133/00](i-zr-133-00.md) — BGH, Urteil vom 12.12.2002 - I ZR 133/00
+- [BGH, Urteil vom 12.12.2002 - I ZR 141/00](i-zr-141-00.md) — 3-
+- [BGH, Beschluss vom 05.12.2002 - I ZB 19/00](i-zb-19-00.md) — I. Die Antragstellerin begehrt die teilweise Löschung der Wortmarke Nr. 396 19 425 "Winnetou" und zwar bezüglich der Waren und Dienstleistungen "Druckereierzeugnisse …
+- [BGH, Urteil vom 05.12.2002 - I ZR 115/00](i-zr-115-00.md) — ihrer Werbewirkung mit den Regeln des lauteren Wettbewerbs vereinbar sein.
 - [BGH, Beschluss vom 05.12.2002 - I ZR 220/02](i-zr-220-02.md) — BGH, Beschluss vom 05.12.2002 - I ZR 220/02
-- [BGH, Urteil vom 28.11.2002 - I ZR 110/00](i-zr-110-00.md) — BGH, Urteil vom 28.11.2002 - I ZR 110/00
+- [BGH, Urteil vom 28.11.2002 - I ZR 110/00](i-zr-110-00.md) — 3Tatbestand:
+- [BGH, Urteil vom 28.11.2002 - I ZR 204/00](i-zr-204-00.md) — BGH, Urteil vom 28.11.2002 - I ZR 204/00
 - [BGH, Urteil vom 14.11.2002 - I ZR 134/00](i-zr-134-00.md) — Tatbestand:
 - [BGH, Urteil vom 14.11.2002 - I ZR 137/00](i-zr-137-00.md) — BGH, Urteil vom 14.11.2002 - I ZR 137/00
 - [BGH, Urteil vom 14.11.2002 - I ZR 199/00](i-zr-199-00.md) — BGH, Urteil vom 14.11.2002 - I ZR 199/00
+- [BGH, Urteil vom 31.10.2002 - I ZR 132/00](i-zr-132-00.md) — 3-
 - [BGH, Urteil vom 31.10.2002 - I ZR 138/00](i-zr-138-00.md) — BGH, Urteil vom 31.10.2002 - I ZR 138/00
-- [BGH, Urteil vom 10.10.2002 - I ZR 235/00](i-zr-235-00.md) — BGH, Urteil vom 10.10.2002 - I ZR 235/00
+- [BGH, Beschluss vom 31.10.2002 - I ZR 63/02](i-zr-63-02.md) — BGH, Beschluss vom 31.10.2002 - I ZR 63/02
+- [BGH, Beschluss vom 31.10.2002 - I ZR 90/02](i-zr-90-02.md) — BGH, Beschluss vom 31.10.2002 - I ZR 90/02
+- [BGH, Urteil vom 10.10.2002 - I ZR 235/00](i-zr-235-00.md) — Tatbestand:
+- [BGH, Urteil vom 26.09.2002 - I ZR 102/00](i-zr-102-00.md) — 3-
+- [BGH, Urteil vom 26.09.2002 - I ZR 44/00](i-zr-44-00.md) — Tatbestand:
+- [BGH, Beschluss vom 11.07.2002 - I ZB 18/02](i-zb-18-02.md) — I. Der Antragsteller begehrt die Gewährung von Prozeßkostenhilfe für einen Antrag auf Erlaß einer einstweiligen Verfügung gegen die Antragsgegnerin. Das Landgericht hat diesen …
+- [BGH, Beschluss vom 11.07.2002 - I ZB 24/99](i-zb-24-99.md) — eines Freihaltebedürfnisses nach § 4 Abs. 2 Nr. 1 Altern. 2 WZG versagt.
+- [BGH, Beschluss vom 11.07.2002 - I ZR 219/01](i-zr-219-01.md) — lag, daß die beanstandete Anzeige in einer bundesweit verbreiteten Publi-
+- [BGH, Urteil vom 11.07.2002 - I ZR 255/00](i-zr-255-00.md) — Tatbestand:
+- [BGH, Urteil vom 11.07.2002 - I ZR 285/99](i-zr-285-99.md) — 3-
+- [BGH, Urteil vom 11.07.2002 - I ZR 34/01](i-zr-34-01.md) — ihrer überwiegenden Bestimmung, zu anderen Zwecken als zur Ernährung oder zum Genuß verzehrt zu werden, als Mittel zur Beeinflussung des Zus
+- [BGH, Urteil vom 11.07.2002 - I ZR 35/00](i-zr-35-00.md) — BGH, Urteil vom 11.07.2002 - I ZR 35/00
+- [BGH, Urteil vom 11.07.2002 - I ZR 36/00](i-zr-36-00.md) — Tatbestand:
+- [BGH, Urteil vom 04.07.2002 - I ZR 302/99](i-zr-302-99.md) — Tatbestand:
+- [BGH, Urteil vom 04.07.2002 - I ZR 313/99](i-zr-313-99.md) — Tatbestand:
+- [BGH, Urteil vom 04.07.2002 - I ZR 38/00](i-zr-38-00.md) — Tatbestand:
+- [BGH, Urteil vom 27.06.2002 - I ZR 103/00](i-zr-103-00.md) — Tatbestand:
+- [BGH, Urteil vom 27.06.2002 - I ZR 19/00](i-zr-19-00.md) — 3Tatbestand:
+- [BGH, Beschluss vom 27.06.2002 - I ZR 40/02](i-zr-40-02.md) — der Versäumung der Frist zur Einlegung der Revision gegen das Urteil des 3. Zivilsenats des Oberlandesgerichts Bamberg vom 12. Dezember 2001
+- [BGH, Urteil vom 27.06.2002 - I ZR 86/00](i-zr-86-00.md) — Tatbestand:
+- [BGH, Beschluss vom 13.06.2002 - I ZB 1/00](i-zb-1-00.md) — I. Die Anmelderin begehrt mit ihrer am 4. März 1998 eingereichten Anmeldung die Eintragung der Wortfolge "Bar jeder Vernunft" für eine Vielzahl von Waren und Dienstleistungen der …
+- [BGH, Urteil vom 13.06.2002 - I ZR 1/00](i-zr-1-00.md) — Tatbestand:
+- [BGH, Urteil vom 13.06.2002 - I ZR 173/01](i-zr-173-01.md) — 3-
+- [BGH, Urteil vom 13.06.2002 - I ZR 312/99](i-zr-312-99.md) — Tatbestand:
+- [BGH, Urteil vom 13.06.2002 - I ZR 71/01](i-zr-71-01.md) — 3-
+- [BGH, Urteil vom 13.06.2002 - I ZR 72/01](i-zr-72-01.md) — 3-
 - [BGH, Beschluss vom 06.06.2002 - I ZB 5/02](i-zb-5-02.md) — BGH, Beschluss vom 06.06.2002 - I ZB 5/02
 - [BGH, Beschluss vom 06.06.2002 - I ZB 9/02](i-zb-9-02.md) — BGH, Beschluss vom 06.06.2002 - I ZB 9/02
 - [BGH, Urteil vom 06.06.2002 - I ZR 108/00](i-zr-108-00.md) — BGH, Urteil vom 06.06.2002 - I ZR 108/00
@@ -18,12 +51,26 @@
 - [BGH, Urteil vom 06.06.2002 - I ZR 307/99](i-zr-307-99.md) — Tatbestand:
 - [BGH, Urteil vom 06.06.2002 - I ZR 45/00](i-zr-45-00.md) — BGH, Urteil vom 06.06.2002 - I ZR 45/00
 - [BGH, Urteil vom 06.06.2002 - I ZR 79/00](i-zr-79-00.md) — positiver Vertragsverletzung schadensersatzpflichtig machen, wenn er es unterließ, vor der Auswertung der Neuaufnahme seiner Darbietung eine
+- [BGH, Beschluss vom 04.06.2002 - I ZB 28/01](i-zb-28-01.md) — Versäumung der Berufungsbegründungsfrist beantragt. Diese lief am 20. August 2001 ab. Die Berufungsbegründung ging erst am 21. August 2001 b
+- [BGH, Beschluss vom 08.05.2002 - I ZR 232/01](i-zr-232-01.md) — BGH, Beschluss vom 08.05.2002 - I ZR 232/01
+- [BGH, Beschluss vom 08.05.2002 - I ZR 256/01](i-zr-256-01.md) — BGH, Beschluss vom 08.05.2002 - I ZR 256/01
+- [BGH, Urteil vom 08.05.2002 - I ZR 98/00](i-zr-98-00.md) — Tatbestand:
 - [BGH, Beschluss vom 18.04.2002 - I ZB 22/99](i-zb-22-99.md) — BGH, Beschluss vom 18.04.2002 - I ZB 22/99
 - [BGH, Beschluss vom 18.04.2002 - I ZB 23/99](i-zb-23-99.md) — BGH, Beschluss vom 18.04.2002 - I ZB 23/99
 - [BGH, Urteil vom 18.04.2002 - I ZR 262/99](i-zr-262-99.md) — BGH, Urteil vom 18.04.2002 - I ZR 262/99
 - [BGH, Urteil vom 18.04.2002 - I ZR 72/99](i-zr-72-99.md) — Tatbestand:
+- [BGH, Beschluss vom 11.04.2002 - I ZB 6/02](i-zb-6-02.md) — greifbarer Gesetzwidrigkeit kann nur in Betracht kommen, wenn die angegriffene Entscheidung jeder rechtlichen Grundlage entbehrt oder mit de
+- [BGH, Urteil vom 11.04.2002 - I ZR 185/99](i-zr-185-99.md) — Tatbestand:
+- [BGH, Urteil vom 11.04.2002 - I ZR 225/99](i-zr-225-99.md) — übertriebenen Anlockens der Hörer zu begründen.
+- [BGH, Urteil vom 11.04.2002 - I ZR 231/99](i-zr-231-99.md) — Tatbestand:
+- [BGH, Urteil vom 11.04.2002 - I ZR 306/99](i-zr-306-99.md) — Tatbestand:
+- [BGH, Urteil vom 11.04.2002 - I ZR 317/99](i-zr-317-99.md) — BGH, Urteil vom 11.04.2002 - I ZR 317/99
 - [BGH, Beschluss vom 28.02.2002 - I ZB 10/99](i-zb-10-99.md) — BGH, Beschluss vom 28.02.2002 - I ZB 10/99
 - [BGH, Urteil vom 28.02.2002 - I ZR 177/99](i-zr-177-99.md) — der langfristigen Einstellung des Betriebs nicht auf einer selbstbestimmten unternehmerischen Entscheidung, sondern auf der durch die Teilun
 - [BGH, Urteil vom 28.02.2002 - I ZR 195/99](i-zr-195-99.md) — BGH, Urteil vom 28.02.2002 - I ZR 195/99
 - [BGH, Urteil vom 28.02.2002 - I ZR 318/99](i-zr-318-99.md) — BGH, Urteil vom 28.02.2002 - I ZR 318/99
+- [BGH, Beschluss vom 27.02.2002 - I ZB 23/01](i-zb-23-01.md) — der Versäumung der Berufungsfrist gegen das Urteil der 7. Zivilkammer des Landgerichts Bremen vom 26. April 2001 Wiedereinsetzung in den vor
 - [BGH, Urteil vom 21.02.2002 - I ZR 230/99](i-zr-230-99.md) — Tatbestand:
+- [BGH, Beschluss vom 07.02.2002 - I ZR 258/98](i-zr-258-98.md) — BGH, Beschluss vom 07.02.2002 - I ZR 258/98
+- [BGH, Urteil vom 07.02.2002 - I ZR 289/99](i-zr-289-99.md) — Tatbestand:
+- [BGH, Urteil vom 07.02.2002 - I ZR 304/99](i-zr-304-99.md) — rechtswidriger Verwertung der Bearbeitung und wegen Verletzung des Urheberpersönlichkeitsrechts in einem solchen Fall.

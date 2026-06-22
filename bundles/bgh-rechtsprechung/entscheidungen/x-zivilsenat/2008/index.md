@@ -1,23 +1,47 @@
 # X. Zivilsenat – 2008
 
-19 Entscheidung(en).
+43 Entscheidung(en).
 
+- [BGH, Beschluss vom 16.12.2008 - X ZB 29/07](x-zb-29-07.md) — BGH, Beschluss vom 16.12.2008 - X ZB 29/07
+- [BGH, Beschluss vom 09.12.2008 - X ZB 6/08](x-zb-6-08.md) — I. Die Rechtsbeschwerdeführerin hat das Patent 199 60 796, das ei- ne Ventilsteuerung betrifft, am 5. Mai 2004 mit dem Einspruch angegriffen. 2 Das Patentgericht hat das Patent …
 - [BGH, Beschluss vom 09.12.2008 - X ZR 105/06](x-zr-105-06.md) — BGH, Beschluss vom 09.12.2008 - X ZR 105/06
 - [BGH, Urteil vom 09.12.2008 - X ZR 124/05](x-zr-124-05.md) — Tatbestand:
-- [BGH, Beschluss vom 02.12.2008 - X ZB 33/07](x-zb-33-07.md) — BGH, Beschluss vom 02.12.2008 - X ZB 33/07
+- [BGH, Beschluss vom 02.12.2008 - X ZB 33/07](x-zb-33-07.md) — I. Die Rechtsbeschwerdeführerin ist Inhaberin des am 8. April 1995 angemeldeten deutschen Patents 195 13 361 (Streitpatents), das die Patentab- teilung widerrufen hat. Im …
 - [BGH, Urteil vom 02.12.2008 - X ZR 145/04](x-zr-145-04.md) — BGH, Urteil vom 02.12.2008 - X ZR 145/04
 - [BGH, Beschluss vom 02.12.2008 - X ZR 159/05](x-zr-159-05.md) — BGH, Beschluss vom 02.12.2008 - X ZR 159/05
+- [BGH, Urteil vom 19.11.2008 - X ZR 39/08](x-zr-39-08.md) — Eintritts der Verjährung wurden das Versäumnisurteil in der
+- [BGH, Beschluss vom 14.10.2008 - X ZB 4/08](x-zb-4-08.md) — der Wie-
 - [BGH, Beschluss vom 14.10.2008 - X ZB 5/08](x-zb-5-08.md) — der Wiedergabe des Patentanspruchs 1 wird auf den
 - [BGH, Urteil vom 14.10.2008 - X ZR 15/08](x-zr-15-08.md) — Tatbestand:
 - [BGH, Beschluss vom 14.10.2008 - X ZR 35/08](x-zr-35-08.md) — Fehlens einer Ersatzmaschine bei Ergreifen aller zumutbaren Maßnahmen nicht vermieden worden wäre?
-- [BGH, Beschluss vom 08.07.2008 - X ZB 32/06](x-zb-32-06.md) — BGH, Beschluss vom 08.07.2008 - X ZB 32/06
+- [BGH, Urteil vom 07.10.2008 - X ZR 170/03](x-zr-170-03.md) — 3Tatbestand:
+- [BGH, Urteil vom 07.10.2008 - X ZR 37/08](x-zr-37-08.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2008 - X ZR 86/07](x-zr-86-07.md) — 3Tatbestand:
+- [BGH, Beschluss vom 23.09.2008 - X ZB 31/07](x-zb-31-07.md) — I. Das Landgericht hat die Klage auf Zahlung von Mängelbeseitigungs- kosten aus einem Werkvertrag durch Urteil vom 19. Januar 2007 abgewiesen. Gegen das am 5. Februar 2007 …
+- [BGH, Beschluss vom 16.09.2008 - X ZB 28/07](x-zb-28-07.md) — Verletzung des Anspruchs auf rechtliches Gehör nicht zur Überprüfung gestellt werden.
+- [BGH, Beschluss vom 16.09.2008 - X ZR 181/03](x-zr-181-03.md) — offenbarer Unrichtigkeit dahin berichtigt, dass in den Entscheidungsgründen (Textzahl 24) die Paragraphenangabe "§ 632 Abs. 2 BGB" durch die
+- [BGH, Urteil vom 16.09.2008 - X ZR 49/04](x-zr-49-04.md) — Tatbestand:
+- [BGH, Entscheidung vom 16.09.2008 - X ZR 93/07](x-zr-93-07.md) — offenbarer Unrichtigkeit nach § 319 Abs. 1 ZPO dahin berichtigt, dass das Zitat unter Randnummer 11 der Entscheidungsgründe (Umdruck S. 7 er
+- [BGH, Beschluss vom 15.07.2008 - X ZB 17/08](x-zb-17-08.md) — I. 1 Das vorliegende Beschwerdeverfahren bezieht sich auf eine von den An- tragsgegnerinnen, den Allgemeinen Ortskrankenkassen der Bundesrepublik Deutschland, Anfang August 2007 …
+- [BGH, Beschluss vom 08.07.2008 - X ZB 1/08](x-zb-1-08.md) — der Formulierung des Pa-
+- [BGH, Beschluss vom 08.07.2008 - X ZB 32/06](x-zb-32-06.md) — der auf Schutzanspruch 1 unmittelbar oder mittelbar rückbezoge-
+- [BGH, Beschluss vom 24.06.2008 - X ZR 100/05](x-zr-100-05.md) — I. Der in dem Patentnichtigkeitsberufungsverfahren als gerichtlicher Sachverständiger bestellte Antragsteller Prof. Dr. N. hat für das von ihm er- -3- stattete Gutachten zunächst …
+- [BGH, Beschluss vom 24.06.2008 - X ZR 3/08](x-zr-3-08.md) — Nachdem die Klägerin die Klage zurückgenommen hat, richtet sich die Kostenfolge nach § 269 Abs.
+- [BGH, Beschluss vom 10.06.2008 - X ZA 1/08](x-za-1-08.md) — I. Das Oberlandesgericht Karlsruhe hat die Bestimmung des für Amtshaf- tungsklagen zuständigen Gerichts abgelehnt und den Antragstellern die Kosten des Bestimmungsverfahrens …
 - [BGH, Urteil vom 10.06.2008 - X ZR 78/07](x-zr-78-07.md) — Tatbestand:
 - [BGH, Beschluss vom 27.05.2008 - X ZB 31/06](x-zb-31-06.md) — BGH, Beschluss vom 27.05.2008 - X ZB 31/06
-- [BGH, Urteil vom 06.05.2008 - X ZR 174/04](x-zr-174-04.md) — BGH, Urteil vom 06.05.2008 - X ZR 174/04
+- [BGH, Beschluss vom 27.05.2008 - X ZR 125/06](x-zr-125-06.md) — Der Senat hat den Streitwert für das Nichtigkeitsberufungsverfahren durch den angegriffenen, nicht begründeten Beschluss auf 2 Millionen Euro festgesetzt und ist damit von der …
+- [BGH, Beschluss vom 20.05.2008 - X ZB 5/07](x-zb-5-07.md) — offenbarer Unrichtigkeit zu berichtigen. Wie es auch das Rubrum des Be-
+- [BGH, Beschluss vom 06.05.2008 - X ZB 2/08](x-zb-2-08.md) — I. Der Antragsteller wünscht Prozesskostenhilfe für eine Schadensersatz- klage gegen die Antragsgegnerin, die er auf Verletzung von Vergabevorschrif- ten in einem öffentlichen …
 - [BGH, Beschluss vom 06.05.2008 - X ZR 81/06](x-zr-81-06.md) — BGH, Beschluss vom 06.05.2008 - X ZR 81/06
 - [BGH, Beschluss vom 05.05.2008 - X ZB 36/07](x-zb-36-07.md) — Patentverletzung in Anspruch. Die Klageschrift ist der Beklag-
+- [BGH, Beschluss vom 22.04.2008 - X ZB 18/07](x-zb-18-07.md) — Versäumung der Beru-
+- [BGH, Beschluss vom 22.04.2008 - X ZR 76/07](x-zr-76-07.md) — I. Der Kläger, der seinen Wohnsitz in München hat, buchte bei der Beklagten, deren Geschäftssitz sich in Riga befindet, einen Flug von München nach Vilnius. Etwa 30 Minuten vor …
+- [BGH, Urteil vom 01.04.2008 - X ZR 115/03](x-zr-115-03.md) — 3-
+- [BGH, Urteil vom 01.04.2008 - X ZR 150/05](x-zr-150-05.md) — Tatbestand:
 - [BGH, Urteil vom 26.03.2008 - X ZR 70/06](x-zr-70-06.md) — Tatbestand:
 - [BGH, Beschluss vom 27.02.2008 - X ZB 10/07](x-zb-10-07.md) — BGH, Beschluss vom 27.02.2008 - X ZB 10/07
 - [BGH, Beschluss vom 27.02.2008 - X ZB 16/07](x-zb-16-07.md) — mangelnder Patentfähigkeit
-- [BGH, Beschluss vom 22.01.2008 - X ZB 27/07](x-zb-27-07.md) — BGH, Beschluss vom 22.01.2008 - X ZB 27/07
-- [BGH, Beschluss vom 08.01.2008 - X ZB 26/07](x-zb-26-07.md) — BGH, Beschluss vom 08.01.2008 - X ZB 26/07
+- [BGH, Urteil vom 27.02.2008 - X ZR 75/03](x-zr-75-03.md) — Tatbestand:
+- [BGH, Beschluss vom 22.01.2008 - X ZB 27/07](x-zb-27-07.md) — grundsätzlicher
+- [BGH, Beschluss vom 08.01.2008 - X ZB 26/07](x-zb-26-07.md) — I. Der Kläger hat im November 2006 vor dem Amtsgericht F. Zahlungsklage gegen die Beklagte erhoben, wobei er diese im Rubrum seiner Klageschrift wie folgt bezeichnet hat: C. Ltd …

@@ -1,11 +1,22 @@
 # 3. Strafsenat – 2005
 
-48 Entscheidung(en).
+81 Entscheidung(en).
 
+- [BGH, Beschluss vom 22.12.2005 - 3 StR 413/05](3-str-413-05.md) — Betruges u. a.
+- [BGH, Beschluss vom 20.12.2005 - 3 StR 405/05](3-str-405-05.md) — Mordes u. a.
 - [BGH, Beschluss vom 20.12.2005 - 3 StR 406/05](3-str-406-05.md) — unerlaubten Führens einer halbautomatischen Kurzwaffe u. a.
+- [BGH, Beschluss vom 20.12.2005 - 3 StR 407/05](3-str-407-05.md) — Betrugs u. a.
 - [BGH, Beschluss vom 20.12.2005 - 3 StR 424/05](3-str-424-05.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 13.12.2005 - 3 StR 386/05](3-str-386-05.md) — Körperverletzung
+- [BGH, Beschluss vom 13.12.2005 - 3 StR 393/05](3-str-393-05.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 13.12.2005 - 3 StR 402/05](3-str-402-05.md) — Totschlags
 - [BGH, Urteil vom 01.12.2005 - 3 StR 243/05](3-str-243-05.md) — Mordes
+- [BGH, Beschluss vom 01.12.2005 - 3 StR 382/05](3-str-382-05.md) — schweren Bandendiebstahls u. a.
+- [BGH, Beschluss vom 29.11.2005 - 3 StR 356/05](3-str-356-05.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 15.11.2005 - 3 StR 327/05](3-str-327-05.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 08.11.2005 - 3 StR 370/05](3-str-370-05.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 08.11.2005 - 3 StR 372/05](3-str-372-05.md) — Wohnungseinbruchsdiebstahls u.a.
+- [BGH, Beschluss vom 03.11.2005 - 3 StR 345/05](3-str-345-05.md) — schweren sexuellen Missbrauchs von Kindern u. a.; hier: Anordnung der nachträglichen Sicherungsverwahrung
 - [BGH, Beschluss vom 18.10.2005 - 3 StR 316/05](3-str-316-05.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 18.10.2005 - 3 StR 342/05](3-str-342-05.md) — Mordes
 - [BGH, Urteil vom 13.10.2005 - 3 StR 385/04](3-str-385-04.md) — gefährlicher Körperverletzung u. a.
@@ -17,13 +28,23 @@
 - [BGH, Beschluss vom 15.09.2005 - 3 StR 299/05](3-str-299-05.md) — schweren Raubes
 - [BGH, Beschluss vom 15.09.2005 - 3 StR 313/05](3-str-313-05.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 13.09.2005 - 3 StR 276/05](3-str-276-05.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 13.09.2005 - 3 StR 306/05](3-str-306-05.md) — Das Landgericht hat die Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus gemäß § 63 StGB angeordnet, weil dieser im Zustand nicht auszuschließender …
+- [BGH, Beschluss vom 13.09.2005 - 3 StR 309/05](3-str-309-05.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.09.2005 - 3 StR 310/05](3-str-310-05.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 08.09.2005 - 3 StR 297/05](3-str-297-05.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 06.09.2005 - 3 StR 255/05](3-str-255-05.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 26.08.2005 - 3 StR 260/05](3-str-260-05.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 26.08.2005 - 3 StR 269/05](3-str-269-05.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 26.08.2005 - 3 StR 272/05](3-str-272-05.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 16.08.2005 - 3 StR 205/05](3-str-205-05.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 28.07.2005 - 3 StR 60/05](3-str-60-05.md) — Verwendens von Kennzeichen verfassungswidriger Organisationen
+- [BGH, Beschluss vom 26.07.2005 - 3 StR 36/05](3-str-36-05.md) — Untreue u. a.
 - [BGH, Beschluss vom 28.06.2005 - 3 StR 194/05](3-str-194-05.md) — Vergewaltigung
 - [BGH, Beschluss vom 28.06.2005 - 3 StR 200/05](3-str-200-05.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 28.06.2005 - 3 StR 208/05](3-str-208-05.md) — Mordes u. a.
+- [BGH, Urteil vom 16.06.2005 - 3 StR 492/04](3-str-492-04.md) — bandenmäßiger Einfuhr von Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 16.06.2005 - 3 StR 85/05](3-str-85-05.md) — Betruges oder Untreue
+- [BGH, Beschluss vom 14.06.2005 - 3 StR 130/05](3-str-130-05.md) — schweren Bandendiebstahls
 - [BGH, Beschluss vom 14.06.2005 - 3 StR 168/05](3-str-168-05.md) — schweren sexuellen Mißbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 07.06.2005 - 3 StR 145/05](3-str-145-05.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 07.06.2005 - 3 StR 150/05](3-str-150-05.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
@@ -42,10 +63,22 @@
 - [BGH, Beschluss vom 04.05.2005 - 3 StR 136/05](3-str-136-05.md) — Raubes u. a.
 - [BGH, Urteil vom 21.04.2005 - 3 StR 68/05](3-str-68-05.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 20.04.2005 - 3 StR 106/05](3-str-106-05.md) — zu 1.: Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.04.2005 - 3 StR 51/05](3-str-51-05.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 20.04.2005 - 3 StR 95/05](3-str-95-05.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 12.04.2005 - 3 StR 100/05](3-str-100-05.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 07.04.2005 - 3 StR 347/04](3-str-347-04.md) — Wohnungseinbruchsdiebstahls
+- [BGH, Urteil vom 07.04.2005 - 3 StR 453/04](3-str-453-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 05.04.2005 - 3 StR 103/05](3-str-103-05.md) — Betruges
+- [BGH, Beschluss vom 05.04.2005 - 3 StR 80/05](3-str-80-05.md) — Betrugs u. a.
+- [BGH, Urteil vom 24.03.2005 - 3 StR 402/04](3-str-402-04.md) — versuchten Totschlags u. a.
+- [BGH, Urteil vom 24.03.2005 - 3 StR 490/04](3-str-490-04.md) — Totschlags
 - [BGH, Urteil vom 10.03.2005 - 3 StR 245/04](3-str-245-04.md) — Unterstützens des organisatorischen Zusammenhalts eines verbotenen Vereins u. a.
+- [BGH, Beschluss vom 24.02.2005 - 3 StR 21/05](3-str-21-05.md) — schweren sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 10.02.2005 - 3 StR 12/05](3-str-12-05.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 10.02.2005 - 3 StR 15/05](3-str-15-05.md) — Vergewaltigung
+- [BGH, Urteil vom 27.01.2005 - 3 StR 431/04](3-str-431-04.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Entscheidung vom 25.01.2005 - 3 StR 486/04](3-str-486-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 13.01.2005 - 3 StR 473/04](3-str-473-04.md) — schweren Bandendiebstahls u. a.
 - [BGH, Beschluss vom 12.01.2005 - 3 StR 422/04](3-str-422-04.md) — Wohnungseinbruchsdiebstahls u. a.
 - [BGH, Beschluss vom 11.01.2005 - 3 StR 474/04](3-str-474-04.md) — schweren räuberischen Diebstahls
 - [BGH, Beschluss vom 11.01.2005 - 3 StR 482/04](3-str-482-04.md) — Anstiftung zur gefährlichen Körperverletzung u. a.

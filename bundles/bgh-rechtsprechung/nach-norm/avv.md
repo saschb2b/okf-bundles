@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AVV"
 description: "BGH-Entscheidungen zu AVV, geordnet nach Vorschrift."
 tags: [register, navigation, avv]
-timestamp: 2026-06-22T13:45:56Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

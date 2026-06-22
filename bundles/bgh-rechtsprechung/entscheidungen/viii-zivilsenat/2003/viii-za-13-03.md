@@ -9,7 +9,7 @@ datum: 2003-07-29
 aktenzeichen: "VIII ZA 13/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:15:45Z
+timestamp: 2026-06-22T14:07:40Z
 ---
 # Volltext
 

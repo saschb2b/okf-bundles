@@ -1,6 +1,6 @@
 # X ARZ
 
-Bestimmung des zuständigen Gerichts (§ 36 ZPO). 62 Entscheidung(en).
+Bestimmung des zuständigen Gerichts (§ 36 ZPO). 71 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -19,6 +19,9 @@ Bestimmung des zuständigen Gerichts (§ 36 ZPO). 62 Entscheidung(en).
 - [2013](2013/index.md) (6)
 - [2012](2012/index.md) (2)
 - [2011](2011/index.md) (5)
-- [2006](2006/index.md) (2)
-- [2003](2003/index.md) (2)
-- [2002](2002/index.md) (4)
+- [2008](2008/index.md) (1)
+- [2007](2007/index.md) (1)
+- [2006](2006/index.md) (3)
+- [2004](2004/index.md) (1)
+- [2003](2003/index.md) (6)
+- [2002](2002/index.md) (5)

@@ -1,6 +1,6 @@
 # STBST
 
-Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 9 Entscheidung(en).
+Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 10 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -12,3 +12,4 @@ Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtsc
 - [2009](2009/index.md) (1)
 - [2003](2003/index.md) (1)
 - [2002](2002/index.md) (1)
+- [2000](2000/index.md) (1)

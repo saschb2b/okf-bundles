@@ -1,30 +1,71 @@
 # 1. Strafsenat – 2007
 
-26 Entscheidung(en).
+67 Entscheidung(en).
 
 - [BGH, Beschluss vom 20.12.2007 - 1 StR 558/07](1-str-558-07.md) — Betrugs
-- [BGH, Beschluss vom 22.11.2007 - 1 StR 497/07](1-str-497-07.md) — Mordes u. a.
+- [BGH, Beschluss vom 19.12.2007 - 1 StR 581/07](1-str-581-07.md) — Totschlags
+- [BGH, Beschluss vom 13.12.2007 - 1 StR 497/07](1-str-497-07.md) — Mordes u.a.
+- [BGH, Beschluss vom 21.11.2007 - 1 StR 527/07](1-str-527-07.md) — Geldfälschung u.a.
 - [BGH, Urteil vom 20.11.2007 - 1 StR 442/07](1-str-442-07.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 09.11.2007 - 1 StR 528/07](1-str-528-07.md) — Betruges
+- [BGH, Urteil vom 07.11.2007 - 1 StR 164/07](1-str-164-07.md) — Betruges u.a.
+- [BGH, Beschluss vom 07.11.2007 - 1 StR 366/07](1-str-366-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 07.11.2007 - 1 StR 529/07](1-str-529-07.md) — Brandstiftung u. a.
 - [BGH, Beschluss vom 06.11.2007 - 1 StR 302/07](1-str-302-07.md) — unerlaubten Inverkehrbringens bedenklicher und in ihrer Qualität geminderter Arzneimittel
+- [BGH, Beschluss vom 06.11.2007 - 1 StR 370/07](1-str-370-07.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Urteil vom 06.11.2007 - 1 StR 394/07](1-str-394-07.md) — Rechtsbeugung u.a.
+- [BGH, Beschluss vom 24.10.2007 - 1 StR 464/07](1-str-464-07.md) — Mordes u. a.
+- [BGH, Beschluss vom 24.10.2007 - 1 StR 481/07](1-str-481-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 23.10.2007 - 1 StR 238/07](1-str-238-07.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 15.10.2007 - 1 StR 373/07](1-str-373-07.md) — Untreue u.a.
 - [BGH, Beschluss vom 10.10.2007 - 1 StR 450/07](1-str-450-07.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 10.10.2007 - 1 StR 455/07](1-str-455-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 10.10.2007 - 1 StR 458/07](1-str-458-07.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 10.10.2007 - 1 StR 477/07](1-str-477-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 26.09.2007 - 1 StR 276/07](1-str-276-07.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 25.09.2007 - 1 StR 295/07](1-str-295-07.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 25.09.2007 - 1 StR 350/07](1-str-350-07.md) — Raubes u. a.
 - [BGH, Beschluss vom 12.09.2007 - 1 StR 407/07](1-str-407-07.md) — Mordes
+- [BGH, Beschluss vom 11.09.2007 - 1 StR 273/07](1-str-273-07.md) — Mordes
+- [BGH, Urteil vom 28.08.2007 - 1 StR 268/07](1-str-268-07.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 28.08.2007 - 1 StR 402/07](1-str-402-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 15.08.2007 - 1 StR 341/07](1-str-341-07.md) — Mordes u.a.
+- [BGH, Urteil vom 14.08.2007 - 1 StR 201/07](1-str-201-07.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 26.07.2007 - 1 StR 368/07](1-str-368-07.md) — Betruges u. a.
+- [BGH, Beschluss vom 18.07.2007 - 1 StR 294/07](1-str-294-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 18.07.2007 - 1 StR 296/07](1-str-296-07.md) — Totschlags
+- [BGH, Beschluss vom 17.07.2007 - 1 StR 271/07](1-str-271-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 17.07.2007 - 1 StR 312/07](1-str-312-07.md) — Beihilfe zur unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 17.07.2007 - 1 StR 317/07](1-str-317-07.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 04.07.2007 - 1 StR 267/07](1-str-267-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 04.07.2007 - 1 StR 277/07](1-str-277-07.md) — Mordes
+- [BGH, Beschluss vom 04.07.2007 - 1 StR 298/07](1-str-298-07.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 03.07.2007 - 1 StR 3/07](1-str-3-07.md) — Totschlags
+- [BGH, Urteil vom 20.06.2007 - 1 StR 157/07](1-str-157-07.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 20.06.2007 - 1 StR 167/07](1-str-167-07.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.06.2007 - 1 StR 251/07](1-str-251-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 20.06.2007 - 1 StR 58/07](1-str-58-07.md) — Betruges
+- [BGH, Beschluss vom 19.06.2007 - 1 StR 105/07](1-str-105-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 19.06.2007 - 1 StR 16/07](1-str-16-07.md) — Betruges
+- [BGH, Beschluss vom 13.06.2007 - 1 StR 198/07](1-str-198-07.md) — Totschlags
 - [BGH, Beschluss vom 12.06.2007 - 1 StR 257/07](1-str-257-07.md) — Vergewaltigung u. a.
+- [BGH, Urteil vom 12.06.2007 - 1 StR 73/07](1-str-73-07.md) — Mordes
+- [BGH, Beschluss vom 25.05.2007 - 1 StR 223/07](1-str-223-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 22.05.2007 - 1 StR 582/06](1-str-582-06.md) — Mordes u.a.
 - [BGH, Beschluss vom 08.05.2007 - 1 StR 202/07](1-str-202-07.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 08.05.2007 - 1 StR 203/07](1-str-203-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 02.05.2007 - 1 StR 141/07](1-str-141-07.md) — Betruges u. a.
+- [BGH, Beschluss vom 02.05.2007 - 1 StR 70/07](1-str-70-07.md) — Bestechlichkeit u.a.
 - [BGH, Beschluss vom 25.04.2007 - 1 StR 124/07](1-str-124-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 25.04.2007 - 1 StR 135/07](1-str-135-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 24.04.2007 - 1 StR 185/07](1-str-185-07.md) — Untreue u.a.
 - [BGH, Urteil vom 24.04.2007 - 1 StR 439/06](1-str-439-06.md) — Untreue
+- [BGH, Beschluss vom 02.04.2007 - 1 StR 579/05](1-str-579-05.md) — Vergewaltigung u. a. hier: Antrag des Verteidigers auf Pauschvergütung
 - [BGH, Beschluss vom 30.03.2007 - 1 StR 349/06](1-str-349-06.md) — sexuellen Missbrauchs von Kindern
-- [BGH, Beschluss vom 30.03.2007 - 1 StR 70/07](1-str-70-07.md) — Bestechlichkeit u.a.
 - [BGH, Beschluss vom 28.03.2007 - 1 StR 113/07](1-str-113-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 28.02.2007 - 1 StR 54/07](1-str-54-07.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 28.02.2007 - 1 StR 68/07](1-str-68-07.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.02.2007 - 1 StR 76/07](1-str-76-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 27.02.2007 - 1 StR 8/07](1-str-8-07.md) — Bestechlichkeit u.a.
+- [BGH, Urteil vom 31.01.2007 - 1 StR 429/06](1-str-429-06.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 09.01.2007 - 1 StR 605/06](1-str-605-06.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung

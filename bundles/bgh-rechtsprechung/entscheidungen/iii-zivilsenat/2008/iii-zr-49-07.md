@@ -9,7 +9,7 @@ datum: 2008-03-19
 aktenzeichen: "III ZR 49/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:26:34Z
+timestamp: 2026-06-22T14:19:20Z
 ---
 # Volltext
 

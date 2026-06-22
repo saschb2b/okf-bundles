@@ -1,28 +1,46 @@
 # VIII. Zivilsenat – 2003
 
-43 Entscheidung(en).
+63 Entscheidung(en).
 
 - [BGH, Urteil vom 22.12.2003 - VIII ZR 81/03](viii-zr-81-03.md) — Tatbestand:
+- [BGH, Urteil vom 22.12.2003 - VIII ZR 90/02](viii-zr-90-02.md) — Tatbestand:
+- [BGH, Beschluss vom 03.12.2003 - VIII ZB 80/03](viii-zb-80-03.md) — Versäumung der Berufungsbegründungsfrist durch Beschluß als unzulässig verworfen und durch Beschluß vom gleichen Tag den Antrag auf Gewährun
+- [BGH, Urteil vom 03.12.2003 - VIII ZR 168/03](viii-zr-168-03.md) — Tatbestand: Die Kläger waren im Jahr 1998 Mieter einer Wohnung in B. , A.
+- [BGH, Beschluss vom 26.11.2003 - VIII ZB 63/03](viii-zb-63-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (BGH, Beschluß vom 13. März 2003, aaO). Der Einzelrichter durfte
 - [BGH, Urteil vom 26.11.2003 - VIII ZR 89/03](viii-zr-89-03.md) — Tatbestand:
 - [BGH, Beschluss vom 25.11.2003 - VIII ZB 122/02](viii-zb-122-02.md) — BGH, Beschluss vom 25.11.2003 - VIII ZB 122/02
+- [BGH, Beschluss vom 25.11.2003 - VIII ZB 69/03](viii-zb-69-03.md) — I. Das Amtsgericht Frankfurt am Main hat den Beklagten am 25. Juli 2001 antragsgemäß verurteilt und ihm die Kosten des Rechtsstreits auferlegt. Mit seinem Kostenfestsetzungsantrag …
 - [BGH, Beschluss vom 25.11.2003 - VIII ZB 87/03](viii-zb-87-03.md) — BGH, Beschluss vom 25.11.2003 - VIII ZB 87/03
+- [BGH, Urteil vom 19.11.2003 - VIII ZR 160/03](viii-zr-160-03.md) — Tatbestand: Der Kläger begehrt von dem Beklagten die Zustimmung zur Erhöhung des Mietzinses. Der Kläger vermietete dem Beklagten mit Mietver
 - [BGH, Beschluss vom 18.11.2003 - VIII ZB 37/03](viii-zb-37-03.md) — der Er-
 - [BGH, Beschluss vom 18.11.2003 - VIII ZB 72/03](viii-zb-72-03.md) — des Wegfalls des Klageanlasses die Klage zu einem Zeitpunkt zurückgenommen hat, in dem die Klage noch nicht zugestellt war, und wenn die Zus
 - [BGH, Urteil vom 12.11.2003 - VIII ZR 41/03](viii-zr-41-03.md) — Tatbestand:
 - [BGH, Urteil vom 05.11.2003 - VIII ZR 371/02](viii-zr-371-02.md) — Tatbestand:
+- [BGH, Urteil vom 22.10.2003 - VIII ZR 6/03](viii-zr-6-03.md) — seiner Tätigkeit im sogenannten "Shop-Geschäft".
+- [BGH, Urteil vom 15.10.2003 - VIII ZR 227/02](viii-zr-227-02.md) — Tatbestand:
+- [BGH, Beschluss vom 14.10.2003 - VIII ZR 121/03](viii-zr-121-03.md) — I. Die Beklagten sind vom Oberlandesgericht Köln zur Räumung und Herausgabe ihrer Wohnung verurteilt worden. Das Oberlandesgericht hat die Revision nicht zugelassen. Hiergegen …
+- [BGH, Urteil vom 08.10.2003 - VIII ZR 165/01](viii-zr-165-01.md) — 3-
+- [BGH, Beschluss vom 16.09.2003 - VIII ZB 40/03](viii-zb-40-03.md) — des durch § 542 Abs. 2 Satz 1 ZPO begrenzten Instanzenzuges die Rechtsbeschwerde nicht statthaft (BGH, Beschluß vom 27. Februar 2003 - I ZB
 - [BGH, Urteil vom 10.09.2003 - VIII ZR 4/03](viii-zr-4-03.md) — Tatbestand:
-- [BGH, Beschluss vom 03.09.2003 - VIII ZR 188/03](viii-zr-188-03.md) — BGH, Beschluss vom 03.09.2003 - VIII ZR 188/03
 - [BGH, Beschluss vom 29.07.2003 - VIII ZA 13/03](viii-za-13-03.md) — Versäumung der Revisionsfrist (§ 548 ZPO) aussichtslos ist (§ 78b ZPO). Wiedereinsetzung in den vorigen Stand könnte dem Antragsteller insow
 - [BGH, Beschluss vom 29.07.2003 - VIII ZB 101/02](viii-zb-101-02.md) — BGH, Beschluss vom 29.07.2003 - VIII ZB 101/02
-- [BGH, Beschluss vom 29.07.2003 - VIII ZB 107/02](viii-zb-107-02.md) — BGH, Beschluss vom 29.07.2003 - VIII ZB 107/02
+- [BGH, Beschluss vom 29.07.2003 - VIII ZB 107/02](viii-zb-107-02.md) — I. Durch Urteil vom 27. Juni 2002 hat das Amtsgericht die auf Zahlung von 1.076,60 DM nebst Zinsen gerichtete Klage abgewiesen und den Kläger auf die £¡ ¢ Widerklage des Beklagten …
+- [BGH, Beschluss vom 29.07.2003 - VIII ZB 23/03](viii-zb-23-03.md) — I. Der Kläger hat im vorliegenden Verfahren den Beklagten als Nachlaß- pfleger für die unbekannten Erben des am 25. Oktober 2001 verstorbenen Dr. H. T. auf Zahlung von …
 - [BGH, Beschluss vom 29.07.2003 - VIII ZB 55/03](viii-zb-55-03.md) — zu erwartender Neben-
-- [BGH, Beschluss vom 29.07.2003 - VIII ZB 59/03](viii-zb-59-03.md) — BGH, Beschluss vom 29.07.2003 - VIII ZB 59/03
-- [BGH, Beschluss vom 29.07.2003 - VIII ZR 259/02](viii-zr-259-02.md) — BGH, Beschluss vom 29.07.2003 - VIII ZR 259/02
+- [BGH, Beschluss vom 29.07.2003 - VIII ZB 59/03](viii-zb-59-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (BGH, Beschluß vom 13. März 2003, aaO; Senatsbeschluß vom 11. Jun
+- [BGH, Beschluss vom 29.07.2003 - VIII ZR 259/02](viii-zr-259-02.md) — Zu dem vom Berufungsgericht ausgeurteilten Betrag von 22.460,44 ¡£¢¥¤§¦¨¢© ¡¨  ¢©¡£¦ ¦ ! "¤ $£# ¦&'% ! 0( ) 10)$§¤ £2 ¦ £2  3( ¢© ¨¡  war der Teilbetrag von …
 - [BGH, Urteil vom 16.07.2003 - VIII ZR 274/02](viii-zr-274-02.md) — eines Mangels der Wohnung die Miete mindern kann, ausschließlich nach § 536c BGB. Dies gilt auch für Mietverträge, die vor dem 1. September
+- [BGH, Urteil vom 16.07.2003 - VIII ZR 286/02](viii-zr-286-02.md) — Tatbestand:
+- [BGH, Urteil vom 16.07.2003 - VIII ZR 30/03](viii-zr-30-03.md) — Tatbestand:
+- [BGH, Urteil vom 09.07.2003 - VIII ZR 26/03](viii-zr-26-03.md) — Eigenbedarfs zu beachten hat, in die Rechtsposition des verstorbenen Mieters ein.
+- [BGH, Urteil vom 09.07.2003 - VIII ZR 276/02](viii-zr-276-02.md) — Eigenbedarfs, so hat er dem Mieter eine vergleichbare, im selben Haus oder in derselben Wohnanlage ihm zur Verfügung stehende Wohnung, die v
+- [BGH, Urteil vom 09.07.2003 - VIII ZR 311/02](viii-zr-311-02.md) — Eigenbedarfs, so hat er dem
 - [BGH, Urteil vom 09.07.2003 - VIII ZR 60/02](viii-zr-60-02.md) — Tatbestand:
+- [BGH, Urteil vom 18.06.2003 - VIII ZR 324/02](viii-zr-324-02.md) — Tatbestand:
 - [BGH, Beschluss vom 11.06.2003 - VIII ZB 15/03](viii-zb-15-03.md) — BGH, Beschluss vom 11.06.2003 - VIII ZB 15/03
+- [BGH, Urteil vom 11.06.2003 - VIII ZR 161/02](viii-zr-161-02.md) — 3-
+- [BGH, Beschluss vom 10.06.2003 - VIII ZB 126/02](viii-zb-126-02.md) — I. Der Kläger hat den Beklagten in dem Verfahren - 3 C 37/02 Amtsgericht Karlsruhe - auf Zahlung rückständiger Mietzinsen und Nebenkosten sowie in dem Verfahren - 4 C 597/01 …
 - [BGH, Beschluss vom 21.05.2003 - VIII ZB 10/03](viii-zb-10-03.md) — BGH, Beschluss vom 21.05.2003 - VIII ZB 10/03
-- [BGH, Beschluss vom 21.05.2003 - VIII ZB 103/02](viii-zb-103-02.md) — BGH, Beschluss vom 21.05.2003 - VIII ZB 103/02
 - [BGH, Beschluss vom 21.05.2003 - VIII ZB 133/02](viii-zb-133-02.md) — BGH, Beschluss vom 21.05.2003 - VIII ZB 133/02
 - [BGH, Urteil vom 14.05.2003 - VIII ZR 308/02](viii-zr-308-02.md) — Tatbestand:
 - [BGH, Urteil vom 30.04.2003 - VIII ZR 162/02](viii-zr-162-02.md) — Tatbestand:
@@ -34,9 +52,11 @@
 - [BGH, Urteil vom 30.04.2003 - VIII ZR 246/02](viii-zr-246-02.md) — Tatbestand:
 - [BGH, Beschluss vom 29.04.2003 - VIII ZB 96/02](viii-zb-96-02.md) — BGH, Beschluss vom 29.04.2003 - VIII ZB 96/02
 - [BGH, Beschluss vom 02.04.2003 - VIII ZB 117/02](viii-zb-117-02.md) — BGH, Beschluss vom 02.04.2003 - VIII ZB 117/02
-- [BGH, Beschluss vom 26.03.2003 - VIII ZB 104/02](viii-zb-104-02.md) — BGH, Beschluss vom 26.03.2003 - VIII ZB 104/02
+- [BGH, Beschluss vom 26.03.2003 - VIII ZB 104/02](viii-zb-104-02.md) — I. Der Antragsteller wird von den Klägern vor dem Amtsgericht Bochum auf ¤¡ " #! $ ¡ §%¡'( & ) ¡01¥ 2¡ ¥1¡ Zahlung rückständiger Nebenkosten in Höhe von 888,83 Wohnung in …
 - [BGH, Urteil vom 19.03.2003 - VIII ZR 135/02](viii-zr-135-02.md) — Tatbestand:
+- [BGH, Urteil vom 12.03.2003 - VIII ZR 175/02](viii-zr-175-02.md) — Tatbestand:
 - [BGH, Urteil vom 12.03.2003 - VIII ZR 221/02](viii-zr-221-02.md) — Tatbestand: Der Kläger ist ein eingetragener Verein. Er wird vom Deutschen Gewerkschaftsbund und dem Arbeitgeberverband getragen. Er ist gem
+- [BGH, Beschluss vom 26.02.2003 - VIII ZB 69/02](viii-zb-69-02.md) — I. Die Kläger, die in Form einer Gesellschaft bürgerlichen Rechts einen Immobilienfonds bilden, haben die Beklagten im Klagewege auf Räumung sowie auf Zahlung rückständiger Miete …
 - [BGH, Urteil vom 26.02.2003 - VIII ZR 15/02](viii-zr-15-02.md) — Tatbestand:
 - [BGH, Urteil vom 26.02.2003 - VIII ZR 17/02](viii-zr-17-02.md) — Tatbestand:
 - [BGH, Urteil vom 26.02.2003 - VIII ZR 270/01](viii-zr-270-01.md) — Tatbestand:

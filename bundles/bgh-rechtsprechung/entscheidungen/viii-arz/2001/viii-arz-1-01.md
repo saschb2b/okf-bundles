@@ -9,7 +9,7 @@ datum: 2001-10-24
 aktenzeichen: "VIII ARZ 1/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:12:20Z
+timestamp: 2026-06-22T14:04:07Z
 ---
 # Volltext
 

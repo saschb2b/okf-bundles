@@ -1,28 +1,54 @@
 # II. Zivilsenat – 2006
 
-24 Entscheidung(en).
+50 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2006 - II ZR 340/05](ii-zr-340-05.md) — BGH, Beschluss vom 21.12.2006 - II ZR 340/05
 - [BGH, Beschluss vom 04.12.2006 - II ZB 2/06](ii-zb-2-06.md) — BGH, Beschluss vom 04.12.2006 - II ZB 2/06
+- [BGH, Beschluss vom 04.12.2006 - II ZR 298/05](ii-zr-298-05.md) — BGH, Beschluss vom 04.12.2006 - II ZR 298/05
 - [BGH, Beschluss vom 04.12.2006 - II ZR 305/05](ii-zr-305-05.md) — BGH, Beschluss vom 04.12.2006 - II ZR 305/05
 - [BGH, Beschluss vom 20.11.2006 - II ZB 9/06](ii-zb-9-06.md) — Nichtabführung von Arbeitnehmeranteilen zur Sozialversicherung verfolgt.
 - [BGH, Urteil vom 20.11.2006 - II ZR 176/05](ii-zr-176-05.md) — Tatbestand:
+- [BGH, Beschluss vom 20.11.2006 - II ZR 323/05](ii-zr-323-05.md) — Das Berufungsgericht hat den Anspruch der Beklagten zu 1, 2 und 3 auf rechtliches Gehör (Art.
 - [BGH, Beschluss vom 20.11.2006 - II ZR 333/05](ii-zr-333-05.md) — BGH, Beschluss vom 20.11.2006 - II ZR 333/05
 - [BGH, Beschluss vom 25.10.2006 - II ZR 289/05](ii-zr-289-05.md) — BGH, Beschluss vom 25.10.2006 - II ZR 289/05
 - [BGH, Urteil vom 23.10.2006 - II ZR 192/05](ii-zr-192-05.md) — Tatbestand:
 - [BGH, Beschluss vom 16.10.2006 - II ZB 32/05](ii-zb-32-05.md) — BGH, Beschluss vom 16.10.2006 - II ZB 32/05
-- [BGH, Beschluss vom 19.09.2006 - II ZR 313/05](ii-zr-313-05.md) — BGH, Beschluss vom 19.09.2006 - II ZR 313/05
+- [BGH, Urteil vom 16.10.2006 - II ZR 101/05](ii-zr-101-05.md) — Ablaufs der insoweit maßgeblichen fünfmonatigen Höchstfrist für die Rechtsmitteleinlegung (§ 548 ZPO) nicht mehr rechtswirksam nachgeholt we
+- [BGH, Urteil vom 16.10.2006 - II ZR 7/05](ii-zr-7-05.md) — Tatbestand:
+- [BGH, Beschluss vom 27.09.2006 - II ZB 20/06](ii-zb-20-06.md) — I. Mit Beschluss vom 3. April 2006 hat das Landgericht ein Gesuch des Antragstellers auf Gewährung von Prozesskostenhilfe für eine von ihm beab- sichtigte Klage gegen die …
+- [BGH, Beschluss vom 25.09.2006 - II ZR 186/04](ii-zr-186-04.md) — BGH, Beschluss vom 25.09.2006 - II ZR 186/04
+- [BGH, Beschluss vom 25.09.2006 - II ZR 235/05](ii-zr-235-05.md) — I. Die Beschwerde ist zulässig, insbesondere übersteigt der Wert des Beschwerdegegenstandes mit 296.638,66 € den Zulässigkeitswert des § 26 Nr. 8 EGZPO. 2 Entgegen der Auffassung …
+- [BGH, Beschluss vom 19.09.2006 - II ZR 313/05](ii-zr-313-05.md) — Der Senat hat im Beschluss vom 17. Juli 2006 auf der Grundlage der maßgeblichen Wertangaben der Kläger in den Tatsacheninstanzen - nach de- nen der Verkehrswert des Unternehmens …
+- [BGH, Beschluss vom 18.09.2006 - II ZR 10/05](ii-zr-10-05.md) — nach für gerechtfertigt erklärt und auf die Berufung der Beklagten den Rechtsstreit hinsichtlich des Widerklageantrags zu 1 (4.705.622,70 € nebst Zinsen) an das Landgericht …
+- [BGH, Urteil vom 18.09.2006 - II ZR 137/05](ii-zr-137-05.md) — Tatbestand:
+- [BGH, Beschluss vom 31.08.2006 - II ZR 209/04](ii-zr-209-04.md) — BGH, Beschluss vom 31.08.2006 - II ZR 209/04
 - [BGH, Beschluss vom 12.07.2006 - II ZR 251/05](ii-zr-251-05.md) — der übereinstimmenden Erledi-
 - [BGH, Beschluss vom 10.07.2006 - II ZR 220/05](ii-zr-220-05.md) — Nichterreichens der gemäß § 26 Nr. 8 EGZPO erforderlichen Beschwer von
+- [BGH, Urteil vom 10.07.2006 - II ZR 238/04](ii-zr-238-04.md) — Tatbestand:
 - [BGH, Beschluss vom 03.07.2006 - II ZB 24/05](ii-zb-24-05.md) — Arbeitsüberlastung um einen Monat zu verlängern. Aufgrund einer Verfügung
 - [BGH, Beschluss vom 03.07.2006 - II ZB 31/05](ii-zb-31-05.md) — BGH, Beschluss vom 03.07.2006 - II ZB 31/05
 - [BGH, Beschluss vom 29.06.2006 - II ZB 10/05](ii-zb-10-05.md) — BGH, Beschluss vom 29.06.2006 - II ZB 10/05
-- [BGH, Beschluss vom 26.06.2006 - II ZR 153/05](ii-zr-153-05.md) — BGH, Beschluss vom 26.06.2006 - II ZR 153/05
+- [BGH, Urteil vom 26.06.2006 - II ZR 133/05](ii-zr-133-05.md) — verwehrt, diese Kaufpreisforderung dazu zu verwenden, einen gegen ihn bestehenden Anspruch der Gesellschaft - sei es durch Aufrechnung, sei
+- [BGH, Beschluss vom 26.06.2006 - II ZR 153/05](ii-zr-153-05.md) — BGB § 826 Gb, H Bei der Informationsdeliktshaftung für fehlerhafte Ad-hoc-Publizität gemäß § 826 BGB kann auch im Fall extrem unseriöser Kapitalmarktinformation nicht auf den …
+- [BGH, Beschluss vom 26.06.2006 - II ZR 206/05](ii-zr-206-05.md) — I. Die Nichtzulassungsbeschwerden der Kläger zu 80 (B. ), zu 88 (H. ) und zu 98 (K. ) sind im erkannten Umfang begründet und füh- ren insoweit zur Aufhebung des angefochtenen …
+- [BGH, Beschluss vom 15.05.2006 - II ZB 18/05](ii-zb-18-05.md) — I. 1 Der Beklagte ist durch Urteil des Landgerichts zur Herausgabe des Pen- dels einer Wanduhr verurteilt worden. Gegen das seinen Prozessbevollmächtig- ten am 27. April 2005 …
 - [BGH, Urteil vom 08.05.2006 - II ZR 27/05](ii-zr-27-05.md) — Tatbestand:
+- [BGH, Urteil vom 08.05.2006 - II ZR 94/05](ii-zr-94-05.md) — Tatbestand:
 - [BGH, Beschluss vom 24.04.2006 - II ZR 126/05](ii-zr-126-05.md) — BGH, Beschluss vom 24.04.2006 - II ZR 126/05
+- [BGH, Urteil vom 24.04.2006 - II ZR 30/05](ii-zr-30-05.md) — Gesetzesverletzung nach § 243 Abs. 1 AktG anfechtbar.
 - [BGH, Beschluss vom 10.04.2006 - II ZR 337/05](ii-zr-337-05.md) — derer das Berufungsgericht die Revision zu-
-- [BGH, Beschluss vom 20.02.2006 - II ZB 3/05](ii-zb-3-05.md) — BGH, Beschluss vom 20.02.2006 - II ZB 3/05
+- [BGH, Urteil vom 03.04.2006 - II ZR 332/05](ii-zr-332-05.md) — Tatbestand:
+- [BGH, Beschluss vom 13.03.2006 - II ZA 15/05](ii-za-15-05.md) — "greifbarer Gesetzeswidrigkeit" ist folglich nicht mehr statthaft, wie
+- [BGH, Beschluss vom 13.03.2006 - II ZB 25/04](ii-zb-25-04.md) — I. Der Beteiligte zu 1 war Minderheitsaktionär der Beteiligten zu 2, deren Hauptversammlung auf Verlangen ihrer Hauptaktionärin, der Beteiligten zu 3, am 17. Juni 2002 die …
+- [BGH, Beschluss vom 13.03.2006 - II ZB 26/04](ii-zb-26-04.md) — I. Die Beteiligten zu 1 und 2 waren Minderheitsaktionäre der Beteiligten zu 3, deren Hauptversammlung auf Verlangen ihrer Hauptaktionärin, der Betei- ligten zu 4, am 17. Juni 2002 …
+- [BGH, Beschluss vom 13.03.2006 - II ZR 165/04](ii-zr-165-04.md) — verbotswidriger Zahlungen an die Gesellschafter darzulegen und zu beweisen.
+- [BGH, Beschluss vom 06.03.2006 - II ZR 90/05](ii-zr-90-05.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 20.02.2006 - II ZB 3/05](ii-zb-3-05.md) — I. Der Kläger hat die Beklagten zu 1-4 als Gesamtschuldner auf Zahlung in Anspruch genommen. Die Beklagten haben sich durch einen gemeinsamen Prozessbevollmächtigten vertreten …
 - [BGH, Beschluss vom 20.02.2006 - II ZR 223/05](ii-zr-223-05.md) — BGH, Beschluss vom 20.02.2006 - II ZR 223/05
 - [BGH, Versäumnisurteil vom 06.02.2006 - II ZR 329/04](ii-zr-329-04.md) — Tatbestand:
 - [BGH, Urteil vom 30.01.2006 - II ZR 333/03](ii-zr-333-03.md) — BGH, Urteil vom 30.01.2006 - II ZR 333/03
+- [BGH, Urteil vom 23.01.2006 - II ZR 126/04](ii-zr-126-04.md) — 3-
+- [BGH, Urteil vom 23.01.2006 - II ZR 306/04](ii-zr-306-04.md) — Tatbestand:
+- [BGH, Beschluss vom 16.01.2006 - II ZB 15/05](ii-zb-15-05.md) — Der als Erinnerung (§ 66 Abs. 1 Satz 1 GKG) zu wertende „Widerspruch“ des Beklagten gegen den Kostenansatz vom 17. Oktober 2005 ist bereits unzulässig, weil der Beklagte das …
 - [BGH, Urteil vom 16.01.2006 - II ZR 65/04](ii-zr-65-04.md) — Tatbestand:
 - [BGH, Beschluss vom 09.01.2006 - II ZR 294/04](ii-zr-294-04.md) — BGH, Beschluss vom 09.01.2006 - II ZR 294/04

@@ -9,7 +9,7 @@ datum: 2001-04-05
 aktenzeichen: "VII ZB 37/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:11:28Z
+timestamp: 2026-06-22T14:03:14Z
 ---
 # Volltext
 

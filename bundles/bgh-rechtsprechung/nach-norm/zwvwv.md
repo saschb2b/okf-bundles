@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZwVwV"
 description: "BGH-Entscheidungen zu ZwVwV, geordnet nach Vorschrift."
 tags: [register, navigation, zwvwv]
-timestamp: 2026-06-22T13:45:57Z
+timestamp: 2026-06-22T14:30:24Z
 ---
 
 # Nach Vorschrift

@@ -1,6 +1,6 @@
 # 1 BGS
 
-Ermittlungsrichter des BGH (Anordnungen im Ermittlungsverfahren). 9 Entscheidung(en).
+Ermittlungsrichter des BGH (Anordnungen im Ermittlungsverfahren). 10 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -9,3 +9,4 @@ Ermittlungsrichter des BGH (Anordnungen im Ermittlungsverfahren). 9 Entscheidung
 - [2016](2016/index.md) (2)
 - [2014](2014/index.md) (1)
 - [2009](2009/index.md) (1)
+- [2006](2006/index.md) (1)
