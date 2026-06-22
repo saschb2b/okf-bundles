@@ -38,4 +38,4 @@ Jede Entscheidung ist ein Konzept mit `type: Gerichtsentscheidung`:
 
 # Stand und Haftung
 
-Der Seed deckt die Anfechtungs-Leitentscheidungen des IX. Zivilsenats ab, mit Kernaussagen bis der Volltext-Ingest die wörtlichen Leitsätze und Gründe nachträgt. Entscheidungen sind eine bewegliche Materie. Das bei jeder Entscheidung genannte Datum und Aktenzeichen sind der Weg zur amtlichen Gegenprüfung; jüngere oder abweichende Rechtsprechung ist dort zu suchen. Dies ist keine Rechtsberatung.
+Eingelesen sind über 800 Entscheidungen des IX. Zivilsenats (ab 2010) mit Leitsatz, Tenor und Gründen im Volltext; die übrigen Jahrgänge und Senate folgen mit demselben, wiederaufsetzbaren Lauf. Entscheidungen sind eine bewegliche Materie. Das bei jeder Entscheidung genannte Datum und Aktenzeichen sind der Weg zur amtlichen Gegenprüfung; jüngere oder abweichende Rechtsprechung ist dort zu suchen. Dies ist keine Rechtsberatung.

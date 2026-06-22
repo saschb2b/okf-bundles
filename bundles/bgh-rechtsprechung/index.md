@@ -16,4 +16,4 @@ Das Bündel ist auf Vollständigkeit angelegt (perspektivisch der gesamte veröf
 
 # Stand
 
-Erste Befüllung (Seed): die Leitentscheidungen des IX. Zivilsenats zur Insolvenzanfechtung, gegengeprüft an freien Quellen. Der vollständige Bestand wird über eine Stapel-Ingestion aus der amtlichen Quelle nachgezogen; der [Überblick](overview.md) beschreibt Quelle und Verfahren.
+Befüllt mit über 800 Entscheidungen des **IX. Zivilsenats** (Insolvenz, Anfechtung, Anwaltshaftung), maschinell aus der amtlichen Quelle eingelesen und über das Norm-Register erschlossen; die sechs Leitentscheidungen zur Anfechtung sind zusätzlich von Hand kuratiert. Der Lauf ist wiederaufsetzbar: die übrigen Jahrgänge dieses Senats und die weiteren Senate werden mit demselben Verfahren nachgezogen (siehe [Überblick](overview.md)).

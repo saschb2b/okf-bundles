@@ -20,16 +20,22 @@
 // USAGE
 //   node scripts/ingest-bgh-rechtsprechung.mjs --selftest          # offline, no network
 //   node scripts/ingest-bgh-rechtsprechung.mjs --limit 5           # smoke test: 5 BGH decisions
-//   node scripts/ingest-bgh-rechtsprechung.mjs --since 2020        # only entsch-datum year >= 2020
-//   node scripts/ingest-bgh-rechtsprechung.mjs                     # full batch (large, slow)
+//   node scripts/ingest-bgh-rechtsprechung.mjs --senat ix-zivilsenat # only the IX. Zivilsenat
+//   node scripts/ingest-bgh-rechtsprechung.mjs --since 2020         # only entsch-datum year >= 2020
+//   node scripts/ingest-bgh-rechtsprechung.mjs                      # full batch (large, slow)
 //
 // FLAGS
 //   --limit N     stop after N newly written decisions
+//   --senat SLUG  only this senate folder (e.g. ix-zivilsenat, 2-strafsenat)
 //   --since YYYY  skip decisions older than this year
 //   --delay MS    pause between document downloads (default 300)
 //   --out DIR     bundle root (default bundles/bgh-rechtsprechung)
 //   --toc URL     override the table-of-contents URL
 //   --selftest    run the embedded fixture through parse+emit and exit (no network)
+//
+// The table of contents already carries gericht, aktenzeichen and entsch-datum,
+// so senate/date filtering and resume (skipping existing files) happen before
+// any document is downloaded.
 //
 // Resumable: a decision whose target file already exists is skipped. Run the
 // smoke test (--limit) against real data first to confirm the field mapping
@@ -107,19 +113,37 @@ function unzipFirst(buf) {
 }
 
 // ---- mapping --------------------------------------------------------------
-const ROMAN = "i|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii|xiii|xiv|xv|xvi|xvii|xviii|xix|xx";
-function senatSlug(az) {
-  // e.g. "IX ZR 72/20" -> ix-zivilsenat ; "5 StR 1/23" -> 5-strafsenat
-  const m = az.match(/^\s*([0-9IVXLCDM]+)\s+([A-Za-zÄÖÜß]+)/);
-  if (!m) return "senat-unbekannt";
-  const num = m[1].toLowerCase();
-  const reg = m[2].toLowerCase();
-  if (reg.startsWith("zr") || reg.startsWith("zb")) return `${num}-zivilsenat`;
-  if (reg.startsWith("str")) return `${num}-strafsenat`;
-  return `${num}-${reg}`;
+// Senate is derived from the Aktenzeichen register, not the rii free-text
+// Spruchkoerper (which renders "9. Zivilsenat" where the convention and the
+// Aktenzeichen use "IX. Zivilsenat"). This keeps a senate in one folder and
+// matches the curated seed. Register -> senate type:
+const SENAT_TYPE = {
+  zr: "Zivilsenat", zb: "Zivilsenat", za: "Zivilsenat",
+  str: "Strafsenat", stb: "Strafsenat", ars: "Strafsenat", ak: "Strafsenat", ss: "Strafsenat", ste: "Strafsenat",
+  anwz: "Senat für Anwaltssachen", anwst: "Senat für Anwaltssachen",
+  notz: "Senat für Notarsachen",
+  lwzr: "Senat für Landwirtschaftssachen", lwzb: "Senat für Landwirtschaftssachen",
+  kzr: "Kartellsenat", kvr: "Kartellsenat", kvz: "Kartellsenat", envr: "Kartellsenat", enzr: "Kartellsenat",
+};
+function senatOf(az) {
+  const m = az.match(/^\s*([0-9]+|[IVXLCDM]+)?\s*([A-Za-zÄÖÜäöüß]+)/);
+  const num = m && m[1] ? m[1] : "";
+  const reg = m && m[2] ? m[2].toLowerCase() : "";
+  const type = SENAT_TYPE[reg];
+  if (type) {
+    const label = num ? `${num}. ${type}` : type;
+    return { label, slug: slugSenat(label) };
+  }
+  const label = (num ? num + " " : "") + (m && m[2] ? m[2].toUpperCase() : "BGH");
+  return { label, slug: slugSenat((num ? num + "-" : "") + (reg || "bgh-sonstige")) };
 }
 const azSlug = (az) =>
   az.toLowerCase().replace(/[\s/]+/g, "-").replace(/[^a-z0-9-]/g, "").replace(/-+/g, "-");
+// Prefer the actual Spruchkoerper for grouping (e.g. "IX. Zivilsenat" -> ix-zivilsenat),
+// so e.g. an "ARs" Rechtshilfesache files under its senate, not a register-derived folder.
+const slugSenat = (s) =>
+  s.toLowerCase().replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss")
+    .replace(/\./g, "").replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "").replace(/-+/g, "-");
 function isoDate(raw) {
   const s = raw.trim();
   let m = s.match(/^(\d{4})-(\d{2})-(\d{2})/);
@@ -132,10 +156,11 @@ function isoDate(raw) {
 }
 function parseNormen(raw) {
   // <norm> is a single PCDATA field; references are newline/semicolon separated.
+  // Keep only entries that look like a real citation (§/Art + number).
   return decode(raw)
     .split(/\r?\n|;/)
     .map((s) => s.trim())
-    .filter(Boolean);
+    .filter((s) => /^(§{1,2}|Art\.?)\s*\d/i.test(s));
 }
 const yaml = (v) => JSON.stringify(v); // safe YAML flow scalar / list
 
@@ -154,6 +179,7 @@ function toConcept(xml) {
   const gruende = text(xml, "entscheidungsgruende") || text(xml, "gruende");
   const titel = text(xml, "titelzeile");
   const ddmmyyyy = datum ? datum.split("-").reverse().join(".") : "";
+  const sen = senatOf(az);
 
   const desc = (leitsatz || titel || `${gertyp}, ${doktyp} ${az}`)
     .replace(/\s+/g, " ").slice(0, 200);
@@ -166,7 +192,7 @@ function toConcept(xml) {
     `description: ${yaml(desc)}`,
     `resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html`,
     `gericht: ${yaml(gertyp)}`,
-    `senat: ${yaml(text(xml, "spruchkoerper") || senatSlug(az))}`,
+    `senat: ${yaml(sen.label)}`,
     `datum: ${datum}`,
     `aktenzeichen: ${yaml(az)}`,
     ecli ? `ecli: ${yaml(ecli)}` : null,
@@ -194,44 +220,48 @@ function toConcept(xml) {
     "",
   );
 
-  const path = join(OUT, "entscheidungen", senatSlug(az), year, `${azSlug(az)}.md`);
+  const path = join(OUT, "entscheidungen", sen.slug, year, `${azSlug(az)}.md`);
   return { path, content: fm + body.join("\n") + "\n", az, normen };
 }
 
 // ---- crawl ----------------------------------------------------------------
 async function crawl() {
+  const WANT_SENAT = opt("--senat", "");
   process.stdout.write(`Lade Inhaltsverzeichnis: ${TOC}\n`);
   const tocXml = await (await fetch(TOC)).text();
   const items = allTags(tocXml, "item");
-  process.stdout.write(`${items.length} Einträge gesamt.\n`);
-  let written = 0, skipped = 0, seen = 0;
+  process.stdout.write(`${items.length} Einträge gesamt.${WANT_SENAT ? ` Filter Senat: ${WANT_SENAT}.` : ""}\n`);
+  let written = 0, skipped = 0, matched = 0;
+  // The TOC already carries gericht, aktenzeichen and entsch-datum, so we filter
+  // and pre-skip existing files here and only download the documents we still need.
   for (const item of items) {
     if (written >= LIMIT) break;
-    const gericht = firstTag(item, "gericht").trim();
-    if (!/BGH|Bundesgerichtshof/i.test(gericht)) continue;
+    if (!/BGH|Bundesgerichtshof/i.test(firstTag(item, "gericht"))) continue;
+    const az = decode(firstTag(item, "aktenzeichen")).trim();
     const link = firstTag(item, "link").trim();
-    if (!link) continue;
-    seen++;
+    if (!az || !link) continue;
+    const year = isoDate(firstTag(item, "entsch-datum")).slice(0, 4) || "ohne-jahr";
+    if (SINCE && Number(year) && Number(year) < SINCE) continue;
+    const sen = senatOf(az);
+    if (WANT_SENAT && sen.slug !== WANT_SENAT) continue;
+    matched++;
+    const target = join(OUT, "entscheidungen", sen.slug, year, `${azSlug(az)}.md`);
+    if (existsSync(target)) { skipped++; continue; } // cheap resume: no download
     try {
       const buf = Buffer.from(await (await fetch(link)).arrayBuffer());
       const xml = link.endsWith(".zip") ? unzipFirst(buf) : buf.toString("utf8");
-      if (SINCE) {
-        const y = Number(isoDate(firstTag(xml, "entsch-datum")).slice(0, 4));
-        if (y && y < SINCE) { skipped++; continue; }
-      }
       const c = toConcept(xml);
       if (!c) { skipped++; continue; }
-      if (existsSync(c.path)) { skipped++; continue; }
       mkdirSync(dirname(c.path), { recursive: true });
       writeFileSync(c.path, c.content);
       written++;
       if (written % 50 === 0) process.stdout.write(`  ${written} geschrieben...\n`);
     } catch (e) {
-      process.stderr.write(`  Fehler bei ${link}: ${e.message}\n`);
+      process.stderr.write(`  Fehler bei ${link} (${az}): ${e.message}\n`);
     }
     await sleep(DELAY);
   }
-  process.stdout.write(`Fertig. ${seen} BGH-Einträge, ${written} neu geschrieben, ${skipped} übersprungen.\n`);
+  process.stdout.write(`Fertig. ${matched} passende BGH-Einträge, ${written} neu geschrieben, ${skipped} vorhanden/übersprungen.\n`);
   process.stdout.write(`Navigation neu erzeugen: node scripts/build-rechtsprechung-index.mjs\n`);
 }
 
