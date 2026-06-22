@@ -1,54 +1,135 @@
 # VI. Zivilsenat – 2006
 
-50 Entscheidung(en).
+131 Entscheidung(en).
 
 - [BGH, Beschluss vom 12.12.2006 - VI ZB 46/06](vi-zb-46-06.md) — eines Tatbestandsberichtigungsantrages - eine Verlängerung der Berufungsbe-
+- [BGH, Urteil vom 12.12.2006 - VI ZR 175/05](vi-zr-175-05.md) — Tatbestand:
+- [BGH, Urteil vom 12.12.2006 - VI ZR 188/05](vi-zr-188-05.md) — Tatbestand:
+- [BGH, Urteil vom 12.12.2006 - VI ZR 224/05](vi-zr-224-05.md) — einer Geldforderung begründet nicht ohne weiteres einen materiellrechtlichen Kostenerstattungsanspruch des in Anspruch Genommenen hinsichtli
+- [BGH, Beschluss vom 12.12.2006 - VI ZR 276/05](vi-zr-276-05.md) — 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
 - [BGH, Urteil vom 12.12.2006 - VI ZR 4/06](vi-zr-4-06.md) — Tatbestand:
 - [BGH, Urteil vom 12.12.2006 - VI ZR 75/06](vi-zr-75-06.md) — Tatbestand:
+- [BGH, Beschluss vom 11.12.2006 - VI ZA 16/06](vi-za-16-06.md) — I. 1 Die Kläger haben mehrere in früheren Verfahren auf Rechnungslegung und Auszahlung von Mieterträgen, in einer Nichtigkeitsklage und in einer Resti- tutionsklage gegen sie …
+- [BGH, Beschluss vom 11.12.2006 - VI ZR 74/06](vi-zr-74-06.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
+- [BGH, Urteil vom 05.12.2006 - VI ZR 228/05](vi-zr-228-05.md) — Tatbestand:
+- [BGH, Urteil vom 05.12.2006 - VI ZR 45/05](vi-zr-45-05.md) — Tatbestand:
+- [BGH, Urteil vom 05.12.2006 - VI ZR 77/06](vi-zr-77-06.md) — Tatbestand:
+- [BGH, Beschluss vom 04.12.2006 - VI ZR 114/06](vi-zr-114-06.md) — des Sachzusammenhangs des Rechtsstreits mit dem vorhergehenden Verfahren auf einstweilige Verfügung angenommen. In dieser Auffassung ist es
 - [BGH, Urteil vom 28.11.2006 - VI ZR 136/05](vi-zr-136-05.md) — Tatbestand:
 - [BGH, Urteil vom 28.11.2006 - VI ZR 196/05](vi-zr-196-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.11.2006 - VI ZR 98/06](vi-zr-98-06.md) — BGH, Beschluss vom 28.11.2006 - VI ZR 98/06
+- [BGH, Urteil vom 21.11.2006 - VI ZR 115/05](vi-zr-115-05.md) — 3-
+- [BGH, Beschluss vom 21.11.2006 - VI ZR 25/06](vi-zr-25-06.md) — BGH, Beschluss vom 21.11.2006 - VI ZR 25/06
+- [BGH, Urteil vom 21.11.2006 - VI ZR 259/05](vi-zr-259-05.md) — nachhaltiger Störung des Vertrauensverhältnisses mit einem Großteil der Mitarbeiter berichtet werden darf.
 - [BGH, Urteil vom 21.11.2006 - VI ZR 76/06](vi-zr-76-06.md) — Tatbestand:
+- [BGH, Urteil vom 14.11.2006 - VI ZR 48/06](vi-zr-48-06.md) — Tatbestand:
+- [BGH, Beschluss vom 07.11.2006 - VI ZB 44/06](vi-zb-44-06.md) — I. 1 Die Beklagten haben von der Klägerin ein Wohnhaus gegen Zahlung von 15.000 DM und einer monatlichen Leibrente von 1.500 DM erworben. Die Klä- gerin hat an der hinteren …
+- [BGH, Beschluss vom 07.11.2006 - VI ZB 70/05](vi-zb-70-05.md) — eines behaupteten ärztlichen Be-
+- [BGH, Urteil vom 07.11.2006 - VI ZR 206/05](vi-zr-206-05.md) — Tatbestand:
+- [BGH, Urteil vom 07.11.2006 - VI ZR 211/05](vi-zr-211-05.md) — Tatbestand:
 - [BGH, Beschluss vom 31.10.2006 - VI ZB 20/06](vi-zb-20-06.md) — Verletzung der Verkehrssiche-
 - [BGH, Beschluss vom 31.10.2006 - VI ZR 149/06](vi-zr-149-06.md) — BGH, Beschluss vom 31.10.2006 - VI ZR 149/06
 - [BGH, Urteil vom 31.10.2006 - VI ZR 223/05](vi-zr-223-05.md) — Tatbestand:
 - [BGH, Urteil vom 31.10.2006 - VI ZR 261/05](vi-zr-261-05.md) — Tatbestand:
 - [BGH, Beschluss vom 31.10.2006 - VI ZR 80/06](vi-zr-80-06.md) — BGH, Beschluss vom 31.10.2006 - VI ZR 80/06
 - [BGH, Beschluss vom 18.10.2006 - VI ZR 44/06](vi-zr-44-06.md) — BGH, Beschluss vom 18.10.2006 - VI ZR 44/06
-- [BGH, Beschluss vom 17.10.2006 - VI ZR 174/06](vi-zr-174-06.md) — BGH, Beschluss vom 17.10.2006 - VI ZR 174/06
+- [BGH, Urteil vom 17.10.2006 - VI ZR 249/05](vi-zr-249-05.md) — Tatbestand:
 - [BGH, Urteil vom 10.10.2006 - VI ZR 280/05](vi-zr-280-05.md) — Tatbestand:
+- [BGH, Urteil vom 10.10.2006 - VI ZR 44/05](vi-zr-44-05.md) — Tatbestand:
 - [BGH, Urteil vom 10.10.2006 - VI ZR 74/05](vi-zr-74-05.md) — Tatbestand:
+- [BGH, Urteil vom 26.09.2006 - VI ZR 124/05](vi-zr-124-05.md) — Tatbestand:
 - [BGH, Urteil vom 26.09.2006 - VI ZR 166/05](vi-zr-166-05.md) — Tatbestand:
 - [BGH, Urteil vom 26.09.2006 - VI ZR 247/05](vi-zr-247-05.md) — Tatbestand:
+- [BGH, Beschluss vom 26.09.2006 - VI ZR 35/06](vi-zr-35-06.md) — BGH, Beschluss vom 26.09.2006 - VI ZR 35/06
+- [BGH, Beschluss vom 26.09.2006 - VI ZR 7/06](vi-zr-7-06.md) — BGH, Beschluss vom 26.09.2006 - VI ZR 7/06
+- [BGH, Beschluss vom 26.09.2006 - VI ZR 78/06](vi-zr-78-06.md) — BGH, Beschluss vom 26.09.2006 - VI ZR 78/06
 - [BGH, Beschluss vom 05.09.2006 - VI ZB 65/05](vi-zb-65-05.md) — I. 1 Die Parteien haben sich durch einen in der mündlichen Verhandlung beim Landgericht geschlossenen Vergleich darüber geeinigt, wie die wechsel- seitigen Forderungen aus dem der …
+- [BGH, Beschluss vom 05.09.2006 - VI ZB 7/06](vi-zb-7-06.md) — eines behaupteten ärztlichen
 - [BGH, Beschluss vom 05.09.2006 - VI ZB 84/05](vi-zb-84-05.md) — sittenwidriger vorsätzlicher Schädigung zu. Er habe weder hinrei-
+- [BGH, Beschluss vom 05.09.2006 - VI ZR 176/05](vi-zr-176-05.md) — I. 1 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
+- [BGH, Beschluss vom 28.08.2006 - VI ZR 180/05](vi-zr-180-05.md) — Die statthafte (vgl. Zöller/Vollkommer ZPO 25. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte …
 - [BGH, Beschluss vom 07.08.2006 - VI ZR 71/05](vi-zr-71-05.md) — Die statthafte (vgl. Zöller/Vollkommer ZPO 25. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte …
+- [BGH, Beschluss vom 11.07.2006 - VI ZB 13/06](vi-zb-13-06.md) — I. 1 Das Amtsgericht hat die Beklagten mit Urteil vom 17. Juni 2004 als Ge- samtschuldner zur Zahlung an den Rechtsvorgänger der Klägerin verurteilt. Gegen dieses Urteil legten …
 - [BGH, Beschluss vom 11.07.2006 - VI ZB 34/06](vi-zb-34-06.md) — BGH, Beschluss vom 11.07.2006 - VI ZB 34/06
+- [BGH, Beschluss vom 11.07.2006 - VI ZR 23/06](vi-zr-23-06.md) — als Käufer von Eigentumswohnungen in Betracht kämen.
+- [BGH, Beschluss vom 11.07.2006 - VI ZR 252/05](vi-zr-252-05.md) — BGH, Beschluss vom 11.07.2006 - VI ZR 252/05
+- [BGH, Urteil vom 11.07.2006 - VI ZR 339/04](vi-zr-339-04.md) — 3-
+- [BGH, Urteil vom 11.07.2006 - VI ZR 340/04](vi-zr-340-04.md) — Tatbestand:
+- [BGH, Urteil vom 11.07.2006 - VI ZR 341/04](vi-zr-341-04.md) — Tatbestand:
+- [BGH, Beschluss vom 11.07.2006 - VI ZR 43/06](vi-zr-43-06.md) — BGH, Beschluss vom 11.07.2006 - VI ZR 43/06
+- [BGH, Beschluss vom 04.07.2006 - VI ZB 48/05](vi-zb-48-05.md) — der Versäumung der Berufungsbegründungsfrist
 - [BGH, Versäumnisurteil vom 04.07.2006 - VI ZR 237/05](vi-zr-237-05.md) — BGH, Versäumnisurteil vom 04.07.2006 - VI ZR 237/05
+- [BGH, Urteil vom 27.06.2006 - VI ZR 143/05](vi-zr-143-05.md) — der von ihm erbrachten Aufwendungen beim Rückgriff nach § 110 SGB VII grundsätzlich auch auf den fiktiven Schmerzensgeldanspruch des Geschäd
+- [BGH, Urteil vom 27.06.2006 - VI ZR 337/04](vi-zr-337-04.md) — vermehrter Bedürfnisse nach § 843 BGB.
 - [BGH, Beschluss vom 20.06.2006 - VI ZB 14/06](vi-zb-14-06.md) — I. 1 Der Beklagte hat gegen das seinem Prozessbevollmächtigten am 13. Juni 2005 zugestellte Urteil des Amtsgerichts am 29. Juni 2005 Berufung eingelegt. Mit dem am Montag, dem 15 …
+- [BGH, Beschluss vom 20.06.2006 - VI ZB 75/05](vi-zb-75-05.md) — I. 1 Der Kläger begehrt von dem beklagten Haftpflichtversicherer restlichen Schadensersatz nach einem Verkehrsunfall. Die volle Ersatzpflicht der Beklag- ten für das …
 - [BGH, Beschluss vom 20.06.2006 - VI ZR 114/05](vi-zr-114-05.md) — BGH, Beschluss vom 20.06.2006 - VI ZR 114/05
 - [BGH, Beschluss vom 20.06.2006 - VI ZR 183/05](vi-zr-183-05.md) — BGH, Beschluss vom 20.06.2006 - VI ZR 183/05
+- [BGH, Urteil vom 20.06.2006 - VI ZR 78/04](vi-zr-78-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 13.06.2006 - VI ZR 161/05](vi-zr-161-05.md) — Tatbestand:
+- [BGH, Urteil vom 13.06.2006 - VI ZR 323/04](vi-zr-323-04.md) — Tatbestand:
+- [BGH, Beschluss vom 30.05.2006 - VI ZB 64/05](vi-zb-64-05.md) — dieser und weiterer vergleichbarer Straftaten zum Nachteil
+- [BGH, Beschluss vom 30.05.2006 - VI ZR 118/05](vi-zr-118-05.md) — BGH, Beschluss vom 30.05.2006 - VI ZR 118/05
+- [BGH, Beschluss vom 30.05.2006 - VI ZR 170/05](vi-zr-170-05.md) — BGH, Beschluss vom 30.05.2006 - VI ZR 170/05
+- [BGH, Urteil vom 30.05.2006 - VI ZR 174/05](vi-zr-174-05.md) — Tatbestand:
+- [BGH, Beschluss vom 30.05.2006 - VI ZR 202/05](vi-zr-202-05.md) — BGH, Beschluss vom 30.05.2006 - VI ZR 202/05
+- [BGH, Beschluss vom 23.05.2006 - VI ZB 29/05](vi-zb-29-05.md) — mangelhafter
 - [BGH, Beschluss vom 23.05.2006 - VI ZB 7/05](vi-zb-7-05.md) — bisher nicht berücksichtigter Vorschäden und eines Abzugs Neu für Alt seien die erforderlichen Reparaturkosten entgegen dem vom Kläger vorge
 - [BGH, Beschluss vom 23.05.2006 - VI ZB 77/05](vi-zb-77-05.md) — BGH, Beschluss vom 23.05.2006 - VI ZB 77/05
+- [BGH, Urteil vom 23.05.2006 - VI ZR 192/05](vi-zr-192-05.md) — Tatbestand:
+- [BGH, Beschluss vom 23.05.2006 - VI ZR 235/05](vi-zr-235-05.md) — BGH, Beschluss vom 23.05.2006 - VI ZR 235/05
+- [BGH, Urteil vom 23.05.2006 - VI ZR 259/04](vi-zr-259-04.md) — Veränderungen und Verschlechterungen der Mietsache.
+- [BGH, Beschluss vom 16.05.2006 - VI ZR 145/05](vi-zr-145-05.md) — BGH, Beschluss vom 16.05.2006 - VI ZR 145/05
+- [BGH, Urteil vom 16.05.2006 - VI ZR 189/05](vi-zr-189-05.md) — Tatbestand:
+- [BGH, Urteil vom 09.05.2006 - VI ZR 117/05](vi-zr-117-05.md) — Tatbestand:
 - [BGH, Beschluss vom 09.05.2006 - VI ZR 140/05](vi-zr-140-05.md) — BGH, Beschluss vom 09.05.2006 - VI ZR 140/05
 - [BGH, Urteil vom 09.05.2006 - VI ZR 225/05](vi-zr-225-05.md) — Tatbestand:
+- [BGH, Beschluss vom 09.05.2006 - VI ZR 92/05](vi-zr-92-05.md) — 1. Über die statthafte (vgl. Zöller/Vollkommer ZPO 25. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge entscheidet der Senat in der regulären Spruchgruppe (vgl …
 - [BGH, Beschluss vom 08.05.2006 - VI ZB 17/06](vi-zb-17-06.md) — BGH, Beschluss vom 08.05.2006 - VI ZB 17/06
+- [BGH, Beschluss vom 02.05.2006 - VI ZR 80/05](vi-zr-80-05.md) — der Operatio-
+- [BGH, Beschluss vom 25.04.2006 - VI ZB 73/04](vi-zb-73-04.md) — I. 1 Die Klägerin hat mit ihrer Klage ein Schmerzensgeld von 200 € geltend gemacht und weiterhin die Verurteilung des Beklagten zur Unterlassung bean- tragt, die Klägerin zu …
+- [BGH, Beschluss vom 25.04.2006 - VI ZR 109/05](vi-zr-109-05.md) — BGH, Beschluss vom 25.04.2006 - VI ZR 109/05
+- [BGH, Beschluss vom 25.04.2006 - VI ZR 15/05](vi-zr-15-05.md) — I. 1 Mit Beschluss vom 31. Januar 2006 hat der Senat die Beschwerde des Klägers gegen die Nichtzulassung der Revision in dem Urteil des 3. Zivilsenats des Oberlandesgerichts Hamm …
 - [BGH, Beschluss vom 25.04.2006 - VI ZR 255/05](vi-zr-255-05.md) — Die Voraussetzungen der §§ 114, 121 ZPO sind nicht erfüllt.
 - [BGH, Beschluss vom 25.04.2006 - VI ZR 279/05](vi-zr-279-05.md) — BGH, Beschluss vom 25.04.2006 - VI ZR 279/05
+- [BGH, Versäumnisurteil vom 25.04.2006 - VI ZR 36/05](vi-zr-36-05.md) — 3-
 - [BGH, Beschluss vom 04.04.2006 - VI ZB 45/04](vi-zb-45-04.md) — BGH, Beschluss vom 04.04.2006 - VI ZB 45/04
 - [BGH, Beschluss vom 04.04.2006 - VI ZB 66/04](vi-zb-66-04.md) — BGH, Beschluss vom 04.04.2006 - VI ZB 66/04
+- [BGH, Urteil vom 04.04.2006 - VI ZR 151/05](vi-zr-151-05.md) — Tatbestand:
 - [BGH, Urteil vom 04.04.2006 - VI ZR 338/04](vi-zr-338-04.md) — Tatbestand:
+- [BGH, Beschluss vom 28.03.2006 - VI ZR 214/05](vi-zr-214-05.md) — BGH, Beschluss vom 28.03.2006 - VI ZR 214/05
+- [BGH, Urteil vom 28.03.2006 - VI ZR 46/05](vi-zr-46-05.md) — Tatbestand:
 - [BGH, Urteil vom 28.03.2006 - VI ZR 50/05](vi-zr-50-05.md) — BGH, Urteil vom 28.03.2006 - VI ZR 50/05
+- [BGH, Beschluss vom 21.03.2006 - VI ZB 25/05](vi-zb-25-05.md) — I. 1 Das Amtsgericht hat die von der Klägerin gegen die Beklagten erhobene Schadensersatzklage durch Urteil vom 13. Januar 2005 abgewiesen. Mit am 3. März 2005 beim Landgericht …
+- [BGH, Beschluss vom 21.03.2006 - VI ZB 31/05](vi-zb-31-05.md) — der Versäumung der Berufungs-
 - [BGH, Urteil vom 21.03.2006 - VI ZR 77/05](vi-zr-77-05.md) — Tatbestand:
 - [BGH, Beschluss vom 21.03.2006 - VI ZR 89/05](vi-zr-89-05.md) — BGH, Beschluss vom 21.03.2006 - VI ZR 89/05
+- [BGH, Beschluss vom 14.03.2006 - VI ZB 69/04](vi-zb-69-04.md) — I. 1 Der Kläger macht gegen die Beklagten Schadensersatzansprüche aus einem Verkehrsunfall geltend. Das Amtsgericht hat die Klage abgewiesen. Ge- gen das ihm am 26. Mai 2004 …
+- [BGH, Urteil vom 14.03.2006 - VI ZR 279/04](vi-zr-279-04.md) — Tatbestand:
 - [BGH, Urteil vom 14.03.2006 - VI ZR 335/04](vi-zr-335-04.md) — Tatbestand:
+- [BGH, Urteil vom 07.03.2006 - VI ZR 42/05](vi-zr-42-05.md) — Tatbestand:
+- [BGH, Urteil vom 07.03.2006 - VI ZR 54/05](vi-zr-54-05.md) — Tatbestand:
+- [BGH, Beschluss vom 14.02.2006 - VI ZB 44/05](vi-zb-44-05.md) — angeblich fehlerhafter Betreuung bei ihrer Geburt ein Schmerzensgeld von min-
+- [BGH, Urteil vom 14.02.2006 - VI ZR 126/05](vi-zr-126-05.md) — Tatbestand:
 - [BGH, Urteil vom 14.02.2006 - VI ZR 32/05](vi-zr-32-05.md) — Tatbestand:
+- [BGH, Urteil vom 14.02.2006 - VI ZR 322/04](vi-zr-322-04.md) — Tatbestand:
+- [BGH, Beschluss vom 07.02.2006 - VI ZR 164/05](vi-zr-164-05.md) — BGH, Beschluss vom 07.02.2006 - VI ZR 164/05
+- [BGH, Beschluss vom 07.02.2006 - VI ZR 190/05](vi-zr-190-05.md) — BGH, Beschluss vom 07.02.2006 - VI ZR 190/05
 - [BGH, Urteil vom 07.02.2006 - VI ZR 20/05](vi-zr-20-05.md) — Tatbestand:
+- [BGH, Urteil vom 31.01.2006 - VI ZR 135/04](vi-zr-135-04.md) — eines ärztlichen Fehlers ein Schwangerschaftsabbruch aus medizinischer Indikation unterblieben sei, so erfordert die Prüfung der Voraussetzu
+- [BGH, Urteil vom 31.01.2006 - VI ZR 66/05](vi-zr-66-05.md) — Tatbestand:
+- [BGH, Beschluss vom 31.01.2006 - VI ZR 87/05](vi-zr-87-05.md) — BGH, Beschluss vom 31.01.2006 - VI ZR 87/05
 - [BGH, Beschluss vom 24.01.2006 - VI ZB 49/05](vi-zb-49-05.md) — eines behaupteten ärztlichen Behandlungsfehlers
+- [BGH, Beschluss vom 24.01.2006 - VI ZB 67/05](vi-zb-67-05.md) — I. 1 Der Kläger hat die Beklagte zu 1 und den Beklagten zu 2 als Gesamt- schuldner auf Zahlung von 2.104,95 € nebst Zinsen in Anspruch genommen. Beide waren durch denselben …
 - [BGH, Beschluss vom 24.01.2006 - VI ZR 126/04](vi-zr-126-04.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Gehörsrüge ist nicht begründet.
 - [BGH, Beschluss vom 24.01.2006 - VI ZR 286/04](vi-zr-286-04.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
 - [BGH, Beschluss vom 24.01.2006 - VI ZR 287/04](vi-zr-287-04.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
 - [BGH, Beschluss vom 24.01.2006 - VI ZR 288/04](vi-zr-288-04.md) — Die gemäß § 321 a ZPO statthafte Gehörsrüge ist nicht begründet.
+- [BGH, Urteil vom 24.01.2006 - VI ZR 290/04](vi-zr-290-04.md) — Tatbestand:
 - [BGH, Beschluss vom 17.01.2006 - VI ZB 46/05](vi-zb-46-05.md) — I. 1 Das Landgericht H. verurteilte die Beklagten als Gesamtschuldner mit Versäumnisurteil vom 21. Januar 2004 zur Zahlung eines Schmerzensgeldes von 30.000 € nebst Zinsen und …
+- [BGH, Beschluss vom 10.01.2006 - VI ZB 26/05](vi-zb-26-05.md) — Verletzung des Persönlichkeitsrechts stammende Vermögen zur Deckung von Prozesskosten einzusetzen ist, ist unter Berücksichtigung der Umstän
 - [BGH, Beschluss vom 10.01.2006 - VI ZB 27/05](vi-zb-27-05.md) — der Ver-
 - [BGH, Beschluss vom 10.01.2006 - VI ZB 28/05](vi-zb-28-05.md) — der Ver-
+- [BGH, Beschluss vom 10.01.2006 - VI ZB 61/05](vi-zb-61-05.md) — des verlängerten Wochenendes sei nach Auskunft des Leiters der Einlaufstelle seinerzeit eine Zwischenleerung vorgenommen worden, weshalb nic
+- [BGH, Beschluss vom 10.01.2006 - VI ZB 75/04](vi-zb-75-04.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Gehörsrüge ist nicht begründet.
 - [BGH, Urteil vom 10.01.2006 - VI ZR 43/05](vi-zr-43-05.md) — Tatbestand:

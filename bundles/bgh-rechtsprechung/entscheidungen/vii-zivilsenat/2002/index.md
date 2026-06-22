@@ -1,37 +1,91 @@
 # VII. Zivilsenat – 2002
 
-33 Entscheidung(en).
+87 Entscheidung(en).
 
 - [BGH, Beschluss vom 19.12.2002 - VII ZB 14/02](vii-zb-14-02.md) — der Nichterhebung der Hauptsacheklage die außergerichtlichen Kosten des Antragsgegners dem Antragsteller aufzuerlegen. Das sei hier der Fall
+- [BGH, Beschluss vom 19.12.2002 - VII ZB 24/02](vii-zb-24-02.md) — Mit ihren Schreiben vom 9. Juni 2002 verfolgt die Antragstellerin und Beschwerdeführerin insgesamt 13 Anträge. Zwei dieser Anträge (Nr. 2 und 9) stellen Beschwerden gegen …
 - [BGH, Beschluss vom 19.12.2002 - VII ZR 101/02](vii-zr-101-02.md) — relevante Rechtsfrage entscheidungserheblich ist.
+- [BGH, Urteil vom 19.12.2002 - VII ZR 103/00](vii-zr-103-00.md) — Tatbestand: Die Parteien streiten darüber, wer von ihnen für die abweichend von der vereinbarten und genehmigten Planung ausgeführte Erricht
+- [BGH, Urteil vom 19.12.2002 - VII ZR 176/02](vii-zr-176-02.md) — der Eröffnung des Konkurs- oder Insolvenzverfahrens gemäß § 240 ZPO berührt das Verfahren der übrigen Streitgenossen nicht.
+- [BGH, Urteil vom 19.12.2002 - VII ZR 440/01](vii-zr-440-01.md) — fehlender Vorunternehmerleistungen seine Leistungen nicht erbringen, genügt neben einer nach § 6 Nr. 1 VOB/B etwa erforderlichen Behinderung
+- [BGH, Beschluss vom 19.12.2002 - VII ZR 6/02](vii-zr-6-02.md) — BGH, Beschluss vom 19.12.2002 - VII ZR 6/02
+- [BGH, Urteil vom 05.12.2002 - VII ZR 342/01](vii-zr-342-01.md) — Tatbestand: Der Kläger verlangt von den Beklagten die Beseitigung einer Vielzahl von Mängeln. Er erwarb im Jahre 1994 ein von den Beklagten
+- [BGH, Urteil vom 05.12.2002 - VII ZR 360/01](vii-zr-360-01.md) — Mängeln erhoben, ohne daß eine wirksame Fristsetzung mit Ablehnungsandrohung vorliegt, so muß sie nicht nachgeholt werden, wenn der Unterneh
+- [BGH, Urteil vom 28.11.2002 - VII ZR 136/00](vii-zr-136-00.md) — Tatbestand: I.
+- [BGH, Beschluss vom 28.11.2002 - VII ZR 180/02](vii-zr-180-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Urteil vom 28.11.2002 - VII ZR 270/01](vii-zr-270-01.md) — BGH, Urteil vom 28.11.2002 - VII ZR 270/01
 - [BGH, Urteil vom 14.11.2002 - VII ZR 224/01](vii-zr-224-01.md) — Tatbestand: Der Kläger verlangt nach Beendigung eines Bauvertrages mit der Beklagten die Rückzahlung von Abschlagszahlungen. Die Beklagte be
+- [BGH, Urteil vom 14.11.2002 - VII ZR 23/02](vii-zr-23-02.md) — Tatbestand: Die Klägerin verlangt von der Beklagten im Revisionsverfahren noch Werklohn für nicht erbrachte Leistungen abzüglich ersparter A
+- [BGH, Beschluss vom 24.10.2002 - VII ZR 4/00](vii-zr-4-00.md) — Nach § 116 Satz 1 Nr. 2 ZPO kommt eine Gewährung von Prozeßkostenhilfe für die beklagte GmbH nur in Betracht, wenn die Unterlassung der Rechtsverfolgung oder Rechtsverteidigung …
 - [BGH, Beschluss vom 10.10.2002 - VII ZB 11/02](vii-zb-11-02.md) — Versäumung der Berufungsbegründungsfrist versagt wird, ist im Arrestverfahren und Verfahren der einstweiligen Verfügung nicht statthaft.
+- [BGH, Beschluss vom 10.10.2002 - VII ZB 7/02](vii-zb-7-02.md) — I. Das Oberlandesgericht hat die fristgerecht eingelegte Berufung der Klägerin gegen das Urteil des Landgerichts S. vom 28. November 2001 am 5. Februar 2002 verworfen, weil die …
+- [BGH, Versäumnisurteil vom 10.10.2002 - VII ZR 315/01](vii-zr-315-01.md) — der mangelhaften Leistung nur noch Schadensersatz oder Minderung verlangt.
+- [BGH, Urteil vom 26.09.2002 - VII ZR 290/01](vii-zr-290-01.md) — Tatbestand: I.
+- [BGH, Urteil vom 26.09.2002 - VII ZR 422/00](vii-zr-422-00.md) — Tatbestand: I.
+- [BGH, Beschluss vom 26.09.2002 - VII ZR 54/02](vii-zr-54-02.md) — Der Beklagte, den das Berufungsgericht zur Zahlung von 214.138,27 DM und Zinsen verurteilt hat, begehrt zur Durchführung der Revision Prozeßkostenhilfe.
+- [BGH, Versäumnisurteil vom 12.09.2002 - VII ZR 344/01](vii-zr-344-01.md) — Tatbestand: Der Kläger verlangt wegen Mängeln einer 1993 vom beklagten Bauträger erworbenen Gewerbeeinheit Schadensersatz. Nach seiner Behau
+- [BGH, Beschluss vom 12.09.2002 - VII ZR 81/01](vii-zr-81-01.md) — der geändert ausgeführten Leistung keine wesentliche Abweichung vom vereinbarten Preis voraus. Die Senatsrechtsprechung, auf die sich die Re
 - [BGH, Beschluss vom 25.07.2002 - VII ZR 143/01](vii-zr-143-01.md) — Es geht zu Lasten der Beklagten, daß sich das Berufungsgericht vom Abschluß einer niedrigeren Pauschalhonorarvereinbarung nicht hat überzeugen können.
 - [BGH, Urteil vom 25.07.2002 - VII ZR 263/01](vii-zr-263-01.md) — Tatbestand: Die Klägerin verlangt von dem Beklagten aus abgetretenem Recht restlichen Werklohn für erbrachte Leistungen nach Kündigung eines
 - [BGH, Urteil vom 25.07.2002 - VII ZR 280/01](vii-zr-280-01.md) — Tatbestand:
 - [BGH, Beschluss vom 25.07.2002 - VII ZR 458/01](vii-zr-458-01.md) — . Würdigt das Berufungsgericht aufgerechnete Gegenforderungen nicht als Rechnungsposten sondern entscheidet es über den Bestand der Gegenforderungen im Sinne des § 322 Abs. 2 ZPO …
 - [BGH, Urteil vom 25.07.2002 - VII ZR 88/01](vii-zr-88-01.md) — Tatbestand: Die Klägerin verlangt von den beiden Beklagten aus abgetretenem Recht 62.289,24 DM (= 31.847,98 €). Die Klägerin ist eine Angest
 - [BGH, Beschluss vom 11.07.2002 - VII ZB 12/02](vii-zb-12-02.md) — Die Beschwerde ist unzulässig, weil sie gesetzlich nicht vorgesehen und nicht zugelassen ist, § 574 Abs.
+- [BGH, Urteil vom 11.07.2002 - VII ZR 261/00](vii-zr-261-00.md) — Tatbestand:
 - [BGH, Urteil vom 11.07.2002 - VII ZR 437/01](vii-zr-437-01.md) — Tatbestand: Die Parteien verlangen mit Klage und Widerklage gegenseitig Schadensersatz. Die Kläger wollten ein von der Beklagten zu erstelle
 - [BGH, Beschluss vom 11.07.2002 - VII ZR 63/00](vii-zr-63-00.md) — I. Der Senat hat die Revision des Beklagten durch Beschluß vom 18. April 2002 nicht angenommen. Dieser Beschluß ist dem Prozeßbevollmächtigten des Beklagten am 22. April 2002 …
+- [BGH, Urteil vom 04.07.2002 - VII ZR 103/01](vii-zr-103-01.md) — Tatbestand: Die Klägerin verlangt nach der Kündigung zweier Pauschalpreisverträge, denen die VOB/B zugrunde lag, noch offenen Werklohn für d
+- [BGH, Urteil vom 04.07.2002 - VII ZR 502/99](vii-zr-502-99.md) — Tatbestand: Die Parteien streiten darüber, ob die klagende Bauunternehmerin von der beklagten Bestellerin eine Vertragserfüllungsbürgschaft
+- [BGH, Urteil vom 04.07.2002 - VII ZR 66/01](vii-zr-66-01.md) — Tatbestand: Die Klägerin verlangt von dem beklagten Landschaftsarchitekten Schadensersatz. Sie beauftragte den Beklagten 1991 im Zuge der Da
 - [BGH, Urteil vom 27.06.2002 - VII ZR 238/01](vii-zr-238-01.md) — 3-
-- [BGH, Versäumnisurteil vom 27.06.2002 - VII ZR 272/01](vii-zr-272-01.md) — Tatbestand: Die Klägerin verlangt Werklohn für Arbeiten am Bauvorhaben der Beklagten.
+- [BGH, Beschluss vom 13.06.2002 - VII ZA 2/02](vii-za-2-02.md) — . Die Gemeinschuldnerin hat zuletzt Werklohn in Höhe von 888.098,41 DM und 8% Zinsen seit dem 19. Juni 1997 geltend gemacht. Klage und Berufung sind ohne Erfolg geblieben. Während …
+- [BGH, Beschluss vom 13.06.2002 - VII ZR 194/01](vii-zr-194-01.md) — BGH, Beschluss vom 13.06.2002 - VII ZR 194/01
+- [BGH, Urteil vom 13.06.2002 - VII ZR 30/01](vii-zr-30-01.md) — Tatbestand: Die Klägerin nimmt den Beklagten zu 2 auf Schadensersatz in Anspruch, weil er sie bei den von ihm geführten Verhandlungen über e
+- [BGH, Urteil vom 13.06.2002 - VII ZR 321/00](vii-zr-321-00.md) — Tatbestand: Die Klägerin nimmt die Beklagten nach Kündigung eines Bauvertrages auf Zahlung in Anspruch. Die Parteien streiten über die Wirks
 - [BGH, Beschluss vom 23.05.2002 - VII ZR 165/01](vii-zr-165-01.md) — des noch anhängigen Teils ( 1.601,22 € aus dem Ursprungsverfahren 10 O 137/99 ) darauf hingewiesen, dass sie ihre Bedürftigkeit bislang nich
 - [BGH, Urteil vom 23.05.2002 - VII ZR 219/01](vii-zr-219-01.md) — Tatbestand: Die Klägerin begehrt vom Beklagten Schadensersatz wegen einer mangelhaften Vollwärmeisolierung. Die Klägerin und ihr Ehemann bea
 - [BGH, Beschluss vom 16.05.2002 - VII ZR 181/00](vii-zr-181-00.md) — der Betonqualität der Tiefgarage in Höhe eines Betrages von 248.900,35 DM zum Nachteil der Beklagten erkannt worden ist.
+- [BGH, Versäumnisurteil vom 16.05.2002 - VII ZR 197/01](vii-zr-197-01.md) — fehlender schlüssiger Darstellung zur Sachbefugnis abweist, nachdem die Vorinstanz dieser stattgegeben hatte.
+- [BGH, Urteil vom 16.05.2002 - VII ZR 259/01](vii-zr-259-01.md) — Tatbestand: I.
+- [BGH, Beschluss vom 16.05.2002 - VII ZR 462/00](vii-zr-462-00.md) — BGH, Beschluss vom 16.05.2002 - VII ZR 462/00
 - [BGH, Urteil vom 16.05.2002 - VII ZR 479/00](vii-zr-479-00.md) — Tatbestand: Die Klägerin verlangt aus abgetretenem Recht von den Beklagten restlichen Werklohn aus einem Pauschalpreisvertrag sowie Vergütun
+- [BGH, Urteil vom 16.05.2002 - VII ZR 494/00](vii-zr-494-00.md) — Tatbestand: Die Klägerin verlangt von den Beklagten die Herausgabe der Urkunde über eine Gewährleistungsbürgschaft. Sie war als Generalunter
+- [BGH, Versäumnisurteil vom 16.05.2002 - VII ZR 81/00](vii-zr-81-00.md) — Tatbestand: Die Klägerin begehrt von dem Beklagten zu 1, einem Architekten (künftig: Beklagter), Schadensersatz. Der Beklagte hatte in den J
+- [BGH, Beschluss vom 02.05.2002 - VII ZR 178/01](vii-zr-178-01.md) — mangelhafter oder unterlassener Erfüllung des Vertrags erwachsen können,
+- [BGH, Versäumnisurteil vom 02.05.2002 - VII ZR 325/00](vii-zr-325-00.md) — Tatbestand: Die Klägerin verlangt restlichen Werklohn in Höhe von jetzt noch 85.985,91 DM (= 43.963,90 €). Sie hat Ende 1993 mit den beiden
+- [BGH, Urteil vom 02.05.2002 - VII ZR 481/00](vii-zr-481-00.md) — Tatbestand: I.
+- [BGH, Urteil vom 18.04.2002 - VII ZR 164/01](vii-zr-164-01.md) — Tatbestand: Die Klägerin verlangt nach der Kündigung eines Bauvertrages Werklohn und Rückgabe einer Vertragserfüllungsbürgschaft. In der Rev
+- [BGH, Urteil vom 18.04.2002 - VII ZR 192/01](vii-zr-192-01.md) — Tatbestand: Die Klägerin verlangt die Herausgabe von zwei Urkunden über Vertragserfüllungsbürgschaften auf erstes Anfordern, die sie zur Sic
 - [BGH, Urteil vom 18.04.2002 - VII ZR 260/01](vii-zr-260-01.md) — BGH, Urteil vom 18.04.2002 - VII ZR 260/01
+- [BGH, Urteil vom 18.04.2002 - VII ZR 38/01](vii-zr-38-01.md) — Tatbestand:
+- [BGH, Urteil vom 18.04.2002 - VII ZR 70/01](vii-zr-70-01.md) — 3-
 - [BGH, Urteil vom 04.04.2002 - VII ZR 143/99](vii-zr-143-99.md) — Tatbestand: Die Kläger verlangen von dem Beklagten restliches Architektenhonorar, der Beklagte rechnet hilfsweise auf. Er forderte mit seine
+- [BGH, Beschluss vom 04.04.2002 - VII ZR 252/01](vii-zr-252-01.md) — BGH, Beschluss vom 04.04.2002 - VII ZR 252/01
+- [BGH, Urteil vom 04.04.2002 - VII ZR 26/01](vii-zr-26-01.md) — Tatbestand: Der Kläger verlangt als Konkursverwalter der WTS GmbH (nachfolgend: Gemeinschuldnerin) vom beklagten Abwasserzweckverband der Hö
 - [BGH, Urteil vom 04.04.2002 - VII ZR 295/00](vii-zr-295-00.md) — Tatbestand: Die Klägerin verlangt aus eigenem und aus abgetretenem Recht ihres früheren Ehemannes Schadensersatz wegen mangelhafter Architek
+- [BGH, Beschluss vom 21.03.2002 - VII ZR 137/00](vii-zr-137-00.md) — I. Der Beklagte ist Insolvenzverwalter über das Vermögen der K. Markenhaus GmbH und der K. Haus und Grund GmbH. Das Insolvenzverfahren ist nach Einlegung und Begründung der …
+- [BGH, Urteil vom 21.03.2002 - VII ZR 224/00](vii-zr-224-00.md) — Tatbestand: Die Klägerin verlangt als Rechtsnachfolgerin der IGEWA GmbH (kurz: IGEWA) Ersatz der durch einen gestörten Bauablauf entstandene
+- [BGH, Urteil vom 21.03.2002 - VII ZR 230/01](vii-zr-230-01.md) — Tatbestand: I.
+- [BGH, Urteil vom 21.03.2002 - VII ZR 493/00](vii-zr-493-00.md) — Tatbestand: I.
+- [BGH, Urteil vom 07.03.2002 - VII ZR 1/00](vii-zr-1-00.md) — Tatbestand: I.
+- [BGH, Urteil vom 07.03.2002 - VII ZR 182/01](vii-zr-182-01.md) — Tatbestand: I.
 - [BGH, Urteil vom 07.03.2002 - VII ZR 193/01](vii-zr-193-01.md) — Tatbestand: Die Kläger machen gegen die Beklagte Gewährleistungsansprüche aus einem Bauträgervertrag geltend. Das Landgericht hat der Klage
 - [BGH, Urteil vom 07.03.2002 - VII ZR 41/01](vii-zr-41-01.md) — BGH, Urteil vom 07.03.2002 - VII ZR 41/01
 - [BGH, Beschluss vom 28.02.2002 - VII ZA 8/01](vii-za-8-01.md) — Der Antrag ist allerdings nicht schon deshalb aussichtslos, weil er selbst nicht unterschrieben ist.
 - [BGH, Beschluss vom 28.02.2002 - VII ZB 26/01](vii-zb-26-01.md) — BGH, Beschluss vom 28.02.2002 - VII ZB 26/01
 - [BGH, Beschluss vom 28.02.2002 - VII ZB 28/01](vii-zb-28-01.md) — Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen Stand gewährt. Beschwerdewert: 16.835,04 €.
 - [BGH, Beschluss vom 28.02.2002 - VII ZB 29/01](vii-zb-29-01.md) — Versäumung der Begründungsfrist verworfen hat, nicht berücksichtigt habe, daß an diesem Tag um 8 Uhr das Insolvenzverfahren über ihr Vermöge
+- [BGH, Urteil vom 28.02.2002 - VII ZR 376/00](vii-zr-376-00.md) — Tatbestand: I.
 - [BGH, Urteil vom 28.02.2002 - VII ZR 434/99](vii-zr-434-99.md) — Tatbestand: I.
+- [BGH, Urteil vom 28.02.2002 - VII ZR 455/00](vii-zr-455-00.md) — Tatbestand: Die Klägerin begehrt von der Beklagten aus abgetretenem Recht Schadensersatz wegen Behinderung der Bauausführung nach § 6 Nr. 6
+- [BGH, Urteil vom 14.02.2002 - VII ZR 363/01](vii-zr-363-01.md) — Tatbestand: Die Parteien streiten über die Abrechnung eines Werkvertrages. Die Klägerin hat im ersten Rechtszug eine Forderung von insgesamt
 - [BGH, Urteil vom 31.01.2002 - VII ZR 249/00](vii-zr-249-00.md) — Tatbestand: Die Kläger verlangen 160.670,99 DM wegen Überzahlung, Schadensersatz, Minderung sowie Mängelbeseitigungskosten. Sie wollten sich
 - [BGH, Versäumnisurteil vom 24.01.2002 - VII ZR 196/00](vii-zr-196-00.md) — BGH, Versäumnisurteil vom 24.01.2002 - VII ZR 196/00
 - [BGH, Urteil vom 24.01.2002 - VII ZR 206/00](vii-zr-206-00.md) — Tatbestand:
 - [BGH, Urteil vom 24.01.2002 - VII ZR 461/00](vii-zr-461-00.md) — Tatbestand: Die Klägerin erbrachte für den Beklagten Ingenieurleistungen der technischen Gebäudeausrüstung für die Sanierung einer Villa sow
+- [BGH, Beschluss vom 17.01.2002 - VII ZB 24/01](vii-zb-24-01.md) — BGH, Beschluss vom 17.01.2002 - VII ZB 24/01
+- [BGH, Beschluss vom 17.01.2002 - VII ZB 32/01](vii-zb-32-01.md) — temporärer Arbeitsüberlastung nicht bearbeitet.
+- [BGH, Beschluss vom 17.01.2002 - VII ZB 6/01](vii-zb-6-01.md) — BGH, Beschluss vom 17.01.2002 - VII ZB 6/01
+- [BGH, Urteil vom 17.01.2002 - VII ZR 198/00](vii-zr-198-00.md) — 3-
+- [BGH, Beschluss vom 17.01.2002 - VII ZR 356/01](vii-zr-356-01.md) — Die Vorinstanzen haben den Streitwert ohne Beanstandung der Parteien auf 40.000 DM festgesetzt.
+- [BGH, Urteil vom 17.01.2002 - VII ZR 490/00](vii-zr-490-00.md) — Tatbestand: Die Klägerin begehrt wegen nicht rechtzeitiger Fertigstellung einer Eigentumswohnung von der Beklagten Rückabwicklung des Vertra

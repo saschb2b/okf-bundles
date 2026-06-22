@@ -1,63 +1,126 @@
 # IX. Zivilsenat – 2005
 
-146 Entscheidung(en).
+356 Entscheidung(en).
 
+- [BGH, Urteil vom 22.12.2005 - IX ZR 190/02](ix-zr-190-02.md) — Tatbestand:
+- [BGH, Beschluss vom 15.12.2005 - IX ZA 3/04](ix-za-3-04.md) — Die beantragte Prozesskostenhilfe war zu versagen, weil die beabsichtig- te Rechtsverfolgung keine hinreichende Aussicht auf Erfolg bietet (§ 114 Satz 1 ZPO).
+- [BGH, Beschluss vom 15.12.2005 - IX ZB 12/05](ix-zb-12-05.md) — Die Rechtsbeschwerde ist unzulässig, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen …
+- [BGH, Beschluss vom 15.12.2005 - IX ZB 135/03](ix-zb-135-03.md) — I. 1 Mit Beschluß vom 1. Juli 1997 wurde das Gesamtvollstreckungsverfah- ren über das Vermögen der B. GmbH (fortan: Schuldnerin) eröffnet und eine Frist zur Anmeldung von …
+- [BGH, Beschluss vom 15.12.2005 - IX ZB 276/04](ix-zb-276-04.md) — I. 1 Die Antragstellerin ist eine dänische Anwaltskanzlei, die von der Antrags- gegnerin mit ihrer Vertretung in einer vor einem dänischen Gericht erhobenen -3- Klage beauftragt …
 - [BGH, Beschluss vom 15.12.2005 - IX ZB 278/04](ix-zb-278-04.md) — Die Rechtsbeschwerde ist statthaft (§ 64 Abs.
 - [BGH, Beschluss vom 15.12.2005 - IX ZB 79/04](ix-zb-79-04.md) — Die kraft Gesetzes statthafte Rechtsbeschwerde (§ 289 Abs.
 - [BGH, Beschluss vom 15.12.2005 - IX ZR 146/04](ix-zr-146-04.md) — BGH, Beschluss vom 15.12.2005 - IX ZR 146/04
 - [BGH, Beschluss vom 15.12.2005 - IX ZR 149/03](ix-zr-149-03.md) — BGH, Beschluss vom 15.12.2005 - IX ZR 149/03
-- [BGH, Beschluss vom 15.12.2005 - IX ZR 248/03](ix-zr-248-03.md) — der Unterlassung eines Hinweises nach § 234 Abs. 3 ZPO stellt sich
-- [BGH, Beschluss vom 14.12.2005 - IX ZB 256/04](ix-zb-256-04.md) — BGH, Beschluss vom 14.12.2005 - IX ZB 256/04
+- [BGH, Urteil vom 15.12.2005 - IX ZR 156/04](ix-zr-156-04.md) — Tatbestand:
+- [BGH, Beschluss vom 15.12.2005 - IX ZR 179/03](ix-zr-179-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat (§ 543 Abs.
+- [BGH, Urteil vom 15.12.2005 - IX ZR 227/04](ix-zr-227-04.md) — Tatbestand:
+- [BGH, Beschluss vom 14.12.2005 - IX ZB 138/05](ix-zb-138-05.md) — I. 1 Das Urteil des Amtsgerichts ist dem Kläger am 27. Juli 2004 zugestellt worden. Hiergegen hat der Kläger am 13. September 2004 Berufung eingelegt und Wiedereinsetzung in den …
+- [BGH, Beschluss vom 14.12.2005 - IX ZB 198/04](ix-zb-198-04.md) — I. 1 Der Kläger macht gegen die Beklagten Ansprüche nach dem Anfech- tungsgesetz geltend. Das Landgericht hat die Beklagten mit Urteil vom 25. März 2004 antragsgemäß verurteilt …
+- [BGH, Beschluss vom 14.12.2005 - IX ZB 207/04](ix-zb-207-04.md) — Die Rechtsbeschwerde ist nach § 574 Abs. 1 Nr. 1 ZPO, §§ 7, 34 Abs. 1 InsO statthaft; sie ist jedoch unzulässig, weil die Sache weder grundsätzliche Bedeutung hat (§ 574 Abs. 2 …
+- [BGH, Beschluss vom 14.12.2005 - IX ZB 268/04](ix-zb-268-04.md) — Der Rechtsbeschwerdeführer wurde mit Beschluss des Amtsgerichts - Insolvenzgerichts - vom 21.
 - [BGH, Beschluss vom 14.12.2005 - IX ZB 27/02](ix-zb-27-02.md) — Die Anhörungsrüge ist unbegründet. Die Gerichte sind nach Art. 103 Abs. 1 GG verpflichtet, das Vorbringen der Parteien zur Kenntnis zu nehmen und in Erwägung zu ziehen. Hingegen …
 - [BGH, Beschluss vom 14.12.2005 - IX ZB 54/04](ix-zb-54-04.md) — BGH, Beschluss vom 14.12.2005 - IX ZB 54/04
 - [BGH, Beschluss vom 14.12.2005 - IX ZR 210/03](ix-zr-210-03.md) — BGH, Beschluss vom 14.12.2005 - IX ZR 210/03
 - [BGH, Beschluss vom 08.12.2005 - IX ZA 16/03](ix-za-16-03.md) — BGH, Beschluss vom 08.12.2005 - IX ZA 16/03
+- [BGH, Beschluss vom 08.12.2005 - IX ZB 28/04](ix-zb-28-04.md) — I. 1 Die in Italien residierende Antragstellerin (Gläubigerin) hat gegen die in Deutschland ansässige Antragsgegnerin (Schuldnerin) beim Landgericht Vicen- za am 10. Dezember 2001 …
+- [BGH, Beschluss vom 08.12.2005 - IX ZB 308/04](ix-zb-308-04.md) — ihm vorgeworfener Pflichtverletzungen setzt grundsätzlich voraus, dass die Tatsachen, die den Entlassungsgrund bilden, zur vollen Überzeugun
+- [BGH, Beschluss vom 08.12.2005 - IX ZB 38/05](ix-zb-38-05.md) — offener Steuerschulden
 - [BGH, Beschluss vom 08.12.2005 - IX ZR 118/02](ix-zr-118-02.md) — BGH, Beschluss vom 08.12.2005 - IX ZR 118/02
+- [BGH, Urteil vom 08.12.2005 - IX ZR 182/01](ix-zr-182-01.md) — Tatbestand:
 - [BGH, Urteil vom 08.12.2005 - IX ZR 188/04](ix-zr-188-04.md) — Tatbestand:
 - [BGH, Beschluss vom 08.12.2005 - IX ZR 200/04](ix-zr-200-04.md) — BGH, Beschluss vom 08.12.2005 - IX ZR 200/04
-- [BGH, Beschluss vom 08.12.2005 - IX ZR 296/01](ix-zr-296-01.md) — BGH, Beschluss vom 08.12.2005 - IX ZR 296/01
 - [BGH, Beschluss vom 01.12.2005 - IX ZA 17/04](ix-za-17-04.md) — Gegen Beschlüsse des Bundesgerichtshofs ist das Rechtsmittel der Be- schwerde nicht statthaft, § 567 ZPO.
+- [BGH, Beschluss vom 01.12.2005 - IX ZA 23/05](ix-za-23-05.md) — Prozesskostenhilfe kann dem Schuldner nicht gewährt werden, weil das beabsichtigte Rechtsmittel keine hinreichende Aussicht auf Erfolg hat (§ 114 ZPO).
 - [BGH, Beschluss vom 01.12.2005 - IX ZB 17/04](ix-zb-17-04.md) — BGH, Beschluss vom 01.12.2005 - IX ZB 17/04
+- [BGH, Beschluss vom 01.12.2005 - IX ZB 186/05](ix-zb-186-05.md) — I. 1 Ein Gläubiger beantragte im Jahre 2003 die Eröffnung des Insolvenzver- fahrens über das Vermögen des Schuldners. Das Insolvenzgericht wies den Schuldner darauf hin, dass er …
+- [BGH, Beschluss vom 01.12.2005 - IX ZB 19/04](ix-zb-19-04.md) — statthafte Rechtsbeschwerde ist unzulässig. Die
+- [BGH, Beschluss vom 01.12.2005 - IX ZB 208/05](ix-zb-208-05.md) — I. 1 Der weitere Beteiligte ist mit Verfügung der Bundesanstalt für Finanz- dienstleistungen (BaFin) vom 13. August 2004 zum Abwickler über unerlaubt betriebene …
+- [BGH, Beschluss vom 01.12.2005 - IX ZB 311/04](ix-zb-311-04.md) — Der Kläger, ein Rechtsanwalt aus Berlin, ist Verwalter im Insolvenzver- fahren über das Vermögen der B.
+- [BGH, Beschluss vom 01.12.2005 - IX ZB 85/04](ix-zb-85-04.md) — Die Rechtsbeschwerde ist nach § 574 Abs. 1 Nr. 1 ZPO, § 7 InsO statt- haft. Sie ist jedoch unzulässig, weil die Voraussetzungen des § 574 Abs. 2 ZPO nicht gegeben sind. 2 …
 - [BGH, Beschluss vom 01.12.2005 - IX ZR 1/05](ix-zr-1-05.md) — BGH, Beschluss vom 01.12.2005 - IX ZR 1/05
+- [BGH, Urteil vom 01.12.2005 - IX ZR 115/01](ix-zr-115-01.md) — Verletzung konkursspezifischer Pflichten ist gegenüber einem Schadensersatzanspruch gegen die Masse nicht subsidiär.
+- [BGH, Urteil vom 01.12.2005 - IX ZR 191/04](ix-zr-191-04.md) — Tatbestand:
 - [BGH, Beschluss vom 01.12.2005 - IX ZR 203/05](ix-zr-203-05.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); die ist jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat (§ 543 Abs.
 - [BGH, Beschluss vom 01.12.2005 - IX ZR 313/01](ix-zr-313-01.md) — BGH, Beschluss vom 01.12.2005 - IX ZR 313/01
 - [BGH, Beschluss vom 01.12.2005 - IX ZR 85/04](ix-zr-85-04.md) — BGH, Beschluss vom 01.12.2005 - IX ZR 85/04
+- [BGH, Urteil vom 01.12.2005 - IX ZR 95/04](ix-zr-95-04.md) — Tatbestand:
+- [BGH, Beschluss vom 17.11.2005 - IX ZB 174/05](ix-zb-174-05.md) — Die Anhörungsrüge legt eine Verletzung des Anspruchs auf rechtliches Gehör nicht dar.
+- [BGH, Beschluss vom 17.11.2005 - IX ZR 150/03](ix-zr-150-03.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Urteil vom 17.11.2005 - IX ZR 162/04](ix-zr-162-04.md) — BGH, Urteil vom 17.11.2005 - IX ZR 162/04
+- [BGH, Urteil vom 17.11.2005 - IX ZR 174/04](ix-zr-174-04.md) — Tatbestand:
+- [BGH, Urteil vom 17.11.2005 - IX ZR 179/04](ix-zr-179-04.md) — Tatbestand:
+- [BGH, Beschluss vom 17.11.2005 - IX ZR 244/03](ix-zr-244-03.md) — Die Nichtzulassungsbeschwerde ist nach § 544 ZPO statthaft und auch im Übrigen zulässig.
+- [BGH, Beschluss vom 17.11.2005 - IX ZR 275/03](ix-zr-275-03.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordert eine Entscheidung des …
+- [BGH, Urteil vom 17.11.2005 - IX ZR 8/04](ix-zr-8-04.md) — der Pfändung und Überweisung eines Teils der Klageforderung nach Schluss der mündlichen Verhandlung in der Berufungsinstanz ist eine Klageän
+- [BGH, Beschluss vom 10.11.2005 - IX ZB 168/04](ix-zb-168-04.md) — I. 1 Der weitere Beteiligte zu 1, der zuvor bereits vorläufiger Insolvenzverwal- ter war, wurde am 17. September 2002 zum Insolvenzverwalter in dem Insol- venzverfahren über das …
 - [BGH, Beschluss vom 10.11.2005 - IX ZB 195/05](ix-zb-195-05.md) — der Möglichkeit der Pro-
+- [BGH, Beschluss vom 10.11.2005 - IX ZB 210/05](ix-zb-210-05.md) — Die Eingabe vom 25. Juli 2005 ist als Rechtsbeschwerde zu behandeln und als solche nicht statthaft, weil die Rechtsbeschwerde weder nach dem Gesetz allgemein eröffnet, noch vom …
+- [BGH, Beschluss vom 10.11.2005 - IX ZB 240/04](ix-zb-240-04.md) — I. 1 Die Klägerin begehrt von der Beklagten, einer in der Schweiz niederge- lassenen GmbH, die Herausgabe von Kabelführungsanlagen. Die Klage ist der Beklagten am 2. Oktober 2002 …
 - [BGH, Beschluss vom 10.11.2005 - IX ZR 152/01](ix-zr-152-01.md) — I. 1 Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision bietet im Ergebnis auch keine Aussicht auf Erfolg (§ 554b ZPO a.F.). -3- 2 1. Die Frage, ob die …
+- [BGH, Beschluss vom 10.11.2005 - IX ZR 182/04](ix-zr-182-04.md) — Die Beschwerde ist nach § 544 ZPO statthaft; sie ist jedoch nicht begründet.
+- [BGH, Beschluss vom 10.11.2005 - IX ZR 186/03](ix-zr-186-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat (§ 543 Abs.
 - [BGH, Beschluss vom 10.11.2005 - IX ZR 189/02](ix-zr-189-02.md) — Die gemäß § 5 Abs. 1 Satz 1 GKG a.F., § 72 Nr. 1 GKG n.F. statthafte Erinnerung der Klägerin vom 18. Juli 2005 ist unbegründet. 2 1. Ob und in welchem Umfang nach § 64 Abs. 3 Satz …
+- [BGH, Beschluss vom 10.11.2005 - IX ZR 214/03](ix-zr-214-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indes- sen keinen Erfolg.
+- [BGH, Beschluss vom 10.11.2005 - IX ZR 254/01](ix-zr-254-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision bietet im Ergebnis auch keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 03.11.2005 - IX ZA 23/03](ix-za-23-03.md) — Die beantragte Prozesskostenhilfe kann nach § 114 ZPO nicht gewährt werden, weil das vorbezeichnete Rechtsmittel keine hinreichende Aussicht auf Erfolg bietet.
 - [BGH, Beschluss vom 03.11.2005 - IX ZB 211/03](ix-zb-211-03.md) — I. 1 Das Insolvenzverfahren über das Vermögen des Schuldners ist am 23. August 1999 eröffnet worden. Am 10. Januar 2000 beantragte der Schuld- ner Restschuldbefreiung; am 7 …
+- [BGH, Beschluss vom 03.11.2005 - IX ZB 223/03](ix-zb-223-03.md) — Die Rechtsbeschwerde ist nicht begründet. Das Insolvenzgericht hat richtig entschieden. Eine Verkürzung der Wohlverhaltensperiode nach Art. 107 EGInsO ist in Insolvenzverfahren …
+- [BGH, Beschluss vom 03.11.2005 - IX ZR 113/04](ix-zr-113-04.md) — Die Nichtzulassungsbeschwerde ist nach § 544 ZPO statthaft und auch im Übrigen zulässig.
 - [BGH, Beschluss vom 03.11.2005 - IX ZR 128/04](ix-zr-128-04.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indes- sen keinen Erfolg.
 - [BGH, Urteil vom 03.11.2005 - IX ZR 140/04](ix-zr-140-04.md) — Tatbestand:
 - [BGH, Beschluss vom 03.11.2005 - IX ZR 143/03](ix-zr-143-03.md) — Die Rechtssache hat keine grundsätzliche Bedeutung, und weder die Fortbildung des Rechts noch die Sicherung einer einheitlichen Rechtsprechung erfordern eine Entscheidung des …
+- [BGH, Urteil vom 03.11.2005 - IX ZR 181/04](ix-zr-181-04.md) — Tatbestand:
 - [BGH, Beschluss vom 03.11.2005 - IX ZR 196/03](ix-zr-196-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indes- sen keinen Erfolg.
 - [BGH, Urteil vom 03.11.2005 - IX ZR 208/04](ix-zr-208-04.md) — Tatbestand:
-- [BGH, Beschluss vom 03.11.2005 - IX ZR 35/05](ix-zr-35-05.md) — des Fehlens einer gefestigten höchstrichterlichen Rechtsprechung zu bislang nicht behandelten Punkten ein Bedürfnis für eine abschließende K
+- [BGH, Beschluss vom 03.11.2005 - IX ZR 215/04](ix-zr-215-04.md) — der
+- [BGH, Beschluss vom 03.11.2005 - IX ZR 94/04](ix-zr-94-04.md) — 1. Die Nichtzulassungsbeschwerde des Beklagten zu 1 ist unzulässig, weil der Beschwerdeführer nicht dargelegt hat, dass er mit der beabsichtigten -3- Revision die Abänderung des …
+- [BGH, Beschluss vom 20.10.2005 - IX ZA 19/05](ix-za-19-05.md) — Die beantragte Prozesskostenhilfe war zu versagen, weil die beabsich- tigte Rechtsbeschwerde keine Aussicht auf Erfolg bietet (§ 114 Satz 1 ZPO).
 - [BGH, Beschluss vom 20.10.2005 - IX ZB 147/01](ix-zb-147-01.md) — Versäumung der Beschwerdefrist des § 11
 - [BGH, Beschluss vom 20.10.2005 - IX ZB 275/03](ix-zb-275-03.md) — BGH, Beschluss vom 20.10.2005 - IX ZB 275/03
+- [BGH, Urteil vom 20.10.2005 - IX ZR 127/04](ix-zr-127-04.md) — Tatbestand:
+- [BGH, Urteil vom 20.10.2005 - IX ZR 145/04](ix-zr-145-04.md) — Tatbestand:
+- [BGH, Beschluss vom 20.10.2005 - IX ZR 147/02](ix-zr-147-02.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 Abs.
+- [BGH, Beschluss vom 20.10.2005 - IX ZR 176/02](ix-zr-176-02.md) — grundsätzli-
+- [BGH, Beschluss vom 20.10.2005 - IX ZR 246/03](ix-zr-246-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO), hat aber kei- nen Erfolg.
 - [BGH, Urteil vom 20.10.2005 - IX ZR 276/02](ix-zr-276-02.md) — Tatbestand:
+- [BGH, Beschluss vom 20.10.2005 - IX ZR 73/05](ix-zr-73-05.md) — das Berufungsge-
+- [BGH, Beschluss vom 20.10.2005 - IX ZR 79/03](ix-zr-79-03.md) — Die Nichtzulassungsbeschwerde ist nach § 544 ZPO statthaft und auch im Übrigen zulässig.
+- [BGH, Beschluss vom 20.10.2005 - IX ZR 80/03](ix-zr-80-03.md) — der fehlenden Voll-
+- [BGH, Beschluss vom 10.10.2005 - IX ZR 7/05](ix-zr-7-05.md) — einer For-
+- [BGH, Beschluss vom 06.10.2005 - IX ZA 12/05](ix-za-12-05.md) — Wiedereinsetzung in die versäumte Frist gewährt (§§ 233 ff ZPO), sofern sie bis zu deren Ablauf einen den gesetzlichen Anforderungen entspre
+- [BGH, Beschluss vom 06.10.2005 - IX ZB 162/04](ix-zb-162-04.md) — I. Der Rechtsbeschwerdeführer wurde mit Beschluss des Amtsgerichts zum Insolvenzverwalter bestellt. Mit Schriftsatz vom 24. Februar 2003 beantragte er eine Regelvergütung von …
 - [BGH, Beschluss vom 06.10.2005 - IX ZB 360/02](ix-zb-360-02.md) — fehlenden Zustellungsnachweises
+- [BGH, Beschluss vom 06.10.2005 - IX ZB 417/02](ix-zb-417-02.md) — I. Die Parteien streiten um die Vollstreckbarerklärung eines am 2. Juni 1998 vom Landesgericht St. Pölten auf Antrag der Rechtsbeschwerdegegnerin erlassenen Versäumnisurteils. Mit …
+- [BGH, Urteil vom 06.10.2005 - IX ZR 111/02](ix-zr-111-02.md) — Tatbestand:
 - [BGH, Beschluss vom 06.10.2005 - IX ZR 111/03](ix-zr-111-03.md) — BGH, Beschluss vom 06.10.2005 - IX ZR 111/03
 - [BGH, Beschluss vom 06.10.2005 - IX ZR 132/04](ix-zr-132-04.md) — BGH, Beschluss vom 06.10.2005 - IX ZR 132/04
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 222/03](ix-zr-222-03.md) — der laufenden Beiträge nicht ohne vorherige Mahnung unter Setzung einer Zahlungsfrist von einer Woche erfolgen dürfen. Einen Erfahrungssatz,
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 231/03](ix-zr-231-03.md) — Die Beschwerde ist nach § 544 ZPO statthaft und auch im Übrigen zulässig.
 - [BGH, Beschluss vom 06.10.2005 - IX ZR 252/02](ix-zr-252-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
 - [BGH, Beschluss vom 06.10.2005 - IX ZR 258/03](ix-zr-258-03.md) — Verletzung des Willkürverbots oder von Verfahrensgrundrechten (vgl. BGHZ 154, 288, 296) der Beklagten geboten.
 - [BGH, Urteil vom 06.10.2005 - IX ZR 36/02](ix-zr-36-02.md) — Tatbestand:
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 54/03](ix-zr-54-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 72/02](ix-zr-72-02.md) — des Verlustes von Gewährleistungsansprüchen zu sehen ist. Es stellt keine ausreichende Begründung einer NZB dar, wenn der Beschwerdeführer l
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 96/04](ix-zr-96-04.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat (§ 543 Abs.
 - [BGH, Beschluss vom 29.09.2005 - IX ZA 14/05](ix-za-14-05.md) — vorsätzlicher oder grob fahrlässiger Verletzung von Auskunfts- oder Mitwirkungspflichten nach der InsO während des Insolvenzverfahrens nach
 - [BGH, Beschluss vom 29.09.2005 - IX ZB 178/02](ix-zb-178-02.md) — BGH, Beschluss vom 29.09.2005 - IX ZB 178/02
 - [BGH, Beschluss vom 29.09.2005 - IX ZB 296/03](ix-zb-296-03.md) — der Familie" in dem parallel geführten Insolvenzverfahren über das Vermögen
+- [BGH, Beschluss vom 29.09.2005 - IX ZB 430/02](ix-zb-430-02.md) — Zahlungsunfähigkeit. Im April 2000 nahm der Schuldner unter Begründung eines zweiten Wohnsitzes in Berlin eine selbständige Tätigkeit auf. D
 - [BGH, Beschluss vom 29.09.2005 - IX ZB 98/05](ix-zb-98-05.md) — BGH, Beschluss vom 29.09.2005 - IX ZB 98/05
 - [BGH, Urteil vom 29.09.2005 - IX ZR 104/01](ix-zr-104-01.md) — Tatbestand:
 - [BGH, Beschluss vom 29.09.2005 - IX ZR 170/01](ix-zr-170-01.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 170/01
+- [BGH, Urteil vom 29.09.2005 - IX ZR 184/04](ix-zr-184-04.md) — Tatbestand:
 - [BGH, Beschluss vom 29.09.2005 - IX ZR 200/01](ix-zr-200-01.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 200/01
 - [BGH, Beschluss vom 29.09.2005 - IX ZR 62/03](ix-zr-62-03.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 62/03
 - [BGH, Beschluss vom 29.09.2005 - IX ZR 68/03](ix-zr-68-03.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 68/03
 - [BGH, Beschluss vom 29.09.2005 - IX ZR 68/04](ix-zr-68-04.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 68/04
 - [BGH, Beschluss vom 22.09.2005 - IX ZA 13/05](ix-za-13-05.md) — BGH, Beschluss vom 22.09.2005 - IX ZA 13/05
 - [BGH, Beschluss vom 22.09.2005 - IX ZA 7/05](ix-za-7-05.md) — Die beantragte Prozesskostenhilfe ist zu versagen, weil die beabsichtig- te Durchführung der Rechtsbeschwerde keine Aussicht auf Erfolg hat, § 114 Satz 1 ZPO, § 4 InsO.
+- [BGH, Beschluss vom 22.09.2005 - IX ZB 103/05](ix-zb-103-05.md) — Nach § 115 Abs. 4 ZPO in Verbindung mit § 4 InsO wird Prozesskostenhilfe nicht bewilligt, wenn die Kosten der Prozessführung der Partei vier Monatsraten und die aus dem Vermögen …
 - [BGH, Beschluss vom 22.09.2005 - IX ZB 163/04](ix-zb-163-04.md) — fehlender Erfolgsaussicht zurückgewiesen; die sofortige Beschwerde der Antragstellerin blieb erfolglos. Mit ihrer vom Beschwerdegericht zuge
 - [BGH, Beschluss vom 22.09.2005 - IX ZB 205/04](ix-zb-205-04.md) — BGH, Beschluss vom 22.09.2005 - IX ZB 205/04
 - [BGH, Beschluss vom 22.09.2005 - IX ZB 265/04](ix-zb-265-04.md) — I. In einem Ermittlungsverfahren gegen J. H. ordnete das Amts- gericht mit Beschluss vom 4. September 2003 zur Sicherung der den Verletz- ten aus den Straftaten erwachsenen …
+- [BGH, Beschluss vom 22.09.2005 - IX ZB 55/04](ix-zb-55-04.md) — I. Der früher als geschäftsführender Alleingesellschafter der insolventen "L. GmbH" (im Folgenden: GmbH) tätige Beschwerde- führer beantragte die Einleitung eines …
 - [BGH, Beschluss vom 22.09.2005 - IX ZB 7/04](ix-zb-7-04.md) — BGH, Beschluss vom 22.09.2005 - IX ZB 7/04
 - [BGH, Beschluss vom 22.09.2005 - IX ZB 91/05](ix-zb-91-05.md) — BGH, Beschluss vom 22.09.2005 - IX ZB 91/05
 - [BGH, Beschluss vom 22.09.2005 - IX ZR 157/01](ix-zr-157-01.md) — BGH, Beschluss vom 22.09.2005 - IX ZR 157/01
@@ -65,86 +128,233 @@
 - [BGH, Beschluss vom 22.09.2005 - IX ZR 197/03](ix-zr-197-03.md) — BGH, Beschluss vom 22.09.2005 - IX ZR 197/03
 - [BGH, Urteil vom 22.09.2005 - IX ZR 205/01](ix-zr-205-01.md) — Tatbestand: Die klagenden Eheleute gründeten zum 1. Januar 1984 eine Gesellschaft bürgerlichen Rechts (im folgenden: GbR) zur gemeinsamen Tä
 - [BGH, Beschluss vom 22.09.2005 - IX ZR 209/03](ix-zr-209-03.md) — der Verletzung des Verwertungsrechts
+- [BGH, Urteil vom 22.09.2005 - IX ZR 221/01](ix-zr-221-01.md) — Tatbestand:
 - [BGH, Urteil vom 22.09.2005 - IX ZR 23/04](ix-zr-23-04.md) — Tatbestand:
 - [BGH, Beschluss vom 22.09.2005 - IX ZR 65/04](ix-zr-65-04.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch unbegründet.
 - [BGH, Beschluss vom 21.09.2005 - IX ZB 128/05](ix-zb-128-05.md) — 1. Über das Vermögen des Schuldners ist am 12. Februar 2004 das In- solvenzverfahren eröffnet worden. Der (weitere) Beteiligte zu 2 ist zum Insol- venzverwalter bestellt worden …
 - [BGH, Urteil vom 04.08.2005 - IX ZR 117/04](ix-zr-117-04.md) — Tatbestand:
+- [BGH, Beschluss vom 21.07.2005 - IX ZB 179/04](ix-zb-179-04.md) — I. Auf Antrag der (weiteren) Beteiligten zu 2) und 3) hat das Amtsgericht die vom Schuldner beantragte Restschuldbefreiung versagt. Dessen sofortige Beschwerde ist erfolglos …
 - [BGH, Beschluss vom 21.07.2005 - IX ZB 275/04](ix-zb-275-04.md) — BGH, Beschluss vom 21.07.2005 - IX ZB 275/04
+- [BGH, Beschluss vom 21.07.2005 - IX ZB 80/04](ix-zb-80-04.md) — I. Die Anträge des Schuldners vom 31. März 2002 auf Eröffnung des Insolvenzverfahrens über sein Vermögen sowie auf Erteilung der Restschuldbefreiung sind am 2. April 2002 beim …
+- [BGH, Beschluss vom 21.07.2005 - IX ZR 105/04](ix-zr-105-04.md) — der Hilfsaufrechnung der Beklagten zu 4 und ihrer Widerklage, die beide jetzt nicht mehr im Streit sind - leugnet die Beschwerde nicht.
 - [BGH, Beschluss vom 21.07.2005 - IX ZR 114/02](ix-zr-114-02.md) — I. Die Nichtzulassungsbeschwerde des Beklagten ist statthaft (§ 544 Abs. 1 ZPO), aber unzulässig. Soweit sie sich gegen die Verurteilung zu Schadensersatz richtet, fehlt die gemäß …
+- [BGH, Urteil vom 21.07.2005 - IX ZR 115/04](ix-zr-115-04.md) — Tatbestand: Die Klägerin befindet sich seit dem 26. Juli 2001 in der sogenannten Wohlverhaltensperiode nach vorangegangenem, im Jahre 2000 e
 - [BGH, Beschluss vom 21.07.2005 - IX ZR 144/02](ix-zr-144-02.md) — BGH, Beschluss vom 21.07.2005 - IX ZR 144/02
 - [BGH, Beschluss vom 21.07.2005 - IX ZR 150/02](ix-zr-150-02.md) — Die Nichtzulassungsbeschwerde ist nach § 544 ZPO statthaft und auch im übrigen zulässig.
+- [BGH, Beschluss vom 21.07.2005 - IX ZR 178/04](ix-zr-178-04.md) — Die Nichtzulassungsbeschwerde ist nach § 544 ZPO statthaft und auch im übrigen zulässig.
+- [BGH, Urteil vom 21.07.2005 - IX ZR 193/01](ix-zr-193-01.md) — Tatbestand:
+- [BGH, Beschluss vom 21.07.2005 - IX ZR 247/02](ix-zr-247-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
 - [BGH, Urteil vom 21.07.2005 - IX ZR 49/02](ix-zr-49-02.md) — Tatbestand:
+- [BGH, Urteil vom 21.07.2005 - IX ZR 6/02](ix-zr-6-02.md) — Tatbestand:
+- [BGH, Beschluss vom 21.07.2005 - IX ZR 73/04](ix-zr-73-04.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO).
 - [BGH, Beschluss vom 14.07.2005 - IX ZA 12/04](ix-za-12-04.md) — BGH, Beschluss vom 14.07.2005 - IX ZA 12/04
+- [BGH, Beschluss vom 14.07.2005 - IX ZA 22/03](ix-za-22-03.md) — der damit verbunden tatsächlichen und rechtlichen Schwierigkeiten ein Rechtsanwalt beizuordnen ist, stellt sich im Streitfall nicht. Der Sch
 - [BGH, Beschluss vom 14.07.2005 - IX ZA 6/05](ix-za-6-05.md) — BGH, Beschluss vom 14.07.2005 - IX ZA 6/05
 - [BGH, Beschluss vom 14.07.2005 - IX ZB 224/04](ix-zb-224-04.md) — BGH, Beschluss vom 14.07.2005 - IX ZB 224/04
 - [BGH, Beschluss vom 14.07.2005 - IX ZB 264/04](ix-zb-264-04.md) — Die Rechtsbeschwerde ist statthaft (§ 574 Abs.
+- [BGH, Beschluss vom 14.07.2005 - IX ZR 14/03](ix-zr-14-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
+- [BGH, Urteil vom 14.07.2005 - IX ZR 142/02](ix-zr-142-02.md) — Tatbestand: Die Klägerin ist Verwalterin in dem Insolvenzverfahren über das Vermögen einer Personalüberlassungsgesellschaft (fortan: Schuldn
+- [BGH, Beschluss vom 14.07.2005 - IX ZR 186/04](ix-zr-186-04.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
 - [BGH, Beschluss vom 14.07.2005 - IX ZR 237/02](ix-zr-237-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat (§ 543 Abs.
 - [BGH, Beschluss vom 14.07.2005 - IX ZR 26/03](ix-zr-26-03.md) — BGH, Beschluss vom 14.07.2005 - IX ZR 26/03
+- [BGH, Urteil vom 14.07.2005 - IX ZR 284/01](ix-zr-284-01.md) — Tatbestand: Der als Kieferorthopäde niedergelassene Kläger wurde von dem Beklagten langjährig steuerlich beraten. Der Beklagte fertigte unte
 - [BGH, Beschluss vom 14.07.2005 - IX ZR 66/03](ix-zr-66-03.md) — BGH, Beschluss vom 14.07.2005 - IX ZR 66/03
 - [BGH, Beschluss vom 08.07.2005 - IX ZR 230/01](ix-zr-230-01.md) — der ungeklärten rechtlichen Grundsatzfrage, die möglicherweise Anlaß für eine - freilich auslaufendes Recht betreffende - Rechtsfortbildung
 - [BGH, Beschluss vom 07.07.2005 - IX ZB 115/05](ix-zb-115-05.md) — zulässig noch durch das Beschwerdegericht im Einzelfall zugelassen worden ist (§ 574 Abs. 1 ZPO). Gegen eine die Prozeßkostenhilfe versagend
 - [BGH, Beschluss vom 07.07.2005 - IX ZB 118/05](ix-zb-118-05.md) — Die Bewilligung von Prozeßkostenhilfe für das Rechtsbeschwerdeverfahren kommt nicht in Betracht, weil die Rechtsverfolgung aussichtslos ist (§ 114 ZPO).
+- [BGH, Beschluss vom 07.07.2005 - IX ZB 125/05](ix-zb-125-05.md) — Das als Rechtsbeschwerde zu behandelnde Rechtsmittel ist unstatthaft.
 - [BGH, Beschluss vom 07.07.2005 - IX ZB 173/05](ix-zb-173-05.md) — Die Bewilligung von Prozeßkostenhilfe für das Rechtsbeschwerdeverfahren kommt nicht in Betracht, weil die Rechtsverfolgung aussichtslos ist (§ 114 ZPO).
+- [BGH, Beschluss vom 07.07.2005 - IX ZB 266/04](ix-zb-266-04.md) — am Beschwerdeverfahren formell beteiligen, weil sie der Annahme des Plans zugestimmt haben.
 - [BGH, Beschluss vom 07.07.2005 - IX ZB 523/02](ix-zb-523-02.md) — I. Das Landgericht hat auf die mündliche Verhandlung vom 5. Dezember 2001 die Beklagte am 16. Januar 2002 antragsgemäß verurteilt. Das Urteil ist den Prozeßbevollmächtigten der …
+- [BGH, Beschluss vom 07.07.2005 - IX ZB 85/05](ix-zb-85-05.md) — Der Antrag auf Erlaß einer einstweiligen Anordnung ist nach § 4 InsO in Verbindung mit § 575 Abs.
+- [BGH, Beschluss vom 07.07.2005 - IX ZR 200/02](ix-zr-200-02.md) — Hinsichtlich der vom Berufungsgericht ebenfalls für anfechtbar gehaltenen Überweisung hat eine Zulassung nicht zu erfolgen.
+- [BGH, Beschluss vom 07.07.2005 - IX ZR 233/02](ix-zr-233-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch nicht begründet.
 - [BGH, Urteil vom 07.07.2005 - IX ZR 241/01](ix-zr-241-01.md) — Tatbestand:
+- [BGH, Beschluss vom 07.07.2005 - IX ZR 53/02](ix-zr-53-02.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und hat keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 07.07.2005 - IX ZR 61/01](ix-zr-61-01.md) — Das Berufungsurteil wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und die Revision verspricht im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 23.06.2005 - IX ZB 397/02](ix-zb-397-02.md) — der aussichtslosen Rechtsverfolgung keinen Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 23.06.2005 - IX ZB 64/04](ix-zb-64-04.md) — I. Die in Italien residierende Antragstellerin (Gläubigerin) erwirkte gegen den in Deutschland ansässigen Antragsgegner (Schuldner) beim Landesgericht Bozen am 30. September 2002 …
+- [BGH, Urteil vom 23.06.2005 - IX ZR 139/04](ix-zr-139-04.md) — Tatbestand:
+- [BGH, Urteil vom 23.06.2005 - IX ZR 197/01](ix-zr-197-01.md) — Tatbestand:
+- [BGH, Beschluss vom 23.06.2005 - IX ZR 250/01](ix-zr-250-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b Abs.
+- [BGH, Beschluss vom 23.06.2005 - IX ZR 250/03](ix-zr-250-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch nicht begründet.
 - [BGH, Beschluss vom 23.06.2005 - IX ZR 278/01](ix-zr-278-01.md) — Die Revision wirft keine Rechtsfrage von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b Abs.
+- [BGH, Urteil vom 23.06.2005 - IX ZR 419/00](ix-zr-419-00.md) — Tatbestand:
+- [BGH, Beschluss vom 23.06.2005 - IX ZR 67/01](ix-zr-67-01.md) — Das Berufungsurteil wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und die Revision verspricht keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 23.06.2005 - IX ZR 75/04](ix-zr-75-04.md) — Rechtsgrundsätzlichkeit und zur Fortbildung des Rechts sei über die Frage zu entscheiden, ob in Anwaltshaftungsfällen der gesamte Streitstof
+- [BGH, Beschluss vom 23.06.2005 - IX ZR 76/02](ix-zr-76-02.md) — Die Revision hat keine Aussicht auf Erfolg und wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf (§ 554 b Abs.
 - [BGH, Beschluss vom 23.06.2005 - IX ZR 79/02](ix-zr-79-02.md) — Die Revision wirft keine entscheidungserheblichen Fragen von grundsätzlicher Bedeutung auf und hat keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 16.06.2005 - IX ZB 186/03](ix-zb-186-03.md) — I. Der weitere Beteiligte zu 2 (fortan: vorläufiger Insolvenzverwalter) wurde durch Beschluß des Insolvenzgerichts vom 22. Januar 2002 zum vorläufigen Insolvenzverwalter der F …
+- [BGH, Beschluss vom 16.06.2005 - IX ZB 264/03](ix-zb-264-03.md) — I. Der weitere Beteiligte wurde durch Beschluß des Insolvenzgerichts vom 2. Oktober 2000 zum vorläufigen Verwalter im Insolvenzverfahren über das Vermögen der Schuldnerin bestellt …
+- [BGH, Beschluss vom 16.06.2005 - IX ZB 285/03](ix-zb-285-03.md) — I. Der Beteiligte zu 1 wurde durch Beschluß des Insolvenzgerichts vom 15. März 2001 zum vorläufigen Insolvenzverwalter unter Anordnung eines allgemeinen Zustimmungsvorbehalts (§ …
 - [BGH, Beschluss vom 16.06.2005 - IX ZB 42/05](ix-zb-42-05.md) — BGH, Beschluss vom 16.06.2005 - IX ZB 42/05
+- [BGH, Beschluss vom 16.06.2005 - IX ZB 96/05](ix-zb-96-05.md) — I. In dem am 18. Januar 2001 eröffneten und am 13. November 2003 aufgehobenen Verbraucherinsolvenzverfahren über das Vermögen des Schuldners kündigte das Amtsgericht - …
+- [BGH, Beschluss vom 16.06.2005 - IX ZR 12/04](ix-zr-12-04.md) — Der Ausspruch über den Verlust des Rechtsbehelfs und die Kostenfolge ergibt sich aus §§ 565, 516 Abs.
+- [BGH, Beschluss vom 16.06.2005 - IX ZR 120/03](ix-zr-120-03.md) — Die Nichtzulassungsbeschwerde hat keinen Erfolg, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung des Rechts noch die Sicherung einer …
+- [BGH, Beschluss vom 16.06.2005 - IX ZR 15/03](ix-zr-15-03.md) — Die Nichtzulassungsbeschwerde ist nach § 544 ZPO statthaft und auch im übrigen zulässig.
+- [BGH, Beschluss vom 16.06.2005 - IX ZR 18/03](ix-zr-18-03.md) — grundsätzliche Bedeutung geltend gemacht wird, auslaufendes Recht oder eine Übergangssituation, ist grundsätzliche Bedeutung nur gegeben, we
 - [BGH, Beschluss vom 16.06.2005 - IX ZR 219/03](ix-zr-219-03.md) — . Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO), weil das Zwischenurteil gemäß § 280 Abs. 2 Satz 1 ZPO hinsichtlich der Rechtsmittel als Endurteil anzusehen ist, gegen …
+- [BGH, Urteil vom 16.06.2005 - IX ZR 27/04](ix-zr-27-04.md) — Tatbestand: Die Klägerin, eine Bauträgerin, errichtete von 1984 bis 1987 eine Wohnungseigentumsanlage. Später trat an der Decke der vorgelag
 - [BGH, Beschluss vom 16.06.2005 - IX ZR 42/02](ix-zr-42-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
 - [BGH, Beschluss vom 09.06.2005 - IX ZB 14/05](ix-zb-14-05.md) — eines Gehörsverstoßes in erster Instanz aufzuheben, keine grundsätzliche Rechtsfrage, sondern stützt sich insoweit nur auf den Zulassungsgru
+- [BGH, Beschluss vom 09.06.2005 - IX ZB 230/03](ix-zb-230-03.md) — I. Der Rechtsbeschwerdeführer wurde durch Beschluß des Insolvenzgerichts vom 13. Februar 2003 zum vorläufigen Insolvenzverwalter mit Zustim- -3- mungsvorbehalt bestellt. Mit …
+- [BGH, Beschluss vom 09.06.2005 - IX ZB 284/03](ix-zb-284-03.md) — I. Die Schuldnerin, eine GmbH, die sich mit der Erstellung von Telekommunikationsnetzwerken befaßt und über ein Stammkapital von 4.100.000 € verfügt, beantragte am 28. November …
+- [BGH, Urteil vom 09.06.2005 - IX ZR 14/04](ix-zr-14-04.md) — Tatbestand: Die Parteien streiten um Anwaltshonorar.
+- [BGH, Urteil vom 09.06.2005 - IX ZR 152/03](ix-zr-152-03.md) — verfrühter Leistung inkongruente Zahlung benachteiligt die Gläubiger in voller Höhe, wenn noch vor Eintritt der Fälligkeit ein vorläufiger I
+- [BGH, Beschluss vom 09.06.2005 - IX ZR 158/02](ix-zr-158-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
+- [BGH, Urteil vom 09.06.2005 - IX ZR 160/04](ix-zr-160-04.md) — Tatbestand:
 - [BGH, Beschluss vom 09.06.2005 - IX ZR 184/02](ix-zr-184-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
+- [BGH, Beschluss vom 09.06.2005 - IX ZR 266/02](ix-zr-266-02.md) — I. Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg. Weder hat die Rechtsbeschwerde grundsätzliche Bedeutung (§ 543 Abs. 2 Satz 1 Nr. 1 ZPO) …
+- [BGH, Beschluss vom 09.06.2005 - IX ZR 88/03](ix-zr-88-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
+- [BGH, Beschluss vom 02.06.2005 - IX ZB 235/04](ix-zb-235-04.md) — I. Der Kläger ist Verwalter in dem auf Eigenantrag vom 23. September 2003 am 1. Dezember 2003 eröffneten Insolvenzverfahren über das Vermögen der L. Pflegedienst GmbH (fortan …
+- [BGH, Beschluss vom 02.06.2005 - IX ZB 287/03](ix-zb-287-03.md) — des Grundschuldkapitals sowie der Zinsen
+- [BGH, Beschluss vom 02.06.2005 - IX ZB 59/05](ix-zb-59-05.md) — Fristversäumung als unzulässig verworfen. Einen Antrag auf Wiedereinsetzung in die Einspruchsfrist hat es zurückgewiesen.
+- [BGH, Beschluss vom 02.06.2005 - IX ZR 163/03](ix-zr-163-03.md) — des fehlenden Hinweises des Berufungsgerichts unterblieben ist, wird daraus nicht erkennbar. Das zitierte Urteil des Oberlandesgerichts lag
+- [BGH, Urteil vom 02.06.2005 - IX ZR 181/03](ix-zr-181-03.md) — Tatbestand:
+- [BGH, Beschluss vom 02.06.2005 - IX ZR 209/02](ix-zr-209-02.md) — Die Nichtzulassungsbeschwerde ist nach § 544 Abs.
+- [BGH, Beschluss vom 02.06.2005 - IX ZR 217/02](ix-zr-217-02.md) — Die Nichtzulassungsbeschwerde ist nach § 544 ZPO statthaft und auch im übrigen zulässig.
+- [BGH, Urteil vom 02.06.2005 - IX ZR 221/03](ix-zr-221-03.md) — Tatbestand:
 - [BGH, Beschluss vom 02.06.2005 - IX ZR 233/01](ix-zr-233-01.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Urteil vom 02.06.2005 - IX ZR 263/03](ix-zr-263-03.md) — Tatbestand:
 - [BGH, Beschluss vom 02.06.2005 - IX ZR 65/03](ix-zr-65-03.md) — BGH, Beschluss vom 02.06.2005 - IX ZR 65/03
+- [BGH, Beschluss vom 02.06.2005 - IX ZR 91/02](ix-zr-91-02.md) — Die Nichtzulassungsbeschwerde ist nach § 544 Abs.
+- [BGH, Beschluss vom 24.05.2005 - IX ZB 6/03](ix-zb-6-03.md) — BGH, Beschluss vom 24.05.2005 - IX ZB 6/03
 - [BGH, Urteil vom 24.05.2005 - IX ZR 114/01](ix-zr-114-01.md) — pflichtwidriger Begründung einer erkennbar nicht gedeckten Masseschuld verjährt analog § 852 BGB a.F. innerhalb von drei Jahren ab Kenntnis
 - [BGH, Beschluss vom 24.05.2005 - IX ZR 12/02](ix-zr-12-02.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
 - [BGH, Urteil vom 24.05.2005 - IX ZR 123/04](ix-zr-123-04.md) — Tatbestand:
 - [BGH, Beschluss vom 24.05.2005 - IX ZR 135/04](ix-zr-135-04.md) — der Frage zugelassen worden, "wann eine Zustellung "demnächst" im Sinne von § 167 ZPO erfolgt ist". Konkret geht es um die Einzahlung des Au
+- [BGH, Beschluss vom 24.05.2005 - IX ZR 15/02](ix-zr-15-02.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Urteil vom 24.05.2005 - IX ZR 276/03](ix-zr-276-03.md) — dieses vermeintlichen Fehlers Haftpflichtansprüche gegen den ersten zu prüfen, verfolgt der zweite Rechtsanwalt dann diese falsche Fährte we
+- [BGH, Beschluss vom 24.05.2005 - IX ZR 46/02](ix-zr-46-02.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 24.05.2005 - IX ZR 73/03](ix-zr-73-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
+- [BGH, Beschluss vom 24.05.2005 - IX ZR 77/03](ix-zr-77-03.md) — Die Nichtzulassungsbeschwerde ist nach § 544 ZPO statthaft und auch im übrigen zulässig.
+- [BGH, Beschluss vom 10.05.2005 - IX ZR 209/01](ix-zr-209-01.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 03.05.2005 - IX ZB 37/05](ix-zb-37-05.md) — BGH, Beschluss vom 03.05.2005 - IX ZB 37/05
+- [BGH, Beschluss vom 03.05.2005 - IX ZB 44/05](ix-zb-44-05.md) — Die statthafte (§ 574 Abs. 1, § 522 Abs. 1 Satz 4 ZPO) Rechtsbeschwerde ist unzulässig, weil sie nicht in der gesetzlichen Form und Frist durch einen beim Bundesgerichtshof …
 - [BGH, Beschluss vom 03.05.2005 - IX ZB 69/05](ix-zb-69-05.md) — BGH, Beschluss vom 03.05.2005 - IX ZB 69/05
 - [BGH, Beschluss vom 03.05.2005 - IX ZR 116/02](ix-zr-116-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
 - [BGH, Beschluss vom 03.05.2005 - IX ZR 172/03](ix-zr-172-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
+- [BGH, Beschluss vom 03.05.2005 - IX ZR 195/02](ix-zr-195-02.md) — eines angeblichen Anwaltsfehlers. Sie ist beamtete Lehrerin der Besoldungsstufe A 12 und hatte sich auf eine Beförderungsstelle der Besoldun
 - [BGH, Beschluss vom 03.05.2005 - IX ZR 232/02](ix-zr-232-02.md) — BGH, Beschluss vom 03.05.2005 - IX ZR 232/02
 - [BGH, Beschluss vom 03.05.2005 - IX ZR 242/02](ix-zr-242-02.md) — BGH, Beschluss vom 03.05.2005 - IX ZR 242/02
+- [BGH, Beschluss vom 21.04.2005 - IX ZA 1/05](ix-za-1-05.md) — Die Rechtsbeschwerde hat keine hinreichende Aussicht auf Erfolg, weil die Rechtssache keine grundsätzliche Bedeutung hat und weder die Fortbildung des Rechts noch die Sicherung …
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 130/02](ix-zr-130-02.md) — Die Beschwerde ist nach § 544 ZPO statthaft; sie ist jedoch nicht begründet.
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 17/04](ix-zr-17-04.md) — . Die Revision hat keine Aussicht auf Erfolg, und die Voraussetzungen für die Zulassung der Revision liegen nicht vor. a) Aus der Abtretungserklärung vom 16. Februar 1999 ergibt …
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 18/04](ix-zr-18-04.md) — . Die Revision hat keine Aussicht auf Erfolg, und die Voraussetzungen für die Zulassung der Revision liegen nicht vor. a) Aus der Abtretungserklärung vom 16. Februar 1999 ergibt …
 - [BGH, Beschluss vom 21.04.2005 - IX ZR 23/03](ix-zr-23-03.md) — Die Nichtzulassungsbeschwerde ist statthaft und auch im übrigen zulässig (§ 544 ZPO).
+- [BGH, Urteil vom 21.04.2005 - IX ZR 24/04](ix-zr-24-04.md) — der ihm bewußten Gefahr übernommen hat, der Absender könnte zahlungsunfähig werden, und für diesen Fall ein zusätzliches Sicherungsmittel hi
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 256/02](ix-zr-256-02.md) — Die Beschwerde ist nach § 544 Abs. 1 Satz 1 ZPO statthaft; sie ist jedoch nicht begründet. Weder hat die Rechtssache grundsätzliche Bedeutung noch erfordert die Fortbildung des …
 - [BGH, Beschluss vom 21.04.2005 - IX ZR 271/01](ix-zr-271-01.md) — BGH, Beschluss vom 21.04.2005 - IX ZR 271/01
-- [BGH, Urteil vom 21.04.2005 - IX ZR 281/03](ix-zr-281-03.md) — Tatbestand: Die klagende GmbH und Co. KG hat die Beklagte auf Ersatz eines ihr angeblich durch die Pressemitteilung eines Beamten der Beklag
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 281/01](ix-zr-281-01.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 331/01](ix-zr-331-01.md) — nutzloser Aufwendungen in Höhe von 24.962,55 DM verlangt hat, ist ihre Klage bereits unschlüssig, weil die Messestände auch zur Werbung für
 - [BGH, Beschluss vom 21.04.2005 - IX ZR 425/00](ix-zr-425-00.md) — BGH, Beschluss vom 21.04.2005 - IX ZR 425/00
 - [BGH, Beschluss vom 21.04.2005 - IX ZR 5/02](ix-zr-5-02.md) — BGH, Beschluss vom 21.04.2005 - IX ZR 5/02
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 5/04](ix-zr-5-04.md) — . Die Revision hat keine Aussicht auf Erfolg, und die Voraussetzungen für die Zulassung der Revision liegen nicht vor. a) Aus der Abtretungserklärung vom 16. Februar 1999 ergibt …
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 6/04](ix-zr-6-04.md) — . Die Revision hat keine Aussicht auf Erfolg, und die Voraussetzungen für die Zulassung der Revision liegen nicht vor. a) Aus der Abtretungserklärung vom 16. Februar 1999 ergibt …
 - [BGH, Beschluss vom 21.04.2005 - IX ZR 64/03](ix-zr-64-03.md) — Die Nichtzulassungsbeschwerde ist statthaft und auch im übrigen zulässig (§ 544 ZPO).
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 7/04](ix-zr-7-04.md) — . Die Revision hat keine Aussicht auf Erfolg, und die Voraussetzungen für die Zulassung der Revision liegen nicht vor. a) Aus der Abtretungserklärung vom 16. Februar 1999 ergibt …
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 8/03](ix-zr-8-03.md) — Die Beschwerde ist nach § 544 ZPO statthaft und auch im übrigen zulässig; sie ist jedoch nicht begründet.
 - [BGH, Beschluss vom 14.04.2005 - IX ZB 175/03](ix-zb-175-03.md) — BGH, Beschluss vom 14.04.2005 - IX ZB 175/03
+- [BGH, Beschluss vom 14.04.2005 - IX ZB 76/04](ix-zb-76-04.md) — I. Der weitere Beteiligte zu 1 wurde mit Beschluß des Amtsgerichts - Insolvenzgerichts - vom 31. August 1999 zum Verwalter in dem Insolvenzverfahren über das Vermögen der …
+- [BGH, Urteil vom 14.04.2005 - IX ZR 109/04](ix-zr-109-04.md) — Tatbestand: Der Kläger verlangt von dem Beklagten aus eigenem und abgetretenem Recht seiner Ehefrau Schadensersatz wegen angeblich falscher
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 221/04](ix-zr-221-04.md) — der Bau-
 - [BGH, Beschluss vom 14.04.2005 - IX ZR 248/02](ix-zr-248-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie ist jedoch unbegründet, weil die Rechtssache keine grundsätzliche Bedeutung hat (§ 543 Abs.
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 253/02](ix-zr-253-02.md) — I. Der Kläger war Eigentümer eines unbebauten, aus mehreren Parzellen bestehenden Grundstücks in S. (Nähe Berlin). Mit notariel- lem Vertrag vom 11. November 1996 veräußerte er …
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 278/02](ix-zr-278-02.md) — I. Der Kläger ist Verwalter in dem Insolvenzverfahren über das Vermögen der M. GmbH (fortan: Schuldnerin), das am 1. August 2000 eröff- net worden ist. Er verlangt von dem …
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 280/02](ix-zr-280-02.md) — Die Beschwerde ist nach § 544 ZPO statthaft; sie ist jedoch nicht begründet.
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 307/01](ix-zr-307-01.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 318/00](ix-zr-318-00.md) — BGH, Beschluss vom 14.04.2005 - IX ZR 318/00
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 43/03](ix-zr-43-03.md) — Die Nichtzulassungsbeschwerde ist statthaft und auch im übrigen zulässig (§ 544 ZPO).
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 5/03](ix-zr-5-03.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO), sie hat indessen keinen Erfolg.
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 75/03](ix-zr-75-03.md) — Die Nichtzulassungsbeschwerde der Klägerin ist nach § 544 ZPO statthaft.
+- [BGH, Beschluss vom 07.04.2005 - IX ZB 129/03](ix-zb-129-03.md) — I. Der Schuldner beantragte am 22. Januar 2003 die Eröffnung des Verbraucherinsolvenzverfahrens über sein Vermögen. Das beigefügte Gläubigerund Forderungsverzeichnis sowie der …
+- [BGH, Beschluss vom 07.04.2005 - IX ZB 195/03](ix-zb-195-03.md) — der Schuldner seine Lohn- und Gehaltsansprüche an den Verfahrensbevollmächtigten abgetreten hatte, nicht mehr - wie zuvor - mit 3.300 €, son
+- [BGH, Beschluss vom 07.04.2005 - IX ZB 273/04](ix-zb-273-04.md) — Die Rechtsbeschwerde ist unzulässig, weil sie nicht durch einen beim Bundesgerichtshof zugelassenen Rechtsanwalt eingelegt worden ist (BGH, Beschl.
 - [BGH, Beschluss vom 07.04.2005 - IX ZB 30/05](ix-zb-30-05.md) — BGH, Beschluss vom 07.04.2005 - IX ZB 30/05
+- [BGH, Beschluss vom 07.04.2005 - IX ZB 63/03](ix-zb-63-03.md) — aufgehoben werden.
+- [BGH, Beschluss vom 07.04.2005 - IX ZR 102/01](ix-zr-102-01.md) — Die Rechtssache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist richtig entschieden (§ 554b Abs.
+- [BGH, Urteil vom 07.04.2005 - IX ZR 132/01](ix-zr-132-01.md) — Tatbestand: Die Klägerin verlangt von dem beklagten Rechtsanwalt Schadensersatz, weil er ihren Anspruch auf Zugewinnausgleich habe verjähren
+- [BGH, Urteil vom 07.04.2005 - IX ZR 138/04](ix-zr-138-04.md) — Tatbestand: Der Kläger ist Verwalter in dem am 1. Juni 2001 eröffneten Insolvenzverfahren über das Vermögen der F. GmbH (fortan: Schuldnerin
 - [BGH, Beschluss vom 07.04.2005 - IX ZR 18/02](ix-zr-18-02.md) — Die Revision wirft keine klärungsbedürftige Rechtsfrage von grundsätzlicher Bedeutung auf und hat im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 07.04.2005 - IX ZR 255/02](ix-zr-255-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
 - [BGH, Urteil vom 07.04.2005 - IX ZR 258/01](ix-zr-258-01.md) — Tatbestand:
+- [BGH, Beschluss vom 07.04.2005 - IX ZR 294/01](ix-zr-294-01.md) — Die Sache wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 07.04.2005 - IX ZR 321/01](ix-zr-321-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen mit grundsätzlicher Bedeutung auf und verspricht im Endergebnis keinen Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 17.03.2005 - IX ZB 214/04](ix-zb-214-04.md) — I. In dem am 8. November 2003 eröffneten Verbraucherinsolvenzverfahren über das Vermögen der Schuldnerin haben bis zum Schlußtermin keine Insolvenzgläubiger Forderungen …
+- [BGH, Beschluss vom 17.03.2005 - IX ZB 247/03](ix-zb-247-03.md) — I. Der Kläger machte in seiner Eigenschaft als Treuhänder in dem Ver- braucherinsolvenzverfahren über das Vermögen des L. M. gegen den Beklagten einen Zahlungsanspruch gerichtlich …
+- [BGH, Beschluss vom 17.03.2005 - IX ZB 260/03](ix-zb-260-03.md) — statthafte Rechtsbeschwerde ist unzulässig; denn die Rechtssache hat keine grundsätzliche Bedeutung, und eine Entscheidung des Rechtsbeschwe
+- [BGH, Beschluss vom 17.03.2005 - IX ZB 286/03](ix-zb-286-03.md) — I. Das Amtsgericht eröffnete am 1. August 1999 das Insolvenzverfahren über das Vermögen der Schuldnerin und bestellte den weiteren Beteiligten zum Insolvenzverwalter. Dieser …
+- [BGH, Beschluss vom 17.03.2005 - IX ZB 74/04](ix-zb-74-04.md) — I. Die Verfahrensbevollmächtigte des Rechtsbeschwerdeführers hat gegen den im Tenor bezeichneten Beschluß des Landgerichts Mannheim Rechtsbe- -3- schwerde eingelegt und …
+- [BGH, Urteil vom 17.03.2005 - IX ZR 106/04](ix-zr-106-04.md) — Tatbestand:
+- [BGH, Beschluss vom 17.03.2005 - IX ZR 116/04](ix-zr-116-04.md) — Die Beschwerde ist nach § 544 ZPO statthaft; sie ist jedoch nicht begründet.
 - [BGH, Beschluss vom 17.03.2005 - IX ZR 140/02](ix-zr-140-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
+- [BGH, Beschluss vom 17.03.2005 - IX ZR 170/02](ix-zr-170-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat indessen keinen Erfolg.
+- [BGH, Beschluss vom 17.03.2005 - IX ZR 268/01](ix-zr-268-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 15.03.2005 - IX ZB 146/04](ix-zb-146-04.md) — I. Durch Beschluß des Amtsgerichts - Insolvenzgericht - Bielefeld vom 19. Januar 2004 wurde der weitere Beteiligte zum vorläufigen Insolvenzverwalter bestellt. Er hat für diese …
+- [BGH, Beschluss vom 10.03.2005 - IX ZB 13/05](ix-zb-13-05.md) — Verfristung als unzulässig verworfen. Der Schuldner ist hierdurch nicht daran gehindert, beim Amtsgericht erneut die Eröffnung des Insolvenz
+- [BGH, Beschluss vom 10.03.2005 - IX ZB 241/04](ix-zb-241-04.md) — I. Der Schuldner beantragte am 24. November 1999 die Eröffnung des (Verbraucher-)Insolvenzverfahrens über sein Vermögen und die Erteilung der Restschuldbefreiung. Mit Beschluß vom …
 - [BGH, Beschluss vom 10.03.2005 - IX ZB 269/03](ix-zb-269-03.md) — BGH, Beschluss vom 10.03.2005 - IX ZB 269/03
+- [BGH, Beschluss vom 10.03.2005 - IX ZB 7/05](ix-zb-7-05.md) — der grundsätzlichen Bedeutung der Sache oder zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung erforderlich i
 - [BGH, Beschluss vom 10.03.2005 - IX ZR 139/03](ix-zr-139-03.md) — Die Beschwerden sind nach § 544 ZPO statthaft; sie sind jedoch nicht begründet.
+- [BGH, Beschluss vom 10.03.2005 - IX ZR 214/01](ix-zr-214-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 10.03.2005 - IX ZR 229/02](ix-zr-229-02.md) — Die Nichtzulassungsbeschwerde ist statthaft (§ 544 ZPO), aber unzulässig.
+- [BGH, Urteil vom 10.03.2005 - IX ZR 25/01](ix-zr-25-01.md) — eines Betrages von 98.831,16 DM nebst Zinsen seit dem 25. Februar 1991 in Höhe von 4 % über dem jeweiligen Diskontsatz der Deutschen Bundesb
 - [BGH, Beschluss vom 10.03.2005 - IX ZR 253/01](ix-zr-253-01.md) — BGH, Beschluss vom 10.03.2005 - IX ZR 253/01
+- [BGH, Urteil vom 10.03.2005 - IX ZR 73/01](ix-zr-73-01.md) — Tatbestand:
+- [BGH, Beschluss vom 03.03.2005 - IX ZB 153/04](ix-zb-153-04.md) — I. Die Schuldnerin war bis zur Eröffnung des Insolvenzverfahrens über ihr Vermögen am 15. September 2003 Branchenführerin im "Golfplatzmarketing". Sie schloß Verträge mit …
+- [BGH, Beschluss vom 03.03.2005 - IX ZB 171/03](ix-zb-171-03.md) — eingeleitetes Strafverfahren sei nach § 153a StPO gegen Zahlung einer Geldbuße eingestellt worden. Außerdem habe der Schuldner eine Tätigkei
+- [BGH, Beschluss vom 03.03.2005 - IX ZB 261/03](ix-zb-261-03.md) — I. Der Rechtsbeschwerdeführer ist Verwalter im Insolvenzverfahren der Schuldnerin. Er beantragte, für seine Tätigkeit folgende Vergütung festzusetzen: Vergütung Auslagenpauschale …
 - [BGH, Beschluss vom 03.03.2005 - IX ZB 277/03](ix-zb-277-03.md) — BGH, Beschluss vom 03.03.2005 - IX ZB 277/03
-- [BGH, Beschluss vom 03.03.2005 - IX ZB 33/04](ix-zb-33-04.md) — BGH, Beschluss vom 03.03.2005 - IX ZB 33/04
+- [BGH, Beschluss vom 03.03.2005 - IX ZR 148/01](ix-zr-148-01.md) — . Im Umfang der Nichtannahme wirft die Revision keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.). Der …
+- [BGH, Beschluss vom 03.03.2005 - IX ZR 244/01](ix-zr-244-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 03.03.2005 - IX ZR 248/01](ix-zr-248-01.md) — BGH, Beschluss vom 03.03.2005 - IX ZR 248/01
+- [BGH, Beschluss vom 03.03.2005 - IX ZR 275/01](ix-zr-275-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 03.03.2005 - IX ZR 282/01](ix-zr-282-01.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Urteil vom 03.03.2005 - IX ZR 441/00](ix-zr-441-00.md) — Tatbestand:
+- [BGH, Urteil vom 03.03.2005 - IX ZR 45/04](ix-zr-45-04.md) — Tatbestand:
 - [BGH, Beschluss vom 17.02.2005 - IX ZB 144/04](ix-zb-144-04.md) — BGH, Beschluss vom 17.02.2005 - IX ZB 144/04
+- [BGH, Beschluss vom 17.02.2005 - IX ZB 176/03](ix-zb-176-03.md) — BGH, Beschluss vom 17.02.2005 - IX ZB 176/03
+- [BGH, Beschluss vom 17.02.2005 - IX ZB 178/03](ix-zb-178-03.md) — Verfristung verworfen. Die hiergegen gerichtete sofortige Beschwerde des Schuldners, mit der er zugleich Wiedereinsetzung in den vorigen Sta
+- [BGH, Beschluss vom 17.02.2005 - IX ZB 204/04](ix-zb-204-04.md) — Der Antrag auf Erlaß einer einstweiligen Anordnung ist nach § 4 InsO i.V.m.
 - [BGH, Beschluss vom 17.02.2005 - IX ZB 237/04](ix-zb-237-04.md) — BGH, Beschluss vom 17.02.2005 - IX ZB 237/04
+- [BGH, Beschluss vom 17.02.2005 - IX ZB 62/04](ix-zb-62-04.md) — I. Der Schuldner ist Internist und betreibt eine Arztpraxis. Mit Beschluß vom 1. Juli 2002 hat das Amtsgericht auf Gläubigerantrag das Insolvenzverfahren über sein Vermögen …
 - [BGH, Beschluss vom 17.02.2005 - IX ZB 88/03](ix-zb-88-03.md) — BGH, Beschluss vom 17.02.2005 - IX ZB 88/03
+- [BGH, Beschluss vom 17.02.2005 - IX ZR 159/02](ix-zr-159-02.md) — Die Beschwerde ist nach § 544 Abs. 1 Satz 1 ZPO statthaft; sie ist jedoch nicht begründet. Weder hat die Rechtssache grundsätzliche Bedeutung noch erfordert die Fortbildung des …
 - [BGH, Urteil vom 17.02.2005 - IX ZR 159/03](ix-zr-159-03.md) — Tatbestand:
 - [BGH, Beschluss vom 17.02.2005 - IX ZR 168/01](ix-zr-168-01.md) — BGH, Beschluss vom 17.02.2005 - IX ZR 168/01
+- [BGH, Beschluss vom 17.02.2005 - IX ZR 168/02](ix-zr-168-02.md) — Die Nichtzulassungsbeschwerde ist zulässig (§ 544 ZPO); sie hat jedoch keinen Erfolg.
+- [BGH, Beschluss vom 17.02.2005 - IX ZR 202/01](ix-zr-202-01.md) — Die Rechtssache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554b Abs.
+- [BGH, Beschluss vom 17.02.2005 - IX ZR 285/01](ix-zr-285-01.md) — Die Revision wirft keine Rechtsfrage von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b Abs.
+- [BGH, Urteil vom 10.02.2005 - IX ZR 100/03](ix-zr-100-03.md) — Tatbestand:
+- [BGH, Beschluss vom 10.02.2005 - IX ZR 133/01](ix-zr-133-01.md) — Die Revision zeigt keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Urteil vom 10.02.2005 - IX ZR 211/02](ix-zr-211-02.md) — Tatbestand:
+- [BGH, Beschluss vom 10.02.2005 - IX ZR 220/01](ix-zr-220-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 10.02.2005 - IX ZR 401/00](ix-zr-401-00.md) — Im Umfang der Nichtannahme wirft das Berufungsurteil keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat die Unzulässigkeit der Berufung nach § 519 Abs.
+- [BGH, Beschluss vom 09.02.2005 - IX ZB 38/04](ix-zb-38-04.md) — Mit Beschluß vom 2. Dezember 2004 hat der Senat den Gegenstandswert des Rechtsbeschwerdeverfahrens auf 300 € festgesetzt. Die Verfahrensbevollmächtigte der Schuldnerin hat um …
+- [BGH, Beschluss vom 03.02.2005 - IX ZB 37/04](ix-zb-37-04.md) — I. Die Schuldnerin beantragte am 18. November 2002 die Eröffnung des Verbraucherinsolvenzverfahrens über ihr Vermögen, die Restschuldbefreiung sowie die Stundung der …
+- [BGH, Beschluss vom 03.02.2005 - IX ZB 49/04](ix-zb-49-04.md) — I. Das Amtsgericht hat die Klage abgewiesen. Dagegen hat die Klägerin durch ihre Prozeßbevollmächtigten fristgerecht Berufung eingelegt. Auf deren Antrag hat das Berufungsgericht …
 - [BGH, Beschluss vom 03.02.2005 - IX ZR 119/01](ix-zr-119-01.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat auch keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 03.02.2005 - IX ZR 139/01](ix-zr-139-01.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 03.02.2005 - IX ZR 178/01](ix-zr-178-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 03.02.2005 - IX ZR 259/01](ix-zr-259-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
 - [BGH, Urteil vom 03.02.2005 - IX ZR 47/01](ix-zr-47-01.md) — Tatbestand:
 - [BGH, Beschluss vom 03.02.2005 - IX ZR 80/02](ix-zr-80-02.md) — BGH, Beschluss vom 03.02.2005 - IX ZR 80/02
+- [BGH, Beschluss vom 27.01.2005 - IX ZA 20/04](ix-za-20-04.md) — I. Der Schuldner beantragte beim Amtsgericht Dortmund die Eröffnung des Insolvenzverfahrens, die Gewährung von Restschuldbefreiung und die Stundung der Verfahrenskosten. Gegenüber …
 - [BGH, Beschluss vom 27.01.2005 - IX ZB 258/04](ix-zb-258-04.md) — Die Rechtsbeschwerde ist nicht statthaft, weil sie weder nach dem Gesetz allgemein eröffnet, noch vom Beschwerdegericht im Einzelfall zugelassen worden ist (§ 574 Abs.
+- [BGH, Beschluss vom 27.01.2005 - IX ZB 259/04](ix-zb-259-04.md) — Die Rechtsbeschwerde ist nicht statthaft, weil sie weder nach dem Gesetz allgemein eröffnet, noch vom Beschwerdegericht im Einzelfall zugelassen worden ist (§ 574 Abs.
 - [BGH, Beschluss vom 27.01.2005 - IX ZB 270/03](ix-zb-270-03.md) — BGH, Beschluss vom 27.01.2005 - IX ZB 270/03
 - [BGH, Beschluss vom 27.01.2005 - IX ZR 228/01](ix-zr-228-01.md) — BGH, Beschluss vom 27.01.2005 - IX ZR 228/01
+- [BGH, Urteil vom 27.01.2005 - IX ZR 273/02](ix-zr-273-02.md) — Tatbestand: Die Klägerin verlangt von dem Beklagten restliche Honorarzahlung. Der Beklagte ist u.a. wegen Kreditbetrugs in 61 Fällen angekla
+- [BGH, Beschluss vom 21.01.2005 - IX ZR 186/01](ix-zr-186-01.md) — Der Rechtsstreit wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 21.01.2005 - IX ZR 22/03](ix-zr-22-03.md) — offenbarer Unrichtigkeit dahin berichtigt, daß es auf S. 12 des Umdrucks im letzten Absatz, zweite Zeile, heißen muß statt "Insolvenzschuldn
+- [BGH, Beschluss vom 20.01.2005 - IX ZB 134/04](ix-zb-134-04.md) — I. Die weitere Beteiligte (fortan: Treuhänderin) wurde mit Beschluß des Amtsgerichts – Insolvenzgerichts – vom 11. Juni 2003 zur Treuhänderin in dem Verbraucherinsolvenzverfahren …
+- [BGH, Beschluss vom 20.01.2005 - IX ZB 154/01](ix-zb-154-01.md) — I. Die Schuldnerin und ihr Ehemann (fortan Antragsgegner) mieteten von dem in Aachen wohnenden Gläubiger und Antragsteller eine Wohnung in dessen Haus in Eynatten/Belgien. Auf …
 - [BGH, Beschluss vom 20.01.2005 - IX ZB 98/03](ix-zb-98-03.md) — statthafte Rechtsbeschwerde ist unzulässig. Die Zulassungsentscheidung des Landgerichts bindet den Senat nicht (vgl. BGH, Beschl. v. 20. Feb
 - [BGH, Beschluss vom 20.01.2005 - IX ZR 112/03](ix-zr-112-03.md) — BGH, Beschluss vom 20.01.2005 - IX ZR 112/03
+- [BGH, Beschluss vom 20.01.2005 - IX ZR 118/01](ix-zr-118-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 20.01.2005 - IX ZR 140/01](ix-zr-140-01.md) — BGH, Beschluss vom 20.01.2005 - IX ZR 140/01
 - [BGH, Urteil vom 20.01.2005 - IX ZR 416/00](ix-zr-416-00.md) — der Aufdeckung stiller Reserven durch Verkauf von Gewerbeerwartungsland (Abgrenzung zu BGH WM 2004, 475).
+- [BGH, Beschluss vom 13.01.2005 - IX ZB 307/04](ix-zb-307-04.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Urteil vom 13.01.2005 - IX ZR 33/04](ix-zr-33-04.md) — Tatbestand:
+- [BGH, Urteil vom 13.01.2005 - IX ZR 455/00](ix-zr-455-00.md) — Tatbestand: Die Klägerin nimmt ihre ehemaligen Rechtsanwälte auf Schadensersatz wegen anwaltlicher Pflichtverletzung in Anspruch. Sie wirft
 - [BGH, Urteil vom 13.01.2005 - IX ZR 457/00](ix-zr-457-00.md) — BGH, Urteil vom 13.01.2005 - IX ZR 457/00

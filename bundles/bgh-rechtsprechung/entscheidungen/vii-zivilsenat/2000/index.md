@@ -1,9 +1,21 @@
 # VII. Zivilsenat – 2000
 
-30 Entscheidung(en).
+77 Entscheidung(en).
 
+- [BGH, Urteil vom 22.12.2000 - VII ZR 310/99](vii-zr-310-99.md) — Tatbestand: I.
+- [BGH, Urteil vom 22.12.2000 - VII ZR 311/99](vii-zr-311-99.md) — Tatbestand: I.
+- [BGH, Versäumnisurteil vom 21.12.2000 - VII ZR 17/99](vii-zr-17-99.md) — Tatbestand: Die Klägerin fordert Rückzahlung einer Rate, die Beklagte widerklagend Schadensersatz wegen Nichterfüllung. Die Parteien schloss
+- [BGH, Urteil vom 21.12.2000 - VII ZR 192/98](vii-zr-192-98.md) — Tatbestand: Die Klägerin errichtete in den Jahren 1984/85 ein Wohnhaus. Sie verlangt wegen verschiedener Mängel Schadensersatz, von der Bekl
+- [BGH, Urteil vom 21.12.2000 - VII ZR 407/99](vii-zr-407-99.md) — Tatbestand: Der Kläger begehrt Kostenvorschuß und die Feststellung, daß die Beklagte zum Ersatz weiterer Nachbesserungskosten verpflichtet i
+- [BGH, Urteil vom 21.12.2000 - VII ZR 467/99](vii-zr-467-99.md) — Tatbestand: Der Kläger, ein Architekt, verlangt von den Beklagten Architektenhonorar für erbrachte und nicht erbrachte Leistungen nach einem
+- [BGH, Urteil vom 21.12.2000 - VII ZR 488/99](vii-zr-488-99.md) — Tatbestand: Der Kläger beauftragte den Beklagten mit Planungsleisten für die Bebauung eines Gewerbegeländes. Er nimmt ihn auf Schadensersatz
 - [BGH, Urteil vom 07.12.2000 - VII ZR 360/98](vii-zr-360-98.md) — Tatbestand: Die Klägerin verlangt 775.000 DM Schadensersatz. Sie hat 1993 den Neubau eines Verwaltungsgebäudes sowie den Umbau eines Parkhau
 - [BGH, Urteil vom 07.12.2000 - VII ZR 404/99](vii-zr-404-99.md) — Tatbestand: I.
+- [BGH, Urteil vom 23.11.2000 - VII ZR 242/99](vii-zr-242-99.md) — behaupteter Planungs- und Überwachungsfehler.
+- [BGH, Versäumnisurteil vom 23.11.2000 - VII ZR 282/99](vii-zr-282-99.md) — Tatbestand: Die Klägerin nimmt die Beklagte auf Zahlung von Werklohn in Anspruch. Gegenüber der vor dem Landgericht Göttingen erhobenen Klag
+- [BGH, Urteil vom 09.11.2000 - VII ZR 362/99](vii-zr-362-99.md) — Tatbestand: Der Kläger verlangt vom Beklagten Architektenhonorar. Der Beklagte begehrt mit der Widerklage, den Kläger zum Schadensersatz in
+- [BGH, Urteil vom 09.11.2000 - VII ZR 409/99](vii-zr-409-99.md) — Tatbestand:
+- [BGH, Urteil vom 09.11.2000 - VII ZR 82/99](vii-zr-82-99.md) — Tatbestand:
 - [BGH, Urteil vom 26.10.2000 - VII ZR 117/99](vii-zr-117-99.md) — Tatbestand: Die Klägerin fordert Restwerklohn. Sie wurde im August 1995 von der inzwischen in Konkurs gegangenen Firma Z. mündlich mit der H
 - [BGH, Urteil vom 26.10.2000 - VII ZR 239/98](vii-zr-239-98.md) — Tatbestand: Die Klägerin verlangt Werklohn für Betonbohr- und -sägearbeiten, die sie als Nachunternehmerin der mit Abbrucharbeiten beauftrag
 - [BGH, Urteil vom 26.10.2000 - VII ZR 3/99](vii-zr-3-99.md) — Tatbestand: Der Kläger verlangt als Gesamtvollstreckungsverwalter Werklohn für Bauleistungen. Die Gemeinschuldnerin hat an sechs Häusern ein
@@ -17,10 +29,45 @@
 - [BGH, Urteil vom 07.09.2000 - VII ZR 443/99](vii-zr-443-99.md) — Tatbestand: I.
 - [BGH, Beschluss vom 23.08.2000 - VII ZR 95/99](vii-zr-95-99.md) — BGH, Beschluss vom 23.08.2000 - VII ZR 95/99
 - [BGH, Beschluss vom 27.07.2000 - VII ZR 480/98](vii-zr-480-98.md) — BGH, Beschluss vom 27.07.2000 - VII ZR 480/98
+- [BGH, Beschluss vom 13.07.2000 - VII ZB 41/99](vii-zb-41-99.md) — I. Das Landgericht hat die Klage, mit der die Klägerin Restwerklohn in Höhe von 21.850 DM nebst Zinsen geltend gemacht hat, abgewiesen. Gegen dieses Urteil hat die Klägerin …
+- [BGH, Urteil vom 13.07.2000 - VII ZR 139/99](vii-zr-139-99.md) — Tatbestand: I.
+- [BGH, Beschluss vom 13.07.2000 - VII ZR 249/99](vii-zr-249-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 06.07.2000 - VII ZB 29/99](vii-zb-29-99.md) — BGH, Beschluss vom 06.07.2000 - VII ZB 29/99
+- [BGH, Beschluss vom 06.07.2000 - VII ZB 4/00](vii-zb-4-00.md) — Versäumung der Berufungsbegründungsfrist gewährt. Beschwerdewert: 23.465,35 DM
+- [BGH, Beschluss vom 06.07.2000 - VII ZR 10/99](vii-zr-10-99.md) — BGH, Beschluss vom 06.07.2000 - VII ZR 10/99
+- [BGH, Urteil vom 06.07.2000 - VII ZR 22/98](vii-zr-22-98.md) — Tatbestand: Nach Kündigung von Bauverträgen durch den Beklagten verlangt der Kläger restlichen Werklohn für an zwei Bauvorhaben des Beklagte
+- [BGH, Urteil vom 06.07.2000 - VII ZR 73/00](vii-zr-73-00.md) — eines Verstoßes gegen das AGB-Gesetz unwirksam:
+- [BGH, Urteil vom 06.07.2000 - VII ZR 82/98](vii-zr-82-98.md) — Tatbestand: Der Kläger nimmt den beklagten Ingenieur auf Schadensersatz wegen fehlerhafter Planung eines Wintergartens und unzureichender Ba
 - [BGH, Beschluss vom 29.06.2000 - VII ZB 5/00](vii-zb-5-00.md) — Baumängel verurteilt worden. Sie hat gegen das am 15. Oktober 1999 zugestellte Urteil am 18. November 1999 Berufung eingelegt und Wiedereins
 - [BGH, Urteil vom 29.06.2000 - VII ZR 186/99](vii-zr-186-99.md) — 3-
+- [BGH, Urteil vom 15.06.2000 - VII ZR 212/99](vii-zr-212-99.md) — Tatbestand:
+- [BGH, Urteil vom 15.06.2000 - VII ZR 30/99](vii-zr-30-99.md) — Tatbestand: Die Klägerin fordert von den Beklagten Restwerklohn. Die Klägerin betreibt ein Unternehmen, in dem sich Bauhandwerker verschiede
+- [BGH, Urteil vom 15.06.2000 - VII ZR 84/99](vii-zr-84-99.md) — Tatbestand: I.
+- [BGH, Beschluss vom 18.05.2000 - VII ZB 25/99](vii-zb-25-99.md) — Versäumung der Frist zur Einlegung der Berufung gegen das Urteil der 3. Zivilkammer des Landgerichts Gera vom 14. September 1998 Wiedereinse
+- [BGH, Urteil vom 18.05.2000 - VII ZR 125/99](vii-zr-125-99.md) — Tatbestand: I.
+- [BGH, Urteil vom 18.05.2000 - VII ZR 178/99](vii-zr-178-99.md) — Tatbestand:
+- [BGH, Urteil vom 18.05.2000 - VII ZR 436/98](vii-zr-436-98.md) — Tatbestand:
+- [BGH, Urteil vom 18.05.2000 - VII ZR 69/99](vii-zr-69-99.md) — Tatbestand: Der Kläger verlangt vom Beklagten Honorar für erbrachte Architektenleistungen aus einem beendeten Vertrag. Die Parteien sind Arc
+- [BGH, Beschluss vom 04.05.2000 - VII ZB 24/99](vii-zb-24-99.md) — Versäumung der Frist zur Begründung der Berufung gegen das Urteil der 14. Zivilkammer des Landgerichts Dresden vom 13. November 1998 gewährt
+- [BGH, Urteil vom 04.05.2000 - VII ZR 203/98](vii-zr-203-98.md) — Tatbestand: Der klagende Gesamtvollstreckungsverwalter verlangt restlichen Werklohn in Höhe von 88.919,21 DM und Zinsen für am 30. April 199
+- [BGH, Urteil vom 04.05.2000 - VII ZR 258/98](vii-zr-258-98.md) — Tatbestand: Die Parteien streiten wegen Baumängeln an einem Supermarkt. Der beklagte Architekt ist wegen fehlerhafter Planung und Bauüberwac
+- [BGH, Urteil vom 04.05.2000 - VII ZR 394/97](vii-zr-394-97.md) — Tatbestand: Der Beklagte beauftragte die Klägerin mit der Errichtung einer Doppelhaushälfte. In dem Pauschalpreisvertrag war die VOB/B verei
+- [BGH, Urteil vom 04.05.2000 - VII ZR 53/99](vii-zr-53-99.md) — Tatbestand:
+- [BGH, Beschluss vom 20.04.2000 - VII ZB 11/00](vii-zb-11-00.md) — Versäumung der Berufungsfrist gewährt. Beschwerdewert: 36.520,05 DM.
+- [BGH, Beschluss vom 20.04.2000 - VII ZR 10/98](vii-zr-10-98.md) — BGH, Beschluss vom 20.04.2000 - VII ZR 10/98
+- [BGH, Urteil vom 20.04.2000 - VII ZR 116/99](vii-zr-116-99.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Werklohn für Bauleistungen. Die Parteien streiten darüber, ob die Verjährungsfrist vor d
+- [BGH, Beschluss vom 20.04.2000 - VII ZR 13/00](vii-zr-13-00.md) — Zur Recht hat das Berufungsgericht die Beschwer gemäß § 546 ZPO entsprechend der Höhe der Klageforderung festgesetzt.
+- [BGH, Urteil vom 20.04.2000 - VII ZR 164/99](vii-zr-164-99.md) — Tatbestand:
+- [BGH, Urteil vom 20.04.2000 - VII ZR 458/97](vii-zr-458-97.md) — Tatbestand: Die Parteien streiten über Ansprüche aus einem von beiden Seiten gekündigten Werkvertrag. Die Beklagte beauftragte die Klägerin
 - [BGH, Versäumnisurteil vom 06.04.2000 - VII ZR 199/97](vii-zr-199-97.md) — Tatbestand: Der Kläger verlangt Schadensersatz wegen verzögerter Mangelbeseitigung. Die Parteien schlossen am 8. Dezember 1991 einen Bauvert
 - [BGH, Urteil vom 06.04.2000 - VII ZR 455/98](vii-zr-455-98.md) — BGH, Urteil vom 06.04.2000 - VII ZR 455/98
+- [BGH, Urteil vom 30.03.2000 - VII ZR 167/99](vii-zr-167-99.md) — Tatbestand: Der Kläger, der Fertighäuser vertreibt, schloß mit dem beklagten Ehepaar am 27. Februar 1994 in seiner Wohnung einen Vertrag übe
+- [BGH, Beschluss vom 30.03.2000 - VII ZR 213/99](vii-zr-213-99.md) — des Berufungsgerichts die Klageabweisung nicht stützen.
+- [BGH, Beschluss vom 30.03.2000 - VII ZR 370/98](vii-zr-370-98.md) — A. Dem Bundesgerichtshof liegt die Revision einer niederländischen BV (Besloten Vennootschap met beperkte aansprakelijkheid) vor. Die Klägerin, die die Revision führt, wurde in …
+- [BGH, Urteil vom 30.03.2000 - VII ZR 399/98](vii-zr-399-98.md) — Tatbestand:
+- [BGH, Beschluss vom 16.03.2000 - VII ZB 36/99](vii-zb-36-99.md) — Versäumung der Berufungsfrist gewährt.
+- [BGH, Urteil vom 16.03.2000 - VII ZR 320/99](vii-zr-320-99.md) — Tatbestand:
+- [BGH, Urteil vom 16.03.2000 - VII ZR 324/99](vii-zr-324-99.md) — dieser Leistungen verjähren deshalb gemäß § 196 Abs. 2 BGB in vier Jahren.
 - [BGH, Beschluss vom 02.03.2000 - VII ZB 3/99](vii-zb-3-99.md) — Versäumung der Berufungsfrist gewährt. Beschwerdewert: 35.000 DM.
 - [BGH, Urteil vom 02.03.2000 - VII ZR 475/98](vii-zr-475-98.md) — Tatbestand: Die Klägerin (Auftragnehmerin) verlangt von der Beklagten (Auftraggeberin) Herausgabe einer von ihr gestellten Bürgschaft auf er
 - [BGH, Beschluss vom 17.02.2000 - VII ZB 13/99](vii-zb-13-99.md) — BGH, Beschluss vom 17.02.2000 - VII ZB 13/99

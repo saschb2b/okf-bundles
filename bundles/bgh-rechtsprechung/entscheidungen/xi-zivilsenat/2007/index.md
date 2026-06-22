@@ -1,7 +1,8 @@
 # XI. Zivilsenat – 2007
 
-60 Entscheidung(en).
+155 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2007 - XI ZR 124/07](xi-zr-124-07.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Beschluss vom 18.12.2007 - XI ZR 140/07](xi-zr-140-07.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Beschluss vom 18.12.2007 - XI ZR 205/07](xi-zr-205-07.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Beschluss vom 18.12.2007 - XI ZR 209/06](xi-zr-209-06.md) — BGH, Beschluss vom 18.12.2007 - XI ZR 209/06
@@ -9,45 +10,123 @@
 - [BGH, Urteil vom 18.12.2007 - XI ZR 324/06](xi-zr-324-06.md) — 3-
 - [BGH, Beschluss vom 18.12.2007 - XI ZR 44/07](xi-zr-44-07.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Beschluss vom 18.12.2007 - XI ZR 59/07](xi-zr-59-07.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 18.12.2007 - XI ZR 63/07](xi-zr-63-07.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Urteil vom 18.12.2007 - XI ZR 76/06](xi-zr-76-06.md) — Tatbestand:
 - [BGH, Beschluss vom 11.12.2007 - XI ZR 342/06](xi-zr-342-06.md) — BGH, Beschluss vom 11.12.2007 - XI ZR 342/06
 - [BGH, Beschluss vom 11.12.2007 - XI ZR 435/06](xi-zr-435-06.md) — BGH, Beschluss vom 11.12.2007 - XI ZR 435/06
+- [BGH, Beschluss vom 04.12.2007 - XI ZR 174/07](xi-zr-174-07.md) — BGH, Beschluss vom 04.12.2007 - XI ZR 174/07
+- [BGH, Beschluss vom 04.12.2007 - XI ZR 175/07](xi-zr-175-07.md) — BGH, Beschluss vom 04.12.2007 - XI ZR 175/07
 - [BGH, Beschluss vom 04.12.2007 - XI ZR 187/07](xi-zr-187-07.md) — BGH, Beschluss vom 04.12.2007 - XI ZR 187/07
+- [BGH, Urteil vom 04.12.2007 - XI ZR 227/06](xi-zr-227-06.md) — anfänglicher Nichtigkeit des Kaufvertrages dem Verbraucher das Recht zu, die Kaufpreiszahlung zu verweigern, so führt das wegen der Regelung
+- [BGH, Beschluss vom 04.12.2007 - XI ZR 382/07](xi-zr-382-07.md) — BGH, Beschluss vom 04.12.2007 - XI ZR 382/07
+- [BGH, Beschluss vom 04.12.2007 - XI ZR 383/07](xi-zr-383-07.md) — BGH, Beschluss vom 04.12.2007 - XI ZR 383/07
+- [BGH, Beschluss vom 04.12.2007 - XI ZR 384/07](xi-zr-384-07.md) — BGH, Beschluss vom 04.12.2007 - XI ZR 384/07
+- [BGH, Beschluss vom 04.12.2007 - XI ZR 385/07](xi-zr-385-07.md) — BGH, Beschluss vom 04.12.2007 - XI ZR 385/07
+- [BGH, Beschluss vom 20.11.2007 - XI ZB 29/06](xi-zb-29-06.md) — I. 1 Mit Telefaxschreiben ihrer Prozessbevollmächtigten vom 17. Juli 2006 (einem Montag) legten die Beklagten Berufung gegen das ihnen am Freitag, dem 16. Juni 2006 zugestellte …
+- [BGH, Beschluss vom 20.11.2007 - XI ZB 30/06](xi-zb-30-06.md) — I. 1 Mit Telefaxschreiben ihrer Prozessbevollmächtigten vom 17. Juli 2006 (einem Montag) legte die Beklagte Berufung gegen das ihr am Freitag, dem 16. Juni 2006 zugestellte Urteil …
+- [BGH, Beschluss vom 20.11.2007 - XI ZB 31/06](xi-zb-31-06.md) — I. 1 Mit Telefaxschreiben ihrer Prozessbevollmächtigten vom 17. Juli 2006 (einem Montag) legten die Beklagten Berufung gegen das ihnen am Freitag, dem 16. Juni 2006 zugestellte …
+- [BGH, Beschluss vom 20.11.2007 - XI ZR 259/06](xi-zr-259-06.md) — individueller Umstände in einer Einzelfallwürdigung vom Oberlandesgericht in einem Sinne ausgelegt worden, der nach den insofern zutreffende
 - [BGH, Urteil vom 13.11.2007 - XI ZR 294/07](xi-zr-294-07.md) — BGH, Urteil vom 13.11.2007 - XI ZR 294/07
+- [BGH, Beschluss vom 13.11.2007 - XI ZR 55/07](xi-zr-55-07.md) — BGH, Beschluss vom 13.11.2007 - XI ZR 55/07
+- [BGH, Beschluss vom 06.11.2007 - XI ZR 26/06](xi-zr-26-06.md) — BGH, Beschluss vom 06.11.2007 - XI ZR 26/06
+- [BGH, Urteil vom 06.11.2007 - XI ZR 322/03](xi-zr-322-03.md) — unterbliebener Widerrufsbelehrung gemäß § 2 HWiG muss der Darlehensnehmer die Ursächlichkeit des Belehrungsverstoßes für den Schaden auch da
 - [BGH, Urteil vom 23.10.2007 - XI ZR 167/05](xi-zr-167-05.md) — BGH, Urteil vom 23.10.2007 - XI ZR 167/05
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 19/07](xi-zr-19-07.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 243/06](xi-zr-243-06.md) — auf. Von einer näheren Begründung wird gemäß § 544 Abs. 4 Satz 2 Halbs. 2 ZPO abgesehen. Der Gegenstandswert für das Beschwerdeverfahren beträgt 406.297,27 €. Nobbe Ellenberger …
 - [BGH, Beschluss vom 23.10.2007 - XI ZR 296/06](xi-zr-296-06.md) — BGH, Beschluss vom 23.10.2007 - XI ZR 296/06
 - [BGH, Beschluss vom 23.10.2007 - XI ZR 30/07](xi-zr-30-07.md) — BGH, Beschluss vom 23.10.2007 - XI ZR 30/07
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 338/06](xi-zr-338-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 360/06](xi-zr-360-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 364/06](xi-zr-364-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 373/06](xi-zr-373-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 396/06](xi-zr-396-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 408/06](xi-zr-408-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Urteil vom 23.10.2007 - XI ZR 423/06](xi-zr-423-06.md) — 3-
+- [BGH, Urteil vom 23.10.2007 - XI ZR 424/06](xi-zr-424-06.md) — 3-
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 432/06](xi-zr-432-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 449/06](xi-zr-449-06.md) — Eine Einstellung gemäß § 719 Abs. 2 ZPO kommt nicht in Betracht, weil der Beklagte in der Berufungsinstanz keinen Schutzantrag gemäß § 712 ZPO gestellt hat (vgl. BGH, Beschlüsse …
+- [BGH, Beschluss vom 23.10.2007 - XI ZR 51/07](xi-zr-51-07.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Urteil vom 16.10.2007 - XI ZR 132/06](xi-zr-132-06.md) — Nichterreichen des Subventionszwecks ist nach § 306 BGB a.F. nichtig.
 - [BGH, Beschluss vom 16.10.2007 - XI ZR 155/06](xi-zr-155-06.md) — der Eindeutigkeit der Rechtslage nicht gegeben. Von einer näheren Begründung wird gemäß § 544 Abs. 4 Satz 2 Halbs. 2 ZPO abgesehen.
+- [BGH, Beschluss vom 09.10.2007 - XI ZB 14/07](xi-zb-14-07.md) — I. 1 Das Landgericht hat mit Urteil vom 30. September 2005, laut Emp- fangsbekenntnis zugestellt am 18. Oktober 2005, die Klage des Klägers gegen die beklagte Bank auf …
 - [BGH, Beschluss vom 09.10.2007 - XI ZB 34/06](xi-zb-34-06.md) — I. 1 Das Landgericht hat mit Urteil vom 11. Mai 2006, zugestellt am 15. Mai 2006, die Klage des Klägers gegen die beklagte Bank abgewie- sen. Am 13. Juni 2006 ist eine …
+- [BGH, Beschluss vom 09.10.2007 - XI ZB 4/07](xi-zb-4-07.md) — I. 1 Das Landgericht hat mit Urteil vom 28. Juli 2006, zugestellt am 3. August 2006, die Klage der Kläger gegen die beklagte Bank auf Rück- abwicklung eines zur Finanzierung einer …
+- [BGH, Beschluss vom 25.09.2007 - XI ZB 6/07](xi-zb-6-07.md) — Das Landgericht hat mit Urteil vom 5. Oktober 2005 die Klage des Klägers gegen die Beklagte, mit der er Schadensersatz aus einem ver- lustträchtigen Investment begehrt …
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 223/06](xi-zr-223-06.md) — legen wollen, werde die nach Erlass des Berufungsurteils geänderte Rechtsprechung des Bundesgerichtshofs zu dieser Frage künftig nicht beachten (vgl.
 - [BGH, Beschluss vom 25.09.2007 - XI ZR 233/06](xi-zr-233-06.md) — legen wollen, werde die nach Erlass des Berufungsurteils geänderte Rechtsprechung des Bundesgerichtshofs zu dieser Frage künftig nicht beachten (vgl.
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 260/06](xi-zr-260-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Beschluss vom 25.09.2007 - XI ZR 266/06](xi-zr-266-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Urteil vom 25.09.2007 - XI ZR 274/05](xi-zr-274-05.md) — 3-
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 280/06](xi-zr-280-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 282/06](xi-zr-282-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 291/06](xi-zr-291-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Beschluss vom 25.09.2007 - XI ZR 300/06](xi-zr-300-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 311/06](xi-zr-311-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Urteil vom 25.09.2007 - XI ZR 320/06](xi-zr-320-06.md) — 3-
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 325/05](xi-zr-325-05.md) — BGH, Beschluss vom 25.09.2007 - XI ZR 325/05
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 340/06](xi-zr-340-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 341/06](xi-zr-341-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Beschluss vom 25.09.2007 - XI ZR 343/06](xi-zr-343-06.md) — Verstoßes gegen Artikel 3 Abs. 1 GG und Artikel 103 Abs. 1 GG hat der Senat geprüft, aber nicht für durchgreifend befunden. Insbesondere war
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 344/06](xi-zr-344-06.md) — Verstoßes gegen Artikel 3 Abs. 1 GG und Artikel 103 Abs. 1 GG hat der Senat geprüft, aber nicht für durchgreifend befunden. Insbesondere war
 - [BGH, Beschluss vom 25.09.2007 - XI ZR 345/06](xi-zr-345-06.md) — Verstoßes gegen Artikel 3 Abs. 1 GG und Artikel 103 Abs. 1 GG hat der Senat geprüft, aber nicht für durchgreifend befunden. Insbesondere war
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 346/06](xi-zr-346-06.md) — Verstoßes gegen Artikel 3 Abs. 1 GG und Artikel 103 Abs. 1 GG hat der Senat geprüft, aber nicht für durchgreifend befunden. Insbesondere war
 - [BGH, Beschluss vom 25.09.2007 - XI ZR 349/05](xi-zr-349-05.md) — legen wollen, werde die nach Erlass des Berufungsurteils geänderte Rechtsprechung des Bundesgerichtshofs zu dieser Frage künftig nicht beachten (vgl.
+- [BGH, Beschluss vom 25.09.2007 - XI ZR 352/06](xi-zr-352-06.md) — liegenden Rechtsverhältnis … Anders als die Beschwerde meint, bezieht sich die Formulierung in Ziffer 1.c) des Geschäftsverteilungsplans für den 5.
 - [BGH, Beschluss vom 18.09.2007 - XI ZR 144/07](xi-zr-144-07.md) — BGH, Beschluss vom 18.09.2007 - XI ZR 144/07
+- [BGH, Urteil vom 18.09.2007 - XI ZR 211/06](xi-zr-211-06.md) — 3-
+- [BGH, Beschluss vom 18.09.2007 - XI ZR 224/06](xi-zr-224-06.md) — BGH, Beschluss vom 18.09.2007 - XI ZR 224/06
 - [BGH, Beschluss vom 18.09.2007 - XI ZR 240/06](xi-zr-240-06.md) — BGH, Beschluss vom 18.09.2007 - XI ZR 240/06
 - [BGH, Beschluss vom 18.09.2007 - XI ZR 287/05](xi-zr-287-05.md) — BGH, Beschluss vom 18.09.2007 - XI ZR 287/05
+- [BGH, Beschluss vom 18.09.2007 - XI ZR 310/06](xi-zr-310-06.md) — BGH, Beschluss vom 18.09.2007 - XI ZR 310/06
 - [BGH, Beschluss vom 18.09.2007 - XI ZR 334/06](xi-zr-334-06.md) — BGH, Beschluss vom 18.09.2007 - XI ZR 334/06
 - [BGH, Beschluss vom 18.09.2007 - XI ZR 335/06](xi-zr-335-06.md) — BGH, Beschluss vom 18.09.2007 - XI ZR 335/06
+- [BGH, Urteil vom 18.09.2007 - XI ZR 447/06](xi-zr-447-06.md) — Tatbestand:
+- [BGH, Beschluss vom 18.09.2007 - XI ZR 81/06](xi-zr-81-06.md) — BGH, Beschluss vom 18.09.2007 - XI ZR 81/06
 - [BGH, Beschluss vom 26.07.2007 - XI ZR 105/06](xi-zr-105-06.md) — BGH, Beschluss vom 26.07.2007 - XI ZR 105/06
 - [BGH, Beschluss vom 24.07.2007 - XI ZA 3/07](xi-za-3-07.md) — 3-
 - [BGH, Beschluss vom 24.07.2007 - XI ZR 144/06](xi-zr-144-06.md) — I. 1 Die Klägerin, eine Bank, begehrt vom Beklagten, einem Rechtsan- walt, Zahlung aus einer selbstschuldnerischen Bürgschaft. 2 Die Klägerin gewährte der Hauptschuldnerin, der …
 - [BGH, Beschluss vom 24.07.2007 - XI ZR 196/06](xi-zr-196-06.md) — BGH, Beschluss vom 24.07.2007 - XI ZR 196/06
+- [BGH, Urteil vom 24.07.2007 - XI ZR 208/06](xi-zr-208-06.md) — 3-
+- [BGH, Beschluss vom 24.07.2007 - XI ZR 262/06](xi-zr-262-06.md) — BGH, Beschluss vom 24.07.2007 - XI ZR 262/06
+- [BGH, Beschluss vom 24.07.2007 - XI ZR 323/05](xi-zr-323-05.md) — BGH, Beschluss vom 24.07.2007 - XI ZR 323/05
 - [BGH, Beschluss vom 24.07.2007 - XI ZR 382/06](xi-zr-382-06.md) — BGH, Beschluss vom 24.07.2007 - XI ZR 382/06
+- [BGH, Beschluss vom 17.07.2007 - XI ZA 6/06](xi-za-6-06.md) — BGH, Beschluss vom 17.07.2007 - XI ZA 6/06
 - [BGH, Beschluss vom 17.07.2007 - XI ZR 116/06](xi-zr-116-06.md) — BGH, Beschluss vom 17.07.2007 - XI ZR 116/06
 - [BGH, Beschluss vom 17.07.2007 - XI ZR 161/07](xi-zr-161-07.md) — BGH, Beschluss vom 17.07.2007 - XI ZR 161/07
 - [BGH, Beschluss vom 17.07.2007 - XI ZR 370/06](xi-zr-370-06.md) — BGH, Beschluss vom 17.07.2007 - XI ZR 370/06
 - [BGH, Beschluss vom 17.07.2007 - XI ZR 70/07](xi-zr-70-07.md) — BGH, Beschluss vom 17.07.2007 - XI ZR 70/07
+- [BGH, Beschluss vom 17.07.2007 - XI ZR 77/07](xi-zr-77-07.md) — BGH, Beschluss vom 17.07.2007 - XI ZR 77/07
+- [BGH, Urteil vom 10.07.2007 - XI ZR 243/05](xi-zr-243-05.md) — Tatbestand:
+- [BGH, Beschluss vom 10.07.2007 - XI ZR 351/05](xi-zr-351-05.md) — , dass der Besteller einer Sicherungsgrundschuld diesen Einwand grundsätzlich nicht geltend machen könne noch handelt es sich bei einem etwaigen Rechtsfehler, der dem …
+- [BGH, Beschluss vom 10.07.2007 - XI ZR 436/06](xi-zr-436-06.md) — BGH, Beschluss vom 10.07.2007 - XI ZR 436/06
 - [BGH, Beschluss vom 10.07.2007 - XI ZR 96/06](xi-zr-96-06.md) — BGH, Beschluss vom 10.07.2007 - XI ZR 96/06
 - [BGH, Beschluss vom 09.07.2007 - XI ZR 64/06](xi-zr-64-06.md) — der Begründung nimmt der Senat Bezug auf das Schreiben
+- [BGH, Beschluss vom 04.07.2007 - XI ZR 169/06](xi-zr-169-06.md) — der Begründung nimmt der Senat Bezug auf das Schreiben
+- [BGH, Beschluss vom 26.06.2007 - XI ZR 201/06](xi-zr-201-06.md) — I. 1 Die Klägerin nimmt den Beklagten aus abgetretenem Recht der Raiffeisen-Volksbank M. (im Folgenden: RVB) aus einer Bürg- schaft in Anspruch. -3- 2 Die P. GmbH, deren …
 - [BGH, Urteil vom 26.06.2007 - XI ZR 277/05](xi-zr-277-05.md) — 3-
+- [BGH, Beschluss vom 19.06.2007 - XI ZB 40/06](xi-zb-40-06.md) — I. 1 Das Landgericht hat mit Urteil vom 14. Juli 2005, zugestellt am 22. Juli 2005, die Klage der Klägerin gegen die beklagte Bank auf Rück- abwicklung eines zur Finanzierung …
+- [BGH, Urteil vom 19.06.2007 - XI ZR 142/05](xi-zr-142-05.md) — Tatbestand:
 - [BGH, Beschluss vom 19.06.2007 - XI ZR 375/06](xi-zr-375-06.md) — BGH, Beschluss vom 19.06.2007 - XI ZR 375/06
+- [BGH, Beschluss vom 19.06.2007 - XI ZR 402/06](xi-zr-402-06.md) — eines konkreten Wissensvorsprungs über ein besonders grobes Missverhältnis von Kaufpreis und Verkehrswert einer Immobilie setzt positive Ken
+- [BGH, Urteil vom 12.06.2007 - XI ZR 112/05](xi-zr-112-05.md) — 3-
 - [BGH, Urteil vom 12.06.2007 - XI ZR 290/06](xi-zr-290-06.md) — Tatbestand:
+- [BGH, Beschluss vom 12.06.2007 - XI ZR 326/05](xi-zr-326-05.md) — BGH, Beschluss vom 12.06.2007 - XI ZR 326/05
 - [BGH, Beschluss vom 05.06.2007 - XI ZA 27/06](xi-za-27-06.md) — Versäumung einer gesetzlichen Frist auf einen vorübergehenden und
+- [BGH, Urteil vom 05.06.2007 - XI ZR 348/05](xi-zr-348-05.md) — 3-
+- [BGH, Beschluss vom 30.05.2007 - XI ZR 229/06](xi-zr-229-06.md) — Die Erinnerung gemäß § 66 Abs. 1 Satz 1 GKG, über die der Senat zu entscheiden hat (vgl. BGH, Beschluss vom 13. Januar 2005 - V ZR 218/04, NJW-RR 2005, 584), hat keinen Erfolg. 2 …
+- [BGH, Beschluss vom 22.05.2007 - XI ZR 309/06](xi-zr-309-06.md) — BGH, Beschluss vom 22.05.2007 - XI ZR 309/06
+- [BGH, Urteil vom 22.05.2007 - XI ZR 337/05](xi-zr-337-05.md) — Tatbestand:
 - [BGH, Urteil vom 22.05.2007 - XI ZR 338/05](xi-zr-338-05.md) — Tatbestand:
+- [BGH, Beschluss vom 08.05.2007 - XI ZR 122/06](xi-zr-122-06.md) — Verstoßes gegen Art. 103 Abs. 1 GG hat der Senat geprüft, aber nicht für durchgreifend befunden. Von einer näheren Begründung wird gemäß § 5
+- [BGH, Beschluss vom 08.05.2007 - XI ZR 190/05](xi-zr-190-05.md) — BGH, Beschluss vom 08.05.2007 - XI ZR 190/05
+- [BGH, Beschluss vom 08.05.2007 - XI ZR 195/06](xi-zr-195-06.md) — der Verletzung des Anspruchs auf rechtliches Gehör und wegen Verletzung des Willkürverbots hat der Senat geprüft und im Ergebnis für nicht d
+- [BGH, Urteil vom 08.05.2007 - XI ZR 278/06](xi-zr-278-06.md) — Tatbestand:
+- [BGH, Urteil vom 24.04.2007 - XI ZR 17/06](xi-zr-17-06.md) — BGH, Urteil vom 24.04.2007 - XI ZR 17/06
 - [BGH, Urteil vom 24.04.2007 - XI ZR 191/06](xi-zr-191-06.md) — Tatbestand:
 - [BGH, Urteil vom 24.04.2007 - XI ZR 340/05](xi-zr-340-05.md) — Tatbestand:
+- [BGH, Beschluss vom 17.04.2007 - XI ZB 39/06](xi-zb-39-06.md) — I. 1 Mit Telefaxschreiben seiner Prozessbevollmächtigten vom 14. Juli 2006 an das Oberlandesgericht hat der Kläger gegen das am 22. Juni 2006 zugestellte Urteil des Landgerichts …
+- [BGH, Urteil vom 17.04.2007 - XI ZR 130/05](xi-zr-130-05.md) — Tatbestand:
+- [BGH, Beschluss vom 17.04.2007 - XI ZR 343/05](xi-zr-343-05.md) — legen wollen, werde die nach Erlass des Berufungsurteils geänderte Rechtsprechung des Bundesgerichtshofs zu dieser Frage künftig nicht beachten (vgl.
 - [BGH, Beschluss vom 17.04.2007 - XI ZR 9/06](xi-zr-9-06.md) — BGH, Beschluss vom 17.04.2007 - XI ZR 9/06
 - [BGH, Beschluss vom 20.03.2007 - XI ZR 3/06](xi-zr-3-06.md) — Verletzung einer Aufklärungspflicht nicht zu. Von einer näheren Begründung wird gemäß § 544 Abs. 4 Satz 2 Halbs. 2 ZPO abgesehen.
 - [BGH, Urteil vom 20.03.2007 - XI ZR 362/06](xi-zr-362-06.md) — Tatbestand:
@@ -60,5 +139,21 @@
 - [BGH, Beschluss vom 13.03.2007 - XI ZR 327/05](xi-zr-327-05.md) — BGH, Beschluss vom 13.03.2007 - XI ZR 327/05
 - [BGH, Beschluss vom 13.03.2007 - XI ZR 328/05](xi-zr-328-05.md) — BGH, Beschluss vom 13.03.2007 - XI ZR 328/05
 - [BGH, Beschluss vom 13.03.2007 - XI ZR 329/05](xi-zr-329-05.md) — BGH, Beschluss vom 13.03.2007 - XI ZR 329/05
+- [BGH, Urteil vom 13.03.2007 - XI ZR 383/06](xi-zr-383-06.md) — Darlehensverbindlichkeiten der GmbH & Co. KG zustehen.
+- [BGH, Beschluss vom 05.03.2007 - XI ZR 52/06](xi-zr-52-06.md) — BGH, Beschluss vom 05.03.2007 - XI ZR 52/06
+- [BGH, Beschluss vom 27.02.2007 - XI ZB 38/05](xi-zb-38-05.md) — I. 1 Die Parteien streiten über die Ersatzfähigkeit einer Terminsgebühr. 2 Die Kläger haben für das Berufungsverfahren die Festsetzung ei- ner Terminsgebühr von 787,87 € zuzüglich …
+- [BGH, Beschluss vom 27.02.2007 - XI ZB 39/05](xi-zb-39-05.md) — I. 1 Die Parteien streiten über die Ersatzfähigkeit einer Terminsgebühr. 2 Der Kläger hat für das Berufungsverfahren die Festsetzung einer Terminsgebühr von 1.055,14 € zuzüglich …
 - [BGH, Beschluss vom 27.02.2007 - XI ZR 172/06](xi-zr-172-06.md) — und der Höhe nach in die ausschließliche Zuständigkeit mehrerer fremder Staaten fällt, zwischen diesen Staaten strittig ist und von ihnen kraft völkerrechtlichen Vertrags an …
 - [BGH, Urteil vom 27.02.2007 - XI ZR 195/05](xi-zr-195-05.md) — Tatbestand:
+- [BGH, Urteil vom 27.02.2007 - XI ZR 55/06](xi-zr-55-06.md) — Tatbestand:
+- [BGH, Urteil vom 27.02.2007 - XI ZR 56/06](xi-zr-56-06.md) — Tatbestand:
+- [BGH, Beschluss vom 27.02.2007 - XI ZR 75/06](xi-zr-75-06.md) — BGH, Beschluss vom 27.02.2007 - XI ZR 75/06
+- [BGH, Beschluss vom 26.02.2007 - XI ZR 306/05](xi-zr-306-05.md) — der Begründung nimmt der Senat Bezug auf das Schreiben
+- [BGH, Beschluss vom 15.02.2007 - XI ZR 431/04](xi-zr-431-04.md) — der Begründung nimmt der Senat Bezug auf das Schreiben
+- [BGH, Beschluss vom 13.02.2007 - XI ZB 24/06](xi-zb-24-06.md) — I. 1 Die Klägerin hat gegenüber der Beklagten einen Anspruch auf Herausgabe zweier Bürgschaftsurkunden geltend gemacht. Das Amtsge- richt hat mit Urteil vom 29. Oktober 2004 …
+- [BGH, Urteil vom 13.02.2007 - XI ZR 145/06](xi-zr-145-06.md) — Tatbestand:
+- [BGH, Beschluss vom 30.01.2007 - XI ZB 43/05](xi-zb-43-05.md) — I. 1 Die Klägerin nimmt die Beklagten auf Rückzahlung eines Darle- hens zur Finanzierung einer Immobilienfondsbeteiligung in Anspruch. Die Beklagten fordern widerklagend …
+- [BGH, Beschluss vom 30.01.2007 - XI ZB 44/05](xi-zb-44-05.md) — Verschuldens bei Vertragsschluss zustehen.
+- [BGH, Beschluss vom 30.01.2007 - XI ZB 5/06](xi-zb-5-06.md) — I. 1 Die Klägerin macht gegen die Beklagten Ansprüche aus Darlehen geltend. Das Landgericht hat die Beklagten antragsgemäß verurteilt. 2 Mit Telefaxschreiben ihrer …
+- [BGH, Beschluss vom 30.01.2007 - XI ZR 45/06](xi-zr-45-06.md) — BGH, Beschluss vom 30.01.2007 - XI ZR 45/06
+- [BGH, Urteil vom 23.01.2007 - XI ZR 44/06](xi-zr-44-06.md) — Verstoßes gegen das Rechtsberatungsgesetz nichtig sind.

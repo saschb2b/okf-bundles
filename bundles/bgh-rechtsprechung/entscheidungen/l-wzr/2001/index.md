@@ -1,7 +1,8 @@
 # L WZR – 2001
 
-6 Entscheidung(en).
+7 Entscheidung(en).
 
+- [BGH, Urteil vom 09.11.2001 - LwZR 4/01](lwzr-4-01.md) — Tatbestand:
 - [BGH, Beschluss vom 09.11.2001 - LwZR 5/01](lwzr-5-01.md) — BGH, Beschluss vom 09.11.2001 - LwZR 5/01
 - [BGH, Beschluss vom 09.11.2001 - LwZR 7/01](lwzr-7-01.md) — der Beschädigung von Gebäuden geht (dazu zuletzt Senatsurt. v. 4. Mai 2001, V ZR 435/99, vorgesehen für BGHZ 147, 320), sondern um die Verle
 - [BGH, Urteil vom 27.04.2001 - LwZR 10/00](lwzr-10-00.md) — Tatbestand:

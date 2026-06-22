@@ -1,18 +1,29 @@
 # X. Zivilsenat – 2000
 
-59 Entscheidung(en).
+96 Entscheidung(en).
 
 - [BGH, Beschluss vom 19.12.2000 - X ZB 14/00](x-zb-14-00.md) — BGH, Beschluss vom 19.12.2000 - X ZB 14/00
+- [BGH, Beschluss vom 19.12.2000 - X ZR 128/00](x-zr-128-00.md) — I. Durch Urteil vom 11. Mai 2000 hat das Bundespatentgericht das Patent 41 08 789, dessen eingetragener Inhaber die Beklagte zu 1 ist, im Umfang der Patentansprüche 1 und 4 für …
 - [BGH, Urteil vom 19.12.2000 - X ZR 128/99](x-zr-128-99.md) — Verarmung des Schenkers nach § 528 Abs. 1 Satz 1 BGB unterliegt der regelmäßigen Verjährung von 30 Jahren auch dann, wenn er durch wiederkeh
 - [BGH, Urteil vom 19.12.2000 - X ZR 146/99](x-zr-146-99.md) — BGH, Urteil vom 19.12.2000 - X ZR 146/99
 - [BGH, Urteil vom 19.12.2000 - X ZR 150/98](x-zr-150-98.md) — Patentverletzung können verwirkt sein, wenn sich der Verletzer wegen der Duldung der Verletzungshandlungen durch den Patentinhaber über eine
+- [BGH, Beschluss vom 12.12.2000 - X ZB 17/00](x-zb-17-00.md) — Fehlverhaltens von Mitarbeitern der Prozeßbevollmächtigten der Klägerin versäumt worden sei.
+- [BGH, Beschluss vom 12.12.2000 - X ZR 119/99](x-zr-119-99.md) — I. Das Bundespatentgericht hat durch Urteil vom 4. Mai 1999 der Nichtigkeitsklage der Klägerin stattgegeben. Hiergegen hat der beklagte Patentinhaber durch beim Bundesgerichtshof …
+- [BGH, Urteil vom 12.12.2000 - X ZR 121/97](x-zr-121-97.md) — Tatbestand:
 - [BGH, Beschluss vom 28.11.2000 - X ZB 20/99](x-zb-20-99.md) — BGH, Beschluss vom 28.11.2000 - X ZB 20/99
 - [BGH, Urteil vom 28.11.2000 - X ZR 104/98](x-zr-104-98.md) — Tatbestand:
 - [BGH, Urteil vom 28.11.2000 - X ZR 194/97](x-zr-194-97.md) — Tatbestand:
 - [BGH, Beschluss vom 28.11.2000 - X ZR 237/98](x-zr-237-98.md) — I. Die Patentanwälte K. und W. haben - ohne Nennung des Auftraggebers - Einsicht in die Akten des Schutzzertifikats-Nichtigkeitsverfahrens X ZR 237/98 begehrt, die nach Einlegung …
+- [BGH, Urteil vom 14.11.2000 - X ZR 137/99](x-zr-137-99.md) — Tatbestand:
+- [BGH, Urteil vom 14.11.2000 - X ZR 203/98](x-zr-203-98.md) — BGH, Urteil vom 14.11.2000 - X ZR 203/98
+- [BGH, Urteil vom 14.11.2000 - X ZR 211/98](x-zr-211-98.md) — Tatbestand:
+- [BGH, Urteil vom 14.11.2000 - X ZR 233/99](x-zr-233-99.md) — Tatbestand:
+- [BGH, Urteil vom 07.11.2000 - X ZR 144/98](x-zr-144-98.md) — Tatbestand:
+- [BGH, Urteil vom 07.11.2000 - X ZR 145/98](x-zr-145-98.md) — Berichtigt durch Beschluß vom 9. Januar 2001 Wermes Justizhauptsekretär als Urkundsbeamter der Geschäftsstelle
 - [BGH, Beschluss vom 06.11.2000 - X ZB 15/00](x-zb-15-00.md) — zu prüfen; mangelt es hieran, so ist die Rechtsbeschwerde als unzulässig zu verwerfen.
 - [BGH, Beschluss vom 24.10.2000 - X ZB 6/00](x-zb-6-00.md) — BGH, Beschluss vom 24.10.2000 - X ZB 6/00
 - [BGH, Urteil vom 24.10.2000 - X ZR 15/98](x-zr-15-98.md) — Nichterfüllung zu verlangen oder vom Vertrag zurückzutreten.
+- [BGH, Urteil vom 24.10.2000 - X ZR 42/99](x-zr-42-99.md) — 3-
 - [BGH, Versäumnisurteil vom 24.10.2000 - X ZR 72/98](x-zr-72-98.md) — Tatbestand: Der Kläger war bis zum 31. Dezember 1992 bei der Beklagten beschäftigt. Zuletzt bekleidete er dort die Funktion eines Leiters de
 - [BGH, Beschluss vom 17.10.2000 - X ZB 25/99](x-zb-25-99.md) — der Fristversäumung haben die Beklagten Wiedereinset-
 - [BGH, Urteil vom 17.10.2000 - X ZR 169/99](x-zr-169-99.md) — Tatbestand:
@@ -20,7 +31,19 @@
 - [BGH, Beschluss vom 17.10.2000 - X ZR 4/00](x-zr-4-00.md) — I. Die Patentanwälte R. , B. und Partner haben - ohne Nennung des Auftraggebers - Einsicht in die Akten des Nichtigkeitsverfahrens X ZR 4/00 begehrt, die sich nach Einlegung der …
 - [BGH, Beschluss vom 17.10.2000 - X ZR 41/00](x-zr-41-00.md) — I. Die Beklagte ist eingetragene Inhaberin des mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 0 327 549 (Streitpatents), das eine "Kreiselpumpe für …
 - [BGH, Urteil vom 17.10.2000 - X ZR 97/99](x-zr-97-99.md) — Tatbestand:
+- [BGH, Urteil vom 10.10.2000 - X ZR 176/98](x-zr-176-98.md) — Tatbestand:
+- [BGH, Urteil vom 10.10.2000 - X ZR 64/98](x-zr-64-98.md) — Tatbestand:
+- [BGH, Beschluss vom 05.10.2000 - X ZB 13/00](x-zb-13-00.md) — der Versäumung der Einspruchsfrist Wiedereinsetzung zu gewähren. Sowohl von der zugrundeliegenden Klage als auch von dem ergangenen Versäumn
+- [BGH, Beschluss vom 05.10.2000 - X ZR 184/98](x-zr-184-98.md) — I. Der Beklagte war eingetragener Inhaber des deutschen Patents 30 15 312 (Streitpatents), das auf einer am 22. Oktober 1981 offengelegten Anmeldung vom 21. April 1980 beruht und …
+- [BGH, Urteil vom 05.10.2000 - X ZR 57/98](x-zr-57-98.md) — Tatbestand:
+- [BGH, Beschluss vom 26.09.2000 - X ZB 23/99](x-zb-23-99.md) — Löschung des Gebrauchsmusters 93 20 393
+- [BGH, Urteil vom 26.09.2000 - X ZR 94/98](x-zr-94-98.md) — Tatbestand:
+- [BGH, Beschluss vom 12.09.2000 - X ZB 16/99](x-zb-16-99.md) — I. Die Rechtsbeschwerdegegnerin ist eingetragene Inhaberin des auf einer Anmeldung vom 15. Oktober 1991 beruhenden deutschen Patents 41 34 028, das 30 Patentansprüche umfaßt und …
+- [BGH, Urteil vom 12.09.2000 - X ZR 110/98](x-zr-110-98.md) — BGH, Urteil vom 12.09.2000 - X ZR 110/98
 - [BGH, Beschluss vom 12.09.2000 - X ZR 89/00](x-zr-89-00.md) — I. Die Klägerin verlangt Zug um Zug gegen Zahlung von 21.000,-- DM die Rückübertragung eines hälftigen Miteigentumsanteils an einem Hausgrundstück. Das Hausgrundstück übertrug die …
+- [BGH, Beschluss vom 03.08.2000 - X ZR 33/97](x-zr-33-97.md) — Besorgnis der Befangenheit abzulehnen, wird zurückgewiesen.
+- [BGH, Beschluss vom 18.07.2000 - X ZB 1/00](x-zb-1-00.md) — I. Die Rechtsbeschwerdeführerin ist Inhaberin des aus einer am 31. März 1993 erklärten Teilung des deutschen Patents 31 31 216 im Einspruchsbeschwerdeverfahren 17 W (pat) 11/91 …
+- [BGH, Urteil vom 18.07.2000 - X ZR 62/98](x-zr-62-98.md) — Tatbestand:
 - [BGH, Beschluss vom 11.07.2000 - X ZB 9/99](x-zb-9-99.md) — I. Die Rechtsbeschwerdeführerin ist Inhaberin des deutschen Patents 43 18 277. Patentanspruch 1 lautet: "Verwendung von Zackenschnittmessern zum Längs-Schneiden von doppelseitig …
 - [BGH, Urteil vom 11.07.2000 - X ZR 126/98](x-zr-126-98.md) — Tatbestand: Der Kläger nimmt den Beklagten aus übergegangenem Recht auf Rückzahlung eines Betrags von 68.903,60 DM in Anspruch, den der Bekl
 - [BGH, Urteil vom 11.07.2000 - X ZR 78/98](x-zr-78-98.md) — Tatbestand:
@@ -28,11 +51,22 @@
 - [BGH, Beschluss vom 28.06.2000 - X ZB 8/00](x-zb-8-00.md) — I. Der Kläger hat klageweise Zahlung von 717,-- DM und Feststellung begehrt, daß die Beklagte verpflichtet sei, ihm weitere Schäden zu ersetzen, und dieses Begehren im …
 - [BGH, Urteil vom 28.06.2000 - X ZR 128/98](x-zr-128-98.md) — Tatbestand:
 - [BGH, Beschluss vom 28.06.2000 - X ZR 32/00](x-zr-32-00.md) — I. Der Kläger verlangt von der Beklagten, die Werbung für von ihm entwickelte spezielle Kuttermesser und Messerköpfe sowie deren Herstellung und deren Vertrieb zu unterlassen …
+- [BGH, Beschluss vom 20.06.2000 - X ZB 11/00](x-zb-11-00.md) — der geltend gemachten Forderungen antragsgemäß Vollstreckungsbescheid, der am 21. Juli 1999 ebenfalls durch Niederlegung unter der angegeben
+- [BGH, Beschluss vom 20.06.2000 - X ZB 5/99](x-zb-5-99.md) — I. Die Rechtsbeschwerdeführerin ist eingetragene Inhaberin des deutschen Patents 37 19 728 (Streitpatents), das auf einer unter Inanspruchnahme einer Unionspriorität vom 22. Mai …
+- [BGH, Beschluss vom 20.06.2000 - X ZR 113/99](x-zr-113-99.md) — Patentverletzung klageweise in Anspruch genommen und von Landgericht und Oberlandesgericht verurteilt worden. Auf die Revision beider Beklag
 - [BGH, Urteil vom 20.06.2000 - X ZR 119/98](x-zr-119-98.md) — Tatbestand:
 - [BGH, Urteil vom 20.06.2000 - X ZR 17/98](x-zr-17-98.md) — Tatbestand:
+- [BGH, Beschluss vom 20.06.2000 - X ZR 88/00](x-zr-88-00.md) — I. Die Klägerin ist Inhaberin des unter anderem für die Bundesrepublik Deutschland erteilten europäischen Patents ..., das auf eine Anmeldung vom 8. Oktober 1983, für die unter …
+- [BGH, Beschluss vom 06.06.2000 - X ZB 9/00](x-zb-9-00.md) — I. Mit seinem am 7. Januar 2000 zugestellten Urteil vom 8. November 1999 hat das Landgericht Berlin den Beklagten zur Zahlung von 24.645,-- DM Stornokosten für eine Schiffsreise …
+- [BGH, Urteil vom 06.06.2000 - X ZR 48/98](x-zr-48-98.md) — Tatbestand:
 - [BGH, Beschluss vom 31.05.2000 - X ZR 154/99](x-zr-154-99.md) — BGH, Beschluss vom 31.05.2000 - X ZR 154/99
+- [BGH, Urteil vom 30.05.2000 - X ZR 92/98](x-zr-92-98.md) — 3-
 - [BGH, Urteil vom 16.05.2000 - X ZR 109/97](x-zr-109-97.md) — Tatbestand: Der Kläger hat den Beklagten, der Inhaber eines Fahrzeugreparaturbetriebs ist, auf Schadensersatz wegen Nichterfüllung eines von
 - [BGH, Beschluss vom 16.05.2000 - X ZR 91/98](x-zr-91-98.md) — Der Senat hat das vorliegende Nichtigkeitsverfahren aus prozeßwirtschaftlichen Gründen bis zur erstinstanzlichen Erledigung des beim Bundespatentgericht gegen das Streitpatent …
+- [BGH, Beschluss vom 11.05.2000 - X ZB 15/98](x-zb-15-98.md) — I. Die Anmelderin hat am 17. Mai 1990 unter Inanspruchnahme der Priorität einer Voranmeldung in Japan beim Deutschen Patentamt unter der Bezeichnung "Dialog-Analyseeinrichtung für …
+- [BGH, Beschluss vom 11.05.2000 - X ZB 26/98](x-zb-26-98.md) — I. Die Antragsgegnerin hat am 8. Dezember 1995 ein Gebrauchsmuster unter der Bezeichnung "Vorrichtung zur Herstellung von Formkörpern durch Teilsinterung" mit ursprünglich 41 …
+- [BGH, Beschluss vom 09.05.2000 - X ZB 24/99](x-zb-24-99.md) — ungewöhnlich starker Arbeitsbelastung an diesem Tag und weil die bereitliegende Akte versehentlich durch andere Akten verdeckt worden sei, s
+- [BGH, Urteil vom 09.05.2000 - X ZR 45/98](x-zr-45-98.md) — Tatbestand: Die Beklagte ist eingetragene Inhaberin des am 21. Dezember 1990 unter Inanspruchnahme der Prioritäten des deutschen Gebrauchsmu
 - [BGH, Urteil vom 03.05.2000 - X ZR 179/97](x-zr-179-97.md) — Tatbestand:
 - [BGH, Urteil vom 03.05.2000 - X ZR 49/98](x-zr-49-98.md) — Tatbestand:
 - [BGH, Urteil vom 03.05.2000 - X ZR 5/99](x-zr-5-99.md) — Tatbestand:
@@ -40,11 +74,14 @@
 - [BGH, Urteil vom 11.04.2000 - X ZR 19/98](x-zr-19-98.md) — BGH, Urteil vom 11.04.2000 - X ZR 19/98
 - [BGH, Urteil vom 11.04.2000 - X ZR 246/98](x-zr-246-98.md) — Tatbestand:
 - [BGH, Urteil vom 11.04.2000 - X ZR 32/98](x-zr-32-98.md) — Tatbestand: Die H. T. GmbH (im folgenden: das H.) stand mit der Beklagten in langjährigen Geschäftsbeziehungen, in deren Rahmen die Beklagte
+- [BGH, Beschluss vom 28.03.2000 - X ZB 36/98](x-zb-36-98.md) — I. Auf die Anmeldung vom 13. Oktober 1994 ist der Rechtsbeschwerdeführerin mit Beschluß des Deutschen Patentamts vom 5. November 1997 antragsgemäß ein Patent für ein …
+- [BGH, Urteil vom 23.03.2000 - X ZR 177/97](x-zr-177-97.md) — Tatbestand:
 - [BGH, Urteil vom 23.03.2000 - X ZR 22/98](x-zr-22-98.md) — BGH, Urteil vom 23.03.2000 - X ZR 22/98
 - [BGH, Urteil vom 14.03.2000 - X ZR 115/98](x-zr-115-98.md) — BGH, Urteil vom 14.03.2000 - X ZR 115/98
 - [BGH, Urteil vom 14.03.2000 - X ZR 199/97](x-zr-199-97.md) — Tatbestand:
 - [BGH, Urteil vom 14.03.2000 - X ZR 31/98](x-zr-31-98.md) — Tatbestand:
 - [BGH, Urteil vom 29.02.2000 - X ZR 166/97](x-zr-166-97.md) — Tatbestand:
+- [BGH, Urteil vom 22.02.2000 - X ZR 111/98](x-zr-111-98.md) — 3-
 - [BGH, Beschluss vom 15.02.2000 - X ZB 13/95](x-zb-13-95.md) — BGH, Beschluss vom 15.02.2000 - X ZB 13/95
 - [BGH, Beschluss vom 15.02.2000 - X ZR 127/99](x-zr-127-99.md) — des Zahlungsanspruchs an die Vorinstanz zurückverweist.
 - [BGH, Urteil vom 15.02.2000 - X ZR 155/97](x-zr-155-97.md) — BGH, Urteil vom 15.02.2000 - X ZR 155/97

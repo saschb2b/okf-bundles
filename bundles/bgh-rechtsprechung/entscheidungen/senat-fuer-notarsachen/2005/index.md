@@ -1,18 +1,42 @@
 # Senat für Notarsachen – 2005
 
-14 Entscheidung(en).
+38 Entscheidung(en).
 
 - [BGH, Beschluss vom 29.11.2005 - NotZ 24/05](notz-24-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 15/05](notz-15-05.md) — Rückerstattung von Abgaben
 - [BGH, Beschluss vom 28.11.2005 - NotZ 16/05](notz-16-05.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 28.11.2005 - NotZ 17/05](notz-17-05.md) — Feststellung der Voraussetzungen für die Amtsenthebung und wegen vorläufiger Amtsenthebung
 - [BGH, Beschluss vom 28.11.2005 - NotZ 18/05](notz-18-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 19/05](notz-19-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 20/05](notz-20-05.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 28.11.2005 - NotZ 22/05](notz-22-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 23/05](notz-23-05.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 28.11.2005 - NotZ 25/05](notz-25-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 26/05](notz-26-05.md) — Bestellung zur Notarin
 - [BGH, Beschluss vom 28.11.2005 - NotZ 27/05](notz-27-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 28/05](notz-28-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 29/05](notz-29-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 30/05](notz-30-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 31/05](notz-31-05.md) — Bestellung zur Notarin
+- [BGH, Beschluss vom 28.11.2005 - NotZ 32/05](notz-32-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.11.2005 - NotZ 34/05](notz-34-05.md) — Bestellung zur Notarin
+- [BGH, Beschluss vom 28.11.2005 - NotZ 36/05](notz-36-05.md) — Festlegung des Amtsbereichs nach § 10a Abs. 1 Satz 2 BNotO
+- [BGH, Beschluss vom 28.11.2005 - NotZ 38/05](notz-38-05.md) — Feststellung der Voraussetzungen für die Amtsenthebung
+- [BGH, Beschluss vom 28.11.2005 - NotZ 43/05](notz-43-05.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 05.10.2005 - NotZ 13/05](notz-13-05.md) — Rückerstattung von Abgaben
+- [BGH, Beschluss vom 01.08.2005 - NotZ 11/05](notz-11-05.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 11.07.2005 - NotZ 1/05](notz-1-05.md) — Wiederbesetzung einer Notarstelle
 - [BGH, Beschluss vom 11.07.2005 - NotZ 10/05](notz-10-05.md) — Amtsenthebung
 - [BGH, Beschluss vom 11.07.2005 - NotZ 12/05](notz-12-05.md) — Abgaben
 - [BGH, Beschluss vom 11.07.2005 - NotZ 14/05](notz-14-05.md) — Abgaben
+- [BGH, Beschluss vom 11.07.2005 - NotZ 29/04](notz-29-04.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 11.07.2005 - NotZ 5/05](notz-5-05.md) — Verbindung zur gemeinsamen Berufsausübung
 - [BGH, Beschluss vom 11.07.2005 - NotZ 6/05](notz-6-05.md) — Amtsenthebung
 - [BGH, Beschluss vom 11.07.2005 - NotZ 8/05](notz-8-05.md) — Überwachung der Amtsführung
+- [BGH, Beschluss vom 11.07.2005 - NotZ 9/05](notz-9-05.md) — Genehmigung einer Nebentätigkeit
+- [BGH, Beschluss vom 14.03.2005 - NotZ 2/05](notz-2-05.md) — Abgaben
+- [BGH, Beschluss vom 14.03.2005 - NotZ 26/04](notz-26-04.md) — Tauschs von Notarstellen
+- [BGH, Beschluss vom 14.03.2005 - NotZ 27/04](notz-27-04.md) — Übertragung einer Notarstelle
+- [BGH, Beschluss vom 14.03.2005 - NotZ 3/05](notz-3-05.md) — Rückvergütung von Abgaben
+- [BGH, Beschluss vom 14.03.2005 - NotZ 30/04](notz-30-04.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.03.2005 - NotZ 4/05](notz-4-05.md) — Rückvergütung von Abgaben

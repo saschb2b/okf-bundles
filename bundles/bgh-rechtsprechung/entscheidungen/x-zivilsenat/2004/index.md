@@ -1,48 +1,80 @@
 # X. Zivilsenat – 2004
 
-57 Entscheidung(en).
+107 Entscheidung(en).
 
 - [BGH, Urteil vom 14.12.2004 - X ZR 3/03](x-zr-3-03.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2004 - X ZR 12/03](x-zr-12-03.md) — Tatbestand:
 - [BGH, Urteil vom 30.11.2004 - X ZR 109/02](x-zr-109-02.md) — 3-
 - [BGH, Urteil vom 30.11.2004 - X ZR 133/03](x-zr-133-03.md) — unangemessener Benachteiligung der Kunden nach § 9 Abs. 1 AGBG (jetzt § 307 Abs. 1 BGB) unwirksam:
 - [BGH, Urteil vom 30.11.2004 - X ZR 166/03](x-zr-166-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.11.2004 - X ZR 43/03](x-zr-43-03.md) — Tatbestand:
 - [BGH, Urteil vom 16.11.2004 - X ZR 124/00](x-zr-124-00.md) — Tatbestand:
 - [BGH, Beschluss vom 09.11.2004 - X ZA 5/04](x-za-5-04.md) — der Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorherigen Stand beantragt und geltend gemacht, die verspätete Übermitt
+- [BGH, Urteil vom 09.11.2004 - X ZR 101/03](x-zr-101-03.md) — Tatbestand:
 - [BGH, Urteil vom 09.11.2004 - X ZR 119/01](x-zr-119-01.md) — Tatbestand: Die Kläger verlangen von der Beklagten Schadensersatz wegen eines Reitunfalls auf einer Urlaubsreise.
+- [BGH, Urteil vom 09.11.2004 - X ZR 4/02](x-zr-4-02.md) — 3-
+- [BGH, Beschluss vom 09.11.2004 - X ZR 65/03](x-zr-65-03.md) — Besorgnis der Be-
 - [BGH, Beschluss vom 09.11.2004 - X ZR 89/03](x-zr-89-03.md) — BGH, Beschluss vom 09.11.2004 - X ZR 89/03
 - [BGH, Urteil vom 04.11.2004 - X ZR 252/01](x-zr-252-01.md) — Tatbestand:
 - [BGH, Beschluss vom 19.10.2004 - X ZB 33/03](x-zb-33-03.md) — BGH, Beschluss vom 19.10.2004 - X ZB 33/03
+- [BGH, Beschluss vom 19.10.2004 - X ZB 34/03](x-zb-34-03.md) — I. Die Rechtsbeschwerdeführerin hat am 25. Juli 2001 ein Verfahren zur Ermittlung der Rentabilität eines medizintechnischen Geräts zum Patent angemeldet. Die Prüfungsstelle hat …
 - [BGH, Urteil vom 19.10.2004 - X ZR 142/03](x-zr-142-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.10.2004 - X ZR 2/03](x-zr-2-03.md) — Verarmung des Schenkers und der Überleitung dieses Anspruchs auf den Träger der Sozialhilfe im Hinblick auf die von diesem dem Schenker gele
+- [BGH, Versäumnisurteil vom 19.10.2004 - X ZR 98/03](x-zr-98-03.md) — Tatbestand:
 - [BGH, Beschluss vom 12.10.2004 - X ZR 176/02](x-zr-176-02.md) — Patentverletzung auf Unterlassung und Rechnungslegung in Anspruch genommen und Feststellung begehrt, daß die Beklagte zu 1 bzw. die Beklagte
+- [BGH, Urteil vom 12.10.2004 - X ZR 190/00](x-zr-190-00.md) — BGH, Urteil vom 12.10.2004 - X ZR 190/00
 - [BGH, Urteil vom 12.10.2004 - X ZR 49/01](x-zr-49-01.md) — Tatbestand:
-- [BGH, Beschluss vom 11.10.2004 - X ZR 156/03](x-zr-156-03.md) — BGH, Beschluss vom 11.10.2004 - X ZR 156/03
+- [BGH, Beschluss vom 12.10.2004 - X ZR 86/03](x-zr-86-03.md) — Die Rechtsfrage, ob es sich um eine Allgemeine Geschäftsbedingung handelt, wenn eine vorformulierte Einzelklausel in einen ansonsten ausgehandelten Vertrag eingebaut wird, ist …
+- [BGH, Beschluss vom 11.10.2004 - X ZB 2/04](x-zb-2-04.md) — . Die Einsprechende und Rechtsbeschwerdeführerin hat am 21. November 2002 gegen das am 29. August 2002 veröffentlichte Patent 198 56 649 Einspruch eingelegt. Die Einspruchsgebühr …
+- [BGH, Beschluss vom 11.10.2004 - X ZB 3/03](x-zb-3-03.md) — I. Die Klägerin nimmt den Beklagten auf Zahlung von Werklohn in Höhe von 9.280 DM (4.744,79 €) in Anspruch. Das Amtsgericht hat der Klage stattgegeben. Gegen dieses Urteil hat der …
 - [BGH, Beschluss vom 11.10.2004 - X ZR 157/03](x-zr-157-03.md) — I. Beim Bundesgerichtshof sind vier Verfahren anhängig, bei denen es jeweils um die Angemessenheit der für den Nachbau sortenschutzrechtlich ge-
-- [BGH, Beschluss vom 11.10.2004 - X ZR 158/03](x-zr-158-03.md) — BGH, Beschluss vom 11.10.2004 - X ZR 158/03
+- [BGH, Urteil vom 05.10.2004 - X ZR 221/02](x-zr-221-02.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 05.10.2004 - X ZR 25/02](x-zr-25-02.md) — Tatbestand:
 - [BGH, Beschluss vom 05.10.2004 - X ZR 77/02](x-zr-77-02.md) — BGH, Beschluss vom 05.10.2004 - X ZR 77/02
+- [BGH, Urteil vom 21.09.2004 - X ZR 244/01](x-zr-244-01.md) — Tatbestand:
+- [BGH, Urteil vom 21.09.2004 - X ZR 46/01](x-zr-46-01.md) — Tatbestand:
 - [BGH, Beschluss vom 14.09.2004 - X ZB 25/02](x-zb-25-02.md) — I. Die Antragsgegnerin und Rechtsbeschwerdeführerin zu 1 ist Inhaberin des deutschen Gebrauchsmusters 297 10 175 (Streitgebrauchsmuster), für das die Prioritäten der belgischen …
 - [BGH, Urteil vom 14.09.2004 - X ZR 149/01](x-zr-149-01.md) — Tatbestand:
 - [BGH, Beschluss vom 08.09.2004 - X ZR 68/99](x-zr-68-99.md) — . Die Beklagte ist Inhaberin des auch mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 0 555 460 (Streitpatents), das eine kosmetische …
-- [BGH, Urteil vom 07.09.2004 - X ZR 186/00](x-zr-186-00.md) — BGH, Urteil vom 07.09.2004 - X ZR 186/00
+- [BGH, Urteil vom 07.09.2004 - X ZR 25/03](x-zr-25-03.md) — Tatbestand:
 - [BGH, Urteil vom 07.09.2004 - X ZR 255/01](x-zr-255-01.md) — Tatbestand:
+- [BGH, Beschluss vom 27.07.2004 - X ZB 14/04](x-zb-14-04.md) — BGH, Beschluss vom 27.07.2004 - X ZB 14/04
+- [BGH, Beschluss vom 27.07.2004 - X ZB 45/03](x-zb-45-03.md) — I. Nachdem gegen die Klägerin im ersten Rechtszug Versäumnisurteil ergangen war und sie hiergegen Einspruch eingelegt hatte, im Termin zur mündlichen Verhandlung über den …
+- [BGH, Beschluss vom 27.07.2004 - X ZR 161/03](x-zr-161-03.md) — BGH, Beschluss vom 27.07.2004 - X ZR 161/03
+- [BGH, Beschluss vom 13.07.2004 - X ZB 40/03](x-zb-40-03.md) — der Einschaltung des Unterbevollmächtigten in Höhe von 706,-- € abgesetzt.
 - [BGH, Urteil vom 13.07.2004 - X ZR 171/00](x-zr-171-00.md) — 3-
+- [BGH, Versäumnisurteil vom 13.07.2004 - X ZR 204/02](x-zr-204-02.md) — Tatbestand:
+- [BGH, Beschluss vom 06.07.2004 - X ZA 1/04](x-za-1-04.md) — Ablaufs der nach § 575 Abs. 1 ZPO einzuhaltenden Notfrist verspätet, und einem etwaigen Antrag des Beklagten gemäß § 233 ZPO auf Wiedereinse
 - [BGH, Beschluss vom 06.07.2004 - X ZA 4/04](x-za-4-04.md) — BGH, Beschluss vom 06.07.2004 - X ZA 4/04
 - [BGH, Urteil vom 06.07.2004 - X ZR 171/02](x-zr-171-02.md) — Tatbestand:
 - [BGH, Beschluss vom 29.06.2004 - X ZB 11/04](x-zb-11-04.md) — BGH, Beschluss vom 29.06.2004 - X ZB 11/04
+- [BGH, Beschluss vom 29.06.2004 - X ZB 5/03](x-zb-5-03.md) — I. Die Anmelderin ist Inhaberin des in englischer Sprache mit Wirkung für das Hoheitsgebiet der Bundesrepublik Deutschland erteilten europäischen Patents 0 260 415 (Grundpatent) …
 - [BGH, Urteil vom 29.06.2004 - X ZR 1/01](x-zr-1-01.md) — BGH, Urteil vom 29.06.2004 - X ZR 1/01
+- [BGH, Urteil vom 29.06.2004 - X ZR 203/01](x-zr-203-01.md) — 3-
+- [BGH, Beschluss vom 22.06.2004 - X ZB 13/04](x-zb-13-04.md) — Durch den angefochtenen Beschluß hat das Landgericht die Berufung des Beklagten gegen ein Urteil des Amtsgerichts Borken mit der Begründung verworfen, daß sie nicht durch einen …
 - [BGH, Beschluss vom 22.06.2004 - X ZB 40/02](x-zb-40-02.md) — BGH, Beschluss vom 22.06.2004 - X ZB 40/02
-- [BGH, Beschluss vom 22.06.2004 - X ZR 213/01](x-zr-213-01.md) — BGH, Beschluss vom 22.06.2004 - X ZR 213/01
+- [BGH, Urteil vom 22.06.2004 - X ZR 136/00](x-zr-136-00.md) — Tatbestand:
+- [BGH, Urteil vom 22.06.2004 - X ZR 171/03](x-zr-171-03.md) — Tatbestand:
+- [BGH, Urteil vom 08.06.2004 - X ZR 173/01](x-zr-173-01.md) — einer Gegenforderung beruft, die erst infolge seiner Herausgabeverweigerung durch Aufwendungen auf die Sache entstanden ist.
+- [BGH, Urteil vom 08.06.2004 - X ZR 211/02](x-zr-211-02.md) — Tatbestand:
 - [BGH, Urteil vom 08.06.2004 - X ZR 283/02](x-zr-283-02.md) — Prüfung des Werbeprospekts als sogenannter Garant aus Prospekthaftung Schadensersatz schuldet, kann auch aus Vertrag mit Schutzwirkung zugun
 - [BGH, Urteil vom 08.06.2004 - X ZR 284/02](x-zr-284-02.md) — Tatbestand:
+- [BGH, Urteil vom 08.06.2004 - X ZR 7/02](x-zr-7-02.md) — Tatbestand:
+- [BGH, Urteil vom 03.06.2004 - X ZR 104/03](x-zr-104-03.md) — 3-
+- [BGH, Urteil vom 03.06.2004 - X ZR 28/03](x-zr-28-03.md) — unwirksam.
 - [BGH, Urteil vom 03.06.2004 - X ZR 30/03](x-zr-30-03.md) — Das klagende Unternehmen verlangt von der beklagten Stadt Ersatz entgangenen Gewinns, weil sie nicht den Zuschlag für die landwirtschaftliche Verwertung von Klärschlamm erhalten …
 - [BGH, Urteil vom 03.06.2004 - X ZR 82/03](x-zr-82-03.md) — 3-
 - [BGH, Urteil vom 25.05.2004 - X ZR 258/01](x-zr-258-01.md) — Tatbestand:
+- [BGH, Beschluss vom 24.05.2004 - X ZB 20/03](x-zb-20-03.md) — liegt, so daß bei der Prüfung auf erfinderische Tätigkeit eine Aussage darüber möglich ist, ob eine Bereicherung der Technik vorliegt, die einen Patentschutz rechtfertigt.
+- [BGH, Beschluss vom 18.05.2004 - X ZB 10/04](x-zb-10-04.md) — . Das Berufungsgericht hat die Berufung des Klägers gegen das Urteil des Landgerichts Zwickau vom 4. November 2003 gemäß § 522 Abs. 2 ZPO durch einstimmigen Beschluß vom 2 …
+- [BGH, Beschluss vom 18.05.2004 - X ZB 7/04](x-zb-7-04.md) — I. Das Land Berlin hat im Rahmen der Bundesauftragsverwaltung die Lose 4 A und 4 B für den Bau des Autobahnzubringers Dresden BAB A 113 (neu) im offenen Verfahren ausgeschrieben …
 - [BGH, Urteil vom 18.05.2004 - X ZR 60/03](x-zr-60-03.md) — Tatbestand: Die Klägerin verlangt von der beklagten Kfz-Vertragshändlerin Schadensersatz für die Folgekosten eines Motorschadens, der durch
-- [BGH, Beschluss vom 04.05.2004 - X ZR 189/03](x-zr-189-03.md) — BGH, Beschluss vom 04.05.2004 - X ZR 189/03
+- [BGH, Versäumnisurteil vom 04.05.2004 - X ZR 162/02](x-zr-162-02.md) — Tatbestand:
+- [BGH, Beschluss vom 04.05.2004 - X ZR 231/02](x-zr-231-02.md) — Dem Akteneinsichtsantrag ist stattzugeben.
 - [BGH, Urteil vom 04.05.2004 - X ZR 234/02](x-zr-234-02.md) — solcher Handlungen in Anspruch genommen werden, die er über den Schluß der mündlichen Verhandlung hinaus in Fortführung der bereits begangen
 - [BGH, Urteil vom 04.05.2004 - X ZR 48/03](x-zr-48-03.md) — Tatbestand:
-- [BGH, Beschluss vom 03.05.2004 - X ZA 6/03](x-za-6-03.md) — BGH, Beschluss vom 03.05.2004 - X ZA 6/03
 - [BGH, Beschluss vom 20.04.2004 - X ZB 39/03](x-zb-39-03.md) — Verneinung der Unrichtigkeit ablehnenden Beschlusses ist nicht statthaft, wenn auf das Beschwerdeverfahren die Zivilprozeßordnung in der sei
+- [BGH, Urteil vom 20.04.2004 - X ZR 141/01](x-zr-141-01.md) — Tatbestand:
 - [BGH, Urteil vom 20.04.2004 - X ZR 250/02](x-zr-250-02.md) — 3Tatbestand:
 - [BGH, Urteil vom 20.04.2004 - X ZR 251/02](x-zr-251-02.md) — 3Tatbestand:
 - [BGH, Urteil vom 20.04.2004 - X ZR 252/02](x-zr-252-02.md) — 3Tatbestand:
@@ -53,9 +85,27 @@
 - [BGH, Urteil vom 20.04.2004 - X ZR 257/02](x-zr-257-02.md) — 3Tatbestand:
 - [BGH, Urteil vom 20.04.2004 - X ZR 259/02](x-zr-259-02.md) — 3Tatbestand:
 - [BGH, Urteil vom 06.04.2004 - X ZR 132/02](x-zr-132-02.md) — Mängeln des Werks zur Geltendmachung eines Aufwendungsersatzanspruchs).
+- [BGH, Urteil vom 06.04.2004 - X ZR 155/00](x-zr-155-00.md) — des Wortlauts der unmittelbar oder mittelbar auf Patentanspruch 1 rückbezogenen Patentansprüche 2 bis 4 wird auf die Streitpatentschrift ver
 - [BGH, Urteil vom 06.04.2004 - X ZR 243/00](x-zr-243-00.md) — Tatbestand:
+- [BGH, Beschluss vom 06.04.2004 - X ZR 272/02](x-zr-272-02.md) — I. Die Klägerin ist eingetragene Inhaberin des europäischen Patents 0 602 312 (Klagepatents), das auf einer Anmeldung vom 8. Dezember 1992 beruht, mit der eine deutsche Priorität …
+- [BGH, Urteil vom 30.03.2004 - X ZR 127/01](x-zr-127-01.md) — Tatbestand:
+- [BGH, Urteil vom 16.03.2004 - X ZR 185/00](x-zr-185-00.md) — Tatbestand:
 - [BGH, Beschluss vom 16.03.2004 - X ZR 23/03](x-zr-23-03.md) — BGH, Beschluss vom 16.03.2004 - X ZR 23/03
+- [BGH, Beschluss vom 09.03.2004 - X ZR 178/01](x-zr-178-01.md) — I. Die Beklagte war eingetragene Inhaberin des am 6. Juni 1989 angemeldeten deutschen Patents 30 18 311 (Streitpatents). Patentanspruch 1 lautet in der Fassung, die er im …
+- [BGH, Urteil vom 09.03.2004 - X ZR 67/01](x-zr-67-01.md) — 3-
 - [BGH, Urteil vom 02.03.2004 - X ZR 112/00](x-zr-112-00.md) — Tatbestand: Die Beklagte ist Inhaberin der beiden am 16. April 1987 unter Inanspruchnahme der Priorität der britischen Patentanmeldung vom 3
+- [BGH, Beschluss vom 17.02.2004 - X ZB 9/03](x-zb-9-03.md) — Die Anmelderin stellte am 4. Mai 2000 Antrag auf Eintragung des Gebrauchsmusters 200 08 040.7 mit der Bezeichnung "Systeme, Computerprogramm-Produkte und Tarifierungssysteme zur …
+- [BGH, Urteil vom 17.02.2004 - X ZR 108/02](x-zr-108-02.md) — Tatbestand:
 - [BGH, Urteil vom 17.02.2004 - X ZR 48/00](x-zr-48-00.md) — Tatbestand:
+- [BGH, Urteil vom 10.02.2004 - X ZR 117/02](x-zr-117-02.md) — Tatbestand:
+- [BGH, Urteil vom 10.02.2004 - X ZR 55/00](x-zr-55-00.md) — Tatbestand:
+- [BGH, Urteil vom 10.02.2004 - X ZR 59/01](x-zr-59-01.md) — des entgangenen Pachtzinses in Höhe von
+- [BGH, Beschluss vom 09.02.2004 - X ZB 44/03](x-zb-44-03.md) — I. Im Rahmen der Ausschreibung für einen Neubau der Brandenburgischen Technischen Universität Cottbus schrieb der Antragsgegner durch das Landesbauamt Cottbus im September 2002 …
+- [BGH, Beschluss vom 20.01.2004 - X ZA 5/03](x-za-5-03.md) — Mit Schreiben vom 12. August 2003 hat die Antragstellerin um Bewilligung der Prozeßkostenhilfe und Beiordnung eines Rechtsanwalts für ein Rechtsbeschwerdeverfahren gegen den …
 - [BGH, Beschluss vom 20.01.2004 - X ZA 7/03](x-za-7-03.md) — I. Die Klägerin begehrt von der Beklagten die Zahlung von Projektentwicklungskosten. Ihre Klage ist in den Vorinstanzen erfolglos geblieben. Das Berufungsgericht hat die Revision …
+- [BGH, Beschluss vom 20.01.2004 - X ZR 133/98](x-zr-133-98.md) — I. Der Kläger hat für das Revisionsverfahren unter Verweis auf seine wirtschaftlichen Verhältnisse unter Vorlage von Belegen Herabsetzung des Streitwerts nach § 144 PatG …
+- [BGH, Beschluss vom 20.01.2004 - X ZR 167/02](x-zr-167-02.md) — groben Undanks jeweils an den Schenker in Anspruch genommen. Das Landgericht hat die Beklagte antragsgemäß verurteilt. Hiergegen hat die Bek
+- [BGH, Beschluss vom 20.01.2004 - X ZR 3/00](x-zr-3-00.md) — I. Der Kläger hat für das Revisionsverfahren unter Verweis auf seine wirtschaftlichen Verhältnisse unter Vorlage von Belegen Herabsetzung des Streitwerts nach § 144 PatG …
+- [BGH, Urteil vom 13.01.2004 - X ZR 124/02](x-zr-124-02.md) — Tatbestand: Die Beklagte ist Inhaberin des am 26. April 1988 angemeldeten und unter anderem mit Wirkung für das Hoheitsgebiet der Bundesrepu
+- [BGH, Urteil vom 13.01.2004 - X ZR 212/02](x-zr-212-02.md) — 3-
 - [BGH, Urteil vom 13.01.2004 - X ZR 5/00](x-zr-5-00.md) — Tatbestand:

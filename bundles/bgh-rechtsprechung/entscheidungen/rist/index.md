@@ -1,6 +1,6 @@
 # RIST
 
-Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 6 Entscheidung(en).
+Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 7 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -9,4 +9,5 @@ Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtsc
 - [2022](2022/index.md) (1)
 - [2016](2016/index.md) (1)
 - [2013](2013/index.md) (1)
+- [2004](2004/index.md) (1)
 - [2001](2001/index.md) (1)

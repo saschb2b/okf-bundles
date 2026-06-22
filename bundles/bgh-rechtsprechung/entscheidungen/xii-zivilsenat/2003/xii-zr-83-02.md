@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 27.08.2003 - XII ZR 83/02"
+description: "Die Nichtzulassungsbeschwerde wirft entscheidungserhebliche Fragen von grundsätzlicher Bedeutung nicht auf."
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZR__83-02.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "XII. Zivilsenat"
+datum: 2003-08-27
+aktenzeichen: "XII ZR 83/02"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T15:23:47Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: XII ZR 83/02 vom 27.08.2003.
+
+# Citations
+
+[1] [BGH, Beschluss vom 27.08.2003 - XII ZR 83/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZR__83-02.pdf?__blob=publicationFile&v=1)
+

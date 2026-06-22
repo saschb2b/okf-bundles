@@ -1,24 +1,48 @@
 # 4. Strafsenat – 2005
 
-75 Entscheidung(en).
+152 Entscheidung(en).
 
+- [BGH, Urteil vom 22.12.2005 - 4 StR 268/05](4-str-268-05.md) — Verdachts der unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 22.12.2005 - 4 StR 347/05](4-str-347-05.md) — unerlaubten Führens einer halbautomatischen
+- [BGH, Beschluss vom 21.12.2005 - 4 StR 530/05](4-str-530-05.md) — versuchter schwerer Brandstiftung
+- [BGH, Beschluss vom 20.12.2005 - 4 StR 410/05](4-str-410-05.md) — versuchter Anstiftung zum Mord
+- [BGH, Beschluss vom 20.12.2005 - 4 StR 531/05](4-str-531-05.md) — Freiheitsberaubung mit Todesfolge u.a.
 - [BGH, Urteil vom 15.12.2005 - 4 StR 283/05](4-str-283-05.md) — Volksverhetzung
 - [BGH, Urteil vom 15.12.2005 - 4 StR 314/05](4-str-314-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 13.12.2005 - 4 StR 366/05](4-str-366-05.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 13.12.2005 - 4 StR 464/05](4-str-464-05.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 08.12.2005 - 4 StR 198/05](4-str-198-05.md) — zu 1. und 2. : schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 06.12.2005 - 4 StR 443/05](4-str-443-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 01.12.2005 - 4 StR 397/05](4-str-397-05.md) — schweren Menschenhandels
 - [BGH, Beschluss vom 01.12.2005 - 4 StR 426/05](4-str-426-05.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 01.12.2005 - 4 StR 506/05](4-str-506-05.md) — schweren Raubes u.a.
+- [BGH, Urteil vom 24.11.2005 - 4 StR 243/05](4-str-243-05.md) — versuchter Anstiftung zum Mord
+- [BGH, Beschluss vom 24.11.2005 - 4 StR 521/05](4-str-521-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 22.11.2005 - 4 StR 459/05](4-str-459-05.md) — Nötigung u.a.
+- [BGH, Beschluss vom 17.11.2005 - 4 StR 334/05](4-str-334-05.md) — schweren Raubes u.a.
+- [BGH, Urteil vom 17.11.2005 - 4 StR 341/05](4-str-341-05.md) — Verdachts der schweren räuberischen Erpressung
 - [BGH, Beschluss vom 17.11.2005 - 4 StR 447/05](4-str-447-05.md) — Brandstiftung u.a.
+- [BGH, Urteil vom 10.11.2005 - 4 StR 337/05](4-str-337-05.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 10.11.2005 - 4 StR 431/05](4-str-431-05.md) — Betruges u.a.
+- [BGH, Beschluss vom 09.11.2005 - 4 StR 483/05](4-str-483-05.md) — Körperverletzung mit Todesfolge hier: nachträgliche Anordnung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Beschluss vom 08.11.2005 - 4 StR 321/05](4-str-321-05.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 08.11.2005 - 4 StR 380/05](4-str-380-05.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 02.11.2005 - 4 StR 418/05](4-str-418-05.md) — Vergewaltigung u.a.
 - [BGH, Urteil vom 27.10.2005 - 4 StR 234/05](4-str-234-05.md) — Verdachts des schweren Raubes
 - [BGH, Urteil vom 27.10.2005 - 4 StR 235/05](4-str-235-05.md) — zu 1. und 2. schweren Raubes zu 3. schwerer räuberischer Erpressung zu 4. Diebstahls
+- [BGH, Urteil vom 25.10.2005 - 4 StR 139/05](4-str-139-05.md) — Betruges u.a.
 - [BGH, Urteil vom 25.10.2005 - 4 StR 185/05](4-str-185-05.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 25.10.2005 - 4 StR 382/05](4-str-382-05.md) — räuberischen Angriffs auf Kraftfahrer u.a.
 - [BGH, Beschluss vom 13.10.2005 - 4 StR 143/05](4-str-143-05.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 13.10.2005 - 4 StR 286/05](4-str-286-05.md) — Raubes mit Todesfolge u.a.
+- [BGH, Beschluss vom 13.10.2005 - 4 StR 379/05](4-str-379-05.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 11.10.2005 - 4 StR 358/05](4-str-358-05.md) — BGH, Beschluss vom 11.10.2005 - 4 StR 358/05
 - [BGH, Beschluss vom 11.10.2005 - 4 StR 362/05](4-str-362-05.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 29.09.2005 - 4 StR 319/05](4-str-319-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 29.09.2005 - 4 StR 420/05](4-str-420-05.md) — schweren Raubes
 - [BGH, Beschluss vom 27.09.2005 - 4 StR 361/05](4-str-361-05.md) — schweren sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 27.09.2005 - 4 StR 413/05](4-str-413-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.09.2005 - 4 StR 252/05](4-str-252-05.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 20.09.2005 - 4 StR 396/05](4-str-396-05.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
 - [BGH, Urteil vom 15.09.2005 - 4 StR 107/05](4-str-107-05.md) — Betruges
 - [BGH, Beschluss vom 15.09.2005 - 4 StR 216/05](4-str-216-05.md) — Mordes u.a.
@@ -26,17 +50,32 @@
 - [BGH, Beschluss vom 13.09.2005 - 4 StR 273/05](4-str-273-05.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 13.09.2005 - 4 StR 342/05](4-str-342-05.md) — sexuellen Missbrauchs von Schutzbefohlenen u.a.
 - [BGH, Beschluss vom 13.09.2005 - 4 StR 399/05](4-str-399-05.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 06.09.2005 - 4 StR 247/05](4-str-247-05.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 06.09.2005 - 4 StR 386/05](4-str-386-05.md) — Vergewaltigung
 - [BGH, Urteil vom 01.09.2005 - 4 StR 290/05](4-str-290-05.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 01.09.2005 - 4 StR 292/05](4-str-292-05.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 01.09.2005 - 4 StR 331/05](4-str-331-05.md) — räuberischen Angriffs auf Kraftfahrer u.a.
 - [BGH, Urteil vom 30.08.2005 - 4 StR 295/05](4-str-295-05.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 23.08.2005 - 4 ARs 19/05](4-ars-19-05.md) — Hehlerei (Tatzeit: 26. April 1998) verhängten Freiheitsstrafe von zwei Jahren und vier Monaten sowie der Geldstrafe in Höhe von 1.200.000 Li
+- [BGH, Beschluss vom 23.08.2005 - 4 StR 61/05](4-str-61-05.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 23.08.2005 - 4 StR 62/05](4-str-62-05.md) — schweren Raubes u.a.
+- [BGH, Urteil vom 16.08.2005 - 4 StR 168/05](4-str-168-05.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 11.08.2005 - 4 StR 350/05](4-str-350-05.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 04.08.2005 - 4 StR 263/05](4-str-263-05.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 02.08.2005 - 4 StR 188/05](4-str-188-05.md) — sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 28.07.2005 - 4 StR 109/05](4-str-109-05.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 26.07.2005 - 4 StR 22/05](4-str-22-05.md) — schweren Bandendiebstahls u.a.
 - [BGH, Beschluss vom 26.07.2005 - 4 StR 271/05](4-str-271-05.md) — BGH, Beschluss vom 26.07.2005 - 4 StR 271/05
+- [BGH, Beschluss vom 19.07.2005 - 4 StR 164/05](4-str-164-05.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Urteil vom 19.07.2005 - 4 StR 184/05](4-str-184-05.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 14.07.2005 - 4 StR 134/05](4-str-134-05.md) — Mordes u.a.
 - [BGH, Beschluss vom 14.07.2005 - 4 StR 135/05](4-str-135-05.md) — Unterbringung
+- [BGH, Beschluss vom 12.07.2005 - 4 StR 170/05](4-str-170-05.md) — zu Nr. 1. Diebstahls mit Waffen u. a. zu Nr. 2. Anstiftung zum Diebstahl mit Waffen u.a.
 - [BGH, Beschluss vom 12.07.2005 - 4 StR 211/05](4-str-211-05.md) — schwerer räuberischer Erpressung
 - [BGH, Urteil vom 07.07.2005 - 4 StR 549/04](4-str-549-04.md) — Bestechlichkeit
+- [BGH, Beschluss vom 06.07.2005 - 4 StR 160/05](4-str-160-05.md) — Totschlags
 - [BGH, Beschluss vom 06.07.2005 - 4 StR 190/05](4-str-190-05.md) — Mordes u.a.
+- [BGH, Beschluss vom 05.07.2005 - 4 StR 200/05](4-str-200-05.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 30.06.2005 - 4 StR 142/05](4-str-142-05.md) — Betruges
 - [BGH, Beschluss vom 29.06.2005 - 4 StR 559/04](4-str-559-04.md) — Betruges u.a.
 - [BGH, Urteil vom 28.06.2005 - 4 StR 119/05](4-str-119-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
@@ -48,32 +87,70 @@
 - [BGH, Beschluss vom 21.06.2005 - 4 StR 28/05](4-str-28-05.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 16.06.2005 - 4 StR 124/05](4-str-124-05.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 16.06.2005 - 4 StR 505/04](4-str-505-04.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 09.06.2005 - 4 StR 534/04](4-str-534-04.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 07.06.2005 - 4 StR 173/05](4-str-173-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.06.2005 - 4 StR 191/05](4-str-191-05.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 02.06.2005 - 4 StR 177/05](4-str-177-05.md) — Körperverletzung
+- [BGH, Beschluss vom 31.05.2005 - 4 StR 524/04](4-str-524-04.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 19.05.2005 - 4 StR 150/05](4-str-150-05.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 28.04.2005 - 4 StR 21/05](4-str-21-05.md) — . Dem Beschuldigten ist nach Versäumung der Revisionsbegründungsfrist, der Frist des § 346 Abs. 2 Satz 1 StPO und der Frist des § 45 StPO zur Stellung der Wiedereinsetzungsanträge …
+- [BGH, Beschluss vom 26.04.2005 - 4 StR 447/04](4-str-447-04.md) — Geldfälschung
+- [BGH, Beschluss vom 21.04.2005 - 4 StR 33/05](4-str-33-05.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 21.04.2005 - 4 StR 89/05](4-str-89-05.md) — sexuellen Mißbrauchs einer widerstandsunfähigen Person u.a.
 - [BGH, Beschluss vom 12.04.2005 - 4 StR 13/05](4-str-13-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 12.04.2005 - 4 StR 59/05](4-str-59-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.04.2005 - 4 StR 82/05](4-str-82-05.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 05.04.2005 - 4 StR 95/05](4-str-95-05.md) — schweren sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 30.03.2005 - 4 StR 16/05](4-str-16-05.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 30.03.2005 - 4 StR 456/04](4-str-456-04.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Urteil vom 17.03.2005 - 4 StR 581/04](4-str-581-04.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 15.03.2005 - 4 StR 17/05](4-str-17-05.md) — unerlaubter gewerbsmäßiger Abgabe von Betäubungsmitteln an eine Person unter 18 Jahren
 - [BGH, Beschluss vom 15.03.2005 - 4 StR 19/05](4-str-19-05.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 15.03.2005 - 4 StR 64/05](4-str-64-05.md) — gewerbsmäßiger Hehlerei
 - [BGH, Beschluss vom 15.03.2005 - 4 StR 67/05](4-str-67-05.md) — Mordes u.a.
+- [BGH, Beschluss vom 10.03.2005 - 4 StR 3/05](4-str-3-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.03.2005 - 4 StR 506/04](4-str-506-04.md) — Totschlags
 - [BGH, Beschluss vom 10.03.2005 - 4 StR 570/04](4-str-570-04.md) — Mordes
 - [BGH, Beschluss vom 09.03.2005 - 4 StR 585/04](4-str-585-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.03.2005 - 4 StR 418/04](4-str-418-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 08.03.2005 - 4 StR 569/04](4-str-569-04.md) — sexueller Nötigung
+- [BGH, Beschluss vom 08.03.2005 - 4 StR 573/04](4-str-573-04.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 03.03.2005 - 4 StR 583/04](4-str-583-04.md) — Totschlags hier: Beistandsbestellung
+- [BGH, Beschluss vom 22.02.2005 - 4 StR 453/04](4-str-453-04.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 22.02.2005 - 4 StR 582/04](4-str-582-04.md) — Untreue u.a.
 - [BGH, Beschluss vom 22.02.2005 - 4 StR 593/04](4-str-593-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.02.2005 - 4 StR 9/05](4-str-9-05.md) — sexueller Nötigung
 - [BGH, Beschluss vom 17.02.2005 - 4 StR 10/05](4-str-10-05.md) — besonders schwerer Vergewaltigung u.a.
+- [BGH, Urteil vom 17.02.2005 - 4 StR 500/04](4-str-500-04.md) — des Verdachts der Brandstiftung u.a.
 - [BGH, Beschluss vom 17.02.2005 - 4 StR 537/04](4-str-537-04.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 15.02.2005 - 4 StR 477/04](4-str-477-04.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 15.02.2005 - 4 StR 572/04](4-str-572-04.md) — sexuellen Mißbrauchs eines Jugendlichen
+- [BGH, Beschluss vom 15.02.2005 - 4 StR 586/04](4-str-586-04.md) — Anstiftung zur schweren räuberischen Erpressung
+- [BGH, Beschluss vom 10.02.2005 - 4 StR 513/04](4-str-513-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 10.02.2005 - 4 StR 596/04](4-str-596-04.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 09.02.2005 - 4 StR 539/04](4-str-539-04.md) — BGH, Beschluss vom 09.02.2005 - 4 StR 539/04
+- [BGH, Beschluss vom 09.02.2005 - 4 StR 547/04](4-str-547-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 09.02.2005 - 4 StR 552/04](4-str-552-04.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Urteil vom 03.02.2005 - 4 StR 492/04](4-str-492-04.md) — Körperverletzung u.a.
+- [BGH, Urteil vom 03.02.2005 - 4 StR 540/04](4-str-540-04.md) — des Verdachts der Vergewaltigung
+- [BGH, Beschluss vom 01.02.2005 - 4 StR 483/04](4-str-483-04.md) — dargetan sind, zumal die Verteidigerin die Sachrüge mit Schriftsatz vom 17.
+- [BGH, Beschluss vom 01.02.2005 - 4 StR 486/04](4-str-486-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 01.02.2005 - 4 StR 503/04](4-str-503-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 01.02.2005 - 4 StR 519/04](4-str-519-04.md) — bandenmäßiger unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 25.01.2005 - 4 StR 530/04](4-str-530-04.md) — schweren Raubes
+- [BGH, Beschluss vom 25.01.2005 - 4 StR 591/04](4-str-591-04.md) — gefährlichen Umgangs mit Abfällen
 - [BGH, Beschluss vom 20.01.2005 - 4 StR 222/04](4-str-222-04.md) — Betruges u.a.
 - [BGH, Urteil vom 20.01.2005 - 4 StR 366/04](4-str-366-04.md) — fahrlässiger Tötung u.a.
 - [BGH, Urteil vom 20.01.2005 - 4 StR 491/04](4-str-491-04.md) — Totschlags
 - [BGH, Beschluss vom 19.01.2005 - 4 StR 223/04](4-str-223-04.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 19.01.2005 - 4 StR 343/04](4-str-343-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 18.01.2005 - 4 StR 532/04](4-str-532-04.md) — erpresserischen Menschenraubes u.a.
+- [BGH, Urteil vom 13.01.2005 - 4 StR 422/04](4-str-422-04.md) — des Verdachts der Vergewaltigung u.a.
 - [BGH, Urteil vom 13.01.2005 - 4 StR 469/04](4-str-469-04.md) — schweren Raubes mit Todesfolge u.a.
+- [BGH, Beschluss vom 05.01.2005 - 4 StR 485/04](4-str-485-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 05.01.2005 - 4 StR 512/04](4-str-512-04.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 05.01.2005 - 4 StR 518/04](4-str-518-04.md) — Vergewaltigung
 - [BGH, Beschluss vom 05.01.2005 - 4 StR 520/04](4-str-520-04.md) — Vorteilsannahme
 - [BGH, Beschluss vom 05.01.2005 - 4 StR 545/04](4-str-545-04.md) — unerlaubten Entfernens vom Unfallort u.a.
 - [BGH, Beschluss vom 04.01.2005 - 4 StR 501/04](4-str-501-04.md) — BGH, Beschluss vom 04.01.2005 - 4 StR 501/04
+- [BGH, Beschluss vom 04.01.2005 - 4 StR 529/04](4-str-529-04.md) — versuchten Totschlags u.a.

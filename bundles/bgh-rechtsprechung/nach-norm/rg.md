@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu RG"
 description: "BGH-Entscheidungen zu RG, geordnet nach Vorschrift."
 tags: [register, navigation, rg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

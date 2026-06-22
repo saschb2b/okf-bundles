@@ -1,29 +1,49 @@
 # III. Zivilsenat – 2000
 
-42 Entscheidung(en).
+94 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2000 - III ZR 119/00](iii-zr-119-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 554 b ZPO).
+- [BGH, Beschluss vom 21.12.2000 - III ZR 76/00](iii-zr-76-00.md) — Der Beklagte hat am 16. März 2000 gegen das Urteil des 7. Zivilsenats des Oberlandesgerichts Stuttgart vom 3. Februar 2000 Revision eingelegt, die innerhalb der durch Verfügung …
 - [BGH, Urteil vom 14.12.2000 - III ZR 151/99](iii-zr-151-99.md) — BGH, Urteil vom 14.12.2000 - III ZR 151/99
 - [BGH, Beschluss vom 14.12.2000 - III ZR 213/99](iii-zr-213-99.md) — In der mündlichen Verhandlung vor dem Senat haben die Parteien den Rechtsstreits - soweit noch anhängig - übereinstimmend in der Hauptsache für erledigt erklärt.
 - [BGH, Urteil vom 14.12.2000 - III ZR 3/00](iii-zr-3-00.md) — eines arglistig verschwiegenen Sachmangels erfolgt, sofern infolge derselben Täuschung der Käufer auch zur Anfechtung des Kaufvertrags nach
 - [BGH, Beschluss vom 07.12.2000 - III ZR 355/99](iii-zr-355-99.md) — BGH, Beschluss vom 07.12.2000 - III ZR 355/99
+- [BGH, Urteil vom 07.12.2000 - III ZR 84/00](iii-zr-84-00.md) — BGH, Urteil vom 07.12.2000 - III ZR 84/00
 - [BGH, Beschluss vom 30.11.2000 - III ZA 6/00](iii-za-6-00.md) — BGH, Beschluss vom 30.11.2000 - III ZA 6/00
 - [BGH, Beschluss vom 30.11.2000 - III ZB 31/00](iii-zb-31-00.md) — BGH, Beschluss vom 30.11.2000 - III ZB 31/00
 - [BGH, Beschluss vom 30.11.2000 - III ZB 44/00](iii-zb-44-00.md) — der Umstände der Unterbringung in einem umzäunten Lager und der schlechten Verpflegung.
 - [BGH, Beschluss vom 30.11.2000 - III ZB 45/00](iii-zb-45-00.md) — BGH, Beschluss vom 30.11.2000 - III ZB 45/00
 - [BGH, Beschluss vom 30.11.2000 - III ZB 46/00](iii-zb-46-00.md) — der Umstände der Unterbringung in einem umzäunten Lager und der schlechten Verpflegung.
 - [BGH, Beschluss vom 30.11.2000 - III ZR 151/00](iii-zr-151-00.md) — BGH, Beschluss vom 30.11.2000 - III ZR 151/00
+- [BGH, Beschluss vom 30.11.2000 - III ZR 79/00](iii-zr-79-00.md) — Nichterfüllung zu verlangen. Infolgedessen wird eine Provisionszahlungspflicht des Verkäufers als Maklerkunden hiervon nicht berührt. Das en
+- [BGH, Beschluss vom 30.11.2000 - III ZR 89/00](iii-zr-89-00.md) — Auf die von der Revision aufgeworfene Frage der Formwirksamkeit des Prozeßvergleichs vom 7.
 - [BGH, Urteil vom 23.11.2000 - III ZR 342/99](iii-zr-342-99.md) — Tatbestand
 - [BGH, Beschluss vom 23.11.2000 - III ZR 7/00](iii-zr-7-00.md) — Das vorliegende Verfahren betrifft nicht, wie in der Gegenvorstellung ange- nommen, die zweite Stufe der Stufenklage gegen die G.
 - [BGH, Urteil vom 16.11.2000 - III ZR 1/00](iii-zr-1-00.md) — amtspflichtwidriger Vollziehung erheben zu können.
 - [BGH, Urteil vom 16.11.2000 - III ZR 265/99](iii-zr-265-99.md) — BGH, Urteil vom 16.11.2000 - III ZR 265/99
+- [BGH, Urteil vom 09.11.2000 - III ZR 18/00](iii-zr-18-00.md) — Tatbestand
+- [BGH, Urteil vom 09.11.2000 - III ZR 314/99](iii-zr-314-99.md) — 3-
 - [BGH, Beschluss vom 02.11.2000 - III ZB 55/99](iii-zb-55-99.md) — BGH, Beschluss vom 02.11.2000 - III ZB 55/99
 - [BGH, Urteil vom 02.11.2000 - III ZR 261/99](iii-zr-261-99.md) — BGH, Urteil vom 02.11.2000 - III ZR 261/99
+- [BGH, Urteil vom 26.10.2000 - III ZR 52/99](iii-zr-52-99.md) — 3-
+- [BGH, Urteil vom 26.10.2000 - III ZR 53/99](iii-zr-53-99.md) — BGH, Urteil vom 26.10.2000 - III ZR 53/99
 - [BGH, Beschluss vom 19.10.2000 - III ZB 42/00](iii-zb-42-00.md) — BGH, Beschluss vom 19.10.2000 - III ZB 42/00
 - [BGH, Beschluss vom 19.10.2000 - III ZR 105/00](iii-zr-105-00.md) — BGH, Beschluss vom 19.10.2000 - III ZR 105/00
 - [BGH, Urteil vom 12.10.2000 - III ZR 121/99](iii-zr-121-99.md) — BGH, Urteil vom 12.10.2000 - III ZR 121/99
 - [BGH, Beschluss vom 12.10.2000 - III ZR 216/00](iii-zr-216-00.md) — BGH, Beschluss vom 12.10.2000 - III ZR 216/00
 - [BGH, Urteil vom 12.10.2000 - III ZR 242/98](iii-zr-242-98.md) — BGH, Urteil vom 12.10.2000 - III ZR 242/98
 - [BGH, Urteil vom 12.10.2000 - III ZR 39/00](iii-zr-39-00.md) — BGH, Urteil vom 12.10.2000 - III ZR 39/00
+- [BGH, Urteil vom 05.10.2000 - III ZR 240/99](iii-zr-240-99.md) — 3-
+- [BGH, Urteil vom 05.10.2000 - III ZR 71/00](iii-zr-71-00.md) — BGH, Urteil vom 05.10.2000 - III ZR 71/00
+- [BGH, Urteil vom 28.09.2000 - III ZR 276/99](iii-zr-276-99.md) — 3-
+- [BGH, Urteil vom 28.09.2000 - III ZR 43/99](iii-zr-43-99.md) — Tatbestand
+- [BGH, Beschluss vom 21.09.2000 - III ZB 36/00](iii-zb-36-00.md) — urlaubsbedingter Abwesenheit des sachbearbeitenden Rechtsanwalts ist die Frist zur Einreichung der Berufungsbegründung antragsgemäß bis zum
+- [BGH, Beschluss vom 21.09.2000 - III ZR 325/99](iii-zr-325-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 554 b ZPO).
+- [BGH, Urteil vom 14.09.2000 - III ZR 183/99](iii-zr-183-99.md) — einer Enteignung nach dem DDR-Aufbaugesetz.
+- [BGH, Urteil vom 14.09.2000 - III ZR 211/99](iii-zr-211-99.md) — BGH, Urteil vom 14.09.2000 - III ZR 211/99
+- [BGH, Urteil vom 14.09.2000 - III ZR 33/00](iii-zr-33-00.md) — Mittellosigkeit des Klägers) feststellt, die Schiedsvereinbarung sei undurchführbar; einer Kündigung der Vereinbarung bedarf es nicht.
+- [BGH, Beschluss vom 17.08.2000 - III ZB 35/00](iii-zb-35-00.md) — Der Senat geht zugunsten des Antragstellers davon aus, daß dessen am 12.
+- [BGH, Beschluss vom 17.08.2000 - III ZB 43/99](iii-zb-43-99.md) — einer der Enteignung gleichkommenden Maßnahme, und diese Streitigkeit wurde nicht binnen sechs Monaten beigelegt. Damit stand der Antragstel
 - [BGH, Beschluss vom 10.08.2000 - III ZB 27/00](iii-zb-27-00.md) — Der Antrag ist unbegründet. Denn die Rechtsbeschwerde des Antragsgegners gegen den Beschluß des Bayerischen Obersten Landesgerichts hat bei dem derzeitigen Sach- und Streitstand …
 - [BGH, Beschluss vom 04.08.2000 - III ZR 10/00](iii-zr-10-00.md) — Arbeitslosigkeit und Vermögenslosigkeit nicht in der Lage.
 - [BGH, Urteil vom 04.08.2000 - III ZR 158/99](iii-zr-158-99.md) — nicht das Recht, die Höhe seiner Wahlleistungsentgelte autonom zu bestimmen. Daher kann auch im Verbandsprozeß nach § 22 Abs. 1 Satz 5 BPflV
@@ -32,9 +52,41 @@
 - [BGH, Beschluss vom 27.07.2000 - III ZR 279/99](iii-zr-279-99.md) — BGH, Beschluss vom 27.07.2000 - III ZR 279/99
 - [BGH, Beschluss vom 27.07.2000 - III ZR 359/99](iii-zr-359-99.md) — BGH, Beschluss vom 27.07.2000 - III ZR 359/99
 - [BGH, Beschluss vom 26.07.2000 - III ZR 157/99](iii-zr-157-99.md) — Besorgnis der Befangenheit nur abgelehnt werden, wenn ein Grund vorliegt, der geeignet ist, Mißtrauen gegen seine Unparteilichkeit zu rechtf
+- [BGH, Urteil vom 20.07.2000 - III ZR 64/99](iii-zr-64-99.md) — 3-
+- [BGH, Urteil vom 13.07.2000 - III ZR 131/99](iii-zr-131-99.md) — 3-
+- [BGH, Urteil vom 06.07.2000 - III ZR 340/98](iii-zr-340-98.md) — verweigern, weil die bestehende Grunddienstbarkeit die beabsichtigte Erweiterung der Nutzung nicht abdeckt.
+- [BGH, Beschluss vom 29.06.2000 - III ZB 18/00](iii-zb-18-00.md) — I. Die Klägerin nimmt den Beklagten nach Kündigung eines Baubetreuungsvertrags auf Vergütung ihrer Teilleistungen in Anspruch. Zur Berechnung hat sie Gesamtkosten des Bauvorhabens …
+- [BGH, Beschluss vom 29.06.2000 - III ZB 23/00](iii-zb-23-00.md) — einer am 28. April 1999 eingegangenen Ladung des Landgerichts zu einem Verhandlungstermin über einen von Rechtsanwalt M. gestellten Tatbesta
+- [BGH, Urteil vom 15.06.2000 - III ZR 302/99](iii-zr-302-99.md) — 3-
+- [BGH, Versäumnisurteil vom 15.06.2000 - III ZR 305/98](iii-zr-305-98.md) — 3-
+- [BGH, Urteil vom 08.06.2000 - III ZR 186/99](iii-zr-186-99.md) — 3-
+- [BGH, Urteil vom 08.06.2000 - III ZR 187/99](iii-zr-187-99.md) — 3-
+- [BGH, Beschluss vom 24.05.2000 - III ZB 2/98](iii-zb-2-98.md) — I. Der Senat hat mit Beschluß vom 30. April 1998 die weitere sofortige Beschwerde des Klägers gegen den Beschluß des 1. Zivilsenats des Oberlandesgerichts München vom 17. Juli …
+- [BGH, Beschluss vom 24.05.2000 - III ZB 8/00](iii-zb-8-00.md) — fehlerhafter Beratung beim Kauf einer Eigentumswohnung Schadensersatz. Das Landgericht hat die Klage abgewiesen. Am
+- [BGH, Beschluss vom 24.05.2000 - III ZB 9/00](iii-zb-9-00.md) — I. Der Kläger - ein Reiseveranstalter - charterte von der Beklagten mit Sitz in Istanbul Flugzeuge, um seine Kunden zu Urlaubszielen in die Türkei und Nord-Zypern zu bringen. Mit …
+- [BGH, Beschluss vom 24.05.2000 - III ZR 252/99](iii-zr-252-99.md) — I. Die Klägerin, eine Gesellschaft mit beschränkter Haftung, betreibt das Hallenbad in K.. Einzige Gesellschafterin der Klägerin ist die Beteiligungsgesellschaft für …
+- [BGH, Beschluss vom 24.05.2000 - III ZR 300/99](iii-zr-300-99.md) — das angefochtene Urteil aufgehoben und den Rechtsstreit zur Entscheidung in der Sache gemäß § 538 Abs. 1 Nr. 2 ZPO an das Landgericht zurück
 - [BGH, Urteil vom 18.05.2000 - III ZR 180/99](iii-zr-180-99.md) — Brandstiftung.
+- [BGH, Urteil vom 11.05.2000 - III ZR 145/98](iii-zr-145-98.md) — BGH, Urteil vom 11.05.2000 - III ZR 145/98
+- [BGH, Urteil vom 11.05.2000 - III ZR 258/99](iii-zr-258-99.md) — 3-
+- [BGH, Beschluss vom 18.04.2000 - III ZR 194/99](iii-zr-194-99.md) — eine Beitrags- oder Abgabenforderung bzw. -schuld nicht entsteht.
+- [BGH, Beschluss vom 18.04.2000 - III ZR 59/99](iii-zr-59-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 554 b ZPO).
+- [BGH, Urteil vom 13.04.2000 - III ZR 120/99](iii-zr-120-99.md) — 3-
+- [BGH, Urteil vom 13.04.2000 - III ZR 165/99](iii-zr-165-99.md) — der Versäumung der Frist für die Anfechtung eines Verwaltungsakts mit der Begründung beansprucht, die erforderliche Anhörung vor Erlaß des V
+- [BGH, Urteil vom 06.04.2000 - III ZR 150/98](iii-zr-150-98.md) — 3-
+- [BGH, Urteil vom 06.04.2000 - III ZR 263/98](iii-zr-263-98.md) — 3-
+- [BGH, Beschluss vom 30.03.2000 - III ZB 2/00](iii-zb-2-00.md) — I. Das Landgericht hat den Beklagten durch Anerkenntnisurteil vom 3. November 1999 verurteilt, gegenüber der Erbengemeinschaft nach A. W. die Richtigkeit der Aufstellung des …
+- [BGH, Beschluss vom 30.03.2000 - III ZR 229/98](iii-zr-229-98.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (BVerfGE 54, 277).
 - [BGH, Urteil vom 23.03.2000 - III ZR 152/99](iii-zr-152-99.md) — BGH, Urteil vom 23.03.2000 - III ZR 152/99
 - [BGH, Urteil vom 23.03.2000 - III ZR 217/99](iii-zr-217-99.md) — BGH, Urteil vom 23.03.2000 - III ZR 217/99
+- [BGH, Versäumnisurteil vom 16.03.2000 - III ZR 179/99](iii-zr-179-99.md) — 3-
+- [BGH, Urteil vom 09.03.2000 - III ZR 198/99](iii-zr-198-99.md) — BGH, Urteil vom 09.03.2000 - III ZR 198/99
+- [BGH, Urteil vom 09.03.2000 - III ZR 356/98](iii-zr-356-98.md) — 3-
+- [BGH, Urteil vom 02.03.2000 - III ZR 103/99](iii-zr-103-99.md) — 3-
+- [BGH, Urteil vom 02.03.2000 - III ZR 141/99](iii-zr-141-99.md) — BGH, Urteil vom 02.03.2000 - III ZR 141/99
+- [BGH, Urteil vom 02.03.2000 - III ZR 65/99](iii-zr-65-99.md) — 3-
+- [BGH, Beschluss vom 24.02.2000 - III ZB 33/99](iii-zb-33-99.md) — I. Der Kläger erhob gegen den beklagten Zweckverband für Wasserversorgung, eine Körperschaft des öffentlichen Rechts, Klage zum Amtsgericht Cham mit den Anträgen: 1. den Beklagten …
+- [BGH, Beschluss vom 24.02.2000 - III ZR 270/99](iii-zr-270-99.md) — I. Die Beklagte zu 1, die am Revisionsverfahren nicht beteiligte Jagdgenossenschaft P., verpachtete am 1. April 1991 die Jagdnutzung auf den zu ihrem Bezirk gehörenden …
 - [BGH, Urteil vom 17.02.2000 - III ZR 78/99](iii-zr-78-99.md) — Tatbestand
 - [BGH, Urteil vom 03.02.2000 - III ZR 296/98](iii-zr-296-98.md) — eines sonst gebotenen Widerrufs
 - [BGH, Urteil vom 03.02.2000 - III ZR 313/98](iii-zr-313-98.md) — BGH, Urteil vom 03.02.2000 - III ZR 313/98

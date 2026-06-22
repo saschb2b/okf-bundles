@@ -1,6 +1,6 @@
 # 5. Strafsenat – 2003
 
-90 Entscheidung(en).
+178 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2003 - 5 StR 275/03](5-str-275-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 18.12.2003 - 5 StR 445/03](5-str-445-03.md) — schwerer räuberischer Erpressung u.a.
@@ -14,62 +14,139 @@
 - [BGH, Beschluss vom 16.12.2003 - 5 StR 459/03](5-str-459-03.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 16.12.2003 - 5 StR 497/03](5-str-497-03.md) — schweren Raubes u.a.
 - [BGH, Urteil vom 04.12.2003 - 5 StR 250/03](5-str-250-03.md) — Anstiftung zum Mord u.a.
+- [BGH, Urteil vom 04.12.2003 - 5 StR 308/03](5-str-308-03.md) — Betruges
+- [BGH, Urteil vom 04.12.2003 - 5 StR 457/03](5-str-457-03.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 04.12.2003 - 5 StR 513/03](5-str-513-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 03.12.2003 - 5 StR 249/03](5-str-249-03.md) — : nein Veröffentlichung: ja StPO § 335 Der Senat hält daran fest, daß dann, wenn ein Urteil statt mit dem Rechtsmittel der Berufung mit dem der Revision angefochten werden kann …
 - [BGH, Beschluss vom 03.12.2003 - 5 StR 307/03](5-str-307-03.md) — Totschlags
+- [BGH, Beschluss vom 03.12.2003 - 5 StR 462/03](5-str-462-03.md) — gewerbsmäßigen Einschleusens von Ausländern u.a.
+- [BGH, Beschluss vom 03.12.2003 - 5 StR 466/03](5-str-466-03.md) — gewerbsmäßiger Hehlerei u.a.
+- [BGH, Beschluss vom 03.12.2003 - 5 StR 473/03](5-str-473-03.md) — Totschlags
 - [BGH, Beschluss vom 02.12.2003 - 5 StR 494/03](5-str-494-03.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 02.12.2003 - 5 StR 516/03](5-str-516-03.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 01.12.2003 - 5 StR 447/03](5-str-447-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 01.12.2003 - 5 StR 510/03](5-str-510-03.md) — versuchter räuberischer Erpressung u.a.
+- [BGH, Urteil vom 13.11.2003 - 5 StR 327/03](5-str-327-03.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 13.11.2003 - 5 StR 380/03](5-str-380-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 13.11.2003 - 5 StR 400/03](5-str-400-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 12.11.2003 - 5 StR 468/03](5-str-468-03.md) — Mordes u.a.
 - [BGH, Beschluss vom 11.11.2003 - 5 StR 277/03](5-str-277-03.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 11.11.2003 - 5 StR 315/03](5-str-315-03.md) — Betruges
+- [BGH, Beschluss vom 11.11.2003 - 5 StR 359/03](5-str-359-03.md) — : nein Veröffentlichung: ja StPO § 338 Nr. 1 GVG §§ 21e, 76 Eine große Strafkammer, die nicht als Schwurgericht tätig ist, kann geschäftsplanmäßig mit drei Beisitzern besetzt …
 - [BGH, Beschluss vom 11.11.2003 - 5 StR 482/03](5-str-482-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge unter Mitführung eines verletzungsgeeigneten Gegenstandes
 - [BGH, Urteil vom 30.10.2003 - 5 StR 256/03](5-str-256-03.md) — Totschlags
 - [BGH, Beschluss vom 30.10.2003 - 5 StR 257/03](5-str-257-03.md) — gewerbsmäßigen Einschleusens von Ausländern u.a.
 - [BGH, Urteil vom 30.10.2003 - 5 StR 274/03](5-str-274-03.md) — gewerbs- und bandenmäßigen Schmuggels u.a.
 - [BGH, Beschluss vom 30.10.2003 - 5 StR 416/03](5-str-416-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 30.10.2003 - 5 StR 423/03](5-str-423-03.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 29.10.2003 - 5 ARs 61/03](5-ars-61-03.md) — Verbrechen nach dem Betäubungsmittelgesetz hier: Anfragebeschluß vom 24. Juli 2003 – 3 StR 368 und 415/02
 - [BGH, Beschluss vom 29.10.2003 - 5 ARs 63/03](5-ars-63-03.md) — vorsätzlichen Vollrausches hier: Anfragebeschluß vom 5. August 2003 – 4 StR 147/03
+- [BGH, Urteil vom 29.10.2003 - 5 StR 358/03](5-str-358-03.md) — vorsätzlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 29.10.2003 - 5 StR 378/03](5-str-378-03.md) — Beihilfe zum versuchten Mord u.a.
 - [BGH, Beschluss vom 28.10.2003 - 5 ARs 67/03](5-ars-67-03.md) — zu 1. Betruges u.a. zu 2. schwerer räuberischer Erpressung zu 3. unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.
 - [BGH, Urteil vom 28.10.2003 - 5 StR 121/03](5-str-121-03.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 28.10.2003 - 5 StR 411/03](5-str-411-03.md) — erpresserischen Menschenraubes u.a.
 - [BGH, Beschluss vom 28.10.2003 - 5 StR 453/03](5-str-453-03.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 16.10.2003 - 5 StR 290/03](5-str-290-03.md) — Einschleusens von Ausländern
+- [BGH, Beschluss vom 16.10.2003 - 5 StR 377/03](5-str-377-03.md) — unerlaubten Überlassens von Betäubungsmitteln zum unmittelbaren Verbrauch
 - [BGH, Beschluss vom 16.10.2003 - 5 StR 436/03](5-str-436-03.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Urteil vom 15.10.2003 - 5 StR 305/03](5-str-305-03.md) — versuchten Totschlags
+- [BGH, Beschluss vom 15.10.2003 - 5 StR 394/03](5-str-394-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 14.10.2003 - 5 StR 426/03](5-str-426-03.md) — BGH, Beschluss vom 14.10.2003 - 5 StR 426/03
+- [BGH, Beschluss vom 23.09.2003 - 5 StR 337/03](5-str-337-03.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 23.09.2003 - 5 StR 374/03](5-str-374-03.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 23.09.2003 - 5 StR 422/03](5-str-422-03.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 22.09.2003 - 5 StR 389/03](5-str-389-03.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 22.09.2003 - 5 StR 418/03](5-str-418-03.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 11.09.2003 - 5 StR 253/03](5-str-253-03.md) — Steuerhinterziehung u.a.
+- [BGH, Urteil vom 11.09.2003 - 5 StR 524/02](5-str-524-02.md) — Untreue u.a.
+- [BGH, Beschluss vom 10.09.2003 - 5 StR 330/03](5-str-330-03.md) — versuchten Totschlags
+- [BGH, Beschluss vom 10.09.2003 - 5 StR 373/03](5-str-373-03.md) — Mordes
+- [BGH, Urteil vom 09.09.2003 - 5 StR 126/03](5-str-126-03.md) — Totschlags u.a.
+- [BGH, Beschluss vom 28.08.2003 - 5 StR 232/03](5-str-232-03.md) — : ja zu 1 und 2 Veröffentlichung: ja StPO § 138 Abs. 1 Als Verteidiger kann nach § 138 Abs. 1 StPO auch ein Fachhochschullehrer mit Befähigung zum Richteramt gewählt werden. BGH …
+- [BGH, Beschluss vom 28.08.2003 - 5 StR 375/03](5-str-375-03.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 27.08.2003 - 5 StR 254/03](5-str-254-03.md) — Untreue
+- [BGH, Beschluss vom 27.08.2003 - 5 StR 329/03](5-str-329-03.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 27.08.2003 - 5 StR 341/03](5-str-341-03.md) — Mordes
+- [BGH, Beschluss vom 27.08.2003 - 5 StR 369/03](5-str-369-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 26.08.2003 - 5 StR 145/03](5-str-145-03.md) — : ja Veröffentlichung: ja StPO § 153 Abs. 2 StGB § 263 1. Strafklageverbrauch nach gerichtlicher Entscheidung gemäß § 153 Abs. 2 StPO. 2. Täuschung und Schädigungsvorsatz bei …
 - [BGH, Beschluss vom 26.08.2003 - 5 StR 188/03](5-str-188-03.md) — Untreue u.a.
+- [BGH, Beschluss vom 26.08.2003 - 5 StR 338/03](5-str-338-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.08.2003 - 5 StR 350/03](5-str-350-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.08.2003 - 5 StR 317/03](5-str-317-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 13.08.2003 - 5 StR 286/03](5-str-286-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 13.08.2003 - 5 StR 311/03](5-str-311-03.md) — BGH, Beschluss vom 13.08.2003 - 5 StR 311/03
+- [BGH, Beschluss vom 12.08.2003 - 5 StR 158/03](5-str-158-03.md) — Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 12.08.2003 - 5 StR 289/03](5-str-289-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 31.07.2003 - 5 StR 251/03](5-str-251-03.md) — Beihilfe zum versuchten Totschlag
 - [BGH, Urteil vom 31.07.2003 - 5 StR 581/02](5-str-581-02.md) — Mordes u.a.
 - [BGH, Beschluss vom 30.07.2003 - 5 StR 221/03](5-str-221-03.md) — vorsätzlicher Konkursverschleppung u.a.
 - [BGH, Beschluss vom 30.07.2003 - 5 StR 312/03](5-str-312-03.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 29.07.2003 - 5 StR 182/03](5-str-182-03.md) — erpresserischen Menschenraubes u.a.
 - [BGH, Beschluss vom 29.07.2003 - 5 StR 214/03](5-str-214-03.md) — gewerbs- und bandenmäßigen Betruges
+- [BGH, Beschluss vom 29.07.2003 - 5 StR 231/03](5-str-231-03.md) — schweren sexuellen Mißbrauchs eines Kindes
 - [BGH, Beschluss vom 29.07.2003 - 5 StR 298/03](5-str-298-03.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 29.07.2003 - 5 StR 304/03](5-str-304-03.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 23.07.2003 - 5 StR 278/03](5-str-278-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 22.07.2003 - 5 StR 162/03](5-str-162-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.07.2003 - 5 StR 192/03](5-str-192-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 22.07.2003 - 5 StR 22/03](5-str-22-03.md) — Betruges
+- [BGH, Beschluss vom 22.07.2003 - 5 StR 284/03](5-str-284-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 09.07.2003 - 5 StR 147/03](5-str-147-03.md) — Betrugs
+- [BGH, Beschluss vom 09.07.2003 - 5 StR 216/03](5-str-216-03.md) — versuchten Raubes u.a.
+- [BGH, Beschluss vom 09.07.2003 - 5 StR 226/03](5-str-226-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 09.07.2003 - 5 StR 236/03](5-str-236-03.md) — BGH, Beschluss vom 09.07.2003 - 5 StR 236/03
+- [BGH, Beschluss vom 09.07.2003 - 5 StR 65/02](5-str-65-02.md) — versuchten Betrugs u.a.
+- [BGH, Beschluss vom 08.07.2003 - 5 StR 63/03](5-str-63-03.md) — Bestechlichkeit u.a.
+- [BGH, Beschluss vom 19.06.2003 - 5 StR 160/03](5-str-160-03.md) — : nein Veröffentlichung : ja AO § 370a aF AO § 373 StGB § 22 1. Der gewerbs- und bandenmäßige Schmuggel nach § 373 AO stellt gegenüber § 370a AO aF die speziellere Norm dar. 2 …
 - [BGH, Urteil vom 18.06.2003 - 5 StR 169/00](5-str-169-00.md) — : nein Veröffentlichung: ja UStG § 4 Nr. 20 lit. a Auch ein Gesangssolist stellt eine „kulturelle Einrichtung“ im Sinne von § 4 Nr. 20 lit. a UStG dar (im Anschluß an EuGH, Urteil …
 - [BGH, Beschluss vom 18.06.2003 - 5 StR 238/03](5-str-238-03.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 18.06.2003 - 5 StR 252/03](5-str-252-03.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 18.06.2003 - 5 StR 255/03](5-str-255-03.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern
 - [BGH, Urteil vom 18.06.2003 - 5 StR 489/02](5-str-489-02.md) — : nein Veröffentlichung: ja StGB §§ 27, 78a, 299 AO § 370 1. Zur Beendigung der Bestechung durch Versprechen eines Vorteils. 2. Zur Beihilfe zur Steuerhinterziehung durch objektiv …
+- [BGH, Beschluss vom 04.06.2003 - 5 StR 124/03](5-str-124-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 04.06.2003 - 5 StR 217/03](5-str-217-03.md) — Totschlags
 - [BGH, Urteil vom 04.06.2003 - 5 StR 30/03](5-str-30-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.05.2003 - 5 StR 135/03](5-str-135-03.md) — Untreue u.a.
+- [BGH, Urteil vom 22.05.2003 - 5 StR 520/02](5-str-520-02.md) — : nein Veröffentlichung: ja AO § 370 Abs. 1 Nr. 1; UStG § 2 Abs. 1 Eine Steuerhinterziehung nach § 370 Abs. 1 Nr. 1 AO begeht, wer in Steuerverkürzungsabsicht Vorsteuer aus …
+- [BGH, Beschluss vom 21.05.2003 - 5 StR 199/03](5-str-199-03.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 21.05.2003 - 5 StR 51/03](5-str-51-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 21.05.2003 - 5 StR 69/03](5-str-69-03.md) — gewerbsmäßigen Schmuggels
+- [BGH, Beschluss vom 20.05.2003 - 5 StR 170/03](5-str-170-03.md) — schweren Raubes u.a.
+- [BGH, Urteil vom 20.05.2003 - 5 StR 592/02](5-str-592-02.md) — versuchten Totschlags u.a.
 - [BGH, Entscheidung vom 20.05.2003 - 5 StR 66/03](5-str-66-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 08.05.2003 - 5 StR 120/03](5-str-120-03.md) — Betruges u.a.
 - [BGH, Urteil vom 08.05.2003 - 5 StR 4/03](5-str-4-03.md) — versuchter sexueller Nötigung u.a.
+- [BGH, Beschluss vom 07.05.2003 - 5 StR 103/03](5-str-103-03.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 07.05.2003 - 5 StR 185/03](5-str-185-03.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 07.05.2003 - 5 StR 193/03](5-str-193-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 07.05.2003 - 5 StR 535/02](5-str-535-02.md) — Beihilfe zur Zuhälterei u.a.
 - [BGH, Beschluss vom 07.05.2003 - 5 StR 536/02](5-str-536-02.md) — Zuhälterei u.a.
 - [BGH, Urteil vom 07.05.2003 - 5 StR 556/02](5-str-556-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 07.05.2003 - 5 StR 78/03](5-str-78-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 06.05.2003 - 5 StR 189/03](5-str-189-03.md) — banden- und gewerbsmäßigen Betruges u.a.
+- [BGH, Beschluss vom 08.04.2003 - 5 StR 140/03](5-str-140-03.md) — schwerer räuberischer Erpressung
 - [BGH, Urteil vom 08.04.2003 - 5 StR 448/02](5-str-448-02.md) — : nein Veröffentlichung: ja StGB §§ 264, 266 1. Möglichkeit der "Haushaltsuntreue" auch bei zweckentsprechender Subventionsgewährung unter Verstoß gegen Vergaberichtlinien. 2 …
+- [BGH, Beschluss vom 07.04.2003 - 5 StR 269/88](5-str-269-88.md) — Anstiftung zum Mord u.a.
 - [BGH, Beschluss vom 07.04.2003 - 5 StR 407/02](5-str-407-02.md) — Urkundenfälschung u.a.
+- [BGH, Urteil vom 27.03.2003 - 5 StR 434/02](5-str-434-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 27.03.2003 - 5 StR 508/02](5-str-508-02.md) — Steuerhinterziehung u.a.
+- [BGH, Urteil vom 27.03.2003 - 5 StR 522/02](5-str-522-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.03.2003 - 5 StR 132/03](5-str-132-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.03.2003 - 5 StR 142/03](5-str-142-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 26.03.2003 - 5 StR 45/03](5-str-45-03.md) — Betruges u.a.
 - [BGH, Beschluss vom 26.03.2003 - 5 StR 71/03](5-str-71-03.md) — Mordes u.a.
 - [BGH, Beschluss vom 25.03.2003 - 5 StR 48/03](5-str-48-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 25.03.2003 - 5 StR 50/03](5-str-50-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 25.03.2003 - 5 StR 77/03](5-str-77-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 25.03.2003 - 5 StR 87/03](5-str-87-03.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 25.03.2003 - 5 StR 88/03](5-str-88-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 25.03.2003 - 5 StR 90/03](5-str-90-03.md) — Beihilfe zur Brandstiftung
 - [BGH, Beschluss vom 13.03.2003 - 5 StR 106/03](5-str-106-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 12.03.2003 - 5 StR 476/02](5-str-476-02.md) — gewerbsmäßiger Hinterziehung von Einfuhrumsatzsteuer
+- [BGH, Beschluss vom 12.03.2003 - 5 StR 67/03](5-str-67-03.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 11.03.2003 - 5 StR 100/03](5-str-100-03.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 27.02.2003 - 5 StR 224/02](5-str-224-02.md) — Beihilfe zur Untreue
 - [BGH, Beschluss vom 26.02.2003 - 5 StR 20/03](5-str-20-03.md) — sexuellen Mißbrauchs einer Schutzbefohlenen
 - [BGH, Beschluss vom 26.02.2003 - 5 StR 27/03](5-str-27-03.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 26.02.2003 - 5 StR 37/03](5-str-37-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
@@ -77,14 +154,25 @@
 - [BGH, Beschluss vom 26.02.2003 - 5 StR 423/02](5-str-423-02.md) — Geldwäsche aufgrund der Vorrangklausel des § 261 Abs. 9 Satz 2 StGB nicht zu erwarten und die der Geldwäsche zugrundeliegende Tat keine Kata
 - [BGH, Beschluss vom 26.02.2003 - 5 StR 70/03](5-str-70-03.md) — Vergewaltigung
 - [BGH, Urteil vom 25.02.2003 - 5 StR 363/02](5-str-363-02.md) — Vorteilsannahme
+- [BGH, Urteil vom 25.02.2003 - 5 StR 471/02](5-str-471-02.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 25.02.2003 - 5 StR 55/03](5-str-55-03.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 12.02.2003 - 5 StR 165/02](5-str-165-02.md) — : nein Veröffentlichung: ja AÜG § 9 Nr. 1, § 10 Abs. 1; StGB § 263, § 266a Abs. 1 a) Zu den Anforderungen an die Feststellung einer unerlaubten Arbeitnehmerüberlassung in …
+- [BGH, Urteil vom 12.02.2003 - 5 StR 425/02](5-str-425-02.md) — versuchter Strafvereitelung im Amt u.a.
+- [BGH, Beschluss vom 12.02.2003 - 5 StR 491/02](5-str-491-02.md) — besonders schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 11.02.2003 - 5 StR 402/02](5-str-402-02.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 11.02.2003 - 5 StR 573/02](5-str-573-02.md) — Totschlags
+- [BGH, Beschluss vom 29.01.2003 - 5 StR 562/02](5-str-562-02.md) — versuchter gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 28.01.2003 - 5 StR 310/02](5-str-310-02.md) — Mordes u.a.
+- [BGH, Urteil vom 28.01.2003 - 5 StR 378/02](5-str-378-02.md) — Bestechlichkeit u.a.
+- [BGH, Beschluss vom 28.01.2003 - 5 StR 438/02](5-str-438-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 28.01.2003 - 5 StR 589/02](5-str-589-02.md) — Betruges
 - [BGH, Urteil vom 15.01.2003 - 5 StR 223/02](5-str-223-02.md) — Totschlags
 - [BGH, Beschluss vom 15.01.2003 - 5 StR 251/02](5-str-251-02.md) — : ja Veröffentlichung : ja StPO § 142 Abs. 1 Gebotene Ablehnung der Bestellung eines vom Beschuldigten bezeichneten Rechtsanwalts zum Pflichtverteidiger bei konkreter Gefahr einer …
 - [BGH, Beschluss vom 15.01.2003 - 5 StR 270/02](5-str-270-02.md) — banden- und gewerbsmäßigen Einschleusens von Ausländern u.a.
 - [BGH, Beschluss vom 15.01.2003 - 5 StR 362/02](5-str-362-02.md) — Steuerhinterziehung u.a.
 - [BGH, Beschluss vom 15.01.2003 - 5 StR 525/02](5-str-525-02.md) — Betruges u.a.
 - [BGH, Beschluss vom 15.01.2003 - 5 StR 541/02](5-str-541-02.md) — Mordes
+- [BGH, Beschluss vom 14.01.2003 - 5 StR 297/02](5-str-297-02.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 14.01.2003 - 5 StR 354/02](5-str-354-02.md) — Anstiftung zum versuchten Mord u.a.
 - [BGH, Beschluss vom 14.01.2003 - 5 StR 370/02](5-str-370-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 14.01.2003 - 5 StR 478/02](5-str-478-02.md) — versuchten Mordes u.a.

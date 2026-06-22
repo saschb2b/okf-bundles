@@ -1,26 +1,89 @@
 # X. Zivilsenat – 2002
 
-36 Entscheidung(en).
+108 Entscheidung(en).
 
-- [BGH, Beschluss vom 17.12.2002 - X ZB 21/01](x-zb-21-01.md) — BGH, Beschluss vom 17.12.2002 - X ZB 21/01
+- [BGH, Beschluss vom 17.12.2002 - X ZB 27/02](x-zb-27-02.md) — I. Das Beschwerdegericht hat mit Urteil vom 31. Oktober 2001 die Berufung der Beklagten gegen das klageabweisende Urteil des Landgerichts zurückgewiesen. Die Klägerin hat …
+- [BGH, Beschluss vom 17.12.2002 - X ZB 36/02](x-zb-36-02.md) — greifbarer Gesetzwidrigkeiten" eingelegt hat.
+- [BGH, Beschluss vom 17.12.2002 - X ZB 9/02](x-zb-9-02.md) — I. Die Klägerin hat gegen das landgerichtliche Urteil, durch das die von ihr erhobene Schadensersatzklage abgewiesen worden ist, Berufung eingelegt. Mit Schreiben vom 12. April …
+- [BGH, Urteil vom 17.12.2002 - X ZR 155/99](x-zr-155-99.md) — Berichtigt durch Beschluß vom 19. Februar 2003 Wermes Justizhauptsekretär als Urkundsbeamter der Geschäftsstelle
+- [BGH, Beschluss vom 17.12.2002 - X ZR 189/02](x-zr-189-02.md) — Die Klägerin hat gegen das ihr am 19. Juli 2002 zugestellte Urteil des Bundespatentgerichts mit Schriftsatz ihres Prozeßbevollmächtigten, eingegangen beim Bundesgerichtshof per …
+- [BGH, Urteil vom 17.12.2002 - X ZR 220/01](x-zr-220-01.md) — Berichtigt durch Beschluß vom 21. Januar 2003 Wermes Justizhauptsekretär als Urkundsbeamter der Geschäftsstelle
+- [BGH, Urteil vom 10.12.2002 - X ZR 10/99](x-zr-10-99.md) — Tatbestand:
+- [BGH, Urteil vom 10.12.2002 - X ZR 193/99](x-zr-193-99.md) — 3-
 - [BGH, Beschluss vom 03.12.2002 - X ZB 20/02](x-zb-20-02.md) — Die Beschwerde des Antragstellers ist unzulässig.
+- [BGH, Urteil vom 03.12.2002 - X ZR 148/99](x-zr-148-99.md) — Tatbestand:
 - [BGH, Beschluss vom 19.11.2002 - X ZB 19/02](x-zb-19-02.md) — I. Der Beklagte ist vom Amtsgericht Starnberg zur Zahlung eines Geldbetrags verurteilt worden. Nach fristgerechter Berufungseinlegung ist die an das für das Berufungsverfahren …
+- [BGH, Beschluss vom 19.11.2002 - X ZB 23/01](x-zb-23-01.md) — I. Die Anmelderinnen haben am 5. Februar 2000 beim Deutschen Patentund Markenamt auf dem dafür vorgesehenen Formblatt einen Antrag auf Eintragung eines Gebrauchsmusters …
+- [BGH, Urteil vom 19.11.2002 - X ZR 121/99](x-zr-121-99.md) — Berichtigt durch Beschluß vom 4. Dezember 2002 Potsch Justizangestellte als Urkundsbeamtin der Geschäftsstelle
 - [BGH, Urteil vom 19.11.2002 - X ZR 243/01](x-zr-243-01.md) — Tatbestand: Der Kläger ist ein in die Liste qualifizierter Einrichtungen nach § 22 a AGBG (jetzt § 4 Abs. 1 Nr. 1 UKlaG) eingetragener Verei
-- [BGH, Beschluss vom 12.11.2002 - X ZR 176/01](x-zr-176-01.md) — Besorgnis der Befangenheit grundsätzlich nicht rechtfertigt.
+- [BGH, Urteil vom 19.11.2002 - X ZR 253/01](x-zr-253-01.md) — Verstoßes gegen das Transparenzgebot des § 9 Abs. 1 AGBG unwirksam.
+- [BGH, Beschluss vom 12.11.2002 - X ZB 37/02](x-zb-37-02.md) — Das Rechtsmittel ist unzulässig. Für das Verfahren auf gerichtliche Bestimmung des zuständigen Gerichts fehlt es im Gesetz an einer ausdrücklichen Bestimmung, die das Rechtsmittel …
+- [BGH, Beschluss vom 12.11.2002 - X ZB 38/02](x-zb-38-02.md) — Das Rechtsmittel ist unzulässig. Für das Verfahren auf gerichtliche Bestimmung des zuständigen Gerichts fehlt es im Gesetz an einer ausdrücklichen Bestimmung, die das Rechtsmittel …
+- [BGH, Beschluss vom 12.11.2002 - X ZB 39/02](x-zb-39-02.md) — Das als weitere Beschwerde bezeichnete Rechtsmittel vom 10.
+- [BGH, Urteil vom 12.11.2002 - X ZR 118/99](x-zr-118-99.md) — Tatbestand: Der Beklagte ist eingetragener Inhaber des deutschen Patents 40 26 777 (Streitpatents I), das am 24. August 1990 angemeldet word
+- [BGH, Beschluss vom 12.11.2002 - X ZR 130/02](x-zr-130-02.md) — I. Der Antragsteller hat gegen die Nichtzulassung der Revision gegen das Urteil des 6. Zivilsenats des Oberlandesgerichts Frankfurt am Main vom 4. April 2002 Beschwerde eingelegt …
+- [BGH, Beschluss vom 05.11.2002 - X ZB 22/02](x-zb-22-02.md) — einer in Auftrag gegebenen, auf Wunsch
+- [BGH, Beschluss vom 05.11.2002 - X ZB 29/02](x-zb-29-02.md) — I. Der Kläger begehrt von der Beklagten die Rückzahlung eines geminderten Reisepreises für eine Pauschalreise. Das Amtsgericht hat über die Klage am 19. Dezember 2001 mündlich …
+- [BGH, Beschluss vom 05.11.2002 - X ZR 136/99](x-zr-136-99.md) — Besorgnis der Befangenheit abzu-
+- [BGH, Urteil vom 05.11.2002 - X ZR 140/01](x-zr-140-01.md) — 3-
+- [BGH, Beschluss vom 05.11.2002 - X ZR 175/01](x-zr-175-01.md) — Besorgnis der Befangenheit abzu-
+- [BGH, Urteil vom 05.11.2002 - X ZR 232/00](x-zr-232-00.md) — Tatbestand:
 - [BGH, Urteil vom 22.10.2002 - X ZR 115/99](x-zr-115-99.md) — Tatbestand:
 - [BGH, Urteil vom 15.10.2002 - X ZR 132/01](x-zr-132-01.md) — Tatbestand:
 - [BGH, Urteil vom 15.10.2002 - X ZR 147/01](x-zr-147-01.md) — nicht voraussehbarer höherer Gewalt besteht auch dann, wenn mit dem Eintritt des schädigenden Ereignisses (hier: Hurrikan im Zielgebiet in d
+- [BGH, Urteil vom 15.10.2002 - X ZR 69/01](x-zr-69-01.md) — Tatbestand:
 - [BGH, Urteil vom 09.10.2002 - X ZR 22/99](x-zr-22-99.md) — BGH, Urteil vom 09.10.2002 - X ZR 22/99
 - [BGH, Urteil vom 09.10.2002 - X ZR 80/01](x-zr-80-01.md) — Tatbestand: Die Klägerin betreibt eine Werbeagentur. Sie nimmt die Beklagte, eine Einzelhandelsfilialistin mit zahlreichen Filialen, auf Zah
+- [BGH, Urteil vom 01.10.2002 - X ZR 112/99](x-zr-112-99.md) — Tatbestand:
+- [BGH, Beschluss vom 30.09.2002 - X ZB 18/01](x-zb-18-01.md) — I. Die Rechtsbeschwerdegegnerin ist Inhaberin des einen Sammelhefter betreffenden deutschen Patents 36 45 276 (Streitpatents), das mit folgendem einzigen Patentanspruch erteilt …
+- [BGH, Beschluss vom 17.09.2002 - X ZB 30/02](x-zb-30-02.md) — greifbarer Gesetzwidrigkeit (BGH, Beschl. v. 7.3.2002 - IX ZB 11/02, NJW 2002, 1577).
+- [BGH, Urteil vom 17.09.2002 - X ZR 1/99](x-zr-1-99.md) — BGH, Urteil vom 17.09.2002 - X ZR 1/99
+- [BGH, Urteil vom 17.09.2002 - X ZR 196/01](x-zr-196-01.md) — Tatbestand: Der 1935 geborene Kläger verlangt von der Beklagten, seiner Tochter, Herausgabe und Rückauflassung eines Hausgrundstücks auf der
+- [BGH, Versäumnisurteil vom 17.09.2002 - X ZR 225/00](x-zr-225-00.md) — Tatbestand:
+- [BGH, Urteil vom 17.09.2002 - X ZR 237/01](x-zr-237-01.md) — Tatbestand:
+- [BGH, Urteil vom 17.09.2002 - X ZR 248/00](x-zr-248-00.md) — Tatbestand:
 - [BGH, Beschluss vom 10.09.2002 - X ZB 11/02](x-zb-11-02.md) — Verletzung des Grundgesetzes (gesetzlicher Richter) oder einer sonstigen greifbaren Gesetzwidrigkeit.
+- [BGH, Urteil vom 10.09.2002 - X ZR 199/01](x-zr-199-01.md) — Tatbestand: Der Kläger trat zum 1. Januar 1988 als Angestellter in die Dienste der Beklagten. Dem Anstellungsvertrag vom 7. Dezember 1987 en
+- [BGH, Beschluss vom 26.08.2002 - X ZA 5/01](x-za-5-01.md) — Als Beschwerde ist die Eingabe des Klägers unzulässig.
+- [BGH, Beschluss vom 23.07.2002 - X ZB 13/02](x-zb-13-02.md) — A. Der Antragsteller hat die Patentanmeldung P 44 04 860.2-41 getätigt. Am 19. Juni 2000 hat hierüber eine Anhörung stattgefunden. Danach soll Patentanspruch 1 wie folgt lauten …
+- [BGH, Beschluss vom 23.07.2002 - X ZB 14/02](x-zb-14-02.md) — A. Der Antragsteller hat die Patentanmeldung P 44 17 254.0-41 getätigt. Am 19. Juni 2000 hat hierüber eine Anhörung stattgefunden. Danach soll Patentanspruch 1 wie folgt lauten …
+- [BGH, Beschluss vom 23.07.2002 - X ZB 15/02](x-zb-15-02.md) — A. Der Antragsteller hat die Patentanmeldung P 44 15 087.3-41 getätigt. Am 19. Juni 2000 hat hierüber eine Anhörung stattgefunden. Danach soll Patentanspruch 1 wie folgt lauten …
+- [BGH, Beschluss vom 23.07.2002 - X ZB 21/02](x-zb-21-02.md) — Die Eingabe des Beklagten vom 30. Juni 2002 mit der er - sinngemäß beantragt, den angefochtenen Beschluß aufzuheben, ist als Rechtsbeschwerde gegen diesen Beschluß zu behandeln …
+- [BGH, Urteil vom 16.07.2002 - X ZR 195/98](x-zr-195-98.md) — Tatbestand: Die Beklagte ist eingetragene Inhaberin des am 22. April 1986 unter Inanspruchnahme der Priorität zweier deutscher Patentanmeldu
+- [BGH, Urteil vom 16.07.2002 - X ZR 250/00](x-zr-250-00.md) — Tatbestand:
+- [BGH, Urteil vom 16.07.2002 - X ZR 27/01](x-zr-27-01.md) — Tatbestand: Die Klägerin entwickelt und vertreibt Diagnostika. Die Beklagte ist eine Stiftung bürgerlichen Rechts, die das H.-Institut für e
+- [BGH, Beschluss vom 16.07.2002 - X ZR 37/01](x-zr-37-01.md) — offenbarer Unrichtigkeit (§ 319 ZPO) berichtigt und in Ziffer 1 wie folgt gefaßt wird:
 - [BGH, Urteil vom 09.07.2002 - X ZR 154/00](x-zr-154-00.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2002 - X ZR 242/99](x-zr-242-99.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2002 - X ZR 244/00](x-zr-244-00.md) — BGH, Urteil vom 09.07.2002 - X ZR 244/00
 - [BGH, Urteil vom 09.07.2002 - X ZR 70/00](x-zr-70-00.md) — eines mit der Widerklage geltend gemachten Betrages von 6.758.139,94 DM nebst anteiliger Zinsen und des mit der Widerklage verfolgten Festst
+- [BGH, Urteil vom 25.06.2002 - X ZR 150/00](x-zr-150-00.md) — Tatbestand:
+- [BGH, Urteil vom 25.06.2002 - X ZR 78/00](x-zr-78-00.md) — eines Betrags von 59.416,97 DM nebst anteiligen Zinsen zurückgewiesen worden ist.
+- [BGH, Urteil vom 25.06.2002 - X ZR 83/00](x-zr-83-00.md) — Rubrum berichtigt durch Beschluß vom 23. Juli 2002 Wermes Justizhauptsekretär als Urkundsbeamter der Geschäftsstelle
+- [BGH, Beschluss vom 11.06.2002 - X ZB 17/02](x-zb-17-02.md) — Die gegen die Zurückweisung eines Antrags auf Urteilsberichtigung gerichtete Beschwerde ist - unabhängig davon, ob im vorliegenden Fall bereits die Regelung des § 319 Abs.
+- [BGH, Beschluss vom 11.06.2002 - X ZB 27/01](x-zb-27-01.md) — I. Der Rechtsbeschwerdeführer ist Inhaber des Patents 37 23 555, das ein "Verfahren zur Herstellung von Zahnersatz" betrifft. Patentanspruch 1 in der erteilten Fassung lautet …
+- [BGH, Urteil vom 11.06.2002 - X ZR 228/98](x-zr-228-98.md) — Tatbestand:
+- [BGH, Urteil vom 06.06.2002 - X ZR 214/00](x-zr-214-00.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 06.06.2002 - X ZR 68/00](x-zr-68-00.md) — 3-
 - [BGH, Urteil vom 28.05.2002 - X ZR 18/99](x-zr-18-99.md) — BGH, Urteil vom 28.05.2002 - X ZR 18/99
+- [BGH, Beschluss vom 14.05.2002 - X ZB 20/01](x-zb-20-01.md) — I. Die Rechtsbeschwerdeführer sind Inhaber des als Abzweigung aus der europäischen Patentanmeldung 89 311 373.8 vom 2. November 1989 beim Deutschen Patentamt eingereichten …
+- [BGH, Urteil vom 14.05.2002 - X ZR 144/00](x-zr-144-00.md) — Tatbestand:
+- [BGH, Urteil vom 14.05.2002 - X ZR 194/99](x-zr-194-99.md) — Tatbestand:
+- [BGH, Beschluss vom 30.04.2002 - X ZB 5/02](x-zb-5-02.md) — Die Beschwerde des Beklagten vom 15. Februar 2002, mit der er beantragt, den angefochtenen Beschluß aufzuheben, ist statthaft, weil sie das Beschwerdegericht zugelassen hat (§ 574 …
+- [BGH, Urteil vom 30.04.2002 - X ZR 217/98](x-zr-217-98.md) — Tatbestand:
+- [BGH, Beschluss vom 23.04.2002 - X ZB 5/01](x-zb-5-01.md) — der Spiralstruktur; wobei die Kontrolleinrichtung (1403; 1503; 1603) ein Stylett (200; 205; 2801) umfaßt, welches in dem äußeren Rohr (1302;
 - [BGH, Urteil vom 23.04.2002 - X ZR 209/99](x-zr-209-99.md) — Tatbestand:
 - [BGH, Urteil vom 23.04.2002 - X ZR 29/00](x-zr-29-00.md) — des Zahlungsantrags zu 1 a) und der Feststellungsanträge 3 bis 5 abgewiesen worden ist. Auf die Anschlußrevision der Beklagten wird das Urte
 - [BGH, Beschluss vom 23.04.2002 - X ZR 83/01](x-zr-83-01.md) — Der Senat hat den Antragsteller gebeten mitzuteilen, ob er dazu in der Lage und bereit sei, als gerichtlicher Sachverständiger ein schriftliches Gutachten zu erstatten.
+- [BGH, Urteil vom 16.04.2002 - X ZR 17/01](x-zr-17-01.md) — Tatbestand:
+- [BGH, Urteil vom 16.04.2002 - X ZR 28/01](x-zr-28-01.md) — Tatbestand:
+- [BGH, Urteil vom 16.04.2002 - X ZR 67/00](x-zr-67-00.md) — Tatbestand:
+- [BGH, Beschluss vom 09.04.2002 - X ZB 6/02](x-zb-6-02.md) — Die Eingabe des Beklagten vom 26. Februar 2002, mit der er beantragt, den Beschluß des Landgerichts Köln vom 19. Februar 2002 aufzuheben, ist als Rechtsbeschwerde gegen diesen …
+- [BGH, Beschluss vom 09.04.2002 - X ZR 141/00](x-zr-141-00.md) — des am 12. Dezember 2001 verkündeten Urteils wird dahingehend berichtigt, daß es auf Seite 3 in der drittletzten Zeile statt "die Parteien" richtig "die Beklagten" heißt. Gründe …
+- [BGH, Urteil vom 09.04.2002 - X ZR 228/00](x-zr-228-00.md) — Tatbestand: Der Kläger ist Eigentümer eines Werksgeländes am W.-D.-K. in V., auf dem er ein Blockheizkraftwerk errichten wollte. Er schloß d
+- [BGH, Urteil vom 19.03.2002 - X ZR 125/00](x-zr-125-00.md) — Berichtigt durch Beschluß vom 14. Juni 2002 Wermes Justizhauptsekretär als Urkundsbeamter der Geschäftsstelle
+- [BGH, Urteil vom 19.03.2002 - X ZR 157/99](x-zr-157-99.md) — Tatbestand:
+- [BGH, Urteil vom 19.03.2002 - X ZR 49/00](x-zr-49-00.md) — Tatbestand:
 - [BGH, Beschluss vom 12.03.2002 - X ZB 12/00](x-zb-12-00.md) — BGH, Beschluss vom 12.03.2002 - X ZB 12/00
 - [BGH, Urteil vom 12.03.2002 - X ZR 135/01](x-zr-135-01.md) — Tatbestand:
 - [BGH, Urteil vom 12.03.2002 - X ZR 168/00](x-zr-168-00.md) — Tatbestand: Die Klägerin ist Inhaberin einer ausschließlichen Lizenz an dem am 12. Juni 1987 angemeldeten deutschen Patent 37 19 721 (Klagep
@@ -28,13 +91,22 @@
 - [BGH, Versäumnisurteil vom 12.03.2002 - X ZR 226/99](x-zr-226-99.md) — immaterieller Schäden (Schmerzensgeld) gegen den Beklagten zu 1 zuerkannt worden sind.
 - [BGH, Urteil vom 12.03.2002 - X ZR 43/01](x-zr-43-01.md) — BGH, Urteil vom 12.03.2002 - X ZR 43/01
 - [BGH, Urteil vom 12.03.2002 - X ZR 73/01](x-zr-73-01.md) — Tatbestand:
+- [BGH, Beschluss vom 26.02.2002 - X ZB 3/01](x-zb-3-01.md) — I. Die Antragstellerin ist eingetragene Inhaberin des aus einer europäischen Patentanmeldung abgezweigten, am 26. Juli 1993 angemeldeten Gebrauchsmusters 92 18 219, das eine …
+- [BGH, Urteil vom 26.02.2002 - X ZR 204/98](x-zr-204-98.md) — BGH, Urteil vom 26.02.2002 - X ZR 204/98
+- [BGH, Beschluss vom 26.02.2002 - X ZR 36/01](x-zr-36-01.md) — des unstreitigen Vertriebs der angegriffenen Funkuhren in Deutschland die Klageansprüche aus §§ 139 Abs. 1 und 2, 140 a, 33 PatG, 242 BGB zu
+- [BGH, Urteil vom 19.02.2002 - X ZR 140/99](x-zr-140-99.md) — 3-
+- [BGH, Urteil vom 19.02.2002 - X ZR 166/99](x-zr-166-99.md) — einer Forderung von mehr als 132.445,50 DM (Entwicklungskosten) abgewiesen,
+- [BGH, Urteil vom 06.02.2002 - X ZR 185/99](x-zr-185-99.md) — nach gerechtfertigt. Im übrigen wird der Rechtsstreit zur anderweiten Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht …
+- [BGH, Urteil vom 06.02.2002 - X ZR 215/00](x-zr-215-00.md) — Tatbestand:
 - [BGH, Beschluss vom 29.01.2002 - X ZB 12/01](x-zb-12-01.md) — BGH, Beschluss vom 29.01.2002 - X ZB 12/01
 - [BGH, Urteil vom 29.01.2002 - X ZR 231/00](x-zr-231-00.md) — Tatbestand:
 - [BGH, Urteil vom 23.01.2002 - X ZR 184/99](x-zr-184-99.md) — Tatbestand: Die Klägerin begehrt Restwerklohn für eine Müllpreßanlage und Zahlung von Reparaturkosten; der Beklagte verlangt im Wege der Wid
+- [BGH, Urteil vom 23.01.2002 - X ZR 212/98](x-zr-212-98.md) — Tatbestand:
 - [BGH, Urteil vom 23.01.2002 - X ZR 218/99](x-zr-218-99.md) — Tatbestand:
 - [BGH, Teilurteil vom 23.01.2002 - X ZR 236/00](x-zr-236-00.md) — Tatbestand und Entscheidungsgründe:
 - [BGH, Urteil vom 15.01.2002 - X ZR 233/00](x-zr-233-00.md) — BGH, Urteil vom 15.01.2002 - X ZR 233/00
 - [BGH, Urteil vom 15.01.2002 - X ZR 31/00](x-zr-31-00.md) — Tatbestand:
+- [BGH, Urteil vom 15.01.2002 - X ZR 77/00](x-zr-77-00.md) — Tatbestand:
 - [BGH, Urteil vom 15.01.2002 - X ZR 91/00](x-zr-91-00.md) — Tatbestand: Die Klägerin beteiligte sich an einer Ausschreibung des Beklagten und erhielt den Auftrag (im folgenden: ursprünglicher Vertrag)
 - [BGH, Urteil vom 08.01.2002 - X ZR 225/98](x-zr-225-98.md) — Tatbestand: Der Beklagte ist eingetragener Inhaber des am 28. September 1989 angemeldeten deutschen Patents 39 32 473 (Streitpatents), das e
 - [BGH, Urteil vom 08.01.2002 - X ZR 6/00](x-zr-6-00.md) — Tatbestand:

@@ -1,42 +1,117 @@
 # VI. Zivilsenat – 2009
 
-38 Entscheidung(en).
+113 Entscheidung(en).
 
+- [BGH, Beschluss vom 15.12.2009 - VI ZB 51/09](vi-zb-51-09.md) — I. 1 Der Kläger verlangt von der Beklagten Zahlung von Schmerzensgeld und die Feststellung, dass die Beklagte zum Ersatz der künftigen materiellen und immateriellen Schäden aus …
 - [BGH, Urteil vom 15.12.2009 - VI ZR 227/08](vi-zr-227-08.md) — Tatbestand:
 - [BGH, Urteil vom 15.12.2009 - VI ZR 228/08](vi-zr-228-08.md) — Tatbestand:
 - [BGH, Urteil vom 08.12.2009 - VI ZR 119/09](vi-zr-119-09.md) — Tatbestand:
+- [BGH, Beschluss vom 07.12.2009 - VI ZR 116/07](vi-zr-116-07.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Gehörs- rüge ist nicht begründet.
+- [BGH, Urteil vom 01.12.2009 - VI ZR 221/08](vi-zr-221-08.md) — entgangenen Unterhalts geltend zu machen, wenn sie sowohl eine gesetzliche Hinterbliebenenrente als auch eine betriebliche Zusatzversorgung
+- [BGH, Versäumnisurteil vom 01.12.2009 - VI ZR 319/07](vi-zr-319-07.md) — BGH, Versäumnisurteil vom 01.12.2009 - VI ZR 319/07
 - [BGH, Beschluss vom 24.11.2009 - VI ZB 36/09](vi-zb-36-09.md) — I. 1 Das Landgericht hat mit Urteil vom 18. Dezember 2008, den Prozessbe- vollmächtigten des Klägers zugestellt am 29. Dezember 2008, die Klage abge- wiesen. Am 27. Januar 2009 …
+- [BGH, Beschluss vom 24.11.2009 - VI ZB 69/08](vi-zb-69-08.md) — Nichteinhaltung der Berufungsbe-
 - [BGH, Urteil vom 24.11.2009 - VI ZR 219/08](vi-zr-219-08.md) — Tatbestand:
+- [BGH, Beschluss vom 17.11.2009 - VI ZB 58/08](vi-zb-58-08.md) — des Verdachts der schweren Untreue im Sinne von § 266 Abs. 2 StGB und des Verrats von Betriebs- und Geschäftsgeheimnissen gemäß § 17 UWG bzw
+- [BGH, Urteil vom 17.11.2009 - VI ZR 226/08](vi-zr-226-08.md) — Tatbestand:
+- [BGH, Urteil vom 17.11.2009 - VI ZR 58/08](vi-zr-58-08.md) — Tatbestand:
+- [BGH, Urteil vom 17.11.2009 - VI ZR 64/08](vi-zr-64-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.11.2009 - VI ZB 25/09](vi-zb-25-09.md) — I. 1 Die Klägerin, eine in Cardiff gegründete Limited Company mit satzungs- mäßigem Sitz in Birmingham (Vereinigtes Königreich), macht gegen die Beklag- ten …
 - [BGH, Beschluss vom 10.11.2009 - VI ZR 217/08](vi-zr-217-08.md) — BGH, Beschluss vom 10.11.2009 - VI ZR 217/08
 - [BGH, Urteil vom 10.11.2009 - VI ZR 247/08](vi-zr-247-08.md) — eines ärztlichen Behandlungsfehlers begründenden Umständen.
+- [BGH, Beschluss vom 10.11.2009 - VI ZR 325/08](vi-zr-325-08.md) — 1. Die Klägerin, die sich vom 17. Februar 1997 bis zum 28. Januar 2000 in zahnärztlicher Behandlung des Beklagten befand, hat diesen auf Rückzah- lung von Honorar sowie auf Ersatz …
+- [BGH, Beschluss vom 02.11.2009 - VI ZB 48/09](vi-zb-48-09.md) — Der Antrag des Klägers auf Bestellung eines Notanwalts ist abzulehnen, weil die vom Kläger beabsichtigte Rechtsverfolgung als aussichtslos erscheint (§ 78b Abs.
+- [BGH, Beschluss vom 02.11.2009 - VI ZR 341/08](vi-zr-341-08.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
+- [BGH, Urteil vom 27.10.2009 - VI ZR 296/08](vi-zr-296-08.md) — Tatbestand:
 - [BGH, Beschluss vom 20.10.2009 - VI ZB 53/08](vi-zb-53-08.md) — BGH, Beschluss vom 20.10.2009 - VI ZB 53/08
+- [BGH, Beschluss vom 20.10.2009 - VI ZR 239/08](vi-zr-239-08.md) — BGH, Beschluss vom 20.10.2009 - VI ZR 239/08
+- [BGH, Beschluss vom 20.10.2009 - VI ZR 281/08](vi-zr-281-08.md) — keine hinreichende Erfolgsaussicht, weil das Berufungsgericht bei der gegebenen Sachlage zu Recht das prozessuale Verhalten des Beklagten al
 - [BGH, Urteil vom 20.10.2009 - VI ZR 53/09](vi-zr-53-09.md) — Tatbestand:
 - [BGH, Urteil vom 13.10.2009 - VI ZR 288/08](vi-zr-288-08.md) — verspäteter Insolvenzantragstellung auf Ersatz von ihr geleisteten Insolvenzgeldes aus § 826 BGB in Anspruch, so stellt sich der Einwand des
+- [BGH, Urteil vom 13.10.2009 - VI ZR 318/08](vi-zr-318-08.md) — Tatbestand:
 - [BGH, Beschluss vom 12.10.2009 - VI ZB 57/09](vi-zb-57-09.md) — BGH, Beschluss vom 12.10.2009 - VI ZB 57/09
+- [BGH, Beschluss vom 06.10.2009 - VI ZB 18/08](vi-zb-18-08.md) — I. 1 Die Parteien streiten über die Auslegung der zeitlichen Zulässigkeits- schranke einer Streitwertbeschwerde nach §§ 68 Abs. 1 Satz 3, 63 Abs. 3 Satz 2 GKG. 2 Das Landgericht …
+- [BGH, Beschluss vom 06.10.2009 - VI ZB 19/08](vi-zb-19-08.md) — I. 1 Die Parteien streiten über die Auslegung der zeitlichen Zulässigkeits- schranke einer Streitwertbeschwerde nach §§ 68 Abs. 1 Satz 3, 63 Abs. 2 Satz 3 GKG. 2 Das Landgericht …
+- [BGH, Urteil vom 06.10.2009 - VI ZR 24/09](vi-zr-24-09.md) — Tatbestand:
+- [BGH, Urteil vom 06.10.2009 - VI ZR 314/08](vi-zr-314-08.md) — Tatbestand:
+- [BGH, Urteil vom 06.10.2009 - VI ZR 315/08](vi-zr-315-08.md) — Tatbestand:
+- [BGH, Urteil vom 06.10.2009 - VI ZR 316/08](vi-zr-316-08.md) — Tatbestand:
+- [BGH, Beschluss vom 29.09.2009 - VI ZR 149/08](vi-zr-149-08.md) — eines
+- [BGH, Urteil vom 29.09.2009 - VI ZR 251/08](vi-zr-251-08.md) — Tatbestand:
+- [BGH, Beschluss vom 22.09.2009 - VI ZB 76/08](vi-zb-76-08.md) — I. 1 Die Klägerin erlitt am 6. Mai 2000 einen Verkehrsunfall, bei dem sie er- heblich verletzt wurde. Sie hat den Beklagten zu 1 als Unfallverursacher und die Beklagte zu 2, die …
+- [BGH, Urteil vom 22.09.2009 - VI ZR 19/08](vi-zr-19-08.md) — Tatbestand:
+- [BGH, Urteil vom 22.09.2009 - VI ZR 312/08](vi-zr-312-08.md) — Tatbestand:
+- [BGH, Beschluss vom 22.09.2009 - VI ZR 32/09](vi-zr-32-09.md) — Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs.
+- [BGH, Beschluss vom 15.09.2009 - VI ZA 13/09](vi-za-13-09.md) — des in § 393 BGB geregelten Aufrechnungsverbots nicht durchgreifen lassen. Da in Literatur und Rechtsprechung umstritten sei, ob diese Vorsc
+- [BGH, Beschluss vom 15.09.2009 - VI ZR 287/08](vi-zr-287-08.md) — Im Fall der Einlegung eines Rechtsmittels gegen die Verurteilung zur Erteilung einer Auskunft, zur Rechnungslegung, zur Einsichtgewährung in bestimmte Unterlagen, zur Abgabe einer …
 - [BGH, Beschluss vom 15.09.2009 - VI ZR 8/09](vi-zr-8-09.md) — BGH, Beschluss vom 15.09.2009 - VI ZR 8/09
+- [BGH, Beschluss vom 14.09.2009 - VI ZR 92/06](vi-zr-92-06.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Gehörs- rüge ist nicht begründet.
+- [BGH, Beschluss vom 11.08.2009 - VI ZR 163/08](vi-zr-163-08.md) — Die statthafte (vgl. Zöller/Vollkommer ZPO 26. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte …
 - [BGH, Beschluss vom 11.08.2009 - VI ZR 215/08](vi-zr-215-08.md) — BGH, Beschluss vom 11.08.2009 - VI ZR 215/08
+- [BGH, Beschluss vom 05.08.2009 - VI ZR 344/08](vi-zr-344-08.md) — nachzugehen und später beigebrachte Erkenntnisquellen im Betreuungsverfahren auszuschöpfen. Jedenfalls hätte das Berufungsgericht die durch
 - [BGH, Beschluss vom 04.08.2009 - VI ZR 174/08](vi-zr-174-08.md) — Ab-
+- [BGH, Beschluss vom 04.08.2009 - VI ZR 243/08](vi-zr-243-08.md) — BGH, Beschluss vom 04.08.2009 - VI ZR 243/08
+- [BGH, Beschluss vom 04.08.2009 - VI ZR 246/08](vi-zr-246-08.md) — BGH, Beschluss vom 04.08.2009 - VI ZR 246/08
+- [BGH, Urteil vom 07.07.2009 - VI ZR 278/08](vi-zr-278-08.md) — Tatbestand:
+- [BGH, Urteil vom 30.06.2009 - VI ZR 210/08](vi-zr-210-08.md) — Tatbestand:
+- [BGH, Urteil vom 30.06.2009 - VI ZR 266/08](vi-zr-266-08.md) — Tatbestand:
 - [BGH, Urteil vom 30.06.2009 - VI ZR 310/08](vi-zr-310-08.md) — Tatbestand:
+- [BGH, Beschluss vom 30.06.2009 - VI ZR 339/08](vi-zr-339-08.md) — hartnäckiger
 - [BGH, Beschluss vom 30.06.2009 - VI ZR 340/08](vi-zr-340-08.md) — hartnäckiger
+- [BGH, Urteil vom 23.06.2009 - VI ZR 196/08](vi-zr-196-08.md) — Tatbestand:
+- [BGH, Urteil vom 23.06.2009 - VI ZR 232/08](vi-zr-232-08.md) — 3-
+- [BGH, Beschluss vom 23.06.2009 - VI ZR 284/08](vi-zr-284-08.md) — für die Bestellung eines anderen Notanwalts vorgetragen sind.
 - [BGH, Urteil vom 16.06.2009 - VI ZR 107/08](vi-zr-107-08.md) — Tatbestand:
+- [BGH, Urteil vom 16.06.2009 - VI ZR 157/08](vi-zr-157-08.md) — Tatbestand:
 - [BGH, Beschluss vom 15.06.2009 - VI ZA 12/08](vi-za-12-08.md) — Der Antragsteller hat sein Ablehnungsgesuch damit begründet, dass die abgelehnten Richter in einem Parallelverfahren VI ZA 22/08 den dort gestell- ten Antrag des Beklagten und …
 - [BGH, Urteil vom 09.06.2009 - VI ZR 110/08](vi-zr-110-08.md) — Tatbestand:
 - [BGH, Beschluss vom 09.06.2009 - VI ZR 138/08](vi-zr-138-08.md) — 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
+- [BGH, Beschluss vom 09.06.2009 - VI ZR 179/08](vi-zr-179-08.md) — BGH, Beschluss vom 09.06.2009 - VI ZR 179/08
+- [BGH, Beschluss vom 09.06.2009 - VI ZR 261/08](vi-zr-261-08.md) — 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
 - [BGH, Beschluss vom 26.05.2009 - VI ZB 71/08](vi-zb-71-08.md) — BGH, Beschluss vom 26.05.2009 - VI ZB 71/08
+- [BGH, Versäumnisurteil vom 26.05.2009 - VI ZR 191/08](vi-zr-191-08.md) — Tatbestand:
 - [BGH, Beschluss vom 19.05.2009 - VI ZA 10/09](vi-za-10-09.md) — BGH, Beschluss vom 19.05.2009 - VI ZA 10/09
+- [BGH, Beschluss vom 19.05.2009 - VI ZB 2/09](vi-zb-2-09.md) — eines
 - [BGH, Urteil vom 19.05.2009 - VI ZR 160/08](vi-zr-160-08.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2009 - VI ZR 56/08](vi-zr-56-08.md) — Tatbestand:
+- [BGH, Beschluss vom 18.05.2009 - VI ZR 39/09](vi-zr-39-09.md) — behaupteter Folgen
+- [BGH, Beschluss vom 12.05.2009 - VI ZR 268/08](vi-zr-268-08.md) — BGH, Beschluss vom 12.05.2009 - VI ZR 268/08
+- [BGH, Beschluss vom 12.05.2009 - VI ZR 275/08](vi-zr-275-08.md) — 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
 - [BGH, Urteil vom 12.05.2009 - VI ZR 294/08](vi-zr-294-08.md) — der Vorenthaltung von Gesamtsozialversicherungsbeiträgen.
+- [BGH, Urteil vom 05.05.2009 - VI ZR 208/08](vi-zr-208-08.md) — Tatbestand:
 - [BGH, Urteil vom 21.04.2009 - VI ZR 304/07](vi-zr-304-07.md) — Tatbestand:
+- [BGH, Beschluss vom 06.04.2009 - VI ZB 88/08](vi-zb-88-08.md) — der grundsätzlichen Bedeutung der Sache und
+- [BGH, Beschluss vom 24.03.2009 - VI ZB 89/08](vi-zb-89-08.md) — I. 1 1. Die Klägerin, die am 19. Juli 2001 beim Besuch der Zentrale für Gärt- ner- und Floristikbedarf der Beklagten in N. einen Unfall erlitt, als auf dem Frei- gelände ein …
+- [BGH, Beschluss vom 24.03.2009 - VI ZR 161/08](vi-zr-161-08.md) — der betreffenden Bild- und Textbeiträge eine Geldentschädigung für erforderlich erachtet. Vorliegend beanstandet der Kläger in erster Linie
+- [BGH, Urteil vom 24.03.2009 - VI ZR 199/08](vi-zr-199-08.md) — Tatbestand:
+- [BGH, Urteil vom 24.03.2009 - VI ZR 51/08](vi-zr-51-08.md) — Tatbestand:
+- [BGH, Urteil vom 24.03.2009 - VI ZR 79/08](vi-zr-79-08.md) — Tatbestand:
+- [BGH, Beschluss vom 17.03.2009 - VI ZA 1/08](vi-za-1-08.md) — keine Aussicht auf Erfolg, weil die Be-
+- [BGH, Beschluss vom 17.03.2009 - VI ZA 2/08](vi-za-2-08.md) — keine Aussicht auf Erfolg, weil die Be-
+- [BGH, Beschluss vom 17.03.2009 - VI ZA 2/09](vi-za-2-09.md) — der Verletzung des rechtlichen Gehörs des Beklagten und der Hinweispflicht des Richters aufgehoben und die Sache zu neuer Verhandlung und En
 - [BGH, Beschluss vom 17.03.2009 - VI ZB 14/08](vi-zb-14-08.md) — BGH, Beschluss vom 17.03.2009 - VI ZB 14/08
 - [BGH, Beschluss vom 17.03.2009 - VI ZB 20/08](vi-zb-20-08.md) — ihres Schadens aus einem Verkehrsunfall Schadensersatzansprüche geltend
 - [BGH, Beschluss vom 17.03.2009 - VI ZR 145/08](vi-zr-145-08.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
+- [BGH, Urteil vom 17.03.2009 - VI ZR 166/08](vi-zr-166-08.md) — Handelns auf eigene Gefahr kommt regelmäßig nicht in Betracht, wenn sich der Geschädigte der Tiergefahr ausgesetzt hat, um aufgrund vertragl
 - [BGH, Urteil vom 17.03.2009 - VI ZR 176/08](vi-zr-176-08.md) — Tatbestand:
+- [BGH, Beschluss vom 16.03.2009 - VI ZR 317/07](vi-zr-317-07.md) — offensichtlicher Unrichtigkeit dahingehend berichtigt, dass in den Entscheidungsgründen unter II. 2. b) der erste Satz wie folgt lautet:
+- [BGH, Beschluss vom 10.03.2009 - VI ZB 54/07](vi-zb-54-07.md) — der Versäumung der Berufungsbegründungsfrist hat der Beklagte Wiedereinsetzung in den vorigen Stand beantragt und dazu geltend gemacht, die
+- [BGH, Urteil vom 10.03.2009 - VI ZR 211/08](vi-zr-211-08.md) — Tatbestand:
 - [BGH, Urteil vom 10.03.2009 - VI ZR 261/07](vi-zr-261-07.md) — Tatbestand:
 - [BGH, Urteil vom 10.03.2009 - VI ZR 39/08](vi-zr-39-08.md) — Tatbestand:
+- [BGH, Beschluss vom 03.03.2009 - VI ZB 6/07](vi-zb-6-07.md) — der versäumten Berufungsbegründungsfrist
+- [BGH, Urteil vom 03.03.2009 - VI ZR 100/08](vi-zr-100-08.md) — Tatbestand:
 - [BGH, Beschluss vom 17.02.2009 - VI ZB 33/07](vi-zb-33-07.md) — I. 1 Das Landgericht hat den Beklagten mit Urteil vom 23. Februar 2007 un- ter Klageabweisung im Übrigen verurteilt, an die Klägerin 22.065,91 € nebst Zinsen zu zahlen. Gegen das …
 - [BGH, Beschluss vom 17.02.2009 - VI ZB 60/07](vi-zb-60-07.md) — I. 1 Der Kläger nimmt die Beklagten auf Schadensersatz aufgrund eines Ver- kehrsunfalls vom 4. Juli 2005 in Anspruch. Auf den ursprünglich geltend ge- machten Schaden von 3.053,61 …
 - [BGH, Beschluss vom 17.02.2009 - VI ZB 75/08](vi-zb-75-08.md) — der Versäumung der Beru-
+- [BGH, Urteil vom 17.02.2009 - VI ZR 75/08](vi-zr-75-08.md) — Tatbestand:
+- [BGH, Urteil vom 17.02.2009 - VI ZR 86/08](vi-zr-86-08.md) — Tatbestand:
 - [BGH, Urteil vom 10.02.2009 - VI ZR 28/08](vi-zr-28-08.md) — Tatbestand:
+- [BGH, Beschluss vom 03.02.2009 - VI ZA 9/08](vi-za-9-08.md) — BGH, Beschluss vom 03.02.2009 - VI ZA 9/08
+- [BGH, Urteil vom 03.02.2009 - VI ZR 183/08](vi-zr-183-08.md) — Tatbestand:
+- [BGH, Urteil vom 03.02.2009 - VI ZR 36/07](vi-zr-36-07.md) — Tatbestand:
+- [BGH, Beschluss vom 23.01.2009 - VI ZA 27/07](vi-za-27-07.md) — Die als sofortige Beschwerde bezeichnete Eingabe des Beklagten vom 2.
 - [BGH, Beschluss vom 21.01.2009 - VI ZR 170/08](vi-zr-170-08.md) — 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
+- [BGH, Beschluss vom 13.01.2009 - VI ZR 134/08](vi-zr-134-08.md) — I. 1 Die Klägerin erlitt am 4. Juli 2006 einen Verkehrsunfall, bei dem ihr PKW beschädigt wurde. Sie hat Ersatz weiterer Mietwagenkosten begehrt. Die Be- klagte ist der …
 - [BGH, Urteil vom 13.01.2009 - VI ZR 205/08](vi-zr-205-08.md) — Tatbestand:
 - [BGH, Beschluss vom 13.01.2009 - VI ZR 43/08](vi-zr-43-08.md) — BGH, Beschluss vom 13.01.2009 - VI ZR 43/08

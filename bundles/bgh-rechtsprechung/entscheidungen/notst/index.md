@@ -1,6 +1,6 @@
 # NOTST
 
-Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 58 Entscheidung(en).
+Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 74 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -19,8 +19,12 @@ Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtsc
 - [2013](2013/index.md) (2)
 - [2012](2012/index.md) (4)
 - [2011](2011/index.md) (1)
-- [2009](2009/index.md) (1)
-- [2008](2008/index.md) (1)
-- [2006](2006/index.md) (1)
-- [2005](2005/index.md) (2)
+- [2009](2009/index.md) (3)
+- [2008](2008/index.md) (2)
+- [2006](2006/index.md) (3)
+- [2005](2005/index.md) (3)
 - [2004](2004/index.md) (1)
+- [2003](2003/index.md) (3)
+- [2002](2002/index.md) (3)
+- [2001](2001/index.md) (1)
+- [2000](2000/index.md) (3)

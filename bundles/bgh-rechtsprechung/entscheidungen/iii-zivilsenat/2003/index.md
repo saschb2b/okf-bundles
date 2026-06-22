@@ -1,55 +1,120 @@
 # III. Zivilsenat – 2003
 
-51 Entscheidung(en).
+116 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2003 - III ZB 65/03](iii-zb-65-03.md) — BGH, Beschluss vom 18.12.2003 - III ZB 65/03
 - [BGH, Beschluss vom 18.12.2003 - III ZB 67/03](iii-zb-67-03.md) — I. Die Klägerin hat die Beklagte auf Zahlung von 8.095,18 ¢¡¤£¦¥¨§© % Zinsen über dem Basiszinssatz seit dem 24. Oktober 2001 in Anspruch ge- nommen. Nachdem die Beklagte …
+- [BGH, Urteil vom 11.12.2003 - III ZR 118/03](iii-zr-118-03.md) — Tatbestand
+- [BGH, Urteil vom 04.12.2003 - III ZR 30/02](iii-zr-30-02.md) — Tatbestand
 - [BGH, Entscheidung vom 27.11.2003 - III ZR 37/03](iii-zr-37-03.md) — III ZR 37/03 BERICHTIGUNG Das zur Veröffentlichung in BGHZ vorgesehene Senatsurteil vom 27. November 2003 - III ZR 37/03 - ist auf Seite 12, siebte Zeile des Urteilsumdrucks dahin …
+- [BGH, Urteil vom 27.11.2003 - III ZR 54/03](iii-zr-54-03.md) — Glatteises stürzt, am allgemeinen Verkehr teilnimmt.
+- [BGH, Beschluss vom 20.11.2003 - III ZB 24/03](iii-zb-24-03.md) — Die Rechtsbeschwerde ist unzulässig. 1. Der Rechtssache kommt keine grundsätzliche Bedeutung zu (§ 574 Abs. 2 Nr. 1 ZPO). Der Insolvenzverwalter ist anerkanntermaßen an eine …
 - [BGH, Beschluss vom 20.11.2003 - III ZR 131/03](iii-zr-131-03.md) — BGH, Beschluss vom 20.11.2003 - III ZR 131/03
+- [BGH, Beschluss vom 20.11.2003 - III ZR 167/03](iii-zr-167-03.md) — vorzeitiger Zahlung des Kaufpreises" und "Kaufpreisminderung wegen eines fehlenden Pizzastandes" zwischen einem Schadensersatzanspruch der K
+- [BGH, Beschluss vom 13.11.2003 - III ZA 16/03](iii-za-16-03.md) — im Sinn des § 574 Abs. 2 ZPO vorliegen. Streck Dörr
+- [BGH, Urteil vom 13.11.2003 - III ZR 368/02](iii-zr-368-02.md) — Tatbestand
+- [BGH, Urteil vom 13.11.2003 - III ZR 70/03](iii-zr-70-03.md) — Tatbestand
+- [BGH, Urteil vom 06.11.2003 - III ZR 376/02](iii-zr-376-02.md) — Tatbestand
+- [BGH, Urteil vom 30.10.2003 - III ZR 344/02](iii-zr-344-02.md) — Tatbestand
+- [BGH, Urteil vom 30.10.2003 - III ZR 380/02](iii-zr-380-02.md) — des Neubaus einer Gasversorgungsleitung durch den Jagdbezirk.
 - [BGH, Beschluss vom 23.10.2003 - III ZB 11/03](iii-zb-11-03.md) — I. Der klagende Verein, Hauptpächter einer Kleingartenanlage, kündigte den mit den beklagten Eheleuten geschlossenen Unterpachtvertrag über eine Kleingartenparzelle aus wichtigem …
 - [BGH, Beschluss vom 23.10.2003 - III ZB 29/03](iii-zb-29-03.md) — I. Der Antragsteller hat am 17. April 2003 Rechtsbeschwerde gegen den Beschluß des Bayerischen Obersten Landesgerichts eingelegt, durch den der Antrag auf teilweise Aufhebung des …
+- [BGH, Beschluss vom 23.10.2003 - III ZB 46/03](iii-zb-46-03.md) — grundsätzli-
+- [BGH, Beschluss vom 23.10.2003 - III ZR 132/03](iii-zr-132-03.md) — eine Entscheidung des Revisionsgerichts erfordern.
 - [BGH, Urteil vom 23.10.2003 - III ZR 354/02](iii-zr-354-02.md) — 3-
 - [BGH, Urteil vom 23.10.2003 - III ZR 41/03](iii-zr-41-03.md) — Tatbestand
 - [BGH, Beschluss vom 23.10.2003 - III ZR 49/03](iii-zr-49-03.md) — BGH, Beschluss vom 23.10.2003 - III ZR 49/03
+- [BGH, Beschluss vom 23.10.2003 - III ZR 50/03](iii-zr-50-03.md) — Die Voraussetzungen für eine Zulassung der Revision (§ 543 Abs.
+- [BGH, Urteil vom 23.10.2003 - III ZR 9/03](iii-zr-9-03.md) — Tatbestand
+- [BGH, Urteil vom 16.10.2003 - III ZR 106/03](iii-zr-106-03.md) — Tatbestand
 - [BGH, Urteil vom 16.10.2003 - III ZR 62/03](iii-zr-62-03.md) — ungenauer Bezeichnung des Kaufgegenstands.
+- [BGH, Urteil vom 09.10.2003 - III ZR 342/02](iii-zr-342-02.md) — Tatbestand
+- [BGH, Urteil vom 09.10.2003 - III ZR 414/02](iii-zr-414-02.md) — Tatbestand
+- [BGH, Urteil vom 09.10.2003 - III ZR 8/03](iii-zr-8-03.md) — Verletzung der winterlichen Räum- und Streupflicht gegen die sicherungspflichtige Gemeinde auch dann zustehen, wenn dieser Weg nur deshalb g
 - [BGH, Urteil vom 02.10.2003 - III ZR 114/02](iii-zr-114-02.md) — Tatbestand
 - [BGH, Beschluss vom 02.10.2003 - III ZR 397/02](iii-zr-397-02.md) — der von der Beschwerde gerügten Verfahrensfehler oder einer Verletzung des allgemeinen Gleichheitssatzes als Willkürverbot (Art. 3 Abs. 1 GG
 - [BGH, Urteil vom 02.10.2003 - III ZR 420/02](iii-zr-420-02.md) — Tatbestand
 - [BGH, Urteil vom 02.10.2003 - III ZR 5/03](iii-zr-5-03.md) — Tatbestand
+- [BGH, Beschluss vom 25.09.2003 - III ZB 84/02](iii-zb-84-02.md) — der Versäumung der Fristen zur Begründung der Rechtsbeschwerden bedarf es nicht.
+- [BGH, Beschluss vom 25.09.2003 - III ZR 362/02](iii-zr-362-02.md) — Einer Zulassung der Revision bedarf es nicht.
 - [BGH, Beschluss vom 25.09.2003 - III ZR 384/02](iii-zr-384-02.md) — anzuhören oder zu vernehmen.
 - [BGH, Beschluss vom 25.09.2003 - III ZR 61/03](iii-zr-61-03.md) — BGH, Beschluss vom 25.09.2003 - III ZR 61/03
+- [BGH, Urteil vom 18.09.2003 - III ZR 389/02](iii-zr-389-02.md) — Tatbestand
 - [BGH, Urteil vom 18.09.2003 - III ZR 416/02](iii-zr-416-02.md) — Tatbestand
 - [BGH, Urteil vom 11.09.2003 - III ZR 381/02](iii-zr-381-02.md) — Tatbestand
+- [BGH, Urteil vom 11.09.2003 - III ZR 382/02](iii-zr-382-02.md) — Tatbestand
+- [BGH, Beschluss vom 31.07.2003 - III ZB 33/03](iii-zb-33-03.md) — nicht ausräumbarer Unklarheiten über die Person
+- [BGH, Beschluss vom 31.07.2003 - III ZB 58/02](iii-zb-58-02.md) — I. Die Rechtsvorgängerin der Klägerin, die "O. " D. B. - und P. -Gesellschaft mit beschränkter Haftung, war Eigentümerin des -3- Grundstücks N. -Sraße 10-16 in B. . Durch Inan- …
 - [BGH, Beschluss vom 31.07.2003 - III ZB 7/03](iii-zb-7-03.md) — BGH, Beschluss vom 31.07.2003 - III ZB 7/03
+- [BGH, Beschluss vom 31.07.2003 - III ZR 19/03](iii-zr-19-03.md) — I. Die Nichtzulassungsbeschwerde ist unzulässig. Nach der Übergangsre- gelung des § 26 Nr. 8 EGZPO setzt eine Beschwerde gegen die Nichtzulas- sung der Revision bis zum 31 …
+- [BGH, Beschluss vom 31.07.2003 - III ZR 353/02](iii-zr-353-02.md) — I. Die damalige Firma CCD Werbeagentur H. E. in M. (Österreich) schloß im Jahre 1990 mit der Beklagten einen Rahmenvertrag, durch den der Firma E. das Recht eingeräumt wurde …
+- [BGH, Beschluss vom 31.07.2003 - III ZR 428/02](iii-zr-428-02.md) — Das Rechtsmittel ist unbegründet. Die Rechtssache hat keine grundsätzliche Bedeutung. Auch zur Fortbildung des Rechts oder zur Sicherung einer einheitlichen Rechtsprechung ist …
+- [BGH, Beschluss vom 24.07.2003 - III ZB 40/03](iii-zb-40-03.md) — greifbarer Gesetzeswidrigkeit" ist nicht statthaft (BGH, Beschluß vom 7. März 2002 - IX ZB 11/02 = BGHReport 2002, 431).
+- [BGH, Urteil vom 24.07.2003 - III ZR 203/02](iii-zr-203-02.md) — Tatbestand
 - [BGH, Urteil vom 24.07.2003 - III ZR 207/02](iii-zr-207-02.md) — Tatbestand
+- [BGH, Urteil vom 24.07.2003 - III ZR 390/02](iii-zr-390-02.md) — Tatbestand
+- [BGH, Beschluss vom 11.07.2003 - III ZR 205/03](iii-zr-205-03.md) — Nach § 719 Abs. 2 ZPO kann das Revisionsgericht die einstweilige Einstellung der Zwangsvollstreckung gegen ein vorläufig vollstreckbar erklärtes Urteil anordnen, wenn die …
+- [BGH, Beschluss vom 10.07.2003 - III ZB 91/02](iii-zb-91-02.md) — I. Der Kläger, der aufgrund einer am 1. Februar 2001 geschlossenen Vereinbarung einen nebenamtlichen Lehrauftrag an der Betriebswirtschaftlichen Fachschule C. - einer …
+- [BGH, Urteil vom 10.07.2003 - III ZR 155/02](iii-zr-155-02.md) — 3-
 - [BGH, Urteil vom 10.07.2003 - III ZR 379/02](iii-zr-379-02.md) — Tatbestand
 - [BGH, Urteil vom 03.07.2003 - III ZR 109/02](iii-zr-109-02.md) — Tatbestand
 - [BGH, Urteil vom 03.07.2003 - III ZR 326/02](iii-zr-326-02.md) — Tatbestand
 - [BGH, Urteil vom 03.07.2003 - III ZR 348/02](iii-zr-348-02.md) — Tatbestand
+- [BGH, Beschluss vom 26.06.2003 - III ZB 42/03](iii-zb-42-03.md) — Gegen die angefochtene Entscheidung des Landgerichts, mit der die als Gegenvorstellung behandelte Beschwerde der Beklagten gegen die Beschwerdeentscheidung des Landgerichts vom 27.
 - [BGH, Beschluss vom 26.06.2003 - III ZB 57/02](iii-zb-57-02.md) — BGH, Beschluss vom 26.06.2003 - III ZB 57/02
 - [BGH, Beschluss vom 26.06.2003 - III ZB 71/02](iii-zb-71-02.md) — fehlerhafter Gefahraufdrucke unverkäuflich. Die
+- [BGH, Urteil vom 26.06.2003 - III ZR 245/98](iii-zr-245-98.md) — Kriegsverbrechen der deutschen Wehrmacht in Griechenland im Zweiten Weltkrieg zur Zahlung von Schadensersatz an verletzte griechische Staats
 - [BGH, Beschluss vom 26.06.2003 - III ZR 405/02](iii-zr-405-02.md) — BGH, Beschluss vom 26.06.2003 - III ZR 405/02
+- [BGH, Beschluss vom 26.06.2003 - III ZR 91/03](iii-zr-91-03.md) — ambulanter zahnprothetischer Behandlung gegen den in Duisburg wohnhaften Beklagten geltend. Das Landgericht hat seine örtliche Zuständigkeit
+- [BGH, Urteil vom 22.05.2003 - III ZR 32/02](iii-zr-32-02.md) — 3-
+- [BGH, Urteil vom 15.05.2003 - III ZR 254/02](iii-zr-254-02.md) — Tatbestand
 - [BGH, Urteil vom 15.05.2003 - III ZR 42/02](iii-zr-42-02.md) — Amtsmißbrauchs bei der Erteilung einer Genehmigung nach § 19a GüKG a.F.
 - [BGH, Urteil vom 15.05.2003 - III ZR 43/02](iii-zr-43-02.md) — Tatbestand
 - [BGH, Urteil vom 15.05.2003 - III ZR 7/02](iii-zr-7-02.md) — Tatbestand
+- [BGH, Urteil vom 08.05.2003 - III ZR 294/02](iii-zr-294-02.md) — Tatbestand
 - [BGH, Urteil vom 08.05.2003 - III ZR 68/02](iii-zr-68-02.md) — 3-
 - [BGH, Beschluss vom 30.04.2003 - III ZR 237/02](iii-zr-237-02.md) — BGH, Beschluss vom 30.04.2003 - III ZR 237/02
+- [BGH, Beschluss vom 30.04.2003 - III ZR 318/02](iii-zr-318-02.md) — I. Die Klägerin fordert auf der Grundlage zweier Gesellschaftsverträge Rückzahlung zuviel geleisteter Vorschüsse, der Beklagte beruft sich, soweit noch von Interesse, auf einen …
+- [BGH, Beschluss vom 30.04.2003 - III ZR 365/02](iii-zr-365-02.md) — I. Der Kläger verkaufte durch von dem beklagten Notar beurkundeten Vertrag vom 14. Oktober 1997 ein Grundstück. Er verlangt vom Beklagten Schadensersatz, weil dieser …
+- [BGH, Beschluss vom 30.04.2003 - III ZR 366/02](iii-zr-366-02.md) — Gegenstand der Klage sind Schadensersatzansprüche der Klägerin, die von der Wirksamkeit der am 29.
+- [BGH, Beschluss vom 24.04.2003 - III ZB 94/02](iii-zb-94-02.md) — I. Durch das am 16. Mai 2002 verkündete und ihr am 23. Mai 2002 zuge- stellte Urteil w£¡ u¢¥rd§¤ e¥¦ ¨ d©ie B¢¥e¨¤kl¢ ag t¢"e!ve#r% u$rt¤ e&(i' lt, an die klagende …
 - [BGH, Beschluss vom 17.04.2003 - III ZR 266/02](iii-zr-266-02.md) — BGH, Beschluss vom 17.04.2003 - III ZR 266/02
 - [BGH, Urteil vom 10.04.2003 - III ZR 196/02](iii-zr-196-02.md) — des vergleichbaren Schutzbedürfnisses auch auf wirtschaftlich abhängige freie Mitarbeiter (Subunternehmer) anzuwenden.
 - [BGH, Urteil vom 10.04.2003 - III ZR 38/02](iii-zr-38-02.md) — Tatbestand
+- [BGH, Beschluss vom 27.03.2003 - III ZB 32/02](iii-zb-32-02.md) — I. Im März 2001 ging der Antragstellerin ein Versandhandelskatalog der H. & F. bv. zu. Der Sendung lag eine "Beurkundung Notariat Dr. E. " bei, in der es unter anderem hieß: -3- …
+- [BGH, Beschluss vom 27.03.2003 - III ZB 83/02](iii-zb-83-02.md) — der vom Oberlandesgericht angenommenen Präklusionswirkung des § 1040 ZPO zu. Eine klärungsbedürftige Frage wird dadurch nicht aufgeworfen. D
+- [BGH, Beschluss vom 27.03.2003 - III ZR 261/02](iii-zr-261-02.md) — nicht zu beanstanden, wenn das Berufungsgericht dieser Anregung
+- [BGH, Beschluss vom 27.03.2003 - III ZR 83/02](iii-zr-83-02.md) — Verstößen gegen die Formvorschriften des § 15 VerbrKG a.F. sowie gegen das Verbot unerlaubter Rechtsberatung gemäß Art. 1 § 1 RBerG bei den
+- [BGH, Beschluss vom 20.03.2003 - III ZR 129/02](iii-zr-129-02.md) — Zulassungsgründe im Sinne des § 543 Abs. 2 ZPO sind nicht mehr gegeben, nachdem der Senat die von der Beschwerde als grundsätzlich bezeichneten Rechtsfragen durch Urteil vom …
+- [BGH, Urteil vom 20.03.2003 - III ZR 135/02](iii-zr-135-02.md) — Tatbestand
+- [BGH, Urteil vom 20.03.2003 - III ZR 217/02](iii-zr-217-02.md) — Tatbestand
+- [BGH, Versäumnisurteil vom 20.03.2003 - III ZR 305/01](iii-zr-305-01.md) — Tatbestand
+- [BGH, Beschluss vom 20.03.2003 - III ZR 321/02](iii-zr-321-02.md) — der grundsätzlichen Bedeutung (§ 543 Abs. 2 Nr. 1 ZPO) der Frage nach der internationalen Zuständigkeit für Ansprüche aus Gewinnmitteilungen
+- [BGH, Urteil vom 13.03.2003 - III ZR 299/02](iii-zr-299-02.md) — Tatbestand
+- [BGH, Urteil vom 06.03.2003 - III ZR 170/02](iii-zr-170-02.md) — 3-
 - [BGH, Beschluss vom 27.02.2003 - III ZB 29/02](iii-zb-29-02.md) — BGH, Beschluss vom 27.02.2003 - III ZB 29/02
 - [BGH, Beschluss vom 27.02.2003 - III ZB 30/02](iii-zb-30-02.md) — I. Im Juni 2001 ging der Antragstellerin ein Versandhandelskatalog der C. S.L. zu. Der Sendung lag eine "Dokumentation der letzten -3- Chance für J. B. 75.000,00 DM plus 369,86 DM …
 - [BGH, Beschluss vom 27.02.2003 - III ZB 34/02](iii-zb-34-02.md) — I. Im April 2001 ging der Antragstellerin ein Versandhandelskatalog der H. & F. bv. zu. Der Sendung war ein Schreiben der "V. Beurkun- -3- dung- und Finanzgruppe E.G." vom 20 …
 - [BGH, Beschluss vom 27.02.2003 - III ZB 35/02](iii-zb-35-02.md) — eines Fernsehers
+- [BGH, Beschluss vom 27.02.2003 - III ZB 82/02](iii-zb-82-02.md) — der Versäumung der Frist zur Begründung der Berufung gegen das Urteil des Amtsgerichts Saarlouis vom 7. Juni 2002 - 29 C 1495/00 - Wiederein
+- [BGH, Beschluss vom 27.02.2003 - III ZR 115/02](iii-zr-115-02.md) — des Ausbleibens der Kaufpreiszahlung, weiter hilfsweise Mindererlöse in Höhe von 323.980 DM, die sich infolge ausgebliebener Sachleistungen
 - [BGH, Beschluss vom 27.02.2003 - III ZR 200/02](iii-zr-200-02.md) — $ # Neben der mit 251.882,82 bewertenden Klageforderung fällt die Widerklage gegen die Widerbeklagte zu 1 streitwertmäßig nicht ins Gewicht.
+- [BGH, Beschluss vom 27.02.2003 - III ZR 229/02](iii-zr-229-02.md) — I. Im Rahmen des Verkehrsprojekts Deutsche Einheit stellte das Regie- rungspräsidium H. mit Beschluß vom 30. August 1996 den Plan für den Neubau der Bundesautobahn A 14 M. -H …
+- [BGH, Urteil vom 20.02.2003 - III ZR 184/02](iii-zr-184-02.md) — Tatbestand
 - [BGH, Urteil vom 20.02.2003 - III ZR 224/01](iii-zr-224-01.md) — enteignungsgleichen Eingriffs.
 - [BGH, Urteil vom 13.02.2003 - III ZR 176/02](iii-zr-176-02.md) — Tatbestand
 - [BGH, Urteil vom 13.02.2003 - III ZR 194/02](iii-zr-194-02.md) — Tatbestand
 - [BGH, Urteil vom 06.02.2003 - III ZR 223/02](iii-zr-223-02.md) — Tatbestand
 - [BGH, Urteil vom 06.02.2003 - III ZR 287/02](iii-zr-287-02.md) — Tatbestand
 - [BGH, Urteil vom 06.02.2003 - III ZR 44/02](iii-zr-44-02.md) — Tatbestand
+- [BGH, Beschluss vom 30.01.2003 - III ZB 6/02](iii-zb-6-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§§ 1065 Abs.
+- [BGH, Beschluss vom 30.01.2003 - III ZR 270/02](iii-zr-270-02.md) — den Lehrgang vorzeitig beendet hat.
 - [BGH, Beschluss vom 30.01.2003 - III ZR 36/02](iii-zr-36-02.md) — BGH, Beschluss vom 30.01.2003 - III ZR 36/02
+- [BGH, Urteil vom 23.01.2003 - III ZR 161/02](iii-zr-161-02.md) — Tatbestand
 - [BGH, Urteil vom 23.01.2003 - III ZR 54/02](iii-zr-54-02.md) — BGH, Urteil vom 23.01.2003 - III ZR 54/02
+- [BGH, Urteil vom 16.01.2003 - III ZR 127/02](iii-zr-127-02.md) — Tatbestand
 - [BGH, Urteil vom 16.01.2003 - III ZR 269/01](iii-zr-269-01.md) — Tatbestand
 - [BGH, Beschluss vom 13.01.2003 - III ZB 68/02](iii-zb-68-02.md) — Die Antragsgegner haben weder dargetan noch glaubhaft gemacht, dass ihre wirtschaftlichen Interessen gegenüber dem Interesse der Antragsteller an der Vollstreckung aus dem …
+- [BGH, Urteil vom 09.01.2003 - III ZR 121/02](iii-zr-121-02.md) — Tatbestand
 - [BGH, Urteil vom 09.01.2003 - III ZR 217/01](iii-zr-217-01.md) — Tatbestand
 - [BGH, Urteil vom 09.01.2003 - III ZR 46/02](iii-zr-46-02.md) — BGH, Urteil vom 09.01.2003 - III ZR 46/02

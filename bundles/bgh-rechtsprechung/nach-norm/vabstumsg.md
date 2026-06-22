@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VAbstUmsG"
 description: "BGH-Entscheidungen zu VAbstUmsG, geordnet nach Vorschrift."
 tags: [register, navigation, vabstumsg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

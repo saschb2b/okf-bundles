@@ -1,6 +1,6 @@
 # III. Zivilsenat – 2004
 
-57 Entscheidung(en).
+134 Entscheidung(en).
 
 - [BGH, Beschluss vom 22.12.2004 - III ZB 58/04](iii-zb-58-04.md) — BGH, Beschluss vom 22.12.2004 - III ZB 58/04
 - [BGH, Beschluss vom 22.12.2004 - III ZR 235/04](iii-zr-235-04.md) — BGH, Beschluss vom 22.12.2004 - III ZR 235/04
@@ -9,53 +9,130 @@
 - [BGH, Urteil vom 16.12.2004 - III ZR 72/04](iii-zr-72-04.md) — unterlassener Maßnahmen zur Sicherung des Vermögenswerts.
 - [BGH, Urteil vom 09.12.2004 - III ZR 112/04](iii-zr-112-04.md) — Tatbestand
 - [BGH, Urteil vom 09.12.2004 - III ZR 200/04](iii-zr-200-04.md) — BGH, Urteil vom 09.12.2004 - III ZR 200/04
-- [BGH, Urteil vom 09.12.2004 - III ZR 263/04](iii-zr-263-04.md) — Tatbestand
 - [BGH, Urteil vom 02.12.2004 - III ZR 358/03](iii-zr-358-03.md) — BGH, Urteil vom 02.12.2004 - III ZR 358/03
+- [BGH, Beschluss vom 25.11.2004 - III ZR 325/03](iii-zr-325-03.md) — Die Nichtzulassungsbeschwerde ist unzulässig, da der Wert der mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
+- [BGH, Beschluss vom 25.11.2004 - III ZR 336/03](iii-zr-336-03.md) — Die Nichtzulassungsbeschwerde ist unzulässig, da der Wert der mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
+- [BGH, Urteil vom 18.11.2004 - III ZR 347/03](iii-zr-347-03.md) — Tatbestand
+- [BGH, Urteil vom 18.11.2004 - III ZR 97/03](iii-zr-97-03.md) — Tatbestand
+- [BGH, Beschluss vom 11.11.2004 - III ZB 70/04](iii-zb-70-04.md) — Die zulässige Rechtsbeschwerde der Antragstellerin ist unbegründet.
 - [BGH, Urteil vom 11.11.2004 - III ZR 101/03](iii-zr-101-03.md) — der Unwirksamkeit des Kaufvertrags zwar gegen den Verkäufer einen Kaufpreisrückzahlungsanspruch hat, dieser jedoch nur Zug-um-Zug gegen Erte
 - [BGH, Urteil vom 11.11.2004 - III ZR 200/03](iii-zr-200-03.md) — Lebensgefahr hätte gewarnt werden müssen).
+- [BGH, Urteil vom 11.11.2004 - III ZR 63/04](iii-zr-63-04.md) — Tatbestand
+- [BGH, Urteil vom 04.11.2004 - III ZR 172/03](iii-zr-172-03.md) — Tatbestand
 - [BGH, Urteil vom 04.11.2004 - III ZR 201/04](iii-zr-201-04.md) — Tatbestand
 - [BGH, Beschluss vom 04.11.2004 - III ZR 332/03](iii-zr-332-03.md) — ihrer bisherigen Spruchtätigkeit und der Verschleppung des weiteren Verfahrens. Besorgnis der Befangenheit eines Richters ist anzunehmen, we
+- [BGH, Urteil vom 04.11.2004 - III ZR 361/03](iii-zr-361-03.md) — menschenunwürdiger Unterbringung in der Justizvollzugsanstalt zustehen kann.
+- [BGH, Versäumnisurteil vom 04.11.2004 - III ZR 371/03](iii-zr-371-03.md) — Tatbestand
+- [BGH, Urteil vom 04.11.2004 - III ZR 372/03](iii-zr-372-03.md) — Tatbestand
+- [BGH, Beschluss vom 28.10.2004 - III ZA 11/04](iii-za-11-04.md) — gelegt (zur Anwendung der Grundsätze über ein unternehmensbezogenes Geschäft in Anlagevermittlungsfällen vgl.
+- [BGH, Beschluss vom 28.10.2004 - III ZB 32/04](iii-zb-32-04.md) — der ausdrücklichen Abrede zwischen ihrem Prozeßbevollmächtigten und dem Geschäftsführer der Beklagten, daß der Verhandlungstermin beiderseit
 - [BGH, Entscheidung vom 28.10.2004 - III ZB 41/04](iii-zb-41-04.md) — BGH, Entscheidung vom 28.10.2004 - III ZB 41/04
+- [BGH, Beschluss vom 28.10.2004 - III ZB 43/04](iii-zb-43-04.md) — den Mahnantrag zurückgenommen habe (§ 269 Abs. 3 Satz 3 ZPO), so hat über die Kosten des Mahnverfahrens nach Abgabe das für das streitige Ve
+- [BGH, Beschluss vom 28.10.2004 - III ZR 127/03](iii-zr-127-03.md) — Die Nichtzulassungsbeschwerde ist unbegründet; Zulassungsgründe (§ 543 Abs.
+- [BGH, Beschluss vom 28.10.2004 - III ZR 160/04](iii-zr-160-04.md) — gelegt (zur Anwendung der Grundsätze über ein unternehmensbezogenes Geschäft in Anlagevermittlungsfällen vgl.
 - [BGH, Beschluss vom 28.10.2004 - III ZR 163/04](iii-zr-163-04.md) — Eine Zulassung der Revision gemäß § 544 ZPO ist nicht geboten.
-- [BGH, Beschluss vom 28.10.2004 - III ZR 205/03](iii-zr-205-03.md) — I. Die im Jahr 1910 geborene Beklagte - Leistungsempfängerin der gesetzlichen Pflegeversicherung - wohnte seit Dezember 2000 in einem von der Klägerin betriebenen Altenheim. Der …
+- [BGH, Beschluss vom 28.10.2004 - III ZR 178/04](iii-zr-178-04.md) — das von ihm gegründete Güterfernverkehrsunternehmen gescheitert sei. Insoweit hat das Berufungsgericht aber nunmehr einen anderen Sachverhal
 - [BGH, Beschluss vom 28.10.2004 - III ZR 25/04](iii-zr-25-04.md) — BGH, Beschluss vom 28.10.2004 - III ZR 25/04
 - [BGH, Beschluss vom 28.10.2004 - III ZR 294/03](iii-zr-294-03.md) — eines Verstoßes gegen europäisches Gemeinschaftsrecht durch ein letztinstanzlich entscheidendes Gericht.
+- [BGH, Beschluss vom 28.10.2004 - III ZR 381/03](iii-zr-381-03.md) — I. Durch Urteil des Berufungsgerichts vom 31. Juli 2003 wurde der Beklagte verurteilt, die von ihm gehaltenen Geschäftsanteile an der D GmbH notariell an die Rechtsanwälte Be. und …
+- [BGH, Urteil vom 21.10.2004 - III ZR 254/03](iii-zr-254-03.md) — Tatbestand
+- [BGH, Urteil vom 21.10.2004 - III ZR 323/03](iii-zr-323-03.md) — Tatbestand
 - [BGH, Urteil vom 21.10.2004 - III ZR 38/04](iii-zr-38-04.md) — Tatbestand
+- [BGH, Urteil vom 21.10.2004 - III ZR 380/03](iii-zr-380-03.md) — Tatbestand
+- [BGH, Urteil vom 14.10.2004 - III ZR 169/04](iii-zr-169-04.md) — Tatbestand
+- [BGH, Urteil vom 07.10.2004 - III ZR 158/04](iii-zr-158-04.md) — Tatbestand
 - [BGH, Urteil vom 07.10.2004 - III ZR 175/04](iii-zr-175-04.md) — Tatbestand
 - [BGH, Beschluss vom 30.09.2004 - III ZR 194/04](iii-zr-194-04.md) — der geringen Nutzlast nicht eingehalten werden könne. Landgericht und Oberlandesgericht haben den auf Amtshaftung gestützten Schadensersatza
 - [BGH, Beschluss vom 30.09.2004 - III ZR 308/03](iii-zr-308-03.md) — BGH, Beschluss vom 30.09.2004 - III ZR 308/03
 - [BGH, Beschluss vom 30.09.2004 - III ZR 369/03](iii-zr-369-03.md) — BGH, Beschluss vom 30.09.2004 - III ZR 369/03
 - [BGH, Beschluss vom 30.09.2004 - III ZR 81/04](iii-zr-81-04.md) — . Die Beteiligten streiten über die Höhe einer Enteignungsentschädigung, die der Beteiligte zu 1 aufgrund der im Zuge des Ausbaus der B 481 erfolgten Enteignung seines …
 - [BGH, Beschluss vom 30.09.2004 - III ZR 82/04](iii-zr-82-04.md) — Eine Zulassung der Revision gemäß §§ 543 Abs.
+- [BGH, Urteil vom 23.09.2004 - III ZR 256/03](iii-zr-256-03.md) — Tatbestand
+- [BGH, Beschluss vom 16.09.2004 - III ZB 33/04](iii-zb-33-04.md) — I. Die Antragsteller begehren im selbständigen Beweisverfahren die Begutachtung von Gebäudemängeln an einem Grundstück, das sie aufgrund des
+- [BGH, Beschluss vom 16.09.2004 - III ZR 201/03](iii-zr-201-03.md) — Verstoßes gegen höherrangiges Gesetzesrecht nichtig. Dementsprechend sei auch der Richterwahlausschuß selbst nicht vorschriftsmäßig besetzt,
 - [BGH, Versäumnisurteil vom 16.09.2004 - III ZR 283/03](iii-zr-283-03.md) — Tatbestand
+- [BGH, Urteil vom 16.09.2004 - III ZR 346/03](iii-zr-346-03.md) — Tatbestand
+- [BGH, Beschluss vom 09.09.2004 - III ZR 274/04](iii-zr-274-04.md) — Die Entscheidung über die Verlustigkeit des Rechtsmittels und über die Kosten folgt aus §§ 565, 516 Abs.
+- [BGH, Beschluss vom 29.07.2004 - III ZB 2/04](iii-zb-2-04.md) — I. Die Antragsteller begehren im Wege des einstweiligen Rechtsschutzes, dem Antragsgegner (Land Mecklenburg-Vorpommern) bestimmte Behauptungen in Pressemitteilungen der …
+- [BGH, Beschluss vom 29.07.2004 - III ZB 27/04](iii-zb-27-04.md) — I. Das klageabweisende Urteil des Amtsgerichts vom 12. November 2003 wurde dem Prozeßbevollmächtigten des Klägers am 17. November 2003 zugestellt. Dieser legte am 15. Dezember …
+- [BGH, Beschluss vom 29.07.2004 - III ZB 71/03](iii-zb-71-03.md) — Verjährung ab. In dem nur gegen die Beklagte durchgeführten Berufungsverfahren zog das Oberlandesgericht "vorsorglich zu Informationszwecken
+- [BGH, Beschluss vom 29.07.2004 - III ZR 120/03](iii-zr-120-03.md) — BGH, Beschluss vom 29.07.2004 - III ZR 120/03
+- [BGH, Urteil vom 29.07.2004 - III ZR 293/03](iii-zr-293-03.md) — Tatbestand
 - [BGH, Beschluss vom 29.07.2004 - III ZR 349/03](iii-zr-349-03.md) — BGH, Beschluss vom 29.07.2004 - III ZR 349/03
+- [BGH, Urteil vom 22.07.2004 - III ZR 154/03](iii-zr-154-03.md) — Tatbestand
 - [BGH, Urteil vom 22.07.2004 - III ZR 355/03](iii-zr-355-03.md) — Tatbestand
+- [BGH, Urteil vom 22.07.2004 - III ZR 359/03](iii-zr-359-03.md) — Tatbestand
+- [BGH, Urteil vom 15.07.2004 - III ZR 103/03](iii-zr-103-03.md) — Tatbestand
 - [BGH, Urteil vom 15.07.2004 - III ZR 315/03](iii-zr-315-03.md) — Tatbestand
+- [BGH, Urteil vom 08.07.2004 - III ZR 435/02](iii-zr-435-02.md) — Zahlungen an die U. GmbH versagt worden ist.
 - [BGH, Beschluss vom 01.07.2004 - III ZA 13/04](iii-za-13-04.md) — BGH, Beschluss vom 01.07.2004 - III ZA 13/04
 - [BGH, Beschluss vom 01.07.2004 - III ZB 38/04](iii-zb-38-04.md) — BGH, Beschluss vom 01.07.2004 - III ZB 38/04
 - [BGH, Beschluss vom 01.07.2004 - III ZR 291/03](iii-zr-291-03.md) — BGH, Beschluss vom 01.07.2004 - III ZR 291/03
 - [BGH, Beschluss vom 01.07.2004 - III ZR 333/03](iii-zr-333-03.md) — Eine Zulassung der Revision gemäß §§ 543 Abs.
 - [BGH, Beschluss vom 01.07.2004 - III ZR 353/03](iii-zr-353-03.md) — unrichtiger Angaben schadensersatzpflichtig ist. Das von der Nichtzulassungsbeschwerde dagegen angeführte Urteil des Bundesgerichtshofs vom
+- [BGH, Beschluss vom 01.07.2004 - III ZR 40/04](iii-zr-40-04.md) — Die Revision ist nicht zuzulassen, da die Rechtssache keine grundsätzliche Bedeutung hat (§ 543 Abs.
+- [BGH, Urteil vom 24.06.2004 - III ZR 104/03](iii-zr-104-03.md) — Tatbestand
 - [BGH, Beschluss vom 24.06.2004 - III ZR 106/04](iii-zr-106-04.md) — I. Der Kläger verlangt von den Beklagten die Erfüllung einer Gewinnzusage nach § 661a BGB. Die Beklagte zu 1 ist eine Kommanditgesellschaft, deren persönlich haftende …
 - [BGH, Beschluss vom 24.06.2004 - III ZR 125/04](iii-zr-125-04.md) — I. Die Klägerin verlangt von den Beklagten die Erfüllung einer Gewinnzusage nach § 661a BGB. Die Beklagte zu 1 ist eine Kommanditgesellschaft, deren persönlich haftende …
+- [BGH, Urteil vom 24.06.2004 - III ZR 215/03](iii-zr-215-03.md) — Tatbestand
+- [BGH, Beschluss vom 24.06.2004 - III ZR 24/04](iii-zr-24-04.md) — I. Die Klägerin verlangt von den Beklagten die Erfüllung einer Gewinnzusage nach § 661a BGB. Die Beklagte zu 1 ist eine Kommanditgesellschaft, deren persönlich haftende …
+- [BGH, Beschluss vom 24.06.2004 - III ZR 93/03](iii-zr-93-03.md) — Streitgegenstand des vorliegenden Rechtsstreits waren von dem Betei- ligten zu 1 geltend gemachte Ansprüche auf (Geld-)Entschädigung.
+- [BGH, Urteil vom 17.06.2004 - III ZR 230/03](iii-zr-230-03.md) — Tatbestand
+- [BGH, Urteil vom 17.06.2004 - III ZR 271/03](iii-zr-271-03.md) — Tatbestand
+- [BGH, Urteil vom 17.06.2004 - III ZR 281/03](iii-zr-281-03.md) — Tatbestand
+- [BGH, Urteil vom 17.06.2004 - III ZR 335/03](iii-zr-335-03.md) — Tatbestand
+- [BGH, Beschluss vom 09.06.2004 - III ZB 35/04](iii-zb-35-04.md) — des durch § 542 Abs. 2 Satz 1 ZPO begrenzten Instanzenzuges im Verfahren auf Erlaß einer einstweiligen Verfügung allgemein nicht statthaft i
+- [BGH, Beschluss vom 09.06.2004 - III ZR 193/03](iii-zr-193-03.md) — BGH, Beschluss vom 09.06.2004 - III ZR 193/03
 - [BGH, Urteil vom 03.06.2004 - III ZR 199/03](iii-zr-199-03.md) — Tatbestand
 - [BGH, Urteil vom 03.06.2004 - III ZR 56/03](iii-zr-56-03.md) — Tatbestand
+- [BGH, Beschluss vom 27.05.2004 - III ZB 53/03](iii-zb-53-03.md) — zu prüfende besondere Prozeßvoraussetzung des Aufhebungsverfahrens.
+- [BGH, Urteil vom 27.05.2004 - III ZR 264/03](iii-zr-264-03.md) — Tatbestand
 - [BGH, Urteil vom 27.05.2004 - III ZR 302/03](iii-zr-302-03.md) — BGH, Urteil vom 27.05.2004 - III ZR 302/03
 - [BGH, Urteil vom 27.05.2004 - III ZR 433/02](iii-zr-433-02.md) — BGH, Urteil vom 27.05.2004 - III ZR 433/02
 - [BGH, Urteil vom 13.05.2004 - III ZR 344/03](iii-zr-344-03.md) — 3-
 - [BGH, Urteil vom 13.05.2004 - III ZR 368/03](iii-zr-368-03.md) — Tatbestand
+- [BGH, Urteil vom 06.05.2004 - III ZR 247/03](iii-zr-247-03.md) — Tatbestand
+- [BGH, Urteil vom 06.05.2004 - III ZR 248/03](iii-zr-248-03.md) — Tatbestand
+- [BGH, Urteil vom 06.05.2004 - III ZR 297/03](iii-zr-297-03.md) — Tatbestand
+- [BGH, Beschluss vom 29.04.2004 - III ZB 72/03](iii-zb-72-03.md) — I. Der Kläger pachtete 1990 zusammen mit seiner damaligen Ehefrau von dem Beklagten einen Kleingarten. Auf der Parzelle befinden sich ein Schuppen und eine Garage. -3- 2001 …
+- [BGH, Beschluss vom 29.04.2004 - III ZB 80/03](iii-zb-80-03.md) — der Berufungsverwerfung nicht inzident zu beurteilen ist.
+- [BGH, Beschluss vom 29.04.2004 - III ZR 235/03](iii-zr-235-03.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
+- [BGH, Urteil vom 29.04.2004 - III ZR 279/03](iii-zr-279-03.md) — Tatbestand
+- [BGH, Urteil vom 22.04.2004 - III ZR 108/03](iii-zr-108-03.md) — Tatbestand
+- [BGH, Urteil vom 22.04.2004 - III ZR 163/03](iii-zr-163-03.md) — Tatbestand
+- [BGH, Urteil vom 22.04.2004 - III ZR 204/03](iii-zr-204-03.md) — Tatbestand
+- [BGH, Urteil vom 08.04.2004 - III ZR 20/03](iii-zr-20-03.md) — Tatbestand
 - [BGH, Urteil vom 08.04.2004 - III ZR 432/02](iii-zr-432-02.md) — BGH, Urteil vom 08.04.2004 - III ZR 432/02
+- [BGH, Beschluss vom 01.04.2004 - III ZR 195/03](iii-zr-195-03.md) — des (im Berufungsurteil in Bezug genommenen) landgerichtlichen Urteils als geltend gemachte schädigende Handlungen aufgeführt sind.
+- [BGH, Beschluss vom 01.04.2004 - III ZR 209/03](iii-zr-209-03.md) — BGH, Beschluss vom 01.04.2004 - III ZR 209/03
 - [BGH, Beschluss vom 01.04.2004 - III ZR 231/03](iii-zr-231-03.md) — BGH, Beschluss vom 01.04.2004 - III ZR 231/03
+- [BGH, Beschluss vom 01.04.2004 - III ZR 300/03](iii-zr-300-03.md) — I. Der Kläger wurde als Rechtsnachfolger der Restitutionsberechtigten I. H. am 26. Januar 2000 Eigentümer des Mehrfamilienhauses Z.- Straße 6 in B. . Er übertrug der Beklagten mit …
+- [BGH, Beschluss vom 01.04.2004 - III ZR 343/03](iii-zr-343-03.md) — Die Beiordnung setzt voraus, daß die Partei trotz zumutbarer Anstrengungen einen zu ihrer Vertretung bereiten Rechtsanwalt nicht gefunden hat.
+- [BGH, Urteil vom 25.03.2004 - III ZR 227/02](iii-zr-227-02.md) — 3-
+- [BGH, Urteil vom 18.03.2004 - III ZR 179/03](iii-zr-179-03.md) — Tatbestand
 - [BGH, Urteil vom 18.03.2004 - III ZR 180/03](iii-zr-180-03.md) — Tatbestand
+- [BGH, Urteil vom 18.03.2004 - III ZR 246/03](iii-zr-246-03.md) — Tatbestand
+- [BGH, Urteil vom 11.03.2004 - III ZR 213/03](iii-zr-213-03.md) — Tatbestand
+- [BGH, Urteil vom 11.03.2004 - III ZR 274/03](iii-zr-274-03.md) — Tatbestand
+- [BGH, Urteil vom 11.03.2004 - III ZR 90/03](iii-zr-90-03.md) — Tatbestand
 - [BGH, Urteil vom 04.03.2004 - III ZR 124/03](iii-zr-124-03.md) — Tatbestand
 - [BGH, Urteil vom 04.03.2004 - III ZR 225/03](iii-zr-225-03.md) — Tatbestand
+- [BGH, Urteil vom 04.03.2004 - III ZR 72/03](iii-zr-72-03.md) — Tatbestand
 - [BGH, Urteil vom 04.03.2004 - III ZR 96/03](iii-zr-96-03.md) — Tatbestand
 - [BGH, Urteil vom 19.02.2004 - III ZR 147/03](iii-zr-147-03.md) — Tatbestand
+- [BGH, Urteil vom 19.02.2004 - III ZR 226/03](iii-zr-226-03.md) — Tatbestand
+- [BGH, Urteil vom 12.02.2004 - III ZR 355/02](iii-zr-355-02.md) — Tatbestand
 - [BGH, Urteil vom 12.02.2004 - III ZR 359/02](iii-zr-359-02.md) — Tatbestand
 - [BGH, Urteil vom 12.02.2004 - III ZR 77/03](iii-zr-77-03.md) — Tatbestand
 - [BGH, Beschluss vom 05.02.2004 - III ZB 91/03](iii-zb-91-03.md) — statthaft noch hat sie das Brandenburgische Oberlandesgericht in dem angefochtenen Beschluß zugelassen.
 - [BGH, Beschluss vom 05.02.2004 - III ZB 92/03](iii-zb-92-03.md) — statthaft noch hat sie das Brandenburgische Oberlandesgericht in dem angefochtenen Beschluß zugelassen.
+- [BGH, Urteil vom 05.02.2004 - III ZR 331/02](iii-zr-331-02.md) — Tatbestand
+- [BGH, Beschluss vom 29.01.2004 - III ZB 88/03](iii-zb-88-03.md) — Der Senat geht zugunsten des Antragstellers davon aus, daß dessen "Rechtsbeschwerde" vom 26.
 - [BGH, Beschluss vom 29.01.2004 - III ZR 194/03](iii-zr-194-03.md) — BGH, Beschluss vom 29.01.2004 - III ZR 194/03
 - [BGH, Urteil vom 22.01.2004 - III ZR 68/03](iii-zr-68-03.md) — Tatbestand
+- [BGH, Urteil vom 22.01.2004 - III ZR 99/03](iii-zr-99-03.md) — einer von ihm verschuldeten unklaren Vertragsgestaltung (im Anschluß an BGH, Urteil vom 17. Februar 2000 - IX ZR 436/98 - NJW 2000, 1498).
 - [BGH, Beschluss vom 08.01.2004 - III ZB 86/03](iii-zb-86-03.md) — "greifbarer Gesetzeswidrigkeit" oder der Verletzung von Verfahrensgrundrech-
 - [BGH, Beschluss vom 08.01.2004 - III ZB 87/03](iii-zb-87-03.md) — "greifbarer Gesetzeswidrigkeit" oder der Verletzung von Verfahrensgrundrech-
+- [BGH, Urteil vom 08.01.2004 - III ZR 375/02](iii-zr-375-02.md) — Tatbestand
+- [BGH, Urteil vom 08.01.2004 - III ZR 39/03](iii-zr-39-03.md) — Tatbestand
+- [BGH, Versäumnisurteil vom 08.01.2004 - III ZR 401/02](iii-zr-401-02.md) — zu verneinen, weil über sie bereits in dem ersten Verfahren sachlich entschieden werde.

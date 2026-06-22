@@ -1,14 +1,30 @@
 # XI. Zivilsenat – 2003
 
-40 Entscheidung(en).
+101 Entscheidung(en).
 
+- [BGH, Beschluss vom 16.12.2003 - XI ZR 434/02](xi-zr-434-02.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil die Klägerin nicht dargelegt hat, daß sie mit der beabsichtigten Revision eine Abänderung des Berufungsurteils in einem die …
+- [BGH, Urteil vom 16.12.2003 - XI ZR 474/02](xi-zr-474-02.md) — Tatbestand:
+- [BGH, Beschluss vom 09.12.2003 - XI ZR 254/02](xi-zr-254-02.md) — Die Entscheidung beruht auf § 719 Abs. 2 ZPO. Der Beklagte hat glaubhaft gemacht, daß ihm die Eröffnung des Insolvenzverfahrens, die die Klägerin unter Vorlage des vorläufig …
 - [BGH, Urteil vom 09.12.2003 - XI ZR 372/02](xi-zr-372-02.md) — Tatbestand:
 - [BGH, Beschluss vom 09.12.2003 - XI ZR 68/03](xi-zr-68-03.md) — BGH, Beschluss vom 09.12.2003 - XI ZR 68/03
+- [BGH, Urteil vom 02.12.2003 - XI ZR 397/02](xi-zr-397-02.md) — Tatbestand:
+- [BGH, Urteil vom 02.12.2003 - XI ZR 421/02](xi-zr-421-02.md) — Verstoßes gegen das Rechtsberatungsgesetz gemäß § 134 BGB nichtigen Vollmacht).
+- [BGH, Urteil vom 02.12.2003 - XI ZR 428/02](xi-zr-428-02.md) — Tatbestand:
 - [BGH, Urteil vom 02.12.2003 - XI ZR 429/02](xi-zr-429-02.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2003 - XI ZR 379/02](xi-zr-379-02.md) — Tatbestand:
 - [BGH, Beschluss vom 18.11.2003 - XI ZA 15/03](xi-za-15-03.md) — BGH, Beschluss vom 18.11.2003 - XI ZA 15/03
 - [BGH, Beschluss vom 18.11.2003 - XI ZB 18/03](xi-zb-18-03.md) — BGH, Beschluss vom 18.11.2003 - XI ZB 18/03
-- [BGH, Urteil vom 18.11.2003 - XI ZR 322/01](xi-zr-322-01.md) — Tatbestand:
+- [BGH, Urteil vom 18.11.2003 - XI ZR 332/02](xi-zr-332-02.md) — Tatbestand:
+- [BGH, Beschluss vom 11.11.2003 - XI ZR 86/03](xi-zr-86-03.md) — Das angefochtene Berufungsurteil vom 31. Januar 2003 beschwert die Beklagte, wie sie zu Recht geltend macht, nur in Höhe der ausgeurteilten Zinsen. Die Verurteilung der Beklagten …
+- [BGH, Urteil vom 28.10.2003 - XI ZR 263/02](xi-zr-263-02.md) — Tatbestand:
+- [BGH, Beschluss vom 21.10.2003 - XI ZR 105/03](xi-zr-105-03.md) — BGH, Beschluss vom 21.10.2003 - XI ZR 105/03
+- [BGH, Teilurteil vom 21.10.2003 - XI ZR 453/02](xi-zr-453-02.md) — 3-
+- [BGH, Urteil vom 14.10.2003 - XI ZR 101/02](xi-zr-101-02.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2003 - XI ZR 121/02](xi-zr-121-02.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2003 - XI ZR 134/02](xi-zr-134-02.md) — Tatbestand:
 - [BGH, Beschluss vom 14.10.2003 - XI ZR 21/03](xi-zr-21-03.md) — Die Revision des Beklagten bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Urteil vom 30.09.2003 - XI ZR 232/02](xi-zr-232-02.md) — grob fahrlässiger Hereinnahme abhanden gekommener Schecks.
+- [BGH, Urteil vom 30.09.2003 - XI ZR 426/01](xi-zr-426-01.md) — unberechtigter oder rechtswidriger Teilnahme am Transferrubel-Abrechnungsverfahren durch Art. 38 Abs. 1 FKPG gilt nur für Fälle, in denen -
 - [BGH, Beschluss vom 30.09.2003 - XI ZR 466/02](xi-zr-466-02.md) — Divergenz rechtfertigt das schon deshalb nicht, weil das Berufungsgericht den von der Nichtzulassungsbeschwerde aufgezeigten abstrakten Rech
 - [BGH, Urteil vom 23.09.2003 - XI ZR 135/02](xi-zr-135-02.md) — Tatbestand:
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 25/03](xi-zr-25-03.md) — BGH, Beschluss vom 23.09.2003 - XI ZR 25/03
@@ -16,29 +32,74 @@
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 325/02](xi-zr-325-02.md) — Eine Vorlage an den Gerichtshof der Europäischen Gemeinschaften ist nach Auffassung des Senats nicht veranlaßt.
 - [BGH, Urteil vom 23.09.2003 - XI ZR 380/00](xi-zr-380-00.md) — Tatbestand:
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 42/03](xi-zr-42-03.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
+- [BGH, Beschluss vom 23.09.2003 - XI ZR 50/03](xi-zr-50-03.md) — Entgegen der Ansicht des Klägers ist eine Entscheidung des Revisionsgerichts zur Fortbildung des Rechts ersichtlich nicht geboten und auch die Sicherung einer einheitlichen …
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 54/03](xi-zr-54-03.md) — BGH, Beschluss vom 23.09.2003 - XI ZR 54/03
 - [BGH, Beschluss vom 23.09.2003 - XI ZR 78/03](xi-zr-78-03.md) — BGH, Beschluss vom 23.09.2003 - XI ZR 78/03
+- [BGH, Beschluss vom 16.09.2003 - XI ZR 238/02](xi-zr-238-02.md) — Die vom Beschwerdeführer geltend gemachten Revisionszulassungsgründe liegen nicht vor.
 - [BGH, Beschluss vom 16.09.2003 - XI ZR 447/02](xi-zr-447-02.md) — . Der Antrag der Kläger auf Prozeßkostenhilfe hat insoweit hinreichende Aussicht auf Erfolg, als das Berufungsgericht ihren Feststellungsantrag abgewiesen hat. Mit ihrem Antrag …
 - [BGH, Beschluss vom 16.09.2003 - XI ZR 464/02](xi-zr-464-02.md) — Die Nichtzulassungsbeschwerde des Beklagten ist unzulässig; der Wert des Beschwerdegegenstandes übersteigt die Wertgrenze von ¢¡¤¥ £ ¢¦§¦©¨§§ ¨  20.000 26 Nr.
+- [BGH, Urteil vom 16.09.2003 - XI ZR 74/02](xi-zr-74-02.md) — Tatbestand:
+- [BGH, Beschluss vom 15.07.2003 - XI ZR 172/03](xi-zr-172-03.md) — Die Revision des Beklagten zu 3) bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 15.07.2003 - XI ZR 442/02](xi-zr-442-02.md) — Die Nichtzulassungsbeschwerde ist unbegründet.
+- [BGH, Beschluss vom 15.07.2003 - XI ZR 93/02](xi-zr-93-02.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil die Beklagte es versäumt hat, darzulegen, in welchem Umfang sie mit der beabsichtigten Revision die Abänderung des …
+- [BGH, Beschluss vom 01.07.2003 - XI ZR 360/00](xi-zr-360-00.md) — Besorgnis der Befangenheit findet gemäß § 42 Abs. 2 ZPO nur statt, wenn ein Grund vorliegt, der geeignet ist, Mißtrauen gegen die Unparteili
+- [BGH, Urteil vom 01.07.2003 - XI ZR 363/02](xi-zr-363-02.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2003 - XI ZR 100/02](xi-zr-100-02.md) — 3-
 - [BGH, Urteil vom 17.06.2003 - XI ZR 195/02](xi-zr-195-02.md) — Tatbestand:
+- [BGH, Beschluss vom 17.06.2003 - XI ZR 242/02](xi-zr-242-02.md) — der sie belastenden Kostenentscheidung hinausgehendes Interesse, greift nicht durch. Das Gericht hat bei einer einseitigen Erledigungserklär
+- [BGH, Beschluss vom 03.06.2003 - XI ZR 216/02](xi-zr-216-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und auch die Fortbildung des Rechts sowie die Sicherung einer einheitlichen Rechtsprechung erfordern keine Entscheidung des …
+- [BGH, Urteil vom 03.06.2003 - XI ZR 289/02](xi-zr-289-02.md) — Tatbestand:
+- [BGH, Urteil vom 20.05.2003 - XI ZR 235/02](xi-zr-235-02.md) — Tatbestand:
+- [BGH, Urteil vom 20.05.2003 - XI ZR 248/02](xi-zr-248-02.md) — Tatbestand:
+- [BGH, Urteil vom 20.05.2003 - XI ZR 50/02](xi-zr-50-02.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 13.05.2003 - XI ZR 1/02](xi-zr-1-02.md) — 3-
+- [BGH, Urteil vom 06.05.2003 - XI ZR 226/02](xi-zr-226-02.md) — 3-
+- [BGH, Urteil vom 06.05.2003 - XI ZR 283/02](xi-zr-283-02.md) — Tatbestand:
+- [BGH, Urteil vom 06.05.2003 - XI ZR 33/02](xi-zr-33-02.md) — Tatbestand:
 - [BGH, Urteil vom 29.04.2003 - XI ZR 201/02](xi-zr-201-02.md) — Tatbestand:
 - [BGH, Beschluss vom 11.04.2003 - XI ZB 5/03](xi-zb-5-03.md) — BGH, Beschluss vom 11.04.2003 - XI ZB 5/03
+- [BGH, Beschluss vom 08.04.2003 - XI ZR 193/02](xi-zr-193-02.md) — Die Rechtssache hat entgegen der Ansicht des Klägers weder grundsätzliche Bedeutung noch ist eine Entscheidung des Revisionsgerichts zur Fortbildung des Rechts oder zur Sicherung …
+- [BGH, Beschluss vom 08.04.2003 - XI ZR 336/02](xi-zr-336-02.md) — Die Rechtssache hat entgegen der Ansicht der Klägerin weder grundsätzliche Bedeutung noch ist eine Entscheidung des Revisionsgerichts zur Fortbildung des Rechts oder zur Sicherung …
 - [BGH, Urteil vom 08.04.2003 - XI ZR 423/01](xi-zr-423-01.md) — Tatbestand:
+- [BGH, Beschluss vom 01.04.2003 - XI ZR 298/02](xi-zr-298-02.md) — Die Rechtssache hat entgegen der Ansicht der Beklagten weder grundsätzliche Bedeutung noch ist eine Entscheidung des Revisionsgerichts zur Sicherung einer einheitlichen …
 - [BGH, Beschluss vom 01.04.2003 - XI ZR 299/02](xi-zr-299-02.md) — Die Rechtssache hat entgegen der Ansicht der Beklagten weder grundsätzliche Bedeutung noch ist eine Entscheidung des Revisionsgerichts zur Sicherung einer einheitlichen …
+- [BGH, Beschluss vom 01.04.2003 - XI ZR 300/02](xi-zr-300-02.md) — Die Rechtssache hat entgegen der Ansicht der Beklagten weder grundsätzliche Bedeutung noch ist eine Entscheidung des Revisionsgerichts zur Sicherung einer einheitlichen …
+- [BGH, Versäumnisurteil vom 01.04.2003 - XI ZR 385/02](xi-zr-385-02.md) — unzureichender Aufklärung über die Risiken von Warentermin- oder Optionsgeschäften verlangt, beginnt die Verjährungsfrist nicht, bevor der G
+- [BGH, Versäumnisurteil vom 01.04.2003 - XI ZR 386/02](xi-zr-386-02.md) — Tatbestand:
+- [BGH, Urteil vom 25.03.2003 - XI ZR 224/02](xi-zr-224-02.md) — Tatbestand:
+- [BGH, Urteil vom 25.03.2003 - XI ZR 227/02](xi-zr-227-02.md) — Verstoßes gegen Art. 1 § 1 RBerG i.V. mit § 134 BGB nichtig, so ist davon nach dem Schutzzweck grundsätzlich auch die vom Auftraggeber dem G
 - [BGH, Beschluss vom 25.03.2003 - XI ZR 241/02](xi-zr-241-02.md) — BGH, Beschluss vom 25.03.2003 - XI ZR 241/02
 - [BGH, Beschluss vom 25.03.2003 - XI ZR 264/02](xi-zr-264-02.md) — der Plazierung der Unterschrift neben und oberhalb des Textes nicht eingegangen sei, kann dahinstehen, ob die Nichterwähnung dieses von der
+- [BGH, Urteil vom 18.03.2003 - XI ZR 188/02](xi-zr-188-02.md) — eines Verstoßes gegen Art. 1 § 1 Abs. 1 RBerG nichtig, so erfaßt die Nichtigkeit auch die dem Treuhänder erteilte Vollmacht.
+- [BGH, Urteil vom 18.03.2003 - XI ZR 202/02](xi-zr-202-02.md) — Tatbestand:
+- [BGH, Beschluss vom 18.03.2003 - XI ZR 302/02](xi-zr-302-02.md) — Die vom Beklagten geltend gemachten Zulassungsgründe liegen offensichtlich nicht vor.
+- [BGH, Urteil vom 18.03.2003 - XI ZR 422/01](xi-zr-422-01.md) — Tatbestand:
+- [BGH, Beschluss vom 11.03.2003 - XI ZR 190/02](xi-zr-190-02.md) — Die Voraussetzungen des vom Kläger einzig geltend gemachten Zulassungsgrundes "Sicherung einer einheitlichen Rechtsprechung" gemäß § 543 Abs.
+- [BGH, Urteil vom 11.03.2003 - XI ZR 196/02](xi-zr-196-02.md) — Tatbestand:
+- [BGH, Beschluss vom 11.03.2003 - XI ZR 230/02](xi-zr-230-02.md) — Die Einheitlichkeit der Rechtsprechung (§ 543 Abs.
+- [BGH, Beschluss vom 18.02.2003 - XI ZB 10/02](xi-zb-10-02.md) — Die gemäß § 574 Abs. 1 Nr. 2 ZPO statthafte Rechtsbeschwerde ist zulässig, jedoch unbegründet. Die Klägerin kann von dem Beklagten die Reisekosten ihrer erstinstanzlichen …
+- [BGH, Beschluss vom 18.02.2003 - XI ZB 20/02](xi-zb-20-02.md) — Die Rechtsbeschwerde des Klägers ist nach § 574 Abs.
+- [BGH, Beschluss vom 18.02.2003 - XI ZR 138/02](xi-zr-138-02.md) — der Subsidiaritätsklausel in § 5 Abs. 2 HWiG ausscheidet (Senatsurteil vom 9. April 2002 - XI ZR 91/99, WM 2002, 1181, 1183 ff., zum Abdruck
+- [BGH, Urteil vom 18.02.2003 - XI ZR 165/02](xi-zr-165-02.md) — Tatbestand:
+- [BGH, Beschluss vom 11.02.2003 - XI ZR 113/02](xi-zr-113-02.md) — . Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs. 2 Satz 1 Nr. 1 ZPO). Mit der Nichtzulassungsbeschwerde wird keine entscheidungserhebliche, klärungsbedürftige und …
+- [BGH, Urteil vom 11.02.2003 - XI ZR 130/02](xi-zr-130-02.md) — Tatbestand:
 - [BGH, Beschluss vom 11.02.2003 - XI ZR 153/02](xi-zr-153-02.md) — Revisionszulassungsgründe im Sinne des § 543 Abs.
 - [BGH, Urteil vom 11.02.2003 - XI ZR 214/01](xi-zr-214-01.md) — Tatbestand:
+- [BGH, Beschluss vom 04.02.2003 - XI ZB 21/02](xi-zb-21-02.md) — I. Die Klägerin mit Sitz in S. (Hessen) erhob, vertreten durch gleichfalls in S. ansässige Rechtsanwälte, im Februar 2002 gegen den Beklagten Zahlungsklage beim Landgericht D …
 - [BGH, Urteil vom 04.02.2003 - XI ZR 117/02](xi-zr-117-02.md) — Tatbestand:
+- [BGH, Urteil vom 28.01.2003 - XI ZR 156/02](xi-zr-156-02.md) — Tatbestand:
+- [BGH, Beschluss vom 28.01.2003 - XI ZR 176/02](xi-zr-176-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
 - [BGH, Urteil vom 28.01.2003 - XI ZR 243/02](xi-zr-243-02.md) — Vermögenslosigkeit und/oder Löschung im Handelsregister als Rechtsperson untergegangen ist und aus diesem Grund die gegen sie gerichteten Fo
 - [BGH, Urteil vom 21.01.2003 - XI ZR 125/02](xi-zr-125-02.md) — Tatbestand:
 - [BGH, Urteil vom 21.01.2003 - XI ZR 145/02](xi-zr-145-02.md) — Tatbestand:
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 14/02](xi-zr-14-02.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 14/02
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 162/00](xi-zr-162-00.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 162/00
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 18/02](xi-zr-18-02.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 18/02
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 196/01](xi-zr-196-01.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 196/01
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 28/02](xi-zr-28-02.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 28/02
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 304/01](xi-zr-304-01.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 304/01
-- [BGH, Beschluss vom 13.01.2003 - XI ZR 338/01](xi-zr-338-01.md) — BGH, Beschluss vom 13.01.2003 - XI ZR 338/01
+- [BGH, Beschluss vom 21.01.2003 - XI ZR 150/02](xi-zr-150-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
+- [BGH, Beschluss vom 21.01.2003 - XI ZR 295/02](xi-zr-295-02.md) — Die Nichtzulassungsbeschwerde ist unbegründet.
+- [BGH, Beschluss vom 21.01.2003 - XI ZR 62/02](xi-zr-62-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
+- [BGH, Beschluss vom 14.01.2003 - XI ZR 104/02](xi-zr-104-02.md) — Die Rechtssache hat entgegen der Ansicht der Klägerin weder grundsätzliche Bedeutung noch ist eine Entscheidung des Revisionsgerichts zur Sicherung einer einheitlichen …
+- [BGH, Urteil vom 14.01.2003 - XI ZR 154/02](xi-zr-154-02.md) — Tatbestand:
+- [BGH, Beschluss vom 13.01.2003 - XI ZR 357/01](xi-zr-357-01.md) — Besorgnis der Befangenheit abgelehnt und hierzu im wesentlichen folgendes vorgetragen: Die im Schrifttum weit überwiegend abgelehnte Rechtsp
+- [BGH, Beschluss vom 13.01.2003 - XI ZR 388/01](xi-zr-388-01.md) — Besorgnis der Befangenheit abgelehnt und hierzu im wesentlichen folgendes vorgetragen: Die im Schrifttum weit überwiegend abgelehnte Rechtsp
+- [BGH, Beschluss vom 13.01.2003 - XI ZR 390/01](xi-zr-390-01.md) — Besorgnis der Befangenheit abgelehnt und hierzu im wesentlichen folgendes vorgetragen: Die im Schrifttum weit überwiegend abgelehnte Rechtsp
+- [BGH, Beschluss vom 13.01.2003 - XI ZR 395/01](xi-zr-395-01.md) — Besorgnis der Befangenheit abgelehnt und hierzu im wesentlichen folgendes vorgetragen: Die im Schrifttum weit überwiegend abgelehnte Rechtsp
+- [BGH, Beschluss vom 13.01.2003 - XI ZR 397/01](xi-zr-397-01.md) — Besorgnis der Befangenheit abgelehnt und hierzu im wesentlichen folgendes vorgetragen: Die im Schrifttum weit überwiegend abgelehnte Rechtsp
+- [BGH, Beschluss vom 13.01.2003 - XI ZR 70/02](xi-zr-70-02.md) — Besorgnis der Befangenheit abgelehnt und hierzu im wesentlichen folgendes vorgetragen: Die im Schrifttum weit überwiegend abgelehnte Rechtsp

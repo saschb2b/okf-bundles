@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu HA"
 description: "BGH-Entscheidungen zu HA, geordnet nach Vorschrift."
 tags: [register, navigation, ha]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

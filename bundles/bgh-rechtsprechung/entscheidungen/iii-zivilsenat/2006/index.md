@@ -1,25 +1,36 @@
 # III. Zivilsenat – 2006
 
-55 Entscheidung(en).
+107 Entscheidung(en).
 
 - [BGH, Urteil vom 21.12.2006 - III ZR 117/06](iii-zr-117-06.md) — 3-
 - [BGH, Beschluss vom 21.12.2006 - III ZR 224/05](iii-zr-224-05.md) — BGH, Beschluss vom 21.12.2006 - III ZR 224/05
 - [BGH, Urteil vom 14.12.2006 - III ZR 303/05](iii-zr-303-05.md) — Tatbestand
 - [BGH, Urteil vom 07.12.2006 - III ZR 82/06](iii-zr-82-06.md) — Tatbestand
+- [BGH, Beschluss vom 30.11.2006 - III ZB 22/06](iii-zb-22-06.md) — im
 - [BGH, Beschluss vom 30.11.2006 - III ZB 23/06](iii-zb-23-06.md) — einer beabsichtigten Klage auf Entschädigung für eine Strafverfolgungsmaßnahme einen Prozesskostenhilfeantrag, ohne innerhalb der Frist des
+- [BGH, Beschluss vom 30.11.2006 - III ZR 262/05](iii-zr-262-05.md) — entfällt der Tatbestand einer Amtspflichtverletzung oder eines enteignungsgleichen Eingriffs bereits dem Grunde nach.
+- [BGH, Urteil vom 30.11.2006 - III ZR 352/04](iii-zr-352-04.md) — eines Formfehlers nichtig ist.
+- [BGH, Beschluss vom 30.11.2006 - III ZR 93/06](iii-zr-93-06.md) — die Beklagte, die ihm die Be-
 - [BGH, Urteil vom 23.11.2006 - III ZR 52/06](iii-zr-52-06.md) — Tatbestand
+- [BGH, Urteil vom 23.11.2006 - III ZR 65/06](iii-zr-65-06.md) — Tatbestand
+- [BGH, Urteil vom 16.11.2006 - III ZR 57/06](iii-zr-57-06.md) — Tatbestand
+- [BGH, Urteil vom 16.11.2006 - III ZR 58/06](iii-zr-58-06.md) — Tatbestand
+- [BGH, Urteil vom 09.11.2006 - III ZR 111/05](iii-zr-111-05.md) — Tatbestand
+- [BGH, Urteil vom 02.11.2006 - III ZR 10/06](iii-zr-10-06.md) — Tatbestand
 - [BGH, Urteil vom 02.11.2006 - III ZR 190/05](iii-zr-190-05.md) — Tatbestand
 - [BGH, Urteil vom 02.11.2006 - III ZR 274/05](iii-zr-274-05.md) — Tatbestand
+- [BGH, Beschluss vom 26.10.2006 - III ZB 2/06](iii-zb-2-06.md) — der Verwendung der ihrer Ansicht nach unklaren und nicht dem Wil-
 - [BGH, Beschluss vom 26.10.2006 - III ZR 40/06](iii-zr-40-06.md) — I. 1 Der Kläger schloss mit der Rechtsvorgängerin der Beklagten, der T. I. AG, einen Vertrag über die Gewährung eines Internet- zugangs. Als Entgelt war nach dem Tarif "T. DSL …
 - [BGH, Beschluss vom 26.10.2006 - III ZR 49/06](iii-zr-49-06.md) — grundsätzlicher Bedeutung der Sache noch zur Sicherung einer einheit-
 - [BGH, Beschluss vom 26.10.2006 - III ZR 8/06](iii-zr-8-06.md) — Eine Revisionszulassung ist nicht erforderlich.
 - [BGH, Urteil vom 19.10.2006 - III ZR 122/05](iii-zr-122-05.md) — Tatbestand
-- [BGH, Beschluss vom 12.10.2006 - III ZR 144/05](iii-zr-144-05.md) — BGH, Beschluss vom 12.10.2006 - III ZR 144/05
 - [BGH, Urteil vom 12.10.2006 - III ZR 299/05](iii-zr-299-05.md) — Tatbestand
 - [BGH, Urteil vom 12.10.2006 - III ZR 331/04](iii-zr-331-04.md) — Tatbestand
+- [BGH, Urteil vom 05.10.2006 - III ZR 166/05](iii-zr-166-05.md) — Tatbestand
 - [BGH, Urteil vom 05.10.2006 - III ZR 283/05](iii-zr-283-05.md) — einer der Amtsausübung zugrunde liegenden Rechtsanwendung und Gesetzesauslegung nur zu erheben, wenn die Rechtsauffassung unvertretbar ersch
+- [BGH, Beschluss vom 28.09.2006 - III ZB 114/05](iii-zb-114-05.md) — I. 1 Die Antragsgegnerin wurde durch Schiedsspruch der Industrie- und Han- delskammer G. verurteilt, an den Antragsteller ein (Rest-)Beratungshonorar ("consulting fee") in Höhe …
 - [BGH, Beschluss vom 28.09.2006 - III ZB 89/05](iii-zb-89-05.md) — I. 1 Der Antragsteller verbüßt seit dem 2. Juli 2001 Strafhaft. Vom 17. De- zember 2002 bis zum 29. Januar 2003 und vom 5. März 2003 bis zum 6. Mai 2003 war er zusammen mit einem …
-- [BGH, Beschluss vom 28.09.2006 - III ZR 102/06](iii-zr-102-06.md) — BGH, Beschluss vom 28.09.2006 - III ZR 102/06
+- [BGH, Beschluss vom 28.09.2006 - III ZR 295/05](iii-zr-295-05.md) — Die Revision ist nicht zuzulassen, da die Rechtssache keine grundsätzli- che Bedeutung hat (§ 543 Abs.
 - [BGH, Beschluss vom 28.09.2006 - III ZR 33/06](iii-zr-33-06.md) — Die für die Zulässigkeit einer Nichtzulassungsbeschwerde gemäß § 26 Nr.
 - [BGH, Beschluss vom 30.08.2006 - III ZR 269/05](iii-zr-269-05.md) — BGH, Beschluss vom 30.08.2006 - III ZR 269/05
 - [BGH, Beschluss vom 28.07.2006 - III ZB 128/05](iii-zb-128-05.md) — BGH, Beschluss vom 28.07.2006 - III ZB 128/05
@@ -28,32 +39,73 @@
 - [BGH, Urteil vom 20.07.2006 - III ZR 145/05](iii-zr-145-05.md) — Tatbestand
 - [BGH, Urteil vom 20.07.2006 - III ZR 280/05](iii-zr-280-05.md) — Tatbestand
 - [BGH, Urteil vom 13.07.2006 - III ZR 361/04](iii-zr-361-04.md) — eines Verschuldens bei den Beitrittsverhandlungen unterliegen nach dem bis zum 31. Dezember 2001 geltenden Recht nicht der Verjährung nach §
+- [BGH, Urteil vom 06.07.2006 - III ZR 13/05](iii-zr-13-05.md) — Tatbestand
+- [BGH, Urteil vom 06.07.2006 - III ZR 2/06](iii-zr-2-06.md) — Tatbestand
 - [BGH, Urteil vom 06.07.2006 - III ZR 257/05](iii-zr-257-05.md) — Tatbestand
 - [BGH, Urteil vom 06.07.2006 - III ZR 379/04](iii-zr-379-04.md) — Tatbestand
+- [BGH, Urteil vom 06.07.2006 - III ZR 80/05](iii-zr-80-05.md) — Tatbestand
 - [BGH, Beschluss vom 29.06.2006 - III ZA 7/06](iii-za-7-06.md) — Kostenarmut um Prozesskostenhilfe nachsucht und deshalb an der Einhaltung dieser Frist gehindert ist. Seit dem Inkrafttreten des 1. Justizmo
 - [BGH, Beschluss vom 29.06.2006 - III ZB 36/06](iii-zb-36-06.md) — BGH, Beschluss vom 29.06.2006 - III ZB 36/06
+- [BGH, Beschluss vom 29.06.2006 - III ZR 253/05](iii-zr-253-05.md) — der von dem Flugplatz ausgehenden Fluglärmimmissionen (Anschluss an BGHZ 129, 124).
 - [BGH, Beschluss vom 29.06.2006 - III ZR 466/04](iii-zr-466-04.md) — BGH, Beschluss vom 29.06.2006 - III ZR 466/04
 - [BGH, Urteil vom 22.06.2006 - III ZR 19/05](iii-zr-19-05.md) — Tatbestand
 - [BGH, Urteil vom 22.06.2006 - III ZR 259/05](iii-zr-259-05.md) — Tatbestand
 - [BGH, Urteil vom 22.06.2006 - III ZR 270/05](iii-zr-270-05.md) — Tatbestand
 - [BGH, Urteil vom 08.06.2006 - III ZR 236/04](iii-zr-236-04.md) — Tatbestand
 - [BGH, Beschluss vom 01.06.2006 - III ZB 134/05](iii-zb-134-05.md) — der Versäumung der Frist zur Begründung der Berufung gegen das Urteil des Landgerichts Hamburg, Zivilkammer 27, vom 4. März 2005 - 327 O 365
+- [BGH, Beschluss vom 01.06.2006 - III ZR 207/05](iii-zr-207-05.md) — eines angeblich fehlerhaften
+- [BGH, Beschluss vom 01.06.2006 - III ZR 5/06](iii-zr-5-06.md) — Der Wert der von der Klägerin mit einer Revision geltend zu machenden Beschwer übersteigt nicht 20.000 € (§ 26 Nr.
+- [BGH, Urteil vom 18.05.2006 - III ZR 183/05](iii-zr-183-05.md) — rechtswidriger Abschiebungshaft.
 - [BGH, Urteil vom 18.05.2006 - III ZR 396/04](iii-zr-396-04.md) — Tatbestand
+- [BGH, Urteil vom 11.05.2006 - III ZR 205/05](iii-zr-205-05.md) — unzureichender Risikoaufklärung in Anspruch, so trägt er für die Behauptung, vom Vermittler keinen - Risikohinweise enthaltenden - Anlagepro
 - [BGH, Urteil vom 11.05.2006 - III ZR 228/05](iii-zr-228-05.md) — Tatbestand
+- [BGH, Beschluss vom 04.05.2006 - III ZB 120/05](iii-zb-120-05.md) — der eingelegten Nichtzulassungsbeschwerde nicht nachkam, regte
+- [BGH, Beschluss vom 12.04.2006 - III ZR 153/05](iii-zr-153-05.md) — grundsätzlicher Bedeutung
 - [BGH, Beschluss vom 12.04.2006 - III ZR 35/05](iii-zr-35-05.md) — I. 1 Der Kläger, approbierter Arzt und Zahnarzt und seit 1977 Facharzt für Mund-, Kiefer- und Gesichtschirurgie, war nach verschiedenen Tätigkeiten, auch im Hochschulbereich, seit …
 - [BGH, Urteil vom 06.04.2006 - III ZR 256/04](iii-zr-256-04.md) — Tatbestand
 - [BGH, Beschluss vom 30.03.2006 - III ZB 123/05](iii-zb-123-05.md) — BGH, Beschluss vom 30.03.2006 - III ZB 123/05
+- [BGH, Beschluss vom 30.03.2006 - III ZB 74/05](iii-zb-74-05.md) — I. 1 Die Landwirtschaftliche Produktionsgenossenschaft Tierproduktion (LPG T) S. , die Rechtsvorgängerin der Antragsgegnerin sowie die LPG T G. und die LPG T R. , die …
+- [BGH, Beschluss vom 30.03.2006 - III ZB 78/05](iii-zb-78-05.md) — I. 1 Die Antragsgegnerin ist Insolvenzverwalterin über das Vermögen der K. GmbH. Gestützt auf Si- cherungsabtretungen der Gemeinschuldnerin und eines Zwischenerwerbers der …
 - [BGH, Beschluss vom 30.03.2006 - III ZR 128/05](iii-zr-128-05.md) — grundsätzlicher Bedeutung
+- [BGH, Beschluss vom 30.03.2006 - III ZR 187/05](iii-zr-187-05.md) — eines Verfahrensfehlers aufhebt,
+- [BGH, Beschluss vom 30.03.2006 - III ZR 204/05](iii-zr-204-05.md) — grundsätzlicher Bedeutung
+- [BGH, Beschluss vom 30.03.2006 - III ZR 225/05](iii-zr-225-05.md) — I. 1 Die Klägerin verlangt aus abgetretenem Recht ihres Ehemannes, eines Rechtsanwalts, von dem Beklagten die Auszahlung eines Teiles des Erlöses, den dieser aus dem Verkauf einer …
+- [BGH, Beschluss vom 30.03.2006 - III ZR 463/04](iii-zr-463-04.md) — grundsätzlicher Bedeutung
+- [BGH, Beschluss vom 30.03.2006 - III ZR 6/05](iii-zr-6-05.md) — der Versäumung der Revisionsbegründungsfrist wird zurückgewiesen.
+- [BGH, Urteil vom 23.03.2006 - III ZR 102/05](iii-zr-102-05.md) — Tatbestand
+- [BGH, Urteil vom 23.03.2006 - III ZR 141/05](iii-zr-141-05.md) — Tatbestand
 - [BGH, Urteil vom 23.03.2006 - III ZR 223/05](iii-zr-223-05.md) — Tatbestand
+- [BGH, Versäumnisurteil vom 16.03.2006 - III ZR 127/05](iii-zr-127-05.md) — 3-
 - [BGH, Urteil vom 16.03.2006 - III ZR 129/05](iii-zr-129-05.md) — BGH, Urteil vom 16.03.2006 - III ZR 129/05
+- [BGH, Urteil vom 16.03.2006 - III ZR 152/05](iii-zr-152-05.md) — Tatbestand
 - [BGH, Urteil vom 16.03.2006 - III ZR 217/05](iii-zr-217-05.md) — Tatbestand
 - [BGH, Urteil vom 09.03.2006 - III ZR 143/05](iii-zr-143-05.md) — Tatbestand
+- [BGH, Urteil vom 09.03.2006 - III ZR 151/05](iii-zr-151-05.md) — Tatbestand
 - [BGH, Urteil vom 09.03.2006 - III ZR 235/05](iii-zr-235-05.md) — Tatbestand
+- [BGH, Urteil vom 02.03.2006 - III ZR 383/02](iii-zr-383-02.md) — Tatbestand
+- [BGH, Beschluss vom 23.02.2006 - III ZB 50/05](iii-zb-50-05.md) — Vollstreckbarerklärung eines Schiedsspruchs
+- [BGH, Beschluss vom 23.02.2006 - III ZR 10/05](iii-zr-10-05.md) — Der Rechtsbehelf ist zulässig, aber unbegründet.
 - [BGH, Beschluss vom 23.02.2006 - III ZR 154/05](iii-zr-154-05.md) — spricht nichts dafür, dass es diesen Kla-
+- [BGH, Urteil vom 23.02.2006 - III ZR 164/05](iii-zr-164-05.md) — Tatbestand
 - [BGH, Urteil vom 23.02.2006 - III ZR 167/05](iii-zr-167-05.md) — Tatbestand
+- [BGH, Beschluss vom 23.02.2006 - III ZR 176/05](iii-zr-176-05.md) — grundsätzlicher Bedeutung
 - [BGH, Beschluss vom 23.02.2006 - III ZR 209/05](iii-zr-209-05.md) — BGH, Beschluss vom 23.02.2006 - III ZR 209/05
 - [BGH, Beschluss vom 16.02.2006 - III ZA 12/05](iii-za-12-05.md) — BGH, Beschluss vom 16.02.2006 - III ZA 12/05
+- [BGH, Urteil vom 16.02.2006 - III ZR 68/05](iii-zr-68-05.md) — Tatbestand
+- [BGH, Urteil vom 09.02.2006 - III ZR 20/05](iii-zr-20-05.md) — Tatbestand
+- [BGH, Urteil vom 02.02.2006 - III ZR 131/05](iii-zr-131-05.md) — Tatbestand
+- [BGH, Urteil vom 02.02.2006 - III ZR 159/05](iii-zr-159-05.md) — Tatbestand
+- [BGH, Urteil vom 02.02.2006 - III ZR 61/05](iii-zr-61-05.md) — Tatbestand
+- [BGH, Beschluss vom 26.01.2006 - III ZB 110/05](iii-zb-110-05.md) — I. 1 Die Beklagte wurde durch Urteil des Landgerichts Düsseldorf zur Zah- lung von 58.725 € nebst Zinsen verurteilt. Gegen das ihr am 13. Mai 2005 zu- gestellte Urteil legte sie …
+- [BGH, Beschluss vom 26.01.2006 - III ZB 130/05](iii-zb-130-05.md) — I. 1 Mit der von ihm selbst eingereichten Klage begehrt der Kläger Ersatz von Schäden und Freistellung von Schadensersatzansprüchen, die dadurch ent- standen sein sollen, dass die …
+- [BGH, Beschluss vom 26.01.2006 - III ZB 63/05](iii-zb-63-05.md) — der beendeten Zulassung unwirksam (Abgrenzung zu BGHZ 98, 325). Es bleibt offen, ob mit dem Ende der Zulassung auch die einem Rechtsanwalt e
+- [BGH, Beschluss vom 26.01.2006 - III ZR 139/05](iii-zr-139-05.md) — entscheidend anders, weil die Fördermittelbera-
+- [BGH, Beschluss vom 26.01.2006 - III ZR 157/05](iii-zr-157-05.md) — fehlender Eignung und unzureichender Leis-
+- [BGH, Beschluss vom 26.01.2006 - III ZR 75/05](iii-zr-75-05.md) — Die Nichtzulassungsbeschwerde ist unzulässig, da der Wert der mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
 - [BGH, Beschluss vom 24.01.2006 - III ZR 120/06](iii-zr-120-06.md) — der Abtretung seiner
+- [BGH, Urteil vom 19.01.2006 - III ZR 105/05](iii-zr-105-05.md) — Tatbestand
+- [BGH, Urteil vom 19.01.2006 - III ZR 121/05](iii-zr-121-05.md) — Tatbestand
+- [BGH, Urteil vom 19.01.2006 - III ZR 82/05](iii-zr-82-05.md) — Tatbestand
 - [BGH, Versäumnisurteil vom 12.01.2006 - III ZR 138/05](iii-zr-138-05.md) — Tatbestand
 - [BGH, Urteil vom 12.01.2006 - III ZR 214/05](iii-zr-214-05.md) — Tatbestand
 - [BGH, Beschluss vom 12.01.2006 - III ZR 407/04](iii-zr-407-04.md) — eines

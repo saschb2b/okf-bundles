@@ -1,57 +1,124 @@
 # I. Zivilsenat – 2004
 
-62 Entscheidung(en).
+140 Entscheidung(en).
 
 - [BGH, Beschluss vom 16.12.2004 - I ZB 12/02](i-zb-12-02.md) — eines engen beschreibenden Bezugs der angemeldeten Marke zu allen angemeldeten Waren und Dienstleistungen nicht begründet werden.
 - [BGH, Beschluss vom 16.12.2004 - I ZB 23/04](i-zb-23-04.md) — BGH, Beschluss vom 16.12.2004 - I ZB 23/04
+- [BGH, Urteil vom 16.12.2004 - I ZR 177/02](i-zr-177-02.md) — Tatbestand:
 - [BGH, Urteil vom 16.12.2004 - I ZR 222/02](i-zr-222-02.md) — Tatbestand:
 - [BGH, Urteil vom 16.12.2004 - I ZR 69/02](i-zr-69-02.md) — Tatbestand:
 - [BGH, Beschluss vom 02.12.2004 - I ZB 14/04](i-zb-14-04.md) — I. Der Schutz für die am 30. Juni 1922 angemeldete Wortmarke Kanold wurde zuletzt mit Wirkung vom Juni 1992 verlängert. Die niederländischen Vertreter der Markeninhaberin …
+- [BGH, Beschluss vom 02.12.2004 - I ZB 4/04](i-zb-4-04.md) — wettbewerbswidriger Werbung gegen die Beklagte geltend gemacht. In der mündlichen Verhandlung vor dem Landgericht Köln am 28. Februar 2002 h
 - [BGH, Beschluss vom 02.12.2004 - I ZB 8/04](i-zb-8-04.md) — BGH, Beschluss vom 02.12.2004 - I ZB 8/04
 - [BGH, Urteil vom 02.12.2004 - I ZR 207/01](i-zr-207-01.md) — Tatbestand:
+- [BGH, Beschluss vom 02.12.2004 - I ZR 273/01](i-zr-273-01.md) — I. Die Klägerin, die S. AG, produziert und vertreibt speicherprogrammierbare Steuerungen mit der Bezeichnung "S. ". Sie ist im Bereich der Automatisierungstechnik auf dem …
+- [BGH, Urteil vom 02.12.2004 - I ZR 30/02](i-zr-30-02.md) — 3-
+- [BGH, Urteil vom 02.12.2004 - I ZR 48/02](i-zr-48-02.md) — Tatbestand:
+- [BGH, Beschluss vom 02.12.2004 - I ZR 92/02](i-zr-92-02.md) — ihrer eigenen religiösen Einstellung in einem Verfahren bei dem es um innerkirchliche Glaubensfragen gehe, zwangsläufig parteiisch.
 - [BGH, Beschluss vom 25.11.2004 - I ZB 16/04](i-zb-16-04.md) — berufswidriger Werbung geltend, hat er im Rahmen der Kostenerstattung keinen Anspruch auf Zahlung von Umsatzsteuer.
 - [BGH, Urteil vom 25.11.2004 - I ZR 145/02](i-zr-145-02.md) — 3-
 - [BGH, Urteil vom 25.11.2004 - I ZR 210/01](i-zr-210-01.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2004 - I ZR 49/02](i-zr-49-02.md) — BGH, Urteil vom 25.11.2004 - I ZR 49/02
+- [BGH, Urteil vom 11.11.2004 - I ZR 120/02](i-zr-120-02.md) — Tatbestand:
 - [BGH, Urteil vom 11.11.2004 - I ZR 156/02](i-zr-156-02.md) — Tatbestand:
+- [BGH, Urteil vom 11.11.2004 - I ZR 182/02](i-zr-182-02.md) — Tatbestand:
+- [BGH, Urteil vom 11.11.2004 - I ZR 213/01](i-zr-213-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.11.2004 - I ZR 72/02](i-zr-72-02.md) — Tatbestand:
+- [BGH, Beschluss vom 28.10.2004 - I ZR 17/04](i-zr-17-04.md) — BGH, Beschluss vom 28.10.2004 - I ZR 17/04
+- [BGH, Urteil vom 28.10.2004 - I ZR 326/01](i-zr-326-01.md) — 3Tatbestand:
 - [BGH, Urteil vom 28.10.2004 - I ZR 38/02](i-zr-38-02.md) — Tatbestand:
 - [BGH, Urteil vom 28.10.2004 - I ZR 59/02](i-zr-59-02.md) — Tatbestand:
 - [BGH, Beschluss vom 13.10.2004 - I ZB 10/02](i-zb-10-02.md) — absoluter Schutzhindernisse nach § 8 Abs. 2 MarkenG nicht eingetragen werden dürfen. Sie lehne sich an den INN (International Nonproprietary
 - [BGH, Beschluss vom 13.10.2004 - I ZB 4/02](i-zb-4-02.md) — der klanglichen Ähnlichkeit der Marken nicht ausgegangen werden. Der Gesamteindruck der kollidierenden Marken werde nicht nur durch die Wört
+- [BGH, Urteil vom 13.10.2004 - I ZR 163/02](i-zr-163-02.md) — Tatbestand: Die Klägerin, die seit Anfang der 70er Jahre die Angabe "MARITIM" zur Bezeichnung ihres Geschäftsbetriebs verwendet, betreibt in
 - [BGH, Urteil vom 13.10.2004 - I ZR 181/02](i-zr-181-02.md) — 3Tatbestand:
+- [BGH, Urteil vom 13.10.2004 - I ZR 245/01](i-zr-245-01.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2004 - I ZR 249/01](i-zr-249-01.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2004 - I ZR 277/01](i-zr-277-01.md) — Tatbestand:
 - [BGH, Urteil vom 13.10.2004 - I ZR 49/03](i-zr-49-03.md) — Tatbestand:
+- [BGH, Beschluss vom 13.10.2004 - I ZR 58/04](i-zr-58-04.md) — BGH, Beschluss vom 13.10.2004 - I ZR 58/04
+- [BGH, Urteil vom 13.10.2004 - I ZR 66/02](i-zr-66-02.md) — Tatbestand:
 - [BGH, Beschluss vom 07.10.2004 - I ZB 19/04](i-zb-19-04.md) — Der Beklagte legt nicht dar, aus welchen Gründen der entsprechend der rechtsfehlerfreien Bemessung der Vorinstanzen auf 20.000 € festgesetzte Beschwerdewert auf 4.000 € …
+- [BGH, Beschluss vom 07.10.2004 - I ZB 20/04](i-zb-20-04.md) — Versäumung der Frist zur Einlegung und zur Begründung der Rechtsbeschwerde gegen den Beschluß der 19. Zivilkammer des Landgerichts Stuttgart
+- [BGH, Beschluss vom 07.10.2004 - I ZR 110/04](i-zr-110-04.md) — Auf Antrag der Klägerin zu 2, dem die Beklagte zugestimmt hat, ist gemäß § 251 Satz 1 ZPO das Ruhen des Verfahrens anzuordnen, weil dies im Hinblick auf die ausstehende …
+- [BGH, Beschluss vom 07.10.2004 - I ZR 13/04](i-zr-13-04.md) — BGH, Beschluss vom 07.10.2004 - I ZR 13/04
 - [BGH, Urteil vom 07.10.2004 - I ZR 18/02](i-zr-18-02.md) — 3-
-- [BGH, Versäumnisurteil vom 30.09.2004 - I ZR 135/02](i-zr-135-02.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2004 - I ZR 91/02](i-zr-91-02.md) — Tatbestand:
 - [BGH, Urteil vom 30.09.2004 - I ZR 14/02](i-zr-14-02.md) — Tatbestand:
+- [BGH, Urteil vom 30.09.2004 - I ZR 207/02](i-zr-207-02.md) — Tatbestand:
 - [BGH, Urteil vom 30.09.2004 - I ZR 261/02](i-zr-261-02.md) — Tatbestand:
 - [BGH, Beschluss vom 30.09.2004 - I ZR 30/04](i-zr-30-04.md) — I. Die Beklagte hat in einer am Freitag, den 21. Juni 2002 erschienenen Werbeanzeige die Gewährung von 20 % Rabatt "auf alles - heute und morgen" angekündigt. Der Kläger hat darin …
+- [BGH, Urteil vom 30.09.2004 - I ZR 89/02](i-zr-89-02.md) — Tatbestand:
+- [BGH, Beschluss vom 09.09.2004 - I ZB 5/04](i-zb-5-04.md) — des Verlustes von Transportgut auf Zahlung von Schadensersatz in Höhe
+- [BGH, Beschluss vom 09.09.2004 - I ZB 7/04](i-zb-7-04.md) — des Verlustes von Transportgut auf Zahlung von Schadensersatz in Höhe von 6.672,36 € nebst Zinsen in Anspruch genommen. Das Landgericht hat
+- [BGH, Urteil vom 09.09.2004 - I ZR 269/01](i-zr-269-01.md) — Gründe:
 - [BGH, Urteil vom 09.09.2004 - I ZR 65/02](i-zr-65-02.md) — Tatbestand:
 - [BGH, Urteil vom 09.09.2004 - I ZR 93/02](i-zr-93-02.md) — Tatbestand:
 - [BGH, Beschluss vom 12.08.2004 - I ZB 1/04](i-zb-1-04.md) — I. Die Anmelder haben mit ihrer am 18. Mai 1999 eingereichten Anmeldung die Eintragung der nachstehend dargestellten Bildmarke für die Dienstleistungen "Geschäftsführung …
 - [BGH, Beschluss vom 12.08.2004 - I ZB 19/01](i-zb-19-01.md) — BGH, Beschluss vom 12.08.2004 - I ZB 19/01
 - [BGH, Beschluss vom 12.08.2004 - I ZB 20/01](i-zb-20-01.md) — BGH, Beschluss vom 12.08.2004 - I ZB 20/01
 - [BGH, Beschluss vom 12.08.2004 - I ZB 35/00](i-zb-35-00.md) — BGH, Beschluss vom 12.08.2004 - I ZB 35/00
-- [BGH, Beschluss vom 12.08.2004 - I ZR 98/02](i-zr-98-02.md) — BGH, Beschluss vom 12.08.2004 - I ZR 98/02
+- [BGH, Beschluss vom 12.08.2004 - I ZB 6/04](i-zb-6-04.md) — I. Die Parteien streiten im Rahmen der Kostenfestsetzung darüber, in welcher Höhe die Prozeßgebühr eines im Revisionsverfahren vor dem Bundesgerichtshof mitwirkenden Patentanwalts …
+- [BGH, Beschluss vom 12.08.2004 - I ZR 230/03](i-zr-230-03.md) — BGH, Beschluss vom 12.08.2004 - I ZR 230/03
+- [BGH, Urteil vom 22.07.2004 - I ZR 135/01](i-zr-135-01.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 22.07.2004 - I ZR 204/01](i-zr-204-01.md) — BGH, Versäumnisurteil vom 22.07.2004 - I ZR 204/01
 - [BGH, Urteil vom 22.07.2004 - I ZR 288/01](i-zr-288-01.md) — seines Nähr-, Geruchs- oder Geschmackswerts Lebensmitteln zugesetzt wird.
 - [BGH, Urteil vom 15.07.2004 - I ZR 142/01](i-zr-142-01.md) — zu berücksichtigen.
 - [BGH, Urteil vom 15.07.2004 - I ZR 37/01](i-zr-37-01.md) — 3-
 - [BGH, Urteil vom 08.07.2004 - I ZR 142/02](i-zr-142-02.md) — Tatbestand:
+- [BGH, Urteil vom 08.07.2004 - I ZR 25/02](i-zr-25-02.md) — Verletzung ihm im Ausland zustehender Nutzungsrechte geltend machen will.
+- [BGH, Urteil vom 08.07.2004 - I ZR 272/01](i-zr-272-01.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2004 - I ZR 26/02](i-zr-26-02.md) — Werbebehinderung gegen § 1 UWG und stellen auch keine nach dieser Bestimmung unzulässige allgemeine Marktbehinderung dar.
+- [BGH, Urteil vom 24.06.2004 - I ZR 266/01](i-zr-266-01.md) — 3-
+- [BGH, Urteil vom 24.06.2004 - I ZR 308/01](i-zr-308-01.md) — Tatbestand:
+- [BGH, Urteil vom 24.06.2004 - I ZR 44/02](i-zr-44-02.md) — Tatbestand:
 - [BGH, Beschluss vom 17.06.2004 - I ZR 12/04](i-zr-12-04.md) — BGH, Beschluss vom 17.06.2004 - I ZR 12/04
+- [BGH, Urteil vom 17.06.2004 - I ZR 136/01](i-zr-136-01.md) — 3-
+- [BGH, Urteil vom 17.06.2004 - I ZR 263/01](i-zr-263-01.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2004 - I ZR 284/01](i-zr-284-01.md) — 3-
+- [BGH, Urteil vom 09.06.2004 - I ZR 13/02](i-zr-13-02.md) — Tatbestand:
+- [BGH, Urteil vom 09.06.2004 - I ZR 187/02](i-zr-187-02.md) — Tatbestand:
 - [BGH, Urteil vom 09.06.2004 - I ZR 266/00](i-zr-266-00.md) — Tatbestand:
+- [BGH, Urteil vom 09.06.2004 - I ZR 31/02](i-zr-31-02.md) — Tatbestand:
 - [BGH, Urteil vom 09.06.2004 - I ZR 70/02](i-zr-70-02.md) — 3-
+- [BGH, Beschluss vom 13.05.2004 - I ZB 3/04](i-zb-3-04.md) — I. Die Klägerin ist ein in Düsseldorf ansässiges Versicherungsunternehmen; die Bearbeitung von Regreßansprüchen findet in einer Zweigstelle in Hamburg statt. Sie hat die Beklagte …
 - [BGH, Urteil vom 13.05.2004 - I ZR 261/01](i-zr-261-01.md) — BGH, Urteil vom 13.05.2004 - I ZR 261/01
 - [BGH, Urteil vom 13.05.2004 - I ZR 264/00](i-zr-264-00.md) — Tatbestand:
+- [BGH, Beschluss vom 06.05.2004 - I ZB 27/03](i-zb-27-03.md) — I. Die Verfügungsklägerin nahm die in Aschaffenburg ansässige Verfügungsbeklagte in einem wettbewerbsrechtlichen Streit vor dem Landgericht und dem Oberlandesgericht in Hamburg …
+- [BGH, Beschluss vom 06.05.2004 - I ZR 197/03](i-zr-197-03.md) — I. Die Klägerin ist seit 1998 Inhaberin der am 18. März 1942 in die Zei- chenrolle des Reichspatentamts u. a. für Gewindewalzmaschinen und für Walzen oder Rollen mit Außengewinden …
+- [BGH, Urteil vom 06.05.2004 - I ZR 2/03](i-zr-2-03.md) — Tatbestand:
 - [BGH, Urteil vom 06.05.2004 - I ZR 223/01](i-zr-223-01.md) — 3-
+- [BGH, Urteil vom 06.05.2004 - I ZR 262/01](i-zr-262-01.md) — Tatbestand:
+- [BGH, Urteil vom 06.05.2004 - I ZR 265/01](i-zr-265-01.md) — Tatbestand:
+- [BGH, Urteil vom 06.05.2004 - I ZR 275/01](i-zr-275-01.md) — Tatbestand:
+- [BGH, Beschluss vom 29.04.2004 - I ZA 2/04](i-za-2-04.md) — ersichtlich, die die zulassungsfreie Rechtsbeschwerde eröffnen (§ 83 Abs.
 - [BGH, Beschluss vom 29.04.2004 - I ZB 17/03](i-zb-17-03.md) — fehlender Unterscheidungskraft zurückgewiesen.
 - [BGH, Beschluss vom 29.04.2004 - I ZB 26/02](i-zb-26-02.md) — I. Für die Markeninhaberin ist seit dem 13. Oktober 1997 die Marke Nr. 397 20 885 als farbiges (grün/creme) Bildzeichen für die Waren "Antidepressiva enthaltende pharmazeutische …
+- [BGH, Urteil vom 29.04.2004 - I ZR 191/01](i-zr-191-01.md) — ihres Sinngehalts und ihrer Zeichenbildung aufeinander bezogen sind.
 - [BGH, Urteil vom 29.04.2004 - I ZR 233/01](i-zr-233-01.md) — Tatbestand:
+- [BGH, Beschluss vom 29.04.2004 - I ZR 251/03](i-zr-251-03.md) — BGH, Beschluss vom 29.04.2004 - I ZR 251/03
+- [BGH, Beschluss vom 22.04.2004 - I ZB 15/03](i-zb-15-03.md) — eines Verstoßes gegen die öffentliche Ordnung i.S. von § 7 Abs. 2 GeschmMG von der Eintragung in das Musterregister ausgeschlossen.
+- [BGH, Beschluss vom 22.04.2004 - I ZB 16/03](i-zb-16-03.md) — eines Verstoßes gegen die öffentliche Ordnung i.S. von § 7 Abs. 2 GeschmMG von der Eintragung in das Musterregister ausgeschlossen. BGH, Bes
+- [BGH, Beschluss vom 22.04.2004 - I ZB 30/03](i-zb-30-03.md) — Versäumung der Frist zur Begründung der Berufung wird als unzulässig zurückgewiesen. Für die Entscheidung über den Wiedereinsetzungsantrag i
+- [BGH, Urteil vom 22.04.2004 - I ZR 174/01](i-zr-174-01.md) — Tatbestand:
 - [BGH, Urteil vom 22.04.2004 - I ZR 189/01](i-zr-189-01.md) — des ausschließlich beschreibenden Bezugs jegliche Unterscheidungskraft. Diese Wortkombination kann daher ohne Verkehrsdurchsetzung (§ 8 Abs.
+- [BGH, Urteil vom 22.04.2004 - I ZR 21/02](i-zr-21-02.md) — 3-
+- [BGH, Urteil vom 22.04.2004 - I ZR 303/01](i-zr-303-01.md) — 3-
+- [BGH, Beschluss vom 01.04.2004 - I ZB 26/03](i-zb-26-03.md) — extremer Kreislaufbeschwerden und Schwindelanfälle einen Arzt aufsuchen müssen. Entgegen ihrer Absicht, nach dem Arztbesuch in die Kanzlei z
 - [BGH, Urteil vom 01.04.2004 - I ZR 227/01](i-zr-227-01.md) — Tatbestand:
 - [BGH, Urteil vom 01.04.2004 - I ZR 23/02](i-zr-23-02.md) — BGH, Urteil vom 01.04.2004 - I ZR 23/02
+- [BGH, Urteil vom 01.04.2004 - I ZR 317/01](i-zr-317-01.md) — Tatbestand:
+- [BGH, Beschluss vom 25.03.2004 - I ZB 28/03](i-zb-28-03.md) — nicht ordnungsgemäßer Durchführung eines Transportauftrags in Anspruch genommen. Sie hat einer an ihrem Geschäftssitz Hamburg ansässigen Rec
+- [BGH, Urteil vom 25.03.2004 - I ZR 130/01](i-zr-130-01.md) — 3-
 - [BGH, Beschluss vom 25.03.2004 - I ZR 187/01](i-zr-187-01.md) — offenbarer Unrichtigkeit dahin berichtigt, daß es auf Seite 7 des Urteils in Zeile 6 des zweiten Absatzes statt "ihr" heißen muß "ihm".
 - [BGH, Urteil vom 25.03.2004 - I ZR 205/01](i-zr-205-01.md) — Tatbestand:
+- [BGH, Urteil vom 25.03.2004 - I ZR 289/01](i-zr-289-01.md) — BGH, Urteil vom 25.03.2004 - I ZR 289/01
+- [BGH, Urteil vom 11.03.2004 - I ZR 161/01](i-zr-161-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2004 - I ZR 304/01](i-zr-304-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2004 - I ZR 62/01](i-zr-62-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2004 - I ZR 81/01](i-zr-81-01.md) — 3-
+- [BGH, Beschluss vom 04.03.2004 - I ZB 38/03](i-zb-38-03.md) — Das Rechtsmittel der Beklagten ist unzulässig.
+- [BGH, Beschluss vom 04.03.2004 - I ZB 41/03](i-zb-41-03.md) — Das Rechtsmittel des Antragstellers ist unzulässig.
 - [BGH, Urteil vom 04.03.2004 - I ZR 200/01](i-zr-200-01.md) — BGH, Urteil vom 04.03.2004 - I ZR 200/01
 - [BGH, Urteil vom 04.03.2004 - I ZR 221/01](i-zr-221-01.md) — Tatbestand:
 - [BGH, Urteil vom 04.03.2004 - I ZR 244/01](i-zr-244-01.md) — Tatbestand:
@@ -59,8 +126,19 @@
 - [BGH, Urteil vom 19.02.2004 - I ZR 172/01](i-zr-172-01.md) — Tatbestand:
 - [BGH, Urteil vom 19.02.2004 - I ZR 76/02](i-zr-76-02.md) — Irreführung verboten werden. Selbst wenn einzelne Verbraucher annehmen, derart gekennzeichnete Artikel würden, von Ausreißern abgesehen, gen
 - [BGH, Urteil vom 19.02.2004 - I ZR 82/01](i-zr-82-01.md) — Verletzung seiner Rechte veranlaßt hat, steht ein Anspruch auf "Sperrung" des Domain-Namens für jede zukünftige Eintragung eines Dritten nic
+- [BGH, Urteil vom 05.02.2004 - I ZR 171/01](i-zr-171-01.md) — Tatbestand:
+- [BGH, Beschluss vom 05.02.2004 - I ZR 192/03](i-zr-192-03.md) — BGH, Beschluss vom 05.02.2004 - I ZR 192/03
+- [BGH, Urteil vom 05.02.2004 - I ZR 87/02](i-zr-87-02.md) — des geringen Maßes an Belästigung ist dies erfahrungsgemäß der Fall, wenn ein Telefonbuchverlag einen Telefonanruf, mit dem die Daten des ko
+- [BGH, Urteil vom 05.02.2004 - I ZR 90/01](i-zr-90-01.md) — Tatbestand:
 - [BGH, Beschluss vom 29.01.2004 - I ZA 7/03](i-za-7-03.md) — BGH, Beschluss vom 29.01.2004 - I ZA 7/03
+- [BGH, Beschluss vom 29.01.2004 - I ZB 33/03](i-zb-33-03.md) — Die Beschwerden der Klägerin bieten keine Aussicht auf Erfolg (§ 114 ZPO).
 - [BGH, Urteil vom 29.01.2004 - I ZR 132/01](i-zr-132-01.md) — Tatbestand: Die Parteien sind Wettbewerber im Einzelhandel mit Elektronikgeräten.
 - [BGH, Urteil vom 29.01.2004 - I ZR 135/00](i-zr-135-00.md) — Tatbestand:
+- [BGH, Beschluss vom 29.01.2004 - I ZR 139/01](i-zr-139-01.md) — offenbarer Unrichtigkeit dahin berichtigt, daß es in der zweiten Zeile des dritten Absatzes (Kostenentscheidung) statt "die Kosten" heißen m
+- [BGH, Urteil vom 29.01.2004 - I ZR 162/01](i-zr-162-01.md) — nach im Rahmen der Haftungshöchstsumme gemäß Art.
 - [BGH, Urteil vom 29.01.2004 - I ZR 163/01](i-zr-163-01.md) — Tatbestand:
 - [BGH, Urteil vom 29.01.2004 - I ZR 164/01](i-zr-164-01.md) — Tatbestand:
+- [BGH, Urteil vom 15.01.2004 - I ZR 121/01](i-zr-121-01.md) — der ähnlichen stofflichen Beschaffenheit der Waren an, diese stammten aus demselben Unternehmen, ist grundsätzlich von einer Warenähnlichkei
+- [BGH, Urteil vom 15.01.2004 - I ZR 160/01](i-zr-160-01.md) — Tatbestand:
+- [BGH, Urteil vom 15.01.2004 - I ZR 180/01](i-zr-180-01.md) — Bagatellverstößen gegen ein verbraucherschützendes Gesetz geltend zu machen.
+- [BGH, Versäumnisurteil vom 15.01.2004 - I ZR 196/01](i-zr-196-01.md) — 3-

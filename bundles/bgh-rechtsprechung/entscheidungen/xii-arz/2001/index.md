@@ -1,0 +1,6 @@
+# XII ARZ – 2001
+
+2 Entscheidung(en).
+
+- [BGH, Beschluss vom 22.08.2001 - XII ARZ 3/01](xii-arz-3-01.md) — I. Mit Beschlüssen des Amtsgerichts Düsseldorf vom 23. Dezember 1996 und vom 27. Dezember 1996 hat der Rechtspfleger den Regelunterhalt, den der Kläger den Beklagten - seinen …
+- [BGH, Beschluss vom 07.03.2001 - XII ARZ 2/01](xii-arz-2-01.md) — I. Das Familiengericht Syke hat der Klägerin für eine Klage auf Trennungsunterhalt die begehrte Prozeßkostenhilfe zunächst versagt. Durch Beschluß vom 26. Mai 2000 hat es der …

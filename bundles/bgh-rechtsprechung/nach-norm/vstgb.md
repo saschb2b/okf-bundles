@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VStGB"
 description: "BGH-Entscheidungen zu VStGB, geordnet nach Vorschrift."
 tags: [register, navigation, vstgb]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

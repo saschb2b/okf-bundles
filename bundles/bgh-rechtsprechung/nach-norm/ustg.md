@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UStG"
 description: "BGH-Entscheidungen zu UStG, geordnet nach Vorschrift."
 tags: [register, navigation, ustg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

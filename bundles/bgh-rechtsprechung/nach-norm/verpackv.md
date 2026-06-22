@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VerpackV"
 description: "BGH-Entscheidungen zu VerpackV, geordnet nach Vorschrift."
 tags: [register, navigation, verpackv]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

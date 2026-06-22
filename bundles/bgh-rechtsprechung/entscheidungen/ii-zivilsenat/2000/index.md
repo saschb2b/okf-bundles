@@ -1,41 +1,87 @@
 # II. Zivilsenat – 2000
 
-47 Entscheidung(en).
+93 Entscheidung(en).
 
 - [BGH, Versäumnisurteil vom 18.12.2000 - II ZR 191/99](ii-zr-191-99.md) — BGH, Versäumnisurteil vom 18.12.2000 - II ZR 191/99
 - [BGH, Urteil vom 18.12.2000 - II ZR 31/99](ii-zr-31-99.md) — BGH, Urteil vom 18.12.2000 - II ZR 31/99
+- [BGH, Urteil vom 18.12.2000 - II ZR 384/98](ii-zr-384-98.md) — BGH, Urteil vom 18.12.2000 - II ZR 384/98
 - [BGH, Urteil vom 18.12.2000 - II ZR 385/98](ii-zr-385-98.md) — BGH, Urteil vom 18.12.2000 - II ZR 385/98
 - [BGH, Versäumnisurteil vom 18.12.2000 - II ZR 84/99](ii-zr-84-99.md) — BGH, Versäumnisurteil vom 18.12.2000 - II ZR 84/99
 - [BGH, Beschluss vom 14.12.2000 - II ZB 20/00](ii-zb-20-00.md) — I. Das Landgericht hat die Berufung des Klägers gegen das seine Klage in einer Vereinsangelegenheit teilweise abweisende Urteil des Amtsgerichts als unzulässig verworfen, weil die …
+- [BGH, Urteil vom 04.12.2000 - II ZR 153/00](ii-zr-153-00.md) — Tatbestand:
+- [BGH, Urteil vom 04.12.2000 - II ZR 230/99](ii-zr-230-99.md) — Tatbestand: Die Parteien sind Schwestern. Die Klägerin nimmt die Beklagte auf Auszahlung von Überschüssen aus der Verwaltung des Grundstücks
+- [BGH, Urteil vom 04.12.2000 - II ZR 293/99](ii-zr-293-99.md) — Tatbestand:
+- [BGH, Beschluss vom 27.11.2000 - II ZA 14/99](ii-za-14-99.md) — I. Die während des Rechtsstreits in erster Instanz in Konkurs gefallene Klägerin zu 1, eine GmbH, und der Kläger zu 2, ihr früherer Geschäftsführer, haben von dem Beklagten, der …
 - [BGH, Beschluss vom 27.11.2000 - II ZB 6/00](ii-zb-6-00.md) — I. Die Parteien verband ab dem Jahre 1979 eine "enge persönliche Beziehung", die auf Initiative der Beklagten 1995 endete. In der Folge kam es zu einem Rechtsstreit, in dem es um …
 - [BGH, Urteil vom 27.11.2000 - II ZR 179/99](ii-zr-179-99.md) — Tatbestand:
 - [BGH, Urteil vom 27.11.2000 - II ZR 190/99](ii-zr-190-99.md) — Tatbestand:
 - [BGH, Urteil vom 27.11.2000 - II ZR 218/00](ii-zr-218-00.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 27.11.2000 - II ZR 83/00](ii-zr-83-00.md) — Tatbestand:
+- [BGH, Urteil vom 13.11.2000 - II ZR 115/99](ii-zr-115-99.md) — Tatbestand: Die Klägerin nimmt den Beklagten auf Zahlung von 67.312,75 DM in Anspruch.
+- [BGH, Urteil vom 13.11.2000 - II ZR 52/99](ii-zr-52-99.md) — Tatbestand:
+- [BGH, Beschluss vom 06.11.2000 - II ZR 144/99](ii-zr-144-99.md) — I. Die Gesellschafterversammlung der Beklagten, einer GmbH mit einem Stammkapital von 60.000,-- DM, beschloß am 29. September 1997 die Abberufung des Klägers als Geschäftsführer …
+- [BGH, Beschluss vom 06.11.2000 - II ZR 271/99](ii-zr-271-99.md) — Der Kläger hat mit dem in der mündlichen Verhandlung vor dem Berufungsgericht vom 10.
+- [BGH, Urteil vom 06.11.2000 - II ZR 67/99](ii-zr-67-99.md) — Tatbestand:
+- [BGH, Beschluss vom 19.10.2000 - II ZR 163/99](ii-zr-163-99.md) — Der Senat hat durch Beschluß vom 15. Mai 2000 - den Prozeßbevollmächtigten der Parteien durch Verfügung vom 16. Mai 2000 zugesandt - die Revision des Klägers gegen das Urteil des …
+- [BGH, Urteil vom 09.10.2000 - II ZR 345/98](ii-zr-345-98.md) — Tatbestand:
 - [BGH, Urteil vom 09.10.2000 - II ZR 58/99](ii-zr-58-99.md) — BGH, Urteil vom 09.10.2000 - II ZR 58/99
+- [BGH, Urteil vom 09.10.2000 - II ZR 75/99](ii-zr-75-99.md) — Tatbestand:
 - [BGH, Urteil vom 02.10.2000 - II ZR 54/99](ii-zr-54-99.md) — Tatbestand:
 - [BGH, Urteil vom 02.10.2000 - II ZR 64/99](ii-zr-64-99.md) — Tatbestand:
 - [BGH, Urteil vom 18.09.2000 - II ZR 15/99](ii-zr-15-99.md) — Tatbestand:
 - [BGH, Urteil vom 18.09.2000 - II ZR 365/98](ii-zr-365-98.md) — Tatbestand:
+- [BGH, Beschluss vom 11.09.2000 - II ZB 21/99](ii-zb-21-99.md) — I. Im Verlaufe des von den Antragstellern betriebenen Spruchstellenver- fahrens gemäß §§ 305, 306 AktG gerieten die beiden beteiligten Gesellschaf- ten, die E. AG …
+- [BGH, Urteil vom 11.09.2000 - II ZR 324/98](ii-zr-324-98.md) — Tatbestand:
+- [BGH, Urteil vom 11.09.2000 - II ZR 34/99](ii-zr-34-99.md) — BGH, Urteil vom 11.09.2000 - II ZR 34/99
+- [BGH, Versäumnisurteil vom 11.09.2000 - II ZR 370/99](ii-zr-370-99.md) — Tatbestand: Der Beklagte war Geschäftsführer der im November 1994 in wirtschaftliche Schwierigkeiten geratenen D. GmbH. Er reichte am 16. un
+- [BGH, Beschluss vom 28.08.2000 - II ZR 163/00](ii-zr-163-00.md) — eines fehlgeschlagenen Anlagegeschäftes, insbesondere nach den Grundsätzen der sog. Prospekthaftung, in Anspruch. Das Landgericht gab der Kl
 - [BGH, Beschluss vom 17.08.2000 - II ZR 302/99](ii-zr-302-99.md) — . Der Wert des bezifferten Schadensersatzbegehrens für rückständiges Geschäftsführergehalt beträgt entsprechend dem zuletzt gestellten Zahlungsantrag 187.500,-- DM. Abschläge …
 - [BGH, Beschluss vom 17.08.2000 - II ZR 348/98](ii-zr-348-98.md) — Versäumung der Revisionsbegründungsfrist als unzulässig verworfen worden ist, kann auf Gegenvorstellungen hin nicht mehr abgeändert werden.
+- [BGH, Beschluss vom 24.07.2000 - II ZB 20/99](ii-zb-20-99.md) — Verlustes der Sendung auf dem Postweg überhaupt nicht erhalten hat, die Wiedereinsetzung gegen die Versäumung der Einspruchsfrist allein des
+- [BGH, Beschluss vom 24.07.2000 - II ZB 22/99](ii-zb-22-99.md) — I. Das Schlußurteil des Landgerichts München I vom 11. August 1999, durch das die Widerklage der Beklagten auf Auskunft und Zahlung der sich daraus ergebenden Überschußanteile in …
 - [BGH, Urteil vom 24.07.2000 - II ZR 168/99](ii-zr-168-99.md) — Tatbestand:
 - [BGH, Urteil vom 24.07.2000 - II ZR 202/98](ii-zr-202-98.md) — BGH, Urteil vom 24.07.2000 - II ZR 202/98
+- [BGH, Urteil vom 24.07.2000 - II ZR 320/98](ii-zr-320-98.md) — Tatbestand: Die Parteien streiten über die Wirksamkeit einer von dem Beklagten ausgesprochenen außerordentlichen Kündigung ihres Gesellschaf
+- [BGH, Beschluss vom 17.07.2000 - II ZB 3/00](ii-zb-3-00.md) — nicht eröffnet. Die Voraussetzungen für eine "außerordentliche Beschwerde" sind nicht gegeben.
+- [BGH, Urteil vom 17.07.2000 - II ZR 39/99](ii-zr-39-99.md) — einer Forderung, von der dem Bevollmächtigten bekannt ist, daß ein Mitgesellschafter ihre Geltendmachung ablehnt.
 - [BGH, Urteil vom 03.07.2000 - II ZR 12/99](ii-zr-12-99.md) — Tatbestand: Der Kläger war vom 1. April 1987 bis zum 30. Juni 1996 Mitglied des Vorstandes der Beklagten. Als Vergütung bezog er neben einig
+- [BGH, Urteil vom 03.07.2000 - II ZR 282/98](ii-zr-282-98.md) — Verstoßes gegen § 134 BGB nichtig.
+- [BGH, Urteil vom 03.07.2000 - II ZR 314/98](ii-zr-314-98.md) — Tatbestand:
 - [BGH, Urteil vom 03.07.2000 - II ZR 381/98](ii-zr-381-98.md) — BGH, Urteil vom 03.07.2000 - II ZR 381/98
+- [BGH, Beschluss vom 26.06.2000 - II ZB 10/00](ii-zb-10-00.md) — Besorgnis der Befangenheit abgelehnt hat (§ 42 ZPO).
+- [BGH, Beschluss vom 26.06.2000 - II ZB 32/99](ii-zb-32-99.md) — einiger zwischenzeitlich veränderter Umstände haben die Parteien in der Berufungsinstanz ihre ursprünglichen Anträge teilweise verändert und
+- [BGH, Urteil vom 26.06.2000 - II ZR 21/99](ii-zr-21-99.md) — Tatbestand: Der Kläger ist Verwalter in dem am 30. April 1996 eröffneten Konkursverfahren über das Vermögen der F. Ingenieurgesellschaft mbH
+- [BGH, Urteil vom 26.06.2000 - II ZR 370/98](ii-zr-370-98.md) — Tatbestand:
 - [BGH, Urteil vom 19.06.2000 - II ZR 319/98](ii-zr-319-98.md) — Tatbestand:
 - [BGH, Urteil vom 19.06.2000 - II ZR 73/99](ii-zr-73-99.md) — BGH, Urteil vom 19.06.2000 - II ZR 73/99
 - [BGH, Urteil vom 29.05.2000 - II ZR 118/98](ii-zr-118-98.md) — Verstoßes gegen § 30 Abs. 1 GmbHG entstandener Erstattungsanspruch nach § 31 Abs. 1 GmbHG entfällt daher nicht von Gesetzes wegen, wenn das
+- [BGH, Urteil vom 29.05.2000 - II ZR 280/98](ii-zr-280-98.md) — Investitionsmittel für die Honorierung von Funktionsträgern verwendet werden müssen.
 - [BGH, Beschluss vom 29.05.2000 - II ZR 321/99](ii-zr-321-99.md) — I. Die Parteien und ihr Bruder W. B. sind zu gleichen Teilen Miterben ihrer inzwischen verstorbenen Eltern Dr. K. und E. B. . Diese hatten 1978 die Staatlich anerkannte Schulen …
+- [BGH, Urteil vom 29.05.2000 - II ZR 334/98](ii-zr-334-98.md) — Tatbestand:
 - [BGH, Urteil vom 29.05.2000 - II ZR 347/97](ii-zr-347-97.md) — Tatbestand:
+- [BGH, Urteil vom 29.05.2000 - II ZR 380/98](ii-zr-380-98.md) — BGH, Urteil vom 29.05.2000 - II ZR 380/98
+- [BGH, Urteil vom 29.05.2000 - II ZR 47/99](ii-zr-47-99.md) — 3-
 - [BGH, Urteil vom 29.05.2000 - II ZR 75/98](ii-zr-75-98.md) — Tatbestand:
 - [BGH, Beschluss vom 18.05.2000 - II ZR 296/98](ii-zr-296-98.md) — BGH, Beschluss vom 18.05.2000 - II ZR 296/98
 - [BGH, Beschluss vom 18.05.2000 - II ZR 304/98](ii-zr-304-98.md) — BGH, Beschluss vom 18.05.2000 - II ZR 304/98
 - [BGH, Urteil vom 15.05.2000 - II ZR 359/98](ii-zr-359-98.md) — Tatbestand: Die Kläger wenden sich mit der von ihnen erhobenen Anfechtungsklage gegen einen Hauptversammlungsbeschluß der Beklagten vom 28.
+- [BGH, Urteil vom 15.05.2000 - II ZR 6/99](ii-zr-6-99.md) — BGH, Urteil vom 15.05.2000 - II ZR 6/99
 - [BGH, Versäumnisurteil vom 15.05.2000 - II ZR 63/99](ii-zr-63-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.05.2000 - II ZR 144/98](ii-zr-144-98.md) — Tatbestand: Die in Liquidation befindliche Klägerin macht gegen die Beklagten restliche Zahlungsansprüche aus einem notariellen Vertrag und
+- [BGH, Urteil vom 08.05.2000 - II ZR 182/98](ii-zr-182-98.md) — Tatbestand:
+- [BGH, Urteil vom 08.05.2000 - II ZR 302/98](ii-zr-302-98.md) — Tatbestand: Die Parteien streiten über Ansprüche des Klägers anläßlich seines Ausscheidens aus einer als Gesellschaft bürgerlichen Rechts zu
+- [BGH, Urteil vom 08.05.2000 - II ZR 308/98](ii-zr-308-98.md) — Tatbestand: Der klagende Rechtsanwalt war seit 1992 mit den beiden Beklagten in einer Sozietät verbunden, zu welcher drei Tochter-Steuerbera
 - [BGH, Urteil vom 03.04.2000 - II ZR 194/98](ii-zr-194-98.md) — Tatbestand:
 - [BGH, Urteil vom 03.04.2000 - II ZR 373/98](ii-zr-373-98.md) — Tatbestand: Der beklagte Verein ist nach seiner Satzung "der zuchtbuchführende Rassezuchtverein für den deutschen Schäferhund". Der Kläger,
+- [BGH, Urteil vom 27.03.2000 - II ZR 109/99](ii-zr-109-99.md) — Tatbestand:
 - [BGH, Urteil vom 20.03.2000 - II ZR 250/99](ii-zr-250-99.md) — Tatbestand: Die Parteien sind Patentanwälte, die sich ab 1. Januar 1989 in Gesellschaft bürgerlichen Rechts zu einer überörtlichen Sozietät
 - [BGH, Urteil vom 13.03.2000 - II ZR 234/99](ii-zr-234-99.md) — BGH, Urteil vom 13.03.2000 - II ZR 234/99
+- [BGH, Beschluss vom 21.02.2000 - II ZB 16/99](ii-zb-16-99.md) — Versäumung der Frist zur Begründung der Berufung gegen das Urteil der 28. Zivilkammer des Landgerichts Berlin vom 9. Dezember 1998 (28 O 148
+- [BGH, Urteil vom 21.02.2000 - II ZR 231/98](ii-zr-231-98.md) — BGH, Urteil vom 21.02.2000 - II ZR 231/98
+- [BGH, Urteil vom 21.02.2000 - II ZR 236/98](ii-zr-236-98.md) — 3-
+- [BGH, Urteil vom 14.02.2000 - II ZR 155/98](ii-zr-155-98.md) — Tatbestand:
+- [BGH, Urteil vom 14.02.2000 - II ZR 215/98](ii-zr-215-98.md) — Tatbestand:
+- [BGH, Urteil vom 14.02.2000 - II ZR 218/98](ii-zr-218-98.md) — Tatbestand:
 - [BGH, Beschluss vom 07.02.2000 - II ZR 1/99](ii-zr-1-99.md) — BGH, Beschluss vom 07.02.2000 - II ZR 1/99
 - [BGH, Urteil vom 31.01.2000 - II ZR 189/99](ii-zr-189-99.md) — Tatbestand: Der Beklagte war geschäftsführender Alleingesellschafter der Ende 1996 in Konkurs gefallenen H. B. GmbH, gegen die der Klägerin
 - [BGH, Urteil vom 31.01.2000 - II ZR 209/98](ii-zr-209-98.md) — Tatbestand:

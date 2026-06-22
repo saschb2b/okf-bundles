@@ -1,49 +1,102 @@
 # X. Zivilsenat – 2003
 
-45 Entscheidung(en).
+98 Entscheidung(en).
 
+- [BGH, Beschluss vom 17.12.2003 - X ZA 6/03](x-za-6-03.md) — Besorgnis der Befangenheit findet gemäß § 42 Abs. 2 ZPO nur statt, wenn ein Grund vorliegt, der geeignet ist, Mißtrauen gegen die Unparteili
 - [BGH, Urteil vom 16.12.2003 - X ZR 129/01](x-zr-129-01.md) — BGH, Urteil vom 16.12.2003 - X ZR 129/01
+- [BGH, Urteil vom 16.12.2003 - X ZR 206/98](x-zr-206-98.md) — Tatbestand:
 - [BGH, Urteil vom 16.12.2003 - X ZR 282/02](x-zr-282-02.md) — Tatbestand:
+- [BGH, Urteil vom 16.12.2003 - X ZR 6/02](x-zr-6-02.md) — Tatbestand:
+- [BGH, Beschluss vom 09.12.2003 - X ZB 14/03](x-zb-14-03.md) — I. Die Antragstellerin hat sich als Bieterin in einem von der Antragsgegnerin durchgeführten Ausschreibungsverfahren beteiligt. Sie hat Nachprüfungsanträge gestellt. -3- Die …
 - [BGH, Beschluss vom 09.12.2003 - X ZB 2/03](x-zb-2-03.md) — BGH, Beschluss vom 09.12.2003 - X ZB 2/03
+- [BGH, Beschluss vom 09.12.2003 - X ZR 64/03](x-zr-64-03.md) — I. Der Kläger, der von 1991 bis 1995 Arbeitnehmer der Beklagten war, macht geltend, er sei Alleinerfinder der Erfindung nach dem deutschen Patent 195 22 141. Das der Beklagten …
+- [BGH, Versäumnisurteil vom 25.11.2003 - X ZR 159/00](x-zr-159-00.md) — Tatbestand:
 - [BGH, Urteil vom 25.11.2003 - X ZR 162/00](x-zr-162-00.md) — Tatbestand:
+- [BGH, Urteil vom 18.11.2003 - X ZR 128/03](x-zr-128-03.md) — Tatbestand:
 - [BGH, Urteil vom 11.11.2003 - X ZR 131/01](x-zr-131-01.md) — Tatbestand: Mit Schreiben vom 23. Februar 1993 beauftragte die Beklagte den Kläger mit dem Umbau ihrer Fernwärmeheizzentrale in W. . Der Klä
+- [BGH, Urteil vom 11.11.2003 - X ZR 61/99](x-zr-61-99.md) — BGH, Urteil vom 11.11.2003 - X ZR 61/99
 - [BGH, Beschluss vom 28.10.2003 - X ZR 10/03](x-zr-10-03.md) — Verjährung abgewiesen. Das vom Kläger angerufene Oberlandesgericht hat die Berufung zurückgewiesen, weil
+- [BGH, Urteil vom 28.10.2003 - X ZR 118/02](x-zr-118-02.md) — Tatbestand:
 - [BGH, Urteil vom 28.10.2003 - X ZR 178/02](x-zr-178-02.md) — BGH, Urteil vom 28.10.2003 - X ZR 178/02
+- [BGH, Urteil vom 28.10.2003 - X ZR 248/02](x-zr-248-02.md) — Tatbestand: Zur Vergabe von "Generalfachplanungsleistungen gemäß §§ 64, 73, 77-79, 81-90 sowie Leistungen der Leistungsphase 5-9 von § 15 Ob
 - [BGH, Beschluss vom 28.10.2003 - X ZR 274/02](x-zr-274-02.md) — einer gemeinschaftlichen kartellrechtswidri-
+- [BGH, Urteil vom 28.10.2003 - X ZR 76/00](x-zr-76-00.md) — Tatbestand:
 - [BGH, Beschluss vom 21.10.2003 - X ZA 2/03](x-za-2-03.md) — BGH, Beschluss vom 21.10.2003 - X ZA 2/03
 - [BGH, Beschluss vom 21.10.2003 - X ZB 10/03](x-zb-10-03.md) — I. Im März 2000 gab die Antragsgegnerin im Amtsblatt der Europäischen Gemeinschaften die beabsichtigte Vergabe der Planung und Ausführung von Bauleistungen im nicht offenen …
 - [BGH, Urteil vom 21.10.2003 - X ZR 198/99](x-zr-198-99.md) — Tatbestand:
+- [BGH, Urteil vom 21.10.2003 - X ZR 218/01](x-zr-218-01.md) — BGH, Urteil vom 21.10.2003 - X ZR 218/01
+- [BGH, Urteil vom 21.10.2003 - X ZR 220/99](x-zr-220-99.md) — Tatbestand:
+- [BGH, Urteil vom 21.10.2003 - X ZR 66/01](x-zr-66-01.md) — Tatbestand:
 - [BGH, Beschluss vom 30.09.2003 - X ZB 48/02](x-zb-48-02.md) — BGH, Beschluss vom 30.09.2003 - X ZB 48/02
+- [BGH, Urteil vom 30.09.2003 - X ZR 10/02](x-zr-10-02.md) — Tatbestand:
 - [BGH, Entscheidung vom 30.09.2003 - X ZR 114/00](x-zr-114-00.md) — Nachschlagewerk: ja
 - [BGH, Beschluss vom 30.09.2003 - X ZR 243/02](x-zr-243-02.md) — Unvollständigkeit auszuschließen war.
+- [BGH, Urteil vom 30.09.2003 - X ZR 244/02](x-zr-244-02.md) — BGH, Urteil vom 30.09.2003 - X ZR 244/02
 - [BGH, Urteil vom 30.09.2003 - X ZR 41/02](x-zr-41-02.md) — BGH, Urteil vom 30.09.2003 - X ZR 41/02
 - [BGH, Urteil vom 24.09.2003 - X ZR 234/00](x-zr-234-00.md) — BGH, Urteil vom 24.09.2003 - X ZR 234/00
 - [BGH, Urteil vom 24.09.2003 - X ZR 30/00](x-zr-30-00.md) — Tatbestand:
+- [BGH, Urteil vom 24.09.2003 - X ZR 7/00](x-zr-7-00.md) — gelegt werden, weil mit dieser die Schutzfähigkeit eher bejaht werden könnte.
+- [BGH, Beschluss vom 16.09.2003 - X ZB 12/03](x-zb-12-03.md) — Wiedereinsetzung gewährt werden müssen, und der Beschluß des Beschwerdegerichts beruhe auf der Verletzung des Gebots rechtlichen Gehörs (Art
 - [BGH, Beschluss vom 16.09.2003 - X ZB 24/03](x-zb-24-03.md) — Die Beschwerdeführerin hat in dem Ausgangsrechtsstreit, einer Werkvertragssache, die zuständige Richterin des Amtsgerichts St.
+- [BGH, Urteil vom 16.09.2003 - X ZR 142/01](x-zr-142-01.md) — Tatbestand:
 - [BGH, Urteil vom 16.09.2003 - X ZR 179/02](x-zr-179-02.md) — Tatbestand:
+- [BGH, Beschluss vom 16.09.2003 - X ZR 249/01](x-zr-249-01.md) — dahin zu verstehen ist, daß Ausschreibungskosten und entgangener Gewinn nicht kumulativ zugesprochen worden sind.
+- [BGH, Beschluss vom 16.09.2003 - X ZR 37/03](x-zr-37-03.md) — I. Die beklagte Patentinhaberin hat gegen das am 16. Januar 2003 verkündete und ihrem prozeßbevollmächtigten Patentanwalt am 3. März 2003 zugestellte Urteil des …
 - [BGH, Beschluss vom 29.07.2003 - X ZB 29/01](x-zb-29-01.md) — BGH, Beschluss vom 29.07.2003 - X ZB 29/01
+- [BGH, Urteil vom 29.07.2003 - X ZR 160/01](x-zr-160-01.md) — Tatbestand:
 - [BGH, Urteil vom 29.07.2003 - X ZR 26/00](x-zr-26-00.md) — Tatbestand: Die Beklagte ist eingetragene Inhaberin des am 30. Juli 1981 angemeldeten und im Verlaufe des Verfahrens durch Zeitablauf erlosc
 - [BGH, Beschluss vom 22.07.2003 - X ZB 28/02](x-zb-28-02.md) — BGH, Beschluss vom 22.07.2003 - X ZB 28/02
+- [BGH, Beschluss vom 22.07.2003 - X ZR 92/01](x-zr-92-01.md) — BGH, Beschluss vom 22.07.2003 - X ZR 92/01
 - [BGH, Urteil vom 01.07.2003 - X ZR 8/00](x-zr-8-00.md) — BGH, Urteil vom 01.07.2003 - X ZR 8/00
+- [BGH, Beschluss vom 10.06.2003 - X ZR 45/03](x-zr-45-03.md) — des wirtschaftlichen Unvermögens einer Partei, so ist die Frist unverschuldet versäumt, sofern die Partei bis zu deren Ablauf um Bewilligung
+- [BGH, Urteil vom 10.06.2003 - X ZR 86/01](x-zr-86-01.md) — Tatbestand:
 - [BGH, Beschluss vom 03.06.2003 - X ZB 47/02](x-zb-47-02.md) — I. Das Landgericht Berlin hat mit rechtskräftigem Urteil vom 3. August 2001 die "G. Filmproduktion GmbH, vertreten durch die Geschäftsführer G. und P. ", dazu verurteilt …
 - [BGH, Urteil vom 03.06.2003 - X ZR 215/01](x-zr-215-01.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 03.06.2003 - X ZR 72/99](x-zr-72-99.md) — 3-
+- [BGH, Urteil vom 20.05.2003 - X ZR 128/01](x-zr-128-01.md) — 3-
+- [BGH, Urteil vom 20.05.2003 - X ZR 246/02](x-zr-246-02.md) — Tatbestand: Die Beklagte ist die Mutter des D. K. . Dieser ist Miterbe zur Hälfte nach dem 1978 verstorbenen J. A. . Zu dessen Nachlaß gehör
 - [BGH, Urteil vom 20.05.2003 - X ZR 57/02](x-zr-57-02.md) — Tatbestand: Der Kläger ließ eine neue Futtermühle errichten. Die Pelletieranlage gab er bei der Streitverkündeten in Auftrag, die softwarege
 - [BGH, Urteil vom 13.05.2003 - X ZR 200/01](x-zr-200-01.md) — Tatbestand:
+- [BGH, Urteil vom 13.05.2003 - X ZR 226/00](x-zr-226-00.md) — BGH, Urteil vom 13.05.2003 - X ZR 226/00
+- [BGH, Urteil vom 06.05.2003 - X ZR 113/00](x-zr-113-00.md) — des Wortlauts des Anspruchs 1 in der maßgeblichen Verfahrenssprache und des Wortlauts der Ansprüche 2 bis 25 wird auf die Streitpatentschrif
+- [BGH, Beschluss vom 06.05.2003 - X ZR 129/00](x-zr-129-00.md) — Für den Beklagten zu 2) folgt die Kostenentscheidung aus § 97 Abs.
 - [BGH, Beschluss vom 29.04.2003 - X ZB 10/02](x-zb-10-02.md) — des Inhalts der Patentansprüche wird auf die Patentschrift verwiesen.
+- [BGH, Beschluss vom 29.04.2003 - X ZB 4/01](x-zb-4-01.md) — unzulässiger Erweiterung widerrufen.
 - [BGH, Urteil vom 29.04.2003 - X ZR 142/99](x-zr-142-99.md) — Tatbestand:
 - [BGH, Urteil vom 29.04.2003 - X ZR 186/01](x-zr-186-01.md) — BGH, Urteil vom 29.04.2003 - X ZR 186/01
 - [BGH, Urteil vom 29.04.2003 - X ZR 218/98](x-zr-218-98.md) — Tatbestand: Der Beklagte ist eingetragener Inhaber des am 8. Juli 1988 angemeldeten deutschen Patents 38 23 271 (Streitpatents), das "Verfah
-- [BGH, Urteil vom 01.04.2003 - X ZR 136/99](x-zr-136-99.md) — Tatbestand:
 - [BGH, Urteil vom 25.03.2003 - X ZR 48/99](x-zr-48-99.md) — Tatbestand: Die Beklagten sind Inhaber des deutschen Patents 43 32 497 (Streitpatent), das am 24. September 1993 angemeldet worden ist und e
 - [BGH, Beschluss vom 18.03.2003 - X ZB 31/01](x-zb-31-01.md) — BGH, Beschluss vom 18.03.2003 - X ZB 31/01
 - [BGH, Beschluss vom 18.03.2003 - X ZB 41/02](x-zb-41-02.md) — BGH, Beschluss vom 18.03.2003 - X ZB 41/02
 - [BGH, Urteil vom 18.03.2003 - X ZR 19/01](x-zr-19-01.md) — arglistiger Täuschung kommt in Betracht, wenn ein Arbeitnehmer, der eine Diensterfindung gemacht hat, seinem Arbeitgeber bei der Meldung der
+- [BGH, Urteil vom 18.03.2003 - X ZR 209/00](x-zr-209-00.md) — 3-
+- [BGH, Urteil vom 18.03.2003 - X ZR 229/00](x-zr-229-00.md) — 3-
 - [BGH, Beschluss vom 13.03.2003 - X ZB 4/02](x-zb-4-02.md) — BGH, Beschluss vom 13.03.2003 - X ZB 4/02
+- [BGH, Urteil vom 13.03.2003 - X ZR 100/00](x-zr-100-00.md) — Tatbestand: Die Klägerin ist eingetragene Inhaberin des deutschen Teils des am 10. Dezember 1979 angemeldeten und im Verlaufe des Berufungsv
+- [BGH, Urteil vom 13.03.2003 - X ZR 106/00](x-zr-106-00.md) — Tatbestand: Der Beklagte betreibt auf dem Gebiet einer niedersächsischen Gemeinde in einer Seenlandschaft einen Mobilheimplatz, der sich aus
+- [BGH, Beschluss vom 13.03.2003 - X ZR 176/01](x-zr-176-01.md) — in Satz 1 die Worte "mit der Berufung" und in Satz 2 die Worte "und vom Bundespatentgericht zurückgewiesene" gestrichen werden.
+- [BGH, Beschluss vom 25.02.2003 - X ZA 3/02](x-za-3-02.md) — Der Prozeßkostenhilfeantrag ist zurückzuweisen, da die beabsichtigte Rechtsverfolgung keine Aussicht auf Erfolg hat.
+- [BGH, Beschluss vom 25.02.2003 - X ZB 24/02](x-zb-24-02.md) — Die Rechtsbeschwerde ist gemäß § 574 Abs. 1, § 522 Abs. 1 ZPO statthaft. Sie ist jedoch unzulässig, weil weder eine Frage rechtsgrundsätzlicher Bedeutung zu entscheiden ist noch …
+- [BGH, Urteil vom 25.02.2003 - X ZR 180/99](x-zr-180-99.md) — 3-
+- [BGH, Urteil vom 25.02.2003 - X ZR 240/00](x-zr-240-00.md) — Tatbestand:
 - [BGH, Beschluss vom 24.02.2003 - X ZB 12/02](x-zb-12-02.md) — BGH, Beschluss vom 24.02.2003 - X ZB 12/02
 - [BGH, Beschluss vom 18.02.2003 - X ZB 43/02](x-zb-43-02.md) — I. Im August 2001 schrieb das als Auftraggeber verfahrensbeteiligte Land im offenen Verfahren den Bau der Jugendstrafanstalt R. aus. An der den Rohbau betreffenden Ausschreibung …
 - [BGH, Beschluss vom 18.02.2003 - X ZB 44/02](x-zb-44-02.md) — I. Im August 2001 schrieb das als Auftraggeber verfahrensbeteiligte Land im offenen Verfahren den Bau der Jugendstrafanstalt R. aus. An der den Rohbau betreffenden Ausschreibung …
+- [BGH, Urteil vom 18.02.2003 - X ZR 151/99](x-zr-151-99.md) — 3-
 - [BGH, Urteil vom 18.02.2003 - X ZR 245/00](x-zr-245-00.md) — Berichtigt durch Beschluß vom 13. Mai 2003 Mayer Justizangestellte als Urkundsbeamtin der Geschäftsstelle
+- [BGH, Urteil vom 12.02.2003 - X ZR 200/99](x-zr-200-99.md) — Tatbestand:
+- [BGH, Urteil vom 12.02.2003 - X ZR 62/01](x-zr-62-01.md) — Tatbestand:
+- [BGH, Beschluss vom 28.01.2003 - X ZB 31/02](x-zb-31-02.md) — einer nach ihrer
+- [BGH, Beschluss vom 28.01.2003 - X ZB 7/02](x-zb-7-02.md) — Versäumung der Berufungsbegründungsfrist gewährt. Der Beschwerdewert beträgt 258.236,15
 - [BGH, Urteil vom 28.01.2003 - X ZR 113/02](x-zr-113-02.md) — der Betrag, den die Deutsche Post AG bei Verlust, Entwendung oder Beschädigung als Entschädigung an den Absender zu zahlen verpflichtet ist,
+- [BGH, Urteil vom 28.01.2003 - X ZR 151/00](x-zr-151-00.md) — 3-
+- [BGH, Urteil vom 28.01.2003 - X ZR 199/99](x-zr-199-99.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2003 - X ZR 102/01](x-zr-102-01.md) — Tatbestand:
 - [BGH, Urteil vom 21.01.2003 - X ZR 261/01](x-zr-261-01.md) — Tatbestand: Die Beklagte beauftragte die Klägerin, eine Gesellschaft polnischen Rechts, unter dem 27. September 1996 in einer als Werkvertra
+- [BGH, Urteil vom 21.01.2003 - X ZR 30/01](x-zr-30-01.md) — Berichtigt durch Beschluß vom 25. Februar 2003 Potsch Justizangestellte als Urkundsbeamtin der Geschäftsstelle
+- [BGH, Urteil vom 14.01.2003 - X ZR 189/99](x-zr-189-99.md) — Tatbestand:
+- [BGH, Beschluss vom 07.01.2003 - X ZB 34/02](x-zb-34-02.md) — Das Rechtsmittel ist unzulässig, weil nach § 102 Abs.
+- [BGH, Urteil vom 07.01.2003 - X ZR 16/01](x-zr-16-01.md) — BGH, Urteil vom 07.01.2003 - X ZR 16/01
 - [BGH, Urteil vom 07.01.2003 - X ZR 50/01](x-zr-50-01.md) — Berichtigt durch Beschluß vom 12. März 2003 Potsch Justizangestellte als Urkundsbeamtin der Geschäftsstelle
+- [BGH, Beschluss vom 07.01.2003 - X ZR 82/02](x-zr-82-02.md) — Verletzung vorvertraglicher Pflichten bei der Ausschreibung (c.i.c.) verneint, weil der Beklagte nicht der öffentliche Auftraggeber habe sei
+- [BGH, Urteil vom 07.01.2003 - X ZR 94/00](x-zr-94-00.md) — Tatbestand:

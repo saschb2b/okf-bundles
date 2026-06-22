@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Urteil vom 28.02.2007 - XII ZR 95/04"
+description: "Tatbestand:"
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2004/XII_ZR__95-04.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "XII. Zivilsenat"
+datum: 2007-02-28
+aktenzeichen: "XII ZR 95/04"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T15:33:20Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: XII ZR 95/04 vom 28.02.2007.
+
+# Citations
+
+[1] [BGH, Urteil vom 28.02.2007 - XII ZR 95/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2004/XII_ZR__95-04.pdf?__blob=publicationFile&v=1)
+

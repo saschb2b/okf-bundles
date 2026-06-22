@@ -1,61 +1,190 @@
 # 4. Strafsenat – 2003
 
-57 Entscheidung(en).
+186 Entscheidung(en).
 
 - [BGH, Entscheidung vom 16.12.2003 - 4 StR 482/03](4-str-482-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Urteil vom 11.12.2003 - 4 StR 395/03](4-str-395-03.md) — schweren Raubes
+- [BGH, Beschluss vom 11.12.2003 - 4 StR 427/03](4-str-427-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 09.12.2003 - 4 StR 393/03](4-str-393-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 04.12.2003 - 4 StR 439/03](4-str-439-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 04.12.2003 - 4 StR 467/03](4-str-467-03.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 04.12.2003 - 4 StR 498/03](4-str-498-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 04.12.2003 - 4 StR 504/03](4-str-504-03.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 02.12.2003 - 4 StR 385/03](4-str-385-03.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 02.12.2003 - 4 StR 412/03](4-str-412-03.md) — Betruges u.a.
 - [BGH, Beschluss vom 02.12.2003 - 4 StR 471/03](4-str-471-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 02.12.2003 - 4 StR 477/03](4-str-477-03.md) — Anstiftung zur schweren räuberischen Erpressung
 - [BGH, Beschluss vom 02.12.2003 - 4 StR 485/03](4-str-485-03.md) — räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 02.12.2003 - 4 StR 536/01](4-str-536-01.md) — Mordes u.a.
+- [BGH, Beschluss vom 27.11.2003 - 4 StR 311/03](4-str-311-03.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 27.11.2003 - 4 StR 338/03](4-str-338-03.md) — Raubes mit Todesfolge u.a.
+- [BGH, Beschluss vom 27.11.2003 - 4 StR 390/03](4-str-390-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 27.11.2003 - 4 StR 441/03](4-str-441-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 25.11.2003 - 4 ARs 32/03](4-ars-32-03.md) — zu 1.: unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 25.11.2003 - 4 StR 239/03](4-str-239-03.md) — Betruges zu 2. wegen Beihilfe zum Betrug
+- [BGH, Beschluss vom 25.11.2003 - 4 StR 398/03](4-str-398-03.md) — zu Ziff. 1. Aussetzung zu Ziff. 2. gefährlicher Körperverletzung u.a. zu Ziff. 3. Aussetzung mit Todesfolge u.a.
 - [BGH, Beschluss vom 25.11.2003 - 4 StR 423/03](4-str-423-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 25.11.2003 - 4 StR 479/03](4-str-479-03.md) — Diebstahls u.a.
 - [BGH, Urteil vom 20.11.2003 - 4 StR 150/03](4-str-150-03.md) — gemeinschaftlichen Raubes
+- [BGH, Urteil vom 20.11.2003 - 4 StR 250/03](4-str-250-03.md) — Raubes u.a. zu 3. wegen Beihilfe zum Raub u.a.
+- [BGH, Beschluss vom 18.11.2003 - 4 StR 454/03](4-str-454-03.md) — versuchter schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 11.11.2003 - 4 StR 424/03](4-str-424-03.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 11.11.2003 - 4 StR 445/03](4-str-445-03.md) — Körperverletzung u.a.
 - [BGH, Beschluss vom 07.11.2003 - 4 StR 438/03](4-str-438-03.md) — schweren Raubes u.a.
 - [BGH, Urteil vom 06.11.2003 - 4 StR 270/03](4-str-270-03.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 06.11.2003 - 4 StR 296/03](4-str-296-03.md) — Totschlags u.a.
+- [BGH, Beschluss vom 06.11.2003 - 4 StR 417/03](4-str-417-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 06.11.2003 - 4 StR 456/03](4-str-456-03.md) — einer "schizophrenen Geisteskrankheit", mithin einer krankhaften seelischen Störung im Sinne des § 20 StGB, aufgehoben war, und das Krankhei
+- [BGH, Beschluss vom 04.11.2003 - 4 StR 266/03](4-str-266-03.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 04.11.2003 - 4 StR 388/03](4-str-388-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 23.10.2003 - 4 StR 264/03](4-str-264-03.md) — schweren sexuellen Mißbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 23.10.2003 - 4 StR 332/03](4-str-332-03.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 16.10.2003 - 4 StR 275/03](4-str-275-03.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 16.10.2003 - 4 StR 389/03](4-str-389-03.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 16.10.2003 - 4 StR 414/03](4-str-414-03.md) — schweren sexuellen Mißbrauchs eines Kindes u. a.
 - [BGH, Urteil vom 09.10.2003 - 4 StR 127/03](4-str-127-03.md) — Totschlags u.a.
 - [BGH, Beschluss vom 09.10.2003 - 4 StR 359/03](4-str-359-03.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 07.10.2003 - 4 StR 322/03](4-str-322-03.md) — Mordes u.a.
+- [BGH, Beschluss vom 07.10.2003 - 4 StR 329/03](4-str-329-03.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
+- [BGH, Beschluss vom 30.09.2003 - 4 StR 314/03](4-str-314-03.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 30.09.2003 - 4 StR 315/03](4-str-315-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 30.09.2003 - 4 StR 382/03](4-str-382-03.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 25.09.2003 - 4 StR 291/03](4-str-291-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 25.09.2003 - 4 StR 316/03](4-str-316-03.md) — einer im Zustand der zumindest verminderten Schuldfähigkeit begangenen Körperverletzung und Bedrohung (§§ 223 Abs. 1, 241 Abs.1, 52, 21 StGB
 - [BGH, Beschluss vom 25.09.2003 - 4 StR 381/03](4-str-381-03.md) — Mordes u.a.
-- [BGH, Beschluss vom 23.09.2003 - 4 StR 103/02](4-str-103-02.md) — versuchten Mordes u.a. hier: Antrag des Verteidigers auf Pauschvergütung
+- [BGH, Beschluss vom 23.09.2003 - 4 StR 272/03](4-str-272-03.md) — Mordes
+- [BGH, Beschluss vom 23.09.2003 - 4 StR 308/03](4-str-308-03.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 16.09.2003 - 4 StR 362/03](4-str-362-03.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 16.09.2003 - 4 StR 85/03](4-str-85-03.md) — zu 1. Betruges u.a. zu 2. schwerer räuberischer Erpressung zu 3. unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.
 - [BGH, Urteil vom 11.09.2003 - 4 StR 139/03](4-str-139-03.md) — Vergewaltigung u.a.
 - [BGH, Urteil vom 11.09.2003 - 4 StR 193/03](4-str-193-03.md) — Betruges
 - [BGH, Beschluss vom 11.09.2003 - 4 StR 252/03](4-str-252-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 11.09.2003 - 4 StR 305/03](4-str-305-03.md) — Totschlags
+- [BGH, Beschluss vom 09.09.2003 - 4 StR 173/03](4-str-173-03.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 09.09.2003 - 4 StR 269/03](4-str-269-03.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u. a. zu 2. wegen bandenmäßigen Einschleusens von Ausländern u. a.
+- [BGH, Beschluss vom 04.09.2003 - 4 StR 297/03](4-str-297-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 04.09.2003 - 4 StR 356/03](4-str-356-03.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 28.08.2003 - 4 StR 247/03](4-str-247-03.md) — Totschlags
+- [BGH, Beschluss vom 28.08.2003 - 4 StR 292/03](4-str-292-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 28.08.2003 - 4 StR 318/03](4-str-318-03.md) — Beihilfe zur versuchten schweren räuberischen Erpressung
+- [BGH, Beschluss vom 28.08.2003 - 4 StR 320/03](4-str-320-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 28.08.2003 - 4 StR 335/03](4-str-335-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 05.08.2003 - 4 StR 147/03](4-str-147-03.md) — vorsätzlichen Vollrausches hier: Anfrage gemäß § 132 Abs. 3 GVG
+- [BGH, Beschluss vom 05.08.2003 - 4 StR 205/03](4-str-205-03.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 29.07.2003 - 4 StR 222/03](4-str-222-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 29.07.2003 - 4 StR 253/03](4-str-253-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 24.07.2003 - 4 StR 226/03](4-str-226-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 24.07.2003 - 4 StR 230/03](4-str-230-03.md) — Mordes u.a.
 - [BGH, Beschluss vom 22.07.2003 - 4 StR 199/03](4-str-199-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 22.07.2003 - 4 StR 265/03](4-str-265-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 17.07.2003 - 4 StR 105/03](4-str-105-03.md) — Totschlags
+- [BGH, Beschluss vom 17.07.2003 - 4 StR 194/03](4-str-194-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 15.07.2003 - 4 StR 29/03](4-str-29-03.md) — Zuhälterei u. a. zu 2. wegen Beihilfe zur Zuhälterei u. a.
+- [BGH, Beschluss vom 10.07.2003 - 4 StR 172/03](4-str-172-03.md) — Betruges u. a.
+- [BGH, Beschluss vom 08.07.2003 - 4 StR 238/03](4-str-238-03.md) — räuberischen Angriffs auf Kraftfahrer u. a.
 - [BGH, Beschluss vom 08.07.2003 - 4 StR 246/03](4-str-246-03.md) — schwerer Brandstiftung
+- [BGH, Beschluss vom 08.07.2003 - 4 StR 254/03](4-str-254-03.md) — Vergewaltigung
+- [BGH, Urteil vom 03.07.2003 - 4 StR 120/03](4-str-120-03.md) — zu 1.: gefährlichen Eingriffs in den Straßenverkehr u.a. zu 2. und 3.: Verdachts des gefährlichen Eingriffs in den Straßenverkehr u.a.
+- [BGH, Urteil vom 03.07.2003 - 4 StR 190/03](4-str-190-03.md) — Verdachts der Mißhandlung einer Schutzbefohlenen u.a.
+- [BGH, Beschluss vom 01.07.2003 - 4 StR 181/03](4-str-181-03.md) — versuchter schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 01.07.2003 - 4 StR 203/03](4-str-203-03.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 01.07.2003 - 4 StR 55/03](4-str-55-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 01.07.2003 - 4 StR 75/03](4-str-75-03.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 26.06.2003 - 4 StR 159/03](4-str-159-03.md) — sexuellen Mißbrauchs einer Schutzbefohlenen
 - [BGH, Entscheidung vom 26.06.2003 - 4 StR 168/03](4-str-168-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 24.06.2003 - 4 StR 126/03](4-str-126-03.md) — Totschlags u.a.
+- [BGH, Beschluss vom 24.06.2003 - 4 StR 225/03](4-str-225-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 03.06.2003 - 4 StR 192/03](4-str-192-03.md) — versuchter sexueller Nötigung u. a.
+- [BGH, Beschluss vom 27.05.2003 - 4 StR 102/03](4-str-102-03.md) — Beihilfe zum schweren Raub u. a.
+- [BGH, Beschluss vom 27.05.2003 - 4 StR 140/03](4-str-140-03.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 27.05.2003 - 4 StR 142/03](4-str-142-03.md) — Untreue
 - [BGH, Urteil vom 22.05.2003 - 4 StR 130/03](4-str-130-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Urteil vom 22.05.2003 - 4 StR 21/03](4-str-21-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 21.05.2003 - 4 StR 157/02](4-str-157-02.md) — Bestechung
 - [BGH, Beschluss vom 20.05.2003 - 4 StR 152/03](4-str-152-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 20.05.2003 - 4 StR 174/03](4-str-174-03.md) — Totschlags
 - [BGH, Beschluss vom 15.05.2003 - 4 StR 124/03](4-str-124-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 13.05.2003 - 4 StR 133/03](4-str-133-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 13.05.2003 - 4 StR 135/03](4-str-135-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 13.05.2003 - 4 StR 162/03](4-str-162-03.md) — Körperverletzung
+- [BGH, Beschluss vom 13.05.2003 - 4 StR 518/02](4-str-518-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 08.05.2003 - 4 StR 550/02](4-str-550-02.md) — Untreue u. a.
+- [BGH, Beschluss vom 06.05.2003 - 4 StR 108/03](4-str-108-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 06.05.2003 - 4 StR 128/03](4-str-128-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 29.04.2003 - 4 StR 119/03](4-str-119-03.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 24.04.2003 - 4 StR 94/03](4-str-94-03.md) — Betrugs u. a.
+- [BGH, Beschluss vom 24.04.2003 - 4 StR 99/03](4-str-99-03.md) — Menschenhandels u. a.
+- [BGH, Urteil vom 10.04.2003 - 4 StR 73/03](4-str-73-03.md) — Verdachts der Vergewaltigung
 - [BGH, Beschluss vom 10.04.2003 - 4 StR 78/03](4-str-78-03.md) — sexuellen Mißbrauchs einer widerstandsunfähigen Person u.a.
 - [BGH, Beschluss vom 08.04.2003 - 4 StR 81/03](4-str-81-03.md) — Betruges u.a.
 - [BGH, Beschluss vom 03.04.2003 - 4 StR 506/02](4-str-506-02.md) — gewerbs- und bandenmäßiger Verleitung zur mißbräuchlichen Asylantragstellung
-- [BGH, Beschluss vom 01.04.2003 - 4 StR 53/03](4-str-53-03.md) — Totschlags
+- [BGH, Beschluss vom 03.04.2003 - 4 StR 84/03](4-str-84-03.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 01.04.2003 - 4 StR 96/03](4-str-96-03.md) — sexuellen Mißbrauchs einer widerstandsunfähigen Person
 - [BGH, Beschluss vom 27.03.2003 - 4 StR 68/03](4-str-68-03.md) — Körperverletzung mit Todesfolge u.a.
+- [BGH, Beschluss vom 25.03.2003 - 4 StR 38/03](4-str-38-03.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 25.03.2003 - 4 StR 74/03](4-str-74-03.md) — BGH, Beschluss vom 25.03.2003 - 4 StR 74/03
+- [BGH, Urteil vom 20.03.2003 - 4 StR 400/02](4-str-400-02.md) — Mordes u.a.
 - [BGH, Urteil vom 20.03.2003 - 4 StR 527/02](4-str-527-02.md) — Raubes u.a.
+- [BGH, Beschluss vom 18.03.2003 - 4 StR 17/03](4-str-17-03.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 18.03.2003 - 4 StR 39/03](4-str-39-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 18.03.2003 - 4 StR 83/03](4-str-83-03.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 18.03.2003 - 4 StR 95/03](4-str-95-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 13.03.2003 - 4 StR 57/03](4-str-57-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 11.03.2003 - 4 StR 1/03](4-str-1-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 11.03.2003 - 4 StR 51/03](4-str-51-03.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 11.03.2003 - 4 StR 545/02](4-str-545-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 11.03.2003 - 4 StR 7/03](4-str-7-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 11.03.2003 - 4 StR 88/03](4-str-88-03.md) — versuchten Totschlags u.a.
+- [BGH, Urteil vom 06.03.2003 - 4 StR 470/02](4-str-470-02.md) — Brandstiftung
+- [BGH, Urteil vom 06.03.2003 - 4 StR 484/02](4-str-484-02.md) — Verdachts des Totschlags
+- [BGH, Urteil vom 06.03.2003 - 4 StR 493/02](4-str-493-02.md) — Mordes u.a.
+- [BGH, Beschluss vom 06.03.2003 - 4 StR 62/03](4-str-62-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 04.03.2003 - 4 StR 27/03](4-str-27-03.md) — besonders schwerer Vergewaltigung
+- [BGH, Beschluss vom 04.03.2003 - 4 StR 524/02](4-str-524-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 04.03.2003 - 4 StR 543/02](4-str-543-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 27.02.2003 - 4 StR 510/02](4-str-510-02.md) — Anstiftung zum versuchten Mord u. a.
+- [BGH, Beschluss vom 27.02.2003 - 4 StR 59/03](4-str-59-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 25.02.2003 - 4 StR 30/03](4-str-30-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 25.02.2003 - 4 StR 463/02](4-str-463-02.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 25.02.2003 - 4 StR 499/02](4-str-499-02.md) — sexueller Nötigung
+- [BGH, Beschluss vom 25.02.2003 - 4 StR 515/02](4-str-515-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 20.02.2003 - 4 StR 228/02](4-str-228-02.md) — vorsätzlicher Straßenverkehrsgefährdung u.a.
+- [BGH, Beschluss vom 20.02.2003 - 4 StR 4/03](4-str-4-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 20.02.2003 - 4 StR 437/02](4-str-437-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 18.02.2003 - 4 StR 22/03](4-str-22-03.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 13.02.2003 - 4 StR 495/02](4-str-495-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 13.02.2003 - 4 StR 502/02](4-str-502-02.md) — besonders schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 13.02.2003 - 4 StR 6/03](4-str-6-03.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 11.02.2003 - 4 StR 25/03](4-str-25-03.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 11.02.2003 - 4 StR 5/03](4-str-5-03.md) — zu 1.: schweren Bandendiebstahls u.a. zu 2.: Hehlerei
+- [BGH, Beschluss vom 11.02.2003 - 4 StR 522/02](4-str-522-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 11.02.2003 - 4 StR 8/03](4-str-8-03.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 11.02.2003 - 4 StR 9/03](4-str-9-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 06.02.2003 - 4 StR 423/02](4-str-423-02.md) — Verletzung des Dienstgeheimnisses u.a.
 - [BGH, Urteil vom 06.02.2003 - 4 StR 450/02](4-str-450-02.md) — schwerer Körperverletzung u.a.
 - [BGH, Beschluss vom 05.02.2003 - 4 StR 538/02](4-str-538-02.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 28.01.2003 - 4 StR 521/02](4-str-521-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 28.01.2003 - 4 StR 528/02](4-str-528-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 28.01.2003 - 4 StR 535/02](4-str-535-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 28.01.2003 - 4 StR 540/02](4-str-540-02.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 23.01.2003 - 4 StR 267/02](4-str-267-02.md) — Totschlags
+- [BGH, Urteil vom 23.01.2003 - 4 StR 412/02](4-str-412-02.md) — zu 1. Vergewaltigung u.a. zu 2. versuchter sexueller Nötigung
+- [BGH, Beschluss vom 23.01.2003 - 4 StR 537/02](4-str-537-02.md) — Fälschung von Zahlungskarten
+- [BGH, Beschluss vom 21.01.2003 - 4 StR 414/02](4-str-414-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 21.01.2003 - 4 StR 472/02](4-str-472-02.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 16.01.2003 - 4 StR 264/02](4-str-264-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 16.01.2003 - 4 StR 386/02](4-str-386-02.md) — sexueller Nötigung u.a.
+- [BGH, Urteil vom 16.01.2003 - 4 StR 422/02](4-str-422-02.md) — Raubes mit Todesfolge u.a.
 - [BGH, Beschluss vom 16.01.2003 - 4 StR 457/02](4-str-457-02.md) — Beihilfe zum schweren Raub u.a.
+- [BGH, Beschluss vom 16.01.2003 - 4 StR 466/02](4-str-466-02.md) — Beihilfe zum schweren Raub
+- [BGH, Beschluss vom 14.01.2003 - 4 StR 336/02](4-str-336-02.md) — Bankrotts u.a.
 - [BGH, Beschluss vom 14.01.2003 - 4 StR 402/02](4-str-402-02.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 14.01.2003 - 4 StR 516/02](4-str-516-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 14.01.2003 - 4 StR 526/02](4-str-526-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 09.01.2003 - 4 StR 410/02](4-str-410-02.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 09.01.2003 - 4 StR 467/02](4-str-467-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
 - [BGH, Beschluss vom 09.01.2003 - 4 StR 488/02](4-str-488-02.md) — zu 1. und 2.: räuberischen Angriffs auf einen Kraftfahrer u.a. zu 3.: Verabredung zum schweren Raub u.a.
 - [BGH, Beschluss vom 07.01.2003 - 4 StR 454/02](4-str-454-02.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 07.01.2003 - 4 StR 473/02](4-str-473-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 07.01.2003 - 4 StR 490/02](4-str-490-02.md) — Mordes u.a.
 - [BGH, Beschluss vom 07.01.2003 - 4 StR 514/02](4-str-514-02.md) — Vergewaltigung u.a.

@@ -1,50 +1,136 @@
 # II. Zivilsenat – 2007
 
-46 Entscheidung(en).
+132 Entscheidung(en).
 
+- [BGH, Beschluss vom 10.12.2007 - II ZB 13/07](ii-zb-13-07.md) — I. Bei der Beteiligten B. GmbH handelt es sich um eine Gesellschaft, welche nach durchgeführter Liquidation am 8. Oktober 2002 im Handelsregister des Amtsgerichts München (HRB … ) …
 - [BGH, Beschluss vom 10.12.2007 - II ZR 146/06](ii-zr-146-06.md) — nicht zur Zulassung der Revision.
 - [BGH, Urteil vom 10.12.2007 - II ZR 180/06](ii-zr-180-06.md) — nichts anderes, weil diese Regeln erst nach dem ordnungsgemäß abgeschlossenen Kapitalaufbringungsvorgang anwendbar sind (vgl. Sen.Urt. v. 17
+- [BGH, Urteil vom 10.12.2007 - II ZR 199/06](ii-zr-199-06.md) — 3-
+- [BGH, Beschluss vom 10.12.2007 - II ZR 213/06](ii-zr-213-06.md) — wirksam auf den Beklagten hat übertragen können. Die
 - [BGH, Urteil vom 10.12.2007 - II ZR 239/05](ii-zr-239-05.md) — Duldung bzw. Nichtverhinderung einer Überschreitung des Nebenzweckprivilegs ist - schon wegen Fehlens einer regelungsbedürftigen Gesetzeslüc
+- [BGH, Beschluss vom 10.12.2007 - II ZR 289/06](ii-zr-289-06.md) — und mit Rücksicht auf die Eilbedürftigkeit der Angelegenheit durften
+- [BGH, Beschluss vom 10.12.2007 - II ZR 296/06](ii-zr-296-06.md) — für eine Heraufsetzung der Beschwer sind nicht überzeugend.
+- [BGH, Beschluss vom 10.12.2007 - II ZR 82/07](ii-zr-82-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 06.12.2007 - II ZA 12/07](ii-za-12-07.md) — möglicher Prozess- und Vollstreckungsrisiken entfielen
+- [BGH, Beschluss vom 06.12.2007 - II ZB 36/07](ii-zb-36-07.md) — unzulässig, weil sie nicht durch einen beim Bundesgerichtshof zugelassenen Rechtsanwalt eingelegt worden ist (§ 78 Abs. 1 ZPO).
+- [BGH, Beschluss vom 03.12.2007 - II ZB 10/07](ii-zb-10-07.md) — fehlerhafter ad hoc-Mitteilungen geltend. Im ersten Rechtszug haben sie
+- [BGH, Beschluss vom 03.12.2007 - II ZB 12/07](ii-zb-12-07.md) — I. Der Kläger macht gegen die Beklagten Schadensersatzansprüche im Zusammenhang mit seinem Beitritt zu einem geschlossenen Immobilienfonds geltend. Im ersten Rechtszug hat er …
+- [BGH, Beschluss vom 03.12.2007 - II ZB 15/07](ii-zb-15-07.md) — Entscheidungsreife des Hauptsacheverfahrens zurückzuweisen, wenn der Tatsachenstoff hinreichend geklärt ist und die Entscheidung des Hauptsa
+- [BGH, Beschluss vom 03.12.2007 - II ZB 17/07](ii-zb-17-07.md) — fehlerhafter ad
+- [BGH, Beschluss vom 03.12.2007 - II ZB 18/07](ii-zb-18-07.md) — fehlerhafter ad
+- [BGH, Beschluss vom 03.12.2007 - II ZB 20/07](ii-zb-20-07.md) — I. Der Beklagte zu 2 hat mit Schriftsatz vom 15. Februar 2007 gegen das ihm am 17. Januar 2007 zugestellte Urteil des Landgerichts Berlin vom 10. Januar 2007, Az. 18 O 250/06 …
+- [BGH, Beschluss vom 03.12.2007 - II ZB 8/07](ii-zb-8-07.md) — fehlender Zuständigkeit des Prozessgerichts zurückgewiesen, das Oberlandesgericht hat auf die sofortige Beschwerde des Klägers die Avalkoste
 - [BGH, Urteil vom 03.12.2007 - II ZR 21/06](ii-zr-21-06.md) — Tatbestand:
+- [BGH, Beschluss vom 03.12.2007 - II ZR 22/07](ii-zr-22-07.md) — Zulassungsgründe gemäß § 543 Abs. 2 ZPO sind nicht gegeben. Die Revision des Beklagten hat auch keine Aussicht auf Erfolg. 2 Grundsätzliche Fragen stellen sich entgegen der …
+- [BGH, Beschluss vom 03.12.2007 - II ZR 304/06](ii-zr-304-06.md) — aus dem Gesellschaftsvertrag eindeutig hervor-
+- [BGH, Beschluss vom 03.12.2007 - II ZR 36/07](ii-zr-36-07.md) — aus dem Gesellschaftsvertrag eindeutig hervor-
+- [BGH, Beschluss vom 26.11.2007 - II ZA 14/06](ii-za-14-06.md) — Ablaufs der seinerzeit einschlägigen fünfjährigen Verjährungs-
 - [BGH, Beschluss vom 26.11.2007 - II ZA 15/06](ii-za-15-06.md) — Ablaufs der seinerzeit einschlägigen fünfjährigen Verjährungs-
 - [BGH, Beschluss vom 26.11.2007 - II ZA 17/06](ii-za-17-06.md) — einer
+- [BGH, Beschluss vom 26.11.2007 - II ZR 161/06](ii-zr-161-06.md) — unklar geblieben, weil das Beru-
+- [BGH, Versäumnisurteil vom 26.11.2007 - II ZR 167/06](ii-zr-167-06.md) — 3-
+- [BGH, Beschluss vom 26.11.2007 - II ZR 227/06](ii-zr-227-06.md) — Die Voraussetzungen für die Zulassung der Revision (§ 543 Abs.
 - [BGH, Urteil vom 12.11.2007 - II ZR 183/06](ii-zr-183-06.md) — Tatbestand:
 - [BGH, Beschluss vom 12.11.2007 - II ZR 259/06](ii-zr-259-06.md) — BGH, Beschluss vom 12.11.2007 - II ZR 259/06
+- [BGH, Beschluss vom 12.11.2007 - II ZR 293/06](ii-zr-293-06.md) — Zulassungsgründe gemäß § 543 Abs. 2 ZPO sind nicht gegeben. Die Revision des Beklagten hat auch keine Aussicht auf Erfolg. 2 1. Eine Grundsatzfrage stellt sich entgegen der …
 - [BGH, Beschluss vom 05.11.2007 - II ZR 188/07](ii-zr-188-07.md) — BGH, Beschluss vom 05.11.2007 - II ZR 188/07
+- [BGH, Beschluss vom 05.11.2007 - II ZR 2/07](ii-zr-2-07.md) — bereit gefunden hat, weil seine Mitgesellschafter nicht in der Lage waren, die laufenden Belastungen zu tragen, eine Auflösung der Gesellsch
 - [BGH, Urteil vom 05.11.2007 - II ZR 230/06](ii-zr-230-06.md) — Tatbestand:
+- [BGH, Beschluss vom 05.11.2007 - II ZR 262/06](ii-zr-262-06.md) — I. Die Beschwerde ist begründet und führt gemäß § 544 Abs. 7 ZPO un- ter Aufhebung des angefochtenen Urteils zur Zurückverweisung der Sache an einen anderen Zivilsenat des …
 - [BGH, Beschluss vom 05.11.2007 - II ZR 268/06](ii-zr-268-06.md) — Die Voraussetzungen für die Zulassung der Revision liegen nicht vor.
+- [BGH, Beschluss vom 05.11.2007 - II ZR 298/06](ii-zr-298-06.md) — "Ladenhütern" sei nicht gerechtfer-
+- [BGH, Beschluss vom 22.10.2007 - II ZR 101/06](ii-zr-101-06.md) — nicht von vorneherein sinnlos, weil sie jedenfalls
+- [BGH, Beschluss vom 22.10.2007 - II ZR 184/06](ii-zr-184-06.md) — Das angefochtene Urteil hat einen ungewöhnlichen Einzelfall zum Ge- genstand, dem eine grundsätzliche Bedeutung nicht zukommt, zumal sich die Lösung des Berufungsgerichts von …
+- [BGH, Urteil vom 15.10.2007 - II ZR 136/06](ii-zr-136-06.md) — Tatbestand:
+- [BGH, Urteil vom 15.10.2007 - II ZR 216/06](ii-zr-216-06.md) — Willensmängeln gemäß §§ 119, 123 BGB angefochten werden.
+- [BGH, Urteil vom 15.10.2007 - II ZR 217/06](ii-zr-217-06.md) — Tatbestand:
+- [BGH, Beschluss vom 15.10.2007 - II ZR 236/06](ii-zr-236-06.md) — Verletzung der Insolvenzantragspflicht fristlos gekündigt werden. Wie sich diese Kündigung auf eine erteilte Versorgungszusage auswirkt, ist
+- [BGH, Beschluss vom 15.10.2007 - II ZR 243/06](ii-zr-243-06.md) — I. Die Beschwerde ist begründet und führt gemäß § 544 Abs. 7 ZPO un- ter Aufhebung des angefochtenen Urteils zur Zurückverweisung der Sache an das Berufungsgericht. Das …
+- [BGH, Beschluss vom 15.10.2007 - II ZR 249/06](ii-zr-249-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 15.10.2007 - II ZR 263/06](ii-zr-263-06.md) — Die Revision der Beklagten hat keine Aussicht auf Erfolg, und die Vor- aussetzungen für deren Zulassung liegen nicht vor (§ 552 a ZPO).
+- [BGH, Beschluss vom 11.10.2007 - II ZR 195/06](ii-zr-195-06.md) — nicht zutreffend, weil der nicht in jeder Hinsicht widerspruchsfreie Text des Vergleichs der Auslegung bedurfte und es auf das dort genannte
+- [BGH, Beschluss vom 11.10.2007 - II ZR 212/06](ii-zr-212-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 11.10.2007 - II ZR 248/06](ii-zr-248-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 11.10.2007 - II ZR 250/06](ii-zr-250-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 24.09.2007 - II ZR 134/06](ii-zr-134-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 24.09.2007 - II ZR 237/05](ii-zr-237-05.md) — Die von dem Berufungsgericht aufgeworfene Grundsatzfrage der Wirk- samkeit von Vorausverfügungen des übertragenden Rechtsträgers in den Fäl- len einer Verschmelzung stellt sich …
+- [BGH, Urteil vom 24.09.2007 - II ZR 284/05](ii-zr-284-05.md) — Tatbestand:
+- [BGH, Urteil vom 24.09.2007 - II ZR 91/06](ii-zr-91-06.md) — Tatbestand:
+- [BGH, Beschluss vom 17.09.2007 - II ZR 79/06](ii-zr-79-06.md) — BGH, Beschluss vom 17.09.2007 - II ZR 79/06
 - [BGH, Beschluss vom 17.08.2007 - II ZR 255/06](ii-zr-255-06.md) — Der Senat sieht die Eingabe des Klägers als Gegenvorstellung an, da gegen die Versagung der Prozesskostenhilfe durch den Bundesgerichtshof we- der die Beschwerde noch ein anderes …
 - [BGH, Beschluss vom 14.08.2007 - II ZA 4/07](ii-za-4-07.md) — Unstatthaftigkeit der beabsichtigten Rechtsbeschwerde offensichtlich aussichtslos ist. Es stellt entgegen der Ansicht des Antragstellers kei
 - [BGH, Urteil vom 16.07.2007 - II ZR 109/06](ii-zr-109-06.md) — dessen Mitgeschäftsführer.
+- [BGH, Beschluss vom 16.07.2007 - II ZR 189/06](ii-zr-189-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 16.07.2007 - II ZR 226/06](ii-zr-226-06.md) — der an die
+- [BGH, Urteil vom 16.07.2007 - II ZR 3/04](ii-zr-3-04.md) — Nachschlagewerk: ja
 - [BGH, Beschluss vom 13.07.2007 - II ZR 281/05](ii-zr-281-05.md) — BGH, Beschluss vom 13.07.2007 - II ZR 281/05
 - [BGH, Beschluss vom 09.07.2007 - II ZR 192/06](ii-zr-192-06.md) — BGH, Beschluss vom 09.07.2007 - II ZR 192/06
+- [BGH, Beschluss vom 09.07.2007 - II ZR 222/06](ii-zr-222-06.md) — Die von dem Berufungsgericht mit leerformelhaftem Hinweis auf künftige Fälle als Grund für die Zulassung der Revision angegebene "Frage des Umfan- ges der sekundären …
+- [BGH, Urteil vom 09.07.2007 - II ZR 232/05](ii-zr-232-05.md) — Tatbestand:
+- [BGH, Urteil vom 09.07.2007 - II ZR 233/05](ii-zr-233-05.md) — der Vernichtung seiner Flaschen auf Unterlassung und grundsätzlich auch auf Schadensersatz in Anspruch nehmen.
 - [BGH, Urteil vom 09.07.2007 - II ZR 30/06](ii-zr-30-06.md) — Tatbestand:
+- [BGH, Urteil vom 09.07.2007 - II ZR 62/06](ii-zr-62-06.md) — 3-
+- [BGH, Beschluss vom 09.07.2007 - II ZR 95/06](ii-zr-95-06.md) — Rechtsmissbrauchs abgewiesen
 - [BGH, Urteil vom 02.07.2007 - II ZR 111/05](ii-zr-111-05.md) — BGH, Urteil vom 02.07.2007 - II ZR 111/05
 - [BGH, Beschluss vom 02.07.2007 - II ZR 181/06](ii-zr-181-06.md) — BGH, Beschluss vom 02.07.2007 - II ZR 181/06
+- [BGH, Beschluss vom 02.07.2007 - II ZR 57/07](ii-zr-57-07.md) — Der Streitwert ist in Höhe des von dem Kläger mit der Klage geltend ge- machten Zahlungsbegehrens von 20.000,00 € festzusetzen.
+- [BGH, Beschluss vom 02.07.2007 - II ZR 71/06](ii-zr-71-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 26.06.2007 - II ZA 7/07](ii-za-7-07.md) — keine Aussicht auf Erfolg bietet, weil der Kläger und Antragsteller die sechsmonatige Frist des § 544 Abs. 1 Satz 2 ZPO nicht gewahrt hat. E
 - [BGH, Beschluss vom 18.06.2007 - II ZB 23/06](ii-zb-23-06.md) — I. Die Kläger und die Nebenintervenienten sind Aktionäre der Beklagten. Die auf der außerordentlichen Hauptversammlung der Beklagten vom 7. Januar 2005 unter den …
 - [BGH, Urteil vom 18.06.2007 - II ZR 86/06](ii-zr-86-06.md) — Tatbestand:
+- [BGH, Urteil vom 18.06.2007 - II ZR 89/06](ii-zr-89-06.md) — 3-
+- [BGH, Beschluss vom 11.06.2007 - II ZA 16/06](ii-za-16-06.md) — 1. Der Antrag auf Bewilligung von Prozesskostenhilfe ist zurückzuweisen, weil die beabsichtigte Rechtsverfolgung - worauf die Antragsteller ohne ent- sprechende Reaktion …
+- [BGH, Beschluss vom 11.06.2007 - II ZR 152/06](ii-zr-152-06.md) — Die Voraussetzungen für die Zulassung der Revision liegen mangels Ent- scheidungserheblichkeit der in dem Berufungsurteil aufgeworfenen Grundsatz- fragen nicht vor.
 - [BGH, Urteil vom 04.06.2007 - II ZR 147/05](ii-zr-147-05.md) — fehlerhafter Ad-hoc-Publizität auf dem Sekundärmarkt kann auf den Nachweis der konkreten Kausalität für den Willensentschluss des Anlegers s
 - [BGH, Urteil vom 04.06.2007 - II ZR 173/05](ii-zr-173-05.md) — fehlerhafter Adhoc-Publizität auf dem Sekundärmarkt kann auf den Nachweis der konkreten Kausalität für den Willensentschluss des Anlegers se
+- [BGH, Beschluss vom 21.05.2007 - II ZB 3/07](ii-zb-3-07.md) — greifbarer Gesetzwidrigkeit" in einem Verfahren
+- [BGH, Beschluss vom 21.05.2007 - II ZR 153/06](ii-zr-153-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 21.05.2007 - II ZR 154/06](ii-zr-154-06.md) — BGH, Beschluss vom 21.05.2007 - II ZR 154/06
 - [BGH, Beschluss vom 21.05.2007 - II ZR 266/04](ii-zr-266-04.md) — BGH, Beschluss vom 21.05.2007 - II ZR 266/04
 - [BGH, Versäumnisurteil vom 21.05.2007 - II ZR 96/06](ii-zr-96-06.md) — Tatbestand:
+- [BGH, Beschluss vom 14.05.2007 - II ZR 165/06](ii-zr-165-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 14.05.2007 - II ZR 182/06](ii-zr-182-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 14.05.2007 - II ZR 48/06](ii-zr-48-06.md) — Tatbestand:
 - [BGH, Beschluss vom 11.05.2007 - II ZR 126/06](ii-zr-126-06.md) — des mit dem Ausscheiden aus der Klägerin automa-
 - [BGH, Beschluss vom 07.05.2007 - II ZB 21/06](ii-zb-21-06.md) — BGH, Beschluss vom 07.05.2007 - II ZB 21/06
 - [BGH, Beschluss vom 07.05.2007 - II ZB 7/06](ii-zb-7-06.md) — eines im Inland gegen den - dem Geschäftsführer einer GmbH gleichstehenden - director einer englischen Private Limited Company durch vollzie
+- [BGH, Beschluss vom 07.05.2007 - II ZR 186/06](ii-zr-186-06.md) — völliger Zerstörung des Vertrauensverhältnisses eine Gesamtwürdigung des
+- [BGH, Beschluss vom 07.05.2007 - II ZR 40/06](ii-zr-40-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 23.04.2007 - II ZB 13/06](ii-zb-13-06.md) — angeblicher Verstöße gegen §§ 35, 30 WpÜG nicht zugelassen wurden. Gegen
+- [BGH, Beschluss vom 23.04.2007 - II ZB 29/05](ii-zb-29-05.md) — angebli-
 - [BGH, Beschluss vom 23.04.2007 - II ZR 133/06](ii-zr-133-06.md) — dieser Frage die Revision zugelassen hat.
+- [BGH, Beschluss vom 23.04.2007 - II ZR 149/06](ii-zr-149-06.md) — I. Die Beschwerde ist begründet und führt gemäß § 544 Abs. 7 ZPO un- ter Aufhebung des angefochtenen Urteils zur Zurückverweisung der Sache an einen anderen Senat des …
 - [BGH, Beschluss vom 23.04.2007 - II ZR 190/06](ii-zr-190-06.md) — I. 1 Der Kläger ist Verwalter in dem am 1. April 2002 über das Vermögen des "V. w. V." (nachfolgend: V. ) eröffneten Insolvenzverfahren. Das V. ist ein wirt- schaftlicher Verein …
+- [BGH, Beschluss vom 23.04.2007 - II ZR 66/06](ii-zr-66-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 19.04.2007 - II ZR 255/05](ii-zr-255-05.md) — BGH, Beschluss vom 19.04.2007 - II ZR 255/05
 - [BGH, Beschluss vom 13.04.2007 - II ZB 10/06](ii-zb-10-06.md) — I. Der Kläger hat die Beklagte vor dem Landgericht Karlsruhe auf Zah- lung einer Vertragsstrafe von 8.000,00 € nebst Zinsen in Anspruch genommen. In der mündlichen Verhandlung …
+- [BGH, Beschluss vom 02.04.2007 - II ZR 265/06](ii-zr-265-06.md) — Da der Kauf- und Übertragungsvertrag zwischen der Beklagten und der E.
 - [BGH, Urteil vom 02.04.2007 - II ZR 325/05](ii-zr-325-05.md) — Tatbestand:
 - [BGH, Beschluss vom 26.03.2007 - II ZB 14/06](ii-zb-14-06.md) — BGH, Beschluss vom 26.03.2007 - II ZB 14/06
+- [BGH, Beschluss vom 26.03.2007 - II ZR 22/06](ii-zr-22-06.md) — dieses Teils des Streitgegenstandes zulassen wollte, so ist hierin eine wirksame
+- [BGH, Urteil vom 26.03.2007 - II ZR 310/05](ii-zr-310-05.md) — 3-
 - [BGH, Beschluss vom 19.03.2007 - II ZB 19/06](ii-zb-19-06.md) — ihres in diesem Zusammenhang übereinstimmenden Bedeutungsgehalts synonym verwenden.
+- [BGH, Beschluss vom 19.03.2007 - II ZR 106/06](ii-zr-106-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 19.03.2007 - II ZR 300/05](ii-zr-300-05.md) — 3-
+- [BGH, Urteil vom 19.03.2007 - II ZR 73/06](ii-zr-73-06.md) — Tatbestand:
+- [BGH, Beschluss vom 12.03.2007 - II ZR 19/05](ii-zr-19-05.md) — I. Das Oberlandesgericht München hat den Beklagten zur Zahlung von 372.309,97 € verurteilt und die Revision nicht zugelassen. Auf die Nichtzulas- sungsbeschwerde des Beklagten hat …
+- [BGH, Urteil vom 12.03.2007 - II ZR 302/05](ii-zr-302-05.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 12.03.2007 - II ZR 315/05](ii-zr-315-05.md) — Konkursverschleppung ist nicht um die Beträge zu kürzen, die die Gläubigerin zur Begleichung ihrer Altforderungen im Zeitraum der Konkursver
+- [BGH, Beschluss vom 05.03.2007 - II ZB 4/06](ii-zb-4-06.md) — Nichtbeachtung der Einspruchsfrist verworfen, so muss sich die Berufungsbegründung mit dieser die Entscheidung allein tragenden Erwägung aus
 - [BGH, Urteil vom 05.03.2007 - II ZR 282/05](ii-zr-282-05.md) — 3-
 - [BGH, Beschluss vom 05.03.2007 - II ZR 287/05](ii-zr-287-05.md) — etwaiger Schwerpunktzu-
+- [BGH, Beschluss vom 05.03.2007 - II ZR 37/06](ii-zr-37-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 26.02.2007 - II ZR 13/06](ii-zr-13-06.md) — Tatbestand:
 - [BGH, Urteil vom 26.02.2007 - II ZR 330/05](ii-zr-330-05.md) — 1. Nachdem die Klägerin die Klageforderung zur Insolvenztabelle ange- meldet und der Beklagte - bzw. ein anderer Insolvenzgläubiger - weder in dem Prüfungstermin noch innerhalb …
 - [BGH, Urteil vom 12.02.2007 - II ZR 272/05](ii-zr-272-05.md) — Tatbestand:
+- [BGH, Urteil vom 12.02.2007 - II ZR 308/05](ii-zr-308-05.md) — Überschuldung stellen, und kündigt die Genossenschaft daraufhin dessen Anstellungsvertrag, muss sie im Prozess über die Wirksamkeit der Künd
+- [BGH, Urteil vom 12.02.2007 - II ZR 309/05](ii-zr-309-05.md) — Tatbestand:
+- [BGH, Beschluss vom 05.02.2007 - II ZR 14/06](ii-zr-14-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 05.02.2007 - II ZR 234/05](ii-zr-234-05.md) — Insolvenzverschleppung (§§ 823 Abs. 2 BGB, 64 Abs. 1 GmbHG) kommt es auf das Vorliegen ihrer Voraussetzungen im Zeitraum der Gläubigerschädi
+- [BGH, Beschluss vom 05.02.2007 - II ZR 51/06](ii-zr-51-06.md) — Die Voraussetzungen für die Zulassung der Revision liegen nicht vor; das Rechtsmittel hat auch keine Aussicht auf Erfolg.
 - [BGH, Urteil vom 05.02.2007 - II ZR 84/05](ii-zr-84-05.md) — Fortlassung des nach § 4 GmbHG vorgeschriebenen Formzusatzes trifft ausschließlich den für die Gesellschaft auftretenden Vertreter (Bestätig
+- [BGH, Urteil vom 15.01.2007 - II ZR 245/05](ii-zr-245-05.md) — Tatbestand:
 - [BGH, Beschluss vom 08.01.2007 - II ZR 254/05](ii-zr-254-05.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 08.01.2007 - II ZR 267/05](ii-zr-267-05.md) — Die Voraussetzungen für die Zulassung der Revision liegen nicht vor.
+- [BGH, Beschluss vom 08.01.2007 - II ZR 270/05](ii-zr-270-05.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 08.01.2007 - II ZR 304/04](ii-zr-304-04.md) — Die Beschwerde ist begründet und führt gemäß §§ 544 Abs.

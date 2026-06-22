@@ -1,32 +1,59 @@
 # V. Zivilsenat – 2004
 
-47 Entscheidung(en).
+111 Entscheidung(en).
 
 - [BGH, Urteil vom 10.12.2004 - V ZR 120/04](v-zr-120-04.md) — BGH, Urteil vom 10.12.2004 - V ZR 120/04
+- [BGH, Urteil vom 10.12.2004 - V ZR 340/03](v-zr-340-03.md) — Tatbestand:
+- [BGH, Urteil vom 10.12.2004 - V ZR 72/04](v-zr-72-04.md) — Lärmbelästigungen grundsätzlich nicht in Betracht.
 - [BGH, Beschluss vom 02.12.2004 - V ZR 110/04](v-zr-110-04.md) — BGH, Beschluss vom 02.12.2004 - V ZR 110/04
+- [BGH, Beschluss vom 02.12.2004 - V ZR 97/04](v-zr-97-04.md) — BGH, Beschluss vom 02.12.2004 - V ZR 97/04
+- [BGH, Urteil vom 26.11.2004 - V ZR 119/04](v-zr-119-04.md) — Tatbestand:
+- [BGH, Urteil vom 26.11.2004 - V ZR 83/04](v-zr-83-04.md) — Tatbestand: Die Parteien sind seit März 1998 Grundstücksnachbarn. Auf dem Grundstück der Beklagten stehen in einem Abstand von 40 cm von der
+- [BGH, Urteil vom 26.11.2004 - V ZR 90/04](v-zr-90-04.md) — Tatbestand:
+- [BGH, Beschluss vom 25.11.2004 - V ZB 13/04](v-zb-13-04.md) — der mit etwaigen Rückübertragungsansprüchen der Beteiligten zu 1 zusammenhängenden Verpflichtungen für die minderjährigen Beteiligten zu 2 u
+- [BGH, Beschluss vom 25.11.2004 - V ZR 116/04](v-zr-116-04.md) — BGH, Beschluss vom 25.11.2004 - V ZR 116/04
 - [BGH, Urteil vom 12.11.2004 - V ZR 308/03](v-zr-308-03.md) — Tatbestand:
 - [BGH, Urteil vom 12.11.2004 - V ZR 322/03](v-zr-322-03.md) — des Todes des Berechtigten ist dessen Erbe vom Grundbuchamt zu hören, wenn eine Vererblichkeit des Rechts in Frage kommt.
+- [BGH, Urteil vom 12.11.2004 - V ZR 42/04](v-zr-42-04.md) — Tatbestand:
 - [BGH, Beschluss vom 11.11.2004 - V ZR 94/04](v-zr-94-04.md) — BGH, Beschluss vom 11.11.2004 - V ZR 94/04
 - [BGH, Urteil vom 22.10.2004 - V ZR 310/03](v-zr-310-03.md) — Mitwirkens an einer Vertiefung nach §§ 823 Abs. 2, 909 BGB haftet, kommt es nicht darauf an, ob er vertragliche Pflichten gegenüber seinem V
 - [BGH, Urteil vom 22.10.2004 - V ZR 47/04](v-zr-47-04.md) — im Nachbarrechtsgesetz geregelter Rechte im Sinne des § 1 Abs. 1 Satz 1 Nr. 2e BadWürttSchlG ist gegeben, wenn das Nachbarrechtsgesetz Regel
 - [BGH, Urteil vom 22.10.2004 - V ZR 7/04](v-zr-7-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.10.2004 - V ZR 70/04](v-zr-70-04.md) — Tatbestand:
+- [BGH, Beschluss vom 21.10.2004 - V ZB 27/04](v-zb-27-04.md) — I. Die Parteien sind Grundstücksnachbarn. Nahe der Grundstücksgrenze stehen auf dem Grundstück des Beklagten mehrere hohe Nadelgehölze, sein Grundstück ist an der gemeinsamen …
 - [BGH, Beschluss vom 21.10.2004 - V ZB 28/04](v-zb-28-04.md) — BGH, Beschluss vom 21.10.2004 - V ZB 28/04
+- [BGH, Urteil vom 15.10.2004 - V ZR 100/04](v-zr-100-04.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 15.10.2004 - V ZR 223/03](v-zr-223-03.md) — des überhöhten Erwerbspreises schon im Zeitpunkt der Beratung abzusehen ist, daß ein gewinnbringender Verkauf zum genannten Zeitpunkt auch b
 - [BGH, Urteil vom 15.10.2004 - V ZR 63/04](v-zr-63-04.md) — Tatbestand:
+- [BGH, Urteil vom 08.10.2004 - V ZR 178/03](v-zr-178-03.md) — Tatbestand:
+- [BGH, Urteil vom 08.10.2004 - V ZR 18/04](v-zr-18-04.md) — Verstoßes gegen das Rechtsberatungsgesetz auch gegenüber dem Verkäufer und Initiator des Modells vertretungsbefugt, wenn er durch einen Nota
+- [BGH, Urteil vom 08.10.2004 - V ZR 84/04](v-zr-84-04.md) — Tatbestand:
+- [BGH, Urteil vom 08.10.2004 - V ZR 85/04](v-zr-85-04.md) — Tatbestand:
 - [BGH, Beschluss vom 07.10.2004 - V ZA 8/04](v-za-8-04.md) — BGH, Beschluss vom 07.10.2004 - V ZA 8/04
 - [BGH, Beschluss vom 07.10.2004 - V ZB 22/04](v-zb-22-04.md) — I. Die Beteiligten sind die Wohnungseigentümer einer ursprünglich aus vier, nunmehr aus sechs Einheiten bestehenden Wohnungseigentumsanlage in Berlin. Der Antragsgegner zu 1 war …
-- [BGH, Beschluss vom 07.10.2004 - V ZR 328/03](v-zr-328-03.md) — BGH, Beschluss vom 07.10.2004 - V ZR 328/03
 - [BGH, Beschluss vom 07.10.2004 - V ZR 34/04](v-zr-34-04.md) — Nichterfüllung unberührt läßt, unter der Geltung des alten Rechts bereits bejaht (Urt. v. 17. Januar 1997, V ZR 285/95, NJW 1997, 1231). Ein
+- [BGH, Beschluss vom 06.10.2004 - V ZA 2/04](v-za-2-04.md) — BGH, Beschluss vom 06.10.2004 - V ZA 2/04
+- [BGH, Urteil vom 01.10.2004 - V ZR 210/03](v-zr-210-03.md) — einer fehlgeschlagenen Unterteilung lediglich einen isolierten Miteigentumsanteil verschaffen kann, dieser aber dem Käufer die Möglichkeit e
 - [BGH, Urteil vom 01.10.2004 - V ZR 330/03](v-zr-330-03.md) — Tatbestand:
 - [BGH, Beschluss vom 30.09.2004 - V ZB 16/04](v-zb-16-04.md) — I. Die Beteiligten sind die Wohnungseigentümer einer aus zwei Einheiten bestehenden Wohnungseigentumsanlage. Nachdem es in dem zu ihrem Sondereigentum gehörenden Kellerraum zu …
 - [BGH, Beschluss vom 30.09.2004 - V ZB 26/04](v-zb-26-04.md) — BGH, Beschluss vom 30.09.2004 - V ZB 26/04
+- [BGH, Beschluss vom 30.09.2004 - V ZR 15/04](v-zr-15-04.md) — BGH, Beschluss vom 30.09.2004 - V ZR 15/04
+- [BGH, Urteil vom 17.09.2004 - V ZR 230/03](v-zr-230-03.md) — Tatbestand: Die Parteien sind Nachbarn. Das Fällen von als Landschaftsbestandteil geschützten Bäumen auf dem Grundstück der Beklagten ist gr
 - [BGH, Entscheidung vom 17.09.2004 - V ZR 33/04](v-zr-33-04.md) — BGH, Entscheidung vom 17.09.2004 - V ZR 33/04
+- [BGH, Urteil vom 17.09.2004 - V ZR 339/03](v-zr-339-03.md) — Tatbestand:
 - [BGH, Beschluss vom 16.09.2004 - V ZB 8/04](v-zb-8-04.md) — Kosten gegen die Beklagten zu 1 und zu 2 festzusetzen.
+- [BGH, Beschluss vom 16.09.2004 - V ZR 30/04](v-zr-30-04.md) — BGH, Beschluss vom 16.09.2004 - V ZR 30/04
 - [BGH, Beschluss vom 16.09.2004 - V ZR 60/04](v-zr-60-04.md) — Die Beiordnung eines Rechtsanwalts nach § 78b ZPO setzt u.a.
-- [BGH, Beschluss vom 15.07.2004 - V ZR 343/02](v-zr-343-02.md) — Die Entscheidung beruht auf §§ 565, 516 Abs.
+- [BGH, Beschluss vom 08.09.2004 - V ZR 260/03](v-zr-260-03.md) — I. Die Beklagte zu 1 kauft Altwohnbestände auf, nimmt an ihnen Renovierungsmaßnahmen vor und veräußert sie nach Aufteilung in Wohnungseigentum weiter. Mit notariellem Vertrag vom …
+- [BGH, Urteil vom 16.07.2004 - V ZR 228/03](v-zr-228-03.md) — Tatbestand:
+- [BGH, Beschluss vom 09.07.2004 - V ZB 6/04](v-zb-6-04.md) — Verfehlens des Berufungswerts von 600 € als unzulässig verworfen. Dagegen richtet sich die Rechtsbeschwerde der Kläger, mit der sie die Aufh
 - [BGH, Beschluss vom 07.07.2004 - V ZB 61/03](v-zb-61-03.md) — I. Der Kostengläubiger beurkundete am 29. Januar 1998 einen Kaufvertrag über Geschäftsanteile an einer Gesellschaft mit beschränkter Haftung, an dem der Kostenschuldner als …
+- [BGH, Beschluss vom 07.07.2004 - V ZR 325/03](v-zr-325-03.md) — BGH, Beschluss vom 07.07.2004 - V ZR 325/03
+- [BGH, Urteil vom 02.07.2004 - V ZR 209/03](v-zr-209-03.md) — 3-
+- [BGH, Urteil vom 02.07.2004 - V ZR 213/03](v-zr-213-03.md) — Tatbestand:
+- [BGH, Urteil vom 02.07.2004 - V ZR 290/03](v-zr-290-03.md) — der ab dem 20. Oktober 2001 verlangten Beträge zum Nachteil des Klägers erkannt worden ist.
 - [BGH, Beschluss vom 01.07.2004 - V ZB 66/03](v-zb-66-03.md) — I. Der Antragsteller ist Eigentümer des Grundstücks H. straße 13 in S. -K. . Die Antragsgegnerin nutzt als Mieterin das angren- zende Grundstück H. Straße 10 zum Betrieb eines …
+- [BGH, Beschluss vom 25.06.2004 - V ZR 282/03](v-zr-282-03.md) — des von dem Beklagten bislang nicht begründeten Erstwohnsitzes eine Vertragsstrafe in Höhe von 55.219,52 € nebst Zinsen geltend. Nach Abweis
 - [BGH, Beschluss vom 25.06.2004 - V ZR 334/03](v-zr-334-03.md) — BGH, Beschluss vom 25.06.2004 - V ZR 334/03
 - [BGH, Urteil vom 14.05.2004 - V ZR 120/03](v-zr-120-03.md) — Verschweigens eines Fehlers geltend macht, kann nicht ent-
 - [BGH, Urteil vom 14.05.2004 - V ZR 164/03](v-zr-164-03.md) — Tatbestand:
@@ -37,15 +64,52 @@
 - [BGH, Urteil vom 07.05.2004 - V ZR 77/03](v-zr-77-03.md) — Tatbestand:
 - [BGH, Beschluss vom 06.05.2004 - V ZA 4/04](v-za-4-04.md) — BGH, Beschluss vom 06.05.2004 - V ZA 4/04
 - [BGH, Beschluss vom 06.05.2004 - V ZB 45/03](v-zb-45-03.md) — der Fristversäumung zugleich Wiedereinsetzung in den vorigen Stand beantragt. Zur Begründung hat sie ausgeführt:
+- [BGH, Beschluss vom 06.05.2004 - V ZR 301/03](v-zr-301-03.md) — BGH, Beschluss vom 06.05.2004 - V ZR 301/03
+- [BGH, Beschluss vom 29.04.2004 - V ZB 33/03](v-zb-33-03.md) — I. Die Beklagten sind in erster Instanz zur Herausgabe eines Grundstücks verurteilt worden. Gegen das ihnen am 21. März 2003 zugestellte Urteil haben sie am 10. April 2003 …
+- [BGH, Beschluss vom 29.04.2004 - V ZB 46/03](v-zb-46-03.md) — I. Die Kläger haben von den Beklagten den Abschluß eines Kaufvertrags über ein Grundstück und die Bezahlung des Kaufpreises verlangt. Das Landgericht hat die geltend gemachten …
+- [BGH, Beschluss vom 29.04.2004 - V ZR 293/03](v-zr-293-03.md) — BGH, Beschluss vom 29.04.2004 - V ZR 293/03
+- [BGH, Beschluss vom 29.04.2004 - V ZR 296/03](v-zr-296-03.md) — . Die Beschwerde des Klägers gegen den Beschluß des Berufungsgerichts vom 30. September 2003 ist nach § 25 Abs. 3 Satz 1 i. V. m. § 5 Abs. 2 Satz 3 GKG unzulässig. 2. Der …
+- [BGH, Urteil vom 02.04.2004 - V ZR 105/03](v-zr-105-03.md) — Tatbestand:
+- [BGH, Urteil vom 02.04.2004 - V ZR 107/03](v-zr-107-03.md) — Tatbestand:
+- [BGH, Urteil vom 02.04.2004 - V ZR 267/03](v-zr-267-03.md) — Tatbestand:
+- [BGH, Beschluss vom 01.04.2004 - V ZB 5/04](v-zb-5-04.md) — I. Durch Urteil des Amtsgerichts Herford vom 25. Juli 2003 sind die Beklagten verurteilt worden, an der Grenze zum Grundstück der Kläger stehende Bepflanzungen zu beseitigen. Das …
 - [BGH, Urteil vom 26.03.2004 - V ZR 90/03](v-zr-90-03.md) — BGH, Urteil vom 26.03.2004 - V ZR 90/03
+- [BGH, Beschluss vom 25.03.2004 - V ZR 123/03](v-zr-123-03.md) — Der Streitwert des Zwischenfeststellungsantrags überschreitet den Streitwert des Zahlungsantrags von 2.635.556,26 € um 2.045.167,52 €.
+- [BGH, Beschluss vom 25.03.2004 - V ZR 199/03](v-zr-199-03.md) — BGH, Beschluss vom 25.03.2004 - V ZR 199/03
 - [BGH, Beschluss vom 25.03.2004 - V ZR 283/03](v-zr-283-03.md) — BGH, Beschluss vom 25.03.2004 - V ZR 283/03
 - [BGH, Urteil vom 19.03.2004 - V ZR 104/03](v-zr-104-03.md) — Tatbestand:
+- [BGH, Urteil vom 19.03.2004 - V ZR 214/03](v-zr-214-03.md) — Tatbestand
+- [BGH, Urteil vom 19.03.2004 - V ZR 224/03](v-zr-224-03.md) — Tatbestand:
+- [BGH, Beschluss vom 18.03.2004 - V ZR 222/03](v-zr-222-03.md) — ihrer spezifischen Aufgabenstellung schutzwürdigen Vertrauens der Klägerin gravierend illoyal sei. Der Restkaufpreisanspruch sei nicht entfa
+- [BGH, Beschluss vom 12.03.2004 - V ZR 196/03](v-zr-196-03.md) — BGH, Beschluss vom 12.03.2004 - V ZR 196/03
+- [BGH, Urteil vom 12.03.2004 - V ZR 257/03](v-zr-257-03.md) — Tatbestand:
 - [BGH, Urteil vom 12.03.2004 - V ZR 37/03](v-zr-37-03.md) — Tatbestand:
+- [BGH, Beschluss vom 11.03.2004 - V ZB 63/03](v-zb-63-03.md) — I. Die Antragstellerin nimmt als Verfahrensstandschafterin die Antragsgeg- ner auf Zahlung von 337,45 ¢¤¡ ¦£ ¨¥ §©¡  ¢§ " #! $  # & %'!¢() ¡  0 1¤2 …
+- [BGH, Beschluss vom 11.03.2004 - V ZR 270/03](v-zr-270-03.md) — nicht die Zulassung der Revision nach § 543 Abs. 2 Satz 1 Nr. 2 Alt. 2 ZPO, weil er sich auf das Ergebnis nicht auswirkt. Ansprüche nach §§
+- [BGH, Beschluss vom 11.03.2004 - V ZR 281/03](v-zr-281-03.md) — Urlaubsabwesenheit gehindert, zu unterschreiben.
 - [BGH, Beschluss vom 19.02.2004 - V ZR 254/03](v-zr-254-03.md) — BGH, Beschluss vom 19.02.2004 - V ZR 254/03
 - [BGH, Urteil vom 13.02.2004 - V ZR 217/03](v-zr-217-03.md) — Tatbestand:
+- [BGH, Urteil vom 13.02.2004 - V ZR 218/03](v-zr-218-03.md) — Tatbestand:
+- [BGH, Urteil vom 13.02.2004 - V ZR 225/03](v-zr-225-03.md) — etwaiger Mängel nicht abschließend entlasten und vor unvorhersehbaren Rückwirkungen einer Inanspruchnahme des Erstverkäufers schützen sollte
+- [BGH, Beschluss vom 12.02.2004 - V ZB 57/03](v-zb-57-03.md) — I. Die Beteiligten sind Eigentümer benachbarter Grundstücke. Beide Grundstücke waren bebaut, das Grundstück der Antragstellerin mit einem Wohnhaus, das Grundstück des …
 - [BGH, Beschluss vom 12.02.2004 - V ZR 125/03](v-zr-125-03.md) — führen, rechtfertigen für sich genommen noch nicht die Zulassung der Revision (Fortführung des Senatsbeschl. v. 26. Juni 2003, V ZR 441/02,
+- [BGH, Beschluss vom 12.02.2004 - V ZR 240/03](v-zr-240-03.md) — Der Widerspruch der Kläger gegen den Kostenansatz vom 18.
+- [BGH, Beschluss vom 12.02.2004 - V ZR 247/03](v-zr-247-03.md) — der arglistigen Täuschung des Klägers verpflichtet ist. Zur Be-
+- [BGH, Beschluss vom 12.02.2004 - V ZR 288/03](v-zr-288-03.md) — seiner Leistung gemäß § 717 Abs. 2 ZPO Ersatz verlangt.
+- [BGH, Beschluss vom 06.02.2004 - V ZR 129/03](v-zr-129-03.md) — des Urteils vom 28. November 2003 zu berichtigen, wird als unzulässig verworfen. Gründe: I. Die Kläger beantragen, im Tatbestand des Urteils des Senats vom 28. November 2003 …
 - [BGH, Beschluss vom 06.02.2004 - V ZR 219/03](v-zr-219-03.md) — Der Wert der Beschwer richtet sich nach dem Interesse des Beklagten zu 1.
+- [BGH, Urteil vom 06.02.2004 - V ZR 249/03](v-zr-249-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.01.2004 - V ZR 262/03](v-zr-262-03.md) — Tatbestand
+- [BGH, Urteil vom 30.01.2004 - V ZR 92/03](v-zr-92-03.md) — Tatbestand:
+- [BGH, Beschluss vom 29.01.2004 - V ZR 234/03](v-zr-234-03.md) — Die Rechtssache wirft keine entscheidungserheblichen Fragen von grundsätzlicher Bedeutung auf.
+- [BGH, Beschluss vom 29.01.2004 - V ZR 244/03](v-zr-244-03.md) — Nichterfüllung in Anspruch. Das Landgericht hat ihrer Klage weit-
+- [BGH, Urteil vom 23.01.2004 - V ZR 165/03](v-zr-165-03.md) — Tatbestand:
+- [BGH, Urteil vom 23.01.2004 - V ZR 205/03](v-zr-205-03.md) — Tatbestand:
 - [BGH, Beschluss vom 22.01.2004 - V ZB 47/03](v-zb-47-03.md) — I. Der Kläger hat von dem Beklagten verlangt, es zu unterlassen, sein Fahrzeug gegenüber der Einfahrt des Grundstücks des Klägers abzustellen, da ihm hierdurch das Einfahren auf …
 - [BGH, Beschluss vom 22.01.2004 - V ZB 51/03](v-zb-51-03.md) — I. Die Antragstellerin nimmt die Antragsgegner auf Entfernung einer Parabolantenne in Anspruch. Die Antragstellerin ist die Verwalterin einer aus 136 Einheiten bestehenden …
+- [BGH, Beschluss vom 22.01.2004 - V ZR 187/03](v-zr-187-03.md) — I. Der Beklagte, damals Gesellschafter der späteren Gemeinschuldnerin, kaufte von dieser mit notarieller Urkunde vom 29. April 1993 einen 738/1.000 Miterbbaurechtsanteil verbunden …
 - [BGH, Beschluss vom 16.01.2004 - V ZB 64/03](v-zb-64-03.md) — Gegen Entscheidungen der Oberlandesgerichte in Verfahren der freiwilligen Gerichtsbarkeit ist eine sofortige Beschwerde nicht statthaft (§ 45 WEG, §§ 27 ff FGG), und zwar auch …
+- [BGH, Urteil vom 16.01.2004 - V ZR 166/03](v-zr-166-03.md) — Tatbestand:
+- [BGH, Urteil vom 16.01.2004 - V ZR 243/03](v-zr-243-03.md) — Tatbestand:
+- [BGH, Urteil vom 16.01.2004 - V ZR 449/02](v-zr-449-02.md) — 3-
 - [BGH, Beschluss vom 15.01.2004 - V ZB 56/03](v-zb-56-03.md) — I. Gegen das seinem erstinstanzlichen Prozeßbevollmächtigten am 30. April 2003 zugestellte Urteil des Amtsgerichts hat der in der zweiten Instanz zunächst für den Beklagten tätig …

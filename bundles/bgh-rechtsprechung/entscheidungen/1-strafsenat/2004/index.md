@@ -1,55 +1,129 @@
 # 1. Strafsenat – 2004
 
-51 Entscheidung(en).
+125 Entscheidung(en).
 
+- [BGH, Beschluss vom 20.12.2004 - 1 StR 527/04](1-str-527-04.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 17.12.2004 - 1 StR 522/04](1-str-522-04.md) — gefährlicher Körperverletzung
 - [BGH, Urteil vom 16.12.2004 - 1 StR 420/03](1-str-420-03.md) — Veröffentlichung: ja ________________________ AktG § 400 Abs. 1 Nr. 1 Quartalsberichte über Umsätze und Erträge (§§ 53, 54 BörsZulV) geben die Verhältnisse der Aktiengesellschaft …
+- [BGH, Beschluss vom 08.12.2004 - 1 StR 483/04](1-str-483-04.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Urteil vom 07.12.2004 - 1 StR 395/04](1-str-395-04.md) — Betruges
 - [BGH, Beschluss vom 07.12.2004 - 1 StR 487/04](1-str-487-04.md) — versuchter Beteiligung am Totschlag u.a.
+- [BGH, Beschluss vom 29.11.2004 - 1 StR 500/04](1-str-500-04.md) — besonders schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 24.11.2004 - 1 StR 493/04](1-str-493-04.md) — Das Landgericht hat den Beschuldigten im Sicherungsverfahren nach § 63 StGB in einem psychiatrischen Krankenhaus untergebracht.
 - [BGH, Urteil vom 23.11.2004 - 1 StR 331/04](1-str-331-04.md) — Mordes
+- [BGH, Beschluss vom 23.11.2004 - 1 StR 379/04](1-str-379-04.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 23.11.2004 - 1 StR 449/04](1-str-449-04.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 23.11.2004 - 1 StR 477/04](1-str-477-04.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 18.11.2004 - 1 StR 457/04](1-str-457-04.md) — versuchter Anstiftung zum Mord
+- [BGH, Beschluss vom 11.11.2004 - 1 StR 424/04](1-str-424-04.md) — Veröffentlichung: ja ____________________ StPO §§ 406g, 240 Dem als Beistand eines nebenklageberechtigten Verletzten bestellten Rechtsanwalt (§ 406g StPO) kann der Vorsitzende im …
+- [BGH, Urteil vom 10.11.2004 - 1 StR 339/04](1-str-339-04.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 10.11.2004 - 1 StR 414/04](1-str-414-04.md) — Totschlags
+- [BGH, Beschluss vom 10.11.2004 - 1 StR 463/04](1-str-463-04.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 09.11.2004 - 1 StR 375/04](1-str-375-04.md) — Betrugs
+- [BGH, Beschluss vom 09.11.2004 - 1 StR 399/04](1-str-399-04.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 09.11.2004 - 1 StR 442/04](1-str-442-04.md) — sexueller Nötigung
+- [BGH, Urteil vom 22.10.2004 - 1 StR 140/04](1-str-140-04.md) — schweren Raubes u. a.
 - [BGH, Urteil vom 22.10.2004 - 1 StR 248/04](1-str-248-04.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 21.10.2004 - 1 StR 324/04](1-str-324-04.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 20.10.2004 - 1 StR 232/04](1-str-232-04.md) — fahrlässiger Tötung
 - [BGH, Urteil vom 19.10.2004 - 1 StR 254/04](1-str-254-04.md) — schwerer Körperverletzung
+- [BGH, Beschluss vom 19.10.2004 - 1 StR 427/04](1-str-427-04.md) — Vergewaltigung
 - [BGH, Urteil vom 06.10.2004 - 1 StR 286/04](1-str-286-04.md) — Mordes
+- [BGH, Urteil vom 06.10.2004 - 1 StR 76/04](1-str-76-04.md) — Vergehens gegen das Ausländergesetz
+- [BGH, Beschluss vom 05.10.2004 - 1 StR 223/04](1-str-223-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 05.10.2004 - 1 StR 284/04](1-str-284-04.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 29.09.2004 - 1 StR 565/03](1-str-565-03.md) — Untreue u.a.
+- [BGH, Beschluss vom 28.09.2004 - 1 StR 294/04](1-str-294-04.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 28.09.2004 - 1 StR 317/04](1-str-317-04.md) — Mordes
+- [BGH, Beschluss vom 28.09.2004 - 1 StR 378/04](1-str-378-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 16.09.2004 - 1 StR 212/04](1-str-212-04.md) — unerlaubten Erwerbs von Betäubungsmitteln
+- [BGH, Urteil vom 16.09.2004 - 1 StR 233/04](1-str-233-04.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 15.09.2004 - 1 StR 304/04](1-str-304-04.md) — Mordes
+- [BGH, Beschluss vom 14.09.2004 - 1 StR 124/04](1-str-124-04.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 14.09.2004 - 1 StR 180/04](1-str-180-04.md) — räuberischer Erpressung u.a.
+- [BGH, Urteil vom 14.09.2004 - 1 StR 202/04](1-str-202-04.md) — Verstoßes gegen das Außenwirtschaftsgesetz
+- [BGH, Beschluss vom 14.09.2004 - 1 StR 360/04](1-str-360-04.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 14.09.2004 - 1 StR 44/04](1-str-44-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 03.09.2004 - 1 StR 359/04](1-str-359-04.md) — Totschlags
+- [BGH, Beschluss vom 02.09.2004 - 1 StR 342/04](1-str-342-04.md) — Mordes
 - [BGH, Urteil vom 31.08.2004 - 1 StR 213/04](1-str-213-04.md) — schweren Raubes
 - [BGH, Beschluss vom 31.08.2004 - 1 StR 265/04](1-str-265-04.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 31.08.2004 - 1 StR 347/04](1-str-347-04.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 23.08.2004 - 1 StR 199/04](1-str-199-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 19.08.2004 - 1 StR 333/03](1-str-333-03.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 17.08.2004 - 1 StR 315/04](1-str-315-04.md) — unerlaubten bewaffneten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 17.08.2004 - 1 StR 325/04](1-str-325-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 03.08.2004 - 1 StR 102/04](1-str-102-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 03.08.2004 - 1 StR 192/04](1-str-192-04.md) — unerlaubten Erwerbs von Betäubungsmitteln
+- [BGH, Beschluss vom 03.08.2004 - 1 StR 288/04](1-str-288-04.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 03.08.2004 - 1 StR 293/04](1-str-293-04.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 03.08.2004 - 1 StR 307/04](1-str-307-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 20.07.2004 - 1 StR 145/04](1-str-145-04.md) — Totschlags
 - [BGH, Beschluss vom 08.07.2004 - 1 StR 273/04](1-str-273-04.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Urteil vom 07.07.2004 - 1 StR 115/04](1-str-115-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge unter Mitführung einer Schußwaffe u.a.
 - [BGH, Beschluss vom 07.07.2004 - 1 StR 241/04](1-str-241-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 07.07.2004 - 1 StR 256/04](1-str-256-04.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 06.07.2004 - 1 StR 129/04](1-str-129-04.md) — Verstoßes gegen das Außenwirtschaftsgesetz (Irak-Embargo)
 - [BGH, Beschluss vom 30.06.2004 - 1 StR 525/03](1-str-525-03.md) — unerlaubten Umgangs mit gefährlichen Abfällen
 - [BGH, Beschluss vom 30.06.2004 - 1 StR 526/03](1-str-526-03.md) — unerlaubten Umgangs mit gefährlichen Abfällen
 - [BGH, Beschluss vom 17.06.2004 - 1 StR 24/04](1-str-24-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 17.06.2004 - 1 StR 62/04](1-str-62-04.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 16.06.2004 - 1 StR 166/04](1-str-166-04.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 16.06.2004 - 1 StR 189/04](1-str-189-04.md) — Beihilfe zur schweren räuberischen Erpressung u. a.
 - [BGH, Beschluss vom 16.06.2004 - 1 StR 214/04](1-str-214-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 15.06.2004 - 1 StR 39/04](1-str-39-04.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 15.06.2004 - 1 StR 80/04](1-str-80-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 27.05.2004 - 1 StR 187/04](1-str-187-04.md) — Betruges
+- [BGH, Urteil vom 26.05.2004 - 1 StR 72/04](1-str-72-04.md) — Vergewaltigung
 - [BGH, Urteil vom 26.05.2004 - 1 StR 94/04](1-str-94-04.md) — bandenmäßiger Geldfälschung u.a.
 - [BGH, Urteil vom 26.05.2004 - 1 StR 98/04](1-str-98-04.md) — bandenmäßiger Geldfälschung u.a.
+- [BGH, Beschluss vom 25.05.2004 - 1 StR 172/04](1-str-172-04.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 21.05.2004 - 1 StR 170/04](1-str-170-04.md) — Totschlags
+- [BGH, Beschluss vom 13.05.2004 - 1 ARs 31/03](1-ars-31-03.md) — Betruges u.a. zu 2.: wegen schwerer räuberischer Erpressung zu 3.: wegen unerlaubten Handeltreibens mit Betäubungsmitteln in
 - [BGH, Beschluss vom 11.05.2004 - 1 StR 181/04](1-str-181-04.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 11.05.2004 - 1 StR 86/04](1-str-86-04.md) — Freiheitsberaubung u.a.
 - [BGH, Beschluss vom 05.05.2004 - 1 StR 135/04](1-str-135-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 05.05.2004 - 1 StR 149/04](1-str-149-04.md) — versuchten Mordes
+- [BGH, Beschluss vom 04.05.2004 - 1 StR 141/04](1-str-141-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 04.05.2004 - 1 StR 391/03](1-str-391-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 04.05.2004 - 1 StR 97/04](1-str-97-04.md) — versuchten schweren Raubes u.a.
+- [BGH, Beschluss vom 27.04.2004 - 1 StR 165/03](1-str-165-03.md) — Betrugs u.a.
+- [BGH, Beschluss vom 27.04.2004 - 1 StR 466/03](1-str-466-03.md) — Führens eines Kraftfahrzeuges unter der Wirkung von berauschenden Mitteln
 - [BGH, Urteil vom 21.04.2004 - 1 StR 522/03](1-str-522-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 20.04.2004 - 1 StR 123/04](1-str-123-04.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 20.04.2004 - 1 StR 14/04](1-str-14-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.04.2004 - 1 StR 52/04](1-str-52-04.md) — Totschlags u.a.
+- [BGH, Beschluss vom 02.04.2004 - 1 StR 126/04](1-str-126-04.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 01.04.2004 - 1 StR 101/04](1-str-101-04.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 31.03.2004 - 1 StR 2/04](1-str-2-04.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 31.03.2004 - 1 StR 482/03](1-str-482-03.md) — schweren Menschenhandels u.a.
 - [BGH, Beschluss vom 30.03.2004 - 1 StR 1/04](1-str-1-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 30.03.2004 - 1 StR 12/04](1-str-12-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 30.03.2004 - 1 StR 354/03](1-str-354-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 30.03.2004 - 1 StR 99/04](1-str-99-04.md) — Betrugs
+- [BGH, Beschluss vom 26.03.2004 - 1 StR 567/03](1-str-567-03.md) — Beihilfe zur Geldfälschung
 - [BGH, Beschluss vom 17.03.2004 - 1 StR 572/03](1-str-572-03.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Urteil vom 16.03.2004 - 1 StR 443/03](1-str-443-03.md) — Hehlerei
 - [BGH, Urteil vom 16.03.2004 - 1 StR 543/03](1-str-543-03.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 16.03.2004 - 1 StR 83/04](1-str-83-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 15.03.2004 - 1 StR 483/02](1-str-483-02.md) — Mordes hier: Antrag des Verteidigers auf Pauschvergütung
+- [BGH, Beschluss vom 03.03.2004 - 1 StR 58/04](1-str-58-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 03.03.2004 - 1 StR 71/04](1-str-71-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 02.03.2004 - 1 StR 574/03](1-str-574-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 18.02.2004 - 1 StR 296/03](1-str-296-03.md) — Verstoßes gegen das Außenwirtschaftsgesetz
+- [BGH, Beschluss vom 18.02.2004 - 1 StR 555/03](1-str-555-03.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 17.02.2004 - 1 StR 33/04](1-str-33-04.md) — unerlaubter Ausübung der tatsächlichen Gewalt über eine vollautomatische Selbstladewaffe u.a.
 - [BGH, Urteil vom 17.02.2004 - 1 StR 369/03](1-str-369-03.md) — räuberischer Erpressung
 - [BGH, Urteil vom 17.02.2004 - 1 StR 437/03](1-str-437-03.md) — Gründe:
+- [BGH, Beschluss vom 12.02.2004 - 1 StR 566/03](1-str-566-03.md) — Veröffentlichung StPO § 250, § 255a Der Augenschein durch Vorführen der zu Beweiszwecken erstellten Bild-TonAufzeichnung über die Erklärung eines Zeugen ist im Zusammenhang mit …
+- [BGH, Urteil vom 04.02.2004 - 1 StR 474/03](1-str-474-03.md) — schwerer räuberischer Erpressung
 - [BGH, Entscheidung vom 04.02.2004 - 1 StR 545/03](1-str-545-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 03.02.2004 - 1 StR 524/03](1-str-524-03.md) — Beihilfe zur unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.01.2004 - 1 StR 538/03](1-str-538-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.01.2004 - 1 StR 547/03](1-str-547-03.md) — BGH, Beschluss vom 22.01.2004 - 1 StR 547/03
 - [BGH, Beschluss vom 22.01.2004 - 1 StR 561/03](1-str-561-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 21.01.2004 - 1 StR 346/03](1-str-346-03.md) — Veröffentlichung StGB § 20, § 21 Zur Beurteilung des Schweregrads einer anderen seelischen Abartigkeit (hier „dissoziale und schizoide Persönlichkeitsstörung“) und der …
+- [BGH, Urteil vom 21.01.2004 - 1 StR 364/03](1-str-364-03.md) — sexueller Nötigung u.a.
+- [BGH, Urteil vom 21.01.2004 - 1 StR 379/03](1-str-379-03.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Urteil vom 20.01.2004 - 1 StR 319/03](1-str-319-03.md) — vorsätzlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 13.01.2004 - 1 StR 517/03](1-str-517-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.

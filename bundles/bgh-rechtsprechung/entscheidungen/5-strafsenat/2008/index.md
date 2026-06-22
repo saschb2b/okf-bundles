@@ -1,19 +1,34 @@
 # 5. Strafsenat – 2008
 
-126 Entscheidung(en).
+270 Entscheidung(en).
 
+- [BGH, Beschluss vom 12.12.2008 - 5 StR 570/08](5-str-570-08.md) — Betruges
+- [BGH, Beschluss vom 11.12.2008 - 5 StR 536/08](5-str-536-08.md) — Beihilfe zum Betrug u. a.
+- [BGH, Beschluss vom 10.12.2008 - 5 StR 542/08](5-str-542-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 10.12.2008 - 5 StR 545/08](5-str-545-08.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 10.12.2008 - 5 StR 551/08](5-str-551-08.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 09.12.2008 - 5 StR 412/08](5-str-412-08.md) — Vergewaltigung
+- [BGH, Beschluss vom 09.12.2008 - 5 StR 511/08](5-str-511-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 09.12.2008 - 5 StR 561/08](5-str-561-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 27.11.2008 - 5 StR 495/08](5-str-495-08.md) — zu 1 und 3 gefährlicher Körperverletzung
 - [BGH, Beschluss vom 27.11.2008 - 5 StR 496/08](5-str-496-08.md) — Betruges u. a.
 - [BGH, Beschluss vom 27.11.2008 - 5 StR 513/08](5-str-513-08.md) — besonders schweren Raubes
 - [BGH, Beschluss vom 27.11.2008 - 5 StR 514/08](5-str-514-08.md) — besonders schweren Raubes u. a.
 - [BGH, Beschluss vom 27.11.2008 - 5 StR 526/08](5-str-526-08.md) — Brandstiftung
+- [BGH, Urteil vom 27.11.2008 - 5 StR 96/08](5-str-96-08.md) — Betrugs u. a.
 - [BGH, Urteil vom 26.11.2008 - 5 StR 425/08](5-str-425-08.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 26.11.2008 - 5 StR 440/08](5-str-440-08.md) — Beihilfe zur Untreue
+- [BGH, Beschluss vom 26.11.2008 - 5 StR 450/08](5-str-450-08.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 26.11.2008 - 5 StR 506/08](5-str-506-08.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 26.11.2008 - 5 StR 556/08](5-str-556-08.md) — Betrugs
 - [BGH, Beschluss vom 25.11.2008 - 5 StR 491/08](5-str-491-08.md) — besonders schweren Raubes u. a.
 - [BGH, Beschluss vom 25.11.2008 - 5 StR 500/08](5-str-500-08.md) — Mordes
+- [BGH, Beschluss vom 13.11.2008 - 5 StR 344/08](5-str-344-08.md) — versuchten Betrugs u. a.
 - [BGH, Urteil vom 13.11.2008 - 5 StR 384/08](5-str-384-08.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 13.11.2008 - 5 StR 507/08](5-str-507-08.md) — Totschlags u. a.
 - [BGH, Beschluss vom 13.11.2008 - 5 StR 509/08](5-str-509-08.md) — vorsätzlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 11.11.2008 - 5 StR 486/08](5-str-486-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 11.11.2008 - 5 StR 489/08](5-str-489-08.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 30.10.2008 - 5 StR 345/08](5-str-345-08.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 30.10.2008 - 5 StR 426/08](5-str-426-08.md) — besonders schweren Raubes u. a.
 - [BGH, Urteil vom 29.10.2008 - 5 StR 382/08](5-str-382-08.md) — Totschlags
@@ -28,28 +43,59 @@
 - [BGH, Beschluss vom 28.10.2008 - 5 StR 488/08](5-str-488-08.md) — Betruges u. a.
 - [BGH, Beschluss vom 28.10.2008 - 5 StR 493/08](5-str-493-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 28.10.2008 - 5 StR 498/08](5-str-498-08.md) — Betrugs
+- [BGH, Urteil vom 16.10.2008 - 5 StR 206/08](5-str-206-08.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 16.10.2008 - 5 StR 348/08](5-str-348-08.md) — besonders schweren Raubes u. a.
 - [BGH, Beschluss vom 16.10.2008 - 5 StR 482/08](5-str-482-08.md) — Diebstahls u. a.
 - [BGH, Beschluss vom 15.10.2008 - 5 StR 383/08](5-str-383-08.md) — Betrugs
+- [BGH, Beschluss vom 15.10.2008 - 5 StR 473/08](5-str-473-08.md) — räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 15.10.2008 - 5 StR 487/08](5-str-487-08.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 14.10.2008 - 5 StR 447/08](5-str-447-08.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 02.10.2008 - 5 StR 400/08](5-str-400-08.md) — gewerbs- und bandenmäßigen Betrugs u. a.
 - [BGH, Beschluss vom 02.10.2008 - 5 StR 449/08](5-str-449-08.md) — Beihilfe zum Diebstahl
+- [BGH, Beschluss vom 01.10.2008 - 5 StR 432/08](5-str-432-08.md) — besonders schweren räuberischen Diebstahls u. a.
+- [BGH, Beschluss vom 01.10.2008 - 5 StR 433/08](5-str-433-08.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 01.10.2008 - 5 StR 439/08](5-str-439-08.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 01.10.2008 - 5 StR 445/08](5-str-445-08.md) — schweren räuberischen Diebstahls u. a.
 - [BGH, Urteil vom 30.09.2008 - 5 StR 215/08](5-str-215-08.md) — unerlaubten Handeltreibens mit Grundstoffen
 - [BGH, Urteil vom 30.09.2008 - 5 StR 227/08](5-str-227-08.md) — besonders schwerer Vergewaltigung
+- [BGH, Beschluss vom 30.09.2008 - 5 StR 251/08](5-str-251-08.md) — BGH, Beschluss vom 30.09.2008 - 5 StR 251/08
 - [BGH, Beschluss vom 30.09.2008 - 5 StR 305/08](5-str-305-08.md) — Mordes
 - [BGH, Urteil vom 18.09.2008 - 5 StR 224/08](5-str-224-08.md) — versuchten Mordes u. a.
+- [BGH, Urteil vom 17.09.2008 - 5 StR 189/08](5-str-189-08.md) — Totschlags
+- [BGH, Beschluss vom 17.09.2008 - 5 StR 276/08](5-str-276-08.md) — Vergewaltigung
+- [BGH, Beschluss vom 17.09.2008 - 5 StR 284/08](5-str-284-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 17.09.2008 - 5 StR 377/08](5-str-377-08.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 17.09.2008 - 5 StR 404/08](5-str-404-08.md) — Diebstahls u. a.
 - [BGH, Beschluss vom 17.09.2008 - 5 StR 411/08](5-str-411-08.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 17.09.2008 - 5 StR 423/08](5-str-423-08.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 17.09.2008 - 5 StR 435/08](5-str-435-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 16.09.2008 - 5 StR 378/08](5-str-378-08.md) — Raubes u. a.
+- [BGH, Beschluss vom 16.09.2008 - 5 StR 399/08](5-str-399-08.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 16.09.2008 - 5 StR 408/08](5-str-408-08.md) — besonders schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 05.09.2008 - 5 StR 332/08](5-str-332-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 05.09.2008 - 5 StR 358/08](5-str-358-08.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 04.09.2008 - 5 StR 101/08](5-str-101-08.md) — schwerer Vergewaltigung u. a.
+- [BGH, Urteil vom 04.09.2008 - 5 StR 233/08](5-str-233-08.md) — Verstoßes gegen das Kreditwesengesetz
+- [BGH, Beschluss vom 04.09.2008 - 5 StR 315/08](5-str-315-08.md) — Totschlags
+- [BGH, Beschluss vom 04.09.2008 - 5 StR 362/08](5-str-362-08.md) — Hehlerei u. a.
+- [BGH, Beschluss vom 04.09.2008 - 5 StR 363/08](5-str-363-08.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 04.09.2008 - 5 StR 381/08](5-str-381-08.md) — erpresserischen Menschenraubes u. a.
+- [BGH, Beschluss vom 03.09.2008 - 5 StR 113/08](5-str-113-08.md) — versuchter besonders schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 03.09.2008 - 5 StR 281/08](5-str-281-08.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 02.09.2008 - 5 StR 225/08](5-str-225-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 02.09.2008 - 5 StR 248/08](5-str-248-08.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 02.09.2008 - 5 StR 325/08](5-str-325-08.md) — versuchter gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 02.09.2008 - 5 StR 356/08](5-str-356-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 02.09.2008 - 5 StR 371/08](5-str-371-08.md) — sexuellen Missbrauchs von Jugendlichen
+- [BGH, Urteil vom 20.08.2008 - 5 StR 15/08](5-str-15-08.md) — Mordes u. a.
 - [BGH, Beschluss vom 20.08.2008 - 5 StR 313/08](5-str-313-08.md) — sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 20.08.2008 - 5 StR 334/08](5-str-334-08.md) — Brandstiftung
 - [BGH, Beschluss vom 20.08.2008 - 5 StR 336/08](5-str-336-08.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 20.08.2008 - 5 StR 350/08](5-str-350-08.md) — Diebstahls
 - [BGH, Beschluss vom 20.08.2008 - 5 StR 375/08](5-str-375-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 19.08.2008 - 5 StR 244/08](5-str-244-08.md) — Betrugs u. a.
+- [BGH, Beschluss vom 19.08.2008 - 5 StR 259/08](5-str-259-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 19.08.2008 - 5 StR 300/08](5-str-300-08.md) — schweren räuberischen Diebstahls u. a.
 - [BGH, Beschluss vom 19.08.2008 - 5 StR 357/08](5-str-357-08.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 05.08.2008 - 5 StR 136/08](5-str-136-08.md) — besonders schweren Raubes u. a.
 - [BGH, Beschluss vom 05.08.2008 - 5 StR 317/08](5-str-317-08.md) — Vergewaltigung
@@ -57,23 +103,64 @@
 - [BGH, Beschluss vom 05.08.2008 - 5 StR 331/08](5-str-331-08.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 31.07.2008 - 5 StR 109/07](5-str-109-07.md) — schweren Parteiverrats u. a.
 - [BGH, Beschluss vom 23.07.2008 - 5 StR 257/08](5-str-257-08.md) — Mordes
+- [BGH, Beschluss vom 23.07.2008 - 5 StR 283/08](5-str-283-08.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 23.07.2008 - 5 StR 285/08](5-str-285-08.md) — räuberischer Erpressung
 - [BGH, Beschluss vom 23.07.2008 - 5 StR 293/08](5-str-293-08.md) — Mordes u. a.
 - [BGH, Beschluss vom 23.07.2008 - 5 StR 295/08](5-str-295-08.md) — gewerbsmäßiger Hehlerei u. a.
+- [BGH, Urteil vom 23.07.2008 - 5 StR 46/08](5-str-46-08.md) — versuchten besonders schweren Raubes u. a.
+- [BGH, Urteil vom 22.07.2008 - 5 StR 274/08](5-str-274-08.md) — : nein Veröffentlichung : ja StGB § 66b Grenzen der nachträglichen Anordnung der Unterbringung in der Sicherungsverwahrung wegen mangelnder Therapiebereitschaft. BGH, Urteil vom …
 - [BGH, Urteil vom 22.07.2008 - 5 StR 61/08](5-str-61-08.md) — Betruges u. a.
+- [BGH, Urteil vom 11.07.2008 - 5 StR 156/08](5-str-156-08.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 11.07.2008 - 5 StR 202/08](5-str-202-08.md) — besonders schweren Raubes u. a.
 - [BGH, Urteil vom 11.07.2008 - 5 StR 74/08](5-str-74-08.md) — Totschlags
+- [BGH, Beschluss vom 10.07.2008 - 5 StR 209/08](5-str-209-08.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 10.07.2008 - 5 StR 243/08](5-str-243-08.md) — Totschlags
+- [BGH, Beschluss vom 10.07.2008 - 5 StR 253/08](5-str-253-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 10.07.2008 - 5 StR 265/08](5-str-265-08.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 10.07.2008 - 5 StR 287/08](5-str-287-08.md) — BGH, Beschluss vom 10.07.2008 - 5 StR 287/08
+- [BGH, Beschluss vom 10.07.2008 - 5 StR 288/08](5-str-288-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 25.06.2008 - 5 StR 217/08](5-str-217-08.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 25.06.2008 - 5 StR 219/08](5-str-219-08.md) — gewerbsmäßiger Bandenhehlerei u. a.
+- [BGH, Beschluss vom 25.06.2008 - 5 StR 273/08](5-str-273-08.md) — zu 1. schwerer räuberischer Erpressung u. a. zu 2. gefährlicher Körperverletzung
 - [BGH, Beschluss vom 25.06.2008 - 5 StR 280/08](5-str-280-08.md) — schweren räuberischen Diebstahls
+- [BGH, Beschluss vom 24.06.2008 - 5 StR 238/08](5-str-238-08.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 24.06.2008 - 5 StR 247/08](5-str-247-08.md) — Untreue u. a.
 - [BGH, Urteil vom 24.06.2008 - 5 StR 89/08](5-str-89-08.md) — Beihilfe zur Untreue u. a.
 - [BGH, Beschluss vom 23.06.2008 - 5 StR 14/08](5-str-14-08.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 23.06.2008 - 5 StR 282/08](5-str-282-08.md) — BGH, Beschluss vom 23.06.2008 - 5 StR 282/08
+- [BGH, Beschluss vom 12.06.2008 - 5 StR 114/08](5-str-114-08.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 12.06.2008 - 5 StR 185/08](5-str-185-08.md) — sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 11.06.2008 - 5 StR 145/08](5-str-145-08.md) — gewerbsmäßiger Steuerhehlerei u. a.
+- [BGH, Beschluss vom 11.06.2008 - 5 StR 192/08](5-str-192-08.md) — Mordes u. a.
+- [BGH, Beschluss vom 11.06.2008 - 5 StR 193/08](5-str-193-08.md) — sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 11.06.2008 - 5 StR 194/08](5-str-194-08.md) — gewerbsmäßiger Steuerhehlerei u. a.
+- [BGH, Urteil vom 11.06.2008 - 5 StR 612/07](5-str-612-07.md) — Totschlags
+- [BGH, Beschluss vom 10.06.2008 - 5 StR 109/08](5-str-109-08.md) — schweren sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 10.06.2008 - 5 StR 132/08](5-str-132-08.md) — sexueller Nötigung u. a.
+- [BGH, Beschluss vom 10.06.2008 - 5 StR 143/08](5-str-143-08.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 10.06.2008 - 5 StR 180/08](5-str-180-08.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 10.06.2008 - 5 StR 191/08](5-str-191-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 10.06.2008 - 5 StR 24/08](5-str-24-08.md) — banden- und gewerbsmäßigen Betruges u. a.
 - [BGH, Urteil vom 10.06.2008 - 5 StR 38/08](5-str-38-08.md) — : ja Veröffentlichung : ja StPO § 244 Abs. 6 Zum Erfordernis der Konnexität zwischen Beweisbehauptung und Beweismittel in einem Beweisantrag bei fortgeschrittener Beweisaufnahme …
+- [BGH, Beschluss vom 09.06.2008 - 5 StR 169/08](5-str-169-08.md) — sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 09.06.2008 - 5 StR 342/04](5-str-342-04.md) — : ja Veröffentlichung : ja SDÜ Art. 54 Strafklageverbrauch nach Art. 54 SDÜ bei einheitlicher „Schmuggelfahrt“ durch mehrere EU-Mitgliedstaaten. BGH, Beschluss vom 9. Juni 2008 – …
 - [BGH, Beschluss vom 09.06.2008 - 5 StR 98/08](5-str-98-08.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 21.05.2008 - 5 StR 124/08](5-str-124-08.md) — Betrugs u. a.
+- [BGH, Beschluss vom 21.05.2008 - 5 StR 149/08](5-str-149-08.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 21.05.2008 - 5 StR 197/08](5-str-197-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Urteil vom 21.05.2008 - 5 StR 201/08](5-str-201-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 21.05.2008 - 5 StR 85/08](5-str-85-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 21.05.2008 - 5 StR 93/08](5-str-93-08.md) — Subventionsbetrugs u. a.
+- [BGH, Beschluss vom 21.05.2008 - 5 StR 97/08](5-str-97-08.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 20.05.2008 - 5 StR 182/08](5-str-182-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 20.05.2008 - 5 StR 188/08](5-str-188-08.md) — BGH, Beschluss vom 20.05.2008 - 5 StR 188/08
 - [BGH, Beschluss vom 20.05.2008 - 5 StR 200/08](5-str-200-08.md) — Betruges u. a.
+- [BGH, Beschluss vom 20.05.2008 - 5 StR 212/08](5-str-212-08.md) — Beihilfe zur Urkundenfälschung
+- [BGH, Beschluss vom 20.05.2008 - 5 StR 57/08](5-str-57-08.md) — Bestechlichkeit
 - [BGH, Beschluss vom 07.05.2008 - 5 StR 118/08](5-str-118-08.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 07.05.2008 - 5 StR 167/08](5-str-167-08.md) — besonders schwerer sexueller Nötigung u. a.
+- [BGH, Beschluss vom 07.05.2008 - 5 StR 634/07](5-str-634-07.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 06.05.2008 - 5 StR 13/08](5-str-13-08.md) — Beihilfe zum Wohnungseinbruchdiebstahl u. a.
 - [BGH, Beschluss vom 06.05.2008 - 5 StR 159/08](5-str-159-08.md) — besonders schweren räuberischen Diebstahls u. a.
 - [BGH, Beschluss vom 06.05.2008 - 5 StR 163/08](5-str-163-08.md) — Totschlags
 - [BGH, Urteil vom 06.05.2008 - 5 StR 34/08](5-str-34-08.md) — Untreue u. a.
@@ -82,20 +169,46 @@
 - [BGH, Beschluss vom 17.04.2008 - 5 StR 155/08](5-str-155-08.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 17.04.2008 - 5 StR 547/07](5-str-547-07.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 17.04.2008 - 5 StR 70/08](5-str-70-08.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 16.04.2008 - 5 StR 100/08](5-str-100-08.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 16.04.2008 - 5 StR 589/07](5-str-589-07.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Urteil vom 16.04.2008 - 5 StR 6/08](5-str-6-08.md) — Vergewaltigung
+- [BGH, Beschluss vom 16.04.2008 - 5 StR 615/07](5-str-615-07.md) — Betrugs
+- [BGH, Beschluss vom 16.04.2008 - 5 StR 616/07](5-str-616-07.md) — Betrugs u. a.
+- [BGH, Beschluss vom 16.04.2008 - 5 StR 86/08](5-str-86-08.md) — Beihilfe zur unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 15.04.2008 - 5 StR 103/08](5-str-103-08.md) — Vergewaltigung
+- [BGH, Beschluss vom 15.04.2008 - 5 StR 32/08](5-str-32-08.md) — sexuellen Missbrauchs eines Kindes
 - [BGH, Beschluss vom 15.04.2008 - 5 StR 431/07](5-str-431-07.md) — : ja Veröffentlichung : ja StGB § 66b Zur Anwendbarkeit der Vorschrift des § 66b Abs. 1 Satz 2 StGB. BGH, Beschluss vom 15. April 2008 – 5 StR 431/07 LG Frankfurt (Oder) – 5 StR …
 - [BGH, Urteil vom 15.04.2008 - 5 StR 44/08](5-str-44-08.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 15.04.2008 - 5 StR 635/07](5-str-635-07.md) — : ja Veröffentlichung : ja StGB § 66b Nachträgliche Sicherungsverwahrung kann auch nach rechtskräftiger Nichteröffnung eines Hauptverfahrens, bei dessen Durchführung …
+- [BGH, Beschluss vom 15.04.2008 - 5 StR 68/08](5-str-68-08.md) — gewerbs- und bandenmäßigen Betrugs u. a.
 - [BGH, Beschluss vom 14.04.2008 - 5 StR 157/08](5-str-157-08.md) — BGH, Beschluss vom 14.04.2008 - 5 StR 157/08
+- [BGH, Beschluss vom 14.04.2008 - 5 StR 19/08](5-str-19-08.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 14.04.2008 - 5 StR 218/07](5-str-218-07.md) — Fälschung von Zahlungskarten mit Garantiefunktion u. a.
+- [BGH, Beschluss vom 14.04.2008 - 5 StR 598/07](5-str-598-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 03.04.2008 - 5 StR 525/07](5-str-525-07.md) — Mordes u. a.
+- [BGH, Beschluss vom 03.04.2008 - 5 StR 76/08](5-str-76-08.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 02.04.2008 - 5 StR 115/08](5-str-115-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 02.04.2008 - 5 StR 129/07](5-str-129-07.md) — versuchten Betruges
+- [BGH, Urteil vom 02.04.2008 - 5 StR 29/08](5-str-29-08.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 02.04.2008 - 5 StR 354/07](5-str-354-07.md) — : nein Veröffentlichung : ja StGB § 266 Abs. 1 Vermögensbetreuungspflicht des Vermieters für Kautionen bei Wohnraum- und Gewerberaummiete (im Anschluss an BGHSt 41, 224). BGH …
+- [BGH, Beschluss vom 02.04.2008 - 5 StR 42/08](5-str-42-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 02.04.2008 - 5 StR 529/07](5-str-529-07.md) — sexuellen Missbrauchs eines Kindes
 - [BGH, Beschluss vom 02.04.2008 - 5 StR 566/07](5-str-566-07.md) — gewerbsmäßiger Abgabe von Betäubungsmitteln an Minderjährige u. a.
+- [BGH, Beschluss vom 02.04.2008 - 5 StR 62/08](5-str-62-08.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 02.04.2008 - 5 StR 622/07](5-str-622-07.md) — Betrugs u. a.
+- [BGH, Urteil vom 02.04.2008 - 5 StR 633/07](5-str-633-07.md) — schwerer Vergewaltigung
+- [BGH, Beschluss vom 02.04.2008 - 5 StR 71/08](5-str-71-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 01.04.2008 - 5 StR 117/08](5-str-117-08.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 01.04.2008 - 5 StR 140/08](5-str-140-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 01.04.2008 - 5 StR 357/07](5-str-357-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 01.04.2008 - 5 StR 80/08](5-str-80-08.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 01.04.2008 - 5 StR 90/08](5-str-90-08.md) — Betrugs
+- [BGH, Beschluss vom 31.03.2008 - 5 StR 631/07](5-str-631-07.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 06.03.2008 - 5 StR 192/07](5-str-192-07.md) — Totschlags
 - [BGH, Beschluss vom 06.03.2008 - 5 StR 2/08](5-str-2-08.md) — unerlaubten Führens einer halbautomatischen Kurzwaffe u. a.
 - [BGH, Beschluss vom 06.03.2008 - 5 StR 434/07](5-str-434-07.md) — Vorenthaltens der Arbeitnehmerbeiträge zu den Sozialversicherungen u. a.
 - [BGH, Beschluss vom 06.03.2008 - 5 StR 617/07](5-str-617-07.md) — Vergewaltigung
+- [BGH, Beschluss vom 05.03.2008 - 5 StR 36/08](5-str-36-08.md) — Betrugs u. a.
 - [BGH, Beschluss vom 05.03.2008 - 5 StR 424/07](5-str-424-07.md) — Brandstiftung ein. Im Jahr 1996 befand sie sich für mehrere Monate in
 - [BGH, Beschluss vom 05.03.2008 - 5 StR 5/08](5-str-5-08.md) — versuchter gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 05.03.2008 - 5 StR 611/07](5-str-611-07.md) — schweren sexuellen Missbrauchs von Kindern
@@ -103,7 +216,10 @@
 - [BGH, Beschluss vom 04.03.2008 - 5 StR 17/08](5-str-17-08.md) — besonders schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 04.03.2008 - 5 StR 26/08](5-str-26-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 04.03.2008 - 5 StR 33/08](5-str-33-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 04.03.2008 - 5 StR 35/08](5-str-35-08.md) — Beihilfe zum erpresserischen Menschenraub u. a.
 - [BGH, Beschluss vom 04.03.2008 - 5 StR 594/07](5-str-594-07.md) — Beihilfe zur Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 03.03.2008 - 5 StR 52/08](5-str-52-08.md) — versuchten Totschlags u. a.
+- [BGH, Entscheidung vom 03.03.2008 - 5 StR 9/08](5-str-9-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Urteil vom 21.02.2008 - 5 StR 511/07](5-str-511-07.md) — Totschlags
 - [BGH, Beschluss vom 21.02.2008 - 5 StR 632/07](5-str-632-07.md) — besonders schweren Raubes
 - [BGH, Beschluss vom 20.02.2008 - 5 StR 460/07](5-str-460-07.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
@@ -113,17 +229,45 @@
 - [BGH, Beschluss vom 19.02.2008 - 5 StR 4/08](5-str-4-08.md) — BGH, Beschluss vom 19.02.2008 - 5 StR 4/08
 - [BGH, Urteil vom 19.02.2008 - 5 StR 512/07](5-str-512-07.md) — gefährlicher Körperverletzung
 - [BGH, Urteil vom 19.02.2008 - 5 StR 599/07](5-str-599-07.md) — Das Landgericht hat den Antrag der Staatsanwaltschaft, die Unterbrin- gung des Beschuldigten in einem psychiatrischen Krankenhaus oder in einer Entziehungsanstalt anzuordnen …
+- [BGH, Beschluss vom 08.02.2008 - 5 StR 581/07](5-str-581-07.md) — Betrugs u. a.
+- [BGH, Urteil vom 07.02.2008 - 5 StR 242/07](5-str-242-07.md) — : nein Veröffentlichung : ja StGB § 27 Zur Strafbarkeit von Beihilfehandlungen nach Sicherstellung der Betäubungsmittel. BGH, Urteil vom 7. Februar 2008 – 5 StR 242/07 LG Berlin – …
+- [BGH, Beschluss vom 07.02.2008 - 5 StR 402/07](5-str-402-07.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 07.02.2008 - 5 StR 453/07](5-str-453-07.md) — Mordes u. a.
 - [BGH, Beschluss vom 07.02.2008 - 5 StR 583/07](5-str-583-07.md) — Misshandlung eines Schutzbefohlenen u. a.
+- [BGH, Beschluss vom 07.02.2008 - 5 StR 609/07](5-str-609-07.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 07.02.2008 - 5 StR 625/07](5-str-625-07.md) — versuchter schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 06.02.2008 - 5 StR 442/07](5-str-442-07.md) — unerlaubten Handeltreibens mit Grundstoffen u. a.
+- [BGH, Beschluss vom 06.02.2008 - 5 StR 590/07](5-str-590-07.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 06.02.2008 - 5 StR 597/07](5-str-597-07.md) — schweren Raubes u. a.
 - [BGH, Urteil vom 06.02.2008 - 5 StR 610/07](5-str-610-07.md) — sexuellen Missbrauchs eines Kindes
 - [BGH, Beschluss vom 24.01.2008 - 5 StR 585/07](5-str-585-07.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 24.01.2008 - 5 StR 619/07](5-str-619-07.md) — Beihilfe zum gewerbsmäßigen Einschleusen von Ausländern
+- [BGH, Beschluss vom 24.01.2008 - 5 StR 621/07](5-str-621-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 24.01.2008 - 5 StR 626/07](5-str-626-07.md) — Betruges u. a.
 - [BGH, Beschluss vom 23.01.2008 - 5 StR 553/07](5-str-553-07.md) — Vergewaltigung u. a.
+- [BGH, Entscheidung vom 23.01.2008 - 5 StR 606/07](5-str-606-07.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 23.01.2008 - 5 StR 608/07](5-str-608-07.md) — Betrugs u. a.
+- [BGH, Beschluss vom 22.01.2008 - 5 StR 200/07](5-str-200-07.md) — vorsätzlicher Körperverletzung
 - [BGH, Beschluss vom 22.01.2008 - 5 StR 253/07](5-str-253-07.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.01.2008 - 5 StR 470/07](5-str-470-07.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 22.01.2008 - 5 StR 506/07](5-str-506-07.md) — Urkundenfälschung
+- [BGH, Beschluss vom 22.01.2008 - 5 StR 538/07](5-str-538-07.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 22.01.2008 - 5 StR 624/07](5-str-624-07.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 10.01.2008 - 5 StR 332/07](5-str-332-07.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 10.01.2008 - 5 StR 365/07](5-str-365-07.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 10.01.2008 - 5 StR 435/07](5-str-435-07.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 10.01.2008 - 5 StR 524/07](5-str-524-07.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 10.01.2008 - 5 StR 602/07](5-str-602-07.md) — BGH, Beschluss vom 10.01.2008 - 5 StR 602/07
 - [BGH, Urteil vom 09.01.2008 - 5 StR 387/07](5-str-387-07.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 09.01.2008 - 5 StR 416/07](5-str-416-07.md) — Betrugs
 - [BGH, Beschluss vom 09.01.2008 - 5 StR 430/07](5-str-430-07.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 09.01.2008 - 5 StR 508/07](5-str-508-07.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 09.01.2008 - 5 StR 520/07](5-str-520-07.md) — Vergewaltigung
+- [BGH, Beschluss vom 09.01.2008 - 5 StR 549/07](5-str-549-07.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 09.01.2008 - 5 StR 554/07](5-str-554-07.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 09.01.2008 - 5 StR 572/07](5-str-572-07.md) — banden- und gewerbsmäßigen Betrugs u. a.
+- [BGH, Beschluss vom 08.01.2008 - 5 StR 556/07](5-str-556-07.md) — Körperverletzung mit Todesfolge u. a.
+- [BGH, Beschluss vom 08.01.2008 - 5 StR 582/07](5-str-582-07.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 07.01.2008 - 5 StR 390/07](5-str-390-07.md) — besonders schweren Raubes
 - [BGH, Beschluss vom 07.01.2008 - 5 StR 417/07](5-str-417-07.md) — Totschlags
 - [BGH, Beschluss vom 07.01.2008 - 5 StR 425/07](5-str-425-07.md) — schweren Raubes

@@ -1,36 +1,98 @@
 # X. Zivilsenat – 2006
 
-32 Entscheidung(en).
+94 Entscheidung(en).
 
+- [BGH, Urteil vom 12.12.2006 - X ZR 131/02](x-zr-131-02.md) — in eine nähere Prüfung darüber einzutreten, ob in einem insgesamt nicht schutzfähigen Patentanspruch eine Lehre enthalten ist, mit der das P
+- [BGH, Beschluss vom 12.12.2006 - X ZR 56/04](x-zr-56-04.md) — 1. Der mit Senatsbeschluss vom 5. Oktober 2004 bestellte Sachverstän- dige hat, nachdem im Insolvenzverfahren über das Vermögen der Klägerin das Verfahren unterbrochen wurde (§ …
 - [BGH, Urteil vom 05.12.2006 - X ZR 165/03](x-zr-165-03.md) — BGH, Urteil vom 05.12.2006 - X ZR 165/03
+- [BGH, Urteil vom 05.12.2006 - X ZR 76/05](x-zr-76-05.md) — Tatbestand:
+- [BGH, Beschluss vom 23.11.2006 - X ZB 5/06](x-zb-5-06.md) — I. Der Kläger nimmt die Beklagte auf Schadensersatz in Anspruch, weil diese ihn anlässlich der Buchung einer Reise nach Vietnam nicht ausreichend -3- über den möglichen Abschluss …
 - [BGH, Urteil vom 23.11.2006 - X ZR 16/05](x-zr-16-05.md) — Tatbestand:
+- [BGH, Beschluss vom 23.11.2006 - X ZR 93/05](x-zr-93-05.md) — Die Rechtssache hat weder grundsätzliche Bedeutung noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des …
 - [BGH, Urteil vom 14.11.2006 - X ZR 34/05](x-zr-34-05.md) — Tatbestand:
-- [BGH, Beschluss vom 07.11.2006 - X ZR 65/03](x-zr-65-03.md) — BGH, Beschluss vom 07.11.2006 - X ZR 65/03
+- [BGH, Beschluss vom 07.11.2006 - X ZR 138/04](x-zr-138-04.md) — I. Der gerichtliche Sachverständige hat sein am 19. August 2005 in Auf- trag gegebenes schriftliches Gutachten pauschal mit 22.040,-- EUR einschließ- lich Umsatzsteuer …
+- [BGH, Urteil vom 07.11.2006 - X ZR 149/04](x-zr-149-04.md) — die Aussetzung des Verfahrens angeordnet, so kann trotz der Gefahr einander widersprechender Entscheidungen ein Teilurteil ergehen, wenn des
+- [BGH, Urteil vom 07.11.2006 - X ZR 18/05](x-zr-18-05.md) — Tatbestand:
+- [BGH, Urteil vom 07.11.2006 - X ZR 184/04](x-zr-184-04.md) — Notbedarfs setzt nur voraus, dass die Schenkung überhaupt vollzogen ist und dass der Schenker nach Abschluss des Schenkungsvertrags außersta
+- [BGH, Urteil vom 07.11.2006 - X ZR 213/02](x-zr-213-02.md) — Tatbestand:
+- [BGH, Beschluss vom 07.11.2006 - X ZR 69/02](x-zr-69-02.md) — I. Die Beklagte war Inhaberin des unter anderem mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 0 145 677 (Streit- patents), das am 20. November 1984 …
+- [BGH, Beschluss vom 24.10.2006 - X ZB 11/06](x-zb-11-06.md) — Die Rechtsbeschwerde ist gemäß §§ 574 Abs.
+- [BGH, Urteil vom 24.10.2006 - X ZR 124/03](x-zr-124-03.md) — des Verlustes von 221,918 t Stahl.
 - [BGH, Urteil vom 17.10.2006 - X ZR 59/04](x-zr-59-04.md) — Tatbestand:
+- [BGH, Beschluss vom 10.10.2006 - X ZB 6/06](x-zb-6-06.md) — I. Die Klägerin meint, das Amtsgericht Hagen habe mit Kostenfestset- zungsbeschluss vom 10. Februar 2006 die ihr aufgrund eines Urteils vom 28. Dezember 2005 zustehende Pauschale …
 - [BGH, Beschluss vom 10.10.2006 - X ZR 101/04](x-zr-101-04.md) — eines Motorschadens. Aufforderungen zur Mängelbeseitigung kam die Beklagte nicht nach; deshalb wurde ein Beweissicherungsverfahren durchgefü
 - [BGH, Beschluss vom 10.10.2006 - X ZR 133/05](x-zr-133-05.md) — Dem Antrag des Antragstellers auf Gewährung von Akteneinsicht in das vorliegende Patentnichtigkeitsverfahren ist mit der ausgesprochenen Ein- schränkung zu entsprechen.
+- [BGH, Beschluss vom 10.10.2006 - X ZR 191/04](x-zr-191-04.md) — Aufwendungen für die chemische Untersuchung des
+- [BGH, Urteil vom 10.10.2006 - X ZR 42/06](x-zr-42-06.md) — Tatbestand:
+- [BGH, Beschluss vom 26.09.2006 - X ZB 14/06](x-zb-14-06.md) — Unvollständigkeit nicht wertet, muss er jedenfalls auch diejenigen Angebote anderer Bieter ausschließen, die gleichfalls an dem beanstandete
+- [BGH, Beschluss vom 19.09.2006 - X ZB 31/05](x-zb-31-05.md) — I. Der Kläger verlangt von der Beklagten die teilweise Erstattung eines bezahlten Reisepreises, hilfsweise die Erteilung eines Reisegutscheins. 2 In der Klageschrift hat der …
+- [BGH, Beschluss vom 19.09.2006 - X ZR 178/04](x-zr-178-04.md) — Nichterfül-
 - [BGH, Urteil vom 19.09.2006 - X ZR 24/04](x-zr-24-04.md) — Tatbestand:
 - [BGH, Beschluss vom 19.09.2006 - X ZR 49/05](x-zr-49-05.md) — Die Parteien streiten nur noch über die Kosten des in der Hauptsache für erledigt erklärten Rechtsstreits.
+- [BGH, Urteil vom 12.09.2006 - X ZR 49/02](x-zr-49-02.md) — Tatbestand:
+- [BGH, Beschluss vom 12.09.2006 - X ZR 91/03](x-zr-91-03.md) — BGH, Beschluss vom 12.09.2006 - X ZR 91/03
+- [BGH, Beschluss vom 01.08.2006 - X ZR 109/01](x-zr-109-01.md) — I. Der gerichtliche Sachverständige Prof. Dr. H. ist in dem Nich- tigkeitsverfahren X ZR 109/01 durch Senatsbeschluss vom 11. Juni 2002 zum gerichtlichen Sachverständigen bestellt …
 - [BGH, Urteil vom 01.08.2006 - X ZR 114/03](x-zr-114-03.md) — Tatbestand:
+- [BGH, Urteil vom 01.08.2006 - X ZR 115/04](x-zr-115-04.md) — Tatbestand:
+- [BGH, Urteil vom 01.08.2006 - X ZR 146/03](x-zr-146-03.md) — dieses Fehlers der Ausschreibung ein Anspruch aus culpa in contrahendo auf Ersatz des Vertrauensschadens nicht zu.
 - [BGH, Urteil vom 25.07.2006 - X ZR 182/05](x-zr-182-05.md) — Tatbestand:
+- [BGH, Urteil vom 18.07.2006 - X ZR 142/05](x-zr-142-05.md) — des Unfalltodes des dritten Sohns
 - [BGH, Urteil vom 18.07.2006 - X ZR 44/04](x-zr-44-04.md) — Tatbestand:
 - [BGH, Beschluss vom 12.07.2006 - X ZB 33/05](x-zb-33-05.md) — I. Die Rechtsbeschwerdeführerin ist Inhaberin der am 22. Januar 2002 eingereichten deutschen Patentanmeldung 102 02 432. Die Prüfungsstelle hat die Anmeldung zurückgewiesen, da …
 - [BGH, Beschluss vom 12.07.2006 - X ZR 152/05](x-zr-152-05.md) — BGH, Beschluss vom 12.07.2006 - X ZR 152/05
 - [BGH, Urteil vom 12.07.2006 - X ZR 157/05](x-zr-157-05.md) — 3Tatbestand:
 - [BGH, Urteil vom 12.07.2006 - X ZR 160/02](x-zr-160-02.md) — Tatbestand:
+- [BGH, Beschluss vom 12.07.2006 - X ZR 22/05](x-zr-22-05.md) — 1. Die Kläger machen Ansprüche aus einem Luftbeförderungsvertrag (Charterflug) geltend. Der Kläger zu 1 buchte bei der Beklagten für sich und seine Familie, die Kläger zu 2-5 …
+- [BGH, Urteil vom 04.07.2006 - X ZR 74/03](x-zr-74-03.md) — Tatbestand:
+- [BGH, Beschluss vom 21.06.2006 - X ZB 8/06](x-zb-8-06.md) — BGH, Beschluss vom 21.06.2006 - X ZB 8/06
+- [BGH, Beschluss vom 20.06.2006 - X ZB 27/05](x-zb-27-05.md) — I. Die Rechtsbeschwerdeführerin war Inhaberin des am 9. Februar 1995 angemeldeten deutschen Gebrauchsmusters 295 02 084 (Streitgebrauchsmus- ters), das einen …
+- [BGH, Urteil vom 20.06.2006 - X ZR 185/02](x-zr-185-02.md) — Tatbestand:
 - [BGH, Urteil vom 20.06.2006 - X ZR 59/05](x-zr-59-05.md) — Tatbestand:
+- [BGH, Beschluss vom 13.06.2006 - X ZB 19/05](x-zb-19-05.md) — I. Die Rechtsbeschwerdeführerin hat gegen das Patent 102 01 287 (Streitpatent), das einen Bodenablauf betrifft, Einspruch erhoben. Sie hat die Auffassung vertreten, der Gegenstand …
 - [BGH, Entscheidung vom 13.06.2006 - X ZR 153/03](x-zr-153-03.md) — Nachschlagewerk: ja
+- [BGH, Urteil vom 13.06.2006 - X ZR 167/04](x-zr-167-04.md) — einer bis zur Kündigung erbrachten mangelhaften Teilleistung grundsätzlich unberührt.
+- [BGH, Urteil vom 07.06.2006 - X ZR 105/04](x-zr-105-04.md) — 3Tatbestand:
+- [BGH, Beschluss vom 06.06.2006 - X ZR 73/03](x-zr-73-03.md) — Der Senat hat den Streitwert auf der Grundlage der übereinstimmenden Angaben der Parteien in erster Instanz und unter Berücksichtigung des Vortrags der Klägerin im Schriftsatz vom …
+- [BGH, Beschluss vom 23.05.2006 - X ZR 240/02](x-zr-240-02.md) — Erklärung der Nichtig-
+- [BGH, Beschluss vom 16.05.2006 - X ZR 11/02](x-zr-11-02.md) — I. Für den Beklagten wurde am 14. Januar 2002, vertreten durch Rechts- anwältin Dr. A. , Revision gegen das Urteil des Oberlandesgerichts Karlsruhe vom 11. Dezember 2001 eingelegt …
+- [BGH, Beschluss vom 16.05.2006 - X ZR 12/02](x-zr-12-02.md) — I. Für den Kläger wurde am 14. Januar 2002, vertreten durch Rechtsan- wältin Dr. A. , Revision gegen das Urteil des Oberlandesgerichts Karls- ruhe vom 11. Dezember 2001 eingelegt …
+- [BGH, Beschluss vom 16.05.2006 - X ZR 122/05](x-zr-122-05.md) — Bei der Niederschrift des Tenors des Senatsurteils sind die Worte "soweit zu seinem Nachteil erkannt worden ist" und "im Umfang der Aufhebung" durch -3- ein offenbares …
+- [BGH, Urteil vom 16.05.2006 - X ZR 169/04](x-zr-169-04.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2006 - X ZR 24/03](x-zr-24-03.md) — hinnimmt, kann das Vorliegen erfinderischer Tätigkeit allein nicht begründet werden.
 - [BGH, Urteil vom 03.05.2006 - X ZR 45/05](x-zr-45-05.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2006 - X ZR 84/03](x-zr-84-03.md) — Tatbestand:
+- [BGH, Urteil vom 25.04.2006 - X ZR 16/03](x-zr-16-03.md) — Tatbestand:
+- [BGH, Urteil vom 25.04.2006 - X ZR 198/04](x-zr-198-04.md) — Tatbestand:
 - [BGH, Urteil vom 11.04.2006 - X ZR 139/03](x-zr-139-03.md) — BGH, Urteil vom 11.04.2006 - X ZR 139/03
-- [BGH, Urteil vom 11.04.2006 - X ZR 175/01](x-zr-175-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.04.2006 - X ZR 275/02](x-zr-275-02.md) — Tatbestand:
 - [BGH, Urteil vom 04.04.2006 - X ZR 155/03](x-zr-155-03.md) — Verletzung des Arbeitsvertrags (positive Vertragsverletzung) in Betracht, wenn der Arbeitgeber den Arbeitnehmererfinder nicht rechtzeitig da
+- [BGH, Beschluss vom 04.04.2006 - X ZR 80/05](x-zr-80-05.md) — Berichtigt durch Beschluss vom 16. Mai 2006 Wermes Justizhauptsekretär als Urkundsbeamter der Geschäftsstelle
+- [BGH, Beschluss vom 28.03.2006 - X ZB 1/05](x-zb-1-05.md) — I. Der Antragsgegner ist Inhaber des deutschen Gebrauchsmusters 297 18 951, das ein "Werkzeug zum Aneinanderfügen von Profilbrettern" be- trifft. Die Antragstellerin hat die …
+- [BGH, Urteil vom 28.03.2006 - X ZR 127/02](x-zr-127-02.md) — Tatbestand:
+- [BGH, Beschluss vom 28.03.2006 - X ZR 164/05](x-zr-164-05.md) — Die Voraussetzungen für eine Aussetzung des Verfahrens sind nicht dargelegt.
 - [BGH, Urteil vom 28.03.2006 - X ZR 85/04](x-zr-85-04.md) — Tatbestand:
 - [BGH, Beschluss vom 14.03.2006 - X ZB 28/04](x-zb-28-04.md) — unzulässiger Erweiterung und
 - [BGH, Beschluss vom 14.03.2006 - X ZB 5/04](x-zb-5-04.md) — BGH, Beschluss vom 14.03.2006 - X ZB 5/04
-- [BGH, Beschluss vom 14.02.2006 - X ZB 15/05](x-zb-15-05.md) — eines offensichtlichen Rechnungsfehlers (§ 319 Abs. 1 ZPO) dahingehend berichtigt, dass in II. des Tenors die Angabe des Geschäftswertes 425
+- [BGH, Urteil vom 14.03.2006 - X ZR 46/04](x-zr-46-04.md) — 3-
+- [BGH, Beschluss vom 07.03.2006 - X ZA 6/05](x-za-6-05.md) — BGH, Beschluss vom 07.03.2006 - X ZA 6/05
+- [BGH, Urteil vom 07.03.2006 - X ZR 213/01](x-zr-213-01.md) — Tatbestand:
+- [BGH, Beschluss vom 07.03.2006 - X ZR 64/05](x-zr-64-05.md) — Nach § 99 Abs. 3 PatG ist der Antragstellerin die begehrte Akteneinsicht zu gewähren, soweit nicht die Klägerin ein entgegenstehendes schutzwürdiges Interesse dargetan hat …
+- [BGH, Beschluss vom 21.02.2006 - X ZR 103/04](x-zr-103-04.md) — Besorgnis der Befangenheit abzulehnen, wird für begründet erklärt.
+- [BGH, Beschluss vom 21.02.2006 - X ZR 171/01](x-zr-171-01.md) — Mit der rechtzeitig erhobenen Anhörungsrüge nach § 321 a ZPO macht die Klägerin geltend, das Senatsurteil vom 6.
+- [BGH, Urteil vom 21.02.2006 - X ZR 21/02](x-zr-21-02.md) — Tatbestand:
+- [BGH, Urteil vom 21.02.2006 - X ZR 39/03](x-zr-39-03.md) — Tatbestand:
+- [BGH, Beschluss vom 14.02.2006 - X ZB 37/05](x-zb-37-05.md) — Die sofortige Beschwerde ist unzulässig. Gegen Entscheidungen der Oberlandesgerichte, mit denen gemäß § 37 ZPO das zuständige Gericht be- stimmt wird, ist kein Rechtsmittel …
+- [BGH, Urteil vom 14.02.2006 - X ZR 149/03](x-zr-149-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.02.2006 - X ZR 185/03](x-zr-185-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.02.2006 - X ZR 70/04](x-zr-70-04.md) — Tatbestand:
+- [BGH, Urteil vom 14.02.2006 - X ZR 93/04](x-zr-93-04.md) — Sortenschutzverletzung in Anspruch genommene Partei eine Handlung begangen hat, die vorzunehmen dem Inhaber des Rechts an der jeweiligen Kla
+- [BGH, Beschluss vom 07.02.2006 - X ZA 5/05](x-za-5-05.md) — Die beabsichtigten Rechtsmittel haben keine hinreichende Aussicht auf Erfolg (§ 114 ZPO), weil kein Grund für die Zulassung der Revision gegeben ist (§ 543 Abs.
 - [BGH, Beschluss vom 07.02.2006 - X ZB 34/05](x-zb-34-05.md) — Gegen Entscheidungen der Oberlandesgerichte über die Entschädigung des gerichtlichen Sachverständigen ist keine Beschwerde zulässig (§ 16 Abs.
+- [BGH, Beschluss vom 07.02.2006 - X ZR 148/02](x-zr-148-02.md) — Berichtigt durch Beschluss vom 6. März 2006 Wermes Justizhauptsekretär als Urkundsbeamter der Geschäftsstelle
+- [BGH, Beschluss vom 07.02.2006 - X ZR 17/03](x-zr-17-03.md) — offenbarer Unrichtigkeit gemäß § 319 ZPO dahin berichtigt, dass es in Abs.-Nr. 1 Zeile 7 und vorletzte/letzte Zeile anstelle von:
 - [BGH, Beschluss vom 06.02.2006 - X ZR 148/03](x-zr-148-03.md) — Besorgnis der Befangenheit abzulehnen, wird zurückgewiesen.
 - [BGH, Beschluss vom 24.01.2006 - X ZA 4/05](x-za-4-05.md) — BGH, Beschluss vom 24.01.2006 - X ZA 4/05
 - [BGH, Beschluss vom 19.01.2006 - X ZR 26/03](x-zr-26-03.md) — In seinem Urteil vom 5. Oktober 2005 hat der Senat ausgeführt, die Fest- stellung des Berufungsgerichts, die der Streitpatentanmeldung zugrunde lie- gende Erfindung sei während …
 - [BGH, Beschluss vom 17.01.2006 - X ZR 236/01](x-zr-236-01.md) — 1. Die Beklagte ist eingetragene Inhaberin des mit Wirkung für die Bun- desrepublik Deutschland erteilten europäischen Patents 0 808 162 (Streitpa- tent). Das Streitpatent …
+- [BGH, Beschluss vom 10.01.2006 - X ZR 109/05](x-zr-109-05.md) — I. Auf Antrag des klagenden Sozialhilfeträgers, welcher der Mutter der Beklagten, nachdem sie ihr Hausgrundstück der Beklagten geschenkt hatte, Sozialhilfe geleistet hat, hat das …
 - [BGH, Urteil vom 10.01.2006 - X ZR 58/03](x-zr-58-03.md) — 3Tatbestand:

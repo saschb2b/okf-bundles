@@ -1,52 +1,121 @@
 # Senat für Anwaltssachen – 2008
 
-48 Entscheidung(en).
+117 Entscheidung(en).
 
+- [BGH, Beschluss vom 22.12.2008 - AnwZ (B) 108/08](anwz-b-108-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 22.12.2008 - AnwZ (B) 98/08](anwz-b-98-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.12.2008 - AnwZ (B) 91/08](anwz-b-91-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 10.12.2008 - AnwZ (B) 75/07](anwz-b-75-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 08.12.2008 - AnwZ (B) 2/06](anwz-b-2-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 08.12.2008 - AnwZ (B) 28/08](anwz-b-28-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 08.12.2008 - AnwZ (B) 37/08](anwz-b-37-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.12.2008 - AnwZ (B) 22/06](anwz-b-22-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.12.2008 - AnwZ (B) 88/08](anwz-b-88-08.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Urteil vom 03.11.2008 - AnwSt (R) 10/08](anwst-r-10-08.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 1/08](anwz-b-1-08.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 10/08](anwz-b-10-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 2/08](anwz-b-2-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 3/08](anwz-b-3-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 5/08](anwz-b-5-08.md) — Berufsunfähigkeit nach § 14 Abs. 2 Nr. 3 BRAO; der Antragsteller beantragte auch insoweit gerichtliche Entscheidung (BayAGH I - 28/02). In b
 - [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 57/07](anwz-b-57-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 64/07](anwz-b-64-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 66/08](anwz-b-66-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 80/07](anwz-b-80-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 84/07](anwz-b-84-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 90/07](anwz-b-90-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 91/07](anwz-b-91-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 97/07](anwz-b-97-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 24.10.2008 - AnwZ (B) 54/07](anwz-b-54-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.09.2008 - AnwZ (B) 107/06](anwz-b-107-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.09.2008 - AnwZ (B) 15/08](anwz-b-15-08.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.09.2008 - AnwZ (B) 55/08](anwz-b-55-08.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.09.2008 - AnwZ (B) 68/05](anwz-b-68-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.09.2008 - AnwZ (B) 79/07](anwz-b-79-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 24.09.2008 - AnwZ (B) 32/06](anwz-b-32-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 109/06](anwz-b-109-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 36/07](anwz-b-36-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 46/07](anwz-b-46-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 49/07](anwz-b-49-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 67/07](anwz-b-67-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 69/07](anwz-b-69-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 70/07](anwz-b-70-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 73/07](anwz-b-73-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 78/07](anwz-b-78-07.md) — Festsetzung von Vertreter- und Abwicklervergütung
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 8/08](anwz-b-8-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 88/07](anwz-b-88-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 95/07](anwz-b-95-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 15.09.2008 - AnwZ (B) 97/06](anwz-b-97-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.09.2008 - AnwZ (B) 92/07](anwz-b-92-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.08.2008 - AnwZ (B) 89/07](anwz-b-89-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 14.08.2008 - AnwZ (B) 46/08](anwz-b-46-08.md) — Wiederaufnahme
 - [BGH, Beschluss vom 04.08.2008 - AnwZ (B) 59/07](anwz-b-59-07.md) — Wiederzulassung zur Rechtsanwaltschaft hier: Gegenvorstellung
+- [BGH, Beschluss vom 28.07.2008 - AnwZ (B) 30/07](anwz-b-30-07.md) — Zulassung zur Rechtsanwaltschaft hier: Ablehnungsgesuch
 - [BGH, Beschluss vom 28.07.2008 - AnwZ (B) 64/06](anwz-b-64-06.md) — Zulassung zur Rechtsanwaltschaft hier: Ablehnungsgesuch
 - [BGH, Beschluss vom 28.07.2008 - AnwZ (B) 73/06](anwz-b-73-06.md) — Zulassung zur Rechtsanwaltschaft hier: Ablehnungsgesuch
+- [BGH, Beschluss vom 28.07.2008 - AnwZ (B) 79/06](anwz-b-79-06.md) — Zulassung zur Rechtsanwaltschaft hier: Ablehnungsgesuch
 - [BGH, Beschluss vom 23.07.2008 - AnwZ (B) 52/06](anwz-b-52-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 23.07.2008 - AnwZ (B) 96/07](anwz-b-96-07.md) — Zahlung des Kammerbeitrags
+- [BGH, Beschluss vom 22.07.2008 - AnwZ (B) 26/08](anwz-b-26-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.07.2008 - AnwZ (B) 32/07](anwz-b-32-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 22.07.2008 - AnwZ (B) 42/07](anwz-b-42-07.md) — Aufnahme in die Rechtsanwaltskammer hier: Erinnerung gegen den Kostenansatz
+- [BGH, Beschluss vom 21.07.2008 - AnwZ (B) 12/08](anwz-b-12-08.md) — Wiederzulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 21.07.2008 - AnwZ (B) 51/07](anwz-b-51-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 21.07.2008 - AnwZ (B) 53/07](anwz-b-53-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 21.07.2008 - AnwZ (B) 62/07](anwz-b-62-07.md) — Verleihung einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 21.07.2008 - AnwZ (B) 65/07](anwz-b-65-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 09.07.2008 - AnwZ (B) 113/06](anwz-b-113-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 09.07.2008 - AnwZ (B) 44/07](anwz-b-44-07.md) — Zulassung als Rechtsanwaltsgesellschaft
+- [BGH, Beschluss vom 02.07.2008 - AnwSt (B) 2/08](anwst-b-2-08.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 02.07.2008 - AnwSt (B) 9/07](anwst-b-9-07.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 18.06.2008 - AnwZ (B) 21/07](anwz-b-21-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 18.06.2008 - AnwZ (B) 4/07](anwz-b-4-07.md) — Zulassung zur Rechtsanwaltschaft hier: Entscheidung über Ablehnungsgesuch
+- [BGH, Beschluss vom 16.06.2008 - AnwSt (B) 5/08](anwst-b-5-08.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 16.06.2008 - AnwZ (B) 38/07](anwz-b-38-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 16.06.2008 - AnwZ (B) 38/08](anwz-b-38-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft und einstweilige Anordnung
 - [BGH, Beschluss vom 09.06.2008 - AnwSt (B) 14/04](anwst-b-14-04.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 09.06.2008 - AnwSt (R) 5/05](anwst-r-5-05.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 04.06.2008 - AnwZ (B) 32/08](anwz-b-32-08.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 19.05.2008 - AnwZ (B) 46/06](anwz-b-46-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Erledigung der Hauptsache
 - [BGH, Beschluss vom 05.05.2008 - AnwZ (B) 102/06](anwz-b-102-06.md) — Zulassung als Rechtsanwaltsgesellschaft hier: Streitwertbeschwerde
+- [BGH, Beschluss vom 28.04.2008 - AnwZ (B) 16/08](anwz-b-16-08.md) — Beiladung zu einer Wahlanfechtung
+- [BGH, Beschluss vom 28.04.2008 - AnwZ (B) 17/08](anwz-b-17-08.md) — Beiladung zu einer Wahlanfechtung
+- [BGH, Beschluss vom 28.04.2008 - AnwZ (B) 18/08](anwz-b-18-08.md) — Beiladung zu einer Wahlanfechtung
+- [BGH, Beschluss vom 21.04.2008 - AnwZ (B) 37/07](anwz-b-37-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 21.04.2008 - AnwZ (B) 47/07](anwz-b-47-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 21.04.2008 - AnwZ (B) 82/05](anwz-b-82-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 18.04.2008 - AnwZ (B) 85/07](anwz-b-85-07.md) — Feststellung der Rechtswidrigkeit von Abwicklungsbeschlüssen u.a.
 - [BGH, Beschluss vom 11.04.2008 - AnwZ (B) 4/08](anwz-b-4-08.md) — Festsetzung eines Zwangsgeldes
+- [BGH, Beschluss vom 11.04.2008 - AnwZ (B) 45/07](anwz-b-45-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 11.04.2008 - AnwZ (B) 48/07](anwz-b-48-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 11.04.2008 - AnwZ (B) 58/07](anwz-b-58-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 10.04.2008 - AnwZ (B) 102/05](anwz-b-102-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Anhörungsrüge nach § 29a FGG
 - [BGH, Beschluss vom 09.04.2008 - AnwZ (B) 1/07](anwz-b-1-07.md) — Wiederzulassung zur Rechtsanwaltschaft hier: Anhörungsrüge
 - [BGH, Beschluss vom 04.04.2008 - AnwZ (B) 111/06](anwz-b-111-06.md) — Zulassung zur Rechtsanwaltschaft hier: Anhörungsrüge
 - [BGH, Beschluss vom 31.03.2008 - AnwSt (B) 15/07](anwst-b-15-07.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 31.03.2008 - AnwZ (B) 12/07](anwz-b-12-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 31.03.2008 - AnwZ (B) 27/07](anwz-b-27-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 31.03.2008 - AnwZ (B) 29/07](anwz-b-29-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 31.03.2008 - AnwZ (B) 33/07](anwz-b-33-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 31.03.2008 - AnwZ (B) 34/07](anwz-b-34-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 31.03.2008 - AnwZ (B) 8/07](anwz-b-8-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 11.03.2008 - AnwZ (B) 55/07](anwz-b-55-07.md) — Widerrufs zur Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.02.2008 - AnwZ (B) 14/06](anwz-b-14-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 14/07](anwz-b-14-07.md) — Verleihung einer Fachanwaltsbezeichnung
 - [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 16/07](anwz-b-16-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 17/07](anwz-b-17-07.md) — Verleihung der Befugnis zur Führung einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 19/07](anwz-b-19-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 20/07](anwz-b-20-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 22/07](anwz-b-22-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 23/07](anwz-b-23-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 24/07](anwz-b-24-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 25/07](anwz-b-25-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.02.2008 - AnwZ (B) 82/07](anwz-b-82-07.md) — Zwangsgeldfestsetzung
 - [BGH, Beschluss vom 11.02.2008 - AnwZ (B) 120/05](anwz-b-120-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 11.02.2008 - AnwZ (B) 50/07](anwz-b-50-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
-- [BGH, Beschluss vom 15.01.2008 - AnwZ (B) 91/06](anwz-b-91-06.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 31.01.2008 - AnwZ (B) 59/05](anwz-b-59-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 24.01.2008 - AnwZ (B) 15/07](anwz-b-15-07.md) — nachträglichen Fortfalls der Widerrufsgründe wieder auf, entspricht es der Billigkeit, dem Antragsteller die Kosten aufzuerlegen und ihm die
+- [BGH, Beschluss vom 21.01.2008 - AnwSt (B) 2/07](anwst-b-2-07.md) — Verletzung anwaltlicher Pflichten hier:
+- [BGH, Beschluss vom 14.01.2008 - AnwZ (B) 67/06](anwz-b-67-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 09.01.2008 - AnwSt (R) 13/07](anwst-r-13-07.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 07.01.2008 - AnwZ (B) 35/07](anwz-b-35-07.md) — Widerruf der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 02.01.2008 - AnwZ (B) 90/06](anwz-b-90-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft

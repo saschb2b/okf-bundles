@@ -1,28 +1,75 @@
 # VI. Zivilsenat – 2001
 
-24 Entscheidung(en).
+71 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2001 - VI ZR 65/01](vi-zr-65-01.md) — BGH, Beschluss vom 18.12.2001 - VI ZR 65/01
+- [BGH, Beschluss vom 11.12.2001 - VI ZB 50/01](vi-zb-50-01.md) — Eine weitere Beschwerde ist gegen Entscheidungen des Oberlandesgerichts – abgesehen von hier nicht vorliegenden Ausnahmen – nicht statthaft (vgl.
+- [BGH, Urteil vom 11.12.2001 - VI ZR 123/00](vi-zr-123-00.md) — Tatbestand: Die Klägerin nimmt den Beklagten als früheren Geschäftsführer der H. GmbH auf Schadensersatz wegen der Vorenthaltung von Arbeitn
+- [BGH, Urteil vom 11.12.2001 - VI ZR 350/00](vi-zr-350-00.md) — Tatbestand: Die klagende AOK nimmt den Beklagten als früheren Geschäftsführer der M-GmbH auf Schadensersatz wegen Vorenthaltens von Arbeitne
 - [BGH, Beschluss vom 04.12.2001 - VI ZB 43/01](vi-zb-43-01.md) — BGH, Beschluss vom 04.12.2001 - VI ZB 43/01
+- [BGH, Beschluss vom 04.12.2001 - VI ZB 44/01](vi-zb-44-01.md) — Der Beklagte hat gegen den Beschluß der 82.
 - [BGH, Beschluss vom 04.12.2001 - VI ZB 49/01](vi-zb-49-01.md) — BGH, Beschluss vom 04.12.2001 - VI ZB 49/01
+- [BGH, Urteil vom 04.12.2001 - VI ZR 213/00](vi-zr-213-00.md) — Tatbestand: Die klagenden Eheleute sind Eltern am 6. März 1995 geborener eineiiger Zwillinge. Sie nehmen die beklagten Frauenärzte auf Ersat
+- [BGH, Beschluss vom 04.12.2001 - VI ZR 228/01](vi-zr-228-01.md) — sind in der vorliegenden Rechtssache nicht gegeben.
+- [BGH, Urteil vom 04.12.2001 - VI ZR 447/00](vi-zr-447-00.md) — Tatbestand: Die Kläger nehmen die Beklagten auf Schadensersatz wegen Eintritts von Wasser aus der örtlichen Versorgungsleitung in die Keller
+- [BGH, Urteil vom 20.11.2001 - VI ZR 77/00](vi-zr-77-00.md) — 3-
 - [BGH, Beschluss vom 19.11.2001 - VI ZR 127/00](vi-zr-127-00.md) — BGH, Beschluss vom 19.11.2001 - VI ZR 127/00
+- [BGH, Beschluss vom 13.11.2001 - VI ZB 9/01](vi-zb-9-01.md) — I. Die Klägerin nimmt den Beklagten mit ihrer am 20. Oktober 1998 beim Landgericht eingegangenen Klage auf Schadensersatz in Höhe eines Teilbetrages von 520.000 DM in Anspruch …
+- [BGH, Urteil vom 13.11.2001 - VI ZR 414/00](vi-zr-414-00.md) — Tatbestand: Die Klägerin macht gegen die Beklagten Ansprüche auf Ersatz von Schäden geltend, die ihr infolge fehlerhafter ärztlicher Behandl
+- [BGH, Beschluss vom 06.11.2001 - VI ZR 38/01](vi-zr-38-01.md) — Ist ein Schwangerschaftsabbruch, der gerechtfertigt gewesen wäre, aufgrund eines ärztlichen Fehlers unterblieben, besteht kein Ersatzanspruch des Kindes gegen den Arzt …
+- [BGH, Beschluss vom 30.10.2001 - VI ZB 40/01](vi-zb-40-01.md) — I. Der Beklagte hat gegen den Beschluß des 1. Zivilsenats des Oberlandesgerichts Hamm vom 20. Juli 2001 Beschwerde eingelegt, die der Senat mit Beschluß vom 17. September 2001 als …
+- [BGH, Beschluss vom 30.10.2001 - VI ZR 313/00](vi-zr-313-00.md) — BGH, Beschluss vom 30.10.2001 - VI ZR 313/00
+- [BGH, Beschluss vom 30.10.2001 - VI ZR 383/00](vi-zr-383-00.md) — BGH, Beschluss vom 30.10.2001 - VI ZR 383/00
 - [BGH, Beschluss vom 16.10.2001 - VI ZR 102/01](vi-zr-102-01.md) — BGH, Beschluss vom 16.10.2001 - VI ZR 102/01
 - [BGH, Urteil vom 16.10.2001 - VI ZR 408/00](vi-zr-408-00.md) — Tatbestand: Gegenstand des Revisionsverfahrens ist der Anspruch der Klägerin zu 2) auf Erstattung von Gehaltsfortzahlungen an ihren Geschäft
+- [BGH, Beschluss vom 02.10.2001 - VI ZB 32/01](vi-zb-32-01.md) — I. Der Kläger hat gegen das ihn beschwerende Urteil des Landgerichts K. vom 7. März 2001, das seinem erstinstanzlichen Prozeßbevollmächtigten Dr. M. ausweislich des …
+- [BGH, Urteil vom 02.10.2001 - VI ZR 356/00](vi-zr-356-00.md) — Tatbestand:
 - [BGH, Beschluss vom 27.09.2001 - VI ZB 39/01](vi-zb-39-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmen - keine Beschwerde zulässig (§ 567 Abs.
 - [BGH, Beschluss vom 25.09.2001 - VI ZA 6/01](vi-za-6-01.md) — BGH, Beschluss vom 25.09.2001 - VI ZA 6/01
 - [BGH, Urteil vom 25.09.2001 - VI ZR 264/00](vi-zr-264-00.md) — BGH, Urteil vom 25.09.2001 - VI ZR 264/00
+- [BGH, Beschluss vom 18.09.2001 - VI ZB 26/01](vi-zb-26-01.md) — Versäumung der Berufungsbegründungsfrist gewährt. Ihr wird insoweit für die Durchführung der sofortigen Beschwerde Prozeßkostenhilfe bewilli
+- [BGH, Beschluss vom 18.09.2001 - VI ZB 42/01](vi-zb-42-01.md) — Gegen Entscheidungen des Bayerischen Obersten Landesgerichts, das hier zur Entscheidung über die “außerordentliche” Beschwerde gegen den Beschluß des Oberlandesgerichts München …
+- [BGH, Beschluss vom 12.09.2001 - VI ZB 33/01](vi-zb-33-01.md) — Die weitere sofortige Beschwerde des Beklagten zu 3) ist unzulässig, weil sie nicht durch einen beim OLG Düsseldorf zugelassenen Rechtsanwalt eingelegt worden ist (§§ 568a, 569 …
 - [BGH, Beschluss vom 24.07.2001 - VI ZB 12/01](vi-zb-12-01.md) — BGH, Beschluss vom 24.07.2001 - VI ZB 12/01
 - [BGH, Urteil vom 10.07.2001 - VI ZR 160/00](vi-zr-160-00.md) — Der Kläger fordert aus abgetretenem Recht die Rückzahlung von Teilbeträgen, die von den Zedenten als Bauherren zur Erfüllung eines Generalunternehmervertrages bezahlt worden sind.
 - [BGH, Urteil vom 10.07.2001 - VI ZR 206/00](vi-zr-206-00.md) — der unberechtigten Kontobelastung als solcher nicht zu.
+- [BGH, Urteil vom 03.07.2001 - VI ZR 198/00](vi-zr-198-00.md) — Tatbestand: Die Klägerin begehrt die Feststellung, daß der Beklagte, ein selbständiger Tierarzt, ihr sämtliche materiellen und immateriellen
+- [BGH, Teilurteil vom 03.07.2001 - VI ZR 284/00](vi-zr-284-00.md) — 3-
+- [BGH, Urteil vom 03.07.2001 - VI ZR 418/99](vi-zr-418-99.md) — Tatbestand:
+- [BGH, Urteil vom 26.06.2001 - VI ZR 111/00](vi-zr-111-00.md) — Tatbestand: Die Klägerin nimmt die Beklagte, die ab 21. April 1994 Geschäftsführerin der M. GmbH war, auf Ausgleich des Schadens in Anspruch
+- [BGH, Beschluss vom 19.06.2001 - VI ZB 22/01](vi-zb-22-01.md) — I. Die Beklagte hat gegen das sie beschwerende Urteil des Landgerichts D. vom 10. November 2000, das ihren Prozeßbevollmächtigten erster Instanz am 22. November 2000 zugestellt …
+- [BGH, Urteil vom 19.06.2001 - VI ZR 232/00](vi-zr-232-00.md) — Tatbestand: Die Klägerin stellte dem Beklagten zum Ausgleich eines Teilkaskoschadens einen Verrechnungsscheck über 1.982,02 DM aus, den die
+- [BGH, Urteil vom 19.06.2001 - VI ZR 286/00](vi-zr-286-00.md) — Tatbestand: Die Klägerin nimmt die beklagte Ärztin für Allgemeinmedizin auf Ersatz des Schadens in Anspruch, der ihr infolge eines Selbstmor
 - [BGH, Urteil vom 12.06.2001 - VI ZR 29/00](vi-zr-29-00.md) — Tatbestand: Die Klägerinnen machen als Valorenversicherer gegen die beklagte Post AG Regreßansprüche wegen des Verlustes von Postwertsendung
+- [BGH, Urteil vom 29.05.2001 - VI ZR 114/00](vi-zr-114-00.md) — Tatbestand: Die Klägerin stand mit der R. GmbH, die unter anderem mit Computerhardware handelte, in ständiger Geschäftsverbindung und liefer
+- [BGH, Urteil vom 29.05.2001 - VI ZR 120/00](vi-zr-120-00.md) — Tatbestand: Die Klägerin nimmt den beklagten Arzt auf Ersatz von Schäden in Anspruch, die ihr im Rahmen der operativen Behandlung ihres link
 - [BGH, Urteil vom 22.05.2001 - VI ZR 268/00](vi-zr-268-00.md) — der damit verbundenen einschneidenden Folgen für die Partei in unmißverständlicher Form setzen.
 - [BGH, Urteil vom 22.05.2001 - VI ZR 368/99](vi-zr-368-99.md) — Tatbestand: Der Hengst "Nocturno" der Beklagten hat am 22. Oktober 1994 den 15jährigen Wallach "Willi Wat" der Klägerin durch Hufschläge ver
 - [BGH, Urteil vom 22.05.2001 - VI ZR 74/00](vi-zr-74-00.md) — Tatbestand: Der Kläger erlitt am 4. Februar 1993 einen Verkehrsunfall, bei dem sein von ihm geführter Pkw leicht beschädigt wurde. Die Bekla
+- [BGH, Urteil vom 15.05.2001 - VI ZR 55/00](vi-zr-55-00.md) — Tatbestand: Der Kläger begehrt Schadensersatz aus einem Unfall, der sich am 21. Juni 1995 auf der von der Beklagten betriebenen Mülldeponie
 - [BGH, Urteil vom 08.05.2001 - VI ZR 166/00](vi-zr-166-00.md) — Tatbestand: Die Klägerin erlitt am 24. September 1992 bei einem Verkehrsunfall, den der Beklagte zu 2 alleine verschuldet hatte, erhebliche
 - [BGH, Urteil vom 08.05.2001 - VI ZR 208/00](vi-zr-208-00.md) — Tatbestand: Der Zeuge W. brachte mit seiner landwirtschaftlichen Zugmaschine im Auftrag der Eheleute Wa. Spritzmittel auf deren Radieschenfe
+- [BGH, Urteil vom 24.04.2001 - VI ZR 258/00](vi-zr-258-00.md) — Tatbestand: Die Klägerin nimmt die Beklagten auf Schadensersatz wegen behaupteter ärztlicher Behandlungsfehler in Anspruch. Sie stützt ihre
+- [BGH, Urteil vom 24.04.2001 - VI ZR 36/00](vi-zr-36-00.md) — vorsätzlicher sittenwidriger Schädigung gemäß § 826 BGB haftet.
+- [BGH, Urteil vom 03.04.2001 - VI ZR 203/00](vi-zr-203-00.md) — 3-
 - [BGH, Beschluss vom 27.03.2001 - VI ZB 7/01](vi-zb-7-01.md) — Versäumung der Berufungsbegründungsfrist gewährt. Beschwerdewert: 20.308 DM.
+- [BGH, Urteil vom 27.03.2001 - VI ZR 12/00](vi-zr-12-00.md) — Tatbestand: Die klagende Bundesknappschaft gewährt der Witwe und den Kindern eines 1985 bei einem Verkehrsunfall tödlich verunglückten Versi
+- [BGH, Urteil vom 27.03.2001 - VI ZR 18/00](vi-zr-18-00.md) — Tatbestand: Die Klägerin macht gegen die Beklagten Schadensersatzansprüche aus behaupteten ärztlichen Behandlungsfehlern geltend. Die Kläger
+- [BGH, Anerkenntnisurteil vom 20.03.2001 - VI ZR 325/99](vi-zr-325-99.md) — Tatbestand: Der Kläger nimmt den Beklagten, der eine krankengymnastische Praxis betrieb, wegen eines schweren Unfalls in dessen Praxisräumen
+- [BGH, Urteil vom 20.03.2001 - VI ZR 373/99](vi-zr-373-99.md) — Tatbestand: Die Klägerin zu 1) und ihr minderjähriger Sohn, der Kläger zu 2), nehmen die Beklagte, ein bundesweit tätiges gewerbliches Bewac
 - [BGH, Urteil vom 13.03.2001 - VI ZR 142/00](vi-zr-142-00.md) — Tatbestand:
 - [BGH, Urteil vom 13.03.2001 - VI ZR 290/00](vi-zr-290-00.md) — Tatbestand: Am 1. Mai 1990 stieß der zu diesem Zeitpunkt bei der klagenden LVA versicherte R.S. auf seinem Motorrad mit dem vom Beklagten zu
+- [BGH, Urteil vom 06.03.2001 - VI ZR 30/00](vi-zr-30-00.md) — rechtsmißbräuchlichen Verhaltens des Geschädigten ganz ausnahmsweise in Betracht kommen kann, vom Beginn der Verjährungsfrist des § 852 Abs.
+- [BGH, Urteil vom 20.02.2001 - VI ZR 179/00](vi-zr-179-00.md) — Tatbestand: Der Kläger macht gegen den Beklagten Schadensersatz geltend, weil dieser ihn am 26. April 1996 bei einem Streit mit einem Messer
+- [BGH, Beschluss vom 19.02.2001 - VI ZB 3/01](vi-zb-3-01.md) — greifbarer Gesetzwidrigkeit gegeben sein könnte (vgl. BGHZ 109, 41, 43), liegt hier nicht vor. Die im angefochtenen Beschluß vorgenommene Be
 - [BGH, Beschluss vom 13.02.2001 - VI ZB 34/00](vi-zb-34-00.md) — I. Der Kläger hat gegen das ihn beschwerende Urteil des Landgerichts A. vom 31. Januar 2000, das seinem Prozeßbevollmächtigten am 3. Februar 2000 zugestellt worden ist, am 8. März …
 - [BGH, Urteil vom 13.02.2001 - VI ZR 272/99](vi-zr-272-99.md) — Tatbestand: Der Kläger macht Ansprüche auf materiellen und immateriellen Schadensersatz wegen der Folgen eines ärztlichen Eingriffs geltend.
 - [BGH, Urteil vom 13.02.2001 - VI ZR 34/00](vi-zr-34-00.md) — Tatbestand: Der Kläger macht gegen die Beklagten Schadensersatzansprüche aus behaupteten ärztlichen Behandlungsfehlern anläßlich seiner Gebu
+- [BGH, Urteil vom 06.02.2001 - VI ZR 339/99](vi-zr-339-99.md) — Tatbestand: Der Kläger, der bei einem Verkehrsunfall am 24. Juli 1994 erheblich verletzt wurde, verlangt von der Beklagten als Haftpflichtve
+- [BGH, Urteil vom 30.01.2001 - VI ZR 353/99](vi-zr-353-99.md) — Tatbestand: Der Kläger litt seit Anfang der 80er Jahre unter Bandscheibenbeschwerden, die jeweils konservativ behandelt wurden. Am 14. Febru
+- [BGH, Urteil vom 30.01.2001 - VI ZR 49/00](vi-zr-49-00.md) — Tatbestand: Die Klägerin, eine Bau-Berufsgenossenschaft, nimmt den Beklagten aus § 110 Abs. 1 SGB VII auf Erstattung der Aufwendungen in Ans
 - [BGH, Urteil vom 23.01.2001 - VI ZR 70/00](vi-zr-70-00.md) — Tatbestand: Der Kläger begehrt Schmerzensgeld und Feststellung der Ersatzverpflichtung der Beklagten für immaterielle Schäden aufgrund eines
+- [BGH, Urteil vom 16.01.2001 - VI ZR 381/99](vi-zr-381-99.md) — Tatbestand: Die Kläger machen Schadensersatzansprüche aus einem Verkehrsunfall vom 25. Mai 1994 geltend, bei welchem die Ehefrau des Klägers
+- [BGH, Urteil vom 16.01.2001 - VI ZR 408/99](vi-zr-408-99.md) — Tatbestand: Der Kläger verlangt von den Beklagten Schadensersatz wegen ärztlicher Behandlungsfehler. Am Morgen des 9. Juni 1995 suchte der K
+- [BGH, Urteil vom 09.01.2001 - VI ZR 119/00](vi-zr-119-00.md) — Tatbestand: Die klagende AOK nimmt den Beklagten als früheren Geschäftsführer einer GmbH wegen Vorenthaltens von Arbeitnehmerbeiträgen zur S
+- [BGH, Urteil vom 09.01.2001 - VI ZR 407/99](vi-zr-407-99.md) — Tatbestand: Die Klägerin nimmt den Beklagten zu 1), der zusammen mit dem früheren Beklagten zu 2) gesamtvertretungsberechtigter Geschäftsfüh

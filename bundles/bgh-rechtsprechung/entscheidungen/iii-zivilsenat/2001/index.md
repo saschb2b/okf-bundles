@@ -1,32 +1,83 @@
 # III. Zivilsenat – 2001
 
-28 Entscheidung(en).
+79 Entscheidung(en).
 
-- [BGH, Beschluss vom 20.12.2001 - III ZR 159/01](iii-zr-159-01.md) — BGH, Beschluss vom 20.12.2001 - III ZR 159/01
 - [BGH, Beschluss vom 20.12.2001 - III ZR 240/01](iii-zr-240-01.md) — Versäumung der Frist zur Begründung der Revision gegen das Urteil des 21. Zivilsenats des Oberlandesgerichts München vom 1. Juni 2001 - 21 U
 - [BGH, Urteil vom 13.12.2001 - III ZR 155/00](iii-zr-155-00.md) — Tatbestand
 - [BGH, Urteil vom 13.12.2001 - III ZR 284/00](iii-zr-284-00.md) — BGH, Urteil vom 13.12.2001 - III ZR 284/00
 - [BGH, Urteil vom 13.12.2001 - III ZR 29/01](iii-zr-29-01.md) — Tatbestand
+- [BGH, Urteil vom 06.12.2001 - III ZR 296/00](iii-zr-296-00.md) — 3-
+- [BGH, Beschluss vom 22.11.2001 - III ZB 52/01](iii-zb-52-01.md) — Arbeitsüberlastung der Mitarbeiterin unterblieben.
+- [BGH, Beschluss vom 22.11.2001 - III ZB 56/01](iii-zb-56-01.md) — BGH, Beschluss vom 22.11.2001 - III ZB 56/01
+- [BGH, Beschluss vom 22.11.2001 - III ZB 57/01](iii-zb-57-01.md) — offenbarer Unrichtigkeit. Der ursprüngliche Urteilstenor sei nur versehentlich so gefaßt worden, wie er verkündet wurde. Daß es sich um eine
+- [BGH, Beschluss vom 22.11.2001 - III ZR 309/00](iii-zr-309-00.md) — BGH, Beschluss vom 22.11.2001 - III ZR 309/00
+- [BGH, Urteil vom 22.11.2001 - III ZR 322/00](iii-zr-322-00.md) — Tatbestand
+- [BGH, Versäumnisurteil vom 22.11.2001 - III ZR 5/01](iii-zr-5-01.md) — BGH, Versäumnisurteil vom 22.11.2001 - III ZR 5/01
+- [BGH, Urteil vom 08.11.2001 - III ZR 14/01](iii-zr-14-01.md) — Tatbestand
+- [BGH, Urteil vom 08.11.2001 - III ZR 294/00](iii-zr-294-00.md) — Tatbestand
+- [BGH, Beschluss vom 25.10.2001 - III ZB 53/01](iii-zb-53-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 25.10.2001 - III ZR 237/00](iii-zr-237-00.md) — Widerrufs dieser Zulassung in Anspruch. Die Klage hatte in den Vorinstanzen keinen Erfolg.
+- [BGH, Beschluss vom 25.10.2001 - III ZR 302/00](iii-zr-302-00.md) — BGH, Beschluss vom 25.10.2001 - III ZR 302/00
+- [BGH, Beschluss vom 25.10.2001 - III ZR 43/01](iii-zr-43-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 25.10.2001 - III ZR 53/01](iii-zr-53-01.md) — I. Das Berufungsgericht hat auf Antrag des Klägers festgestellt, daß "das zwischen den Parteien bestehende Vertragsverhältnis gem. Vereinbarung vom 14.10.1993 - Nr. 255/93 des …
+- [BGH, Beschluss vom 25.10.2001 - III ZR 76/01](iii-zr-76-01.md) — I. Die Beteiligte zu 1 ist Eigentümerin des Grundstücks K.-Straße 156 in der Innenstadt von Berlin. Dieses Grundstück besteht aus dem vorn an der K.-Straße liegenden, 156 m² …
+- [BGH, Urteil vom 18.10.2001 - III ZR 265/00](iii-zr-265-00.md) — Tatbestand
 - [BGH, Beschluss vom 11.10.2001 - III ZB 50/01](iii-zb-50-01.md) — Der Senat geht zugunsten des Antragstellers davon aus, dass dessen am 17.
+- [BGH, Urteil vom 11.10.2001 - III ZR 182/00](iii-zr-182-00.md) — Verstoßes gegen das Rechtsberatungsgesetz nichtig (BGHZ 145, 265), so erstreckt sich die Nichtigkeit auch auf die dem Treuhänder dazu erteil
+- [BGH, Urteil vom 11.10.2001 - III ZR 288/00](iii-zr-288-00.md) — Tatbestand
+- [BGH, Urteil vom 11.10.2001 - III ZR 63/00](iii-zr-63-00.md) — Tatbestand
+- [BGH, Beschluss vom 04.10.2001 - III ZR 229/00](iii-zr-229-00.md) — offenbarer Unrichtigkeit wie folgt berichtigt:
+- [BGH, Urteil vom 04.10.2001 - III ZR 281/00](iii-zr-281-00.md) — Tatbestand
+- [BGH, Urteil vom 04.10.2001 - III ZR 290/00](iii-zr-290-00.md) — Tatbestand
+- [BGH, Urteil vom 27.09.2001 - III ZR 318/00](iii-zr-318-00.md) — Tatbestand
 - [BGH, Beschluss vom 20.09.2001 - III ZB 41/01](iii-zb-41-01.md) — BGH, Beschluss vom 20.09.2001 - III ZB 41/01
 - [BGH, Beschluss vom 20.09.2001 - III ZB 57/00](iii-zb-57-00.md) — BGH, Beschluss vom 20.09.2001 - III ZB 57/00
 - [BGH, Beschluss vom 20.09.2001 - III ZR 146/01](iii-zr-146-01.md) — BGH, Beschluss vom 20.09.2001 - III ZR 146/01
 - [BGH, Beschluss vom 20.09.2001 - III ZR 202/01](iii-zr-202-01.md) — BGH, Beschluss vom 20.09.2001 - III ZR 202/01
 - [BGH, Beschluss vom 20.09.2001 - III ZR 210/00](iii-zr-210-00.md) — BGH, Beschluss vom 20.09.2001 - III ZR 210/00
 - [BGH, Urteil vom 13.09.2001 - III ZR 228/00](iii-zr-228-00.md) — eines Zustellungsfehlers wieder aufgehoben wird (insoweit Aufgabe der bisherigen Senatsrechtsprechung).
+- [BGH, Beschluss vom 26.07.2001 - III ZB 31/01](iii-zb-31-01.md) — BGH, Beschluss vom 26.07.2001 - III ZB 31/01
+- [BGH, Beschluss vom 26.07.2001 - III ZB 38/01](iii-zb-38-01.md) — Der Senat geht zugunsten des Antragstellers davon aus, daß dessen Eingabe vom 23.
+- [BGH, Urteil vom 26.07.2001 - III ZR 172/00](iii-zr-172-00.md) — Tatbestand
+- [BGH, Beschluss vom 26.07.2001 - III ZR 206/00](iii-zr-206-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 554 b ZPO).
+- [BGH, Beschluss vom 26.07.2001 - III ZR 243/00](iii-zr-243-00.md) — einer angeblichen Amtspflichtverletzung des Rechtspflegers bei der Durchführung eines Zwangsversteigerungsverfahrens. Die Klägerin war Inhab
+- [BGH, Beschluss vom 26.07.2001 - III ZR 267/99](iii-zr-267-99.md) — offensichtlicher Unvollständigkeit (§ 319 ZPO) in der Weise berichtigt, dass der erste Satz wie folgt lautet:
 - [BGH, Urteil vom 12.07.2001 - III ZR 282/00](iii-zr-282-00.md) — Tatbestand
+- [BGH, Urteil vom 05.07.2001 - III ZR 11/00](iii-zr-11-00.md) — dessen aufschiebender Wirkung die bereits begonnenen Bauarbeiten fortsetzt.
+- [BGH, Urteil vom 05.07.2001 - III ZR 235/00](iii-zr-235-00.md) — Tatbestand
+- [BGH, Urteil vom 05.07.2001 - III ZR 310/00](iii-zr-310-00.md) — Tatbestand
 - [BGH, Beschluss vom 04.07.2001 - III ZB 36/01](iii-zb-36-01.md) — BGH, Beschluss vom 04.07.2001 - III ZB 36/01
 - [BGH, Beschluss vom 28.06.2001 - III ZB 24/01](iii-zb-24-01.md) — der Versäumung der Berufungsfrist mit folgender Begründung Wiedereinsetzung in den vorigen Stand: Sein Prozeßbevollmächtigter erster Instanz
 - [BGH, Beschluss vom 28.06.2001 - III ZR 286/00](iii-zr-286-00.md) — einer wesentlichen Veränderung der vorhandenen Tierpopulation, des Anfalls von Konfiskaten, Schlachtabfällen und Fleischverarbeitungsresten,
+- [BGH, Beschluss vom 21.06.2001 - III ZB 32/01](iii-zb-32-01.md) — Der Senat geht zugunsten des Antragstellers davon aus, daß dessen Eingaben vom 24.
 - [BGH, Urteil vom 21.06.2001 - III ZR 185/00](iii-zr-185-00.md) — BGH, Urteil vom 21.06.2001 - III ZR 185/00
+- [BGH, Urteil vom 21.06.2001 - III ZR 313/99](iii-zr-313-99.md) — Tatbestand
 - [BGH, Urteil vom 21.06.2001 - III ZR 34/00](iii-zr-34-00.md) — Tatbestand
+- [BGH, Urteil vom 17.05.2001 - III ZR 249/00](iii-zr-249-00.md) — Tatbestand
+- [BGH, Urteil vom 17.05.2001 - III ZR 283/00](iii-zr-283-00.md) — 3-
+- [BGH, Urteil vom 10.05.2001 - III ZR 111/99](iii-zr-111-99.md) — Tatbestand
+- [BGH, Urteil vom 10.05.2001 - III ZR 223/00](iii-zr-223-00.md) — 3-
+- [BGH, Urteil vom 10.05.2001 - III ZR 262/00](iii-zr-262-00.md) — 3-
+- [BGH, Urteil vom 03.05.2001 - III ZR 191/00](iii-zr-191-00.md) — Tatbestand
+- [BGH, Beschluss vom 03.05.2001 - III ZR 9/01](iii-zr-9-01.md) — Maßgebend für die Bewertung der Beschwer ist der Zeitpunkt der letzten mündlichen Verhandlung vor dem Berufungsgericht, denn nur dieser Wert entscheidet über die Zulässigkeit der …
+- [BGH, Urteil vom 26.04.2001 - III ZR 102/00](iii-zr-102-00.md) — 3-
 - [BGH, Beschluss vom 05.04.2001 - III ZB 48/00](iii-zb-48-00.md) — I. Am 30. September 1998 schloß der Antragsteller mit der K. GmbH einen Kaufvertrag über ein in S. gelegenes Grundstück, den der Antragsgegner als Notar beurkundete. Der …
 - [BGH, Urteil vom 22.03.2001 - III ZR 394/99](iii-zr-394-99.md) — Tatbestand
+- [BGH, Urteil vom 15.03.2001 - III ZR 154/00](iii-zr-154-00.md) — BGH, Urteil vom 15.03.2001 - III ZR 154/00
+- [BGH, Urteil vom 08.03.2001 - III ZR 110/00](iii-zr-110-00.md) — 3-
+- [BGH, Urteil vom 01.03.2001 - III ZR 329/98](iii-zr-329-98.md) — Tatbestand
+- [BGH, Urteil vom 01.03.2001 - III ZR 361/99](iii-zr-361-99.md) — BGH, Urteil vom 01.03.2001 - III ZR 361/99
 - [BGH, Beschluss vom 22.02.2001 - III ZB 71/99](iii-zb-71-99.md) — I. Die Antragstellerin beansprucht für Instandsetzungsarbeiten an einem Motorschiff der Antragsgegnerin Werklohn, Verzugsschadensersatz sowie Erstattung von Standzeitkosten …
 - [BGH, Beschluss vom 22.02.2001 - III ZR 150/00](iii-zr-150-00.md) — obliegenden Beratungsdienste stellt sich dabei als Ausübung eines öffentlichen Amtes dar (vgl. BGH, Urteil vom 30. November 1955 - VI ZR 100
 - [BGH, Beschluss vom 22.02.2001 - III ZR 168/00](iii-zr-168-00.md) — der 1944 vollzogenen Enteignung der jüdischen Voreigentümer vermögensrechtliche Ansprüche bestehen oder entstehen könnten (vgl. § 1 Abs. 6 S
+- [BGH, Urteil vom 15.02.2001 - III ZR 120/00](iii-zr-120-00.md) — Tatbestand
 - [BGH, Versäumnisurteil vom 08.02.2001 - III ZR 268/00](iii-zr-268-00.md) — BGH, Versäumnisurteil vom 08.02.2001 - III ZR 268/00
 - [BGH, Urteil vom 08.02.2001 - III ZR 45/00](iii-zr-45-00.md) — BGH, Urteil vom 08.02.2001 - III ZR 45/00
 - [BGH, Urteil vom 08.02.2001 - III ZR 49/00](iii-zr-49-00.md) — BGH, Urteil vom 08.02.2001 - III ZR 49/00
+- [BGH, Urteil vom 01.02.2001 - III ZR 193/99](iii-zr-193-99.md) — 3-
+- [BGH, Urteil vom 01.02.2001 - III ZR 332/99](iii-zr-332-99.md) — 3-
+- [BGH, Beschluss vom 25.01.2001 - III ZB 16/00](iii-zb-16-00.md) — I. Im Zuge des geplanten Neubaues der Bundesautobahn A 71 und der Eisenbahnstrecke E.-E. ist die Bundesstraße B 4 zu überbrücken. Zur Errichtung der Ingenieurbauwerke für die …
+- [BGH, Beschluss vom 25.01.2001 - III ZB 25/00](iii-zb-25-00.md) — I. Im Zuge des geplanten Neubaues der Bundesautobahn A 71 sollen die Bundesautobahn A 4 und die Kreisstraße K 20 im Bereich des künftigen Autobahnkreuzes M. (Thüringen) tiefer …
+- [BGH, Beschluss vom 25.01.2001 - III ZB 26/00](iii-zb-26-00.md) — I. Im Zuge des geplanten Neubaues der Bundesautobahn A 71 und der Eisenbahnstrecke E.-E. ist die Landesstraße LIO 48 zu überbrücken. Zur Errichtung der Ingenieurbauwerke für die …
 - [BGH, Urteil vom 11.01.2001 - III ZR 113/00](iii-zr-113-00.md) — BGH, Urteil vom 11.01.2001 - III ZR 113/00
 - [BGH, Urteil vom 11.01.2001 - III ZR 148/00](iii-zr-148-00.md) — BGH, Urteil vom 11.01.2001 - III ZR 148/00

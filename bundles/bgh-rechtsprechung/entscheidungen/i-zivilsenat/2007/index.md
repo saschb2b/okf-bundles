@@ -1,59 +1,138 @@
 # I. Zivilsenat – 2007
 
-60 Entscheidung(en).
+139 Entscheidung(en).
 
 - [BGH, Urteil vom 20.12.2007 - I ZR 205/04](i-zr-205-04.md) — Tatbestand:
 - [BGH, Urteil vom 20.12.2007 - I ZR 42/05](i-zr-42-05.md) — Tatbestand:
 - [BGH, Urteil vom 20.12.2007 - I ZR 51/05](i-zr-51-05.md) — BGH, Urteil vom 20.12.2007 - I ZR 51/05
 - [BGH, Beschluss vom 13.12.2007 - I ZB 26/05](i-zb-26-05.md) — gelegt werden soll, handelt es sich um einen Teilverzicht auf die angegriffene Marke, der schon deshalb unwirksam ist, weil die Verzichtserklärung nicht bedingt abgegeben werden …
+- [BGH, Beschluss vom 13.12.2007 - I ZB 39/05](i-zb-39-05.md) — I. Für den Markeninhaber ist die am 16. März 1998 angemeldete Wort- marke Nr. 398 14 720 am 16. September 1998 für die Waren und Dienstleistungen (für die kursiv ge- setzten Waren …
+- [BGH, Beschluss vom 13.12.2007 - I ZR 137/07](i-zr-137-07.md) — BGH, Beschluss vom 13.12.2007 - I ZR 137/07
 - [BGH, Beschluss vom 13.12.2007 - I ZR 6/05](i-zr-6-05.md) — 1. Entgegen der Annahme der Anhörungsrüge war der Senat in dem Verhandlungstermin am 6. Juni 2007 vorschriftsmäßig besetzt. Es bestand ein rechtlicher Zusammenhang mit dem älteren …
+- [BGH, Urteil vom 13.12.2007 - I ZR 71/05](i-zr-71-05.md) — Tatbestand:
 - [BGH, Urteil vom 13.12.2007 - I ZR 89/05](i-zr-89-05.md) — Tatbestand:
 - [BGH, Beschluss vom 13.12.2007 - I ZR 94/04](i-zr-94-04.md) — 1. Entgegen der Annahme der Anhörungsrüge war der Senat in dem Verhandlungstermin am 6. Juni 2007 ordnungsgemäß besetzt. Die Sache fiel nach Ziffer 2a der für 2004 gültigen …
+- [BGH, Beschluss vom 06.12.2007 - I ZB 16/07](i-zb-16-07.md) — Ver-
+- [BGH, Teilurteil vom 06.12.2007 - I ZR 169/04](i-zr-169-04.md) — einer unzulässigen vergleichenden Werbung nach § 6 Abs. 2 Nr. 6 UWG nicht wegen eines Vorrangs markenrechtlicher Ansprüche nach § 14 Abs. 2
+- [BGH, Urteil vom 06.12.2007 - I ZR 174/04](i-zr-174-04.md) — Tatbestand:
+- [BGH, Urteil vom 06.12.2007 - I ZR 184/05](i-zr-184-05.md) — Tatbestand:
+- [BGH, Beschluss vom 22.11.2007 - I ZB 104/06](i-zb-104-06.md) — I. Durch rechtskräftiges Urteil des Amtsgerichts Düsseldorf vom 19. Mai 2005 wurden die Schuldner verurteilt, die Wohnung im Hause M. Straße in D. , erstes Obergeschoss rechts, zu …
+- [BGH, Beschluss vom 22.11.2007 - I ZB 77/07](i-zb-77-07.md) — in Betracht (§§ 579 ff., 321a ZPO), die nicht hinreichend geltend gemacht sind (§ 581 Abs.
+- [BGH, Beschluss vom 22.11.2007 - I ZB 86/07](i-zb-86-07.md) — Soweit der Gläubiger das Vorliegen von Restitutionsgründen nach § 580 Nr.
+- [BGH, Urteil vom 22.11.2007 - I ZR 12/05](i-zr-12-05.md) — Tatbestand:
+- [BGH, Urteil vom 22.11.2007 - I ZR 183/04](i-zr-183-04.md) — Tatbestand:
+- [BGH, Urteil vom 22.11.2007 - I ZR 74/05](i-zr-74-05.md) — 3Tatbestand:
+- [BGH, Urteil vom 22.11.2007 - I ZR 77/05](i-zr-77-05.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 08.11.2007 - I ZR 121/06](i-zr-121-06.md) — Tatbestand:
 - [BGH, Urteil vom 08.11.2007 - I ZR 172/05](i-zr-172-05.md) — eines entsprechenden Verhaltens des Schuldners einen Ordnungsmittelantrag stellt.
 - [BGH, Urteil vom 08.11.2007 - I ZR 192/06](i-zr-192-06.md) — Tatbestand:
 - [BGH, Urteil vom 08.11.2007 - I ZR 60/05](i-zr-60-05.md) — Tatbestand:
 - [BGH, Urteil vom 08.11.2007 - I ZR 99/05](i-zr-99-05.md) — BGH, Urteil vom 08.11.2007 - I ZR 99/05
 - [BGH, Beschluss vom 25.10.2007 - I ZB 19/07](i-zb-19-07.md) — rückständiger Ar-
+- [BGH, Beschluss vom 25.10.2007 - I ZB 22/04](i-zb-22-04.md) — I. Für die Markeninhaberin ist seit dem 1. Juli 1997 aufgrund Verkehrs- durchsetzung die nachfolgend abgebildete farbige (braun, weiß) dreidimensio- nale Marke Nr. 397 23 188 für …
+- [BGH, Beschluss vom 25.10.2007 - I ZB 97/06](i-zb-97-06.md) — I. Gegen die am 10. September 2002 eingetragene Wortmarke Nr. 302 34 986 "Erlander" hat die Inhaberin der prioritätsälteren Marke Nr. 300 33 893 "Melander" Widerspruch erhoben. 2 …
 - [BGH, Urteil vom 25.10.2007 - I ZR 151/04](i-zr-151-04.md) — Tatbestand:
+- [BGH, Urteil vom 25.10.2007 - I ZR 18/05](i-zr-18-05.md) — 3Tatbestand:
 - [BGH, Urteil vom 18.10.2007 - I ZR 100/05](i-zr-100-05.md) — 3Tatbestand:
+- [BGH, Urteil vom 18.10.2007 - I ZR 102/05](i-zr-102-05.md) — Tatbestand:
+- [BGH, Urteil vom 18.10.2007 - I ZR 138/04](i-zr-138-04.md) — Tatbestand:
+- [BGH, Urteil vom 18.10.2007 - I ZR 161/04](i-zr-161-04.md) — 3Tatbestand:
 - [BGH, Urteil vom 18.10.2007 - I ZR 162/04](i-zr-162-04.md) — Tatbestand:
+- [BGH, Urteil vom 18.10.2007 - I ZR 165/05](i-zr-165-05.md) — Tatbestand:
 - [BGH, Urteil vom 18.10.2007 - I ZR 24/05](i-zr-24-05.md) — widersprüchlichen Verhaltens nach § 242 BGB ausgeschlossen sein, ohne dass es darauf ankommt, ob auch der Unterlassungsanspruch verwirkt ist
+- [BGH, Beschluss vom 04.10.2007 - I ZB 11/07](i-zb-11-07.md) — (noch) fehlenden Rechtsschutzbedürfnisses
+- [BGH, Beschluss vom 04.10.2007 - I ZB 14/06](i-zb-14-06.md) — Nach Rücknahme des auf die Gemeinschaftsmarke 002 538 007 ge- stützten Widerspruchs ist auf Antrag der Markeninhaberin in entsprechender Anwendung von § 269 Abs.
 - [BGH, Urteil vom 04.10.2007 - I ZR 143/04](i-zr-143-04.md) — Tatbestand:
+- [BGH, Urteil vom 04.10.2007 - I ZR 182/05](i-zr-182-05.md) — Tatbestand:
 - [BGH, Urteil vom 04.10.2007 - I ZR 22/05](i-zr-22-05.md) — BGH, Urteil vom 04.10.2007 - I ZR 22/05
 - [BGH, Beschluss vom 04.10.2007 - I ZR 34/04](i-zr-34-04.md) — Das als übergangen gerügte Vorbringen ist vom Senat berücksichtigt worden.
+- [BGH, Urteil vom 20.09.2007 - I ZR 171/04](i-zr-171-04.md) — Verstoßes gegen lebensmittelrechtliche Vorschriften sind auch bei einem identischen Klageantrag unterschiedliche Streitgegenstände.
+- [BGH, Urteil vom 20.09.2007 - I ZR 43/05](i-zr-43-05.md) — 3-
 - [BGH, Urteil vom 20.09.2007 - I ZR 44/05](i-zr-44-05.md) — BGH, Urteil vom 20.09.2007 - I ZR 44/05
 - [BGH, Beschluss vom 20.09.2007 - I ZR 62/05](i-zr-62-05.md) — BGH, Beschluss vom 20.09.2007 - I ZR 62/05
 - [BGH, Urteil vom 20.09.2007 - I ZR 88/05](i-zr-88-05.md) — BGH, Urteil vom 20.09.2007 - I ZR 88/05
+- [BGH, Urteil vom 13.09.2007 - I ZR 155/04](i-zr-155-04.md) — des Verlusts von Frachtgut, mit der Einlösung eines beigefügten Schecks seien alle Ansprüche aus diesem Schaden abgegolten.
 - [BGH, Urteil vom 13.09.2007 - I ZR 207/04](i-zr-207-04.md) — 3Tatbestand:
+- [BGH, Urteil vom 13.09.2007 - I ZR 33/05](i-zr-33-05.md) — 3Tatbestand:
 - [BGH, Beschluss vom 10.09.2007 - I ZB 65/07](i-zb-65-07.md) — BGH, Beschluss vom 10.09.2007 - I ZB 65/07
+- [BGH, Beschluss vom 19.07.2007 - I ZB 100/06](i-zb-100-06.md) — Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorigen Stand zu gewähren.
+- [BGH, Beschluss vom 19.07.2007 - I ZB 56/06](i-zb-56-06.md) — I. Gegen die am 20. März 1997 angemeldete und am 15. April 1997 ein- getragene Wortmarke Nr. 397 12 539 Revean für "Weine, Schaumweine" hat die Widersprechende aus der für …
+- [BGH, Beschluss vom 19.07.2007 - I ZB 57/06](i-zb-57-06.md) — I. Gegen die am 5. Juni 1998 angemeldete und am 14. Juli 1998 einge- tragene Marke Nr. 398 31 525 -3- in den Farben Schwarz, Weiß und Gold für "Wein und Schaumwein" hat die …
+- [BGH, Versäumnisurteil vom 19.07.2007 - I ZR 136/05](i-zr-136-05.md) — Versäumung der Einspruchsfrist gegen ein Versäumnisurteil versagt wird, muss auch dann durch Urteil ergehen, wenn sie isoliert vorab und nic
+- [BGH, Urteil vom 19.07.2007 - I ZR 137/04](i-zr-137-04.md) — 3Tatbestand:
 - [BGH, Urteil vom 19.07.2007 - I ZR 191/04](i-zr-191-04.md) — Tatbestand:
 - [BGH, Beschluss vom 19.07.2007 - I ZR 47/06](i-zr-47-06.md) — BGH, Beschluss vom 19.07.2007 - I ZR 47/06
 - [BGH, Urteil vom 19.07.2007 - I ZR 93/04](i-zr-93-04.md) — BGH, Urteil vom 19.07.2007 - I ZR 93/04
 - [BGH, Urteil vom 12.07.2007 - I ZR 147/04](i-zr-147-04.md) — Tatbestand:
 - [BGH, Urteil vom 12.07.2007 - I ZR 148/04](i-zr-148-04.md) — Tatbestand:
+- [BGH, Urteil vom 12.07.2007 - I ZR 18/04](i-zr-18-04.md) — Tatbestand:
+- [BGH, Urteil vom 12.07.2007 - I ZR 82/05](i-zr-82-05.md) — unlauter nach §§ 3, 4 Nr. 1 UWG, weil sie bei Kindern und Jugendlichen Kaufwünsche weckt und darauf abzielt, dass diese ihre Eltern zu einer
 - [BGH, Urteil vom 28.06.2007 - I ZR 132/04](i-zr-132-04.md) — Tatbestand:
+- [BGH, Urteil vom 28.06.2007 - I ZR 153/04](i-zr-153-04.md) — 3-
+- [BGH, Urteil vom 28.06.2007 - I ZR 49/04](i-zr-49-04.md) — 3Tatbestand:
 - [BGH, Beschluss vom 20.06.2007 - I ZR 8/06](i-zr-8-06.md) — BGH, Beschluss vom 20.06.2007 - I ZR 8/06
+- [BGH, Beschluss vom 14.06.2007 - I ZB 5/06](i-zb-5-06.md) — I. Das Landgericht hat die Beklagte zu 1 (im Weiteren: Beklagte) mit Ur- teil vom 28. Juli 2005, zugestellt am 3. August 2005, verurteilt, an den Kläger 32.806,73 € nebst Zinsen …
 - [BGH, Urteil vom 14.06.2007 - I ZR 125/04](i-zr-125-04.md) — Tatbestand:
+- [BGH, Urteil vom 14.06.2007 - I ZR 173/04](i-zr-173-04.md) — 3Tatbestand:
 - [BGH, Versäumnisurteil vom 14.06.2007 - I ZR 50/05](i-zr-50-05.md) — Tatbestand:
-- [BGH, Beschluss vom 11.06.2007 - I ZR 80/04](i-zr-80-04.md) — BGH, Beschluss vom 11.06.2007 - I ZR 80/04
+- [BGH, Urteil vom 06.06.2007 - I ZR 121/04](i-zr-121-04.md) — Tatbestand:
+- [BGH, Beschluss vom 24.05.2007 - I ZB 36/04](i-zb-36-04.md) — I. Für die Markeninhaberin ist seit dem 20. Juni 2001 die nachfolgend zeichnerisch dargestellte dreidimensionale Marke für die Ware "Kraftfahrzeugteile" eingetragen. 2 Die …
+- [BGH, Beschluss vom 24.05.2007 - I ZB 37/04](i-zb-37-04.md) — I. Für die Markeninhaberin ist seit dem 20. Juni 2001 die nachfolgend zeichnerisch dargestellte dreidimensionale Marke für die Ware "Kraftfahrzeugteile" eingetragen. 2 Die …
+- [BGH, Beschluss vom 24.05.2007 - I ZB 66/06](i-zb-66-06.md) — fehlender Unterscheidungskraft und wegen Vorliegens eines
+- [BGH, Urteil vom 24.05.2007 - I ZR 104/04](i-zr-104-04.md) — 3Tatbestand:
+- [BGH, Beschluss vom 24.05.2007 - I ZR 130/04](i-zr-130-04.md) — I. Der Kläger zu 2 (im Folgenden: Kläger) ist ordentlicher Professor am Deutschen Seminar I der Klägerin zu 1, der Albert-Ludwigs-Universität Freiburg (im Folgenden: Klägerin). Er …
+- [BGH, Beschluss vom 24.05.2007 - I ZR 150/06](i-zr-150-06.md) — BGH, Beschluss vom 24.05.2007 - I ZR 150/06
+- [BGH, Urteil vom 24.05.2007 - I ZR 42/04](i-zr-42-04.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2007 - I ZR 106/05](i-zr-106-05.md) — 3Tatbestand:
 - [BGH, Urteil vom 03.05.2007 - I ZR 109/04](i-zr-109-04.md) — eines unterlassenen Hinweises auf die Gefahr eines ungewöhnlich hohen Schadens in der Regel zu verneinen.
+- [BGH, Beschluss vom 03.05.2007 - I ZR 137/05](i-zr-137-05.md) — I. Der Kläger betreibt in E. eine Rechtsanwaltskanzlei und ist Fach- anwalt für Arbeitsrecht. Er hat sich mit seiner Unterlassungsklage gegen eine Werbung der Beklagten für ihre …
+- [BGH, Urteil vom 03.05.2007 - I ZR 175/05](i-zr-175-05.md) — 3Tatbestand:
+- [BGH, Beschluss vom 03.05.2007 - I ZR 179/06](i-zr-179-06.md) — der sehr geringen Ähnlichkeit der Branchen und der geringen Zeichenähnlichkeit eine Verwechslungsgefahr zu verneinen, ist aus Rechtsgründen
 - [BGH, Urteil vom 03.05.2007 - I ZR 19/05](i-zr-19-05.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2007 - I ZR 85/05](i-zr-85-05.md) — 3-
+- [BGH, Urteil vom 03.05.2007 - I ZR 98/05](i-zr-98-05.md) — 3Tatbestand:
 - [BGH, Beschluss vom 26.04.2007 - I ZB 82/06](i-zb-82-06.md) — BGH, Beschluss vom 26.04.2007 - I ZB 82/06
 - [BGH, Urteil vom 26.04.2007 - I ZR 120/04](i-zr-120-04.md) — 3Tatbestand:
 - [BGH, Beschluss vom 26.04.2007 - I ZR 190/04](i-zr-190-04.md) — I. Die Beklagte, ein Versicherungsunternehmen, bietet Kraftfahrzeugver- sicherungen an. Sie wirbt Kunden ausschließlich über das Internet. Auf ihren Internetseiten gibt die …
+- [BGH, Urteil vom 26.04.2007 - I ZR 31/05](i-zr-31-05.md) — Tatbestand:
 - [BGH, Urteil vom 26.04.2007 - I ZR 34/05](i-zr-34-05.md) — der Rechtsnachfolge und der Fortführung des Betriebs angenommen werden.
+- [BGH, Urteil vom 26.04.2007 - I ZR 70/04](i-zr-70-04.md) — Tatbestand:
+- [BGH, Beschluss vom 19.04.2007 - I ZB 47/06](i-zb-47-06.md) — Verletzung ihrer international registrierten Bildmarke Nr.
 - [BGH, Beschluss vom 19.04.2007 - I ZB 5/07](i-zb-5-07.md) — Die vom Schuldner erhobene Anhörungsrüge gemäß § 321a Abs.
+- [BGH, Urteil vom 19.04.2007 - I ZR 35/04](i-zr-35-04.md) — Tatbestand:
 - [BGH, Urteil vom 19.04.2007 - I ZR 57/05](i-zr-57-05.md) — Tatbestand:
+- [BGH, Urteil vom 19.04.2007 - I ZR 90/04](i-zr-90-04.md) — Tatbestand:
 - [BGH, Urteil vom 19.04.2007 - I ZR 92/04](i-zr-92-04.md) — Tatbestand:
+- [BGH, Beschluss vom 10.04.2007 - I ZB 15/06](i-zb-15-06.md) — Verletzung der Gemeinschaftsmarke Nr. 002 223 097
+- [BGH, Urteil vom 29.03.2007 - I ZR 122/04](i-zr-122-04.md) — Tatbestand:
+- [BGH, Urteil vom 29.03.2007 - I ZR 152/04](i-zr-152-04.md) — Tatbestand:
+- [BGH, Urteil vom 29.03.2007 - I ZR 164/04](i-zr-164-04.md) — 3Tatbestand:
+- [BGH, Urteil vom 21.03.2007 - I ZR 166/04](i-zr-166-04.md) — Tatbestand:
 - [BGH, Urteil vom 21.03.2007 - I ZR 184/03](i-zr-184-03.md) — Tatbestand:
+- [BGH, Urteil vom 21.03.2007 - I ZR 246/02](i-zr-246-02.md) — 3Tatbestand:
 - [BGH, Urteil vom 21.03.2007 - I ZR 66/04](i-zr-66-04.md) — Tatbestand:
+- [BGH, Beschluss vom 01.03.2007 - I ZB 33/06](i-zb-33-06.md) — I. Die Widersprechende ist Inhaberin der für "Filterzigaretten" aufgrund von Verkehrsdurchsetzung eingetragenen Marke Nr. 1 152 164 WEST. -3- Aus dieser Marke hat sie gegen die …
+- [BGH, Beschluss vom 01.03.2007 - I ZR 132/06](i-zr-132-06.md) — BGH, Beschluss vom 01.03.2007 - I ZR 132/06
 - [BGH, Beschluss vom 01.03.2007 - I ZR 249/02](i-zr-249-02.md) — I. Die Klägerin, eine der 16 Gesellschafterinnen des Deutschen Lotto- und Totoblocks, betreibt in N. u.a. das sogenannte "Mitt- wochs-Lotto" und das "Samstags-Lotto". Zusammen mit …
+- [BGH, Urteil vom 01.03.2007 - I ZR 51/04](i-zr-51-04.md) — Tatbestand:
+- [BGH, Urteil vom 01.03.2007 - I ZR 79/04](i-zr-79-04.md) — Tatbestand:
+- [BGH, Beschluss vom 15.02.2007 - I ZB 36/06](i-zb-36-06.md) — I. Die Antragstellerin erwirkte eine einstweilige Verfügung des Landge- richts Stuttgart, durch die der Antragsgegnerin aufgegeben wurde, u.a. die Fahrzeugbriefe näher …
+- [BGH, Beschluss vom 15.02.2007 - I ZB 46/06](i-zb-46-06.md) — I. Für die Markeninhaberin wurde am 16. Oktober 2000 die Wortmarke ALLTREK unter anderem für Waren der Klasse 12 "Personenkraftwagen und deren konstruktionsgebundene Teile" …
 - [BGH, Beschluss vom 15.02.2007 - I ZB 73/06](i-zb-73-06.md) — I. Der Beklagte ist Verwalter in dem am 24. November 2005 auf Antrag der Klägerin eröffneten Insolvenzverfahren über das Vermögen der M. Produktions GmbH. Er begehrt in einem …
 - [BGH, Urteil vom 15.02.2007 - I ZR 114/04](i-zr-114-04.md) — BGH, Urteil vom 15.02.2007 - I ZR 114/04
+- [BGH, Urteil vom 15.02.2007 - I ZR 118/04](i-zr-118-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2007 - I ZR 186/03](i-zr-186-03.md) — eines Organisationsverschuldens leichtfertig und in dem Bewusstsein gehandelt hat, dass ein Schaden mit Wahrscheinlichkeit eintreten werde (
+- [BGH, Beschluss vom 15.02.2007 - I ZR 251/02](i-zr-251-02.md) — I. Die Beklagte, eine der 16 Gesellschafterinnen des Deutschen Lotto- und Totoblocks, betreibt in N. u.a. das sogenannte "Mitt- wochs-Lotto" und das "Samstags-Lotto". Zusammen mit …
+- [BGH, Urteil vom 15.02.2007 - I ZR 40/04](i-zr-40-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2007 - I ZR 63/04](i-zr-63-04.md) — Tatbestand:
+- [BGH, Beschluss vom 08.02.2007 - I ZR 182/04](i-zr-182-04.md) — des unmittelbaren zeitlichen und inhaltlichen Zusammenhangs zwischen der Rücktrittserklärung des Klägers und der Veröffentlichung der Werbea
+- [BGH, Urteil vom 08.02.2007 - I ZR 59/04](i-zr-59-04.md) — Tatbestand:
 - [BGH, Urteil vom 08.02.2007 - I ZR 71/04](i-zr-71-04.md) — Tatbestand:
+- [BGH, Urteil vom 08.02.2007 - I ZR 77/04](i-zr-77-04.md) — Tatbestand:
 - [BGH, Beschluss vom 25.01.2007 - I ZB 58/06](i-zb-58-06.md) — A. Durch rechtskräftiges Urteil vom 26. Februar 2002 hat das Amtsgericht den Schuldner unter Androhung von Ordnungsgeld bis zu 250.000 €, ersatz- weise Ordnungshaft bis zu sechs …
 - [BGH, Urteil vom 25.01.2007 - I ZR 133/04](i-zr-133-04.md) — 3Tatbestand:
+- [BGH, Urteil vom 25.01.2007 - I ZR 22/04](i-zr-22-04.md) — Tatbestand:
+- [BGH, Urteil vom 25.01.2007 - I ZR 43/04](i-zr-43-04.md) — Tatbestand:
 - [BGH, Beschluss vom 23.01.2007 - I ZB 42/06](i-zb-42-06.md) — eines Transportschadens aus übergegangenem
 - [BGH, Urteil vom 11.01.2007 - I ZR 167/04](i-zr-167-04.md) — Tatbestand:
 - [BGH, Urteil vom 11.01.2007 - I ZR 177/04](i-zr-177-04.md) — Tatbestand:

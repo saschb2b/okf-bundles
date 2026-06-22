@@ -1,13 +1,26 @@
 # 1. Strafsenat – 2005
 
-52 Entscheidung(en).
+141 Entscheidung(en).
 
 - [BGH, Beschluss vom 15.12.2005 - 1 StR 411/05](1-str-411-05.md) — schweren Bandendiebstahls u.a.
+- [BGH, Beschluss vom 14.12.2005 - 1 StR 420/05](1-str-420-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 13.12.2005 - 1 StR 410/05](1-str-410-05.md) — Körperverletzung mit Todesfolge u.a.
+- [BGH, Beschluss vom 13.12.2005 - 1 StR 513/05](1-str-513-05.md) — Betrugs u. a.
+- [BGH, Beschluss vom 08.12.2005 - 1 StR 482/05](1-str-482-05.md) — nachträglicher Anordnung der Sicherungsverwahrung
+- [BGH, Urteil vom 07.12.2005 - 1 StR 287/05](1-str-287-05.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 07.12.2005 - 1 StR 391/05](1-str-391-05.md) — Totschlags u. a.
+- [BGH, Beschluss vom 06.12.2005 - 1 StR 347/05](1-str-347-05.md) — schwerer Körperverletzung
+- [BGH, Urteil vom 06.12.2005 - 1 StR 441/05](1-str-441-05.md) — nachträglicher Anordnung der Sicherungsverwahrung
 - [BGH, Beschluss vom 06.12.2005 - 1 StR 445/05](1-str-445-05.md) — Betruges u.a.
 - [BGH, Beschluss vom 24.11.2005 - 1 StR 169/05](1-str-169-05.md) — Brandstiftung u.a.
 - [BGH, Beschluss vom 24.11.2005 - 1 StR 443/05](1-str-443-05.md) — Geldfälschung u.a.
 - [BGH, Beschluss vom 24.11.2005 - 1 StR 464/05](1-str-464-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 23.11.2005 - 1 StR 436/05](1-str-436-05.md) — verspäteter Einlegung als unzulässig verworfen worden ist, ist daher aufzuheben (st. Rspr.; vgl. u. a. BGH NStZ-RR 2004, 50; BGH, Beschluss
+- [BGH, Beschluss vom 23.11.2005 - 1 StR 454/05](1-str-454-05.md) — schweren sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 23.11.2005 - 1 StR 474/05](1-str-474-05.md) — Geiselnahme u.a.
+- [BGH, Beschluss vom 22.11.2005 - 1 StR 432/05](1-str-432-05.md) — nachträglicher Sicherungsverwahrung
+- [BGH, Urteil vom 22.11.2005 - 1 StR 571/04](1-str-571-04.md) — Veröffentlichung: ja _______________________ StGB § 266 Zur Untreue durch Geldtransferleistungen innerhalb einer Unternehmensgruppe. BGH, Urteil vom 22. November 2005 - 1 StR …
+- [BGH, Urteil vom 09.11.2005 - 1 StR 234/05](1-str-234-05.md) — Totschlags
 - [BGH, Beschluss vom 09.11.2005 - 1 StR 447/05](1-str-447-05.md) — Verletzung der §§ 136 Abs. 1 Satz 2, 163a Abs. 4 Satz 2 StPO oder sonstiger Belehrungspflichten aus dem Grundsatz des fairen Verfahrens kann
 - [BGH, Beschluss vom 09.11.2005 - 1 StR 478/05](1-str-478-05.md) — Betruges
 - [BGH, Beschluss vom 08.11.2005 - 1 StR 268/05](1-str-268-05.md) — versuchten schweren Raubes u.a.
@@ -17,40 +30,116 @@
 - [BGH, Entscheidung vom 26.10.2005 - 1 StR 412/05](1-str-412-05.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 26.10.2005 - 1 StR 435/05](1-str-435-05.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 25.10.2005 - 1 StR 320/05](1-str-320-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 25.10.2005 - 1 StR 324/05](1-str-324-05.md) — Entscheidung über die Anordnung der vorbehaltenen Sicherungsverwahrung
 - [BGH, Beschluss vom 25.10.2005 - 1 StR 328/05](1-str-328-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 25.10.2005 - 1 StR 416/05](1-str-416-05.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 19.10.2005 - 1 StR 117/05](1-str-117-05.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 18.10.2005 - 1 StR 114/05](1-str-114-05.md) — Mordes
 - [BGH, Beschluss vom 18.10.2005 - 1 StR 365/05](1-str-365-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 13.10.2005 - 1 StR 386/05](1-str-386-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 13.10.2005 - 1 StR 396/05](1-str-396-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 13.10.2005 - 1 StR 429/05](1-str-429-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.10.2005 - 1 StR 255/05](1-str-255-05.md) — gewerbsmäßig begangener Fälschung von Zahlungskarten u.a.
 - [BGH, Beschluss vom 12.10.2005 - 1 StR 364/05](1-str-364-05.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 12.10.2005 - 1 StR 369/05](1-str-369-05.md) — Totschlags
+- [BGH, Urteil vom 11.10.2005 - 1 StR 195/05](1-str-195-05.md) — Totschlags u.a.
 - [BGH, Urteil vom 11.10.2005 - 1 StR 250/05](1-str-250-05.md) — zu 1. Verdachts des Mordes zu 2. Verdachts der Anstiftung zum Mord
 - [BGH, Beschluss vom 11.10.2005 - 1 StR 344/05](1-str-344-05.md) — zu 1. u. 3.: bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 20.09.2005 - 1 StR 288/05](1-str-288-05.md) — Körperverletzung mit Todesfolge
 - [BGH, Urteil vom 20.09.2005 - 1 StR 86/05](1-str-86-05.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 19.09.2005 - 1 StR 274/05](1-str-274-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 19.09.2005 - 1 StR 296/05](1-str-296-05.md) — sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 19.09.2005 - 1 StR 349/05](1-str-349-05.md) — Wohnungseinbruchdiebstahls u. a.
+- [BGH, Beschluss vom 19.09.2005 - 1 StR 375/05](1-str-375-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 09.09.2005 - 1 StR 181/05](1-str-181-05.md) — Fälschung von Zahlungskarten u. a.
+- [BGH, Urteil vom 08.09.2005 - 1 StR 159/05](1-str-159-05.md) — Mordes u.a.
 - [BGH, Entscheidung vom 08.09.2005 - 1 StR 323/05](1-str-323-05.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 06.09.2005 - 1 StR 363/05](1-str-363-05.md) — Vergewaltigung
 - [BGH, Beschluss vom 06.09.2005 - 1 StR 366/05](1-str-366-05.md) — Vergewaltigung
 - [BGH, Beschluss vom 24.08.2005 - 1 StR 162/05](1-str-162-05.md) — Körperverletzung
+- [BGH, Beschluss vom 24.08.2005 - 1 StR 333/05](1-str-333-05.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 24.08.2005 - 1 StR 335/05](1-str-335-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.08.2005 - 1 StR 262/05](1-str-262-05.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 23.08.2005 - 1 StR 350/05](1-str-350-05.md) — StPO § 338 Nr. 1, GVG § 76 Abs. 2 Die Entscheidung über die Besetzung der Großen Strafkammer in der Hauptverhandlung (§ 76 Abs. 2 GVG) kann nicht deshalb geändert werden, weil …
+- [BGH, Urteil vom 10.08.2005 - 1 StR 140/05](1-str-140-05.md) — Veröffentlichung: ja _________________ Art. 13 Abs. 1 GG; StPO § 100c, § 100d Ein in einem Krankenzimmer mittels akustischer Wohnraumüberwachung aufgezeichnetes Selbstgespräch des …
 - [BGH, Beschluss vom 10.08.2005 - 1 StR 271/05](1-str-271-05.md) — besonders schwerer Vergewaltigung
 - [BGH, Urteil vom 09.08.2005 - 1 StR 99/05](1-str-99-05.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 27.07.2005 - 1 StR 208/05](1-str-208-05.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 27.07.2005 - 1 StR 279/05](1-str-279-05.md) — Untreue u.a.
 - [BGH, Beschluss vom 22.07.2005 - 1 StR 84/05](1-str-84-05.md) — versuchter Anstiftung zum Mord
+- [BGH, Beschluss vom 21.07.2005 - 1 StR 78/05](1-str-78-05.md) — Betrugs
+- [BGH, Beschluss vom 13.07.2005 - 1 StR 153/05](1-str-153-05.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 13.07.2005 - 1 StR 170/05](1-str-170-05.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 13.07.2005 - 1 StR 184/05](1-str-184-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 13.07.2005 - 1 StR 226/05](1-str-226-05.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 13.07.2005 - 1 StR 253/05](1-str-253-05.md) — schweren Bandendiebstahls
 - [BGH, Beschluss vom 12.07.2005 - 1 StR 258/05](1-str-258-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 12.07.2005 - 1 StR 65/05](1-str-65-05.md) — schwerer Körperverletzung
 - [BGH, Beschluss vom 30.06.2005 - 1 StR 176/05](1-str-176-05.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 30.06.2005 - 1 StR 227/05](1-str-227-05.md) — versuchter Anstiftung zum Totschlag
 - [BGH, Urteil vom 29.06.2005 - 1 StR 149/05](1-str-149-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 29.06.2005 - 1 StR 222/05](1-str-222-05.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 28.06.2005 - 1 StR 156/05](1-str-156-05.md) — Mordes u. a.
 - [BGH, Beschluss vom 28.06.2005 - 1 StR 177/05](1-str-177-05.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 28.06.2005 - 1 StR 178/05](1-str-178-05.md) — schwerer Körperverletzung
+- [BGH, Beschluss vom 28.06.2005 - 1 StR 187/05](1-str-187-05.md) — Veröffentlichung: ja __________________ BtMG § 31 Nr. 1, Nr. 2 Die Kooperation eines Beschuldigten mit den Ermittlungsbehörden, wodurch bislang nicht bekannte oder an unbekanntem …
 - [BGH, Beschluss vom 28.06.2005 - 1 StR 235/05](1-str-235-05.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 16.06.2005 - 1 StR 152/05](1-str-152-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 15.06.2005 - 1 StR 202/05](1-str-202-05.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 15.06.2005 - 1 StR 491/04](1-str-491-04.md) — Bestechlichkeit u.a.
 - [BGH, Urteil vom 15.06.2005 - 1 StR 499/04](1-str-499-04.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Urteil vom 14.06.2005 - 1 StR 338/04](1-str-338-04.md) — vorsätzlicher unerlaubter Ausfuhr u.a.
+- [BGH, Urteil vom 14.06.2005 - 1 StR 503/04](1-str-503-04.md) — ______________________ StGB § 31 Abs. 2 Alt. 1 Glaubt der Anstifter, sein objektiv fehlgeschlagener Bestimmungsversuch sei gelungen, so richtet sich sein Rücktritt vom Versuch der …
+- [BGH, Beschluss vom 07.06.2005 - 1 StR 198/05](1-str-198-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 02.06.2005 - 1 StR 183/05](1-str-183-05.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 01.06.2005 - 1 StR 100/05](1-str-100-05.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 01.06.2005 - 1 StR 160/05](1-str-160-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 31.05.2005 - 1 StR 154/05](1-str-154-05.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 31.05.2005 - 1 StR 158/05](1-str-158-05.md) — Betruges
 - [BGH, Urteil vom 31.05.2005 - 1 StR 290/04](1-str-290-04.md) — Mordes
+- [BGH, Beschluss vom 12.05.2005 - 1 StR 147/05](1-str-147-05.md) — Betruges
 - [BGH, Urteil vom 11.05.2005 - 1 StR 37/05](1-str-37-05.md) — nachträglicher Anordnung der Sicherungsverwahrung
+- [BGH, Beschluss vom 10.05.2005 - 1 StR 133/05](1-str-133-05.md) — schweren Menschenhandels u.a.
+- [BGH, Urteil vom 10.05.2005 - 1 StR 30/05](1-str-30-05.md) — Mordes
+- [BGH, Beschluss vom 10.05.2005 - 1 StR 75/05](1-str-75-05.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 20.04.2005 - 1 StR 110/05](1-str-110-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 20.04.2005 - 1 StR 120/05](1-str-120-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 20.04.2005 - 1 StR 123/05](1-str-123-05.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 20.04.2005 - 1 StR 552/04](1-str-552-04.md) — Beihilfe zur gefährlichen Körperverletzung
+- [BGH, Beschluss vom 19.04.2005 - 1 StR 25/05](1-str-25-05.md) — Geldwäsche u.a.
 - [BGH, Urteil vom 07.04.2005 - 1 StR 326/04](1-str-326-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 06.04.2005 - 1 StR 105/05](1-str-105-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 06.04.2005 - 1 StR 60/05](1-str-60-05.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 05.04.2005 - 1 StR 93/05](1-str-93-05.md) — Hehlerei
+- [BGH, Beschluss vom 30.03.2005 - 1 StR 139/04](1-str-139-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Entscheidung vom 30.03.2005 - 1 StR 537/04](1-str-537-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 30.03.2005 - 1 StR 67/05](1-str-67-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 21.03.2005 - 1 StR 299/04](1-str-299-04.md) — Betruges
 - [BGH, Beschluss vom 17.03.2005 - 1 StR 82/05](1-str-82-05.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 16.03.2005 - 1 StR 43/05](1-str-43-05.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 16.03.2005 - 1 StR 55/05](1-str-55-05.md) — Körperverletzung mit Todesfolge u.a.
 - [BGH, Beschluss vom 24.02.2005 - 1 StR 33/05](1-str-33-05.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 23.02.2005 - 1 StR 23/05](1-str-23-05.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.02.2005 - 1 StR 501/04](1-str-501-04.md) — Erschleichens von Aufenthaltstiteln
+- [BGH, Beschluss vom 23.02.2005 - 1 StR 554/04](1-str-554-04.md) — gewerbsmäßiger Bandenhehlerei u.a.
+- [BGH, Beschluss vom 18.02.2005 - 1 StR 40/05](1-str-40-05.md) — Untreue
+- [BGH, Beschluss vom 16.02.2005 - 1 StR 17/05](1-str-17-05.md) — unerlaubter Abgabe von Betäubungsmitteln an eine Person unter 18 Jahren u.a.
+- [BGH, Beschluss vom 15.02.2005 - 1 StR 562/04](1-str-562-04.md) — Diebstahls u. a.
+- [BGH, Beschluss vom 15.02.2005 - 1 StR 584/04](1-str-584-04.md) — versuchten Mordes u.a.
 - [BGH, Urteil vom 15.02.2005 - 1 StR 91/04](1-str-91-04.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 03.02.2005 - 1 StR 1/05](1-str-1-05.md) — zu 1.: versuchten schweren Raubes u.a. zu 2.: versuchten Mordes u.a.
+- [BGH, Urteil vom 02.02.2005 - 1 StR 473/04](1-str-473-04.md) — Totschlags
+- [BGH, Urteil vom 01.02.2005 - 1 StR 327/04](1-str-327-04.md) — versuchten Mordes u. a.
+- [BGH, Urteil vom 01.02.2005 - 1 StR 422/04](1-str-422-04.md) — fahrlässiger Tötung u. a.
+- [BGH, Beschluss vom 27.01.2005 - 1 StR 396/04](1-str-396-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 27.01.2005 - 1 StR 495/04](1-str-495-04.md) — Mordes
+- [BGH, Beschluss vom 27.01.2005 - 1 StR 549/04](1-str-549-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 26.01.2005 - 1 StR 523/04](1-str-523-04.md) — Mordes u.a.
+- [BGH, Beschluss vom 25.01.2005 - 1 StR 502/04](1-str-502-04.md) — Mordes
+- [BGH, Beschluss vom 13.01.2005 - 1 StR 531/04](1-str-531-04.md) — falscher Verdächtigung u.a.
+- [BGH, Beschluss vom 13.01.2005 - 1 StR 540/04](1-str-540-04.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 13.01.2005 - 1 StR 563/04](1-str-563-04.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 12.01.2005 - 1 StR 476/04](1-str-476-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 11.01.2005 - 1 StR 478/04](1-str-478-04.md) — Mordes
+- [BGH, Beschluss vom 11.01.2005 - 1 StR 498/04](1-str-498-04.md) — Veröffentlichung: ja ___________________________ §§ 68a, 77, 241 Abs. 2, 244 Abs. 2 bis 4 StPO Auch im Rahmen der vorrangigen Verpflichtung zur Wahrheitsermittlung ist auf die …
+- [BGH, Beschluss vom 11.01.2005 - 1 StR 547/04](1-str-547-04.md) — Beihilfe zur Fälschung von Zahlungskarten

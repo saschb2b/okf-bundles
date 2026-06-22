@@ -1,44 +1,92 @@
 # XI. Zivilsenat – 2004
 
-40 Entscheidung(en).
+88 Entscheidung(en).
 
+- [BGH, Urteil vom 21.12.2004 - XI ZR 17/03](xi-zr-17-03.md) — 3-
+- [BGH, Beschluss vom 14.12.2004 - XI ZB 20/04](xi-zb-20-04.md) — I. Mit Urteil des Landgerichts vom 3. Dezember 2003 ist die Klage der Kläger abgewiesen worden. Dieses Urteil ist dem Prozeßbevollmächtigten der Kläger ausweislich des auf dem …
 - [BGH, Urteil vom 14.12.2004 - XI ZR 142/03](xi-zr-142-03.md) — Tatbestand:
+- [BGH, Beschluss vom 09.12.2004 - XI ZR 39/04](xi-zr-39-04.md) — der Begründung nimmt der Senat auf das Schreiben seines Vorsitzenden vom 19. Oktober 2004 Bezug (§ 522 Abs. 2 Satz 3 ZPO). Das Vorbringen de
+- [BGH, Urteil vom 07.12.2004 - XI ZR 361/03](xi-zr-361-03.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2004 - XI ZR 366/03](xi-zr-366-03.md) — Tatbestand:
+- [BGH, Beschluss vom 30.11.2004 - XI ZB 5/04](xi-zb-5-04.md) — I. Der Beklagte hat gegen das der Klage stattgebende und ihm am 12. August 2003 zugestellte Urteil des Landgerichts fristgerecht Berufung eingelegt. Mit einem am 13. Oktober 2003 …
+- [BGH, Urteil vom 30.11.2004 - XI ZR 200/03](xi-zr-200-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.11.2004 - XI ZR 285/03](xi-zr-285-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.11.2004 - XI ZR 49/04](xi-zr-49-04.md) — Tatbestand:
 - [BGH, Beschluss vom 23.11.2004 - XI ZB 4/04](xi-zb-4-04.md) — BGH, Beschluss vom 23.11.2004 - XI ZB 4/04
+- [BGH, Urteil vom 23.11.2004 - XI ZR 137/03](xi-zr-137-03.md) — Tatbestand:
 - [BGH, Beschluss vom 23.11.2004 - XI ZR 240/03](xi-zr-240-03.md) — BGH, Beschluss vom 23.11.2004 - XI ZR 240/03
 - [BGH, Beschluss vom 23.11.2004 - XI ZR 267/03](xi-zr-267-03.md) — BGH, Beschluss vom 23.11.2004 - XI ZR 267/03
 - [BGH, Beschluss vom 23.11.2004 - XI ZR 27/04](xi-zr-27-04.md) — BGH, Beschluss vom 23.11.2004 - XI ZR 27/04
 - [BGH, Beschluss vom 23.11.2004 - XI ZR 274/03](xi-zr-274-03.md) — BGH, Beschluss vom 23.11.2004 - XI ZR 274/03
+- [BGH, Beschluss vom 09.11.2004 - XI ZB 6/04](xi-zb-6-04.md) — Arbeitsüberlastung eine weitere Fristverlängerung bis zum 23. Oktober 2003 beantragt und mitgeteilt, der gegnerische Prozeßbevollmächtigte h
+- [BGH, Urteil vom 09.11.2004 - XI ZR 315/03](xi-zr-315-03.md) — Tatbestand:
+- [BGH, Urteil vom 26.10.2004 - XI ZR 211/03](xi-zr-211-03.md) — Tatbestand:
+- [BGH, Urteil vom 26.10.2004 - XI ZR 255/03](xi-zr-255-03.md) — Tatbestand:
 - [BGH, Urteil vom 26.10.2004 - XI ZR 279/03](xi-zr-279-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.10.2004 - XI ZR 337/03](xi-zr-337-03.md) — Tatbestand:
+- [BGH, Urteil vom 05.10.2004 - XI ZR 210/03](xi-zr-210-03.md) — Tatbestand:
 - [BGH, Beschluss vom 28.09.2004 - XI ZB 23/04](xi-zb-23-04.md) — BGH, Beschluss vom 28.09.2004 - XI ZB 23/04
 - [BGH, Urteil vom 28.09.2004 - XI ZR 259/03](xi-zr-259-03.md) — Tatbestand:
 - [BGH, Beschluss vom 21.09.2004 - XI ZB 7/04](xi-zb-7-04.md) — BGH, Beschluss vom 21.09.2004 - XI ZB 7/04
+- [BGH, Beschluss vom 14.09.2004 - XI ZB 21/03](xi-zb-21-03.md) — I. Der Kläger legte gegen das klageabweisende Urteil des Landgerichts, das ihm am 8. Januar 2003 zugestellt worden war, Berufung ein. Diese wurde nicht innerhalb der am 10. März …
 - [BGH, Urteil vom 14.09.2004 - XI ZR 10/04](xi-zr-10-04.md) — Tatbestand:
+- [BGH, Urteil vom 14.09.2004 - XI ZR 11/04](xi-zr-11-04.md) — Fehlens der gemäß § 4 Abs. 1 Satz 4 Nr. 1 b Satz 2 VerbrKrG erforderlichen Angabe des Gesamtbetrags aller vom Verbraucher zu erbringenden Le
 - [BGH, Urteil vom 14.09.2004 - XI ZR 12/04](xi-zr-12-04.md) — Tatbestand:
+- [BGH, Urteil vom 14.09.2004 - XI ZR 184/03](xi-zr-184-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.09.2004 - XI ZR 248/03](xi-zr-248-03.md) — Tatbestand:
+- [BGH, Beschluss vom 14.09.2004 - XI ZR 302/03](xi-zr-302-03.md) — BGH, Beschluss vom 14.09.2004 - XI ZR 302/03
 - [BGH, Beschluss vom 14.09.2004 - XI ZR 307/03](xi-zr-307-03.md) — Die Nichtzulassungsbeschwerde ist unbegründet.
+- [BGH, Urteil vom 14.09.2004 - XI ZR 330/03](xi-zr-330-03.md) — Tatbestand:
+- [BGH, Beschluss vom 14.09.2004 - XI ZR 354/03](xi-zr-354-03.md) — Die Nichtzulassungsbeschwerde hat keinen Erfolg.
+- [BGH, Beschluss vom 13.07.2004 - XI ZB 33/03](xi-zb-33-03.md) — des weitergehenden Zinsanspruchs hat es die Klage abgewiesen. Hiergegen richtet sich die am 28. Mai 2003 bei Gericht eingegangene Berufung d
+- [BGH, Beschluss vom 13.07.2004 - XI ZB 34/03](xi-zb-34-03.md) — des weitergehenden Zinsanspruchs hat es die Klage abgewiesen. Hiergegen richtet sich die am 28. Mai 2003 bei Gericht eingegangene Berufung d
 - [BGH, Beschluss vom 13.07.2004 - XI ZB 35/03](xi-zb-35-03.md) — des weitergehenden Zinsanspruchs hat es die Klage abgewiesen. Hiergegen richtet sich die am 28. Mai 2003 bei Gericht eingegangene Berufung d
 - [BGH, Beschluss vom 13.07.2004 - XI ZB 38/03](xi-zb-38-03.md) — des weitergehenden Zinsanspruchs hat es die Klage abgewiesen. Hiergegen richtet sich die am 28. Mai 2003 bei Gericht eingegangene Berufung d
 - [BGH, Urteil vom 13.07.2004 - XI ZR 12/03](xi-zr-12-03.md) — 3-
+- [BGH, Urteil vom 13.07.2004 - XI ZR 132/03](xi-zr-132-03.md) — Tatbestand:
+- [BGH, Urteil vom 13.07.2004 - XI ZR 178/03](xi-zr-178-03.md) — Tatbestand:
 - [BGH, Urteil vom 06.07.2004 - XI ZR 250/02](xi-zr-250-02.md) — 3-
-- [BGH, Urteil vom 06.07.2004 - XI ZR 254/02](xi-zr-254-02.md) — eines weitergehenden Zinsanspruchs von 1% für die Zeit ab dem 18. Februar 1999 abgewiesen und die Klägerin auf den Widerklageantrag zu 5) zu
+- [BGH, Versäumnisurteil vom 22.06.2004 - XI ZR 153/03](xi-zr-153-03.md) — 3-
+- [BGH, Urteil vom 22.06.2004 - XI ZR 90/03](xi-zr-90-03.md) — Tatbestand:
+- [BGH, Urteil vom 15.06.2004 - XI ZR 220/03](xi-zr-220-03.md) — Tatbestand:
+- [BGH, Urteil vom 08.06.2004 - XI ZR 150/03](xi-zr-150-03.md) — Tatbestand:
 - [BGH, Urteil vom 08.06.2004 - XI ZR 167/02](xi-zr-167-02.md) — Tatbestand:
 - [BGH, Beschluss vom 08.06.2004 - XI ZR 385/03](xi-zr-385-03.md) — BGH, Beschluss vom 08.06.2004 - XI ZR 385/03
+- [BGH, Beschluss vom 11.05.2004 - XI ZB 39/03](xi-zb-39-03.md) — I. Der Beklagte zu 2) ist vom Landgericht zur Zahlung verurteilt worden. Sein Prozeßbevollmächtigter hat gegen das am 1. Juli 2003 zugestellte Urteil am 29. Juli 2003 Berufung …
+- [BGH, Urteil vom 11.05.2004 - XI ZR 22/03](xi-zr-22-03.md) — Tatbestand:
 - [BGH, Urteil vom 04.05.2004 - XI ZR 40/03](xi-zr-40-03.md) — zu berücksichtigen ist. Das Berufungsgericht darf diesbezügliches Vorbringen daher nicht als verspätet zurückweisen.
 - [BGH, Urteil vom 04.05.2004 - XI ZR 41/03](xi-zr-41-03.md) — Tatbestand:
+- [BGH, Urteil vom 27.04.2004 - XI ZR 49/03](xi-zr-49-03.md) — Tatbestand:
+- [BGH, Urteil vom 20.04.2004 - XI ZR 164/03](xi-zr-164-03.md) — Tatbestand:
 - [BGH, Urteil vom 20.04.2004 - XI ZR 171/03](xi-zr-171-03.md) — Tatbestand:
 - [BGH, Beschluss vom 20.04.2004 - XI ZR 389/02](xi-zr-389-02.md) — nicht gehalten, ihrem Vorbringen zu entnehmen, daß die Beklagten aufgrund einer mündlichen Verhandlung in ihrer Wohnung zum Abschluß der Dar
 - [BGH, Beschluss vom 20.04.2004 - XI ZR 390/02](xi-zr-390-02.md) — nicht gehalten, ihrem Vorbringen zu entnehmen, daß die Beklagten aufgrund einer mündlichen Verhandlung in ihrer Wohnung zum Abschluß der Dar
+- [BGH, Beschluss vom 20.04.2004 - XI ZR 391/02](xi-zr-391-02.md) — nicht gehalten, ihrem Vorbringen zu entnehmen, daß die Beklagten aufgrund einer mündlichen Verhandlung in ihrer Wohnung zum Abschluß der Dar
+- [BGH, Beschluss vom 20.04.2004 - XI ZR 392/02](xi-zr-392-02.md) — nicht gehalten, seinem Vorbringen zu entnehmen, daß der Beklagte aufgrund einer mündlichen Verhandlung in seiner Wohnung zum Abschluß der Da
+- [BGH, Urteil vom 30.03.2004 - XI ZR 145/03](xi-zr-145-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.03.2004 - XI ZR 488/02](xi-zr-488-02.md) — 3-
 - [BGH, Urteil vom 23.03.2004 - XI ZR 114/03](xi-zr-114-03.md) — Tatbestand:
 - [BGH, Urteil vom 23.03.2004 - XI ZR 14/03](xi-zr-14-03.md) — Tatbestand:
 - [BGH, Urteil vom 23.03.2004 - XI ZR 194/02](xi-zr-194-02.md) — Tatbestand:
 - [BGH, Urteil vom 16.03.2004 - XI ZR 13/03](xi-zr-13-03.md) — Tatbestand:
 - [BGH, Urteil vom 16.03.2004 - XI ZR 169/03](xi-zr-169-03.md) — Tatbestand:
+- [BGH, Urteil vom 16.03.2004 - XI ZR 335/02](xi-zr-335-02.md) — der Aufhebung der Vollstreckungsmaßnahme erhöht, so liegt darin eine stillschweigende und nach § 350 HGB formfreie Änderung des Sicherungszw
 - [BGH, Urteil vom 16.03.2004 - XI ZR 60/03](xi-zr-60-03.md) — Tatbestand:
+- [BGH, Urteil vom 02.03.2004 - XI ZR 267/02](xi-zr-267-02.md) — 3-
+- [BGH, Urteil vom 02.03.2004 - XI ZR 288/02](xi-zr-288-02.md) — Tatbestand:
 - [BGH, Beschluss vom 17.02.2004 - XI ZB 37/03](xi-zb-37-03.md) — BGH, Beschluss vom 17.02.2004 - XI ZB 37/03
 - [BGH, Urteil vom 17.02.2004 - XI ZR 140/03](xi-zr-140-03.md) — Tatbestand:
 - [BGH, Beschluss vom 17.02.2004 - XI ZR 217/03](xi-zr-217-03.md) — BGH, Beschluss vom 17.02.2004 - XI ZR 217/03
+- [BGH, Urteil vom 10.02.2004 - XI ZR 36/03](xi-zr-36-03.md) — Tatbestand:
+- [BGH, Urteil vom 03.02.2004 - XI ZR 125/03](xi-zr-125-03.md) — Tatbestand:
+- [BGH, Urteil vom 03.02.2004 - XI ZR 398/02](xi-zr-398-02.md) — Tatbestand:
+- [BGH, Urteil vom 27.01.2004 - XI ZR 111/03](xi-zr-111-03.md) — Tatbestand:
+- [BGH, Urteil vom 27.01.2004 - XI ZR 37/03](xi-zr-37-03.md) — Tatbestand:
+- [BGH, Beschluss vom 27.01.2004 - XI ZR 401/02](xi-zr-401-02.md) — Die Gegenvorstellung gibt zu einer Änderung der Kostenentschei- dung keinen Anlaß.
+- [BGH, Urteil vom 20.01.2004 - XI ZR 460/02](xi-zr-460-02.md) — Tatbestand:
+- [BGH, Urteil vom 20.01.2004 - XI ZR 53/03](xi-zr-53-03.md) — Tatbestand:
 - [BGH, Urteil vom 20.01.2004 - XI ZR 69/02](xi-zr-69-02.md) — 3-
-- [BGH, Beschluss vom 13.01.2004 - XI ZR 105/03](xi-zr-105-03.md) — BGH, Beschluss vom 13.01.2004 - XI ZR 105/03
 - [BGH, Beschluss vom 13.01.2004 - XI ZR 35/01](xi-zr-35-01.md) — BGH, Beschluss vom 13.01.2004 - XI ZR 35/01
 - [BGH, Urteil vom 13.01.2004 - XI ZR 355/02](xi-zr-355-02.md) — 3-
 - [BGH, Urteil vom 13.01.2004 - XI ZR 479/02](xi-zr-479-02.md) — positiver Vertragsverletzung begründet.
+- [BGH, Urteil vom 13.01.2004 - XI ZR 5/03](xi-zr-5-03.md) — Tatbestand:

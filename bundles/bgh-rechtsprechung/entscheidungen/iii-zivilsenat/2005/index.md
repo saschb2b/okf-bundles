@@ -1,28 +1,51 @@
 # III. Zivilsenat – 2005
 
-56 Entscheidung(en).
+126 Entscheidung(en).
 
 - [BGH, Beschluss vom 21.12.2005 - III ZA 5/05](iii-za-5-05.md) — BGH, Beschluss vom 21.12.2005 - III ZA 5/05
+- [BGH, Beschluss vom 21.12.2005 - III ZB 73/05](iii-zb-73-05.md) — eines behaupteten
 - [BGH, Beschluss vom 21.12.2005 - III ZR 109/05](iii-zr-109-05.md) — BGH, Beschluss vom 21.12.2005 - III ZR 109/05
+- [BGH, Beschluss vom 21.12.2005 - III ZR 148/05](iii-zr-148-05.md) — Zahlungsrück-
 - [BGH, Beschluss vom 21.12.2005 - III ZR 29/05](iii-zr-29-05.md) — Verletzung seiner wasser-
 - [BGH, Beschluss vom 21.12.2005 - III ZR 32/05](iii-zr-32-05.md) — Der Senat ist davon überzeugt, dass die Voraussetzungen für die Zulas- sung der Revision nicht vorliegen und die Revision keine Aussicht auf Erfolg hat.
+- [BGH, Beschluss vom 21.12.2005 - III ZR 33/05](iii-zr-33-05.md) — Der Senat ist davon überzeugt, dass die Voraussetzungen für die Zulas- sung der Revision nicht vorliegen und die Revision keine Aussicht auf Erfolg hat.
 - [BGH, Beschluss vom 21.12.2005 - III ZR 333/04](iii-zr-333-04.md) — BGH, Beschluss vom 21.12.2005 - III ZR 333/04
 - [BGH, Beschluss vom 21.12.2005 - III ZR 34/05](iii-zr-34-05.md) — Der Senat ist davon überzeugt, dass die Voraussetzungen für die Zulas- sung der Revision nicht vorliegen und die Revision keine Aussicht auf Erfolg hat.
+- [BGH, Teilurteil vom 21.12.2005 - III ZR 451/04](iii-zr-451-04.md) — 3-
 - [BGH, Beschluss vom 21.12.2005 - III ZR 50/05](iii-zr-50-05.md) — Weder hat die Rechtssache grundsätzliche Bedeutung noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des …
 - [BGH, Beschluss vom 21.12.2005 - III ZR 87/05](iii-zr-87-05.md) — Amtspflichtverletzung auf
-- [BGH, Urteil vom 15.12.2005 - III ZR 10/05](iii-zr-10-05.md) — Tatbestand
+- [BGH, Urteil vom 21.12.2005 - III ZR 9/05](iii-zr-9-05.md) — Tatbestand
+- [BGH, Urteil vom 15.12.2005 - III ZR 424/04](iii-zr-424-04.md) — Tatbestand
+- [BGH, Urteil vom 15.12.2005 - III ZR 65/05](iii-zr-65-05.md) — Tatbestand
 - [BGH, Urteil vom 15.12.2005 - III ZR 66/05](iii-zr-66-05.md) — Tatbestand
+- [BGH, Urteil vom 08.12.2005 - III ZR 324/04](iii-zr-324-04.md) — Tatbestand
 - [BGH, Urteil vom 08.12.2005 - III ZR 99/05](iii-zr-99-05.md) — Tatbestand
+- [BGH, Urteil vom 01.12.2005 - III ZR 191/03](iii-zr-191-03.md) — Tatbestand
 - [BGH, Urteil vom 01.12.2005 - III ZR 43/05](iii-zr-43-05.md) — Tatbestand
+- [BGH, Beschluss vom 24.11.2005 - III ZR 4/05](iii-zr-4-05.md) — I. 1 Der Kläger, der die beklagte Bundesrepublik aus dem gemeinschafts- rechtlichen Staatshaftungsanspruch auf Schadensersatz in Höhe von 520.556,90 € und auf Feststellung ihrer …
 - [BGH, Versäumnisurteil vom 17.11.2005 - III ZR 16/05](iii-zr-16-05.md) — BGH, Versäumnisurteil vom 17.11.2005 - III ZR 16/05
 - [BGH, Urteil vom 17.11.2005 - III ZR 350/04](iii-zr-350-04.md) — 3-
+- [BGH, Urteil vom 10.11.2005 - III ZR 104/05](iii-zr-104-05.md) — Tatbestand
+- [BGH, Urteil vom 10.11.2005 - III ZR 72/05](iii-zr-72-05.md) — Tatbestand
+- [BGH, Urteil vom 10.11.2005 - III ZR 73/05](iii-zr-73-05.md) — Tatbestand
+- [BGH, Beschluss vom 27.10.2005 - III ZB 42/05](iii-zb-42-05.md) — I. 1 Mit seiner im Juli 2004 eingegangenen Vollstreckungsabwehrklage be- gehrte der Kläger die Unterlassung der Zwangsvollstreckung aus einem von der Beklagten erwirkten …
+- [BGH, Beschluss vom 27.10.2005 - III ZB 66/05](iii-zb-66-05.md) — grundsätzlicher Bedeutung der Rechtsfrage ist dem Spruchkörper in der im Gerichtsverfassungsgesetz vorgeschriebenen Besetzung vorbehalten; e
+- [BGH, Beschluss vom 27.10.2005 - III ZB 76/05](iii-zb-76-05.md) — I. 1 Das klageabweisende Urteil des Landgerichts ist der Klägerin am 13. Oktober 2004 zugestellt worden. Hiergegen hat sie am 15. November 2004, einem Montag, fristgerecht …
 - [BGH, Beschluss vom 27.10.2005 - III ZR 22/05](iii-zr-22-05.md) — grundsätzlicher Bedeu-
 - [BGH, Urteil vom 27.10.2005 - III ZR 31/05](iii-zr-31-05.md) — Tatbestand
 - [BGH, Beschluss vom 27.10.2005 - III ZR 56/05](iii-zr-56-05.md) — Die Beschwerde ist unzulässig. Der Wert der mit der Revision geltend zu machenden Beschwer übersteigt den nach § 26 Nr. 8 EGZPO erforderlichen Betrag von 20.000 € nicht. 2 Mit …
 - [BGH, Urteil vom 27.10.2005 - III ZR 59/05](iii-zr-59-05.md) — BGH, Urteil vom 27.10.2005 - III ZR 59/05
+- [BGH, Urteil vom 27.10.2005 - III ZR 71/05](iii-zr-71-05.md) — Tatbestand
+- [BGH, Beschluss vom 27.10.2005 - III ZR 90/05](iii-zr-90-05.md) — der
+- [BGH, Beschluss vom 27.10.2005 - III ZR 94/05](iii-zr-94-05.md) — BGH, Beschluss vom 27.10.2005 - III ZR 94/05
 - [BGH, Urteil vom 20.10.2005 - III ZR 37/05](iii-zr-37-05.md) — unter Vorbehalt gezahlten Entgelts für die Herstellung einer Verbindung zu einem Mehrwertdienst (Fortführung des Senatsurteils vom 28. Juli
+- [BGH, Urteil vom 13.10.2005 - III ZR 234/04](iii-zr-234-04.md) — 3-
+- [BGH, Urteil vom 13.10.2005 - III ZR 346/04](iii-zr-346-04.md) — Tatbestand
+- [BGH, Urteil vom 13.10.2005 - III ZR 400/04](iii-zr-400-04.md) — der Nutzung einer solchen Zusatzleistung auch keinen Bereicherungsanspruch.
 - [BGH, Urteil vom 06.10.2005 - III ZR 276/03](iii-zr-276-03.md) — Tatbestand
 - [BGH, Urteil vom 06.10.2005 - III ZR 367/04](iii-zr-367-04.md) — Tatbestand
+- [BGH, Urteil vom 29.09.2005 - III ZR 27/05](iii-zr-27-05.md) — Tatbestand
+- [BGH, Urteil vom 22.09.2005 - III ZR 295/04](iii-zr-295-04.md) — Tatbestand
 - [BGH, Urteil vom 22.09.2005 - III ZR 393/04](iii-zr-393-04.md) — Tatbestand
 - [BGH, Beschluss vom 21.09.2005 - III ZB 18/05](iii-zb-18-05.md) — BGH, Beschluss vom 21.09.2005 - III ZB 18/05
 - [BGH, Beschluss vom 15.09.2005 - III ZB 40/05](iii-zb-40-05.md) — Versäumnis der Berufungsfrist hat das Kammergericht als unbegründet zurückgewiesen. Die Rechtsbeschwerde der Beklagten gegen diese Entscheid
@@ -31,30 +54,77 @@
 - [BGH, Beschluss vom 15.09.2005 - III ZR 28/05](iii-zr-28-05.md) — BGH, Beschluss vom 15.09.2005 - III ZR 28/05
 - [BGH, Beschluss vom 15.09.2005 - III ZR 408/04](iii-zr-408-04.md) — BGH, Beschluss vom 15.09.2005 - III ZR 408/04
 - [BGH, Beschluss vom 15.09.2005 - III ZR 439/04](iii-zr-439-04.md) — Amtspflichtverletzung auf Zahlung von 603.916,25 € nebst Zinsen in Anspruch genommen. Landgericht und Oberlandesgericht haben die Klage abge
+- [BGH, Urteil vom 15.09.2005 - III ZR 458/04](iii-zr-458-04.md) — Tatbestand
+- [BGH, Beschluss vom 28.07.2005 - III ZB 56/05](iii-zb-56-05.md) — Ausfalls einer Telefonleitung.
 - [BGH, Beschluss vom 28.07.2005 - III ZB 80/04](iii-zb-80-04.md) — Die Rechtsbeschwerde ist zwar statthaft (§ 574 Abs.
 - [BGH, Versäumnisurteil vom 28.07.2005 - III ZR 290/04](iii-zr-290-04.md) — Verstoßes gegen das Rechtsberatungsgesetz unwirksam ist.
 - [BGH, Urteil vom 28.07.2005 - III ZR 3/05](iii-zr-3-05.md) — Tatbestand
+- [BGH, Beschluss vom 28.07.2005 - III ZR 403/04](iii-zr-403-04.md) — der Nebeninterventionswirkung der Streitverkündung im Vorprozeß (§§ 68, 74 Abs. 3 ZPO) geboten sein, weil das Oberlandesgericht Dresden im V
+- [BGH, Beschluss vom 28.07.2005 - III ZR 416/04](iii-zr-416-04.md) — Die Klägerin - vertreten durch den Sohn ihrer Schwiegertochter - verkaufte mit einem am 25.
 - [BGH, Beschluss vom 28.07.2005 - III ZR 438/04](iii-zr-438-04.md) — I. Der Beklagte ist im vorausgegangenen Rechtsstreit vom Kläger auf Rückzahlung von 1.999.800 USD nebst Zinsen in Anspruch genommen worden. Das Berufungsgericht hat der Klage …
 - [BGH, Urteil vom 21.07.2005 - III ZR 21/05](iii-zr-21-05.md) — Tatbestand
+- [BGH, Urteil vom 14.07.2005 - III ZR 391/04](iii-zr-391-04.md) — Tatbestand
+- [BGH, Urteil vom 14.07.2005 - III ZR 45/05](iii-zr-45-05.md) — Tatbestand
 - [BGH, Urteil vom 07.07.2005 - III ZR 397/04](iii-zr-397-04.md) — Einigungs- oder Willensmängeln (§§ 145 ff, 104 ff, 116 ff BGB) bestehen und die Vorschrift, aus der sich die Nichtigkeit ergibt - etwa bei f
+- [BGH, Urteil vom 07.07.2005 - III ZR 422/04](iii-zr-422-04.md) — 3-
+- [BGH, Beschluss vom 29.06.2005 - III ZB 65/04](iii-zb-65-04.md) — I. Die Antragsteller sind durch Schiedsspruch vom 4. November 2003 in Verbindung mit den Ergänzungsschiedssprüchen vom 2. Dezember 2003 und vom 18. Dezember 2003 verurteilt …
+- [BGH, Beschluss vom 29.06.2005 - III ZR 40/05](iii-zr-40-05.md) — I. Der Kläger hat, vertreten durch Rechtsanwalt Prof. Dr. K. , gegen das vorbezeichnete Berufungsurteil frist- und formgerecht die vom Berufungs- gericht zugelassene Revision …
+- [BGH, Beschluss vom 29.06.2005 - III ZR 443/04](iii-zr-443-04.md) — BGH, Beschluss vom 29.06.2005 - III ZR 443/04
 - [BGH, Urteil vom 23.06.2005 - III ZR 4/04](iii-zr-4-04.md) — Tatbestand
 - [BGH, Beschluss vom 09.06.2005 - III ZR 21/04](iii-zr-21-04.md) — widerrechtlicher Drohung anfocht. Mit der Klage hat er in erster Linie die Feststellung begehrt, daß der Aufhebungsvertrag unwirksam und das
 - [BGH, Urteil vom 09.06.2005 - III ZR 436/04](iii-zr-436-04.md) — Tatbestand
+- [BGH, Urteil vom 02.06.2005 - III ZR 306/04](iii-zr-306-04.md) — Tatbestand
 - [BGH, Urteil vom 02.06.2005 - III ZR 358/04](iii-zr-358-04.md) — Tatbestand
+- [BGH, Urteil vom 02.06.2005 - III ZR 365/03](iii-zr-365-03.md) — einer vom früheren Bundesaufsichtsamt für das Kreditwesen erlassenen Abwicklungsanordnung vom 27. März 2000 auf Schadensersatz in Anspruch.
+- [BGH, Urteil vom 02.06.2005 - III ZR 452/04](iii-zr-452-04.md) — Schlick
+- [BGH, Beschluss vom 25.05.2005 - III ZR 380/04](iii-zr-380-04.md) — Die Nichtzulassungsbeschwerde hat mit ihrer Rüge Erfolg, das Berufungsgericht habe den Anspruch des Klägers auf rechtliches Gehör in entscheidungserheblicher Weise verletzt.
+- [BGH, Beschluss vom 25.05.2005 - III ZR 409/04](iii-zr-409-04.md) — I. Die klagende Versicherung nimmt die Bundesrepublik Deutschland als Verkehrssicherungspflichtige der Bundeswasserstraße Mosel auf Ersatz von Schäden in Anspruch, die bei einer …
+- [BGH, Urteil vom 19.05.2005 - III ZR 240/04](iii-zr-240-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 19.05.2005 - III ZR 265/04](iii-zr-265-04.md) — Tatbestand
+- [BGH, Urteil vom 19.05.2005 - III ZR 309/04](iii-zr-309-04.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2005 - III ZR 322/04](iii-zr-322-04.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2005 - III ZR 437/04](iii-zr-437-04.md) — Tatbestand
+- [BGH, Urteil vom 12.05.2005 - III ZR 126/04](iii-zr-126-04.md) — Tatbestand
+- [BGH, Urteil vom 12.05.2005 - III ZR 413/04](iii-zr-413-04.md) — Tatbestand
 - [BGH, Urteil vom 28.04.2005 - III ZR 351/04](iii-zr-351-04.md) — Tatbestand
+- [BGH, Beschluss vom 28.04.2005 - III ZR 374/04](iii-zr-374-04.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
+- [BGH, Beschluss vom 28.04.2005 - III ZR 387/04](iii-zr-387-04.md) — I. Die Klägerin erwarb zwischen 1998 und 2000 durch Vermittlung der Beklagten mehrere Eigentumswohnungen. Die dafür von der Beklagten in Rechnung gestellten und von der Klägerin …
+- [BGH, Urteil vom 28.04.2005 - III ZR 399/04](iii-zr-399-04.md) — Tatbestand
+- [BGH, Beschluss vom 28.04.2005 - III ZR 412/04](iii-zr-412-04.md) — der Versäumung der Frist zur Einlegung der Nichtzulassungsbeschwerde und zu ihrer Begründung Wiedereinsetzung in den vorigen Stand erteilt.
 - [BGH, Versäumnisurteil vom 21.04.2005 - III ZR 238/03](iii-zr-238-03.md) — BGH, Versäumnisurteil vom 21.04.2005 - III ZR 238/03
+- [BGH, Urteil vom 21.04.2005 - III ZR 264/04](iii-zr-264-04.md) — einer unrichtigen Auskunft über die Höhe der Besoldung, wenn der Empfänger aufgrund der Mitteilung seine bisherige berufliche Position aufgi
 - [BGH, Beschluss vom 21.04.2005 - III ZR 293/04](iii-zr-293-04.md) — BGH, Beschluss vom 21.04.2005 - III ZR 293/04
 - [BGH, Versäumnisurteil vom 14.04.2005 - III ZR 252/04](iii-zr-252-04.md) — Tatbestand
+- [BGH, Versäumnisurteil vom 14.04.2005 - III ZR 253/04](iii-zr-253-04.md) — Tatbestand
+- [BGH, Urteil vom 14.04.2005 - III ZR 254/04](iii-zr-254-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 14.04.2005 - III ZR 287/04](iii-zr-287-04.md) — 3-
+- [BGH, Beschluss vom 23.03.2005 - III ZB 30/05](iii-zb-30-05.md) — BGH, Beschluss vom 23.03.2005 - III ZB 30/05
+- [BGH, Beschluss vom 23.03.2005 - III ZR 338/04](iii-zr-338-04.md) — I. Die Beklagte stellte Kunden der V. -Banken einen Zu- gang zum Internet bereit. Zur dafür erforderlichen Herstellung der Verbindung in das Telekommunikationsnetz bediente sie …
+- [BGH, Urteil vom 17.03.2005 - III ZR 185/04](iii-zr-185-04.md) — Tatbestand
 - [BGH, Entscheidung vom 17.03.2005 - III ZR 342/04](iii-zr-342-04.md) — BGH, Entscheidung vom 17.03.2005 - III ZR 342/04
 - [BGH, Urteil vom 10.03.2005 - III ZR 224/04](iii-zr-224-04.md) — BGH, Urteil vom 10.03.2005 - III ZR 224/04
 - [BGH, Urteil vom 10.03.2005 - III ZR 289/04](iii-zr-289-04.md) — Tatbestand
 - [BGH, Beschluss vom 03.03.2005 - III ZB 1/05](iii-zb-1-05.md) — Der Senat hat durch Beschluss vom 13. Januar 2005 den Antrag des Beklagten auf Bewilligung von Prozesskostenhilfe für eine Rechtsbeschwerde gegen den Beschluss des …
 - [BGH, Urteil vom 03.03.2005 - III ZR 186/04](iii-zr-186-04.md) — BGH, Urteil vom 03.03.2005 - III ZR 186/04
+- [BGH, Urteil vom 03.03.2005 - III ZR 273/03](iii-zr-273-03.md) — Tatbestand
 - [BGH, Urteil vom 03.03.2005 - III ZR 353/04](iii-zr-353-04.md) — Tatbestand
+- [BGH, Urteil vom 03.03.2005 - III ZR 363/04](iii-zr-363-04.md) — Tatbestand
 - [BGH, Beschluss vom 24.02.2005 - III ZB 36/04](iii-zb-36-04.md) — dieser Streitigkeit ein Schiedsverfahren ein. Er stützt sich auf § 29 des Gemeinschaftspraxisvertrages, wonach alle Streitigkeiten aus dem V
+- [BGH, Beschluss vom 24.02.2005 - III ZR 263/04](iii-zr-263-04.md) — der Versagung einer Kiesabbaubewilligung in Anspruch genommen. Ihre Revision gegen die im Berufungsrechtszug erfolgte Klageabweisung hat der
+- [BGH, Beschluss vom 24.02.2005 - III ZR 341/04](iii-zr-341-04.md) — Unterlassung vertraglich übernommener Unterhaltungsarbeiten.
 - [BGH, Urteil vom 17.02.2005 - III ZR 172/04](iii-zr-172-04.md) — Tatbestand
 - [BGH, Urteil vom 10.02.2005 - III ZR 258/04](iii-zr-258-04.md) — Tatbestand
 - [BGH, Urteil vom 10.02.2005 - III ZR 294/04](iii-zr-294-04.md) — Tatbestand
+- [BGH, Urteil vom 10.02.2005 - III ZR 330/04](iii-zr-330-04.md) — Tatbestand
 - [BGH, Urteil vom 03.02.2005 - III ZR 268/04](iii-zr-268-04.md) — Tatbestand
+- [BGH, Urteil vom 03.02.2005 - III ZR 271/04](iii-zr-271-04.md) — Tatbestand
 - [BGH, Urteil vom 03.02.2005 - III ZR 411/04](iii-zr-411-04.md) — Tatbestand
+- [BGH, Beschluss vom 27.01.2005 - III ZB 47/04](iii-zb-47-04.md) — befinden, anläßlich von Maßnahmen, die dem Schienen- und/oder dem Straßenverkehr dienen, ist öffentlich-rechtlicher Natur.
+- [BGH, Beschluss vom 27.01.2005 - III ZR 176/04](iii-zr-176-04.md) — Verletzung der Verkehrssicherungspflicht. Sie befuhr am 27. Dezember 2000 gegen 11.30 Uhr mit ihrem Pkw die Landesstraße L 3011 und kam in e
+- [BGH, Beschluss vom 27.01.2005 - III ZR 320/04](iii-zr-320-04.md) — der Kaufvertrag trotz der in § 14 der Urkunde enthaltenen salvatorischen Klausel insgesamt nichtig (§§ 125, 313 BGB a.F.), weil die für die
+- [BGH, Urteil vom 20.01.2005 - III ZR 207/04](iii-zr-207-04.md) — Tatbestand
+- [BGH, Urteil vom 20.01.2005 - III ZR 251/04](iii-zr-251-04.md) — jedenfalls in bezug auf diesen Vertrag gemäß § 9 AGBG (jetzt § 307 BGB) unwirksam.
+- [BGH, Urteil vom 20.01.2005 - III ZR 278/04](iii-zr-278-04.md) — an das zuständige Gericht zu verweisen. Haben die Instanzgerichte statt dessen die Klage als unzulässig abgewiesen, so nimmt das Revisionsge
+- [BGH, Urteil vom 20.01.2005 - III ZR 48/01](iii-zr-48-01.md) — Tatbestand
+- [BGH, Urteil vom 13.01.2005 - III ZR 238/04](iii-zr-238-04.md) — Tatbestand
 - [BGH, Urteil vom 13.01.2005 - III ZR 265/03](iii-zr-265-03.md) — Tatbestand

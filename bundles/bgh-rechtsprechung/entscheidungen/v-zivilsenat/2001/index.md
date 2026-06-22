@@ -1,11 +1,16 @@
 # V. Zivilsenat – 2001
 
-37 Entscheidung(en).
+100 Entscheidung(en).
 
+- [BGH, Beschluss vom 20.12.2001 - V ZR 146/01](v-zr-146-01.md) — nach gerechtfertigt. Es wird klargestellt, daß dem Feststellungsantrag der Kläger uneingeschränkt - und nicht nur “dem Grunde nach” - stattgegeben wurde. Streitwert: 560.000 DM …
+- [BGH, Urteil vom 20.12.2001 - V ZR 260/00](v-zr-260-00.md) — 3-
 - [BGH, Urteil vom 14.12.2001 - V ZR 212/00](v-zr-212-00.md) — Tatbestand:
 - [BGH, Urteil vom 14.12.2001 - V ZR 212/01](v-zr-212-01.md) — Tatbestand:
 - [BGH, Urteil vom 14.12.2001 - V ZR 493/99](v-zr-493-99.md) — Tatbestand:
 - [BGH, Beschluss vom 13.12.2001 - V ZB 38/01](v-zb-38-01.md) — im Zeitpunkt der Beschlußfassung noch nicht zu den Akten gelangt war, steht der Rechtzeitigkeit der Be-
+- [BGH, Urteil vom 07.12.2001 - V ZR 121/01](v-zr-121-01.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2001 - V ZR 65/01](v-zr-65-01.md) — Tatbestand:
+- [BGH, Beschluss vom 06.12.2001 - V ZR 95/01](v-zr-95-01.md) — Nichterfüllung des ganzen Vertrages erforderlichen Voraussetzungen der §§ 326 Abs. 1 Satz 3, 325 Abs. 1 Satz 2 BGB sind indes nicht dargetan
 - [BGH, Urteil vom 23.11.2001 - V ZR 27/01](v-zr-27-01.md) — Tatbestand:
 - [BGH, Urteil vom 23.11.2001 - V ZR 282/00](v-zr-282-00.md) — Formmangels nicht in Betracht; dem Risiko, daß das Vereinbarte wegen der Unbestimmtheit seines Inhalts keine Bindung zu erzeugen vermag, ble
 - [BGH, Urteil vom 23.11.2001 - V ZR 418/00](v-zr-418-00.md) — Tatbestand:
@@ -19,23 +24,81 @@
 - [BGH, Beschluss vom 15.11.2001 - V ZR 120/01](v-zr-120-01.md) — BGH, Beschluss vom 15.11.2001 - V ZR 120/01
 - [BGH, Urteil vom 02.11.2001 - V ZR 224/00](v-zr-224-00.md) — Tatbestand:
 - [BGH, Urteil vom 02.11.2001 - V ZR 264/00](v-zr-264-00.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2001 - V ZR 375/00](v-zr-375-00.md) — BGH, Beschluss vom 25.10.2001 - V ZR 375/00
+- [BGH, Urteil vom 12.10.2001 - V ZR 220/00](v-zr-220-00.md) — Tatbestand:
+- [BGH, Urteil vom 12.10.2001 - V ZR 268/00](v-zr-268-00.md) — BGH, Urteil vom 12.10.2001 - V ZR 268/00
+- [BGH, Urteil vom 12.10.2001 - V ZR 338/00](v-zr-338-00.md) — Tatbestand:
+- [BGH, Urteil vom 05.10.2001 - V ZR 237/00](v-zr-237-00.md) — Tatbestand:
+- [BGH, Urteil vom 05.10.2001 - V ZR 275/00](v-zr-275-00.md) — Tatbestand:
+- [BGH, Urteil vom 05.10.2001 - V ZR 295/00](v-zr-295-00.md) — Tatbestand:
+- [BGH, Beschluss vom 04.10.2001 - V ZR 367/00](v-zr-367-00.md) — BGH, Beschluss vom 04.10.2001 - V ZR 367/00
 - [BGH, Beschluss vom 27.09.2001 - V ZB 29/01](v-zb-29-01.md) — I. Das Landgericht hat die Beklagten zur Zahlung von 327.121,99 DM Aufwendungsersatz an die Klägerin verurteilt. Es hat das Vorbringen der Beklagten aus Rechtsgründen als nicht …
+- [BGH, Urteil vom 21.09.2001 - V ZR 115/00](v-zr-115-00.md) — 3-
+- [BGH, Urteil vom 21.09.2001 - V ZR 14/01](v-zr-14-01.md) — dessen medizinisch notwendiger Unterbringung in einem Pflegeheim nicht mehr erfüllen, muß er ohne entsprechende Abrede die Kosten der Heimun
 - [BGH, Urteil vom 21.09.2001 - V ZR 228/00](v-zr-228-00.md) — BGH, Urteil vom 21.09.2001 - V ZR 228/00
 - [BGH, Urteil vom 14.09.2001 - V ZR 231/00](v-zr-231-00.md) — Tatbestand:
 - [BGH, Urteil vom 14.09.2001 - V ZR 291/00](v-zr-291-00.md) — Tatbestand:
 - [BGH, Urteil vom 14.09.2001 - V ZR 410/00](v-zr-410-00.md) — Tatbestand:
+- [BGH, Beschluss vom 13.09.2001 - V ZB 15/01](v-zb-15-01.md) — I. Der Beteiligte, Verwalter einer Wohnungseigentümergemeinschaft, erwirkte beim Amtsgericht W. am 10. November 1999 gegen einen Wohnungseigentümer einen Vollstreckungsbescheid …
+- [BGH, Beschluss vom 13.09.2001 - V ZR 45/01](v-zr-45-01.md) — BGH, Beschluss vom 13.09.2001 - V ZR 45/01
+- [BGH, Beschluss vom 23.08.2001 - V ZB 10/01](v-zb-10-01.md) — Baumängeln am Gemeinschaftseigentum ab. In der vom damaligen Verwalter erstellten Versammlungsniederschrift ist als Abstimmungsergebnis zu d
+- [BGH, Urteil vom 27.07.2001 - V ZR 104/00](v-zr-104-00.md) — Tatbestand:
+- [BGH, Urteil vom 27.07.2001 - V ZR 221/00](v-zr-221-00.md) — Tatbestand:
+- [BGH, Urteil vom 20.07.2001 - V ZR 170/00](v-zr-170-00.md) — Tatbestand:
 - [BGH, Urteil vom 06.07.2001 - V ZR 246/00](v-zr-246-00.md) — Tatbestand:
 - [BGH, Urteil vom 06.07.2001 - V ZR 82/00](v-zr-82-00.md) — Tatbestand:
+- [BGH, Urteil vom 29.06.2001 - V ZR 185/00](v-zr-185-00.md) — 3-
+- [BGH, Urteil vom 29.06.2001 - V ZR 186/00](v-zr-186-00.md) — 3-
+- [BGH, Versäumnisurteil vom 29.06.2001 - V ZR 215/00](v-zr-215-00.md) — 3-
+- [BGH, Urteil vom 29.06.2001 - V ZR 65/00](v-zr-65-00.md) — Tatbestand:
+- [BGH, Urteil vom 22.06.2001 - V ZR 123/00](v-zr-123-00.md) — Tatbestand:
+- [BGH, Urteil vom 22.06.2001 - V ZR 128/00](v-zr-128-00.md) — der Bebauung eines fremden Grundstücks in der berechtigten Erwartung des späteren Eigentumserwerbs (condictio ob rem) werden auch nach der B
+- [BGH, Urteil vom 22.06.2001 - V ZR 202/00](v-zr-202-00.md) — Tatbestand:
+- [BGH, Urteil vom 22.06.2001 - V ZR 56/00](v-zr-56-00.md) — Tatbestand:
+- [BGH, Beschluss vom 13.06.2001 - V ZB 18/01](v-zb-18-01.md) — I. Mit notariellen Urkunden vom 30. Dezember 1996 verkaufte die Klägerin an die Beklagten zu 1 und 2 mehrere Wohnungs- und Teileigentumseinheiten und an die Beklagte zu 3 weitere …
+- [BGH, Beschluss vom 13.06.2001 - V ZB 20/01](v-zb-20-01.md) — I. Die beklagte Kommanditgesellschaft wurde durch Versäumnisurteil des Landgerichts zur Zahlung von 90.469,39 DM nebst Zinsen verurteilt. In der handschriftlichen Urschrift des …
+- [BGH, Urteil vom 18.05.2001 - V ZR 119/00](v-zr-119-00.md) — Tatbestand:
+- [BGH, Urteil vom 18.05.2001 - V ZR 126/00](v-zr-126-00.md) — Tatbestand:
+- [BGH, Urteil vom 18.05.2001 - V ZR 239/00](v-zr-239-00.md) — BGH, Urteil vom 18.05.2001 - V ZR 239/00
+- [BGH, Urteil vom 18.05.2001 - V ZR 353/99](v-zr-353-99.md) — BGH, Urteil vom 18.05.2001 - V ZR 353/99
+- [BGH, Urteil vom 18.05.2001 - V ZR 356/00](v-zr-356-00.md) — der Hilfsanträge wird die Sache zur anderweiten Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Landgeric
+- [BGH, Urteil vom 11.05.2001 - V ZR 114/00](v-zr-114-00.md) — Tatbestand:
+- [BGH, Urteil vom 11.05.2001 - V ZR 14/00](v-zr-14-00.md) — Tatbestand:
+- [BGH, Urteil vom 11.05.2001 - V ZR 491/99](v-zr-491-99.md) — Tatbestand:
+- [BGH, Urteil vom 11.05.2001 - V ZR 492/99](v-zr-492-99.md) — Tatbestand:
+- [BGH, Beschluss vom 10.05.2001 - V ZB 4/01](v-zb-4-01.md) — I. Die Beteiligten zu 1 und 2 sind die Wohnungseigentümer der im Rubrum genannten Wohnungseigentumsanlage, die aus 28 Wohnungen nebst einer Tiefgarage besteht und von der …
+- [BGH, Urteil vom 04.05.2001 - V ZR 21/00](v-zr-21-00.md) — Tatbestand:
+- [BGH, Urteil vom 04.05.2001 - V ZR 434/00](v-zr-434-00.md) — Tatbestand:
+- [BGH, Urteil vom 04.05.2001 - V ZR 435/99](v-zr-435-99.md) — Tatbestand:
+- [BGH, Beschluss vom 03.05.2001 - V ZB 7/01](v-zb-7-01.md) — unzutreffender Angaben über die Wirtschaftlichkeit des Objekts von allen drei Beklagten Schadensersatz in Höhe von 354.524,16 DM nebst Zinse
 - [BGH, Urteil vom 06.04.2001 - V ZR 394/99](v-zr-394-99.md) — Verschuldens bei Vertragsschluß nicht durch die Gewährleistungsansprüche wegen des Rechtsmangels ausgeschlossen.
 - [BGH, Urteil vom 06.04.2001 - V ZR 402/99](v-zr-402-99.md) — besonderer Umstände des Einzelfalls davon ausgegangen werden muß, daß der künftige Vertragspartner nicht hinreichend unterrichtet ist und di
 - [BGH, Urteil vom 06.04.2001 - V ZR 438/99](v-zr-438-99.md) — Tatbestand:
-- [BGH, Beschluss vom 29.03.2001 - V ZR 61/01](v-zr-61-01.md) — BGH, Beschluss vom 29.03.2001 - V ZR 61/01
+- [BGH, Urteil vom 30.03.2001 - V ZR 27/00](v-zr-27-00.md) — Tatbestand:
+- [BGH, Urteil vom 30.03.2001 - V ZR 461/99](v-zr-461-99.md) — Tatbestand:
+- [BGH, Beschluss vom 29.03.2001 - V ZR 142/00](v-zr-142-00.md) — eines Wertersatzanspruchs nach § 356 ZGB gegeben ist (Urt. v. 16. April 1999, V ZR 57/98, VIZ 1999, 488 f).
 - [BGH, Beschluss vom 22.03.2001 - V ZR 316/00](v-zr-316-00.md) — § 77 Abs. 2 i.V.m. § 297 Abs. 1 Satz 2 ZGB standen der privatschriftlichen Aufgabe des im "Überlassungsvertrag" vom 18. September 1981 vorbehaltenen Nutzungsrechts nicht entgegen …
+- [BGH, Beschluss vom 08.03.2001 - V ZB 5/01](v-zb-5-01.md) — eines Doppeleinzugs durch das Telefaxgerät ihres Prozeßbevollmächtigten unterblieben. Wegen der geringen Zahl der eingelegten Blätter sei ei
+- [BGH, Beschluss vom 08.03.2001 - V ZR 197/00](v-zr-197-00.md) — BGH, Beschluss vom 08.03.2001 - V ZR 197/00
 - [BGH, Beschluss vom 28.02.2001 - V ZB 8/01](v-zb-8-01.md) — BGH, Beschluss vom 28.02.2001 - V ZB 8/01
 - [BGH, Urteil vom 23.02.2001 - V ZR 16/00](v-zr-16-00.md) — Tatbestand:
 - [BGH, Urteil vom 23.02.2001 - V ZR 389/99](v-zr-389-99.md) — Besitzstörung (§ 862 BGB) zu.
 - [BGH, Urteil vom 23.02.2001 - V ZR 463/99](v-zr-463-99.md) — Tatbestand:
+- [BGH, Urteil vom 16.02.2001 - V ZR 422/99](v-zr-422-99.md) — Tatbestand:
+- [BGH, Beschluss vom 08.02.2001 - V ZR 107/00](v-zr-107-00.md) — unbegründet, weil die Prüfung zivilrechtlicher Restitutionsansprüche durch den Vorrang des Vermögensgesetzes versperrt ist (Senat, BGHZ 122,
+- [BGH, Versäumnisurteil vom 02.02.2001 - V ZR 429/99](v-zr-429-99.md) — Tatbestand:
+- [BGH, Beschluss vom 01.02.2001 - V ZB 33/00](v-zb-33-00.md) — I. Die Begründungsfrist für die von der Klägerin gegen das Urteil des Landgerichts eingelegte Berufung war am 25. April 2000 abgelaufen. Die mit Telefax übermittelte und 11 Seiten …
+- [BGH, Beschluss vom 01.02.2001 - V ZB 49/00](v-zb-49-00.md) — eines Anspruchs von 325.250 DM nebst Zin-
+- [BGH, Beschluss vom 31.01.2001 - V ZR 254/99](v-zr-254-99.md) — eines offensichtlichen Schreibfehlers dahin berichtigt, daß die auf Seite 5 ausgesprochene Verurteilung der Beklagten wie folgt gefaßt wird:
 - [BGH, Urteil vom 26.01.2001 - V ZR 408/99](v-zr-408-99.md) — Tatbestand:
 - [BGH, Urteil vom 26.01.2001 - V ZR 452/99](v-zr-452-99.md) — eines fehlenden funktionsfähigen Grundstücksmarkts im Zeitpunkt des Vertragsschlusses eine Erhöhung des zunächst vereinbarten Kaufpreises au
 - [BGH, Urteil vom 26.01.2001 - V ZR 462/99](v-zr-462-99.md) — Tatbestand:
+- [BGH, Beschluss vom 25.01.2001 - V ZR 22/00](v-zr-22-00.md) — (zur Kostenentscheidung): Ein Teilurteil, das hinsichtlich eines Streitgenossen, hier des Klägers im Verhältnis zum Beklagten (früheren Beklagten zu 2), den Prozeß entscheidet …
+- [BGH, Beschluss vom 25.01.2001 - V ZR 24/00](v-zr-24-00.md) — I. Die Rechtssache hat keine grundsätzliche Bedeutung (§ 554b ZPO). Die Revision hat im Endergebnis auch keine Aussicht auf Erfolg. Der Begründung des Berufungsgerichts zur …
+- [BGH, Urteil vom 19.01.2001 - V ZR 217/00](v-zr-217-00.md) — 3-
+- [BGH, Urteil vom 19.01.2001 - V ZR 437/99](v-zr-437-99.md) — aufzuheben, wenn diese mit einer unselbständigen Anschlußberufung angefochten wurde. Die unselbständige Anschlußberufung ist aber so zu vers
+- [BGH, Urteil vom 12.01.2001 - V ZR 322/99](v-zr-322-99.md) — Tatbestand:
+- [BGH, Urteil vom 12.01.2001 - V ZR 372/99](v-zr-372-99.md) — Tatbestand:
+- [BGH, Urteil vom 12.01.2001 - V ZR 420/99](v-zr-420-99.md) — Tatbestand:
+- [BGH, Urteil vom 12.01.2001 - V ZR 468/99](v-zr-468-99.md) — Tatbestand:
 - [BGH, Beschluss vom 11.01.2001 - V ZB 40/99](v-zb-40-99.md) — BGH, Beschluss vom 11.01.2001 - V ZB 40/99

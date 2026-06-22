@@ -1,26 +1,53 @@
 # XI. Zivilsenat – 2002
 
-50 Entscheidung(en).
+91 Entscheidung(en).
 
+- [BGH, Beschluss vom 17.12.2002 - XI ZR 116/02](xi-zr-116-02.md) — Die Voraussetzungen der vom Beklagten geltend gemachten Revisionszulassungsgründe der grundsätzlichen Bedeutung der Rechtssache (§ 543 Abs.
+- [BGH, Beschluss vom 17.12.2002 - XI ZR 136/02](xi-zr-136-02.md) — Verschuldens bei Vertragsverhandlungen haften, sind in der Rechtsprechung des Bundesgerichtshofes geklärt (vgl. Senat, Ur-
+- [BGH, Urteil vom 17.12.2002 - XI ZR 290/01](xi-zr-290-01.md) — Tatbestand:
 - [BGH, Urteil vom 17.12.2002 - XI ZR 90/02](xi-zr-90-02.md) — Tatbestand:
 - [BGH, Beschluss vom 10.12.2002 - XI ZR 115/02](xi-zr-115-02.md) — Einstellung des Gewerbebetriebes seitens des Beklagten zur fristlosen Kündigung der ausgereichten Kredite berechtigt ist oder der Erwerb ein
 - [BGH, Beschluss vom 10.12.2002 - XI ZR 162/02](xi-zr-162-02.md) — BGH, Beschluss vom 10.12.2002 - XI ZR 162/02
+- [BGH, Urteil vom 10.12.2002 - XI ZR 82/02](xi-zr-82-02.md) — Tatbestand:
 - [BGH, Beschluss vom 03.12.2002 - XI ZR 144/02](xi-zr-144-02.md) — Die Klägerin hat die Voraussetzungen der von ihr geltend gemachten Revisionszulassungsgründe der grundsätzlichen Bedeutung der Rechtssache (§ 543 Abs.
 - [BGH, Beschluss vom 03.12.2002 - XI ZR 240/02](xi-zr-240-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
 - [BGH, Beschluss vom 03.12.2002 - XI ZR 274/02](xi-zr-274-02.md) — Die Voraussetzungen für die Zulassung der Revision (§ 543 Abs.
+- [BGH, Urteil vom 03.12.2002 - XI ZR 311/01](xi-zr-311-01.md) — Tatbestand:
 - [BGH, Beschluss vom 03.12.2002 - XI ZR 56/02](xi-zr-56-02.md) — offenbarer Unrichtigkeit durch das Wort "Revisionsverfahrens" ersetzt (§ 319 Abs. 1 ZPO).
 - [BGH, Urteil vom 26.11.2002 - XI ZR 10/00](xi-zr-10-00.md) — Tatbestand:
 - [BGH, Beschluss vom 26.11.2002 - XI ZR 86/02](xi-zr-86-02.md) — BGH, Beschluss vom 26.11.2002 - XI ZR 86/02
+- [BGH, Beschluss vom 12.11.2002 - XI ZB 15/02](xi-zb-15-02.md) — Die Rechtsbeschwerde ist nach § 574 Abs. 1 Nr. 1 i.V.m. § 522 Abs. 1 Satz 4, § 238 Abs. 2 ZPO statthaft (vgl. BGH, Beschluß vom 29. Mai 2002 - V ZB 11/02, WM 2002, 1567). Die …
+- [BGH, Beschluss vom 12.11.2002 - XI ZB 5/02](xi-zb-5-02.md) — I. Die klagende Sparkasse nimmt das beklagte Land als Steuerfiskus auf Rückzahlung eines Betrages in Anspruch, den sie zur Einlösung eines Schecks aufgewandt hat. Ein Direktor der …
+- [BGH, Urteil vom 12.11.2002 - XI ZR 25/00](xi-zr-25-00.md) — 3-
+- [BGH, Urteil vom 12.11.2002 - XI ZR 3/01](xi-zr-3-01.md) — Tatbestand:
+- [BGH, Urteil vom 12.11.2002 - XI ZR 47/01](xi-zr-47-01.md) — 3-
+- [BGH, Beschluss vom 05.11.2002 - XI ZR 107/02](xi-zr-107-02.md) — Die Nichtzulassungsbeschwerde der Beklagten bleibt ohne Erfolg, weil die Voraussetzungen des § 543 Abs.
+- [BGH, Beschluss vom 05.11.2002 - XI ZR 111/02](xi-zr-111-02.md) — grundsätzlicher Bedeutung (vgl. Senatsbeschluß vom 1. Oktober 2002 - XI ZR 71/02, Umdruck S. 8 ff. und S. 15 f.; zum Abdruck in BGHZ vorgese
+- [BGH, Beschluss vom 05.11.2002 - XI ZR 127/02](xi-zr-127-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 543 Abs.
 - [BGH, Urteil vom 05.11.2002 - XI ZR 381/01](xi-zr-381-01.md) — 3-
 - [BGH, Beschluss vom 05.11.2002 - XI ZR 91/02](xi-zr-91-02.md) — Die Rechtssache hat entgegen der Ansicht der Beschwerdeführerin weder grundsätzliche Bedeutung, noch ist eine Entscheidung des Revisionsgerichts zur Sicherung einer einheitlichen …
 - [BGH, Urteil vom 22.10.2002 - XI ZR 393/01](xi-zr-393-01.md) — BGH, Urteil vom 22.10.2002 - XI ZR 393/01
 - [BGH, Urteil vom 22.10.2002 - XI ZR 394/01](xi-zr-394-01.md) — BGH, Urteil vom 22.10.2002 - XI ZR 394/01
+- [BGH, Beschluss vom 15.10.2002 - XI ZR 112/02](xi-zr-112-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 15.10.2002 - XI ZR 98/02](xi-zr-98-02.md) — Die beabsichtigte Revision hat entgegen der Ansicht der Beschwerdeführerin weder grundsätzliche Bedeutung noch dient sie der Fortbildung des Rechts oder der Sicherung einer …
+- [BGH, Beschluss vom 01.10.2002 - XI ZB 11/02](xi-zb-11-02.md) — Die gemäß § 574 Abs. 1 Satz 2 ZPO statthafte Rechtsbeschwerde ist zulässig und begründet. Sie führt zur Wiederherstellung des Kostenfestsetzungsbeschlusses des Amtsgerichts. Der …
+- [BGH, Beschluss vom 01.10.2002 - XI ZR 67/02](xi-zr-67-02.md) — angeblicher Verletzung von Aufklärungspflichten im Zusammenhang mit einer zu finanzierenden Beteiligung an einem Immobilienfonds auf Zahlung
+- [BGH, Beschluss vom 01.10.2002 - XI ZR 71/02](xi-zr-71-02.md) — , auf die er die Beschwerde stützt, benennt und zu deren Voraussetzungen so substantiiert vorträgt, daß das Revisionsgericht allein anhand der Lektüre der Beschwerdebegründung und …
+- [BGH, Urteil vom 24.09.2002 - XI ZR 345/01](xi-zr-345-01.md) — Tatbestand:
+- [BGH, Urteil vom 24.09.2002 - XI ZR 420/01](xi-zr-420-01.md) — Tatbestand:
+- [BGH, Beschluss vom 17.09.2002 - XI ZB 9/02](xi-zb-9-02.md) — I. Die Antragsteller haben als Prozeßbevollmächtigte der Antragsgegner im Berufungsverfahren an dem Abschluß und der Protokollierung eines Vergleichs mitgewirkt, der neben den im …
+- [BGH, Urteil vom 17.09.2002 - XI ZR 306/01](xi-zr-306-01.md) — Tatbestand:
+- [BGH, Beschluss vom 17.09.2002 - XI ZR 403/01](xi-zr-403-01.md) — Der erstinstanzliche Prozeßbevollmächtigte der Klägerin ist gemäß § 78 Abs.
 - [BGH, Urteil vom 10.09.2002 - XI ZR 151/99](xi-zr-151-99.md) — Tatbestand:
 - [BGH, Urteil vom 10.09.2002 - XI ZR 305/01](xi-zr-305-01.md) — Tatbestand:
 - [BGH, Beschluss vom 10.09.2002 - XI ZR 321/98](xi-zr-321-98.md) — Der als Erinnerung nach § 5 GKG auszulegende Antrag auf Erlaß eines "Gebührenrückfestsetzungsbeschlusses" ist unbegründet.
+- [BGH, Beschluss vom 04.09.2002 - XI ZR 110/02](xi-zr-110-02.md) — Eine Einstellung gemäß § 719 Abs. 2 ZPO kommt nicht in Betracht, weil die Beklagten in der Berufungsinstanz keinen Schutzantrag gemäß § 712 ZPO gestellt haben (vgl. BGH, Beschluß …
 - [BGH, Urteil vom 09.07.2002 - XI ZR 323/01](xi-zr-323-01.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2002 - XI ZR 363/01](xi-zr-363-01.md) — Tatbestand:
 - [BGH, Beschluss vom 09.07.2002 - XI ZR 378/01](xi-zr-378-01.md) — BGH, Beschluss vom 09.07.2002 - XI ZR 378/01
+- [BGH, Urteil vom 25.06.2002 - XI ZR 218/01](xi-zr-218-01.md) — BGH, Urteil vom 25.06.2002 - XI ZR 218/01
+- [BGH, Urteil vom 25.06.2002 - XI ZR 239/01](xi-zr-239-01.md) — Tatbestand:
+- [BGH, Beschluss vom 25.06.2002 - XI ZR 330/01](xi-zr-330-01.md) — Die Klägerin nimmt aufgrund einer Sicherungszession den Beklagten als Konkursverwalter über das Vermögen der A.
 - [BGH, Urteil vom 18.06.2002 - XI ZR 160/01](xi-zr-160-01.md) — Tatbestand:
 - [BGH, Urteil vom 18.06.2002 - XI ZR 359/01](xi-zr-359-01.md) — (teilweiser) Nichterfüllung resultieren. Sie dient aber nicht darüber hinaus zur Absicherung von erwarteten Steuervorteilen und Nutzungen.
 - [BGH, Urteil vom 04.06.2002 - XI ZR 301/01](xi-zr-301-01.md) — Tatbestand:
@@ -30,25 +57,39 @@
 - [BGH, Urteil vom 28.05.2002 - XI ZR 199/01](xi-zr-199-01.md) — Tatbestand:
 - [BGH, Urteil vom 28.05.2002 - XI ZR 205/01](xi-zr-205-01.md) — BGH, Urteil vom 28.05.2002 - XI ZR 205/01
 - [BGH, Beschluss vom 28.05.2002 - XI ZR 336/01](xi-zr-336-01.md) — verspäteter Weiterleitung von Aufträgen zum Kauf von Aktien auf Schadensersatz in Anspruch genommen.
+- [BGH, Beschluss vom 14.05.2002 - XI ZR 14/02](xi-zr-14-02.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat er im wesentlichen geltend gemacht: Die abgelehnten
+- [BGH, Urteil vom 14.05.2002 - XI ZR 148/01](xi-zr-148-01.md) — BGH, Urteil vom 14.05.2002 - XI ZR 148/01
+- [BGH, Urteil vom 14.05.2002 - XI ZR 155/01](xi-zr-155-01.md) — Verstoßes gegen Art. 1 § 1 Abs. 1 RBerG kommt eine Rechtsscheinhaftung des Vollmachtgebers nach §§ 171 Abs. 1, 172 Abs. 1 BGB in Betracht, w
+- [BGH, Beschluss vom 14.05.2002 - XI ZR 162/00](xi-zr-162-00.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung haben sie im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen
+- [BGH, Beschluss vom 14.05.2002 - XI ZR 18/02](xi-zr-18-02.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung haben sie im wesentlichen geltend gemacht:
+- [BGH, Beschluss vom 14.05.2002 - XI ZR 196/01](xi-zr-196-01.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung haben sie im wesentlichen geltend gemacht: Die abgelehnten Richter ver-
+- [BGH, Beschluss vom 14.05.2002 - XI ZR 28/02](xi-zr-28-02.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat er im wesentlichen geltend gemacht: Die abgelehnten
+- [BGH, Beschluss vom 14.05.2002 - XI ZR 304/01](xi-zr-304-01.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat er im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen
+- [BGH, Beschluss vom 14.05.2002 - XI ZR 322/01](xi-zr-322-01.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat er im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen die Augen
+- [BGH, Beschluss vom 14.05.2002 - XI ZR 338/01](xi-zr-338-01.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat sie im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen
 - [BGH, Beschluss vom 14.05.2002 - XI ZR 34/02](xi-zr-34-02.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat er im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen die Augen
-- [BGH, Beschluss vom 14.05.2002 - XI ZR 357/01](xi-zr-357-01.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat sie im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen
-- [BGH, Beschluss vom 14.05.2002 - XI ZR 388/01](xi-zr-388-01.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat er im
-- [BGH, Beschluss vom 14.05.2002 - XI ZR 390/01](xi-zr-390-01.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat sie im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen
-- [BGH, Beschluss vom 14.05.2002 - XI ZR 395/01](xi-zr-395-01.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung haben
-- [BGH, Beschluss vom 14.05.2002 - XI ZR 397/01](xi-zr-397-01.md) — Besorgnis der Befangenheit abgelehnt. Zur
 - [BGH, Urteil vom 14.05.2002 - XI ZR 50/01](xi-zr-50-01.md) — BGH, Urteil vom 14.05.2002 - XI ZR 50/01
 - [BGH, Beschluss vom 14.05.2002 - XI ZR 53/02](xi-zr-53-02.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung haben sie im wesentlichen geltend gemacht: Die abgelehnten Richter verschlössen die Aug
-- [BGH, Beschluss vom 14.05.2002 - XI ZR 70/02](xi-zr-70-02.md) — Besorgnis der Befangenheit abgelehnt. Zur Begründung hat er im wesentlichen geltend gemacht: Die abgelehnten
 - [BGH, Urteil vom 14.05.2002 - XI ZR 81/01](xi-zr-81-01.md) — BGH, Urteil vom 14.05.2002 - XI ZR 81/01
+- [BGH, Urteil vom 07.05.2002 - XI ZR 197/01](xi-zr-197-01.md) — BGH, Urteil vom 07.05.2002 - XI ZR 197/01
+- [BGH, Urteil vom 07.05.2002 - XI ZR 236/01](xi-zr-236-01.md) — Tatbestand:
 - [BGH, Urteil vom 23.04.2002 - XI ZR 136/01](xi-zr-136-01.md) — zu ermitteln. Diese Ermittlungspflicht umfaßt auch die ausländische Rechtspraxis, wie sie in der Rechtsprechung der Gerichte des betreffende
 - [BGH, Urteil vom 09.04.2002 - XI ZR 245/01](xi-zr-245-01.md) — Tatbestand:
 - [BGH, Urteil vom 09.04.2002 - XI ZR 32/99](xi-zr-32-99.md) — 3-
+- [BGH, Urteil vom 09.04.2002 - XI ZR 33/99](xi-zr-33-99.md) — Tatbestand:
+- [BGH, Urteil vom 09.04.2002 - XI ZR 91/99](xi-zr-91-99.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 19.03.2002 - XI ZR 183/01](xi-zr-183-01.md) — Tatbestand:
+- [BGH, Beschluss vom 19.03.2002 - XI ZR 223/01](xi-zr-223-01.md) — BGH, Beschluss vom 19.03.2002 - XI ZR 223/01
 - [BGH, Urteil vom 12.03.2002 - XI ZR 258/01](xi-zr-258-01.md) — Tatbestand:
 - [BGH, Beschluss vom 12.03.2002 - XI ZR 285/01](xi-zr-285-01.md) — BGH, Beschluss vom 12.03.2002 - XI ZR 285/01
+- [BGH, Urteil vom 05.03.2002 - XI ZR 113/01](xi-zr-113-01.md) — Tatbestand:
+- [BGH, Urteil vom 05.03.2002 - XI ZR 184/01](xi-zr-184-01.md) — Tatbestand:
 - [BGH, Urteil vom 26.02.2002 - XI ZR 226/01](xi-zr-226-01.md) — Tatbestand:
 - [BGH, Beschluss vom 26.02.2002 - XI ZR 326/01](xi-zr-326-01.md) — I. Das Berufungsgericht hat die in der Hauptsache auf Zahlung von 12.264,92 DM gerichtete Klage abgewiesen und festgestellt, die Beschwer der Klägerin übersteige 60.000 DM nicht …
-- [BGH, Versäumnisurteil vom 26.02.2002 - XI ZR 60/01](xi-zr-60-01.md) — Tatbestand:
+- [BGH, Beschluss vom 05.02.2002 - XI ZR 327/01](xi-zr-327-01.md) — . Die Revision der Kläger ist unzulässig, soweit sie ihren Antrag weiterverfolgen, gegenüber der Beklagten zu 2) die Rechtsunwirksamkeit der Kündigung des Kreditkontos 2 …
 - [BGH, Urteil vom 29.01.2002 - XI ZR 112/01](xi-zr-112-01.md) — Tatbestand:
 - [BGH, Teilurteil vom 29.01.2002 - XI ZR 86/01](xi-zr-86-01.md) — unzureichender Aufklärung über die Risiken von Warentermin- oder Optionsgeschäften verlangt, beginnt die Verjährungsfrist nicht, bevor der G
 - [BGH, Urteil vom 22.01.2002 - XI ZR 31/01](xi-zr-31-01.md) — Tatbestand:
 - [BGH, Urteil vom 22.01.2002 - XI ZR 331/00](xi-zr-331-00.md) — Tatbestand:
+- [BGH, Beschluss vom 15.01.2002 - XI ZR 76/99](xi-zr-76-99.md) — . Die Abänderung der Streitwertfestsetzung vom 26. Oktober 1999 ist nach § 25 Abs. 2 Satz 2 GKG zulässig. § 25 Abs. 2 Satz 3 GKG steht dem nicht entgegen. Der Rechtsstreit hat …
+- [BGH, Urteil vom 15.01.2002 - XI ZR 98/01](xi-zr-98-01.md) — BGH, Urteil vom 15.01.2002 - XI ZR 98/01

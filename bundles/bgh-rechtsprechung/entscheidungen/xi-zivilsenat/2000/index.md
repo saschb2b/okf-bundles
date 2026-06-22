@@ -1,24 +1,54 @@
 # XI. Zivilsenat – 2000
 
-21 Entscheidung(en).
+51 Entscheidung(en).
 
 - [BGH, Urteil vom 19.12.2000 - XI ZR 349/99](xi-zr-349-99.md) — Tatbestand:
+- [BGH, Urteil vom 12.12.2000 - XI ZR 138/00](xi-zr-138-00.md) — Tatbestand:
+- [BGH, Beschluss vom 12.12.2000 - XI ZR 180/00](xi-zr-180-00.md) — Das Berufungsgericht hat - dem Antrag des klagenden Verbraucherschutzvereins entsprechend - der beklagten Bank gemäß § 13 AGBG untersagt, in Allgemeinen Geschäftsbedingungen eine …
+- [BGH, Urteil vom 12.12.2000 - XI ZR 72/00](xi-zr-72-00.md) — Tatbestand:
+- [BGH, Beschluss vom 05.12.2000 - XI ZR 137/00](xi-zr-137-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 05.12.2000 - XI ZR 340/99](xi-zr-340-99.md) — BGH, Urteil vom 05.12.2000 - XI ZR 340/99
 - [BGH, Beschluss vom 28.11.2000 - XI ZR 159/00](xi-zr-159-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 14.11.2000 - XI ZR 248/99](xi-zr-248-99.md) — Tatbestand:
+- [BGH, Urteil vom 14.11.2000 - XI ZR 336/99](xi-zr-336-99.md) — Tatbestand:
+- [BGH, Urteil vom 07.11.2000 - XI ZR 27/00](xi-zr-27-00.md) — Tatbestand:
+- [BGH, Urteil vom 07.11.2000 - XI ZR 44/00](xi-zr-44-00.md) — Tatbestand:
 - [BGH, Urteil vom 24.10.2000 - XI ZR 273/99](xi-zr-273-99.md) — BGH, Urteil vom 24.10.2000 - XI ZR 273/99
 - [BGH, Urteil vom 24.10.2000 - XI ZR 300/99](xi-zr-300-99.md) — Tatbestand:
 - [BGH, Urteil vom 17.10.2000 - XI ZR 312/99](xi-zr-312-99.md) — Tatbestand:
 - [BGH, Urteil vom 17.10.2000 - XI ZR 42/00](xi-zr-42-00.md) — Tatbestand:
+- [BGH, Urteil vom 10.10.2000 - XI ZR 277/99](xi-zr-277-99.md) — 3-
+- [BGH, Urteil vom 10.10.2000 - XI ZR 344/99](xi-zr-344-99.md) — Tatbestand:
+- [BGH, Urteil vom 10.10.2000 - XI ZR 367/97](xi-zr-367-97.md) — Tatbestand:
 - [BGH, Beschluss vom 04.10.2000 - XI ZB 9/00](xi-zb-9-00.md) — I. Das Landgericht hat durch Schlußurteil vom 16. November 1999 die Zahlungsklage gegen den Beklagten zu 1) abgewiesen. Diese Entscheidung wurde dem erstinstanzlichen …
+- [BGH, Urteil vom 18.07.2000 - XI ZR 263/99](xi-zr-263-99.md) — Tatbestand:
+- [BGH, Urteil vom 27.06.2000 - XI ZR 174/99](xi-zr-174-99.md) — Tatbestand:
+- [BGH, Urteil vom 27.06.2000 - XI ZR 210/99](xi-zr-210-99.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 27.06.2000 - XI ZR 322/98](xi-zr-322-98.md) — Tatbestand:
 - [BGH, Urteil vom 20.06.2000 - XI ZR 237/99](xi-zr-237-99.md) — Tatbestand:
+- [BGH, Urteil vom 06.06.2000 - XI ZR 235/99](xi-zr-235-99.md) — Verschuldens bei Vertragsschluß auf Ersatz des Vertrauensschadens in Anspruch genommen werden, wenn der Vertragspartner nicht auf ein aufsic
+- [BGH, Urteil vom 06.06.2000 - XI ZR 258/99](xi-zr-258-99.md) — Tatbestand:
+- [BGH, Urteil vom 23.05.2000 - XI ZR 214/99](xi-zr-214-99.md) — 3-
+- [BGH, Beschluss vom 23.05.2000 - XI ZR 309/99](xi-zr-309-99.md) — I. Die Parteien streiten um die Berechtigung an einem Fremdgeldkonto der erstinstanzlichen Prozeßbevollmächtigten beider Seiten bei der beklagten Sparkasse, auf dem im Jahre 1996 …
+- [BGH, Urteil vom 09.05.2000 - XI ZR 159/99](xi-zr-159-99.md) — Tatbestand:
+- [BGH, Urteil vom 09.05.2000 - XI ZR 220/99](xi-zr-220-99.md) — Tatbestand:
+- [BGH, Urteil vom 09.05.2000 - XI ZR 276/99](xi-zr-276-99.md) — 3-
+- [BGH, Beschluss vom 09.05.2000 - XI ZR 299/99](xi-zr-299-99.md) — einer nach der Sicherungsabrede durch die Grundschuld nicht gesicherten Forderung geltend gemacht werden.
 - [BGH, Beschluss vom 02.05.2000 - XI ZB 6/00](xi-zb-6-00.md) — I. Der Beklagte wurde vom Landgericht H. zur Zahlung von 75.000 DM nebst Zinsen an die Klägerin verurteilt. Die Berufungsschrift seines Prozeßbevollmächtigten ging am 19. März …
 - [BGH, Urteil vom 02.05.2000 - XI ZR 108/99](xi-zr-108-99.md) — Tatbestand:
 - [BGH, Urteil vom 02.05.2000 - XI ZR 150/99](xi-zr-150-99.md) — Tatbestand:
 - [BGH, Urteil vom 02.05.2000 - XI ZR 243/99](xi-zr-243-99.md) — Tatbestand:
+- [BGH, Beschluss vom 18.04.2000 - XI ZB 1/00](xi-zb-1-00.md) — I. Der Beklagte hat gegen das am 2. Juni 1999 verkündete landgerichtliche Urteil mit einem am 13. August 1999 eingegangenen Schriftsatz Berufung eingelegt. Sein Antrag auf …
+- [BGH, Urteil vom 18.04.2000 - XI ZR 193/99](xi-zr-193-99.md) — BGH, Urteil vom 18.04.2000 - XI ZR 193/99
 - [BGH, Urteil vom 04.04.2000 - XI ZR 152/99](xi-zr-152-99.md) — BGH, Urteil vom 04.04.2000 - XI ZR 152/99
 - [BGH, Urteil vom 04.04.2000 - XI ZR 200/99](xi-zr-200-99.md) — Tatbestand:
 - [BGH, Urteil vom 04.04.2000 - XI ZR 48/99](xi-zr-48-99.md) — BGH, Urteil vom 04.04.2000 - XI ZR 48/99
+- [BGH, Urteil vom 28.03.2000 - XI ZR 184/99](xi-zr-184-99.md) — Tatbestand:
 - [BGH, Urteil vom 14.03.2000 - XI ZR 14/99](xi-zr-14-99.md) — BGH, Urteil vom 14.03.2000 - XI ZR 14/99
 - [BGH, Urteil vom 14.03.2000 - XI ZR 55/99](xi-zr-55-99.md) — Tatbestand:
+- [BGH, Beschluss vom 22.02.2000 - XI ZR 177/99](xi-zr-177-99.md) — offenbarer Unrichtigkeit (§ 319 Abs. 1 ZPO) dahin berichtigt, daß Zinsen nicht seit dem 15. März 1997, sondern seit dem 15. Oktober 1997 zu
+- [BGH, Beschluss vom 15.02.2000 - XI ZR 10/98](xi-zr-10-98.md) — grundsätzlicher Bedeutung (§ 132 Abs. 4 GVG) zulässig. Dieses Verfahren entspricht nach Überzeugung des IX. Zivilsenats nicht dem Gesetz. Im
+- [BGH, Urteil vom 15.02.2000 - XI ZR 186/99](xi-zr-186-99.md) — Tatbestand:
 - [BGH, Beschluss vom 08.02.2000 - XI ZB 20/99](xi-zb-20-99.md) — BGH, Beschluss vom 08.02.2000 - XI ZB 20/99
 - [BGH, Urteil vom 08.02.2000 - XI ZR 313/98](xi-zr-313-98.md) — schuldhafter Vertragsverletzung gekündigt, so bleibt während des Verzugs dieses Gesamtschuldners mit der Rückzahlung der Anspruch des Kredit
 - [BGH, Urteil vom 18.01.2000 - XI ZR 160/99](xi-zr-160-99.md) — Tatbestand:

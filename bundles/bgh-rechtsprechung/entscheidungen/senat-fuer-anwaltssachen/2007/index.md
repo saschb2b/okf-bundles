@@ -1,43 +1,83 @@
 # Senat für Anwaltssachen – 2007
 
-39 Entscheidung(en).
+79 Entscheidung(en).
 
+- [BGH, Beschluss vom 12.12.2007 - AnwZ (B) 41/07](anwz-b-41-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 10.12.2007 - AnwZ (B) 11/07](anwz-b-11-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 10.12.2007 - AnwZ (B) 13/07](anwz-b-13-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 10.12.2007 - AnwZ (B) 28/07](anwz-b-28-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
-- [BGH, Beschluss vom 10.12.2007 - AnwZ (B) 79/06](anwz-b-79-06.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 10.12.2007 - AnwZ (B) 40/07](anwz-b-40-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 10.12.2007 - AnwZ (B) 5/07](anwz-b-5-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 10.12.2007 - AnwZ (B) 93/05](anwz-b-93-05.md) — Zulassung der Rechtsanwaltschaft
+- [BGH, Urteil vom 26.11.2007 - AnwSt (R) 10/06](anwst-r-10-06.md) — Gründe:
+- [BGH, Beschluss vom 26.11.2007 - AnwZ (B) 100/06](anwz-b-100-06.md) — Wiederzulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 26.11.2007 - AnwZ (B) 105/06](anwz-b-105-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 26.11.2007 - AnwZ (B) 106/06](anwz-b-106-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 26.11.2007 - AnwZ (B) 96/06](anwz-b-96-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 26.11.2007 - AnwZ (B) 99/06](anwz-b-99-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 19.11.2007 - AnwZ (B) 31/07](anwz-b-31-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 19.11.2007 - AnwZ (B) 9/06](anwz-b-9-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 02.11.2007 - AnwZ (B) 52/07](anwz-b-52-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 08.10.2007 - AnwZ (B) 65/06](anwz-b-65-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 08.10.2007 - AnwZ (B) 84/06](anwz-b-84-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 08.10.2007 - AnwZ (B) 91/06](anwz-b-91-06.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 08.10.2007 - AnwZ (B) 92/06](anwz-b-92-06.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 08.10.2007 - AnwZ (B) 94/06](anwz-b-94-06.md) — Wiederzulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 26.09.2007 - AnwZ (B) 48/06](anwz-b-48-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.09.2007 - AnwZ (B) 75/06](anwz-b-75-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.09.2007 - AnwZ (B) 76/06](anwz-b-76-06.md) — Wiederzulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.09.2007 - AnwZ (B) 78/06](anwz-b-78-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.09.2007 - AnwZ (B) 80/06](anwz-b-80-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.09.2007 - AnwZ (B) 83/06](anwz-b-83-06.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.08.2007 - AnwZ (B) 51/06](anwz-b-51-06.md) — Gestaltung des Kanzleibriefbogens
 - [BGH, Beschluss vom 09.08.2007 - AnwZ (B) 5/06](anwz-b-5-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
-- [BGH, Beschluss vom 03.07.2007 - AnwZ (B) 102/05](anwz-b-102-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 07.08.2007 - AnwSt (B) 4/07](anwst-b-4-07.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 02.07.2007 - AnwZ (B) 30/06](anwz-b-30-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 02.07.2007 - AnwZ (B) 59/06](anwz-b-59-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 02.07.2007 - AnwZ (B) 62/06](anwz-b-62-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 02.07.2007 - AnwZ (B) 66/06](anwz-b-66-06.md) — Wiederzulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.06.2007 - AnwZ (B) 101/05](anwz-b-101-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.06.2007 - AnwZ (B) 3/07](anwz-b-3-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.06.2007 - AnwZ (B) 50/06](anwz-b-50-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.06.2007 - AnwZ (B) 82/06](anwz-b-82-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.06.2007 - AnwZ (B) 9/05](anwz-b-9-05.md) — Vermögensverfalls widerrufen. Den dagegen gerichteten An-
 - [BGH, Beschluss vom 29.05.2007 - AnwZ (B) 12/06](anwz-b-12-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.05.2007 - AnwZ (B) 3/06](anwz-b-3-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 29.05.2007 - AnwZ (B) 74/06](anwz-b-74-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 22.05.2007 - AnwZ (B) 88/05](anwz-b-88-05.md) — Feststellung der Rechtswidrigkeit eines Zulassungswiderrufs
+- [BGH, Beschluss vom 18.05.2007 - AnwZ (B) 47/06](anwz-b-47-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.05.2007 - AnwZ (B) 58/06](anwz-b-58-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.05.2007 - AnwZ (B) 55/04](anwz-b-55-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 11.05.2007 - AnwZ (B) 60/06](anwz-b-60-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 26.04.2007 - AnwZ (B) 2/07](anwz-b-2-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 26.04.2007 - AnwZ (B) 77/06](anwz-b-77-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft infolge Vermögensverfalls
+- [BGH, Beschluss vom 25.04.2007 - AnwZ (B) 117/05](anwz-b-117-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.04.2007 - AnwZ (B) 61/06](anwz-b-61-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 24.04.2007 - AnwZ (B) 84/04](anwz-b-84-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 24.04.2007 - AnwZ (B) 93/06](anwz-b-93-06.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 16.04.2007 - AnwZ (B) 31/06](anwz-b-31-06.md) — Erteilung der Fachanwaltsbezeichnung „Fachanwältin für Insolvenzrecht“
+- [BGH, Beschluss vom 16.04.2007 - AnwZ (B) 36/06](anwz-b-36-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 16.04.2007 - AnwZ (B) 39/05](anwz-b-39-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 16.04.2007 - AnwZ (B) 40/06](anwz-b-40-06.md) — Einhaltung des Vertretungsverbots nach § 46 Abs. 1 BRAO
 - [BGH, Beschluss vom 16.04.2007 - AnwZ (B) 41/06](anwz-b-41-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 16.04.2007 - AnwZ (B) 6/06](anwz-b-6-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 26.03.2007 - AnwZ (B) 104/05](anwz-b-104-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 26.03.2007 - AnwZ (B) 16/06](anwz-b-16-06.md) — BGH, Beschluss vom 26.03.2007 - AnwZ (B) 16/06
+- [BGH, Beschluss vom 26.03.2007 - AnwZ (B) 23/06](anwz-b-23-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 26.03.2007 - AnwZ (B) 45/05](anwz-b-45-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 26.03.2007 - AnwZ (B) 45/06](anwz-b-45-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 21.03.2007 - AnwZ (B) 87/05](anwz-b-87-05.md) — Versagung der Zulassung zur Rechtsanwaltschaft hier: Anhörungsrüge nach § 29 a FGG
+- [BGH, Beschluss vom 20.03.2007 - AnwSt (B) 6/06](anwst-b-6-06.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 20.03.2007 - AnwZ (B) 88/06](anwz-b-88-06.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 08.03.2007 - AnwZ (B) 27/06](anwz-b-27-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.03.2007 - AnwZ (B) 80/04](anwz-b-80-04.md) — Widerrufs der Zulassung
-- [BGH, Beschluss vom 28.02.2007 - AnwZ 2/06](anwz-2-06.md) — Zulassung als Rechtsanwalt bei dem Bundesgerichtshof
 - [BGH, Beschluss vom 23.02.2007 - AnwZ (B) 103/06](anwz-b-103-06.md) — Zulassung zur Rechtsanwaltschaft (Untätigkeitsklage)
+- [BGH, Beschluss vom 21.02.2007 - AnwZ (B) 86/06](anwz-b-86-06.md) — Feststellung der Rechtswidrigkeit eines Widerrufs der Zulassung
 - [BGH, Beschluss vom 21.02.2007 - AnwZ (B) 87/06](anwz-b-87-06.md) — I. 1 Nachdem der Widerruf der Zulassung ihres einzigen Gesellschafters und Geschäftsführers bestandskräftig geworden war, widerrief die Antragsgegnerin am 1. Juni 2005 aufgrund …
 - [BGH, Beschluss vom 19.02.2007 - AnwZ (B) 75/05](anwz-b-75-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.02.2007 - AnwSt (B) 11/06](anwst-b-11-06.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 13.02.2007 - AnwSt (B) 9/05](anwst-b-9-05.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 13.02.2007 - AnwZ (B) 101/06](anwz-b-101-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Anfechtung einer Kostenentscheidung
+- [BGH, Beschluss vom 05.02.2007 - AnwZ (B) 63/06](anwz-b-63-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 05.02.2007 - AnwZ (B) 68/06](anwz-b-68-06.md) — Vermögensverfalls gemäß § 14
-- [BGH, Beschluss vom 24.01.2007 - AnwZ (B) 90/05](anwz-b-90-05.md) — greifbarer Gesetzwidrigkeit -, wobei sich
+- [BGH, Beschluss vom 05.02.2007 - AnwZ (B) 86/05](anwz-b-86-05.md) — Widerrufs der Rechtsanwaltszulassung

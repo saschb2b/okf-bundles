@@ -1,5 +1,6 @@
 # 1 BGS – 2009
 
-1 Entscheidung(en).
+2 Entscheidung(en).
 
+- [BGH, Entscheidung vom 10.03.2009 - 1 BGs 29/09](1-bgs-29-09.md) — I ARs 1/2009 1 BGs 29/2009 Bundesgerichtshof Ermittlungsrichter I In dem Verfahren der Mitglieder des 1. Untersuchungsausschusses der 16. Wahlperiode des Deutschen Bundestages 1 …
 - [BGH, Entscheidung vom 20.02.2009 - 1 BGs 20/09](1-bgs-20-09.md) — Bundesgerichtshof Ermittlungsrichter I I ARs 3/2008 1 BGs 20/2009 In dem Verfahren der aus den Abgeordneten Dr. S ., Prof. Dr. P . und St . bestehenden Minderheit von einem …

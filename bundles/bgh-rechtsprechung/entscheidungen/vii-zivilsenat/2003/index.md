@@ -1,40 +1,91 @@
 # VII. Zivilsenat – 2003
 
-36 Entscheidung(en).
+87 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2003 - VII ZB 55/02](vii-zb-55-02.md) — I. Die Klägerin hat für die Beklagte zu 1, deren Gesellschafter die Beklagten zu 2 und 3 sind, Bauleistungen erbracht. Zur Ablösung des Gewährleistungseinbehaltes übersandte die …
+- [BGH, Urteil vom 18.12.2003 - VII ZR 124/02](vii-zr-124-02.md) — Tatbestand: Der Kläger verlangt als Insolvenzverwalter Restwerklohn für die Leistung, die die Gemeinschuldnerin bis zur Kündigung des Vertra
+- [BGH, Urteil vom 18.12.2003 - VII ZR 315/02](vii-zr-315-02.md) — Tatbestand: Die Klägerin nimmt die Beklagte als Drittschuldnerin auf Werklohnzah-
+- [BGH, Beschluss vom 11.12.2003 - VII ZB 14/03](vii-zb-14-03.md) — I. Die Antragstellerin betreibt gegen die Gemeinschuldnerin ein selbständiges Beweisverfahren zur Feststellung von Baumängeln. Die Parteien streiten darüber, ob die Eröffnung des …
+- [BGH, Beschluss vom 11.12.2003 - VII ZB 30/03](vii-zb-30-03.md) — Die Rechtsbeschwerde ist unzulässig, weil keiner der in § 574 Abs.
+- [BGH, Urteil vom 11.12.2003 - VII ZR 31/03](vii-zr-31-03.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Schadensersatz. Sie erwarb von der B. GmbH ein von dieser zu sanierendes Geschäftshaus.
+- [BGH, Beschluss vom 27.11.2003 - VII ZB 12/03](vii-zb-12-03.md) — Baumängeln auf Schadensersatz in Anspruch genommen. Das Landgericht hat der Klage weitgehend stattgegeben. Der Beklagte hat Berufung eingele
+- [BGH, Beschluss vom 27.11.2003 - VII ZB 33/03](vii-zb-33-03.md) — Die Beschwerde ist unabhängig davon, daß sie weder als sofortige Beschwerde noch als außerordentliche Beschwerde zulässig ist (BGH, Beschluß vom 7.
+- [BGH, Urteil vom 27.11.2003 - VII ZR 288/02](vii-zr-288-02.md) — Tatbestand: Der Kläger verlangt Architektenhonorar in Höhe von 709.568,83 (1.387.796 DM) und die Feststellung, daß die Beklagte verpflichtet
+- [BGH, Beschluss vom 27.11.2003 - VII ZR 295/02](vii-zr-295-02.md) — nach zu vier Fünftel für gerechtfertigt erklärt worden ist.
+- [BGH, Urteil vom 27.11.2003 - VII ZR 346/01](vii-zr-346-01.md) — Tatbestand:
+- [BGH, Urteil vom 27.11.2003 - VII ZR 53/03](vii-zr-53-03.md) — Tatbestand:
+- [BGH, Urteil vom 27.11.2003 - VII ZR 93/01](vii-zr-93-01.md) — BGH, Urteil vom 27.11.2003 - VII ZR 93/01
 - [BGH, Urteil vom 13.11.2003 - VII ZR 26/03](vii-zr-26-03.md) — Tatbestand: Die Klägerin verlangt vom Beklagten Schadensersatz aus Prospekthaftung. Der Beklagte war Alleingesellschafter der K.-GmbH, einer
 - [BGH, Urteil vom 13.11.2003 - VII ZR 362/02](vii-zr-362-02.md) — Tatbestand: Der klagende Architekt begehrt restliches Honorar. Die Parteien schlossen Ende 1992 schriftlich einen Vertrag. Für die Berechnun
+- [BGH, Beschluss vom 13.11.2003 - VII ZR 371/01](vii-zr-371-01.md) — I. Die Klägerin hat von der Beklagten die Herausgabe der Urkunde über eine von ihr gestellte Vertragserfüllungsbürgschaft auf erstes Anfordern über 175.000 DM verlangt. Das …
 - [BGH, Beschluss vom 13.11.2003 - VII ZR 372/01](vii-zr-372-01.md) — I. Die Klägerin hat von der Beklagten die Herausgabe der Urkunde über eine von ihr gestellte Vertragserfüllungsbürgschaft auf erstes Anfordern über 100.000 DM verlangt. Das …
 - [BGH, Beschluss vom 13.11.2003 - VII ZR 373/01](vii-zr-373-01.md) — I. Die Klägerin hat von der Beklagten die Herausgabe der Urkunde über eine von ihr gestellte Vertragserfüllungsbürgschaft auf erstes Anfordern über 170.000 DM verlangt. Das …
+- [BGH, Urteil vom 13.11.2003 - VII ZR 57/02](vii-zr-57-02.md) — Tatbestand: Die Klägerin, ein Bauträgerunternehmen, nimmt die beklagte Bank aus einer Gewährleistungsbürgschaft auf Zahlung und Feststellung
+- [BGH, Beschluss vom 23.10.2003 - VII ZB 19/02](vii-zb-19-02.md) — I. Die Bauelemente C. GmbH (im folgenden: Schuldnerin) erbrachte Leistungen für eine Firma K. Wohnungsbau (später K. Bau), deren Inhaber der Beschwerdeführer ist. Die Klägerin als …
+- [BGH, Urteil vom 23.10.2003 - VII ZR 448/01](vii-zr-448-01.md) — eines im Bauwerk verkörperten Mangels der Planung oder der Bauaufsicht ist nach Grund und Höhe unabhängig von einer Haftung des Bauunternehm
+- [BGH, Beschluss vom 09.10.2003 - VII ZB 10/02](vii-zb-10-02.md) — I. Die Parteien haben über Restwerklohnansprüche der in T. (Nordrhein– Westfalen) ansässigen Klägerin gestritten. Nach Beantragung und Erlaß eines Mahnbescheides durch die am …
 - [BGH, Beschluss vom 09.10.2003 - VII ZB 17/03](vii-zb-17-03.md) — BGH, Beschluss vom 09.10.2003 - VII ZB 17/03
+- [BGH, Beschluss vom 09.10.2003 - VII ZB 19/03](vii-zb-19-03.md) — I. Das Berufungsgericht hat die Wiedereinsetzung in den vorigen Stand nach Versäumung der Frist zur Begründung der Berufung abgelehnt und die Berufung des Beklagten verworfen …
 - [BGH, Beschluss vom 09.10.2003 - VII ZB 25/03](vii-zb-25-03.md) — BGH, Beschluss vom 09.10.2003 - VII ZB 25/03
 - [BGH, Beschluss vom 09.10.2003 - VII ZB 45/02](vii-zb-45-02.md) — BGH, Beschluss vom 09.10.2003 - VII ZB 45/02
+- [BGH, Beschluss vom 09.10.2003 - VII ZB 46/02](vii-zb-46-02.md) — Restwerklohnforderungen in Höhe von 32.580,59 ¢¤¡ £¦¥¨§ n-
+- [BGH, Beschluss vom 09.10.2003 - VII ZB 9/02](vii-zb-9-02.md) — I. Die Parteien haben über Restwerklohnansprüche der Gemeinschuldnerin gestritten. In der Berufungsinstanz haben sich die Parteien verglichen und dabei auch bislang nicht …
+- [BGH, Urteil vom 09.10.2003 - VII ZR 122/01](vii-zr-122-01.md) — Tatbestand: Die Klägerin klagt auf Restwerklohn aus abgetretenem Recht. Die Parteien streiten darum, ob die Verjährung der im Jahre 1997 fäl
+- [BGH, Urteil vom 09.10.2003 - VII ZR 335/02](vii-zr-335-02.md) — Tatbestand: Der Kläger verlangt von den Beklagten Zahlung restlichen Werklohns. Er wurde von den Beklagten im Jahre 1994 unter Geltung der V
 - [BGH, Versäumnisurteil vom 09.10.2003 - VII ZR 81/02](vii-zr-81-02.md) — Tatbestand: Die Klägerin hat im Verfahren vor dem Landgericht restlichen Werklohn für eine Eigentumswohnung verlangt. Die Beklagte hat wider
 - [BGH, Beschluss vom 25.09.2003 - VII ZB 41/02](vii-zb-41-02.md) — I. Die in B./Bayern ansässigen Kläger erhoben beim Landgericht D. Klage. Sie ließen sich dabei von Rechtsanwalt Dr. N. vertreten, der seinen Kanzleisitz in D. hat und Mitglied …
 - [BGH, Versäumnisurteil vom 25.09.2003 - VII ZR 13/02](vii-zr-13-02.md) — BGH, Versäumnisurteil vom 25.09.2003 - VII ZR 13/02
+- [BGH, Urteil vom 25.09.2003 - VII ZR 357/02](vii-zr-357-02.md) — Tatbestand: Die Klägerin verlangt Schadensersatz. Die Beklagte hat für sie eine Wohnanlage errichtet. Die Klägerin hat die Eigentumswohnunge
+- [BGH, Beschluss vom 11.09.2003 - VII ZB 39/02](vii-zb-39-02.md) — Das Rechtsmittel ist statthaft, aber nicht zulässig.
 - [BGH, Urteil vom 11.09.2003 - VII ZR 116/02](vii-zr-116-02.md) — Tatbestand: Der Beklagte ist Eigentümer eines Grundstücks in F. . Auf diesem Grundstück ließ er Gebäude errichten und vorhandene Gebäude umb
+- [BGH, Urteil vom 11.09.2003 - VII ZR 136/02](vii-zr-136-02.md) — Tatbestand: I.
+- [BGH, Beschluss vom 28.08.2003 - VII ZB 4/03](vii-zb-4-03.md) — I. Die Antragsteller erwarben von der G. GmbH eine neu errichtete Eigentumswohnung. Als sich nach der Behauptung der Antragsteller Mängel zeigten, leiteten sie ein selbständiges …
 - [BGH, Beschluss vom 28.08.2003 - VII ZR 286/02](vii-zr-286-02.md) — BGH, Beschluss vom 28.08.2003 - VII ZR 286/02
+- [BGH, Beschluss vom 24.07.2003 - VII ZB 5/03](vii-zb-5-03.md) — I. Der Kläger hat am 30. September 2002 vor dem Amtsgericht M. (163 C 30288/02) Klage erhoben mit dem Antrag, die Zwangsvollstreckung aus einem Vollstreckungsbescheid vom 29. Mai …
+- [BGH, Beschluss vom 24.07.2003 - VII ZB 8/03](vii-zb-8-03.md) — I. 1. Die Beklagte hat gegen ein Endurteil des Landgerichts M. Berufung eingelegt. Die Frist zur Begründung der Berufung ist bis zum 9. Dezember 2002 verlängert worden. Der …
 - [BGH, Beschluss vom 24.07.2003 - VII ZR 209/01](vii-zr-209-01.md) — BGH, Beschluss vom 24.07.2003 - VII ZR 209/01
 - [BGH, Versäumnisurteil vom 24.07.2003 - VII ZR 218/02](vii-zr-218-02.md) — Tatbestand: Der Kläger verlangt von der Beklagten Rückzahlung einer geleisteten Abschlagszahlung von 33.904 DM sowie Erstattung von Kosten i
 - [BGH, Beschluss vom 24.07.2003 - VII ZR 360/02](vii-zr-360-02.md) — BGH, Beschluss vom 24.07.2003 - VII ZR 360/02
+- [BGH, Urteil vom 24.07.2003 - VII ZR 79/02](vii-zr-79-02.md) — Tatbestand: I.
 - [BGH, Versäumnisurteil vom 24.07.2003 - VII ZR 99/01](vii-zr-99-01.md) — Außenabdichtung).
 - [BGH, Beschluss vom 10.07.2003 - VII ZB 32/02](vii-zb-32-02.md) — eines anderweitig anhängigen selbständigen Beweisverfahrens kommt jedenfalls dann nicht in Betracht, wenn das Ergebnis des selbständigen Bew
+- [BGH, Urteil vom 10.07.2003 - VII ZR 329/02](vii-zr-329-02.md) — Tatbestand: Die Kläger verlangen vom Beklagten zu 2 als Baugrundgutachter und von der Beklagten zu 3 als Architektengesellschaft bürgerliche
 - [BGH, Urteil vom 10.07.2003 - VII ZR 4/02](vii-zr-4-02.md) — Tatbestand: Die Klägerin verlangt von den Beklagten u.a. Feststellung der Ersatzpflicht wegen Mängeln an der Abdichtung der Tiefgarage und d
+- [BGH, Versäumnisurteil vom 10.07.2003 - VII ZR 411/01](vii-zr-411-01.md) — 3-
 - [BGH, Urteil vom 10.07.2003 - VII ZR 8/02](vii-zr-8-02.md) — Tatbestand: Die Kläger verlangen von den Beklagten unter anderem Feststellung der Ersatzpflicht wegen Mängeln an der Abdichtung der Tiefgara
+- [BGH, Urteil vom 26.06.2003 - VII ZR 126/02](vii-zr-126-02.md) — Tatbestand: Die Klägerin fordert vom Beklagten Zahlung im Wege des Gesamtschuldnerausgleiches. Die Firma h & h M. GmbH (künftig: Auftraggebe
+- [BGH, Urteil vom 26.06.2003 - VII ZR 281/02](vii-zr-281-02.md) — zu prüfenden Anspruchsgrundlage ist kein neues Angriffsmittel in der Berufung, wenn sich deren Voraussetzungen bereits aus dem erstinstanzli
+- [BGH, Beschluss vom 05.06.2003 - VII ZB 33/02](vii-zb-33-02.md) — Versäumung der Frist zur Einlegung der Berufung zurückgewiesen und ihre Berufung verworfen. Dagegen wendet sich die Rechtsbeschwerde der Bek
+- [BGH, Beschluss vom 05.06.2003 - VII ZR 186/01](vii-zr-186-01.md) — eines hälftigen Mitverschuldens hinsichtlich des Fehlens der Konsole im Bereich der Achse 42/L-Q abgewiesen worden ist.
 - [BGH, Beschluss vom 22.05.2003 - VII ZB 27/02](vii-zb-27-02.md) — I. Der Kläger verlangt von der Beklagten Architektenhonorar. Das Landgericht hat über die Klage am 11. Dezember 2001 mündlich verhandelt. Der Beklagten hat es dabei ein …
+- [BGH, Beschluss vom 22.05.2003 - VII ZB 30/02](vii-zb-30-02.md) — Verstoßes gegen die Makler- und Bauträgerverordnung als nichtig angesehen habe. Hiergegen haben beide Parteien Rechtsmittel eingelegt.
 - [BGH, Beschluss vom 22.05.2003 - VII ZB 37/02](vii-zb-37-02.md) — Grundsätzlichkeit zulässige Rechtsbeschwerde hat in der Sache keinen Erfolg. Die Gewährung von Schriftsatzfristen ändert nichts daran, daß e
+- [BGH, Urteil vom 22.05.2003 - VII ZR 143/02](vii-zr-143-02.md) — Tatbestand: Die Klägerin verlangt als Verwalterin im Gesamtvollstreckungsverfahren über das Vermögen der M.-GmbH nach gekündigtem Bauvertrag
+- [BGH, Urteil vom 22.05.2003 - VII ZR 469/01](vii-zr-469-01.md) — Tatbestand: Die Kläger verlangen vom Beklagten Schadensersatz wegen verzögerter Fertigstellung eines Bauwerks. Sie erwarben mit notariellem
 - [BGH, Beschluss vom 08.05.2003 - VII ZB 53/02](vii-zb-53-02.md) — Die gemäß § 574 Abs. 1 Nr. 1 ZPO statthafte Rechtsbeschwerde ist unzulässig, weil die Rechtssache weder grundsätzliche Bedeutung hat noch die Fortbildung des Rechts oder die …
 - [BGH, Urteil vom 08.05.2003 - VII ZR 205/02](vii-zr-205-02.md) — Tatbestand: Der Kläger verlangt von der Beklagten einen Kostenvorschuß für Mängelbeseitigung. Er war damit beauftragt worden, im gewerblich
 - [BGH, Urteil vom 08.05.2003 - VII ZR 216/02](vii-zr-216-02.md) — Tatbestand: Die Klägerin begehrt, die Zwangsvollstreckung aus einem Urteil für unzulässig zu erklären. Die Beklagte hatte wegen einer Werklo
+- [BGH, Versäumnisurteil vom 08.05.2003 - VII ZR 407/01](vii-zr-407-01.md) — Tatbestand: Die Klägerin verlangt vom Beklagten zu 1 (im folgenden: Beklagter), einem Innenarchitekten, Schadensersatz wegen fehlerhafter Pl
 - [BGH, Beschluss vom 10.04.2003 - VII ZB 17/02](vii-zb-17-02.md) — gebotene Aufhebung der Entscheidung zur Zurückverweisung der Sache an den Einzelrichter (im Anschluß an BGH, Beschluß vom 13. März 2003 - IX
+- [BGH, Beschluss vom 10.04.2003 - VII ZB 6/03](vii-zb-6-03.md) — Die sofortige Beschwerde des Klägers, mit der er sich ausschließlich gegen die Kostenentscheidung in dem Urteil des Berufungsgerichts wendet, ist gemäß § 99 Abs.
+- [BGH, Urteil vom 10.04.2003 - VII ZR 251/02](vii-zr-251-02.md) — Tatbestand: Die Klägerinnen verlangen Schadensersatz wegen mangelhafter Fußbodenarbeiten. Sie erwarben von dem Beklagten ein Grundstück. Der
+- [BGH, Urteil vom 10.04.2003 - VII ZR 314/01](vii-zr-314-01.md) — Tatbestand: I.
+- [BGH, Beschluss vom 10.04.2003 - VII ZR 383/02](vii-zr-383-02.md) — der Versäumung der Frist zur Einlegung der Nichtzulassungsbeschwerde gestellt.
+- [BGH, Versäumnisurteil vom 27.03.2003 - VII ZR 272/01](vii-zr-272-01.md) — Entscheidungsgründe: Der Senat hat durch Versäumnisurteil vom 27. Juni 2002 die Klage abgewiesen. Die Klägerin hat rechtzeitig Einspruch ein
+- [BGH, Urteil vom 27.03.2003 - VII ZR 443/01](vii-zr-443-01.md) — Tatbestand: Die Klägerin, ein Dachdeckerunternehmen, verlangt Werklohn für erbrachte Leistungen. Die Parteien streiten um einen Gegenanspruc
 - [BGH, Urteil vom 13.03.2003 - VII ZR 418/01](vii-zr-418-01.md) — Tatbestand: Die Klägerin nimmt die Beklagte im Wege der Teilklage auf Schadensersatz wegen zweckwidriger Verwendung von Baugeld nach § 823 A
 - [BGH, Urteil vom 27.02.2003 - VII ZR 11/02](vii-zr-11-02.md) — Tatbestand:
 - [BGH, Urteil vom 27.02.2003 - VII ZR 169/02](vii-zr-169-02.md) — BGH, Urteil vom 27.02.2003 - VII ZR 169/02
 - [BGH, Urteil vom 27.02.2003 - VII ZR 338/01](vii-zr-338-01.md) — Tatbestand: I.
+- [BGH, Urteil vom 27.02.2003 - VII ZR 48/01](vii-zr-48-01.md) — Tatbestand: Die Kläger verlangen von der Beklagten zu 1 in erster Linie Kostenvorschuß aus Werkvertrag in Höhe von 255.645,94 Euro und Zinse
 - [BGH, Beschluss vom 13.02.2003 - VII ZR 121/02](vii-zr-121-02.md) — BGH, Beschluss vom 13.02.2003 - VII ZR 121/02
+- [BGH, Beschluss vom 13.02.2003 - VII ZR 209/02](vii-zr-209-02.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Urteil vom 13.02.2003 - VII ZR 267/01](vii-zr-267-01.md) — Tatbestand: Die Klägerin verlangt aus abgetretenem Recht der H. AG Rückerstattung einer an die Beklagte geleisteten Zahlung. Die H. AG, die
+- [BGH, Urteil vom 13.02.2003 - VII ZR 395/01](vii-zr-395-01.md) — Tatbestand: Die Parteien streiten mit Klage und Widerklage über einen Anspruch des Klägers auf Architektenhonorar und um Gegenrechte der Bek
+- [BGH, Urteil vom 23.01.2003 - VII ZR 10/01](vii-zr-10-01.md) — Tatbestand:
+- [BGH, Beschluss vom 23.01.2003 - VII ZR 179/02](vii-zr-179-02.md) — BGH, Beschluss vom 23.01.2003 - VII ZR 179/02
 - [BGH, Versäumnisurteil vom 23.01.2003 - VII ZR 210/01](vii-zr-210-01.md) — Tatbestand:
 - [BGH, Urteil vom 23.01.2003 - VII ZR 362/01](vii-zr-362-01.md) — Tatbestand: I.
-- [BGH, Beschluss vom 23.01.2003 - VII ZR 54/02](vii-zr-54-02.md) — Versäumung der nach Verlängerung bis zum 7. Juni 2002 abgelaufenen Frist zur Begründung der Revision käme bereits deshalb nicht in Betracht,
 - [BGH, Urteil vom 09.01.2003 - VII ZR 103/02](vii-zr-103-02.md) — Tatbestand: Die Klägerin beantragt Wiedereinsetzung in den vorigen Stand. Das Landgericht hat unter Abweisung im übrigen Klage und Widerklag
+- [BGH, Beschluss vom 09.01.2003 - VII ZR 24/02](vii-zr-24-02.md) — eines Betrages von 52.105,02 DM nebst Zinsen zurückverwiesen hat.
 - [BGH, Urteil vom 09.01.2003 - VII ZR 408/01](vii-zr-408-01.md) — Mängeln den Vertrag anzufechten, kann eine Fristsetzung mit Ablehnungsandrohung sein.

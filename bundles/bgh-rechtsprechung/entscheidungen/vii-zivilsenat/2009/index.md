@@ -1,48 +1,98 @@
 # VII. Zivilsenat – 2009
 
-44 Entscheidung(en).
+94 Entscheidung(en).
 
+- [BGH, Urteil vom 17.12.2009 - VII ZR 172/08](vii-zr-172-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.12.2009 - VII ZB 31/09](vii-zb-31-09.md) — I. 1 Die Gläubigerin beabsichtigt, gegen den Schuldner aus einem vor dem Arbeitsgericht abgeschlossenen Vergleich, in dem sich der Schuldner zur Zah- lung restlichen Arbeitslohns …
 - [BGH, Beschluss vom 10.12.2009 - VII ZB 41/09](vii-zb-41-09.md) — BGH, Beschluss vom 10.12.2009 - VII ZB 41/09
 - [BGH, Beschluss vom 10.12.2009 - VII ZB 45/08](vii-zb-45-08.md) — eines Teilbetrages in Höhe von 123.476,99 €
 - [BGH, Beschluss vom 10.12.2009 - VII ZB 46/08](vii-zb-46-08.md) — eines Teilbetrages in Höhe von 123.476,99 €
+- [BGH, Beschluss vom 10.12.2009 - VII ZB 88/08](vii-zb-88-08.md) — Mängeln und auf
+- [BGH, Urteil vom 10.12.2009 - VII ZR 42/08](vii-zr-42-08.md) — Pflichtverletzungen bei der Prüfung zum Schadensersatz verpflichtet ist, kann ihr die Mitverursachung des entstandenen Schadens durch ihren
+- [BGH, Beschluss vom 26.11.2009 - VII ZB 42/08](vii-zb-42-08.md) — I. 1 Der Schuldner betreibt in B. als Einzelkaufmann eine Firma mit der Be- zeichnung "Rohrpost-Technik, Fernmelde- und Uhrenanlagen B. H.", die in das Handelsregister eingetragen …
+- [BGH, Urteil vom 26.11.2009 - VII ZR 131/08](vii-zr-131-08.md) — Tatbestand:
 - [BGH, Beschluss vom 26.11.2009 - VII ZR 133/08](vii-zr-133-08.md) — nicht ausgeführter Restarbeiten hat es nicht vorgenommen. Gegen-
 - [BGH, Beschluss vom 26.11.2009 - VII ZR 229/08](vii-zr-229-08.md) — BGH, Beschluss vom 26.11.2009 - VII ZR 229/08
+- [BGH, Beschluss vom 26.11.2009 - VII ZR 244/08](vii-zr-244-08.md) — BGH, Beschluss vom 26.11.2009 - VII ZR 244/08
+- [BGH, Beschluss vom 24.11.2009 - VII ZR 31/09](vii-zr-31-09.md) — Mängeln Zurückbe-
+- [BGH, Beschluss vom 12.11.2009 - VII ZB 101/07](vii-zb-101-07.md) — I. 1 Die Klägerin hat die Beklagte auf Zahlung von 2.457,57 € nebst Zinsen in Anspruch genommen. In der Klageschrift hat sie die auch im Rubrum des amts- gerichtlichen Urteils …
 - [BGH, Beschluss vom 12.11.2009 - VII ZB 37/09](vii-zb-37-09.md) — BGH, Beschluss vom 12.11.2009 - VII ZB 37/09
 - [BGH, Beschluss vom 12.11.2009 - VII ZB 46/09](vii-zb-46-09.md) — BGH, Beschluss vom 12.11.2009 - VII ZB 46/09
 - [BGH, Urteil vom 12.11.2009 - VII ZR 233/08](vii-zr-233-08.md) — Tatbestand:
+- [BGH, Beschluss vom 12.11.2009 - VII ZR 39/07](vii-zr-39-07.md) — BGH, Beschluss vom 12.11.2009 - VII ZR 39/07
 - [BGH, Beschluss vom 12.11.2009 - VII ZR 65/09](vii-zr-65-09.md) — BGH, Beschluss vom 12.11.2009 - VII ZR 65/09
+- [BGH, Beschluss vom 28.10.2009 - VII ZB 82/09](vii-zb-82-09.md) — 1. Über die beantragte einstweilige Anordnung ist gemäß § 575 Abs. 5 ZPO i.V.m. § 570 Abs. 3 ZPO nach pflichtgemäßem Ermessen zu entscheiden. Dabei sind die Erfolgsaussichten der …
 - [BGH, Beschluss vom 15.10.2009 - VII ZB 1/09](vii-zb-1-09.md) — ausgeglichen worden, weil ihrem
+- [BGH, Beschluss vom 15.10.2009 - VII ZB 61/09](vii-zb-61-09.md) — Die vom Antragsteller beabsichtigte Beschwerde ist als Rüge im Sinne von § 321 a ZPO anzusehen.
 - [BGH, Beschluss vom 15.10.2009 - VII ZR 2/09](vii-zr-2-09.md) — Die Beschwerde des Klägers gegen die Nichtzulassung der Revision hat Erfolg.
+- [BGH, Beschluss vom 15.10.2009 - VII ZR 237/08](vii-zr-237-08.md) — 1. Das Berufungsgericht hat gegen den Anspruch der Beklagten auf rechtliches Gehör verstoßen, Art. 103 Abs. 1 GG, indem es von einer Beweis- -3- erhebung über das Verständnis der …
 - [BGH, Beschluss vom 01.10.2009 - VII ZB 37/08](vii-zb-37-08.md) — eines Teilbetrages von 750.000 US-
 - [BGH, Beschluss vom 01.10.2009 - VII ZB 41/08](vii-zb-41-08.md) — Forderungen von insgesamt 1.372,36 €
 - [BGH, Beschluss vom 01.10.2009 - VII ZB 43/09](vii-zb-43-09.md) — einer Leistungsänderung. Dazu hat die Klägerin behauptet, die Beklagte habe
+- [BGH, Urteil vom 01.10.2009 - VII ZR 183/08](vii-zr-183-08.md) — 3-
 - [BGH, Beschluss vom 10.09.2009 - VII ZB 21/08](vii-zb-21-08.md) — mangelhafter Aus-
 - [BGH, Urteil vom 10.09.2009 - VII ZR 152/08](vii-zr-152-08.md) — einer verzögerten Vergabe grundsätzlich nur erwachsen, wenn dies eine Änderung der Leistungspflichten zur Folge hat.
 - [BGH, Beschluss vom 10.09.2009 - VII ZR 153/08](vii-zr-153-08.md) — BGH, Beschluss vom 10.09.2009 - VII ZR 153/08
+- [BGH, Beschluss vom 10.09.2009 - VII ZR 162/08](vii-zr-162-08.md) — BGH, Beschluss vom 10.09.2009 - VII ZR 162/08
 - [BGH, Urteil vom 10.09.2009 - VII ZR 255/08](vii-zr-255-08.md) — Tatbestand:
 - [BGH, Urteil vom 10.09.2009 - VII ZR 82/08](vii-zr-82-08.md) — Tatbestand:
 - [BGH, Beschluss vom 27.08.2009 - VII ZB 89/08](vii-zb-89-08.md) — der Versäumung der Fristen zur Einlegung und Begründung der Rechtsbeschwerde gegen den Beschluss der 4. Zivilkammer des Landgerichts Bonn vo
 - [BGH, Beschluss vom 27.08.2009 - VII ZR 161/08](vii-zr-161-08.md) — BGH, Beschluss vom 27.08.2009 - VII ZR 161/08
 - [BGH, Beschluss vom 27.08.2009 - VII ZR 20/07](vii-zr-20-07.md) — BGH, Beschluss vom 27.08.2009 - VII ZR 20/07
 - [BGH, Beschluss vom 27.08.2009 - VII ZR 69/08](vii-zr-69-08.md) — 1. Das Berufungsgericht hat den Vortrag der Beklagten, die nach ihrer Ansicht fehlerhafte Armierung der Bodenplatte sei (mit)ursächlich für den einge- tretenen Schaden, nach § 531 …
+- [BGH, Urteil vom 20.08.2009 - VII ZR 205/07](vii-zr-205-07.md) — Tatbestand:
 - [BGH, Urteil vom 20.08.2009 - VII ZR 212/07](vii-zr-212-07.md) — 3-
 - [BGH, Beschluss vom 13.08.2009 - VII ZA 5/09](vii-za-5-09.md) — BGH, Beschluss vom 13.08.2009 - VII ZA 5/09
 - [BGH, Beschluss vom 13.08.2009 - VII ZB 110/08](vii-zb-110-08.md) — Die Rechtsbeschwerde ist gemäß § 574 Abs. 1 Nr. 1, § 522 Abs. 1 Satz 4 ZPO statthaft. Sie ist jedoch unzulässig, weil Zulassungsgründe im Sin- ne des § 574 Abs. 2 ZPO nicht …
 - [BGH, Beschluss vom 13.08.2009 - VII ZR 115/08](vii-zr-115-08.md) — unzureichender Bauüberwa-
+- [BGH, Beschluss vom 23.07.2009 - VII ZB 103/08](vii-zb-103-08.md) — laufenden und
+- [BGH, Beschluss vom 23.07.2009 - VII ZB 104/08](vii-zb-104-08.md) — laufen-
+- [BGH, Beschluss vom 23.07.2009 - VII ZB 105/08](vii-zb-105-08.md) — lau-
 - [BGH, Beschluss vom 23.07.2009 - VII ZB 3/07](vii-zb-3-07.md) — BGH, Beschluss vom 23.07.2009 - VII ZB 3/07
 - [BGH, Urteil vom 23.07.2009 - VII ZR 134/08](vii-zr-134-08.md) — Tatbestand:
+- [BGH, Urteil vom 23.07.2009 - VII ZR 151/08](vii-zr-151-08.md) — Tatbestand:
+- [BGH, Urteil vom 23.07.2009 - VII ZR 164/08](vii-zr-164-08.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 23.07.2009 - VII ZR 191/08](vii-zr-191-08.md) — Tatbestand:
+- [BGH, Beschluss vom 23.07.2009 - VII ZR 254/08](vii-zr-254-08.md) — des von den Klägern vertraglich übernommenen Aufgabenkreises darauf nicht ankommt.
+- [BGH, Beschluss vom 09.07.2009 - VII ZA 15/08](vii-za-15-08.md) — des Grundschuldbetrages zuzüglich Neben-
+- [BGH, Beschluss vom 09.07.2009 - VII ZB 111/08](vii-zb-111-08.md) — der Versäumung der Berufungsbegründungsfrist gewährt.
+- [BGH, Beschluss vom 09.07.2009 - VII ZB 56/08](vii-zb-56-08.md) — der Kosten
+- [BGH, Beschluss vom 09.07.2009 - VII ZB 65/08](vii-zb-65-08.md) — der Prozesskosten allerdings weder bei einer ge-
+- [BGH, Urteil vom 09.07.2009 - VII ZR 109/08](vii-zr-109-08.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2009 - VII ZR 130/07](vii-zr-130-07.md) — Tatbestand:
 - [BGH, Beschluss vom 18.06.2009 - VII ZB 101/08](vii-zb-101-08.md) — BGH, Beschluss vom 18.06.2009 - VII ZB 101/08
 - [BGH, Beschluss vom 18.06.2009 - VII ZR 108/07](vii-zr-108-07.md) — BGH, Beschluss vom 18.06.2009 - VII ZR 108/07
 - [BGH, Versäumnisurteil vom 18.06.2009 - VII ZR 167/08](vii-zr-167-08.md) — Tatbestand:
+- [BGH, Urteil vom 18.06.2009 - VII ZR 196/08](vii-zr-196-08.md) — Tatbestand:
 - [BGH, Urteil vom 04.06.2009 - VII ZR 54/07](vii-zr-54-07.md) — Tatbestand:
+- [BGH, Urteil vom 28.05.2009 - VII ZR 206/07](vii-zr-206-07.md) — Tatbestand:
 - [BGH, Urteil vom 28.05.2009 - VII ZR 74/06](vii-zr-74-06.md) — Tatbestand:
+- [BGH, Urteil vom 11.05.2009 - VII ZR 11/08](vii-zr-11-08.md) — Tatbestand:
 - [BGH, Beschluss vom 07.05.2009 - VII ZB 85/08](vii-zb-85-08.md) — BGH, Beschluss vom 07.05.2009 - VII ZB 85/08
+- [BGH, Urteil vom 07.05.2009 - VII ZR 15/08](vii-zr-15-08.md) — Tatbestand:
+- [BGH, Beschluss vom 07.05.2009 - VII ZR 21/08](vii-zr-21-08.md) — BGH, Beschluss vom 07.05.2009 - VII ZR 21/08
+- [BGH, Urteil vom 17.04.2009 - VII ZR 164/07](vii-zr-164-07.md) — Tatbestand:
+- [BGH, Beschluss vom 16.04.2009 - VII ZB 62/08](vii-zb-62-08.md) — Verstoßes gegen § 307 Abs. 1 BGB unwirksam (Bestätigung von BGH, Beschluss vom 16. Juli 2004 - IXa ZB 326/03, NJW-RR 2004, 1718 = Rpfleger 2
+- [BGH, Beschluss vom 16.04.2009 - VII ZB 66/08](vii-zb-66-08.md) — der Versäumung der Berufungsbegründungsfrist gewährt. Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Rechts
+- [BGH, Beschluss vom 16.04.2009 - VII ZB 67/08](vii-zb-67-08.md) — der Versäumung der Berufungsbegründungsfrist gewährt. Die Sache wird zur neuen Verhandlung und Entscheidung, auch über die Kosten des Rechts
+- [BGH, Beschluss vom 16.04.2009 - VII ZR 177/06](vii-zr-177-06.md) — I. 1 Der Kläger nimmt die Beklagten auf Ersatz des Schadens in Anspruch, der ihm infolge von Mängeln bei einem Dachgeschossausbau entstanden ist. -3- 2 Der Kläger und die …
+- [BGH, Beschluss vom 16.04.2009 - VII ZR 177/07](vii-zr-177-07.md) — BGB § 633 Abs. 2 Satz 2 a.F.
+- [BGH, Urteil vom 16.04.2009 - VII ZR 9/08](vii-zr-9-08.md) — Tatbestand:
+- [BGH, Beschluss vom 24.03.2009 - VII ZR 139/08](vii-zr-139-08.md) — einer verspätet
+- [BGH, Beschluss vom 24.03.2009 - VII ZR 20/08](vii-zr-20-08.md) — BGH, Beschluss vom 24.03.2009 - VII ZR 20/08
+- [BGH, Beschluss vom 24.03.2009 - VII ZR 200/08](vii-zr-200-08.md) — Die Zulassung der Revision ist nicht veranlasst.
+- [BGH, Urteil vom 12.03.2009 - VII ZR 26/06](vii-zr-26-06.md) — Nichterfüllung in der Weise geltend machen, dass er die Eigentumswohnung zurückgibt und Ausgleich dafür verlangt, dass nach Rückgabe der Woh
 - [BGH, Urteil vom 12.03.2009 - VII ZR 88/08](vii-zr-88-08.md) — Tatbestand:
 - [BGH, Beschluss vom 10.03.2009 - VII ZB 87/08](vii-zb-87-08.md) — der Versäumung der Berufungsbegründungsfrist zurückgewiesen. Zur Begründung hat es ausgeführt, die Beklagten hätten die Berufungsbegründungs
+- [BGH, Beschluss vom 10.03.2009 - VII ZR 164/06](vii-zr-164-06.md) — BGH, Beschluss vom 10.03.2009 - VII ZR 164/06
 - [BGH, Beschluss vom 26.02.2009 - VII ZB 30/08](vii-zb-30-08.md) — BGH, Beschluss vom 26.02.2009 - VII ZB 30/08
 - [BGH, Beschluss vom 26.02.2009 - VII ZR 170/08](vii-zr-170-08.md) — BGH, Beschluss vom 26.02.2009 - VII ZR 170/08
 - [BGH, Beschluss vom 26.02.2009 - VII ZR 191/06](vii-zr-191-06.md) — Insolvenz); Klageantrag 3 und Widerklage (Grundschuld): 28.632,34 € (schlüssig vorgetragener gesicherter Anspruch)
 - [BGH, Urteil vom 26.02.2009 - VII ZR 73/08](vii-zr-73-08.md) — Tatbestand:
+- [BGH, Beschluss vom 12.02.2009 - VII ZB 76/07](vii-zb-76-07.md) — ZPO § 278, § 520 Abs. 2 a) Ein als besondere Ausgestaltung des gerichtlichen Güteverfahrens durchgeführtes Mediationsverfahren hemmt nicht den Lauf der Berufungsbegründungsfrist …
+- [BGH, Urteil vom 12.02.2009 - VII ZR 230/07](vii-zr-230-07.md) — Tatbestand:
 - [BGH, Urteil vom 12.02.2009 - VII ZR 39/08](vii-zr-39-08.md) — Tatbestand:
+- [BGH, Beschluss vom 29.01.2009 - VII ZB 79/08](vii-zb-79-08.md) — feh-
+- [BGH, Beschluss vom 29.01.2009 - VII ZR 165/07](vii-zr-165-07.md) — BGH, Beschluss vom 29.01.2009 - VII ZR 165/07
+- [BGH, Beschluss vom 29.01.2009 - VII ZR 187/08](vii-zr-187-08.md) — vorzunehmende Prüfung eines von der Partei nicht begründeten Prozesskostenhilfeantrags für eine Nichtzulassungsbeschwerde, dass der Antragst
+- [BGH, Beschluss vom 15.01.2009 - VII ZB 64/08](vii-zb-64-08.md) — der Aufhebung, weil sie unter Verletzung des Verfassungsgebots des gesetzli-

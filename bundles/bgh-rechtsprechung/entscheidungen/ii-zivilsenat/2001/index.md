@@ -1,35 +1,92 @@
 # II. Zivilsenat – 2001
 
-31 Entscheidung(en).
+88 Entscheidung(en).
 
-- [BGH, Beschluss vom 21.12.2001 - II ZB 26/01](ii-zb-26-01.md) — BGH, Beschluss vom 21.12.2001 - II ZB 26/01
+- [BGH, Beschluss vom 17.12.2001 - II ZR 110/01](ii-zr-110-01.md) — der weiteren Entwer-
 - [BGH, Urteil vom 17.12.2001 - II ZR 222/99](ii-zr-222-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.12.2001 - II ZR 27/01](ii-zr-27-01.md) — 3-
 - [BGH, Urteil vom 17.12.2001 - II ZR 288/99](ii-zr-288-99.md) — 3-
+- [BGH, Urteil vom 17.12.2001 - II ZR 31/00](ii-zr-31-00.md) — Tatbestand:
 - [BGH, Urteil vom 17.12.2001 - II ZR 348/99](ii-zr-348-99.md) — Tatbestand:
 - [BGH, Urteil vom 17.12.2001 - II ZR 382/99](ii-zr-382-99.md) — Tatbestand:
+- [BGH, Beschluss vom 17.12.2001 - II ZR 44/00](ii-zr-44-00.md) — BGH, Beschluss vom 17.12.2001 - II ZR 44/00
 - [BGH, Beschluss vom 13.12.2001 - II ZR 261/00](ii-zr-261-00.md) — BGH, Beschluss vom 13.12.2001 - II ZR 261/00
+- [BGH, Urteil vom 10.12.2001 - II ZR 139/00](ii-zr-139-00.md) — BGH, Urteil vom 10.12.2001 - II ZR 139/00
 - [BGH, Urteil vom 10.12.2001 - II ZR 140/00](ii-zr-140-00.md) — BGH, Urteil vom 10.12.2001 - II ZR 140/00
 - [BGH, Urteil vom 10.12.2001 - II ZR 30/00](ii-zr-30-00.md) — Tatbestand:
 - [BGH, Urteil vom 10.12.2001 - II ZR 89/01](ii-zr-89-01.md) — Tatbestand:
+- [BGH, Beschluss vom 03.12.2001 - II ZR 203/00](ii-zr-203-00.md) — I. Die Gesellschafterversammlung der Beklagten vom 12. August 1997 faßte u.a. die Beschlüsse, 1. die Beklagte habe gegen den Kläger eine Klage auf Feststellung zu erheben, wonach …
+- [BGH, Urteil vom 03.12.2001 - II ZR 308/99](ii-zr-308-99.md) — BGH, Urteil vom 03.12.2001 - II ZR 308/99
+- [BGH, Urteil vom 03.12.2001 - II ZR 372/99](ii-zr-372-99.md) — 3-
+- [BGH, Beschluss vom 29.11.2001 - II ZB 13/01](ii-zb-13-01.md) — I. Die Klägerin nimmt die Beklagte auf Zahlung von 12.500,00 DM in Anspruch. Das Landgericht hat ihr lediglich 1.179,24 DM zuerkannt. Gegen die Abweisung ihrer weitergehenden …
 - [BGH, Beschluss vom 14.11.2001 - II ZR 5/00](ii-zr-5-00.md) — über die gesamten Kosten des Revisionsverfahrens in dem diese Instanz abschließenden Urteil eine Entscheidung treffen (vgl. Zöller/Herget, Z
+- [BGH, Beschluss vom 12.11.2001 - II ZB 15/01](ii-zb-15-01.md) — angeblichen Verstoßes gegen ein vertragstrafenbewehrtes Wettbewerbsverbot einen Vollstreckungsbescheid über 20.000,00 DM nebst Zinsen erwirk
+- [BGH, Urteil vom 12.11.2001 - II ZR 225/99](ii-zr-225-99.md) — Tatbestand:
+- [BGH, Urteil vom 05.11.2001 - II ZR 119/00](ii-zr-119-00.md) — BGH, Urteil vom 05.11.2001 - II ZR 119/00
+- [BGH, Beschluss vom 05.11.2001 - II ZR 286/00](ii-zr-286-00.md) — eines Teilbetrages von
+- [BGH, Beschluss vom 05.11.2001 - II ZR 299/00](ii-zr-299-00.md) — I. Die Klägerin hat die in der Hauptversammlung der Beklagten vom 14. Juli 1999 gefaßten Beschlüsse zu acht Tagesordnungspunkten angefochten. Ihre Klage hatte nur zu den …
+- [BGH, Urteil vom 05.11.2001 - II ZR 97/00](ii-zr-97-00.md) — Tatbestand:
+- [BGH, Beschluss vom 29.10.2001 - II ZB 14/01](ii-zb-14-01.md) — Nichtvorliegens der Voraussetzungen des
+- [BGH, Beschluss vom 29.10.2001 - II ZR 110/00](ii-zr-110-00.md) — I. Der Kläger und die Beklagten zu 1-3 sind miteinander verwandte Kommanditisten einer GmbH & Co. KG sowie Gesellschafter ihrer Komplementär-GmbH, der Beklagten zu 4, deren …
+- [BGH, Urteil vom 29.10.2001 - II ZR 314/99](ii-zr-314-99.md) — Tatbestand:
 - [BGH, Beschluss vom 24.10.2001 - II ZR 305/00](ii-zr-305-00.md) — I. Im Namen und im Auftrag des Klägers hat Rechtsanwalt beim Bundesgerichtshof Prof. Dr. K. fristgerecht gegen das Urteil des Oberlandesgerichts Hamm vom 13. September 2000 …
+- [BGH, Beschluss vom 15.10.2001 - II ZB 22/00](ii-zb-22-00.md) — I. Die Klägerin hat die gegen das Urteil des Landgerichts Magdeburg vom 15. März 2000 eingelegte Berufung nicht innerhalb der bis zum 13. Juni 2000 laufenden …
+- [BGH, Urteil vom 15.10.2001 - II ZR 22/01](ii-zr-22-01.md) — Tatbestand:
+- [BGH, Beschluss vom 15.10.2001 - II ZR 238/00](ii-zr-238-00.md) — Das Berufungsgericht hat bei der Festsetzung der Beschwer auf einen Betrag von 48.000,00 DM zutreffend allein die Klageforderung zugrunde gelegt.
+- [BGH, Beschluss vom 01.10.2001 - II ZR 217/01](ii-zr-217-01.md) — I. Die Klägerin ist Miteigentümerin eines Grundstücks, das nach Darstellung des Beklagten einer aus ihm und der Mutter der Prozeßparteien bestehenden BGB-Gesellschaft zur …
+- [BGH, Beschluss vom 01.10.2001 - II ZR 294/00](ii-zr-294-00.md) — nach dem Nominalwert der Beteiligung zu bemessen.
+- [BGH, Urteil vom 01.10.2001 - II ZR 341/99](ii-zr-341-99.md) — Tatbestand:
+- [BGH, Beschluss vom 24.09.2001 - II ZB 13/00](ii-zb-13-00.md) — I. Die Beschwerdeführer sind außenstehende Aktionäre der Beteiligten zu 13, deren Aktien überwiegend die Beteiligte zu 14, eine Gesellschaft mit beschränkter Haftung, hält. Beide …
+- [BGH, Urteil vom 24.09.2001 - II ZR 289/00](ii-zr-289-00.md) — Tatbestand:
+- [BGH, Urteil vom 24.09.2001 - II ZR 69/00](ii-zr-69-00.md) — 3-
+- [BGH, Urteil vom 24.09.2001 - II ZR 90/00](ii-zr-90-00.md) — 3-
 - [BGH, Beschluss vom 17.09.2001 - II ZB 25/00](ii-zb-25-00.md) — der Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorigen Stand beantragt und ihre Berufung begründet.
 - [BGH, Urteil vom 17.09.2001 - II ZR 178/99](ii-zr-178-99.md) — Tatbestand:
 - [BGH, Urteil vom 17.09.2001 - II ZR 245/99](ii-zr-245-99.md) — Tatbestand:
 - [BGH, Urteil vom 17.09.2001 - II ZR 275/99](ii-zr-275-99.md) — Tatbestand:
 - [BGH, Urteil vom 17.09.2001 - II ZR 378/99](ii-zr-378-99.md) — Tatbestand: Die Klägerin nimmt die Beklagte aus abgetretenem Recht der M. GmbH auf Zahlung von 247.012,74 DM in Anspruch, die aus der Belast
+- [BGH, Beschluss vom 12.09.2001 - II ZR 85/01](ii-zr-85-01.md) — I. Auf Antrag des Klägers hat das Berufungsgericht festgestellt, daß die seitens der beklagten GmbH ausgesprochene Kündigung seines Geschäftsführeranstellungsvertrages unwirksam …
+- [BGH, Beschluss vom 10.09.2001 - II ZB 24/00](ii-zb-24-00.md) — I. Das Amtsgericht Prenzlau hat die in einer vereinsrechtlichen Streitigkeit erhobene Klage des Beschwerdeführers abgewiesen und dessen Antrag auf Protokollberichtigung …
+- [BGH, Urteil vom 10.09.2001 - II ZR 14/00](ii-zr-14-00.md) — eine vorherige Abmahnung nicht voraus (vgl. Sen.Urt. v. 14. Februar 2000 - II ZR 218/98, ZIP 2000, 667).
+- [BGH, Versäumnisurteil vom 10.09.2001 - II ZR 380/99](ii-zr-380-99.md) — Tatbestand:
+- [BGH, Urteil vom 10.09.2001 - II ZR 381/99](ii-zr-381-99.md) — Tatbestand:
+- [BGH, Beschluss vom 16.07.2001 - II ZB 23/00](ii-zb-23-00.md) — I. Am 17. November 1999 meldete der Geschäftsführer der persönlich haftenden Gesellschafterin der im Handelsregister eingetragenen SV V. GmbH & Co Vermarktungs KG für die …
 - [BGH, Urteil vom 09.07.2001 - II ZR 205/99](ii-zr-205-99.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2001 - II ZR 228/99](ii-zr-228-99.md) — Tatbestand:
+- [BGH, Beschluss vom 02.07.2001 - II ZB 28/00](ii-zb-28-00.md) — Versäumung der Berufungsbegründungsfrist gewährt.
+- [BGH, Urteil vom 02.07.2001 - II ZR 264/99](ii-zr-264-99.md) — Tatbestand:
+- [BGH, Urteil vom 02.07.2001 - II ZR 304/00](ii-zr-304-00.md) — Tatbestand:
+- [BGH, Urteil vom 25.06.2001 - II ZR 38/99](ii-zr-38-99.md) — Tatbestand:
+- [BGH, Beschluss vom 18.06.2001 - II ZR 105/00](ii-zr-105-00.md) — Über das Vermögen der Beklagten ist am 1. Februar 2001, mithin während des Revisionsrechtsstreits, das Insolvenzverfahren eröffnet worden. Das Verfahren betrifft die …
+- [BGH, Urteil vom 18.06.2001 - II ZR 212/99](ii-zr-212-99.md) — Tatbestand:
+- [BGH, Urteil vom 18.06.2001 - II ZR 248/99](ii-zr-248-99.md) — Tatbestand:
+- [BGH, Beschluss vom 28.05.2001 - II ZB 21/00](ii-zb-21-00.md) — I. Die klagende Konkursverwalterin über das Vermögen der B. GmbH hat gegen deren Geschäftsführerin, die Beklagte zu 2, und gegen die Beklagte zu 1 zunächst eine einstweilige …
+- [BGH, Beschluss vom 07.05.2001 - II ZB 16/00](ii-zb-16-00.md) — der Versäumung der Berufungsbegründungsfrist
+- [BGH, Beschluss vom 07.05.2001 - II ZB 6/01](ii-zb-6-01.md) — I. Die Parteien waren Gesellschafter einer bürgerlich-rechtlichen Gesellschaft. Die Klägerin ist aus der Gesellschaft ausgeschieden. Sie hat die Beklagten als Gesamtschuldner auf …
+- [BGH, Versäumnisurteil vom 07.05.2001 - II ZR 63/00](ii-zr-63-00.md) — Tatbestand:
 - [BGH, Beschluss vom 30.04.2001 - II ZB 18/00](ii-zb-18-00.md) — der Versäumung der Berufungsfrist, von der er nach seinem Vortrag am 16. Mai 2000 erfahren hat, Wiederein-
+- [BGH, Urteil vom 30.04.2001 - II ZR 322/99](ii-zr-322-99.md) — 3Tatbestand:
 - [BGH, Urteil vom 30.04.2001 - II ZR 328/00](ii-zr-328-00.md) — des einheitlichen Streitgegenstandes und der einheitlichen Urteilswirkungen keine Wertaddition statt.
+- [BGH, Beschluss vom 02.04.2001 - II ZB 17/00](ii-zb-17-00.md) — Ver-
+- [BGH, Urteil vom 02.04.2001 - II ZR 217/99](ii-zr-217-99.md) — seiner Beschränkung auf den Geschäftszweig der Gesellschaft der Konkurrenzverhütung.
+- [BGH, Urteil vom 02.04.2001 - II ZR 261/99](ii-zr-261-99.md) — Tatbestand:
+- [BGH, Urteil vom 02.04.2001 - II ZR 331/99](ii-zr-331-99.md) — Tatbestand:
+- [BGH, Urteil vom 19.03.2001 - II ZR 249/99](ii-zr-249-99.md) — Tatbestand:
+- [BGH, Urteil vom 19.03.2001 - II ZR 277/00](ii-zr-277-00.md) — Tatbestand: Die Klägerin nimmt den Beklagten, ihren geschiedenen Ehemann, auf Schadenersatz wegen der Löschung einer nicht mehr valutierten
 - [BGH, Beschluss vom 12.03.2001 - II ZB 15/00](ii-zb-15-00.md) — zu legen, der - unter Ausschluß außergewöhnlicher Tagesausschläge oder kurzfri- -2stiger sich nicht verfestigender sprunghafter Entwicklungen - aus dem Mittel der Börsenkurse der …
 - [BGH, Beschluss vom 12.03.2001 - II ZB 8/00](ii-zb-8-00.md) — fruchtlosen Ablaufs der dreimal verlängerten Berufungsbegründungsfrist gemäß §§ 519 b Abs. 2, 519 Abs. 2 ZPO verworfen worden ist, keinen Re
+- [BGH, Beschluss vom 05.03.2001 - II ZB 11/00](ii-zb-11-00.md) — I. Der Kläger war Gesellschafter und Geschäftsführer der beklagten GmbH und verlangt von ihr zwecks Berechnung seines Abfindungsanspruchs Einsicht in verschiedene …
+- [BGH, Beschluss vom 05.03.2001 - II ZB 4/00](ii-zb-4-00.md) — des Streits um die Kostenentscheidung die nicht angefochtene Sachentscheidung überprüfen muß; zum anderen sollen Urteile vermieden werden, d
 - [BGH, Beschluss vom 12.02.2001 - II ZB 5/00](ii-zb-5-00.md) — der Versäumung der Berufungsfrist Wiedereinsetzung in den vo-
 - [BGH, Urteil vom 12.02.2001 - II ZR 148/99](ii-zr-148-99.md) — Tatbestand:
+- [BGH, Beschluss vom 05.02.2001 - II ZB 7/00](ii-zb-7-00.md) — I. Mit der Klage begehrt der Kläger von dem Beklagten Rechnungsle- gung und Einsicht in die Abrechnungsunterlagen über die Verwaltung zweier bebauter Grundstücke in O. und I …
 - [BGH, Beschluss vom 29.01.2001 - II ZB 26/00](ii-zb-26-00.md) — der Versäumung der Begründungsfrist Wiedereinsetzung in den vorigen Stand beantragt.
 - [BGH, Urteil vom 29.01.2001 - II ZR 183/00](ii-zr-183-00.md) — Tatbestand:
-- [BGH, Urteil vom 29.01.2001 - II ZR 331/00](ii-zr-331-00.md) — BGH, Urteil vom 29.01.2001 - II ZR 331/00
 - [BGH, Urteil vom 29.01.2001 - II ZR 360/99](ii-zr-360-99.md) — Tatbestand:
 - [BGH, Urteil vom 29.01.2001 - II ZR 368/98](ii-zr-368-98.md) — Tatbestand: Die Kläger, Kleinaktionäre der Beklagten, wenden sich mit ihrer Anfechtungsklage gegen einen Beschluß der Hauptversammlung vom 1
+- [BGH, Beschluss vom 15.01.2001 - II ZB 1/00](ii-zb-1-00.md) — I. Die klagende GmbH gehört zu einer von dem Beklagten veräußerten Unternehmensgruppe und hat gegen ihn mit der Klage Erstattungsansprüche auf gesellschaftsrechtlicher Grundlage …
 - [BGH, Urteil vom 15.01.2001 - II ZR 121/99](ii-zr-121-99.md) — Tatbestand: Die Parteien, die über Jahre in nichtehelicher Lebensgemeinschaft gelebt haben, machen mit der Klage und der Widerklage gegensei
 - [BGH, Urteil vom 15.01.2001 - II ZR 124/99](ii-zr-124-99.md) — Tatbestand:
+- [BGH, Urteil vom 15.01.2001 - II ZR 127/99](ii-zr-127-99.md) — Tatbestand:
+- [BGH, Urteil vom 15.01.2001 - II ZR 48/99](ii-zr-48-99.md) — vorsätzlichen Verschuldens bei Vertragsschluß Schadensersatz zu zahlen habe, kommt eine Zu-
+- [BGH, Urteil vom 08.01.2001 - II ZR 88/99](ii-zr-88-99.md) — Tatbestand:

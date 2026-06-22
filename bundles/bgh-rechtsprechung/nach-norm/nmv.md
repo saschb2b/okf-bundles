@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu NMV"
 description: "BGH-Entscheidungen zu NMV, geordnet nach Vorschrift."
 tags: [register, navigation, nmv]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

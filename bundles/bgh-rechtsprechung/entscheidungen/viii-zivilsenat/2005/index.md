@@ -1,14 +1,38 @@
 # VIII. Zivilsenat – 2005
 
-67 Entscheidung(en).
+176 Entscheidung(en).
 
+- [BGH, Urteil vom 21.12.2005 - VIII ZR 108/04](viii-zr-108-04.md) — Tatbestand:
 - [BGH, Urteil vom 21.12.2005 - VIII ZR 49/05](viii-zr-49-05.md) — des Mangels die Minderung erklären oder einen Anspruch auf Schadensersatz statt der Leistung geltend machen kann.
+- [BGH, Urteil vom 21.12.2005 - VIII ZR 85/05](viii-zr-85-05.md) — Tatbestand:
+- [BGH, Urteil vom 21.12.2005 - VIII ZR 88/05](viii-zr-88-05.md) — Tatbestand:
+- [BGH, Beschluss vom 20.12.2005 - VIII ZR 320/04](viii-zr-320-04.md) — des Verdachts einer gesundheitsgefährdenden Beschaffenheit nicht verwendet werden können, übertragen lässt, stellt auch die Revision nicht i
+- [BGH, Beschluss vom 20.12.2005 - VIII ZR 346/04](viii-zr-346-04.md) — BGH, Beschluss vom 20.12.2005 - VIII ZR 346/04
+- [BGH, Beschluss vom 20.12.2005 - VIII ZR 7/04](viii-zr-7-04.md) — Die Revision ist gemäß § 552a ZPO zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für ihre Zulassung nicht vorliegen (§ 543 Abs.
+- [BGH, Urteil vom 07.12.2005 - VIII ZR 126/05](viii-zr-126-05.md) — eines behebbaren Mangels des Pferdes grundsätzlich nur dann in Betracht, wenn der Erwerber dem Veräußerer zuvor erfolglos eine angemessene F
+- [BGH, Beschluss vom 06.12.2005 - VIII ZB 30/05](viii-zb-30-05.md) — Versäumung der Berufungsfrist unzuläs-
+- [BGH, Beschluss vom 06.12.2005 - VIII ZB 48/05](viii-zb-48-05.md) — I. 1 Der Kläger hat den Beklagten auf Schadensersatz aus einem am 12. Februar 2004 geschlossenen Kaufvertrag über ein Wohnmobil in Anspruch genommen. In der Klageschrift hat er …
+- [BGH, Urteil vom 23.11.2005 - VIII ZR 154/04](viii-zr-154-04.md) — 3-
+- [BGH, Urteil vom 23.11.2005 - VIII ZR 4/05](viii-zr-4-05.md) — Tatbestand:
+- [BGH, Urteil vom 23.11.2005 - VIII ZR 43/05](viii-zr-43-05.md) — Tatbestand:
+- [BGH, Beschluss vom 22.11.2005 - VIII ZB 34/05](viii-zb-34-05.md) — zu geringen Wertes des Beschwerdegegenstandes (§ 511
+- [BGH, Beschluss vom 22.11.2005 - VIII ZB 40/05](viii-zb-40-05.md) — unter-
+- [BGH, Beschluss vom 16.11.2005 - VIII ZA 19/05](viii-za-19-05.md) — Der Beklagte hat beantragt, ihm Prozesskostenhilfe für ein Rechtsmittel gegen den Beschluss des Landgerichts Bremen vom 14.
+- [BGH, Beschluss vom 16.11.2005 - VIII ZB 78/05](viii-zb-78-05.md) — Die als Rechtsbeschwerde zu behandelnde weitere „sofortige Beschwerde“ der Beklagten ist nicht statthaft, weil die Voraussetzungen für ein weiteres Rechtsmittel gegen den …
 - [BGH, Beschluss vom 16.11.2005 - VIII ZR 186/04](viii-zr-186-04.md) — BGH, Beschluss vom 16.11.2005 - VIII ZR 186/04
 - [BGH, Urteil vom 16.11.2005 - VIII ZR 218/04](viii-zr-218-04.md) — ZPO § 767 Abs. 2 Der mit einer Vollstreckungsabwehrklage geltend gemachte Einwand des Mieters gegenüber dem titulierten Anspruch des Vermieters auf Zahlung zukünftig fällig …
+- [BGH, Urteil vom 16.11.2005 - VIII ZR 373/04](viii-zr-373-04.md) — Tatbestand:
+- [BGH, Urteil vom 16.11.2005 - VIII ZR 5/05](viii-zr-5-05.md) — Tatbestand:
 - [BGH, Urteil vom 09.11.2005 - VIII ZR 116/05](viii-zr-116-05.md) — Tatbestand:
+- [BGH, Urteil vom 09.11.2005 - VIII ZR 339/04](viii-zr-339-04.md) — Eigenbedarfs wirksam gekündigt und fällt der geltend gemachte Grund nachträglich weg, so ist dies nur dann zu berücksichtigen, wenn der Grun
 - [BGH, Beschluss vom 09.11.2005 - VIII ZR 68/04](viii-zr-68-04.md) — I. 1 Mit Beschluss vom 27. September 2005 hat der Senat die Beschwerde der Beklagten gegen die Nichtzulassung der Revision gegen das Teil- und Grundurteil des Oberlandesgerichts …
+- [BGH, Urteil vom 02.11.2005 - VIII ZR 310/04](viii-zr-310-04.md) — Tatbestand:
+- [BGH, Urteil vom 02.11.2005 - VIII ZR 39/04](viii-zr-39-04.md) — Tatbestand:
+- [BGH, Beschluss vom 02.11.2005 - VIII ZR 52/05](viii-zr-52-05.md) — Die Revision ist gemäß § 552 a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
 - [BGH, Urteil vom 26.10.2005 - VIII ZR 359/04](viii-zr-359-04.md) — Tatbestand:
+- [BGH, Urteil vom 26.10.2005 - VIII ZR 41/05](viii-zr-41-05.md) — Tatbestand:
 - [BGH, Urteil vom 26.10.2005 - VIII ZR 48/05](viii-zr-48-05.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2005 - VIII ZR 158/04](viii-zr-158-04.md) — Eigenbedarfs gekündigt hat, nach Ablauf der Kündigungsfrist nicht auf das Freiwerden einer Alternativwohnung berufen kann, kommt es nicht an
 - [BGH, Beschluss vom 25.10.2005 - VIII ZR 262/04](viii-zr-262-04.md) — Die Revision war gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
 - [BGH, Beschluss vom 25.10.2005 - VIII ZR 265/04](viii-zr-265-04.md) — Die Revision ist gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
 - [BGH, Beschluss vom 25.10.2005 - VIII ZR 270/04](viii-zr-270-04.md) — Die Revision war gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
@@ -16,56 +40,141 @@
 - [BGH, Beschluss vom 25.10.2005 - VIII ZR 330/04](viii-zr-330-04.md) — Die Revision war gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
 - [BGH, Beschluss vom 25.10.2005 - VIII ZR 331/04](viii-zr-331-04.md) — Die Revision ist gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
 - [BGH, Beschluss vom 25.10.2005 - VIII ZR 337/04](viii-zr-337-04.md) — Die Revision ist gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
+- [BGH, Beschluss vom 19.10.2005 - VIII ZR 208/05](viii-zr-208-05.md) — Zahlungsverzugs der Beklagten mit der Miete. Durch Urteil des Amtsge-
+- [BGH, Urteil vom 19.10.2005 - VIII ZR 217/04](viii-zr-217-04.md) — Tatbestand:
 - [BGH, Beschluss vom 19.10.2005 - VIII ZR 349/04](viii-zr-349-04.md) — Verletzung vertraglicher Garantien, Zusicherun-
+- [BGH, Versäumnisurteil vom 19.10.2005 - VIII ZR 392/03](viii-zr-392-03.md) — Tatbestand:
 - [BGH, Beschluss vom 12.10.2005 - VIII ZR 179/05](viii-zr-179-05.md) — BGH, Beschluss vom 12.10.2005 - VIII ZR 179/05
 - [BGH, Beschluss vom 05.10.2005 - VIII ZB 125/04](viii-zb-125-04.md) — I. 1 Die Klägerin ist eine Gesellschaft mit Sitz auf der zu Großbritannien ge- hörenden Insel Jersey. Das Urteil des Amtsgerichts, durch das ihre Klage ab- gewiesen worden ist …
 - [BGH, Beschluss vom 05.10.2005 - VIII ZB 52/04](viii-zb-52-04.md) — I. 1 Der Beklagte zu 1 und seine Ehefrau, die Beklagte zu 2, mieteten mit schriftlichem Mietvertrag vom 15. Juli 1976 eine Wohnung in H. . Die Kläge- rin erwarb das Hausgrundstück …
+- [BGH, Beschluss vom 05.10.2005 - VIII ZB 68/05](viii-zb-68-05.md) — Gegen Beschlüsse der Landgerichte im Beschwerdeverfahren ist als Rechts- mittel zum Bundesgerichtshof ausschließlich die Rechtsbeschwerde eröffnet.
+- [BGH, Beschluss vom 05.10.2005 - VIII ZB 69/05](viii-zb-69-05.md) — Gegen Beschlüsse der Landgerichte im Beschwerdeverfahren ist als Rechts- mittel zum Bundesgerichtshof ausschließlich die Rechtsbeschwerde eröffnet.
+- [BGH, Beschluss vom 05.10.2005 - VIII ZR 127/05](viii-zr-127-05.md) — die Kündigung des Klägers vom 30. Januar 2003 als wirksam angesehen hat. In diesem Zusammenhang stellt sich die Frage, wie das berechtigte I
+- [BGH, Urteil vom 05.10.2005 - VIII ZR 16/05](viii-zr-16-05.md) — mangelbehafteter Ware (§§ 478, 479 BGB) gilt die gesetzliche Regelung, jedoch mit folgenden Ergänzungen:] Der Rückgriffsanspruch steht uns a
+- [BGH, Urteil vom 05.10.2005 - VIII ZR 382/04](viii-zr-382-04.md) — Tatbestand:
+- [BGH, Urteil vom 05.10.2005 - VIII ZR 57/05](viii-zr-57-05.md) — Tatbestand:
 - [BGH, Urteil vom 28.09.2005 - VIII ZR 101/04](viii-zr-101-04.md) — Tatbestand:
+- [BGH, Urteil vom 28.09.2005 - VIII ZR 372/04](viii-zr-372-04.md) — Tatbestand:
 - [BGH, Urteil vom 28.09.2005 - VIII ZR 399/03](viii-zr-399-03.md) — Tatbestand:
+- [BGH, Beschluss vom 27.09.2005 - VIII ZB 105/04](viii-zb-105-04.md) — I. 1 Das Amtsgericht hat die Beklagte durch Urteil vom 16. April 2004 zur Zahlung von Verbrauchskosten für Strom und Gas sowie Mahn- und Inkasso- kosten in Höhe von insgesamt …
 - [BGH, Beschluss vom 27.09.2005 - VIII ZR 351/04](viii-zr-351-04.md) — zu berichtigen war (§ 319 Abs. 1 ZPO).
+- [BGH, Beschluss vom 21.09.2005 - VIII ZB 35/04](viii-zb-35-04.md) — I. Die Gesellschafter der Klägerin haben Anfang 2000 die Beklagten im Klagewege auf Räumung sowie auf Zahlung rückständiger Miete in Anspruch genommen. Durch Urteil des …
+- [BGH, Urteil vom 21.09.2005 - VIII ZR 284/04](viii-zr-284-04.md) — Tatbestand: Der Kläger ist ein Verbraucherverband, der in die gemäß § 4 des Unterlassungsklagengesetzes (UKlaG) beim Bundesverwaltungsamt ge
 - [BGH, Urteil vom 21.09.2005 - VIII ZR 38/05](viii-zr-38-05.md) — Tatbestand:
+- [BGH, Urteil vom 21.09.2005 - VIII ZR 7/05](viii-zr-7-05.md) — Tatbestand: Der Kläger ist ein Wasser- und Abwasserzweckverband (WAZV) in der Rechtsform einer Körperschaft des öffentlichen Rechts. In sein
 - [BGH, Urteil vom 21.09.2005 - VIII ZR 8/05](viii-zr-8-05.md) — Tatbestand: Der Kläger ist ein Wasser- und Abwasserzweckverband (WAZV) in der Rechtsform einer Körperschaft des öffentlichen Rechts. In sein
+- [BGH, Urteil vom 14.09.2005 - VIII ZR 117/04](viii-zr-117-04.md) — Tatbestand:
+- [BGH, Urteil vom 14.09.2005 - VIII ZR 195/04](viii-zr-195-04.md) — Tatbestand: Die Kläger sind Vermieter, die Beklagten Mieter einer Wohnung in W. . Aus der Abrechnung der Heizkosten (für Wärme und Warmwasse
 - [BGH, Versäumnisurteil vom 14.09.2005 - VIII ZR 328/04](viii-zr-328-04.md) — BGH, Versäumnisurteil vom 14.09.2005 - VIII ZR 328/04
 - [BGH, Urteil vom 14.09.2005 - VIII ZR 363/04](viii-zr-363-04.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 14.09.2005 - VIII ZR 369/04](viii-zr-369-04.md) — Tatbestand:
+- [BGH, Beschluss vom 13.09.2005 - VIII ZA 13/05](viii-za-13-05.md) — Die beabsichtigte Rechtsverfolgung erscheint aussichtslos (§ 78 b ZPO).
+- [BGH, Beschluss vom 07.09.2005 - VIII ZB 24/05](viii-zb-24-05.md) — Die kraft ausdrücklicher gesetzlicher Bestimmung statthafte Rechtsbeschwerde (§ 522 Abs.
+- [BGH, Beschluss vom 07.09.2005 - VIII ZB 54/05](viii-zb-54-05.md) — Versäumung der Berufungsbegründungsfrist als unzulässig verworfen. Zur Begründung hat das Landgericht ausgeführt:
+- [BGH, Urteil vom 07.09.2005 - VIII ZR 24/05](viii-zr-24-05.md) — Tatbestand:
+- [BGH, Urteil vom 20.07.2005 - VIII ZR 121/04](viii-zr-121-04.md) — BGH, Urteil vom 20.07.2005 - VIII ZR 121/04
+- [BGH, Urteil vom 20.07.2005 - VIII ZR 199/04](viii-zr-199-04.md) — Tatbestand: Die Klägerin und ihr im Laufe des Rechtsstreits verstorbener und von ihr allein beerbter Ehemann, der ursprüngliche Kläger zu 2,
+- [BGH, Urteil vom 20.07.2005 - VIII ZR 253/04](viii-zr-253-04.md) — Tatbestand: Die Klägerin ist in Berlin Eigentümerin einer 66 Einheiten umfassenden Wohnanlage, in der die Beklagte eine Wohnung gemietet hat
 - [BGH, Urteil vom 20.07.2005 - VIII ZR 275/04](viii-zr-275-04.md) — des Mangels vom Kaufvertrag zurücktritt. Der Anspruch ist nicht gemäß § 347 Abs. 2 BGB auf den Ersatz notwendiger Verwendungen oder solcher
+- [BGH, Urteil vom 20.07.2005 - VIII ZR 347/04](viii-zr-347-04.md) — 3-
+- [BGH, Urteil vom 20.07.2005 - VIII ZR 371/04](viii-zr-371-04.md) — Tatbestand:
+- [BGH, Urteil vom 20.07.2005 - VIII ZR 397/03](viii-zr-397-03.md) — Verstoßes gegen die Teilungsbestimmung des § 17 Abs. 4 i.V.m. § 5 Abs. 3 Satz 2 GmbHG gemäß § 134 BGB nichtig, so ist das zugrunde liegende
 - [BGH, Beschluss vom 13.07.2005 - VIII ZR 239/04](viii-zr-239-04.md) — Die Revision war gemäß § 552a ZPO durch Beschluß zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
+- [BGH, Urteil vom 13.07.2005 - VIII ZR 255/04](viii-zr-255-04.md) — Tatbestand:
 - [BGH, Urteil vom 13.07.2005 - VIII ZR 311/04](viii-zr-311-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 06.07.2005 - VIII ZR 136/04](viii-zr-136-04.md) — Tatbestand:
+- [BGH, Urteil vom 06.07.2005 - VIII ZR 150/04](viii-zr-150-04.md) — Tatbestand:
+- [BGH, Urteil vom 06.07.2005 - VIII ZR 151/04](viii-zr-151-04.md) — Tatbestand:
 - [BGH, Urteil vom 06.07.2005 - VIII ZR 152/04](viii-zr-152-04.md) — Tatbestand:
 - [BGH, Urteil vom 06.07.2005 - VIII ZR 322/04](viii-zr-322-04.md) — Tatbestand:
 - [BGH, Beschluss vom 05.07.2005 - VIII ZB 114/04](viii-zb-114-04.md) — BGH, Beschluss vom 05.07.2005 - VIII ZB 114/04
+- [BGH, Beschluss vom 05.07.2005 - VIII ZR 25/05](viii-zr-25-05.md) — BGH, Beschluss vom 05.07.2005 - VIII ZR 25/05
+- [BGH, Beschluss vom 05.07.2005 - VIII ZR 301/04](viii-zr-301-04.md) — dieser Schäden verneint hat, wäre nur der Kläger zur Einlegung des Rechtsmittels berechtigt gewesen. Eine Umdeutung der Revision des Beklagt
 - [BGH, Urteil vom 29.06.2005 - VIII ZR 182/04](viii-zr-182-04.md) — Tatbestand:
+- [BGH, Urteil vom 29.06.2005 - VIII ZR 299/04](viii-zr-299-04.md) — Tatbestand:
 - [BGH, Urteil vom 29.06.2005 - VIII ZR 344/04](viii-zr-344-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.06.2005 - VIII ZR 1/05](viii-zr-1-05.md) — Tatbestand: Die Parteien streiten um Erstattung der Kosten für die tierärztliche Behandlung eines Hundes, den der Kläger vom Ehemann der Bek
+- [BGH, Urteil vom 22.06.2005 - VIII ZR 214/04](viii-zr-214-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.06.2005 - VIII ZR 281/04](viii-zr-281-04.md) — Tatbestand:
+- [BGH, Urteil vom 22.06.2005 - VIII ZR 326/04](viii-zr-326-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 22.06.2005 - VIII ZR 367/04](viii-zr-367-04.md) — Tatbestand: Mit schriftlichem Vertrag vom 17. Juli 1996 mieteten die Beklagten eine Wohnung in S. , die im Eigentum der Kläger, einer Erbeng
+- [BGH, Urteil vom 22.06.2005 - VIII ZR 378/04](viii-zr-378-04.md) — Tatbestand:
+- [BGH, Beschluss vom 21.06.2005 - VIII ZB 83/04](viii-zb-83-04.md) — I. Die Klägerin mietete mit Vertrag vom 16. Juli 1998 eine Wohnung der Beklagten in F. . Sie kündigte das Mietverhältnis mit Schreiben vom 25. Februar 2004 zum 31. Mai 2004. Die …
+- [BGH, Beschluss vom 15.06.2005 - VIII ZB 80/03](viii-zb-80-03.md) — I. Die Beklagten haben, vertreten durch ihren ihnen im Wege der Prozeßkostenhilfe beigeordneten Prozeßbevollmächtigten, gegen die Verwerfung ihrer Berufung als unzulässig …
+- [BGH, Urteil vom 15.06.2005 - VIII ZR 118/03](viii-zr-118-03.md) — Tatbestand:
+- [BGH, Urteil vom 15.06.2005 - VIII ZR 271/04](viii-zr-271-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.06.2005 - VIII ZR 74/04](viii-zr-74-04.md) — eines Betrages von 142.560,79 DM = 72.890,17 € nebst Zinsen zurückgewiesen worden ist.
 - [BGH, Urteil vom 01.06.2005 - VIII ZR 216/04](viii-zr-216-04.md) — des Nachverfahrens wird der Rechtsstreit zur weiteren Verhandlung und Entscheidung an das Berufungsgericht zurückverwiesen.
 - [BGH, Urteil vom 01.06.2005 - VIII ZR 234/04](viii-zr-234-04.md) — Tatbestand:
+- [BGH, Urteil vom 01.06.2005 - VIII ZR 256/04](viii-zr-256-04.md) — Tatbestand: Die Klägerin, ein deutsches Unternehmen mit Sitz in Heilsbronn bei Ansbach, stellt Sportartikel her. Sie stand seit längerer Zei
 - [BGH, Beschluss vom 01.06.2005 - VIII ZR 288/04](viii-zr-288-04.md) — Die Revision ist gemäß § 552a ZPO durch Beschluß zurückzuweisen, weil die Voraussetzungen für die Zulassung der Revision nicht mehr vorliegen (§ 543 Abs.
 - [BGH, Urteil vom 01.06.2005 - VIII ZR 335/04](viii-zr-335-04.md) — Tatbestand: Die Parteien streiten über die Höhe eines Ausgleichsanspruchs nach § 89b HGB. Der Kläger war von Oktober 1990 bis Januar 1995 fü
+- [BGH, Urteil vom 01.06.2005 - VIII ZR 84/04](viii-zr-84-04.md) — Tatbestand: Die Klägerin begehrt von den Beklagten restliche Miete für die Monate April 2002 bis Februar 2003 in Höhe von 271,93 € sowie Hei
 - [BGH, Beschluss vom 31.05.2005 - VIII ZR 222/04](viii-zr-222-04.md) — Die Revision ist gemäß § 552a ZPO durch Beschluß zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
+- [BGH, Urteil vom 25.05.2005 - VIII ZR 237/04](viii-zr-237-04.md) — Tatbestand: Die Parteien streiten über die Rückzahlung von Provisionsvorschüssen. Die Klägerin ist ein Versicherungsunternehmen. Der Beklagt
+- [BGH, Urteil vom 25.05.2005 - VIII ZR 279/04](viii-zr-279-04.md) — Tatbestand:
 - [BGH, Urteil vom 25.05.2005 - VIII ZR 301/03](viii-zr-301-03.md) — Tatbestand:
 - [BGH, Beschluss vom 18.05.2005 - VIII ZB 3/05](viii-zb-3-05.md) — BGH, Beschluss vom 18.05.2005 - VIII ZB 3/05
+- [BGH, Beschluss vom 18.05.2005 - VIII ZB 96/04](viii-zb-96-04.md) — keine grundsätzliche
 - [BGH, Urteil vom 18.05.2005 - VIII ZR 368/03](viii-zr-368-03.md) — unberechtigter Eigenbedarfskündigung.
+- [BGH, Urteil vom 04.05.2005 - VIII ZR 123/04](viii-zr-123-04.md) — Tatbestand:
+- [BGH, Urteil vom 04.05.2005 - VIII ZR 5/04](viii-zr-5-04.md) — 3-
+- [BGH, Urteil vom 04.05.2005 - VIII ZR 93/04](viii-zr-93-04.md) — Tatbestand:
+- [BGH, Urteil vom 04.05.2005 - VIII ZR 94/04](viii-zr-94-04.md) — 3-
 - [BGH, Beschluss vom 27.04.2005 - VIII ZB 16/05](viii-zb-16-05.md) — BGH, Beschluss vom 27.04.2005 - VIII ZB 16/05
 - [BGH, Urteil vom 27.04.2005 - VIII ZR 125/04](viii-zr-125-04.md) — Tatbestand:
+- [BGH, Urteil vom 27.04.2005 - VIII ZR 140/04](viii-zr-140-04.md) — Verletzung der den Energieversorger gemäß § 681 Satz 1 BGB treffenden Pflicht, ihm die Aufnahme der Notversorgung anzuzeigen, sobald dies tu
+- [BGH, Urteil vom 27.04.2005 - VIII ZR 206/04](viii-zr-206-04.md) — Tatbestand: Die Klägerin war Mieterin einer Wohnung der Beklagten in R. . § 2 des Mietvertrags vom 22. Juni 2000 enthielt folgende Regelung:
+- [BGH, Urteil vom 20.04.2005 - VIII ZR 110/04](viii-zr-110-04.md) — Tatbestand: Die Beklagten sind Mieter einer 59,92 m2 großen Wohnung im 1953 errichteten Haus der Klägerin. Der Mietzins betrug zuletzt 308,3
 - [BGH, Beschluss vom 13.04.2005 - VIII ZB 115/04](viii-zb-115-04.md) — BGH, Beschluss vom 13.04.2005 - VIII ZB 115/04
 - [BGH, Beschluss vom 13.04.2005 - VIII ZB 77/04](viii-zb-77-04.md) — I. Der Beklagte hat gegen das ihm am 29. Januar 2004 zugestellte Urteil des Amtsgerichts fristgerecht am 1. März 2004, einem Montag, Berufung eingelegt. Mit einem am 1. April 2004 …
+- [BGH, Urteil vom 13.04.2005 - VIII ZR 377/03](viii-zr-377-03.md) — Vorenthaltung der vom Leasingnehmer vertragswidrig nicht zurückgegebenen Leasingsache ist erst dann als unzulässige Rechtsausübung anzusehen
+- [BGH, Urteil vom 13.04.2005 - VIII ZR 44/04](viii-zr-44-04.md) — Tatbestand:
+- [BGH, Urteil vom 06.04.2005 - VIII ZR 155/04](viii-zr-155-04.md) — Tatbestand:
 - [BGH, Urteil vom 06.04.2005 - VIII ZR 192/04](viii-zr-192-04.md) — Tatbestand: Der Beklagte ist aufgrund eines noch mit der Rechtsvorgängerin der Klägerin im Jahre 1958 abgeschlossenen Vertrages Mieter einer
 - [BGH, Urteil vom 06.04.2005 - VIII ZR 260/04](viii-zr-260-04.md) — unangemessener Benachteiligung der Anschlußnehmer gemäß § 307 Abs. 2 Nr. 1, Abs. 1 Satz 1 BGB unwirksam.
+- [BGH, Urteil vom 06.04.2005 - VIII ZR 27/04](viii-zr-27-04.md) — unangemessener Benachteiligung des Mieters in der Regel unwirksam, wenn seine Dauer mehr als vier Jahre beträgt.
+- [BGH, Urteil vom 06.04.2005 - VIII ZR 54/04](viii-zr-54-04.md) — Tatbestand:
+- [BGH, Beschluss vom 05.04.2005 - VIII ZB 41/04](viii-zb-41-04.md) — getan, weil ihm bei der Bearbei-
 - [BGH, Beschluss vom 05.04.2005 - VIII ZR 160/04](viii-zr-160-04.md) — BGH, Beschluss vom 05.04.2005 - VIII ZR 160/04
+- [BGH, Beschluss vom 05.04.2005 - VIII ZR 390/03](viii-zr-390-03.md) — BGH, Beschluss vom 05.04.2005 - VIII ZR 390/03
+- [BGH, Beschluss vom 05.04.2005 - VIII ZR 78/04](viii-zr-78-04.md) — Die Revision ist gemäß § 552 a ZPO durch Beschluß zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
+- [BGH, Urteil vom 16.03.2005 - VIII ZR 130/04](viii-zr-130-04.md) — Tatbestand: Mit Kaufvertrag vom 27. Juni 2002 erwarb der Kläger von dem Beklagten ein gebrauchtes Kraftfahrzeug. Der Vertrag enthält neben d
 - [BGH, Urteil vom 16.03.2005 - VIII ZR 14/04](viii-zr-14-04.md) — Tatbestand:
+- [BGH, Urteil vom 16.03.2005 - VIII ZR 25/04](viii-zr-25-04.md) — 3-
+- [BGH, Urteil vom 16.03.2005 - VIII ZR 35/04](viii-zr-35-04.md) — 3-
+- [BGH, Urteil vom 09.03.2005 - VIII ZR 17/04](viii-zr-17-04.md) — Tatbestand: Die Beklagten waren Mieter einer Wohnung der Klägerin in B. . Im Jahre 1985 mieteten sie zunächst eine 4-Zimmer-Wohnung, die sie
+- [BGH, Urteil vom 09.03.2005 - VIII ZR 266/03](viii-zr-266-03.md) — Tatbestand: Die Klägerin belieferte den Beklagten, der eine Gaststätte betreibt, mit Getränken. Sie hat mit ihrer Klage unstreitige Zahlungs
+- [BGH, Urteil vom 09.03.2005 - VIII ZR 330/03](viii-zr-330-03.md) — Tatbestand: Die Kläger begehren von dem Beklagten als Zwangsverwalter die Rückzahlung einer Mietkaution. Mit Mietvertrag vom 20. Juni 1991 m
+- [BGH, Urteil vom 09.03.2005 - VIII ZR 381/03](viii-zr-381-03.md) — Tatbestand:
+- [BGH, Urteil vom 09.03.2005 - VIII ZR 394/03](viii-zr-394-03.md) — Tatbestand:
 - [BGH, Urteil vom 09.03.2005 - VIII ZR 57/04](viii-zr-57-04.md) — Tatbestand:
 - [BGH, Beschluss vom 08.03.2005 - VIII ZA 22/04](viii-za-22-04.md) — BGH, Beschluss vom 08.03.2005 - VIII ZA 22/04
 - [BGH, Beschluss vom 08.03.2005 - VIII ZA 5/05](viii-za-5-05.md) — BGH, Beschluss vom 08.03.2005 - VIII ZA 5/05
 - [BGH, Beschluss vom 08.03.2005 - VIII ZB 3/04](viii-zb-3-04.md) — BGH, Beschluss vom 08.03.2005 - VIII ZB 3/04
 - [BGH, Beschluss vom 08.03.2005 - VIII ZB 55/04](viii-zb-55-04.md) — A. Die Beklagte, eine beschränkt haftende Gesellschaft englischen Rechts mit Sitz in London, erwarb 1995 von einer Firma mit Sitz in Ulm eine Partie Textilien zum Preis von …
+- [BGH, Urteil vom 02.03.2005 - VIII ZR 118/04](viii-zr-118-04.md) — Tatbestand: Der Kläger, russischer Staatsangehöriger, ist Mieter einer Wohnung in einem der Beklagten gehörenden Mehrparteienhaus in C. . Di
 - [BGH, Urteil vom 02.03.2005 - VIII ZR 174/04](viii-zr-174-04.md) — Tatbestand: Der Kläger, der einen Fachbetrieb für Heizungsbau und Sanitäranlagen betreibt, kaufte im Mai 2001 bei der Beklagten Bauteile ein
+- [BGH, Urteil vom 02.03.2005 - VIII ZR 67/04](viii-zr-67-04.md) — des Verdachts der gesundheitsschädlichen Beschaffenheit von Lebensmitteln (hier: Unterbindung des Handels mit belgischem Schweinefleisch weg
 - [BGH, Beschluss vom 01.03.2005 - VIII ZB 54/04](viii-zb-54-04.md) — BGH, Beschluss vom 01.03.2005 - VIII ZB 54/04
 - [BGH, Urteil vom 23.02.2005 - VIII ZR 100/04](viii-zr-100-04.md) — Tatbestand:
 - [BGH, Urteil vom 23.02.2005 - VIII ZR 129/04](viii-zr-129-04.md) — Tatbestand: Die Klägerin erwarb von der Beklagten am 5. Dezember 2002 ein Radarwarngerät mit einer Basis-Codierung für Deutschland zu einem
+- [BGH, Beschluss vom 21.02.2005 - VIII ZA 1/05](viii-za-1-05.md) — Der Antrag des Beklagten auf einstweilige Einstellung der Zwangsvollstreckung ist unbegründet.
+- [BGH, Versäumnisurteil vom 16.02.2005 - VIII ZR 133/04](viii-zr-133-04.md) — anderer Teile des Prozeßstoffs (noch) in der Berufungsinstanz anhängig ist.
 - [BGH, Urteil vom 16.02.2005 - VIII ZR 48/04](viii-zr-48-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.02.2005 - VIII ZR 6/04](viii-zr-6-04.md) — Zahlungsverzugs des Mieters fristlos und hilfsweise auch fristgemäß, läßt der nachträgliche Ausgleich der Rückstände innerhalb der Frist des
+- [BGH, Beschluss vom 10.02.2005 - VIII ZB 10/05](viii-zb-10-05.md) — I. Der Beklagte ist vom Amtsgericht Köln zur Zahlung von 1.599,79 € verurteilt worden. Seine dagegen eigenhändig eingelegte Berufung hat das Landgericht Köln mit Beschluß vom 20 …
+- [BGH, Urteil vom 09.02.2005 - VIII ZR 132/03](viii-zr-132-03.md) — Tatbestand:
+- [BGH, Urteil vom 09.02.2005 - VIII ZR 22/04](viii-zr-22-04.md) — Tatbestand:
+- [BGH, Urteil vom 09.02.2005 - VIII ZR 82/03](viii-zr-82-03.md) — Tatbestand:
+- [BGH, Urteil vom 26.01.2005 - VIII ZR 1/04](viii-zr-1-04.md) — Tatbestand:
 - [BGH, Urteil vom 26.01.2005 - VIII ZR 175/04](viii-zr-175-04.md) — Tatbestand:
 - [BGH, Urteil vom 26.01.2005 - VIII ZR 275/03](viii-zr-275-03.md) — Tatbestand:
+- [BGH, Urteil vom 26.01.2005 - VIII ZR 66/04](viii-zr-66-04.md) — Tatbestand:
+- [BGH, Urteil vom 26.01.2005 - VIII ZR 79/04](viii-zr-79-04.md) — Tatbestand:
+- [BGH, Urteil vom 26.01.2005 - VIII ZR 90/04](viii-zr-90-04.md) — Zahlungsverzugs des Verbrauchers (Leasingnehmers) wird nicht dadurch ausgeschlossen, daß der Verbraucher vor Ausspruch der ihm angedrohten K
+- [BGH, Urteil vom 19.01.2005 - VIII ZR 114/04](viii-zr-114-04.md) — Tatbestand: Die Beklagten waren Mieter einer Wohnung der Kläger in W. . Nach dem Mietvertrag waren die Beklagten zur Ausführung der Schönhei
+- [BGH, Urteil vom 19.01.2005 - VIII ZR 116/04](viii-zr-116-04.md) — Tatbestand: Der Kläger ist Vermieter, die Beklagte Mieterin einer Eigentumswohnung in T. . Nach § 4 Nr. 2 des Mietvertrages vom 18. Dezember
+- [BGH, Urteil vom 19.01.2005 - VIII ZR 139/04](viii-zr-139-04.md) — Tatbestand:
+- [BGH, Urteil vom 19.01.2005 - VIII ZR 173/03](viii-zr-173-03.md) — Tatbestand:
 - [BGH, Urteil vom 12.01.2005 - VIII ZR 109/04](viii-zr-109-04.md) — Tatbestand:

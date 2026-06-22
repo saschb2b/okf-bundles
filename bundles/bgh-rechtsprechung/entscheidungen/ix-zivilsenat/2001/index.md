@@ -1,15 +1,87 @@
 # IX. Zivilsenat – 2001
 
-46 Entscheidung(en).
+153 Entscheidung(en).
 
+- [BGH, Beschluss vom 20.12.2001 - IX ZA 6/01](ix-za-6-01.md) — Das beabsichtigte Rechtsmittel bietet keine hinreichende Aussicht auf Erfolg (§ 114 Abs.
+- [BGH, Beschluss vom 20.12.2001 - IX ZB 128/01](ix-zb-128-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist eine Beschwerde grundsätzlich nicht zulässig, § 567 Abs.
+- [BGH, Beschluss vom 20.12.2001 - IX ZB 138/01](ix-zb-138-01.md) — greifbarer Gesetzeswidrigkeit ist nicht gegeben. Die angefochtene Entscheidung verstößt nicht gegen Verfahrensgrundrechte. Insbesondere beru
+- [BGH, Beschluss vom 20.12.2001 - IX ZB 140/01](ix-zb-140-01.md) — I. Der Beklagte zu 1 (im folgenden: der Beklagte) hat gegen ein seinem erstinstanzlichen Prozeßbevollmächtigten am 21. März 2001 zugestelltes TeilVersäumnis- und Schlußurteil des …
+- [BGH, Beschluss vom 20.12.2001 - IX ZB 30/01](ix-zb-30-01.md) — BUNDES GERICHTSHOF IX ZB 30/01 BESCHLUSS vom 20. Dezember 2001 in dem Rechtsstreit -2- Der IX. Zivilsenat des Bundesgerichtshofs hat durch den Vorsitzenden Richter Dr. Kreft und …
+- [BGH, Beschluss vom 20.12.2001 - IX ZR 187/99](ix-zr-187-99.md) — der dem Kläger obliegenden Beweislast revisionsrechtlich nicht zu erschüttern. Für eine höchstpersönliche, wirtschaftliche Anlageentscheidun
+- [BGH, Beschluss vom 20.12.2001 - IX ZR 291/00](ix-zr-291-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 20.12.2001 - IX ZR 30/99](ix-zr-30-99.md) — Beide Rechtsmittel werfen keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und versprechen im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 20.12.2001 - IX ZR 365/00](ix-zr-365-00.md) — Das gemäß § 5 Abs. 2 GKG zulässige Rechtsmittel hat in der Sache keinen Erfolg. Der Kostenansatz ist gebührenrechtlich nicht zu beanstanden. Die Einwendungen der …
+- [BGH, Urteil vom 20.12.2001 - IX ZR 401/99](ix-zr-401-99.md) — Tatbestand
+- [BGH, Urteil vom 20.12.2001 - IX ZR 419/98](ix-zr-419-98.md) — Tatbestand
+- [BGH, Beschluss vom 20.12.2001 - IX ZR 435/99](ix-zr-435-99.md) — eines Verschuldens bei Vertragsschluß gehindert ist, den Bürgen in Anspruch zu nehmen.
+- [BGH, Beschluss vom 20.12.2001 - IX ZR 51/00](ix-zr-51-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
 - [BGH, Beschluss vom 13.12.2001 - IX ZR 231/00](ix-zr-231-00.md) — BGH, Beschluss vom 13.12.2001 - IX ZR 231/00
 - [BGH, Beschluss vom 13.12.2001 - IX ZR 285/00](ix-zr-285-00.md) — BGH, Beschluss vom 13.12.2001 - IX ZR 285/00
 - [BGH, Urteil vom 13.12.2001 - IX ZR 306/00](ix-zr-306-00.md) — BGH, Urteil vom 13.12.2001 - IX ZR 306/00
+- [BGH, Beschluss vom 06.12.2001 - IX ZB 130/00](ix-zb-130-00.md) — Ein gesetzlicher Grund für die Zulassung der Revision liegt nicht vor (§ 219 Abs.
+- [BGH, Beschluss vom 06.12.2001 - IX ZB 134/00](ix-zb-134-00.md) — Ein gesetzlicher Grund für die Zulassung der Revision (§ 219 Abs.
+- [BGH, Beschluss vom 06.12.2001 - IX ZB 16/01](ix-zb-16-01.md) — sich im wesentlichen auf tatrichterlichem Gebiet. Insbesondere ist weder eine ungeklärte Rechtsfrage von grundsätzlicher Bedeutung zu entsch
+- [BGH, Beschluss vom 06.12.2001 - IX ZB 38/01](ix-zb-38-01.md) — Die gesetzlichen Voraussetzungen für die Zulassung der Revision gemäß § 219 Abs.
+- [BGH, Beschluss vom 06.12.2001 - IX ZR 110/99](ix-zr-110-99.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht keinen Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 06.12.2001 - IX ZR 124/00](ix-zr-124-00.md) — Tatbestand:
+- [BGH, Urteil vom 06.12.2001 - IX ZR 158/00](ix-zr-158-00.md) — Tatbestand:
+- [BGH, Beschluss vom 06.12.2001 - IX ZR 352/00](ix-zr-352-00.md) — der Unwirksamkeit der Abtretung möglich gewordenen Pfändungen der Gläubiger ergaben, nicht in einem inneren Zusammenhang zu dem erteilten Ma
+- [BGH, Beschluss vom 29.11.2001 - IX ZR 133/99](ix-zr-133-99.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 29.11.2001 - IX ZR 278/00](ix-zr-278-00.md) — Verjährenlassens der Amtshaftungsansprüche gegen das Land Baden-Württemberg abgewiesen worden ist. In diesem Umfang wird die Sache zur ander
+- [BGH, Urteil vom 29.11.2001 - IX ZR 389/98](ix-zr-389-98.md) — Tatbestand:
+- [BGH, Beschluss vom 29.11.2001 - IX ZR 89/99](ix-zr-89-99.md) — Die Sache wirft ungeklärte Rechtsfragen von grundsätzlicher Bedeutung nicht auf und läßt Rechtsfehler zu Lasten der Beklagten nicht erkennen (§ 554 b ZPO).
+- [BGH, Beschluss vom 20.11.2001 - IX ZB 111/01](ix-zb-111-01.md) — einer Verletzung von Verfahrensgrundrechten des Beschwerdeführers (vgl. BGHZ 130, 97, 99 f.; BGH, Urt. v. 8. November 1994, aaO; Beschl. v.
+- [BGH, Urteil vom 20.11.2001 - IX ZR 159/00](ix-zr-159-00.md) — der Zahlungen vom 25. Juni 1997 in Höhe von 19.083,14 DM und vom 30. Juni 1997 in Höhe von 182.155,36 DM und wegen der entsprechenden Zinsen
+- [BGH, Beschluss vom 20.11.2001 - IX ZR 186/00](ix-zr-186-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 20.11.2001 - IX ZR 189/00](ix-zr-189-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Endergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 20.11.2001 - IX ZR 213/00](ix-zr-213-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 20.11.2001 - IX ZR 321/99](ix-zr-321-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Endergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 20.11.2001 - IX ZR 324/99](ix-zr-324-99.md) — der mit dem Geschäftsbetrieb verbundenen Gewinnerwartungen, sowie der Möglichkeit, Einfluß auf die den Kreditbedarf betreffenden Entscheidun
+- [BGH, Urteil vom 20.11.2001 - IX ZR 48/01](ix-zr-48-01.md) — allein grundsätzlich nicht davon ausgehen, daß auch die anderen nicht antragstellenden Gläubiger in vergleichbarer Weise Zahlungen erhalten
 - [BGH, Beschluss vom 08.11.2001 - IX ZB 44/01](ix-zb-44-01.md) — I. Das Landgericht, bei dem zwischen den Beteiligten ein Rechtsstreit um die Bewilligung und Eintragung eines Wegerechtes in der Berufungsinstanz anhängig war, erließ nach …
 - [BGH, Beschluss vom 08.11.2001 - IX ZR 110/00](ix-zr-110-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b ZPO).
 - [BGH, Beschluss vom 08.11.2001 - IX ZR 364/00](ix-zr-364-00.md) — eines Teils des Anspruchs beantragt wird (BGH, Beschl. v. 2. Februar 1962 - V ZR 70/60, NJW 1962, 806; v. 23. September 1987 - III ZR 96/87,
-- [BGH, Urteil vom 08.11.2001 - IX ZR 398/99](ix-zr-398-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2001 - IX ZR 404/99](ix-zr-404-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2001 - IX ZR 46/99](ix-zr-46-99.md) — Tatbestand:
 - [BGH, Urteil vom 08.11.2001 - IX ZR 64/01](ix-zr-64-01.md) — unfallbedingt vermehrter Bedürfnisse sind dem Anspruch des Empfängers auf Ersatz seines Erwerbsschadens nicht kongruent (im Anschluß an BGH
+- [BGH, Beschluss vom 08.11.2001 - IX ZR 92/99](ix-zr-92-99.md) — des vom Kläger erbrachten eigenen Arbeitsaufwandes sowie der Honorarzahlungen an Dritte scheidet nach dem von dem Berufungsgericht festgeste
+- [BGH, Beschluss vom 25.10.2001 - IX ZB 95/00](ix-zb-95-00.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 19 Abs.
+- [BGH, Urteil vom 25.10.2001 - IX ZR 17/01](ix-zr-17-01.md) — allein grundsätzlich nicht davon ausgehen, daß auch die anderen, nicht antragstellenden Gläubiger in vergleichbarer Weise Zahlungen erhalten
+- [BGH, Urteil vom 25.10.2001 - IX ZR 19/99](ix-zr-19-99.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2001 - IX ZR 371/00](ix-zr-371-00.md) — Der Beklagten kann Prozeßkostenhilfe zur Durchführung der Revision nicht bewilligt werden, weil sie die wirtschaftlichen Voraussetzungen für Prozeßkostenhilfe nicht ordnungsgemäß …
+- [BGH, Urteil vom 25.10.2001 - IX ZR 427/98](ix-zr-427-98.md) — Tatbestand: Die klagende Bank finanzierte nach einer grundsätzlichen Zusage vom März 1996 im Juni 1996 einen Grundstückskaufvertrag, den der
+- [BGH, Beschluss vom 25.10.2001 - IX ZR 65/00](ix-zr-65-00.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 25.10.2001 - IX ZR 95/99](ix-zr-95-99.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 18.10.2001 - IX ZR 332/00](ix-zr-332-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 18.10.2001 - IX ZR 400/99](ix-zr-400-99.md) — der allgemeinen Anforderungen vgl. BGH, Urt. v. 24. September
+- [BGH, Urteil vom 18.10.2001 - IX ZR 493/00](ix-zr-493-00.md) — Tatbestand:
+- [BGH, Beschluss vom 04.10.2001 - IX ZB 105/01](ix-zb-105-01.md) — greifbarer Gesetzeswidrigkeit ist im vorliegenden Fall nicht gegeben.
+- [BGH, Beschluss vom 04.10.2001 - IX ZR 174/99](ix-zr-174-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 04.10.2001 - IX ZR 207/00](ix-zr-207-00.md) — Tatbestand:
+- [BGH, Beschluss vom 04.10.2001 - IX ZR 216/00](ix-zr-216-00.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht keinen Erfolg (§ 554b ZPO).
+- [BGH, Urteil vom 04.10.2001 - IX ZR 81/99](ix-zr-81-99.md) — eines über 55.604,79 DM nebst Zinsen hinausgehenden Betrages abgewiesen worden ist. Das beklagte Land wird verurteilt, an den Kläger 40.511,
+- [BGH, Beschluss vom 27.09.2001 - IX ZB 101/01](ix-zb-101-01.md) — Gegen Urteile, durch die über die Anordnung einer einstweiligen Verfügung entschieden wird, ist ein Rechtsmittel nicht statthaft (§ 545 Abs.
+- [BGH, Beschluss vom 27.09.2001 - IX ZB 9/01](ix-zb-9-01.md) — Ein gesetzlicher Grund für die Zulassung der Revision (§ 219 Abs.
+- [BGH, Beschluss vom 27.09.2001 - IX ZB 91/01](ix-zb-91-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Urteil vom 27.09.2001 - IX ZR 281/00](ix-zr-281-00.md) — Tatbestand:
+- [BGH, Urteil vom 27.09.2001 - IX ZR 471/00](ix-zr-471-00.md) — Tatbestand:
+- [BGH, Beschluss vom 27.09.2001 - IX ZR 492/00](ix-zr-492-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Endergebnis richtig entschieden (§ 554b ZPO).
+- [BGH, Urteil vom 27.09.2001 - IX ZR 71/00](ix-zr-71-00.md) — 3-
+- [BGH, Beschluss vom 18.09.2001 - IX ZB 104/00](ix-zb-104-00.md) — einer
+- [BGH, Beschluss vom 18.09.2001 - IX ZB 38/00](ix-zb-38-00.md) — Die Rechtsbeschwerde wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 19 Abs.
+- [BGH, Beschluss vom 18.09.2001 - IX ZB 51/00](ix-zb-51-00.md) — A. Der Schuldner nahm 1992 einen Kredit bei der Gläubigerin auf. Nachdem er nach Frankreich verzogen war, erwirkte die Gläubigerin gegen ihn am 6. Dezember 1994 beim Tribunal …
+- [BGH, Beschluss vom 18.09.2001 - IX ZB 75/01](ix-zb-75-01.md) — der Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorigen Stand beantragt. Eine Berufungsbegründung hat er mit Schriftsat
+- [BGH, Beschluss vom 18.09.2001 - IX ZB 75/99](ix-zb-75-99.md) — Nichtzustandekommens einer Agenturabsprache. Nachdem in der Verhandlung vom 8. April 1987 niemand für die Schuldnerin auftrat, setzte das is
+- [BGH, Beschluss vom 18.09.2001 - IX ZB 93/01](ix-zb-93-01.md) — Gegen Beschlüsse der Oberlandesgerichte ist - von hier nicht vorliegenden Ausnahmefällen abgesehen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 18.09.2001 - IX ZR 141/99](ix-zr-141-99.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 18.09.2001 - IX ZR 180/99](ix-zr-180-99.md) — der durch Anschlußberufung des Klägers weiter verfolgten Forderung von 2.321,75 DM wirft die Revision keine entscheidungserheblichen Rechtsf
+- [BGH, Urteil vom 18.09.2001 - IX ZR 183/00](ix-zr-183-00.md) — Tatbestand:
+- [BGH, Beschluss vom 18.09.2001 - IX ZR 24/99](ix-zr-24-99.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Endergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 11.09.2001 - IX ZB 74/01](ix-zb-74-01.md) — greifbarer Gesetzwidrigkeit liegen nicht vor. Insbesondere werden durch die angefochtene Entscheidung Verfahrensgrundrechte des Klägers nich
+- [BGH, Beschluss vom 11.09.2001 - IX ZR 230/99](ix-zr-230-99.md) — . Soweit das Berufungsgericht die Beklagte dazu verurteilt hat, an den Kläger 55.314,96 DM nebst 4% Zinsen seit 14. November 1997 zu bezahlen, sind keine Rechtsfehler zum Nachteil …
+- [BGH, Beschluss vom 11.09.2001 - IX ZR 274/00](ix-zr-274-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 11.09.2001 - IX ZR 290/00](ix-zr-290-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Endergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 11.09.2001 - IX ZR 74/01](ix-zr-74-01.md) — verspäteter Zahlung und Kosten der Rechtsverteidigung gegenüber den Finanzbehörden gemeint. Die Steuernachforderungen sollen nach dem Vorbri
 - [BGH, Beschluss vom 09.08.2001 - IX ZR 62/00](ix-zr-62-00.md) — BGH, Beschluss vom 09.08.2001 - IX ZR 62/00
 - [BGH, Beschluss vom 19.07.2001 - IX ZB 19/01](ix-zb-19-01.md) — Gemäß § 2 Abs. 5 des Ausführungsgesetzes zum deutsch-österreichischen Anerkennungs- und Vollstreckungsvertrag vom 6. Juni 1959 i.V.m. § 1065 Abs. 2 Satz 2, §§ 554 Abs. 1, 554 a …
 - [BGH, Urteil vom 19.07.2001 - IX ZR 149/00](ix-zr-149-00.md) — Tatbestand:
@@ -24,11 +96,39 @@
 - [BGH, Beschluss vom 19.07.2001 - IX ZR 458/99](ix-zr-458-99.md) — der Verfügung über die Maschinen verneint hat, sind revisionsrechtlich nicht zu beanstanden. Die Verfahrensrügen wurden geprüft, jedoch nich
 - [BGH, Beschluss vom 19.07.2001 - IX ZR 46/01](ix-zr-46-01.md) — einer schuldhaften Verletzung des Anwaltsvertrages Schadensersatz. Er hat eine Leistungsklage über 279.433,38 DM erhoben, welche das Oberlan
 - [BGH, Beschluss vom 19.07.2001 - IX ZR 59/99](ix-zr-59-99.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Fragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 12.07.2001 - IX ZR 26/99](ix-zr-26-99.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 12.07.2001 - IX ZR 284/98](ix-zr-284-98.md) — Die Sache wirft ungeklärte Rechtsfragen von grundsätzlicher Bedeutung nicht auf und läßt Rechtsfehler zu Lasten des Klägers nicht erkennen (§ 554 b ZPO).
+- [BGH, Urteil vom 12.07.2001 - IX ZR 358/00](ix-zr-358-00.md) — Tatbestand:
+- [BGH, Urteil vom 12.07.2001 - IX ZR 360/00](ix-zr-360-00.md) — Tatbestand:
+- [BGH, Urteil vom 12.07.2001 - IX ZR 374/98](ix-zr-374-98.md) — Tatbestand:
+- [BGH, Urteil vom 12.07.2001 - IX ZR 380/98](ix-zr-380-98.md) — Tatbestand:
 - [BGH, Beschluss vom 12.07.2001 - IX ZR 50/99](ix-zr-50-99.md) — BGH, Beschluss vom 12.07.2001 - IX ZR 50/99
+- [BGH, Beschluss vom 12.07.2001 - IX ZR 98/01](ix-zr-98-01.md) — Der Antrag ist nicht gerechtfertigt (§ 546 ZPO).
+- [BGH, Beschluss vom 05.07.2001 - IX ZR 15/99](ix-zr-15-99.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 05.07.2001 - IX ZR 3/99](ix-zr-3-99.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Urteil vom 05.07.2001 - IX ZR 327/99](ix-zr-327-99.md) — Tatbestand:
+- [BGH, Urteil vom 26.06.2001 - IX ZR 209/98](ix-zr-209-98.md) — Tatbestand
 - [BGH, Urteil vom 21.06.2001 - IX ZR 69/00](ix-zr-69-00.md) — der bisherigen Gestaltung des Rechtsverhältnisses nicht mit einer - in der früheren Bürgschaftsurkunde nicht enthaltenen - Haftungsausschluß
+- [BGH, Urteil vom 21.06.2001 - IX ZR 73/00](ix-zr-73-00.md) — Tatbestand:
+- [BGH, Beschluss vom 07.06.2001 - IX ZB 23/01](ix-zb-23-01.md) — einer rechtskräftig zuerkannten Forderung von 135.951,02 DM vollstreckt und deren Ansprüche gegen die B. V.bank gepfändet. Die Drittschuldne
+- [BGH, Urteil vom 07.06.2001 - IX ZR 134/00](ix-zr-134-00.md) — Tatbestand:
+- [BGH, Beschluss vom 07.06.2001 - IX ZR 185/00](ix-zr-185-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung; die Revisionen haben keine Aussicht auf Erfolg, soweit das Berufungsgericht angenommen hat, daß eine Bürgenhaftung der …
+- [BGH, Urteil vom 07.06.2001 - IX ZR 195/00](ix-zr-195-00.md) — Tatbestand
+- [BGH, Beschluss vom 07.06.2001 - IX ZR 479/00](ix-zr-479-00.md) — I. Der Beklagte ist Verwalter im Konkurs über das Vermögen des Steuerberaters Franz M. Der Gemeinschuldner hat den Kläger steuerlich beraten. Der Kläger behauptet, ihm sei infolge …
+- [BGH, Urteil vom 17.05.2001 - IX ZR 188/98](ix-zr-188-98.md) — Tatbestand:
+- [BGH, Beschluss vom 17.05.2001 - IX ZR 20/99](ix-zr-20-99.md) — des Klageantrags, 6.566,73 DM wegen der hilfsweisen Aufrechnung gemäß BU 8 und 62.077,52 DM wegen der zugesprochenen Widerklageforderung).
+- [BGH, Beschluss vom 17.05.2001 - IX ZR 22/99](ix-zr-22-99.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf (§ 554 b ZPO).
+- [BGH, Urteil vom 17.05.2001 - IX ZR 256/99](ix-zr-256-99.md) — Tatbestand:
 - [BGH, Beschluss vom 08.05.2001 - IX ZB 21/01](ix-zb-21-01.md) — Das Brandenburgische Oberlandesgericht hat die Sache zur Entscheidung über die zugelassene weitere Beschwerde eines vorläufigen Insolvenzverwalters in einem Vergütungsverfahren …
 - [BGH, Beschluss vom 08.05.2001 - IX ZR 315/00](ix-zr-315-00.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554 b ZPO).
 - [BGH, Urteil vom 08.05.2001 - IX ZR 9/99](ix-zr-9-99.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2001 - IX ZR 46/00](ix-zr-46-00.md) — eines Betrages von 138.335,43 DM nebst 4 % Zinsen seit dem 16. Januar 1992 an das Landgericht zurückverwiesen hat.
+- [BGH, Beschluss vom 26.04.2001 - IX ZB 25/01](ix-zb-25-01.md) — der Vollstreckung der einstweiligen Verfügung Schadensersatz. Sie behauptet, die Beklagte sei nicht Eigentümerin der Kälber gewesen, und ver
+- [BGH, Urteil vom 26.04.2001 - IX ZR 317/98](ix-zr-317-98.md) — Vermögenslosigkeit im Handelsregister gelöscht worden ist.
+- [BGH, Urteil vom 26.04.2001 - IX ZR 337/98](ix-zr-337-98.md) — Tatbestand
+- [BGH, Urteil vom 26.04.2001 - IX ZR 453/99](ix-zr-453-99.md) — Tatbestand:
+- [BGH, Urteil vom 26.04.2001 - IX ZR 53/00](ix-zr-53-00.md) — Tatbestand:
+- [BGH, Urteil vom 05.04.2001 - IX ZR 193/00](ix-zr-193-00.md) — Tatbestand:
 - [BGH, Urteil vom 05.04.2001 - IX ZR 216/98](ix-zr-216-98.md) — eines über 58.562,26 DM nebst Zinsen hinausgehenden Betrages abgewiesen worden ist.
 - [BGH, Beschluss vom 05.04.2001 - IX ZR 27/01](ix-zr-27-01.md) — Das Berufungsgericht hat den verklagten Notar - im Wege des Schadensersatzes für eine der Klägerin entgangene lebenslange Leibrente - verurteilt, an die Klägerin 2.000 DM nebst …
 - [BGH, Urteil vom 05.04.2001 - IX ZR 276/98](ix-zr-276-98.md) — des verbürgten Anspruchs aufschiebt, so daß bis dahin die Zahlungen nur als Sicherheit gelten, ist auch dann wirksam, wenn der - allein verb
@@ -41,10 +141,17 @@
 - [BGH, Urteil vom 29.03.2001 - IX ZR 34/00](ix-zr-34-00.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 22.03.2001 - IX ZR 373/98](ix-zr-373-98.md) — übertragbar und werden für die Übertragung üblicherweise Geldbeträge bezahlt, so ist es grundsätzlich pfändbar und unterliegt dem Konkursbes
 - [BGH, Urteil vom 22.03.2001 - IX ZR 407/98](ix-zr-407-98.md) — einer Forderung in Höhe von 548.496,32 DM abgewiesen worden ist.
+- [BGH, Urteil vom 15.03.2001 - IX ZR 273/98](ix-zr-273-98.md) — Tatbestand:
 - [BGH, Beschluss vom 15.03.2001 - IX ZR 57/00](ix-zr-57-00.md) — BGH, Beschluss vom 15.03.2001 - IX ZR 57/00
+- [BGH, Urteil vom 08.03.2001 - IX ZR 236/00](ix-zr-236-00.md) — Unwirksamkeit der Sicherungsabrede herauszugeben, kein auf Gegenansprüche aus dem Hauptvertrag gegründetes Zurückbehaltungsrecht zu.
+- [BGH, Urteil vom 22.02.2001 - IX ZR 113/00](ix-zr-113-00.md) — Tatbestand:
+- [BGH, Urteil vom 22.02.2001 - IX ZR 19/00](ix-zr-19-00.md) — Tatbestand
 - [BGH, Urteil vom 22.02.2001 - IX ZR 191/98](ix-zr-191-98.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2001 - IX ZR 293/99](ix-zr-293-99.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2001 - IX ZR 357/99](ix-zr-357-99.md) — Tatbestand
 - [BGH, Beschluss vom 08.02.2001 - IX ZR 376/98](ix-zr-376-98.md) — BGH, Beschluss vom 08.02.2001 - IX ZR 376/98
 - [BGH, Urteil vom 08.02.2001 - IX ZR 394/99](ix-zr-394-99.md) — BGH, Urteil vom 08.02.2001 - IX ZR 394/99
+- [BGH, Beschluss vom 01.02.2001 - IX ZR 37/00](ix-zr-37-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 25.01.2001 - IX ZB 120/00](ix-zb-120-00.md) — I. Das den Beklagten nachteilige Urteil des Landgerichts wurde ihren Prozeßbevollmächtigten am 26. Juli 2000 zugestellt. Am 28. August 2000 (Montag) ging beim Oberlandesgericht um …
+- [BGH, Urteil vom 25.01.2001 - IX ZR 6/00](ix-zr-6-00.md) — einer finanziellen Krise des Kunden gekündigt und fällig gestellt hat, es werde künftig Kontoüberziehungen dulden, rechtfertigt dies allein
 - [BGH, Urteil vom 18.01.2001 - IX ZR 223/99](ix-zr-223-99.md) — Tatbestand:

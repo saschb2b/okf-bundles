@@ -1,7 +1,12 @@
 # I. Zivilsenat – 2009
 
-63 Entscheidung(en).
+189 Entscheidung(en).
 
+- [BGH, Beschluss vom 10.12.2009 - I ZB 36/09](i-zb-36-09.md) — I. Die Gläubigerin betreibt gegen den als Rechtsanwalt tätigen Schuldner aus dem Teilanerkenntnisurteil des Landgerichts Meiningen vom 15. August 2007 (Az.: 2 O 731/07), mit dem …
+- [BGH, Urteil vom 10.12.2009 - I ZR 154/07](i-zr-154-07.md) — Tatbestand:
+- [BGH, Beschluss vom 10.12.2009 - I ZR 201/07](i-zr-201-07.md) — I. Die Beklagte sandte der ebenso wie sie im Kraftfahrzeughandel ge- werblich tätigen Klägerin, mit der sie zuvor keine geschäftlichen Kontakte ge- habt hatte, am 9. Juni 2006 ihr …
+- [BGH, Urteil vom 10.12.2009 - I ZR 46/07](i-zr-46-07.md) — Tatbestand:
+- [BGH, Beschluss vom 09.12.2009 - I ZB 82/09](i-zb-82-09.md) — Die vom Schuldner erhobene Anhörungsrüge gemäß § 321a Abs.
 - [BGH, Beschluss vom 02.12.2009 - I ZA 10/09](i-za-10-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 10/09
 - [BGH, Beschluss vom 02.12.2009 - I ZA 11/09](i-za-11-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 11/09
 - [BGH, Beschluss vom 02.12.2009 - I ZA 12/09](i-za-12-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 12/09
@@ -11,57 +16,178 @@
 - [BGH, Beschluss vom 02.12.2009 - I ZA 19/09](i-za-19-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 19/09
 - [BGH, Beschluss vom 02.12.2009 - I ZA 20/09](i-za-20-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 20/09
 - [BGH, Beschluss vom 02.12.2009 - I ZA 6/09](i-za-6-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 6/09
+- [BGH, Beschluss vom 02.12.2009 - I ZA 7/09](i-za-7-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 7/09
+- [BGH, Beschluss vom 02.12.2009 - I ZA 8/09](i-za-8-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 8/09
+- [BGH, Beschluss vom 02.12.2009 - I ZA 9/09](i-za-9-09.md) — BGH, Beschluss vom 02.12.2009 - I ZA 9/09
 - [BGH, Beschluss vom 02.12.2009 - I ZB 65/09](i-zb-65-09.md) — BGH, Beschluss vom 02.12.2009 - I ZB 65/09
+- [BGH, Urteil vom 02.12.2009 - I ZR 152/07](i-zr-152-07.md) — Tatbestand:
+- [BGH, Urteil vom 02.12.2009 - I ZR 44/07](i-zr-44-07.md) — Tatbestand:
+- [BGH, Urteil vom 02.12.2009 - I ZR 77/06](i-zr-77-06.md) — Tatbestand:
+- [BGH, Urteil vom 02.12.2009 - I ZR 91/06](i-zr-91-06.md) — Tatbestand:
+- [BGH, Beschluss vom 19.11.2009 - I ZB 76/08](i-zb-76-08.md) — fehlender Unterscheidungskraft zurückgewiesen.
+- [BGH, Urteil vom 19.11.2009 - I ZR 141/07](i-zr-141-07.md) — Tatbestand:
+- [BGH, Urteil vom 19.11.2009 - I ZR 186/07](i-zr-186-07.md) — Tatbestand:
 - [BGH, Beschluss vom 19.11.2009 - I ZR 33/08](i-zr-33-08.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Anhö- rungsrüge ist nicht begründet.
+- [BGH, Beschluss vom 16.11.2009 - I ZB 50/08](i-zb-50-08.md) — Das Landgericht hat den Streitwert auf 75.000 € festgesetzt (LGU 24).
+- [BGH, Beschluss vom 12.11.2009 - I ZB 101/08](i-zb-101-08.md) — wettbewerbswidriger Verbreitung rechtlicher
+- [BGH, Urteil vom 12.11.2009 - I ZR 160/07](i-zr-160-07.md) — 3-
+- [BGH, Beschluss vom 12.11.2009 - I ZR 183/07](i-zr-183-07.md) — Berichtigt durch Beschluss vom 10. Juni 2010 Führinger Justizangestellte als Urkundsbeamtin der Geschäftsstelle
+- [BGH, Urteil vom 12.11.2009 - I ZR 210/07](i-zr-210-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.10.2009 - I ZR 180/07](i-zr-180-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.10.2009 - I ZR 188/07](i-zr-188-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.10.2009 - I ZR 191/07](i-zr-191-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.10.2009 - I ZR 65/07](i-zr-65-07.md) — 3-
 - [BGH, Beschluss vom 22.10.2009 - I ZB 85/08](i-zb-85-08.md) — der Besorgnis der Befangenheit werden als unzulässig zurückgewiesen.
+- [BGH, Versäumnisurteil vom 22.10.2009 - I ZR 119/07](i-zr-119-07.md) — Tatbestand:
+- [BGH, Beschluss vom 22.10.2009 - I ZR 124/08](i-zr-124-08.md) — Irreführung der Ad-
 - [BGH, Beschluss vom 22.10.2009 - I ZR 19/07](i-zr-19-07.md) — dahin berichtigt, dass es dort statt "des Beklagten" "der Klägerin" heißt.
+- [BGH, Urteil vom 22.10.2009 - I ZR 73/07](i-zr-73-07.md) — der Behauptung einer Spitzenstellung gerichtlich in Anspruch, trifft den Beklagten zwar grundsätzlich eine prozessuale Aufklärungspflicht hi
+- [BGH, Beschluss vom 22.10.2009 - I ZR 76/08](i-zr-76-08.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Anhö- rungsrüge ist nicht begründet.
 - [BGH, Urteil vom 22.10.2009 - I ZR 88/07](i-zr-88-07.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2009 - I ZR 109/06](i-zr-109-06.md) — Tatbestand:
 - [BGH, Beschluss vom 07.10.2009 - I ZR 126/08](i-zr-126-08.md) — der Abweisung der Klage mit den Anträgen b und c wendet, als unzulässig verworfen, weil sie insoweit nicht begründet worden ist (§ 544 Abs.
+- [BGH, Beschluss vom 07.10.2009 - I ZR 144/08](i-zr-144-08.md) — Der Senat hat in seinem Beschluss vom 13. August 2009 darauf hingewie- sen, dass die Voraussetzungen für die Zulassung der Revision nicht vorliegen. Auf die vom Berufungsgericht …
+- [BGH, Urteil vom 07.10.2009 - I ZR 150/07](i-zr-150-07.md) — Tatbestand:
+- [BGH, Beschluss vom 07.10.2009 - I ZR 216/07](i-zr-216-07.md) — Nachschlagewerk: ja
+- [BGH, Urteil vom 07.10.2009 - I ZR 230/06](i-zr-230-06.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2009 - I ZR 38/07](i-zr-38-07.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2009 - I ZR 39/07](i-zr-39-07.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2009 - I ZR 40/07](i-zr-40-07.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2009 - I ZR 41/07](i-zr-41-07.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2009 - I ZR 80/04](i-zr-80-04.md) — Tatbestand:
 - [BGH, Beschluss vom 02.10.2009 - I ZR 56/07](i-zr-56-07.md) — BGH, Beschluss vom 02.10.2009 - I ZR 56/07
+- [BGH, Urteil vom 01.10.2009 - I ZR 134/07](i-zr-134-07.md) — 3Tatbestand:
+- [BGH, Teilurteil vom 01.10.2009 - I ZR 94/07](i-zr-94-07.md) — Insolvenzeröffnung nach § 240 Satz 1 ZPO erfasst nicht den aus einem Wettbewerbsverstoß folgenden Anspruch auf Drittauskunft. Über diesen An
 - [BGH, Beschluss vom 17.09.2009 - I ZB 67/09](i-zb-67-09.md) — BGH, Beschluss vom 17.09.2009 - I ZB 67/09
+- [BGH, Beschluss vom 17.09.2009 - I ZB 7/09](i-zb-7-09.md) — I. Für den Markeninhaber ist am 13. Januar 2000 die Wortmarke "Jugendherberge" für die Dienstleistungen "Beherbergung von Gästen, Verpflegung, Veranstaltung von Reisen …
+- [BGH, Urteil vom 17.09.2009 - I ZR 103/07](i-zr-103-07.md) — angeordnet, ist die materiell beweisbelastete Partei nicht Beweisführer i.S. von § 379 Satz 1 ZPO; die Durchführung der Beweisaufnahme darf
+- [BGH, Urteil vom 17.09.2009 - I ZR 217/07](i-zr-217-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.09.2009 - I ZR 43/07](i-zr-43-07.md) — 3-
+- [BGH, Beschluss vom 13.08.2009 - I ZB 11/09](i-zb-11-09.md) — schwerwiegender gesundheitlicher Risiken eine mit den guten Sitten unvereinbare Härte i.S. des § 765a ZPO darstellt, ist nicht auf eine akut
 - [BGH, Beschluss vom 13.08.2009 - I ZB 43/08](i-zb-43-08.md) — BGH, Beschluss vom 13.08.2009 - I ZB 43/08
+- [BGH, Beschluss vom 13.08.2009 - I ZB 91/08](i-zb-91-08.md) — I. Die Gläubigerin, eine Leasinggesellschaft, schloss mit der S. St. GmbH & Co. KG in W. einen Leasingvertrag über eine Folienkaschiermaschine. Die Leasingnehmerin übertrug den …
+- [BGH, Urteil vom 13.08.2009 - I ZR 3/07](i-zr-3-07.md) — Tatbestand:
+- [BGH, Urteil vom 13.08.2009 - I ZR 76/07](i-zr-76-07.md) — Tatbestand:
 - [BGH, Beschluss vom 29.07.2009 - I ZB 83/08](i-zb-83-08.md) — I. Für den Markeninhaber ist seit dem 17. Juni 1999 die Marke Nr. 398 45 189 ATOZ -3- unter anderem für Dateienverwaltung mittels Computer; Sammeln, Aktualisieren …
+- [BGH, Urteil vom 29.07.2009 - I ZR 102/07](i-zr-102-07.md) — eines ohne weiteres erkennbaren eindeutigen Begriffsinhalts zu verneinen sein kann, gilt auch dann, wenn nur das Klagezeichen über einen sol
+- [BGH, Versäumnisurteil vom 29.07.2009 - I ZR 166/06](i-zr-166-06.md) — gerechtfertigt, weil sich der Handelnde dabei der Hilfe eines Rechtsanwalts bedient.
+- [BGH, Urteil vom 29.07.2009 - I ZR 169/07](i-zr-169-07.md) — einer Kennzeichenverletzung zur Auskunft Verpflichteter nicht zweifelsfrei beurteilen, ob das Kennzeichenrecht des Gläubigers durch bestimmt
 - [BGH, Urteil vom 29.07.2009 - I ZR 171/08](i-zr-171-08.md) — Schadensformen entgegen, die in den §§ 407 ff. HGB nicht geregelt sind. Nicht ausgeschlossen sind daher unter dem Gesichtspunkt des Verzugs
+- [BGH, Urteil vom 29.07.2009 - I ZR 212/06](i-zr-212-06.md) — unzureichender Sicherung während der Seebeförderung beschädigt, so spricht dies zunächst für ein grobes Organisationsverschulden des Verfrac
+- [BGH, Anerkenntnisurteil vom 29.07.2009 - I ZR 22/07](i-zr-22-07.md) — Bornkamm
 - [BGH, Urteil vom 29.07.2009 - I ZR 77/07](i-zr-77-07.md) — Tatbestand:
 - [BGH, Beschluss vom 29.07.2009 - I ZR 81/08](i-zr-81-08.md) — der Verletzung seines allgemeinen Persönlichkeitsrechts versagt hat - als gerechtfertigt. Von einer weiteren Begründung wird gemäß § 544 Abs
+- [BGH, Urteil vom 29.07.2009 - I ZR 87/07](i-zr-87-07.md) — als rechtswidrig dar, weil die Vorabinformation des Markeninhabers, die Voraussetzung für die Erschöpfung gewesen wäre, unterblieben ist, ko
 - [BGH, Beschluss vom 16.07.2009 - I ZB 41/09](i-zb-41-09.md) — Die vom Schuldner erhobene Anhörungsrüge gemäß § 321a Abs.
+- [BGH, Beschluss vom 16.07.2009 - I ZB 53/07](i-zb-53-07.md) — I. Für die Markeninhaberin ist seit dem 20. August 1996 die nachfolgend abgebildete farbige (rot) dreidimensionale Marke Nr. 395 03 037 für die Ware "Spielzeug, nämlich …
 - [BGH, Beschluss vom 16.07.2009 - I ZB 54/07](i-zb-54-07.md) — I. Für die Markeninhaberin ist seit dem 20. August 1996 die nachfolgend abgebildete farbige (rot) dreidimensionale Marke Nr. 395 03 037 für die Ware "Spielzeug, nämlich …
+- [BGH, Beschluss vom 16.07.2009 - I ZB 55/07](i-zb-55-07.md) — I. Für die Markeninhaberin ist seit dem 20. August 1996 die nachfolgend abgebildete farbige (rot) dreidimensionale Marke Nr. 395 03 037 für die Ware "Spielzeug, nämlich …
+- [BGH, Beschluss vom 16.07.2009 - I ZB 68/08](i-zb-68-08.md) — offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO dahin berichtigt, dass in der Textziffer 13 Zeile 2 die Wörter "Zurückweisung der" entfallen
+- [BGH, Beschluss vom 16.07.2009 - I ZB 80/05](i-zb-80-05.md) — I. Die Schuldner waren durch Versäumnisurteil des Amtsgerichts Wedding vom 21. Januar 2005 verurteilt, die Wohnung K. straße Berlin, zu räumen und geräumt herauszugeben. 2 Die …
+- [BGH, Beschluss vom 16.07.2009 - I ZB 81/05](i-zb-81-05.md) — I. Die Schuldner waren durch Versäumnisurteil des Amtsgerichts Wedding vom 27. Januar 2005 verurteilt, die Wohnung K. straße Berlin, zu räumen und geräumt herauszugeben. 2 Die …
+- [BGH, Beschluss vom 16.07.2009 - I ZB 92/08](i-zb-92-08.md) — I. Die Widersprechende hat - soweit für das Rechtsbeschwerdeverfahren noch von Bedeutung - aus der am 26. August 2000 für Waren der Klassen 3, 5 und 10, unter anderem für …
 - [BGH, Urteil vom 16.07.2009 - I ZR 140/07](i-zr-140-07.md) — Tatbestand:
+- [BGH, Beschluss vom 16.07.2009 - I ZR 223/06](i-zr-223-06.md) — I. Die Parteien sind Arzneimittelunternehmen und stehen miteinander im Wettbewerb. 2 Die Beklagte präsentierte ihre verschreibungspflichtigen Arzneimittel „VIOXX“, „FOSAMAX“ und …
+- [BGH, Urteil vom 16.07.2009 - I ZR 50/07](i-zr-50-07.md) — Tatbestand:
+- [BGH, Beschluss vom 15.07.2009 - I ZB 118/08](i-zb-118-08.md) — I. Der Antragsteller ist Rechtsanwalt. Er hat beim Landgericht München I gegen seine geschiedene Ehefrau eine wettbewerbsrechtliche Unterlassungs- verfügung erwirkt, gegen die die …
+- [BGH, Beschluss vom 09.07.2009 - I ZB 88/07](i-zb-88-07.md) — I. Für die Markeninhaberin ist seit dem 7. August 2001 aufgrund Ver- kehrsdurchsetzung die nachfolgend abgebildete farbige (hell- und dunkelbraun) dreidimensionale Marke Nr. 397 …
+- [BGH, Urteil vom 09.07.2009 - I ZR 13/07](i-zr-13-07.md) — Der Beklagte ist als Augenarzt in L. bei Hannover niedergelassen. Patienten, die nach seinem Untersuchungsbefund eine Brille benötigen, bietet er an, sich in seiner Praxis unter …
+- [BGH, Urteil vom 09.07.2009 - I ZR 193/06](i-zr-193-06.md) — Tatbestand:
+- [BGH, Urteil vom 09.07.2009 - I ZR 64/07](i-zr-64-07.md) — Tatbestand:
 - [BGH, Beschluss vom 06.07.2009 - I ZR 175/07](i-zr-175-07.md) — offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO dahin berichtigt, dass es in Tz. 26, 29 und 39 des Urteils jeweils statt "Braun" "Becker" he
 - [BGH, Beschluss vom 06.07.2009 - I ZR 215/06](i-zr-215-06.md) — offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO dahin berichtigt, dass es in Tz. 27, 31, 53 und 56 des Urteils jeweils statt "Braun" "Becker
+- [BGH, Urteil vom 02.07.2009 - I ZR 146/07](i-zr-146-07.md) — Tatbestand:
 - [BGH, Urteil vom 02.07.2009 - I ZR 147/06](i-zr-147-06.md) — Tatbestand:
 - [BGH, Beschluss vom 29.06.2009 - I ZR 168/06](i-zr-168-06.md) — Besorgnis der Befan-
+- [BGH, Urteil vom 18.06.2009 - I ZR 140/06](i-zr-140-06.md) — 3Tatbestand:
+- [BGH, Urteil vom 18.06.2009 - I ZR 224/06](i-zr-224-06.md) — Tatbestand:
+- [BGH, Urteil vom 18.06.2009 - I ZR 47/07](i-zr-47-07.md) — Tatbestand:
+- [BGH, Urteil vom 10.06.2009 - I ZR 226/06](i-zr-226-06.md) — 3-
 - [BGH, Urteil vom 10.06.2009 - I ZR 34/07](i-zr-34-07.md) — Tatbestand:
+- [BGH, Urteil vom 10.06.2009 - I ZR 37/07](i-zr-37-07.md) — Tatbestand:
+- [BGH, Beschluss vom 28.05.2009 - I ZB 93/08](i-zb-93-08.md) — vorzunehmende Klärung des Vorliegens der Prozessvor-
+- [BGH, Urteil vom 28.05.2009 - I ZR 124/06](i-zr-124-06.md) — 3-
 - [BGH, Urteil vom 28.05.2009 - I ZR 29/07](i-zr-29-07.md) — Tatbestand:
 - [BGH, Beschluss vom 20.05.2009 - I ZB 107/08](i-zb-107-08.md) — BGH, Beschluss vom 20.05.2009 - I ZB 107/08
+- [BGH, Beschluss vom 20.05.2009 - I ZB 53/08](i-zb-53-08.md) — I. Für den Markeninhaber ist seit dem 25. April 2005 die Bildmarke Nr. 30465554 unter anderem für Schuhwaren in das Markenregister eingetragen. -3- 2 Die Antragstellerin hat beim …
+- [BGH, Beschluss vom 20.05.2009 - I ZR 218/07](i-zr-218-07.md) — I. Die Klägerin ist eine Gesellschaft bürgerlichen Rechts, die in F. eine Rechtsanwaltskanzlei betrieben hat. 2 Die Beklagte zu 1 ist eine Gesellschaft mit beschränkter Haftung …
 - [BGH, Urteil vom 20.05.2009 - I ZR 220/06](i-zr-220-06.md) — Tatbestand:
+- [BGH, Urteil vom 20.05.2009 - I ZR 239/06](i-zr-239-06.md) — Tatbestand:
 - [BGH, Urteil vom 14.05.2009 - I ZR 179/07](i-zr-179-07.md) — 3Tatbestand:
+- [BGH, Urteil vom 14.05.2009 - I ZR 208/06](i-zr-208-06.md) — Tatbestand:
 - [BGH, Urteil vom 14.05.2009 - I ZR 231/06](i-zr-231-06.md) — 3Tatbestand:
+- [BGH, Urteil vom 14.05.2009 - I ZR 82/07](i-zr-82-07.md) — Tatbestand:
+- [BGH, Urteil vom 14.05.2009 - I ZR 98/06](i-zr-98-06.md) — deren Inanspruchnahme durch den Verletzten erbringt.
+- [BGH, Urteil vom 14.05.2009 - I ZR 99/06](i-zr-99-06.md) — 3-
 - [BGH, Beschluss vom 30.04.2009 - I ZB 123/08](i-zb-123-08.md) — unrichtiger Sachbehandlung abzusehen
+- [BGH, Urteil vom 30.04.2009 - I ZR 117/07](i-zr-117-07.md) — Tatbestand:
+- [BGH, Urteil vom 30.04.2009 - I ZR 148/07](i-zr-148-07.md) — Tatbestand:
 - [BGH, Teilurteil vom 30.04.2009 - I ZR 191/05](i-zr-191-05.md) — 3Tatbestand:
 - [BGH, Urteil vom 30.04.2009 - I ZR 42/07](i-zr-42-07.md) — Tatbestand:
+- [BGH, Urteil vom 30.04.2009 - I ZR 45/07](i-zr-45-07.md) — Tatbestand:
+- [BGH, Urteil vom 30.04.2009 - I ZR 66/07](i-zr-66-07.md) — Umbau
+- [BGH, Urteil vom 30.04.2009 - I ZR 68/07](i-zr-68-07.md) — Tatbestand:
 - [BGH, Urteil vom 22.04.2009 - I ZR 14/07](i-zr-14-07.md) — Mehrfachverfolgung eines einheitlichen Wettbewerbsverstoßes sind auf die Verfolgung gleichartiger oder ähnlich gelagerter Wettbewerbsverstöß
+- [BGH, Urteil vom 22.04.2009 - I ZR 176/06](i-zr-176-06.md) — 3Tatbestand:
+- [BGH, Urteil vom 22.04.2009 - I ZR 216/06](i-zr-216-06.md) — Nachschlagewerk: ja
+- [BGH, Urteil vom 22.04.2009 - I ZR 5/07](i-zr-5-07.md) — Tatbestand:
 - [BGH, Beschluss vom 02.04.2009 - I ZA 1/09](i-za-1-09.md) — Der Beklagte begehrt die Bewilligung von Prozesskostenhilfe für eine Revision gegen das Urteil des Hanseatischen Oberlandesgerichts Hamburg vom 6.
+- [BGH, Beschluss vom 02.04.2009 - I ZB 5/08](i-zb-5-08.md) — fehlender Benutzung oder auf ihren eigenen
+- [BGH, Beschluss vom 02.04.2009 - I ZB 8/06](i-zb-8-06.md) — des Unternehmensgegenstands des Anmelders nur eine Benutzung der Marke durch Lizenzierung oder Veräußerung an Dritte in Betracht, kann berei
+- [BGH, Beschluss vom 02.04.2009 - I ZB 9/06](i-zb-9-06.md) — I. Die Antragstellerin hat die Löschung der am 20. November 2000 angemel- deten und am 5. Februar 2001 für die Markeninhaberin für "Pharmazeutische Er- zeugnisse, insbesondere …
 - [BGH, Beschluss vom 02.04.2009 - I ZB 94/06](i-zb-94-06.md) — einer bös-
 - [BGH, Urteil vom 02.04.2009 - I ZR 110/06](i-zr-110-06.md) — Tatbestand:
 - [BGH, Urteil vom 02.04.2009 - I ZR 111/06](i-zr-111-06.md) — Tatbestand:
 - [BGH, Urteil vom 02.04.2009 - I ZR 144/06](i-zr-144-06.md) — Tatbestand:
 - [BGH, Urteil vom 02.04.2009 - I ZR 16/07](i-zr-16-07.md) — Tatbestand:
+- [BGH, Urteil vom 02.04.2009 - I ZR 199/06](i-zr-199-06.md) — Tatbestand:
 - [BGH, Urteil vom 02.04.2009 - I ZR 209/06](i-zr-209-06.md) — Tatbestand:
+- [BGH, Urteil vom 02.04.2009 - I ZR 60/06](i-zr-60-06.md) — Tatbestand:
+- [BGH, Urteil vom 02.04.2009 - I ZR 61/06](i-zr-61-06.md) — Tatbestand:
 - [BGH, Beschluss vom 02.04.2009 - I ZR 7/08](i-zr-7-08.md) — BGH, Beschluss vom 02.04.2009 - I ZR 7/08
 - [BGH, Urteil vom 02.04.2009 - I ZR 78/06](i-zr-78-06.md) — kennzeichenrechtlicher Verwechslungsgefahr und Ansprüche aufgrund eines Verstoßes gegen das Irreführungsverbot nach § 5 Abs. 2 UWG im Hinbli
 - [BGH, Urteil vom 02.04.2009 - I ZR 79/06](i-zr-79-06.md) — Tatbestand:
+- [BGH, Urteil vom 26.03.2009 - I ZR 120/07](i-zr-120-07.md) — Verstoßes gegen Art. 41 Abs. 1 Satz 1 CMR nichtig.
 - [BGH, Urteil vom 26.03.2009 - I ZR 153/06](i-zr-153-06.md) — Nichtausübung (§ 41 UrhG) erlischt.
 - [BGH, Urteil vom 26.03.2009 - I ZR 213/06](i-zr-213-06.md) — Tatbestand:
+- [BGH, Urteil vom 26.03.2009 - I ZR 42/06](i-zr-42-06.md) — Tatbestand:
 - [BGH, Urteil vom 26.03.2009 - I ZR 43/06](i-zr-43-06.md) — Tatbestand:
+- [BGH, Urteil vom 26.03.2009 - I ZR 44/06](i-zr-44-06.md) — deren Inanspruchnahme durch den Verletzten erbringt, nicht abzuziehen.
 - [BGH, Beschluss vom 26.03.2009 - I ZR 54/08](i-zr-54-08.md) — sind nicht entscheidungserheblich, weil die Berufungsbegründung der Klägerin vom 11.
-- [BGH, Urteil vom 26.02.2009 - I ZR 142/06](i-zr-142-06.md) — BGH, Urteil vom 26.02.2009 - I ZR 142/06
+- [BGH, Urteil vom 26.03.2009 - I ZR 99/07](i-zr-99-07.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2009 - I ZR 114/06](i-zr-114-06.md) — der von ihm geschaffenen Gefahr einer Unklarheit darüber, wer unter dem betreffenden Mitgliedskonto gehandelt hat und im Falle einer Vertrag
+- [BGH, Urteil vom 11.03.2009 - I ZR 194/06](i-zr-194-06.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2009 - I ZR 8/07](i-zr-8-07.md) — Tatbestand:
+- [BGH, Urteil vom 26.02.2009 - I ZR 106/06](i-zr-106-06.md) — 3-
 - [BGH, Urteil vom 26.02.2009 - I ZR 155/07](i-zr-155-07.md) — Tatbestand:
+- [BGH, Urteil vom 26.02.2009 - I ZR 163/06](i-zr-163-06.md) — Tatbestand:
+- [BGH, Urteil vom 26.02.2009 - I ZR 219/06](i-zr-219-06.md) — 3-
 - [BGH, Urteil vom 26.02.2009 - I ZR 222/06](i-zr-222-06.md) — BGH, Urteil vom 26.02.2009 - I ZR 222/06
+- [BGH, Urteil vom 26.02.2009 - I ZR 28/06](i-zr-28-06.md) — Tatbestand:
+- [BGH, Beschluss vom 19.02.2009 - I ZR 109/08](i-zr-109-08.md) — Versäumung der Frist zur Einlegung und Begründung der Nichtzulassungsbeschwerde gegen das Urteil des 6. Zivilsenats des Oberlandesgerichts M
+- [BGH, Urteil vom 19.02.2009 - I ZR 135/06](i-zr-135-06.md) — 3Tatbestand:
 - [BGH, Urteil vom 19.02.2009 - I ZR 160/06](i-zr-160-06.md) — Tatbestand:
+- [BGH, Urteil vom 19.02.2009 - I ZR 195/06](i-zr-195-06.md) — Tatbestand:
 - [BGH, Beschluss vom 19.02.2009 - I ZR 81/07](i-zr-81-07.md) — Haben die Parteien die Hauptsache übereinstimmend für erledigt erklärt, nachdem sie den Rechtsstreit durch einen außergerichtlichen Vergleich beige- legt haben, so ist jedenfalls …
 - [BGH, Urteil vom 05.02.2009 - I ZR 119/06](i-zr-119-06.md) — Tatbestand:
 - [BGH, Urteil vom 05.02.2009 - I ZR 124/07](i-zr-124-07.md) — Tatbestand:
+- [BGH, Urteil vom 05.02.2009 - I ZR 167/06](i-zr-167-06.md) — 3Tatbestand:
+- [BGH, Urteil vom 05.02.2009 - I ZR 174/06](i-zr-174-06.md) — 3-
+- [BGH, Urteil vom 05.02.2009 - I ZR 186/06](i-zr-186-06.md) — 3-
+- [BGH, Beschluss vom 22.01.2009 - I ZB 115/07](i-zb-115-07.md) — I. Durch Urteil vom 20. Dezember 2006 untersagte das Landgericht der Schuldnerin im Wege der einstweiligen Verfügung unter Androhung der gesetz- lichen Ordnungsmittel, für das …
+- [BGH, Beschluss vom 22.01.2009 - I ZB 34/08](i-zb-34-08.md) — I. Die Anmelderin hat beim Deutschen Patent- und Markenamt die Ein- tragung der Wortfolge My World für folgende Waren und Dienstleistungen beantragt: Klasse 16 …
+- [BGH, Beschluss vom 22.01.2009 - I ZB 52/08](i-zb-52-08.md) — Fehlens jeglicher Unterscheidungskraft zurückgewiesen:
+- [BGH, Beschluss vom 22.01.2009 - I ZR 125/07](i-zr-125-07.md) — I. Die Klägerin vertreibt unter der Internet-Adresse „www.bananabay.de“ Erotikartikel. Sie ist Inhaberin der für eine Vielzahl von Waren und Dienstleis- tungen der Klassen 03, 05 …
 - [BGH, Urteil vom 22.01.2009 - I ZR 139/07](i-zr-139-07.md) — Tatbestand:
+- [BGH, Urteil vom 22.01.2009 - I ZR 148/06](i-zr-148-06.md) — 3-
+- [BGH, Beschluss vom 22.01.2009 - I ZR 196/07](i-zr-196-07.md) — BGH, Beschluss vom 22.01.2009 - I ZR 196/07
+- [BGH, Urteil vom 22.01.2009 - I ZR 247/03](i-zr-247-03.md) — 3Tatbestand:
 - [BGH, Urteil vom 22.01.2009 - I ZR 30/07](i-zr-30-07.md) — 3-
 - [BGH, Urteil vom 22.01.2009 - I ZR 31/06](i-zr-31-06.md) — Tatbestand:
+- [BGH, Beschluss vom 15.01.2009 - I ZB 30/06](i-zb-30-06.md) — zu legen. Ist für den Anmelder bereits ein identisches Zeichen für dieselben Waren oder Dienstleistungen eingetragen, so sind deshalb keine anderen, insbesondere keine noch …
+- [BGH, Beschluss vom 15.01.2009 - I ZB 48/06](i-zb-48-06.md) — Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vo-
+- [BGH, Urteil vom 15.01.2009 - I ZR 123/06](i-zr-123-06.md) — seines pauschalen Inhalts aber Interessenten dazu veranlassen kann, sicherheitshalber gleich von dem Erwerb der Maschine Abstand zu nehmen.
+- [BGH, Urteil vom 15.01.2009 - I ZR 141/06](i-zr-141-06.md) — Tatbestand:
+- [BGH, Urteil vom 15.01.2009 - I ZR 164/06](i-zr-164-06.md) — Tatbestand:
+- [BGH, Beschluss vom 15.01.2009 - I ZR 18/06](i-zr-18-06.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Anhö- rungsrüge ist nicht begründet.
+- [BGH, Urteil vom 15.01.2009 - I ZR 57/07](i-zr-57-07.md) — 3-

@@ -1,6 +1,6 @@
 # III. Zivilsenat
 
-Staats- und Amtshaftung, Dienst- und Werkverträge, Notarhaftung, teils Kapitalanlage. 1573 Entscheidung(en).
+Staats- und Amtshaftung, Dienst- und Werkverträge, Notarhaftung, teils Kapitalanlage. 2293 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -21,13 +21,13 @@ Staats- und Amtshaftung, Dienst- und Werkverträge, Notarhaftung, teils Kapitala
 - [2012](2012/index.md) (68)
 - [2011](2011/index.md) (75)
 - [2010](2010/index.md) (70)
-- [2009](2009/index.md) (66)
-- [2008](2008/index.md) (71)
-- [2007](2007/index.md) (62)
-- [2006](2006/index.md) (55)
-- [2005](2005/index.md) (56)
-- [2004](2004/index.md) (57)
-- [2003](2003/index.md) (51)
-- [2002](2002/index.md) (48)
-- [2001](2001/index.md) (28)
-- [2000](2000/index.md) (42)
+- [2009](2009/index.md) (153)
+- [2008](2008/index.md) (172)
+- [2007](2007/index.md) (159)
+- [2006](2006/index.md) (107)
+- [2005](2005/index.md) (126)
+- [2004](2004/index.md) (134)
+- [2003](2003/index.md) (116)
+- [2002](2002/index.md) (116)
+- [2001](2001/index.md) (79)
+- [2000](2000/index.md) (94)

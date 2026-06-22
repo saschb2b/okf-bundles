@@ -1,11 +1,54 @@
 # Senat für Anwaltssachen – 2001
 
-31 Entscheidung(en).
+73 Entscheidung(en).
 
+- [BGH, Beschluss vom 19.12.2001 - AnwZ (B) 34/00](anwz-b-34-00.md) — Fortführung der Berufsbezeichnung Rechtsanwalt
+- [BGH, Beschluss vom 17.12.2001 - AnwZ (B) 10/01](anwz-b-10-01.md) — Vermögensverfalls widerrufen. Der Anwaltsgerichtshof hat den Antrag auf gerichtliche Entscheidung zurückgewiesen. Dagegen richtet sich die s
+- [BGH, Beschluss vom 17.12.2001 - AnwZ (B) 11/01](anwz-b-11-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.12.2001 - AnwZ (B) 12/01](anwz-b-12-01.md) — Beanstandung der Kurzbezeichnung
 - [BGH, Beschluss vom 17.12.2001 - AnwZ (B) 4/01](anwz-b-4-01.md) — Zulassung als Rechtsanwaltschaftsgesellschaft mbH
+- [BGH, Beschluss vom 17.12.2001 - AnwZ (B) 6/01](anwz-b-6-01.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.12.2001 - AnwZ (B) 9/01](anwz-b-9-01.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO) widerrufen und die sofortige Vollziehung dieser Verfügung angeordnet. Den Antrag auf gerichtliche
+- [BGH, Beschluss vom 19.11.2001 - AnwZ (B) 65/00](anwz-b-65-00.md) — Vorlage eines Zeugnisses u.a. im Zulassungsverfahren
+- [BGH, Beschluss vom 19.11.2001 - AnwZ (B) 68/00](anwz-b-68-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 19.11.2001 - AnwZ (B) 71/00](anwz-b-71-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 19.11.2001 - AnwZ (B) 74/00](anwz-b-74-00.md) — der Gebühren eines Abwicklers
 - [BGH, Beschluss vom 19.11.2001 - AnwZ (B) 75/00](anwz-b-75-00.md) — Antrags auf gerichtliche Entscheidung gemäß § 223 BRAO
+- [BGH, Beschluss vom 19.11.2001 - AnwZ (B) 76/00](anwz-b-76-00.md) — Feststellung
+- [BGH, Beschluss vom 19.11.2001 - AnwZ (B) 77/00](anwz-b-77-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.10.2001 - AnwSt (R) 13/00](anwst-r-13-00.md) — Der Rechtsanwalt ist durch Urteil des Anwaltsgerichts im Bezirk der Rechtsanwaltskammer des Freistaates Sachsen vom 25.
+- [BGH, Beschluss vom 22.10.2001 - AnwZ (B) 10/99](anwz-b-10-99.md) — Rücknahme der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.10.2001 - AnwZ (B) 54/00](anwz-b-54-00.md) — Bestellung eines allgemeinen Vertreters
+- [BGH, Beschluss vom 22.10.2001 - AnwZ (B) 55/00](anwz-b-55-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.10.2001 - AnwZ (B) 59/00](anwz-b-59-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.10.2001 - AnwZ (B) 60/00](anwz-b-60-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.10.2001 - AnwZ (B) 62/00](anwz-b-62-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.10.2001 - AnwZ (B) 63/00](anwz-b-63-00.md) — Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 22.10.2001 - AnwZ (B) 64/00](anwz-b-64-00.md) — I. Der Antragsteller ist 1954 in Warschau geboren und hat dort Rechtswissenschaften studiert, die er 1980 mit dem Titel "Magister der Rechte" abschloß. Im Dezember 1981 kam er in …
+- [BGH, Beschluss vom 27.09.2001 - AnwZ (B) 25/01](anwz-b-25-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 24.09.2001 - AnwZ (B) 34/01](anwz-b-34-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft; hier: Wiederherstellung der aufschiebenden Wirkung der sofortigen Beschwerde
+- [BGH, Beschluss vom 19.09.2001 - AnwZ (B) 41/01](anwz-b-41-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft; hier: Wiederherstellung der aufschiebenden Wirkung der sofortigen Beschwerde
+- [BGH, Beschluss vom 16.07.2001 - AnwZ (B) 61/00](anwz-b-61-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft; hier: Wiederherstellung der aufschiebenden Wirkung der sofortigen
+- [BGH, Beschluss vom 18.06.2001 - AnwSt (B) 10/00](anwst-b-10-00.md) — schuldhafter Verletzung seiner Verschwiegenheitspflichten in einem Fall und des Werbeverbots in zwei Fällen die anwaltsgerichtlichen Maßnahm
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 41/00](anwz-b-41-00.md) — FAO § 5 Die Ausübung des Berufs des Syndikusanwalts ist nicht als selbständige anwaltliche Tätigkeit im Sinne des § 5 FAO anzusehen. Bei der Gewichtung der Fälle, die der Bewerber …
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 43/00](anwz-b-43-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 45/00](anwz-b-45-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 46/00](anwz-b-46-00.md) — Rechtsbeugung, die er als Justizangehöriger der DDR begangen hatte, führt nicht zwingend zum Widerruf seiner Zulassung. Der Widerrufsgrund d
 - [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 47/00](anwz-b-47-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 49/00](anwz-b-49-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 50/00](anwz-b-50-00.md) — Vorlage eines ärztlichen Gutachtens im Zulassungsverfahren
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 51/00](anwz-b-51-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 52/00](anwz-b-52-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 53/00](anwz-b-53-00.md) — Untersagung einer Briefkopfgestaltung
+- [BGH, Beschluss vom 18.06.2001 - AnwZ (B) 6/00](anwz-b-6-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 29.05.2001 - AnwZ (B) 38/00](anwz-b-38-00.md) — Weder die Bundesrechtsanwaltsordnung noch die gemäß § 40 Abs.
+- [BGH, Beschluss vom 02.04.2001 - AnwZ (B) 28/00](anwz-b-28-00.md) — Anerkennung des Nachweises einer Fortbildung
+- [BGH, Beschluss vom 02.04.2001 - AnwZ (B) 29/00](anwz-b-29-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 02.04.2001 - AnwZ (B) 30/00](anwz-b-30-00.md) — Vermögensverfalls. Der Bescheid wurde dem Antragsteller zu Händen seiner Verfahrensbevollmächtigten am 12. Juli 1999 und ihm persönlich noch
+- [BGH, Beschluss vom 02.04.2001 - AnwZ (B) 31/00](anwz-b-31-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 02.04.2001 - AnwZ (B) 32/00](anwz-b-32-00.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 02.04.2001 - AnwZ (B) 33/00](anwz-b-33-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 02.04.2001 - AnwZ (B) 37/00](anwz-b-37-00.md) — Widerrufs der Erlaubnis zur Führung einer Fachanwaltsbezeichnung
 - [BGH, Beschluss vom 12.03.2001 - AnwZ (B) 16/00](anwz-b-16-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 12.03.2001 - AnwZ (B) 17/00](anwz-b-17-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 12.03.2001 - AnwZ (B) 18/00](anwz-b-18-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
@@ -30,6 +73,5 @@
 - [BGH, Beschluss vom 12.02.2001 - AnwZ (B) 7/00](anwz-b-7-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 12.02.2001 - AnwZ (B) 79/99](anwz-b-79-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 12.02.2001 - AnwZ (B) 8/00](anwz-b-8-00.md) — Unvereinbarkeit von dessen Tätigkeit als selbständiger Versicherungsvertreter mit dem Beruf des Rechtsanwalts abgelehnt. Den gegen diesen Be
-- [BGH, Beschluss vom 12.02.2001 - AnwZ (B) 81/99](anwz-b-81-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 12.02.2001 - AnwZ (B) 9/00](anwz-b-9-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 24.01.2001 - AnwZ (B) 10/00](anwz-b-10-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft

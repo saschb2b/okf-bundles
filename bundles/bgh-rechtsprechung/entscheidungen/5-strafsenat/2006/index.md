@@ -1,10 +1,27 @@
 # 5. Strafsenat – 2006
 
-74 Entscheidung(en).
+163 Entscheidung(en).
 
+- [BGH, Urteil vom 15.12.2006 - 5 StR 181/06](5-str-181-06.md) — : ja Veröffentlichung : ja StGB § 263 1. Dem Angebot auf Abschluss eines Sportwettenvertrages ist in aller Regel die konkludente Erklärung zu entnehmen, dass der in Bezug …
+- [BGH, Urteil vom 15.12.2006 - 5 StR 182/06](5-str-182-06.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 14.12.2006 - 5 StR 464/06](5-str-464-06.md) — gewerbsmäßiger Fälschung von Zahlungskarten mit Garantiefunktion u. a.
+- [BGH, Beschluss vom 14.12.2006 - 5 StR 472/06](5-str-472-06.md) — besonders schweren Raubes u. a.
 - [BGH, Urteil vom 13.12.2006 - 5 StR 211/06](5-str-211-06.md) — fahrlässiger Tötung
+- [BGH, Beschluss vom 13.12.2006 - 5 StR 315/06](5-str-315-06.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 13.12.2006 - 5 StR 354/06](5-str-354-06.md) — Betruges u. a.
 - [BGH, Urteil vom 13.12.2006 - 5 StR 395/06](5-str-395-06.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 13.12.2006 - 5 StR 425/06](5-str-425-06.md) — besonders schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 13.12.2006 - 5 StR 459/06](5-str-459-06.md) — Totschlags
+- [BGH, Beschluss vom 13.12.2006 - 5 StR 493/06](5-str-493-06.md) — Betruges u. a.
+- [BGH, Beschluss vom 12.12.2006 - 5 StR 377/06](5-str-377-06.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 12.12.2006 - 5 StR 469/06](5-str-469-06.md) — Bestechlichkeit
+- [BGH, Beschluss vom 11.12.2006 - 5 StR 437/06](5-str-437-06.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 11.12.2006 - 5 StR 457/06](5-str-457-06.md) — Totschlags
+- [BGH, Beschluss vom 11.12.2006 - 5 StR 468/06](5-str-468-06.md) — Mordes u. a.
+- [BGH, Beschluss vom 11.12.2006 - 5 StR 490/06](5-str-490-06.md) — vorsätzlicher Körperverletzung u. a.
+- [BGH, Urteil vom 29.11.2006 - 5 StR 324/06](5-str-324-06.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 29.11.2006 - 5 StR 329/06](5-str-329-06.md) — Mordes u. a.
+- [BGH, Beschluss vom 29.11.2006 - 5 StR 455/06](5-str-455-06.md) — Urkundenfälschung u. a.
 - [BGH, Beschluss vom 28.11.2006 - 5 StR 475/06](5-str-475-06.md) — versuchter schwerer Brandstiftung u. a.
 - [BGH, Beschluss vom 10.11.2006 - 5 StR 303/06](5-str-303-06.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 10.11.2006 - 5 StR 386/06](5-str-386-06.md) — Betruges u. a.
@@ -15,11 +32,16 @@
 - [BGH, Urteil vom 07.11.2006 - 5 StR 164/06](5-str-164-06.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 07.11.2006 - 5 StR 433/06](5-str-433-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 07.11.2006 - 5 StR 435/06](5-str-435-06.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 26.10.2006 - 5 StR 70/06](5-str-70-06.md) — Bestechlichkeit u. a.
+- [BGH, Urteil vom 25.10.2006 - 5 StR 316/06](5-str-316-06.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 25.10.2006 - 5 StR 370/06](5-str-370-06.md) — versuchter Nötigung u. a.
 - [BGH, Beschluss vom 25.10.2006 - 5 StR 382/06](5-str-382-06.md) — Geiselnahme u. a.
+- [BGH, Beschluss vom 12.10.2006 - 5 StR 397/06](5-str-397-06.md) — sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 11.10.2006 - 5 StR 391/06](5-str-391-06.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Entscheidung vom 10.10.2006 - 5 StR 212/06](5-str-212-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Urteil vom 28.09.2006 - 5 StR 140/06](5-str-140-06.md) — Betruges
 - [BGH, Beschluss vom 28.09.2006 - 5 StR 275/06](5-str-275-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 28.09.2006 - 5 StR 292/06](5-str-292-06.md) — fahrlässiger Tötung u. a.
 - [BGH, Beschluss vom 26.09.2006 - 5 StR 327/06](5-str-327-06.md) — Beihilfe zum unerlaubten bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 07.09.2006 - 5 StR 364/06](5-str-364-06.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Urteil vom 06.09.2006 - 5 StR 156/06](5-str-156-06.md) — gewerbsmäßiger Steuerhinterziehung u. a.
@@ -27,52 +49,119 @@
 - [BGH, Beschluss vom 06.09.2006 - 5 StR 367/06](5-str-367-06.md) — gefährlicher Körperverletzung
 - [BGH, Urteil vom 06.09.2006 - 5 StR 64/06](5-str-64-06.md) — Betruges u. a.
 - [BGH, Beschluss vom 05.09.2006 - 5 StR 330/06](5-str-330-06.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 24.08.2006 - 5 StR 238/06](5-str-238-06.md) — gewerbsmäßigen Schmuggels u. a.
+- [BGH, Beschluss vom 24.08.2006 - 5 StR 306/06](5-str-306-06.md) — Körperverletzung mit Todesfolge u. a.
+- [BGH, Beschluss vom 24.08.2006 - 5 StR 314/06](5-str-314-06.md) — schweren Raubes
+- [BGH, Beschluss vom 24.08.2006 - 5 StR 341/06](5-str-341-06.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u. a.
+- [BGH, Beschluss vom 23.08.2006 - 5 StR 105/06](5-str-105-06.md) — Verstoßes gegen das Außenwirtschaftsgesetz u. a.
 - [BGH, Urteil vom 23.08.2006 - 5 StR 139/06](5-str-139-06.md) — Totschlags u. a.
 - [BGH, Urteil vom 23.08.2006 - 5 StR 151/06](5-str-151-06.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 23.08.2006 - 5 StR 328/06](5-str-328-06.md) — sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 22.08.2006 - 5 StR 318/06](5-str-318-06.md) — gewerbsmäßigen Einschleusens von Ausländern u. a.
 - [BGH, Beschluss vom 09.08.2006 - 5 StR 271/06](5-str-271-06.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 08.08.2006 - 5 StR 189/06](5-str-189-06.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 08.08.2006 - 5 StR 273/06](5-str-273-06.md) — Steuerhehlerei u. a.
 - [BGH, Beschluss vom 08.08.2006 - 5 StR 284/06](5-str-284-06.md) — Mordes
 - [BGH, Beschluss vom 08.08.2006 - 5 StR 405/05](5-str-405-05.md) — Volksverhetzung
 - [BGH, Beschluss vom 27.07.2006 - 5 StR 249/06](5-str-249-06.md) — Vorteilsannahme
+- [BGH, Beschluss vom 27.07.2006 - 5 StR 264/06](5-str-264-06.md) — Betruges u. a.
+- [BGH, Beschluss vom 27.07.2006 - 5 StR 272/06](5-str-272-06.md) — Mordes u. a.
+- [BGH, Beschluss vom 27.07.2006 - 5 StR 280/06](5-str-280-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 26.07.2006 - 5 StR 232/06](5-str-232-06.md) — versuchten Mordes u. a.
 - [BGH, Beschluss vom 26.07.2006 - 5 StR 267/06](5-str-267-06.md) — Beihilfe zum Raub
+- [BGH, Beschluss vom 26.07.2006 - 5 StR 276/06](5-str-276-06.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 26.07.2006 - 5 StR 277/06](5-str-277-06.md) — Vergewaltigung
 - [BGH, Urteil vom 25.07.2006 - 5 StR 97/06](5-str-97-06.md) — Totschlags u. a.
+- [BGH, Beschluss vom 21.07.2006 - 5 StR 152/06](5-str-152-06.md) — gewerbsmäßigen Schmuggels u. a.
+- [BGH, Beschluss vom 13.07.2006 - 5 StR 106/06](5-str-106-06.md) — Bestechlichkeit im geschäftlichen Verkehr u. a. hier: Revision des Angeklagten
+- [BGH, Beschluss vom 13.07.2006 - 5 StR 154/06](5-str-154-06.md) — Untreue u. a.
+- [BGH, Beschluss vom 13.07.2006 - 5 StR 161/06](5-str-161-06.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 13.07.2006 - 5 StR 173/06](5-str-173-06.md) — Beihilfe zur Steuerhinterziehung u. a.
+- [BGH, Urteil vom 12.07.2006 - 5 StR 135/06](5-str-135-06.md) — Mordes
+- [BGH, Beschluss vom 12.07.2006 - 5 StR 165/06](5-str-165-06.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 12.07.2006 - 5 StR 215/06](5-str-215-06.md) — schwerer Brandstiftung
+- [BGH, Urteil vom 12.07.2006 - 5 StR 219/06](5-str-219-06.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 12.07.2006 - 5 StR 236/06](5-str-236-06.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 12.07.2006 - 5 StR 98/06](5-str-98-06.md) — sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Urteil vom 11.07.2006 - 5 StR 113/06](5-str-113-06.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Urteil vom 11.07.2006 - 5 StR 125/06](5-str-125-06.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 11.07.2006 - 5 StR 217/06](5-str-217-06.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 29.06.2006 - 5 StR 196/06](5-str-196-06.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 29.06.2006 - 5 StR 199/06](5-str-199-06.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 29.06.2006 - 5 StR 229/06](5-str-229-06.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 29.06.2006 - 5 StR 482/05](5-str-482-05.md) — Anstiftung zur Untreue u. a.
+- [BGH, Urteil vom 29.06.2006 - 5 StR 483/05](5-str-483-05.md) — Untreue u. a.
+- [BGH, Urteil vom 29.06.2006 - 5 StR 484/05](5-str-484-05.md) — Untreue u. a.
 - [BGH, Urteil vom 29.06.2006 - 5 StR 485/05](5-str-485-05.md) — Veröffentlichung ja StPO § 26a Abs. 1 Nr. 2 StGB § 266 Abs. 1 1. Zur Anwendung von § 26a Abs. 1 Nr. 2 StPO bei Vorbefassung des Gerichts nach Abtrennung von Verfahren gegen …
 - [BGH, Beschluss vom 29.06.2006 - 5 StR 76/06](5-str-76-06.md) — Untreue u. a.
 - [BGH, Beschluss vom 29.06.2006 - 5 StR 77/06](5-str-77-06.md) — Untreue u. a.
 - [BGH, Beschluss vom 29.06.2006 - 5 StR 85/06](5-str-85-06.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 07.06.2006 - 5 StR 121/06](5-str-121-06.md) — Totschlags
 - [BGH, Beschluss vom 24.05.2006 - 5 StR 158/06](5-str-158-06.md) — Körperverletzung mit Todesfolge
+- [BGH, Urteil vom 23.05.2006 - 5 StR 62/06](5-str-62-06.md) — sexuellen Missbrauchs eines Kindes
 - [BGH, Beschluss vom 22.05.2006 - 5 StR 160/06](5-str-160-06.md) — BGH, Beschluss vom 22.05.2006 - 5 StR 160/06
 - [BGH, Beschluss vom 22.05.2006 - 5 StR 177/06](5-str-177-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.05.2006 - 5 StR 578/05](5-str-578-05.md) — : ja Veröffentlichung : ja OWiG § 33 Abs. 1 Satz 1 Nr. 1 Für eine verjährungsunterbrechende Anordnung der Bekanntgabe des Ermittlungsverfahrens gemäß § 33 Abs. 1 Satz 1 Nr. 1 OWiG …
 - [BGH, Urteil vom 11.05.2006 - 5 StR 3/06](5-str-3-06.md) — versuchter schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 10.05.2006 - 5 StR 327/05](5-str-327-05.md) — Mordes u. a.
+- [BGH, Beschluss vom 09.05.2006 - 5 ARs 13/06](5-ars-13-06.md) — gefährlicher Körperverletzung hier: Anfragebeschluss des 1. Strafsenats vom 12. Januar 2006 – 1 StR 466/05
+- [BGH, Beschluss vom 09.05.2006 - 5 StR 112/06](5-str-112-06.md) — sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Urteil vom 09.05.2006 - 5 StR 453/05](5-str-453-05.md) — : ja Veröffentlichung : ja StGB § 11 Abs. 1 Nr. 2, § 108e, §§ 331 ff. UStG § 1 Abs. 1 Nr. 1 1. a) Kommunale Mandatsträger sind keine Amtsträger, es sei denn, sie werden mit …
+- [BGH, Beschluss vom 27.04.2006 - 5 StR 104/06](5-str-104-06.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 27.04.2006 - 5 StR 79/06](5-str-79-06.md) — Mordes
+- [BGH, Beschluss vom 26.04.2006 - 5 StR 118/06](5-str-118-06.md) — sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 26.04.2006 - 5 StR 21/06](5-str-21-06.md) — Körperverletzung im Amt mit Todesfolge
+- [BGH, Urteil vom 26.04.2006 - 5 StR 32/06](5-str-32-06.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u. a.
+- [BGH, Urteil vom 26.04.2006 - 5 StR 51/06](5-str-51-06.md) — versuchten Raubes u. a.
+- [BGH, Beschluss vom 25.04.2006 - 5 StR 103/06](5-str-103-06.md) — schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 25.04.2006 - 5 StR 122/06](5-str-122-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 25.04.2006 - 5 StR 42/06](5-str-42-06.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 25.04.2006 - 5 StR 430/05](5-str-430-05.md) — unrichtiger Darstellung der Verhältnisse eines Kreditinstituts im Jahresabschluss u. a.
 - [BGH, Beschluss vom 06.04.2006 - 5 StR 99/06](5-str-99-06.md) — Mordes
 - [BGH, Beschluss vom 05.04.2006 - 5 StR 35/06](5-str-35-06.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 05.04.2006 - 5 StR 569/05](5-str-569-05.md) — Nötigung u. a. hier: Erinnerung gegen den Kostenansatz
 - [BGH, Beschluss vom 05.04.2006 - 5 StR 589/05](5-str-589-05.md) — Totschlags
-- [BGH, Beschluss vom 04.04.2006 - 5 StR 514/04](5-str-514-04.md) — versuchter Steuerhinterziehung u. a.
 - [BGH, Urteil vom 04.04.2006 - 5 StR 96/06](5-str-96-06.md) — gewerbs- und bandenmäßigen Betruges u. a.
+- [BGH, Urteil vom 22.03.2006 - 5 StR 38/06](5-str-38-06.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Urteil vom 22.03.2006 - 5 StR 475/05](5-str-475-05.md) — Untreue
+- [BGH, Beschluss vom 21.03.2006 - 5 StR 12/06](5-str-12-06.md) — Vorteilsannahme
+- [BGH, Beschluss vom 21.03.2006 - 5 StR 78/06](5-str-78-06.md) — Raubes u. a.
 - [BGH, Beschluss vom 10.03.2006 - 5 StR 551/05](5-str-551-05.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 08.03.2006 - 5 StR 473/05](5-str-473-05.md) — schweren Raubes u. a.
+- [BGH, Urteil vom 08.03.2006 - 5 StR 587/05](5-str-587-05.md) — Subventionsbetruges u. a.
+- [BGH, Beschluss vom 08.03.2006 - 5 StR 59/06](5-str-59-06.md) — Überlassens von Betäubungsmitteln an Minderjährige zum unmittelbaren Verbrauch
+- [BGH, Beschluss vom 07.03.2006 - 5 StR 362/05](5-str-362-05.md) — Nötigung u. a.
+- [BGH, Beschluss vom 07.03.2006 - 5 StR 50/06](5-str-50-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 07.03.2006 - 5 StR 547/05](5-str-547-05.md) — : nein Veröffentlichung : ja StPO § 354 Abs. 1a Eine Entscheidung eines Revisionsgerichts nach § 354 Abs. 1a Satz 2 StPO kann auch durch Beschluss erfolgen. BGH, Beschluss vom 7 …
+- [BGH, Beschluss vom 07.03.2006 - 5 StR 56/06](5-str-56-06.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 07.03.2006 - 5 StR 58/06](5-str-58-06.md) — erpresserischen Menschenraubes u. a.
 - [BGH, Beschluss vom 07.03.2006 - 5 StR 582/05](5-str-582-05.md) — Vergewaltigung u. a.
+- [BGH, Urteil vom 23.02.2006 - 5 StR 416/05](5-str-416-05.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 23.02.2006 - 5 StR 457/05](5-str-457-05.md) — gewerbsmäßiger Abgabe von Betäubungsmitteln an Minderjährige u. a.
 - [BGH, Beschluss vom 22.02.2006 - 5 StR 31/06](5-str-31-06.md) — Totschlags
+- [BGH, Beschluss vom 22.02.2006 - 5 StR 552/05](5-str-552-05.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 22.02.2006 - 5 StR 583/05](5-str-583-05.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 22.02.2006 - 5 StR 585/05](5-str-585-05.md) — : ja Veröffentlichung : ja StGB § 66b Abs. 2 StPO §§ 275a, 462a Abs. 1 Satz 3 GVG § 74f 1. „Neu“ im Sinne der Rechtsprechung zu § 66b StGB sind nur solche Tatsachen, die nach der …
+- [BGH, Beschluss vom 22.02.2006 - 5 StR 596/05](5-str-596-05.md) — Betruges u. a.
 - [BGH, Beschluss vom 21.02.2006 - 5 StR 2/06](5-str-2-06.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 21.02.2006 - 5 StR 37/06](5-str-37-06.md) — gewerbs- und bandenmäßigen Betruges u. a.
 - [BGH, Beschluss vom 21.02.2006 - 5 StR 519/05](5-str-519-05.md) — Anstiftung zur Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 21.02.2006 - 5 StR 558/05](5-str-558-05.md) — Beihilfe zur Urkundenfälschung
-- [BGH, Beschluss vom 07.02.2006 - 5 StR 481/05](5-str-481-05.md) — Totschlags
+- [BGH, Beschluss vom 21.02.2006 - 5 StR 8/06](5-str-8-06.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 09.02.2006 - 5 StR 423/05](5-str-423-05.md) — Untreue
+- [BGH, Urteil vom 09.02.2006 - 5 StR 564/05](5-str-564-05.md) — Entziehung Minderjähriger
+- [BGH, Urteil vom 08.02.2006 - 5 StR 431/05](5-str-431-05.md) — Urkundenfälschung u. a.
+- [BGH, Beschluss vom 07.02.2006 - 5 StR 597/05](5-str-597-05.md) — Versuchs der Beteiligung am Mord u. a.
 - [BGH, Beschluss vom 26.01.2006 - 5 StR 334/05](5-str-334-05.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 26.01.2006 - 5 StR 500/05](5-str-500-05.md) — : nein Veröffentlichung : ja StPO §§ 25, 338 Nr. 3 Notwendige Wiederholung eines Ablehnungsgesuchs nach ausgesetzter Hauptverhandlung (gegen BGHSt 31, 15; nicht tragend). BGH …
+- [BGH, Beschluss vom 26.01.2006 - 5 StR 514/05](5-str-514-05.md) — erpresserischen Menschenraubes u. a.
+- [BGH, Beschluss vom 26.01.2006 - 5 StR 536/05](5-str-536-05.md) — gewerbsmäßiger Abgabe von Betäubungsmitteln an Personen unter 18 Jahren u. a.
 - [BGH, Beschluss vom 25.01.2006 - 5 StR 593/05](5-str-593-05.md) — schwerer räuberischer Erpressung
 - [BGH, Urteil vom 24.01.2006 - 5 StR 410/05](5-str-410-05.md) — Totschlags
 - [BGH, Beschluss vom 11.01.2006 - 5 StR 372/05](5-str-372-05.md) — Mordes u. a.
+- [BGH, Urteil vom 11.01.2006 - 5 StR 442/05](5-str-442-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 11.01.2006 - 5 StR 466/05](5-str-466-05.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 11.01.2006 - 5 StR 554/05](5-str-554-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 10.01.2006 - 5 StR 341/05](5-str-341-05.md) — : nein Veröffentlichung : ja StGB § 211 StPO §§ 136, 137 1. Das Motiv der "Blutrache" ist regelmäßig als niedriger Beweggrund anzusehen. Eine Ausnahme kann gelten, wenn dem Täter …
+- [BGH, Beschluss vom 10.01.2006 - 5 StR 525/05](5-str-525-05.md) — gewerbs- und bandenmäßigen Betruges u. a.
+- [BGH, Beschluss vom 10.01.2006 - 5 StR 540/05](5-str-540-05.md) — versuchten Mordes u. a.

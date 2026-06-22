@@ -1,6 +1,6 @@
 # IV. Zivilsenat
 
-Versicherungsvertragsrecht und Erbrecht. 1633 Entscheidung(en).
+Versicherungsvertragsrecht und Erbrecht. 2259 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -21,13 +21,13 @@ Versicherungsvertragsrecht und Erbrecht. 1633 Entscheidung(en).
 - [2012](2012/index.md) (76)
 - [2011](2011/index.md) (98)
 - [2010](2010/index.md) (74)
-- [2009](2009/index.md) (64)
-- [2008](2008/index.md) (92)
-- [2007](2007/index.md) (55)
-- [2006](2006/index.md) (52)
-- [2005](2005/index.md) (57)
-- [2004](2004/index.md) (74)
-- [2003](2003/index.md) (42)
-- [2002](2002/index.md) (26)
-- [2001](2001/index.md) (14)
-- [2000](2000/index.md) (24)
+- [2009](2009/index.md) (136)
+- [2008](2008/index.md) (185)
+- [2007](2007/index.md) (132)
+- [2006](2006/index.md) (123)
+- [2005](2005/index.md) (120)
+- [2004](2004/index.md) (156)
+- [2003](2003/index.md) (101)
+- [2002](2002/index.md) (63)
+- [2001](2001/index.md) (63)
+- [2000](2000/index.md) (47)

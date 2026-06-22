@@ -1,0 +1,6 @@
+# 2 BGS – 2001
+
+2 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.02.2001 - 2 BGs 42/00](2-bgs-42-00.md) — Veröffentlichtung: _________________________________ StPO §§ 100a, 100b Die Strafverfolgungsbehörden können im Rahmen einer nach §§ 100a, 100b StPO angeordneten Überwachung und …
+- [BGH, Beschluss vom 21.02.2001 - 2 BGs 42/01](2-bgs-42-01.md) — Veröffentlichtung: _________________________________ StPO §§ 100a, 100b Die Strafverfolgungsbehörden können im Rahmen einer nach §§ 100a, 100b StPO angeordneten Überwachung und …

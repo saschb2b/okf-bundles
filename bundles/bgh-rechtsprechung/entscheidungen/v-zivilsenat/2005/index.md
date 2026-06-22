@@ -1,59 +1,138 @@
 # V. Zivilsenat – 2005
 
-55 Entscheidung(en).
+134 Entscheidung(en).
 
+- [BGH, Urteil vom 16.12.2005 - V ZR 195/04](v-zr-195-04.md) — Tatbestand:
+- [BGH, Urteil vom 16.12.2005 - V ZR 230/04](v-zr-230-04.md) — Tatbestand:
+- [BGH, Urteil vom 16.12.2005 - V ZR 273/04](v-zr-273-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.12.2005 - V ZR 83/05](v-zr-83-05.md) — Tatbestand:
+- [BGH, Beschluss vom 08.12.2005 - V ZB 144/05](v-zb-144-05.md) — I. 1 Der Kostengläubiger errichtete am 3. März 2003 für die Kostenschuldne- rin eine Verweisungsurkunde, in welcher die Kostenschuldnerin ihre Absicht bekundete, ein von ihr zu …
+- [BGH, Urteil vom 02.12.2005 - V ZR 11/05](v-zr-11-05.md) — Tatbestand:
+- [BGH, Urteil vom 02.12.2005 - V ZR 35/05](v-zr-35-05.md) — Tatbestand:
+- [BGH, Beschluss vom 01.12.2005 - V ZR 257/04](v-zr-257-04.md) — 1. Die von der Nichtzulassungsbeschwerde aufgeworfene Rechtsfrage, die von grundsätzlicher Bedeutung sein soll, ob die öffentliche Nutzung an ei- nem Deponiegrundstück mit der …
 - [BGH, Beschluss vom 24.11.2005 - V ZB 103/05](v-zb-103-05.md) — I. 1 Der Kostengläubiger beurkundete am 15. Dezember 2003 einen Grund- stückskaufvertrag, an dem die Kostenschuldner als Käufer und die weitere Be- teiligte als Verkäuferin …
+- [BGH, Beschluss vom 24.11.2005 - V ZB 133/05](v-zb-133-05.md) — I. 1 Auf Antrag des Gläubigers ordnete das Amtsgericht Kassel am 29. No- vember 2004 in einem einheitlichen Beschluss die Zwangsverwaltung von 33 Wohnungs- und …
 - [BGH, Beschluss vom 24.11.2005 - V ZB 23/05](v-zb-23-05.md) — einer in Abteilung III, laufende Nr. 5, eingetrage-
+- [BGH, Beschluss vom 24.11.2005 - V ZB 24/05](v-zb-24-05.md) — der Versäumung der Rechtsbeschwerdebegründungsfrist zu bewilligen, nach-
 - [BGH, Beschluss vom 24.11.2005 - V ZB 81/05](v-zb-81-05.md) — BGH, Beschluss vom 24.11.2005 - V ZB 81/05
+- [BGH, Beschluss vom 24.11.2005 - V ZB 84/05](v-zb-84-05.md) — fehlerhafter Besetzung des Gerichts zwingend der Aufhebung
+- [BGH, Beschluss vom 24.11.2005 - V ZB 94/05](v-zb-94-05.md) — I. 1 Die Beteiligte zu 1 betreibt die Zwangsversteigerung mehrerer im Grund- buch von Neubrandenburg eingetragener Grundstücke. Die Beteiligte zu 4 hat beantragt, gesetzlich …
+- [BGH, Beschluss vom 24.11.2005 - V ZB 95/05](v-zb-95-05.md) — I. 1 Die Beteiligte zu 1 betreibt die Zwangsversteigerung in im Grundbuch von B. S. eingetragene Miteigentumsanteile. Die Beteiligte zu 7 bean- tragte unter Berufung auf § 1 …
+- [BGH, Beschluss vom 24.11.2005 - V ZB 98/05](v-zb-98-05.md) — einer Hauptforderung von
 - [BGH, Beschluss vom 24.11.2005 - V ZB 99/05](v-zb-99-05.md) — der Zwangsversteigerung seines Grundstücks kann zur Aufhebung des Zuschlagsbeschlusses und zur einstweiligen Einstellung des Verfahrens auch
 - [BGH, Beschluss vom 24.11.2005 - V ZR 60/05](v-zr-60-05.md) — Der Senat hat den Anspruch der Klägerinnen auf rechtliches Gehör nicht verletzt.
+- [BGH, Beschluss vom 24.11.2005 - V ZR 94/05](v-zr-94-05.md) — der Nichtberücksichtigung ihres Vortrags gerügt
+- [BGH, Beschluss vom 17.11.2005 - V ZR 68/05](v-zr-68-05.md) — eines den Anspruch der Beklagten auf
+- [BGH, Beschluss vom 17.11.2005 - V ZR 74/05](v-zr-74-05.md) — I. 1 Die Klägerin verlangt von dem Beklagten Nutzungsersatz und Ersatz nicht gezogener Nutzungen hinsichtlich eines Grundstücks in M. /Thüringen. Es war Volkseigentum …
 - [BGH, Urteil vom 28.10.2005 - V ZR 70/05](v-zr-70-05.md) — Tatbestand:
 - [BGH, Urteil vom 28.10.2005 - V ZR 91/05](v-zr-91-05.md) — Tatbestand:
 - [BGH, Urteil vom 28.10.2005 - V ZR 92/05](v-zr-92-05.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2005 - V ZB 101/05](v-zb-101-05.md) — der
+- [BGH, Beschluss vom 25.10.2005 - V ZB 111/05](v-zb-111-05.md) — I. 1 Die Kläger haben von den Beklagten die Beseitigung von Anpflanzun- gen in der Nähe der Grundstücksgrenze verlangt. Die Klage ist mit Urteil des Amtsgerichts vom 12. November …
+- [BGH, Beschluss vom 25.10.2005 - V ZB 121/05](v-zb-121-05.md) — I. 1 Im Juli 2000 beauftragte die Kostenschuldnerin, die Maklerin ist, namens einer Kaufinteressentin den Kostengläubiger, schnellstmöglich einen Entwurf für einen Kaufvertrag …
+- [BGH, Beschluss vom 25.10.2005 - V ZR 241/04](v-zr-241-04.md) — Wechsels des Sachbe-
+- [BGH, Urteil vom 21.10.2005 - V ZR 169/04](v-zr-169-04.md) — Tatbestand:
+- [BGH, Urteil vom 21.10.2005 - V ZR 63/05](v-zr-63-05.md) — Tatbestand:
 - [BGH, Beschluss vom 20.10.2005 - V ZR 29/05](v-zr-29-05.md) — I. 1 Die Beklagten sind Inhaber von titulierten Forderungen, die Gegenstand der von dem Landgericht abgewiesenen Vollstreckungsgegenklage sind. Nachdem im Berufungsrechtzug ein …
+- [BGH, Beschluss vom 20.10.2005 - V ZR 39/05](v-zr-39-05.md) — I. 1 Die Kläger, die früher Mitglieder des beklagten Golfclubs waren, wenden sich gegen ein von diesem ausgesprochenes Platz- und Hausver- bot. Das Amtsgericht hat ihrer …
+- [BGH, Beschluss vom 20.10.2005 - V ZR 73/05](v-zr-73-05.md) — I. 1 Die Parteien sind Geschwister. Der Kläger war zu 1/3 Miteigentümer land- wirtschaftlich genutzter Grundstücke, auf denen sich auch das mit Mitteln des Klä- gers errichtete …
+- [BGH, Urteil vom 07.10.2005 - V ZR 140/04](v-zr-140-04.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2005 - V ZR 52/05](v-zr-52-05.md) — Tatbestand:
+- [BGH, Urteil vom 30.09.2005 - V ZR 185/04](v-zr-185-04.md) — Tatbestand:
 - [BGH, Urteil vom 30.09.2005 - V ZR 197/04](v-zr-197-04.md) — Tatbestand:
+- [BGH, Urteil vom 30.09.2005 - V ZR 275/04](v-zr-275-04.md) — Tatbestand:
+- [BGH, Urteil vom 30.09.2005 - V ZR 37/05](v-zr-37-05.md) — Tatbestand:
 - [BGH, Beschluss vom 29.09.2005 - V ZB 107/05](v-zb-107-05.md) — I. Die Beteiligten sind die Mitglieder einer Wohnungseigentümergemeinschaft. In der Versammlung vom 12. Dezember 2001 haben die Wohnungseigentümer eine Mehrzahl von Beschlüssen …
 - [BGH, Beschluss vom 21.09.2005 - V ZB 106/05](v-zb-106-05.md) — I. Gegen das ihm am 8. März 2005 zugestellte Urteil des Amtsgerichts legte der Beklagte Berufung ein und stellte mit einem am 10. Mai 2005 eingegangenen Schriftsatz den Antrag …
 - [BGH, Urteil vom 16.09.2005 - V ZR 242/04](v-zr-242-04.md) — Berichtigter Leitzsatz § 57 Abs. 2 Satz 2 TKG a. F. Zur Bestimmung des Ausgleichs nach § 57 Abs. 2 Satz 2 TKG a.F. ist auf die üblichen Entgelte für Versorgungsleitungen nicht …
 - [BGH, Urteil vom 16.09.2005 - V ZR 244/04](v-zr-244-04.md) — Tatbestand:
+- [BGH, Beschluss vom 15.09.2005 - V ZR 204/04](v-zr-204-04.md) — BGH, Beschluss vom 15.09.2005 - V ZR 204/04
+- [BGH, Beschluss vom 15.09.2005 - V ZR 205/04](v-zr-205-04.md) — BGH, Beschluss vom 15.09.2005 - V ZR 205/04
+- [BGH, Beschluss vom 15.09.2005 - V ZR 223/04](v-zr-223-04.md) — BGH, Beschluss vom 15.09.2005 - V ZR 223/04
 - [BGH, Beschluss vom 17.08.2005 - V ZB 92/05](v-zb-92-05.md) — BGH, Beschluss vom 17.08.2005 - V ZB 92/05
+- [BGH, Beschluss vom 07.07.2005 - V ZR 274/04](v-zr-274-04.md) — Der Rechtsstreit ist durch übereinstimmende Erklärungen, die auch in dem Verfahren über die Nichtzulassungsbeschwerde abgegeben werden können, in der Hauptsache erledigt; deshalb …
+- [BGH, Urteil vom 01.07.2005 - V ZR 277/04](v-zr-277-04.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2005 - V ZR 350/03](v-zr-350-03.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2005 - V ZR 96/04](v-zr-96-04.md) — BGH, Urteil vom 24.06.2005 - V ZR 96/04
 - [BGH, Beschluss vom 23.06.2005 - V ZB 45/04](v-zb-45-04.md) — BGH, Beschluss vom 23.06.2005 - V ZB 45/04
+- [BGH, Beschluss vom 23.06.2005 - V ZB 61/05](v-zb-61-05.md) — I. Die Beteiligten zu 1 bis 22 streiten um die Wirksamkeit von Beschlüssen einer Wohnungseigentümergemeinschaft. Der Beteiligten zu 1 stand bis zum 12. Januar 2001 das mit dem …
+- [BGH, Urteil vom 17.06.2005 - V ZR 202/04](v-zr-202-04.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2005 - V ZR 207/04](v-zr-207-04.md) — eines Betrags von 3.751,13 € nebst Zinsen abgewiesen worden ist.
+- [BGH, Urteil vom 17.06.2005 - V ZR 208/04](v-zr-208-04.md) — eines Betrags von 846,87 € nebst Zinsen abgewiesen worden ist.
 - [BGH, Urteil vom 17.06.2005 - V ZR 209/04](v-zr-209-04.md) — eines Betrags von 11.643,16 € nebst Zinsen abgewiesen worden ist.
 - [BGH, Urteil vom 17.06.2005 - V ZR 220/04](v-zr-220-04.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2005 - V ZR 328/03](v-zr-328-03.md) — 3-
 - [BGH, Urteil vom 17.06.2005 - V ZR 78/04](v-zr-78-04.md) — Tatbestand:
+- [BGH, Beschluss vom 16.06.2005 - V ZB 48/05](v-zb-48-05.md) — I. Gegen das ihr am 8. Oktober 2004 zugestellte Urteil des Landgerichts hat die Klägerin mit einem am 11. November 2004 bei dem Oberlandesgericht eingegangenen Schriftsatz …
+- [BGH, Urteil vom 10.06.2005 - V ZR 225/04](v-zr-225-04.md) — Tatbestand:
+- [BGH, Urteil vom 10.06.2005 - V ZR 235/04](v-zr-235-04.md) — Tatbestand:
+- [BGH, Urteil vom 10.06.2005 - V ZR 251/04](v-zr-251-04.md) — Tatbestand:
 - [BGH, Beschluss vom 09.06.2005 - V ZR 271/04](v-zr-271-04.md) — BGH, Beschluss vom 09.06.2005 - V ZR 271/04
+- [BGH, Versäumnisurteil vom 03.06.2005 - V ZR 106/04](v-zr-106-04.md) — Tatbestand:
 - [BGH, Urteil vom 03.06.2005 - V ZR 196/04](v-zr-196-04.md) — Tatbestand:
+- [BGH, Beschluss vom 02.06.2005 - V ZB 32/05](v-zb-32-05.md) — I. Die Beteiligten streiten um die Genehmigung eines Wirtschaftsplans. Die Antragsteller und die Antragsgegner sind die Wohnungseigentümer der Liegenschaft N. straße 14-24 in M …
 - [BGH, Beschluss vom 02.06.2005 - V ZB 49/04](v-zb-49-04.md) — I. Gegen das ihnen am 29. Juli 2004 zugestellte Urteil des Amtsgerichts haben die Kläger mit einem am 1. September 2004 bei dem Landgericht eingegangenen Schriftsatz Berufung …
+- [BGH, Beschluss vom 02.06.2005 - V ZB 8/05](v-zb-8-05.md) — I. Mit Beschluß vom 10. August 1999 ordnete das Amtsgericht die Zwangs- verwaltung über den im Grundbuch von G. , Blatt 00574, einge- tragenen Grundbesitz des Schuldners an und …
+- [BGH, Beschluss vom 02.06.2005 - V ZR 89/05](v-zr-89-05.md) — I. Gegen das ihm am 4. März 2005 zugestellte Urteil des Landgerichts hat der Beklagte mit einem am 19. April 2005 eingegangenen Schriftsatz Nichtzulassungsbeschwerde eingelegt …
+- [BGH, Beschluss vom 02.06.2005 - V ZR 93/04](v-zr-93-04.md) — Der Streitwert für die Klage bestimmt sich nach dem Verkehrswert des herausverlangten Grundstücks K.
+- [BGH, Urteil vom 13.05.2005 - V ZR 191/04](v-zr-191-04.md) — Tatbestand:
 - [BGH, Beschluss vom 13.05.2005 - V ZR 59/05](v-zr-59-05.md) — Die Nichtzulassungsbeschwerde vom 12. März 2005 war als unzulässig zu verwerfen, weil sie nicht durch einen bei dem Bundesgerichtshof zugelassenen Rechtsanwalt und damit nicht in …
+- [BGH, Beschluss vom 12.05.2005 - V ZB 40/05](v-zb-40-05.md) — I. Der Kostengläubiger beurkundete am 16. Juli 2003 einen Grundstückskaufvertrag, an dem die Kostenschuldner als Käufer beteiligt waren (UR-Nr. ). Nach § 3 des Vertrags sollte der …
+- [BGH, Beschluss vom 12.05.2005 - V ZR 88/05](v-zr-88-05.md) — I. Gegen das ihm am 4. März 2005 zugestellte Urteil des Landgerichts hat der Beklagte mit einem am 19. April 2005 eingegangenen Schriftsatz Nichtzulassungsbeschwerde eingelegt …
+- [BGH, Beschluss vom 20.04.2005 - V ZR 133/04](v-zr-133-04.md) — BGH, Beschluss vom 20.04.2005 - V ZR 133/04
+- [BGH, Beschluss vom 15.04.2005 - V ZB 49/05](v-zb-49-05.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 14.04.2005 - V ZB 10/05](v-zb-10-05.md) — I. Mit Schriftsatz vom 19. Februar 2004 beantragte die Gläubigerin, aus einem dinglichen Anspruch die Zwangsverwaltung eines Grundstücks in B. -W. anzuordnen. Sie erklärte, die …
 - [BGH, Beschluss vom 14.04.2005 - V ZB 11/05](v-zb-11-05.md) — BGH, Beschluss vom 14.04.2005 - V ZB 11/05
 - [BGH, Beschluss vom 14.04.2005 - V ZB 12/05](v-zb-12-05.md) — I. Mit Schriftsatz vom 19. Februar 2004 beantragte die Gläubigerin, aus einer eingetragenen Grundschuld die Zwangsverwaltung eines Grundstücks in B. -N. anzuordnen. Sie erklärte …
 - [BGH, Beschluss vom 14.04.2005 - V ZB 13/05](v-zb-13-05.md) — I. Mit Schriftsatz vom 19. Februar 2004 beantragte die Gläubigerin, aus einer eingetragenen Grundschuld die Zwangsverwaltung eines Grundstücks in B. -N. anzuordnen. Sie erklärte …
 - [BGH, Beschluss vom 14.04.2005 - V ZB 14/05](v-zb-14-05.md) — I. Mit Schriftsatz vom 19. Februar 2004 beantragte die Gläubigerin, aus einer eingetragenen Grundschuld die Zwangsverwaltung eines Grundstücks in B. -Pa. anzuordnen. Sie erklärte …
 - [BGH, Beschluss vom 14.04.2005 - V ZB 15/05](v-zb-15-05.md) — I. Mit Schriftsatz vom 19. Februar 2004 beantragte die Gläubigerin, aus einer eingetragenen Grundschuld die Zwangsverwaltung eines Grundstücks in B. -N. anzuordnen. Sie erklärte …
+- [BGH, Beschluss vom 14.04.2005 - V ZB 16/05](v-zb-16-05.md) — I. Im Januar 2004 ordnete das Amtsgericht Bergen auf Rügen auf Antrag der Gläubigerin die Zwangsverwaltung des im Rubrum bezeichneten Grundstücks des Schuldners an, auf dem dieser …
 - [BGH, Beschluss vom 14.04.2005 - V ZB 17/05](v-zb-17-05.md) — BGH, Beschluss vom 14.04.2005 - V ZB 17/05
+- [BGH, Beschluss vom 14.04.2005 - V ZB 25/05](v-zb-25-05.md) — der zu ihren Gunsten in Abteilung III, laufende Nr. 1, eingetragenen Grundschuld über 200.000 DM nebst Zinsen. Der Schuldner unterwarf sich
+- [BGH, Beschluss vom 14.04.2005 - V ZB 34/05](v-zb-34-05.md) — I. Die Beteiligten haben die Terminsbestimmung des Amtsgerichts Detmold in dem Versteigerungsverfahren mit einer Vollstreckungserinnerung angegriffen, die das Amtsgericht …
 - [BGH, Beschluss vom 14.04.2005 - V ZB 4/05](v-zb-4-05.md) — BGH, Beschluss vom 14.04.2005 - V ZB 4/05
 - [BGH, Beschluss vom 14.04.2005 - V ZB 5/05](v-zb-5-05.md) — BGH, Beschluss vom 14.04.2005 - V ZB 5/05
+- [BGH, Beschluss vom 14.04.2005 - V ZB 55/05](v-zb-55-05.md) — eines Teilbetrags von 762,70 € zurückgewiesen worden ist.
+- [BGH, Beschluss vom 14.04.2005 - V ZB 6/05](v-zb-6-05.md) — dieses Anspruchs nach § 883 ZPO vollstreckt werden kann.
+- [BGH, Beschluss vom 14.04.2005 - V ZB 7/05](v-zb-7-05.md) — der Besorgnis der Befangenheit ab. Der Rechtspfleger verwarf das Ablehnungsgesuch und verkündete im Anschluß hieran den Beschluß, das Grunds
+- [BGH, Beschluss vom 14.04.2005 - V ZB 9/05](v-zb-9-05.md) — I. Auf Antrag von E. W. und anderen Gläubigern ordnete das Amtsgericht Dortmund mit Beschluß vom 30. Oktober 1997 die Zwangsverstei- gerung mehrerer Eigentumswohnungen und Garagen …
+- [BGH, Beschluss vom 14.04.2005 - V ZR 152/04](v-zr-152-04.md) — arglistiger Täuschung nach § 123 BGB greift durch, wenn die Verkäuferin im Zeitpunkt des Vertragsschlusses am 24. Oktober 1994 Kenntnis von
 - [BGH, Beschluss vom 06.04.2005 - V ZA 6/05](v-za-6-05.md) — BGH, Beschluss vom 06.04.2005 - V ZA 6/05
+- [BGH, Beschluss vom 06.04.2005 - V ZB 25/04](v-zb-25-04.md) — Besorgnis der Befangenheit ab. Das Landgericht wies das
+- [BGH, Beschluss vom 06.04.2005 - V ZB 40/04](v-zb-40-04.md) — I. Der in dem noch vor der 4. Zivilkammer des Landgerichts Hamburg anhängigen Verfahren anwaltlich vertretene Beklagte lehnte persönlich am 26. August 2004 den Vorsitzenden und am …
 - [BGH, Beschluss vom 06.04.2005 - V ZR 211/04](v-zr-211-04.md) — weiterer Einzelheiten zwar auf ein Verkehrswertgutachten Bezug genommen. Dieses lag der Beschwerdebegründung aber nicht bei, sondern wurde e
 - [BGH, Beschluss vom 05.04.2005 - V ZB 31/05](v-zb-31-05.md) — BGH, Beschluss vom 05.04.2005 - V ZB 31/05
 - [BGH, Urteil vom 11.03.2005 - V ZR 153/04](v-zr-153-04.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2005 - V ZR 160/04](v-zr-160-04.md) — 3-
+- [BGH, Beschluss vom 10.03.2005 - V ZR 186/04](v-zr-186-04.md) — BGH, Beschluss vom 10.03.2005 - V ZR 186/04
+- [BGH, Beschluss vom 10.03.2005 - V ZR 221/04](v-zr-221-04.md) — BGH, Beschluss vom 10.03.2005 - V ZR 221/04
 - [BGH, Urteil vom 04.03.2005 - V ZR 148/04](v-zr-148-04.md) — Tatbestand:
+- [BGH, Urteil vom 04.03.2005 - V ZR 162/04](v-zr-162-04.md) — Tatbestand:
 - [BGH, Beschluss vom 03.03.2005 - V ZB 42/04](v-zb-42-04.md) — BGH, Beschluss vom 03.03.2005 - V ZB 42/04
 - [BGH, Beschluss vom 03.03.2005 - V ZB 47/05](v-zb-47-05.md) — BGH, Beschluss vom 03.03.2005 - V ZB 47/05
+- [BGH, Urteil vom 25.02.2005 - V ZR 105/04](v-zr-105-04.md) — Tatbestand:
+- [BGH, Beschluss vom 24.02.2005 - V ZB 17/04](v-zb-17-04.md) — seiner persönlichen und wirtschaftlichen Verhältnisse nahm er auf eine im April 2003 im ersten Rechtszug auf dem hierfür bestimmten Vordruck
+- [BGH, Beschluss vom 24.02.2005 - V ZB 45/05](v-zb-45-05.md) — Die Einwendungen des Erinnerungsführers gegen den Kostenansatz liegen neben der Sache.
 - [BGH, Urteil vom 24.02.2005 - V ZR 145/05](v-zr-145-05.md) — 3-
+- [BGH, Beschluss vom 17.02.2005 - V ZA 3/05](v-za-3-05.md) — BGH, Beschluss vom 17.02.2005 - V ZA 3/05
+- [BGH, Beschluss vom 17.02.2005 - V ZB 36/04](v-zb-36-04.md) — I. Die Kläger haben die Beklagte auf Bewilligung der Eintragung einer Grunddienstbarkeit in das Grundbuch und Beseitigung einer Aufschüttung in Anspruch genommen. Das Amtsgericht …
 - [BGH, Beschluss vom 17.02.2005 - V ZR 149/04](v-zr-149-04.md) — BGH, Beschluss vom 17.02.2005 - V ZR 149/04
 - [BGH, Urteil vom 04.02.2005 - V ZR 114/04](v-zr-114-04.md) — Tatbestand:
 - [BGH, Urteil vom 04.02.2005 - V ZR 142/04](v-zr-142-04.md) — Tatbestand:
 - [BGH, Urteil vom 04.02.2005 - V ZR 294/03](v-zr-294-03.md) — Vereitelung der Gläubigerrechte nach § 138 Abs. 1 BGB nichtig ist.
 - [BGH, Beschluss vom 03.02.2005 - V ZB 32/04](v-zb-32-04.md) — I. Die Parteien sind Nachbarn. Der Hof auf dem Grundstück der Kläger grenzt an die bebaute Seite des Grundstücks der Beklagten. Einen durch eine zurückgesetzte Bebauung auf dem …
+- [BGH, Beschluss vom 03.02.2005 - V ZB 44/04](v-zb-44-04.md) — I. Der Beteiligte zu 1 ist Eigentümer mehrerer landwirtschaftlicher Grundstücke, die er verpachtet hat. Mit notariellem Vertrag vom 22. Dezember 2003 überließ er diese Grundstücke …
+- [BGH, Beschluss vom 03.02.2005 - V ZB 48/04](v-zb-48-04.md) — und - als seine Rückführung nach Deutschland drohte - nach Schweden ausgereist. Auf Ersuchen des Antragstellers hat das Amtsgericht am 3. Se
 - [BGH, Beschluss vom 03.02.2005 - V ZR 174/04](v-zr-174-04.md) — BGH, Beschluss vom 03.02.2005 - V ZR 174/04
 - [BGH, Beschluss vom 27.01.2005 - V ZB 28/05](v-zb-28-05.md) — I. Das Amtsgericht Schweinfurt beschlagnahmte zur Durchführung der Zwangsversteigerung das im Eingangssatz bezeichnete Grundstück des Schuldners, setzte mit Beschluß vom 16 …
+- [BGH, Beschluss vom 20.01.2005 - V ZA 15/04](v-za-15-04.md) — Gegen Entscheidungen des Oberlandesgerichts im Verfahren der weiteren Beschwerde nach § 27, 28 Abs.
+- [BGH, Beschluss vom 20.01.2005 - V ZB 35/04](v-zb-35-04.md) — Vorrangs des Vermögensgesetzes als unzulässig abgewiesen. Das Oberlandesgericht hat im Vorabverfahren entschieden, daß der Rechtsweg zu den
 - [BGH, Beschluss vom 20.01.2005 - V ZB 37/04](v-zb-37-04.md) — BGH, Beschluss vom 20.01.2005 - V ZB 37/04
-- [BGH, Urteil vom 14.01.2005 - V ZR 260/03](v-zr-260-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.01.2005 - V ZR 113/04](v-zr-113-04.md) — Tatbestand: Die Beklagte war Eigentümerin eines mit einer Reihenhausanlage bebauten Grundstücks in Berlin, das sie durch Vermietung nutzte.
+- [BGH, Urteil vom 14.01.2005 - V ZR 139/04](v-zr-139-04.md) — Tatbestand:
 - [BGH, Urteil vom 14.01.2005 - V ZR 99/04](v-zr-99-04.md) — Tatbestand:
 - [BGH, Beschluss vom 13.01.2005 - V ZB 33/04](v-zb-33-04.md) — BGH, Beschluss vom 13.01.2005 - V ZB 33/04
+- [BGH, Beschluss vom 13.01.2005 - V ZB 34/04](v-zb-34-04.md) — I. Die Antragstellerin hat gegen die Antragsgegnerin im WEG-Verfahren Ansprüche auf Wohngeldzahlungen nebst Zinsen geltend gemacht, welche die Antragsgegnerin anerkannt hat. In …
+- [BGH, Beschluss vom 13.01.2005 - V ZB 38/04](v-zb-38-04.md) — "greifbarer Gesetzwidrigkeit" oder Verletzung von Verfahrensgrundrechten ist der Antrag nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002,
+- [BGH, Beschluss vom 13.01.2005 - V ZR 218/04](v-zr-218-04.md) — eines defekten Regenfallrohrs in Anspruch. Auf die Berufung des Beklagten hin wies das Landgericht die Klage mit am 30. September 2003 verkü

@@ -1,17 +1,47 @@
 # Senat für Notarsachen – 2008
 
-14 Entscheidung(en).
+44 Entscheidung(en).
 
+- [BGH, Beschluss vom 09.12.2008 - NotZ 22/07](notz-22-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 09.12.2008 - NotZ 24/07](notz-24-07.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 09.12.2008 - NotZ 25/07](notz-25-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 09.12.2008 - NotZ 49/07](notz-49-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 09.12.2008 - NotZ 50/07](notz-50-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 09.12.2008 - NotZ 52/07](notz-52-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 09.12.2008 - NotZ 53/07](notz-53-07.md) — Bestellung zur Notarin
 - [BGH, Beschluss vom 09.12.2008 - NotZ 9/07](notz-9-07.md) — Bestellung zur Notarin
+- [BGH, Beschluss vom 17.11.2008 - NotZ 10/08](notz-10-08.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 17.11.2008 - NotZ 13/08](notz-13-08.md) — Feststellung der Voraussetzungen für eine Amtsenthebung
+- [BGH, Beschluss vom 17.11.2008 - NotZ 130/07](notz-130-07.md) — Feststellung der Voraussetzungen für die Amtsenthebung und die vorläufige Amtsenthebung
 - [BGH, Beschluss vom 17.11.2008 - NotZ 16/08](notz-16-08.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 17.11.2008 - NotZ 18/08](notz-18-08.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 17.11.2008 - NotZ 7/08](notz-7-08.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 17.11.2008 - NotZ 8/08](notz-8-08.md) — Aufforderung gemäß § 7 Abs. 7 Satz 2 Nr. 3 BNotO
 - [BGH, Beschluss vom 13.10.2008 - NotZ 15/08](notz-15-08.md) — Erlasses einer einstweiligen Anordnung
 - [BGH, Beschluss vom 06.10.2008 - NotZ 6/08](notz-6-08.md) — Amtsenthebung
+- [BGH, Beschluss vom 28.07.2008 - NotZ 112/07](notz-112-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.07.2008 - NotZ 124/07](notz-124-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.07.2008 - NotZ 3/08](notz-3-08.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.07.2008 - NotZ 30/07](notz-30-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.07.2008 - NotZ 32/07](notz-32-07.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 28.07.2008 - NotZ 5/08](notz-5-08.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.07.2008 - NotZ 81/07](notz-81-07.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 28.07.2008 - NotZ 82/07](notz-82-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.07.2008 - NotZ 86/07](notz-86-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 28.07.2008 - NotZ 9/08](notz-9-08.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 18.04.2008 - NotZ 122/07](notz-122-07.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 14.04.2008 - NotZ 1/08](notz-1-08.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.04.2008 - NotZ 100/07](notz-100-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.04.2008 - NotZ 102/07](notz-102-07.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 14.04.2008 - NotZ 103/07](notz-103-07.md) — Festsetzung eines Sonderbeitrags
+- [BGH, Beschluss vom 14.04.2008 - NotZ 105/07](notz-105-07.md) — Erhebung von Abgaben
+- [BGH, Beschluss vom 14.04.2008 - NotZ 114/07](notz-114-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.04.2008 - NotZ 116/07](notz-116-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.04.2008 - NotZ 118/07](notz-118-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.04.2008 - NotZ 119/07](notz-119-07.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 14.04.2008 - NotZ 120/07](notz-120-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.04.2008 - NotZ 121/07](notz-121-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.04.2008 - NotZ 123/07](notz-123-07.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 14.04.2008 - NotZ 125/07](notz-125-07.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 14.04.2008 - NotZ 129/07](notz-129-07.md) — Bestellung zur Notarin
 - [BGH, Beschluss vom 14.04.2008 - NotZ 4/08](notz-4-08.md) — Bestellung zum Notar

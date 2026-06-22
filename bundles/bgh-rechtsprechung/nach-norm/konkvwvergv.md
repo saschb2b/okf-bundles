@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu KonkVwVergV"
 description: "BGH-Entscheidungen zu KonkVwVergV, geordnet nach Vorschrift."
 tags: [register, navigation, konkvwvergv]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

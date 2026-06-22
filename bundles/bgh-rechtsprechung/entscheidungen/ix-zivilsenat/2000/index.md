@@ -1,26 +1,103 @@
 # IX. Zivilsenat – 2000
 
-48 Entscheidung(en).
+126 Entscheidung(en).
 
 - [BGH, Beschluss vom 14.12.2000 - IX ZA 22/00](ix-za-22-00.md) — Zahlungsunfähigkeit der Schuldnerin gestellt. Vor Entscheidung über diesen Antrag hat die Schuldnerin am 18. März 1999 die Durchführung eine
 - [BGH, Beschluss vom 14.12.2000 - IX ZB 105/00](ix-zb-105-00.md) — BGH, Beschluss vom 14.12.2000 - IX ZB 105/00
 - [BGH, Urteil vom 14.12.2000 - IX ZR 300/98](ix-zr-300-98.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 14.12.2000 - IX ZR 332/99](ix-zr-332-99.md) — BGH, Versäumnisurteil vom 14.12.2000 - IX ZR 332/99
 - [BGH, Beschluss vom 14.12.2000 - IX ZR 41/98](ix-zr-41-98.md) — BGH, Beschluss vom 14.12.2000 - IX ZR 41/98
+- [BGH, Urteil vom 07.12.2000 - IX ZR 330/99](ix-zr-330-99.md) — Tatbestand:
+- [BGH, Beschluss vom 07.12.2000 - IX ZR 345/98](ix-zr-345-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet im Endergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 07.12.2000 - IX ZR 369/98](ix-zr-369-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 07.12.2000 - IX ZR 423/99](ix-zr-423-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 30.11.2000 - IX ZR 276/99](ix-zr-276-99.md) — Zahlungsverzugs des Hauptauftragnehmers an ihn gewandt hat, er werde "von seinen Rechten gemäß § 16 Nr. 6 VOB/B Gebrauch machen", so übernim
 - [BGH, Beschluss vom 23.11.2000 - IX ZB 83/00](ix-zb-83-00.md) — der Versäumung der Berufungsfrist gegen das Urteil des Landgerichts Passau - 1. Zivilkammer - vom 28. Oktober 1999 Wiedereinsetzung in den v
 - [BGH, Urteil vom 23.11.2000 - IX ZR 155/00](ix-zr-155-00.md) — welcher vollstreckbaren Forderung die anfechtungsrechtliche Rückgewähr verlangt wird, ist neben einem besonders hervorgehobenen Klageantrag
+- [BGH, Beschluss vom 09.11.2000 - IX ZB 112/00](ix-zb-112-00.md) — I. Der verklagte Rechtsanwalt wurde durch Teilurteil des Landgerichts Ingolstadt vom 13. Januar 2000 verurteilt, Rechenschaft zu legen über die Verwendung von der Klägerin …
+- [BGH, Beschluss vom 09.11.2000 - IX ZB 50/00](ix-zb-50-00.md) — Ein gesetzlicher Grund für die Zulassung der Revision liegt nicht vor (§ 219 Abs.
+- [BGH, Urteil vom 09.11.2000 - IX ZR 310/99](ix-zr-310-99.md) — Tatbestand:
+- [BGH, Beschluss vom 09.11.2000 - IX ZR 403/99](ix-zr-403-99.md) — des Erfordernisses der "Stoffgleichheit" zwischen dem Vermögensschaden und dem angestrebten Vermögensvorteil (vgl. BGHSt 6, 115, 116; BGH BG
+- [BGH, Urteil vom 26.10.2000 - IX ZR 227/99](ix-zr-227-99.md) — Tatbestand:
+- [BGH, Beschluss vom 26.10.2000 - IX ZR 247/99](ix-zr-247-99.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
 - [BGH, Beschluss vom 19.10.2000 - IX ZB 69/00](ix-zb-69-00.md) — BGH, Beschluss vom 19.10.2000 - IX ZB 69/00
 - [BGH, Urteil vom 19.10.2000 - IX ZR 255/99](ix-zr-255-99.md) — Tatbestand:
 - [BGH, Beschluss vom 19.10.2000 - IX ZR 327/98](ix-zr-327-98.md) — BGH, Beschluss vom 19.10.2000 - IX ZR 327/98
 - [BGH, Beschluss vom 19.10.2000 - IX ZR 426/99](ix-zr-426-99.md) — BGH, Beschluss vom 19.10.2000 - IX ZR 426/99
+- [BGH, Beschluss vom 05.10.2000 - IX ZB 47/00](ix-zb-47-00.md) — Bürgschaft wird namens und in Vollmacht der Beklagten gegen das Urteil des Landgerichts Dresden ... (Aktenzeichen, Datum und Zustellungstag)
+- [BGH, Beschluss vom 28.09.2000 - IX ZR 246/99](ix-zr-246-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 28.09.2000 - IX ZR 249/99](ix-zr-249-99.md) — Die Sache wirft keine ungeklärten, entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf, und die Revision hat keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 28.09.2000 - IX ZR 279/99](ix-zr-279-99.md) — Tatbestand:
 - [BGH, Beschluss vom 28.09.2000 - IX ZR 288/98](ix-zr-288-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet keine Aussicht auf Erfolg (§ 554 b ZPO).
 - [BGH, Beschluss vom 28.09.2000 - IX ZR 300/99](ix-zr-300-99.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO).
 - [BGH, Beschluss vom 28.09.2000 - IX ZR 33/00](ix-zr-33-00.md) — Die Sache hat - nachdem die Frage, ob ein Geschäftsbesorgungsvertrag der vorliegenden Art gemäß Art.
 - [BGH, Beschluss vom 28.09.2000 - IX ZR 348/98](ix-zr-348-98.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 28.09.2000 - IX ZR 6/99](ix-zr-6-99.md) — 3-
+- [BGH, Beschluss vom 21.09.2000 - IX ZB 67/00](ix-zb-67-00.md) — I. Der verklagte Rechtsanwalt und Notar hat gegen das Urteil des Landgerichts, das seinen mit ihm in einer Sozietät verbundenen Prozeßbevollmächtigten am 17. Februar 2000 …
+- [BGH, Urteil vom 21.09.2000 - IX ZR 127/99](ix-zr-127-99.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2000 - IX ZR 175/98](ix-zr-175-98.md) — des
+- [BGH, Beschluss vom 21.09.2000 - IX ZR 289/99](ix-zr-289-99.md) — Soweit die Revision nicht angenommen wird, hat die Revision keine grundsätzliche Bedeutung und im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 21.09.2000 - IX ZR 395/98](ix-zr-395-98.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 21.09.2000 - IX ZR 437/99](ix-zr-437-99.md) — Tatbestand:
+- [BGH, Beschluss vom 14.09.2000 - IX ZR 202/99](ix-zr-202-99.md) — Die Rechtssache wirft keine ungeklärten, entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf, und die Revision hat im Ergebnis keine Aussicht auf Erfolg (§ 554 …
+- [BGH, Beschluss vom 14.09.2000 - IX ZR 444/98](ix-zr-444-98.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b Abs.
+- [BGH, Beschluss vom 13.07.2000 - IX ZR 13/99](ix-zr-13-99.md) — . Die Revision ist zulässig; denn aus der Schadensaufstellung, auf die sie Bezug nimmt, wird hinreichend erkennbar, welche Positionen jeweils noch in Höhe von 10 % geltend gemacht …
+- [BGH, Urteil vom 13.07.2000 - IX ZR 131/99](ix-zr-131-99.md) — Tatbestand:
+- [BGH, Beschluss vom 13.07.2000 - IX ZR 447/99](ix-zr-447-99.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf, und die Revision hat im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 06.07.2000 - IX ZR 126/00](ix-zr-126-00.md) — Der Antrag ist unbegründet. Das Berufungsgericht hat - im Anschluß an die Streitwertfestsetzung im Urteil des Landgerichts - den Wert der Beschwer entsprechend dem geschätzten …
+- [BGH, Urteil vom 06.07.2000 - IX ZR 134/99](ix-zr-134-99.md) — Verjährung abgewiesen, enthält die Mitteilung des Rechtsanwalts an den Mandanten, er werde das Urteil schon deshalb mit der Berufung anfecht
+- [BGH, Urteil vom 06.07.2000 - IX ZR 198/99](ix-zr-198-99.md) — der Vollstreckung aus einem vorläufig vollstreckbaren Urteil berät, muß diesen über das Risiko mangelnder Insolvenzfestigkeit der Sicherungs
+- [BGH, Urteil vom 06.07.2000 - IX ZR 206/99](ix-zr-206-99.md) — Tatbestand:
+- [BGH, Urteil vom 06.07.2000 - IX ZR 210/99](ix-zr-210-99.md) — der Buchführung für 1994 und 1995 abgewiesen worden ist.
+- [BGH, Beschluss vom 06.07.2000 - IX ZR 242/98](ix-zr-242-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 06.07.2000 - IX ZR 88/98](ix-zr-88-98.md) — Tatbestand:
+- [BGH, Beschluss vom 29.06.2000 - IX ZB 23/97](ix-zb-23-97.md) — verwehrt wurde, weil der Schuldner nicht persönlich erschienen war, kann in Deutschland nicht anerkannt werden.
+- [BGH, Beschluss vom 29.06.2000 - IX ZR 185/99](ix-zr-185-99.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b Abs.
+- [BGH, Urteil vom 29.06.2000 - IX ZR 299/98](ix-zr-299-98.md) — 3-
+- [BGH, Urteil vom 20.06.2000 - IX ZR 434/98](ix-zr-434-98.md) — dessen Unwirksamkeit nutzlos sind. Ob der Betroffene entsprechende Vermögensnachteile auch bei Wirksamkeit des Geschäfts erlitten hätte, wei
+- [BGH, Urteil vom 20.06.2000 - IX ZR 81/98](ix-zr-81-98.md) — Tatbestand:
+- [BGH, Urteil vom 30.05.2000 - IX ZR 121/99](ix-zr-121-99.md) — Sittenwidrigkeit nichtig ist.
+- [BGH, Beschluss vom 30.05.2000 - IX ZR 431/99](ix-zr-431-99.md) — Da in der Revisionsinstanz - wie schon im Berufungsrechtszug - nur darüber gestritten wird, ob die Beklagte berechtigt ist, ihre Haftung aus der Bürgschaft auf den Wert des …
+- [BGH, Beschluss vom 30.05.2000 - IX ZR 450/99](ix-zr-450-99.md) — Das Berufungsgericht hat die Beklagten zur Zahlung von 18.576 DM nebst Zinsen sowie dazu verurteilt, den Kläger mit Wirkung vom 1.
+- [BGH, Beschluss vom 18.05.2000 - IX ZB 114/98](ix-zb-114-98.md) — I. Der Kläger verlangt mit der am 1. Juli 1996 erhobenen Klage vom Beklagten die Übereignung von vier Grundstücken und die Einräumung eines Vorkaufsrechts an einem anderen …
+- [BGH, Urteil vom 18.05.2000 - IX ZR 119/99](ix-zr-119-99.md) — Tatbestand:
+- [BGH, Urteil vom 18.05.2000 - IX ZR 43/99](ix-zr-43-99.md) — ungerechtfertigter Bereicherung zurückgefordert werden kann.
+- [BGH, Beschluss vom 18.05.2000 - IX ZR 452/99](ix-zr-452-99.md) — Der Streitwert und die Beschwer, die sich nach dem Wert des streitgegenständlichen Kraftfahrzeugs richten, übersteigen nicht den Betrag von 60.000 DM.
+- [BGH, Beschluss vom 11.05.2000 - IX ZR 204/99](ix-zr-204-99.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 11.05.2000 - IX ZR 207/99](ix-zr-207-99.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 11.05.2000 - IX ZR 262/98](ix-zr-262-98.md) — des Anspruchs auf Auskunft über den Verbleib von Gegenständen zu, an denen ihm ein Aus- oder Absonderungsrecht zusteht.
+- [BGH, Beschluss vom 11.05.2000 - IX ZR 396/99](ix-zr-396-99.md) — Die Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 11.05.2000 - IX ZR 420/98](ix-zr-420-98.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO).
+- [BGH, Beschluss vom 11.05.2000 - IX ZR 429/98](ix-zr-429-98.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO).
+- [BGH, Beschluss vom 04.05.2000 - IX ZB 34/00](ix-zb-34-00.md) — Die außerordentliche Beschwerde ist unzulässig.
+- [BGH, Beschluss vom 04.05.2000 - IX ZR 124/98](ix-zr-124-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 04.05.2000 - IX ZR 142/99](ix-zr-142-99.md) — Tatbestand:
+- [BGH, Beschluss vom 04.05.2000 - IX ZR 244/99](ix-zr-244-99.md) — der Beträge aus den Grundschulden nur einmal der Zwangsvollstreckung habe unterwerfen wollen, und zwar entweder
+- [BGH, Urteil vom 13.04.2000 - IX ZR 144/99](ix-zr-144-99.md) — Tatbestand:
+- [BGH, Beschluss vom 13.04.2000 - IX ZR 171/98](ix-zr-171-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 13.04.2000 - IX ZR 372/98](ix-zr-372-98.md) — der vergleichsweisen Regelung des Gesamtschuldnerausgleichs nach der Veräußerung eines gemeinsamen Hausgrundstücks zu beraten hat.
+- [BGH, Urteil vom 13.04.2000 - IX ZR 432/98](ix-zr-432-98.md) — Tatbestand:
+- [BGH, Beschluss vom 06.04.2000 - IX ZA 2/00](ix-za-2-00.md) — Die beabsichtigte Rechtsverfolgung hat keine Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 06.04.2000 - IX ZB 92/99](ix-zb-92-99.md) — I. Die klagenden Eheleute machen gegen den Beklagten, einen israelischen, nunmehr in Haifa wohnhaften und praktizierenden Rechtsanwalt, Auskunftsansprüche geltend. Die Kläger …
+- [BGH, Urteil vom 06.04.2000 - IX ZR 122/99](ix-zr-122-99.md) — Tatbestand:
 - [BGH, Beschluss vom 06.04.2000 - IX ZR 160/98](ix-zr-160-98.md) — BGH, Beschluss vom 06.04.2000 - IX ZR 160/98
 - [BGH, Urteil vom 06.04.2000 - IX ZR 2/98](ix-zr-2-98.md) — Tatbestand:
+- [BGH, Urteil vom 06.04.2000 - IX ZR 422/98](ix-zr-422-98.md) — Tatbestand:
 - [BGH, Urteil vom 06.04.2000 - IX ZR 442/98](ix-zr-442-98.md) — BGH, Urteil vom 06.04.2000 - IX ZR 442/98
+- [BGH, Beschluss vom 06.04.2000 - IX ZR 56/99](ix-zr-56-99.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b Abs.
+- [BGH, Beschluss vom 30.03.2000 - IX ZR 11/98](ix-zr-11-98.md) — Die Rechtssache wirft ungeklärte Rechtsfragen von grundsätzlicher Bedeutung nicht auf und ist rechtsfehlerfrei entschieden (§ 554 b ZPO).
+- [BGH, Urteil vom 30.03.2000 - IX ZR 251/99](ix-zr-251-99.md) — Tatbestand:
+- [BGH, Beschluss vom 30.03.2000 - IX ZR 359/98](ix-zr-359-98.md) — Inhaltsirrtums ist bereits nach dem Zweck des Schuldanerkenntnisses ausgeschlossen (vgl. BGH, Urt. v. 19. September 1963 - III ZR 121/62, NJ
+- [BGH, Urteil vom 30.03.2000 - IX ZR 53/99](ix-zr-53-99.md) — Tatbestand:
+- [BGH, Beschluss vom 21.03.2000 - IX ZR 114/99](ix-zr-114-99.md) — . Der Antrag auf Beiordnung eines Notanwalts ist nicht begründet, weil die Rechtsverfolgung aussichtslos erscheint (§ 78 b Abs. 1 Satz 1 ZPO). Es ist weiterhin nicht dargetan, daß …
+- [BGH, Urteil vom 21.03.2000 - IX ZR 138/99](ix-zr-138-99.md) — Tatbestand:
 - [BGH, Urteil vom 21.03.2000 - IX ZR 183/98](ix-zr-183-98.md) — 3-
+- [BGH, Urteil vom 21.03.2000 - IX ZR 39/99](ix-zr-39-99.md) — Tatbestand:
+- [BGH, Beschluss vom 16.03.2000 - IX ZB 2/00](ix-zb-2-00.md) — I. Die Schuldnerin, die zur Zeit keine wirtschaftliche Tätigkeit ausübt, beantragte am 7. Juli 1999 die Eröffnung des Insolvenzverfahrens über ihr Vermögen. Sie stellte …
+- [BGH, Urteil vom 09.03.2000 - IX ZR 355/98](ix-zr-355-98.md) — Tatbestand:
+- [BGH, Beschluss vom 02.03.2000 - IX ZR 126/98](ix-zr-126-98.md) — Die Sache wirft keine Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 02.03.2000 - IX ZR 285/99](ix-zr-285-99.md) — ungerechtfertigter Bereicherung zulässig.
+- [BGH, Urteil vom 02.03.2000 - IX ZR 328/98](ix-zr-328-98.md) — Tatbestand:
 - [BGH, Beschluss vom 17.02.2000 - IX ZB 98/00](ix-zb-98-00.md) — Die sofortige Beschwerde des Klägers ist zulässig (§§ 519 b Abs.
 - [BGH, Beschluss vom 17.02.2000 - IX ZR 146/98](ix-zr-146-98.md) — Die Sache wirft keine entscheidungserhebliche Rechtsfrage von grundsätzlicher Bedeutung auf; die Revision bietet im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
 - [BGH, Urteil vom 17.02.2000 - IX ZR 32/99](ix-zr-32-99.md) — Tatbestand:
@@ -35,6 +112,7 @@
 - [BGH, Urteil vom 27.01.2000 - IX ZR 198/98](ix-zr-198-98.md) — BGH, Urteil vom 27.01.2000 - IX ZR 198/98
 - [BGH, Beschluss vom 27.01.2000 - IX ZR 21/99](ix-zr-21-99.md) — BGH, Beschluss vom 27.01.2000 - IX ZR 21/99
 - [BGH, Urteil vom 27.01.2000 - IX ZR 354/98](ix-zr-354-98.md) — BGH, Urteil vom 27.01.2000 - IX ZR 354/98
+- [BGH, Urteil vom 27.01.2000 - IX ZR 45/98](ix-zr-45-98.md) — Tatbestand:
 - [BGH, Beschluss vom 27.01.2000 - IX ZR 72/98](ix-zr-72-98.md) — BGH, Beschluss vom 27.01.2000 - IX ZR 72/98
 - [BGH, Beschluss vom 20.01.2000 - IX ZB 34/99](ix-zb-34-99.md) — Ein gesetzlicher Grund für die Zulassung der Revision liegt nicht vor (§ 219 Abs.
 - [BGH, Beschluss vom 20.01.2000 - IX ZR 10/99](ix-zr-10-99.md) — der Zahlung eines Betrages von 25.000 DM an die AVM GmbH keine Schadensersatz- oder sonstigen Forderungen zustehen -, wirft die Revision kei

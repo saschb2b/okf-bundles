@@ -1,14 +1,30 @@
 # VII. Zivilsenat – 2001
 
-31 Entscheidung(en).
+72 Entscheidung(en).
 
+- [BGH, Beschluss vom 13.12.2001 - VII ZB 19/01](vii-zb-19-01.md) — der Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorigen Stand gewährt. Beschwerdewert: 20.000 DM.
+- [BGH, Urteil vom 13.12.2001 - VII ZR 148/01](vii-zr-148-01.md) — Tatbestand: Der Kläger führte im Jahre 1995 für die Beklagten Verputzarbeiten aus. Er macht mit der Klage Restwerklohnansprüche geltend. Die
 - [BGH, Urteil vom 13.12.2001 - VII ZR 27/00](vii-zr-27-00.md) — Tatbestand: Die Klägerin verlangt von den Beklagten Restwerklohn. Die Beklagte macht Mängel geltend. Die Parteien haben Anfang 1994 unter Ei
+- [BGH, Urteil vom 13.12.2001 - VII ZR 28/00](vii-zr-28-00.md) — Tatbestand: Die Klägerin verlangt von den Beklagten Restwerklohn. Am 24. Januar/2. Februar 1994 hatten die Parteien einen VOBBauvertrag über
+- [BGH, Urteil vom 13.12.2001 - VII ZR 305/99](vii-zr-305-99.md) — Tatbestand: Der Kläger verlangt von dem Beklagten als Geschäftsführer der R.-BauGmbH (Fa. R.) Schadensersatz wegen unterlassener Weiterleitu
 - [BGH, Urteil vom 13.12.2001 - VII ZR 432/00](vii-zr-432-00.md) — BGH, Urteil vom 13.12.2001 - VII ZR 432/00
+- [BGH, Beschluss vom 06.12.2001 - VII ZR 16/01](vii-zr-16-01.md) — BGH, Beschluss vom 06.12.2001 - VII ZR 16/01
+- [BGH, Urteil vom 06.12.2001 - VII ZR 183/00](vii-zr-183-00.md) — Tatbestand: Der Kläger fordert Zahlung restlichen Werklohns. Die beiden Beklagten beauftragten den Kläger im November 1993 mit Um- und Anbau
+- [BGH, Urteil vom 06.12.2001 - VII ZR 19/00](vii-zr-19-00.md) — Tatbestand: Die Klägerin verlangt von dem Beklagten Vorschuß für die Ersatzvornahme zur Beseitigung von Mängeln, hilfsweise Schadensersatz.
+- [BGH, Urteil vom 06.12.2001 - VII ZR 241/00](vii-zr-241-00.md) — Tatbestand: I.
+- [BGH, Urteil vom 06.12.2001 - VII ZR 440/00](vii-zr-440-00.md) — Tatbestand:
+- [BGH, Urteil vom 06.12.2001 - VII ZR 452/00](vii-zr-452-00.md) — Tatbestand: Die Klägerin verlangt restlichen Werklohn. Die Beklagte übertrug ihr 1994 die Putz- und Stuckarbeiten an ihrem Alten- und Pflege
+- [BGH, Urteil vom 22.11.2001 - VII ZR 150/01](vii-zr-150-01.md) — Tatbestand: Die Parteien streiten darum, ob der Klägerin noch weitere 22.748,64 DM Werklohn, das sind 0,5 % der Abrechnungssumme, aus einem
+- [BGH, Urteil vom 22.11.2001 - VII ZR 168/00](vii-zr-168-00.md) — Tatbestand: Die Klägerin macht noch Restwerklohn für erbrachte Leistungen geltend. Die Beklagte schrieb 1997 den Komplettabriß einer Industr
+- [BGH, Versäumnisurteil vom 22.11.2001 - VII ZR 208/00](vii-zr-208-00.md) — Tatbestand: Der Kläger begehrt von der Beklagten es zu unterlassen, von der Bürgin aus der Bürgschaft Zahlung zu verlangen, und verlangt die
+- [BGH, Urteil vom 22.11.2001 - VII ZR 363/99](vii-zr-363-99.md) — Tatbestand: Die Beklagte errichtete 1993 für den Kläger den Neubau einer Autolakkiererei. Wegen der aufgetretenen Mängel ließ die ALC S. Aut
+- [BGH, Urteil vom 22.11.2001 - VII ZR 405/00](vii-zr-405-00.md) — Tatbestand: Die Parteien streiten über die Prozeßkosten eines Prätendentenstreit. Sowohl die Klägerin als auch die Beklagte berühmten sich,
 - [BGH, Beschluss vom 14.11.2001 - VII ZR 415/99](vii-zr-415-99.md) — BGH, Beschluss vom 14.11.2001 - VII ZR 415/99
 - [BGH, Urteil vom 08.11.2001 - VII ZR 111/00](vii-zr-111-00.md) — Tatbestand: Die Klägerin fordert Vergütung für zusätzliche Leistungen nach § 2 Nr. 6 VOB/B. Die Parteien schlossen am 5. September 1995 eine
 - [BGH, Urteil vom 08.11.2001 - VII ZR 373/99](vii-zr-373-99.md) — Tatbestand: Die Klägerin errichtete als Bauträgerin ein Wohn- und Geschäftshaus in W., das sie in Wohnungseigentum aufteilte. Sie verlangt v
 - [BGH, Urteil vom 08.11.2001 - VII ZR 480/00](vii-zr-480-00.md) — legen. Die Kosten für Aufmaß und Abrechnung trägt der Auftragnehmer unter den Voraussetzungen des § 14 Nr. 4 VOB/B. c) Die durch den Auftraggeber abgerechnete Forderung wird in …
 - [BGH, Urteil vom 08.11.2001 - VII ZR 65/01](vii-zr-65-01.md) — Tatbestand: Der Kläger, ein Architekt, verlangt von der Beklagten Honorar aus einem Architektenvertrag mit der Behauptung, alleiniger Inhabe
+- [BGH, Beschluss vom 25.10.2001 - VII ZB 12/01](vii-zb-12-01.md) — BGH, Beschluss vom 25.10.2001 - VII ZB 12/01
 - [BGH, Beschluss vom 11.10.2001 - VII ZR 302/00](vii-zr-302-00.md) — BGH, Beschluss vom 11.10.2001 - VII ZR 302/00
 - [BGH, Urteil vom 11.10.2001 - VII ZR 383/99](vii-zr-383-99.md) — Tatbestand: Die Klägerin wollte im Juni 1994 in B. ein weiteres Fast-FoodRestaurant eröffnen. Die Renovierung des hierfür vorgesehenen Gebäu
 - [BGH, Urteil vom 11.10.2001 - VII ZR 475/00](vii-zr-475-00.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Schadensersatz. Sie erwarb von der B.-GmbH ein von dieser zu sanierendes Geschäftshaus i
@@ -16,19 +32,44 @@
 - [BGH, Urteil vom 27.09.2001 - VII ZR 320/00](vii-zr-320-00.md) — Mängel der Statik wird nicht allein dadurch gehemmt, daß der Tragwerksplaner an der Besichtigung der Mangelerscheinungen teilnimmt.
 - [BGH, Urteil vom 27.09.2001 - VII ZR 388/00](vii-zr-388-00.md) — Tatbestand: Die Parteien streiten um die Zulässigkeit der Zwangsvollstreckung durch den Beklagten aus einer vollstreckbaren Urkunde. Am 31.
 - [BGH, Urteil vom 27.09.2001 - VII ZR 391/99](vii-zr-391-99.md) — Tatbestand: Die Klägerin fordert von der Beklagten Schadensersatz wegen angeblicher Planungsmängel nach § 635 BGB. Die Klägerin beauftragte
+- [BGH, Urteil vom 13.09.2001 - VII ZR 113/00](vii-zr-113-00.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Restwerklohn von 37.653,39 DM, die Beklagte rechnet in Höhe von 1.728,49 DM auf und bege
+- [BGH, Urteil vom 13.09.2001 - VII ZR 380/00](vii-zr-380-00.md) — Tatbestand:
+- [BGH, Urteil vom 13.09.2001 - VII ZR 392/00](vii-zr-392-00.md) — Tatbestand: Die Klägerin macht aus abgetretenem Recht Vorschuß auf Mängelbeseitigungskosten, Planungs- und Sachverständigenkosten, hilfsweis
+- [BGH, Urteil vom 13.09.2001 - VII ZR 467/00](vii-zr-467-00.md) — Tatbestand: 1. Der Kläger verlangt von dem Beklagten die Zahlung von Restwerklohn sowie die Auszahlung eines Sicherheitseinbehalts nach Stel
+- [BGH, Urteil vom 13.09.2001 - VII ZR 487/99](vii-zr-487-99.md) — Tatbestand: I.
+- [BGH, Urteil vom 26.07.2001 - VII ZR 203/00](vii-zr-203-00.md) — Tatbestand: Die Klägerin verlangt von den Beklagten die Bewilligung der Eintragung je einer Bauhandwerkersicherungshypothek im Rang einer du
 - [BGH, Beschluss vom 05.07.2001 - VII ZB 2/00](vii-zb-2-00.md) — Versäumung der Berufungsbegründungsfrist gewährt. Der Wert der Beschwer beträgt 16.385,60 DM.
 - [BGH, Versäumnisurteil vom 05.07.2001 - VII ZR 201/99](vii-zr-201-99.md) — Tatbestand: Die Parteien streiten um die Abrechnung eines Bauvertrages über eine Doppelhaushälfte. Sie haben die VOB/B vereinbart. Die Kläge
 - [BGH, Versäumnisurteil vom 05.07.2001 - VII ZR 202/99](vii-zr-202-99.md) — Tatbestand: Die Parteien streiten um die Abrechnung eines Bauvertrages über fünf Doppelhaushälften. Sie haben die VOB/B vereinbart. Die Kläg
 - [BGH, Urteil vom 05.07.2001 - VII ZR 399/99](vii-zr-399-99.md) — Tatbestand: Der Kläger begehrt die Rückabwicklung eines Bauträgervertrages sowie die Erklärung der Unzulässigkeit der Zwangsvollstreckung. D
 - [BGH, Urteil vom 21.06.2001 - VII ZR 423/99](vii-zr-423-99.md) — Tatbestand: Die Beklagten, die mit einem weiteren Gesellschafter eine Gesellschaft bürgerlichen Rechts bilden, fordern mit ihrer Widerklage,
 - [BGH, Urteil vom 21.06.2001 - VII ZR 435/99](vii-zr-435-99.md) — Tatbestand: Die Klägerin verlangt 290.000 DM als Teilbetrag einer Honorarforderung für erbrachte Planungsleistungen. Die Beklagte hatte die
+- [BGH, Urteil vom 07.06.2001 - VII ZR 286/99](vii-zr-286-99.md) — Tatbestand: Die Klägerin verlangt Werklohn und die Eintragung einer Sicherungshypothek. Der Beklagte hat sie mit dem Umbau und Ausbau einer
+- [BGH, Urteil vom 07.06.2001 - VII ZR 420/00](vii-zr-420-00.md) — eines Verstoßes gegen das AGBG unwirksam.
+- [BGH, Versäumnisurteil vom 07.06.2001 - VII ZR 471/99](vii-zr-471-99.md) — Tatbestand: Der Kläger fordert, soweit in der Revision von Interesse, von dem Beklagten zu 1 (im folgenden: Beklagter) Schadensersatz, sowei
+- [BGH, Beschluss vom 07.06.2001 - VII ZR 488/00](vii-zr-488-00.md) — der behaupteten Undichtigkeit der Abdichtung. Die Klägerin hat dazu im Beweissicherungsverfahren vorgetragen, durch das eintretende Wasser s
+- [BGH, Beschluss vom 23.05.2001 - VII ZR 469/00](vii-zr-469-00.md) — I. Die Klägerin verlangt restlichen Werklohn. Das Landgericht hat die Klage abgewiesen. Das Berufungsgericht hat der Klägerin einen Anspruch auf Werklohn in Höhe von 240.309,71 DM …
 - [BGH, Urteil vom 10.05.2001 - VII ZR 248/00](vii-zr-248-00.md) — Tatbestand: Die Klägerin verlangt aus abgetretenem Recht der Firma L.-GmbH (L.P) restlichen Werklohn aus einem Vertrag über die schlüsselfer
 - [BGH, Urteil vom 10.05.2001 - VII ZR 356/00](vii-zr-356-00.md) — Tatbestand: Die Klägerin macht aus abgetretenem Recht der A. GmbH Werklohnansprüche aus verschiedenen Bauaufträgen der Beklagten geltend. Di
+- [BGH, Urteil vom 26.04.2001 - VII ZR 222/99](vii-zr-222-99.md) — Tatbestand: Die beiden klagenden Architekten sind im Vorprozeß von der B. Metallbau GmbH (künftig: B.) erfolgreich als vollmachtlose Vertret
 - [BGH, Beschluss vom 05.04.2001 - VII ZB 37/00](vii-zb-37-00.md) — Versäumung der Berufungsbegründungsfrist kann eine Berufung nicht als unzulässig verworfen werden, bevor über einen Antrag auf Fristverlänge
+- [BGH, Urteil vom 05.04.2001 - VII ZR 119/99](vii-zr-119-99.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 05.04.2001 - VII ZR 135/00](vii-zr-135-00.md) — Tatbestand:
 - [BGH, Beschluss vom 05.04.2001 - VII ZR 161/00](vii-zr-161-00.md) — liegenden Allgemeinen Geschäftsbedingungen entgegen der Auffassung des Berufungsgerichts keine Teilabnahme zum Inhalt haben.
 - [BGH, Beschluss vom 05.04.2001 - VII ZR 382/96](vii-zr-382-96.md) — zu ändern ist, besteht kein Anlaß. Eine Änderung ist nur innerhalb von sechs Monaten zulässig, nachdem die Entscheidung in der Hauptsache Re
 - [BGH, Urteil vom 05.04.2001 - VII ZR 498/99](vii-zr-498-99.md) — Tatbestand: Die Kläger erwarben durch notariellen Vertrag vom 2. Juni 1992 eine noch zu errichtende Eigentumswohnung zu einem Preis von 565.
+- [BGH, Beschluss vom 08.03.2001 - VII ZB 2/01](vii-zb-2-01.md) — der Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen Stand gewährt. Beschwerdewert: 20.167,06 DM.
+- [BGH, Urteil vom 08.03.2001 - VII ZR 470/99](vii-zr-470-99.md) — Nichterfüllung, so muß der Unternehmer darlegen und beweisen, daß ihn an der nicht rechtzeitigen Fertigstellung des Bauwerkes kein Verschuld
+- [BGH, Urteil vom 22.02.2001 - VII ZR 115/99](vii-zr-115-99.md) — Tatbestand: Der Kläger macht als Gesamtvollstreckungsverwalter restlichen Werklohn für Bauarbeiten geltend, welche die Gemeinschuldnerin unt
+- [BGH, Urteil vom 14.02.2001 - VII ZR 176/99](vii-zr-176-99.md) — Tatbestand: Die Klägerin verlangt von den Beklagten Kostenersatz sowie Feststellung der Ersatzpflicht wegen Mängel an der Abdichtung der Tie
+- [BGH, Beschluss vom 08.02.2001 - VII ZB 32/00](vii-zb-32-00.md) — Der Senat nimmt Bezug auf die zutreffenden Gründe des angefochtenen Beschlusses.
+- [BGH, Urteil vom 08.02.2001 - VII ZR 152/00](vii-zr-152-00.md) — Tatbestand: Die Klägerin war Generalunternehmerin für die Errichtung eines Autohauses. Sie beauftragte den Beklagten mit der Genehmigungspla
+- [BGH, Urteil vom 08.02.2001 - VII ZR 427/98](vii-zr-427-98.md) — Aufrechnung mit einem Vertragsstrafeanspruch) abgewiesen hat.
+- [BGH, Beschluss vom 08.02.2001 - VII ZR 477/00](vii-zr-477-00.md) — . Der Kläger nimmt R. aus einem gekündigten Generalunternehmervertrag auf Werklohn in Anspruch. Die Klage hatte in beiden Tatsacheninstanzen keinen Erfolg. Nachdem der Kläger …
+- [BGH, Urteil vom 25.01.2001 - VII ZR 193/99](vii-zr-193-99.md) — Tatbestand: Der Kläger nimmt den beklagten Architekten auf Schadensersatz in Anspruch. Im Revisionsverfahren geht es noch um Baumängel aufgr
+- [BGH, Beschluss vom 25.01.2001 - VII ZR 296/00](vii-zr-296-00.md) — BGH, Beschluss vom 25.01.2001 - VII ZR 296/00
+- [BGH, Urteil vom 25.01.2001 - VII ZR 32/99](vii-zr-32-99.md) — Tatbestand: Die Klägerin verlangt von der Beklagten die Zahlung eines Kostenvorschusses zur Beseitigung der Mängel eines Parkdeckbelages, hi
+- [BGH, Urteil vom 25.01.2001 - VII ZR 446/99](vii-zr-446-99.md) — vom Subunternehmer zu verantwortender Mängel mit dem Auftraggeber einen Prozeßvergleich geschlossen hat.
 - [BGH, Urteil vom 18.01.2001 - VII ZR 238/00](vii-zr-238-00.md) — Tatbestand: Der Kläger begehrt Restwerklohn für Dacharbeiten mit einem Auftragsvolumen von brutto 171.407,50 DM. In der Revision geht es all
 - [BGH, Urteil vom 18.01.2001 - VII ZR 247/98](vii-zr-247-98.md) — Tatbestand: Der Kläger ist Konkursverwalter über das Vermögen der O.-GmbH (im folgenden: Gemeinschuldnerin). Er nimmt die Beklagte aus einem
 - [BGH, Urteil vom 18.01.2001 - VII ZR 416/99](vii-zr-416-99.md) — Tatbestand: I.

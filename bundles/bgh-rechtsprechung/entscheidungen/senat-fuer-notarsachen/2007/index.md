@@ -1,21 +1,49 @@
 # Senat für Notarsachen – 2007
 
-17 Entscheidung(en).
+45 Entscheidung(en).
 
+- [BGH, Beschluss vom 26.11.2007 - NotZ 23/07](notz-23-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 26.11.2007 - NotZ 33/07](notz-33-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 26.11.2007 - NotZ 55/07](notz-55-07.md) — Einkommensergänzung
+- [BGH, Beschluss vom 26.11.2007 - NotZ 6/07](notz-6-07.md) — Verbindung zur gemeinsamen Berufsausübung
+- [BGH, Beschluss vom 26.11.2007 - NotZ 73/07](notz-73-07.md) — vorläufiger Amtsenthebung
 - [BGH, Beschluss vom 26.11.2007 - NotZ 89/07](notz-89-07.md) — Feststellung der Voraussetzungen der Amtsenthebung
+- [BGH, Beschluss vom 26.11.2007 - NotZ 99/07](notz-99-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 19.09.2007 - NotZ 74/07](notz-74-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 19.09.2007 - NotZ 76/07](notz-76-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 1/07](notz-1-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 10/07](notz-10-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 12/06](notz-12-06.md) — Feststellung der Voraussetzungen für die Amtsenthebung
+- [BGH, Beschluss vom 23.07.2007 - NotZ 2/07](notz-2-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 3/07](notz-3-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 35/07](notz-35-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 4/07](notz-4-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 41/07](notz-41-07.md) — Nichtbesetzung von Notarstellen
+- [BGH, Beschluss vom 23.07.2007 - NotZ 42/07](notz-42-07.md) — Nichtbesetzung von Notarstellen
+- [BGH, Beschluss vom 23.07.2007 - NotZ 5/07](notz-5-07.md) — vorläufiger Amtsenthebung und Feststellung der Voraussetzungen für die endgültige Amtsenthebung
 - [BGH, Beschluss vom 23.07.2007 - NotZ 50/06](notz-50-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 23.07.2007 - NotZ 51/06](notz-51-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 23.07.2007 - NotZ 52/06](notz-52-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 23.07.2007 - NotZ 53/06](notz-53-06.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 54/06](notz-54-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 23.07.2007 - NotZ 54/07](notz-54-07.md) — Versagung der Genehmigung einer Nebentätigkeit
+- [BGH, Beschluss vom 23.07.2007 - NotZ 56/06](notz-56-06.md) — Weiterführung der Amtsbezeichnung
+- [BGH, Beschluss vom 23.07.2007 - NotZ 7/07](notz-7-07.md) — Einkommensergänzung für das Jahr 2005
+- [BGH, Beschluss vom 23.07.2007 - NotZ 8/07](notz-8-07.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 23.07.2007 - NotZ 80/07](notz-80-07.md) — Bestellung zum Notar hier: Antrag auf Erlass einer einstweiligen Anordnung
+- [BGH, Beschluss vom 23.07.2007 - NotZ 88/07](notz-88-07.md) — Bestellung zum Notar hier: Antrag auf Erlass einer einstweiligen Anordnung
 - [BGH, Beschluss vom 26.03.2007 - NotZ 27/06](notz-27-06.md) — Anfechtung des Abgabenbescheids für die Monate April bis Juni 2005 und wegen vorläufigen Rechtsschutzes
 - [BGH, Beschluss vom 26.03.2007 - NotZ 36/06](notz-36-06.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 26.03.2007 - NotZ 36/07](notz-36-07.md) — Amtsenthebung
 - [BGH, Beschluss vom 26.03.2007 - NotZ 37/06](notz-37-06.md) — Besetzung einer Notarstelle
 - [BGH, Beschluss vom 26.03.2007 - NotZ 38/06](notz-38-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 26.03.2007 - NotZ 39/06](notz-39-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 26.03.2007 - NotZ 40/06](notz-40-06.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 26.03.2007 - NotZ 42/06](notz-42-06.md) — Vertreterbestellung
 - [BGH, Beschluss vom 26.03.2007 - NotZ 43/06](notz-43-06.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 26.03.2007 - NotZ 44/06](notz-44-06.md) — Bestellung zum Notar (hier: Fortsetzungsfeststellungsantrag)
 - [BGH, Beschluss vom 26.03.2007 - NotZ 45/06](notz-45-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 26.03.2007 - NotZ 46/06](notz-46-06.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 26.03.2007 - NotZ 47/06](notz-47-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 26.03.2007 - NotZ 49/06](notz-49-06.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 12.01.2007 - NotZ 35/06](notz-35-06.md) — endgültiger Amtsenthebung

@@ -1,77 +1,172 @@
 # 4. Strafsenat – 2009
 
-73 Entscheidung(en).
+168 Entscheidung(en).
 
 - [BGH, Urteil vom 17.12.2009 - 4 StR 424/09](4-str-424-09.md) — versuchten Totschlags
+- [BGH, Beschluss vom 15.12.2009 - 4 StR 304/09](4-str-304-09.md) — besonders schwerer sexueller Nötigung
+- [BGH, Urteil vom 10.12.2009 - 4 StR 390/09](4-str-390-09.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 10.12.2009 - 4 StR 435/09](4-str-435-09.md) — Gründe:
+- [BGH, Beschluss vom 10.12.2009 - 4 StR 437/09](4-str-437-09.md) — des Verdachts der gefährlichen Körperverletzung u.a.
 - [BGH, Beschluss vom 10.12.2009 - 4 StR 463/09](4-str-463-09.md) — Betruges
+- [BGH, Beschluss vom 10.12.2009 - 4 StR 503/09](4-str-503-09.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 08.12.2009 - 4 ARs 17/09](4-ars-17-09.md) — Betruges
+- [BGH, Beschluss vom 08.12.2009 - 4 StR 528/09](4-str-528-09.md) — Verabredung zur Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.12.2009 - 4 StR 552/09](4-str-552-09.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 03.12.2009 - 4 StR 477/09](4-str-477-09.md) — gewerbs- und bandenmäßigen Betruges u.a.
 - [BGH, Beschluss vom 03.12.2009 - 4 StR 507/09](4-str-507-09.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 03.12.2009 - 4 StR 540/09](4-str-540-09.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 30.11.2009 - 4 StR 164/09](4-str-164-09.md) — Körperverletzung mit Todesfolge
+- [BGH, Urteil vom 26.11.2009 - 4 StR 341/09](4-str-341-09.md) — banden- und gewerbsmäßigen Betruges u.a.
+- [BGH, Beschluss vom 26.11.2009 - 4 StR 550/09](4-str-550-09.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 24.11.2009 - 4 ARs 18/09](4-ars-18-09.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 24.11.2009 - 4 StR 245/09](4-str-245-09.md) — Beihilfe zur gefährlichen Körperverletzung
+- [BGH, Beschluss vom 24.11.2009 - 4 StR 328/09](4-str-328-09.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 24.11.2009 - 4 StR 422/09](4-str-422-09.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 24.11.2009 - 4 StR 524/09](4-str-524-09.md) — unerlaubter Abgabe von Betäubungsmitteln an Jugendliche u.a.
 - [BGH, Beschluss vom 19.11.2009 - 4 StR 276/09](4-str-276-09.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 17.11.2009 - 4 StR 330/09](4-str-330-09.md) — Totschlags
 - [BGH, Beschluss vom 17.11.2009 - 4 StR 375/09](4-str-375-09.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 17.11.2009 - 4 StR 400/09](4-str-400-09.md) — Raubes u.a.
+- [BGH, Urteil vom 12.11.2009 - 4 StR 227/09](4-str-227-09.md) — Totschlags
 - [BGH, Urteil vom 12.11.2009 - 4 StR 275/09](4-str-275-09.md) — Geldfälschung u.a.
+- [BGH, Beschluss vom 10.11.2009 - 4 StR 194/09](4-str-194-09.md) — Untreue u. a.
+- [BGH, Beschluss vom 10.11.2009 - 4 StR 443/09](4-str-443-09.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 10.11.2009 - 4 StR 464/09](4-str-464-09.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 03.11.2009 - 4 StR 373/09](4-str-373-09.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
+- [BGH, Beschluss vom 03.11.2009 - 4 StR 445/09](4-str-445-09.md) — schweren Raubes u.a.
 - [BGH, Urteil vom 29.10.2009 - 4 StR 239/09](4-str-239-09.md) — Raubes u.a.
+- [BGH, Beschluss vom 29.10.2009 - 4 StR 338/09](4-str-338-09.md) — Vergewaltigung u.a.
 - [BGH, Urteil vom 29.10.2009 - 4 StR 368/09](4-str-368-09.md) — Verdachts der schweren Brandstiftung u.a.
 - [BGH, Urteil vom 29.10.2009 - 4 StR 97/09](4-str-97-09.md) — Rechtsbeugung u.a.
+- [BGH, Beschluss vom 27.10.2009 - 4 StR 429/09](4-str-429-09.md) — sexueller Nötigung
 - [BGH, Beschluss vom 20.10.2009 - 4 StR 246/09](4-str-246-09.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 20.10.2009 - 4 StR 247/09](4-str-247-09.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 20.10.2009 - 4 StR 248/09](4-str-248-09.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 20.10.2009 - 4 StR 249/09](4-str-249-09.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 20.10.2009 - 4 StR 250/09](4-str-250-09.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 20.10.2009 - 4 StR 251/09](4-str-251-09.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 20.10.2009 - 4 StR 252/09](4-str-252-09.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 20.10.2009 - 4 StR 340/09](4-str-340-09.md) — Betruges
+- [BGH, Beschluss vom 20.10.2009 - 4 StR 408/09](4-str-408-09.md) — gefährlichen Eingriffs in den Straßenverkehr u. a.
 - [BGH, Urteil vom 15.10.2009 - 4 StR 287/09](4-str-287-09.md) — Verdacht des Mordes
+- [BGH, Beschluss vom 06.10.2009 - 4 StR 299/09](4-str-299-09.md) — Totschlags
 - [BGH, Beschluss vom 06.10.2009 - 4 StR 307/09](4-str-307-09.md) — Betrugs
 - [BGH, Beschluss vom 01.10.2009 - 4 StR 327/09](4-str-327-09.md) — versuchter Anstiftung zum Mord u.a.
+- [BGH, Beschluss vom 01.10.2009 - 4 StR 333/09](4-str-333-09.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 01.10.2009 - 4 StR 384/09](4-str-384-09.md) — Menschenhandels
+- [BGH, Beschluss vom 29.09.2009 - 4 StR 348/09](4-str-348-09.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 29.09.2009 - 4 StR 389/09](4-str-389-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 29.09.2009 - 4 StR 411/09](4-str-411-09.md) — Betruges u.a.
 - [BGH, Urteil vom 24.09.2009 - 4 StR 232/09](4-str-232-09.md) — des Verdachts des schweren sexuellen Missbrauchs eines Kindes u.a.
 - [BGH, Urteil vom 24.09.2009 - 4 StR 347/09](4-str-347-09.md) — Körperverletzung im Amt u.a.
 - [BGH, Beschluss vom 22.09.2009 - 4 StR 292/09](4-str-292-09.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 22.09.2009 - 4 StR 382/09](4-str-382-09.md) — Gefangenenmeuterei u.a.
+- [BGH, Entscheidung vom 22.09.2009 - 4 StR 657/08](4-str-657-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Urteil vom 17.09.2009 - 4 StR 174/09](4-str-174-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 17.09.2009 - 4 StR 325/09](4-str-325-09.md) — Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 10.09.2009 - 4 StR 120/09](4-str-120-09.md) — Betruges
 - [BGH, Beschluss vom 10.09.2009 - 4 StR 332/09](4-str-332-09.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 10.09.2009 - 4 StR 366/09](4-str-366-09.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 08.09.2009 - 4 StR 204/09](4-str-204-09.md) — Betruges u.a. hier: Anhörungsrüge
 - [BGH, Beschluss vom 08.09.2009 - 4 StR 354/09](4-str-354-09.md) — Wohnungseinbruchsdiebstahls
+- [BGH, Beschluss vom 27.08.2009 - 4 StR 306/09](4-str-306-09.md) — versuchter räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 25.08.2009 - 4 ARs 6/09](4-ars-6-09.md) — sexuellen Missbrauchs eines Kindes
 - [BGH, Beschluss vom 25.08.2009 - 4 ARs 7/09](4-ars-7-09.md) — Menschenhandels zum Zweck der sexuellen Ausbeutung u.a.
 - [BGH, Beschluss vom 18.08.2009 - 4 StR 280/09](4-str-280-09.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 18.08.2009 - 4 StR 309/09](4-str-309-09.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 04.08.2009 - 4 StR 171/09](4-str-171-09.md) — schwerer Körperverletzung u.a.
 - [BGH, Beschluss vom 04.08.2009 - 4 StR 210/09](4-str-210-09.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 04.08.2009 - 4 StR 266/09](4-str-266-09.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 30.07.2009 - 4 StR 258/09](4-str-258-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 30.07.2009 - 4 StR 288/09](4-str-288-09.md) — schweren Raubes
 - [BGH, Beschluss vom 28.07.2009 - 4 StR 254/09](4-str-254-09.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 28.07.2009 - 4 StR 255/09](4-str-255-09.md) — schweren räuberischen Diebstahls u.a.
+- [BGH, Entscheidung vom 28.07.2009 - 4 StR 57/09](4-str-57-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 23.07.2009 - 4 StR 79/09](4-str-79-09.md) — Betruges
+- [BGH, Beschluss vom 16.07.2009 - 4 StR 241/09](4-str-241-09.md) — schwerer Vergewaltigung u.a.
 - [BGH, Beschluss vom 09.07.2009 - 4 StR 124/09](4-str-124-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 09.07.2009 - 4 StR 235/09](4-str-235-09.md) — Vergewaltigung
 - [BGH, Beschluss vom 07.07.2009 - 4 StR 228/09](4-str-228-09.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 02.07.2009 - 4 StR 187/09](4-str-187-09.md) — Betruges u.a.
+- [BGH, Beschluss vom 02.07.2009 - 4 StR 209/09](4-str-209-09.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 25.06.2009 - 4 StR 121/09](4-str-121-09.md) — Betruges u.a.
+- [BGH, Urteil vom 25.06.2009 - 4 StR 186/09](4-str-186-09.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 25.06.2009 - 4 StR 211/09](4-str-211-09.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 25.06.2009 - 4 StR 610/08](4-str-610-08.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 24.06.2009 - 4 StR 188/09](4-str-188-09.md) — vorsätzlichen Vollrauschs
+- [BGH, Beschluss vom 18.06.2009 - 4 StR 180/09](4-str-180-09.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 18.06.2009 - 4 StR 55/09](4-str-55-09.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 16.06.2009 - 4 StR 647/08](4-str-647-08.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.06.2009 - 4 StR 645/08](4-str-645-08.md) — Totschlags
+- [BGH, Beschluss vom 09.06.2009 - 4 StR 170/09](4-str-170-09.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 09.06.2009 - 4 StR 461/08](4-str-461-08.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 28.05.2009 - 4 StR 101/09](4-str-101-09.md) — Wohnungseinbruchsdiebstahls u.a.
 - [BGH, Beschluss vom 28.05.2009 - 4 StR 51/09](4-str-51-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 26.05.2009 - 4 StR 10/09](4-str-10-09.md) — Betruges u.a.
 - [BGH, Beschluss vom 26.05.2009 - 4 StR 134/09](4-str-134-09.md) — Totschlags u.a.
+- [BGH, Beschluss vom 26.05.2009 - 4 StR 148/09](4-str-148-09.md) — Körperverletzung u.a.
 - [BGH, Beschluss vom 26.05.2009 - 4 StR 150/09](4-str-150-09.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 26.05.2009 - 4 StR 168/09](4-str-168-09.md) — versuchter Nötigung
 - [BGH, Beschluss vom 12.05.2009 - 4 StR 102/09](4-str-102-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 12.05.2009 - 4 StR 116/09](4-str-116-09.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 12.05.2009 - 4 StR 130/09](4-str-130-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 12.05.2009 - 4 StR 18/09](4-str-18-09.md) — Betruges u.a.
+- [BGH, Beschluss vom 12.05.2009 - 4 StR 73/09](4-str-73-09.md) — Mordes u.a.
+- [BGH, Beschluss vom 05.05.2009 - 4 StR 99/09](4-str-99-09.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 30.04.2009 - 4 StR 109/09](4-str-109-09.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 30.04.2009 - 4 StR 133/09](4-str-133-09.md) — gewerbsmäßigen Einschleusens von Ausländern
+- [BGH, Urteil vom 30.04.2009 - 4 StR 60/09](4-str-60-09.md) — versuchter Anstiftung zur Brandstiftung
 - [BGH, Urteil vom 30.04.2009 - 4 StR 608/08](4-str-608-08.md) — des Verdachts der schweren räuberischen Erpressung u.a.
 - [BGH, Beschluss vom 30.04.2009 - 4 StR 633/08](4-str-633-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 28.04.2009 - 4 StR 544/08](4-str-544-08.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 28.04.2009 - 4 StR 591/08](4-str-591-08.md) — Betruges
 - [BGH, Beschluss vom 28.04.2009 - 4 StR 95/09](4-str-95-09.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 21.04.2009 - 4 StR 531/08](4-str-531-08.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 21.04.2009 - 4 StR 98/09](4-str-98-09.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 09.04.2009 - 4 StR 88/09](4-str-88-09.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 07.04.2009 - 4 StR 601/08](4-str-601-08.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 07.04.2009 - 4 StR 606/08](4-str-606-08.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.04.2009 - 4 StR 663/08](4-str-663-08.md) — Betruges
 - [BGH, Beschluss vom 02.04.2009 - 4 StR 86/09](4-str-86-09.md) — Raubes u.a.
 - [BGH, Beschluss vom 31.03.2009 - 4 StR 31/09](4-str-31-09.md) — schweren sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 19.03.2009 - 4 StR 20/09](4-str-20-09.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 19.03.2009 - 4 StR 516/08](4-str-516-08.md) — des Verdachts des Mordes
 - [BGH, Beschluss vom 19.03.2009 - 4 StR 53/09](4-str-53-09.md) — Totschlags
+- [BGH, Beschluss vom 19.03.2009 - 4 StR 6/09](4-str-6-09.md) — BGH, Beschluss vom 19.03.2009 - 4 StR 6/09
+- [BGH, Beschluss vom 19.03.2009 - 4 StR 629/08](4-str-629-08.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 18.03.2009 - 4 StR 659/08](4-str-659-08.md) — Urkundenfälschung u.a.
+- [BGH, Beschluss vom 17.03.2009 - 4 StR 607/08](4-str-607-08.md) — schweren Bandendiebstahls u.a.
+- [BGH, Beschluss vom 17.03.2009 - 4 StR 648/08](4-str-648-08.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 17.03.2009 - 4 StR 662/08](4-str-662-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 05.03.2009 - 4 StR 19/09](4-str-19-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 05.03.2009 - 4 StR 26/09](4-str-26-09.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 05.03.2009 - 4 StR 594/08](4-str-594-08.md) — Körperverletzung u.a.
 - [BGH, Beschluss vom 24.02.2009 - 4 StR 14/09](4-str-14-09.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 24.02.2009 - 4 StR 476/08](4-str-476-08.md) — versuchten Raubes u.a. zu Ziff. 2. u. 3.: wegen schweren Bandendiebstahls
 - [BGH, Beschluss vom 24.02.2009 - 4 StR 482/08](4-str-482-08.md) — falscher Verdächtigung u.a.
+- [BGH, Beschluss vom 24.02.2009 - 4 StR 538/08](4-str-538-08.md) — Einschleusens von Ausländern
 - [BGH, Beschluss vom 24.02.2009 - 4 StR 583/08](4-str-583-08.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 12.02.2009 - 4 StR 488/08](4-str-488-08.md) — sexueller Nötigung u.a.
+- [BGH, Urteil vom 12.02.2009 - 4 StR 529/08](4-str-529-08.md) — Mordes
+- [BGH, Beschluss vom 05.02.2009 - 4 StR 609/08](4-str-609-08.md) — Brandstiftung u.a.
+- [BGH, Beschluss vom 05.02.2009 - 4 StR 624/08](4-str-624-08.md) — Misshandlung von Schutzbefohlenen
 - [BGH, Beschluss vom 05.02.2009 - 4 StR 640/08](4-str-640-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 03.02.2009 - 4 StR 593/08](4-str-593-08.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 27.01.2009 - 4 ARs 2/09](4-ars-2-09.md) — schweren Raubes u.a. hier: Anfrage des 2. Strafsenats vom 29. Oktober 2008 - 2 StR 386/08 -
+- [BGH, Beschluss vom 27.01.2009 - 4 StR 296/08](4-str-296-08.md) — Mordes
 - [BGH, Beschluss vom 27.01.2009 - 4 StR 473/08](4-str-473-08.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 27.01.2009 - 4 StR 556/08](4-str-556-08.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 22.01.2009 - 4 StR 573/08](4-str-573-08.md) — Mordes u.a.
+- [BGH, Beschluss vom 22.01.2009 - 4 StR 614/08](4-str-614-08.md) — Betruges u.a.
+- [BGH, Beschluss vom 20.01.2009 - 4 StR 396/08](4-str-396-08.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 15.01.2009 - 4 StR 472/08](4-str-472-08.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
 - [BGH, Beschluss vom 15.01.2009 - 4 StR 537/08](4-str-537-08.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 14.01.2009 - 4 StR 300/08](4-str-300-08.md) — räuberischer Erpressung u.a. zu 2.: wegen Beihilfe zur räuberischen Erpressung u.a.
 - [BGH, Beschluss vom 14.01.2009 - 4 StR 429/08](4-str-429-08.md) — Freiheitsberaubung mit Todesfolge u.a.
+- [BGH, Beschluss vom 14.01.2009 - 4 StR 563/08](4-str-563-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 14.01.2009 - 4 StR 579/08](4-str-579-08.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 13.01.2009 - 4 StR 196/08](4-str-196-08.md) — Betruges u. a.
+- [BGH, Urteil vom 13.01.2009 - 4 StR 301/08](4-str-301-08.md) — Verdachts des Mordes u.a. zu 2.: wegen Verdachts des sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 08.01.2009 - 4 StR 117/08](4-str-117-08.md) — Erschleichens von Leistungen
+- [BGH, Beschluss vom 08.01.2009 - 4 StR 568/08](4-str-568-08.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 07.01.2009 - 4 StR 603/08](4-str-603-08.md) — Bedrohung

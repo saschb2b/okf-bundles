@@ -1,37 +1,94 @@
 # V. Zivilsenat – 2000
 
-47 Entscheidung(en).
+104 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2000 - V ZB 45/00](v-zb-45-00.md) — I. Die Beteiligten sind Wohnungseigentümer in einer Wohnanlage. Dem Antragsteller gehört eine im Erdgeschoß gelegene Wohnung. Der Antragsgegner zu 1 und sein Sohn, der …
 - [BGH, Urteil vom 15.12.2000 - V ZR 241/99](v-zr-241-99.md) — Tatbestand:
 - [BGH, Beschluss vom 14.12.2000 - V ZB 51/00](v-zb-51-00.md) — ihrer vorangegangenen Spruchtätigkeit nicht genehm sind, von der Ent-
+- [BGH, Urteil vom 08.12.2000 - V ZR 270/99](v-zr-270-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.12.2000 - V ZR 482/99](v-zr-482-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.12.2000 - V ZR 483/99](v-zr-483-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.12.2000 - V ZR 484/99](v-zr-484-99.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 08.12.2000 - V ZR 489/99](v-zr-489-99.md) — 3-
+- [BGH, Beschluss vom 07.12.2000 - V ZR 335/99](v-zr-335-99.md) — I. Der Kläger pachtete 1975/1985 vom VEB Gebäudewirtschaft K. -M. S. zu Erholungszwecken eine Teilfläche eines Grundstücks. Zwischen 1977 und 1985 errichtete er darauf ein …
+- [BGH, Beschluss vom 30.11.2000 - V ZB 46/00](v-zb-46-00.md) — Die Rechtsbehelfe sind zwar zulässig (§ 14 Abs.
+- [BGH, Beschluss vom 30.11.2000 - V ZR 163/00](v-zr-163-00.md) — BGH, Beschluss vom 30.11.2000 - V ZR 163/00
+- [BGH, Urteil vom 17.11.2000 - V ZR 294/99](v-zr-294-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.11.2000 - V ZR 318/99](v-zr-318-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.11.2000 - V ZR 334/99](v-zr-334-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.11.2000 - V ZR 487/99](v-zr-487-99.md) — Tatbestand:
 - [BGH, Beschluss vom 16.11.2000 - V ZB 48/00](v-zb-48-00.md) — der zu befürchtenden Kostenbelastung sei ihm auch nicht zumutbar gewesen, die Kostenentscheidung zu einem Zeitpunkt anzufechten, zu dem noch
 - [BGH, Urteil vom 03.11.2000 - V ZR 189/99](v-zr-189-99.md) — BGH, Urteil vom 03.11.2000 - V ZR 189/99
 - [BGH, Urteil vom 03.11.2000 - V ZR 306/99](v-zr-306-99.md) — des Ausstehens der Genehmigung der Rechtsaufsichtsbehörde nach § 49 KomVerf schwebend unwirksame Grundstücksgeschäfte der Gemeinde wurden mi
+- [BGH, Urteil vom 27.10.2000 - V ZR 122/99](v-zr-122-99.md) — Tatbestand:
+- [BGH, Urteil vom 27.10.2000 - V ZR 172/99](v-zr-172-99.md) — Tatbestand:
+- [BGH, Urteil vom 27.10.2000 - V ZR 258/99](v-zr-258-99.md) — Tatbestand:
 - [BGH, Beschluss vom 26.10.2000 - V ZB 32/00](v-zb-32-00.md) — I. Der Beklagte wurde vom Landgericht verurteilt, einen Kaufvertrag mit dem Inhalt eines notariellen Vermittlungsvorschlages abzuschließen. Nach Zustellung des Urteils am 22. März …
+- [BGH, Urteil vom 20.10.2000 - V ZR 194/99](v-zr-194-99.md) — BGH, Urteil vom 20.10.2000 - V ZR 194/99
 - [BGH, Urteil vom 20.10.2000 - V ZR 207/99](v-zr-207-99.md) — Tatbestand:
 - [BGH, Urteil vom 20.10.2000 - V ZR 285/99](v-zr-285-99.md) — BGH, Urteil vom 20.10.2000 - V ZR 285/99
+- [BGH, Urteil vom 13.10.2000 - V ZR 169/99](v-zr-169-99.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2000 - V ZR 349/99](v-zr-349-99.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 13.10.2000 - V ZR 356/99](v-zr-356-99.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2000 - V ZR 430/99](v-zr-430-99.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2000 - V ZR 451/98](v-zr-451-98.md) — Tatbestand:
+- [BGH, Beschluss vom 05.10.2000 - V ZR 448/99](v-zr-448-99.md) — mangelnder Bestimmtheit des Anpassungsmaßstabs, so kann der Käufer dem Verkäufer eine Frist zur Einleitung des Ersetzungsverfahrens nach § 7
+- [BGH, Urteil vom 29.09.2000 - V ZR 421/99](v-zr-421-99.md) — Tatbestand:
+- [BGH, Urteil vom 29.09.2000 - V ZR 91/99](v-zr-91-99.md) — Tatbestand:
 - [BGH, Beschluss vom 28.09.2000 - V ZB 35/00](v-zb-35-00.md) — BGH, Beschluss vom 28.09.2000 - V ZB 35/00
+- [BGH, Urteil vom 22.09.2000 - V ZR 229/99](v-zr-229-99.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 22.09.2000 - V ZR 443/99](v-zr-443-99.md) — Tatbestand:
+- [BGH, Beschluss vom 20.09.2000 - V ZB 58/99](v-zb-58-99.md) — I. Die Beteiligten sind Wohnungseigentümer einer Wohnanlage, und zwar der Antragsteller zu 2 seit Dezember 1990, der Antragsteller zu 3 seit Oktober 1998 und die Antragsgegnerin …
+- [BGH, Urteil vom 15.09.2000 - V ZR 18/99](v-zr-18-99.md) — Tatbestand:
 - [BGH, Urteil vom 15.09.2000 - V ZR 420/98](v-zr-420-98.md) — Tatbestand:
 - [BGH, Beschluss vom 13.09.2000 - V ZB 14/00](v-zb-14-00.md) — I. Die Beteiligte ist Eigentümerin einer Wohnung. Im Grundbuch sind zu ihren Gunsten als Inhalt des Sondereigentums zwei in der Teilungserklärung vom 23. Oktober 1978/5. Oktober …
+- [BGH, Versäumnisurteil vom 21.07.2000 - V ZR 393/99](v-zr-393-99.md) — Tatbestand:
+- [BGH, Beschluss vom 20.07.2000 - V ZR 190/00](v-zr-190-00.md) — I. In der mündlichen Verhandlung über die Berufung des Klägers vom 21. Februar 2000 hatte das Oberlandesgericht Termin zur Verkündung einer Entscheidung auf den 14. März 2000 …
 - [BGH, Urteil vom 14.07.2000 - V ZR 320/98](v-zr-320-98.md) — BGH, Urteil vom 14.07.2000 - V ZR 320/98
 - [BGH, Urteil vom 14.07.2000 - V ZR 328/99](v-zr-328-99.md) — Tatbestand:
 - [BGH, Urteil vom 14.07.2000 - V ZR 368/98](v-zr-368-98.md) — der Überlassung der Lagerhalle in Höhe von 64.440 DM zuzüglich der verlangten Zinsen zum Nachteil der Klägerin erkannt worden ist.
 - [BGH, Urteil vom 14.07.2000 - V ZR 384/98](v-zr-384-98.md) — Tatbestand:
 - [BGH, Urteil vom 14.07.2000 - V ZR 82/99](v-zr-82-99.md) — aufgewendeter Kreditzinsen) erklärte Aufrechnung mit einem Saldoposten erst beachtlich, wenn der Saldo feststeht; dies gilt auch dann, wenn
+- [BGH, Beschluss vom 13.07.2000 - V ZR 282/99](v-zr-282-99.md) — Die Parteien haben in dem notariellen Vertrag vom 10.
+- [BGH, Beschluss vom 13.07.2000 - V ZR 58/00](v-zr-58-00.md) — Bei einem Streit über das Bestehen oder Nichtbestehen einer Grunddienstbarkeit bemißt sich der Beschwerdewert in der Revisionsinstanz nach dem Interesse des Revisionsklägers an …
 - [BGH, Urteil vom 07.07.2000 - V ZR 287/99](v-zr-287-99.md) — einer Störung des gemeinschaftlichen Eigentums beginnt nicht, bevor nicht jeder Miterbe Kenntnis vom Entstehen des Anspruchs hat.
 - [BGH, Urteil vom 07.07.2000 - V ZR 425/98](v-zr-425-98.md) — Tatbestand:
 - [BGH, Urteil vom 07.07.2000 - V ZR 435/98](v-zr-435-98.md) — Tatbestand:
+- [BGH, Beschluss vom 06.07.2000 - V ZB 50/99](v-zb-50-99.md) — I. Die beklagte Gemeinde schloß am 19. Oktober 1993 mit einer S. /Q. GmbH & Co. KG (im folgenden: S. /Q. KG oder Erschlie- ßungsträgerin) einen Vertrag zur Erschließung des im …
 - [BGH, Versäumnisurteil vom 30.06.2000 - V ZR 116/99](v-zr-116-99.md) — Tatbestand:
 - [BGH, Urteil vom 30.06.2000 - V ZR 149/99](v-zr-149-99.md) — Tatbestand:
 - [BGH, Urteil vom 30.06.2000 - V ZR 156/99](v-zr-156-99.md) — Tatbestand:
 - [BGH, Urteil vom 30.06.2000 - V ZR 193/99](v-zr-193-99.md) — Tatbestand:
+- [BGH, Beschluss vom 29.06.2000 - V ZB 46/99](v-zb-46-99.md) — I. Der Antragsteller und die Antragsgegner sind Wohnungseigentümer einer Wohnungsanlage. Die Wohnungseigentümer beschlossen am 31. Juli 1998 mit Stimmenmehrheit, daß "die …
 - [BGH, Beschluss vom 21.06.2000 - V ZB 32/99](v-zb-32-99.md) — BGH, Beschluss vom 21.06.2000 - V ZB 32/99
 - [BGH, Beschluss vom 31.05.2000 - V ZB 57/99](v-zb-57-99.md) — BGH, Beschluss vom 31.05.2000 - V ZB 57/99
+- [BGH, Urteil vom 26.05.2000 - V ZR 399/99](v-zr-399-99.md) — Tatbestand:
+- [BGH, Urteil vom 26.05.2000 - V ZR 49/99](v-zr-49-99.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 26.05.2000 - V ZR 60/99](v-zr-60-99.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 19.05.2000 - V ZR 20/99](v-zr-20-99.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2000 - V ZR 322/98](v-zr-322-98.md) — des Kaufpreises gegen den Zedenten die Einrede des nicht erfüllten Vertrags zusteht.
 - [BGH, Urteil vom 19.05.2000 - V ZR 453/99](v-zr-453-99.md) — BGH, Urteil vom 19.05.2000 - V ZR 453/99
 - [BGH, Urteil vom 19.05.2000 - V ZR 74/99](v-zr-74-99.md) — Tatbestand:
+- [BGH, Urteil vom 12.05.2000 - V ZR 417/98](v-zr-417-98.md) — Tatbestand:
+- [BGH, Urteil vom 12.05.2000 - V ZR 47/99](v-zr-47-99.md) — Tatbestand:
+- [BGH, Urteil vom 12.05.2000 - V ZR 470/98](v-zr-470-98.md) — Tatbestand:
+- [BGH, Beschluss vom 13.04.2000 - V ZB 48/99](v-zb-48-99.md) — Versäumung der Frist. Dazu hat sie vorgetragen:
+- [BGH, Beschluss vom 13.04.2000 - V ZR 248/99](v-zr-248-99.md) — BGH, Beschluss vom 13.04.2000 - V ZR 248/99
+- [BGH, Urteil vom 07.04.2000 - V ZR 36/99](v-zr-36-99.md) — Tatbestand:
+- [BGH, Urteil vom 07.04.2000 - V ZR 39/99](v-zr-39-99.md) — Behinderung des Zugangs zu seinem Grundstück kann wegen des Allgemeininteresses an der Aufrechterhaltung des Betriebes ausgeschlossen sein;
 - [BGH, Urteil vom 07.04.2000 - V ZR 83/99](v-zr-83-99.md) — Tatbestand:
 - [BGH, Beschluss vom 06.04.2000 - V ZB 56/99](v-zb-56-99.md) — BGH, Beschluss vom 06.04.2000 - V ZB 56/99
+- [BGH, Urteil vom 17.03.2000 - V ZR 362/98](v-zr-362-98.md) — Tatbestand:
+- [BGH, Urteil vom 17.03.2000 - V ZR 364/98](v-zr-364-98.md) — Tatbestand:
+- [BGH, Beschluss vom 16.03.2000 - V ZR 168/99](v-zr-168-99.md) — BGH, Beschluss vom 16.03.2000 - V ZR 168/99
+- [BGH, Beschluss vom 02.03.2000 - V ZB 1/00](v-zb-1-00.md) — I. Durch Urteil des Landgerichts vom 6. Juli 1999 ist die auf Beseitigung verschiedener Gebäude und Anlagen gerichtete Klage teilweise abgewiesen worden. Gegen dieses dem Kläger …
+- [BGH, Beschluss vom 02.03.2000 - V ZR 145/99](v-zr-145-99.md) — BGH, Beschluss vom 02.03.2000 - V ZR 145/99
+- [BGH, Urteil vom 25.02.2000 - V ZR 203/99](v-zr-203-99.md) — Tatbestand:
+- [BGH, Urteil vom 25.02.2000 - V ZR 206/99](v-zr-206-99.md) — Tatbestand:
+- [BGH, Urteil vom 25.02.2000 - V ZR 403/98](v-zr-403-98.md) — Tatbestand:
+- [BGH, Urteil vom 18.02.2000 - V ZR 323/98](v-zr-323-98.md) — 3-
+- [BGH, Urteil vom 18.02.2000 - V ZR 324/98](v-zr-324-98.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 18.02.2000 - V ZR 334/98](v-zr-334-98.md) — der Höhe des Zahlungsanspruchs und wegen des Feststellungsanspruchs wird die Sache zur anderweiten Verhandlung und Entscheidung an das Beruf
 - [BGH, Beschluss vom 17.02.2000 - V ZB 4/00](v-zb-4-00.md) — BGH, Beschluss vom 17.02.2000 - V ZB 4/00
 - [BGH, Urteil vom 11.02.2000 - V ZR 271/99](v-zr-271-99.md) — BGH, Urteil vom 11.02.2000 - V ZR 271/99
 - [BGH, Urteil vom 11.02.2000 - V ZR 61/99](v-zr-61-99.md) — Tatbestand:

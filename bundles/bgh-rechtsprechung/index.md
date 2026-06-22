@@ -16,9 +16,9 @@ Das Bündel ist auf Vollständigkeit angelegt (perspektivisch der gesamte veröf
 
 # Stand
 
-Befüllt für die Jahre **2000 bis 2026** (rund 44.300 Entscheidungen), aus zwei amtlichen Quellen:
+Befüllt für die Jahre **2000 bis 2026** (rund 60.600 Entscheidungen), aus zwei amtlichen Quellen:
 
 - **2010 bis 2026**: der maschinenlesbare Bestand der rii-Quelle (rund 32.600 Entscheidungen) mit amtlichem Leitsatz und strukturierten Normen.
-- **2000 bis 2009**: ergänzend die Entscheidungen der BGH-Entscheidungsdatenbank (bundesgerichtshof.de, rund 11.700), aus dem PDF gewonnen, mit Metadaten und PDF-Link sowie Leitsatz und Normen nach Möglichkeit. Die Beschreibung stammt aus dem Leitsatz oder dem ersten Satz der Gründe (bei rein verfahrensleitenden Beschlüssen mitunter knapp). Diese Quelle ist über eine paginierte Suche erschlossen und veröffentlicht jene Jahre nur selektiv; der Bestand ist daher nach bestem Bemühen, nicht garantiert vollständig.
+- **2000 bis 2009**: die Entscheidungen der BGH-Entscheidungsdatenbank (bundesgerichtshof.de, rund 27.900), aus dem PDF gewonnen, mit Metadaten und PDF-Link sowie Leitsatz und Normen nach Möglichkeit. Die Beschreibung stammt aus dem Leitsatz oder dem ersten Satz der Gründe (bei rein verfahrensleitenden Beschlüssen mitunter knapp). Diese Jahre wurden durch einen **Vollscan aller Suchseiten** erfasst (jede Seite, Filter nach Entscheidungsjahr), sind also im Rahmen dessen, was die Datenbank enthält, vollständig abgedeckt (rund 2.100 bis 3.300 Entscheidungen je Jahr).
 
 Format (Option B): je Entscheidung Metadaten und, soweit vorhanden, der Leitsatz; der Volltext ist über die amtliche Fundstelle einen Klick entfernt. Die sechs Anfechtungs-Leitentscheidungen sind zusätzlich von Hand kuratiert. Das Einlesen ist wiederaufsetzbar (siehe [Überblick](overview.md)).

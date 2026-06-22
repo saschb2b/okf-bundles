@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu KAGB"
 description: "BGH-Entscheidungen zu KAGB, geordnet nach Vorschrift."
 tags: [register, navigation, kagb]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

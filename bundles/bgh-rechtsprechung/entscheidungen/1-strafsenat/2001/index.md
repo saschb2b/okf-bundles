@@ -1,10 +1,21 @@
 # 1. Strafsenat – 2001
 
-92 Entscheidung(en).
+182 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2001 - 1 StR 444/01](1-str-444-01.md) — Veröffentlichung: ja _____________________ BtMG 1981 § 31 Nr. 1 Stellt der Tatrichter bei einem Betäubungsmitteldelikt einen Aufklärungserfolg nach § 31 Nr. 1 BtMG fest, kann eine …
+- [BGH, Beschluss vom 18.12.2001 - 1 StR 501/01](1-str-501-01.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 13.12.2001 - 1 StR 475/01](1-str-475-01.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 13.12.2001 - 1 StR 499/01](1-str-499-01.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 13.12.2001 - 1 StR 522/01](1-str-522-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 12.12.2001 - 1 StR 409/01](1-str-409-01.md) — zu 1. und 3. schwerer räuberischer Erpressung zu 2. unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 12.12.2001 - 1 StR 441/01](1-str-441-01.md) — versuchter Anstiftung zum Totschlag u.a.
+- [BGH, Beschluss vom 12.12.2001 - 1 StR 480/01](1-str-480-01.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 11.12.2001 - 1 StR 408/01](1-str-408-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 06.12.2001 - 1 StR 215/01](1-str-215-01.md) — Untreue u.a.
+- [BGH, Beschluss vom 06.12.2001 - 1 StR 463/01](1-str-463-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 06.12.2001 - 1 StR 468/01](1-str-468-01.md) — Körperverletzung
+- [BGH, Beschluss vom 05.12.2001 - 1 StR 482/01](1-str-482-01.md) — Geldwäsche u.a.
+- [BGH, Beschluss vom 05.12.2001 - 1 StR 490/01](1-str-490-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 05.12.2001 - 1 StR 491/01](1-str-491-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Urteil vom 04.12.2001 - 1 StR 428/01](1-str-428-01.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Urteil vom 22.11.2001 - 1 StR 220/01](1-str-220-01.md) — Veröffentlichung: ja ______________________ StPO § 136 Abs. 1 Satz 2 i.V.m. § 163a Abs. 4, § 141 Abs. 3 Satz 2 Zur Belehrung über das Recht auf Verteidigerkonsultation und zur …
@@ -14,33 +25,54 @@
 - [BGH, Beschluss vom 22.11.2001 - 1 StR 426/01](1-str-426-01.md) — Mordes
 - [BGH, Beschluss vom 22.11.2001 - 1 StR 471/01](1-str-471-01.md) — Vergewaltigung
 - [BGH, Beschluss vom 22.11.2001 - 1 StR 488/01](1-str-488-01.md) — versuchten schweren Raubes u.a.
+- [BGH, Beschluss vom 20.11.2001 - 1 StR 470/01](1-str-470-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 15.11.2001 - 1 StR 185/01](1-str-185-01.md) — Untreue u.a.
 - [BGH, Beschluss vom 07.11.2001 - 1 StR 375/01](1-str-375-01.md) — Betruges u.a.
+- [BGH, Beschluss vom 07.11.2001 - 1 StR 455/01](1-str-455-01.md) — Urkundenfälschung u.a.
+- [BGH, Beschluss vom 07.11.2001 - 1 StR 458/01](1-str-458-01.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 31.10.2001 - 1 StR 345/01](1-str-345-01.md) — Mordes u.a.
 - [BGH, Urteil vom 25.10.2001 - 1 StR 200/01](1-str-200-01.md) — Mordes u.a.
 - [BGH, Beschluss vom 25.10.2001 - 1 StR 306/01](1-str-306-01.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 25.10.2001 - 1 StR 429/01](1-str-429-01.md) — Diebstahls
 - [BGH, Beschluss vom 25.10.2001 - 1 StR 435/01](1-str-435-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 24.10.2001 - 1 StR 163/01](1-str-163-01.md) — Vollrausches
 - [BGH, Beschluss vom 24.10.2001 - 1 StR 432/01](1-str-432-01.md) — Untreue u.a.
 - [BGH, Beschluss vom 23.10.2001 - 1 StR 326/01](1-str-326-01.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 23.10.2001 - 1 StR 376/01](1-str-376-01.md) — versuchten Mordes u.a.
 - [BGH, Urteil vom 23.10.2001 - 1 StR 380/01](1-str-380-01.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 23.10.2001 - 1 StR 415/01](1-str-415-01.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 27.09.2001 - 1 StR 151/01](1-str-151-01.md) — Betruges
+- [BGH, Beschluss vom 27.09.2001 - 1 StR 274/01](1-str-274-01.md) — Mordes
+- [BGH, Beschluss vom 27.09.2001 - 1 StR 349/01](1-str-349-01.md) — Vergewaltigung
 - [BGH, Beschluss vom 26.09.2001 - 1 StR 147/01](1-str-147-01.md) — Untreue u.a.
 - [BGH, Beschluss vom 26.09.2001 - 1 StR 321/01](1-str-321-01.md) — Mordes
 - [BGH, Beschluss vom 26.09.2001 - 1 StR 330/01](1-str-330-01.md) — Totschlags
 - [BGH, Beschluss vom 26.09.2001 - 1 StR 394/01](1-str-394-01.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Urteil vom 25.09.2001 - 1 StR 264/01](1-str-264-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 25.09.2001 - 1 StR 270/01](1-str-270-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 25.09.2001 - 1 StR 293/01](1-str-293-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 25.09.2001 - 1 StR 324/01](1-str-324-01.md) — gewerbsmäßiger Hehlerei
 - [BGH, Beschluss vom 25.09.2001 - 1 StR 355/01](1-str-355-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 25.09.2001 - 1 StR 366/01](1-str-366-01.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 13.09.2001 - 1 StR 351/01](1-str-351-01.md) — Entziehung Minderjähriger
 - [BGH, Beschluss vom 13.09.2001 - 1 StR 352/01](1-str-352-01.md) — Entziehung Minderjähriger
+- [BGH, Beschluss vom 13.09.2001 - 1 StR 377/01](1-str-377-01.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 13.09.2001 - 1 StR 378/01](1-str-378-01.md) — Totschlags u.a.
 - [BGH, Beschluss vom 06.09.2001 - 1 StR 198/01](1-str-198-01.md) — Anstiftung zur falschen uneidlichen Aussage
 - [BGH, Beschluss vom 05.09.2001 - 1 StR 317/01](1-str-317-01.md) — Bandendiebstahls u.a.
 - [BGH, Urteil vom 04.09.2001 - 1 StR 167/01](1-str-167-01.md) — Raubes u.a.
 - [BGH, Beschluss vom 04.09.2001 - 1 StR 227/01](1-str-227-01.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Urteil vom 04.09.2001 - 1 StR 232/01](1-str-232-01.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 04.09.2001 - 1 StR 365/01](1-str-365-01.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 22.08.2001 - 1 StR 296/01](1-str-296-01.md) — Mordes
+- [BGH, Beschluss vom 22.08.2001 - 1 StR 316/01](1-str-316-01.md) — Anstiftung zum versuchten Mord u.a.
+- [BGH, Beschluss vom 22.08.2001 - 1 StR 325/01](1-str-325-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 22.08.2001 - 1 StR 328/01](1-str-328-01.md) — Betruges u.a.
+- [BGH, Beschluss vom 22.08.2001 - 1 StR 333/01](1-str-333-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 22.08.2001 - 1 StR 339/01](1-str-339-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.08.2001 - 1 StR 354/01](1-str-354-01.md) — gewerbsmäßigen Einschleusens von Ausländern u.a.
+- [BGH, Urteil vom 21.08.2001 - 1 StR 177/01](1-str-177-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 21.08.2001 - 1 StR 350/01](1-str-350-01.md) — Bedrohung
 - [BGH, Urteil vom 09.08.2001 - 1 StR 211/01](1-str-211-01.md) — Mordes
 - [BGH, Beschluss vom 09.08.2001 - 1 StR 268/01](1-str-268-01.md) — BGH, Beschluss vom 09.08.2001 - 1 StR 268/01
 - [BGH, Beschluss vom 09.08.2001 - 1 StR 295/01](1-str-295-01.md) — Mordes
@@ -51,6 +83,13 @@
 - [BGH, Urteil vom 08.08.2001 - 1 StR 291/01](1-str-291-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Urteil vom 07.08.2001 - 1 StR 174/01](1-str-174-01.md) — Totschlags
 - [BGH, Urteil vom 07.08.2001 - 1 StR 470/00](1-str-470-00.md) — Veröffentlichung: ja StGB § 52 Abs. 1, §§ 242, 243 Abs. 1 Satz 2 Nrn. 1, 2, § 303 1. Gesetzeseinheit zwischen Diebstahl - im besonders schweren Fall nach § 243 Abs. 1 Satz 2 Nrn …
+- [BGH, Urteil vom 24.07.2001 - 1 StR 192/01](1-str-192-01.md) — Betruges u.a.
+- [BGH, Beschluss vom 24.07.2001 - 1 StR 263/01](1-str-263-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 23.07.2001 - 1 StR 266/01](1-str-266-01.md) — Betruges
+- [BGH, Beschluss vom 12.07.2001 - 1 StR 171/01](1-str-171-01.md) — Mordes u.a.
+- [BGH, Urteil vom 11.07.2001 - 1 StR 576/00](1-str-576-00.md) — Veröffentlichung: ja StGB § 263 1. Auch bei einer freihändigen Vergabe mit Angebotsanfragen durch öffentliche oder private Auftraggeber an zumindest zwei Unternehmer enthält die …
+- [BGH, Beschluss vom 10.07.2001 - 1 StR 193/01](1-str-193-01.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 10.07.2001 - 1 StR 235/01](1-str-235-01.md) — Raubes
 - [BGH, Beschluss vom 10.07.2001 - 1 StR 246/01](1-str-246-01.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 28.06.2001 - 1 StR 209/01](1-str-209-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 28.06.2001 - 1 StR 229/01](1-str-229-01.md) — Verstoßes gegen das Betäubungsmittelgesetz
@@ -58,22 +97,43 @@
 - [BGH, Urteil vom 27.06.2001 - 1 StR 179/01](1-str-179-01.md) — Mordes
 - [BGH, Beschluss vom 27.06.2001 - 1 StR 210/01](1-str-210-01.md) — Betruges
 - [BGH, Urteil vom 27.06.2001 - 1 StR 66/01](1-str-66-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 26.06.2001 - 1 StR 197/01](1-str-197-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 19.06.2001 - 1 StR 201/01](1-str-201-01.md) — Vergewaltigung
 - [BGH, Urteil vom 12.06.2001 - 1 StR 190/01](1-str-190-01.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 12.06.2001 - 1 StR 218/01](1-str-218-01.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 12.06.2001 - 1 StR 574/00](1-str-574-00.md) — Gründe:
 - [BGH, Beschluss vom 11.06.2001 - 1 StR 111/01](1-str-111-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 11.06.2001 - 1 StR 205/01](1-str-205-01.md) — Raubes u.a.
+- [BGH, Beschluss vom 01.06.2001 - 1 StR 208/01](1-str-208-01.md) — Totschlags
+- [BGH, Beschluss vom 31.05.2001 - 1 StR 173/01](1-str-173-01.md) — Gebrauchs gefälschter Zahlungskarten
+- [BGH, Beschluss vom 31.05.2001 - 1 StR 182/01](1-str-182-01.md) — Geiselnahme u.a.
+- [BGH, Beschluss vom 31.05.2001 - 1 StR 191/01](1-str-191-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 30.05.2001 - 1 StR 116/01](1-str-116-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 30.05.2001 - 1 StR 176/01](1-str-176-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 30.05.2001 - 1 StR 42/01](1-str-42-01.md) — Veröffentlichung: ja ________________ MRK Art. 6 Abs. 1 Satz 1 Der Grundsatz des fairen Verfahrens (gemäß Art. 6 Abs. 1 Satz 1 MRK) kann verletzt sein, wenn das im Rahmen einer …
+- [BGH, Beschluss vom 30.05.2001 - 1 StR 99/01](1-str-99-01.md) — Verstoßes gegen das Betäubungsmittelgesetz u.a.
+- [BGH, Beschluss vom 16.05.2001 - 1 StR 98/01](1-str-98-01.md) — gewerbsmäßigen Einschleusens von Ausländern
+- [BGH, Beschluss vom 10.05.2001 - 1 StR 120/01](1-str-120-01.md) — sexuellen Mißbrauchs von Hilfsbedürftigen in Einrichtungen
+- [BGH, Beschluss vom 10.05.2001 - 1 StR 410/00](1-str-410-00.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Urteil vom 10.05.2001 - 1 StR 504/00](1-str-504-00.md) — Veröffentlichung: ja _______________________ GVG § 24 Abs. 1 Nr. 3; StPO § 338 Nr. 4 1. Der Prüfung durch das Revisionsgericht, ob das Landgericht einem Fall rechtsfehlerfrei …
 - [BGH, Beschluss vom 09.05.2001 - 1 StR 161/01](1-str-161-01.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 08.05.2001 - 1 StR 137/01](1-str-137-01.md) — versuchten Totschlags
 - [BGH, Beschluss vom 08.05.2001 - 1 StR 157/01](1-str-157-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 08.05.2001 - 1 StR 168/01](1-str-168-01.md) — versuchter Brandstiftung
 - [BGH, Urteil vom 08.05.2001 - 1 StR 35/01](1-str-35-01.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 26.04.2001 - 1 StR 109/01](1-str-109-01.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 25.04.2001 - 1 StR 130/01](1-str-130-01.md) — Körperverletzung
+- [BGH, Beschluss vom 25.04.2001 - 1 StR 135/01](1-str-135-01.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 25.04.2001 - 1 StR 143/01](1-str-143-01.md) — Veröffentlichung: ja _______________________ §§ 46 Abs. 2 und 3 StGB Gerät das Opfer einer Sexualstraftat durch das Bestreiten des Täters - eines Familienangehörigen - in eine …
+- [BGH, Beschluss vom 25.04.2001 - 1 StR 68/01](1-str-68-01.md) — Körperverletzung u.a.
+- [BGH, Beschluss vom 25.04.2001 - 1 StR 79/01](1-str-79-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 25.04.2001 - 1 StR 82/01](1-str-82-01.md) — Unterbringung
 - [BGH, Beschluss vom 24.04.2001 - 1 StR 112/01](1-str-112-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 24.04.2001 - 1 StR 122/01](1-str-122-01.md) — versuchten Totschlags
 - [BGH, Beschluss vom 24.04.2001 - 1 StR 131/01](1-str-131-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 24.04.2001 - 1 StR 88/01](1-str-88-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 24.04.2001 - 1 StR 94/01](1-str-94-01.md) — Vergewaltigung
+- [BGH, Urteil vom 04.04.2001 - 1 StR 582/00](1-str-582-00.md) — Subventionsbetruges u.a.
 - [BGH, Beschluss vom 03.04.2001 - 1 StR 45/01](1-str-45-01.md) — schweren Raubes
 - [BGH, Beschluss vom 03.04.2001 - 1 StR 58/01](1-str-58-01.md) — sexuellen Mißbrauchs von Schutzbefohlenen u.a.
 - [BGH, Beschluss vom 03.04.2001 - 1 StR 90/01](1-str-90-01.md) — räuberischer Erpressung u.a.
@@ -81,16 +141,46 @@
 - [BGH, Beschluss vom 22.03.2001 - 1 StR 57/01](1-str-57-01.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 21.03.2001 - 1 StR 19/01](1-str-19-01.md) — Mordes u.a.
 - [BGH, Urteil vom 21.03.2001 - 1 StR 32/01](1-str-32-01.md) — zu 1.: sexueller Nötigung u.a. zu 2.: Vergewaltigung
+- [BGH, Beschluss vom 21.03.2001 - 1 StR 48/01](1-str-48-01.md) — Veröffentlichung: ja _________________ StGB §§ 32, 33 1. Kommt bei objektiv gegebener Notwehrlage der Angreifer durch Fahrlässigkeit des Abwehrenden zu Schaden, so ist in den …
 - [BGH, Beschluss vom 21.03.2001 - 1 StR 77/01](1-str-77-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 20.03.2001 - 1 StR 12/01](1-str-12-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 20.03.2001 - 1 StR 543/00](1-str-543-00.md) — unerlaubter Einfuhr von Betäubungsmitteln u.a.
 - [BGH, Beschluss vom 08.03.2001 - 1 StR 18/01](1-str-18-01.md) — Betrugs
 - [BGH, Beschluss vom 08.03.2001 - 1 StR 28/01](1-str-28-01.md) — Betruges u.a.
+- [BGH, Beschluss vom 08.03.2001 - 1 StR 43/01](1-str-43-01.md) — zu 1. Raubes u.a. zu 2. Diebstahls u.a.
 - [BGH, Beschluss vom 08.03.2001 - 1 StR 573/00](1-str-573-00.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 08.03.2001 - 1 StR 590/00](1-str-590-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 08.03.2001 - 1 StR 73/01](1-str-73-01.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 08.03.2001 - 1 StR 78/01](1-str-78-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 07.03.2001 - 1 StR 2/01](1-str-2-01.md) — Mordes u.a.
+- [BGH, Beschluss vom 07.03.2001 - 1 StR 21/01](1-str-21-01.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 07.03.2001 - 1 StR 22/01](1-str-22-01.md) — Totschlags
+- [BGH, Beschluss vom 07.03.2001 - 1 StR 37/01](1-str-37-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 07.03.2001 - 1 StR 41/01](1-str-41-01.md) — Hehlerei u.a.
+- [BGH, Beschluss vom 07.03.2001 - 1 StR 545/00](1-str-545-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 06.03.2001 - 1 StR 14/01](1-str-14-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 06.03.2001 - 1 StR 4/01](1-str-4-01.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Urteil vom 06.03.2001 - 1 StR 554/00](1-str-554-00.md) — sexueller Nötigung u.a.
+- [BGH, Urteil vom 15.02.2001 - 1 StR 506/00](1-str-506-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 14.02.2001 - 1 StR 8/01](1-str-8-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 13.02.2001 - 1 StR 26/01](1-str-26-01.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 13.02.2001 - 1 StR 448/00](1-str-448-00.md) — Untreue
+- [BGH, Urteil vom 13.02.2001 - 1 StR 519/00](1-str-519-00.md) — Vergewaltigung
+- [BGH, Urteil vom 13.02.2001 - 1 StR 565/00](1-str-565-00.md) — Vergewaltigung u.a.
+- [BGH, Verfügung vom 12.02.2001 - 1 StR 59/01](1-str-59-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 31.01.2001 - 1 ARs 2/01](1-ars-2-01.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 30.01.2001 - 1 StR 423/00](1-str-423-00.md) — Veröffentlichung: ja __________________________ BtMG 1981 §§ 29 Abs. 1 Nr. 1; 30a Abs. 1 Zur Abgrenzung zwischen tatbestandsmäßigem Handeltreiben mit Betäubungsmitteln und …
+- [BGH, Urteil vom 30.01.2001 - 1 StR 454/00](1-str-454-00.md) — Mordes
+- [BGH, Beschluss vom 30.01.2001 - 1 StR 481/00](1-str-481-00.md) — versuchter sexueller Nötigung u.a.
+- [BGH, Beschluss vom 30.01.2001 - 1 StR 512/00](1-str-512-00.md) — Computerbetruges u.a.
+- [BGH, Beschluss vom 30.01.2001 - 1 StR 542/00](1-str-542-00.md) — Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 30.01.2001 - 1 StR 568/00](1-str-568-00.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 30.01.2001 - 1 StR 586/00](1-str-586-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 18.01.2001 - 1 StR 528/00](1-str-528-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 17.01.2001 - 1 StR 480/00](1-str-480-00.md) — gemeinschaftlichen schweren Raubes u.a.
 - [BGH, Beschluss vom 17.01.2001 - 1 StR 487/00](1-str-487-00.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 17.01.2001 - 1 StR 557/00](1-str-557-00.md) — vorsätzlicher Körperverletzung u.a.
+- [BGH, Urteil vom 16.01.2001 - 1 StR 443/00](1-str-443-00.md) — Diebstahls
+- [BGH, Urteil vom 16.01.2001 - 1 StR 503/00](1-str-503-00.md) — sexuellen Mißbrauch eines Kindes
+- [BGH, Beschluss vom 16.01.2001 - 1 StR 523/00](1-str-523-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 16.01.2001 - 1 StR 549/00](1-str-549-00.md) — Betrugs u.a.

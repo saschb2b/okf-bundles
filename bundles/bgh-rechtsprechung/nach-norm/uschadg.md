@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu USchadG"
 description: "BGH-Entscheidungen zu USchadG, geordnet nach Vorschrift."
 tags: [register, navigation, uschadg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

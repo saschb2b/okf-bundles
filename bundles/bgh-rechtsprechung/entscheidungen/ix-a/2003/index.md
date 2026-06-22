@@ -1,30 +1,74 @@
 # IX A – 2003
 
-26 Entscheidung(en).
+70 Entscheidung(en).
 
+- [BGH, Beschluss vom 12.12.2003 - IXa ZB 115/03](ixa-zb-115-03.md) — vollstreckbarer Geldforderungen die Pfändung und Überweisung der Ansprüche der Schuldnerin auf Erstattung von Einkommen- und Kirchensteuern
 - [BGH, Beschluss vom 12.12.2003 - IXa ZB 165/03](ixa-zb-165-03.md) — I. Der Rechtspfleger des Amtgerichts Tübingen hat mit Beschluß vom 4. September 2000 Ansprüche des Schuldners aus einem Lizenzvertrag ge- pfändet und der Gläubigerin zu 2 zur …
 - [BGH, Beschluss vom 12.12.2003 - IXa ZB 193/03](ixa-zb-193-03.md) — fehlerhafter Besetzung aufgehoben und die Sache zur erneuten Entscheidung an dieses zurückverwiesen. Daraufhin hat der Einzelrichter des Lan
 - [BGH, Beschluss vom 12.12.2003 - IXa ZB 207/03](ixa-zb-207-03.md) — einer For-
 - [BGH, Beschluss vom 12.12.2003 - IXa ZB 209/03](ixa-zb-209-03.md) — I. Das Amtsgericht hat mit Beschluß vom 27. November 1996 zugunsten von Unterhaltsforderungen der Gläubigerin, der geschiedenen Ehefrau des Schuldners, dessen Ansprüche auf …
+- [BGH, Beschluss vom 12.12.2003 - IXa ZB 225/03](ixa-zb-225-03.md) — titulierter rückständiger und künftig fälliger Unter-
 - [BGH, Beschluss vom 12.12.2003 - IXa ZB 226/03](ixa-zb-226-03.md) — einer Forde-
+- [BGH, Beschluss vom 12.12.2003 - IXa ZB 234/03](ixa-zb-234-03.md) — I. Auf Antrag des Gläubigers hat das Amtsgericht - Vollstreckungsgericht - einen Pfändungs- und Überweisungsbeschluß erlassen, mit dem die Ansprü- che des Schuldners auf …
+- [BGH, Beschluss vom 12.12.2003 - IXa ZB 251/03](ixa-zb-251-03.md) — BGH, Beschluss vom 12.12.2003 - IXa ZB 251/03
+- [BGH, Beschluss vom 31.10.2003 - IXa ZB 194/03](ixa-zb-194-03.md) — I. Die Rechtsbeschwerdeführerin ist aufgrund eines Abtretungsvertrags vom 20. Mai 2000 Gläubigerin einer in einem aufgehobenen Konkursverfahren zur Konkurstabelle angemeldeten und …
+- [BGH, Beschluss vom 31.10.2003 - IXa ZB 195/03](ixa-zb-195-03.md) — fehlerhafter Besetzung des Beschwerdege-
+- [BGH, Beschluss vom 31.10.2003 - IXa ZB 197/03](ixa-zb-197-03.md) — I. Die Gläubigerin betreibt die Zwangsvollstreckung aus dinglichem Titel in Grundbesitz, der dem Schuldner und seiner geschiedenen Ehefrau je zu 1/2 gehört. Der erstinstanzliche …
 - [BGH, Beschluss vom 31.10.2003 - IXa ZB 200/03](ixa-zb-200-03.md) — rückständigen Unterhalts als auch wegen des künftig fällig werdenden monatlichen Unterhalts ab Oktober 2002, "fällig jew. zum 1. eines jeden
+- [BGH, Beschluss vom 31.10.2003 - IXa ZB 235/03](ixa-zb-235-03.md) — I. Die Gläubigerin ist Inhaberin einer vollstreckbaren Forderung aus einem Vollstreckungsbescheid des Amtsgerichts Stuttgart vom 26. Mai 1992. Am 18. Juli 2002 beantragte die …
 - [BGH, Beschluss vom 10.10.2003 - IXa ZA 7/03](ixa-za-7-03.md) — I. Die Gläubigerin erstrebt Prozeßkostenhilfe für ein Rechtsbeschwerde- verfahren gegen den Beschluß der 9. Zivilkammer des Landgerichts Dortmund vom 2. April 2003, mit dem ihre …
 - [BGH, Beschluss vom 10.10.2003 - IXa ZB 128/03](ixa-zb-128-03.md) — I. Das Amtsgericht Mönchengladbach-Rheydt ordnete am 20. August 1999 die Zwangsversteigerung des im Rubrum genannten Grundbesitzes der Schuldnerin an. Als Grundlage für die …
+- [BGH, Beschluss vom 10.10.2003 - IXa ZB 170/03](ixa-zb-170-03.md) — bevorzugter Unterhaltsansprüche nicht zulässig.
 - [BGH, Beschluss vom 10.10.2003 - IXa ZB 180/03](ixa-zb-180-03.md) — Erwerbsminderung.
+- [BGH, Beschluss vom 10.10.2003 - IXa ZB 183/03](ixa-zb-183-03.md) — I. Die Parteien schlossen am 6. Juli 2000 vor dem Landgericht Köln einen Vergleich ohne Widerrufsvorbehalt, in dem sich die Schuldner gesamtschuldnerisch zur Zahlung von 5.000 DM …
 - [BGH, Beschluss vom 10.10.2003 - IXa ZB 204/03](ixa-zb-204-03.md) — BGH, Beschluss vom 10.10.2003 - IXa ZB 204/03
 - [BGH, Beschluss vom 10.10.2003 - IXa ZB 247/03](ixa-zb-247-03.md) — I. Der Schuldner ist als Eigentümer des im Rubrum genannten Grund- stücks im Grundbuch eingetragen. Die Gläubigerin betreibt aus einer Grund- schuld mit einem Nennbetrag von …
+- [BGH, Beschluss vom 10.10.2003 - IXa ZB 80/03](ixa-zb-80-03.md) — I. Auf Antrag der Gläubigerin ordnete das Amtsgericht mit Beschluß vom 11. April 2000 die Zwangsversteigerung aus einer gemäß § 800 ZPO gegen den jeweiligen Grundstückseigentümer …
+- [BGH, Beschluss vom 09.10.2003 - IXa ZB 259/03](ixa-zb-259-03.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten nicht mehr statthaft ist (BGHZ 150, 133; vgl. auch BVerfG NJW 2
+- [BGH, Beschluss vom 25.09.2003 - IXa ZB 192/03](ixa-zb-192-03.md) — der in aller Regel zu erwartenden tatsächlichen und rechtlichen Schwierigkeiten die Beiordnung eines Rechtsanwalts grundsätzlich erforderlic
 - [BGH, Beschluss vom 13.08.2003 - IXa ZB 213/03](ixa-zb-213-03.md) — BGH, Beschluss vom 13.08.2003 - IXa ZB 213/03
+- [BGH, Beschluss vom 12.08.2003 - IXa ZB 210/03](ixa-zb-210-03.md) — BGH, Beschluss vom 12.08.2003 - IXa ZB 210/03
+- [BGH, Beschluss vom 12.08.2003 - IXa ZB 211/03](ixa-zb-211-03.md) — BGH, Beschluss vom 12.08.2003 - IXa ZB 211/03
+- [BGH, Beschluss vom 18.07.2003 - IXa ZB 116/03](ixa-zb-116-03.md) — I. In einem vor dem Landgericht Stuttgart abgeschlossenen Vergleich verpflichtete sich die Schuldnerin, vom Gläubiger angemietete Gewerberäume bis spätestens 30. Juni 2002 zu …
+- [BGH, Beschluss vom 18.07.2003 - IXa ZB 124/03](ixa-zb-124-03.md) — I. Die Gläubigerin betreibt gegen den Schuldner die Zwangsvollstreckung aus einem Beschluß des Amtsgerichts Dortmund vom 5. November 2002. Auf ihren Antrag bewilligte ihr das …
+- [BGH, Beschluss vom 18.07.2003 - IXa ZB 146/03](ixa-zb-146-03.md) — I. Durch einen vor dem Amtsgericht Krefeld am 3. Juni 2002 in ihrer Anwe- senheit geschlossenen Vergleich verpflichteten sich die vier Schuldner (als Ge- ¡    # ! "%$ ¡') …
+- [BGH, Beschluss vom 18.07.2003 - IXa ZB 148/03](ixa-zb-148-03.md) — einer titulierten Geldforderung in Höhe von 165,25
+- [BGH, Beschluss vom 18.07.2003 - IXa ZB 151/03](ixa-zb-151-03.md) — des Unterhaltsrück-
+- [BGH, Beschluss vom 18.07.2003 - IXa ZB 179/03](ixa-zb-179-03.md) — I. Das Amtsgericht Brakel hat auf Antrag der Beteiligten zu 3 a) mit Beschluß vom 14. August 2001 die Zwangsversteigerung des verfahrensgegenständlichen Grundstücks des …
 - [BGH, Beschluss vom 18.07.2003 - IXa ZB 65/03](ixa-zb-65-03.md) — des Kaufpreises nebst
+- [BGH, Beschluss vom 27.06.2003 - IXa ZA 5/03](ixa-za-5-03.md) — dieses Betrages unterwarf er sich gegenüber der Gläubigerin der sofortigen Zwangsvollstreckung in sein gesamtes Vermögen. In gleicher Höhe w
+- [BGH, Beschluss vom 27.06.2003 - IXa ZB 114/03](ixa-zb-114-03.md) — der Versäumung der Einlegungsfrist beantragt. Das Landgericht hat den Wiedereinsetzungsantrag zurückgewiesen und die sofortige Beschwerde al
+- [BGH, Beschluss vom 27.06.2003 - IXa ZB 119/03](ixa-zb-119-03.md) — der Währungsangabe nicht als unübersichtlich und nicht nachvollziehbar zurückgewiesen werden.
+- [BGH, Beschluss vom 27.06.2003 - IXa ZB 120/03](ixa-zb-120-03.md) — I. Die Gläubigerin ist Inhaberin einer vollstreckbaren Forderung aus einem Vollstreckungsbescheid des Amtsgerichts S. vom 19. Oktober 1987. Am 17. Dezember 2002 beantragte die …
+- [BGH, Beschluss vom 27.06.2003 - IXa ZB 121/03](ixa-zb-121-03.md) — I. Die Gläubigerin ist Inhaberin einer vollstreckbaren Forderung aus einem Vollstreckungsbescheid des Amtsgerichts H. vom 25. Juli 1997. Am 17. Dezember 2002 beantragte die …
+- [BGH, Beschluss vom 27.06.2003 - IXa ZB 122/03](ixa-zb-122-03.md) — Der Gläubiger ist Inhaber einer vollstreckbaren Forderung aus einem Vollstreckungsbescheid des Amtsgerichts S.
 - [BGH, Beschluss vom 27.06.2003 - IXa ZB 127/03](ixa-zb-127-03.md) — Aussichtslosigkeit der Rechtsverfolgung keinen Erfolg (§ 78b ZPO).
+- [BGH, Beschluss vom 27.06.2003 - IXa ZB 21/03](ixa-zb-21-03.md) — eines Verfahrensfehlers abzustellen (im Anschluß an BGH, Beschl. v. 14. Dezember 1993 - VI ZR 235/92, NJW 1994, 160).
 - [BGH, Beschluss vom 27.06.2003 - IXa ZB 62/03](ixa-zb-62-03.md) — BGH, Beschluss vom 27.06.2003 - IXa ZB 62/03
-- [BGH, Beschluss vom 28.05.2003 - IXa ZB 153/03](ixa-zb-153-03.md) — BGH, Beschluss vom 28.05.2003 - IXa ZB 153/03
+- [BGH, Beschluss vom 27.06.2003 - IXa ZB 72/03](ixa-zb-72-03.md) — der Versäumung der Frist zur Begründung der Rechtsbeschwerde gegen den Beschluß des 8. Zivilsenats des Brandenburgischen Oberlandesgerichts
+- [BGH, Beschluss vom 04.06.2003 - IXa ZA 4/03](ixa-za-4-03.md) — eines Verfahrensfehlers formell keinen Bestand haben kann, das materielle Ergebnis sich in der Rechtsmittelinstanz jedoch voraussichtlich ni
+- [BGH, Beschluss vom 28.05.2003 - IXa ZB 19/03](ixa-zb-19-03.md) — I. Der Gläubiger, ein kenianischer Staatsangehöriger, war bei der in Bonn ansässigen Botschaft der Schuldnerin in der Registratur beschäftigt. In einem Rechtsstreit vor dem …
+- [BGH, Beschluss vom 28.05.2003 - IXa ZB 51/03](ixa-zb-51-03.md) — I. Der Antragsteller und seine Ehefrau schlossen am 4. Oktober 1996 mit der Antragsgegnerin einen Darlehensvertrag über eine Gesamtsumme von rund 81.000 DM. Der Antragsteller trat …
+- [BGH, Beschluss vom 28.05.2003 - IXa ZB 89/03](ixa-zb-89-03.md) — der
+- [BGH, Beschluss vom 28.05.2003 - IXa ZB 93/03](ixa-zb-93-03.md) — Arbeitsüberlastung. Aus der Begründung des Gesuchs der Schuldner sei aber nicht zu ersehen, daß sie sich anschließend an mehrere beim Bundes
 - [BGH, Beschluss vom 09.05.2003 - IXa ZB 126/03](ixa-zb-126-03.md) — BGH, Beschluss vom 09.05.2003 - IXa ZB 126/03
+- [BGH, Beschluss vom 09.05.2003 - IXa ZB 129/03](ixa-zb-129-03.md) — der Ansprüche aus dem vorgenannten Titel die angebliche Forderung des Schuld-
+- [BGH, Beschluss vom 09.05.2003 - IXa ZB 25/03](ixa-zb-25-03.md) — eines solchen Verfahrensfehlers ist der Zuschlag zu versagen.
 - [BGH, Beschluss vom 09.05.2003 - IXa ZB 73/03](ixa-zb-73-03.md) — BGH, Beschluss vom 09.05.2003 - IXa ZB 73/03
+- [BGH, Beschluss vom 15.04.2003 - IXa ZB 118/03](ixa-zb-118-03.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 26.03.2003 - IXa ZB 63/03](ixa-zb-63-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (vgl. BGH, Beschl. vom 13. März 2003 - IX ZB 134/02, zur Veröff.
+- [BGH, Beschluss vom 20.03.2003 - IXa ZB 39/03](ixa-zb-39-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (BGH, Beschluß vom 13. März 2003 - IX ZB 134/02 - zur Veröffentli
 - [BGH, Beschluss vom 20.03.2003 - IXa ZB 55/03](ixa-zb-55-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (BGH, Beschluß vom 13. März 2003 - IX ZB 134/02 - zur Veröffentli
 - [BGH, Beschluss vom 14.03.2003 - IXa ZB 27/03](ixa-zb-27-03.md) — Besorgnis der Befangenheit ab. Das Amtsgericht wies das Befangenheitsgesuch mit Beschluß vom 21. März 2002 als unbegründet zurück. Die sofor
+- [BGH, Beschluss vom 14.03.2003 - IXa ZB 45/03](ixa-zb-45-03.md) — I. Die Schuldner sind in einer Gesellschaft bürgerlichen Rechts verbunden. Diese hält Miteigentumsanteile nebst Sondereigentum an ei- nem Grundbesitz, der insgesamt vier …
 - [BGH, Beschluss vom 14.03.2003 - IXa ZB 46/03](ixa-zb-46-03.md) — BGH, Beschluss vom 14.03.2003 - IXa ZB 46/03
+- [BGH, Beschluss vom 14.03.2003 - IXa ZB 47/03](ixa-zb-47-03.md) — I. Die Schuldner sind in einer Gesellschaft bürgerlichen Rechts verbunden. Diese hält Miteigentumsanteile nebst Sondereigentum an ei- nem Grundbesitz, der insgesamt vier …
 - [BGH, Beschluss vom 14.03.2003 - IXa ZB 52/03](ixa-zb-52-03.md) — Vorpfändungen ohne Erfolg. Mit Schriftsatz vom
+- [BGH, Beschluss vom 14.03.2003 - IXa ZB 84/03](ixa-zb-84-03.md) — zwischenzeitlich aufgetretener erheblicher Mängel den Verkehrswert herabzusetzen. Das Amtsgericht wies den Antrag auf
 - [BGH, Beschluss vom 14.02.2003 - IXa ZB 10/03](ixa-zb-10-03.md) — I. Der Gläubiger vermietete an den Schuldner eine Immobilie nebst Inventar, in der ein Altenwohn- und Pflegeheim betrieben wird. Der Schuldner überließ das Objekt der Schuldnerin …
 - [BGH, Beschluss vom 14.02.2003 - IXa ZB 43/03](ixa-zb-43-03.md) — BGH, Beschluss vom 14.02.2003 - IXa ZB 43/03
+- [BGH, Beschluss vom 14.02.2003 - IXa ZB 53/03](ixa-zb-53-03.md) — I. Die Gläubigerin betreibt gegen die Schuldnerin die Zwangsvoll- streckung¢w¤¡ ¦£eg¨¥ §e©ne ¡¨in§ e¦£ r¡t it¡¨u"lie!rt¦# e%$ &$n§ (© ('G£ e¤) l0 d f¨¡o1rd2§ …
+- [BGH, Beschluss vom 14.02.2003 - IXa ZB 56/03](ixa-zb-56-03.md) — der besonderen Bedeutung der Zustellung für die Gewährung rechtlichen Gehörs hohe Anforderungen zu stellen seien. Neben der Auskunft der Mel
 - [BGH, Beschluss vom 14.02.2003 - IXa ZB 64/03](ixa-zb-64-03.md) — "greifbarer Gesetzeswidrigkeit" oder der Verletzung von Verfahrensgrundrechten wäre das Rechtsmittel der Schuldnerin nicht statthaft (BGH, B
 - [BGH, Beschluss vom 14.02.2003 - IXa ZB 69/03](ixa-zb-69-03.md) — Gegen Entscheidungen der Oberlandesgerichte über Beschwerden gegen landgerichtliche Entscheidungen ist eine Beschwerde an den Bundesgerichtshof nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 14.02.2003 - IXa ZB 9/03](ixa-zb-9-03.md) — Der Antragsteller erstrebt Prozeßkostenhilfe für ein Rechtsbeschwerdeverfahren gegen den Beschluß des Landgerichts Regensburg vom 27.

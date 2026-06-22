@@ -1,57 +1,120 @@
 # VI. Zivilsenat – 2003
 
-53 Entscheidung(en).
+116 Entscheidung(en).
 
 - [BGH, Urteil vom 16.12.2003 - VI ZR 103/03](vi-zr-103-03.md) — Tatbestand:
 - [BGH, Beschluss vom 16.12.2003 - VI ZR 205/03](vi-zr-205-03.md) — BGH, Beschluss vom 16.12.2003 - VI ZR 205/03
+- [BGH, Beschluss vom 09.12.2003 - VI ZB 26/03](vi-zb-26-03.md) — eines Verkehrsunfalls aus abgetretenem Recht ihres Ehemannes auf Schadensersatz in Anspruch. Das Amtsgericht hat die Klage abgewiesen. Das U
+- [BGH, Beschluss vom 09.12.2003 - VI ZB 38/03](vi-zb-38-03.md) — eines behaupteten ärztlichen Behandlungsfehlers auf Zahlung eines angemessenen Schmerzensgeldes in Anspruch genommen. Das Landgericht hat di
+- [BGH, Beschluss vom 09.12.2003 - VI ZB 46/03](vi-zb-46-03.md) — der Erfolgsaussicht auf den beigefügten, nicht unterzeichneten "Entwurf" einer Berufungsbegründung Bezug. Durch Beschluß vom 24. März 2003,
+- [BGH, Urteil vom 09.12.2003 - VI ZR 373/02](vi-zr-373-02.md) — BGH, Urteil vom 09.12.2003 - VI ZR 373/02
+- [BGH, Urteil vom 09.12.2003 - VI ZR 38/03](vi-zr-38-03.md) — Tatbestand: Die Beklagte hat in der von ihr verlegten Tageszeitung "Bild" auf der Titelseite der Ausgabe vom 22. September 2000 sowie auf Se
+- [BGH, Urteil vom 09.12.2003 - VI ZR 404/02](vi-zr-404-02.md) — Tatbestand: Die Klägerin begehrt die Feststellung, daß der Beklagte die durch die Erhebung einer Klage auf Unterlassung entstandenen Kosten
 - [BGH, Urteil vom 02.12.2003 - VI ZR 243/02](vi-zr-243-02.md) — Tatbestand: Der Kläger wurde am 1. Juli 1996 bei einem durch die Beklagte zu 1 allein verschuldeten Verkehrsunfall verletzt und als Folge hi
 - [BGH, Urteil vom 02.12.2003 - VI ZR 348/02](vi-zr-348-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten immateriellen Schadensersatz aus einem Verkehrsunfall. Der in einem Bauunternehmen tätige K
 - [BGH, Urteil vom 02.12.2003 - VI ZR 349/02](vi-zr-349-02.md) — und anderen, nach § 8 Abs. 2 Nr. 1 bis 4 SGB VII versicherten Wegen zu unterscheiden. Für die Abgrenzung können die Kriterien herangezogen w
+- [BGH, Beschluss vom 25.11.2003 - VI ZR 178/03](vi-zr-178-03.md) — BGH, Beschluss vom 25.11.2003 - VI ZR 178/03
+- [BGH, Beschluss vom 25.11.2003 - VI ZR 184/03](vi-zr-184-03.md) — des Mitverschuldens des Getöteten ein Quotenvorrecht der Kläger für die Anrechnung der Rentenleistungen des Sozialversicherungsträgers anzun
+- [BGH, Beschluss vom 25.11.2003 - VI ZR 220/03](vi-zr-220-03.md) — BGH, Beschluss vom 25.11.2003 - VI ZR 220/03
 - [BGH, Urteil vom 25.11.2003 - VI ZR 226/02](vi-zr-226-02.md) — BGH, Urteil vom 25.11.2003 - VI ZR 226/02
+- [BGH, Beschluss vom 25.11.2003 - VI ZR 410/02](vi-zr-410-02.md) — BGH, Beschluss vom 25.11.2003 - VI ZR 410/02
 - [BGH, Beschluss vom 25.11.2003 - VI ZR 418/02](vi-zr-418-02.md) — BGH, Beschluss vom 25.11.2003 - VI ZR 418/02
+- [BGH, Urteil vom 25.11.2003 - VI ZR 8/03](vi-zr-8-03.md) — Tatbestand: Die Mutter des Klägers begab sich am 21. Januar 1990 nach Mitternacht in der 41. Schwangerschaftswoche mit einem vorzeitigen Bla
+- [BGH, Beschluss vom 18.11.2003 - VI ZR 143/03](vi-zr-143-03.md) — grundsätzlicher Bedeutung oder zur Sicherung einer einheitlichen Rechtsprechung erforderten.
+- [BGH, Urteil vom 18.11.2003 - VI ZR 31/02](vi-zr-31-02.md) — eines grob verkehrswidrigen Verhaltens eines 14jährigen Radfahrers bei einem Verkehrsunfall nach §§ 9 StVG, 254 Abs. 1 BGB völlig von der Ge
 - [BGH, Urteil vom 18.11.2003 - VI ZR 385/02](vi-zr-385-02.md) — Tatbestand: Die Klägerin führte am 6. Dezember 1999 und an weiteren Tagen Kranund Schwerlasttransportarbeiten für eine Bauunternehmerin zum
 - [BGH, Beschluss vom 18.11.2003 - VI ZR 437/02](vi-zr-437-02.md) — BGH, Beschluss vom 18.11.2003 - VI ZR 437/02
+- [BGH, Beschluss vom 11.11.2003 - VI ZB 41/03](vi-zb-41-03.md) — I. Der Kläger hat die Beklagten nach einem Verkehrsunfall auf Schadensersatz in Anspruch genommen. Der Beklagte zu 1) ist der Fahrer des am Unfall beteiligten weiteren Fahrzeugs …
+- [BGH, Urteil vom 11.11.2003 - VI ZR 13/03](vi-zr-13-03.md) — vermuteten Auswahl- und
 - [BGH, Urteil vom 11.11.2003 - VI ZR 371/02](vi-zr-371-02.md) — 3-
 - [BGH, Beschluss vom 04.11.2003 - VI ZB 50/03](vi-zb-50-03.md) — BGH, Beschluss vom 04.11.2003 - VI ZB 50/03
 - [BGH, Beschluss vom 04.11.2003 - VI ZR 170/03](vi-zr-170-03.md) — BGH, Beschluss vom 04.11.2003 - VI ZR 170/03
 - [BGH, Urteil vom 04.11.2003 - VI ZR 28/03](vi-zr-28-03.md) — der Art der Erkrankung (hier: Morbus Sudeck) nach dem Maßstab des § 286 ZPO nicht führen kann.
+- [BGH, Urteil vom 04.11.2003 - VI ZR 346/02](vi-zr-346-02.md) — Tatbestand: Der Ehemann der Klägerin zu 1 und Vater der Kläger zu 2 und 3 wurde am 18. Oktober 1993 bei einem von dem Erstbeklagten verschul
+- [BGH, Beschluss vom 03.11.2003 - VI ZR 190/03](vi-zr-190-03.md) — BGH, Beschluss vom 03.11.2003 - VI ZR 190/03
 - [BGH, Beschluss vom 14.10.2003 - VI ZB 19/03](vi-zb-19-03.md) — eines Verkehrsunfalls auf Ersatz weiteren materiellen und immateriellen Schadens in Anspruch. Das Landgericht hat die Klage überwiegend abge
 - [BGH, Urteil vom 14.10.2003 - VI ZR 379/02](vi-zr-379-02.md) — BGH, Urteil vom 14.10.2003 - VI ZR 379/02
+- [BGH, Urteil vom 14.10.2003 - VI ZR 425/02](vi-zr-425-02.md) — Tatbestand: Der Kläger fordert von dem Beklagten, einem Bankdirektor, Schadensersatz wegen des Vorwurfs täuschender Angaben bei der Bewillig
 - [BGH, Beschluss vom 07.10.2003 - VI ZR 32/03](vi-zr-32-03.md) — BGH, Beschluss vom 07.10.2003 - VI ZR 32/03
+- [BGH, Beschluss vom 07.10.2003 - VI ZR 334/02](vi-zr-334-02.md) — einer Presseveröffentlichung auf Unterlassung und Schadensersatz in Anspruch genommen. Das Landgericht hat der Klage zum Teil stattgegeben.
+- [BGH, Urteil vom 07.10.2003 - VI ZR 392/02](vi-zr-392-02.md) — BGH, Urteil vom 07.10.2003 - VI ZR 392/02
+- [BGH, Beschluss vom 07.10.2003 - VI ZR 76/03](vi-zr-76-03.md) — BGH, Beschluss vom 07.10.2003 - VI ZR 76/03
 - [BGH, Beschluss vom 30.09.2003 - VI ZB 60/02](vi-zb-60-02.md) — BGH, Beschluss vom 30.09.2003 - VI ZB 60/02
+- [BGH, Beschluss vom 30.09.2003 - VI ZR 306/02](vi-zr-306-02.md) — BGH, Beschluss vom 30.09.2003 - VI ZR 306/02
+- [BGH, Beschluss vom 30.09.2003 - VI ZR 363/02](vi-zr-363-02.md) — BGH, Beschluss vom 30.09.2003 - VI ZR 363/02
+- [BGH, Versäumnisurteil vom 30.09.2003 - VI ZR 438/02](vi-zr-438-02.md) — liegen. b) Ist der Parteivortrag im Berufungsverfahren ergänzt worden und hielt das Berufungsgericht eine weitere Beweisaufnahme für erforderlich, muß es im Urteil eine kurze …
 - [BGH, Beschluss vom 30.09.2003 - VI ZR 78/03](vi-zr-78-03.md) — BGH, Beschluss vom 30.09.2003 - VI ZR 78/03
+- [BGH, Urteil vom 30.09.2003 - VI ZR 89/02](vi-zr-89-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten Unterlassung der Verbreitung einer Fotomontage, die sie im Jahr 2000 auf mehreren Seiten ei
+- [BGH, Beschluss vom 24.09.2003 - VI ZA 12/03](vi-za-12-03.md) — BGH, Beschluss vom 24.09.2003 - VI ZA 12/03
+- [BGH, Beschluss vom 23.09.2003 - VI ZA 16/03](vi-za-16-03.md) — Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen Stand zu gewähren. Mit Verfügung vom 24. April 2003 hat der Vorsitzende der Be
+- [BGH, Beschluss vom 23.09.2003 - VI ZB 32/03](vi-zb-32-03.md) — I. Die Klägerin hat die Beklagte mit der vorliegenden Klage auf Schadensersatz in Anspruch genommen. Das Landgericht hat die Klage abgewiesen. Sein Urteil ist dem …
+- [BGH, Beschluss vom 23.09.2003 - VI ZB 34/03](vi-zb-34-03.md) — I. Die Klägerin hat die Beklagte vor dem Landgericht auf Schadensersatz und Schmerzensgeld nach einem Verkehrsunfall in Anspruch genommen. Das Landgericht hat das schriftliche …
+- [BGH, Urteil vom 23.09.2003 - VI ZR 335/02](vi-zr-335-02.md) — Tatbestand Die Beklagte ist ein Internetprovider, der u.a. K. und G. unter deren Internetdomains den Internetzugang sowie Webspace zur Verfü
+- [BGH, Urteil vom 23.09.2003 - VI ZR 395/02](vi-zr-395-02.md) — Tatbestand: Der Beklagte zu 1 (künftig: der Beklagte) machte am 17. Juni 1995 bei dem am 27. September 1952 geborenen Ehemann der Klägerin a
+- [BGH, Beschluss vom 23.09.2003 - VI ZR 82/03](vi-zr-82-03.md) — Aufklärungsversäumnissen aus. Einer Stellungnahme zum Urteil des Thüringischen Oberlandesgerichts Jena vom 3. Dezember 1997 (Versicherungsre
+- [BGH, Beschluss vom 11.08.2003 - VI ZR 192/03](vi-zr-192-03.md) — Die Beschwerde ist unzulässig, weil sie nicht von einem beim Bundesgerichtshof zugelassenen Rechtsanwalt innerhalb der Frist von einem Monat nach Zustellung des Urteils beim …
+- [BGH, Beschluss vom 17.07.2003 - VI ZR 44/03](vi-zr-44-03.md) — BGH, Beschluss vom 17.07.2003 - VI ZR 44/03
 - [BGH, Urteil vom 15.07.2003 - VI ZR 155/02](vi-zr-155-02.md) — 3-
 - [BGH, Urteil vom 15.07.2003 - VI ZR 203/02](vi-zr-203-02.md) — Tatbestand:
 - [BGH, Urteil vom 15.07.2003 - VI ZR 361/02](vi-zr-361-02.md) — Tatbestand: Der Kläger macht (restliche) Reparatur- und Mietwagenkosten aus einem Verkehrsunfall vom 30. Oktober 2000 gegen den Beklagten zu
 - [BGH, Beschluss vom 08.07.2003 - VI ZA 9/03](vi-za-9-03.md) — I. Der Kläger nimmt den Beklagten zu 1) als Kraftfahrzeughaftpflichtversicherer auf Schadensersatz aus einem Verkehrsunfall in Anspruch. Der Beklagte zu 1) hat sich unter anderem …
+- [BGH, Urteil vom 08.07.2003 - VI ZR 274/02](vi-zr-274-02.md) — Tatbestand:
 - [BGH, Urteil vom 08.07.2003 - VI ZR 304/02](vi-zr-304-02.md) — Tatbestand:
 - [BGH, Beschluss vom 24.06.2003 - VI ZB 10/03](vi-zb-10-03.md) — einer tätlichen Auseinandersetzung ein Schmerzensgeld von 5.000 ¡£¥¢ ¤¦¨¢ ¦§ ©   ¢  ¢ "! #¥¤$% & ¢ §$$# (' 0 ) ¢¨1© "0! ¦# ¦¤
 - [BGH, Beschluss vom 24.06.2003 - VI ZB 7/03](vi-zb-7-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen unterliegt (BGH, Beschluß vom 13. März 2003 – IX ZB 134/02 – NJW
+- [BGH, Beschluss vom 24.06.2003 - VI ZR 130/03](vi-zr-130-03.md) — eines im August 1998 fehlgeschlagenen Schwangerschaftsabbruchs auf Ersatz ihres Unterhaltsaufwandes für ihre am 23. März 1999 gesund geboren
 - [BGH, Urteil vom 24.06.2003 - VI ZR 256/02](vi-zr-256-02.md) — Verjährung (§ 3 Nr. 3 Satz 2 Halbsatz 2 PflVG) abgewiesener Geschädigter kann nicht mehr mit Erfolg gegen den Schädiger klagen.
 - [BGH, Beschluss vom 24.06.2003 - VI ZR 3/03](vi-zr-3-03.md) — BGH, Beschluss vom 24.06.2003 - VI ZR 3/03
+- [BGH, Beschluss vom 24.06.2003 - VI ZR 309/02](vi-zr-309-02.md) — Die Beschwerde gegen die Nichtzulassung der Revision ist statthaft und in förmlicher Hinsicht nicht zu beanstanden (§ 544 Abs.
 - [BGH, Beschluss vom 24.06.2003 - VI ZR 327/02](vi-zr-327-02.md) — vorgeworfener sexueller Mißbrauchshandlungen auf Schmerzensgeld und Feststellung einer Ersatzpflicht für sämtliche materiellen und immaterie
 - [BGH, Urteil vom 24.06.2003 - VI ZR 434/01](vi-zr-434-01.md) — Tatbestand:
+- [BGH, Beschluss vom 03.06.2003 - VI ZA 7/03](vi-za-7-03.md) — Der Antrag des Beklagten ist abzulehnen, weil die vom Beklagten beabsichtigte Einreichung einer Rechtsbeschwerde gegen den Beschluß des Oberlandesgerichts Nürnberg vom 14.
 - [BGH, Beschluss vom 03.06.2003 - VI ZR 206/02](vi-zr-206-02.md) — BGH, Beschluss vom 03.06.2003 - VI ZR 206/02
 - [BGH, Anerkenntnisurteil vom 03.06.2003 - VI ZR 370/02](vi-zr-370-02.md) — BGH, Anerkenntnisurteil vom 03.06.2003 - VI ZR 370/02
 - [BGH, Beschluss vom 27.05.2003 - VI ZB 77/02](vi-zb-77-02.md) — I. Das Amtsgericht hat die vom Kläger erhobene Klage durch Urteil vom 22. Mai 2002 abgewiesen. Die Zustellung dieses Urteils an den erstinstanzlichen Prozeßbevollmächtigten des …
+- [BGH, Beschluss vom 27.05.2003 - VI ZR 355/02](vi-zr-355-02.md) — eines Schreibfehlers im Leitsatz dahin berichtigt, daß als Vorinstanzen "Schleswig-Holsteinisches Oberlandesgericht" und "LG Itzehoe genannt
 - [BGH, Beschluss vom 27.05.2003 - VI ZR 389/02](vi-zr-389-02.md) — I. Die Kläger waren als polnische Staatsbürger mosaischen Glaubens im Konzentrationslager Auschwitz inhaftiert. In den Jahren zwischen 1942 und 1945 mußten sie in dem Werkkomplex …
+- [BGH, Urteil vom 20.05.2003 - VI ZR 312/02](vi-zr-312-02.md) — Tatbestand: Der Kläger verlangt Schadensersatz für ein im Zwangsversteigerungsverfahren für ein Grundstück abgegebenes Gebot. Der Beklagte i
+- [BGH, Beschluss vom 15.05.2003 - VI ZA 4/03](vi-za-4-03.md) — BGH, Beschluss vom 15.05.2003 - VI ZA 4/03
+- [BGH, Beschluss vom 13.05.2003 - VI ZB 22/03](vi-zb-22-03.md) — I. Der Kläger beantragt die Beiordnung eines Rechtsanwalts für die Durchführung einer Rechtsbeschwerde gegen einen ihn beschwerenden Beschluß, mit dem das Landgericht seine …
 - [BGH, Beschluss vom 13.05.2003 - VI ZB 76/02](vi-zb-76-02.md) — BGH, Beschluss vom 13.05.2003 - VI ZB 76/02
 - [BGH, Urteil vom 13.05.2003 - VI ZR 430/02](vi-zr-430-02.md) — Tatbestand:
 - [BGH, Beschluss vom 06.05.2003 - VI ZR 107/03](vi-zr-107-03.md) — "greifbarer Gesetzwidrigkeit") zulässig, weil im Hinblick auf die gesetzliche Neuregelung des Beschwerderechts durch das Zivilprozeßreformge
 - [BGH, Urteil vom 06.05.2003 - VI ZR 259/02](vi-zr-259-02.md) — Tatbestand: Die Klägerin nimmt die Beklagten wegen behaupteter ärztlicher Behandlungsfehler auf Schmerzensgeld und Feststellung der Ersatzpf
+- [BGH, Beschluss vom 29.04.2003 - VI ZB 42/02](vi-zb-42-02.md) — der von ihm bejahten grundsätzlichen Bedeutung der Rechtssache gem. § 568 Satz 2 Nr. 2 ZPO auf den Kollegialspruchkörper übertragen müssen.
 - [BGH, Beschluss vom 29.04.2003 - VI ZR 216/02](vi-zr-216-02.md) — BGH, Beschluss vom 29.04.2003 - VI ZR 216/02
+- [BGH, Beschluss vom 29.04.2003 - VI ZR 260/02](vi-zr-260-02.md) — der winterlichen Witterung auf dem Zuweg zu einem Bahnsteig aufgebracht wurde, nicht zeitnah nach Beruhigung der winterlichen Wetterlage ent
 - [BGH, Urteil vom 29.04.2003 - VI ZR 393/02](vi-zr-393-02.md) — Tatbestand: Der Kläger begehrt Ersatz seines restlichen Sachschadens aus einem Verkehrsunfall, für den die Beklagte als Haftpflichtversicher
+- [BGH, Urteil vom 29.04.2003 - VI ZR 398/02](vi-zr-398-02.md) — Tatbestand: Die Klägerin begehrt Ersatz restlichen Sachschadens aus einem Verkehrsunfall, für dessen Folgen die Beklagte zu 1 als Unfallgegn
 - [BGH, Beschluss vom 08.04.2003 - VI ZB 67/02](vi-zb-67-02.md) — eines Verkehrsunfalls auf restlichen
 - [BGH, Beschluss vom 08.04.2003 - VI ZB 79/02](vi-zb-79-02.md) — eines Verkehrsunfalls auf restli-
 - [BGH, Urteil vom 08.04.2003 - VI ZR 251/02](vi-zr-251-02.md) — Tatbestand:
+- [BGH, Urteil vom 08.04.2003 - VI ZR 265/02](vi-zr-265-02.md) — Tatbestand:
 - [BGH, Beschluss vom 02.04.2003 - VI ZA 3/03](vi-za-3-03.md) — BGH, Beschluss vom 02.04.2003 - VI ZA 3/03
+- [BGH, Beschluss vom 01.04.2003 - VI ZB 54/02](vi-zb-54-02.md) — der angeblich bei einem Verkehrsunfall entstandenen Schäden in Anspruch genommen. Noch vor Klageerhebung beauftragte er einen Privatgutachte
+- [BGH, Urteil vom 01.04.2003 - VI ZR 321/02](vi-zr-321-02.md) — Tatbestand: Der Kläger und der Beklagte zu 1) nahmen am 6. August 2000 mit ihren Porsche-Kraftfahrzeugen an einer vom Porsche Club Schwaben
 - [BGH, Beschluss vom 01.04.2003 - VI ZR 366/02](vi-zr-366-02.md) — I. Der Kläger betreibt in H. eine gynäkologische Praxis. In deren unmittelbarer Nähe verteilte der Beklagte im Oktober 2001 durch Einwerfen in Briefkästen und Anheften an …
 - [BGH, Beschluss vom 25.03.2003 - VI ZB 53/02](vi-zb-53-02.md) — I. Die Parteien haben am 19. Dezember 2001 vor dem Oberlandesgericht einen Vergleich geschlossen. Danach hat die Erstbeklagte die Kosten des Rechtsstreits zu tragen. Den …
+- [BGH, Beschluss vom 25.03.2003 - VI ZB 55/02](vi-zb-55-02.md) — I. Durch Urteil des Landgerichts F. vom 28. Februar 2002 ist die Klage auf Zahlung von Schmerzensgeld und Feststellung der Einstands- pflicht der Beklagten für künftige materielle …
+- [BGH, Beschluss vom 25.03.2003 - VI ZB 71/02](vi-zb-71-02.md) — hat die Staatskasse den Beklagten zu 2 im Hinblick auf die von ihm erhobene Drittwiderklage als Kostenschuldner in Anspruch genommen. Darauf
 - [BGH, Urteil vom 25.03.2003 - VI ZR 131/02](vi-zr-131-02.md) — nicht ausreichender oder nicht rechtzeitiger Aufklärung ent-
+- [BGH, Urteil vom 25.03.2003 - VI ZR 161/02](vi-zr-161-02.md) — 3-
+- [BGH, Urteil vom 25.03.2003 - VI ZR 175/02](vi-zr-175-02.md) — Tatbestand: Die klagende Sparkasse macht Ansprüche auf Erstattung von Rechtsverteidigungskosten aus einem Rechtsstreit geltend, den der Bekl
 - [BGH, Beschluss vom 18.03.2003 - VI ZB 68/02](vi-zb-68-02.md) — BGH, Beschluss vom 18.03.2003 - VI ZB 68/02
+- [BGH, Urteil vom 18.03.2003 - VI ZR 152/02](vi-zr-152-02.md) — Tatbestand: Die Klägerin, ein zur Rechtsberatung zugelassenes Inkassobüro, macht mit der Klage gegen die Beklagte, einen Kraftfahrzeughaftpf
 - [BGH, Urteil vom 18.03.2003 - VI ZR 266/02](vi-zr-266-02.md) — Tatbestand: Die Klägerin verlangt Ersatz materiellen und immateriellen Schadens sowie die Feststellung der Einstandspflicht des Beklagten fü
+- [BGH, Beschluss vom 10.03.2003 - VI ZR 333/02](vi-zr-333-02.md) — Die Gegenvorstellungen geben dem Senat keine Veranlassung, den ¢¤¡ £¦¥¨§©£¡ ¥ § ¡   !
 - [BGH, Beschluss vom 18.02.2003 - VI ZA 11/02](vi-za-11-02.md) — BGH, Beschluss vom 18.02.2003 - VI ZA 11/02
 - [BGH, Beschluss vom 18.02.2003 - VI ZR 282/02](vi-zr-282-02.md) — BGH, Beschluss vom 18.02.2003 - VI ZR 282/02
+- [BGH, Beschluss vom 11.02.2003 - VI ZB 38/02](vi-zb-38-02.md) — einer Lebensmittelvergiftung von dem Beklagten im Wege der abgesonderten Befriedigung gem. § 157 VVG Ersatz materieller und immaterieller Sc
 - [BGH, Beschluss vom 11.02.2003 - VI ZR 140/02](vi-zr-140-02.md) — BGH, Beschluss vom 11.02.2003 - VI ZR 140/02
+- [BGH, Beschluss vom 11.02.2003 - VI ZR 158/02](vi-zr-158-02.md) — Die Beschwerde zeigt nicht auf, daß die Rechtssache grundsätzliche Bedeutung hat oder die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine …
 - [BGH, Urteil vom 11.02.2003 - VI ZR 34/02](vi-zr-34-02.md) — Tatbestand: Der Kläger verlangt von dem Beklagten, einem ehemaligen Mitschüler, Ersatz wegen des Personenschadens, den er bei einem Schulunf
+- [BGH, Anerkenntnisurteil vom 04.02.2003 - VI ZR 294/02](vi-zr-294-02.md) — BGH, Anerkenntnisurteil vom 04.02.2003 - VI ZR 294/02
+- [BGH, Beschluss vom 28.01.2003 - VI ZB 2/03](vi-zb-2-03.md) — "greifbarer Gesetzwidrigkeit") zulässig, weil im Hinblick auf die gesetzliche Neuregelung des Beschwerderechts durch das Zivilprozessreformg
+- [BGH, Beschluss vom 28.01.2003 - VI ZB 29/02](vi-zb-29-02.md) — Versäumung der Berufungsfrist als unzulässig verworfen. Maßgeblich sei der Eingang des Fax beim Landgericht am 27. März 2002. Der von der Kl
 - [BGH, Urteil vom 28.01.2003 - VI ZR 139/02](vi-zr-139-02.md) — Tatbestand: Der Kläger macht Schadensersatzansprüche aus einem Verkehrsunfall geltend. Am 25. März 1992 fuhr der Beklagte zu 1 gegen 9.30 Uh
+- [BGH, Urteil vom 28.01.2003 - VI ZR 263/02](vi-zr-263-02.md) — Tatbestand:
+- [BGH, Beschluss vom 21.01.2003 - VI ZB 51/02](vi-zb-51-02.md) — einer Funktionseinschränkung an ihrer rechten Hand nach einer Behandlung durch den Antragsgegner. Sie behauptet, es seien bei einem operativ
+- [BGH, Beschluss vom 14.01.2003 - VI ZR 322/02](vi-zr-322-02.md) — . Die Einheitlichkeit der Rechtsprechung erfordert im vorliegenden Fall keine höchstrichterliche Entscheidung. Eine Divergenz ist nicht aufgezeigt (vgl. hierzu BGH, Beschlüsse vom …
+- [BGH, Beschluss vom 13.01.2003 - VI ZB 74/02](vi-zb-74-02.md) — Untätigkeit und Nichterlaß von beantragten Entscheidungen (angegebene Aktenzeichen: 7 C 216/02, 7 C 504/02, 7 C 728/02 AG Leonberg; 6 T 45/0

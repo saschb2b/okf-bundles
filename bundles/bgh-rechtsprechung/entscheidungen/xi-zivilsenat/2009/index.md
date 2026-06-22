@@ -1,11 +1,18 @@
 # XI. Zivilsenat – 2009
 
-43 Entscheidung(en).
+118 Entscheidung(en).
 
 - [BGH, Urteil vom 15.12.2009 - XI ZR 107/08](xi-zr-107-08.md) — Tatbestand:
+- [BGH, Urteil vom 15.12.2009 - XI ZR 110/09](xi-zr-110-09.md) — Tatbestand:
 - [BGH, Beschluss vom 15.12.2009 - XI ZR 141/09](xi-zr-141-09.md) — BGH, Beschluss vom 15.12.2009 - XI ZR 141/09
 - [BGH, Urteil vom 15.12.2009 - XI ZR 45/09](xi-zr-45-09.md) — Tatbestand:
+- [BGH, Beschluss vom 08.12.2009 - XI ZB 25/09](xi-zb-25-09.md) — fehlerhafter Anlagebe-
 - [BGH, Beschluss vom 08.12.2009 - XI ZB 27/09](xi-zb-27-09.md) — fehlerhafter Anlagebe-
+- [BGH, Urteil vom 08.12.2009 - XI ZR 181/08](xi-zr-181-08.md) — Tatbestand:
+- [BGH, Urteil vom 08.12.2009 - XI ZR 182/08](xi-zr-182-08.md) — Tatbestand:
+- [BGH, Urteil vom 08.12.2009 - XI ZR 183/08](xi-zr-183-08.md) — Tatbestand:
+- [BGH, Beschluss vom 08.12.2009 - XI ZR 185/08](xi-zr-185-08.md) — BGH, Beschluss vom 08.12.2009 - XI ZR 185/08
+- [BGH, Urteil vom 24.11.2009 - XI ZR 260/08](xi-zr-260-08.md) — Tatbestand:
 - [BGH, Urteil vom 24.11.2009 - XI ZR 332/08](xi-zr-332-08.md) — Tatbestand:
 - [BGH, Beschluss vom 17.11.2009 - XI ZB 6/09](xi-zb-6-09.md) — BGH, Beschluss vom 17.11.2009 - XI ZB 6/09
 - [BGH, Urteil vom 17.11.2009 - XI ZR 36/09](xi-zr-36-09.md) — Tatbestand:
@@ -13,12 +20,30 @@
 - [BGH, Beschluss vom 10.11.2009 - XI ZB 14/09](xi-zb-14-09.md) — BGH, Beschluss vom 10.11.2009 - XI ZB 14/09
 - [BGH, Beschluss vom 10.11.2009 - XI ZB 15/09](xi-zb-15-09.md) — I. 1 Die Parteien streiten um die von den Klägern begehrte Rückabwicklung eines zur Finanzierung einer Fondsbeteiligung gewährten Darlehens. 2 Gegen das Urteil des Landgerichts …
 - [BGH, Beschluss vom 10.11.2009 - XI ZB 16/09](xi-zb-16-09.md) — BGH, Beschluss vom 10.11.2009 - XI ZB 16/09
+- [BGH, Beschluss vom 10.11.2009 - XI ZB 29/09](xi-zb-29-09.md) — fehlerhafter Anlagebe-
+- [BGH, Beschluss vom 10.11.2009 - XI ZB 30/09](xi-zb-30-09.md) — fehlerhafter Anlagebe-
+- [BGH, Urteil vom 10.11.2009 - XI ZR 163/09](xi-zr-163-09.md) — Tatbestand:
 - [BGH, Urteil vom 10.11.2009 - XI ZR 232/08](xi-zr-232-08.md) — Tatbestand:
 - [BGH, Urteil vom 10.11.2009 - XI ZR 252/08](xi-zr-252-08.md) — Verschuldens bei Vertragsschluss, bei denen zunächst eine wirksame vertragliche Verpflichtung des arglistig getäuschten Kreditnehmers bestan
 - [BGH, Urteil vom 27.10.2009 - XI ZR 225/08](xi-zr-225-08.md) — Tatbestand:
+- [BGH, Urteil vom 27.10.2009 - XI ZR 337/08](xi-zr-337-08.md) — Tatbestand:
+- [BGH, Urteil vom 27.10.2009 - XI ZR 338/08](xi-zr-338-08.md) — 3-
+- [BGH, Beschluss vom 20.10.2009 - XI ZB 36/09](xi-zb-36-09.md) — unrichtiger Sachbehandlung durch das Berufungsgericht bei dessen mit der Rechtsbeschwerde angegriffener Entscheidung gemäß § 21 Abs. 1 GKG n
 - [BGH, Beschluss vom 20.10.2009 - XI ZR 261/08](xi-zr-261-08.md) — BGH, Beschluss vom 20.10.2009 - XI ZR 261/08
+- [BGH, Beschluss vom 06.10.2009 - XI ZB 17/09](xi-zb-17-09.md) — fehlerhafter Anlageberatung im
+- [BGH, Beschluss vom 06.10.2009 - XI ZB 18/09](xi-zb-18-09.md) — fehlerhafter Anlageberatung im
+- [BGH, Beschluss vom 06.10.2009 - XI ZB 20/09](xi-zb-20-09.md) — fehlerhafter Anlageberatung im
+- [BGH, Beschluss vom 06.10.2009 - XI ZB 21/09](xi-zb-21-09.md) — fehlerhafter Anlageberatung im
+- [BGH, Beschluss vom 29.09.2009 - XI ZR 102/08](xi-zr-102-08.md) — BGH, Beschluss vom 29.09.2009 - XI ZR 102/08
 - [BGH, Urteil vom 29.09.2009 - XI ZR 179/07](xi-zr-179-07.md) — Tatbestand:
+- [BGH, Beschluss vom 29.09.2009 - XI ZR 204/08](xi-zr-204-08.md) — der Begründung nimmt der Senat auf das Schreiben seines Vorsitzenden vom 23. Juni 2009 Bezug (§ 552 a Satz 2, § 522 Abs. 2 Satz 3 ZPO). Der
+- [BGH, Beschluss vom 29.09.2009 - XI ZR 37/08](xi-zr-37-08.md) — lag, ist hier mit Rücksicht auf das Vorbringen der Nichtzulassungsbeschwerde nicht veranlasst, die ihrerseits mit der Beschwerdebegründung ausdrücklich geltend gemacht hat, mit …
+- [BGH, Beschluss vom 29.09.2009 - XI ZR 44/09](xi-zr-44-09.md) — des Grundschuldbetrages nebst Zinsen und Nebenleistungen gesamtschuldnerisch die persönliche Haftung und unterwarf beide Kläger der sofortig
+- [BGH, Beschluss vom 29.09.2009 - XI ZR 498/07](xi-zr-498-07.md) — BGH, Beschluss vom 29.09.2009 - XI ZR 498/07
+- [BGH, Beschluss vom 22.09.2009 - XI ZR 1/09](xi-zr-1-09.md) — BGH, Beschluss vom 22.09.2009 - XI ZR 1/09
 - [BGH, Urteil vom 22.09.2009 - XI ZR 230/08](xi-zr-230-08.md) — Tatbestand:
+- [BGH, Urteil vom 22.09.2009 - XI ZR 286/08](xi-zr-286-08.md) — 3-
+- [BGH, Beschluss vom 22.09.2009 - XI ZR 356/08](xi-zr-356-08.md) — legen wollen, so dass zu erwarten ist, dass es künftig den Einwand aus § 797 BGB zutreffend berücksichtigen wird.
 - [BGH, Beschluss vom 22.09.2009 - XI ZR 381/08](xi-zr-381-08.md) — legen wollen, so dass zu erwarten ist, dass es künftig den Einwand aus § 797 BGB zutreffend berücksichtigen wird.
 - [BGH, Beschluss vom 17.09.2009 - XI ZR 264/08](xi-zr-264-08.md) — BGH, Beschluss vom 17.09.2009 - XI ZR 264/08
 - [BGH, Beschluss vom 15.09.2009 - XI ZB 29/08](xi-zb-29-08.md) — I. 1 Die Klägerin nimmt die Beklagte aus einer Bürgschaft in Anspruch, die diese für die Verbindlichkeiten einer inzwischen insolventen GmbH übernom- men hat. Das Landgericht hat …
@@ -28,20 +53,70 @@
 - [BGH, Beschluss vom 08.09.2009 - XI ZB 35/08](xi-zb-35-08.md) — fehlerhafter Anlagebe-
 - [BGH, Beschluss vom 08.09.2009 - XI ZB 36/08](xi-zb-36-08.md) — fehlerhafter Anlagebe-
 - [BGH, Beschluss vom 08.09.2009 - XI ZB 37/08](xi-zb-37-08.md) — fehlerhafter Anlagebe-
+- [BGH, Beschluss vom 08.09.2009 - XI ZB 38/08](xi-zb-38-08.md) — fehlerhafter Anlageberatung im Zu-
+- [BGH, Beschluss vom 08.09.2009 - XI ZB 4/09](xi-zb-4-09.md) — fehlerhafter Anlageberatung im Zu-
+- [BGH, Beschluss vom 08.09.2009 - XI ZB 7/09](xi-zb-7-09.md) — fehlerhafter Anlageberatung im Zu-
+- [BGH, Beschluss vom 08.09.2009 - XI ZB 8/09](xi-zb-8-09.md) — fehlerhafter Anlageberatung im Zu-
 - [BGH, Beschluss vom 08.09.2009 - XI ZB 9/09](xi-zb-9-09.md) — fehlerhafter Anlageberatung im Zu-
+- [BGH, Urteil vom 14.07.2009 - XI ZR 152/08](xi-zr-152-08.md) — 3-
+- [BGH, Urteil vom 14.07.2009 - XI ZR 153/08](xi-zr-153-08.md) — 3-
+- [BGH, Beschluss vom 14.07.2009 - XI ZR 569/07](xi-zr-569-07.md) — Soweit sich die Beschwerde gegen die aus Rechtsgründen nicht haltbaren Ausführungen des Berufungsgerichts zur anderweitigen Rechtshängigkeit und zum Fehlen eines …
+- [BGH, Beschluss vom 07.07.2009 - XI ZR 113/08](xi-zr-113-08.md) — BGH, Beschluss vom 07.07.2009 - XI ZR 113/08
 - [BGH, Beschluss vom 07.07.2009 - XI ZR 21/08](xi-zr-21-08.md) — der Begründung nimmt der Senat auf das Schreiben seines Vorsitzenden vom 19. Mai 2009 Bezug (§ 552 a Satz 2, § 522 Abs. 2 Satz 3 ZPO).
+- [BGH, Urteil vom 30.06.2009 - XI ZR 291/08](xi-zr-291-08.md) — Tatbestand:
+- [BGH, Urteil vom 30.06.2009 - XI ZR 364/08](xi-zr-364-08.md) — Tatbestand:
+- [BGH, Urteil vom 23.06.2009 - XI ZR 156/08](xi-zr-156-08.md) — eines vorrangigen Widerrufsrechts in Bezug auf das Verbundgeschäft zu belehren habe und allein der Vertragspartner des finanzierten Geschäft
 - [BGH, Urteil vom 23.06.2009 - XI ZR 171/08](xi-zr-171-08.md) — Tatbestand:
 - [BGH, Beschluss vom 23.06.2009 - XI ZR 309/08](xi-zr-309-08.md) — BGH, Beschluss vom 23.06.2009 - XI ZR 309/08
+- [BGH, Beschluss vom 23.06.2009 - XI ZR 9/08](xi-zr-9-08.md) — I. 1 Der Kläger fordert die Rückzahlung von insgesamt 61.968,58 €, die er nach seinem Vortrag auf einen mit der Beklagten geschlossenen Darlehensvertrag erbracht hat, sowie …
+- [BGH, Beschluss vom 16.06.2009 - XI ZB 31/08](xi-zb-31-08.md) — fehlerhafter Anlageberatung
+- [BGH, Beschluss vom 16.06.2009 - XI ZB 33/08](xi-zb-33-08.md) — fehlerhafter Anlageberatung, in denen kein zulässiger Musterfeststellungsantrag nach § 1 KapitalanlegerMusterverfahrensgesetz (KapMuG) geste
+- [BGH, Versäumnisurteil vom 16.06.2009 - XI ZR 145/08](xi-zr-145-08.md) — Tatbestand:
 - [BGH, Beschluss vom 16.06.2009 - XI ZR 22/08](xi-zr-22-08.md) — der Begründung nimmt der Senat auf das Schreiben seines Vorsitzenden vom 4. Mai 2009 Bezug (§ 552a Satz 2, § 522 Abs. 2 Satz 3 ZPO).
+- [BGH, Urteil vom 16.06.2009 - XI ZR 539/07](xi-zr-539-07.md) — 3-
+- [BGH, Beschluss vom 16.06.2009 - XI ZR 85/08](xi-zr-85-08.md) — BGH, Beschluss vom 16.06.2009 - XI ZR 85/08
+- [BGH, Beschluss vom 26.05.2009 - XI ZR 118/09](xi-zr-118-09.md) — BGH, Beschluss vom 26.05.2009 - XI ZR 118/09
 - [BGH, Urteil vom 26.05.2009 - XI ZR 242/08](xi-zr-242-08.md) — BGH, Urteil vom 26.05.2009 - XI ZR 242/08
+- [BGH, Beschluss vom 19.05.2009 - XI ZR 342/08](xi-zr-342-08.md) — BGH, Beschluss vom 19.05.2009 - XI ZR 342/08
+- [BGH, Beschluss vom 19.05.2009 - XI ZR 345/08](xi-zr-345-08.md) — BGH, Beschluss vom 19.05.2009 - XI ZR 345/08
+- [BGH, Beschluss vom 19.05.2009 - XI ZR 346/08](xi-zr-346-08.md) — BGH, Beschluss vom 19.05.2009 - XI ZR 346/08
+- [BGH, Beschluss vom 18.05.2009 - XI ZR 178/08](xi-zr-178-08.md) — BGH, Beschluss vom 18.05.2009 - XI ZR 178/08
+- [BGH, Beschluss vom 12.05.2009 - XI ZB 21/08](xi-zb-21-08.md) — I. 1 Der Kläger nimmt die beklagte Bank im Zusammenhang mit Wert- papiergeschäften auf Schadensersatz in Anspruch. -3- 2 Der Kläger, der "C. Zertifikate" mehr- fach zu Kursen …
+- [BGH, Urteil vom 12.05.2009 - XI ZR 586/07](xi-zr-586-07.md) — Tatbestand:
+- [BGH, Urteil vom 28.04.2009 - XI ZR 227/08](xi-zr-227-08.md) — Tatbestand:
+- [BGH, Urteil vom 28.04.2009 - XI ZR 228/08](xi-zr-228-08.md) — Tatbestand:
+- [BGH, Beschluss vom 28.04.2009 - XI ZR 26/08](xi-zr-26-08.md) — BGH, Beschluss vom 28.04.2009 - XI ZR 26/08
+- [BGH, Urteil vom 28.04.2009 - XI ZR 86/08](xi-zr-86-08.md) — Tatbestand:
+- [BGH, Urteil vom 21.04.2009 - XI ZR 148/08](xi-zr-148-08.md) — Tatbestand:
+- [BGH, Urteil vom 21.04.2009 - XI ZR 55/08](xi-zr-55-08.md) — Tatbestand:
 - [BGH, Urteil vom 21.04.2009 - XI ZR 78/08](xi-zr-78-08.md) — oder aufgrund einer vertraglichen Nebenpflicht verpflichtet ist oder die sie im eigenen Interesse vornimmt. Ein solches Entgeltfestsetzungsr
 - [BGH, Beschluss vom 20.04.2009 - XI ZA 11/08](xi-za-11-08.md) — Der Antrag der Kläger auf Bewilligung von Prozesskostenhilfe war abzulehnen, da die beabsichtigte Rechtsbeschwerde mangels Darlegung der Zulässigkeitsvoraussetzungen nach § 574 …
+- [BGH, Urteil vom 31.03.2009 - XI ZR 288/08](xi-zr-288-08.md) — Tatbestand:
+- [BGH, Urteil vom 24.03.2009 - XI ZR 191/08](xi-zr-191-08.md) — Tatbestand:
+- [BGH, Urteil vom 24.03.2009 - XI ZR 456/07](xi-zr-456-07.md) — 3-
+- [BGH, Urteil vom 17.03.2009 - XI ZR 124/08](xi-zr-124-08.md) — 3-
+- [BGH, Beschluss vom 17.03.2009 - XI ZR 142/08](xi-zr-142-08.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil der Wert der von der Klägerin mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
+- [BGH, Beschluss vom 10.03.2009 - XI ZR 18/08](xi-zr-18-08.md) — BGH, Beschluss vom 10.03.2009 - XI ZR 18/08
+- [BGH, Urteil vom 10.03.2009 - XI ZR 33/08](xi-zr-33-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.03.2009 - XI ZR 492/07](xi-zr-492-07.md) — Zahlungsunfähigkeit sorgfältig prüfen werde, wenn die Klägerin nicht kurzfristig auf 30% ihrer Forderungen verzichte. Die Klägerin kündigte
 - [BGH, Urteil vom 03.03.2009 - XI ZR 41/08](xi-zr-41-08.md) — Tatbestand:
 - [BGH, Beschluss vom 17.02.2009 - XI ZA 7/08](xi-za-7-08.md) — der zuviel gezahlten Zinsen auch kein Anspruch auf Tilgungsverrechnung, sondern – wie vom Landgericht zuerkannt – lediglich ein Anspruch auf
+- [BGH, Beschluss vom 27.01.2009 - XI ZB 28/08](xi-zb-28-08.md) — I. 1 Der Beklagte begehrt die Fortsetzung eines unterbrochenen Rechtsbeschwerdeverfahrens. 2 Das Landgericht hat ihn durch Wechselvorbehaltsurteil zur Zah- lung von 370.285,10 € …
+- [BGH, Beschluss vom 27.01.2009 - XI ZR 593/07](xi-zr-593-07.md) — BGH, Beschluss vom 27.01.2009 - XI ZR 593/07
+- [BGH, Beschluss vom 20.01.2009 - XI ZB 6/08](xi-zb-6-08.md) — I. 1 Die Kläger machen gegenüber der Beklagten Ansprüche im Zu- sammenhang mit einem Darlehen geltend, mit dem sie den Erwerb einer Eigentumswohnung finanziert haben. Das …
+- [BGH, Beschluss vom 20.01.2009 - XI ZR 450/07](xi-zr-450-07.md) — BGH, Beschluss vom 20.01.2009 - XI ZR 450/07
 - [BGH, Anerkenntnisurteil vom 20.01.2009 - XI ZR 451/07](xi-zr-451-07.md) — BGH, Anerkenntnisurteil vom 20.01.2009 - XI ZR 451/07
 - [BGH, Beschluss vom 20.01.2009 - XI ZR 483/07](xi-zr-483-07.md) — BGH, Beschluss vom 20.01.2009 - XI ZR 483/07
+- [BGH, Urteil vom 20.01.2009 - XI ZR 487/07](xi-zr-487-07.md) — Verstoßes gegen Art. 1 § 1 RBerG.
+- [BGH, Urteil vom 20.01.2009 - XI ZR 504/07](xi-zr-504-07.md) — Tatbestand:
 - [BGH, Beschluss vom 20.01.2009 - XI ZR 510/07](xi-zr-510-07.md) — fehler-
+- [BGH, Beschluss vom 20.01.2009 - XI ZR 545/07](xi-zr-545-07.md) — BGH, Beschluss vom 20.01.2009 - XI ZR 545/07
 - [BGH, Beschluss vom 20.01.2009 - XI ZR 576/07](xi-zr-576-07.md) — BGH, Beschluss vom 20.01.2009 - XI ZR 576/07
 - [BGH, Urteil vom 13.01.2009 - XI ZR 118/08](xi-zr-118-08.md) — Tatbestand:
+- [BGH, Beschluss vom 13.01.2009 - XI ZR 183/07](xi-zr-183-07.md) — BGH, Beschluss vom 13.01.2009 - XI ZR 183/07
 - [BGH, Urteil vom 13.01.2009 - XI ZR 47/08](xi-zr-47-08.md) — 3-
+- [BGH, Urteil vom 13.01.2009 - XI ZR 508/07](xi-zr-508-07.md) — Tatbestand:
 - [BGH, Urteil vom 13.01.2009 - XI ZR 509/07](xi-zr-509-07.md) — Tatbestand:
+- [BGH, Urteil vom 13.01.2009 - XI ZR 54/08](xi-zr-54-08.md) — Tatbestand:
+- [BGH, Urteil vom 13.01.2009 - XI ZR 66/08](xi-zr-66-08.md) — 3-
+- [BGH, Beschluss vom 12.01.2009 - XI ZR 89/07](xi-zr-89-07.md) — Das Urteil vom 7. Oktober 2008 wird gemäß § 319 ZPO dahingehend berichtigt, dass es in den Zeilen 4 und 5 der Textziffer 29 jeweils statt BGB richtig ZPO lauten muss. Nobbe Joeres …

@@ -1,49 +1,127 @@
 # VIII. Zivilsenat – 2006
 
-45 Entscheidung(en).
+123 Entscheidung(en).
 
 - [BGH, Urteil vom 20.12.2006 - VIII ZR 112/06](viii-zr-112-06.md) — Tatbestand:
+- [BGH, Urteil vom 20.12.2006 - VIII ZR 67/06](viii-zr-67-06.md) — Tatbestand:
 - [BGH, Beschluss vom 19.12.2006 - VIII ZB 49/06](viii-zb-49-06.md) — der Besorgnis der Befangenheit abgelehnt und ihm im Hin-
+- [BGH, Beschluss vom 19.12.2006 - VIII ZR 227/04](viii-zr-227-04.md) — Die Nichtzulassungsbeschwerde ist unzulässig.
 - [BGH, Urteil vom 13.12.2006 - VIII ZR 25/06](viii-zr-25-06.md) — Tatbestand:
+- [BGH, Urteil vom 13.12.2006 - VIII ZR 64/06](viii-zr-64-06.md) — Tatbestand:
 - [BGH, Urteil vom 29.11.2006 - VIII ZR 246/05](viii-zr-246-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.11.2006 - VIII ZB 116/05](viii-zb-116-05.md) — Versäumung der Berufungsbegründungsfrist als unzulässig verworfen. Hiergegen richtet sich die Rechtsbeschwerde des Klägers.
 - [BGH, Beschluss vom 28.11.2006 - VIII ZB 52/06](viii-zb-52-06.md) — I. 1 Das Endurteil des Amtsgerichts, mit dem der Beklagte verurteilt worden ist, an die Klägerin 1.490,37 Euro nebst Zinsen zu zahlen, ist der Hauptbevoll- mächtigten des …
+- [BGH, Beschluss vom 28.11.2006 - VIII ZB 9/06](viii-zb-9-06.md) — I. 1 Das Amtsgericht hat die Beklagte unter Abweisung der Klage im Übrigen verurteilt, der Erhöhung der Miete für ihre Wohnung von bisher monatlich 144,75 € netto auf nunmehr …
 - [BGH, Urteil vom 22.11.2006 - VIII ZR 72/06](viii-zr-72-06.md) — die vereinbarte Beschaffenheit "fahrbereit", weil der Motor wegen eines fortschreitenden Schadens nach einer Fahrtstrecke von höchsten 2.000
+- [BGH, Urteil vom 15.11.2006 - VIII ZR 166/06](viii-zr-166-06.md) — Mehrdeutigkeit nicht dahin auszulegen, dass die Unterrichtung des Verkäufers über die Geltendmachung von Ansprüchen des Käufers auf Mängelbe
+- [BGH, Urteil vom 15.11.2006 - VIII ZR 3/06](viii-zr-3-06.md) — eines Mangels der verkauften Sache abgekürzt wird, ist wegen Verstoßes gegen die Klauselverbote des § 309 Nr. 7 Buchst. a und b BGB insgesam
 - [BGH, Beschluss vom 07.11.2006 - VIII ZB 38/06](viii-zb-38-06.md) — BGH, Beschluss vom 07.11.2006 - VIII ZB 38/06
 - [BGH, Beschluss vom 07.11.2006 - VIII ZR 73/06](viii-zr-73-06.md) — zu legen hat. Für den vorliegenden Fall steht damit die sachliche Unzuständigkeit des von den Klägern erstinstanzlich angerufenen Landgerichts ohne Rücksicht darauf fest, ob das …
+- [BGH, Urteil vom 25.10.2006 - VIII ZR 102/06](viii-zr-102-06.md) — einer nicht unerheblichen Vertragsverletzung setzt nicht ein eigenes schuldhaftes Verhalten des Mieters voraus.
+- [BGH, Urteil vom 25.10.2006 - VIII ZR 23/06](viii-zr-23-06.md) — eines Rechts- oder Sachmangels nach gescheiterter Nacherfüllung den Rücktritt vom Vertrag, steht ihm daneben kein Schadensersatzanspruch weg
 - [BGH, Urteil vom 25.10.2006 - VIII ZR 251/05](viii-zr-251-05.md) — Tatbestand:
+- [BGH, Beschluss vom 18.10.2006 - VIII ZB 111/05](viii-zb-111-05.md) — I. 1 Die Beklagten hatten eine Wohnung der Kläger in D. gemietet. Sie kündigten das Mietverhältnis zum 30. September 2003. Nach der Räumung haben die Kläger von den Beklagten …
 - [BGH, Urteil vom 18.10.2006 - VIII ZR 52/06](viii-zr-52-06.md) — Tatbestand:
+- [BGH, Beschluss vom 17.10.2006 - VIII ZB 94/05](viii-zb-94-05.md) — grundsätzlicher
 - [BGH, Urteil vom 11.10.2006 - VIII ZR 148/05](viii-zr-148-05.md) — Tatbestand:
 - [BGH, Beschluss vom 11.10.2006 - VIII ZR 163/06](viii-zr-163-06.md) — BGH, Beschluss vom 11.10.2006 - VIII ZR 163/06
+- [BGH, Urteil vom 11.10.2006 - VIII ZR 270/05](viii-zr-270-05.md) — der Abweisung der Klage gegen den Beklagten zu 1 zurückgewiesen worden ist.
+- [BGH, Urteil vom 27.09.2006 - VIII ZR 19/04](viii-zr-19-04.md) — Tatbestand:
 - [BGH, Urteil vom 27.09.2006 - VIII ZR 217/05](viii-zr-217-05.md) — Verlusts des Leasingfahrzeugs Anspruch auf dessen Zeitwert oder den Restvertragswert in Höhe seines nicht amortisierten Gesamtaufwandes hat,
+- [BGH, Urteil vom 27.09.2006 - VIII ZR 80/06](viii-zr-80-06.md) — Tatbestand:
+- [BGH, Beschluss vom 26.09.2006 - VIII ZB 101/05](viii-zb-101-05.md) — I. 1 Das Landgericht hat durch Urteil vom 21. Juli 2005, das dem Kläger am 22. Juli 2005 zugestellt worden ist, die Klage abgewiesen. Eine Rechtsanwalts- fachangestellte im Büro …
+- [BGH, Beschluss vom 26.09.2006 - VIII ZR 180/04](viii-zr-180-04.md) — angeblicher Verzögerungen im Zusammenhang mit der fusionsbedingten neuen
 - [BGH, Urteil vom 20.09.2006 - VIII ZR 100/05](viii-zr-100-05.md) — Verstoßes gegen § 87c HGB unwirksam (Bestätigung von BGH, Urteil vom 20. Februar 1964 - VII ZR 147/62, LM Nr. 4a zu § 87c HGB).
+- [BGH, Urteil vom 20.09.2006 - VIII ZR 103/06](viii-zr-103-06.md) — Tatbestand:
 - [BGH, Urteil vom 20.09.2006 - VIII ZR 127/04](viii-zr-127-04.md) — Tatbestand:
 - [BGH, Beschluss vom 20.09.2006 - VIII ZR 141/05](viii-zr-141-05.md) — BGH, Beschluss vom 20.09.2006 - VIII ZR 141/05
+- [BGH, Urteil vom 20.09.2006 - VIII ZR 279/05](viii-zr-279-05.md) — Tatbestand:
 - [BGH, Beschluss vom 19.09.2006 - VIII ZB 42/05](viii-zb-42-05.md) — I. 1 Die Parteien streiten um das Eigentum an einem Kraftfahrzeug der Marke D. . Die vom Kläger erhobene Klage auf Feststellung, dass er gutgläubig Eigentum an dem Pkw erworben …
-- [BGH, Beschluss vom 16.08.2006 - VIII ZR 200/05](viii-zr-200-05.md) — BGH, Beschluss vom 16.08.2006 - VIII ZR 200/05
+- [BGH, Beschluss vom 19.09.2006 - VIII ZR 336/04](viii-zr-336-04.md) — bewilligt
+- [BGH, Urteil vom 13.09.2006 - VIII ZR 105/06](viii-zr-105-06.md) — Tatbestand:
+- [BGH, Urteil vom 13.09.2006 - VIII ZR 184/05](viii-zr-184-05.md) — Tatbestand:
+- [BGH, Urteil vom 13.09.2006 - VIII ZR 71/06](viii-zr-71-06.md) — Tatbestand:
+- [BGH, Urteil vom 19.07.2006 - VIII ZR 212/05](viii-zr-212-05.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 12.07.2006 - VIII ZR 215/05](viii-zr-215-05.md) — Tatbestand:
 - [BGH, Urteil vom 12.07.2006 - VIII ZR 235/04](viii-zr-235-04.md) — Tatbestand:
+- [BGH, Beschluss vom 05.07.2006 - VIII ZB 53/05](viii-zb-53-05.md) — I. 1 Die Klägerin hat die Beklagten zu 1 und 2 auf Räumung einer Wohnung und den Beklagten zu 1 zusätzlich auf Zahlung in Anspruch genommen. Beide Beklagten waren im Prozess durch …
+- [BGH, Urteil vom 05.07.2006 - VIII ZR 172/05](viii-zr-172-05.md) — Tatbestand:
+- [BGH, Urteil vom 05.07.2006 - VIII ZR 220/05](viii-zr-220-05.md) — Tatbestand:
+- [BGH, Beschluss vom 05.07.2006 - VIII ZR 258/05](viii-zr-258-05.md) — Nichterfüllung in Höhe von insge-
+- [BGH, Urteil vom 28.06.2006 - VIII ZR 124/05](viii-zr-124-05.md) — Verunreinigungen der Wohnung durch Tabakkonsum.
+- [BGH, Urteil vom 28.06.2006 - VIII ZR 255/05](viii-zr-255-05.md) — Tatbestand:
+- [BGH, Urteil vom 28.06.2006 - VIII ZR 350/04](viii-zr-350-04.md) — Tatbestand:
 - [BGH, Urteil vom 19.06.2006 - VIII ZR 284/05](viii-zr-284-05.md) — eines Mangels der Mietsache, der vor der Veräußerung entstanden ist. Vom Zeitpunkt der Veräußerung an ist nur noch der Erwerber zur Mangelbe
+- [BGH, Urteil vom 14.06.2006 - VIII ZR 128/05](viii-zr-128-05.md) — Tatbestand:
+- [BGH, Urteil vom 14.06.2006 - VIII ZR 135/05](viii-zr-135-05.md) — Tatbestand:
 - [BGH, Urteil vom 14.06.2006 - VIII ZR 257/04](viii-zr-257-04.md) — 3-
+- [BGH, Urteil vom 14.06.2006 - VIII ZR 261/04](viii-zr-261-04.md) — 3-
+- [BGH, Beschluss vom 13.06.2006 - VIII ZR 146/05](viii-zr-146-05.md) — BGH, Beschluss vom 13.06.2006 - VIII ZR 146/05
 - [BGH, Beschluss vom 07.06.2006 - VIII ZB 108/05](viii-zb-108-05.md) — I. 1 Die Klägerin hat ein Versäumnisurteil vom 18. Januar 2005 nach § 331 Abs. 3 ZPO über eine Klageforderung von 122.455,66 € erwirkt. Nachdem der Beklagte hiergegen Einspruch …
 - [BGH, Beschluss vom 07.06.2006 - VIII ZB 96/05](viii-zb-96-05.md) — I. 1 Der Kläger ist Eigentümer einer in H. gelegenen Wohnung. Mit der Behauptung, der Beklagte habe die Wohnung nach dem Auszug der Miete- rin mehrere Monate unberechtigt genutzt …
+- [BGH, Urteil vom 07.06.2006 - VIII ZR 180/05](viii-zr-180-05.md) — Tatbestand:
+- [BGH, Urteil vom 07.06.2006 - VIII ZR 209/05](viii-zr-209-05.md) — Unmöglichkeit ausgeschlossen. Möglich ist die Ersatzlieferung nach der Vorstellung der Parteien dann, wenn die Kaufsache im Falle ihrer Mang
 - [BGH, Beschluss vom 07.06.2006 - VIII ZR 229/04](viii-zr-229-04.md) — die-
+- [BGH, Urteil vom 31.05.2006 - VIII ZR 159/05](viii-zr-159-05.md) — fehlender Erfassung des Verbrauchs der einzelnen Mieter nach der Wohnfläche abgerechnet werden.
+- [BGH, Beschluss vom 23.05.2006 - VIII ZR 28/06](viii-zr-28-06.md) — Eigen-
+- [BGH, Beschluss vom 17.05.2006 - VIII ZA 2/06](viii-za-2-06.md) — BGH, Beschluss vom 17.05.2006 - VIII ZA 2/06
+- [BGH, Beschluss vom 17.05.2006 - VIII ZA 9/06](viii-za-9-06.md) — BGH, Beschluss vom 17.05.2006 - VIII ZA 9/06
 - [BGH, Beschluss vom 17.05.2006 - VIII ZB 15/06](viii-zb-15-06.md) — grundsätzlicher Bedeutung zugelassen
+- [BGH, Beschluss vom 17.05.2006 - VIII ZB 21/06](viii-zb-21-06.md) — Die Rechtsbeschwerde ist unzulässig, weil sie nicht von einem beim Bundesgerichtshof zugelassenen Rechtsanwalt eingelegt worden ist (§ 78 Abs.
+- [BGH, Beschluss vom 17.05.2006 - VIII ZB 31/05](viii-zb-31-05.md) — I. 1 Die Beklagten sind Mieter einer Wohnung im Hause der Klägerin. Die Klägerin verlangt von den Beklagten die Beseitigung einer Satellitenempfangs- antenne, die diese auf dem …
+- [BGH, Beschluss vom 17.05.2006 - VIII ZB 32/05](viii-zb-32-05.md) — I. 1 Die Beklagten sind Mieter einer Wohnung im Hause der Klägerin. Die Klägerin verlangt von den Beklagten die Beseitigung einer Satellitenempfangs- antenne, die diese auf der …
+- [BGH, Urteil vom 17.05.2006 - VIII ZR 244/04](viii-zr-244-04.md) — Tatbestand:
+- [BGH, Beschluss vom 03.05.2006 - VIII ZB 88/05](viii-zb-88-05.md) — I. 1 Die Kläger haben die Beklagten auf Zahlung rückständiger Wohnraummie- te und Nebenkosten in Anspruch genommen. Die Klageschrift, in der die Kläger ihren Wohnort in …
+- [BGH, Urteil vom 03.05.2006 - VIII ZR 168/05](viii-zr-168-05.md) — 3-
+- [BGH, Urteil vom 03.05.2006 - VIII ZR 183/05](viii-zr-183-05.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2006 - VIII ZR 210/05](viii-zr-210-05.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2006 - VIII ZR 223/05](viii-zr-223-05.md) — Dr. Deppert
+- [BGH, Urteil vom 03.05.2006 - VIII ZR 243/05](viii-zr-243-05.md) — Tatbestand:
 - [BGH, Beschluss vom 25.04.2006 - VIII ZB 30/06](viii-zb-30-06.md) — BGH, Beschluss vom 25.04.2006 - VIII ZB 30/06
+- [BGH, Versäumnisurteil vom 05.04.2006 - VIII ZR 106/05](viii-zr-106-05.md) — Tatbestand:
 - [BGH, Urteil vom 05.04.2006 - VIII ZR 109/05](viii-zr-109-05.md) — unangemessener Benachteiligung des Mieters unwirksam.
 - [BGH, Urteil vom 05.04.2006 - VIII ZR 152/05](viii-zr-152-05.md) — unangemessener Benachteiligung des Mieters unwirksam.
+- [BGH, Urteil vom 05.04.2006 - VIII ZR 163/05](viii-zr-163-05.md) — Tatbestand:
 - [BGH, Urteil vom 05.04.2006 - VIII ZR 178/05](viii-zr-178-05.md) — Tatbestand:
+- [BGH, Urteil vom 05.04.2006 - VIII ZR 283/05](viii-zr-283-05.md) — Tatbestand:
 - [BGH, Urteil vom 05.04.2006 - VIII ZR 384/04](viii-zr-384-04.md) — 3-
+- [BGH, Urteil vom 29.03.2006 - VIII ZR 173/05](viii-zr-173-05.md) — der Art des Mangels bei bestimmten Tierkrankheiten ausgeschlossen sein; bei einer saisonal sichtbaren Allergie - hier: Sommerekzem eines Pfe
+- [BGH, Urteil vom 29.03.2006 - VIII ZR 191/05](viii-zr-191-05.md) — Tatbestand:
 - [BGH, Urteil vom 29.03.2006 - VIII ZR 250/05](viii-zr-250-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.03.2006 - VIII ZB 100/04](viii-zb-100-04.md) — Nichtgewährung
 - [BGH, Beschluss vom 28.03.2006 - VIII ZB 29/05](viii-zb-29-05.md) — I. 1 Die Klägerin erwarb von der Beklagten gemäß Bestellung vom 28. November 2003 ein Kraftfahrzeug. Mit ihrer am 9. September 2004 beim Landgericht eingegangenen Klage hat die …
 - [BGH, Urteil vom 22.03.2006 - VIII ZR 173/04](viii-zr-173-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 22.03.2006 - VIII ZR 212/04](viii-zr-212-04.md) — Tatbestand:
+- [BGH, Beschluss vom 21.03.2006 - VIII ZR 32/05](viii-zr-32-05.md) — Die zulässige Beschwerde der Beklagten gegen die Nichtzulassung der Revision ist teilweise begründet, weil das Berufungsgericht entscheidungser- heblichen, unter Zeugenbeweis …
 - [BGH, Urteil vom 15.03.2006 - VIII ZR 120/04](viii-zr-120-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2006 - VIII ZR 123/05](viii-zr-123-05.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2006 - VIII ZR 134/05](viii-zr-134-05.md) — Tatbestand:
+- [BGH, Urteil vom 15.03.2006 - VIII ZR 153/05](viii-zr-153-05.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2006 - VIII ZR 74/05](viii-zr-74-05.md) — Tatbestand:
 - [BGH, Urteil vom 08.03.2006 - VIII ZR 78/05](viii-zr-78-05.md) — Tatbestand:
+- [BGH, Beschluss vom 01.03.2006 - VIII ZB 28/05](viii-zb-28-05.md) — I. 1 Die Beklagten bewohnten seit Mai 1999 als Mieter ein der Klägerin gehö- rendes Anwesen in Berlin. Der Mietvertrag war auf bestimmte Zeit geschlossen und sollte am 31. Juli …
+- [BGH, Urteil vom 22.02.2006 - VIII ZR 219/04](viii-zr-219-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2006 - VIII ZR 362/04](viii-zr-362-04.md) — Tatbestand:
+- [BGH, Urteil vom 22.02.2006 - VIII ZR 40/04](viii-zr-40-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2006 - VIII ZR 91/05](viii-zr-91-05.md) — Tatbestand:
+- [BGH, Beschluss vom 21.02.2006 - VIII ZA 14/05](viii-za-14-05.md) — des formularmäßigen Kündigungsverzichts der Beklagten in § 2
+- [BGH, Beschluss vom 21.02.2006 - VIII ZR 61/04](viii-zr-61-04.md) — schuld-
+- [BGH, Beschluss vom 15.02.2006 - VIII ZB 112/04](viii-zb-112-04.md) — I. 1 Die Kläger nehmen die Beklagte auf Räumung und Herausgabe eines von ihnen im Wege der Zwangsversteigerung erworbenen Hausgrundstücks in Anspruch. Das Amtsgericht hat der …
+- [BGH, Beschluss vom 15.02.2006 - VIII ZB 93/04](viii-zb-93-04.md) — I. 1 Die Parteien schlossen 1993 über eine Wohnung der Beklagten einen Mietvertrag, in dem sich die Kläger verpflichteten, als Mietsicherheit eine Bar- kaution zu hinterlegen oder …
+- [BGH, Urteil vom 15.02.2006 - VIII ZR 138/05](viii-zr-138-05.md) — Fehlens einer ausdrücklichen Preisvereinbarung gemäß § 2 Abs. 2 Satz 2 AVBFernwärmeV maßgeblichen Preisen.
+- [BGH, Beschluss vom 15.02.2006 - VIII ZR 236/05](viii-zr-236-05.md) — I. 1 Die Klägerin nimmt die Beklagten unter anderem auf Ersatz entgangenen Gewinns aus dem Export von Veterinärmedikamenten und Geflügelimpfstoffen nach Syrien in Anspruch. Das …
 - [BGH, Urteil vom 08.02.2006 - VIII ZR 304/04](viii-zr-304-04.md) — Tatbestand:
+- [BGH, Urteil vom 08.02.2006 - VIII ZR 45/05](viii-zr-45-05.md) — Tatbestand:
+- [BGH, Beschluss vom 25.01.2006 - VIII ZB 33/05](viii-zb-33-05.md) — rechtsfehlerhaft ist, weil das
+- [BGH, Beschluss vom 25.01.2006 - VIII ZR 223/04](viii-zr-223-04.md) — des sogenannten Fogging gegen den Vermieter geltend gemachten Schadensersatzanspruch aus § 536 a Abs. 1 Alt. 2 BGB einschließlich des Versch
+- [BGH, Urteil vom 25.01.2006 - VIII ZR 3/05](viii-zr-3-05.md) — unangemessener Benachteiligung des Mieters insgesamt unwirksam (§ 307 Abs. 1 Satz 1 BGB). Die zu der Vorgängerbestimmung - § 10 Abs. 2 Satz
 - [BGH, Urteil vom 25.01.2006 - VIII ZR 398/03](viii-zr-398-03.md) — besonders grober Verletzung des Grundsatzes der Sparsamkeit und Wirtschaftlichkeit kommunaler Haushaltsführung.
+- [BGH, Urteil vom 25.01.2006 - VIII ZR 47/05](viii-zr-47-05.md) — 3-
 - [BGH, Urteil vom 25.01.2006 - VIII ZR 56/04](viii-zr-56-04.md) — Tatbestand:
 - [BGH, Urteil vom 18.01.2006 - VIII ZR 114/05](viii-zr-114-05.md) — Tatbestand:
+- [BGH, Urteil vom 18.01.2006 - VIII ZR 71/05](viii-zr-71-05.md) — Tatbestand:
+- [BGH, Urteil vom 18.01.2006 - VIII ZR 94/05](viii-zr-94-05.md) — Versäumung der Abrechnungsfrist des § 556 Abs. 3 Satz 2 BGB nach § 556 Abs. 3 Satz 3 BGB ausgeschlossene Betriebskostennachforderung des Ver
 - [BGH, Urteil vom 11.01.2006 - VIII ZR 268/04](viii-zr-268-04.md) — Tatbestand:
+- [BGH, Urteil vom 11.01.2006 - VIII ZR 364/04](viii-zr-364-04.md) — Tatbestand:
+- [BGH, Urteil vom 11.01.2006 - VIII ZR 396/03](viii-zr-396-03.md) — offener Forderungen gegen den Tankstellenbetreiber einstellt, diesen aber gleichzeitig an dem vertraglichen Verbot, Konkurrenzprodukte zu ve
+- [BGH, Beschluss vom 10.01.2006 - VIII ZB 82/05](viii-zb-82-05.md) — vorzunehmende Prüfung der Zulässigkeit auf die persönlichen Prozesshandlungsvoraussetzungen des Nebenintervenienten. Die besonderen Vorausse

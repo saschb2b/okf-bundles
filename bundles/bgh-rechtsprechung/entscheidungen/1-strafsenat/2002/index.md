@@ -1,16 +1,43 @@
 # 1. Strafsenat – 2002
 
-47 Entscheidung(en).
+161 Entscheidung(en).
 
+- [BGH, Beschluss vom 23.12.2002 - 1 StR 492/02](1-str-492-02.md) — Betruges u.a.
 - [BGH, Beschluss vom 19.12.2002 - 1 StR 306/02](1-str-306-02.md) — Veröffentlichung: ja _________________ StPO § 225a § 225a Abs. 1 bis 3 StPO findet im Berufungsverfahren entsprechende Anwendung. BGH, Beschl. vom 19. Dezember 2002 - 1 StR 306/02 …
 - [BGH, Beschluss vom 19.12.2002 - 1 StR 366/02](1-str-366-02.md) — wettbewerbsbeschränkender Absprachen bei Ausschreibungen
 - [BGH, Urteil vom 19.12.2002 - 1 StR 405/02](1-str-405-02.md) — Vergewaltigung
+- [BGH, Urteil vom 18.12.2002 - 1 StR 340/02](1-str-340-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 17.12.2002 - 1 StR 407/02](1-str-407-02.md) — Körperverletzung u.a.
+- [BGH, Beschluss vom 17.12.2002 - 1 StR 412/02](1-str-412-02.md) — unerlaubten Erwerbs von Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 17.12.2002 - 1 StR 470/02](1-str-470-02.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 17.12.2002 - 1 StR 471/02](1-str-471-02.md) — bandenmäßigen Einschleusens von Ausländern u.a.
 - [BGH, Beschluss vom 17.12.2002 - 1 StR 488/02](1-str-488-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 11.12.2002 - 1 StR 454/02](1-str-454-02.md) — unerlaubten Handelreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 04.12.2002 - 1 StR 356/02](1-str-356-02.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 03.12.2002 - 1 StR 327/02](1-str-327-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 03.12.2002 - 1 StR 378/02](1-str-378-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 27.11.2002 - 1 StR 462/02](1-str-462-02.md) — versuchten Totschlags
+- [BGH, Beschluss vom 20.11.2002 - 1 StR 353/02](1-str-353-02.md) — Totschlags u.a.
+- [BGH, Beschluss vom 19.11.2002 - 1 StR 313/02](1-str-313-02.md) — Zuhälterei u.a. zu 2. und 3. wegen schweren Menschenhandels u.a.
+- [BGH, Urteil vom 19.11.2002 - 1 StR 346/02](1-str-346-02.md) — Veröffentlichung: ja __________________ BtMG 1981 § 31 Nr. 1 Der Anwendbarkeit des § 31 Nr. 1 BtMG steht nicht entgegen, daß der Aufklärungserfolg nicht im Inland, sondern in …
+- [BGH, Beschluss vom 19.11.2002 - 1 StR 374/02](1-str-374-02.md) — Raubes u.a.
+- [BGH, Beschluss vom 19.11.2002 - 1 StR 425/02](1-str-425-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 19.11.2002 - 1 StR 442/02](1-str-442-02.md) — (zu deren Bedeutung vgl. auch -3- BGH, Beschluß vom 17. Oktober 2000 - 1 StR 428/00), insbesondere der eingehenden Mitteilung des Inhalts des Sachverständigengutachtens, kann der …
 - [BGH, Beschluss vom 13.11.2002 - 1 StR 270/02](1-str-270-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 06.11.2002 - 1 StR 197/02](1-str-197-02.md) — Betruges u. a .
 - [BGH, Beschluss vom 06.11.2002 - 1 StR 363/02](1-str-363-02.md) — zu 1., 2. und 4.: schweren Raubes u.a.
 - [BGH, Beschluss vom 06.11.2002 - 1 StR 382/02](1-str-382-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 05.11.2002 - 1 StR 206/02](1-str-206-02.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Urteil vom 05.11.2002 - 1 StR 247/02](1-str-247-02.md) — Mordes u.a.
+- [BGH, Urteil vom 05.11.2002 - 1 StR 254/02](1-str-254-02.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 05.11.2002 - 1 StR 384/02](1-str-384-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 24.10.2002 - 1 StR 314/02](1-str-314-02.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 24.10.2002 - 1 StR 377/02](1-str-377-02.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 24.10.2002 - 1 StR 390/02](1-str-390-02.md) — sexuellen Mißbrauchs einer widerstandsunfähigen Person
+- [BGH, Beschluss vom 24.10.2002 - 1 StR 398/02](1-str-398-02.md) — schweren Bandendiebstahls
+- [BGH, Urteil vom 23.10.2002 - 1 StR 234/02](1-str-234-02.md) — Mordes u. a.
+- [BGH, Urteil vom 23.10.2002 - 1 StR 274/02](1-str-274-02.md) — sexuellen Mißbrauchs von Schutzbefohlenen u.a.
+- [BGH, Urteil vom 23.10.2002 - 1 StR 541/01](1-str-541-01.md) — Veröffentlichung: ja ________________ StGB § 332 1. Zum Sichbereitzeigen i.S.d. § 332 Abs. 3 StGB. 2. Zur Abgrenzung der Bestechlichkeit von der Vorteilsannahme bei der Einwerbung …
 - [BGH, Beschluss vom 22.10.2002 - 1 StR 169/02](1-str-169-02.md) — bandenmäßigen Betruges u.a.
 - [BGH, Beschluss vom 22.10.2002 - 1 StR 298/02](1-str-298-02.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 22.10.2002 - 1 StR 308/02](1-str-308-02.md) — Beihilfe zum Betrug
@@ -20,32 +47,119 @@
 - [BGH, Urteil vom 08.10.2002 - 1 StR 150/02](1-str-150-02.md) — versuchter Erpressung
 - [BGH, Beschluss vom 08.10.2002 - 1 StR 225/02](1-str-225-02.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 08.10.2002 - 1 StR 326/02](1-str-326-02.md) — Betruges u. a.
+- [BGH, Beschluss vom 26.09.2002 - 1 ARs 36/02](1-ars-36-02.md) — versuchten Mordes u.a. hier: Anfrage des 2. Strafsenats vom 14. August 2002 - 2 StR 251/02
+- [BGH, Beschluss vom 26.09.2002 - 1 StR 111/02](1-str-111-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 26.09.2002 - 1 StR 233/02](1-str-233-02.md) — Vergewaltigung u.a
+- [BGH, Beschluss vom 25.09.2002 - 1 StR 347/02](1-str-347-02.md) — Totschlags
+- [BGH, Beschluss vom 25.09.2002 - 1 StR 99/02](1-str-99-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 13.09.2002 - 1 StR 316/02](1-str-316-02.md) — Anstiftung zum Meineid u.a.
+- [BGH, Beschluss vom 11.09.2002 - 1 StR 171/02](1-str-171-02.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Urteil vom 11.09.2002 - 1 StR 73/02](1-str-73-02.md) — Verstoßes gegen das Außenwirtschaftsgesetz
+- [BGH, Beschluss vom 10.09.2002 - 1 StR 281/02](1-str-281-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Entscheidung vom 10.09.2002 - 1 StR 318/02](1-str-318-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 10.09.2002 - 1 StR 337/02](1-str-337-02.md) — Unterbringung
+- [BGH, Beschluss vom 28.08.2002 - 1 StR 277/02](1-str-277-02.md) — Mordes
+- [BGH, Beschluss vom 28.08.2002 - 1 StR 309/02](1-str-309-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 27.08.2002 - 1 StR 204/02](1-str-204-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 27.08.2002 - 1 StR 267/02](1-str-267-02.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 27.08.2002 - 1 StR 287/02](1-str-287-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 27.08.2002 - 1 StR 295/02](1-str-295-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 27.08.2002 - 1 StR 299/02](1-str-299-02.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 21.08.2002 - 1 StR 115/02](1-str-115-02.md) — Veröffentlichung: ja _________________ StGB § 73 Der Verfall ist, auch bei Anwendung des Bruttoprinzips, keine Strafe, sondern eine Maßnahme eigener Art. Die Abschöpfung des über …
+- [BGH, Urteil vom 21.08.2002 - 1 StR 129/02](1-str-129-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 20.08.2002 - 1 StR 305/02](1-str-305-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 14.08.2002 - 1 StR 153/02](1-str-153-02.md) — Körperverletzung mit Todesfolge
+- [BGH, Urteil vom 14.08.2002 - 1 StR 244/02](1-str-244-02.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 14.08.2002 - 1 StR 265/02](1-str-265-02.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.08.2002 - 1 StR 272/02](1-str-272-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 14.08.2002 - 1 StR 286/02](1-str-286-02.md) — Untreue
+- [BGH, Beschluss vom 31.07.2002 - 1 StR 184/02](1-str-184-02.md) — schweren sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 31.07.2002 - 1 StR 224/02](1-str-224-02.md) — Betruges
+- [BGH, Beschluss vom 31.07.2002 - 1 StR 235/02](1-str-235-02.md) — Hehlerei u.a.
+- [BGH, Beschluss vom 31.07.2002 - 1 StR 241/02](1-str-241-02.md) — sexuellen Mißbrauchs widerstandsunfähiger Personen u.a.
+- [BGH, Beschluss vom 31.07.2002 - 1 StR 262/02](1-str-262-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a
+- [BGH, Urteil vom 30.07.2002 - 1 StR 138/02](1-str-138-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 30.07.2002 - 1 StR 82/02](1-str-82-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 25.07.2002 - 1 StR 192/02](1-str-192-02.md) — Betrugs
 - [BGH, Beschluss vom 10.07.2002 - 1 StR 117/02](1-str-117-02.md) — versuchter schwerer Brandstiftung u.a.
 - [BGH, Beschluss vom 10.07.2002 - 1 StR 140/02](1-str-140-02.md) — Mordes
+- [BGH, Beschluss vom 09.07.2002 - 1 StR 177/02](1-str-177-02.md) — Mordes u. a.
+- [BGH, Urteil vom 09.07.2002 - 1 StR 88/02](1-str-88-02.md) — Hehlerei
+- [BGH, Urteil vom 09.07.2002 - 1 StR 93/02](1-str-93-02.md) — Verstoßes gegen das Betäubungsmittelgesetz u.a.
+- [BGH, Beschluss vom 04.07.2002 - 1 StR 131/02](1-str-131-02.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 02.07.2002 - 1 StR 135/02](1-str-135-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 02.07.2002 - 1 StR 194/02](1-str-194-02.md) — Körperverletzung u.a.
+- [BGH, Beschluss vom 02.07.2002 - 1 StR 195/02](1-str-195-02.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 26.06.2002 - 1 StR 145/02](1-str-145-02.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 26.06.2002 - 1 StR 191/02](1-str-191-02.md) — Bandendiebstahls u.a.
+- [BGH, Urteil vom 25.06.2002 - 1 StR 157/02](1-str-157-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 25.06.2002 - 1 StR 188/02](1-str-188-02.md) — schwerer Körperverletzung u.a.
+- [BGH, Beschluss vom 12.06.2002 - 1 StR 205/02](1-str-205-02.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 12.06.2002 - 1 StR 79/02](1-str-79-02.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 11.06.2002 - 1 StR 142/02](1-str-142-02.md) — Untreue
+- [BGH, Beschluss vom 11.06.2002 - 1 StR 178/02](1-str-178-02.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 11.06.2002 - 1 StR 484/01](1-str-484-01.md) — sexueller Nötigung u.a.
+- [BGH, Urteil vom 06.06.2002 - 1 StR 14/02](1-str-14-02.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 06.06.2002 - 1 StR 158/02](1-str-158-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 06.06.2002 - 1 StR 160/02](1-str-160-02.md) — versuchten schweren Raubes
+- [BGH, Beschluss vom 06.06.2002 - 1 StR 170/02](1-str-170-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 06.06.2002 - 1 StR 33/02](1-str-33-02.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern
+- [BGH, Beschluss vom 29.05.2002 - 1 StR 124/02](1-str-124-02.md) — Mordes u.a.
+- [BGH, Urteil vom 23.05.2002 - 1 StR 372/01](1-str-372-01.md) — Veröffentlichung: ja ________________________ StGB § 331 Abs. 1 aF Der Tatbestand der Vorteilsannahme (hier in der Fassung vor der Änderung durch das Korruptionsbekämpfungsgesetz …
 - [BGH, Beschluss vom 16.05.2002 - 1 StR 146/02](1-str-146-02.md) — versuchten Totschlags
+- [BGH, Urteil vom 16.05.2002 - 1 StR 40/02](1-str-40-02.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Beschluss vom 16.05.2002 - 1 StR 553/01](1-str-553-01.md) — Mordes
+- [BGH, Beschluss vom 16.05.2002 - 1 StR 87/02](1-str-87-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 16.05.2002 - 1 StR 90/02](1-str-90-02.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 16.05.2002 - 1 StR 96/02](1-str-96-02.md) — Geldfälschung
+- [BGH, Beschluss vom 14.05.2002 - 1 StR 143/02](1-str-143-02.md) — Betrugs u.a.
+- [BGH, Urteil vom 14.05.2002 - 1 StR 46/02](1-str-46-02.md) — Vergewaltigung
+- [BGH, Urteil vom 14.05.2002 - 1 StR 48/02](1-str-48-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.05.2002 - 1 StR 91/02](1-str-91-02.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 24.04.2002 - 1 StR 535/01](1-str-535-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 23.04.2002 - 1 StR 100/02](1-str-100-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 23.04.2002 - 1 StR 41/02](1-str-41-02.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 23.04.2002 - 1 StR 95/02](1-str-95-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 03.04.2002 - 1 ARs 14/02](1-ars-14-02.md) — bewaffneten Handeltreibens mit Betäubungsmitteln u.a. hier: Anfrage des 3. Strafsenats vom 14. Dezember 2001 - 3 StR 369/01
+- [BGH, Beschluss vom 03.04.2002 - 1 ARs 5/02](1-ars-5-02.md) — schwerer räuberischer Erpressung hier: Anfrage des 2. Strafsenats vom 7. Dezember 2001 – 2 StR 441/01 -
+- [BGH, Beschluss vom 03.04.2002 - 1 StR 540/01](1-str-540-01.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 03.04.2002 - 1 StR 62/02](1-str-62-02.md) — Geiselnahme
+- [BGH, Beschluss vom 21.03.2002 - 1 StR 53/02](1-str-53-02.md) — fahrlässiger Tötung
+- [BGH, Beschluss vom 21.03.2002 - 1 StR 543/01](1-str-543-01.md) — Vergewaltigung
+- [BGH, Urteil vom 19.03.2002 - 1 StR 566/01](1-str-566-01.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 14.03.2002 - 1 StR 504/01](1-str-504-01.md) — Zuhälterei u.a.
 - [BGH, Beschluss vom 13.03.2002 - 1 StR 39/02](1-str-39-02.md) — Betruges u.a.
 - [BGH, Beschluss vom 13.03.2002 - 1 StR 47/02](1-str-47-02.md) — schweren Raubes
+- [BGH, Beschluss vom 12.03.2002 - 1 StR 32/02](1-str-32-02.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 12.03.2002 - 1 StR 557/01](1-str-557-01.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 12.03.2002 - 1 StR 7/02](1-str-7-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 06.03.2002 - 1 StR 427/01](1-str-427-01.md) — unerlaubten Umgangs mit gefährlichen Abfällen u.a.
 - [BGH, Urteil vom 21.02.2002 - 1 StR 538/01](1-str-538-01.md) — Mordes
+- [BGH, Beschluss vom 20.02.2002 - 1 StR 545/01](1-str-545-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 19.02.2002 - 1 StR 28/02](1-str-28-02.md) — Körperverletzung mit Todesfolge u.a.
 - [BGH, Beschluss vom 19.02.2002 - 1 StR 5/02](1-str-5-02.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 19.02.2002 - 1 StR 502/01](1-str-502-01.md) — gewerbsmäßiger Bandenhehlerei u.a.
 - [BGH, Beschluss vom 19.02.2002 - 1 StR 532/01](1-str-532-01.md) — gewerbsmäßiger Hehlerei
 - [BGH, Urteil vom 19.02.2002 - 1 StR 546/01](1-str-546-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.02.2002 - 1 StR 222/01](1-str-222-01.md) — Be-
+- [BGH, Beschluss vom 07.02.2002 - 1 StR 412/01](1-str-412-01.md) — Bankrotts u.a.
+- [BGH, Beschluss vom 07.02.2002 - 1 StR 8/02](1-str-8-02.md) — Mordes u.a.
+- [BGH, Urteil vom 06.02.2002 - 1 StR 506/01](1-str-506-01.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 06.02.2002 - 1 StR 513/01](1-str-513-01.md) — Veröffentlichung: ja _____________________________ StGB § 246 § 246 StGB ist nicht nur gegenüber Zueignungsdelikten subsidiär (im Anschluß an BGHSt 43, 237). BGH, Urt. vom 6 …
 - [BGH, Entscheidung vom 05.02.2002 - 1 StR 403/01](1-str-403-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 05.02.2002 - 1 StR 536/01](1-str-536-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Entscheidung vom 05.02.2002 - 1 StR 570/01](1-str-570-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 05.02.2002 - 1 StR 571/01](1-str-571-01.md) — schweren Raubes
+- [BGH, Beschluss vom 05.02.2002 - 1 StR 9/02](1-str-9-02.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 25.01.2002 - 1 StR 573/01](1-str-573-01.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 23.01.2002 - 1 StR 528/01](1-str-528-01.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 22.01.2002 - 1 StR 467/01](1-str-467-01.md) — bandenmäßiger Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.01.2002 - 1 StR 500/01](1-str-500-01.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 22.01.2002 - 1 StR 512/01](1-str-512-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.01.2002 - 1 StR 564/01](1-str-564-01.md) — Vergewaltigung
+- [BGH, Beschluss vom 16.01.2002 - 1 StR 519/01](1-str-519-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 15.01.2002 - 1 StR 466/01](1-str-466-01.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 15.01.2002 - 1 StR 494/01](1-str-494-01.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 15.01.2002 - 1 StR 515/01](1-str-515-01.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 15.01.2002 - 1 StR 533/01](1-str-533-01.md) — Mordes u.a.
+- [BGH, Beschluss vom 15.01.2002 - 1 StR 548/01](1-str-548-01.md) — versuchten Totschlags u.a.

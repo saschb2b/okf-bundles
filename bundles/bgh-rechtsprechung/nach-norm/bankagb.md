@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BankAGB"
 description: "BGH-Entscheidungen zu BankAGB, geordnet nach Vorschrift."
 tags: [register, navigation, bankagb]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

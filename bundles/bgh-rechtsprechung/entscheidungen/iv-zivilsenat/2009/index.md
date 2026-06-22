@@ -1,68 +1,140 @@
 # IV. Zivilsenat – 2009
 
-64 Entscheidung(en).
+136 Entscheidung(en).
 
 - [BGH, Beschluss vom 29.12.2009 - IV ZR 1/08](iv-zr-1-08.md) — BGH, Beschluss vom 29.12.2009 - IV ZR 1/08
+- [BGH, Beschluss vom 16.12.2009 - IV ZB 30/09](iv-zb-30-09.md) — Versäumung der Frist zur Berufungsbegründung. Er hat gegen
+- [BGH, Beschluss vom 16.12.2009 - IV ZR 108/08](iv-zr-108-08.md) — I. Die Klägerin nimmt die beklagten beiden Töchter und Erbinnen des am 17. März 2003 verstorbenen Erblassers auf Übertragung von zum Nachlass gehörenden Fondsanteilen in Anspruch …
+- [BGH, Beschluss vom 16.12.2009 - IV ZR 162/07](iv-zr-162-07.md) — Die Beschwerde hat keinen Erfolg, weil die Voraussetzungen für die Zulassung der Revision nach § 543 Abs.
+- [BGH, Urteil vom 16.12.2009 - IV ZR 17/06](iv-zr-17-06.md) — Tatbestand:
 - [BGH, Beschluss vom 16.12.2009 - IV ZR 195/08](iv-zr-195-08.md) — Verschuldens beim Ver-
 - [BGH, Beschluss vom 02.12.2009 - IV ZB 13/09](iv-zb-13-09.md) — BGH, Beschluss vom 02.12.2009 - IV ZB 13/09
 - [BGH, Urteil vom 02.12.2009 - IV ZR 181/07](iv-zr-181-07.md) — Tatbestand:
+- [BGH, Urteil vom 02.12.2009 - IV ZR 279/07](iv-zr-279-07.md) — Tatbestand:
+- [BGH, Urteil vom 02.12.2009 - IV ZR 65/09](iv-zr-65-09.md) — Tatbestand:
 - [BGH, Beschluss vom 25.11.2009 - IV ZR 244/08](iv-zr-244-08.md) — BGH, Beschluss vom 25.11.2009 - IV ZR 244/08
+- [BGH, Beschluss vom 25.11.2009 - IV ZR 340/07](iv-zr-340-07.md) — I. Die Voraussetzungen für die Zulassung der Revision liegen nicht vor. Wenngleich zu der vom Berufungsgericht für klärungsbedürftig ge- haltenen Frage zur Wirksamkeit der …
+- [BGH, Urteil vom 25.11.2009 - IV ZR 70/05](iv-zr-70-05.md) — Tatbestand:
+- [BGH, Beschluss vom 18.11.2009 - IV ZA 12/09](iv-za-12-09.md) — Die beabsichtigte Rechtsbeschwerde hat keine Aussicht auf Erfolg.
+- [BGH, Urteil vom 18.11.2009 - IV ZR 134/08](iv-zr-134-08.md) — Tatbestand:
+- [BGH, Beschluss vom 18.11.2009 - IV ZR 36/09](iv-zr-36-09.md) — I. Der Kläger - ein Rechtsanwalt - macht Ansprüche auf Schadens- ersatz aufgrund eines Lebensversicherungsvertrages geltend, die ihm vom Versicherungsnehmer abgetreten worden …
+- [BGH, Urteil vom 18.11.2009 - IV ZR 39/08](iv-zr-39-08.md) — Tatbestand:
+- [BGH, Urteil vom 18.11.2009 - IV ZR 58/06](iv-zr-58-06.md) — Tatbestand:
+- [BGH, Beschluss vom 18.11.2009 - IV ZR 69/07](iv-zr-69-07.md) — Die Beschwerde führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des Berufungsurteils und zur Zurückverweisung der Sache. Die Verurteilung des Beklagten auf der Grundlage des vom Kläger …
+- [BGH, Beschluss vom 18.11.2009 - IV ZR 72/07](iv-zr-72-07.md) — BGH, Beschluss vom 18.11.2009 - IV ZR 72/07
 - [BGH, Beschluss vom 18.11.2009 - IV ZR 75/07](iv-zr-75-07.md) — voller Erwerbsminderung
+- [BGH, Urteil vom 04.11.2009 - IV ZR 118/07](iv-zr-118-07.md) — Tatbestand:
+- [BGH, Beschluss vom 04.11.2009 - IV ZR 145/09](iv-zr-145-09.md) — nicht nachzugehen, weil für den Beweis dieser inneren Tatsache keine Indiztatsachen vorgetragen worden sind (vgl. BGH, Urteil vom 30. April
 - [BGH, Beschluss vom 04.11.2009 - IV ZR 25/09](iv-zr-25-09.md) — BGH, Beschluss vom 04.11.2009 - IV ZR 25/09
 - [BGH, Beschluss vom 04.11.2009 - IV ZR 35/09](iv-zr-35-09.md) — BGH, Beschluss vom 04.11.2009 - IV ZR 35/09
 - [BGH, Urteil vom 04.11.2009 - IV ZR 57/07](iv-zr-57-07.md) — 3-
 - [BGH, Beschluss vom 04.11.2009 - IV ZR 59/07](iv-zr-59-07.md) — BGH, Beschluss vom 04.11.2009 - IV ZR 59/07
 - [BGH, Urteil vom 04.11.2009 - IV ZR 84/08](iv-zr-84-08.md) — Tatbestand:
 - [BGH, Beschluss vom 28.10.2009 - IV ZB 10/09](iv-zb-10-09.md) — Das Landgericht hat die Klage des Beschwerdeführers auf Leis- tungen aus seiner bei der Beklagten gehaltenen Berufsunfähigkeits- Zusatzversicherung abgewiesen und das Urteil vom 6.
+- [BGH, Urteil vom 28.10.2009 - IV ZR 138/08](iv-zr-138-08.md) — Tatbestand:
+- [BGH, Urteil vom 28.10.2009 - IV ZR 140/08](iv-zr-140-08.md) — eines prozessualen Verwertungsverbots an der Einführung der gewonnenen Erkenntnisse in einen Rechtsstreit gehindert ist.
+- [BGH, Urteil vom 28.10.2009 - IV ZR 82/08](iv-zr-82-08.md) — Tatbestand:
 - [BGH, Beschluss vom 21.10.2009 - IV ZB 27/09](iv-zb-27-09.md) — BGH, Beschluss vom 21.10.2009 - IV ZB 27/09
+- [BGH, Beschluss vom 21.10.2009 - IV ZB 35/09](iv-zb-35-09.md) — BGH, Beschluss vom 21.10.2009 - IV ZB 35/09
+- [BGH, Beschluss vom 21.10.2009 - IV ZR 84/09](iv-zr-84-09.md) — BGH, Beschluss vom 21.10.2009 - IV ZR 84/09
 - [BGH, Beschluss vom 08.10.2009 - IV ZR 346/07](iv-zr-346-07.md) — BGH, Beschluss vom 08.10.2009 - IV ZR 346/07
 - [BGH, Beschluss vom 30.09.2009 - IV ZR 1/07](iv-zr-1-07.md) — arglistig verschwiege-
 - [BGH, Beschluss vom 30.09.2009 - IV ZR 301/06](iv-zr-301-06.md) — BGH, Beschluss vom 30.09.2009 - IV ZR 301/06
 - [BGH, Urteil vom 30.09.2009 - IV ZR 47/09](iv-zr-47-09.md) — Tatbestand:
+- [BGH, Beschluss vom 30.09.2009 - IV ZR 61/09](iv-zr-61-09.md) — BGH, Beschluss vom 30.09.2009 - IV ZR 61/09
+- [BGH, Beschluss vom 30.09.2009 - IV ZR 79/09](iv-zr-79-09.md) — BGH, Beschluss vom 30.09.2009 - IV ZR 79/09
+- [BGH, Beschluss vom 23.09.2009 - IV ZB 14/09](iv-zb-14-09.md) — 1. Die Beklagten haben durch ihren früheren Prozessbevollmäch- tigten gegen das ihm am 6. Februar 2009 zugestellte Urteil des Landge- richts fristgerecht am 23. Februar 2009 …
 - [BGH, Beschluss vom 23.09.2009 - IV ZR 123/07](iv-zr-123-07.md) — BGH, Beschluss vom 23.09.2009 - IV ZR 123/07
+- [BGH, Beschluss vom 23.09.2009 - IV ZR 152/08](iv-zr-152-08.md) — I. Der Kläger macht einen Anspruch auf Rückzahlung eines Darle- hens in Höhe von 37.000 € geltend. Die Vorinstanzen halten den An- spruch für begründet und zwei auf …
 - [BGH, Beschluss vom 23.09.2009 - IV ZR 259/08](iv-zr-259-08.md) — BGH, Beschluss vom 23.09.2009 - IV ZR 259/08
+- [BGH, Urteil vom 16.09.2009 - IV ZR 246/08](iv-zr-246-08.md) — Tatbestand:
+- [BGH, Beschluss vom 16.09.2009 - IV ZR 6/07](iv-zr-6-07.md) — BGH, Beschluss vom 16.09.2009 - IV ZR 6/07
+- [BGH, Beschluss vom 04.09.2009 - IV ZR 32/09](iv-zr-32-09.md) — Die Gegenvorstellung gibt keinen Anlass zu einer abändernden Entscheidung.
+- [BGH, Beschluss vom 17.08.2009 - IV ZA 9/09](iv-za-9-09.md) — BGH, Beschluss vom 17.08.2009 - IV ZA 9/09
 - [BGH, Beschluss vom 17.08.2009 - IV ZR 117/07](iv-zr-117-07.md) — weiterer Einzelheiten
 - [BGH, Beschluss vom 22.07.2009 - IV ZR 265/06](iv-zr-265-06.md) — BGH, Beschluss vom 22.07.2009 - IV ZR 265/06
 - [BGH, Beschluss vom 22.07.2009 - IV ZR 325/06](iv-zr-325-06.md) — BGH, Beschluss vom 22.07.2009 - IV ZR 325/06
+- [BGH, Beschluss vom 22.07.2009 - IV ZR 74/08](iv-zr-74-08.md) — Die Nichtzulassungsbeschwerde zeigt nicht auf, dass die Rechts- sache grundsätzliche Bedeutung hat oder die Fortbildung des Rechts oder die Sicherung einer einheitlichen …
 - [BGH, Beschluss vom 15.07.2009 - IV ZB 17/09](iv-zb-17-09.md) — BGH, Beschluss vom 15.07.2009 - IV ZB 17/09
 - [BGH, Beschluss vom 15.07.2009 - IV ZR 229/06](iv-zr-229-06.md) — BGH, Beschluss vom 15.07.2009 - IV ZR 229/06
 - [BGH, Beschluss vom 15.07.2009 - IV ZR 29/08](iv-zr-29-08.md) — BGH, Beschluss vom 15.07.2009 - IV ZR 29/08
+- [BGH, Beschluss vom 15.07.2009 - IV ZR 31/09](iv-zr-31-09.md) — BGH, Beschluss vom 15.07.2009 - IV ZR 31/09
 - [BGH, Urteil vom 08.07.2009 - IV ZR 102/06](iv-zr-102-06.md) — Tatbestand:
+- [BGH, Beschluss vom 08.07.2009 - IV ZR 216/07](iv-zr-216-07.md) — I. Der Kläger verlangt von der Beklagten eine restliche Invaliditäts- entschädigung aus einer Unfallversicherung. 2 Er unterhielt bei der Beklagten zunächst gemäß Versicherungs- …
 - [BGH, Beschluss vom 24.06.2009 - IV ZB 2/09](iv-zb-2-09.md) — Versäumung der Beru-
 - [BGH, Beschluss vom 24.06.2009 - IV ZR 104/07](iv-zr-104-07.md) — BGH, Beschluss vom 24.06.2009 - IV ZR 104/07
+- [BGH, Beschluss vom 24.06.2009 - IV ZR 110/07](iv-zr-110-07.md) — Leistun-
 - [BGH, Beschluss vom 24.06.2009 - IV ZR 128/08](iv-zr-128-08.md) — BGH, Beschluss vom 24.06.2009 - IV ZR 128/08
+- [BGH, Urteil vom 24.06.2009 - IV ZR 202/07](iv-zr-202-07.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2009 - IV ZR 212/07](iv-zr-212-07.md) — Tatbestand:
+- [BGH, Beschluss vom 17.06.2009 - IV ZA 19/08](iv-za-19-08.md) — BGH, Beschluss vom 17.06.2009 - IV ZA 19/08
 - [BGH, Urteil vom 17.06.2009 - IV ZR 43/07](iv-zr-43-07.md) — Tatbestand:
 - [BGH, Beschluss vom 17.06.2009 - IV ZR 59/06](iv-zr-59-06.md) — BGH, Beschluss vom 17.06.2009 - IV ZR 59/06
+- [BGH, Beschluss vom 20.05.2009 - IV ZB 2/08](iv-zb-2-08.md) — Versäumung der Berufungsbegründungsfrist. Er hat gegen das
 - [BGH, Urteil vom 20.05.2009 - IV ZR 115/05](iv-zr-115-05.md) — Tatbestand:
 - [BGH, Beschluss vom 20.05.2009 - IV ZR 152/07](iv-zr-152-07.md) — BGH, Beschluss vom 20.05.2009 - IV ZR 152/07
+- [BGH, Urteil vom 20.05.2009 - IV ZR 16/08](iv-zr-16-08.md) — Tatbestand:
+- [BGH, Urteil vom 20.05.2009 - IV ZR 226/05](iv-zr-226-05.md) — Tatbestand:
+- [BGH, Urteil vom 20.05.2009 - IV ZR 274/06](iv-zr-274-06.md) — Tatbestand:
+- [BGH, Beschluss vom 20.05.2009 - IV ZR 46/08](iv-zr-46-08.md) — I. Die im Jahre 1958 geborene Klägerin wendet sich gegen die Be- handlung ihrer Ansprüche auf eine Zusatzversorgung. Aufgrund einer Beschäftigung im kommunalen öffentlichen Dienst …
 - [BGH, Beschluss vom 18.05.2009 - IV ZR 57/08](iv-zr-57-08.md) — der Folgen einer
+- [BGH, Beschluss vom 13.05.2009 - IV ZA 5/09](iv-za-5-09.md) — BGH, Beschluss vom 13.05.2009 - IV ZA 5/09
+- [BGH, Urteil vom 13.05.2009 - IV ZR 211/05](iv-zr-211-05.md) — Tatbestand:
+- [BGH, Beschluss vom 13.05.2009 - IV ZR 217/08](iv-zr-217-08.md) — 1. Die Voraussetzungen für eine Zulassung liegen insgesamt nicht vor. 2 a) Grundsätzliche Bedeutung i.S. von § 543 Abs. 2 Satz 1 Nr. 1 ZPO kommt einer Rechtssache nicht schon …
+- [BGH, Beschluss vom 13.05.2009 - IV ZR 247/08](iv-zr-247-08.md) — BGH, Beschluss vom 13.05.2009 - IV ZR 247/08
 - [BGH, Beschluss vom 13.05.2009 - IV ZR 278/08](iv-zr-278-08.md) — BGH, Beschluss vom 13.05.2009 - IV ZR 278/08
+- [BGH, Beschluss vom 04.05.2009 - IV ZR 62/07](iv-zr-62-07.md) — allgemeiner Erkrankungen in ärztlicher Behandlung gewesen?" verneint. In der zweiten Schadenanzeige vom 27. März 2003 auf einem Formular der
 - [BGH, Beschluss vom 29.04.2009 - IV ZR 201/06](iv-zr-201-06.md) — BGH, Beschluss vom 29.04.2009 - IV ZR 201/06
 - [BGH, Beschluss vom 28.04.2009 - IV ZR 202/06](iv-zr-202-06.md) — BGH, Beschluss vom 28.04.2009 - IV ZR 202/06
 - [BGH, Beschluss vom 22.04.2009 - IV ZB 22/08](iv-zb-22-08.md) — Versäumung der Berufungsbegründungsfrist. Sie hat gegen das
 - [BGH, Beschluss vom 22.04.2009 - IV ZB 34/08](iv-zb-34-08.md) — BGH, Beschluss vom 22.04.2009 - IV ZB 34/08
 - [BGH, Urteil vom 22.04.2009 - IV ZR 160/07](iv-zr-160-07.md) — Tatbestand:
+- [BGH, Beschluss vom 22.04.2009 - IV ZR 328/07](iv-zr-328-07.md) — Der Kläger verlangt ergänzende Invaliditätsleistungen von seinem Unfallversicherer.
 - [BGH, Beschluss vom 20.04.2009 - IV ZB 8/09](iv-zb-8-09.md) — BGH, Beschluss vom 20.04.2009 - IV ZB 8/09
+- [BGH, Beschluss vom 15.04.2009 - IV ZB 7/09](iv-zb-7-09.md) — BGH, Beschluss vom 15.04.2009 - IV ZB 7/09
+- [BGH, Beschluss vom 08.04.2009 - IV ZR 113/06](iv-zr-113-06.md) — Die Beschwerde ist zurückzuweisen, weil ein Zulassungsgrund nicht dargelegt ist (§§ 543 Abs.
 - [BGH, Beschluss vom 08.04.2009 - IV ZR 77/07](iv-zr-77-07.md) — weiterer Einzelheiten nimmt der
 - [BGH, Beschluss vom 07.04.2009 - IV ZR 10/08](iv-zr-10-08.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 07.04.2009 - IV ZR 18/08](iv-zr-18-08.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 07.04.2009 - IV ZR 19/07](iv-zr-19-07.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 30.03.2009 - IV ZR 316/06](iv-zr-316-06.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 23.03.2009 - IV ZR 144/07](iv-zr-144-07.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 23.03.2009 - IV ZR 2/07](iv-zr-2-07.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 23.03.2009 - IV ZR 324/06](iv-zr-324-06.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 18.03.2009 - IV ZR 157/08](iv-zr-157-08.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 18.03.2009 - IV ZR 176/07](iv-zr-176-07.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 18.03.2009 - IV ZR 293/06](iv-zr-293-06.md) — Die Beschwerde ist zurückzuweisen, weil ein Zulassungsgrund nicht dargelegt ist (§§ 543 Abs.
+- [BGH, Beschluss vom 18.03.2009 - IV ZR 295/07](iv-zr-295-07.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 18.03.2009 - IV ZR 298/06](iv-zr-298-06.md) — Die Beschwerde ist zurückzuweisen, weil ein Zulassungsgrund nicht dargelegt ist (§§ 543 Abs.
+- [BGH, Beschluss vom 18.03.2009 - IV ZR 298/07](iv-zr-298-07.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 18.03.2009 - IV ZR 83/07](iv-zr-83-07.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Urteil vom 11.03.2009 - IV ZR 224/07](iv-zr-224-07.md) — Tatbestand:
+- [BGH, Beschluss vom 11.03.2009 - IV ZR 46/07](iv-zr-46-07.md) — Die Beschwerde zeigt nicht auf, dass die Rechtssache grundsätzliche Bedeutung hat oder die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine …
 - [BGH, Beschluss vom 11.03.2009 - IV ZR 88/07](iv-zr-88-07.md) — BGH, Beschluss vom 11.03.2009 - IV ZR 88/07
 - [BGH, Beschluss vom 09.03.2009 - IV ZA 17/08](iv-za-17-08.md) — BGH, Beschluss vom 09.03.2009 - IV ZA 17/08
+- [BGH, Urteil vom 25.02.2009 - IV ZR 27/08](iv-zr-27-08.md) — Tatbestand:
+- [BGH, Beschluss vom 18.02.2009 - IV ZR 11/06](iv-zr-11-06.md) — Die Beschwerde ist zurückzuweisen, weil ein Zulassungsgrund nicht dargelegt ist (§§ 543 Abs.
 - [BGH, Urteil vom 18.02.2009 - IV ZR 11/07](iv-zr-11-07.md) — Tatbestand:
 - [BGH, Beschluss vom 18.02.2009 - IV ZR 193/07](iv-zr-193-07.md) — der Gefahr der Entwendung der gesamten Einrichtung müsse er sofort kommen. Die Flugtickets habe er am 10. Juni 2007 gekauft, am 18. Juni 200
+- [BGH, Beschluss vom 18.02.2009 - IV ZR 236/08](iv-zr-236-08.md) — der fehlenden Identität der Zahlungsvorgänge die Überzeugung gewonnen, dass es sich bei der Geldübergabe an die Beklagte im November 2000 ni
+- [BGH, Beschluss vom 11.02.2009 - IV ZB 26/08](iv-zb-26-08.md) — I. Der Kläger erstrebt die Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Frist für die Begründung der Berufung. Der unter dem 17. März 2008 gefertigte …
+- [BGH, Beschluss vom 11.02.2009 - IV ZR 142/08](iv-zr-142-08.md) — BGH, Beschluss vom 11.02.2009 - IV ZR 142/08
 - [BGH, Urteil vom 11.02.2009 - IV ZR 156/08](iv-zr-156-08.md) — Tatbestand:
 - [BGH, Beschluss vom 11.02.2009 - IV ZR 241/08](iv-zr-241-08.md) — BGH, Beschluss vom 11.02.2009 - IV ZR 241/08
+- [BGH, Urteil vom 11.02.2009 - IV ZR 26/06](iv-zr-26-06.md) — Tatbestand:
 - [BGH, Beschluss vom 11.02.2009 - IV ZR 28/08](iv-zr-28-08.md) — Die Parteien streiten darum, ob die Beklagte als privater Kranken- versicherer des Klägers die Kosten für eine von Pädagogen durchgeführ- te Behandlung der …
-- [BGH, Beschluss vom 10.02.2009 - IV ZR 288/07](iv-zr-288-07.md) — BGH, Beschluss vom 10.02.2009 - IV ZR 288/07
+- [BGH, Beschluss vom 11.02.2009 - IV ZR 4/07](iv-zr-4-07.md) — Die Nichtzulassungsbeschwerde zeigt Gründe für die Zulassung der Revision i.S.
+- [BGH, Beschluss vom 09.02.2009 - IV ZB 25/08](iv-zb-25-08.md) — I. Das Amtsgericht hat die Beklagte verurteilt, an die Klägerin 3.115,99 € nebst Zinsen zu zahlen. Ihre Prozessbevollmächtigten haben gegen das ihnen am 28. Januar 2008 …
 - [BGH, Beschluss vom 02.02.2009 - IV ZR 15/07](iv-zr-15-07.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 02.02.2009 - IV ZR 302/06](iv-zr-302-06.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 02.02.2009 - IV ZR 315/06](iv-zr-315-06.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 28.01.2009 - IV ZR 339/07](iv-zr-339-07.md) — einer Übernahme von Betriebsmitteln, die
+- [BGH, Urteil vom 28.01.2009 - IV ZR 6/08](iv-zr-6-08.md) — Tatbestand:
+- [BGH, Beschluss vom 21.01.2009 - IV ZB 35/08](iv-zb-35-08.md) — I. Der Kläger, von Beruf Steuerberater, ist in seiner Eigenschaft als Testamentsvollstrecker zur Auskunft an eine Erbengemeinschaft verur- teilt worden, unter anderem "über die …
+- [BGH, Beschluss vom 14.01.2009 - IV ZR 171/08](iv-zr-171-08.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 14.01.2009 - IV ZR 47/08](iv-zr-47-08.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 14.01.2009 - IV ZR 53/08](iv-zr-53-08.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 14.01.2009 - IV ZR 54/08](iv-zr-54-08.md) — weiterer Einzelheiten nimmt der Senat
+- [BGH, Beschluss vom 14.01.2009 - IV ZR 55/08](iv-zr-55-08.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Beschluss vom 14.01.2009 - IV ZR 59/08](iv-zr-59-08.md) — weiterer Einzelheiten nimmt der Senat
 - [BGH, Anerkenntnisurteil vom 07.01.2009 - IV ZR 145/08](iv-zr-145-08.md) — BGH, Anerkenntnisurteil vom 07.01.2009 - IV ZR 145/08

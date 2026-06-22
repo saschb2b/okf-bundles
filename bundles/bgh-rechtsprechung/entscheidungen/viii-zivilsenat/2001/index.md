@@ -1,24 +1,69 @@
 # VIII. Zivilsenat – 2001
 
-20 Entscheidung(en).
+65 Entscheidung(en).
 
+- [BGH, Urteil vom 19.12.2001 - VIII ZR 282/00](viii-zr-282-00.md) — Tatbestand: Der Kläger macht als Konkursverwalter an die Gemeinschuldnerin abgetretene Ansprüche aus einem Leasingvertrag über einen gebrauc
 - [BGH, Beschluss vom 05.12.2001 - VIII ZR 140/01](viii-zr-140-01.md) — arglistiger Täuschung angefochten hatte. Das Landgericht hat die Klage abgewiesen, das Berufungsgericht hingegen hat den Beklagten - unter A
+- [BGH, Beschluss vom 28.11.2001 - VIII ZB 37/01](viii-zb-37-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 28.11.2001 - VIII ZB 44/00](viii-zb-44-00.md) — Die Eingabe der Beklagten vom 14. April 2001 ist, soweit sie den Bundesgerichtshof betrifft, als Erinnerung gegen den Kostenansatz in der Kostenrechnung vom 22. Januar 2001 zu …
+- [BGH, Versäumnisurteil vom 28.11.2001 - VIII ZR 37/01](viii-zr-37-01.md) — Tatbestand: Die Klägerin betrieb in E. einen Getränkegroßhandel. Mit als "Unternehmenskaufvertrag" überschriebenem Vertrag vom 28. April 199
+- [BGH, Urteil vom 28.11.2001 - VIII ZR 38/01](viii-zr-38-01.md) — Tatbestand:
+- [BGH, Urteil vom 28.11.2001 - VIII ZR 75/00](viii-zr-75-00.md) — Tatbestand:
+- [BGH, Beschluss vom 21.11.2001 - VIII ZB 38/01](viii-zb-38-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 21.11.2001 - VIII ZR 29/01](viii-zr-29-01.md) — BGH, Beschluss vom 21.11.2001 - VIII ZR 29/01
+- [BGH, Urteil vom 07.11.2001 - VIII ZR 104/00](viii-zr-104-00.md) — BGH, Urteil vom 07.11.2001 - VIII ZR 104/00
 - [BGH, Urteil vom 07.11.2001 - VIII ZR 13/01](viii-zr-13-01.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 07.11.2001 - VIII ZR 213/00](viii-zr-213-00.md) — Tatbestand: Die Klägerin betreibt einen Großhandel mit Bild- und Tonträgern. Die Beklagte stellt Compact Disks (CDs) her. Die Parteien schlo
-- [BGH, Urteil vom 07.11.2001 - VIII ZR 263/00](viii-zr-263-00.md) — Tatbestand: Die Klägerin, ein in Dänemark ansässiges Unternehmen, verlangt von der Beklagten Bezahlung einer Lieferung von 23,7 t Apfelsaftk
+- [BGH, Beschluss vom 31.10.2001 - VIII ZB 33/01](viii-zb-33-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 31.10.2001 - VIII ZB 34/01](viii-zb-34-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
 - [BGH, Beschluss vom 31.10.2001 - VIII ZR 177/00](viii-zr-177-00.md) — Die mit Rechnung vom 22. November 2000 von der Klägerin und Revisionsklägerin angeforderten Kosten konnten von der Justizbeitreibungsstelle nicht beigetrieben werden. Auf deren …
 - [BGH, Urteil vom 31.10.2001 - VIII ZR 60/01](viii-zr-60-01.md) — Tatbestand: Die Beklagte zu 1 verkaufte der Klägerin, einem in Spanien ansässigen Unternehmen, gemäß Auftragsbestätigung vom 25. Juni 1998 "
 - [BGH, Beschluss vom 24.10.2001 - VIII ZB 19/01](viii-zb-19-01.md) — eines bevorstehenden Kurzurlaubs bis zum 1. März 2001 zurückgestellt, nachdem er sich anhand des Fristenkalenders von der Eintragung einer e
+- [BGH, Beschluss vom 17.10.2001 - VIII ZB 31/01](viii-zb-31-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist – abgesehen von hier nicht vorliegenden Ausnahmenfällen – eine Beschwerde nicht zulässig ( § 567 Abs.
+- [BGH, Beschluss vom 17.10.2001 - VIII ZB 32/01](viii-zb-32-01.md) — fehlender Berufungsbegründung als unzulässig verworfen werden, hält der rechtlichen Nachprüfung nicht stand.
+- [BGH, Beschluss vom 10.10.2001 - VIII ZB 25/01](viii-zb-25-01.md) — I. Die Beklagte hat gegen das ihr am 10. Oktober 2000 zugestellte Urteil des Landgerichts Essen vom 7. September 2000 am 21. November 2000 Berufung eingelegt und gegen die …
+- [BGH, Beschluss vom 10.10.2001 - VIII ZB 29/01](viii-zb-29-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 10.10.2001 - VIII ZB 30/01](viii-zb-30-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 10.10.2001 - VIII ZR 225/00](viii-zr-225-00.md) — Die Eingabe der Beklagten vom 10. September 2001 ist, soweit sie den Bundesgerichtshof betrifft, als Erinnerung gegen den Kostenansatz in der Kostenrechnung vom 25. Januar 2001 zu …
+- [BGH, Beschluss vom 10.10.2001 - VIII ZR 286/00](viii-zr-286-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 26.09.2001 - VIII ZB 27/01](viii-zb-27-01.md) — zu geringer Beschwer nicht statthaft wäre (§§ 568 a, 546 ZPO). Auch liegt kein Fall des § 547 ZPO vor. Soweit sich das Schreiben des Beklagt
+- [BGH, Urteil vom 26.09.2001 - VIII ZR 303/00](viii-zr-303-00.md) — Tatbestand:
+- [BGH, Urteil vom 12.09.2001 - VIII ZR 109/00](viii-zr-109-00.md) — Tatbestand:
+- [BGH, Urteil vom 12.09.2001 - VIII ZR 67/00](viii-zr-67-00.md) — 3-
+- [BGH, Beschluss vom 01.08.2001 - VIII ZB 22/01](viii-zb-22-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von den hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 01.08.2001 - VIII ZB 24/01](viii-zb-24-01.md) — der Versäumung der Frist zur Begründung der Berufung gegen das Urteil der 1. Zivilkammer des Landgerichts Zwickau vom 7. September 2000 Wied
 - [BGH, Beschluss vom 24.07.2001 - VIII ZB 17/01](viii-zb-17-01.md) — BGH, Beschluss vom 24.07.2001 - VIII ZB 17/01
 - [BGH, Beschluss vom 24.07.2001 - VIII ZB 18/01](viii-zb-18-01.md) — BGH, Beschluss vom 24.07.2001 - VIII ZB 18/01
 - [BGH, Beschluss vom 24.07.2001 - VIII ZR 265/00](viii-zr-265-00.md) — BGH, Beschluss vom 24.07.2001 - VIII ZR 265/00
 - [BGH, Beschluss vom 24.07.2001 - VIII ZR 51/00](viii-zr-51-00.md) — BGH, Beschluss vom 24.07.2001 - VIII ZR 51/00
 - [BGH, Urteil vom 24.07.2001 - VIII ZR 58/01](viii-zr-58-01.md) — Tatbestand: Der Kläger verlangt vom Beklagten die Rückabwicklung eines Gebrauchtwagenkaufs. Das Landgericht hat der Klage, die auf Zahlung v
+- [BGH, Urteil vom 11.07.2001 - VIII ZR 119/00](viii-zr-119-00.md) — Tatbestand: Die Klägerin hatte unter der Bezeichnung "die Kugel" ein elektronisches System zur Automatisierung des Hauses entwickelt. Die Be
+- [BGH, Urteil vom 11.07.2001 - VIII ZR 215/00](viii-zr-215-00.md) — Tatbestand: Die Klägerin begehrt von der Beklagten die Restzahlung für ein Blockheizkraftwerk. Die Beklagte verlangt von der Klägerin die He
+- [BGH, Urteil vom 04.07.2001 - VIII ZR 279/00](viii-zr-279-00.md) — Tatbestand:
+- [BGH, Urteil vom 27.06.2001 - VIII ZR 227/00](viii-zr-227-00.md) — fehlerhafter Beratung der allgemeinen Verjährungsfrist des § 195 BGB. Der Zusammenhang der Beratung mit einem späteren Kaufvertrag zwischen
+- [BGH, Urteil vom 27.06.2001 - VIII ZR 235/00](viii-zr-235-00.md) — Tatbestand:
+- [BGH, Urteil vom 27.06.2001 - VIII ZR 329/99](viii-zr-329-99.md) — Tatbestand:
+- [BGH, Urteil vom 13.06.2001 - VIII ZR 176/00](viii-zr-176-00.md) — Verstoßes gegen § 203 Abs. 1 Nr. 3 StGB in Verbindung mit § 134 BGB nichtig.
+- [BGH, Urteil vom 13.06.2001 - VIII ZR 294/99](viii-zr-294-99.md) — Tatbestand: Die Klägerin verlangt von den Beklagten, einer Rechtsanwaltssozietät, Herausgabe eines von der Hinterlegungsstelle des Amtsgeric
+- [BGH, Beschluss vom 06.06.2001 - VIII ZB 8/01](viii-zb-8-01.md) — I. Gegen den Beklagten ist durch das Landgericht Düsseldorf am 12. Januar 2000 Versäumnisurteil ergangen, das am 8. Februar 2000 durch Niederlegung zugestellt worden ist. Er hat …
+- [BGH, Urteil vom 30.05.2001 - VIII ZR 70/00](viii-zr-70-00.md) — unberechtigter fristloser Kündigung des Handelsvertreters.
+- [BGH, Urteil vom 23.05.2001 - VIII ZR 279/99](viii-zr-279-99.md) — Tatbestand: Die Klägerin kaufte von der Beklagten zu deren Allgemeinen Geschäftsbedingungen einen fabrikneuen Pkw Volvo 855 TDI Combi mit Zu
 - [BGH, Urteil vom 09.05.2001 - VIII ZR 208/00](viii-zr-208-00.md) — Tatbestand: Gemäß "Autoleasing-Antrag G mit Restwertabrechnung" vom 31. Mai 1995 schloß der Beklagte unter der Bezeichnung "Ingenieurbüro P.
 - [BGH, Beschluss vom 09.05.2001 - VIII ZR 32/00](viii-zr-32-00.md) — zu berichtigen war (§ 319 Abs. 1 und 2 ZPO).
 - [BGH, Beschluss vom 09.05.2001 - VIII ZR 33/00](viii-zr-33-00.md) — zu berichtigen war (§ 319 Abs. 1 und 2 ZPO).
+- [BGH, Urteil vom 25.04.2001 - VIII ZR 135/00](viii-zr-135-00.md) — Tatbestand:
+- [BGH, Urteil vom 11.04.2001 - VIII ZR 17/00](viii-zr-17-00.md) — Tatbestand:
+- [BGH, Beschluss vom 11.04.2001 - VIII ZR 206/00](viii-zr-206-00.md) — des Erledigungsvermerks im Kalender keine Veranlassung bestanden, die Akte zu ziehen, um sich von der Richtigkeit des Vermerks zu überzeugen
 - [BGH, Beschluss vom 04.04.2001 - VIII ZR 121/00](viii-zr-121-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung (§ 554 b Abs.
 - [BGH, Beschluss vom 04.04.2001 - VIII ZR 154/00](viii-zr-154-00.md) — Die Vorinstanzen haben den Beklagten antragsgemäß zur Zahlung von 400.000 DM nebst 16 % Mehrwertsteuer verurteilt und die Widerklage abgewiesen.
 - [BGH, Urteil vom 28.03.2001 - VIII ZR 183/00](viii-zr-183-00.md) — Tatbestand: Die Kläger hatten mit ihrer Klage ursprünglich Mietzinsansprüche aus einem Geschäftsraummietvertrag geltend gemacht. Der Beklagt
 - [BGH, Beschluss vom 28.03.2001 - VIII ZR 258/00](viii-zr-258-00.md) — der gezogenen Gebrauchsvorteile nur einen Rückzahlungsanspruch in Höhe von 57.360 DM; dieser Anspruch sei in Höhe von 27.974,33 DM durch die
 - [BGH, Urteil vom 28.03.2001 - VIII ZR 72/00](viii-zr-72-00.md) — Tatbestand: Die Klägerin, die in G. (Belgien) Eier erzeugt, verlangt von der Beklagten, die in Ga. (Landkreis M. ) ausschließlich mit Eiern
+- [BGH, Beschluss vom 21.03.2001 - VIII ZB 17/00](viii-zb-17-00.md) — Zu Recht hat das Oberlandesgericht dem Beschwerdeführer Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Berufungsfrist versagt, weil er vernünftigerweise mit der …
+- [BGH, Urteil vom 21.03.2001 - VIII ZR 149/99](viii-zr-149-99.md) — des weitergehenden Antrages auf Erteilung eines Buchauszuges wird die Klage abgewiesen. Die weitergehende Berufung der Beklagten und die wei
+- [BGH, Urteil vom 21.03.2001 - VIII ZR 244/00](viii-zr-244-00.md) — Tatbestand: Der in L. wohnende Beklagte bezog im Rahmen seines Gewerbebetriebes im Juli 1990 von der Klägerin Videorecorder im Gesamtwert vo
+- [BGH, Urteil vom 14.02.2001 - VIII ZR 277/99](viii-zr-277-99.md) — Tatbestand: Am 23. Dezember 1995/2. Januar 1996 schlossen die Klägerin als Leasinggeberin und der Beklagte als Leasingnehmer einen Leasingve
+- [BGH, Urteil vom 14.02.2001 - VIII ZR 292/98](viii-zr-292-98.md) — Tatbestand: Die Klägerin macht als Gebäudeversicherer Rückgriffsansprüche gegen die Beklagte geltend. Der Versicherungsnehmer der Klägerin v
+- [BGH, Urteil vom 31.01.2001 - VIII ZR 142/00](viii-zr-142-00.md) — Tatbestand: Die Klägerin fordert Zahlung eines Restkaufpreises für die Übernahme des von ihr betriebenen Unternehmens durch die Beklagte. Da
+- [BGH, Urteil vom 17.01.2001 - VIII ZR 186/99](viii-zr-186-99.md) — 3-
+- [BGH, Beschluss vom 09.01.2001 - VIII ZB 26/00](viii-zb-26-00.md) — folgenlos, weil der Anwalt nach Mitteilung des Eingangsdatums der Berufung zur Notierung der endgültig berechneten Frist eine Einzelanweisun

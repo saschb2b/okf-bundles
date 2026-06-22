@@ -1,67 +1,153 @@
 # II. Zivilsenat – 2008
 
-63 Entscheidung(en).
+149 Entscheidung(en).
 
 - [BGH, Beschluss vom 08.12.2008 - II ZB 11/08](ii-zb-11-08.md) — BGH, Beschluss vom 08.12.2008 - II ZB 11/08
+- [BGH, Beschluss vom 08.12.2008 - II ZB 46/07](ii-zb-46-07.md) — I. Die betroffene Kommanditgesellschaft (im Folgenden: Betroffene) war ursprünglich unter der Firma "Harpener M & A GmbH & Co. KG" im Handelsre- gister des Amtsgerichts D …
 - [BGH, Beschluss vom 08.12.2008 - II ZR 263/07](ii-zr-263-07.md) — Verstoßes gegen § 34 Abs. 3 GmbHG jedenfalls dann nichtig, wenn infolge einer Unterbilanz bzw. einer darüber hinausgehenden bilanziellen Übe
 - [BGH, Beschluss vom 08.12.2008 - II ZR 39/08](ii-zr-39-08.md) — BGH, Beschluss vom 08.12.2008 - II ZR 39/08
 - [BGH, Beschluss vom 08.12.2008 - II ZR 44/08](ii-zr-44-08.md) — BGH, Beschluss vom 08.12.2008 - II ZR 44/08
+- [BGH, Urteil vom 01.12.2008 - II ZR 102/07](ii-zr-102-07.md) — Tatbestand:
 - [BGH, Beschluss vom 24.11.2008 - II ZB 4/08](ii-zb-4-08.md) — ausdrücklich
 - [BGH, Urteil vom 24.11.2008 - II ZR 116/08](ii-zr-116-08.md) — Verstoßes gegen die gesellschafterliche Treuepflicht unwirksam sein, was auf einer zweiten Stufe zu prüfen ist (vgl. Senat BGHZ 170, 283 Tz
+- [BGH, Beschluss vom 03.11.2008 - II ZR 103/08](ii-zr-103-08.md) — Die Nichtzulassungsbeschwerde ist gemäß § 26 Nr.
 - [BGH, Beschluss vom 03.11.2008 - II ZR 236/07](ii-zr-236-07.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
 - [BGH, Urteil vom 27.10.2008 - II ZR 158/06](ii-zr-158-06.md) — 3-
+- [BGH, Urteil vom 27.10.2008 - II ZR 255/07](ii-zr-255-07.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 27.10.2008 - II ZR 290/07](ii-zr-290-07.md) — Tatbestand:
 - [BGH, Beschluss vom 23.10.2008 - II ZR 211/08](ii-zr-211-08.md) — der Vergrößerung
+- [BGH, Urteil vom 20.10.2008 - II ZR 107/07](ii-zr-107-07.md) — Tatbestand:
+- [BGH, Beschluss vom 20.10.2008 - II ZR 194/07](ii-zr-194-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 20.10.2008 - II ZR 207/07](ii-zr-207-07.md) — I. Die Beschwerde ist begründet und führt gemäß § 544 Abs. 7 ZPO un- ter Aufhebung des angefochtenen Urteils zur Zurückverweisung an das Beru- fungsgericht, wobei der Senat von …
 - [BGH, Beschluss vom 20.10.2008 - II ZR 211/07](ii-zr-211-07.md) — Insolvenzverschleppung gemäß §§ 823 Abs. 2
+- [BGH, Beschluss vom 20.10.2008 - II ZR 240/07](ii-zr-240-07.md) — Die Voraussetzungen für die Zulassung der Revision liegen nicht vor und die Revision hat keine Aussicht auf Erfolg (§ 552 a ZPO).
+- [BGH, Beschluss vom 20.10.2008 - II ZR 246/07](ii-zr-246-07.md) — Zulassungsgründe liegen nicht vor; die Revision hat auch keine Aussicht auf Erfolg.
 - [BGH, Beschluss vom 20.10.2008 - II ZR 291/07](ii-zr-291-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Urteil vom 13.10.2008 - II ZR 112/07](ii-zr-112-07.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2008 - II ZR 227/07](ii-zr-227-07.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2008 - II ZR 229/07](ii-zr-229-07.md) — Tatbestand:
 - [BGH, Beschluss vom 13.10.2008 - II ZR 233/07](ii-zr-233-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 13.10.2008 - II ZR 26/08](ii-zr-26-08.md) — Tatbestand:
 - [BGH, Urteil vom 13.10.2008 - II ZR 76/07](ii-zr-76-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.09.2008 - II ZR 162/07](ii-zr-162-07.md) — Tatbestand:
 - [BGH, Urteil vom 29.09.2008 - II ZR 234/07](ii-zr-234-07.md) — gemäß § 30 Abs. 1 GmbHG verbotener Auszahlungen (§ 43 Abs. 3 GmbHG) verjähren gemäß § 43 Abs. 4 GmbHG in fünf Jahren ab der jeweiligen Zahlu
+- [BGH, Beschluss vom 22.09.2008 - II ZR 221/07](ii-zr-221-07.md) — Der zulässige Antrag auf Zulassung der Sprungrevision gemäß § 566 ZPO ist nicht begründet, weil keiner der im Gesetz (§ 566 Abs.
+- [BGH, Beschluss vom 22.09.2008 - II ZR 235/07](ii-zr-235-07.md) — I. Die Nichtzulassungsbeschwerden der Klägerinnen zu 5, 10 und 11 sind unbegründet, weil keiner der im Gesetz (§ 543 Abs. 2 ZPO) vorgesehenen Gründe vorliegt, nach denen der Senat …
 - [BGH, Beschluss vom 22.09.2008 - II ZR 257/07](ii-zr-257-07.md) — Prospektmängeln geltend gemacht hatte, vorgetragen, er
 - [BGH, Beschluss vom 22.09.2008 - II ZR 261/07](ii-zr-261-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 22.09.2008 - II ZR 288/07](ii-zr-288-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 01.09.2008 - II ZR 52/08](ii-zr-52-08.md) — Das Gesuch des Beklagten auf Gewährung von Prozesskostenhilfe bleibt ohne Erfolg, weil die besonderen Voraussetzungen des § 116 Satz 1 Nr.
 - [BGH, Beschluss vom 27.08.2008 - II ZR 203/07](ii-zr-203-07.md) — nicht für durchgreifend erachtet hat (vgl.
 - [BGH, Beschluss vom 27.08.2008 - II ZR 26/07](ii-zr-26-07.md) — BGH, Beschluss vom 27.08.2008 - II ZR 26/07
+- [BGH, Beschluss vom 30.07.2008 - II ZB 40/07](ii-zb-40-07.md) — der nunmehr
 - [BGH, Beschluss vom 30.07.2008 - II ZR 184/07](ii-zr-184-07.md) — nicht für durchgreifend erachtet hat (vgl.
+- [BGH, Beschluss vom 21.07.2008 - II ZA 4/08](ii-za-4-08.md) — des wirtschaftlichen Un-
 - [BGH, Beschluss vom 21.07.2008 - II ZB 43/07](ii-zb-43-07.md) — I. Die Klägerin nimmt den Beklagten gemäß § 985 BGB auf Herausgabe eines Kraftfahrzeugs, hilfsweise auf Schadensersatz in Anspruch. Das Landge- richt hat die Klage abgewiesen. Die …
 - [BGH, Beschluss vom 21.07.2008 - II ZR 1/07](ii-zr-1-07.md) — BGH, Beschluss vom 21.07.2008 - II ZR 1/07
 - [BGH, Beschluss vom 21.07.2008 - II ZR 183/07](ii-zr-183-07.md) — nicht darauf an, dass es auch durchgreifenden rechtlichen Bedenken begegnet, dass das Berufungsgericht von seinem Verständnis der Pfändung a
 - [BGH, Beschluss vom 21.07.2008 - II ZR 230/07](ii-zr-230-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 21.07.2008 - II ZR 283/07](ii-zr-283-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 21.07.2008 - II ZR 284/07](ii-zr-284-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 21.07.2008 - II ZR 285/07](ii-zr-285-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Versäumnisurteil vom 21.07.2008 - II ZR 39/07](ii-zr-39-07.md) — Tatbestand:
 - [BGH, Urteil vom 14.07.2008 - II ZR 132/07](ii-zr-132-07.md) — BGB §§ 371, 398, 812 Abs. 1 a) Eine Klage auf Herausgabe der vollstreckbaren Ausfertigung eines unter § 794 ZPO fallenden Titels analog § 371 BGB ist - jedenfalls dann - zulässig …
 - [BGH, Beschluss vom 14.07.2008 - II ZR 202/07](ii-zr-202-07.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
 - [BGH, Beschluss vom 14.07.2008 - II ZR 204/07](ii-zr-204-07.md) — I. Die zum Unternehmensverbund der Bankgesellschaft B. gehörende Klägerin nimmt den Beklagten als Kommanditisten der B. GmbH & Co. KG gemäß §§ 171 Abs. 1, 172 Abs. 4 HGB auf …
+- [BGH, Beschluss vom 14.07.2008 - II ZR 222/07](ii-zr-222-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 14.07.2008 - II ZR 238/07](ii-zr-238-07.md) — Vorenthaltung von Arbeitnehmerbeiträgen zur Sozialversicherung schadensersatzpflichtige Geschäftsführer einer GmbH (§ 823 Abs. 2 BGB i.V.m.
 - [BGH, Beschluss vom 14.07.2008 - II ZR 92/07](ii-zr-92-07.md) — I. 1 Die Nichtzulassungsbeschwerde des Klägers wird zurückgewiesen, weil, soweit er durch das angegriffene Urteil beschwert ist, keiner der im Gesetz -3- (§ 543 Abs. 2 ZPO) …
 - [BGH, Beschluss vom 11.07.2008 - II ZR 125/07](ii-zr-125-07.md) — BGH, Beschluss vom 11.07.2008 - II ZR 125/07
+- [BGH, Beschluss vom 07.07.2008 - II ZA 2/08](ii-za-2-08.md) — I. Die Antragstellerin begehrt, vertreten durch ihren Betreuer, Prozess- kostenhilfe für eine Nichtigkeitsklage gegen den Nichtannahmebeschluss des XI. Zivilsenats des …
 - [BGH, Beschluss vom 07.07.2008 - II ZR 147/07](ii-zr-147-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 07.07.2008 - II ZR 151/07](ii-zr-151-07.md) — Es liegt keiner der im Gesetz (§ 543 Abs. 2 ZPO) vorgesehenen Gründe vor, nach denen der Senat die Revision zulassen darf. Der Rechtsstreit der Par- teien hat weder grundsätzliche …
 - [BGH, Urteil vom 07.07.2008 - II ZR 37/07](ii-zr-37-07.md) — Tatbestand:
+- [BGH, Beschluss vom 07.07.2008 - II ZR 71/07](ii-zr-71-07.md) — Die Voraussetzungen für die Zulassung der Revision liegen nicht vor.
 - [BGH, Beschluss vom 07.07.2008 - II ZR 81/07](ii-zr-81-07.md) — unbilliger Erschwerung des beruflichen Fortkommens des
+- [BGH, Beschluss vom 25.06.2008 - II ZB 39/07](ii-zb-39-07.md) — I. Die Antragsteller und die Antragsgegnerin zu 2 (im Folgenden: An- tragsgegnerin) waren Aktionäre der M. AG (im Fol- genden: M. ), deren Hauptversammlung am 1. Juli 2004 …
+- [BGH, Beschluss vom 25.06.2008 - II ZR 133/07](ii-zr-133-07.md) — Die Nichtzulassungsbeschwerde der Klägerin ist unbegründet, weil kei- ner der im Gesetz (§ 543 Abs.
+- [BGH, Beschluss vom 25.06.2008 - II ZR 140/07](ii-zr-140-07.md) — Die Nichtzulassungsbeschwerde ist unbegründet, weil keiner der im Ge- setz (§ 543 Abs.
+- [BGH, Beschluss vom 25.06.2008 - II ZR 141/07](ii-zr-141-07.md) — Die Nichtzulassungsbeschwerde ist unbegründet, weil keiner der im Ge- setz (§ 543 Abs.
 - [BGH, Beschluss vom 25.06.2008 - II ZR 179/07](ii-zr-179-07.md) — Die Beschwerde ist unzulässig. Der Wert der mit der Revision geltend zu machenden Beschwer beträgt 16.531,58 € und übersteigt nicht den nach § 26 Nr. 8 EGZPO maßgeblichen Wert von …
 - [BGH, Beschluss vom 25.06.2008 - II ZR 96/07](ii-zr-96-07.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
+- [BGH, Beschluss vom 09.06.2008 - II ZR 205/07](ii-zr-205-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 09.06.2008 - II ZR 268/07](ii-zr-268-07.md) — Zulassungsgründe (§ 543 Abs. 2 ZPO) liegen nicht vor. Die Revision hat auch keine Aussicht auf Erfolg. 2 I. Entgegen der Ansicht des Berufungsgerichts kommt der von ihm for- …
+- [BGH, Beschluss vom 03.06.2008 - II ZB 29/07](ii-zb-29-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 02.06.2008 - II ZA 1/07](ii-za-1-07.md) — Die beabsichtigte Rechtsverfolgung bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 02.06.2008 - II ZB 1/06](ii-zb-1-06.md) — I. Die Beteiligte, eine unter HRB 1 beim Amtsgericht - Registergericht - Chemnitz eingetragene GmbH, hatte ihren satzungsmäßigen und tatsächlichen Sitz zunächst in dem in diesem …
+- [BGH, Beschluss vom 02.06.2008 - II ZR 104/07](ii-zr-104-07.md) — einer
+- [BGH, Beschluss vom 02.06.2008 - II ZR 121/07](ii-zr-121-07.md) — Wegfalls der Geschäftsgrundlage nach § 313 Abs. 2 BGB genügt. Ein
+- [BGH, Beschluss vom 02.06.2008 - II ZR 144/07](ii-zr-144-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 02.06.2008 - II ZR 210/06](ii-zr-210-06.md) — 3-
+- [BGH, Urteil vom 02.06.2008 - II ZR 27/07](ii-zr-27-07.md) — Tatbestand:
+- [BGH, Urteil vom 02.06.2008 - II ZR 289/07](ii-zr-289-07.md) — Tatbestand:
 - [BGH, Beschluss vom 02.06.2008 - II ZR 67/07](ii-zr-67-07.md) — in der Lage ist, die streitigen Fragen abschließend zu beurteilen.
+- [BGH, Beschluss vom 26.05.2008 - II ZB 19/07](ii-zb-19-07.md) — Mittellosigkeit als unverschuldet gehindert anzusehen, das Rechtsmittel wirksam einzulegen. Dies gilt allerdings nur dann, wenn sie nach den
 - [BGH, Beschluss vom 26.05.2008 - II ZB 23/07](ii-zb-23-07.md) — I. Die 38 Kläger und die fünf Nebenintervenienten - darunter die beiden Rechtsbeschwerdeführer (nachfolgend: Nebenintervenient zu 41 und Nebenin- tervenientin zu 43) - sind …
+- [BGH, Beschluss vom 16.05.2008 - II ZR 215/07](ii-zr-215-07.md) — Rechtskraft der Entscheidung - der Senat selbst gebunden sind. Der Erinnerungsführer muss daher darauf verwiesen werden, sich mit dem nach s
 - [BGH, Urteil vom 05.05.2008 - II ZR 105/07](ii-zr-105-07.md) — Tatbestand:
+- [BGH, Urteil vom 05.05.2008 - II ZR 108/07](ii-zr-108-07.md) — Tatbestand:
+- [BGH, Beschluss vom 05.05.2008 - II ZR 150/07](ii-zr-150-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 05.05.2008 - II ZR 292/06](ii-zr-292-06.md) — der wirtschaftlichen Entwicklung der Gesellschaft, des Vereins oder der Genossenschaft entweder weniger als den Wert seiner Einlage zurücker
+- [BGH, Urteil vom 05.05.2008 - II ZR 38/07](ii-zr-38-07.md) — Tatbestand:
+- [BGH, Beschluss vom 30.04.2008 - II ZR 109/07](ii-zr-109-07.md) — BGH, Beschluss vom 30.04.2008 - II ZR 109/07
 - [BGH, Beschluss vom 28.04.2008 - II ZA 11/07](ii-za-11-07.md) — BGH, Beschluss vom 28.04.2008 - II ZA 11/07
+- [BGH, Beschluss vom 28.04.2008 - II ZB 27/07](ii-zb-27-07.md) — Nichterreichens der erforderlichen Beschwer verworfen wird, muss den maßgeblichen Sachverhalt, über den entschieden wird, wiedergeben und de
 - [BGH, Urteil vom 28.04.2008 - II ZR 11/07](ii-zr-11-07.md) — Tatbestand:
+- [BGH, Urteil vom 28.04.2008 - II ZR 207/06](ii-zr-207-06.md) — Tatbestand:
 - [BGH, Urteil vom 28.04.2008 - II ZR 264/06](ii-zr-264-06.md) — materieller Unterkapitalisierung im Wege höchstrichterlicher Rechtsfortbildung ist bereits mangels einer im derzeitigen gesetzlichen System
+- [BGH, Beschluss vom 28.04.2008 - II ZR 51/07](ii-zr-51-07.md) — Das Berufungsgericht hat in vielfältiger Weise Vortrag des Klägers über- gangen und dadurch den Anspruch des Klägers auf rechtliches Gehör (Art.
 - [BGH, Beschluss vom 28.04.2008 - II ZR 61/07](ii-zr-61-07.md) — Das Berufungsgericht hat den Vortrag des Klägers nur unvollständig und zudem nur im Zusammenhang mit der Prüfung der Frage der ordnungsgemä- ßen Zustellung des Versäumnisurteils …
 - [BGH, Beschluss vom 23.04.2008 - II ZB 1/08](ii-zb-1-08.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 23.04.2008 - II ZB 28/07](ii-zb-28-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 23.04.2008 - II ZB 32/07](ii-zb-32-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 23.04.2008 - II ZB 44/07](ii-zb-44-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 21.04.2008 - II ZB 6/07](ii-zb-6-07.md) — Prozessverschleppung nach § 1 Abs. 3 Satz 1 Nr. 2 KapMuG bleibt unberührt.
+- [BGH, Beschluss vom 21.04.2008 - II ZR 110/07](ii-zr-110-07.md) — Die Beschwerde ist unzulässig. Der Senat hat keinen Anhaltspunkt dafür, dass der Wert der mit der Revision geltend zu machenden Beschwer die in den Vorinstanzen festgesetzten …
 - [BGH, Beschluss vom 10.04.2008 - II ZR 187/06](ii-zr-187-06.md) — BGH, Beschluss vom 10.04.2008 - II ZR 187/06
 - [BGH, Urteil vom 07.04.2008 - II ZR 181/04](ii-zr-181-04.md) — BGH, Urteil vom 07.04.2008 - II ZR 181/04
+- [BGH, Beschluss vom 07.04.2008 - II ZR 253/05](ii-zr-253-05.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Urteil vom 07.04.2008 - II ZR 3/06](ii-zr-3-06.md) — Tatbestand:
+- [BGH, Beschluss vom 31.03.2008 - II ZB 4/07](ii-zb-4-07.md) — Ver-
+- [BGH, Urteil vom 31.03.2008 - II ZR 308/06](ii-zr-308-06.md) — Tatbestand:
+- [BGH, Urteil vom 17.03.2008 - II ZR 239/06](ii-zr-239-06.md) — Tatbestand:
+- [BGH, Urteil vom 17.03.2008 - II ZR 24/07](ii-zr-24-07.md) — Tatbestand:
+- [BGH, Beschluss vom 17.03.2008 - II ZR 313/06](ii-zr-313-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 17.03.2008 - II ZR 45/06](ii-zr-45-06.md) — der Nichterfüllung" als Konkurs- bzw. Insolvenzgläubiger geltend machen, wenn der Konkurs- bzw. Insolvenzverwalter den Erwerb der ihm innerh
+- [BGH, Beschluss vom 17.03.2008 - II ZR 69/07](ii-zr-69-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 12.03.2008 - II ZB 24/07](ii-zb-24-07.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 12.03.2008 - II ZB 30/07](ii-zb-30-07.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 12.03.2008 - II ZB 37/07](ii-zb-37-07.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 12.03.2008 - II ZB 38/07](ii-zb-38-07.md) — fehlerhafter Ad-
 - [BGH, Beschluss vom 12.03.2008 - II ZB 41/07](ii-zb-41-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 12.03.2008 - II ZR 144/06](ii-zr-144-06.md) — BGH, Beschluss vom 12.03.2008 - II ZR 144/06
 - [BGH, Beschluss vom 10.03.2008 - II ZR 135/07](ii-zr-135-07.md) — der nach den Feststellungen des Berufungsgerichts der Beklagten erst nachträglich bekannt gewordenen - aus dem Bericht der C. vom 28. April
 - [BGH, Beschluss vom 10.03.2008 - II ZR 180/07](ii-zr-180-07.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
 - [BGH, Urteil vom 10.03.2008 - II ZR 312/06](ii-zr-312-06.md) — Tatbestand:
+- [BGH, Urteil vom 03.03.2008 - II ZR 124/06](ii-zr-124-06.md) — Tatbestand:
+- [BGH, Beschluss vom 03.03.2008 - II ZR 251/06](ii-zr-251-06.md) — I. 1 Das Oberlandesgericht hat die Berufung des Beklagten gegen seine Verurteilung zur Zahlung von 53.818,58 € durch Versäumnisurteil am 28. März 2006 zurückgewiesen, weil in dem …
+- [BGH, Beschluss vom 03.03.2008 - II ZR 301/06](ii-zr-301-06.md) — Die Beschwerde ist unzulässig. Der Senat hat keinen Anhaltspunkt dafür, dass der Wert der mit der Revision geltend zu machenden Beschwer 20.000,00 € übersteigt (§ 26 Nr. 8 EGZPO …
+- [BGH, Urteil vom 03.03.2008 - II ZR 310/06](ii-zr-310-06.md) — Tatbestand:
+- [BGH, Beschluss vom 26.02.2008 - II ZR 50/07](ii-zr-50-07.md) — Das Vorbringen des Klägers in seinem - als Gegenvorstellung zu behandelnden - Schreiben vom 1.
 - [BGH, Beschluss vom 25.02.2008 - II ZB 9/07](ii-zb-9-07.md) — angeblich verspäte-
 - [BGH, Urteil vom 18.02.2008 - II ZR 132/06](ii-zr-132-06.md) — Tatbestand:
+- [BGH, Beschluss vom 18.02.2008 - II ZR 62/07](ii-zr-62-07.md) — Die Nichtzulassungsbeschwerde führt zur Aufhebung und Zurückverwei- sung gemäß § 544 Abs.
+- [BGH, Beschluss vom 18.02.2008 - II ZR 65/07](ii-zr-65-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 18.02.2008 - II ZR 88/07](ii-zr-88-07.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 11.02.2008 - II ZR 171/06](ii-zr-171-06.md) — Tatbestand:
+- [BGH, Beschluss vom 11.02.2008 - II ZR 277/06](ii-zr-277-06.md) — Die Nichtzulassungsbeschwerde führt zur Aufhebung und Zurückverwei- sung gemäß § 544 Abs.
 - [BGH, Beschluss vom 11.02.2008 - II ZR 291/06](ii-zr-291-06.md) — BGH, Beschluss vom 11.02.2008 - II ZR 291/06
+- [BGH, Beschluss vom 11.02.2008 - II ZR 314/06](ii-zr-314-06.md) — Die Nichtzulassungsbeschwerde der Beklagten ist als unzulässig zu ver- werfen, da der Wert der Beschwer nicht, wie nach § 26 Nr.
+- [BGH, Urteil vom 11.02.2008 - II ZR 67/06](ii-zr-67-06.md) — Tatbestand:
+- [BGH, Beschluss vom 30.01.2008 - II ZB 34/07](ii-zb-34-07.md) — 1. Durch Beschluss vom 19. November 2007 hat der Senat die Rechts- beschwerde der Beklagten gegen den Beschluss des 9. Zivilsenats des Schles- wig-Holsteinischen …
+- [BGH, Beschluss vom 28.01.2008 - II ZR 209/06](ii-zr-209-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 28.01.2008 - II ZR 29/07](ii-zr-29-07.md) — Zulassungsgründe gemäß § 543 Abs. 2 ZPO sind nicht gegeben. Die Revision hat auch keine Aussicht auf Erfolg. 2 Eine Grundsatzfrage stellt sich entgegen der Annahme des …
 - [BGH, Beschluss vom 28.01.2008 - II ZR 290/06](ii-zr-290-06.md) — Die Voraussetzungen für die Zulassung der Revision liegen nicht vor, und die Revision hat auch keine Aussicht auf Erfolg (§ 552 a ZPO).
-- [BGH, Beschluss vom 17.01.2008 - II ZB 10/07](ii-zb-10-07.md) — BGH, Beschluss vom 17.01.2008 - II ZB 10/07
+- [BGH, Beschluss vom 14.01.2008 - II ZA 5/07](ii-za-5-07.md) — BGH, Beschluss vom 14.01.2008 - II ZA 5/07
+- [BGH, Urteil vom 14.01.2008 - II ZR 245/06](ii-zr-245-06.md) — Tatbestand:
+- [BGH, Beschluss vom 14.01.2008 - II ZR 282/06](ii-zr-282-06.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 14.01.2008 - II ZR 85/07](ii-zr-85-07.md) — Zulassungsgründe (§ 543 Abs. 2 ZPO) liegen nicht vor; die Revision hat auch keine Aussicht auf Erfolg. 2 I. Weder der vom Berufungsgericht als Zulassungsgrund angeführte noch ein …
+- [BGH, Beschluss vom 07.01.2008 - II ZR 204/06](ii-zr-204-06.md) — Zeitablaufs (GA I, 158, 288) oder die Umsetzung der Erklärung (GA I,
+- [BGH, Urteil vom 07.01.2008 - II ZR 229/05](ii-zr-229-05.md) — fehlerhafter Ad-hoc-Publizität auf dem Sekundärmarkt kann auf den Nachweis der konkreten Kausalität für den Willensentschluss des Anlegers s
+- [BGH, Beschluss vom 07.01.2008 - II ZR 234/06](ii-zr-234-06.md) — I. Die Revision des Beklagten ist als unzulässig zu verwerfen, weil sie nicht ordnungsgemäß begründet ist (§ 551 Abs. 3 Satz 1 Nr. 2 b ZPO). Das Be- rufungsgericht hat nicht in …
 - [BGH, Urteil vom 07.01.2008 - II ZR 283/06](ii-zr-283-06.md) — Tatbestand:
+- [BGH, Urteil vom 07.01.2008 - II ZR 68/06](ii-zr-68-06.md) — Tatbestand:

@@ -1,41 +1,157 @@
 # 4. Strafsenat – 2004
 
-37 Entscheidung(en).
+153 Entscheidung(en).
 
+- [BGH, Beschluss vom 16.12.2004 - 4 StR 363/04](4-str-363-04.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 16.12.2004 - 4 StR 510/04](4-str-510-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 14.12.2004 - 4 StR 237/04](4-str-237-04.md) — sexueller Nötigung u.a.
 - [BGH, Urteil vom 14.12.2004 - 4 StR 255/04](4-str-255-04.md) — Vergewaltigung
+- [BGH, Urteil vom 14.12.2004 - 4 StR 465/04](4-str-465-04.md) — versuchten Totschlags u.a.
 - [BGH, Urteil vom 09.12.2004 - 4 StR 164/04](4-str-164-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 09.12.2004 - 4 StR 294/04](4-str-294-04.md) — Verdachts der Untreue
+- [BGH, Beschluss vom 09.12.2004 - 4 StR 516/04](4-str-516-04.md) — versuchter schwerer Brandstiftung u.a.
 - [BGH, Beschluss vom 02.12.2004 - 4 StR 452/04](4-str-452-04.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 02.12.2004 - 4 StR 471/04](4-str-471-04.md) — Betruges u. a.
+- [BGH, Urteil vom 25.11.2004 - 4 StR 326/04](4-str-326-04.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 23.11.2004 - 4 StR 347/04](4-str-347-04.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 23.11.2004 - 4 StR 362/04](4-str-362-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 16.11.2004 - 4 StR 392/04](4-str-392-04.md) — räuberischen Angriffs auf Kraftfahrer u.a.
 - [BGH, Urteil vom 11.11.2004 - 4 StR 349/04](4-str-349-04.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 09.11.2004 - 4 StR 426/04](4-str-426-04.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 04.11.2004 - 4 StR 368/04](4-str-368-04.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 04.11.2004 - 4 StR 388/04](4-str-388-04.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 04.11.2004 - 4 StR 81/04](4-str-81-04.md) — schweren Raubes u.a.
 - [BGH, Urteil vom 28.10.2004 - 4 StR 268/04](4-str-268-04.md) — Mordes u.a.
+- [BGH, Urteil vom 28.10.2004 - 4 StR 59/04](4-str-59-04.md) — unerlaubter Einfuhr von Betäubungsmitteln u.a.
 - [BGH, Beschluss vom 26.10.2004 - 4 StR 151/04](4-str-151-04.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 26.10.2004 - 4 StR 216/04](4-str-216-04.md) — Betruges
 - [BGH, Urteil vom 21.10.2004 - 4 StR 166/04](4-str-166-04.md) — Vergewaltigung
 - [BGH, Urteil vom 21.10.2004 - 4 StR 298/04](4-str-298-04.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 21.10.2004 - 4 StR 325/04](4-str-325-04.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 19.10.2004 - 4 StR 265/04](4-str-265-04.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 14.10.2004 - 4 StR 292/04](4-str-292-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 14.10.2004 - 4 StR 296/04](4-str-296-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.10.2004 - 4 StR 356/04](4-str-356-04.md) — schweren Raubes
+- [BGH, Beschluss vom 14.10.2004 - 4 StR 373/04](4-str-373-04.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 14.10.2004 - 4 StR 403/04](4-str-403-04.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 12.10.2004 - 4 StR 304/04](4-str-304-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 12.10.2004 - 4 StR 327/04](4-str-327-04.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 12.10.2004 - 4 StR 358/04](4-str-358-04.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.10.2004 - 4 StR 387/04](4-str-387-04.md) — versuchter räuberischer Erpressung
+- [BGH, Urteil vom 30.09.2004 - 4 StR 134/04](4-str-134-04.md) — zu 1.: schweren sexuellen Mißbrauchs eines Kindes u.a. zu 2.: schweren sexuellen Mißbrauchs eines Kindes zu 3.: des Verdachts des sexuellen
 - [BGH, Beschluss vom 30.09.2004 - 4 StR 297/04](4-str-297-04.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 30.09.2004 - 4 StR 381/04](4-str-381-04.md) — Untreue u.a.
 - [BGH, Urteil vom 16.09.2004 - 4 StR 84/04](4-str-84-04.md) — schweren Menschenhandels
+- [BGH, Beschluss vom 14.09.2004 - 4 StR 230/04](4-str-230-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 14.09.2004 - 4 StR 309/04](4-str-309-04.md) — sexueller Nötigung
+- [BGH, Beschluss vom 14.09.2004 - 4 StR 62/04](4-str-62-04.md) — Verkehrsordnungswidrigkeit hier: Vorlegungssache des Oberlandesgerichts Naumburg
 - [BGH, Urteil vom 09.09.2004 - 4 StR 199/04](4-str-199-04.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 09.09.2004 - 4 StR 307/04](4-str-307-04.md) — Betruges u.a.
+- [BGH, Beschluss vom 07.09.2004 - 4 StR 234/04](4-str-234-04.md) — Bestechung u. a.
+- [BGH, Urteil vom 26.08.2004 - 4 StR 236/04](4-str-236-04.md) — des Verdachts des Totschlags
 - [BGH, Beschluss vom 24.08.2004 - 4 StR 293/04](4-str-293-04.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 19.08.2004 - 4 StR 284/04](4-str-284-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 19.08.2004 - 4 StR 320/04](4-str-320-04.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 12.08.2004 - 4 StR 269/04](4-str-269-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 10.08.2004 - 4 StR 212/04](4-str-212-04.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 05.08.2004 - 4 StR 186/04](4-str-186-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 27.07.2004 - 4 StR 239/04](4-str-239-04.md) — Verabredung zum Mord u.a.
 - [BGH, Beschluss vom 22.07.2004 - 4 StR 184/04](4-str-184-04.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 22.07.2004 - 4 StR 256/04](4-str-256-04.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 20.07.2004 - 4 StR 180/04](4-str-180-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.07.2004 - 4 StR 249/04](4-str-249-04.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 20.07.2004 - 4 StR 254/04](4-str-254-04.md) — Vergewaltigung
 - [BGH, Beschluss vom 13.07.2004 - 4 StR 120/04](4-str-120-04.md) — schweren sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 13.07.2004 - 4 StR 157/04](4-str-157-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 13.07.2004 - 4 StR 178/04](4-str-178-04.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 13.07.2004 - 4 StR 548/03](4-str-548-03.md) — versuchten Totschlags u.a.
 - [BGH, Urteil vom 08.07.2004 - 4 StR 47/04](4-str-47-04.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 06.07.2004 - 4 StR 155/03](4-str-155-03.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 06.07.2004 - 4 StR 161/04](4-str-161-04.md) — Beihilfe zum Betrug
+- [BGH, Urteil vom 06.07.2004 - 4 StR 175/03](4-str-175-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 06.07.2004 - 4 StR 193/04](4-str-193-04.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 01.07.2004 - 4 StR 128/04](4-str-128-04.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 01.07.2004 - 4 StR 226/04](4-str-226-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 01.07.2004 - 4 StR 229/04](4-str-229-04.md) — sexuellen Mißbrauchs einer Schutzbefohlenen u.a.
+- [BGH, Beschluss vom 01.07.2004 - 4 StR 5/04](4-str-5-04.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Urteil vom 24.06.2004 - 4 StR 15/04](4-str-15-04.md) — Betrugs oder Beihilfe zur Untreue
 - [BGH, Beschluss vom 24.06.2004 - 4 StR 165/04](4-str-165-04.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 24.06.2004 - 4 StR 210/04](4-str-210-04.md) — vorsätzlichen Eingriffs in den Straßenverkehr u.a.
 - [BGH, Beschluss vom 24.06.2004 - 4 StR 235/04](4-str-235-04.md) — Versäumung der Revisionseinlegungsfrist gemäß § 346 Abs. 1 StPO als unzulässig verworfen. Hiergegen wendet sich der Untergebrachte mit Schre
+- [BGH, Beschluss vom 22.06.2004 - 4 StR 135/04](4-str-135-04.md) — versuchter Vergewaltigung u.a.
+- [BGH, Beschluss vom 22.06.2004 - 4 StR 428/03](4-str-428-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 22.06.2004 - 4 StR 555/03](4-str-555-03.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.06.2004 - 4 StR 556/03](4-str-556-03.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 17.06.2004 - 4 StR 54/04](4-str-54-04.md) — Mordes u.a.
+- [BGH, Urteil vom 17.06.2004 - 4 StR 77/04](4-str-77-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 15.06.2004 - 4 StR 176/04](4-str-176-04.md) — des Vorwurfs des bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.06.2004 - 4 StR 150/04](4-str-150-04.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 08.06.2004 - 4 StR 160/04](4-str-160-04.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 08.06.2004 - 4 StR 519/03](4-str-519-03.md) — gefährlicher Körperverletzung
 - [BGH, Urteil vom 27.05.2004 - 4 StR 41/04](4-str-41-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Entscheidung vom 27.05.2004 - 4 StR 564/03](4-str-564-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 26.05.2004 - 4 StR 119/04](4-str-119-04.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 26.05.2004 - 4 StR 149/04](4-str-149-04.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 18.05.2004 - 4 StR 173/04](4-str-173-04.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 18.05.2004 - 4 StR 185/04](4-str-185-04.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 11.05.2004 - 4 StR 90/04](4-str-90-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 04.05.2004 - 4 StR 49/04](4-str-49-04.md) — Bestechlichkeit
+- [BGH, Urteil vom 29.04.2004 - 4 StR 43/04](4-str-43-04.md) — Landfriedensbruchs u.a.
+- [BGH, Urteil vom 29.04.2004 - 4 StR 586/03](4-str-586-03.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.04.2004 - 4 StR 123/04](4-str-123-04.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 27.04.2004 - 4 StR 126/04](4-str-126-04.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 22.04.2004 - 4 StR 117/04](4-str-117-04.md) — Betruges
+- [BGH, Beschluss vom 22.04.2004 - 4 StR 48/04](4-str-48-04.md) — Totschlags
+- [BGH, Beschluss vom 20.04.2004 - 4 StR 116/04](4-str-116-04.md) — gewerbsmäßiger Bandenhehlerei
+- [BGH, Beschluss vom 20.04.2004 - 4 StR 474/03](4-str-474-03.md) — Betruges
+- [BGH, Beschluss vom 20.04.2004 - 4 StR 61/04](4-str-61-04.md) — versuchter besonders schwerer sexueller Nötigung u.a. zu 2.: wegen versuchter besonders schwerer Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.04.2004 - 4 StR 67/04](4-str-67-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.04.2004 - 4 StR 91/04](4-str-91-04.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 14.04.2004 - 4 StR 32/04](4-str-32-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 14.04.2004 - 4 StR 577/03](4-str-577-03.md) — Mordes u.a.
+- [BGH, Beschluss vom 14.04.2004 - 4 StR 99/04](4-str-99-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 08.04.2004 - 4 StR 566/03](4-str-566-03.md) — schweren Raubes u.a.
 - [BGH, Urteil vom 08.04.2004 - 4 StR 576/03](4-str-576-03.md) — schweren räuberischen Diebstahls
+- [BGH, Beschluss vom 08.04.2004 - 4 StR 98/04](4-str-98-04.md) — Betrugs
+- [BGH, Beschluss vom 06.04.2004 - 4 StR 100/04](4-str-100-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 06.04.2004 - 4 StR 38/04](4-str-38-04.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 06.04.2004 - 4 StR 57/04](4-str-57-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 01.04.2004 - 4 StR 18/04](4-str-18-04.md) — Untreue
 - [BGH, Beschluss vom 30.03.2004 - 4 StR 3/04](4-str-3-04.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 30.03.2004 - 4 StR 35/04](4-str-35-04.md) — versuchten schweren Raubes u. a.
+- [BGH, Beschluss vom 30.03.2004 - 4 StR 42/04](4-str-42-04.md) — Mordes u.a.
+- [BGH, Beschluss vom 30.03.2004 - 4 StR 529/03](4-str-529-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 30.03.2004 - 4 StR 53/03](4-str-53-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 30.03.2004 - 4 StR 53/04](4-str-53-04.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 25.03.2004 - 4 StR 64/04](4-str-64-04.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 25.03.2004 - 4 StR 72/04](4-str-72-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 23.03.2004 - 4 StR 34/04](4-str-34-04.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 23.03.2004 - 4 StR 466/03](4-str-466-03.md) — Mordes
+- [BGH, Beschluss vom 23.03.2004 - 4 StR 9/04](4-str-9-04.md) — Mordes
+- [BGH, Beschluss vom 18.03.2004 - 4 StR 36/04](4-str-36-04.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 18.03.2004 - 4 StR 533/03](4-str-533-03.md) — Verdachts der Beihilfe zum Mord
+- [BGH, Urteil vom 10.03.2004 - 4 StR 563/03](4-str-563-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 09.03.2004 - 4 StR 51/04](4-str-51-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge unter Mitführung einer Waffe
 - [BGH, Urteil vom 04.03.2004 - 4 StR 377/03](4-str-377-03.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 02.03.2004 - 4 StR 518/03](4-str-518-03.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 25.02.2004 - 4 StR 1/04](4-str-1-04.md) — Geiselnahme u.a.
+- [BGH, Beschluss vom 25.02.2004 - 4 StR 30/04](4-str-30-04.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Urteil vom 25.02.2004 - 4 StR 394/03](4-str-394-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Urteil vom 25.02.2004 - 4 StR 475/03](4-str-475-03.md) — des Verdachts der Bestechlichkeit u.a.
 - [BGH, Beschluss vom 24.02.2004 - 4 StR 582/03](4-str-582-03.md) — sexueller Nötigung u.a.
+- [BGH, Urteil vom 19.02.2004 - 4 StR 371/03](4-str-371-03.md) — Diebstahls u.a.
 - [BGH, Urteil vom 19.02.2004 - 4 StR 524/03](4-str-524-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 17.02.2004 - 4 StR 574/03](4-str-574-03.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 17.02.2004 - 4 StR 580/03](4-str-580-03.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 17.02.2004 - 4 StR 585/03](4-str-585-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 12.02.2004 - 4 StR 16/04](4-str-16-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.02.2004 - 4 StR 2/04](4-str-2-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 10.02.2004 - 4 StR 24/04](4-str-24-04.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 10.02.2004 - 4 StR 584/03](4-str-584-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 03.02.2004 - 4 StR 403/03](4-str-403-03.md) — Mordes u.a.
 - [BGH, Beschluss vom 03.02.2004 - 4 StR 558/03](4-str-558-03.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 22.01.2004 - 4 StR 554/03](4-str-554-03.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 20.01.2004 - 4 StR 464/03](4-str-464-03.md) — Totschlags
 - [BGH, Beschluss vom 08.01.2004 - 4 StR 539/03](4-str-539-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.01.2004 - 4 StR 415/03](4-str-415-03.md) — unerlaubten Erwerbs von vollautomatischen Selbstladewaffen u.a.
+- [BGH, Beschluss vom 07.01.2004 - 4 StR 440/03](4-str-440-03.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.

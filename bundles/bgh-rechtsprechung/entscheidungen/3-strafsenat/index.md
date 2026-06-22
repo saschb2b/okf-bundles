@@ -1,6 +1,6 @@
 # 3. Strafsenat
 
-Strafsachen, u.a. Staatsschutz und Terrorismus. Revisionen und Beschlüsse in Strafsachen (Zuständigkeit überwiegend nach Land- und OLG-Bezirken). 2883 Entscheidung(en).
+Strafsachen, u.a. Staatsschutz und Terrorismus. Revisionen und Beschlüsse in Strafsachen (Zuständigkeit überwiegend nach Land- und OLG-Bezirken). 4030 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -21,13 +21,13 @@ Strafsachen, u.a. Staatsschutz und Terrorismus. Revisionen und Beschlüsse in St
 - [2012](2012/index.md) (109)
 - [2011](2011/index.md) (116)
 - [2010](2010/index.md) (120)
-- [2009](2009/index.md) (90)
-- [2008](2008/index.md) (115)
-- [2007](2007/index.md) (71)
-- [2006](2006/index.md) (79)
-- [2005](2005/index.md) (81)
-- [2004](2004/index.md) (74)
-- [2003](2003/index.md) (56)
-- [2002](2002/index.md) (115)
-- [2001](2001/index.md) (87)
-- [2000](2000/index.md) (87)
+- [2009](2009/index.md) (222)
+- [2008](2008/index.md) (234)
+- [2007](2007/index.md) (185)
+- [2006](2006/index.md) (175)
+- [2005](2005/index.md) (175)
+- [2004](2004/index.md) (157)
+- [2003](2003/index.md) (189)
+- [2002](2002/index.md) (244)
+- [2001](2001/index.md) (233)
+- [2000](2000/index.md) (188)

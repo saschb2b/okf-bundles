@@ -1,38 +1,92 @@
 # VII. Zivilsenat – 2008
 
-34 Entscheidung(en).
+88 Entscheidung(en).
 
 - [BGH, Urteil vom 18.12.2008 - VII ZR 189/06](vii-zr-189-06.md) — Tatbestand:
 - [BGH, Beschluss vom 18.12.2008 - VII ZR 200/06](vii-zr-200-06.md) — BGH, Beschluss vom 18.12.2008 - VII ZR 200/06
 - [BGH, Urteil vom 18.12.2008 - VII ZR 201/06](vii-zr-201-06.md) — Tatbestand:
+- [BGH, Beschluss vom 11.12.2008 - VII ZR 110/08](vii-zr-110-08.md) — BGH, Beschluss vom 11.12.2008 - VII ZR 110/08
+- [BGH, Urteil vom 11.12.2008 - VII ZR 235/06](vii-zr-235-06.md) — Tatbestand:
+- [BGH, Beschluss vom 10.12.2008 - VII ZA 9/08](vii-za-9-08.md) — Überschreitung eines Kostenvoranschlags nicht verbeschieden und rügt die
+- [BGH, Beschluss vom 10.12.2008 - VII ZB 49/08](vii-zb-49-08.md) — der Aufhebung, weil sie unter Verletzung des Verfassungsgebots des gesetzli-
+- [BGH, Beschluss vom 10.12.2008 - VII ZR 31/08](vii-zr-31-08.md) — BGH, Beschluss vom 10.12.2008 - VII ZR 31/08
+- [BGH, Beschluss vom 10.12.2008 - VII ZR 49/08](vii-zr-49-08.md) — liegende Auffassung, es komme darauf an, welche formellen Einwendungen gegen die Wirksamkeit des angefochtenen Beschlusses der Wohnungseigentümergemeinschaft im Berufungsverfahren …
+- [BGH, Beschluss vom 27.11.2008 - VII ZR 202/07](vii-zr-202-07.md) — I. 1 Die Klägerin begehrt von der Beklagten restlichen Werklohn. 2 Die Beklagte beauftragte im Jahr 1998 die H. GmbH, deren Geschäfte später von der Klägerin fortgeführt wurden …
+- [BGH, Urteil vom 27.11.2008 - VII ZR 206/06](vii-zr-206-06.md) — eines übersehenen Planungsmangels in Anspruch, muss er sich das Verschulden des von ihm eingesetzten Planers zurechnen lassen.
+- [BGH, Beschluss vom 27.11.2008 - VII ZR 208/07](vii-zr-208-07.md) — Das Berufungsurteil beruht, soweit es zum Nachteil der Beklagten er- gangen ist, auf einer Verletzung des Rechts der Beklagten auf Gewährung rechtlichen Gehörs.
+- [BGH, Versäumnisurteil vom 27.11.2008 - VII ZR 211/07](vii-zr-211-07.md) — Tatbestand:
+- [BGH, Beschluss vom 27.11.2008 - VII ZR 62/08](vii-zr-62-08.md) — BGH, Beschluss vom 27.11.2008 - VII ZR 62/08
+- [BGH, Beschluss vom 13.11.2008 - VII ZB 69/08](vii-zb-69-08.md) — BGH, Beschluss vom 13.11.2008 - VII ZB 69/08
 - [BGH, Urteil vom 13.11.2008 - VII ZR 188/07](vii-zr-188-07.md) — Tatbestand:
+- [BGH, Beschluss vom 13.11.2008 - VII ZR 27/08](vii-zr-27-08.md) — BGH, Beschluss vom 13.11.2008 - VII ZR 27/08
 - [BGH, Beschluss vom 13.11.2008 - VII ZR 98/07](vii-zr-98-07.md) — BGH, Beschluss vom 13.11.2008 - VII ZR 98/07
 - [BGH, Beschluss vom 23.10.2008 - VII ZB 16/08](vii-zb-16-08.md) — einer Forderung in
 - [BGH, Beschluss vom 23.10.2008 - VII ZB 17/08](vii-zb-17-08.md) — einer Forderung in
+- [BGH, Beschluss vom 23.10.2008 - VII ZB 92/07](vii-zb-92-07.md) — Geldforderungen aus zwei Urteilen und zwei Kostenfestsetzungsbe-
 - [BGH, Urteil vom 23.10.2008 - VII ZR 105/07](vii-zr-105-07.md) — Tatbestand:
+- [BGH, Beschluss vom 09.10.2008 - VII ZB 32/08](vii-zb-32-08.md) — Versäumung der Berufungsbegründungsfrist beantragt. Am
+- [BGH, Beschluss vom 09.10.2008 - VII ZB 43/08](vii-zb-43-08.md) — I. 1 Die Klägerin machte vor dem Amtsgericht gegen die Beklagte eine For- derung von 1.012,68 € aus einem Anzeigenauftrag geltend. Darüber hinaus berühmte sie sich einer weiteren …
 - [BGH, Urteil vom 09.10.2008 - VII ZR 227/07](vii-zr-227-07.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 09.10.2008 - VII ZR 80/07](vii-zr-80-07.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2008 - VII ZA 7/08](vii-za-7-08.md) — eines Anspruchs auf Zugewinnausgleich
 - [BGH, Beschluss vom 25.09.2008 - VII ZB 23/08](vii-zb-23-08.md) — einer mangelhaften Verkleidung
 - [BGH, Beschluss vom 25.09.2008 - VII ZB 93/07](vii-zb-93-07.md) — I. 1 Der Kläger hat die Beklagte auf Zahlung von Werklohn für durchgeführte Elektroarbeiten in Anspruch genommen. Das Landgericht hat die Beklagte an- -3- tragsgemäß auf Zahlung …
+- [BGH, Beschluss vom 25.09.2008 - VII ZB 99/07](vii-zb-99-07.md) — I. 1 Die Antragsteller begehren als frühere Prozessbevollmächtigte des An- tragsgegners Festsetzung ihrer Vergütung. Sie hatten den Antragsgegner als Beklagten in einem …
+- [BGH, Urteil vom 25.09.2008 - VII ZR 174/07](vii-zr-174-07.md) — Tatbestand:
+- [BGH, Urteil vom 25.09.2008 - VII ZR 204/07](vii-zr-204-07.md) — Tatbestand:
 - [BGH, Urteil vom 25.09.2008 - VII ZR 32/07](vii-zr-32-07.md) — Tatbestand:
 - [BGH, Urteil vom 25.09.2008 - VII ZR 35/07](vii-zr-35-07.md) — Tatbestand:
+- [BGH, Urteil vom 25.09.2008 - VII ZR 37/07](vii-zr-37-07.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2008 - VII ZR 41/08](vii-zr-41-08.md) — BGH, Beschluss vom 25.09.2008 - VII ZR 41/08
+- [BGH, Beschluss vom 14.08.2008 - VII ZB 3/08](vii-zb-3-08.md) — Die Rechtsbeschwerde hat keinen Erfolg. I. 2 Die Gläubigerin, die I. GmbH, betrieb aus einem notariellen Schuldaner- kenntnis der Schuldner die Zwangsvollstreckung. Sie erwirkte …
 - [BGH, Beschluss vom 14.08.2008 - VII ZR 146/08](vii-zr-146-08.md) — an. Sie erhebt die Rüge der Verletzung des Anspruchs auf rechtliches Gehör lediglich im Hinblick auf die Anwendung des § 17 Nr. 8 VOB/B. Auf die Vereinbarung in § 17 Nr. 8 VOB/B …
 - [BGH, Beschluss vom 24.07.2008 - VII ZB 2/08](vii-zb-2-08.md) — I. 1 Die Gläubigerin hat nach einem Urteil des Amtsgerichts aufgrund eines Pfändungs- und Überweisungsbeschlusses das Arbeitseinkommen der Schuld- nerin gepfändet. Diese ist als …
 - [BGH, Beschluss vom 24.07.2008 - VII ZB 34/08](vii-zb-34-08.md) — Versäumung der Frist zur Einlegung und Begründung der Rechtsbeschwerde Wiedereinsetzung in den vorigen Stand gewährt.
-- [BGH, Entscheidung vom 24.07.2008 - VII ZR 205/07](vii-zr-205-07.md) — BGH, Entscheidung vom 24.07.2008 - VII ZR 205/07
+- [BGH, Beschluss vom 24.07.2008 - VII ZB 7/08](vii-zb-7-08.md) — dieser Forderung
+- [BGH, Beschluss vom 24.07.2008 - VII ZR 219/07](vii-zr-219-07.md) — BGH, Beschluss vom 24.07.2008 - VII ZR 219/07
+- [BGH, Urteil vom 24.07.2008 - VII ZR 55/07](vii-zr-55-07.md) — Tatbestand:
+- [BGH, Beschluss vom 10.07.2008 - VII ZB 25/08](vii-zb-25-08.md) — rückständigen Unterhalts. Sie hat für den Erlass
 - [BGH, Urteil vom 10.07.2008 - VII ZR 16/07](vii-zr-16-07.md) — dieser Mängel am Werk anrechnen lassen. Eine Anrechnung kommt erst in Betracht, wenn er den Rückzahlungsanspruch realisiert hat und feststeh
+- [BGH, Beschluss vom 10.07.2008 - VII ZR 162/06](vii-zr-162-06.md) — BGH, Beschluss vom 10.07.2008 - VII ZR 162/06
 - [BGH, Beschluss vom 10.07.2008 - VII ZR 210/07](vii-zr-210-07.md) — Mängeln einer Jalousienanlage eines Bürohauses, das die
+- [BGH, Beschluss vom 08.07.2008 - VII ZB 39/07](vii-zb-39-07.md) — eines Teilbetrages, muss der Pfändungs- und Überweisungsbeschluss erkennen lassen, wegen welcher dieser Forderungen vollstreckt werden soll.
+- [BGH, Beschluss vom 08.07.2008 - VII ZB 40/07](vii-zb-40-07.md) — eines Teilbetrages in Höhe von 20.000 € zu-
+- [BGH, Beschluss vom 08.07.2008 - VII ZB 64/07](vii-zb-64-07.md) — einer Forderung, die den Schuldner nur gegen Aushändigung einer Inhaberschuldverschreibung zur Leistung verpflichtet, fällt grundsätzlich ni
+- [BGH, Beschluss vom 08.07.2008 - VII ZB 65/07](vii-zb-65-07.md) — eines Betrages in Höhe von 161.000 € zuzüg-
+- [BGH, Beschluss vom 08.07.2008 - VII ZB 66/07](vii-zb-66-07.md) — eines Betrages in Höhe von 123.476,99 €
 - [BGH, Beschluss vom 08.07.2008 - VII ZB 67/07](vii-zb-67-07.md) — BGH, Beschluss vom 08.07.2008 - VII ZB 67/07
+- [BGH, Beschluss vom 08.07.2008 - VII ZB 68/07](vii-zb-68-07.md) — eines Betrages in Höhe von 161.000 € zuzüg-
+- [BGH, Beschluss vom 08.07.2008 - VII ZB 69/07](vii-zb-69-07.md) — eines Teilbetrages in Höhe von 160.000 €
+- [BGH, Beschluss vom 19.06.2008 - VII ZR 127/06](vii-zr-127-06.md) — I. 1 Die Klägerin verlangt von den Beklagten restlichen Werklohn und ent- gangenen Gewinn. 2 Die Beklagten sind Mitglieder der Wohnungseigentümergemeinschaft ei- nes Anwesens in …
 - [BGH, Urteil vom 19.06.2008 - VII ZR 215/06](vii-zr-215-06.md) — Tatbestand:
+- [BGH, Beschluss vom 19.05.2008 - VII ZR 159/07](vii-zr-159-07.md) — der Korrektur. Die Revision hätte zugelassen werden müssen.
+- [BGH, Beschluss vom 08.05.2008 - VII ZB 97/07](vii-zb-97-07.md) — einer
 - [BGH, Urteil vom 08.05.2008 - VII ZR 106/07](vii-zr-106-07.md) — einer überhöhten Schlussrechnung geltend, so sind die subjektiven Voraussetzungen des § 199 Abs. 1 Nr. 2 BGB in der Regel erfüllt, wenn er d
+- [BGH, Beschluss vom 08.05.2008 - VII ZR 201/07](vii-zr-201-07.md) — Die Beschwerde ist unbegründet. Ein Grund, die Revision zuzulassen, § 543 Abs. 2 ZPO, besteht nicht. 2 1. Der Beschwerde ist einzuräumen, dass Bedenken gegen die Auffas- sung des …
+- [BGH, Beschluss vom 08.05.2008 - VII ZR 237/06](vii-zr-237-06.md) — Die Nichtzulassungsbeschwerde ist gemäß § 26 Nr.
+- [BGH, Beschluss vom 24.04.2008 - VII ZB 96/07](vii-zb-96-07.md) — I. 1 Das Amtsgericht hat gegen die Schuldnerin einen Pfändungs- und Über- weisungsbeschluss erlassen, mit dem deren Ansprüche gegenüber der Dritt- schuldnerin, einer Sparkasse …
+- [BGH, Urteil vom 24.04.2008 - VII ZR 140/07](vii-zr-140-07.md) — Tatbestand:
+- [BGH, Urteil vom 24.04.2008 - VII ZR 42/07](vii-zr-42-07.md) — Tatbestand:
 - [BGH, Beschluss vom 10.04.2008 - VII ZR 102/07](vii-zr-102-07.md) — der Auffassung des Berufungsgerichts, die Kläger seien Gesamtgläubiger und könnten den Schaden gemeinschaftlich abrechnen, rechtfertigen die
 - [BGH, Urteil vom 10.04.2008 - VII ZR 214/06](vii-zr-214-06.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 10.04.2008 - VII ZR 58/07](vii-zr-58-07.md) — Tatbestand:
 - [BGH, Beschluss vom 27.03.2008 - VII ZB 32/07](vii-zb-32-07.md) — einer Geldforderung in Höhe von 1.919,95 € sowie Ge-
 - [BGH, Beschluss vom 27.03.2008 - VII ZB 70/06](vii-zb-70-06.md) — A. 1 Die Gläubigerin hat eine vollstreckbare Forderung in Höhe von 1.425,98 € gegen den Schuldner. Am 15. Juli 2003 hat das Amtsgericht einen Pfändungs- und Überweisungsbeschluss …
 - [BGH, Urteil vom 27.03.2008 - VII ZR 76/07](vii-zr-76-07.md) — Tatbestand:
+- [BGH, Beschluss vom 13.03.2008 - VII ZB 62/07](vii-zb-62-07.md) — und bis zur Höhe dieser Forderungen sowie der Zustellungskosten für diesen Beschluss werden die angeblichen gegenwärtigen, künftigen und bed
+- [BGH, Urteil vom 13.03.2008 - VII ZR 194/06](vii-zr-194-06.md) — der damit übernommenen Risiken sind an die Annahme einer solchen Vereinbarung strenge Anforderungen zu stellen.
 - [BGH, Beschluss vom 13.03.2008 - VII ZR 204/06](vii-zr-204-06.md) — I. 1 Die Parteien schlossen am 6./25. Juni 2001 einen Bauvertrag über die Sanierung eines Parkdecks am I. Einrichtungshaus C. . Aufgabe der Klägerin war es, die Parkebenen mit …
 - [BGH, Beschluss vom 13.03.2008 - VII ZR 219/06](vii-zr-219-06.md) — Schlechterfüllung eines Architektenvertrages.
+- [BGH, Beschluss vom 28.02.2008 - VII ZR 51/07](vii-zr-51-07.md) — I. 1 Die Klägerin nimmt die Beklagte aus zwei Vertragserfüllungsbürgschaf- ten, die auf erstes Anfordern lauten, auf Zahlung von 1.212.886,60 € in An- spruch. Die Bürgschaften hat …
+- [BGH, Beschluss vom 14.02.2008 - VII ZR 100/07](vii-zr-100-07.md) — Die Klägerin rügt zutreffend, dass das Berufungsgericht in entscheidungs- erheblicher Weise den Anspruch der Klägerin auf Gewährung rechtlichen Gehörs verletzt hat.
 - [BGH, Beschluss vom 14.02.2008 - VII ZR 151/07](vii-zr-151-07.md) — BGH, Beschluss vom 14.02.2008 - VII ZR 151/07
-- [BGH, Beschluss vom 24.01.2008 - VII ZR 157/06](vii-zr-157-06.md) — BGH, Beschluss vom 24.01.2008 - VII ZR 157/06
+- [BGH, Beschluss vom 14.02.2008 - VII ZR 86/07](vii-zr-86-07.md) — BGH, Beschluss vom 14.02.2008 - VII ZR 86/07
+- [BGH, Urteil vom 24.01.2008 - VII ZR 17/07](vii-zr-17-07.md) — Tatbestand:
+- [BGH, Urteil vom 24.01.2008 - VII ZR 280/05](vii-zr-280-05.md) — Tatbestand:
+- [BGH, Beschluss vom 24.01.2008 - VII ZR 43/07](vii-zr-43-07.md) — 1. Die Nichtzulassungsbeschwerde rügt zu Recht eine Verletzung des Verfahrensgrundrechts der Kläger auf rechtliches Gehör, da das Berufungsge- richt ihnen nach den (rechtlich …
 - [BGH, Urteil vom 24.01.2008 - VII ZR 46/07](vii-zr-46-07.md) — Nichtausführung einer Ausführungsplanung steht einer Klage auf Ersatz desselben Schadens wegen Fehlern des Architekten bei der gesondert zu
+- [BGH, Beschluss vom 24.01.2008 - VII ZR 79/07](vii-zr-79-07.md) — BGH, Beschluss vom 24.01.2008 - VII ZR 79/07
 - [BGH, Beschluss vom 10.01.2008 - VII ZB 59/07](vii-zb-59-07.md) — BGH, Beschluss vom 10.01.2008 - VII ZB 59/07
 - [BGH, Beschluss vom 10.01.2008 - VII ZR 64/07](vii-zr-64-07.md) — BGH, Beschluss vom 10.01.2008 - VII ZR 64/07
+- [BGH, Beschluss vom 10.01.2008 - VII ZR 81/07](vii-zr-81-07.md) — Der auf §§ 719 Abs. 2, 544 Abs. 5 Satz 2 ZPO gestützte Antrag der Be- klagten auf Einstellung der Zwangsvollstreckung ist nicht begründet. 2 Nach der ständigen Rechtsprechung des …
+- [BGH, Beschluss vom 10.01.2008 - VII ZR 92/07](vii-zr-92-07.md) — Das Berufungsgericht hat, wie die Nichtzulassungsbeschwerde zu Recht rügt, bei der von ihm vorgenommenen Auslegung der Vertragsklauseln in § 9 Nr.

@@ -1,98 +1,233 @@
 # 2. Strafsenat – 2003
 
-94 Entscheidung(en).
+229 Entscheidung(en).
 
 - [BGH, Beschluss vom 19.12.2003 - 2 ARs 397/03](2-ars-397-03.md) — Widerstandes
+- [BGH, Beschluss vom 17.12.2003 - 2 ARs 392/03](2-ars-392-03.md) — Der Beschwerdeführer wendet sich mit seiner sofortigen Beschwerde gegen den gemäß § 138 c Abs.
 - [BGH, Beschluss vom 17.12.2003 - 2 StR 331/03](2-str-331-03.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 17.12.2003 - 2 StR 341/03](2-str-341-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 10.12.2003 - 2 StR 286/03](2-str-286-03.md) — Vergewaltigung
+- [BGH, Urteil vom 10.12.2003 - 2 StR 387/03](2-str-387-03.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 10.12.2003 - 2 StR 463/03](2-str-463-03.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 03.12.2003 - 2 ARs 376/03](2-ars-376-03.md) — vorsätzlicher Körperverletzung aus (Bl. 1 d.A.). Nach deren vollständiger Vollstreckung ordnete das Landgericht Bielefeld mit Beschluß vom 9
 - [BGH, Beschluss vom 03.12.2003 - 2 ARs 383/03](2-ars-383-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 28.11.2003 - 2 ARs 343/03](2-ars-343-03.md) — vorsätzlichen Vollrausches hier: Anfragebeschluß vom 5. August 2003 - 4 StR 147/03
+- [BGH, Beschluss vom 28.11.2003 - 2 StR 403/03](2-str-403-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.11.2003 - 2 ARs 361/03](2-ars-361-03.md) — Sachbeschädigung Az.: 14 Ds 224 Js 2782/00 (449/00) Amtsgericht Eisenhüttenstadt Az.: 21 Qs 75/02 Landgericht Frankfurt (Oder)
+- [BGH, Beschluss vom 26.11.2003 - 2 ARs 373/03](2-ars-373-03.md) — Urlaubs an der Unterschrift gehindert.
+- [BGH, Beschluss vom 26.11.2003 - 2 ARs 382/03](2-ars-382-03.md) — Diebstahls u. a.
+- [BGH, Urteil vom 26.11.2003 - 2 StR 291/03](2-str-291-03.md) — ja, zu 2. ja, zu 2. ja, zu 2. ja, zu 2. StGB § 66 Abs. 4 Satz 3, 4 Als Zeit einer Verwahrung im Sinne des § 66 Abs. 4 Satz 4 StGB ist Verbüßung von Untersuchungshaft auch dann …
+- [BGH, Urteil vom 26.11.2003 - 2 StR 293/03](2-str-293-03.md) — Körperverletzung u.a.
+- [BGH, Beschluss vom 26.11.2003 - 2 StR 302/03](2-str-302-03.md) — Betrugs u. a.
+- [BGH, Beschluss vom 21.11.2003 - 2 StR 399/03](2-str-399-03.md) — Betrugs
+- [BGH, Beschluss vom 19.11.2003 - 2 StR 280/03](2-str-280-03.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 19.11.2003 - 2 StR 368/03](2-str-368-03.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 19.11.2003 - 2 StR 370/03](2-str-370-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 19.11.2003 - 2 StR 389/03](2-str-389-03.md) — versuchter räuberischer Erpressung u.a.
+- [BGH, Urteil vom 14.11.2003 - 2 StR 164/03](2-str-164-03.md) — Veröffentlichung: ja StGB §§ 11 Abs. 1 Nr. 2 Buchst. c), 78 b Abs. 4 1. Der Geschäftsführer einer GmbH, die sich in städtischem Alleinbesitz befindet und deren wesentliche …
+- [BGH, Beschluss vom 14.11.2003 - 2 StR 394/03](2-str-394-03.md) — Betrugs u.a.
+- [BGH, Beschluss vom 14.11.2003 - 2 StR 404/03](2-str-404-03.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 12.11.2003 - 2 StR 294/03](2-str-294-03.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 12.11.2003 - 2 StR 325/03](2-str-325-03.md) — gefährlicher Körperverletzung ua
+- [BGH, Urteil vom 12.11.2003 - 2 StR 354/03](2-str-354-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 12.11.2003 - 2 StR 375/03](2-str-375-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge unter Mitführen einer Schußwaffe u.a.
 - [BGH, Beschluss vom 29.10.2003 - 2 ARs 354/03](2-ars-354-03.md) — Das Landgericht Düsseldorf, das am 16. Oktober 2003 das Hauptverfahren gegen die Angeklagte eröffnet hat, ist bereit, das beim Amtsgericht Frankfurt am Main gegen die Angeklagte …
+- [BGH, Beschluss vom 29.10.2003 - 2 StR 339/03](2-str-339-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 29.10.2003 - 2 StR 379/03](2-str-379-03.md) — Nötigung
+- [BGH, Beschluss vom 15.10.2003 - 2 ARs 334/03](2-ars-334-03.md) — Der Generalbundesanwalt hat in seiner Antragsschrift vom 10.
+- [BGH, Urteil vom 15.10.2003 - 2 StR 283/03](2-str-283-03.md) — Veröffentlichung: ja ____________________ StGB §§ 249, 250 Abs. 1 Nr. 1 Buchst. b Gewalt zur Wegnahme unter Verwendung eines Mittels im Sinne von § 250 Abs. 1 Nr. 1 Buchstabe b …
+- [BGH, Urteil vom 15.10.2003 - 2 StR 300/03](2-str-300-03.md) — Mordes u.a.
+- [BGH, Beschluss vom 15.10.2003 - 2 StR 332/03](2-str-332-03.md) — Urkundenfälschung u. a.
+- [BGH, Beschluss vom 15.10.2003 - 2 StR 372/03](2-str-372-03.md) — Beihilfe zum schweren Raub
+- [BGH, Beschluss vom 10.10.2003 - 2 ARs 321/03](2-ars-321-03.md) — Verdachts des Betruges pp.
 - [BGH, Beschluss vom 08.10.2003 - 2 ARs 339/03](2-ars-339-03.md) — Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 08.10.2003 - 2 StR 328/03](2-str-328-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 06.10.2003 - 2 StR 323/03](2-str-323-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 01.10.2003 - 2 StR 336/03](2-str-336-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 01.10.2003 - 2 StR 356/03](2-str-356-03.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 26.09.2003 - 2 ARs 291/03](2-ars-291-03.md) — Die durch das Amtsgericht - Jugendschöffengericht - Essen verhängte Jugendstrafe wird, nachdem der Verurteilte gemäß § 92 Abs.
+- [BGH, Urteil vom 26.09.2003 - 2 StR 161/03](2-str-161-03.md) — Wohnungseinbruchsdiebstahls u.a.
 - [BGH, Beschluss vom 26.09.2003 - 2 StR 192/03](2-str-192-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 26.09.2003 - 2 StR 321/03](2-str-321-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 24.09.2003 - 2 StR 322/03](2-str-322-03.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Beschluss vom 17.09.2003 - 2 StR 220/03](2-str-220-03.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Beschluss vom 17.09.2003 - 2 StR 254/03](2-str-254-03.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 17.09.2003 - 2 StR 316/03](2-str-316-03.md) — versuchten Totschlags
 - [BGH, Beschluss vom 17.09.2003 - 2 StR 320/03](2-str-320-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 17.09.2003 - 2 StR 326/03](2-str-326-03.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 16.09.2003 - 2 ARs 323/03](2-ars-323-03.md) — Diebstahls Az.: 431 Cs 951 Js 161203/02 Amtsgericht Fürth
 - [BGH, Beschluss vom 11.09.2003 - 2 StR 230/03](2-str-230-03.md) — Totschlags u.a.
 - [BGH, Beschluss vom 10.09.2003 - 2 ARs 258/03](2-ars-258-03.md) — Verfallsanordnung
 - [BGH, Beschluss vom 10.09.2003 - 2 ARs 281/03](2-ars-281-03.md) — Verstoßes gegen das Bundesnaturschutzgesetz Verteidiger: Rechtsanwalt
+- [BGH, Beschluss vom 10.09.2003 - 2 ARs 282/03](2-ars-282-03.md) — 2 ARs 282/03 2 AR 173/03 Bundesgerichtshof BESCHLUSS vom 10. September 2003 in der Aufhebungssache betreffend die Aufhebung des Urteils des Sondergerichts Kalisch vom 21. Sep- …
+- [BGH, Beschluss vom 10.09.2003 - 2 ARs 293/03](2-ars-293-03.md) — Das Landgericht - Jugendkammer - Paderborn, das am 10.
+- [BGH, Beschluss vom 10.09.2003 - 2 StR 304/03](2-str-304-03.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 10.09.2003 - 2 StR 324/03](2-str-324-03.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 03.09.2003 - 2 ARs 253/03](2-ars-253-03.md) — BGH, Beschluss vom 03.09.2003 - 2 ARs 253/03
 - [BGH, Beschluss vom 03.09.2003 - 2 ARs 288/03](2-ars-288-03.md) — versuchten Diebstahls
 - [BGH, Beschluss vom 03.09.2003 - 2 StR 102/03](2-str-102-03.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 03.09.2003 - 2 StR 182/03](2-str-182-03.md) — Totschlags
+- [BGH, Urteil vom 27.08.2003 - 2 StR 267/03](2-str-267-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 27.08.2003 - 2 StR 287/03](2-str-287-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 27.08.2003 - 2 StR 309/03](2-str-309-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 20.08.2003 - 2 StR 160/03](2-str-160-03.md) — Bestechlichkeit u. a.
 - [BGH, Urteil vom 20.08.2003 - 2 StR 166/03](2-str-166-03.md) — Untreue u. a.
+- [BGH, Beschluss vom 20.08.2003 - 2 StR 285/03](2-str-285-03.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 15.08.2003 - 2 ARs 230/03](2-ars-230-03.md) — 2 ARs 230/03 2 AR 141/03 Bundesgerichtshof BESCHLUSS vom 15. August 2003 in dem Maßregel- und Strafvollstreckungsverfahren gegen wegen sexuellen Mißbrauchs von Kindern Az.: 22 VRs …
+- [BGH, Beschluss vom 13.08.2003 - 2 ARs 266/03](2-ars-266-03.md) — Verletzung der Unterhaltspflicht
+- [BGH, Beschluss vom 13.08.2003 - 2 ARs 272/03](2-ars-272-03.md) — Diebstahls
+- [BGH, Beschluss vom 13.08.2003 - 2 StR 243/03](2-str-243-03.md) — Mordes
+- [BGH, Beschluss vom 11.08.2003 - 2 ARs 280/03](2-ars-280-03.md) — Das Landgericht Bielefeld, das ein Verfahren gegen den dort angeklag- ten G.
 - [BGH, Beschluss vom 06.08.2003 - 2 StR 235/03](2-str-235-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 06.08.2003 - 2 StR 262/03](2-str-262-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 06.08.2003 - 2 StR 265/03](2-str-265-03.md) — Brandstiftung mit Todesfolge u.a.
+- [BGH, Beschluss vom 01.08.2003 - 2 StR 186/03](2-str-186-03.md) — Veröffentlichung: ja StGB § 181 a Abs. 1 Nr. 2 2. Alt. StGB Arbeitet eine Prostituierte freiwillig in einem Bordell oder bordellähnlichen Betrieb, liegt allein in der …
+- [BGH, Beschluss vom 01.08.2003 - 2 StR 250/03](2-str-250-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 01.08.2003 - 2 StR 257/03](2-str-257-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 30.07.2003 - 2 ARs 229/03](2-ars-229-03.md) — Die vom Generalbundesanwalt auf die Vorlage des Schöffengerichts Bad Iburg beantragte Verbindung ist nach der Zulassung der Anklage der Staatsanwaltschaft Münster durch den …
 - [BGH, Beschluss vom 30.07.2003 - 2 StR 215/03](2-str-215-03.md) — BGH, Beschluss vom 30.07.2003 - 2 StR 215/03
+- [BGH, Beschluss vom 30.07.2003 - 2 StR 245/03](2-str-245-03.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 30.07.2003 - 2 StR 246/03](2-str-246-03.md) — sexuellen Mibrauchs von Kindern
+- [BGH, Beschluss vom 23.07.2003 - 2 ARs 223/03](2-ars-223-03.md) — eigenm. Abwesenheit
 - [BGH, Beschluss vom 18.07.2003 - 2 StR 159/03](2-str-159-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 18.07.2003 - 2 StR 239/03](2-str-239-03.md) — schweren Raubs
 - [BGH, Beschluss vom 16.07.2003 - 2 ARs 218/03](2-ars-218-03.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 16.07.2003 - 2 StR 209/03](2-str-209-03.md) — sexueller Nötigung
 - [BGH, Urteil vom 16.07.2003 - 2 StR 68/03](2-str-68-03.md) — Anstiftung zum versuchten Totschlag
+- [BGH, Beschluss vom 11.07.2003 - 2 StR 226/03](2-str-226-03.md) — unerlaubten Handetreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 11.07.2003 - 2 StR 31/03](2-str-31-03.md) — Vergewaltigung u.a.
 - [BGH, Urteil vom 11.07.2003 - 2 StR 531/02](2-str-531-02.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 10.07.2003 - 2 StR 180/03](2-str-180-03.md) — Totschlags u.a.
+- [BGH, Beschluss vom 09.07.2003 - 2 ARs 222/03](2-ars-222-03.md) — übler Nachrede u. a.
+- [BGH, Urteil vom 09.07.2003 - 2 StR 106/03](2-str-106-03.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Urteil vom 09.07.2003 - 2 StR 125/03](2-str-125-03.md) — Veröffentlichung: ja §§ 55, 56 StGB Maßgebender Beurteilungszeitpunkt für die nach § 56 StGB zu treffende Prognose ist auch bei einer nachträglichen Gesamtstrafenbildung im Rahmen …
 - [BGH, Beschluss vom 09.07.2003 - 2 StR 134/03](2-str-134-03.md) — schweren Raubes
 - [BGH, Beschluss vom 09.07.2003 - 2 StR 146/03](2-str-146-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 09.07.2003 - 2 StR 204/03](2-str-204-03.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 09.07.2003 - 2 StR 225/03](2-str-225-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 09.07.2003 - 2 StR 45/03](2-str-45-03.md) — Totschlags
+- [BGH, Beschluss vom 07.07.2003 - 2 ARs 202/03](2-ars-202-03.md) — Beleidigung
+- [BGH, Beschluss vom 03.07.2003 - 2 ARs 201/03](2-ars-201-03.md) — Wohnungseinbruchsdiebstahls
+- [BGH, Beschluss vom 03.07.2003 - 2 StR 173/03](2-str-173-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 03.07.2003 - 2 StR 212/03](2-str-212-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 03.07.2003 - 2 StR 223/03](2-str-223-03.md) — schweren Raubes
 - [BGH, Urteil vom 02.07.2003 - 2 StR 92/03](2-str-92-03.md) — vorsätzlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 27.06.2003 - 2 StR 197/03](2-str-197-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 27.06.2003 - 2 StR 219/03](2-str-219-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 17.06.2003 - 2 ARs 59/03](2-ars-59-03.md) — Verdachts der Verabredung zum Bandenbetrug Az.: 201 UJs 385/03 Staatsanwaltschaft beim Landgericht Stuttgart
+- [BGH, Beschluss vom 17.06.2003 - 2 StR 105/03](2-str-105-03.md) — Betrugs
+- [BGH, Beschluss vom 17.06.2003 - 2 StR 94/03](2-str-94-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
 - [BGH, Beschluss vom 13.06.2003 - 2 ARs 179/03](2-ars-179-03.md) — falscher Verdächtigung Antragstellerin:
+- [BGH, Beschluss vom 11.06.2003 - 2 ARs 181/03](2-ars-181-03.md) — Urlaubs an der Unter-
+- [BGH, Beschluss vom 11.06.2003 - 2 StR 83/03](2-str-83-03.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 10.06.2003 - 2 ARs 316/02](2-ars-316-02.md) — Vorwurfs der Rechtsbeugung u.a.
+- [BGH, Beschluss vom 06.06.2003 - 2 StR 114/03](2-str-114-03.md) — schweren sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 06.06.2003 - 2 StR 140/03](2-str-140-03.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 04.06.2003 - 2 ARs 180/03](2-ars-180-03.md) — unerlaubten Erwerbs von Betäubungsmitteln u.a. Az.: 90 Ds 1812 Js 17321/01 (217/01) BewH Amtsgericht Cottbus
 - [BGH, Beschluss vom 04.06.2003 - 2 StR 137/03](2-str-137-03.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 04.06.2003 - 2 StR 139/03](2-str-139-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 04.06.2003 - 2 StR 144/03](2-str-144-03.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 04.06.2003 - 2 StR 168/02](2-str-168-02.md) — sexuellen Mißbrauchs einer Schutzbefohlenen u.a.
 - [BGH, Beschluss vom 04.06.2003 - 2 StR 169/03](2-str-169-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 28.05.2003 - 2 ARs 185/03](2-ars-185-03.md) — Betrugs
+- [BGH, Beschluss vom 28.05.2003 - 2 ARs 82/03](2-ars-82-03.md) — Rechtsbeugung Antragstellerin:
 - [BGH, Urteil vom 28.05.2003 - 2 StR 445/02](2-str-445-02.md) — Veröffentlichung: ja StPO §§ 52, 252 Beruft sich ein Zeuge in der Hauptverhandlung zunächst auf sein Zeugnisverweigerungsrecht als Verlobter und sagt später gleichwohl zur Sache …
 - [BGH, Urteil vom 28.05.2003 - 2 StR 486/02](2-str-486-02.md) — Vergewaltigung
 - [BGH, Beschluss vom 28.05.2003 - 2 StR 74/03](2-str-74-03.md) — Betrugs
+- [BGH, Beschluss vom 23.05.2003 - 2 StR 141/03](2-str-141-03.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 23.05.2003 - 2 StR 151/03](2-str-151-03.md) — schweren Raubes u. a.
+- [BGH, Urteil vom 21.05.2003 - 2 StR 112/03](2-str-112-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 21.05.2003 - 2 StR 143/03](2-str-143-03.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 21.05.2003 - 2 StR 212/02](2-str-212-02.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.05.2003 - 2 ARs 164/03](2-ars-164-03.md) — Verbreitung kinderpornographischer Schriften
 - [BGH, Beschluss vom 14.05.2003 - 2 StR 98/03](2-str-98-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 07.05.2003 - 2 ARs 154/03](2-ars-154-03.md) — Freiheitsberaubung u. a.
+- [BGH, Beschluss vom 07.05.2003 - 2 StR 120/03](2-str-120-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.05.2003 - 2 StR 88/03](2-str-88-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 30.04.2003 - 2 ARs 130/03](2-ars-130-03.md) — Mordes u.a.
+- [BGH, Urteil vom 30.04.2003 - 2 StR 503/02](2-str-503-02.md) — Totschlags
 - [BGH, Beschluss vom 23.04.2003 - 2 ARs 122/03](2-ars-122-03.md) — Landfriedensbruch u. a.
 - [BGH, Beschluss vom 23.04.2003 - 2 ARs 67/03](2-ars-67-03.md) — Betruges u.a.
 - [BGH, Beschluss vom 23.04.2003 - 2 ARs 89/03](2-ars-89-03.md) — Diebstahls
+- [BGH, Beschluss vom 23.04.2003 - 2 StR 52/03](2-str-52-03.md) — Totschlags
+- [BGH, Beschluss vom 23.04.2003 - 2 StR 65/03](2-str-65-03.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 16.04.2003 - 2 ARs 84/03](2-ars-84-03.md) — Diebstahls
 - [BGH, Beschluss vom 16.04.2003 - 2 ARs 96/03](2-ars-96-03.md) — Raubes u. a.
+- [BGH, Urteil vom 16.04.2003 - 2 StR 505/02](2-str-505-02.md) — Betrugs
+- [BGH, Beschluss vom 16.04.2003 - 2 StR 60/03](2-str-60-03.md) — schweren Raubes
+- [BGH, Beschluss vom 16.04.2003 - 2 StR 66/03](2-str-66-03.md) — Betruges
+- [BGH, Beschluss vom 16.04.2003 - 2 StR 85/03](2-str-85-03.md) — Vollrauschs u. a.
+- [BGH, Beschluss vom 11.04.2003 - 2 StR 41/03](2-str-41-03.md) — Mordes u.a.
+- [BGH, Beschluss vom 11.04.2003 - 2 StR 532/02](2-str-532-02.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 09.04.2003 - 2 ARs 91/03](2-ars-91-03.md) — Fahrens ohne Fahrerlaubnis u.a.
 - [BGH, Beschluss vom 09.04.2003 - 2 StR 421/02](2-str-421-02.md) — Vergewaltigung u.a.
 - [BGH, Urteil vom 09.04.2003 - 2 StR 482/02](2-str-482-02.md) — schweren Raubes
 - [BGH, Urteil vom 09.04.2003 - 2 StR 513/02](2-str-513-02.md) — Betrugs
 - [BGH, Beschluss vom 09.04.2003 - 2 StR 63/03](2-str-63-03.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 08.04.2003 - 2 ARs 74/03](2-ars-74-03.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 02.04.2003 - 2 ARs 80/03](2-ars-80-03.md) — Ordnungswidrigkeit Az.: 88 OWi 1440 Js-OWi 5315/03 (75/03) Amtsgericht Cottbus
+- [BGH, Beschluss vom 02.04.2003 - 2 StR 29/03](2-str-29-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 02.04.2003 - 2 StR 47/03](2-str-47-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 26.03.2003 - 2 ARs 35/03](2-ars-35-03.md) — Mordes verurteilt worden war, die Staatsanwaltschaft bei dem Landgericht Bautzen bestimmt. Diese hat am 3. September 2002 festgestellt, daß
+- [BGH, Beschluss vom 26.03.2003 - 2 StR 35/03](2-str-35-03.md) — versuchter Vergewaltigung u.a.
 - [BGH, Urteil vom 26.03.2003 - 2 StR 535/02](2-str-535-02.md) — sexueller Nötigung u. a.
+- [BGH, Beschluss vom 26.03.2003 - 2 StR 54/03](2-str-54-03.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.03.2003 - 2 StR 55/03](2-str-55-03.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 21.03.2003 - 2 ARs 70/03](2-ars-70-03.md) — Das Amtsgericht - Schöffengericht - Waldshut-Tiengen, das ein umfangreiches Verfahren gegen den Angeklagten eröffnet hat, ist bereit, das beim Amtsgericht Siegburg gegen den …
 - [BGH, Beschluss vom 21.03.2003 - 2 StR 53/03](2-str-53-03.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 19.03.2003 - 2 StR 23/03](2-str-23-03.md) — unerlaubten Herstellens von Arzneimitteln
+- [BGH, Beschluss vom 19.03.2003 - 2 StR 530/02](2-str-530-02.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.03.2003 - 2 ARs 51/03](2-ars-51-03.md) — Die Übertragung der Sache an das gemäß § 8 Abs.
+- [BGH, Urteil vom 14.03.2003 - 2 StR 239/02](2-str-239-02.md) — fahrlässiger Körperverletzung
 - [BGH, Urteil vom 14.03.2003 - 2 StR 341/02](2-str-341-02.md) — Verabredung eines schweren Raubes u. a.
 - [BGH, Beschluss vom 14.03.2003 - 2 StR 511/99](2-str-511-99.md) — Mordes u.a.
+- [BGH, Beschluss vom 14.03.2003 - 2 StR 7/03](2-str-7-03.md) — falscher Verdächtigung u.a.
 - [BGH, Beschluss vom 12.03.2003 - 2 ARs 57/03](2-ars-57-03.md) — Beleidigung
 - [BGH, Beschluss vom 07.03.2003 - 2 StR 36/03](2-str-36-03.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 07.03.2003 - 2 StR 475/02](2-str-475-02.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 05.03.2003 - 2 ARs 50/03](2-ars-50-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
 - [BGH, Beschluss vom 05.03.2003 - 2 StR 405/02](2-str-405-02.md) — gewerbsmäßiger Hehlerei
+- [BGH, Urteil vom 05.03.2003 - 2 StR 494/02](2-str-494-02.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 05.03.2003 - 2 StR 5/03](2-str-5-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 05.03.2003 - 2 StR 516/02](2-str-516-02.md) — unterlassener Beantragung der Eröffnung des Insolvenzverfahrens einer GmbH
+- [BGH, Beschluss vom 05.03.2003 - 2 StR 526/02](2-str-526-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 03.03.2003 - 2 ARs 49/03](2-ars-49-03.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 26.02.2003 - 2 StR 411/02](2-str-411-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 26.02.2003 - 2 StR 492/02](2-str-492-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 19.02.2003 - 2 StR 371/02](2-str-371-02.md) — (vor 1., 1., 2., 3. vor a)) Veröffentlichung: ja _____________________________ WaffG §§ 6 Abs. 1 Satz 1, 53 Abs. 1 Nr. 2; KWKG §§ 15 Abs. 1, 22a Abs. 1 Nr. 4; SprengG §§ 1 Abs. 4 …
+- [BGH, Beschluss vom 19.02.2003 - 2 StR 38/03](2-str-38-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 19.02.2003 - 2 StR 478/02](2-str-478-02.md) — Mordes u.a.
+- [BGH, Urteil vom 19.02.2003 - 2 StR 538/02](2-str-538-02.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 14.02.2003 - 2 ARs 7/03](2-ars-7-03.md) — Die Amtsgerichte Bad Segeberg, Hamburg-Altona und Passau streiten über die Zuständigkeit für die nachträglichen Entscheidungen über die Strafaussetzung zur Bewährung der durch das …
+- [BGH, Beschluss vom 14.02.2003 - 2 StR 522/02](2-str-522-02.md) — Betrugs u.a.
+- [BGH, Beschluss vom 12.02.2003 - 2 ARs 29/03](2-ars-29-03.md) — Fahrens ohne Fahrerlaubnis Az.: 1 Ds 111 Js 12323/01 Amtsgericht Bamberg
 - [BGH, Beschluss vom 12.02.2003 - 2 StR 451/02](2-str-451-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.02.2003 - 2 StR 453/02](2-str-453-02.md) — Vorteilsannahme
 - [BGH, Beschluss vom 12.02.2003 - 2 StR 464/02](2-str-464-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 05.02.2003 - 2 ARs 13/03](2-ars-13-03.md) — unerlaubten Erwerbs von Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 05.02.2003 - 2 ARs 25/03](2-ars-25-03.md) — Betrugs
 - [BGH, Beschluss vom 05.02.2003 - 2 ARs 31/03](2-ars-31-03.md) — Betrug hier: Anträge gemäß § 12 II StPO
+- [BGH, Beschluss vom 05.02.2003 - 2 ARs 391/02](2-ars-391-02.md) — räuberischen Diebstahls, gefährlicher Körperverletzung, Beleidigung, Widerstandes
 - [BGH, Beschluss vom 05.02.2003 - 2 StR 1/03](2-str-1-03.md) — schwerer Brandstiftung
 - [BGH, Urteil vom 05.02.2003 - 2 StR 321/02](2-str-321-02.md) — Totschlags u.a.
+- [BGH, Beschluss vom 05.02.2003 - 2 StR 433/02](2-str-433-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 05.02.2003 - 2 StR 501/02](2-str-501-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 29.01.2003 - 2 ARs 377/02](2-ars-377-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 29.01.2003 - 2 StR 509/02](2-str-509-02.md) — Bestechlichkeit
 - [BGH, Beschluss vom 29.01.2003 - 2 StR 518/02](2-str-518-02.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 29.01.2003 - 2 StR 519/02](2-str-519-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 29.01.2003 - 2 StR 529/02](2-str-529-02.md) — BGH, Beschluss vom 29.01.2003 - 2 StR 529/02
+- [BGH, Urteil vom 24.01.2003 - 2 StR 215/02](2-str-215-02.md) — Veröffentlichung: ja (nur A II) StPO § 265 Abs. 3 § 265 Abs. 3 StPO räumt dem Gericht kein Ermessen ein, die Hauptverhandlung lediglich zu unterbrechen; bei Vorliegen der …
+- [BGH, Beschluss vom 24.01.2003 - 2 StR 466/02](2-str-466-02.md) — schweren Bandendiebstahls u.a.
 - [BGH, Beschluss vom 22.01.2003 - 2 ARs 385/02](2-ars-385-02.md) — vorsätzlicher Trunkenheit im Verkehr u.a.
 - [BGH, Beschluss vom 22.01.2003 - 2 StR 474/02](2-str-474-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 22.01.2003 - 2 StR 515/02](2-str-515-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 17.01.2003 - 2 ARs 378/02](2-ars-378-02.md) — 2 ARs 378/02 2 AR 212/02 Bundesgerichtshof BESCHLUSS vom 17. Januar 2003 in der Strafsache gegen wegen Betruges Az.: (566) 5 VRs 65 Js 2412/98 (97/00) Landgericht Berlin Az.: 1 AR …
 - [BGH, Beschluss vom 17.01.2003 - 2 StR 443/02](2-str-443-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer
 - [BGH, Beschluss vom 17.01.2003 - 2 StR 471/02](2-str-471-02.md) — Totschlags u.a.
 - [BGH, Beschluss vom 15.01.2003 - 2 ARs 383/02](2-ars-383-02.md) — Betrugs Az.: 3652 Js 13459/01 55 Cs Amtsgericht Mainz
 - [BGH, Beschluss vom 15.01.2003 - 2 StR 403/02](2-str-403-02.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 15.01.2003 - 2 StR 463/02](2-str-463-02.md) — Totschlags
+- [BGH, Beschluss vom 15.01.2003 - 2 StR 481/02](2-str-481-02.md) — Raubes u. a.
+- [BGH, Beschluss vom 10.01.2003 - 2 StR 480/02](2-str-480-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 08.01.2003 - 2 StR 459/02](2-str-459-02.md) — versuchter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GVG"
 description: "BGH-Entscheidungen zu GVG, geordnet nach Vorschrift."
 tags: [register, navigation, gvg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift
@@ -17,6 +17,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des GVG auslegen.
 | § GVG | [BGH, Urteil vom 15.05.2024 - VIII ZR 293/23](../entscheidungen/viii-zivilsenat/2024/viii-zr-293-23.md); [BGH, Beschluss vom 10.12.2019 - XIII ZB 119/19](../entscheidungen/xiii-zivilsenat/2019/xiii-zb-119-19.md) |
 | § GVG | [BGH, Beschluss vom 25.09.2019 - IV AR (VZ) 2/18](../entscheidungen/iv-ar/2019/iv-ar-vz-2-18.md) |
 | § GVG | [BGH, Urteil vom 05.10.2016 - XII ZR 50/14](../entscheidungen/xii-zivilsenat/2016/xii-zr-50-14.md); [BGH, Beschluss vom 26.03.2013 - 4 StR 556/12](../entscheidungen/4-strafsenat/2013/4-str-556-12.md) |
+| § GVG | [BGH, Beschluss vom 08.01.2009 - 5 StR 537/08](../entscheidungen/5-strafsenat/2009/5-str-537-08.md) |
 | § GVG | [BGH, Beschluss vom 14.02.2017 - 4 StR 422/15](../entscheidungen/4-strafsenat/2017/4-str-422-15.md) |
 | § GVG | [BGH, Beschluss vom 17.05.2023 - 3 ZA 1/21](../entscheidungen/3-zivilsenat/2023/3-za-1-21.md); [BGH, Beschluss vom 22.09.2021 - 3 ZB 2/20](../entscheidungen/3-zivilsenat/2021/3-zb-2-20.md) |
 | § GVG | [BGH, Beschluss vom 22.02.2006 - 5 StR 585/05](../entscheidungen/5-strafsenat/2006/5-str-585-05.md) |

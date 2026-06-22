@@ -1,6 +1,6 @@
 # RIZ
 
-Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 77 Entscheidung(en).
+Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 102 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -20,11 +20,13 @@ Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtsc
 - [2013](2013/index.md) (4)
 - [2011](2011/index.md) (6)
 - [2010](2010/index.md) (2)
-- [2009](2009/index.md) (4)
-- [2006](2006/index.md) (4)
-- [2005](2005/index.md) (1)
-- [2004](2004/index.md) (2)
+- [2009](2009/index.md) (8)
+- [2008](2008/index.md) (1)
+- [2007](2007/index.md) (4)
+- [2006](2006/index.md) (6)
+- [2005](2005/index.md) (4)
+- [2004](2004/index.md) (4)
 - [2003](2003/index.md) (1)
-- [2002](2002/index.md) (2)
-- [2001](2001/index.md) (1)
-- [2000](2000/index.md) (1)
+- [2002](2002/index.md) (7)
+- [2001](2001/index.md) (3)
+- [2000](2000/index.md) (3)

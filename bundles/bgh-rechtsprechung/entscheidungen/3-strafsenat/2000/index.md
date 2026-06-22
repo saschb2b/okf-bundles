@@ -1,15 +1,34 @@
 # 3. Strafsenat – 2000
 
-87 Entscheidung(en).
+188 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2000 - 3 StR 500/00](3-str-500-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 21.12.2000 - 3 StR 520/00](3-str-520-00.md) — Der Generalbundesanwalt hat in seiner Antragsschrift vom 14.
+- [BGH, Beschluss vom 20.12.2000 - 3 StR 392/00](3-str-392-00.md) — Beihilfe zur unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 14.12.2000 - 3 StR 414/00](3-str-414-00.md) — versuchten Mordes
+- [BGH, Beschluss vom 12.12.2000 - 3 StR 409/00](3-str-409-00.md) — Totschlags
+- [BGH, Beschluss vom 08.12.2000 - 3 StR 442/00](3-str-442-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 07.12.2000 - 3 StR 382/00](3-str-382-00.md) — Mordes u. a.
+- [BGH, Beschluss vom 07.12.2000 - 3 StR 484/00](3-str-484-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 07.12.2000 - 3 StR 490/00](3-str-490-00.md) — Landfriedensbruchs
+- [BGH, Beschluss vom 07.12.2000 - 3 StR 491/00](3-str-491-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 24.11.2000 - 3 StR 214/00](3-str-214-00.md) — Betrugs u.a.
 - [BGH, Beschluss vom 24.11.2000 - 3 StR 296/00](3-str-296-00.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 24.11.2000 - 3 StR 367/00](3-str-367-00.md) — schweren Menschenhandels u.a.
+- [BGH, Beschluss vom 24.11.2000 - 3 StR 481/00](3-str-481-00.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 23.11.2000 - 3 StR 225/00](3-str-225-00.md) — zu 1., 2. und 3.: Betrugs
+- [BGH, Beschluss vom 23.11.2000 - 3 StR 313/00](3-str-313-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 23.11.2000 - 3 StR 353/00](3-str-353-00.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 23.11.2000 - 3 StR 413/00](3-str-413-00.md) — Totschlags u.a.
+- [BGH, Beschluss vom 23.11.2000 - 3 StR 428/00](3-str-428-00.md) — Mordes u.a.
 - [BGH, Beschluss vom 23.11.2000 - 3 StR 432/00](3-str-432-00.md) — schwerer Brandstiftung
 - [BGH, Beschluss vom 23.11.2000 - 3 StR 472/00](3-str-472-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Urteil vom 22.11.2000 - 3 StR 331/00](3-str-331-00.md) — versuchter schwerer Körperverletzung u.a.
 - [BGH, Beschluss vom 21.11.2000 - 3 StR 311/00](3-str-311-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 16.11.2000 - 3 StR 457/00](3-str-457-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 15.11.2000 - 3 StR 452/00](3-str-452-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 09.11.2000 - 3 StR 371/00](3-str-371-00.md) — Betrugs
+- [BGH, Beschluss vom 09.11.2000 - 3 StR 430/00](3-str-430-00.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot u. a.
 - [BGH, Beschluss vom 08.11.2000 - 3 StR 123/00](3-str-123-00.md) — Untreue u.a.
 - [BGH, Beschluss vom 08.11.2000 - 3 StR 282/00](3-str-282-00.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Urteil vom 08.11.2000 - 3 StR 360/00](3-str-360-00.md) — räuberischen Angriffs auf einen Kraftfahrer u.a.
@@ -17,18 +36,37 @@
 - [BGH, Beschluss vom 26.10.2000 - 3 StR 383/00](3-str-383-00.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 26.10.2000 - 3 StR 433/00](3-str-433-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 26.10.2000 - 3 StR 6/00](3-str-6-00.md) — Diebstahls
+- [BGH, Urteil vom 25.10.2000 - 3 StR 351/00](3-str-351-00.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 25.10.2000 - 3 StR 370/00](3-str-370-00.md) — Vergewaltigung
+- [BGH, Urteil vom 25.10.2000 - 3 StR 483/99](3-str-483-99.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 19.10.2000 - 3 StR 378/00](3-str-378-00.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 18.10.2000 - 3 StR 258/00](3-str-258-00.md) — Unterstützens des organisatorischen Zusammenhalts eines verbotenen Vereins
+- [BGH, Beschluss vom 18.10.2000 - 3 StR 393/00](3-str-393-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 18.10.2000 - 3 StR 402/00](3-str-402-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 18.10.2000 - 3 StR 426/00](3-str-426-00.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 12.10.2000 - 3 StR 185/00](3-str-185-00.md) — Vergewaltigung u. a.
+- [BGH, Urteil vom 11.10.2000 - 3 StR 267/00](3-str-267-00.md) — unerlaubten Einführens von wesentlichen Teilen vollautomatischer Selbstladewaffen u.a.
+- [BGH, Urteil vom 11.10.2000 - 3 StR 321/00](3-str-321-00.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 11.10.2000 - 3 StR 336/00](3-str-336-00.md) — des Verdachts der Untreue
 - [BGH, Beschluss vom 05.10.2000 - 3 StR 357/00](3-str-357-00.md) — versuchter gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 21.09.2000 - 3 StR 323/00](3-str-323-00.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 20.09.2000 - 3 StR 19/00](3-str-19-00.md) — Untreue
+- [BGH, Beschluss vom 20.09.2000 - 3 StR 287/00](3-str-287-00.md) — sexuellen Mißbrauchs von Schutzbefohlenen u.a.
+- [BGH, Beschluss vom 20.09.2000 - 3 StR 334/00](3-str-334-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 20.09.2000 - 3 StR 376/00](3-str-376-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.09.2000 - 3 StR 88/00](3-str-88-00.md) — Betrugs
 - [BGH, Beschluss vom 13.09.2000 - 3 StR 342/00](3-str-342-00.md) — Mordes u.a.
 - [BGH, Urteil vom 13.09.2000 - 3 StR 347/00](3-str-347-00.md) — Vergewaltigung
 - [BGH, Beschluss vom 13.09.2000 - 3 StR 373/00](3-str-373-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 13.09.2000 - 3 StR 379/00](3-str-379-00.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 08.09.2000 - 3 StR 337/00](3-str-337-00.md) — Betruges
 - [BGH, Beschluss vom 06.09.2000 - 3 StR 200/00](3-str-200-00.md) — Mordes
 - [BGH, Beschluss vom 06.09.2000 - 3 StR 226/00](3-str-226-00.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 06.09.2000 - 3 StR 276/00](3-str-276-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 06.09.2000 - 3 StR 316/00](3-str-316-00.md) — Betrugs
 - [BGH, Beschluss vom 06.09.2000 - 3 StR 326/00](3-str-326-00.md) — Betrugs
+- [BGH, Beschluss vom 06.09.2000 - 3 StR 349/00](3-str-349-00.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 25.08.2000 - 3 StR 216/00](3-str-216-00.md) — Bestechung
 - [BGH, Urteil vom 23.08.2000 - 3 StR 224/00](3-str-224-00.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Urteil vom 23.08.2000 - 3 StR 234/00](3-str-234-00.md) — versuchten Totschlags
 - [BGH, Urteil vom 23.08.2000 - 3 StR 307/00](3-str-307-00.md) — versuchter Vergewaltigung u.a.
@@ -36,6 +74,10 @@
 - [BGH, Beschluss vom 18.08.2000 - 3 StR 279/00](3-str-279-00.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 18.08.2000 - 3 StR 433/99](3-str-433-99.md) — Verunglimpfung des Staates;
 - [BGH, Beschluss vom 16.08.2000 - 3 ARs 3/00](3-ars-3-00.md) — schweren Bandendiebstahls u.a. hier: Anfrage des 4. Strafsenats vom 14. März 2000 - 4 StR 284/99
+- [BGH, Beschluss vom 16.08.2000 - 3 StR 242/00](3-str-242-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 16.08.2000 - 3 StR 253/00](3-str-253-00.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 16.08.2000 - 3 StR 285/00](3-str-285-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 16.08.2000 - 3 StR 291/00](3-str-291-00.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 16.08.2000 - 3 StR 339/00](3-str-339-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 16.08.2000 - 3 StR 346/00](3-str-346-00.md) — Mordes u.a.
 - [BGH, Beschluss vom 11.08.2000 - 3 StR 235/00](3-str-235-00.md) — versuchten schweren Raubes u.a.
@@ -45,22 +87,78 @@
 - [BGH, Urteil vom 09.08.2000 - 3 StR 176/00](3-str-176-00.md) — räuberischen Angriffs auf einen Kraftfahrer u.a.
 - [BGH, Urteil vom 09.08.2000 - 3 StR 339/99](3-str-339-99.md) — schweren Bandendiebstahls u.a.
 - [BGH, Beschluss vom 09.08.2000 - 3 StR 504/99](3-str-504-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 02.08.2000 - 3 StR 154/00](3-str-154-00.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 02.08.2000 - 3 StR 218/00](3-str-218-00.md) — gewerbsmäßiger Bandenhehlerei u.a.; hier: Revision des Angeklagten N.
+- [BGH, Beschluss vom 02.08.2000 - 3 StR 230/00](3-str-230-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 02.08.2000 - 3 StR 250/00](3-str-250-00.md) — Wohnungseinbruchdiebstahls
+- [BGH, Beschluss vom 02.08.2000 - 3 StR 284/00](3-str-284-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 02.08.2000 - 3 StR 302/00](3-str-302-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 21.07.2000 - 3 StR 228/00](3-str-228-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 21.07.2000 - 3 StR 71/00](3-str-71-00.md) — schweren Bandendiebstahls u.a.; hier: Revision des Angeklagten E.
+- [BGH, Beschluss vom 19.07.2000 - 3 StR 245/00](3-str-245-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 19.07.2000 - 3 StR 259/00](3-str-259-00.md) — Betruges u.a.
 - [BGH, Beschluss vom 14.07.2000 - 3 StR 195/00](3-str-195-00.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 14.07.2000 - 3 StR 454/99](3-str-454-99.md) — Beihilfe zum Betrug u.a.
 - [BGH, Urteil vom 14.07.2000 - 3 StR 53/00](3-str-53-00.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 12.07.2000 - 3 StR 246/00](3-str-246-00.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 12.07.2000 - 3 StR 257/00](3-str-257-00.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 12.07.2000 - 3 StR 70/00](3-str-70-00.md) — Beihilfe zum Diebstahl
 - [BGH, Beschluss vom 30.06.2000 - 3 StR 141/00](3-str-141-00.md) — Mordes u.a.
 - [BGH, Urteil vom 28.06.2000 - 3 StR 156/00](3-str-156-00.md) — Vollrausches
 - [BGH, Beschluss vom 28.06.2000 - 3 StR 229/00](3-str-229-00.md) — bewaffneten Betäubungsmittelhandels u.a.
+- [BGH, Beschluss vom 14.06.2000 - 3 StR 178/00](3-str-178-00.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 14.06.2000 - 3 StR 208/00](3-str-208-00.md) — Betrugs
+- [BGH, Urteil vom 14.06.2000 - 3 StR 26/00](3-str-26-00.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 14.06.2000 - 3 StR 94/00](3-str-94-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 09.06.2000 - 3 StR 142/00](3-str-142-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 07.06.2000 - 3 StR 559/99](3-str-559-99.md) — zu 1.: unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 07.06.2000 - 3 StR 82/00](3-str-82-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 07.06.2000 - 3 StR 83/00](3-str-83-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 07.06.2000 - 3 StR 84/00](3-str-84-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 26.05.2000 - 3 StR 162/00](3-str-162-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 26.05.2000 - 3 StR 165/00](3-str-165-00.md) — zu 1.: Totschlags zu 2.: Beihilfe zum Totschlag
+- [BGH, Beschluss vom 24.05.2000 - 3 StR 171/00](3-str-171-00.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 24.05.2000 - 3 StR 184/00](3-str-184-00.md) — Zuhälterei u.a.
+- [BGH, Urteil vom 24.05.2000 - 3 StR 38/00](3-str-38-00.md) — unerlaubten Vertriebs und Erwerbs vollautomatischer Selbstladewaffen u.a.
+- [BGH, Urteil vom 24.05.2000 - 3 StR 551/99](3-str-551-99.md) — räuberischer Erpressung u.a.
+- [BGH, Urteil vom 24.05.2000 - 3 StR 86/00](3-str-86-00.md) — Unterbringung
 - [BGH, Beschluss vom 17.05.2000 - 3 StR 161/00](3-str-161-00.md) — Totschlags u.a.
 - [BGH, Beschluss vom 17.05.2000 - 3 StR 167/00](3-str-167-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 10.05.2000 - 3 StR 101/00](3-str-101-00.md) — falscher Angaben und Betrugs
+- [BGH, Urteil vom 10.05.2000 - 3 StR 21/00](3-str-21-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.04.2000 - 3 StR 135/00](3-str-135-00.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 26.04.2000 - 3 StR 138/00](3-str-138-00.md) — Das Landgericht hat die Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus angeordnet.
+- [BGH, Beschluss vom 26.04.2000 - 3 StR 152/00](3-str-152-00.md) — schwerer Brandstiftung u.a.
+- [BGH, Urteil vom 26.04.2000 - 3 StR 573/99](3-str-573-99.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.04.2000 - 3 StR 97/00](3-str-97-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 19.04.2000 - 3 StR 122/00](3-str-122-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 19.04.2000 - 3 StR 149/00](3-str-149-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 19.04.2000 - 3 StR 151/00](3-str-151-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 19.04.2000 - 3 StR 32/00](3-str-32-00.md) — Mordes u.a.
+- [BGH, Urteil vom 19.04.2000 - 3 StR 442/99](3-str-442-99.md) — fahrlässiger Tötung u.a.
+- [BGH, Beschluss vom 19.04.2000 - 3 StR 595/99](3-str-595-99.md) — BGH, Beschluss vom 19.04.2000 - 3 StR 595/99
+- [BGH, Beschluss vom 05.04.2000 - 3 StR 114/00](3-str-114-00.md) — schweren Raubes
+- [BGH, Beschluss vom 05.04.2000 - 3 StR 496/99](3-str-496-99.md) — Betruges
+- [BGH, Beschluss vom 05.04.2000 - 3 StR 58/00](3-str-58-00.md) — Anstiftung zur schweren Brandstiftung u.a.
+- [BGH, Beschluss vom 05.04.2000 - 3 StR 75/00](3-str-75-00.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 05.04.2000 - 3 StR 95/00](3-str-95-00.md) — zu 1.: versuchten Totschlags u.a. zu 2.: Beihilfe zum versuchten Totschlag u.a.
+- [BGH, Beschluss vom 24.03.2000 - 3 StR 585/99](3-str-585-99.md) — schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 24.03.2000 - 3 StR 98/00](3-str-98-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Urteil vom 22.03.2000 - 3 StR 10/00](3-str-10-00.md) — Beihilfe zum Mord
 - [BGH, Beschluss vom 17.03.2000 - 3 StR 85/00](3-str-85-00.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 15.03.2000 - 3 StR 597/99](3-str-597-99.md) — Brandstiftung u.a.
+- [BGH, Beschluss vom 10.03.2000 - 3 StR 16/00](3-str-16-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 08.03.2000 - 3 StR 41/00](3-str-41-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.03.2000 - 3 StR 437/99](3-str-437-99.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 08.03.2000 - 3 StR 50/00](3-str-50-00.md) — zu 1.: unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 08.03.2000 - 3 StR 55/00](3-str-55-00.md) — versuchten Totschlags u.a.
 - [BGH, Urteil vom 08.03.2000 - 3 StR 575/99](3-str-575-99.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 08.03.2000 - 3 StR 64/00](3-str-64-00.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 08.03.2000 - 3 StR 67/00](3-str-67-00.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 08.03.2000 - 3 StR 69/00](3-str-69-00.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 23.02.2000 - 3 StR 15/00](3-str-15-00.md) — Totschlags
+- [BGH, Beschluss vom 23.02.2000 - 3 StR 18/00](3-str-18-00.md) — zu 1.: schweren Raubes zu 2.: Anstiftung zum versuchten schweren Raub
+- [BGH, Urteil vom 23.02.2000 - 3 StR 583/99](3-str-583-99.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 16.02.2000 - 3 StR 22/00](3-str-22-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 16.02.2000 - 3 StR 24/00](3-str-24-00.md) — Totschlags
 - [BGH, Beschluss vom 16.02.2000 - 3 StR 28/00](3-str-28-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
@@ -70,9 +168,12 @@
 - [BGH, Beschluss vom 11.02.2000 - 3 StR 3/00](3-str-3-00.md) — versuchten Mordes u.a.
 - [BGH, Urteil vom 11.02.2000 - 3 StR 308/99](3-str-308-99.md) — gewerbsmäßigen Einschleusens von Ausländern u.a.
 - [BGH, Urteil vom 11.02.2000 - 3 StR 377/99](3-str-377-99.md) — Beihilfe zum Angriff auf den Luftverkehr u.a.
+- [BGH, Beschluss vom 11.02.2000 - 3 StR 486/99](3-str-486-99.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
 - [BGH, Beschluss vom 11.02.2000 - 3 StR 499/99](3-str-499-99.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 11.02.2000 - 3 StR 503/99](3-str-503-99.md) — versuchter räuberischer Erpressung u.a.
 - [BGH, Urteil vom 09.02.2000 - 3 StR 392/99](3-str-392-99.md) — Mordes
+- [BGH, Urteil vom 26.01.2000 - 3 StR 410/99](3-str-410-99.md) — Totschlags
+- [BGH, Beschluss vom 26.01.2000 - 3 StR 588/99](3-str-588-99.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 21.01.2000 - 3 StR 367/99](3-str-367-99.md) — Beihilfe zur Vergewaltigung u.a.
 - [BGH, Beschluss vom 21.01.2000 - 3 StR 487/99](3-str-487-99.md) — versuchter räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 19.01.2000 - 3 StR 500/99](3-str-500-99.md) — Bandendiebstahls oder Bandenhehlerei

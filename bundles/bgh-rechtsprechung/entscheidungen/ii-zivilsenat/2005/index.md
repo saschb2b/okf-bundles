@@ -1,36 +1,60 @@
 # II. Zivilsenat – 2005
 
-66 Entscheidung(en).
+131 Entscheidung(en).
 
 - [BGH, Beschluss vom 12.12.2005 - II ZB 30/04](ii-zb-30-04.md) — BGH, Beschluss vom 12.12.2005 - II ZB 30/04
+- [BGH, Beschluss vom 12.12.2005 - II ZB 33/04](ii-zb-33-04.md) — der Versäumung der Berufungsfrist um Wiedereinsetzung in den vorigen Stand
 - [BGH, Urteil vom 12.12.2005 - II ZR 253/03](ii-zr-253-03.md) — Tatbestand:
 - [BGH, Urteil vom 12.12.2005 - II ZR 283/03](ii-zr-283-03.md) — Tatbestand:
+- [BGH, Beschluss vom 12.12.2005 - II ZR 330/04](ii-zr-330-04.md) — hat der Senat in seiner Leitenscheidung (aaO 208, 211), der das
 - [BGH, Beschluss vom 05.12.2005 - II ZB 2/05](ii-zb-2-05.md) — BGH, Beschluss vom 05.12.2005 - II ZB 2/05
+- [BGH, Urteil vom 05.12.2005 - II ZR 13/04](ii-zr-13-04.md) — Tatbestand:
+- [BGH, Beschluss vom 05.12.2005 - II ZR 196/04](ii-zr-196-04.md) — Der Wert des Zahlungsantrags beträgt 14.350,90 €.
 - [BGH, Urteil vom 05.12.2005 - II ZR 291/03](ii-zr-291-03.md) — Tatbestand:
 - [BGH, Beschluss vom 28.11.2005 - II ZA 1/04](ii-za-1-04.md) — nicht eröffnet.
-- [BGH, Beschluss vom 28.11.2005 - II ZR 101/04](ii-zr-101-04.md) — der ver-
+- [BGH, Beschluss vom 28.11.2005 - II ZB 27/04](ii-zb-27-04.md) — I. Die Kläger sind Mitglieder der Beklagten, einer Landwirtschaftlichen Produktionsgenossenschaft (LPG), die sich nach einer fehlgeschlagenen Um- wandlung in Liquidation befindet …
 - [BGH, Beschluss vom 28.11.2005 - II ZR 246/04](ii-zr-246-04.md) — Die Revision des Klägers hat keine Aussicht auf Erfolg, und die Voraus- setzungen für deren Zulassung liegen nicht vor.
 - [BGH, Beschluss vom 28.11.2005 - II ZR 331/03](ii-zr-331-03.md) — BGH, Beschluss vom 28.11.2005 - II ZR 331/03
+- [BGH, Versäumnisurteil vom 28.11.2005 - II ZR 355/03](ii-zr-355-03.md) — Tatbestand:
 - [BGH, Beschluss vom 28.11.2005 - II ZR 80/04](ii-zr-80-04.md) — fehlerhafter Ad-hoc-Publizität reichen zum Nachweis der konkreten Kausalität zwischen der Täuschung und der Willensentscheidung des Anlegers
+- [BGH, Urteil vom 21.11.2005 - II ZR 140/04](ii-zr-140-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 21.11.2005 - II ZR 17/04](ii-zr-17-04.md) — Tatbestand:
+- [BGH, Urteil vom 21.11.2005 - II ZR 277/03](ii-zr-277-03.md) — Tatbestand:
 - [BGH, Urteil vom 21.11.2005 - II ZR 367/03](ii-zr-367-03.md) — Tatbestand:
 - [BGH, Beschluss vom 21.11.2005 - II ZR 79/04](ii-zr-79-04.md) — BGH, Beschluss vom 21.11.2005 - II ZR 79/04
 - [BGH, Beschluss vom 14.11.2005 - II ZB 23/04](ii-zb-23-04.md) — BGH, Beschluss vom 14.11.2005 - II ZB 23/04
+- [BGH, Versäumnisurteil vom 14.11.2005 - II ZR 16/04](ii-zr-16-04.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 14.11.2005 - II ZR 178/03](ii-zr-178-03.md) — "Vermögensvermischung" geltend zu machen.
+- [BGH, Beschluss vom 14.11.2005 - II ZR 222/04](ii-zr-222-04.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 07.11.2005 - II ZR 43/04](ii-zr-43-04.md) — BGH, Beschluss vom 07.11.2005 - II ZR 43/04
 - [BGH, Urteil vom 24.10.2005 - II ZR 129/04](ii-zr-129-04.md) — Tatbestand:
+- [BGH, Beschluss vom 24.10.2005 - II ZR 144/04](ii-zr-144-04.md) — Das Berufungsgericht hat den Anspruch der Kläger auf rechtliches Ge- hör (Art.
+- [BGH, Beschluss vom 24.10.2005 - II ZR 234/04](ii-zr-234-04.md) — Die angefochtene Entscheidung wirft keine Fragen von grundsätzlicher Bedeutung auf und ist nicht zum Nachteil des Beklagten von Rechtsfehlern be- einflusst.
+- [BGH, Urteil vom 24.10.2005 - II ZR 329/03](ii-zr-329-03.md) — einer Eigentumsbeeinträchtigung gemäß § 1004 BGB (hier: Eigentumsberühmung), die ein im EU-Ausland wohnender Beklagter im Inland begangen ha
+- [BGH, Urteil vom 24.10.2005 - II ZR 339/03](ii-zr-339-03.md) — 3-
 - [BGH, Urteil vom 24.10.2005 - II ZR 55/04](ii-zr-55-04.md) — Tatbestand:
 - [BGH, Urteil vom 24.10.2005 - II ZR 56/04](ii-zr-56-04.md) — Tatbestand:
+- [BGH, Beschluss vom 17.10.2005 - II ZB 4/05](ii-zb-4-05.md) — unrichtiger Sachbehandlung nicht erhoben werden.
+- [BGH, Beschluss vom 17.10.2005 - II ZB 8/05](ii-zb-8-05.md) — Die gemäß § 66 Abs. 1 Satz 1 GKG zulässige Erinnerung des Beklagten hat keinen Erfolg. Der Kostenansatz in der Kostenrechnung vom 25. Juli 2005 entspricht den Vorschriften des …
 - [BGH, Urteil vom 10.10.2005 - II ZR 148/03](ii-zr-148-03.md) — Tatbestand:
 - [BGH, Beschluss vom 10.10.2005 - II ZR 23/05](ii-zr-23-05.md) — BGH, Beschluss vom 10.10.2005 - II ZR 23/05
+- [BGH, Urteil vom 10.10.2005 - II ZR 323/03](ii-zr-323-03.md) — 3-
+- [BGH, Urteil vom 10.10.2005 - II ZR 90/03](ii-zr-90-03.md) — Tatbestand:
 - [BGH, Beschluss vom 26.09.2005 - II ZR 125/05](ii-zr-125-05.md) — zurückzuweisen, weil die beabsichtigte Rechtsverfolgung aussichtslos erscheint. Aussichtslosigkeit i.S. des § 78 b ZPO ist gegeben, wenn die
 - [BGH, Urteil vom 26.09.2005 - II ZR 314/03](ii-zr-314-03.md) — unzureichender Investitionen klagenden Anlegern nicht zugänglich sind, die offenzulegen der Fondsgesellschaft aber möglich und zumutbar ist.
 - [BGH, Urteil vom 26.09.2005 - II ZR 380/03](ii-zr-380-03.md) — Tatbestand:
 - [BGH, Beschluss vom 20.09.2005 - II ZR 252/04](ii-zr-252-04.md) — . Die Beklagten und Beschwerdeführer wenden sich mit der Behauptung, zwischen den Schwiegereltern der Klägerin und ihnen habe eine BGBGesellschaft hinsichtlich eines Grundstücks …
+- [BGH, Beschluss vom 19.09.2005 - II ZB 11/04](ii-zb-11-04.md) — I. Die Gesellschaft - eine als GmbH & Co. KG organisierte Publikumsge- sellschaft - ist seit Jahrzehnten unter der Register-Nummer 5 in das Han- delsregister A beim Amtsgericht …
+- [BGH, Beschluss vom 19.09.2005 - II ZB 18/04](ii-zb-18-04.md) — I. Der Kläger, Insolvenzverwalter über das Vermögen der im Beitrittsge- biet ansässigen A. mbH P. , hat ge- gen den Beklagten am 25. Januar 2002 ein rechtskräftiges …
 - [BGH, Urteil vom 19.09.2005 - II ZR 173/04](ii-zr-173-04.md) — besonderer Umstände sachlich gerechtfertigt ist. Das ist dann der Fall, wenn einem Geschäftsführer im Hinblick auf seine Geschäftsführerstel
+- [BGH, Urteil vom 19.09.2005 - II ZR 229/03](ii-zr-229-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.09.2005 - II ZR 342/03](ii-zr-342-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.09.2005 - II ZR 372/03](ii-zr-372-03.md) — Tatbestand:
+- [BGH, Beschluss vom 19.09.2005 - II ZR 51/04](ii-zr-51-04.md) — Das Berufungsgericht hat den Anspruch der Klägerin auf rechtliches Gehör (Art.
 - [BGH, Beschluss vom 22.08.2005 - II ZB 6/05](ii-zb-6-05.md) — I. Die Parteien sind Geschwister. Sie haben von den Eltern das Haus- grundstück H. Straße 274 in F. geerbt. Nachdem das Grund- stück versteigert und der Erlös hinterlegt worden …
 - [BGH, Beschluss vom 22.08.2005 - II ZR 172/04](ii-zr-172-04.md) — I. Die Beklagte begehrt im Wege der Berichtigung gemäß § 319 ZPO, hilfsweise der Ergänzung analog § 321 ZPO die Abänderung des Senatsbeschlusses vom 20. Juni 2005 dahingehend …
-- [BGH, Beschluss vom 01.08.2005 - II ZR 193/05](ii-zr-193-05.md) — BGH, Beschluss vom 01.08.2005 - II ZR 193/05
+- [BGH, Urteil vom 25.07.2005 - II ZR 199/03](ii-zr-199-03.md) — der Vergleichbarkeit der Tätigkeit des Liquidators (§ 70 GmbHG) mit der Aufgabe eines Konkursverwalters in sinngemäßer Anwendung der Bestimm
+- [BGH, Urteil vom 25.07.2005 - II ZR 237/03](ii-zr-237-03.md) — Tatbestand:
 - [BGH, Beschluss vom 25.07.2005 - II ZR 327/03](ii-zr-327-03.md) — AktG §§ 327 a ff. Die Regelungen der §§ 327 a ff. AktG (sog. "Squeeze out") sind verfassungsgemäß. BGH, Beschluss vom 25. Juli 2005 - II ZR 327/03 - OLG Celle LG Hannover
 - [BGH, Urteil vom 25.07.2005 - II ZR 343/03](ii-zr-343-03.md) — Tatbestand:
 - [BGH, Urteil vom 25.07.2005 - II ZR 377/03](ii-zr-377-03.md) — Tatbestand:
@@ -38,20 +62,45 @@
 - [BGH, Urteil vom 25.07.2005 - II ZR 389/03](ii-zr-389-03.md) — Tatbestand:
 - [BGH, Urteil vom 25.07.2005 - II ZR 390/03](ii-zr-390-03.md) — II ZR 390/03 Schreibfehlerberichtigung Im Urteil des II. Zivilsenats des Bundesgerichtshofes vom 25. Juli 2005 muss es wie folgt richtig heißen: Seite 5, Zeile 7: "… Unter diesem …
 - [BGH, Urteil vom 25.07.2005 - II ZR 73/04](ii-zr-73-04.md) — Tatbestand:
+- [BGH, Beschluss vom 18.07.2005 - II ZB 16/04](ii-zb-16-04.md) — der Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorigen Stand beantragt und die Berufung begründet. Mit dem angefochten
+- [BGH, Urteil vom 18.07.2005 - II ZR 159/03](ii-zr-159-03.md) — Tatbestand:
+- [BGH, Urteil vom 11.07.2005 - II ZR 235/03](ii-zr-235-03.md) — aufzunehmen (Ergänzung zu BGHZ 146, 264).
 - [BGH, Urteil vom 11.07.2005 - II ZR 285/03](ii-zr-285-03.md) — Tatbestand:
+- [BGH, Beschluss vom 04.07.2005 - II ZB 14/04](ii-zb-14-04.md) — I. Der am Landgericht B. als Rechtsanwalt zugelassene Kläger wurde zum Insolvenzverwalter über das Vermögen der b. P. GbR, E. (nachfolgend: Schuldnerin), bestellt. Der Kläger hat …
+- [BGH, Urteil vom 04.07.2005 - II ZR 354/03](ii-zr-354-03.md) — 3-
+- [BGH, Beschluss vom 04.07.2005 - II ZR 396/03](ii-zr-396-03.md) — Das Berufungsgericht hat, wie die Nichtzulassungsbeschwerde, auf die der Senat zur Vermeidung von Wiederholungen Bezug nimmt, zu Recht rügt, den Anspruch der Kläger auf …
 - [BGH, Urteil vom 27.06.2005 - II ZR 113/03](ii-zr-113-03.md) — Tatbestand:
+- [BGH, Urteil vom 20.06.2005 - II ZR 18/03](ii-zr-18-03.md) — Tatbestand:
 - [BGH, Urteil vom 20.06.2005 - II ZR 189/03](ii-zr-189-03.md) — Nachschlagewerk: ja
+- [BGH, Urteil vom 20.06.2005 - II ZR 232/04](ii-zr-232-04.md) — arglistiger Täuschung nach § 123 BGB anfechten, wenn der ausscheidende Gesellschafter während der Vergleichsverhandlungen eine Urkunde, dere
+- [BGH, Versäumnisurteil vom 20.06.2005 - II ZR 252/03](ii-zr-252-03.md) — Tatbestand:
 - [BGH, Beschluss vom 20.06.2005 - II ZR 307/03](ii-zr-307-03.md) — BGH, Beschluss vom 20.06.2005 - II ZR 307/03
+- [BGH, Urteil vom 20.06.2005 - II ZR 366/03](ii-zr-366-03.md) — Tatbestand:
 - [BGH, Urteil vom 13.06.2005 - II ZR 137/03](ii-zr-137-03.md) — Tatbestand:
+- [BGH, Urteil vom 13.06.2005 - II ZR 222/03](ii-zr-222-03.md) — Tatbestand:
+- [BGH, Beschluss vom 13.06.2005 - II ZR 311/03](ii-zr-311-03.md) — der Entnahme von 81.806,70 € (= 160.000,00 DM) im Herbst 1998 aus der L. GmbH Berlin.
+- [BGH, Beschluss vom 06.06.2005 - II ZB 9/04](ii-zb-9-04.md) — I. Die Widerklage der Beklagten ist durch Schlußurteil des Landgerichts Frankfurt am Main vom 28. Februar 2003 abgewiesen worden. Gegen das ihr am 28. April 2003 zugestellte …
+- [BGH, Beschluss vom 06.06.2005 - II ZR 313/03](ii-zr-313-03.md) — Das Berufungsgericht hat, wie die Nichtzulassungsbeschwerde, auf die der Senat zur Vermeidung von Wiederholungen Bezug nimmt, zu Recht rügt, in vielfacher Weise den Anspruch des …
 - [BGH, Urteil vom 30.05.2005 - II ZR 236/03](ii-zr-236-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.05.2005 - II ZR 319/04](ii-zr-319-04.md) — Tatbestand:
+- [BGH, Beschluss vom 09.05.2005 - II ZR 142/03](ii-zr-142-03.md) — grundsätzlich nicht geboten (st.Rspr. BVerfGE, Beschl. v. 8. Januar 2004 - 1 BvR 864/03, NJW 2004, 1371 m.w.Nachw.). Auch nach der Gesetzesb
+- [BGH, Urteil vom 09.05.2005 - II ZR 287/02](ii-zr-287-02.md) — zwischenzeitlicher Veräußerung nicht mehr vorhanden sind - gegen Anrechnung des an ihre Stelle getretenen Veräußerungspreises verlangen (vgl
+- [BGH, Urteil vom 09.05.2005 - II ZR 29/03](ii-zr-29-03.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 09.05.2005 - II ZR 66/03](ii-zr-66-03.md) — 3-
 - [BGH, Beschluss vom 02.05.2005 - II ZR 263/03](ii-zr-263-03.md) — kommt es auch nicht darauf an, daß - wie die Klägerin geltend macht - keine Rede davon sein kann, daß das Berufungsgericht die Voraussetzung
 - [BGH, Beschluss vom 02.05.2005 - II ZR 303/03](ii-zr-303-03.md) — BGH, Beschluss vom 02.05.2005 - II ZR 303/03
 - [BGH, Urteil vom 25.04.2005 - II ZR 103/03](ii-zr-103-03.md) — Tatbestand:
 - [BGH, Urteil vom 25.04.2005 - II ZR 224/03](ii-zr-224-03.md) — Tatbestand:
 - [BGH, Urteil vom 18.04.2005 - II ZR 151/03](ii-zr-151-03.md) — Tatbestand:
+- [BGH, Urteil vom 18.04.2005 - II ZR 195/04](ii-zr-195-04.md) — Tatbestand:
+- [BGH, Urteil vom 18.04.2005 - II ZR 197/04](ii-zr-197-04.md) — Tatbestand:
+- [BGH, Urteil vom 18.04.2005 - II ZR 21/04](ii-zr-21-04.md) — 3-
+- [BGH, Urteil vom 18.04.2005 - II ZR 224/04](ii-zr-224-04.md) — BGH, Urteil vom 18.04.2005 - II ZR 224/04
+- [BGH, Urteil vom 18.04.2005 - II ZR 55/03](ii-zr-55-03.md) — Tatbestand:
 - [BGH, Urteil vom 18.04.2005 - II ZR 61/03](ii-zr-61-03.md) — Tatbestand:
 - [BGH, Urteil vom 11.04.2005 - II ZR 299/03](ii-zr-299-03.md) — Tatbestand:
 - [BGH, Beschluss vom 04.04.2005 - II ZR 107/04](ii-zr-107-04.md) — BGH, Beschluss vom 04.04.2005 - II ZR 107/04
+- [BGH, Beschluss vom 04.04.2005 - II ZR 192/04](ii-zr-192-04.md) — I. Der Kläger zeichnete am 14. August 1995 eine Beteiligung in Form eines stillen Gesellschaftsvertrages mit der G. Vermögensanlagen AG, einer Rechtsvorgängerin der Beklagten zu …
 - [BGH, Urteil vom 21.03.2005 - II ZR 124/03](ii-zr-124-03.md) — bankrechtlicher Bedenken weigert, die Rente zu zahlen, und statt dessen die Auszahlung des Guthabens in einer Summe anbietet.
 - [BGH, Urteil vom 21.03.2005 - II ZR 140/03](ii-zr-140-03.md) — bankrechtlicher Bedenken weigert, die Rente zu zahlen, und statt dessen die Auszahlung des Guthabens in einer Summe anbietet.
 - [BGH, Urteil vom 21.03.2005 - II ZR 149/03](ii-zr-149-03.md) — 3-
@@ -60,10 +109,26 @@
 - [BGH, Urteil vom 21.03.2005 - II ZR 180/03](ii-zr-180-03.md) — Tatbestand:
 - [BGH, Urteil vom 21.03.2005 - II ZR 310/03](ii-zr-310-03.md) — Zweifeln an der Seriosität des Anlagemodells widerrufen hat und im Rahmen eines erneuten Werbegesprächs dazu veranlaßt wird, den Widerruf zu
 - [BGH, Urteil vom 21.03.2005 - II ZR 411/02](ii-zr-411-02.md) — der weitergehenden Forderungen der Klägerin und der gesamten Verfahrenskosten wird die Sache zur neuen Verhandlung und Entscheidung an das B
+- [BGH, Urteil vom 21.03.2005 - II ZR 54/03](ii-zr-54-03.md) — Tatbestand:
+- [BGH, Beschluss vom 14.03.2005 - II ZB 31/03](ii-zb-31-03.md) — des Widerspruchs der Beklagten durch Verfü-
+- [BGH, Urteil vom 14.03.2005 - II ZR 129/03](ii-zr-129-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.03.2005 - II ZR 153/03](ii-zr-153-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.03.2005 - II ZR 405/02](ii-zr-405-02.md) — Tatbestand:
 - [BGH, Urteil vom 14.03.2005 - II ZR 5/03](ii-zr-5-03.md) — fehlender Eintragung in einem deutschen Handelsregister der persönlichen Handelndenhaftung analog § 11 Abs. 2 GmbHG für deren rechtsgeschäft
+- [BGH, Urteil vom 07.03.2005 - II ZR 138/03](ii-zr-138-03.md) — Überschuldung der Gesellschaft, reicht es nicht aus, wenn lediglich die Handelsbilanz vorgelegt wird, auch wenn sich daraus ein nicht durch
 - [BGH, Urteil vom 07.03.2005 - II ZR 144/03](ii-zr-144-03.md) — Tatbestand:
+- [BGH, Urteil vom 07.03.2005 - II ZR 194/03](ii-zr-194-03.md) — Tatbestand:
 - [BGH, Urteil vom 28.02.2005 - II ZR 103/02](ii-zr-103-02.md) — Tatbestand:
+- [BGH, Urteil vom 28.02.2005 - II ZR 13/03](ii-zr-13-03.md) — vorsätzlicher sittenwidriger Schädigung (§ 826 BGB) kommt in Betracht, wenn ein Anleger mit Hilfe unrichtiger Prospektangaben durch arglisti
+- [BGH, Beschluss vom 28.02.2005 - II ZR 203/03](ii-zr-203-03.md) — I. Der Kläger kündigte Ende Dezember 2000 zum 31. Dezember 2002 seine Mitgliedschaft bei der Beklagten, einer eingetragenen Genossenschaft, die sich mit der Herstellung und dem …
+- [BGH, Urteil vom 28.02.2005 - II ZR 220/03](ii-zr-220-03.md) — Tatbestand:
+- [BGH, Beschluss vom 23.02.2005 - II ZR 147/03](ii-zr-147-03.md) — des hier gegebenen einheitlichen Lebenssachverhalts kann offen bleiben, ob Revision und Anschlußrevision in einem rechtlichen oder wirtschaf
+- [BGH, Urteil vom 21.02.2005 - II ZR 112/03](ii-zr-112-03.md) — Tatbestand:
 - [BGH, Urteil vom 21.02.2005 - II ZR 126/03](ii-zr-126-03.md) — 3-
+- [BGH, Urteil vom 14.02.2005 - II ZR 11/03](ii-zr-11-03.md) — 3-
+- [BGH, Beschluss vom 14.02.2005 - II ZR 290/03](ii-zr-290-03.md) — BGH, Beschluss vom 14.02.2005 - II ZR 290/03
+- [BGH, Urteil vom 14.02.2005 - II ZR 361/02](ii-zr-361-02.md) — Tatbestand:
+- [BGH, Urteil vom 14.02.2005 - II ZR 365/02](ii-zr-365-02.md) — Tatbestand:
 - [BGH, Urteil vom 31.01.2005 - II ZR 200/03](ii-zr-200-03.md) — Tatbestand:
 - [BGH, Urteil vom 31.01.2005 - II ZR 240/02](ii-zr-240-02.md) — Tatbestand:
 - [BGH, Beschluss vom 31.01.2005 - II ZR 304/03](ii-zr-304-03.md) — Besorgnis der Befangenheit statt, wenn ein Grund vorliegt, der geeignet ist, Mißtrauen gegen die Unparteilichkeit eines Richters zu rechtfer

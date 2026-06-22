@@ -1,6 +1,6 @@
 # XI. Zivilsenat
 
-Bank- und Kapitalmarktrecht, Darlehensrecht. 1330 Entscheidung(en).
+Bank- und Kapitalmarktrecht, Darlehensrecht. 1931 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -21,13 +21,13 @@ Bank- und Kapitalmarktrecht, Darlehensrecht. 1330 Entscheidung(en).
 - [2012](2012/index.md) (55)
 - [2011](2011/index.md) (75)
 - [2010](2010/index.md) (48)
-- [2009](2009/index.md) (43)
-- [2008](2008/index.md) (80)
-- [2007](2007/index.md) (60)
-- [2006](2006/index.md) (44)
-- [2005](2005/index.md) (40)
-- [2004](2004/index.md) (40)
-- [2003](2003/index.md) (40)
-- [2002](2002/index.md) (50)
-- [2001](2001/index.md) (19)
-- [2000](2000/index.md) (21)
+- [2009](2009/index.md) (118)
+- [2008](2008/index.md) (162)
+- [2007](2007/index.md) (155)
+- [2006](2006/index.md) (103)
+- [2005](2005/index.md) (103)
+- [2004](2004/index.md) (88)
+- [2003](2003/index.md) (101)
+- [2002](2002/index.md) (91)
+- [2001](2001/index.md) (66)
+- [2000](2000/index.md) (51)

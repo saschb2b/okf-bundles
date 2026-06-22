@@ -1,38 +1,101 @@
 # VII. Zivilsenat – 2006
 
-34 Entscheidung(en).
+97 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2006 - VII ZA 7/06](vii-za-7-06.md) — Versäumung dieser Frist Wiedereinsetzung in den vorigen Stand gewährt wer-
+- [BGH, Beschluss vom 21.12.2006 - VII ZR 164/05](vii-zr-164-05.md) — fehlender Über-
+- [BGH, Beschluss vom 21.12.2006 - VII ZR 200/05](vii-zr-200-05.md) — arglistiger Täuschung an-
+- [BGH, Urteil vom 21.12.2006 - VII ZR 275/05](vii-zr-275-05.md) — Tatbestand:
 - [BGH, Beschluss vom 21.12.2006 - VII ZR 279/05](vii-zr-279-05.md) — Mängeln einer vom
+- [BGH, Beschluss vom 21.12.2006 - VII ZR 59/06](vii-zr-59-06.md) — BGH, Beschluss vom 21.12.2006 - VII ZR 59/06
+- [BGH, Beschluss vom 20.12.2006 - VII ZB 54/06](vii-zb-54-06.md) — I. 1 Aufgrund zweier gerichtlicher Vergleiche vom Dezember 2004 war die Schuldnerin verpflichtet, an den Gläubiger 225.325,80 € zu zahlen. Am 1. März 2005 schlossen die Parteien …
 - [BGH, Beschluss vom 20.12.2006 - VII ZB 56/06](vii-zb-56-06.md) — BGH, Beschluss vom 20.12.2006 - VII ZB 56/06
+- [BGH, Beschluss vom 20.12.2006 - VII ZB 58/06](vii-zb-58-06.md) — einer Gesamtforderung von 553,55 €. Sie hat einen Pfändungs- und
+- [BGH, Beschluss vom 20.12.2006 - VII ZB 92/05](vii-zb-92-05.md) — einer
+- [BGH, Beschluss vom 07.12.2006 - VII ZB 50/06](vii-zb-50-06.md) — I. 1 Die Klägerin begehrt Prozesskostenhilfe für eine Klage auf rückständigen Werklohn in Höhe 6.293,23 € für das Ausheben einer Baugrube. Das Landge- richt Gera hat den …
 - [BGH, Beschluss vom 07.12.2006 - VII ZR 180/05](vii-zr-180-05.md) — I. 1 Die Klägerin begehrt von der Beklagten Ersatz von Nachbesserungskos- ten zum Zweck der Beseitigung von Baumängeln. Die Instanzgerichte haben sich bislang nur mit der …
+- [BGH, Urteil vom 07.12.2006 - VII ZR 290/04](vii-zr-290-04.md) — Tatbestand:
+- [BGH, Beschluss vom 23.11.2006 - VII ZB 40/06](vii-zb-40-06.md) — I. 1 Die Beklagte wendet sich gegen einen Aussetzungsbeschluss. 2 Die Beklagte führte für die Klägerin aufgrund eines Rahmen-Bau- vertrages Putzarbeiten an mehreren Bauvorhaben …
 - [BGH, Urteil vom 23.11.2006 - VII ZR 110/05](vii-zr-110-05.md) — Tatbestand:
+- [BGH, Beschluss vom 23.11.2006 - VII ZR 249/05](vii-zr-249-05.md) — Das Berufungsurteil ist aufzuheben, soweit es auf einer Verletzung des Anspruchs des Klägers auf rechtliches Gehör beruht.
+- [BGH, Urteil vom 09.11.2006 - VII ZR 151/05](vii-zr-151-05.md) — Tatbestand:
 - [BGH, Beschluss vom 09.11.2006 - VII ZR 176/05](vii-zr-176-05.md) — der fehlenden Ausgleichsschicht anerkannt hat, beruht es auf einem
 - [BGH, Beschluss vom 09.11.2006 - VII ZR 24/06](vii-zr-24-06.md) — BGH, Beschluss vom 09.11.2006 - VII ZR 24/06
 - [BGH, Beschluss vom 26.10.2006 - VII ZB 39/06](vii-zb-39-06.md) — BGH, Beschluss vom 26.10.2006 - VII ZB 39/06
+- [BGH, Urteil vom 26.10.2006 - VII ZR 133/04](vii-zr-133-04.md) — Tatbestand:
 - [BGH, Urteil vom 26.10.2006 - VII ZR 194/05](vii-zr-194-05.md) — Tatbestand:
+- [BGH, Beschluss vom 26.10.2006 - VII ZR 29/06](vii-zr-29-06.md) — BGH, Beschluss vom 26.10.2006 - VII ZR 29/06
+- [BGH, Beschluss vom 26.10.2006 - VII ZR 39/06](vii-zr-39-06.md) — BGH, Beschluss vom 26.10.2006 - VII ZR 39/06
+- [BGH, Beschluss vom 25.10.2006 - VII ZB 24/06](vii-zb-24-06.md) — Steuerrückständen inzwischen zwangsgelöscht.
+- [BGH, Beschluss vom 25.10.2006 - VII ZB 25/06](vii-zb-25-06.md) — einer Geldforderung in Höhe von 238,32 €.
+- [BGH, Beschluss vom 25.10.2006 - VII ZB 29/06](vii-zb-29-06.md) — einer Geldforderung. Sie hat einen Pfändungs- und Überweisungsbe-
 - [BGH, Beschluss vom 25.10.2006 - VII ZB 38/06](vii-zb-38-06.md) — nicht aus eigenen Mitteln fortführen kann, weil Gläubiger im Wege der Zwangsvollstreckung auf ihr Vermögen zugegriffen haben
+- [BGH, Beschluss vom 25.10.2006 - VII ZB 71/06](vii-zb-71-06.md) — Versäumung der Fristen zur Einlegung und Begründung der Rechtsbeschwerde Wiedereinsetzung in den vorigen Stand gewährt.
+- [BGH, Beschluss vom 12.10.2006 - VII ZR 227/05](vii-zr-227-05.md) — BGH, Beschluss vom 12.10.2006 - VII ZR 227/05
+- [BGH, Urteil vom 12.10.2006 - VII ZR 272/05](vii-zr-272-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.09.2006 - VII ZB 32/06](vii-zb-32-06.md) — Zweifeln an der Zulässigkeit nach Ablauf der Berufungsfrist, jedoch vor rechtskräftiger Entscheidung des Landgerichts, erneut beim Oberlande
 - [BGH, Beschluss vom 28.09.2006 - VII ZB 51/06](vii-zb-51-06.md) — BGH, Beschluss vom 28.09.2006 - VII ZB 51/06
+- [BGH, Beschluss vom 28.09.2006 - VII ZR 103/05](vii-zr-103-05.md) — Das Berufungsurteil ist aufzuheben, da es auf einer Verletzung des An- spruchs der Klägerin auf rechtliches Gehör beruht.
 - [BGH, Beschluss vom 28.09.2006 - VII ZR 166/05](vii-zr-166-05.md) — BGH, Beschluss vom 28.09.2006 - VII ZR 166/05
+- [BGH, Urteil vom 28.09.2006 - VII ZR 247/05](vii-zr-247-05.md) — Tatbestand:
 - [BGH, Urteil vom 28.09.2006 - VII ZR 303/04](vii-zr-303-04.md) — Tatbestand:
+- [BGH, Beschluss vom 27.09.2006 - VII ZR 11/06](vii-zr-11-06.md) — grundsätzlicher Bedeutung rechtfertigen könnte, ist gemäß Art. 234 Abs. 1 a), Abs. 3 EGV nicht veranlasst. Der Geltungsbereich des mit Art.
 - [BGH, Beschluss vom 19.09.2006 - VII ZB 88/06](vii-zb-88-06.md) — BGH, Beschluss vom 19.09.2006 - VII ZB 88/06
+- [BGH, Beschluss vom 27.07.2006 - VII ZB 16/06](vii-zb-16-06.md) — I. 1 Die Klägerin verlangt von den Beklagten die Bezahlung restlichen Werk- lohns. Die Beklagten machen u.a. geltend, die Werkleistungen seien teilweise nicht vertragsgerecht …
 - [BGH, Beschluss vom 27.07.2006 - VII ZR 137/05](vii-zr-137-05.md) — BGH, Beschluss vom 27.07.2006 - VII ZR 137/05
 - [BGH, Urteil vom 27.07.2006 - VII ZR 202/04](vii-zr-202-04.md) — Tatbestand:
+- [BGH, Urteil vom 27.07.2006 - VII ZR 276/05](vii-zr-276-05.md) — Tatbestand
 - [BGH, Beschluss vom 13.07.2006 - VII ZR 134/05](vii-zr-134-05.md) — 1. Das Berufungsurteil ist im tenorierten Umfang aufzuheben, weil es in- soweit auf einer Verletzung des Anspruchs des Beklagten auf rechtliches Gehör beruht. 2 Die Auffassung des …
+- [BGH, Beschluss vom 13.07.2006 - VII ZR 307/04](vii-zr-307-04.md) — Nach Eröffnung des vereinfachten Insolvenzverfahrens über das Vermö- gen der Schuldner (bisherigen Kläger) und Bestellung eines Treuhänders (jetzi- ger Kläger) hat dieser den …
 - [BGH, Urteil vom 13.07.2006 - VII ZR 51/05](vii-zr-51-05.md) — BGH, Urteil vom 13.07.2006 - VII ZR 51/05
+- [BGH, Versäumnisurteil vom 13.07.2006 - VII ZR 68/05](vii-zr-68-05.md) — Tatbestand:
+- [BGH, Beschluss vom 29.06.2006 - VII ZB 35/06](vii-zb-35-06.md) — I. 1 Bei der Festsetzung der von den Beklagten als Gesamtschuldner an den Kläger zu erstattenden Kosten hat der Rechtspfleger bei dem Amtsgericht die von dem Kläger geltend …
+- [BGH, Urteil vom 29.06.2006 - VII ZR 274/04](vii-zr-274-04.md) — Tatbestand:
 - [BGH, Beschluss vom 29.06.2006 - VII ZR 49/05](vii-zr-49-05.md) — BGH, Beschluss vom 29.06.2006 - VII ZR 49/05
+- [BGH, Urteil vom 29.06.2006 - VII ZR 86/05](vii-zr-86-05.md) — des Mangels eines Bauwerks großen Schadensersatz wegen Nichterfüllung in der Weise, dass er unter Anrechnung des nicht bezahlten Werklohns M
 - [BGH, Beschluss vom 28.06.2006 - VII ZA 2/06](vii-za-2-06.md) — BGH, Beschluss vom 28.06.2006 - VII ZA 2/06
 - [BGH, Beschluss vom 28.06.2006 - VII ZB 142/05](vii-zb-142-05.md) — I. 1 Die Gläubigerin erwirkte gegen den Schuldner einen Pfändungs- und Überweisungsbeschluss, mit dem u.a. die pfändbaren Ansprüche des Schuld- ners gegen den Drittschuldner auf …
+- [BGH, Beschluss vom 28.06.2006 - VII ZB 157/05](vii-zb-157-05.md) — einer Geldforderung. Bei Erteilung des Vollstreckungsauftrags an den
 - [BGH, Beschluss vom 28.06.2006 - VII ZB 161/05](vii-zb-161-05.md) — am 18. August 2005 gegen die Schuld-
 - [BGH, Beschluss vom 08.06.2006 - VII ZB 23/06](vii-zb-23-06.md) — BGH, Beschluss vom 08.06.2006 - VII ZB 23/06
 - [BGH, Urteil vom 08.06.2006 - VII ZR 13/05](vii-zr-13-05.md) — Tatbestand:
 - [BGH, Beschluss vom 11.05.2006 - VII ZB 166/05](vii-zb-166-05.md) — angenommen, weil er keine Bedenken gegen die vorgesehene "In-
+- [BGH, Beschluss vom 11.05.2006 - VII ZR 131/05](vii-zr-131-05.md) — einer nicht ordnungsgemäß gestellten Gewährleistungsbürgschaft und wegen Mängeln der RWA-Kuppeln unberücksichtigt gelassen hat.
+- [BGH, Urteil vom 11.05.2006 - VII ZR 146/04](vii-zr-146-04.md) — Tatbestand:
+- [BGH, Urteil vom 11.05.2006 - VII ZR 261/04](vii-zr-261-04.md) — Tatbestand:
+- [BGH, Urteil vom 11.05.2006 - VII ZR 300/04](vii-zr-300-04.md) — Tatbestand:
+- [BGH, Beschluss vom 11.05.2006 - VII ZR 309/04](vii-zr-309-04.md) — 1. Hinsichtlich der nach der zutreffenden Ansicht des Berufungsgerichts unbedenklichen Klauseln 2 Abs. 2, 7.1 sowie 17 Abs. 3 und 4 ist ein Zulas- sungsgrund nicht gegeben. 2 2 …
+- [BGH, Beschluss vom 27.04.2006 - VII ZB 116/05](vii-zb-116-05.md) — mangelhaft erbrachter Bauleistungen. Mit Schrei-
 - [BGH, Urteil vom 27.04.2006 - VII ZR 175/05](vii-zr-175-05.md) — Tatbestand:
+- [BGH, Beschluss vom 27.04.2006 - VII ZR 193/05](vii-zr-193-05.md) — BGH, Beschluss vom 27.04.2006 - VII ZR 193/05
+- [BGH, Beschluss vom 27.04.2006 - VII ZR 220/04](vii-zr-220-04.md) — Überzahlungen nicht in An-
+- [BGH, Urteil vom 27.04.2006 - VII ZR 291/04](vii-zr-291-04.md) — Tatbestand:
 - [BGH, Beschluss vom 27.04.2006 - VII ZR 31/06](vii-zr-31-06.md) — 1. Das Amtsgericht hat den Beklagten verurteilt, an die Klägerin Werk- lohn für Installationsarbeiten in Höhe von 1.644,66 € zu zahlen. Das Berufungs- gericht hat die Berufung des …
+- [BGH, Beschluss vom 27.04.2006 - VII ZR 70/05](vii-zr-70-05.md) — BGH, Beschluss vom 27.04.2006 - VII ZR 70/05
+- [BGH, Beschluss vom 30.03.2006 - VII ZA 1/06](vii-za-1-06.md) — Die beabsichtigte Nichtzulassungsbeschwerde des Beklagten bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 30.03.2006 - VII ZB 69/05](vii-zb-69-05.md) — Vor-
+- [BGH, Beschluss vom 30.03.2006 - VII ZR 139/05](vii-zr-139-05.md) — I. 1 Das Berufungsgericht hat zu Unrecht das Vorbringen des Klägers im Schriftsatz vom 9. April 2005 als verspätet zurückgewiesen. Damit hat es in entscheidungserheblicher Weise …
+- [BGH, Beschluss vom 30.03.2006 - VII ZR 179/05](vii-zr-179-05.md) — Mängeln der Wärmeisolierung der Erker nach § 531 ZPO zurückgewiesen hat, veranlassen die Zulassung nicht. Sie sind nicht entscheidungserhebl
 - [BGH, Urteil vom 30.03.2006 - VII ZR 249/04](vii-zr-249-04.md) — Tatbestand:
+- [BGH, Beschluss vom 30.03.2006 - VII ZR 4/05](vii-zr-4-05.md) — BGH, Beschluss vom 30.03.2006 - VII ZR 4/05
+- [BGH, Urteil vom 30.03.2006 - VII ZR 44/05](vii-zr-44-05.md) — Tatbestand:
 - [BGH, Beschluss vom 29.03.2006 - VII ZB 14/06](vii-zb-14-06.md) — Versäumung der Fristen zur Einlegung und Begründung der Rechtsbeschwerde Wiedereinsetzung in den vorigen Stand gewährt.
 - [BGH, Beschluss vom 29.03.2006 - VII ZB 15/06](vii-zb-15-06.md) — Versäumung der Fristen zur Einlegung und Begründung der Rechtsbeschwerde Wiedereinsetzung in den vorigen Stand gewährt.
 - [BGH, Beschluss vom 29.03.2006 - VII ZB 31/05](vii-zb-31-05.md) — anderer Forderungen gegen den Kontoinhaber auf diesen Zahlungsbetrag vollstreckungsrechtlich Zugriff nehmen.
 - [BGH, Beschluss vom 09.03.2006 - VII ZB 8/06](vii-zb-8-06.md) — BGH, Beschluss vom 09.03.2006 - VII ZB 8/06
 - [BGH, Beschluss vom 09.03.2006 - VII ZR 188/05](vii-zr-188-05.md) — Das Berufungsgericht hat den Anspruch des Klägers auf rechtliches Ge- hör in entscheidungserheblicher Weise verletzt.
+- [BGH, Urteil vom 09.03.2006 - VII ZR 268/04](vii-zr-268-04.md) — Tatbestand:
+- [BGH, Urteil vom 23.02.2006 - VII ZR 168/04](vii-zr-168-04.md) — Tatbestand:
+- [BGH, Beschluss vom 23.02.2006 - VII ZR 250/04](vii-zr-250-04.md) — BGH, Beschluss vom 23.02.2006 - VII ZR 250/04
+- [BGH, Urteil vom 23.02.2006 - VII ZR 84/05](vii-zr-84-05.md) — Tatbestand:
+- [BGH, Beschluss vom 23.02.2006 - VII ZR 98/05](vii-zr-98-05.md) — BGH, Beschluss vom 23.02.2006 - VII ZR 98/05
+- [BGH, Beschluss vom 09.02.2006 - VII ZB 59/05](vii-zb-59-05.md) — I. 1 Der Beklagte wendet sich gegen einen Kostenfestsetzungsbeschluss. 2 Die Kläger beauftragten den Beklagten mit dem Einbau einer Heizungs- anlage in ihrem Wohnhaus. Nachdem sie …
+- [BGH, Urteil vom 09.02.2006 - VII ZR 228/04](vii-zr-228-04.md) — Tatbestand:
+- [BGH, Beschluss vom 24.01.2006 - VII ZB 148/05](vii-zb-148-05.md) — eines Anspruchs auf Trennungsunterhalt. Er begehrt die Ergänzung ei-
+- [BGH, Beschluss vom 24.01.2006 - VII ZB 74/05](vii-zb-74-05.md) — eines Gesamtbetrages von 4.717,13 €. Darin sind Rechtsan-
+- [BGH, Beschluss vom 24.01.2006 - VII ZB 93/05](vii-zb-93-05.md) — einer Geldforderung.
 - [BGH, Urteil vom 12.01.2006 - VII ZR 2/04](vii-zr-2-04.md) — Tatbestand:
 - [BGH, Beschluss vom 12.01.2006 - VII ZR 2/05](vii-zr-2-05.md) — BGH, Beschluss vom 12.01.2006 - VII ZR 2/05
+- [BGH, Urteil vom 12.01.2006 - VII ZR 207/04](vii-zr-207-04.md) — Tatbestand:
+- [BGH, Urteil vom 12.01.2006 - VII ZR 293/04](vii-zr-293-04.md) — 3-
+- [BGH, Urteil vom 12.01.2006 - VII ZR 73/04](vii-zr-73-04.md) — Tatbestand:

@@ -1,43 +1,101 @@
 # VII. Zivilsenat – 2007
 
-39 Entscheidung(en).
+97 Entscheidung(en).
 
+- [BGH, Beschluss vom 20.12.2007 - VII ZB 87/07](vii-zb-87-07.md) — Die Rechtsbeschwerde ist unzulässig, weil sie nicht statthaft ist (§ 574 Abs.
 - [BGH, Beschluss vom 20.12.2007 - VII ZR 114/07](vii-zr-114-07.md) — 1. Der Kläger hat ingenieurtechnische Leistungen für ein Senioren- und Pflegeheim erbracht. Er hat seine Leistungen für die verschiedenen Anlagen (Heizung, Lüftung, Gas …
 - [BGH, Beschluss vom 20.12.2007 - VII ZR 137/07](vii-zr-137-07.md) — I. 1 Der Kläger ist Insolvenzverwalter über das Vermögen der H. GmbH. Er macht Restwerklohn für Bauarbeiten geltend, die die H. GmbH für die Beklagte als Nachunternehmerin …
+- [BGH, Beschluss vom 20.12.2007 - VII ZR 59/07](vii-zr-59-07.md) — ungenügender Betreuung beim Bau.
+- [BGH, Beschluss vom 12.12.2007 - VII ZB 108/06](vii-zb-108-06.md) — des persönlichen Anspruchs gegen die Schuldner erteilt. Diese haben dagegen
 - [BGH, Beschluss vom 12.12.2007 - VII ZB 21/07](vii-zb-21-07.md) — I. 1 Durch rechtskräftiges Urteil vom 4. Mai 2004 wurde der Schuldner zu ei- ner Freiheitsstrafe verurteilt. Gleichzeitig wurde der Verfall von Wertersatz in Höhe von 4.500.000 € …
+- [BGH, Beschluss vom 12.12.2007 - VII ZB 38/07](vii-zb-38-07.md) — fehlender Passivlegitimation des Drittschuldners nur dann abgelehnt werden, wenn sie dem Schuldner gegenüber diesem Drittschuldner nach kein
+- [BGH, Beschluss vom 12.12.2007 - VII ZB 47/07](vii-zb-47-07.md) — Versäumung der Fristen zur Einlegung und Begründung der Rechtsbeschwerde Wiedereinsetzung in den vorigen Stand gewährt.
 - [BGH, Urteil vom 06.12.2007 - VII ZR 125/06](vii-zr-125-06.md) — eines Baumangels die Bezahlung des Werklohns verweigert, braucht auch nach Einführung des § 641 Abs. 3 BGB durch das Gesetz zur Beschleunigu
+- [BGH, Urteil vom 06.12.2007 - VII ZR 157/06](vii-zr-157-06.md) — Tatbestand:
+- [BGH, Urteil vom 06.12.2007 - VII ZR 28/07](vii-zr-28-07.md) — unangemessen (Bestätigung von BGH, Urteil vom 14. Januar 1999 - VII ZR 79/98, BauR 1999, 645).
+- [BGH, Urteil vom 22.11.2007 - VII ZR 130/06](vii-zr-130-06.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 22.11.2007 - VII ZR 83/05](vii-zr-83-05.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2007 - VII ZR 183/05](vii-zr-183-05.md) — Tatbestand:
 - [BGH, Beschluss vom 25.10.2007 - VII ZB 79/06](vii-zb-79-06.md) — Der Gegenstandswert war entsprechend den der Antragsgegnerin im selbständigen Beweisverfahren entstandenen außergerichtlichen Kosten fest- zusetzen.
+- [BGH, Beschluss vom 25.10.2007 - VII ZR 13/07](vii-zr-13-07.md) — des Geländeunter-
+- [BGH, Urteil vom 25.10.2007 - VII ZR 205/06](vii-zr-205-06.md) — Tatbestand:
+- [BGH, Urteil vom 25.10.2007 - VII ZR 27/06](vii-zr-27-06.md) — verschiedener Mängel, so kann die Feststellung, der Auftragnehmer sei zur Beseitigung aller Mängel verpflichtet, Gegenstand einer Zwischenfe
+- [BGH, Beschluss vom 11.10.2007 - VII ZB 31/07](vii-zb-31-07.md) — Versäumung der Berufungsfrist verworfen und seinen Antrag auf
+- [BGH, Beschluss vom 11.10.2007 - VII ZR 143/06](vii-zr-143-06.md) — eines weitergehenden Honoraranspruchs in Höhe von 68.053,13 € für technische Ausrüstung Umbau zurückgewiesen worden ist.
+- [BGH, Beschluss vom 11.10.2007 - VII ZR 235/05](vii-zr-235-05.md) — Die Festsetzung des Gebührenstreitwerts beruht auf § 48 Abs.
+- [BGH, Urteil vom 11.10.2007 - VII ZR 25/06](vii-zr-25-06.md) — Tatbestand:
 - [BGH, Urteil vom 11.10.2007 - VII ZR 65/06](vii-zr-65-06.md) — Tatbestand:
+- [BGH, Urteil vom 11.10.2007 - VII ZR 99/06](vii-zr-99-06.md) — Tatbestand:
 - [BGH, Beschluss vom 27.09.2007 - VII ZB 23/07](vii-zb-23-07.md) — "als unzulässig zurückzuweisen" sei.
+- [BGH, Beschluss vom 27.09.2007 - VII ZB 85/06](vii-zb-85-06.md) — I. 1 Die Antragsteller haben im Jahr 1998 zur Feststellung von Mängeln an einem Bauvorhaben, das die Antragsgegnerin für sie ausgeführt hatte, die Durchführung eines selbständigen …
+- [BGH, Beschluss vom 27.09.2007 - VII ZR 160/06](vii-zr-160-06.md) — der
+- [BGH, Beschluss vom 27.09.2007 - VII ZR 198/06](vii-zr-198-06.md) — I. 1 Die Parteien streiten um Restwerklohn für die Lieferung und Montage von Deckensystemen sowie um Mängelbeseitigungskosten. -3- 2 Die Beklagte beauftragte die Klägerin im Jahr …
+- [BGH, Beschluss vom 27.09.2007 - VII ZR 232/06](vii-zr-232-06.md) — BGH, Beschluss vom 27.09.2007 - VII ZR 232/06
+- [BGH, Beschluss vom 27.09.2007 - VII ZR 43/06](vii-zr-43-06.md) — Die von dem Insolvenzverwalter nach Schluss der mündlichen Verhand- lung vor dem Berufungsgericht erklärte Anfechtung der Freigabeerklärung ge- mäß § 123 BGB ist im Verfahren der …
+- [BGH, Urteil vom 27.09.2007 - VII ZR 80/05](vii-zr-80-05.md) — einer ausstehenden Sicherheit gemäß § 648 a BGB nicht auf ein Leistungsverweigerungsrecht berufen, wenn er zur Beseitigung dieser Mängel nic
+- [BGH, Beschluss vom 26.09.2007 - VII ZR 63/06](vii-zr-63-06.md) — BGH, Beschluss vom 26.09.2007 - VII ZR 63/06
+- [BGH, Beschluss vom 23.08.2007 - VII ZB 115/06](vii-zb-115-06.md) — I. 1 Die Parteien streiten um die Kosten des Rechtsstreits nach übereinstim- mender Erledigungserklärung. Mit ihrer Klage wandte sich die Klägerin gegen die Vollstreckung aus …
 - [BGH, Beschluss vom 26.07.2007 - VII ZB 111/06](vii-zb-111-06.md) — gesetzlicher Pflichtbeiträge zur Sozialversicherung für Landwirte aus
 - [BGH, Beschluss vom 26.07.2007 - VII ZR 18/06](vii-zr-18-06.md) — BGH, Beschluss vom 26.07.2007 - VII ZR 18/06
 - [BGH, Beschluss vom 26.07.2007 - VII ZR 197/06](vii-zr-197-06.md) — Das Berufungsgericht hat den Anspruch der Klägerin auf rechtliches Ge- hör verletzt, Art.
+- [BGH, Urteil vom 26.07.2007 - VII ZR 262/05](vii-zr-262-05.md) — Mängeln der Werkleistung auch dann entgegenhalten, wenn er die Gewährleistungsansprüche an einen Dritten abgetreten hat (Bestätigung von BGH
 - [BGH, Urteil vom 26.07.2007 - VII ZR 42/05](vii-zr-42-05.md) — Tatbestand:
 - [BGH, Urteil vom 26.07.2007 - VII ZR 5/06](vii-zr-5-06.md) — Bauaufsichtsfehlern haftenden Architekten ist in der Regel der Einwand versagt, der Auftraggeber hätte sich durch rechtzeitigen Zugriff bei
+- [BGH, Beschluss vom 26.07.2007 - VII ZR 82/06](vii-zr-82-06.md) — BGH, Beschluss vom 26.07.2007 - VII ZR 82/06
 - [BGH, Beschluss vom 12.07.2007 - VII ZR 149/06](vii-zr-149-06.md) — BGH, Beschluss vom 12.07.2007 - VII ZR 149/06
+- [BGH, Urteil vom 12.07.2007 - VII ZR 154/06](vii-zr-154-06.md) — Tatbestand:
+- [BGH, Urteil vom 12.07.2007 - VII ZR 186/06](vii-zr-186-06.md) — Tatbestand:
 - [BGH, Beschluss vom 04.07.2007 - VII ZB 15/07](vii-zb-15-07.md) — der auf ein Konto des Drittschuldners eingehenden, dem Schuldner zustehenden Sozialleistungen, kann der Schuldner unter den Voraussetzungen
+- [BGH, Beschluss vom 04.07.2007 - VII ZB 28/07](vii-zb-28-07.md) — titulierter Geldfor-
+- [BGH, Beschluss vom 04.07.2007 - VII ZB 6/05](vii-zb-6-05.md) — einer Forderung in Höhe von insgesamt 843.188,78 € angeordnet und die An-
+- [BGH, Beschluss vom 04.07.2007 - VII ZB 68/06](vii-zb-68-06.md) — einer ärztlichen Honorarforderung.
+- [BGH, Beschluss vom 04.07.2007 - VII ZB 7/05](vii-zb-7-05.md) — einer Gesamtforderung von jeweils 836.654,80 € am
+- [BGH, Beschluss vom 04.07.2007 - VII ZB 86/06](vii-zb-86-06.md) — einer Geldforderung betriebenen Zwangsvoll-
 - [BGH, Beschluss vom 28.06.2007 - VII ZB 118/06](vii-zb-118-06.md) — der in-
+- [BGH, Beschluss vom 28.06.2007 - VII ZR 107/06](vii-zr-107-06.md) — BGH, Beschluss vom 28.06.2007 - VII ZR 107/06
+- [BGH, Urteil vom 28.06.2007 - VII ZR 199/06](vii-zr-199-06.md) — Tatbestand:
 - [BGH, Urteil vom 28.06.2007 - VII ZR 8/06](vii-zr-8-06.md) — Mängeln am Werk nicht mehr in Anspruch genommen wird, so kann er nach dem Rechtsgedanken der Vorteilsausgleichung gehindert sein, seinerseit
 - [BGH, Urteil vom 28.06.2007 - VII ZR 81/06](vii-zr-81-06.md) — Mängeln am Werk nicht mehr in Anspruch genommen wird, so kann er nach dem Rechtsgedanken der Vorteilsausgleichung gehindert sein, seinerseit
 - [BGH, Beschluss vom 14.06.2007 - VII ZB 96/06](vii-zb-96-06.md) — I. 1 Die Klägerin hat nach Durchführung eines im Mai 2001 beantragten selbständigen Beweisverfahrens mit am 3. Dezember 2004 eingereichter Klage Schadensersatzansprüche in Höhe …
+- [BGH, Beschluss vom 14.06.2007 - VII ZR 230/06](vii-zr-230-06.md) — Doppelabrechnungen, überhöhter Zuschläge für Arbeiten an
+- [BGH, Urteil vom 14.06.2007 - VII ZR 45/06](vii-zr-45-06.md) — Tatbestand:
+- [BGH, Beschluss vom 24.05.2007 - VII ZR 210/06](vii-zr-210-06.md) — unangemessener Benachteiligung der Auftragnehmer un-
 - [BGH, Beschluss vom 24.05.2007 - VII ZR 213/06](vii-zr-213-06.md) — Die Beschwerde der Klägerin hat keinen Erfolg.
-- [BGH, Beschluss vom 11.05.2007 - VII ZR 103/05](vii-zr-103-05.md) — BGH, Beschluss vom 11.05.2007 - VII ZR 103/05
+- [BGH, Beschluss vom 10.05.2007 - VII ZB 110/06](vii-zb-110-06.md) — I. 1 Die Parteien streiten um die Festsetzung einer Terminsgebühr und einer Einigungsgebühr für außergerichtliche Verhandlungen. 2 Der Kläger hat seine im April 2005 erhobene …
+- [BGH, Urteil vom 10.05.2007 - VII ZR 226/05](vii-zr-226-05.md) — 3-
+- [BGH, Urteil vom 10.05.2007 - VII ZR 288/05](vii-zr-288-05.md) — einer vom Architekten nicht zu vertretenden Bauzeitverzögerung.
+- [BGH, Beschluss vom 26.04.2007 - VII ZB 103/06](vii-zb-103-06.md) — der Versäumung der Berufungsbegründungsfrist gewährt.
+- [BGH, Beschluss vom 26.04.2007 - VII ZB 18/06](vii-zb-18-06.md) — Besorgnis der Befangenheit abgelehnt.
+- [BGH, Beschluss vom 26.04.2007 - VII ZR 123/06](vii-zr-123-06.md) — 1. Das Berufungsurteil beruht auf einer Verletzung des Rechts der Kläge- rin auf Gewährung rechtlichen Gehörs, soweit das Berufungsgericht einen Ver- gütungsanspruch der Klägerin …
+- [BGH, Urteil vom 26.04.2007 - VII ZR 152/06](vii-zr-152-06.md) — Tatbestand:
 - [BGH, Urteil vom 26.04.2007 - VII ZR 210/05](vii-zr-210-05.md) — Tatbestand:
 - [BGH, Beschluss vom 12.04.2007 - VII ZB 89/06](vii-zb-89-06.md) — BGH, Beschluss vom 12.04.2007 - VII ZB 89/06
 - [BGH, Beschluss vom 12.04.2007 - VII ZB 98/06](vii-zb-98-06.md) — Baumängeln mit einem
 - [BGH, Beschluss vom 12.04.2007 - VII ZR 117/06](vii-zr-117-06.md) — BGH, Beschluss vom 12.04.2007 - VII ZR 117/06
 - [BGH, Urteil vom 12.04.2007 - VII ZR 122/06](vii-zr-122-06.md) — Tatbestand:
+- [BGH, Beschluss vom 12.04.2007 - VII ZR 16/06](vii-zr-16-06.md) — Im Hinblick auf die Insolvenz der B. Vermietungs GmbH ist lediglich eine Änderung des Gegenstandswerts der auf Freistellung gerichteten Feststel- lungsklage veranlasst. Deren Wert …
+- [BGH, Urteil vom 12.04.2007 - VII ZR 236/05](vii-zr-236-05.md) — Mängeln des Gemeinschaftseigentums an sich ziehen. Macht sie von dieser Möglichkeit Gebrauch, begründet dies ihre alleinige Zuständigkeit. I
+- [BGH, Urteil vom 12.04.2007 - VII ZR 50/06](vii-zr-50-06.md) — Mängeln am Gemeinschaftseigentum ist durch eine Bürgschaft gemäß § 7 MaBV in Höhe des Anteils gesichert, welcher dem Haftungsanteil des Erwe
 - [BGH, Beschluss vom 28.03.2007 - VII ZB 104/06](vii-zb-104-06.md) — Versäumung der Fristen zur Einlegung und Begründung der Rechtsbeschwerde Wiedereinsetzung in den vorigen Stand gewährt.
 - [BGH, Beschluss vom 28.03.2007 - VII ZB 25/05](vii-zb-25-05.md) — der Eröffnung des Insolvenzverfahrens über das Vermögen des Schuldners unterbrochen.
 - [BGH, Beschluss vom 28.03.2007 - VII ZB 43/06](vii-zb-43-06.md) — BGH, Beschluss vom 28.03.2007 - VII ZB 43/06
 - [BGH, Beschluss vom 28.03.2007 - VII ZB 94/06](vii-zb-94-06.md) — einer Geldforderung.
+- [BGH, Beschluss vom 22.03.2007 - VII ZR 176/06](vii-zr-176-06.md) — Das Urteil des Berufungsgerichts beruht, soweit der Beklagte zu 2) zur Zahlung von mehr als 65.302,- € verurteilt worden ist, auf einem Verstoß gegen seinen Anspruch auf …
 - [BGH, Urteil vom 22.03.2007 - VII ZR 268/05](vii-zr-268-05.md) — Tatbestand:
 - [BGH, Beschluss vom 08.03.2007 - VII ZB 2/06](vii-zb-2-06.md) — BGH, Beschluss vom 08.03.2007 - VII ZB 2/06
 - [BGH, Versäumnisurteil vom 08.03.2007 - VII ZR 101/05](vii-zr-101-05.md) — Tatbestand:
 - [BGH, Urteil vom 08.03.2007 - VII ZR 130/05](vii-zr-130-05.md) — Tatbestand:
+- [BGH, Beschluss vom 26.02.2007 - VII ZB 14/07](vii-zb-14-07.md) — BGH, Beschluss vom 26.02.2007 - VII ZB 14/07
 - [BGH, Beschluss vom 22.02.2007 - VII ZB 101/06](vii-zb-101-06.md) — I. 1 Nach Durchführung eines schriftlichen Vorverfahrens und vor der bereits anberaumten Güteverhandlung stellte das Landgericht auf Antrag der Parteien mit Beschluss vom 12 …
 - [BGH, Beschluss vom 22.02.2007 - VII ZB 8/07](vii-zb-8-07.md) — I. 1 Das Amtsgericht hat den Beklagten zur Zahlung von 245,03 € nebst Zin- sen verurteilt. Seinen Antrag auf Gewährung von Prozesskostenhilfe hat es zu- rückgewiesen. 2 Die von …
+- [BGH, Beschluss vom 22.02.2007 - VII ZB 93/06](vii-zb-93-06.md) — I. 1 Der Kläger verlangt von den Beklagten die Erstattung von Anwaltskos- ten. 2 Der in G. ansässige Kläger machte gegen die Beklagten vor dem 15 Kilometer entfernten Amtsgericht …
+- [BGH, Beschluss vom 08.02.2007 - VII ZB 117/06](vii-zb-117-06.md) — BGH, Beschluss vom 08.02.2007 - VII ZB 117/06
 - [BGH, Beschluss vom 08.02.2007 - VII ZR 121/06](vii-zr-121-06.md) — zu berichtigen war, und zwar auch in der Rechtsmittelinstanz. Hierzu war keine weitergehende schriftsätzliche Auseinandersetzung der Klägeri
+- [BGH, Beschluss vom 08.02.2007 - VII ZR 220/05](vii-zr-220-05.md) — im Sinne des § 543 Abs. 2 ZPO gegeben sind. Im Übrigen wird von einer Begründung abgesehen, weil sie nicht geeignet wäre, zur Klärung der Voraussetzungen beizutragen, unter denen …
 - [BGH, Beschluss vom 25.01.2007 - VII ZB 74/06](vii-zb-74-06.md) — hat, komme es im Ergebnis nicht entschei-
 - [BGH, Urteil vom 25.01.2007 - VII ZR 105/06](vii-zr-105-06.md) — Tatbestand:
+- [BGH, Beschluss vom 25.01.2007 - VII ZR 112/06](vii-zr-112-06.md) — fehlender Prüffähigkeit der
+- [BGH, Beschluss vom 25.01.2007 - VII ZR 41/06](vii-zr-41-06.md) — Vereisung blockiert und anschließend die Gurte reißen können.
+- [BGH, Beschluss vom 11.01.2007 - VII ZB 28/06](vii-zb-28-06.md) — erhält, weil an ihn die Zahlung zur Erfüllung des gerichtlichen Vergleichs geleistet wird und er diese an den Berechtigten auszahlt, kann im
+- [BGH, Urteil vom 11.01.2007 - VII ZR 165/05](vii-zr-165-05.md) — Tatbestand:
 - [BGH, Urteil vom 11.01.2007 - VII ZR 229/05](vii-zr-229-05.md) — Tatbestand:

@@ -1,45 +1,95 @@
 # X. Zivilsenat – 2007
 
-41 Entscheidung(en).
+91 Entscheidung(en).
 
 - [BGH, Teilurteil vom 18.12.2007 - X ZR 137/04](x-zr-137-04.md) — 3Tatbestand:
+- [BGH, Beschluss vom 11.12.2007 - X ZB 21/07](x-zb-21-07.md) — des
+- [BGH, Urteil vom 11.12.2007 - X ZR 57/03](x-zr-57-03.md) — Tatbestand:
+- [BGH, Beschluss vom 04.12.2007 - X ZB 30/07](x-zb-30-07.md) — eines technischen Defekts lie-
 - [BGH, Urteil vom 04.12.2007 - X ZR 102/06](x-zr-102-06.md) — Tatbestand:
 - [BGH, Beschluss vom 04.12.2007 - X ZR 127/06](x-zr-127-06.md) — Verletzung des rechtlichen Gehörs nach § 321 a ZPO wird zurückgewiesen.
+- [BGH, Urteil vom 04.12.2007 - X ZR 69/04](x-zr-69-04.md) — Tatbestand:
+- [BGH, Urteil vom 27.11.2007 - X ZR 111/04](x-zr-111-04.md) — Die Klägerin klagt aus mehrfach abgetretenem Recht auf Zahlung rück- ständiger als "consulting and marketing fees" deklarierter Beträge sowie auf Rückzahlung eines Darlehens.
+- [BGH, Urteil vom 27.11.2007 - X ZR 144/06](x-zr-144-06.md) — 3-
 - [BGH, Urteil vom 27.11.2007 - X ZR 18/07](x-zr-18-07.md) — Tatbestand:
 - [BGH, Beschluss vom 13.11.2007 - X ZR 100/07](x-zr-100-07.md) — I. Die Beklagte ist Inhaberin des europäischen Patents 0 311 541 (Streitpatents), das ein Verfahren zum Mykoplasmennachweis betrifft. Auf die Nichtigkeitsklage der Klägerin hat …
+- [BGH, Beschluss vom 13.11.2007 - X ZR 44/07](x-zr-44-07.md) — Maßgeblich für die Wertberechnung ist der Zeitpunkt der Antragstellung, die den Rechtszug einleitet § 40 GKG).
+- [BGH, Urteil vom 06.11.2007 - X ZR 103/05](x-zr-103-05.md) — Tatbestand:
+- [BGH, Beschluss vom 30.10.2007 - X ZB 18/06](x-zb-18-06.md) — des Doppelschutzverbots im Hinblick auf die bestandskräftige Erteilung eines europäischen Patents keine Wirkung mehr hat.
+- [BGH, Urteil vom 30.10.2007 - X ZR 101/06](x-zr-101-06.md) — Tatbestand:
+- [BGH, Urteil vom 30.10.2007 - X ZR 134/03](x-zr-134-03.md) — BGH, Urteil vom 30.10.2007 - X ZR 134/03
 - [BGH, Urteil vom 23.10.2007 - X ZR 104/06](x-zr-104-06.md) — Tatbestand:
 - [BGH, Urteil vom 23.10.2007 - X ZR 20/05](x-zr-20-05.md) — Tatbestand:
 - [BGH, Beschluss vom 23.10.2007 - X ZR 92/05](x-zr-92-05.md) — 1. Patentanwalt S. und Patentanwalt K. begehren je mit getrennten Anträgen Einsicht in die Akten des Nichtigkeitsverfahrens 4 Ni 39/04 vor dem Bundespatentgericht und des sich …
+- [BGH, Urteil vom 16.10.2007 - X ZR 182/04](x-zr-182-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.10.2007 - X ZR 226/02](x-zr-226-02.md) — Tatbestand:
+- [BGH, Beschluss vom 04.10.2007 - X ZB 21/06](x-zb-21-06.md) — I. Die Rechtsbeschwerdeführerin hat unter Entgegenhaltung von drei Druckschriften gegen die Erteilung des deutschen Patents 199 59 012 für ein Verfahren zur Steuerung bzw …
+- [BGH, Beschluss vom 04.10.2007 - X ZR 156/05](x-zr-156-05.md) — Besorgnis der Befangenheit
 - [BGH, Urteil vom 04.10.2007 - X ZR 182/03](x-zr-182-03.md) — Tatbestand:
 - [BGH, Urteil vom 25.09.2007 - X ZR 198/02](x-zr-198-02.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2007 - X ZR 52/05](x-zr-52-05.md) — I. Der gerichtliche Sachverständige hat sein mit Schreiben vom 27. Februar 2006 in Auftrag gegebenes schriftliches Gutachten zunächst pau- schal mit 18.445,00 € einschließlich …
 - [BGH, Urteil vom 18.09.2007 - X ZR 167/05](x-zr-167-05.md) — Tatbestand:
+- [BGH, Beschluss vom 18.09.2007 - X ZR 81/06](x-zr-81-06.md) — I. Die Beklagte ist Inhaberin des europäischen Patents 0 461 646, das u.a. eine Vorrichtung zur Herstellung von Reifen für Fahrzeugräder betrifft. Die Klägerin hat vor dem …
 - [BGH, Urteil vom 18.09.2007 - X ZR 89/04](x-zr-89-04.md) — Tatbestand:
+- [BGH, Beschluss vom 11.09.2007 - X ZB 15/06](x-zb-15-06.md) — I. Die Antragsgegnerin war Inhaberin des nach Abzweigung aus ei- ner europäischen Patentanmeldung mit Anmeldetag 6. Juni 2002 unter Inan- spruchnahme einer Priorität vom 6. Juni …
 - [BGH, Urteil vom 11.09.2007 - X ZR 27/04](x-zr-27-04.md) — Tatbestand:
-- [BGH, Beschluss vom 24.07.2007 - X ZR 109/05](x-zr-109-05.md) — offenbarer Unrichtigkeit durch "Grundstücksverkehrsverordnung"
+- [BGH, Beschluss vom 31.07.2007 - X ZB 23/06](x-zb-23-06.md) — deren Wortlauts auf den angefochtenen Beschluss ver-
+- [BGH, Beschluss vom 31.07.2007 - X ZR 150/03](x-zr-150-03.md) — Zu I.: 1 Der gerichtliche Sachverständige hat sein schriftliches Gutachten mit 11.477,55 € abgerechnet (120 h à 80,-- € zuzüglich Umsatzsteuer und Ausla- gen).
+- [BGH, Beschluss vom 24.07.2007 - X ZB 17/05](x-zb-17-05.md) — I. Gegen das am 6. November 1998 angemeldete deutsche Patent 198 51 320 (Streitpatent), das eine "Angussvorrichtung für Spritzgießwerkzeu- ge" betrifft und acht Patentansprüche …
+- [BGH, Beschluss vom 24.07.2007 - X ZR 1/06](x-zr-1-06.md) — Das Ablehnungsgesuch ist gerechtfertigt. Ein Sachverständiger kann nach § 406 ZPO, der auch im Berufungsverfahren in Patentnichtigkeitssachen anwendbar ist, abgelehnt werden, wenn …
+- [BGH, Urteil vom 24.07.2007 - X ZR 5/03](x-zr-5-03.md) — Tatbestand:
 - [BGH, Urteil vom 17.07.2007 - X ZR 31/06](x-zr-31-06.md) — Tatbestand:
+- [BGH, Beschluss vom 17.07.2007 - X ZR 95/06](x-zr-95-06.md) — I. Die Kläger verlangen von der beklagten Charterfluggesellschaft unter anderem Ausgleichszahlungen nach Art. 7 VO (EG) 261/2004 (im Folgenden: VO), weil sie mit einer Verspätung …
 - [BGH, Beschluss vom 10.07.2007 - X ZB 4/06](x-zb-4-06.md) — Mit seiner Anhörungsrüge macht der Rechtsbeschwerdeführer geltend, der Senat habe sich nicht mit der Argumentation in der Rechtsbeschwerdebe- gründung befasst, mit der gerügt …
-- [BGH, Urteil vom 10.07.2007 - X ZR 240/02](x-zr-240-02.md) — Tatbestand:
 - [BGH, Beschluss vom 04.07.2007 - X ZR 92/06](x-zr-92-06.md) — Die Anhörungsrüge ist nicht begründet. Der Senat hat die vom Kläger gerügte Gehörsverletzung des Berufungsgerichts letztendlich für nicht ent- scheidungserheblich gehalten. Er hat …
+- [BGH, Beschluss vom 27.06.2007 - X ZB 30/05](x-zb-30-05.md) — I. Die Anmelderin war Inhaberin des am 9. September 1983 angemelde- ten, auch mit Wirkung für die Bundesrepublik Deutschland erteilten europäi- -3- schen Patents 0 120 054 …
 - [BGH, Beschluss vom 27.06.2007 - X ZB 6/05](x-zb-6-05.md) — sämtliche selbständigen Patentansprüche betreffen oder der Patentinhaber die Aufrechterhaltung des Patents nur im Umfang eines Anspruchssatzes begehrt, der zumindest einen nicht …
+- [BGH, Beschluss vom 27.06.2007 - X ZR 15/05](x-zr-15-05.md) — Nichterfüllung zu verlangen. Mit Schreiben vom 19. Oktober 2001 wies der Vorsitzende des Vorstandes der Beklagten die Forderungen u.a. mit d
+- [BGH, Urteil vom 27.06.2007 - X ZR 156/03](x-zr-156-03.md) — Tatbestand:
+- [BGH, Urteil vom 27.06.2007 - X ZR 158/03](x-zr-158-03.md) — 3-
+- [BGH, Urteil vom 27.06.2007 - X ZR 34/04](x-zr-34-04.md) — Tatbestand:
+- [BGH, Beschluss vom 27.06.2007 - X ZR 56/05](x-zr-56-05.md) — Dem Antrag der Antragsteller auf Gewährung von Akteneinsicht in das vorliegende Patentnichtigkeitsverfahren ist zu entsprechen.
+- [BGH, Urteil vom 27.06.2007 - X ZR 85/03](x-zr-85-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.06.2007 - X ZR 5/07](x-zr-5-07.md) — Tatbestand:
 - [BGH, Urteil vom 19.06.2007 - X ZR 61/06](x-zr-61-06.md) — Verletzungen, die sie bei einem Verkehrsunfall, der sich auf einer Aus-
+- [BGH, Beschluss vom 19.06.2007 - X ZR 98/04](x-zr-98-04.md) — I. Die Klägerin macht eine Restwerklohnforderung in Höhe von 13.031,66 € geltend, die nach ihrem Vortrag der Beklagte vergleichsweise an- erkannt haben soll. Der Beklagte hat im …
+- [BGH, Beschluss vom 12.06.2007 - X ZR 32/03](x-zr-32-03.md) — Die Antragstellerin begehrt Einsicht in die Akten des Patentnichtigkeits- verfahrens.
 - [BGH, Urteil vom 12.06.2007 - X ZR 87/06](x-zr-87-06.md) — Tatbestand:
+- [BGH, Urteil vom 31.05.2007 - X ZR 172/04](x-zr-172-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.05.2007 - X ZR 56/03](x-zr-56-03.md) — Tatbestand:
+- [BGH, Beschluss vom 15.05.2007 - X ZR 107/05](x-zr-107-05.md) — Dem Akteneinsichtsantrag ist stattzugeben.
+- [BGH, Urteil vom 15.05.2007 - X ZR 273/02](x-zr-273-02.md) — 3-
+- [BGH, Beschluss vom 15.05.2007 - X ZR 75/05](x-zr-75-05.md) — I. Der gerichtliche Sachverständige hat sein am 28. Juni 2006 in Auftrag gegebenes schriftliches Gutachten pauschal mit 28.560,00 EUR einschließlich Umsatzsteuer abgerechnet …
 - [BGH, Urteil vom 03.05.2007 - X ZR 79/02](x-zr-79-02.md) — Tatbestand:
+- [BGH, Beschluss vom 24.04.2007 - X ZB 16/06](x-zb-16-06.md) — I. Der Rechtsbeschwerdeführer ist Inhaber des am 11. Oktober 1994 angemeldeten deutschen Patents 44 36 197 (Streitpatents), gegen das der Ein- sprechende zu 1 Einspruch erhoben …
+- [BGH, Beschluss vom 24.04.2007 - X ZR 113/05](x-zr-113-05.md) — I. Die Beklagte ist Inhaberin des ein Überbrückungsprofil betreffen- den deutschen Patents 37 43 895 und des parallelen europäischen Patents 321 634. In einem Verfahren auf …
 - [BGH, Urteil vom 24.04.2007 - X ZR 201/02](x-zr-201-02.md) — 3-
 - [BGH, Urteil vom 24.04.2007 - X ZR 64/04](x-zr-64-04.md) — Tatbestand:
+- [BGH, Beschluss vom 17.04.2007 - X ZB 41/03](x-zb-41-03.md) — fehlender Patentfähigkeit widerrufen.
+- [BGH, Beschluss vom 17.04.2007 - X ZB 9/06](x-zb-9-06.md) — I. Die Rechtsbeschwerdeführerin ist Inhaberin des am 14. Mai 1999 angemeldeten deutschen Patents 199 22 068 (Streitpatents), das ein "Verfah- ren und (ein) System zum Übermitteln …
+- [BGH, Urteil vom 17.04.2007 - X ZR 1/05](x-zr-1-05.md) — Tatbestand:
 - [BGH, Urteil vom 17.04.2007 - X ZR 72/05](x-zr-72-05.md) — Tatbestand:
+- [BGH, Beschluss vom 03.04.2007 - X ZA 1/07](x-za-1-07.md) — mangelnder Erfolgsaussicht
+- [BGH, Beschluss vom 03.04.2007 - X ZB 3/07](x-zb-3-07.md) — mangelnder Erfolgsaussicht
 - [BGH, Urteil vom 03.04.2007 - X ZR 104/04](x-zr-104-04.md) — Tatbestand:
+- [BGH, Urteil vom 03.04.2007 - X ZR 19/06](x-zr-19-06.md) — 3-
 - [BGH, Urteil vom 03.04.2007 - X ZR 36/04](x-zr-36-04.md) — Tatbestand:
 - [BGH, Urteil vom 27.03.2007 - X ZR 130/03](x-zr-130-03.md) — 3Tatbestand:
 - [BGH, Urteil vom 13.03.2007 - X ZR 169/02](x-zr-169-02.md) — BGH, Urteil vom 13.03.2007 - X ZR 169/02
 - [BGH, Beschluss vom 06.03.2007 - X ZB 20/06](x-zb-20-06.md) — Die Entscheidung beruht auf §§ 99 Abs. 3, 31 PatG. Die Akteneinsicht in die Akten des Patents wie die des Einspruchs- und des sich daran anschlie- ßenden …
 - [BGH, Beschluss vom 06.03.2007 - X ZR 58/06](x-zr-58-06.md) — BGH, Beschluss vom 06.03.2007 - X ZR 58/06
-- [BGH, Beschluss vom 13.02.2007 - X ZB 13/06](x-zb-13-06.md) — der Frage zugelassen, ob das Erfor-
+- [BGH, Urteil vom 27.02.2007 - X ZR 113/04](x-zr-113-04.md) — 3-
+- [BGH, Urteil vom 27.02.2007 - X ZR 38/06](x-zr-38-06.md) — 3-
+- [BGH, Beschluss vom 13.02.2007 - X ZR 184/03](x-zr-184-03.md) — Die Rüge der Klägerin, der Senatsbeschluss vom 19.
 - [BGH, Urteil vom 13.02.2007 - X ZR 73/05](x-zr-73-05.md) — Tatbestand:
 - [BGH, Urteil vom 13.02.2007 - X ZR 74/05](x-zr-74-05.md) — Tatbestand:
 - [BGH, Urteil vom 06.02.2007 - X ZR 117/04](x-zr-117-04.md) — 3-
 - [BGH, Beschluss vom 30.01.2007 - X ZB 2/06](x-zb-2-06.md) — BGH, Beschluss vom 30.01.2007 - X ZB 2/06
+- [BGH, Beschluss vom 30.01.2007 - X ZB 28/06](x-zb-28-06.md) — Mit seiner als Rechtsbeschwerde bezeichneten Gegenvorstellung vom 14.
+- [BGH, Beschluss vom 30.01.2007 - X ZB 7/06](x-zb-7-06.md) — vertaner Urlaubszeit in Höhe von 577,20 € nebst Zinsen
 - [BGH, Beschluss vom 30.01.2007 - X ZR 147/06](x-zr-147-06.md) — Mittellosigkeit nicht in der Lage sein wird, den beigetriebenen Geldbetrag zurückzuzahlen.
+- [BGH, Urteil vom 30.01.2007 - X ZR 156/02](x-zr-156-02.md) — 3-
+- [BGH, Beschluss vom 23.01.2007 - X ZB 3/06](x-zb-3-06.md) — I. Dem Rechtsbeschwerdeführer ist das deutsche Patent 101 13 038 er- teilt worden. Hiergegen hat die Verfahrensbeteiligte Einspruch eingelegt. Der Patentinhaber hat mit einem …
+- [BGH, Urteil vom 23.01.2007 - X ZR 13/03](x-zr-13-03.md) — Tatbestand:
+- [BGH, Urteil vom 23.01.2007 - X ZR 235/02](x-zr-235-02.md) — BGH, Urteil vom 23.01.2007 - X ZR 235/02
 - [BGH, Urteil vom 09.01.2007 - X ZR 173/02](x-zr-173-02.md) — BGH, Urteil vom 09.01.2007 - X ZR 173/02

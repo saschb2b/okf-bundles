@@ -1,39 +1,122 @@
 # V. Zivilsenat – 2002
 
-35 Entscheidung(en).
+118 Entscheidung(en).
 
 - [BGH, Beschluss vom 19.12.2002 - V ZB 61/02](v-zb-61-02.md) — Die Rechtsbeschwerde ist nicht statthaft. Entscheidungen der Oberlandesgerichte in Verfahren der freiwilligen Gerichtsbarkeit sind unanfechtbar. Das gilt auch in …
+- [BGH, Urteil vom 13.12.2002 - V ZR 146/02](v-zr-146-02.md) — Tatbestand:
+- [BGH, Urteil vom 13.12.2002 - V ZR 358/01](v-zr-358-01.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 13.12.2002 - V ZR 359/01](v-zr-359-01.md) — arglistiger Täuschung. Er strebt die Rückabwicklung des Kaufvertrags über die Wohnung Nr. 21 und die Feststellung der Unwirksamkeit des Kauf
+- [BGH, Beschluss vom 12.12.2002 - V ZB 23/02](v-zb-23-02.md) — I. Der Kläger erhob beim Landgericht Potsdam gegen das beklagte Land Klage auf Feststellung der Anspruchsberechtigung der Schuldnerin nach dem SachenRBerG in Ansehung eines im …
+- [BGH, Beschluss vom 09.12.2002 - V ZR 223/02](v-zr-223-02.md) — Überlastung abgelehnt haben, ändert hieran nichts. Er könne nach seinen persönlichen und wirtschaftlichen Verhältnissen die Kosten der Proze
+- [BGH, Urteil vom 06.12.2002 - V ZR 184/02](v-zr-184-02.md) — eines durch gesetzgeberische Maßnahmen bedingten Rückgangs der Nachfrage nach Rehabilitationsleistungen um 34,4 % nicht vollständig ausgelas
+- [BGH, Urteil vom 06.12.2002 - V ZR 220/02](v-zr-220-02.md) — Tatbestand:
 - [BGH, Beschluss vom 05.12.2002 - V ZB 52/02](v-zb-52-02.md) — BGH, Beschluss vom 05.12.2002 - V ZB 52/02
+- [BGH, Urteil vom 29.11.2002 - V ZR 105/02](v-zr-105-02.md) — Tatbestand:
+- [BGH, Urteil vom 29.11.2002 - V ZR 297/01](v-zr-297-01.md) — Tatbestand:
+- [BGH, Urteil vom 29.11.2002 - V ZR 309/01](v-zr-309-01.md) — Tatbestand: Die Parteien streiten um die Wirksamkeit eines Kaufvertrags über ein Gebäude.
 - [BGH, Urteil vom 29.11.2002 - V ZR 40/02](v-zr-40-02.md) — Tatbestand:
+- [BGH, Urteil vom 29.11.2002 - V ZR 445/01](v-zr-445-01.md) — Tatbestand:
 - [BGH, Urteil vom 22.11.2002 - V ZR 379/01](v-zr-379-01.md) — Tatbestand:
+- [BGH, Urteil vom 22.11.2002 - V ZR 443/01](v-zr-443-01.md) — 3-
+- [BGH, Urteil vom 22.11.2002 - V ZR 96/02](v-zr-96-02.md) — Tatbestand:
+- [BGH, Beschluss vom 21.11.2002 - V ZB 29/02](v-zb-29-02.md) — I. Der Kostengläubiger wurde von der Kostenschuldnerin, einer GmbH mit einem Stammkapital von 50.000 DM, beauftragt, das Ausscheiden des Ge- schäftsführers N. O. sowie die …
+- [BGH, Beschluss vom 21.11.2002 - V ZB 40/02](v-zb-40-02.md) — solcher Fragen zugelassen werden, die das Verfahren oder die persönlichen Voraussetzungen betreffen.
+- [BGH, Beschluss vom 21.11.2002 - V ZB 49/02](v-zb-49-02.md) — I. Der Betroffene, pakistanischer Staatsangehöriger, wurde am 22. April 2002 in einem Waldgebiet nahe W. ohne gültige Papiere festgenom- men. Nach seinen Angaben war er über …
 - [BGH, Urteil vom 08.11.2002 - V ZR 244/01](v-zr-244-01.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2002 - V ZR 398/01](v-zr-398-01.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2002 - V ZR 78/02](v-zr-78-02.md) — Tatbestand:
 - [BGH, Beschluss vom 31.10.2002 - V ZR 100/02](v-zr-100-02.md) — I. Mit notariellem Vertrag vom 9. Februar 1995 verkaufte die Beklagte unter Gewährleistungsausschluß mehrere Grundstücke, auf denen ein "ländliches Wohnhaus" errichtet war und die …
+- [BGH, Urteil vom 25.10.2002 - V ZR 243/01](v-zr-243-01.md) — Tatbestand:
+- [BGH, Urteil vom 25.10.2002 - V ZR 253/01](v-zr-253-01.md) — auszahlen kann, weil er seinerseits ein Darlehen in derselben Höhe von einem Dritten erhalten und die Rückzahlungspflicht durch die Eintragu
+- [BGH, Versäumnisurteil vom 25.10.2002 - V ZR 279/01](v-zr-279-01.md) — 3-
 - [BGH, Urteil vom 25.10.2002 - V ZR 293/01](v-zr-293-01.md) — BGH, Urteil vom 25.10.2002 - V ZR 293/01
+- [BGH, Urteil vom 25.10.2002 - V ZR 396/01](v-zr-396-01.md) — Tatbestand:
 - [BGH, Urteil vom 18.10.2002 - V ZR 268/01](v-zr-268-01.md) — BGH, Urteil vom 18.10.2002 - V ZR 268/01
+- [BGH, Beschluss vom 10.10.2002 - V ZR 431/01](v-zr-431-01.md) — des Ausschlusses der Rückübertragung ein Entschädigungsanspruch gegen den Fonds zusteht.
+- [BGH, Beschluss vom 10.10.2002 - V ZR 70/02](v-zr-70-02.md) — Der Antrag auf Bewilligung von Prozeßkostenhilfe ist zurückzuweisen, weil die Voraussetzungen des § 116 Abs.
+- [BGH, Beschluss vom 02.10.2002 - V ZB 39/02](v-zb-39-02.md) — Die außerordentlichen Beschwerden sind nicht zulässig.
+- [BGH, Urteil vom 27.09.2002 - V ZR 218/01](v-zr-218-01.md) — Tatbestand:
+- [BGH, Urteil vom 27.09.2002 - V ZR 262/01](v-zr-262-01.md) — Tatbestand:
+- [BGH, Urteil vom 27.09.2002 - V ZR 320/01](v-zr-320-01.md) — Tatbestand:
+- [BGH, Urteil vom 27.09.2002 - V ZR 98/01](v-zr-98-01.md) — Tatbestand:
+- [BGH, Beschluss vom 26.09.2002 - V ZB 24/02](v-zb-24-02.md) — "zur weiteren Veranlassung und Entscheidung" an das Amtsgericht Charlottenburg - Prozeßabteilung - abgegeben. Die hiergegen gerichtete sofor
 - [BGH, Urteil vom 20.09.2002 - V ZR 170/01](v-zr-170-01.md) — Tatbestand:
+- [BGH, Urteil vom 20.09.2002 - V ZR 198/01](v-zr-198-01.md) — 3-
 - [BGH, Urteil vom 20.09.2002 - V ZR 237/01](v-zr-237-01.md) — der Höhe wird die Sache zur anderweiten Verhandlung und Entscheidung, auch über die Kosten des Revisionsverfahrens, an das Berufungsgericht
 - [BGH, Urteil vom 20.09.2002 - V ZR 270/01](v-zr-270-01.md) — der geringen Restnutzungsdauer des Gebäudes oder der baulichen Anlage zu verweigern.
+- [BGH, Beschluss vom 19.09.2002 - V ZB 27/02](v-zb-27-02.md) — I. Durch Urteil des Landgerichts Oldenburg vom 17. Dezember 2001 ist die auf Zahlung von 17.000 DM nebst Zinsen gerichtete Klage abgewiesen worden. Gegen das Urteil haben die …
+- [BGH, Beschluss vom 19.09.2002 - V ZB 30/02](v-zb-30-02.md) — BGH, Beschluss vom 19.09.2002 - V ZB 30/02
+- [BGH, Beschluss vom 19.09.2002 - V ZB 31/02](v-zb-31-02.md) — I. Das Amtsgericht Brandenburg an der Havel hat die auf Grundbuchberichtigung gerichtete Klage der Klägerin durch Urteil vom 21. Dezember 2001 abgewiesen. Gegen dieses der …
+- [BGH, Beschluss vom 19.09.2002 - V ZB 37/02](v-zb-37-02.md) — BGH, Beschluss vom 19.09.2002 - V ZB 37/02
+- [BGH, Beschluss vom 19.09.2002 - V ZR 179/02](v-zr-179-02.md) — BGH, Beschluss vom 19.09.2002 - V ZR 179/02
 - [BGH, Beschluss vom 25.07.2002 - V ZR 118/02](v-zr-118-02.md) — I. Das Oberlandesgericht hat die Berufung des Beklagten gegen seine Verurteilung, Zug um Zug gegen Zahlung von 1.000 DM die Zustimmung zur Löschung einer Auflassungsvormerkung zu …
+- [BGH, Urteil vom 19.07.2002 - V ZR 204/01](v-zr-204-01.md) — Tatbestand:
+- [BGH, Urteil vom 19.07.2002 - V ZR 232/01](v-zr-232-01.md) — Tatbestand:
+- [BGH, Urteil vom 19.07.2002 - V ZR 240/01](v-zr-240-01.md) — Tatbestand:
+- [BGH, Beschluss vom 18.07.2002 - V ZR 277/01](v-zr-277-01.md) — Verstoßes gegen das Unterlassungsgebot nicht bereits daran, daß die vom Beklagten als Verfügungsberechtigtem durchgeführten Maßnahmen zu ein
 - [BGH, Beschluss vom 12.07.2002 - V ZR 188/01](v-zr-188-01.md) — BGH, Beschluss vom 12.07.2002 - V ZR 188/01
 - [BGH, Urteil vom 12.07.2002 - V ZR 195/01](v-zr-195-01.md) — Tatbestand:
 - [BGH, Urteil vom 12.07.2002 - V ZR 345/01](v-zr-345-01.md) — Tatbestand:
 - [BGH, Urteil vom 12.07.2002 - V ZR 441/00](v-zr-441-00.md) — Tatbestand:
+- [BGH, Urteil vom 05.07.2002 - V ZR 143/01](v-zr-143-01.md) — Tatbestand:
+- [BGH, Urteil vom 05.07.2002 - V ZR 229/01](v-zr-229-01.md) — Tatbestand:
+- [BGH, Urteil vom 05.07.2002 - V ZR 97/01](v-zr-97-01.md) — Tatbestand:
+- [BGH, Beschluss vom 04.07.2002 - V ZB 16/02](v-zb-16-02.md) — Versäumung der Berufungsfrist um einen Tag beantragt. Zur Rechtfertigung ihres Wiedereinsetzungsgesuchs hat sie vorgetragen und glaubhaft ge
+- [BGH, Beschluss vom 04.07.2002 - V ZR 75/02](v-zr-75-02.md) — eines wesentlichen Verfahrensmangels kommt, nicht anders als bei materiellen Rechtsfehlern, nur unter den allgemeinen in § 543 Abs. 2 ZPO ge
+- [BGH, Urteil vom 28.06.2002 - V ZR 140/01](v-zr-140-01.md) — Tatbestand:
+- [BGH, Urteil vom 28.06.2002 - V ZR 165/01](v-zr-165-01.md) — Tatbestand:
+- [BGH, Urteil vom 28.06.2002 - V ZR 438/00](v-zr-438-00.md) — Tatbestand:
+- [BGH, Urteil vom 28.06.2002 - V ZR 74/01](v-zr-74-01.md) — 3-
 - [BGH, Beschluss vom 27.06.2002 - V ZR 148/02](v-zr-148-02.md) — über die Zulassung der Revision (vgl. Büttner, MDR 2001, 1201, 1202). Damit fehlt jetzt auch eine Grundlage für eine Festsetzung des Wertes
+- [BGH, Urteil vom 21.06.2002 - V ZR 177/01](v-zr-177-01.md) — Tatbestand:
 - [BGH, Beschluss vom 20.06.2002 - V ZB 39/01](v-zb-39-01.md) — der vorrangigen Sonderregelung in § 26 Abs. 1 Satz 2 WEG nicht aber das Klauselverbot des § 11 Nr. 12 lit. a AGBG Anwendung. Danach kann gru
 - [BGH, Beschluss vom 20.06.2002 - V ZR 367/01](v-zr-367-01.md) — BGH, Beschluss vom 20.06.2002 - V ZR 367/01
 - [BGH, Beschluss vom 20.06.2002 - V ZR 99/02](v-zr-99-02.md) — BGH, Beschluss vom 20.06.2002 - V ZR 99/02
 - [BGH, Urteil vom 14.06.2002 - V ZR 126/01](v-zr-126-01.md) — Tatbestand:
 - [BGH, Urteil vom 14.06.2002 - V ZR 79/01](v-zr-79-01.md) — nach stattgegeben, so fällt im Revisionsverfahren die Bindung des Revisionsgerichts an das Grundurteil über den Hilfsanspruch weg, wenn das dem Hauptanspruch zur Höhe stattgebende …
+- [BGH, Beschluss vom 13.06.2002 - V ZB 30/01](v-zb-30-01.md) — ein an diese Voraussetzungen geknüpfter Rückübertragungsanspruch nicht durch eine Vormerkung gesichert werden könne. Gleichzeitig hat das Gr
+- [BGH, Beschluss vom 13.06.2002 - V ZB 31/01](v-zb-31-01.md) — ein an diese Voraussetzungen geknüpfter Rückübertragungsanspruch nicht durch eine Vormerkung gesichert werden könne. Gleichzeitig hat das Gr
+- [BGH, Beschluss vom 13.06.2002 - V ZR 76/02](v-zr-76-02.md) — BGH, Beschluss vom 13.06.2002 - V ZR 76/02
 - [BGH, Beschluss vom 05.06.2002 - V ZR 214/00](v-zr-214-00.md) — I. Die Beklagten sind von den Klägern im Wege der Wandelung eines Kaufvertrages über ein Hausgrundstück auf Rückzahlung des Kaufpreises Zug um Zug gegen Rückübereignung in …
+- [BGH, Beschluss vom 29.05.2002 - V ZB 11/02](v-zb-11-02.md) — I. Durch Urteil des Amtsgerichts Freiberg vom 10. August 2001 ist der Beklagte zur Bestellung eines Wege- und Überfahrtsrechts auf seinem Grundstück und zur Bewilligung der …
+- [BGH, Beschluss vom 29.05.2002 - V ZR 191/01](v-zr-191-01.md) — zu berücksichtigende Prozeßvoraussetzung, sondern die Frage, ob ein richterlicher Hinweis (zudem zur materiellrechtlichen Voraussetzung der
+- [BGH, Urteil vom 17.05.2002 - V ZR 123/01](v-zr-123-01.md) — Nichterfüllung begründen.
+- [BGH, Urteil vom 17.05.2002 - V ZR 149/01](v-zr-149-01.md) — Tatbestand:
+- [BGH, Beschluss vom 17.05.2002 - V ZR 180/01](v-zr-180-01.md) — Die zulässige Erinnerung des Klägers (§ 5 Abs.
+- [BGH, Urteil vom 17.05.2002 - V ZR 193/01](v-zr-193-01.md) — Tatbestand:
+- [BGH, Beschluss vom 08.05.2002 - V ZB 20/02](v-zb-20-02.md) — greifbarer Gesetzwidrigkeit scheidet im vorliegenden Fall aus.
+- [BGH, Beschluss vom 08.05.2002 - V ZB 32/01](v-zb-32-01.md) — I. Die Kläger zu 1 und 2 sowie der Rechtsvorgänger der Kläger zu 3 bis 5 (Rechtsvorgänger) stellten am 1. Oktober 1990 bei der Landeshauptstadt Dresden, Amt zur Regelung offener …
+- [BGH, Urteil vom 03.05.2002 - V ZR 115/01](v-zr-115-01.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2002 - V ZR 17/01](v-zr-17-01.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2002 - V ZR 175/01](v-zr-175-01.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2002 - V ZR 217/01](v-zr-217-01.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2002 - V ZR 246/01](v-zr-246-01.md) — Tatbestand:
+- [BGH, Beschluss vom 02.05.2002 - V ZB 36/01](v-zb-36-01.md) — I. Die Beteiligten sind die Wohnungseigentümer einer größeren Woh- nungseigentumsanlage in I. Die Antragsteller verlangen von dem An- tragsgegner den Ausgleich der auf ihn …
+- [BGH, Urteil vom 19.04.2002 - V ZR 3/01](v-zr-3-01.md) — Tatbestand:
+- [BGH, Urteil vom 19.04.2002 - V ZR 439/00](v-zr-439-00.md) — außergewöhnlicher Erhaltungsmaßnahmen nicht.
+- [BGH, Urteil vom 19.04.2002 - V ZR 90/01](v-zr-90-01.md) — Tatbestand:
+- [BGH, Urteil vom 12.04.2002 - V ZR 302/00](v-zr-302-00.md) — Tatbestand:
+- [BGH, Beschluss vom 11.04.2002 - V ZR 308/01](v-zr-308-01.md) — I. Die Beklagte ist durch das angefochtene Urteil zur Räumung und Herausgabe des von ihr bewohnten, dem Kläger gehörenden Hauses verurteilt worden. Mit der Revision erstrebt sie …
+- [BGH, Urteil vom 22.03.2002 - V ZR 107/01](v-zr-107-01.md) — Tatbestand:
+- [BGH, Urteil vom 22.03.2002 - V ZR 192/01](v-zr-192-01.md) — Tatbestand:
+- [BGH, Urteil vom 22.03.2002 - V ZR 210/01](v-zr-210-01.md) — Tatbestand:
+- [BGH, Urteil vom 22.03.2002 - V ZR 405/00](v-zr-405-00.md) — Tatbestand:
+- [BGH, Urteil vom 22.03.2002 - V ZR 41/01](v-zr-41-01.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2002 - V ZR 106/01](v-zr-106-01.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2002 - V ZR 293/00](v-zr-293-00.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2002 - V ZR 39/01](v-zr-39-01.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2002 - V ZR 396/00](v-zr-396-00.md) — ungerechtfertigter Bereicherung, kann der Verkäufer, der zugunsten des Darlehensgebers des Käufers das Grundstück vor Eigentumsübertragung m
 - [BGH, Beschluss vom 14.03.2002 - V ZB 6/02](v-zb-6-02.md) — Fehlens der persönlichen und wirtschaftlichen Voraussetzungen sowie wegen mangelnder Erfolgsaussicht abgelehnt. Die Berufungsfrist gegen das
+- [BGH, Beschluss vom 07.03.2002 - V ZB 24/01](v-zb-24-01.md) — BGH, Beschluss vom 07.03.2002 - V ZB 24/01
 - [BGH, Urteil vom 22.02.2002 - V ZR 113/01](v-zr-113-01.md) — arglistiger Täuschung steht einem in Anspruch genommenen Vertreter ohne Vertretungsmacht in Abwehr einer Haftung nach § 179 BGB selbständig
 - [BGH, Urteil vom 22.02.2002 - V ZR 251/00](v-zr-251-00.md) — des Fehlens eines funktionsfähigen Grundstücksmarkts im Zeitpunkt des Vertragsschlusses eine Erhöhung des zunächst vereinbarten Kaufpreises
 - [BGH, Urteil vom 22.02.2002 - V ZR 26/01](v-zr-26-01.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2002 - V ZR 296/00](v-zr-296-00.md) — Tatbestand:
+- [BGH, Urteil vom 08.02.2002 - V ZR 168/01](v-zr-168-01.md) — Tatbestand:
+- [BGH, Urteil vom 08.02.2002 - V ZR 252/00](v-zr-252-00.md) — BGH, Urteil vom 08.02.2002 - V ZR 252/00
+- [BGH, Urteil vom 01.02.2002 - V ZR 357/00](v-zr-357-00.md) — eines Verfahrensfehlers oder eine Wiedereröffnung nach Ermessen des Gerichts in Betracht kommt. Deshalb ergeht in diesen Fällen bei Verhinde
+- [BGH, Urteil vom 01.02.2002 - V ZR 361/00](v-zr-361-00.md) — Tatbestand:
+- [BGH, Urteil vom 01.02.2002 - V ZR 61/01](v-zr-61-01.md) — der Zerrüttung des Verhältnisses zum Schuldner nach den Grundsätzen des Wegfalls der Geschäftsgrundlage Zahlung, obliegt es zur Bemessung de
 - [BGH, Urteil vom 18.01.2002 - V ZR 104/01](v-zr-104-01.md) — Tatbestand:
+- [BGH, Urteil vom 18.01.2002 - V ZR 68/01](v-zr-68-01.md) — Tatbestand:
 - [BGH, Beschluss vom 10.01.2002 - V ZR 77/01](v-zr-77-01.md) — BGH, Beschluss vom 10.01.2002 - V ZR 77/01

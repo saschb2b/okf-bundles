@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu StatGuaÄndG"
 description: "BGH-Entscheidungen zu StatGuaÄndG, geordnet nach Vorschrift."
 tags: [register, navigation, statguaändg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

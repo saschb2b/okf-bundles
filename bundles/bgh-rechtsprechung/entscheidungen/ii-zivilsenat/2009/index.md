@@ -1,51 +1,117 @@
 # II. Zivilsenat – 2009
 
-47 Entscheidung(en).
+113 Entscheidung(en).
 
+- [BGH, Urteil vom 07.12.2009 - II ZR 115/08](ii-zr-115-08.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2009 - II ZR 122/08](ii-zr-122-08.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2009 - II ZR 139/08](ii-zr-139-08.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2009 - II ZR 15/08](ii-zr-15-08.md) — fehlerhafter Angaben in Prospekten, die seit dem Inkrafttreten des Vierten Finanzmarktförderungsgesetzes am 1. Juli 2002 veröffentlicht wurd
+- [BGH, Urteil vom 07.12.2009 - II ZR 205/08](ii-zr-205-08.md) — des weitergehenden Zinsantrags abgewiesen wird. Die Kosten des ersten und zweiten Rechtszugs tragen die Beklagten als Gesamtschuldner. Die K
 - [BGH, Beschluss vom 07.12.2009 - II ZR 229/08](ii-zr-229-08.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
+- [BGH, Beschluss vom 07.12.2009 - II ZR 239/08](ii-zr-239-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 07.12.2009 - II ZR 271/07](ii-zr-271-07.md) — I. Der Antrag des Beklagten zu 1 auf Bewilligung von Prozesskostenhilfe für das Revisionsverfahren ist zurückzuweisen, weil die beabsichtigte Rechts- verfolgung keine Aussicht auf …
+- [BGH, Beschluss vom 07.12.2009 - II ZR 272/07](ii-zr-272-07.md) — I. Der Antrag des Beklagten auf Bewilligung von Prozesskostenhilfe für das Revisionsverfahren ist zurückzuweisen, weil die beabsichtigte Rechtsver- folgung keine Aussicht auf …
+- [BGH, Beschluss vom 07.12.2009 - II ZR 294/08](ii-zr-294-08.md) — unerlaubten Betreibens ei-
+- [BGH, Urteil vom 07.12.2009 - II ZR 32/09](ii-zr-32-09.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2009 - II ZR 33/08](ii-zr-33-08.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2009 - II ZR 41/08](ii-zr-41-08.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2009 - II ZR 58/08](ii-zr-58-08.md) — Tatbestand:
+- [BGH, Beschluss vom 07.12.2009 - II ZR 63/08](ii-zr-63-08.md) — bestimmter Rechtsfragen ausgesprochen wird, die
+- [BGH, Urteil vom 30.11.2009 - II ZR 208/08](ii-zr-208-08.md) — 3-
+- [BGH, Beschluss vom 30.11.2009 - II ZR 55/09](ii-zr-55-09.md) — nicht vor, weil die Beklagten jeweils sowohl aus deliktischen als auch aus ver-
+- [BGH, Beschluss vom 10.11.2009 - II ZR 196/08](ii-zr-196-08.md) — 1. Die nach § 32 Abs. 2 RVG, § 63 Abs. 3 GKG zulässige Gegenvorstel- lung des Prozessbevollmächtigten der Beklagten ist unbegründet. -3- 2 Der Streitwert für die …
 - [BGH, Beschluss vom 09.11.2009 - II ZR 154/08](ii-zr-154-08.md) — eines Inhaltsmangels zur Anfechtbarkeit des Entlastungsbeschlusses führt (BGHZ 153, 47, 51; 160, 385, 388; Sen.Urt. v. 16. Februar 2009 - II
 - [BGH, Beschluss vom 09.11.2009 - II ZR 16/09](ii-zr-16-09.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 09.11.2009 - II ZR 46/09](ii-zr-46-09.md) — BGH, Beschluss vom 09.11.2009 - II ZR 46/09
 - [BGH, Beschluss vom 09.11.2009 - II ZR 64/09](ii-zr-64-09.md) — BGH, Beschluss vom 09.11.2009 - II ZR 64/09
 - [BGH, Urteil vom 26.10.2009 - II ZR 222/08](ii-zr-222-08.md) — Tatbestand:
+- [BGH, Urteil vom 19.10.2009 - II ZR 240/08](ii-zr-240-08.md) — Tatbestand:
+- [BGH, Beschluss vom 19.10.2009 - II ZR 241/08](ii-zr-241-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 28.09.2009 - II ZR 12/09](ii-zr-12-09.md) — Das Berufungsgericht hat die Revision zu Unrecht zugelassen, da die Voraussetzungen des § 543 Abs.
 - [BGH, Beschluss vom 28.09.2009 - II ZR 22/08](ii-zr-22-08.md) — (s. zuletzt Sen.Urt. v. 7. Juni
+- [BGH, Urteil vom 21.09.2009 - II ZR 174/08](ii-zr-174-08.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2009 - II ZR 223/08](ii-zr-223-08.md) — das Auskunftsinteresse soll verneint werden können. Die Erforderlichkeit einer begehrten Information muss der Aktionär indessen allein dann
+- [BGH, Beschluss vom 21.09.2009 - II ZR 250/07](ii-zr-250-07.md) — 1. Die Nichtzulassungsbeschwerde ist zulässig. 2 Zwar hat die Klägerin nicht innerhalb der Begründungsfrist substantiiert zum Beschwerdewert, der gem. § 26 Nr. 8 ZPO 20.000,00 € …
 - [BGH, Beschluss vom 21.09.2009 - II ZR 264/08](ii-zr-264-08.md) — BGH, Beschluss vom 21.09.2009 - II ZR 264/08
+- [BGH, Beschluss vom 02.09.2009 - II ZB 35/07](ii-zb-35-07.md) — der vorge-
 - [BGH, Beschluss vom 26.08.2009 - II ZR 157/08](ii-zr-157-08.md) — Die versehentlich unterbliebene Entscheidung über die durch die Neben- intervention verursachten Kosten (§ 101 Abs.
+- [BGH, Beschluss vom 20.07.2009 - II ZR 160/08](ii-zr-160-08.md) — Zur Begründung wird auf den Hinweisbeschluss des Senats vom 27.
+- [BGH, Urteil vom 20.07.2009 - II ZR 273/07](ii-zr-273-07.md) — 3-
 - [BGH, Urteil vom 20.07.2009 - II ZR 36/08](ii-zr-36-08.md) — des Betrages,
+- [BGH, Beschluss vom 13.07.2009 - II ZR 272/08](ii-zr-272-08.md) — der besonderen Umstände des Falles - Vergleichsschluss in dem Verfahren auf Erlass einer einstweiligen Verfügung, Verhandlung der Parteien ü
 - [BGH, Beschluss vom 10.07.2009 - II ZR 117/08](ii-zr-117-08.md) — BGH, Beschluss vom 10.07.2009 - II ZR 117/08
 - [BGH, Beschluss vom 09.07.2009 - II ZR 262/07](ii-zr-262-07.md) — BGH, Beschluss vom 09.07.2009 - II ZR 262/07
 - [BGH, Beschluss vom 06.07.2009 - II ZB 1/09](ii-zb-1-09.md) — BGH, Beschluss vom 06.07.2009 - II ZB 1/09
 - [BGH, Beschluss vom 02.07.2009 - II ZR 158/08](ii-zr-158-08.md) — I. Der Kläger zu 5 sowie sechs weitere Kläger haben mit ihren Nichtig- keits- und Anfechtungsklagen den zu TOP 2 gefassten Hauptversammlungsbe- schluss der Beklagten vom 13 …
+- [BGH, Beschluss vom 22.06.2009 - II ZR 143/08](ii-zr-143-08.md) — des Ausschlusses
 - [BGH, Beschluss vom 22.06.2009 - II ZR 163/08](ii-zr-163-08.md) — BGH, Beschluss vom 22.06.2009 - II ZR 163/08
 - [BGH, Beschluss vom 15.06.2009 - II ZB 8/08](ii-zb-8-08.md) — I. 1 Die Kläger, Aktionäre der Beklagten, erhoben im Juni 2007 zunächst getrennt Anfechtungsklage gegen Beschlüsse der Hauptversammlung der Beklagten vom 24. Mai 2007. Das …
 - [BGH, Beschluss vom 15.06.2009 - II ZR 242/08](ii-zr-242-08.md) — BGH, Beschluss vom 15.06.2009 - II ZR 242/08
 - [BGH, Beschluss vom 08.06.2009 - II ZA 9/08](ii-za-9-08.md) — BGH, Beschluss vom 08.06.2009 - II ZA 9/08
 - [BGH, Beschluss vom 08.06.2009 - II ZR 111/08](ii-zr-111-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 08.06.2009 - II ZR 147/08](ii-zr-147-08.md) — 3-
+- [BGH, Beschluss vom 08.06.2009 - II ZR 207/08](ii-zr-207-08.md) — I. Die Nichtzulassungsbeschwerde des Beklagten ist als unzulässig zu verwerfen, da der Wert der Beschwer nicht, wie nach § 26 Nr. 8 EGZPO erfor- derlich, über 20.000,00 € liegt …
+- [BGH, Beschluss vom 08.06.2009 - II ZR 244/08](ii-zr-244-08.md) — I. Die Nichtzulassungsbeschwerde des Klägers ist als unzulässig zu ver- werfen, da der Wert der Beschwer nicht, wie nach § 26 Nr. 8 EGZPO erforder- lich, über 20.000,00 € liegt …
 - [BGH, Beschluss vom 25.05.2009 - II ZR 112/08](ii-zr-112-08.md) — nicht für durchgreifend erachtet hat (vgl.
+- [BGH, Urteil vom 25.05.2009 - II ZR 259/07](ii-zr-259-07.md) — Tatbestand:
 - [BGH, Beschluss vom 25.05.2009 - II ZR 60/08](ii-zr-60-08.md) — BGH, Beschluss vom 25.05.2009 - II ZR 60/08
+- [BGH, Beschluss vom 25.05.2009 - II ZR 99/08](ii-zr-99-08.md) — Die Nichtzulassungsbeschwerde des Klägers ist begründet und führt gemäß § 544 Abs.
+- [BGH, Beschluss vom 18.05.2009 - II ZR 102/08](ii-zr-102-08.md) — Es kann dahingestellt bleiben, ob dem Nichtzulassungsbeschwerde- Begründungsschriftsatz des Klägers, auf dessen Seite 4 davon die Rede ist, es gehe dem Kläger "vor allem" darum …
 - [BGH, Urteil vom 18.05.2009 - II ZR 124/08](ii-zr-124-08.md) — Tatbestand:
 - [BGH, Beschluss vom 11.05.2009 - II ZR 105/08](ii-zr-105-08.md) — Nachdem die Klage zurückgenommen worden ist, sind die Rechtsfolgen des § 269 Abs.
+- [BGH, Urteil vom 11.05.2009 - II ZR 137/08](ii-zr-137-08.md) — unwirksamer Bareinlageleistung einzubeziehen (Abweichung vom Senatsurteil vom 16. März 1998 - II ZR 303/96, ZIP 1998, 780, 783 zu III).
+- [BGH, Beschluss vom 11.05.2009 - II ZR 210/08](ii-zr-210-08.md) — gelegt werden. BGH, Beschluss vom 11. Mai 2009 - II ZR 210/08 - KG Berlin LG Berlin -2- Der II. Zivilsenat des Bundesgerichtshofes hat am 11. Mai 2009 durch den Vorsitzenden …
 - [BGH, Beschluss vom 11.05.2009 - II ZR 231/08](ii-zr-231-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 05.05.2009 - II ZR 101/05](ii-zr-101-05.md) — Der Senat hat durch Beschluss vom 12. Juni 2006 den Streitwert für die Revisionsinstanz - entsprechend den ursprünglichen, einvernehmlichen Anga- ben der Parteien in den …
 - [BGH, Beschluss vom 04.05.2009 - II ZR 166/07](ii-zr-166-07.md) — einer gemeinsam begangenen Pflichtverletzung besteht nicht, wenn einer vorsätzlichen Verfehlung eines Gesellschafter-Geschäftsführers (hier:
 - [BGH, Beschluss vom 04.05.2009 - II ZR 168/07](ii-zr-168-07.md) — einer gemeinsam begangenen Pflichtverletzung befangen sind.
 - [BGH, Beschluss vom 04.05.2009 - II ZR 169/07](ii-zr-169-07.md) — Soweit die Revisionen zulässig sind, haben sie keine Aussicht auf Erfolg und liegen die Voraussetzungen für ihre Zulassung nicht vor (§ 552 a ZPO).
+- [BGH, Beschluss vom 27.04.2009 - II ZB 16/08](ii-zb-16-08.md) — I. 1 Die Beklagte, eine eingetragene Baugenossenschaft, hat den Kläger, der im Rahmen seiner Mitgliedschaft eine im Eigentum der Beklagten stehende Immobilie bewohnt, mit …
 - [BGH, Beschluss vom 27.04.2009 - II ZR 126/08](ii-zr-126-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 27.04.2009 - II ZR 133/08](ii-zr-133-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Urteil vom 27.04.2009 - II ZR 167/07](ii-zr-167-07.md) — einer Pflichtverletzung abberufen werden, ist ein Gesellschafter, der die Pflichtverletzung gemeinsam mit dem Geschäftsführer begangen hat,
-- [BGH, Beschluss vom 24.04.2009 - II ZR 133/07](ii-zr-133-07.md) — BGH, Beschluss vom 24.04.2009 - II ZR 133/07
+- [BGH, Urteil vom 27.04.2009 - II ZR 253/07](ii-zr-253-07.md) — Insolvenzverschleppung umfasst den in einem Kaufpreis enthaltenen Gewinnanteil grundsätzlich nicht. Ein Anspruch auf Ersatz entgangenen Gewi
 - [BGH, Beschluss vom 20.04.2009 - II ZR 148/07](ii-zr-148-07.md) — Verstoßes gegen § 121 Abs. 4 AktG nichtig.
 - [BGH, Beschluss vom 20.04.2009 - II ZR 150/08](ii-zr-150-08.md) — BGH, Beschluss vom 20.04.2009 - II ZR 150/08
+- [BGH, Urteil vom 20.04.2009 - II ZR 88/08](ii-zr-88-08.md) — Tatbestand:
+- [BGH, Urteil vom 06.04.2009 - II ZR 255/08](ii-zr-255-08.md) — Tatbestand:
+- [BGH, Urteil vom 06.04.2009 - II ZR 277/07](ii-zr-277-07.md) — Tatbestand:
 - [BGH, Beschluss vom 30.03.2009 - II ZR 49/08](ii-zr-49-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 30.03.2009 - II ZR 67/08](ii-zr-67-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 30.03.2009 - II ZR 69/08](ii-zr-69-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 30.03.2009 - II ZR 84/08](ii-zr-84-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Beschluss vom 16.03.2009 - II ZR 138/08](ii-zr-138-08.md) — Verstoßes gegen § 7 Nr. 1 GenG unwirksam, wenn in der Satzung der Genossenschaft keine Regelung enthalten ist, nach der die Einzahlung der P
+- [BGH, Beschluss vom 16.03.2009 - II ZR 145/08](ii-zr-145-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 16.03.2009 - II ZR 280/07](ii-zr-280-07.md) — 3-
 - [BGH, Urteil vom 16.03.2009 - II ZR 302/06](ii-zr-302-06.md) — BGH, Urteil vom 16.03.2009 - II ZR 302/06
+- [BGH, Urteil vom 16.03.2009 - II ZR 32/08](ii-zr-32-08.md) — außergerichtlicher Vergleichsverhandlungen mit dem Beklagten nicht weiter, liegt darin kein triftiger Grund, der zur Unanwendbarkeit des § 2
+- [BGH, Urteil vom 16.03.2009 - II ZR 68/08](ii-zr-68-08.md) — Tatbestand:
+- [BGH, Urteil vom 16.03.2009 - II ZR 74/08](ii-zr-74-08.md) — Tatbestand:
+- [BGH, Beschluss vom 09.03.2009 - II ZR 127/08](ii-zr-127-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Beschluss vom 09.03.2009 - II ZR 131/08](ii-zr-131-08.md) — BGH, Beschluss vom 09.03.2009 - II ZR 131/08
 - [BGH, Urteil vom 09.03.2009 - II ZR 170/07](ii-zr-170-07.md) — Tatbestand:
 - [BGH, Urteil vom 02.03.2009 - II ZR 264/07](ii-zr-264-07.md) — BGH, Urteil vom 02.03.2009 - II ZR 264/07
+- [BGH, Urteil vom 02.03.2009 - II ZR 266/07](ii-zr-266-07.md) — der Auswirkungen auf die Vermietbarkeit und die Höhe des Mietzinses ursächlich ist.
+- [BGH, Beschluss vom 02.03.2009 - II ZR 59/08](ii-zr-59-08.md) — I. Mit seiner Klage begehrt der Kläger, den Beschluss der Gesellschaf- terversammlung der Beklagten vom 15. September 2003 über seine sofortige Abberufung als Geschäftsführer für …
+- [BGH, Beschluss vom 02.03.2009 - II ZR 75/08](ii-zr-75-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
+- [BGH, Urteil vom 16.02.2009 - II ZR 120/07](ii-zr-120-07.md) — Tatbestand:
+- [BGH, Beschluss vom 16.02.2009 - II ZR 142/08](ii-zr-142-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Urteil vom 16.02.2009 - II ZR 185/07](ii-zr-185-07.md) — der darin liegenden Verletzung von Organpflichten zur Anfechtbarkeit jedenfalls der gleichwohl gefassten Entlastungsbeschlüsse, soweit die O
+- [BGH, Urteil vom 16.02.2009 - II ZR 282/07](ii-zr-282-07.md) — Tatbestand:
 - [BGH, Beschluss vom 16.02.2009 - II ZR 65/08](ii-zr-65-08.md) — vorliegt, nach denen der Senat die Revision zulassen darf.
 - [BGH, Urteil vom 09.02.2009 - II ZR 231/07](ii-zr-231-07.md) — Tatbestand:
+- [BGH, Beschluss vom 09.02.2009 - II ZR 241/07](ii-zr-241-07.md) — § 44 GKG] + 50.000,00 € [Klageantrag 4 c wegen § 44 GKG] + 2.500,00 € [Klageantrag 5] + 5.000,00 € [Klageantrag 6] + 4.000,00 € [Klageantrag
+- [BGH, Urteil vom 09.02.2009 - II ZR 292/07](ii-zr-292-07.md) — Tatbestand:
 - [BGH, Beschluss vom 09.02.2009 - II ZR 77/08](ii-zr-77-08.md) — BGH, Beschluss vom 09.02.2009 - II ZR 77/08
+- [BGH, Beschluss vom 02.02.2009 - II ZA 1/09](ii-za-1-09.md) — Der Antrag auf Bewilligung von Prozesskostenhilfe ist zurückzuweisen, weil die beabsichtigte Rechtsverfolgung keine Erfolgsaussichten bietet (§ 114 ZPO), worauf bereits in den …
 - [BGH, Beschluss vom 26.01.2009 - II ZB 6/08](ii-zb-6-08.md) — BGH, Beschluss vom 26.01.2009 - II ZB 6/08
+- [BGH, Urteil vom 26.01.2009 - II ZR 213/07](ii-zr-213-07.md) — Wegfalls des Sicherungszwecks auf Verlangen der Gesellschaft zur Freigabe der Sicherheit verpflichtet (vgl. Sen.Urt. v. 27. November 2000 -
+- [BGH, Urteil vom 26.01.2009 - II ZR 216/07](ii-zr-216-07.md) — 3-
+- [BGH, Urteil vom 26.01.2009 - II ZR 217/07](ii-zr-217-07.md) — Tatbestand:
+- [BGH, Urteil vom 26.01.2009 - II ZR 260/07](ii-zr-260-07.md) — Tatbestand:
+- [BGH, Beschluss vom 19.01.2009 - II ZR 98/08](ii-zr-98-08.md) — Die Beschwerde ist begründet und führt gemäß § 544 Abs.
 - [BGH, Beschluss vom 12.01.2009 - II ZR 101/07](ii-zr-101-07.md) — Die Nichtzulassungsbeschwerde ist unbegründet.
 - [BGH, Beschluss vom 12.01.2009 - II ZR 21/08](ii-zr-21-08.md) — BGH, Beschluss vom 12.01.2009 - II ZR 21/08
+- [BGH, Beschluss vom 12.01.2009 - II ZR 24/08](ii-zr-24-08.md) — Die Nichtzulassungsbeschwerde ist unbegründet.
+- [BGH, Beschluss vom 12.01.2009 - II ZR 27/08](ii-zr-27-08.md) — eines unheilbaren Zerwürfnisses mit einem Mitgeschäftsführer bei einer Zweipersonen-GmbH.
+- [BGH, Beschluss vom 05.01.2009 - II ZR 165/08](ii-zr-165-08.md) — Die Streitwertfestsetzung des Senats im Beschluss vom 8.

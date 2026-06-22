@@ -1,18 +1,67 @@
 # IV. Zivilsenat – 2001
 
-14 Entscheidung(en).
+63 Entscheidung(en).
 
+- [BGH, Beschluss vom 12.12.2001 - IV ZB 11/01](iv-zb-11-01.md) — Versäumung der Berufungsfrist und der Frist zur Wiedereinsetzung gewährt. Ihm wird Prozeßkostenhilfe für die Durchführung des Beschwerdeverf
+- [BGH, Urteil vom 12.12.2001 - IV ZR 124/00](iv-zr-124-00.md) — BGH, Urteil vom 12.12.2001 - IV ZR 124/00
+- [BGH, Urteil vom 12.12.2001 - IV ZR 47/01](iv-zr-47-01.md) — Tatbestand: Der Kläger ist seit dem 4. Februar 1997 Konkursverwalter über das Vermögen des L. A.. Dieser unterhielt bei dem Beklagten insges
 - [BGH, Beschluss vom 05.12.2001 - IV ZB 15/01](iv-zb-15-01.md) — BGH, Beschluss vom 05.12.2001 - IV ZB 15/01
 - [BGH, Beschluss vom 05.12.2001 - IV ZB 21/01](iv-zb-21-01.md) — BGH, Beschluss vom 05.12.2001 - IV ZB 21/01
 - [BGH, Urteil vom 05.12.2001 - IV ZR 102/01](iv-zr-102-01.md) — Tatbestand:
 - [BGH, Urteil vom 05.12.2001 - IV ZR 225/00](iv-zr-225-00.md) — Tatbestand: Der Kläger, ein Gebrauchtwagenhändler, verlangt von der Beklagten als Kaskoversicherer Ersatz des Wiederbeschaffungswerts in
+- [BGH, Urteil vom 28.11.2001 - IV ZR 309/00](iv-zr-309-00.md) — Tatbestand: Der klagende Versicherungsverein macht Amtshaftungsansprüche aus übergegangenem Recht gemäß § 67 VVG in Zusammenhang mit einem B
 - [BGH, Beschluss vom 14.11.2001 - IV ZB 19/01](iv-zb-19-01.md) — Gründe für die Annahme der weiteren sofortigen Beschwerde nach §§ 568a, 554b ZPO (vgl.
 - [BGH, Urteil vom 14.11.2001 - IV ZR 181/00](iv-zr-181-00.md) — Tatbestand: Die Parteien streiten über Bestand und Inhalt eines seit dem 1. November 1990 laufenden Rentenversicherungsvertrages, hilfsweise
 - [BGH, Beschluss vom 14.11.2001 - IV ZR 43/01](iv-zr-43-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Urteil vom 07.11.2001 - IV ZR 297/00](iv-zr-297-00.md) — Tatbestand: Der Kläger nimmt die beklagte Anstalt - die Staatliche Versicherung der Deutschen Demokratischen Republik in Abwicklung - auf Er
 - [BGH, Urteil vom 31.10.2001 - IV ZR 268/00](iv-zr-268-00.md) — Tatbestand: Die Kläger sind Mitglieder einer Erbengemeinschaft. Sie verlangen vom Beklagten die Rückübertragung eines Erbteils, den eine wei
+- [BGH, Beschluss vom 17.10.2001 - IV ZA 7/00](iv-za-7-00.md) — Mit dem vorgenannten Beschluß hat der Senat den Antrag des Antragstellers auf Bewilligung von Prozeßkostenhilfe und Beiordnung eines Rechtsanwalts für das vom Antragsteller …
+- [BGH, Beschluss vom 17.10.2001 - IV ZB 17/01](iv-zb-17-01.md) — Das Rechtsmittel ist nicht statthaft. Im Nachlaßverfahren hat der Bundesgerichtshof über weitere Beschwerden gemäß § 28 Abs. 2 FGG nur in den Fällen zu entscheiden, in denen ein …
+- [BGH, Urteil vom 17.10.2001 - IV ZR 205/00](iv-zr-205-00.md) — Tatbestand: Der Kläger nimmt die Beklagte auf Zahlung einer Invaliditätsentschädigung in Anspruch. Er unterhält bei ihr seit dem 26. Juli 19
+- [BGH, Beschluss vom 10.10.2001 - IV ZB 9/01](iv-zb-9-01.md) — Erteilung einer Auskunft nach freiem Ermessen festsetzen (§ 3 ZPO) und das Revisionsgericht die Wertfestsetzung nur darauf überprüfen, ob da
+- [BGH, Beschluss vom 10.10.2001 - IV ZR 120/01](iv-zr-120-01.md) — I. Die Kläger verlangen von den Beklagten die Herausgabe eines Versicherungsscheins. Sie sind die Erben ihres am 25. August 1999 tödlich verunglückten Vaters. Dieser hatte am 5 …
+- [BGH, Beschluss vom 10.10.2001 - IV ZR 171/01](iv-zr-171-01.md) — Eintritt des Versicherungsfalls seien bereits Ansprüche entstanden. Im Interesse der Rechtsklarheit ist ungeachtet der konkreten Erfolgsauss
+- [BGH, Beschluss vom 10.10.2001 - IV ZR 240/00](iv-zr-240-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 10.10.2001 - IV ZR 6/01](iv-zr-6-01.md) — Tatbestand: Der Kläger verlangt von dem beklagten Versicherungsunternehmen eine Berufsunfähigkeitsrente.
+- [BGH, Urteil vom 26.09.2001 - IV ZR 198/00](iv-zr-198-00.md) — Tatbestand: Die Parteien sind Geschwister und streiten über Pflichtteilsansprüche nach den Eltern. Diese hatten sich in einem notariellen Er
+- [BGH, Urteil vom 26.09.2001 - IV ZR 220/00](iv-zr-220-00.md) — Tatbestand: Der Kläger verlangt von dem beklagten Versicherungsunternehmen eine Berufsunfähigkeitsrente.
 - [BGH, Urteil vom 26.09.2001 - IV ZR 298/98](iv-zr-298-98.md) — Tatbestand:
+- [BGH, Urteil vom 19.09.2001 - IV ZR 224/00](iv-zr-224-00.md) — Tatbestand: Die Klägerin nimmt die Beklagte aus einer Elektronik-Pauschalversicherung in Anpruch, die neben einer Sachversicherung eine Date
+- [BGH, Urteil vom 19.09.2001 - IV ZR 235/00](iv-zr-235-00.md) — Tatbestand: Der Kläger ist Testamentsvollstrecker für den Nachlaß des am 31. Oktober 1996 verstorbenen Dr. L.. Er macht in dieser Eigenschaf
+- [BGH, Beschluss vom 10.09.2001 - IV ZR 277/00](iv-zr-277-00.md) — Die Streitwertfestsetzung des Berufungsgerichts, die dem 4/6Erbanteil der Beklagten laut Erbschein abzüglich des 20%igen Feststellungsabschlags entspricht, berechnet vom …
+- [BGH, Beschluss vom 18.07.2001 - IV ZR 105/00](iv-zr-105-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 18.07.2001 - IV ZR 24/00](iv-zr-24-00.md) — pflichtwidrigen Verhaltens der Beklagten im Zusammenhang mit dem Widerruf des Vergleichs vom 15. Juli 1997 im Haftpflichtprozeß abgewiesen w
+- [BGH, Urteil vom 11.07.2001 - IV ZR 122/00](iv-zr-122-00.md) — Tatbestand: Die Klägerin beruft sich auf die Existenz eines eigenhändigen gemeinschaftlichen Testaments ihrer Eltern, das am Todestag ihres
+- [BGH, Beschluss vom 04.07.2001 - IV ZB 7/01](iv-zb-7-01.md) — I. Die Klägerin verfolgt gegen die Beklagten im Wege der Stufenklage Ansprüche auf Herausgabe von Nachlaßgegenständen und des aus der Veräußerung eines Grundstücks erzielten …
+- [BGH, Urteil vom 04.07.2001 - IV ZR 307/00](iv-zr-307-00.md) — Tatbestand: Die Klägerin ist Krankentagegeldversicherer eines Unfallopfers, die Beklagte Haftpflichtversicherer des Schädigers. Die Klägerin
+- [BGH, Beschluss vom 27.06.2001 - IV ZB 3/01](iv-zb-3-01.md) — I. Die Beklagte wendet sich gegen die Verwerfung ihrer Berufung, weil die erforderliche Beschwer (§ 511a Abs. 1 Satz 1 ZPO) nicht erreicht sei. Das Landgericht hatte die Beklagte …
+- [BGH, Urteil vom 27.06.2001 - IV ZR 120/00](iv-zr-120-00.md) — BGH, Urteil vom 27.06.2001 - IV ZR 120/00
+- [BGH, Urteil vom 27.06.2001 - IV ZR 130/00](iv-zr-130-00.md) — Tatbestand: Der Kläger verlangt von dem beklagten Versicherer eine Invaliditätsentschädigung aufgrund eines Unfallversicherungsvertrages.
+- [BGH, Urteil vom 20.06.2001 - IV ZR 101/00](iv-zr-101-00.md) — Tatbestand: Der Kläger nimmt als Pfändungsgläubiger den beklagten Versicherer aus einer Vermögensschaden-Haftpflichtversicherung des Streith
+- [BGH, Urteil vom 13.06.2001 - IV ZR 237/00](iv-zr-237-00.md) — Tatbestand: Die klagende Versicherungsgesellschaft verlangt von dem beklagten Versicherungsnehmer die Rückerstattung von Entschädigungszahlu
+- [BGH, Beschluss vom 23.05.2001 - IV ZR 144/00](iv-zr-144-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 23.05.2001 - IV ZR 62/00](iv-zr-62-00.md) — Tatbestand: Die Kläger erheben Erbersatzansprüche aufgrund des bis zum 31. März 1998 geltenden § 1934 a BGB. Sie sind nichteheliche Kinder d
+- [BGH, Urteil vom 23.05.2001 - IV ZR 64/00](iv-zr-64-00.md) — Tatbestand: Die Klägerin verlangt als Miterbin vom Beklagten, ihrem Bruder, der als einziger weiterer Miterbe auch zum Testamentsvollstrecke
+- [BGH, Urteil vom 23.05.2001 - IV ZR 94/00](iv-zr-94-00.md) — Tatbestand: Der Kläger begehrt von dem beklagten Versicherer eine Berufsunfähigkeitsrente ab Februar 1997 in Höhe von monatlich 2.000 DM.
 - [BGH, Urteil vom 09.05.2001 - IV ZR 121/00](iv-zr-121-00.md) — Intransparenz unwirksam, wenn sie dem Versicherungsnehmer etwaige wirtschaftliche Nachteile nicht deutlich vor Augen führen.
 - [BGH, Urteil vom 09.05.2001 - IV ZR 138/99](iv-zr-138-99.md) — BGH, Urteil vom 09.05.2001 - IV ZR 138/99
+- [BGH, Urteil vom 25.04.2001 - IV ZR 281/99](iv-zr-281-99.md) — Tatbestand: Die Parteien sind Geschwister. Sie streiten um den Erlös einer Eigentumswohnung, die ihren Eltern als Miteigentümern zu je 1/2 g
+- [BGH, Urteil vom 25.04.2001 - IV ZR 305/00](iv-zr-305-00.md) — Tatbestand: Die Parteien streiten darum, wem der Anspruch aus einer Lebensversicherung zusteht, die der am 9. Juni 1997 verstorbene Ehemann
+- [BGH, Urteil vom 04.04.2001 - IV ZR 138/00](iv-zr-138-00.md) — Tatbestand: Die Parteien streiten über die Höhe der Ansprüche der Klägerin aus einer Betriebsunterbrechungsversicherung. Die Klägerin betrei
+- [BGH, Urteil vom 04.04.2001 - IV ZR 63/00](iv-zr-63-00.md) — Tatbestand: Die Klägerin nimmt die Beklagte auf Deckungsschutz aus einer Privathaftpflichtversicherung in Anspruch; der am 21. Februar 1979
+- [BGH, Urteil vom 28.03.2001 - IV ZR 163/99](iv-zr-163-99.md) — Tatbestand: Die Klägerin will bei der Beklagten Regreß nehmen für Wasserschäden, die diese verursacht hat.
 - [BGH, Urteil vom 28.03.2001 - IV ZR 180/00](iv-zr-180-00.md) — Tatbestand:
+- [BGH, Urteil vom 28.03.2001 - IV ZR 19/00](iv-zr-19-00.md) — Tatbestand: Der Kläger ist ein rechtsfähiger Verein mit der satzungsgemäßen Aufgabe, Verbraucherinteressen wahrzunehmen; er ist in der Liste
+- [BGH, Urteil vom 28.03.2001 - IV ZR 245/99](iv-zr-245-99.md) — Tatbestand: Die Kläger, die sich für Miterben halten, verlangen von der Beklagten, die zwei zum Nachlaß gehörende Gebäudegrundstücke ohne Be
+- [BGH, Beschluss vom 07.03.2001 - IV ZB 31/00](iv-zb-31-00.md) — I. Das Landgericht hat den Beklagten im Rahmen einer Stufenklage durch Teilurteil vom 17. Dezember 1998 gemäß § 2027 BGB verurteilt, dem Kläger und seinen Miterben Auskunft über …
+- [BGH, Urteil vom 07.03.2001 - IV ZR 155/00](iv-zr-155-00.md) — Tatbestand:
+- [BGH, Urteil vom 07.03.2001 - IV ZR 254/00](iv-zr-254-00.md) — Tatbestand: Der Kläger nimmt den Beklagten, einen Rechtsanwalt, auf Schadensersatz in Anspruch, weil dieser bei seiner Vertretung in einem R
+- [BGH, Urteil vom 07.03.2001 - IV ZR 258/00](iv-zr-258-00.md) — Tatbestand: Die Klägerin verlangt Schadensersatz vom Beklagten, der sie bei der Verfolgung von Pflichtteils- und Pflichtteilsergänzungsanspr
+- [BGH, Urteil vom 21.02.2001 - IV ZR 11/00](iv-zr-11-00.md) — Tatbestand: Der Kläger ist ein mit öffentlichen Mitteln geförderter rechtsfähiger Verein, der nach seiner Satzung die Interessen der Verbrau
+- [BGH, Beschluss vom 21.02.2001 - IV ZR 150/00](iv-zr-150-00.md) — des Fortbestehens der Testamentsvollstreckung weiterhin wirksam blieb,
+- [BGH, Urteil vom 21.02.2001 - IV ZR 259/99](iv-zr-259-99.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Leistungen aus einem Vertrag über vorläufigen Versicherungsschutz in der Lebensversicher
+- [BGH, Urteil vom 31.01.2001 - IV ZR 185/99](iv-zr-185-99.md) — Tatbestand:
 - [BGH, Beschluss vom 24.01.2001 - IV ZB 24/00](iv-zb-24-00.md) — BGH, Beschluss vom 24.01.2001 - IV ZB 24/00
+- [BGH, Urteil vom 24.01.2001 - IV ZR 264/99](iv-zr-264-99.md) — der den Betrag von 184.888 DM nebst 13,5% Zinsen seit 1. August 1997 übersteigenden Klageforderung zurückgewiesen wurde.
+- [BGH, Urteil vom 17.01.2001 - IV ZR 282/99](iv-zr-282-99.md) — der von der H. GmbH, Spedition und Logistik, S.straße 24, F., gegen sie erhobenen Schadensersatzansprüche in Höhe von 298.938,96 DM nebst 5%
+- [BGH, Urteil vom 17.01.2001 - IV ZR 32/00](iv-zr-32-00.md) — eines unfallbedingten Dauerschadens vollständig funktionsunfähig, steht der Invaliditätsgrad nach der Gliedertaxe unverrückbar fest. Die Aus

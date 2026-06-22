@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VermG"
 description: "BGH-Entscheidungen zu VermG, geordnet nach Vorschrift."
 tags: [register, navigation, vermg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

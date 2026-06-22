@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AGBG"
 description: "BGH-Entscheidungen zu AGBG, geordnet nach Vorschrift."
 tags: [register, navigation, agbg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

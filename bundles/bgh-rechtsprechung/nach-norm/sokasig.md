@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SokaSiG"
 description: "BGH-Entscheidungen zu SokaSiG, geordnet nach Vorschrift."
 tags: [register, navigation, sokasig]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

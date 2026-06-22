@@ -1,31 +1,63 @@
 # IV. Zivilsenat – 2003
 
-42 Entscheidung(en).
+101 Entscheidung(en).
 
+- [BGH, Beschluss vom 17.12.2003 - IV ZR 28/03](iv-zr-28-03.md) — unberechtigter Geschäftsführung habe er dafür zu sorgen, daß die nach dem Tod der Mutter erzielten Mieteinnahmen nicht in den Nachlaß gelang
+- [BGH, Beschluss vom 17.12.2003 - IV ZR 80/03](iv-zr-80-03.md) — BGH, Beschluss vom 17.12.2003 - IV ZR 80/03
+- [BGH, Beschluss vom 10.12.2003 - IV ZB 35/03](iv-zb-35-03.md) — I. Die Parteien streiten über die Auseinandersetzung einer ungeteilten Erbengemeinschaft. Das Landgericht hat den Beklagten verurteilt, zur Herbeiführung der Auseinandersetzung …
+- [BGH, Urteil vom 10.12.2003 - IV ZR 217/02](iv-zr-217-02.md) — Tatbestand: Der Kläger bezieht seit dem 1. Juni 1990 eine Versorgungsrente von der beklagten Versorgungsanstalt des Bundes und der Länder.
 - [BGH, Urteil vom 10.12.2003 - IV ZR 249/02](iv-zr-249-02.md) — Tatbestand: Die Klägerin begehrt als Alleinerbin ihres 1998 verstorbenen Vaters Pflichtteilsergänzung gemäß § 2329 Abs. 1 BGB.
+- [BGH, Beschluss vom 10.12.2003 - IV ZR 319/02](iv-zr-319-02.md) — I. Die Parteien sind Bauleistungsversicherer. Sie streiten darüber, wer von ihnen für einen beim Erweiterungsbau einer Kläranlage entstandenen Schaden Versicherungsschutz zu …
+- [BGH, Urteil vom 10.12.2003 - IV ZR 422/02](iv-zr-422-02.md) — Tatbestand: Der Kläger bezieht seit 1993 von der beklagten Versorgungsanstalt des Bundes und der Länder eine Versorgungsrente, die ab dem 1.
 - [BGH, Beschluss vom 10.12.2003 - IV ZR 89/03](iv-zr-89-03.md) — BGH, Beschluss vom 10.12.2003 - IV ZR 89/03
 - [BGH, Urteil vom 26.11.2003 - IV ZR 186/02](iv-zr-186-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 26.11.2003 - IV ZR 438/02](iv-zr-438-02.md) — Tatbestand:
 - [BGH, Urteil vom 26.11.2003 - IV ZR 6/03](iv-zr-6-03.md) — Tatbestand:
+- [BGH, Beschluss vom 19.11.2003 - IV ZB 20/03](iv-zb-20-03.md) — Testierunfähigkeit nichtig sei. Gegen den Beschluß des Amtsgerichts, die Beteiligten zu 1) - 3) ihrem Antrag entsprechend als Erben zu je ei
 - [BGH, Beschluss vom 18.11.2003 - IV ZR 355/02](iv-zr-355-02.md) — BGH, Beschluss vom 18.11.2003 - IV ZR 355/02
 - [BGH, Urteil vom 12.11.2003 - IV ZR 173/02](iv-zr-173-02.md) — BGH, Urteil vom 12.11.2003 - IV ZR 173/02
+- [BGH, Urteil vom 12.11.2003 - IV ZR 43/03](iv-zr-43-03.md) — Tatbestand:
 - [BGH, Urteil vom 29.10.2003 - IV ZR 122/02](iv-zr-122-02.md) — Tatbestand: Der Kläger wendet sich gegen die Zwangsvollstreckung der beklagten Bank aus zwei notariellen Grundschuldbestellungsurkunden, sow
 - [BGH, Urteil vom 29.10.2003 - IV ZR 16/03](iv-zr-16-03.md) — Tatbestand:
 - [BGH, Urteil vom 29.10.2003 - IV ZR 26/03](iv-zr-26-03.md) — Tatbestand:
 - [BGH, Urteil vom 29.10.2003 - IV ZR 38/03](iv-zr-38-03.md) — Tatbestand: Die Parteien streiten über das Fortbestehen der Mitgliedschaft des Klägers bei der Beklagten. Der Kläger war Beamter der frühere
+- [BGH, Urteil vom 22.10.2003 - IV ZR 171/02](iv-zr-171-02.md) — Tatbestand: Der Kläger verlangt nach Pfändung und Überweisung des Dekkungsanspruchs von der Beklagten als Haftpflichtversicherer eines Recht
 - [BGH, Urteil vom 22.10.2003 - IV ZR 33/03](iv-zr-33-03.md) — Verstoßes gegen das Rechtsberatungsgesetz gemäß § 134 BGB nichtigen Vollmacht).
+- [BGH, Beschluss vom 22.10.2003 - IV ZR 39/03](iv-zr-39-03.md) — BGH, Beschluss vom 22.10.2003 - IV ZR 39/03
 - [BGH, Urteil vom 22.10.2003 - IV ZR 398/02](iv-zr-398-02.md) — Verstoßes gegen das Rechtsberatungsgesetz gemäß § 134 BGB nichtigen Vollmacht).
 - [BGH, Beschluss vom 01.10.2003 - IV ZR 237/02](iv-zr-237-02.md) — Die von der Beschwerde aufgeworfenen Zulassungsfragen zum Ausschluß einer im Verhältnis zum Versicherer bestehenden Vollmacht des Agenten zur Zusage vorläufigen Deckungsschutzes …
 - [BGH, Beschluss vom 01.10.2003 - IV ZR 27/03](iv-zr-27-03.md) — BGH, Beschluss vom 01.10.2003 - IV ZR 27/03
 - [BGH, Beschluss vom 24.09.2003 - IV ZB 41/02](iv-zb-41-02.md) — BGH, Beschluss vom 24.09.2003 - IV ZB 41/02
+- [BGH, Beschluss vom 24.09.2003 - IV ZB 8/03](iv-zb-8-03.md) — I. Nachdem die Parteien den Rechtsstreit über das Auskunftsbegehren der Kläger aus § 2314 BGB übereinstimmend in der Hauptsache für erledigt erklärt haben, hat das Amtsgericht den …
+- [BGH, Beschluss vom 24.09.2003 - IV ZR 412/02](iv-zr-412-02.md) — Der Kläger hat nicht aufgezeigt, daß die Rechtssache grundsätzliche Bedeutung hat oder die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine …
 - [BGH, Beschluss vom 24.09.2003 - IV ZR 448/02](iv-zr-448-02.md) — Die Rechtssache hat weder grundsätzliche Bedeutung noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des …
 - [BGH, Urteil vom 17.09.2003 - IV ZR 19/03](iv-zr-19-03.md) — Tatbestand: Der Kläger begehrt Versicherungsschutz aus einer bei der Beklagten genommenen Berufshaftpflichtversicherung, die unter anderem s
+- [BGH, Beschluss vom 17.09.2003 - IV ZR 83/03](iv-zr-83-03.md) — der großen wirtschaftlichen Auswirkung auf einen breiten Kreis von Krankenversicherungsunternehmen grundsätzliche Bedeutung zu.
+- [BGH, Beschluss vom 10.09.2003 - IV ZB 12/03](iv-zb-12-03.md) — BGH, Beschluss vom 10.09.2003 - IV ZB 12/03
 - [BGH, Beschluss vom 10.09.2003 - IV ZB 27/02](iv-zb-27-02.md) — I. Der Kläger ist ein bundesweit tätiger Verbraucherschutzverein mit Sitz in H. . Er hat die Beklagte, eine Lebensversicherungsge- sellschaft, im Wege der Verbandsklage darauf in …
+- [BGH, Beschluss vom 10.09.2003 - IV ZR 198/02](iv-zr-198-02.md) — arglistiger Täuschung angefochten. Die Anfechtung umfaßte nicht nur die Berufsunfähigkeits-Zusatzversicherung, aus der damals Leistungen ver
+- [BGH, Urteil vom 10.09.2003 - IV ZR 387/02](iv-zr-387-02.md) — Tatbestand:
+- [BGH, Beschluss vom 10.09.2003 - IV ZR 414/02](iv-zr-414-02.md) — auch für eine etwaige (nachträgliche) Sicherungsabrede nach Abschluß der Darlehensverträge.
 - [BGH, Beschluss vom 10.09.2003 - IV ZR 420/02](iv-zr-420-02.md) — I. Die Klägerin begehrt die Feststellung der Nichtigkeit einer in einem gerichtlichen Vergleich aus dem Jahre 1984 enthaltenen Klausel. In diesem Vergleich wurde unter Mitwirkung …
 - [BGH, Beschluss vom 16.07.2003 - IV ZR 101/02](iv-zr-101-02.md) — BGH, Beschluss vom 16.07.2003 - IV ZR 101/02
+- [BGH, Beschluss vom 16.07.2003 - IV ZR 145/02](iv-zr-145-02.md) — Die Nichtzulassungsbeschwerde hat keinen Erfolg, weil der Kläger einen Zulassungsgrund (§ 543 Abs.
+- [BGH, Urteil vom 16.07.2003 - IV ZR 310/02](iv-zr-310-02.md) — Tatbestand: Der Kläger hat von der beklagten Versicherungsgesellschaft aus einer Unfallversicherung, der die Allgemeinen Unfallversicherungs
 - [BGH, Beschluss vom 16.07.2003 - IV ZR 73/03](iv-zr-73-03.md) — BGH, Beschluss vom 16.07.2003 - IV ZR 73/03
+- [BGH, Beschluss vom 09.07.2003 - IV ZR 100/02](iv-zr-100-02.md) — BGH, Beschluss vom 09.07.2003 - IV ZR 100/02
+- [BGH, Urteil vom 09.07.2003 - IV ZR 453/02](iv-zr-453-02.md) — Tatbestand: Die Klägerin wehrt sich mit einer Vollstreckungsgegenklage gegen die von der Beklagten aus einer vollstreckbaren Grundschuldbest
 - [BGH, Urteil vom 09.07.2003 - IV ZR 74/02](iv-zr-74-02.md) — Tatbestand: Der Kläger verlangt von der Beklagten, bei der er eine private Unfallversicherung unterhält, eine höhere Invaliditätsentschädigu
+- [BGH, Beschluss vom 25.06.2003 - IV ZR 14/03](iv-zr-14-03.md) — I. Die Beklagte ist von den Vorinstanzen verurteilt worden, dem Kläger 27.481,94 ¢£¡ ¥¤§©¦ ¨ § ¦  "  #! %$'(& 0¦ 1) §3%2 5 4%% %4 §6 82 97 "  A@ B7 (& ¥¦ DC …
+- [BGH, Urteil vom 25.06.2003 - IV ZR 276/02](iv-zr-276-02.md) — Tatbestand:
+- [BGH, Urteil vom 25.06.2003 - IV ZR 285/02](iv-zr-285-02.md) — 3-
+- [BGH, Urteil vom 25.06.2003 - IV ZR 32/03](iv-zr-32-03.md) — Tatbestand:
+- [BGH, Urteil vom 25.06.2003 - IV ZR 322/02](iv-zr-322-02.md) — Tatbestand: Die Klägerin begehrt Zahlung in Höhe von 8.242,43 DM nebst Zinsen aus einer bei der Beklagten genommenen Fahrzeugvollversicherun
+- [BGH, Beschluss vom 25.06.2003 - IV ZR 366/02](iv-zr-366-02.md) — der Verbindlichkeiten der GmbH, die sich auf mehrere Millionen DM beliefen, aus der Bürgschaft in Anspruch genommen. Die Beklagte stellte ab
+- [BGH, Beschluss vom 18.06.2003 - IV ZR 323/02](iv-zr-323-02.md) — kommt eine Zulassung der Revision wegen grundsätzlicher Bedeutung gemäß § 543 Abs. 2 Satz 1 Nr. 1 ZPO zur Klärung dieser Rechtsfrage nicht m
+- [BGH, Urteil vom 18.06.2003 - IV ZR 59/02](iv-zr-59-02.md) — Tatbestand: Die Klägerin verlangt als Bezugsberechtigte einer Kapitallebensversicherung mit Mehrfachauszahlung von dem beklagten Versicherer
+- [BGH, Urteil vom 11.06.2003 - IV ZR 158/02](iv-zr-158-02.md) — Tatbestand: Die Parteien streiten über die Wirksamkeit der mit der 53. und 54. Satzungsänderung der beklagten Versorgungsanstalt der Deutsch
 - [BGH, Beschluss vom 11.06.2003 - IV ZR 410/02](iv-zr-410-02.md) — BGH, Beschluss vom 11.06.2003 - IV ZR 410/02
+- [BGH, Urteil vom 11.06.2003 - IV ZR 418/02](iv-zr-418-02.md) — Tatbestand: Der Kläger ist über seine Ehefrau bei der Beklagten krankenversichert. Die Beklagte hat seine Rechnungen für Behandlungen bei ei
+- [BGH, Beschluss vom 21.05.2003 - IV ZA 1/03](iv-za-1-03.md) — Die beabsichtigte Rechtsverfolgung hat keine Aussicht auf Erfolg (§ 114 ZPO).
 - [BGH, Urteil vom 21.05.2003 - IV ZR 209/02](iv-zr-209-02.md) — Tatbestand: Der Kläger macht Ansprüche gegen die Beklagte aus einer seit 1990 bestehenden Privathaftpflichtversicherung geltend, der die All
 - [BGH, Urteil vom 21.05.2003 - IV ZR 210/02](iv-zr-210-02.md) — Tatbestand: Der Kläger macht Ansprüche gegen die Beklagte aus einer seit 1990 bestehenden Privathaftpflichtversicherung geltend, der die All
 - [BGH, Urteil vom 21.05.2003 - IV ZR 327/02](iv-zr-327-02.md) — Tatbestand: Der Kläger unterhält bei der Beklagten seit Dezember 1999 eine Rechtsschutzversicherung, die Verkehrsrechtsschutz und Familienre
@@ -34,13 +66,40 @@
 - [BGH, Urteil vom 14.05.2003 - IV ZR 140/02](iv-zr-140-02.md) — Tatbestand:
 - [BGH, Urteil vom 14.05.2003 - IV ZR 166/02](iv-zr-166-02.md) — Tatbestand:
 - [BGH, Urteil vom 14.05.2003 - IV ZR 50/02](iv-zr-50-02.md) — Tatbestand: Die Klägerin war im öffentlichen Dienst zunächst in der DDR und seit 3. Oktober 1990 im Beitrittsgebiet (Tarifgebiet Ost) beschä
+- [BGH, Urteil vom 14.05.2003 - IV ZR 72/02](iv-zr-72-02.md) — Tatbestand: Die Klägerin war vom 1. August 1964 bis 31. Juli 1999 im öffentlichen Schuldienst zunächst in der DDR und seit 3. Oktober 1990 i
 - [BGH, Urteil vom 14.05.2003 - IV ZR 76/02](iv-zr-76-02.md) — Tatbestand: Die Klägerin war seit 1951 bis zum 31. August 1997 im öffentlichen Dienst zunächst in der DDR und seit 3. Oktober 1990 im Beitri
+- [BGH, Beschluss vom 07.05.2003 - IV ZB 16/03](iv-zb-16-03.md) — Die Beschwerde gegen den Beschluß des Oberlandesgerichts Nürnberg vom 4.
+- [BGH, Urteil vom 07.05.2003 - IV ZR 121/02](iv-zr-121-02.md) — Tatbestand:
+- [BGH, Beschluss vom 07.05.2003 - IV ZR 133/97](iv-zr-133-97.md) — der Straftat eine rechtskräftige Verurteilung ergangen ist oder wenn die Einleitung oder Durchführung eines Straf-
 - [BGH, Urteil vom 07.05.2003 - IV ZR 239/02](iv-zr-239-02.md) — Tatbestand:
 - [BGH, Beschluss vom 30.04.2003 - IV ZR 336/02](iv-zr-336-02.md) — Das Landgericht hat die drei Beklagten zur Vorbereitung eines Pflichtteilsergänzungsanspruchs aus § 2329 BGB zur Auskunft und (auf Kosten der Kläger) zur Wertermittlung …
+- [BGH, Beschluss vom 02.04.2003 - IV ZB 28/02](iv-zb-28-02.md) — der Scheidung für unwirksam und verweist zusätzlich auf die Regelung des § 2077 BGB.
+- [BGH, Urteil vom 26.03.2003 - IV ZR 222/02](iv-zr-222-02.md) — Tatbestand: Die Kläger wenden sich gegen die Zwangsvollstreckung aus einer notariellen Urkunde.
+- [BGH, Beschluss vom 26.03.2003 - IV ZR 232/02](iv-zr-232-02.md) — eines Teils seiner Entscheidung eröffnen
 - [BGH, Urteil vom 26.03.2003 - IV ZR 270/02](iv-zr-270-02.md) — Tatbestand: Der Kläger begehrt Zahlung aus einer bei der Beklagten unterhaltenen Hausratversicherung, der die Allgemeinen Hausratversicherun
+- [BGH, Urteil vom 26.03.2003 - IV ZR 85/02](iv-zr-85-02.md) — Tatbestand :
+- [BGH, Urteil vom 19.03.2003 - IV ZR 139/01](iv-zr-139-01.md) — fehlender Erfolgsaussicht oder Mutwilligkeit abzulehnen, wenn er dies dem Versicherungsnehmer entgegen § 17 Abs. 1 Satz 2 ARB 75 nicht unver
 - [BGH, Urteil vom 19.03.2003 - IV ZR 233/01](iv-zr-233-01.md) — Tatbestand: Die Klägerin verlangt von der Beklagten als Haftpflichtversicherer eines Notars Zahlung von 368.852,92 DM nebst Zinsen.
 - [BGH, Urteil vom 19.03.2003 - IV ZR 283/02](iv-zr-283-02.md) — Tatbestand: Der Kläger, ein Berufskraftfahrer, verlangt Invaliditätsentschädigung aus einer bei der Beklagten genommenen Unfallversicherung,
+- [BGH, Beschluss vom 19.03.2003 - IV ZR 67/02](iv-zr-67-02.md) — Der Streitwert für den in der Revision allein maßgeblichen Klagantrag zu 1 errechnet sich wie folgt : 1.
+- [BGH, Beschluss vom 18.03.2003 - IV ZA 9/02](iv-za-9-02.md) — . Die Ansicht der Kläger, das nur für Verfahren vor den ordentlichen Gerichten "nach der Zivilprozeßordnung" geltende Gerichtskostengesetz sei nicht anwendbar, da sie mit ihrer …
+- [BGH, Beschluss vom 18.03.2003 - IV ZR 87/02](iv-zr-87-02.md) — Die Revision hat weder grundsätzliche Bedeutung noch im Endergebnis Aussicht auf Erfolg (§ 554b ZPO a.F.).
+- [BGH, Urteil vom 12.03.2003 - IV ZR 278/01](iv-zr-278-01.md) — Tatbestand: Der Kläger verlangt von der Beklagten die Erstattung von Krankenhauskosten.
+- [BGH, Beschluss vom 12.03.2003 - IV ZR 278/02](iv-zr-278-02.md) — I. Der Kläger macht gegenüber der Beklagten, seiner Schwester, eine beeinträchtigende Schenkung (§ 2287 BGB) geltend. Der Klage liegt ein notarieller Erbvertrag aus dem Jahre 1994 …
+- [BGH, Beschluss vom 12.03.2003 - IV ZR 450/02](iv-zr-450-02.md) — BGH, Beschluss vom 12.03.2003 - IV ZR 450/02
 - [BGH, Urteil vom 12.03.2003 - IV ZR 56/02](iv-zr-56-02.md) — Tatbestand: Der Kläger verlangt eine höhere Versorgungsrente von der Beklagten, weil er § 40 Abs. 2 Buchst. a ee der Satzung der Versorgungs
+- [BGH, Urteil vom 12.03.2003 - IV ZR 57/02](iv-zr-57-02.md) — Tatbestand: Der Kläger verlangt eine höhere Versorgungsrente von der Beklagten, weil er § 40 Abs. 2 Buchst. a ee der Satzung der Versorgungs
 - [BGH, Urteil vom 12.03.2003 - IV ZR 58/02](iv-zr-58-02.md) — Tatbestand: Die Klägerin verlangt eine höhere Versorgungsrente von der Beklagten, weil sie § 40 Abs. 2 Buchst. a ee der Satzung der Versorgu
+- [BGH, Beschluss vom 11.03.2003 - IV ZR 143/02](iv-zr-143-02.md) — I. Der Kläger zu 2) hat gemeinsam mit seiner Ehefrau, der Klägerin zu 1), Vollstreckungsgegenklage erhoben, die vor dem Landgericht und dem Berufungsgericht ohne Erfolg geblieben …
+- [BGH, Beschluss vom 10.03.2003 - IV ZR 306/00](iv-zr-306-00.md) — I. Der Beklagte ist durch Urteil des Landgerichts vom 21. Mai 1999 - unter Klagabweisung im übrigen - verurteilt worden, an den Kläger 52.805,18 DM nebst Zinsen zu zahlen. Seine …
+- [BGH, Urteil vom 26.02.2003 - IV ZR 238/01](iv-zr-238-01.md) — Tatbestand: Der Kläger, mitarbeitender Inhaber eines Automatenaufstellbetriebes, begehrt von der beklagten Versicherungsgesellschaft über di
+- [BGH, Beschluss vom 19.02.2003 - IV ZB 31/02](iv-zb-31-02.md) — I. Der Kläger nimmt die Beklagte aus einer Hausratversicherung auf Zahlung von 5.022,73 ¢¡¤£¥¡§¦© ¨  §©    ¥  ¥  "  $ ! # % & () ' 1 0 24 % 3 7 5 8 6  März 2002 …
+- [BGH, Urteil vom 19.02.2003 - IV ZR 318/02](iv-zr-318-02.md) — Tatbestand:
 - [BGH, Urteil vom 19.02.2003 - IV ZR 321/02](iv-zr-321-02.md) — Tatbestand: Die Klägerin verlangt von der beklagten Versicherungsgesellschaft, bei der sie seit 1987 eine Gruppenunfallversicherung unterhäl
+- [BGH, Beschluss vom 05.02.2003 - IV ZB 34/02](iv-zb-34-02.md) — einer angebli-
+- [BGH, Urteil vom 05.02.2003 - IV ZR 149/02](iv-zr-149-02.md) — Tatbestand: Die Parteien sind Geschwister und je zur Hälfte Erben ihres am 30. Januar 1993 gestorbenen Vaters. Sie hatten durch privatschrif
 - [BGH, Urteil vom 05.02.2003 - IV ZR 44/02](iv-zr-44-02.md) — Tatbestand:
+- [BGH, Urteil vom 29.01.2003 - IV ZR 173/01](iv-zr-173-01.md) — Tatbestand:
+- [BGH, Urteil vom 29.01.2003 - IV ZR 257/01](iv-zr-257-01.md) — 3-
+- [BGH, Urteil vom 29.01.2003 - IV ZR 41/02](iv-zr-41-02.md) — Tatbestand:
+- [BGH, Beschluss vom 20.01.2003 - IV ZR 206/02](iv-zr-206-02.md) — BGH, Beschluss vom 20.01.2003 - IV ZR 206/02

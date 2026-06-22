@@ -1,44 +1,139 @@
 # VII. Zivilsenat – 2005
 
-40 Entscheidung(en).
+135 Entscheidung(en).
 
+- [BGH, Beschluss vom 22.12.2005 - VII ZB 84/05](vii-zb-84-05.md) — unangemessener Benachteiligung des Auftragnehmers unwirksam, wenn sie in einem Vertrag verwendet wird, der die Leistungen aller Leistungspha
+- [BGH, Urteil vom 22.12.2005 - VII ZR 183/04](vii-zr-183-04.md) — Tatbestand:
 - [BGH, Beschluss vom 22.12.2005 - VII ZR 302/04](vii-zr-302-04.md) — im Sinne des § 543 Abs. 2 ZPO nicht bestehen. Von einer weiteren Begründung wird abgesehen, weil sie nicht geeignet wäre, zur Klärung der Voraussetzungen beizutragen, unter denen …
+- [BGH, Urteil vom 22.12.2005 - VII ZR 316/03](vii-zr-316-03.md) — Tatbestand:
+- [BGH, Urteil vom 22.12.2005 - VII ZR 71/04](vii-zr-71-04.md) — 3-
+- [BGH, Beschluss vom 22.12.2005 - VII ZR 85/05](vii-zr-85-05.md) — BGH, Beschluss vom 22.12.2005 - VII ZR 85/05
 - [BGH, Beschluss vom 20.12.2005 - VII ZB 48/05](vii-zb-48-05.md) — einer Geldforderung grundsätzlich jedenfalls dann pfändbar, wenn er unter Eigentumsvorbehalt geliefert wurde und der Steinmetz wegen seines
 - [BGH, Beschluss vom 20.12.2005 - VII ZB 50/05](vii-zb-50-05.md) — einer Hauptforderung von
+- [BGH, Beschluss vom 20.12.2005 - VII ZB 52/05](vii-zb-52-05.md) — unrichtiger Sachbehandlung nicht erhoben werden.
+- [BGH, Beschluss vom 20.12.2005 - VII ZB 57/05](vii-zb-57-05.md) — grundsätzlicher Bedeutung in voller Besetzung
+- [BGH, Beschluss vom 20.12.2005 - VII ZB 62/05](vii-zb-62-05.md) — für unwirksam, weil er insoweit als unzulässiger Blankettbeschluss erlassen
+- [BGH, Beschluss vom 20.12.2005 - VII ZB 79/05](vii-zb-79-05.md) — fehlerhafter Besetzung des Beschwerdegerichts auf-
+- [BGH, Beschluss vom 20.12.2005 - VII ZB 80/05](vii-zb-80-05.md) — I. 1 Das Amtsgericht hat auf Antrag der Gläubigerin die angeblich dem Schuldner gegen die Drittschuldnerin 2 zustehenden Ansprüche auf Ruhegeld gepfändet und der Gläubigerin zur …
+- [BGH, Beschluss vom 20.12.2005 - VII ZB 81/05](vii-zb-81-05.md) — I. 1 Die Gläubigerin beabsichtigt, gegen die Schuldnerin die Zwangsvollstreckung aus einem am 15. November 2001 gerichtlich protokollierten Vergleich zu betreiben. Dieser war für …
+- [BGH, Beschluss vom 20.12.2005 - VII ZB 94/05](vii-zb-94-05.md) — Unterhaltsrückständen aus einem Versäumnisurteil.
 - [BGH, Urteil vom 08.12.2005 - VII ZR 138/04](vii-zr-138-04.md) — einer weitergehenden Schlussrechnungsforderung ist keine Klageänderung im Sinne des § 533 ZPO (im Anschluss an BGH, Urteil vom 19. März 2004
+- [BGH, Urteil vom 08.12.2005 - VII ZR 191/04](vii-zr-191-04.md) — Tatbestand:
+- [BGH, Urteil vom 08.12.2005 - VII ZR 372/03](vii-zr-372-03.md) — des Zinses, der über den erstinstanzlich zugesprochenen Zinsanspruch hinausgeht, abgewiesen wird.
+- [BGH, Urteil vom 08.12.2005 - VII ZR 50/04](vii-zr-50-04.md) — Tatbestand:
 - [BGH, Beschluss vom 08.12.2005 - VII ZR 67/05](vii-zr-67-05.md) — I. 1 Die Beklagten beauftragten die Klägerin mit dem Umbau und der Sanie- rung ihres Wohnhauses in B. zum Pauschalpreis von 445.000 DM; die VOB/B war vereinbart. Während der …
+- [BGH, Beschluss vom 08.12.2005 - VII ZR 99/05](vii-zr-99-05.md) — dahin aus, daß der Zahlungsantrag dem Grunde nach für gerechtfertigt erklärt und die beantragte Feststellung getroffen wurde.
+- [BGH, Beschluss vom 24.11.2005 - VII ZB 76/05](vii-zb-76-05.md) — I. 1 Die Parteien streiten im Kostenfestsetzungsverfahren über die Erstat- tungsfähigkeit der Kosten für ein von den Klägern vorprozessual in Auftrag ge- gebenes …
 - [BGH, Versäumnisurteil vom 24.11.2005 - VII ZR 304/04](vii-zr-304-04.md) — Tatbestand:
+- [BGH, Beschluss vom 24.11.2005 - VII ZR 82/05](vii-zr-82-05.md) — BGH, Beschluss vom 24.11.2005 - VII ZR 82/05
 - [BGH, Urteil vom 24.11.2005 - VII ZR 87/04](vii-zr-87-04.md) — Tatbestand:
 - [BGH, Beschluss vom 10.11.2005 - VII ZR 105/05](vii-zr-105-05.md) — Bausummenüberschreitung des Architekten ist durch das Senatsurteil vom 13. Februar 2003 - VII ZR 395/03, BauR 2003, 1061 hinreichend geklärt
+- [BGH, Beschluss vom 10.11.2005 - VII ZR 11/04](vii-zr-11-04.md) — behaupteter
 - [BGH, Urteil vom 10.11.2005 - VII ZR 137/04](vii-zr-137-04.md) — Tatbestand:
 - [BGH, Urteil vom 10.11.2005 - VII ZR 147/04](vii-zr-147-04.md) — Tatbestand:
+- [BGH, Beschluss vom 10.11.2005 - VII ZR 238/04](vii-zr-238-04.md) — Divergenz. Diese Entscheidung des Oberlandesgerichts Nürnberg wurde von den dort niedergelegten weiteren besonderen Umständen des Einzelfall
+- [BGH, Urteil vom 10.11.2005 - VII ZR 64/04](vii-zr-64-04.md) — Tatbestand:
+- [BGH, Beschluss vom 20.10.2005 - VII ZB 53/05](vii-zb-53-05.md) — I. 1 Die Klägerin verlangt im Kostenfestsetzungsverfahren Erstattung der Kosten, die ihr durch die Beauftragung eines Rechtsbeistands im Mahnverfah- ren entstanden sind. 2 Die in …
+- [BGH, Urteil vom 20.10.2005 - VII ZR 153/04](vii-zr-153-04.md) — Tatbestand:
+- [BGH, Urteil vom 20.10.2005 - VII ZR 155/04](vii-zr-155-04.md) — Tatbestand:
+- [BGH, Urteil vom 20.10.2005 - VII ZR 190/02](vii-zr-190-02.md) — 3-
+- [BGH, Beschluss vom 20.10.2005 - VII ZR 234/04](vii-zr-234-04.md) — BGH, Beschluss vom 20.10.2005 - VII ZR 234/04
+- [BGH, Urteil vom 06.10.2005 - VII ZR 117/04](vii-zr-117-04.md) — Mängeln des Objekts die Gewährleistungsregeln des Werkvertragsrechts anwendbar, soweit die Herstellungsverpflichtung verletzt ist. Ist das n
 - [BGH, Urteil vom 06.10.2005 - VII ZR 229/03](vii-zr-229-03.md) — Tatbestand: Der Kläger nimmt die Beklagte wegen Schlechterfüllung des mit ihm geschlossenen Architektenvertrags auf Schadensersatz in Höhe v
 - [BGH, Urteil vom 06.10.2005 - VII ZR 325/03](vii-zr-325-03.md) — Tatbestand:
+- [BGH, Beschluss vom 04.10.2005 - VII ZB 13/05](vii-zb-13-05.md) — rückständigen und laufenden Unterhalts. Auf seinen Antrag hat das Amtsgericht zunächst einen Pfändungs- und Überweisungsbeschluss erlassen,
+- [BGH, Beschluss vom 04.10.2005 - VII ZB 21/05](vii-zb-21-05.md) — einer Hauptforderung von
+- [BGH, Beschluss vom 04.10.2005 - VII ZB 24/05](vii-zb-24-05.md) — einer Geldforderung.
 - [BGH, Beschluss vom 04.10.2005 - VII ZB 26/05](vii-zb-26-05.md) — einer Geldforderung. Am 1. April 2004 erwirkte sie einen Pfändungs- und Über-
 - [BGH, Beschluss vom 04.10.2005 - VII ZB 40/05](vii-zb-40-05.md) — BGH, Beschluss vom 04.10.2005 - VII ZB 40/05
+- [BGH, Beschluss vom 04.10.2005 - VII ZB 46/05](vii-zb-46-05.md) — eines Unterhaltsrückstands für die Monate Februar und März 2004 von je 28,69 € sowie wegen des laufenden Unterhalts ab April 2004 in Höhe vo
 - [BGH, Beschluss vom 04.10.2005 - VII ZB 54/05](vii-zb-54-05.md) — des Kaufpreises nebst Verzugszinsen gemäß § 4 (6) sowie aller in dieser Urkunde eingegangenen sonstigen Zahlungsverpflichtungen, soweit sie
+- [BGH, Beschluss vom 04.10.2005 - VII ZB 8/05](vii-zb-8-05.md) — eines Teilbetrages von 400.000 DM (= 204.516,75 €)
+- [BGH, Beschluss vom 04.10.2005 - VII ZB 9/05](vii-zb-9-05.md) — eines Teilbetrages von 511.000 € angebliche "Zahlungsansprüche
 - [BGH, Urteil vom 22.09.2005 - VII ZR 117/03](vii-zr-117-03.md) — Tatbestand: Der Kläger, Insolvenzverwalter über das Vermögen der B. KG, verlangt restlichen Werklohn. Die Beklagte verlangt widerklagend die
 - [BGH, Urteil vom 22.09.2005 - VII ZR 152/05](vii-zr-152-05.md) — Tatbestand: Die Klägerin fordert Restwerklohn. Sie ist Gesamtrechtsnachfolgerin der Gesellschaft bürgerlichen Rechts "ARGE K.", der sie als
 - [BGH, Beschluss vom 22.09.2005 - VII ZR 262/04](vii-zr-262-04.md) — BGH, Beschluss vom 22.09.2005 - VII ZR 262/04
+- [BGH, Urteil vom 22.09.2005 - VII ZR 34/04](vii-zr-34-04.md) — Tatbestand: Die Klägerin verlangt von den beklagten Stadtwerken der Stadt M. (künftig: die Beklagte) restlichen Werklohn. Die Klägerin ist S
+- [BGH, Beschluss vom 22.09.2005 - VII ZR 53/05](vii-zr-53-05.md) — BGH, Beschluss vom 22.09.2005 - VII ZR 53/05
+- [BGH, Urteil vom 22.09.2005 - VII ZR 63/04](vii-zr-63-04.md) — Tatbestand: Der Kläger nimmt die Beklagte auf Vergütung für nicht erbrachte Bauleistungen in Anspruch. Die Beklagte beauftragte den Kläger E
+- [BGH, Beschluss vom 25.08.2005 - VII ZB 35/04](vii-zb-35-04.md) — I. Die Antragstellerin wendet sich dagegen, dass ihr gemäß § 494 a Abs. 2 ZPO die dem Antragsgegner im selbständigen Beweisverfahren entstandenen Kosten auferlegt worden sind. -3- …
+- [BGH, Beschluss vom 25.08.2005 - VII ZR 190/04](vii-zr-190-04.md) — Die Nichtzulassungsbeschwerde rügt zutreffend einen Verstoß des Berufungsgerichts gegen den Anspruch des Klägers auf rechtliches Gehör gemäß Art.
 - [BGH, Beschluss vom 25.08.2005 - VII ZR 36/05](vii-zr-36-05.md) — Bei der Festsetzung des Streitwerts wurde nicht berücksichtigt, dass mit der Widerklage ein Schadensersatzanspruch gemäß § 717 Abs.
+- [BGH, Beschluss vom 25.08.2005 - VII ZR 6/04](vii-zr-6-04.md) — Mängeln an der Elektroinstallation in der Küche und die Klage auf Auflassung abgewiesen ist. Insoweit wird die Sache zur neuen Verhandlung u
 - [BGH, Beschluss vom 21.07.2005 - VII ZB 39/05](vii-zb-39-05.md) — I. Der Beklagte wendet sich gegen die Zurückweisung seines Antrags, der Klägerin die Kosten des Rechtsstreits aufzuerlegen, nachdem diese den Antrag auf Durchführung des …
 - [BGH, Beschluss vom 21.07.2005 - VII ZB 44/05](vii-zb-44-05.md) — I. Die Beklagte erstellte im Auftrag des Klägers ein Einfamilienhaus mit Garage. Mit der Behauptung, die Werkleistung der Beklagten sei mangelhaft, hat der Kläger im November 2001 …
+- [BGH, Urteil vom 21.07.2005 - VII ZR 240/03](vii-zr-240-03.md) — Tatbestand: Die Kläger erwarben 1992 von der Rechtsvorgängerin der Beklagten (künftig: Beklagte) einen noch nicht vollständig fertig gestell
+- [BGH, Beschluss vom 21.07.2005 - VII ZR 244/04](vii-zr-244-04.md) — BGH, Beschluss vom 21.07.2005 - VII ZR 244/04
+- [BGH, Urteil vom 21.07.2005 - VII ZR 304/03](vii-zr-304-03.md) — Tatbestand: Die Kläger verlangen Ersatz von Mängelbeseitigungskosten. Die Kläger erwarben von den Beklagten Wohnungseigentum. Zusammen mit d
 - [BGH, Beschluss vom 07.07.2005 - VII ZR 255/04](vii-zr-255-04.md) — . Der beim Bundesgerichtshof zugelassene Rechtsanwalt Dr. K. hat namens und im Auftrag der Beklagten gegen die Nichtzulassung der Revision im Ergänzungsurteil des …
+- [BGH, Urteil vom 07.07.2005 - VII ZR 351/03](vii-zr-351-03.md) — Tatbestand: Die Klägerin nimmt die Beklagten im Wege der verlängerten Vollstreckungsabwehrklage in Anspruch. Mit Urteil des Landgerichts B.
+- [BGH, Urteil vom 07.07.2005 - VII ZR 430/02](vii-zr-430-02.md) — Tatbestand: Der Kläger verlangt restliches Honorar für Ingenieurleistungen zur Erschließung ehemaliger Betriebsgrundstücke. Die in drei geso
+- [BGH, Urteil vom 07.07.2005 - VII ZR 59/04](vii-zr-59-04.md) — Tatbestand: Der Kläger macht einen Schadensersatz-, hilfsweise einen Minderungsanspruch mit der Behauptung geltend, die Beklagte habe in zwe
+- [BGH, Beschluss vom 05.07.2005 - VII ZA 7/05](vii-za-7-05.md) — I. Der Antragsteller hat gegen den ihm am 23. Februar 2005 zugestellten Beschluß des Landgerichts mit Fax vom 22. März 2005 persönlich Rechtsbeschwerde eingelegt und gleichzeitig …
+- [BGH, Beschluss vom 05.07.2005 - VII ZB 10/05](vii-zb-10-05.md) — I. Die Gläubiger betreiben gegen den Schuldner die Zwangsvollstreckung aus der vollstreckbaren Ausfertigung einer notariellen Urkunde. Auf Antrag der Gläubiger hat das Amtsgericht …
 - [BGH, Beschluss vom 05.07.2005 - VII ZB 11/05](vii-zb-11-05.md) — ihrer laufenden Ansprüche aus diesem Titel bis einschließlich Mai 2001 und des rückständigen Betrages nebst (Vollstreckungs-)Kosten erwirkte
+- [BGH, Beschluss vom 05.07.2005 - VII ZB 14/05](vii-zb-14-05.md) — in einfacher Ausfer-
+- [BGH, Beschluss vom 05.07.2005 - VII ZB 16/05](vii-zb-16-05.md) — Offenkundigkeit auf einen Nachweis durch derartige Urkunden verzichtet werden kann.
+- [BGH, Beschluss vom 05.07.2005 - VII ZB 23/05](vii-zb-23-05.md) — I. Der Beklagte ist aus dem Kostenfestsetzungsbeschluß des Landgerichts verpflichtet, an den Kläger 1.047,64 € an Kosten zu erstatten. Die Beteiligte, der Rechtsschutzversicherer …
+- [BGH, Beschluss vom 05.07.2005 - VII ZB 27/05](vii-zb-27-05.md) — der Ansprüche der Gläubigerin aus der Grundschuld erklärt. Am 12. Dezember 1997 hat der Notar der Gläubigerin eine vollstreckbare Ausfertigu
+- [BGH, Beschluss vom 05.07.2005 - VII ZB 5/05](vii-zb-5-05.md) — liegenden Vertragsverhältnis zustehen. b) Die Verwertung der gepfändeten Ansprüche des Domaininhabers gegen die Vergabestelle aus dem Registrierungsvertrag kann nach §§ 857 Abs …
+- [BGH, Beschluss vom 23.06.2005 - VII ZB 33/04](vii-zb-33-04.md) — Fehlens der wirtschaftlichen Voraussetzungen abgelehnt. Die sofortige Beschwerde des Klägers ist erfolglos geblieben. Das Beschwerdegericht
 - [BGH, Beschluss vom 23.06.2005 - VII ZR 124/04](vii-zr-124-04.md) — BGH, Beschluss vom 23.06.2005 - VII ZR 124/04
+- [BGH, Urteil vom 23.06.2005 - VII ZR 144/03](vii-zr-144-03.md) — Tatbestand: Die Klägerin verlangt von der Beklagten restlichen Werklohn sowie Schadensersatz wegen der Kosten eines gescheiterten Abnahmeter
+- [BGH, Urteil vom 23.06.2005 - VII ZR 197/03](vii-zr-197-03.md) — Tatbestand: Der Kläger ist Verwalter im Gesamtvollstreckungsverfahren über das Vermögen der F. GmbH. Er verlangt restlichen Werklohn von dem
+- [BGH, Urteil vom 23.06.2005 - VII ZR 200/04](vii-zr-200-04.md) — Tatbestand:
 - [BGH, Beschluss vom 23.06.2005 - VII ZR 204/04](vii-zr-204-04.md) — Die Nichtzulassungsbeschwerde ist gemäß § 26 Nr.
 - [BGH, Beschluss vom 23.06.2005 - VII ZR 277/04](vii-zr-277-04.md) — BGH, Beschluss vom 23.06.2005 - VII ZR 277/04
+- [BGH, Beschluss vom 09.06.2005 - VII ZR 132/04](vii-zr-132-04.md) — des Anspruchs auf Zahlung von 81.775,62 € (159.939,21 DM) und Zinsen und auf Zahlung eines erststelligen Teilbetrags von 12.816,63 € (25.067
+- [BGH, Beschluss vom 09.06.2005 - VII ZR 172/04](vii-zr-172-04.md) — BGH, Beschluss vom 09.06.2005 - VII ZR 172/04
+- [BGH, Urteil vom 09.06.2005 - VII ZR 43/04](vii-zr-43-04.md) — Tatbestand: Die Klägerin verlangt von den Beklagten restlichen Werklohn aus einem Bauvertrag über die Errichtung eines Einfamilienhauses. Am
+- [BGH, Urteil vom 12.05.2005 - VII ZR 161/04](vii-zr-161-04.md) — Tatbestand: Die Klägerin verlangt von der Beklagten restlichen Werklohn für Erd- und Entwässerungsarbeiten an einer Tankstelle sowie für Umb
+- [BGH, Urteil vom 12.05.2005 - VII ZR 349/03](vii-zr-349-03.md) — Tatbestand: Der Kläger ist Architekt und öffentlich bestellter Sachverständiger. Er verlangt von der Beklagten als Rechtsnachfolgerin der C.
+- [BGH, Urteil vom 12.05.2005 - VII ZR 45/04](vii-zr-45-04.md) — Tatbestand: Die Klägerinnen verlangen vom Beklagten als Insolvenzverwalter über das Vermögen der W.-GmbH Schadensersatz und Vorschuß für die
+- [BGH, Urteil vom 12.05.2005 - VII ZR 97/04](vii-zr-97-04.md) — Tatbestand: Die Klägerin wendet sich gegen die Zwangsvollstreckung, welche die Beklagte wegen einer Werklohnforderung im Umfang des von der
+- [BGH, Beschluss vom 28.04.2005 - VII ZR 283/04](vii-zr-283-04.md) — BGH, Beschluss vom 28.04.2005 - VII ZR 283/04
 - [BGH, Beschluss vom 14.04.2005 - VII ZB 34/05](vii-zb-34-05.md) — BGH, Beschluss vom 14.04.2005 - VII ZB 34/05
+- [BGH, Urteil vom 14.04.2005 - VII ZR 14/04](vii-zr-14-04.md) — Tatbestand: Die Klägerin begehrt restlichen Werklohn und als Verzugsschaden die Erstattung von Rechtsanwaltskosten. In der Revision streiten
 - [BGH, Beschluss vom 14.04.2005 - VII ZR 178/04](vii-zr-178-04.md) — BGH, Beschluss vom 14.04.2005 - VII ZR 178/04
+- [BGH, Beschluss vom 14.04.2005 - VII ZR 198/04](vii-zr-198-04.md) — BGH, Beschluss vom 14.04.2005 - VII ZR 198/04
+- [BGH, Urteil vom 14.04.2005 - VII ZR 56/04](vii-zr-56-04.md) — Tatbestand: Die Klägerin verlangt von der Beklagten die Herausgabe von Bürgschaftsurkunden, die sie aufgrund von Sicherungsvereinbarungen in
+- [BGH, Beschluss vom 14.04.2005 - VII ZR 91/04](vii-zr-91-04.md) — BGH, Beschluss vom 14.04.2005 - VII ZR 91/04
+- [BGH, Beschluss vom 05.04.2005 - VII ZB 15/05](vii-zb-15-05.md) — einer Hauptforderung in Höhe von 200.000 DM.
 - [BGH, Beschluss vom 05.04.2005 - VII ZB 17/05](vii-zb-17-05.md) — der unzutreffenden Bezeichnung der Anspruchsgrundlage vorzugehen, selbst wenn der Anspruch aus seiner Sicht aus einem anderen Grunde berecht
+- [BGH, Beschluss vom 05.04.2005 - VII ZB 18/05](vii-zb-18-05.md) — der Frage, ob eine eigenhändige Unterschrift erforderlich ist, zugelassene Rechtsbeschwerde der Gläubigerin.
 - [BGH, Beschluss vom 05.04.2005 - VII ZB 19/05](vii-zb-19-05.md) — grundsätzlicher Bedeutung zugelassen. Mit dieser begehrt die Gläubigerin, den Pfändungs- und Überweisungsbeschluß auf die Gebühr von 392,42
+- [BGH, Beschluss vom 05.04.2005 - VII ZB 20/05](vii-zb-20-05.md) — einer Hauptforderung in Höhe von 3.078,22 € zuzüglich Zinsen und Kosten. Er erwirkte einen Pfändungs- und Überweisungsbeschluß, der die gege
 - [BGH, Beschluss vom 05.04.2005 - VII ZB 28/05](vii-zb-28-05.md) — einer Geldforderung nebst aufgelaufener Zinsen und Kosten.
+- [BGH, Beschluss vom 31.03.2005 - VII ZR 134/04](vii-zr-134-04.md) — BGH, Beschluss vom 31.03.2005 - VII ZR 134/04
+- [BGH, Urteil vom 31.03.2005 - VII ZR 180/04](vii-zr-180-04.md) — Tatbestand: Der Kläger verlangt als Insolvenzverwalter der V.-GmbH, der früheren Klägerin (im folgenden nur noch: Klägerin), Restwerklohn. D
+- [BGH, Urteil vom 31.03.2005 - VII ZR 346/03](vii-zr-346-03.md) — Tatbestand: Die Klägerin verlangt vom Beklagten Schadensersatz in Höhe von 65.002,63 €. Der Beklagte macht mit der Widerklage Werklohn für n
 - [BGH, Versäumnisurteil vom 31.03.2005 - VII ZR 369/02](vii-zr-369-02.md) — Mängeln von Bauleistungen ist nicht deshalb ausgeschlossen, weil die Aufklärung der Mängel schwierig und zeitraubend ist.
 - [BGH, Beschluss vom 10.03.2005 - VII ZB 1/04](vii-zb-1-04.md) — BGH, Beschluss vom 10.03.2005 - VII ZB 1/04
+- [BGH, Beschluss vom 10.03.2005 - VII ZB 19/04](vii-zb-19-04.md) — Versäumung der Berufungsbegründungsfrist gewährt.
 - [BGH, Beschluss vom 10.03.2005 - VII ZB 32/04](vii-zb-32-04.md) — I. Die Streithelfer zu 1 bis 4 der Beklagten wenden sich gegen einen Beschluß, wonach sie die Kosten, die ihnen als Streithelfer entstanden sind, selbst zu tragen haben. Der …
+- [BGH, Beschluss vom 10.03.2005 - VII ZR 187/04](vii-zr-187-04.md) — BGH, Beschluss vom 10.03.2005 - VII ZR 187/04
+- [BGH, Urteil vom 10.03.2005 - VII ZR 220/03](vii-zr-220-03.md) — Tatbestand: Der Kläger verlangt Schadensersatz wegen angeblich fehlerhafter Objektüberwachung im Rahmen eines von ihm behaupteten Architekte
+- [BGH, Urteil vom 10.03.2005 - VII ZR 321/03](vii-zr-321-03.md) — Tatbestand: Die Klägerin fordert vom Beklagten Minderung und Schadensersatz. Sie erwarb 1994 vom Beklagten eine fast fertiggestellte Doppelh
+- [BGH, Beschluss vom 10.03.2005 - VII ZR 77/04](vii-zr-77-04.md) — BGH, Beschluss vom 10.03.2005 - VII ZR 77/04
+- [BGH, Beschluss vom 09.03.2005 - VII ZB 47/05](vii-zb-47-05.md) — offenbarer Unrichtigkeit dahin berichtigt, daß es im ersten Satz statt
+- [BGH, Beschluss vom 24.02.2005 - VII ZR 103/04](vii-zr-103-04.md) — BGH, Beschluss vom 24.02.2005 - VII ZR 103/04
+- [BGH, Urteil vom 24.02.2005 - VII ZR 141/03](vii-zr-141-03.md) — Tatbestand: Die Klägerin verlangt als Rechtsnachfolgerin der I. GmbH Ersatz der durch einen gestörten Bauablauf entstandenen Mehraufwendunge
+- [BGH, Beschluss vom 24.02.2005 - VII ZR 142/04](vii-zr-142-04.md) — BGH, Beschluss vom 24.02.2005 - VII ZR 142/04
 - [BGH, Beschluss vom 24.02.2005 - VII ZR 193/04](vii-zr-193-04.md) — Nach § 116 Satz 1 Nr. 2 ZPO kommt für die Klägerin als GmbH eine Bewilligung von Prozeßkostenhilfe nur in Betracht, wenn die Unterlassung der Rechtsverfolgung oder …
 - [BGH, Versäumnisurteil vom 24.02.2005 - VII ZR 225/03](vii-zr-225-03.md) — BGH, Versäumnisurteil vom 24.02.2005 - VII ZR 225/03
+- [BGH, Beschluss vom 24.02.2005 - VII ZR 275/04](vii-zr-275-04.md) — BGH, Beschluss vom 24.02.2005 - VII ZR 275/04
+- [BGH, Urteil vom 24.02.2005 - VII ZR 328/03](vii-zr-328-03.md) — einer vertragswidrigen Ausführung des Bauwerks auf Gewährleistung in Anspruch, die auf eine vertragswidrige Planung seines Architekten zurüc
+- [BGH, Beschluss vom 24.02.2005 - VII ZR 340/03](vii-zr-340-03.md) — BGH, Beschluss vom 24.02.2005 - VII ZR 340/03
+- [BGH, Beschluss vom 24.02.2005 - VII ZR 86/04](vii-zr-86-04.md) — I. Die Klägerin hat die Beklagte auf Zahlung von 21.985,55 € (43.000 DM) aus einer Bürgschaft in Anspruch genommen. Die Firma I. beauftragte die Klägerin mit Rodungsarbeiten, die …
+- [BGH, Beschluss vom 10.02.2005 - VII ZB 22/04](vii-zb-22-04.md) — Fehlerhaftigkeit ihres Gutachtens. Der Schriftsatz ist der Streitverkündeten zugestellt worden. Sie hat hiergegen Beschwerde erhoben und bea
+- [BGH, Beschluss vom 10.02.2005 - VII ZR 150/04](vii-zr-150-04.md) — BGH, Beschluss vom 10.02.2005 - VII ZR 150/04
 - [BGH, Urteil vom 10.02.2005 - VII ZR 184/04](vii-zr-184-04.md) — Tatbestand: Die beklagte Bank finanzierte die S. GmbH, einen Bauträger. Der Kläger begehrt von der Beklagten die Rückzahlung des Betrags, de
 - [BGH, Urteil vom 10.02.2005 - VII ZR 373/03](vii-zr-373-03.md) — Tatbestand: Der Kläger verlangt die Herausgabe zweier Bürgschaftsurkunden, die er der Beklagten überlassen hat. Der Kläger ist Eigentümer ei
+- [BGH, Urteil vom 27.01.2005 - VII ZR 158/03](vii-zr-158-03.md) — Tatbestand: Der Kläger verlangt von dem beklagten Architekten Ersatz der Kosten für die Erneuerung einer Geschoßdecke und eines Balkons sowi
 - [BGH, Urteil vom 27.01.2005 - VII ZR 238/03](vii-zr-238-03.md) — Tatbestand:
+- [BGH, Urteil vom 27.01.2005 - VII ZR 276/03](vii-zr-276-03.md) — Mietausfalls und wegen entgangener Abschreibungsvorteile aberkannt worden sind. In diesem Umfang wird die Sache zur neuen Verhandlung und En
+- [BGH, Beschluss vom 13.01.2005 - VII ZR 112/04](vii-zr-112-04.md) — BGH, Beschluss vom 13.01.2005 - VII ZR 112/04
+- [BGH, Urteil vom 13.01.2005 - VII ZR 15/04](vii-zr-15-04.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Mängelbeseitigungskosten. Die Parteien streiten im Revisionsverfahren darüber, ob dieser
+- [BGH, Urteil vom 13.01.2005 - VII ZR 28/04](vii-zr-28-04.md) — 3-
 - [BGH, Versäumnisurteil vom 13.01.2005 - VII ZR 353/03](vii-zr-353-03.md) — unzulässiger Unterschreitung des Mindestsatzes unwirksam ist.
+- [BGH, Beschluss vom 13.01.2005 - VII ZR 364/03](vii-zr-364-03.md) — BGH, Beschluss vom 13.01.2005 - VII ZR 364/03

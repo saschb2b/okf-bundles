@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BY"
 description: "BGH-Entscheidungen zu BY, geordnet nach Vorschrift."
 tags: [register, navigation, by]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

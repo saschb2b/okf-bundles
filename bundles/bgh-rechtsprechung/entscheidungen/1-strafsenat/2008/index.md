@@ -1,61 +1,151 @@
 # 1. Strafsenat – 2008
 
-57 Entscheidung(en).
+147 Entscheidung(en).
 
 - [BGH, Urteil vom 17.12.2008 - 1 StR 552/08](1-str-552-08.md) — sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 17.12.2008 - 1 StR 648/08](1-str-648-08.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 17.12.2008 - 1 StR 664/08](1-str-664-08.md) — Bestechung im geschäftlichen Verkehr
+- [BGH, Beschluss vom 16.12.2008 - 1 StR 689/08](1-str-689-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 11.12.2008 - 1 StR 670/08](1-str-670-08.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 10.12.2008 - 1 StR 322/08](1-str-322-08.md) — Steuerhinterziehung
 - [BGH, Urteil vom 04.12.2008 - 1 StR 327/08](1-str-327-08.md) — Totschlags
 - [BGH, Beschluss vom 04.12.2008 - 1 StR 510/08](1-str-510-08.md) — Beihilfe zum Betrug
 - [BGH, Beschluss vom 04.12.2008 - 1 StR 608/08](1-str-608-08.md) — Totschlags u. a.
 - [BGH, Beschluss vom 03.12.2008 - 1 StR 615/08](1-str-615-08.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 03.12.2008 - 1 StR 654/08](1-str-654-08.md) — gefährlicher Körperverletzung
-- [BGH, Urteil vom 02.12.2008 - 1 StR 375/08](1-str-375-08.md) — Steuerhinterziehung u.a.
 - [BGH, Urteil vom 02.12.2008 - 1 StR 416/08](1-str-416-08.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 20.11.2008 - 1 StR 546/08](1-str-546-08.md) — Beihilfe zur Steuerhehlerei
 - [BGH, Beschluss vom 19.11.2008 - 1 StR 593/08](1-str-593-08.md) — schweren sexuellen Missbrauchs von Kindern
+- [BGH, Urteil vom 18.11.2008 - 1 StR 372/08](1-str-372-08.md) — Vergewaltigung
+- [BGH, Beschluss vom 18.11.2008 - 1 StR 568/08](1-str-568-08.md) — Betruges u.a.
+- [BGH, Beschluss vom 18.11.2008 - 1 StR 621/08](1-str-621-08.md) — schwerer Körperverletzung u.a.
+- [BGH, Beschluss vom 07.11.2008 - 1 StR 581/08](1-str-581-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 06.11.2008 - 1 StR 611/08](1-str-611-08.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 05.11.2008 - 1 StR 583/08](1-str-583-08.md) — zu 1.: Anstiftung zur gefährlichen Körperverletzung u.a. zu 2.: gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 05.11.2008 - 1 StR 605/08](1-str-605-08.md) — Mordes
+- [BGH, Beschluss vom 05.11.2008 - 1 StR 607/08](1-str-607-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 04.11.2008 - 1 StR 489/08](1-str-489-08.md) — gewerbsmäßigen Einschleusens von Ausländern
+- [BGH, Beschluss vom 23.10.2008 - 1 StR 392/08](1-str-392-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 23.10.2008 - 1 StR 526/08](1-str-526-08.md) — zu 1.: unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.10.2008 - 1 StR 535/08](1-str-535-08.md) — Beihilfe zum Wohnungseinbruchsdiebstahl u.a.
+- [BGH, Beschluss vom 22.10.2008 - 1 StR 503/08](1-str-503-08.md) — Anstiftung zur besonders schweren Brandstiftung u.a.
+- [BGH, Urteil vom 21.10.2008 - 1 StR 292/08](1-str-292-08.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 21.10.2008 - 1 StR 536/08](1-str-536-08.md) — BGH, Beschluss vom 21.10.2008 - 1 StR 536/08
+- [BGH, Urteil vom 14.10.2008 - 1 StR 260/08](1-str-260-08.md) — Vorteilsgewährung
+- [BGH, Urteil vom 09.10.2008 - 1 StR 238/08](1-str-238-08.md) — Betruges
+- [BGH, Beschluss vom 09.10.2008 - 1 StR 359/08](1-str-359-08.md) — versuchter räuberischer Erpressung
 - [BGH, Beschluss vom 09.10.2008 - 1 StR 421/08](1-str-421-08.md) — Mordes u. a.
+- [BGH, Beschluss vom 08.10.2008 - 1 StR 441/08](1-str-441-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 08.10.2008 - 1 StR 497/08](1-str-497-08.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 02.10.2008 - 1 StR 388/08](1-str-388-08.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 29.09.2008 - 1 StR 466/08](1-str-466-08.md) — nachträglicher Anordnung der Sicherungsverwahrung
 - [BGH, Beschluss vom 24.09.2008 - 1 StR 478/08](1-str-478-08.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 23.09.2008 - 1 StR 355/08](1-str-355-08.md) — Beihilfe zur Steuerhinterziehung u.a.
 - [BGH, Urteil vom 23.09.2008 - 1 StR 420/08](1-str-420-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.09.2008 - 1 StR 484/08](1-str-484-08.md) — Verschleppungsabsicht bei Vorliegen der weiteren Voraussetzungen möglich ist.
+- [BGH, Beschluss vom 22.09.2008 - 1 StR 323/08](1-str-323-08.md) — Beihilfe zur Steuerhinterziehung
+- [BGH, Beschluss vom 22.09.2008 - 1 StR 347/08](1-str-347-08.md) — gewerbsmäßigen Schmuggels
+- [BGH, Beschluss vom 17.09.2008 - 1 StR 415/08](1-str-415-08.md) — Bedrohung u.a.
+- [BGH, Beschluss vom 17.09.2008 - 1 StR 436/08](1-str-436-08.md) — Wohnungseinbruchdiebstahls u.a.
+- [BGH, Beschluss vom 17.09.2008 - 1 StR 496/08](1-str-496-08.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 09.09.2008 - 1 StR 414/08](1-str-414-08.md) — Fälschung von Zahlungskarten mit Garantiefunktion u.a.
 - [BGH, Beschluss vom 09.09.2008 - 1 StR 449/08](1-str-449-08.md) — schweren sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Entscheidung vom 09.09.2008 - 1 StR 459/08](1-str-459-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Urteil vom 04.09.2008 - 1 StR 383/08](1-str-383-08.md) — Beihilfe zur unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 28.08.2008 - 1 StR 443/08](1-str-443-08.md) — zu 1.: Steuerhinterziehung u.a. zu 2. - 4.: Steuerhehlerei u.a.
 - [BGH, Beschluss vom 27.08.2008 - 1 StR 343/08](1-str-343-08.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 27.08.2008 - 1 StR 35/08](1-str-35-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 27.08.2008 - 1 StR 384/08](1-str-384-08.md) — Totschlags
 - [BGH, Beschluss vom 27.08.2008 - 1 StR 423/08](1-str-423-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 27.08.2008 - 1 StR 431/08](1-str-431-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Entscheidung vom 27.08.2008 - 1 StR 433/08](1-str-433-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 27.08.2008 - 1 StR 439/08](1-str-439-08.md) — Mordes
 - [BGH, Beschluss vom 27.08.2008 - 1 StR 452/08](1-str-452-08.md) — schweren sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 26.08.2008 - 1 StR 352/08](1-str-352-08.md) — zu 1. bis 3.: gewerbsmäßigen und bandenmäßigen Einschleusens von Ausländern u.a. zu 4.: Menschenhandels u.a. zu 5.: Einschleusens von Auslän
 - [BGH, Beschluss vom 26.08.2008 - 1 StR 371/08](1-str-371-08.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Entscheidung vom 26.08.2008 - 1 StR 391/08](1-str-391-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Entscheidung vom 26.08.2008 - 1 StR 398/08](1-str-398-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 26.08.2008 - 1 StR 417/08](1-str-417-08.md) — zu 1. unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a. zu 2. unerlaubter Einfuhr von Betäubungsmitteln in nicht gering
 - [BGH, Beschluss vom 13.08.2008 - 1 StR 162/08](1-str-162-08.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 13.08.2008 - 1 StR 382/08](1-str-382-08.md) — Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 12.08.2008 - 1 StR 369/08](1-str-369-08.md) — schweren räuberischen Diebstahls u. a.
+- [BGH, Beschluss vom 12.08.2008 - 1 StR 390/08](1-str-390-08.md) — BGH, Beschluss vom 12.08.2008 - 1 StR 390/08
+- [BGH, Beschluss vom 30.07.2008 - 1 StR 25/08](1-str-25-08.md) — Mordes u. a. hier: Wiederaufnahme des Verfahrens
+- [BGH, Urteil vom 29.07.2008 - 1 StR 248/08](1-str-248-08.md) — schweren sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 17.07.2008 - 1 StR 353/08](1-str-353-08.md) — Totschlags
 - [BGH, Entscheidung vom 16.07.2008 - 1 StR 259/08](1-str-259-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 16.07.2008 - 1 StR 289/08](1-str-289-08.md) — Totschlags
+- [BGH, Beschluss vom 16.07.2008 - 1 StR 348/08](1-str-348-08.md) — zu 1.: unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 15.07.2008 - 1 StR 231/08](1-str-231-08.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 09.07.2008 - 1 StR 280/08](1-str-280-08.md) — versuchten Mordes u. a.
 - [BGH, Entscheidung vom 09.07.2008 - 1 StR 316/08](1-str-316-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 09.07.2008 - 1 StR 336/08](1-str-336-08.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 03.07.2008 - 1 StR 290/08](1-str-290-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 02.07.2008 - 1 StR 174/08](1-str-174-08.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 02.07.2008 - 1 StR 300/08](1-str-300-08.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 01.07.2008 - 1 StR 183/08](1-str-183-08.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 01.07.2008 - 1 StR 582/06](1-str-582-06.md) — Mordes u.a. hier: Antrag der Pflichtverteidigerin auf Pauschvergütung
+- [BGH, Urteil vom 01.07.2008 - 1 StR 654/07](1-str-654-07.md) — Totschlags
+- [BGH, Beschluss vom 19.06.2008 - 1 StR 217/08](1-str-217-08.md) — Mordes
 - [BGH, Beschluss vom 19.06.2008 - 1 StR 278/08](1-str-278-08.md) — Betruges u.a.
+- [BGH, Beschluss vom 18.06.2008 - 1 StR 120/08](1-str-120-08.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 18.06.2008 - 1 StR 185/08](1-str-185-08.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 18.06.2008 - 1 StR 204/08](1-str-204-08.md) — Betrugs u.a.
 - [BGH, Beschluss vom 18.06.2008 - 1 StR 241/08](1-str-241-08.md) — Untreue u. a.
+- [BGH, Beschluss vom 18.06.2008 - 1 StR 263/08](1-str-263-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 17.06.2008 - 1 StR 160/08](1-str-160-08.md) — sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Urteil vom 17.06.2008 - 1 StR 227/08](1-str-227-08.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Beschluss vom 17.06.2008 - 1 StR 229/08](1-str-229-08.md) — gewerbsmäßiger Fälschung von Zahlungskarten mit Garantiefunktion u.a.
+- [BGH, Beschluss vom 17.06.2008 - 1 StR 270/08](1-str-270-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 05.06.2008 - 1 StR 126/08](1-str-126-08.md) — Betruges u.a.
+- [BGH, Urteil vom 03.06.2008 - 1 StR 59/08](1-str-59-08.md) — versuchten Totschlags u.a.
+- [BGH, Urteil vom 30.05.2008 - 1 StR 166/07](1-str-166-07.md) — strafbarer Werbung
 - [BGH, Beschluss vom 29.05.2008 - 1 StR 189/08](1-str-189-08.md) — Mordes u.a.
+- [BGH, Beschluss vom 29.05.2008 - 1 StR 228/08](1-str-228-08.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 28.05.2008 - 1 StR 192/08](1-str-192-08.md) — schwerer Brandstiftung u.a.
 - [BGH, Beschluss vom 28.05.2008 - 1 StR 196/08](1-str-196-08.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 28.05.2008 - 1 StR 243/08](1-str-243-08.md) — Verstoßes gegen Weisungen während der Führungsaufsicht
 - [BGH, Beschluss vom 20.05.2008 - 1 StR 223/08](1-str-223-08.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 20.05.2008 - 1 StR 233/08](1-str-233-08.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 07.05.2008 - 1 StR 203/08](1-str-203-08.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 06.05.2008 - 1 StR 144/08](1-str-144-08.md) — schwerer Vergewaltigung
 - [BGH, Beschluss vom 06.05.2008 - 1 StR 176/08](1-str-176-08.md) — schweren sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 24.04.2008 - 1 StR 169/08](1-str-169-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 23.04.2008 - 1 StR 165/08](1-str-165-08.md) — räuberischen Diebstahls u.a.
 - [BGH, Beschluss vom 17.04.2008 - 1 StR 172/08](1-str-172-08.md) — sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 16.04.2008 - 1 StR 83/08](1-str-83-08.md) — Verletzung des Dienstgeheimnisses
+- [BGH, Beschluss vom 15.04.2008 - 1 StR 104/08](1-str-104-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 15.04.2008 - 1 StR 116/08](1-str-116-08.md) — Hehlerei u.a.
+- [BGH, Beschluss vom 15.04.2008 - 1 StR 132/08](1-str-132-08.md) — Mordes u.a.
+- [BGH, Beschluss vom 15.04.2008 - 1 StR 166/08](1-str-166-08.md) — gewerbsmäßigen Betruges
+- [BGH, Beschluss vom 15.04.2008 - 1 StR 167/08](1-str-167-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 03.04.2008 - 1 StR 105/08](1-str-105-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge mit Waffen u.a.
 - [BGH, Beschluss vom 03.04.2008 - 1 StR 153/08](1-str-153-08.md) — Die Strafkammer hat den Beschuldigten in einem psychiatrischen Kran- kenhaus untergebracht (§ 63 StGB).
 - [BGH, Beschluss vom 03.04.2008 - 1 StR 51/08](1-str-51-08.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 02.04.2008 - 1 ARs 3/08](1-ars-3-08.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Beschluss vom 01.04.2008 - 1 StR 115/08](1-str-115-08.md) — Bandenbetruges u.a.
 - [BGH, Beschluss vom 20.03.2008 - 1 StR 488/07](1-str-488-07.md) — Untreue u.a.
 - [BGH, Beschluss vom 18.03.2008 - 1 StR 103/08](1-str-103-08.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 18.03.2008 - 1 StR 21/08](1-str-21-08.md) — besonders schwerer sexueller Nötigung hier: Anhörungsrüge vom 18. Februar 2008
 - [BGH, Beschluss vom 18.03.2008 - 1 StR 46/08](1-str-46-08.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 18.03.2008 - 1 StR 72/08](1-str-72-08.md) — unerlaubter bandenmäßiger Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 18.03.2008 - 1 StR 91/08](1-str-91-08.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 18.03.2008 - 1 StR 92/08](1-str-92-08.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 05.03.2008 - 1 StR 648/07](1-str-648-07.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 04.03.2008 - 1 StR 16/08](1-str-16-08.md) — Vergewaltigung
 - [BGH, Beschluss vom 20.02.2008 - 1 StR 631/07](1-str-631-07.md) — versuchter gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 19.02.2008 - 1 StR 503/07](1-str-503-07.md) — Betruges u.a. hier: Adhäsionsantrag des J. M. vom 22. Dezember 2007,
+- [BGH, Beschluss vom 19.02.2008 - 1 StR 596/07](1-str-596-07.md) — Betruges
+- [BGH, Beschluss vom 19.02.2008 - 1 StR 62/08](1-str-62-08.md) — sexueller Nötigung
 - [BGH, Beschluss vom 19.02.2008 - 1 StR 653/07](1-str-653-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.02.2008 - 1 StR 542/07](1-str-542-07.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 12.02.2008 - 1 StR 275/07](1-str-275-07.md) — Geldfälschung hier: Antrag auf rechtliches Gehör
+- [BGH, Urteil vom 12.02.2008 - 1 StR 538/07](1-str-538-07.md) — sexueller Nötigung/Vergewaltigung u.a.
 - [BGH, Beschluss vom 12.02.2008 - 1 StR 649/07](1-str-649-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 12.02.2008 - 1 StR 657/07](1-str-657-07.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 22.01.2008 - 1 StR 607/07](1-str-607-07.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.01.2008 - 1 StR 627/07](1-str-627-07.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.01.2008 - 1 StR 634/07](1-str-634-07.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 10.01.2008 - 1 StR 617/07](1-str-617-07.md) — Totschlags
+- [BGH, Beschluss vom 08.01.2008 - 1 StR 606/07](1-str-606-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.01.2008 - 1 StR 644/07](1-str-644-07.md) — gefährlicher Körperverletzung u.a.

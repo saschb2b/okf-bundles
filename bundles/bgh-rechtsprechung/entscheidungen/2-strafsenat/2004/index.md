@@ -1,53 +1,150 @@
 # 2. Strafsenat – 2004
 
-125 Entscheidung(en).
+278 Entscheidung(en).
 
 - [BGH, Urteil vom 22.12.2004 - 2 StR 365/04](2-str-365-04.md) — Veröffentlichung: ja StGB § 130 Abs. 2 Nr. 1 Buchst. a, b und d); § 130 Abs. 3 Zum Tatbestand des Verharmlosens in einer öffentlichen Versammlung im Sinne von § 130 Abs. 3 StGB …
+- [BGH, Beschluss vom 22.12.2004 - 2 StR 417/04](2-str-417-04.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 22.12.2004 - 2 StR 470/04](2-str-470-04.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 22.12.2004 - 2 StR 498/04](2-str-498-04.md) — Betrugs
 - [BGH, Beschluss vom 17.12.2004 - 2 ARs 445/04](2-ars-445-04.md) — Betruges
 - [BGH, Beschluss vom 17.12.2004 - 2 StR 486/04](2-str-486-04.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 15.12.2004 - 2 ARs 435/04](2-ars-435-04.md) — Betrugs
 - [BGH, Beschluss vom 15.12.2004 - 2 StR 265/04](2-str-265-04.md) — Mordes
 - [BGH, Beschluss vom 15.12.2004 - 2 StR 444/04](2-str-444-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 10.12.2004 - 2 StR 441/04](2-str-441-04.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 08.12.2004 - 2 StR 362/04](2-str-362-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 08.12.2004 - 2 StR 432/04](2-str-432-04.md) — Das Landgericht hat im Sicherungsverfahren die Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus angeordnet.
+- [BGH, Beschluss vom 08.12.2004 - 2 StR 451/04](2-str-451-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.12.2004 - 2 StR 472/04](2-str-472-04.md) — Mordes u.a.
+- [BGH, Beschluss vom 08.12.2004 - 2 StR 473/04](2-str-473-04.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 03.12.2004 - 2 ARs 377/04](2-ars-377-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 03.12.2004 - 2 StR 156/04](2-str-156-04.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 03.12.2004 - 2 StR 490/04](2-str-490-04.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 01.12.2004 - 2 StR 356/04](2-str-356-04.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 01.12.2004 - 2 StR 428/04](2-str-428-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 01.12.2004 - 2 StR 78/04](2-str-78-04.md) — versuchten Totschlags u.a.
+- [BGH, Urteil vom 25.11.2004 - 2 StR 274/04](2-str-274-04.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 25.11.2004 - 2 StR 315/04](2-str-315-04.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 24.11.2004 - 2 StR 426/04](2-str-426-04.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 24.11.2004 - 2 StR 450/04](2-str-450-04.md) — Betruges u. a.
+- [BGH, Beschluss vom 19.11.2004 - 2 StR 252/04](2-str-252-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 19.11.2004 - 2 StR 431/04](2-str-431-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 19.11.2004 - 2 StR 443/04](2-str-443-04.md) — Anstiftung zur unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 19.11.2004 - 2 StR 453/04](2-str-453-04.md) — sexuellen Mißbrauchs einer widerstandsunfähigen Person
+- [BGH, Beschluss vom 12.11.2004 - 2 ARs 329/04](2-ars-329-04.md) — Betruges
+- [BGH, Beschluss vom 12.11.2004 - 2 StR 280/04](2-str-280-04.md) — Vergewaltigung
 - [BGH, Beschluss vom 12.11.2004 - 2 StR 367/04](2-str-367-04.md) — Mordes
+- [BGH, Beschluss vom 12.11.2004 - 2 StR 380/04](2-str-380-04.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 12.11.2004 - 2 StR 407/04](2-str-407-04.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 12.11.2004 - 2 StR 429/04](2-str-429-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 10.11.2004 - 2 StR 248/04](2-str-248-04.md) — Totschlags
+- [BGH, Urteil vom 10.11.2004 - 2 StR 329/04](2-str-329-04.md) — schweren räuberischen Diebstahls u.a.
 - [BGH, Beschluss vom 10.11.2004 - 2 StR 387/04](2-str-387-04.md) — Betruges u. a.
+- [BGH, Beschluss vom 03.11.2004 - 2 ARs 356/04](2-ars-356-04.md) — Verletzung der Unterhaltspflicht
 - [BGH, Beschluss vom 03.11.2004 - 2 ARs 361/04](2-ars-361-04.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 03.11.2004 - 2 StR 295/04](2-str-295-04.md) — Totschlags
+- [BGH, Beschluss vom 03.11.2004 - 2 StR 374/04](2-str-374-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 03.11.2004 - 2 StR 437/04](2-str-437-04.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 29.10.2004 - 2 StR 381/04](2-str-381-04.md) — Anstiftung zur besonders schweren Brandstiftung u.a.
 - [BGH, Beschluss vom 29.10.2004 - 2 StR 401/04](2-str-401-04.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 29.10.2004 - 2 StR 423/04](2-str-423-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 20.10.2004 - 2 StR 277/04](2-str-277-04.md) — Betruges
+- [BGH, Beschluss vom 20.10.2004 - 2 StR 398/04](2-str-398-04.md) — schweren sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 20.10.2004 - 2 StR 408/04](2-str-408-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 15.10.2004 - 2 StR 246/04](2-str-246-04.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 15.10.2004 - 2 StR 316/04](2-str-316-04.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 15.10.2004 - 2 StR 350/04](2-str-350-04.md) — Zuhälterei u.a.
+- [BGH, Urteil vom 13.10.2004 - 2 StR 206/04](2-str-206-04.md) — Beihilfe zum Totschlag u.a.
 - [BGH, Beschluss vom 13.10.2004 - 2 StR 346/04](2-str-346-04.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 08.10.2004 - 2 StR 391/04](2-str-391-04.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 06.10.2004 - 2 StR 312/04](2-str-312-04.md) — Zuhälterei u.a.
+- [BGH, Beschluss vom 06.10.2004 - 2 StR 323/04](2-str-323-04.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 06.10.2004 - 2 StR 331/04](2-str-331-04.md) — Mordes u.a.
+- [BGH, Beschluss vom 06.10.2004 - 2 StR 372/04](2-str-372-04.md) — Betruges
+- [BGH, Beschluss vom 06.10.2004 - 2 StR 413/04](2-str-413-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 30.09.2004 - 2 StR 267/04](2-str-267-04.md) — Mordes u.a.
 - [BGH, Beschluss vom 30.09.2004 - 2 StR 303/04](2-str-303-04.md) — versuchter besonders schwerer Vergewaltigung u.a.
 - [BGH, Beschluss vom 29.09.2004 - 2 ARs 307/04](2-ars-307-04.md) — Vergewaltigung
 - [BGH, Beschluss vom 29.09.2004 - 2 ARs 347/04](2-ars-347-04.md) — räuberischen Diebstahls
+- [BGH, Urteil vom 29.09.2004 - 2 StR 149/04](2-str-149-04.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Urteil vom 29.09.2004 - 2 StR 178/04](2-str-178-04.md) — des Verdachts der Vergewaltigung
+- [BGH, Beschluss vom 23.09.2004 - 2 ARs 317/04](2-ars-317-04.md) — Urkundenfälschung Verteidiger:
+- [BGH, Beschluss vom 15.09.2004 - 2 ARs 312/04](2-ars-312-04.md) — Verletzung der Unterhaltspflicht
+- [BGH, Urteil vom 15.09.2004 - 2 StR 173/04](2-str-173-04.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Urteil vom 15.09.2004 - 2 StR 203/04](2-str-203-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 15.09.2004 - 2 StR 232/04](2-str-232-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 15.09.2004 - 2 StR 242/04](2-str-242-04.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 15.09.2004 - 2 StR 288/04](2-str-288-04.md) — versuchter räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 01.09.2004 - 2 ARs 325/04](2-ars-325-04.md) — Betruges u.a.
+- [BGH, Beschluss vom 01.09.2004 - 2 StR 268/04](2-str-268-04.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 01.09.2004 - 2 StR 313/04](2-str-313-04.md) — Veröffentlichung: ja StGB § 250 Abs. 2 Nr. 1 Das Verwenden einer Waffe oder eines gefährlichen Werkzeuges als Drohmittel bei § 250 Abs. 2 Nr. 1 StGB setzt voraus, daß die Drohung …
+- [BGH, Beschluss vom 01.09.2004 - 2 StR 335/04](2-str-335-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 01.09.2004 - 2 StR 353/04](2-str-353-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 25.08.2004 - 2 ARs 280/04](2-ars-280-04.md) — Fälschung beweiserheblicher Daten pp.
+- [BGH, Beschluss vom 25.08.2004 - 2 StR 279/04](2-str-279-04.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 25.08.2004 - 2 StR 302/04](2-str-302-04.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 20.08.2004 - 2 ARs 275/04](2-ars-275-04.md) — versuchten Raubes
 - [BGH, Beschluss vom 20.08.2004 - 2 StR 211/04](2-str-211-04.md) — Geiselnahme u. a.
+- [BGH, Beschluss vom 20.08.2004 - 2 StR 281/04](2-str-281-04.md) — versuchten Totschlags
 - [BGH, Beschluss vom 20.08.2004 - 2 StR 289/04](2-str-289-04.md) — Diebstahls u. a.
+- [BGH, Beschluss vom 20.08.2004 - 2 StR 311/04](2-str-311-04.md) — schweren Raubes
+- [BGH, Beschluss vom 20.08.2004 - 2 StR 434/03](2-str-434-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 18.08.2004 - 2 StR 249/04](2-str-249-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 18.08.2004 - 2 StR 259/04](2-str-259-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 18.08.2004 - 2 StR 456/03](2-str-456-03.md) — Betrugs
 - [BGH, Beschluss vom 13.08.2004 - 2 StR 125/04](2-str-125-04.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 13.08.2004 - 2 StR 216/04](2-str-216-04.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 13.08.2004 - 2 StR 234/04](2-str-234-04.md) — Totschlags u.a.
 - [BGH, Beschluss vom 11.08.2004 - 2 StR 184/04](2-str-184-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 11.08.2004 - 2 StR 224/04](2-str-224-04.md) — sexueller Nötigung u. a.
+- [BGH, Beschluss vom 11.08.2004 - 2 StR 226/04](2-str-226-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a
 - [BGH, Beschluss vom 11.08.2004 - 2 StR 34/04](2-str-34-04.md) — Mordes
 - [BGH, Beschluss vom 06.08.2004 - 2 StR 241/04](2-str-241-04.md) — Falschbeurkundung im Amt
+- [BGH, Beschluss vom 06.08.2004 - 2 StR 282/04](2-str-282-04.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 06.08.2004 - 2 StR 291/04](2-str-291-04.md) — schweren Raubes
 - [BGH, Beschluss vom 06.08.2004 - 2 StR 523/03](2-str-523-03.md) — Verkehrsordnungswidrigkeit
 - [BGH, Urteil vom 04.08.2004 - 2 StR 183/04](2-str-183-04.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 04.08.2004 - 2 StR 261/04](2-str-261-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 04.08.2004 - 2 StR 262/04](2-str-262-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 28.07.2004 - 2 ARs 247/04](2-ars-247-04.md) — Diebstahls im besonders schweren Fall
+- [BGH, Beschluss vom 28.07.2004 - 2 StR 189/04](2-str-189-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 28.07.2004 - 2 StR 199/04](2-str-199-04.md) — Nötigung
+- [BGH, Beschluss vom 28.07.2004 - 2 StR 207/04](2-str-207-04.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 28.07.2004 - 2 StR 209/04](2-str-209-04.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 28.07.2004 - 2 StR 257/04](2-str-257-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 23.07.2004 - 2 StR 101/04](2-str-101-04.md) — erpresserischen Menschenraubs u.a.
+- [BGH, Beschluss vom 23.07.2004 - 2 StR 158/04](2-str-158-04.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 21.07.2004 - 2 ARs 189/04](2-ars-189-04.md) — Der Generalbundesanwalt hat in seiner Zuschrift an den Senat ausgeführt: "Die Zuständigkeit richtet sich vorliegend nach § 462 a Abs.
+- [BGH, Beschluss vom 16.07.2004 - 2 StR 191/04](2-str-191-04.md) — Totschlags
+- [BGH, Beschluss vom 16.07.2004 - 2 StR 471/03](2-str-471-03.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Urteil vom 16.07.2004 - 2 StR 486/03](2-str-486-03.md) — Veröffentlichung: ja StGB §§ 11 Abs. 1 Nr. 2 Buchst. a), 299 Abs. 2 a) Ein im Zuge der Bahnreform nach § 12 Abs. 1 DBGrG aus dienstlichen Gründen beurlaubter Bundesbahnbeamter …
+- [BGH, Beschluss vom 14.07.2004 - 2 StR 223/04](2-str-223-04.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 14.07.2004 - 2 StR 71/04](2-str-71-04.md) — im Zustand der Schuldunfähigkeit begangener rechtswidriger Taten der Beleidigung, der versuchten Nötigung und der versuchten räuberischen Er
+- [BGH, Beschluss vom 09.07.2004 - 2 ARs 217/04](2-ars-217-04.md) — Diebstahls pp.
+- [BGH, Beschluss vom 09.07.2004 - 2 ARs 233/04](2-ars-233-04.md) — Betruges Az.: 190 Js 4448/03 Staatsanwaltschaft Hannover Az.: 4 KLs 6/03 Landgericht Oldenburg
+- [BGH, Beschluss vom 09.07.2004 - 2 StR 126/04](2-str-126-04.md) — Totschlags
+- [BGH, Beschluss vom 09.07.2004 - 2 StR 150/04](2-str-150-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 09.07.2004 - 2 StR 155/04](2-str-155-04.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 09.07.2004 - 2 StR 170/04](2-str-170-04.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 09.07.2004 - 2 StR 176/04](2-str-176-04.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 09.07.2004 - 2 StR 213/04](2-str-213-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 09.07.2004 - 2 StR 36/04](2-str-36-04.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 09.07.2004 - 2 StR 37/04](2-str-37-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 02.07.2004 - 2 StR 174/04](2-str-174-04.md) — Mordes u. a.
 - [BGH, Entscheidung vom 02.07.2004 - 2 StR 32/04](2-str-32-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 30.06.2004 - 2 StR 140/04](2-str-140-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 30.06.2004 - 2 StR 196/04](2-str-196-04.md) — schweren Raubes
+- [BGH, Urteil vom 30.06.2004 - 2 StR 82/04](2-str-82-04.md) — fahrlässiger Tötung
+- [BGH, Beschluss vom 25.06.2004 - 2 StR 153/04](2-str-153-04.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 25.06.2004 - 2 StR 200/04](2-str-200-04.md) — Betrugs
+- [BGH, Beschluss vom 25.06.2004 - 2 StR 205/04](2-str-205-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 25.06.2004 - 2 StR 220/04](2-str-220-04.md) — Verabredung zum Mord u.a.
 - [BGH, Urteil vom 23.06.2004 - 2 StR 161/04](2-str-161-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 23.06.2004 - 2 StR 491/03](2-str-491-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 18.06.2004 - 2 StR 147/04](2-str-147-04.md) — Mordes u.a.
 - [BGH, Beschluss vom 18.06.2004 - 2 StR 380/03](2-str-380-03.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 16.06.2004 - 2 StR 18/04](2-str-18-04.md) — Betruges u.a.
+- [BGH, Beschluss vom 16.06.2004 - 2 StR 187/04](2-str-187-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 15.06.2004 - 2 ARs 180/04](2-ars-180-04.md) — 2 ARs 180/04 2 AR 114/04 Bundesgerichtshof BESCHLUSS vom 15. Juni 2004 in der Anzeigesache des Az.: 11 Js 4937/03 Staatsanwaltschaft Heilbronn Az.: 19 Zs 478/04 …
 - [BGH, Beschluss vom 04.06.2004 - 2 ARs 184/04](2-ars-184-04.md) — Diebstahls
 - [BGH, Beschluss vom 04.06.2004 - 2 ARs 216/04](2-ars-216-04.md) — eigenmächtiger Abwesenheit
@@ -55,75 +152,131 @@
 - [BGH, Beschluss vom 04.06.2004 - 2 StR 163/04](2-str-163-04.md) — Betruges u.a.
 - [BGH, Beschluss vom 02.06.2004 - 2 StR 123/04](2-str-123-04.md) — Mordes
 - [BGH, Beschluss vom 02.06.2004 - 2 StR 141/04](2-str-141-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 02.06.2004 - 2 StR 171/04](2-str-171-04.md) — sexueller Nötigung
 - [BGH, Beschluss vom 02.06.2004 - 2 StR 2/04](2-str-2-04.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 26.05.2004 - 2 ARs 33/04](2-ars-33-04.md) — gewerbsmäßiger Bandenhehlerei u.a.
 - [BGH, Beschluss vom 26.05.2004 - 2 StR 159/04](2-str-159-04.md) — Mordes
 - [BGH, Beschluss vom 26.05.2004 - 2 StR 180/04](2-str-180-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 26.05.2004 - 2 StR 386/03](2-str-386-03.md) — Mordes
+- [BGH, Urteil vom 26.05.2004 - 2 StR 505/03](2-str-505-03.md) — fahrlässiger Tötung
+- [BGH, Beschluss vom 21.05.2004 - 2 ARs 166/04](2-ars-166-04.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 21.05.2004 - 2 ARs 175/04](2-ars-175-04.md) — Geldfälschung
 - [BGH, Beschluss vom 21.05.2004 - 2 StR 144/04](2-str-144-04.md) — BGH, Beschluss vom 21.05.2004 - 2 StR 144/04
 - [BGH, Beschluss vom 21.05.2004 - 2 StR 16/04](2-str-16-04.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Entscheidung vom 21.05.2004 - 2 StR 35/04](2-str-35-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 21.05.2004 - 2 StR 5/04](2-str-5-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 21.05.2004 - 2 StR 50/04](2-str-50-04.md) — Totschlags
 - [BGH, Beschluss vom 21.05.2004 - 2 StR 84/04](2-str-84-04.md) — Betruges u.a.
 - [BGH, Beschluss vom 14.05.2004 - 2 StR 112/04](2-str-112-04.md) — schweren Menschenhandels u.a.
+- [BGH, Beschluss vom 07.05.2004 - 2 ARs 153/04](2-ars-153-04.md) — Verdachts des Diebstahls
+- [BGH, Beschluss vom 07.05.2004 - 2 ARs 174/04](2-ars-174-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 07.05.2004 - 2 StR 102/04](2-str-102-04.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 07.05.2004 - 2 StR 143/04](2-str-143-04.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 07.05.2004 - 2 StR 24/04](2-str-24-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u. a.
 - [BGH, Beschluss vom 07.05.2004 - 2 StR 458/03](2-str-458-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 07.05.2004 - 2 StR 92/04](2-str-92-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 05.05.2004 - 2 StR 127/04](2-str-127-04.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 05.05.2004 - 2 StR 382/03](2-str-382-03.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 05.05.2004 - 2 StR 383/03](2-str-383-03.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 05.05.2004 - 2 StR 492/03](2-str-492-03.md) — Geiselnahme u. a.
+- [BGH, Beschluss vom 28.04.2004 - 2 ARs 135/04](2-ars-135-04.md) — eines versuchten Tötungsdeliktes zum Nachteil der
 - [BGH, Beschluss vom 28.04.2004 - 2 ARs 140/04](2-ars-140-04.md) — Fahrens ohne Fahrerlaubnis u.a.
+- [BGH, Beschluss vom 28.04.2004 - 2 ARs 161/04](2-ars-161-04.md) — Verdachts der Unterschlagung u.a.
 - [BGH, Beschluss vom 28.04.2004 - 2 ARs 80/04](2-ars-80-04.md) — Beleidigung
+- [BGH, Beschluss vom 28.04.2004 - 2 StR 40/04](2-str-40-04.md) — Brandstiftung u.a.
+- [BGH, Beschluss vom 28.04.2004 - 2 StR 95/04](2-str-95-04.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 21.04.2004 - 2 ARs 83/04](2-ars-83-04.md) — BGH, Beschluss vom 21.04.2004 - 2 ARs 83/04
+- [BGH, Beschluss vom 21.04.2004 - 2 StR 363/03](2-str-363-03.md) — Mordes
+- [BGH, Beschluss vom 21.04.2004 - 2 StR 74/04](2-str-74-04.md) — Unterschlagung
 - [BGH, Beschluss vom 16.04.2004 - 2 StR 69/04](2-str-69-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 14.04.2004 - 2 StR 107/04](2-str-107-04.md) — schweren Raubes
 - [BGH, Beschluss vom 14.04.2004 - 2 StR 39/04](2-str-39-04.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 14.04.2004 - 2 StR 67/04](2-str-67-04.md) — Raubes u.a.
 - [BGH, Beschluss vom 14.04.2004 - 2 StR 70/04](2-str-70-04.md) — Totschlags u.a.
 - [BGH, Beschluss vom 14.04.2004 - 2 StR 97/04](2-str-97-04.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 08.04.2004 - 2 ARs 71/04](2-ars-71-04.md) — unerlaubten Umgangs mit gefährlichen Abfällen
+- [BGH, Beschluss vom 07.04.2004 - 2 StR 104/04](2-str-104-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 07.04.2004 - 2 StR 124/04](2-str-124-04.md) — Diebstahls u. a.
 - [BGH, Beschluss vom 07.04.2004 - 2 StR 4/04](2-str-4-04.md) — sexueller Nötigung u. a.
 - [BGH, Urteil vom 07.04.2004 - 2 StR 436/03](2-str-436-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 07.04.2004 - 2 StR 55/04](2-str-55-04.md) — Mordes u.a.
+- [BGH, Beschluss vom 07.04.2004 - 2 StR 64/04](2-str-64-04.md) — Betrugs u.a.
 - [BGH, Beschluss vom 07.04.2004 - 2 StR 85/04](2-str-85-04.md) — Raubes u.a.
 - [BGH, Beschluss vom 07.04.2004 - 2 StR 96/04](2-str-96-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 31.03.2004 - 2 StR 30/04](2-str-30-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 31.03.2004 - 2 StR 482/03](2-str-482-03.md) — Betrugs
+- [BGH, Beschluss vom 31.03.2004 - 2 StR 63/04](2-str-63-04.md) — sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 31.03.2004 - 2 StR 72/04](2-str-72-04.md) — Mordes
+- [BGH, Beschluss vom 24.03.2004 - 2 ARs 104/04](2-ars-104-04.md) — Betrugs
 - [BGH, Beschluss vom 24.03.2004 - 2 StR 28/04](2-str-28-04.md) — schweren Raubes
 - [BGH, Beschluss vom 24.03.2004 - 2 StR 48/04](2-str-48-04.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 19.03.2004 - 2 ARs 39/04](2-ars-39-04.md) — Unterhaltspflichtverletzung
+- [BGH, Beschluss vom 19.03.2004 - 2 ARs 93/04](2-ars-93-04.md) — Betruges u.a.
 - [BGH, Beschluss vom 19.03.2004 - 2 StR 509/03](2-str-509-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 19.03.2004 - 2 StR 513/03](2-str-513-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 19.03.2004 - 2 StR 519/03](2-str-519-03.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 19.03.2004 - 2 StR 6/04](2-str-6-04.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 17.03.2004 - 2 StR 44/04](2-str-44-04.md) — Vergewaltigung
+- [BGH, Urteil vom 17.03.2004 - 2 StR 474/03](2-str-474-03.md) — Zuhälterei u.a.
 - [BGH, Beschluss vom 17.03.2004 - 2 StR 476/03](2-str-476-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 17.03.2004 - 2 StR 516/03](2-str-516-03.md) — schweren Raubes
 - [BGH, Beschluss vom 10.03.2004 - 2 StR 1/04](2-str-1-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.03.2004 - 2 StR 12/04](2-str-12-04.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 10.03.2004 - 2 StR 21/04](2-str-21-04.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 10.03.2004 - 2 StR 53/04](2-str-53-04.md) — versuchten schweren Raubes
+- [BGH, Beschluss vom 03.03.2004 - 2 ARs 48/04](2-ars-48-04.md) — Der Antrag auf Bestimmung der zuständigen Staatsanwaltschaft, die gemäß § 6 NS-AufhG festzustellen hat, ob die Sonderentscheidung der Ge- heimen Staatspolizei vom 3.
 - [BGH, Urteil vom 03.03.2004 - 2 StR 109/03](2-str-109-03.md) — Veröffentlichung: ja UrhG §§ 108 Abs. 1 Nr. 5, 85, 16, 17 1. Die Strafbarkeit der Verletzung inländischer Tonträgerherstellerrechte durch CD-Pressungen im Inland für einen …
 - [BGH, Urteil vom 03.03.2004 - 2 StR 438/03](2-str-438-03.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 03.03.2004 - 2 StR 480/03](2-str-480-03.md) — unerlaubten Herstellens von Arzneimitteln
 - [BGH, Beschluss vom 03.03.2004 - 2 StR 488/03](2-str-488-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 27.02.2004 - 2 ARs 14/04](2-ars-14-04.md) — Urlaubsabwesenheit an der Unterschrift gehindert Rissing-van Saan
+- [BGH, Beschluss vom 27.02.2004 - 2 ARs 40/04](2-ars-40-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 27.02.2004 - 2 StR 314/03](2-str-314-03.md) — Mordes
 - [BGH, Beschluss vom 27.02.2004 - 2 StR 496/03](2-str-496-03.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 25.02.2004 - 2 ARs 4/04](2-ars-4-04.md) — vorsätzlicher Trunkenheit im Verkehr u.a.
 - [BGH, Beschluss vom 25.02.2004 - 2 StR 464/03](2-str-464-03.md) — gewerbsmäßigen Einschleusens von Ausländern u. a.
 - [BGH, Beschluss vom 20.02.2004 - 2 ARs 393/03](2-ars-393-03.md) — Betruges u.a.
 - [BGH, Beschluss vom 20.02.2004 - 2 StR 116/03](2-str-116-03.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 20.02.2004 - 2 StR 512/03](2-str-512-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 20.02.2004 - 2 StR 521/03](2-str-521-03.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 18.02.2004 - 2 StR 423/03](2-str-423-03.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 18.02.2004 - 2 StR 462/03](2-str-462-03.md) — sexuellen Mißbrauchs von Kranken
+- [BGH, Beschluss vom 13.02.2004 - 2 ARs 18/04](2-ars-18-04.md) — unerlaubten Führens einer Schußwaffe u.a.
 - [BGH, Beschluss vom 13.02.2004 - 2 StR 408/03](2-str-408-03.md) — Meineides
 - [BGH, Entscheidung vom 13.02.2004 - 2 StR 489/03](2-str-489-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 13.02.2004 - 2 StR 517/03](2-str-517-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 11.02.2004 - 2 StR 290/01](2-str-290-01.md) — bewaffneten Sichverschaffens von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 11.02.2004 - 2 StR 378/03](2-str-378-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 06.02.2004 - 2 ARs 276/03](2-ars-276-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 06.02.2004 - 2 StR 266/03](2-str-266-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Urteil vom 04.02.2004 - 2 StR 355/03](2-str-355-03.md) — Verdachts der Untreue und des Betrugs
+- [BGH, Beschluss vom 28.01.2004 - 2 ARs 330/03](2-ars-330-03.md) — zu 1.: unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 28.01.2004 - 2 StR 351/03](2-str-351-03.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 28.01.2004 - 2 StR 430/93](2-str-430-93.md) — Mordes u. a.;
+- [BGH, Urteil vom 28.01.2004 - 2 StR 452/03](2-str-452-03.md) — Veröffentlichung: ja _________________________ StGB § 211 Abs. 2 Zum Mordmerkmal der niedrigen Beweggründe bei ausländischen Tätern. BGH, Urt. vom 28. Januar 2004 - 2 StR 452/03 - …
 - [BGH, Beschluss vom 28.01.2004 - 2 StR 493/03](2-str-493-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 23.01.2004 - 2 StR 428/03](2-str-428-03.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 21.01.2004 - 2 ARs 347/03](2-ars-347-03.md) — zu 1. Betruges u.a. zu 2. schwerer räuberischer Erpressung zu 3. unerlaubten Handeltreibens mit Betäubungsmitteln in
 - [BGH, Beschluss vom 21.01.2004 - 2 ARs 390/03](2-ars-390-03.md) — Die Zuständigkeit des Bundesgerichtshofs für die Entscheidung über die Vorlage des Landgerichts Lüneburg ist gemäß § 14 StPO gegeben.
 - [BGH, Beschluss vom 21.01.2004 - 2 ARs 418/03](2-ars-418-03.md) — Bandendiebstahls
+- [BGH, Urteil vom 21.01.2004 - 2 StR 357/03](2-str-357-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 21.01.2004 - 2 StR 429/03](2-str-429-03.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 21.01.2004 - 2 StR 449/03](2-str-449-03.md) — Totschlags
 - [BGH, Beschluss vom 21.01.2004 - 2 StR 468/03](2-str-468-03.md) — Totschlags
+- [BGH, Beschluss vom 21.01.2004 - 2 StR 487/03](2-str-487-03.md) — Mordes u.a.
+- [BGH, Beschluss vom 16.01.2004 - 2 ARs 359/03](2-ars-359-03.md) — Diebstahls mit Waffen
 - [BGH, Beschluss vom 16.01.2004 - 2 ARs 417/03](2-ars-417-03.md) — BGH, Beschluss vom 16.01.2004 - 2 ARs 417/03
 - [BGH, Beschluss vom 16.01.2004 - 2 StR 515/03](2-str-515-03.md) — sexueller Nötigung
+- [BGH, Beschluss vom 14.01.2004 - 2 StR 315/03](2-str-315-03.md) — Betrugs u.a.
+- [BGH, Beschluss vom 14.01.2004 - 2 StR 366/03](2-str-366-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 14.01.2004 - 2 StR 435/03](2-str-435-03.md) — Betrugs
+- [BGH, Beschluss vom 14.01.2004 - 2 StR 445/03](2-str-445-03.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 14.01.2004 - 2 StR 465/03](2-str-465-03.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 14.01.2004 - 2 StR 475/03](2-str-475-03.md) — Raubes u.a.
+- [BGH, Beschluss vom 09.01.2004 - 2 StR 391/03](2-str-391-03.md) — Mordes u.a.
 - [BGH, Beschluss vom 09.01.2004 - 2 StR 442/03](2-str-442-03.md) — Betrugs
+- [BGH, Beschluss vom 07.01.2004 - 2 ARs 410/03](2-ars-410-03.md) — Betäubungsmittelvergehens
+- [BGH, Beschluss vom 07.01.2004 - 2 StR 371/03](2-str-371-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 07.01.2004 - 2 StR 401/03](2-str-401-03.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 07.01.2004 - 2 StR 422/03](2-str-422-03.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 07.01.2004 - 2 StR 473/03](2-str-473-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.

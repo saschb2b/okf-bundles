@@ -1,51 +1,122 @@
 # V. Zivilsenat – 2006
 
-47 Entscheidung(en).
+118 Entscheidung(en).
 
+- [BGH, Beschluss vom 15.12.2006 - V ZB 181/06](v-zb-181-06.md) — BGH, Beschluss vom 15.12.2006 - V ZB 181/06
+- [BGH, Beschluss vom 14.12.2006 - V ZB 11/06](v-zb-11-06.md) — der Zahlungsanträge den Erlass eines Versäumnisurteils beantrage.
+- [BGH, Beschluss vom 14.12.2006 - V ZB 115/06](v-zb-115-06.md) — I. 1 Der Kostengläubiger fertigte zu Beginn des Jahres 2001 im Auftrag der Kostenschuldnerin verschiedene Vertragsentwürfe. Mit Berechnung vom 7. November 2003 stellte er der …
+- [BGH, Urteil vom 08.12.2006 - V ZR 103/06](v-zr-103-06.md) — Tatbestand
 - [BGH, Beschluss vom 08.12.2006 - V ZR 249/05](v-zr-249-05.md) — I. 1 Nachdem die Parteien den Rechtsstreit in der Hauptsache übereinstim- mend für erledigt erklärt haben, ist über die Kosten unter Berücksichtigung des bisherigen Sach- und …
+- [BGH, Beschluss vom 07.12.2006 - V ZB 166/05](v-zb-166-05.md) — I. 1 Die in Gesellschaft bürgerlichen Rechts als Eigentümer eines Haus- grundstücks in das Grundbuch eingetragenen Gesellschafter K. und S. bestellten mit notarieller Urkunde des …
+- [BGH, Beschluss vom 07.12.2006 - V ZB 93/06](v-zb-93-06.md) — I. 1 Der Kläger verlangt von der Beklagten die Rückabwicklung eines Kauf- vertrags über eine Eigentumswohnung sowie Schadensersatz. Das Landgericht hat der Klage stattgegeben. Die …
 - [BGH, Beschluss vom 07.12.2006 - V ZR 90/06](v-zr-90-06.md) — BGH, Beschluss vom 07.12.2006 - V ZR 90/06
 - [BGH, Urteil vom 01.12.2006 - V ZR 112/06](v-zr-112-06.md) — Tatbestand:
+- [BGH, Beschluss vom 30.11.2006 - V ZB 44/06](v-zb-44-06.md) — I. 1 Die Gläubigerin betreibt die Zwangsversteigerung der im Rubrum bezeich- neten Grundstücke des Schuldners. Das Vollstreckungsgericht hat ein Sachver- ständigengutachten über …
+- [BGH, Urteil vom 17.11.2006 - V ZR 71/06](v-zr-71-06.md) — 3-
 - [BGH, Beschluss vom 16.11.2006 - V ZR 97/06](v-zr-97-06.md) — BGH, Beschluss vom 16.11.2006 - V ZR 97/06
+- [BGH, Urteil vom 10.11.2006 - V ZR 46/06](v-zr-46-06.md) — Tatbestand:
+- [BGH, Urteil vom 10.11.2006 - V ZR 62/06](v-zr-62-06.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 10.11.2006 - V ZR 73/06](v-zr-73-06.md) — Tatbestand:
+- [BGH, Beschluss vom 09.11.2006 - V ZB 66/06](v-zb-66-06.md) — I. 1 Den Beteiligten zu 2 und 3 wurde am 14. August 1992 als Gesellschaf- tern einer Gesellschaft des Bürgerlichen Rechts das in dem Wohnungsgrund- buch von B. eingetragene …
+- [BGH, Beschluss vom 09.11.2006 - V ZR 16/06](v-zr-16-06.md) — I. 1 Die Klägerin verlangt von dem Beklagten Herausgabe von Mieten in Hö- he von 74.520,79 €, die dieser vom 13. Juni 1996 bis zum 1. September 1998 aus der Vermietung ihres …
+- [BGH, Urteil vom 27.10.2006 - V ZR 2/06](v-zr-2-06.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 27.10.2006 - V ZR 234/05](v-zr-234-05.md) — BGH, Versäumnisurteil vom 27.10.2006 - V ZR 234/05
+- [BGH, Urteil vom 27.10.2006 - V ZR 58/06](v-zr-58-06.md) — Tatbestand:
+- [BGH, Beschluss vom 26.10.2006 - V ZB 188/05](v-zb-188-05.md) — I. 1 Die Beteiligten zu 1 bis 8 sind in Erbengemeinschaft Eigentümer eines be- bauten Grundstücks in Thüringen. In Abteilung II des Grundbuchs ist ein Vermerk über die Eröffnung …
 - [BGH, Beschluss vom 19.10.2006 - V ZB 91/06](v-zb-91-06.md) — BGH, Beschluss vom 19.10.2006 - V ZB 91/06
+- [BGH, Beschluss vom 19.10.2006 - V ZR 100/06](v-zr-100-06.md) — I. 1 Die Parteien streiten über die Wirksamkeit eines im Jahr 1995 bestellten Wegerechts. Eigentümer des herrschenden Grundstücks ist der Kläger, Eigen- tümer des dienenden der …
 - [BGH, Urteil vom 13.10.2006 - V ZR 169/05](v-zr-169-05.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2006 - V ZR 289/05](v-zr-289-05.md) — Tatbestand:
 - [BGH, Urteil vom 13.10.2006 - V ZR 33/06](v-zr-33-06.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2006 - V ZR 66/06](v-zr-66-06.md) — Tatbestand:
 - [BGH, Urteil vom 06.10.2006 - V ZR 138/05](v-zr-138-05.md) — Tatbestand:
 - [BGH, Urteil vom 06.10.2006 - V ZR 20/06](v-zr-20-06.md) — der Kappungsgrenze in § 9a Abs. 1 ErbbauVO nicht die nach der Vereinbarung mögliche Höhe erreicht hat.
+- [BGH, Urteil vom 06.10.2006 - V ZR 282/05](v-zr-282-05.md) — Tatbestand:
+- [BGH, Beschluss vom 05.10.2006 - V ZB 2/06](v-zb-2-06.md) — persönlicher und dinglicher Ansprüche
 - [BGH, Beschluss vom 05.10.2006 - V ZR 12/06](v-zr-12-06.md) — BGH, Beschluss vom 05.10.2006 - V ZR 12/06
+- [BGH, Urteil vom 29.09.2006 - V ZR 25/06](v-zr-25-06.md) — Tatbestand:
+- [BGH, Beschluss vom 28.09.2006 - V ZB 105/06](v-zb-105-06.md) — der grundsätzlichen Bedeutung der Sache zugelassen.
+- [BGH, Beschluss vom 28.09.2006 - V ZB 45/06](v-zb-45-06.md) — des gemeinsamen Antrags der Vertragsparteien auf Erteilung der Abschrif-
+- [BGH, Beschluss vom 28.09.2006 - V ZB 55/06](v-zb-55-06.md) — I. 1 Das Vollstreckungsgericht hat dem Rechtsbeschwerdeführer den Zuschlag auf die von ihm im Termin auf Einzelausgebote abgegebenen Gebote erteilt. Der Rechtsbeschwerdeführer …
+- [BGH, Beschluss vom 28.09.2006 - V ZR 31/06](v-zr-31-06.md) — BGH, Beschluss vom 28.09.2006 - V ZR 31/06
 - [BGH, Urteil vom 22.09.2006 - V ZR 239/05](v-zr-239-05.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2006 - V ZB 119/06](v-zb-119-06.md) — BGH, Beschluss vom 21.09.2006 - V ZB 119/06
 - [BGH, Beschluss vom 21.09.2006 - V ZB 76/06](v-zb-76-06.md) — BGH, Beschluss vom 21.09.2006 - V ZB 76/06
+- [BGH, Beschluss vom 21.09.2006 - V ZR 260/05](v-zr-260-05.md) — BGH, Beschluss vom 21.09.2006 - V ZR 260/05
+- [BGH, Beschluss vom 21.09.2006 - V ZR 28/06](v-zr-28-06.md) — derer das Verfahren betrieben wird (vgl. LG Köln ZMR 2002, 230). Gegenstand des Eigentumsentziehungsverfahrens ist allein die Frage, ob der
+- [BGH, Beschluss vom 21.09.2006 - V ZR 63/06](v-zr-63-06.md) — BGH, Beschluss vom 21.09.2006 - V ZR 63/06
 - [BGH, Beschluss vom 08.08.2006 - V ZA 14/06](v-za-14-06.md) — BGH, Beschluss vom 08.08.2006 - V ZA 14/06
+- [BGH, Urteil vom 21.07.2006 - V ZR 158/05](v-zr-158-05.md) — Tatbestand:
 - [BGH, Urteil vom 21.07.2006 - V ZR 252/05](v-zr-252-05.md) — Tatbestand:
+- [BGH, Beschluss vom 21.07.2006 - V ZR 257/05](v-zr-257-05.md) — BGH, Beschluss vom 21.07.2006 - V ZR 257/05
+- [BGH, Beschluss vom 20.07.2006 - V ZB 168/05](v-zb-168-05.md) — I. 1 Die Beteiligten sind Brüder und betreiben das Teilungsversteigerungsver- fahren in einen gemeinsamen Grundbesitz in W. . In dem Versteige- rungstermin am 29. August 2005 …
 - [BGH, Beschluss vom 20.07.2006 - V ZB 30/06](v-zb-30-06.md) — BGH, Beschluss vom 20.07.2006 - V ZB 30/06
+- [BGH, Beschluss vom 20.07.2006 - V ZB 38/06](v-zb-38-06.md) — I. 1 Mit Beschluss vom 7. November 2005 hat das Amtsgericht den Ver- kehrswert des in dem Eingang dieses Beschlusses bezeichneten Grundbesitzes auf 1.667.000 € festgesetzt. Die …
+- [BGH, Beschluss vom 13.07.2006 - V ZB 87/05](v-zb-87-05.md) — I. 1 Die Kostengläubigerin beurkundete die Bestellung einer Buchgrund- schuld durch die Kostenschuldner zugunsten einer Sparkasse. Die Grundschuld sollte Vorrang vor einer im …
+- [BGH, Urteil vom 07.07.2006 - V ZR 156/05](v-zr-156-05.md) — Tatbestand:
 - [BGH, Urteil vom 07.07.2006 - V ZR 159/05](v-zr-159-05.md) — BGH, Urteil vom 07.07.2006 - V ZR 159/05
+- [BGH, Urteil vom 07.07.2006 - V ZR 246/05](v-zr-246-05.md) — Tatbestand:
+- [BGH, Beschluss vom 06.07.2006 - V ZB 43/06](v-zb-43-06.md) — I. 1 Das Landgericht Erfurt hat durch Urteil vom 12. Oktober 2005 zum Nach- teil der Beklagten entschieden. Das Urteil ist den Beklagten am 17. Oktober 2005 zugestellt worden. Am …
 - [BGH, Urteil vom 30.06.2006 - V ZR 148/05](v-zr-148-05.md) — Tatbestand:
 - [BGH, Beschluss vom 29.06.2006 - V ZB 51/06](v-zb-51-06.md) — Die Rechtsbeschwerde ist nach der ständigen Rechtsprechung des Bun- desgerichtshofs (Beschl.
+- [BGH, Beschluss vom 29.06.2006 - V ZR 4/06](v-zr-4-06.md) — I. 1 Die Beklagte war Eigentümerin eines später nach dem Vermögensgesetz an die Klägerin zurückübertragenen Miethauses in B. P. , das sie 1991/1992 aufgrund eines Fördervertrags …
+- [BGH, Urteil vom 23.06.2006 - V ZR 147/05](v-zr-147-05.md) — Tatbestand:
+- [BGH, Urteil vom 23.06.2006 - V ZR 17/06](v-zr-17-06.md) — Tatbestand:
 - [BGH, Beschluss vom 01.06.2006 - V ZB 193/05](v-zb-193-05.md) — Besorgnis der Befangenheit abzulehnen, durch das Einlassen in eine Verhandlung oder durch das Stellen von Anträgen verloren, kann sie densel
 - [BGH, Beschluss vom 01.06.2006 - V ZB 29/06](v-zb-29-06.md) — I. 1 Am 22. Januar 2004 ordnete das Amtsgericht auf Antrag der Beteiligten zu 3 die Zwangsverwaltung des in dem Eingang dieses Beschlusses bezeichne- ten Wohnungseigentums des …
+- [BGH, Beschluss vom 01.06.2006 - V ZR 266/05](v-zr-266-05.md) — BGH, Beschluss vom 01.06.2006 - V ZR 266/05
 - [BGH, Beschluss vom 23.05.2006 - V ZB 161/05](v-zb-161-05.md) — I. 1 In dem Verfahren über die Zwangsversteigerung der im Rubrum genann- ten Grundstücke ist der Beteiligten zu 5 auf ihr Meistgebot von 232.500 € am 19. Januar 2005 der Zuschlag …
+- [BGH, Urteil vom 19.05.2006 - V ZR 202/05](v-zr-202-05.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2006 - V ZR 264/05](v-zr-264-05.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2006 - V ZR 40/05](v-zr-40-05.md) — Tatbestand:
 - [BGH, Beschluss vom 18.05.2006 - V ZB 12/06](v-zb-12-06.md) — I. 1 Der Beschwerdeführer hat gegen einen Beschluss des Kammergerichts "Erinnerung" eingelegt und hilfsweise einen "PKH-Antrag auf Beiordnung eines am BGH zugelassenen …
+- [BGH, Beschluss vom 18.05.2006 - V ZB 142/05](v-zb-142-05.md) — I. 1 Die Beteiligte zu 4 betreibt die Zwangsvollstreckung in mehrere ehemals als Gewerbefläche genutzte Grundstücke. Auf dem etwa 73.000 qm großen Ge- lände sollen sich eine …
 - [BGH, Beschluss vom 18.05.2006 - V ZR 242/05](v-zr-242-05.md) — der Nichtbebaubarkeit des
+- [BGH, Beschluss vom 15.05.2006 - V ZA 9/06](v-za-9-06.md) — BGH, Beschluss vom 15.05.2006 - V ZA 9/06
 - [BGH, Urteil vom 12.05.2006 - V ZR 175/05](v-zr-175-05.md) — Mangels an Beweis nicht erfolgen kann. So verhält es sich nur, wenn eine Verfolgung der als Restitutionsgrund vorgetragenen Straftat infolge
+- [BGH, Urteil vom 12.05.2006 - V ZR 97/05](v-zr-97-05.md) — Tatbestand:
 - [BGH, Beschluss vom 11.05.2006 - V ZB 170/05](v-zb-170-05.md) — I. 1 Das Amtsgericht hat die auf Kürzung eines Winkelsteins, der sich im Be- reich des oberen sichtbaren Schenkels mit einer Fläche von 17 cm x 1 cm auf dem Grundstück der Kläger …
 - [BGH, Beschluss vom 11.05.2006 - V ZB 70/05](v-zb-70-05.md) — I. 1 Durch den angefochtenen Beschluss hat das Oberlandesgericht die sofortige Beschwerde der Beklagten gegen zwei Kostenfestsetzungsbeschlüsse des Land- gerichts Koblenz …
 - [BGH, Beschluss vom 11.05.2006 - V ZB 73/05](v-zb-73-05.md) — I. 1 Die Klägerin hat die Beklagten zu 1, die Mitglieder einer Erbengemein- schaft sind, sowie die Beklagten zu 2 und 3 in zweiter Instanz auf die Beseiti- gung von Stellplätzen …
 - [BGH, Urteil vom 05.05.2006 - V ZR 139/05](v-zr-139-05.md) — Tatbestand:
+- [BGH, Urteil vom 05.05.2006 - V ZR 236/05](v-zr-236-05.md) — Tatbestand:
+- [BGH, Beschluss vom 04.05.2006 - V ZB 130/05](v-zb-130-05.md) — der fehlerhaften Angabe des Geschäftszeichens sei das angefochtene Urteil nicht identifizierbar gewesen. Innerhalb der Berufungsfrist sei de
+- [BGH, Beschluss vom 04.05.2006 - V ZR 163/05](v-zr-163-05.md) — seiner religiösen Aus-
+- [BGH, Urteil vom 07.04.2006 - V ZR 144/05](v-zr-144-05.md) — Tatbestand:
 - [BGH, Beschluss vom 06.04.2006 - V ZB 158/05](v-zb-158-05.md) — I. 1 Die Gläubigerin beantragte am 20. September 2004 die Anordnung der Zwangsverwaltung des in dem Eingang dieses Beschlusses bezeichneten Grundstücks. In Abteilung I des …
+- [BGH, Beschluss vom 06.04.2006 - V ZB 167/05](v-zb-167-05.md) — BGH, Beschluss vom 06.04.2006 - V ZB 167/05
+- [BGH, Beschluss vom 06.04.2006 - V ZB 194/05](v-zb-194-05.md) — Verhinderung des von ihr beauftragten Sachverständigen hat
 - [BGH, Urteil vom 31.03.2006 - V ZR 51/05](v-zr-51-05.md) — BGH, Urteil vom 31.03.2006 - V ZR 51/05
+- [BGH, Beschluss vom 30.03.2006 - V ZB 17/06](v-zb-17-06.md) — I. 1 Die Beteiligten sind die Wohnungseigentümer einer Wohnanlage in O. . Die Antragsgegnerin ist die Wohnungseigentümerin der Ein- heit Nr. 89. Die Antragsteller sind die übrigen …
+- [BGH, Beschluss vom 30.03.2006 - V ZB 195/05](v-zb-195-05.md) — I. 1 Die Kläger sind Eigentümer, die Beklagten Besitzer des im Grundbuch von R. Blatt Nr. 2 eingetragenen Grundstücks. Das 58 qm große Grundstück grenzt an das mit einem Wohnhaus …
 - [BGH, Beschluss vom 30.03.2006 - V ZR 215/05](v-zr-215-05.md) — BGH, Beschluss vom 30.03.2006 - V ZR 215/05
+- [BGH, Urteil vom 24.03.2006 - V ZR 19/05](v-zr-19-05.md) — Tatbestand:
 - [BGH, Beschluss vom 23.03.2006 - V ZB 156/05](v-zb-156-05.md) — der dinglichen Haftung der sofortigen Zwangs-
 - [BGH, Beschluss vom 23.03.2006 - V ZB 189/05](v-zb-189-05.md) — I. 1 Durch seit dem 18. Mai 2000 rechtskräftiges Urteil vom 17. August 1999 verurteilte das Oberlandesgericht den Kläger zur Tragung der in diesem Rechtsstreit entstandenen erst- …
+- [BGH, Beschluss vom 23.03.2006 - V ZR 186/05](v-zr-186-05.md) — , weil sie von dem Wert der Stellplätze und nicht von dem Wert ausgehen, den die Dienstbarkeiten für den Kellerraum der Klägerin haben (§ 7 ZPO).
+- [BGH, Urteil vom 10.03.2006 - V ZR 45/05](v-zr-45-05.md) — 3-
+- [BGH, Urteil vom 10.03.2006 - V ZR 48/05](v-zr-48-05.md) — Tatbestand:
 - [BGH, Beschluss vom 09.03.2006 - V ZB 164/05](v-zb-164-05.md) — BGH, Beschluss vom 09.03.2006 - V ZB 164/05
 - [BGH, Beschluss vom 09.03.2006 - V ZB 178/05](v-zb-178-05.md) — I. 1 Die Beteiligten sind Geschwister. Ihre Eltern waren zu je ½ Eigentümer eines Grundstücks in N. bei P. . Nach dem Tode des Vaters waren die Mutter zu ½ und die …
+- [BGH, Urteil vom 24.02.2006 - V ZR 255/04](v-zr-255-04.md) — Tatbestand:
+- [BGH, Beschluss vom 23.02.2006 - V ZR 191/05](v-zr-191-05.md) — einer vom Aufteilungsplan wesentlich abweichenden Bauausführung eines Geschosses seine Verpflichtung zur Eigentumsübertragung und Besitzüber
 - [BGH, Beschluss vom 23.02.2006 - V ZR 201/05](v-zr-201-05.md) — arg-
 - [BGH, Urteil vom 17.02.2006 - V ZR 236/03](v-zr-236-03.md) — BGH, Urteil vom 17.02.2006 - V ZR 236/03
+- [BGH, Urteil vom 17.02.2006 - V ZR 49/05](v-zr-49-05.md) — Tatbestand:
+- [BGH, Urteil vom 10.02.2006 - V ZR 110/05](v-zr-110-05.md) — Tatbestand:
+- [BGH, Beschluss vom 09.02.2006 - V ZB 152/05](v-zb-152-05.md) — I. 1 Mit von dem Beteiligten zu 1 beurkundeten Kaufvertrag vom 16. Juni 2003 verkaufte der Beteiligte zu 4 den Beteiligten zu 2 und 3 ein Hausgrund- stück für 119.000 €. Die …
 - [BGH, Beschluss vom 09.02.2006 - V ZB 172/05](v-zb-172-05.md) — BGH, Beschluss vom 09.02.2006 - V ZB 172/05
+- [BGH, Beschluss vom 09.02.2006 - V ZR 120/05](v-zr-120-05.md) — Verzugs der Klägerin mit Fälligkeitszinsen den Rücktritt von dem mit ihr geschlossenen Kaufvertrag.
+- [BGH, Urteil vom 27.01.2006 - V ZR 243/04](v-zr-243-04.md) — Tatbestand:
+- [BGH, Urteil vom 27.01.2006 - V ZR 26/05](v-zr-26-05.md) — Tatbestand:
 - [BGH, Urteil vom 27.01.2006 - V ZR 46/05](v-zr-46-05.md) — BGH, Urteil vom 27.01.2006 - V ZR 46/05
 - [BGH, Beschluss vom 26.01.2006 - V ZB 132/05](v-zb-132-05.md) — I. 1 Mit Notarvertrag vom 12. Mai 2004 kauften die Antragsteller zu 1 und 2 von dem Beteiligen zu 3 eine Eigentumswohnung. Als Inhalt des verkauften Sondereigentums ist im …
+- [BGH, Beschluss vom 26.01.2006 - V ZB 143/05](v-zb-143-05.md) — I. 1 Der Beteiligte zu 1 ist Eigentümer eines im Grundbuch von Rüthen ein- getragenen Grundstücks. Aufgrund gerichtlichen Vergleichs vom 18. November 2004 verpflichtete er sich …
 - [BGH, Beschluss vom 26.01.2006 - V ZB 169/05](v-zb-169-05.md) — ihres An-
+- [BGH, Beschluss vom 26.01.2006 - V ZR 119/05](v-zr-119-05.md) — BGH, Beschluss vom 26.01.2006 - V ZR 119/05
 - [BGH, Urteil vom 20.01.2006 - V ZR 122/05](v-zr-122-05.md) — BGH, Urteil vom 20.01.2006 - V ZR 122/05
 - [BGH, Urteil vom 20.01.2006 - V ZR 124/05](v-zr-124-05.md) — Tatbestand:
 - [BGH, Urteil vom 20.01.2006 - V ZR 134/05](v-zr-134-05.md) — der konkret zu besorgenden Beeinträchtigung des Flugbetriebs nicht dulden, dass Flugblätter an Passagiere eines bestimmtes Fluges in der Abs
 - [BGH, Urteil vom 20.01.2006 - V ZR 214/04](v-zr-214-04.md) — BGH, Urteil vom 20.01.2006 - V ZR 214/04
+- [BGH, Beschluss vom 12.01.2006 - V ZB 147/05](v-zb-147-05.md) — nicht den gesetzlichen Anforderungen entsprechender
+- [BGH, Beschluss vom 12.01.2006 - V ZR 135/05](v-zr-135-05.md) — BGH, Beschluss vom 12.01.2006 - V ZR 135/05

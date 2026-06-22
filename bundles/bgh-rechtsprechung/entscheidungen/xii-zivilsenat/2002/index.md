@@ -1,42 +1,143 @@
 # XII. Zivilsenat – 2002
 
-40 Entscheidung(en).
+141 Entscheidung(en).
 
+- [BGH, Urteil vom 18.12.2002 - XII ZR 253/01](xii-zr-253-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.12.2002 - XII ZR 312/00](xii-zr-312-00.md) — Tatbestand: Die Klägerin macht Erstattung ihrer Investitionskosten für ein gewerbliches Mietobjekt geltend. Sie mietete mit schriftlichem Ve
 - [BGH, Urteil vom 11.12.2002 - XII ZR 51/00](xii-zr-51-00.md) — Tatbestand: Die Klägerin betreibt im Wege einer Nichtigkeitsklage die Wiederaufnahme eines durch ein Scheidungsverbundurteil abgeschlossenen
+- [BGH, Beschluss vom 04.12.2002 - XII ZA 17/02](xii-za-17-02.md) — Die beabsichtigte Rechtsverfolgung hat keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 04.12.2002 - XII ZB 12/00](xii-zb-12-00.md) — I. In einem zwischen den Parteien anhängigen Scheidungsverbundverfahren hat das Familiengericht den Versorgungsausgleich abgetrennt. Durch Urteil vom 27. Mai 1998, das seit diesem …
+- [BGH, Beschluss vom 04.12.2002 - XII ZB 66/02](xii-zb-66-02.md) — eines mitursächlichen Fehlverhaltens der Gerichte Wiedereinsetzung zu gewähren. Bereits das Landgericht habe Anfang Februar 2002 die offensi
+- [BGH, Urteil vom 04.12.2002 - XII ZR 110/00](xii-zr-110-00.md) — Tatbestand: Die Kläger verlangen von dem Beklagten rückständigen Mietzins für die Zeit von Juli bis Oktober 1997. Mit Vertrag vom 26. Juli 1
+- [BGH, Beschluss vom 04.12.2002 - XII ZR 167/02](xii-zr-167-02.md) — BGH, Beschluss vom 04.12.2002 - XII ZR 167/02
+- [BGH, Beschluss vom 27.11.2002 - XII ZB 182/02](xii-zb-182-02.md) — Es kann dahingestellt bleiben, ob ein nach § 345 ZPO unstatthafter Einspruch gegen ein Zweites Versäumnisurteil durch streitiges Endurteil zu verwerfen ist (so MünchKomm/Prütting …
+- [BGH, Beschluss vom 27.11.2002 - XII ZR 113/00](xii-zr-113-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Beschluss vom 27.11.2002 - XII ZR 205/02](xii-zr-205-02.md) — auszusprechen.
+- [BGH, Urteil vom 27.11.2002 - XII ZR 295/00](xii-zr-295-00.md) — Tatbestand:
+- [BGH, Beschluss vom 27.11.2002 - XII ZR 43/01](xii-zr-43-01.md) — Der Beklagte hat im Berufungsverfahren hilfsweise die Aufrechnung erklärt.
 - [BGH, Beschluss vom 13.11.2002 - XII ZB 104/01](xii-zb-104-01.md) — eines auswärtigen Termins habe Rechtsanwalt Dr. A. gegen 15.00 Uhr das Büro verlassen; zu dieser Zeit sei dort noch eine Sekretärin tätig ge
 - [BGH, Urteil vom 13.11.2002 - XII ZR 310/99](xii-zr-310-99.md) — BGH, Urteil vom 13.11.2002 - XII ZR 310/99
+- [BGH, Beschluss vom 06.11.2002 - XII ZB 180/02](xii-zb-180-02.md) — Das - im übrigen auch nicht formgerecht eingelegte - Rechtsmittel ist nicht statthaft, weil gegen Beschlüsse der Oberlandesgerichte in Verfahren der freiwilligen Gerichtsbarkeit …
+- [BGH, Urteil vom 06.11.2002 - XII ZR 242/99](xii-zr-242-99.md) — Tatbestand: Die Klägerin verlangt vom Beklagten, sie von der Verpflichtung zur Rückzahlung eines von den Parteien gemeinsam aufgenommenen Da
 - [BGH, Beschluss vom 06.11.2002 - XII ZR 259/01](xii-zr-259-01.md) — der seiner Ansicht nach grundsätzlichen Frage, "ob der Erbe eines zur Zahlung von nachehelichem Unterhalt Verpflichteten erstmals Verwirkung
+- [BGH, Urteil vom 06.11.2002 - XII ZR 283/99](xii-zr-283-99.md) — Tatbestand: Die Klägerin verlangt von dem Beklagten restlichen Mietzins für die Monate Februar 1995 bis Januar 1996. Mit Vertrag vom 14. Nov
 - [BGH, Beschluss vom 30.10.2002 - XII ZB 18/01](xii-zb-18-01.md) — BGH, Beschluss vom 30.10.2002 - XII ZB 18/01
+- [BGH, Urteil vom 30.10.2002 - XII ZR 273/99](xii-zr-273-99.md) — Tatbestand: Der Kläger macht die Räumung und Herausgabe gewerblicher Mieträume geltend. Er vermietete im Jahre 1994 dem Beklagten mit schrif
+- [BGH, Urteil vom 30.10.2002 - XII ZR 345/00](xii-zr-345-00.md) — Tatbestand: Der Kläger begehrt die Feststellung, daß er nicht der Vater der Beklagten ist. Er und die Mutter der Beklagten haben am 25. Augu
+- [BGH, Urteil vom 23.10.2002 - XII ZR 202/99](xii-zr-202-99.md) — Tatbestand: Der Kläger verlangt von der Beklagten rückständigen Mietzins in Höhe von je 24.000 DM für die Monate Oktober bis Dezember 1997.
 - [BGH, Beschluss vom 23.10.2002 - XII ZR 230/99](xii-zr-230-99.md) — BGH, Beschluss vom 23.10.2002 - XII ZR 230/99
 - [BGH, Urteil vom 23.10.2002 - XII ZR 266/99](xii-zr-266-99.md) — eines weiteren Betrages von 16.041,36 DM zuzüglich Zinsen zurückgewiesen. Im übrigen wird die Sache zur erneuten Verhandlung und Entscheidun
 - [BGH, Beschluss vom 16.10.2002 - XII ZR 73/02](xii-zr-73-02.md) — BGH, Beschluss vom 16.10.2002 - XII ZR 73/02
 - [BGH, Beschluss vom 09.10.2002 - XII ZB 150/02](xii-zb-150-02.md) — BGH, Beschluss vom 09.10.2002 - XII ZB 150/02
 - [BGH, Beschluss vom 09.10.2002 - XII ZR 234/00](xii-zr-234-00.md) — Verschuldens bei Vertragsschluß scheidet nach der – von der Revision ohne Erfolg angegriffenen – Beweiswürdigung des Berufungsgerichts aus.
+- [BGH, Beschluss vom 02.10.2002 - XII ZA 14/02](xii-za-14-02.md) — fehlender Erfolgsaussicht zurückgewiesen (§ 114 ZPO).
+- [BGH, Beschluss vom 02.10.2002 - XII ZB 19/02](xii-zb-19-02.md) — fehlender Erfolgsaussicht zurückgewiesen (§ 114 ZPO).
+- [BGH, Beschluss vom 02.10.2002 - XII ZB 43/02](xii-zb-43-02.md) — fehlender Erfolgsaussicht zurückgewiesen (§ 114 ZPO).
+- [BGH, Beschluss vom 02.10.2002 - XII ZB 76/98](xii-zb-76-98.md) — I. Die Parteien haben am 17. Mai 1990 geheiratet. Der Scheidungsantrag der Ehefrau (Antragstellerin) ist dem Ehemann (Antragsgegner) am 26. Januar 1995 zugestellt worden. Die …
+- [BGH, Beschluss vom 02.10.2002 - XII ZR 28/02](xii-zr-28-02.md) — I. Nach dem mit der Revision angefochtenen Urteil des Oberlandesgerichts hat der Kläger 1998 dem Beklagten seine ihm zustehende Milch-Referenzmenge ohne Fläche für die Zeit vom 1 …
+- [BGH, Urteil vom 02.10.2002 - XII ZR 346/00](xii-zr-346-00.md) — Tatbestand: Der Kläger verlangt die Herabsetzung des Unterhalts, den er aufgrund einer im vereinfachten Verfahren nach Art. 5 § 3 KindUG geä
+- [BGH, Beschluss vom 25.09.2002 - XII ZB 144/02](xii-zb-144-02.md) — Vorlage eines Vermögensverzeichnisses hier: Beschwerde gegen Zwangsgeldfestsetzung
+- [BGH, Urteil vom 25.09.2002 - XII ZR 307/00](xii-zr-307-00.md) — Tatbestand: Die Kläger machen gegenüber der Beklagten Mietansprüche aufgrund einer begehrten Mieterhöhung geltend. Mit Vertrag vom 1. Septem
+- [BGH, Urteil vom 25.09.2002 - XII ZR 55/00](xii-zr-55-00.md) — des darüber hinausgehenden Klagebegehrens eine Stufenklage, im übrigen eine bezifferte Teilklage vor.
+- [BGH, Beschluss vom 19.09.2002 - XII ZR 192/02](xii-zr-192-02.md) — I. Die getrennt lebenden Parteien sind zu je 1/2 Miteigentümer eines Dreifamilienhauses, hinsichtlich dessen sie die Auseinandersetzung durch notariellen Ehevertrag auf Dauer mit …
+- [BGH, Beschluss vom 11.09.2002 - XII ZA 13/02](xii-za-13-02.md) — Eine Rechtsbeschwerde ist nicht zulässig, da das Kammergericht die Rechtsbeschwerde nicht zugelassen hat; eine Nichtzulassungsbeschwerde ist nicht eröffnet (§ 574 Abs.
+- [BGH, Beschluss vom 11.09.2002 - XII ZB 126/02](xii-zb-126-02.md) — Das Rechtsmittel ist nicht statthaft, weil gegen Zwischenentscheidungen der Oberlandesgerichte in Angelegenheit der freiwilligen Gerichtsbarkeit der vorliegenden Art kein …
+- [BGH, Urteil vom 11.09.2002 - XII ZR 187/00](xii-zr-187-00.md) — 3-
+- [BGH, Urteil vom 11.09.2002 - XII ZR 219/00](xii-zr-219-00.md) — Tatbestand: Die Beklagte vermietete dem Kläger mit Vertrag vom 1. Oktober 1997, dessen § 5 eine Wertsicherungsklausel enthält, für die Zeit
+- [BGH, Beschluss vom 11.09.2002 - XII ZR 54/01](xii-zr-54-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Versäumnisurteil vom 11.09.2002 - XII ZR 9/01](xii-zr-9-01.md) — Tatbestand: Der Kläger macht gegen die Beklagte einen Zahlungsanspruch in Höhe hälftiger Kontenguthaben geltend. Die Parteien sind seit 1952
+- [BGH, Beschluss vom 04.09.2002 - XII ZB 130/98](xii-zb-130-98.md) — I. Die am 18. Oktober 1974 geschlossene Ehe der Parteien wurde auf den dem Ehemann (Antragsgegner) am 09. Oktober 1995 zugestellten Antrag der Ehefrau (Antragstellerin) durch …
+- [BGH, Beschluss vom 04.09.2002 - XII ZB 46/98](xii-zb-46-98.md) — I. Die am 08. Januar 1971 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 27. Februar 1997 zugestellten Antrag des Ehemannes (Antragsteller) durch …
+- [BGH, Beschluss vom 04.09.2002 - XII ZR 11/00](xii-zr-11-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 04.09.2002 - XII ZR 173/02](xii-zr-173-02.md) — I. Die Beklagte hat mit der VE EHB (HO) Gaststätten Potsdam einen Nutzungsvertrag über eine Gaststätte abgeschlossen. Das Landgericht hat die Beklagte in zwei selbständigen …
+- [BGH, Urteil vom 04.09.2002 - XII ZR 268/99](xii-zr-268-99.md) — Tatbestand: Die Parteien streiten um Ansprüche aus einem Pachtvertrag. Die Kläger sind die Erben des im April 1996 verstorbenen R. T. . Dies
 - [BGH, Beschluss vom 21.08.2002 - XII ZB 113/02](xii-zb-113-02.md) — fehlender Erfolgsaussicht zurückgewiesen (§ 114 ZPO).
+- [BGH, Beschluss vom 21.08.2002 - XII ZB 114/02](xii-zb-114-02.md) — fehlender Erfolgsaussicht zurückgewiesen (§ 114 ZPO).
 - [BGH, Beschluss vom 21.08.2002 - XII ZB 115/02](xii-zb-115-02.md) — fehlender Erfolgsaussicht zurückgewiesen (§ 114 ZPO).
+- [BGH, Beschluss vom 14.08.2002 - XII ZB 13/02](xii-zb-13-02.md) — der Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorigen Stand sowie Prozeßkostenhilfe beantragt. Zur Begründung des Wie
+- [BGH, Beschluss vom 14.08.2002 - XII ZR 139/02](xii-zr-139-02.md) — I. Die Klägerin hat der Beklagten mit Mietverträgen vom 18. Oktober 2000 in der Stuttgarter Markthalle einen 33 m² großen Standplatz sowie zwei Lagerräume im Untergeschoß …
+- [BGH, Beschluss vom 31.07.2002 - XII ZB 102/00](xii-zb-102-00.md) — ihrer zu diesem Zeitpunkt bestehenden Schwangerschaft für sittenwidrig hielt.
+- [BGH, Beschluss vom 31.07.2002 - XII ZB 108/02](xii-zb-108-02.md) — Das Rechtsmittel ist nicht statthaft, weil gegen Zwischenentscheidungen der Oberlandesgerichte in Angelegenheiten der freiwilligen Gerichtsbarkeit der vorliegenden Art kein …
+- [BGH, Beschluss vom 31.07.2002 - XII ZR 171/99](xii-zr-171-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Beschluss vom 24.07.2002 - XII ZB 31/02](xii-zb-31-02.md) — BGH, Beschluss vom 24.07.2002 - XII ZB 31/02
 - [BGH, Beschluss vom 17.07.2002 - XII ZB 62/00](xii-zb-62-00.md) — BGH, Beschluss vom 17.07.2002 - XII ZB 62/00
 - [BGH, Urteil vom 17.07.2002 - XII ZR 218/00](xii-zr-218-00.md) — Tatbestand: Die Parteien streiten um Zugewinnausgleich. Die am 4. August 1984 (nicht: 1994) geschlossene Ehe der Parteien ist auf den am 19.
 - [BGH, Beschluss vom 17.07.2002 - XII ZR 248/99](xii-zr-248-99.md) — BGH, Beschluss vom 17.07.2002 - XII ZR 248/99
 - [BGH, Urteil vom 17.07.2002 - XII ZR 86/01](xii-zr-86-01.md) — BGH, Urteil vom 17.07.2002 - XII ZR 86/01
+- [BGH, Beschluss vom 10.07.2002 - XII ZB 122/99](xii-zb-122-99.md) — I. Die am 7. Januar 1983 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am (richtig:) 12. November 1997 zugestellten Antrag des Ehemannes …
+- [BGH, Beschluss vom 10.07.2002 - XII ZB 147/00](xii-zb-147-00.md) — I. Die am 28. Februar 1980 geschlossene Ehe der Parteien wurde auf den dem Ehemann (Antragsgegner) am 5. November 1992 zugestellten Antrag der Ehefrau (Antragstellerin) durch …
+- [BGH, Beschluss vom 10.07.2002 - XII ZB 6/01](xii-zb-6-01.md) — I. Die am 10. Oktober 1977 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 16. Dezember 1999 zugestellten Antrag des Ehemannes (Antragsteller) durch …
+- [BGH, Urteil vom 10.07.2002 - XII ZR 107/99](xii-zr-107-99.md) — Tatbestand: Die Parteien streiten darüber, ob die Beklagte verpflichtet ist, dem Kläger den Schaden zu ersetzen, der seiner verstorbenen Mut
+- [BGH, Urteil vom 10.07.2002 - XII ZR 314/00](xii-zr-314-00.md) — Tatbestand: Die Parteien streiten über die Wirksamkeit eines gewerblichen Mietvertrages. Die Beklagte, eine Getränkefirma, vermietete durch
+- [BGH, Urteil vom 03.07.2002 - XII ZR 234/99](xii-zr-234-99.md) — Tatbestand:
+- [BGH, Urteil vom 03.07.2002 - XII ZR 327/00](xii-zr-327-00.md) — Tatbestand: Die Bundesrepublik Deutschland hatte der Beklagten auf einem ehemaligen Kasernengelände, das sie 1996 an den Kläger veräußerte,
+- [BGH, Urteil vom 03.07.2002 - XII ZR 39/00](xii-zr-39-00.md) — 3-
+- [BGH, Beschluss vom 03.07.2002 - XII ZR 72/02](xii-zr-72-02.md) — BGH, Beschluss vom 03.07.2002 - XII ZR 72/02
+- [BGH, Beschluss vom 26.06.2002 - XII ZR 148/00](xii-zr-148-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 19.06.2002 - XII ZR 173/00](xii-zr-173-00.md) — Tatbestand: Die Parteien sind die Eltern des am 12. September 1990 geborenen Kindes L.. Der Kläger verlangt von der Beklagten den Ersatz von
+- [BGH, Urteil vom 19.06.2002 - XII ZR 211/99](xii-zr-211-99.md) — Tatbestand: Die Klägerin verlangt von dem Beklagten Räumung und Herausgabe von Gewerberäumen sowie die Zahlung rückständigen Mietzinses. Die
+- [BGH, Beschluss vom 19.06.2002 - XII ZR 5/02](xii-zr-5-02.md) — I. Der Kläger macht gegen den Beklagten die Zahlung rückständigen Mietzinses für die Zeit von August 1997 bis Juni 1998 in Gesamthöhe von 67.926,50 DM nebst Zinsen geltend. Das …
+- [BGH, Urteil vom 12.06.2002 - XII ZR 288/00](xii-zr-288-00.md) — Tatbestand: Der Kläger verlangt von der Beklagten Zustimmung zur Zusammenveranlagung zur Einkommensteuer nach § 26 b EStG für die Jahre 1994
 - [BGH, Beschluss vom 05.06.2002 - XII ZB 74/00](xii-zb-74-00.md) — I. Die Parteien streiten im Rahmen des Scheidungsverbundes um die elterliche Sorge für ihre am 8. September 1995 geborene Tochter L. Nach der Mitte Februar 1998 erfolgten Trennung …
 - [BGH, Urteil vom 05.06.2002 - XII ZR 194/00](xii-zr-194-00.md) — Tatbestand: Die seit dem 9. Mai 1984 miteinander verheirateten Parteien lebten bis zum Beitritt im gesetzlichen Güterstand der Eigentums- un
 - [BGH, Urteil vom 05.06.2002 - XII ZR 220/99](xii-zr-220-99.md) — der fiktiven Reparaturund Instandsetzungskosten für das Gebäude V. Straße/ E. in K. abgewiesen worden ist.
 - [BGH, Beschluss vom 05.06.2002 - XII ZR 302/01](xii-zr-302-01.md) — Das Berufungsgericht hat den nachehelichen Unterhalt der Klägerin zu Recht nach der Differenzmethode berechnet.
+- [BGH, Beschluss vom 29.05.2002 - XII ZB 14/02](xii-zb-14-02.md) — . Soweit sich das Rechtsmittel gegen die Zurückweisung des Antrags auf Prozeßkostenhilfe durch das Oberlandesgericht richtet, ist es nicht zulässig, weil gegen Beschlüsse der …
+- [BGH, Beschluss vom 29.05.2002 - XII ZB 60/02](xii-zb-60-02.md) — Gegen Entscheidungen der Oberlandesgerichte ist gemäß § 567 Abs.
+- [BGH, Urteil vom 29.05.2002 - XII ZR 28/99](xii-zr-28-99.md) — Tatbestand: Der Kläger verlangt aus abgetretenem Recht Schadensersatz wegen nicht durchgeführter Schönheitsreparaturen und wegen Beschädigun
+- [BGH, Beschluss vom 15.05.2002 - XII ZB 156/01](xii-zb-156-01.md) — I. Das Amtsgericht - Familiengericht - hat die Ehe der Parteien durch Verbundurteil geschieden und den Versorgungsausgleich geregelt. Dabei hat es -3- im Wege des Rentensplittings …
+- [BGH, Beschluss vom 15.05.2002 - XII ZR 201/00](xii-zr-201-00.md) — I. Die Klägerin vermietete an die Firma K. B. GmbH & Co. Räume zum Betrieb eines Ladenlokals auf die Dauer von zehn Jahren. Nach Eröffnung des Konkursverfahrens über das Vermögen …
+- [BGH, Beschluss vom 15.05.2002 - XII ZR 306/01](xii-zr-306-01.md) — Die Revisionseinlegung beruht nicht auf unverschuldeter Unkenntnis der rechtlichen Verhältnisse im Sinne des § 8 Abs.
+- [BGH, Beschluss vom 08.05.2002 - XII ZR 226/99](xii-zr-226-99.md) — deren Konkurs ende. Im übrigen stehen der Klägerin aus Nr. 3 der Zusatzvereinbarung schon deshalb keine Ansprüche zu, weil die Vereinbarung
 - [BGH, Urteil vom 08.05.2002 - XII ZR 323/00](xii-zr-323-00.md) — Tatbestand: Der Kläger verlangt von dem Beklagten als Konkursverwalter Mietzins aus einem mit dem Gemeinschuldner abgeschlossenen Mietvertra
+- [BGH, Beschluss vom 08.05.2002 - XII ZR 74/00](xii-zr-74-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Urteil vom 08.05.2002 - XII ZR 8/00](xii-zr-8-00.md) — Tatbestand: Mit Mietvertrag vom 23. April 1991 vermietete die Klägerin (zunächst mit einem weiteren Miteigentümer) dem Beklagten Gewerberäum
 - [BGH, Beschluss vom 24.04.2002 - XII ZB 27/02](xii-zb-27-02.md) — offenbarer Unrichtigkeit dahin geändert, daß im vierten Absatz der Gründe die Worte "Amts- und" entfallen.
+- [BGH, Beschluss vom 17.04.2002 - XII ZB 186/01](xii-zb-186-01.md) — I. Durch den angefochtenen Beschluß vom 14. Januar 1999 änderte das Amtsgericht - Familiengericht - den durch ein früheres Urteil angeordneten Versorgungsausgleich nach § 10 a …
+- [BGH, Beschluss vom 17.04.2002 - XII ZB 46/02](xii-zb-46-02.md) — Das Landgericht hat die Beschwerde des Antragstellers gegen den Beschluß des Amtsgerichts vom 17.
+- [BGH, Urteil vom 17.04.2002 - XII ZR 182/00](xii-zr-182-00.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 17.04.2002 - XII ZR 267/01](xii-zr-267-01.md) — Tatbestand: Die Klägerin nimmt den Beklagten, ihren getrennt lebenden Ehemann, im Wege der Stufenklage auf hälftige Auskehrung erlangter Zin
+- [BGH, Beschluss vom 10.04.2002 - XII ZR 178/99](xii-zr-178-99.md) — Die beabsichtigte Rechtsverfolgung bietet keine hinreichende Aussicht auf Erfolg.
+- [BGH, Urteil vom 10.04.2002 - XII ZR 217/98](xii-zr-217-98.md) — Tatbestand: Die Parteien streiten darüber, ob die Beklagten die Kosten für den Rückbau von Gleisanlagen zu ersetzen haben. Die Rechtsvorgäng
+- [BGH, Beschluss vom 10.04.2002 - XII ZR 248/01](xii-zr-248-01.md) — Die Klägerin hat der Beklagten die Liegenschaft Flugplatz N.
+- [BGH, Beschluss vom 10.04.2002 - XII ZR 256/99](xii-zr-256-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 10.04.2002 - XII ZR 257/99](xii-zr-257-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Urteil vom 10.04.2002 - XII ZR 37/00](xii-zr-37-00.md) — Tatbestand:
 - [BGH, Urteil vom 27.03.2002 - XII ZR 143/00](xii-zr-143-00.md) — Tatbestand:
 - [BGH, Urteil vom 27.03.2002 - XII ZR 203/99](xii-zr-203-99.md) — Tatbestand: Die Klägerin, Mutter des beigeladenen Kindes, begehrt die Feststellung, daß das Kind nicht von dem Beklagten abstammt. Die am 21
+- [BGH, Beschluss vom 20.03.2002 - XII ZB 231/01](xii-zb-231-01.md) — der Versäumung der Berufungsfrist sowie wegen der Versäumung der Zweiwochenfrist für den Wiedereinsetzungsantrag. Er machte geltend, die Kan
+- [BGH, Urteil vom 20.03.2002 - XII ZR 159/00](xii-zr-159-00.md) — Tatbestand: Der Kläger begehrt Abänderung eines Urteils, nach dem er verpflichtet ist, an die Beklagte Trennungsunterhalt von monatlich 1.69
+- [BGH, Urteil vom 20.03.2002 - XII ZR 176/00](xii-zr-176-00.md) — Tatbestand: Der Kläger verlangt von der Beklagten 23.906,57 DM als Ausgleich für eine von ihm geleistete Einkommensteuer-Vorauszahlung. Die
+- [BGH, Urteil vom 20.03.2002 - XII ZR 216/00](xii-zr-216-00.md) — Tatbestand: Die am 15. Februar 1985 geborene Klägerin stammt aus der 1990 geschiedenen Ehe der Beklagten mit dem Kindesvater, in dessen Haus
 - [BGH, Beschluss vom 13.03.2002 - XII ZR 10/00](xii-zr-10-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 06.03.2002 - XII ZB 29/02](xii-zb-29-02.md) — Gegen Entscheidungen der Oberlandesgerichte ist gemäß § 567 Abs.
+- [BGH, Urteil vom 06.03.2002 - XII ZR 133/00](xii-zr-133-00.md) — Tatbestand:
+- [BGH, Beschluss vom 06.03.2002 - XII ZR 289/99](xii-zr-289-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 27.02.2002 - XII ZB 237/01](xii-zb-237-01.md) — seiner dienstlichen Verhinderung zum fraglichen Zeitpunkt zu erreichen versuchen. Er habe nämlich beabsichtigt, den äußerst komplexen Sachve
+- [BGH, Beschluss vom 27.02.2002 - XII ZR 189/99](xii-zr-189-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Urteil vom 20.02.2002 - XII ZR 104/00](xii-zr-104-00.md) — BGH, Urteil vom 20.02.2002 - XII ZR 104/00
 - [BGH, Beschluss vom 20.02.2002 - XII ZR 212/99](xii-zr-212-99.md) — BGH, Beschluss vom 20.02.2002 - XII ZR 212/99
 - [BGH, Beschluss vom 20.02.2002 - XII ZR 356/00](xii-zr-356-00.md) — BGH, Beschluss vom 20.02.2002 - XII ZR 356/00
 - [BGH, Beschluss vom 20.02.2002 - XII ZR 86/99](xii-zr-86-99.md) — BGH, Beschluss vom 20.02.2002 - XII ZR 86/99
+- [BGH, Beschluss vom 13.02.2002 - XII ZB 179/01](xii-zb-179-01.md) — BGH, Beschluss vom 13.02.2002 - XII ZB 179/01
+- [BGH, Beschluss vom 13.02.2002 - XII ZB 191/00](xii-zb-191-00.md) — Gefährdung der öffentlichen Ordnung die so-
+- [BGH, Beschluss vom 06.02.2002 - XII ZB 1/02](xii-zb-1-02.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmen - keine Beschwerde zulässig (§§ 567 Abs.
+- [BGH, Urteil vom 06.02.2002 - XII ZR 20/00](xii-zr-20-00.md) — Tatbestand: Die vom Beklagten getrenntlebende Klägerin macht gegen ihn in Prozeßstandschaft Unterhalt für die gemeinsamen Kinder geltend. Au
+- [BGH, Urteil vom 06.02.2002 - XII ZR 213/00](xii-zr-213-00.md) — Tatbestand: Die Klägerin ist die Witwe des am 4. Januar 1994 verstorbenen Kaufmanns Werner Peter B. . Mit der am 11. November 1997 zugestell
 - [BGH, Beschluss vom 30.01.2002 - XII ZB 122/01](xii-zb-122-01.md) — der Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen Stand zu gewähren.
 - [BGH, Beschluss vom 30.01.2002 - XII ZB 94/00](xii-zb-94-00.md) — I. Die Kinder Martha Maria F. , geboren am 1. Juli 1990, und Elisabeth Anna F. , geboren am 25. Januar 1993, sind aus der am 24. September 1996 geschiedenen Ehe des Antragsgegners …
 - [BGH, Beschluss vom 30.01.2002 - XII ZR 106/99](xii-zr-106-99.md) — seiner Laufzeit der Schriftform des § 566 BGB a.F. bedarf, ebenfalls diese Schriftform erfordert, wenn die Laufzeit erhalten bleiben soll. D
+- [BGH, Beschluss vom 23.01.2002 - XII ZB 105/01](xii-zb-105-01.md) — I. Die am 27. Dezember 1984 geschlossene Ehe der Parteien wurde auf den dem Ehemann (Antragsgegner) am 4. Mai 2000 zugestellten Antrag der Ehefrau (Antragstellerin) durch …
+- [BGH, Beschluss vom 23.01.2002 - XII ZB 109/01](xii-zb-109-01.md) — I. Die am 26. August 1983 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 29. April 2000 zugestellten Antrag des Ehemanns (Antragsteller) durch …
+- [BGH, Beschluss vom 23.01.2002 - XII ZB 139/00](xii-zb-139-00.md) — I. Die am 29. Mai 1981 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 13. Januar 2000 zugestellten Antrag des Ehemanns (Antragsteller) durch …
+- [BGH, Beschluss vom 23.01.2002 - XII ZB 143/01](xii-zb-143-01.md) — I. Die am 16. April 1982 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin) am 10. November 2000 zugestellten Antrag des Ehemanns (Antragsteller) durch …
+- [BGH, Beschluss vom 23.01.2002 - XII ZB 155/01](xii-zb-155-01.md) — Die Beschwerde ist begründet. Entgegen der Auffassung des Oberlandesgerichts war dem Beklagten Wiedereinsetzung in den vorigen Stand zu gewähren, weil er ohne Verschulden …
+- [BGH, Beschluss vom 23.01.2002 - XII ZB 170/01](xii-zb-170-01.md) — I. Die am 26. November 1965 geschlossene Ehe der Parteien wurde auf den dem Ehemann (Antragsgegner) am 30. Oktober 2000 zugestellten Antrag der Ehefrau (Antragstellerin) durch …
+- [BGH, Beschluss vom 23.01.2002 - XII ZB 205/01](xii-zb-205-01.md) — I. Die am 26. Februar 1972 geschlossene Ehe der Parteien wurde auf den dem Ehemann (Antragsgegner) am 8. Februar 2000 zugestellten Antrag der Ehefrau (Antragstellerin) durch …
+- [BGH, Beschluss vom 23.01.2002 - XII ZB 66/01](xii-zb-66-01.md) — I. Die am 20. März 1987 geschlossene Ehe der Parteien wurde auf den dem Ehemann (Antragsgegner) am 11. Mai 2000 zugestellten Antrag der Ehefrau (Antragstellerin) durch …
+- [BGH, Urteil vom 23.01.2002 - XII ZR 5/00](xii-zr-5-00.md) — Tatbestand:
+- [BGH, Urteil vom 23.01.2002 - XII ZR 91/00](xii-zr-91-00.md) — Tatbestand: Der Kläger verlangt als Gesamtvollstreckungsverwalter über den Nachlaß des Peter Wilhelm W. von dem Beklagten Rick Paul P., W. 7
+- [BGH, Beschluss vom 16.01.2002 - XII ZR 171/00](xii-zr-171-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Beschluss vom 09.01.2002 - XII ZB 166/99](xii-zb-166-99.md) — I. Das am 20. Februar 1994 geborene Kind Vanessa H. ist aus der am 22. April 1996 geschiedenen Ehe des Antragsgegners mit der Antragstelle- rin hervorgegangen, die das alleinige …
 - [BGH, Beschluss vom 09.01.2002 - XII ZB 199/01](xii-zb-199-01.md) — des Vermögens der Betroffenen von 8.861,50 DM aus der Staatskasse keine Vergütung festzusetzen sei. Vielmehr sei diese aus dem Vermögen der
 - [BGH, Beschluss vom 09.01.2002 - XII ZB 248/01](xii-zb-248-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmen - keine Beschwerde zulässig (§§ 567 Abs.

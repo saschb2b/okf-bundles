@@ -1,59 +1,141 @@
 # VIII. Zivilsenat – 2008
 
-55 Entscheidung(en).
+137 Entscheidung(en).
 
 - [BGH, Urteil vom 17.12.2008 - VIII ZR 13/08](viii-zr-13-08.md) — des gegen den Vermieter gerichteten Anspruchs auf Verschaffung des Eigentums an der Mietwohnung nicht zu.
+- [BGH, Urteil vom 17.12.2008 - VIII ZR 159/07](viii-zr-159-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.12.2008 - VIII ZR 23/08](viii-zr-23-08.md) — Tatbestand:
 - [BGH, Urteil vom 17.12.2008 - VIII ZR 274/06](viii-zr-274-06.md) — unangemessen benachteiligt.
+- [BGH, Urteil vom 17.12.2008 - VIII ZR 41/08](viii-zr-41-08.md) — Tatbestand:
+- [BGH, Urteil vom 17.12.2008 - VIII ZR 84/08](viii-zr-84-08.md) — Tatbestand:
 - [BGH, Urteil vom 17.12.2008 - VIII ZR 92/08](viii-zr-92-08.md) — Tatbestand:
+- [BGH, Beschluss vom 16.12.2008 - VIII ZB 78/06](viii-zb-78-06.md) — dieses Anspruchs bereits zuvor bei dem Landgericht
+- [BGH, Beschluss vom 16.12.2008 - VIII ZR 198/07](viii-zr-198-07.md) — Der Senat hat in dem Beschluss vom 23. September 2008 das von der Anhörungsrüge als übergangen gerügte Vorbringen geprüft, aber für nicht durchgreifend erachtet. Von einer …
 - [BGH, Urteil vom 10.12.2008 - VIII ZR 293/07](viii-zr-293-07.md) — Tatbestand:
 - [BGH, Beschluss vom 09.12.2008 - VIII ZR 212/06](viii-zr-212-06.md) — BGH, Beschluss vom 09.12.2008 - VIII ZR 212/06
+- [BGH, Urteil vom 26.11.2008 - VIII ZR 200/05](viii-zr-200-05.md) — 3-
+- [BGH, Versäumnisurteil vom 26.11.2008 - VIII ZR 200/06](viii-zr-200-06.md) — Tatbestand:
+- [BGH, Urteil vom 26.11.2008 - VIII ZR 309/07](viii-zr-309-07.md) — Tatbestand:
+- [BGH, Urteil vom 19.11.2008 - VIII ZR 138/07](viii-zr-138-07.md) — Tatbestand:
 - [BGH, Urteil vom 19.11.2008 - VIII ZR 295/07](viii-zr-295-07.md) — Tatbestand:
+- [BGH, Urteil vom 19.11.2008 - VIII ZR 30/08](viii-zr-30-08.md) — Tatbestand:
+- [BGH, Urteil vom 19.11.2008 - VIII ZR 311/07](viii-zr-311-07.md) — Zahlungsverzugs des Schuldners Anwendung.
 - [BGH, Urteil vom 19.11.2008 - VIII ZR 47/07](viii-zr-47-07.md) — Tatbestand:
+- [BGH, Beschluss vom 18.11.2008 - VIII ZR 73/08](viii-zr-73-08.md) — Der vom Berufungsgericht angenommene Grund für die Zulassung der Revision besteht jedenfalls aufgrund der nach Erlass des Berufungsurteils er- gangenen Senatsrechtsprechung nicht …
+- [BGH, Urteil vom 12.11.2008 - VIII ZR 170/07](viii-zr-170-07.md) — Tatbestand:
+- [BGH, Urteil vom 12.11.2008 - VIII ZR 270/07](viii-zr-270-07.md) — Tatbestand:
 - [BGH, Beschluss vom 11.11.2008 - VIII ZB 24/08](viii-zb-24-08.md) — desselben Gegenstandes angefallene Ge-
+- [BGH, Beschluss vom 11.11.2008 - VIII ZB 26/08](viii-zb-26-08.md) — desselben Gegenstandes angefallene Geschäftsgebühr könne im
+- [BGH, Urteil vom 11.11.2008 - VIII ZR 265/07](viii-zr-265-07.md) — 3-
 - [BGH, Beschluss vom 05.11.2008 - VIII ZB 3/08](viii-zb-3-08.md) — offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO in der Formel dahin berichtigt, dass es in der Formel heißt: "... als die sofortige Beschwer
 - [BGH, Urteil vom 05.11.2008 - VIII ZR 166/07](viii-zr-166-07.md) — Tatbestand:
-- [BGH, Urteil vom 29.10.2008 - VIII ZR 205/05](viii-zr-205-05.md) — des Anspruchs auf Buchauszug insgesamt abgewiesen.
+- [BGH, Urteil vom 29.10.2008 - VIII ZR 258/07](viii-zr-258-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.10.2008 - VIII ZR 313/07](viii-zr-313-07.md) — Tatbestand:
+- [BGH, Beschluss vom 28.10.2008 - VIII ZB 28/08](viii-zb-28-08.md) — I. 1 Die Antragsteller verpflichteten sich in einem gerichtlichen Vergleich ge- genüber dem Antragsgegner, zwei von ihnen bewohnte Reihenhäuser bis spä- testens 31. März 2008 zu …
+- [BGH, Beschluss vom 28.10.2008 - VIII ZR 320/06](viii-zr-320-06.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil der Wert der von der Beklagten mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
+- [BGH, Urteil vom 22.10.2008 - VIII ZR 283/07](viii-zr-283-07.md) — nicht vorgenommener Schönheitsreparaturen abgewiesen worden ist.
 - [BGH, Beschluss vom 21.10.2008 - VIII ZR 189/07](viii-zr-189-07.md) — nicht vertragsgemäßen Gebrauchs der Mieträume durch die Beklagte
+- [BGH, Beschluss vom 21.10.2008 - VIII ZR 304/07](viii-zr-304-07.md) — Die Frage, zu deren Klärung das Berufungsgericht die Revision zugelas- sen hat, ist - nach Erlass des Berufungsurteils - durch das Senatsurteil vom 15.
+- [BGH, Beschluss vom 21.10.2008 - VIII ZR 65/08](viii-zr-65-08.md) — Die Frage, zu deren Klärung das Berufungsgericht die Revision zugelas- sen hat, ist - nach Erlass des Berufungsurteils - durch das Senatsurteil vom 15.
+- [BGH, Urteil vom 15.10.2008 - VIII ZR 321/07](viii-zr-321-07.md) — Tatbestand:
+- [BGH, Urteil vom 01.10.2008 - VIII ZR 13/05](viii-zr-13-05.md) — Tatbestand:
 - [BGH, Urteil vom 01.10.2008 - VIII ZR 21/07](viii-zr-21-07.md) — Tatbestand:
+- [BGH, Beschluss vom 01.10.2008 - VIII ZR 268/07](viii-zr-268-07.md) — I. 1 Der Kläger ist ein Verbraucherverband, der in die gemäß § 4 des Unter- lassungsklagengesetzes (UKlaG) beim Bundesverwaltungsamt geführte Liste qualifizierter Einrichtungen …
+- [BGH, Beschluss vom 30.09.2008 - VIII ZB 63/08](viii-zb-63-08.md) — I. 1 Das Amtsgericht hat die Beklagte (als Gesamtschuldnerin) durch das im Tenor genannte Urteil zur Räumung des von ihr und ihrem Ehemann gemiete- ten Reihenhausgrundstücks …
 - [BGH, Beschluss vom 30.09.2008 - VIII ZR 248/06](viii-zr-248-06.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil der Wert der von der Beklagten mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
+- [BGH, Beschluss vom 29.09.2008 - VIII ZR 124/08](viii-zr-124-08.md) — eines ab-
+- [BGH, Urteil vom 24.09.2008 - VIII ZR 192/06](viii-zr-192-06.md) — Tatbestand:
 - [BGH, Urteil vom 24.09.2008 - VIII ZR 275/07](viii-zr-275-07.md) — Tatbestand:
 - [BGH, Beschluss vom 23.09.2008 - VIII ZR 85/08](viii-zr-85-08.md) — I. 1 Das Amtsgericht Traunstein hat durch Urteil vom 13. Dezember 2006 die Beklagte verurteilt, an die Klägerin 2.784 € nebst Zinsen zu zahlen; im Übrigen hat es die Klage …
+- [BGH, Urteil vom 17.09.2008 - VIII ZR 58/08](viii-zr-58-08.md) — Tatbestand:
+- [BGH, Beschluss vom 16.09.2008 - VIII ZR 112/08](viii-zr-112-08.md) — Ein Grund für die Zulassung der Revision besteht nicht.
 - [BGH, Beschluss vom 03.09.2008 - VIII ZR 163/08](viii-zr-163-08.md) — BGH, Beschluss vom 03.09.2008 - VIII ZR 163/08
+- [BGH, Beschluss vom 19.08.2008 - VIII ZR 157/07](viii-zr-157-07.md) — Die Voraussetzungen für die Zulassung der Revision liegen nicht (mehr) vor.
 - [BGH, Beschluss vom 19.08.2008 - VIII ZR 249/07](viii-zr-249-07.md) — offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO dahin berichtigt, dass die (in der Revisionsinstanz) unterlegenen Kläger die Kosten des Revi
+- [BGH, Beschluss vom 18.08.2008 - VIII ZR 215/08](viii-zr-215-08.md) — I. 1 Das Amtsgericht hat die Beklagte verurteilt, das von ihr bewohnte Haus mit Ausnahme der vermieteten Einliegerwohnung im Untergeschoss zu räumen und an die Kläger …
+- [BGH, Beschluss vom 23.07.2008 - VIII ZB 37/08](viii-zb-37-08.md) — Die Rechtsbeschwerde ist unzulässig, weil sie nicht von einem beim Bundesgerichtshof zugelassenen Rechtsanwalt eingelegt worden ist (§ 78 Abs.
+- [BGH, Urteil vom 16.07.2008 - VIII ZR 151/05](viii-zr-151-05.md) — einer von dem Kündigungsgegner schuldhaft veranlassten fristlosen Kündigung ist nicht zeitlich begrenzt, wenn der Kündigungsgegner auf sein
+- [BGH, Versäumnisurteil vom 16.07.2008 - VIII ZR 282/07](viii-zr-282-07.md) — Tatbestand:
+- [BGH, Urteil vom 16.07.2008 - VIII ZR 348/06](viii-zr-348-06.md) — BGH, Urteil vom 16.07.2008 - VIII ZR 348/06
 - [BGH, Urteil vom 16.07.2008 - VIII ZR 57/07](viii-zr-57-07.md) — Tatbestand:
 - [BGH, Beschluss vom 15.07.2008 - VIII ZB 83/06](viii-zb-83-06.md) — BGH, Beschluss vom 15.07.2008 - VIII ZB 83/06
+- [BGH, Urteil vom 15.07.2008 - VIII ZR 211/07](viii-zr-211-07.md) — Tatbestand:
 - [BGH, Urteil vom 09.07.2008 - VIII ZR 181/07](viii-zr-181-07.md) — Tatbestand:
 - [BGH, Beschluss vom 09.07.2008 - VIII ZR 184/07](viii-zr-184-07.md) — Fehlens der internationalen Zuständigkeit deut-
 - [BGH, Urteil vom 09.07.2008 - VIII ZR 280/07](viii-zr-280-07.md) — Tatbestand:
+- [BGH, Urteil vom 09.07.2008 - VIII ZR 83/07](viii-zr-83-07.md) — Tatbestand:
+- [BGH, Beschluss vom 08.07.2008 - VIII ZR 4/08](viii-zr-4-08.md) — Ein Grund für die Zulassung der Revision besteht nicht.
+- [BGH, Beschluss vom 08.07.2008 - VIII ZR 5/08](viii-zr-5-08.md) — Ein Grund für die Zulassung der Revision besteht nicht.
+- [BGH, Beschluss vom 30.06.2008 - VIII ZR 98/08](viii-zr-98-08.md) — Nach § 719 Abs. 2 ZPO, der gemäß § 544 Abs. 5 Satz 2 ZPO in dem hier gegebenen Fall der Nichtzulassungsbeschwerde entsprechend anwendbar ist, kann das Revisionsgericht die …
+- [BGH, Urteil vom 25.06.2008 - VIII ZR 103/07](viii-zr-103-07.md) — Tatbestand:
 - [BGH, Urteil vom 25.06.2008 - VIII ZR 307/07](viii-zr-307-07.md) — Tatbestand:
 - [BGH, Beschluss vom 25.06.2008 - VIII ZR 81/05](viii-zr-81-05.md) — BGH, Beschluss vom 25.06.2008 - VIII ZR 81/05
+- [BGH, Urteil vom 18.06.2008 - VIII ZR 114/07](viii-zr-114-07.md) — Tatbestand:
+- [BGH, Urteil vom 18.06.2008 - VIII ZR 154/06](viii-zr-154-06.md) — Tatbestand:
 - [BGH, Urteil vom 18.06.2008 - VIII ZR 224/07](viii-zr-224-07.md) — unangemessener Benachteiligung des Mieters unwirksam, wenn sie nicht auf den Zustand der Wohnung im Zeitpunkt der Rückgabe der Mietsache bes
 - [BGH, Beschluss vom 16.06.2008 - VIII ZB 87/06](viii-zb-87-06.md) — I. 1 Die Kläger sind Eigentümer eines von acht gleichen Häusern einer Ein- familienhausreihe in D. . Die Häuser werden aufgrund einheitlicher Ver- träge mit den jeweiligen …
+- [BGH, Urteil vom 04.06.2008 - VIII ZR 292/07](viii-zr-292-07.md) — Eigenbedarfs kündigenden Vermieters, dem Mieter bis zum Ablauf der Kündigungsfrist eine vergleichbare, im selben Haus oder in derselben Wohn
 - [BGH, Beschluss vom 03.06.2008 - VIII ZB 101/07](viii-zb-101-07.md) — von einem entsprechenden Wert der Beschwer
+- [BGH, Urteil vom 28.05.2008 - VIII ZR 126/07](viii-zr-126-07.md) — 3-
 - [BGH, Urteil vom 28.05.2008 - VIII ZR 133/07](viii-zr-133-07.md) — Tatbestand:
 - [BGH, Urteil vom 28.05.2008 - VIII ZR 261/07](viii-zr-261-07.md) — erforderlich, weil diese Werte für aufeinander folgende Abrechnungsjahre Unterschiede aufweisen, deren Grund für den Mieter nicht ohne Weite
 - [BGH, Urteil vom 28.05.2008 - VIII ZR 271/07](viii-zr-271-07.md) — Tatbestand:
 - [BGH, Beschluss vom 27.05.2008 - VIII ZB 104/07](viii-zb-104-07.md) — BGH, Beschluss vom 27.05.2008 - VIII ZB 104/07
+- [BGH, Urteil vom 21.05.2008 - VIII ZR 308/07](viii-zr-308-07.md) — Tatbestand:
 - [BGH, Urteil vom 21.05.2008 - VIII ZR 90/06](viii-zr-90-06.md) — Tatbestand:
 - [BGH, Beschluss vom 20.05.2008 - VIII ZB 92/07](viii-zb-92-07.md) — eines Mangels
+- [BGH, Beschluss vom 20.05.2008 - VIII ZB 98/06](viii-zb-98-06.md) — I. 1 Die Klägerin hat den Beklagten auf Zahlung des Restkaufpreises für Wa- renlieferungen in Anspruch genommen. Mit Schreiben vom 27. Juni 2006 hat der Beklagte persönlich dem …
 - [BGH, Urteil vom 30.04.2008 - VIII ZR 233/07](viii-zr-233-07.md) — Tatbestand:
+- [BGH, Urteil vom 30.04.2008 - VIII ZR 240/07](viii-zr-240-07.md) — Tatbestand:
+- [BGH, Beschluss vom 29.04.2008 - VIII ZB 61/07](viii-zb-61-07.md) — I. 1 Die Kläger sind Milcherzeuger. Sie erwarben von der Beklagten in den Jahren 2001 bis 2003 Anlieferungs-Referenzmengen ("Milchquoten") im Rah- men der regulierten …
 - [BGH, Beschluss vom 29.04.2008 - VIII ZB 67/07](viii-zb-67-07.md) — BGH, Beschluss vom 29.04.2008 - VIII ZB 67/07
 - [BGH, Urteil vom 16.04.2008 - VIII ZR 230/07](viii-zr-230-07.md) — Tatbestand:
+- [BGH, Urteil vom 16.04.2008 - VIII ZR 75/07](viii-zr-75-07.md) — Tatbestand:
 - [BGH, Beschluss vom 15.04.2008 - VIII ZB 127/06](viii-zb-127-06.md) — der Ver-
+- [BGH, Beschluss vom 09.04.2008 - VIII ZB 58/06](viii-zb-58-06.md) — unterlassener Schönheitsreparaturen bei Mietende Schadensersatz in
+- [BGH, Urteil vom 09.04.2008 - VIII ZR 286/06](viii-zr-286-06.md) — Tatbestand:
+- [BGH, Urteil vom 09.04.2008 - VIII ZR 287/06](viii-zr-287-06.md) — Tatbestand:
+- [BGH, Urteil vom 09.04.2008 - VIII ZR 84/07](viii-zr-84-07.md) — Tatbestand:
+- [BGH, Beschluss vom 08.04.2008 - VIII ZB 20/06](viii-zb-20-06.md) — seiner erstinstanzlichen Aussage aussetzen würde.
+- [BGH, Beschluss vom 08.04.2008 - VIII ZR 50/06](viii-zr-50-06.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil der Wert der von den Beklagten mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
+- [BGH, Urteil vom 19.03.2008 - VIII ZR 68/07](viii-zr-68-07.md) — Tatbestand:
 - [BGH, Beschluss vom 18.03.2008 - VIII ZB 4/06](viii-zb-4-06.md) — der Versäumung der Berufungsfrist Wiedereinsetzung in den vorigen
 - [BGH, Beschluss vom 12.03.2008 - VIII ZB 12/07](viii-zb-12-07.md) — BGH, Beschluss vom 12.03.2008 - VIII ZB 12/07
+- [BGH, Beschluss vom 12.03.2008 - VIII ZB 16/07](viii-zb-16-07.md) — Die gemäß § 17a Abs. 4 Satz 4 GVG, § 574 Abs. 1 Satz 1 Nr. 2 ZPO statthafte und auch im Übrigen zulässige Rechtsbeschwerde hat keinen Erfolg. Der Senat hat durch Beschlüsse vom …
 - [BGH, Beschluss vom 12.03.2008 - VIII ZB 47/07](viii-zb-47-07.md) — Die gemäß § 17a Abs. 4 Satz 4 GVG, § 574 Abs. 1 Satz 1 Nr. 2 ZPO statthafte und auch im Übrigen zulässige Rechtsbeschwerde hat keinen Erfolg. Der Senat hat durch Beschlüsse vom …
+- [BGH, Beschluss vom 12.03.2008 - VIII ZB 53/07](viii-zb-53-07.md) — Die gemäß § 17a Abs. 4 Satz 4 GVG, § 574 Abs. 1 Satz 1 Nr. 2 ZPO statthafte und auch im Übrigen zulässige Rechtsbeschwerde hat keinen Erfolg. Der Senat hat durch Beschlüsse vom …
 - [BGH, Beschluss vom 12.03.2008 - VIII ZB 60/07](viii-zb-60-07.md) — I. 1 Die Beklagten sind Eigentümer eines Wohnhauses, in dem die Kläger von der Voreigentümerin eine Wohnung gemietet haben. In dem Gebäude be- findet sich im Dachgeschoß unter …
 - [BGH, Urteil vom 12.03.2008 - VIII ZR 188/07](viii-zr-188-07.md) — Tatbestand:
+- [BGH, Urteil vom 12.03.2008 - VIII ZR 253/05](viii-zr-253-05.md) — Tatbestand:
+- [BGH, Urteil vom 12.03.2008 - VIII ZR 42/07](viii-zr-42-07.md) — Tatbestand:
+- [BGH, Urteil vom 12.03.2008 - VIII ZR 71/07](viii-zr-71-07.md) — Tatbestand:
 - [BGH, Urteil vom 05.03.2008 - VIII ZR 31/07](viii-zr-31-07.md) — Tatbestand:
+- [BGH, Urteil vom 05.03.2008 - VIII ZR 37/07](viii-zr-37-07.md) — Tatbestand:
 - [BGH, Urteil vom 05.03.2008 - VIII ZR 80/07](viii-zr-80-07.md) — 3-
+- [BGH, Urteil vom 05.03.2008 - VIII ZR 95/07](viii-zr-95-07.md) — Verstoßes gegen das Transparenzgebot unwirksam.
+- [BGH, Beschluss vom 04.03.2008 - VIII ZR 119/06](viii-zr-119-06.md) — Die auf die Entscheidung über die von den Klägerinnen erhobenen Aus- gleichsansprüche (Klageanträge zu 1 und 4) beschränkt zugelassenen Revisio- nen der Klägerinnen sind - nachdem …
+- [BGH, Beschluss vom 04.03.2008 - VIII ZR 228/07](viii-zr-228-07.md) — Die Nichtzulassungsbeschwerde ist unzulässig.
+- [BGH, Urteil vom 20.02.2008 - VIII ZR 139/07](viii-zr-139-07.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 20.02.2008 - VIII ZR 27/07](viii-zr-27-07.md) — Tatbestand:
+- [BGH, Urteil vom 20.02.2008 - VIII ZR 334/06](viii-zr-334-06.md) — Tatbestand:
+- [BGH, Urteil vom 20.02.2008 - VIII ZR 49/07](viii-zr-49-07.md) — Tatbestand:
+- [BGH, Urteil vom 13.02.2008 - VIII ZR 105/07](viii-zr-105-07.md) — Tatbestand:
+- [BGH, Urteil vom 13.02.2008 - VIII ZR 14/06](viii-zr-14-06.md) — Tatbestand:
 - [BGH, Urteil vom 13.02.2008 - VIII ZR 208/07](viii-zr-208-07.md) — BGH, Urteil vom 13.02.2008 - VIII ZR 208/07
+- [BGH, Urteil vom 13.02.2008 - VIII ZR 280/05](viii-zr-280-05.md) — Tatbestand:
+- [BGH, Beschluss vom 12.02.2008 - VIII ZB 3/07](viii-zb-3-07.md) — I. 1 Der Beklagte war für die Klägerin in der Zeit vom 1. Januar bis zum 23. November 2002 als Handelsvertreter tätig. In den letzten sechs Monaten seiner Tätigkeit …
+- [BGH, Beschluss vom 12.02.2008 - VIII ZB 51/06](viii-zb-51-06.md) — I. 1 Der Beklagte war für die Klägerin in der Zeit vom 1. Oktober 2000 bis zum 31. Dezember 2002 als Handelsvertreter tätig. Er erzielte in den letzten sechs Monaten der …
 - [BGH, Beschluss vom 05.02.2008 - VIII ZB 56/07](viii-zb-56-07.md) — dessen Verhalten und Äuße-
-- [BGH, Beschluss vom 05.02.2008 - VIII ZR 278/05](viii-zr-278-05.md) — BGH, Beschluss vom 05.02.2008 - VIII ZR 278/05
 - [BGH, Beschluss vom 05.02.2008 - VIII ZR 94/07](viii-zr-94-07.md) — Die Revision ist gemäß § 552a ZPO durch Beschluss zurückzuweisen, weil entgegen der Auffassung des Berufungsgerichts die Voraussetzungen für die Zulassung der Revision nicht …
 - [BGH, Urteil vom 23.01.2008 - VIII ZR 246/06](viii-zr-246-06.md) — Tatbestand:
 - [BGH, Urteil vom 23.01.2008 - VIII ZR 46/07](viii-zr-46-07.md) — Beschädigung sowie unzureichender Reinigung der Mietsache nach Beendigung der Mietzeit kann die irrtümliche Bezeichnung im Mahnbescheidsantr
+- [BGH, Urteil vom 23.01.2008 - VIII ZR 82/07](viii-zr-82-07.md) — Tatbestand:
+- [BGH, Beschluss vom 22.01.2008 - VIII ZB 57/07](viii-zb-57-07.md) — I. 1 Die Parteien haben um die Rückabwicklung eines PKW-Kaufvertrages gestritten. Die auf Kaufpreisrückzahlung und Erstattung von Versicherungsauf- wendungen gerichtete Klage ist …
+- [BGH, Urteil vom 16.01.2008 - VIII ZR 222/06](viii-zr-222-06.md) — Tatbestand:
 - [BGH, Urteil vom 16.01.2008 - VIII ZR 254/06](viii-zr-254-06.md) — Gläubigerbenachteiligung anfechtbares Rechtsgeschäft erlangt hat, bei Fortsetzung des Mietverhältnisses eine Verwertung des Grundstücks zu z
+- [BGH, Beschluss vom 15.01.2008 - VIII ZR 351/06](viii-zr-351-06.md) — Die Revision ist gemäß § 552a ZPO zurückzuweisen, weil die Voraus- setzungen für ihre Zulassung nicht mehr vorliegen (§ 543 Abs.
+- [BGH, Beschluss vom 15.01.2008 - VIII ZR 99/06](viii-zr-99-06.md) — I. 1 Die Klägerin, die bis zum 30. September 2003 Vertragshändlerin der Be- klagten war, beansprucht von dieser zum einen die Zahlung eines Vertrags- händlerausgleichs und zum …
 - [BGH, Urteil vom 09.01.2008 - VIII ZR 12/07](viii-zr-12-07.md) — Tatbestand:
 - [BGH, Urteil vom 09.01.2008 - VIII ZR 210/06](viii-zr-210-06.md) — Tatbestand:
+- [BGH, Urteil vom 09.01.2008 - VIII ZR 50/07](viii-zr-50-07.md) — 3-
+- [BGH, Beschluss vom 08.01.2008 - VIII ZB 18/06](viii-zb-18-06.md) — grundsätzlicher Bedeutung

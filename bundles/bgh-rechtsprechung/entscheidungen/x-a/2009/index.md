@@ -1,32 +1,73 @@
 # X A – 2009
 
-28 Entscheidung(en).
+69 Entscheidung(en).
 
 - [BGH, Beschluss vom 17.12.2009 - Xa ZB 38/08](xa-zb-38-08.md) — BGH, Beschluss vom 17.12.2009 - Xa ZB 38/08
 - [BGH, Beschluss vom 17.12.2009 - Xa ZB 39/08](xa-zb-39-08.md) — BGH, Beschluss vom 17.12.2009 - Xa ZB 39/08
 - [BGH, Beschluss vom 17.12.2009 - Xa ZB 40/08](xa-zb-40-08.md) — BGH, Beschluss vom 17.12.2009 - Xa ZB 40/08
+- [BGH, Urteil vom 17.12.2009 - Xa ZR 34/06](xa-zr-34-06.md) — 3-
+- [BGH, Beschluss vom 17.12.2009 - Xa ZR 58/07](xa-zr-58-07.md) — BGH, Beschluss vom 17.12.2009 - Xa ZR 58/07
+- [BGH, Urteil vom 17.12.2009 - Xa ZR 6/09](xa-zr-6-09.md) — Tatbestand:
 - [BGH, Urteil vom 10.12.2009 - Xa ZR 61/09](xa-zr-61-09.md) — Tatbestand:
+- [BGH, Urteil vom 26.11.2009 - Xa ZR 132/08](xa-zr-132-08.md) — Tatbestand:
+- [BGH, Urteil vom 19.11.2009 - Xa ZR 170/05](xa-zr-170-05.md) — Tatbestand:
+- [BGH, Urteil vom 12.11.2009 - Xa ZR 76/07](xa-zr-76-07.md) — Tatbestand:
+- [BGH, Beschluss vom 11.11.2009 - Xa ZR 42/09](xa-zr-42-09.md) — Die Festsetzung erfolgt für das erstinstanzliche Verfahren in Abänderung der Streitwertfestsetzung durch das Bundespatentgericht vom 10.
+- [BGH, Urteil vom 07.10.2009 - Xa ZR 131/04](xa-zr-131-04.md) — Tatbestand:
+- [BGH, Urteil vom 07.10.2009 - Xa ZR 8/08](xa-zr-8-08.md) — 3Tatbestand:
+- [BGH, Beschluss vom 22.09.2009 - Xa ZB 36/08](xa-zb-36-08.md) — mangelnder Patentfähigkeit des Gegenstands des nicht beschränkten Patentanspruchs insgesamt widerruft.
+- [BGH, Beschluss vom 22.09.2009 - Xa ZR 69/06](xa-zr-69-06.md) — I. Der gerichtliche Sachverständige hat im vorliegenden Verfahren und in dem Nichtigkeitsverfahren Xa ZR 68/09 jeweils ein Gutachten erstattet. Die in den beiden Verfahren …
+- [BGH, Urteil vom 22.09.2009 - Xa ZR 72/06](xa-zr-72-06.md) — Tatbestand:
+- [BGH, Urteil vom 22.09.2009 - Xa ZR 77/08](xa-zr-77-08.md) — Tatbestand:
+- [BGH, Urteil vom 17.09.2009 - XA ZR 128/05](xa-zr-128-05.md) — 3Tatbestand:
+- [BGH, Urteil vom 17.09.2009 - Xa ZR 2/08](xa-zr-2-08.md) — Tatbestand:
+- [BGH, Beschluss vom 17.09.2009 - Xa ZR 2/09](xa-zr-2-09.md) — nutzlos aufgewendeter Urlaubszeit in Höhe von insgesamt 540 €.
 - [BGH, Urteil vom 17.09.2009 - Xa ZR 40/08](xa-zr-40-08.md) — Tatbestand:
+- [BGH, Urteil vom 10.09.2009 - Xa ZR 130/07](xa-zr-130-07.md) — BGH, Urteil vom 10.09.2009 - Xa ZR 130/07
+- [BGH, Urteil vom 10.09.2009 - Xa ZR 18/08](xa-zr-18-08.md) — Tatbestand:
 - [BGH, Beschluss vom 09.09.2009 - Xa ZB 2/09](xa-zb-2-09.md) — der zwischen der Beklagten und ihrem Prozessbevollmächtigten getroffenen
 - [BGH, Beschluss vom 30.07.2009 - Xa ARZ 167/09](xa-arz-167-09.md) — BGH, Beschluss vom 30.07.2009 - Xa ARZ 167/09
+- [BGH, Beschluss vom 30.07.2009 - Xa ZB 28/08](xa-zb-28-08.md) — I. Die Rechtsbeschwerdeführerin hat gegen das am 18. Dezember 2001 unter Inanspruchnahme einer japanischen Priorität vom 19. Juni 2001 an- gemeldete deutsche Patent 101 62 242 …
 - [BGH, Urteil vom 30.07.2009 - Xa ZR 22/06](xa-zr-22-06.md) — Tatbestand:
 - [BGH, Urteil vom 30.07.2009 - Xa ZR 67/08](xa-zr-67-08.md) — Tatbestand:
 - [BGH, Beschluss vom 23.07.2009 - Xa ZR 146/07](xa-zr-146-07.md) — I. Der Kläger hat für das Revisionsverfahren unter Verweis auf seine wirtschaftlichen Verhältnisse unter Vorlage von Belegen Herabsetzung des Streitwerts nach § 144 PatG …
 - [BGH, Urteil vom 23.07.2009 - Xa ZR 84/05](xa-zr-84-05.md) — BGH, Urteil vom 23.07.2009 - Xa ZR 84/05
 - [BGH, Urteil vom 09.07.2009 - Xa ZR 19/08](xa-zr-19-08.md) — Nachschlagewerk: ja BGHZ: ja BGHR: ja EuGVVO Art. 5 Nr. 3; Rom-II-VO Art. 4 Abs. 1; EGBGB Art. 40 Abs. 1, Art. 28 Abs. 1, 2 und 5; UKlaG § 1, § 4a Abs. 1 a) Für die Klage eines …
+- [BGH, Urteil vom 25.06.2009 - Xa ZR 58/05](xa-zr-58-05.md) — Tatbestand:
+- [BGH, Urteil vom 18.06.2009 - Xa ZR 138/05](xa-zr-138-05.md) — Tatbestand:
 - [BGH, Urteil vom 09.06.2009 - Xa ZR 156/05](xa-zr-156-05.md) — BGH, Urteil vom 09.06.2009 - Xa ZR 156/05
 - [BGH, Urteil vom 09.06.2009 - Xa ZR 74/08](xa-zr-74-08.md) — Tatbestand:
+- [BGH, Urteil vom 09.06.2009 - Xa ZR 99/06](xa-zr-99-06.md) — Tatbestand:
+- [BGH, Beschluss vom 28.05.2009 - Xa ZR 10/05](xa-zr-10-05.md) — des Wortlauts der weiteren Patentansprüche wird auf die
+- [BGH, Urteil vom 28.05.2009 - Xa ZR 113/08](xa-zr-113-08.md) — Tatbestand:
+- [BGH, Urteil vom 28.05.2009 - Xa ZR 140/05](xa-zr-140-05.md) — Tatbestand:
 - [BGH, Urteil vom 28.05.2009 - Xa ZR 9/08](xa-zr-9-08.md) — Tatbestand:
 - [BGH, Beschluss vom 27.05.2009 - Xa ZR 114/04](xa-zr-114-04.md) — Der gerichtliche Sachverständige hat, nachdem die Klage mit Schriftsatz vom 11.
 - [BGH, Beschluss vom 27.05.2009 - Xa ZR 162/07](xa-zr-162-07.md) — BGH, Beschluss vom 27.05.2009 - Xa ZR 162/07
+- [BGH, Beschluss vom 14.05.2009 - Xa ARZ 255/08](xa-arz-255-08.md) — rechtswidriger Speicherung,
+- [BGH, Urteil vom 14.05.2009 - Xa ZR 148/05](xa-zr-148-05.md) — Tatbestand:
 - [BGH, Urteil vom 30.04.2009 - Xa ZR 156/04](xa-zr-156-04.md) — BGH, Urteil vom 30.04.2009 - Xa ZR 156/04
 - [BGH, Urteil vom 30.04.2009 - Xa ZR 56/05](xa-zr-56-05.md) — Tatbestand:
 - [BGH, Urteil vom 30.04.2009 - Xa ZR 64/08](xa-zr-64-08.md) — BGH, Urteil vom 30.04.2009 - Xa ZR 64/08
+- [BGH, Urteil vom 30.04.2009 - Xa ZR 78/08](xa-zr-78-08.md) — "Nichtbeförderung" auf einem Flug zu, wenn die folgenden Voraussetzungen erfüllt sind:
+- [BGH, Urteil vom 30.04.2009 - Xa ZR 79/08](xa-zr-79-08.md) — Tatbestand:
 - [BGH, Urteil vom 30.04.2009 - Xa ZR 92/05](xa-zr-92-05.md) — abweichenden Lösungswegs nicht nur als möglich, sondern dem Fachmann nahegelegt anzusehen, bedarf es - abgesehen von den Fällen, in denen fü
+- [BGH, Urteil vom 23.04.2009 - Xa ZR 14/07](xa-zr-14-07.md) — Tatbestand:
 - [BGH, Urteil vom 02.04.2009 - Xa ZR 52/05](xa-zr-52-05.md) — BGH, Urteil vom 02.04.2009 - Xa ZR 52/05
 - [BGH, Urteil vom 02.04.2009 - Xa ZR 6/08](xa-zr-6-08.md) — BGH, Urteil vom 02.04.2009 - Xa ZR 6/08
 - [BGH, Versäumnisurteil vom 26.03.2009 - Xa ZR 1/08](xa-zr-1-08.md) — Tatbestand:
+- [BGH, Urteil vom 26.03.2009 - Xa ZR 118/06](xa-zr-118-06.md) — 3Tatbestand:
+- [BGH, Beschluss vom 26.03.2009 - Xa ZR 16/09](xa-zr-16-09.md) — Die Beklagte hat weiterhin nicht glaubhaft gemacht, dass sie ihr Begeh- ren im Erkenntnisverfahren mit einem Vollstreckungsschutzantrag nach § 712 ZPO geltend gemacht hat.
 - [BGH, Urteil vom 12.03.2009 - Xa ZR 158/04](xa-zr-158-04.md) — Tatbestand:
+- [BGH, Urteil vom 12.03.2009 - Xa ZR 86/06](xa-zr-86-06.md) — 3Tatbestand:
+- [BGH, Urteil vom 26.02.2009 - Xa ZR 141/07](xa-zr-141-07.md) — eines Mangels der Reise abgekürzt wird, ist wegen Verstoßes gegen die Klauselverbote des § 309 Nr. 7 Buchst. a und b BGB insgesamt unwirksam
+- [BGH, Beschluss vom 25.02.2009 - Xa ARZ 197/08](xa-arz-197-08.md) — I. Die anwaltlich vertretene Antragstellerin hat bei dem Amtsgericht Aschersleben als Gemeinsamen Mahngericht der Länder Sachsen-Anhalt, Sachsen und Thüringen gegen den …
+- [BGH, Beschluss vom 12.02.2009 - Xa ZB 22/08](xa-zb-22-08.md) — I. Der Kläger hat im Mai 2007 vor dem Amtsgericht Hannover Zahlungs- klage gegen die Beklagte erhoben. Vor dem Amtsgericht Hannover hat die Be- klagte die örtliche Unzuständigkeit …
 - [BGH, Urteil vom 12.02.2009 - Xa ZR 116/07](xa-zr-116-07.md) — Tatbestand:
 - [BGH, Beschluss vom 11.02.2009 - Xa ZB 24/07](xa-zb-24-07.md) — I. Die Antragsteller haben zu dem mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patent 648 136 dem Deutschen Patent- und Markenamt (nachfolgend: Amt) im …
+- [BGH, Beschluss vom 03.02.2009 - Xa ARZ 409/08](xa-arz-409-08.md) — örtlicher und sachli-
+- [BGH, Beschluss vom 03.02.2009 - Xa ARZ 7/09](xa-arz-7-09.md) — örtlicher und sachlicher Un-
+- [BGH, Beschluss vom 21.01.2009 - Xa ARZ 273/08](xa-arz-273-08.md) — I. Die Klägerin nimmt die Beklagten auf Zahlung in Höhe von 41.254,71 € nebst Zinsen in Anspruch. Die Beklagte zu 1 ist eine Arbeitsgemein- schaft, deren Gesellschafter die …
+- [BGH, Beschluss vom 21.01.2009 - Xa ZB 21/08](xa-zb-21-08.md) — dessen Beteiligung als Beklagter für die erste Instanz
 - [BGH, Urteil vom 21.01.2009 - Xa ZR 138/07](xa-zr-138-07.md) — 3-
+- [BGH, Beschluss vom 20.01.2009 - Xa ZB 34/08](xa-zb-34-08.md) — I. Mit dem Kläger am 26. März 2008 zugestellten Urteil hat das Landgericht die Klage abgewiesen. Der Kläger hat am 23. April 2008 Berufung eingelegt, die er am 28. Mai 2008 …

@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Urteil vom 12.08.2009 - XII ZR 76/08"
+description: "Tatbestand:"
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2008/XII_ZR__76-08.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "XII. Zivilsenat"
+datum: 2009-08-12
+aktenzeichen: "XII ZR 76/08"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T15:40:08Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: XII ZR 76/08 vom 12.08.2009.
+
+# Citations
+
+[1] [BGH, Urteil vom 12.08.2009 - XII ZR 76/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2008/XII_ZR__76-08.pdf?__blob=publicationFile&v=1)
+

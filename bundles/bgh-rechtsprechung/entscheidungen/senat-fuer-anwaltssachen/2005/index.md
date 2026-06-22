@@ -1,41 +1,84 @@
 # Senat für Anwaltssachen – 2005
 
-37 Entscheidung(en).
+80 Entscheidung(en).
 
 - [BGH, Beschluss vom 07.12.2005 - AnwZ (B) 59/04](anwz-b-59-04.md) — Zulassung zur Rechtsanwaltschaft hier: Erledigung der Hauptsache
 - [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 1/05](anwz-b-1-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 13/05](anwz-b-13-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 14/05](anwz-b-14-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 2/05](anwz-b-2-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 3/05](anwz-b-3-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 4/05](anwz-b-4-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 5/05](anwz-b-5-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
-- [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 54/04](anwz-b-54-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 8/05](anwz-b-8-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 96/04](anwz-b-96-04.md) — Widerrufs der Zulassung nach § 14 Abs. 2 Nr. 7 BRAO
 - [BGH, Beschluss vom 25.11.2005 - AnwZ (B) 53/03](anwz-b-53-03.md) — Vorlage eines ärztlichen Gutachtens
 - [BGH, Beschluss vom 21.11.2005 - AnwZ (B) 50/05](anwz-b-50-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.11.2005 - AnwZ (B) 82/04](anwz-b-82-04.md) — I. 1 Der Antragsteller, der zunächst im richterlichen Dienst des Saarlandes tätig war - und zwar seit 1970 als Oberlandesgerichtsrat - wurde am 6. Juni 1989 in den vorzeitigen …
 - [BGH, Beschluss vom 14.11.2005 - AnwZ (B) 83/04](anwz-b-83-04.md) — Zulassung einer Rechtsanwalts-Aktiengesellschaft
 - [BGH, Beschluss vom 14.11.2005 - AnwZ (B) 85/04](anwz-b-85-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 14.11.2005 - AnwZ (B) 93/04](anwz-b-93-04.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 14.11.2005 - AnwZ (B) 95/04](anwz-b-95-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.10.2005 - AnwSt (R) 6/05](anwst-r-6-05.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 28.10.2005 - AnwZ (B) 24/05](anwz-b-24-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 27.10.2005 - AnwZ (B) 88/04](anwz-b-88-04.md) — Vermögens-
 - [BGH, Beschluss vom 26.10.2005 - AnwZ (B) 55/05](anwz-b-55-05.md) — Vermögensverfalls nach § 14 Abs. 2 Nr.
+- [BGH, Beschluss vom 18.10.2005 - AnwZ (B) 12/05](anwz-b-12-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.10.2005 - AnwSt (R) 11/04](anwst-r-11-04.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 52/05](anwz-b-52-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 66/04](anwz-b-66-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 70/04](anwz-b-70-04.md) — Widerrufs der Zulassung
 - [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 72/04](anwz-b-72-04.md) — Firmierung einer Aktiengesellschaft als Rechtsanwaltsgesellschaft
+- [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 73/03](anwz-b-73-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 73/04](anwz-b-73-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 75/04](anwz-b-75-04.md) — Zahlung des Kammerbeitrags
 - [BGH, Beschluss vom 27.09.2005 - AnwZ (B) 18/04](anwz-b-18-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 26.09.2005 - AnwSt (B) 7/04](anwst-b-7-04.md) — Berufspflichtverletzung
 - [BGH, Urteil vom 26.09.2005 - AnwSt (R) 9/04](anwst-r-9-04.md) — BGH, Urteil vom 26.09.2005 - AnwSt (R) 9/04
+- [BGH, Beschluss vom 26.09.2005 - AnwZ (B) 64/04](anwz-b-64-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 26.07.2005 - AnwZ (B) 80/99](anwz-b-80-99.md) — Widerruf der Zulassung
 - [BGH, Beschluss vom 25.07.2005 - AnwZ (B) 42/04](anwz-b-42-04.md) — Gestaltung des Kanzleibriefbogens
 - [BGH, Beschluss vom 25.07.2005 - AnwZ (B) 46/04](anwz-b-46-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.07.2005 - AnwZ (B) 47/04](anwz-b-47-04.md) — I. Der Antragsteller wurde am 16. Juli 1990 zur Rechtsanwaltschaft und lokal bei dem Amtsgericht und dem Landgericht F. zugelassen. Seine Kanzlei betrieb er zunächst in A …
+- [BGH, Beschluss vom 25.07.2005 - AnwZ (B) 51/04](anwz-b-51-04.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.07.2005 - AnwZ (B) 89/04](anwz-b-89-04.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 12.07.2005 - AnwZ (B) 19/05](anwz-b-19-05.md) — Besorgnis der Befangenheit findet gemäß § 42 Abs. 2 ZPO, der auf die in der Bundesrechtsanwaltsordnung geregelten streitigen Verfahren der f
+- [BGH, Beschluss vom 01.07.2005 - AnwZ (B) 91/03](anwz-b-91-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 30.06.2005 - AnwZ (B) 10/05](anwz-b-10-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 30.06.2005 - AnwZ (B) 6/05](anwz-b-6-05.md) — BGH, Beschluss vom 30.06.2005 - AnwZ (B) 6/05
+- [BGH, Beschluss vom 30.06.2005 - AnwZ (B) 7/05](anwz-b-7-05.md) — I. Der Antragsteller wurde am 17. Oktober 1991 als Rechtsbeistand in die Rechtsanwaltskammer K. aufgenommen. Mit seinem Antrag auf gericht- liche Entscheidung wendet er sich gegen …
 - [BGH, Beschluss vom 21.06.2005 - AnwZ (B) 61/04](anwz-b-61-04.md) — Verleihung einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 13.06.2005 - AnwZ (B) 67/03](anwz-b-67-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 06.06.2005 - AnwZ (B) 15/05](anwz-b-15-05.md) — Feststellung der Rechtswidrigkeit der Bestellung eines Kanzleiabwicklers
+- [BGH, Beschluss vom 06.06.2005 - AnwZ (B) 18/05](anwz-b-18-05.md) — Bestellung eines Kanzleiabwicklers
+- [BGH, Beschluss vom 06.06.2005 - AnwZ (B) 94/04](anwz-b-94-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.05.2005 - AnwZ (B) 50/04](anwz-b-50-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 27.04.2005 - AnwZ (B) 45/04](anwz-b-45-04.md) — I. Der Antragsteller, der bereits von 1974 bis 1976 zur Rechtsanwaltschaft zugelassen war, wurde 1982 erneut zur Rechtsanwaltschaft zugelassen. Mit Bescheid vom 4. April 2002 hat …
+- [BGH, Beschluss vom 26.04.2005 - AnwZ (B) 98/04](anwz-b-98-04.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO) widerrufen. Den gegen die Widerrufsverfügung gerichteten Antrag auf gerichtliche Entscheidung hat
+- [BGH, Beschluss vom 25.04.2005 - AnwZ (B) 81/03](anwz-b-81-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 27/04](anwz-b-27-04.md) — Anfechtung eines Beschlusses der Kammerversammlung
 - [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 28/04](anwz-b-28-04.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO).
 - [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 31/04](anwz-b-31-04.md) — Führung einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 32/04](anwz-b-32-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 35/04](anwz-b-35-04.md) — Gestaltung des Kanzleibriefbogens
 - [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 36/04](anwz-b-36-04.md) — Zulassung zur Rechtsanwaltschaft
-- [BGH, Beschluss vom 04.04.2005 - AnwZ (B) 15/04](anwz-b-15-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 37/04](anwz-b-37-04.md) — Erlaubnis zum Führen einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 38/04](anwz-b-38-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 39/04](anwz-b-39-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 5/04](anwz-b-5-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 88/03](anwz-b-88-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.04.2005 - AnwZ (B) 13/04](anwz-b-13-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 04.04.2005 - AnwZ (B) 17/04](anwz-b-17-04.md) — BGH, Beschluss vom 04.04.2005 - AnwZ (B) 17/04
+- [BGH, Beschluss vom 04.04.2005 - AnwZ (B) 19/04](anwz-b-19-04.md) — I. Der Antragsteller ist seit 1999 Fachanwalt für Familienrecht und seit 2002 auch Fachanwalt für Arbeitsrecht. Schon 1998 war ihm die Befugnis verliehen worden, die …
+- [BGH, Beschluss vom 04.04.2005 - AnwZ (B) 20/04](anwz-b-20-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.04.2005 - AnwZ (B) 21/04](anwz-b-21-04.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.03.2005 - AnwZ (B) 72/02](anwz-b-72-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Tatbestandsberichtigung
 - [BGH, Beschluss vom 07.03.2005 - AnwZ (B) 11/04](anwz-b-11-04.md) — Verleihung der Fachanwaltsbezeichnung für das Arbeitsrecht
 - [BGH, Beschluss vom 07.03.2005 - AnwZ (B) 12/04](anwz-b-12-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 07.03.2005 - AnwZ (B) 7/04](anwz-b-7-04.md) — Vermögensverfalls knüpft an eine abstrakte Gefährdung der Rechtspflege an (BVerfGE 108, 150, 164) und stellt - anders als der Widerrufsgrund
 - [BGH, Beschluss vom 07.03.2005 - AnwZ (B) 9/04](anwz-b-9-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
-- [BGH, Beschluss vom 23.02.2005 - AnwZ (B) 92/03](anwz-b-92-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.02.2005 - AnwZ 3/03](anwz-3-03.md) — Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof
+- [BGH, Beschluss vom 17.02.2005 - AnwZ 1/03](anwz-1-03.md) — Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof
+- [BGH, Beschluss vom 01.02.2005 - AnwZ (B) 43/04](anwz-b-43-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft; hier: Wiederherstellung der aufschiebenden Wirkung der sofortigen Beschwerde
+- [BGH, Beschluss vom 10.01.2005 - AnwZ (B) 27/03](anwz-b-27-03.md) — Zulassung einer Aktiengesellschaft als Rechtsanwaltsgesellschaft
+- [BGH, Beschluss vom 10.01.2005 - AnwZ (B) 28/03](anwz-b-28-03.md) — Zulassung einer Aktiengesellschaft als Rechtsanwaltsgesellschaft

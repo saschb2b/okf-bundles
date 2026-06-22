@@ -1,8 +1,8 @@
 # IX A
 
-Allgemeines Register, Rechtshilfe- und Zuständigkeitssachen. 73 Entscheidung(en).
+Allgemeines Register, Rechtshilfe- und Zuständigkeitssachen. 186 Entscheidung(en).
 
 ## Nach Jahr
 
-- [2004](2004/index.md) (47)
-- [2003](2003/index.md) (26)
+- [2004](2004/index.md) (116)
+- [2003](2003/index.md) (70)

@@ -1,24 +1,72 @@
 # IX. Zivilsenat – 2002
 
-92 Entscheidung(en).
+258 Entscheidung(en).
 
 - [BGH, Beschluss vom 19.12.2002 - IX ZB 248/02](ix-zb-248-02.md) — Das Amtsgericht - Vollstreckungsgericht - hat mit Beschluß vom 29.
+- [BGH, Beschluss vom 19.12.2002 - IX ZB 429/02](ix-zb-429-02.md) — Die Beiordnung eines Rechtsanwalts nach § 121 Abs.
+- [BGH, Beschluss vom 19.12.2002 - IX ZR 268/00](ix-zr-268-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Urteil vom 19.12.2002 - IX ZR 377/99](ix-zr-377-99.md) — Tatbestand:
 - [BGH, Beschluss vom 19.12.2002 - IX ZR 428/99](ix-zr-428-99.md) — BGH, Beschluss vom 19.12.2002 - IX ZR 428/99
 - [BGH, Beschluss vom 18.12.2002 - IX ZA 17/02](ix-za-17-02.md) — Die wirtschaftlichen Voraussetzungen für die Prozeßkostenhilfe sind nicht dargetan und die beabsichtigte Rechtsverfolgung bietet keine hinreichende Aussicht auf Erfolg.
 - [BGH, Beschluss vom 18.12.2002 - IX ZA 22/02](ix-za-22-02.md) — mangelhafter Deutschkenntnisse selbst zur Einreichung eines Insolvenzantrags außerstande gewesen zu sein. Auch die schriftlichen Hinweise de
+- [BGH, Beschluss vom 18.12.2002 - IX ZA 31/02](ix-za-31-02.md) — Das beabsichtigte Rechtsmittel bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
 - [BGH, Beschluss vom 18.12.2002 - IX ZB 121/02](ix-zb-121-02.md) — einer Insolvenzstraftat setzt nicht voraus, daß die Straftat in einem Zusammenhang mit dem Insolvenzverfahren steht, in dem die Restschuldbe
+- [BGH, Beschluss vom 18.12.2002 - IX ZB 423/02](ix-zb-423-02.md) — Die Schuldnerin wendet sich mit ihrer Rechtsbeschwerde gegen die Zurückweisung ihrer sofortigen Beschwerde gegen einen Beschluß des Amtsgerichts - Insolvenzgerichts - vom 10.
+- [BGH, Beschluss vom 18.12.2002 - IX ZB 465/02](ix-zb-465-02.md) — Arbeitsüberlastung. Dagegen ist aus der Begründung des Ge-
+- [BGH, Beschluss vom 18.12.2002 - IX ZB 553/02](ix-zb-553-02.md) — Die Rechtsbeschwerde ist gemäß § 25 Abs. 3 Satz 1, 2. Halbsatz i.V.m. § 5 Abs. 2 Satz 3 GKG unstatthaft. Die Kostenentscheidung folgt aus § 97 Abs. 1 ZPO. § 25 Abs. 4 GKG, wonach …
+- [BGH, Beschluss vom 18.12.2002 - IX ZB 577/02](ix-zb-577-02.md) — "greifbarer Gesetzeswidrigkeit" oder der Verletzung von Verfahrensgrundrechten sind die Rechtsbeschwerden nicht statthaft (vgl. BGH, Beschl.
+- [BGH, Beschluss vom 18.12.2002 - IX ZR 117/00](ix-zr-117-00.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 18.12.2002 - IX ZR 117/02](ix-zr-117-02.md) — Die Beschwerde genügt mangels ausreichender Begründung nicht den Anforderungen des § 544 Abs.
+- [BGH, Beschluss vom 18.12.2002 - IX ZR 139/02](ix-zr-139-02.md) — Die Frage, ob § 717 Abs. 2 ZPO auf Prozeßvergleiche entsprechend anwendbar ist, mag rechtsgrundsätzliche Bedeutung haben. Sie wird jedoch nicht entscheidungserheblich, weil die …
+- [BGH, Beschluss vom 18.12.2002 - IX ZR 36/01](ix-zr-36-01.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Endergebnis richtig entschieden (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 18.12.2002 - IX ZR 365/99](ix-zr-365-99.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554b Abs.
+- [BGH, Beschluss vom 18.12.2002 - IX ZR 67/00](ix-zr-67-00.md) — der verbleibenden Eigentumswohnung Nr. 1 nicht geltend zu machen.
 - [BGH, Beschluss vom 12.12.2002 - IX ZB 426/02](ix-zb-426-02.md) — Ermittlungen angestellt werden müssen. Die Amtsermittlungspflicht des Insolvenzgerichts setzt einen zulässigen Eröffnungsantrag voraus.
 - [BGH, Beschluss vom 12.12.2002 - IX ZR 141/02](ix-zr-141-02.md) — BGH, Beschluss vom 12.12.2002 - IX ZR 141/02
+- [BGH, Beschluss vom 12.12.2002 - IX ZR 249/00](ix-zr-249-00.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf (zur Einordnung der Tätigkeit eines Anwaltsnotars bei einem Anlagegeschäft vgl.
 - [BGH, Beschluss vom 12.12.2002 - IX ZR 27/00](ix-zr-27-00.md) — BGH, Beschluss vom 12.12.2002 - IX ZR 27/00
+- [BGH, Beschluss vom 12.12.2002 - IX ZR 408/00](ix-zr-408-00.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 12.12.2002 - IX ZR 474/00](ix-zr-474-00.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554b ZPO a.F.).
+- [BGH, Beschluss vom 12.12.2002 - IX ZR 87/02](ix-zr-87-02.md) — Die Nichtzulassungsbeschwerde hat keinen Erfolg.
 - [BGH, Urteil vom 12.12.2002 - IX ZR 99/02](ix-zr-99-02.md) — der Haftungsfrage einen anderen Anwalt beauftragt; darauf, ob der regreßpflichtige Rechtsanwalt davon etwas weiß oder wissen muß, kommt es n
+- [BGH, Beschluss vom 05.12.2002 - IX ZA 20/02](ix-za-20-02.md) — Das beabsichtigte Rechtsmittel bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
 - [BGH, Beschluss vom 05.12.2002 - IX ZR 184/99](ix-zr-184-99.md) — BGH, Beschluss vom 05.12.2002 - IX ZR 184/99
 - [BGH, Beschluss vom 05.12.2002 - IX ZR 388/99](ix-zr-388-99.md) — BGH, Beschluss vom 05.12.2002 - IX ZR 388/99
 - [BGH, Beschluss vom 05.12.2002 - IX ZR 70/02](ix-zr-70-02.md) — BGH, Beschluss vom 05.12.2002 - IX ZR 70/02
+- [BGH, Beschluss vom 21.11.2002 - IX ZB 431/02](ix-zb-431-02.md) — Die Rechtsverfolgung bietet keine hinreichende Aussicht auf Erfolg (§ 4 InsO i.V.m.
+- [BGH, Beschluss vom 21.11.2002 - IX ZB 535/02](ix-zb-535-02.md) — BGH, Beschluss vom 21.11.2002 - IX ZB 535/02
+- [BGH, Beschluss vom 21.11.2002 - IX ZB 85/02](ix-zb-85-02.md) — einer Hauptforderung von
+- [BGH, Beschluss vom 21.11.2002 - IX ZR 181/01](ix-zr-181-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 21.11.2002 - IX ZR 205/99](ix-zr-205-99.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 21.11.2002 - IX ZR 28/01](ix-zr-28-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 14.11.2002 - IX ZA 14/02](ix-za-14-02.md) — grundsätzlicher Bedeutung der Rechtssache (§ 543 Abs. 2 Nr. 1 ZPO) kommt daher vorliegend nicht mehr in Frage. Der Streitfall bietet auch ke
+- [BGH, Beschluss vom 14.11.2002 - IX ZA 26/02](ix-za-26-02.md) — Der Antrag des Schuldners kann schon deshalb keinen Erfolg haben, weil ihm entgegen § 117 Abs.
+- [BGH, Beschluss vom 14.11.2002 - IX ZA 28/02](ix-za-28-02.md) — Der Schuldnerin kann die beantragte Prozeßkostenhilfe gemäß den §§ 116 Satz 2, 114 letzter Halbsatz ZPO nicht gewährt werden, weil das beabsichtigte Rechtsmittel keine …
+- [BGH, Beschluss vom 14.11.2002 - IX ZB 152/02](ix-zb-152-02.md) — I. Der Schuldner, der eine Zahnarztpraxis betreibt und einen Mitarbeiter sowie eine Auszubildende beschäftigt, beantragte am 23. Juni 2000 die Eröffnung eines …
+- [BGH, Beschluss vom 14.11.2002 - IX ZB 206/02](ix-zb-206-02.md) — I. Auf Antrag des Beteiligten zu 1 hat das Konkursgericht durch Beschluß vom 16. Januar 2002 gegen die Bestellung des Beteiligten zu 2 zum Mitglied des Gläubigerausschusses gemäß …
+- [BGH, Beschluss vom 14.11.2002 - IX ZB 404/02](ix-zb-404-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist das Rechtsmittel der Beklagten nicht statthaft (BGH, Beschl
+- [BGH, Beschluss vom 14.11.2002 - IX ZB 442/02](ix-zb-442-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist die Rechtsbeschwerde nicht statthaft (BGHZ 150, 133 ff.).
+- [BGH, Beschluss vom 14.11.2002 - IX ZR 112/02](ix-zr-112-02.md) — BGH, Beschluss vom 14.11.2002 - IX ZR 112/02
 - [BGH, Beschluss vom 14.11.2002 - IX ZR 176/00](ix-zr-176-00.md) — BGH, Beschluss vom 14.11.2002 - IX ZR 176/00
+- [BGH, Beschluss vom 14.11.2002 - IX ZR 236/99](ix-zr-236-99.md) — I. Die Klägerin verlangt von den Beklagten die Rückzahlung eines auf er- stes Anfordern gezahlten Bürgschaftsbetrages. Die Beklagten sind die Gesell- schafter der …
 - [BGH, Beschluss vom 14.11.2002 - IX ZR 392/99](ix-zr-392-99.md) — BGH, Beschluss vom 14.11.2002 - IX ZR 392/99
+- [BGH, Beschluss vom 14.11.2002 - IX ZR 40/02](ix-zr-40-02.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Fragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 24.10.2002 - IX ZB 385/02](ix-zb-385-02.md) — In der Sache wendet sich der Schuldner gegen den Beschluß des Landgerichts Nürnberg-Fürth vom 16.
+- [BGH, Beschluss vom 24.10.2002 - IX ZR 247/98](ix-zr-247-98.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Urteil vom 24.10.2002 - IX ZR 355/00](ix-zr-355-00.md) — Verletzung der bei Anforderung der Bürgenleistung einzuhaltenden Förmlichkeiten.
+- [BGH, Beschluss vom 24.10.2002 - IX ZR 449/99](ix-zr-449-99.md) — Der Senat hat die Revision insoweit angenommen, als die Beklagte noch Überweisungen der Schuldnerin in Höhe von zusammen 93.369,07 DM ausgeführt hat.
+- [BGH, Beschluss vom 24.10.2002 - IX ZR 498/00](ix-zr-498-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 17.10.2002 - IX ZA 18/02](ix-za-18-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten kommt nicht in Betracht (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 17.10.2002 - IX ZB 303/02](ix-zb-303-02.md) — Der Arrestbeklagte wehrt sich gegen einen Kostenansatz.
+- [BGH, Beschluss vom 17.10.2002 - IX ZB 411/02](ix-zb-411-02.md) — Gegen Entscheidungen über den Kostenansatz ist eine Beschwerde an einen obersten Gerichtshof des Bundes nicht statthaft (§ 5 Abs.
+- [BGH, Beschluss vom 17.10.2002 - IX ZB 412/02](ix-zb-412-02.md) — Gegen Entscheidungen über den Kostenansatz ist eine Beschwerde an einen obersten Gerichtshof des Bundes nicht statthaft (§ 5 Abs.
+- [BGH, Urteil vom 17.10.2002 - IX ZR 3/01](ix-zr-3-01.md) — Tatbestand:
+- [BGH, Beschluss vom 08.10.2002 - IX ZB 200/02](ix-zb-200-02.md) — I. Die Gläubigerin betreibt gegen den Schuldner die Zwangsvollstreckung aus einem Versäumnisurteil und dem dasselbe Verfahren betreffenden Kostenfestsetzungsbeschluß. Beide Titel …
+- [BGH, Beschluss vom 08.10.2002 - IX ZR 140/99](ix-zr-140-99.md) — allenfalls
 - [BGH, Beschluss vom 01.10.2002 - IX ZB 271/02](ix-zb-271-02.md) — der Frage, wann bei der gleichzeitigen Vollstreckung aus mehreren Titeln kostenrechtlich nur von einem Auftrag auszugehen sei, hat das Landg
 - [BGH, Beschluss vom 01.10.2002 - IX ZB 395/02](ix-zb-395-02.md) — des wirtschaftlichen Unvermögens einer Partei, so ist die Frist unverschuldet versäumt, sofern die Partei bis zu deren Ablauf um Bewilligung
+- [BGH, Beschluss vom 01.10.2002 - IX ZB 53/02](ix-zb-53-02.md) — I. Durch Beschluß vom 1. Mai 1999 eröffnete das Amtsgericht das Insolvenzverfahren über das Vermögen der Beteiligten zu 1 und bestellte den Beteiligten zu 2 zum …
+- [BGH, Beschluss vom 01.10.2002 - IX ZR 125/02](ix-zr-125-02.md) — I. Der Kläger ist Verwalter in dem am 19. Februar 2001 eröffneten Insolvenzverfahren über das Vermögen der W. GmbH. Die Schuldnerin unterhielt bei der beklagten Bank ein …
 - [BGH, Beschluss vom 01.10.2002 - IX ZR 133/00](ix-zr-133-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht auch keinen Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 01.10.2002 - IX ZR 317/00](ix-zr-317-00.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und hat im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO a.F.).
 - [BGH, Beschluss vom 01.10.2002 - IX ZR 317/99](ix-zr-317-99.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
@@ -35,13 +83,35 @@
 - [BGH, Beschluss vom 12.09.2002 - IX ZB 147/02](ix-zb-147-02.md) — BGH, Beschluss vom 12.09.2002 - IX ZB 147/02
 - [BGH, Beschluss vom 12.09.2002 - IX ZB 312/02](ix-zb-312-02.md) — BGH, Beschluss vom 12.09.2002 - IX ZB 312/02
 - [BGH, Beschluss vom 12.09.2002 - IX ZB 348/02](ix-zb-348-02.md) — BGH, Beschluss vom 12.09.2002 - IX ZB 348/02
+- [BGH, Beschluss vom 12.09.2002 - IX ZB 39/02](ix-zb-39-02.md) — A. Mit Beschluß vom 26. April 2000 ordnete das Amtsgericht die Zwangsverwaltung des im Eingang benannten Grundstücks an und bestellte den Beteiligten zu 2 zum Zwangsverwalter. Auf …
+- [BGH, Urteil vom 12.09.2002 - IX ZR 375/00](ix-zr-375-00.md) — Tatbestand:
 - [BGH, Beschluss vom 12.09.2002 - IX ZR 390/99](ix-zr-390-99.md) — BGH, Beschluss vom 12.09.2002 - IX ZR 390/99
 - [BGH, Beschluss vom 12.09.2002 - IX ZR 393/99](ix-zr-393-99.md) — BGH, Beschluss vom 12.09.2002 - IX ZR 393/99
 - [BGH, Beschluss vom 12.09.2002 - IX ZR 438/99](ix-zr-438-99.md) — Verschuldens bei Vertragsschluß verurteilt, weil sein Partner C. und er durch Erklärungen außerhalb des Kaufvertrages in den Käufern unerfül
 - [BGH, Beschluss vom 12.09.2002 - IX ZR 454/99](ix-zr-454-99.md) — BGH, Beschluss vom 12.09.2002 - IX ZR 454/99
+- [BGH, Beschluss vom 12.09.2002 - IX ZR 486/00](ix-zr-486-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO a.F.).
 - [BGH, Beschluss vom 12.09.2002 - IX ZR 497/00](ix-zr-497-00.md) — BGH, Beschluss vom 12.09.2002 - IX ZR 497/00
+- [BGH, Urteil vom 15.08.2002 - IX ZR 217/99](ix-zr-217-99.md) — Tatbestand:
+- [BGH, Beschluss vom 05.08.2002 - IX ZA 10/02](ix-za-10-02.md) — Soweit der Beklagte sich mit der Rechtsbeschwerde gegen den ihm formlos übermittelten Beschluß des Oberlandesgerichts Karlsruhe vom 12.
+- [BGH, Beschluss vom 05.08.2002 - IX ZA 11/02](ix-za-11-02.md) — Die beabsichtigte Nichtzulassungsbeschwerde bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 05.08.2002 - IX ZA 12/02](ix-za-12-02.md) — BGH, Beschluss vom 05.08.2002 - IX ZA 12/02
+- [BGH, Beschluss vom 05.08.2002 - IX ZA 5/02](ix-za-5-02.md) — Der Schuldnerin kann die beantragte Prozeßkostenhilfe gemäß § 115 Abs.
+- [BGH, Beschluss vom 05.08.2002 - IX ZB 130/02](ix-zb-130-02.md) — I. Das Amtsgericht Kempten (Allgäu) hat mit Beschluß vom 14. Dezember 2001 den im Rubrum bezeichneten Grundbesitz den Erstehern zugeschlagen. Das gegen den Zuschlagsbeschluß …
+- [BGH, Beschluss vom 05.08.2002 - IX ZB 198/02](ix-zb-198-02.md) — ist ein Rechtsmittel des Schuldners gegen einzelne Maßnahmen des Insolvenzverwalters nicht geboten (vgl. BVerfG, 3. Kammer des 1. Senats, Be
+- [BGH, Beschluss vom 05.08.2002 - IX ZB 232/02](ix-zb-232-02.md) — Unterhaltsforderungen. Gegen die Berechnung des pfändungsfreien Betrages durch das Vollstreckungsgericht legte sie sofortige Beschwerde zum
+- [BGH, Beschluss vom 05.08.2002 - IX ZB 285/02](ix-zb-285-02.md) — BGH, Beschluss vom 05.08.2002 - IX ZB 285/02
+- [BGH, Beschluss vom 05.08.2002 - IX ZB 51/02](ix-zb-51-02.md) — I. Das Insolvenzgericht hat einen Antrag der Gläubigerin auf Eröffnung des Insolvenzverfahrens über das Vermögen der Schuldnerin mit der Begründung als unzulässig verworfen, daß …
+- [BGH, Beschluss vom 05.08.2002 - IX ZR 307/00](ix-zr-307-00.md) — Der Bundesgerichtshof ist an die Wertfestsetzung des Berufungsgerichts für die Beschwer nicht gebunden (§ 546 Abs.
 - [BGH, Beschluss vom 24.07.2002 - IX ZB 70/02](ix-zb-70-02.md) — BGH, Beschluss vom 24.07.2002 - IX ZB 70/02
 - [BGH, Beschluss vom 24.07.2002 - IX ZR 110/01](ix-zr-110-01.md) — Gläubigerbenachteiligung ist - entgegen der Meinung der Revision - nicht Teil des von der Klägerin darzulegenden hypothetischen Kausalverlau
+- [BGH, Beschluss vom 18.07.2002 - IX ZB 102/02](ix-zb-102-02.md) — Die nach § 7 InsO i.V.m. § 574 Abs. 1 Nr. 1 ZPO n.F. statthafte Rechtsbeschwerde ist unzulässig gemäß § 4 InsO i.V.m. § 574 Abs. 2 BGB n.F., weil die Rechtssache weder …
+- [BGH, Beschluss vom 18.07.2002 - IX ZB 26/02](ix-zb-26-02.md) — der Versäumung der Fristen zur Einlegung und Begründung der Rechtsbeschwerde gegen den Beschluß der 9. Zivilkammer des Landgerichts Dortmund
+- [BGH, Beschluss vom 18.07.2002 - IX ZB 49/02](ix-zb-49-02.md) — in das Regelinsolvenzverfahren überzuleiten sind, wenn es an den Voraussetzungen des § 304 Abs. 2 InsO n.F. fehlt. Eine Fortsetzung als Verb
+- [BGH, Beschluss vom 18.07.2002 - IX ZB 77/02](ix-zb-77-02.md) — I. Der Beklagte ist Insolvenzverwalter über das Vermögen der M. K. GmbH & Co. KG. Die Kläger begehren Feststellung näher bezeichneter Ansprüche. Das Landgericht hat der Klage …
+- [BGH, Urteil vom 18.07.2002 - IX ZR 195/01](ix-zr-195-01.md) — Tatbestand:
+- [BGH, Urteil vom 18.07.2002 - IX ZR 264/01](ix-zr-264-01.md) — Tatbestand:
+- [BGH, Urteil vom 18.07.2002 - IX ZR 480/00](ix-zr-480-00.md) — Tatbestand: Der Kläger ist Verwalter im Konkurs über das Vermögen der P.
+- [BGH, Urteil vom 18.07.2002 - IX ZR 57/02](ix-zr-57-02.md) — Tatbestand:
 - [BGH, Beschluss vom 17.07.2002 - IX ZB 219/02](ix-zb-219-02.md) — BGH, Beschluss vom 17.07.2002 - IX ZB 219/02
 - [BGH, Beschluss vom 17.07.2002 - IX ZB 225/02](ix-zb-225-02.md) — BGH, Beschluss vom 17.07.2002 - IX ZB 225/02
 - [BGH, Beschluss vom 17.07.2002 - IX ZB 25/02](ix-zb-25-02.md) — BGH, Beschluss vom 17.07.2002 - IX ZB 25/02
@@ -51,44 +121,140 @@
 - [BGH, Beschluss vom 17.07.2002 - IX ZR 418/98](ix-zr-418-98.md) — BGH, Beschluss vom 17.07.2002 - IX ZR 418/98
 - [BGH, Beschluss vom 17.07.2002 - IX ZR 469/00](ix-zr-469-00.md) — BGH, Beschluss vom 17.07.2002 - IX ZR 469/00
 - [BGH, Beschluss vom 17.07.2002 - IX ZR 66/01](ix-zr-66-01.md) — BGH, Beschluss vom 17.07.2002 - IX ZR 66/01
+- [BGH, Beschluss vom 11.07.2002 - IX ZB 128/02](ix-zb-128-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 11.07.2002 - IX ZB 242/02](ix-zb-242-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 11.07.2002 - IX ZB 260/02](ix-zb-260-02.md) — Die gemäß § 574 Abs. 1 Nr. 1, § 522 Abs. 1 Satz 4 ZPO n.F. statthafte Rechtsbeschwerde ist entgegen § 575 Abs. 1 Satz 1 ZPO n.F. nicht innerhalb eines Monats nach der am 18. April …
+- [BGH, Beschluss vom 11.07.2002 - IX ZB 28/02](ix-zb-28-02.md) — Die nach § 7 InsO i.V.m. § 574 Abs. 1 Nr. 1 ZPO n.F. statthafte Rechtsbeschwerde ist unzulässig gemäß § 4 InsO i.V.m. § 574 Abs. 2 BGB n.F., weil die Rechtssache weder …
+- [BGH, Beschluss vom 11.07.2002 - IX ZB 80/02](ix-zb-80-02.md) — I. Der weitere Beteiligte ist der Verwalter im Konkurs über das Vermögen der Gemeinschuldnerin. Er hat zugleich mit der Einreichung des Schlußberichts beantragt, seine Vergütung …
+- [BGH, Urteil vom 11.07.2002 - IX ZR 262/01](ix-zr-262-01.md) — Tatbestand: Der Kläger ist Verwalter in dem am 2. November 1999 eröffneten Insolvenzverfahren über das Vermögen der M.
+- [BGH, Urteil vom 11.07.2002 - IX ZR 326/99](ix-zr-326-99.md) — verfassungsrechtlicher Mängel aufheben, den inhaltlichen Bestand der einschlägigen Rechtsvorschriften jedoch unberührt lassen.
+- [BGH, Beschluss vom 11.07.2002 - IX ZR 398/99](ix-zr-398-99.md) — Die gemäß § 5 Abs. 1 Satz 1 GKG statthaften Erinnerungen sind unbegründet. Der Kläger ist Antragsteller im Revisionsverfahren und deshalb gemäß § 49 Satz 1 GKG insoweit alleiniger …
+- [BGH, Beschluss vom 11.07.2002 - IX ZR 68/01](ix-zr-68-01.md) — Die Rechtssache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist im Ergebnis richtig entschieden (§ 554 b ZPO a.F.).
 - [BGH, Beschluss vom 04.07.2002 - IX ZB 221/02](ix-zb-221-02.md) — der Versäumung der Rechtsmittelfrist Wiedereinsetzung nach § 233 ZPO zu gewähren, wenn sie vernünftigerweise nicht mit der Verweigerung der
+- [BGH, Beschluss vom 04.07.2002 - IX ZB 23/02](ix-zb-23-02.md) — Die Rechtsbeschwerde ist unzulässig. Die Rechtssache hat keine grundsätzliche Bedeutung; eine Entscheidung des Rechtsbeschwerdegerichts ist auch nicht zur Fortbildung des Rechts …
 - [BGH, Beschluss vom 04.07.2002 - IX ZB 24/02](ix-zb-24-02.md) — Die Rechtsbeschwerde ist unzulässig. Die Rechtssache hat keine grundsätzliche Bedeutung; eine Entscheidung des Rechtsbeschwerdegerichts ist auch nicht zur Fortbildung des Rechts …
 - [BGH, Beschluss vom 04.07.2002 - IX ZB 31/02](ix-zb-31-02.md) — I. Der weitere Beteiligte war vom 21. Februar bis zum 22. März 2001 vorläufiger Insolvenzverwalter der Schuldnerin (GmbH), die das Insolvenzverfahren über das eigene Vermögen …
 - [BGH, Versäumnisurteil vom 04.07.2002 - IX ZR 153/01](ix-zr-153-01.md) — Tatbestand:
 - [BGH, Urteil vom 04.07.2002 - IX ZR 265/01](ix-zr-265-01.md) — Tatbestand: Der Kläger ist Verwalter in dem am 30. Juni 1999 eröffneten Insolvenzverfahren über das Vermögen der H. M. KG. Die beklagte Bund
 - [BGH, Urteil vom 04.07.2002 - IX ZR 97/99](ix-zr-97-99.md) — Tatbestand:
 - [BGH, Beschluss vom 20.06.2002 - IX ZB 12/02](ix-zb-12-02.md) — BGH, Beschluss vom 20.06.2002 - IX ZB 12/02
+- [BGH, Beschluss vom 20.06.2002 - IX ZB 171/02](ix-zb-171-02.md) — Die gemäß § 7 InsO i.d.F. des ZPO-Reformgesetzes vom 27. Juli 2001 grundsätzlich statthafte Rechtsbeschwerde ist unzulässig. Sie ist nicht durch einen beim Bundesgerichtshof …
+- [BGH, Beschluss vom 20.06.2002 - IX ZB 240/02](ix-zb-240-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten sind sie nicht statthaft (BGH, Beschl. v. 7. März 2002 - IX ZB
+- [BGH, Beschluss vom 20.06.2002 - IX ZB 36/02](ix-zb-36-02.md) — in das Regelinsolvenzverfahren überzuleiten, wenn es an den Voraussetzungen des § 304 Abs. 2 InsO fehlt. Diese Rechtsfrage ist geklärt (vgl.
+- [BGH, Beschluss vom 20.06.2002 - IX ZB 56/01](ix-zb-56-01.md) — I. Durch den angefochtenen Beschluß hat das Oberlandesgericht die sofortige Beschwerde der Schuldnerin gegen einen Beschluß des Landgerichts vom 24. März 2000 zurückgewiesen. Zur …
+- [BGH, Urteil vom 20.06.2002 - IX ZR 177/99](ix-zr-177-99.md) — Tatbestand:
 - [BGH, Beschluss vom 20.06.2002 - IX ZR 219/99](ix-zr-219-99.md) — BGH, Beschluss vom 20.06.2002 - IX ZR 219/99
 - [BGH, Beschluss vom 20.06.2002 - IX ZR 24/02](ix-zr-24-02.md) — BGH, Beschluss vom 20.06.2002 - IX ZR 24/02
+- [BGH, Urteil vom 20.06.2002 - IX ZR 444/00](ix-zr-444-00.md) — Tatbestand Die Klägerin hat den Beklagten über längere Zeit anwaltlich beraten und vertreten. Nachdem eine Vielzahl an Gebührenforderungen a
+- [BGH, Beschluss vom 13.06.2002 - IX ZA 2/02](ix-za-2-02.md) — Die Rechtsverfolgung bietet keine hinreichende Aussicht auf Erfolg (§ 4 InsO i.V.m.
+- [BGH, Beschluss vom 13.06.2002 - IX ZA 4/02](ix-za-4-02.md) — Die Rechtsverfolgung bietet keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Urteil vom 13.06.2002 - IX ZR 196/01](ix-zr-196-01.md) — Tatbestand:
+- [BGH, Urteil vom 13.06.2002 - IX ZR 242/01](ix-zr-242-01.md) — Tatbestand:
+- [BGH, Beschluss vom 13.06.2002 - IX ZR 26/01](ix-zr-26-01.md) — I. Die Klägerin, eine durch Grundschulden gesicherte Gläubigerin, hat mit der vorliegenden Klage von der Beklagten, der gewerblichen Zwischenmieterin des Grundstücks, begehrt, daß …
+- [BGH, Beschluss vom 13.06.2002 - IX ZR 286/00](ix-zr-286-00.md) — I. Das Oberlandesgericht hat den Wert der Beschwer der Klägerin in seinem mit der Revision angegriffenen Urteil auf 50.000 DM festgesetzt. Das entspricht den Angaben der Klägerin …
+- [BGH, Urteil vom 13.06.2002 - IX ZR 398/00](ix-zr-398-00.md) — Tatbestand:
+- [BGH, Beschluss vom 13.06.2002 - IX ZR 8/01](ix-zr-8-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 13.06.2002 - IX ZR 82/01](ix-zr-82-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 13.06.2002 - IX ZR 92/00](ix-zr-92-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist vom Berufungsgericht mit der Verneinung des geltend gemachten Steuerschadens als Folge der notariellen Amtspflichtverletzung …
+- [BGH, Beschluss vom 06.06.2002 - IX ZB 133/02](ix-zb-133-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 06.06.2002 - IX ZR 169/01](ix-zr-169-01.md) — I. Die Sache wirft entscheidungserhebliche Rechtsfragen von grundsätzlicher Bedeutung nicht auf; das in OLG-Report Karlsruhe/Stuttgart 2002, 77 veröffentlichte Berufungsurteil ist …
+- [BGH, Beschluss vom 06.06.2002 - IX ZR 253/99](ix-zr-253-99.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 06.06.2002 - IX ZR 325/99](ix-zr-325-99.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
+- [BGH, Urteil vom 06.06.2002 - IX ZR 35/02](ix-zr-35-02.md) — Tatbestand: Die Klägerin verlangt Hinterbliebenenrente nach ihrem 1986 verstorbenen Ehemann, der als rassisch Verfolgter des deutschen Sprac
+- [BGH, Beschluss vom 06.06.2002 - IX ZR 425/99](ix-zr-425-99.md) — besonders verdächtig, weil sie an einen Zahlungsverzug des Auftragnehmers und damit typischerweise an dessen Liquiditätsschwierigkeiten ankn
+- [BGH, Beschluss vom 25.04.2002 - IX ZB 100/02](ix-zb-100-02.md) — Nach der Neuregelung des Beschwerderechts durch das Zivilprozeßreformgesetz ist ein außerordentliches Rechtsmittel gegen Beschlüsse der Beschwerdegerichte, in denen es an einer …
+- [BGH, Beschluss vom 25.04.2002 - IX ZB 106/02](ix-zb-106-02.md) — einer Verletzung von verfassungsmäßigen Rechten des Klägers kommt vorliegend nicht in Betracht. Allerdings hat das Oberlandesgericht die zul
+- [BGH, Beschluss vom 25.04.2002 - IX ZB 113/02](ix-zb-113-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist das Rechtsmittel nicht statthaft (vgl. BGH, Beschl. v. 7. M
+- [BGH, Beschluss vom 25.04.2002 - IX ZB 62/02](ix-zb-62-02.md) — Gegen Entscheidungen der Oberlandesgerichte ist eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 25.04.2002 - IX ZB 66/02](ix-zb-66-02.md) — Nach der Neuregelung des Beschwerderechts durch das Zivilprozeßreformgesetz ist ein außerordentliches Rechtsmittel gegen Beschlüsse der Beschwerdegerichte, in denen es an einer …
+- [BGH, Beschluss vom 25.04.2002 - IX ZB 81/02](ix-zb-81-02.md) — Die Rechtsbeschwerde ist unzulässig, weil sie nicht binnen der Frist des § 575 Abs.1 Satz 1 ZPO n.F.
+- [BGH, Beschluss vom 25.04.2002 - IX ZB 88/02](ix-zb-88-02.md) — greifbarer Gesetzwidrigkeit sind nicht dargetan.
+- [BGH, Beschluss vom 25.04.2002 - IX ZB 92/02](ix-zb-92-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist eine Beschwerde zum Bundesgerichtshof nach neuem Recht nich
+- [BGH, Urteil vom 25.04.2002 - IX ZR 254/00](ix-zr-254-00.md) — Tatbestand:
+- [BGH, Urteil vom 25.04.2002 - IX ZR 313/99](ix-zr-313-99.md) — Insolvenzzweckwidrigkeit ist grundsätzlich in Anlehnung an die Regeln über den Mißbrauch der Vertretungsmacht zu beurteilen. Voraussetzung f
+- [BGH, Urteil vom 25.04.2002 - IX ZR 70/01](ix-zr-70-01.md) — Tatbestand:
+- [BGH, Urteil vom 18.04.2002 - IX ZR 161/01](ix-zr-161-01.md) — Tatbestand:
+- [BGH, Urteil vom 18.04.2002 - IX ZR 219/01](ix-zr-219-01.md) — Tatbestand:
+- [BGH, Beschluss vom 18.04.2002 - IX ZR 294/00](ix-zr-294-00.md) — Soweit die Annahme abgelehnt wurde, hat die Revision keine grundsätzliche Bedeutung und im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO).
+- [BGH, Urteil vom 18.04.2002 - IX ZR 72/99](ix-zr-72-99.md) — Vermögensunzulänglichkeit des anderen Schädigers belastet bleibt.
+- [BGH, Beschluss vom 17.04.2002 - IX ZR 338/00](ix-zr-338-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg.
 - [BGH, Beschluss vom 17.04.2002 - IX ZR 414/00](ix-zr-414-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 17.04.2002 - IX ZR 450/00](ix-zr-450-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg.
+- [BGH, Beschluss vom 11.04.2002 - IX ZB 101/02](ix-zb-101-02.md) — I. Das Landgericht München I - 20. Zivilkammer - hat mit Beschluß vom 28. Dezember 2001 die sofortige Beschwerde des Schuldners gegen den Haftbefehl des Amtsgerichts München - …
+- [BGH, Beschluss vom 11.04.2002 - IX ZB 107/02](ix-zb-107-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 11.04.2002 - IX ZB 41/02](ix-zb-41-02.md) — Gegen Entscheidungen eines Oberlandesgerichts als Gericht der weiteren Beschwerde in Insolvenzsachen ist nach § 7 InsO in der bis zum 31.
+- [BGH, Beschluss vom 11.04.2002 - IX ZB 67/02](ix-zb-67-02.md) — des behaupteten Zustellungsmangels fristgerecht erhoben war, was das Landgericht ohne erkennbares Eingehen auf das Beschwerdevorbringen vern
+- [BGH, Beschluss vom 11.04.2002 - IX ZB 89/02](ix-zb-89-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 11.04.2002 - IX ZB 91/02](ix-zb-91-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 11.04.2002 - IX ZB 95/02](ix-zb-95-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Urteil vom 11.04.2002 - IX ZR 211/01](ix-zr-211-01.md) — Tatbestand:
+- [BGH, Beschluss vom 21.03.2002 - IX ZA 1/02](ix-za-1-02.md) — Verwerfung der sofortigen Erstbeschwerde (§ 96 ZVG) kommt nach § 26 Nr. 10 EGZPO i.d.F. des Zivilprozeßreformgesetzes hier nicht mehr in Bet
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 18/02](ix-zb-18-02.md) — I. Auf Antrag der Gläubiger hat der Vorsitzende einer Zivilkammer des Landgerichts Karlsruhe angeordnet, daß ein Beschluß des Handelsgerichts Wien - mit welchem die Schuldnerin …
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 19/02](ix-zb-19-02.md) — Das Rechtsmittel ist gemäß § 16 Abs. 1 AVAG i.V.m. § 575 Abs. 1, § 78 Abs. 1 ZPO unzulässig. Zur Begründung im einzelnen wird auf den heute erlassenen Beschluß in dem …
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 22/02](ix-zb-22-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 45/02](ix-zb-45-02.md) — BGH, Beschluss vom 21.03.2002 - IX ZB 45/02
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 48/02](ix-zb-48-02.md) — BGH, Beschluss vom 21.03.2002 - IX ZB 48/02
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 55/02](ix-zb-55-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Entscheidung vom 21.03.2002 - IX ZB 57/02](ix-zb-57-02.md) — vom 21. März 2002 in dem Zwangsversteigerungsverfahren -2- Der IX. Zivilsenat des Bundesgerichtshofs hat durch die Richter Stodolkowitz, Kirchhof, Dr. Fischer, Dr. Ganter und …
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 59/02](ix-zb-59-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 6/02](ix-zb-6-02.md) — BGH, Beschluss vom 21.03.2002 - IX ZB 6/02
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 61/02](ix-zb-61-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 72/02](ix-zb-72-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 74/02](ix-zb-74-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Beschluss vom 21.03.2002 - IX ZB 75/02](ix-zb-75-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Urteil vom 21.03.2002 - IX ZR 105/00](ix-zr-105-00.md) — Tatbestand:
 - [BGH, Beschluss vom 21.03.2002 - IX ZR 222/01](ix-zr-222-01.md) — BGH, Beschluss vom 21.03.2002 - IX ZR 222/01
 - [BGH, Beschluss vom 20.03.2002 - IX ZB 50/02](ix-zb-50-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Beschluss vom 12.03.2002 - IX ZB 64/01](ix-zb-64-01.md) — verspäteter Erstattung von Pflegekosten an die verstorbene Verfolgte (§ 30 Abs. 1 BEG, §§ 106, 34 BeamtVG). Die mit Schreiben vom 20. Mai 19
 - [BGH, Beschluss vom 12.03.2002 - IX ZB 8/02](ix-zb-8-02.md) — Nach dem hier anzuwendenden § 567 Abs. 4 Satz 1 ZPO a.F. (vgl. § 26 Nr. 10 EGZPO in der Fassung von Art. 3 Nr. 3 Zivilprozeßreformgesetz vom 27. Juli 2001, BGBl. I S. 1887, 1907 …
+- [BGH, Beschluss vom 12.03.2002 - IX ZR 184/00](ix-zr-184-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 12.03.2002 - IX ZR 196/00](ix-zr-196-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 12.03.2002 - IX ZR 242/99](ix-zr-242-99.md) — der angeblich fehlerhaften Beratung ist insgesamt verjährt, weil dieser Anspruch in dem Mahnbescheid vom 27. November 1996 unter Nr. 1 nicht
 - [BGH, Beschluss vom 12.03.2002 - IX ZR 34/01](ix-zr-34-01.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
 - [BGH, Beschluss vom 12.03.2002 - IX ZR 458/00](ix-zr-458-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 07.03.2002 - IX ZB 11/02](ix-zb-11-02.md) — der Versäumung der Frist zur Einlegung der sofortigen Beschwerde beantragt. Zur Begründung hat sie vorgetragen, sie bzw. ihr Verfahrensbevol
+- [BGH, Beschluss vom 07.03.2002 - IX ZB 151/01](ix-zb-151-01.md) — Gegen Entscheidungen der Oberlandesgerichte ist nach § 567 Abs.
+- [BGH, Beschluss vom 07.03.2002 - IX ZB 43/02](ix-zb-43-02.md) — einer Verletzung von Verfahrensgrundrechten des Beschwerdeführers, insbesondere des Rechts auf willkürfreies, faires Verfahren (vgl. BGH, Be
+- [BGH, Beschluss vom 07.03.2002 - IX ZR 113/99](ix-zr-113-99.md) — Die Sache wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und ist richtig entschieden (§ 554 b ZPO).
+- [BGH, Urteil vom 07.03.2002 - IX ZR 223/01](ix-zr-223-01.md) — Tatbestand:
+- [BGH, Beschluss vom 07.03.2002 - IX ZR 233/00](ix-zr-233-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist im Ergebnis richtig entschieden (§ 554 b ZPO).
+- [BGH, Urteil vom 07.03.2002 - IX ZR 235/01](ix-zr-235-01.md) — zu beachten. Ist die Unterbrechung in den Vorinstanzen eingetreten, kann grundsätzlich der Unterbrechungsgrund noch im Revisionsverfahren al
+- [BGH, Urteil vom 07.03.2002 - IX ZR 293/00](ix-zr-293-00.md) — Tatbestand:
+- [BGH, Beschluss vom 07.03.2002 - IX ZR 456/99](ix-zr-456-99.md) — Die Revision verspricht im Ergebnis keinen Erfolg.
+- [BGH, Urteil vom 07.03.2002 - IX ZR 457/99](ix-zr-457-99.md) — der von ihm vor Konkurseröffnung an den verkaufenden Eigentümer erbrachten Kaufpreiszahlungen dem Verlangen kein Zurückbehaltungsrecht entge
+- [BGH, Beschluss vom 28.02.2002 - IX ZB 129/00](ix-zb-129-00.md) — der Eröffnung des Konkursverfahrens der Antrag des Beklagten umgestellt werden müsse. Sachdienlich sei der Feststellungsantrag, den Widerspr
 - [BGH, Beschluss vom 28.02.2002 - IX ZR 153/00](ix-zr-153-00.md) — BGH, Beschluss vom 28.02.2002 - IX ZR 153/00
+- [BGH, Beschluss vom 28.02.2002 - IX ZR 156/99](ix-zr-156-99.md) — Die Revision wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 28.02.2002 - IX ZR 225/99](ix-zr-225-99.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 28.02.2002 - IX ZR 261/99](ix-zr-261-99.md) — Das Rechtsmittel wirft keine Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Endergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 28.02.2002 - IX ZR 282/00](ix-zr-282-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und ist rechtlich einwandfrei entschieden worden (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 28.02.2002 - IX ZR 288/00](ix-zr-288-00.md) — Die Revision wirft keine ungeklärten Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 28.02.2002 - IX ZR 327/00](ix-zr-327-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Endergebnis keine Aussicht auf Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 28.02.2002 - IX ZR 462/00](ix-zr-462-00.md) — Die Revision wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 21.02.2002 - IX ZA 10/01](ix-za-10-01.md) — des wirtschaftlichen Unvermögens einer Partei unterbleibt, ist die Frist unverschuldet versäumt, sofern die Partei bis zu deren Ablauf um Be
+- [BGH, Beschluss vom 21.02.2002 - IX ZA 4/01](ix-za-4-01.md) — Die beabsichtigten Rechtsmittel haben keine hinreichende Aussicht auf Erfolg (§ 209 Abs.
+- [BGH, Beschluss vom 21.02.2002 - IX ZB 36/01](ix-zb-36-01.md) — Mit der Beschwerde wendet sich die Klägerin über ihre Revision, über die gesondert zu befinden ist, hinaus gegen die Einreihung der verstorbenen Verfolgten in den mittleren Dienst …
+- [BGH, Urteil vom 21.02.2002 - IX ZR 127/00](ix-zr-127-00.md) — Tatbestand:
+- [BGH, Beschluss vom 21.02.2002 - IX ZR 302/00](ix-zr-302-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist richtig entschieden (§ 554 b ZPO).
 - [BGH, Beschluss vom 07.02.2002 - IX ZB 114/00](ix-zb-114-00.md) — des anders gelagerten Sachverhalts - insbesondere für die Entscheidungen vom 19. Januar 1978 - IX ZR 92/73, RzW 1978, 131 f, und vom 13. Dez
+- [BGH, Beschluss vom 07.02.2002 - IX ZB 119/01](ix-zb-119-01.md) — Ein gesetzlicher Grund für die Zulassung der Revision (§ 219 Abs.
 - [BGH, Urteil vom 07.02.2002 - IX ZR 115/99](ix-zr-115-99.md) — Tatbestand:
+- [BGH, Urteil vom 07.02.2002 - IX ZR 209/00](ix-zr-209-00.md) — Tatbestand:
 - [BGH, Beschluss vom 07.02.2002 - IX ZR 217/00](ix-zr-217-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist in rechtlicher Hinsicht einwandfrei entschieden (§ 554b ZPO a.F.).
 - [BGH, Beschluss vom 07.02.2002 - IX ZR 343/00](ix-zr-343-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und die Revision im Ergebnis keine Aussicht auf Erfolg (§ 554b ZPO).
 - [BGH, Beschluss vom 07.02.2002 - IX ZR 359/99](ix-zr-359-99.md) — Das Rechtsmittel wirft keine entscheidungserheblichen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
 - [BGH, Beschluss vom 24.01.2002 - IX ZB 129/01](ix-zb-129-01.md) — einer Verletzung von Verfahrensgrundrechten des Beschwerdeführers (vgl. BGH, Beschl. v. 8. November 2001 - IX ZB 44/01 z.V.b.) kommt vorlieg
-- [BGH, Urteil vom 24.01.2002 - IX ZR 180/99](ix-zr-180-99.md) — Tatbestand:
 - [BGH, Urteil vom 24.01.2002 - IX ZR 204/00](ix-zr-204-00.md) — Tatbestand
 - [BGH, Urteil vom 24.01.2002 - IX ZR 228/00](ix-zr-228-00.md) — Tatbestand:
 - [BGH, Beschluss vom 24.01.2002 - IX ZR 238/99](ix-zr-238-99.md) — BGH, Beschluss vom 24.01.2002 - IX ZR 238/99
 - [BGH, Beschluss vom 24.01.2002 - IX ZR 36/00](ix-zr-36-00.md) — BGH, Beschluss vom 24.01.2002 - IX ZR 36/00
+- [BGH, Urteil vom 17.01.2002 - IX ZR 100/99](ix-zr-100-99.md) — Tatbestand
+- [BGH, Beschluss vom 17.01.2002 - IX ZR 170/00](ix-zr-170-00.md) — Die Sache hat keine grundsätzliche Bedeutung und ist richtig entschieden (§ 554 b ZPO a.F.).
+- [BGH, Beschluss vom 17.01.2002 - IX ZR 178/99](ix-zr-178-99.md) — Die Revision wirft keine klärungsbedürftigen Rechtsfragen von grundsätzlicher Bedeutung auf und verspricht im Ergebnis keinen Erfolg (§ 554 b ZPO a.F.).
+- [BGH, Urteil vom 17.01.2002 - IX ZR 182/00](ix-zr-182-00.md) — Tatbestand:
+- [BGH, Urteil vom 17.01.2002 - IX ZR 266/00](ix-zr-266-00.md) — Tatbestand:
+- [BGH, Urteil vom 17.01.2002 - IX ZR 434/00](ix-zr-434-00.md) — Tatbestand:
+- [BGH, Beschluss vom 17.01.2002 - IX ZR 452/00](ix-zr-452-00.md) — Das Berufungsgericht hat in seinem Urteil lediglich ausgesprochen, daß die Beschwer keines der beiden Beklagten 60.000 DM übersteige; die Beschwer des unterlegenen Teils hat es …
 - [BGH, Beschluss vom 10.01.2002 - IX ZB 102/00](ix-zb-102-00.md) — Ein gesetzlicher Grund für die Zulassung der Revision (§ 219 Abs.
 - [BGH, Beschluss vom 10.01.2002 - IX ZB 113/00](ix-zb-113-00.md) — Ein gesetzlicher Grund für die Zulassung der Revision (§ 219 Abs.
 - [BGH, Beschluss vom 10.01.2002 - IX ZB 37/01](ix-zb-37-01.md) — Die Revision muß nach § 219 Abs. 2 Nr. 1 BEG zugelassen werden, weil zu entscheiden ist, welches Beweismaß bei Ansprüchen auf eine Hinterbliebenenrente nach § 41 BEG für einen …

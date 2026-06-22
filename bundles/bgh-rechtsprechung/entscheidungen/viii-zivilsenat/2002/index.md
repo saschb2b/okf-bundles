@@ -1,15 +1,36 @@
 # VIII. Zivilsenat – 2002
 
-35 Entscheidung(en).
+86 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2002 - VIII ZB 109/02](viii-zb-109-02.md) — BGH, Beschluss vom 18.12.2002 - VIII ZB 109/02
+- [BGH, Beschluss vom 18.12.2002 - VIII ZB 97/02](viii-zb-97-02.md) — angeblicher Mängel des Wohnhauses leiteten
+- [BGH, Urteil vom 18.12.2002 - VIII ZR 123/02](viii-zr-123-02.md) — Tatbestand:
+- [BGH, Urteil vom 18.12.2002 - VIII ZR 141/02](viii-zr-141-02.md) — Tatbestand:
 - [BGH, Urteil vom 18.12.2002 - VIII ZR 72/02](viii-zr-72-02.md) — Tatbestand:
+- [BGH, Beschluss vom 27.11.2002 - VIII ZB 112/02](viii-zb-112-02.md) — Die Rechtsbeschwerde ist unstatthaft, weil weder ihre Statthaftigkeit für diesen Fall vom Gesetz ausdrücklich bestimmt ist noch das Kammergericht die Rechtsbeschwerde in dem …
 - [BGH, Beschluss vom 27.11.2002 - VIII ZB 33/02](viii-zb-33-02.md) — I. Der Kläger nimmt den Beklagten aufgrund des mit ihm geschlossenen Mietvertrages vom 31. März 1998 auf Beseitigung von insgesamt neun Mängeln in Anspruch. Durch Teilurteil vom …
+- [BGH, Beschluss vom 27.11.2002 - VIII ZB 45/02](viii-zb-45-02.md) — des verspäteten Eingangs der Berufungsbegründung zurückgenommen werde, hat der Prozeßbevollmächtigte vorgebracht, die Berufungsbegründung se
+- [BGH, Beschluss vom 27.11.2002 - VIII ZB 65/02](viii-zb-65-02.md) — Die kraft ausdrücklicher gesetzlicher Bestimmung statthafte Rechtsbeschwerde (§ 574 Abs.
+- [BGH, Beschluss vom 27.11.2002 - VIII ZB 87/02](viii-zb-87-02.md) — Die Rechtsbeschwerde ist unzulässig, weil sie nicht von einem beim Bundesgerichtshof zugelassenen Rechtsanwalt eingelegt und begründet worden ist (§ 78 Abs.
+- [BGH, Versäumnisurteil vom 27.11.2002 - VIII ZR 108/02](viii-zr-108-02.md) — des Zinsanspruchs aus 82,03    ¨!#%" $')& (031 23457 06 uten Verhandlung und Entscheidung, auch über die Kosten des Revisionsve
+- [BGH, Beschluss vom 20.11.2002 - VIII ZB 108/02](viii-zb-108-02.md) — Gegen Beschlüsse der Oberlandesgerichte im Beschwerdeverfahren ist das Rechtsmittel zum Bundesgerichtshof ausschließlich die Rechtsbeschwerde eröffnet.
+- [BGH, Beschluss vom 20.11.2002 - VIII ZB 111/02](viii-zb-111-02.md) — Gegen Beschlüsse der Oberlandesgerichte im Beschwerdeverfahren ist als Rechtsmittel zum Bundesgerichtshof ausschließlich die Rechtsbeschwerde eröffnet.
 - [BGH, Beschluss vom 20.11.2002 - VIII ZB 66/02](viii-zb-66-02.md) — BGH, Beschluss vom 20.11.2002 - VIII ZB 66/02
+- [BGH, Urteil vom 20.11.2002 - VIII ZR 146/01](viii-zr-146-01.md) — Tatbestand: Der Kläger ist ein Zusammenschluß selbständiger Versicherungskaufleute und selbständiger Bausparkaufleute Deutschlands, der nach
+- [BGH, Urteil vom 20.11.2002 - VIII ZR 211/01](viii-zr-211-01.md) — Tatbestand: Die Parteien schlossen unter dem 1. April/24. Juli 1986 einen Versicherungsvertretervertrag, nach dem der Kläger für die Beklagt
+- [BGH, Urteil vom 20.11.2002 - VIII ZR 65/02](viii-zr-65-02.md) — Tatbestand:
 - [BGH, Beschluss vom 13.11.2002 - VIII ZB 110/02](viii-zb-110-02.md) — Die Rechtsbeschwerde ist unstatthaft, weil weder ihre Statthaftigkeit für diesen Fall vom Gesetz ausdrücklich bestimmt ist noch das Landgericht die Rechtsbeschwerde in dem …
+- [BGH, Beschluss vom 06.11.2002 - VIII ZB 60/02](viii-zb-60-02.md) — I. Im Berufungsverfahren hat die Prozeßbevollmächtigte der Beklagten dem Landgericht mit Schriftsatz vom 6. Februar 2002 mitgeteilt, daß die Beklagte an diesem Tag verstorben sei …
+- [BGH, Beschluss vom 06.11.2002 - VIII ZR 234/01](viii-zr-234-01.md) — Trotz ordnungsgemäßer Ladung war die Revisionsklägerin im Termin zur mündlichen Verhandlung nicht vertreten.
+- [BGH, Urteil vom 30.10.2002 - VIII ZR 119/02](viii-zr-119-02.md) — Tatbestand: Mit "Leasing-Bestellung" vom 13. November 1998 bestellte der Kläger bei der Beklagten, einer Kraftfahrzeug-Händlerin, einen Pers
+- [BGH, Urteil vom 30.10.2002 - VIII ZR 272/01](viii-zr-272-01.md) — Tatbestand:
 - [BGH, Beschluss vom 29.10.2002 - VIII ZB 102/02](viii-zb-102-02.md) — BGH, Beschluss vom 29.10.2002 - VIII ZB 102/02
 - [BGH, Beschluss vom 29.10.2002 - VIII ZB 41/02](viii-zb-41-02.md) — BGH, Beschluss vom 29.10.2002 - VIII ZB 41/02
 - [BGH, Beschluss vom 29.10.2002 - VIII ZB 89/02](viii-zb-89-02.md) — BGH, Beschluss vom 29.10.2002 - VIII ZB 89/02
+- [BGH, Beschluss vom 23.10.2002 - VIII ZB 37/02](viii-zb-37-02.md) — Versäumung der Berufungsbegründungsfrist verworfen.
+- [BGH, Beschluss vom 23.10.2002 - VIII ZB 38/02](viii-zb-38-02.md) — Versäumung der Berufungsbegründungsfrist verworfen.
+- [BGH, Beschluss vom 23.10.2002 - VIII ZB 82/02](viii-zb-82-02.md) — Die Rechtsbeschwerde ist unzulässig, weil sie nicht innerhalb der gesetzlichen Frist von einem Monat ab Zustellung des angefochtenen Beschlusses von einem beim Bundesgerichtshof …
+- [BGH, Beschluss vom 23.10.2002 - VIII ZB 98/02](viii-zb-98-02.md) — Die Rechtsbeschwerde ist nicht statthaft (§ 574 Abs.
 - [BGH, Beschluss vom 16.10.2002 - VIII ZB 27/02](viii-zb-27-02.md) — BGH, Beschluss vom 16.10.2002 - VIII ZB 27/02
 - [BGH, Beschluss vom 16.10.2002 - VIII ZB 30/02](viii-zb-30-02.md) — BGH, Beschluss vom 16.10.2002 - VIII ZB 30/02
 - [BGH, Beschluss vom 09.10.2002 - VIII ZB 83/02](viii-zb-83-02.md) — Gegen Beschlüsse der Landgerichte im Berufungsverfahren ist als Rechtsmittel zum Bundesgerichtshof ausschließlich die Rechtsbeschwerde eröffnet.
@@ -17,21 +38,51 @@
 - [BGH, Urteil vom 09.10.2002 - VIII ZR 164/01](viii-zr-164-01.md) — Tatbestand:
 - [BGH, Urteil vom 09.10.2002 - VIII ZR 188/01](viii-zr-188-01.md) — Tatbestand: Der Klägerin steht gegen ihren Streithelfer B. , ihren früheren Ehemann, aufgrund eines rechtskräftigen Anerkenntnis-Vorbehaltsu
 - [BGH, Urteil vom 09.10.2002 - VIII ZR 95/01](viii-zr-95-01.md) — Tatbestand: Die Klägerin, die einen Großhandel für Heimtierbedarf und Pflanzenschutz betreibt, bezog seit 1994 zunächst von der Firma R. C.
+- [BGH, Beschluss vom 02.10.2002 - VIII ZR 105/02](viii-zr-105-02.md) — angenommener Mängel der Mietsache - hier: Fehlen einer vertraglich zugesicherten Nutzbarkeit der Kellerräume zu Wohnzwecken und Erlaubnis zu
+- [BGH, Urteil vom 02.10.2002 - VIII ZR 163/01](viii-zr-163-01.md) — Tatbestand:
+- [BGH, Urteil vom 25.09.2002 - VIII ZR 253/99](viii-zr-253-99.md) — Verstoßes gegen § 89 b Abs. 4 Satz 1 HGB der Inhaltskontrolle nach § 9 Abs. 1 AGBG (jetzt § 307 Abs. 1 Satz 1 BGB) nicht stand.
+- [BGH, Beschluss vom 11.09.2002 - VIII ZB 21/02](viii-zb-21-02.md) — I. Der Beklagte hat am 16. November 2001 Berufung gegen das Urteil des Amtsgerichts Celle vom 12. Oktober 2001 eingelegt, durch das er verurteilt worden ist, an die Klägerin …
+- [BGH, Urteil vom 11.09.2002 - VIII ZR 138/01](viii-zr-138-01.md) — Tatbestand:
+- [BGH, Beschluss vom 11.09.2002 - VIII ZR 235/02](viii-zr-235-02.md) — . Nach ständiger Rechtsprechung des Bundesverfassungsgerichts und des Bundesgerichtshofs hat ein Rechtsschutzbegehren in aller Regel dann hinreichende Aussicht auf Erfolg, wenn …
+- [BGH, Beschluss vom 11.09.2002 - VIII ZR 298/01](viii-zr-298-01.md) — BGH, Beschluss vom 11.09.2002 - VIII ZR 298/01
+- [BGH, Beschluss vom 04.09.2002 - VIII ZB 2/02](viii-zb-2-02.md) — BGH, Beschluss vom 04.09.2002 - VIII ZB 2/02
+- [BGH, Beschluss vom 04.09.2002 - VIII ZB 23/02](viii-zb-23-02.md) — fehlender Antragstellung unzulässig sein dürfte, haben die Prozeßbevollmächtigten der Beklagten Wiedereinsetzung in den vorigen Stand beantr
+- [BGH, Beschluss vom 04.09.2002 - VIII ZB 49/02](viii-zb-49-02.md) — Versäumung der Berufungsfrist als unzulässig verworfen. Es hat den Antrag des Klägers auf Wiedereinsetzung in den vorigen Stand für unbegrün
+- [BGH, Urteil vom 04.09.2002 - VIII ZR 251/01](viii-zr-251-01.md) — Tatbestand:
 - [BGH, Urteil vom 17.07.2002 - VIII ZR 151/01](viii-zr-151-01.md) — Tatbestand: Die Klägerin macht aus abgetretenem Recht des E. Ö. einen Rückforderungsanspruch gegen den Beklagten geltend. Dem liegt folgende
 - [BGH, Beschluss vom 17.07.2002 - VIII ZR 347/00](viii-zr-347-00.md) — eine Anwendung
 - [BGH, Urteil vom 17.07.2002 - VIII ZR 59/01](viii-zr-59-01.md) — der Stufen 2 und 3 des Widerklageantrages zu III. gegen die Drittwiderbeklagte an das Landgericht zurückverweist (Tenor des Berufungsurteils
 - [BGH, Versäumnisurteil vom 17.07.2002 - VIII ZR 64/01](viii-zr-64-01.md) — BGH, Versäumnisurteil vom 17.07.2002 - VIII ZR 64/01
+- [BGH, Beschluss vom 16.07.2002 - VIII ZB 55/02](viii-zb-55-02.md) — Gegen Beschlüsse der Oberlandesgerichte im Beschwerdeverfahren ist als Rechtsmittel zum Bundesgerichtshof ausschließlich die Rechtsbeschwerde eröffnet.
 - [BGH, Urteil vom 10.07.2002 - VIII ZR 158/01](viii-zr-158-01.md) — Tatbestand:
+- [BGH, Urteil vom 10.07.2002 - VIII ZR 199/01](viii-zr-199-01.md) — 3-
 - [BGH, Urteil vom 10.07.2002 - VIII ZR 58/00](viii-zr-58-00.md) — Verstoßes gegen § 89 b Abs. 4 HGB unwirksam.
+- [BGH, Beschluss vom 26.06.2002 - VIII ZB 50/02](viii-zb-50-02.md) — Die Rechtsbeschwerde ist unstatthaft, weil weder ihre Statthaftigkeit für diesen Fall vom Gesetz ausdrücklich bestimmt ist noch das Landgericht die Rechtsbeschwerde in dem …
+- [BGH, Urteil vom 26.06.2002 - VIII ZR 147/01](viii-zr-147-01.md) — Tatbestand: Der Kläger schloß mit der Beklagten am 4. Mai/14. Mai 1998 einen mit "Offener Vertrag (mit Restwertabrechnung)" überschriebenen
+- [BGH, Urteil vom 26.06.2002 - VIII ZR 327/00](viii-zr-327-00.md) — Tatbestand:
 - [BGH, Beschluss vom 18.06.2002 - VIII ZB 6/02](viii-zb-6-02.md) — BGH, Beschluss vom 18.06.2002 - VIII ZB 6/02
+- [BGH, Urteil vom 12.06.2002 - VIII ZR 187/01](viii-zr-187-01.md) — Tatbestand:
 - [BGH, Beschluss vom 05.06.2002 - VIII ZB 15/02](viii-zb-15-02.md) — Retouren, Minderungen oder Reklamationen bestünden. Auf etwaige Gegenansprüche der Beklagten erstreckt sich die von ihr zu erteilende Auskun
+- [BGH, Beschluss vom 22.05.2002 - VIII ZA 1/02](viii-za-1-02.md) — Die als "Referenzantrag" bezeichnete Eingabe des Antragstellers vom 18.
 - [BGH, Beschluss vom 22.05.2002 - VIII ZB 25/02](viii-zb-25-02.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine weitere Beschwerde nicht zulässig (§§ 567 Abs.
+- [BGH, Beschluss vom 22.05.2002 - VIII ZR 163/00](viii-zr-163-00.md) — Die Eingabe des Beklagten zu 2 vom 9. April 2002 ist als Erinnerung gegen den Kostenansatz in der Kostenrechnung vom 8. März 2002 zu behandeln (§ 5 GKG). Die Erinnerung, welcher …
+- [BGH, Beschluss vom 22.05.2002 - VIII ZR 217/01](viii-zr-217-01.md) — I. Durch Entscheidungen des Thüringischen Oberlandesgerichts vom 24. April 2001 und vom 31. Juli 2001 ist der Beklagte verurteilt worden, auf sei- nem Grundstück I. Straße in E …
+- [BGH, Urteil vom 22.05.2002 - VIII ZR 337/00](viii-zr-337-00.md) — Tatbestand:
 - [BGH, Beschluss vom 22.05.2002 - VIII ZR 49/02](viii-zr-49-02.md) — I. Der Beklagte ist durch Urteil des Amtsgerichts Lehrte vom 9. März 2001 verurteilt worden, an die Kläger rückständige Miete in Höhe von 21.417,60 DM zu zahlen. Seine Widerklage …
+- [BGH, Beschluss vom 15.05.2002 - VIII ZB 39/02](viii-zb-39-02.md) — Das Landgericht hat die Beschwerde der Klägerin gegen den Beschluß des Amtsgerichts vom 15.
 - [BGH, Beschluss vom 24.04.2002 - VIII ZB 17/02](viii-zb-17-02.md) — Das Rechtsmittel ist nicht als Rechtsbeschwerde zu behandeln.
+- [BGH, Urteil vom 17.04.2002 - VIII ZR 139/01](viii-zr-139-01.md) — Tatbestand:
+- [BGH, Urteil vom 17.04.2002 - VIII ZR 297/01](viii-zr-297-01.md) — Tatbestand:
+- [BGH, Beschluss vom 16.04.2002 - VIII ZB 22/02](viii-zb-22-02.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine Beschwerde nicht zulässig (§ 567 Abs.
+- [BGH, Beschluss vom 10.04.2002 - VIII ZB 12/02](viii-zb-12-02.md) — Das Rechtsmittel gegen den angefochtenen Beschluß, durch den das Landgericht im Berufungsrechtszug den Einspruch der Beklagten zu 1 gegen das Versäumnisurteil des Landgerichts vom …
+- [BGH, Beschluss vom 10.04.2002 - VIII ZB 4/02](viii-zb-4-02.md) — Gegen Entscheidungen der Oberlandesgerichte ist - abgesehen von hier nicht vorliegenden Ausnahmefällen - eine weitere Beschwerde nicht zulässig (§ 567 Abs.
 - [BGH, Urteil vom 13.03.2002 - VIII ZR 292/00](viii-zr-292-00.md) — Tatbestand:
+- [BGH, Beschluss vom 27.02.2002 - VIII ZB 35/01](viii-zb-35-01.md) — I. Der Kläger, der für die Beklagte zu 1 aufgrund des Handelsvertretervertrages vom 1. April 1996 in Gebieten mit näher bezeichneten Postleitzahlen als Handelsvertreter tätig war …
 - [BGH, Urteil vom 20.02.2002 - VIII ZR 228/00](viii-zr-228-00.md) — Tatbestand:
 - [BGH, Urteil vom 13.02.2002 - VIII ZR 124/00](viii-zr-124-00.md) — Tatbestand: Die Klägerin, eine Herstellerin von Milchprodukten, nimmt die Beklagten zu 1) bis 3) und 5) bis 13), die sich durch Gesellschaft
 - [BGH, Urteil vom 13.02.2002 - VIII ZR 93/01](viii-zr-93-01.md) — Tatbestand: Die Parteien streiten darum, ob die Klägerin als Leasingnehmerin der Käuferin, der Firma B. Leasing GmbH, berechtigt ist, aus ab
+- [BGH, Urteil vom 06.02.2002 - VIII ZR 106/01](viii-zr-106-01.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Schadensersatz wegen unberechtigter Kündigung eines Handelsvertretervertrages. Die in De
+- [BGH, Versäumnisurteil vom 06.02.2002 - VIII ZR 185/00](viii-zr-185-00.md) — Tatbestand: Der Kläger wendet sich gegen die Vollstreckung einer Kaufpreisforderung aus einem notariell beurkundeten Kaufvertrag über GmbHGe
 - [BGH, Urteil vom 30.01.2002 - VIII ZR 169/00](viii-zr-169-00.md) — 3-
 - [BGH, Beschluss vom 23.01.2002 - VIII ZB 42/01](viii-zb-42-01.md) — BGH, Beschluss vom 23.01.2002 - VIII ZB 42/01
 - [BGH, Versäumnisurteil vom 23.01.2002 - VIII ZR 105/01](viii-zr-105-01.md) — Tatbestand: Der Kläger ist Eigentümer eines Gewerbegrundstücks in S. A. . Am 10. Oktober 1997 schloß er mit den Beklagten einen als "Auftrag

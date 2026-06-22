@@ -1,29 +1,103 @@
 # II. Zivilsenat – 2002
 
-25 Entscheidung(en).
+99 Entscheidung(en).
 
+- [BGH, Urteil vom 16.12.2002 - II ZR 109/01](ii-zr-109-01.md) — Verstoßes gegen Art. 1 § 1 RBerG i.V.m. § 134 BGB nichtig. b) Die Nichtigkeit erfaßt auch die dem Treuhänder erteilte Vollmacht. c) Gibt der
+- [BGH, Beschluss vom 09.12.2002 - II ZB 12/02](ii-zb-12-02.md) — I. Durch Gesellschaftsvertrag vom 14. Juni 2001 wurde die D. Fünfundzwanzigste Verwaltungsgesellschaft mbH als sog. Vorratsgesellschaft mit Sitz in G. und einem - ausweislich der …
+- [BGH, Urteil vom 09.12.2002 - II ZR 202/00](ii-zr-202-00.md) — Tatbestand:
 - [BGH, Urteil vom 02.12.2002 - II ZR 1/02](ii-zr-1-02.md) — BGH, Urteil vom 02.12.2002 - II ZR 1/02
+- [BGH, Urteil vom 02.12.2002 - II ZR 101/02](ii-zr-101-02.md) — Tatbestand:
+- [BGH, Urteil vom 02.12.2002 - II ZR 194/00](ii-zr-194-00.md) — Tatbestand:
 - [BGH, Beschluss vom 02.12.2002 - II ZR 324/00](ii-zr-324-00.md) — BGH, Beschluss vom 02.12.2002 - II ZR 324/00
+- [BGH, Beschluss vom 27.11.2002 - II ZR 268/02](ii-zr-268-02.md) — I. Die Klägerin nimmt die beklagten Rechtsanwälte auf Herausgabe von Unterlagen in Anspruch. Die Beklagten vertraten die Klägerin in mehreren arbeitsgerichtlichen …
 - [BGH, Urteil vom 25.11.2002 - II ZR 133/01](ii-zr-133-01.md) — der damit verbundenen erheblichen Beeinträchtigung der Verkehrsfähigkeit der Aktien das Aktieneigentum. Es bedarf eines Beschlusses der Haup
+- [BGH, Urteil vom 25.11.2002 - II ZR 69/01](ii-zr-69-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.11.2002 - II ZR 125/02](ii-zr-125-02.md) — Tatbestand:
 - [BGH, Urteil vom 04.11.2002 - II ZR 204/00](ii-zr-204-00.md) — Tatbestand:
+- [BGH, Urteil vom 04.11.2002 - II ZR 210/00](ii-zr-210-00.md) — Tatbestand:
 - [BGH, Urteil vom 04.11.2002 - II ZR 224/00](ii-zr-224-00.md) — Tatbestand:
 - [BGH, Urteil vom 04.11.2002 - II ZR 287/01](ii-zr-287-01.md) — Tatbestand: Die Beklagte erwarb an der G. H. GmbH & Co. Produktions KG sowie an deren Komplementär-GmbH mit Vertrag vom 6. Februar 1992 Unte
+- [BGH, Urteil vom 28.10.2002 - II ZR 146/02](ii-zr-146-02.md) — Tatbestand:
+- [BGH, Urteil vom 28.10.2002 - II ZR 353/00](ii-zr-353-00.md) — BGH, Urteil vom 28.10.2002 - II ZR 353/00
 - [BGH, Urteil vom 21.10.2002 - II ZR 118/02](ii-zr-118-02.md) — Tatbestand:
 - [BGH, Beschluss vom 21.10.2002 - II ZR 68/02](ii-zr-68-02.md) — BGH, Beschluss vom 21.10.2002 - II ZR 68/02
+- [BGH, Urteil vom 07.10.2002 - II ZR 74/00](ii-zr-74-00.md) — Tatbestand:
+- [BGH, Beschluss vom 23.09.2002 - II ZB 16/02](ii-zb-16-02.md) — Nichterreichens der Berufungssumme und fehlender Zulassung verworfen hätte. Die Prüfung hat ergeben, daß die Rechtsbeschwerde keinen Erfolg
+- [BGH, Urteil vom 23.09.2002 - II ZR 299/01](ii-zr-299-01.md) — Tatbestand:
+- [BGH, Urteil vom 23.09.2002 - II ZR 43/01](ii-zr-43-01.md) — Tatbestand:
+- [BGH, Beschluss vom 16.09.2002 - II ZB 7/02](ii-zb-7-02.md) — eröffnet (§ 127 Abs. 2, § 568 Abs. 2 Satz 1 ZPO a.F., § 567 Abs. 1 Nr. 1 ZPO n.F., § 65 Abs. 1, § 6, § 5 Abs. 2 GKG).
+- [BGH, Urteil vom 16.09.2002 - II ZR 1/00](ii-zr-1-00.md) — Tatbestand:
+- [BGH, Urteil vom 16.09.2002 - II ZR 107/01](ii-zr-107-01.md) — Tatbestand:
+- [BGH, Beschluss vom 16.09.2002 - II ZR 234/00](ii-zr-234-00.md) — BGH, Beschluss vom 16.09.2002 - II ZR 234/00
+- [BGH, Urteil vom 16.09.2002 - II ZR 284/01](ii-zr-284-01.md) — Tatbestand:
 - [BGH, Urteil vom 09.09.2002 - II ZR 198/00](ii-zr-198-00.md) — Tatbestand:
+- [BGH, Beschluss vom 14.08.2002 - II ZB 18/02](ii-zb-18-02.md) — Die Beschwerde ist unzulässig. Die Beschwerde richtet sich ebenso wie die ihr vorausgegangene, von dem Oberlandesgericht in dem angegriffenen Beschluß zurückgewiesene Erinnerung …
+- [BGH, Urteil vom 22.07.2002 - II ZR 265/00](ii-zr-265-00.md) — der relativ kurzen Zeit seiner Mitarbeit die Gemeinschaftspraxis noch nicht entscheidend mitprägen konnte. Sie entspricht im übrigen der Bes
+- [BGH, Urteil vom 22.07.2002 - II ZR 286/01](ii-zr-286-01.md) — Tatbestand:
+- [BGH, Urteil vom 22.07.2002 - II ZR 90/01](ii-zr-90-01.md) — der relativ kurzen Zeit seiner Mitarbeit die Gemeinschaftspraxis noch nicht entscheidend mitprägen konnte.
+- [BGH, Beschluss vom 15.07.2002 - II ZB 5/02](ii-zb-5-02.md) — Beschwerdeentscheidungen der Oberlandesgerichte sind nach § 567 Abs.
+- [BGH, Urteil vom 15.07.2002 - II ZR 192/00](ii-zr-192-00.md) — Tatbestand:
+- [BGH, Urteil vom 15.07.2002 - II ZR 225/00](ii-zr-225-00.md) — Tatbestand:
+- [BGH, Urteil vom 15.07.2002 - II ZR 52/00](ii-zr-52-00.md) — Tatbestand:
+- [BGH, Beschluss vom 01.07.2002 - II ZB 11/01](ii-zb-11-01.md) — Versäumung der Berufungsfrist gewährt. Beschwerdewert: 56.187,54 DM = 28.728,23 €
+- [BGH, Versäumnisurteil vom 01.07.2002 - II ZR 375/00](ii-zr-375-00.md) — BGH, Versäumnisurteil vom 01.07.2002 - II ZR 375/00
+- [BGH, Urteil vom 01.07.2002 - II ZR 380/00](ii-zr-380-00.md) — Tatbestand:
+- [BGH, Beschluss vom 24.06.2002 - II ZB 3/02](ii-zb-3-02.md) — Nichteinhaltung der zweiwöchigen Frist des § 577 Abs. 2 Satz 1 ZPO a.F. mit dem angefochtenen Beschluß als unzulässig verworfen.
+- [BGH, Beschluss vom 24.06.2002 - II ZR 126/01](ii-zr-126-01.md) — einer Ankündigung der übrigen Miteigentümer, sie würden einer gewerblichen Nutzung der Eigentumswohnung nicht zustimmen, sowie wegen verspät
+- [BGH, Urteil vom 24.06.2002 - II ZR 256/01](ii-zr-256-01.md) — Tatbestand:
+- [BGH, Urteil vom 24.06.2002 - II ZR 266/01](ii-zr-266-01.md) — Tatbestand: Die Klägerin, ein Leasingunternehmen, begehrt vom Beklagten, der eine Autoreparaturwerkstatt betreibt, die Zahlung einer Nutzung
+- [BGH, Urteil vom 24.06.2002 - II ZR 296/01](ii-zr-296-01.md) — Tatbestand:
+- [BGH, Urteil vom 24.06.2002 - II ZR 300/00](ii-zr-300-00.md) — Tatbestand:
+- [BGH, Urteil vom 10.06.2002 - II ZR 162/00](ii-zr-162-00.md) — 3-
+- [BGH, Beschluss vom 10.06.2002 - II ZR 18/02](ii-zr-18-02.md) — Das Berufungsgericht hat den Streitwert für das Berufungsverfahren, in dem der Beklagte vollumfänglich unterlegen ist, mit zutreffender Begründung auf 900.000,00 DM festgesetzt.
+- [BGH, Urteil vom 10.06.2002 - II ZR 68/00](ii-zr-68-00.md) — Tatbestand:
+- [BGH, Beschluss vom 29.04.2002 - II ZB 26/01](ii-zb-26-01.md) — I. Die Klägerin hat das Anlage- und Umlaufvermögen der L. und F. A. GmbH + Co. KG, A. 15, S., von dem Insolvenzverwalter über das Vermögen jener KG erworben. Sie nimmt den …
+- [BGH, Urteil vom 29.04.2002 - II ZR 330/00](ii-zr-330-00.md) — Tatbestand:
 - [BGH, Beschluss vom 24.04.2002 - II ZB 4/01](ii-zb-4-01.md) — BGH, Beschluss vom 24.04.2002 - II ZB 4/01
+- [BGH, Beschluss vom 15.04.2002 - II ZB 22/01](ii-zb-22-01.md) — . Die Parteien sind geschiedene Eheleute. Die Klägerin hat den Beklagten u.a. auf hälftigen Ausgleich von Kosten in Anspruch genommen, die sie für die Erhaltung und Verwaltung …
+- [BGH, Beschluss vom 15.04.2002 - II ZR 195/00](ii-zr-195-00.md) — BGH, Beschluss vom 15.04.2002 - II ZR 195/00
 - [BGH, Beschluss vom 08.04.2002 - II ZR 77/00](ii-zr-77-00.md) — (Umdruck S. 6, Zeile 8) dahin berichtigt, daß es an der dortigen Stelle nicht "die Klägerin ihrerseits", sondern "die Beklagte ihrerseits" heißen muß. Weiter ist das Aktenzeichen …
+- [BGH, Beschluss vom 18.03.2002 - II ZB 19/01](ii-zb-19-01.md) — I. Der Antragsteller hat in erster Instanz bei dem Amtsgericht den Erlaß einer einstweiligen Verfügung beantragt, durch die den Antragsgegnern als angeblichem Liquidationsausschuß …
+- [BGH, Urteil vom 18.03.2002 - II ZR 103/01](ii-zr-103-01.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 18.03.2002 - II ZR 11/01](ii-zr-11-01.md) — Tatbestand:
+- [BGH, Beschluss vom 18.03.2002 - II ZR 36/01](ii-zr-36-01.md) — BGH, Beschluss vom 18.03.2002 - II ZR 36/01
+- [BGH, Versäumnisurteil vom 18.03.2002 - II ZR 363/00](ii-zr-363-00.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 18.03.2002 - II ZR 364/00](ii-zr-364-00.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 18.03.2002 - II ZR 369/00](ii-zr-369-00.md) — Tatbestand:
 - [BGH, Beschluss vom 11.03.2002 - II ZB 8/01](ii-zb-8-01.md) — BGH, Beschluss vom 11.03.2002 - II ZB 8/01
 - [BGH, Beschluss vom 11.03.2002 - II ZR 185/00](ii-zr-185-00.md) — BGH, Beschluss vom 11.03.2002 - II ZR 185/00
 - [BGH, Versäumnisurteil vom 11.03.2002 - II ZR 32/00](ii-zr-32-00.md) — 3-
+- [BGH, Beschluss vom 04.03.2002 - II ZR 197/01](ii-zr-197-01.md) — I. Die Kläger haben die in der Hauptversammlung der Beklagten vom 4. Juni 1998 gefaßten Beschlüsse zu sechs Tagesordnungspunkten (Entlastung von Vorstand und Aufsichtsrat für die …
+- [BGH, Beschluss vom 04.03.2002 - II ZR 240/01](ii-zr-240-01.md) — I. Die Klägerin hat von dem Beklagten in erster Instanz u.a. Herausgabe von 154 Gegenständen aus einem Warenlager im Gesamtwert von 61.660,75 DM begehrt. Zusätzlich hat sie …
 - [BGH, Urteil vom 25.02.2002 - II ZR 196/00](ii-zr-196-00.md) — Der Kläger, Konkursverwalter über das Vermögen der L.
 - [BGH, Urteil vom 25.02.2002 - II ZR 236/00](ii-zr-236-00.md) — Tatbestand:
 - [BGH, Urteil vom 25.02.2002 - II ZR 346/00](ii-zr-346-00.md) — Tatbestand:
 - [BGH, Urteil vom 25.02.2002 - II ZR 374/00](ii-zr-374-00.md) — Mißbrauchs der Vollmacht nichtig.
+- [BGH, Beschluss vom 21.02.2002 - II ZR 91/00](ii-zr-91-00.md) — eine unrichtige Wertfestsetzung der Vorinstanz ändert.
+- [BGH, Beschluss vom 18.02.2002 - II ZB 18/01](ii-zb-18-01.md) — I. Die Antragstellerin hatte das ihr gehörende Fahrzeug B., amtliches Kennzeichen, in die Werkstatt der Antragsgegnerin bringen lassen, damit diese die Ursache dafür feststelle …
+- [BGH, Beschluss vom 18.02.2002 - II ZR 331/00](ii-zr-331-00.md) — I. Die Klägerin klagt im Wechselprozeß auf Zahlung der Wechselsumme von 90.000,00 DM zuzüglich Nebenforderungen gegen die Beklagte zu 1, eine bauwirtschaftliche …
+- [BGH, Urteil vom 18.02.2002 - II ZR 355/00](ii-zr-355-00.md) — BGH, Urteil vom 18.02.2002 - II ZR 355/00
+- [BGH, Urteil vom 18.02.2002 - II ZR 358/99](ii-zr-358-99.md) — Tatbestand:
+- [BGH, Beschluss vom 04.02.2002 - II ZB 24/01](ii-zb-24-01.md) — I. Der Beklagte ist durch Urteil des Landgerichts Aurich zur Zahlung von gut 24.000,00 DM verurteilt worden, weil er den nach Ansicht des Landgerichts der Klägerin, der früheren …
+- [BGH, Urteil vom 04.02.2002 - II ZR 100/00](ii-zr-100-00.md) — Tatbestand: Die Klägerin - eine Wirtschaftsprüfungsgesellschaft, an der der Drittwiderkläger zu einem Viertel als Gesellschafter beteiligt w
+- [BGH, Urteil vom 04.02.2002 - II ZR 214/01](ii-zr-214-01.md) — Tatbestand:
+- [BGH, Urteil vom 04.02.2002 - II ZR 37/00](ii-zr-37-00.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 04.02.2002 - II ZR 4/00](ii-zr-4-00.md) — BGH, Versäumnisurteil vom 04.02.2002 - II ZR 4/00
+- [BGH, Beschluss vom 28.01.2002 - II ZB 23/01](ii-zb-23-01.md) — I. Der Kläger war geschäftsführender Gesellschafter einer im August 1991 in Konkurs gegangenen GmbH, deren Geschäftsanteile er und sein Mitgesellschafter Anfang 1990 an die …
+- [BGH, Beschluss vom 28.01.2002 - II ZB 3/01](ii-zb-3-01.md) — nicht eröffnet (§ 568 Abs. 2 Satz 1 ZPO). Anhaltspunkte für eine "greifbare Gesetzwidrigkeit" (vgl. dazu Sen.Urt. v. 7. Juli 1997 - II ZB 7/
+- [BGH, Beschluss vom 28.01.2002 - II ZB 9/01](ii-zb-9-01.md) — nicht eröffnet (§ 568 Abs. 2 Satz 1 ZPO). Anhaltspunkte für eine "greifbare Gesetzwidrigkeit" (vgl. dazu Sen.Urt. v. 7. Juli 1997 - II ZB 7/
+- [BGH, Urteil vom 28.01.2002 - II ZR 239/00](ii-zr-239-00.md) — 3-
 - [BGH, Urteil vom 28.01.2002 - II ZR 253/00](ii-zr-253-00.md) — Tatbestand: Die Klägerin nimmt den Beklagten als Institutszwangsverwalter der Putenmastanlage B. auf Herausgabe von 10 AugermaticSchalenfütt
 - [BGH, Versäumnisurteil vom 28.01.2002 - II ZR 259/00](ii-zr-259-00.md) — BGH, Versäumnisurteil vom 28.01.2002 - II ZR 259/00
+- [BGH, Urteil vom 28.01.2002 - II ZR 385/00](ii-zr-385-00.md) — Tatbestand: Die Klägerin verlangt von der Beklagten aus abgetretenem Recht Auszahlung eines Kontoguthabens über 147.949,00 DM, hilfsweise Sc
 - [BGH, Beschluss vom 24.01.2002 - II ZR 113/00](ii-zr-113-00.md) — BGH, Beschluss vom 24.01.2002 - II ZR 113/00
 - [BGH, Beschluss vom 21.01.2002 - II ZA 2/01](ii-za-2-01.md) — BGH, Beschluss vom 21.01.2002 - II ZA 2/01
 - [BGH, Beschluss vom 21.01.2002 - II ZB 2/01](ii-zb-2-01.md) — I. Der Kläger hat als Gesamtvollstreckungsverwalter über das Vermögen einer GmbH die Beklagten als deren Gesellschafter auf Nachzahlung ausstehender Stammeinlagen in Höhe von …
 - [BGH, Beschluss vom 21.01.2002 - II ZB 5/01](ii-zb-5-01.md) — I. Der Antragsteller zu 15, außenstehender Aktionär der Antragsgegnerin zu 1, möchte mit seiner außerordentlichen Beschwerde erreichen, daß die Rücknahme der von der …
 - [BGH, Urteil vom 21.01.2002 - II ZR 2/00](ii-zr-2-00.md) — der Eigenart derartiger Fonds als reine Kapitalanlagegesellschaften auch durch wirksam in den Vertrag einbezogene formularmäßige Vereinbarun
+- [BGH, Beschluss vom 14.01.2002 - II ZB 1/01](ii-zb-1-01.md) — nicht eröffnet (§ 568 Abs. 2 Satz 1 ZPO).
+- [BGH, Beschluss vom 14.01.2002 - II ZB 10/01](ii-zb-10-01.md) — Besorgnis der Befangenheit abgelehnt. Das Gesuch hatte keinen Erfolg. Der 2. Zivilsenat des Oberlandesgerichts Köln hat die gegen den entspr
+- [BGH, Urteil vom 14.01.2002 - II ZR 184/99](ii-zr-184-99.md) — BGH, Urteil vom 14.01.2002 - II ZR 184/99
+- [BGH, Versäumnisurteil vom 14.01.2002 - II ZR 354/99](ii-zr-354-99.md) — Tatbestand:
+- [BGH, Teilurteil vom 14.01.2002 - II ZR 40/00](ii-zr-40-00.md) — Tatbestand:
+- [BGH, Teilurteil vom 14.01.2002 - II ZR 41/00](ii-zr-41-00.md) — Tatbestand:

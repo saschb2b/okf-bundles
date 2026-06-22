@@ -1,14 +1,20 @@
 # VI. Zivilsenat – 2002
 
-40 Entscheidung(en).
+84 Entscheidung(en).
 
 - [BGH, Beschluss vom 17.12.2002 - VI ZB 56/02](vi-zb-56-02.md) — BGH, Beschluss vom 17.12.2002 - VI ZB 56/02
+- [BGH, Urteil vom 17.12.2002 - VI ZR 271/01](vi-zr-271-01.md) — Tatbestand: Das klagende Land (Kläger) begehrt im Wege des Schadensersatzes aus übergegangenem Recht nach Art. 96 S. 1 BayBG die Erstattung
+- [BGH, Beschluss vom 12.12.2002 - VI ZR 176/02](vi-zr-176-02.md) — BGH, Beschluss vom 12.12.2002 - VI ZR 176/02
 - [BGH, Beschluss vom 11.12.2002 - VI ZA 8/02](vi-za-8-02.md) — fehlender Erfolgsaussicht zurückgewiesen. Dagegen hat der Antragsteller am 11. April 2002 Beschwerde eingelegt. Diese hat das Oberlandesgeri
 - [BGH, Beschluss vom 10.12.2002 - VI ZR 171/02](vi-zr-171-02.md) — der Verletzung des Partners zeitweise nicht ausüben. Die Beklagte ist der Haftpflichtversicherer des Schädigers. Sie ist für den durch den V
+- [BGH, Urteil vom 10.12.2002 - VI ZR 378/01](vi-zr-378-01.md) — eines unterlassenen Hinweises nach §§ 163 a Abs. 4, 136 Abs. 1 Satz 2 StPO kommt nur in Betracht, wenn das Gericht im Freibeweisverfahren di
+- [BGH, Urteil vom 03.12.2002 - VI ZR 142/02](vi-zr-142-02.md) — Tatbestand: Die Klägerin verlangt als Trägerin der sozialen Pflegeversicherung aus übergegangenem Recht Ersatz ihrer Pflegegeldzahlungen an
 - [BGH, Urteil vom 03.12.2002 - VI ZR 304/01](vi-zr-304-01.md) — Tatbestand: Die klagende Berufsgenossenschaft (Klägerin) macht gegen den beklagten Rentenversicherungsträger (Beklagte) unter Berufung auf §
 - [BGH, Beschluss vom 26.11.2002 - VI ZB 41/02](vi-zb-41-02.md) — BGH, Beschluss vom 26.11.2002 - VI ZB 41/02
 - [BGH, Beschluss vom 26.11.2002 - VI ZR 185/02](vi-zr-185-02.md) — BGH, Beschluss vom 26.11.2002 - VI ZR 185/02
+- [BGH, Urteil vom 26.11.2002 - VI ZR 449/01](vi-zr-449-01.md) — 3-
 - [BGH, Beschluss vom 19.11.2002 - VI ZB 14/02](vi-zb-14-02.md) — I. Die Klägerin hat gegen den Beschluß des Landgerichts Berlin vom 24. Januar 2002 Rechtsbeschwerde eingelegt, die der Senat mit Beschluß vom 7. Mai 2002 als unzulässig verworfen …
+- [BGH, Beschluss vom 08.11.2002 - VI ZR 156/02](vi-zr-156-02.md) — Durch Beschluß vom 8. Oktober 2002 hat der erkennende Senat den Antrag der Klägerin auf Prozeßkostenhilfe abgelehnt, weil die beab-sichtigte Rechtsverfolgung keine hinreichende …
 - [BGH, Beschluss vom 05.11.2002 - VI ZB 40/02](vi-zb-40-02.md) — BGH, Beschluss vom 05.11.2002 - VI ZB 40/02
 - [BGH, Beschluss vom 05.11.2002 - VI ZB 54/01](vi-zb-54-01.md) — eines ärztlichen Behandlungsfehlers in Anspruch. Das ihre Klage abweisende Urteil des Landgerichts ist ihrer Prozeßbevollmächtigten am 5. Se
 - [BGH, Beschluss vom 05.11.2002 - VI ZR 126/02](vi-zr-126-02.md) — BGH, Beschluss vom 05.11.2002 - VI ZR 126/02
@@ -18,22 +24,60 @@
 - [BGH, Urteil vom 29.10.2002 - VI ZR 283/01](vi-zr-283-01.md) — BGH, Urteil vom 29.10.2002 - VI ZR 283/01
 - [BGH, Urteil vom 29.10.2002 - VI ZR 353/01](vi-zr-353-01.md) — 3-
 - [BGH, Beschluss vom 29.10.2002 - VI ZR 97/02](vi-zr-97-02.md) — nicht, weil das Berufungsgericht in tatrichterlicher Würdigung festgestellt hat, daß die durch den Erstunfall erhöhte Betriebsgefahr für den
+- [BGH, Beschluss vom 17.10.2002 - VI ZB 63/02](vi-zb-63-02.md) — "greifbarer Gesetzwidrigkeit") zulässig. Im Hinblick auf die gesetzliche Neuregelung des Beschwerderechts durch das Zivilprozeßreformgesetz
+- [BGH, Beschluss vom 10.10.2002 - VI ZB 23/02](vi-zb-23-02.md) — Der Antrag des Klägers, die Beschwerdegebühr gemäß § 8 GKG nicht zu erheben, ist als Erinnerung gegen den Kostenansatz gemäß § 5 GKG anzusehen, da ihm die Kostenrechnung bereits …
+- [BGH, Beschluss vom 08.10.2002 - VI ZB 27/02](vi-zb-27-02.md) — I. Die Klägerin begehrt vom Beklagten Zahlung von Schadensersatz. Sie hat für ihre Forderung beim Amtsgericht N. am 19. September 2001 den Erlaß eines Vollstreckungsbescheides …
+- [BGH, Beschluss vom 08.10.2002 - VI ZR 165/02](vi-zr-165-02.md) — Die Sache hat keine grundsätzliche Bedeutung, weil die Nichtzulassungsbeschwerde keine entscheidungserhebliche, klärungsbedürftige und klärungsfähige Rechtsfrage aufzeigt, die …
+- [BGH, Urteil vom 08.10.2002 - VI ZR 182/01](vi-zr-182-01.md) — 3-
+- [BGH, Beschluss vom 26.09.2002 - VI ZR 124/02](vi-zr-124-02.md) — Die Sache hat keine grundsätzliche Bedeutung, weil die Nichtzulassungsbeschwerde keine entscheidungserhebliche, klärungsbedürftige und klärungsfähige Rechtsfrage aufzeigt, die …
+- [BGH, Beschluss vom 24.09.2002 - VI ZB 26/02](vi-zb-26-02.md) — I. Die Klägerin hatte von der Beklagen aus Anlaß eines Verkehrsunfalls die Zahlung eines angemessenen Schmerzensgeldes von mindestens 2.500 DM begehrt. Das Amtsgericht hat die …
+- [BGH, Beschluss vom 24.09.2002 - VI ZR 430/01](vi-zr-430-01.md) — der von der Beklagten wiedergegeben Äußerung des Vorsitzenden in der Berufungsverhandlung anzunehmen. Ein Anspruch der Beklagten darauf, die
+- [BGH, Beschluss vom 24.09.2002 - VI ZR 80/02](vi-zr-80-02.md) — eines wesentlichen Verfahrensmangels kommt, nicht anders als bei materiellen Rechtsfehlern, nur unter den allgemeinen in § 543 Abs. 2 ZPO ge
 - [BGH, Beschluss vom 23.09.2002 - VI ZR 65/00](vi-zr-65-00.md) — I. Mit Beschluß vom 20. November 2001 hat der Senat die Revisionen der Beklagten zu 1 und 2 und der Klägerin gegen das Urteil des 9. Zivilsenats des Kammergerichts in Berlin vom …
 - [BGH, Beschluss vom 17.09.2002 - VI ZR 102/02](vi-zr-102-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil der Kläger eine durch die Beklagte im Inland begangene une
 - [BGH, Beschluss vom 17.09.2002 - VI ZR 104/02](vi-zr-104-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil der Kläger eine durch die Beklagte im Inland begangene une
+- [BGH, Beschluss vom 17.09.2002 - VI ZR 105/02](vi-zr-105-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil der Kläger eine durch die Beklagte im Inland begangene une
+- [BGH, Beschluss vom 17.09.2002 - VI ZR 106/02](vi-zr-106-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil die Kläger eine durch die Beklagte im Inland begangene une
+- [BGH, Beschluss vom 17.09.2002 - VI ZR 107/02](vi-zr-107-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil der Kläger eine durch die Beklagte im Inland begangene une
+- [BGH, Beschluss vom 17.09.2002 - VI ZR 108/02](vi-zr-108-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil der Kläger eine durch die Beklagte im Inland begangene une
+- [BGH, Beschluss vom 17.09.2002 - VI ZR 109/02](vi-zr-109-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil der Kläger eine durch die Beklagte im Inland begangene une
 - [BGH, Beschluss vom 17.09.2002 - VI ZR 110/02](vi-zr-110-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil die Klägerin eine durch die Beklagte im Inland begangene u
 - [BGH, Beschluss vom 17.09.2002 - VI ZR 111/02](vi-zr-111-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil die Kläger eine durch die Beklagte im Inland begangene une
+- [BGH, Beschluss vom 17.09.2002 - VI ZR 112/02](vi-zr-112-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil der Kläger eine durch die Beklagte im Inland begangene une
+- [BGH, Beschluss vom 17.09.2002 - VI ZR 113/02](vi-zr-113-02.md) — fehlender internationaler Zuständigkeit im Inland als unzulässig abgewiesen, weil der Kläger eine durch die Beklagte im Inland begangene une
 - [BGH, Urteil vom 17.09.2002 - VI ZR 147/01](vi-zr-147-01.md) — 3-
 - [BGH, Beschluss vom 17.09.2002 - VI ZR 297/01](vi-zr-297-01.md) — I. Die Kläger nehmen die Beklagte im Anschluß an eine von dieser ausgestrahlten Fernsehsendung auf Unterlassung einer Berichterstattung und auf Ersatz von immateriellem Schaden in …
 - [BGH, Beschluss vom 17.09.2002 - VI ZR 419/01](vi-zr-419-01.md) — fehlerhafter ärztlicher Behandlung seiner Ehefrau begehrt. Das Landgericht hat die Klage abgewiesen. Mit Urteil vom 24. Oktober 2001 hat das
 - [BGH, Beschluss vom 07.08.2002 - VI ZB 20/02](vi-zb-20-02.md) — BGH, Beschluss vom 07.08.2002 - VI ZB 20/02
+- [BGH, Beschluss vom 05.08.2002 - VI ZR 119/02](vi-zr-119-02.md) — Die beabsichtigte Rechtsverfolgung erscheint aussichtslos (vgl.
+- [BGH, Beschluss vom 26.07.2002 - VI ZB 39/02](vi-zb-39-02.md) — „greifbarer Gesetzwidrigkeit“) zulässig, weil im Hinblick auf die gesetzliche Neuregelung des Beschwerderechts durch das Zivilprozeßreformge
+- [BGH, Beschluss vom 23.07.2002 - VI ZB 10/02](vi-zb-10-02.md) — I. Der Kläger hat gegen den Beschluß des 8. Zivilsenats des Oberlandesgerichts München vom 14. Januar 2002 Beschwerde eingelegt, die der Senat mit Beschluß vom 13. März 2002 als …
+- [BGH, Beschluss vom 23.07.2002 - VI ZB 37/02](vi-zb-37-02.md) — Versäumung der Berufungsbegründungsfrist verworfen und die Wiedereinsetzung in den vorigen Stand abgelehnt wird, ist nur die Rechtsbeschwerd
+- [BGH, Beschluss vom 23.07.2002 - VI ZR 91/02](vi-zr-91-02.md) — , die in der Beschwerdebegründung schlüssig und substantiiert dargelegt sind.
+- [BGH, Beschluss vom 22.07.2002 - VI ZB 36/02](vi-zb-36-02.md) — Die Rechtsbeschwerde ist nicht statthaft, weil zum einen ein Zwischenurteil gemäß § 280 Abs.
+- [BGH, Beschluss vom 16.07.2002 - VI ZB 16/02](vi-zb-16-02.md) — . Der Kläger nimmt den Beklagten auf Unterlassung einer Veröffentlichung seines Bildes auf einer Internetseite in Anspruch. Mit Urteil vom 26. Oktober 2001 hat das Landgericht der …
+- [BGH, Urteil vom 02.07.2002 - VI ZR 401/01](vi-zr-401-01.md) — BGH, Urteil vom 02.07.2002 - VI ZR 401/01
+- [BGH, Beschluss vom 28.06.2002 - VI ZB 24/02](vi-zb-24-02.md) — Nichtzulassung der Rechtsbeschwerde ist nur in den in § 621e Abs. 2 Satz 1 Nr. 2 ZPO genannten Familiensachen, nicht jedoch im vorliegenden
+- [BGH, Urteil vom 25.06.2002 - VI ZR 279/01](vi-zr-279-01.md) — 3-
 - [BGH, Urteil vom 18.06.2002 - VI ZR 136/01](vi-zr-136-01.md) — BGH, Urteil vom 18.06.2002 - VI ZR 136/01
 - [BGH, Urteil vom 18.06.2002 - VI ZR 448/01](vi-zr-448-01.md) — BGH, Urteil vom 18.06.2002 - VI ZR 448/01
 - [BGH, Beschluss vom 04.06.2002 - VI ZR 371/01](vi-zr-371-01.md) — Zwar unterliegen auch Beschlüsse gem. § 554 a Abs. 2 ZPO a.F. als urteilsvertretende Beschlüsse der Wiederaufnahme, wobei im Beschlußverfahren mit freigestellter mündlicher …
 - [BGH, Urteil vom 28.05.2002 - VI ZR 42/01](vi-zr-42-01.md) — BGH, Urteil vom 28.05.2002 - VI ZR 42/01
+- [BGH, Urteil vom 14.05.2002 - VI ZR 220/01](vi-zr-220-01.md) — Tatbestand: Die Klägerin ist die einzige Tochter und Alleinerbin der am 6. Mai 1992 verstorbenen Schauspielerin Marlene Dietrich. Die Beklag
+- [BGH, Urteil vom 23.04.2002 - VI ZR 180/01](vi-zr-180-01.md) — Tatbestand: Der Kläger nimmt die Beklagten auf Zahlung von materiellem und immateriellem Schadensersatz sowie auf Feststellung ihrer Ersatzp
+- [BGH, Beschluss vom 16.04.2002 - VI ZB 23/00](vi-zb-23-00.md) — Versäumung der Berufungsbegründungsfrist als unzulässig verworfen worden ist, ist die Frage der Wiedereinsetzung in den vorigen Stand im Sin
+- [BGH, Urteil vom 16.04.2002 - VI ZR 227/01](vi-zr-227-01.md) — 3-
+- [BGH, Beschluss vom 20.03.2002 - VI ZB 9/02](vi-zb-9-02.md) — Das als Beschwerde bezeichnete Rechtsmittel ist als Rechtsbeschwerde anzusehen (§§ 522 Abs.
+- [BGH, Urteil vom 19.03.2002 - VI ZR 333/00](vi-zr-333-00.md) — Tatbestand: Die Klägerin macht Schadensersatzansprüche aus einem Verkehrsunfall vom 13. Juni 1998 geltend. Sie fuhr auf einer Straße im auße
 - [BGH, Beschluss vom 12.03.2002 - VI ZA 1/02](vi-za-1-02.md) — eines wesentlichen Verfahrensmangels gemäß § 539 ZPO a.F. ist revisionsrechtlich nicht zu beanstanden. Im weiteren Verfahren ist das Landger
 - [BGH, Beschluss vom 12.03.2002 - VI ZR 143/01](vi-zr-143-01.md) — BGH, Beschluss vom 12.03.2002 - VI ZR 143/01
 - [BGH, Urteil vom 12.03.2002 - VI ZR 379/01](vi-zr-379-01.md) — Tatbestand: Die Kläger begehren von dem Beklagten Schadensersatz mit der Begründung, er habe sie als Geschäftsführer der D.-D. GmbH in betrü
+- [BGH, Beschluss vom 05.03.2002 - VI ZR 286/01](vi-zr-286-01.md) — I. Die verstorbene Klägerin hatte Schadensersatz aus der Anwendung von Medikamenten begehrt, welche die Beklagte hergestellt hatte. Das Landgericht hat die Klage abgewiesen. Mit …
+- [BGH, Urteil vom 05.03.2002 - VI ZR 398/00](vi-zr-398-00.md) — BGH, Urteil vom 05.03.2002 - VI ZR 398/00
+- [BGH, Urteil vom 05.03.2002 - VI ZR 442/00](vi-zr-442-00.md) — Tatbestand: Der Kläger, ein überörtlicher Sozialhilfeträger, nimmt die Beklagte aus übergegangenem Recht auf Erstattung von Aufwendungen und
+- [BGH, Urteil vom 26.02.2002 - VI ZR 288/00](vi-zr-288-00.md) — des Verdienstausfallschadens für das Jahr 1993 abgewiesen worden ist. Die Sache wird insoweit zur anderweiten Verhandlung und Entscheidung,
+- [BGH, Urteil vom 19.02.2002 - VI ZR 190/01](vi-zr-190-01.md) — Tatbestand: Der am 23. August 1983 geborene Kläger begehrt von der Beklagten, einer niedergelassenen Gynäkologin, die Freistellung von Unter
+- [BGH, Beschluss vom 05.02.2002 - VI ZR 340/01](vi-zr-340-01.md) — BGH, Beschluss vom 05.02.2002 - VI ZR 340/01
 - [BGH, Beschluss vom 29.01.2002 - VI ZB 28/01](vi-zb-28-01.md) — Versäumung der Berufungsbegründungsfrist gewährt. Beschwerdewert: 119.131,01 €
 - [BGH, Urteil vom 29.01.2002 - VI ZR 20/01](vi-zr-20-01.md) — Tatbestand: Die Klägerin nimmt die Beklagten auf Unterlassung und Schadensersatz wegen herabsetzender Äußerungen in Anspruch, durch die sie
 - [BGH, Urteil vom 29.01.2002 - VI ZR 230/01](vi-zr-230-01.md) — Tatbestand: Am 17. März 1987 verursachte der Versicherungsnehmer der Beklagten einen Verkehrsunfall. Dabei wurde der Kläger als Beifahrer ve

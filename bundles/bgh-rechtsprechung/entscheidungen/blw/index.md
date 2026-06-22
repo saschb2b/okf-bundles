@@ -1,6 +1,6 @@
 # BLW
 
-Verfahrens- oder Hilfsregister des Bundesgerichtshofs. 152 Entscheidung(en).
+Verfahrens- oder Hilfsregister des Bundesgerichtshofs. 270 Entscheidung(en).
 
 ## Nach Jahr
 
@@ -19,13 +19,13 @@ Verfahrens- oder Hilfsregister des Bundesgerichtshofs. 152 Entscheidung(en).
 - [2012](2012/index.md) (4)
 - [2011](2011/index.md) (7)
 - [2010](2010/index.md) (3)
-- [2009](2009/index.md) (5)
-- [2008](2008/index.md) (10)
-- [2007](2007/index.md) (4)
-- [2006](2006/index.md) (2)
-- [2005](2005/index.md) (11)
-- [2004](2004/index.md) (20)
-- [2003](2003/index.md) (5)
-- [2002](2002/index.md) (13)
-- [2001](2001/index.md) (21)
-- [2000](2000/index.md) (17)
+- [2009](2009/index.md) (15)
+- [2008](2008/index.md) (16)
+- [2007](2007/index.md) (20)
+- [2006](2006/index.md) (13)
+- [2005](2005/index.md) (25)
+- [2004](2004/index.md) (36)
+- [2003](2003/index.md) (19)
+- [2002](2002/index.md) (30)
+- [2001](2001/index.md) (28)
+- [2000](2000/index.md) (24)

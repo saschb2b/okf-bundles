@@ -1,16 +1,32 @@
 # I. Zivilsenat – 2008
 
-69 Entscheidung(en).
+172 Entscheidung(en).
 
+- [BGH, Beschluss vom 18.12.2008 - I ZB 118/07](i-zb-118-07.md) — unzulässiger Verschaffung und Verwertung von Betriebsge-
 - [BGH, Beschluss vom 18.12.2008 - I ZB 32/06](i-zb-32-06.md) — BGH, Beschluss vom 18.12.2008 - I ZB 32/06
 - [BGH, Beschluss vom 18.12.2008 - I ZB 62/08](i-zb-62-08.md) — I. Die Widersprechende hat gegen die am 3. Januar 2003 veröffentlichte Eintragung der für Waren und Dienstleistungen der Klassen 09, 38 und 42 einge- tragenen Wortmarke DE 300 60 …
+- [BGH, Urteil vom 18.12.2008 - I ZR 128/06](i-zr-128-06.md) — Tatbestand:
+- [BGH, Urteil vom 18.12.2008 - I ZR 200/06](i-zr-200-06.md) — 3-
 - [BGH, Urteil vom 18.12.2008 - I ZR 23/06](i-zr-23-06.md) — BGH, Urteil vom 18.12.2008 - I ZR 23/06
+- [BGH, Urteil vom 18.12.2008 - I ZR 63/06](i-zr-63-06.md) — Markenverletzung unter dem Gesichtspunkt ungerechtfertigter Bereicherung auf Herausgabe in Anspruch genommen, muss der Kläger im Prozess dar
+- [BGH, Beschluss vom 04.12.2008 - I ZB 120/05](i-zb-120-05.md) — I. Die Gläubigerin betreibt die Zwangsvollstreckung aus einem rechtskräfti- gen Urteil des Landwirtschaftsgerichts Mühlhausen vom 9. Februar 2005 gegen den Schuldner. Der Tenor …
+- [BGH, Beschluss vom 04.12.2008 - I ZB 31/08](i-zb-31-08.md) — Verstoßes gegen § 31
 - [BGH, Beschluss vom 04.12.2008 - I ZB 48/08](i-zb-48-08.md) — fehlender
 - [BGH, Urteil vom 04.12.2008 - I ZR 100/06](i-zr-100-06.md) — Tatbestand:
+- [BGH, Urteil vom 04.12.2008 - I ZR 3/06](i-zr-3-06.md) — Tatbestand:
 - [BGH, Urteil vom 04.12.2008 - I ZR 49/06](i-zr-49-06.md) — Tatbestand:
+- [BGH, Urteil vom 04.12.2008 - I ZR 94/06](i-zr-94-06.md) — Tatbestand:
+- [BGH, Beschluss vom 27.11.2008 - I ZB 46/08](i-zb-46-08.md) — I. Die Parteien gehören der Wohnungseigentümergemeinschaft K. 8 in H. an. Die Gläubiger sind Eigentümer von sechs Wohnungen im Erdgeschoss der Wohnanlage, der Schuldner ist …
+- [BGH, Beschluss vom 27.11.2008 - I ZR 192/07](i-zr-192-07.md) — eines Verstoßes gegen Art. 12 Abs. 1 GG nicht vor. Das Berufungsgericht hat das Rundschreiben der Beklagten vom 26. Oktober 2005 unter Berüc
+- [BGH, Beschluss vom 20.11.2008 - I ZB 20/06](i-zb-20-06.md) — I. Die Gläubigerin betreibt aus einem Vollstreckungsbescheid die Zwangs- vollstreckung gegen die Schuldnerin, die am 27. Januar 2005 die eidesstattliche Versicherung abgegeben …
+- [BGH, Urteil vom 20.11.2008 - I ZR 112/06](i-zr-112-06.md) — 3-
 - [BGH, Urteil vom 20.11.2008 - I ZR 122/06](i-zr-122-06.md) — BGH, Urteil vom 20.11.2008 - I ZR 122/06
+- [BGH, Urteil vom 20.11.2008 - I ZR 62/06](i-zr-62-06.md) — 3-
 - [BGH, Urteil vom 20.11.2008 - I ZR 70/06](i-zr-70-06.md) — Tatbestand:
+- [BGH, Beschluss vom 05.11.2008 - I ZB 16/08](i-zb-16-08.md) — I. Die Parteien streiten darüber, ob für die gegen einen erwarteten Antrag auf Erlass einer einstweiligen Verfügung bei Gericht eingereichte Schutzschrift die 1,3-fache Gebühr …
+- [BGH, Urteil vom 05.11.2008 - I ZR 39/06](i-zr-39-06.md) — Tatbestand:
 - [BGH, Urteil vom 05.11.2008 - I ZR 55/06](i-zr-55-06.md) — Tatbestand:
+- [BGH, Urteil vom 30.10.2008 - I ZR 12/06](i-zr-12-06.md) — Tatbestand:
 - [BGH, Beschluss vom 30.10.2008 - I ZR 24/07](i-zr-24-07.md) — BGH, Beschluss vom 30.10.2008 - I ZR 24/07
 - [BGH, Beschluss vom 23.10.2008 - I ZB 37/07](i-zb-37-07.md) — I. Für die Markeninhaberin ist seit dem 3. November 2003 unter der Nr. 300 12 966 die Wortmarke POST für die Dienstleistungen Briefdienst-, Frachtdienst-, Expressdienst- …
 - [BGH, Beschluss vom 23.10.2008 - I ZB 38/07](i-zb-38-07.md) — I. Für die Markeninhaberin ist seit dem 3. November 2003 unter der Nr. 300 12 966 die Wortmarke POST für die Dienstleistungen Briefdienst-, Frachtdienst-, Expressdienst- …
@@ -18,48 +34,128 @@
 - [BGH, Beschluss vom 23.10.2008 - I ZB 48/07](i-zb-48-07.md) — I. Für die Markeninhaberin ist seit dem 3. November 2003 unter der Nr. 300 12 966 die Wortmarke POST für die Dienstleistungen Briefdienst-, Frachtdienst-, Expressdienst- …
 - [BGH, Beschluss vom 23.10.2008 - I ZB 49/07](i-zb-49-07.md) — I. Für die Markeninhaberin ist seit dem 3. November 2003 unter der Nr. 300 12 966 die Wortmarke POST für die Dienstleistungen Briefdienst-, Frachtdienst-, Expressdienst- …
 - [BGH, Urteil vom 23.10.2008 - I ZR 11/06](i-zr-11-06.md) — Tatbestand:
+- [BGH, Beschluss vom 23.10.2008 - I ZR 121/07](i-zr-121-07.md) — I. Die Nichtzulassungsbeschwerde hält es für eine klärungsbedürftige Rechtsfrage, ob eine irreführende Werbung mit Selbstverständlichkeiten vor- aussetzt, dass gesetzlich …
 - [BGH, Beschluss vom 23.10.2008 - I ZR 158/07](i-zr-158-07.md) — I. Das Berufungsgericht hat den Beklagten zu 1 als Insolvenzverwalter über das Vermögen der p. GmbH & Co. KG unter Androhung von Ordnungsmitteln verurteilt, es zu unterlassen, in …
+- [BGH, Urteil vom 23.10.2008 - I ZR 197/06](i-zr-197-06.md) — Tatbestand:
 - [BGH, Beschluss vom 23.10.2008 - I ZR 206/05](i-zr-206-05.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Anhö- rungsrüge ist nicht begründet.
+- [BGH, Urteil vom 09.10.2008 - I ZR 100/04](i-zr-100-04.md) — Tatbestand:
+- [BGH, Urteil vom 09.10.2008 - I ZR 126/06](i-zr-126-06.md) — 3-
 - [BGH, Beschluss vom 09.10.2008 - I ZR 181/05](i-zr-181-05.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Anhö- rungsrüge ist nicht begründet.
+- [BGH, Beschluss vom 02.10.2008 - I ZA 6/08](i-za-6-08.md) — BGH, Beschluss vom 02.10.2008 - I ZA 6/08
 - [BGH, Beschluss vom 02.10.2008 - I ZB 111/07](i-zb-111-07.md) — I. Das Landgericht hat dem Antrag des Verfügungsklägers auf Erlass ei- ner einstweiligen Verfügung gegen die Verfügungsbeklagte durch Endurteil stattgegeben. Gegen diese …
-- [BGH, Urteil vom 02.10.2008 - I ZR 18/06](i-zr-18-06.md) — Tatbestand:
+- [BGH, Beschluss vom 02.10.2008 - I ZB 30/08](i-zb-30-08.md) — eines vermeintlichen
+- [BGH, Beschluss vom 02.10.2008 - I ZB 96/07](i-zb-96-07.md) — I. Der Kläger ist ein in die Liste qualifizierter Einrichtungen nach § 4 UKlaG eingetragener Verein, zu dessen satzungsmäßigen Aufgaben es gehört, die Interessen der Verbraucher …
+- [BGH, Urteil vom 02.10.2008 - I ZR 220/05](i-zr-220-05.md) — Tatbestand:
+- [BGH, Urteil vom 02.10.2008 - I ZR 48/06](i-zr-48-06.md) — gezielter Mitbewerberbehinderung befugt, als neben den Interessen der Mitbewerber auch die Interessen anderer Personen wie insbesondere der
+- [BGH, Urteil vom 02.10.2008 - I ZR 51/06](i-zr-51-06.md) — Tatbestand:
+- [BGH, Urteil vom 02.10.2008 - I ZR 6/06](i-zr-6-06.md) — der seit dem 1. Januar 1994 im Fernsehen erfolgten Schaltungen des Werbespots "ESSO TV C-Store 3/93" verneint hat.
 - [BGH, Beschluss vom 29.09.2008 - I ZR 131/05](i-zr-131-05.md) — offenbarer Unrichtigkeit gemäß § 319 Abs. 1 ZPO dahin berichtigt, dass es in Tz. 5 des Urteils im Feststellungsantrag nach dem Wort "sowie"
+- [BGH, Beschluss vom 11.09.2008 - I ZB 22/07](i-zb-22-07.md) — un-
+- [BGH, Beschluss vom 11.09.2008 - I ZB 36/07](i-zb-36-07.md) — I. Der Schuldner hatte in der Nähe des „Checkpoint Charlie“ in Berlin Grundstücke gepachtet und dort 108 Originalteile der Berliner Mauer sowie 1.065 Holzkreuze als Mauer-Mahnmal …
+- [BGH, Urteil vom 11.09.2008 - I ZR 118/06](i-zr-118-06.md) — 3Tatbestand:
+- [BGH, Urteil vom 11.09.2008 - I ZR 120/06](i-zr-120-06.md) — 3Tatbestand:
+- [BGH, Urteil vom 11.09.2008 - I ZR 58/06](i-zr-58-06.md) — Tatbestand:
 - [BGH, Urteil vom 11.09.2008 - I ZR 74/06](i-zr-74-06.md) — 3-
+- [BGH, Beschluss vom 14.08.2008 - I ZA 2/08](i-za-2-08.md) — I. Für den Markeninhaber ist die am 3. August 1998 angemeldete Wort- marke Nr. 398 45 189 ATOZ am 17. Juni 1999 in das Markenregister unter anderem für die Dienstleistungen …
 - [BGH, Beschluss vom 14.08.2008 - I ZB 10/07](i-zb-10-07.md) — Nachschlagewerk: ja
+- [BGH, Beschluss vom 14.08.2008 - I ZB 103/07](i-zb-103-07.md) — eines vermeint-
+- [BGH, Beschluss vom 14.08.2008 - I ZB 108/07](i-zb-108-07.md) — I. Für die Markeninhaberin ist am 8. Juni 2000 die Wortmarke "Karl May" für zahlreiche Waren und Dienstleistungen der Klassen 3, 9, 14, 16, 18, 21, 24, 25, 28, 29, 30, 39, 41, 42 …
 - [BGH, Beschluss vom 14.08.2008 - I ZB 20/08](i-zb-20-08.md) — einer titulierten Forde-
+- [BGH, Beschluss vom 14.08.2008 - I ZB 39/08](i-zb-39-08.md) — I. Der Gläubiger betreibt gegen die Schuldner zu 1 bis 3 die Zwangsvoll- streckung aus einem Urteil, durch das diese zur Räumung von Gewerberäumen im Erdgeschoss eines Hotels …
+- [BGH, Beschluss vom 14.08.2008 - I ZB 87/07](i-zb-87-07.md) — I. Die Antragstellerin hat am 8. September 2006 einen Antrag auf Erlass einer einstweiligen Verfügung eingereicht, den sie am 11. Oktober 2006 zu- rückgenommen hat. Das …
 - [BGH, Beschluss vom 14.08.2008 - I ZR 17/07](i-zr-17-07.md) — BGH, Beschluss vom 14.08.2008 - I ZR 17/07
 - [BGH, Beschluss vom 14.08.2008 - I ZR 208/07](i-zr-208-07.md) — BGH, Beschluss vom 14.08.2008 - I ZR 208/07
+- [BGH, Beschluss vom 14.08.2008 - I ZR 58/07](i-zr-58-07.md) — mangelnder Bestimmtheit unzulässig ist. Die im Hauptantrag verwandte Formulierung "über die sachliche Information … hinaus" ist unbestimmt.
+- [BGH, Urteil vom 31.07.2008 - I ZR 158/05](i-zr-158-05.md) — Tatbestand:
+- [BGH, Urteil vom 31.07.2008 - I ZR 171/05](i-zr-171-05.md) — Tatbestand:
+- [BGH, Urteil vom 31.07.2008 - I ZR 21/06](i-zr-21-06.md) — Tatbestand:
+- [BGH, Urteil vom 31.07.2008 - I ZR 22/06](i-zr-22-06.md) — Tatbestand:
+- [BGH, Beschluss vom 17.07.2008 - I ZB 80/07](i-zb-80-07.md) — eines Teilbetrags von 50.000 € aus dem
 - [BGH, Urteil vom 17.07.2008 - I ZR 109/05](i-zr-109-05.md) — BGH, Urteil vom 17.07.2008 - I ZR 109/05
+- [BGH, Beschluss vom 17.07.2008 - I ZR 133/07](i-zr-133-07.md) — Die Rechtssache hat weder grundsätzliche Bedeutung (§ 543 Abs.
 - [BGH, Urteil vom 17.07.2008 - I ZR 139/05](i-zr-139-05.md) — Tatbestand:
 - [BGH, Urteil vom 17.07.2008 - I ZR 160/05](i-zr-160-05.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2008 - I ZR 168/05](i-zr-168-05.md) — unverhältnismäßiger Höhe nach § 343 BGB gemäß § 348 HGB ausgeschlossen ist. In diesem Fall ist die Vertragsstrafe nicht auf die nach § 343 B
+- [BGH, Urteil vom 17.07.2008 - I ZR 197/05](i-zr-197-05.md) — BGH, Urteil vom 17.07.2008 - I ZR 197/05
+- [BGH, Urteil vom 17.07.2008 - I ZR 219/05](i-zr-219-05.md) — 3-
+- [BGH, Urteil vom 17.07.2008 - I ZR 75/06](i-zr-75-06.md) — Tatbestand:
+- [BGH, Beschluss vom 03.07.2008 - I ZB 87/06](i-zb-87-06.md) — I. Der Gläubiger erbrachte, nachdem er seine Vaterschaft mit Zustim- mung der Schuldnerin urkundlich anerkannt hatte, als sogenannter Scheinvater für den am 10. Oktober 1989 …
+- [BGH, Urteil vom 03.07.2008 - I ZR 132/05](i-zr-132-05.md) — Tatbestand:
+- [BGH, Urteil vom 03.07.2008 - I ZR 145/05](i-zr-145-05.md) — Tatbestand:
 - [BGH, Urteil vom 03.07.2008 - I ZR 183/06](i-zr-183-06.md) — Tatbestand:
+- [BGH, Urteil vom 03.07.2008 - I ZR 204/05](i-zr-204-05.md) — Tatbestand:
 - [BGH, Urteil vom 03.07.2008 - I ZR 204/06](i-zr-204-06.md) — Tatbestand:
+- [BGH, Urteil vom 03.07.2008 - I ZR 205/06](i-zr-205-06.md) — 3Tatbestand:
 - [BGH, Urteil vom 03.07.2008 - I ZR 210/05](i-zr-210-05.md) — Tatbestand:
+- [BGH, Urteil vom 03.07.2008 - I ZR 218/05](i-zr-218-05.md) — des Verlusts von vertretbaren Sachen als Transportgut unter Anwendung deutschen Rechts zum Schadensersatz verpflichtet, bemisst sich die Höh
+- [BGH, Beschluss vom 26.06.2008 - I ZA 5/08](i-za-5-08.md) — Die Nichtzulassungsbeschwerde des Beklagten bietet keine Aussicht auf Erfolg (§ 114 ZPO), weil sie nicht mehr fristgerecht eingelegt werden kann.
 - [BGH, Urteil vom 26.06.2008 - I ZR 112/05](i-zr-112-05.md) — Tatbestand:
+- [BGH, Beschluss vom 26.06.2008 - I ZR 113/07](i-zr-113-07.md) — I. Die Nichtzulassungsbeschwerde hält es für eine grundsätzliche Rechtsfrage, ob die Notfrist des § 586 Abs. 1 ZPO für die Erhebung einer Resti- tutionsklage nach § 580 Nr. 3 …
 - [BGH, Urteil vom 26.06.2008 - I ZR 170/05](i-zr-170-05.md) — BGH, Urteil vom 26.06.2008 - I ZR 170/05
+- [BGH, Urteil vom 26.06.2008 - I ZR 176/05](i-zr-176-05.md) — 3-
 - [BGH, Urteil vom 26.06.2008 - I ZR 184/06](i-zr-184-06.md) — 3-
+- [BGH, Urteil vom 26.06.2008 - I ZR 190/05](i-zr-190-05.md) — 3-
+- [BGH, Urteil vom 26.06.2008 - I ZR 221/05](i-zr-221-05.md) — 3-
+- [BGH, Urteil vom 26.06.2008 - I ZR 54/06](i-zr-54-06.md) — 3Tatbestand:
 - [BGH, Urteil vom 26.06.2008 - I ZR 61/05](i-zr-61-05.md) — Tatbestand:
+- [BGH, Urteil vom 26.06.2008 - I ZR 7/06](i-zr-7-06.md) — 3Tatbestand:
 - [BGH, Urteil vom 05.06.2008 - I ZR 108/05](i-zr-108-05.md) — Tatbestand:
 - [BGH, Urteil vom 05.06.2008 - I ZR 169/05](i-zr-169-05.md) — Vorliegens eines absoluten Schutzhindernisses nach §§ 50, 54 MarkenG ergangene Löschungsanordnung noch nicht rechtskräftig, ist im Verletzun
 - [BGH, Urteil vom 05.06.2008 - I ZR 208/05](i-zr-208-05.md) — BGH, Urteil vom 05.06.2008 - I ZR 208/05
 - [BGH, Urteil vom 05.06.2008 - I ZR 223/05](i-zr-223-05.md) — BGH, Urteil vom 05.06.2008 - I ZR 223/05
+- [BGH, Beschluss vom 05.06.2008 - I ZR 4/06](i-zr-4-06.md) — wettbewerbswidriger
 - [BGH, Urteil vom 05.06.2008 - I ZR 96/07](i-zr-96-07.md) — BGH, Urteil vom 05.06.2008 - I ZR 96/07
+- [BGH, Beschluss vom 29.05.2008 - I ZB 54/05](i-zb-54-05.md) — fehlender Ver-
+- [BGH, Beschluss vom 29.05.2008 - I ZB 55/05](i-zb-55-05.md) — fehlender Ver-
+- [BGH, Urteil vom 29.05.2008 - I ZR 189/05](i-zr-189-05.md) — Tatbestand:
+- [BGH, Urteil vom 29.05.2008 - I ZR 75/05](i-zr-75-05.md) — Tatbestand:
 - [BGH, Urteil vom 08.05.2008 - I ZR 83/06](i-zr-83-06.md) — einen Rechtsanwalt mit der Abmahnung, kann es grundsätzlich die dadurch entstehenden Kosten auch dann vom Verletzer ersetzt verlangen, wenn
 - [BGH, Urteil vom 08.05.2008 - I ZR 88/06](i-zr-88-06.md) — Tatbestand:
 - [BGH, Beschluss vom 30.04.2008 - I ZB 25/08](i-zb-25-08.md) — BGH, Beschluss vom 30.04.2008 - I ZB 25/08
+- [BGH, Beschluss vom 30.04.2008 - I ZB 4/07](i-zb-4-07.md) — I. Die Widersprechende ist Inhaberin der unter anderem für "elektrotech- nische und elektronische Apparate und Geräte" eingetragenen Marke Nr. 395 18 291 "AlphaCom". -3- 2 Aus …
+- [BGH, Urteil vom 30.04.2008 - I ZR 123/05](i-zr-123-05.md) — Tatbestand:
+- [BGH, Urteil vom 30.04.2008 - I ZR 73/05](i-zr-73-05.md) — liegende Sachverhalt vom Tatrichter gewürdigt ist.
+- [BGH, Beschluss vom 24.04.2008 - I ZB 123/05](i-zb-123-05.md) — deren
+- [BGH, Beschluss vom 24.04.2008 - I ZB 21/06](i-zb-21-06.md) — fehlender Unterscheidungskraft teilweise zurückge-
+- [BGH, Beschluss vom 24.04.2008 - I ZB 57/07](i-zb-57-07.md) — I. Die Widersprechende hat mit Schriftsatz vom 21. August 2002 die Lö- schung der am 6. Juni 2002 zugunsten der Markeninhaberin für die Waren der Klasse 33 „aromatisierte …
 - [BGH, Beschluss vom 24.04.2008 - I ZB 72/07](i-zb-72-07.md) — BGH, Beschluss vom 24.04.2008 - I ZB 72/07
+- [BGH, Urteil vom 24.04.2008 - I ZR 159/05](i-zr-159-05.md) — Tatbestand:
 - [BGH, Urteil vom 24.04.2008 - I ZR 30/05](i-zr-30-05.md) — Tatbestand:
+- [BGH, Beschluss vom 24.04.2008 - I ZR 36/07](i-zr-36-07.md) — Die Beschwerde ist, soweit sie sich gegen die Verurteilung der Beklagten nach dem Klageantrag 2 richtet, begründet und führt in diesem Umfang gemäß § 544 Abs.
+- [BGH, Beschluss vom 10.04.2008 - I ZB 14/07](i-zb-14-07.md) — der Verstöße vom
+- [BGH, Beschluss vom 10.04.2008 - I ZB 98/07](i-zb-98-07.md) — I. Für die Markeninhaberin ist seit dem 18. Februar 1997 die dreidimensi- onale Marke Nr. 396 55 722.8 für die Waren "Tabak, Tabakerzeugnisse, insbesondere Cigaretten …
+- [BGH, Urteil vom 10.04.2008 - I ZR 164/05](i-zr-164-05.md) — Tatbestand:
+- [BGH, Urteil vom 10.04.2008 - I ZR 167/05](i-zr-167-05.md) — Verfalls eine rechtserhaltende Benutzung i.S. von § 26 MarkenG nicht mit der Begründung verneint werden, die Verwendung des Zeichens sei für
+- [BGH, Urteil vom 10.04.2008 - I ZR 227/05](i-zr-227-05.md) — Verletzung eines Kennzeichen- oder Namensrecht nach den Grundsätzen der Entscheidung "Internet-Versteigerung I" (BGHZ 158, 236) als Störer i
 - [BGH, Beschluss vom 09.04.2008 - I ZB 101/06](i-zb-101-06.md) — I. Das Landgericht hat die auf Unterlassung, Auskunftserteilung und Fest- stellung der Schadensersatzpflicht gerichtete Klage mit dem am 23. Mai 2006 verkündeten Urteil …
+- [BGH, Beschluss vom 03.04.2008 - I ZB 2/06](i-zb-2-06.md) — I. Mit der am 9. Juli 1997 eingereichten Anmeldung hat die Anmelderin die Eintragung einer dreidimensionalen Marke entsprechend den nachfolgen- den Abbildungen -3-
+- [BGH, Beschluss vom 03.04.2008 - I ZB 3/06](i-zb-3-06.md) — I. Mit der am 9. Juli 1997 eingereichten Anmeldung hat die Anmelderin die Eintragung einer dreidimensionalen Marke entsprechend den nachfolgen- den Abbildungen -3- ursprünglich …
 - [BGH, Beschluss vom 03.04.2008 - I ZB 4/06](i-zb-4-06.md) — BGH, Beschluss vom 03.04.2008 - I ZB 4/06
+- [BGH, Beschluss vom 03.04.2008 - I ZB 46/05](i-zb-46-05.md) — Fehlens jeglicher Unter-
+- [BGH, Beschluss vom 03.04.2008 - I ZB 61/07](i-zb-61-07.md) — I. Gegen die am 28. März 1996 angemeldete und am 25. November 1996 für "Alkoholische Getränke (ausgenommen Biere)" eingetragene Wortmarke Nr. 396 15 451.4 1800 ANTIGUO hat die …
 - [BGH, Beschluss vom 03.04.2008 - I ZB 73/07](i-zb-73-07.md) — I. Der Antragstellerin zu 1 (nachfolgend: Antragstellerin) wurde am 25. November 2005 ein Beschluss des Deutschen Patent- und Markenamts vom 18. November 2005 zugestellt. Gegen …
 - [BGH, Urteil vom 03.04.2008 - I ZR 49/05](i-zr-49-05.md) — BGH, Urteil vom 03.04.2008 - I ZR 49/05
+- [BGH, Beschluss vom 03.04.2008 - I ZR 94/05](i-zr-94-05.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Anhö- rungsrüge ist nicht begründet.
+- [BGH, Beschluss vom 19.03.2008 - I ZB 56/07](i-zb-56-07.md) — I. Die Schuldnerin ist vom Amtsgericht Tübingen zur Räumung und Her- ausgabe ihrer Wohnung K. straße in T. verurteilt worden. 2 Die Gerichtsvollzieherin lehnte die Vollstreckung …
 - [BGH, Urteil vom 19.03.2008 - I ZR 166/05](i-zr-166-05.md) — Tatbestand:
+- [BGH, Beschluss vom 19.03.2008 - I ZR 225/06](i-zr-225-06.md) — I. Die Parteien sind Wettbewerber auf dem Gebiet der Kunststoff- Spritzgießtechnik. Der Beklagte zu 2 war bei der Klägerin zu 2 für die Konstruk- tion und Produktion von …
 - [BGH, Beschluss vom 13.03.2008 - I ZB 20/07](i-zb-20-07.md) — eines vermeintlichen Wettbewerbs-
+- [BGH, Beschluss vom 13.03.2008 - I ZB 53/05](i-zb-53-05.md) — I. Für die Markeninhaberin ist seit dem 8. August 2000 unter der Nr. 2 106 346 die Wortmarke SPA für die Waren und Dienstleistungen "Parfümerien, Mittel zur Körper- und …
 - [BGH, Beschluss vom 13.03.2008 - I ZB 59/07](i-zb-59-07.md) — BGH, Beschluss vom 13.03.2008 - I ZB 59/07
+- [BGH, Urteil vom 13.03.2008 - I ZR 116/06](i-zr-116-06.md) — Tatbestand:
+- [BGH, Urteil vom 13.03.2008 - I ZR 151/05](i-zr-151-05.md) — Tatbestand:
+- [BGH, Beschluss vom 13.03.2008 - I ZR 156/07](i-zr-156-07.md) — I. Den Beklagten ist durch Urteil des Landgerichts vom 2. Februar 2006 unter Androhung von Ordnungsmitteln untersagt worden, in Deutschland im geschäftlichen Verkehr zu Zwecken …
+- [BGH, Urteil vom 13.03.2008 - I ZR 95/05](i-zr-95-05.md) — Tatbestand:
+- [BGH, Beschluss vom 21.02.2008 - I ZB 24/05](i-zb-24-05.md) — Fehlens der Unter-
 - [BGH, Beschluss vom 21.02.2008 - I ZB 53/06](i-zb-53-06.md) — BGH, Beschluss vom 21.02.2008 - I ZB 53/06
+- [BGH, Beschluss vom 21.02.2008 - I ZB 66/07](i-zb-66-07.md) — Mietrückständen verrechnet bzw. einbehalten
 - [BGH, Beschluss vom 21.02.2008 - I ZB 70/07](i-zb-70-07.md) — I. Für die Markeninhaberin ist am 24. August 2001 die Wortmarke "Melissengeist" für "Arzneimittel, nämlich Destillat aus Melisse und mindestens Angelikawurzel, Zimtrinde sowie …
 - [BGH, Urteil vom 21.02.2008 - I ZR 128/05](i-zr-128-05.md) — 3Tatbestand:
 - [BGH, Urteil vom 21.02.2008 - I ZR 142/05](i-zr-142-05.md) — BGH, Urteil vom 21.02.2008 - I ZR 142/05
+- [BGH, Beschluss vom 21.02.2008 - I ZR 142/06](i-zr-142-06.md) — einer Vorschusszahlung hat er sich an die Staatskasse zu wenden (§ 47 Satz 1
+- [BGH, Beschluss vom 14.02.2008 - I ZB 105/07](i-zb-105-07.md) — Gegen den Beschluss des Bundespatentgerichts vom 11.
+- [BGH, Beschluss vom 14.02.2008 - I ZB 106/07](i-zb-106-07.md) — Gegen den Beschluss des Bundespatentgerichts vom 11.
+- [BGH, Beschluss vom 14.02.2008 - I ZB 107/07](i-zb-107-07.md) — 1. Die Rechtsbeschwerde ist nach § 86 Satz 2 MarkenG ohne weitere Sachprüfung als unzulässig zu verwerfen. Sie ist bereits nicht statthaft im Sinne des § 83 Abs. 1 Satz 1, Abs. 3 …
 - [BGH, Beschluss vom 14.02.2008 - I ZB 39/07](i-zb-39-07.md) — BGH, Beschluss vom 14.02.2008 - I ZB 39/07
 - [BGH, Urteil vom 14.02.2008 - I ZR 13/06](i-zr-13-06.md) — 3Tatbestand:
 - [BGH, Urteil vom 14.02.2008 - I ZR 135/05](i-zr-135-05.md) — Tatbestand:
@@ -69,5 +165,12 @@
 - [BGH, Urteil vom 14.02.2008 - I ZR 187/04](i-zr-187-04.md) — 3Tatbestand:
 - [BGH, Urteil vom 14.02.2008 - I ZR 207/05](i-zr-207-05.md) — eines unverhältnismäßigen Eingriffs in die durch Art. 12 Abs. 1 GG geschützte Berufsfreiheit) verfassungswidrige und gegen Gemeinschaftsrech
 - [BGH, Urteil vom 14.02.2008 - I ZR 55/05](i-zr-55-05.md) — Tatbestand:
-- [BGH, Urteil vom 10.01.2008 - I ZR 196/05](i-zr-196-05.md) — Tatbestand:
+- [BGH, Beschluss vom 14.02.2008 - I ZR 69/04](i-zr-69-04.md) — I. Der Kläger, der Bayerische Brauerbund e.V., ist der Dachverband der bayerischen Brauwirtschaft. Nach § 2 seiner Satzung gehört es zu seinen Auf- gaben, gegen die unlautere …
+- [BGH, Beschluss vom 30.01.2008 - I ZB 35/07](i-zb-35-07.md) — I. Die Widersprechende hat gegen die Eintragung der am 3. Novem- ber 2003 in das Markenregister eingetragenen Wortmarke Nr. 303 22 436 "Hanse Naturkost" für die Waren der Klasse …
+- [BGH, Beschluss vom 30.01.2008 - I ZB 8/07](i-zb-8-07.md) — I. Die Klägerin ist Inhaberin einer Apotheke in M. . Die Beklagte zu 1, deren Vorstandsmitglied der Beklagte zu 2 ist, ist eine niederländische Kapitalgesellschaft. Sie betreibt …
+- [BGH, Urteil vom 30.01.2008 - I ZR 134/05](i-zr-134-05.md) — Tatbestand:
+- [BGH, Urteil vom 30.01.2008 - I ZR 146/05](i-zr-146-05.md) — 3-
+- [BGH, Urteil vom 30.01.2008 - I ZR 165/04](i-zr-165-04.md) — 3Tatbestand:
+- [BGH, Urteil vom 10.01.2008 - I ZR 13/05](i-zr-13-05.md) — Beschädigung des Transportguts im unmittelbaren räumlichen und zeitlichen Zusammenhang mit der Ablieferung des Guts verjähren auch dann nach
+- [BGH, Versäumnisurteil vom 10.01.2008 - I ZR 38/05](i-zr-38-05.md) — Tatbestand:
 - [BGH, Urteil vom 10.01.2008 - I ZR 67/05](i-zr-67-05.md) — Tatbestand:

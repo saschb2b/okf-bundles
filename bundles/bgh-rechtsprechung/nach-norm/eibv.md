@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu EIBV"
 description: "BGH-Entscheidungen zu EIBV, geordnet nach Vorschrift."
 tags: [register, navigation, eibv]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

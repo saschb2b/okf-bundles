@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VgV"
 description: "BGH-Entscheidungen zu VgV, geordnet nach Vorschrift."
 tags: [register, navigation, vgv]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

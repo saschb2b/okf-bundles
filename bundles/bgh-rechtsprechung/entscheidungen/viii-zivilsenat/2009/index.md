@@ -1,78 +1,163 @@
 # VIII. Zivilsenat – 2009
 
-74 Entscheidung(en).
+159 Entscheidung(en).
 
+- [BGH, Urteil vom 16.12.2009 - VIII ZR 119/08](viii-zr-119-08.md) — Tatbestand:
+- [BGH, Beschluss vom 16.12.2009 - VIII ZR 175/09](viii-zr-175-09.md) — unterlassener oder schlecht ausgeführter Schönheitsreparaturen
 - [BGH, Urteil vom 16.12.2009 - VIII ZR 313/08](viii-zr-313-08.md) — Tatbestand:
+- [BGH, Urteil vom 16.12.2009 - VIII ZR 38/09](viii-zr-38-09.md) — Tatbestand:
+- [BGH, Urteil vom 16.12.2009 - VIII ZR 39/09](viii-zr-39-09.md) — nicht zur Wohnfläche zu rechnen sind, weil sie zu weniger als der Hälfte der Grundfläche eine lichte Höhe von mehr als 2,20 m aufweisen und
 - [BGH, Beschluss vom 15.12.2009 - VIII ZR 137/08](viii-zr-137-08.md) — keine rechtsgrundsätzliche Bedeutung zu, weil sie einer abstrakten Beurteilung nicht zugänglich sind. Rechtsfehler sind dem Berufungsgericht
 - [BGH, Beschluss vom 15.12.2009 - VIII ZR 153/09](viii-zr-153-09.md) — I. 1 Der Senat hat mit Beschluss vom 18. August 2009 den Antrag des Be- klagten auf Beiordnung eines beim Bundesgerichtshof zugelassenen Rechts- anwalts gemäß § 78b ZPO zur …
+- [BGH, Beschluss vom 15.12.2009 - VIII ZR 296/08](viii-zr-296-08.md) — 1. Ein Grund für die Zulassung der Revision liegt nicht vor (§ 552a Satz 1, § 543 Abs. 2 Satz 1 ZPO). Insbesondere hat die Rechtssache keine grund- sätzliche Bedeutung. Die sich …
+- [BGH, Urteil vom 09.12.2009 - VIII ZR 177/07](viii-zr-177-07.md) — Tatbestand:
+- [BGH, Urteil vom 09.12.2009 - VIII ZR 219/08](viii-zr-219-08.md) — 3-
 - [BGH, Urteil vom 09.12.2009 - VIII ZR 35/09](viii-zr-35-09.md) — Tatbestand:
 - [BGH, Urteil vom 09.12.2009 - VIII ZR 91/08](viii-zr-91-08.md) — Tatbestand:
 - [BGH, Urteil vom 09.12.2009 - VIII ZR 93/08](viii-zr-93-08.md) — Tatbestand:
+- [BGH, Beschluss vom 08.12.2009 - VIII ZR 305/09](viii-zr-305-09.md) — I. 1 Die Klägerin schloss mit den Beklagten unter dem 15./19. März 2003 Franchiseverträge, Unterpachtverträge sowie Beitrittsvereinbarungen für den Betrieb von insgesamt vier M …
 - [BGH, Beschluss vom 08.12.2009 - VIII ZR 92/07](viii-zr-92-07.md) — Fehlens des Feststellungsinteresses abgewiesen. Mit der hiergegen eingeleg-
+- [BGH, Urteil vom 25.11.2009 - VIII ZR 235/08](viii-zr-235-08.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2009 - VIII ZR 27/09](viii-zr-27-09.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2009 - VIII ZR 318/08](viii-zr-318-08.md) — beiderseitiger Sittenwidrigkeit nichtigen Fernabsatzvertrag, der den Kauf eines Radarwarngeräts zum Gegenstand hat (Fortführung des Senatsur
+- [BGH, Urteil vom 25.11.2009 - VIII ZR 322/08](viii-zr-322-08.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2009 - VIII ZR 323/08](viii-zr-323-08.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2009 - VIII ZR 324/08](viii-zr-324-08.md) — Tatbestand:
 - [BGH, Urteil vom 25.11.2009 - VIII ZR 334/08](viii-zr-334-08.md) — Tatbestand:
 - [BGH, Urteil vom 25.11.2009 - VIII ZR 345/08](viii-zr-345-08.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2009 - VIII ZR 69/09](viii-zr-69-09.md) — Tatbestand:
+- [BGH, Beschluss vom 24.11.2009 - VIII ZR 124/09](viii-zr-124-09.md) — Unmöglichkeit ausgeschlossen
 - [BGH, Beschluss vom 24.11.2009 - VIII ZR 174/09](viii-zr-174-09.md) — nachhaltiger Störung des Hausfriedens durch einen psychisch kranken Mieter dem Tatrichter obliegt, die Belange des Vermieters, des Mieters u
 - [BGH, Urteil vom 18.11.2009 - VIII ZR 347/08](viii-zr-347-08.md) — Tatbestand:
+- [BGH, Beschluss vom 17.11.2009 - VIII ZB 44/09](viii-zb-44-09.md) — I. 1 Die Beklagte, die Mieterin einer Wohnung der Klägerin ist, hat zur Rechtsverteidigung gegen eine von der Klägerin erhobene Räumungs- und Zahlungsklage Prozesskostenhilfe …
+- [BGH, Beschluss vom 17.11.2009 - VIII ZB 53/08](viii-zb-53-08.md) — I. 1 Der Kläger verlangt von den Beklagten die Zahlung rückständiger Mieten und Schadensersatz aus einem beendeten Wohnraummietverhältnis. 2 Das Amtsgericht hat die Beklagten zur …
+- [BGH, Beschluss vom 12.11.2009 - VIII ZA 15/09](viii-za-15-09.md) — I. 1 Mit Schreiben vom 15. Dezember 2008 hat der Beklagte beantragt, ihm im Hinblick auf drei Beschlüsse des Landgerichts Marburg vom 6. November 2008 Prozesskostenhilfe für die …
 - [BGH, Urteil vom 11.11.2009 - VIII ZR 11/09](viii-zr-11-09.md) — Tatbestand:
+- [BGH, Urteil vom 11.11.2009 - VIII ZR 12/08](viii-zr-12-08.md) — nachstehender Klausel und wegen der Abweisung des Zahlungsanspruchs teilweise zurückgewiesen worden ist.
+- [BGH, Urteil vom 11.11.2009 - VIII ZR 221/08](viii-zr-221-08.md) — Tatbestand:
 - [BGH, Urteil vom 11.11.2009 - VIII ZR 249/08](viii-zr-249-08.md) — BGH, Urteil vom 11.11.2009 - VIII ZR 249/08
 - [BGH, Urteil vom 11.11.2009 - VIII ZR 294/08](viii-zr-294-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.11.2009 - VIII ZB 60/09](viii-zb-60-09.md) — I. 1 Die in erster Instanz unterlegenen Beklagten haben gegen das Urteil des Landgerichts Kempten vom 9. September 2008 Berufung zum Oberlandesge- richt eingelegt und diese …
 - [BGH, Urteil vom 28.10.2009 - VIII ZR 164/08](viii-zr-164-08.md) — der mitvermieteten Gartenfläche kommt nicht in Betracht (Fortführung von BGH, Urteile vom 24. März 2004 - VIII ZR 133/03, WuM 2004, 268, und
 - [BGH, Urteil vom 28.10.2009 - VIII ZR 320/07](viii-zr-320-07.md) — Tatbestand:
 - [BGH, Beschluss vom 27.10.2009 - VIII ZB 42/08](viii-zb-42-08.md) — I. 1 Die Klägerin, die mit dem Beklagten am 2./16. September 2002 eine als "Handelsvertretervertrag" bezeichnete Vereinbarung getroffen hatte, begehrt vom Beklagten nach …
 - [BGH, Beschluss vom 27.10.2009 - VIII ZB 45/08](viii-zb-45-08.md) — BGH, Beschluss vom 27.10.2009 - VIII ZB 45/08
+- [BGH, Beschluss vom 27.10.2009 - VIII ZR 204/08](viii-zr-204-08.md) — 1. Ein Grund für die Zulassung der Revision besteht nicht. Die vom Beru- fungsgericht als grundsätzlich angesehene Frage der Wirksamkeit von Preisan- passungsklauseln, wie sie von …
 - [BGH, Beschluss vom 27.10.2009 - VIII ZR 334/07](viii-zr-334-07.md) — an der Durchsetzung seiner Forderung gehin-
+- [BGH, Beschluss vom 27.10.2009 - VIII ZR 82/09](viii-zr-82-09.md) — BGH, Beschluss vom 27.10.2009 - VIII ZR 82/09
+- [BGH, Versäumnisurteil vom 21.10.2009 - VIII ZR 244/08](viii-zr-244-08.md) — Tatbestand:
+- [BGH, Urteil vom 21.10.2009 - VIII ZR 286/07](viii-zr-286-07.md) — 3-
 - [BGH, Urteil vom 21.10.2009 - VIII ZR 30/09](viii-zr-30-09.md) — Tatbestand:
+- [BGH, Urteil vom 21.10.2009 - VIII ZR 64/09](viii-zr-64-09.md) — Tatbestand:
+- [BGH, Beschluss vom 20.10.2009 - VIII ZB 13/08](viii-zb-13-08.md) — unterbliebener Aufklärung über die kostenrechtlichen Auswirkungen des
+- [BGH, Beschluss vom 20.10.2009 - VIII ZB 97/08](viii-zb-97-08.md) — vorzeitiger Rückgabe des geleasten Fahrzeugs und
 - [BGH, Urteil vom 14.10.2009 - VIII ZR 159/08](viii-zr-159-08.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2009 - VIII ZR 272/08](viii-zr-272-08.md) — Tatbestand:
 - [BGH, Urteil vom 14.10.2009 - VIII ZR 354/08](viii-zr-354-08.md) — unangemessener Benachteiligung des Käufers/Garantienehmers unwirksam.
+- [BGH, Urteil vom 14.10.2009 - VIII ZR 96/07](viii-zr-96-07.md) — der Ansprüche aus der laufenden Geschäftsverbindung mit dem Mineralölunternehmen, insbesondere der Abrechnungen aus Kraftstoffverkaufserlöse
+- [BGH, Beschluss vom 13.10.2009 - VIII ZR 312/08](viii-zr-312-08.md) — 1. Ein Grund für die Zulassung der Revision besteht nicht mehr. Die vom Berufungsgericht als grundsätzlich angesehene Frage der Einordnung der Klä- ger als Tarif- oder …
+- [BGH, Urteil vom 30.09.2009 - VIII ZR 238/08](viii-zr-238-08.md) — Tatbestand:
 - [BGH, Urteil vom 30.09.2009 - VIII ZR 276/08](viii-zr-276-08.md) — Tatbestand:
 - [BGH, Urteil vom 30.09.2009 - VIII ZR 29/09](viii-zr-29-09.md) — Tatbestand:
+- [BGH, Urteil vom 30.09.2009 - VIII ZR 7/09](viii-zr-7-09.md) — Tatbestand:
+- [BGH, Beschluss vom 29.09.2009 - VIII ZR 242/08](viii-zr-242-08.md) — 1. Die Voraussetzungen für die Zulassung der Revision liegen nicht vor (§ 552a Satz 1, § 543 Abs. 2 Satz 1 ZPO). Die bei der (mietvertraglichen) Aus- legung des Begriffs der …
+- [BGH, Beschluss vom 23.09.2009 - VIII ZA 2/08](viii-za-2-08.md) — I. 1 Die Klägerin als Vermieterin nimmt den Beklagten als ihren Mieter auf Nachzahlung von Betriebs- und Heizkosten sowie auf erhöhte monatliche Vor- auszahlungen in Anspruch. In …
+- [BGH, Beschluss vom 23.09.2009 - VIII ZB 16/08](viii-zb-16-08.md) — I. 1 Die Beklagte hat gegen das Urteil des Amtsgerichts Iserlohn vom 20. September 2007, ihr zugestellt am 25. September 2007, am 12. Oktober 2007 Berufung eingelegt und diese …
 - [BGH, Urteil vom 23.09.2009 - VIII ZR 300/08](viii-zr-300-08.md) — Tatbestand:
 - [BGH, Urteil vom 23.09.2009 - VIII ZR 336/08](viii-zr-336-08.md) — einer vom Vermieter nicht gemäß BGB § 551 Abs. 3 angelegten Kaution.
+- [BGH, Urteil vom 23.09.2009 - VIII ZR 344/08](viii-zr-344-08.md) — unangemessener Benachteiligung des Mieters nach § 307 BGB unwirksam, da der Begriff "weißen" bei der nach § 305c Abs. 2 BGB gebotenen kunden
+- [BGH, Urteil vom 16.09.2009 - VIII ZR 243/08](viii-zr-243-08.md) — Tatbestand:
 - [BGH, Urteil vom 16.09.2009 - VIII ZR 275/08](viii-zr-275-08.md) — Tatbestand:
 - [BGH, Urteil vom 16.09.2009 - VIII ZR 321/08](viii-zr-321-08.md) — Tatbestand:
 - [BGH, Urteil vom 16.09.2009 - VIII ZR 346/08](viii-zr-346-08.md) — Tatbestand:
+- [BGH, Beschluss vom 16.09.2009 - VIII ZR 67/08](viii-zr-67-08.md) — 1. Die Voraussetzungen für die Zulassung der Revision liegen nicht vor. Die Rechtssache hat insbesondere keine grundsätzliche Bedeutung (§ 543 Abs. 2 Nr. 1 ZPO). Die …
 - [BGH, Beschluss vom 15.09.2009 - VIII ZR 241/08](viii-zr-241-08.md) — das Berufungsgericht die Revision
 - [BGH, Beschluss vom 18.08.2009 - VIII ZB 17/09](viii-zb-17-09.md) — I. 1 Die Parteien haben um die Rückabwicklung eines zwischen ihnen ge- schlossenen Fahrzeugkaufvertrages gestritten. Nachdem der Kläger bereits im ersten Rechtszug seine Klage …
+- [BGH, Beschluss vom 18.08.2009 - VIII ZB 62/08](viii-zb-62-08.md) — I. 1 Die Klägerin hat die Beklagte auf Zahlung von 39.900 € nebst Verzugs- zinsen, Zug um Zug gegen Übergabe eines Wohnmobils, auf Feststellung des Annahmeverzugs der Beklagten …
 - [BGH, Beschluss vom 12.08.2009 - VIII ZA 18/09](viii-za-18-09.md) — Für die Beiordnung eines Notanwalts für das Beschwerdeverfahren vor dem Landgericht Krefeld ist der Bundesgerichtshof nicht zuständig.
 - [BGH, Versäumnisurteil vom 12.08.2009 - VIII ZR 254/08](viii-zr-254-08.md) — Tatbestand:
 - [BGH, Urteil vom 16.07.2009 - VIII ZR 231/08](viii-zr-231-08.md) — Eigenbedarfs eines Gesellschafters findet die Kündigungsbeschränkung des § 577a BGB keine Anwendung, wenn nach der Kündigung Wohnungseigentu
 - [BGH, Urteil vom 15.07.2009 - VIII ZR 171/08](viii-zr-171-08.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 15.07.2009 - VIII ZR 217/06](viii-zr-217-06.md) — des durch dieses Urteil dem Kläger zuerkannten Betrages von 124.800 € nebst Zinsen in Höhe von 8 Prozentpunkten über dem Basiszinssatz seit
+- [BGH, Urteil vom 15.07.2009 - VIII ZR 225/07](viii-zr-225-07.md) — Tatbestand:
 - [BGH, Urteil vom 15.07.2009 - VIII ZR 307/08](viii-zr-307-08.md) — Tatbestand:
+- [BGH, Urteil vom 15.07.2009 - VIII ZR 340/08](viii-zr-340-08.md) — Tatbestand:
+- [BGH, Urteil vom 15.07.2009 - VIII ZR 56/08](viii-zr-56-08.md) — 3-
 - [BGH, Beschluss vom 14.07.2009 - VIII ZR 101/08](viii-zr-101-08.md) — BGH, Beschluss vom 14.07.2009 - VIII ZR 101/08
+- [BGH, Beschluss vom 14.07.2009 - VIII ZR 132/07](viii-zr-132-07.md) — Bei der Bemessung der Beschwer der Klägerin ist zwar neben der Ab- weisung des unbezifferten Schmerzensgeldantrages auch der Wert des daneben verfolgten Feststellungsantrags …
+- [BGH, Urteil vom 14.07.2009 - VIII ZR 165/08](viii-zr-165-08.md) — Tatbestand:
 - [BGH, Beschluss vom 14.07.2009 - VIII ZR 295/08](viii-zr-295-08.md) — eines Maschinenschadens in Anspruch, der sich am 12. September 2003 an
+- [BGH, Beschluss vom 14.07.2009 - VIII ZR 3/09](viii-zr-3-09.md) — I. 1 Die Klägerin nimmt die Beklagte aus abgetretenem Recht ihres Ge- schäftsführers auf Zahlung des Kaufpreises in Höhe von 42.000 € nebst Zinsen für die Übertragung eines …
 - [BGH, Urteil vom 08.07.2009 - VIII ZR 200/08](viii-zr-200-08.md) — behaupteter anfänglicher Mängel der Mietsache Minderung geltend macht oder die Einrede des nicht erfüllten Vertrages erhebt, die ihm vom Ver
 - [BGH, Urteil vom 08.07.2009 - VIII ZR 205/08](viii-zr-205-08.md) — Tatbestand:
 - [BGH, Urteil vom 08.07.2009 - VIII ZR 218/08](viii-zr-218-08.md) — Tatbestand:
 - [BGH, Urteil vom 08.07.2009 - VIII ZR 266/08](viii-zr-266-08.md) — behaupteter anfänglicher Mängel der Mietsache Minderung geltend macht oder die Einrede des nicht erfüllten Vertrages erhebt, die ihm vom Ver
+- [BGH, Urteil vom 08.07.2009 - VIII ZR 314/07](viii-zr-314-07.md) — Tatbestand:
+- [BGH, Urteil vom 08.07.2009 - VIII ZR 327/08](viii-zr-327-08.md) — Tatbestand:
 - [BGH, Beschluss vom 07.07.2009 - VIII ZR 140/08](viii-zr-140-08.md) — 1. Ein Grund für die Zulassung der Revision liegt nicht (mehr) vor (§ 552a Satz 1, § 543 Abs. 2 Satz 1 ZPO). Insbesondere hat die Rechtssache keine grundsätzliche Bedeutung. Der …
+- [BGH, Urteil vom 24.06.2009 - VIII ZR 150/08](viii-zr-150-08.md) — Tatbestand:
+- [BGH, Urteil vom 24.06.2009 - VIII ZR 332/07](viii-zr-332-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2009 - VIII ZR 131/08](viii-zr-131-08.md) — Tatbestand:
 - [BGH, Urteil vom 10.06.2009 - VIII ZR 108/07](viii-zr-108-07.md) — Tatbestand:
 - [BGH, Beschluss vom 27.05.2009 - VIII ZB 101/08](viii-zb-101-08.md) — BGH, Beschluss vom 27.05.2009 - VIII ZB 101/08
 - [BGH, Urteil vom 27.05.2009 - VIII ZR 180/08](viii-zr-180-08.md) — Tatbestand:
+- [BGH, Urteil vom 27.05.2009 - VIII ZR 302/07](viii-zr-302-07.md) — Tatbestand:
 - [BGH, Urteil vom 20.05.2009 - VIII ZR 191/07](viii-zr-191-07.md) — Tatbestand:
+- [BGH, Urteil vom 20.05.2009 - VIII ZR 247/06](viii-zr-247-06.md) — Tatbestand:
 - [BGH, Beschluss vom 12.05.2009 - VIII ZA 1/09](viii-za-1-09.md) — BGH, Beschluss vom 12.05.2009 - VIII ZA 1/09
+- [BGH, Urteil vom 29.04.2009 - VIII ZR 142/08](viii-zr-142-08.md) — Tatbestand:
+- [BGH, Beschluss vom 29.04.2009 - VIII ZR 226/07](viii-zr-226-07.md) — schuldhaften Verhaltens des Handelsvertreters im Zeitpunkt der ordentlichen Kündigung zwar vorlag, dieser aber für die Kündigung nicht ursäc
+- [BGH, Beschluss vom 28.04.2009 - VIII ZB 7/08](viii-zb-7-08.md) — I. 1 Die Parteien streiten um die Kostenlast nach Klagerücknahme gemäß § 269 Abs. 3 Satz 3 ZPO. Die Klägerin hat beim Amtsgericht Klage auf Zustim- mung zur Mieterhöhung …
 - [BGH, Urteil vom 22.04.2009 - VIII ZR 156/07](viii-zr-156-07.md) — Tatbestand:
 - [BGH, Urteil vom 22.04.2009 - VIII ZR 86/08](viii-zr-86-08.md) — Tatbestand:
 - [BGH, Beschluss vom 21.04.2009 - VIII ZR 237/07](viii-zr-237-07.md) — Der Senat hat in dem Beschluss vom 17. Februar 2009 das von der An- hörungsrüge als übergangen gerügte Vorbringen geprüft, aber nicht für durch- greifend erachtet. Von einer …
 - [BGH, Urteil vom 08.04.2009 - VIII ZR 128/08](viii-zr-128-08.md) — Tatbestand:
+- [BGH, Urteil vom 08.04.2009 - VIII ZR 231/07](viii-zr-231-07.md) — eines vorgetäuschten Eigenbedarfs hin auszieht, stehen Schadensersatzansprüche wegen unberechtigter Kündigung auch dann zu, wenn die Kündigu
 - [BGH, Urteil vom 08.04.2009 - VIII ZR 233/08](viii-zr-233-08.md) — unangemessener Benachteiligung des Mieters unwirksam; dasselbe gilt für die Vereinbarung der Zulässigkeit einer zeitlich unbegrenzten Rückwi
+- [BGH, Beschluss vom 07.04.2009 - VIII ZB 94/08](viii-zb-94-08.md) — Die statthafte Rechtsbeschwerde des Klägers (§ 522 Abs.
+- [BGH, Urteil vom 01.04.2009 - VIII ZR 179/08](viii-zr-179-08.md) — Tatbestand:
+- [BGH, Beschluss vom 01.04.2009 - VIII ZR 234/08](viii-zr-234-08.md) — Die Nichtzulassungsbeschwerde ist unstatthaft, weil nicht dargetan ist, dass der Wert der mit der Revision geltend zu machenden Beschwer 20.000 € übersteigt.
+- [BGH, Beschluss vom 31.03.2009 - VIII ZR 240/08](viii-zr-240-08.md) — I. 1 Die Voraussetzungen für die Zulassung der Revision liegen entgegen der Auffassung des Berufungsgerichts nicht vor. Nach der Rechtsprechung des Se- nats, der das …
+- [BGH, Beschluss vom 18.03.2009 - VIII ZR 149/08](viii-zr-149-08.md) — I. 1 Der Kläger unterzeichnete und übersandte der Beklagten am 20. Januar 2007 eine von dieser gestellte und bereits zuvor unterschriebene formularmäßi- ge "Vertragsvereinbarung …
 - [BGH, Beschluss vom 17.03.2009 - VIII ZB 66/08](viii-zb-66-08.md) — deren Zustimmung zur weiteren Fristverlängerung gerichteten Schreibens haben sie per Post an das Amtsgericht Lichtenberg und zugleich als Te
+- [BGH, Beschluss vom 17.03.2009 - VIII ZB 74/08](viii-zb-74-08.md) — Die statthafte Rechtsbeschwerde des Beklagten (§ 522 Abs.
 - [BGH, Beschluss vom 17.03.2009 - VIII ZB 77/08](viii-zb-77-08.md) — BGH, Beschluss vom 17.03.2009 - VIII ZB 77/08
 - [BGH, Beschluss vom 11.03.2009 - VIII ZB 70/07](viii-zb-70-07.md) — I. 1 Die Parteien streiten darüber, ob das Amtsgericht über die Kosten des Rechtsstreits durch Beschluss nach § 91a Abs. 1 Satz 2 ZPO entscheiden durf- te. 2 Die Kläger haben die …
 - [BGH, Urteil vom 11.03.2009 - VIII ZR 115/08](viii-zr-115-08.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2009 - VIII ZR 127/08](viii-zr-127-08.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2009 - VIII ZR 184/08](viii-zr-184-08.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2009 - VIII ZR 279/07](viii-zr-279-07.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2009 - VIII ZR 316/07](viii-zr-316-07.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2009 - VIII ZR 74/08](viii-zr-74-08.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2009 - VIII ZR 83/08](viii-zr-83-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.03.2009 - VIII ZB 105/07](viii-zb-105-07.md) — I. 1 Die Klägerin nimmt die Beklagten, ihre ehemaligen Mieter, auf Zahlung von Schadensersatz in Höhe von 2.703,08 € in Anspruch. In der Klageschrift hat sich die Klägerin wie …
 - [BGH, Beschluss vom 10.03.2009 - VIII ZB 111/07](viii-zb-111-07.md) — eines Motorschadens an einem Pkw gestritten, den der Kläger vom Beklagten
+- [BGH, Beschluss vom 10.03.2009 - VIII ZB 55/06](viii-zb-55-06.md) — des § 520 Abs. 2 Satz 3 ZPO einen ersten Antrag auf Verlängerung dieser Frist um drei Wochen stellt, kann regelmäßig darauf vertrauen, dass die beantragte Fristverlängerung …
 - [BGH, Beschluss vom 10.03.2009 - VIII ZR 265/08](viii-zr-265-08.md) — 1. Ein Grund für die Zulassung der Revision besteht nicht mehr, nach- dem der Senat nach Erlass des Berufungsurteils die der Zulassung zugrunde liegende Rechtsfrage durch Urteil …
+- [BGH, Urteil vom 10.03.2009 - VIII ZR 34/08](viii-zr-34-08.md) — einer dem Verkauf vorausgegangenen längeren Standzeit im Sinne des § 434 Abs. 1 Satz 2 Nr. 2 BGB frei von Sachmängeln ist, ist - anders als
 - [BGH, Versäumnisurteil vom 04.03.2009 - VIII ZR 110/08](viii-zr-110-08.md) — Tatbestand:
+- [BGH, Urteil vom 04.03.2009 - VIII ZR 160/08](viii-zr-160-08.md) — im Sinne des § 434 Abs. 1 Satz 2 Nr. 2 BGB mangelhaft ist, weil der Partikelfilter von Zeit zu Zeit der Reinigung (Regenerierung) bedarf und
+- [BGH, Beschluss vom 03.03.2009 - VIII ZB 56/08](viii-zb-56-08.md) — I. 1 Im selbständigen Beweisverfahren hat der Sachverständige gemäß ei- nem Beweisbeschluss des Amtsgerichts ein Gutachten über Schimmelbildung in der von den Antragsgegnern …
 - [BGH, Beschluss vom 03.03.2009 - VIII ZR 247/08](viii-zr-247-08.md) — 1. Die Beklagte zu 1 war seit 1990 Mieterin einer Wohnung im Haus der dort auch selbst mit ihrer Familie wohnenden Klägerin in I. , die sie zu- sammen mit ihrer Tochter, der …
+- [BGH, Urteil vom 18.02.2009 - VIII ZR 166/08](viii-zr-166-08.md) — 3-
+- [BGH, Urteil vom 18.02.2009 - VIII ZR 210/08](viii-zr-210-08.md) — unangemessener Benachteiligung des Mieters insgesamt unwirksam. Die Unwirksamkeit ist nicht auf die Textbestandteile "einschließlich Streich
+- [BGH, Urteil vom 11.02.2009 - VIII ZR 118/07](viii-zr-118-07.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 11.02.2009 - VIII ZR 176/06](viii-zr-176-06.md) — Tatbestand:
+- [BGH, Urteil vom 11.02.2009 - VIII ZR 274/07](viii-zr-274-07.md) — Tatbestand:
+- [BGH, Urteil vom 11.02.2009 - VIII ZR 328/07](viii-zr-328-07.md) — Tatbestand:
 - [BGH, Urteil vom 11.02.2009 - VIII ZR 36/08](viii-zr-36-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.02.2009 - VIII ZR 205/05](viii-zr-205-05.md) — Die gemäß § 321a Abs. 1 und 2 ZPO statthafte und fristgerecht erhobe- ne Anhörungsrüge hat keinen Erfolg. 2 I. Es spricht viel dafür, dass die Anhörungsrüge ganz überwiegend be- …
+- [BGH, Urteil vom 04.02.2009 - VIII ZR 32/08](viii-zr-32-08.md) — Tatbestand:
 - [BGH, Urteil vom 04.02.2009 - VIII ZR 66/08](viii-zr-66-08.md) — einer unzulässigen
 - [BGH, Beschluss vom 03.02.2009 - VIII ZB 114/07](viii-zb-114-07.md) — BGH, Beschluss vom 03.02.2009 - VIII ZB 114/07
+- [BGH, Urteil vom 28.01.2009 - VIII ZR 7/08](viii-zr-7-08.md) — Tatbestand:
+- [BGH, Urteil vom 28.01.2009 - VIII ZR 8/08](viii-zr-8-08.md) — des Alters und schlechten baulichen Zustands eines Gebäudes gemessen an üblichen Wohnverhältnissen eine "Vollsanierung" oder ein Abriss mit
+- [BGH, Urteil vom 28.01.2009 - VIII ZR 9/08](viii-zr-9-08.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2009 - VIII ZR 107/08](viii-zr-107-08.md) — Tatbestand:
 - [BGH, Urteil vom 21.01.2009 - VIII ZR 62/08](viii-zr-62-08.md) — Tatbestand:
+- [BGH, Beschluss vom 20.01.2009 - VIII ZA 21/08](viii-za-21-08.md) — I. 1 Das Amtsgericht hat die Beklagte unter anderem verurteilt, zukünftig eine erhöhte Miete zu zahlen. Die Beklagte hat beim Landgericht Prozesskostenhilfe für die beabsichtigte …
 - [BGH, Beschluss vom 20.01.2009 - VIII ZB 47/08](viii-zb-47-08.md) — I. 1 Die Klägerin nimmt die Beklagte unter anderem auf die Übertragung von "Eigentumsrechten des Anteils am Stammkapital der Betreibergesellschaft" ei- nes Gasfeldes, hilfsweise …
 - [BGH, Beschluss vom 20.01.2009 - VIII ZB 76/08](viii-zb-76-08.md) — BGH, Beschluss vom 20.01.2009 - VIII ZB 76/08
+- [BGH, Beschluss vom 14.01.2009 - VIII ZR 70/08](viii-zr-70-08.md) — Mängelrüge, die die Beklagte nach Rücksprache mit dem Hersteller am
+- [BGH, Urteil vom 14.01.2009 - VIII ZR 71/08](viii-zr-71-08.md) — Tatbestand:
+- [BGH, Beschluss vom 13.01.2009 - VIII ZB 29/07](viii-zb-29-07.md) — I. 1 Der Kläger begehrt von dem in Österreich ansässigen Beklagten für die Lieferung und Reinigung von Teppichen die Zahlung eines Restbetrages von 4.179,03 € nebst Zinsen. Das …

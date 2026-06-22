@@ -1,91 +1,187 @@
 # 4. Strafsenat – 2006
 
-87 Entscheidung(en).
+183 Entscheidung(en).
 
 - [BGH, Beschluss vom 21.12.2006 - 4 StR 393/06](4-str-393-06.md) — Beihilfe zum schweren Bandendiebstahl
 - [BGH, Beschluss vom 19.12.2006 - 4 StR 487/06](4-str-487-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 19.12.2006 - 4 StR 488/06](4-str-488-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 19.12.2006 - 4 StR 530/06](4-str-530-06.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 19.12.2006 - 4 StR 537/06](4-str-537-06.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 14.12.2006 - 4 StR 411/06](4-str-411-06.md) — Betruges
+- [BGH, Urteil vom 14.12.2006 - 4 StR 419/06](4-str-419-06.md) — Totschlags
+- [BGH, Beschluss vom 14.12.2006 - 4 StR 472/06](4-str-472-06.md) — Vergewaltigung
+- [BGH, Beschluss vom 13.12.2006 - 4 StR 421/06](4-str-421-06.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.12.2006 - 4 StR 527/06](4-str-527-06.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 07.12.2006 - 4 StR 319/03](4-str-319-03.md) — Totschlags hier: Bewilligung einer Pauschvergütung
 - [BGH, Urteil vom 07.12.2006 - 4 StR 355/06](4-str-355-06.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 07.12.2006 - 4 StR 505/06](4-str-505-06.md) — schweren sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 05.12.2006 - 4 StR 468/06](4-str-468-06.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 05.12.2006 - 4 StR 484/06](4-str-484-06.md) — Totschlags u.a.
 - [BGH, Urteil vom 30.11.2006 - 4 StR 278/06](4-str-278-06.md) — schweren räuberischen Diebstahls zu 2.: wegen Diebstahls
+- [BGH, Beschluss vom 30.11.2006 - 4 StR 452/06](4-str-452-06.md) — Betruges
+- [BGH, Beschluss vom 28.11.2006 - 4 StR 369/06](4-str-369-06.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern
+- [BGH, Beschluss vom 28.11.2006 - 4 StR 404/06](4-str-404-06.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 28.11.2006 - 4 StR 415/06](4-str-415-06.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 23.11.2006 - 4 StR 33/06](4-str-33-06.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern
+- [BGH, Beschluss vom 21.11.2006 - 4 StR 453/06](4-str-453-06.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 21.11.2006 - 4 StR 459/06](4-str-459-06.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 21.11.2006 - 4 StR 464/06](4-str-464-06.md) — Vergewaltigung
 - [BGH, Beschluss vom 21.11.2006 - 4 StR 485/06](4-str-485-06.md) — Beihilfe zur versuchten schweren räuberischen Erpressung u.a.
+- [BGH, Beschluss vom 14.11.2006 - 4 StR 338/06](4-str-338-06.md) — erpresserischen Menschenraubes u. a.
 - [BGH, Beschluss vom 14.11.2006 - 4 StR 374/06](4-str-374-06.md) — Beihilfe zur versuchten schweren räuberischen Erpressung
 - [BGH, Beschluss vom 14.11.2006 - 4 StR 446/06](4-str-446-06.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 09.11.2006 - 4 StR 424/06](4-str-424-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 09.11.2006 - 4 StR 426/06](4-str-426-06.md) — sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 09.11.2006 - 4 StR 430/06](4-str-430-06.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 02.11.2006 - 4 StR 367/06](4-str-367-06.md) — Körperverletzung mit Todesfolge u.a.
+- [BGH, Beschluss vom 31.10.2006 - 4 StR 416/06](4-str-416-06.md) — sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 26.10.2006 - 4 StR 354/06](4-str-354-06.md) — zu Ziff. 1.: besonders schwerer sexueller Nötigung u.a. zu Ziff. 2.: Beihilfe zur sexuellen Nötigung u.a.
 - [BGH, Beschluss vom 24.10.2006 - 4 StR 118/06](4-str-118-06.md) — Vergewaltigung
 - [BGH, Beschluss vom 19.10.2006 - 4 StR 251/06](4-str-251-06.md) — schweren Raubes u. a.
 - [BGH, Entscheidung vom 19.10.2006 - 4 StR 359/06](4-str-359-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 17.10.2006 - 4 StR 335/06](4-str-335-06.md) — Mordes
 - [BGH, Beschluss vom 17.10.2006 - 4 StR 341/06](4-str-341-06.md) — sexuellen Missbrauchs einer Jugendlichen
+- [BGH, Beschluss vom 11.10.2006 - 4 StR 325/06](4-str-325-06.md) — sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 11.10.2006 - 4 StR 340/06](4-str-340-06.md) — falscher uneidlicher Aussage u. a.
+- [BGH, Beschluss vom 11.10.2006 - 4 StR 381/06](4-str-381-06.md) — vorsätzlichen gefährlichen Eingriffs in den Straßenverkehr u.a.
+- [BGH, Beschluss vom 11.10.2006 - 4 StR 400/06](4-str-400-06.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 05.10.2006 - 4 StR 310/06](4-str-310-06.md) — Einschleusens von Ausländern u.a.
 - [BGH, Beschluss vom 05.10.2006 - 4 StR 375/06](4-str-375-06.md) — Urkundenfälschung u.a.
 - [BGH, Beschluss vom 05.10.2006 - 4 StR 377/06](4-str-377-06.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 26.09.2006 - 4 StR 347/06](4-str-347-06.md) — versuchter schwerer räuberischer Erpressung zu Ziff. 3.: wegen Beihilfe zur versuchten schweren räuberischen Erpressung
+- [BGH, Beschluss vom 26.09.2006 - 4 StR 353/06](4-str-353-06.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 26.09.2006 - 4 StR 390/06](4-str-390-06.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 25.09.2006 - 4 StR 322/06](4-str-322-06.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 21.09.2006 - 4 StR 245/06](4-str-245-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 21.09.2006 - 4 StR 309/06](4-str-309-06.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 21.09.2006 - 4 StR 323/06](4-str-323-06.md) — sexuellen Missbrauchs Widerstandsunfähiger
 - [BGH, Beschluss vom 21.09.2006 - 4 StR 339/06](4-str-339-06.md) — vorsätzlicher Trunkenheit im Verkehr
+- [BGH, Beschluss vom 21.09.2006 - 4 StR 342/06](4-str-342-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 21.09.2006 - 4 StR 386/06](4-str-386-06.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 19.09.2006 - 4 StR 303/06](4-str-303-06.md) — schwerer Vergewaltigung u. a.
 - [BGH, Beschluss vom 14.09.2006 - 4 StR 300/06](4-str-300-06.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 14.09.2006 - 4 StR 349/06](4-str-349-06.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 12.09.2006 - 4 StR 279/06](4-str-279-06.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 12.09.2006 - 4 StR 297/06](4-str-297-06.md) — unerlaubten Führens einer Schusswaffe
+- [BGH, Beschluss vom 05.09.2006 - 4 StR 313/06](4-str-313-06.md) — vorsätzlicher Körperverletzung
 - [BGH, Beschluss vom 29.08.2006 - 4 StR 231/06](4-str-231-06.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u.a.
+- [BGH, Beschluss vom 24.08.2006 - 4 StR 286/06](4-str-286-06.md) — zu Ziff. 1. Totschlags u.a. zu Ziff. 2. Beihilfe zum Totschlag u.a.
 - [BGH, Beschluss vom 17.08.2006 - 4 StR 117/06](4-str-117-06.md) — Untreue
 - [BGH, Beschluss vom 17.08.2006 - 4 StR 224/06](4-str-224-06.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 15.08.2006 - 4 StR 160/06](4-str-160-06.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 15.08.2006 - 4 StR 284/06](4-str-284-06.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 10.08.2006 - 4 StR 84/06](4-str-84-06.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 08.08.2006 - 4 StR 215/06](4-str-215-06.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 08.08.2006 - 4 StR 258/06](4-str-258-06.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 08.08.2006 - 4 StR 263/06](4-str-263-06.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 01.08.2006 - 4 StR 261/06](4-str-261-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 27.07.2006 - 4 StR 232/06](4-str-232-06.md) — BGH, Beschluss vom 27.07.2006 - 4 StR 232/06
 - [BGH, Beschluss vom 25.07.2006 - 4 StR 141/06](4-str-141-06.md) — sexuellen Missbrauchs Widerstandsunfähiger u.a.
 - [BGH, Beschluss vom 25.07.2006 - 4 StR 223/06](4-str-223-06.md) — gewerbsmäßiger Hehlerei
 - [BGH, Beschluss vom 20.07.2006 - 4 StR 147/06](4-str-147-06.md) — Untreue
 - [BGH, Beschluss vom 18.07.2006 - 4 StR 89/06](4-str-89-06.md) — Mordes
 - [BGH, Beschluss vom 18.07.2006 - 4 StR 98/06](4-str-98-06.md) — Menschenhandels u.a.
+- [BGH, Beschluss vom 13.07.2006 - 4 StR 129/06](4-str-129-06.md) — Bestimmens einer Person unter 18 Jahren zur Förderung des unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
 - [BGH, Urteil vom 13.07.2006 - 4 StR 87/06](4-str-87-06.md) — schweren Bandendiebstahls u.a.
+- [BGH, Beschluss vom 11.07.2006 - 4 StR 184/06](4-str-184-06.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 11.07.2006 - 4 StR 197/06](4-str-197-06.md) — Totschlags
+- [BGH, Beschluss vom 06.07.2006 - 4 StR 163/06](4-str-163-06.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 06.07.2006 - 4 StR 199/06](4-str-199-06.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 06.07.2006 - 4 StR 48/06](4-str-48-06.md) — Beihilfe zum Raub u.a.
+- [BGH, Beschluss vom 04.07.2006 - 4 StR 127/06](4-str-127-06.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 04.07.2006 - 4 StR 320/95](4-str-320-95.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 29.06.2006 - 4 StR 138/06](4-str-138-06.md) — versuchten schweren Raubes u.a.
 - [BGH, Beschluss vom 29.06.2006 - 4 StR 146/06](4-str-146-06.md) — vorsätzlichen gefährlichen Eingriffs in den Straßenverkehr u.a.
+- [BGH, Beschluss vom 27.06.2006 - 4 StR 190/06](4-str-190-06.md) — Freiheitsberaubung u.a.
 - [BGH, Beschluss vom 27.06.2006 - 4 StR 207/06](4-str-207-06.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 22.06.2006 - 4 StR 27/06](4-str-27-06.md) — sexuellen Missbrauchs von Kindern
 - [BGH, Beschluss vom 22.06.2006 - 4 StR 64/06](4-str-64-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 20.06.2006 - 4 StR 192/06](4-str-192-06.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 13.06.2006 - 4 StR 123/06](4-str-123-06.md) — Das Landgericht hat im Sicherungsverfahren die Unterbringung des Be- schuldigten in einem psychiatrischen Krankenhaus angeordnet.
 - [BGH, Beschluss vom 13.06.2006 - 4 StR 178/06](4-str-178-06.md) — sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 13.06.2006 - 4 StR 182/06](4-str-182-06.md) — Totschlags
+- [BGH, Beschluss vom 13.06.2006 - 4 StR 67/06](4-str-67-06.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 01.06.2006 - 4 StR 175/06](4-str-175-06.md) — Vergewaltigung
 - [BGH, Urteil vom 01.06.2006 - 4 StR 75/06](4-str-75-06.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 30.05.2006 - 4 StR 152/06](4-str-152-06.md) — schwerer Brandstiftung
 - [BGH, Beschluss vom 23.05.2006 - 4 StR 145/06](4-str-145-06.md) — Vergewaltigung
 - [BGH, Beschluss vom 18.05.2006 - 4 StR 153/06](4-str-153-06.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 16.05.2006 - 4 StR 17/06](4-str-17-06.md) — Totschlags
 - [BGH, Entscheidung vom 11.05.2006 - 4 StR 10/06](4-str-10-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 11.05.2006 - 4 StR 131/06](4-str-131-06.md) — sexuellen Missbrauchs eines Kindes u. a.
 - [BGH, Entscheidung vom 11.05.2006 - 4 StR 90/06](4-str-90-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 09.05.2006 - 4 StR 105/06](4-str-105-06.md) — Mordes u. a.
+- [BGH, Beschluss vom 09.05.2006 - 4 StR 8/06](4-str-8-06.md) — Raubes mit Todesfolge;
 - [BGH, Beschluss vom 03.05.2006 - 4 ARs 3/06](4-ars-3-06.md) — gefährlicher Körperverletzung hier: Anfrage des 1. Strafsenats vom 12. Januar 2006 – 1 StR 466/05
+- [BGH, Beschluss vom 03.05.2006 - 4 StR 40/06](4-str-40-06.md) — sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Urteil vom 27.04.2006 - 4 StR 572/05](4-str-572-05.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 27.04.2006 - 4 StR 99/06](4-str-99-06.md) — sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 25.04.2006 - 4 StR 125/06](4-str-125-06.md) — schwerer räuberischer Erpressung
 - [BGH, Urteil vom 20.04.2006 - 4 StR 604/05](4-str-604-05.md) — Vergewaltigung
 - [BGH, Beschluss vom 20.04.2006 - 4 StR 96/06](4-str-96-06.md) — Vergewaltigung
+- [BGH, Beschluss vom 19.04.2006 - 4 StR 106/06](4-str-106-06.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 19.04.2006 - 4 StR 395/05](4-str-395-05.md) — zu Ziff. 1.: schweren Bandendiebstahls u.a. zu Ziff. 2.: Beihilfe zum schweren Bandendiebstahl u.a.
 - [BGH, Beschluss vom 19.04.2006 - 4 StR 81/06](4-str-81-06.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 06.04.2006 - 4 StR 53/06](4-str-53-06.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 06.04.2006 - 4 StR 566/05](4-str-566-05.md) — Untreue u.a.
+- [BGH, Beschluss vom 06.04.2006 - 4 StR 588/05](4-str-588-05.md) — schweren sexuellen Missbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 04.04.2006 - 4 StR 30/06](4-str-30-06.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 04.04.2006 - 4 StR 60/06](4-str-60-06.md) — schweren Raubes u.a.
+- [BGH, Urteil vom 30.03.2006 - 4 StR 567/05](4-str-567-05.md) — Mordes
+- [BGH, Beschluss vom 28.03.2006 - 4 StR 42/06](4-str-42-06.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 28.03.2006 - 4 StR 534/05](4-str-534-05.md) — Verdachts des versuchten Mordes u.a.
 - [BGH, Beschluss vom 28.03.2006 - 4 StR 575/05](4-str-575-05.md) — Totschlags
+- [BGH, Beschluss vom 28.03.2006 - 4 StR 596/05](4-str-596-05.md) — Erwerbs einer halbautomatischen Kurzwaffe u.a.
+- [BGH, Beschluss vom 23.03.2006 - 4 StR 36/06](4-str-36-06.md) — besonders schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 23.03.2006 - 4 StR 584/05](4-str-584-05.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 21.03.2006 - 4 StR 110/05](4-str-110-05.md) — Untreue u.a.
+- [BGH, Beschluss vom 21.03.2006 - 4 StR 21/06](4-str-21-06.md) — sexuellen Missbrauchs von Schutzbefohlenen
+- [BGH, Beschluss vom 21.03.2006 - 4 StR 26/06](4-str-26-06.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 21.03.2006 - 4 StR 519/05](4-str-519-05.md) — Raubes u.a.
+- [BGH, Beschluss vom 21.03.2006 - 4 StR 62/06](4-str-62-06.md) — Körperverletzung
+- [BGH, Urteil vom 16.03.2006 - 4 StR 536/05](4-str-536-05.md) — Körperverletzung
 - [BGH, Beschluss vom 16.03.2006 - 4 StR 594/05](4-str-594-05.md) — Mordes u.a.
+- [BGH, Beschluss vom 14.03.2006 - 4 StR 46/06](4-str-46-06.md) — zu Ziff. 1. bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.03.2006 - 4 StR 577/05](4-str-577-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 09.03.2006 - 4 StR 454/05](4-str-454-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 09.03.2006 - 4 StR 472/05](4-str-472-05.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 09.03.2006 - 4 StR 514/05](4-str-514-05.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
 - [BGH, Beschluss vom 07.03.2006 - 4 StR 16/06](4-str-16-06.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 07.03.2006 - 4 StR 25/06](4-str-25-06.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 23.02.2006 - 4 StR 405/05](4-str-405-05.md) — Körperverletzung mit Todesfolge
 - [BGH, Urteil vom 23.02.2006 - 4 StR 444/05](4-str-444-05.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 23.02.2006 - 4 StR 513/05](4-str-513-05.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
 - [BGH, Urteil vom 16.02.2006 - 4 StR 305/05](4-str-305-05.md) — Untreue
 - [BGH, Urteil vom 16.02.2006 - 4 StR 508/05](4-str-508-05.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 15.02.2006 - 4 StR 555/05](4-str-555-05.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 14.02.2006 - 4 StR 543/05](4-str-543-05.md) — zu Ziff. 1.: Raubes u.a. zu Ziff. 2.: schweren Raubes u.a.
+- [BGH, Beschluss vom 14.02.2006 - 4 StR 547/05](4-str-547-05.md) — besonders schwerer sexueller Nötigung u.a.
 - [BGH, Beschluss vom 14.02.2006 - 4 StR 6/06](4-str-6-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 02.02.2006 - 4 StR 570/05](4-str-570-05.md) — schweren sexuellen Missbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 31.01.2006 - 4 StR 403/05](4-str-403-05.md) — Wohnungseinbruchsdiebstahls u.a.
 - [BGH, Beschluss vom 31.01.2006 - 4 StR 470/05](4-str-470-05.md) — Betruges u.a.
 - [BGH, Beschluss vom 31.01.2006 - 4 StR 487/05](4-str-487-05.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 31.01.2006 - 4 StR 539/05](4-str-539-05.md) — unerlaubter Einfuhr von Betäubungsmitteln
 - [BGH, Beschluss vom 31.01.2006 - 4 StR 540/05](4-str-540-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 31.01.2006 - 4 StR 542/05](4-str-542-05.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
 - [BGH, Beschluss vom 26.01.2006 - 4 StR 515/05](4-str-515-05.md) — schwerer Vergewaltigung u.a.
+- [BGH, Beschluss vom 26.01.2006 - 4 StR 520/05](4-str-520-05.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 24.01.2006 - 4 StR 416/05](4-str-416-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 24.01.2006 - 4 StR 437/05](4-str-437-05.md) — sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 24.01.2006 - 4 StR 456/05](4-str-456-05.md) — Bestechlichkeit u. a.
 - [BGH, Beschluss vom 24.01.2006 - 4 StR 556/05](4-str-556-05.md) — versuchten Mordes u.a.
 - [BGH, Urteil vom 19.01.2006 - 4 StR 222/05](4-str-222-05.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Urteil vom 19.01.2006 - 4 StR 374/05](4-str-374-05.md) — Betruges u.a.
 - [BGH, Urteil vom 19.01.2006 - 4 StR 393/05](4-str-393-05.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
+- [BGH, Beschluss vom 17.01.2006 - 4 StR 422/05](4-str-422-05.md) — schweren Bandendiebstahls u.a.
+- [BGH, Beschluss vom 17.01.2006 - 4 StR 423/05](4-str-423-05.md) — schweren Bandendiebstahls u.a.
 - [BGH, Beschluss vom 17.01.2006 - 4 StR 493/05](4-str-493-05.md) — räuberischen Angriffs auf Kraftfahrer u.a.
 - [BGH, Beschluss vom 17.01.2006 - 4 StR 595/05](4-str-595-05.md) — schweren Bandendiebstahls
 - [BGH, Beschluss vom 12.01.2006 - 4 StR 278/05](4-str-278-05.md) — zu Ziff. 1. Bestechlichkeit zu Ziff. 2. Vorteilsgewährung
 - [BGH, Beschluss vom 12.01.2006 - 4 StR 485/05](4-str-485-05.md) — nachträglicher Anordnung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Beschluss vom 10.01.2006 - 4 StR 441/05](4-str-441-05.md) — versuchten schweren Raubes u.a.
+- [BGH, Beschluss vom 10.01.2006 - 4 StR 490/05](4-str-490-05.md) — fahrlässiger Tötung u.a. hier: Revisionen der Nebenkläger Helene F. , Herbert F. und Wolfgang F.
 - [BGH, Beschluss vom 10.01.2006 - 4 StR 498/05](4-str-498-05.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 10.01.2006 - 4 StR 501/05](4-str-501-05.md) — Wohnungseinbruchsdiebstahls u.a.
 - [BGH, Beschluss vom 10.01.2006 - 4 StR 545/05](4-str-545-05.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 10.01.2006 - 4 StR 561/05](4-str-561-05.md) — Untreue u.a.

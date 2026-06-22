@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu WRV"
 description: "BGH-Entscheidungen zu WRV, geordnet nach Vorschrift."
 tags: [register, navigation, wrv]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

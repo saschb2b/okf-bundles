@@ -1,59 +1,140 @@
 # VI. Zivilsenat – 2007
 
-55 Entscheidung(en).
+136 Entscheidung(en).
 
+- [BGH, Beschluss vom 27.12.2007 - VI ZR 150/07](vi-zr-150-07.md) — der
+- [BGH, Beschluss vom 18.12.2007 - VI ZA 24/07](vi-za-24-07.md) — BGH, Beschluss vom 18.12.2007 - VI ZA 24/07
+- [BGH, Urteil vom 18.12.2007 - VI ZR 231/06](vi-zr-231-06.md) — verspäteter Insolvenzantragstellung auf Ersatz von ihr geleisteten Insolvenzgeldes aus § 826 BGB in Anspruch, so stellt sich der Einwand des
+- [BGH, Urteil vom 18.12.2007 - VI ZR 235/06](vi-zr-235-06.md) — Tatbestand:
 - [BGH, Urteil vom 18.12.2007 - VI ZR 278/06](vi-zr-278-06.md) — Tatbestand:
+- [BGH, Urteil vom 18.12.2007 - VI ZR 62/07](vi-zr-62-07.md) — Tatbestand:
 - [BGH, Beschluss vom 17.12.2007 - VI ZR 216/06](vi-zr-216-06.md) — BGH, Beschluss vom 17.12.2007 - VI ZR 216/06
+- [BGH, Beschluss vom 11.12.2007 - VI ZR 128/07](vi-zr-128-07.md) — BGH, Beschluss vom 11.12.2007 - VI ZR 128/07
 - [BGH, Urteil vom 11.12.2007 - VI ZR 14/07](vi-zr-14-07.md) — 3-
+- [BGH, Beschluss vom 04.12.2007 - VI ZB 73/06](vi-zb-73-06.md) — I. 1 Die Klägerin nimmt die Beklagten aus einem Verkehrsunfall in Anspruch, an dem der Beklagte zu 1 als Fahrer eines bei der Beklagten zu 2 haftpflicht- versicherten PKW …
 - [BGH, Beschluss vom 04.12.2007 - VI ZR 103/07](vi-zr-103-07.md) — BGH, Beschluss vom 04.12.2007 - VI ZR 103/07
+- [BGH, Beschluss vom 04.12.2007 - VI ZR 167/07](vi-zr-167-07.md) — BGH, Beschluss vom 04.12.2007 - VI ZR 167/07
 - [BGH, Urteil vom 04.12.2007 - VI ZR 241/06](vi-zr-241-06.md) — Tatbestand:
+- [BGH, Urteil vom 04.12.2007 - VI ZR 277/06](vi-zr-277-06.md) — der Verletzung des Allgemeinen Persönlichkeitsrechts durch Wort- und Bildberichterstattung gebührenrechtlich dieselbe Angelegenheit betreffe
+- [BGH, Beschluss vom 04.12.2007 - VI ZR 74/07](vi-zr-74-07.md) — BGH, Beschluss vom 04.12.2007 - VI ZR 74/07
+- [BGH, Beschluss vom 27.11.2007 - VI ZB 81/06](vi-zb-81-06.md) — Ver-
 - [BGH, Urteil vom 27.11.2007 - VI ZR 210/06](vi-zr-210-06.md) — Tatbestand:
 - [BGH, Urteil vom 27.11.2007 - VI ZR 56/07](vi-zr-56-07.md) — Tatbestand:
 - [BGH, Urteil vom 20.11.2007 - VI ZR 144/07](vi-zr-144-07.md) — BGH, Urteil vom 20.11.2007 - VI ZR 144/07
+- [BGH, Urteil vom 20.11.2007 - VI ZR 244/06](vi-zr-244-06.md) — Tatbestand:
+- [BGH, Beschluss vom 20.11.2007 - VI ZR 38/07](vi-zr-38-07.md) — I. 1 Die Beschwerdeführerin rügt die Verletzung des Anspruchs auf rechtli- ches Gehör. 2 Sie behauptet, aufgrund einer im Januar 1995 zur Durchführung einer Gastroskopie …
 - [BGH, Urteil vom 20.11.2007 - VI ZR 8/07](vi-zr-8-07.md) — Tatbestand:
+- [BGH, Beschluss vom 13.11.2007 - VI ZB 19/07](vi-zb-19-07.md) — U I. 1 Der Kläger macht gegen den Beklagten im Wege der Feststellungsklage Ersatzansprüche aus nach §§ 5 Abs. 1 OEG, 81a BVG übergegangenem Recht geltend. Das Landgericht hat die …
+- [BGH, Beschluss vom 13.11.2007 - VI ZR 155/07](vi-zr-155-07.md) — BGH, Beschluss vom 13.11.2007 - VI ZR 155/07
 - [BGH, Beschluss vom 13.11.2007 - VI ZR 225/06](vi-zr-225-06.md) — Die statthafte (vgl. Zöller/Vollkommer ZPO 26. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte …
+- [BGH, Urteil vom 13.11.2007 - VI ZR 265/06](vi-zr-265-06.md) — Tatbestand:
+- [BGH, Urteil vom 13.11.2007 - VI ZR 269/06](vi-zr-269-06.md) — Tatbestand:
 - [BGH, Urteil vom 13.11.2007 - VI ZR 89/07](vi-zr-89-07.md) — Tatbestand:
+- [BGH, Beschluss vom 06.11.2007 - VI ZR 110/07](vi-zr-110-07.md) — BGH, Beschluss vom 06.11.2007 - VI ZR 110/07
+- [BGH, Beschluss vom 06.11.2007 - VI ZR 118/07](vi-zr-118-07.md) — 1. Über die statthafte (vgl. Zöller/Vollkommer ZPO 26. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge entscheidet der Senat in der regulären Spruchgruppe (vgl …
+- [BGH, Urteil vom 06.11.2007 - VI ZR 182/06](vi-zr-182-06.md) — Tatbestand:
+- [BGH, Urteil vom 06.11.2007 - VI ZR 220/06](vi-zr-220-06.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 06.11.2007 - VI ZR 34/07](vi-zr-34-07.md) — Betrugs zum Nachteil eines Geschädigten mit Wohnsitz in Deutschland durch einen in der Schweiz ansässigen Verwaltungsrat einer Gesellschaft
 - [BGH, Urteil vom 30.10.2007 - VI ZR 132/06](vi-zr-132-06.md) — sich der Verteidiger nicht auf Notwehr berufen kann.
 - [BGH, Beschluss vom 16.10.2007 - VI ZB 65/06](vi-zb-65-06.md) — BGH, Beschluss vom 16.10.2007 - VI ZB 65/06
+- [BGH, Urteil vom 16.10.2007 - VI ZR 173/06](vi-zr-173-06.md) — Tatbestand:
 - [BGH, Urteil vom 16.10.2007 - VI ZR 227/06](vi-zr-227-06.md) — Tatbestand:
 - [BGH, Beschluss vom 16.10.2007 - VI ZR 229/06](vi-zr-229-06.md) — BGH, Beschluss vom 16.10.2007 - VI ZR 229/06
+- [BGH, Urteil vom 16.10.2007 - VI ZR 42/07](vi-zr-42-07.md) — Tatbestand:
+- [BGH, Urteil vom 09.10.2007 - VI ZR 27/07](vi-zr-27-07.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2007 - VI ZB 22/07](vi-zb-22-07.md) — I. 1 Der Kläger nimmt die Beklagte auf Mietwagenkosten in Höhe von 1.031,98 € nebst Zinsen in Anspruch. Daneben begehrt er Ersatz des auf die Verfahrensgebühr nicht anrechenbaren …
+- [BGH, Beschluss vom 25.09.2007 - VI ZB 53/06](vi-zb-53-06.md) — I. 1 Die Klägerin hat gegenüber den Beklagten einen Zahlungsbetrag in Hö- he von 2.130,58 € geltend gemacht. Da während des Verfahrens die Forderung vollständig bezahlt wurde …
 - [BGH, Beschluss vom 25.09.2007 - VI ZR 157/06](vi-zr-157-06.md) — BGH, Beschluss vom 25.09.2007 - VI ZR 157/06
+- [BGH, Beschluss vom 25.09.2007 - VI ZR 162/06](vi-zr-162-06.md) — I. 1 Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
 - [BGH, Beschluss vom 25.09.2007 - VI ZR 19/07](vi-zr-19-07.md) — BGH, Beschluss vom 25.09.2007 - VI ZR 19/07
 - [BGH, Beschluss vom 25.09.2007 - VI ZR 223/06](vi-zr-223-06.md) — BGH, Beschluss vom 25.09.2007 - VI ZR 223/06
 - [BGH, Beschluss vom 25.09.2007 - VI ZR 23/07](vi-zr-23-07.md) — BGH, Beschluss vom 25.09.2007 - VI ZR 23/07
+- [BGH, Beschluss vom 25.09.2007 - VI ZR 263/06](vi-zr-263-06.md) — BGH, Beschluss vom 25.09.2007 - VI ZR 263/06
+- [BGH, Beschluss vom 25.09.2007 - VI ZR 52/07](vi-zr-52-07.md) — BGH, Beschluss vom 25.09.2007 - VI ZR 52/07
+- [BGH, Beschluss vom 24.09.2007 - VI ZR 68/07](vi-zr-68-07.md) — fehlerhafter Mandatsbearbeitung durch die Kläger (Tatbestand des Urteils des Amtsgerichts Winsen/Luhe vom 27. September 2006 Bl. 3). Die dar
+- [BGH, Beschluss vom 03.09.2007 - VI ZR 138/06](vi-zr-138-06.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Gehörs- rüge ist nicht begründet.
 - [BGH, Beschluss vom 21.08.2007 - VI ZR 273/06](vi-zr-273-06.md) — BGH, Beschluss vom 21.08.2007 - VI ZR 273/06
+- [BGH, Beschluss vom 20.08.2007 - VI ZR 215/06](vi-zr-215-06.md) — 1. Über die statthafte (vgl. Zöller/Vollkommer ZPO 26. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge entscheidet der Senat in der regulären Spruchgruppe (vgl …
+- [BGH, Beschluss vom 01.08.2007 - VI ZA 15/07](vi-za-15-07.md) — Der mit der Beschwerde angegriffene Beschluss des 7.
+- [BGH, Urteil vom 10.07.2007 - VI ZR 192/06](vi-zr-192-06.md) — Tatbestand:
+- [BGH, Urteil vom 10.07.2007 - VI ZR 199/06](vi-zr-199-06.md) — Verletzung seines Eigentums am Leasingfahrzeug bei einem Verkehrsunfall weder ein Mitverschulden des Leasingnehmers oder des Fahrers des Lea
+- [BGH, Urteil vom 10.07.2007 - VI ZR 217/06](vi-zr-217-06.md) — Tatbestand:
+- [BGH, Urteil vom 10.07.2007 - VI ZR 258/06](vi-zr-258-06.md) — Tatbestand:
+- [BGH, Beschluss vom 10.07.2007 - VI ZR 275/06](vi-zr-275-06.md) — BGH, Beschluss vom 10.07.2007 - VI ZR 275/06
 - [BGH, Beschluss vom 07.07.2007 - VI ZR 159/07](vi-zr-159-07.md) — I. 1 Der Rechtsbehelf des § 321a ZPO ist zur Verwirklichung des verfas- sungsrechtlich gebotenen Maßes an Rechtsschutz im Nichtzulassungsbe- schwerdeverfahren nur dann …
+- [BGH, Beschluss vom 04.07.2007 - VI ZR 89/06](vi-zr-89-06.md) — Die zulässige Gehörsrüge (§§ 555 Abs. 1 Satz 1, 321a Abs. 4 ZPO) ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte verpflichtet, das Vorbringen der Parteien zur …
+- [BGH, Beschluss vom 03.07.2007 - VI ZB 21/06](vi-zb-21-06.md) — I. 1 Die Beklagte hat mit Schriftsatz vom 6. Juni 2005 gegen das Urteil des Landgerichts Berufung eingelegt. Am 21. Juni 2005 bestellte sich der Prozess- bevollmächtigte der …
+- [BGH, Beschluss vom 03.07.2007 - VI ZR 10/07](vi-zr-10-07.md) — BGH, Beschluss vom 03.07.2007 - VI ZR 10/07
+- [BGH, Urteil vom 03.07.2007 - VI ZR 164/06](vi-zr-164-06.md) — Tatbestand:
 - [BGH, Beschluss vom 03.07.2007 - VI ZR 274/06](vi-zr-274-06.md) — BGH, Beschluss vom 03.07.2007 - VI ZR 274/06
 - [BGH, Urteil vom 26.06.2007 - VI ZR 163/06](vi-zr-163-06.md) — Tatbestand:
+- [BGH, Beschluss vom 26.06.2007 - VI ZR 31/06](vi-zr-31-06.md) — BGH, Beschluss vom 26.06.2007 - VI ZR 31/06
+- [BGH, Beschluss vom 21.06.2007 - VI ZB 10/07](vi-zb-10-07.md) — Die Wiederaufnahme eines rechtskräftig abgeschlossenen Verfahrens ist anlog § 578 ZPO unter den Voraussetzungen der §§ 579 und § 580 ZPO nur dann gegen einen unanfechtbaren …
+- [BGH, Beschluss vom 21.06.2007 - VI ZB 12/07](vi-zb-12-07.md) — Die Wiederaufnahme eines rechtskräftig abgeschlossenen Verfahrens ist anlog § 578 ZPO unter den Voraussetzungen der §§ 579 und § 580 ZPO nur dann gegen einen unanfechtbaren …
+- [BGH, Beschluss vom 21.06.2007 - VI ZB 9/07](vi-zb-9-07.md) — Die Wiederaufnahme eines rechtskräftig abgeschlossenen Verfahrens ist anlog § 578 ZPO unter den Voraussetzungen der §§ 579 und § 580 ZPO nur dann gegen einen unanfechtbaren …
+- [BGH, Beschluss vom 19.06.2007 - VI ZB 3/07](vi-zb-3-07.md) — I. 1 Der Kläger nimmt die Beklagten auf Schadensersatz von 1.958,90 € nach einem Verkehrsunfall in B. in Anspruch. Das Amtsgericht hat die Klage an die Beklagte zu 2, eine in …
+- [BGH, Beschluss vom 19.06.2007 - VI ZB 81/05](vi-zb-81-05.md) — seiner Urlaubsabwesenheit mit der Unterzeichnung
+- [BGH, Urteil vom 19.06.2007 - VI ZR 12/06](vi-zr-12-06.md) — Tatbestand:
 - [BGH, Beschluss vom 12.06.2007 - VI ZB 4/07](vi-zb-4-07.md) — der Entfernung von 174,8 km zwischen dem Geschäfts-
+- [BGH, Beschluss vom 12.06.2007 - VI ZB 76/06](vi-zb-76-06.md) — mit der
 - [BGH, Urteil vom 12.06.2007 - VI ZR 110/06](vi-zr-110-06.md) — Tatbestand:
 - [BGH, Urteil vom 12.06.2007 - VI ZR 161/06](vi-zr-161-06.md) — Tatbestand:
+- [BGH, Beschluss vom 12.06.2007 - VI ZR 196/06](vi-zr-196-06.md) — der
+- [BGH, Urteil vom 12.06.2007 - VI ZR 200/06](vi-zr-200-06.md) — Tatbestand:
+- [BGH, Beschluss vom 12.06.2007 - VI ZR 206/06](vi-zr-206-06.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
+- [BGH, Beschluss vom 12.06.2007 - VI ZR 29/07](vi-zr-29-07.md) — Die gemäß § 321a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
 - [BGH, Urteil vom 12.06.2007 - VI ZR 70/06](vi-zr-70-06.md) — Tatbestand:
 - [BGH, Beschluss vom 22.05.2007 - VI ZB 59/05](vi-zb-59-05.md) — I. 1 Der Beklagte hat gegen das seinem Prozessbevollmächtigten am 17. März 2005 zugestellte Urteil des Landgerichts rechtzeitig Berufung einge- legt. Die zweimonatige …
+- [BGH, Urteil vom 22.05.2007 - VI ZR 17/06](vi-zr-17-06.md) — Tatbestand:
 - [BGH, Beschluss vom 22.05.2007 - VI ZR 233/06](vi-zr-233-06.md) — BGH, Beschluss vom 22.05.2007 - VI ZR 233/06
-- [BGH, Urteil vom 22.05.2007 - VI ZR 35/06](vi-zr-35-06.md) — BGH, Urteil vom 22.05.2007 - VI ZR 35/06
+- [BGH, Beschluss vom 15.05.2007 - VI ZB 18/06](vi-zb-18-06.md) — I. 1 Der Kläger nimmt die Beklagte auf Mietwagenkosten in Höhe von 572,30 € nebst Zinsen in Anspruch. Daneben begehrt er den Ersatz des auf die Verfahrensgebühr nicht …
+- [BGH, Urteil vom 15.05.2007 - VI ZR 150/06](vi-zr-150-06.md) — Tatbestand:
+- [BGH, Beschluss vom 08.05.2007 - VI ZB 74/06](vi-zb-74-06.md) — mit der Rechtsbeschwerde angefochten wer-
+- [BGH, Beschluss vom 08.05.2007 - VI ZB 80/06](vi-zb-80-06.md) — I. 1 Der Kläger nimmt die Beklagten auf Ersatz materieller und immaterieller Schäden nach einem Verkehrsunfall vom 3. Juli 2005 in Anspruch. Das Amts- gericht P. hat die Klage zum …
+- [BGH, Beschluss vom 07.05.2007 - VI ZR 233/05](vi-zr-233-05.md) — I. 1 Mit dem nunmehr in der Hauptsache für erledigt erklärten Rechtsstreit hat der Kläger vom Beklagten die Unterlassung folgender Äußerung begehrt: "Die Tatsache, dass Herr …
+- [BGH, Beschluss vom 07.05.2007 - VI ZR 253/05](vi-zr-253-05.md) — I. 1 Der in der Hauptsache für erledigt erklärte Rechtsstreit hat die negative Feststellung hinsichtlich eines Anspruchs auf Unterlassung folgender Äußerung zum Gegenstand: 2 "Die …
+- [BGH, Beschluss vom 25.04.2007 - VI ZB 66/06](vi-zb-66-06.md) — mit der Rechtsbe-
 - [BGH, Urteil vom 17.04.2007 - VI ZR 108/06](vi-zr-108-06.md) — der möglichen Nebenwirkungen darauf verzichten will.
+- [BGH, Urteil vom 17.04.2007 - VI ZR 109/06](vi-zr-109-06.md) — 3-
 - [BGH, Beschluss vom 17.04.2007 - VI ZR 127/06](vi-zr-127-06.md) — BGH, Beschluss vom 17.04.2007 - VI ZR 127/06
 - [BGH, Urteil vom 27.03.2007 - VI ZR 101/06](vi-zr-101-06.md) — eines in ein Meinungsforum im Internet eingestellten ehrverletzenden Beitrags kann auch dann gegen den Betreiber des Forums gegeben sein, we
+- [BGH, Beschluss vom 27.03.2007 - VI ZR 142/06](vi-zr-142-06.md) — Die zulässige Gehörsrüge (§§ 555 Abs. 1 Satz 1, 321a Abs. 4 ZPO) ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte verpflichtet, das Vorbringen der Parteien zur …
+- [BGH, Urteil vom 27.03.2007 - VI ZR 55/05](vi-zr-55-05.md) — Behandlungs- und Aufklärungsfehlern im Zusammenhang mit einem Heilversuch mit einem neuen, erst im Laufe der Behandlung zugelassenen Arzneim
 - [BGH, Beschluss vom 26.03.2007 - VI ZR 125/06](vi-zr-125-06.md) — Die zulässige Gehörsrüge (§§ 555 Abs. 1 Satz 1, 321a Abs. 4 ZPO) ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte verpflichtet, das Vorbringen der Parteien zur …
 - [BGH, Urteil vom 20.03.2007 - VI ZR 158/06](vi-zr-158-06.md) — Tatbestand:
+- [BGH, Urteil vom 20.03.2007 - VI ZR 254/05](vi-zr-254-05.md) — einer nach Nichtzahlung eines Auslagenvorschusses (§ 379 ZPO) oder nach Versäumung einer Ausschlussfrist (§ 356 ZPO) fehlenden Möglichkeit d
 - [BGH, Beschluss vom 16.03.2007 - VI ZR 273/05](vi-zr-273-05.md) — BGH, Beschluss vom 16.03.2007 - VI ZR 273/05
 - [BGH, Beschluss vom 16.03.2007 - VI ZR 42/06](vi-zr-42-06.md) — BGH, Beschluss vom 16.03.2007 - VI ZR 42/06
 - [BGH, Urteil vom 13.03.2007 - VI ZR 129/06](vi-zr-129-06.md) — seiner aus dem Unfall resultierenden Schadensersatzforderung gegen den am Prozess bisher nicht beteiligten Zedenten bei seinem Gerichtsstand
 - [BGH, Urteil vom 13.03.2007 - VI ZR 178/05](vi-zr-178-05.md) — einer Verletzung
 - [BGH, Urteil vom 13.03.2007 - VI ZR 216/05](vi-zr-216-05.md) — Tatbestand:
+- [BGH, Beschluss vom 12.03.2007 - VI ZB 75/06](vi-zb-75-06.md) — 1. Die Erinnerung gegen den Kostenansatz vom 23. Januar 2007 ist un- begründet. Für die Verwerfung der Rechtsbeschwerde mit Beschluss vom 16. Januar 2007 ist die Festgebühr gemäß …
 - [BGH, Urteil vom 06.03.2007 - VI ZR 120/06](vi-zr-120-06.md) — BGH, Urteil vom 06.03.2007 - VI ZR 120/06
 - [BGH, Urteil vom 06.03.2007 - VI ZR 13/06](vi-zr-13-06.md) — Tatbestand:
+- [BGH, Urteil vom 06.03.2007 - VI ZR 14/06](vi-zr-14-06.md) — Tatbestand:
 - [BGH, Urteil vom 06.03.2007 - VI ZR 36/06](vi-zr-36-06.md) — der Notwendigkeit, eine Kaution zu leisten und in Vorkasse zu treten, abgelehnt.
+- [BGH, Urteil vom 06.03.2007 - VI ZR 50/06](vi-zr-50-06.md) — der angegriffenen Bildveröffentlichungen in der Zeitschrift "Frau im Spiegel" Ausgabe Nr. 9/03 vom 20. Februar 2003 und Ausgabe Nr. 12/04 vo
+- [BGH, Urteil vom 06.03.2007 - VI ZR 51/06](vi-zr-51-06.md) — der angegriffenen Bildveröffentlichungen in der Zeitschrift "Frau im Spiegel" Ausgabe Nr. 9/03 vom 20. Februar 2003 und Ausgabe Nr. 12/04 vo
 - [BGH, Urteil vom 06.03.2007 - VI ZR 52/06](vi-zr-52-06.md) — Tatbestand:
 - [BGH, Urteil vom 06.03.2007 - VI ZR 53/06](vi-zr-53-06.md) — Tatbestand:
 - [BGH, Beschluss vom 05.03.2007 - VI ZR 255/06](vi-zr-255-06.md) — BGH, Beschluss vom 05.03.2007 - VI ZR 255/06
+- [BGH, Beschluss vom 13.02.2007 - VI ZB 39/06](vi-zb-39-06.md) — I. 1 Der Kläger begehrt von den Beklagten Schadensersatz nach ei- nem Verkehrsunfall. Ursprünglich hat er seinen Schaden auf 2.492,80 € bezif- fert. Dieser Betrag setzt sich aus …
+- [BGH, Beschluss vom 13.02.2007 - VI ZB 70/06](vi-zb-70-06.md) — I. 1 Mit Urteil des Amtsgerichts K. vom 23. Mai 2006 ist der Beklagte verur- teilt worden, an die Klägerin 3.579,04 € nebst Zinsen zu zahlen. Das Urteil ist seinem …
 - [BGH, Urteil vom 13.02.2007 - VI ZR 105/06](vi-zr-105-06.md) — Tatbestand:
+- [BGH, Beschluss vom 13.02.2007 - VI ZR 174/06](vi-zr-174-06.md) — Verbrennungen an ihren Händen, die nach ei-
 - [BGH, Urteil vom 13.02.2007 - VI ZR 58/06](vi-zr-58-06.md) — Tatbestand:
+- [BGH, Beschluss vom 06.02.2007 - VI ZB 41/06](vi-zb-41-06.md) — Verletzung der Verkehrssiche-
+- [BGH, Urteil vom 06.02.2007 - VI ZR 274/05](vi-zr-274-05.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 06.02.2007 - VI ZR 55/06](vi-zr-55-06.md) — Tatbestand:
 - [BGH, Urteil vom 30.01.2007 - VI ZR 99/06](vi-zr-99-06.md) — Tatbestand:
+- [BGH, Beschluss vom 23.01.2007 - VI ZB 5/06](vi-zb-5-06.md) — eines Behandlungsfehlers Schadensersatz-
 - [BGH, Beschluss vom 23.01.2007 - VI ZB 61/06](vi-zb-61-06.md) — I. 1 Die Klägerin hat die Beklagten zu 1 bis 4 als Gesamtschuldner auf Scha- densersatz in Höhe von 140.515.340,00 € in Anspruch genommen. Die Beklag- ten zu 1 und 2 wurden im …
+- [BGH, Urteil vom 23.01.2007 - VI ZR 146/06](vi-zr-146-06.md) — Tatbestand:
 - [BGH, Urteil vom 23.01.2007 - VI ZR 18/06](vi-zr-18-06.md) — Tatbestand:
+- [BGH, Urteil vom 23.01.2007 - VI ZR 243/05](vi-zr-243-05.md) — Tatbestand:
 - [BGH, Urteil vom 23.01.2007 - VI ZR 67/06](vi-zr-67-06.md) — Tatbestand:
 - [BGH, Beschluss vom 16.01.2007 - VI ZR 166/06](vi-zr-166-06.md) — BGH, Beschluss vom 16.01.2007 - VI ZR 166/06
+- [BGH, Urteil vom 16.01.2007 - VI ZR 248/05](vi-zr-248-05.md) — Tatbestand:
+- [BGH, Beschluss vom 09.01.2007 - VI ZR 133/06](vi-zr-133-06.md) — Die Nichtzulassungsbeschwerde hat Erfolg, soweit sich die Klägerin ge- gen die Abweisung ihrer Anträge auf Feststellung der Ersatzverpflichtung der Beklagten für sämtliche …
+- [BGH, Urteil vom 09.01.2007 - VI ZR 139/06](vi-zr-139-06.md) — unstreitiger Verjährung des Direktanspruchs gegen den Haftpflichtversicherer des Schädigers nach Ablauf von zehn Jahren (§ 3 Nr. 3 Satz 2 Ha
 - [BGH, Urteil vom 09.01.2007 - VI ZR 59/06](vi-zr-59-06.md) — Tatbestand:

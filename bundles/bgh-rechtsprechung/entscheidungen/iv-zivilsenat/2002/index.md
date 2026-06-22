@@ -1,17 +1,48 @@
 # IV. Zivilsenat – 2002
 
-26 Entscheidung(en).
+63 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2002 - IV ZB 23/02](iv-zb-23-02.md) — BGH, Beschluss vom 18.12.2002 - IV ZB 23/02
 - [BGH, Urteil vom 18.12.2002 - IV ZR 39/02](iv-zr-39-02.md) — Tatbestand: Die Parteien streiten um das Bezugsrecht aus einer Lebensversicherung des verstorbenen Ehemannes der Klägerin.
+- [BGH, Beschluss vom 18.12.2002 - IV ZR 71/02](iv-zr-71-02.md) — Das Berufungsgericht hat übersehen, daß die Klage bereits im ersten Rechtszug in Höhe von 2.244,90 DM nebst anteiliger Zinsen zurückgenommen worden war und die Klägerin diesen …
 - [BGH, Beschluss vom 11.12.2002 - IV ZB 36/02](iv-zb-36-02.md) — Die vom Beklagten gegen die Beschwerdeentscheidung des Landgerichts vom 14.
 - [BGH, Urteil vom 11.12.2002 - IV ZR 226/01](iv-zr-226-01.md) — Tatbestand: Die Kläger sind die Mitglieder einer Wohnungseigentümergemeinschaft. Sie verlangen von dem beklagten Haftpflichtversicherer Ersa
 - [BGH, Urteil vom 11.12.2002 - IV ZR 302/01](iv-zr-302-01.md) — Tatbestand: Der Kläger unterhält bei der beklagten Versicherungsgesellschaft seit dem 1. Juni 1993 eine Kapitallebensversicherung mit einges
+- [BGH, Urteil vom 27.11.2002 - IV ZR 159/01](iv-zr-159-01.md) — 3-
+- [BGH, Beschluss vom 20.11.2002 - IV ZR 197/02](iv-zr-197-02.md) — seiner Tätigkeit als Testamentsvollstrecker u.a. zu Schadensersatz nach § 2219 BGB verurteilt worden. Nur insoweit erstrebt er mit der Revis
+- [BGH, Beschluss vom 13.11.2002 - IV ZR 146/01](iv-zr-146-01.md) — der nach ihrer Behauptung vollmachtlosen Revisionseinlegung auseinanderzusetzen.
+- [BGH, Urteil vom 30.10.2002 - IV ZR 119/01](iv-zr-119-01.md) — Tatbestand:
+- [BGH, Urteil vom 30.10.2002 - IV ZR 60/01](iv-zr-60-01.md) — Tatbestand: Der Kläger ist ein eingetragener Verein, der nach seiner Satzung Verbraucherinteressen wahrnimmt und in die Liste der qualifizie
+- [BGH, Beschluss vom 23.10.2002 - IV ZR 154/02](iv-zr-154-02.md) — Invalidität) verpflichtet sei. Die Vorinstanzen haben diesen Klageantrag abgewiesen. Dagegen wendet sich der Kläger nicht, soweit es um Kran
+- [BGH, Beschluss vom 23.10.2002 - IV ZR 280/01](iv-zr-280-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Beschluss vom 16.10.2002 - IV ZR 307/01](iv-zr-307-01.md) — BGH, Beschluss vom 16.10.2002 - IV ZR 307/01
+- [BGH, Beschluss vom 16.10.2002 - IV ZR 308/01](iv-zr-308-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 16.10.2002 - IV ZR 361/02](iv-zr-361-02.md) — BGH, Beschluss vom 16.10.2002 - IV ZR 361/02
+- [BGH, Urteil vom 02.10.2002 - IV ZR 276/01](iv-zr-276-01.md) — Tatbestand:
+- [BGH, Urteil vom 02.10.2002 - IV ZR 309/01](iv-zr-309-01.md) — 3-
+- [BGH, Urteil vom 25.09.2002 - IV ZR 212/01](iv-zr-212-01.md) — Tatbestand :
+- [BGH, Urteil vom 25.09.2002 - IV ZR 248/01](iv-zr-248-01.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Versicherungsschutz aufgrund eines am 1. April 1999 abgeschlossenen Rechtsschutzversiche
 - [BGH, Urteil vom 18.09.2002 - IV ZR 287/01](iv-zr-287-01.md) — Tatbestand: Der Kläger macht als Testamentsvollstrecker einen Schadensersatzanspruch aus § 2219 Abs. 1 BGB gegen den Beklagten geltend, der
+- [BGH, Beschluss vom 17.07.2002 - IV ZB 20/02](iv-zb-20-02.md) — BGH, Beschluss vom 17.07.2002 - IV ZB 20/02
+- [BGH, Urteil vom 17.07.2002 - IV ZR 150/01](iv-zr-150-01.md) — Tatbestand: Der Kläger nimmt die beklagte Versicherungsgesellschaft auf Zahlung von Krankentagegeld in Anspruch.
 - [BGH, Urteil vom 17.07.2002 - IV ZR 268/01](iv-zr-268-01.md) — Tatbestand: Der Kläger nimmt die Beklagte auf Deckungsschutz aus einer mit ihr abgeschlossenen Haftpflichtversicherung für Rechtsanwälte in
 - [BGH, Beschluss vom 17.07.2002 - IV ZR 279/01](iv-zr-279-01.md) — BGH, Beschluss vom 17.07.2002 - IV ZR 279/01
+- [BGH, Beschluss vom 17.07.2002 - IV ZR 54/02](iv-zr-54-02.md) — der Kostenerstattungsansprüche der Beklagten ihnen im Sinne des § 719 Abs. 2 ZPO einen nicht zu ersetzenden Nachteil bringen würde. Regelmäß
 - [BGH, Beschluss vom 10.07.2002 - IV ZA 6/02](iv-za-6-02.md) — BGH, Beschluss vom 10.07.2002 - IV ZA 6/02
+- [BGH, Urteil vom 03.07.2002 - IV ZR 145/01](iv-zr-145-01.md) — Tatbestand: Die Parteien streiten darüber, ob die Beklagte zur Dynamisierung der Versicherungsleistungen aus einer Kapitallebensversicherung
+- [BGH, Beschluss vom 03.07.2002 - IV ZR 191/01](iv-zr-191-01.md) — der weiteren Stufen an das Landgericht zurück, richtet sich der Streitwert einer gegen dieses Berufungsurteil gerichteten Revision lediglich
+- [BGH, Beschluss vom 03.07.2002 - IV ZR 192/01](iv-zr-192-01.md) — Verjährung des Leistungsanspruchs insgesamt abgewiesen. Auf die Berufung des Klägers hat das Oberlandesgericht, weil es den Anspruch nicht f
+- [BGH, Urteil vom 03.07.2002 - IV ZR 205/01](iv-zr-205-01.md) — Tatbestand: Die Klägerin, Mutter des bei einem Verkehrsunfall tödlich verunglückten Versicherungsnehmers, fordert als Bezugsberechtigte vom
+- [BGH, Urteil vom 03.07.2002 - IV ZR 227/01](iv-zr-227-01.md) — Tatbestand:
+- [BGH, Urteil vom 19.06.2002 - IV ZR 147/01](iv-zr-147-01.md) — Tatbestand: Im vorliegenden Revisionsverfahren geht es nur um die verfahrensrechtliche Frage, ob der Kläger rechtzeitig Berufung gegen das k
+- [BGH, Urteil vom 19.06.2002 - IV ZR 168/01](iv-zr-168-01.md) — Tatbestand: Die in den Jahren 1923 und 1922 geborenen Kläger wenden sich gegen die Zwangsvollstreckung aus einer notariellen Urkunde.
+- [BGH, Versäumnisurteil vom 19.06.2002 - IV ZR 270/00](iv-zr-270-00.md) — 3-
+- [BGH, Beschluss vom 12.06.2002 - IV ZR 232/01](iv-zr-232-01.md) — anhaltender Schmerzen nicht in der Lage, Gerichtstermine wahrzunehmen.
+- [BGH, Beschluss vom 12.06.2002 - IV ZR 40/02](iv-zr-40-02.md) — I. Das Feststellungsbegehren des Klägers, zu 1/4 Miterbe nach seiner 1999 verstorbenen Mutter geworden zu sein, ist in den Vorinstanzen erfolglos geblieben. Das Berufungsgericht …
+- [BGH, Urteil vom 15.05.2002 - IV ZR 100/01](iv-zr-100-01.md) — Tatbestand: Der Kläger macht Ansprüche aus einer Krankentagegeldversicherung geltend.
+- [BGH, Beschluss vom 15.05.2002 - IV ZR 262/01](iv-zr-262-01.md) — ihres Betreuungsaufwands geltend gemacht habe, konkludent eine Hilfsaufrechnung erklärt.
+- [BGH, Urteil vom 08.05.2002 - IV ZR 239/00](iv-zr-239-00.md) — Tatbestand:
+- [BGH, Beschluss vom 08.05.2002 - IV ZR 263/01](iv-zr-263-01.md) — dieser Grundschuld betreibt die Beklagte nunmehr die Zwangsvollstreckung.
 - [BGH, Urteil vom 24.04.2002 - IV ZR 126/01](iv-zr-126-01.md) — BGH, Urteil vom 24.04.2002 - IV ZR 126/01
 - [BGH, Urteil vom 24.04.2002 - IV ZR 57/01](iv-zr-57-01.md) — Tatbestand: Die Kläger machen gegen die Beklagte, ihre Schwester, Pflichtteilsansprüche nach ihrer am 24. März 1994 verstorbenen Mutter gelt
 - [BGH, Urteil vom 24.04.2002 - IV ZR 69/01](iv-zr-69-01.md) — Tatbestand: Die Klägerin verlangt von der Beklagten die Rückzahlung von Versicherungsleistungen aus ungerechtfertigter Bereicherung.
@@ -19,12 +50,18 @@
 - [BGH, Urteil vom 17.04.2002 - IV ZR 259/01](iv-zr-259-01.md) — Tatbestand: Der Kläger verlangt von der Beklagten, seiner Schwester, die Ermittlung des Wertes eines Grundstücks. Es war der Beklagten von d
 - [BGH, Urteil vom 17.04.2002 - IV ZR 89/01](iv-zr-89-01.md) — Tatbestand :
 - [BGH, Urteil vom 17.04.2002 - IV ZR 91/01](iv-zr-91-01.md) — Tatbestand:
+- [BGH, Beschluss vom 10.04.2002 - IV ZR 274/01](iv-zr-274-01.md) — Das mit der Berufung vom Kläger zur Vorbereitung von Pflichtteilsansprüchen weiterverfolgte Auskunftsinteresse ist gemäß § 3 ZPO danach zu schätzen, in welchem Maß die …
 - [BGH, Beschluss vom 20.03.2002 - IV ZR 145/00](iv-zr-145-00.md) — BGH, Beschluss vom 20.03.2002 - IV ZR 145/00
 - [BGH, Beschluss vom 20.03.2002 - IV ZR 3/01](iv-zr-3-01.md) — BGH, Beschluss vom 20.03.2002 - IV ZR 3/01
 - [BGH, Urteil vom 20.03.2002 - IV ZR 93/01](iv-zr-93-01.md) — BGH, Urteil vom 20.03.2002 - IV ZR 93/01
 - [BGH, Urteil vom 13.03.2002 - IV ZR 40/01](iv-zr-40-01.md) — Tatbestand: Der Kläger verlangt von der Beklagten Invaliditätsentschädigung aus einer Unfallversicherung, der die Allgemeinen Unfallversiche
+- [BGH, Beschluss vom 13.03.2002 - IV ZR 86/01](iv-zr-86-01.md) — nicht berufen, weil sie mit den unstreitigen 317.752 DM einen die Gegenforderung des Beklagten übersteigenden Geldbetrag aus dem Nachlaß erh
 - [BGH, Beschluss vom 27.02.2002 - IV ZR 11/02](iv-zr-11-02.md) — seiner Krankheit daran gehindert war, einen beim Bundesgerichtshof zugelassenen Rechtsanwalt zu beauftragen.
+- [BGH, Beschluss vom 27.02.2002 - IV ZR 191/00](iv-zr-191-00.md) — I. Die Parteien haben über den Bestand und die rechtlichen Folgen eines notariellen Vertrages vom 23. Februar 1995 gestritten, in dem die Klägerin die Beklagten zu ihren …
+- [BGH, Urteil vom 27.02.2002 - IV ZR 238/00](iv-zr-238-00.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Leistungen aus einer Unfallversicherung, der Allgemeine Unfallversicherungs-Bedingungen
 - [BGH, Urteil vom 27.02.2002 - IV ZR 271/00](iv-zr-271-00.md) — Tatbestand: Der Kläger und sein im Juli 1998 verstorbener Bruder W. G. waren im Ergebnis hälftige Miterben des Nachlasses ihrer Mutter S. G.
+- [BGH, Urteil vom 06.02.2002 - IV ZR 106/01](iv-zr-106-01.md) — Tatbestand: Die Klägerin, die einen Großhandel mit Lebensmitteln betrieben hat, hatte bei dem beklagten Versicherungsverein a.G. eine Einbru
 - [BGH, Urteil vom 30.01.2002 - IV ZR 23/01](iv-zr-23-01.md) — Tatbestand: Der Kläger, Beamter im Justizvollzugsdienst, begehrt die Zahlung einer Berufsunfähigkeitsrente.
 - [BGH, Urteil vom 30.01.2002 - IV ZR 263/00](iv-zr-263-00.md) — Tatbestand: Der Kläger hatte für seinen geleasten PKW BMW 740 bei der Beklagten eine Teilkaskoversicherung genommen. Mit der Behauptung, das
 - [BGH, Urteil vom 23.01.2002 - IV ZR 174/01](iv-zr-174-01.md) — Tatbestand: Die Klägerin, ein Speditionsunternehmen, nimmt die Beklagte als Speditionsversicherer auf Ersatz von Aufwendungen in Anspruch. D
+- [BGH, Beschluss vom 16.01.2002 - IV ZB 20/01](iv-zb-20-01.md) — A. Die Beteiligten streiten über die Erbfolge nach der am 22. Dezember 1998 im Alter von 91 Jahren verstorbenen Erblasserin. Ihr Ehemann starb bereits im Jahre 1957. Aus der Ehe …

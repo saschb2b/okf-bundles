@@ -1,21 +1,55 @@
 # VIII. Zivilsenat – 2000
 
-25 Entscheidung(en).
+59 Entscheidung(en).
 
+- [BGH, Urteil vom 20.12.2000 - VIII ZR 36/00](viii-zr-36-00.md) — Tatbestand: Der Kläger als Insolvenzverwalter über das Vermögen der Firma D.
+- [BGH, Beschluss vom 19.12.2000 - VIII ZB 35/00](viii-zb-35-00.md) — Versäumung der Beru-
+- [BGH, Beschluss vom 19.12.2000 - VIII ZR 101/00](viii-zr-101-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 19.12.2000 - VIII ZR 120/00](viii-zr-120-00.md) — Die Revision bietet im Ergebnis keine Aussicht auf Erfolg.
+- [BGH, Beschluss vom 19.12.2000 - VIII ZR 76/00](viii-zr-76-00.md) — der von der Beklagten erklärten Hilfsaufrechnung abgewiesen hat, in Rechtskraft erwachsen, weil allein die Klägerin gegen diese Entscheidung
+- [BGH, Urteil vom 13.12.2000 - VIII ZR 260/99](viii-zr-260-99.md) — der Prozeßkosten Sicherheit zu leisten.
 - [BGH, Beschluss vom 07.12.2000 - VIII ZR 321/99](viii-zr-321-99.md) — zu berichtigen war (§ 319 Abs. 1 und 2 ZPO).
+- [BGH, Urteil vom 22.11.2000 - VIII ZR 40/00](viii-zr-40-00.md) — Tatbestand: Die Beklagte ist Generalimporteur für C. -Jeep-Fahrzeuge und -Zubehör für die Bundesrepublik Deutschland. Am 7. und 14. Dezember
+- [BGH, Beschluss vom 21.11.2000 - VIII ZB 11/00](viii-zb-11-00.md) — I. Gegen das klageabweisende Urteil des Landgerichts hat die Klägerin fristgerecht mit am 5. November 1999 beim Kammergericht eingegangenem Schriftsatz Berufung eingelegt. Am 22 …
+- [BGH, Beschluss vom 21.11.2000 - VIII ZB 24/00](viii-zb-24-00.md) — Versäumung der Berufungsbegründungsfrist begehrt. Zur Begründung hat er vorgetragen, die Rechtsanwaltsangestellte W. seiner Prozeßbevollmäch
+- [BGH, Versäumnisurteil vom 15.11.2000 - VIII ZR 322/99](viii-zr-322-99.md) — Tatbestand: Die Klägerin, eine Brauerei, gewährte dem (früheren) Beklagten zu 1 und dem Beklagten zu 2 gemäß Darlehens- und Getränkelieferun
+- [BGH, Urteil vom 15.11.2000 - VIII ZR 324/99](viii-zr-324-99.md) — 3-
 - [BGH, Beschluss vom 15.11.2000 - VIII ZR 60/00](viii-zr-60-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 25.10.2000 - VIII ZB 30/00](viii-zb-30-00.md) — I. Die Klägerin handelt mit Kraftstoffen und Mineralölen, die sie über ein eigenes regionales Tankstellennetz absetzt. Die Verwaltung von zunächst sechs, später vier dieser …
+- [BGH, Beschluss vom 25.10.2000 - VIII ZB 66/99](viii-zb-66-99.md) — I. Die Beklagten haben gegen das Urteil des Landgerichts, in dem sie als Gesamtschuldner zur Zahlung von 13.142 DM nebst Zinsen verurteilt wor- den sind, am 13. September 1999 …
+- [BGH, Versäumnisurteil vom 25.10.2000 - VIII ZR 306/99](viii-zr-306-99.md) — Tatbestand: Der Kläger begehrt von den Beklagten die Zahlung des Kaufpreises in Höhe von 116.011,75 DM nebst Zinsen und Mahnkosten für vier
+- [BGH, Urteil vom 25.10.2000 - VIII ZR 326/99](viii-zr-326-99.md) — Tatbestand:
+- [BGH, Urteil vom 18.10.2000 - VIII ZR 14/00](viii-zr-14-00.md) — Tatbestand: Die Klägerin nimmt die Beklagte aus mehreren Einzelrechnungen auf Bezahlung gelieferten Wegebaumaterials in Anspruch. Nachdem di
+- [BGH, Beschluss vom 11.10.2000 - VIII ZB 18/00](viii-zb-18-00.md) — Die Gebührenbefreiung nach § 25 Abs. 4 Satz 1 GKG setzt die Statthaftigkeit der Beschwerde gegen die Wertfestsetzung voraus (§ 25 Abs. 3 Satz 1 und 2 GKG). Das Rechtsmittel der …
+- [BGH, Versäumnisurteil vom 11.10.2000 - VIII ZR 276/99](viii-zr-276-99.md) — Tatbestand: Die Klägerin begehrt von der Beklagten Zinszahlungen in Höhe von 1.467.083,59 DM gemäß § 25 DM-Bilanzgesetz für die Zeit vom 1.
 - [BGH, Urteil vom 04.10.2000 - VIII ZR 109/99](viii-zr-109-99.md) — Tatbestand: Die Klägerin verlangt von der Beklagten als Schadensersatz wegen der Lieferung teilweise fehlerhafter Transistoren zwischen Nove
 - [BGH, Urteil vom 04.10.2000 - VIII ZR 289/99](viii-zr-289-99.md) — Tatbestand: Die Klägerin erwarb aufgrund notariellen Kaufvertrages vom 20. März 1991 von der Beklagten sämtliche Geschäftsanteile der B. -B.
 - [BGH, Beschluss vom 04.10.2000 - VIII ZR 64/00](viii-zr-64-00.md) — Das Berufungsgericht hat jedenfalls im Ergebnis zu Recht angenommen, daß das Schiedsgutachten offenbar unrichtig und deshalb für die Parteien nicht verbindlich ist.
+- [BGH, Urteil vom 27.09.2000 - VIII ZR 155/99](viii-zr-155-99.md) — BGH, Urteil vom 27.09.2000 - VIII ZR 155/99
 - [BGH, Urteil vom 13.09.2000 - VIII ZR 34/00](viii-zr-34-00.md) — Tatbestand: Der Kläger nimmt als Verbraucherschutzverein die Interessen der Verbraucher durch Aufklärung und Beratung im Sinne von § 13 Abs.
 - [BGH, Beschluss vom 18.07.2000 - VIII ZR 12/00](viii-zr-12-00.md) — I. Der Kläger ist ein eingetragener Verein, zu dessen satzungsmäßigen Aufgaben es gehört, die Interessen der Verbraucher durch Aufklärung und Beratung wahrzunehmen. Er nimmt die …
+- [BGH, Beschluss vom 18.07.2000 - VIII ZR 270/99](viii-zr-270-99.md) — Die Revision hat weder grundsätzliche Bedeutung, noch hat sie im Endergebnis Aussicht auf Erfolg.
+- [BGH, Beschluss vom 18.07.2000 - VIII ZR 323/99](viii-zr-323-99.md) — Vorgreiflichkeit eines anderen Verfahrens nimmt das Gesetz in § 148 ZPO den
+- [BGH, Beschluss vom 12.07.2000 - VIII ZR 2/99](viii-zr-2-99.md) — des Fehlens der Kopffüllmaschine und der Winde
+- [BGH, Urteil vom 12.07.2000 - VIII ZR 99/99](viii-zr-99-99.md) — Tatbestand: Der Kläger begehrt als Verwalter im Gesamtvollstreckungsverfahren über das Vermögen der Firma S. /N. GmbH (im folgenden: Gemeins
+- [BGH, Beschluss vom 05.07.2000 - VIII ZB 28/99](viii-zb-28-99.md) — I. Die Beklagte hat gegen das zweite Versäumnisurteil des Landgerichts, mit welchem das sie zur Zahlung von 35.877,77 DM verpflichtende erste Versäumnisurteil aufrechterhalten …
 - [BGH, Beschluss vom 28.06.2000 - VIII ZB 30/99](viii-zb-30-99.md) — I. Gegen das Urteil des Landgerichts Rostock vom 27. November 1997, das ihr am 2. Dezember 1997 zugestellt wurde, legte die Beklagte am 2. Januar 1998 mit Telefax fristgemäß …
 - [BGH, Urteil vom 28.06.2000 - VIII ZR 240/99](viii-zr-240-99.md) — Zahlungsverzugs insgesamt davon ab, daß gegen-
+- [BGH, Urteil vom 14.06.2000 - VIII ZR 218/99](viii-zr-218-99.md) — Tatbestand:
+- [BGH, Urteil vom 14.06.2000 - VIII ZR 73/99](viii-zr-73-99.md) — Tatbestand: Die Beklagte hatte verschiedene gebrauchte Wärmetauscher auf Lager, an deren Erwerb der Kläger interessiert war. Die Beklagte üb
 - [BGH, Urteil vom 07.06.2000 - VIII ZR 268/99](viii-zr-268-99.md) — Tatbestand: Der Kläger schloß am 5. Juli 1996 mit dem Land Nordrhein-Westfalen (im folgenden: Verkäufer) einen notariellen Kaufvertrag über
+- [BGH, Urteil vom 24.05.2000 - VIII ZR 329/98](viii-zr-329-98.md) — Tatbestand:
 - [BGH, Urteil vom 17.05.2000 - VIII ZR 210/99](viii-zr-210-99.md) — Tatbestand: Der Beklagte war in der Zeit zwischen September 1996 und Mai 1997 Geschäftsführer der W. -B. GmbH. Die Klägerin hat ihn und die
 - [BGH, Urteil vom 17.05.2000 - VIII ZR 216/99](viii-zr-216-99.md) — dieses Mangels aufzuheben.
+- [BGH, Beschluss vom 12.04.2000 - VIII ZB 15/99](viii-zb-15-99.md) — I. Das Landgericht hat die Beklagte mit Teilurteil vom 29. Januar 1998 zur Erteilung eines Buchauszuges verurteilt. Mit Beschluß vom 1. März 1999 hat das Oberlandesgericht die …
+- [BGH, Beschluss vom 12.04.2000 - VIII ZR 318/99](viii-zr-318-99.md) — BGH, Beschluss vom 12.04.2000 - VIII ZR 318/99
+- [BGH, Urteil vom 29.03.2000 - VIII ZR 297/98](viii-zr-297-98.md) — Tatbestand:
+- [BGH, Urteil vom 29.03.2000 - VIII ZR 81/99](viii-zr-81-99.md) — Tatbestand:
+- [BGH, Urteil vom 22.03.2000 - VIII ZR 325/98](viii-zr-325-98.md) — Tatbestand: Der Kläger begehrt Wandelung des mit dem Beklagten, einem BMWVertragshändler, im März 1996 geschlossenen Kaufvertrages über eine
 - [BGH, Urteil vom 15.03.2000 - VIII ZR 217/99](viii-zr-217-99.md) — Tatbestand: Das Landgericht hat die Beklagte antragsgemäß zur Kaufpreiszahlung nebst Zinsen an die Klägerin verurteilt. Die Beklagte hat dag
 - [BGH, Urteil vom 15.03.2000 - VIII ZR 31/99](viii-zr-31-99.md) — Tatbestand:
+- [BGH, Beschluss vom 09.03.2000 - VIII ZR 106/99](viii-zr-106-99.md) — keinen Erfolg haben, weil der Kläger für seine Behauptung, die von ihm vorgelegten e. -Auswertungen enthielten die tatsächlichen Umsatzzahle
+- [BGH, Beschluss vom 09.03.2000 - VIII ZR 76/99](viii-zr-76-99.md) — BGH, Beschluss vom 09.03.2000 - VIII ZR 76/99
 - [BGH, Urteil vom 01.03.2000 - VIII ZR 177/99](viii-zr-177-99.md) — der nach planmäßigem Vertragsablauf erfolgten Rückgabe des Leasingfahrzeugs in einem nicht vertragsgerechten Zustand nicht nach § 558 BGB in
 - [BGH, Urteil vom 01.03.2000 - VIII ZR 77/99](viii-zr-77-99.md) — Tatbestand:
 - [BGH, Urteil vom 16.02.2000 - VIII ZR 134/99](viii-zr-134-99.md) — Tatbestand: Die Parteien streiten um einen Ausgleichsanspruch, den der Kläger nach Beendigung einer Handelsvertretertätigkeit für den Beklag

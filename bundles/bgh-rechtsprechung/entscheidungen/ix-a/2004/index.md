@@ -1,51 +1,120 @@
 # IX A – 2004
 
-47 Entscheidung(en).
+116 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2004 - IXa ZB 142/04](ixa-zb-142-04.md) — I. Die Gläubigerin hatte gegen die Schuldnerin einen Pfändungs- und Überweisungsbeschluß des Amtsgerichts erwirkt. Sie hat dann beantragt, den Sohn der Schuldnerin bei der …
+- [BGH, Beschluss vom 21.12.2004 - IXa ZB 228/03](ixa-zb-228-03.md) — einer Hauptforderung von 40.168,17 € nebst Kosten und Zinsen. Der Schuldnerin steht das Nießbrauchsrecht an einem Haus zu, woraus sie monatl
 - [BGH, Beschluss vom 21.12.2004 - IXa ZB 273/03](ixa-zb-273-03.md) — gesetzlicher Unterhaltsansprüche überjährige Rückstände, trägt der Schuldner die Darlegungs- und Beweislast dafür, daß er sich seiner Zahlun
 - [BGH, Beschluss vom 21.12.2004 - IXa ZB 281/03](ixa-zb-281-03.md) — I. Die Gläubiger hatten vom Schuldner eine Doppelhaushälfte gemietet, aus der sie am 29. Februar 2004 nach Kündigung des Mietverhältnisses mit Schreiben vom 28. November 2003 …
+- [BGH, Beschluss vom 21.12.2004 - IXa ZB 324/03](ixa-zb-324-03.md) — I. Das Landgericht verurteilte am 16. Dezember 1998 Frau A. P. , Inhaberin der Firma M. , unter anderem zur Räumung der in dem Urteil näher bezeichneten Gewerberäume auf dem …
 - [BGH, Beschluss vom 10.12.2004 - IXa ZA 4/04](ixa-za-4-04.md) — Aussichtslosigkeit der beabsichtigten Rechtsverfolgung nicht gewährt werden, § 114 ZPO. Eine Beschwerde gegen die Nichtzulassung der Rechtsb
+- [BGH, Beschluss vom 10.12.2004 - IXa ZB 146/04](ixa-zb-146-04.md) — I. Die Gläubiger verklagten den Schuldner auf Beseitigung einer Garage. Das Verfahren wurde durch einen gerichtlichen Vergleich beendet, in dessen Ziffer III. der Schuldner sich …
+- [BGH, Beschluss vom 10.12.2004 - IXa ZB 152/04](ixa-zb-152-04.md) — ausstehender Mietzahlungen einen Pfändungs- und Überweisungsbeschluß, den das Amtsgericht am 15. Oktober 2002 unter anderem gegen den Dritts
 - [BGH, Beschluss vom 10.12.2004 - IXa ZB 163/04](ixa-zb-163-04.md) — des nach seiner Ansicht zu geringen Meistgebotes zu verhindern. Der Beschwerdewert bestimmt sich hier gemäß § 54 Abs. 2 GKG grundsätzlich na
+- [BGH, Beschluss vom 10.12.2004 - IXa ZB 182/04](ixa-zb-182-04.md) — BGH, Beschluss vom 10.12.2004 - IXa ZB 182/04
+- [BGH, Beschluss vom 10.12.2004 - IXa ZB 231/03](ixa-zb-231-03.md) — I. Das Amtsgericht ordnete am 16. Januar 2001 auf Antrag der Gläubigerin die Zwangsverwaltung des im Rubrum näher bezeichneten Grundstücks an, das einen Verkehrswert von 5,7 Mio …
+- [BGH, Beschluss vom 10.12.2004 - IXa ZB 236/04](ixa-zb-236-04.md) — Die Beschwerde ist unzulässig; denn gegen Entscheidungen, die im Beschwerdeverfahren getroffen worden sind und keine Rechtsbeschwerde zulassen, sieht das Gesetz eine …
+- [BGH, Beschluss vom 10.12.2004 - IXa ZB 53/04](ixa-zb-53-04.md) — derzeit ein Verfahren. Diese Behauptungen des Schuldners verfolgten offensichtlich den Zweck, die wahren Einkommensverhältnisse zu verschlei
 - [BGH, Beschluss vom 10.12.2004 - IXa ZB 73/04](ixa-zb-73-04.md) — der Zahlung einer lebenslangen monatlichen Rente von 665,09 € einschließlich des seit Januar 2003 aufgelaufenen Rückstandes. Mit diesem Vert
 - [BGH, Beschluss vom 10.12.2004 - IXa ZB 87/04](ixa-zb-87-04.md) — Die gemäß § 5 Abs. 1 Satz 1 GKG a.F. statthafte und auch im übrigen zulässige Erinnerung gegen die Kostenrechnung ist unbegründet. Die Kosten sind gemäß §§ 11, 49 Satz 1, 54 Nr …
 - [BGH, Beschluss vom 05.11.2004 - IXa ZA 8/04](ixa-za-8-04.md) — BGH, Beschluss vom 05.11.2004 - IXa ZA 8/04
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 113/04](ixa-zb-113-04.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (vgl. BGH, Beschl. vom 13. März 2003 - IX ZB 134/02 - BGHZ 154, 2
 - [BGH, Beschluss vom 05.11.2004 - IXa ZB 13/04](ixa-zb-13-04.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (vgl. BGH, Beschl. v. 13. März 2003 - IX ZB 134/02 - BGHZ 154, 20
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 17/04](ixa-zb-17-04.md) — einer unbezahlten Arztrechnung einen Pfändungs- und Überweisungsbeschluß, mit dem deren Ansprüche an die Drittschuldnerin "auf sämtliche geg
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 18/04](ixa-zb-18-04.md) — zweier Werbeaussagen der Antragsgegnerinnen, die am 14. und 21. Oktober 2001 erschienen sind, die Festsetzung von Ordnungsmitteln nach § 890
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 202/03](ixa-zb-202-03.md) — I. Auf Antrag der weiteren Beteiligten zu 1 ordnete das Amtsgericht Wolfhagen am 18. Juni 2001 die Zwangsverwaltung des vorbezeichneten Wohnungseigentums an. Zum Verwalter wurde …
 - [BGH, Beschluss vom 05.11.2004 - IXa ZB 216/04](ixa-zb-216-04.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (vgl. BGH, Beschl. v. 13. März 2003 - IX ZB 134/02 - BGHZ 154, 20
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 27/04](ixa-zb-27-04.md) — Straßenbaubeiträgen, Grundsteuer und anderer öffentlich-rechtlicher Ansprüche in Höhe von etwa 3.000 € die Zwangsvollstreckung. Auf Antrag d
 - [BGH, Beschluss vom 05.11.2004 - IXa ZB 32/04](ixa-zb-32-04.md) — BGH, Beschluss vom 05.11.2004 - IXa ZB 32/04
 - [BGH, Beschluss vom 05.11.2004 - IXa ZB 33/03](ixa-zb-33-03.md) — BGH, Beschluss vom 05.11.2004 - IXa ZB 33/03
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 34/03](ixa-zb-34-03.md) — I. Auf Antrag der weiteren Beteiligten zu 1 ordnete das Amtsgericht Dresden am 11. Oktober 1999 die Zwangsverwaltung des vorbezeichneten Wohnungseigentums an. Zum Verwalter wurde …
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 35/03](ixa-zb-35-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (BGHZ 154, 200).
 - [BGH, Beschluss vom 05.11.2004 - IXa ZB 51/04](ixa-zb-51-04.md) — BGH, Beschluss vom 05.11.2004 - IXa ZB 51/04
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 57/04](ixa-zb-57-04.md) — laufenden und rückständigen Unterhalts. Auf ihren Antrag erließ das Amtsgericht einen Pfändungs- und Überweisungsbeschluß, durch den die Ans
 - [BGH, Beschluss vom 05.11.2004 - IXa ZB 76/04](ixa-zb-76-04.md) — persönlich zugestellt; der ihm nach dem Teilungsplan zustehende Übererlös von 184.518,38 DM (94.342,79 €) in amtliche Hinterlegung genommen.
+- [BGH, Beschluss vom 05.11.2004 - IXa ZB 77/04](ixa-zb-77-04.md) — I. Im Juni 2002 beauftragte der Rechtsanwalt der Gläubigerin den zuständigen Gerichtsvollzieher mit der Mobiliarpfändung und der Abnahme der eidesstattlichen Versicherung bei …
 - [BGH, Beschluss vom 13.10.2004 - IXa ZB 141/04](ixa-zb-141-04.md) — BGH, Beschluss vom 13.10.2004 - IXa ZB 141/04
+- [BGH, Beschluss vom 07.10.2004 - IXa ZA 6/04](ixa-za-6-04.md) — . Das Amtsgericht hat die Erinnerung des Schuldners gegen den Pfändungs- und Überweisungsbeschluß zurückgewiesen, durch den seine angebliche Forderung auf Auszahlung seines …
 - [BGH, Beschluss vom 28.09.2004 - IXa ZA 11/04](ixa-za-11-04.md) — BGH, Beschluss vom 28.09.2004 - IXa ZA 11/04
 - [BGH, Beschluss vom 24.09.2004 - IXa ZB 10/04](ixa-zb-10-04.md) — Befangenheit abgelehnt werden.
 - [BGH, Beschluss vom 24.09.2004 - IXa ZB 105/04](ixa-zb-105-04.md) — der Baugrundrisiken eine Festsetzung
+- [BGH, Beschluss vom 24.09.2004 - IXa ZB 115/04](ixa-zb-115-04.md) — eines Betrages in Höhe von 15.318,30 € nebst Zinsen. Er ließ den Drittschuldnern durch den Gerichtsvollzieher vorläufige Zahlungsverbote zus
 - [BGH, Beschluss vom 24.09.2004 - IXa ZB 137/04](ixa-zb-137-04.md) — Der vom Schuldner beantragte Erlaß einer einstweiligen Anordnung nach §§ 570 Abs.
+- [BGH, Beschluss vom 24.09.2004 - IXa ZB 185/04](ixa-zb-185-04.md) — Die Gegenvorstellung des Schuldners gibt zu einer Änderung der Kostenentscheidung und Wertfestsetzung des Beschlusses vom 30.
 - [BGH, Beschluss vom 24.09.2004 - IXa ZB 56/04](ixa-zb-56-04.md) — einer Forderung in Höhe von zuletzt 3.320,46 €. Die Schuldnerin lehnte den zuständigen Obergerichtsvollzieher H. , der bereits wiederholt au
 - [BGH, Beschluss vom 24.09.2004 - IXa ZB 58/04](ixa-zb-58-04.md) — laufenden und rückständigen Unterhalts. Auf ihren Antrag erließ das Amtsgericht einen Pfändungs- und Überweisungsbeschluß, in dem der pfändu
 - [BGH, Beschluss vom 24.09.2004 - IXa ZB 89/04](ixa-zb-89-04.md) — rückständigen und laufenden Kindesunterhalts und setzte den pfändungsfreien Betrag des Schuldners auf 615 Euro fest. Dagegen wandte sich der
 - [BGH, Beschluss vom 01.09.2004 - IXa ZB 168/04](ixa-zb-168-04.md) — BGH, Beschluss vom 01.09.2004 - IXa ZB 168/04
 - [BGH, Beschluss vom 25.08.2004 - IXa ZB 271/03](ixa-zb-271-03.md) — BGH, Beschluss vom 25.08.2004 - IXa ZB 271/03
+- [BGH, Beschluss vom 25.08.2004 - IXa ZB 32/03](ixa-zb-32-03.md) — angeblich überhöhter Festsetzung - von der weiteren Beteiligten zu 2c) eingelegten Rechtsmittel hatten keinen Erfolg. Mit der zugelassenen R
+- [BGH, Beschluss vom 16.08.2004 - IXa ZB 31/03](ixa-zb-31-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (BGHZ 154, 200).
 - [BGH, Beschluss vom 16.07.2004 - IXa ZB 191/03](ixa-zb-191-03.md) — BGH, Beschluss vom 16.07.2004 - IXa ZB 191/03
 - [BGH, Beschluss vom 16.07.2004 - IXa ZB 24/04](ixa-zb-24-04.md) — einer Geldforderung; sollten tatsächlich keine Aktien, sondern nur Anteilsrechte existieren, habe der Titel insoweit keinen vollstreckungsfä
+- [BGH, Beschluss vom 16.07.2004 - IXa ZB 287/03](ixa-zb-287-03.md) — der Ansprüche aus dem vorgenannten Titel die angebliche Forderung des Schuldners gegen das Land Brandenburg "auf Auszahlung des dem Schuldne
+- [BGH, Beschluss vom 16.07.2004 - IXa ZB 288/03](ixa-zb-288-03.md) — I. In Abteilung I des Grundbuchs von N waren seit 1994 B, G und N (der Beteiligte zu 2) "als Gesellschafter bürgerlichen Rechts" als Eigentümer des hier in Rede stehenden …
+- [BGH, Beschluss vom 16.07.2004 - IXa ZB 307/03](ixa-zb-307-03.md) — I. Das Amtsgericht hat die von der Gläubigerin beantragte Forderungspfändung abgelehnt, weil die Bezeichnung der Gläubigerin in dem als Titel vorgelegten Vollstreckungsbescheid …
+- [BGH, Beschluss vom 16.07.2004 - IXa ZB 326/03](ixa-zb-326-03.md) — Verstoßes gegen das Rechtsberatungsgesetz unwirksam sei, sich dies auf die Wirksamkeit der den Schuldtitel bildenden Urkunde vom 14. März 19
+- [BGH, Beschluss vom 16.07.2004 - IXa ZB 330/03](ixa-zb-330-03.md) — I. Die Antragstellerin war gemeinsam mit ihrem inzwischen verstorbenen Ehemann C. W. je zur ideellen Hälfte Berechtigte eines Erbbaurechts. Nach dem Tod ihres Ehemannes wurde sie …
+- [BGH, Beschluss vom 16.07.2004 - IXa ZB 44/04](ixa-zb-44-04.md) — und ohne weitere Gerichtsentscheidungen zu beachten. Denn anders als in § 850k ZPO hat der Gesetzgeber die Aufhebung der Pfändung nicht von
+- [BGH, Beschluss vom 16.07.2004 - IXa ZB 46/04](ixa-zb-46-04.md) — I. Die Gläubigerin betreibt gegen die Schuldnerin aus mehreren Titeln die Zwangsvollstreckung. Am 8. Mai 2003 erließ das Vollstreckungsgericht gegen die Schuldnerin Haftbefehl zur …
 - [BGH, Beschluss vom 30.06.2004 - IXa ZB 14/04](ixa-zb-14-04.md) — eines offensichtlichen Schreibversehens von Amts wegen dahin berichtigt, daß die Bezeichnung des H. W. anstelle von "Schuldner und Rechtsbes
+- [BGH, Beschluss vom 25.06.2004 - IXa ZA 9/04](ixa-za-9-04.md) — Die beabsichtigte Rechtsverfolgung hat aus den zutreffenden Gründen der angefochtenen Entscheidung keine hinreichende Aussicht auf Erfolg (§ 114 ZPO).
+- [BGH, Beschluss vom 25.06.2004 - IXa ZB 249/03](ixa-zb-249-03.md) — . Das Landgericht hat die sofortige Beschwerde der Schuldnerin gegen den Zuschlagsbeschluß des Vollstreckungsgerichts vom 10. Juni 2003 mit Beschluß vom 4. August 2003 …
+- [BGH, Beschluss vom 25.06.2004 - IXa ZB 267/03](ixa-zb-267-03.md) — I. Der Beteiligte zu 2) errichtete mit seinen Söhnen auf deren Grundstück eine Garage, wobei sie den erforderlichen Grenzabstand zum Grundstück des Rechtsbeschwerdeführers nicht …
 - [BGH, Beschluss vom 25.06.2004 - IXa ZB 29/04](ixa-zb-29-04.md) — BGH, Beschluss vom 25.06.2004 - IXa ZB 29/04
+- [BGH, Beschluss vom 25.06.2004 - IXa ZB 30/03](ixa-zb-30-03.md) — geringer Degression im Einzelfall ein Mißverhältnis zwischen der Tätigkeit des Verwalters und der so gesteigerten Vergütung zur Folge.
+- [BGH, Beschluss vom 25.06.2004 - IXa ZB 331/03](ixa-zb-331-03.md) — I. Die Vorinstanzen haben die beantragte Forderungspfändung abgelehnt, weil der als Titel vorgelegte Vollstreckungsbescheid die Gläubigerin nicht genügend bezeichne. Eine …
+- [BGH, Beschluss vom 25.06.2004 - IXa ZB 44/03](ixa-zb-44-03.md) — Mißverhältnisses zwischen der Mindestvergütung und der entfalteten außergerichtlichen Inkassotätigkeit eine Erhöhung der Zwangsverwalterverg
+- [BGH, Beschluss vom 19.05.2004 - IXa ZA 7/04](ixa-za-7-04.md) — Verletzung von Verfahrensgrundrechten oder "greifbarer Gesetzwidrigkeit" kommt nicht in Betracht (BGHZ 150, 133).
+- [BGH, Beschluss vom 19.05.2004 - IXa ZB 181/03](ixa-zb-181-03.md) — Verstoßes gegen eine Wettbewerbsklausel und betreibt das Verfahren zur Abgabe einer eidesstattlichen Versicherung nach § 889 ZPO.
 - [BGH, Beschluss vom 19.05.2004 - IXa ZB 182/03](ixa-zb-182-03.md) — BGH, Beschluss vom 19.05.2004 - IXa ZB 182/03
 - [BGH, Beschluss vom 19.05.2004 - IXa ZB 224/03](ixa-zb-224-03.md) — einer Hauptforderung von 2.438,12 € nebst Zinsen und Kosten. Im August 1999 gab der Schuldner die eidesstattliche Versicherung ab. Er erklär
 - [BGH, Beschluss vom 19.05.2004 - IXa ZB 28/04](ixa-zb-28-04.md) — BGH, Beschluss vom 19.05.2004 - IXa ZB 28/04
+- [BGH, Beschluss vom 19.05.2004 - IXa ZB 297/03](ixa-zb-297-03.md) — einer Geldforderung betrieben. Der Schuldner erstellte im Oktober 1999 ein Vermögensverzeichnis und gab die eidesstattliche Versicherung ab
+- [BGH, Beschluss vom 19.05.2004 - IXa ZB 305/03](ixa-zb-305-03.md) — I. Die Gläubigerin betreibt gegen den Schuldner die Zwangsvollstreckung aus einer notariellen Urkunde vom 20. August 1997 in Höhe eines Teilbetrages von 100.000 Euro. Die …
 - [BGH, Beschluss vom 19.05.2004 - IXa ZB 310/03](ixa-zb-310-03.md) — einer Hauptforderung in Höhe von 127.822,97 € nebst Zinsen und Kosten. Sie erwirkte vor dem Amtsgericht einen Pfändungs- und Überweisungsbes
+- [BGH, Beschluss vom 19.05.2004 - IXa ZB 322/03](ixa-zb-322-03.md) — einer Hauptforderung in Höhe von 613.550,26 € zuzüglich Zinsen und Kosten. Sie erwirkte einen Pfändungs- und Überweisungsbeschluß, der unter
+- [BGH, Beschluss vom 19.05.2004 - IXa ZB 6/04](ixa-zb-6-04.md) — einer Hauptforderung in Höhe von 570,49 € nebst Zinsen und Kosten. Er erwirkte einen Pfändungs- und Überweisungsbeschluß, der die Ansprüche
+- [BGH, Beschluss vom 19.05.2004 - IXa ZB 74/04](ixa-zb-74-04.md) — Das als Rechtsbeschwerde zu behandelnde Rechtsmittel ist unstatthaft, weil die Rechtsbeschwerde weder nach dem Gesetz allgemein eröffnet, noch vom Beschwerdegericht zugelassen …
+- [BGH, Beschluss vom 19.05.2004 - IXa ZB 79/04](ixa-zb-79-04.md) — Das als Rechtsbeschwerde zu behandelnde Rechtsmittel ist unstatthaft, weil die Rechtsbeschwerde weder nach dem Gesetz allgemein eröffnet noch vom Beschwerdegericht zugelassen …
 - [BGH, Beschluss vom 19.05.2004 - IXa ZB 80/04](ixa-zb-80-04.md) — BGH, Beschluss vom 19.05.2004 - IXa ZB 80/04
+- [BGH, Beschluss vom 10.05.2004 - IXa ZB 186/03](ixa-zb-186-03.md) — Das Rechtsmittel ist als Rechtsbeschwerde gegen den Beschluß des Oberlandesgerichts Hamm vom 18.
 - [BGH, Beschluss vom 10.05.2004 - IXa ZB 83/04](ixa-zb-83-04.md) — BGH, Beschluss vom 10.05.2004 - IXa ZB 83/04
+- [BGH, Beschluss vom 05.04.2004 - IXa ZB 34/04](ixa-zb-34-04.md) — BGH, Beschluss vom 05.04.2004 - IXa ZB 34/04
+- [BGH, Beschluss vom 05.04.2004 - IXa ZB 41/04](ixa-zb-41-04.md) — Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGHZ 150, 133). Die Rechtsbeschwerde ist ferner trotz entsprechender Bel
+- [BGH, Beschluss vom 05.04.2004 - IXa ZB 42/04](ixa-zb-42-04.md) — Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGHZ 150, 133). Die Rechtsbeschwerde ist ferner trotz entsprechender Bel
+- [BGH, Beschluss vom 19.03.2004 - IXa ZB 190/03](ixa-zb-190-03.md) — der beiden Grundschulden der Gläubigerin die Zwangsverwaltung des Wohnungseigentums an. Der Zwangsverwalter nahm es in Besitz. Mit Schreiben
 - [BGH, Beschluss vom 19.03.2004 - IXa ZB 199/03](ixa-zb-199-03.md) — I. Die Schuldnerinnen halten GmbH- und Kommanditanteile an den Drittschuldnerinnen. Sie haben ihre Geschäftsanteile mit privatschriftlichen und notariellen Verträgen zur Sicherung …
 - [BGH, Beschluss vom 19.03.2004 - IXa ZB 229/03](ixa-zb-229-03.md) — einer titulierten Hauptforderung in Höhe von 502,97 Euro zuzüglich Zinsen und Kosten. In einem vorformulierten Beschlußformular benannte er
+- [BGH, Beschluss vom 19.03.2004 - IXa ZB 23/03](ixa-zb-23-03.md) — fehlerhafter Besetzung des Beschwerdegerichts von Amts wegen aufzuheben (BGH, Beschl. v. 13. März 2003 – IX ZB 134/02, WM 2003, 701, z.V.b.
+- [BGH, Beschluss vom 19.03.2004 - IXa ZB 236/03](ixa-zb-236-03.md) — I. Die Rechtspflegerin hat der Gläubigerin durch Beschluß vom 23. Januar 2003 Prozeßkostenhilfe für die Zwangsvollstreckung aus einem Vergleich des Landgerichts Dortmund in das …
 - [BGH, Beschluss vom 19.03.2004 - IXa ZB 243/03](ixa-zb-243-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (vgl. BGH, Beschl. v. 13. März 2003 - IX ZB 134/02, NJW 2003, 125
+- [BGH, Beschluss vom 19.03.2004 - IXa ZB 264/03](ixa-zb-264-03.md) — zwischenzeitlich aufgetretener erheblicher Mängel den Verkehrswert herabzusetzen. Seit der Begutachtung durch den Sachverständigen seien Sch
+- [BGH, Beschluss vom 19.03.2004 - IXa ZB 283/03](ixa-zb-283-03.md) — Die zugelassene Rechtsbeschwerde ist begründet.
+- [BGH, Beschluss vom 19.03.2004 - IXa ZB 308/03](ixa-zb-308-03.md) — I. Der Schuldner hat gegen den Beschluß des Oberlandesgerichts Koblenz vom 26. September 2003, mit dem seine Erinnerung gegen die Erteilung einer Vollstreckungsklausel …
 - [BGH, Beschluss vom 19.03.2004 - IXa ZB 321/03](ixa-zb-321-03.md) — seiner außergewöhnlichen Gehbehinderung; auch wenn er den Pkw nicht beruflich benötige, dürfe ihm die Teilnahme am Außenleben nicht verwehrt
 - [BGH, Beschluss vom 19.03.2004 - IXa ZB 323/03](ixa-zb-323-03.md) — fehlerhafter Besetzung des Beschwerdegerichts der Aufhebung von Amts wegen (vgl. BGH, Beschl. v. 13. März 2003 - IX ZB 134/02, NJW 2003, 125
+- [BGH, Beschluss vom 19.03.2004 - IXa ZB 328/03](ixa-zb-328-03.md) — I. Mit Urteil des Landgerichts Berlin vom 23. April 1999 (Az: 25 0 750/98) wurden die Beklagten als Gesamtschuldner verurteilt, die in der Kleingartenan- lage "H. ", , , gelegene …
 - [BGH, Beschluss vom 19.03.2004 - IXa ZB 57/03](ixa-zb-57-03.md) — einer Hauptforderung von 4.501,43 € nebst Zinsen und Kosten. Der Schuldner wird von seiner Ehefrau, der Drittschuldnerin, unterhalten. Unter
+- [BGH, Beschluss vom 10.03.2004 - IXa ZB 8/04](ixa-zb-8-04.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 10.03.2004 - IXa ZB 9/04](ixa-zb-9-04.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 27.02.2004 - IXa ZB 131/03](ixa-zb-131-03.md) — dinglicher Ansprüche in Höhe
 - [BGH, Beschluss vom 27.02.2004 - IXa ZB 135/03](ixa-zb-135-03.md) — persönlicher Ansprüche und wegen
+- [BGH, Beschluss vom 27.02.2004 - IXa ZB 162/03](ixa-zb-162-03.md) — fehlerhafter Besetzung des Beschwerdegerichts aufgehoben und die Sache an das Beschwerdegericht zurückverwiesen. Die Einzelrichterin hat das
 - [BGH, Beschluss vom 27.02.2004 - IXa ZB 185/03](ixa-zb-185-03.md) — BGH, Beschluss vom 27.02.2004 - IXa ZB 185/03
+- [BGH, Beschluss vom 27.02.2004 - IXa ZB 252/03](ixa-zb-252-03.md) — I. Mit Teilurteil vom 12. März 2002 (Az: 2 O 394/01) hat das Landgericht Berlin den Schuldner verurteilt, an den Gläubiger 1.154.304,73 ¢¡¤¢£ §¥ ¦©¨  ¥¡ zu zahlen. Das …
 - [BGH, Beschluss vom 27.02.2004 - IXa ZB 262/03](ixa-zb-262-03.md) — I. Die Gläubigerin betreibt gegen die Schuldnerin aus dem Urteil des Landgerichts Gießen vom 16. Oktober 2000 (Az: 2 O 553/99) und mehreren Kostenfestsetzungsbeschlüssen die …
+- [BGH, Beschluss vom 27.02.2004 - IXa ZB 269/03](ixa-zb-269-03.md) — I. Die Gläubigerin betrieb die Zwangsvollstreckung in den vorstehend näher bezeichneten Grundbesitz, dessen Miteigentümer zu jeweils 1/2 die Schuldner waren. Im …
+- [BGH, Beschluss vom 27.02.2004 - IXa ZB 298/03](ixa-zb-298-03.md) — I. Das Amtsgericht ordnete am 28. Mai 1996 die Zwangsversteigerung an und setzte aufgrund eines eingeholten Sachverständigengutachtens den Verkehrswert des Grundstücks samt …
 - [BGH, Beschluss vom 27.02.2004 - IXa ZB 37/03](ixa-zb-37-03.md) — BGH, Beschluss vom 27.02.2004 - IXa ZB 37/03
+- [BGH, Beschluss vom 30.01.2004 - IXa ZB 153/03](ixa-zb-153-03.md) — Der im Wege der Prozeßkostenhilfe beigeordnete Verfahrensbevoll- mächtigte der Gläubigerin hat die Erstattung einer Vergütung von insgesamt ¡ ¥ §¥ ¤"!#¤!
 - [BGH, Beschluss vom 30.01.2004 - IXa ZB 196/03](ixa-zb-196-03.md) — des Todesfalles hatte er nicht gestellt, obwohl er vom Rechtspfleger ausdrücklich auf diese Möglichkeit hingewiesen worden war.
 - [BGH, Beschluss vom 30.01.2004 - IXa ZB 215/03](ixa-zb-215-03.md) — I. Die Gläubigerin erwirkte mit Beschluß des Amtsgerichts vom 27. Februar 2003 für Trennungs- und Kindesunterhalt, Zinsen und Kosten die Pfändung von Lohnansprüchen des Schuldners …
+- [BGH, Beschluss vom 30.01.2004 - IXa ZB 223/03](ixa-zb-223-03.md) — des Dritteigentums des Beteiligten E.
+- [BGH, Beschluss vom 30.01.2004 - IXa ZB 233/03](ixa-zb-233-03.md) — BGH, Beschluss vom 30.01.2004 - IXa ZB 233/03
+- [BGH, Beschluss vom 30.01.2004 - IXa ZB 274/03](ixa-zb-274-03.md) — fehlerhafter Besetzung des Beschwerdegerichts aufgehoben und die Sache zur erneuten Entscheidung zurückverwiesen. Die Einzelrichterin hat da
+- [BGH, Beschluss vom 30.01.2004 - IXa ZB 277/03](ixa-zb-277-03.md) — Die Rechtsbeschwerde ist nicht statthaft, weil das Beschwerdegericht sie nicht zugelassen hat (§ 574 Abs.
 - [BGH, Beschluss vom 30.01.2004 - IXa ZB 285/03](ixa-zb-285-03.md) — als den in § 83 Nr. 1 bis 5 ZVG genannten Verfahrensmängeln unzulässig ist. Ein Versagungsgrund im Sinne von § 83 Nr. 6 ZVG ist auch das Fehlen der Ausfertigung des Titels im …
 - [BGH, Beschluss vom 30.01.2004 - IXa ZB 286/03](ixa-zb-286-03.md) — BGH, Beschluss vom 30.01.2004 - IXa ZB 286/03
+- [BGH, Beschluss vom 30.01.2004 - IXa ZB 299/03](ixa-zb-299-03.md) — Prozeßkostenhilfe kann dem Schuldner unabhängig von seiner nicht lückenlos dargelegten Bedürftigkeit nicht gewährt werden, weil seine Rechtsbeschwerde keine hinreichende Aussicht …
+- [BGH, Beschluss vom 15.01.2004 - IXa ZB 309/03](ixa-zb-309-03.md) — Die Rechtsbeschwerde ist unstatthaft, weil sie weder nach dem Gesetz allgemein eröffnet noch vom Beschwerdegericht im Einzelfall zugelassen worden ist (§ 574 Abs.

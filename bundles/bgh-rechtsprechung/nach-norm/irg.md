@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu IRG"
 description: "BGH-Entscheidungen zu IRG, geordnet nach Vorschrift."
 tags: [register, navigation, irg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift
@@ -19,6 +19,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des IRG auslegen.
 | § IRG | [BGH, Beschluss vom 18.12.2025 - 4 ARs 7/25](../entscheidungen/4-strafsenat/2025/4-ars-7-25.md) |
 | Art. IRG | [BGH, Beschluss vom 09.02.2012 - 1 StR 148/11](../entscheidungen/1-strafsenat/2012/1-str-148-11.md) |
 | Art. IRG | [BGH, Beschluss vom 11.01.2023 - 6 StR 477/22](../entscheidungen/6-strafsenat/2023/6-str-477-22.md) |
+| § IRG | [BGH, Urteil vom 15.03.2000 - 1 StR 483/99](../entscheidungen/1-strafsenat/2000/1-str-483-99.md) |
 | § IRG | [BGH, Beschluss vom 20.10.2016 - 3 StR 245/16](../entscheidungen/3-strafsenat/2016/3-str-245-16.md) |
 | § IRG | [BGH, Beschluss vom 18.08.2022 - 4 ARs 2/21](../entscheidungen/4-strafsenat/2022/4-ars-2-21.md) |
 | Art. IRG | [BGH, EuGH-Vorlage vom 21.04.2020 - 6 StR 41/20](../entscheidungen/6-strafsenat/2020/6-str-41-20.md) |

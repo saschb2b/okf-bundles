@@ -1,18 +1,66 @@
 # 5. Strafsenat – 2005
 
-52 Entscheidung(en).
+156 Entscheidung(en).
 
+- [BGH, Beschluss vom 15.12.2005 - 5 StR 439/05](5-str-439-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 14.12.2005 - 5 StR 481/05](5-str-481-05.md) — Totschlags
+- [BGH, Beschluss vom 13.12.2005 - 5 StR 402/05](5-str-402-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 13.12.2005 - 5 StR 422/05](5-str-422-05.md) — sexueller Nötigung
+- [BGH, Beschluss vom 13.12.2005 - 5 StR 427/05](5-str-427-05.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 13.12.2005 - 5 StR 494/05](5-str-494-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 13.12.2005 - 5 StR 520/05](5-str-520-05.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 12.12.2005 - 5 StR 448/05](5-str-448-05.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 12.12.2005 - 5 StR 507/05](5-str-507-05.md) — versuchter gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 12.12.2005 - 5 StR 510/05](5-str-510-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 02.12.2005 - 5 StR 119/05](5-str-119-05.md) — : ja Veröffentlichung : ja StGB § 11 Abs. 1 Nr. 2 Buchst. c, § 73 Abs. 1 Satz 1, § 266; AO § 393 1. Privatrechtlich organisierte Unternehmen im Bereich der Daseinsvorsorge sind …
+- [BGH, Urteil vom 02.12.2005 - 5 StR 268/05](5-str-268-05.md) — Beihilfe zur Untreue
+- [BGH, Urteil vom 30.11.2005 - 5 StR 344/05](5-str-344-05.md) — Totschlags
+- [BGH, Urteil vom 30.11.2005 - 5 StR 353/05](5-str-353-05.md) — Wohnungseinbruchdiebstahls u. a.
+- [BGH, Urteil vom 29.11.2005 - 5 StR 339/05](5-str-339-05.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 29.11.2005 - 5 StR 358/05](5-str-358-05.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 28.11.2005 - 5 StR 429/05](5-str-429-05.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 28.11.2005 - 5 StR 478/05](5-str-478-05.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 28.11.2005 - 5 StR 480/05](5-str-480-05.md) — BGH, Beschluss vom 28.11.2005 - 5 StR 480/05
+- [BGH, Beschluss vom 03.11.2005 - 5 StR 321/05](5-str-321-05.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 01.11.2005 - 5 StR 434/05](5-str-434-05.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 24.10.2005 - 5 StR 269/05](5-str-269-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.10.2005 - 5 StR 278/05](5-str-278-05.md) — Mordes u. a.
+- [BGH, Beschluss vom 13.10.2005 - 5 StR 336/05](5-str-336-05.md) — gewerbs- und bandenmäßiger Urkundenfälschung u. a.
+- [BGH, Urteil vom 13.10.2005 - 5 StR 347/05](5-str-347-05.md) — schweren sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 13.10.2005 - 5 StR 366/05](5-str-366-05.md) — erpresserischen Menschenraubes u. a.
+- [BGH, Beschluss vom 13.10.2005 - 5 StR 368/05](5-str-368-05.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 13.10.2005 - 5 StR 394/05](5-str-394-05.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 13.10.2005 - 5 StR 401/05](5-str-401-05.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 13.10.2005 - 5 StR 415/05](5-str-415-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.10.2005 - 5 StR 432/05](5-str-432-05.md) — Totschlags u. a.
+- [BGH, Urteil vom 12.10.2005 - 5 StR 315/05](5-str-315-05.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 12.10.2005 - 5 StR 345/05](5-str-345-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 12.10.2005 - 5 StR 403/05](5-str-403-05.md) — Misshandlung von Schutzbefohlenen u. a.
+- [BGH, Beschluss vom 11.10.2005 - 5 ARs (VollZ) 54/05](5-ars-vollz-54-05.md) — : ja Veröffentlichung : ja StVollzG § 18 Abs. 1 Satz 1 StVollzG § 201 Nr. 3 Satz 1 Bei der Entscheidung über einen Anspruch auf Einzelunterbringung während der Ruhezeit (§ 18 Abs …
+- [BGH, Beschluss vom 11.10.2005 - 5 StR 391/05](5-str-391-05.md) — Mordes
 - [BGH, Beschluss vom 11.10.2005 - 5 StR 65/05](5-str-65-05.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 21.09.2005 - 5 StR 263/05](5-str-263-05.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 21.09.2005 - 5 StR 379/05](5-str-379-05.md) — räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 20.09.2005 - 5 StR 354/05](5-str-354-05.md) — Steuerhinterziehung u. a.
 - [BGH, Urteil vom 06.09.2005 - 5 StR 284/05](5-str-284-05.md) — Raubes u. a.
+- [BGH, Urteil vom 25.08.2005 - 5 StR 205/05](5-str-205-05.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Urteil vom 25.08.2005 - 5 StR 255/05](5-str-255-05.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 25.08.2005 - 5 StR 329/05](5-str-329-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 24.08.2005 - 5 StR 221/05](5-str-221-05.md) — Betruges
+- [BGH, Urteil vom 24.08.2005 - 5 StR 252/05](5-str-252-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 24.08.2005 - 5 StR 3/05](5-str-3-05.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u. a.
+- [BGH, Urteil vom 23.08.2005 - 5 StR 195/05](5-str-195-05.md) — gewerbsmäßiger Hehlerei
 - [BGH, Beschluss vom 23.08.2005 - 5 StR 246/05](5-str-246-05.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 11.08.2005 - 5 StR 200/05](5-str-200-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 11.08.2005 - 5 StR 290/05](5-str-290-05.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 11.08.2005 - 5 StR 299/05](5-str-299-05.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 11.08.2005 - 5 StR 312/05](5-str-312-05.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.08.2005 - 5 StR 180/05](5-str-180-05.md) — : ja Veröffentlichung : ja StPO §§ 26a, 338 Nr. 3 Ein Ablehnungsgesuch ist auch dann im Sinne von § 338 Nr. 3 StPO „mit Unrecht verworfen“, wenn die unter Mitwirkung des …
+- [BGH, Beschluss vom 09.08.2005 - 5 StR 296/05](5-str-296-05.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 09.08.2005 - 5 StR 352/04](5-str-352-04.md) — schwerer Körperverletzung u. a.
+- [BGH, Beschluss vom 09.08.2005 - 5 StR 67/05](5-str-67-05.md) — : nein Veröffentlichung : ja StGB § 263 Abs. 1, § 266a Abs. 1 1. Ein Vermögensschaden kann bei einem Eingehungsbetrug auch dann vorliegen, wenn - wie vom Täter gewollt - das Opfer …
 - [BGH, Beschluss vom 27.07.2005 - 5 StR 201/05](5-str-201-05.md) — schweren räuberischen Diebstahls
+- [BGH, Beschluss vom 27.07.2005 - 5 StR 242/05](5-str-242-05.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 27.07.2005 - 5 StR 285/05](5-str-285-05.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 26.07.2005 - 5 StR 230/05](5-str-230-05.md) — versuchten Mordes u. a.
 - [BGH, Beschluss vom 26.07.2005 - 5 StR 256/05](5-str-256-05.md) — Vergewaltigung u. a.
@@ -20,37 +68,93 @@
 - [BGH, Beschluss vom 13.07.2005 - 5 StR 259/05](5-str-259-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 12.07.2005 - 5 StR 202/05](5-str-202-05.md) — BGH, Beschluss vom 12.07.2005 - 5 StR 202/05
 - [BGH, Beschluss vom 12.07.2005 - 5 StR 227/05](5-str-227-05.md) — schweren sexuellen Mißbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 01.07.2005 - 5 StR 155/05](5-str-155-05.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 01.07.2005 - 5 StR 192/05](5-str-192-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 01.07.2005 - 5 StR 583/03](5-str-583-03.md) — Steuerhinterziehung u. a.
+- [BGH, Urteil vom 30.06.2005 - 5 StR 12/05](5-str-12-05.md) — Steuerhinterziehung u. a.
+- [BGH, Urteil vom 30.06.2005 - 5 StR 135/05](5-str-135-05.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 30.06.2005 - 5 StR 156/05](5-str-156-05.md) — Verbreitung pornographischer Schriften
+- [BGH, Beschluss vom 29.06.2005 - 5 StR 219/05](5-str-219-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 29.06.2005 - 5 StR 250/05](5-str-250-05.md) — Verabredung einer schweren räuberischen Erpressung
+- [BGH, Beschluss vom 16.06.2005 - 5 StR 118/05](5-str-118-05.md) — : nein Veröffentlichung : ja AO § 371, § 393 Abs. 1 1. Strafbefreiende Selbstanzeige: Wirksamkeitsvoraussetzung (im Anschluß an BGHSt 3, 373) und Aufhebung der Sperrwirkung nach § …
 - [BGH, Urteil vom 16.06.2005 - 5 StR 140/05](5-str-140-05.md) — Wohnungseinbruchdiebstahls
 - [BGH, Beschluss vom 16.06.2005 - 5 StR 440/04](5-str-440-04.md) — Untreue u. a.
+- [BGH, Urteil vom 16.06.2005 - 5 StR 464/04](5-str-464-04.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 15.06.2005 - 5 StR 191/05](5-str-191-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 15.06.2005 - 5 StR 220/05](5-str-220-05.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 15.06.2005 - 5 StR 78/05](5-str-78-05.md) — Totschlags
+- [BGH, Beschluss vom 14.06.2005 - 5 StR 129/05](5-str-129-05.md) — : nein Veröffentlichung : ja StPO § 244 Abs. 3 Satz 2, Abs. 6, § 246 Abs. 1 Wurde eine Hauptverhandlung extrem verzögert, namentlich durch zum Zweck der Prozeßverschleppung …
 - [BGH, Beschluss vom 14.06.2005 - 5 StR 164/05](5-str-164-05.md) — Mordes
 - [BGH, Beschluss vom 14.06.2005 - 5 StR 168/05](5-str-168-05.md) — Rechtsbeugung u. a.
 - [BGH, Beschluss vom 14.06.2005 - 5 StR 214/05](5-str-214-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Urteil vom 14.06.2005 - 5 StR 55/05](5-str-55-05.md) — schweren Raubes
+- [BGH, Beschluss vom 31.05.2005 - 5 StR 106/05](5-str-106-05.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 31.05.2005 - 5 StR 145/05](5-str-145-05.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 31.05.2005 - 5 StR 172/05](5-str-172-05.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 31.05.2005 - 5 StR 174/05](5-str-174-05.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 31.05.2005 - 5 StR 182/05](5-str-182-05.md) — Brandstiftung u. a.
 - [BGH, Beschluss vom 31.05.2005 - 5 StR 184/05](5-str-184-05.md) — Der Senat kann über die sofortige Beschwerde (§ 464 Abs.
+- [BGH, Beschluss vom 31.05.2005 - 5 StR 76/05](5-str-76-05.md) — Geiselnahme u. a.
+- [BGH, Beschluss vom 31.05.2005 - 5 StR 85/05](5-str-85-05.md) — gewerbsmäßiger Hehlerei
+- [BGH, Urteil vom 12.05.2005 - 5 StR 283/04](5-str-283-04.md) — : nein Veröffentlichung: ja StGB § 264a Abs. 1 Erhebliche Umstände im Sinne des § 264a Abs. 1 StGB sind nur solche Gesichtspunkte, die nach Art des Geschäfts für einen …
+- [BGH, Urteil vom 12.05.2005 - 5 StR 36/05](5-str-36-05.md) — : nein Veröffentlichung : ja UStG § 4 Nr. 1 lit. b; § 6a Abs. 3 AO § 370 Abs. 1 Das Fehlen eines Nachweises einer innergemeinschaftlichen Lieferung führt jedenfalls dann nicht zu …
 - [BGH, Urteil vom 12.05.2005 - 5 StR 86/05](5-str-86-05.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 11.05.2005 - 5 StR 122/05](5-str-122-05.md) — Einschleusens von Ausländern
+- [BGH, Beschluss vom 11.05.2005 - 5 StR 124/05](5-str-124-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 11.05.2005 - 5 StR 92/05](5-str-92-05.md) — gewerbsmäßiger Hehlerei u. a.
 - [BGH, Urteil vom 10.05.2005 - 5 StR 66/05](5-str-66-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 20.04.2005 - 5 StR 147/05](5-str-147-05.md) — versuchten schweren Raubes u. a.
 - [BGH, Beschluss vom 20.04.2005 - 5 StR 61/05](5-str-61-05.md) — Körperverletzung
+- [BGH, Beschluss vom 20.04.2005 - 5 StR 69/05](5-str-69-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.04.2005 - 5 StR 73/05](5-str-73-05.md) — Beihilfe zum Totschlag u. a.
+- [BGH, Beschluss vom 19.04.2005 - 5 StR 586/04](5-str-586-04.md) — vorsätzlichen Bankrotts u. a.
+- [BGH, Beschluss vom 18.04.2005 - 5 StR 26/05](5-str-26-05.md) — gewerbs- und bandenmäßigen Betruges u. a.
+- [BGH, Beschluss vom 18.04.2005 - 5 StR 27/05](5-str-27-05.md) — gewerbs- und bandenmäßigen Betruges u. a.
+- [BGH, Beschluss vom 07.04.2005 - 5 StR 532/04](5-str-532-04.md) — schweren Bandendiebstahls u. a.
+- [BGH, Urteil vom 07.04.2005 - 5 StR 544/04](5-str-544-04.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 07.04.2005 - 5 StR 77/05](5-str-77-05.md) — Vergewaltigung u. a.
+- [BGH, Urteil vom 06.04.2005 - 5 StR 22/05](5-str-22-05.md) — Totschlags u. a.
+- [BGH, Beschluss vom 06.04.2005 - 5 StR 4/05](5-str-4-05.md) — schwerer Brandstiftung u. a.
+- [BGH, Urteil vom 06.04.2005 - 5 StR 441/04](5-str-441-04.md) — Betruges u. a.
+- [BGH, Beschluss vom 06.04.2005 - 5 StR 68/05](5-str-68-05.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u. a.
+- [BGH, Urteil vom 17.03.2005 - 5 StR 222/04](5-str-222-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 17.03.2005 - 5 StR 328/04](5-str-328-04.md) — Steuerhinterziehung u. a.
 - [BGH, Urteil vom 17.03.2005 - 5 StR 461/04](5-str-461-04.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 17.03.2005 - 5 StR 57/05](5-str-57-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 16.03.2005 - 5 StR 514/04](5-str-514-04.md) — versuchter Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 16.03.2005 - 5 StR 588/04](5-str-588-04.md) — versuchter Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 16.03.2005 - 5 StR 72/05](5-str-72-05.md) — bandenmäßigen Betruges u. a.
 - [BGH, Beschluss vom 15.03.2005 - 5 StR 469/04](5-str-469-04.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 15.03.2005 - 5 StR 56/05](5-str-56-05.md) — Raubes u. a.
+- [BGH, Beschluss vom 15.03.2005 - 5 StR 570/03](5-str-570-03.md) — Betruges
+- [BGH, Beschluss vom 15.03.2005 - 5 StR 592/04](5-str-592-04.md) — Beihilfe zur Steuerhinterziehung
+- [BGH, Urteil vom 02.03.2005 - 5 StR 371/04](5-str-371-04.md) — Betruges
+- [BGH, Urteil vom 02.03.2005 - 5 StR 518/04](5-str-518-04.md) — versuchter Anstiftung zum Mord
 - [BGH, Beschluss vom 02.03.2005 - 5 StR 584/04](5-str-584-04.md) — Mordes
 - [BGH, Beschluss vom 01.03.2005 - 5 StR 434/04](5-str-434-04.md) — unerlaubter Einfuhr eines in Kategorie I des Anhangs der Verordnung (EWG) Nr. 3677/90 bezeichneten Grundstoffs u. a.
 - [BGH, Beschluss vom 01.03.2005 - 5 StR 499/04](5-str-499-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 01.03.2005 - 5 StR 526/04](5-str-526-04.md) — Anstiftung zur versuchten Steuerhinterziehung
+- [BGH, Beschluss vom 17.02.2005 - 5 StR 541/04](5-str-541-04.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 17.02.2005 - 5 StR 555/04](5-str-555-04.md) — versuchten schweren Raubes
+- [BGH, Urteil vom 16.02.2005 - 5 StR 14/04](5-str-14-04.md) — : ja Veröffentlichung: ja StGB §§ 30, 211 Befehl zur Tötung eines Demonteurs von Selbstschußanlagen an der innerdeutschen Grenze. BGH, Urt. v. 16. Februar 2005 5 StR 14/04 SchwG …
+- [BGH, Beschluss vom 16.02.2005 - 5 StR 490/04](5-str-490-04.md) — Mordes u. a.
 - [BGH, Beschluss vom 16.02.2005 - 5 StR 531/04](5-str-531-04.md) — versuchten Mordes u. a.
 - [BGH, Urteil vom 16.02.2005 - 5 StR 547/04](5-str-547-04.md) — Brandstiftung u. a.
 - [BGH, Beschluss vom 16.02.2005 - 5 StR 566/04](5-str-566-04.md) — Totschlags
+- [BGH, Beschluss vom 16.02.2005 - 5 StR 581/04](5-str-581-04.md) — Totschlags
+- [BGH, Urteil vom 15.02.2005 - 5 StR 449/04](5-str-449-04.md) — Diebstahls u. a.
 - [BGH, Urteil vom 15.02.2005 - 5 StR 536/04](5-str-536-04.md) — gewerbs- und bandenmäßigen Betruges u. a.
 - [BGH, Beschluss vom 03.02.2005 - 5 StR 476/04](5-str-476-04.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 03.02.2005 - 5 StR 587/04](5-str-587-04.md) — schweren Raubes
+- [BGH, Urteil vom 03.02.2005 - 5 StR 84/04](5-str-84-04.md) — Untreue u. a.
 - [BGH, Urteil vom 02.02.2005 - 5 StR 168/04](5-str-168-04.md) — Bestechlichkeit u. a.
 - [BGH, Urteil vom 02.02.2005 - 5 StR 393/04](5-str-393-04.md) — gefährlicher Körperverletzung
 - [BGH, Urteil vom 01.02.2005 - 5 StR 529/04](5-str-529-04.md) — Totschlags u. a.
 - [BGH, Urteil vom 01.02.2005 - 5 StR 540/04](5-str-540-04.md) — im Zustand der Schuldunfähigkeit begangener zweifach versuchter gefährlicher Körperverletzung angeordnet. Die Revision des Beschuldigten hat
+- [BGH, Urteil vom 26.01.2005 - 5 StR 290/04](5-str-290-04.md) — Körperverletzung mit Todesfolge u. a.
+- [BGH, Beschluss vom 26.01.2005 - 5 StR 549/04](5-str-549-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 26.01.2005 - 5 StR 590/04](5-str-590-04.md) — Geiselnahme u. a.
+- [BGH, Beschluss vom 12.01.2005 - 5 StR 191/04](5-str-191-04.md) — : nein Veröffentlichung : ja AO § 393 Abs. 1 Bei Anhängigkeit eines Steuerstrafverfahrens rechtfertigt das Zwangsmittelverbot (nemo tenetur se ipsum accusare) nicht, die Abgabe …
 - [BGH, Urteil vom 12.01.2005 - 5 StR 271/04](5-str-271-04.md) — gewerbsmäßiger Steuerhinterziehung u. a.
 - [BGH, Urteil vom 12.01.2005 - 5 StR 301/04](5-str-301-04.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 11.01.2005 - 5 StR 510/04](5-str-510-04.md) — Beihilfe zur Steuerhinterziehung

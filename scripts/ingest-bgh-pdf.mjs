@@ -22,6 +22,8 @@
 //   --delay MS      pause between search-page fetches (default 200)
 //   --max-pages N   stop after scraping N result pages (for testing)
 //   --overwrite     re-extract and rewrite existing files (e.g. after improving parsing)
+//   --full          visit every result page and filter by year (provably complete;
+//                   does not rely on the unstable last-N-pages window)
 //   --out DIR       bundle root (default bundles/bgh-rechtsprechung)
 //
 // Resumable (skips existing files). Requires pdftotext on PATH and Node 18+.
@@ -33,6 +35,8 @@ import { spawn } from "node:child_process";
 
 const BASE = "https://www.bundesgerichtshof.de";
 const FORM = BASE + "/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html";
+const PPP = 50; // results per page (the search supports resultsPerPage=50)
+const pageUrl = (p) => `${FORM}?resultsPerPage=${PPP}&gtp=565194_list%253D${p}`;
 const UA = { headers: { "user-agent": "Mozilla/5.0 (okf-bundle research ingest)" } };
 
 const args = process.argv.slice(2);
@@ -43,6 +47,7 @@ const CONC = Math.max(1, Number(opt("--conc", "4")));
 const DELAY = Number(opt("--delay", "200"));
 const MAXPAGES = Number(opt("--max-pages", "0")) || Infinity;
 const OVERWRITE = args.includes("--overwrite"); // re-extract and rewrite existing files
+const FULL = args.includes("--full"); // visit every page (no early break) for provable completeness
 const OUT = opt("--out", join("bundles", "bgh-rechtsprechung"));
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -157,21 +162,21 @@ function concept({ az, isoDate, ddmmyyyy, sen, pdfUrl, parsed }) {
 const ROW = /<tr>\s*<td>\s*([^<]*?)<\/td>\s*<td>\s*(\d{2}\.\d{2}\.\d{4})\s*<\/td>\s*<td>\s*([^<]*?)<\/td>\s*<td>[\s\S]*?href="([^"]*?\.pdf[^"]*?)"/g;
 
 async function run() {
-  const first = await getText(`${FORM}?gtp=565194_list%253D1`);
+  const first = await getText(pageUrl(1));
   const total = Number((first.match(/von insgesamt\s+([\d.]+)/) || [, "0"])[1].replace(/\./g, ""));
-  const lastPage = Math.max(1, Math.ceil(total / 10));
-  process.stdout.write(`Gesamt ${total} Entscheidungen, letzte Seite ${lastPage}. Ziel: Jahre ${FROM}-${UNTIL}.\n`);
+  const lastPage = Math.max(1, Math.ceil(total / PPP));
+  process.stdout.write(`Gesamt ${total} Entscheidungen, letzte Seite ${lastPage} (à ${PPP}). Ziel: Jahre ${FROM}-${UNTIL}${FULL ? ", Vollscan aller Seiten" : ""}.\n`);
 
   let written = 0, skipped = 0, scanned = 0, pages = 0;
   for (let page = lastPage; page >= 1 && pages < MAXPAGES; page--, pages++) {
     let html;
-    try { html = await getText(`${FORM}?gtp=565194_list%253D${page}`); }
+    try { html = await getText(pageUrl(page)); }
     catch (e) { process.stderr.write(`Seite ${page}: ${e.message}\n`); await sleep(DELAY); continue; }
     const rows = [...html.matchAll(ROW)].map((m) => ({
       senatTxt: dec(m[1]), datum: m[2], az: dec(m[3]), href: dec(m[4]),
     })).filter((r) => r.az && r.href);
     const years = rows.map((r) => Number(r.datum.slice(6)));
-    if (years.length && Math.min(...years) > UNTIL) break; // past the scope (years climb as page falls)
+    if (!FULL && years.length && Math.min(...years) > UNTIL) break; // past the scope (years climb as page falls)
     const todo = rows.filter((r) => { const y = Number(r.datum.slice(6)); return y >= FROM && y <= UNTIL; });
     // process this page's in-scope rows concurrently
     let i = 0;

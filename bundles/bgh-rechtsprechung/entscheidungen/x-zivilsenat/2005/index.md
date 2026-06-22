@@ -1,46 +1,104 @@
 # X. Zivilsenat – 2005
 
-42 Entscheidung(en).
+100 Entscheidung(en).
 
+- [BGH, Urteil vom 21.12.2005 - X ZR 108/03](x-zr-108-03.md) — Tatbestand:
 - [BGH, Beschluss vom 21.12.2005 - X ZR 13/05](x-zr-13-05.md) — Verletzung dieses Patents auf Unterlassung, Auskunftsertei-
+- [BGH, Urteil vom 21.12.2005 - X ZR 165/04](x-zr-165-04.md) — 3Tatbestand:
 - [BGH, Urteil vom 21.12.2005 - X ZR 72/04](x-zr-72-04.md) — Tatbestand:
+- [BGH, Beschluss vom 20.12.2005 - X ZB 28/05](x-zb-28-05.md) — Das der Klage im wesentlichen stattgebende Urteil des Landgerichts ist dem Beklagten am 17.
+- [BGH, Beschluss vom 20.12.2005 - X ZB 7/05](x-zb-7-05.md) — Das Landgericht hat der Klägerin 6 % und der Beklagten 94 % der Kos- ten des Rechtsstreits auferlegt.
+- [BGH, Beschluss vom 20.12.2005 - X ZR 53/04](x-zr-53-04.md) — unberechtigter Abnehmerverwarnung richtet. Im Übrigen wird die Beschwerde gegen die Nichtzulassung der Revision verworfen, weil die Revision
 - [BGH, Beschluss vom 13.12.2005 - X ZR 105/05](x-zr-105-05.md) — Verletzung einer Beratungs-
 - [BGH, Beschluss vom 13.12.2005 - X ZR 128/04](x-zr-128-04.md) — BGH, Beschluss vom 13.12.2005 - X ZR 128/04
+- [BGH, Urteil vom 13.12.2005 - X ZR 14/02](x-zr-14-02.md) — 3Tatbestand:
 - [BGH, Urteil vom 06.12.2005 - X ZR 41/05](x-zr-41-05.md) — Tatbestand:
+- [BGH, Beschluss vom 22.11.2005 - X ZR 61/05](x-zr-61-05.md) — I. Die Beklagte hat dem Akteneinsichtsgesuch der Patentanwälte C. widersprochen, weil diese keinerlei Gründe für die begehrte Akteneinsicht angegeben haben; die Klägerin hat sich …
+- [BGH, Urteil vom 22.11.2005 - X ZR 79/04](x-zr-79-04.md) — des Besitzes der im Klageantrag zu I 1.2 genannten Gegenstände abgewiesen sind, wird das angefochtene Urteil aufgehoben.
 - [BGH, Urteil vom 22.11.2005 - X ZR 81/01](x-zr-81-01.md) — Tatbestand:
+- [BGH, Beschluss vom 15.11.2005 - X ZA 3/05](x-za-3-05.md) — Der Prozesskostenhilfeantrag ist zurückzuweisen, da die beabsichtigte Rechtsverfolgung keine Aussicht auf Erfolg bietet.
+- [BGH, Urteil vom 15.11.2005 - X ZR 17/02](x-zr-17-02.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2005 - X ZB 15/05](x-zb-15-05.md) — I. Mit Beschluss vom 22. März 2005 hat die Vergabekammer beim Thü- ringer Landesverwaltungsamt den Antragsgegner verpflichtet, ein Vergabever- fahren zur Erweiterung und …
+- [BGH, Beschluss vom 25.10.2005 - X ZB 22/05](x-zb-22-05.md) — I. Die Antragstellerin beteiligte sich als Bieterin an einer Ausschreibung des Antragsgegners. Da dieser beabsichtigte, den Auftrag an einen anderen Bieter zu erteilen, hat die …
+- [BGH, Beschluss vom 25.10.2005 - X ZB 24/05](x-zb-24-05.md) — I. Die Antragstellerin beteiligte sich als Bieterin an einer Ausschreibung des Antragsgegners. Da dieser beabsichtigte, den Auftrag an einen anderen Bieter zu erteilen, hat die …
+- [BGH, Beschluss vom 25.10.2005 - X ZB 25/05](x-zb-25-05.md) — I. Die Antragstellerin beteiligte sich als Bieterin an einer Ausschreibung des Antragsgegners. Da dieser beabsichtigte, den Auftrag an einen anderen Bieter zu erteilen, hat die …
+- [BGH, Beschluss vom 25.10.2005 - X ZB 26/05](x-zb-26-05.md) — I. Die Antragstellerin beteiligte sich als Bieterin an einer Ausschreibung der Antragsgegnerin. Da diese beabsichtigte, den Auftrag an einen anderen Bieter zu erteilen, hat die …
+- [BGH, Urteil vom 25.10.2005 - X ZR 136/03](x-zr-136-03.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2005 - X ZR 194/04](x-zr-194-04.md) — I. Im Jahre 1998 beauftragte die Beklagte die Klägerin mit der Beräu- mung und Entwässerung der Dünnschlammbecken des Klärwerks W. . Die Schlämme wurden gemäß Vereinbarung der …
+- [BGH, Urteil vom 18.10.2005 - X ZR 35/01](x-zr-35-01.md) — Tatbestand:
+- [BGH, Urteil vom 11.10.2005 - X ZR 270/02](x-zr-270-02.md) — Tatbestand:
+- [BGH, Urteil vom 11.10.2005 - X ZR 76/04](x-zr-76-04.md) — BGH, Urteil vom 11.10.2005 - X ZR 76/04
+- [BGH, Beschluss vom 05.10.2005 - X ZB 7/03](x-zb-7-03.md) — I. Der Anmelder begehrt die Eintragung eines Gebrauchsmusters mit elf Schutzansprüchen und der Bezeichnung "Pharmakologisch wirksame Substanz zur Behandlung kardiovaskulärer …
+- [BGH, Urteil vom 05.10.2005 - X ZR 276/02](x-zr-276-02.md) — 3Tatbestand:
 - [BGH, Beschluss vom 13.09.2005 - X ZB 30/04](x-zb-30-04.md) — des Nachbaus geschützter Sorten geltend macht, hat den Beklagten
+- [BGH, Urteil vom 13.09.2005 - X ZR 170/04](x-zr-170-04.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 13.09.2005 - X ZR 62/03](x-zr-62-03.md) — Tatbestand:
 - [BGH, Beschluss vom 06.09.2005 - X ZB 30/03](x-zb-30-03.md) — BGH, Beschluss vom 06.09.2005 - X ZB 30/03
-- [BGH, Urteil vom 06.09.2005 - X ZR 171/01](x-zr-171-01.md) — Tatbestand:
+- [BGH, Urteil vom 06.09.2005 - X ZR 15/02](x-zr-15-02.md) — Tatbestand:
 - [BGH, Urteil vom 06.09.2005 - X ZR 51/03](x-zr-51-03.md) — BGH, Urteil vom 06.09.2005 - X ZR 51/03
+- [BGH, Beschluss vom 26.07.2005 - X ZB 1/04](x-zb-1-04.md) — der auf Patentanspruch 1 unmittelbar oder mittelbar rückbezogenen Patentansprüche 2 bis 9 wird auf die Patentschrift verwiesen.
+- [BGH, Beschluss vom 26.07.2005 - X ZB 37/03](x-zb-37-03.md) — I. Die Rechtsbeschwerdeführerin ist Inhaberin des am 19. August 1994 unter Prioritätsinanspruchnahme angemeldeten deutschen Patents 198 37 615, das eine Spritzgußvorrichtung …
+- [BGH, Urteil vom 26.07.2005 - X ZR 109/03](x-zr-109-03.md) — 3-
 - [BGH, Urteil vom 26.07.2005 - X ZR 134/04](x-zr-134-04.md) — Tatbestand:
+- [BGH, Urteil vom 19.07.2005 - X ZR 92/03](x-zr-92-03.md) — Tatbestand:
 - [BGH, Beschluss vom 12.07.2005 - X ZR 197/03](x-zr-197-03.md) — der beschränkten Zulassung der Revision unterschiedliche Gegenstandswerte für die Nichtzulassungsbeschwerde und die Revision anzusetzen sind
 - [BGH, Urteil vom 12.07.2005 - X ZR 229/01](x-zr-229-01.md) — Tatbestand:
-- [BGH, Beschluss vom 12.07.2005 - X ZR 56/04](x-zr-56-04.md) — BGH, Beschluss vom 12.07.2005 - X ZR 56/04
+- [BGH, Urteil vom 12.07.2005 - X ZR 29/05](x-zr-29-05.md) — Tatbestand:
+- [BGH, Urteil vom 05.07.2005 - X ZR 14/03](x-zr-14-03.md) — 3-
+- [BGH, Versäumnisurteil vom 05.07.2005 - X ZR 167/03](x-zr-167-03.md) — Hinweis: Gegen dieses Versäumnisurteil ist rechtzeitig Einspruch eingelegt worden
+- [BGH, Urteil vom 05.07.2005 - X ZR 30/02](x-zr-30-02.md) — 3-
 - [BGH, Urteil vom 05.07.2005 - X ZR 60/04](x-zr-60-04.md) — Die Klägerin, eine rechtsfähige Anstalt öffentlichen Rechts, betreibt auf der Grundlage des Berliner Betriebegesetzes vom 9.
 - [BGH, Urteil vom 05.07.2005 - X ZR 99/04](x-zr-99-04.md) — Die Klägerin, eine rechtsfähige Anstalt öffentlichen Rechts, betreibt auf der Grundlage des Berliner Betriebegesetzes vom 9.
 - [BGH, Urteil vom 21.06.2005 - X ZR 151/01](x-zr-151-01.md) — Tatbestand:
 - [BGH, Urteil vom 14.06.2005 - X ZR 36/03](x-zr-36-03.md) — Tatbestand:
+- [BGH, Beschluss vom 13.06.2005 - X ZR 195/03](x-zr-195-03.md) — Besorgnis der Befangenheit gegeben. Die Beklagte hat sich nicht geäußert.
 - [BGH, Beschluss vom 07.06.2005 - X ZR 174/04](x-zr-174-04.md) — durch Beschluß ohne mündliche Verhandlung als unzulässig zu verwerfen, weil sie nicht innerhalb offener Frist begründet worden ist (§ 113 Pa
 - [BGH, Urteil vom 07.06.2005 - X ZR 19/02](x-zr-19-02.md) — Verletzung eines durch die Ausschreibung begründeten vorvertraglichen schutzwürdigen Vertrauensverhältnisses kommen nicht in Betracht, wenn
+- [BGH, Urteil vom 07.06.2005 - X ZR 198/01](x-zr-198-01.md) — Nachschlagewerk: ja
 - [BGH, Urteil vom 07.06.2005 - X ZR 247/02](x-zr-247-02.md) — Tatbestand:
 - [BGH, Urteil vom 24.05.2005 - X ZR 207/01](x-zr-207-01.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2005 - X ZR 152/01](x-zr-152-01.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2005 - X ZR 188/01](x-zr-188-01.md) — Tatbestand:
 - [BGH, Urteil vom 10.05.2005 - X ZR 223/00](x-zr-223-00.md) — Tatbestand:
+- [BGH, Beschluss vom 26.04.2005 - X ZB 17/04](x-zb-17-04.md) — der Festsetzung auch dieses Betrags hat die Klägerin sofortige Beschwerde eingelegt. Nach Nichtabhilfe durch den Rechtspfleger hat das Oberl
+- [BGH, Beschluss vom 26.04.2005 - X ZB 19/04](x-zb-19-04.md) — der Festsetzung auch
 - [BGH, Beschluss vom 26.04.2005 - X ZR 132/04](x-zr-132-04.md) — BGH, Beschluss vom 26.04.2005 - X ZR 132/04
+- [BGH, Urteil vom 26.04.2005 - X ZR 166/04](x-zr-166-04.md) — Tatbestand:
+- [BGH, Beschluss vom 19.04.2005 - X ZB 31/03](x-zb-31-03.md) — BGH, Beschluss vom 19.04.2005 - X ZB 31/03
+- [BGH, Urteil vom 19.04.2005 - X ZR 15/04](x-zr-15-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 19.04.2005 - X ZR 191/02](x-zr-191-02.md) — Tatbestand:
 - [BGH, Beschluss vom 30.03.2005 - X ZB 20/04](x-zb-20-04.md) — BGH, Beschluss vom 30.03.2005 - X ZB 20/04
 - [BGH, Beschluss vom 30.03.2005 - X ZB 21/04](x-zb-21-04.md) — BGH, Beschluss vom 30.03.2005 - X ZB 21/04
 - [BGH, Beschluss vom 30.03.2005 - X ZB 22/04](x-zb-22-04.md) — BGH, Beschluss vom 30.03.2005 - X ZB 22/04
 - [BGH, Beschluss vom 30.03.2005 - X ZB 23/04](x-zb-23-04.md) — BGH, Beschluss vom 30.03.2005 - X ZB 23/04
+- [BGH, Beschluss vom 30.03.2005 - X ZB 25/04](x-zb-25-04.md) — I. Die Klägerin nimmt den beklagten Landwirt mit Ermächtigung der Rechtsinhaber auf Auskunft darüber in Anspruch, ob und gegebenenfalls in welchem Umfang der Beklagte in der …
 - [BGH, Beschluss vom 30.03.2005 - X ZB 26/04](x-zb-26-04.md) — Parallelverfahren
 - [BGH, Beschluss vom 30.03.2005 - X ZB 8/04](x-zb-8-04.md) — BGH, Beschluss vom 30.03.2005 - X ZB 8/04
 - [BGH, Urteil vom 30.03.2005 - X ZR 126/01](x-zr-126-01.md) — Tatbestand:
 - [BGH, Urteil vom 30.03.2005 - X ZR 191/03](x-zr-191-03.md) — Tatbestand:
+- [BGH, Urteil vom 22.03.2005 - X ZR 152/03](x-zr-152-03.md) — Tatbestand:
+- [BGH, Beschluss vom 15.03.2005 - X ZB 29/04](x-zb-29-04.md) — Versäumung der Berufungsbegründungsfrist als unzulässig verworfen hat.
+- [BGH, Urteil vom 15.03.2005 - X ZR 80/04](x-zr-80-04.md) — Tatbestand: Die Parteien streiten darüber, ob die Beklagte mit der Verteilung von Prospekten eine von ihr gegenüber der Klägerin übernommene
 - [BGH, Urteil vom 15.03.2005 - X ZR 97/01](x-zr-97-01.md) — 3-
+- [BGH, Beschluss vom 14.03.2005 - X ZR 186/00](x-zr-186-00.md) — offenbarer Unrichtigkeit bleibt vorbehalten.
 - [BGH, Beschluss vom 02.03.2005 - X ZB 3/05](x-zb-3-05.md) — BGH, Beschluss vom 02.03.2005 - X ZB 3/05
 - [BGH, Urteil vom 22.02.2005 - X ZR 123/03](x-zr-123-03.md) — Arglist, wenn das zugesandte Angebotsschreiben zur Irreführung geeignete Angaben hinsichtlich der Entgeltlichkeit und der Laufzeit des abzus
+- [BGH, Urteil vom 22.02.2005 - X ZR 148/00](x-zr-148-00.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2005 - X ZR 183/01](x-zr-183-01.md) — BGH, Urteil vom 22.02.2005 - X ZR 183/01
+- [BGH, Urteil vom 15.02.2005 - X ZR 43/02](x-zr-43-02.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2005 - X ZR 47/03](x-zr-47-03.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 15.02.2005 - X ZR 87/04](x-zr-87-04.md) — weiterer Zinsen aus 11.415,10 € in Höhe von 3 % über dem jeweiligen Diskontsatz der Deutschen Bundesbank für die Zeit vom 1. Juli 1999 bis z
+- [BGH, Beschluss vom 01.02.2005 - X ZB 27/04](x-zb-27-04.md) — der weiteren Behandlung des Altpapiers an bzw. ab der Umschlagsan-
+- [BGH, Urteil vom 01.02.2005 - X ZR 10/04](x-zr-10-04.md) — unangemessener Benachteiligung des Vertragspartners unwirksam:
+- [BGH, Urteil vom 01.02.2005 - X ZR 112/02](x-zr-112-02.md) — Tatbestand:
 - [BGH, Urteil vom 01.02.2005 - X ZR 214/02](x-zr-214-02.md) — Tatbestand:
+- [BGH, Beschluss vom 25.01.2005 - X ZB 21/01](x-zb-21-01.md) — I. Die Rechtsvorgängerin der Beschwerdeführerin war Inhaberin des am 31. März 1981 angemeldeten und zwischenzeitlich durch Zeitablauf erloschenen deutschen Patents 31 12 861 …
 - [BGH, Beschluss vom 25.01.2005 - X ZR 135/04](x-zr-135-04.md) — der Kosten des Verfahrens aufzuerlegen, wird zurückgewiesen.
+- [BGH, Urteil vom 25.01.2005 - X ZR 46/03](x-zr-46-03.md) — Tatbestand:
+- [BGH, Beschluss vom 18.01.2005 - X ZB 6/04](x-zb-6-04.md) — I. Die Rechtsbeschwerdeführerin ist Inhaberin des deutschen Patents 38 44 902 betreffend eine Lüfterkappe. Die Patentabteilung des Deutschen Patent- und Markenamts hat im …
 - [BGH, Beschluss vom 18.01.2005 - X ZR 108/04](x-zr-108-04.md) — Der zur Mitwirkung in der Patentnichtigkeitsberufungssache X ZR 108/04 (E.
+- [BGH, Urteil vom 18.01.2005 - X ZR 264/02](x-zr-264-02.md) — Tatbestand:
+- [BGH, Urteil vom 11.01.2005 - X ZR 118/03](x-zr-118-03.md) — Vereitelung der Reise ein Entschädigungsanspruch nach § 651 f Abs. 2 BGB zu.
 - [BGH, Urteil vom 11.01.2005 - X ZR 163/02](x-zr-163-02.md) — Tatbestand:
 - [BGH, Urteil vom 11.01.2005 - X ZR 20/02](x-zr-20-02.md) — 3-
+- [BGH, Urteil vom 11.01.2005 - X ZR 233/01](x-zr-233-01.md) — Tatbestand:

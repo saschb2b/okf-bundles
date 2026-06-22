@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu MPG"
 description: "BGH-Entscheidungen zu MPG, geordnet nach Vorschrift."
 tags: [register, navigation, mpg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

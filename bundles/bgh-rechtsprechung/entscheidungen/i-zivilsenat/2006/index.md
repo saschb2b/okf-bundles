@@ -1,66 +1,133 @@
 # I. Zivilsenat – 2006
 
-62 Entscheidung(en).
+129 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2006 - I ZB 17/06](i-zb-17-06.md) — I. Der Kläger hat Klage auf Unterlassung bestimmter Handlungen, Aus- kunftserteilung, Feststellung der Schadensersatzpflicht sowie Löschung eines Domain-Namens erhoben. Das …
 - [BGH, Beschluss vom 14.12.2006 - I ZB 16/06](i-zb-16-06.md) — I. Die Schuldnerin ist Eigentümerin der im Aufteilungsplan der Woh- nungseigentümergemeinschaft L. platz 2/2a in G. mit den Nrn. 1 bis 4 bezeichneten, im Erdgeschoss gelegenen …
 - [BGH, Urteil vom 14.12.2006 - I ZR 11/04](i-zr-11-04.md) — Tatbestand:
 - [BGH, Beschluss vom 14.12.2006 - I ZR 53/06](i-zr-53-06.md) — BGH, Beschluss vom 14.12.2006 - I ZR 53/06
 - [BGH, Beschluss vom 12.12.2006 - I ZB 83/06](i-zb-83-06.md) — BGH, Beschluss vom 12.12.2006 - I ZB 83/06
 - [BGH, Urteil vom 07.12.2006 - I ZR 166/03](i-zr-166-03.md) — Tatbestand:
+- [BGH, Urteil vom 07.12.2006 - I ZR 271/03](i-zr-271-03.md) — Verstoßes gegen das Irreführungsverbot unzulässig.
+- [BGH, Beschluss vom 23.11.2006 - I ZB 39/06](i-zb-39-06.md) — unzulässiger
+- [BGH, Urteil vom 23.11.2006 - I ZR 276/03](i-zr-276-03.md) — der für die Abmahnung aufgewendeten Kosten ein Schadensersatzanspruch jedenfalls dann zu, wenn es sich bei dem Wettbewerbsverstoß um eine Da
+- [BGH, Beschluss vom 16.11.2006 - I ZB 5/05](i-zb-5-05.md) — I. Die Gläubigerin betreibt gegen den Schuldner aus einem Vollstre- ckungsbescheid des Amtsgerichts Cottbus die Zwangsvollstreckung. Der Schuldner hat im Vollstreckungsverfahren …
 - [BGH, Entscheidung vom 16.11.2006 - I ZR 191/03](i-zr-191-03.md) — I ZR 191/03 Berichtigung des Leitsatzes Der Leitsatz des Urteils vom 16. November 2006 - I ZR 191/03 - wird dahingehend berichtigt, dass es bei den angeführten Vorschriften statt …
+- [BGH, Urteil vom 16.11.2006 - I ZR 218/03](i-zr-218-03.md) — 3Tatbestand:
+- [BGH, Urteil vom 16.11.2006 - I ZR 257/03](i-zr-257-03.md) — Tatbestand:
+- [BGH, Beschluss vom 09.11.2006 - I ZB 108/05](i-zb-108-05.md) — Die von der Beklagten beabsichtigte Rechtsverfolgung bietet keine hin- reichende Aussicht auf Erfolg (§ 114 ZPO).
 - [BGH, Beschluss vom 09.11.2006 - I ZB 28/06](i-zb-28-06.md) — BGH, Beschluss vom 09.11.2006 - I ZB 28/06
 - [BGH, Beschluss vom 26.10.2006 - I ZB 113/05](i-zb-113-05.md) — I. Die Gläubigerin hat gegen den Schuldner das gegen Sicherheitsleis- tung vorläufig vollstreckbare Urteil des Landgerichts B. vom 24. September 2004 (Aktenzeichen: 8 O 501/98) …
+- [BGH, Urteil vom 26.10.2006 - I ZR 20/04](i-zr-20-04.md) — Tatbestand:
+- [BGH, Urteil vom 26.10.2006 - I ZR 33/04](i-zr-33-04.md) — Tatbestand:
 - [BGH, Urteil vom 26.10.2006 - I ZR 37/04](i-zr-37-04.md) — BGH, Urteil vom 26.10.2006 - I ZR 37/04
+- [BGH, Urteil vom 26.10.2006 - I ZR 97/04](i-zr-97-04.md) — Tatbestand:
 - [BGH, Beschluss vom 24.10.2006 - I ZR 5/06](i-zr-5-06.md) — Der Senat hat insbesondere auch das Vorbringen der Nichtzulassungs- beschwerde zum gerügten Verstoß des Berufungsgerichts gegen Art.
 - [BGH, Beschluss vom 05.10.2006 - I ZB 73/05](i-zb-73-05.md) — I. Die Anmelderin hat beim Deutschen Patent- und Markenamt die Eintragung einer Marke für die Waren Kraftfahrzeugteile (soweit in Klassen 9 und 12 enthalten) beantragt. In der …
 - [BGH, Beschluss vom 05.10.2006 - I ZB 86/05](i-zb-86-05.md) — I. Die Anmelderin begehrt mit ihrer Anmeldung vom 13. Januar 1995 die Eintragung der Farben "grün/gelb" als "sonstige Markenform". Die grüne Farbe ist bezeichnet als "Pantone …
-- [BGH, Beschluss vom 05.10.2006 - I ZR 247/03](i-zr-247-03.md) — BGH, Beschluss vom 05.10.2006 - I ZR 247/03
+- [BGH, Urteil vom 05.10.2006 - I ZR 229/03](i-zr-229-03.md) — Tatbestand:
+- [BGH, Urteil vom 05.10.2006 - I ZR 24/04](i-zr-24-04.md) — 3Tatbestand:
+- [BGH, Urteil vom 05.10.2006 - I ZR 240/03](i-zr-240-03.md) — Beschädigung des Frachtgutes umfasst außer bei Vorliegen eines qualifizierten Verschuldens i.S. des § 435 HGB keine Folgeschäden. Diese sind
+- [BGH, Urteil vom 05.10.2006 - I ZR 277/03](i-zr-277-03.md) — Tatbestand:
 - [BGH, Beschluss vom 05.10.2006 - I ZR 32/06](i-zr-32-06.md) — BGH, Beschluss vom 05.10.2006 - I ZR 32/06
+- [BGH, Urteil vom 05.10.2006 - I ZR 7/04](i-zr-7-04.md) — Tatbestand:
+- [BGH, Beschluss vom 04.10.2006 - I ZR 196/05](i-zr-196-05.md) — I. Die Beklagte warb in der Ausgabe des K. Stadt-Anzeigers vom 11. August 2004 für eine Reihe von Möbeln mit Eröffnungsrabatten. Die ent- sprechenden Prozentzahlen waren mit einem …
+- [BGH, Beschluss vom 28.09.2006 - I ZB 100/05](i-zb-100-05.md) — , der den Lauf der Benutzungsschonfrist hemmt.
+- [BGH, Beschluss vom 28.09.2006 - I ZB 35/06](i-zb-35-06.md) — A. Der Schuldner und Rechtsbeschwerdeführer zu 1 ist ein eingetragener Verein. Er hat bei der Zwangsversteigerung eines Grundstücks durch Be- schluss des Amtsgerichts Straubing …
 - [BGH, Urteil vom 28.09.2006 - I ZR 198/03](i-zr-198-03.md) — 3Tatbestand:
+- [BGH, Beschluss vom 28.09.2006 - I ZR 261/03](i-zr-261-03.md) — I. Die Klägerin ist ein Dresdner Verlagshaus, bei dem eine Reihe sächsi- scher Ministerial- und Amtsblätter erscheinen. Sie verlegt auch das von der Säch- sischen Staatskanzlei …
 - [BGH, Urteil vom 21.09.2006 - I ZR 2/04](i-zr-2-04.md) — Tatbestand:
+- [BGH, Urteil vom 21.09.2006 - I ZR 201/03](i-zr-201-03.md) — Tatbestand:
+- [BGH, Urteil vom 21.09.2006 - I ZR 270/03](i-zr-270-03.md) — vermeidbarer Herkunftstäuschung und Rufausbeutung gestützten Klage darf zur Begründung eines beantragten umfassenden Verbots nur auf bei jed
+- [BGH, Beschluss vom 21.09.2006 - I ZR 40/06](i-zr-40-06.md) — BGH, Beschluss vom 21.09.2006 - I ZR 40/06
+- [BGH, Urteil vom 21.09.2006 - I ZR 6/04](i-zr-6-04.md) — Tatbestand:
 - [BGH, Beschluss vom 10.08.2006 - I ZB 110/05](i-zb-110-05.md) — einen Geldbetrag in Höhe von umgerechnet 2.013,69 € bean-
 - [BGH, Beschluss vom 10.08.2006 - I ZB 126/05](i-zb-126-05.md) — I. Die Gläubigerin betreibt die Vollstreckung aus dem Versäumnisurteil des Amtsgerichts Oranienburg vom 29. April 2005. Mit ihm wurde der Schuldne- rin aufgegeben, den mit einem …
+- [BGH, Beschluss vom 10.08.2006 - I ZB 135/05](i-zb-135-05.md) — der Ausübung
 - [BGH, Beschluss vom 10.08.2006 - I ZB 99/05](i-zb-99-05.md) — I. Die Beklagten sind gemäß Teilanerkenntnisurteil des Landgerichts vom 26. September 2002 verurteilt worden, bezüglich in ihrem Sondereigentum ste- hender Einheiten Auskunft zu …
-- [BGH, Beschluss vom 20.07.2006 - I ZB 39/05](i-zb-39-05.md) — BGH, Beschluss vom 20.07.2006 - I ZB 39/05
+- [BGH, Beschluss vom 20.07.2006 - I ZB 105/05](i-zb-105-05.md) — I. Die Antragstellerin erwirkte eine einstweilige Verfügung des Landge- richts Frankfurt (Oder), durch die der Antragsgegnerin aufgegeben wurde, die in ihrem Besitz befindlichen …
 - [BGH, Urteil vom 20.07.2006 - I ZR 185/03](i-zr-185-03.md) — Tatbestand:
+- [BGH, Urteil vom 20.07.2006 - I ZR 228/03](i-zr-228-03.md) — Tatbestand:
+- [BGH, Urteil vom 20.07.2006 - I ZR 9/05](i-zr-9-05.md) — Tatbestand:
 - [BGH, Beschluss vom 13.07.2006 - I ZR 20/06](i-zr-20-06.md) — BGH, Beschluss vom 13.07.2006 - I ZR 20/06
+- [BGH, Urteil vom 13.07.2006 - I ZR 222/03](i-zr-222-03.md) — Tatbestand:
+- [BGH, Urteil vom 13.07.2006 - I ZR 231/03](i-zr-231-03.md) — Tatbestand:
+- [BGH, Urteil vom 13.07.2006 - I ZR 234/03](i-zr-234-03.md) — 3Tatbestand:
+- [BGH, Urteil vom 13.07.2006 - I ZR 241/03](i-zr-241-03.md) — Tatbestand:
 - [BGH, Urteil vom 13.07.2006 - I ZR 245/03](i-zr-245-03.md) — Tatbestand:
+- [BGH, Urteil vom 13.07.2006 - I ZR 65/05](i-zr-65-05.md) — Tatbestand:
 - [BGH, Urteil vom 06.07.2006 - I ZR 145/03](i-zr-145-03.md) — Tatbestand:
+- [BGH, Urteil vom 06.07.2006 - I ZR 175/03](i-zr-175-03.md) — des durch § 5 Abs. 1 UrhG geschützten Publizitätsinteresses der Allgemeinheit kann die Vorschrift auch eingreifen, wenn das Werk im urheberr
 - [BGH, Urteil vom 06.07.2006 - I ZR 226/03](i-zr-226-03.md) — Verlustes des Transportgutes entstandenen Schaden führt nicht zum Erlöschen der Ansprüche des frachtbriefmäßigen Empfängers der Ware gegen d
+- [BGH, Urteil vom 29.06.2006 - I ZR 110/03](i-zr-110-03.md) — Tatbestand:
+- [BGH, Beschluss vom 29.06.2006 - I ZR 153/05](i-zr-153-05.md) — irreführender Werbung gegen die Klägerin zuge-
+- [BGH, Urteil vom 29.06.2006 - I ZR 168/03](i-zr-168-03.md) — Tatbestand:
+- [BGH, Urteil vom 29.06.2006 - I ZR 171/03](i-zr-171-03.md) — Tatbestand:
 - [BGH, Urteil vom 29.06.2006 - I ZR 172/03](i-zr-172-03.md) — Tatbestand:
 - [BGH, Urteil vom 29.06.2006 - I ZR 176/03](i-zr-176-03.md) — Beschädigung von Transportgut auf vollen Schadensersatz in Anspruch genommen, muss der Ersatzberechtigte Anhaltspunkte vortragen, die darauf
+- [BGH, Urteil vom 29.06.2006 - I ZR 235/03](i-zr-235-03.md) — 3-
 - [BGH, Urteil vom 14.06.2006 - I ZR 136/03](i-zr-136-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.06.2006 - I ZR 249/03](i-zr-249-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.06.2006 - I ZR 75/03](i-zr-75-03.md) — Tatbestand:
 - [BGH, Beschluss vom 01.06.2006 - I ZB 121/05](i-zb-121-05.md) — fehlender Unterscheidungskraft und wegen eines Freihaltebedürf-
+- [BGH, Urteil vom 01.06.2006 - I ZR 143/03](i-zr-143-03.md) — Tatbestand:
 - [BGH, Urteil vom 01.06.2006 - I ZR 167/03](i-zr-167-03.md) — BGH, Urteil vom 01.06.2006 - I ZR 167/03
 - [BGH, Beschluss vom 01.06.2006 - I ZR 198/05](i-zr-198-05.md) — BGH, Beschluss vom 01.06.2006 - I ZR 198/05
 - [BGH, Urteil vom 01.06.2006 - I ZR 200/03](i-zr-200-03.md) — Tatbestand:
+- [BGH, Urteil vom 01.06.2006 - I ZR 268/03](i-zr-268-03.md) — 3Tatbestand:
+- [BGH, Beschluss vom 18.05.2006 - I ZB 57/05](i-zb-57-05.md) — I. Die Klägerin ist ein in O. ansässiges Unternehmen. Mit ihrer im Jahre 1997 erhobenen Klage nahm sie die Beklagten aus Wettbewerbs- und Geschmacksmusterrecht auf Unterlassung in …
+- [BGH, Urteil vom 18.05.2006 - I ZR 116/03](i-zr-116-03.md) — eines Beitrittmangels nur eine faktische Mitgliedschaft in dem Wettbewerbsverband besteht.
+- [BGH, Versäumnisurteil vom 18.05.2006 - I ZR 183/03](i-zr-183-03.md) — Tatbestand:
 - [BGH, Urteil vom 18.05.2006 - I ZR 32/03](i-zr-32-03.md) — Tatbestand:
+- [BGH, Beschluss vom 11.05.2006 - I ZB 28/04](i-zb-28-04.md) — I. Für den Markeninhaber ist die am 12. Mai 1995 als Kollektivmarke an- gemeldete Marke 395 20 154 am 6. Oktober 1995 für "Dienstleistungen einer gemeinnützigen, karitativen …
 - [BGH, Beschluss vom 11.05.2006 - I ZB 29/04](i-zb-29-04.md) — BGH, Beschluss vom 11.05.2006 - I ZB 29/04
+- [BGH, Beschluss vom 11.05.2006 - I ZB 94/05](i-zb-94-05.md) — I. Der Gläubiger, Mieter einer Wohnung in Berlin, hat gegen die Schuld- nerin, seine Vermieterin, ein vorläufig vollstreckbares Versäumnisurteil vom 7. Juli 2004 erwirkt. Die …
+- [BGH, Urteil vom 11.05.2006 - I ZR 206/02](i-zr-206-02.md) — 3Tatbestand:
+- [BGH, Urteil vom 11.05.2006 - I ZR 250/03](i-zr-250-03.md) — Tatbestand:
+- [BGH, Urteil vom 11.05.2006 - I ZR 79/03](i-zr-79-03.md) — Tatbestand:
 - [BGH, Beschluss vom 27.04.2006 - I ZB 96/05](i-zb-96-05.md) — ihrer allgemeinen Bekanntheit und ihrer begrifflichen Eindeutigkeit stets mit diesem Ereignis als solchem in Verbindung bringt. Ihr fehlt di
 - [BGH, Beschluss vom 27.04.2006 - I ZB 97/05](i-zb-97-05.md) — A. Die am 7. August 2002 angemeldete Wortmarke Nr. 302 38 936 WM 2006 ist am 20. März 2003 für folgende Waren und Dienstleistungen eingetragen worden (die unterschiedliche …
 - [BGH, Urteil vom 27.04.2006 - I ZR 109/03](i-zr-109-03.md) — Tatbestand:
 - [BGH, Urteil vom 27.04.2006 - I ZR 126/03](i-zr-126-03.md) — Tatbestand:
+- [BGH, Urteil vom 27.04.2006 - I ZR 162/03](i-zr-162-03.md) — Tatbestand:
+- [BGH, Urteil vom 27.04.2006 - I ZR 237/03](i-zr-237-03.md) — Tatbestand:
 - [BGH, Beschluss vom 06.04.2006 - I ZB 23/06](i-zb-23-06.md) — Das Rechtsmittel des Antragstellers ist unzulässig.
+- [BGH, Urteil vom 06.04.2006 - I ZR 125/03](i-zr-125-03.md) — Tatbestand:
 - [BGH, Beschluss vom 06.04.2006 - I ZR 161/05](i-zr-161-05.md) — der §§ 3, 4 Nr. 1 UWG erfüllt ist, wenn mit Preisreduzierungen geworben wird, die nur an einem Tag gelten sollen, die potentiellen Käufer keine Möglichkeit haben, sich ausreichend …
+- [BGH, Urteil vom 06.04.2006 - I ZR 272/03](i-zr-272-03.md) — 3Tatbestand:
 - [BGH, Urteil vom 30.03.2006 - I ZR 123/03](i-zr-123-03.md) — BGH, Urteil vom 30.03.2006 - I ZR 123/03
 - [BGH, Urteil vom 30.03.2006 - I ZR 144/03](i-zr-144-03.md) — Tatbestand:
 - [BGH, Beschluss vom 30.03.2006 - I ZR 144/05](i-zr-144-05.md) — für die Zulassung der Revision nicht erkennbar.
 - [BGH, Beschluss vom 30.03.2006 - I ZR 177/05](i-zr-177-05.md) — für die Zulassung der Revision nicht erkennbar.
 - [BGH, Urteil vom 30.03.2006 - I ZR 24/03](i-zr-24-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.03.2006 - I ZR 57/03](i-zr-57-03.md) — 3Tatbestand:
 - [BGH, Urteil vom 30.03.2006 - I ZR 96/03](i-zr-96-03.md) — Tatbestand:
+- [BGH, Beschluss vom 16.03.2006 - I ZB 48/05](i-zb-48-05.md) — Mit seiner Gegenvorstellung wendet sich der Markeninhaber gegen die Festsetzung des Gegenstandswerts für das Rechtsbeschwerdeverfahren auf 50.000 € und beantragt, den …
+- [BGH, Versäumnisurteil vom 16.03.2006 - I ZR 103/03](i-zr-103-03.md) — Tatbestand:
 - [BGH, Urteil vom 16.03.2006 - I ZR 51/03](i-zr-51-03.md) — BGH, Urteil vom 16.03.2006 - I ZR 51/03
+- [BGH, Urteil vom 16.03.2006 - I ZR 65/03](i-zr-65-03.md) — Tatbestand:
+- [BGH, Beschluss vom 16.03.2006 - I ZR 80/05](i-zr-80-05.md) — BGH, Beschluss vom 16.03.2006 - I ZR 80/05
 - [BGH, Urteil vom 16.03.2006 - I ZR 92/03](i-zr-92-03.md) — Tatbestand:
 - [BGH, Beschluss vom 13.03.2006 - I ZR 105/05](i-zr-105-05.md) — des Verlusts von Transportgut bei elf
+- [BGH, Urteil vom 23.02.2006 - I ZR 164/03](i-zr-164-03.md) — Tatbestand:
+- [BGH, Urteil vom 23.02.2006 - I ZR 245/02](i-zr-245-02.md) — Tatbestand:
+- [BGH, Urteil vom 23.02.2006 - I ZR 27/03](i-zr-27-03.md) — BGH, Urteil vom 23.02.2006 - I ZR 27/03
 - [BGH, Urteil vom 23.02.2006 - I ZR 272/02](i-zr-272-02.md) — der Verletzung eines Markenrechts durch gleichliegende Handlungen kann in der Regel bereits dann festgestellt werden, wenn mindestens ein Ve
 - [BGH, Urteil vom 09.02.2006 - I ZR 124/03](i-zr-124-03.md) — Tatbestand:
 - [BGH, Urteil vom 09.02.2006 - I ZR 70/03](i-zr-70-03.md) — Tatbestand:
+- [BGH, Urteil vom 09.02.2006 - I ZR 73/02](i-zr-73-02.md) — Tatbestand:
 - [BGH, Beschluss vom 26.01.2006 - I ZB 64/05](i-zb-64-05.md) — I. Das Urteil des Landgerichts München I, durch das die Klage abgewie- sen worden ist, ist dem Prozessbevollmächtigten der Klägerin am 24. Novem- ber 2004 zugestellt worden. Die …
 - [BGH, Beschluss vom 26.01.2006 - I ZR 116/05](i-zr-116-05.md) — BGH, Beschluss vom 26.01.2006 - I ZR 116/05
 - [BGH, Beschluss vom 26.01.2006 - I ZR 117/05](i-zr-117-05.md) — BGH, Beschluss vom 26.01.2006 - I ZR 117/05
 - [BGH, Urteil vom 26.01.2006 - I ZR 121/03](i-zr-121-03.md) — der behaupteten Verletzungshandlung als auch auf Erstbegehungsgefahr wegen Erklärungen des Beklagten bei der Rechtsverteidigung im gerichtli
+- [BGH, Beschluss vom 26.01.2006 - I ZR 141/05](i-zr-141-05.md) — des ausgesprochenen Werbeverbots sei ein Mitgliederschwund zu verzeichnen und der Beklagte habe erhebliche Mehrkosten für Werbung, weil er s
+- [BGH, Urteil vom 26.01.2006 - I ZR 83/03](i-zr-83-03.md) — des Abschleppens eines verbotswidrig abgestellten Kraftfahrzeugs geltend macht, handelt nicht im geschäftlichen Verkehr, sondern als verläng
 - [BGH, Urteil vom 26.01.2006 - I ZR 89/03](i-zr-89-03.md) — Tatbestand:
 - [BGH, Beschluss vom 26.01.2006 - I ZR 93/05](i-zr-93-05.md) — BGH, Beschluss vom 26.01.2006 - I ZR 93/05
+- [BGH, Beschluss vom 19.01.2006 - I ZB 11/04](i-zb-11-04.md) — I. Für die im Deutschen Lottoblock zusammengeschlossenen sechzehn Lotteriegesellschaften ist mit Zeitrang vom 2. September 1996 die Wortmarke LOTTO für folgende Waren und …
 - [BGH, Beschluss vom 19.01.2006 - I ZB 77/05](i-zb-77-05.md) — I. Die Widersprechende ist Inhaberin der für „Bekleidungsstücke und Schuhe“ eingetragenen nationalen Marke 396 30 087 Rossi -3- Auf ihren Widerspruch hat das Deutsche Patent- und …
 - [BGH, Beschluss vom 19.01.2006 - I ZR 130/05](i-zr-130-05.md) — I. Die Nichtzulassungsbeschwerde macht mit Erfolg geltend, dass das Be- rufungsgericht bei seiner Entscheidung das Recht der Klägerin auf rechtliches Gehör (Art. 103 Abs. 1 GG) …
 - [BGH, Urteil vom 19.01.2006 - I ZR 217/03](i-zr-217-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.01.2006 - I ZR 5/03](i-zr-5-03.md) — BGH, Urteil vom 19.01.2006 - I ZR 5/03
+- [BGH, Urteil vom 19.01.2006 - I ZR 80/03](i-zr-80-03.md) — unterlassener Wertdeklaration kann es ausreichen, dass der Versender die sorgfältigere Behandlung von Wertpaketen durch den Spediteur/Fracht
+- [BGH, Urteil vom 19.01.2006 - I ZR 98/02](i-zr-98-02.md) — Tatbestand:

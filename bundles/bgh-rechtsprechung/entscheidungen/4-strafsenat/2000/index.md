@@ -1,25 +1,56 @@
 # 4. Strafsenat – 2000
 
-104 Entscheidung(en).
+173 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2000 - 4 StR 414/00](4-str-414-00.md) — Vergewaltigung u.a. hier: Anfrage gemäß § 132 Abs. 3 GVG
 - [BGH, Entscheidung vom 21.12.2000 - 4 StR 431/00](4-str-431-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 21.12.2000 - 4 StR 499/00](4-str-499-00.md) — Totschlags
+- [BGH, Beschluss vom 21.12.2000 - 4 StR 530/00](4-str-530-00.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 19.12.2000 - 4 StR 503/00](4-str-503-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 19.12.2000 - 4 StR 525/00](4-str-525-00.md) — versuchten Totschlags u.a.
 - [BGH, Urteil vom 14.12.2000 - 4 StR 327/00](4-str-327-00.md) — schwerer Körperverletzung u.a.
 - [BGH, Urteil vom 14.12.2000 - 4 StR 334/00](4-str-334-00.md) — Vergewaltigung u.a.
 - [BGH, Urteil vom 14.12.2000 - 4 StR 375/00](4-str-375-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 12.12.2000 - 4 StR 458/00](4-str-458-00.md) — Hehlerei u.a.
+- [BGH, Beschluss vom 12.12.2000 - 4 StR 464/00](4-str-464-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 12.12.2000 - 4 StR 483/00](4-str-483-00.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 07.12.2000 - 4 StR 449/00](4-str-449-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 07.12.2000 - 4 StR 485/00](4-str-485-00.md) — Betruges u.a. hier: Revision der Verfallsbeteiligten Jacoba B.
+- [BGH, Beschluss vom 07.12.2000 - 4 StR 497/00](4-str-497-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 30.11.2000 - 4 StR 463/00](4-str-463-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 30.11.2000 - 4 StR 475/00](4-str-475-00.md) — Aussetzung u.a.
 - [BGH, Beschluss vom 30.11.2000 - 4 StR 493/00](4-str-493-00.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 28.11.2000 - 4 StR 474/00](4-str-474-00.md) — Raubes u.a.
+- [BGH, Beschluss vom 28.11.2000 - 4 StR 488/00](4-str-488-00.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.11.2000 - 4 StR 234/00](4-str-234-00.md) — Untreue
+- [BGH, Beschluss vom 23.11.2000 - 4 StR 440/00](4-str-440-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 23.11.2000 - 4 StR 460/00](4-str-460-00.md) — schwerer räuberischer Erpressung
 - [BGH, Urteil vom 21.11.2000 - 4 StR 354/00](4-str-354-00.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 21.11.2000 - 4 StR 489/00](4-str-489-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 16.11.2000 - 4 StR 434/00](4-str-434-00.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 16.11.2000 - 4 StR 438/00](4-str-438-00.md) — Totschlags
+- [BGH, Beschluss vom 09.11.2000 - 4 StR 425/00](4-str-425-00.md) — Totschlags
+- [BGH, Beschluss vom 09.11.2000 - 4 StR 476/00](4-str-476-00.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 07.11.2000 - 4 StR 388/00](4-str-388-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.11.2000 - 4 StR 398/00](4-str-398-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.11.2000 - 4 StR 424/00](4-str-424-00.md) — Betruges
+- [BGH, Beschluss vom 07.11.2000 - 4 StR 456/00](4-str-456-00.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 02.11.2000 - 4 StR 461/99](4-str-461-99.md) — Anordnung der Arbeitserziehung nach der Verordnung über Aufenthaltsbeschränkung
 - [BGH, Beschluss vom 02.11.2000 - 4 StR 471/00](4-str-471-00.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 26.10.2000 - 4 StR 284/99](4-str-284-99.md) — schweren Bandendiebstahls u.a.
 - [BGH, Urteil vom 26.10.2000 - 4 StR 300/00](4-str-300-00.md) — versuchter schwerer Brandstiftung u.a.
 - [BGH, Urteil vom 26.10.2000 - 4 StR 319/00](4-str-319-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 26.10.2000 - 4 StR 340/00](4-str-340-00.md) — Vollrausches
+- [BGH, Beschluss vom 24.10.2000 - 4 StR 405/00](4-str-405-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 19.10.2000 - 4 StR 346/00](4-str-346-00.md) — Diebstahls
+- [BGH, Beschluss vom 19.10.2000 - 4 StR 411/00](4-str-411-00.md) — schweren Raubes
 - [BGH, Beschluss vom 17.10.2000 - 4 StR 231/00](4-str-231-00.md) — schweren Bandendiebstahls u.a.
 - [BGH, Beschluss vom 17.10.2000 - 4 StR 360/00](4-str-360-00.md) — unerlaubten Führens einer halbautomatischen Selbstladekurzwaffe u.a.
+- [BGH, Beschluss vom 10.10.2000 - 4 StR 324/00](4-str-324-00.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 10.10.2000 - 4 StR 369/00](4-str-369-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 10.10.2000 - 4 StR 372/00](4-str-372-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 10.10.2000 - 4 StR 381/00](4-str-381-00.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 10.10.2000 - 4 StR 387/00](4-str-387-00.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 05.10.2000 - 4 StR 313/00](4-str-313-00.md) — Raubes u.a.
 - [BGH, Beschluss vom 05.10.2000 - 4 StR 361/00](4-str-361-00.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 05.10.2000 - 4 StR 374/00](4-str-374-00.md) — Vergewaltigung u.a.
@@ -31,15 +62,19 @@
 - [BGH, Beschluss vom 19.09.2000 - 4 StR 320/99](4-str-320-99.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 19.09.2000 - 4 StR 337/00](4-str-337-00.md) — Irrtums angefochten oder sonst zurückgenommen werden (Kleinknecht/Meyer-Goßner StPO 44. Aufl. § 302 Rdn. 21 m.w.N.); er setzt allerdings Ver
 - [BGH, Beschluss vom 19.09.2000 - 4 StR 357/00](4-str-357-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 14.09.2000 - 4 StR 294/00](4-str-294-00.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 14.09.2000 - 4 StR 314/00](4-str-314-00.md) — Mordes u.a.
 - [BGH, Beschluss vom 12.09.2000 - 4 StR 299/00](4-str-299-00.md) — Totschlags
 - [BGH, Beschluss vom 12.09.2000 - 4 StR 305/00](4-str-305-00.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 12.09.2000 - 4 StR 358/00](4-str-358-00.md) — Raubes mit Todesfolge u.a.
 - [BGH, Urteil vom 17.08.2000 - 4 StR 233/00](4-str-233-00.md) — unerlaubter Abgabe von Betäubungsmitteln an Minderjährige u.a.
 - [BGH, Urteil vom 17.08.2000 - 4 StR 245/00](4-str-245-00.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 15.08.2000 - 4 StR 308/00](4-str-308-00.md) — schwerer räuberischer Erpressung
 - [BGH, Entscheidung vom 10.08.2000 - 4 StR 188/00](4-str-188-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 10.08.2000 - 4 StR 304/00](4-str-304-00.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 03.08.2000 - 4 StR 259/00](4-str-259-00.md) — Mordes
 - [BGH, Entscheidung vom 03.08.2000 - 4 StR 280/00](4-str-280-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 03.08.2000 - 4 StR 287/00](4-str-287-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 03.08.2000 - 4 StR 290/00](4-str-290-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Entscheidung vom 03.08.2000 - 4 StR 302/00](4-str-302-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Urteil vom 27.07.2000 - 4 StR 185/00](4-str-185-00.md) — Verdachts der versuchten Anstiftung zum Mord
@@ -49,15 +84,39 @@
 - [BGH, Beschluss vom 25.07.2000 - 4 StR 276/00](4-str-276-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 18.07.2000 - 4 StR 258/00](4-str-258-00.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 13.07.2000 - 4 StR 230/00](4-str-230-00.md) — schweren Raubes
+- [BGH, Beschluss vom 13.07.2000 - 4 StR 246/00](4-str-246-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 13.07.2000 - 4 StR 271/00](4-str-271-00.md) — Untreue u.a.
 - [BGH, Beschluss vom 11.07.2000 - 4 StR 195/00](4-str-195-00.md) — versuchten Diebstahls u.a.
+- [BGH, Beschluss vom 11.07.2000 - 4 StR 232/00](4-str-232-00.md) — Raubes u.a.
+- [BGH, Beschluss vom 11.07.2000 - 4 StR 238/00](4-str-238-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 11.07.2000 - 4 StR 254/00](4-str-254-00.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
+- [BGH, Beschluss vom 04.07.2000 - 4 StR 224/00](4-str-224-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 29.06.2000 - 4 StR 190/00](4-str-190-00.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 29.06.2000 - 4 StR 202/00](4-str-202-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 29.06.2000 - 4 StR 40/00](4-str-40-00.md) — Verkehrsordnungswidrigkeit
+- [BGH, Beschluss vom 27.06.2000 - 4 StR 152/00](4-str-152-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 27.06.2000 - 4 StR 184/00](4-str-184-00.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 27.06.2000 - 4 StR 211/00](4-str-211-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 27.06.2000 - 4 StR 236/00](4-str-236-00.md) — Vergewaltigung u.a.
 - [BGH, Urteil vom 20.06.2000 - 4 StR 162/00](4-str-162-00.md) — Verdachts des Mordes u.a.
 - [BGH, Urteil vom 15.06.2000 - 4 StR 139/00](4-str-139-00.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Urteil vom 15.06.2000 - 4 StR 156/00](4-str-156-00.md) — sexuellen Mißbrauchs von Gefangenen
 - [BGH, Urteil vom 15.06.2000 - 4 StR 172/00](4-str-172-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 13.06.2000 - 4 StR 166/00](4-str-166-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 13.06.2000 - 4 StR 179/00](4-str-179-00.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 06.06.2000 - 4 StR 191/00](4-str-191-00.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 06.06.2000 - 4 StR 208/00](4-str-208-00.md) — räuberischen Angriffs auf Kraftfahrer u.a.
 - [BGH, Beschluss vom 06.06.2000 - 4 StR 91/00](4-str-91-00.md) — Bandendiebstahls u.a.
+- [BGH, Urteil vom 30.05.2000 - 4 StR 24/00](4-str-24-00.md) — Zuhälterei u.a.
+- [BGH, Urteil vom 30.05.2000 - 4 StR 25/00](4-str-25-00.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 30.05.2000 - 4 StR 54/00](4-str-54-00.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 30.05.2000 - 4 StR 90/00](4-str-90-00.md) — schwerer Körperverletzung u.a.
+- [BGH, Beschluss vom 26.05.2000 - 4 StR 131/00](4-str-131-00.md) — fahrlässiger Tötung u. a.
+- [BGH, Beschluss vom 25.05.2000 - 4 StR 143/00](4-str-143-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 25.05.2000 - 4 StR 171/00](4-str-171-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.05.2000 - 4 StR 135/00](4-str-135-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 23.05.2000 - 4 StR 146/00](4-str-146-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 23.05.2000 - 4 StR 157/00](4-str-157-00.md) — Totschlags u.a.
 - [BGH, Beschluss vom 18.05.2000 - 4 StR 116/00](4-str-116-00.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 18.05.2000 - 4 StR 127/00](4-str-127-00.md) — schwerer räuberischer Erpressung
 - [BGH, Urteil vom 18.05.2000 - 4 StR 29/00](4-str-29-00.md) — versuchten Totschlags u.a.
@@ -71,12 +130,22 @@
 - [BGH, Beschluss vom 09.05.2000 - 4 StR 59/00](4-str-59-00.md) — Betruges u.a.
 - [BGH, Beschluss vom 27.04.2000 - 4 StR 85/00](4-str-85-00.md) — Betruges u.a.
 - [BGH, Beschluss vom 27.04.2000 - 4 StR 96/00](4-str-96-00.md) — Totschlags u.a.
+- [BGH, Beschluss vom 30.03.2000 - 4 StR 80/00](4-str-80-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 30.03.2000 - 4 StR 94/00](4-str-94-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 28.03.2000 - 4 StR 69/00](4-str-69-00.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 23.03.2000 - 4 StR 10/00](4-str-10-00.md) — versuchter Vergewaltigung mit Todesfolge
 - [BGH, Urteil vom 23.03.2000 - 4 StR 19/00](4-str-19-00.md) — Betruges u.a.
 - [BGH, Urteil vom 23.03.2000 - 4 StR 34/00](4-str-34-00.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 23.03.2000 - 4 StR 50/00](4-str-50-00.md) — Raubes und gefährlicher Körperverletzung
 - [BGH, Urteil vom 23.03.2000 - 4 StR 502/99](4-str-502-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 23.03.2000 - 4 StR 650/99](4-str-650-99.md) — versuchter räuberischer Erpressung mit Todesfolge u.a.
+- [BGH, Beschluss vom 21.03.2000 - 4 StR 287/99](4-str-287-99.md) — Verstoßes gegen das Arbeitnehmer-Entsendegesetz
+- [BGH, Beschluss vom 21.03.2000 - 4 StR 43/00](4-str-43-00.md) — versuchten schweren Raubes u.a.
+- [BGH, Beschluss vom 16.03.2000 - 4 StR 2/00](4-str-2-00.md) — Brandstiftung
+- [BGH, Beschluss vom 16.03.2000 - 4 StR 655/99](4-str-655-99.md) — Bestechlichkeit u.a.
+- [BGH, Beschluss vom 14.03.2000 - 4 StR 3/00](4-str-3-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 09.03.2000 - 4 StR 513/99](4-str-513-99.md) — erpresserischen Menschenraubes u.a.
+- [BGH, Beschluss vom 22.02.2000 - 4 StR 446/99](4-str-446-99.md) — sexueller Nötigung
 - [BGH, Entscheidung vom 15.02.2000 - 4 StR 507/99](4-str-507-99.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Urteil vom 10.02.2000 - 4 StR 558/99](4-str-558-99.md) — Körperverletzung mit Todesfolge
 - [BGH, Urteil vom 10.02.2000 - 4 StR 616/99](4-str-616-99.md) — schwerer räuberischer Erpressung

@@ -1,29 +1,56 @@
 # 3. Strafsenat – 2004
 
-74 Entscheidung(en).
+157 Entscheidung(en).
 
+- [BGH, Beschluss vom 22.12.2004 - 3 StR 403/04](3-str-403-04.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 21.12.2004 - 3 StR 275/04](3-str-275-04.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 21.12.2004 - 3 StR 429/04](3-str-429-04.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 21.12.2004 - 3 StR 437/04](3-str-437-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 21.12.2004 - 3 StR 451/04](3-str-451-04.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Urteil vom 16.12.2004 - 3 StR 157/04](3-str-157-04.md) — Untreue
 - [BGH, Urteil vom 16.12.2004 - 3 StR 362/04](3-str-362-04.md) — erpresserischen Menschenraubes u. a.
 - [BGH, Urteil vom 16.12.2004 - 3 StR 379/04](3-str-379-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 16.12.2004 - 3 StR 387/04](3-str-387-04.md) — sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 16.12.2004 - 3 StR 442/04](3-str-442-04.md) — Fälschung von Zahlungskarten u. a.
 - [BGH, Beschluss vom 15.12.2004 - 3 StR 226/04](3-str-226-04.md) — Totschlags u. a.
+- [BGH, Beschluss vom 15.12.2004 - 3 StR 430/04](3-str-430-04.md) — Vergewaltigung u. a.
+- [BGH, Urteil vom 02.12.2004 - 3 StR 219/04](3-str-219-04.md) — schweren Raubes
 - [BGH, Urteil vom 02.12.2004 - 3 StR 246/04](3-str-246-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 02.12.2004 - 3 StR 348/04](3-str-348-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 02.12.2004 - 3 StR 352/04](3-str-352-04.md) — sexuellen Mißbrauchs unter Ausnutzung eines Betreuungsverhältnisses u. a.
 - [BGH, Beschluss vom 02.12.2004 - 3 StR 423/04](3-str-423-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 30.11.2004 - 3 StR 424/04](3-str-424-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 18.11.2004 - 3 StR 399/04](3-str-399-04.md) — versuchter schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 17.11.2004 - 3 StR 417/04](3-str-417-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 16.11.2004 - 3 StR 391/04](3-str-391-04.md) — besonders schwerer Vergewaltigung u. a.
 - [BGH, Beschluss vom 16.11.2004 - 3 StR 415/04](3-str-415-04.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 11.11.2004 - 3 StR 381/04](3-str-381-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 09.11.2004 - 3 StR 382/04](3-str-382-04.md) — schweren Bandendiebstahls u. a.
 - [BGH, Urteil vom 28.10.2004 - 3 StR 301/03](3-str-301-03.md) — zu 1.: Vorteilsannahme zu 2.: Beihilfe zum Betrug u. a. zu 3.: Vorteilsgewährung u. a.
+- [BGH, Urteil vom 28.10.2004 - 3 StR 460/03](3-str-460-03.md) — zu 1. und 2.: Bestechlichkeit u. a. zu 3. bis 5.: Bestechung u. a.
+- [BGH, Beschluss vom 26.10.2004 - 3 StR 353/04](3-str-353-04.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 26.10.2004 - 3 StR 360/04](3-str-360-04.md) — Bestimmens einer Person unter 18 Jahren zur Einfuhr von Betäubungsmitteln u. a.
+- [BGH, Urteil vom 21.10.2004 - 3 StR 94/04](3-str-94-04.md) — Mitgliedschaft in einer kriminellen Vereinigung u. a.; hier: Revision des Angeklagten A.
+- [BGH, Beschluss vom 19.10.2004 - 3 StR 221/04](3-str-221-04.md) — Mordes u. a.
 - [BGH, Beschluss vom 19.10.2004 - 3 StR 320/04](3-str-320-04.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 13.10.2004 - 3 StR 253/04](3-str-253-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 13.10.2004 - 3 StR 371/04](3-str-371-04.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 13.10.2004 - 3 StR 372/04](3-str-372-04.md) — sexueller Nötigung u. a.
+- [BGH, Urteil vom 07.10.2004 - 3 StR 136/04](3-str-136-04.md) — fahrlässiger Tötung
+- [BGH, Beschluss vom 05.10.2004 - 3 StR 256/04](3-str-256-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 05.10.2004 - 3 StR 288/04](3-str-288-04.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 05.10.2004 - 3 StR 349/04](3-str-349-04.md) — schweren Raubes u. a.
+- [BGH, Urteil vom 23.09.2004 - 3 StR 214/04](3-str-214-04.md) — Betruges
+- [BGH, Beschluss vom 23.09.2004 - 3 StR 255/04](3-str-255-04.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 21.09.2004 - 3 StR 185/04](3-str-185-04.md) — Körperverletzung mit Todesfolge u. a.
+- [BGH, Beschluss vom 21.09.2004 - 3 StR 331/04](3-str-331-04.md) — sexuellen Mißbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 21.09.2004 - 3 StR 333/04](3-str-333-04.md) — versuchten Mordes
+- [BGH, Beschluss vom 21.09.2004 - 3 StR 337/04](3-str-337-04.md) — Körperverletzung u. a.
 - [BGH, Beschluss vom 21.09.2004 - 3 StR 340/04](3-str-340-04.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 16.09.2004 - 3 StR 313/04](3-str-313-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 16.09.2004 - 3 StR 316/04](3-str-316-04.md) — Totschlags
+- [BGH, Beschluss vom 16.09.2004 - 3 StR 332/04](3-str-332-04.md) — sexuellen Mißbrauchs einer widerstandsunfähigen Person u. a.
+- [BGH, Beschluss vom 15.09.2004 - 3 StR 291/04](3-str-291-04.md) — versuchten schweren Raubes u. a.
 - [BGH, Beschluss vom 15.09.2004 - 3 StR 321/04](3-str-321-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 26.08.2004 - 3 StR 293/04](3-str-293-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 19.08.2004 - 3 StR 186/04](3-str-186-04.md) — Anstiftung zur besonders schweren Brandstiftung u. a.
@@ -31,48 +58,104 @@
 - [BGH, Urteil vom 19.08.2004 - 3 StR 380/03](3-str-380-03.md) — gewerbsmäßigen Bandenbetruges u. a.
 - [BGH, Beschluss vom 17.08.2004 - 3 StR 174/04](3-str-174-04.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 17.08.2004 - 3 StR 177/04](3-str-177-04.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 17.08.2004 - 3 StR 24/04](3-str-24-04.md) — Mordes; hier: Gegenvorstellung des K.
+- [BGH, Beschluss vom 17.08.2004 - 3 StR 282/04](3-str-282-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 12.08.2004 - 3 ARs 5/04](3-ars-5-04.md) — gewerbsmäßiger Bandenhehlerei u. a.; hier: Anfrage des 5. Strafsenats - 5 StR 376/03 - gemäß § 132 Abs. 3 GVG
 - [BGH, Beschluss vom 11.08.2004 - 3 StR 202/04](3-str-202-04.md) — Brandstiftung u. a.
 - [BGH, Beschluss vom 11.08.2004 - 3 StR 272/04](3-str-272-04.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 10.08.2004 - 3 StR 209/04](3-str-209-04.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 10.08.2004 - 3 StR 240/04](3-str-240-04.md) — vorsätzlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 10.08.2004 - 3 StR 243/04](3-str-243-04.md) — Brandstiftung u. a.
 - [BGH, Beschluss vom 10.08.2004 - 3 StR 263/04](3-str-263-04.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 10.08.2004 - 3 StR 268/04](3-str-268-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 29.07.2004 - 3 StR 181/04](3-str-181-04.md) — Anstiftung zur versuchten besonders schweren Brandstiftung u. a.
 - [BGH, Urteil vom 29.07.2004 - 3 StR 65/04](3-str-65-04.md) — sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 27.07.2004 - 3 StR 71/04](3-str-71-04.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 20.07.2004 - 3 StR 228/04](3-str-228-04.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 20.07.2004 - 3 StR 229/04](3-str-229-04.md) — schweren Raubes
+- [BGH, Beschluss vom 20.07.2004 - 3 StR 231/04](3-str-231-04.md) — gewerbsmäßiger Hehlerei
 - [BGH, Beschluss vom 20.07.2004 - 3 StR 299/04](3-str-299-04.md) — schweren Raubes
+- [BGH, Beschluss vom 15.07.2004 - 3 StR 130/04](3-str-130-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 13.07.2004 - 3 StR 189/04](3-str-189-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 13.07.2004 - 3 StR 211/04](3-str-211-04.md) — Beihilfe zur Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.07.2004 - 3 StR 220/04](3-str-220-04.md) — schweren Raubes u. a.
 - [BGH, Urteil vom 01.07.2004 - 3 StR 107/04](3-str-107-04.md) — Mordes
+- [BGH, Beschluss vom 01.07.2004 - 3 StR 179/04](3-str-179-04.md) — Nötigung u. a.
+- [BGH, Beschluss vom 01.07.2004 - 3 StR 206/04](3-str-206-04.md) — fahrlässiger Tötung
+- [BGH, Urteil vom 01.07.2004 - 3 StR 494/03](3-str-494-03.md) — Mordes
 - [BGH, Beschluss vom 29.06.2004 - 3 StR 193/04](3-str-193-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 23.06.2004 - 3 StR 108/04](3-str-108-04.md) — sexueller Nötigung in einem besonders schweren Fall (Vergewaltigung)
 - [BGH, Beschluss vom 23.06.2004 - 3 StR 158/04](3-str-158-04.md) — versuchter schwerer Brandstiftung u. a.
+- [BGH, Beschluss vom 17.06.2004 - 3 StR 172/04](3-str-172-04.md) — schweren Raubes
 - [BGH, Urteil vom 17.06.2004 - 3 StR 344/03](3-str-344-03.md) — gewerbsmäßigen Bandenbetruges
+- [BGH, Urteil vom 17.06.2004 - 3 StR 76/04](3-str-76-04.md) — zu 1.: Brandstiftung zu 2.: Beihilfe zur Brandstiftung u. a.
 - [BGH, Beschluss vom 15.06.2004 - 3 StR 162/04](3-str-162-04.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
-- [BGH, Beschluss vom 15.06.2004 - 3 StR 368/02](3-str-368-02.md) — zu 1.: Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a. zu 2.: Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 15.06.2004 - 3 StR 187/04](3-str-187-04.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 15.06.2004 - 3 StR 503/03](3-str-503-03.md) — Besitzes von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 09.06.2004 - 3 StR 165/04](3-str-165-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 09.06.2004 - 3 StR 166/04](3-str-166-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 27.05.2004 - 3 StR 500/03](3-str-500-03.md) — räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 26.05.2004 - 3 StR 149/04](3-str-149-04.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 26.05.2004 - 3 StR 15/04](3-str-15-04.md) — schweren Bandendiebstahls u. a.
+- [BGH, Beschluss vom 11.05.2004 - 3 StR 139/04](3-str-139-04.md) — Betruges u. a
+- [BGH, Beschluss vom 11.05.2004 - 3 StR 143/04](3-str-143-04.md) — versuchter schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 06.05.2004 - 3 StR 148/04](3-str-148-04.md) — Anstiftung zur Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 06.05.2004 - 3 StR 151/04](3-str-151-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 06.05.2004 - 3 StR 78/04](3-str-78-04.md) — versuchten Mordes u. a.
 - [BGH, Beschluss vom 04.05.2004 - 3 StR 126/04](3-str-126-04.md) — sexuellen Mißbrauchs von Schutzbefohlenen u. a.
 - [BGH, Beschluss vom 04.05.2004 - 3 StR 132/04](3-str-132-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 27.04.2004 - 3 StR 112/04](3-str-112-04.md) — versuchter Herbeiführung einer Sprengstoffexplosion u. a.
+- [BGH, Beschluss vom 27.04.2004 - 3 StR 116/04](3-str-116-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 27.04.2004 - 3 StR 118/04](3-str-118-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.04.2004 - 3 StR 128/04](3-str-128-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 27.04.2004 - 3 StR 140/04](3-str-140-04.md) — Vergewaltigung
+- [BGH, Beschluss vom 22.04.2004 - 3 StR 113/04](3-str-113-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 22.04.2004 - 3 StR 115/04](3-str-115-04.md) — Totschlags
 - [BGH, Urteil vom 22.04.2004 - 3 StR 28/04](3-str-28-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 22.04.2004 - 3 StR 428/03](3-str-428-03.md) — besonders schwerer Brandstiftung u. a.
 - [BGH, Urteil vom 08.04.2004 - 3 StR 105/04](3-str-105-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 08.04.2004 - 3 StR 465/03](3-str-465-03.md) — Betrugs
 - [BGH, Beschluss vom 06.04.2004 - 3 StR 103/04](3-str-103-04.md) — schweren Raubes
+- [BGH, Beschluss vom 06.04.2004 - 3 StR 29/04](3-str-29-04.md) — Verabredung zur schweren räuberischen Erpressung u. a.
+- [BGH, Beschluss vom 06.04.2004 - 3 StR 97/04](3-str-97-04.md) — Geiselnahme u.a.
+- [BGH, Beschluss vom 01.04.2004 - 3 StR 87/04](3-str-87-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 01.04.2004 - 3 StR 90/04](3-str-90-04.md) — Betruges
+- [BGH, Beschluss vom 01.04.2004 - 3 StR 92/04](3-str-92-04.md) — Raubes mit Todesfolge u. a.
+- [BGH, Beschluss vom 30.03.2004 - 3 StR 67/04](3-str-67-04.md) — Beihilfe zum bewaffneten Betäubungsmittelhandel
+- [BGH, Beschluss vom 30.03.2004 - 3 StR 88/04](3-str-88-04.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 30.03.2004 - 3 StR 98/04](3-str-98-04.md) — Mordes
+- [BGH, Beschluss vom 18.03.2004 - 3 StR 468/03](3-str-468-03.md) — Besitzes von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 18.03.2004 - 3 StR 81/04](3-str-81-04.md) — vorsätzlicher Körperverletzung
+- [BGH, Beschluss vom 11.03.2004 - 3 StR 493/03](3-str-493-03.md) — Totschlags
 - [BGH, Beschluss vom 11.03.2004 - 3 StR 57/04](3-str-57-04.md) — versuchter Nötigung u. a.
+- [BGH, Beschluss vom 11.03.2004 - 3 StR 61/04](3-str-61-04.md) — versuchter schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 11.03.2004 - 3 StR 68/04](3-str-68-04.md) — Untreue u. a.
 - [BGH, Beschluss vom 09.03.2004 - 3 StR 446/03](3-str-446-03.md) — Untreue
+- [BGH, Urteil vom 04.03.2004 - 3 StR 218/03](3-str-218-03.md) — Beihilfe zum Mord u. a.
+- [BGH, Beschluss vom 04.03.2004 - 3 StR 461/03](3-str-461-03.md) — Betruges u. a.
+- [BGH, Beschluss vom 03.03.2004 - 3 StR 10/04](3-str-10-04.md) — Landfriedensbruchs u. a.
+- [BGH, Beschluss vom 03.03.2004 - 3 StR 26/04](3-str-26-04.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 03.03.2004 - 3 StR 37/04](3-str-37-04.md) — sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 03.03.2004 - 3 StR 51/04](3-str-51-04.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 03.03.2004 - 3 StR 53/04](3-str-53-04.md) — sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 19.02.2004 - 3 StR 19/04](3-str-19-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 19.02.2004 - 3 StR 25/04](3-str-25-04.md) — Wohnungseinbruchsdiebstahls
+- [BGH, Beschluss vom 17.02.2004 - 3 StR 448/03](3-str-448-03.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 13.02.2004 - 3 StR 501/03](3-str-501-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.; hier: Revision des Angeklagten R.
 - [BGH, Urteil vom 12.02.2004 - 3 StR 185/03](3-str-185-03.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 12.02.2004 - 3 StR 408/03](3-str-408-03.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 27.01.2004 - 3 StR 201/03](3-str-201-03.md) — schweren sexuellen Mißbrauchs eines Kindes
 - [BGH, Beschluss vom 27.01.2004 - 3 StR 454/03](3-str-454-03.md) — Fälschens von Zahlungskarten u. a.
 - [BGH, Beschluss vom 27.01.2004 - 3 StR 479/03](3-str-479-03.md) — schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 27.01.2004 - 3 StR 489/03](3-str-489-03.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 15.01.2004 - 3 StR 352/03](3-str-352-03.md) — Brandstiftung
 - [BGH, Urteil vom 15.01.2004 - 3 StR 382/03](3-str-382-03.md) — Totschlags u. a.
 - [BGH, Beschluss vom 15.01.2004 - 3 StR 481/03](3-str-481-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 15.01.2004 - 3 StR 487/03](3-str-487-03.md) — schwerer räuberischer Erpressung; hier: Revision des Angeklagten P.
+- [BGH, Beschluss vom 15.01.2004 - 3 StR 490/03](3-str-490-03.md) — Nötigung; hier: Revision des Angeklagten S.
+- [BGH, Beschluss vom 08.01.2004 - 3 StR 418/03](3-str-418-03.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 08.01.2004 - 3 StR 451/03](3-str-451-03.md) — Diebstahls u. a.
 - [BGH, Beschluss vom 08.01.2004 - 3 StR 457/03](3-str-457-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
 - [BGH, Beschluss vom 08.01.2004 - 3 StR 478/03](3-str-478-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 07.01.2004 - 3 StR 452/03](3-str-452-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 07.01.2004 - 3 StR 456/03](3-str-456-03.md) — gefährlicher Körperverletzung

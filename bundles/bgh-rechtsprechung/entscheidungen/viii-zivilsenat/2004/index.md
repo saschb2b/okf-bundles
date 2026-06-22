@@ -1,7 +1,9 @@
 # VIII. Zivilsenat – 2004
 
-73 Entscheidung(en).
+145 Entscheidung(en).
 
+- [BGH, Urteil vom 22.12.2004 - VIII ZR 37/04](viii-zr-37-04.md) — Tatbestand: Das Landgericht hat die Berufung der Klägerin gegen das Urteil des Amtsgerichts Greifswald vom 14. September 2001 zurückgewiesen
+- [BGH, Urteil vom 22.12.2004 - VIII ZR 41/04](viii-zr-41-04.md) — wesentlicher Änderung der Geschäftsgrundlage verlangen.
 - [BGH, Urteil vom 22.12.2004 - VIII ZR 91/04](viii-zr-91-04.md) — Tatbestand:
 - [BGH, Urteil vom 08.12.2004 - VIII ZR 218/03](viii-zr-218-03.md) — Tatbestand: Die Parteien streiten um die Wirksamkeit einer fristlosen Kündigung. Die Klägerin, eine städtische Wohnungsbaugesellschaft, hat
 - [BGH, Urteil vom 22.11.2004 - VIII ZR 21/04](viii-zr-21-04.md) — Tatbestand: Der Kläger kaufte von dem Beklagten, der ein Fachhandelsgeschäft für Gartenartikel betreibt, am 11. Juli 2002 ein Teichbecken au
@@ -11,67 +13,137 @@
 - [BGH, Beschluss vom 16.11.2004 - VIII ZB 32/04](viii-zb-32-04.md) — BGH, Beschluss vom 16.11.2004 - VIII ZB 32/04
 - [BGH, Beschluss vom 16.11.2004 - VIII ZB 45/04](viii-zb-45-04.md) — BGH, Beschluss vom 16.11.2004 - VIII ZB 45/04
 - [BGH, Urteil vom 10.11.2004 - VIII ZR 186/03](viii-zr-186-03.md) — ein, weil die Leasinggesellschaft dem Leasingnehmer als dessen Vertragspartner näher steht als das refinanzierende Kreditinstitut.
+- [BGH, Urteil vom 10.11.2004 - VIII ZR 219/03](viii-zr-219-03.md) — Tatbestand:
+- [BGH, Urteil vom 10.11.2004 - VIII ZR 220/03](viii-zr-220-03.md) — Tatbestand: Die Klägerin, eine Sparkasse, nimmt die beklagte Leasinggesellschaft der Sparkassen auf Rückzahlung bzw. Ersatz eines Teils des
 - [BGH, Urteil vom 10.11.2004 - VIII ZR 221/03](viii-zr-221-03.md) — Tatbestand: Die Klägerin, eine Sparkasse, nimmt die beklagte Leasinggesellschaft der Sparkassen auf Rückzahlung bzw. Ersatz eines Teils des
 - [BGH, Urteil vom 10.11.2004 - VIII ZR 222/03](viii-zr-222-03.md) — Tatbestand: Die Klägerin, eine Sparkasse, nimmt die beklagte Leasinggesellschaft der Sparkassen auf Rückzahlung bzw. Ersatz eines Teils des
+- [BGH, Urteil vom 10.11.2004 - VIII ZR 223/03](viii-zr-223-03.md) — Tatbestand:
 - [BGH, Urteil vom 10.11.2004 - VIII ZR 391/03](viii-zr-391-03.md) — BGH, Urteil vom 10.11.2004 - VIII ZR 391/03
 - [BGH, Beschluss vom 09.11.2004 - VIII ZB 36/04](viii-zb-36-04.md) — BGH, Beschluss vom 09.11.2004 - VIII ZB 36/04
 - [BGH, Beschluss vom 09.11.2004 - VIII ZB 60/04](viii-zb-60-04.md) — unterlassener Schönheitsreparaturen verlangt. In der Klageschrift hat sie als ihre Adresse ausschließlich eine Anschrift in Spanien angegebe
+- [BGH, Beschluss vom 03.11.2004 - VIII ZB 130/03](viii-zb-130-03.md) — Besorgnis der Befangenheit entschieden worden sei. Diese Beschwerde sei inzwischen zurückgewiesen worden. Dadurch sei der Verfahrensfehler,
+- [BGH, Beschluss vom 03.11.2004 - VIII ZB 98/04](viii-zb-98-04.md) — Die als Revision bezeichneten Eingaben der Beklagten vom 2.
+- [BGH, Urteil vom 03.11.2004 - VIII ZR 28/04](viii-zr-28-04.md) — Tatbestand:
 - [BGH, Urteil vom 03.11.2004 - VIII ZR 344/03](viii-zr-344-03.md) — Tatbestand:
+- [BGH, Urteil vom 03.11.2004 - VIII ZR 375/03](viii-zr-375-03.md) — Tatbestand: Der Kläger handelt gewerblich mit Gold- und Silberschmuckstücken. Er stellte am 7. September 2002 auf der Website der eBay Inter
+- [BGH, Beschluss vom 27.10.2004 - VIII ZR 215/04](viii-zr-215-04.md) — I. Das Landgericht hat die Beklagten zur Räumung und Herausgabe der von ihnen genutzten Wohnung verurteilt; die Revision hat es nicht zugelassen. Im Rahmen des Verfahrens über die …
 - [BGH, Urteil vom 20.10.2004 - VIII ZR 246/03](viii-zr-246-03.md) — Tatbestand:
+- [BGH, Urteil vom 20.10.2004 - VIII ZR 36/03](viii-zr-36-03.md) — Zahlungsunfähigkeit des Lieferanten nicht realisieren kann.
 - [BGH, Urteil vom 20.10.2004 - VIII ZR 378/03](viii-zr-378-03.md) — Tatbestand: Die Klägerin, eine gemeinnützige Wohnungsbaugenossenschaft, verlangt von der Beklagten Schadensersatz wegen der Kosten von Schön
 - [BGH, Beschluss vom 19.10.2004 - VIII ZR 327/03](viii-zr-327-03.md) — I. Der Beklagte mietete mit Vertrag vom 15. Februar 2000 eine Wohnung im Mehrparteienhaus der Klägerin in der W. straße in B. Nr. 7 der Allgemeinen Vertragsbestimmungen der …
 - [BGH, Beschluss vom 06.10.2004 - VIII ZR 146/04](viii-zr-146-04.md) — I. Die Kläger machen gegen den Beklagten einen Anspruch auf Räumung der ihnen gehörenden und vom Beklagten gemieteten Wohnung geltend. Das Landgericht Düsseldorf hat durch Urteil …
+- [BGH, Urteil vom 06.10.2004 - VIII ZR 2/04](viii-zr-2-04.md) — Tatbestand:
+- [BGH, Urteil vom 06.10.2004 - VIII ZR 215/03](viii-zr-215-03.md) — Tatbestand:
 - [BGH, Urteil vom 06.10.2004 - VIII ZR 355/03](viii-zr-355-03.md) — Tatbestand:
 - [BGH, Urteil vom 29.09.2004 - VIII ZR 341/03](viii-zr-341-03.md) — Tatbestand:
+- [BGH, Urteil vom 22.09.2004 - VIII ZR 203/03](viii-zr-203-03.md) — Tatbestand:
+- [BGH, Urteil vom 22.09.2004 - VIII ZR 360/03](viii-zr-360-03.md) — unangemessener Benachteiligung des Mieters unwirksam, wenn die Verpflichtung als solche und die für ihre Erfüllung maßgebenden starren Frist
+- [BGH, Beschluss vom 21.09.2004 - VIII ZB 64/04](viii-zb-64-04.md) — Untätigkeit des Hanseatischen Oberlandesgerichts Hamburg werden auf ihre Kosten als unzulässig verworfen. Streitwert für das Beschwerdeverfa
 - [BGH, Beschluss vom 14.09.2004 - VIII ZB 77/03](viii-zb-77-03.md) — Nach der Rechtsprechung des Bundesgerichtshofs bestimmt sich die Vergütung des Rechtsanwalts für seine Tätigkeit im Verfahren über eine vom Beschwerdegericht zugelassene …
+- [BGH, Beschluss vom 09.08.2004 - VIII ZR 178/04](viii-zr-178-04.md) — kann sich der Schuldner nach der ständigen Rechtsprechung des Bundesgerichtshofs grundsätzlich nur dann darauf berufen, die Zwangsvollstreck
+- [BGH, Beschluss vom 26.07.2004 - VIII ZB 29/04](viii-zb-29-04.md) — I. Mit Entscheidung vom 11. Juni 2003 hat das Amtsgericht die Beklagte verurteilt, "... das erdberührte Mauerwerk des zu der Wohnung ... gehörenden Kellers ... gegen …
+- [BGH, Beschluss vom 26.07.2004 - VIII ZB 44/03](viii-zb-44-03.md) — Zahlungsverzugs des Beklagten fristlos und verlangte die Herausgabe der Wohnungsschlüssel. Die zum Zeitpunkt der Kündigung rückständigen Mie
+- [BGH, Beschluss vom 26.07.2004 - VIII ZB 63/04](viii-zb-63-04.md) — I. Der Beklagte hat gegen das ihm am 17. Dezember 2003 zugestellte Urteil des Landgerichts fristgerecht Berufung eingelegt. Mit Schriftsatz vom 23. Februar 2004, eingegangen beim …
+- [BGH, Beschluss vom 26.07.2004 - VIII ZR 10/04](viii-zr-10-04.md) — Nichtgewährung des Gebrauchs in Höhe von zuletzt noch 17.417,46 € nebst Zinsen sowie die Feststellung einer weitergehenden Schadensersatzpfl
+- [BGH, Urteil vom 26.07.2004 - VIII ZR 273/03](viii-zr-273-03.md) — Tatbestand:
+- [BGH, Urteil vom 26.07.2004 - VIII ZR 281/03](viii-zr-281-03.md) — 3-
 - [BGH, Beschluss vom 26.07.2004 - VIII ZR 289/03](viii-zr-289-03.md) — I. Das Oberlandesgericht hat den Beklagten zu 1 im Berufungsverfahren verurteilt, der Klägerin darüber Auskunft zu erteilen, welche Geschäfte er direkt oder über Dritte in welchem …
 - [BGH, Beschluss vom 26.07.2004 - VIII ZR 290/03](viii-zr-290-03.md) — I. Das Oberlandesgericht hat den Beklagten zu 1 im Berufungsverfahren verurteilt, der Klägerin darüber Auskunft zu erteilen, welche Geschäfte er direkt oder über Dritte in welchem …
 - [BGH, Urteil vom 14.07.2004 - VIII ZR 164/03](viii-zr-164-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.07.2004 - VIII ZR 224/02](viii-zr-224-02.md) — 3-
 - [BGH, Urteil vom 14.07.2004 - VIII ZR 294/03](viii-zr-294-03.md) — BGH, Urteil vom 14.07.2004 - VIII ZR 294/03
 - [BGH, Urteil vom 14.07.2004 - VIII ZR 339/03](viii-zr-339-03.md) — Tatbestand:
 - [BGH, Urteil vom 14.07.2004 - VIII ZR 345/03](viii-zr-345-03.md) — Tatbestand:
+- [BGH, Urteil vom 14.07.2004 - VIII ZR 356/03](viii-zr-356-03.md) — Tatbestand:
 - [BGH, Urteil vom 14.07.2004 - VIII ZR 367/03](viii-zr-367-03.md) — Zahlungsverzugs des Leasingnehmers findet der vom Leasinggeber intern kalkulierte Restwert des Leasingfahrzeugs bei der konkreten Berechnung
+- [BGH, Beschluss vom 13.07.2004 - VIII ZB 14/04](viii-zb-14-04.md) — I. Die in M. ansässige Klägerin hat durch ihre dortigen Prozeßbevoll- mächtigten gegen die Beklagte einen Mahnbescheid erwirkt. Nach Einlegung eines Widerspruchs durch die …
+- [BGH, Urteil vom 07.07.2004 - VIII ZR 192/03](viii-zr-192-03.md) — 3-
+- [BGH, Beschluss vom 30.06.2004 - VIII ZB 31/04](viii-zb-31-04.md) — Zahlungsverzugs. Im Kündigungsschreiben nannte die Klägerin einen Mietrückstand von 1.547,49 € und fügte einen mehrseitigen Auszug des die B
+- [BGH, Urteil vom 30.06.2004 - VIII ZR 243/03](viii-zr-243-03.md) — 3-
+- [BGH, Urteil vom 30.06.2004 - VIII ZR 321/03](viii-zr-321-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.06.2004 - VIII ZR 349/03](viii-zr-349-03.md) — Tatbestand:
 - [BGH, Urteil vom 30.06.2004 - VIII ZR 379/03](viii-zr-379-03.md) — 3-
 - [BGH, Urteil vom 23.06.2004 - VIII ZR 282/03](viii-zr-282-03.md) — Tatbestand:
 - [BGH, Urteil vom 23.06.2004 - VIII ZR 283/03](viii-zr-283-03.md) — Tatbestand:
 - [BGH, Urteil vom 23.06.2004 - VIII ZR 284/03](viii-zr-284-03.md) — Tatbestand:
 - [BGH, Urteil vom 23.06.2004 - VIII ZR 285/03](viii-zr-285-03.md) — Tatbestand:
+- [BGH, Urteil vom 23.06.2004 - VIII ZR 361/03](viii-zr-361-03.md) — Tatbestand:
+- [BGH, Urteil vom 16.06.2004 - VIII ZR 248/03](viii-zr-248-03.md) — Tatbestand: Die Beklagte beliefert den Kläger, der in Baden-Baden einen Lebensmittelmarkt betreibt, mit elektrischem Strom. Dem Stromlieferu
+- [BGH, Urteil vom 16.06.2004 - VIII ZR 258/03](viii-zr-258-03.md) — Tatbestand:
+- [BGH, Urteil vom 16.06.2004 - VIII ZR 303/03](viii-zr-303-03.md) — Tatbestand: Die Parteien streiten über die von der Beklagten erklärte Aufrechnung mit einer Schadensersatzforderung gegen eine - unstreitige
 - [BGH, Beschluss vom 14.06.2004 - VIII ZA 12/04](viii-za-12-04.md) — BGH, Beschluss vom 14.06.2004 - VIII ZA 12/04
+- [BGH, Beschluss vom 09.06.2004 - VIII ZB 124/03](viii-zb-124-03.md) — I. Der Kläger ist gegenüber den Beklagten nach einem Kostenfestsetzungsbeschluß des Amtsgerichts Tempelhof/Kreuzberg vom 24. Januar 2002 zur Zahlung von 507,75 € nebst Zinsen …
 - [BGH, Beschluss vom 09.06.2004 - VIII ZR 145/04](viii-zr-145-04.md) — I. Der Beklagte ist vom Amtsgericht Essen zur Räumung und Herausgabe seiner Wohnung verurteilt worden. Seine dagegen gerichtete Berufung hat das Landgericht Essen durch Urteil vom …
 - [BGH, Beschluss vom 09.06.2004 - VIII ZR 86/04](viii-zr-86-04.md) — BGH, Beschluss vom 09.06.2004 - VIII ZR 86/04
+- [BGH, Urteil vom 02.06.2004 - VIII ZR 316/03](viii-zr-316-03.md) — Tatbestand: Die Klägerin begehrt von der Beklagten die Rückzahlung einer Mietkaution sowie eines Guthabens aus einer Nebenkostenabrechnung.
 - [BGH, Urteil vom 02.06.2004 - VIII ZR 329/03](viii-zr-329-03.md) — Tatbestand:
+- [BGH, Beschluss vom 01.06.2004 - VIII ZB 144/03](viii-zb-144-03.md) — I. Die Berufung der Beklagten gegen das ihnen am 29. September 2003 zugestellte Urteil des Amtsgerichts Wuppertal vom 25. September 2003 ist beim Landgericht Wuppertal am 30 …
 - [BGH, Beschluss vom 01.06.2004 - VIII ZB 2/04](viii-zb-2-04.md) — BGH, Beschluss vom 01.06.2004 - VIII ZB 2/04
 - [BGH, Urteil vom 26.05.2004 - VIII ZR 135/03](viii-zr-135-03.md) — Tatbestand:
+- [BGH, Urteil vom 26.05.2004 - VIII ZR 169/03](viii-zr-169-03.md) — Tatbestand: Die Parteien streiten im Rahmen der Abwicklung ihres Mietverhältnisses über den Umlegungsmaßstab für die Grundsteuer in den Betr
 - [BGH, Urteil vom 26.05.2004 - VIII ZR 310/03](viii-zr-310-03.md) — Tatbestand: Aufgrund eines schriftlichen Mietvertrages vom 12. Oktober 2000 bewohnen die Kläger seit dem 1. November 2000 die im Erdgeschoß
 - [BGH, Urteil vom 26.05.2004 - VIII ZR 311/03](viii-zr-311-03.md) — Tatbestand: Die Klägerin, die ein Ingenieurbüro betreibt, bezieht als Tarifabnehmerin von der beklagten Stadtwerke AG elektrischen Strom für
 - [BGH, Urteil vom 26.05.2004 - VIII ZR 314/03](viii-zr-314-03.md) — Tatbestand: Das Landgericht hat die Berufung des Klägers gegen das Urteil des Amtsgerichts Kelheim vom 30. April 2003 zurückgewiesen. Zuglei
+- [BGH, Urteil vom 26.05.2004 - VIII ZR 77/03](viii-zr-77-03.md) — Tatbestand:
 - [BGH, Urteil vom 12.05.2004 - VIII ZR 159/03](viii-zr-159-03.md) — Tatbestand: Die Klägerin ist eine Kooperation mehrerer Reisebürounternehmen. Die Beklagte ist ein großes Luftverkehrsunternehmen und gehört
+- [BGH, Urteil vom 12.05.2004 - VIII ZR 234/03](viii-zr-234-03.md) — Tatbestand:
 - [BGH, Urteil vom 12.05.2004 - VIII ZR 235/03](viii-zr-235-03.md) — Tatbestand:
 - [BGH, Urteil vom 28.04.2004 - VIII ZR 177/03](viii-zr-177-03.md) — gestiegener Kapitalkosten nicht außer Betracht.
 - [BGH, Urteil vom 28.04.2004 - VIII ZR 178/03](viii-zr-178-03.md) — gestiegener Kapitalkosten erklärte Mieterhöhung ist nach Wegfall der Preisbindung bei einem nach dem 31. August 2001 zugegangenen Mieterhöhu
+- [BGH, Urteil vom 28.04.2004 - VIII ZR 179/03](viii-zr-179-03.md) — Tatbestand: Die Klägerin verlangt von den Beklagten Zustimmung zu einer Erhöhung der Miete. Das Landgericht hat auf die Berufung der Beklagt
 - [BGH, Urteil vom 28.04.2004 - VIII ZR 185/03](viii-zr-185-03.md) — Tatbestand:
 - [BGH, Urteil vom 28.04.2004 - VIII ZR 230/03](viii-zr-230-03.md) — Tatbestand: Mit Mietvertrag vom 8. September 1982 mieteten die Beklagte und ihr inzwischen verstorbener Ehemann von der Klägerin eine Wohnun
-- [BGH, Beschluss vom 27.04.2004 - VIII ZB 103/02](viii-zb-103-02.md) — der grundsätzlichen Bedeutung der Sache die Rechtsbe-
 - [BGH, Urteil vom 07.04.2004 - VIII ZR 146/03](viii-zr-146-03.md) — Tatbestand:
 - [BGH, Urteil vom 07.04.2004 - VIII ZR 167/03](viii-zr-167-03.md) — 3-
 - [BGH, Urteil vom 24.03.2004 - VIII ZR 133/03](viii-zr-133-03.md) — 3-
-- [BGH, Urteil vom 24.03.2004 - VIII ZR 188/03](viii-zr-188-03.md) — Tatbestand:
+- [BGH, Urteil vom 24.03.2004 - VIII ZR 250/03](viii-zr-250-03.md) — Tatbestand: Die Kläger begehren von den Beklagten Schadensersatz wegen angeblicher Vereitelung ihres Vorkaufrechtes an der von ihnen bewohnt
 - [BGH, Urteil vom 24.03.2004 - VIII ZR 295/03](viii-zr-295-03.md) — Tatbestand:
 - [BGH, Urteil vom 24.03.2004 - VIII ZR 44/03](viii-zr-44-03.md) — Tatbestand:
+- [BGH, Beschluss vom 23.03.2004 - VIII ZB 111/03](viii-zb-111-03.md) — I. Die Kläger haben die Beklagten, die das zwischen den Parteien bestehende Mietverhältnis zum 30. Juni 2002 gekündigt hatten, auf Mietzahlung für die Monate Juli bis Oktober 2002 …
 - [BGH, Beschluss vom 23.03.2004 - VIII ZB 145/03](viii-zb-145-03.md) — I. Die Klägerin, die Deutsche Telekom AG mit dem Sitz in Bonn, hatte ge- gen die Beklagte, die in Landshut ein Gastronomieunternehmen betreibt, aus einem Kauf- und Montagevertrag …
+- [BGH, Urteil vom 17.03.2004 - VIII ZR 107/02](viii-zr-107-02.md) — Tatbestand:
+- [BGH, Urteil vom 17.03.2004 - VIII ZR 161/03](viii-zr-161-03.md) — Tatbestand:
+- [BGH, Urteil vom 17.03.2004 - VIII ZR 166/03](viii-zr-166-03.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 17.03.2004 - VIII ZR 265/03](viii-zr-265-03.md) — Tatbestand:
+- [BGH, Urteil vom 17.03.2004 - VIII ZR 95/03](viii-zr-95-03.md) — Tatbestand:
+- [BGH, Beschluss vom 16.03.2004 - VIII ZB 114/03](viii-zb-114-03.md) — I. Die Kläger sind eine Erbengemeinschaft. Sie haben, vertreten durch einen Miterben, den Beklagten auf Herausgabe und Räumung einer Wohnung verklagt, die von der …
+- [BGH, Urteil vom 10.03.2004 - VIII ZR 213/02](viii-zr-213-02.md) — eines Betrages von mehr als 200.609,09 DM = 102.569,79 ¢¤¡ ¢£ ¥§©¦ ¤¨   ¢¥¤¡ ¥§¡  ¦ dem 28. September 2000 zurückgewiesen worden is
 - [BGH, Urteil vom 10.03.2004 - VIII ZR 34/03](viii-zr-34-03.md) — Tatbestand: Mit Vertrag vom 9. Januar 1995 mieteten der Kläger und eine Mitmieterin eine Wohnung der Beklagten in H. auf unbestimmte Dauer m
+- [BGH, Urteil vom 10.03.2004 - VIII ZR 64/03](viii-zr-64-03.md) — Tatbestand: Mit Vertrag vom 15. Juli 1976 mieteten die Beklagten von der Rechtsvorgängerin der Klägerin eine Wohnung in B. . In § 2 Abs. 1 d
+- [BGH, Beschluss vom 03.03.2004 - VIII ZA 25/03](viii-za-25-03.md) — Ein Fall grundsätzlicher Bedeutung kann jedenfalls jetzt nicht mehr angenommen werden.
+- [BGH, Beschluss vom 03.03.2004 - VIII ZB 121/03](viii-zb-121-03.md) — I. Die Klägerin macht eine Kaufpreisforderung aus dem Verkauf eines Lastkraftwagens geltend. Die mündliche Verhandlung vor der Kammer für Handelssachen hat am 2. Mai 2002 …
+- [BGH, Urteil vom 03.03.2004 - VIII ZR 124/03](viii-zr-124-03.md) — Tatbestand:
+- [BGH, Urteil vom 03.03.2004 - VIII ZR 149/03](viii-zr-149-03.md) — energieeinsparender Modernisierungsmaßnahmen im Grundsatz nicht durch das Verhältnis zu der hierdurch bewirkten Heizkostenersparnis (sog. Ge
+- [BGH, Urteil vom 03.03.2004 - VIII ZR 150/03](viii-zr-150-03.md) — 3-
+- [BGH, Urteil vom 03.03.2004 - VIII ZR 151/03](viii-zr-151-03.md) — Tatbestand: Die Klägerin ist Mieterin einer Wohnung in einer Wohnanlage in B. , die zwischenzeitlich von der Beklagten erworben wurde. Es ha
+- [BGH, Urteil vom 03.03.2004 - VIII ZR 152/03](viii-zr-152-03.md) — Tatbestand: Die Klägerin ist Mieterin einer Wohnung in einer Wohnanlage in B. , die zwischenzeitlich von der Beklagten erworben wurde. Es ha
 - [BGH, Urteil vom 03.03.2004 - VIII ZR 153/03](viii-zr-153-03.md) — Tatbestand: Die Kläger sind Mieter einer Wohnung in einer Wohnanlage in B. , die zwischenzeitlich von der Beklagten erworben wurde. Es hande
 - [BGH, Urteil vom 03.03.2004 - VIII ZR 154/03](viii-zr-154-03.md) — Tatbestand: Die Kläger sind Mieter einer Wohnung in einer Wohnanlage in B. , die zwischenzeitlich von der Beklagten erworben wurde. Es hande
+- [BGH, Urteil vom 03.03.2004 - VIII ZR 76/03](viii-zr-76-03.md) — Tatbestand: Die Parteien streiten um die restliche Vergütung für eine Solaranlage. Am 12. Mai 2000 unterbreitete die Klägerin den Beklagten
 - [BGH, Urteil vom 25.02.2004 - VIII ZR 116/03](viii-zr-116-03.md) — 3-
+- [BGH, Urteil vom 25.02.2004 - VIII ZR 119/03](viii-zr-119-03.md) — Tatbestand:
 - [BGH, Urteil vom 25.02.2004 - VIII ZR 208/03](viii-zr-208-03.md) — Tatbestand: Das Landgericht hat die Berufung des Beklagten gegen das Urteil des Amtsgerichts Stade vom 21. Januar 2003 zurückgewiesen. Zugle
 - [BGH, Beschluss vom 18.02.2004 - VIII ZB 84/03](viii-zb-84-03.md) — BGH, Beschluss vom 18.02.2004 - VIII ZB 84/03
+- [BGH, Urteil vom 18.02.2004 - VIII ZR 78/03](viii-zr-78-03.md) — Tatbestand:
 - [BGH, Urteil vom 11.02.2004 - VIII ZR 127/03](viii-zr-127-03.md) — Tatbestand:
+- [BGH, Urteil vom 11.02.2004 - VIII ZR 195/03](viii-zr-195-03.md) — Tatbestand:
+- [BGH, Urteil vom 11.02.2004 - VIII ZR 236/02](viii-zr-236-02.md) — Tatbestand:
+- [BGH, Urteil vom 11.02.2004 - VIII ZR 386/02](viii-zr-386-02.md) — Tatbestand:
+- [BGH, Urteil vom 11.02.2004 - VIII ZR 85/03](viii-zr-85-03.md) — Tatbestand:
+- [BGH, Beschluss vom 09.02.2004 - VIII ZR 288/03](viii-zr-288-03.md) — I. Das Oberlandesgericht hat die Beklagte zu 2 im Berufungsverfahren verurteilt, der Klägerin Auskunft darüber zu erteilen, welche Geschäfte der Beklagte zu 1 direkt oder über …
 - [BGH, Urteil vom 04.02.2004 - VIII ZR 171/03](viii-zr-171-03.md) — Tatbestand: Die Beklagten mieteten von der Klägerin gemäß Mietvertrag vom 14./25. November 1996 eine Zwei-Zimmer-Dachgeschoßwohnung in B. .
 - [BGH, Beschluss vom 28.01.2004 - VIII ZB 66/03](viii-zb-66-03.md) — zu legen und einer Nachprüfung durch das Rechtsmittelgericht grundsätzlich entzogen.
+- [BGH, Versäumnisurteil vom 28.01.2004 - VIII ZR 190/03](viii-zr-190-03.md) — Tatbestand:
 - [BGH, Beschluss vom 21.01.2004 - VIII ZB 73/03](viii-zb-73-03.md) — I. Die Parteien schlossen vor dem Amtsgericht München einen Vergleich, in dem sie dem Gericht die Entscheidung über die Kosten des Rechtsstreits überließen. Das Amtsgericht hat …
 - [BGH, Urteil vom 21.01.2004 - VIII ZR 100/03](viii-zr-100-03.md) — 3-
+- [BGH, Urteil vom 21.01.2004 - VIII ZR 101/03](viii-zr-101-03.md) — 3-
+- [BGH, Urteil vom 21.01.2004 - VIII ZR 115/03](viii-zr-115-03.md) — Tatbestand: Die Klägerin vermietete der Beklagten mit Vertrag vom 29. August 2000 eine Zwei-Zimmer-Wohnung in D. mit einer Wohnfläche von 56
 - [BGH, Urteil vom 21.01.2004 - VIII ZR 137/03](viii-zr-137-03.md) — Tatbestand:
 - [BGH, Urteil vom 21.01.2004 - VIII ZR 140/03](viii-zr-140-03.md) — Tatbestand: Das Landgericht hat die Berufung der Kläger gegen das Urteil des Amtsgerichts Speyer vom 16. Dezember 2002 zurückgewiesen. Zugle
+- [BGH, Urteil vom 21.01.2004 - VIII ZR 209/03](viii-zr-209-03.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2004 - VIII ZR 74/03](viii-zr-74-03.md) — 3-
 - [BGH, Urteil vom 21.01.2004 - VIII ZR 99/03](viii-zr-99-03.md) — gestiegener Betriebskosten nach Außerkrafttreten des Gesetzes zur dauerhaften Verbesserung der Wohnungssituation im Land Berlin (GVW) am 31.
 - [BGH, Beschluss vom 07.01.2004 - VIII ZB 131/03](viii-zb-131-03.md) — BGH, Beschluss vom 07.01.2004 - VIII ZB 131/03
+- [BGH, Urteil vom 07.01.2004 - VIII ZR 103/03](viii-zr-103-03.md) — unangemessener Benachteiligung des Leasingnehmers nach § 9 Abs. 2 Nr. 1 AGBG (jetzt § 307 Abs. 2 Nr. 1 BGB) unwirksam, weil sie mit einem we
 - [BGH, Urteil vom 07.01.2004 - VIII ZR 110/03](viii-zr-110-03.md) — Tatbestand: Das Landgericht hat die Berufung der Klägerin gegen das Urteil des Amtsgerichts vom 3. September 2002 zurückgewiesen. Zugleich h
+- [BGH, Urteil vom 07.01.2004 - VIII ZR 156/03](viii-zr-156-03.md) — baulicher Maßnahmen zur Verbesserung der allgemeinen Wohnverhältnisse (Schallschutz) und der Einsparung von Heizenergie (Einbau von Isolierg

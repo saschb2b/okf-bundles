@@ -1,7 +1,26 @@
 # Senat für Notarsachen – 2000
 
-11 Entscheidung(en).
+30 Entscheidung(en).
 
+- [BGH, Beschluss vom 20.11.2000 - NotZ 16/00](notz-16-00.md) — Amtsenthebung
+- [BGH, Beschluss vom 20.11.2000 - NotZ 17/00](notz-17-00.md) — vorläufiger Amtsenthebung
+- [BGH, Beschluss vom 20.11.2000 - NotZ 18/00](notz-18-00.md) — Genehmigung einer Nebentätigkeit
+- [BGH, Beschluss vom 20.11.2000 - NotZ 19/00](notz-19-00.md) — Feststellung der Voraussetzungen für die Amtsenthebung und vorläufiger Amtsenthebung
+- [BGH, Beschluss vom 20.11.2000 - NotZ 22/00](notz-22-00.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 20.11.2000 - NotZ 25/00](notz-25-00.md) — Amtsenthebung
+- [BGH, Beschluss vom 31.07.2000 - NotZ 10/00](notz-10-00.md) — Bestellung zur Notarin
+- [BGH, Beschluss vom 31.07.2000 - NotZ 12/00](notz-12-00.md) — Bestellung eines nicht ständigen Notarvertreters
+- [BGH, Beschluss vom 31.07.2000 - NotZ 13/00](notz-13-00.md) — Genehmigung einer Nebentätigkeit
+- [BGH, Beschluss vom 31.07.2000 - NotZ 13/99](notz-13-99.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.07.2000 - NotZ 14/00](notz-14-00.md) — Genehmigung einer Nebentätigkeit
+- [BGH, Beschluss vom 31.07.2000 - NotZ 15/00](notz-15-00.md) — Ankündigung der Amtsenthebung
+- [BGH, Beschluss vom 31.07.2000 - NotZ 2/00](notz-2-00.md) — Unterlassung der Besetzung einer Notarstelle
+- [BGH, Beschluss vom 31.07.2000 - NotZ 3/00](notz-3-00.md) — Bestellung zum Notar hier: Feststellungsantrag
+- [BGH, Beschluss vom 31.07.2000 - NotZ 4/00](notz-4-00.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.07.2000 - NotZ 5/00](notz-5-00.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.07.2000 - NotZ 6/00](notz-6-00.md) — Festlegung des Amtsbereichs nach § 10a Abs. 1 Satz 2 BNotO
+- [BGH, Beschluss vom 31.07.2000 - NotZ 8/00](notz-8-00.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 02.06.2000 - NotZ 7/00](notz-7-00.md) — Festlegung des Amtsbereichs nach § 10a Abs. 1 Satz 2 BNotO hier: Einstweilige Anordnung
 - [BGH, Beschluss vom 20.03.2000 - NotZ 14/99](notz-14-99.md) — Akteneinsicht
 - [BGH, Beschluss vom 20.03.2000 - NotZ 15/99](notz-15-99.md) — Einkommensergänzung
 - [BGH, Beschluss vom 20.03.2000 - NotZ 16/99](notz-16-99.md) — I. Die Präsidentin des Kammergerichts hat gegen den Notar durch Disziplinarverfügungen vom 7. Juli 1998 und 18. November 1998 Verweise ausgesprochen und Geldbußen verhängt. Seine …

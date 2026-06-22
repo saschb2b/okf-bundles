@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 13.01.2003 - AnwZ (B) 13/02"
+description: "I. Die Antragstellerin ist für die H. Zweigniederlassung der P. Rechtsanwaltsgesellschaft mbH als angestellte Rechtsanwältin tätig. Diese Rechtsanwaltsgesellschaft hat ihren Sitz in F. und ist im Hand"
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2002/AnwZ_B__13-02.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "Senat für Anwaltssachen"
+datum: 2003-01-13
+aktenzeichen: "AnwZ (B) 13/02"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T15:22:57Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 13/02 vom 13.01.2003.
+
+# Citations
+
+[1] [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 13/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2002/AnwZ_B__13-02.pdf?__blob=publicationFile&v=1)
+

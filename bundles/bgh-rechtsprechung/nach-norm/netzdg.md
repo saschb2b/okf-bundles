@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu NetzDG"
 description: "BGH-Entscheidungen zu NetzDG, geordnet nach Vorschrift."
 tags: [register, navigation, netzdg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

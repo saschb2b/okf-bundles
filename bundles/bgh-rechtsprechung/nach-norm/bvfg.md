@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BVFG"
 description: "BGH-Entscheidungen zu BVFG, geordnet nach Vorschrift."
 tags: [register, navigation, bvfg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

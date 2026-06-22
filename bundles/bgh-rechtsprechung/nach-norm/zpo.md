@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZPO"
 description: "BGH-Entscheidungen zu ZPO, geordnet nach Vorschrift."
 tags: [register, navigation, zpo]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

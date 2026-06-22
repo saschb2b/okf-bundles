@@ -1,19 +1,46 @@
 # X. Zivilsenat – 2009
 
-15 Entscheidung(en).
+42 Entscheidung(en).
 
 - [BGH, Beschluss vom 22.12.2009 - X ZR 151/07](x-zr-151-07.md) — BGH, Beschluss vom 22.12.2009 - X ZR 151/07
+- [BGH, Urteil vom 22.12.2009 - X ZR 27/06](x-zr-27-06.md) — Tatbestand:
+- [BGH, Urteil vom 22.12.2009 - X ZR 28/06](x-zr-28-06.md) — BGH, Urteil vom 22.12.2009 - X ZR 28/06
 - [BGH, Urteil vom 22.12.2009 - X ZR 55/08](x-zr-55-08.md) — Tatbestand:
 - [BGH, Urteil vom 22.12.2009 - X ZR 56/08](x-zr-56-08.md) — Verletzung des Klagepatents in von dessen Wortsinn abweichender Form erstrebt, muss sich aus dem Klageantrag ergeben, in welchen tatsächlich
+- [BGH, Beschluss vom 21.12.2009 - X ZR 61/07](x-zr-61-07.md) — 1. Mit der Anhörungsrüge gegen den Senatsbeschluss vom 8. September 2009, mit dem die Nichtzulassungsbeschwerde der Klägerin ge- gen das Urteil des 2. Zivilsenats des …
+- [BGH, Urteil vom 08.12.2009 - X ZR 65/05](x-zr-65-05.md) — Tatbestand:
+- [BGH, Urteil vom 17.11.2009 - X ZR 137/07](x-zr-137-07.md) — 3Tatbestand:
+- [BGH, Urteil vom 17.11.2009 - X ZR 49/08](x-zr-49-08.md) — Tatbestand:
+- [BGH, Urteil vom 17.11.2009 - X ZR 60/07](x-zr-60-07.md) — 3Tatbestand:
+- [BGH, Beschluss vom 16.11.2009 - X ZB 37/08](x-zb-37-08.md) — Berichtigt durch Beschluss vom 23. März 2010 Anderer, Justizangestellte als Urkundsbeamtin der Geschäftsstelle
 - [BGH, Beschluss vom 10.11.2009 - X ZB 8/09](x-zb-8-09.md) — BGH, Beschluss vom 10.11.2009 - X ZB 8/09
+- [BGH, Beschluss vom 10.11.2009 - X ZR 11/06](x-zr-11-06.md) — Patentverletzung Verurteilten auf Gewährung rechtlichen Gehörs nicht verletzt, wenn es angesichts der Feststellungen des Tatrichters nicht e
+- [BGH, Entscheidung vom 13.10.2009 - X ZR 159/05](x-zr-159-05.md) — Tatbestand:
+- [BGH, Entscheidung vom 13.10.2009 - X ZR 160/05](x-zr-160-05.md) — Tatbestand:
 - [BGH, Urteil vom 13.10.2009 - X ZR 5/06](x-zr-5-06.md) — Tatbestand:
+- [BGH, Urteil vom 13.10.2009 - X ZR 79/06](x-zr-79-06.md) — Tatbestand:
 - [BGH, Beschluss vom 29.09.2009 - X ZB 1/09](x-zb-1-09.md) — I. Durch Beschluss vom 14. Mai 2008 wies der vorlegende Vergabesenat auf die sofortige Beschwerde der Antragsgegnerin den Nachprüfungsantrag der Antragstellerin zurück, erlegte …
 - [BGH, Beschluss vom 29.09.2009 - X ZB 19/08](x-zb-19-08.md) — Schutzrechtsverletzung in
+- [BGH, Urteil vom 29.09.2009 - X ZR 169/07](x-zr-169-07.md) — BGH, Urteil vom 29.09.2009 - X ZR 169/07
+- [BGH, Urteil vom 15.09.2009 - X ZR 115/05](x-zr-115-05.md) — Patentverletzung gegen die Zahlung eines Geldbetrages sowie die Rücknahme von Nichtigkeitsklagen und Einsprüchen durch die andere Partei erl
 - [BGH, Beschluss vom 08.09.2009 - X ZB 35/08](x-zb-35-08.md) — BGH, Beschluss vom 08.09.2009 - X ZB 35/08
+- [BGH, Urteil vom 08.09.2009 - X ZR 15/07](x-zr-15-07.md) — Tatbestand:
+- [BGH, Beschluss vom 08.09.2009 - X ZR 81/08](x-zr-81-08.md) — I. Der Kläger war bei der Beklagten als Leiter der Elektronik-Entwicklung beschäftigt. Während seiner Beschäftigungszeit erfand er ein Verfahren und eine Schaltungsanordnung zum …
+- [BGH, Beschluss vom 28.07.2009 - X ZB 41/08](x-zb-41-08.md) — I. Die Rechtsbeschwerdegegnerin ist eingetragene Inhaberin des beim Deutschen Patent- und Markenamt am 30. Mai 1994 angemeldeten und mit Beschluss vom 11. Dezember 2003 erteilten …
+- [BGH, Beschluss vom 28.07.2009 - X ZR 139/07](x-zr-139-07.md) — I. Der gerichtliche Sachverständige hat sein am 23. September 2008 in Auftrag gegebenes schriftliches Gutachten pauschal mit 35.759,50 € einschließ- lich Umsatzsteuer abgerechnet …
 - [BGH, Beschluss vom 28.07.2009 - X ZR 153/04](x-zr-153-04.md) — Verletzung des Streitpatents Klage erhoben,
 - [BGH, Urteil vom 28.07.2009 - X ZR 9/06](x-zr-9-06.md) — Tatbestand:
-- [BGH, Urteil vom 30.06.2009 - X ZR 107/05](x-zr-107-05.md) — BGH, Urteil vom 30.06.2009 - X ZR 107/05
+- [BGH, Urteil vom 14.07.2009 - X ZR 187/04](x-zr-187-04.md) — BGH, Urteil vom 14.07.2009 - X ZR 187/04
+- [BGH, Urteil vom 14.07.2009 - X ZR 39/05](x-zr-39-05.md) — Tatbestand:
+- [BGH, Beschluss vom 26.05.2009 - X ZA 5/08](x-za-5-08.md) — BGH, Beschluss vom 26.05.2009 - X ZA 5/08
 - [BGH, Urteil vom 26.05.2009 - X ZR 185/04](x-zr-185-04.md) — Tatbestand:
-- [BGH, Urteil vom 05.05.2009 - X ZR 103/04](x-zr-103-04.md) — Tatbestand:
+- [BGH, Beschluss vom 31.03.2009 - X ZR 29/07](x-zr-29-07.md) — Besorgnis der
+- [BGH, Urteil vom 31.03.2009 - X ZR 95/05](x-zr-95-05.md) — Tatbestand:
 - [BGH, Beschluss vom 24.03.2009 - X ZB 29/08](x-zb-29-08.md) — BGH, Beschluss vom 24.03.2009 - X ZB 29/08
+- [BGH, Beschluss vom 24.03.2009 - X ZB 7/08](x-zb-7-08.md) — der unmittelbar oder mittelbar auf diesen Schutzanspruch rück-
 - [BGH, Urteil vom 24.03.2009 - X ZR 67/04](x-zr-67-04.md) — Die Beklagte ist eingetragene Inhaberin des unter anderem mit Wirkung für die Bundesrepublik Deutschland erteilten europäischen Patents 0 489 455 (Streitpatents), das auf einer …
+- [BGH, Urteil vom 03.03.2009 - X ZR 53/07](x-zr-53-07.md) — Tatbestand:
+- [BGH, Urteil vom 10.02.2009 - X ZR 37/07](x-zr-37-07.md) — Tatbestand:
+- [BGH, Beschluss vom 20.01.2009 - X ZB 22/07](x-zb-22-07.md) — I. Die Anmelderin hat beim Deutschen Patent- und Markenamt ein Patent mit der Bezeichnung "Verfahren zur Verarbeitung medizinisch relevanter Daten" eingereicht; das Amt hat die …
+- [BGH, Urteil vom 20.01.2009 - X ZR 113/07](x-zr-113-07.md) — Tatbestand:
+- [BGH, Urteil vom 20.01.2009 - X ZR 45/07](x-zr-45-07.md) — Schlechterteilung grundsätzlich nur dann entbehrlich werden, wenn der Schuldner die Mängelbeseitigung bereits verweigert hat, bevor diese du

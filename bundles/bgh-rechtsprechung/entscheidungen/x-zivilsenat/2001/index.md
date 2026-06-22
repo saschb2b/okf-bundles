@@ -1,22 +1,94 @@
 # X. Zivilsenat – 2001
 
-18 Entscheidung(en).
+90 Entscheidung(en).
 
+- [BGH, Beschluss vom 12.12.2001 - X ZR 134/01](x-zr-134-01.md) — BGH, Beschluss vom 12.12.2001 - X ZR 134/01
+- [BGH, Urteil vom 12.12.2001 - X ZR 192/00](x-zr-192-00.md) — Tatbestand:
+- [BGH, Urteil vom 12.12.2001 - X ZR 39/00](x-zr-39-00.md) — Tatbestand:
+- [BGH, Urteil vom 04.12.2001 - X ZR 167/99](x-zr-167-99.md) — Tatbestand:
+- [BGH, Beschluss vom 04.12.2001 - X ZR 199/00](x-zr-199-00.md) — Besorgnis der Befangenheit, wenn der Sachverständige für Schutzrechte eines Konkurrenten des Patentinhabers auf dem einschlägigen Gebiet als
+- [BGH, Beschluss vom 20.11.2001 - X ZB 3/00](x-zb-3-00.md) — deren Inhalts auf die Patentschrift Bezug genommen wird.
+- [BGH, Beschluss vom 13.11.2001 - X ZB 28/01](x-zb-28-01.md) — greifbarer Gesetzeswidrigkeit nur ganz ausnahmsweise in Betracht, wenn die angegriffene Entscheidung mit der geltenden Rechtsordnung
+- [BGH, Urteil vom 13.11.2001 - X ZR 134/00](x-zr-134-00.md) — Tatbestand:
+- [BGH, Urteil vom 13.11.2001 - X ZR 196/98](x-zr-196-98.md) — Tatbestand:
+- [BGH, Urteil vom 13.11.2001 - X ZR 224/99](x-zr-224-99.md) — Tatbestand: Die Klägerin verlangt von der Beklagten Schadensersatz aus Mängelhaftung. Die Klägerin erteilte der Beklagten Ende 1994/Anfang 1
+- [BGH, Urteil vom 13.11.2001 - X ZR 32/99](x-zr-32-99.md) — BGH, Urteil vom 13.11.2001 - X ZR 32/99
 - [BGH, Urteil vom 23.10.2001 - X ZR 197/98](x-zr-197-98.md) — Tatbestand:
 - [BGH, Urteil vom 23.10.2001 - X ZR 210/98](x-zr-210-98.md) — BGH, Urteil vom 23.10.2001 - X ZR 210/98
+- [BGH, Beschluss vom 17.10.2001 - X ZB 16/00](x-zb-16-00.md) — BGH, Beschluss vom 17.10.2001 - X ZB 16/00
+- [BGH, Urteil vom 16.10.2001 - X ZR 100/99](x-zr-100-99.md) — Tatbestand:
+- [BGH, Urteil vom 16.10.2001 - X ZR 212/99](x-zr-212-99.md) — Tatbestand:
+- [BGH, Urteil vom 16.10.2001 - X ZR 56/99](x-zr-56-99.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 09.10.2001 - X ZR 132/99](x-zr-132-99.md) — Tatbestand:
+- [BGH, Urteil vom 09.10.2001 - X ZR 153/99](x-zr-153-99.md) — 3-
+- [BGH, Urteil vom 09.10.2001 - X ZR 58/00](x-zr-58-00.md) — Tatbestand:
+- [BGH, Urteil vom 09.10.2001 - X ZR 87/99](x-zr-87-99.md) — Tatbestand: Die Klägerin macht aus abgetretenem wie aus eigenem Recht gegen die Beklagte Ansprüche aus Vertrag und wegen Verschuldens bei Ve
+- [BGH, Urteil vom 25.09.2001 - X ZR 188/98](x-zr-188-98.md) — 3-
+- [BGH, Beschluss vom 18.09.2001 - X ZB 19/00](x-zb-19-00.md) — des Inhalts der Patentansprüche wird auf die Patentschrift verwiesen.
+- [BGH, Beschluss vom 18.09.2001 - X ZB 19/01](x-zb-19-01.md) — greifbarer Gesetzeswidrigkeit nur ganz ausnahmsweise in Betracht, wenn die angegriffene Entscheidung mit der geltenden Rechtsordnung schlech
+- [BGH, Urteil vom 18.09.2001 - X ZR 107/00](x-zr-107-00.md) — Tatbestand:
+- [BGH, Urteil vom 18.09.2001 - X ZR 196/99](x-zr-196-99.md) — Tatbestand:
+- [BGH, Urteil vom 18.09.2001 - X ZR 51/00](x-zr-51-00.md) — Tatbestand: Die Klägerin, ein Bauunternehmen, macht nach Grund und Höhe unstreitige Forderungen aus einem Werkvertrag in Höhe von 120.000,--
+- [BGH, Beschluss vom 11.09.2001 - X ZB 18/00](x-zb-18-00.md) — I. Die Rechtsbeschwerdeführerin ist eingetragene Inhaberin des deutschen Patents 34 47 925 (Streitpatent), das eine Drehmomentübertragungseinrichtung betrifft. Das Streitpatent …
+- [BGH, Beschluss vom 11.09.2001 - X ZR 121/00](x-zr-121-00.md) — Die Berichtigung ist geboten, weil § 95 Abs.
+- [BGH, Urteil vom 11.09.2001 - X ZR 168/98](x-zr-168-98.md) — BGH, Urteil vom 11.09.2001 - X ZR 168/98
+- [BGH, Beschluss vom 14.08.2001 - X ZB 22/01](x-zb-22-01.md) — Die weitere Beschwerde gegen den Beschluß des 15.
+- [BGH, Beschluss vom 26.07.2001 - X ZB 13/01](x-zb-13-01.md) — Befangenheit abgelehnt, weil dieser in einer Reihe von Verfahren zu seinen Ungunsten entschieden habe. Das Landgericht Ansbach hat das Ableh
 - [BGH, Urteil vom 26.07.2001 - X ZR 162/99](x-zr-162-99.md) — Tatbestand:
+- [BGH, Urteil vom 26.07.2001 - X ZR 211/99](x-zr-211-99.md) — Tatbestand:
 - [BGH, Urteil vom 26.07.2001 - X ZR 93/95](x-zr-93-95.md) — Tatbestand:
+- [BGH, Beschluss vom 17.07.2001 - X ZB 21/00](x-zb-21-00.md) — I. Die Anmelderin ist Inhaberin des deutschen Patents 25 25 633, das auf eine Anmeldung vom 9. Juni 1975 zurückgeht und dessen gesetzliche Schutzdauer inzwischen abgelaufen ist …
+- [BGH, Urteil vom 17.07.2001 - X ZR 13/99](x-zr-13-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2001 - X ZR 29/99](x-zr-29-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2001 - X ZR 59/97](x-zr-59-97.md) — BGH, Urteil vom 17.07.2001 - X ZR 59/97
+- [BGH, Urteil vom 17.07.2001 - X ZR 61/97](x-zr-61-97.md) — BGH, Urteil vom 17.07.2001 - X ZR 61/97
+- [BGH, Urteil vom 17.07.2001 - X ZR 63/97](x-zr-63-97.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2001 - X ZR 65/99](x-zr-65-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2001 - X ZR 71/99](x-zr-71-99.md) — Tatbestand:
+- [BGH, Urteil vom 26.06.2001 - X ZR 231/99](x-zr-231-99.md) — Tatbestand:
+- [BGH, Urteil vom 19.06.2001 - X ZR 159/98](x-zr-159-98.md) — BGH, Urteil vom 19.06.2001 - X ZR 159/98
 - [BGH, Beschluss vom 12.06.2001 - X ZB 10/01](x-zb-10-01.md) — BGH, Beschluss vom 12.06.2001 - X ZB 10/01
 - [BGH, Beschluss vom 12.06.2001 - X ZB 14/01](x-zb-14-01.md) — 3-
 - [BGH, Urteil vom 12.06.2001 - X ZR 150/99](x-zr-150-99.md) — BGH, Urteil vom 12.06.2001 - X ZR 150/99
 - [BGH, Urteil vom 12.06.2001 - X ZR 28/98](x-zr-28-98.md) — Tatbestand:
+- [BGH, Beschluss vom 29.05.2001 - X ZB 11/01](x-zb-11-01.md) — Besorgnis der Befangenheit abgelehnt. Das Landgericht Darmstadt hat das Ablehnungsgesuch als unzulässig verworfen. Die hiergegen gerichtete
 - [BGH, Beschluss vom 22.05.2001 - X ZB 9/01](x-zb-9-01.md) — greifbarer Gesetzwidrigkeit nur ganz ausnahmsweise dann in Betracht, wenn die angegriffene Entscheidung mit der geltenden Rechtsordnung schl
 - [BGH, Urteil vom 22.05.2001 - X ZR 204/00](x-zr-204-00.md) — Tatbestand: Der vom Beklagten wegen Gebrauchsmusterverletzung in Anspruch genommene Kläger beantragte die Löschung des Gebrauchsmusters. Auf
 - [BGH, Urteil vom 22.05.2001 - X ZR 21/00](x-zr-21-00.md) — Tatbestand: Die Parteien sind geschiedene Eheleute. Ihre Ehe wurde 1973 geschlossen und 1998 geschieden. Im Jahre 1982 hatten die Parteien G
 - [BGH, Beschluss vom 22.05.2001 - X ZR 80/00](x-zr-80-00.md) — eines vor dem Europäischen
+- [BGH, Urteil vom 15.05.2001 - X ZR 107/98](x-zr-107-98.md) — Tatbestand:
+- [BGH, Urteil vom 15.05.2001 - X ZR 227/99](x-zr-227-99.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2001 - X ZR 168/97](x-zr-168-97.md) — Berichtigt durch Beschluß vom 22. Mai 2001 Wermes Justizhauptsekretär als Urkundsbeamter der Geschäftsstelle
+- [BGH, Urteil vom 25.04.2001 - X ZR 205/99](x-zr-205-99.md) — Tatbestand:
 - [BGH, Urteil vom 25.04.2001 - X ZR 229/99](x-zr-229-99.md) — Tatbestand:
+- [BGH, Urteil vom 25.04.2001 - X ZR 50/99](x-zr-50-99.md) — Tatbestand:
 - [BGH, Urteil vom 10.04.2001 - X ZR 157/98](x-zr-157-98.md) — Tatbestand:
+- [BGH, Urteil vom 10.04.2001 - X ZR 21/98](x-zr-21-98.md) — Tatbestand:
+- [BGH, Urteil vom 03.04.2001 - X ZR 38/99](x-zr-38-99.md) — Tatbestand:
+- [BGH, Urteil vom 20.03.2001 - X ZR 177/98](x-zr-177-98.md) — Tatbestand:
+- [BGH, Urteil vom 20.03.2001 - X ZR 180/98](x-zr-180-98.md) — Tatbestand:
+- [BGH, Urteil vom 20.03.2001 - X ZR 63/99](x-zr-63-99.md) — Tatbestand:
+- [BGH, Urteil vom 20.03.2001 - X ZR 74/99](x-zr-74-99.md) — Tatbestand: Die Kläger beteiligten sich im Jahr 1993 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell, bei dem den An
+- [BGH, Urteil vom 20.03.2001 - X ZR 75/99](x-zr-75-99.md) — Tatbestand: Die Kläger beteiligten sich im Jahr 1994 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell, bei dem den An
+- [BGH, Urteil vom 20.03.2001 - X ZR 76/99](x-zr-76-99.md) — Tatbestand: Die Kläger beteiligten sich im Jahr 1994 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell, bei dem den An
+- [BGH, Urteil vom 20.03.2001 - X ZR 77/99](x-zr-77-99.md) — Tatbestand: Die Kläger beteiligten sich in den Jahren 1993 und 1994 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell,
+- [BGH, Urteil vom 20.03.2001 - X ZR 78/99](x-zr-78-99.md) — Tatbestand: Die Kläger beteiligten sich im Jahr 1993 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell, bei dem den An
+- [BGH, Urteil vom 20.03.2001 - X ZR 86/99](x-zr-86-99.md) — Tatbestand: Die Kläger beteiligten sich in den Jahren 1993 und 1994 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell,
+- [BGH, Urteil vom 20.03.2001 - X ZR 89/99](x-zr-89-99.md) — Tatbestand: Die Kläger beteiligten sich in den Jahren 1994 und 1995 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell,
+- [BGH, Urteil vom 20.03.2001 - X ZR 90/99](x-zr-90-99.md) — Tatbestand: Die Kläger beteiligten sich in den Jahren 1993 und 1994 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell,
+- [BGH, Urteil vom 20.03.2001 - X ZR 91/99](x-zr-91-99.md) — Tatbestand: Die Kläger beteiligten sich im Jahr 1994 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell, bei dem den An
+- [BGH, Urteil vom 20.03.2001 - X ZR 92/99](x-zr-92-99.md) — Tatbestand: Die Kläger beteiligten sich in den Jahren 1993 bis 1995 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell,
+- [BGH, Urteil vom 20.03.2001 - X ZR 94/99](x-zr-94-99.md) — Tatbestand: Die Kläger beteiligten sich in den Jahren 1993 und 1994 mit Geldbeträgen in unterschiedlicher Höhe an einem Kapitalanlagemodell,
+- [BGH, Urteil vom 20.03.2001 - X ZR 95/99](x-zr-95-99.md) — Tatbestand:
 - [BGH, Urteil vom 13.03.2001 - X ZR 155/98](x-zr-155-98.md) — Tatbestand:
+- [BGH, Urteil vom 07.03.2001 - X ZR 160/99](x-zr-160-99.md) — Tatbestand:
+- [BGH, Urteil vom 07.03.2001 - X ZR 176/99](x-zr-176-99.md) — 3-
 - [BGH, Urteil vom 20.02.2001 - X ZR 140/98](x-zr-140-98.md) — Tatbestand:
+- [BGH, Urteil vom 20.02.2001 - X ZR 9/99](x-zr-9-99.md) — BGH, Urteil vom 20.02.2001 - X ZR 9/99
+- [BGH, Beschluss vom 06.02.2001 - X ZB 22/00](x-zb-22-00.md) — Besorgnis der Befangenheit abzulehnen. Der Richter hatte im Beschwerdeverfahren Kopien des als "Prozeßkostenhilfe" gekennzeichneten Schrifts
+- [BGH, Urteil vom 06.02.2001 - X ZR 82/98](x-zr-82-98.md) — Tatbestand:
 - [BGH, Beschluss vom 23.01.2001 - X ZB 7/00](x-zb-7-00.md) — unzureichender Beratung bei der Vornahme von Anlagegeschäften geltend. Ihr Gesuch auf Bewilligung von Prozeßkostenhilfe für eine entsprechen
+- [BGH, Urteil vom 23.01.2001 - X ZR 247/98](x-zr-247-98.md) — Tatbestand:
 - [BGH, Urteil vom 16.01.2001 - X ZR 69/99](x-zr-69-99.md) — Tatbestand:
+- [BGH, Urteil vom 09.01.2001 - X ZR 158/98](x-zr-158-98.md) — Tatbestand:
+- [BGH, Beschluss vom 04.01.2001 - X ZR 208/99](x-zr-208-99.md) — greifbarer Gesetzwidrigkeit berührt - unbeschadet der Frage, ob es überhaupt eröffnet sein kann - diese Beurteilung jedenfalls deshalb nicht

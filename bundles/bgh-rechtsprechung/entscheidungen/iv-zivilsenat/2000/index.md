@@ -1,25 +1,48 @@
 # IV. Zivilsenat – 2000
 
-24 Entscheidung(en).
+47 Entscheidung(en).
 
+- [BGH, Urteil vom 13.12.2000 - IV ZR 279/99](iv-zr-279-99.md) — Tatbestand: Der Kläger begehrt die Feststellung, daß sein mit der Beklagten geschlossener Vertrag über eine Berufsunfähigkeits-Zusatzversich
+- [BGH, Versäumnisurteil vom 13.12.2000 - IV ZR 280/99](iv-zr-280-99.md) — Tatbestand: Der Kläger nimmt die Beklagte nach einem Brandschaden aus einer Wohngebäudeversicherung in Anspruch. Dem Versicherungsvertrag mi
 - [BGH, Urteil vom 06.12.2000 - IV ZR 28/00](iv-zr-28-00.md) — Tatbestand: Die Klägerin verlangt aus abgetretenem Recht einer Leasinggesellschaft vom beklagten Versicherer restliche Entschädigung aus ein
+- [BGH, Urteil vom 22.11.2000 - IV ZR 235/99](iv-zr-235-99.md) — Verstoßes gegen AGBG § 9 Abs. 1 unwirksam.
 - [BGH, Urteil vom 15.11.2000 - IV ZR 223/99](iv-zr-223-99.md) — Tatbestand: Die Klägerin, ein Hoch- und Tiefbauunternehmen aus Ö., erhielt vom Land S. den Auftrag, die Richtungsfahrbahn S. auf der Westaut
 - [BGH, Urteil vom 08.11.2000 - IV ZR 1/00](iv-zr-1-00.md) — Tatbestand:
 - [BGH, Beschluss vom 08.11.2000 - IV ZR 291/99](iv-zr-291-99.md) — Zu 1: Der Tenor des Berufungsurteils ist offensichtlich unrichtig.
 - [BGH, Urteil vom 08.11.2000 - IV ZR 298/99](iv-zr-298-99.md) — Tatbestand: Die Klägerin macht als Gebäudefeuerversicherer Rückgriffsansprüche gegen die Beklagte geltend. Der Versicherungsnehmer der Kläge
+- [BGH, Beschluss vom 18.10.2000 - IV ZB 9/00](iv-zb-9-00.md) — 3- I. Das Landgericht hat die Beklagte zur Auskunft über den Bestand der Erbschaft, zur Herausgabe eines Pkw sowie zur Herausgabe verschiedener Sparbücher verurteilt. Rechtzeitig …
+- [BGH, Urteil vom 18.10.2000 - IV ZR 100/99](iv-zr-100-99.md) — Tatbestand: Die Klägerin verlangt von der Beklagten aus einer bei dieser genommenen gebündelten Sachversicherung, mit der ein auf dem Grunds
+- [BGH, Beschluss vom 18.10.2000 - IV ZR 239/99](iv-zr-239-99.md) — Die Klägerin begehrt mit ihrer Klage gemäß §§ 894, 2039 BGB die Eintragung der Erbengemeinschaft, zu der sie als weiteres Mitglied neben den Beklagten gehört.
+- [BGH, Urteil vom 18.10.2000 - IV ZR 99/99](iv-zr-99-99.md) — Tatbestand: Die Klägerin nimmt den Beklagten wegen schuldhafter Verletzung seines Amtes als Testamentsvollstrecker in Anspruch. Sie und ihr
+- [BGH, Beschluss vom 11.10.2000 - IV ZB 17/00](iv-zb-17-00.md) — der Versäumung der Frist zur Berufungsbegründung Wiedereinsetzung in den vorigen Stand zu gewähren, und zugleich die Berufung begründet.
+- [BGH, Beschluss vom 11.10.2000 - IV ZR 177/00](iv-zr-177-00.md) — eines schweren Verkehrsunfalls, an dem ein bei der Beklagten versichertes Fahrzeug der Klägerin beteiligt war, die Beklagte auf Ersatz des F
+- [BGH, Urteil vom 11.10.2000 - IV ZR 208/99](iv-zr-208-99.md) — Tatbestand: Der Kläger nimmt die Beklagte auf Leistungen aus einer Berufsunfähigkeits-Zusatzversicherung in Anspruch, die seit November 1992
+- [BGH, Beschluss vom 11.10.2000 - IV ZR 97/00](iv-zr-97-00.md) — I. Die Klägerin, eine von drei Miterbinnen, verlangt vom beklagten Testamentsvollstrecker Rechnungslegung für die Jahre 1993 bis 1996. Zum Streitwert hat sie in der Klageschrift …
 - [BGH, Beschluss vom 27.09.2000 - IV ZB 16/00](iv-zb-16-00.md) — Versäumung der Frist zur Einlegung der Berufung gegen das Urteil der 9. Zivilkammer des Landgerichts Magdeburg vom 22. Juni 1999 Wiedereinse
+- [BGH, Beschluss vom 27.09.2000 - IV ZB 6/00](iv-zb-6-00.md) — Erteilung einer Auskunft nach freiem Ermessen festsetzen (§ 3 ZPO) und darf das Revisionsgericht die Wertfestsetzung des Berufungsgerichts n
 - [BGH, Urteil vom 27.09.2000 - IV ZR 140/99](iv-zr-140-99.md) — Tatbestand: Der Kläger war ehemals bei den Berliner Verkehrsbetrieben in Ostberlin (Büro für Verkehrsplanung beim Magistrat) beschäftigt. An
+- [BGH, Beschluss vom 27.09.2000 - IV ZR 76/00](iv-zr-76-00.md) — Die Beiordnung eines Rechtsanwalts nach § 78b ZPO setzt voraus, daß die Partei trotz zumutbarer Anstrengung einen zu ihrer Vertretung bereiten Anwalt nicht findet und die …
+- [BGH, Urteil vom 20.09.2000 - IV ZR 203/99](iv-zr-203-99.md) — Tatbestand: Die Klägerin unterhält bei der Beklagten ab Dezember 1993 eine Berufsunfähigkeitsversicherung, mit der für den Fall des Eintritt
+- [BGH, Urteil vom 05.07.2000 - IV ZR 180/99](iv-zr-180-99.md) — Tatbestand: Die Klägerin macht im Wege der Stufenklage Pflichtteilsansprüche nach der am 18. August 1992 gestorbenen Erblasserin geltend. In
+- [BGH, Urteil vom 21.06.2000 - IV ZR 157/99](iv-zr-157-99.md) — Tatbestand: Die Klägerin nimmt als Alleinerbin ihres verstorbenen Ehemannes die Beklagte aus einer Unfallversicherung in Anspruch. Die Parte
 - [BGH, Beschluss vom 21.06.2000 - IV ZR 20/00](iv-zr-20-00.md) — BGH, Beschluss vom 21.06.2000 - IV ZR 20/00
+- [BGH, Urteil vom 21.06.2000 - IV ZR 87/99](iv-zr-87-99.md) — BGH, Urteil vom 21.06.2000 - IV ZR 87/99
+- [BGH, Urteil vom 24.05.2000 - IV ZR 166/99](iv-zr-166-99.md) — Tatbestand:
+- [BGH, Urteil vom 24.05.2000 - IV ZR 186/99](iv-zr-186-99.md) — Tatbestand: Die Parteien streiten über Ansprüche aus einer Versicherung für den Werkverkehr, die die Beklagte bei der Klägerin genommen hat.
 - [BGH, Urteil vom 17.05.2000 - IV ZR 113/99](iv-zr-113-99.md) — Tatbestand: Der Kläger beansprucht eine Invaliditätsentschädigung aus einer Unfallversicherung, die er 1987 bei der Beklagten genommen hat.
 - [BGH, Beschluss vom 17.05.2000 - IV ZR 243/99](iv-zr-243-99.md) — BGH, Beschluss vom 17.05.2000 - IV ZR 243/99
 - [BGH, Beschluss vom 17.05.2000 - IV ZR 294/99](iv-zr-294-99.md) — BGH, Beschluss vom 17.05.2000 - IV ZR 294/99
 - [BGH, Beschluss vom 17.05.2000 - IV ZR 4/00](iv-zr-4-00.md) — arglistiger Täuschung an.
+- [BGH, Urteil vom 10.05.2000 - IV ZR 132/99](iv-zr-132-99.md) — Tatbestand: Die Klägerin verlangt von dem beklagten Kaskoversicherer Entschädigung für ihren Mercedes Benz Coupé 300 CE-24, der nach ihrer B
+- [BGH, Urteil vom 10.05.2000 - IV ZR 171/99](iv-zr-171-99.md) — Tatbestand: Die Kläger machen Ansprüche wegen der Restitution von Grundstücken an die Beklagte als Erbin geltend. Der Erblasser war USamerik
 - [BGH, Urteil vom 10.05.2000 - IV ZR 297/98](iv-zr-297-98.md) — Tatbestand: Der Kläger führt in I. einen Gewerbebetrieb, der zunächst aus einer Videothek, einer Spielhalle und einem Pilslokal bestand. Das
 - [BGH, Urteil vom 03.05.2000 - IV ZR 110/99](iv-zr-110-99.md) — Tatbestand:
 - [BGH, Urteil vom 03.05.2000 - IV ZR 172/99](iv-zr-172-99.md) — BGH, Urteil vom 03.05.2000 - IV ZR 172/99
 - [BGH, Beschluss vom 03.05.2000 - IV ZR 258/99](iv-zr-258-99.md) — I. Der Kläger unterhält bei der Beklagten seit 1984 eine Krankentagegeldversicherung. Nach den Tarifbedingungen sind versicherungsfähig nur Personen, die regelmäßig Einkünfte aus …
 - [BGH, Beschluss vom 03.05.2000 - IV ZR 260/99](iv-zr-260-99.md) — der fehlenden Vollstreckbarkeit - mit einem Abschlag von 20% (BGH, Beschluß vom 28. November 1990 - VIII ZB 27/90 - NJW-RR 1991, 509 unter 3
 - [BGH, Urteil vom 05.04.2000 - IV ZR 145/98](iv-zr-145-98.md) — 3-
+- [BGH, Urteil vom 22.03.2000 - IV ZR 23/99](iv-zr-23-99.md) — Tatbestand: Der Kläger ist ein rechtsfähiger Verein, zu dessen satzungsgemäßen Aufgaben die Wahrnehmung und Förderung der Interessen der Ver
+- [BGH, Urteil vom 22.03.2000 - IV ZR 233/99](iv-zr-233-99.md) — Tatbestand: Der Kläger begehrt von der Beklagten weitere Leistungen aus einer Unfallversicherung. Seine Ehefrau hatte bei der Beklagten eine
 - [BGH, Urteil vom 15.03.2000 - IV ZR 222/98](iv-zr-222-98.md) — Tatbestand: Die Klägerin macht als Miterbin zu 3/8 am Nachlaß ihres Großvaters ein Vorkaufsrecht gemäß §§ 2034, 2035 BGB geltend. Der Nachla
 - [BGH, Beschluss vom 16.02.2000 - IV ZR 220/99](iv-zr-220-99.md) — des Ablaufs der Revisionsbegründungsfrist wird zurückgewiesen. Die Revision des Klägers gegen das Urteil des 21. Zivilsenats des Oberlandesg
 - [BGH, Beschluss vom 26.01.2000 - IV ZR 281/98](iv-zr-281-98.md) — Leistungen aus einer Berufsunfähigkeitszusatzversicherung nicht führt und seine Ansprüche deshalb allein

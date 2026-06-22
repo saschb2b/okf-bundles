@@ -1,12 +1,19 @@
 # 5. Strafsenat – 2000
 
-72 Entscheidung(en).
+150 Entscheidung(en).
 
+- [BGH, Urteil vom 19.12.2000 - 5 StR 462/00](5-str-462-00.md) — Hehlerei u. a.
+- [BGH, Urteil vom 19.12.2000 - 5 StR 490/00](5-str-490-00.md) — Untreue
+- [BGH, Beschluss vom 19.12.2000 - 5 StR 564/00](5-str-564-00.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 15.12.2000 - 5 StR 545/00](5-str-545-00.md) — Diebstahls u. a.
 - [BGH, Urteil vom 14.12.2000 - 5 StR 123/00](5-str-123-00.md) — : nein Veröffentlichung: ja StGB § 266 Zu den Voraussetzungen der Haushaltsuntreue während der Aufbauphase in den neuen Ländern BGH, Urt. v. 14. Dezember 2000 - 5 StR 123/00 LG …
 - [BGH, Beschluss vom 14.12.2000 - 5 StR 471/00](5-str-471-00.md) — sexuellen Mißbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 14.12.2000 - 5 StR 551/00](5-str-551-00.md) — sexuellen Mißbrauchs von Kindern u. a .
 - [BGH, Beschluss vom 14.12.2000 - 5 StR 553/00](5-str-553-00.md) — Raubes u. a.
+- [BGH, Beschluss vom 13.12.2000 - 5 StR 520/00](5-str-520-00.md) — Betruges
+- [BGH, Beschluss vom 13.12.2000 - 5 StR 537/00](5-str-537-00.md) — Rechtsbeugung u. a.
+- [BGH, Beschluss vom 13.12.2000 - 5 StR 540/00](5-str-540-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 12.12.2000 - 5 StR 294/00](5-str-294-00.md) — Anstiftung zum versuchten Mord u. a.
 - [BGH, Urteil vom 28.11.2000 - 5 StR 299/00](5-str-299-00.md) — räuberischer Erpressung u. a.
 - [BGH, Urteil vom 28.11.2000 - 5 StR 327/00](5-str-327-00.md) — Mordes u. a.
 - [BGH, Beschluss vom 28.11.2000 - 5 StR 371/00](5-str-371-00.md) — gewerbsmäßiger Steuerhehlerei
@@ -17,31 +24,92 @@
 - [BGH, Beschluss vom 08.11.2000 - 5 StR 387/00](5-str-387-00.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 08.11.2000 - 5 StR 433/00](5-str-433-00.md) — Betruges
 - [BGH, Beschluss vom 08.11.2000 - 5 StR 440/00](5-str-440-00.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 07.11.2000 - 5 ARs 150/00](5-ars-150-00.md) — Betruges
+- [BGH, Beschluss vom 07.11.2000 - 5 StR 150/00](5-str-150-00.md) — Betruges
+- [BGH, Urteil vom 07.11.2000 - 5 StR 326/00](5-str-326-00.md) — Betruges u. a.
+- [BGH, Beschluss vom 25.10.2000 - 5 StR 279/00](5-str-279-00.md) — Vorteilsannahme
+- [BGH, Beschluss vom 25.10.2000 - 5 StR 335/00](5-str-335-00.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 25.10.2000 - 5 StR 341/00](5-str-341-00.md) — Anstiftung zur gefährlichen Körperverletzung u. a.
+- [BGH, Beschluss vom 25.10.2000 - 5 StR 399/00](5-str-399-00.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 25.10.2000 - 5 StR 408/00](5-str-408-00.md) — : nein Veröffentlichung : ja StPO §§ 142 Abs. 1 Sätze 2 und 3, 336 Einem zeitgerecht vorgetragenen Wunsch des Beschuldigten auf Beiordnung eines von ihm benannten Rechtsanwalts …
+- [BGH, Beschluss vom 24.10.2000 - 5 StR 323/00](5-str-323-00.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 23.10.2000 - 5 ARs 49/00](5-ars-49-00.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Entscheidung vom 23.10.2000 - 5 StR 377/00](5-str-377-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 12.10.2000 - 5 StR 397/00](5-str-397-00.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 12.10.2000 - 5 StR 407/00](5-str-407-00.md) — vorsätzlichen Vollrausches
 - [BGH, Beschluss vom 12.10.2000 - 5 StR 414/99](5-str-414-99.md) — Untreue
+- [BGH, Beschluss vom 10.10.2000 - 5 StR 185/00](5-str-185-00.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 10.10.2000 - 5 StR 336/00](5-str-336-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 10.10.2000 - 5 StR 415/00](5-str-415-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 10.10.2000 - 5 StR 632/98](5-str-632-98.md) — Totschlags
+- [BGH, Beschluss vom 09.10.2000 - 5 StR 248/00](5-str-248-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 09.10.2000 - 5 StR 450/00](5-str-450-00.md) — sexuellen Mißbrauchs von Schutzbefohlenen
 - [BGH, Beschluss vom 21.09.2000 - 5 StR 428/00](5-str-428-00.md) — Raubes mit Todesfolge u. a.
+- [BGH, Beschluss vom 20.09.2000 - 5 StR 243/00](5-str-243-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 20.09.2000 - 5 StR 252/00](5-str-252-00.md) — gewerbsmäßiger Steuerhehlerei u. a.
+- [BGH, Beschluss vom 20.09.2000 - 5 StR 382/00](5-str-382-00.md) — Steuerhehlerei
+- [BGH, Beschluss vom 20.09.2000 - 5 StR 391/00](5-str-391-00.md) — Steuerhinterziehung u. a.
 - [BGH, Beschluss vom 19.09.2000 - 5 StR 404/00](5-str-404-00.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 18.09.2000 - 5 StR 384/00](5-str-384-00.md) — BGH, Beschluss vom 18.09.2000 - 5 StR 384/00
+- [BGH, Beschluss vom 31.08.2000 - 5 StR 262/00](5-str-262-00.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 31.08.2000 - 5 StR 315/00](5-str-315-00.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 31.08.2000 - 5 StR 349/00](5-str-349-00.md) — Fälschung von Zahlungskarten u. a.
 - [BGH, Urteil vom 30.08.2000 - 5 StR 268/00](5-str-268-00.md) — Mordes
+- [BGH, Urteil vom 29.08.2000 - 5 StR 273/00](5-str-273-00.md) — Landfriedensbruchs u. a.
 - [BGH, Urteil vom 29.08.2000 - 5 StR 321/00](5-str-321-00.md) — gewerbsmäßiger Fälschung von Zahlungskarten u. a.
 - [BGH, Beschluss vom 29.08.2000 - 5 StR 364/00](5-str-364-00.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 29.08.2000 - 5 StR 373/00](5-str-373-00.md) — Rechtsbeugung u. a.
+- [BGH, Beschluss vom 28.08.2000 - 5 StR 287/00](5-str-287-00.md) — Betruges
+- [BGH, Beschluss vom 28.08.2000 - 5 StR 300/00](5-str-300-00.md) — versuchter Strafvereitelung u. a.
 - [BGH, Beschluss vom 16.08.2000 - 5 StR 286/00](5-str-286-00.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 16.08.2000 - 5 StR 292/00](5-str-292-00.md) — sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 16.08.2000 - 5 StR 74/00](5-str-74-00.md) — Aussageerpressung u. a.
 - [BGH, Beschluss vom 15.08.2000 - 5 StR 223/00](5-str-223-00.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 15.08.2000 - 5 StR 275/00](5-str-275-00.md) — versuchten Mordes u. a.
 - [BGH, Urteil vom 15.08.2000 - 5 StR 311/00](5-str-311-00.md) — Rechtsbeugung u. a.
+- [BGH, Beschluss vom 15.08.2000 - 5 StR 325/00](5-str-325-00.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 15.08.2000 - 5 StR 363/00](5-str-363-00.md) — BGH, Beschluss vom 15.08.2000 - 5 StR 363/00
+- [BGH, Beschluss vom 02.08.2000 - 5 StR 143/00](5-str-143-00.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 02.08.2000 - 5 StR 234/00](5-str-234-00.md) — Beihilfe zur unerlaubten Einreise u. a.
+- [BGH, Beschluss vom 02.08.2000 - 5 StR 3/00](5-str-3-00.md) — Steuerhinterziehung u. a.
+- [BGH, Urteil vom 01.08.2000 - 5 StR 624/99](5-str-624-99.md) — Beihilfe zur Steuerhinterziehung
+- [BGH, Beschluss vom 19.07.2000 - 5 StR 258/00](5-str-258-00.md) — zu 1. Mordes zu 2. Anstiftung zum Mord
+- [BGH, Beschluss vom 19.07.2000 - 5 StR 274/00](5-str-274-00.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 18.07.2000 - 5 StR 245/00](5-str-245-00.md) — gewerbsmäßiger Steuerhehlerei u. a.
 - [BGH, Beschluss vom 18.07.2000 - 5 StR 269/00](5-str-269-00.md) — Betruges
 - [BGH, Beschluss vom 18.07.2000 - 5 StR 289/00](5-str-289-00.md) — Totschlags
+- [BGH, Beschluss vom 17.07.2000 - 5 StR 280/00](5-str-280-00.md) — Betruges u. a.
 - [BGH, Beschluss vom 06.07.2000 - 5 StR 149/00](5-str-149-00.md) — Wohnungseinbruchdiebstahls u. a.
 - [BGH, Beschluss vom 06.07.2000 - 5 StR 613/99](5-str-613-99.md) — Körperverletzung im Amt
+- [BGH, Urteil vom 05.07.2000 - 5 StR 456/99](5-str-456-99.md) — Mordes u. a.
+- [BGH, Urteil vom 05.07.2000 - 5 StR 629/99](5-str-629-99.md) — Mordes
+- [BGH, Beschluss vom 04.07.2000 - 5 StR 251/00](5-str-251-00.md) — Anstiftung zum Mord u. a.
+- [BGH, Urteil vom 03.07.2000 - 5 StR 190/00](5-str-190-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 03.07.2000 - 5 StR 230/00](5-str-230-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 22.06.2000 - 5 StR 165/00](5-str-165-00.md) — Betruges
+- [BGH, Beschluss vom 22.06.2000 - 5 StR 209/00](5-str-209-00.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Urteil vom 22.06.2000 - 5 StR 268/99](5-str-268-99.md) — Bestechlichkeit u. a.
+- [BGH, Urteil vom 20.06.2000 - 5 StR 173/00](5-str-173-00.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 20.06.2000 - 5 StR 25/00](5-str-25-00.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 07.06.2000 - 5 StR 193/00](5-str-193-00.md) — versuchter schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 06.06.2000 - 5 StR 167/00](5-str-167-00.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 06.06.2000 - 5 StR 199/00](5-str-199-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 06.06.2000 - 5 StR 202/00](5-str-202-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 23.05.2000 - 5 StR 142/00](5-str-142-00.md) — Brandstiftung u. a.
+- [BGH, Beschluss vom 23.05.2000 - 5 StR 181/00](5-str-181-00.md) — Beihilfe zur Rechtsbeugung u. a.
+- [BGH, Beschluss vom 23.05.2000 - 5 StR 427/99](5-str-427-99.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 22.05.2000 - 5 StR 129/00](5-str-129-00.md) — fahrlässiger Tötung
+- [BGH, Beschluss vom 11.05.2000 - 5 StR 114/00](5-str-114-00.md) — Mordes u. a.
+- [BGH, Beschluss vom 20.04.2000 - 5 StR 146/00](5-str-146-00.md) — Rechtsbeugung u. a.
+- [BGH, Beschluss vom 19.04.2000 - 5 StR 135/00](5-str-135-00.md) — schweren Raubes u. a.
+- [BGH, Urteil vom 19.04.2000 - 5 StR 20/00](5-str-20-00.md) — versuchten Mordes
+- [BGH, Urteil vom 19.04.2000 - 5 StR 467/99](5-str-467-99.md) — Totschlags u. a.
+- [BGH, Beschluss vom 19.04.2000 - 5 StR 644/99](5-str-644-99.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 19.04.2000 - 5 StR 80/00](5-str-80-00.md) — Hehlerei u. a.
+- [BGH, Beschluss vom 18.04.2000 - 5 StR 128/00](5-str-128-00.md) — gewerbsmäßiger Steuerhehlerei
+- [BGH, Beschluss vom 18.04.2000 - 5 StR 603/99](5-str-603-99.md) — versuchter gefährlicher Körperverletzung
+- [BGH, Beschluss vom 17.04.2000 - 5 StR 133/00](5-str-133-00.md) — Menschenhandels u. a.
+- [BGH, Urteil vom 17.04.2000 - 5 StR 665/99](5-str-665-99.md) — versuchten Betruges u. a.
 - [BGH, Beschluss vom 05.04.2000 - 5 StR 226/99](5-str-226-99.md) — Steuerhinterziehung
 - [BGH, Beschluss vom 04.04.2000 - 5 ARs 20/00](5-ars-20-00.md) — schweren Bandendiebstahls u. a.
 - [BGH, Beschluss vom 04.04.2000 - 5 StR 103/00](5-str-103-00.md) — Vergewaltigung u. a.
@@ -49,9 +117,18 @@
 - [BGH, Beschluss vom 04.04.2000 - 5 StR 94/00](5-str-94-00.md) — schweren räuberischen Diebstahls u. a.
 - [BGH, Beschluss vom 03.04.2000 - 5 StR 17/00](5-str-17-00.md) — sexuellen Mißbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 03.04.2000 - 5 StR 87/00](5-str-87-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.03.2000 - 5 StR 88/00](5-str-88-00.md) — gewerbsmäßigen Schmuggels u. a.
+- [BGH, Urteil vom 21.03.2000 - 5 StR 41/00](5-str-41-00.md) — Mordes u. a.
 - [BGH, Urteil vom 08.03.2000 - 5 StR 555/99](5-str-555-99.md) — Rechtsbeugung u. a.
 - [BGH, Beschluss vom 08.03.2000 - 5 StR 69/00](5-str-69-00.md) — Totschlags
 - [BGH, Urteil vom 07.03.2000 - 5 StR 30/00](5-str-30-00.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 23.02.2000 - 5 StR 38/00](5-str-38-00.md) — Mordes
+- [BGH, Beschluss vom 23.02.2000 - 5 StR 382/99](5-str-382-99.md) — Betruges
+- [BGH, Urteil vom 23.02.2000 - 5 StR 570/99](5-str-570-99.md) — Betruges u. a.
+- [BGH, Beschluss vom 22.02.2000 - 5 StR 1/00](5-str-1-00.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 22.02.2000 - 5 StR 11/00](5-str-11-00.md) — Mordes u. a.
+- [BGH, Urteil vom 22.02.2000 - 5 StR 573/99](5-str-573-99.md) — besonders schwerer Brandstiftung u. a.
+- [BGH, Urteil vom 22.02.2000 - 5 StR 664/99](5-str-664-99.md) — Landfriedensbruchs u. a.
 - [BGH, Beschluss vom 09.02.2000 - 5 StR 451/99](5-str-451-99.md) — Beihilfe zur Körperverletzung
 - [BGH, Beschluss vom 09.02.2000 - 5 StR 612/99](5-str-612-99.md) — sexuellen Mißbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 09.02.2000 - 5 StR 645/99](5-str-645-99.md) — sexuellen Mißbrauchs eines Kindes
@@ -63,6 +140,7 @@
 - [BGH, Urteil vom 08.02.2000 - 5 StR 543/99](5-str-543-99.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Urteil vom 27.01.2000 - 5 StR 597/99](5-str-597-99.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 27.01.2000 - 5 StR 646/99](5-str-646-99.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Urteil vom 26.01.2000 - 5 StR 566/99](5-str-566-99.md) — Rechtsbeugung u. a.
 - [BGH, Beschluss vom 25.01.2000 - 5 StR 280/98](5-str-280-98.md) — Verbreitens von Propagandamitteln verfassungswidriger Organisationen
 - [BGH, Beschluss vom 25.01.2000 - 5 StR 606/99](5-str-606-99.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 24.01.2000 - 5 StR 409/99](5-str-409-99.md) — Anstiftung zur Brandstiftung u. a.

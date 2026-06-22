@@ -1,23 +1,70 @@
 # XI. Zivilsenat – 2001
 
-19 Entscheidung(en).
+66 Entscheidung(en).
 
+- [BGH, Urteil vom 18.12.2001 - XI ZR 156/01](xi-zr-156-01.md) — Tatbestand:
+- [BGH, Urteil vom 18.12.2001 - XI ZR 363/00](xi-zr-363-00.md) — Tatbestand:
+- [BGH, Urteil vom 04.12.2001 - XI ZR 56/01](xi-zr-56-01.md) — Tatbestand:
+- [BGH, Beschluss vom 27.11.2001 - XI ZB 23/01](xi-zb-23-01.md) — seiner schlechten Deutschkenntnisse nicht bewußt geworden, daß die Prozeßbevollmächtigten die Begründung der Berufung von der vorherigen Beg
+- [BGH, Beschluss vom 27.11.2001 - XI ZR 266/01](xi-zr-266-01.md) — I. Der Kläger wendet sich gegen die Vollstreckung der Beklagten aus seinem notariellen Schuldanerkenntnis vom 19. Januar 1981 in Höhe von 73.382,66 DM nebst 8% Zinsen seit dem 30 …
+- [BGH, Beschluss vom 13.11.2001 - XI ZR 122/01](xi-zr-122-01.md) — einer Verkürzung der Rechte der Aktionäre gemäß § 320 b AktG gegen § 9 AGBG. Ob das Kaufangebot und der Übernahmekodex Allgemeine Geschäftsb
+- [BGH, Urteil vom 13.11.2001 - XI ZR 82/01](xi-zr-82-01.md) — 3-
+- [BGH, Beschluss vom 06.11.2001 - XI ZB 11/01](xi-zb-11-01.md) — I. Das Landgericht hat den Beklagten, einen Rechtsanwalt, zur Zahlung von 301.684 DM verurteilt. Hiergegen legte der Beklagte Berufung ein. Im Termin zur mündlichen Verhandlung …
+- [BGH, Beschluss vom 06.11.2001 - XI ZB 14/01](xi-zb-14-01.md) — I. Das Landgericht hat die Beklagte aus einer Bürgschaft zur Zahlung von 50.000 DM nebst Zinsen verurteilt. Nach fristgemäßer Einlegung der Berufung hat das Oberlandesgericht die …
 - [BGH, Urteil vom 23.10.2001 - XI ZR 63/01](xi-zr-63-01.md) — Tatbestand:
+- [BGH, Urteil vom 23.10.2001 - XI ZR 83/01](xi-zr-83-01.md) — Tatbestand:
+- [BGH, Urteil vom 16.10.2001 - XI ZR 25/01](xi-zr-25-01.md) — Tatbestand:
+- [BGH, Urteil vom 09.10.2001 - XI ZR 281/00](xi-zr-281-00.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 25.09.2001 - XI ZR 109/01](xi-zr-109-01.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2001 - XI ZR 375/00](xi-zr-375-00.md) — I. Die Klägerin, ein Acquiring-Unternehmen des Kreditkartengewerbes, nimmt den Beklagten, der als Inhaber eines Vertragsunternehmens einen EDV-Handel betreibt, auf Rückgewähr von …
+- [BGH, Urteil vom 18.09.2001 - XI ZR 321/00](xi-zr-321-00.md) — Tatbestand:
+- [BGH, Urteil vom 18.09.2001 - XI ZR 337/00](xi-zr-337-00.md) — Tatbestand:
 - [BGH, Beschluss vom 18.09.2001 - XI ZR 377/00](xi-zr-377-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 31.07.2001 - XI ZR 217/01](xi-zr-217-01.md) — Tätlichkeiten des Klägers erloschen. Das Oberlandesgericht hat die Berufung der Beklagten, mit der sie die Berücksichtigung ihres vorgenannt
 - [BGH, Urteil vom 24.07.2001 - XI ZR 164/00](xi-zr-164-00.md) — BGH, Urteil vom 24.07.2001 - XI ZR 164/00
 - [BGH, Urteil vom 24.07.2001 - XI ZR 329/00](xi-zr-329-00.md) — Tatbestand:
+- [BGH, Beschluss vom 24.07.2001 - XI ZR 33/01](xi-zr-33-01.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 17.07.2001 - XI ZR 15/01](xi-zr-15-01.md) — I. Die Klägerin hat die beklagte Bank auf Auszahlung des Guthabens auf ihrem Girokonto in Anspruch genommen. Die Klägerin unterhält bei der Beklagten ein Girokonto und ein Depot …
+- [BGH, Urteil vom 17.07.2001 - XI ZR 325/00](xi-zr-325-00.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2001 - XI ZR 362/00](xi-zr-362-00.md) — Tatbestand:
 - [BGH, Urteil vom 10.07.2001 - XI ZR 198/00](xi-zr-198-00.md) — Tatbestand:
 - [BGH, Urteil vom 10.07.2001 - XI ZR 199/00](xi-zr-199-00.md) — Tatbestand:
 - [BGH, Urteil vom 10.07.2001 - XI ZR 200/00](xi-zr-200-00.md) — Tatbestand:
+- [BGH, Urteil vom 26.06.2001 - XI ZR 241/00](xi-zr-241-00.md) — Tatbestand:
+- [BGH, Urteil vom 26.06.2001 - XI ZR 304/00](xi-zr-304-00.md) — Tatbestand:
+- [BGH, Beschluss vom 26.06.2001 - XI ZR 330/00](xi-zr-330-00.md) — Zahlungsansprüchen aus drei notariellen Bauträgerverträgen vom Juni 1996 valutieren. Mit diesen Verträgen, die ihrerseits eine Vollstreckung
+- [BGH, Beschluss vom 19.06.2001 - XI ZR 332/00](xi-zr-332-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Beschluss vom 12.06.2001 - XI ZR 161/01](xi-zr-161-01.md) — BGH, Beschluss vom 12.06.2001 - XI ZR 161/01
 - [BGH, Urteil vom 12.06.2001 - XI ZR 274/00](xi-zr-274-00.md) — Tatbestand:
 - [BGH, Urteil vom 12.06.2001 - XI ZR 283/00](xi-zr-283-00.md) — Tatbestand:
 - [BGH, Beschluss vom 12.06.2001 - XI ZR 287/00](xi-zr-287-00.md) — BGH, Beschluss vom 12.06.2001 - XI ZR 287/00
 - [BGH, Beschluss vom 12.06.2001 - XI ZR 341/00](xi-zr-341-00.md) — BGH, Beschluss vom 12.06.2001 - XI ZR 341/00
+- [BGH, Entscheidung vom 15.05.2001 - XI ZR 243/00](xi-zr-243-00.md) — Tatbestand:
+- [BGH, Beschluss vom 15.05.2001 - XI ZR 312/00](xi-zr-312-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 15.05.2001 - XI ZR 324/00](xi-zr-324-00.md) — dieser Vorfälligkeitsentschädigung zu betreiben, und weiter hilfsweise die Feststellung, daß der Kläger nicht verpflichtet sei, die Kosten d
 - [BGH, Urteil vom 08.05.2001 - XI ZR 192/00](xi-zr-192-00.md) — Tatbestand:
+- [BGH, Beschluss vom 08.05.2001 - XI ZR 70/01](xi-zr-70-01.md) — einer angeblich rechtsgrundlos geleisteten Zahlung und aus 15.900 DM wegen angeblicher Nutzungen aus den genannten 60.000 DM zusammensetzt.
+- [BGH, Beschluss vom 24.04.2001 - XI ZB 3/01](xi-zb-3-01.md) — I. Die Klägerin hat gegen das klageabweisende Urteil des Landgerichts rechtzeitig Berufung eingelegt. Das Oberlandesgericht hat die Frist zur Begründung der Berufung bis …
+- [BGH, Urteil vom 24.04.2001 - XI ZR 40/00](xi-zr-40-00.md) — Tatbestand:
+- [BGH, Beschluss vom 03.04.2001 - XI ZA 1/01](xi-za-1-01.md) — der Versäumung der Rechtsmittelfrist Wiedereinsetzung nach § 233 ZPO zu gewähren, wenn sie vernünftigerweise nicht mit der Verweigerung der
+- [BGH, Beschluss vom 03.04.2001 - XI ZB 2/01](xi-zb-2-01.md) — I. Das Landgericht H. hat den Beklagten durch Urteil vom 11. Juli 2000 zur Zahlung von 22.500 DM nebst Zinsen verurteilt. Gegen das am 14. Juli 2000 zugestellte Urteil hat der …
+- [BGH, Urteil vom 03.04.2001 - XI ZR 120/00](xi-zr-120-00.md) — Tatbestand:
+- [BGH, Urteil vom 03.04.2001 - XI ZR 223/00](xi-zr-223-00.md) — 3-
+- [BGH, Urteil vom 20.03.2001 - XI ZR 157/00](xi-zr-157-00.md) — eines Betrages von 193.000 DM zuzüglich Zinsen abgewiesen hat.
+- [BGH, Urteil vom 20.03.2001 - XI ZR 213/00](xi-zr-213-00.md) — Tatbestand:
+- [BGH, Urteil vom 20.03.2001 - XI ZR 260/00](xi-zr-260-00.md) — Tatbestand:
 - [BGH, Beschluss vom 13.03.2001 - XI ZR 252/00](xi-zr-252-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 07.03.2001 - XI ZR 60/01](xi-zr-60-01.md) — Der Antrag des Nebenintervenienten, die Zwangsvollstreckung aus dem Zuschlagsbeschluß des Amtsgerichts We.
+- [BGH, Beschluss vom 06.03.2001 - XI ZB 1/01](xi-zb-1-01.md) — I. Die Klägerin hatte der Beklagten in einem Vorprozeß als Sicherheit eine Bürgschaftsurkunde ausgehändigt, um aus einem zu ihren Gunsten ergangenen vorläufig vollstreckbaren …
 - [BGH, Versäumnisurteil vom 13.02.2001 - XI ZR 197/00](xi-zr-197-00.md) — fehlender Deckung ein Entgelt fordert, verstoßen gegen § 9 AGBG.
+- [BGH, Beschluss vom 06.02.2001 - XI ZB 14/00](xi-zb-14-00.md) — I. Das Landgericht hatte die auf Zahlung von Schadensersatz gerichtete Klage durch Urteil vom 31. März 2000 abgewiesen. Diese Entscheidung wurde den Prozeßbevollmächtigten der …
+- [BGH, Beschluss vom 06.02.2001 - XI ZR 167/00](xi-zr-167-00.md) — BGH, Beschluss vom 06.02.2001 - XI ZR 167/00
+- [BGH, Urteil vom 30.01.2001 - XI ZR 118/00](xi-zr-118-00.md) — Tatbestand:
+- [BGH, Urteil vom 30.01.2001 - XI ZR 183/00](xi-zr-183-00.md) — 3-
+- [BGH, Urteil vom 30.01.2001 - XI ZR 357/99](xi-zr-357-99.md) — Tatbestand:
 - [BGH, Urteil vom 16.01.2001 - XI ZR 113/00](xi-zr-113-00.md) — Tatbestand:
 - [BGH, Beschluss vom 16.01.2001 - XI ZR 215/00](xi-zr-215-00.md) — . Der Antrag des Klägers auf Beiordnung eines Rechtsanwalts nach § 78 b Abs. 1 ZPO ist offensichtlich unbegründet. a) Es kann schon keine Rede davon sein, daß der Kläger keinen zu …
 - [BGH, Urteil vom 16.01.2001 - XI ZR 41/00](xi-zr-41-00.md) — Tatbestand:
 - [BGH, Urteil vom 16.01.2001 - XI ZR 84/00](xi-zr-84-00.md) — Tatbestand:
+- [BGH, Beschluss vom 09.01.2001 - XI ZR 124/00](xi-zr-124-00.md) — BGH, Beschluss vom 09.01.2001 - XI ZR 124/00
+- [BGH, Beschluss vom 09.01.2001 - XI ZR 207/00](xi-zr-207-00.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.

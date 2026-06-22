@@ -1,19 +1,28 @@
 # Kartellsenat – 2007
 
-17 Entscheidung(en).
+26 Entscheidung(en).
 
 - [BGH, Beschluss vom 10.12.2007 - KZR 14/07](kzr-14-07.md) — BGH, Beschluss vom 10.12.2007 - KZR 14/07
+- [BGH, Beschluss vom 13.11.2007 - KVR 23/07](kvr-23-07.md) — I. 1 Die Antragstellerin, die Stadtwerke W. GmbH, ist ein kommu- nales Unternehmen, das Elektrizität erzeugt, verteilt und mit elektrischem Strom Handel betreibt. Sie unterhält …
+- [BGH, Beschluss vom 13.11.2007 - KVR 32/07](kvr-32-07.md) — Die Antragstellerin hat bei der Antragsgegnerin, der Landesregulierungs- behörde des Landes Sachsen-Anhalt, einen Antrag auf Genehmigung von Netzentgelten für das Jahr 2006 …
 - [BGH, Beschluss vom 13.11.2007 - KVR 4/07](kvr-4-07.md) — I. 1 Am 13. Oktober 2005 meldete die E. I. du Pont de Nemours and Company (Betroffene zu 1, nachstehend DuPont) beim Bundeskartellamt die Absicht an, durch ihre niederländische …
 - [BGH, Beschluss vom 13.11.2007 - KVZ 10/07](kvz-10-07.md) — I. 1 Mit Entscheidung vom 17. Oktober 2005, eingegangen beim Bundeskartell- amt am selben Tag, hat die Kommission der Europäischen Gemeinschaften ein von den Beteiligten zu 1 und …
 - [BGH, Urteil vom 13.11.2007 - KZR 22/06](kzr-22-06.md) — 3-
+- [BGH, Beschluss vom 25.09.2007 - KVR 19/07](kvr-19-07.md) — I. Die Betroffene zu 1 (nachfolgend Sulzer) ist ein Tochterunternehmen der in der Schweiz ansässigen Sulzer AG, die über ihre Tochterunternehmen im Be- reich der …
+- [BGH, Beschluss vom 25.09.2007 - KVR 25/06](kvr-25-06.md) — I. Die Beteiligte zu 1 (im Folgenden: H. ) und die Beteilig- te zu 2 (im Folgenden: T. ) sind auf dem Gebiet der Herstellung und des Vertriebs von Zement tätig. H. meldete mit …
 - [BGH, Beschluss vom 25.09.2007 - KVR 30/06](kvr-30-06.md) — I. 1 Die Betroffene zu 1 (nachfolgend: Springer) beabsichtigte, von der Betroffe- nen zu 3 (nachfolgend: ProSieben-Holding) deren Geschäftsanteile an der Betrof- fenen zu 2 …
 - [BGH, Beschluss vom 25.09.2007 - KVZ 22/07](kvz-22-07.md) — BGH, Beschluss vom 25.09.2007 - KVZ 22/07
+- [BGH, Urteil vom 25.09.2007 - KZR 14/06](kzr-14-06.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2007 - KZR 24/07](kzr-24-07.md) — I. Die Beklagte ist durch das Berufungsgericht verurteilt worden, "an die Insolvenzschuldnerin" 475.554,17 € und - insoweit unter dem Vorbehalt mehre- rer Aufrechnungen - …
 - [BGH, Beschluss vom 25.09.2007 - KZR 33/06](kzr-33-06.md) — Die Nichtzulassungsbeschwerde hat keinen Erfolg, weil kein Grund für eine Zulassung der Revision besteht.
 - [BGH, Urteil vom 25.09.2007 - KZR 48/05](kzr-48-05.md) — Tatbestand:
 - [BGH, Beschluss vom 19.06.2007 - KVR 16/06](kvr-16-06.md) — BGH, Beschluss vom 19.06.2007 - KVR 16/06
 - [BGH, Beschluss vom 19.06.2007 - KVR 17/06](kvr-17-06.md) — BGH, Beschluss vom 19.06.2007 - KVR 17/06
 - [BGH, Beschluss vom 19.06.2007 - KVR 18/06](kvr-18-06.md) — BGH, Beschluss vom 19.06.2007 - KVR 18/06
+- [BGH, Beschluss vom 19.06.2007 - KVZ 35/06](kvz-35-06.md) — I. Die Beschwerdeführerin ist ein Energieversorgungsunternehmen, das aufgrund einer Datenabfrage der Bundesnetzagentur zur Durchführung eines Ver- gleichsverfahrens …
 - [BGH, Beschluss vom 19.06.2007 - KVZ 9/07](kvz-9-07.md) — BGH, Beschluss vom 19.06.2007 - KVZ 9/07
+- [BGH, Beschluss vom 18.05.2007 - KVR 39/05](kvr-39-05.md) — Die Anhörungsrügen der Rechtsbeschwerdegegnerinnen zu 1 bis 3 sind nicht innerhalb der Frist des § 71a Abs.
+- [BGH, Beschluss vom 08.05.2007 - KVR 31/06](kvr-31-06.md) — BGH, Beschluss vom 08.05.2007 - KVR 31/06
 - [BGH, Urteil vom 08.05.2007 - KZR 14/04](kzr-14-04.md) — Tatbestand:
 - [BGH, Urteil vom 08.05.2007 - KZR 16/04](kzr-16-04.md) — Tatbestand:
 - [BGH, Urteil vom 08.05.2007 - KZR 9/06](kzr-9-06.md) — Tatbestand:

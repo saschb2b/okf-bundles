@@ -1,20 +1,71 @@
 # XII. Zivilsenat – 2000
 
-49 Entscheidung(en).
+118 Entscheidung(en).
 
+- [BGH, Urteil vom 20.12.2000 - XII ZR 237/98](xii-zr-237-98.md) — Tatbestand: Die Parteien, deren Ehe auf den am 8. Februar 1994 zugestellten Scheidungsantrag geschieden wurde, streiten über die Höhe des de
+- [BGH, Urteil vom 20.12.2000 - XII ZR 75/98](xii-zr-75-98.md) — Tatbestand: Die Klägerin nimmt die Beklagte auf Zahlung von Mietzinsen in Anspruch. Durch zwei Verträge vom 23. November 1994 mietete die Be
+- [BGH, Beschluss vom 13.12.2000 - XII ZB 52/97](xii-zb-52-97.md) — I. Die am 14. September 1957 geschlossene Ehe der Parteien wurde auf den am 23. November 1994 zugestellten Antrag des Ehemanns durch Verbundurteil des Amtsgerichts - …
+- [BGH, Urteil vom 13.12.2000 - XII ZR 236/98](xii-zr-236-98.md) — Tatbestand: Die Klägerin beansprucht von den Beklagten gemäß § 538 Abs. 2 BGB Aufwendungsersatz wegen der angeblichen Unzulänglichkeit der L
+- [BGH, Urteil vom 13.12.2000 - XII ZR 278/98](xii-zr-278-98.md) — Tatbestand: Die Parteien streiten um Trennungsunterhalt für die Zeit ab 1. April 1997. Die Klägerin hat die polnische, der Beklagte die deut
 - [BGH, Beschluss vom 06.12.2000 - XII ZB 193/00](xii-zb-193-00.md) — I. Durch Urteil des Landgerichts vom 15. Juni 2000 wurde der Beklagte zur Zahlung von 64.484,91 DM nebst Zinsen und zur Räumung und Herausgabe von gewerblich genutzten Räumen an …
 - [BGH, Beschluss vom 06.12.2000 - XII ZR 167/98](xii-zr-167-98.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Urteil vom 06.12.2000 - XII ZR 219/98](xii-zr-219-98.md) — Tatbestand:
+- [BGH, Beschluss vom 29.11.2000 - XII ZB 189/99](xii-zb-189-99.md) — I. Das Landgericht verurteilte die Beklagte zur Herausgabe von 400.000 Flaschen Leergut. Gegen dieses ihr am 23. Juni 1999 zugestellte Urteil legte die Beklagte am 22. Juli 1999 …
+- [BGH, Urteil vom 29.11.2000 - XII ZR 165/98](xii-zr-165-98.md) — Tatbestand: Die Klägerin ist die Witwe und Alleinerbin des am 30. Oktober 1993 verstorbenen Harald J. (im Folgenden: Erblasser), der von 195
+- [BGH, Urteil vom 29.11.2000 - XII ZR 212/98](xii-zr-212-98.md) — Tatbestand: Die Klägerin nimmt den Beklagten auf Zahlung von Trennungsunterhalt in Anspruch. Die Parteien schlossen am 20. Oktober 1992 die
+- [BGH, Beschluss vom 22.11.2000 - XII ZB 28/00](xii-zb-28-00.md) — I. Durch das am 23. September 1999 zugestellte Urteil des Familiengerichts ist die Abänderungsklage des Klägers teilweise abgewiesen worden. Mit Schriftsatz seiner …
+- [BGH, Beschluss vom 15.11.2000 - XII ZB 53/00](xii-zb-53-00.md) — . Das Oberlandesgericht hat die Erstbeschwerde des Antragstellers gegen den Beschluß des Amtsgerichts - Familiengericht - vom 14. Dezember 1999, durch den der Antrag des …
+- [BGH, Urteil vom 15.11.2000 - XII ZR 181/98](xii-zr-181-98.md) — Tatbestand: Durch Beschluß des Kreisgerichts vom 31. Januar 1992 wurde über das Vermögen der LPG G. das Gesamtvollstreckungsverfahren eröffn
+- [BGH, Urteil vom 15.11.2000 - XII ZR 197/98](xii-zr-197-98.md) — Tatbestand: Der im Jahre 1940 geborene Antragsteller und die im Jahre 1962 geborene Antragsgegnerin schlossen am 25. März 1995 die Ehe. Im F
+- [BGH, Beschluss vom 08.11.2000 - XII ZB 132/00](xii-zb-132-00.md) — der Unzulässigkeit keine Erfolgsaussicht biete. Gegen den Beschluß wendet sich der Beklagte mit der sofortigen Beschwerde.
+- [BGH, Beschluss vom 08.11.2000 - XII ZB 9/00](xii-zb-9-00.md) — I. Durch Verbundurteil vom 21. Juni 1999 hat das Familiengericht die Ehe der Parteien geschieden, die elterliche Sorge für die beiden aus der Ehe hervorgegangenen Kinder der …
+- [BGH, Beschluss vom 31.10.2000 - XII ZR 3/00](xii-zr-3-00.md) — I. Das Landgericht verurteilte den Beklagten zur Räumung und Herausgabe der von ihm betriebenen Gaststätte nebst zugehöriger Wohnung sowie zur Zahlung von 138.125,52 DM nebst …
+- [BGH, Beschluss vom 25.10.2000 - XII ZB 172/00](xii-zb-172-00.md) — Auf die zutreffenden Gründe des angefochtenen Beschlusses, denen der Senat folgt, wird verwiesen.
+- [BGH, Urteil vom 25.10.2000 - XII ZR 133/98](xii-zr-133-98.md) — 3-
+- [BGH, Urteil vom 25.10.2000 - XII ZR 136/98](xii-zr-136-98.md) — Tatbestand: Der Kläger verlangt von der Beklagten aus abgetretenem Recht der Sparkasse in B. (im folgenden: Sparkasse) den Betrag zurück, de
+- [BGH, Beschluss vom 18.10.2000 - XII ZB 163/00](xii-zb-163-00.md) — I. Das Amtsgericht hat durch Verbundurteil unter anderem den Versorgungsausgleich durch Rentensplitting zu Lasten des Antragstellers durchgeführt und dabei bei der Dynamisierung …
+- [BGH, Versäumnisurteil vom 18.10.2000 - XII ZR 115/98](xii-zr-115-98.md) — Tatbestand: Der Kläger verlangt von den Beklagten die Räumung und Herausgabe von Gewerberäumen. Der Kläger ist seit 1997 Eigentümer eines Gr
+- [BGH, Urteil vom 18.10.2000 - XII ZR 179/98](xii-zr-179-98.md) — Tatbestand:
+- [BGH, Urteil vom 18.10.2000 - XII ZR 191/98](xii-zr-191-98.md) — Tatbestand: Der Kläger nimmt die Beklagte auf Zahlung von Kindesunterhalt in Anspruch. Der am 5. November 1984 geborene Kläger ist der Sohn
+- [BGH, Urteil vom 18.10.2000 - XII ZR 85/98](xii-zr-85-98.md) — Tatbestand: Der Kläger, Eigentümer eines Wohn- und Geschäftshauses, hatte 1970 zunächst das Erdgeschoß und 1971 das gesamte Haus an die Bekl
+- [BGH, Beschluss vom 11.10.2000 - XII ZB 69/00](xii-zb-69-00.md) — I. 1. Bei dem am 10. März 1964 geborenen Betroffenen wurde 1986 eine Psychose aus dem schizophrenen Formenkreis festgestellt, deren Verlauf in den folgenden Jahren chronisch …
+- [BGH, Urteil vom 11.10.2000 - XII ZR 303/98](xii-zr-303-98.md) — Tatbestand: Die Parteien machen gegenseitig Zugewinnausgleichsansprüche geltend. Durch Urteil des Familiengerichts vom 17. April 1997 wurde
 - [BGH, Urteil vom 04.10.2000 - XII ZR 44/98](xii-zr-44-98.md) — Tatbestand: Mit Formularmietvertrag vom 5. September 1995 vermieteten die Kläger den Beklagten Geschäftsräume in einem neu errichteten Einka
+- [BGH, Beschluss vom 27.09.2000 - XII ZB 164/00](xii-zb-164-00.md) — greifbarer Gesetzwidrigkeit des angefochtenen Beschlusses ausnahmsweise zulässig.
+- [BGH, Beschluss vom 27.09.2000 - XII ZB 67/99](xii-zb-67-99.md) — I. Die Antragstellerin nimmt die Antragsgegnerin im Rahmen des verlängerten schuldrechtlichen Versorgungsausgleichs auf Zahlung einer Ausgleichsrente in Anspruch. 1. Die am 20 …
+- [BGH, Beschluss vom 27.09.2000 - XII ZB 81/00](xii-zb-81-00.md) — der Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorigen Stand zu bewilligen, zu Recht nicht stattgegeben und die Berufu
+- [BGH, Urteil vom 27.09.2000 - XII ZR 174/98](xii-zr-174-98.md) — Tatbestand: Die Klägerin nimmt den Beklagten auf Zahlung von Trennungs- und Kindesunterhalt in Anspruch. Die Parteien schlossen, nachdem sie
+- [BGH, Urteil vom 27.09.2000 - XII ZR 281/98](xii-zr-281-98.md) — Tatbestand und Entscheidungsgründe:
+- [BGH, Beschluss vom 31.08.2000 - XII ZB 141/00](xii-zb-141-00.md) — des für die Zeit vor der Rechtskraft des Feststellungsausspruchs geltend gemachten Unterhaltsanspruchs hat es die Klage abgewiesen. Dieses U
+- [BGH, Beschluss vom 31.08.2000 - XII ZB 217/99](xii-zb-217-99.md) — I. Für den Betroffenen ist zur Besorgung aller Angelegenheiten einschließlich der Entscheidung über den Postverkehr die Betreuung angeordnet und der Beschwerdegegner zum Betreuer …
+- [BGH, Beschluss vom 31.08.2000 - XII ZB 89/99](xii-zb-89-99.md) — des Ausgleichs der betrieblichen Anwartschaften, die beide Parteien bei dem Versorgungswerk der Firma IBM Deutschland GmbH erworben hatten,
 - [BGH, Beschluss vom 31.08.2000 - XII ZR 103/98](xii-zr-103-98.md) — BGH, Beschluss vom 31.08.2000 - XII ZR 103/98
+- [BGH, Beschluss vom 31.08.2000 - XII ZR 149/00](xii-zr-149-00.md) — Das Berufungsgericht hat den Wert der Beschwer durch Addition des vom Landgericht zuerkannten Betrags der Klagforderung (48.683,46 DM) und des mit der Widerklage geltend gemachten …
 - [BGH, Beschluss vom 16.08.2000 - XII ZB 122/00](xii-zb-122-00.md) — BGH, Beschluss vom 16.08.2000 - XII ZB 122/00
+- [BGH, Beschluss vom 16.08.2000 - XII ZB 135/97](xii-zb-135-97.md) — I. Die Beklagte hat gegen das ihr zu Händen ihrer erstinstanzlichen Pro- zeßbevollmächtigten zugestellte Urteil des Landgerichts am 5. Juni 1997 Be- rufung eingelegt. Die …
 - [BGH, Beschluss vom 16.08.2000 - XII ZB 136/00](xii-zb-136-00.md) — BGH, Beschluss vom 16.08.2000 - XII ZB 136/00
+- [BGH, Beschluss vom 16.08.2000 - XII ZB 210/99](xii-zb-210-99.md) — Kindesentziehung. Am 16. Februar 1999 erfuhr der Antragsgegner im Rahmen der Ermittlungen, die Antragstellerin habe erklärt, nunmehr freiwil
 - [BGH, Beschluss vom 16.08.2000 - XII ZB 65/00](xii-zb-65-00.md) — der Erfolgsaussicht hat er auf einen als Anlage beigefügten "Entwurf der Berufungsbegründung" verwiesen. Die Anlage ist mit "Be-
+- [BGH, Beschluss vom 16.08.2000 - XII ZB 73/98](xii-zb-73-98.md) — des Ausgleichs der betrieblichen Anwartschaften der Antragstellerin bei der Firma J. GmbH & Co. KG (die später nicht unverfallbar wurden,) u
+- [BGH, Beschluss vom 16.08.2000 - XII ZB 98/98](xii-zb-98-98.md) — des weitergehenden Auskunftsbegehrens für erledigt erklärt hatte, durch Teilurteil, "der Klägerin vollständig Auskunft zu erteilen über sein
+- [BGH, Beschluss vom 16.08.2000 - XII ZR 175/98](xii-zr-175-98.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 02.08.2000 - XII ZR 225/98](xii-zr-225-98.md) — der Unterhaltsrückstände aus der Zeit von Oktober 1995 bis Juni 2000 gegen den Kläger erwirkt haben, aus dem sie nach dessen Vortrag "wegen
 - [BGH, Beschluss vom 19.07.2000 - XII ZB 178/99](xii-zb-178-99.md) — Die sofortige Beschwerde gegen den die Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Berufungsfrist versagenden Beschluß des Berufungsgerichts hat aus den …
 - [BGH, Beschluss vom 19.07.2000 - XII ZB 25/00](xii-zb-25-00.md) — fehlender Begründung des Rechtsmittels als unzulässig verworfen. Die am 3. November 1999 - und damit unabhängig von dem Fehlen einer formell
 - [BGH, Beschluss vom 19.07.2000 - XII ZB 80/98](xii-zb-80-98.md) — I. Die Beschwerdeführerin, für die eine Betreuerin unter anderem mit den Aufgabenbereichen der Gesundheitssorge und des Aufenthaltsbestimmungsrechts einschließlich der …
+- [BGH, Urteil vom 19.07.2000 - XII ZR 161/98](xii-zr-161-98.md) — Tatbestand: Die Parteien streiten um nachehelichen Unterhalt. Die am 29. September 1989 geschlossene Ehe der Parteien wurde mit Urteil des A
 - [BGH, Urteil vom 19.07.2000 - XII ZR 176/98](xii-zr-176-98.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 19.07.2000 - XII ZR 252/98](xii-zr-252-98.md) — Tatbestand:
 - [BGH, Beschluss vom 19.07.2000 - XII ZR 269/99](xii-zr-269-99.md) — Der Wert der Beschwer bemißt sich nach § 8 ZPO.
+- [BGH, Beschluss vom 12.07.2000 - XII ZB 120/97](xii-zb-120-97.md) — I. Der Beklagte hat gegen das ihm zu Händen seines erstinstanzlichen Prozeßbevollmächtigten, Rechtsanwalt Dr. S. , am 6. November 1996 zugestellte Urteil des Landgerichts am 27 …
+- [BGH, Urteil vom 12.07.2000 - XII ZR 159/98](xii-zr-159-98.md) — 3-
+- [BGH, Beschluss vom 05.07.2000 - XII ZB 104/00](xii-zb-104-00.md) — der notwendigen Hinzuziehung eines Sachverständigen zur Ermittlung des Wertes bzw. Wertzuwachses der ererbten Grundstükke nicht unbeträchtli
+- [BGH, Beschluss vom 05.07.2000 - XII ZB 110/00](xii-zb-110-00.md) — Gegen das Urteil des Landgerichts haben die Kläger am 28.
+- [BGH, Beschluss vom 05.07.2000 - XII ZB 112/99](xii-zb-112-99.md) — I. Die Beklagten haben gegen das ihnen am 23. Februar 1999 zugestellte Urteil des Landgerichts am 23. März 1999 Berufung eingelegt. Die Berufungs- begründungsfrist lief nach …
+- [BGH, Beschluss vom 05.07.2000 - XII ZB 58/97](xii-zb-58-97.md) — I. Das Amtsgericht bestellte für den inzwischen am 15. November 1995 verstorbenen Betroffenen einen Mitarbeiter des beschwerdeführenden Betreuungsvereins (im folgenden: Verein) …
+- [BGH, Urteil vom 05.07.2000 - XII ZR 104/98](xii-zr-104-98.md) — Tatbestand: Die Parteien streiten in einem Abänderungsverfahren um nachehelichen Unterhalt. Die am 25. Juni 1976 geschlossene Ehe der Partei
+- [BGH, Urteil vom 05.07.2000 - XII ZR 26/98](xii-zr-26-98.md) — Tatbestand: Die Parteien sind geschiedene Eheleute. Die Klägerin verlangt vom Beklagten die Zahlung von Geldern, die für sie bestimmt gewese
+- [BGH, Urteil vom 05.07.2000 - XII ZR 70/98](xii-zr-70-98.md) — Tatbestand: Der Kläger begehrt Feststellung, daß das Mietverhältnis mit der Beklagten durch die von ihm unter dem 19. März 1997 erklärte Kün
 - [BGH, Beschluss vom 28.06.2000 - XII ZB 157/99](xii-zb-157-99.md) — I. Der Kläger hat sich in einem Prozeßvergleich verpflichtet, monatlich an die Beklagte 1.103 DM nachehelichen Unterhalt und zu Händen der Beklagten 480 DM Kindesunterhalt zu …
 - [BGH, Urteil vom 28.06.2000 - XII ZR 55/98](xii-zr-55-98.md) — Tatbestand: Der Kläger verlangt von der Beklagten aus abgetretenem Recht der Firma J. F. G. Mietzins. Die Beklagte ist Mieterin, die Firma J
 - [BGH, Beschluss vom 21.06.2000 - XII ZB 12/97](xii-zb-12-97.md) — des Auskunftsbegehrens in der Hauptsache übereinstimmend für erledigt erklärt hatten, stellte die Antragsgegnerin den Antrag, den Antragstel
@@ -24,6 +75,9 @@
 - [BGH, Beschluss vom 31.05.2000 - XII ZB 211/99](xii-zb-211-99.md) — BGH, Beschluss vom 31.05.2000 - XII ZB 211/99
 - [BGH, Urteil vom 31.05.2000 - XII ZR 119/98](xii-zr-119-98.md) — Tatbestand: Die Antragsgegnerin nimmt als Prozeßstandschafterin den Beklagten auf Kindesunterhalt ab Scheidung der Ehe in Anspruch. Die 1988
 - [BGH, Urteil vom 31.05.2000 - XII ZR 41/98](xii-zr-41-98.md) — Tatbestand: Die Klägerin hat von der Beklagten - der Generalmieterin - in einem damals noch nicht fertiggestellten Einkaufszentrum Räume zum
+- [BGH, Beschluss vom 29.05.2000 - XII ZR 35/00](xii-zr-35-00.md) — überzahlter Nebenkosten. Die Klägerin hat auf die in dem Vergleich festgelegte Forderung 154.245,64 DM gezahlt. Mit ihrer Vollstreckungsgege
+- [BGH, Beschluss vom 24.05.2000 - XII ZB 45/00](xii-zb-45-00.md) — Der Beteiligte zu 1 wurde als Berufsbetreuer für die Betroffene bestellt.
+- [BGH, Beschluss vom 24.05.2000 - XII ZB 72/97](xii-zb-72-97.md) — der Sorgerechtsentscheidung Beschwerde eingelegt. Er hat die Belassung der gemeinsamen Sorge - auch aus ausländerrechtlichen Gründen - anges
 - [BGH, Beschluss vom 17.05.2000 - XII ZR 314/99](xii-zr-314-99.md) — im Unter- und Erdgeschoß aufgetretener Feuchtigkeitsschäden kündigte der Kläger außerdem Mietminderung an und erhob Klage mit dem Antrag, di
 - [BGH, Urteil vom 17.05.2000 - XII ZR 344/97](xii-zr-344-97.md) — Tatbestand: Der Kläger war Miteigentümer eines im Wohnungsgrundbuch eingetragenen Grundstücks. Mit seinem Anteil war das Sondereigentum an e
 - [BGH, Urteil vom 17.05.2000 - XII ZR 88/98](xii-zr-88-98.md) — Tatbestand: Die Parteien streiten in einem Abänderungsverfahren um nachehelichen Unterhalt. Die erste 1967 geschlossene Ehe der Parteien wur
@@ -32,9 +86,24 @@
 - [BGH, Beschluss vom 03.05.2000 - XII ZB 21/00](xii-zb-21-00.md) — BGH, Beschluss vom 03.05.2000 - XII ZB 21/00
 - [BGH, Urteil vom 03.05.2000 - XII ZR 42/98](xii-zr-42-98.md) — Tatbestand: Die V. GmbH vermietete im Jahre 1987 ein Geschäftshaus an den eingetragenen Verein G. . Nach dem schriftlichen Mietvertrag hatte
 - [BGH, Beschluss vom 03.05.2000 - XII ZR 81/98](xii-zr-81-98.md) — BGH, Beschluss vom 03.05.2000 - XII ZR 81/98
+- [BGH, Urteil vom 19.04.2000 - XII ZR 332/97](xii-zr-332-97.md) — Tatbestand: Mit Vertrag vom 23. Dezember 1992/7. Januar 1993 vermietete der Kläger noch zu errichtende Räumlichkeiten zum Betrieb eines Lebe
+- [BGH, Urteil vom 19.04.2000 - XII ZR 334/97](xii-zr-334-97.md) — Tatbestand: Die Klägerin verlangt von der Beklagten die Zahlung von Mietzins. Mit Vertrag vom 28. Februar/24. März 1992 vermietete die Kläge
+- [BGH, Versäumnisurteil vom 19.04.2000 - XII ZR 62/98](xii-zr-62-98.md) — Tatbestand: Die Klägerin nimmt den Beklagten im Wege der Stufenklage auf Auskunft in Anspruch. Mit Urteil vom 11. Januar 1996, rechtskräftig
+- [BGH, Urteil vom 12.04.2000 - XII ZR 79/98](xii-zr-79-98.md) — Tatbestand: Die Parteien streiten über die Höhe des Kindesunterhalts. Der Kläger zu 1, geboren am 9. Februar 1984, und der Kläger zu 2, gebo
 - [BGH, Urteil vom 05.04.2000 - XII ZR 96/98](xii-zr-96-98.md) — Tatbestand: Die Klägerin nimmt den Beklagten auf Zahlung von nachehelichem Unterhalt in Anspruch. Die Ehe der Parteien ist seit Januar 1995
+- [BGH, Beschluss vom 29.03.2000 - XII ZB 4/00](xii-zb-4-00.md) — des Sachverhalts wird auf die Entscheidung des Oberlandesgerichts verwiesen. Der Klägerin kann Wiedereinsetzung in den vorigen Stand gemäß §
+- [BGH, Urteil vom 29.03.2000 - XII ZR 316/97](xii-zr-316-97.md) — Tatbestand:
+- [BGH, Beschluss vom 22.03.2000 - XII ZR 125/98](xii-zr-125-98.md) — I. Die im Jahre 1972 geschlossene Ehe der Parteien wurde im Juni 1977 geschieden mit dem Ausspruch, daß der Beklagte die Schuld an der Scheidung trage. Unmittelbar im Anschluß an …
+- [BGH, Beschluss vom 22.03.2000 - XII ZR 215/98](xii-zr-215-98.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
+- [BGH, Beschluss vom 22.03.2000 - XII ZR 47/00](xii-zr-47-00.md) — I. Der Wert einer Vollstreckungsabwehrklage bemißt sich nach dem Umfang der erstrebten Ausschließung der Zwangsvollstreckung (st.Rspr., etwa Senatsurteil vom 20. September 1995 - …
+- [BGH, Urteil vom 15.03.2000 - XII ZR 276/97](xii-zr-276-97.md) — Tatbestand:
+- [BGH, Urteil vom 15.03.2000 - XII ZR 81/97](xii-zr-81-97.md) — einer Vertragsverletzung des Vermieters fristlos kündigt und Ersatzräume bezieht (Fortführung von BGHZ 123, 96).
 - [BGH, Beschluss vom 01.03.2000 - XII ZB 8/00](xii-zb-8-00.md) — einer ausweislich seines Antrages seit nahezu einem Monat bekannten Terminskollision zu verlegen, stattgeben werde. Dies gilt um
 - [BGH, Versäumnisurteil vom 01.03.2000 - XII ZR 272/97](xii-zr-272-97.md) — Tatbestand: Die Kläger verlangen vom Beklagten rückständige Miete sowie Räumung und Herausgabe von gewerblich genutzten Räumen, die sie dem
+- [BGH, Beschluss vom 23.02.2000 - XII ZB 221/99](xii-zb-221-99.md) — fehlender Bedürftigkeit abgelehnt werden würde (vgl. Senatsbeschlüsse vom 15. November 1989 - IVb ZR 70/89 - und vom 11. November 1992 - XII
+- [BGH, Beschluss vom 23.02.2000 - XII ZB 55/97](xii-zb-55-97.md) — der gesetzlichen Rentenanwartschaften ergeben. Auf seiten der Ehefrau, die nur beamtenrechtliche Versorgungsanwartschaften erworben hat, hat
+- [BGH, Urteil vom 23.02.2000 - XII ZR 251/97](xii-zr-251-97.md) — Tatbestand: Die Beklagte zu 1 hat durch schriftlichen Mietvertrag von Februar 1989 in einem größeren Gebäudekomplex in Köln eine Gewerbeeinh
+- [BGH, Beschluss vom 23.02.2000 - XII ZR 77/98](xii-zr-77-98.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Beschluss vom 16.02.2000 - XII ZR 135/97](xii-zr-135-97.md) — Die Rechtssache hat keine grundsätzliche Bedeutung.
 - [BGH, Beschluss vom 16.02.2000 - XII ZR 162/98](xii-zr-162-98.md) — des Erwerbs eigener Räume auf eine - etwa anzunehmende - Formnichtigkeit der Vereinbarung zu berufen, nachdem er sowohl im Jahr 1993 als auc
 - [BGH, Urteil vom 16.02.2000 - XII ZR 258/97](xii-zr-258-97.md) — Tatbestand:

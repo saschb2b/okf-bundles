@@ -1,44 +1,107 @@
 # XI. Zivilsenat – 2005
 
-40 Entscheidung(en).
+103 Entscheidung(en).
 
 - [BGH, Urteil vom 20.12.2005 - XI ZR 119/04](xi-zr-119-04.md) — Tatbestand:
 - [BGH, Urteil vom 20.12.2005 - XI ZR 66/05](xi-zr-66-05.md) — Tatbestand:
 - [BGH, Beschluss vom 19.12.2005 - XI ZR 107/05](xi-zr-107-05.md) — der Begründung nimmt der Senat auf das Schreiben seines Vorsitzenden vom 8. November 2005 Bezug (§ 552a Satz 2, § 522 Abs. 2 Satz 3 ZPO). De
+- [BGH, Beschluss vom 13.12.2005 - XI ZR 163/05](xi-zr-163-05.md) — BGH, Beschluss vom 13.12.2005 - XI ZR 163/05
+- [BGH, Beschluss vom 13.12.2005 - XI ZR 200/05](xi-zr-200-05.md) — BGH, Beschluss vom 13.12.2005 - XI ZR 200/05
+- [BGH, Urteil vom 13.12.2005 - XI ZR 82/05](xi-zr-82-05.md) — Tatbestand:
 - [BGH, Beschluss vom 12.12.2005 - XI ZR 90/05](xi-zr-90-05.md) — BGH, Beschluss vom 12.12.2005 - XI ZR 90/05
+- [BGH, Urteil vom 06.12.2005 - XI ZR 139/05](xi-zr-139-05.md) — Tatbestand:
+- [BGH, Beschluss vom 22.11.2005 - XI ZB 43/04](xi-zb-43-04.md) — I. 1 Der Kläger nimmt die beklagte Volksbank im Zusammenhang mit einem bei dieser geführten Wertpapierdepot aus eigenem und aus abge- tretenem Recht seiner Ehefrau, der …
+- [BGH, Urteil vom 22.11.2005 - XI ZR 226/04](xi-zr-226-04.md) — Tatbestand:
+- [BGH, Urteil vom 22.11.2005 - XI ZR 69/05](xi-zr-69-05.md) — Tatbestand:
+- [BGH, Urteil vom 22.11.2005 - XI ZR 76/05](xi-zr-76-05.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2005 - XI ZR 265/04](xi-zr-265-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2005 - XI ZR 375/04](xi-zr-375-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2005 - XI ZR 376/04](xi-zr-376-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2005 - XI ZR 40/05](xi-zr-40-05.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2005 - XI ZR 83/05](xi-zr-83-05.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2005 - XI ZR 84/05](xi-zr-84-05.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2005 - XI ZR 85/05](xi-zr-85-05.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2005 - XI ZR 34/05](xi-zr-34-05.md) — Tatbestand:
 - [BGH, Urteil vom 08.11.2005 - XI ZR 74/05](xi-zr-74-05.md) — BGH, Urteil vom 08.11.2005 - XI ZR 74/05
+- [BGH, Urteil vom 25.10.2005 - XI ZR 353/04](xi-zr-353-04.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 25.10.2005 - XI ZR 402/03](xi-zr-402-03.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 18.10.2005 - XI ZR 84/04](xi-zr-84-04.md) — Tatbestand:
+- [BGH, Urteil vom 11.10.2005 - XI ZR 395/04](xi-zr-395-04.md) — Tatbestand:
 - [BGH, Urteil vom 11.10.2005 - XI ZR 398/04](xi-zr-398-04.md) — Tatbestand:
+- [BGH, Urteil vom 11.10.2005 - XI ZR 85/04](xi-zr-85-04.md) — Tatbestand:
 - [BGH, Beschluss vom 27.09.2005 - XI ZA 6/05](xi-za-6-05.md) — BGH, Beschluss vom 27.09.2005 - XI ZA 6/05
 - [BGH, Beschluss vom 27.09.2005 - XI ZB 24/05](xi-zb-24-05.md) — "greifbarer Gesetzwid­ rigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 ­
+- [BGH, Beschluss vom 27.09.2005 - XI ZB 26/05](xi-zb-26-05.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Beschluss vom 27.09.2005 - XI ZR 113/04](xi-zr-113-04.md) — BGH, Beschluss vom 27.09.2005 - XI ZR 113/04
 - [BGH, Urteil vom 27.09.2005 - XI ZR 116/04](xi-zr-116-04.md) — Tatbestand:
 - [BGH, Urteil vom 27.09.2005 - XI ZR 216/04](xi-zr-216-04.md) — BGH, Urteil vom 27.09.2005 - XI ZR 216/04
 - [BGH, Beschluss vom 27.09.2005 - XI ZR 392/04](xi-zr-392-04.md) — BGH, Beschluss vom 27.09.2005 - XI ZR 392/04
+- [BGH, Urteil vom 27.09.2005 - XI ZR 79/04](xi-zr-79-04.md) — Tatbestand:
+- [BGH, Beschluss vom 19.07.2005 - XI ZB 19/05](xi-zb-19-05.md) — "greifbarer Gesetzwid­ rigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 ­
+- [BGH, Beschluss vom 12.07.2005 - XI ZR 254/04](xi-zr-254-04.md) — BGH, Beschluss vom 12.07.2005 - XI ZR 254/04
 - [BGH, Urteil vom 12.07.2005 - XI ZR 412/04](xi-zr-412-04.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 28.06.2005 - XI ZR 3/04](xi-zr-3-04.md) — Tatbestand:
 - [BGH, Urteil vom 28.06.2005 - XI ZR 363/04](xi-zr-363-04.md) — Tatbestand:
 - [BGH, Urteil vom 21.06.2005 - XI ZR 152/04](xi-zr-152-04.md) — Tatbestand:
+- [BGH, Urteil vom 21.06.2005 - XI ZR 88/04](xi-zr-88-04.md) — Verstoßes gegen das Rechtsberatungsgesetz nichtigen Geschäftsbesorgungsvertrag mit umfassender Vollmacht kann dem Vollmachtgeber (Anleger) s
+- [BGH, Urteil vom 07.06.2005 - XI ZR 311/04](xi-zr-311-04.md) — Tatbestand:
+- [BGH, Beschluss vom 31.05.2005 - XI ZR 90/04](xi-zr-90-04.md) — I. Der Kläger ist Verwalter in dem Gesamtvollstreckungsverfahren über das Vermögen der E. GmbH i.G. (nachfol- gend: Gemeinschuldnerin). Die Beklagte gewährte der Gemeinschuldne- …
+- [BGH, Urteil vom 10.05.2005 - XI ZR 128/04](xi-zr-128-04.md) — Tatbestand:
+- [BGH, Urteil vom 10.05.2005 - XI ZR 358/03](xi-zr-358-03.md) — Tatbestand:
+- [BGH, Beschluss vom 03.05.2005 - XI ZB 41/04](xi-zb-41-04.md) — der Versäumung der Be-
 - [BGH, Beschluss vom 03.05.2005 - XI ZR 241/04](xi-zr-241-04.md) — BGH, Beschluss vom 03.05.2005 - XI ZR 241/04
 - [BGH, Beschluss vom 03.05.2005 - XI ZR 257/04](xi-zr-257-04.md) — BGH, Beschluss vom 03.05.2005 - XI ZR 257/04
+- [BGH, Urteil vom 03.05.2005 - XI ZR 287/04](xi-zr-287-04.md) — Tatbestand:
+- [BGH, Urteil vom 26.04.2005 - XI ZR 289/04](xi-zr-289-04.md) — Tatbestand:
 - [BGH, Beschluss vom 26.04.2005 - XI ZR 337/04](xi-zr-337-04.md) — nur hinsichtlich der vom Berufungsgericht festgestellten Unwirksamkeit des Darlehensvertrages geltend.
 - [BGH, Beschluss vom 26.04.2005 - XI ZR 343/04](xi-zr-343-04.md) — nur hinsichtlich der vom Berufungsgericht festgestellten Unwirksamkeit des Darlehensvertrages geltend.
+- [BGH, Beschluss vom 26.04.2005 - XI ZR 381/04](xi-zr-381-04.md) — der Begründung nimmt der Senat auf das Schreiben seines Vorsitzenden vom 8. März 2005 Bezug (§ 522 Abs. 2 Satz 3 ZPO).
 - [BGH, Beschluss vom 19.04.2005 - XI ZR 218/04](xi-zr-218-04.md) — BGH, Beschluss vom 19.04.2005 - XI ZR 218/04
+- [BGH, Urteil vom 05.04.2005 - XI ZR 167/04](xi-zr-167-04.md) — Tatbestand:
 - [BGH, Urteil vom 05.04.2005 - XI ZR 294/03](xi-zr-294-03.md) — Tatbestand:
+- [BGH, Beschluss vom 22.03.2005 - XI ZB 33/04](xi-zb-33-04.md) — I. Der Kläger macht gegen den Beklagten einen Kaufpreisanspruch für die Rückübertragung von Aktien in Höhe von 100.000 € geltend. Das Landgericht hat den Beklagten antragsgemäß …
 - [BGH, Beschluss vom 22.03.2005 - XI ZB 36/04](xi-zb-36-04.md) — Versäumung der Berufungsbegründungsfrist verworfen. Zur Begründung hat es im wesentli-
 - [BGH, Urteil vom 22.03.2005 - XI ZR 286/04](xi-zr-286-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.03.2005 - XI ZR 135/04](xi-zr-135-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2005 - XI ZR 136/04](xi-zr-136-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2005 - XI ZR 137/04](xi-zr-137-04.md) — BGH, Urteil vom 15.03.2005 - XI ZR 137/04
+- [BGH, Beschluss vom 15.03.2005 - XI ZR 250/04](xi-zr-250-04.md) — Die Rechtssache hat keine grundsätzliche Bedeutung und auch die Fortbildung des Rechts sowie die Sicherung einer einheitlichen Rechtsprechung erfordern eine Entscheidung des …
+- [BGH, Urteil vom 15.03.2005 - XI ZR 297/04](xi-zr-297-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2005 - XI ZR 323/04](xi-zr-323-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.03.2005 - XI ZR 324/04](xi-zr-324-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.03.2005 - XI ZR 325/04](xi-zr-325-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2005 - XI ZR 334/04](xi-zr-334-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.03.2005 - XI ZR 338/03](xi-zr-338-03.md) — Tatbestand:
+- [BGH, Urteil vom 08.03.2005 - XI ZR 154/04](xi-zr-154-04.md) — Tatbestand:
+- [BGH, Urteil vom 08.03.2005 - XI ZR 170/04](xi-zr-170-04.md) — Tatbestand:
 - [BGH, Beschluss vom 08.03.2005 - XI ZR 214/04](xi-zr-214-04.md) — BGH, Beschluss vom 08.03.2005 - XI ZR 214/04
 - [BGH, Beschluss vom 08.03.2005 - XI ZR 267/04](xi-zr-267-04.md) — BGH, Beschluss vom 08.03.2005 - XI ZR 267/04
 - [BGH, Beschluss vom 01.03.2005 - XI ZR 399/03](xi-zr-399-03.md) — der Begründung nimmt der Senat auf das Schreiben seines Vorsitzenden vom 21. Dezember 2004 Bezug (§ 522 Abs. 2 Satz 3 ZPO).
 - [BGH, Urteil vom 22.02.2005 - XI ZR 359/03](xi-zr-359-03.md) — Tatbestand:
+- [BGH, Urteil vom 22.02.2005 - XI ZR 41/04](xi-zr-41-04.md) — Tatbestand:
+- [BGH, Urteil vom 22.02.2005 - XI ZR 42/04](xi-zr-42-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2005 - XI ZR 43/04](xi-zr-43-04.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2005 - XI ZR 44/04](xi-zr-44-04.md) — Tatbestand:
+- [BGH, Beschluss vom 15.02.2005 - XI ZR 144/03](xi-zr-144-03.md) — I. Der Kläger wendet sich im Wege der Vollstreckungsgegenklage gegen die Zwangsvollstreckung aus einer notariellen Urkunde. Die beklagte Bank gewährte dem Kläger zwischen 1988 und …
+- [BGH, Urteil vom 15.02.2005 - XI ZR 171/04](xi-zr-171-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2005 - XI ZR 172/04](xi-zr-172-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2005 - XI ZR 173/04](xi-zr-173-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2005 - XI ZR 174/04](xi-zr-174-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2005 - XI ZR 175/04](xi-zr-175-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2005 - XI ZR 176/04](xi-zr-176-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2005 - XI ZR 177/04](xi-zr-177-04.md) — Tatbestand:
+- [BGH, Beschluss vom 15.02.2005 - XI ZR 21/04](xi-zr-21-04.md) — I. Die Kläger wehren sich gegen die Zwangsvollstreckung durch die beklagte Bank aus einer Urkunde des Notars W. vom 16. August 1996, in der sie sich der sofortigen …
 - [BGH, Versäumnisurteil vom 15.02.2005 - XI ZR 396/03](xi-zr-396-03.md) — BGH, Versäumnisurteil vom 15.02.2005 - XI ZR 396/03
+- [BGH, Beschluss vom 15.02.2005 - XI ZR 74/04](xi-zr-74-04.md) — Die Nichtzulassungsbeschwerde der Beklagten bleibt ohne Erfolg, weil die Voraussetzungen des § 543 Abs.
+- [BGH, Beschluss vom 01.02.2005 - XI ZB 2/05](xi-zb-2-05.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
 - [BGH, Beschluss vom 25.01.2005 - XI ZB 40/04](xi-zb-40-04.md) — BGH, Beschluss vom 25.01.2005 - XI ZB 40/04
 - [BGH, Urteil vom 25.01.2005 - XI ZR 28/04](xi-zr-28-04.md) — Tatbestand:
-- [BGH, Beschluss vom 19.01.2005 - XI ZR 39/04](xi-zr-39-04.md) — BGH, Beschluss vom 19.01.2005 - XI ZR 39/04
+- [BGH, Urteil vom 25.01.2005 - XI ZR 325/03](xi-zr-325-03.md) — Tatbestand:
+- [BGH, Beschluss vom 25.01.2005 - XI ZR 65/04](xi-zr-65-04.md) — BGH, Beschluss vom 25.01.2005 - XI ZR 65/04
+- [BGH, Urteil vom 25.01.2005 - XI ZR 78/04](xi-zr-78-04.md) — Tatbestand:
+- [BGH, Urteil vom 18.01.2005 - XI ZR 17/04](xi-zr-17-04.md) — Tatbestand:
+- [BGH, Urteil vom 18.01.2005 - XI ZR 201/03](xi-zr-201-03.md) — Tatbestand:
 - [BGH, Beschluss vom 18.01.2005 - XI ZR 340/03](xi-zr-340-03.md) — I. Die Parteien, eine Bank sowie der Insolvenzverwalter einer Auto- händlerin, streiten über die Verteilung des Erlöses aus der Verwertung von Kraftfahrzeugen. Die Autohändlerin …
+- [BGH, Beschluss vom 18.01.2005 - XI ZR 54/04](xi-zr-54-04.md) — BGH, Beschluss vom 18.01.2005 - XI ZR 54/04
+- [BGH, Beschluss vom 18.01.2005 - XI ZR 66/04](xi-zr-66-04.md) — BGH, Beschluss vom 18.01.2005 - XI ZR 66/04
+- [BGH, Urteil vom 11.01.2005 - XI ZR 272/03](xi-zr-272-03.md) — Tatbestand:

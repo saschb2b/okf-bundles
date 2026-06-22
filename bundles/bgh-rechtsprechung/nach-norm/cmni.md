@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu CMNI"
 description: "BGH-Entscheidungen zu CMNI, geordnet nach Vorschrift."
 tags: [register, navigation, cmni]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

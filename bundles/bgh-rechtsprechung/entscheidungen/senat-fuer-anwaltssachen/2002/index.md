@@ -1,30 +1,72 @@
 # Senat für Anwaltssachen – 2002
 
-26 Entscheidung(en).
+68 Entscheidung(en).
 
+- [BGH, Beschluss vom 27.11.2002 - AnwZ (B) 54/02](anwz-b-54-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 26.11.2002 - AnwZ (B) 18/01](anwz-b-18-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 26.11.2002 - AnwZ (B) 43/01](anwz-b-43-01.md) — Zulassung beim Oberlandesgericht
 - [BGH, Beschluss vom 25.11.2002 - AnwSt (R) 1/02](anwst-r-1-02.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 1/02](anwz-b-1-02.md) — ärztlicher Begutachtung im Widerrufsverfahren hier: Abänderung einer Kostenentscheidung
 - [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 10/02](anwz-b-10-02.md) — Vorlage eines ärztlichen Gutachtens im Widerrufsverfahren
+- [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 17/02](anwz-b-17-02.md) — Widerrufs der Befreiung von der Kanzleipflicht
+- [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 21/02](anwz-b-21-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 41/02](anwz-b-41-02.md) — Untersagung eines Domain-Namens
+- [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 6/02](anwz-b-6-02.md) — Verleihung der Bezeichnung "Fachanwalt für Arbeitsrecht"
+- [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 7/02](anwz-b-7-02.md) — Widerrufs der Zulassung bei einem Gericht
 - [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 70/01](anwz-b-70-01.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 8/02](anwz-b-8-02.md) — Untersagung eines Domain-Namens
 - [BGH, Beschluss vom 25.11.2002 - AnwZ (B) 9/02](anwz-b-9-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 11.11.2002 - AnwZ (B) 66/01](anwz-b-66-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 30.09.2002 - AnwZ 3/01](anwz-3-01.md) — Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof
+- [BGH, Beschluss vom 23.09.2002 - AnwZ (B) 40/01](anwz-b-40-01.md) — Erlaubnis zur Führung einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 23.09.2002 - AnwZ (B) 58/01](anwz-b-58-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 23.09.2002 - AnwZ (B) 60/01](anwz-b-60-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 23.09.2002 - AnwZ (B) 62/01](anwz-b-62-01.md) — I. Der im Jahre 1966 geborene Antragsteller schloß 1991 das Studium der Rechtswissenschaften an der Friedrich-Schiller-Universität in J. mit dem aka- demischen Grad eines …
 - [BGH, Beschluss vom 23.09.2002 - AnwZ (B) 67/01](anwz-b-67-01.md) — BGH, Beschluss vom 23.09.2002 - AnwZ (B) 67/01
+- [BGH, Beschluss vom 23.09.2002 - AnwZ (B) 69/01](anwz-b-69-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 21.08.2002 - AnwZ (B) 38/01](anwz-b-38-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.08.2002 - AnwZ (B) 33/01](anwz-b-33-01.md) — Briefkopfgestaltung
+- [BGH, Beschluss vom 01.07.2002 - AnwSt (B) 12/01](anwst-b-12-01.md) — Verletzung anwaltlicher Pflichten (Wiederaufnahme)
 - [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 44/01](anwz-b-44-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 45/01](anwz-b-45-01.md) — Führens der Fachgebietsbezeichnung Insolvenzrecht
 - [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 46/01](anwz-b-46-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 47/01](anwz-b-47-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 48/01](anwz-b-48-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 49/01](anwz-b-49-01.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 52/01](anwz-b-52-01.md) — Führung der Bezeichnung "Mediator" auf dem Briefkopf/Briefbogen
 - [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 53/01](anwz-b-53-01.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 54/01](anwz-b-54-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 55/01](anwz-b-55-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.07.2002 - AnwZ (B) 71/01](anwz-b-71-01.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 24.06.2002 - AnwZ (B) 70/00](anwz-b-70-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 31.05.2002 - AnwZ (B) 3/01](anwz-b-3-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 27.05.2002 - AnwSt (B) 10/01](anwst-b-10-01.md) — Einwendungen gegen die Vollstreckung einer anwaltsgerichtlichen Maßnahme
+- [BGH, Beschluss vom 27.05.2002 - AnwZ (B) 35/01](anwz-b-35-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 27.05.2002 - AnwZ (B) 37/01](anwz-b-37-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 27.05.2002 - AnwZ (B) 39/01](anwz-b-39-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 27.05.2002 - AnwZ (B) 42/01](anwz-b-42-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 24.04.2002 - AnwZ 7/01](anwz-7-01.md) — Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof
+- [BGH, Beschluss vom 22.04.2002 - AnwZ (B) 24/01](anwz-b-24-01.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.04.2002 - AnwZ (B) 27/01](anwz-b-27-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 22.04.2002 - AnwZ (B) 28/01](anwz-b-28-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.04.2002 - AnwZ (B) 29/01](anwz-b-29-01.md) — Fachanwaltsbezeichnung
 - [BGH, Beschluss vom 22.04.2002 - AnwZ (B) 30/01](anwz-b-30-01.md) — Wiederaufnahme
 - [BGH, Beschluss vom 22.04.2002 - AnwZ (B) 31/01](anwz-b-31-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 22.04.2002 - AnwZ (B) 5/01](anwz-b-5-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.04.2002 - AnwZ (B) 61/01](anwz-b-61-01.md) — Wiederaufnahme
+- [BGH, Beschluss vom 17.04.2002 - AnwZ (B) 56/00](anwz-b-56-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 07.03.2002 - AnwZ (B) 68/01](anwz-b-68-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Wiederherstellung der aufschiebenden Wirkung
+- [BGH, Beschluss vom 04.03.2002 - AnwZ 1/01](anwz-1-01.md) — Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof
+- [BGH, Beschluss vom 04.03.2002 - AnwZ (B) 14/01](anwz-b-14-01.md) — Zulassung zur Rechtsanwaltschaft (Aussetzung des Zulassungsverfahrens)
 - [BGH, Beschluss vom 04.03.2002 - AnwZ (B) 15/01](anwz-b-15-01.md) — Festsetzung des Geschäftswerts
+- [BGH, Beschluss vom 04.03.2002 - AnwZ (B) 16/01](anwz-b-16-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.03.2002 - AnwZ (B) 17/01](anwz-b-17-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.03.2002 - AnwZ (B) 21/01](anwz-b-21-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.03.2002 - AnwZ (B) 22/01](anwz-b-22-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.03.2002 - AnwZ (B) 69/00](anwz-b-69-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.02.2002 - AnwZ (B) 13/01](anwz-b-13-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.02.2002 - AnwZ (B) 56/01](anwz-b-56-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft; hier: Wiederherstellung der aufschiebenden Wirkung der sofortigen Beschwerde
 - [BGH, Beschluss vom 21.01.2002 - AnwZ (B) 2/01](anwz-b-2-01.md) — I. Der Antragsteller ist seit 1990 zur Rechtsanwaltschaft und als Rechtsanwalt bei dem Amtsgericht O. und dem Landgericht S. zugelassen. Seine Zulassung ist mit Verfügung der …
+- [BGH, Beschluss vom 17.01.2002 - AnwZ (B) 7/01](anwz-b-7-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.01.2002 - AnwZ (B) 8/01](anwz-b-8-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 15.01.2002 - AnwZ (B) 26/01](anwz-b-26-01.md) — Festsetzung der Vergütung des amtlich bestellten Vertreters

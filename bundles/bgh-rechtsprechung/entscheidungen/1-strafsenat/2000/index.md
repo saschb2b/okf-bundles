@@ -1,15 +1,19 @@
 # 1. Strafsenat – 2000
 
-102 Entscheidung(en).
+207 Entscheidung(en).
 
 - [BGH, Beschluss vom 13.12.2000 - 1 StR 393/00](1-str-393-00.md) — Diebstahls
 - [BGH, Beschluss vom 13.12.2000 - 1 StR 547/00](1-str-547-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 12.12.2000 - 1 StR 184/00](1-str-184-00.md) — Volksverhetzung u.a.
+- [BGH, Urteil vom 12.12.2000 - 1 StR 385/00](1-str-385-00.md) — versuchten Wohnungseinbruchdiebstahls u.a.
+- [BGH, Beschluss vom 07.12.2000 - 1 StR 414/00](1-str-414-00.md) — Veröffentlichung: ja ____________________ §§ 211 Abs. 2, 250 Abs. 2 Nr. 1 StGB Zum Verhältnis der Mordmerkmale Habgier und Verdeckung einer anderen Straftat bei einem der Tötung …
 - [BGH, Beschluss vom 06.12.2000 - 1 StR 398/00](1-str-398-00.md) — Mordes
 - [BGH, Beschluss vom 06.12.2000 - 1 StR 488/00](1-str-488-00.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 06.12.2000 - 1 StR 492/00](1-str-492-00.md) — Vergewaltigung
 - [BGH, Beschluss vom 06.12.2000 - 1 StR 495/00](1-str-495-00.md) — Betruges
 - [BGH, Beschluss vom 06.12.2000 - 1 StR 498/00](1-str-498-00.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 06.12.2000 - 1 StR 500/00](1-str-500-00.md) — gefährlicher Körperverletzung
+- [BGH, Entscheidung vom 06.12.2000 - 1 StR 505/00](1-str-505-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 06.12.2000 - 1 StR 518/00](1-str-518-00.md) — Betruges
 - [BGH, Urteil vom 05.12.2000 - 1 StR 411/00](1-str-411-00.md) — Veröffentlichtung: ja OWiG § 30 Löst eine Straftat oder eine Ordnungswidrigkeit einer natürlichen Person die Haftung einer juristischen Person nach § 30 OWiG aus, so gelten im …
 - [BGH, Beschluss vom 05.12.2000 - 1 StR 490/00](1-str-490-00.md) — unerlaubter gewerbsmäßiger Abgabe von Betäubungsmitteln an Minderjährige u.a.
@@ -20,17 +24,56 @@
 - [BGH, Beschluss vom 23.11.2000 - 1 StR 430/00](1-str-430-00.md) — sexuellen Mißbrauchs von Schutzbefohlenen u.a.
 - [BGH, Beschluss vom 23.11.2000 - 1 StR 432/00](1-str-432-00.md) — Mordes
 - [BGH, Beschluss vom 23.11.2000 - 1 StR 502/00](1-str-502-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 22.11.2000 - 1 StR 375/00](1-str-375-00.md) — Untreue u.a.
+- [BGH, Beschluss vom 22.11.2000 - 1 StR 442/00](1-str-442-00.md) — Untreue u.a.
+- [BGH, Beschluss vom 22.11.2000 - 1 StR 479/00](1-str-479-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.11.2000 - 1 StR 508/00](1-str-508-00.md) — schweren Bandendiebstahls
+- [BGH, Urteil vom 21.11.2000 - 1 StR 300/00](1-str-300-00.md) — Betrugs
 - [BGH, Beschluss vom 21.11.2000 - 1 StR 387/00](1-str-387-00.md) — gemeinschaftlichen Mordes u.a.
 - [BGH, Urteil vom 21.11.2000 - 1 StR 433/00](1-str-433-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 21.11.2000 - 1 StR 438/00](1-str-438-00.md) — schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 09.11.2000 - 1 StR 379/00](1-str-379-00.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 08.11.2000 - 1 StR 427/00](1-str-427-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 08.11.2000 - 1 StR 447/00](1-str-447-00.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern
+- [BGH, Beschluss vom 08.11.2000 - 1 StR 462/00](1-str-462-00.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Urteil vom 07.11.2000 - 1 StR 303/00](1-str-303-00.md) — Betrugs
+- [BGH, Urteil vom 07.11.2000 - 1 StR 377/00](1-str-377-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 07.11.2000 - 1 StR 458/00](1-str-458-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 19.10.2000 - 1 StR 282/00](1-str-282-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 19.10.2000 - 1 StR 439/00](1-str-439-00.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 18.10.2000 - 1 StR 370/00](1-str-370-00.md) — schwerer Brandstiftung u.a.
 - [BGH, Beschluss vom 18.10.2000 - 1 StR 419/00](1-str-419-00.md) — BGH, Beschluss vom 18.10.2000 - 1 StR 419/00
+- [BGH, Urteil vom 17.10.2000 - 1 StR 118/00](1-str-118-00.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 17.10.2000 - 1 StR 204/00](1-str-204-00.md) — schweren Raubes u.a.
 - [BGH, Urteil vom 17.10.2000 - 1 StR 261/00](1-str-261-00.md) — versuchten Totschlags
+- [BGH, Urteil vom 17.10.2000 - 1 StR 270/00](1-str-270-00.md) — sexuellen Mißbrauchs von Schutzbefohlenen
+- [BGH, Beschluss vom 17.10.2000 - 1 StR 406/00](1-str-406-00.md) — Totschlags
+- [BGH, Beschluss vom 17.10.2000 - 1 StR 413/00](1-str-413-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 17.10.2000 - 1 StR 428/00](1-str-428-00.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 11.10.2000 - 1 StR 409/00](1-str-409-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 10.10.2000 - 1 StR 130/99](1-str-130-99.md) — schweren Raubes
+- [BGH, Beschluss vom 10.10.2000 - 1 StR 383/00](1-str-383-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.10.2000 - 1 StR 407/00](1-str-407-00.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 10.10.2000 - 1 StR 420/00](1-str-420-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 10.10.2000 - 1 StR 426/00](1-str-426-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 10.10.2000 - 1 StR 472/94](1-str-472-94.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 21.09.2000 - 1 StR 124/00](1-str-124-00.md) — Körperverletzung u.a.
+- [BGH, Urteil vom 21.09.2000 - 1 StR 236/00](1-str-236-00.md) — Totschlags u.a.
+- [BGH, Urteil vom 21.09.2000 - 1 StR 257/00](1-str-257-00.md) — Veröffentlichung: ja _________________ StPO § 247 Satz 1, § 338 Nr. 5 BGB § 1896, § 1897 Eine Entfernung des Angeklagten gemäß § 247 Satz 1 StPO kann nicht darauf gestützt werden …
+- [BGH, Beschluss vom 21.09.2000 - 1 StR 391/00](1-str-391-00.md) — bandenmäßigen Einschleusens von Ausländern
+- [BGH, Urteil vom 21.09.2000 - 1 StR 634/99](1-str-634-99.md) — Mordes u.a.
+- [BGH, Beschluss vom 20.09.2000 - 1 StR 361/00](1-str-361-00.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 20.09.2000 - 1 StR 369/00](1-str-369-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.09.2000 - 1 StR 403/00](1-str-403-00.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 19.09.2000 - 1 StR 205/00](1-str-205-00.md) — Totschlags
+- [BGH, Urteil vom 19.09.2000 - 1 StR 310/00](1-str-310-00.md) — schweren Raubes
+- [BGH, Beschluss vom 19.09.2000 - 1 StR 392/00](1-str-392-00.md) — gewerbsmäßiger Hehlerei u.a.
 - [BGH, Beschluss vom 06.09.2000 - 1 StR 364/00](1-str-364-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 05.09.2000 - 1 StR 325/00](1-str-325-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 05.09.2000 - 1 StR 355/00](1-str-355-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 24.08.2000 - 1 StR 317/00](1-str-317-00.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 24.08.2000 - 1 StR 326/00](1-str-326-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 24.08.2000 - 1 StR 349/00](1-str-349-00.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 21.08.2000 - 1 ARs 6/00](1-ars-6-00.md) — schweren Bandendiebstahls u.a. hier: Anfrage des 4. Strafsenats vom 14. März 2000 - 4 StR 284/99
 - [BGH, Beschluss vom 10.08.2000 - 1 StR 290/00](1-str-290-00.md) — Mordes u.a.
 - [BGH, Beschluss vom 10.08.2000 - 1 StR 328/00](1-str-328-00.md) — Vergewaltigung
@@ -45,7 +88,13 @@
 - [BGH, Urteil vom 25.07.2000 - 1 StR 169/00](1-str-169-00.md) — Veröffentlichung: ja ______________________ StPO § 141 Abs. 3, MRK Art. 6 Abs. 3 Buchst. d 1. Ist abzusehen, daß die Mitwirkung eines Verteidigers im gerichtlichen Verfahren …
 - [BGH, Beschluss vom 25.07.2000 - 1 StR 286/00](1-str-286-00.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 13.07.2000 - 1 StR 230/00](1-str-230-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.07.2000 - 1 StR 113/00](1-str-113-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.07.2000 - 1 StR 253/00](1-str-253-00.md) — Die Anordnung der Unterbringung in einem psychiatrischen Krankenhaus ist rechtlich nicht zu beanstanden.
+- [BGH, Beschluss vom 12.07.2000 - 1 StR 269/00](1-str-269-00.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 12.07.2000 - 1 StR 281/00](1-str-281-00.md) — versuchten Mordes u. a.
+- [BGH, Urteil vom 11.07.2000 - 1 StR 93/00](1-str-93-00.md) — Untreue
 - [BGH, Beschluss vom 06.07.2000 - 1 StR 243/00](1-str-243-00.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 05.07.2000 - 1 StR 294/96](1-str-294-96.md) — Totschlags
 - [BGH, Beschluss vom 29.06.2000 - 1 StR 123/00](1-str-123-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 29.06.2000 - 1 StR 223/00](1-str-223-00.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 29.06.2000 - 1 StR 238/00](1-str-238-00.md) — unerlaubten Überlassens von ausländischen Arbeitnehmern ohne Arbeitserlaubnis u.a.
@@ -54,40 +103,96 @@
 - [BGH, Beschluss vom 28.06.2000 - 1 StR 239/00](1-str-239-00.md) — BGH, Beschluss vom 28.06.2000 - 1 StR 239/00
 - [BGH, Beschluss vom 28.06.2000 - 1 StR 246/00](1-str-246-00.md) — Vergewaltigung mit Waffen
 - [BGH, Beschluss vom 28.06.2000 - 1 StR 96/00](1-str-96-00.md) — noch entnehmen, daß das Landgericht mildere Maßnahmen und auch die Möglichkeit einer Aussetzung der Vollstreckung zur Bewährung geprüft und deren Voraussetzungen verneint hat.
+- [BGH, Beschluss vom 27.06.2000 - 1 StR 221/00](1-str-221-00.md) — schweren sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 27.06.2000 - 1 StR 232/00](1-str-232-00.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 27.06.2000 - 1 StR 242/00](1-str-242-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 27.06.2000 - 1 StR 665/99](1-str-665-99.md) — Freiheitsberaubung mit Todesfolge u.a.
+- [BGH, Beschluss vom 07.06.2000 - 1 StR 226/00](1-str-226-00.md) — Mordes u.a.
 - [BGH, Beschluss vom 06.06.2000 - 1 StR 161/00](1-str-161-00.md) — Betrugs
 - [BGH, Beschluss vom 06.06.2000 - 1 StR 211/00](1-str-211-00.md) — Bestechung
 - [BGH, Beschluss vom 06.06.2000 - 1 StR 212/00](1-str-212-00.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 06.06.2000 - 1 StR 484/80](1-str-484-80.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 30.05.2000 - 1 StR 103/00](1-str-103-00.md) — besonders schwerer Körperverletzung
+- [BGH, Beschluss vom 30.05.2000 - 1 StR 183/00](1-str-183-00.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 30.05.2000 - 1 StR 21/00](1-str-21-00.md) — versuchter schwerer Brandstiftung
 - [BGH, Beschluss vom 30.05.2000 - 1 StR 582/99](1-str-582-99.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 30.05.2000 - 1 StR 610/99](1-str-610-99.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 24.05.2000 - 1 StR 110/00](1-str-110-00.md) — Totschlags
+- [BGH, Beschluss vom 24.05.2000 - 1 StR 139/00](1-str-139-00.md) — Mordes
+- [BGH, Beschluss vom 24.05.2000 - 1 StR 80/00](1-str-80-00.md) — exhibitionistischer Handlungen
+- [BGH, Beschluss vom 23.05.2000 - 1 StR 156/00](1-str-156-00.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 23.05.2000 - 1 StR 193/00](1-str-193-00.md) — Mordes
+- [BGH, Beschluss vom 23.05.2000 - 1 StR 194/00](1-str-194-00.md) — vorsätzlichen Vollrausches
+- [BGH, Beschluss vom 23.05.2000 - 1 StR 200/00](1-str-200-00.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 23.05.2000 - 1 StR 56/00](1-str-56-00.md) — Gründe: Das Landgericht hat die Unterbringung des Angeklagten in einem psychiatrischen Krankenhaus angeordnet. Die Revision des Beschuldigte
 - [BGH, Urteil vom 16.05.2000 - 1 StR 107/00](1-str-107-00.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Beschluss vom 16.05.2000 - 1 StR 666/99](1-str-666-99.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 10.05.2000 - 1 StR 109/00](1-str-109-00.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 10.05.2000 - 1 StR 127/00](1-str-127-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 10.05.2000 - 1 StR 181/00](1-str-181-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.05.2000 - 1 StR 617/00](1-str-617-00.md) — Totschlags u.a.
 - [BGH, Beschluss vom 09.05.2000 - 1 StR 106/00](1-str-106-00.md) — versuchter Strafvereitelung u.a.
 - [BGH, Beschluss vom 09.05.2000 - 1 StR 32/00](1-str-32-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 04.05.2000 - 1 StR 158/00](1-str-158-00.md) — Betruges
+- [BGH, Urteil vom 04.05.2000 - 1 StR 6/00](1-str-6-00.md) — Hehlerei u. a.
+- [BGH, Beschluss vom 03.05.2000 - 1 StR 125/00](1-str-125-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 03.05.2000 - 1 StR 631/93](1-str-631-93.md) — Totschlags u.a.
 - [BGH, Beschluss vom 02.05.2000 - 1 StR 136/00](1-str-136-00.md) — sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 02.05.2000 - 1 StR 146/00](1-str-146-00.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 02.05.2000 - 1 StR 62/00](1-str-62-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 12.04.2000 - 1 StR 131/00](1-str-131-00.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 12.04.2000 - 1 StR 623/99](1-str-623-99.md) — Betrugs
 - [BGH, Urteil vom 11.04.2000 - 1 StR 55/00](1-str-55-00.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 11.04.2000 - 1 StR 613/99](1-str-613-99.md) — Anstiftung zur versuchten schweren Brandstiftung u.a.
 - [BGH, Urteil vom 11.04.2000 - 1 StR 638/99](1-str-638-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 11.04.2000 - 1 StR 78/00](1-str-78-00.md) — Vergewaltigung
+- [BGH, Urteil vom 06.04.2000 - 1 StR 280/99](1-str-280-99.md) — Veröffentlichung: ja _____________________ StGB § 266 Abs. 1 Die Wertung des Tatrichters, eine Kreditvergabe sei pflichtwidrig im Sinne des § 266 StGB, setzt eine umfassende …
+- [BGH, Urteil vom 06.04.2000 - 1 StR 502/99](1-str-502-99.md) — Veröffentlichung: ja ___________________ StGB § 130 Abs. 3, 5; § 86 Abs. 3 Der Tatbestand der Volksverhetzung in der Handlungsalternative des Verharmlosens des Holocaust (§ 130 …
+- [BGH, Urteil vom 06.04.2000 - 1 StR 59/00](1-str-59-00.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 05.04.2000 - 1 StR 75/00](1-str-75-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 05.04.2000 - 1 StR 79/00](1-str-79-00.md) — fahrlässiger Tötung
 - [BGH, Beschluss vom 05.04.2000 - 1 StR 85/99](1-str-85-99.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 28.03.2000 - 1 StR 628/99](1-str-628-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 28.03.2000 - 1 StR 637/99](1-str-637-99.md) — Bestechung u.a.
+- [BGH, Beschluss vom 27.03.2000 - 1 StR 87/00](1-str-87-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.03.2000 - 1 StR 657/99](1-str-657-99.md) — Menschenhandels in Tateinheit mit Zuhälterei
 - [BGH, Beschluss vom 23.03.2000 - 1 StR 83/00](1-str-83-00.md) — Verstoßes gegen das Betäubungsmittelgesetz u.a.
+- [BGH, Urteil vom 21.03.2000 - 1 StR 441/99](1-str-441-99.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 21.03.2000 - 1 StR 600/99](1-str-600-99.md) — Falschbeurkundung im Amt u.a.
+- [BGH, Beschluss vom 21.03.2000 - 1 StR 609/99](1-str-609-99.md) — Verabredung zum Mord u.a.
 - [BGH, Beschluss vom 20.03.2000 - 1 StR 50/00](1-str-50-00.md) — Körperverletzung mit Todesfolge u. a.
+- [BGH, Beschluss vom 15.03.2000 - 1 StR 20/00](1-str-20-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 15.03.2000 - 1 StR 35/00](1-str-35-00.md) — versuchten Totschlags
+- [BGH, Beschluss vom 15.03.2000 - 1 StR 45/00](1-str-45-00.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Urteil vom 15.03.2000 - 1 StR 483/99](1-str-483-99.md) — Veröffentlichung: ja _________________________ EuAlÜbk Art. 14, 19 Abs. 2 StGB § 51 IRG §§ 68, 72 Zur zeitgleichen Aburteilung transnationaler Serienstraftaten in zwei Staaten …
+- [BGH, Beschluss vom 14.03.2000 - 1 StR 47/00](1-str-47-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 14.03.2000 - 1 StR 60/00](1-str-60-00.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 14.03.2000 - 1 StR 65/00](1-str-65-00.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 14.03.2000 - 1 StR 669/99](1-str-669-99.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 10.03.2000 - 1 StR 675/99](1-str-675-99.md) — Veröffentlichung: ja _______________________ StGB § 211 Abs. 2, § 13 Abs. 1, § 24 Abs. 1 Satz 1 Alt. 1 Zur Verknüpfung von Verdeckungsabsicht und Tötungsvorsatz sowie zum …
+- [BGH, Beschluss vom 08.03.2000 - 1 StR 458/94](1-str-458-94.md) — versuchter räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 08.03.2000 - 1 StR 607/99](1-str-607-99.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 29.02.2000 - 1 StR 33/00](1-str-33-00.md) — schweren Raubes
 - [BGH, Beschluss vom 29.02.2000 - 1 StR 46/00](1-str-46-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.02.2000 - 1 ARs 2/00](1-ars-2-00.md) — schweren Bandendiebstahls u. a.; h i e r : Anfrage des 3. Strafsenats vom 22. Dezember 1999 - 3 StR 339/99
+- [BGH, Beschluss vom 23.02.2000 - 1 StR 352/99](1-str-352-99.md) — Betruges u.a.
+- [BGH, Urteil vom 23.02.2000 - 1 StR 568/99](1-str-568-99.md) — Veröffentlichung: ja ___________________________ StGB § 244a Abs. 1, § 260a Abs. 1 Abgrenzungsfragen bei Bandendiebstahl und Bandenhehlerei. BGH, Urt. vom 23. Februar 2000 - 1 StR …
+- [BGH, Beschluss vom 23.02.2000 - 1 StR 605/99](1-str-605-99.md) — Bestechlichkeit
 - [BGH, Beschluss vom 16.02.2000 - 1 StR 189/99](1-str-189-99.md) — Betruges u.a.
 - [BGH, Beschluss vom 16.02.2000 - 1 StR 5/00](1-str-5-00.md) — ausbeuterischer und dirigierender Zuhälterei u.a.
 - [BGH, Beschluss vom 15.02.2000 - 1 StR 34/00](1-str-34-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 15.02.2000 - 1 StR 39/00](1-str-39-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 11.02.2000 - 1 StR 48/00](1-str-48-00.md) — Vergewaltigung
 - [BGH, Beschluss vom 02.02.2000 - 1 StR 221/99](1-str-221-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 02.02.2000 - 1 StR 537/99](1-str-537-99.md) — Veröffentlichung: ja ________________________ StPO § 265 Abs. 4 Zur Aussetzung des Verfahrens bei Verteidigerwechsel. BGH, Beschl. vom 2. Februar 2000 - 1 StR 537/99 - LG München I
 - [BGH, Beschluss vom 02.02.2000 - 1 StR 597/99](1-str-597-99.md) — Veruntreuens von Arbeitsentgelt u.a.
 - [BGH, Beschluss vom 02.02.2000 - 1 StR 672/99](1-str-672-99.md) — Brandstiftung u.a.
 - [BGH, Beschluss vom 01.02.2000 - 1 StR 584/99](1-str-584-99.md) — zu 1. und 2. Mordes
 - [BGH, Entscheidung vom 26.01.2000 - 1 StR 616/99](1-str-616-99.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 26.01.2000 - 1 StR 629/99](1-str-629-99.md) — zu 1. Geldfälschung zu 2. Beihilfe zur Geldfälschung
+- [BGH, Beschluss vom 26.01.2000 - 1 StR 644/99](1-str-644-99.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 26.01.2000 - 1 StR 646/99](1-str-646-99.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 26.01.2000 - 1 StR 649/99](1-str-649-99.md) — Mordes u.a.
 - [BGH, Beschluss vom 18.01.2000 - 1 StR 589/99](1-str-589-99.md) — Totschlags
 - [BGH, Beschluss vom 18.01.2000 - 1 StR 619/99](1-str-619-99.md) — Diebstahls
 - [BGH, Beschluss vom 18.01.2000 - 1 StR 656/99](1-str-656-99.md) — Vergewaltigung u.a.

@@ -1,11 +1,42 @@
 # Senat für Notarsachen – 2003
 
-7 Entscheidung(en).
+38 Entscheidung(en).
 
+- [BGH, Beschluss vom 03.11.2003 - NotZ 10/03](notz-10-03.md) — Ausschreibung
+- [BGH, Beschluss vom 03.11.2003 - NotZ 12/03](notz-12-03.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 03.11.2003 - NotZ 13/03](notz-13-03.md) — Amtsprüfung
 - [BGH, Entscheidung vom 03.11.2003 - NotZ 14/03](notz-14-03.md) — NotZ 14/03 In dem Verfahren Leitsatzberichtigung muß es im Leitsatz des Beschlusses vom 3. November 2003 im Absatz a) in der zweiten Zeile an Stelle "§ 6 b Abs. 1" richtig "§ 6 b …
+- [BGH, Beschluss vom 03.11.2003 - NotZ 15/03](notz-15-03.md) — Amtsenthebung
 - [BGH, Beschluss vom 03.11.2003 - NotZ 18/03](notz-18-03.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 03.11.2003 - NotZ 7/03](notz-7-03.md) — Übertragung einer Notarstelle
+- [BGH, Beschluss vom 03.11.2003 - NotZ 8/03](notz-8-03.md) — Bestellung zum Notar
 - [BGH, Beschluss vom 05.08.2003 - NotZ 7/02](notz-7-02.md) — Amtsenthebung
+- [BGH, Beschluss vom 14.07.2003 - NotZ 1/03](notz-1-03.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.07.2003 - NotZ 2/03](notz-2-03.md) — den Bewerber für das Notaramt besonders qualifizierender Tätigkeiten im Rahmen einer - als "Rechtsanwaltstätigkeit" eigentlich nicht anreche
+- [BGH, Beschluss vom 14.07.2003 - NotZ 3/03](notz-3-03.md) — Anfechtung eines Abgabenbescheids
 - [BGH, Beschluss vom 14.07.2003 - NotZ 4/03](notz-4-03.md) — Feststellung der Voraussetzungen für die Amtsenthebung
+- [BGH, Beschluss vom 14.07.2003 - NotZ 42/02](notz-42-02.md) — Anfechtung einer Weisung
+- [BGH, Beschluss vom 14.07.2003 - NotZ 43/02](notz-43-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.07.2003 - NotZ 44/02](notz-44-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 14.07.2003 - NotZ 45/02](notz-45-02.md) — Bestellung eines Notarvertreters
+- [BGH, Beschluss vom 14.07.2003 - NotZ 46/02](notz-46-02.md) — Übertragung einer Notarstelle
+- [BGH, Beschluss vom 14.07.2003 - NotZ 47/02](notz-47-02.md) — Übertragung einer Notarstelle
 - [BGH, Beschluss vom 14.07.2003 - NotZ 5/03](notz-5-03.md) — Weisung zu einer Kostenrechnung
 - [BGH, Beschluss vom 14.07.2003 - NotZ 6/03](notz-6-03.md) — Entlassung aus dem Amt
+- [BGH, Beschluss vom 31.03.2003 - NotZ 24/02](notz-24-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.03.2003 - NotZ 26/02](notz-26-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.03.2003 - NotZ 27/02](notz-27-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.03.2003 - NotZ 28/02](notz-28-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.03.2003 - NotZ 29/02](notz-29-02.md) — Bestellung zur Notarin
 - [BGH, Beschluss vom 31.03.2003 - NotZ 30/02](notz-30-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.03.2003 - NotZ 31/02](notz-31-02.md) — Bestellung eines Vertreters
+- [BGH, Beschluss vom 31.03.2003 - NotZ 33/02](notz-33-02.md) — Amtsenthebung
+- [BGH, Beschluss vom 31.03.2003 - NotZ 34/02](notz-34-02.md) — Amtsenthebung
+- [BGH, Beschluss vom 31.03.2003 - NotZ 35/02](notz-35-02.md) — Genehmigung einer Nebentätigkeit
+- [BGH, Beschluss vom 31.03.2003 - NotZ 36/02](notz-36-02.md) — Genehmigung einer Nebentätigkeit
+- [BGH, Beschluss vom 31.03.2003 - NotZ 37/02](notz-37-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.03.2003 - NotZ 39/02](notz-39-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.03.2003 - NotZ 40/02](notz-40-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 31.03.2003 - NotZ 41/02](notz-41-02.md) — Bestellung zum Notar
+- [BGH, Beschluss vom 10.03.2003 - NotZ 23/02](notz-23-02.md) — Befreiung von der Pflicht zur Verschwiegenheit nach § 18 BNotO und aufsichtsbehördlicher Weisung
+- [BGH, Beschluss vom 10.03.2003 - NotZ 25/02](notz-25-02.md) — der im Rahmen der Sonderprüfung bekannt gewordenen Sachverhalte gegen den Antragsteller disziplinarische Vorermittlungen ein und verhängte s

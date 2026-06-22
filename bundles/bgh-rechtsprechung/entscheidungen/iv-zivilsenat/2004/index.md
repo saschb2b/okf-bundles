@@ -1,14 +1,27 @@
 # IV. Zivilsenat – 2004
 
-74 Entscheidung(en).
+156 Entscheidung(en).
 
+- [BGH, Urteil vom 15.12.2004 - IV ZR 202/02](iv-zr-202-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente.
 - [BGH, Urteil vom 15.12.2004 - IV ZR 244/02](iv-zr-244-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten mit Wirkung ab 1. Januar 2001 eine höhere Zusatzversorgungsrente.
+- [BGH, Urteil vom 15.12.2004 - IV ZR 257/02](iv-zr-257-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente.
+- [BGH, Urteil vom 15.12.2004 - IV ZR 268/02](iv-zr-268-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.12.2004 - IV ZR 269/02](iv-zr-269-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente.
+- [BGH, Urteil vom 15.12.2004 - IV ZR 287/02](iv-zr-287-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.12.2004 - IV ZR 393/02](iv-zr-393-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Versorgungsrente.
+- [BGH, Urteil vom 15.12.2004 - IV ZR 399/02](iv-zr-399-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 15.12.2004 - IV ZR 416/02](iv-zr-416-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Juli 2001.
+- [BGH, Urteil vom 08.12.2004 - IV ZR 199/03](iv-zr-199-03.md) — angeordneter Nachlaßpflegschaft aus § 1980 Abs. 1 Satz 1 BGB verpflichtet, Insolvenzantrag zu stellen.
 - [BGH, Urteil vom 08.12.2004 - IV ZR 223/03](iv-zr-223-03.md) — BGH, Urteil vom 08.12.2004 - IV ZR 223/03
 - [BGH, Beschluss vom 01.12.2004 - IV ZR 1/04](iv-zr-1-04.md) — ihres Pflichtteilsanspruchs nach dem inzwischen
 - [BGH, Beschluss vom 01.12.2004 - IV ZR 150/04](iv-zr-150-04.md) — BGH, Beschluss vom 01.12.2004 - IV ZR 150/04
+- [BGH, Urteil vom 01.12.2004 - IV ZR 291/03](iv-zr-291-03.md) — Tatbestand: Die Klägerin nimmt die Beklagte wegen des Verlustes von Transportgut aus einer Frachtführerhaftpflichtversicherung in Anspruch.
+- [BGH, Beschluss vom 01.12.2004 - IV ZR 67/04](iv-zr-67-04.md) — BGH, Beschluss vom 01.12.2004 - IV ZR 67/04
+- [BGH, Beschluss vom 24.11.2004 - IV ZB 35/04](iv-zb-35-04.md) — Der Beschwerdeführer hat beim Oberlandesgericht beantragt, ihm Prozeßkostenhilfe für ein Wiederaufnahmeverfahren gegen rechtskräftig abgeschlossene Zivilprozesse zu bewilligen.
+- [BGH, Beschluss vom 24.11.2004 - IV ZB 36/04](iv-zb-36-04.md) — Der Beschwerdeführer hat beim Oberlandesgericht beantragt, ihm Prozeßkostenhilfe für eine Wiederaufnahme des Zwangsversteigerungsverfahrens zu bewilligen.
+- [BGH, Beschluss vom 24.11.2004 - IV ZB 37/04](iv-zb-37-04.md) — Der Beschwerdeführer hat beim Oberlandesgericht beantragt, ihm Prozeßkostenhilfe für eine Wiederaufnahme des Erbscheinsverfahrens zu bewilligen.
+- [BGH, Beschluss vom 24.11.2004 - IV ZB 38/04](iv-zb-38-04.md) — Der Beschwerdeführer hat beim Oberlandesgericht beantragt, ihm Prozeßkostenhilfe für eine Wiederaufnahme des Grundbuchverfahrens zu bewilligen.
 - [BGH, Beschluss vom 24.11.2004 - IV ZR 124/04](iv-zr-124-04.md) — arglistiger Täuschung wird durch die übrigen Erwägungen des Be-
-- [BGH, Beschluss vom 24.11.2004 - IV ZR 255/04](iv-zr-255-04.md) — BGH, Beschluss vom 24.11.2004 - IV ZR 255/04
 - [BGH, Beschluss vom 24.11.2004 - IV ZR 294/03](iv-zr-294-03.md) — sind weder dargetan noch sonst ersichtlich.
 - [BGH, Urteil vom 10.11.2004 - IV ZR 104/03](iv-zr-104-03.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Versorgungsrente.
 - [BGH, Urteil vom 10.11.2004 - IV ZR 196/02](iv-zr-196-02.md) — Tatbestand:
@@ -17,62 +30,131 @@
 - [BGH, Urteil vom 10.11.2004 - IV ZR 205/02](iv-zr-205-02.md) — Tatbestand: Der Kläger begehrt eine höhere Zusatzversorgungsrente von der Beklagten.
 - [BGH, Urteil vom 10.11.2004 - IV ZR 221/02](iv-zr-221-02.md) — Tatbestand: Der Kläger begehrt eine höhere Zusatzversorgungsrente von der Beklagten.
 - [BGH, Urteil vom 10.11.2004 - IV ZR 263/02](iv-zr-263-02.md) — Tatbestand: Der Kläger begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente.
+- [BGH, Urteil vom 10.11.2004 - IV ZR 274/02](iv-zr-274-02.md) — Tatbestand: Der Kläger begehrt eine höhere Zusatzversorgungsrente von der Beklagten.
 - [BGH, Urteil vom 10.11.2004 - IV ZR 298/02](iv-zr-298-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Mai 2000.
+- [BGH, Urteil vom 10.11.2004 - IV ZR 325/02](iv-zr-325-02.md) — Tatbestand: Der Kläger begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. März 2001 (Rentenb
 - [BGH, Urteil vom 10.11.2004 - IV ZR 381/02](iv-zr-381-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Mai 2001.
 - [BGH, Urteil vom 10.11.2004 - IV ZR 39/04](iv-zr-39-04.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente ab 1. Februar 2001.
 - [BGH, Urteil vom 10.11.2004 - IV ZR 391/02](iv-zr-391-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente.
+- [BGH, Urteil vom 10.11.2004 - IV ZR 395/02](iv-zr-395-02.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Februar 2001.
+- [BGH, Urteil vom 10.11.2004 - IV ZR 417/02](iv-zr-417-02.md) — Tatbestand: Der Kläger begehrt eine höhere Zusatzversorgungsrente von der Beklagten.
+- [BGH, Urteil vom 03.11.2004 - IV ZR 214/03](iv-zr-214-03.md) — Tatbestand: Die Parteien streiten um die Wirksamkeit der Kündigung einer privaten Krankenversicherung.
 - [BGH, Urteil vom 03.11.2004 - IV ZR 241/03](iv-zr-241-03.md) — 3-
+- [BGH, Urteil vom 03.11.2004 - IV ZR 250/03](iv-zr-250-03.md) — Tatbestand: Die Kläger sind Versicherungsnehmer einer bei der Beklagten gehaltenen Haftpflichtversicherung. Sie begehren die Feststellung, d
+- [BGH, Urteil vom 27.10.2004 - IV ZR 141/03](iv-zr-141-03.md) — Tatbestand: Der Kläger nimmt die Beklagte als seinen privaten Krankenversicherer auf Erstattung der Kosten einer stimm- und sprechtherapeuti
 - [BGH, Urteil vom 27.10.2004 - IV ZR 174/03](iv-zr-174-03.md) — BGH, Urteil vom 27.10.2004 - IV ZR 174/03
 - [BGH, Beschluss vom 27.10.2004 - IV ZR 243/03](iv-zr-243-03.md) — grober Pflichtverletzung für verwirkt und fordert die seit 1986 gezahlten Vergütungsabschläge (abzüglich eines ihm von einem Miterben erstat
 - [BGH, Beschluss vom 27.10.2004 - IV ZR 386/02](iv-zr-386-02.md) — grundsätzlicher Bedeutung zugelassen werden müssen und erledigt sich dieser Zulassungsgrund vor der Entscheidung über die Nichtzulassungsbes
 - [BGH, Beschluss vom 06.10.2004 - IV ZR 234/03](iv-zr-234-03.md) — Die Beschwerde zeigt nicht auf, daß die Rechtssache grundsätzliche Bedeutung hat oder die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine …
 - [BGH, Beschluss vom 06.10.2004 - IV ZR 253/03](iv-zr-253-03.md) — BGH, Beschluss vom 06.10.2004 - IV ZR 253/03
 - [BGH, Beschluss vom 06.10.2004 - IV ZR 287/03](iv-zr-287-03.md) — BGH, Beschluss vom 06.10.2004 - IV ZR 287/03
+- [BGH, Beschluss vom 06.10.2004 - IV ZR 88/04](iv-zr-88-04.md) — BGH, Beschluss vom 06.10.2004 - IV ZR 88/04
+- [BGH, Beschluss vom 29.09.2004 - IV ZR 145/03](iv-zr-145-03.md) — mehrerer Rechtsstreitigkeiten auf Versicherungsleistungen in Anspruch genommen. Soweit diese vom Kläger erhobenen Ansprüche noch weiter verf
 - [BGH, Beschluss vom 29.09.2004 - IV ZR 162/02](iv-zr-162-02.md) — I. Die Klägerin beschäftigt sich mit der Planung und dem Umbau von Ofenanlagen nach einem von ihr entwickelten patentierten System. Sie verlangt von der Beklagten als ihrem …
 - [BGH, Urteil vom 29.09.2004 - IV ZR 170/03](iv-zr-170-03.md) — Tatbestand: Der Kläger begehrt Deckungsschutz aus einer bei der Beklagten genommenen Privat- und Berufs-Rechtsschutzversicherung für Nichtse
+- [BGH, Urteil vom 29.09.2004 - IV ZR 173/03](iv-zr-173-03.md) — Tatbestand: Die Klägerin begehrt Deckungsschutz aus einer bei der Beklagten genommenen Privat-, Berufs- und Verkehrs-Rechtsschutzversicherun
 - [BGH, Urteil vom 29.09.2004 - IV ZR 175/03](iv-zr-175-03.md) — Tatbestand: Die Parteien streiten über die Berechnung einer Zusatzrente nach § 18 BetrAVG.
+- [BGH, Urteil vom 29.09.2004 - IV ZR 189/03](iv-zr-189-03.md) — Tatbestand: Der Kläger begehrt Deckungsschutz aus einer bei der Beklagten genommenen Privat-, Berufs- und Verkehrs-Rechtsschutzversicherung
+- [BGH, Urteil vom 29.09.2004 - IV ZR 233/03](iv-zr-233-03.md) — Tatbestand: Der Kläger nimmt die Beklagte aus einer Unfallversicherung mit einer Grundversicherungssumme für den Invaliditätsfall in Höhe vo
+- [BGH, Beschluss vom 29.09.2004 - IV ZR 242/03](iv-zr-242-03.md) — BGH, Beschluss vom 29.09.2004 - IV ZR 242/03
+- [BGH, Beschluss vom 29.09.2004 - IV ZR 71/04](iv-zr-71-04.md) — BGH, Beschluss vom 29.09.2004 - IV ZR 71/04
+- [BGH, Beschluss vom 22.09.2004 - IV ZR 109/04](iv-zr-109-04.md) — gezogener Nutzungen vgl. BGHZ 152, 307, 316).
 - [BGH, Urteil vom 22.09.2004 - IV ZR 200/03](iv-zr-200-03.md) — Tatbestand: Der Kläger ist Versicherungsnehmer einer bei der Beklagten gehaltenen Lebensversicherung mit Berufsunfähigkeitszusatzversicherun
+- [BGH, Beschluss vom 22.09.2004 - IV ZR 21/04](iv-zr-21-04.md) — I. Die Klägerin begehrt für die Durchsetzung von Pflichtteils- und Pflichtteilsergänzungsansprüchen im Wege der Stufenklage Auskunft über den Nachlaß ihres 2002 verstorbenen …
 - [BGH, Beschluss vom 22.09.2004 - IV ZR 274/03](iv-zr-274-03.md) — BGH, Beschluss vom 22.09.2004 - IV ZR 274/03
 - [BGH, Urteil vom 22.09.2004 - IV ZR 97/03](iv-zr-97-03.md) — Tatbestand:
 - [BGH, Urteil vom 15.09.2004 - IV ZR 103/03](iv-zr-103-03.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 108/03](iv-zr-108-03.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 141/02](iv-zr-141-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 148/02](iv-zr-148-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 192/02](iv-zr-192-02.md) — Tatbestand: Der Kläger begehrt eine höhere Zusatzversorgungsrente von der Beklagten.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 193/02](iv-zr-193-02.md) — Tatbestand:
 - [BGH, Urteil vom 15.09.2004 - IV ZR 194/02](iv-zr-194-02.md) — Tatbestand:
 - [BGH, Urteil vom 15.09.2004 - IV ZR 201/02](iv-zr-201-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 218/02](iv-zr-218-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 250/02](iv-zr-250-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Juli 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 251/02](iv-zr-251-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 252/02](iv-zr-252-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 253/02](iv-zr-253-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 260/02](iv-zr-260-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 261/02](iv-zr-261-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 262/02](iv-zr-262-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Beschluss vom 15.09.2004 - IV ZR 262/03](iv-zr-262-03.md) — BGH, Beschluss vom 15.09.2004 - IV ZR 262/03
 - [BGH, Urteil vom 15.09.2004 - IV ZR 264/02](iv-zr-264-02.md) — Tatbestand: Der Kläger begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 265/02](iv-zr-265-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. August 2000.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 267/02](iv-zr-267-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 292/02](iv-zr-292-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 304/02](iv-zr-304-02.md) — Tatbestand:
 - [BGH, Urteil vom 15.09.2004 - IV ZR 368/02](iv-zr-368-02.md) — Tatbestand: Der Kläger begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Juli 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 369/02](iv-zr-369-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Juli 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 379/02](iv-zr-379-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Juli 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 380/02](iv-zr-380-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Juli 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 390/02](iv-zr-390-02.md) — Tatbestand:
 - [BGH, Urteil vom 15.09.2004 - IV ZR 400/02](iv-zr-400-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 429/02](iv-zr-429-02.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 441/02](iv-zr-441-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 443/02](iv-zr-443-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Juli 2001.
 - [BGH, Urteil vom 15.09.2004 - IV ZR 63/03](iv-zr-63-03.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 7/03](iv-zr-7-03.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Juli 2001.
+- [BGH, Urteil vom 15.09.2004 - IV ZR 8/03](iv-zr-8-03.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 14.07.2004 - IV ZR 161/03](iv-zr-161-03.md) — Tatbestand: Der Kläger fordert von der Beklagten Rentenleistungen aus einer Berufsunfähigkeitszusatzversicherung sowie die Freistellung von
+- [BGH, Urteil vom 07.07.2004 - IV ZR 135/03](iv-zr-135-03.md) — Tatbestand: Die am 27. August 1990 geborene Klägerin ist die Tochter des am 8. September 1997 verstorbenen Erblassers. Sie macht gegen die B
 - [BGH, Urteil vom 07.07.2004 - IV ZR 140/03](iv-zr-140-03.md) — BGH, Urteil vom 07.07.2004 - IV ZR 140/03
+- [BGH, Urteil vom 07.07.2004 - IV ZR 187/03](iv-zr-187-03.md) — aufgehoben werden.
+- [BGH, Beschluss vom 07.07.2004 - IV ZR 215/03](iv-zr-215-03.md) — BGH, Beschluss vom 07.07.2004 - IV ZR 215/03
 - [BGH, Urteil vom 07.07.2004 - IV ZR 265/03](iv-zr-265-03.md) — Tatbestand:
+- [BGH, Beschluss vom 23.06.2004 - IV ZB 9/04](iv-zb-9-04.md) — I. Unter Abweisung der Widerklage im übrigen hat das Landgericht die Klägerin zur Zahlung von 340.441,50 € verurteilt. Gegen dieses Urteil hat der Beklagte und Widerkläger …
+- [BGH, Urteil vom 23.06.2004 - IV ZR 130/03](iv-zr-130-03.md) — Tatbestand: Der Kläger begehrt Leistungen aus einer Unfallversicherung, der unter anderem die Allgemeinen Unfallversicherungsbedingungen (AU
 - [BGH, Beschluss vom 23.06.2004 - IV ZR 180/03](iv-zr-180-03.md) — BGH, Beschluss vom 23.06.2004 - IV ZR 180/03
 - [BGH, Beschluss vom 23.06.2004 - IV ZR 186/03](iv-zr-186-03.md) — Umzugs des Versicherungsnehmers ins Ausland die Fortsetzung des Versicherungsvertrages zu unveränderten Bedingungen beantragt wird.
+- [BGH, Beschluss vom 23.06.2004 - IV ZR 218/03](iv-zr-218-03.md) — BGH, Beschluss vom 23.06.2004 - IV ZR 218/03
+- [BGH, Urteil vom 23.06.2004 - IV ZR 219/03](iv-zr-219-03.md) — Tatbestand:
+- [BGH, Urteil vom 16.06.2004 - IV ZR 117/02](iv-zr-117-02.md) — Tatbestand: Der Kläger unterhält seit 1964 für sich und seine Ehefrau als Ergänzung zur gesetzlichen Krankenversicherung bei dem Beklagten e
 - [BGH, Urteil vom 16.06.2004 - IV ZR 201/03](iv-zr-201-03.md) — eines Betrages in Höhe von 1.890,25 € zu seinem Nachteil erkannt hat.
+- [BGH, Urteil vom 16.06.2004 - IV ZR 257/03](iv-zr-257-03.md) — Tatbestand:
 - [BGH, Urteil vom 09.06.2004 - IV ZR 115/03](iv-zr-115-03.md) — Tatbestand: Der Kläger, ein Architekt, begehrt mit seiner im Jahre 2001 erhobenen Klage die Feststellung, daß die Beklagte ihm aus einer bei
 - [BGH, Urteil vom 09.06.2004 - IV ZR 228/03](iv-zr-228-03.md) — Tatbestand:
 - [BGH, Beschluss vom 09.06.2004 - IV ZR 454/02](iv-zr-454-02.md) — Die geltend gemachten Zulassungsgründe der Sicherung einer einheitlichen Rechtsprechung und der grundsätzlichen Bedeutung der Rechtssache liegen nicht vor.
 - [BGH, Beschluss vom 09.06.2004 - IV ZR 459/02](iv-zr-459-02.md) — Die geltend gemachten Zulassungsgründe der Sicherung einer einheitlichen Rechtsprechung und der grundsätzlichen Bedeutung der Rechtssache liegen nicht vor.
+- [BGH, Urteil vom 19.05.2004 - IV ZR 114/03](iv-zr-114-03.md) — Tatbestand: Die Kläger fordern von der Beklagten die Versicherungssumme einer Handwerkerlebensversicherung, die ihr Vater im Jahre 1939 abge
+- [BGH, Urteil vom 19.05.2004 - IV ZR 176/03](iv-zr-176-03.md) — Tatbestand: Die Parteien streiten darüber, ob der Beklagte als privater Krankenversicherer des unter einem Schlafapnoe-Syndrom leidenden Klä
 - [BGH, Urteil vom 19.05.2004 - IV ZR 29/03](iv-zr-29-03.md) — Tatbestand: Die Parteien streiten darüber, ob der Beklagte als privater Krankenversicherer des unter einem Schlafapnoe-Syndrom leidenden Klä
+- [BGH, Beschluss vom 19.05.2004 - IV ZR 55/03](iv-zr-55-03.md) — Mit der Gegenvorstellung wendet sich der Kläger allein gegen die Streitwertfestsetzung für seine erfolglos gebliebene Beschwerde gegen die Nichtzulassung der Revision in dem …
+- [BGH, Beschluss vom 05.05.2004 - IV ZB 29/03](iv-zb-29-03.md) — I. Das Amtsgericht Hannover hat den Beklagten zur Zahlung von 3.898,60 € nebst Zinsen und vorgerichtlicher Mahnkosten verurteilt. Das Urteil vom 24. Januar 2003 ist seiner …
+- [BGH, Urteil vom 05.05.2004 - IV ZR 183/03](iv-zr-183-03.md) — Tatbestand: Die Klägerin verlangt vom beklagten Versicherer aus einer gebündelten Sachversicherung Ersatz für ein durch einen Brand am 12. M
+- [BGH, Beschluss vom 05.05.2004 - IV ZR 419/02](iv-zr-419-02.md) — BGH, Beschluss vom 05.05.2004 - IV ZR 419/02
+- [BGH, Urteil vom 05.05.2004 - IV ZR 90/03](iv-zr-90-03.md) — Tatbestand: Der Kläger unterhält bei der Beklagten eine Privat-Rechtsschutzversicherung. Dem Versicherungsverhältnis lagen zunächst die ARB
 - [BGH, Beschluss vom 28.04.2004 - IV ZR 144/03](iv-zr-144-03.md) — grundsätzlicher Bedeutung zugelassen werden. Auch die Klärung der Frage, unter welchen Voraussetzungen Beschäftigungszeiten zusammengerechne
+- [BGH, Beschluss vom 28.04.2004 - IV ZR 42/03](iv-zr-42-03.md) — Die Beschwerde hat keinen Erfolg. 1. Soweit es um den rechtlich und tatsächlich selbständigen Anspruch nach Ziffer 3.2 der Tarifgruppe S des Wahltarifs in Höhe von 5.426,20 …
 - [BGH, Urteil vom 28.04.2004 - IV ZR 62/03](iv-zr-62-03.md) — Tatbestand: Die Klägerin fordert Prämien für eine Gebäude-, Glas- und Mietverlustversicherung eines Wohn- und Geschäftshauses, das die Bekla
+- [BGH, Urteil vom 28.04.2004 - IV ZR 85/03](iv-zr-85-03.md) — Tatbestand: Die Klägerin macht im Wege der Stufenklage Pflichtteilsansprüche gemäß § 2313 BGB geltend an Leistungen nach dem Gesetz zur Rege
+- [BGH, Urteil vom 21.04.2004 - IV ZR 113/03](iv-zr-113-03.md) — Tatbestand: Die Parteien, zwei Versicherungsunternehmen, streiten darüber, wer die Kosten für einen Krankenhausaufenthalt im Ausland und den
 - [BGH, Beschluss vom 17.03.2004 - IV ZB 21/02](iv-zb-21-02.md) — BGH, Beschluss vom 17.03.2004 - IV ZB 21/02
 - [BGH, Beschluss vom 17.03.2004 - IV ZB 41/03](iv-zb-41-03.md) — I. Die Klägerin begehrt Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Frist zur Begründung ihrer Berufung. Ihrem Prozeßbevollmächtigten wurde am 25. April 2003 …
 - [BGH, Urteil vom 17.03.2004 - IV ZR 268/03](iv-zr-268-03.md) — Tatbestand: Die Klägerin nahm die Beklagten zu 1) bis 3) als Vertragspartner eines Bauvertrages über eine Bioabfallkompostierungsanlage und
+- [BGH, Urteil vom 10.03.2004 - IV ZR 123/03](iv-zr-123-03.md) — Tatbestand: Der Kläger, Sohn des Beklagten, begehrt die Feststellung, daß sein Vater nicht berechtigt sei, wegen der in dessen notariellen T
+- [BGH, Urteil vom 10.03.2004 - IV ZR 143/03](iv-zr-143-03.md) — der weitergehenden Klage (notarielle Urkunde
 - [BGH, Urteil vom 10.03.2004 - IV ZR 169/03](iv-zr-169-03.md) — Tatbestand: Der Kläger begehrt wegen eines Tauchunfalls von der Beklagten Deckungsschutz aus einer Privathaftpflichtversicherung.
 - [BGH, Beschluss vom 10.03.2004 - IV ZR 56/03](iv-zr-56-03.md) — BGH, Beschluss vom 10.03.2004 - IV ZR 56/03
+- [BGH, Urteil vom 10.03.2004 - IV ZR 75/03](iv-zr-75-03.md) — Tatbestand:
+- [BGH, Beschluss vom 03.03.2004 - IV ZB 21/03](iv-zb-21-03.md) — fehlender Angaben zur Fälligkeit gemäß § 1193 BGB) zunächst nicht schlüssig, kann die beklagte Partei trotz angezeigter Verteidigungsbereits
+- [BGH, Beschluss vom 03.03.2004 - IV ZB 38/03](iv-zb-38-03.md) — der dinglichen als auch der persönlichen Haftung der sofortigen Zwangsvollstreckung unterworfen. Nach den der Grundschuldbestellung beigefüg
+- [BGH, Beschluss vom 03.03.2004 - IV ZB 43/03](iv-zb-43-03.md) — mangelnder Erfolgsaussicht der Klage zurückgewiesen worden waren. Dagegen jeweils erhobene Beschwerden hatte das Oberlandesgericht zurückgew
+- [BGH, Versäumnisurteil vom 03.03.2004 - IV ZR 15/03](iv-zr-15-03.md) — Tatbestand: Die Kläger sind Eheleute, sie nehmen den Beklagten wegen Verletzung anwaltlicher Pflichten in Haftung.
+- [BGH, Urteil vom 03.03.2004 - IV ZR 25/03](iv-zr-25-03.md) — der Unfruchtbarkeit des versicherten Mannes vorgenommenen homologen In-vitro-Fertilisation (extrakorporale Befruchtung). Insoweit dient die
 - [BGH, Urteil vom 03.03.2004 - IV ZR 458/02](iv-zr-458-02.md) — Tatbestand: Der Kläger fordert wegen des Verlustes seines bei den Beklagten versicherten Hochseekatamarans, der vor der Küste Venezuelas in
+- [BGH, Urteil vom 18.02.2004 - IV ZR 126/02](iv-zr-126-02.md) — Tatbestand: Der Kläger verlangt für einen von seinem mitversicherten Stiefsohn durch Brandstiftung verursachten Schaden Deckungsschutz aus e
+- [BGH, Beschluss vom 18.02.2004 - IV ZR 205/03](iv-zr-205-03.md) — gelegt. Im übrigen ist einer Zu- -3- sammenschau der Würdigung des Berufungsgerichts die Feststellung zu entnehmen, daß der Kläger Kenntnis von der allgemeinen Schädlichkeit unter …
 - [BGH, Urteil vom 18.02.2004 - IV ZR 94/03](iv-zr-94-03.md) — Tatbestand:
+- [BGH, Beschluss vom 16.02.2004 - IV ZR 290/03](iv-zr-290-03.md) — behaupteter 30%iger Invalidität infolge eines Auffahrunfalls gefordert. Die Vorinstanzen haben die Klage abgewiesen, weil sie sich nach Ausw
 - [BGH, Beschluss vom 11.02.2004 - IV ZR 132/03](iv-zr-132-03.md) — Wegfalls der Anspruchsgegnerin (GmbH) erloschen sind (vgl. BGHZ 74, 212, 215).
+- [BGH, Urteil vom 11.02.2004 - IV ZR 52/02](iv-zr-52-02.md) — Tatbestand: Der Kläger begehrt eine höhere Zusatzversorgungsrente von der Beklagten.
+- [BGH, Urteil vom 11.02.2004 - IV ZR 91/03](iv-zr-91-03.md) — Tatbestand: Die Parteien streiten um den Fortbestand einer vom Kläger bei der Beklagten genommenen Zusatz-Krankenversicherung, nachdem die B
+- [BGH, Urteil vom 28.01.2004 - IV ZR 58/03](iv-zr-58-03.md) — Tatbestand:
+- [BGH, Urteil vom 28.01.2004 - IV ZR 65/03](iv-zr-65-03.md) — Tatbestand:
+- [BGH, Beschluss vom 21.01.2004 - IV ZB 32/03](iv-zb-32-03.md) — I. Die Klägerin und Beschwerdeführerin wendet sich dagegen, daß ihr im Kostenfestsetzungsverfahren die Erstattung von Reisekosten, Ta- ge- und Abwesenheitsgeld für ihren …
 - [BGH, Urteil vom 21.01.2004 - IV ZR 44/03](iv-zr-44-03.md) — Tatbestand :
 - [BGH, Urteil vom 14.01.2004 - IV ZR 127/03](iv-zr-127-03.md) — Tatbestand: Als Fahrer eines in einen Verkehrsunfall verwickelten Lastkraftwagens verlangt der Kläger vom beklagten Haftpflichtversicherer F
+- [BGH, Beschluss vom 14.01.2004 - IV ZR 331/02](iv-zr-331-02.md) — BGH, Beschluss vom 14.01.2004 - IV ZR 331/02
 - [BGH, Beschluss vom 14.01.2004 - IV ZR 370/02](iv-zr-370-02.md) — Der Kläger hat seine Erinnerung allein darauf gestützt, daß er gegen den - seine Nichtzulassungsbeschwerde verwerfenden - Beschluß des Senats vom 24.
 - [BGH, Beschluss vom 14.01.2004 - IV ZR 384/02](iv-zr-384-02.md) — BGH, Beschluss vom 14.01.2004 - IV ZR 384/02

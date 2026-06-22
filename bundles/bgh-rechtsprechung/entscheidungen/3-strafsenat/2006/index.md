@@ -1,41 +1,98 @@
 # 3. Strafsenat – 2006
 
-79 Entscheidung(en).
+175 Entscheidung(en).
 
+- [BGH, Beschluss vom 21.12.2006 - 3 StR 301/06](3-str-301-06.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 21.12.2006 - 3 StR 396/06](3-str-396-06.md) — nachträglicher Anordnung der Sicherungsverwahrung
 - [BGH, Beschluss vom 21.12.2006 - 3 StR 427/06](3-str-427-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
-- [BGH, Beschluss vom 14.12.2006 - 3 StR 425/06](3-str-425-06.md) — Geiselnahme u. a.
+- [BGH, Urteil vom 21.12.2006 - 3 StR 436/06](3-str-436-06.md) — Mordes u. a.
+- [BGH, Urteil vom 21.12.2006 - 3 StR 451/06](3-str-451-06.md) — Geiselnahme u. a.
+- [BGH, Beschluss vom 19.12.2006 - 3 StR 353/06](3-str-353-06.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 19.12.2006 - 3 StR 464/06](3-str-464-06.md) — versuchten Mordes u. a.
+- [BGH, Urteil vom 14.12.2006 - 3 StR 269/06](3-str-269-06.md) — Anordnung der vorbehaltenen Sicherungsverwahrung
 - [BGH, Urteil vom 07.12.2006 - 3 StR 417/06](3-str-417-06.md) — Verdachts der Vergewaltigung
+- [BGH, Beschluss vom 05.12.2006 - 3 StR 420/06](3-str-420-06.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 05.12.2006 - 3 StR 428/06](3-str-428-06.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 05.12.2006 - 3 StR 441/06](3-str-441-06.md) — Mordes
 - [BGH, Beschluss vom 05.12.2006 - 3 StR 456/06](3-str-456-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 23.11.2006 - 3 StR 366/06](3-str-366-06.md) — erpresserischen Menschenraubs u. a.
+- [BGH, Beschluss vom 21.11.2006 - 3 StR 329/06](3-str-329-06.md) — versuchten schweren Raubes u. a.
+- [BGH, Beschluss vom 21.11.2006 - 3 StR 351/06](3-str-351-06.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 21.11.2006 - 3 StR 380/06](3-str-380-06.md) — Betruges
+- [BGH, Beschluss vom 21.11.2006 - 3 StR 407/06](3-str-407-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 16.11.2006 - 3 StR 139/06](3-str-139-06.md) — Beihilfe zum Mord u. a.
 - [BGH, Urteil vom 16.11.2006 - 3 StR 204/06](3-str-204-06.md) — Betruges
 - [BGH, Urteil vom 16.11.2006 - 3 StR 294/06](3-str-294-06.md) — zu 1.: zu 2.: zu 3. - 5.:
+- [BGH, Beschluss vom 14.11.2006 - 3 StR 415/06](3-str-415-06.md) — Betruges u. a.
+- [BGH, Beschluss vom 14.11.2006 - 3 StR 422/06](3-str-422-06.md) — schwerer Vergewaltigung
 - [BGH, Urteil vom 09.11.2006 - 3 StR 360/06](3-str-360-06.md) — Vergewaltigung
+- [BGH, Beschluss vom 26.10.2006 - 3 StR 288/06](3-str-288-06.md) — Rechtsbeugung u. a.
+- [BGH, Urteil vom 26.10.2006 - 3 StR 290/06](3-str-290-06.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 26.10.2006 - 3 StR 326/06](3-str-326-06.md) — Mitgliedschaft in einer terroristischen Vereinigung u. a.
+- [BGH, Beschluss vom 26.10.2006 - 3 StR 355/06](3-str-355-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 26.10.2006 - 3 StR 374/06](3-str-374-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 26.10.2006 - 3 StR 384/06](3-str-384-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 24.10.2006 - 3 StR 339/06](3-str-339-06.md) — Totschlags u. a.
+- [BGH, Beschluss vom 24.10.2006 - 3 StR 370/06](3-str-370-06.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 24.10.2006 - 3 StR 388/06](3-str-388-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 24.10.2006 - 3 StR 392/06](3-str-392-06.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 17.10.2006 - 3 StR 364/06](3-str-364-06.md) — zu 1.: bewaffneten Betäubungsmittelhandels zu 2.: Beihilfe zum bewaffneten Betäubungsmittelhandel
+- [BGH, Beschluss vom 17.10.2006 - 3 StR 371/06](3-str-371-06.md) — schweren Bandendiebstahls u. a.
+- [BGH, Beschluss vom 17.10.2006 - 3 StR 381/06](3-str-381-06.md) — Abgabe von Betäubungsmitteln an Personen unter 18 Jahren u. a.
 - [BGH, Beschluss vom 17.10.2006 - 3 StR 386/06](3-str-386-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 17.10.2006 - 3 StR 390/06](3-str-390-06.md) — sexueller Nötigung u. a.
+- [BGH, Beschluss vom 28.09.2006 - 3 StR 337/06](3-str-337-06.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 26.09.2006 - 3 StR 233/06](3-str-233-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 26.09.2006 - 3 StR 346/06](3-str-346-06.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 21.09.2006 - 3 StR 284/06](3-str-284-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 21.09.2006 - 3 StR 323/06](3-str-323-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 21.09.2006 - 3 StR 345/06](3-str-345-06.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 12.09.2006 - 3 StR 321/06](3-str-321-06.md) — Besitzes von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 12.09.2006 - 3 StR 325/06](3-str-325-06.md) — Besitzes von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 12.09.2006 - 3 StR 328/06](3-str-328-06.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 12.09.2006 - 3 StR 333/06](3-str-333-06.md) — versuchter schwerer sexueller Nötigung in einem besonders schweren Fall u. a.
+- [BGH, Urteil vom 07.09.2006 - 3 StR 277/06](3-str-277-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 05.09.2006 - 3 StR 304/06](3-str-304-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 05.09.2006 - 3 StR 305/06](3-str-305-06.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 31.08.2006 - 3 StR 237/06](3-str-237-06.md) — Diebstahls u. a.
+- [BGH, Urteil vom 31.08.2006 - 3 StR 246/06](3-str-246-06.md) — versuchten schweren Raubes u. a.
+- [BGH, Beschluss vom 31.08.2006 - 3 StR 313/06](3-str-313-06.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 29.08.2006 - 3 StR 292/06](3-str-292-06.md) — Betruges
+- [BGH, Beschluss vom 29.08.2006 - 3 StR 302/06](3-str-302-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 17.08.2006 - 3 StR 238/06](3-str-238-06.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 17.08.2006 - 3 StR 272/06](3-str-272-06.md) — Wohnungseinbruchsdiebstahls u. a.
+- [BGH, Beschluss vom 17.08.2006 - 3 StR 279/06](3-str-279-06.md) — räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 17.08.2006 - 3 StR 293/06](3-str-293-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 10.08.2006 - 3 StR 150/06](3-str-150-06.md) — Betruges u. a.
+- [BGH, Beschluss vom 10.08.2006 - 3 StR 188/06](3-str-188-06.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 10.08.2006 - 3 StR 274/06](3-str-274-06.md) — erpresserischem Menschenraub u. a.
 - [BGH, Beschluss vom 10.08.2006 - 3 StR 275/06](3-str-275-06.md) — BGH, Beschluss vom 10.08.2006 - 3 StR 275/06
+- [BGH, Beschluss vom 08.08.2006 - 3 StR 212/06](3-str-212-06.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 03.08.2006 - 3 StR 179/06](3-str-179-06.md) — sexueller Nötigung unter Verwendung eines gefährlichen Werkzeugs
+- [BGH, Urteil vom 03.08.2006 - 3 StR 199/06](3-str-199-06.md) — Raubes mit Todesfolge u. a.
 - [BGH, Beschluss vom 03.08.2006 - 3 StR 247/06](3-str-247-06.md) — Totschlags
+- [BGH, Beschluss vom 03.08.2006 - 3 StR 264/06](3-str-264-06.md) — sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 03.08.2006 - 3 StR 271/06](3-str-271-06.md) — schweren räuberischen Diebstahls u. a.
+- [BGH, Beschluss vom 01.08.2006 - 3 StR 149/06](3-str-149-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 01.08.2006 - 3 StR 173/06](3-str-173-06.md) — sexuellen Missbrauchs von Jugendlichen
 - [BGH, Beschluss vom 01.08.2006 - 3 StR 227/06](3-str-227-06.md) — besonders schwerer Vergewaltigung u. a.
 - [BGH, Beschluss vom 01.08.2006 - 3 StR 249/06](3-str-249-06.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 01.08.2006 - 3 StR 255/06](3-str-255-06.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 01.08.2006 - 3 StR 75/06](3-str-75-06.md) — versuchten Totschlags
 - [BGH, Beschluss vom 20.07.2006 - 3 StR 244/06](3-str-244-06.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 18.07.2006 - 3 StR 132/06](3-str-132-06.md) — schweren Bandendiebstahls u. a.
 - [BGH, Beschluss vom 18.07.2006 - 3 StR 182/06](3-str-182-06.md) — Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 18.07.2006 - 3 StR 226/06](3-str-226-06.md) — zu 1.: Anstiftung zur Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 18.07.2006 - 3 StR 230/06](3-str-230-06.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 18.07.2006 - 3 StR 235/06](3-str-235-06.md) — Verletzung der Fürsorgepflicht
 - [BGH, Beschluss vom 11.07.2006 - 3 StR 176/06](3-str-176-06.md) — Untreue u. a.
+- [BGH, Beschluss vom 11.07.2006 - 3 StR 183/06](3-str-183-06.md) — versuchter schwerer Körperverletzung u. a.
 - [BGH, Beschluss vom 11.07.2006 - 3 StR 209/06](3-str-209-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 11.07.2006 - 3 StR 216/06](3-str-216-06.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 29.06.2006 - 3 StR 175/06](3-str-175-06.md) — Anstiftung zum Bankrott u. a.
+- [BGH, Beschluss vom 29.06.2006 - 3 StR 221/06](3-str-221-06.md) — schweren Raubes u. a.
 - [BGH, Urteil vom 29.06.2006 - 3 StR 284/05](3-str-284-05.md) — Rädelsführerschaft in einer terroristischen Vereinigung u. a.
+- [BGH, Beschluss vom 27.06.2006 - 3 StR 128/06](3-str-128-06.md) — schwerer sexueller Nötigung u. a.
 - [BGH, Beschluss vom 27.06.2006 - 3 StR 174/06](3-str-174-06.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 27.06.2006 - 3 StR 177/06](3-str-177-06.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 27.06.2006 - 3 StR 403/05](3-str-403-05.md) — zu 1.: Untreue zu 2.: Beihilfe zur Untreue
@@ -46,38 +103,77 @@
 - [BGH, Urteil vom 22.06.2006 - 3 StR 89/06](3-str-89-06.md) — versuchter sexueller Nötigung
 - [BGH, Beschluss vom 20.06.2006 - 3 StR 116/06](3-str-116-06.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 13.06.2006 - 3 StR 162/06](3-str-162-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.06.2006 - 3 StR 189/06](3-str-189-06.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 06.06.2006 - 3 StR 161/06](3-str-161-06.md) — Betruges
 - [BGH, Urteil vom 01.06.2006 - 3 StR 48/06](3-str-48-06.md) — Freiheitsberaubung
 - [BGH, Urteil vom 01.06.2006 - 3 StR 77/06](3-str-77-06.md) — zu 1.: Mordes zu 2.: gefährlicher Körperverletzung
 - [BGH, Beschluss vom 30.05.2006 - 3 StR 126/06](3-str-126-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 30.05.2006 - 3 StR 147/06](3-str-147-06.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 30.05.2006 - 3 StR 65/06](3-str-65-06.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 23.05.2006 - 3 StR 112/06](3-str-112-06.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 23.05.2006 - 3 StR 119/06](3-str-119-06.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 23.05.2006 - 3 StR 142/06](3-str-142-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 11.05.2006 - 3 StR 107/06](3-str-107-06.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 11.05.2006 - 3 StR 136/06](3-str-136-06.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 11.05.2006 - 3 StR 389/05](3-str-389-05.md) — Bestechlichkeit u. a.
 - [BGH, Urteil vom 11.05.2006 - 3 StR 41/06](3-str-41-06.md) — Betruges u. a.
+- [BGH, Beschluss vom 09.05.2006 - 3 StR 105/06](3-str-105-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 09.05.2006 - 3 StR 111/06](3-str-111-06.md) — unterschiedlicher Delikte zu Jugendstrafen,
+- [BGH, Beschluss vom 09.05.2006 - 3 StR 131/06](3-str-131-06.md) — sexuellen Missbrauchs widerstandsunfähiger Personen
+- [BGH, Beschluss vom 09.05.2006 - 3 StR 480/05](3-str-480-05.md) — zu 1.: Betruges u. a. zu 2.: Beihilfe zur Untreue
 - [BGH, Beschluss vom 27.04.2006 - 3 StR 35/06](3-str-35-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 25.04.2006 - 3 StR 429/05](3-str-429-05.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 19.04.2006 - 3 StR 103/06](3-str-103-06.md) — schweren sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 19.04.2006 - 3 StR 95/06](3-str-95-06.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 12.04.2006 - 3 StR 100/06](3-str-100-06.md) — BGH, Beschluss vom 12.04.2006 - 3 StR 100/06
+- [BGH, Beschluss vom 11.04.2006 - 3 StR 59/06](3-str-59-06.md) — versuchten Betrugs u. a.
+- [BGH, Beschluss vom 11.04.2006 - 3 StR 73/06](3-str-73-06.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 06.04.2006 - 3 StR 478/05](3-str-478-05.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 06.04.2006 - 3 StR 63/06](3-str-63-06.md) — Vergewaltigung
 - [BGH, Beschluss vom 06.04.2006 - 3 StR 87/06](3-str-87-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 06.04.2006 - 3 StR 93/06](3-str-93-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 04.04.2006 - 3 StR 23/06](3-str-23-06.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 04.04.2006 - 3 StR 47/06](3-str-47-06.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 04.04.2006 - 3 StR 64/06](3-str-64-06.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 04.04.2006 - 3 StR 68/06](3-str-68-06.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 04.04.2006 - 3 StR 72/06](3-str-72-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 04.04.2006 - 3 StR 80/06](3-str-80-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 04.04.2006 - 3 StR 91/06](3-str-91-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 23.03.2006 - 3 StR 373/05](3-str-373-05.md) — Raubes u. a.
+- [BGH, Urteil vom 23.03.2006 - 3 StR 40/06](3-str-40-06.md) — Beihilfe zum versuchten Totschlag
 - [BGH, Urteil vom 23.03.2006 - 3 StR 458/05](3-str-458-05.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
-- [BGH, Beschluss vom 21.03.2006 - 3 StR 411/04](3-str-411-04.md) — Betruges
 - [BGH, Beschluss vom 21.03.2006 - 3 StR 49/06](3-str-49-06.md) — Untreue u. a.
 - [BGH, Beschluss vom 21.03.2006 - 3 StR 51/06](3-str-51-06.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 21.03.2006 - 3 StR 58/06](3-str-58-06.md) — sexueller Nötigung
+- [BGH, Beschluss vom 21.03.2006 - 3 StR 61/06](3-str-61-06.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 16.03.2006 - 3 StR 27/06](3-str-27-06.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 16.03.2006 - 3 StR 365/05](3-str-365-05.md) — Betrugs u. a.
+- [BGH, Beschluss vom 16.03.2006 - 3 StR 50/06](3-str-50-06.md) — gewerbs- und bandenmäßiger Verleitung zur missbräuchlichen Asylantragstellung
 - [BGH, Beschluss vom 14.03.2006 - 3 StR 15/06](3-str-15-06.md) — schweren Raubes
-- [BGH, Beschluss vom 23.02.2006 - 3 StR 281/04](3-str-281-04.md) — Vergewaltigung
+- [BGH, Urteil vom 09.03.2006 - 3 StR 28/06](3-str-28-06.md) — versuchter Brandstiftung u. a.
+- [BGH, Urteil vom 09.03.2006 - 3 StR 451/05](3-str-451-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 07.03.2006 - 3 StR 34/06](3-str-34-06.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 07.03.2006 - 3 StR 37/06](3-str-37-06.md) — Diebstahls u. a.
+- [BGH, Beschluss vom 07.03.2006 - 3 StR 52/06](3-str-52-06.md) — schweren räuberischen Diebstahls
+- [BGH, Beschluss vom 07.03.2006 - 3 StR 9/06](3-str-9-06.md) — Vergewaltigung
 - [BGH, Beschluss vom 22.02.2006 - 3 StR 19/06](3-str-19-06.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 22.02.2006 - 3 StR 24/06](3-str-24-06.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 22.02.2006 - 3 StR 426/05](3-str-426-05.md) — sexuellen Missbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 22.02.2006 - 3 StR 479/05](3-str-479-05.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 09.02.2006 - 3 StR 467/05](3-str-467-05.md) — Mordes
 - [BGH, Beschluss vom 08.02.2006 - 3 StR 298/05](3-str-298-05.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 08.02.2006 - 3 StR 417/05](3-str-417-05.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 07.02.2006 - 3 StR 3/06](3-str-3-06.md) — besonders schwerer sexueller Nötigung u. a.
+- [BGH, Beschluss vom 07.02.2006 - 3 StR 397/05](3-str-397-05.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 07.02.2006 - 3 StR 452/05](3-str-452-05.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 07.02.2006 - 3 StR 460/98](3-str-460-98.md) — abgesehen
 - [BGH, Beschluss vom 07.02.2006 - 3 StR 8/06](3-str-8-06.md) — bewaffneter Betäubungsmitteleinfuhr
+- [BGH, Urteil vom 26.01.2006 - 3 StR 375/05](3-str-375-05.md) — Herstellens von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 26.01.2006 - 3 StR 415/02](3-str-415-02.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 24.01.2006 - 3 StR 445/05](3-str-445-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 24.01.2006 - 3 StR 460/05](3-str-460-05.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 17.01.2006 - 3 StR 472/05](3-str-472-05.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 10.01.2006 - 3 StR 263/05](3-str-263-05.md) — zu 1.: Rädelsführerschaft in einer terroristischen Vereinigung u. a. zu 2. bis 5.: Gründung einer terroristischen Vereinigung u. a.
+- [BGH, Beschluss vom 10.01.2006 - 3 StR 400/05](3-str-400-05.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 10.01.2006 - 3 StR 456/05](3-str-456-05.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 10.01.2006 - 3 StR 463/05](3-str-463-05.md) — gefährlicher Körperverletzung

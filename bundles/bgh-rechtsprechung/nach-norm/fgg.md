@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu FGG"
 description: "BGH-Entscheidungen zu FGG, geordnet nach Vorschrift."
 tags: [register, navigation, fgg]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

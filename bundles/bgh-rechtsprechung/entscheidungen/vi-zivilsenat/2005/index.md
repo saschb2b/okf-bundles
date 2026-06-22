@@ -1,40 +1,117 @@
 # VI. Zivilsenat – 2005
 
-36 Entscheidung(en).
+113 Entscheidung(en).
 
+- [BGH, Beschluss vom 20.12.2005 - VI ZB 13/05](vi-zb-13-05.md) — der Versäumung der Berufungsbegründungsfrist Wiedereinsetzung in den vorigen Stand zu gewähren. Er hat den Wiedereinsetzungsantrag entsprech
+- [BGH, Beschluss vom 20.12.2005 - VI ZB 63/05](vi-zb-63-05.md) — Die Rechtsbeschwerde ist gemäß §§ 522 Abs.
+- [BGH, Urteil vom 20.12.2005 - VI ZR 180/04](vi-zr-180-04.md) — Tatbestand:
+- [BGH, Urteil vom 20.12.2005 - VI ZR 225/04](vi-zr-225-04.md) — Handelns des Geschädigten auf eigene Gefahr.
+- [BGH, Beschluss vom 20.12.2005 - VI ZR 307/04](vi-zr-307-04.md) — I. 1 Die Nichtzulassungsbeschwerde ist statthaft und auch im Übrigen zuläs- sig (§§ 543 Abs. 2 Satz 1 Nr. 2, 544 ZPO; § 26 Nr. 8 EGZPO). Dem Kläger ist -3- Wiedereinsetzung in den …
+- [BGH, Urteil vom 20.12.2005 - VI ZR 33/05](vi-zr-33-05.md) — Tatbestand:
+- [BGH, Beschluss vom 20.12.2005 - VI ZR 91/05](vi-zr-91-05.md) — Die gemäß § 321 a ZPO statthafte und auch im Übrigen zulässige Ge- hörsrüge ist nicht begründet.
+- [BGH, Beschluss vom 20.12.2005 - VI ZR 95/05](vi-zr-95-05.md) — BGH, Beschluss vom 20.12.2005 - VI ZR 95/05
+- [BGH, Beschluss vom 13.12.2005 - VI ZB 52/05](vi-zb-52-05.md) — der derzeitigen Arbeitsüberlastung infolge einer Häufung von Gerichtsterminen und Fristsachen die Verlängerung der am 24. Mai 2005 ablaufend
+- [BGH, Beschluss vom 13.12.2005 - VI ZB 76/04](vi-zb-76-04.md) — der ihr bei einem Reitunfall entstande-
+- [BGH, Beschluss vom 13.12.2005 - VI ZR 164/04](vi-zr-164-04.md) — BGH, Beschluss vom 13.12.2005 - VI ZR 164/04
 - [BGH, Urteil vom 13.12.2005 - VI ZR 68/04](vi-zr-68-04.md) — Tatbestand:
+- [BGH, Beschluss vom 07.12.2005 - VI ZB 62/05](vi-zb-62-05.md) — Die Rechtsbeschwerde ist unzulässig, weil sie nicht durch einen beim Bundesgerichtshof zugelassenen Rechtsanwalt eingelegt worden ist, § 78 Abs.
 - [BGH, Beschluss vom 06.12.2005 - VI ZB 53/05](vi-zb-53-05.md) — I. 1 Das Landgericht München I hat die von der Klägerin erhobene Klage mit Urteil vom 16. November 2004 abgewiesen. Gegen dieses Urteil hat die Kläge- rin durch ihre …
 - [BGH, Beschluss vom 06.12.2005 - VI ZR 103/05](vi-zr-103-05.md) — BGH, Beschluss vom 06.12.2005 - VI ZR 103/05
+- [BGH, Urteil vom 06.12.2005 - VI ZR 265/04](vi-zr-265-04.md) — Tatbestand:
 - [BGH, Beschluss vom 22.11.2005 - VI ZB 15/05](vi-zb-15-05.md) — verspä-
-- [BGH, Beschluss vom 22.11.2005 - VI ZB 75/04](vi-zb-75-04.md) — einer grundsätzlichen Bedeutung der Rechtssa-
+- [BGH, Urteil vom 22.11.2005 - VI ZR 204/04](vi-zr-204-04.md) — Tatbestand:
 - [BGH, Beschluss vom 22.11.2005 - VI ZR 330/04](vi-zr-330-04.md) — 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
 - [BGH, Beschluss vom 21.11.2005 - VI ZA 17/05](vi-za-17-05.md) — BGH, Beschluss vom 21.11.2005 - VI ZA 17/05
+- [BGH, Urteil vom 15.11.2005 - VI ZR 26/05](vi-zr-26-05.md) — 3-
+- [BGH, Versäumnisurteil vom 15.11.2005 - VI ZR 268/04](vi-zr-268-04.md) — Tatbestand:
 - [BGH, Urteil vom 15.11.2005 - VI ZR 274/04](vi-zr-274-04.md) — Tatbestand:
 - [BGH, Beschluss vom 15.11.2005 - VI ZR 8/05](vi-zr-8-05.md) — BGH, Beschluss vom 15.11.2005 - VI ZR 8/05
+- [BGH, Beschluss vom 08.11.2005 - VI ZR 121/05](vi-zr-121-05.md) — I. 1 1. Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
+- [BGH, Urteil vom 08.11.2005 - VI ZR 319/04](vi-zr-319-04.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2005 - VI ZR 332/04](vi-zr-332-04.md) — Tatbestand:
+- [BGH, Beschluss vom 08.11.2005 - VI ZR 37/05](vi-zr-37-05.md) — BGH, Beschluss vom 08.11.2005 - VI ZR 37/05
+- [BGH, Urteil vom 08.11.2005 - VI ZR 64/05](vi-zr-64-05.md) — Tatbestand:
 - [BGH, Beschluss vom 25.10.2005 - VI ZB 58/04](vi-zb-58-04.md) — der Folgen eines Verkehrsun-
+- [BGH, Urteil vom 25.10.2005 - VI ZR 195/03](vi-zr-195-03.md) — Tatbestand:
+- [BGH, Urteil vom 25.10.2005 - VI ZR 246/03](vi-zr-246-03.md) — Tatbestand:
 - [BGH, Urteil vom 25.10.2005 - VI ZR 280/04](vi-zr-280-04.md) — Tatbestand:
+- [BGH, Urteil vom 25.10.2005 - VI ZR 334/04](vi-zr-334-04.md) — vorsätzlicher Schädigung oder wegen eines Schadensfalles auf einem versicherten Weg im Sinne des § 8 Abs. 2 Nr. 1 bis 4 SGB VII von der Haft
 - [BGH, Urteil vom 25.10.2005 - VI ZR 9/05](vi-zr-9-05.md) — 3-
 - [BGH, Beschluss vom 18.10.2005 - VI ZA 11/05](vi-za-11-05.md) — Nichterreichen der Berufungssumme (vgl. § 511 Abs. 2 Nr. 1 ZPO) als unzulässig verwerfendes Urteil des Berufungsgerichts richtet (vgl. BGH,
 - [BGH, Beschluss vom 18.10.2005 - VI ZB 81/04](vi-zb-81-04.md) — BGH, Beschluss vom 18.10.2005 - VI ZB 81/04
 - [BGH, Urteil vom 18.10.2005 - VI ZR 270/04](vi-zr-270-04.md) — Tatbestand:
 - [BGH, Beschluss vom 18.10.2005 - VI ZR 312/04](vi-zr-312-04.md) — Vermehrung der Bedürfnisse (hier: regelmäßige Pflege eines erkrankten Kindes) sind wiederkehrende Leistungen, für die die vierjährige Verjäh
+- [BGH, Beschluss vom 20.09.2005 - VI ZA 13/05](vi-za-13-05.md) — Das Berufungsgericht hat den Beklagten mit Beschluss vom 9.
 - [BGH, Beschluss vom 20.09.2005 - VI ZB 78/04](vi-zb-78-04.md) — I. 1 Die Klägerin begehrt von der Beklagten, dem Haftpflichtversicherer des Geschädigten, aus einem zwischen den Parteien bestehenden Teilungsab- kommen (TA) vom 29. März/22 …
+- [BGH, Urteil vom 20.09.2005 - VI ZR 251/04](vi-zr-251-04.md) — Tatbestand: Die Klägerin, eine Autovermietung, macht gegen den Beklagten als Verursacher eines Verkehrsunfalls Ansprüche auf Ersatz restlich
 - [BGH, Beschluss vom 13.09.2005 - VI ZB 19/05](vi-zb-19-05.md) — BGH, Beschluss vom 13.09.2005 - VI ZB 19/05
+- [BGH, Beschluss vom 13.09.2005 - VI ZB 84/04](vi-zb-84-04.md) — I. Die Antragstellerin hat im selbständigen Beweisverfahren die Begutachtung zahnärztlicher Leistungen der Antragsgegner im Oberkiefer und Unterkiefer durch einen Sachverständigen …
+- [BGH, Urteil vom 13.09.2005 - VI ZR 137/04](vi-zr-137-04.md) — Krankheit dienstunfähig war, hat das Präsidium vor der Aufstellung des Geschäftsverteilungsplans für das nächste Geschäftsjahr die ihm zur V
+- [BGH, Beschluss vom 13.09.2005 - VI ZR 299/04](vi-zr-299-04.md) — BGH, Beschluss vom 13.09.2005 - VI ZR 299/04
+- [BGH, Beschluss vom 07.09.2005 - VI ZR 241/04](vi-zr-241-04.md) — BGH, Beschluss vom 07.09.2005 - VI ZR 241/04
 - [BGH, Beschluss vom 24.08.2005 - VI ZR 227/04](vi-zr-227-04.md) — Die gemäß § 321 a ZPO statthafte und auch im übrigen zulässige Gehörsrüge ist nicht begründet.
+- [BGH, Beschluss vom 24.08.2005 - VI ZR 6/05](vi-zr-6-05.md) — Die gemäß § 321a ZPO statthafte und auch im übrigen zulässige Gehörsrüge ist nicht begründet.
+- [BGH, Beschluss vom 05.08.2005 - VI ZR 260/04](vi-zr-260-04.md) — Die Beanstandung des Beklagten richtet sich in der Sache gegen die Festsetzung des Werts des Beschwerdegegenstands mit Beschluss vom 3.
+- [BGH, Beschluss vom 12.07.2005 - VI ZB 4/05](vi-zb-4-05.md) — I. Die Klägerin hat gegen das ihre Klage teilweise abweisende Urteil des Landgerichts vom 16. Juli 2004, das ihr am 10. August 2004 zugestellt worden ist, mit Telefax vom 16 …
 - [BGH, Beschluss vom 12.07.2005 - VI ZB 72/03](vi-zb-72-03.md) — Nichtzahlung der festgesetzten Raten entzogen, so kommt für dieselbe Instanz gleichwohl eine Neubewilligung in Betracht, wenn sich die persö
 - [BGH, Urteil vom 12.07.2005 - VI ZR 132/04](vi-zr-132-04.md) — 3-
+- [BGH, Beschluss vom 12.07.2005 - VI ZR 261/04](vi-zr-261-04.md) — BGH, Beschluss vom 12.07.2005 - VI ZR 261/04
+- [BGH, Beschluss vom 12.07.2005 - VI ZR 7/05](vi-zr-7-05.md) — Ungeeignetheit des Beweismittels (vgl. Senatsurteile vom 16. September 1986 – VI ZR 128/85 – VersR 1987, 70, 71; vom 11. Juni 1996 – VI ZR 1
+- [BGH, Urteil vom 12.07.2005 - VI ZR 83/04](vi-zr-83-04.md) — 3-
+- [BGH, Urteil vom 05.07.2005 - VI ZR 173/04](vi-zr-173-04.md) — Tatbestand: Die Klägerin, eine Autovermietung, macht gegen den beklagten Kraftfahrzeughaftpflichtversicherer Ansprüche auf Ersatz restlicher
+- [BGH, Beschluss vom 05.07.2005 - VI ZR 217/04](vi-zr-217-04.md) — BGH, Beschluss vom 05.07.2005 - VI ZR 217/04
+- [BGH, Beschluss vom 05.07.2005 - VI ZR 221/04](vi-zr-221-04.md) — BGH, Beschluss vom 05.07.2005 - VI ZR 221/04
+- [BGH, Urteil vom 28.06.2005 - VI ZR 108/04](vi-zr-108-04.md) — Tatbestand: Der Kläger verlangt von den Beklagten als Gesamtschuldnern Ersatz von Verdienstausfallschaden wegen eines Verkehrsunfalls vom 3.
+- [BGH, Urteil vom 21.06.2005 - VI ZR 122/04](vi-zr-122-04.md) — Tatbestand: Die Klägerinnen wenden sich gegen die Veröffentlichung des von der Beklagten verlegten Romans "Esra" von Maxim Biller (im folgen
+- [BGH, Urteil vom 21.06.2005 - VI ZR 238/03](vi-zr-238-03.md) — Tatbestand: Die Klägerin begehrt als Krankenkasse aus übergegangenem Recht gemäß § 116 SGB X von der Beklagten Schadensersatz unter dem Gesi
+- [BGH, Beschluss vom 14.06.2005 - VI ZB 10/05](vi-zb-10-05.md) — eines behaupteten ärztlichen Behandlungsfehlers auf Ersatz materieller und immaterieller Schäden in Anspruch. Das Amtsgericht hat die Klage
 - [BGH, Beschluss vom 14.06.2005 - VI ZB 5/05](vi-zb-5-05.md) — BGH, Beschluss vom 14.06.2005 - VI ZB 5/05
+- [BGH, Urteil vom 14.06.2005 - VI ZR 179/04](vi-zr-179-04.md) — Tatbestand: Die Klägerin verlangt von dem Beklagten ein angemessenes Schmerzensgeld von mindestens 127.823 € (250.000 DM) nebst Zinsen und d
+- [BGH, Urteil vom 14.06.2005 - VI ZR 181/04](vi-zr-181-04.md) — 3-
 - [BGH, Urteil vom 14.06.2005 - VI ZR 185/04](vi-zr-185-04.md) — Tatbestand: Die Klägerin nimmt als Kaskoversicherer den Beklagten aus übergegangenem Recht nach einem Verkehrsunfall in Anspruch. Der Beklag
+- [BGH, Urteil vom 14.06.2005 - VI ZR 25/04](vi-zr-25-04.md) — vermuteten Auswahl- und Überwachungsverschuldens gemäß § 831 BGB, sondern eine eigene "Verantwortlichkeit" zur Schadensverhütung, etwa wegen
+- [BGH, Beschluss vom 14.06.2005 - VI ZR 295/04](vi-zr-295-04.md) — BGH, Beschluss vom 14.06.2005 - VI ZR 295/04
+- [BGH, Urteil vom 07.06.2005 - VI ZR 192/04](vi-zr-192-04.md) — Tatbestand: Der Kläger nimmt wegen eines Verkehrsunfalls vom 20. Dezember 2002 den Beklagten zu 1 als Fahrer und die Beklagte zu 2 als Haftp
 - [BGH, Beschluss vom 07.06.2005 - VI ZR 219/04](vi-zr-219-04.md) — BGH, Beschluss vom 07.06.2005 - VI ZR 219/04
 - [BGH, Beschluss vom 07.06.2005 - VI ZR 220/04](vi-zr-220-04.md) — BGH, Beschluss vom 07.06.2005 - VI ZR 220/04
+- [BGH, Beschluss vom 10.05.2005 - VI ZR 223/04](vi-zr-223-04.md) — BGH, Beschluss vom 10.05.2005 - VI ZR 223/04
+- [BGH, Beschluss vom 10.05.2005 - VI ZR 245/04](vi-zr-245-04.md) — . Die Nichtzulassungsbeschwerde hat Erfolg und führt gemäß § 544 Abs. 7 ZPO zur Aufhebung des angegriffenen Urteils und zur Zurückverweisung des Rechtsstreits an das …
+- [BGH, Urteil vom 10.05.2005 - VI ZR 366/03](vi-zr-366-03.md) — Störung des Gesamtschuldverhältnisses mit einem nach § 106 Abs. 3 Alt. 3 SGB VII haftungsprivilegierten Verrichtungsgehilfen setzt voraus, d
+- [BGH, Beschluss vom 10.05.2005 - VI ZR 89/04](vi-zr-89-04.md) — Die gemäß § 321 a ZPO statthafte und auch im übrigen zulässige Gehörsrüge ist nicht begründet.
+- [BGH, Beschluss vom 03.05.2005 - VI ZR 206/04](vi-zr-206-04.md) — der ohne wirksame Einwilligung durchgeführten und damit rechtswidrigen Hysterektomie ein Schmerzensgeld, dessen Höhe in das Ermessen des Ger
+- [BGH, Urteil vom 03.05.2005 - VI ZR 238/04](vi-zr-238-04.md) — Tatbestand: Der Kläger nimmt die Beklagten auf Ersatz seiner materiellen und immateriellen Schäden in Anspruch, die er durch Hundebisse auf
+- [BGH, Beschluss vom 03.05.2005 - VI ZR 320/04](vi-zr-320-04.md) — BGH, Beschluss vom 03.05.2005 - VI ZR 320/04
+- [BGH, Beschluss vom 03.05.2005 - VI ZR 4/04](vi-zr-4-04.md) — BGH, Beschluss vom 03.05.2005 - VI ZR 4/04
+- [BGH, Beschluss vom 26.04.2005 - VI ZB 45/03](vi-zb-45-03.md) — I. Das Amtsgericht Bad Waldsee hat in einem auf Antrag der Klägerin erlassenen Kostenfestsetzungsbeschluß vom 2. Januar 2003 keine Beweisgebühr festgesetzt, obwohl es die Klägerin …
 - [BGH, Urteil vom 26.04.2005 - VI ZR 168/04](vi-zr-168-04.md) — Tatbestand: Der Kläger macht gegen die Beklagten Schadensersatzansprüche aus einem Unfall in einer Tiefgarage geltend. Er und der Beklagte z
+- [BGH, Urteil vom 26.04.2005 - VI ZR 228/03](vi-zr-228-03.md) — der blinkenden "Vorampel" seine Geschwindigkeit unter die zulässige Höchstgeschwindigkeit zu reduzieren. Er darf vielmehr unter Beibehaltung
+- [BGH, Beschluss vom 19.04.2005 - VI ZB 47/03](vi-zb-47-03.md) — Beschädigung eines Zaunes auf dem Grundstück einer Erbengemeinschaft geltend, welcher er angehört. Er hat dabei in erster Instanz auf Zahlun
+- [BGH, Urteil vom 19.04.2005 - VI ZR 175/04](vi-zr-175-04.md) — Tatbestand: Der im Jahre 1970 geborene Kläger war Student. Er wurde 1991 überfallen und ist seitdem querschnittgelähmt. Trotz seiner Behinde
 - [BGH, Beschluss vom 19.04.2005 - VI ZR 275/04](vi-zr-275-04.md) — BGH, Beschluss vom 19.04.2005 - VI ZR 275/04
+- [BGH, Urteil vom 19.04.2005 - VI ZR 37/04](vi-zr-37-04.md) — Tatbestand: Die Klägerin, eine Autovermieterin, macht gegen den beklagten KfzHaftpflichtversicherer aus abgetretenem Recht der Unfallgeschäd
+- [BGH, Urteil vom 12.04.2005 - VI ZR 50/04](vi-zr-50-04.md) — Tatbestand: Die klagende Bundesrepublik Deutschland macht als Versorgungsträger Schadensersatzansprüche aus übergegangenem Recht geltend. De
+- [BGH, Beschluss vom 05.04.2005 - VI ZR 21/03](vi-zr-21-03.md) — I. Der Kläger macht gegen den Beklagten Schadensersatzansprüche aufgrund eines Verkehrsunfalls aus dem Jahre 1989 im Beitrittsgebiet geltend, wobei ihn der Beklagte mit dessen …
+- [BGH, Urteil vom 05.04.2005 - VI ZR 216/03](vi-zr-216-03.md) — Tatbestand: Bei der Klägerin wurde im Jahre 1997 eine beiderseitige Vergrößerung der Schilddrüse mit einem Knoten im Isthmus-Bereich sowie z
+- [BGH, Beschluss vom 05.04.2005 - VI ZR 23/04](vi-zr-23-04.md) — BGH, Beschluss vom 05.04.2005 - VI ZR 23/04
+- [BGH, Beschluss vom 15.03.2005 - VI ZB 74/04](vi-zb-74-04.md) — Besorgnis der Befangenheit aus dem Inhalt des schriftlichen Gutachtens, läuft im allgemeinen die Frist zur Ablehnung des Sachverständigen gl
+- [BGH, Beschluss vom 15.03.2005 - VI ZB 83/04](vi-zb-83-04.md) — könne die beantragte Verlängerung der Berufungsbegründungsfrist nicht gewährt werden. Die Kammer beabsichtige, die Berufung durch Beschluß a
 - [BGH, Beschluss vom 15.03.2005 - VI ZR 212/04](vi-zr-212-04.md) — BGH, Beschluss vom 15.03.2005 - VI ZR 212/04
 - [BGH, Urteil vom 15.03.2005 - VI ZR 289/03](vi-zr-289-03.md) — Tatbestand:
+- [BGH, Urteil vom 15.03.2005 - VI ZR 313/03](vi-zr-313-03.md) — BGH, Urteil vom 15.03.2005 - VI ZR 313/03
 - [BGH, Urteil vom 15.03.2005 - VI ZR 356/03](vi-zr-356-03.md) — Tatbestand: Die Kläger begehren Schadensersatz wegen eines Flugunfalls, bei dem der Ehemann der Klägerin zu 1 bzw. Vater der Kläger zu 2 und
+- [BGH, Beschluss vom 01.03.2005 - VI ZB 65/04](vi-zb-65-04.md) — Übermittlung des Schriftsatzes an das falsche Gericht mit Telefax erfordert die Darlegung, welche Anweisungen zur Prüfung der in einem Schri
 - [BGH, Urteil vom 01.03.2005 - VI ZR 101/04](vi-zr-101-04.md) — Tatbestand: Der am 25. April 1984 in Ost-Berlin geborene Kläger verlangt von der Beklagten Ersatz immateriellen Schadens, weil er im Jahre 1
+- [BGH, Beschluss vom 01.03.2005 - VI ZR 131/04](vi-zr-131-04.md) — BGH, Beschluss vom 01.03.2005 - VI ZR 131/04
 - [BGH, Urteil vom 01.03.2005 - VI ZR 91/04](vi-zr-91-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.02.2005 - VI ZR 160/04](vi-zr-160-04.md) — Tatbestand: Der Kläger verlangt mit der Klage Ersatz der Kosten für einen Mietwagen, den er nach Ausfall seines PKW durch einen Verkehrsunfa
+- [BGH, Urteil vom 15.02.2005 - VI ZR 172/04](vi-zr-172-04.md) — Tatbestand: Der Kläger begehrt Ersatz restlichen Sachschadens aus einem Verkehrsunfall, für den die Beklagten in vollem Umfang einzustehen h
+- [BGH, Urteil vom 15.02.2005 - VI ZR 70/04](vi-zr-70-04.md) — Tatbestand: Der Kläger begehrt Ersatz restlichen Sachschadens aus einem Verkehrsunfall, für den die Beklagten als Unfallgegner und Haftpflic
 - [BGH, Urteil vom 15.02.2005 - VI ZR 74/04](vi-zr-74-04.md) — Tatbestand: Der Kläger begehrt restlichen Schadensersatz aus einem Verkehrsunfall vom 10. Dezember 2002, bei dem sein Pkw beschädigt wurde.
 - [BGH, Urteil vom 01.02.2005 - VI ZR 174/03](vi-zr-174-03.md) — Tatbestand: Die Klägerin nimmt die Beklagten wegen ärztlicher Behandlungsfehler und fehlerhafter Aufklärung auf Zahlung von Schmerzensgeld u
 - [BGH, Urteil vom 25.01.2005 - VI ZR 112/04](vi-zr-112-04.md) — Tatbestand: Der Kläger begehrt restlichen Schadensersatz aus einem Verkehrsunfall vom 9. Juli 2001, bei dem sein Pkw, ein 9 1/2 Jahre alter
+- [BGH, Beschluss vom 25.01.2005 - VI ZR 200/04](vi-zr-200-04.md) — BGH, Beschluss vom 25.01.2005 - VI ZR 200/04
+- [BGH, Urteil vom 18.01.2005 - VI ZR 115/04](vi-zr-115-04.md) — Tatbestand: Die Klägerin begehrt von dem beklagten Land (im folgenden: "der Beklagte") die Zahlung von Schadensersatz für die Beschädigung i
+- [BGH, Urteil vom 18.01.2005 - VI ZR 73/04](vi-zr-73-04.md) — Tatbestand: Die Klägerin ist Eigentümerin eines Grundstücks, das mit einem Wohnhaus bebaut war. Dessen Fundament wurde im Januar 2002 infolg
 - [BGH, Urteil vom 11.01.2005 - VI ZR 34/04](vi-zr-34-04.md) — 3-
+- [BGH, Urteil vom 11.01.2005 - VI ZR 352/03](vi-zr-352-03.md) — vorhandener Sichthindernisse die Gegenfahrbahn nicht einsehen, so hat er sich in diese hineinzutasten. Er darf nicht darauf vertrauen, daß i
+- [BGH, Beschluss vom 11.01.2005 - VI ZR 67/04](vi-zr-67-04.md) — BGH, Beschluss vom 11.01.2005 - VI ZR 67/04

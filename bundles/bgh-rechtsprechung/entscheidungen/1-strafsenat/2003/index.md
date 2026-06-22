@@ -1,58 +1,114 @@
 # 1. Strafsenat – 2003
 
-67 Entscheidung(en).
+137 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2003 - 1 StR 380/03](1-str-380-03.md) — Raubes mit Todesfolge u.a.
+- [BGH, Beschluss vom 17.12.2003 - 1 StR 412/03](1-str-412-03.md) — gefährlicher Körperverletzung u. a.
 - [BGH, Beschluss vom 17.12.2003 - 1 StR 424/03](1-str-424-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 17.12.2003 - 1 StR 445/03](1-str-445-03.md) — Betrugs u. a.
 - [BGH, Beschluss vom 17.12.2003 - 1 StR 452/03](1-str-452-03.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 17.12.2003 - 1 StR 463/03](1-str-463-03.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 16.12.2003 - 1 StR 297/03](1-str-297-03.md) — Fälschung von Zahlungskarten
+- [BGH, Urteil vom 16.12.2003 - 1 StR 429/03](1-str-429-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 11.12.2003 - 1 StR 498/03](1-str-498-03.md) — Mordes
+- [BGH, Urteil vom 02.12.2003 - 1 StR 102/03](1-str-102-03.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 02.12.2003 - 1 StR 340/03](1-str-340-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 02.12.2003 - 1 StR 493/03](1-str-493-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 26.11.2003 - 1 ARs 27/03](1-ars-27-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Urteil vom 25.11.2003 - 1 StR 182/03](1-str-182-03.md) — sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Urteil vom 25.11.2003 - 1 StR 308/03](1-str-308-03.md) — versuchten Totschlags
+- [BGH, Beschluss vom 18.11.2003 - 1 StR 455/03](1-str-455-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 18.11.2003 - 1 StR 472/03](1-str-472-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 18.11.2003 - 1 StR 481/03](1-str-481-03.md) — Mordes
+- [BGH, Beschluss vom 06.11.2003 - 1 ARs 29/03](1-ars-29-03.md) — vorsätzlichen Vollrausches
 - [BGH, Urteil vom 06.11.2003 - 1 StR 24/03](1-str-24-03.md) — Verstoßes gegen das Kreditwesengesetz u.a.
+- [BGH, Beschluss vom 06.11.2003 - 1 StR 392/03](1-str-392-03.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 06.11.2003 - 1 StR 406/03](1-str-406-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 06.11.2003 - 1 StR 418/03](1-str-418-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 06.11.2003 - 1 StR 451/03](1-str-451-03.md) — versuchten Totschlags u.a.
+- [BGH, Urteil vom 05.11.2003 - 1 StR 287/03](1-str-287-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 05.11.2003 - 1 StR 338/03](1-str-338-03.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 05.11.2003 - 1 StR 368/03](1-str-368-03.md) — schweren sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 04.11.2003 - 1 StR 336/03](1-str-336-03.md) — Betruges
 - [BGH, Beschluss vom 04.11.2003 - 1 StR 384/03](1-str-384-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 04.11.2003 - 1 StR 395/03](1-str-395-03.md) — Mordes
+- [BGH, Beschluss vom 23.10.2003 - 1 StR 441/03](1-str-441-03.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 21.10.2003 - 1 StR 544/02](1-str-544-02.md) — Urkundenfälschung u.a.
 - [BGH, Beschluss vom 15.10.2003 - 1 StR 300/03](1-str-300-03.md) — Anstiftung zur vorsätzlichen Körperverletzung
+- [BGH, Beschluss vom 15.10.2003 - 1 StR 402/03](1-str-402-03.md) — versuchten Totschlags
 - [BGH, Beschluss vom 08.10.2003 - 1 StR 387/03](1-str-387-03.md) — Betrugs
 - [BGH, Urteil vom 07.10.2003 - 1 StR 212/03](1-str-212-03.md) — Veröffentlichung: ja _________________________ StGB § 263 Abs. 3 Satz 2 Nr. 2 Alt. 1, § 266 Abs. 2 Wird bereits durch den Abschluß eines Austauschvertrages ein Nachteil im Sinne …
+- [BGH, Urteil vom 07.10.2003 - 1 StR 274/03](1-str-274-03.md) — Betrugs
+- [BGH, Beschluss vom 07.10.2003 - 1 StR 385/03](1-str-385-03.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 25.09.2003 - 1 StR 186/03](1-str-186-03.md) — Totschlags
+- [BGH, Beschluss vom 23.09.2003 - 1 StR 292/03](1-str-292-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 23.09.2003 - 1 StR 323/03](1-str-323-03.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 23.09.2003 - 1 StR 341/03](1-str-341-03.md) — Mordes
 - [BGH, Beschluss vom 23.09.2003 - 1 StR 343/03](1-str-343-03.md) — schwerer Brandstiftung
+- [BGH, Urteil vom 11.09.2003 - 1 StR 146/03](1-str-146-03.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 11.09.2003 - 1 StR 289/03](1-str-289-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 10.09.2003 - 1 StR 147/03](1-str-147-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 10.09.2003 - 1 StR 371/03](1-str-371-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 09.09.2003 - 1 StR 153/03](1-str-153-03.md) — Totschlags
 - [BGH, Entscheidung vom 09.09.2003 - 1 StR 278/03](1-str-278-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 09.09.2003 - 1 StR 335/03](1-str-335-03.md) — Beihilfe zum Betrug
 - [BGH, Beschluss vom 09.09.2003 - 1 StR 349/03](1-str-349-03.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 09.09.2003 - 1 StR 356/03](1-str-356-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 27.08.2003 - 1 StR 272/03](1-str-272-03.md) — Untreue
 - [BGH, Beschluss vom 27.08.2003 - 1 StR 324/03](1-str-324-03.md) — versuchten Mordes u.a.
 - [BGH, Beschluss vom 27.08.2003 - 1 StR 327/03](1-str-327-03.md) — versuchten Totschlags u.a.
 - [BGH, Urteil vom 26.08.2003 - 1 StR 174/03](1-str-174-03.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 26.08.2003 - 1 StR 282/03](1-str-282-03.md) — Anstiftung zum schweren Raub
 - [BGH, Beschluss vom 26.08.2003 - 1 StR 284/03](1-str-284-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.08.2003 - 1 StR 298/03](1-str-298-03.md) — schweren Raubes
 - [BGH, Beschluss vom 26.08.2003 - 1 StR 316/03](1-str-316-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 26.08.2003 - 1 StR 344/03](1-str-344-03.md) — schweren sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 13.08.2003 - 1 StR 280/03](1-str-280-03.md) — unerlaubter Abgabe von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 12.08.2003 - 1 StR 111/03](1-str-111-03.md) — Mordes
+- [BGH, Urteil vom 12.08.2003 - 1 StR 127/03](1-str-127-03.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 05.08.2003 - 1 StR 205/03](1-str-205-03.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 05.08.2003 - 1 StR 302/03](1-str-302-03.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 17.07.2003 - 1 StR 126/03](1-str-126-03.md) — Körperverletzung mit Todesfolge u.a.
+- [BGH, Beschluss vom 17.07.2003 - 1 StR 34/03](1-str-34-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 16.07.2003 - 1 StR 171/03](1-str-171-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 16.07.2003 - 1 StR 251/03](1-str-251-03.md) — Mordes u. a.
 - [BGH, Urteil vom 15.07.2003 - 1 StR 187/03](1-str-187-03.md) — fahrlässiger Tötung
 - [BGH, Beschluss vom 15.07.2003 - 1 StR 249/03](1-str-249-03.md) — versuchten Mordes u.a.
 - [BGH, Urteil vom 03.07.2003 - 1 StR 453/02](1-str-453-02.md) — vorsätzlichen unerlaubten Handeltreibens mit verschreibungspflichtigen Arzneimitteln außerhalb von Apotheken u.a.
 - [BGH, Beschluss vom 01.07.2003 - 1 StR 207/03](1-str-207-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 26.06.2003 - 1 StR 269/02](1-str-269-02.md) — fahrlässiger Tötung u. a.
+- [BGH, Urteil vom 25.06.2003 - 1 StR 469/02](1-str-469-02.md) — Untreue u.a.
+- [BGH, Beschluss vom 24.06.2003 - 1 StR 213/03](1-str-213-03.md) — versuchten Mordes
+- [BGH, Urteil vom 24.06.2003 - 1 StR 25/03](1-str-25-03.md) — zu 1.: bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 18.06.2003 - 1 StR 150/03](1-str-150-03.md) — sexuellen Mißbrauchs einer Widerstandsunfähigen u.a.
+- [BGH, Beschluss vom 18.06.2003 - 1 StR 184/03](1-str-184-03.md) — Bestimmens einer Person unter 18 Jahren zum unerlaubten Handeltreiben mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 18.06.2003 - 1 StR 196/03](1-str-196-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 18.06.2003 - 1 StR 214/03](1-str-214-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 18.06.2003 - 1 StR 229/03](1-str-229-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 03.06.2003 - 1 StR 132/03](1-str-132-03.md) — zu 1.: schwerer räuberischer Erpressung zu 2. und 3.: Beihilfe zur schweren räuberischen Erpressung
+- [BGH, Beschluss vom 03.06.2003 - 1 StR 179/03](1-str-179-03.md) — Mißhandlung von Schutzbefohlenen u. a.
+- [BGH, Urteil vom 22.05.2003 - 1 StR 70/03](1-str-70-03.md) — Veröffentlichung: ja _________________________ StGB § 184 Abs. 1 Nr. 3a Der Begriff des "Ladengeschäfts" im Sinne von § 184 Abs. 1 Nr. 3a StGB setzt nicht zwingend die Anwesenheit …
 - [BGH, Beschluss vom 21.05.2003 - 1 StR 145/03](1-str-145-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 21.05.2003 - 1 StR 152/03](1-str-152-03.md) — Geiselnahme u.a.
 - [BGH, Beschluss vom 21.05.2003 - 1 StR 154/03](1-str-154-03.md) — versuchter Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.05.2003 - 1 StR 181/03](1-str-181-03.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 20.05.2003 - 1 StR 22/03](1-str-22-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 14.05.2003 - 1 StR 113/03](1-str-113-03.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 14.05.2003 - 1 StR 122/03](1-str-122-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 13.05.2003 - 1 StR 133/03](1-str-133-03.md) — Mordes
 - [BGH, Urteil vom 13.05.2003 - 1 StR 529/02](1-str-529-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 30.04.2003 - 1 StR 91/03](1-str-91-03.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 29.04.2003 - 1 StR 143/03](1-str-143-03.md) — Totschlags
 - [BGH, Beschluss vom 29.04.2003 - 1 StR 88/03](1-str-88-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 15.04.2003 - 1 StR 64/03](1-str-64-03.md) — Veröffentlichung: ja ______________________ StPO § 255a Abs. 2 Die vernehmungsersetzende Vorführung der Bild-Ton-Aufzeichnung einer früheren richterlichen Vernehmung in der …
+- [BGH, Beschluss vom 15.04.2003 - 1 StR 82/03](1-str-82-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Urteil vom 27.03.2003 - 1 StR 524/02](1-str-524-02.md) — Vergewaltigung
 - [BGH, Verfügung vom 26.03.2003 - 1 StR 549/02](1-str-549-02.md) — Veröffentlichung: ja _________________________ StGB § 306 1. Bei der Inbrandsetzung von Sachen juristischer Personen (§ 306 Abs. 1 StGB) obliegt die Erteilung der Einwilligung …
+- [BGH, Beschluss vom 26.03.2003 - 1 StR 67/03](1-str-67-03.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 26.03.2003 - 1 StR 79/03](1-str-79-03.md) — schwerer räuberischer Erpressung
-- [BGH, Urteil vom 25.03.2003 - 1 StR 483/02](1-str-483-02.md) — Mordes
 - [BGH, Beschluss vom 25.03.2003 - 1 StR 9/03](1-str-9-03.md) — unerlaubten Überlassens von Betäubungsmitteln zum unmittelbaren Verbrauch an eine Person unter 18 Jahren u. a.
 - [BGH, Beschluss vom 12.03.2003 - 1 StR 534/02](1-str-534-02.md) — Vergewaltigung zu 2. wegen Beihilfe zur Vergewaltigung
+- [BGH, Beschluss vom 12.03.2003 - 1 StR 68/03](1-str-68-03.md) — Veröffentlichung: ja ___________________________ StPO §§ 22 Nr. 5, 244 Abs. 3 Zur Bescheidung eines Beweisantrags auf Vernehmung von Mitgliedern des erkennenden Gerichts als …
 - [BGH, Urteil vom 11.03.2003 - 1 StR 266/02](1-str-266-02.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 11.03.2003 - 1 StR 458/02](1-str-458-02.md) — Totschlags
 - [BGH, Beschluss vom 11.03.2003 - 1 StR 50/03](1-str-50-03.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
@@ -60,12 +116,26 @@
 - [BGH, Beschluss vom 11.03.2003 - 1 StR 60/03](1-str-60-03.md) — Verbreitung pornographischer Schriften
 - [BGH, Entscheidung vom 02.03.2003 - 1 StR 25/04](1-str-25-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 26.02.2003 - 1 StR 7/03](1-str-7-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 25.02.2003 - 1 StR 15/03](1-str-15-03.md) — Bestimmens einer Person unter 18 Jahren zum unerlaubten Handeltreiben mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 25.02.2003 - 1 StR 474/02](1-str-474-02.md) — Mordes u.a.
+- [BGH, Urteil vom 12.02.2003 - 1 StR 403/02](1-str-403-02.md) — Veröffentlichung: ja ______________________ StGB § 211 Abs. 2, § 32 1. Der Erpresser ist in einer von ihm gesuchten Konfrontation mit dem Erpreßten gegenüber einem wehrenden …
+- [BGH, Beschluss vom 12.02.2003 - 1 StR 501/02](1-str-501-02.md) — schweren Raubes
 - [BGH, Beschluss vom 11.02.2003 - 1 StR 18/03](1-str-18-03.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 11.02.2003 - 1 StR 517/02](1-str-517-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Entscheidung vom 29.01.2003 - 1 StR 494/02](1-str-494-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 29.01.2003 - 1 StR 500/02](1-str-500-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Entscheidung vom 29.01.2003 - 1 StR 519/02](1-str-519-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 29.01.2003 - 1 StR 535/02](1-str-535-02.md) — Diebstahls u.a.
+- [BGH, Urteil vom 28.01.2003 - 1 StR 393/02](1-str-393-02.md) — gewerbsmäßiger Bandenhehlerei u. a.
 - [BGH, Beschluss vom 28.01.2003 - 1 StR 532/02](1-str-532-02.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 16.01.2003 - 1 StR 352/02](1-str-352-02.md) — Betrugs u.a.
 - [BGH, Beschluss vom 16.01.2003 - 1 StR 473/02](1-str-473-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 16.01.2003 - 1 StR 512/02](1-str-512-02.md) — gefährlicher Körperverletzung u.a.
 - [BGH, Beschluss vom 16.01.2003 - 1 StR 531/02](1-str-531-02.md) — BGH, Beschluss vom 16.01.2003 - 1 StR 531/02
+- [BGH, Beschluss vom 15.01.2003 - 1 StR 464/02](1-str-464-02.md) — Veröffentlichung: ja ___________________ StPO § 261 Bei der Verurteilung eines Angeklagten aufgrund von Geständnissen der Mitangeklagten, die Gegenstand einer verfahrensbeendenden …
+- [BGH, Beschluss vom 15.01.2003 - 1 StR 496/02](1-str-496-02.md) — Totschlags u.a.
+- [BGH, Beschluss vom 15.01.2003 - 1 StR 506/02](1-str-506-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 15.01.2003 - 1 StR 511/02](1-str-511-02.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 14.01.2003 - 1 StR 357/02](1-str-357-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 14.01.2003 - 1 StR 457/02](1-str-457-02.md) — Tötung auf Verlangen u.a.
 - [BGH, Entscheidung vom 14.01.2003 - 1 StR 502/02](1-str-502-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …

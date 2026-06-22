@@ -1,7 +1,8 @@
 # Senat für Anwaltssachen – 2000
 
-35 Entscheidung(en).
+66 Entscheidung(en).
 
+- [BGH, Beschluss vom 30.11.2000 - AnwZ (B) 53/99](anwz-b-53-99.md) — Widerrufs der Zulassung
 - [BGH, Beschluss vom 06.11.2000 - AnwZ (B) 1/00](anwz-b-1-00.md) — Widerrufs der Zulassung sowie Anordnung der sofortigen Vollziehung
 - [BGH, Beschluss vom 06.11.2000 - AnwZ (B) 3/00](anwz-b-3-00.md) — Antrags auf gerichtliche Entscheidung gemäß § 223 BRAO
 - [BGH, Beschluss vom 06.11.2000 - AnwZ (B) 73/99](anwz-b-73-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
@@ -9,11 +10,18 @@
 - [BGH, Beschluss vom 06.11.2000 - AnwZ (B) 76/99](anwz-b-76-99.md) — Aufnahme in die Rechtsanwaltskammer
 - [BGH, Beschluss vom 06.11.2000 - AnwZ (B) 77/99](anwz-b-77-99.md) — Festsetzung von Verwaltungsgebühren
 - [BGH, Beschluss vom 06.11.2000 - AnwZ (B) 78/99](anwz-b-78-99.md) — Widerrufs einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 27.10.2000 - AnwZ (B) 81/99](anwz-b-81-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Entscheidung über die Selbstablehnung eines Richters
 - [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 60/99](anwz-b-60-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 61/99](anwz-b-61-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 62/99](anwz-b-62-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 63/99](anwz-b-63-99.md) — Anfechtung einer Vorstandswahl
+- [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 65/99](anwz-b-65-99.md) — anwaltlicher Werbung
 - [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 66/99](anwz-b-66-99.md) — Erlaß einstweiliger Verfügungen
+- [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 68/99](anwz-b-68-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 71/99](anwz-b-71-99.md) — Anfechtung von Beschlüssen der Kammerversammlung
 - [BGH, Beschluss vom 16.10.2000 - AnwZ (B) 72/99](anwz-b-72-99.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 11.10.2000 - AnwZ (B) 54/99](anwz-b-54-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 08.09.2000 - AnwZ (B) 12/00](anwz-b-12-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 30.08.2000 - AnwZ (B) 46/99](anwz-b-46-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 15.08.2000 - AnwZ (B) 40/00](anwz-b-40-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 10.07.2000 - AnwZ (B) 3/99](anwz-b-3-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
@@ -28,12 +36,35 @@
 - [BGH, Beschluss vom 19.06.2000 - AnwZ (B) 58/99](anwz-b-58-99.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 19.06.2000 - AnwZ (B) 59/99](anwz-b-59-99.md) — Erlaubnis zur Führung einer Fachanwaltsbezeichnung
 - [BGH, Beschluss vom 19.06.2000 - AnwZ (B) 90/98](anwz-b-90-98.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.06.2000 - AnwZ (B) 28/98](anwz-b-28-98.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 33/99](anwz-b-33-99.md) — Verleihung einer Fachanwaltsbezeichnung
 - [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 34/99](anwz-b-34-99.md) — Erlasses einer einstweiligen Anordnung auf Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 35/99](anwz-b-35-99.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 36/99](anwz-b-36-99.md) — Wiedereinsetzung in den vorigen Stand
+- [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 37/99](anwz-b-37-99.md) — Festsetzung der Vergütung für die Kanzleiabwicklung
 - [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 38/99](anwz-b-38-99.md) — Festsetzung eines Zwangsgeldes
 - [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 42/99](anwz-b-42-99.md) — Kostentscheidung nach Erledigung der Hauptsache
 - [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 43/99](anwz-b-43-99.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.05.2000 - AnwZ (B) 45/99](anwz-b-45-99.md) — Führung der Berufsbezeichnung Rechtsanwalt
+- [BGH, Beschluss vom 28.03.2000 - AnwZ (B) 32/99](anwz-b-32-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 20/99](anwz-b-20-99.md) — Gestattung der Führung der Bezeichnung "Fachanwalt für Verwaltungsrecht"
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 23/99](anwz-b-23-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 24/99](anwz-b-24-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 25/99](anwz-b-25-99.md) — Verleihung der Bezeichnung "Fachanwalt für Arbeitsrecht"
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 26/99](anwz-b-26-99.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 28/99](anwz-b-28-99.md) — Widerrufs der Erlaubnis zur Rechtsberatung
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 29/99](anwz-b-29-99.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 30/99](anwz-b-30-99.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 31/99](anwz-b-31-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.03.2000 - AnwZ (B) 66/98](anwz-b-66-98.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 12/99](anwz-b-12-99.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 13/99](anwz-b-13-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 15/99](anwz-b-15-99.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 16/99](anwz-b-16-99.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 8 BRAO a.F.) widerrufen. Den dagegen gerichteten Antrag auf gerichtliche Entscheidung hat der Anwaltsgeri
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 17/98](anwz-b-17-98.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 17/99](anwz-b-17-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 18/99](anwz-b-18-99.md) — Schwäche seiner geistigen Kräfte nicht nur vorübergehend unfähig ist, den Beruf eines Rechtsanwalts ordnungsgemäß auszuüben (§ 14 Abs. 2 Nr.
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 19/99](anwz-b-19-99.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 7/99](anwz-b-7-99.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 8/99](anwz-b-8-99.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 9/99](anwz-b-9-99.md) — Zulassung zur Rechtsanwaltschaft

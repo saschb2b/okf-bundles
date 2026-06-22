@@ -1,50 +1,116 @@
 # XII. Zivilsenat – 2009
 
-46 Entscheidung(en).
+112 Entscheidung(en).
 
 - [BGH, Beschluss vom 28.12.2009 - XII ZB 225/09](xii-zb-225-09.md) — Gefahr
 - [BGH, Beschluss vom 16.12.2009 - XII ZB 20/09](xii-zb-20-09.md) — BGH, Beschluss vom 16.12.2009 - XII ZB 20/09
 - [BGH, Urteil vom 16.12.2009 - XII ZR 124/06](xii-zr-124-06.md) — des auf den Betrag von 15.163,44 € (1/2
 - [BGH, Urteil vom 16.12.2009 - XII ZR 146/07](xii-zr-146-07.md) — Tatbestand:
 - [BGH, Urteil vom 16.12.2009 - XII ZR 50/08](xii-zr-50-08.md) — Betreuung eines nichtehelich geborenen Kindes bemisst sich jedenfalls nach einem Mindestbedarf in Höhe des Existenzminimums, der unterhaltsr
+- [BGH, Beschluss vom 09.12.2009 - XII ZB 154/09](xii-zb-154-09.md) — der Versäumung der Beschwerdebegründungsfrist gewährt.
+- [BGH, Beschluss vom 09.12.2009 - XII ZB 175/07](xii-zb-175-07.md) — grundsätzlicher Bedeutung zugelassen. Daran ist der Senat
+- [BGH, Beschluss vom 09.12.2009 - XII ZB 215/09](xii-zb-215-09.md) — I. 1 Das Amtsgericht - Betreuungsgericht - hat durch Beschluss vom 24. Sep- tember 2009 einen Grundstückskaufvertrag genehmigt, den der Beteiligte zu 1 (Betreuer) für den …
+- [BGH, Beschluss vom 09.12.2009 - XII ZB 79/06](xii-zb-79-06.md) — I. 1 Die Parteien streiten darüber, ob ein von dem Beklagten an die Klägerin geleisteter Prozesskostenvorschuss auf den sich nach der Kostenausgleichung ergebenden …
+- [BGH, Urteil vom 09.12.2009 - XII ZR 107/08](xii-zr-107-08.md) — Tatbestand:
 - [BGH, Urteil vom 09.12.2009 - XII ZR 109/08](xii-zr-109-08.md) — Tatbestand:
+- [BGH, Beschluss vom 02.12.2009 - XII ZB 207/08](xii-zb-207-08.md) — I. 1 Die Parteien streiten noch um die Kostenquote aus ihrem Unterhalts- rechtsstreit. 2 Die Klägerin zu 1 und der Beklagte sind geschiedene Ehegatten, die Klägerinnen zu 2 und 3 …
 - [BGH, Urteil vom 02.12.2009 - XII ZR 117/08](xii-zr-117-08.md) — Tatbestand:
 - [BGH, Beschluss vom 25.11.2009 - XII ZB 46/09](xii-zb-46-09.md) — BGH, Beschluss vom 25.11.2009 - XII ZB 46/09
 - [BGH, Beschluss vom 25.11.2009 - XII ZB 70/09](xii-zb-70-09.md) — Versäumung der Berufungsbegründungsfrist beantragt. Zugleich hat der Beklagte seine Berufung begründet.
+- [BGH, Urteil vom 25.11.2009 - XII ZR 211/08](xii-zr-211-08.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2009 - XII ZR 8/08](xii-zr-8-08.md) — Änderung der Geschäftsgrundlage (§ 313 BGB) durch geänderte tatsächliche Verhältnisse seit Vertragsschluss oder durch eine Änderung des Gese
+- [BGH, Versäumnisurteil vom 25.11.2009 - XII ZR 92/06](xii-zr-92-06.md) — Tatbestand:
 - [BGH, Beschluss vom 18.11.2009 - XII ZB 152/09](xii-zb-152-09.md) — der Versäumung der Frist zur Begründung der Rechtsbeschwerde gegen den Beschluss des 12. Zivilsenats des Kammergerichts vom 6. April 2009 Wi
+- [BGH, Beschluss vom 18.11.2009 - XII ZB 79/09](xii-zb-79-09.md) — I. 1 Der Kläger begehrt die Abänderung eines Urteils auf Zahlung nacheheli- chen Unterhalts. Das Amtsgericht - Familiengericht - hat der Klage durch ein der Beklagten am 27 …
 - [BGH, Urteil vom 18.11.2009 - XII ZR 173/06](xii-zr-173-06.md) — Tatbestand:
+- [BGH, Urteil vom 18.11.2009 - XII ZR 65/09](xii-zr-65-09.md) — Kinderbetreuung in Frage, so haben elternbezogene Gründe nach § 1570 Abs. 2 BGB, die auf der Rollenverteilung in der neuen Ehe beruhen, grun
 - [BGH, Beschluss vom 11.11.2009 - XII ZB 117/09](xii-zb-117-09.md) — Versäumung der Berufungsbegründungsfrist beantragt.
 - [BGH, Beschluss vom 11.11.2009 - XII ZB 174/08](xii-zb-174-08.md) — I. 1 Das Amtsgericht - Familiengericht - hat durch Urteil vom 29. April 2008 die Ehe der Parteien geschieden, den Versorgungsausgleich durchgeführt und in den Folgesachen …
 - [BGH, Urteil vom 11.11.2009 - XII ZR 210/05](xii-zr-210-05.md) — Tatbestand:
 - [BGH, Urteil vom 11.11.2009 - XII ZR 210/08](xii-zr-210-08.md) — Tatbestand:
 - [BGH, Urteil vom 04.11.2009 - XII ZR 170/07](xii-zr-170-07.md) — Tatbestand:
+- [BGH, Urteil vom 04.11.2009 - XII ZR 86/07](xii-zr-86-07.md) — Tatbestand:
 - [BGH, Beschluss vom 28.10.2009 - XII ZB 107/09](xii-zb-107-09.md) — I. 1 Der auf Zahlung von Zugewinnausgleich gerichtete Antrag der Antrags- gegnerin (Ehefrau) wurde durch Urteil des Amtsgerichts vom 18. November 2008, der Ehefrau zugestellt am …
 - [BGH, Beschluss vom 21.10.2009 - XII ZB 66/08](xii-zb-66-08.md) — I. 1 Der Beteiligte zu 1 begehrt - als Berufsbetreuer des Betroffenen - für die Zeit vom 1. Oktober 2005 bis 31. Dezember 2005 Vergütung und Ersatz seiner Auslagen. 2 Der 1956 …
+- [BGH, Urteil vom 14.10.2009 - XII ZR 146/08](xii-zr-146-08.md) — zu beachten ist und schützenswerte Belange einer Partei nicht entgegenstehen.
+- [BGH, Beschluss vom 07.10.2009 - XII ZR 173/07](xii-zr-173-07.md) — BGH, Beschluss vom 07.10.2009 - XII ZR 173/07
 - [BGH, Urteil vom 07.10.2009 - XII ZR 175/07](xii-zr-175-07.md) — Tatbestand:
+- [BGH, Beschluss vom 30.09.2009 - XII ZB 135/07](xii-zb-135-07.md) — grundsätzlicher Bedeutung zugelassen hat. Daran ist der Senat gebun-
 - [BGH, Urteil vom 30.09.2009 - XII ZR 39/08](xii-zr-39-08.md) — Tatbestand:
+- [BGH, Urteil vom 16.09.2009 - XII ZR 71/07](xii-zr-71-07.md) — Tatbestand:
 - [BGH, Urteil vom 16.09.2009 - XII ZR 72/07](xii-zr-72-07.md) — Tatbestand:
 - [BGH, Urteil vom 16.09.2009 - XII ZR 73/07](xii-zr-73-07.md) — Tatbestand:
+- [BGH, Urteil vom 16.09.2009 - XII ZR 74/07](xii-zr-74-07.md) — Tatbestand:
+- [BGH, Beschluss vom 02.09.2009 - XII ZA 8/07](xii-za-8-07.md) — im Rahmen der Vollstreckbarerklärung zu berücksichtigen. Das dürfte nach dem Sachvortrag der Parteien für den Betrag in Höhe von 111.835 CHF
+- [BGH, Beschluss vom 02.09.2009 - XII ZB 50/06](xii-zb-50-06.md) — Missachtung des Gerichts (contempt of court) vom Verfahren ausgeschlossen und seine Beschwerde gegen den Ausschluss deshalb als unzulässig z
+- [BGH, Beschluss vom 02.09.2009 - XII ZB 92/07](xii-zb-92-07.md) — Alters oder Invalidität ist. Von einer Realteilung ist in diesem Fall abzusehen.
+- [BGH, Beschluss vom 26.08.2009 - XII ZB 169/07](xii-zb-169-07.md) — eines Verstoßes gegen den verfahrensrechtlichen ordre public nicht in der Bundesrepublik Deutschland anerkannt werden (Abgrenzung zu den Sen
 - [BGH, Beschluss vom 12.08.2009 - XII ZA 30/09](xii-za-30-09.md) — BGH, Beschluss vom 12.08.2009 - XII ZA 30/09
-- [BGH, Beschluss vom 12.08.2009 - XII ZB 12/05](xii-zb-12-05.md) — BGH, Beschluss vom 12.08.2009 - XII ZB 12/05
+- [BGH, Urteil vom 12.08.2009 - XII ZR 76/08](xii-zr-76-08.md) — Tatbestand:
+- [BGH, Beschluss vom 22.07.2009 - XII ZB 176/06](xii-zb-176-06.md) — I. 1 Die Parteien haben am 19. April 1974 geheiratet. Der Scheidungsantrag der Ehefrau (Antragstellerin; geboren am 24. September 1938) ist dem Ehe- mann (Antragsgegner; geboren …
 - [BGH, Beschluss vom 22.07.2009 - XII ZB 191/06](xii-zb-191-06.md) — BGH, Beschluss vom 22.07.2009 - XII ZB 191/06
+- [BGH, Teilurteil vom 22.07.2009 - XII ZR 77/06](xii-zr-77-06.md) — Tatbestand:
 - [BGH, Beschluss vom 01.07.2009 - XII ZR 50/09](xii-zr-50-09.md) — BGH, Beschluss vom 01.07.2009 - XII ZR 50/09
+- [BGH, Beschluss vom 01.07.2009 - XII ZR 9/08](xii-zr-9-08.md) — 1. a) Das Ablehnungsgesuch ist rechtsmissbräuchlich und damit unzu- lässig. Bei der Ablehnung eines Richters müssen ernsthafte Umstände ange- führt werden, die die Befangenheit …
+- [BGH, Beschluss vom 01.07.2009 - XII ZR 93/07](xii-zr-93-07.md) — dargelegt sind. Die allein prozessuale Verknüpfung der Klagen reicht für eine Zusammenrechnung nicht aus (Abgrenzung zu Senatsurteil vom 25. Oktober 2006 - XII ZR 141/04 FamRZ …
 - [BGH, Beschluss vom 24.06.2009 - XII ZB 137/07](xii-zb-137-07.md) — I. 1 Die Parteien streiten um schuldrechtlichen Versorgungsausgleich. 2 Die Antragstellerin (Ehefrau, geboren am 16. Januar 1941) und der An- tragsgegner (Ehemann, geboren am 24 …
 - [BGH, Beschluss vom 24.06.2009 - XII ZB 160/07](xii-zb-160-07.md) — des Grundsatzes des ehezeitbezogenen Erwerbs die bei Ehezeitende erreichte Gehaltsstufe maßgeblich.
+- [BGH, Urteil vom 24.06.2009 - XII ZR 145/07](xii-zr-145-07.md) — Tatbestand:
+- [BGH, Urteil vom 24.06.2009 - XII ZR 161/08](xii-zr-161-08.md) — Tatbestand:
 - [BGH, Beschluss vom 17.06.2009 - XII ZB 75/07](xii-zb-75-07.md) — BGH, Beschluss vom 17.06.2009 - XII ZB 75/07
 - [BGH, Beschluss vom 17.06.2009 - XII ZB 82/09](xii-zb-82-09.md) — BGH, Beschluss vom 17.06.2009 - XII ZB 82/09
 - [BGH, Urteil vom 17.06.2009 - XII ZR 102/08](xii-zr-102-08.md) — 3-
+- [BGH, Beschluss vom 10.06.2009 - XII ZB 182/08](xii-zb-182-08.md) — eingetretener Komplikatio-
 - [BGH, Versäumnisurteil vom 10.06.2009 - XII ZR 19/08](xii-zr-19-08.md) — BGH, Versäumnisurteil vom 10.06.2009 - XII ZR 19/08
 - [BGH, Urteil vom 27.05.2009 - XII ZR 111/08](xii-zr-111-08.md) — Tatbestand:
 - [BGH, Urteil vom 27.05.2009 - XII ZR 78/08](xii-zr-78-08.md) — Tatbestand:
 - [BGH, Beschluss vom 20.05.2009 - XII ZB 166/08](xii-zb-166-08.md) — BGH, Beschluss vom 20.05.2009 - XII ZB 166/08
+- [BGH, Urteil vom 20.05.2009 - XII ZR 94/07](xii-zr-94-07.md) — Tatbestand:
 - [BGH, Beschluss vom 13.05.2009 - XII ZB 169/06](xii-zb-169-06.md) — vorzeitiger Inanspruchnahme unmittelbar gekürzt worden (hier nach § 33 Abs. 3 RZVK-S), so hat die Kürzung im Versorgungsausgleich grundsätzl
+- [BGH, Beschluss vom 06.05.2009 - XII ZB 24/07](xii-zb-24-07.md) — I. 1 Die Parteien streiten um die Abänderung einer Verbundentscheidung zum Versorgungsausgleich. 2 Die am 14. April 1960 geschlossene Ehe der Parteien wurde aufgrund eines am 11 …
 - [BGH, Beschluss vom 06.05.2009 - XII ZB 68/09](xii-zb-68-09.md) — BGH, Beschluss vom 06.05.2009 - XII ZB 68/09
+- [BGH, Beschluss vom 06.05.2009 - XII ZB 81/08](xii-zb-81-08.md) — I. 1 Die Ehe der Parteien, die durch Ehevertrag vom 19. Juni 1979 u. a. den Versorgungsausgleich ausgeschlossen hatten, wurde durch Urteil des Amtsge- richts - Familiengericht - …
+- [BGH, Urteil vom 06.05.2009 - XII ZR 114/08](xii-zr-114-08.md) — aus, weil § 1570 BGB in der seit dem 1. Januar 2008 geltenden Fassung insoweit eine Sonderregelung für die Billigkeitsabwägung enthält. Eine
+- [BGH, Urteil vom 06.05.2009 - XII ZR 137/07](xii-zr-137-07.md) — Tatbestand:
+- [BGH, Beschluss vom 29.04.2009 - XII ZB 182/07](xii-zb-182-07.md) — einer vor der Regelaltersgrenze liegenden Inanspruchnahme unmittelbar gekürzt worden, so hat die Kürzung im Versorgungsausgleich außer Betra
+- [BGH, Urteil vom 29.04.2009 - XII ZR 142/07](xii-zr-142-07.md) — Tatbestand:
+- [BGH, Beschluss vom 29.04.2009 - XII ZR 209/08](xii-zr-209-08.md) — BGH, Beschluss vom 29.04.2009 - XII ZR 209/08
+- [BGH, Urteil vom 29.04.2009 - XII ZR 66/07](xii-zr-66-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.04.2009 - XII ZR 67/07](xii-zr-67-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.04.2009 - XII ZR 69/07](xii-zr-69-07.md) — Tatbestand:
 - [BGH, Beschluss vom 22.04.2009 - XII ZB 167/08](xii-zb-167-08.md) — I. 1 Gegen das ihm am 6. Juni 2008 zugestellte Urteil des Familiengerichts, mit dem der Beklagte zur Zahlung erhöhten Kindesunterhalts an die Kläger ver- urteilt wurde, legte …
 - [BGH, Beschluss vom 22.04.2009 - XII ZB 49/07](xii-zb-49-07.md) — BGH, Beschluss vom 22.04.2009 - XII ZB 49/07
+- [BGH, Beschluss vom 01.04.2009 - XII ZB 12/07](xii-zb-12-07.md) — vorzeitiger Beendigung des
+- [BGH, Beschluss vom 01.04.2009 - XII ZB 46/08](xii-zb-46-08.md) — Beteiligung an der Tat zu ei-
+- [BGH, Urteil vom 01.04.2009 - XII ZR 95/07](xii-zr-95-07.md) — Tatbestand:
+- [BGH, Beschluss vom 25.03.2009 - XII ZB 150/08](xii-zb-150-08.md) — Versäumung der Berufungsbegründungsfrist beantragt.
+- [BGH, Beschluss vom 25.03.2009 - XII ZB 27/09](xii-zb-27-09.md) — Das Rechtsmittel ist nicht statthaft. Gegen Beschwerdeentscheidungen der Oberlandesgerichte in Familiensachen des § 621 Abs. 1 Nr. 1 bis 3, 6, 10 in Verfahren nach § 1600 e Abs. 2 …
+- [BGH, Urteil vom 25.03.2009 - XII ZR 117/07](xii-zr-117-07.md) — Tatbestand:
+- [BGH, Urteil vom 25.03.2009 - XII ZR 75/06](xii-zr-75-06.md) — als gesetzlicher Richter anzusehen ist. Das Recht auf den gesetzlichen Richter ist unverzichtbar.
+- [BGH, Beschluss vom 18.03.2009 - XII ZA 2/09](xii-za-2-09.md) — BGH, Beschluss vom 18.03.2009 - XII ZA 2/09
 - [BGH, Beschluss vom 18.03.2009 - XII ZB 188/05](xii-zb-188-05.md) — BGH, Beschluss vom 18.03.2009 - XII ZB 188/05
+- [BGH, Beschluss vom 18.03.2009 - XII ZB 92/08](xii-zb-92-08.md) — eines offensichtlichen Schreibfehlers dahin berichtigt, dass das Datum des angefochtenen Beschlusses
+- [BGH, Beschluss vom 18.03.2009 - XII ZB 94/06](xii-zb-94-06.md) — Kindesbetreuung alsbald aus dem Berufsleben ausscheiden und bis auf weiteres keine eigenen Versorgungsanrechte (abgesehen von Kindererziehun
+- [BGH, Urteil vom 18.03.2009 - XII ZR 200/06](xii-zr-200-06.md) — Tatbestand:
+- [BGH, Urteil vom 18.03.2009 - XII ZR 74/08](xii-zr-74-08.md) — Tatbestand:
+- [BGH, Beschluss vom 04.03.2009 - XII ZB 117/07](xii-zb-117-07.md) — des 60 Monate vor der Regelaltersgrenze liegenden Leis-
+- [BGH, Urteil vom 04.03.2009 - XII ZR 141/07](xii-zr-141-07.md) — Tatbestand:
+- [BGH, Urteil vom 04.03.2009 - XII ZR 18/08](xii-zr-18-08.md) — geschlossen werden, weil es der Mutter bewusst war, dass der gesetzliche Unterhalt durch die Vereinbarung nicht ausgeschöpft wird.
+- [BGH, Beschluss vom 04.03.2009 - XII ZR 198/08](xii-zr-198-08.md) — I. 1 Der Beklagte ist vom Berufungsgericht aufgrund eines von ihm bei Be- sichtigung einer dem Kläger gehörenden Wohnung, die er zu geschäftlichen Zwecken anzumieten …
+- [BGH, Beschluss vom 25.02.2009 - XII ZB 224/06](xii-zb-224-06.md) — der Ver-
+- [BGH, Beschluss vom 18.02.2009 - XII ZB 137/08](xii-zb-137-08.md) — aufzuklären, außerdem durch
+- [BGH, Beschluss vom 18.02.2009 - XII ZB 221/06](xii-zb-221-06.md) — I. 1 Der am 29. Mai 1962 geborene Antragsteller (im Folgenden: Ehemann) und die am 17. September 1962 geborene Antragsgegnerin (im Folgenden: Ehefrau) haben am 20. Dezember 1991 …
 - [BGH, Beschluss vom 18.02.2009 - XII ZB 54/06](xii-zb-54-06.md) — BGH, Beschluss vom 18.02.2009 - XII ZB 54/06
+- [BGH, Urteil vom 18.02.2009 - XII ZR 156/07](xii-zr-156-07.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 18.02.2009 - XII ZR 163/07](xii-zr-163-07.md) — Zweckverfehlung setzt voraus, dass mit dem Empfänger der Leistung eine Willensübereinstimmung über den mit der Leistung verfolgten Zweck erz
 - [BGH, Beschluss vom 11.02.2009 - XII ZB 101/05](xii-zb-101-05.md) — BGH, Beschluss vom 11.02.2009 - XII ZB 101/05
+- [BGH, Beschluss vom 11.02.2009 - XII ZB 184/04](xii-zb-184-04.md) — I. 1 Beide Parteien sind niederländische Staatsangehörige. Ihre am 11. März 1965 geschlossene Ehe wurde durch Entscheidung der "Rechtsbank's Graven- hage"/Niederlande vom 25. März …
+- [BGH, Urteil vom 11.02.2009 - XII ZR 114/06](xii-zr-114-06.md) — Tatbestand:
+- [BGH, Beschluss vom 28.01.2009 - XII ZB 121/08](xii-zb-121-08.md) — I. 1 Der im Wege der Stufenklage auf Auskunft und Zugewinnausgleich in Anspruch genommene Beklagte wurde durch Teilurteil des Amtsgerichts verur- teilt, 1. a) Der Klägerin …
+- [BGH, Urteil vom 28.01.2009 - XII ZR 119/07](xii-zr-119-07.md) — Tatbestand:
 - [BGH, Urteil vom 21.01.2009 - XII ZR 21/07](xii-zr-21-07.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2009 - XII ZR 54/06](xii-zr-54-06.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2009 - XII ZR 79/07](xii-zr-79-07.md) — Tatbestand:
 - [BGH, Beschluss vom 14.01.2009 - XII ZB 146/08](xii-zb-146-08.md) — BGH, Beschluss vom 14.01.2009 - XII ZB 146/08
+- [BGH, Beschluss vom 14.01.2009 - XII ZB 178/05](xii-zb-178-05.md) — I. 1 Der am 13. März 1953 geborene Antragsteller (im Folgenden: Ehemann) und die am 13. Oktober 1958 geborene Antragsgegnerin (im Folgenden: Ehe- frau) haben am 24. August 1990 …
 - [BGH, Beschluss vom 14.01.2009 - XII ZB 74/08](xii-zb-74-08.md) — BGH, Beschluss vom 14.01.2009 - XII ZB 74/08

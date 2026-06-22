@@ -1,70 +1,157 @@
 # III. Zivilsenat – 2009
 
-66 Entscheidung(en).
+153 Entscheidung(en).
 
+- [BGH, Beschluss vom 17.12.2009 - III ZB 47/09](iii-zb-47-09.md) — I. 1 Die Klägerin nimmt die Beklagte auf Zahlung für einen Rettungsdienst- einsatz in Anspruch. 2 Die Klägerin ist als privatrechtliches gemeinnütziges Rettungsdienstun- ternehmen …
+- [BGH, Beschluss vom 17.12.2009 - III ZB 55/09](iii-zb-55-09.md) — einer nach seiner Auffas-
+- [BGH, Urteil vom 17.12.2009 - III ZR 14/08](iii-zr-14-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 3/08](iii-zr-3-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 31/08](iii-zr-31-08.md) — Tatbestand
+- [BGH, Beschluss vom 17.12.2009 - III ZR 319/08](iii-zr-319-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen im Streitfall nicht vor.
 - [BGH, Urteil vom 17.12.2009 - III ZR 4/08](iii-zr-4-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 41/08](iii-zr-41-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 47/08](iii-zr-47-08.md) — Tatbestand
 - [BGH, Urteil vom 17.12.2009 - III ZR 49/08](iii-zr-49-08.md) — Tatbestand
 - [BGH, Urteil vom 17.12.2009 - III ZR 5/08](iii-zr-5-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 54/08](iii-zr-54-08.md) — Tatbestand
 - [BGH, Urteil vom 17.12.2009 - III ZR 61/08](iii-zr-61-08.md) — Tatbestand
 - [BGH, Urteil vom 17.12.2009 - III ZR 62/08](iii-zr-62-08.md) — Tatbestand
+- [BGH, Beschluss vom 17.12.2009 - III ZR 66/09](iii-zr-66-09.md) — I. 1 Die Parteien streiten um die rechtliche Einordnung des zwischen ihnen bestehenden Nutzungsverhältnisses über eine im Eigentum der Kläger befind- liche Teilfläche von 13.835 …
+- [BGH, Urteil vom 03.12.2009 - III ZR 139/09](iii-zr-139-09.md) — Tatbestand
 - [BGH, Urteil vom 03.12.2009 - III ZR 73/09](iii-zr-73-09.md) — Tatbestand
+- [BGH, Beschluss vom 26.11.2009 - III ZR 116/09](iii-zr-116-09.md) — eines erst nach Durchfüh-
 - [BGH, Beschluss vom 26.11.2009 - III ZR 316/08](iii-zr-316-08.md) — kann es
+- [BGH, Beschluss vom 26.11.2009 - III ZR 326/08](iii-zr-326-08.md) — ein, weil der
+- [BGH, Urteil vom 19.11.2009 - III ZR 108/08](iii-zr-108-08.md) — Tatbestand
+- [BGH, Urteil vom 19.11.2009 - III ZR 109/08](iii-zr-109-08.md) — Tatbestand
+- [BGH, Urteil vom 19.11.2009 - III ZR 169/08](iii-zr-169-08.md) — Tatbestand
+- [BGH, Urteil vom 12.11.2009 - III ZR 110/09](iii-zr-110-09.md) — Tatbestand
 - [BGH, Urteil vom 12.11.2009 - III ZR 113/09](iii-zr-113-09.md) — Tatbestand
 - [BGH, Urteil vom 05.11.2009 - III ZR 181/09](iii-zr-181-09.md) — Tatbestand
+- [BGH, Urteil vom 05.11.2009 - III ZR 224/08](iii-zr-224-08.md) — Tatbestand
 - [BGH, Urteil vom 05.11.2009 - III ZR 302/08](iii-zr-302-08.md) — Tatbestand
 - [BGH, Urteil vom 05.11.2009 - III ZR 6/09](iii-zr-6-09.md) — Tatbestand
 - [BGH, Beschluss vom 29.10.2009 - III ZA 18/09](iii-za-18-09.md) — BGH, Beschluss vom 29.10.2009 - III ZA 18/09
 - [BGH, Beschluss vom 29.10.2009 - III ZB 40/09](iii-zb-40-09.md) — der ihrer Ansicht nach zu niedrigen Streit-
 - [BGH, Beschluss vom 29.10.2009 - III ZB 73/09](iii-zb-73-09.md) — BGH, Beschluss vom 29.10.2009 - III ZB 73/09
+- [BGH, Beschluss vom 22.10.2009 - III ZR 250/08](iii-zr-250-08.md) — des Rangverlustes
+- [BGH, Urteil vom 22.10.2009 - III ZR 295/08](iii-zr-295-08.md) — Tatbestand
 - [BGH, Urteil vom 15.10.2009 - III ZR 310/08](iii-zr-310-08.md) — Tatbestand
 - [BGH, Versäumnisurteil vom 15.10.2009 - III ZR 8/09](iii-zr-8-09.md) — Tatbestand
-- [BGH, Urteil vom 08.10.2009 - III ZR 207/07](iii-zr-207-07.md) — Tatbestand
+- [BGH, Beschluss vom 08.10.2009 - III ZB 74/09](iii-zb-74-09.md) — BGH, Beschluss vom 08.10.2009 - III ZB 74/09
 - [BGH, Urteil vom 08.10.2009 - III ZR 241/08](iii-zr-241-08.md) — Tatbestand
-- [BGH, Urteil vom 08.10.2009 - III ZR 259/07](iii-zr-259-07.md) — Tatbestand
+- [BGH, Urteil vom 08.10.2009 - III ZR 93/09](iii-zr-93-09.md) — Tatbestand
+- [BGH, Urteil vom 01.10.2009 - III ZR 18/09](iii-zr-18-09.md) — menschenunwürdiger Haftbedingungen mit einer Gegenforderung auf Erstattung offener Kosten des Strafverfahrens aufzurechnen.
 - [BGH, Beschluss vom 24.09.2009 - III ZA 8/09](iii-za-8-09.md) — BGH, Beschluss vom 24.09.2009 - III ZA 8/09
+- [BGH, Beschluss vom 24.09.2009 - III ZR 96/09](iii-zr-96-09.md) — Der Rechtssache fehlt die grundsätzliche Bedeutung (§ 543 Abs.
+- [BGH, Beschluss vom 17.09.2009 - III ZA 11/09](iii-za-11-09.md) — Das gegen die vorbezeichneten Richter angebrachte Ablehnungsgesuch der Beklagten vom 31.
 - [BGH, Beschluss vom 17.09.2009 - III ZB 67/09](iii-zb-67-09.md) — BGH, Beschluss vom 17.09.2009 - III ZB 67/09
+- [BGH, Urteil vom 17.09.2009 - III ZR 207/08](iii-zr-207-08.md) — Tatbestand
 - [BGH, Beschluss vom 17.09.2009 - III ZR 249/08](iii-zr-249-08.md) — Zur Begründung verweist der Senat auf den Hinweisbeschluss vom 25.
 - [BGH, Beschluss vom 03.09.2009 - III ZA 16/09](iii-za-16-09.md) — BGH, Beschluss vom 03.09.2009 - III ZA 16/09
+- [BGH, Beschluss vom 27.08.2009 - III ZB 59/09](iii-zb-59-09.md) — "greifbarer Gesetzeswid-
 - [BGH, Beschluss vom 27.08.2009 - III ZB 60/09](iii-zb-60-09.md) — BGH, Beschluss vom 27.08.2009 - III ZB 60/09
 - [BGH, Beschluss vom 27.08.2009 - III ZB 62/09](iii-zb-62-09.md) — BGH, Beschluss vom 27.08.2009 - III ZB 62/09
 - [BGH, Beschluss vom 24.08.2009 - III ZB 65/09](iii-zb-65-09.md) — BGH, Beschluss vom 24.08.2009 - III ZB 65/09
 - [BGH, Beschluss vom 12.08.2009 - III ZA 15/09](iii-za-15-09.md) — Prozesskostenhilfe kann nur gewährt werden, wenn die beabsichtigte Rechtsverfolgung hinreichende Aussicht auf Erfolg hat (§ 114 ZPO).
 - [BGH, Urteil vom 23.07.2009 - III ZR 2/08](iii-zr-2-08.md) — Tatbestand
+- [BGH, Urteil vom 23.07.2009 - III ZR 306/07](iii-zr-306-07.md) — Tatbestand
 - [BGH, Urteil vom 23.07.2009 - III ZR 323/07](iii-zr-323-07.md) — Tatbestand
+- [BGH, Urteil vom 16.07.2009 - III ZR 21/09](iii-zr-21-09.md) — Invalidität gegen den Unfallversicherer ernsthaft in Betracht kommen.
 - [BGH, Urteil vom 16.07.2009 - III ZR 298/08](iii-zr-298-08.md) — zu erstattende und nicht (nur) der von der Landesjustizverwaltung zuerkannte Betrag maßgeblich ist.
 - [BGH, Urteil vom 16.07.2009 - III ZR 299/08](iii-zr-299-08.md) — Tatbestand
 - [BGH, Urteil vom 09.07.2009 - III ZR 104/08](iii-zr-104-08.md) — des von ihm nachgewiesenen oder vermittelten Kaufvertrags den Verkäufer wegen arglistig verschwiegener Mängel auf den "großen Schadensersatz
+- [BGH, Urteil vom 09.07.2009 - III ZR 46/08](iii-zr-46-08.md) — durchzuführenden Prüfung, ob die deutsche Gerichtsbarkeit gegeben ist, auch dann nicht entgegen, wenn es unangefochten geblieben ist.
 - [BGH, Urteil vom 02.07.2009 - III ZR 303/08](iii-zr-303-08.md) — Tatbestand
 - [BGH, Urteil vom 02.07.2009 - III ZR 333/08](iii-zr-333-08.md) — Tatbestand
+- [BGH, Beschluss vom 25.06.2009 - III ZA 10/09](iii-za-10-09.md) — statthaft, da sich die
 - [BGH, Beschluss vom 25.06.2009 - III ZB 75/08](iii-zb-75-08.md) — BGH, Beschluss vom 25.06.2009 - III ZB 75/08
 - [BGH, Beschluss vom 25.06.2009 - III ZB 99/08](iii-zb-99-08.md) — BGH, Beschluss vom 25.06.2009 - III ZB 99/08
 - [BGH, Beschluss vom 25.06.2009 - III ZR 222/08](iii-zr-222-08.md) — behaupteter Mängel des Prospekts begehrt der Kläger Zug um
+- [BGH, Beschluss vom 25.06.2009 - III ZR 223/08](iii-zr-223-08.md) — behaupteter Mängel des Prospekts hat der Kläger Zug um Zug
+- [BGH, Beschluss vom 25.06.2009 - III ZR 228/08](iii-zr-228-08.md) — BGH, Beschluss vom 25.06.2009 - III ZR 228/08
+- [BGH, Beschluss vom 25.06.2009 - III ZR 243/08](iii-zr-243-08.md) — Soweit die Beklagte ihre Verurteilung zur Leistung von Schadensersatz dem Grunde nach angreift und die uneingeschränkte Feststellung ihrer Scha- densersatzverpflichtung in Bezug …
 - [BGH, Beschluss vom 25.06.2009 - III ZR 278/08](iii-zr-278-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen nicht vor.
+- [BGH, Beschluss vom 25.06.2009 - III ZR 279/08](iii-zr-279-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen nicht vor.
+- [BGH, Beschluss vom 25.06.2009 - III ZR 314/08](iii-zr-314-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen nicht vor.
+- [BGH, Urteil vom 04.06.2009 - III ZR 144/05](iii-zr-144-05.md) — seiner Besonderheiten nicht der Inanspruchnahme fachgerichtlichen Primärrechtsschutzes gleichgestellt wer-
+- [BGH, Urteil vom 04.06.2009 - III ZR 187/08](iii-zr-187-08.md) — Tatbestand
+- [BGH, Urteil vom 04.06.2009 - III ZR 229/07](iii-zr-229-07.md) — eines Personenschadens, den ein Versicherungsfall verursacht hat, ist mit Art. 3 Abs. 1 GG auch im Verhältnis eines Kindergartenkindes zum S
 - [BGH, Urteil vom 04.06.2009 - III ZR 82/08](iii-zr-82-08.md) — Tatbestand
+- [BGH, Beschluss vom 27.05.2009 - III ZB 15/09](iii-zb-15-09.md) — grundsätzlicher Bedeutung der Sache zugelassen bezüglich
 - [BGH, Beschluss vom 27.05.2009 - III ZB 30/09](iii-zb-30-09.md) — der Versäumung der Frist zur Einlegung sowie zur Begründung der Rechtsbeschwerde Wiedereinsetzung in den vorigen Stand gewährt.
 - [BGH, Beschluss vom 27.05.2009 - III ZR 181/08](iii-zr-181-08.md) — des im Haushaltsrecht geltenden Jährlichkeitsprinzips nur darauf an, ob die Gemeinde in dem den Genehmigungszeitpunkt betreffenden Haushalts
+- [BGH, Beschluss vom 27.05.2009 - III ZR 231/08](iii-zr-231-08.md) — Die Revision ist nicht zuzulassen, da die Rechtssache weder grundsätzli- che Bedeutung hat noch eine Entscheidung des Revisionsgerichts zum Zweck der Rechtsfortbildung oder zur …
 - [BGH, Beschluss vom 27.05.2009 - III ZR 274/07](iii-zr-274-07.md) — BGH, Beschluss vom 27.05.2009 - III ZR 274/07
+- [BGH, Beschluss vom 27.05.2009 - III ZR 285/08](iii-zr-285-08.md) — I. 1 Die Klägerin begehrt von der Beklagten die Zahlung einer weitergehen- den Entschädigung für die Enteignung ihr gehörender Grundstücksflächen. Die- se wurden für den Neubau …
 - [BGH, Beschluss vom 20.05.2009 - III ZR 75/08](iii-zr-75-08.md) — BGH, Beschluss vom 20.05.2009 - III ZR 75/08
 - [BGH, Urteil vom 14.05.2009 - III ZR 86/08](iii-zr-86-08.md) — Tatbestand
+- [BGH, Urteil vom 07.05.2009 - III ZR 277/08](iii-zr-277-08.md) — Tatbestand
+- [BGH, Urteil vom 07.05.2009 - III ZR 48/08](iii-zr-48-08.md) — Tatbestand
 - [BGH, Beschluss vom 30.04.2009 - III ZB 5/09](iii-zb-5-09.md) — BGH, Beschluss vom 30.04.2009 - III ZB 5/09
 - [BGH, Beschluss vom 30.04.2009 - III ZB 91/07](iii-zb-91-07.md) — BGH, Beschluss vom 30.04.2009 - III ZB 91/07
 - [BGH, Beschluss vom 09.04.2009 - III ZA 5/09](iii-za-5-09.md) — BGH, Beschluss vom 09.04.2009 - III ZA 5/09
 - [BGH, Beschluss vom 09.04.2009 - III ZB 17/09](iii-zb-17-09.md) — BGH, Beschluss vom 09.04.2009 - III ZB 17/09
+- [BGH, Beschluss vom 09.04.2009 - III ZR 144/08](iii-zr-144-08.md) — BGH, Beschluss vom 09.04.2009 - III ZR 144/08
+- [BGH, Beschluss vom 09.04.2009 - III ZR 200/08](iii-zr-200-08.md) — Die Rechtssache hat weder grundsätzliche Bedeutung noch erfordern die Rechtsfortbildung oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des …
+- [BGH, Beschluss vom 09.04.2009 - III ZR 89/08](iii-zr-89-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen nicht vor.
+- [BGH, Beschluss vom 02.04.2009 - III ZA 2/09](iii-za-2-09.md) — Besorgnis der Befangenheit
+- [BGH, Beschluss vom 19.03.2009 - III ZB 13/09](iii-zb-13-09.md) — BGH, Beschluss vom 19.03.2009 - III ZB 13/09
+- [BGH, Beschluss vom 19.03.2009 - III ZB 14/09](iii-zb-14-09.md) — BGH, Beschluss vom 19.03.2009 - III ZB 14/09
+- [BGH, Beschluss vom 19.03.2009 - III ZB 71/07](iii-zb-71-07.md) — BGH, Beschluss vom 19.03.2009 - III ZB 71/07
 - [BGH, Beschluss vom 19.03.2009 - III ZB 93/08](iii-zb-93-08.md) — BGH, Beschluss vom 19.03.2009 - III ZB 93/08
 - [BGH, Beschluss vom 19.03.2009 - III ZB 94/08](iii-zb-94-08.md) — BGH, Beschluss vom 19.03.2009 - III ZB 94/08
 - [BGH, Beschluss vom 19.03.2009 - III ZR 106/08](iii-zr-106-08.md) — der
 - [BGH, Beschluss vom 19.03.2009 - III ZR 163/08](iii-zr-163-08.md) — der Stellung der Beklagten als Gründungskommanditistin auf einer Verletzung vorvertraglicher Pflichten.
 - [BGH, Beschluss vom 19.03.2009 - III ZR 24/08](iii-zr-24-08.md) — BGH, Beschluss vom 19.03.2009 - III ZR 24/08
 - [BGH, Urteil vom 12.03.2009 - III ZR 142/08](iii-zr-142-08.md) — Tatbestand
+- [BGH, Beschluss vom 12.03.2009 - III ZR 158/08](iii-zr-158-08.md) — Die Rechtssache hat weder grundsätzliche Bedeutung noch erfordert die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtspre- chung eine Entscheidung des …
+- [BGH, Beschluss vom 05.03.2009 - III ZB 8/09](iii-zb-8-09.md) — Die von der Klägerin gegen den Beschluss des Berufungsgerichts vom 29.
 - [BGH, Urteil vom 05.03.2009 - III ZR 17/08](iii-zr-17-08.md) — Tatbestand
+- [BGH, Urteil vom 05.03.2009 - III ZR 302/07](iii-zr-302-07.md) — der Schlechtleistung eines Anlageberatungsvertrages Schadensersatz geltend macht, wenn er mit einem Dritten zusammen beraten worden ist und
 - [BGH, Beschluss vom 26.02.2009 - III ZA 3/09](iii-za-3-09.md) — BGH, Beschluss vom 26.02.2009 - III ZA 3/09
+- [BGH, Beschluss vom 26.02.2009 - III ZB 67/08](iii-zb-67-08.md) — I. 1 Die Klägerin begehrt von dem Beklagten Ersatz für die Beseitigung von Wildschäden. 2 Der Beklagte ist langjähriger Pächter des Eigenjagdbezirks V. in der Uckermark. Soweit er …
+- [BGH, Beschluss vom 26.02.2009 - III ZR 110/08](iii-zr-110-08.md) — Die Nichtzulassungsbeschwerde des Klägers ist unzulässig, da sie nicht innerhalb der Notfrist von einem Monat nach Zustellung des in vollständiger Form abgefassten Urteils nach § …
 - [BGH, Beschluss vom 26.02.2009 - III ZR 129/08](iii-zr-129-08.md) — Die Rechtssache hat weder grundsätzliche Bedeutung noch erfordern die Fortbildung des Rechts oder die Sicherung einer einheitlichen Rechtsprechung eine Entscheidung des …
+- [BGH, Beschluss vom 26.02.2009 - III ZR 132/08](iii-zr-132-08.md) — stets die Klage abweisender Entscheidungen von
 - [BGH, Beschluss vom 26.02.2009 - III ZR 135/08](iii-zr-135-08.md) — 1. Der Rechtssache fehlt die grundsätzliche Bedeutung (§ 543 Abs. 2 Satz 1 Nr. 1 ZPO), da sie keine entscheidungserhebliche klärungsbedürftige Frage aufwirft, deren Auftreten in …
+- [BGH, Beschluss vom 26.02.2009 - III ZR 225/08](iii-zr-225-08.md) — Die Voraussetzungen für eine Zulassung der Revision (§ 543 Abs.
+- [BGH, Beschluss vom 26.02.2009 - III ZR 330/08](iii-zr-330-08.md) — der das Berufungsgericht die Revision zugelas-
+- [BGH, Beschluss vom 19.02.2009 - III ZR 154/08](iii-zr-154-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen nicht vor.
+- [BGH, Beschluss vom 19.02.2009 - III ZR 167/08](iii-zr-167-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen nicht vor.
+- [BGH, Beschluss vom 19.02.2009 - III ZR 168/08](iii-zr-168-08.md) — Die Voraussetzungen für eine Zulassung der Revision liegen nicht vor.
+- [BGH, Urteil vom 19.02.2009 - III ZR 91/08](iii-zr-91-08.md) — Tatbestand
 - [BGH, Teilurteil vom 12.02.2009 - III ZR 119/08](iii-zr-119-08.md) — Tatbestand
+- [BGH, Urteil vom 12.02.2009 - III ZR 179/08](iii-zr-179-08.md) — Tatbestand
+- [BGH, Beschluss vom 12.02.2009 - III ZR 271/07](iii-zr-271-07.md) — Der Rechtsbehelf ist (jedenfalls) unbegründet.
+- [BGH, Urteil vom 12.02.2009 - III ZR 90/08](iii-zr-90-08.md) — Tatbestand
+- [BGH, Urteil vom 05.02.2009 - III ZR 164/08](iii-zr-164-08.md) — 3-
 - [BGH, Beschluss vom 05.02.2009 - III ZR 171/07](iii-zr-171-07.md) — unrichtiger Sachbehandlung
-- [BGH, Beschluss vom 05.02.2009 - III ZR 308/07](iii-zr-308-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 05.02.2009 - III ZR 307/07](iii-zr-307-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 05.02.2009 - III ZR 309/07](iii-zr-309-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 05.02.2009 - III ZR 313/07](iii-zr-313-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 05.02.2009 - III ZR 314/07](iii-zr-314-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 05.02.2009 - III ZR 315/07](iii-zr-315-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 05.02.2009 - III ZR 316/07](iii-zr-316-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 05.02.2009 - III ZR 317/07](iii-zr-317-07.md) — eines offensichtlichen Schreibversehens in Randnummer 11 gemäß § 319 ZPO dahin geändert, dass es anstelle von "Schadensersatzanspruch des Be
+- [BGH, Beschluss vom 29.01.2009 - III ZB 61/08](iii-zb-61-08.md) — I. 1 In dem der Rechtsbeschwerde zugrunde liegenden Verfahren nehmen insgesamt sechs Kläger die Beklagte auf Schadensersatz in unterschiedlicher Höhe in Anspruch. Sämtliche Kläger …
+- [BGH, Beschluss vom 29.01.2009 - III ZB 62/08](iii-zb-62-08.md) — I. 1 In dem der Rechtsbeschwerde zugrunde liegenden Verfahren nehmen insgesamt acht Kläger die Beklagte auf Schadensersatz in unterschiedlicher Höhe in Anspruch. Sämtliche Kläger …
+- [BGH, Beschluss vom 29.01.2009 - III ZB 66/08](iii-zb-66-08.md) — I. 1 In dem der Rechtsbeschwerde zugrunde liegenden Verfahren nehmen insgesamt sieben Kläger die Beklagte auf Schadensersatz in unterschiedlicher Höhe in Anspruch. Sämtliche …
+- [BGH, Beschluss vom 29.01.2009 - III ZB 88/07](iii-zb-88-07.md) — feststeht, dass die zuerkannte Forderung nur ein Recht auf insolvenzmäßige Befriedigung verschaffen sollte und es sich bei ihr nicht um eine Masseforderung handeln kann.
+- [BGH, Beschluss vom 29.01.2009 - III ZR 100/08](iii-zr-100-08.md) — behaupteter Mängel des Prospekts begehrte die Klägerin in der
 - [BGH, Beschluss vom 29.01.2009 - III ZR 115/08](iii-zr-115-08.md) — einer ärztlichen Gebührenforderung gegen
 - [BGH, Beschluss vom 29.01.2009 - III ZR 156/08](iii-zr-156-08.md) — BGH, Beschluss vom 29.01.2009 - III ZR 156/08
 - [BGH, Beschluss vom 29.01.2009 - III ZR 182/08](iii-zr-182-08.md) — 1. Der Rechtssache fehlt die grundsätzliche Bedeutung (§ 543 Abs. 2 Satz 1 Nr. 1 ZPO), da sie keine entscheidungserheblichen klärungsbedürftigen Fragen aufwirft, deren Auftreten …
 - [BGH, Beschluss vom 29.01.2009 - III ZR 232/08](iii-zr-232-08.md) — ein Surrogat, den Anspruch auf Auszahlung des Scheckbetrages, als Ersatz für den eingelösten Scheck erhalten.
-- [BGH, Beschluss vom 15.01.2009 - III ZB 54/08](iii-zb-54-08.md) — eines Schreibfehlers dahingehend berichtigt, dass in den Gründen unter I. zu Beginn des zweiten Absatzes das Wort "Durchschrift" durch "Durc
+- [BGH, Beschluss vom 29.01.2009 - III ZR 26/08](iii-zr-26-08.md) — BGH, Beschluss vom 29.01.2009 - III ZR 26/08
+- [BGH, Beschluss vom 29.01.2009 - III ZR 74/08](iii-zr-74-08.md) — eines Mangels des bei der Vermittlung benutzten Prospekts aus der Verletzung eines Auskunftsvertrags haftet, wenn es in die Vermittlung des
+- [BGH, Beschluss vom 29.01.2009 - III ZR 94/08](iii-zr-94-08.md) — BGH, Beschluss vom 29.01.2009 - III ZR 94/08
+- [BGH, Beschluss vom 29.01.2009 - III ZR 95/08](iii-zr-95-08.md) — BGH, Beschluss vom 29.01.2009 - III ZR 95/08
+- [BGH, Beschluss vom 29.01.2009 - III ZR 96/08](iii-zr-96-08.md) — BGH, Beschluss vom 29.01.2009 - III ZR 96/08
+- [BGH, Beschluss vom 29.01.2009 - III ZR 99/08](iii-zr-99-08.md) — behaupteter Mängel des Prospekts begehrt der Kläger Zug um
+- [BGH, Versäumnisurteil vom 22.01.2009 - III ZR 172/08](iii-zr-172-08.md) — eines Zustellungsfehlers wieder aufgehoben wird und in einem nachfolgenden Versteigerungstermin ein geringerer Erlös erzielt wird (Abgrenzun
+- [BGH, Urteil vom 22.01.2009 - III ZR 197/08](iii-zr-197-08.md) — Tatbestand
+- [BGH, Urteil vom 22.01.2009 - III ZR 233/07](iii-zr-233-07.md) — Tatbestand
+- [BGH, Beschluss vom 15.01.2009 - III ZB 59/07](iii-zb-59-07.md) — Der Rechtsbehelf ist (jedenfalls) unbegründet.
+- [BGH, Beschluss vom 15.01.2009 - III ZB 83/07](iii-zb-83-07.md) — statthafte Rechts-
+- [BGH, Urteil vom 15.01.2009 - III ZR 28/08](iii-zr-28-08.md) — Tatbestand

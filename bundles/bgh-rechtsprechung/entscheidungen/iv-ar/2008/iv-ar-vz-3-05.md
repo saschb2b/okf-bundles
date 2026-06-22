@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 30.01.2008 - IV AR (VZ) 3/05"
+description: "der in § 30 Abs. 2 EGGVG enthaltenen abschlie-"
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2005/IV_ar_VZ___3-05.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "IV AR"
+datum: 2008-01-30
+aktenzeichen: "IV AR (VZ) 3/05"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T15:35:42Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: IV AR (VZ) 3/05 vom 30.01.2008.
+
+# Citations
+
+[1] [BGH, Beschluss vom 30.01.2008 - IV AR (VZ) 3/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2005/IV_ar_VZ___3-05.pdf?__blob=publicationFile&v=1)
+

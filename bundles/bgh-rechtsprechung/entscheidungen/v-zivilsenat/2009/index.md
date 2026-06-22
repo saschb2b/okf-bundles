@@ -1,34 +1,72 @@
 # V. Zivilsenat – 2009
 
-73 Entscheidung(en).
+179 Entscheidung(en).
 
+- [BGH, Beschluss vom 16.12.2009 - V ZB 148/09](v-zb-148-09.md) — gestützte, nicht bestandskräftige Zurückschiebungsverfügung erlassen hat.
 - [BGH, Urteil vom 11.12.2009 - V ZR 110/09](v-zr-110-09.md) — BGH, Urteil vom 11.12.2009 - V ZR 110/09
+- [BGH, Urteil vom 11.12.2009 - V ZR 217/08](v-zr-217-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.12.2009 - V ZB 111/09](v-zb-111-09.md) — I. 1 Die Beteiligte zu 2 betrieb seit September 2007 die Zwangsversteigerung des im Eingang des Beschlusses bezeichneten, mit einem Studentenwohnheim bebauten Grundstücks in A …
 - [BGH, Beschluss vom 10.12.2009 - V ZB 115/09](v-zb-115-09.md) — I. 1 Die Parteien sind Eigentümer benachbarter Grundstücke. Anlässlich der Bebauung des Grundstücks der Beklagten wurde dieses mit Erde aufgeschüt- tet; zur Abstützung an der …
+- [BGH, Beschluss vom 10.12.2009 - V ZB 151/09](v-zb-151-09.md) — I. 1 Die Beteiligten zu 1 bis 3 sind die Mitglieder einer Wohnungseigentümer- gemeinschaft, die von der Firma V. Verwaltung für Haus- und Grund- besitz GmbH & Co KG (V. ) …
+- [BGH, Beschluss vom 10.12.2009 - V ZB 67/09](v-zb-67-09.md) — I. 1 Die Parteien sind Mitglieder einer Wohnungseigentümergemeinschaft. Die Kläger nehmen die Beklagte auf Zahlung einer Vertragsstrafe aus einem gerichtlichen Vergleich in …
 - [BGH, Beschluss vom 10.12.2009 - V ZB 87/09](v-zb-87-09.md) — I. 1 Die Klägerin verlangt von den Beklagten die Zustimmung zur Berichti- gung des Grundbuchs. Das Landgericht hat die Klage nach Bewilligung von -3- Prozesskostenhilfe …
 - [BGH, Beschluss vom 10.12.2009 - V ZR 50/09](v-zr-50-09.md) — ei-
+- [BGH, Urteil vom 04.12.2009 - V ZR 44/09](v-zr-44-09.md) — Tatbestand:
+- [BGH, Urteil vom 04.12.2009 - V ZR 83/09](v-zr-83-09.md) — Tatbestand:
+- [BGH, Urteil vom 04.12.2009 - V ZR 9/09](v-zr-9-09.md) — Tatbestand:
+- [BGH, Urteil vom 20.11.2009 - V ZR 175/08](v-zr-175-08.md) — Tatbestand:
+- [BGH, Urteil vom 20.11.2009 - V ZR 68/09](v-zr-68-09.md) — Tatbestand:
+- [BGH, Urteil vom 20.11.2009 - V ZR 94/09](v-zr-94-09.md) — Tatbestand:
 - [BGH, Beschluss vom 19.11.2009 - V ZB 118/09](v-zb-118-09.md) — erteilt werden, wenn der betreibende Gläubiger bei der Anhörung über den Zuschlag (§ 74 ZVG) das Verfahren genehmigt.
 - [BGH, Urteil vom 13.11.2009 - V ZR 10/09](v-zr-10-09.md) — Tatbestand:
+- [BGH, Urteil vom 13.11.2009 - V ZR 255/08](v-zr-255-08.md) — Tatbestand:
+- [BGH, Beschluss vom 12.11.2009 - V ZR 71/09](v-zr-71-09.md) — I. 1 Mit notariellem Vertrag vom 21. Oktober 1997 kaufte die Klägerin von ei- ner aus dem Beklagten und W....... H............. bestehenden Gesellschaft bürger- lichen Rechts ein …
 - [BGH, Beschluss vom 12.11.2009 - V ZR 76/09](v-zr-76-09.md) — BGH, Beschluss vom 12.11.2009 - V ZR 76/09
+- [BGH, Beschluss vom 10.11.2009 - V ZR 122/09](v-zr-122-09.md) — BGH, Beschluss vom 10.11.2009 - V ZR 122/09
+- [BGH, Beschluss vom 09.11.2009 - V ZA 8/09](v-za-8-09.md) — der am folgenden Tage ablaufenden Frist die Er-
+- [BGH, Urteil vom 06.11.2009 - V ZR 63/09](v-zr-63-09.md) — 3Tatbestand:
+- [BGH, Urteil vom 06.11.2009 - V ZR 73/09](v-zr-73-09.md) — Tatbestand:
 - [BGH, Urteil vom 30.10.2009 - V ZR 17/09](v-zr-17-09.md) — Lärmbelästigungen tritt auch dann hinter die im Planfeststellungsverfahren gegebenen Rechtsbehelfe zurück, wenn der Vorhabenträger die den N
+- [BGH, Urteil vom 30.10.2009 - V ZR 253/08](v-zr-253-08.md) — Tatbestand:
 - [BGH, Urteil vom 30.10.2009 - V ZR 42/09](v-zr-42-09.md) — Tatbestand:
 - [BGH, Beschluss vom 29.10.2009 - V ZR 54/09](v-zr-54-09.md) — Verstoßes gegen das Koppelungsverbot (§ 11 Abs. 2 Satz 2 BauGB) unzulässigen Zahlung unterliegt auch dann nicht der Verjährung nach § 196 BG
+- [BGH, Beschluss vom 29.10.2009 - V ZR 59/09](v-zr-59-09.md) — arglistig ver-
 - [BGH, Beschluss vom 23.10.2009 - V ZR 105/09](v-zr-105-09.md) — Die Anhörungsrüge nach § 321a ZPO ist unbegründet.
 - [BGH, Urteil vom 23.10.2009 - V ZR 141/08](v-zr-141-08.md) — 3-
+- [BGH, Urteil vom 23.10.2009 - V ZR 15/09](v-zr-15-09.md) — Tatbestand:
 - [BGH, Beschluss vom 22.10.2009 - V ZB 65/09](v-zb-65-09.md) — I. 1 Auf Antrag des Beteiligten zu 2 wurde im März 2007 die Zwangsverstei- gerung des im Eingang dieses Beschlusses bezeichneten Grundstücks zum Zwecke der Aufhebung der …
+- [BGH, Beschluss vom 22.10.2009 - V ZB 77/09](v-zb-77-09.md) — I. 1 Der Beteiligte zu 1 (Rechtsbeschwerdeführer), der als einer von drei Rechtspflegern in der Vollstreckungsabteilung des Amtsgerichts Esslingen tätig und mit …
 - [BGH, Beschluss vom 22.10.2009 - V ZR 137/09](v-zr-137-09.md) — Wohngeldrückständen in der Rangklasse 5 die
+- [BGH, Beschluss vom 22.10.2009 - V ZR 21/09](v-zr-21-09.md) — Sachmängeln. Vor Vertragsschluss war das Objekt auf Veran-
+- [BGH, Urteil vom 16.10.2009 - V ZR 203/08](v-zr-203-08.md) — Tatbestand:
+- [BGH, Urteil vom 16.10.2009 - V ZR 246/08](v-zr-246-08.md) — 3-
 - [BGH, Beschluss vom 15.10.2009 - V ZB 43/09](v-zb-43-09.md) — eines dinglichen Anspruchs von 109.000 € zuzüglich Zin-
 - [BGH, Beschluss vom 15.10.2009 - V ZB 76/09](v-zb-76-09.md) — In Zwangsversteigerungsverfahren bestimmt sich für die Rechtsanwalts- gebühren der Gegenstandswert bei der Vertretung des Schuldners gemäß § 26 Nr.
 - [BGH, Beschluss vom 15.10.2009 - V ZB 88/09](v-zb-88-09.md) — Verwirkung versagt. Mit der von dem Landgericht zugelassenen Rechtsbeschwerde möchte der Antragsteller die Wiederherstellung der Festsetzung
 - [BGH, Beschluss vom 15.10.2009 - V ZR 46/09](v-zr-46-09.md) — BGH, Beschluss vom 15.10.2009 - V ZR 46/09
 - [BGH, Beschluss vom 15.10.2009 - V ZR 60/09](v-zr-60-09.md) — BGH, Beschluss vom 15.10.2009 - V ZR 60/09
+- [BGH, Urteil vom 09.10.2009 - V ZR 178/08](v-zr-178-08.md) — Tatbestand:
+- [BGH, Urteil vom 09.10.2009 - V ZR 18/09](v-zr-18-09.md) — Tatbestand:
 - [BGH, Beschluss vom 08.10.2009 - V ZB 84/09](v-zb-84-09.md) — I. 1 Die Antragsteller kauften von der Antragsgegnerin mit notariellem Ver- trag vom 24. Mai 2006 ein Hausgrundstück. Sie machen Feuchtigkeits- und an- dere Schäden geltend, die …
+- [BGH, Urteil vom 02.10.2009 - V ZR 185/08](v-zr-185-08.md) — Tatbestand:
 - [BGH, Urteil vom 02.10.2009 - V ZR 235/08](v-zr-235-08.md) — Tatbestand:
+- [BGH, Beschluss vom 01.10.2009 - V ZB 37/09](v-zb-37-09.md) — besonderer Umstände für den Schuldner eine Härte bedeu-
+- [BGH, Beschluss vom 01.10.2009 - V ZB 81/09](v-zb-81-09.md) — BGH, Beschluss vom 01.10.2009 - V ZB 81/09
+- [BGH, Beschluss vom 01.10.2009 - V ZR 25/09](v-zr-25-09.md) — BGH, Beschluss vom 01.10.2009 - V ZR 25/09
+- [BGH, Urteil vom 25.09.2009 - V ZR 13/09](v-zr-13-09.md) — Tatbestand:
 - [BGH, Urteil vom 25.09.2009 - V ZR 33/09](v-zr-33-09.md) — BGH, Urteil vom 25.09.2009 - V ZR 33/09
 - [BGH, Urteil vom 25.09.2009 - V ZR 36/09](v-zr-36-09.md) — Tatbestand:
+- [BGH, Beschluss vom 23.09.2009 - V ZB 19/09](v-zb-19-09.md) — dieser Forderungen hat die Gläubigerin bei dem Vollstre-
+- [BGH, Beschluss vom 23.09.2009 - V ZB 30/09](v-zb-30-09.md) — des Grundschuldkapitals zuzüglich
+- [BGH, Beschluss vom 23.09.2009 - V ZB 60/09](v-zb-60-09.md) — I. 1 Am 23. April 2007 ordnete das Vollstreckungsgericht auf Antrag der Be- teiligten zu 5 die Zwangsversteigerung des im Eingang dieses Beschlusses be- zeichneten Grundbesitzes …
+- [BGH, Beschluss vom 23.09.2009 - V ZB 73/09](v-zb-73-09.md) — I. 1 In dem gegen die Schuldnerin betriebenen Zwangsversteigerungsverfah- ren kündigte der Verfahrensbevollmächtigte der Gläubigerin an, dass nicht er selbst, sondern seine …
 - [BGH, Beschluss vom 23.09.2009 - V ZB 90/09](v-zb-90-09.md) — der Auslagen und Anstrengungen bei der Vermietung nicht aus. Diese können aber nicht im Festsetzungsverfahren nach § 153 ZVG, sondern nur in
 - [BGH, Beschluss vom 23.09.2009 - V ZR 140/09](v-zr-140-09.md) — BGH, Beschluss vom 23.09.2009 - V ZR 140/09
+- [BGH, Beschluss vom 23.09.2009 - V ZR 16/09](v-zr-16-09.md) — BGH, Beschluss vom 23.09.2009 - V ZR 16/09
+- [BGH, Beschluss vom 23.09.2009 - V ZR 30/09](v-zr-30-09.md) — BGH, Beschluss vom 23.09.2009 - V ZR 30/09
 - [BGH, Urteil vom 18.09.2009 - V ZR 118/08](v-zr-118-08.md) — BGH, Urteil vom 18.09.2009 - V ZR 118/08
 - [BGH, Urteil vom 18.09.2009 - V ZR 2/09](v-zr-2-09.md) — Tatbestand:
+- [BGH, Urteil vom 18.09.2009 - V ZR 75/08](v-zr-75-08.md) — Fehlens eines nachbarrechtlichen Ausgleichsanspruchs nach § 906 Abs. 2 Satz 2 BGB analog richtet. Im Übrigen wird die Sache zur neuen Verhan
 - [BGH, Beschluss vom 17.09.2009 - V ZB 44/09](v-zb-44-09.md) — I. 1 Das Amtsgericht ordnete mit Beschluss vom 27. April 2007 auf Antrag der Beteiligten zu 3 die Zwangsversteigerung des eingangs bezeichneten Grundstücks auf Grund der dieser …
 - [BGH, Beschluss vom 14.09.2009 - V ZB 105/09](v-zb-105-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 105/09
 - [BGH, Beschluss vom 14.09.2009 - V ZB 106/09](v-zb-106-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 106/09
@@ -36,42 +74,110 @@
 - [BGH, Beschluss vom 14.09.2009 - V ZB 108/09](v-zb-108-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 108/09
 - [BGH, Beschluss vom 14.09.2009 - V ZB 109/09](v-zb-109-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 109/09
 - [BGH, Beschluss vom 14.09.2009 - V ZB 110/09](v-zb-110-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 110/09
+- [BGH, Beschluss vom 14.09.2009 - V ZR 78/09](v-zr-78-09.md) — BGH, Beschluss vom 14.09.2009 - V ZR 78/09
 - [BGH, Urteil vom 17.07.2009 - V ZR 254/08](v-zr-254-08.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2009 - V ZR 95/08](v-zr-95-08.md) — Tatbestand:
+- [BGH, Beschluss vom 16.07.2009 - V ZA 5/09](v-za-5-09.md) — gelegt und ein vorsätzliches Verhalten des Beklagten ohne Verstoß gegen Prozessgrundrechte verneint.
+- [BGH, Beschluss vom 16.07.2009 - V ZB 11/09](v-zb-11-09.md) — I. 1 Die drei Kläger sind Mitglieder einer Wohnungseigentümergemeinschaft. Mit der gegen die übrigen Wohnungseigentümer gerichteten Klage wollten sie einen im September 2007 …
+- [BGH, Beschluss vom 16.07.2009 - V ZR 57/09](v-zr-57-09.md) — Wohngeldrückständen die Zwangsversteigerung der Ei-
 - [BGH, Beschluss vom 10.07.2009 - V ZB 48/09](v-zb-48-09.md) — Ansprüchen der Gläubigerin auf Hausgeldrückstände in
 - [BGH, Urteil vom 10.07.2009 - V ZR 69/08](v-zr-69-08.md) — Tatbestand:
 - [BGH, Urteil vom 10.07.2009 - V ZR 72/08](v-zr-72-08.md) — Tatbestand
 - [BGH, Beschluss vom 09.07.2009 - V ZB 190/08](v-zb-190-08.md) — I. 1 Das Vollstreckungsgericht ordnete mit Beschluss vom 29. November 2005 die Zwangsversteigerung des eingangs bezeichneten Grundstücks an. Mit Beschluss vom 11. Oktober 2007 …
+- [BGH, Beschluss vom 09.07.2009 - V ZR 244/08](v-zr-244-08.md) — BGH, Beschluss vom 09.07.2009 - V ZR 244/08
 - [BGH, Beschluss vom 09.07.2009 - V ZR 56/09](v-zr-56-09.md) — BGH, Beschluss vom 09.07.2009 - V ZR 56/09
+- [BGH, Urteil vom 03.07.2009 - V ZR 182/08](v-zr-182-08.md) — Tatbestand:
+- [BGH, Urteil vom 03.07.2009 - V ZR 220/08](v-zr-220-08.md) — Tatbestand:
+- [BGH, Urteil vom 03.07.2009 - V ZR 58/08](v-zr-58-08.md) — Tatbestand:
+- [BGH, Beschluss vom 02.07.2009 - V ZB 122/08](v-zb-122-08.md) — I. 1 Anfang 2003 wurde die Zwangsverwaltung des im Eingang dieses Be- schlusses bezeichneten, mit einer vermieteten Altenpflegeeinrichtung bebauten Grundbesitzes angeordnet. Der …
 - [BGH, Beschluss vom 02.07.2009 - V ZB 172/08](v-zb-172-08.md) — BGH, Beschluss vom 02.07.2009 - V ZB 172/08
 - [BGH, Beschluss vom 02.07.2009 - V ZB 40/09](v-zb-40-09.md) — BGH, Beschluss vom 02.07.2009 - V ZB 40/09
+- [BGH, Beschluss vom 02.07.2009 - V ZB 54/09](v-zb-54-09.md) — I. 1 Der Kläger hat am 22. September 2008 (Montag) bei dem Landgericht Mannheim gegen das ihm am 21. August 2008 zugestellte Urteil des Amtsge- richts Mannheim Berufung eingelegt …
+- [BGH, Beschluss vom 02.07.2009 - V ZR 208/08](v-zr-208-08.md) — 1. Die Nichtzulassungsbeschwerde des Klägers ist teilweise begründet, nämlich soweit der Kläger einen Anspruch auf Ersatz seines Arbeitsaufwands in der Zeit vom Vertragsschluss …
+- [BGH, Beschluss vom 02.07.2009 - V ZR 251/08](v-zr-251-08.md) — Die Nichtzulassungsbeschwerde ist unzulässig, da die mit der Revision geltend zu machende Beschwer 20.000 € nicht übersteigt, § 26 Nr.
+- [BGH, Beschluss vom 25.06.2009 - V ZB 191/08](v-zb-191-08.md) — I. 1 Der Kläger nimmt die Beklagte auf Beseitigung eines Überbaus in An- spruch. Gegen das die Klage abweisende Urteil des Amtsgerichts legte er recht- zeitig Berufung ein. Auf …
+- [BGH, Beschluss vom 25.06.2009 - V ZR 55/09](v-zr-55-09.md) — I. 1 Mit notariellem Vertrag vom 26. August 2006 verkaufte der durch seinen Betreuer vertretene Kläger den Beklagten das mit einem Miteigentumsanteil von 531/1000 verbundene …
+- [BGH, Beschluss vom 24.06.2009 - V ZR 86/09](v-zr-86-09.md) — BGH, Beschluss vom 24.06.2009 - V ZR 86/09
+- [BGH, Urteil vom 19.06.2009 - V ZR 229/08](v-zr-229-08.md) — Tatbestand:
+- [BGH, Urteil vom 19.06.2009 - V ZR 230/08](v-zr-230-08.md) — Tatbestand:
+- [BGH, Urteil vom 19.06.2009 - V ZR 231/08](v-zr-231-08.md) — Tatbestand:
+- [BGH, Urteil vom 19.06.2009 - V ZR 93/08](v-zr-93-08.md) — Tatbestand:
+- [BGH, Beschluss vom 18.06.2009 - V ZR 226/08](v-zr-226-08.md) — I. 1 Der Kläger ersteigerte 1993 ein Gewerbegrundstück in M. , das seit 1970 mit einem Erbbaurecht belastet ist, das im Jahr 2071 ausläuft. Der Erbbaurechtsvertrag sieht eine …
+- [BGH, Urteil vom 05.06.2009 - V ZR 117/08](v-zr-117-08.md) — 3-
 - [BGH, Urteil vom 05.06.2009 - V ZR 144/08](v-zr-144-08.md) — 3-
 - [BGH, Urteil vom 05.06.2009 - V ZR 168/08](v-zr-168-08.md) — Tatbestand:
 - [BGH, Beschluss vom 04.06.2009 - V ZB 1/09](v-zb-1-09.md) — I. 1 Der Antragsteller war zunächst als einer von mehreren, später als alleini- ger Eigentümer des eingangs genannten, im ehemaligen Westteil von Berlin belegenen Grundstücks …
+- [BGH, Beschluss vom 04.06.2009 - V ZB 2/09](v-zb-2-09.md) — I. 1 Mit Beschluss vom 17. September 2004 ordnete das Amtsgericht auf An- trag der Beteiligten zu 2 die Zwangsverwaltung des im Eingang dieses Be- schlusses bezeichneten …
 - [BGH, Beschluss vom 04.06.2009 - V ZB 3/09](v-zb-3-09.md) — I. 1 Mit Beschluss vom 17. September 2004 ordnete das Amtsgericht auf An- trag der Beteiligten zu 2 die Zwangsverwaltung des im Eingang dieses Be- schlusses bezeichneten …
 - [BGH, Beschluss vom 04.06.2009 - V ZB 4/09](v-zb-4-09.md) — I. 1 Mit Beschluss vom 17. September 2004 ordnete das Amtsgericht auf An- trag der Beteiligten zu 2 die Zwangsverwaltung des im Eingang dieses Be- schlusses bezeichneten …
 - [BGH, Beschluss vom 04.06.2009 - V ZB 5/09](v-zb-5-09.md) — I. 1 Mit Beschluss vom 17. September 2004 ordnete das Amtsgericht auf An- trag der Beteiligten zu 2 die Zwangsverwaltung des im Eingang dieses Be- schlusses bezeichneten …
 - [BGH, Beschluss vom 04.06.2009 - V ZR 228/08](v-zr-228-08.md) — BGH, Beschluss vom 04.06.2009 - V ZR 228/08
+- [BGH, Beschluss vom 04.06.2009 - V ZR 238/08](v-zr-238-08.md) — BGH, Beschluss vom 04.06.2009 - V ZR 238/08
 - [BGH, Urteil vom 29.05.2009 - V ZR 137/08](v-zr-137-08.md) — Tatbestand:
+- [BGH, Urteil vom 29.05.2009 - V ZR 15/08](v-zr-15-08.md) — Tatbestand:
 - [BGH, Urteil vom 29.05.2009 - V ZR 201/08](v-zr-201-08.md) — Tatbestand:
+- [BGH, Beschluss vom 28.05.2009 - V ZB 50/09](v-zb-50-09.md) — I. 1 Der Schuldner ist Eigentümer des im Eingang des Beschlusses bezeichneten Grundstücks. Die Gläubigerin vollstreckt in die Erträge des Grundstücks. Auf ihren Antrag ordnete das …
 - [BGH, Beschluss vom 28.05.2009 - V ZR 170/08](v-zr-170-08.md) — BGH, Beschluss vom 28.05.2009 - V ZR 170/08
 - [BGH, Beschluss vom 14.05.2009 - V ZB 176/08](v-zb-176-08.md) — I. 1 H. R. (Erblasser) war Eigentümer des im Eingang des Beschlusses bezeichneten Grundstücks. Er verstarb am 9. Juli 2005. Er wurde von den Beteiligten zu 4 bis 6, seinen Söhnen …
+- [BGH, Beschluss vom 14.05.2009 - V ZB 178/08](v-zb-178-08.md) — Ansprüche der Gläubigerin auf
 - [BGH, Beschluss vom 07.05.2009 - V ZB 12/09](v-zb-12-09.md) — I. 1 Die Beteiligten sind zu je ½ Miteigentümer des im Eingang dieses Be- schlusses bezeichneten Grundbesitzes. Sie betreiben das Versteigerungsver- fahren zum Zweck der Aufhebung …
 - [BGH, Beschluss vom 07.05.2009 - V ZB 142/08](v-zb-142-08.md) — Ansprüche der Gläubigerin auf Hausgeldrückstände in der
+- [BGH, Beschluss vom 07.05.2009 - V ZB 180/08](v-zb-180-08.md) — eines dinglichen Anspruchs der sofortigen Zwangsvoll-
+- [BGH, Beschluss vom 03.04.2009 - V ZB 45/09](v-zb-45-09.md) — I. 1 Die Beteiligte zu 1 betreibt die Zwangsversteigerung des im Eingang dieses Beschlusses bezeichneten Miteigentumsanteils der Schuldnerin. 2 In einem ersten …
+- [BGH, Beschluss vom 03.04.2009 - V ZB 46/09](v-zb-46-09.md) — I. 1 Die Beteiligte zu 1 betreibt die Zwangsversteigerung des Miteigentumsan- teils der Schuldnerin an dem im Eingang dieses Beschlusses bezeichneten Grundstück. 2 In einem ersten …
+- [BGH, Beschluss vom 02.04.2009 - V ZB 157/08](v-zb-157-08.md) — der der Beitritt beantragt wird, 3% des rechtskräftig festgesetzten Verkehrswerts des Versteigerungsobjekts übersteigt.
 - [BGH, Beschluss vom 02.04.2009 - V ZB 70/08](v-zb-70-08.md) — I. 1 Der Kostengläubiger (Notar) beurkundete am 24. März 2004 einen Ver- trag, durch den die Beteiligte zu 2 ein Grundstück zum Preis von 270.000 € an die Beteiligten zu 3 und 4 …
+- [BGH, Beschluss vom 02.04.2009 - V ZR 177/08](v-zr-177-08.md) — Verletzung der aus einem Bera-
+- [BGH, Urteil vom 27.03.2009 - V ZR 196/08](v-zr-196-08.md) — Tatbestand:
 - [BGH, Urteil vom 27.03.2009 - V ZR 30/08](v-zr-30-08.md) — Verschuldens bei Vertragschluss sind im Sachbereich der §§ 434 ff. BGB nach Gefahrübergang grundsätzlich ausgeschlossen; das gilt jedoch zum
+- [BGH, Beschluss vom 26.03.2009 - V ZB 174/08](v-zb-174-08.md) — einer dinglichen Forderung angeordnet. Die Beteiligte zu 4 trat dem Verfahren wegen einer persönlichen Forderung bei, die Beteiligte zu 5, e
+- [BGH, Beschluss vom 26.03.2009 - V ZR 209/08](v-zr-209-08.md) — Die Nichtzulassungsbeschwerde ist unzulässig, da die mit der Revision geltend zu machende Beschwer 20.000 € nicht übersteigt, § 26 Nr.
+- [BGH, Urteil vom 20.03.2009 - V ZR 208/07](v-zr-208-07.md) — Tatbestand:
+- [BGH, Beschluss vom 19.03.2009 - V ZR 142/08](v-zr-142-08.md) — I. 1 Die Beklagten wenden sich mit der Anhörungsrüge gegen einen Be- schluss des Senats, mit dem dieser die Nichtzulassungsbeschwerde als unbe- gründet zurückgewiesen und dabei …
+- [BGH, Beschluss vom 19.03.2009 - V ZR 192/08](v-zr-192-08.md) — Die Nichtzulassungsbeschwerde ist unzulässig, weil der Wert der mit der Revision geltend zu machenden Beschwer 20.000 € nicht übersteigt (§ 26 Nr.
 - [BGH, Urteil vom 13.03.2009 - V ZR 10/08](v-zr-10-08.md) — Tatbestand:
+- [BGH, Urteil vom 13.03.2009 - V ZR 157/08](v-zr-157-08.md) — Tatbestand:
+- [BGH, Beschluss vom 12.03.2009 - V ZB 155/08](v-zb-155-08.md) — I. 1 Die Schuldnerin ist Eigentümerin des im Eingang des Beschlusses be- zeichneten Grundstücks. Auf Antrag der Beteiligten zu 3 wurde im Jahre 2004 die Zwangsversteigerung …
+- [BGH, Beschluss vom 12.03.2009 - V ZB 71/08](v-zb-71-08.md) — I. 1 Auf Antrag der Beteiligten zu 1 ordnete das Vollstreckungsgericht im Jahr 2002 die Versteigerung des im Eingang dieses Beschlusses genannten Flur- stücks an. In dem …
 - [BGH, Beschluss vom 12.03.2009 - V ZR 151/08](v-zr-151-08.md) — BGH, Beschluss vom 12.03.2009 - V ZR 151/08
 - [BGH, Beschluss vom 12.03.2009 - V ZR 161/08](v-zr-161-08.md) — BGH, Beschluss vom 12.03.2009 - V ZR 161/08
+- [BGH, Urteil vom 06.03.2009 - V ZR 103/08](v-zr-103-08.md) — Tatbestand:
+- [BGH, Beschluss vom 05.03.2009 - V ZA 26/08](v-za-26-08.md) — grundsätzlicher Bedeutung zugelassen. Diese Entscheidung bindet den Senat
+- [BGH, Beschluss vom 05.03.2009 - V ZB 153/08](v-zb-153-08.md) — unvorhergesehener dringender anderer Arbeiten nicht durchführen können und die erfahrene und zuverlässige Sekretärin des die Sache bearbeite
+- [BGH, Beschluss vom 05.03.2009 - V ZB 187/08](v-zb-187-08.md) — Die Anträge sind zurückzuweisen, weil die beabsichtigte Rechtsverfol- gung aussichtslos erscheint (§ 114 Satz 1, § 78b Abs.
+- [BGH, Beschluss vom 05.03.2009 - V ZR 166/08](v-zr-166-08.md) — I. 1 Der Kläger ist Verwalter in dem Gesamtvollstreckungsverfahren über das Vermögen der T. GmbH (Schuldne- rin), die dem Beklagten mit notariell beurkundetem Vertrag vom 3 …
 - [BGH, Beschluss vom 27.02.2009 - V ZA 27/08](v-za-27-08.md) — BGH, Beschluss vom 27.02.2009 - V ZA 27/08
 - [BGH, Urteil vom 20.02.2009 - V ZR 184/08](v-zr-184-08.md) — Tatbestand:
+- [BGH, Urteil vom 20.02.2009 - V ZR 46/08](v-zr-46-08.md) — Tatbestand:
+- [BGH, Urteil vom 20.02.2009 - V ZR 57/08](v-zr-57-08.md) — Tatbestand
 - [BGH, Beschluss vom 19.02.2009 - V ZA 18/08](v-za-18-08.md) — BGH, Beschluss vom 19.02.2009 - V ZA 18/08
+- [BGH, Beschluss vom 19.02.2009 - V ZB 168/08](v-zb-168-08.md) — I. 1 Die Kläger haben auf Grund einer mit arglistiger Täuschung begründeten Anfechtung eines Grundstückskaufvertrages gegen die Beklagte (Verkäuferin) Klage auf Zahlung in Höhe …
+- [BGH, Beschluss vom 19.02.2009 - V ZB 188/08](v-zb-188-08.md) — I. 1 Die Beklagten betreiben gegen den Kläger die Zwangsvollstreckung aus einem am 12. Juli 2007 in einem Wohnungseigentumsverfahren ergangenen Kostenfestsetzungsbeschluss. Die …
+- [BGH, Beschluss vom 19.02.2009 - V ZB 54/08](v-zb-54-08.md) — Verfristung als unzulässig verworfen. Hiergegen richtet sich
+- [BGH, Beschluss vom 19.02.2009 - V ZR 162/08](v-zr-162-08.md) — 1. Die Revision ist in Bezug auf den Herausgabeantrag zur Sicherung einer einheitlichen Rechtsprechung (§ 543 Abs. 2 Satz 1 Nr. 2 ZPO) zuzulas- sen, weil das Berufungsgericht die …
+- [BGH, Beschluss vom 19.02.2009 - V ZR 172/08](v-zr-172-08.md) — der Kosten geltend macht, die von ihr als Antragstellerin gemäß § 22
 - [BGH, Urteil vom 06.02.2009 - V ZR 130/08](v-zr-130-08.md) — Tatbestand:
+- [BGH, Urteil vom 06.02.2009 - V ZR 139/08](v-zr-139-08.md) — Tatbestand:
+- [BGH, Urteil vom 06.02.2009 - V ZR 26/08](v-zr-26-08.md) — 3-
 - [BGH, Beschluss vom 05.02.2009 - V ZB 169/08](v-zb-169-08.md) — BGH, Beschluss vom 05.02.2009 - V ZB 169/08
+- [BGH, Beschluss vom 05.02.2009 - V ZR 143/08](v-zr-143-08.md) — Die Rechtssache wirft keine entscheidungserheblichen Fragen von grundsätzlicher Bedeutung auf.
 - [BGH, Beschluss vom 05.02.2009 - V ZR 159/08](v-zr-159-08.md) — Die Rechtssache wirft keine entscheidungserheblichen Fragen von grundsätzlicher Bedeutung auf.
+- [BGH, Beschluss vom 04.02.2009 - V ZR 132/07](v-zr-132-07.md) — (Rdn. 2) und den Entscheidungsgründen (Rdn. 7) des Senatsurteils vom 13. Juni 2008 wird das fehlerhaft angegebene Datum des Urteils des (großherzoglich hessischen) Landgerichts …
 - [BGH, Beschluss vom 29.01.2009 - V ZB 140/08](v-zb-140-08.md) — BGH, Beschluss vom 29.01.2009 - V ZB 140/08
+- [BGH, Beschluss vom 29.01.2009 - V ZR 109/08](v-zr-109-08.md) — I. 1 Die Kläger kauften von der V. Entwicklungsgesellschaft mbH & Co. KG drei Eigentumswohnungen. Vor ihrer grundbuchlichen Absiche- rung wurde das Insolvenzverfahren über das …
 - [BGH, Beschluss vom 29.01.2009 - V ZR 152/08](v-zr-152-08.md) — BGH, Beschluss vom 29.01.2009 - V ZR 152/08
+- [BGH, Urteil vom 23.01.2009 - V ZR 197/07](v-zr-197-07.md) — Tatbestand:
+- [BGH, Beschluss vom 22.01.2009 - V ZB 101/08](v-zb-101-08.md) — ihrer Ansprüche aus einer in Abt. III Nr. 5 eingetragenen
+- [BGH, Beschluss vom 22.01.2009 - V ZB 165/08](v-zb-165-08.md) — I. 1 Die Klägerin verlangt von dem Beklagten die Herausgabe eines Kraft- fahrzeugs. Das Landgericht hat die Klage abgewiesen. Das Oberlandesgericht hat die von Rechtsanwalt Dr. M …
+- [BGH, Beschluss vom 22.01.2009 - V ZB 181/08](v-zb-181-08.md) — I. 1 Die Schuldner sind Eigentümer des im Eingang bezeichneten Grund- stücks. Das Grundstück ist mit einem Einfamilienhaus bebaut, in welchem sie leben. Am 18. September 2006 …
+- [BGH, Beschluss vom 22.01.2009 - V ZB 91/08](v-zb-91-08.md) — I. 1 Der Beteiligte zu 1 (Schuldner) ist u.a. Eigentümer der im Rubrum zu a) näher bezeichneten Grundstücke, deren Zwangsversteigerung angeordnet wor- den ist. In dem ersten …
+- [BGH, Beschluss vom 22.01.2009 - V ZR 121/08](v-zr-121-08.md) — BGH, Beschluss vom 22.01.2009 - V ZR 121/08
+- [BGH, Beschluss vom 21.01.2009 - V ZR 74/08](v-zr-74-08.md) — offenbarer Unrichtigkeit dahin berichtigt, dass der erste Absatz des Tenors lautet:
+- [BGH, Urteil vom 16.01.2009 - V ZR 133/08](v-zr-133-08.md) — Tatbestand:
+- [BGH, Beschluss vom 15.01.2009 - V ZB 130/08](v-zb-130-08.md) — I. 1 Der Kläger ist Eigentümer einer Wohnung und Mitglied der Beklagten. Er erwirkte eine einstweilige Verfügung, mit welcher der Beklagten untersagt wur- de, zwei Bäume zu fällen …
 - [BGH, Beschluss vom 15.01.2009 - V ZB 166/08](v-zb-166-08.md) — BGH, Beschluss vom 15.01.2009 - V ZB 166/08
 - [BGH, Beschluss vom 15.01.2009 - V ZR 191/08](v-zr-191-08.md) — I. 1 Mit Notarvertrag vom 25. November 2000 kaufte der Kläger von der Be- klagten für 118.810 DM eine Eigentumswohnung und trat einer von einer Schwesterfirma der Beklagten …
 - [BGH, Versäumnisurteil vom 09.01.2009 - V ZR 168/07](v-zr-168-07.md) — Umzugs in ein Pflegeheim nicht mehr ausüben kann, kommt eine ergänzende Vertragsauslegung in Betracht. Eine Verpflichtung des Eigentümers, d
 - [BGH, Beschluss vom 08.01.2009 - V ZA 14/08](v-za-14-08.md) — BGH, Beschluss vom 08.01.2009 - V ZA 14/08
+- [BGH, Beschluss vom 08.01.2009 - V ZR 42/08](v-zr-42-08.md) — Der Senat hat nicht übersehen, dass die schriftliche Abrechnung des Mietpools für das Jahr 2000 am 9.
 - [BGH, Beschluss vom 07.01.2009 - V ZB 160/08](v-zb-160-08.md) — BGH, Beschluss vom 07.01.2009 - V ZB 160/08

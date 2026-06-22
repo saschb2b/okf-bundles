@@ -1,20 +1,40 @@
 # 3. Strafsenat – 2002
 
-115 Entscheidung(en).
+244 Entscheidung(en).
 
+- [BGH, Beschluss vom 19.12.2002 - 3 StR 360/02](3-str-360-02.md) — schwerer Körperverletzung u. a.
+- [BGH, Urteil vom 19.12.2002 - 3 StR 401/02](3-str-401-02.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 17.12.2002 - 3 StR 389/02](3-str-389-02.md) — zu 1.: unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 17.12.2002 - 3 StR 390/02](3-str-390-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.12.2002 - 3 StR 397/02](3-str-397-02.md) — Diebstahls
+- [BGH, Beschluss vom 12.12.2002 - 3 StR 408/02](3-str-408-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 05.12.2002 - 3 StR 161/02](3-str-161-02.md) — Betruges
+- [BGH, Urteil vom 05.12.2002 - 3 StR 297/02](3-str-297-02.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 05.12.2002 - 3 StR 399/02](3-str-399-02.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 05.12.2002 - 3 StR 413/02](3-str-413-02.md) — Diebstahls u. a.
+- [BGH, Beschluss vom 05.12.2002 - 3 StR 419/02](3-str-419-02.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 03.12.2002 - 3 StR 388/02](3-str-388-02.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 03.12.2002 - 3 StR 406/02](3-str-406-02.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 03.12.2002 - 3 StR 417/02](3-str-417-02.md) — Diebstahls
 - [BGH, Urteil vom 21.11.2002 - 3 StR 260/02](3-str-260-02.md) — Vergewaltigung u. a.
+- [BGH, Urteil vom 21.11.2002 - 3 StR 296/02](3-str-296-02.md) — Brandstiftung u. a.
+- [BGH, Urteil vom 21.11.2002 - 3 StR 299/02](3-str-299-02.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
 - [BGH, Urteil vom 21.11.2002 - 3 StR 318/02](3-str-318-02.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 19.11.2002 - 3 StR 354/02](3-str-354-02.md) — Beihilfe zur gefährlichen Körperverletzung
+- [BGH, Beschluss vom 19.11.2002 - 3 StR 367/02](3-str-367-02.md) — schwerer räuberischer Erpressung u. a. Der 3. Strafsenat des Bundesgerichtshofs hat auf Antrag des Generalbundesanwalts und nach Anhörung de
 - [BGH, Beschluss vom 19.11.2002 - 3 StR 372/02](3-str-372-02.md) — gewerbsmäßiger Abgabe von Betäubungsmitteln an Minderjährige
+- [BGH, Beschluss vom 19.11.2002 - 3 StR 395/02](3-str-395-02.md) — Diebstahls
 - [BGH, Beschluss vom 19.11.2002 - 3 StR 398/02](3-str-398-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u. a.
 - [BGH, Beschluss vom 12.11.2002 - 3 StR 244/02](3-str-244-02.md) — Totschlags
 - [BGH, Beschluss vom 12.11.2002 - 3 StR 402/02](3-str-402-02.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 12.11.2002 - 3 StR 81/02](3-str-81-02.md) — gewerbsmäßigen Einschleusens von Ausländern u. a.
+- [BGH, Beschluss vom 07.11.2002 - 3 StR 216/02](3-str-216-02.md) — Totschlags
+- [BGH, Urteil vom 07.11.2002 - 3 StR 274/02](3-str-274-02.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 07.11.2002 - 3 StR 285/02](3-str-285-02.md) — Beihilfe zum Betrug u. a.
+- [BGH, Beschluss vom 07.11.2002 - 3 StR 366/02](3-str-366-02.md) — schweren sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 05.11.2002 - 3 StR 338/02](3-str-338-02.md) — schweren sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 05.11.2002 - 3 StR 380/02](3-str-380-02.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 05.11.2002 - 3 StR 381/02](3-str-381-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 31.10.2002 - 3 StR 174/02](3-str-174-02.md) — schweren Menschenhandels u. a.
 - [BGH, Beschluss vom 31.10.2002 - 3 StR 269/02](3-str-269-02.md) — Untreue
 - [BGH, Beschluss vom 31.10.2002 - 3 StR 329/02](3-str-329-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
@@ -28,18 +48,47 @@
 - [BGH, Beschluss vom 28.10.2002 - 3 StR 342/02](3-str-342-02.md) — Totschlags
 - [BGH, Beschluss vom 28.10.2002 - 3 StR 355/02](3-str-355-02.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 28.10.2002 - 3 StR 363/02](3-str-363-02.md) — räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 28.10.2002 - 3 StR 383/02](3-str-383-02.md) — Die Revision ist unzulässig, weil die ausschließlich erhobene Verfahrensrüge nicht den Formerfordernissen des § 344 Abs.
+- [BGH, Urteil vom 17.10.2002 - 3 StR 153/02](3-str-153-02.md) — zu 1.: Anstiftung zur tateinheitlichen versuchten Herbeiführung einer Sprengstoffexplosion und versuchten Brandstiftung
+- [BGH, Urteil vom 17.10.2002 - 3 StR 249/02](3-str-249-02.md) — Mordes u. a.
 - [BGH, Beschluss vom 15.10.2002 - 3 StR 270/02](3-str-270-02.md) — schwerer Verunglimpfung des Staates
 - [BGH, Beschluss vom 15.10.2002 - 3 StR 340/02](3-str-340-02.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 10.10.2002 - 3 StR 327/02](3-str-327-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 10.10.2002 - 3 StR 337/02](3-str-337-02.md) — Diebstahls
 - [BGH, Beschluss vom 08.10.2002 - 3 StR 294/02](3-str-294-02.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 02.10.2002 - 3 StR 315/02](3-str-315-02.md) — Untreue
 - [BGH, Beschluss vom 01.10.2002 - 3 StR 325/02](3-str-325-02.md) — versuchter räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 26.09.2002 - 3 StR 278/02](3-str-278-02.md) — gewerbs- und bandenmäßigen Betrugs
 - [BGH, Beschluss vom 26.09.2002 - 3 StR 323/02](3-str-323-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 24.09.2002 - 3 StR 232/02](3-str-232-02.md) — Brandstiftung mit Todesfolge
+- [BGH, Beschluss vom 24.09.2002 - 3 StR 292/02](3-str-292-02.md) — bewaffneter Einfuhr von Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 24.09.2002 - 3 StR 313/02](3-str-313-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 24.09.2002 - 3 StR 314/02](3-str-314-02.md) — Mordes
 - [BGH, Urteil vom 05.09.2002 - 3 StR 263/02](3-str-263-02.md) — sexuellen Mißbrauchs eines Kindes u. a.
 - [BGH, Beschluss vom 04.09.2002 - 3 StR 192/02](3-str-192-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 04.09.2002 - 3 StR 251/02](3-str-251-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 04.09.2002 - 3 StR 276/02](3-str-276-02.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 29.08.2002 - 3 StR 258/02](3-str-258-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 29.08.2002 - 3 StR 287/02](3-str-287-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 27.08.2002 - 3 StR 218/02](3-str-218-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.08.2002 - 3 StR 246/02](3-str-246-02.md) — Mordes u.a.
+- [BGH, Beschluss vom 27.08.2002 - 3 StR 262/02](3-str-262-02.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 27.08.2002 - 3 StR 279/02](3-str-279-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 27.08.2002 - 3 StR 75/02](3-str-75-02.md) — Betrugs
+- [BGH, Urteil vom 15.08.2002 - 3 StR 11/02](3-str-11-02.md) — strafbarer Werbung u. a.
+- [BGH, Urteil vom 15.08.2002 - 3 StR 166/02](3-str-166-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 15.08.2002 - 3 StR 225/02](3-str-225-02.md) — Totschlags
+- [BGH, Beschluss vom 15.08.2002 - 3 StR 261/02](3-str-261-02.md) — bewaffneten Betäubungsmittelhandels in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 13.08.2002 - 3 StR 204/02](3-str-204-02.md) — Totschlags u.a.
+- [BGH, Beschluss vom 13.08.2002 - 3 StR 266/02](3-str-266-02.md) — Mordes
 - [BGH, Beschluss vom 08.08.2002 - 3 StR 239/02](3-str-239-02.md) — Das Landgericht hat die Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus angeordnet, weil er im Zustand erheblich verminderter, möglicherweise sogar …
 - [BGH, Beschluss vom 06.08.2002 - 3 StR 184/02](3-str-184-02.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 01.08.2002 - 3 StR 122/02](3-str-122-02.md) — zu 1.: schwerer räuberischer Erpressung zu 2.: Beihilfe zur schweren räuberischen Erpressung
+- [BGH, Urteil vom 01.08.2002 - 3 StR 496/01](3-str-496-01.md) — Totschlags u. a.
+- [BGH, Urteil vom 01.08.2002 - 3 StR 90/02](3-str-90-02.md) — Betruges
+- [BGH, Beschluss vom 31.07.2002 - 3 StR 159/02](3-str-159-02.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 31.07.2002 - 3 StR 233/02](3-str-233-02.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 31.07.2002 - 3 StR 495/01](3-str-495-01.md) — Verwendens von Kennzeichen verfassungswidriger Organisationen
 - [BGH, Beschluss vom 25.07.2002 - 3 StR 147/02](3-str-147-02.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 25.07.2002 - 3 StR 203/02](3-str-203-02.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 25.07.2002 - 3 StR 230/02](3-str-230-02.md) — Betrugs
@@ -49,6 +98,14 @@
 - [BGH, Beschluss vom 23.07.2002 - 3 StR 187/02](3-str-187-02.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 23.07.2002 - 3 StR 220/02](3-str-220-02.md) — Beihilfe zur unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 23.07.2002 - 3 StR 240/02](3-str-240-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 09.07.2002 - 3 StR 165/02](3-str-165-02.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 09.07.2002 - 3 StR 207/02](3-str-207-02.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 04.07.2002 - 3 StR 190/02](3-str-190-02.md) — Betrugs u. a.
+- [BGH, Urteil vom 04.07.2002 - 3 StR 64/02](3-str-64-02.md) — Mißhandlung von Schutzbefohlenen
+- [BGH, Beschluss vom 02.07.2002 - 3 StR 201/02](3-str-201-02.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 27.06.2002 - 3 StR 182/02](3-str-182-02.md) — Anstiftung zum versuchten Mord u.a.
+- [BGH, Beschluss vom 27.06.2002 - 3 StR 189/02](3-str-189-02.md) — räuberischen Angriffs auf Kraftfahrer u.a.
+- [BGH, Beschluss vom 27.06.2002 - 3 StR 193/02](3-str-193-02.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 26.06.2002 - 3 StR 176/02](3-str-176-02.md) — versuchter schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 26.06.2002 - 3 StR 177/02](3-str-177-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 26.06.2002 - 3 StR 178/02](3-str-178-02.md) — Vergewaltigung
@@ -58,20 +115,36 @@
 - [BGH, Beschluss vom 13.06.2002 - 3 StR 134/02](3-str-134-02.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 13.06.2002 - 3 StR 151/02](3-str-151-02.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 13.06.2002 - 3 StR 76/02](3-str-76-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 11.06.2002 - 3 StR 140/02](3-str-140-02.md) — Beihilfe zum bewaffneten Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 11.06.2002 - 3 StR 158/02](3-str-158-02.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 11.06.2002 - 3 StR 46/02](3-str-46-02.md) — schwerer Brandstiftung
 - [BGH, Beschluss vom 11.06.2002 - 3 StR 484/01](3-str-484-01.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 11.06.2002 - 3 StR 62/02](3-str-62-02.md) — Mordes
+- [BGH, Urteil vom 06.06.2002 - 3 StR 113/02](3-str-113-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 06.06.2002 - 3 StR 118/02](3-str-118-02.md) — gewerbsmäßiger Hehlerei u.a.
+- [BGH, Beschluss vom 06.06.2002 - 3 StR 160/02](3-str-160-02.md) — versuchten schweren Raubes
+- [BGH, Beschluss vom 06.06.2002 - 3 StR 425/01](3-str-425-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 06.06.2002 - 3 StR 68/02](3-str-68-02.md) — Betrugs
 - [BGH, Beschluss vom 04.06.2002 - 3 StR 143/02](3-str-143-02.md) — versuchter Vergewaltigung u.a.
 - [BGH, Beschluss vom 04.06.2002 - 3 StR 144/02](3-str-144-02.md) — schwerer räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 04.06.2002 - 3 StR 146/02](3-str-146-02.md) — Mordes
 - [BGH, Beschluss vom 04.06.2002 - 3 StR 155/02](3-str-155-02.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 04.06.2002 - 3 StR 82/02](3-str-82-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 23.05.2002 - 3 StR 138/02](3-str-138-02.md) — Vergewaltigung u. a.
 - [BGH, Urteil vom 23.05.2002 - 3 StR 513/01](3-str-513-01.md) — Brandstiftung u.a.
+- [BGH, Urteil vom 23.05.2002 - 3 StR 53/02](3-str-53-02.md) — schweren Raubes u.a.
+- [BGH, Urteil vom 23.05.2002 - 3 StR 58/02](3-str-58-02.md) — Veröffentlichung: ja ________________ JGG § 33 Abs. 1, § 107 StPO § 209 Abs. 1, § 209 a Nr. 2 Buchst. a, § 270 Abs. 1, § 338 Nr. 4 Die Strafkammer, vor der die Jugendkammer gemäß …
+- [BGH, Urteil vom 23.05.2002 - 3 StR 77/02](3-str-77-02.md) — Totschlags
 - [BGH, Beschluss vom 22.05.2002 - 3 StR 127/02](3-str-127-02.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 22.05.2002 - 3 StR 136/02](3-str-136-02.md) — Diebstahls
 - [BGH, Beschluss vom 22.05.2002 - 3 StR 72/02](3-str-72-02.md) — Mordes u. a.
 - [BGH, Beschluss vom 16.05.2002 - 3 StR 124/02](3-str-124-02.md) — Betrugs
 - [BGH, Beschluss vom 16.05.2002 - 3 StR 448/01](3-str-448-01.md) — schweren Bandendiebstahls u.a.
+- [BGH, Beschluss vom 14.05.2002 - 3 StR 123/02](3-str-123-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 14.05.2002 - 3 StR 128/02](3-str-128-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 14.05.2002 - 3 StR 133/02](3-str-133-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 14.05.2002 - 3 StR 35/02](3-str-35-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 14.05.2002 - 3 StR 95/02](3-str-95-02.md) — schweren sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 08.05.2002 - 3 StR 42/02](3-str-42-02.md) — Vergewaltigung
 - [BGH, Beschluss vom 08.05.2002 - 3 StR 8/02](3-str-8-02.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 07.05.2002 - 3 StR 110/02](3-str-110-02.md) — sexuellen Mißbrauchs eines Kindes u. a.
@@ -79,41 +152,97 @@
 - [BGH, Beschluss vom 07.05.2002 - 3 StR 115/02](3-str-115-02.md) — Diebstahls
 - [BGH, Beschluss vom 07.05.2002 - 3 StR 119/02](3-str-119-02.md) — bandenmäßigen gewerbsmäßigen Betruges
 - [BGH, Beschluss vom 07.05.2002 - 3 StR 48/02](3-str-48-02.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 07.05.2002 - 3 StR 499/01](3-str-499-01.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 07.05.2002 - 3 StR 80/02](3-str-80-02.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Beschluss vom 07.05.2002 - 3 StR 89/02](3-str-89-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 25.04.2002 - 3 StR 109/02](3-str-109-02.md) — Totschlags u. a.
 - [BGH, Beschluss vom 25.04.2002 - 3 StR 111/02](3-str-111-02.md) — Raubes
 - [BGH, Beschluss vom 25.04.2002 - 3 StR 117/02](3-str-117-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 25.04.2002 - 3 StR 45/02](3-str-45-02.md) — Bandenhandels mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 25.04.2002 - 3 StR 506/01](3-str-506-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 23.04.2002 - 3 StR 102/02](3-str-102-02.md) — Mordes u.a.
 - [BGH, Beschluss vom 23.04.2002 - 3 StR 106/02](3-str-106-02.md) — versuchten Totschlags
+- [BGH, Beschluss vom 23.04.2002 - 3 StR 27/02](3-str-27-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 23.04.2002 - 3 StR 505/01](3-str-505-01.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 23.04.2002 - 3 StR 69/02](3-str-69-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 18.04.2002 - 3 StR 29/02](3-str-29-02.md) — Bestechlichkeit u.a.
 - [BGH, Urteil vom 18.04.2002 - 3 StR 370/01](3-str-370-01.md) — Totschlags u.a.
 - [BGH, Urteil vom 18.04.2002 - 3 StR 414/01](3-str-414-01.md) — Landfriedensbruchs u.a.
 - [BGH, Urteil vom 18.04.2002 - 3 StR 503/01](3-str-503-01.md) — Totschlags
 - [BGH, Urteil vom 18.04.2002 - 3 StR 52/02](3-str-52-02.md) — Raubes u.a.
 - [BGH, Beschluss vom 18.04.2002 - 3 StR 79/02](3-str-79-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 18.04.2002 - 3 StR 83/02](3-str-83-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 18.04.2002 - 3 StR 93/02](3-str-93-02.md) — Brandstiftung u. a.
+- [BGH, Beschluss vom 16.04.2002 - 3 StR 108/02](3-str-108-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 16.04.2002 - 3 StR 413/01](3-str-413-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 16.04.2002 - 3 StR 59/02](3-str-59-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 16.04.2002 - 3 StR 74/02](3-str-74-02.md) — schweren Raubes
+- [BGH, Beschluss vom 16.04.2002 - 3 StR 86/02](3-str-86-02.md) — Betrugs
+- [BGH, Beschluss vom 16.04.2002 - 3 StR 92/02](3-str-92-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 10.04.2002 - 3 StR 19/02](3-str-19-02.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 10.04.2002 - 3 StR 49/02](3-str-49-02.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Verfügung vom 04.04.2002 - 3 ARs 17/02](3-ars-17-02.md) — Verdachts der Mitgliedschaft in einer terroristischen Vereinigung u.a. hier: Übertragung des Verfahrens an ein anderes Oberlandesgericht
 - [BGH, Urteil vom 04.04.2002 - 3 StR 405/01](3-str-405-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 03.04.2002 - 3 StR 32/02](3-str-32-02.md) — schwerer Brandstiftung
+- [BGH, Beschluss vom 03.04.2002 - 3 StR 33/02](3-str-33-02.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 03.04.2002 - 3 StR 34/02](3-str-34-02.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 03.04.2002 - 3 StR 50/02](3-str-50-02.md) — sexuellen Mißbrauchs eines Kindes
 - [BGH, Beschluss vom 03.04.2002 - 3 StR 54/02](3-str-54-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 03.04.2002 - 3 StR 55/02](3-str-55-02.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 03.04.2002 - 3 StR 70/02](3-str-70-02.md) — zu 1.: schweren Raubes zu 2.: Raubes
 - [BGH, Beschluss vom 03.04.2002 - 3 StR 71/02](3-str-71-02.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 03.04.2002 - 3 StR 78/02](3-str-78-02.md) — Betrugs
 - [BGH, Beschluss vom 03.04.2002 - 3 StR 85/02](3-str-85-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 03.04.2002 - 3 StR 97/02](3-str-97-02.md) — erpresserischen Menschenraubs u.a.
+- [BGH, Urteil vom 21.03.2002 - 3 StR 12/02](3-str-12-02.md) — Wohnungseinbruchdiebstahls u. a.
+- [BGH, Urteil vom 21.03.2002 - 3 StR 340/01](3-str-340-01.md) — fahrlässiger Tötung
+- [BGH, Beschluss vom 21.03.2002 - 3 StR 399/01](3-str-399-01.md) — schweren Raubes
+- [BGH, Urteil vom 21.03.2002 - 3 StR 507/01](3-str-507-01.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 19.03.2002 - 3 StR 28/02](3-str-28-02.md) — Landfriedensbruchs u.a.
 - [BGH, Beschluss vom 14.03.2002 - 3 StR 26/02](3-str-26-02.md) — Beihilfe zur versuchten unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 14.03.2002 - 3 StR 37/02](3-str-37-02.md) — sexuellen Mißbrauchs von Schutzbefohlenen u.a.
 - [BGH, Beschluss vom 14.03.2002 - 3 StR 469/01](3-str-469-01.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 14.03.2002 - 3 StR 9/02](3-str-9-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 12.03.2002 - 3 StR 4/02](3-str-4-02.md) — erpresserischen Menschenraubes u.a.
+- [BGH, Urteil vom 12.03.2002 - 3 StR 404/01](3-str-404-01.md) — bewaffneten Handeltreibens mit Betäubungsmitteln u.a.
 - [BGH, Beschluss vom 07.03.2002 - 3 StR 335/01](3-str-335-01.md) — Mordes
 - [BGH, Urteil vom 07.03.2002 - 3 StR 488/01](3-str-488-01.md) — schwerer räuberischer Erpressung
 - [BGH, Urteil vom 07.03.2002 - 3 StR 490/01](3-str-490-01.md) — gefährlicher Körperverletzung
 - [BGH, Urteil vom 07.03.2002 - 3 StR 6/02](3-str-6-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 05.03.2002 - 3 StR 18/02](3-str-18-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 05.03.2002 - 3 StR 21/02](3-str-21-02.md) — Wohnungseinbruchdiebstahls u.a.
+- [BGH, Beschluss vom 05.03.2002 - 3 StR 22/02](3-str-22-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 05.03.2002 - 3 StR 491/01](3-str-491-01.md) — Veröffentlichung: ja ___________________ BtMG § 29 1. Bestehen konkrete Anhaltspunkte dafür, daß zahlreiche Einzelverkäufe von Betäubungsmitteln mehreren größeren Erwerbsmengen …
+- [BGH, Beschluss vom 05.03.2002 - 3 StR 514/01](3-str-514-01.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 20.02.2002 - 3 StR 1/02](3-str-1-02.md) — versuchten Totschlags
+- [BGH, Beschluss vom 20.02.2002 - 3 StR 14/02](3-str-14-02.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 20.02.2002 - 3 StR 338/01](3-str-338-01.md) — Betruges u.a.
+- [BGH, Beschluss vom 20.02.2002 - 3 StR 345/01](3-str-345-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.02.2002 - 3 StR 510/01](3-str-510-01.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 13.02.2002 - 3 StR 3/02](3-str-3-02.md) — versuchter Vergewaltigung u.a.
 - [BGH, Beschluss vom 13.02.2002 - 3 StR 460/01](3-str-460-01.md) — versuchten schweren sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 13.02.2002 - 3 StR 474/01](3-str-474-01.md) — Vergewaltigung
 - [BGH, Beschluss vom 13.02.2002 - 3 StR 509/01](3-str-509-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 07.02.2002 - 3 StR 446/01](3-str-446-01.md) — Volksverhetzung u.a.
+- [BGH, Beschluss vom 06.02.2002 - 3 StR 444/01](3-str-444-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 05.02.2002 - 3 StR 350/01](3-str-350-01.md) — Beihilfe zum Totschlag u.a.
+- [BGH, Beschluss vom 05.02.2002 - 3 StR 429/01](3-str-429-01.md) — Untreue
+- [BGH, Beschluss vom 05.02.2002 - 3 StR 482/01](3-str-482-01.md) — Geiselnahme
+- [BGH, Beschluss vom 05.02.2002 - 3 StR 512/01](3-str-512-01.md) — bewaffneten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 24.01.2002 - 3 StR 360/01](3-str-360-01.md) — vorsätzlichen Ausübens der tatsächlichen Gewalt über eine halbautomatische Selbstladekurzwaffe u.a.
+- [BGH, Urteil vom 24.01.2002 - 3 StR 402/01](3-str-402-01.md) — Vergewaltigung u.a.
+- [BGH, Urteil vom 24.01.2002 - 3 StR 411/01](3-str-411-01.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 24.01.2002 - 3 StR 415/01](3-str-415-01.md) — Vergewaltigung u.a.; hier: Beschwerde gegen die Prozeßkostenhilfeentscheidung
+- [BGH, Beschluss vom 22.01.2002 - 3 StR 501/01](3-str-501-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 22.01.2002 - 3 StR 508/01](3-str-508-01.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 17.01.2002 - 3 StR 417/01](3-str-417-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 17.01.2002 - 3 StR 434/01](3-str-434-01.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 17.01.2002 - 3 StR 450/01](3-str-450-01.md) — Bandendiebstahls u.a.
+- [BGH, Beschluss vom 17.01.2002 - 3 StR 477/01](3-str-477-01.md) — Mordes u.a.
 - [BGH, Beschluss vom 15.01.2002 - 3 StR 461/01](3-str-461-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 10.01.2002 - 3 StR 398/01](3-str-398-01.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 10.01.2002 - 3 StR 487/01](3-str-487-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.01.2002 - 3 StR 440/01](3-str-440-01.md) — erpresserischen Menschenraubes u.a.
+- [BGH, Beschluss vom 08.01.2002 - 3 StR 453/01](3-str-453-01.md) — versuchten Betruges
 - [BGH, Beschluss vom 08.01.2002 - 3 StR 479/01](3-str-479-01.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 08.01.2002 - 3 StR 489/01](3-str-489-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge

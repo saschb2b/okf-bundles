@@ -1,61 +1,124 @@
 # IV. Zivilsenat – 2005
 
-57 Entscheidung(en).
+120 Entscheidung(en).
 
+- [BGH, Beschluss vom 14.12.2005 - IV ZB 45/04](iv-zb-45-04.md) — I. Die Klägerin verlangt von dem Beklagten die Erteilung einer Rentenstartgutschrift. Die Parteien streiten vorab über die Zulässigkeit des Rechtswegs. -3- 2 1. Der Beklagte …
 - [BGH, Beschluss vom 14.12.2005 - IV ZB 55/04](iv-zb-55-04.md) — I. Der Kläger verlangt von dem Beklagten die Erteilung einer Ren- tenstartgutschrift. Die Parteien streiten vorab über die Zulässigkeit des Rechtswegs. -3- 2 1. Der Beklagte …
+- [BGH, Beschluss vom 14.12.2005 - IV ZR 138/05](iv-zr-138-05.md) — des Inhalts der Zweckerklärung allein in das mit der Grundschuld belastete Grundvermögen vollstrecken kann (vgl. auch die Beschwerdeerwideru
 - [BGH, Beschluss vom 14.12.2005 - IV ZR 303/05](iv-zr-303-05.md) — kommt es auf das Vorliegen eines Scheingeschäfts (§ 117 BGB) und die damit verbundene Darlegungs- und Beweislast nicht mehr an.
+- [BGH, Urteil vom 14.12.2005 - IV ZR 45/05](iv-zr-45-05.md) — Tatbestand:
+- [BGH, Urteil vom 14.12.2005 - IV ZR 96/04](iv-zr-96-04.md) — Tatbestand:
+- [BGH, Beschluss vom 30.11.2005 - IV ZB 32/05](iv-zb-32-05.md) — BGH, Beschluss vom 30.11.2005 - IV ZB 32/05
 - [BGH, Urteil vom 30.11.2005 - IV ZR 154/04](iv-zr-154-04.md) — Tatbestand:
 - [BGH, Beschluss vom 30.11.2005 - IV ZR 214/04](iv-zr-214-04.md) — I. Die Klägerin nimmt die Beklagte aus einer bei ihr gehaltenen Hausratversicherung auf Entschädigung in Anspruch, nachdem der ihr und ihrem Ehemann gehörende Hausrat bei einem …
 - [BGH, Beschluss vom 30.11.2005 - IV ZR 260/04](iv-zr-260-04.md) — BGH, Beschluss vom 30.11.2005 - IV ZR 260/04
+- [BGH, Beschluss vom 30.11.2005 - IV ZR 280/04](iv-zr-280-04.md) — 1. Die Beschwerde macht zwar mit Recht geltend, dass nach § 1829 Abs. 1 Satz 2 BGB selbst eine vom Vormundschaftsgericht erteil- te Genehmigung dem Vertragspartner gegenüber erst …
 - [BGH, Urteil vom 30.11.2005 - IV ZR 4/04](iv-zr-4-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.11.2005 - IV ZR 120/04](iv-zr-120-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.11.2005 - IV ZR 307/04](iv-zr-307-04.md) — Tatbestand:
+- [BGH, Beschluss vom 16.11.2005 - IV ZR 59/05](iv-zr-59-05.md) — BGH, Beschluss vom 16.11.2005 - IV ZR 59/05
+- [BGH, Anerkenntnisurteil vom 16.11.2005 - IV ZR 63/04](iv-zr-63-04.md) — BGH, Anerkenntnisurteil vom 16.11.2005 - IV ZR 63/04
 - [BGH, Beschluss vom 16.11.2005 - IV ZR 7/05](iv-zr-7-05.md) — Mit der Anhörungsrüge wiederholt die Beklagte lediglich die bereits in der Nichtzulassungsbeschwerde erhobenen Vorwürfe, das Kammerge- richt sei von der Rechtsprechung des …
 - [BGH, Urteil vom 09.11.2005 - IV ZR 146/04](iv-zr-146-04.md) — Nachschlagewerk: ja
+- [BGH, Beschluss vom 09.11.2005 - IV ZR 159/04](iv-zr-159-04.md) — BGH, Beschluss vom 09.11.2005 - IV ZR 159/04
+- [BGH, Beschluss vom 09.11.2005 - IV ZR 206/04](iv-zr-206-04.md) — BGH, Beschluss vom 09.11.2005 - IV ZR 206/04
 - [BGH, Urteil vom 09.11.2005 - IV ZR 224/03](iv-zr-224-03.md) — eines Brandes aus Verschulden bei Vertragsschluss nicht unter die Hypothekenhaftung; er geht daher auch nicht gemäß §§ 90 Abs. 2, 55 Abs. 1,
+- [BGH, Urteil vom 02.11.2005 - IV ZR 15/05](iv-zr-15-05.md) — Tatbestand:
 - [BGH, Beschluss vom 02.11.2005 - IV ZR 57/05](iv-zr-57-05.md) — Die Beklagte rügt zu Recht eine Verletzung ihres Anspruchs auf rechtliches Gehör nach Art.
+- [BGH, Urteil vom 19.10.2005 - IV ZR 235/03](iv-zr-235-03.md) — Tatbestand:
 - [BGH, Urteil vom 19.10.2005 - IV ZR 89/05](iv-zr-89-05.md) — kommt insoweit nicht in Betracht (Fortführung von BGH, Urteil vom 27. November 1958 - II ZR 90/57 - NJW 1959, 241).
+- [BGH, Urteil vom 12.10.2005 - IV ZR 162/03](iv-zr-162-03.md) — Verstoßes gegen das Transparenzgebot für unwirksam erklärten Klauseln in Allgemeinen Bedingungen der Lebensversicherung über die Berechnung
+- [BGH, Urteil vom 12.10.2005 - IV ZR 177/03](iv-zr-177-03.md) — Tatbestand: Die vom Bund der Versicherten unterstützte Klägerin verlangt von der Beklagten, einem Lebensversicherungsunternehmen, im Wege de
 - [BGH, Urteil vom 12.10.2005 - IV ZR 245/03](iv-zr-245-03.md) — Tatbestand:
+- [BGH, Urteil vom 28.09.2005 - IV ZR 106/04](iv-zr-106-04.md) — Tatbestand: Die Klägerin begehrt Versicherungsschutz aus einer bei der Beklagten vom 5. Januar 2000 bis 31. März 2002 gehaltenen Privat-, Be
+- [BGH, Urteil vom 28.09.2005 - IV ZR 255/04](iv-zr-255-04.md) — positiver Vertragsverletzung verurteilt, so ist das Gericht im Deckungsprozess zwischen dem Versicherungsnehmer und dem Haftpflichtversicher
 - [BGH, Urteil vom 28.09.2005 - IV ZR 288/03](iv-zr-288-03.md) — Tatbestand:
+- [BGH, Urteil vom 28.09.2005 - IV ZR 82/04](iv-zr-82-04.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2005 - IV ZB 11/04](iv-zb-11-04.md) — I. Die Parteien streiten um die Erstattungsfähigkeit von Verkehrsanwaltskosten für ein beim Oberlandesgericht Köln vor Inkrafttreten des OLG-Vertretungsänderungsgesetzes am 1 …
 - [BGH, Beschluss vom 21.09.2005 - IV ZB 11/05](iv-zb-11-05.md) — Erkrankung ihrer Bürovorsteherin beauftragte die Prozessbevollmächtigte mit der Eintragung der neuen Frist eine Auszubildende im zweiten Leh
 - [BGH, Beschluss vom 21.09.2005 - IV ZB 21/05](iv-zb-21-05.md) — BGH, Beschluss vom 21.09.2005 - IV ZB 21/05
 - [BGH, Urteil vom 21.09.2005 - IV ZR 113/04](iv-zr-113-04.md) — BGH, Urteil vom 21.09.2005 - IV ZR 113/04
 - [BGH, Beschluss vom 21.09.2005 - IV ZR 301/04](iv-zr-301-04.md) — BGH, Beschluss vom 21.09.2005 - IV ZR 301/04
 - [BGH, Beschluss vom 21.09.2005 - IV ZR 302/04](iv-zr-302-04.md) — BGH, Beschluss vom 21.09.2005 - IV ZR 302/04
+- [BGH, Beschluss vom 14.09.2005 - IV ZA 3/05](iv-za-3-05.md) — Der Antragsteller begehrt Prozesskostenhilfe für die Durchführung des Rechtsbeschwerdeverfahrens gegen einen Beschluss, mit dem seine sofortige Beschwerde gegen die Zurückweisung …
+- [BGH, Beschluss vom 14.09.2005 - IV ZB 63/04](iv-zb-63-04.md) — der Anträge I. (1.) bis I. (4.) mit Gründen, ist mein persönliches Erscheinen und eine Vertretung in der mündlichen Verhandlung nicht erford
 - [BGH, Urteil vom 14.09.2005 - IV ZR 145/04](iv-zr-145-04.md) — BGH, Urteil vom 14.09.2005 - IV ZR 145/04
 - [BGH, Beschluss vom 14.09.2005 - IV ZR 153/04](iv-zr-153-04.md) — I. Das Landgericht hat die Beklagte verurteilt, der Auszahlung des Guthabens eines dem Geschäftsbetrieb des Erblassers, des Vaters der Parteien, zuzuordnenden Nachlasskontos in …
 - [BGH, Beschluss vom 14.09.2005 - IV ZR 163/04](iv-zr-163-04.md) — Gründe: A. Die Klägerin nimmt die Beklagte auf Duldung der Zwangsvollstreckung aus einer Sicherungsgrundschuld wegen eines Teilbetrages von
+- [BGH, Urteil vom 14.09.2005 - IV ZR 198/04](iv-zr-198-04.md) — Tatbestand:
+- [BGH, Urteil vom 14.09.2005 - IV ZR 216/04](iv-zr-216-04.md) — Tatbestand:
+- [BGH, Beschluss vom 20.07.2005 - IV ZR 144/04](iv-zr-144-04.md) — der im Februar 1997 vorgenommenen Änderungen an den Rotorblättern auf deren Haltbarkeit vertrauen dürfen und sei auch nicht vor einer Inbetr
 - [BGH, Beschluss vom 20.07.2005 - IV ZR 94/04](iv-zr-94-04.md) — BGH, Beschluss vom 20.07.2005 - IV ZR 94/04
+- [BGH, Beschluss vom 13.07.2005 - IV ZR 211/04](iv-zr-211-04.md) — Brandschadens frei geworden, weil der Kläger versucht habe, arglistig über die Höhe des beim Brand seines Hauses entstandenen Schadens zu tä
 - [BGH, Urteil vom 13.07.2005 - IV ZR 47/04](iv-zr-47-04.md) — Tatbestand: Die Kläger sind alleinige Erben ihres 1999 verstorbenen Vaters, nachdem sie ihre während des Prozesses 2003 verstorbene Mutter (
 - [BGH, Urteil vom 13.07.2005 - IV ZR 83/04](iv-zr-83-04.md) — Tatbestand: Die Parteien streiten um die Wirksamkeit einer Klausel in LuftfahrtKasko-Versicherungsverträgen.
+- [BGH, Beschluss vom 06.07.2005 - IV ZB 54/04](iv-zb-54-04.md) — I. Die Klägerin fordert als Mitglied einer Erbengemeinschaft nach ihrer im Jahre 2000 gestorbenen Mutter im Wege der Stufenklage zunächst Auskunft über den Verbleib von näher …
 - [BGH, Beschluss vom 06.07.2005 - IV ZB 6/05](iv-zb-6-05.md) — I. Der Kläger und die weiteren vier Gesellschafter gewährten der C. G. Verwaltungsgesellschaft mbH im Jahre 1995 Darlehen über jeweils 130.000 DM (66.467,94 €). Durch …
+- [BGH, Urteil vom 06.07.2005 - IV ZR 141/04](iv-zr-141-04.md) — Tatbestand: Der bei der beklagten Zusatzversorgungskasse des Verbandes der Diözesen Deutschlands versicherte Kläger fordert eine höhere Vers
 - [BGH, Urteil vom 29.06.2005 - IV ZR 33/04](iv-zr-33-04.md) — Straftat der versicherten Person); JGG § 3
+- [BGH, Urteil vom 29.06.2005 - IV ZR 56/04](iv-zr-56-04.md) — Tatbestand: Die Parteien sind Geschwister und Miterben ihrer während des Revisionsverfahrens verstorbenen Mutter. Der Kläger führt deren Rec
 - [BGH, Beschluss vom 15.06.2005 - IV ZR 221/03](iv-zr-221-03.md) — Die Beschwerde ist zurückzuweisen, weil ein Zulassungsgrund nicht dargelegt ist (§§ 543 Abs.
+- [BGH, Beschluss vom 15.06.2005 - IV ZR 221/04](iv-zr-221-04.md) — Der Nichtzulassungsbeschwerde ist zuzugeben, daß das Berufungsgericht die Vorschriften zur formellen Beweiskraft (§§ 415 ff, 439 ff ZPO) verkannt und insbesondere die …
 - [BGH, Beschluss vom 15.06.2005 - IV ZR 226/04](iv-zr-226-04.md) — BGH, Beschluss vom 15.06.2005 - IV ZR 226/04
 - [BGH, Beschluss vom 08.06.2005 - IV ZB 12/05](iv-zb-12-05.md) — BGH, Beschluss vom 08.06.2005 - IV ZB 12/05
+- [BGH, Beschluss vom 08.06.2005 - IV ZB 13/05](iv-zb-13-05.md) — Die Beschwerde richtet sich gegen die Ablehnung des Antrags auf Prozeßkostenhilfe für eine Wiederaufnahme eines rechtskräftig abgeschlossenen Zivilprozesses.
+- [BGH, Urteil vom 08.06.2005 - IV ZR 225/04](iv-zr-225-04.md) — Tatbestand: Der Kläger nimmt die Beklagte aus einer bei ihr genommenen Hausratversicherung in Anspruch, der die Allgemeinen Hausratversicher
+- [BGH, Urteil vom 08.06.2005 - IV ZR 30/04](iv-zr-30-04.md) — Tatbestand:
 - [BGH, Beschluss vom 08.06.2005 - IV ZR 87/04](iv-zr-87-04.md) — BGH, Beschluss vom 08.06.2005 - IV ZR 87/04
-- [BGH, Urteil vom 01.06.2005 - IV ZR 100/02](iv-zr-100-02.md) — BGH, Urteil vom 01.06.2005 - IV ZR 100/02
+- [BGH, Beschluss vom 01.06.2005 - IV ZR 22/05](iv-zr-22-05.md) — BGH, Beschluss vom 01.06.2005 - IV ZR 22/05
 - [BGH, Urteil vom 01.06.2005 - IV ZR 315/04](iv-zr-315-04.md) — Tatbestand: Der Kläger hat mit einer Stufenklage den Pflichtteil am Nachlaß seines Vaters verlangt. Während des Revisionsverfahrens ist die
 - [BGH, Urteil vom 01.06.2005 - IV ZR 46/04](iv-zr-46-04.md) — arglistiger Täuschung nicht nur bereits erbrachte Versicherungsleistungen zurückfordern, sondern auch die seit Vertragsschluß erhaltenen Prä
 - [BGH, Beschluss vom 17.05.2005 - IV ZR 238/04](iv-zr-238-04.md) — BGH, Beschluss vom 17.05.2005 - IV ZR 238/04
+- [BGH, Beschluss vom 11.05.2005 - IV ZR 139/04](iv-zr-139-04.md) — BGH, Beschluss vom 11.05.2005 - IV ZR 139/04
+- [BGH, Urteil vom 11.05.2005 - IV ZR 25/04](iv-zr-25-04.md) — Tatbestand:
 - [BGH, Urteil vom 11.05.2005 - IV ZR 279/04](iv-zr-279-04.md) — Tatbestand:
 - [BGH, Urteil vom 04.05.2005 - IV ZR 135/04](iv-zr-135-04.md) — Tatbestand:
+- [BGH, Beschluss vom 04.05.2005 - IV ZR 240/04](iv-zr-240-04.md) — grundsätzlicher Bedeutung und zur Fortbildung des Rechts für geboten, weil es eine klärungsbedürftige und klärungsfähige Rechtsfrage sei, ob
 - [BGH, Beschluss vom 04.05.2005 - IV ZR 30/03](iv-zr-30-03.md) — BGH, Beschluss vom 04.05.2005 - IV ZR 30/03
+- [BGH, Beschluss vom 20.04.2005 - IV ZR 117/04](iv-zr-117-04.md) — der Zerstörung des auf dem Grundstück L. Straße 3 in B. betriebenen Imbisses weiterverfolgt; 2. im übrigen als unbegründet zurückgewiesen.
+- [BGH, Beschluss vom 20.04.2005 - IV ZR 208/04](iv-zr-208-04.md) — Die Beklagte rügt zu Recht eine Verletzung ihres Anspruchs auf rechtliches Gehör nach Art.
 - [BGH, Urteil vom 20.04.2005 - IV ZR 237/03](iv-zr-237-03.md) — BGH, Urteil vom 20.04.2005 - IV ZR 237/03
 - [BGH, Urteil vom 20.04.2005 - IV ZR 252/03](iv-zr-252-03.md) — Tatbestand: Die Kläger begehren Ersatz für Überschwemmungsschäden in Höhe von 13.880,89 € aus einer Wohngebäudeversicherung, die sie bei der
 - [BGH, Urteil vom 20.04.2005 - IV ZR 293/03](iv-zr-293-03.md) — Tatbestand: Der Kläger verlangt Versicherungsleistungen in Höhe von 24.393,89 € aus einer bei der Beklagten gehaltenen Kfz-Kaskoversicherung
 - [BGH, Beschluss vom 13.04.2005 - IV ZR 292/03](iv-zr-292-03.md) — Die Beschwerde ist zurückzuweisen, weil ein Zulassungsgrund nicht dargelegt ist (§§ 543 Abs.
+- [BGH, Beschluss vom 13.04.2005 - IV ZR 62/04](iv-zr-62-04.md) — vorsätzlicher Brandstiftung durch die Versicherungsnehmerin.
 - [BGH, Urteil vom 13.04.2005 - IV ZR 86/04](iv-zr-86-04.md) — Tatbestand: Der Kläger nimmt die Beklagte wegen eines Fahrzeugbrandes auf Versicherungsleistungen in Anspruch.
 - [BGH, Beschluss vom 06.04.2005 - IV ZR 243/04](iv-zr-243-04.md) — BGH, Beschluss vom 06.04.2005 - IV ZR 243/04
+- [BGH, Beschluss vom 16.03.2005 - IV ZR 110/04](iv-zr-110-04.md) — nicht durch, weil die Beklagte in der mündlichen Verhandlung vom 1. Dezember 2003 ausdrücklich zu Protokoll gegeben hat, daß sich diese Verr
+- [BGH, Beschluss vom 16.03.2005 - IV ZR 140/04](iv-zr-140-04.md) — der bindenden Wirkung seiner rechtskräftigen strafrechtlichen Verurteilung für erbunwürdig zu erklären. Eine Bindung des Zivilrichters an st
+- [BGH, Beschluss vom 16.03.2005 - IV ZR 16/04](iv-zr-16-04.md) — Der Beklagte zu 1) und dessen verstorbene Ehefrau hatten 1975 eine Eigentumswohnung vom Kläger gekauft.
 - [BGH, Urteil vom 16.03.2005 - IV ZR 246/03](iv-zr-246-03.md) — BGH, Urteil vom 16.03.2005 - IV ZR 246/03
+- [BGH, Urteil vom 16.03.2005 - IV ZR 272/03](iv-zr-272-03.md) — Tatbestand: Die Klägerin macht ein zu ihren Gunsten ausgesetztes Vermächtnis gegenüber den Beklagten als Erbeserben geltend.
+- [BGH, Beschluss vom 16.03.2005 - IV ZR 57/04](iv-zr-57-04.md) — Die Nichtzulassungsbeschwerde ist gemäß § 26 Nr.
 - [BGH, Beschluss vom 02.03.2005 - IV ZR 137/04](iv-zr-137-04.md) — liegt. Es geht vielmehr um den bereicherungsrechtlichen Ausgleich zwischen zwei Gemeinden, die sich am "Finanzsystem Koch" beteiligt haben; für die Rückabwicklung der einzelnen …
+- [BGH, Beschluss vom 02.03.2005 - IV ZR 197/04](iv-zr-197-04.md) — BGH, Beschluss vom 02.03.2005 - IV ZR 197/04
+- [BGH, Beschluss vom 02.03.2005 - IV ZR 203/04](iv-zr-203-04.md) — nicht gegeben, weil der Klägerin in den Tatsacheninstanzen lediglich vorgeworfen worden ist, sie habe mit dem Architektenschreiben über den
+- [BGH, Urteil vom 02.03.2005 - IV ZR 212/04](iv-zr-212-04.md) — Tatbestand: Die Klägerin nimmt die Beklagte auf Berichtigung des Grundbuchs in Anspruch.
+- [BGH, Beschluss vom 23.02.2005 - IV ZB 48/04](iv-zb-48-04.md) — Mit Beschluß vom 27. Oktober 2004 hat der Senat die Rechtsbeschwerde der Klägerin gegen den Beschluß der 6. Zivilkammer des Landgerichts München I vom 18. Juli 2004 auf ihre …
+- [BGH, Urteil vom 23.02.2005 - IV ZR 271/03](iv-zr-271-03.md) — Tatbestand: Die Klägerin zu 1) und ihr früherer Ehemann, der Beklagte zu 2), waren je zur ideellen Hälfte Miteigentümer eines Hausgrundstück
+- [BGH, Urteil vom 23.02.2005 - IV ZR 273/03](iv-zr-273-03.md) — Tatbestand:
+- [BGH, Beschluss vom 23.02.2005 - IV ZR 55/04](iv-zr-55-04.md) — groben Undanks widerrufen worden. Nachdem sie zunächst Rückübertragung ihrer sowie der ihnen abgetretenen weiteren Erbanteile verlangt hatte
+- [BGH, Beschluss vom 16.02.2005 - IV ZR 178/04](iv-zr-178-04.md) — I. Der Kläger begehrt von dem beklagten Versorgungsverband eine höhere Zusatzrente. Das Berufungsgericht hat die Klage auf Zahlung von 1.716,34 € (Rückstände bis zur Klageerhebung …
 - [BGH, Urteil vom 16.02.2005 - IV ZR 18/04](iv-zr-18-04.md) — Tatbestand: Der Kläger erhebt gegen den Beklagten zu 2), einen Versicherungsverein auf Gegenseitigkeit, Leistungsansprüche wegen des Diebsta
 - [BGH, Urteil vom 16.02.2005 - IV ZR 275/03](iv-zr-275-03.md) — Tatbestand:
 - [BGH, Urteil vom 26.01.2005 - IV ZR 239/03](iv-zr-239-03.md) — Tatbestand:
 - [BGH, Urteil vom 26.01.2005 - IV ZR 296/03](iv-zr-296-03.md) — Tatbestand:
 - [BGH, Beschluss vom 19.01.2005 - IV ZB 42/04](iv-zb-42-04.md) — einer Darlehensforderung in Anspruch genommen. Die Beklagte wurde u.a. verurteilt, an die Klägerin einen Betrag in Höhe von 1.000 DM (511,29
+- [BGH, Urteil vom 19.01.2005 - IV ZR 107/03](iv-zr-107-03.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 159/02](iv-zr-159-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente für Witwer mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 197/03](iv-zr-197-03.md) — Tatbestand:
+- [BGH, Urteil vom 19.01.2005 - IV ZR 200/02](iv-zr-200-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 19.01.2005 - IV ZR 219/02](iv-zr-219-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 19.01.2005 - IV ZR 220/02](iv-zr-220-02.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 19.01.2005 - IV ZR 241/02](iv-zr-241-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 245/02](iv-zr-245-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten mit Wirkung ab 1. März 1999 eine höhere Zusatzversorgungsrente, bei der seine teilweise im
+- [BGH, Urteil vom 19.01.2005 - IV ZR 246/02](iv-zr-246-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 286/02](iv-zr-286-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzversorgungsrente.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 311/02](iv-zr-311-02.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
 - [BGH, Urteil vom 19.01.2005 - IV ZR 312/02](iv-zr-312-02.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten mit Wirkung ab 1. Januar 2001 eine höhere Witwenrente, bei
+- [BGH, Urteil vom 19.01.2005 - IV ZR 372/02](iv-zr-372-02.md) — Tatbestand: Der Kläger begehrt eine höhere Zusatzversorgungsrente von der Beklagten.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 38/04](iv-zr-38-04.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 396/02](iv-zr-396-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 434/02](iv-zr-434-02.md) — Tatbestand: Die Klägerin begehrt von der Beklagten eine höhere Zusatzversorgungsrente.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 44/04](iv-zr-44-04.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente.
 - [BGH, Urteil vom 19.01.2005 - IV ZR 9/03](iv-zr-9-03.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.

@@ -1,79 +1,149 @@
 # XII. Zivilsenat – 2008
 
-75 Entscheidung(en).
+145 Entscheidung(en).
 
+- [BGH, Beschluss vom 17.12.2008 - XII ZB 125/06](xii-zb-125-06.md) — I. 1 Der Kläger verlangt von der Beklagten nach fristloser Kündigung eines Gewerberaummietvertrages Räumung und Herausgabe des Mietobjekts und Zahlung rückständiger Miete. 2 Die …
 - [BGH, Beschluss vom 17.12.2008 - XII ZB 185/08](xii-zb-185-08.md) — I. 1 Das klagabweisende Urteil wurde den Prozessbevollmächtigten der Klä- gerin am 9. Juli 2007 zugestellt. 2 Am 8. August 2007 gingen beim Berufungsgericht zwei Schriftsätze der …
 - [BGH, Versäumnisurteil vom 17.12.2008 - XII ZR 57/07](xii-zr-57-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.12.2008 - XII ZR 63/07](xii-zr-63-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.12.2008 - XII ZR 9/07](xii-zr-9-07.md) — Tatbestand:
 - [BGH, Beschluss vom 10.12.2008 - XII ZB 132/08](xii-zb-132-08.md) — I. 1 Das Landgericht hat die auf Feststellung einer Zahlungsverpflichtung der Beklagten gerichtete Klage durch Urteil vom 4. Januar 2008 abgewiesen. Das Urteil ist der …
+- [BGH, Versäumnisurteil vom 10.12.2008 - XII ZR 108/05](xii-zr-108-05.md) — Tatbestand:
 - [BGH, Urteil vom 03.12.2008 - XII ZR 182/06](xii-zr-182-06.md) — Tatbestand:
 - [BGH, Beschluss vom 26.11.2008 - XII ZB 103/08](xii-zb-103-08.md) — BGH, Beschluss vom 26.11.2008 - XII ZB 103/08
+- [BGH, Urteil vom 26.11.2008 - XII ZR 131/07](xii-zr-131-07.md) — einer höheren Unterhaltsforderung als 285 € monatlich für die Zeit von drei Jahren ab Rechtskraft der Scheidung zurückgewiesen worden ist.
 - [BGH, Urteil vom 26.11.2008 - XII ZR 65/07](xii-zr-65-07.md) — Tatbestand:
 - [BGH, Beschluss vom 26.11.2008 - XII ZR 85/08](xii-zr-85-08.md) — grundsätzlicher Bedeutung der Sache zu gewähren. Zwar hat das Berufungsgericht die Revision zugelassen, weil „die Auslegung des unbestimmten
 - [BGH, Beschluss vom 19.11.2008 - XII ZB 102/08](xii-zb-102-08.md) — BGH, Beschluss vom 19.11.2008 - XII ZB 102/08
 - [BGH, Beschluss vom 19.11.2008 - XII ZB 195/07](xii-zb-195-07.md) — Der Senat hält an seiner mit Hinweis vom 8.
-- [BGH, Beschluss vom 12.11.2008 - XII ZB 92/08](xii-zb-92-08.md) — der Ver-
+- [BGH, Urteil vom 19.11.2008 - XII ZR 123/07](xii-zr-123-07.md) — der Klageforderung in Höhe von 7.132,63 € nebst Zinsen zurückgewiesen worden ist.
+- [BGH, Urteil vom 19.11.2008 - XII ZR 129/06](xii-zr-129-06.md) — Tatbestand:
+- [BGH, Urteil vom 19.11.2008 - XII ZR 51/08](xii-zr-51-08.md) — Tatbestand:
+- [BGH, Beschluss vom 13.11.2008 - XII ZB 147/08](xii-zb-147-08.md) — I. 1 Der Antragsteller ist durch Urteil des Amtsgerichts vom 5. März 2008 zur Zahlung nachehelichen Unterhalts verurteilt worden (Nummer 3 des Entschei- dungssatzes). Gegen das …
 - [BGH, Urteil vom 12.11.2008 - XII ZR 134/04](xii-zr-134-04.md) — Tatbestand:
+- [BGH, Beschluss vom 05.11.2008 - XII ZB 181/05](xii-zb-181-05.md) — I. 1 Die Parteien haben am 11. Juli 1969 geheiratet. Der Scheidungsantrag der Ehefrau (Antragstellerin; geboren am 8. Januar 1951) ist dem Ehemann (Antragsgegner; geboren am 15 …
 - [BGH, Beschluss vom 05.11.2008 - XII ZB 217/04](xii-zb-217-04.md) — I. 1 Die Parteien streiten um schuldrechtlichen Versorgungsausgleich. 2 Die Antragstellerin (Ehefrau, geboren am 12. Dezember 1939) und der Antragsgegner (Ehemann, geboren am 1 …
+- [BGH, Beschluss vom 05.11.2008 - XII ZB 53/06](xii-zb-53-06.md) — eines Verfahrensmangels eine Zurückverweisung durch das Oberlandesgericht an das Amtsgericht - Familiengericht - nur dann in Betracht, wenn
 - [BGH, Beschluss vom 05.11.2008 - XII ZB 87/06](xii-zb-87-06.md) — I. 1 Der am 30. August 1965 geborene Antragsteller (im Folgenden: Ehe- mann) und die am 14. Mai 1968 geborene Antragsgegnerin (im Folgenden: Ehefrau) haben am 30. Mai 1989 die Ehe …
 - [BGH, Beschluss vom 05.11.2008 - XII ZB 90/08](xii-zb-90-08.md) — BGH, Beschluss vom 05.11.2008 - XII ZB 90/08
 - [BGH, Beschluss vom 05.11.2008 - XII ZR 103/07](xii-zr-103-07.md) — der
 - [BGH, Urteil vom 05.11.2008 - XII ZR 157/06](xii-zr-157-06.md) — Tatbestand:
+- [BGH, Beschluss vom 29.10.2008 - XII ZB 69/08](xii-zb-69-08.md) — regelmäßig nach der Barwert-Verordnung zu ermitteln.
 - [BGH, Beschluss vom 29.10.2008 - XII ZB 75/08](xii-zb-75-08.md) — BGH, Beschluss vom 29.10.2008 - XII ZB 75/08
 - [BGH, Urteil vom 29.10.2008 - XII ZR 165/06](xii-zr-165-06.md) — Tatbestand:
 - [BGH, Urteil vom 29.10.2008 - XII ZR 207/06](xii-zr-207-06.md) — Tatbestand:
+- [BGH, Urteil vom 29.10.2008 - XII ZR 208/06](xii-zr-208-06.md) — Tatbestand:
+- [BGH, Beschluss vom 22.10.2008 - XII ZB 110/06](xii-zb-110-06.md) — einzubeziehender anglei-
 - [BGH, Urteil vom 22.10.2008 - XII ZR 148/06](xii-zr-148-06.md) — Tatbestand:
 - [BGH, Urteil vom 22.10.2008 - XII ZR 46/07](xii-zr-46-07.md) — Tatbestand:
 - [BGH, Urteil vom 15.10.2008 - XII ZR 1/07](xii-zr-1-07.md) — Tatbestand:
 - [BGH, Urteil vom 15.10.2008 - XII ZR 2/07](xii-zr-2-07.md) — Tatbestand:
+- [BGH, Urteil vom 08.10.2008 - XII ZR 15/07](xii-zr-15-07.md) — eines Betrages von 10.150 € zuzüglich Zinsen zurückgewiesen worden ist.
 - [BGH, Beschluss vom 08.10.2008 - XII ZR 177/06](xii-zr-177-06.md) — offenbarer Unrichtigkeit (§ 319 Abs. 1 ZPO) dahin berichtigt, dass es
 - [BGH, Urteil vom 08.10.2008 - XII ZR 66/06](xii-zr-66-06.md) — Tatbestand:
 - [BGH, Urteil vom 08.10.2008 - XII ZR 84/06](xii-zr-84-06.md) — Tatbestand:
 - [BGH, Beschluss vom 01.10.2008 - XII ZB 110/08](xii-zb-110-08.md) — I. 1 Durch Verbundurteil vom 5. März 2008 hat das Amtsgericht - Familiengericht - die Ehe der Parteien geschieden und den Versorgungsaus- gleich geregelt. Gegen das dem …
 - [BGH, Beschluss vom 01.10.2008 - XII ZB 184/07](xii-zb-184-07.md) — ausblei-
+- [BGH, Beschluss vom 01.10.2008 - XII ZB 34/08](xii-zb-34-08.md) — Alters des Ehe-
 - [BGH, Urteil vom 01.10.2008 - XII ZR 172/06](xii-zr-172-06.md) — Tatbestand:
+- [BGH, Urteil vom 01.10.2008 - XII ZR 52/07](xii-zr-52-07.md) — Tatbestand:
 - [BGH, Urteil vom 01.10.2008 - XII ZR 62/07](xii-zr-62-07.md) — Tatbestand:
+- [BGH, Beschluss vom 17.09.2008 - XII ZB 12/05](xii-zb-12-05.md) — BGH, Beschluss vom 17.09.2008 - XII ZB 12/05
 - [BGH, Urteil vom 17.09.2008 - XII ZR 61/07](xii-zr-61-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.09.2008 - XII ZR 72/06](xii-zr-72-06.md) — 3-
+- [BGH, Beschluss vom 03.09.2008 - XII ZB 123/06](xii-zb-123-06.md) — Die Parteien streiten um den Versorgungsausgleich.
 - [BGH, Beschluss vom 03.09.2008 - XII ZB 203/06](xii-zb-203-06.md) — I. 1 Die Parteien streiten um den Versorgungsausgleich. 2 Die am 30. September 1981 geschlossene Ehe der Parteien wurde auf den am 6. August 2003 zugestellten Antrag durch …
 - [BGH, Beschluss vom 03.09.2008 - XII ZB 36/06](xii-zb-36-06.md) — der Kürzung seiner Beamtenversorgung, die sich aus der Verminderung der jährlichen Sonderzahlung gemäß § 4 a BSZG ergibt, hat der Ehemann Ab
+- [BGH, Beschluss vom 06.08.2008 - XII ZB 25/07](xii-zb-25-07.md) — I. 1 Das Oberlandesgericht hat mit Beschluss vom 30. August 2006 eine Ent- scheidung des Amtsgerichts - Familiengericht - zum Versorgungsausgleich ab- geändert und die …
 - [BGH, Urteil vom 06.08.2008 - XII ZR 155/06](xii-zr-155-06.md) — Tatbestand:
 - [BGH, Urteil vom 06.08.2008 - XII ZR 67/06](xii-zr-67-06.md) — arglistiger Täuschung ist auch nach Überlassung der Mieträume und Beendigung des Mietvertrages neben der Kündigung zulässig.
+- [BGH, Versäumnisurteil vom 30.07.2008 - XII ZR 126/06](xii-zr-126-06.md) — Erwerbslosigkeit gemäß § 1573 Abs. 1 BGB.
+- [BGH, Urteil vom 30.07.2008 - XII ZR 150/06](xii-zr-150-06.md) — Tatbestand:
 - [BGH, Urteil vom 30.07.2008 - XII ZR 18/07](xii-zr-18-07.md) — Tatbestand:
 - [BGH, Urteil vom 23.07.2008 - XII ZR 134/06](xii-zr-134-06.md) — Tatbestand:
+- [BGH, Urteil vom 23.07.2008 - XII ZR 158/06](xii-zr-158-06.md) — Tatbestand:
 - [BGH, Urteil vom 16.07.2008 - XII ZR 109/05](xii-zr-109-05.md) — ein evtl. Vertrauenstatbestand als Nachwirkung dieser Familie zu berücksichtigen ist.
+- [BGH, Beschluss vom 09.07.2008 - XII ZR 117/06](xii-zr-117-06.md) — I. 1 Die Klägerin betrieb seit 1995 in M. ein Krankenhaus mit eigener Küche. Der Beklagte errichtete in der Nachbarschaft des Krankenhauses ein Altenheim ohne eigene Küche. Nach …
+- [BGH, Urteil vom 09.07.2008 - XII ZR 179/05](xii-zr-179-05.md) — wesentlicher Beiträge eines Partners, mit denen ein Vermögenswert von erheblicher wirtschaftlicher Bedeutung (hier: Wohnhaus) geschaffen wur
+- [BGH, Beschluss vom 09.07.2008 - XII ZR 202/06](xii-zr-202-06.md) — BGH, Beschluss vom 09.07.2008 - XII ZR 202/06
+- [BGH, Beschluss vom 09.07.2008 - XII ZR 34/08](xii-zr-34-08.md) — eines abtrennbaren Teils seiner Ent-
+- [BGH, Urteil vom 09.07.2008 - XII ZR 39/06](xii-zr-39-06.md) — wesentlicher Beiträge eines Partners, mit denen ein Vermögenswert von erheblicher wirtschaftlicher Bedeutung geschaffen wurde, nicht nur ges
+- [BGH, Urteil vom 09.07.2008 - XII ZR 6/07](xii-zr-6-07.md) — Kindesbetreuung alsbald aus dem Berufsleben ausscheiden und bis auf weiteres keine eigenen Versorgungsanrechte (abgesehen von Kindererziehun
+- [BGH, Beschluss vom 02.07.2008 - XII ZB 148/06](xii-zb-148-06.md) — I. 1 Die Parteien streiten um schuldrechtlichen Versorgungsausgleich. 2 Die am 12. November 1965 geschlossene Ehe der Parteien wurde auf den am 30. Januar 1987 zugestellten Antrag …
+- [BGH, Beschluss vom 02.07.2008 - XII ZB 208/05](xii-zb-208-05.md) — I. 1 Die Parteien streiten um schuldrechtlichen Versorgungsausgleich. 2 Die am 9. Mai 1969 geschlossene Ehe der Parteien wurde auf den am 21. Februar 2003 zugestellten Antrag …
 - [BGH, Beschluss vom 02.07.2008 - XII ZB 80/06](xii-zb-80-06.md) — I. 1 Die Parteien streiten um den Versorgungsausgleich. 2 Die am 14. Oktober 1987 geschlossene Ehe der Parteien wurde auf den am 16. März 2005 zugestellten Antrag durch Urteil vom …
+- [BGH, Beschluss vom 02.07.2008 - XII ZR 44/07](xii-zr-44-07.md) — Versagung der Erlaubnis zur
+- [BGH, Beschluss vom 25.06.2008 - XII ZB 163/06](xii-zb-163-06.md) — I. 1 Der am 20. Mai 1958 geborene Antragsteller und die am 13. April 1960 geborene Antragsgegnerin haben am 14. April 1978 miteinander die Ehe ge- schlossen. Ein aus der Ehe …
 - [BGH, Urteil vom 25.06.2008 - XII ZR 109/07](xii-zr-109-07.md) — 3-
 - [BGH, Beschluss vom 11.06.2008 - XII ZB 11/06](xii-zb-11-06.md) — BGH, Beschluss vom 11.06.2008 - XII ZB 11/06
+- [BGH, Beschluss vom 11.06.2008 - XII ZB 115/05](xii-zb-115-05.md) — I. 1 Die am 6. Februar 1973 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin, geboren am 10. August 1939) am 25. Juni 2004 zugestellten Antrag des …
 - [BGH, Beschluss vom 11.06.2008 - XII ZB 154/07](xii-zb-154-07.md) — BGH, Beschluss vom 11.06.2008 - XII ZB 154/07
 - [BGH, Urteil vom 11.06.2008 - XII ZR 206/06](xii-zr-206-06.md) — Tatbestand:
+- [BGH, Beschluss vom 04.06.2008 - XII ZR 55/08](xii-zr-55-08.md) — dieser Diver-
+- [BGH, Beschluss vom 28.05.2008 - XII ZB 104/06](xii-zb-104-06.md) — des § 652 Abs. 2 ZPO gestützt wird. Eine in dem Unterhaltsfestsetzungsbeschluss enthaltene Bestimmung, nach der die Festsetzung unter einer Bedingung steht und bis zu einem …
+- [BGH, Beschluss vom 28.05.2008 - XII ZB 134/07](xii-zb-134-07.md) — I. 1 Die Parteien streiten um die Durchführung des öffentlich-rechtlichen Ver- sorgungsausgleichs. 2 Sie hatten am 27. Dezember 1968 die Ehe geschlossen. Auf den Schei- …
+- [BGH, Beschluss vom 28.05.2008 - XII ZB 34/05](xii-zb-34-05.md) — BGH, Beschluss vom 28.05.2008 - XII ZB 34/05
+- [BGH, Beschluss vom 28.05.2008 - XII ZB 53/08](xii-zb-53-08.md) — I. 1 1. Der Antragsteller wurde am 6. Dezember 2002 zum vorläufigen Be- treuer und am 16. April 2003 auf Dauer zum (Berufs-)Betreuer der mittellosen, nicht in einem Heim lebenden …
+- [BGH, Urteil vom 28.05.2008 - XII ZR 61/06](xii-zr-61-06.md) — Tatbestand:
 - [BGH, Beschluss vom 14.05.2008 - XII ZB 225/06](xii-zb-225-06.md) — auch nur von ihm, vertreten durch den sorgeberechtigten Elternteil oder, im Falle eines Interessenkonflikts, durch einen Verfahrenspfleger,
 - [BGH, Beschluss vom 14.05.2008 - XII ZB 34/07](xii-zb-34-07.md) — I. 1 Durch das am 3. Januar 2007 zugestellte Urteil hat das Amtsgericht die Abänderungsklage der Klägerin teilweise abgewiesen. Dagegen hat die Kläge- rin mit am 8. Februar 2007 …
+- [BGH, Beschluss vom 14.05.2008 - XII ZB 78/07](xii-zb-78-07.md) — I. 1 Die Parteien streiten um den schuldrechtlichen Versorgungsausgleich. 2 Sie hatten am 8. Juli 1966 die Ehe geschlossen. Auf den Scheidungsan- trag des Antragsgegners, der der …
 - [BGH, Beschluss vom 14.05.2008 - XII ZR 171/06](xii-zr-171-06.md) — Zahlungsverzugs - Zahlung rückständiger Miete für die
 - [BGH, Urteil vom 07.05.2008 - XII ZR 5/06](xii-zr-5-06.md) — Tatbestand:
+- [BGH, Urteil vom 07.05.2008 - XII ZR 69/06](xii-zr-69-06.md) — Tatbestand:
 - [BGH, Beschluss vom 30.04.2008 - XII ZB 5/08](xii-zb-5-08.md) — 1. Die Beteiligten zu 1 und 2 sind die nicht miteinander verheirateten El- tern des am 23. August 2005 geborenen Kindes H. F. (Lütke) E. v. S. Der Beteiligte zu 2 hat die …
+- [BGH, Urteil vom 30.04.2008 - XII ZR 110/06](xii-zr-110-06.md) — Tatbestand:
+- [BGH, Beschluss vom 30.04.2008 - XII ZR 23/06](xii-zr-23-06.md) — offenbarer Unrichtigkeit (§ 319 Abs. 1 ZPO) dahin berichtigt, dass es in Textziffer 12 der Entscheidungsgründe (II 2 a aa) statt "nach den §
+- [BGH, Beschluss vom 30.04.2008 - XII ZR 64/05](xii-zr-64-05.md) — I. 1 Die Klägerin wendet sich mit der Anhörungsrüge gegen das Senatsurteil vom 18. Juli 2007 (FamRZ 2007, 1800). Sie macht geltend, der Senat habe zu Unrecht festgestellt, sie …
 - [BGH, Urteil vom 23.04.2008 - XII ZR 195/06](xii-zr-195-06.md) — Tatbestand:
+- [BGH, Urteil vom 23.04.2008 - XII ZR 62/06](xii-zr-62-06.md) — unwirksam.
 - [BGH, Beschluss vom 16.04.2008 - XII ZB 192/06](xii-zb-192-06.md) — I. 1 Die Parteien streiten im Wege der Stufenklage um Trennungsunterhalt. Mit Teilurteil vom 6. April 2006 hat das Amtsgericht den Beklagten verurteilt, "der Klägerin Auskunft …
+- [BGH, Beschluss vom 16.04.2008 - XII ZB 214/04](xii-zb-214-04.md) — I. 1 Die in Bonn wohnende Klägerin nahm den Beklagten vor dem Amtsge- richt - Familiengericht - Tempelhof-Kreuzberg und dem Kammergericht auf Zah- lung von Ehegattenunterhalt in …
+- [BGH, Beschluss vom 16.04.2008 - XII ZB 37/08](xii-zb-37-08.md) — I. 1 Der Betroffene wendet sich gegen die vormundschaftsgerichtliche Ge- nehmigung seiner vorläufigen Unterbringung. 2 1. Der 27-jährige Betroffene, der an einer Schizophrenie …
+- [BGH, Beschluss vom 16.04.2008 - XII ZB 59/07](xii-zb-59-07.md) — I. 1 Das Verfahren betrifft die Regelung der Benutzung der Ehewohnung während des Getrenntlebens der Ehegatten (§ 1361 b BGB, § 18 a HausratsVO). Gegen die zugunsten der …
+- [BGH, Urteil vom 16.04.2008 - XII ZR 107/06](xii-zr-107-06.md) — Tatbestand:
 - [BGH, Urteil vom 16.04.2008 - XII ZR 144/06](xii-zr-144-06.md) — Tatbestand:
-- [BGH, Beschluss vom 16.04.2008 - XII ZR 165/04](xii-zr-165-04.md) — BGH, Beschluss vom 16.04.2008 - XII ZR 165/04
 - [BGH, Urteil vom 16.04.2008 - XII ZR 7/05](xii-zr-7-05.md) — der folgenden Unterhaltsforderungen abgewiesen worden ist:
 - [BGH, Urteil vom 09.04.2008 - XII ZR 205/06](xii-zr-205-06.md) — Tatbestand:
+- [BGH, Urteil vom 09.04.2008 - XII ZR 89/06](xii-zr-89-06.md) — Tatbestand:
 - [BGH, Beschluss vom 02.04.2008 - XII ZB 116/07](xii-zb-116-07.md) — offenbarer Unrichtigkeit (§ 319 Abs. 1 ZPO) dahin berichtigt, dass das Entscheidungsdatum im Rubrum (Seite 1 und 2 des Beschlusses) 20. Febr
+- [BGH, Beschluss vom 02.04.2008 - XII ZB 120/06](xii-zb-120-06.md) — I. 1 Die Beklagte ist durch das Amtsgericht verurteilt worden, Unterlagen aus einem Betreuungsverhältnis an die Klägerin herauszugeben. Das Urteil ist ihr zu Händen ihrer …
+- [BGH, Beschluss vom 02.04.2008 - XII ZB 131/06](xii-zb-131-06.md) — Versäumung der Berufungsfrist
 - [BGH, Beschluss vom 02.04.2008 - XII ZB 134/06](xii-zb-134-06.md) — BGH, Beschluss vom 02.04.2008 - XII ZB 134/06
+- [BGH, Beschluss vom 02.04.2008 - XII ZB 184/05](xii-zb-184-05.md) — I. 1 Die Parteien, die sich am 15. März 2004 getrennt hatten, streiten um Trennungs- und Kindesunterhalt. Das Amtsgericht - Familiengericht - hat den Beklagten auf die seit …
+- [BGH, Beschluss vom 02.04.2008 - XII ZB 189/07](xii-zb-189-07.md) — I. 1 Gegen den ihm am 22. Mai 2007 zugestellten Beschluss des Familienge- richts, mit dem der Antrag auf Herausgabe des gemeinsamen Kindes der Par- teien zurückgewiesen wurde …
+- [BGH, Beschluss vom 02.04.2008 - XII ZB 190/07](xii-zb-190-07.md) — I. 1 Gegen den ihm am 22. Mai 2007 zugestellten Beschluss des Familienge- richts, mit dem das Aufenthaltsbestimmungsrecht für das gemeinsame Kind der Parteien der Antragsgegnerin …
 - [BGH, Beschluss vom 02.04.2008 - XII ZB 266/03](xii-zb-266-03.md) — ihres gegen den
 - [BGH, Entscheidung vom 02.04.2008 - XII ZR 44/06](xii-zr-44-06.md) — XII ZR 44/06 Schreibfehlerberichtigung In dem Leitzsatz des Urteils vom 2. April 2008 muss es im Zitat, in der Klammer, anstelle von richtig heißen „… BGHZ 71 …“ „… BGHZ 171 …“ …
+- [BGH, Beschluss vom 12.03.2008 - XII ZB 4/08](xii-zb-4-08.md) — I. 1 Der Kläger macht gegen den Beklagten als Insolvenzverwalter Ansprü- che aus einem gewerblichen Mietverhältnis geltend. Das Landgericht hat den Beklagten u.a. verurteilt …
 - [BGH, Urteil vom 12.03.2008 - XII ZR 147/05](xii-zr-147-05.md) — Mängeln der Mietsache geltend machen kann, es sei denn, der Vermieter hat die Mängel vorsätzlich oder grob fahrlässig zu vertreten, ist im Z
 - [BGH, Urteil vom 12.03.2008 - XII ZR 156/05](xii-zr-156-05.md) — Tatbestand:
 - [BGH, Beschluss vom 05.03.2008 - XII ZB 182/04](xii-zb-182-04.md) — fehlender Leistungsfähigkeit des Beklagten abgewiesen.
+- [BGH, Beschluss vom 05.03.2008 - XII ZB 186/05](xii-zb-186-05.md) — gegen deren Zuverlässigkeit sprechen. Wenn der Rechtsanwalt zugleich durch eine allgemeine Kanzleianweisung oder durch Einzelanweisungen sicherstellt, dass im Fristenkalender …
+- [BGH, Beschluss vom 05.03.2008 - XII ZB 196/05](xii-zb-196-05.md) — I. 1 Die am 21. Oktober 1993 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin; geboren am 8. März 1964) am 14. Oktober 2003 zugestellten Antrag des …
 - [BGH, Beschluss vom 05.03.2008 - XII ZB 2/07](xii-zb-2-07.md) — BGH, Beschluss vom 05.03.2008 - XII ZB 2/07
 - [BGH, Versäumnisurteil vom 05.03.2008 - XII ZR 150/05](xii-zr-150-05.md) — Tatbestand:
+- [BGH, Urteil vom 05.03.2008 - XII ZR 22/06](xii-zr-22-06.md) — Tatbestand:
+- [BGH, Beschluss vom 20.02.2008 - XII ZB 179/07](xii-zb-179-07.md) — I. 1 Die Parteien streiten um Ausgleichsansprüche nach gescheiterter Ehe. Mit Urteil vom 15. November 2005 hat das Amtsgericht den Beklagten verurteilt, an die Klägerin 635,02 € …
+- [BGH, Beschluss vom 20.02.2008 - XII ZB 83/07](xii-zb-83-07.md) — I. 1 Die Parteien sind geschiedene Eheleute. Der Kläger begehrt von der Be- klagten Abänderung eines gerichtlichen Unterhaltsvergleichs, Rückzahlung zu- viel geleisteten …
+- [BGH, Urteil vom 20.02.2008 - XII ZR 101/05](xii-zr-101-05.md) — mutwilliger Aufgabe einer gut bezahlten Arbeitsstelle auf fiktiver Grundlage ergangenen Unterhaltsurteils ist nicht bereits mit der Behauptu
 - [BGH, Beschluss vom 13.02.2008 - XII ZB 151/07](xii-zb-151-07.md) — nicht hinreichend nachgewiesener Bedürftigkeit rechnen musste. Das ist der Fall, wenn dem Antrag innerhalb der Rechtsmittelfrist eine vollst
 - [BGH, Beschluss vom 06.02.2008 - XII ZB 180/05](xii-zb-180-05.md) — BGH, Beschluss vom 06.02.2008 - XII ZB 180/05
 - [BGH, Beschluss vom 06.02.2008 - XII ZB 66/07](xii-zb-66-07.md) — I. 1 Die Parteien streiten um die Durchführung des Versorgungsausgleichs. 2 Sie hatten am 11. Oktober 1987 die Ehe geschlossen. Auf den Schei- dungsantrag des Ehemannes, der der …
 - [BGH, Versäumnisurteil vom 06.02.2008 - XII ZR 14/06](xii-zr-14-06.md) — von einem fiktiven Einkommen auszugehen. Diese Voraussetzung liegt nicht vor, wenn ein Unterhaltsschuldner Kinder aus einer neuen Beziehung
+- [BGH, Urteil vom 06.02.2008 - XII ZR 185/05](xii-zr-185-05.md) — Tatbestand:
+- [BGH, Urteil vom 06.02.2008 - XII ZR 45/06](xii-zr-45-06.md) — einer weiteren Zugewinnausgleichsforderung von 24.945,41 € nebst Zinsen zurückgewiesen worden ist.
+- [BGH, Beschluss vom 30.01.2008 - XII ZR 146/06](xii-zr-146-06.md) — Die Beschwerde ist unzulässig. 2 Das Landgericht hat den Beklagten zur Räumung und Herausgabe der von der Klägerin gepachteten Gaststättenräume verurteilt. Der Beklagte hat …
+- [BGH, Urteil vom 30.01.2008 - XII ZR 176/05](xii-zr-176-05.md) — Tatbestand:
+- [BGH, Urteil vom 30.01.2008 - XII ZR 177/05](xii-zr-177-05.md) — Tatbestand:
 - [BGH, Beschluss vom 23.01.2008 - XII ZB 155/07](xii-zb-155-07.md) — BGH, Beschluss vom 23.01.2008 - XII ZB 155/07
 - [BGH, Beschluss vom 23.01.2008 - XII ZB 176/07](xii-zb-176-07.md) — zu legen. b) Eine Ausnahme kann sich ergeben, wenn der Aufenthalt in der Pflegefamilie von einem Heimträger organisiert wird, der diesen Aufenthalt ständig kontrolliert und …
+- [BGH, Beschluss vom 23.01.2008 - XII ZB 185/07](xii-zb-185-07.md) — I. 1 Die Beteiligte zu 1 ist Betreuerin des (1960 geborenen) Betroffenen mit den Aufgabenkreisen Gesundheitsfürsorge und Aufenthaltsbestimmung. Sie hat die Genehmigung beantragt …
 - [BGH, Beschluss vom 23.01.2008 - XII ZB 209/06](xii-zb-209-06.md) — einer Krankheit oder Behinderung Hilfen durch die Bestellung eines Betreuers erforderlich sind.
+- [BGH, Urteil vom 16.01.2008 - XII ZR 216/05](xii-zr-216-05.md) — zu beachten, sondern auch dann, wenn eine für den nachfolgenden Rechtsstreit (hier: Leistungsklage) entscheidungserhebliche Vorfrage im Vorp
+- [BGH, Beschluss vom 09.01.2008 - XII ZB 106/07](xii-zb-106-07.md) — I. 1 Die Parteien streiten über den Versorgungsausgleich. 2 Die Ehe der Parteien wurde durch Verbundurteil vom 10. Januar 2007 geschieden; zugleich wurde - entsprechend einer von …
+- [BGH, Beschluss vom 09.01.2008 - XII ZB 62/07](xii-zb-62-07.md) — I. 1 Die am 13. Juli 1985 geschlossene Ehe der Parteien wurde auf den der Ehefrau (Antragsgegnerin; geboren am 3. März 1966) am 25. April 2006 zuge- stellten Antrag des Ehemannes …
+- [BGH, Beschluss vom 09.01.2008 - XII ZB 93/07](xii-zb-93-07.md) — I. 1 Die Parteien streiten über den Versorgungsausgleich. 2 Die Ehe der Parteien wurde durch Verbundurteil vom 10. Januar 2007 geschieden; zugleich wurde - entsprechend einer von …
 - [BGH, Urteil vom 09.01.2008 - XII ZR 170/05](xii-zr-170-05.md) — Tatbestand:
 - [BGH, Urteil vom 09.01.2008 - XII ZR 184/05](xii-zr-184-05.md) — Tatbestand:
+- [BGH, Urteil vom 09.01.2008 - XII ZR 33/06](xii-zr-33-06.md) — Tatbestand:

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UNKRÜbk"
 description: "BGH-Entscheidungen zu UNKRÜbk, geordnet nach Vorschrift."
 tags: [register, navigation, unkrübk]
-timestamp: 2026-06-22T14:30:24Z
+timestamp: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

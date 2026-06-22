@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 12.07.2004 - NotZ 5/04"
+description: "Übertragung einer Notarstelle"
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2004/NotZ___5-04.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "Senat für Notarsachen"
+datum: 2004-07-12
+aktenzeichen: "NotZ 5/04"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T15:26:05Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: NotZ 5/04 vom 12.07.2004.
+
+# Citations
+
+[1] [BGH, Beschluss vom 12.07.2004 - NotZ 5/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2004/NotZ___5-04.pdf?__blob=publicationFile&v=1)
+

@@ -1,10 +1,11 @@
 # I. Zivilsenat – 2001
 
-65 Entscheidung(en).
+145 Entscheidung(en).
 
 - [BGH, Urteil vom 20.12.2001 - I ZR 135/99](i-zr-135-99.md) — BGH, Urteil vom 20.12.2001 - I ZR 135/99
 - [BGH, Urteil vom 20.12.2001 - I ZR 152/99](i-zr-152-99.md) — BGH, Urteil vom 20.12.2001 - I ZR 152/99
 - [BGH, Beschluss vom 20.12.2001 - I ZR 156/01](i-zr-156-01.md) — BGH, Beschluss vom 20.12.2001 - I ZR 156/01
+- [BGH, Urteil vom 20.12.2001 - I ZR 215/98](i-zr-215-98.md) — besonders guter Marktkenntnis die Unrichtigkeit sofort erkennt.
 - [BGH, Urteil vom 20.12.2001 - I ZR 227/99](i-zr-227-99.md) — Tatbestand:
 - [BGH, Urteil vom 20.12.2001 - I ZR 60/99](i-zr-60-99.md) — Tatbestand:
 - [BGH, Urteil vom 20.12.2001 - I ZR 78/99](i-zr-78-99.md) — Tatbestand:
@@ -19,24 +20,56 @@
 - [BGH, Urteil vom 06.12.2001 - I ZR 11/99](i-zr-11-99.md) — Tatbestand:
 - [BGH, Urteil vom 06.12.2001 - I ZR 14/99](i-zr-14-99.md) — BGH, Urteil vom 06.12.2001 - I ZR 14/99
 - [BGH, Beschluss vom 06.12.2001 - I ZR 154/01](i-zr-154-01.md) — BGH, Beschluss vom 06.12.2001 - I ZR 154/01
+- [BGH, Urteil vom 06.12.2001 - I ZR 214/99](i-zr-214-99.md) — Tatbestand:
 - [BGH, Urteil vom 06.12.2001 - I ZR 283/00](i-zr-283-00.md) — BGH, Urteil vom 06.12.2001 - I ZR 283/00
 - [BGH, Urteil vom 06.12.2001 - I ZR 284/00](i-zr-284-00.md) — BGH, Urteil vom 06.12.2001 - I ZR 284/00
 - [BGH, Urteil vom 06.12.2001 - I ZR 316/98](i-zr-316-98.md) — BGH, Urteil vom 06.12.2001 - I ZR 316/98
+- [BGH, Urteil vom 22.11.2001 - I ZR 111/99](i-zr-111-99.md) — Tatbestand:
+- [BGH, Urteil vom 22.11.2001 - I ZR 138/99](i-zr-138-99.md) — wiedergegebenen Homepage und/oder des Domain-Namens “shell.de” in der Werbung für Textverarbeitung, Übersetzungen, Durchführung von Recherchen, Erstellung und Produktion von …
+- [BGH, Urteil vom 15.11.2001 - I ZR 122/99](i-zr-122-99.md) — Tatbestand:
+- [BGH, Urteil vom 15.11.2001 - I ZR 158/99](i-zr-158-99.md) — BGH, Urteil vom 15.11.2001 - I ZR 158/99
+- [BGH, Urteil vom 15.11.2001 - I ZR 163/99](i-zr-163-99.md) — 3-
 - [BGH, Urteil vom 15.11.2001 - I ZR 182/99](i-zr-182-99.md) — Verlustes, sondern wegen Beschädigung von Transportgut Schadensersatz verlangt wird.
+- [BGH, Urteil vom 15.11.2001 - I ZR 221/99](i-zr-221-99.md) — Tatbestand:
 - [BGH, Urteil vom 15.11.2001 - I ZR 264/99](i-zr-264-99.md) — Tatbestand:
 - [BGH, Urteil vom 15.11.2001 - I ZR 275/99](i-zr-275-99.md) — 3Tatbestand:
+- [BGH, Urteil vom 15.11.2001 - I ZR 284/99](i-zr-284-99.md) — Tatbestand:
 - [BGH, Urteil vom 15.11.2001 - I ZR 74/99](i-zr-74-99.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 15.11.2001 - I ZR 75/99](i-zr-75-99.md) — Tatbestand:
 - [BGH, Urteil vom 15.11.2001 - I ZR 76/99](i-zr-76-99.md) — 3-
 - [BGH, Beschluss vom 14.11.2001 - I ZR 266/98](i-zr-266-98.md) — I. Die Klägerin, die Zentrale zur Bekämpfung unlauteren Wettbewerbs, hat mit der Beklagten, einer zur französischen A. -Gruppe gehörenden inländischen Hotelbetriebsgesellschaft …
-- [BGH, Beschluss vom 18.10.2001 - I ZR 187/98](i-zr-187-98.md) — BGH, Beschluss vom 18.10.2001 - I ZR 187/98
+- [BGH, Urteil vom 08.11.2001 - I ZR 124/99](i-zr-124-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2001 - I ZR 139/99](i-zr-139-99.md) — Tatbestand:
+- [BGH, Urteil vom 08.11.2001 - I ZR 199/99](i-zr-199-99.md) — Tatbestand:
+- [BGH, Urteil vom 25.10.2001 - I ZR 187/99](i-zr-187-99.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2001 - I ZR 24/01](i-zr-24-01.md) — BGH, Beschluss vom 25.10.2001 - I ZR 24/01
+- [BGH, Urteil vom 25.10.2001 - I ZR 29/99](i-zr-29-99.md) — Tatbestand:
+- [BGH, Urteil vom 25.10.2001 - I ZR 51/99](i-zr-51-99.md) — 3-
+- [BGH, Urteil vom 18.10.2001 - I ZR 193/99](i-zr-193-99.md) — BGH, Urteil vom 18.10.2001 - I ZR 193/99
+- [BGH, Urteil vom 18.10.2001 - I ZR 22/99](i-zr-22-99.md) — Tatbestand:
 - [BGH, Urteil vom 18.10.2001 - I ZR 91/99](i-zr-91-99.md) — Tatbestand:
+- [BGH, Beschluss vom 11.10.2001 - I ZB 4/99](i-zb-4-99.md) — des Bestehens absoluter Schutzhindernisse nach § 8 Abs. 2 MarkenG nicht eingetragen werden dürfen. Sie sei praktisch identisch mit dem Inter
+- [BGH, Beschluss vom 11.10.2001 - I ZB 5/99](i-zb-5-99.md) — absoluter Schutzhindernisse nach § 8 Abs. 2 MarkenG nicht eingetragen werden dürfen. Sie sei praktisch identisch mit dem INN (International
+- [BGH, Urteil vom 11.10.2001 - I ZR 168/99](i-zr-168-99.md) — 3-
+- [BGH, Urteil vom 11.10.2001 - I ZR 172/99](i-zr-172-99.md) — Tatbestand:
 - [BGH, Beschluss vom 26.09.2001 - I ZR 3/01](i-zr-3-01.md) — I. Der Kläger ist ein eingetragener Verein, dem Gewerbetreibende und Verbände von Gewerbetreibenden zur Bekämpfung von Verstößen gegen das UWG angehören. Er hat die Beklagte, die …
+- [BGH, Beschluss vom 19.09.2001 - I ZB 14/01](i-zb-14-01.md) — BGH, Beschluss vom 19.09.2001 - I ZB 14/01
+- [BGH, Beschluss vom 19.09.2001 - I ZB 15/01](i-zb-15-01.md) — BGH, Beschluss vom 19.09.2001 - I ZB 15/01
+- [BGH, Beschluss vom 19.09.2001 - I ZB 3/99](i-zb-3-99.md) — I. Mit ihrer am 13. Januar 1995 eingereichten Anmeldung begehrt die Anmelderin die Eintragung der Farben "grün/gelb" als "sonstige Markenform". Der Anmeldung war ein Blatt …
+- [BGH, Beschluss vom 19.09.2001 - I ZB 6/99](i-zb-6-99.md) — I. Mit ihrer am 14. November 1995 eingereichten Anmeldung begehrt die Anmelderin die Eintragung der "Farbe Grün (Pantone Nr. 3288U), in der die Gehäuse der beanspruchten Waren …
+- [BGH, Urteil vom 19.09.2001 - I ZR 128/99](i-zr-128-99.md) — Tatbestand:
+- [BGH, Urteil vom 19.09.2001 - I ZR 343/98](i-zr-343-98.md) — Tatbestand:
+- [BGH, Urteil vom 19.09.2001 - I ZR 54/96](i-zr-54-96.md) — Tatbestand:
+- [BGH, Beschluss vom 16.08.2001 - I ZR 179/00](i-zr-179-00.md) — nach ausscheidet (vgl. OLG Karlsruhe, Urt. v. 9.4.1997 - 6 U 133/96, Nichtannahmebeschluß des Senats v. 15.9.1999 - I ZR 119/97, und OLG Karlsruhe, Urt. v. 10.11.1999 - 6 U 79/97 …
+- [BGH, Beschluss vom 16.08.2001 - I ZR 42/01](i-zr-42-01.md) — BGH, Beschluss vom 16.08.2001 - I ZR 42/01
 - [BGH, Urteil vom 12.07.2001 - I ZR 100/99](i-zr-100-99.md) — Tatbestand:
 - [BGH, Urteil vom 12.07.2001 - I ZR 261/98](i-zr-261-98.md) — BGH, Urteil vom 12.07.2001 - I ZR 261/98
 - [BGH, Beschluss vom 12.07.2001 - I ZR 280/00](i-zr-280-00.md) — BGH, Beschluss vom 12.07.2001 - I ZR 280/00
 - [BGH, Urteil vom 12.07.2001 - I ZR 40/99](i-zr-40-99.md) — BGH, Urteil vom 12.07.2001 - I ZR 40/99
 - [BGH, Urteil vom 12.07.2001 - I ZR 89/99](i-zr-89-99.md) — BGH, Urteil vom 12.07.2001 - I ZR 89/99
+- [BGH, Beschluss vom 05.07.2001 - I ZB 12/01](i-zb-12-01.md) — Die weitere (sofortige) Beschwerde des Antragstellers ist unzulässig.
+- [BGH, Beschluss vom 05.07.2001 - I ZB 8/99](i-zb-8-99.md) — fehlender Unterscheidungskraft und wegen des Vorliegens eines Freihaltungsbedürfnisses zurückgewiesen.
+- [BGH, Urteil vom 05.07.2001 - I ZR 104/99](i-zr-104-99.md) — BGH, Urteil vom 05.07.2001 - I ZR 104/99
 - [BGH, Urteil vom 05.07.2001 - I ZR 311/98](i-zr-311-98.md) — Tatbestand:
 - [BGH, Urteil vom 05.07.2001 - I ZR 335/98](i-zr-335-98.md) — Tatbestand:
 - [BGH, Beschluss vom 28.06.2001 - I ZA 2/00](i-za-2-00.md) — Besorgnis der Befangenheit abgelehnt. Die Markenabteilung hat den Antrag
@@ -44,10 +77,39 @@
 - [BGH, Beschluss vom 28.06.2001 - I ZB 58/98](i-zb-58-98.md) — fehlender Unterscheidungskraft des Zeichens zurückgewiesen.
 - [BGH, Urteil vom 28.06.2001 - I ZR 121/99](i-zr-121-99.md) — Tatbestand:
 - [BGH, Urteil vom 28.06.2001 - I ZR 13/99](i-zr-13-99.md) — Tatbestand:
+- [BGH, Urteil vom 21.06.2001 - I ZR 197/00](i-zr-197-00.md) — 3-
+- [BGH, Urteil vom 21.06.2001 - I ZR 245/98](i-zr-245-98.md) — BGH, Urteil vom 21.06.2001 - I ZR 245/98
+- [BGH, Urteil vom 21.06.2001 - I ZR 27/99](i-zr-27-99.md) — Tatbestand:
+- [BGH, Urteil vom 21.06.2001 - I ZR 69/99](i-zr-69-99.md) — BGH, Urteil vom 21.06.2001 - I ZR 69/99
+- [BGH, Beschluss vom 07.06.2001 - I ZB 11/01](i-zb-11-01.md) — Die weitere (sofortige) Beschwerde der Verfügungsbeklagten ist unzulässig.
+- [BGH, Beschluss vom 07.06.2001 - I ZB 20/99](i-zb-20-99.md) — I. Die Anmelderin begehrt mit ihrer am 15. November 1996 eingereichten Anmeldung die Eintragung der Wortfolge "LOOK"
+- [BGH, Urteil vom 07.06.2001 - I ZR 115/99](i-zr-115-99.md) — BGH, Urteil vom 07.06.2001 - I ZR 115/99
 - [BGH, Urteil vom 07.06.2001 - I ZR 157/98](i-zr-157-98.md) — Tatbestand:
 - [BGH, Urteil vom 07.06.2001 - I ZR 198/98](i-zr-198-98.md) — Tatbestand:
+- [BGH, Beschluss vom 07.06.2001 - I ZR 200/00](i-zr-200-00.md) — BGH, Beschluss vom 07.06.2001 - I ZR 200/00
+- [BGH, Urteil vom 07.06.2001 - I ZR 21/99](i-zr-21-99.md) — Tatbestand:
 - [BGH, Urteil vom 07.06.2001 - I ZR 210/97](i-zr-210-97.md) — Tatbestand:
+- [BGH, Beschluss vom 07.06.2001 - I ZR 224/00](i-zr-224-00.md) — BGH, Beschluss vom 07.06.2001 - I ZR 224/00
+- [BGH, Urteil vom 07.06.2001 - I ZR 49/99](i-zr-49-99.md) — 3-
+- [BGH, Urteil vom 07.06.2001 - I ZR 81/98](i-zr-81-98.md) — Tatbestand:
+- [BGH, Urteil vom 31.05.2001 - I ZR 106/99](i-zr-106-99.md) — BGH, Urteil vom 31.05.2001 - I ZR 106/99
+- [BGH, Urteil vom 31.05.2001 - I ZR 82/99](i-zr-82-99.md) — Tatbestand:
+- [BGH, Beschluss vom 31.05.2001 - I ZR 85/00](i-zr-85-00.md) — des Verlustes von Transportgut auf
+- [BGH, Beschluss vom 17.05.2001 - I ZB 60/98](i-zb-60-98.md) — des thematischen Bezugs zu diesen Waren und Dienstleistungen jegliche Unterscheidungskraft. Dagegen sind für Waren und Dienstleistungen, bei
+- [BGH, Urteil vom 17.05.2001 - I ZR 216/99](i-zr-216-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.05.2001 - I ZR 251/99](i-zr-251-99.md) — Tatbestand:
+- [BGH, Urteil vom 17.05.2001 - I ZR 291/98](i-zr-291-98.md) — BGH, Urteil vom 17.05.2001 - I ZR 291/98
+- [BGH, Beschluss vom 17.05.2001 - I ZR 34/98](i-zr-34-98.md) — offensichtlicher Unrichtigkeit (§ 319 ZPO) in der Weise geändert, daß auf S. 11 des Umdrucks in der 6. Zeile des 2. Absatzes - unter II. 1.
+- [BGH, Beschluss vom 17.05.2001 - I ZR 68/00](i-zr-68-00.md) — BGH, Beschluss vom 17.05.2001 - I ZR 68/00
+- [BGH, Urteil vom 03.05.2001 - I ZR 153/99](i-zr-153-99.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2001 - I ZR 18/99](i-zr-18-99.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2001 - I ZR 318/98](i-zr-318-98.md) — BGH, Urteil vom 03.05.2001 - I ZR 318/98
+- [BGH, Urteil vom 26.04.2001 - I ZR 212/98](i-zr-212-98.md) — 3-
+- [BGH, Urteil vom 26.04.2001 - I ZR 314/98](i-zr-314-98.md) — Tatbestand:
 - [BGH, Beschluss vom 19.04.2001 - I ZA 4/00](i-za-4-00.md) — BGH, Beschluss vom 19.04.2001 - I ZA 4/00
+- [BGH, Urteil vom 19.04.2001 - I ZR 238/98](i-zr-238-98.md) — Tatbestand:
+- [BGH, Urteil vom 19.04.2001 - I ZR 283/98](i-zr-283-98.md) — Tatbestand:
+- [BGH, Urteil vom 19.04.2001 - I ZR 340/98](i-zr-340-98.md) — BGH, Urteil vom 19.04.2001 - I ZR 340/98
 - [BGH, Urteil vom 19.04.2001 - I ZR 46/99](i-zr-46-99.md) — BGH, Urteil vom 19.04.2001 - I ZR 46/99
 - [BGH, Urteil vom 05.04.2001 - I ZR 132/98](i-zr-132-98.md) — BGH, Urteil vom 05.04.2001 - I ZR 132/98
 - [BGH, Beschluss vom 05.04.2001 - I ZR 15/98](i-zr-15-98.md) — BGH, Beschluss vom 05.04.2001 - I ZR 15/98
@@ -58,12 +120,30 @@
 - [BGH, Urteil vom 05.04.2001 - I ZR 39/99](i-zr-39-99.md) — 3Tatbestand:
 - [BGH, Beschluss vom 05.04.2001 - I ZR 45/98](i-zr-45-98.md) — desselben Wettbewerbsverhaltens in jeweils getrennten Verfahren gerichtlich gegen die Beklagte vorgegangen. Alle Konzerngesellschaften waren
 - [BGH, Beschluss vom 05.04.2001 - I ZR 78/00](i-zr-78-00.md) — BGH, Beschluss vom 05.04.2001 - I ZR 78/00
-- [BGH, Beschluss vom 22.02.2001 - I ZA 1/01](i-za-1-01.md) — Nichtbenutzung in Anspruch genommen.
+- [BGH, Urteil vom 29.03.2001 - I ZR 182/98](i-zr-182-98.md) — BGH, Urteil vom 29.03.2001 - I ZR 182/98
+- [BGH, Urteil vom 29.03.2001 - I ZR 312/98](i-zr-312-98.md) — eines Ablieferungshindernisses i.S. von § 28 Abs. 5 KVO gemäß § 28 Abs. 6 KVO bei einem Spediteur oder öffentlichen Lagerhaus hinterlegt, er
+- [BGH, Urteil vom 15.03.2001 - I ZR 163/98](i-zr-163-98.md) — Tatbestand:
+- [BGH, Urteil vom 15.03.2001 - I ZR 337/98](i-zr-337-98.md) — 3-
+- [BGH, Beschluss vom 05.03.2001 - I ZR 58/00](i-zr-58-00.md) — Besorgnis der Befangenheit abgelehnt werden; diese Be-
+- [BGH, Beschluss vom 01.03.2001 - I ZB 42/98](i-zb-42-98.md) — I. Für die Markeninhaberin ist seit dem 30. Januar 1996 die Marke Nr. 395 37 609 marktfrisch für eine Vielzahl von Waren und Dienstleistungen der Klassen 29 bis 33 und 42 in das …
+- [BGH, Beschluss vom 01.03.2001 - I ZB 54/98](i-zb-54-98.md) — fehlender Unterscheidungskraft nach § 8 Abs. 2 Nr. 1 MarkenG zurückgewiesen.
+- [BGH, Beschluss vom 01.03.2001 - I ZB 57/98](i-zb-57-98.md) — I. Die Anmelderin begehrt mit ihrer am 2. Januar 1995 beim Deutschen Patentamt eingegangenen Anmeldung die Registrierung der Farbe "violettfarben" als "sonstige Markenform". Als …
+- [BGH, Urteil vom 01.03.2001 - I ZR 205/98](i-zr-205-98.md) — Tatbestand:
+- [BGH, Urteil vom 01.03.2001 - I ZR 211/98](i-zr-211-98.md) — eines bestehenden Freihaltebedürfnisses nicht schutzfähig sind, können den Schutz der §§ 5, 15 MarkenG in Anspruch nehmen, wenn sie innerhal
+- [BGH, Urteil vom 01.03.2001 - I ZR 300/98](i-zr-300-98.md) — 3-
 - [BGH, Urteil vom 22.02.2001 - I ZR 194/98](i-zr-194-98.md) — Tatbestand:
 - [BGH, Urteil vom 22.02.2001 - I ZR 227/00](i-zr-227-00.md) — 3-
 - [BGH, Urteil vom 22.02.2001 - I ZR 282/98](i-zr-282-98.md) — 3Tatbestand:
+- [BGH, Urteil vom 15.02.2001 - I ZR 232/98](i-zr-232-98.md) — Tatbestand: Die Klägerin befaßt sich mit der Beschaffung, Installation und Wartung von PC-Netzwerken für gewerblich tätige Kunden. Sie firmi
+- [BGH, Urteil vom 15.02.2001 - I ZR 333/98](i-zr-333-98.md) — 3-
+- [BGH, Beschluss vom 01.02.2001 - I ZB 39/00](i-zb-39-00.md) — Versäumung der Frist zur Begründung der Berufung gegen das Urteil der 4. Kammer für Handelssachen des Landgerichts Mannheim vom 19. Juni 200
+- [BGH, Beschluss vom 01.02.2001 - I ZB 51/98](i-zb-51-98.md) — des Bestehens eines Freihaltungsbedürfnisses zurückgewiesen.
+- [BGH, Beschluss vom 01.02.2001 - I ZB 55/98](i-zb-55-98.md) — BGH, Beschluss vom 01.02.2001 - I ZB 55/98
 - [BGH, Urteil vom 25.01.2001 - I ZR 120/98](i-zr-120-98.md) — Tatbestand:
 - [BGH, Urteil vom 25.01.2001 - I ZR 287/98](i-zr-287-98.md) — Nichterfüllung verlangen, ohne daß es einer Nachfristsetzung mit Ablehnungsandrohung bedarf.
 - [BGH, Urteil vom 25.01.2001 - I ZR 323/98](i-zr-323-98.md) — des typischen Charakters von Unterlassungsverträgen regelmäßig nach denselben Grundsätzen zu beurteilen sein.
 - [BGH, Urteil vom 25.01.2001 - I ZR 53/99](i-zr-53-99.md) — Tatbestand:
 - [BGH, Beschluss vom 18.01.2001 - I ZB 37/00](i-zb-37-00.md) — greifbarer Gesetzwidrigkeit kann nur in Betracht kommen, wenn die angegriffene Entscheidung jeder rechtlichen Grundlage entbehrt oder mit de
+- [BGH, Urteil vom 18.01.2001 - I ZR 175/98](i-zr-175-98.md) — Tatbestand:
+- [BGH, Urteil vom 18.01.2001 - I ZR 256/98](i-zr-256-98.md) — 3-
+- [BGH, Beschluss vom 18.01.2001 - I ZR 93/98](i-zr-93-98.md) — Der Tatbestandsberichtigungsantrag ist einmal deshalb unzulässig, weil er, obwohl es sich um einen bestimmenden Schriftsatz handelt, nicht von einem beim Bundesgerichtshof …

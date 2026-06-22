@@ -1,55 +1,187 @@
 # 3. Strafsenat – 2003
 
-56 Entscheidung(en).
+189 Entscheidung(en).
 
+- [BGH, Beschluss vom 17.12.2003 - 3 StR 302/03](3-str-302-03.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.; hier: Berichtigung der Urteilsformel betreffend die Angeklagte L.
+- [BGH, Beschluss vom 16.12.2003 - 3 StR 415/03](3-str-415-03.md) — Betrugs
+- [BGH, Beschluss vom 16.12.2003 - 3 StR 417/03](3-str-417-03.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 16.12.2003 - 3 StR 438/03](3-str-438-03.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 16.12.2003 - 3 StR 95/03](3-str-95-03.md) — Betrugs u. a.
+- [BGH, Urteil vom 11.12.2003 - 3 StR 120/03](3-str-120-03.md) — Körperverletzung mit Todesfolge u. a.
+- [BGH, Urteil vom 11.12.2003 - 3 StR 368/03](3-str-368-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Urteil vom 11.12.2003 - 3 StR 375/03](3-str-375-03.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln
 - [BGH, Beschluss vom 11.12.2003 - 3 StR 404/03](3-str-404-03.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 11.12.2003 - 3 StR 421/03](3-str-421-03.md) — Diebstahls u. a.
+- [BGH, Beschluss vom 11.12.2003 - 3 StR 430/03](3-str-430-03.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 09.12.2003 - 3 StR 378/03](3-str-378-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 09.12.2003 - 3 StR 419/03](3-str-419-03.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 09.12.2003 - 3 StR 442/03](3-str-442-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 27.11.2003 - 3 StR 161/03](3-str-161-03.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 27.11.2003 - 3 StR 221/03](3-str-221-03.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 27.11.2003 - 3 StR 388/03](3-str-388-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 27.11.2003 - 3 StR 390/03](3-str-390-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 27.11.2003 - 3 StR 397/03](3-str-397-03.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.11.2003 - 3 StR 398/03](3-str-398-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 27.11.2003 - 3 StR 403/03](3-str-403-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
 - [BGH, Beschluss vom 27.11.2003 - 3 StR 412/02](3-str-412-02.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
 - [BGH, Beschluss vom 26.11.2003 - 3 StR 206/03](3-str-206-03.md) — versuchten schweren sexuellen Mißbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 26.11.2003 - 3 StR 401/03](3-str-401-03.md) — Totschlags u. a.
+- [BGH, Beschluss vom 26.11.2003 - 3 StR 406/03](3-str-406-03.md) — Raubes u. a.
+- [BGH, Beschluss vom 25.11.2003 - 3 StR 318/03](3-str-318-03.md) — Mordes
+- [BGH, Beschluss vom 25.11.2003 - 3 StR 323/03](3-str-323-03.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 25.11.2003 - 3 StR 405/03](3-str-405-03.md) — Das Landgericht hat gegen den Beschuldigten im Sicherungsverfahren die Unterbringung in einem psychiatrischen Krankenhaus sowie die Einziehung verschiedener Gegenstände angeordnet.
 - [BGH, Urteil vom 13.11.2003 - 3 StR 282/03](3-str-282-03.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 13.11.2003 - 3 StR 359/03](3-str-359-03.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 11.11.2003 - 3 StR 345/03](3-str-345-03.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 11.11.2003 - 3 StR 394/03](3-str-394-03.md) — schweren Raubes; hier: Revision des Angeklagten S.
+- [BGH, Beschluss vom 11.11.2003 - 3 StR 395/03](3-str-395-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 30.10.2003 - 3 StR 276/03](3-str-276-03.md) — Untreue
+- [BGH, Beschluss vom 30.10.2003 - 3 StR 292/03](3-str-292-03.md) — Mordes
+- [BGH, Beschluss vom 30.10.2003 - 3 StR 383/03](3-str-383-03.md) — sexuellen Mißbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 28.10.2003 - 3 StR 43/03](3-str-43-03.md) — schweren Bandendiebstahls u. a.;
+- [BGH, Beschluss vom 23.10.2003 - 3 StR 379/03](3-str-379-03.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 16.10.2003 - 3 StR 257/03](3-str-257-03.md) — zu 1. Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a. zu 2. Handeltreibens mit Betäubungsmitteln in nicht geringer Menge;
+- [BGH, Beschluss vom 14.10.2003 - 3 StR 228/03](3-str-228-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 14.10.2003 - 3 StR 316/03](3-str-316-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 14.10.2003 - 3 StR 346/03](3-str-346-03.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 14.10.2003 - 3 StR 69/03](3-str-69-03.md) — schweren Bandendiebstahls u. a.
 - [BGH, Beschluss vom 09.10.2003 - 3 StR 136/03](3-str-136-03.md) — Diebstahls
+- [BGH, Beschluss vom 09.10.2003 - 3 StR 308/03](3-str-308-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 09.10.2003 - 3 StR 309/03](3-str-309-03.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 09.10.2003 - 3 StR 315/03](3-str-315-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 09.10.2003 - 3 StR 322/03](3-str-322-03.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 09.10.2003 - 3 StR 364/03](3-str-364-03.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Entscheidung vom 08.10.2003 - 3 StR 342/03](3-str-342-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 29.09.2003 - 3 StR 284/03](3-str-284-03.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 29.09.2003 - 3 StR 338/03](3-str-338-03.md) — Raubes u. a.
+- [BGH, Beschluss vom 23.09.2003 - 3 StR 294/03](3-str-294-03.md) — Betruges
 - [BGH, Beschluss vom 23.09.2003 - 3 StR 337/03](3-str-337-03.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 22.09.2003 - 3 StR 258/03](3-str-258-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 22.09.2003 - 3 StR 321/03](3-str-321-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.; hier: Revision des Angeklagten K.
 - [BGH, Beschluss vom 22.09.2003 - 3 StR 328/03](3-str-328-03.md) — sexuellen Mißbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 22.09.2003 - 3 StR 332/03](3-str-332-03.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 11.09.2003 - 3 StR 311/03](3-str-311-03.md) — Betrugs u. a.
 - [BGH, Urteil vom 11.09.2003 - 3 StR 316/02](3-str-316-02.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 11.09.2003 - 3 StR 481/02](3-str-481-02.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 09.09.2003 - 3 StR 283/03](3-str-283-03.md) — Totschlags
 - [BGH, Urteil vom 04.09.2003 - 3 StR 224/03](3-str-224-03.md) — schwerer Brandstiftung
+- [BGH, Beschluss vom 02.09.2003 - 3 StR 146/03](3-str-146-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 02.09.2003 - 3 StR 277/03](3-str-277-03.md) — Körperverletzung mit Todesfolge
 - [BGH, Beschluss vom 02.09.2003 - 3 StR 279/03](3-str-279-03.md) — Körperverletzung mit Todesfolge
 - [BGH, Urteil vom 21.08.2003 - 3 StR 234/03](3-str-234-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 21.08.2003 - 3 StR 238/03](3-str-238-03.md) — Verdachts des Mordes
+- [BGH, Beschluss vom 21.08.2003 - 3 StR 251/03](3-str-251-03.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 19.08.2003 - 3 StR 256/03](3-str-256-03.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 19.08.2003 - 3 StR 268/03](3-str-268-03.md) — schweren Raubes
+- [BGH, Beschluss vom 14.08.2003 - 3 StR 17/03](3-str-17-03.md) — zu 1.: Beihilfe zum Mord u. a. zu 2.: Mordes u. a.
+- [BGH, Beschluss vom 14.08.2003 - 3 StR 199/03](3-str-199-03.md) — Betrugs
+- [BGH, Beschluss vom 14.08.2003 - 3 StR 260/03](3-str-260-03.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 12.08.2003 - 3 StR 250/03](3-str-250-03.md) — vorsätzlicher Brandstiftung u. a.
+- [BGH, Urteil vom 07.08.2003 - 3 StR 137/03](3-str-137-03.md) — Veröffentlichung: ja ___________________________ StGB §§ 16, 239 a, 253 BGB § 242 1. Überläßt ein Betäubungsmittelhändler seinem Kunden, der ihn über seine Zahlungsfähigkeit und …
+- [BGH, Beschluss vom 05.08.2003 - 3 StR 231/03](3-str-231-03.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 05.08.2003 - 3 StR 247/03](3-str-247-03.md) — versuchten Diebstahls
+- [BGH, Urteil vom 24.07.2003 - 3 StR 153/03](3-str-153-03.md) — Veröffentlichung: ja _____________________________________ StGB § 13 Abs. 1 Die strafrechtliche Garantenpflicht unter Eheleuten endet, wenn sich ein Ehegatte vom anderen in der …
 - [BGH, Beschluss vom 24.07.2003 - 3 StR 159/03](3-str-159-03.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 24.07.2003 - 3 StR 368/02](3-str-368-02.md) — zu 1.: unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a. zu 2.: unerlaubten Handeltreibens mit Betäubungsmitteln in ni
+- [BGH, Beschluss vom 22.07.2003 - 3 StR 243/03](3-str-243-03.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 17.07.2003 - 3 StR 142/03](3-str-142-03.md) — Diebstahls
+- [BGH, Beschluss vom 17.07.2003 - 3 StR 222/03](3-str-222-03.md) — Betrugs
 - [BGH, Beschluss vom 17.07.2003 - 3 StR 226/03](3-str-226-03.md) — räuberischer Erpressung
 - [BGH, Beschluss vom 17.07.2003 - 3 StR 239/03](3-str-239-03.md) — räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 17.07.2003 - 3 StR 49/03](3-str-49-03.md) — Totschlags
 - [BGH, Urteil vom 10.07.2003 - 3 StR 130/03](3-str-130-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 10.07.2003 - 3 StR 243/02](3-str-243-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 09.07.2003 - 3 StR 225/03](3-str-225-03.md) — versuchter sexueller Nötigung u. a.
+- [BGH, Beschluss vom 08.07.2003 - 3 StR 211/03](3-str-211-03.md) — Brandstiftung u. a.
+- [BGH, Beschluss vom 03.07.2003 - 3 StR 187/03](3-str-187-03.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 24.06.2003 - 3 StR 173/03](3-str-173-03.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 24.06.2003 - 3 StR 184/03](3-str-184-03.md) — schweren Bandendiebstahls u. a.
+- [BGH, Beschluss vom 24.06.2003 - 3 StR 202/03](3-str-202-03.md) — versuchter schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 24.06.2003 - 3 StR 96/03](3-str-96-03.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 17.06.2003 - 3 StR 177/03](3-str-177-03.md) — versuchter Vergewaltigung u. a.
+- [BGH, Beschluss vom 17.06.2003 - 3 StR 178/03](3-str-178-03.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 17.06.2003 - 3 StR 183/03](3-str-183-03.md) — gewerbsmäßiger Hehlerei u. a.
+- [BGH, Beschluss vom 17.06.2003 - 3 StR 190/03](3-str-190-03.md) — Vergewaltigung unter Verwendung eines gefährlichen Werkzeugs u.a.
+- [BGH, Beschluss vom 17.06.2003 - 3 StR 194/03](3-str-194-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 06.06.2003 - 3 StR 181/03](3-str-181-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 06.06.2003 - 3 StR 188/03](3-str-188-03.md) — Betrugs u. a.
+- [BGH, Beschluss vom 05.06.2003 - 3 StR 400/02](3-str-400-02.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
 - [BGH, Urteil vom 05.06.2003 - 3 StR 55/03](3-str-55-03.md) — Totschlags
+- [BGH, Urteil vom 05.06.2003 - 3 StR 60/03](3-str-60-03.md) — Vergewaltigung
 - [BGH, Beschluss vom 23.05.2003 - 3 StR 121/03](3-str-121-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 23.05.2003 - 3 StR 134/03](3-str-134-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 23.05.2003 - 3 StR 86/03](3-str-86-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 22.05.2003 - 3 StR 125/03](3-str-125-03.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 21.05.2003 - 3 StR 145/03](3-str-145-03.md) — Diebstahls
+- [BGH, Beschluss vom 21.05.2003 - 3 StR 157/03](3-str-157-03.md) — gewerbsmäßiger Bandenhehlerei u. a.
+- [BGH, Beschluss vom 21.05.2003 - 3 StR 172/03](3-str-172-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 21.05.2003 - 3 StR 180/03](3-str-180-03.md) — Betrugs
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 109/03](3-str-109-03.md) — erpresserischen Menschenraubes u. a.
 - [BGH, Beschluss vom 15.05.2003 - 3 StR 119/03](3-str-119-03.md) — schwerer Körperverletzung
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 141/03](3-str-141-03.md) — Beihilfe zum bewaffneten Handeltreiben mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 149/03](3-str-149-03.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 394/02](3-str-394-02.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 447/02](3-str-447-02.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 45/03](3-str-45-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 46/03](3-str-46-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 47/03](3-str-47-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
 - [BGH, Beschluss vom 15.05.2003 - 3 StR 84/03](3-str-84-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 87/03](3-str-87-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 88/03](3-str-88-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 15.05.2003 - 3 StR 97/03](3-str-97-03.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 13.05.2003 - 3 StR 128/03](3-str-128-03.md) — gewerbs- und bandenmäßiger Fälschung beweiserheblicher Daten; hier: Revision des Angeklagten G.
+- [BGH, Beschluss vom 13.05.2003 - 3 StR 80/03](3-str-80-03.md) — zu 1.: Bandendiebstahls u. a. zu 2.: Bandendiebstahls
+- [BGH, Beschluss vom 08.05.2003 - 3 StR 123/03](3-str-123-03.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 08.05.2003 - 3 StR 150/03](3-str-150-03.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Urteil vom 30.04.2003 - 3 StR 386/02](3-str-386-02.md) — zu 1.: gewerbs- und bandenmäßiger Urkundenfälschung u. a. zu 2.: Beihilfe zur gewerbs- und bandenmäßigen Urkundenfälschung u. a.;
+- [BGH, Urteil vom 24.04.2003 - 3 StR 181/02](3-str-181-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 24.04.2003 - 3 StR 369/01](3-str-369-01.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 22.04.2003 - 3 StR 105/03](3-str-105-03.md) — Diebstahls u. a.
 - [BGH, Beschluss vom 22.04.2003 - 3 StR 117/03](3-str-117-03.md) — strafbarer Werbung
 - [BGH, Beschluss vom 15.04.2003 - 3 StR 100/03](3-str-100-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 15.04.2003 - 3 StR 118/03](3-str-118-03.md) — Mordes
+- [BGH, Beschluss vom 15.04.2003 - 3 StR 91/03](3-str-91-03.md) — sexuellen Mißbrauchs einer widerstandsunfähigen Person u. a .
+- [BGH, Urteil vom 10.04.2003 - 3 StR 420/02](3-str-420-02.md) — sexueller Nötigung
+- [BGH, Beschluss vom 10.04.2003 - 3 StR 94/03](3-str-94-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 08.04.2003 - 3 StR 30/03](3-str-30-03.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 08.04.2003 - 3 StR 56/03](3-str-56-03.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 08.04.2003 - 3 StR 70/03](3-str-70-03.md) — schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 08.04.2003 - 3 StR 79/03](3-str-79-03.md) — eines im Zustand der Schuldunfähigkeit begangenen schweren sexuellen Mißbrauchs eines Kindes in Tateinheit mit Vergewaltigung (§ 177 Abs. 1
+- [BGH, Beschluss vom 08.04.2003 - 3 StR 82/03](3-str-82-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 08.04.2003 - 3 StR 90/03](3-str-90-03.md) — Betrugs
+- [BGH, Beschluss vom 08.04.2003 - 3 StR 92/03](3-str-92-03.md) — Betrugs
+- [BGH, Urteil vom 27.03.2003 - 3 StR 377/02](3-str-377-02.md) — Zuwiderhandelns gegen ein vereinsrechtliches Betätigungsverbot
+- [BGH, Beschluss vom 27.03.2003 - 3 StR 42/03](3-str-42-03.md) — Betrugs
+- [BGH, Urteil vom 27.03.2003 - 3 StR 435/02](3-str-435-02.md) — Vergewaltigung u. a.
+- [BGH, Urteil vom 27.03.2003 - 3 StR 446/02](3-str-446-02.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 25.03.2003 - 3 StR 41/03](3-str-41-03.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 25.03.2003 - 3 StR 58/03](3-str-58-03.md) — Wohnungseinbruchsdiebstahls
+- [BGH, Beschluss vom 20.03.2003 - 3 StR 51/03](3-str-51-03.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 20.03.2003 - 3 StR 57/03](3-str-57-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 13.03.2003 - 3 StR 434/02](3-str-434-02.md) — gefährlicher Körperverletzung
 - [BGH, Urteil vom 13.03.2003 - 3 StR 458/02](3-str-458-02.md) — Körperverletzung u. a.
 - [BGH, Beschluss vom 12.03.2003 - 3 StR 29/03](3-str-29-03.md) — versuchten Totschlags
+- [BGH, Beschluss vom 11.03.2003 - 3 StR 28/03](3-str-28-03.md) — Mordes
+- [BGH, Beschluss vom 11.03.2003 - 3 StR 378/02](3-str-378-02.md) — Hehlerei
+- [BGH, Beschluss vom 11.03.2003 - 3 StR 457/02](3-str-457-02.md) — schweren Raubes
 - [BGH, Urteil vom 20.02.2003 - 3 StR 222/02](3-str-222-02.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 20.02.2003 - 3 StR 449/02](3-str-449-02.md) — Beihilfe zum schweren Raub u. a.
+- [BGH, Beschluss vom 18.02.2003 - 3 StR 19/03](3-str-19-03.md) — Körperverletzung
+- [BGH, Beschluss vom 18.02.2003 - 3 StR 21/03](3-str-21-03.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 18.02.2003 - 3 StR 3/03](3-str-3-03.md) — Landfriedensbruchs
+- [BGH, Urteil vom 13.02.2003 - 3 StR 349/02](3-str-349-02.md) — zu 1.: unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 13.02.2003 - 3 StR 430/02](3-str-430-02.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 13.02.2003 - 3 StR 440/02](3-str-440-02.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 11.02.2003 - 3 StR 212/02](3-str-212-02.md) — Mordes u. a.
+- [BGH, Beschluss vom 11.02.2003 - 3 StR 391/02](3-str-391-02.md) — zu 1.: gewerbsmäßiger Geldfälschung u. a. zu 2.: Geldfälschung u. a.
 - [BGH, Entscheidung vom 30.01.2003 - 3 StR 428/02](3-str-428-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Beschluss vom 30.01.2003 - 3 StR 437/02](3-str-437-02.md) — Betruges u. a.
+- [BGH, Beschluss vom 30.01.2003 - 3 StR 61/02](3-str-61-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 28.01.2003 - 3 StR 373/02](3-str-373-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 28.01.2003 - 3 StR 441/02](3-str-441-02.md) — Vergewaltigung
 - [BGH, Beschluss vom 28.01.2003 - 3 StR 463/02](3-str-463-02.md) — versuchter schwerer räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 28.01.2003 - 3 StR 471/02](3-str-471-02.md) — versuchten Inverkehrbringens von Falschgeld u. a.
+- [BGH, Beschluss vom 28.01.2003 - 3 StR 472/02](3-str-472-02.md) — Geldfälschung u. a.
 - [BGH, Beschluss vom 16.01.2003 - 3 StR 403/02](3-str-403-02.md) — Betruges
 - [BGH, Beschluss vom 16.01.2003 - 3 StR 454/02](3-str-454-02.md) — sexuellen Mißbrauchs von Jugendlichen u. a.
 - [BGH, Beschluss vom 14.01.2003 - 3 StR 455/02](3-str-455-02.md) — Betruges
@@ -58,3 +190,4 @@
 - [BGH, Beschluss vom 09.01.2003 - 3 StR 452/02](3-str-452-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 07.01.2003 - 3 StR 414/02](3-str-414-02.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 07.01.2003 - 3 StR 421/02](3-str-421-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 07.01.2003 - 3 StR 425/02](3-str-425-02.md) — Vergewaltigung u. a.

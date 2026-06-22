@@ -1,11 +1,18 @@
 # Senat für Anwaltssachen – 2003
 
-38 Entscheidung(en).
+73 Entscheidung(en).
 
+- [BGH, Beschluss vom 15.12.2003 - AnwZ (B) 1/03](anwz-b-1-03.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.12.2003 - AnwZ (B) 10/03](anwz-b-10-03.md) — Rückzahlung geleisteter Vorschüsse auf Abwicklervergütung
 - [BGH, Beschluss vom 15.12.2003 - AnwZ (B) 13/03](anwz-b-13-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 15.12.2003 - AnwZ (B) 4/03](anwz-b-4-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.12.2003 - AnwZ (B) 5/03](anwz-b-5-03.md) — Versagung der Wiederzulassung zur Rechtsanwaltschaft hier: Vermögensverfall
 - [BGH, Beschluss vom 15.12.2003 - AnwZ (B) 7/03](anwz-b-7-03.md) — Zulassung bei einem weiteren Landgericht
 - [BGH, Beschluss vom 15.12.2003 - AnwZ (B) 8/03](anwz-b-8-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 09.12.2003 - AnwZ (B) 76/02](anwz-b-76-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 01.12.2003 - AnwSt (B) 9/03](anwst-b-9-03.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 03.11.2003 - AnwZ (B) 61/03](anwz-b-61-03.md) — Antrags auf gerichtliche Entscheidung gemäß § 223 BRAO
+- [BGH, Beschluss vom 24.10.2003 - AnwZ (B) 62/02](anwz-b-62-02.md) — Festsetzung einer Abwicklervergütung
 - [BGH, Beschluss vom 13.10.2003 - AnwZ (B) 36/02](anwz-b-36-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.10.2003 - AnwZ (B) 77/02](anwz-b-77-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.10.2003 - AnwZ (B) 78/02](anwz-b-78-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
@@ -14,29 +21,57 @@
 - [BGH, Beschluss vom 13.10.2003 - AnwZ (B) 83/02](anwz-b-83-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.10.2003 - AnwZ (B) 84/02](anwz-b-84-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.10.2003 - AnwZ (B) 85/02](anwz-b-85-02.md) — BGH, Beschluss vom 13.10.2003 - AnwZ (B) 85/02
+- [BGH, Beschluss vom 07.10.2003 - AnwZ (B) 38/02](anwz-b-38-02.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 24/00](anwz-b-24-00.md) — Zulässigkeit einer Bürogemeinschaft mit einer Steuerberatungsgesellschaft
 - [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 51/03](anwz-b-51-03.md) — Restitutionsantrags
 - [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 64/02](anwz-b-64-02.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 66/02](anwz-b-66-02.md) — Zulassung als Rechtsanwalt beim Oberlandesgericht hier: Erledigung der Hauptsache
+- [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 68/02](anwz-b-68-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 69/02](anwz-b-69-02.md) — Briefkopfgestaltung
+- [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 70/02](anwz-b-70-02.md) — Briefkopfgestaltung
 - [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 71/02](anwz-b-71-02.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 29.09.2003 - AnwZ (B) 75/02](anwz-b-75-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 19.09.2003 - AnwZ (B) 74/02](anwz-b-74-02.md) — Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.09.2003 - AnwZ (B) 39/02](anwz-b-39-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 21.07.2003 - AnwZ (B) 37/03](anwz-b-37-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft;
+- [BGH, Beschluss vom 14.07.2003 - AnwZ 1/02](anwz-1-02.md) — Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof
+- [BGH, Beschluss vom 14.07.2003 - AnwZ (B) 37/02](anwz-b-37-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 14.07.2003 - AnwZ (B) 52/02](anwz-b-52-02.md) — Versäumung der Frist zur Einlegung der sofortigen Beschwerde gegen den Beschluß des 1. Senats des Anwaltsgerichtshofs des Landes NordrheinWe
+- [BGH, Beschluss vom 14.07.2003 - AnwZ (B) 53/02](anwz-b-53-02.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO) widerrufen. Der Anwaltsgerichtshof hat den Antrag
 - [BGH, Beschluss vom 14.07.2003 - AnwZ (B) 55/02](anwz-b-55-02.md) — Aufgabe der Kanzlei ohne Befreiung von der Kanzleipflicht (§ 35 Abs. 1 Nr. 5, § 14 Abs. 2 Nr. 6 BRAO) widerrufen. Gegen die am 18. April 200
+- [BGH, Beschluss vom 14.07.2003 - AnwZ (B) 56/02](anwz-b-56-02.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO) widerrufen. Der Anwaltsgerichtshof hat den Antrag auf ge-
 - [BGH, Beschluss vom 14.07.2003 - AnwZ (B) 58/02](anwz-b-58-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 14.07.2003 - AnwZ (B) 59/02](anwz-b-59-02.md) — Briefkopfgestaltung, unzulässiger Rechtsausübung
 - [BGH, Beschluss vom 14.07.2003 - AnwZ (B) 61/02](anwz-b-61-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 16.06.2003 - AnwZ 5/01](anwz-5-01.md) — Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof
 - [BGH, Beschluss vom 26.05.2003 - AnwZ (B) 47/02](anwz-b-47-02.md) — Vermögensverfalls widerrufen worden. Die sofortige Vollziehung der Verfügung war angeordnet worden, zugleich hatte der Landgerichtspräsident
 - [BGH, Beschluss vom 26.05.2003 - AnwZ (B) 48/02](anwz-b-48-02.md) — Vermögensverfalls widerrufen worden. Die sofortige Vollziehung der Verfügung war angeordnet worden, zugleich hatte der Landgerichtspräsident
 - [BGH, Beschluss vom 26.05.2003 - AnwZ (B) 50/02](anwz-b-50-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 26.05.2003 - AnwZ (B) 51/02](anwz-b-51-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 09.05.2003 - AnwZ (B) 21/03](anwz-b-21-03.md) — Widerherstellung der aufschiebenden Wirkung
 - [BGH, Beschluss vom 17.03.2003 - AnwSt (R) 3/02](anwst-r-3-02.md) — Besorgnis der Befangenheit.
 - [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 11/02](anwz-b-11-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 26/02](anwz-b-26-02.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 27/02](anwz-b-27-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 29/02](anwz-b-29-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 3/02](anwz-b-3-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Vereinbarkeit mit dem Arztberuf
 - [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 30/02](anwz-b-30-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 32/02](anwz-b-32-02.md) — Aktenherausgabe u.a.
+- [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 33/02](anwz-b-33-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 34/02](anwz-b-34-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 35/02](anwz-b-35-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.03.2003 - AnwZ (B) 5/02](anwz-b-5-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 12/02](anwz-b-12-02.md) — I. Der Antragsteller ist für die Hamburger Zweigniederlassung der P. Rechtsanwaltsgesellschaft mbH als angestellter Rechtsanwalt tätig. Diese Rechtsanwaltsgesellschaft hat ihren …
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 13/02](anwz-b-13-02.md) — I. Die Antragstellerin ist für die H. Zweigniederlassung der P. Rechtsanwaltsgesellschaft mbH als angestellte Rechtsanwältin tätig. Diese Rechtsanwaltsgesellschaft hat ihren Sitz …
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 14/02](anwz-b-14-02.md) — I. Die Antragstellerin ist für die H. Zweigniederlassung der P. Rechtsanwaltsgesellschaft mbH als angestellte Rechtsanwältin tätig. Diese Rechtsanwaltsgesellschaft hat ihren Sitz …
 - [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 15/02](anwz-b-15-02.md) — I. Die Antragstellerin ist eine am 29. Dezember 1998 gegründete, am 15. März 1999 mit der Firma "D & P D. GmbH Rechtsanwaltsgesellschaft" in das Handelsregister eingetragene und …
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 16/02](anwz-b-16-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 18/02](anwz-b-18-02.md) — Kostenfestsetzung
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 19/02](anwz-b-19-02.md) — Firmierung einer Rechtsanwaltsgesellschaft
 - [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 2/99](anwz-b-2-99.md) — Zulassung als Rechtsanwalt bei dem Oberlandesgericht
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 22/02](anwz-b-22-02.md) — Verleihung der Fachanwaltsbezeichnung für das Arbeitsrecht
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 24/02](anwz-b-24-02.md) — Zulassung beim Oberlandesgericht
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 25/02](anwz-b-25-02.md) — Verleihung der Fachanwaltsbezeichnung für das Arbeitsrecht
 - [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 48/00](anwz-b-48-00.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 50/01](anwz-b-50-01.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 13.01.2003 - AnwZ (B) 59/01](anwz-b-59-01.md) — lokaler Zulassung bei dem Landgericht Berlin

@@ -1,34 +1,84 @@
 # Senat für Anwaltssachen – 2004
 
-30 Entscheidung(en).
+80 Entscheidung(en).
 
+- [BGH, Beschluss vom 29.12.2004 - AnwZ (B) 2/04](anwz-b-2-04.md) — Festsetzung der Abwicklervergütung, hier: Nichtzulassungsbeschwerde
+- [BGH, Beschluss vom 07.12.2004 - AnwZ (B) 40/04](anwz-b-40-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 06.12.2004 - AnwZ (B) 52/03](anwz-b-52-03.md) — Simultanzulassung bei einem Oberlandesgericht
+- [BGH, Beschluss vom 06.12.2004 - AnwZ (B) 54/03](anwz-b-54-03.md) — Feststellung der Nichtigkeit eines Kammerbeschlusses
+- [BGH, Beschluss vom 06.12.2004 - AnwZ (B) 89/03](anwz-b-89-03.md) — Aussetzung des Zulassungsverfahrens
 - [BGH, Beschluss vom 06.12.2004 - AnwZ (B) 90/04](anwz-b-90-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 06.12.2004 - AnwZ (B) 92/03](anwz-b-92-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 08.11.2004 - AnwZ (B) 78/03](anwz-b-78-03.md) — Vermögensverfalls, Nichtunter-
+- [BGH, Beschluss vom 08.11.2004 - AnwZ (B) 80/03](anwz-b-80-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 08.11.2004 - AnwZ (B) 83/03](anwz-b-83-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 08.11.2004 - AnwZ (B) 84/03](anwz-b-84-03.md) — BGH, Beschluss vom 08.11.2004 - AnwZ (B) 84/03
 - [BGH, Beschluss vom 08.11.2004 - AnwZ (B) 86/03](anwz-b-86-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 08.11.2004 - AnwZ (B) 87/03](anwz-b-87-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.11.2004 - AnwZ (B) 22/04](anwz-b-22-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.11.2004 - AnwZ (B) 39/03](anwz-b-39-03.md) — I. Die Antragsteller betreiben in Zusammenarbeit mit einer Steuerberaterin eine gemeinsame Kanzlei. Im Kopf und neben dem Adressenfeld der Kanzleibriefbögen befand sich in …
 - [BGH, Beschluss vom 20.10.2004 - AnwZ (B) 67/04](anwz-b-67-04.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO) widerrufen und zugleich die sofortige Vollziehung des Widerrufs angeordnet (§ 16 Abs. 6 Satz 2 BR
 - [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 10/04](anwz-b-10-04.md) — Widerrufs der Zulassung
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 42/03](anwz-b-42-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 43/03](anwz-b-43-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 45/03](anwz-b-45-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 66/03](anwz-b-66-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 68/03](anwz-b-68-03.md) — eines im Januar 1999 zum Nachteil einer Haftpflichtversicherung begangenen versuchten Betruges rechtskräftig zu einer Geldstrafe verurteilt
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 69/03](anwz-b-69-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 70/03](anwz-b-70-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 71/03](anwz-b-71-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
-- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 73/03](anwz-b-73-03.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 72/03](anwz-b-72-03.md) — Vermögensverfalls
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 74/03](anwz-b-74-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 75/03](anwz-b-75-03.md) — I. In der Zeit vom 2. Juli 2001 bis 21. Februar 2002 war von der Antrags- gegnerin Rechtsanwalt W. als Amtsvertreter für die Kanzlei des An- tragstellers bestellt (§ 53 Abs. 5 …
+- [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 76/03](anwz-b-76-03.md) — Vermögensverfalls widerrufen worden. Den Antrag auf gerichtliche Entschei-
 - [BGH, Beschluss vom 15.10.2004 - AnwZ (B) 8/04](anwz-b-8-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 12.10.2004 - AnwZ (B) 49/04](anwz-b-49-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft (Wiedereinsetzung in die Versäumung der Antragsfrist)
+- [BGH, Beschluss vom 11.10.2004 - AnwZ (B) 65/01](anwz-b-65-01.md) — Widerrufs der Mitgliedschaft in der Rechtsanwaltskammer
+- [BGH, Beschluss vom 08.10.2004 - AnwZ (B) 15/04](anwz-b-15-04.md) — Widerrufs der Zulassung zur Rechtsanwaltshaft;
 - [BGH, Urteil vom 28.06.2004 - AnwSt (R) 16/03](anwst-r-16-03.md) — BGH, Urteil vom 28.06.2004 - AnwSt (R) 16/03
 - [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 14/03](anwz-b-14-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 3/04](anwz-b-3-04.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO). Ausweislich der Postzustellungsurkunde wurde der Bescheid dem Antragsteller am 27. August 2003 d
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 33/03](anwz-b-33-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 55/03](anwz-b-55-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 56/03](anwz-b-56-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 57/03](anwz-b-57-03.md) — Anfechtung einer Zwangsgeldfestsetzung nach § 57 BRAO
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 58/03](anwz-b-58-03.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 59/03](anwz-b-59-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 6/03](anwz-b-6-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Vermögensverfall
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 60/03](anwz-b-60-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 64/03](anwz-b-64-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 81/02](anwz-b-81-02.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 82/02](anwz-b-82-02.md) — Widerruf der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.06.2004 - AnwZ (B) 32/03](anwz-b-32-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 16.06.2004 - AnwZ (B) 3/03](anwz-b-3-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 21.05.2004 - AnwZ (B) 36/01](anwz-b-36-01.md) — FAO §§ 5, 6 Abs. 3 Zu den Anforderungen an die nach § 6 Abs. 3 FAO vorzulegenden Fallisten zum Nachweis der praktischen Erfahrungen nach § 5 FAO. BGH, Beschluß vom 21. Mai 2004 - …
 - [BGH, Beschluss vom 21.05.2004 - AnwZ (B) 67/02](anwz-b-67-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 19.05.2004 - AnwSt (R) 15/03](anwst-r-15-03.md) — Verletzung anwaltlicher Pflichten
 - [BGH, Beschluss vom 17.05.2004 - AnwZ (B) 44/03](anwz-b-44-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.05.2004 - AnwZ (B) 46/03](anwz-b-46-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.05.2004 - AnwZ (B) 47/03](anwz-b-47-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 17.05.2004 - AnwZ (B) 48/03](anwz-b-48-03.md) — I. Der Antragsteller legte am 16. Februar 1965 die zweite juristische Staatsprüfung ab und war seit dem 18. März 1965 als Richter beim Amtsgericht und Landgericht M. tätig …
 - [BGH, Beschluss vom 17.05.2004 - AnwZ (B) 49/03](anwz-b-49-03.md) — Festsetzung von Zwangsgeld
+- [BGH, Beschluss vom 17.05.2004 - AnwZ (B) 50/03](anwz-b-50-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 17.05.2004 - AnwZ (B) 65/03](anwz-b-65-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 11.05.2004 - AnwZ (B) 11/03](anwz-b-11-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.05.2004 - AnwSt (R) 2/04](anwst-r-2-04.md) — Geringfügigkeit eingestellt. Die Kosten des Verfahrens und die notwendigen Auslagen des Rechtsanwalts fallen der Rechtsanwaltskammer München
 - [BGH, Beschluss vom 29.03.2004 - AnwZ (B) 73/02](anwz-b-73-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft; hier: Gegenvorstellung
+- [BGH, Beschluss vom 24.03.2004 - AnwZ (B) 40/03](anwz-b-40-03.md) — ablehnenden Gutachtens nach §§ 8 Abs. 2, 9 Abs. 1 BRAO
+- [BGH, Beschluss vom 03.03.2004 - AnwSt (R) 7/03](anwst-r-7-03.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 01.03.2004 - AnwZ (B) 29/03](anwz-b-29-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.03.2004 - AnwZ (B) 30/03](anwz-b-30-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 01.03.2004 - AnwZ (B) 35/03](anwz-b-35-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.03.2004 - AnwZ (B) 38/03](anwz-b-38-03.md) — Verleihung einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 01.03.2004 - AnwZ (B) 57/02](anwz-b-57-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 01.03.2004 - AnwZ (B) 9/03](anwz-b-9-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 19.02.2004 - AnwZ (B) 62/03](anwz-b-62-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 22.01.2004 - AnwZ (B) 2/03](anwz-b-2-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 12.01.2004 - AnwZ (B) 15/03](anwz-b-15-03.md) — Vermögensverfalls nach § 14 Abs. 2 Nr. 7 BRAO.
+- [BGH, Beschluss vom 12.01.2004 - AnwZ (B) 16/03](anwz-b-16-03.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 12.01.2004 - AnwZ (B) 17/03](anwz-b-17-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 12.01.2004 - AnwZ (B) 19/03](anwz-b-19-03.md) — Widerrufs der Anwaltszulassung
 - [BGH, Beschluss vom 12.01.2004 - AnwZ (B) 23/03](anwz-b-23-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 12.01.2004 - AnwZ (B) 24/03](anwz-b-24-03.md) — Zulassung beim Oberlandesgericht
+- [BGH, Beschluss vom 12.01.2004 - AnwZ (B) 26/03](anwz-b-26-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 12.01.2004 - AnwZ (B) 77/03](anwz-b-77-03.md) — Zulassung beim Oberlandesgericht

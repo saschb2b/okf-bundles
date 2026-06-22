@@ -1,32 +1,57 @@
 # XI. Zivilsenat – 2008
 
-80 Entscheidung(en).
+162 Entscheidung(en).
 
 - [BGH, Urteil vom 16.12.2008 - XI ZR 454/07](xi-zr-454-07.md) — Tatbestand:
 - [BGH, Beschluss vom 16.12.2008 - XI ZR 574/07](xi-zr-574-07.md) — BGH, Beschluss vom 16.12.2008 - XI ZR 574/07
 - [BGH, Beschluss vom 09.12.2008 - XI ZR 444/07](xi-zr-444-07.md) — BGH, Beschluss vom 09.12.2008 - XI ZR 444/07
+- [BGH, Urteil vom 09.12.2008 - XI ZR 513/07](xi-zr-513-07.md) — Tatbestand:
+- [BGH, Urteil vom 09.12.2008 - XI ZR 588/07](xi-zr-588-07.md) — BGH, Urteil vom 09.12.2008 - XI ZR 588/07
+- [BGH, Beschluss vom 04.12.2008 - XI ZR 81/08](xi-zr-81-08.md) — BGH, Beschluss vom 04.12.2008 - XI ZR 81/08
 - [BGH, Beschluss vom 02.12.2008 - XI ZR 29/07](xi-zr-29-07.md) — BGH, Beschluss vom 02.12.2008 - XI ZR 29/07
+- [BGH, Urteil vom 02.12.2008 - XI ZR 525/07](xi-zr-525-07.md) — Tatbestand:
+- [BGH, Urteil vom 25.11.2008 - XI ZR 413/07](xi-zr-413-07.md) — Tatbestand:
 - [BGH, Urteil vom 25.11.2008 - XI ZR 426/07](xi-zr-426-07.md) — Tatbestand:
 - [BGH, Urteil vom 18.11.2008 - XI ZR 157/07](xi-zr-157-07.md) — BGH, Urteil vom 18.11.2008 - XI ZR 157/07
 - [BGH, Urteil vom 18.11.2008 - XI ZR 590/07](xi-zr-590-07.md) — BGH, Urteil vom 18.11.2008 - XI ZR 590/07
-- [BGH, Beschluss vom 17.11.2008 - XI ZR 89/07](xi-zr-89-07.md) — BGH, Beschluss vom 17.11.2008 - XI ZR 89/07
+- [BGH, Urteil vom 11.11.2008 - XI ZR 269/06](xi-zr-269-06.md) — 3-
+- [BGH, Beschluss vom 11.11.2008 - XI ZR 420/07](xi-zr-420-07.md) — Verletzung ihres
+- [BGH, Urteil vom 11.11.2008 - XI ZR 468/07](xi-zr-468-07.md) — 3-
+- [BGH, Beschluss vom 04.11.2008 - XI ZR 41/07](xi-zr-41-07.md) — BGH, Beschluss vom 04.11.2008 - XI ZR 41/07
+- [BGH, Urteil vom 21.10.2008 - XI ZR 256/07](xi-zr-256-07.md) — Tatbestand:
+- [BGH, Urteil vom 21.10.2008 - XI ZR 466/07](xi-zr-466-07.md) — Tatbestand:
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 164/07](xi-zr-164-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 164/07
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 165/07](xi-zr-165-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 165/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 173/07](xi-zr-173-07.md) — lag, ist hier mit Rücksicht auf das Vorbringen der Nichtzulassungsbeschwerde, die die Auslegung des Klagebegehrens durch das Berufungsgericht nicht angegriffen, sondern sie …
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 231/07](xi-zr-231-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 231/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 245/07](xi-zr-245-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 245/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 246/07](xi-zr-246-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 246/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 248/07](xi-zr-248-07.md) — ihres Rückzahlungsanspruchs aus dem gekündigten Darlehen die Zwangsvollstreckung aus der Grundschuldurkunde auch in das persönliche Vermögen
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 249/07](xi-zr-249-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 249/07
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 259/07](xi-zr-259-07.md) — lag, ist hier mit Rücksicht auf das Vorbringen der Nichtzulassungsbeschwerde nicht veranlasst, die die Auslegung des Klagebegehrens durch das Berufungsgericht nicht angegriffen …
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 260/07](xi-zr-260-07.md) — ihres Rückzahlungsanspruchs aus dem gekündigten Darlehen die Zwangsvollstreckung aus der Grundschuldurkunde auch in das persönliche Vermögen
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 299/07](xi-zr-299-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 299/07
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 315/07](xi-zr-315-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 315/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 320/07](xi-zr-320-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 320/07
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 321/07](xi-zr-321-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 321/07
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 322/07](xi-zr-322-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 322/07
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 424/07](xi-zr-424-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 424/07
 - [BGH, Beschluss vom 14.10.2008 - XI ZR 428/07](xi-zr-428-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 428/07
+- [BGH, Beschluss vom 14.10.2008 - XI ZR 571/07](xi-zr-571-07.md) — BGH, Beschluss vom 14.10.2008 - XI ZR 571/07
+- [BGH, Beschluss vom 07.10.2008 - XI ZB 24/07](xi-zb-24-07.md) — I. 1 Die Parteien streiten nach übereinstimmender Erledigungserklä- rung um die Kosten eines Rechtsstreits, in dem die Klägerin von der Be- klagten die Herausgabe einer …
 - [BGH, Beschluss vom 07.10.2008 - XI ZR 12/08](xi-zr-12-08.md) — BGH, Beschluss vom 07.10.2008 - XI ZR 12/08
 - [BGH, Beschluss vom 07.10.2008 - XI ZR 519/07](xi-zr-519-07.md) — des Berufungsurteils Berücksichtigung gefunden.
 - [BGH, Urteil vom 23.09.2008 - XI ZR 253/07](xi-zr-253-07.md) — Beratungsverschuldens" die Verjährung eines Bereicherungsanspruchs gemäß § 812 Abs. 1 Satz 1 BGB hemmt.
 - [BGH, Urteil vom 23.09.2008 - XI ZR 262/07](xi-zr-262-07.md) — der Rechtsunkenntnis des Gläubigers hinausgeschoben, beginnt die Verjährung mit der objektiven Klärung der Rechtslage. Auf die Kenntnis bzw.
 - [BGH, Urteil vom 23.09.2008 - XI ZR 263/07](xi-zr-263-07.md) — BGH, Urteil vom 23.09.2008 - XI ZR 263/07
 - [BGH, Urteil vom 23.09.2008 - XI ZR 266/07](xi-zr-266-07.md) — 3-
+- [BGH, Beschluss vom 23.09.2008 - XI ZR 301/07](xi-zr-301-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 301/07
+- [BGH, Beschluss vom 23.09.2008 - XI ZR 350/07](xi-zr-350-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 350/07
+- [BGH, Beschluss vom 23.09.2008 - XI ZR 351/07](xi-zr-351-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 351/07
+- [BGH, Beschluss vom 23.09.2008 - XI ZR 359/07](xi-zr-359-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 359/07
+- [BGH, Beschluss vom 23.09.2008 - XI ZR 379/07](xi-zr-379-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 379/07
 - [BGH, Urteil vom 23.09.2008 - XI ZR 395/07](xi-zr-395-07.md) — 3-
+- [BGH, Beschluss vom 23.09.2008 - XI ZR 407/07](xi-zr-407-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 407/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 434/07](xi-zr-434-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 434/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 446/07](xi-zr-446-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 446/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 463/07](xi-zr-463-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 463/07
@@ -34,51 +59,108 @@
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 500/07](xi-zr-500-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 500/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 512/07](xi-zr-512-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 512/07
 - [BGH, Beschluss vom 23.09.2008 - XI ZR 535/07](xi-zr-535-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 535/07
+- [BGH, Beschluss vom 23.09.2008 - XI ZR 570/07](xi-zr-570-07.md) — BGH, Beschluss vom 23.09.2008 - XI ZR 570/07
 - [BGH, Urteil vom 29.07.2008 - XI ZR 297/06](xi-zr-297-06.md) — Tatbestand:
+- [BGH, Beschluss vom 29.07.2008 - XI ZR 329/07](xi-zr-329-07.md) — BGH, Beschluss vom 29.07.2008 - XI ZR 329/07
+- [BGH, Beschluss vom 29.07.2008 - XI ZR 347/07](xi-zr-347-07.md) — BGH, Beschluss vom 29.07.2008 - XI ZR 347/07
+- [BGH, Urteil vom 29.07.2008 - XI ZR 387/06](xi-zr-387-06.md) — 3-
+- [BGH, Urteil vom 29.07.2008 - XI ZR 394/06](xi-zr-394-06.md) — 3-
+- [BGH, Beschluss vom 29.07.2008 - XI ZR 546/07](xi-zr-546-07.md) — einer etwaigen Erstattung der von ihr zu zahlenden Gerichtskosten mit den vorgenannten Rechtsanwälten auseinandersetzen.
+- [BGH, Beschluss vom 25.07.2008 - XI ZB 18/08](xi-zb-18-08.md) — ei-
+- [BGH, Beschluss vom 22.07.2008 - XI ZR 300/07](xi-zr-300-07.md) — BGH, Beschluss vom 22.07.2008 - XI ZR 300/07
 - [BGH, Urteil vom 22.07.2008 - XI ZR 389/07](xi-zr-389-07.md) — Tatbestand:
 - [BGH, Beschluss vom 22.07.2008 - XI ZR 455/07](xi-zr-455-07.md) — BGH, Beschluss vom 22.07.2008 - XI ZR 455/07
-- [BGH, Beschluss vom 15.07.2008 - XI ZR 449/06](xi-zr-449-06.md) — BGH, Beschluss vom 15.07.2008 - XI ZR 449/06
 - [BGH, Beschluss vom 15.07.2008 - XI ZR 518/07](xi-zr-518-07.md) — BGH, Beschluss vom 15.07.2008 - XI ZR 518/07
 - [BGH, Beschluss vom 15.07.2008 - XI ZR 554/07](xi-zr-554-07.md) — BGH, Beschluss vom 15.07.2008 - XI ZR 554/07
+- [BGH, Urteil vom 08.07.2008 - XI ZR 230/07](xi-zr-230-07.md) — 3-
+- [BGH, Beschluss vom 01.07.2008 - XI ZR 111/07](xi-zr-111-07.md) — BGH, Beschluss vom 01.07.2008 - XI ZR 111/07
+- [BGH, Beschluss vom 01.07.2008 - XI ZR 271/07](xi-zr-271-07.md) — BGH, Beschluss vom 01.07.2008 - XI ZR 271/07
+- [BGH, Urteil vom 01.07.2008 - XI ZR 411/06](xi-zr-411-06.md) — Tatbestand:
 - [BGH, Beschluss vom 17.06.2008 - XI ZA 15/07](xi-za-15-07.md) — BGH, Beschluss vom 17.06.2008 - XI ZA 15/07
+- [BGH, Urteil vom 17.06.2008 - XI ZR 112/07](xi-zr-112-07.md) — Verstoßes gegen Art. 1 § 1 RBerG unwirksamen Darlehensvertrages die Immobilienfondsbeteiligung eines Kapitalanlegers finanziert und die Darl
+- [BGH, Urteil vom 17.06.2008 - XI ZR 119/07](xi-zr-119-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 120/07](xi-zr-120-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 121/07](xi-zr-121-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 122/07](xi-zr-122-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 123/07](xi-zr-123-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 189/07](xi-zr-189-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 190/07](xi-zr-190-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 191/07](xi-zr-191-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 192/07](xi-zr-192-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 193/07](xi-zr-193-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 194/07](xi-zr-194-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 195/07](xi-zr-195-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 196/07](xi-zr-196-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 197/07](xi-zr-197-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 198/07](xi-zr-198-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 199/07](xi-zr-199-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 200/07](xi-zr-200-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - XI ZR 201/07](xi-zr-201-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 202/07](xi-zr-202-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 203/07](xi-zr-203-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.06.2008 - XI ZR 79/07](xi-zr-79-07.md) — Tatbestand:
+- [BGH, Beschluss vom 10.06.2008 - XI ZB 26/07](xi-zb-26-07.md) — arglistiger Täuschung, können nicht Gegenstand eines Musterfeststellungsverfahrens sein.
+- [BGH, Urteil vom 10.06.2008 - XI ZR 211/07](xi-zr-211-07.md) — Tatbestand:
 - [BGH, Entscheidung vom 10.06.2008 - XI ZR 283/07](xi-zr-283-07.md) — XI ZR 283/07 Schreibfehlerberichtigung Die Ausfertigung des am 10. Juni 2008 verkündeten Urteils des XI. Zivilsenats des Bundesgerichtshofes wird wegen eines offensichtlichen …
 - [BGH, Beschluss vom 10.06.2008 - XI ZR 297/07](xi-zr-297-07.md) — BGH, Beschluss vom 10.06.2008 - XI ZR 297/07
+- [BGH, Urteil vom 10.06.2008 - XI ZR 331/07](xi-zr-331-07.md) — allgemein ihre Verbindlichkeiten nicht erfüllt.
+- [BGH, Urteil vom 10.06.2008 - XI ZR 348/07](xi-zr-348-07.md) — Tatbestand:
 - [BGH, Beschluss vom 03.06.2008 - XI ZR 13/07](xi-zr-13-07.md) — BGH, Beschluss vom 03.06.2008 - XI ZR 13/07
+- [BGH, Urteil vom 03.06.2008 - XI ZR 131/07](xi-zr-131-07.md) — eines durch sie bewusst geschaffenen oder begünstigten besonderen Gefährdungstatbestands (Bestätigung von BGH, Urteil vom 20. März 2007 - XI
 - [BGH, Beschluss vom 03.06.2008 - XI ZR 239/07](xi-zr-239-07.md) — BGH, Beschluss vom 03.06.2008 - XI ZR 239/07
 - [BGH, Urteil vom 03.06.2008 - XI ZR 318/06](xi-zr-318-06.md) — Tatbestand:
+- [BGH, Urteil vom 03.06.2008 - XI ZR 319/06](xi-zr-319-06.md) — eines konkreten Wissensvorsprungs im Zusammenhang mit einer arglistigen Täuschung des Anlegers durch unrichtige Angaben des Vermittlers über
 - [BGH, Urteil vom 03.06.2008 - XI ZR 353/07](xi-zr-353-07.md) — 3-
 - [BGH, Beschluss vom 03.06.2008 - XI ZR 5/07](xi-zr-5-07.md) — BGH, Beschluss vom 03.06.2008 - XI ZR 5/07
 - [BGH, Beschluss vom 27.05.2008 - XI ZB 41/06](xi-zb-41-06.md) — fehlerhafter Information über die erwor-
+- [BGH, Urteil vom 27.05.2008 - XI ZR 132/07](xi-zr-132-07.md) — eines konkreten Wissensvorsprungs über eine arglistige Täuschung des Anlegers durch unrichtige Angaben des Vermittlers über das Anlageobjekt
+- [BGH, Urteil vom 27.05.2008 - XI ZR 149/07](xi-zr-149-07.md) — BGH, Urteil vom 27.05.2008 - XI ZR 149/07
 - [BGH, Beschluss vom 27.05.2008 - XI ZR 220/07](xi-zr-220-07.md) — BGH, Beschluss vom 27.05.2008 - XI ZR 220/07
 - [BGH, Beschluss vom 27.05.2008 - XI ZR 292/07](xi-zr-292-07.md) — BGH, Beschluss vom 27.05.2008 - XI ZR 292/07
 - [BGH, Beschluss vom 27.05.2008 - XI ZR 375/07](xi-zr-375-07.md) — BGH, Beschluss vom 27.05.2008 - XI ZR 375/07
+- [BGH, Urteil vom 27.05.2008 - XI ZR 409/06](xi-zr-409-06.md) — 3-
+- [BGH, Beschluss vom 27.05.2008 - XI ZR 464/07](xi-zr-464-07.md) — BGH, Beschluss vom 27.05.2008 - XI ZR 464/07
 - [BGH, Beschluss vom 06.05.2008 - XI ZR 233/07](xi-zr-233-07.md) — BGH, Beschluss vom 06.05.2008 - XI ZR 233/07
+- [BGH, Urteil vom 06.05.2008 - XI ZR 56/07](xi-zr-56-07.md) — eines Betrages von 98.566,84 € nebst Zinsen in Höhe von 5 Prozentpunkten über dem Basiszinssatz seit dem 1. Februar 2003 zurückgewiesen word
+- [BGH, Urteil vom 29.04.2008 - XI ZR 221/07](xi-zr-221-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.04.2008 - XI ZR 371/07](xi-zr-371-07.md) — Tatbestand:
+- [BGH, Beschluss vom 22.04.2008 - XI ZB 20/07](xi-zb-20-07.md) — I. 1 Die Klägerin, eine in K. ansässige Bank, hat den Beklagten vor dem Landgericht K. auf Zahlung, hilfsweise auf Feststellung in An- spruch genommen. Das Landgericht hat den …
+- [BGH, Beschluss vom 22.04.2008 - XI ZR 272/06](xi-zr-272-06.md) — Verstoßes gegen das Rechts-
 - [BGH, Beschluss vom 22.04.2008 - XI ZR 355/06](xi-zr-355-06.md) — fehlender örtlicher Zuständigkeit an
 - [BGH, Beschluss vom 22.04.2008 - XI ZR 408/07](xi-zr-408-07.md) — BGH, Beschluss vom 22.04.2008 - XI ZR 408/07
 - [BGH, Beschluss vom 22.04.2008 - XI ZR 438/07](xi-zr-438-07.md) — BGH, Beschluss vom 22.04.2008 - XI ZR 438/07
 - [BGH, Beschluss vom 15.04.2008 - XI ZR 76/07](xi-zr-76-07.md) — eines Wissensvorsprungs in Bezug auf eine angeblich sittenwidrige Übervorteilung der Erwerber. Dies ist aber nicht entscheidungserheblich, w
 - [BGH, Beschluss vom 14.04.2008 - XI ZR 67/07](xi-zr-67-07.md) — offensichtlicher Unrichtigkeit dahingehend berichtigt, dass der Name des Klägers richtig lautet:
 - [BGH, Versäumnisurteil vom 08.04.2008 - XI ZR 377/06](xi-zr-377-06.md) — Tatbestand:
+- [BGH, Beschluss vom 18.03.2008 - XI ZR 223/07](xi-zr-223-07.md) — BGH, Beschluss vom 18.03.2008 - XI ZR 223/07
 - [BGH, Versäumnisurteil vom 18.03.2008 - XI ZR 241/06](xi-zr-241-06.md) — 3-
 - [BGH, Urteil vom 18.03.2008 - XI ZR 246/06](xi-zr-246-06.md) — eines durch sie bewusst geschaffenen oder begünstigten besonderen Gefährdungstatbestands bei Hinzutreten spezifischer Risiken des konkreten
+- [BGH, Beschluss vom 18.03.2008 - XI ZR 256/06](xi-zr-256-06.md) — des Landgerichts gestützt. Die Bezugnahme auf das angefochtene Urteil ist nach § 540 Abs. 1 Nr. 1 ZPO zulässig. Durch die Bezugnahme ist das Berufungsurteil mit Gründen versehen …
+- [BGH, Beschluss vom 18.03.2008 - XI ZR 406/06](xi-zr-406-06.md) — BGH, Beschluss vom 18.03.2008 - XI ZR 406/06
 - [BGH, Urteil vom 18.03.2008 - XI ZR 454/06](xi-zr-454-06.md) — Tatbestand:
+- [BGH, Beschluss vom 11.03.2008 - XI ZR 1/07](xi-zr-1-07.md) — Die Revision hat aus den im Hinweisschreiben vom 22.
 - [BGH, Urteil vom 11.03.2008 - XI ZR 215/07](xi-zr-215-07.md) — Tatbestand:
 - [BGH, Versäumnisurteil vom 11.03.2008 - XI ZR 317/06](xi-zr-317-06.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2008 - XI ZR 381/07](xi-zr-381-07.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2008 - XI ZR 68/07](xi-zr-68-07.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2008 - XI ZR 81/07](xi-zr-81-07.md) — Tatbestand:
 - [BGH, Urteil vom 04.03.2008 - XI ZR 288/06](xi-zr-288-06.md) — BGH, Urteil vom 04.03.2008 - XI ZR 288/06
 - [BGH, Beschluss vom 03.03.2008 - XI ZB 10/07](xi-zb-10-07.md) — BGH, Beschluss vom 03.03.2008 - XI ZB 10/07
+- [BGH, Beschluss vom 26.02.2008 - XI ZR 255/07](xi-zr-255-07.md) — BGH, Beschluss vom 26.02.2008 - XI ZR 255/07
 - [BGH, Beschluss vom 26.02.2008 - XI ZR 258/07](xi-zr-258-07.md) — BGH, Beschluss vom 26.02.2008 - XI ZR 258/07
+- [BGH, Beschluss vom 26.02.2008 - XI ZR 265/07](xi-zr-265-07.md) — BGH, Beschluss vom 26.02.2008 - XI ZR 265/07
+- [BGH, Beschluss vom 26.02.2008 - XI ZR 285/07](xi-zr-285-07.md) — BGH, Beschluss vom 26.02.2008 - XI ZR 285/07
 - [BGH, Beschluss vom 26.02.2008 - XI ZR 428/06](xi-zr-428-06.md) — BGH, Beschluss vom 26.02.2008 - XI ZR 428/06
+- [BGH, Urteil vom 26.02.2008 - XI ZR 74/06](xi-zr-74-06.md) — Verstoßes gegen das Rechtsberatungsgesetz nichtig, kann sich der Verkäufer des Modells auch dann gegenüber dem Käufer auf den Gutglaubenssch
+- [BGH, Beschluss vom 19.02.2008 - XI ZR 153/07](xi-zr-153-07.md) — BGH, Beschluss vom 19.02.2008 - XI ZR 153/07
 - [BGH, Urteil vom 19.02.2008 - XI ZR 170/07](xi-zr-170-07.md) — Tatbestand:
+- [BGH, Urteil vom 19.02.2008 - XI ZR 23/07](xi-zr-23-07.md) — Tatbestand:
+- [BGH, Beschluss vom 12.02.2008 - XI ZR 232/07](xi-zr-232-07.md) — BGH, Beschluss vom 12.02.2008 - XI ZR 232/07
+- [BGH, Beschluss vom 12.02.2008 - XI ZR 237/07](xi-zr-237-07.md) — BGH, Beschluss vom 12.02.2008 - XI ZR 237/07
 - [BGH, Urteil vom 29.01.2008 - XI ZR 160/07](xi-zr-160-07.md) — 3-
 - [BGH, Beschluss vom 29.01.2008 - XI ZR 97/07](xi-zr-97-07.md) — BGH, Beschluss vom 29.01.2008 - XI ZR 97/07
 - [BGH, Urteil vom 22.01.2008 - XI ZR 16/06](xi-zr-16-06.md) — Tatbestand:
 - [BGH, Urteil vom 22.01.2008 - XI ZR 34/06](xi-zr-34-06.md) — Tatbestand:
+- [BGH, Beschluss vom 15.01.2008 - XI ZB 11/07](xi-zb-11-07.md) — I. 1 Der Beklagte hat gegen das Urteil des Landgerichts vom 23. August 2006, zugestellt am 29. August 2006, am 18. September 2006 Berufung eingelegt und diese nach Verlängerung …
+- [BGH, Beschluss vom 15.01.2008 - XI ZR 275/07](xi-zr-275-07.md) — BGH, Beschluss vom 15.01.2008 - XI ZR 275/07
 - [BGH, Beschluss vom 15.01.2008 - XI ZR 393/07](xi-zr-393-07.md) — BGH, Beschluss vom 15.01.2008 - XI ZR 393/07

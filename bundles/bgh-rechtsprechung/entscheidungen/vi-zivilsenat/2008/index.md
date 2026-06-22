@@ -1,6 +1,6 @@
 # VI. Zivilsenat – 2008
 
-53 Entscheidung(en).
+119 Entscheidung(en).
 
 - [BGH, Beschluss vom 29.12.2008 - VI ZB 82/08](vi-zb-82-08.md) — Begrenzung des Instan-
 - [BGH, Beschluss vom 29.12.2008 - VI ZR 204/08](vi-zr-204-08.md) — BGH, Beschluss vom 29.12.2008 - VI ZR 204/08
@@ -8,50 +8,116 @@
 - [BGH, Urteil vom 16.12.2008 - VI ZR 170/07](vi-zr-170-07.md) — Tatbestand:
 - [BGH, Beschluss vom 16.12.2008 - VI ZR 213/07](vi-zr-213-07.md) — BGH, Beschluss vom 16.12.2008 - VI ZR 213/07
 - [BGH, Urteil vom 16.12.2008 - VI ZR 48/08](vi-zr-48-08.md) — Tatbestand:
+- [BGH, Urteil vom 09.12.2008 - VI ZR 173/07](vi-zr-173-07.md) — Tatbestand:
 - [BGH, Urteil vom 09.12.2008 - VI ZR 277/07](vi-zr-277-07.md) — Tatbestand:
+- [BGH, Beschluss vom 02.12.2008 - VI ZB 63/07](vi-zb-63-07.md) — der Teilnahme ihres Geschäftsführers an einem Gerichtstermin ein Anspruch auf Verdienstausfall zustehen.
 - [BGH, Urteil vom 02.12.2008 - VI ZR 219/06](vi-zr-219-06.md) — Tatbestand:
 - [BGH, Urteil vom 02.12.2008 - VI ZR 312/07](vi-zr-312-07.md) — unfallbedingter Arbeitsunfähigkeit geleisteter Lohnfortzahlungen.
 - [BGH, Beschluss vom 25.11.2008 - VI ZR 245/07](vi-zr-245-07.md) — BGH, Beschluss vom 25.11.2008 - VI ZR 245/07
-- [BGH, Urteil vom 25.11.2008 - VI ZR 317/07](vi-zr-317-07.md) — Tatbestand:
 - [BGH, Beschluss vom 18.11.2008 - VI ZB 22/08](vi-zb-22-08.md) — I. 1 Bei einem Verkehrsunfall am 12. Dezember 2006 wurde das Kraftfahr- zeug des Klägers, Opel Astra 1.6, Erstzulassung 14. September 2000, beschä- digt. Der Kläger ließ ein …
 - [BGH, Beschluss vom 18.11.2008 - VI ZB 24/08](vi-zb-24-08.md) — BGH, Beschluss vom 18.11.2008 - VI ZB 24/08
+- [BGH, Urteil vom 18.11.2008 - VI ZR 183/07](vi-zr-183-07.md) — Tatbestand:
+- [BGH, Beschluss vom 18.11.2008 - VI ZR 185/08](vi-zr-185-08.md) — BGH, Beschluss vom 18.11.2008 - VI ZR 185/08
 - [BGH, Urteil vom 18.11.2008 - VI ZR 198/07](vi-zr-198-07.md) — Tatbestand
+- [BGH, Urteil vom 04.11.2008 - VI ZR 171/07](vi-zr-171-07.md) — im Sinne des Zeichens 241 zu § 41 Abs. 2 Nr. 5 StVO.
+- [BGH, Beschluss vom 04.11.2008 - VI ZR 297/07](vi-zr-297-07.md) — BGH, Beschluss vom 04.11.2008 - VI ZR 297/07
 - [BGH, Beschluss vom 28.10.2008 - VI ZA 25/08](vi-za-25-08.md) — BGH, Beschluss vom 28.10.2008 - VI ZA 25/08
+- [BGH, Beschluss vom 28.10.2008 - VI ZB 43/08](vi-zb-43-08.md) — I. 1 Der Kläger nimmt die Beklagten auf Ersatz materieller Schäden nach ei- nem Verkehrsunfall vom 25. Dezember 2006 in Anspruch. Das Amtsgericht Fulda hat die Klage zum Teil …
+- [BGH, Beschluss vom 28.10.2008 - VI ZB 65/07](vi-zb-65-07.md) — I. 1 Das Kammergericht hat die Berufung des Klägers gegen das Teilurteil des Landgerichts vom 17. April 2007 nach § 522 Abs. 1 Satz 2 ZPO durch Be- schluss als unzulässig …
+- [BGH, Urteil vom 28.10.2008 - VI ZR 307/07](vi-zr-307-07.md) — Tatbestand:
+- [BGH, Beschluss vom 27.10.2008 - VI ZA 33/08](vi-za-33-08.md) — Der Antrag ist abzulehnen, weil eine Rechtsbeschwerde gegen die angefochtenen Entscheidungen, insbesondere auch die Entscheidung des Landgerichts Zwickau vom 3.
+- [BGH, Beschluss vom 27.10.2008 - VI ZB 40/08](vi-zb-40-08.md) — ei-
+- [BGH, Beschluss vom 14.10.2008 - VI ZB 16/08](vi-zb-16-08.md) — I. 1 Der Kläger hat behauptet, der Beklagte zu 1 sei am 28. April 2006 mit ei- nem Pkw VW Passat (Fahrleistung ca. 199.000 km, annähernd neun Jahre alt) auf den Pkw Mercedes Benz …
+- [BGH, Beschluss vom 14.10.2008 - VI ZB 23/08](vi-zb-23-08.md) — I. 1 Die Kläger verlangen Ersatz von Schäden an ihrem Haus, die durch eine umgestürzte Zeder vom Nachbargrundstück des Beklagten verursacht worden sind. 2 Das Landgericht hat mit …
+- [BGH, Beschluss vom 14.10.2008 - VI ZB 37/08](vi-zb-37-08.md) — I. 1 Der Kläger nimmt die Beklagten aufgrund eines Verkehrsunfalls auf Schadensersatz in Anspruch. Das Amtsgericht hat die Klage abgewiesen. Das Urteil ist den …
+- [BGH, Urteil vom 14.10.2008 - VI ZR 210/07](vi-zr-210-07.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2008 - VI ZR 256/06](vi-zr-256-06.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2008 - VI ZR 260/06](vi-zr-260-06.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2008 - VI ZR 271/06](vi-zr-271-06.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2008 - VI ZR 272/06](vi-zr-272-06.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2008 - VI ZR 308/07](vi-zr-308-07.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2008 - VI ZR 36/08](vi-zr-36-08.md) — der ihm für den Einsatz eines Ersatzfahrers entstandenen Kosten, scheidet eine eigene Rechtsgutverletzung, die Voraussetzung eines Schadense
 - [BGH, Beschluss vom 14.10.2008 - VI ZR 7/08](vi-zr-7-08.md) — I. 1 Der Versicherungsnehmer des Beklagten nahm dem Versicherten P. der Klägerin am 23. Januar 1998 die Vorfahrt. P. prallte mit seinem Motorroller ge- gen die linke PKW-Seite …
+- [BGH, Beschluss vom 14.10.2008 - VI ZR 85/08](vi-zr-85-08.md) — BGH, Beschluss vom 14.10.2008 - VI ZR 85/08
 - [BGH, Beschluss vom 07.10.2008 - VI ZR 53/08](vi-zr-53-08.md) — BGH, Beschluss vom 07.10.2008 - VI ZR 53/08
+- [BGH, Urteil vom 16.09.2008 - VI ZR 226/07](vi-zr-226-07.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 16.09.2008 - VI ZR 244/07](vi-zr-244-07.md) — Tatbestand:
 - [BGH, Urteil vom 16.09.2008 - VI ZR 296/07](vi-zr-296-07.md) — Tatbestand:
 - [BGH, Beschluss vom 16.09.2008 - VI ZR 47/08](vi-zr-47-08.md) — BGH, Beschluss vom 16.09.2008 - VI ZR 47/08
+- [BGH, Beschluss vom 09.09.2008 - VI ZB 53/07](vi-zb-53-07.md) — I. 1 Die Klägerin hat in dem zugrunde liegenden Arzthaftungsverfahren ne- ben den Beklagten zu 1 und 2 (Träger des K.- Krankenhauses in B. sowie Chef- arzt der Gefäßchirurgie des …
 - [BGH, Beschluss vom 09.09.2008 - VI ZB 8/08](vi-zb-8-08.md) — I. 1 Die Kläger nehmen die Beklagten aufgrund eines Verkehrsunfalls auf Er- satz materiellen und immateriellen Schadens in Anspruch. Das Landgericht hat die Klage abgewiesen. Das …
+- [BGH, Urteil vom 09.09.2008 - VI ZR 279/06](vi-zr-279-06.md) — Tatbestand:
+- [BGH, Beschluss vom 27.08.2008 - VI ZR 78/07](vi-zr-78-07.md) — I. 1 Das Landgericht hat mit Beschluss vom 1. September 2005 den Streit- wert der Klage auf 20.000 € (15.000 € Schmerzensgeldforderung und 5.000 € Feststellungsantrag) …
 - [BGH, Anerkenntnisurteil vom 26.08.2008 - VI ZR 17/08](vi-zr-17-08.md) — 2.692,27 € 711,31 € 711,31 €
+- [BGH, Beschluss vom 18.08.2008 - VI ZR 269/07](vi-zr-269-07.md) — Die statthafte (vgl. Zöller/Vollkommer ZPO 26. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte …
+- [BGH, Beschluss vom 18.08.2008 - VI ZR 270/07](vi-zr-270-07.md) — Die statthafte (vgl. Zöller/Vollkommer ZPO 26. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte …
+- [BGH, Beschluss vom 15.07.2008 - VI ZR 1/08](vi-zr-1-08.md) — BGH, Beschluss vom 15.07.2008 - VI ZR 1/08
+- [BGH, Urteil vom 15.07.2008 - VI ZR 105/07](vi-zr-105-07.md) — Tatbestand:
+- [BGH, Urteil vom 15.07.2008 - VI ZR 212/07](vi-zr-212-07.md) — Tatbestand:
+- [BGH, Urteil vom 08.07.2008 - VI ZR 221/07](vi-zr-221-07.md) — Tatbestand:
+- [BGH, Urteil vom 08.07.2008 - VI ZR 259/06](vi-zr-259-06.md) — Tatbestand:
 - [BGH, Urteil vom 08.07.2008 - VI ZR 274/07](vi-zr-274-07.md) — Tatbestand:
 - [BGH, Urteil vom 01.07.2008 - VI ZR 188/07](vi-zr-188-07.md) — Tatbestand:
 - [BGH, Urteil vom 01.07.2008 - VI ZR 243/06](vi-zr-243-06.md) — 3-
 - [BGH, Beschluss vom 01.07.2008 - VI ZR 25/08](vi-zr-25-08.md) — BGH, Beschluss vom 01.07.2008 - VI ZR 25/08
+- [BGH, Beschluss vom 01.07.2008 - VI ZR 287/07](vi-zr-287-07.md) — 1. Die Klägerin nimmt die Beklagte, die in Deutschland das Schmerzmit- tel "VIOXX" vertrieb, das sie im Jahr 2004 nach dem Bekanntwerden möglicher erheblicher Gesundheitsrisiken …
+- [BGH, Beschluss vom 01.07.2008 - VI ZR 4/08](vi-zr-4-08.md) — BGH, Beschluss vom 01.07.2008 - VI ZR 4/08
 - [BGH, Beschluss vom 01.07.2008 - VI ZR 5/08](vi-zr-5-08.md) — Die Gerichte sind nach Art. 103 Abs. 1 GG nur verpflichtet, das Vorbrin- gen der Parteien zur Kenntnis zu nehmen und in Erwägung zu ziehen. Hinge- gen ist es nicht erforderlich …
 - [BGH, Urteil vom 01.07.2008 - VI ZR 67/08](vi-zr-67-08.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2008 - VI ZR 156/06](vi-zr-156-06.md) — Tatbestand:
+- [BGH, Urteil vom 24.06.2008 - VI ZR 234/07](vi-zr-234-07.md) — Tatbestand:
 - [BGH, Urteil vom 17.06.2008 - VI ZR 197/07](vi-zr-197-07.md) — 3-
+- [BGH, Urteil vom 17.06.2008 - VI ZR 257/06](vi-zr-257-06.md) — Tatbestand:
 - [BGH, Beschluss vom 10.06.2008 - VI ZB 2/08](vi-zb-2-08.md) — urlaubs- und krankheitsbedingter Ausfälle im
+- [BGH, Beschluss vom 10.06.2008 - VI ZB 56/07](vi-zb-56-07.md) — I. 1 Der Kläger ist polnischer Staatsangehöriger mit Wohnsitz in Polen. Er war am 27. August 2004 in Deutschland in einen Verkehrsunfall verwickelt, bei dem sein PKW beschädigt …
+- [BGH, Beschluss vom 10.06.2008 - VI ZR 10/08](vi-zr-10-08.md) — BGH, Beschluss vom 10.06.2008 - VI ZR 10/08
+- [BGH, Urteil vom 10.06.2008 - VI ZR 248/07](vi-zr-248-07.md) — Tatbestand:
 - [BGH, Urteil vom 10.06.2008 - VI ZR 252/07](vi-zr-252-07.md) — Tatbestand:
+- [BGH, Beschluss vom 10.06.2008 - VI ZR 266/07](vi-zr-266-07.md) — liegenden Gutachten der privaten Sachverständigen" nicht zu entnehmen, was der gerichtliche Sachverständige außer Acht gelassen haben sollte; die vom Privatsachverständigen …
 - [BGH, Beschluss vom 10.06.2008 - VI ZR 316/07](vi-zr-316-07.md) — BGH, Beschluss vom 10.06.2008 - VI ZR 316/07
+- [BGH, Beschluss vom 03.06.2008 - VI ZB 55/07](vi-zb-55-07.md) — eines von ihm
+- [BGH, Urteil vom 03.06.2008 - VI ZR 223/07](vi-zr-223-07.md) — Tatbestand:
+- [BGH, Urteil vom 03.06.2008 - VI ZR 235/07](vi-zr-235-07.md) — Tatbestand:
+- [BGH, Urteil vom 27.05.2008 - VI ZR 69/07](vi-zr-69-07.md) — Tatbestand:
+- [BGH, Beschluss vom 06.05.2008 - VI ZB 16/07](vi-zb-16-07.md) — behaupteter ärztlicher Fehlbe-
+- [BGH, Urteil vom 06.05.2008 - VI ZR 200/05](vi-zr-200-05.md) — Tatbestand:
+- [BGH, Beschluss vom 06.05.2008 - VI ZR 232/07](vi-zr-232-07.md) — BGH, Beschluss vom 06.05.2008 - VI ZR 232/07
 - [BGH, Beschluss vom 06.05.2008 - VI ZR 250/07](vi-zr-250-07.md) — zunehmender Beschwerden der Klägerin erfolgte am
 - [BGH, Urteil vom 29.04.2008 - VI ZR 220/07](vi-zr-220-07.md) — Tatbestand:
 - [BGH, Urteil vom 22.04.2008 - VI ZR 202/07](vi-zr-202-07.md) — Tatbestand:
+- [BGH, Urteil vom 22.04.2008 - VI ZR 237/07](vi-zr-237-07.md) — Tatbestand
+- [BGH, Urteil vom 22.04.2008 - VI ZR 83/07](vi-zr-83-07.md) — der Veröffentli-
 - [BGH, Beschluss vom 17.04.2008 - VI ZR 147/06](vi-zr-147-06.md) — BGH, Beschluss vom 17.04.2008 - VI ZR 147/06
 - [BGH, Beschluss vom 15.04.2008 - VI ZB 29/07](vi-zb-29-07.md) — eines Verkehrsunfalls auf Scha-
 - [BGH, Beschluss vom 08.04.2008 - VI ZR 229/07](vi-zr-229-07.md) — nach § 3 Nr. 1 PflVG a.F. den Direktanspruch des geschädigten Dritten gegen den Haftpflichtversicherer des Schädigers aus.
 - [BGH, Urteil vom 08.04.2008 - VI ZR 49/07](vi-zr-49-07.md) — des Wegfalls seines bisherigen Anspruchs bei normativer Betrachtungsweise ein Erwerbsschaden. In entsprechendem Umfang geht sein Schadensers
 - [BGH, Beschluss vom 28.03.2008 - VI ZR 57/07](vi-zr-57-07.md) — Die statthafte (vgl. Zöller/Vollkommer ZPO 26. Aufl. § 321a Rn. 5) und auch im Übrigen zulässige Anhörungsrüge ist nicht begründet. 2 Nach Art. 103 Abs. 1 GG sind die Gerichte …
+- [BGH, Beschluss vom 11.03.2008 - VI ZB 9/06](vi-zb-9-06.md) — Beschädigung seines Kraftfahrzeu-
+- [BGH, Urteil vom 11.03.2008 - VI ZR 164/07](vi-zr-164-07.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2008 - VI ZR 189/06](vi-zr-189-06.md) — Tatbestand:
 - [BGH, Urteil vom 11.03.2008 - VI ZR 7/07](vi-zr-7-07.md) — Tatbestand:
+- [BGH, Beschluss vom 11.03.2008 - VI ZR 75/07](vi-zr-75-07.md) — I. 1 Der Senat hat den Parteien gemäß § 552a ZPO folgenden Hinweis ge- geben: 2 1. Die Voraussetzungen für die Zulassung der Revision liegen nicht vor. Insbesondere ist eine …
+- [BGH, Beschluss vom 04.03.2008 - VI ZB 15/06](vi-zb-15-06.md) — eines Glätteunfalls vor deren Anwesen in Anspruch ge-
+- [BGH, Beschluss vom 04.03.2008 - VI ZB 69/05](vi-zb-69-05.md) — Versäumung
 - [BGH, Beschluss vom 04.03.2008 - VI ZB 72/06](vi-zb-72-06.md) — I. 1 Der Kläger nahm den Beklagten zu 1 als Fahrer, die Beklagte zu 2 als Halterin und die Beklagte zu 3 als Haftpflichtversicherer aus einem Verkehrsun- fall vom 7. Juli 2004 auf …
 - [BGH, Beschluss vom 04.03.2008 - VI ZR 101/07](vi-zr-101-07.md) — Divergenz bedarf es jedoch gleich-
 - [BGH, Beschluss vom 04.03.2008 - VI ZR 137/07](vi-zr-137-07.md) — , die ohne weitere Umstände keinen Zulassungsgrund darstellt.
+- [BGH, Urteil vom 04.03.2008 - VI ZR 176/07](vi-zr-176-07.md) — Tatbestand:
 - [BGH, Beschluss vom 04.03.2008 - VI ZR 205/07](vi-zr-205-07.md) — BGH, Beschluss vom 04.03.2008 - VI ZR 205/07
 - [BGH, Beschluss vom 04.03.2008 - VI ZR 214/07](vi-zr-214-07.md) — BGH, Beschluss vom 04.03.2008 - VI ZR 214/07
 - [BGH, Beschluss vom 04.03.2008 - VI ZR 238/07](vi-zr-238-07.md) — BGH, Beschluss vom 04.03.2008 - VI ZR 238/07
+- [BGH, Beschluss vom 04.03.2008 - VI ZR 66/07](vi-zr-66-07.md) — der Fristversäumung beantragt und zugleich Nichtzulassungsbeschwerde eingelegt.
 - [BGH, Beschluss vom 21.02.2008 - VI ZR 88/07](vi-zr-88-07.md) — BGH, Beschluss vom 21.02.2008 - VI ZR 88/07
+- [BGH, Urteil vom 19.02.2008 - VI ZR 32/07](vi-zr-32-07.md) — Tatbestand:
 - [BGH, Urteil vom 12.02.2008 - VI ZR 154/07](vi-zr-154-07.md) — einer Veränderung der Vertragsgrundlage oder einer erheblichen Äquivalenzstörung, wenn der verkehrsunfallbedingt
+- [BGH, Urteil vom 12.02.2008 - VI ZR 221/06](vi-zr-221-06.md) — Tatbestand:
+- [BGH, Urteil vom 29.01.2008 - VI ZR 70/07](vi-zr-70-07.md) — Tatbestand:
+- [BGH, Urteil vom 29.01.2008 - VI ZR 98/07](vi-zr-98-07.md) — Tatbestand:
+- [BGH, Beschluss vom 22.01.2008 - VI ZB 46/07](vi-zb-46-07.md) — Versäumung der Berufungsbegründungsfrist
 - [BGH, Urteil vom 22.01.2008 - VI ZR 126/07](vi-zr-126-07.md) — Tatbestand:
+- [BGH, Urteil vom 22.01.2008 - VI ZR 17/07](vi-zr-17-07.md) — Tatbestand:
 - [BGH, Urteil vom 15.01.2008 - VI ZR 131/07](vi-zr-131-07.md) — Tatbestand:
+- [BGH, Urteil vom 15.01.2008 - VI ZR 53/07](vi-zr-53-07.md) — Tatbestand:
+- [BGH, Urteil vom 08.01.2008 - VI ZR 118/06](vi-zr-118-06.md) — Tatbestand:
 - [BGH, Beschluss vom 08.01.2008 - VI ZR 161/07](vi-zr-161-07.md) — BGH, Beschluss vom 08.01.2008 - VI ZR 161/07
+- [BGH, Beschluss vom 08.01.2008 - VI ZR 194/07](vi-zr-194-07.md) — BGH, Beschluss vom 08.01.2008 - VI ZR 194/07
