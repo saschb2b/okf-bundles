@@ -26,6 +26,7 @@
 //
 // FLAGS
 //   --limit N     stop after N newly written decisions
+//   --conc N      concurrent document downloads (default 4; be polite to the source)
 //   --senat SLUG  only this senate folder (e.g. ix-zivilsenat, 2-strafsenat)
 //   --since YYYY  skip decisions older than this year
 //   --delay MS    pause between document downloads (default 300)
@@ -227,15 +228,16 @@ function toConcept(xml) {
 // ---- crawl ----------------------------------------------------------------
 async function crawl() {
   const WANT_SENAT = opt("--senat", "");
+  const CONC = Math.max(1, Number(opt("--conc", "4")));
   process.stdout.write(`Lade Inhaltsverzeichnis: ${TOC}\n`);
   const tocXml = await (await fetch(TOC)).text();
   const items = allTags(tocXml, "item");
   process.stdout.write(`${items.length} Einträge gesamt.${WANT_SENAT ? ` Filter Senat: ${WANT_SENAT}.` : ""}\n`);
-  let written = 0, skipped = 0, matched = 0;
-  // The TOC already carries gericht, aktenzeichen and entsch-datum, so we filter
-  // and pre-skip existing files here and only download the documents we still need.
+
+  // Phase 1 (no network): filter the TOC and pre-skip existing files.
+  const work = [];
+  let matched = 0, skipped = 0;
   for (const item of items) {
-    if (written >= LIMIT) break;
     if (!/BGH|Bundesgerichtshof/i.test(firstTag(item, "gericht"))) continue;
     const az = decode(firstTag(item, "aktenzeichen")).trim();
     const link = firstTag(item, "link").trim();
@@ -245,23 +247,32 @@ async function crawl() {
     const sen = senatOf(az);
     if (WANT_SENAT && sen.slug !== WANT_SENAT) continue;
     matched++;
-    const target = join(OUT, "entscheidungen", sen.slug, year, `${azSlug(az)}.md`);
-    if (existsSync(target)) { skipped++; continue; } // cheap resume: no download
-    try {
-      const buf = Buffer.from(await (await fetch(link)).arrayBuffer());
-      const xml = link.endsWith(".zip") ? unzipFirst(buf) : buf.toString("utf8");
-      const c = toConcept(xml);
-      if (!c) { skipped++; continue; }
-      mkdirSync(dirname(c.path), { recursive: true });
-      writeFileSync(c.path, c.content);
-      written++;
-      if (written % 50 === 0) process.stdout.write(`  ${written} geschrieben...\n`);
-    } catch (e) {
-      process.stderr.write(`  Fehler bei ${link} (${az}): ${e.message}\n`);
-    }
-    await sleep(DELAY);
+    if (existsSync(join(OUT, "entscheidungen", sen.slug, year, `${azSlug(az)}.md`))) { skipped++; continue; }
+    work.push({ az, link });
+    if (work.length >= LIMIT) break;
   }
-  process.stdout.write(`Fertig. ${matched} passende BGH-Einträge, ${written} neu geschrieben, ${skipped} vorhanden/übersprungen.\n`);
+  process.stdout.write(`${matched} passend, ${skipped} vorhanden, ${work.length} zu laden (Concurrency ${CONC}, Delay ${DELAY}ms).\n`);
+
+  // Phase 2 (network): fetch the worklist with a bounded pool of workers.
+  let written = 0, failed = 0, i = 0;
+  const worker = async () => {
+    while (i < work.length) {
+      const { az, link } = work[i++];
+      try {
+        const buf = Buffer.from(await (await fetch(link)).arrayBuffer());
+        const xml = link.endsWith(".zip") ? unzipFirst(buf) : buf.toString("utf8");
+        const c = toConcept(xml);
+        if (c) { mkdirSync(dirname(c.path), { recursive: true }); writeFileSync(c.path, c.content); written++; }
+        if (written % 200 === 0 && written) process.stdout.write(`  ${written}/${work.length} geschrieben...\n`);
+      } catch (e) {
+        failed++;
+        process.stderr.write(`  Fehler bei ${link} (${az}): ${e.message}\n`);
+      }
+      if (DELAY) await sleep(DELAY);
+    }
+  };
+  await Promise.all(Array.from({ length: CONC }, worker));
+  process.stdout.write(`Fertig. ${matched} passende BGH-Einträge, ${written} neu geschrieben, ${skipped} vorhanden, ${failed} Fehler.\n`);
   process.stdout.write(`Navigation neu erzeugen: node scripts/build-rechtsprechung-index.mjs\n`);
 }
 
