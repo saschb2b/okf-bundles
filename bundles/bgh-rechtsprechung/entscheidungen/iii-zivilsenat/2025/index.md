@@ -4,7 +4,7 @@
 
 - [BGH, Beschluss vom 17.12.2025 - III ZB 20/24](iii-zb-20-24.md) — BGH, Beschluss III ZB 20/24
 - [BGH, Beschluss vom 17.12.2025 - III ZR 411/23](iii-zr-411-23.md) — BGH, Beschluss III ZR 411/23
-- [BGH, Urteil vom 11.12.2025 - III ZR 438/23](iii-zr-438-23.md) — Abschlussprüfung, Geschäftsbesorgung, Auskunftsanspruch, Handakte, verhaltener Anspruch, Verjährungsfrist 1. Der schuldrechtliche Vertrag über die Jahres- und K
+- [BGH, Urteil vom 11.12.2025 - III ZR 438/23](iii-zr-438-23.md) — Abschlussprüfung, Geschäftsbesorgung, Auskunftsanspruch, Handakte, verhaltener Anspruch, Verjährungsfrist 1. Der schuldrechtliche Vertrag über die Jahres- und …
 - [BGH, Urteil vom 04.12.2025 - III ZR 14/25](iii-zr-14-25.md) — Annahmeverzug bei sozialversicherungsrechtlich umstrittenen Dienstleistungskonstruktionen im Krankenhausbereich
 - [BGH, Beschluss vom 27.11.2025 - III ZR 1/25](iii-zr-1-25.md) — BGH, Beschluss III ZR 1/25
 - [BGH, Beschluss vom 27.11.2025 - III ZR 110/25](iii-zr-110-25.md) — BGH, Beschluss III ZR 110/25
@@ -16,54 +16,54 @@
 - [BGH, Beschluss vom 27.11.2025 - III ZR 54/25](iii-zr-54-25.md) — BGH, Beschluss III ZR 54/25
 - [BGH, Beschluss vom 27.11.2025 - III ZR 57/25](iii-zr-57-25.md) — BGH, Beschluss III ZR 57/25
 - [BGH, Beschluss vom 13.11.2025 - III ZA 9/25](iii-za-9-25.md) — BGH, Beschluss III ZA 9/25
-- [BGH, Urteil vom 13.11.2025 - III ZR 165/24](iii-zr-165-24.md) — Individualvereinbarung, Allgemeine Geschäftsbedingung, Inhaltskontrolle Sind an einem Vertragsverhältnis mehr als nur zwei Parteien beteiligt, ist es möglich, d
+- [BGH, Urteil vom 13.11.2025 - III ZR 165/24](iii-zr-165-24.md) — Individualvereinbarung, Allgemeine Geschäftsbedingung, Inhaltskontrolle Sind an einem Vertragsverhältnis mehr als nur zwei Parteien beteiligt, ist es möglich, dass eine Bestimmung …
 - [BGH, Beschluss vom 04.11.2025 - III ZR 145/24](iii-zr-145-24.md) — BGH, Beschluss III ZR 145/24
 - [BGH, Beschluss vom 29.10.2025 - III ZR 174/24](iii-zr-174-24.md) — BGH, Beschluss III ZR 174/24
-- [BGH, Urteil vom 23.10.2025 - III ZR 147/24](iii-zr-147-24.md) — Eine Klausel in Allgemeinen Geschäftsbedingungen eines Telekommunikationsunternehmens, nach der seine Mobilfunkkunden die missbräuchliche Nutzung oder den Verlu
-- [BGH, Urteil vom 09.10.2025 - III ZR 180/24](iii-zr-180-24.md) — Schutzimpfung gegen das Coronavirus SARS-CoV-2, Passivlegitimation Bis zum 7. April 2023 handelten die in der jeweiligen Fassung der Verordnung zum Anspruch auf
+- [BGH, Urteil vom 23.10.2025 - III ZR 147/24](iii-zr-147-24.md) — Eine Klausel in Allgemeinen Geschäftsbedingungen eines Telekommunikationsunternehmens, nach der seine Mobilfunkkunden die missbräuchliche Nutzung oder den Verlust der SIM unter …
+- [BGH, Urteil vom 09.10.2025 - III ZR 180/24](iii-zr-180-24.md) — Schutzimpfung gegen das Coronavirus SARS-CoV-2, Passivlegitimation Bis zum 7. April 2023 handelten die in der jeweiligen Fassung der Verordnung zum Anspruch auf Schutzimpfung …
 - [BGH, Beschluss vom 25.09.2025 - III ZA 10/25](iii-za-10-25.md) — BGH, Beschluss III ZA 10/25
 - [BGH, Beschluss vom 25.09.2025 - III ZA 7/25](iii-za-7-25.md) — BGH, Beschluss III ZA 7/25
 - [BGH, Beschluss vom 25.09.2025 - III ZR 297/23](iii-zr-297-23.md) — BGH, Beschluss III ZR 297/23
 - [BGH, Beschluss vom 25.09.2025 - III ZR 58/23](iii-zr-58-23.md) — BGH, Beschluss III ZR 58/23
-- [BGH, Urteil vom 11.09.2025 - III ZR 274/23](iii-zr-274-23.md) — Aufrechnung, Gegenseitigkeit, Drittschadensliquidation, Aufrechnungsverbot 1. In den Fällen der Drittschadensliquidation ist der Inhaber der verletzten Rechtsst
-- [BGH, Urteil vom 04.09.2025 - III ZR 96/24](iii-zr-96-24.md) — 1. Eine Partei, die sich für bedürftig halten darf und innerhalb der Klagefrist des § 198 Abs. 5 Satz 2 GVG einen vollständigen Prozesskostenhilfeantrag stellt,
-- [BGH, Urteil vom 14.08.2025 - III ZR 125/24](iii-zr-125-24.md) — Hat ein anderer als der Grundstückseigentümer einen abgelehnten Bauantrag gestellt, ist der Eigentümer geschützter "Dritter" im Sinne des § 839 Abs. 1 Satz 1 BG
+- [BGH, Urteil vom 11.09.2025 - III ZR 274/23](iii-zr-274-23.md) — Aufrechnung, Gegenseitigkeit, Drittschadensliquidation, Aufrechnungsverbot 1. In den Fällen der Drittschadensliquidation ist der Inhaber der verletzten Rechtsstellung …
+- [BGH, Urteil vom 04.09.2025 - III ZR 96/24](iii-zr-96-24.md) — 1. Eine Partei, die sich für bedürftig halten darf und innerhalb der Klagefrist des § 198 Abs. 5 Satz 2 GVG einen vollständigen Prozesskostenhilfeantrag stellt, kann die …
+- [BGH, Urteil vom 14.08.2025 - III ZR 125/24](iii-zr-125-24.md) — Hat ein anderer als der Grundstückseigentümer einen abgelehnten Bauantrag gestellt, ist der Eigentümer geschützter "Dritter" im Sinne des § 839 Abs. 1 Satz 1 BGB, wenn er nicht …
 - [BGH, Beschluss vom 31.07.2025 - III ZB 100/24](iii-zb-100-24.md) — BGH, Beschluss III ZB 100/24
 - [BGH, Beschluss vom 31.07.2025 - III ZB 3/25](iii-zb-3-25.md) — Streitwertbemessung: Beschwerdewert bei Klage auf Räumung und Herausgabe eines gepachteten Kleingartens mit darauf befindlichem zu Wohnzwecken genutztes Bauwerk
 - [BGH, Beschluss vom 31.07.2025 - III ZB 82/24](iii-zb-82-24.md) — BGH, Beschluss III ZB 82/24
 - [BGH, Beschluss vom 31.07.2025 - III ZB 85/23](iii-zb-85-23.md) — BGH, Beschluss III ZB 85/23
 - [BGH, Beschluss vom 31.07.2025 - III ZR 422/23](iii-zr-422-23.md) — BGH, Beschluss III ZR 422/23
-- [BGH, Urteil vom 17.07.2025 - III ZR 388/23](iii-zr-388-23.md) — Online-Partnervermittlungsportal, Kündigungsrecht, Vertragsverlängerungsklausel 1. Das Kündigungsrecht des § 627 Abs. 1 BGB besteht nicht bei einem Vertrag über
+- [BGH, Urteil vom 17.07.2025 - III ZR 388/23](iii-zr-388-23.md) — Online-Partnervermittlungsportal, Kündigungsrecht, Vertragsverlängerungsklausel 1. Das Kündigungsrecht des § 627 Abs. 1 BGB besteht nicht bei einem Vertrag über die Nutzung eines …
 - [BGH, Urteil vom 17.07.2025 - III ZR 53/24](iii-zr-53-24.md) — BGH, Urteil III ZR 53/24
-- [BGH, Urteil vom 17.07.2025 - III ZR 92/24](iii-zr-92-24.md) — Kündigung eines fiktiven Dauerkleingartens Ein Pachtverhältnis betreffend einen sogenannten fiktiven Dauerkleingarten i.S.v. § 16 Abs. 2 BKleingG kann vom Verpä
-- [BGH, Urteil vom 10.07.2025 - III ZR 59/24](iii-zr-59-24.md) — Telekommunikationsvertrag: Verstoß gegen das Transparenzgebot durch Verweis auf Allgemeine Geschäftsbedingungen auf der Internetseite im postalischen Antragsfor
-- [BGH, Urteil vom 10.07.2025 - III ZR 61/24](iii-zr-61-24.md) — 1. § 43b Satz 1 TKG in der bis zum 30. November 2021 geltenden Fassung (aF = in der Fassung vom 3. Mai 2012) und § 56 Abs. 1 Satz 1 TKG in der seit dem 1. Dezem
+- [BGH, Urteil vom 17.07.2025 - III ZR 92/24](iii-zr-92-24.md) — Kündigung eines fiktiven Dauerkleingartens Ein Pachtverhältnis betreffend einen sogenannten fiktiven Dauerkleingarten i.S.v. § 16 Abs. 2 BKleingG kann vom Verpächter nicht gemäß § …
+- [BGH, Urteil vom 10.07.2025 - III ZR 59/24](iii-zr-59-24.md) — Telekommunikationsvertrag: Verstoß gegen das Transparenzgebot durch Verweis auf Allgemeine Geschäftsbedingungen auf der Internetseite im postalischen Antragsformular
+- [BGH, Urteil vom 10.07.2025 - III ZR 61/24](iii-zr-61-24.md) — 1. § 43b Satz 1 TKG in der bis zum 30. November 2021 geltenden Fassung (aF = in der Fassung vom 3. Mai 2012) und § 56 Abs. 1 Satz 1 TKG in der seit dem 1. Dezember 2021 geltenden …
 - [BGH, Beschluss vom 26.06.2025 - III ZB 31/25](iii-zb-31-25.md) — BGH, Beschluss III ZB 31/25
 - [BGH, Beschluss vom 26.06.2025 - III ZR 153/24](iii-zr-153-24.md) — BGH, Beschluss III ZR 153/24
 - [BGH, Beschluss vom 26.06.2025 - III ZR 81/24](iii-zr-81-24.md) — Verstoß gegen das Gebot rechtlichen Gehörs; Umfang der Darlegungsanforderungen an Beweisantrag
-- [BGH, Urteil vom 12.06.2025 - III ZR 109/24](iii-zr-109-24.md) — 1. Das Merkmal der überwiegenden räumlichen Trennung zwischen Lehrendem und Lernendem im Sinne des § 1 Abs. 1 Nr. 1 des Gesetzes zum Schutz der Teilnehmer am Fe
+- [BGH, Urteil vom 12.06.2025 - III ZR 109/24](iii-zr-109-24.md) — 1. Das Merkmal der überwiegenden räumlichen Trennung zwischen Lehrendem und Lernendem im Sinne des § 1 Abs. 1 Nr. 1 des Gesetzes zum Schutz der Teilnehmer am Fernunterricht - …
 - [BGH, Beschluss vom 22.05.2025 - III ZR 5/25](iii-zr-5-25.md) — BGH, Beschluss III ZR 5/25
 - [BGH, Beschluss vom 22.05.2025 - III ZR 99/24](iii-zr-99-24.md) — BGH, Beschluss III ZR 99/24
-- [BGH, Urteil vom 15.05.2025 - III ZR 417/23](iii-zr-417-23.md) — Bei einer schuldhaft groben Vernachlässigung von Amtspflichten in Bezug auf einen Rettungsdiensteinsatz durch den Disponenten einer Rettungsleitstelle muss die 
-- [BGH, Urteil vom 08.05.2025 - III ZR 398/23](iii-zr-398-23.md) — 1. Ob und mit welchem Inhalt einem Notar selbständige Betreuungspflichten im Sinne des § 24 Abs. 1 Satz 1 BNotO übertragen werden, kann nur auf der Grundlage de
+- [BGH, Urteil vom 15.05.2025 - III ZR 417/23](iii-zr-417-23.md) — Bei einer schuldhaft groben Vernachlässigung von Amtspflichten in Bezug auf einen Rettungsdiensteinsatz durch den Disponenten einer Rettungsleitstelle muss die für ihn haftende …
+- [BGH, Urteil vom 08.05.2025 - III ZR 398/23](iii-zr-398-23.md) — 1. Ob und mit welchem Inhalt einem Notar selbständige Betreuungspflichten im Sinne des § 24 Abs. 1 Satz 1 BNotO übertragen werden, kann nur auf der Grundlage der jeweiligen …
 - [BGH, Beschluss vom 08.05.2025 - III ZR 56/24](iii-zr-56-24.md) — BGH, Beschluss III ZR 56/24
-- [BGH, Beschluss vom 24.04.2025 - III ZB 12/24](iii-zb-12-24.md) — Wiedereinsetzung in die versäumte Berufungsbegründungsfrist: Übermittlung der Berufungsbegründung über das besondere elektronische Anwaltspostfach kurz vor Mitt
+- [BGH, Beschluss vom 24.04.2025 - III ZB 12/24](iii-zb-12-24.md) — Wiedereinsetzung in die versäumte Berufungsbegründungsfrist: Übermittlung der Berufungsbegründung über das besondere elektronische Anwaltspostfach kurz vor Mitternacht am Abend …
 - [BGH, Beschluss vom 24.04.2025 - III ZB 81/24](iii-zb-81-24.md) — Wiedereinsetzung in eine versäumte Berufungsbegründungsfrist: Pflicht des Rechtsanwalts zur Notierung einer Vorfrist
 - [BGH, Beschluss vom 24.04.2025 - III ZR 18/24](iii-zr-18-24.md) — Ein Notar hat sicherzustellen, dass eine Auflassungsvormerkung nicht vor nachrangigen, nicht übernommenen Belastungen gelöscht wird.
-- [BGH, Urteil vom 24.04.2025 - III ZR 435/23](iii-zr-435-23.md) — Die zur Behandlung eines Astigmatismus mittels Femtosekundenlasers vorgenommene Korrektur einer Hornhautverkrümmung (Laser-Keratotomie) ist nach Nummer 1345 GOÄ
+- [BGH, Urteil vom 24.04.2025 - III ZR 435/23](iii-zr-435-23.md) — Die zur Behandlung eines Astigmatismus mittels Femtosekundenlasers vorgenommene Korrektur einer Hornhautverkrümmung (Laser-Keratotomie) ist nach Nummer 1345 GOÄ, zu welcher der …
 - [BGH, Beschluss vom 10.04.2025 - III ZR 122/24](iii-zr-122-24.md) — BGH, Beschluss III ZR 122/24
 - [BGH, Urteil vom 10.04.2025 - III ZR 431/23](iii-zr-431-23.md) — Amtshaftungsansprüche gegen einen Prüfer wegen der fehlerhaften Stückprüfbescheinigung im Hinblick auf die Zulassung eines Ultraleichtflugzeugs
 - [BGH, Urteil vom 03.04.2025 - III ZR 23/24](iii-zr-23-24.md) — Zivilrechtliche Gehilfenhaftung einer Steuerberaterin bei Schneeballsystem
 - [BGH, Urteil vom 03.04.2025 - III ZR 70/24](iii-zr-70-24.md) — Zivilrechtliche Gehilfenhaftung einer Steuerberaterin bei Schneeballsystem
 - [BGH, Beschluss vom 26.03.2025 - III ZB 1/25](iii-zb-1-25.md) — BGH, Beschluss III ZB 1/25
 - [BGH, Beschluss vom 26.03.2025 - III ZR 182/24](iii-zr-182-24.md) — BGH, Beschluss III ZR 182/24
-- [BGH, Urteil vom 20.03.2025 - III ZR 261/23](iii-zr-261-23.md) — Zu den Voraussetzungen eines unvermeidbaren Verbotsirrtums beim Betreiben unerlaubter Einlagengeschäfte nach dem Kreditwesengesetz, wenn sich der Täter während 
-- [BGH, Urteil vom 13.03.2025 - III ZR 426/23](iii-zr-426-23.md) — Wahlleistungsvereinbarung, Wahlarzt, Liquidationsrecht, totaler Krankenhausaufnahmevertrag 1. Der Krankenhausträger kann mit dem Patienten neben allgemeinen Kra
-- [BGH, Urteil vom 06.03.2025 - III ZR 137/24](iii-zr-137-24.md) — Juristische Person, Organ, Haftungszuweisung, unerlaubte Handlung, "Schneeballsystem", Gesamtschuldner 1. § 31 BGB gilt für alle juristischen Personen. 2. § 31 
+- [BGH, Urteil vom 20.03.2025 - III ZR 261/23](iii-zr-261-23.md) — Zu den Voraussetzungen eines unvermeidbaren Verbotsirrtums beim Betreiben unerlaubter Einlagengeschäfte nach dem Kreditwesengesetz, wenn sich der Täter während eines gegen ihn …
+- [BGH, Urteil vom 13.03.2025 - III ZR 426/23](iii-zr-426-23.md) — Wahlleistungsvereinbarung, Wahlarzt, Liquidationsrecht, totaler Krankenhausaufnahmevertrag 1. Der Krankenhausträger kann mit dem Patienten neben allgemeinen Krankenhausleistungen …
+- [BGH, Urteil vom 06.03.2025 - III ZR 137/24](iii-zr-137-24.md) — Juristische Person, Organ, Haftungszuweisung, unerlaubte Handlung, "Schneeballsystem", Gesamtschuldner 1. § 31 BGB gilt für alle juristischen Personen. 2. § 31 BGB ist keine …
 - [BGH, Beschluss vom 27.02.2025 - III ZB 27/24](iii-zb-27-24.md) — BGH, Beschluss III ZB 27/24
 - [BGH, Beschluss vom 27.02.2025 - III ZB 33/24](iii-zb-33-24.md) — Bestimmung des Verfahrensgegenstands im Notarbeschwerdeverfahren
 - [BGH, Beschluss vom 27.02.2025 - III ZR 407/23](iii-zr-407-23.md) — BGH, Beschluss III ZR 407/23
 - [BGH, Beschluss vom 27.02.2025 - III ZR 82/24](iii-zr-82-24.md) — BGH, Beschluss III ZR 82/24
-- [BGH, Urteil vom 13.02.2025 - III ZR 63/24](iii-zr-63-24.md) — Darlegungs- und Beweislast im Amtshaftungsprozess; Anspruch aus Aufopferung bei Verletzung des allgemeinen Persönlichkeitsrechts 1. Im Amtshaftungsprozess oblie
+- [BGH, Urteil vom 13.02.2025 - III ZR 63/24](iii-zr-63-24.md) — Darlegungs- und Beweislast im Amtshaftungsprozess; Anspruch aus Aufopferung bei Verletzung des allgemeinen Persönlichkeitsrechts 1. Im Amtshaftungsprozess obliegt es dem Kläger …
 - [BGH, Urteil vom 23.01.2025 - III ZR 371/23](iii-zr-371-23.md) — BGH, Urteil III ZR 371/23
 - [BGH, Urteil vom 07.01.2025 - III ZR 284/20](iii-zr-284-20.md) — Sittenwidrigkeit von häufig abgeschalteter KSR-Regelung

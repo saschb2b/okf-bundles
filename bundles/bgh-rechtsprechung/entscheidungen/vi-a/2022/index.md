@@ -24,11 +24,11 @@
 - [BGH, Beschluss vom 14.11.2022 - VIa ZR 544/21](via-zr-544-21.md) — BGH, Beschluss VIa ZR 544/21
 - [BGH, Urteil vom 07.11.2022 - VIa ZR 113/22](via-zr-113-22.md) — BGH, Urteil VIa ZR 113/22
 - [BGH, Urteil vom 07.11.2022 - VIa ZR 215/22](via-zr-215-22.md) — BGH, Urteil VIa ZR 215/22
-- [BGH, Urteil vom 07.11.2022 - VIa ZR 325/21](via-zr-325-21.md) — Die Nichtausübung eines verbrieften Rückgaberechts stellt in einem sogenannten „Dieselfall“ den für die Erwerbskausalität geltenden Erfahrungssatz nicht in Frag
-- [BGH, Urteil vom 07.11.2022 - VIa ZR 409/22](via-zr-409-22.md) — Zur Anwendung der Grundsätze der Vorteilsausgleichung bei der Erstattung von Finanzierungskosten in einem sogenannten "Dieselfall" (Anschluss an BGH, Urteil vom
+- [BGH, Urteil vom 07.11.2022 - VIa ZR 325/21](via-zr-325-21.md) — Die Nichtausübung eines verbrieften Rückgaberechts stellt in einem sogenannten „Dieselfall“ den für die Erwerbskausalität geltenden Erfahrungssatz nicht in Frage, dass der …
+- [BGH, Urteil vom 07.11.2022 - VIa ZR 409/22](via-zr-409-22.md) — Zur Anwendung der Grundsätze der Vorteilsausgleichung bei der Erstattung von Finanzierungskosten in einem sogenannten "Dieselfall" (Anschluss an BGH, Urteil vom 25. Mai 2020 - VI …
 - [BGH, Urteil vom 07.11.2022 - VIa ZR 557/21](via-zr-557-21.md) — BGH, Urteil VIa ZR 557/21
 - [BGH, Urteil vom 07.11.2022 - VIa ZR 589/21](via-zr-589-21.md) — BGH, Urteil VIa ZR 589/21
-- [BGH, Urteil vom 07.11.2022 - VIa ZR 737/21](via-zr-737-21.md) — Die Zulässigkeit der Berufung kann offenbleiben, wenn das Revisionsgericht formell rechtskräftig abschließend auf ihre Unbegründetheit erkennen kann, ohne dass 
+- [BGH, Urteil vom 07.11.2022 - VIa ZR 737/21](via-zr-737-21.md) — Die Zulässigkeit der Berufung kann offenbleiben, wenn das Revisionsgericht formell rechtskräftig abschließend auf ihre Unbegründetheit erkennen kann, ohne dass schutzwürdige …
 - [BGH, Urteil vom 31.10.2022 - VIa ZR 137/22](via-zr-137-22.md) — BGH, Urteil VIa ZR 137/22
 - [BGH, Urteil vom 31.10.2022 - VIa ZR 138/22](via-zr-138-22.md) — BGH, Urteil VIa ZR 138/22
 - [BGH, Urteil vom 31.10.2022 - VIa ZR 173/22](via-zr-173-22.md) — BGH, Urteil VIa ZR 173/22
@@ -47,9 +47,9 @@
 - [BGH, Beschluss vom 24.10.2022 - VIa ZR 579/22](via-zr-579-22.md) — BGH, Beschluss VIa ZR 579/22
 - [BGH, Urteil vom 17.10.2022 - VIa ZR 275/22](via-zr-275-22.md) — BGH, Urteil VIa ZR 275/22
 - [BGH, Urteil vom 17.10.2022 - VIa ZR 521/21](via-zr-521-21.md) — BGH, Urteil VIa ZR 521/21
-- [BGH, Urteil vom 10.10.2022 - VIa ZR 184/22](via-zr-184-22.md) — Zur Hemmung der Verjährung durch Klageerhebung eines nach Forderungsabtretung berechtigten Inkassodienstleisters zugunsten des Zedenten im Falle der späteren Rü
+- [BGH, Urteil vom 10.10.2022 - VIa ZR 184/22](via-zr-184-22.md) — Zur Hemmung der Verjährung durch Klageerhebung eines nach Forderungsabtretung berechtigten Inkassodienstleisters zugunsten des Zedenten im Falle der späteren Rückabtretung …
 - [BGH, Urteil vom 10.10.2022 - VIa ZR 406/21](via-zr-406-21.md) — BGH, Urteil VIa ZR 406/21
-- [BGH, Urteil vom 10.10.2022 - VIa ZR 542/21](via-zr-542-21.md) — Zur Anwendung der Grundsätze der Vorteilsausgleichung auf den Restschadensersatzanspruch nach §§ 826, 852 Satz 1 BGB (Anschluss an BGH, Urteil vom 30. Juli 2020
+- [BGH, Urteil vom 10.10.2022 - VIa ZR 542/21](via-zr-542-21.md) — Zur Anwendung der Grundsätze der Vorteilsausgleichung auf den Restschadensersatzanspruch nach §§ 826, 852 Satz 1 BGB (Anschluss an BGH, Urteil vom 30. Juli 2020 - VI ZR 354/19 …
 - [BGH, Urteil vom 10.10.2022 - VIa ZR 652/21](via-zr-652-21.md) — BGH, Urteil VIa ZR 652/21
 - [BGH, Urteil vom 10.10.2022 - VIa ZR 716/21](via-zr-716-21.md) — BGH, Urteil VIa ZR 716/21
 - [BGH, Versäumnisurteil vom 26.09.2022 - VIa ZR 124/22](via-zr-124-22.md) — Die Verjährung wird nach § 204 Abs. 1 Nr. 1a BGB nur gehemmt, wenn ein Verbraucher einen Anspruch zur Musterfeststellungsklage anmeldet.
@@ -59,35 +59,35 @@
 - [BGH, Urteil vom 26.09.2022 - VIa ZR 474/21](via-zr-474-21.md) — BGH, Urteil VIa ZR 474/21
 - [BGH, Urteil vom 26.09.2022 - VIa ZR 614/21](via-zr-614-21.md) — BGH, Urteil VIa ZR 614/21
 - [BGH, Urteil vom 26.09.2022 - VIa ZR 663/21](via-zr-663-21.md) — BGH, Urteil VIa ZR 663/21
-- [BGH, Urteil vom 19.09.2022 - VIa ZR 281/22](via-zr-281-22.md) — Zur Vorteilsausgleichung bei der Gewähr von Restschadensersatz im Falle des Weiterverkaufs eines vom sogenannten Dieselskandal betroffenen Kraftfahrzeugs durch 
+- [BGH, Urteil vom 19.09.2022 - VIa ZR 281/22](via-zr-281-22.md) — Zur Vorteilsausgleichung bei der Gewähr von Restschadensersatz im Falle des Weiterverkaufs eines vom sogenannten Dieselskandal betroffenen Kraftfahrzeugs durch den Geschädigten.
 - [BGH, Urteil vom 19.09.2022 - VIa ZR 649/21](via-zr-649-21.md) — BGH, Urteil VIa ZR 649/21
 - [BGH, Urteil vom 19.09.2022 - VIa ZR 65/22](via-zr-65-22.md) — BGH, Urteil VIa ZR 65/22
 - [BGH, Urteil vom 19.09.2022 - VIa ZR 667/21](via-zr-667-21.md) — BGH, Urteil VIa ZR 667/21
 - [BGH, Urteil vom 19.09.2022 - VIa ZR 95/22](via-zr-95-22.md) — BGH, Urteil VIa ZR 95/22
-- [BGH, Urteil vom 12.09.2022 - VIa ZR 122/22](via-zr-122-22.md) — Zur Verteilung der Darlegungs- und Beweislast für das vom beklagten Hersteller nach §§ 826, 852 Satz 1, § 818 Abs. 1 BGB Erlangte in einem sogenannten "Dieselfa
-- [BGH, Urteil vom 12.09.2022 - VIa ZR 176/22](via-zr-176-22.md) — Haftung des Automobilherstellers in einem sog. Dieselfall: Restschadensersatzanspruch des Neuwagenkäufers nach Eintritt der Verjährung des Schadensersatzanspruc
+- [BGH, Urteil vom 12.09.2022 - VIa ZR 122/22](via-zr-122-22.md) — Zur Verteilung der Darlegungs- und Beweislast für das vom beklagten Hersteller nach §§ 826, 852 Satz 1, § 818 Abs. 1 BGB Erlangte in einem sogenannten "Dieselfall" (Anschluss an …
+- [BGH, Urteil vom 12.09.2022 - VIa ZR 176/22](via-zr-176-22.md) — Haftung des Automobilherstellers in einem sog. Dieselfall: Restschadensersatzanspruch des Neuwagenkäufers nach Eintritt der Verjährung des Schadensersatzanspruchs wegen …
 - [BGH, Beschluss vom 12.09.2022 - VIa ZR 230/22](via-zr-230-22.md) — BGH, Beschluss VIa ZR 230/22
 - [BGH, Beschluss vom 05.09.2022 - VIa ZR 51/21](via-zr-51-21.md) — BGH, Beschluss VIa ZR 51/21
 - [BGH, Beschluss vom 05.09.2022 - VIa ZR 568/22](via-zr-568-22.md) — BGH, Beschluss VIa ZR 568/22
 - [BGH, Beschluss vom 05.09.2022 - VIa ZR 765/21](via-zr-765-21.md) — BGH, Beschluss VIa ZR 765/21
 - [BGH, Urteil vom 01.08.2022 - VIa ZR 24/22](via-zr-24-22.md) — Berechnung des Anspruchs auf Restschadensersatz im sogenannten Dieselskandal
-- [BGH, Urteil vom 01.08.2022 - VIa ZR 654/21](via-zr-654-21.md) — Haftung des Automobilherstellers in einem sog. Dieselfall: Umfang des Restschadensersatzanspruchs des Neuwagenkäufers nach Eintritt der Verjährung für den Schad
+- [BGH, Urteil vom 01.08.2022 - VIa ZR 654/21](via-zr-654-21.md) — Haftung des Automobilherstellers in einem sog. Dieselfall: Umfang des Restschadensersatzanspruchs des Neuwagenkäufers nach Eintritt der Verjährung für den Schadensersatzanspruch …
 - [BGH, Urteil vom 01.08.2022 - VIa ZR 702/21](via-zr-702-21.md) — Berechnung des Anspruchs auf Restschadensersatz im sogenannten Dieselskandal
 - [BGH, Urteil vom 25.07.2022 - VIa ZR 31/22](via-zr-31-22.md) — Restschadensersatz im sogenannten Dieselskandal bei EU-Reimport
-- [BGH, Urteil vom 25.07.2022 - VIa ZR 485/21](via-zr-485-21.md) — 1. Die Grundsätze der Vorteilsausgleichung vermitteln dem zum Schadensersatz verurteilten Schädiger auch dann keinen auf die Herausgabe eines ungleichartigen Vo
-- [BGH, Urteil vom 25.07.2022 - VIa ZR 601/21](via-zr-601-21.md) — Haftung des Automobilherstellers in einem sog. Dieselfall: Restschadensersatzanspruch des Neuwagenkäufers nach Eintritt der Verjährung des Schadensersatzanspruc
+- [BGH, Urteil vom 25.07.2022 - VIa ZR 485/21](via-zr-485-21.md) — 1. Die Grundsätze der Vorteilsausgleichung vermitteln dem zum Schadensersatz verurteilten Schädiger auch dann keinen auf die Herausgabe eines ungleichartigen Vorteils gerichteten …
+- [BGH, Urteil vom 25.07.2022 - VIa ZR 601/21](via-zr-601-21.md) — Haftung des Automobilherstellers in einem sog. Dieselfall: Restschadensersatzanspruch des Neuwagenkäufers nach Eintritt der Verjährung des Schadensersatzanspruchs wegen …
 - [BGH, Beschluss vom 25.07.2022 - VIa ZR 622/21](via-zr-622-21.md) — Schadensersatzanspruch im Rahmen des sog. Abgasskandals: Vorteilsausgleichung bei Vorsteuerabzugsberechtigung des Geschädigten
 - [BGH, Urteil vom 25.07.2022 - VIa ZR 750/21](via-zr-750-21.md) — Verwendung einer unzulässigen Abschalteinrichtung im sogenannten Dieselskandal; Verjährung des Schadensersatzanspruchs
 - [BGH, Urteil vom 13.06.2022 - VIa ZR 418/21](via-zr-418-21.md) — financialright Die Inkassoerlaubnis umfasst den Einzug von Forderungen, die ausländischem Sachrecht unterfallen.
-- [BGH, Beschluss vom 13.06.2022 - VIa ZR 488/21](via-zr-488-21.md) — Deliktischer Schadensersatzanspruch im Zusammenhang mit dem sog. Abgasskandal: Verjährungsfristbeginn; Verjährungsverzicht des Herstellers in einer Pressemittei
-- [BGH, Urteil vom 13.06.2022 - VIa ZR 680/21](via-zr-680-21.md) — 1. Die Beteiligung eines weiteren, im EU-Ausland ansässigen Zwischenhändlers neben dem inländischen Händler und Verkäufer schließt eine Vermögensverschiebung vo
+- [BGH, Beschluss vom 13.06.2022 - VIa ZR 488/21](via-zr-488-21.md) — Deliktischer Schadensersatzanspruch im Zusammenhang mit dem sog. Abgasskandal: Verjährungsfristbeginn; Verjährungsverzicht des Herstellers in einer Pressemitteilung
+- [BGH, Urteil vom 13.06.2022 - VIa ZR 680/21](via-zr-680-21.md) — 1. Die Beteiligung eines weiteren, im EU-Ausland ansässigen Zwischenhändlers neben dem inländischen Händler und Verkäufer schließt eine Vermögensverschiebung vom geschädigten …
 - [BGH, Urteil vom 09.05.2022 - VIa ZR 441/21](via-zr-441-21.md) — Deliktische Haftung des Kfz-Herstellers im Rahmen des sog. Abgasskandals: Beginn der Verjährung von Schadensersatzansprüchen
-- [BGH, Urteil vom 02.05.2022 - VIa ZR 122/21](via-zr-122-21.md) — Zum Feststellungsinteresse bei einer Klage auf Feststellung der Schadensersatzpflicht in einem sogenannten Dieselfall (im Anschluss an BGH, Urteil vom 5. Oktobe
-- [BGH, Urteil vom 11.04.2022 - VIa ZR 135/21](via-zr-135-21.md) — Deliktische Haftung des Kfz-Herstellers im Rahmen des sog. Abgasskandals: Wegfall des Schadens bei verbrieftem Rückgaberecht beim finanzierten Neuwagenkauf sowi
+- [BGH, Urteil vom 02.05.2022 - VIa ZR 122/21](via-zr-122-21.md) — Zum Feststellungsinteresse bei einer Klage auf Feststellung der Schadensersatzpflicht in einem sogenannten Dieselfall (im Anschluss an BGH, Urteil vom 5. Oktober 2021 - VI ZR …
+- [BGH, Urteil vom 11.04.2022 - VIa ZR 135/21](via-zr-135-21.md) — Deliktische Haftung des Kfz-Herstellers im Rahmen des sog. Abgasskandals: Wegfall des Schadens bei verbrieftem Rückgaberecht beim finanzierten Neuwagenkauf sowie Verzicht auf …
 - [BGH, Beschluss vom 21.03.2022 - VIa ZB 4/21](via-zb-4-21.md) — Zu den inhaltlichen Anforderungen an eine Berufungsbegründung in einem sogenannten Dieselfall.
-- [BGH, Urteil vom 21.03.2022 - VIa ZR 275/21](via-zr-275-21.md) — 1a. Bei der Prüfung, ob die Klage "demnächst" zugestellt worden ist, sind bis zum Fristablauf eingetretene Versäumnisse des Klägers in die für die Bewertung als
-- [BGH, Beschluss vom 21.03.2022 - VIa ZR 334/21](via-zr-334-21.md) — Deliktische Haftung des Kfz-Herstellers im Rahmen des sog. Abgasskandals: Voraussetzungen für die Zulassung der Revision; sittenwidriges Handeln des Kfz-Herstel
-- [BGH, Urteil vom 21.02.2022 - VIa ZR 57/21](via-zr-57-21.md) — 1. Liegt dem Neuwagenkauf eines nach § 826 BGB durch den Fahrzeughersteller Geschädigten bei einem Händler die Bestellung des bereitzustellenden Fahrzeugs durch
-- [BGH, Urteil vom 21.02.2022 - VIa ZR 8/21](via-zr-8-21.md) — 1. Der Anwendungsbereich des § 852 Satz 1 BGB ist eröffnet, wenn der Käufer eines Neufahrzeugs gegen den Fahrzeughersteller aus § 826 BGB einen Anspruch auf Ers
+- [BGH, Urteil vom 21.03.2022 - VIa ZR 275/21](via-zr-275-21.md) — 1a. Bei der Prüfung, ob die Klage "demnächst" zugestellt worden ist, sind bis zum Fristablauf eingetretene Versäumnisse des Klägers in die für die Bewertung als unmaßgebliche …
+- [BGH, Beschluss vom 21.03.2022 - VIa ZR 334/21](via-zr-334-21.md) — Deliktische Haftung des Kfz-Herstellers im Rahmen des sog. Abgasskandals: Voraussetzungen für die Zulassung der Revision; sittenwidriges Handeln des Kfz-Herstellers
+- [BGH, Urteil vom 21.02.2022 - VIa ZR 57/21](via-zr-57-21.md) — 1. Liegt dem Neuwagenkauf eines nach § 826 BGB durch den Fahrzeughersteller Geschädigten bei einem Händler die Bestellung des bereitzustellenden Fahrzeugs durch den Händler bei …
+- [BGH, Urteil vom 21.02.2022 - VIa ZR 8/21](via-zr-8-21.md) — 1. Der Anwendungsbereich des § 852 Satz 1 BGB ist eröffnet, wenn der Käufer eines Neufahrzeugs gegen den Fahrzeughersteller aus § 826 BGB einen Anspruch auf Erstattung des …
 - [BGH, Beschluss vom 14.02.2022 - VIa ZB 6/21](via-zb-6-21.md) — Wiedereinsetzung im Zivilprozess: Versehentlicher Falschversand des Berufungsschriftsatzes im elektronischen Rechtsverkehr
-- [BGH, Urteil vom 24.01.2022 - VIa ZR 100/21](via-zr-100-21.md) — 1. Ein Geschädigter, der durch das deliktische Handeln eines Dritten zum Abschluss eines Kaufvertrages (hier: über ein Dieselfahrzeug mit Prüfstanderkennungssof
+- [BGH, Urteil vom 24.01.2022 - VIa ZR 100/21](via-zr-100-21.md) — 1. Ein Geschädigter, der durch das deliktische Handeln eines Dritten zum Abschluss eines Kaufvertrages (hier: über ein Dieselfahrzeug mit Prüfstanderkennungssoftware) bestimmt …

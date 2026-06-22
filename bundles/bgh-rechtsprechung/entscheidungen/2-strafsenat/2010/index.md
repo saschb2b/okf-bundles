@@ -2,11 +2,11 @@
 
 103 Entscheidung(en).
 
-- [BGH, Beschluss vom 22.12.2010 - 2 ARs 289/10](2-ars-289-10.md) — Sofortige Beschwerde gegen Ausschließung des Verteidigers: Feststellung der Unzulässigkeit des Rechtsmittels durch das erstinstanzliche Gericht und Umdeutung in
+- [BGH, Beschluss vom 22.12.2010 - 2 ARs 289/10](2-ars-289-10.md) — Sofortige Beschwerde gegen Ausschließung des Verteidigers: Feststellung der Unzulässigkeit des Rechtsmittels durch das erstinstanzliche Gericht und Umdeutung in eine …
 - [BGH, Beschluss vom 22.12.2010 - 2 ARs 456/10](2-ars-456-10.md) — Antwort auf die Anfrage des 5. Strafsenats zur rückwirkenden Anwendung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Beschluss vom 22.12.2010 - 2 StR 386/10](2-str-386-10.md) — Strafverfahren: Protokollberichtigung bei Selbstleseverfahren
 - [BGH, Beschluss vom 21.12.2010 - 2 StR 344/10](2-str-344-10.md) — Strafzumessung: Strafmilderung bei Verfahrensverzögerung durch vorläufige Einstellung des Verfahrens und Wiederaufnahme
-- [BGH, Urteil vom 15.12.2010 - 2 StR 495/10](2-str-495-10.md) — Beweiswürdigung im Strafverfahren: Gesamtschau der aus dem Inbegriff der Hauptverhandlung folgenden Beweisergebnisse im Fall der Verwertung der Aufzeichnung ein
+- [BGH, Urteil vom 15.12.2010 - 2 StR 495/10](2-str-495-10.md) — Beweiswürdigung im Strafverfahren: Gesamtschau der aus dem Inbegriff der Hauptverhandlung folgenden Beweisergebnisse im Fall der Verwertung der Aufzeichnung eines polizeilichen …
 - [BGH, Urteil vom 15.12.2010 - 2 StR 531/10](2-str-531-10.md) — Versuchter Totschlag: Anforderungen an die Feststellung bedingten Tötungsvorsatzes
 - [BGH, Beschluss vom 08.12.2010 - 2 StR 372/10](2-str-372-10.md) — Verfall und Auffangrechtserwerb des Staates bei mittäterschaftlicher Begehung
 - [BGH, Urteil vom 08.12.2010 - 2 StR 453/10](2-str-453-10.md) — Geiselnahme und schwere Vergewaltigung: Konkludente Todesdrohung; Verwenden eines gefährlichen Werkzeugs; Konkurrenzen
@@ -14,55 +14,55 @@
 - [BGH, Beschluss vom 24.11.2010 - 2 StR 519/10](2-str-519-10.md) — Diebstahl: Konkurrenzen bei Entwendung von Gegenständen aus mehreren Personenkraftwagen nach gewaltsamem Eindringen in eine Tiefgarage
 - [BGH, Beschluss vom 18.11.2010 - 2 StR 497/10](2-str-497-10.md) — Strafurteil wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Notwendige ausführliche Beweiswürdigung bei fehlender Aussagekonstanz
 - [BGH, Urteil vom 17.11.2010 - 2 StR 356/10](2-str-356-10.md) — Sicherungsverwahrung: Vorliegen eines Hangs
-- [BGH, Urteil vom 17.11.2010 - 2 StR 399/10](2-str-399-10.md) — Ist das "Gebäude" im Sinne von §§ 306a Abs. 2, 306 Abs. 1 Nr. 1 StGB im Einzelfall zugleich ein "Wohngebäude", dann müssen zur Vollendung des Auffangtatbestands
-- [BGH, Beschluss vom 10.11.2010 - 2 StR 320/10](2-str-320-10.md) — Zum rechtfertigenden Behandlungsabbruch auf der Grundlage des Patientenwillens nach den Grundsätzen der Senatsentscheidung vom 25. Juni 2010 (2 StR 454/09, NJW 
+- [BGH, Urteil vom 17.11.2010 - 2 StR 399/10](2-str-399-10.md) — Ist das "Gebäude" im Sinne von §§ 306a Abs. 2, 306 Abs. 1 Nr. 1 StGB im Einzelfall zugleich ein "Wohngebäude", dann müssen zur Vollendung des Auffangtatbestands der schweren …
+- [BGH, Beschluss vom 10.11.2010 - 2 StR 320/10](2-str-320-10.md) — Zum rechtfertigenden Behandlungsabbruch auf der Grundlage des Patientenwillens nach den Grundsätzen der Senatsentscheidung vom 25. Juni 2010 (2 StR 454/09, NJW 2010, 2963) .
 - [BGH, Beschluss vom 10.11.2010 - 2 StR 403/10](2-str-403-10.md) — Beweiswürdigung im Strafurteil wegen Kindesmissbrauchs: Aussagekonstanz bei Detailarmut anlässlich Schilderung der vorgeworfenen Taten
 - [BGH, Beschluss vom 10.11.2010 - 2 StR 483/10](2-str-483-10.md) — Einschränkung des Notwehrrechts: Pflichtwidriges Vorverhalten; Veranlassung des Angriffs durch rechtlich erlaubtes Tun
 - [BGH, Beschluss vom 10.11.2010 - 2 StR 523/10](2-str-523-10.md) — Strafverfahren: Aufklärungsrüge im Hinblick auf den Strafmilderungsgrund Hilfe zur Aufklärung
-- [BGH, Beschluss vom 27.10.2010 - 2 StR 331/10](2-str-331-10.md) — Frist und Form der Urteilsniederschrift im Strafverfahren: Anforderungen an die Bemühungen zur Erlangung der Urteilsunterschrift eines an ein anderes Gericht ve
+- [BGH, Beschluss vom 27.10.2010 - 2 StR 331/10](2-str-331-10.md) — Frist und Form der Urteilsniederschrift im Strafverfahren: Anforderungen an die Bemühungen zur Erlangung der Urteilsunterschrift eines an ein anderes Gericht versetzten Richters
 - [BGH, Beschluss vom 27.10.2010 - 2 StR 489/10](2-str-489-10.md) — Strafzumessung: Bewertung des Verlusts eines Elternteils als bestimmenden Strafschärfungsgrund bei einem Tötungsdelikt
 - [BGH, Beschluss vom 27.10.2010 - 2 StR 505/10](2-str-505-10.md) — Abgrenzung zwischen Einsichtsfähigkeit und Steuerungsfähigkeit und Annahme eines Erlaubnistatbestandsirrtums bei Vorstellung einer wahnbedingten Notstandslage
 - [BGH, Beschluss vom 20.10.2010 - 2 StR 377/10](2-str-377-10.md) — Strafverfahren: Beweiswürdigung bei Verurteilung aufgrund von durch Vernehmungsbeamte eingeführten belastenden Angaben eines Zeugen
 - [BGH, Urteil vom 20.10.2010 - 2 StR 434/10](2-str-434-10.md) — Rücktritt vom Versuch des Tötungsdelikts; Tateinheit zwischen gefährlicher Körperverletzung und besonders schwerem Raub
 - [BGH, Beschluss vom 14.10.2010 - 2 StR 447/10](2-str-447-10.md) — Kontoeröffnungsbetrug: Vermögensschaden der Bank in Form einer schadensgleichen Vermögensgefährdung
 - [BGH, Beschluss vom 06.10.2010 - 2 StR 354/10](2-str-354-10.md) — Strafverfahren: Bindungswirkung einer informellen Vereinbarung über mögliche Rechtsfolgen
-- [BGH, Beschluss vom 29.09.2010 - 2 StR 371/10](2-str-371-10.md) — 1. Ein Protokoll, in dem weder vermerkt ist, dass eine Verständigung stattgefunden, noch dass eine solche nicht stattgefunden hat, ist widersprüchlich bzw. lück
+- [BGH, Beschluss vom 29.09.2010 - 2 StR 371/10](2-str-371-10.md) — 1. Ein Protokoll, in dem weder vermerkt ist, dass eine Verständigung stattgefunden, noch dass eine solche nicht stattgefunden hat, ist widersprüchlich bzw. lückenhaft und verliert …
 - [BGH, Beschluss vom 29.09.2010 - 2 StR 382/10](2-str-382-10.md) — Unerlaubter Handel mit Betäubungsmitteln: Begriff der Bande
 - [BGH, Beschluss vom 22.09.2010 - 2 StR 268/10](2-str-268-10.md) — Unterbringung in einer Entziehungsanstalt: Ablehnung wegen mangelnder Therapiebereitschaft
-- [BGH, Beschluss vom 15.09.2010 - 2 ARs 293/10](2-ars-293-10.md) — 1. Die Krisenintervention nach § 67h StGB ist Vollstreckung einer Maßregel im Sinne von § 463 Abs. 1 i.V.m. § 462a Abs. 1 Satz 1 StPO . 2. § 463 Abs. 7 StPO fin
+- [BGH, Beschluss vom 15.09.2010 - 2 ARs 293/10](2-ars-293-10.md) — 1. Die Krisenintervention nach § 67h StGB ist Vollstreckung einer Maßregel im Sinne von § 463 Abs. 1 i.V.m. § 462a Abs. 1 Satz 1 StPO . 2. § 463 Abs. 7 StPO findet im Fall der …
 - [BGH, Beschluss vom 15.09.2010 - 2 StR 236/10](2-str-236-10.md) — Schwere Brandstiftung: Beurteilung als einheitliches Gebäude
-- [BGH, Beschluss vom 15.09.2010 - 2 StR 281/10](2-str-281-10.md) — Hauptverhandlung im Strafverfahren wegen Vergewaltigung: Abwesenheit des Angeklagten während der Klärung der Vernehmungsfähigkeit einer Belastungszeugin durch m
-- [BGH, Urteil vom 15.09.2010 - 2 StR 395/10](2-str-395-10.md) — Gefährliche Körperverletzung und schwerer Raub: Straßenschuh als gefährliches Werkzeug; Begriff des hinterlistigen Überfalls; Voraussetzungen einer schweren kör
+- [BGH, Beschluss vom 15.09.2010 - 2 StR 281/10](2-str-281-10.md) — Hauptverhandlung im Strafverfahren wegen Vergewaltigung: Abwesenheit des Angeklagten während der Klärung der Vernehmungsfähigkeit einer Belastungszeugin durch mündliches …
+- [BGH, Urteil vom 15.09.2010 - 2 StR 395/10](2-str-395-10.md) — Gefährliche Körperverletzung und schwerer Raub: Straßenschuh als gefährliches Werkzeug; Begriff des hinterlistigen Überfalls; Voraussetzungen einer schweren körperlichen …
 - [BGH, Urteil vom 15.09.2010 - 2 StR 400/10](2-str-400-10.md) — Körperverletzung durch Festhalten im "Schwitzkasten"
 - [BGH, Beschluss vom 08.09.2010 - 2 StR 274/10](2-str-274-10.md) — Versuchtes Tötungsdelikt: Mordmerkmal der Heimtücke; notwendige Prüfung eines minder schweren Fall des Totschlags
 - [BGH, Beschluss vom 08.09.2010 - 2 StR 407/10](2-str-407-10.md) — Strafurteil wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Notwendige Begründung der Verhängung einer kurzen Freiheitsstrafe
 - [BGH, Beschluss vom 08.09.2010 - 2 StR 423/10](2-str-423-10.md) — Nachträgliche Bildung der Gesamtstrafe: Zäsurwirkung einer Vorverurteilung
 - [BGH, Beschluss vom 01.09.2010 - 2 StR 179/10](2-str-179-10.md) — Tötungsdelikt mit bedingtem Vorsatz: Äußerst gefährliche Gewalthandlung und erhebliche Beeinträchtigung der Steuerungsfähigkeit
 - [BGH, Beschluss vom 01.09.2010 - 2 StR 418/10](2-str-418-10.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Annahme einer einheitlichen Tat mit Gesamtvorsatz bei vielfachem Einsatz gefälschter Kreditkarten
-- [BGH, Urteil vom 27.08.2010 - 2 StR 111/09](2-str-111-09.md) — 1. Ein Geschäftsführer einer GmbH und ein Vorstand einer AG können sich wegen Untreue strafbar machen, wenn sie unter Verstoß gegen § 43 Abs. 1 GmbHG, § 93 Abs.
+- [BGH, Urteil vom 27.08.2010 - 2 StR 111/09](2-str-111-09.md) — 1. Ein Geschäftsführer einer GmbH und ein Vorstand einer AG können sich wegen Untreue strafbar machen, wenn sie unter Verstoß gegen § 43 Abs. 1 GmbHG, § 93 Abs. 1 AktG und unter …
 - [BGH, Urteil vom 18.08.2010 - 2 StR 295/10](2-str-295-10.md) — Schwerer Raub: Sporttasche als Drohmittel
 - [BGH, Beschluss vom 11.08.2010 - 2 StR 318/10](2-str-318-10.md) — Revisionsbegründung in Strafsachen: Vergleich der Strafzumessungserwägungen für verschiedene Täter
 - [BGH, Beschluss vom 05.08.2010 - 2 ARs 260/10](2-ars-260-10.md) — Zuständigkeit für die nachträgliche Verhängung von Jugendstrafe
 - [BGH, Beschluss vom 05.08.2010 - 2 StR 296/10](2-str-296-10.md) — Betäubungsmittelhandel: Bestimmung der "nicht geringen Menge" beim Erwerb und Weiterverkauf von Ecstasy-Tabletten
-- [BGH, Beschluss vom 05.08.2010 - 2 StR 385/10](2-str-385-10.md) — Der Täter stiehlt auch dann eine durch ein verschlossenes Behältnis besonders gesicherte Sache, wenn er als Unberechtigter den ordnungsgemäß dafür vorgesehenen 
+- [BGH, Beschluss vom 05.08.2010 - 2 StR 385/10](2-str-385-10.md) — Der Täter stiehlt auch dann eine durch ein verschlossenes Behältnis besonders gesicherte Sache, wenn er als Unberechtigter den ordnungsgemäß dafür vorgesehenen Schlüssel verwendet …
 - [BGH, Beschluss vom 04.08.2010 - 2 StR 118/10](2-str-118-10.md) — Notwehr: Veranlassung des Angriffs durch rechtlich gebotenes Tun; Abwehr des Angriffs mit unberechtigt mitgeführter Waffe
 - [BGH, Urteil vom 04.08.2010 - 2 StR 194/10](2-str-194-10.md) — Strafverfahren wegen sexuellen Kindesmissbrauchs: Anforderungen an das Urteil bei Hinzuziehung eines Sachverständigen
 - [BGH, Beschluss vom 04.08.2010 - 2 StR 205/10](2-str-205-10.md) — Strafverfahren: Bindungswirkung einer informellen Absprache; faires Verfahren
 - [BGH, Beschluss vom 04.08.2010 - 2 StR 239/10](2-str-239-10.md) — Verdeckungsmord: Voraussetzungen der Verdeckungsabsicht bei bedingt vorsätzlicher Inkaufnahme des Todes des Opfers
-- [BGH, Beschluss vom 14.07.2010 - 2 StR 104/10](2-str-104-10.md) — Die Bereicherungsabsicht des § 235 Abs. 4 Nr. 2 Alt. 2 StGB ist ebenso wie die Tatbegehung gegen Entgelt nach § 235 Abs. 4 Nr. 2 Alt. 1 StGB kein besonderes per
+- [BGH, Beschluss vom 14.07.2010 - 2 StR 104/10](2-str-104-10.md) — Die Bereicherungsabsicht des § 235 Abs. 4 Nr. 2 Alt. 2 StGB ist ebenso wie die Tatbegehung gegen Entgelt nach § 235 Abs. 4 Nr. 2 Alt. 1 StGB kein besonderes persönliches Merkmal …
 - [BGH, Beschluss vom 14.07.2010 - 2 StR 158/10](2-str-158-10.md) — Strafverfahren: Nachträgliche Protokollberichtigung
-- [BGH, Beschluss vom 14.07.2010 - 2 StR 200/10](2-str-200-10.md) — Bestechlichkeit und Bestechung im geschäftlichen Verkehr: Erforderliche Feststellungen bei Gewährung bzw. Annahme eines Vorteils für in der Vergangenheit liegen
-- [BGH, Beschluss vom 07.07.2010 - 2 StR 100/10](2-str-100-10.md) — Strafurteil: Erforderliche Feststellungen zum inneren Tatbestand der Beihilfe zu einer schweren räuberischen Erpressung bei einem Raubüberfall mit Einsatz einer
+- [BGH, Beschluss vom 14.07.2010 - 2 StR 200/10](2-str-200-10.md) — Bestechlichkeit und Bestechung im geschäftlichen Verkehr: Erforderliche Feststellungen bei Gewährung bzw. Annahme eines Vorteils für in der Vergangenheit liegende Bevorzugungen
+- [BGH, Beschluss vom 07.07.2010 - 2 StR 100/10](2-str-100-10.md) — Strafurteil: Erforderliche Feststellungen zum inneren Tatbestand der Beihilfe zu einer schweren räuberischen Erpressung bei einem Raubüberfall mit Einsatz einer Gaspistole
 - [BGH, Beschluss vom 07.07.2010 - 2 StR 182/10](2-str-182-10.md) — Reihenfolge der Vollstreckung: Berechnung des Vorwegvollzugs der Strafe vor der Maßregel bei Verhängung mehrerer Strafen
 - [BGH, Urteil vom 30.06.2010 - 2 StR 455/09](2-str-455-09.md) — Strafverfahren: Besorgnis der Befangenheit wegen Vorbefassung des Gerichts
 - [BGH, Beschluss vom 30.06.2010 - 2 StR 588/09](2-str-588-09.md) — Betäubungsmittelhandel: Umtausch des zum Weiterverkauf erworbenen mangelhaften Rauschgifts
-- [BGH, Urteil vom 25.06.2010 - 2 StR 454/09](2-str-454-09.md) — 1. Sterbehilfe durch Unterlassen, Begrenzen oder Beenden einer begonnenen medizinischen Behandlung (Behandlungsabbruch) ist gerechtfertigt, wenn dies dem tatsäc
+- [BGH, Urteil vom 25.06.2010 - 2 StR 454/09](2-str-454-09.md) — 1. Sterbehilfe durch Unterlassen, Begrenzen oder Beenden einer begonnenen medizinischen Behandlung (Behandlungsabbruch) ist gerechtfertigt, wenn dies dem tatsächlichen oder …
 - [BGH, Beschluss vom 23.06.2010 - 2 StR 203/10](2-str-203-10.md) — Betäubungsmittelhandel: Bewaffnetes Handeltreiben bei Aufbewahrung einer Schreckschusspistole in einem verschlossenen Tresor im Nebenraum
 - [BGH, Beschluss vom 23.06.2010 - 2 StR 222/10](2-str-222-10.md) — Strafverfahren: Anforderungen an die sorgfältige Abfassung der Gründe eines auf einer Absprache in der Hauptverhandlung beruhenden Urteils
 - [BGH, Beschluss vom 23.06.2010 - 2 StR 243/10](2-str-243-10.md) — Konkurrenzverhältnisse beim Herstellen von Zahlungskarten, Computerbetrug und Verschaffung von gefälschten Karten
 - [BGH, Urteil vom 23.06.2010 - 2 StR 35/10](2-str-35-10.md) — Strafurteil: Anforderungen an die Vollständigkeit der Beweiswürdigung
 - [BGH, Beschluss vom 10.06.2010 - 2 StR 246/10](2-str-246-10.md) — Betäubungsmitteldelikt: Voraussetzungen des unerlaubten Besitzes
-- [BGH, Beschluss vom 10.06.2010 - 2 StR 78/10](2-str-78-10.md) — Das Beschlusserfordernis in § 251 Abs. 4 Satz 1 StPO soll angesichts der potentiellen Bedeutung der Verlesung für die Zuverlässigkeit der Beweisgewinnung und Re
+- [BGH, Beschluss vom 10.06.2010 - 2 StR 78/10](2-str-78-10.md) — Das Beschlusserfordernis in § 251 Abs. 4 Satz 1 StPO soll angesichts der potentiellen Bedeutung der Verlesung für die Zuverlässigkeit der Beweisgewinnung und Rekonstruktion des …
 - [BGH, Beschluss vom 09.06.2010 - 2 StR 554/09](2-str-554-09.md) — Bestechlichkeit: Tateinheit bei mehreren Vorteilsannahmen
 - [BGH, Beschluss vom 02.06.2010 - 2 ARs 196/10](2-ars-196-10.md) — Verbindung von Strafverfahren: Verbindung eines anhängigen Verfahrens mit laufender Hauptverhandlung mit einer weiteren Anklage
 - [BGH, Beschluss vom 26.05.2010 - 2 StR 263/10](2-str-263-10.md) — Nachträgliche Anordnung der Sicherungsverwahrung: Antrag der Staatsanwaltschaft nach vollständiger Verbüßung der Strafhaft
@@ -70,38 +70,38 @@
 - [BGH, Urteil vom 19.05.2010 - 2 StR 102/10](2-str-102-10.md) — Strafmilderung bei Betäubungsmittelhandel: Aufklärungshilfe; Trennung von der Familie
 - [BGH, Urteil vom 19.05.2010 - 2 StR 278/09](2-str-278-09.md) — Rücktritt vom versuchten Totschlag: Fehlgeschlagener Versuch; Unterscheidung zwischen unbeendetem und beendetem Versuch
 - [BGH, Beschluss vom 12.05.2010 - 2 StR 171/10](2-str-171-10.md) — Nachträgliche Anordnung der Sicherungsverwahrung: Behandlung psychiatrischer Befundtatsachen als "neue Tatsachen"
-- [BGH, Urteil vom 28.04.2010 - 2 StR 595/09](2-str-595-09.md) — Ein offenes Bekenntnis eines Schöffen zu Methoden der Selbstjustiz und zur Eintreibung von Forderungen mit Hilfe rechtswidriger Drohungen in seiner beruflichen 
+- [BGH, Urteil vom 28.04.2010 - 2 StR 595/09](2-str-595-09.md) — Ein offenes Bekenntnis eines Schöffen zu Methoden der Selbstjustiz und zur Eintreibung von Forderungen mit Hilfe rechtswidriger Drohungen in seiner beruflichen Tätigkeit als …
 - [BGH, Urteil vom 28.04.2010 - 2 StR 77/10](2-str-77-10.md) — Strafzumessung bei Vergewaltigung: Teilgeständnis und Mindeststrafe
 - [BGH, Beschluss vom 14.04.2010 - 2 StR 112/10](2-str-112-10.md) — Unterbringung in einer Entziehungsanstalt: Gefährlichkeit für die Allgemeinheit
 - [BGH, Beschluss vom 14.04.2010 - 2 StR 137/10](2-str-137-10.md) — Adhäsionsverfahren: Erbscheinsvorlage durch Erben des Getöteten
 - [BGH, Beschluss vom 14.04.2010 - 2 StR 42/10](2-str-42-10.md) — Revisionsbegründung im Strafverfahren: Anforderungen an die Begründung der Verfahrensrüge
 - [BGH, Beschluss vom 14.04.2010 - 2 StR 70/10](2-str-70-10.md) — Betäubungsmittelhandel: Bandenhandel und Betäubungsmitteleinfuhr als Bewertungseinheit; strafschärfendes Verbringen über die Grenze
 - [BGH, Beschluss vom 14.04.2010 - 2 StR 87/10](2-str-87-10.md) — Versuchte Anstiftung zu einem Verbrechen: Konkurrenz zur Begehung des Verbrechens durch den Auffordernden selbst
-- [BGH, Beschluss vom 08.04.2010 - 2 StR 17/10](2-str-17-10.md) — Die qualifizierende Wirkung einer konkreten Lebensgefährdung des Raubopfers nach Vollendung der Tat oder Scheitern ihres Versuchs ist ausgeschlossen, wenn die d
-- [BGH, Beschluss vom 07.04.2010 - 2 StR 153/09](2-str-153-09.md) — Ein Notar, der schon vor der Beurkundung Kenntnis von einem von den Kaufvertragsparteien zum Nachteil des finanzierenden Geldinstituts geplanten Betrug erlangt 
+- [BGH, Beschluss vom 08.04.2010 - 2 StR 17/10](2-str-17-10.md) — Die qualifizierende Wirkung einer konkreten Lebensgefährdung des Raubopfers nach Vollendung der Tat oder Scheitern ihres Versuchs ist ausgeschlossen, wenn die die Lebensgefahr …
+- [BGH, Beschluss vom 07.04.2010 - 2 StR 153/09](2-str-153-09.md) — Ein Notar, der schon vor der Beurkundung Kenntnis von einem von den Kaufvertragsparteien zum Nachteil des finanzierenden Geldinstituts geplanten Betrug erlangt hat und trotzdem …
 - [BGH, Beschluss vom 07.04.2010 - 2 StR 51/10](2-str-51-10.md) — Strafzumessung bei strafbefreiendem Rücktritt vom Tötungsversuch bei Verurteilung wegen vollendeter Körperverletzung
 - [BGH, Beschluss vom 31.03.2010 - 2 StR 31/10](2-str-31-10.md) — Strafverfahren: Vermerk im Sitzungsprotokoll über das Fehlen einer Verständigung
 - [BGH, Urteil vom 24.03.2010 - 2 StR 10/10](2-str-10-10.md) — Anordnung von Sicherungsverwahrung: Erheblichkeitsschwelle bei sexuellem Missbrauch von Kindern
 - [BGH, Beschluss vom 17.03.2010 - 2 ARs 45/10](2-ars-45-10.md) — Strafbarkeit der Nichtanzeige geplanter Straftaten bei Verdacht der Beteiligung an geplanter Straftat
 - [BGH, Beschluss vom 17.03.2010 - 2 StR 27/10](2-str-27-10.md) — Wiedereinsetzung in den vorigen Stand im Strafverfahren: Anwaltsverschulden bei Vorlage einer Fristsache ohne Briefumschlag
-- [BGH, Beschluss vom 17.03.2010 - 2 StR 397/09](2-str-397-09.md) — 1. Eine allgemeine Zurechnung des Verfahrensgangs in Vertragsstaaten der EMRK unabhängig davon, ob die konkret betroffenen Verfahrenshandlungen dem jeweils nati
+- [BGH, Beschluss vom 17.03.2010 - 2 StR 397/09](2-str-397-09.md) — 1. Eine allgemeine Zurechnung des Verfahrensgangs in Vertragsstaaten der EMRK unabhängig davon, ob die konkret betroffenen Verfahrenshandlungen dem jeweils nationalen …
 - [BGH, Beschluss vom 17.03.2010 - 2 StR 67/10](2-str-67-10.md) — Besitz von Betäubungsmitteln: Wertersatzverfall oder Einziehung des Wertersatzes
 - [BGH, Beschluss vom 10.03.2010 - 2 StR 34/10](2-str-34-10.md) — Entscheidung über Unterbringung in einer Entziehungsanstalt: Vorrang vor Zurückstellung der Strafvollstreckung für betäubungsmittelabhängige Täter
 - [BGH, Urteil vom 03.03.2010 - 2 StR 427/09](2-str-427-09.md) — Strafurteilsinhalt: Anforderungen an die Beweiswürdigung bei Freispruch vom Anklagevorwurf der sexuellen Nötigung
 - [BGH, Beschluss vom 26.02.2010 - 2 StR 510/09](2-str-510-09.md) — Wohnungseinbruchdiebstahl und versuchter schwerer Bandendiebstahl in Tateinheit
 - [BGH, Urteil vom 24.02.2010 - 2 StR 509/09](2-str-509-09.md) — Sicherungsverwahrung: Hangtäterschaft bei Augenblicks- und Gelegenheitstaten; symptomatischer Zusammenhang; Verwertung von Vortaten nach Rückfallverjährung
 - [BGH, Urteil vom 24.02.2010 - 2 StR 577/09](2-str-577-09.md) — Tötungsvorsatz bei einer spontanen gravierenden Gewalthandlung im Zustand der erheblichen Alkoholisierung und affektiven Erregung
-- [BGH, Beschluss vom 17.02.2010 - 2 StR 524/09](2-str-524-09.md) — 1. Die nach § 111i Abs. 2 StPO notwendige Feststellung ist in die Urteilsformel aufzunehmen . 2. Die Revision ist das statthafte Rechtsmittel, wenn das Landgeri
+- [BGH, Beschluss vom 17.02.2010 - 2 StR 524/09](2-str-524-09.md) — 1. Die nach § 111i Abs. 2 StPO notwendige Feststellung ist in die Urteilsformel aufzunehmen . 2. Die Revision ist das statthafte Rechtsmittel, wenn das Landgericht die …
 - [BGH, Urteil vom 10.02.2010 - 2 StR 391/09](2-str-391-09.md) — Versuchter Mord: Erkennbarkeit der Arg- und Wehrlosigkeit des Opfers bei affektiver Erregung; Schadenswiedergutmachung
 - [BGH, Urteil vom 10.02.2010 - 2 StR 503/09](2-str-503-09.md) — Heimtückemord: Arglosigkeit des Opfers bei latenter Angst vor dem Täter
 - [BGH, Urteil vom 03.02.2010 - 2 StR 368/09](2-str-368-09.md) — Bandenmäßiges unerlaubtes Handeltreiben mit Betäubungsmitteln: Beihilfe nach Sicherstellung der Drogen
 - [BGH, Beschluss vom 03.02.2010 - 2 StR 550/09](2-str-550-09.md) — Minder schwerer Fall der Körperverletzung mit Todesfolge
 - [BGH, Urteil vom 27.01.2010 - 2 StR 444/09](2-str-444-09.md) — Revisionsbegründung in Strafsachen: Notwendige Alternativrüge bei auslegungsfähiger Formulierung des Sitzungsprotokolls zur Verlesung einer Urkunde
-- [BGH, Beschluss vom 27.01.2010 - 2 StR 535/09](2-str-535-09.md) — Wenn der Tatrichter einen Beweisantrag auf Einholung eines weiteren Sachverständigengutachtens (§ 244 Abs. 4 Satz 2 StPO), der auf substantiiert dargelegte meth
-- [BGH, Beschluss vom 22.01.2010 - 2 StR 563/09](2-str-563-09.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Tateinheit bei Bezahlung der ersten Lieferung anlässlich der zweiten Lieferung und bei Umtausch mangelhafter in
-- [BGH, Beschluss vom 20.01.2010 - 2 StR 403/09](2-str-403-09.md) — Bei der Verhängung lebenslanger Freiheitsstrafe ist ein Härteausgleich für erledigte, an sich gesamtstrafenfähige Vorstrafen im Wege der Vollstreckungslösung zu
+- [BGH, Beschluss vom 27.01.2010 - 2 StR 535/09](2-str-535-09.md) — Wenn der Tatrichter einen Beweisantrag auf Einholung eines weiteren Sachverständigengutachtens (§ 244 Abs. 4 Satz 2 StPO), der auf substantiiert dargelegte methodische Mängel des …
+- [BGH, Beschluss vom 22.01.2010 - 2 StR 563/09](2-str-563-09.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Tateinheit bei Bezahlung der ersten Lieferung anlässlich der zweiten Lieferung und bei Umtausch mangelhafter in mangelfreie Ware
+- [BGH, Beschluss vom 20.01.2010 - 2 StR 403/09](2-str-403-09.md) — Bei der Verhängung lebenslanger Freiheitsstrafe ist ein Härteausgleich für erledigte, an sich gesamtstrafenfähige Vorstrafen im Wege der Vollstreckungslösung zu gewähren .
 - [BGH, Beschluss vom 13.01.2010 - 2 ARs 569/09](2-ars-569-09.md) — Jugendgerichtsverfahren: Abgabe an das nach Wohnsitzwechsel des Angeklagten zuständige Gericht
 - [BGH, Urteil vom 13.01.2010 - 2 StR 428/09](2-str-428-09.md) — Bedingter Tötungsvorsatz bei zum Tode führender Körperverletzung
-- [BGH, Urteil vom 13.01.2010 - 2 StR 439/09](2-str-439-09.md) — Bei der Verabredung mehrerer Verbrechen gemäß § 30 Abs. 2 StGB richtet sich die Beurteilung der Konkurrenz nach dem Konkurrenzverhältnis der vereinbarten und sp
-- [BGH, Beschluss vom 13.01.2010 - 2 StR 447/09](2-str-447-09.md) — Strafverfahren wegen Bedrohung und gefährlicher Körperverletzung: Prüfung der Schuldunfähigkeit bei hoher Blutalkoholkonzentration und nicht nachvollziehbarem T
+- [BGH, Urteil vom 13.01.2010 - 2 StR 439/09](2-str-439-09.md) — Bei der Verabredung mehrerer Verbrechen gemäß § 30 Abs. 2 StGB richtet sich die Beurteilung der Konkurrenz nach dem Konkurrenzverhältnis der vereinbarten und später zu begehenden …
+- [BGH, Beschluss vom 13.01.2010 - 2 StR 447/09](2-str-447-09.md) — Strafverfahren wegen Bedrohung und gefährlicher Körperverletzung: Prüfung der Schuldunfähigkeit bei hoher Blutalkoholkonzentration und nicht nachvollziehbarem Tatmotiv
 - [BGH, Beschluss vom 13.01.2010 - 2 StR 519/09](2-str-519-09.md) — Unterbringung in einer Entziehungsanstalt: Hinreichend konkrete Aussicht der Rückfallfreiheit

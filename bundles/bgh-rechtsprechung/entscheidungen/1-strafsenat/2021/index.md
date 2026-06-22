@@ -4,62 +4,62 @@
 
 - [BGH, Urteil vom 16.12.2021 - 1 StR 187/21](1-str-187-21.md) — Veruntreuende Unterschlagung: Manifestation des Zueignungswillens
 - [BGH, Urteil vom 16.12.2021 - 1 StR 197/21](1-str-197-21.md) — Strafverfahren u.a. wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Verfahrenshindernis der rechtsstaatswidrigen Tatprovokation
-- [BGH, Urteil vom 16.12.2021 - 1 StR 312/21](1-str-312-21.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln: Voraussetzung einer erweiterten Einziehung des Wertersatzes bei nicht verfahrensgegenständlichen Taten; zeitn
+- [BGH, Urteil vom 16.12.2021 - 1 StR 312/21](1-str-312-21.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln: Voraussetzung einer erweiterten Einziehung des Wertersatzes bei nicht verfahrensgegenständlichen Taten; zeitnaher Verbrauch von …
 - [BGH, Beschluss vom 16.12.2021 - 1 StR 364/21](1-str-364-21.md) — Strafzumessung: Einschaltung eines Rechtsanwalts im Rahmen der Schadensregulierung durch Untersuchungshäftling
 - [BGH, Beschluss vom 16.12.2021 - 1 StR 418/21](1-str-418-21.md) — Strafverfahren: Umfang der Mitteilungspflicht über Verständigungsgespräche im Falle einer erneut begonnenen Hauptverhandlung
-- [BGH, Beschluss vom 15.12.2021 - 1 StR 342/21](1-str-342-21.md) — Eine Strafbarkeit wegen Betruges durch Verschweigen von Lohnzahlungen gegenüber der Sozialkasse des Gerüstbaugewerbes (SOKA Gerüstbau) kann sich für die Jahre 2
+- [BGH, Beschluss vom 15.12.2021 - 1 StR 342/21](1-str-342-21.md) — Eine Strafbarkeit wegen Betruges durch Verschweigen von Lohnzahlungen gegenüber der Sozialkasse des Gerüstbaugewerbes (SOKA Gerüstbau) kann sich für die Jahre 2014 und 2015 nicht …
 - [BGH, Beschluss vom 15.12.2021 - 1 StR 362/21](1-str-362-21.md) — Verurteilung wegen Steuerhinterziehung durch Abgabe unrichtiger Umsatzsteuervoranmeldungen: Anforderungen an die Urteilsfeststellungen
-- [BGH, Urteil vom 14.12.2021 - 1 StR 234/21](1-str-234-21.md) — Beweiswürdigung im Strafverfahren: Verwertung des Belastungseifers des Opferzeugens bei der Beweiswürdigung; Umfang der zulässigen Nachforschungen durch einen a
+- [BGH, Urteil vom 14.12.2021 - 1 StR 234/21](1-str-234-21.md) — Beweiswürdigung im Strafverfahren: Verwertung des Belastungseifers des Opferzeugens bei der Beweiswürdigung; Umfang der zulässigen Nachforschungen durch einen …
 - [BGH, Beschluss vom 01.12.2021 - 1 StR 432/21](1-str-432-21.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: Hinzuziehung eines gerichtlichen Sachverständigen bei der Entscheidungsfindung
 - [BGH, Beschluss vom 18.11.2021 - 1 StR 397/21](1-str-397-21.md) — Mordmerkmal der Heimtücke bei tödlichem Gegenangriff des Erpressungsopfers; Notwehr gegen einen Erpresser
-- [BGH, Beschluss vom 04.11.2021 - 1 StR 236/21](1-str-236-21.md) — Hinterziehung von Veranlagungssteuern durch Unterlassen: Eintritt des Taterfolgs; Steuererklärung nach Kenntnis von der Einleitung eines Strafverfahrens; Strafu
-- [BGH, Beschluss vom 03.11.2021 - 1 StR 215/21](1-str-215-21.md) — Hinterziehung von Veranlagungssteuern durch Unterlassen: Eintritt des Taterfolgs; versuchte Steuerhinterziehung nach Kenntnis von der Einleitung eines Strafverf
+- [BGH, Beschluss vom 04.11.2021 - 1 StR 236/21](1-str-236-21.md) — Hinterziehung von Veranlagungssteuern durch Unterlassen: Eintritt des Taterfolgs; Steuererklärung nach Kenntnis von der Einleitung eines Strafverfahrens; Strafurteilsgründe
+- [BGH, Beschluss vom 03.11.2021 - 1 StR 215/21](1-str-215-21.md) — Hinterziehung von Veranlagungssteuern durch Unterlassen: Eintritt des Taterfolgs; versuchte Steuerhinterziehung nach Kenntnis von der Einleitung eines Strafverfahrens
 - [BGH, Urteil vom 03.11.2021 - 1 StR 467/18](1-str-467-18.md) — BGH, Urteil 1 StR 467/18
-- [BGH, Beschluss vom 02.11.2021 - 1 StR 291/21](1-str-291-21.md) — Schuldfähigkeit: Anforderungen an die Prüfung der Schuldfähigkeit des Angeklagten zur Tatzeit; Anschluss an die Ausführungen des Sachverständigen; Feststellung 
-- [BGH, Beschluss vom 02.11.2021 - 1 StR 322/21](1-str-322-21.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Annahme einer einheitlichen Tat des Handeltreibens aufgrund einer Bewertungseinheit bzw. nach den Grundsätzen f
+- [BGH, Beschluss vom 02.11.2021 - 1 StR 291/21](1-str-291-21.md) — Schuldfähigkeit: Anforderungen an die Prüfung der Schuldfähigkeit des Angeklagten zur Tatzeit; Anschluss an die Ausführungen des Sachverständigen; Feststellung des Vorliegens …
+- [BGH, Beschluss vom 02.11.2021 - 1 StR 322/21](1-str-322-21.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Annahme einer einheitlichen Tat des Handeltreibens aufgrund einer Bewertungseinheit bzw. nach den Grundsätzen für Serienstraftaten
 - [BGH, Urteil vom 20.10.2021 - 1 StR 136/21](1-str-136-21.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Anforderungen an die Strafzumessung bei Ausschöpfung des Strafrahmens
 - [BGH, Beschluss vom 20.10.2021 - 1 StR 270/21](1-str-270-21.md) — Strafzumessung bei Hinterziehung von Umsatzsteuer
 - [BGH, Beschluss vom 20.10.2021 - 1 StR 375/21](1-str-375-21.md) — Abrechnungsbetrug eines Pflegedienstes zu Lasten einer Krankenkasse: Einsatz von nicht über die vertraglich vereinbarte Qualifikation verfügendem Pflegepersonal
 - [BGH, Beschluss vom 19.10.2021 - 1 StR 327/21](1-str-327-21.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen für das Vorliegen eines Hangs
 - [BGH, Beschluss vom 07.10.2021 - 1 StR 315/21](1-str-315-21.md) — Rücktritt vom beendeten Versuch des Mordes: Auswahl unter mehreren Möglichkeiten der Erfolgsverhinderung
-- [BGH, Urteil vom 07.10.2021 - 1 StR 77/21](1-str-77-21.md) — Steuerhinterziehung bei Verbringen von Tabakwaren in das deutsche Steuergebiet: Örtliche Zuständigkeit bei Transport von Tabakwaren ohne Festsetzung der Tabakst
+- [BGH, Urteil vom 07.10.2021 - 1 StR 77/21](1-str-77-21.md) — Steuerhinterziehung bei Verbringen von Tabakwaren in das deutsche Steuergebiet: Örtliche Zuständigkeit bei Transport von Tabakwaren ohne Festsetzung der Tabaksteuer durch das …
 - [BGH, Beschluss vom 06.10.2021 - 1 StR 297/21](1-str-297-21.md) — Umsatzsteuerverkürzung: Konkurrenzverhältnis zwischen unrichtiger Umsatzsteuervoranmeldung und der Umsatzsteuerjahreserklärung
 - [BGH, Beschluss vom 06.10.2021 - 1 StR 311/20](1-str-311-20.md) — Einziehung des Wertes von Taterträgen: Kostenentscheidung bei Verringerung der Einziehung im Revisionsverfahren
-- [BGH, Beschluss vom 23.09.2021 - 1 StR 173/21](1-str-173-21.md) — Gewerbs- und bandenmäßiges Einschleusen von Ausländern: Erfordernis von Feststellungen zu der Staatsangehörigkeit der geschleusten Personen; strafschärfende Ber
+- [BGH, Beschluss vom 23.09.2021 - 1 StR 173/21](1-str-173-21.md) — Gewerbs- und bandenmäßiges Einschleusen von Ausländern: Erfordernis von Feststellungen zu der Staatsangehörigkeit der geschleusten Personen; strafschärfende Berücksichtigung der …
 - [BGH, Beschluss vom 23.09.2021 - 1 StR 321/21](1-str-321-21.md) — Gefährliche Körperverletzung: Durch Notwehr gerechtfertigter Messereinsatz
 - [BGH, Beschluss vom 23.09.2021 - 1 StR 329/21](1-str-329-21.md) — Strafzumessung: Berücksichtigung von Vorahndungen; Tilgungsreife ausländischer Verurteilungen; Unterbringung in einer Entziehungsanstalt
 - [BGH, Beschluss vom 23.09.2021 - 1 StR 43/21](1-str-43-21.md) — Verständigung im Strafverfahren: Vorliegen eines Verständigungsvorschlags; Pflicht zur Belehrung des Angeklagten bei verständigungsbezogener Erörterung
 - [BGH, Beschluss vom 22.09.2021 - 1 StR 131/21](1-str-131-21.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Anforderungen an eine Bandenabrede
 - [BGH, Beschluss vom 22.09.2021 - 1 StR 284/21](1-str-284-21.md) — Strafverurteilung wegen Vergewaltigung u.a.: Freie Beweiswürdigung bei Aussage gegen Aussage
-- [BGH, Beschluss vom 22.09.2021 - 1 StR 305/21](1-str-305-21.md) — Strafverurteilung wegen Körperverletzung u.a. sowie Unterbringung in einem psychiatrischen Krankenhaus: Rückfallgeschwindigkeit als Strafzumessungsgrund und Maß
-- [BGH, Urteil vom 22.09.2021 - 1 StR 345/19](1-str-345-19.md) — Strafverfahren wegen Steuerhinterziehung: Revisionsgerichtliche Überprüfung der Auslegung und Anwendung des Geschäftsverteilungsplans; Errichtung einer Hilfsstr
-- [BGH, Beschluss vom 22.09.2021 - 1 StR 86/21](1-str-86-21.md) — Lohn- und Umsatzsteuerhinterziehung sowie Vorenthalten und Veruntreuen von Arbeitsentgelt: Berechnung der hinterzogenen Lohnsteuer im Niedriglohnbereich; Indizw
+- [BGH, Beschluss vom 22.09.2021 - 1 StR 305/21](1-str-305-21.md) — Strafverurteilung wegen Körperverletzung u.a. sowie Unterbringung in einem psychiatrischen Krankenhaus: Rückfallgeschwindigkeit als Strafzumessungsgrund und Maßregelanordnung …
+- [BGH, Urteil vom 22.09.2021 - 1 StR 345/19](1-str-345-19.md) — Strafverfahren wegen Steuerhinterziehung: Revisionsgerichtliche Überprüfung der Auslegung und Anwendung des Geschäftsverteilungsplans; Errichtung einer Hilfsstrafkammer …
+- [BGH, Beschluss vom 22.09.2021 - 1 StR 86/21](1-str-86-21.md) — Lohn- und Umsatzsteuerhinterziehung sowie Vorenthalten und Veruntreuen von Arbeitsentgelt: Berechnung der hinterzogenen Lohnsteuer im Niedriglohnbereich; Indizwirkung für …
 - [BGH, Beschluss vom 08.09.2021 - 1 StR 114/21](1-str-114-21.md) — Vorenthalten von Sozialversicherungsbeiträgen: Berechnung der Sozialversicherungsbeiträge bei illegalen Beschäftigungsverhältnissen
 - [BGH, Beschluss vom 08.09.2021 - 1 StR 266/21](1-str-266-21.md) — Strafurteil wegen sexuellen Kindesmissbrauchs: Notwendige Erörterungen zur Ermessensentscheidung hinsichtlich der Anordnung von Sicherungsverwahrung
 - [BGH, Beschluss vom 08.09.2021 - 1 StR 275/21](1-str-275-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
 - [BGH, Beschluss vom 08.09.2021 - 1 StR 286/21](1-str-286-21.md) — Strafurteil u.a. wegen gefährlicher Körperverletzung: Notwendige Feststellungen zur Gesundheitsbeeinträchtigung durch Beibringung von Kokain
 - [BGH, Urteil vom 07.09.2021 - 1 StR 134/21](1-str-134-21.md) — Revision in Strafsachen: Beruhen des Urteils auf einem Verstoß gegen die Unterbrechungsfristen
-- [BGH, Beschluss vom 07.09.2021 - 1 StR 255/21](1-str-255-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Begründungsfehler bei der Gefährlichkeitsprognose für einen an paranoid-halluzinatorischer Schizophrenie lei
+- [BGH, Beschluss vom 07.09.2021 - 1 StR 255/21](1-str-255-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Begründungsfehler bei der Gefährlichkeitsprognose für einen an paranoid-halluzinatorischer Schizophrenie leidenden …
 - [BGH, Beschluss vom 07.09.2021 - 1 StR 302/21](1-str-302-21.md) — Strafzumessung bei Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Prüfung eines minder schweren Falls
-- [BGH, Beschluss vom 12.08.2021 - 1 StR 162/21](1-str-162-21.md) — Vergewaltigung: Tatrichterliche Beweiswürdigung bei Abweichung zwischen der Aussage des Belastungszeugin in der Hauptverhandlung und derjenigen im Ermittlungsve
+- [BGH, Beschluss vom 12.08.2021 - 1 StR 162/21](1-str-162-21.md) — Vergewaltigung: Tatrichterliche Beweiswürdigung bei Abweichung zwischen der Aussage des Belastungszeugin in der Hauptverhandlung und derjenigen im Ermittlungsverfahren
 - [BGH, Beschluss vom 12.08.2021 - 1 StR 242/21](1-str-242-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Urteilsfeststellungen zur verminderten Schuldfähigkeit infolge einer wahnhaften Störung
 - [BGH, Beschluss vom 11.08.2021 - 1 StR 222/21](1-str-222-21.md) — Gefährliche Körperverletzung: Notwendige Feststellungen zum bedingten Körperverletzungsvorsatz bei hochgradiger Alkoholisierung des Angeklagten
 - [BGH, Beschluss vom 11.08.2021 - 1 StR 253/21](1-str-253-21.md) — Einziehung von Taterträgen: Kausalzusammenhang zwischen der Tat und dem Erlangten; Einziehung von Hinterbliebenenrente nach Ehegattenmord
-- [BGH, Beschluss vom 10.08.2021 - 1 StR 399/20](1-str-399-20.md) — Steuerhinterziehung: Berücksichtigung von für Scheinrechnungen entrichteten „Provisionen“ bei Berechnung des Verkürzungsumfangs der hinterzogenen Einkommensteue
-- [BGH, Beschluss vom 02.08.2021 - 1 StR 135/21](1-str-135-21.md) — Adhäsionsverfahren: Schmerzensgeldverlangen eines Vergewaltigungsopfers wegen erlittener Verletzungen; Voraussetzungen für die Feststellung einer weitergehenden
+- [BGH, Beschluss vom 10.08.2021 - 1 StR 399/20](1-str-399-20.md) — Steuerhinterziehung: Berücksichtigung von für Scheinrechnungen entrichteten „Provisionen“ bei Berechnung des Verkürzungsumfangs der hinterzogenen Einkommensteuer; Einziehung von …
+- [BGH, Beschluss vom 02.08.2021 - 1 StR 135/21](1-str-135-21.md) — Adhäsionsverfahren: Schmerzensgeldverlangen eines Vergewaltigungsopfers wegen erlittener Verletzungen; Voraussetzungen für die Feststellung einer weitergehenden Ersatzpflicht …
 - [BGH, Urteil vom 29.07.2021 - 1 StR 29/21](1-str-29-21.md) — Revision im Strafverfahren: Beruhen eines Strafurteils auf der fehlenden Vereidigung eines Dolmetschers
 - [BGH, Beschluss vom 29.07.2021 - 1 StR 30/21](1-str-30-21.md) — Umsatzsteuerhinterziehung: Gerichtliche Schätzung der Besteuerungsgrundlagen
-- [BGH, Urteil vom 29.07.2021 - 1 StR 83/21](1-str-83-21.md) — Gewerbsmäßiger Bandenbetrug durch falsche Polizeibeamten: Abgrenzung von Mittäterschaft und Beihilfe; Einziehung des Tatertrages nach vorläufiger Verfahrenseins
-- [BGH, Beschluss vom 28.07.2021 - 1 StR 190/21](1-str-190-21.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus im Sicherungsverfahren: Notwendige Urteilsfeststellungen zur Gefährlichkeitsprognose bei parano
-- [BGH, Beschluss vom 28.07.2021 - 1 StR 506/20](1-str-506-20.md) — 1. Inhaber des Betriebs im Sinne des § 299 StGB aF (des Unternehmens im Sinne des § 299 StGB nF) sind bei juristischen Personen die Anteilseigner. 2. Wer einem 
+- [BGH, Urteil vom 29.07.2021 - 1 StR 83/21](1-str-83-21.md) — Gewerbsmäßiger Bandenbetrug durch falsche Polizeibeamten: Abgrenzung von Mittäterschaft und Beihilfe; Einziehung des Tatertrages nach vorläufiger Verfahrenseinstellung
+- [BGH, Beschluss vom 28.07.2021 - 1 StR 190/21](1-str-190-21.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus im Sicherungsverfahren: Notwendige Urteilsfeststellungen zur Gefährlichkeitsprognose bei paranoider Schizophrenie …
+- [BGH, Beschluss vom 28.07.2021 - 1 StR 506/20](1-str-506-20.md) — 1. Inhaber des Betriebs im Sinne des § 299 StGB aF (des Unternehmens im Sinne des § 299 StGB nF) sind bei juristischen Personen die Anteilseigner. 2. Wer einem Angestellten oder …
 - [BGH, Beschluss vom 27.07.2021 - 1 StR 201/21](1-str-201-21.md) — Beweiswürdigung einer Zeugenaussage: Einholung eines aussagepsychologischen Sachverständigengutachtens
 - [BGH, Beschluss vom 27.07.2021 - 1 StR 210/21](1-str-210-21.md) — Vergewaltigung: Sexueller Übergriff durch Ausnutzung des Überraschungsmoments
 - [BGH, Beschluss vom 15.07.2021 - 1 StR 157/21](1-str-157-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Verfahrensübernahme durch schlüssiges Verhalten des zuständigen Gerichts
 - [BGH, Beschluss vom 14.07.2021 - 1 StR 176/21](1-str-176-21.md) — Einziehungsentscheidung: Einziehung einer Grundschuld
-- [BGH, Beschluss vom 01.07.2021 - 1 StR 206/21](1-str-206-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Urteilsdarlegungen zur Auswirkung einer psychischen Störung und einer Alkoholisierung auf die Ste
-- [BGH, Beschluss vom 01.07.2021 - 1 StR 519/20](1-str-519-20.md) — Strafverfahren wegen Steuerhinterziehung bei sog. Cum-Ex-Geschäften: Untersagung bzw. Beschränkung von Ton- und Bildaufnahmen zu Zwecken der Medienberichterstat
-- [BGH, Beschluss vom 30.06.2021 - 1 StR 148/21](1-str-148-21.md) — Beweiswürdigung im Strafverfahren: Beurteilung der Glaubhaftigkeit der Angaben der Geschädigten zu einer lange zurückliegenden Vergewaltigung bei Aussage-gegen-
-- [BGH, Beschluss vom 30.06.2021 - 1 StR 177/21](1-str-177-21.md) — Betrug durch vertragswidrige Krankenkassenabrechnungen eines Pflegedienstes: Eintritt eines Vermögensschadens im Zusammenhang mit der Betreuung von Beatmungspat
+- [BGH, Beschluss vom 01.07.2021 - 1 StR 206/21](1-str-206-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Urteilsdarlegungen zur Auswirkung einer psychischen Störung und einer Alkoholisierung auf die Steuerungsfähigkeit …
+- [BGH, Beschluss vom 01.07.2021 - 1 StR 519/20](1-str-519-20.md) — Strafverfahren wegen Steuerhinterziehung bei sog. Cum-Ex-Geschäften: Untersagung bzw. Beschränkung von Ton- und Bildaufnahmen zu Zwecken der Medienberichterstattung während der …
+- [BGH, Beschluss vom 30.06.2021 - 1 StR 148/21](1-str-148-21.md) — Beweiswürdigung im Strafverfahren: Beurteilung der Glaubhaftigkeit der Angaben der Geschädigten zu einer lange zurückliegenden Vergewaltigung bei …
+- [BGH, Beschluss vom 30.06.2021 - 1 StR 177/21](1-str-177-21.md) — Betrug durch vertragswidrige Krankenkassenabrechnungen eines Pflegedienstes: Eintritt eines Vermögensschadens im Zusammenhang mit der Betreuung von Beatmungspatienten
 - [BGH, Urteil vom 29.06.2021 - 1 StR 287/20](1-str-287-20.md) — Beweiswürdigung im Strafverfahren: Verstoß gegen die Pflicht zur erschöpfenden Würdigung der Beweise; Anforderungen an Aufklärungsrüge
 - [BGH, Beschluss vom 17.06.2021 - 1 StR 132/21](1-str-132-21.md) — Beihilfe durch Unterlassen zur Steuerhinterziehung: Beihilfevorsatz eines Steuerberaters nach Aushändigung eines Durchsuchungsbeschlusses für seine Kanzlei
 - [BGH, Beschluss vom 16.06.2021 - 1 StR 109/21](1-str-109-21.md) — Sexueller Missbrauch von Kindern: Beweiswürdigung zu Pseudoerinnerungen
@@ -73,9 +73,9 @@
 - [BGH, Urteil vom 01.06.2021 - 1 StR 675/18](1-str-675-18.md) — Erweiterte Einziehung: Rückwirkung der Abschöpfungsmaßnahme; Anforderungen an die Urteilsfeststellungen
 - [BGH, Beschluss vom 31.05.2021 - 1 StR 123/21](1-str-123-21.md) — Minder schwerer Fall des Totschlags: Tatauslösende körperliche und seelische Misshandlung
 - [BGH, Beschluss vom 19.05.2021 - 1 StR 139/21](1-str-139-21.md) — Einziehung: Begründung einer Einziehungsanordnung gegen einen als Gesellschaftsorgan handelnden Täter
-- [BGH, Beschluss vom 19.05.2021 - 1 StR 147/21](1-str-147-21.md) — Strafverurteilung wegen gefährlicher Körperverletzung u.a.: Feststellung der Schuldunfähigkeit; strafschärfende Berücksichtigung einer fehlenden Entschuldigung 
+- [BGH, Beschluss vom 19.05.2021 - 1 StR 147/21](1-str-147-21.md) — Strafverurteilung wegen gefährlicher Körperverletzung u.a.: Feststellung der Schuldunfähigkeit; strafschärfende Berücksichtigung einer fehlenden Entschuldigung beim Geschädigten …
 - [BGH, Urteil vom 19.05.2021 - 1 StR 442/20](1-str-442-20.md) — Strafverfahren: Zulässigkeit einer Inbegriffsrüge
-- [BGH, Beschluss vom 19.05.2021 - 1 StR 496/20](1-str-496-20.md) — Kapitalanlagenbetrug: Bestimmung des Vermögensschadens; Wert von Rückzahlungsansprüchen nach Laufzeitende; berufliche Stellung des Angeklagten als Strafschärfun
+- [BGH, Beschluss vom 19.05.2021 - 1 StR 496/20](1-str-496-20.md) — Kapitalanlagenbetrug: Bestimmung des Vermögensschadens; Wert von Rückzahlungsansprüchen nach Laufzeitende; berufliche Stellung des Angeklagten als Strafschärfungsgrund
 - [BGH, Beschluss vom 19.05.2021 - 1 StR 528/20](1-str-528-20.md) — Kapitalanlagebetrug: Ermittlung des Vermögensschadens; Bewertung des Rückzahlungsanspruchs im Zeitpunkt der Vermögensverfügung
 - [BGH, Beschluss vom 18.05.2021 - 1 StR 124/21](1-str-124-21.md) — Vergewaltigung: Freie Beweiswürdigung bei Aussage gegen Aussage
 - [BGH, Urteil vom 18.05.2021 - 1 StR 144/20](1-str-144-20.md) — Untreue: Umfang des Ermessens eines Sparkassenvorstands in Bayern bei Unternehmensspenden und -geschenken
@@ -84,16 +84,16 @@
 - [BGH, Beschluss vom 17.05.2021 - 1 StR 90/21](1-str-90-21.md) — Vorbehaltene Sicherungsverwahrung: Voraussetzungen der Anordnung im Nachverfahren
 - [BGH, Beschluss vom 05.05.2021 - 1 StR 502/20](1-str-502-20.md) — Gewerbsmäßige Steuerhehlerei: Einziehung bei Weiterverkauf geschmuggelter Zigaretten
 - [BGH, Beschluss vom 21.04.2021 - 1 StR 27/21](1-str-27-21.md) — Strafverfolgung: Verjährungsbeginn bei Vorenthalten und Veruntreuen von Arbeitsentgelt; Verjährungsbeginn bei Nichtabgabe einer Steueranmeldung
-- [BGH, Urteil vom 21.04.2021 - 1 StR 447/20](1-str-447-20.md) — Sicherungsverfahren gegen schuldunfähige Straftäter: Berücksichtigung der im Ausland gegen einen Deutschen vollzogenen Unterbringung in einem psychiatrischen Kr
+- [BGH, Urteil vom 21.04.2021 - 1 StR 447/20](1-str-447-20.md) — Sicherungsverfahren gegen schuldunfähige Straftäter: Berücksichtigung der im Ausland gegen einen Deutschen vollzogenen Unterbringung in einem psychiatrischen Krankenhaus
 - [BGH, Beschluss vom 21.04.2021 - 1 StR 514/20](1-str-514-20.md) — Umsatzsteuerhinterziehung: Einziehungsanordnung gegenüber dem faktischen Geschäftsführer
 - [BGH, Beschluss vom 08.04.2021 - 1 StR 78/21](1-str-78-21.md) — Zur Strafbarkeit der Verbreitung eines Erpressungstrojaners über das Internet (sog. Ransomware).
-- [BGH, Urteil vom 07.04.2021 - 1 StR 10/20](1-str-10-20.md) — Besetzungsrüge in Strafsachen: Anforderungen an die Begründung bei Übertragung eines bei einer Wirtschaftsstrafkammer bereits anhängigen Steuerstrafverfahrens a
+- [BGH, Urteil vom 07.04.2021 - 1 StR 10/20](1-str-10-20.md) — Besetzungsrüge in Strafsachen: Anforderungen an die Begründung bei Übertragung eines bei einer Wirtschaftsstrafkammer bereits anhängigen Steuerstrafverfahrens an eine andere …
 - [BGH, Beschluss vom 06.04.2021 - 1 StR 60/21](1-str-60-21.md) — Hinterziehung von Veranlagungssteuern: Notwendige Feststellungen zur Tatvollendung
 - [BGH, Beschluss vom 06.04.2021 - 1 StR 67/21](1-str-67-21.md) — Computerbetrug und Fälschung beweiserheblicher Daten: Erwerb von Online-Tickets unter Verwendung von Kundenkonten mit falschen Personen- und Kreditkartendaten
 - [BGH, Beschluss vom 06.04.2021 - 1 StR 87/21](1-str-87-21.md) — Selbständiges Einziehungsverfahren: Teilweise Kostenerstattung bezüglich der Rechtsanwaltsgebühr wegen niedrigerer Festsetzung des Einziehungsbetrages
 - [BGH, Beschluss vom 25.03.2021 - 1 StR 242/20](1-str-242-20.md) — Einreichung einer unvollständigen Einkommensteuererklärung: Strafbarkeit der Kirchensteuerverkürzung
 - [BGH, Beschluss vom 25.03.2021 - 1 StR 28/21](1-str-28-21.md) — Steuerhinterziehung: Einziehung der verkürzten Steuer als Tatertrag
-- [BGH, Beschluss vom 24.03.2021 - 1 StR 13/21](1-str-13-21.md) — Einziehung von Taterträgen bei einem GmbH-Geschäftsführer im Strafverfahren wegen Steuerhinterziehung und unerlaubten Betreiben eines Versicherungsgeschäftes: U
+- [BGH, Beschluss vom 24.03.2021 - 1 StR 13/21](1-str-13-21.md) — Einziehung von Taterträgen bei einem GmbH-Geschäftsführer im Strafverfahren wegen Steuerhinterziehung und unerlaubten Betreiben eines Versicherungsgeschäftes: Unmittelbarer …
 - [BGH, Beschluss vom 23.03.2021 - 1 StR 50/21](1-str-50-21.md) — Vergewaltigung einer Intimpartnerin: Beweiswürdigung zur Frage des Einverständnisses mit der sexuellen Handlung
 - [BGH, Beschluss vom 23.03.2021 - 1 StR 52/21](1-str-52-21.md) — Strafurteil: Minder schwerer Fall des Totschlags bei Tötung der Ehefrau in einer Konfliktlage und unter Alkoholeinfluss
 - [BGH, Beschluss vom 23.03.2021 - 1 StR 53/21](1-str-53-21.md) — Fahren ohne Fahrerlaubnis: Konkurrenzen mit Diebstahl bei "Diebesfahrten"
@@ -105,23 +105,23 @@
 - [BGH, Urteil vom 10.03.2021 - 1 StR 272/20](1-str-272-20.md) — Strafverfahren wegen Veruntreuens von Arbeitsentgelt und Lohnsteuerhinterziehung: Einziehung der Lohnsteuer beim Arbeitgeber
 - [BGH, Beschluss vom 10.03.2021 - 1 StR 499/20](1-str-499-20.md) — Bestimmung des Vermögensschadens eines Betrugs und des Umfangs einer Steuerhinterziehung
 - [BGH, Beschluss vom 10.03.2021 - 1 StR 517/20](1-str-517-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Voraussetzungen des mittäterschaftlichen Handelns
-- [BGH, Beschluss vom 09.03.2021 - 1 StR 15/21](1-str-15-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung des symptomatischen Zusammenhangs zwischen Anlasstat und psychischer Störung 
+- [BGH, Beschluss vom 09.03.2021 - 1 StR 15/21](1-str-15-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung des symptomatischen Zusammenhangs zwischen Anlasstat und psychischer Störung im Urteil …
 - [BGH, Beschluss vom 09.03.2021 - 1 StR 487/20](1-str-487-20.md) — Tötung des Erblassers durch dessen Erben: Einziehung des Nachlasses
 - [BGH, Beschluss vom 25.02.2021 - 1 StR 20/21](1-str-20-21.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Strafzumessung beim Gehilfen; maßgebliche Kriterien für die Einordnung der Schuld eines Bunkerhalters
 - [BGH, Beschluss vom 25.02.2021 - 1 StR 423/20](1-str-423-20.md) — Zur Kostenentscheidung bei Verringerung der Einziehung durch das Revisionsgericht.
 - [BGH, Beschluss vom 25.02.2021 - 1 StR 434/20](1-str-434-20.md) — Strafzumessung bei Verurteilung wegen bandenmäßigen Handeltreibens mit Betäubungsmittel: Berücksichtigung einer narzisstischen Persönlichkeitsstörung
 - [BGH, Beschluss vom 24.02.2021 - 1 StR 127/20](1-str-127-20.md) — Einziehung von Taterträgen: Subventionsbetrug auf Basis fingierter Rechnungen eines Gehilfen an eine GmbH
-- [BGH, Beschluss vom 24.02.2021 - 1 StR 489/20](1-str-489-20.md) — Beweiswürdigung im Strafverfahren wegen Kindesmissbrauchs: Tatsachenfeststellung bei Zeugen vom Hörensagen und Aussage-gegen Aussage-Konstellationen; notwendige
+- [BGH, Beschluss vom 24.02.2021 - 1 StR 489/20](1-str-489-20.md) — Beweiswürdigung im Strafverfahren wegen Kindesmissbrauchs: Tatsachenfeststellung bei Zeugen vom Hörensagen und Aussage-gegen Aussage-Konstellationen; notwendige …
 - [BGH, Beschluss vom 23.02.2021 - 1 StR 24/21](1-str-24-21.md) — Sicherungsverfahren: Prüfung der Möglichkeit einer Aussetzung der Unterbringung in einem psychiatrischen Krankenhaus zur Bewährung
 - [BGH, Beschluss vom 23.02.2021 - 1 StR 497/20](1-str-497-20.md) — Versuch des Einschleusens von Ausländern: Erwerb von Sprachzertifikaten durch Teilnahme an einer Sprachprüfung unter falschem Namen
 - [BGH, Beschluss vom 23.02.2021 - 1 StR 6/21](1-str-6-21.md) — Betrug: Abschluss von Krankenversicherungsverträgen in der Absicht der späteren unberechtigten Geltendmachung von Versicherungsleistungen
-- [BGH, Beschluss vom 10.02.2021 - 1 StR 478/20](1-str-478-20.md) — Gefährliche Körperverletzung durch Verwendung einer ausgebauten Einwegrasierklinge: Tatbestandsalternativen einer das Leben gefährdenden Behandlung und des Eins
+- [BGH, Beschluss vom 10.02.2021 - 1 StR 478/20](1-str-478-20.md) — Gefährliche Körperverletzung durch Verwendung einer ausgebauten Einwegrasierklinge: Tatbestandsalternativen einer das Leben gefährdenden Behandlung und des Einsatzes eines …
 - [BGH, Beschluss vom 10.02.2021 - 1 StR 500/20](1-str-500-20.md) — Strafverfahren wegen Mordes und tateinheitlicher Brandstiftung: Voraussetzungen für das Mordmerkmal der Tötung mit einem gemeingefährlichen Mittel
-- [BGH, Beschluss vom 10.02.2021 - 1 StR 525/20](1-str-525-20.md) — Revision im Strafverfahren wegen Umsatzsteuerhinterziehung: Aufhebung des Ersturteils wegen unzureichender Feststellungen zur Vorsteuerabzugsberechtigung eines 
+- [BGH, Beschluss vom 10.02.2021 - 1 StR 525/20](1-str-525-20.md) — Revision im Strafverfahren wegen Umsatzsteuerhinterziehung: Aufhebung des Ersturteils wegen unzureichender Feststellungen zur Vorsteuerabzugsberechtigung eines Baubetreuers und …
 - [BGH, Beschluss vom 27.01.2021 - 1 StR 495/20](1-str-495-20.md) — Revision in Strafsachen: Fehlende richterliche Unterzeichnung eines Verhinderungsvermerks im Urteil
-- [BGH, Urteil vom 26.01.2021 - 1 StR 289/20](1-str-289-20.md) — Bei der Prüfung, ob eine unerlaubte Einreise oder ein unerlaubter Aufenthalt nach § 95 Abs. 1 Nr. 2 und 3, § 96 Abs. 1 AufenthG vorliegt, ist bei einem von eine
-- [BGH, Beschluss vom 26.01.2021 - 1 StR 463/20](1-str-463-20.md) — Körperliche Auseinandersetzung von Strafgefangenen in einer Justizvollzugsanstalt: Einwilligung in die Körperverletzung; Sittenwidrigkeit der Tat trotz der Einw
-- [BGH, Beschluss vom 14.01.2021 - 1 StR 476/20](1-str-476-20.md) — Vergewaltigung: Ausnutzen einer schutzlosen Lage bei Verfolgung des Opfers bis an eine abgelegene Stelle; Konkurrenzverhältnis zwischen den Tatbestandsalternati
+- [BGH, Urteil vom 26.01.2021 - 1 StR 289/20](1-str-289-20.md) — Bei der Prüfung, ob eine unerlaubte Einreise oder ein unerlaubter Aufenthalt nach § 95 Abs. 1 Nr. 2 und 3, § 96 Abs. 1 AufenthG vorliegt, ist bei einem von einem anderen …
+- [BGH, Beschluss vom 26.01.2021 - 1 StR 463/20](1-str-463-20.md) — Körperliche Auseinandersetzung von Strafgefangenen in einer Justizvollzugsanstalt: Einwilligung in die Körperverletzung; Sittenwidrigkeit der Tat trotz der Einwilligung
+- [BGH, Beschluss vom 14.01.2021 - 1 StR 476/20](1-str-476-20.md) — Vergewaltigung: Ausnutzen einer schutzlosen Lage bei Verfolgung des Opfers bis an eine abgelegene Stelle; Konkurrenzverhältnis zwischen den Tatbestandsalternativen
 - [BGH, Beschluss vom 13.01.2021 - 1 StR 455/20](1-str-455-20.md) — Einziehung des Tatertrags: Verfügungsgewalt über einen erbeuteten Geldbetrag bei mehreren Tätern
 - [BGH, Beschluss vom 12.01.2021 - 1 StR 347/20](1-str-347-20.md) — Strafverurteilung wegen Diebstahls mit Waffen: Beisichführen eines Zimmermannshammers; Erörterungsbedürftigkeit der Ablehnung eines minder schweren Falls
 - [BGH, Beschluss vom 12.01.2021 - 1 StR 404/20](1-str-404-20.md) — Strafzumessung: Nachteilsausgleich wegen Nichtberücksichtigung einer in Polen verhängten Strafe im Rahmen der Gesamtstrafenbildung

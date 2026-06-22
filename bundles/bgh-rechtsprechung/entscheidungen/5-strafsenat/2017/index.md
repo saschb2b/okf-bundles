@@ -8,34 +8,34 @@
 - [BGH, Beschluss vom 30.11.2017 - 5 StR 454/17](5-str-454-17.md) — Beweiswürdigung im Strafverfahren: Verwertung von früheren Beschuldigtenaussagen im Verfahren gegen Angehörige durch Vernehmung des Berichterstatters
 - [BGH, Beschluss vom 30.11.2017 - 5 StR 455/17](5-str-455-17.md) — Gerichtssprache: Beachtlichkeit eines fremdsprachigen Rechtsmittels des Beschuldigten im Sicherungsverfahren
 - [BGH, Urteil vom 29.11.2017 - 5 StR 276/17](5-str-276-17.md) — Bedingter Tötungsvorsatz: Beweisanzeichen bei konkreter Lebensgefährlichkeit der Ausführung einer schweren Brandstiftung
-- [BGH, Beschluss vom 29.11.2017 - 5 StR 335/17](5-str-335-17.md) — Strafverfahren wegen Serienbetrugs: Konkurrenzen bei Beteiligung an der Vermittlung des darlehensfinanzierten Kaufs überteuerter Eigentumswohnungen; strafschärf
+- [BGH, Beschluss vom 29.11.2017 - 5 StR 335/17](5-str-335-17.md) — Strafverfahren wegen Serienbetrugs: Konkurrenzen bei Beteiligung an der Vermittlung des darlehensfinanzierten Kaufs überteuerter Eigentumswohnungen; strafschärfende …
 - [BGH, Urteil vom 29.11.2017 - 5 StR 352/17](5-str-352-17.md) — Betrug im Rahmen eines Kreditgeschäfts: Abgrenzung von Tun und Unterlassen; Vorliegen eines Vermögensschadens bei zweckwidriger Darlehensverwendung
 - [BGH, Urteil vom 29.11.2017 - 5 StR 446/17](5-str-446-17.md) — Sicherungsverwahrung: Anforderungen an die Gefährlichkeitsprognose im Fall des schweren sexuellen Missbrauchs von Kindern
-- [BGH, Beschluss vom 28.11.2017 - 5 StR 438/17](5-str-438-17.md) — Strafverfahren: Fehlerhaft unterbliebener Teilfreispruch; Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers bei der Schmerzensgeldbemessung im A
+- [BGH, Beschluss vom 28.11.2017 - 5 StR 438/17](5-str-438-17.md) — Strafverfahren: Fehlerhaft unterbliebener Teilfreispruch; Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers bei der Schmerzensgeldbemessung im Adhäsionsausspruch
 - [BGH, Beschluss vom 28.11.2017 - 5 StR 480/17](5-str-480-17.md) — Mordmerkmal der niedrigen Beweggründe: Bewertungsmaßstab bei einem ausländischen Angeklagten mit fremden soziokulturellen Wertvorstellungen
 - [BGH, Beschluss vom 27.11.2017 - 5 StR 520/17](5-str-520-17.md) — Strafurteil: Notwendige Begründung einer Einschätzung einer Zeugenaussage als lediglich teilweise glaubhaft
-- [BGH, Urteil vom 15.11.2017 - 5 StR 338/17](5-str-338-17.md) — Strafverurteilung wegen Heimtückemordes: Arg- und Wehrlosigkeit eines hinterrücks erschossenen Tatopfers bei vorausgegangenem Streit; notwendige Feststellungen 
+- [BGH, Urteil vom 15.11.2017 - 5 StR 338/17](5-str-338-17.md) — Strafverurteilung wegen Heimtückemordes: Arg- und Wehrlosigkeit eines hinterrücks erschossenen Tatopfers bei vorausgegangenem Streit; notwendige Feststellungen zum …
 - [BGH, Beschluss vom 15.11.2017 - 5 StR 518/17](5-str-518-17.md) — Sexuelle Belästigung: Anforderungen an die Darlegung des Vorsatzes im Urteil
 - [BGH, Beschluss vom 14.11.2017 - 5 StR 395/17](5-str-395-17.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Konkurrenzenverhältnis von mehreren Beihilfehandlungen
 - [BGH, Urteil vom 25.10.2017 - 5 StR 72/17](5-str-72-17.md) — Jugendstrafsache: Verminderte Schuldfähigkeit bei Kindstötung unmittelbar nach der Geburt; Bemessung der Jugendstrafe
 - [BGH, Beschluss vom 12.10.2017 - 5 StR 364/17](5-str-364-17.md) — Maßregelanordnung: Unterbringung in einem psychiatrischen Krankenhaus bei einer Persönlichkeitsstörung
 - [BGH, Beschluss vom 11.10.2017 - 5 StR 332/17](5-str-332-17.md) — Einfuhr von Betäubungsmitteln: Abgrenzung von Täterschaft und Teilnahme bei der Bestellung von Betäubungsmitteln
 - [BGH, Beschluss vom 10.10.2017 - 5 StR 379/17](5-str-379-17.md) — Strafverfahren: Zeugnisverweigerungsrecht des Ehegatten bei Eheschließung nach islamischem Recht
-- [BGH, Beschluss vom 19.09.2017 - 5 StR 385/17](5-str-385-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung des symptomatischen Zusammenhangs zwischen der psychischen Erkrankung und den
-- [BGH, Urteil vom 19.09.2017 - 5 StR 593/16](5-str-593-16.md) — Einwand der Unzuständigkeit des Gerichts durch den Angeklagten: Umfang der vorzunehmenden Prüfung; Bindungswirkung der Beschwerdeentscheidung zur örtlichen Zust
+- [BGH, Beschluss vom 19.09.2017 - 5 StR 385/17](5-str-385-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung des symptomatischen Zusammenhangs zwischen der psychischen Erkrankung und den begangenen …
+- [BGH, Urteil vom 19.09.2017 - 5 StR 593/16](5-str-593-16.md) — Einwand der Unzuständigkeit des Gerichts durch den Angeklagten: Umfang der vorzunehmenden Prüfung; Bindungswirkung der Beschwerdeentscheidung zur örtlichen Zuständigkeit
 - [BGH, Urteil vom 06.09.2017 - 5 StR 268/17](5-str-268-17.md) — Kapitalanlagebetrug: Schätzung einer "Irrtumsquote" bei Täuschung einer Vielzahl von Anlegern
-- [BGH, Urteil vom 05.09.2017 - 5 StR 222/17](5-str-222-17.md) — Schwere Brandstiftung: Teilweise Zerstörung eines gemischt genutzten Gebäudes durch Brandlegung; Voraussetzungen der Unbrauchbarkeit zu Wohnzwecken; teilweise Z
+- [BGH, Urteil vom 05.09.2017 - 5 StR 222/17](5-str-222-17.md) — Schwere Brandstiftung: Teilweise Zerstörung eines gemischt genutzten Gebäudes durch Brandlegung; Voraussetzungen der Unbrauchbarkeit zu Wohnzwecken; teilweise Zerstörung bei …
 - [BGH, Beschluss vom 05.09.2017 - 5 StR 361/17](5-str-361-17.md) — Wohnungseinbruchdiebstahl: Erstreckung des Wohnungsbegriffs auf Kellerräume und Wochenendhäuser
 - [BGH, Beschluss vom 28.08.2017 - 5 StR 484/16](5-str-484-16.md) — Betrug: Vermögensschaden durch Ausweitung des Kreditengagements
 - [BGH, Beschluss vom 23.08.2017 - 5 StR 303/17](5-str-303-17.md) — Rücktritt vom versuchten Mord: Anforderungen an die Urteilsfeststellungen hinsichtlich der Abgrenzung zwischen beendetem und unbeendetem Versuch
 - [BGH, Urteil vom 08.08.2017 - 5 StR 99/17](5-str-99-17.md) — Sicherungsverwahrung: Ermessensfehlerhafte Nichtanordnung der Maßregel
 - [BGH, Urteil vom 25.07.2017 - 5 StR 176/17](5-str-176-17.md) — Strafverfahren: Bindungswirkung einer informellen Absprache über das Strafmaß
-- [BGH, Beschluss vom 25.07.2017 - 5 StR 46/17](5-str-46-17.md) — Betrug und Untreue durch einen Kassenarzt: Täuschung und Vermögensschaden der Krankenkassen bei Verschreibung von Röntgenkontrastmitteln in Übermengen und Kick-
-- [BGH, Urteil vom 12.07.2017 - 5 StR 134/17](5-str-134-17.md) — Aussetzung und gefährliche Körperverletzung: Ablegen einer spärlich bekleideten, schwerstalkoholisierten Geschädigten im Freien bei einer Außentemperatur um den
-- [BGH, Beschluss vom 12.07.2017 - 5 StR 284/17](5-str-284-17.md) — Unerlaubter Besitz von Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei gleichzeitigem Besitz verschiedener Betäubungsmittel an verschiedenen
+- [BGH, Beschluss vom 25.07.2017 - 5 StR 46/17](5-str-46-17.md) — Betrug und Untreue durch einen Kassenarzt: Täuschung und Vermögensschaden der Krankenkassen bei Verschreibung von Röntgenkontrastmitteln in Übermengen und Kick-Back-Zahlungen an …
+- [BGH, Urteil vom 12.07.2017 - 5 StR 134/17](5-str-134-17.md) — Aussetzung und gefährliche Körperverletzung: Ablegen einer spärlich bekleideten, schwerstalkoholisierten Geschädigten im Freien bei einer Außentemperatur um den Gefrierpunkt …
+- [BGH, Beschluss vom 12.07.2017 - 5 StR 284/17](5-str-284-17.md) — Unerlaubter Besitz von Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei gleichzeitigem Besitz verschiedener Betäubungsmittel an verschiedenen Orten
 - [BGH, Urteil vom 11.07.2017 - 5 StR 112/17](5-str-112-17.md) — Sexueller Missbrauch von Schutzbefohlenen: Anforderungen an einen Missbrauch der Abhängigkeit
 - [BGH, Beschluss vom 29.06.2017 - 5 StR 226/17](5-str-226-17.md) — Strafverfahren: Verwertung des Geständnisses des Angeklagten aus einer zuvor gescheiterten Verständigung bei einer zweiten Verständigung
-- [BGH, Urteil vom 28.06.2017 - 5 StR 20/16](5-str-20-16.md) — Zur Frage der Strafbarkeit von Manipulationen im Rahmen der Verteilung von postmortal gespendeten Lebern wegen versuchten Totschlags oder versuchter Körperverle
+- [BGH, Urteil vom 28.06.2017 - 5 StR 20/16](5-str-20-16.md) — Zur Frage der Strafbarkeit von Manipulationen im Rahmen der Verteilung von postmortal gespendeten Lebern wegen versuchten Totschlags oder versuchter Körperverletzung.
 - [BGH, Urteil vom 28.06.2017 - 5 StR 8/17](5-str-8-17.md) — Neben lebenslanger Freiheitsstrafe, auch bei Feststellung besonderer Schuldschwere, ist die fakultative Anordnung der Sicherungsverwahrung zulässig.
 - [BGH, Beschluss vom 14.06.2017 - 5 StR 190/17](5-str-190-17.md) — Konkurrenzverhältnis bei Zusammentreffen mehrerer Betäubungsmitteldelikte
 - [BGH, Beschluss vom 31.05.2017 - 5 StR 149/17](5-str-149-17.md) — Revision in Strafsachen: Beweiswürdigung bei molekulargenetischer Vergleichsuntersuchung und Identifizierung des Täters anhand eines Fotos
@@ -43,33 +43,33 @@
 - [BGH, Beschluss vom 26.04.2017 - 5 StR 119/17](5-str-119-17.md) — Sicherungsverfahren: Wirksamkeit einer Einziehungsanordnung
 - [BGH, Urteil vom 26.04.2017 - 5 StR 572/16](5-str-572-16.md) — Sicherungsverwahrung: Bedeutung der Ursache des Hangs
 - [BGH, Urteil vom 25.04.2017 - 5 StR 106/17](5-str-106-17.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Beihilfe des Wohnungsinhabers bei Kenntnis und Billigung der Lagerung und des Vertriebs von Rauschmitteln
-- [BGH, Urteil vom 25.04.2017 - 5 StR 433/16](5-str-433-16.md) — Beweiswürdigung im Strafverfahren wegen schweren Raubs in Tateinheit mit gefährlicher Körperverletzung: Billigung eines Mittäterexzesses bei sukzessiver Mittäte
-- [BGH, Beschluss vom 25.04.2017 - 5 StR 78/17](5-str-78-17.md) — Unterbringung eines Straftäters in einem psychiatrischen Krankenhaus: Volle Schuldfähigkeit trotz erheblich verminderter Einsichtsfähigkeit; Anforderungen an di
+- [BGH, Urteil vom 25.04.2017 - 5 StR 433/16](5-str-433-16.md) — Beweiswürdigung im Strafverfahren wegen schweren Raubs in Tateinheit mit gefährlicher Körperverletzung: Billigung eines Mittäterexzesses bei sukzessiver Mittäterschaft
+- [BGH, Beschluss vom 25.04.2017 - 5 StR 78/17](5-str-78-17.md) — Unterbringung eines Straftäters in einem psychiatrischen Krankenhaus: Volle Schuldfähigkeit trotz erheblich verminderter Einsichtsfähigkeit; Anforderungen an die …
 - [BGH, Beschluss vom 25.04.2017 - 5 StR 95/17](5-str-95-17.md) — Revision in Strafsachen: Notwendige Darlegung der wirtschaftlichen Verhältnisse im Prozesskostenhilfeantrag eines Nebenklägers
 - [BGH, Beschluss vom 10.04.2017 - 5 StR 493/16](5-str-493-16.md) — Akteneinsichtsrecht: Anspruch eines Verteidigers auf Einsicht in das Senatsheft
 - [BGH, Beschluss vom 05.04.2017 - 5 StR 111/17](5-str-111-17.md) — Jugendstrafverfahren wegen Betäubungsmitteldelikts: Anordnung der Unterbringung in einer Entziehungsanstalt
 - [BGH, Beschluss vom 05.04.2017 - 5 StR 61/17](5-str-61-17.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bestimmung des Eigenverbrauchanteils; Konkurrenz beim wiederholten Rauschgifterwerb zum Weiterverkauf
 - [BGH, Beschluss vom 05.04.2017 - 5 StR 86/17](5-str-86-17.md) — Maßregelvollstreckung: Anforderungen an die Anordnung einer nachträglichen Sicherungsverwahrung in Altfällen
-- [BGH, Beschluss vom 23.03.2017 - 5 StR 495/16](5-str-495-16.md) — Hauptverhandlung in Strafsachen: Verletzung des Rechts auf konfrontative Befragung bei Weigerung des Mitangeklagten hinsichtlich der Beantwortung von Fragen des
+- [BGH, Beschluss vom 23.03.2017 - 5 StR 495/16](5-str-495-16.md) — Hauptverhandlung in Strafsachen: Verletzung des Rechts auf konfrontative Befragung bei Weigerung des Mitangeklagten hinsichtlich der Beantwortung von Fragen des Angeklagten oder …
 - [BGH, Beschluss vom 22.03.2017 - 5 StR 583/16](5-str-583-16.md) — Strafverfahren: Ungeeignete Begründung des Ablehnungsgesuchs; Befangenheitsbesorgnis bei Beteiligung des Richters an einer Vorentscheidung
 - [BGH, Beschluss vom 22.03.2017 - 5 StR 6/17](5-str-6-17.md) — Versuchter Mord: Abgrenzung zwischen beendetem und unbeendetem Versuch
 - [BGH, Beschluss vom 21.03.2017 - 5 StR 73/17](5-str-73-17.md) — Verständigung im Strafprozess: Heilung des Verstoßes gegen die Belehrungspflicht
 - [BGH, Beschluss vom 21.03.2017 - 5 StR 81/17](5-str-81-17.md) — Revision im Strafverfahren: Umfang der Bindungswirkung eines teilrechtskräftigen Urteils nach Aufhebung des Strafausspruchs
 - [BGH, Urteil vom 08.03.2017 - 5 StR 333/16](5-str-333-16.md) — Die sogenannte Rückführungsrichtlinie steht der Strafbarkeit des „Schleusers“ nach § 96 AufenthG nicht entgegen.
-- [BGH, Urteil vom 08.03.2017 - 5 StR 537/16](5-str-537-16.md) — Revision in Strafsachen: Wirksamkeit der Beschränkung des Rechtsmittels auf den Maßregelausspruch bei untrennbarem Zusammenhang mit der Bewährungsentscheidung; 
-- [BGH, Beschluss vom 07.03.2017 - 5 StR 38/17](5-str-38-17.md) — Betäubungsmitteldelikt: Bewertungseinheit beim Handeltreiben; Bemessung der Dauer des Vorwegvollzugs der Freiheitsstrafe vor der Unterbringung in einer Entziehu
+- [BGH, Urteil vom 08.03.2017 - 5 StR 537/16](5-str-537-16.md) — Revision in Strafsachen: Wirksamkeit der Beschränkung des Rechtsmittels auf den Maßregelausspruch bei untrennbarem Zusammenhang mit der Bewährungsentscheidung; Aussetzung der …
+- [BGH, Beschluss vom 07.03.2017 - 5 StR 38/17](5-str-38-17.md) — Betäubungsmitteldelikt: Bewertungseinheit beim Handeltreiben; Bemessung der Dauer des Vorwegvollzugs der Freiheitsstrafe vor der Unterbringung in einer Entziehungsanstalt
 - [BGH, Beschluss vom 07.03.2017 - 5 StR 609/16](5-str-609-16.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Gefährlichkeitsprognose bei nicht erheblicher Anlasstat
 - [BGH, Beschluss vom 23.02.2017 - 5 ARs 54/16](5-ars-54-16.md) — BGH, Beschluss 5 ARs 54/16
 - [BGH, Beschluss vom 23.02.2017 - 5 ARs 57/16](5-ars-57-16.md) — BGH, Beschluss 5 ARs 57/16
 - [BGH, Beschluss vom 08.02.2017 - 5 StR 561/16](5-str-561-16.md) — Betäubungsmitteldelikt: Bestimmung eines Minderjährigen zur Abgabe von Betäubungsmitteln; Anordnung der Unterbringung in einer Entziehungsanstalt
 - [BGH, Beschluss vom 07.02.2017 - 5 ARs 47/16](5-ars-47-16.md) — BGH, Beschluss 5 ARs 47/16
-- [BGH, Urteil vom 07.02.2017 - 5 StR 483/16](5-str-483-16.md) — Für die Dauerhaftigkeit des Verlustes der Gebrauchsfähigkeit eines Körperglieds kommt es grundsätzlich nicht darauf an, ob das Opfer eine ihm mögliche medizinis
+- [BGH, Urteil vom 07.02.2017 - 5 StR 483/16](5-str-483-16.md) — Für die Dauerhaftigkeit des Verlustes der Gebrauchsfähigkeit eines Körperglieds kommt es grundsätzlich nicht darauf an, ob das Opfer eine ihm mögliche medizinische Behandlung …
 - [BGH, Beschluss vom 26.01.2017 - 5 StR 541/16](5-str-541-16.md) — Tatrichterliche Beweiswürdigung: Beachtlichkeit der Aussage eines lügenden Zeugen
 - [BGH, Urteil vom 25.01.2017 - 5 StR 364/16](5-str-364-16.md) — Bestechlichkeit: Vorliegen einer Bande
 - [BGH, Beschluss vom 24.01.2017 - 5 StR 15/17](5-str-15-17.md) — Verständigung im Strafprozess: Belehrungspflicht hinsichtlich der Möglichkeit eines Entfallens der Bindung des Gerichts an die Verständigung
 - [BGH, Beschluss vom 24.01.2017 - 5 StR 601/16](5-str-601-16.md) — Nachträgliche Gesamtstrafenbildung: Notwendige Feststellung des Vollstreckungsstandes wegen möglicher Beschwer durch Vollzug einer Ersatzfreiheitsstrafe
 - [BGH, Beschluss vom 24.01.2017 - 5 StR 607/16](5-str-607-16.md) — Strafverfahren: Gerichtliche Mitteilungspflicht bei verständigungsbezogenen Erörterungen in der Hauptverhandlung
-- [BGH, Beschluss vom 12.01.2017 - 5 StR 548/16](5-str-548-16.md) — Weder aus § 153 Abs. 2 und 5 Satz 1 GVG noch aus § 20 Bremisches AGGVG ergibt sich, dass nur der erkennenden Strafkammer zugewiesene "Stationsreferendare" für A
-- [BGH, Beschluss vom 11.01.2017 - 5 StR 164/16](5-str-164-16.md) — Für die Verwirklichung des objektiven Tatbestandes des § 303b Abs. 1 StGB ist es unerheblich, ob der betroffene Datenverarbeitungsvorgang rechtmäßigen oder rech
-- [BGH, Urteil vom 11.01.2017 - 5 StR 409/16](5-str-409-16.md) — Schwere Brandstiftung und gefährlichem Eingriff in den Straßenverkehr in Suizidabsicht: Bedingter Tötungsvorsatz bei einer Brandstiftung und anschließender Herb
-- [BGH, Beschluss vom 10.01.2017 - 5 StR 532/16](5-str-532-16.md) — Durch die Neufassung von § 38 Abs. 3 Nr. 1, § 39 Abs. 3d Nr. 2 WpHG zum 2. Juli 2016 ist es zu keiner Lücke in der Ahndbarkeit von Insiderhandel und Marktmanipu
+- [BGH, Beschluss vom 12.01.2017 - 5 StR 548/16](5-str-548-16.md) — Weder aus § 153 Abs. 2 und 5 Satz 1 GVG noch aus § 20 Bremisches AGGVG ergibt sich, dass nur der erkennenden Strafkammer zugewiesene "Stationsreferendare" für Aufgaben der …
+- [BGH, Beschluss vom 11.01.2017 - 5 StR 164/16](5-str-164-16.md) — Für die Verwirklichung des objektiven Tatbestandes des § 303b Abs. 1 StGB ist es unerheblich, ob der betroffene Datenverarbeitungsvorgang rechtmäßigen oder rechtswidrigen Zwecken …
+- [BGH, Urteil vom 11.01.2017 - 5 StR 409/16](5-str-409-16.md) — Schwere Brandstiftung und gefährlichem Eingriff in den Straßenverkehr in Suizidabsicht: Bedingter Tötungsvorsatz bei einer Brandstiftung und anschließender Herbeiführung eines …
+- [BGH, Beschluss vom 10.01.2017 - 5 StR 532/16](5-str-532-16.md) — Durch die Neufassung von § 38 Abs. 3 Nr. 1, § 39 Abs. 3d Nr. 2 WpHG zum 2. Juli 2016 ist es zu keiner Lücke in der Ahndbarkeit von Insiderhandel und Marktmanipulation gekommen.

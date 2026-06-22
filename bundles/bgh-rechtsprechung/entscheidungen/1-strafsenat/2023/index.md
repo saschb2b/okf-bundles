@@ -21,7 +21,7 @@
 - [BGH, Beschluss vom 16.11.2023 - 1 StR 378/23](1-str-378-23.md) — Gewerbsmäßige Einfuhr von Kriegswaffen; Anforderungen an die Wiederholungsabsicht und Einnahmequelle
 - [BGH, Urteil vom 15.11.2023 - 1 StR 104/23](1-str-104-23.md) — Heimtückischer Mord bei Stichverletzung nach kurzer verbaler Auseinandersetzung
 - [BGH, Beschluss vom 15.11.2023 - 1 StR 369/23](1-str-369-23.md) — Gefährliche Körperverletzung: Anforderungen an ein gemeinschaftliches Handeln
-- [BGH, Beschluss vom 14.11.2023 - 1 StR 142/23](1-str-142-23.md) — Unversteuerte Zigaretten unterfallen bei der Tatvariante der Erwerbshehlerei („Sichverschaffen“, § 374 Abs. 1 Variante 1 AO, mit der Untervariante des „Ankaufen
+- [BGH, Beschluss vom 14.11.2023 - 1 StR 142/23](1-str-142-23.md) — Unversteuerte Zigaretten unterfallen bei der Tatvariante der Erwerbshehlerei („Sichverschaffen“, § 374 Abs. 1 Variante 1 AO, mit der Untervariante des „Ankaufens“) als Tatertrag …
 - [BGH, Beschluss vom 14.11.2023 - 1 StR 224/23](1-str-224-23.md) — BGH, Beschluss 1 StR 224/23
 - [BGH, Beschluss vom 14.11.2023 - 1 StR 354/23](1-str-354-23.md) — Unterbringung in einer Entziehungsanstalt: Berechnung des Vorwegvollzugs einer Gesamtfreiheitsstrafe nach neuem Recht
 - [BGH, Beschluss vom 08.11.2023 - 1 StR 305/23](1-str-305-23.md) — BGH, Beschluss 1 StR 305/23
@@ -29,14 +29,14 @@
 - [BGH, Beschluss vom 19.10.2023 - 1 StR 315/23](1-str-315-23.md) — BGH, Beschluss 1 StR 315/23
 - [BGH, Beschluss vom 18.10.2023 - 1 StR 146/23](1-str-146-23.md) — Bei § 75a Abs. 1 Alt. 1 IfSG i.V.m. § 22 Abs. 5 Satz 1 IfSG in der Fassung vom 28. Mai 2021 handelt es sich um ein Allgemeindelikt.
 - [BGH, Urteil vom 18.10.2023 - 1 StR 214/23](1-str-214-23.md) — Anforderungen an die Feststellungen zur Annahme einer "überwiegenden" Ursächlichkeit eines Hangs zum übermäßigen Rauschmittelkonsum und begangener Anlasstaten
-- [BGH, Beschluss vom 18.10.2023 - 1 StR 222/23](1-str-222-23.md) — Gestattet ein Zeuge trotz Ausübung seines Zeugnisverweigerungsrechts aus § 52 Abs. 1 StPO die Verwertung früherer Aussagen, so kann er dies nicht auf einzelne V
+- [BGH, Beschluss vom 18.10.2023 - 1 StR 222/23](1-str-222-23.md) — Gestattet ein Zeuge trotz Ausübung seines Zeugnisverweigerungsrechts aus § 52 Abs. 1 StPO die Verwertung früherer Aussagen, so kann er dies nicht auf einzelne Vernehmungen …
 - [BGH, Urteil vom 18.10.2023 - 1 StR 225/23](1-str-225-23.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
 - [BGH, Beschluss vom 18.10.2023 - 1 StR 285/23](1-str-285-23.md) — BGH, Beschluss 1 StR 285/23
 - [BGH, Beschluss vom 18.10.2023 - 1 StR 334/23](1-str-334-23.md) — BGH, Beschluss 1 StR 334/23
-- [BGH, Beschluss vom 17.10.2023 - 1 StR 151/23](1-str-151-23.md) — 1. Das Merkmal "mit einem von den Goldmärkten akzeptierten Gewicht" im Sinne des § 25c Abs. 2 Nr. 1 UStG bedingt, dass in die Barren oder Plättchen Angaben des 
+- [BGH, Beschluss vom 17.10.2023 - 1 StR 151/23](1-str-151-23.md) — 1. Das Merkmal "mit einem von den Goldmärkten akzeptierten Gewicht" im Sinne des § 25c Abs. 2 Nr. 1 UStG bedingt, dass in die Barren oder Plättchen Angaben des Herstellers, des …
 - [BGH, Beschluss vom 17.10.2023 - 1 StR 184/23](1-str-184-23.md) — BGH, Beschluss 1 StR 184/23
 - [BGH, Beschluss vom 17.10.2023 - 1 StR 193/23](1-str-193-23.md) — BGH, Beschluss 1 StR 193/23
-- [BGH, Beschluss vom 05.10.2023 - 1 StR 328/23](1-str-328-23.md) — Steuerstrafverfahren gegen einen Gebrauchtwagenhändler: Umfang der Einkommen- und Gewerbesteuerhinterziehung bei Gewinnermittlung durch Einnahmeüberschussrechnu
+- [BGH, Beschluss vom 05.10.2023 - 1 StR 328/23](1-str-328-23.md) — Steuerstrafverfahren gegen einen Gebrauchtwagenhändler: Umfang der Einkommen- und Gewerbesteuerhinterziehung bei Gewinnermittlung durch Einnahmeüberschussrechnung
 - [BGH, Beschluss vom 04.10.2023 - 1 StR 312/23](1-str-312-23.md) — Gefährlichkeitsprognose: Notwendigkeit der umfassenden Würdigung der vom Täter begangenen Anlasstaten sowie seiner früheren Taten
 - [BGH, Urteil vom 20.09.2023 - 1 StR 152/23](1-str-152-23.md) — Beweiswürdigung bei „Aussage gegen Aussage“-Situation und Lügen des einzigen Belastungszeugen
 - [BGH, Beschluss vom 20.09.2023 - 1 StR 164/23](1-str-164-23.md) — BGH, Beschluss 1 StR 164/23
@@ -46,10 +46,10 @@
 - [BGH, Beschluss vom 19.09.2023 - 1 StR 199/23](1-str-199-23.md) — Anforderungen an richterliche Darlegung zu Unterbringung in Entziehungsanstalt bei Abweichung von Sachverständigengutachten
 - [BGH, Beschluss vom 19.09.2023 - 1 StR 281/23](1-str-281-23.md) — Anfechtung der Einziehungsanordnung; abschöpfbare Vermögensvorteile in Form von Steuerersparnissen
 - [BGH, Beschluss vom 06.09.2023 - 1 StR 301/23](1-str-301-23.md) — Notwendige Feststellungen zum prognostizierten Therapieerfolg bei Anordnung der Unterbringung in einer Entziehungsanstalt
-- [BGH, Urteil vom 06.09.2023 - 1 StR 57/23](1-str-57-23.md) — Strafverurteilung wegen Beihilfe zum Vorenthalten und Veruntreuen von Arbeitsentgelt: Schwarzarbeit in der Baubranche und Abgrenzung von Tateinheit und Tatmehrh
+- [BGH, Urteil vom 06.09.2023 - 1 StR 57/23](1-str-57-23.md) — Strafverurteilung wegen Beihilfe zum Vorenthalten und Veruntreuen von Arbeitsentgelt: Schwarzarbeit in der Baubranche und Abgrenzung von Tateinheit und Tatmehrheit
 - [BGH, Beschluss vom 05.09.2023 - 1 StR 109/23](1-str-109-23.md) — Notwendige Feststellungen vor Verurteilung wegen Steuerhehlerei bzw. Beihilfe zur versuchten Steuerhehlerei
-- [BGH, Beschluss vom 05.09.2023 - 1 StR 195/23](1-str-195-23.md) — Unterbringungsanordnung: Berücksichtigung der Krankheits- und Kriminalitätsentwicklung sowie von Risikofaktoren bezüglich der Person des Täters und seiner konkr
-- [BGH, Beschluss vom 05.09.2023 - 1 StR 207/23](1-str-207-23.md) — Steuerhinterziehung durch den Betreiber einer Pizzeria: Schätzung der Besteuerungsgrundlagen; interner Betriebsvergleich als Schätzmethode; Wahl der Gewinnermit
+- [BGH, Beschluss vom 05.09.2023 - 1 StR 195/23](1-str-195-23.md) — Unterbringungsanordnung: Berücksichtigung der Krankheits- und Kriminalitätsentwicklung sowie von Risikofaktoren bezüglich der Person des Täters und seiner konkreten Lebenssituation
+- [BGH, Beschluss vom 05.09.2023 - 1 StR 207/23](1-str-207-23.md) — Steuerhinterziehung durch den Betreiber einer Pizzeria: Schätzung der Besteuerungsgrundlagen; interner Betriebsvergleich als Schätzmethode; Wahl der Gewinnermittlungsart; Ausübung …
 - [BGH, Beschluss vom 29.08.2023 - 1 StR 178/23](1-str-178-23.md) — Strafverurteilung wegen besonders schwerer Brandstiftung: Schuldfähigkeitsprüfung bei bipolarer Störung
 - [BGH, Beschluss vom 29.08.2023 - 1 StR 211/23](1-str-211-23.md) — Verständigungsgespräch im Strafverfahren wegen Steuerhinterziehung: Mitteilungspflicht über Rechtsgespräch zur Verfahrenserledigung
 - [BGH, Beschluss vom 29.08.2023 - 1 StR 229/23](1-str-229-23.md) — Strafzumessung wegen Beihilfe zur Geldfälschung: Prüfungsreihenfolge in minder schweren Fällen
@@ -63,13 +63,13 @@
 - [BGH, Beschluss vom 08.08.2023 - 1 StR 240/23](1-str-240-23.md) — Zulässigkeit von Adhäsionsanträgen auf Hinterbliebenengeld; Erlass eines Grundurteils
 - [BGH, Beschluss vom 25.07.2023 - 1 StR 210/23](1-str-210-23.md) — BGH, Beschluss 1 StR 210/23
 - [BGH, Beschluss vom 13.07.2023 - 1 StR 286/22](1-str-286-22.md) — BGH, Beschluss 1 StR 286/22
-- [BGH, Urteil vom 12.07.2023 - 1 StR 106/23](1-str-106-23.md) — (Anforderungen an Darstellung der Feststellungen zur Beurteilung der Schuldfähigkeit; Gefährlichkeitsprognose vor dem Hintergrund tätlicher Angriffe gegen Poliz
+- [BGH, Urteil vom 12.07.2023 - 1 StR 106/23](1-str-106-23.md) — (Anforderungen an Darstellung der Feststellungen zur Beurteilung der Schuldfähigkeit; Gefährlichkeitsprognose vor dem Hintergrund tätlicher Angriffe gegen Polizeibeamte)
 - [BGH, Beschluss vom 12.07.2023 - 1 StR 132/23](1-str-132-23.md) — BGH, Beschluss 1 StR 132/23
 - [BGH, Urteil vom 12.07.2023 - 1 StR 260/22](1-str-260-22.md) — BGH, Urteil 1 StR 260/22
 - [BGH, Beschluss vom 12.07.2023 - 1 StR 457/22](1-str-457-22.md) — BGH, Beschluss 1 StR 457/22
 - [BGH, Urteil vom 12.07.2023 - 1 StR 69/23](1-str-69-23.md) — Versuchter Totschlag: Erstreckung des in-dubio-pro-reo-Grundsatzes auf Voraussetzungen der Notwehr
 - [BGH, Beschluss vom 11.07.2023 - 1 StR 162/23](1-str-162-23.md) — BGH, Beschluss 1 StR 162/23
-- [BGH, Beschluss vom 11.07.2023 - 1 StR 192/23](1-str-192-23.md) — Strafverfahren wegen schweren Sexualdelikten: Prüfung eines Hangs zu regelmäßigem Alkoholkonsum bei Straftatausführung unter Alkoholeinfluss im Rahmen der Entsc
+- [BGH, Beschluss vom 11.07.2023 - 1 StR 192/23](1-str-192-23.md) — Strafverfahren wegen schweren Sexualdelikten: Prüfung eines Hangs zu regelmäßigem Alkoholkonsum bei Straftatausführung unter Alkoholeinfluss im Rahmen der Entscheidung über die …
 - [BGH, Beschluss vom 11.07.2023 - 1 StR 92/23](1-str-92-23.md) — Reduzierung des Umfangs einer Einziehungsanordnung; Dokumentation der Beweiswürdigung in den Urteilsgründen
 - [BGH, Beschluss vom 28.06.2023 - 1 StR 180/23](1-str-180-23.md) — Zäsurwirkung bei Gesamtstrafenbildung aus Einzelstrafen für nachfolgende Taten
 - [BGH, Urteil vom 28.06.2023 - 1 StR 421/22](1-str-421-22.md) — BGH, Urteil 1 StR 421/22
@@ -81,7 +81,7 @@
 - [BGH, Beschluss vom 14.06.2023 - 1 StR 155/23](1-str-155-23.md) — BGH, Beschluss 1 StR 155/23
 - [BGH, Urteil vom 14.06.2023 - 1 StR 209/22](1-str-209-22.md) — Einkommensteuerhinterziehung: Annahme eines steuerpflichtigen Veräußerungsgewinns bei Veräußerung von Anteilen einer Kapitalgesellschaft
 - [BGH, Urteil vom 14.06.2023 - 1 StR 304/22](1-str-304-22.md) — Strafbarkeit wegen Steuerhinterziehung von mehreren Personen: Annahme einer Bande
-- [BGH, Beschluss vom 14.06.2023 - 1 StR 327/22](1-str-327-22.md) — 1. Nach § 283 Abs. 1 Nr. 1 StGB beiseite geschaffte oder verheimlichte Gegenstände oder wirtschaftliche Vorteile sind Taterträge im Sinne des § 73 Abs. 1 Altern
+- [BGH, Beschluss vom 14.06.2023 - 1 StR 327/22](1-str-327-22.md) — 1. Nach § 283 Abs. 1 Nr. 1 StGB beiseite geschaffte oder verheimlichte Gegenstände oder wirtschaftliche Vorteile sind Taterträge im Sinne des § 73 Abs. 1 Alternative 1 StGB. 2 …
 - [BGH, Urteil vom 14.06.2023 - 1 StR 399/22](1-str-399-22.md) — Tötung eines Kleinkindes: Mordmerkmal der niedrigen Beweggründe; Vorliegen eines Motivbündels
 - [BGH, Beschluss vom 14.06.2023 - 1 StR 413/22](1-str-413-22.md) — BGH, Beschluss 1 StR 413/22
 - [BGH, Urteil vom 14.06.2023 - 1 StR 74/22](1-str-74-22.md) — Arbeitgeberstellung für Zwecke des Veruntreuens von Arbeitsentgelt und der Abgabe von Lohnsteueranmeldungen
@@ -96,7 +96,7 @@
 - [BGH, Beschluss vom 16.05.2023 - 1 StR 472/22](1-str-472-22.md) — BGH, Beschluss 1 StR 472/22
 - [BGH, Beschluss vom 16.05.2023 - 1 StR 79/23](1-str-79-23.md) — Steuerhinterziehung durch unterlassene Abgabe der Einkommensteuererklärung; Einziehung bei Versuchsstraftat
 - [BGH, Beschluss vom 16.05.2023 - 1 StR 90/23](1-str-90-23.md) — BGH, Beschluss 1 StR 90/23
-- [BGH, Beschluss vom 02.05.2023 - 1 StR 41/23](1-str-41-23.md) — Strafrechtliche Unterbringung in einer Entziehungsanstalt: Feststellung verminderter Schuldfähigkeit nach Alkohol- und Drogenkonsum auf Basis eines Sachverständ
+- [BGH, Beschluss vom 02.05.2023 - 1 StR 41/23](1-str-41-23.md) — Strafrechtliche Unterbringung in einer Entziehungsanstalt: Feststellung verminderter Schuldfähigkeit nach Alkohol- und Drogenkonsum auf Basis eines Sachverständigengutachtens
 - [BGH, Beschluss vom 02.05.2023 - 1 StR 77/23](1-str-77-23.md) — Einziehung des Wertes von Taterträgen in Form ersparter Aufwendungen bei nicht abgeführter Umsatzsteuer
 - [BGH, Beschluss vom 20.04.2023 - 1 StR 101/23](1-str-101-23.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt und Steuerhinterziehung: Anforderungen an Feststellungen im Urteil
 - [BGH, Beschluss vom 19.04.2023 - 1 StR 14/23](1-str-14-23.md) — Steuerhinterziehung in der Form des Erlangens unberechtigter Vorsteuervergütungen
@@ -108,29 +108,29 @@
 - [BGH, Beschluss vom 06.04.2023 - 1 StR 36/23](1-str-36-23.md) — Strafverurteilung wegen versuchter Steuerhinterziehung: Einziehung des Wertersatzes aus nicht vollendeten Taten
 - [BGH, Beschluss vom 06.04.2023 - 1 StR 412/22](1-str-412-22.md) — Steuerstrafverfahren: Einziehung von Tatbeiträgen bei versuchter Hinterziehung von Einkommensteuer
 - [BGH, Beschluss vom 06.04.2023 - 1 StR 61/23](1-str-61-23.md) — BGH, Beschluss 1 StR 61/23
-- [BGH, Beschluss vom 05.04.2023 - 1 StR 379/22](1-str-379-22.md) — (Erlöschen des staatlichen Einziehungsanspruchs gegen die Mitangeklagten aufgrund der im Wege der Zwangsvollstreckung bei einem Tatbeteiligten erfolgten Befried
+- [BGH, Beschluss vom 05.04.2023 - 1 StR 379/22](1-str-379-22.md) — (Erlöschen des staatlichen Einziehungsanspruchs gegen die Mitangeklagten aufgrund der im Wege der Zwangsvollstreckung bei einem Tatbeteiligten erfolgten Befriedigung von …
 - [BGH, Beschluss vom 05.04.2023 - 1 StR 49/23](1-str-49-23.md) — Gewerbsmäßige Steuerhehlerei: Abgrenzung zur Steuerhinterziehung bei Übernahme unversteuerter Zigaretten zum Zwecke des inländischen Weiterverkaufs
 - [BGH, Beschluss vom 05.04.2023 - 1 StR 56/23](1-str-56-23.md) — BGH, Beschluss 1 StR 56/23
 - [BGH, Beschluss vom 05.04.2023 - 1 StR 85/23](1-str-85-23.md) — BGH, Beschluss 1 StR 85/23
 - [BGH, Beschluss vom 04.04.2023 - 1 StR 455/22](1-str-455-22.md) — Pflicht zur erneuten Mitteilung über Verständigungsgespräch
-- [BGH, Beschluss vom 04.04.2023 - 1 StR 477/22](1-str-477-22.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus im Sicherungsverfahren: Erfordernis einer widerspruchsfreien Darlegung zur Schuldfähigkeit des 
+- [BGH, Beschluss vom 04.04.2023 - 1 StR 477/22](1-str-477-22.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus im Sicherungsverfahren: Erfordernis einer widerspruchsfreien Darlegung zur Schuldfähigkeit des Beschuldigten
 - [BGH, Beschluss vom 04.04.2023 - 1 StR 487/22](1-str-487-22.md) — BGH, Beschluss 1 StR 487/22
 - [BGH, Urteil vom 04.04.2023 - 1 StR 488/22](1-str-488-22.md) — Totschlag: minder schwerer Fall ohne Berücksichtigung des vertypten Milderungsgrundes der verminderten Schuldfähigkeit
 - [BGH, Beschluss vom 04.04.2023 - 1 StR 82/23](1-str-82-23.md) — BGH, Beschluss 1 StR 82/23
 - [BGH, Beschluss vom 23.03.2023 - 1 StR 47/23](1-str-47-23.md) — Notwendige Darstellung in Unterbringungsanordnung bei geringfügigen Anlasstaten
 - [BGH, Urteil vom 22.03.2023 - 1 StR 243/22](1-str-243-22.md) — Revision im Strafverfahren wegen Vergewaltigung: Beruhen des Urteils auf einer unter Ausschluss der Öffentlichkeit erfolgten Zeugenbelehrung
-- [BGH, Urteil vom 22.03.2023 - 1 StR 335/22](1-str-335-22.md) — 1. Das innerstaatliche Strafanwendungsrecht umfasst im Falle des unbefugten Vertriebs von Betäubungsmitteln i.S.d. § 6 Nr. 5 StGB unabhängig vom Recht des Tator
+- [BGH, Urteil vom 22.03.2023 - 1 StR 335/22](1-str-335-22.md) — 1. Das innerstaatliche Strafanwendungsrecht umfasst im Falle des unbefugten Vertriebs von Betäubungsmitteln i.S.d. § 6 Nr. 5 StGB unabhängig vom Recht des Tatorts auch die …
 - [BGH, Beschluss vom 22.03.2023 - 1 StR 336/22](1-str-336-22.md) — Gewerbsmäßiger Bandenbetrug: Tateinheitliche Verurteilung eines Bandenmitglieds beim sog. Stoßbetrug
 - [BGH, Beschluss vom 22.03.2023 - 1 StR 343/22](1-str-343-22.md) — Abschöpfung von hinterzogenen Steuern bei dritteinzugsbeteiligtem Unternehmen
 - [BGH, Urteil vom 22.03.2023 - 1 StR 360/22](1-str-360-22.md) — BGH, Urteil 1 StR 360/22
 - [BGH, Beschluss vom 22.03.2023 - 1 StR 361/22](1-str-361-22.md) — Steuerstrafsache: Umsatzsteuerhinziehung bei der Vermietung von Zimmern an Prostituierte
-- [BGH, Beschluss vom 22.03.2023 - 1 StR 440/22](1-str-440-22.md) — Umsatzsteuerverkürzung durch Unterlassen: Formelle Wirksamkeit einer erschlichenen Befreiung einer GmbH von der Pflicht zur Abgabe einer monatlichen Umsatzsteue
+- [BGH, Beschluss vom 22.03.2023 - 1 StR 440/22](1-str-440-22.md) — Umsatzsteuerverkürzung durch Unterlassen: Formelle Wirksamkeit einer erschlichenen Befreiung einer GmbH von der Pflicht zur Abgabe einer monatlichen Umsatzsteuervoranmeldung
 - [BGH, Beschluss vom 21.03.2023 - 1 StR 68/23](1-str-68-23.md) — BGH, Beschluss 1 StR 68/23
 - [BGH, Beschluss vom 20.03.2023 - 1 StR 266/22](1-str-266-22.md) — Berufsverbot wegen unzulässiger Cannabis-Verschreibung
 - [BGH, Beschluss vom 09.03.2023 - 1 StR 15/23](1-str-15-23.md) — BGH, Beschluss 1 StR 15/23
 - [BGH, Beschluss vom 09.03.2023 - 1 StR 489/22](1-str-489-22.md) — BGH, Beschluss 1 StR 489/22
-- [BGH, Beschluss vom 08.03.2023 - 1 StR 130/22](1-str-130-22.md) — Strafzumessung: Härteausgleich für den aus der fehlenden Gesamtstrafenbildung mit den Strafen aus in anderen Mitgliedstaaten der EU ergangenen Verurteilungen re
-- [BGH, Urteil vom 08.03.2023 - 1 StR 188/22](1-str-188-22.md) — 1. Für die Abgrenzung von sog. scheinselbständigen Rechtsanwälten und freien Mitarbeitern einer Rechtsanwaltskanzlei ist das Gesamtbild der Arbeitsleistung maßg
+- [BGH, Beschluss vom 08.03.2023 - 1 StR 130/22](1-str-130-22.md) — Strafzumessung: Härteausgleich für den aus der fehlenden Gesamtstrafenbildung mit den Strafen aus in anderen Mitgliedstaaten der EU ergangenen Verurteilungen resultierenden …
+- [BGH, Urteil vom 08.03.2023 - 1 StR 188/22](1-str-188-22.md) — 1. Für die Abgrenzung von sog. scheinselbständigen Rechtsanwälten und freien Mitarbeitern einer Rechtsanwaltskanzlei ist das Gesamtbild der Arbeitsleistung maßgebend; soweit die …
 - [BGH, Beschluss vom 08.03.2023 - 1 StR 19/23](1-str-19-23.md) — Pflicht zur Information über verständigungsbezogene Erörterungen
 - [BGH, Beschluss vom 08.03.2023 - 1 StR 22/23](1-str-22-23.md) — Vermögensabschöpfung bei einer Umsatzsteuerhinterziehungskette
 - [BGH, Beschluss vom 08.03.2023 - 1 StR 28/23](1-str-28-23.md) — BGH, Beschluss 1 StR 28/23
@@ -146,7 +146,7 @@
 - [BGH, Beschluss vom 26.01.2023 - 1 StR 451/22](1-str-451-22.md) — BGH, Beschluss 1 StR 451/22
 - [BGH, Urteil vom 25.01.2023 - 1 StR 199/22](1-str-199-22.md) — Steuerhinterziehung: Vorliegen des subjektiven Tatbestands bei Vertrauen in Mitarbeiter und Steuerberater
 - [BGH, Urteil vom 25.01.2023 - 1 StR 284/22](1-str-284-22.md) — Versuchter Mord: Mordmerkmal der niedrigen Beweggründe; Vorliegen eines Motivbündels; Strafrahmenverschiebung
-- [BGH, Beschluss vom 25.01.2023 - 1 StR 288/22](1-str-288-22.md) — Verständigung im Strafverfahren: Mitteilungspflicht zu Erörterung über eine Einziehung von Taterträgen im Hauptsacheverfahren im abgetrennten Verfahren über die
+- [BGH, Beschluss vom 25.01.2023 - 1 StR 288/22](1-str-288-22.md) — Verständigung im Strafverfahren: Mitteilungspflicht zu Erörterung über eine Einziehung von Taterträgen im Hauptsacheverfahren im abgetrennten Verfahren über die Einziehung
 - [BGH, Beschluss vom 25.01.2023 - 1 StR 406/22](1-str-406-22.md) — BGH, Beschluss 1 StR 406/22
 - [BGH, Beschluss vom 24.01.2023 - 1 StR 201/22](1-str-201-22.md) — Beweiswürdigung bei Veruntreuen und Vorenthalten von Arbeitsentgelt: Rechtsfehlerhafte Berechnung der Beitragsanteile zur gesetzlichen Pflegeversicherung
 - [BGH, Beschluss vom 24.01.2023 - 1 StR 423/22](1-str-423-22.md) — Ausgleichung wegen ausländischer Verurteilung

@@ -6,31 +6,31 @@
 - [BGH, Beschluss vom 15.12.2025 - II ZB 20/24](ii-zb-20-24.md) — BGH, Beschluss II ZB 20/24
 - [BGH, Beschluss vom 15.12.2025 - II ZR 144/24](ii-zr-144-24.md) — BGH, Beschluss II ZR 144/24
 - [BGH, Urteil vom 10.12.2025 - II ZR 128/24](ii-zr-128-24.md) — Zur Auslegung einer Verjährungseinredeverzichtserklärung eines vom Insolvenzverwalter nach § 64 GmbHG a.F. in Anspruch genommenen Geschäftsführers.
-- [BGH, Beschluss vom 10.12.2025 - II ZR 129/24](ii-zr-129-24.md) — Die Erhebung einer Klage auf Schadensersatz, die auf Rückabwicklung einer Kapitalanlage (hier: atypisch stille Gesellschaft) zielt, kann als eine materiell-rech
-- [BGH, Urteil vom 10.12.2025 - II ZR 132/24](ii-zr-132-24.md) — Ein Vereinsmitglied hat ein berechtigtes Interesse an der Mitteilung der E-Mail-Adressen der anderen Vereinsmitglieder, wenn es mit diesen im Vorfeld einer Mitg
-- [BGH, Urteil vom 02.12.2025 - II ZR 114/24](ii-zr-114-24.md) — Die Haftung eines Geschäftsführers wegen sittenwidriger Schädigung durch Unterstützung eines von der Gesellschaft betriebenen betrügerischen Anlagesystems umfas
+- [BGH, Beschluss vom 10.12.2025 - II ZR 129/24](ii-zr-129-24.md) — Die Erhebung einer Klage auf Schadensersatz, die auf Rückabwicklung einer Kapitalanlage (hier: atypisch stille Gesellschaft) zielt, kann als eine materiell-rechtliche …
+- [BGH, Urteil vom 10.12.2025 - II ZR 132/24](ii-zr-132-24.md) — Ein Vereinsmitglied hat ein berechtigtes Interesse an der Mitteilung der E-Mail-Adressen der anderen Vereinsmitglieder, wenn es mit diesen im Vorfeld einer Mitgliederversammlung …
+- [BGH, Urteil vom 02.12.2025 - II ZR 114/24](ii-zr-114-24.md) — Die Haftung eines Geschäftsführers wegen sittenwidriger Schädigung durch Unterstützung eines von der Gesellschaft betriebenen betrügerischen Anlagesystems umfasst auch erst nach …
 - [BGH, Beschluss vom 02.12.2025 - II ZR 134/24](ii-zr-134-24.md) — Bezugnahme auf Anlagen und Mehrheitsberechnung für Ausschluss aus Gesellschaft
-- [BGH, Urteil vom 02.12.2025 - II ZR 152/24](ii-zr-152-24.md) — Der Aufsichtsrat kann nicht durch Bevollmächtigung eines Vorstandsmitglieds selbst zu einem in allen Punkten festgelegten Rechtsgeschäft zwischen der Aktiengese
-- [BGH, EuGH-Vorlage vom 18.11.2025 - II ZB 9/23](ii-zb-9-23.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 AEUV zur Auslegung der Richtlinie 2003/6/EG des Europäischen Parlaments vo
+- [BGH, Urteil vom 02.12.2025 - II ZR 152/24](ii-zr-152-24.md) — Der Aufsichtsrat kann nicht durch Bevollmächtigung eines Vorstandsmitglieds selbst zu einem in allen Punkten festgelegten Rechtsgeschäft zwischen der Aktiengesellschaft und diesem …
+- [BGH, EuGH-Vorlage vom 18.11.2025 - II ZB 9/23](ii-zb-9-23.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 AEUV zur Auslegung der Richtlinie 2003/6/EG des Europäischen Parlaments vom 28. Januar 2003 …
 - [BGH, Beschluss vom 18.11.2025 - II ZR 4/25](ii-zr-4-25.md) — Unterbrechung eines Verfahrens nur bei bereits rechtshängigen Verfahren; Einfluss von Beschlussanfechtung auf Insolvenzmasse einer Gesellschaft
 - [BGH, Beschluss vom 28.10.2025 - II ZR 147/24](ii-zr-147-24.md) — BGH, Beschluss II ZR 147/24
 - [BGH, Beschluss vom 28.10.2025 - II ZR 41/24](ii-zr-41-24.md) — AGG und Kündigung eines Geschäftsführerdienstvertrags eines GmbH-Fremdgeschäftsführers
-- [BGH, EuGH-Vorlage vom 21.10.2025 - II ZR 119/24](ii-zr-119-24.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 AEUV zur Auslegung der Richtlinie 2002/65/EG des Europäischen Parlaments u
-- [BGH, Urteil vom 14.10.2025 - II ZR 78/24](ii-zr-78-24.md) — 1. Die Pflicht des Vorstands, dem Aufsichtsrat gemäß § 90 Abs. 1 Satz 1 Nr. 3, Satz 2 Nr. 3 AktG mindestens vierteljährlich über die Lage der Gesellschaft zu be
+- [BGH, EuGH-Vorlage vom 21.10.2025 - II ZR 119/24](ii-zr-119-24.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 AEUV zur Auslegung der Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates vom …
+- [BGH, Urteil vom 14.10.2025 - II ZR 78/24](ii-zr-78-24.md) — 1. Die Pflicht des Vorstands, dem Aufsichtsrat gemäß § 90 Abs. 1 Satz 1 Nr. 3, Satz 2 Nr. 3 AktG mindestens vierteljährlich über die Lage der Gesellschaft zu berichten, entfällt …
 - [BGH, Urteil vom 07.10.2025 - II ZR 109/24](ii-zr-109-24.md) — BGH, Urteil II ZR 109/24
-- [BGH, Urteil vom 07.10.2025 - II ZR 112/24](ii-zr-112-24.md) — Das Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (Abl. 
-- [BGH, Beschluss vom 06.10.2025 - II ZB 19/24](ii-zb-19-24.md) — Zum Anspruch eines am Verfahren unbeteiligten Hochschullehrers auf Überlassung einer geschwärzten Kopie eines Gutachtens über die Beteiligtenfähigkeit US-amerik
+- [BGH, Urteil vom 07.10.2025 - II ZR 112/24](ii-zr-112-24.md) — Das Abkommen über den Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union und der Europäischen Atomgemeinschaft (Abl. vom 12. November …
+- [BGH, Beschluss vom 06.10.2025 - II ZB 19/24](ii-zb-19-24.md) — Zum Anspruch eines am Verfahren unbeteiligten Hochschullehrers auf Überlassung einer geschwärzten Kopie eines Gutachtens über die Beteiligtenfähigkeit US-amerikanischem Recht …
 - [BGH, Beschluss vom 30.09.2025 - II ZA 1/24](ii-za-1-24.md) — BGH, Beschluss II ZA 1/24
-- [BGH, Urteil vom 30.09.2025 - II ZR 154/23](ii-zr-154-23.md) — 1a. Die Abgrenzung eines normalen Austauschgeschäfts von einer verdeckten Ausschüttung von Gesellschaftsvermögen wird auch nach dem Inkrafttreten des Gesetzes z
+- [BGH, Urteil vom 30.09.2025 - II ZR 154/23](ii-zr-154-23.md) — 1a. Die Abgrenzung eines normalen Austauschgeschäfts von einer verdeckten Ausschüttung von Gesellschaftsvermögen wird auch nach dem Inkrafttreten des Gesetzes zur Modernisierung …
 - [BGH, Beschluss vom 30.09.2025 - II ZR 54/25](ii-zr-54-25.md) — BGH, Beschluss II ZR 54/25
 - [BGH, Beschluss vom 30.09.2025 - II ZR 70/24](ii-zr-70-24.md) — Zum Klagegrund des Schuldbeitritts gehört die Schuld, der beigetreten worden ist.
 - [BGH, Beschluss vom 30.09.2025 - II ZR 96/24](ii-zr-96-24.md) — Berücksichtigung des wirtschaftlichen Interesses im Rahmen der Streitwertfestsetzung bei Beschlussmängelklage gegen GmbH & Co. KG
 - [BGH, Beschluss vom 16.07.2025 - II ZR 52/24](ii-zr-52-24.md) — BGH, Beschluss II ZR 52/24
 - [BGH, Beschluss vom 16.07.2025 - II ZR 80/24](ii-zr-80-24.md) — Rechtliches Gehör bei Behandlung der Hilfswiderklage in der Berufungsinstanz; Wiederaufnahme eines Gesellschafters nach Kündigung
 - [BGH, Urteil vom 15.07.2025 - II ZR 132/23](ii-zr-132-23.md) — Außerordentliches Kündigungsrecht bei Umwandlung von Genussrechten und stillen Beteiligungen in Aktien ohne Zustimmung des Anlegers
-- [BGH, Beschluss vom 08.07.2025 - II ZB 1/25](ii-zb-1-25.md) — Der Grundsatz der Gesamtabrechnung aufgelöster Gesellschaften (sog. Durchsetzungssperre) steht der selbständigen Geltendmachung von Auskunftsansprüchen im Rahme
+- [BGH, Beschluss vom 08.07.2025 - II ZB 1/25](ii-zb-1-25.md) — Der Grundsatz der Gesamtabrechnung aufgelöster Gesellschaften (sog. Durchsetzungssperre) steht der selbständigen Geltendmachung von Auskunftsansprüchen im Rahmen einer Stufenklage …
 - [BGH, Beschluss vom 08.07.2025 - II ZB 7/25](ii-zb-7-25.md) — BGH, Beschluss II ZB 7/25
-- [BGH, Urteil vom 08.07.2025 - II ZR 137/23](ii-zr-137-23.md) — § 179a AktG ist auf eine Publikumsgesellschaft in der Rechtsform einer Kommanditgesellschaft nicht entsprechend anwendbar (Ergänzung von BGH, Urteil vom 15. Feb
+- [BGH, Urteil vom 08.07.2025 - II ZR 137/23](ii-zr-137-23.md) — § 179a AktG ist auf eine Publikumsgesellschaft in der Rechtsform einer Kommanditgesellschaft nicht entsprechend anwendbar (Ergänzung von BGH, Urteil vom 15. Februar 2022 - II ZR …
 - [BGH, Urteil vom 08.07.2025 - II ZR 165/23](ii-zr-165-23.md) — Zur Haftung eines abberufenen Geschäftsführers wegen vorsätzlicher sittenwidriger Schädigung durch Betreiben eines Schneeballsystems.
 - [BGH, Beschluss vom 08.07.2025 - II ZR 24/24](ii-zr-24-24.md) — Teilnahme von Aktionären an der Hauptversammlung mit zur Ton- und Bildaufzeichnung geeigneten elektronischen Geräten
 - [BGH, Beschluss vom 08.07.2025 - II ZR 81/21](ii-zr-81-21.md) — Zurückweisung von Gegenvorstellungen
@@ -39,25 +39,25 @@
 - [BGH, Urteil vom 03.06.2025 - II ZR 156/23](ii-zr-156-23.md) — BGH, Urteil II ZR 156/23
 - [BGH, Beschluss vom 23.05.2025 - II ZB 1/24](ii-zb-1-24.md) — BGH, Beschluss II ZB 1/24
 - [BGH, Beschluss vom 20.05.2025 - II ZR 99/24](ii-zr-99-24.md) — Zulässigkeit der Richterablehnung nach vollständigem Abschluss einer Instanz
-- [BGH, Beschluss vom 07.05.2025 - II ZB 15/24](ii-zb-15-24.md) — Der Gesellschafter wird durch die Ablehnung der Löschung der im Handelsregister eingetragenen Auflösung der Gesellschaft nicht im Sinne des § 59 Abs. 1 FamFG in
-- [BGH, Beschluss vom 07.05.2025 - II ZB 2/24](ii-zb-2-24.md) — Die Kommanditgesellschaft auf Aktien, deren einzige persönlich haftende Gesellschafterin keine natürliche Person ist (atypische Kommanditgesellschaft auf Aktien
-- [BGH, Urteil vom 29.04.2025 - II ZR 47/24](ii-zr-47-24.md) — Ein Mehrheitsbeschluss der Teilhaber einer Gemeinschaft nach Bruchteilen ist am Maßstab der in § 745 Abs. 1 und Abs. 3 BGB festgelegten Grenzen zu messen. Ein d
+- [BGH, Beschluss vom 07.05.2025 - II ZB 15/24](ii-zb-15-24.md) — Der Gesellschafter wird durch die Ablehnung der Löschung der im Handelsregister eingetragenen Auflösung der Gesellschaft nicht im Sinne des § 59 Abs. 1 FamFG in einem subjektiven …
+- [BGH, Beschluss vom 07.05.2025 - II ZB 2/24](ii-zb-2-24.md) — Die Kommanditgesellschaft auf Aktien, deren einzige persönlich haftende Gesellschafterin keine natürliche Person ist (atypische Kommanditgesellschaft auf Aktien), wird bei …
+- [BGH, Urteil vom 29.04.2025 - II ZR 47/24](ii-zr-47-24.md) — Ein Mehrheitsbeschluss der Teilhaber einer Gemeinschaft nach Bruchteilen ist am Maßstab der in § 745 Abs. 1 und Abs. 3 BGB festgelegten Grenzen zu messen. Ein danach wirksamer …
 - [BGH, Beschluss vom 08.04.2025 - II ZR 51/24](ii-zr-51-24.md) — BGH, Beschluss II ZR 51/24
 - [BGH, Beschluss vom 08.04.2025 - II ZR 83/24](ii-zr-83-24.md) — BGH, Beschluss II ZR 83/24
 - [BGH, Beschluss vom 26.03.2025 - II ZR 48/24](ii-zr-48-24.md) — BGH, Beschluss II ZR 48/24
-- [BGH, Urteil vom 25.03.2025 - II ZR 208/22](ii-zr-208-22.md) — 1. Die unwiderlegliche Vermutung des § 123 Abs. 4 Satz 5 AktG gilt nur für die in § 123 Abs. 4 AktG genannten Nachweise und ist nicht auf davon abweichende Satz
-- [BGH, Beschluss vom 18.03.2025 - II ZB 11/24](ii-zb-11-24.md) — 1. Der Ausschließungsgrund liegt auch dann vor, wenn ein Dritter an der Beurkundung beteiligt ist, der von der Ehefrau des Notars als alleinige Geschäftsführeri
+- [BGH, Urteil vom 25.03.2025 - II ZR 208/22](ii-zr-208-22.md) — 1. Die unwiderlegliche Vermutung des § 123 Abs. 4 Satz 5 AktG gilt nur für die in § 123 Abs. 4 AktG genannten Nachweise und ist nicht auf davon abweichende Satzungsbestimmungen …
+- [BGH, Beschluss vom 18.03.2025 - II ZB 11/24](ii-zb-11-24.md) — 1. Der Ausschließungsgrund liegt auch dann vor, wenn ein Dritter an der Beurkundung beteiligt ist, der von der Ehefrau des Notars als alleinige Geschäftsführerin einer GmbH in …
 - [BGH, Beschluss vom 18.03.2025 - II ZB 14/24](ii-zb-14-24.md) — BGH, Beschluss II ZB 14/24
-- [BGH, Beschluss vom 18.03.2025 - II ZB 7/24](ii-zb-7-24.md) — Geschäftsguthaben im Sinn von § 85 Abs. 2 UmwG ist der Nominalwert der Beteiligung des Mitglieds an der Genossenschaft, d.h. der bilanziell auszuweisende Betrag
+- [BGH, Beschluss vom 18.03.2025 - II ZB 7/24](ii-zb-7-24.md) — Geschäftsguthaben im Sinn von § 85 Abs. 2 UmwG ist der Nominalwert der Beteiligung des Mitglieds an der Genossenschaft, d.h. der bilanziell auszuweisende Betrag, den das Mitglied …
 - [BGH, Beschluss vom 18.03.2025 - II ZR 39/24](ii-zr-39-24.md) — BGH, Beschluss II ZR 39/24
-- [BGH, Urteil vom 18.03.2025 - II ZR 77/24](ii-zr-77-24.md) — Gibt ein Geschäftsführer einer Gesellschaft mit beschränkter Haftung auf deren Geschäftspapier eine Erklärung ab, die Wirkung auf die Vertragsbeziehungen der Ge
+- [BGH, Urteil vom 18.03.2025 - II ZR 77/24](ii-zr-77-24.md) — Gibt ein Geschäftsführer einer Gesellschaft mit beschränkter Haftung auf deren Geschäftspapier eine Erklärung ab, die Wirkung auf die Vertragsbeziehungen der Gesellschaft …
 - [BGH, Beschluss vom 11.03.2025 - II ZB 9/24](ii-zb-9-24.md) — Die Firma "v. .de AG" besitzt nicht die nach § 18 Abs. 1 HGB erforderliche Unterscheidungskraft.
-- [BGH, Beschluss vom 11.03.2025 - II ZR 120/24](ii-zr-120-24.md) — Gesellschafterklage gegen die Abberufung des Geschäftsführers einer insolventen GmbH im Nichtzulassungsbeschwerdeverfahren: Abgrenzung zwischen der Aufnahme ein
+- [BGH, Beschluss vom 11.03.2025 - II ZR 120/24](ii-zr-120-24.md) — Gesellschafterklage gegen die Abberufung des Geschäftsführers einer insolventen GmbH im Nichtzulassungsbeschwerdeverfahren: Abgrenzung zwischen der Aufnahme eines Aktivprozesses …
 - [BGH, Beschluss vom 11.03.2025 - II ZR 139/23](ii-zr-139-23.md) — Vorliegen einer Verbindlichkeit im Hinblick auf die Feststellung der Zahlungsunfähigkeit
 - [BGH, Beschluss vom 11.03.2025 - II ZR 23/23](ii-zr-23-23.md) — BGH, Beschluss II ZR 23/23
 - [BGH, Beschluss vom 22.01.2025 - II ZA 2/24](ii-za-2-24.md) — BGH, Beschluss II ZA 2/24
 - [BGH, Beschluss vom 22.01.2025 - II ZA 5/24](ii-za-5-24.md) — BGH, Beschluss II ZA 5/24
-- [BGH, Beschluss vom 22.01.2025 - II ZB 18/23](ii-zb-18-23.md) — Ein Auskunftsersuchen des Gesellschafters, das auch dem Ziel dient, die Namen, Anschriften und Beteiligungshöhen der Mitgesellschafter dazu zu verwenden, diesen
+- [BGH, Beschluss vom 22.01.2025 - II ZB 18/23](ii-zb-18-23.md) — Ein Auskunftsersuchen des Gesellschafters, das auch dem Ziel dient, die Namen, Anschriften und Beteiligungshöhen der Mitgesellschafter dazu zu verwenden, diesen Kaufangebote für …
 - [BGH, Beschluss vom 14.01.2025 - II ZR 117/23](ii-zr-117-23.md) — BGH, Beschluss II ZR 117/23
 - [BGH, Beschluss vom 14.01.2025 - II ZR 131/23](ii-zr-131-23.md) — BGH, Beschluss II ZR 131/23
 - [BGH, Beschluss vom 14.01.2025 - II ZR 168/23](ii-zr-168-23.md) — BGH, Beschluss II ZR 168/23

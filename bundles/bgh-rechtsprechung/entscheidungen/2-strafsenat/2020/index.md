@@ -8,12 +8,12 @@
 - [BGH, Beschluss vom 15.12.2020 - 2 StR 476/19](2-str-476-19.md) — Strafurteil: Einziehungsanordnung und notwendiger Kausalzusammenhang zwischen Tat und des aus der Tat erlangten Etwas; rechtliche Einordnung eines Waffendelikts
 - [BGH, Beschluss vom 02.12.2020 - 2 StR 267/20](2-str-267-20.md) — Wiedereinsetzung in die Revisionsbegründungsfrist in Strafsachen: Nachbesserung und Nachholung von Verfahrensrügen
 - [BGH, Beschluss vom 01.12.2020 - 2 StR 384/20](2-str-384-20.md) — Kompensation für rechtsstaatswidrige Verfahrensverzögerung: Kompensationsentscheidung des Revisionsgerichts; Kriterien für die Entscheidung
-- [BGH, Beschluss vom 19.11.2020 - 2 StR 165/20](2-str-165-20.md) — Strafverurteilung wegen schweren sexuellen Missbrauch von Kindern u.a.: Freie Beweiswürdigung bei Aussage gegen Aussage; Urteilsfeststellungen bei Abweichen von
+- [BGH, Beschluss vom 19.11.2020 - 2 StR 165/20](2-str-165-20.md) — Strafverurteilung wegen schweren sexuellen Missbrauch von Kindern u.a.: Freie Beweiswürdigung bei Aussage gegen Aussage; Urteilsfeststellungen bei Abweichen von …
 - [BGH, Beschluss vom 19.11.2020 - 2 StR 358/20](2-str-358-20.md) — Umfang der Anklage und der Tat im verfahrensrechtlichen Sinn: Einbeziehung von Delikten auf der Fahrt zum Tatort
-- [BGH, Beschluss vom 18.11.2020 - 2 StR 152/20](2-str-152-20.md) — Strafurteil wegen sexuellen Kindesmissbrauchs: Anforderungen an die Darstellung der wesentlichen Beweiserwägungen bei DNA-Gutachten und in einer Aussage-gegen-A
+- [BGH, Beschluss vom 18.11.2020 - 2 StR 152/20](2-str-152-20.md) — Strafurteil wegen sexuellen Kindesmissbrauchs: Anforderungen an die Darstellung der wesentlichen Beweiserwägungen bei DNA-Gutachten und in einer Aussage-gegen-Aussage-Konstellation
 - [BGH, Urteil vom 18.11.2020 - 2 StR 246/20](2-str-246-20.md) — Bestechung: Vermeidbarkeit des Verbotsirrtums bei geschäftlicher Tätigkeit
-- [BGH, Urteil vom 18.11.2020 - 2 StR 317/19](2-str-317-19.md) — Gewährung eines Vorteils als Gegenleistung für die Vornahme einer Diensthandlung durch Verletzung von Dienstpflichten: Abgrenzung der Bestechlichkeit und Bestec
-- [BGH, Beschluss vom 11.11.2020 - 2 StR 241/20](2-str-241-20.md) — Ausschließung von der Ausübung des Richteramtes nach Zeugenvernehmung in derselben Sache: Fehlerhaftigkeit der nach Eintritt des Ausschlussgrundes bewirkten Amt
+- [BGH, Urteil vom 18.11.2020 - 2 StR 317/19](2-str-317-19.md) — Gewährung eines Vorteils als Gegenleistung für die Vornahme einer Diensthandlung durch Verletzung von Dienstpflichten: Abgrenzung der Bestechlichkeit und Bestechung von der …
+- [BGH, Beschluss vom 11.11.2020 - 2 StR 241/20](2-str-241-20.md) — Ausschließung von der Ausübung des Richteramtes nach Zeugenvernehmung in derselben Sache: Fehlerhaftigkeit der nach Eintritt des Ausschlussgrundes bewirkten Amtshandlungen im …
 - [BGH, Beschluss vom 11.11.2020 - 2 StR 321/20](2-str-321-20.md) — Bemessung der Jugendstrafe: Anforderungen an die Darlegung der Berücksichtigung des Erziehungsgedankens im Urteil
 - [BGH, Beschluss vom 11.11.2020 - 2 StR 48/20](2-str-48-20.md) — Strafurteil: Berichtigung der Urteilsformel bei Verkündungsversehen hinsichtlich des Straftatbestandes
 - [BGH, Beschluss vom 04.11.2020 - 2 StR 32/20](2-str-32-20.md) — Vorsätzliche Marktmanipulation: Einwirken auf einen bereits manipulierten Börsenpreis; natürliche Handlungseinheit
@@ -33,33 +33,33 @@
 - [BGH, Beschluss vom 09.09.2020 - 2 StR 116/20](2-str-116-20.md) — Heimtückemord: Feststellungen zum Ausnutzungsbewusstsein eines alkoholisierten Täters
 - [BGH, Beschluss vom 09.09.2020 - 2 StR 261/20](2-str-261-20.md) — Prozessualer Tatbegriff im Strafverfahren: Abgrenzung bei Tateinheit und Tatmehrheit; Verfolgungswille der Staatsanwaltschaft
 - [BGH, Beschluss vom 09.09.2020 - 2 StR 281/20](2-str-281-20.md) — Strafzumessung: Außerachtlassung des Gesamtstrafübels bei drohendem Widerruf der Strafaussetzung einer erheblichen Restfreiheitsstrafe
-- [BGH, Beschluss vom 09.09.2020 - 2 StR 291/20](2-str-291-20.md) — Strafverfahren: Anforderungen an die Anklageschrift bei Sexualstraftaten einer Tatserie; Notwendigkeit einer Nachtragsanklage bei erheblicher Abweichung der Tat
+- [BGH, Beschluss vom 09.09.2020 - 2 StR 291/20](2-str-291-20.md) — Strafverfahren: Anforderungen an die Anklageschrift bei Sexualstraftaten einer Tatserie; Notwendigkeit einer Nachtragsanklage bei erheblicher Abweichung der Tatmodalitäten
 - [BGH, Beschluss vom 09.09.2020 - 2 StR 304/20](2-str-304-20.md) — Beteiligung an einer Amtsanmaßung
 - [BGH, Beschluss vom 01.09.2020 - 2 StR 264/20](2-str-264-20.md) — Schwerer Bandendiebstahl: Tatbegehung aus eigennützigen Motiven
-- [BGH, Beschluss vom 01.09.2020 - 2 StR 45/20](2-str-45-20.md) — Revisionsbegründung in Strafsachen: Wiedereinsetzungsantrag des verteidigten Angeklagten bei Fristversäumung für eine eigene Revisionsbegründung wegen verspätet
-- [BGH, Beschluss vom 26.08.2020 - 2 StR 197/20](2-str-197-20.md) — Strafmilderung bei Betäubungsmitteldelikt: Motiv der Offenbarung für Aufklärungshilfe; minder schwerer Fall wegen Suchterkrankung in Verbindung mit einer psychi
+- [BGH, Beschluss vom 01.09.2020 - 2 StR 45/20](2-str-45-20.md) — Revisionsbegründung in Strafsachen: Wiedereinsetzungsantrag des verteidigten Angeklagten bei Fristversäumung für eine eigene Revisionsbegründung wegen verspäteten Zugangs einer …
+- [BGH, Beschluss vom 26.08.2020 - 2 StR 197/20](2-str-197-20.md) — Strafmilderung bei Betäubungsmitteldelikt: Motiv der Offenbarung für Aufklärungshilfe; minder schwerer Fall wegen Suchterkrankung in Verbindung mit einer psychischen Erkrankung
 - [BGH, Beschluss vom 25.08.2020 - 2 StR 202/20](2-str-202-20.md) — Zeugnisverweigerung im Strafverfahren: Gestattung der Verwertung der bei einer polizeilichen Vernehmung gemachten Aussage
 - [BGH, Beschluss vom 25.08.2020 - 2 StR 263/20](2-str-263-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Erforderliche Feststellungen zur Schuldfähigkeit bei paranoider Schizophrenie des Angeklagten
-- [BGH, Beschluss vom 19.08.2020 - 2 StR 257/20](2-str-257-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Strafzumessung bei Sicherstellung der Betäubungsmittel und engmaschiger Überwachung des
-- [BGH, Beschluss vom 12.08.2020 - 2 ARs 147/20](2-ars-147-20.md) — Strafvollzugsbegleitende Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung: Örtlich zuständige Strafvollstreckungskammer nach Verlegung des Ver
+- [BGH, Beschluss vom 19.08.2020 - 2 StR 257/20](2-str-257-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Strafzumessung bei Sicherstellung der Betäubungsmittel und engmaschiger Überwachung des …
+- [BGH, Beschluss vom 12.08.2020 - 2 ARs 147/20](2-ars-147-20.md) — Strafvollzugsbegleitende Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung: Örtlich zuständige Strafvollstreckungskammer nach Verlegung des Verurteilten …
 - [BGH, Urteil vom 12.08.2020 - 2 StR 574/19](2-str-574-19.md) — Abgrenzung zwischen versuchtem Totschlag und gefährlicher Körperverletzung: Erforderliche Feststellungen zum bedingten Tötungsvorsatz bei Einsatz eines Messers
-- [BGH, Beschluss vom 28.07.2020 - 2 StR 210/20](2-str-210-20.md) — Absehen von der Unterbringung in einer Entziehungsanstalt: Annahme eines nicht mehr bestehenden Hanges zum übermäßigen Rauschmittelkonsum; Widersprüchlichkeit d
+- [BGH, Beschluss vom 28.07.2020 - 2 StR 210/20](2-str-210-20.md) — Absehen von der Unterbringung in einer Entziehungsanstalt: Annahme eines nicht mehr bestehenden Hanges zum übermäßigen Rauschmittelkonsum; Widersprüchlichkeit der gleichzeitig …
 - [BGH, Beschluss vom 28.07.2020 - 2 StR 229/20](2-str-229-20.md) — Diebstahl: Gewahrsamslage und -bruch bei verlorenen Gegenständen
 - [BGH, Beschluss vom 28.07.2020 - 2 StR 594/19](2-str-594-19.md) — Schwere Brandstiftung: Inbrandsetzen des Wohngebäudes durch dessen alleinige Bewohner
 - [BGH, Beschluss vom 21.07.2020 - 2 ARs 177/20](2-ars-177-20.md) — Gerichtsstandsbestimmung in Strafsachen: Verdacht des Totschlags gegenüber einem deutschen Staatsbürger im Ausland
 - [BGH, Beschluss vom 21.07.2020 - 2 StR 187/20](2-str-187-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Ertragserwartung beim Aufbau und Betrieb einer Cannabis-Plantage
 - [BGH, Beschluss vom 21.07.2020 - 2 StR 319/19](2-str-319-19.md) — Tod des Angeklagten im Revisionsverfahren: Entscheidung über die notwendigen Auslagen des Angeklagten
-- [BGH, Beschluss vom 21.07.2020 - 2 StR 99/19](2-str-99-19.md) — Gläubigerbegünstigung: Legitime rechtsgeschäftliche Handlungen vor Eröffnung des Insolvenzverfahrens; berufstypische Handlungen eines Rechtsanwalts als strafbar
-- [BGH, Beschluss vom 15.07.2020 - 2 ARs 162/20](2-ars-162-20.md) — Zuständigkeitsbestimmung durch das gemeinschaftliche obere Gericht in Strafsachen: Streit zweier Gerichte über die Zuständigkeit für die förmliche Einleitung de
+- [BGH, Beschluss vom 21.07.2020 - 2 StR 99/19](2-str-99-19.md) — Gläubigerbegünstigung: Legitime rechtsgeschäftliche Handlungen vor Eröffnung des Insolvenzverfahrens; berufstypische Handlungen eines Rechtsanwalts als strafbare Beihilfe …
+- [BGH, Beschluss vom 15.07.2020 - 2 ARs 162/20](2-ars-162-20.md) — Zuständigkeitsbestimmung durch das gemeinschaftliche obere Gericht in Strafsachen: Streit zweier Gerichte über die Zuständigkeit für die förmliche Einleitung der Vollstreckung der …
 - [BGH, Beschluss vom 15.07.2020 - 2 ARs 9/20](2-ars-9-20.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Fristbeginn der Strafverfolgungsverjährung
 - [BGH, Beschluss vom 15.07.2020 - 2 StR 110/20](2-str-110-20.md) — Unerlaubter Besitz von Betäubungsmitteln: Konkurrenzverhältnis bei Besitz verschiedener Betäubungsmittel zum Eigenkonsum
 - [BGH, Beschluss vom 15.07.2020 - 2 StR 175/20](2-str-175-20.md) — Schwerer sexueller Missbrauch eines Kindes: Verminderte Schuldfähigkeit wegen "Kernpädophilie"
-- [BGH, Urteil vom 15.07.2020 - 2 StR 288/19](2-str-288-19.md) — Strafverurteilung wegen besonders schweren räuberischen Diebstahls u.a.: Wirksamkeit der Revisionsbeschränkung auf den Schuldspruch; Strafmilderung bei nachteil
+- [BGH, Urteil vom 15.07.2020 - 2 StR 288/19](2-str-288-19.md) — Strafverurteilung wegen besonders schweren räuberischen Diebstahls u.a.: Wirksamkeit der Revisionsbeschränkung auf den Schuldspruch; Strafmilderung bei nachteiligen Tatfolgen und …
 - [BGH, Urteil vom 15.07.2020 - 2 StR 46/20](2-str-46-20.md) — Einziehung bei Betrugsstraftaten: "Erlangen" eines Vermögenswertes bei mehreren Tatbeteiligten
 - [BGH, Beschluss vom 15.07.2020 - 2 StR 526/19](2-str-526-19.md) — Verfahrensverständigung: Verletzung der Mitteilungspflicht des Vorsitzenden
 - [BGH, Beschluss vom 08.07.2020 - 2 StR 179/20](2-str-179-20.md) — Bemessung der Jugendstrafe: Berücksichtigung des Erziehungsgedankens
-- [BGH, Beschluss vom 07.07.2020 - 2 StR 121/20](2-str-121-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung des symptomatischen Zusammenhangs zwischen dem psychischen Defekt und der Anl
-- [BGH, Beschluss vom 02.07.2020 - 2 StR 226/18](2-str-226-18.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Konkurrenzen zwischen dem Sich-Verschaffen und dem Gebrauchen einer gefälschten Kreditkarte, dem Herstellen m
+- [BGH, Beschluss vom 07.07.2020 - 2 StR 121/20](2-str-121-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung des symptomatischen Zusammenhangs zwischen dem psychischen Defekt und der Anlasstat …
+- [BGH, Beschluss vom 02.07.2020 - 2 StR 226/18](2-str-226-18.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Konkurrenzen zwischen dem Sich-Verschaffen und dem Gebrauchen einer gefälschten Kreditkarte, dem Herstellen mehrerer Falsifikate …
 - [BGH, Urteil vom 01.07.2020 - 2 StR 326/19](2-str-326-19.md) — Revisionsgerichtliche Überprüfung der tatrichterlichen Beweiswürdigung bei Freispruch
 - [BGH, Beschluss vom 01.07.2020 - 2 StR 514/19](2-str-514-19.md) — Nachträgliche Bildung der Gesamtstrafe: Härteausgleich bei bereits vollstreckter Vorstrafe; Vornahme des Härteausgleichs durch das Revisionsgericht
 - [BGH, Beschluss vom 01.07.2020 - 2 StR 560/18](2-str-560-18.md) — Einziehung von Taterträgen aus Betäubungsmitteldelikten: Übertragung des Erlangten an Dritte; Voraussetzungen gesamtschuldnerischer Haftung mehrerer Beteiligter
@@ -67,38 +67,38 @@
 - [BGH, Beschluss vom 24.06.2020 - 2 StR 416/19](2-str-416-19.md) — Notwendige Wiedergabe der Einlassung des Angeklagten im Urteil
 - [BGH, Beschluss vom 23.06.2020 - 2 StR 132/20](2-str-132-20.md) — Versuchter Mord: Heimtückisches Handeln gegenüber Kleinstkindern; Ausnutzung der Arglosigkeit eines schutzbereiten Dritten
 - [BGH, Beschluss vom 23.06.2020 - 2 StR 43/20](2-str-43-20.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Beeinträchtigung der Steuerungsfähigkeit auf Grund einer Schizophrenie
-- [BGH, Beschluss vom 17.06.2020 - 2 StR 57/20](2-str-57-20.md) — Sexueller Missbrauch von Jugendlichen: Kenntnis und Ausnutzung der fehlenden Fähigkeit des Opfers zur sexuellen Selbstbestimmung; Bezeichnung der Tat als Vergew
+- [BGH, Beschluss vom 17.06.2020 - 2 StR 57/20](2-str-57-20.md) — Sexueller Missbrauch von Jugendlichen: Kenntnis und Ausnutzung der fehlenden Fähigkeit des Opfers zur sexuellen Selbstbestimmung; Bezeichnung der Tat als Vergewaltigung
 - [BGH, Beschluss vom 16.06.2020 - 2 StR 184/20](2-str-184-20.md) — Strafzumessung: Erläuterung des Strafmaßes bei Benennung gewichtiger Strafmilderungsgründe
 - [BGH, Beschluss vom 16.06.2020 - 2 StR 568/19](2-str-568-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Urteilsfeststellungen bei Vorliegen einer antisozialen Persönlichkeitsstörung
-- [BGH, Beschluss vom 03.06.2020 - 2 StR 428/19](2-str-428-19.md) — Tatrichterliche Anordnung der Unterbringung eines betäubungsmittelabhängigen Straftäters in einer Entziehungsanstalt: Notwendige Abwägung aller prognoserelevant
+- [BGH, Beschluss vom 03.06.2020 - 2 StR 428/19](2-str-428-19.md) — Tatrichterliche Anordnung der Unterbringung eines betäubungsmittelabhängigen Straftäters in einer Entziehungsanstalt: Notwendige Abwägung aller prognoserelevanter Faktoren bei der …
 - [BGH, Beschluss vom 27.05.2020 - 2 StR 112/20](2-str-112-20.md) — Strafzumessung: Berücksichtigung einer freiwilligen Schadenswiedergutmachung
 - [BGH, Beschluss vom 27.05.2020 - 2 StR 123/20](2-str-123-20.md) — Strafzumessung: Tatbegehung bei noch laufender Bewährung
-- [BGH, Beschluss vom 27.05.2020 - 2 StR 552/19](2-str-552-19.md) — Strafurteil wegen versuchter räuberischer Erpressung: Beweiswert eines "Formalgeständnisses"; Behauptung eines materiellrechtlich bestehenden Anspruchs auf die 
+- [BGH, Beschluss vom 27.05.2020 - 2 StR 552/19](2-str-552-19.md) — Strafurteil wegen versuchter räuberischer Erpressung: Beweiswert eines "Formalgeständnisses"; Behauptung eines materiellrechtlich bestehenden Anspruchs auf die Erpressungssumme
 - [BGH, Beschluss vom 26.05.2020 - 2 StR 114/20](2-str-114-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Voraussetzung der Schuldunfähigkeit oder verminderten Schuldfähigkeit
-- [BGH, Beschluss vom 26.05.2020 - 2 StR 434/19](2-str-434-19.md) — Körperverletzung: Verabreichung einer höheren als der ärztlich verordneten Schmerzmedikation an einen sterbenden unheilbar Kranken durch einen Pfleger; mutmaßli
+- [BGH, Beschluss vom 26.05.2020 - 2 StR 434/19](2-str-434-19.md) — Körperverletzung: Verabreichung einer höheren als der ärztlich verordneten Schmerzmedikation an einen sterbenden unheilbar Kranken durch einen Pfleger; mutmaßliche Einwilligung …
 - [BGH, Beschluss vom 26.05.2020 - 2 StR 54/20](2-str-54-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
-- [BGH, Beschluss vom 26.05.2020 - 2 StR 64/20](2-str-64-20.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis mehrerer Tatausführungshandlungen; nicht geringe Menge bei einer A
+- [BGH, Beschluss vom 26.05.2020 - 2 StR 64/20](2-str-64-20.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis mehrerer Tatausführungshandlungen; nicht geringe Menge bei einer Amphetaminzubereitung
 - [BGH, Beschluss vom 26.05.2020 - 2 StR 65/20](2-str-65-20.md) — Reihenfolge der Vollstreckung: Vorwegvollzug bei mehreren in einem Urteil verhängten Gesamtfreiheitsstrafen
 - [BGH, Beschluss vom 20.05.2020 - 2 ARs 307/19](2-ars-307-19.md) — Ablehnung einer Gehörsrüge in Strafsachen durch das Oberlandesgericht: Rechtsmittel gegen die Entscheidung
-- [BGH, Beschluss vom 20.05.2020 - 2 StR 611/19](2-str-611-19.md) — Gewerbsmäßige Hehlerei: Tatbestandsmerkmal des „Sichverschaffens“ bei Mitverfügungsbefugnis von Vortäter und Erwerber; Abwicklung des Verkaufs eines gestohlenen
+- [BGH, Beschluss vom 20.05.2020 - 2 StR 611/19](2-str-611-19.md) — Gewerbsmäßige Hehlerei: Tatbestandsmerkmal des „Sichverschaffens“ bei Mitverfügungsbefugnis von Vortäter und Erwerber; Abwicklung des Verkaufs eines gestohlenen Fahrzeugs
 - [BGH, Beschluss vom 19.05.2020 - 2 StR 398/19](2-str-398-19.md) — Urkundenfälschung: Kunstwerk als Urkunde
 - [BGH, Beschluss vom 19.05.2020 - 2 StR 7/20](2-str-7-20.md) — Sexueller Missbrauch von Kindern und Schutzbefohlenen: Strukturierung der Beweiswürdigung im Strafurteil; Eigentümlichkeiten in Sprache und Gedankenführung
 - [BGH, Beschluss vom 13.05.2020 - 2 ARs 228/19](2-ars-228-19.md) — (Beantwortung der Anfrage des 5. Strafsenats vom 8. Mai 2019, 5 StR 146/19: Missbrauch von Ausweispapieren durch Vorlage einer Fotokopie)
-- [BGH, Beschluss vom 12.05.2020 - 2 ARs 121/20](2-ars-121-20.md) — Ablehnung einer Gerichtsstandsbestimmung durch den Bundesgerichtshof: Zuständigkeit des Ermittlungsrichters eines Amtsgerichts für ein Ermittlungsverfahren wege
+- [BGH, Beschluss vom 12.05.2020 - 2 ARs 121/20](2-ars-121-20.md) — Ablehnung einer Gerichtsstandsbestimmung durch den Bundesgerichtshof: Zuständigkeit des Ermittlungsrichters eines Amtsgerichts für ein Ermittlungsverfahren wegen bandenmäßigen …
 - [BGH, Beschluss vom 12.05.2020 - 2 StR 463/19](2-str-463-19.md) — Räuberische Erpressung: Abgrenzung zwischen Mittäterschaft und Beihilfe bei einem am Tatkerngeschehen unbeteiligten Angeklagten
 - [BGH, Beschluss vom 12.05.2020 - 2 StR 533/19](2-str-533-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Feststellung der Begehung der Anlasstat auf Grund einer überdauernden seelischen Störung
 - [BGH, Beschluss vom 06.05.2020 - 2 ARs 203/19](2-ars-203-19.md) — BGH, Beschluss 2 ARs 203/19
 - [BGH, Beschluss vom 06.05.2020 - 2 StR 391/19](2-str-391-19.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Feststellung der nicht geringen Menge bei Anbau von Cannabispflanzen zwecks späterer Veräußerung der Ernte
 - [BGH, Beschluss vom 06.05.2020 - 2 StR 493/19](2-str-493-19.md) — Beschaffungskriminalität eines Betäubungsmittelabhängigen: Verminderte Schuldfähigkeit bei Angst vor Entzugserscheinungen
-- [BGH, Beschluss vom 06.05.2020 - 2 StR 543/19](2-str-543-19.md) — Strafverurteilung wegen versuchten Ladendiebstahls sowie sexueller Belästigung u.a.: Rücktritt vom unbeendeten Versuch; sexuelle Handlung bei Berühren des Gesch
+- [BGH, Beschluss vom 06.05.2020 - 2 StR 543/19](2-str-543-19.md) — Strafverurteilung wegen versuchten Ladendiebstahls sowie sexueller Belästigung u.a.: Rücktritt vom unbeendeten Versuch; sexuelle Handlung bei Berühren des Geschlechtsteils über …
 - [BGH, Beschluss vom 28.04.2020 - 2 ARs 312/19](2-ars-312-19.md) — Strafvollstreckungssache: Zuständigkeit der Strafvollstreckungskammer für eine nachträgliche Entscheidung zur Bewährung
 - [BGH, Beschluss vom 28.04.2020 - 2 ARs 58/20](2-ars-58-20.md) — Gerichtsstandsbestimmung in Jugendstrafsachen: Zuständigkeit des entscheidungsnahen Gerichts bei volljährigem Angeklagten
-- [BGH, Beschluss vom 28.04.2020 - 2 StR 494/19](2-str-494-19.md) — Beweiswürdigung in Strafsachen: Anforderungen an die Darlegung der tatrichterlichen Überzeugungsbildung bei Feststellungen zum Tatgeschehen ausschließlich aufgr
-- [BGH, Beschluss vom 28.04.2020 - 2 StR 95/20](2-str-95-20.md) — Unterbringung eines Heranwachsenden in einer Entziehungsanstalt: Symptomatischer Zusammenhang zwischen einem Hang zum übermäßigen Alkoholkonsum und der Anlassta
-- [BGH, Beschluss vom 22.04.2020 - 2 StR 329/19](2-str-329-19.md) — Strafbarer Aufenthalt eines Ausländers: Einreise eines Albaners ohne biometrischen Reisepass mit der Absicht der Eingehung einer Scheinehe für eine Aufenthaltsg
+- [BGH, Beschluss vom 28.04.2020 - 2 StR 494/19](2-str-494-19.md) — Beweiswürdigung in Strafsachen: Anforderungen an die Darlegung der tatrichterlichen Überzeugungsbildung bei Feststellungen zum Tatgeschehen ausschließlich aufgrund von Aussagen …
+- [BGH, Beschluss vom 28.04.2020 - 2 StR 95/20](2-str-95-20.md) — Unterbringung eines Heranwachsenden in einer Entziehungsanstalt: Symptomatischer Zusammenhang zwischen einem Hang zum übermäßigen Alkoholkonsum und der Anlasstat
+- [BGH, Beschluss vom 22.04.2020 - 2 StR 329/19](2-str-329-19.md) — Strafbarer Aufenthalt eines Ausländers: Einreise eines Albaners ohne biometrischen Reisepass mit der Absicht der Eingehung einer Scheinehe für eine Aufenthaltsgenehmigung
 - [BGH, Beschluss vom 11.03.2020 - 2 StR 380/19](2-str-380-19.md) — Strafverfahren: Anforderungen an die Darstellung der Beweiswürdigung in den Urteilsgründen
 - [BGH, Urteil vom 11.03.2020 - 2 StR 478/19](2-str-478-19.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Wirksamkeit der Anklageschrift hinsichtlich Umgrenzungs- und Informationsfunktion
-- [BGH, Urteil vom 11.03.2020 - 2 StR 69/19](2-str-69-19.md) — Beweiswürdigung im Strafverfahren: Differenzierung zwischen Einlassungen der Angeklagten mittels Verteidigererklärung und eigenen Prozesserklärungen des Verteid
+- [BGH, Urteil vom 11.03.2020 - 2 StR 69/19](2-str-69-19.md) — Beweiswürdigung im Strafverfahren: Differenzierung zwischen Einlassungen der Angeklagten mittels Verteidigererklärung und eigenen Prozesserklärungen des Verteidigers
 - [BGH, Beschluss vom 10.03.2020 - 2 StR 504/19](2-str-504-19.md) — Besonders schwere räuberische Erpressung: Erforderlichkeit der Bereicherungsabsicht; Abpressen eines Mobiltelefons
 - [BGH, Beschluss vom 04.03.2020 - 2 StR 352/19](2-str-352-19.md) — Sexueller Missbrauch von Schutzbefohlenen: Obhutsverhältnis bei Trainern eines Turnvereins
 - [BGH, Beschluss vom 04.03.2020 - 2 StR 501/19](2-str-501-19.md) — Tatbestand des schweren sexuellen Missbrauchs von Kindern
@@ -107,14 +107,14 @@
 - [BGH, Beschluss vom 12.02.2020 - 2 StR 5/20](2-str-5-20.md) — Verstoß gegen das Verbot der Doppelverwertung im Rahmen der Strafzumessung bei einer Vergewaltigung
 - [BGH, Beschluss vom 05.02.2020 - 2 StR 436/19](2-str-436-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen and die Gefährlichkeitsprognose
 - [BGH, Beschluss vom 05.02.2020 - 2 StR 517/19](2-str-517-19.md) — Berücksichtigung der Sicherstellung der zum Weiterverkauf bestimmten Betäubungsmittel im Rahmen der Strafzumessung
-- [BGH, Beschluss vom 22.01.2020 - 2 StR 562/19](2-str-562-19.md) — Versuchter besonders schwerer Raub: Wirksamkeit der Revisionsbeschränkung auf den Strafausspruch; Beeinträchtigung der Steuerungsfähigkeit bei Feststellung eine
-- [BGH, Beschluss vom 22.01.2020 - 2 StR 582/18](2-str-582-18.md) — Strafverfahren: Einstellung des Verfahrens bei Erfüllung von Auflagen und Weisungen; Einziehung des Wertes von Taterträgen bei mehreren Tatbeteiligten als Gesam
+- [BGH, Beschluss vom 22.01.2020 - 2 StR 562/19](2-str-562-19.md) — Versuchter besonders schwerer Raub: Wirksamkeit der Revisionsbeschränkung auf den Strafausspruch; Beeinträchtigung der Steuerungsfähigkeit bei Feststellung einer schweren anderen …
+- [BGH, Beschluss vom 22.01.2020 - 2 StR 582/18](2-str-582-18.md) — Strafverfahren: Einstellung des Verfahrens bei Erfüllung von Auflagen und Weisungen; Einziehung des Wertes von Taterträgen bei mehreren Tatbeteiligten als Gesamtschuldner
 - [BGH, Beschluss vom 15.01.2020 - 2 ARs 236/19](2-ars-236-19.md) — Hinweispflicht in den Fällen einer Einziehung
 - [BGH, Beschluss vom 15.01.2020 - 2 StR 321/19](2-str-321-19.md) — Besitz und Verbreiten bzw. öffentliches Zugänglichmachen kinderpornographischer Schriften: Konkurrenzverhältnis
-- [BGH, Beschluss vom 15.01.2020 - 2 StR 352/18](2-str-352-18.md) — Strafurteil wegen gemeinschaftlicher gefährlicher Körperverletzung: Anforderungen an die Darlegung der Ergebnisse von molekulargenetischen Vergleichsuntersuchun
+- [BGH, Beschluss vom 15.01.2020 - 2 StR 352/18](2-str-352-18.md) — Strafurteil wegen gemeinschaftlicher gefährlicher Körperverletzung: Anforderungen an die Darlegung der Ergebnisse von molekulargenetischen Vergleichsuntersuchungen und der …
 - [BGH, Urteil vom 15.01.2020 - 2 StR 412/19](2-str-412-19.md) — Strafzumessung: Notwendige Urteilsfeststellungen zu einem Täter-Opfer-Ausgleich
 - [BGH, Beschluss vom 14.01.2020 - 2 StR 174/19](2-str-174-19.md) — Strafverurteilung wegen Raubdelikt: Erfordernis der Übereinstimmung der schriftlichen Urteilsgründe mit dem Beratungsergebnis
 - [BGH, Beschluss vom 14.01.2020 - 2 StR 284/19](2-str-284-19.md) — Versuchtes Tötungsdelikt: Voraussetzungen der Freiwilligkeit eines Rücktritts
 - [BGH, Beschluss vom 09.01.2020 - 2 StR 263/19](2-str-263-19.md) — Vermögensabschöpfung in Strafsachen: Anforderungen an die Darstellung eines Wertgutachtens zu Miteigentumsanteilen an Grundstücken im Urteil
-- [BGH, Beschluss vom 09.01.2020 - 2 StR 355/19](2-str-355-19.md) — Beweiswürdigung im Strafverfahren: Verurteilung aufgrund der Angaben eines Mittäters wegen eines Betäubungsmitteldelikts; mittelbare Einführung der belastenden 
+- [BGH, Beschluss vom 09.01.2020 - 2 StR 355/19](2-str-355-19.md) — Beweiswürdigung im Strafverfahren: Verurteilung aufgrund der Angaben eines Mittäters wegen eines Betäubungsmitteldelikts; mittelbare Einführung der belastenden Angaben über eine …
 - [BGH, Beschluss vom 09.01.2020 - 2 StR 520/19](2-str-520-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose

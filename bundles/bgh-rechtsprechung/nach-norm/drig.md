@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu DRiG"
 description: "BGH-Entscheidungen zu DRiG, geordnet nach Vorschrift."
 tags: [register, navigation, drig]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

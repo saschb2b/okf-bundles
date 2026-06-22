@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AnSVG"
 description: "BGH-Entscheidungen zu AnSVG, geordnet nach Vorschrift."
 tags: [register, navigation, ansvg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

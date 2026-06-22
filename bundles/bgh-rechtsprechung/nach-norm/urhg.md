@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UrhG"
 description: "BGH-Entscheidungen zu UrhG, geordnet nach Vorschrift."
 tags: [register, navigation, urhg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

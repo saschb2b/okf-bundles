@@ -3,8 +3,8 @@
 311 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2023 - VIa ZR 1038/22](via-zr-1038-22.md) — BGH, Beschluss VIa ZR 1038/22
-- [BGH, Urteil vom 18.12.2023 - VIa ZR 1083/22](via-zr-1083-22.md) — Macht der Käufer eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs gegen den Fahrzeughersteller einen deliktischen Anspruch auf Ersatz des D
-- [BGH, Urteil vom 18.12.2023 - VIa ZR 1248/22](via-zr-1248-22.md) — Auf den Differenzschaden eines vorsteuerabzugsberechtigten Käufers ist die beim Fahrzeugkauf angefallene Umsatzsteuer im Wege der Vorteilsausgleichung anzurechn
+- [BGH, Urteil vom 18.12.2023 - VIa ZR 1083/22](via-zr-1083-22.md) — Macht der Käufer eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs gegen den Fahrzeughersteller einen deliktischen Anspruch auf Ersatz des Differenzschadens …
+- [BGH, Urteil vom 18.12.2023 - VIa ZR 1248/22](via-zr-1248-22.md) — Auf den Differenzschaden eines vorsteuerabzugsberechtigten Käufers ist die beim Fahrzeugkauf angefallene Umsatzsteuer im Wege der Vorteilsausgleichung anzurechnen, wenn und soweit …
 - [BGH, Urteil vom 18.12.2023 - VIa ZR 840/22](via-zr-840-22.md) — BGH, Urteil VIa ZR 840/22
 - [BGH, Urteil vom 18.12.2023 - VIa ZR 921/22](via-zr-921-22.md) — BGH, Urteil VIa ZR 921/22
 - [BGH, Beschluss vom 13.12.2023 - VIa ZR 1171/22](via-zr-1171-22.md) — BGH, Beschluss VIa ZR 1171/22
@@ -17,7 +17,7 @@
 - [BGH, Beschluss vom 11.12.2023 - VIa ZR 1502/22](via-zr-1502-22.md) — BGH, Beschluss VIa ZR 1502/22
 - [BGH, Beschluss vom 11.12.2023 - VIa ZR 1684/22](via-zr-1684-22.md) — BGH, Beschluss VIa ZR 1684/22
 - [BGH, Urteil vom 11.12.2023 - VIa ZR 318/22](via-zr-318-22.md) — BGH, Urteil VIa ZR 318/22
-- [BGH, Urteil vom 11.12.2023 - VIa ZR 340/22](via-zr-340-22.md) — Für eine Haftung des Fahrzeugherstellers wegen eines Verstoßes gegen § 6 Abs. 1, § 27 Abs. 1 EG-FGV gegenüber dem Käufer eines mit einer unzulässigen Abschaltei
+- [BGH, Urteil vom 11.12.2023 - VIa ZR 340/22](via-zr-340-22.md) — Für eine Haftung des Fahrzeugherstellers wegen eines Verstoßes gegen § 6 Abs. 1, § 27 Abs. 1 EG-FGV gegenüber dem Käufer eines mit einer unzulässigen Abschalteinrichtung …
 - [BGH, Urteil vom 11.12.2023 - VIa ZR 574/22](via-zr-574-22.md) — BGH, Urteil VIa ZR 574/22
 - [BGH, Beschluss vom 11.12.2023 - VIa ZR 616/21](via-zr-616-21.md) — BGH, Beschluss VIa ZR 616/21
 - [BGH, Urteil vom 11.12.2023 - VIa ZR 680/22](via-zr-680-22.md) — BGH, Urteil VIa ZR 680/22
@@ -44,8 +44,8 @@
 - [BGH, Urteil vom 04.12.2023 - VIa ZR 857/22](via-zr-857-22.md) — BGH, Urteil VIa ZR 857/22
 - [BGH, Beschluss vom 04.12.2023 - VIa ZR 91/22](via-zr-91-22.md) — BGH, Beschluss VIa ZR 91/22
 - [BGH, Urteil vom 27.11.2023 - VIa ZR 1062/22](via-zr-1062-22.md) — Zur Fassung eines Zahlungstitels im Falle des Abzugs von Nutzungsvorteilen in einem sogenannten Dieselfall.
-- [BGH, Urteil vom 27.11.2023 - VIa ZR 1425/22](via-zr-1425-22.md) — 1. Auf die deliktische Haftung des Herstellers eines in einem anderen Mitgliedstaat typgenehmigten Basisfahrzeugs, das als Wohnmobil vervollständigt in der Bund
-- [BGH, Urteil vom 27.11.2023 - VIa ZR 159/22](via-zr-159-22.md) — Auf den Differenzschaden ist der Restwert des Fahrzeugs im Wege der Vorteilsausgleichung ohne Rücksicht darauf anzurechnen, ob er durch eine Weiterveräußerung r
+- [BGH, Urteil vom 27.11.2023 - VIa ZR 1425/22](via-zr-1425-22.md) — 1. Auf die deliktische Haftung des Herstellers eines in einem anderen Mitgliedstaat typgenehmigten Basisfahrzeugs, das als Wohnmobil vervollständigt in der Bundesrepublik …
+- [BGH, Urteil vom 27.11.2023 - VIa ZR 159/22](via-zr-159-22.md) — Auf den Differenzschaden ist der Restwert des Fahrzeugs im Wege der Vorteilsausgleichung ohne Rücksicht darauf anzurechnen, ob er durch eine Weiterveräußerung realisiert worden …
 - [BGH, Beschluss vom 27.11.2023 - VIa ZR 243/22](via-zr-243-22.md) — BGH, Beschluss VIa ZR 243/22
 - [BGH, Beschluss vom 27.11.2023 - VIa ZR 57/22](via-zr-57-22.md) — BGH, Beschluss VIa ZR 57/22
 - [BGH, Beschluss vom 27.11.2023 - VIa ZR 63/23](via-zr-63-23.md) — BGH, Beschluss VIa ZR 63/23
@@ -88,7 +88,7 @@
 - [BGH, Beschluss vom 06.11.2023 - VIa ZR 29/23](via-zr-29-23.md) — BGH, Beschluss VIa ZR 29/23
 - [BGH, Beschluss vom 06.11.2023 - VIa ZR 425/22](via-zr-425-22.md) — BGH, Beschluss VIa ZR 425/22
 - [BGH, Beschluss vom 06.11.2023 - VIa ZR 427/22](via-zr-427-22.md) — BGH, Beschluss VIa ZR 427/22
-- [BGH, Urteil vom 06.11.2023 - VIa ZR 535/21](via-zr-535-21.md) — Im Fall der fehlenden Grenzwertkausalität bestehen keine Anhaltspunkte für eine Täuschung der Genehmigungsbehörde mit dem Ziel, die EG-Typgenehmigung zu erhalte
+- [BGH, Urteil vom 06.11.2023 - VIa ZR 535/21](via-zr-535-21.md) — Im Fall der fehlenden Grenzwertkausalität bestehen keine Anhaltspunkte für eine Täuschung der Genehmigungsbehörde mit dem Ziel, die EG-Typgenehmigung zu erhalten.
 - [BGH, Beschluss vom 06.11.2023 - VIa ZR 667/22](via-zr-667-22.md) — BGH, Beschluss VIa ZR 667/22
 - [BGH, Beschluss vom 30.10.2023 - VIa ZR 1148/22](via-zr-1148-22.md) — BGH, Beschluss VIa ZR 1148/22
 - [BGH, Beschluss vom 30.10.2023 - VIa ZR 1190/22](via-zr-1190-22.md) — BGH, Beschluss VIa ZR 1190/22
@@ -123,7 +123,7 @@
 - [BGH, Beschluss vom 23.10.2023 - VIa ZR 381/21](via-zr-381-21.md) — BGH, Beschluss VIa ZR 381/21
 - [BGH, Beschluss vom 23.10.2023 - VIa ZR 414/22](via-zr-414-22.md) — BGH, Beschluss VIa ZR 414/22
 - [BGH, Beschluss vom 23.10.2023 - VIa ZR 426/22](via-zr-426-22.md) — BGH, Beschluss VIa ZR 426/22
-- [BGH, Urteil vom 23.10.2023 - VIa ZR 468/21](via-zr-468-21.md) — 1. Der Käufer eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs kann unter den Voraussetzungen des Senatsurteils vom 26. Juni 2023 (VIa ZR 3
+- [BGH, Urteil vom 23.10.2023 - VIa ZR 468/21](via-zr-468-21.md) — 1. Der Käufer eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs kann unter den Voraussetzungen des Senatsurteils vom 26. Juni 2023 (VIa ZR 335/21, NJW 2023 …
 - [BGH, Urteil vom 23.10.2023 - VIa ZR 476/22](via-zr-476-22.md) — BGH, Urteil VIa ZR 476/22
 - [BGH, Urteil vom 23.10.2023 - VIa ZR 621/22](via-zr-621-22.md) — BGH, Urteil VIa ZR 621/22
 - [BGH, Beschluss vom 16.10.2023 - VIa ZR 101/22](via-zr-101-22.md) — BGH, Beschluss VIa ZR 101/22
@@ -133,14 +133,14 @@
 - [BGH, Urteil vom 16.10.2023 - VIa ZR 1139/22](via-zr-1139-22.md) — BGH, Urteil VIa ZR 1139/22
 - [BGH, Beschluss vom 16.10.2023 - VIa ZR 1193/22](via-zr-1193-22.md) — BGH, Beschluss VIa ZR 1193/22
 - [BGH, Urteil vom 16.10.2023 - VIa ZR 1255/22](via-zr-1255-22.md) — BGH, Urteil VIa ZR 1255/22
-- [BGH, Urteil vom 16.10.2023 - VIa ZR 14/22](via-zr-14-22.md) — § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV gewähren dem Käufer eines vom sogenannten Dieselskandal betroffenen Fahrzeugs gegen den Fahrze
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 14/22](via-zr-14-22.md) — § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV gewähren dem Käufer eines vom sogenannten Dieselskandal betroffenen Fahrzeugs gegen den Fahrzeughersteller neben …
 - [BGH, Urteil vom 16.10.2023 - VIa ZR 1511/22](via-zr-1511-22.md) — BGH, Urteil VIa ZR 1511/22
 - [BGH, Urteil vom 16.10.2023 - VIa ZR 170/22](via-zr-170-22.md) — BGH, Urteil VIa ZR 170/22
 - [BGH, Beschluss vom 16.10.2023 - VIa ZR 179/23](via-zr-179-23.md) — BGH, Beschluss VIa ZR 179/23
 - [BGH, Beschluss vom 16.10.2023 - VIa ZR 301/22](via-zr-301-22.md) — BGH, Beschluss VIa ZR 301/22
 - [BGH, Urteil vom 16.10.2023 - VIa ZR 356/22](via-zr-356-22.md) — BGH, Urteil VIa ZR 356/22
-- [BGH, Urteil vom 16.10.2023 - VIa ZR 37/21](via-zr-37-21.md) — § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV gewähren dem Käufer eines vom sogenannten Dieselskandal betroffenen Fahrzeugs gegen den Fahrze
-- [BGH, Urteil vom 16.10.2023 - VIa ZR 374/22](via-zr-374-22.md) — Unter den Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 der EG-Fahrzeuggenehmigungsverordnung vom 21. April 2009 steht auch dem
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 37/21](via-zr-37-21.md) — § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV gewähren dem Käufer eines vom sogenannten Dieselskandal betroffenen Fahrzeugs gegen den Fahrzeughersteller neben …
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 374/22](via-zr-374-22.md) — Unter den Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 der EG-Fahrzeuggenehmigungsverordnung vom 21. April 2009 steht auch dem Käufer eines vor …
 - [BGH, Urteil vom 16.10.2023 - VIa ZR 446/22](via-zr-446-22.md) — BGH, Urteil VIa ZR 446/22
 - [BGH, Beschluss vom 16.10.2023 - VIa ZR 509/22](via-zr-509-22.md) — BGH, Beschluss VIa ZR 509/22
 - [BGH, Urteil vom 16.10.2023 - VIa ZR 604/21](via-zr-604-21.md) — BGH, Urteil VIa ZR 604/21
@@ -148,7 +148,7 @@
 - [BGH, Beschluss vom 16.10.2023 - VIa ZR 647/22](via-zr-647-22.md) — BGH, Beschluss VIa ZR 647/22
 - [BGH, Beschluss vom 16.10.2023 - VIa ZR 773/22](via-zr-773-22.md) — BGH, Beschluss VIa ZR 773/22
 - [BGH, Beschluss vom 11.10.2023 - VIa ZR 1089/22](via-zr-1089-22.md) — BGH, Beschluss VIa ZR 1089/22
-- [BGH, Urteil vom 09.10.2023 - VIa ZR 26/21](via-zr-26-21.md) — Einem Fahrzeughersteller, der für die Konstruktion des von ihm hergestellten Fahrzeugs Motoren fremder Hersteller verwendet, obliegen auch insoweit die Sorgfalt
+- [BGH, Urteil vom 09.10.2023 - VIa ZR 26/21](via-zr-26-21.md) — Einem Fahrzeughersteller, der für die Konstruktion des von ihm hergestellten Fahrzeugs Motoren fremder Hersteller verwendet, obliegen auch insoweit die Sorgfaltspflichten eines …
 - [BGH, Urteil vom 09.10.2023 - VIa ZR 338/22](via-zr-338-22.md) — BGH, Urteil VIa ZR 338/22
 - [BGH, Beschluss vom 09.10.2023 - VIa ZR 404/21](via-zr-404-21.md) — BGH, Beschluss VIa ZR 404/21
 - [BGH, Urteil vom 09.10.2023 - VIa ZR 460/22](via-zr-460-22.md) — BGH, Urteil VIa ZR 460/22
@@ -158,7 +158,7 @@
 - [BGH, Urteil vom 09.10.2023 - VIa ZR 674/21](via-zr-674-21.md) — BGH, Urteil VIa ZR 674/21
 - [BGH, Urteil vom 09.10.2023 - VIa ZR 736/21](via-zr-736-21.md) — BGH, Urteil VIa ZR 736/21
 - [BGH, Beschluss vom 09.10.2023 - VIa ZR 922/22](via-zr-922-22.md) — BGH, Beschluss VIa ZR 922/22
-- [BGH, Urteil vom 25.09.2023 - VIa ZR 1/23](via-zr-1-23.md) — Zu den Voraussetzungen einer Entlastung des Herstellers eines vom sogenannten Dieselskandal betroffenen Fahrzeugs im Falle seiner Inanspruchnahme nach § 823 Abs
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 1/23](via-zr-1-23.md) — Zu den Voraussetzungen einer Entlastung des Herstellers eines vom sogenannten Dieselskandal betroffenen Fahrzeugs im Falle seiner Inanspruchnahme nach § 823 Abs. 2 BGB in …
 - [BGH, Urteil vom 25.09.2023 - VIa ZR 1199/22](via-zr-1199-22.md) — BGH, Urteil VIa ZR 1199/22
 - [BGH, Urteil vom 25.09.2023 - VIa ZR 1277/22](via-zr-1277-22.md) — BGH, Urteil VIa ZR 1277/22
 - [BGH, Urteil vom 25.09.2023 - VIa ZR 1537/22](via-zr-1537-22.md) — BGH, Urteil VIa ZR 1537/22
@@ -187,7 +187,7 @@
 - [BGH, Urteil vom 11.09.2023 - VIa ZR 1470/22](via-zr-1470-22.md) — BGH, Urteil VIa ZR 1470/22
 - [BGH, Urteil vom 11.09.2023 - VIa ZR 149/23](via-zr-149-23.md) — BGH, Urteil VIa ZR 149/23
 - [BGH, Urteil vom 11.09.2023 - VIa ZR 1501/22](via-zr-1501-22.md) — BGH, Urteil VIa ZR 1501/22
-- [BGH, Urteil vom 11.09.2023 - VIa ZR 1533/22](via-zr-1533-22.md) — Neben dem aus § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV folgenden und der Höhe nach auf 15% des gezahlten Kaufpreises begrenzten Anspruc
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1533/22](via-zr-1533-22.md) — Neben dem aus § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV folgenden und der Höhe nach auf 15% des gezahlten Kaufpreises begrenzten Anspruch auf Ersatz des …
 - [BGH, Urteil vom 11.09.2023 - VIa ZR 1669/22](via-zr-1669-22.md) — BGH, Urteil VIa ZR 1669/22
 - [BGH, Urteil vom 11.09.2023 - VIa ZR 1689/22](via-zr-1689-22.md) — BGH, Urteil VIa ZR 1689/22
 - [BGH, Urteil vom 11.09.2023 - VIa ZR 1693/22](via-zr-1693-22.md) — BGH, Urteil VIa ZR 1693/22
@@ -240,16 +240,16 @@
 - [BGH, Beschluss vom 31.07.2023 - VIa ZR 613/22](via-zr-613-22.md) — BGH, Beschluss VIa ZR 613/22
 - [BGH, Beschluss vom 31.07.2023 - VIa ZR 729/22](via-zr-729-22.md) — BGH, Beschluss VIa ZR 729/22
 - [BGH, Beschluss vom 31.07.2023 - VIa ZR 750/22](via-zr-750-22.md) — BGH, Beschluss VIa ZR 750/22
-- [BGH, Beschluss vom 24.07.2023 - VIa ZB 10/21](via-zb-10-21.md) — Geht der Hersteller eines vom sogenannten Dieselskandal betroffenen Fahrzeugs mit der Anfechtungsklage gegen die nachträgliche Anordnung von Nebenbestimmungen z
+- [BGH, Beschluss vom 24.07.2023 - VIa ZB 10/21](via-zb-10-21.md) — Geht der Hersteller eines vom sogenannten Dieselskandal betroffenen Fahrzeugs mit der Anfechtungsklage gegen die nachträgliche Anordnung von Nebenbestimmungen zu einer …
 - [BGH, Beschluss vom 24.07.2023 - VIa ZB 8/23](via-zb-8-23.md) — BGH, Beschluss VIa ZB 8/23
 - [BGH, Beschluss vom 24.07.2023 - VIa ZR 1570/22](via-zr-1570-22.md) — BGH, Beschluss VIa ZR 1570/22
 - [BGH, Urteil vom 24.07.2023 - VIa ZR 338/21](via-zr-338-21.md) — BGH, Urteil VIa ZR 338/21
-- [BGH, Urteil vom 24.07.2023 - VIa ZR 752/22](via-zr-752-22.md) — Der Tatrichter entscheidet gemäß dem ihm eingeräumten Ermessen selbst, ob er Nutzungsvorteile aus dem Gebrauch eines vom sogenannten Dieselskandal betroffenen F
+- [BGH, Urteil vom 24.07.2023 - VIa ZR 752/22](via-zr-752-22.md) — Der Tatrichter entscheidet gemäß dem ihm eingeräumten Ermessen selbst, ob er Nutzungsvorteile aus dem Gebrauch eines vom sogenannten Dieselskandal betroffenen Fahrzeugs, dessen …
 - [BGH, Beschluss vom 17.07.2023 - VIa ZR 1405/22](via-zr-1405-22.md) — BGH, Beschluss VIa ZR 1405/22
 - [BGH, Beschluss vom 17.07.2023 - VIa ZR 1457/22](via-zr-1457-22.md) — BGH, Beschluss VIa ZR 1457/22
 - [BGH, Beschluss vom 17.07.2023 - VIa ZR 1679/22](via-zr-1679-22.md) — BGH, Beschluss VIa ZR 1679/22
 - [BGH, Beschluss vom 13.07.2023 - VIa ZR 98/22](via-zr-98-22.md) — BGH, Beschluss VIa ZR 98/22
-- [BGH, Urteil vom 10.07.2023 - VIa ZR 1119/22](via-zr-1119-22.md) — 1. Die Sonderpflicht, für ein Kraftfahrzeug eine mit den gesetzlichen Vorgaben konvergierende Übereinstimmungsbescheinigung auszugeben, trifft den Fahrzeugherst
+- [BGH, Urteil vom 10.07.2023 - VIa ZR 1119/22](via-zr-1119-22.md) — 1. Die Sonderpflicht, für ein Kraftfahrzeug eine mit den gesetzlichen Vorgaben konvergierende Übereinstimmungsbescheinigung auszugeben, trifft den Fahrzeughersteller, nicht den …
 - [BGH, Urteil vom 10.07.2023 - VIa ZR 1620/22](via-zr-1620-22.md) — BGH, Urteil VIa ZR 1620/22
 - [BGH, Urteil vom 10.07.2023 - VIa ZR 1632/22](via-zr-1632-22.md) — BGH, Urteil VIa ZR 1632/22
 - [BGH, Urteil vom 10.07.2023 - VIa ZR 318/23](via-zr-318-23.md) — BGH, Urteil VIa ZR 318/23
@@ -260,14 +260,14 @@
 - [BGH, Urteil vom 03.07.2023 - VIa ZR 155/23](via-zr-155-23.md) — Wirksamkeit einer in einer Sicherungsabrede enthaltenen Abtretungsklausel
 - [BGH, Urteil vom 26.06.2023 - VIa ZR 1141/22](via-zr-1141-22.md) — BGH, Urteil VIa ZR 1141/22
 - [BGH, Urteil vom 26.06.2023 - VIa ZR 1619/22](via-zr-1619-22.md) — BGH, Urteil VIa ZR 1619/22
-- [BGH, Urteil vom 26.06.2023 - VIa ZR 1657/22](via-zr-1657-22.md) — Die im Zuge der Gewährung eines Darlehens zur Finanzierung eines vom sogenannten "Dieselskandal" betroffenen Fahrzeugs in den Allgemeinen Geschäftsbedingungen d
-- [BGH, Urteil vom 26.06.2023 - VIa ZR 335/21](via-zr-335-21.md) — 1. Unter den Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV steht dem Käufer eines mit einer unzulässigen Abschalteinrich
-- [BGH, Urteil vom 26.06.2023 - VIa ZR 533/21](via-zr-533-21.md) — Hat das Kraftfahrt-Bundesamt vor Erwerb des Fahrzeugs durch den Geschädigten wegen unzulässiger Abschalteinrichtungen Maßnahmen angeordnet und wurde darüber in 
+- [BGH, Urteil vom 26.06.2023 - VIa ZR 1657/22](via-zr-1657-22.md) — Die im Zuge der Gewährung eines Darlehens zur Finanzierung eines vom sogenannten "Dieselskandal" betroffenen Fahrzeugs in den Allgemeinen Geschäftsbedingungen des Darlehensgebers …
+- [BGH, Urteil vom 26.06.2023 - VIa ZR 335/21](via-zr-335-21.md) — 1. Unter den Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV steht dem Käufer eines mit einer unzulässigen Abschalteinrichtung im Sinne des …
+- [BGH, Urteil vom 26.06.2023 - VIa ZR 533/21](via-zr-533-21.md) — Hat das Kraftfahrt-Bundesamt vor Erwerb des Fahrzeugs durch den Geschädigten wegen unzulässiger Abschalteinrichtungen Maßnahmen angeordnet und wurde darüber in den Medien …
 - [BGH, Beschluss vom 19.06.2023 - VIa ZR 1161/22](via-zr-1161-22.md) — BGH, Beschluss VIa ZR 1161/22
 - [BGH, Beschluss vom 19.06.2023 - VIa ZR 66/22](via-zr-66-22.md) — BGH, Beschluss VIa ZR 66/22
 - [BGH, Beschluss vom 05.06.2023 - VIa ZR 265/22](via-zr-265-22.md) — BGH, Beschluss VIa ZR 265/22
 - [BGH, Beschluss vom 05.06.2023 - VIa ZR 349/22](via-zr-349-22.md) — BGH, Beschluss VIa ZR 349/22
-- [BGH, Beschluss vom 22.05.2023 - VIa ZB 22/22](via-zb-22-22.md) — Beauftragt der Hauptbevollmächtigte einer Partei gegen ein Honorar einen Terminsvertreter, um den Anfall von abrechenbaren Kosten in einer das Honorar übersteig
+- [BGH, Beschluss vom 22.05.2023 - VIa ZB 22/22](via-zb-22-22.md) — Beauftragt der Hauptbevollmächtigte einer Partei gegen ein Honorar einen Terminsvertreter, um den Anfall von abrechenbaren Kosten in einer das Honorar übersteigenden Höhe zu …
 - [BGH, Beschluss vom 22.05.2023 - VIa ZR 1234/22](via-zr-1234-22.md) — BGH, Beschluss VIa ZR 1234/22
 - [BGH, Beschluss vom 22.05.2023 - VIa ZR 26/22](via-zr-26-22.md) — BGH, Beschluss VIa ZR 26/22
 - [BGH, Beschluss vom 22.05.2023 - VIa ZR 394/22](via-zr-394-22.md) — BGH, Beschluss VIa ZR 394/22
@@ -280,7 +280,7 @@
 - [BGH, Beschluss vom 08.05.2023 - VIa ZR 1339/22](via-zr-1339-22.md) — BGH, Beschluss VIa ZR 1339/22
 - [BGH, Beschluss vom 08.05.2023 - VIa ZR 1561/22](via-zr-1561-22.md) — BGH, Beschluss VIa ZR 1561/22
 - [BGH, Urteil vom 24.04.2023 - VIa ZR 1072/22](via-zr-1072-22.md) — Zu den Anforderungen an die Individualisierung von Gegenstand und Grund des Anspruchs in der Anmeldung zum Klageregister einer Musterfeststellungsklage.
-- [BGH, Urteil vom 24.04.2023 - VIa ZR 1517/22](via-zr-1517-22.md) — Die im Falle des Verbunds eines Kaufvertrags mit einem Allgemein-Verbraucherdarlehensvertrag in den Allgemeinen Geschäftsbedingungen des Darlehensgebers enthalt
+- [BGH, Urteil vom 24.04.2023 - VIa ZR 1517/22](via-zr-1517-22.md) — Die im Falle des Verbunds eines Kaufvertrags mit einem Allgemein-Verbraucherdarlehensvertrag in den Allgemeinen Geschäftsbedingungen des Darlehensgebers enthaltene Bestimmung "3 …
 - [BGH, Beschluss vom 17.04.2023 - VIa ZR 1345/22](via-zr-1345-22.md) — BGH, Beschluss VIa ZR 1345/22
 - [BGH, Urteil vom 03.04.2023 - VIa ZR 233/22](via-zr-233-22.md) — BGH, Urteil VIa ZR 233/22
 - [BGH, Beschluss vom 27.03.2023 - VIa ZR 102/22](via-zr-102-22.md) — BGH, Beschluss VIa ZR 102/22
@@ -303,7 +303,7 @@
 - [BGH, Beschluss vom 27.02.2023 - VIa ZR 1351/22](via-zr-1351-22.md) — BGH, Beschluss VIa ZR 1351/22
 - [BGH, Beschluss vom 27.02.2023 - VIa ZR 1421/22](via-zr-1421-22.md) — BGH, Beschluss VIa ZR 1421/22
 - [BGH, Beschluss vom 27.02.2023 - VIa ZR 529/22](via-zr-529-22.md) — BGH, Beschluss VIa ZR 529/22
-- [BGH, Urteil vom 06.02.2023 - VIa ZR 419/21](via-zr-419-21.md) — Der Käufer eines vom sogenannten "Dieselskandal" betroffenen Fahrzeugs hat ein Interesse an der Feststellung, dass der Hersteller aufgrund des unverjährten Ansp
+- [BGH, Urteil vom 06.02.2023 - VIa ZR 419/21](via-zr-419-21.md) — Der Käufer eines vom sogenannten "Dieselskandal" betroffenen Fahrzeugs hat ein Interesse an der Feststellung, dass der Hersteller aufgrund des unverjährten Anspruchs aus §§ 826 …
 - [BGH, Beschluss vom 30.01.2023 - VIa ZB 15/22](via-zb-15-22.md) — Wiedereinsetzung: Vertrauen des Anwalts in eine weitere Verlängerung der Berufungsbegründungsfrist bei Zustimmungserklärung des Gegners
 - [BGH, Urteil vom 30.01.2023 - VIa ZR 213/22](via-zr-213-22.md) — BGH, Urteil VIa ZR 213/22
 - [BGH, Beschluss vom 30.01.2023 - VIa ZR 663/22](via-zr-663-22.md) — BGH, Beschluss VIa ZR 663/22

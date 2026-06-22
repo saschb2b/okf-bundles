@@ -2,7 +2,7 @@
 
 23 Entscheidung(en).
 
-- [BGH, Entscheidung vom 16.12.2003 - 4 StR 482/03](4-str-482-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 16.12.2003 - 4 StR 482/03](4-str-482-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 02.12.2003 - 4 StR 485/03](4-str-485-03.md) — räuberischer Erpressung u.a.
 - [BGH, Beschluss vom 25.11.2003 - 4 ARs 32/03](4-ars-32-03.md) — zu 1.: unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 25.11.2003 - 4 StR 423/03](4-str-423-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
@@ -15,7 +15,7 @@
 - [BGH, Urteil vom 11.09.2003 - 4 StR 139/03](4-str-139-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 11.09.2003 - 4 StR 252/03](4-str-252-03.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 01.07.2003 - 4 StR 203/03](4-str-203-03.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
-- [BGH, Entscheidung vom 26.06.2003 - 4 StR 168/03](4-str-168-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 26.06.2003 - 4 StR 168/03](4-str-168-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 15.05.2003 - 4 StR 124/03](4-str-124-03.md) — räuberischen Angriffs auf Kraftfahrer u.a.
 - [BGH, Beschluss vom 10.04.2003 - 4 StR 78/03](4-str-78-03.md) — sexuellen Mißbrauchs einer widerstandsunfähigen Person u.a.
 - [BGH, Beschluss vom 03.04.2003 - 4 StR 506/02](4-str-506-02.md) — gewerbs- und bandenmäßiger Verleitung zur mißbräuchlichen Asylantragstellung

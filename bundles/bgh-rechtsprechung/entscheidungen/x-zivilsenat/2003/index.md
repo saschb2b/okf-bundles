@@ -11,7 +11,7 @@
 - [BGH, Beschluss vom 21.10.2003 - X ZA 2/03](x-za-2-03.md) — BGH, Beschluss vom 21.10.2003 - X ZA 2/03
 - [BGH, Urteil vom 21.10.2003 - X ZR 198/99](x-zr-198-99.md) — Tatbestand:
 - [BGH, Beschluss vom 30.09.2003 - X ZB 48/02](x-zb-48-02.md) — BGH, Beschluss vom 30.09.2003 - X ZB 48/02
-- [BGH, Entscheidung vom 30.09.2003 - X ZR 114/00](x-zr-114-00.md) — Nachschlagewerk: ja BGHZ: nein ZPO § 286 G Blasenfreie Gummibahn II Nach den Grundsätzen von Treu und Glauben kann sich eine Verpflichtung der nicht beweisbelas
+- [BGH, Entscheidung vom 30.09.2003 - X ZR 114/00](x-zr-114-00.md) — Nachschlagewerk: ja BGHZ: nein ZPO § 286 G Blasenfreie Gummibahn II Nach den Grundsätzen von Treu und Glauben kann sich eine Verpflichtung der nicht beweisbelasteten Partei …
 - [BGH, Beschluss vom 30.09.2003 - X ZR 243/02](x-zr-243-02.md) — Unvollständigkeit auszuschließen war.
 - [BGH, Urteil vom 30.09.2003 - X ZR 41/02](x-zr-41-02.md) — BGH, Urteil vom 30.09.2003 - X ZR 41/02
 - [BGH, Urteil vom 24.09.2003 - X ZR 234/00](x-zr-234-00.md) — BGH, Urteil vom 24.09.2003 - X ZR 234/00

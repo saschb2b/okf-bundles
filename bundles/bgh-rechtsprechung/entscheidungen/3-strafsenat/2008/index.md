@@ -11,7 +11,7 @@
 - [BGH, Beschluss vom 02.12.2008 - 3 StR 203/08](3-str-203-08.md) — Volksverhetzung u. a.
 - [BGH, Beschluss vom 02.12.2008 - 3 StR 466/08](3-str-466-08.md) — Anstiftung zur vorsätzlichen Brandstiftung u. a.
 - [BGH, Beschluss vom 02.12.2008 - 3 StR 504/08](3-str-504-08.md) — gefährlicher Körperverletzung u. a.
-- [BGH, Entscheidung vom 25.11.2008 - 3 StR 444/08](3-str-444-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 25.11.2008 - 3 StR 444/08](3-str-444-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 04.11.2008 - 3 StR 336/08](3-str-336-08.md) — gefährlicher Körperverletzung
 - [BGH, Beschluss vom 28.08.2008 - 3 StR 326/08](3-str-326-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 21.08.2008 - 3 StR 229/08](3-str-229-08.md) — besonders schwerer räuberischer Erpressung u. a.; hier: Anhörungsrüge

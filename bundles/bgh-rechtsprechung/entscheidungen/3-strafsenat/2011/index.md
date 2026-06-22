@@ -4,26 +4,26 @@
 
 - [BGH, Beschluss vom 22.12.2011 - 3 StR 371/11](3-str-371-11.md) — Handeltreiben und Einfuhr von Betäubungsmitteln: Abgrenzung zwischen Beihilfe und Mittäterschaft bei Drogentransport
 - [BGH, Beschluss vom 22.12.2011 - 3 StR 427/11](3-str-427-11.md) — Revisionsgerichtliche Nachprüfung einer Maßregelentscheidung: Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus
-- [BGH, Beschluss vom 20.12.2011 - 3 StR 374/11](3-str-374-11.md) — Nachträgliche Gesamtstrafenbildung nach Aufhebung der Gesamtstrafe und Zurückverweisung durch das Revisionsgericht; Feststellung eines Hangs; kumulative Anordnu
+- [BGH, Beschluss vom 20.12.2011 - 3 StR 374/11](3-str-374-11.md) — Nachträgliche Gesamtstrafenbildung nach Aufhebung der Gesamtstrafe und Zurückverweisung durch das Revisionsgericht; Feststellung eines Hangs; kumulative Anordnung der …
 - [BGH, Beschluss vom 20.12.2011 - 3 StR 421/11](3-str-421-11.md) — Unterbringung in einer Entziehungsanstalt: Feststellung eines Hangs zum übermäßigen Genuss von Rauschmitteln
 - [BGH, Beschluss vom 20.12.2011 - 3 StR 426/11](3-str-426-11.md) — Strafverfahren: Telefonischer Hinweis des Kammervorsitzenden zur Bewährungsfrage im Rahmen der Terminsvorbereitung
 - [BGH, Urteil vom 15.12.2011 - 3 StR 365/11](3-str-365-11.md) — Beweisaufnahme im Strafverfahren: Ablehnung eines Antrags auf Einholung eines Sachverständigengutachtens
-- [BGH, Beschluss vom 06.12.2011 - 3 StR 393/11](3-str-393-11.md) — Unerlaubtes Handeltreiben des Drogenverkäufers und des Drogenkäufers: Schwerpunkt des Rechtsgutsangriffs des Gehilfen; Akzessorietät der Beihilfe in den Fällen 
+- [BGH, Beschluss vom 06.12.2011 - 3 StR 393/11](3-str-393-11.md) — Unerlaubtes Handeltreiben des Drogenverkäufers und des Drogenkäufers: Schwerpunkt des Rechtsgutsangriffs des Gehilfen; Akzessorietät der Beihilfe in den Fällen der …
 - [BGH, Beschluss vom 06.12.2011 - 3 StR 398/11](3-str-398-11.md) — Totschlag: Tötungsvorsatz bei lebensgefährlichem Angriff
 - [BGH, Urteil vom 01.12.2011 - 3 StR 284/11](3-str-284-11.md) — Ablehnung eines Beweisantrages im Strafverfahren: Anthropologischer Sachverständiger als völlig ungeeignetes Beweismittel
 - [BGH, Urteil vom 01.12.2011 - 3 StR 318/11](3-str-318-11.md) — Sexueller Missbrauch im Behandlungsverhältnis: Tatbestandsmäßigkeit trotz fehlender Abhängigkeit des Opfers
 - [BGH, Urteil vom 01.12.2011 - 3 StR 337/11](3-str-337-11.md) — Rücktritt vom Versuch eines Tötungsdelikts: Vorliegen eines unbeendeten oder beendeten Versuchs
 - [BGH, Beschluss vom 29.11.2011 - 3 StR 281/11](3-str-281-11.md) — Befugnisse des Amtsanwalts: Wahrnehmung der Rechte der Staatsanwaltschaft durch einen Amtsanwalt vor dem Landgericht
 - [BGH, Beschluss vom 29.11.2011 - 3 StR 326/11](3-str-326-11.md) — Heimtückischer Mord: Anforderungen an das bewusste Ausnutzen der Arg- und Wehrlosigkeit des Opfers
-- [BGH, Beschluss vom 29.11.2011 - 3 StR 378/11](3-str-378-11.md) — Gewerbsmäßiges Einschleusen von Ausländern als Qualifikationstatbestand; Ausklammerung der persönlichen Verhältnisse bei der Strafzumessung; strafschärfende Ber
+- [BGH, Beschluss vom 29.11.2011 - 3 StR 378/11](3-str-378-11.md) — Gewerbsmäßiges Einschleusen von Ausländern als Qualifikationstatbestand; Ausklammerung der persönlichen Verhältnisse bei der Strafzumessung; strafschärfende Berücksichtigung des …
 - [BGH, Beschluss vom 17.11.2011 - 3 StR 203/11](3-str-203-11.md) — Hehlerei und Titelmissbrauch: Abgeschlossene Vortat als Voraussetzung einer Hehlerei; unbefugtes Führen eines Doktortitels
-- [BGH, Urteil vom 17.11.2011 - 3 StR 315/10](3-str-315-10.md) — Für Methamphetaminracemat - (RS)-(methyl)(1-phenylpropan-2-yl)azan - beginnt die nicht geringe Menge im Sinne von § 29a Abs. 1 Nr. 2, § 30 Abs. 1 Nr. 4 BtMG bei
+- [BGH, Urteil vom 17.11.2011 - 3 StR 315/10](3-str-315-10.md) — Für Methamphetaminracemat - (RS)-(methyl)(1-phenylpropan-2-yl)azan - beginnt die nicht geringe Menge im Sinne von § 29a Abs. 1 Nr. 2, § 30 Abs. 1 Nr. 4 BtMG bei 10 g der …
 - [BGH, Beschluss vom 17.11.2011 - 3 StR 359/11](3-str-359-11.md) — Sexuelle Nötigung: Ausnutzen einer schutzlosen Lage; Voraussetzungen der Schutzlosigkeit und des Ausnutzungsbewusstseins
-- [BGH, Beschluss vom 10.11.2011 - 3 StR 314/11](3-str-314-11.md) — Strafverfahren wegen Betruges: Erfordernis der wirksamen Anklageerhebung und des wirksamen Eröffnungsbeschlusses; Feststellung eines dem Verfall entgegenstehend
-- [BGH, Beschluss vom 10.11.2011 - 3 StR 355/11](3-str-355-11.md) — Bandenmäßiger Betäubungsmittelhandel: Zustandekommen der Bandenabrede; Gesamtstrafenbildung durch den neuen Tatrichter nach Aufhebung der Gesamtstrafe durch das
+- [BGH, Beschluss vom 10.11.2011 - 3 StR 314/11](3-str-314-11.md) — Strafverfahren wegen Betruges: Erfordernis der wirksamen Anklageerhebung und des wirksamen Eröffnungsbeschlusses; Feststellung eines dem Verfall entgegenstehenden Anspruchs
+- [BGH, Beschluss vom 10.11.2011 - 3 StR 355/11](3-str-355-11.md) — Bandenmäßiger Betäubungsmittelhandel: Zustandekommen der Bandenabrede; Gesamtstrafenbildung durch den neuen Tatrichter nach Aufhebung der Gesamtstrafe durch das Rechtsmittelgericht
 - [BGH, Beschluss vom 08.11.2011 - 3 StR 244/11](3-str-244-11.md) — Nötigung eines Verfassungsorgans: Wiederaufleben der Strafbarkeit der einfachen Nötigung; fehlerhafte Annahme der Zuständigkeit des Gerichts
 - [BGH, Beschluss vom 08.11.2011 - 3 StR 310/11](3-str-310-11.md) — Gefährliche Körperverletzung: Anforderungen an den Gehilfenvorsatz
-- [BGH, Beschluss vom 08.11.2011 - 3 StR 316/11](3-str-316-11.md) — Schwerer Raub: Verwendung einer Waffe oder eines gefährlichen Werkzeugs; Idealkonkurrenz zwischen versuchtem und vollendetem Raub zum Nachteil verschiedener Per
+- [BGH, Beschluss vom 08.11.2011 - 3 StR 316/11](3-str-316-11.md) — Schwerer Raub: Verwendung einer Waffe oder eines gefährlichen Werkzeugs; Idealkonkurrenz zwischen versuchtem und vollendetem Raub zum Nachteil verschiedener Personen
 - [BGH, Urteil vom 03.11.2011 - 3 StR 267/11](3-str-267-11.md) — Strafzumessung nach schwerem sexuellen Missbrauch eines Kindes: Annahme eines Schmerzensgeldangebotes als Indiz für einen Täter-Opfer-Ausgleich
 - [BGH, Beschluss vom 27.10.2011 - 3 StR 351/11](3-str-351-11.md) — Totschlag: Tötungsvorsatz bei lebensbedrohlicher Gewaltanwendung in Form von längerem Würgen; Ablehnung mehrerer Beweisanträge wegen Bedeutungslosigkeit
 - [BGH, Beschluss vom 25.10.2011 - 3 StR 206/11](3-str-206-11.md) — Untreue: Psychische Beihilfe und Strafmilderung für den Gehilfen; Höhe der Entschädigung im Falle einer rechtsstaatswidrigen Verfahrensverzögerung
@@ -38,22 +38,22 @@
 - [BGH, Beschluss vom 27.09.2011 - 3 StR 255/11](3-str-255-11.md) — Gegenstand des Strafurteils: Fehlende Identität angeklagter und abgeurteilter Taten bei einer Serie von Sexualdelikten
 - [BGH, Beschluss vom 27.09.2011 - 3 StR 259/11](3-str-259-11.md) — Jugendstrafrecht: Vorrang des Erziehungsgedankens bei Verhängung von Jugendstrafe wegen der Schwere der Schuld
 - [BGH, Beschluss vom 27.09.2011 - 3 StR 296/11](3-str-296-11.md) — Strafzumessung bei Betäubungsmitteldelikten: Anforderungen an die Aufzählung der Zumessungserwägungen in den Urteilsgründen
-- [BGH, Beschluss vom 15.09.2011 - 3 StR 118/11](3-str-118-11.md) — Anfrage an die Strafsenate des BGH: Strafbarkeit wegen Bankrotts bei Beiseiteschaffen des Gesellschaftsvermögens ohne Handeln im Interesse der Gesellschaft - Au
+- [BGH, Beschluss vom 15.09.2011 - 3 StR 118/11](3-str-118-11.md) — Anfrage an die Strafsenate des BGH: Strafbarkeit wegen Bankrotts bei Beiseiteschaffen des Gesellschaftsvermögens ohne Handeln im Interesse der Gesellschaft - Aufgabe der …
 - [BGH, Urteil vom 15.09.2011 - 3 StR 223/11](3-str-223-11.md) — Mordmerkmal der Heimtücke: Spontaner Entschluss zur Tötung des zweiten Opfers nach vorangegangener heimtückischer Tötung des ersten Opfers
-- [BGH, Beschluss vom 13.09.2011 - 3 StR 196/11](3-str-196-11.md) — 1. Die Revisionsrüge, das Gericht habe seine Zuständigkeit mit Unrecht angenommen (§ 338 Nr. 4 StPO), bleibt dem Angeklagten auch dann uneingeschränkt erhalten,
+- [BGH, Beschluss vom 13.09.2011 - 3 StR 196/11](3-str-196-11.md) — 1. Die Revisionsrüge, das Gericht habe seine Zuständigkeit mit Unrecht angenommen (§ 338 Nr. 4 StPO), bleibt dem Angeklagten auch dann uneingeschränkt erhalten, wenn dem Urteil …
 - [BGH, Beschluss vom 13.09.2011 - 3 StR 231/11](3-str-231-11.md) — Zur Einordnung einer kriminellen Vereinigung als in- oder ausländische bzw. als solche innerhalb oder außerhalb der Mitgliedstaaten der Europäischen Union.
 - [BGH, Beschluss vom 13.09.2011 - 3 StR 262/11](3-str-262-11.md) — Mitgliedschaftliche Beteiligung an einer kriminellen Vereinigung: Geographische Zuordnung; Verurteilung auf alternativer Tatsachengrundlage
 - [BGH, Beschluss vom 08.09.2011 - 3 StR 43/11](3-str-43-11.md) — Gesamtfreiheitsstrafe wegen betrügerischer Abrechnungen durch einen Kassenarzt: Rechtsfehlerhafte Ablehnung einer Strafaussetzung zur Bewährung
-- [BGH, Beschluss vom 30.08.2011 - 3 StR 210/11](3-str-210-11.md) — Beweiswürdigung im Strafverfahren wegen Betäubungsmitteldelikten: Beweisverwertungsverbot bei grober Missachtung des Richtervorbehalts infolge der Verkennung ei
+- [BGH, Beschluss vom 30.08.2011 - 3 StR 210/11](3-str-210-11.md) — Beweiswürdigung im Strafverfahren wegen Betäubungsmitteldelikten: Beweisverwertungsverbot bei grober Missachtung des Richtervorbehalts infolge der Verkennung einer Gefahr im …
 - [BGH, Beschluss vom 30.08.2011 - 3 StR 228/11](3-str-228-11.md) — Untreue des GmbH-Geschäftsführers: Missbrauch der Verfügungsmacht über ein Gesellschaftskonto trotz Einverständnis der Gesellschafter
 - [BGH, Beschluss vom 30.08.2011 - 3 StR 264/11](3-str-264-11.md) — Unterbringung in einer Entziehungsanstalt: Nachholung der unterbliebenen Anordnung im Revisionsverfahren des Angeklagten
 - [BGH, Beschluss vom 30.08.2011 - 3 StR 270/11](3-str-270-11.md) — Täterschaft und Teilnahme beim Handeltreiben mit Betäubungsmitteln: Auswahl von Rauschgiftkurieren
 - [BGH, Urteil vom 04.08.2011 - 3 StR 120/11](3-str-120-11.md) — Beweiswürdigung im Strafurteil wegen Mordes: Nichterwähnung eines Beweismittels
-- [BGH, Urteil vom 04.08.2011 - 3 StR 175/11](3-str-175-11.md) — Unterbringung in der Sicherungsverwahrung: Annahme eines Hangs bei mehreren Vergewaltigungstaten innerhalb eines längeren Zeitraums; Anforderungen an die Anordn
-- [BGH, Beschluss vom 04.08.2011 - 3 StR 235/11](3-str-235-11.md) — Strafverfahren wegen schwerer räuberischer Erpressung: Anordnung der Sicherungsverwahrung gegen junge Straftäter und der Unterbringung in einer Entziehungsansta
+- [BGH, Urteil vom 04.08.2011 - 3 StR 175/11](3-str-175-11.md) — Unterbringung in der Sicherungsverwahrung: Annahme eines Hangs bei mehreren Vergewaltigungstaten innerhalb eines längeren Zeitraums; Anforderungen an die Anordnung der …
+- [BGH, Beschluss vom 04.08.2011 - 3 StR 235/11](3-str-235-11.md) — Strafverfahren wegen schwerer räuberischer Erpressung: Anordnung der Sicherungsverwahrung gegen junge Straftäter und der Unterbringung in einer Entziehungsanstalt bei bestehender …
 - [BGH, Beschluss vom 04.08.2011 - 3 StR 99/11](3-str-99-11.md) — Strafverfahren: Anforderungen an den rechtlichen Hinweis auf den möglichen Qualifikationstatbestand eines Sexualdelikts
 - [BGH, Beschluss vom 02.08.2011 - 3 StR 199/11](3-str-199-11.md) — Verurteilung wegen Betäubungsmitteldelikten: Teilbarkeit der Schuldfähigkeitsbeurteilung; geminderte Schuldfähigkeit wegen Angst vor Entzugserscheinungen
-- [BGH, Beschluss vom 02.08.2011 - 3 StR 208/11](3-str-208-11.md) — Sicherungsverwahrung: Anforderungen an die Feststellung eines Hangs bzw. eines Hangtäters; Verhältnismäßigkeitsprüfung bei der Maßregelanordnung im Falle des sc
+- [BGH, Beschluss vom 02.08.2011 - 3 StR 208/11](3-str-208-11.md) — Sicherungsverwahrung: Anforderungen an die Feststellung eines Hangs bzw. eines Hangtäters; Verhältnismäßigkeitsprüfung bei der Maßregelanordnung im Falle des schweren sexuellen …
 - [BGH, Beschluss vom 02.08.2011 - 3 StR 217/11](3-str-217-11.md) — Strafverfahren: Ablehnung des Beweisantrags eines Mitangeklagten als Revisionsgrund
 - [BGH, Beschluss vom 21.07.2011 - 3 StR 44/11](3-str-44-11.md) — Strafverfahren: Ablehnung einer Vielzahl von Beweisanträgen mit gleicher Zielrichtung wegen Bedeutungslosigkeit
 - [BGH, Beschluss vom 20.07.2011 - 3 StR 506/10](3-str-506-10.md) — Vorsätzliche Marktmanipulation: Irreführende Angaben in einer Presseerklärung
@@ -65,8 +65,8 @@
 - [BGH, Beschluss vom 05.07.2011 - 3 StR 188/11](3-str-188-11.md) — Gesamtstrafenbildung nach Aufhebung der Gesamtstrafe im Rechtsmittelverfahren und Zurückverweisung der Sache an das Tatgericht
 - [BGH, Beschluss vom 05.07.2011 - 3 StR 197/11](3-str-197-11.md) — Betrugsserie mit mehreren Personen als Mittätern und Teilnehmern: Beurteilung des tateinheitlichen oder tatmehrheitlichen Zusammentreffens der einzelnen Taten
 - [BGH, Beschluss vom 05.07.2011 - 3 StR 444/10](3-str-444-10.md) — Betrug und Untreue: Schadenskompensation durch Befreiung von einer Verbindlichkeit
-- [BGH, Beschluss vom 05.07.2011 - 3 StR 87/11](3-str-87-11.md) — Das Tatbestandsmerkmal der wiederholten Zuwiderhandlung nach § 95 Abs. 1 Nr. 7 AufenthG erfordert weder eine Ahndung des Erstverstoßes noch eine sonstige behörd
-- [BGH, Urteil vom 30.06.2011 - 3 StR 39/11](3-str-39-11.md) — Verständigung im Strafverfahren: Bindungswirkung von Zusagen des Gerichts bezüglich der Strafaussetzung zur Bewährung im Vorfeld einer verfahrensbeschleunigende
+- [BGH, Beschluss vom 05.07.2011 - 3 StR 87/11](3-str-87-11.md) — Das Tatbestandsmerkmal der wiederholten Zuwiderhandlung nach § 95 Abs. 1 Nr. 7 AufenthG erfordert weder eine Ahndung des Erstverstoßes noch eine sonstige behördliche Reaktion, die …
+- [BGH, Urteil vom 30.06.2011 - 3 StR 39/11](3-str-39-11.md) — Verständigung im Strafverfahren: Bindungswirkung von Zusagen des Gerichts bezüglich der Strafaussetzung zur Bewährung im Vorfeld einer verfahrensbeschleunigenden Absprache
 - [BGH, Beschluss vom 28.06.2011 - 3 StR 164/11](3-str-164-11.md) — Zuständigkeitsänderung im Strafverfahren: Verfahrensübernahme durch schlüssiges Verhalten
 - [BGH, Beschluss vom 28.06.2011 - 3 StR 485/10](3-str-485-10.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Bewusste Gebrauchsbereitschaft; Zulässigkeit mehrerer Protokollberichtigungsverfahren
 - [BGH, Beschluss vom 08.06.2011 - 3 StR 115/11](3-str-115-11.md) — Betrug: Feststellung des Vermögensschadens; gutgläubiger Eigentumserwerbs des getäuschten Käufers
@@ -85,17 +85,17 @@
 - [BGH, Beschluss vom 03.05.2011 - 3 StR 277/10](3-str-277-10.md) — Durchsuchungsanordnung der Staatsanwaltschaft: Verletzung der richterlichen Aufklärungspflicht durch Ablehnung eines Beweisantrages im Strafverfahren
 - [BGH, Beschluss vom 03.05.2011 - 3 StR 33/11](3-str-33-11.md) — Verjährungsunterbrechung durch Durchsuchungsanordnung; Verwirklichung eines besonders schwerer Falls des Betrugs
 - [BGH, Urteil vom 21.04.2011 - 3 StR 50/11](3-str-50-11.md) — Rechtsstaatswidrige Verfahrensverzögerung: Kompensation nach der Vollstreckungslösung; Verzögerung während eines einzelnen Verfahrensabschnitts
-- [BGH, Beschluss vom 19.04.2011 - 3 StR 230/10](3-str-230-10.md) — Zusammenschluss zu einer kriminellen Vereinigung: Zurechnung von Einzeltaten im Rahmen des Betriebs eines Internet-Radiosenders einer rechten Gruppierung; Konku
+- [BGH, Beschluss vom 19.04.2011 - 3 StR 230/10](3-str-230-10.md) — Zusammenschluss zu einer kriminellen Vereinigung: Zurechnung von Einzeltaten im Rahmen des Betriebs eines Internet-Radiosenders einer rechten Gruppierung; Konkurrenzverhältnis der …
 - [BGH, Beschluss vom 19.04.2011 - 3 StR 80/11](3-str-80-11.md) — Schwerer Bandendiebstahl: Verstoß gegen das Doppelverwertungsverbot bei der Strafzumessung gegen einen Mittäter
 - [BGH, Beschluss vom 13.04.2011 - 3 StR 70/11](3-str-70-11.md) — Erpressung: Erzwingung der Herausgabe eines Pfandgegenstandes bei nicht bestehender Forderung
 - [BGH, Urteil vom 07.04.2011 - 3 StR 497/10](3-str-497-10.md) — Strafverfahren: Anforderungen an die Ablehnung des Beweisantrages eines Nebenklägers wegen Bedeutungslosigkeit
 - [BGH, Beschluss vom 07.04.2011 - 3 StR 61/11](3-str-61-11.md) — Fristwahrende Unterbrechung der Hauptverhandlung: Verfahrensfehlerhafte Durchführung eines "reinen Schiebetermins"
 - [BGH, Beschluss vom 05.04.2011 - 3 StR 12/11](3-str-12-11.md) — Sexueller Missbrauch von Schutzbefohlenen: Voraussetzungen eines Obhuts- und Verantwortungsverhältnisses
 - [BGH, Beschluss vom 05.04.2011 - 3 StR 66/11](3-str-66-11.md) — Strafverfahren wegen gefährlicher Körperverletzung: Bedeutung eines zivilrechtlichen Selbsthilferechts bei der strafrechtlichen Notwehrprüfung
-- [BGH, Beschluss vom 31.03.2011 - 3 StR 400/10](3-str-400-10.md) — Verbotene Vernehmungsmethoden: Verstoß gegen die Selbstbelastungsfreiheit bei heimlicher Aufzeichnung des Gesprächs eines freiwilligen Polizeiinformanten mit ei
-- [BGH, Beschluss vom 31.03.2011 - 3 StR 460/10](3-str-460-10.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln: Tatortzuständigkeit bei Tätigkeitsdelikt; auf die Tatbestandsverwirklichung abzielende Handlungen der Haupttät
+- [BGH, Beschluss vom 31.03.2011 - 3 StR 400/10](3-str-400-10.md) — Verbotene Vernehmungsmethoden: Verstoß gegen die Selbstbelastungsfreiheit bei heimlicher Aufzeichnung des Gesprächs eines freiwilligen Polizeiinformanten mit einem Tatverdächtigen
+- [BGH, Beschluss vom 31.03.2011 - 3 StR 460/10](3-str-460-10.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln: Tatortzuständigkeit bei Tätigkeitsdelikt; auf die Tatbestandsverwirklichung abzielende Handlungen der Haupttäter
 - [BGH, Beschluss vom 29.03.2011 - 3 StR 9/11](3-str-9-11.md) — Strafverfahren: Inbegriff der Hauptverhandlung bei Verlesung einer schriftlichen Erklärung des Angeklagten
-- [BGH, Beschluss vom 29.03.2011 - 3 StR 90/11](3-str-90-11.md) — Strafverfahren: Zulässigkeit der Verlesung eines Festnahmeberichts und eines Berichts über eine durchgeführte Wiegung von Betäubungsmitteln in der Hauptverhandl
+- [BGH, Beschluss vom 29.03.2011 - 3 StR 90/11](3-str-90-11.md) — Strafverfahren: Zulässigkeit der Verlesung eines Festnahmeberichts und eines Berichts über eine durchgeführte Wiegung von Betäubungsmitteln in der Hauptverhandlung
 - [BGH, Beschluss vom 15.03.2011 - 3 StR 15/11](3-str-15-11.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Ansetzen zur Tatbestandsverwirklichung durch das Anbringen einer Skimming-Apparatur an einem Geldautomaten
 - [BGH, Beschluss vom 09.03.2011 - 3 StR 51/11](3-str-51-11.md) — Geldfälschung: Inverkehrbringen von Falschgeld in mehreren Einzelakten
 - [BGH, Beschluss vom 03.03.2011 - 3 StR 34/11](3-str-34-11.md) — Strafverfahren: Benachrichtigung des Beschuldigten vom Termin zur richterlichen Vernehmung eines Zeugen
@@ -103,18 +103,18 @@
 - [BGH, Beschluss vom 01.03.2011 - 3 StR 450/10](3-str-450-10.md) — Notwehrlage: Irrige Annahme einer unmittelbar bevorstehenden Intensivierung des rechtswidrigen Angriffs
 - [BGH, Beschluss vom 17.02.2011 - 3 ARs 35/10](3-ars-35-10.md) — Antwort auf Anfrage des 5. Strafsenats zur rückwirkenden Anwendung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Urteil vom 17.02.2011 - 3 StR 394/10](3-str-394-10.md) — Sicherungsverwahrung: Anordnung der Maßregel im Nachverfahren nach fehlerhaftem Vorbehalt
-- [BGH, Urteil vom 17.02.2011 - 3 StR 419/10](3-str-419-10.md) — Die Beurteilung des Konkurrenzverhältnisses richtet sich auch bei der Verabredung mehrerer Verbrechen für jeden Tatbeteiligten allein nach dessen Tathandlung(en
+- [BGH, Urteil vom 17.02.2011 - 3 StR 419/10](3-str-419-10.md) — Die Beurteilung des Konkurrenzverhältnisses richtet sich auch bei der Verabredung mehrerer Verbrechen für jeden Tatbeteiligten allein nach dessen Tathandlung(en) im Sinne des § 30 …
 - [BGH, Urteil vom 17.02.2011 - 3 StR 426/10](3-str-426-10.md) — Verständigung im Strafverfahren: Unzulässigkeit einer Punktstrafe
 - [BGH, Beschluss vom 17.02.2011 - 3 StR 459/10](3-str-459-10.md) — Strafzumessung: Anrechnung ausländischer Haftzeiten im Falle von Straftaten eines Mitglieds der kurdischen PKK
 - [BGH, Beschluss vom 17.02.2011 - 3 StR 477/10](3-str-477-10.md) — Unbefugter Gebrauch eines Kraftfahrzeugs: Erforderlichkeit eines Strafantrags
-- [BGH, Beschluss vom 15.02.2011 - 3 StR 491/10](3-str-491-10.md) — Zur Abgrenzung von strafloser Vorbereitung und (versuchtem) Handeltreiben mit Betäubungsmitteln bei Errichtung einer Indoor-Plantage zum Anbau von Cannabis, das
+- [BGH, Beschluss vom 15.02.2011 - 3 StR 491/10](3-str-491-10.md) — Zur Abgrenzung von strafloser Vorbereitung und (versuchtem) Handeltreiben mit Betäubungsmitteln bei Errichtung einer Indoor-Plantage zum Anbau von Cannabis, das nach der Ernte …
 - [BGH, Urteil vom 03.02.2011 - 3 StR 466/10](3-str-466-10.md) — Sicherungsverwahrung: Absehen von der Anordnung trotz bestehender hangbedingter Gefährlichkeit
 - [BGH, Beschluss vom 01.02.2011 - 3 StR 432/10](3-str-432-10.md) — Schwerer Bandendiebstahl: Abgrenzung zur Tatbeihilfe und Mittäterschaft
 - [BGH, Beschluss vom 01.02.2011 - 3 StR 439/10](3-str-439-10.md) — Sicherungsverwahrung und die Möglichkeit der elektronischen Überwachung des Aufenthalts im Rahmen der Führungsaufsicht
 - [BGH, Beschluss vom 20.01.2011 - 3 StR 420/10](3-str-420-10.md) — Beihilfe zum Betrug: Anforderungen an den Gehilfenvorsatz; Tatbestandsvoraussetzungen einer Begünstigung
 - [BGH, Beschluss vom 18.01.2011 - 3 StR 467/10](3-str-467-10.md) — Schwere räuberische Erpressung: Voraussetzungen einer Erpressung einer Prostituierten
 - [BGH, Beschluss vom 18.01.2011 - 3 StR 504/10](3-str-504-10.md) — Absolute Revisionsgründe im Strafverfahren: Abwesenheit des Angeklagten während der Verhandlung über die Entlassung eines Zeugen
-- [BGH, Urteil vom 13.01.2011 - 3 StR 332/10](3-str-332-10.md) — 1. Das Urteil des Bundesverfassungsgerichts vom 2. März 2010 (1 BvR 256/08 u.a.) hat der Erhebung von Telekommunikationsdaten und deren Übermittlung zum Zweck d
-- [BGH, Urteil vom 13.01.2011 - 3 StR 337/10](3-str-337-10.md) — Revision im Strafverfahren: Anforderungen an die Rüge der Verletzung des Beweisantragsrechts oder die Aufklärungsrüge im Falle der Ablehnung der Verlesung von V
+- [BGH, Urteil vom 13.01.2011 - 3 StR 332/10](3-str-332-10.md) — 1. Das Urteil des Bundesverfassungsgerichts vom 2. März 2010 (1 BvR 256/08 u.a.) hat der Erhebung von Telekommunikationsdaten und deren Übermittlung zum Zweck der Strafverfolgung …
+- [BGH, Urteil vom 13.01.2011 - 3 StR 337/10](3-str-337-10.md) — Revision im Strafverfahren: Anforderungen an die Rüge der Verletzung des Beweisantragsrechts oder die Aufklärungsrüge im Falle der Ablehnung der Verlesung von Verkehrsdaten des …
 - [BGH, Beschluss vom 11.01.2011 - 3 StR 441/10](3-str-441-10.md) — Strafurteil wegen der Verletzung von Dienstgeheimnissen: Verstoß gegen das Doppelverwertungsverbot bei der Strafzumessung
 - [BGH, Beschluss vom 11.01.2011 - 3 StR 484/10](3-str-484-10.md) — Strafverfahrenshindernis: Voraussetzungen der Ersetzung bzw. der Nachholung eines fehlenden Eröffnungsbeschlusses

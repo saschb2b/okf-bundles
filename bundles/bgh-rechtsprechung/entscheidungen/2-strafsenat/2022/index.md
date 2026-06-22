@@ -29,17 +29,17 @@
 - [BGH, Urteil vom 23.11.2022 - 2 StR 175/22](2-str-175-22.md) — Einziehung im Strafverfahren: Beschränkung der Revision auf die Einziehungsentscheidung; Einziehung von Taterträgen bei tatbeteiligtem Kontoinhaber
 - [BGH, Urteil vom 23.11.2022 - 2 StR 268/22](2-str-268-22.md) — BGH, Urteil 2 StR 268/22
 - [BGH, Urteil vom 23.11.2022 - 2 StR 305/22](2-str-305-22.md) — BGH, Urteil 2 StR 305/22
-- [BGH, Beschluss vom 23.11.2022 - 2 StR 378/22](2-str-378-22.md) — Begründungsanforderungen bei Ablehnung der Verminderung der Steuerungsfähigkeit des Angeklagten wegen dessen Amphetaminkonsums; Voraussetzungen der Unterbringun
+- [BGH, Beschluss vom 23.11.2022 - 2 StR 378/22](2-str-378-22.md) — Begründungsanforderungen bei Ablehnung der Verminderung der Steuerungsfähigkeit des Angeklagten wegen dessen Amphetaminkonsums; Voraussetzungen der Unterbringung des Angeklagten …
 - [BGH, Beschluss vom 22.11.2022 - 2 StR 262/22](2-str-262-22.md) — Rechtsfehlerhafte Beweiswürdigung beim Tatvorwurf der Misshandlung von Schutzbefohlenen
 - [BGH, Beschluss vom 22.11.2022 - 2 StR 283/22](2-str-283-22.md) — BGH, Beschluss 2 StR 283/22
-- [BGH, Beschluss vom 22.11.2022 - 2 StR 311/22](2-str-311-22.md) — Strafurteil wegen Kindesmissbrauchs und Besitzes kinderpornografischer Inhalte: Anforderungen an die Wiedergabe des Beweisergebnisses; Einziehung von Festplatte
+- [BGH, Beschluss vom 22.11.2022 - 2 StR 311/22](2-str-311-22.md) — Strafurteil wegen Kindesmissbrauchs und Besitzes kinderpornografischer Inhalte: Anforderungen an die Wiedergabe des Beweisergebnisses; Einziehung von Festplatte und Computer
 - [BGH, Beschluss vom 22.11.2022 - 2 StR 333/22](2-str-333-22.md) — BGH, Beschluss 2 StR 333/22
 - [BGH, Beschluss vom 22.11.2022 - 2 StR 352/22](2-str-352-22.md) — BGH, Beschluss 2 StR 352/22
 - [BGH, Beschluss vom 22.11.2022 - 2 StR 362/22](2-str-362-22.md) — BGH, Beschluss 2 StR 362/22
 - [BGH, Beschluss vom 22.11.2022 - 2 StR 402/22](2-str-402-22.md) — BGH, Beschluss 2 StR 402/22
 - [BGH, Beschluss vom 10.11.2022 - 2 StR 132/22](2-str-132-22.md) — Unterbringung in einer Entziehungsanstalt: Therapiebereitschaft und hinreichend konkrete Erfolgsaussicht
-- [BGH, Beschluss vom 10.11.2022 - 2 StR 92/21](2-str-92-21.md) — Strafurteil wegen Inverkehrbringens qualitätsgeminderter und/oder gefälschter Arzneimittel: Sachrüge im Revisionsverfahren; Berichtigungsfähigkeit der Urteilsfo
-- [BGH, Urteil vom 09.11.2022 - 2 StR 250/22](2-str-250-22.md) — Erfordernis der Prüfung einer Anordnung der Unterbringung in einer Entziehungsanstalt sowie der Nachprüfbarkeit der Feststellungen zur verminderten Schuldfähigk
+- [BGH, Beschluss vom 10.11.2022 - 2 StR 92/21](2-str-92-21.md) — Strafurteil wegen Inverkehrbringens qualitätsgeminderter und/oder gefälschter Arzneimittel: Sachrüge im Revisionsverfahren; Berichtigungsfähigkeit der Urteilsformel; Vorliegen …
+- [BGH, Urteil vom 09.11.2022 - 2 StR 250/22](2-str-250-22.md) — Erfordernis der Prüfung einer Anordnung der Unterbringung in einer Entziehungsanstalt sowie der Nachprüfbarkeit der Feststellungen zur verminderten Schuldfähigkeit
 - [BGH, Beschluss vom 09.11.2022 - 2 StR 328/22](2-str-328-22.md) — BGH, Beschluss 2 StR 328/22
 - [BGH, Beschluss vom 09.11.2022 - 2 StR 368/21](2-str-368-21.md) — BGH, Beschluss 2 StR 368/21
 - [BGH, Beschluss vom 08.11.2022 - 2 StR 102/22](2-str-102-22.md) — Abgrenzung einer Bandenabrede und Irrtum über Funktionalität von Waffe
@@ -68,7 +68,7 @@
 - [BGH, Beschluss vom 28.09.2022 - 2 StR 301/22](2-str-301-22.md) — BGH, Beschluss 2 StR 301/22
 - [BGH, Beschluss vom 28.09.2022 - 2 StR 462/21](2-str-462-21.md) — BGH, Beschluss 2 StR 462/21
 - [BGH, Beschluss vom 28.09.2022 - 2 StR 550/21](2-str-550-21.md) — Strafzumessung: Strafschärfende Berücksichtigung der psychischen Tatfolgen bei Verurteilung zu einer Gesamtfreiheitsstrafe
-- [BGH, Beschluss vom 27.09.2022 - 2 ARs 189/22](2-ars-189-22.md) — Die örtliche Zuständigkeit des zur Entscheidung über ein Auslieferungsverfahren zum Zwecke der Strafverfolgung berufenen Oberlandesgerichts besteht auch dann fo
+- [BGH, Beschluss vom 27.09.2022 - 2 ARs 189/22](2-ars-189-22.md) — Die örtliche Zuständigkeit des zur Entscheidung über ein Auslieferungsverfahren zum Zwecke der Strafverfolgung berufenen Oberlandesgerichts besteht auch dann fort, wenn dieses …
 - [BGH, Beschluss vom 27.09.2022 - 2 StR 112/22](2-str-112-22.md) — BGH, Beschluss 2 StR 112/22
 - [BGH, Beschluss vom 27.09.2022 - 2 StR 61/22](2-str-61-22.md) — Strafzumessung: Strafschärfende Berücksichtigung tilgungsreifer Vorstrafen
 - [BGH, Beschluss vom 27.09.2022 - 2 StR 74/22](2-str-74-22.md) — BGH, Beschluss 2 StR 74/22
@@ -92,22 +92,22 @@
 - [BGH, Beschluss vom 06.07.2022 - 2 StR 53/22](2-str-53-22.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Überprüfung eines Geständnisses
 - [BGH, Beschluss vom 05.07.2022 - 2 StR 106/22](2-str-106-22.md) — Anordnung einer Unterbringung in Entziehungsanstalt bei Hangstraftat
 - [BGH, Beschluss vom 05.07.2022 - 2 StR 276/21](2-str-276-21.md) — BGH, Beschluss 2 StR 276/21
-- [BGH, Beschluss vom 28.06.2022 - 2 StR 229/21](2-str-229-21.md) — Strafverfahren wegen Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln: Unterstützungsleistungen für eine Cannabisplantage; Entschädigung für erlitte
+- [BGH, Beschluss vom 28.06.2022 - 2 StR 229/21](2-str-229-21.md) — Strafverfahren wegen Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln: Unterstützungsleistungen für eine Cannabisplantage; Entschädigung für erlittene Untersuchungshaft
 - [BGH, Beschluss vom 28.06.2022 - 2 StR 47/22](2-str-47-22.md) — Strafzumessung bei Einziehung als Nebenstrafe
 - [BGH, Beschluss vom 23.06.2022 - 2 ARs 405/21](2-ars-405-21.md) — Divergierende Rechtsprechung zweier BGH-Strafsenate zur Frage der Einziehung eines durch eine verjährte Straftat erlangten Wertes
 - [BGH, Beschluss vom 23.06.2022 - 2 StR 134/22](2-str-134-22.md) — BGH, Beschluss 2 StR 134/22
-- [BGH, Beschluss vom 23.06.2022 - 2 StR 269/21](2-str-269-21.md) — Revision in Strafsachen: Rüge der Verletzung von Mitteilungs- und -protokollierungspflichten im Hinblick auf ein Rechtsgespräch oder Gespräch mit dem Ziel der A
+- [BGH, Beschluss vom 23.06.2022 - 2 StR 269/21](2-str-269-21.md) — Revision in Strafsachen: Rüge der Verletzung von Mitteilungs- und -protokollierungspflichten im Hinblick auf ein Rechtsgespräch oder Gespräch mit dem Ziel der Absprache außerhalb …
 - [BGH, Beschluss vom 23.06.2022 - 2 StR 435/21](2-str-435-21.md) — Verwertung von Tatsachen zur Feststellung des Fortbestehens schädlicher Neigungen eines Jugendlichen aufgrund des Nachtatverhaltens
 - [BGH, Urteil vom 22.06.2022 - 2 StR 511/21](2-str-511-21.md) — Anforderungen im Urteil bei Darlegung einer verminderten Schuldfähigkeit und Nichtanordnung einer Maßregelanordnung
 - [BGH, Urteil vom 08.06.2022 - 2 StR 503/21](2-str-503-21.md) — Revision: Lückenhafte Beweiswürdigung sowie Verstoß gegen die Hinweispflicht
 - [BGH, Beschluss vom 02.06.2022 - 2 StR 12/22](2-str-12-22.md) — Einordnung der Beteiligung an unerlaubtem Handeltreiben mit Betäubungsmitteln als Mittäterschaft oder Beihilfe; bandenmäßiges Handeln mit Betäubungsmitteln
 - [BGH, Urteil vom 02.06.2022 - 2 StR 353/21](2-str-353-21.md) — Kapitalanlagebetrug: Täuschung über Tatsachen im Rahmen eines Anlagemodells
 - [BGH, Beschluss vom 02.06.2022 - 2 StR 543/21](2-str-543-21.md) — BGH, Beschluss 2 StR 543/21
-- [BGH, Urteil vom 25.05.2022 - 2 StR 257/21](2-str-257-21.md) — Sicherungsverfahren: Anforderungen an die Darlegung einer Beeinträchtigung der Einsichts- und der Steuerungsfähigkeit zur Tatzeit bei Vorliegen eines psychiatri
+- [BGH, Urteil vom 25.05.2022 - 2 StR 257/21](2-str-257-21.md) — Sicherungsverfahren: Anforderungen an die Darlegung einer Beeinträchtigung der Einsichts- und der Steuerungsfähigkeit zur Tatzeit bei Vorliegen eines psychiatrischen Befunds
 - [BGH, Beschluss vom 24.05.2022 - 2 ARs 96/22](2-ars-96-22.md) — Örtliche Zuständigkeit der Strafvollstreckungskammer im Verfahren über den Widerruf der Bewährung
 - [BGH, Beschluss vom 24.05.2022 - 2 StR 100/22](2-str-100-22.md) — Strafsache: Beihilfe durch Zurverfügungstellen einer Wohnung zur Begehung von Straftaten; Rückschluss aus dem Schweigen der Angeklagten
 - [BGH, Beschluss vom 24.05.2022 - 2 StR 110/22](2-str-110-22.md) — Strafverfahren: Pflicht zur Übermittlung der Revision und ihrer Begründung als elektronisches Dokument
-- [BGH, Beschluss vom 24.05.2022 - 2 StR 394/21](2-str-394-21.md) — Einstellung des Strafverfahrens im Eröffnungsverfahren: Strafklageverbrauch bei Tateinheit zwischen einem Verstoß gegen das Pflichtversicherungsgesetz und dem H
+- [BGH, Beschluss vom 24.05.2022 - 2 StR 394/21](2-str-394-21.md) — Einstellung des Strafverfahrens im Eröffnungsverfahren: Strafklageverbrauch bei Tateinheit zwischen einem Verstoß gegen das Pflichtversicherungsgesetz und dem Handeltreiben mit …
 - [BGH, Urteil vom 11.05.2022 - 2 StR 445/21](2-str-445-21.md) — Mord: Anforderungen an das Mordmerkmal der Heimtücke
 - [BGH, Beschluss vom 10.05.2022 - 2 ARs 170/21](2-ars-170-21.md) — Verkehrsordnungswidrigkeit: Gerichtliche Zuständigkeit für selbständige Einziehungsverfahren in Baden-Württemberg
 - [BGH, Beschluss vom 10.05.2022 - 2 StR 501/21](2-str-501-21.md) — Strafverfahren: Anforderungen an eine Berichtigung des Hauptverhandlungsprotokolls
@@ -125,9 +125,9 @@
 - [BGH, Beschluss vom 30.03.2022 - 2 StR 11/22](2-str-11-22.md) — Unterbringung in einer Entziehungsanstalt: Ablehnung wegen Unverhältnismäßigkeit von Begleitstrafe und prognostischer Unterbringungsdauer
 - [BGH, Beschluss vom 30.03.2022 - 2 StR 151/21](2-str-151-21.md) — Strafverfolgungsverjährung: Unterbrechung des Laufs der Verjährungsfrist durch Durchsuchungsanordnungen in einem Verfahren wegen einer Vielzahl von Taten
 - [BGH, Urteil vom 30.03.2022 - 2 StR 263/21](2-str-263-21.md) — Notwehr: Gegenwärtigkeit des Angriffs; Schusswaffengebrauch im Rahmen einer verbalen Auseinandersetzung
-- [BGH, Urteil vom 30.03.2022 - 2 StR 292/21](2-str-292-21.md) — Revisionsgerichtliche Überprüfung der tatrichterlichen Beweiswürdigung im Falle eines Freispruchs: Erfordernis der Darlegung des Geschehensablaufs in der Gesamt
+- [BGH, Urteil vom 30.03.2022 - 2 StR 292/21](2-str-292-21.md) — Revisionsgerichtliche Überprüfung der tatrichterlichen Beweiswürdigung im Falle eines Freispruchs: Erfordernis der Darlegung des Geschehensablaufs in der Gesamtschau …
 - [BGH, Beschluss vom 30.03.2022 - 2 StR 64/21](2-str-64-21.md) — Revisionsbegründung durch Angeklagten zu Protokoll der Geschäftsstelle: Verantwortungsübernahme durch den Urkundsbeamten
-- [BGH, Beschluss vom 29.03.2022 - 2 StR 385/21](2-str-385-21.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: Maßgeblicher Zeitpunkt der Prognoseentscheidung; Darlegung der hinreichend konkreten Aussicht eines Beh
+- [BGH, Beschluss vom 29.03.2022 - 2 StR 385/21](2-str-385-21.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: Maßgeblicher Zeitpunkt der Prognoseentscheidung; Darlegung der hinreichend konkreten Aussicht eines Behandlungserfolgs
 - [BGH, Beschluss vom 29.03.2022 - 2 StR 426/21](2-str-426-21.md) — Amtsanmaßung: Tatbestandsverwirklichung bei leicht durchschaubarer Handlung
 - [BGH, Beschluss vom 29.03.2022 - 2 StR 490/21](2-str-490-21.md) — Verurteilung wegen schweren sexuellen Missbrauchs eines Kindes in Tateinheit mit dem Herstellen kinderpornographischer Schriften
 - [BGH, Beschluss vom 17.03.2022 - 2 StR 157/21](2-str-157-21.md) — Abgrenzung von Tun und Unterlassen sowie Anforderungen an den Tötungsvorsatz bei einer Verurteilung wegen Mordes
@@ -136,12 +136,12 @@
 - [BGH, Beschluss vom 01.03.2022 - 2 StR 28/22](2-str-28-22.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Begründung der für die Unterbringung erforderlichen hinreichend konkreten Erfolgsaussicht
 - [BGH, Beschluss vom 23.02.2022 - 2 ARs 376/21](2-ars-376-21.md) — Nachträgliche Bildung einer Gesamtstrafe: Bestimmung des zuständigen Gerichts
 - [BGH, Beschluss vom 23.02.2022 - 2 StR 156/21](2-str-156-21.md) — Revision im Strafverfahren: Verlust der von den Berufsrichtern unterzeichneten Urteilsurschrift
-- [BGH, Beschluss vom 23.02.2022 - 2 StR 444/21](2-str-444-21.md) — Strafverurteilung wegen Betäubungsmitteldelikten einer Bande: Strafzumessung und Einziehung sichergestellter Gegenstände und Bargeld; Behandlung gezahlter Beträ
+- [BGH, Beschluss vom 23.02.2022 - 2 StR 444/21](2-str-444-21.md) — Strafverurteilung wegen Betäubungsmitteldelikten einer Bande: Strafzumessung und Einziehung sichergestellter Gegenstände und Bargeld; Behandlung gezahlter Beträge für die …
 - [BGH, Beschluss vom 16.02.2022 - 2 StR 361/21](2-str-361-21.md) — Kostentragung der notwendigen Auslagen im Revisionsverfahren
 - [BGH, Urteil vom 16.02.2022 - 2 StR 399/21](2-str-399-21.md) — Beweiswürdigung im Strafurteil: Anforderungen an die Darlegung begründeter Zweifel bei einem Freispruch vom Totschlag
 - [BGH, Beschluss vom 03.02.2022 - 2 StR 317/21](2-str-317-21.md) — Rücktritt vom versuchten Mord: Beurteilung des Rücktrittshorizonts bei einem mehraktigen Geschehen
 - [BGH, Urteil vom 02.02.2022 - 2 StR 295/21](2-str-295-21.md) — Sexueller Missbrauch eines Kindes und Vornahme von sexuellen Handlungen vor dem Kind; Verhängung von Jugendstrafe; Schwere der Schuld
-- [BGH, Urteil vom 02.02.2022 - 2 StR 41/21](2-str-41-21.md) — Bei einer unbegründeten Revision der Nebenklage erstreckt sich die aus § 301 analog StPO folgende Kontrollbefugnis des Revisionsgerichts auf Rechtsfehler zum Na
+- [BGH, Urteil vom 02.02.2022 - 2 StR 41/21](2-str-41-21.md) — Bei einer unbegründeten Revision der Nebenklage erstreckt sich die aus § 301 analog StPO folgende Kontrollbefugnis des Revisionsgerichts auf Rechtsfehler zum Nachteil des …
 - [BGH, Urteil vom 02.02.2022 - 2 StR 442/21](2-str-442-21.md) — Tatrichterliche Überzeugungsbildung von der Täterschaft: Notwendige Inbezugsetzung von Indiztatsachen; Tatnachweis durch Wiedererkennen
 - [BGH, Beschluss vom 01.02.2022 - 2 ARs 382/21](2-ars-382-21.md) — Gerichtsstandsbestimmung in Strafvollstreckungssachen: Fortwirkungszuständigkeit der Strafvollstreckungskammer für Vollstreckung einer Einziehungsanordnung
 - [BGH, Beschluss vom 01.02.2022 - 2 StR 306/21](2-str-306-21.md) — Strafverurteilung wegen versuchten Totschlags: Anforderungen an tatrichterliche Urteilsfeststellungen zum Rücktrittshorizont nach einem Messerangriff

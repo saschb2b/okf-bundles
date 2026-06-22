@@ -8,7 +8,7 @@
 - [BGH, Beschluss vom 27.11.2024 - StB 66/24](stb-66-24.md) — Dringender Tatverdacht der Unterstützung inländischer terroristischer Vereinigung
 - [BGH, Beschluss vom 13.11.2024 - StB 63/24](stb-63-24.md) — Pflichtverteidigerwechsel aufgrund erheblicher Gesundheitsbeeinträchtigungen mit drohenden Ausfallzeiten sowie eingeschränkter Reisefähigkeit
 - [BGH, Beschluss vom 07.11.2024 - StB 62/24](stb-62-24.md) — Zuständigkeit für Entscheidungen über Pflichtverteidigerwechsel
-- [BGH, Beschluss vom 31.10.2024 - StB 21/24](stb-21-24.md) — 1. In eng umgrenzten Ausnahmefällen können finanzielle Zuwendungen eines Außenstehenden an ein Mitglied nicht als Unterstützung einer kriminellen oder terrorist
+- [BGH, Beschluss vom 31.10.2024 - StB 21/24](stb-21-24.md) — 1. In eng umgrenzten Ausnahmefällen können finanzielle Zuwendungen eines Außenstehenden an ein Mitglied nicht als Unterstützung einer kriminellen oder terroristischen Vereinigung …
 - [BGH, Beschluss vom 31.10.2024 - StB 61/24](stb-61-24.md) — Verhältnismäßigkeit des Haftgrundes der Schwerstkriminalität
 - [BGH, Beschluss vom 30.10.2024 - AK 83 u. 84/24, AK 83/24, AK 84/24](ak-83-u-84-24-ak-83-24-ak-84-24.md) — BGH, Beschluss AK 83 u. 84/24, AK 83/24, AK 84/24
 - [BGH, Beschluss vom 30.10.2024 - AK 86/24](ak-86-24.md) — BGH, Beschluss AK 86/24
@@ -37,7 +37,7 @@
 - [BGH, Beschluss vom 06.08.2024 - StB 45/24](stb-45-24.md) — Zulässigkeit einer Pflichtverteidigerbestellung vor amtlicher Bekanntgabe des Tatvorwurfs
 - [BGH, Beschluss vom 06.08.2024 - StB 48/24](stb-48-24.md) — BGH, Beschluss StB 48/24
 - [BGH, Beschluss vom 24.07.2024 - StB 41/24](stb-41-24.md) — Beschwer eines Verurteilen nach Wideruf der Einwilligung zur Aussetzung der Strafvollstreckung und Fortsetzung der Strafhaft
-- [BGH, Beschluss vom 10.07.2024 - StB 29/24, StB 30/24](stb-29-24-stb-30-24.md) — Hinreichender Tatverdacht der mitgliedschaftlichen Beteiligung an der terroristischen Vereinigung PKK im Ausland; Einziehung von Geldern als Tatmittel bei Organ
+- [BGH, Beschluss vom 10.07.2024 - StB 29/24, StB 30/24](stb-29-24-stb-30-24.md) — Hinreichender Tatverdacht der mitgliedschaftlichen Beteiligung an der terroristischen Vereinigung PKK im Ausland; Einziehung von Geldern als Tatmittel bei Organisationsdelikten
 - [BGH, Beschluss vom 27.06.2024 - AK 56/24](ak-56-24.md) — BGH, Beschluss AK 56/24
 - [BGH, Beschluss vom 27.06.2024 - StB 33/24](stb-33-24.md) — BGH, Beschluss StB 33/24
 - [BGH, Beschluss vom 26.06.2024 - AK 53 - 55/24, AK 53/24, AK 54/24, AK 55/24](ak-53-55-24-ak-53-24-ak-54-24-ak-55-24.md) — HAMAS als ausländische terroristische Vereinigung
@@ -61,11 +61,11 @@
 - [BGH, Beschluss vom 12.03.2024 - StB 16/24](stb-16-24.md) — Auswechselung eines Pflichtverteidigers wegen Störung des Vertrauensverhältnisses
 - [BGH, Beschluss vom 07.03.2024 - StB 14/24](stb-14-24.md) — BGH, Beschluss StB 14/24
 - [BGH, Beschluss vom 07.03.2024 - StB 15/24](stb-15-24.md) — BGH, Beschluss StB 15/24
-- [BGH, Beschluss vom 21.02.2024 - AK 4/24](ak-4-24.md) — 1. Die allgemeine Funktionsträgerimmunität gilt bei völkerrechtlichen Verbrechen nicht, und zwar unabhängig vom Status und Rang des Täters. Der Ausschluss diese
+- [BGH, Beschluss vom 21.02.2024 - AK 4/24](ak-4-24.md) — 1. Die allgemeine Funktionsträgerimmunität gilt bei völkerrechtlichen Verbrechen nicht, und zwar unabhängig vom Status und Rang des Täters. Der Ausschluss dieser funktionellen …
 - [BGH, Beschluss vom 06.02.2024 - AK 2/24](ak-2-24.md) — Haftprüfungsverfahren: Erweiterung des Haftbefehls bei Hinweisen auf zusätzliche Embargoverstöße
 - [BGH, Beschluss vom 06.02.2024 - StB 76 - 78/23, StB 76/23, StB 77/23, StB 78/23](stb-76-78-23-stb-76-23-stb-77-23-stb-78-23.md) — BGH, Beschluss StB 76 - 78/23, StB 76/23, StB 77/23, StB 78/23
 - [BGH, Beschluss vom 01.02.2024 - StB 65/23](stb-65-23.md) — BGH, Beschluss StB 65/23
-- [BGH, Beschluss vom 31.01.2024 - AK 1/24](ak-1-24.md) — Fortdauer von Untersuchungshaftbefehl wegen versuchten Mordes im Rahmen der Schwerstkriminalität: Niedriger Beweggrund bei politischer Tatmotivation unter Betei
+- [BGH, Beschluss vom 31.01.2024 - AK 1/24](ak-1-24.md) — Fortdauer von Untersuchungshaftbefehl wegen versuchten Mordes im Rahmen der Schwerstkriminalität: Niedriger Beweggrund bei politischer Tatmotivation unter Beteiligung an einer …
 - [BGH, Beschluss vom 25.01.2024 - StB 3/24](stb-3-24.md) — BGH, Beschluss StB 3/24
 - [BGH, Beschluss vom 24.01.2024 - AK 100 - 106/23, AK 100/23, AK 101/23, AK 102/23, AK 103/23, AK 104/23, AK 105/23, AK 106/23](ak-100-106-23-ak-100-23-ak-101-23-ak-102-23-ak-103-23-ak-104-23-ak-kore606572024.md) — BGH, Beschluss AK 100 - 106/23, AK 100/23, AK 101/23, AK 102/23, AK 103/23, AK 104/23, AK 105/23, AK 106/23
 - [BGH, Beschluss vom 24.01.2024 - StB 1/24](stb-1-24.md) — BGH, Beschluss StB 1/24

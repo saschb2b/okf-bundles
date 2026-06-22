@@ -5,7 +5,7 @@
 - [BGH, Beschluss vom 11.12.2006 - 5 StR 457/06](5-str-457-06.md) — Totschlags
 - [BGH, Beschluss vom 28.11.2006 - 5 StR 475/06](5-str-475-06.md) — versuchter schwerer Brandstiftung u. a.
 - [BGH, Beschluss vom 25.10.2006 - 5 StR 370/06](5-str-370-06.md) — versuchter Nötigung u. a.
-- [BGH, Entscheidung vom 10.10.2006 - 5 StR 212/06](5-str-212-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 10.10.2006 - 5 StR 212/06](5-str-212-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 28.09.2006 - 5 StR 275/06](5-str-275-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Urteil vom 06.09.2006 - 5 StR 156/06](5-str-156-06.md) — gewerbsmäßiger Steuerhinterziehung u. a.
 - [BGH, Urteil vom 06.09.2006 - 5 StR 64/06](5-str-64-06.md) — Betruges u. a.

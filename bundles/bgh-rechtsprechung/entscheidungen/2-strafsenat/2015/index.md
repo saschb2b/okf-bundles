@@ -2,14 +2,14 @@
 
 153 Entscheidung(en).
 
-- [BGH, Beschluss vom 29.12.2015 - 2 StR 322/15](2-str-322-15.md) — Beweiswürdigung im Strafverfahren: Wiedergabe von Beweisergebnissen zur Begründung der Glaubhaftigkeit eines Geständnisses im Rahmen einer Verfahrensverständigu
+- [BGH, Beschluss vom 29.12.2015 - 2 StR 322/15](2-str-322-15.md) — Beweiswürdigung im Strafverfahren: Wiedergabe von Beweisergebnissen zur Begründung der Glaubhaftigkeit eines Geständnisses im Rahmen einer Verfahrensverständigung
 - [BGH, Beschluss vom 23.12.2015 - 2 ARs 434/14](2-ars-434-14.md) — BGH, Beschluss 2 ARs 434/14
 - [BGH, Urteil vom 23.12.2015 - 2 StR 457/14](2-str-457-14.md) — Verfahrensgrundrechte im Strafverfahren: Übersetzung der Anklageschrift für einen der deutschen Sprache nicht hinreichend mächtigen Beschuldigten
-- [BGH, Urteil vom 23.12.2015 - 2 StR 525/13](2-str-525-13.md) — Nikotinhaltige Verbrauchsstoffe für elektronische Zigaretten sind keine Arzneimittel, soweit sie nicht zur Rauchentwöhnung bestimmt sind. Es handelt sich um Tab
+- [BGH, Urteil vom 23.12.2015 - 2 StR 525/13](2-str-525-13.md) — Nikotinhaltige Verbrauchsstoffe für elektronische Zigaretten sind keine Arzneimittel, soweit sie nicht zur Rauchentwöhnung bestimmt sind. Es handelt sich um Tabakerzeugnisse, die …
 - [BGH, Beschluss vom 22.12.2015 - 2 StR 207/15](2-str-207-15.md) — Strafverfahren wegen Brandstiftung: Verwertung getilgter Verurteilungen bei Erstellung eines Gutachtens über den Geisteszustand des Betroffenen
 - [BGH, Beschluss vom 22.12.2015 - 2 StR 419/15](2-str-419-15.md) — Beihilfe: Beihilfe durch positives Tun in Fällen der bloßen Vermittlung eines „Gefühls der Sicherheit“
 - [BGH, Beschluss vom 17.12.2015 - 2 StR 275/15](2-str-275-15.md) — Strafverfahren wegen Mordes: Ermöglichung einer anderen Straftat durch Tötung zur Beendigung der Schwangerschaft
-- [BGH, Beschluss vom 16.12.2015 - 2 StR 191/15](2-str-191-15.md) — Urteilstenor bei schwerem sexuellen Missbrauch von Kindern: Konkrete Bezeichnung des gesetzlichen Tatbestandes und der Zahl der Missbrauchsfälle; Tateinheit zwi
+- [BGH, Beschluss vom 16.12.2015 - 2 StR 191/15](2-str-191-15.md) — Urteilstenor bei schwerem sexuellen Missbrauch von Kindern: Konkrete Bezeichnung des gesetzlichen Tatbestandes und der Zahl der Missbrauchsfälle; Tateinheit zwischen Grunddelikt …
 - [BGH, Beschluss vom 16.12.2015 - 2 StR 469/15](2-str-469-15.md) — Unterbringung in einer Entziehungsanstalt: Gefährlichkeitsprognose auf der Grundlage eines standardisierten Prognoseinstruments
 - [BGH, Urteil vom 09.12.2015 - 2 StR 261/15](2-str-261-15.md) — Sexueller Missbrauch eines Kindes: Vornahme von sexuellen Handlungen vor einem Kind
 - [BGH, Beschluss vom 08.12.2015 - 2 StR 200/15](2-str-200-15.md) — Sexueller Missbrauch von Schutzbefohlenen: Voraussetzungen eines tatbestandsmäßigen Obhutsverhältnisses
@@ -18,50 +18,50 @@
 - [BGH, Urteil vom 02.12.2015 - 2 StR 258/15](2-str-258-15.md) — Betäubungsmitteldelikt: Strafzumessung bei strafschärfender Berücksichtigung der Tat als Nachtatverhalten im Rahmen einer Vorverurteilung
 - [BGH, Beschluss vom 02.12.2015 - 2 StR 310/15](2-str-310-15.md) — Landfriedensbruch: Zurechnung eines durch einen Mittäter verwirklichten Regelbeispiels für einen besonders schweren Fall; Subsidiaritätsklausel
 - [BGH, Beschluss vom 02.12.2015 - 2 StR 317/15](2-str-317-15.md) — Strafzumessung bei gefährlicher Körperverletzung: Begründung einer außergewöhnlich hohen Strafe
-- [BGH, Beschluss vom 26.11.2015 - 2 StR 144/15](2-str-144-15.md) — Strafbare Untreue eines Rechtsanwalts: Veruntreuung von Mandantengeldern; Tatbestandsverwirklichung durch Unterlassen der Weiterleitung oder durch aktives Anfor
+- [BGH, Beschluss vom 26.11.2015 - 2 StR 144/15](2-str-144-15.md) — Strafbare Untreue eines Rechtsanwalts: Veruntreuung von Mandantengeldern; Tatbestandsverwirklichung durch Unterlassen der Weiterleitung oder durch aktives Anfordern von …
 - [BGH, Urteil vom 25.11.2015 - 2 StR 165/15](2-str-165-15.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Verwahrung von Schusswaffen und Munition in demselben Raum wie die gelagerten Drogen
 - [BGH, Beschluss vom 19.11.2015 - 2 StR 462/15](2-str-462-15.md) — Rücktritt vom Versuch: Fehlschlagen des Versuchs; Rücktrittshorizont des Täters
 - [BGH, Beschluss vom 18.11.2015 - 2 StR 399/15](2-str-399-15.md) — Betäubungsmittelhandel: Wertersatzverfall des Erlöses aus Drogenverkäufen
-- [BGH, Beschluss vom 12.11.2015 - 2 StR 197/15](2-str-197-15.md) — Beihilfe zum bandenmäßigen Fälschen von Zahlungskarten mit Garantiefunktion: Ausschließliches Einlesen und Speichern von Kartendaten durch "Skimming" an Geldaut
+- [BGH, Beschluss vom 12.11.2015 - 2 StR 197/15](2-str-197-15.md) — Beihilfe zum bandenmäßigen Fälschen von Zahlungskarten mit Garantiefunktion: Ausschließliches Einlesen und Speichern von Kartendaten durch "Skimming" an Geldautomaten
 - [BGH, Beschluss vom 12.11.2015 - 2 StR 311/15](2-str-311-15.md) — Revision im Strafverfahren: Anfechtungsbefugnis des Angeklagten bei Nichtausschluss der Öffentlichkeit bei den Schlussvorträgen
 - [BGH, Beschluss vom 12.11.2015 - 2 StR 369/15](2-str-369-15.md) — Revisionsgerichtliche Überprüfung der Strafzumessung bei schwerem Bandendiebstahl: Berücksichtigung des vertypten Strafmilderungsgrundes der Aufklärungshilfe
 - [BGH, Beschluss vom 12.11.2015 - 2 StR 429/15](2-str-429-15.md) — Strafverfahren wegen Urkundenfälschung: Mehrmaliger Gebrauch einer gefälschten Urkunde bei Betrugsstraftaten
-- [BGH, Beschluss vom 11.11.2015 - 2 StR 180/15](2-str-180-15.md) — Unmittelbarkeit bei der Beweiserhebung: Verlesung von schriftlichen Erklärungen eines in der Hauptverhandlung nicht vernommenen Zeugen wegen Berufung auf ein um
+- [BGH, Beschluss vom 11.11.2015 - 2 StR 180/15](2-str-180-15.md) — Unmittelbarkeit bei der Beweiserhebung: Verlesung von schriftlichen Erklärungen eines in der Hauptverhandlung nicht vernommenen Zeugen wegen Berufung auf ein umfassendes …
 - [BGH, Beschluss vom 11.11.2015 - 2 StR 272/15](2-str-272-15.md) — Strafzumessung: Indizwirkung der Begehung einer neuen Straftat während des laufenden Ermittlungsverfahrens für fehlende Rechtstreue
 - [BGH, Beschluss vom 11.11.2015 - 2 StR 299/15](2-str-299-15.md) — Urkundenfälschung: Tateinheit bei Einreichung gefälschter Überweisungsträger bei der Bank
 - [BGH, Beschluss vom 05.11.2015 - 2 StR 96/15](2-str-96-15.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Voraussetzungen strafbarer Beihilfe
-- [BGH, Beschluss vom 27.10.2015 - 2 StR 312/15](2-str-312-15.md) — Strafverfahren wegen versuchten Mordes: Anforderungen an die Feststellungen eines bedingten Tötungsvorsatzes bei Abgabe von zwei Schüssen mit einer scharfen Waf
+- [BGH, Beschluss vom 27.10.2015 - 2 StR 312/15](2-str-312-15.md) — Strafverfahren wegen versuchten Mordes: Anforderungen an die Feststellungen eines bedingten Tötungsvorsatzes bei Abgabe von zwei Schüssen mit einer scharfen Waffe aus kurzer …
 - [BGH, Beschluss vom 27.10.2015 - 2 StR 4/15](2-str-4-15.md) — Beweiswürdigung im Strafverfahren wegen Totschlags: Rückschlüsse auf die Täterschaft eines Angeklagten im Wege der Ausschlussmethode
 - [BGH, Beschluss vom 15.10.2015 - 2 StR 274/15](2-str-274-15.md) — Bemessung einer Einheitsjugendstrafe
 - [BGH, Urteil vom 14.10.2015 - 2 StR 10/15](2-str-10-15.md) — Einschränkung des Notwehrrechts: Sozialethisch zu missbilligendes Vorverhalten
 - [BGH, Urteil vom 14.10.2015 - 2 StR 115/15](2-str-115-15.md) — Verminderte Schuldfähigkeit: Ablehnung einer alkoholbedingten erheblichen Beeinträchtigung der Steuerungsfähigkeit
-- [BGH, Urteil vom 14.10.2015 - 2 StR 236/15](2-str-236-15.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Wiedergabe der Aussagen eines Belastungszeugen und an die Auseinandersetzung mit den Einlassungen des An
+- [BGH, Urteil vom 14.10.2015 - 2 StR 236/15](2-str-236-15.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Wiedergabe der Aussagen eines Belastungszeugen und an die Auseinandersetzung mit den Einlassungen des Angeklagten
 - [BGH, Urteil vom 14.10.2015 - 2 StR 245/15](2-str-245-15.md) — Tötungsvorsatz bei Querschlägern
 - [BGH, Beschluss vom 13.10.2015 - 2 StR 495/14](2-str-495-14.md) — Nachträgliche Gesamtstrafenbildung: Zäsurwirkung durch eine erledigte Vorverurteilung
 - [BGH, Beschluss vom 08.10.2015 - 2 StR 103/15](2-str-103-15.md) — Strafverfahren: Widerruf einer Ermächtigung zur Zurücknahme eines Rechtsmittels
 - [BGH, Beschluss vom 29.09.2015 - 2 StR 128/15](2-str-128-15.md) — Strafverfahren wegen Untreue: Strafzumessung bei langer Verfahrensdauer
-- [BGH, Beschluss vom 24.09.2015 - 2 StR 126/15](2-str-126-15.md) — Beweiswürdigung im Strafverfahren: Richterliche Hinweispflicht vor Verwertung einer gerichtskundigen Tatsache; Erkenntnisse zum Wirkstoffgehalt eines Betäubungs
+- [BGH, Beschluss vom 24.09.2015 - 2 StR 126/15](2-str-126-15.md) — Beweiswürdigung im Strafverfahren: Richterliche Hinweispflicht vor Verwertung einer gerichtskundigen Tatsache; Erkenntnisse zum Wirkstoffgehalt eines Betäubungsmittels als …
 - [BGH, Beschluss vom 24.09.2015 - 2 StR 362/15](2-str-362-15.md) — Strafzumessung bei sexuellem Kindesmissbrauch: Fehlerhafte Gesamtstrafenbildung wegen angeblich fehlender Aufarbeitung der Straftaten durch den Angeklagten
-- [BGH, Urteil vom 23.09.2015 - 2 StR 434/14](2-str-434-14.md) — Richterablehnung im Strafverfahren: Befangenheitsbesorgnis bei Widerruf der Pflichtverteidigerbestellung; Abgrenzung von Mittäterschaft und Beihilfe bei Betrugs
+- [BGH, Urteil vom 23.09.2015 - 2 StR 434/14](2-str-434-14.md) — Richterablehnung im Strafverfahren: Befangenheitsbesorgnis bei Widerruf der Pflichtverteidigerbestellung; Abgrenzung von Mittäterschaft und Beihilfe bei Betrugstaten …
 - [BGH, Urteil vom 16.09.2015 - 2 StR 483/14](2-str-483-14.md) — Strafverfahren wegen Totschlags: Feststellung bedingten Tötungsvorsatzes bei eingeschränkter Steuerungsfähigkeit des Angeklagten infolge Alkoholkonsums
 - [BGH, Urteil vom 16.09.2015 - 2 StR 71/15](2-str-71-15.md) — Diebstahlsversuch: Ansetzen zur Verwirklichung des Tatbestands beim Trickdiebstahl aus einer Wohnung
-- [BGH, Beschluss vom 15.09.2015 - 2 StR 21/15](2-str-21-15.md) — Strafzumessung: Strafschärfende Berücksichtigung eines fehlenden Anlasses zur Tat; erforderliche kriminelle Energie und Gewaltbereitschaft für Strafschärfung be
+- [BGH, Beschluss vom 15.09.2015 - 2 StR 21/15](2-str-21-15.md) — Strafzumessung: Strafschärfende Berücksichtigung eines fehlenden Anlasses zur Tat; erforderliche kriminelle Energie und Gewaltbereitschaft für Strafschärfung bei einem …
 - [BGH, Beschluss vom 08.09.2015 - 2 ARs 142/15](2-ars-142-15.md) — Jugendstrafverfahren: Gerichtsstand bei Aufenthaltswechsel nach Anklageerhebung
 - [BGH, Beschluss vom 08.09.2015 - 2 StR 136/15](2-str-136-15.md) — Strafverfahren wegen Handeltreibens mit Betäubungsmitteln: Übernahme von Feststellungen zu den persönlichen Verhältnissen aus einem aufgehobenen Urteil
 - [BGH, Beschluss vom 08.09.2015 - 2 StR 304/15](2-str-304-15.md) — Aufhebung des Rechtsfolgenausspruchs in der Revisionsinstanz: Pflicht des neuen Tatrichters zu Feststellungen zu den persönlichen Verhältnissen des Angeklagten
-- [BGH, Beschluss vom 07.09.2015 - 2 StR 124/15](2-str-124-15.md) — Strafverfahren wegen besonders schwerer räuberischer Erpressung: Fehlerhafte Strafzumessungserwägungen; Verstoß gegen das Doppelverwertungsverbot; Kenntnis von 
+- [BGH, Beschluss vom 07.09.2015 - 2 StR 124/15](2-str-124-15.md) — Strafverfahren wegen besonders schwerer räuberischer Erpressung: Fehlerhafte Strafzumessungserwägungen; Verstoß gegen das Doppelverwertungsverbot; Kenntnis von der Strafbarkeit …
 - [BGH, Beschluss vom 07.09.2015 - 2 StR 194/15](2-str-194-15.md) — Bedingter Tötungsvorsatz: Schlag mit einer Bierflasche gegen den Kopf des Opfers
 - [BGH, Beschluss vom 07.09.2015 - 2 StR 305/15](2-str-305-15.md) — Betäubungsmitteldelikt: Strafmilderung bei Aufklärungshilfe im Ermittlungsverfahren
 - [BGH, Beschluss vom 07.09.2015 - 2 StR 350/15](2-str-350-15.md) — Verminderte Schuldfähigkeit: Strafmilderung als Ermessensentscheidung des Tatrichters; Ausnahmen von der regelmäßig vorzunehmenden Strafrahmenverschiebung
-- [BGH, Beschluss vom 02.09.2015 - 2 StR 101/15](2-str-101-15.md) — Beweiswürdigung im Strafurteil wegen sexuellen Missbrauchs eines Kindes: Notwendige Auseinandersetzung mit einer abweichenden Tatschilderung des einzigen Belast
+- [BGH, Beschluss vom 02.09.2015 - 2 StR 101/15](2-str-101-15.md) — Beweiswürdigung im Strafurteil wegen sexuellen Missbrauchs eines Kindes: Notwendige Auseinandersetzung mit einer abweichenden Tatschilderung des einzigen Belastungszeugen in der …
 - [BGH, Beschluss vom 02.09.2015 - 2 StR 49/15](2-str-49-15.md) — Strafverfahren wegen Betrugs: Gerichtliche Hinweispflicht auf Änderung des rechtlichen Gesichtspunkts
 - [BGH, Beschluss vom 13.08.2015 - 2 StR 62/15](2-str-62-15.md) — Adhäsionsverfahren: Schadensersatzanspruch in ausländischer Währung; Anforderungen an die Begründung einer Adhäsionsentscheidung
 - [BGH, Urteil vom 05.08.2015 - 2 StR 172/15](2-str-172-15.md) — Strafbares Vorenthalten von Arbeitsentgelt: Feststellung eines sozialversicherungspflichtigen Beschäftigungsverhältnisses
-- [BGH, Beschluss vom 28.07.2015 - 2 StR 38/15](2-str-38-15.md) — Hauptverhandlung in Strafsachen: Einführung eines komplexen schriftlichen Handschriften-Gutachtens im Rahmen mündlichen Gutachtenerläuterung durch den Sachverst
+- [BGH, Beschluss vom 28.07.2015 - 2 StR 38/15](2-str-38-15.md) — Hauptverhandlung in Strafsachen: Einführung eines komplexen schriftlichen Handschriften-Gutachtens im Rahmen mündlichen Gutachtenerläuterung durch den Sachverständigen
 - [BGH, Beschluss vom 22.07.2015 - 2 StR 105/15](2-str-105-15.md) — Nachträgliche Gesamtstrafenbildung: Zäsurwirkung bei Absehen von Gesamtstrafenbildung mit Geldstrafe
-- [BGH, Urteil vom 22.07.2015 - 2 StR 389/13](2-str-389-13.md) — Strafverfahren wegen bandenmäßigem Einschleusen von Ausländern: Strafbarkeit bei Gründung einer Scheinfirma und kollusivem Amtsträgerhandeln zum Erschleichen vo
-- [BGH, Urteil vom 21.07.2015 - 2 StR 441/14](2-str-441-14.md) — Strafverfahren wegen schweren Bandendiebstahls: Anforderungen an das Vorliegen einer Bandenabrede; Abgrenzung zwischen konkludenter Bandenabrede und Mittätersch
-- [BGH, Urteil vom 21.07.2015 - 2 StR 75/14](2-str-75-14.md) — Revision in Strafsachen: Verletzung von Mitteilungs- und Dokumentationspflichten zu einem Verständigungsversuch in der Hauptverhandlung bei fehlender Verständig
+- [BGH, Urteil vom 22.07.2015 - 2 StR 389/13](2-str-389-13.md) — Strafverfahren wegen bandenmäßigem Einschleusen von Ausländern: Strafbarkeit bei Gründung einer Scheinfirma und kollusivem Amtsträgerhandeln zum Erschleichen von …
+- [BGH, Urteil vom 21.07.2015 - 2 StR 441/14](2-str-441-14.md) — Strafverfahren wegen schweren Bandendiebstahls: Anforderungen an das Vorliegen einer Bandenabrede; Abgrenzung zwischen konkludenter Bandenabrede und Mittäterschaft
+- [BGH, Urteil vom 21.07.2015 - 2 StR 75/14](2-str-75-14.md) — Revision in Strafsachen: Verletzung von Mitteilungs- und Dokumentationspflichten zu einem Verständigungsversuch in der Hauptverhandlung bei fehlender Verständigungsbereitschaft …
 - [BGH, Beschluss vom 16.07.2015 - 2 StR 15/15](2-str-15-15.md) — Strafverfahren wegen gewerbs- und bandenmäßigen Computerbetrugs: Abgrenzung von Betrug und Computerbetrug
 - [BGH, Beschluss vom 16.07.2015 - 2 StR 16/15](2-str-16-15.md) — Strafverfahren wegen gewerbs- und bandenmäßigen Computerbetrugs: Abgrenzung von Betrug und Computerbetrug
 - [BGH, Beschluss vom 16.07.2015 - 2 StR 522/14](2-str-522-14.md) — Auf Strafausspruch gerichtete Revision
@@ -69,19 +69,19 @@
 - [BGH, Beschluss vom 09.07.2015 - 2 StR 170/15](2-str-170-15.md) — Verhängung von Jugendstrafe: Annahme schädlicher Neigungen bei nur geringfügigen Straftaten in der Vergangenheit; Gefahr künftiger Straftaten
 - [BGH, Beschluss vom 09.07.2015 - 2 StR 58/15](2-str-58-15.md) — Unerlaubter Handel mit Betäubungsmitteln: Voraussetzungen einer Beihilfehandlung
 - [BGH, Beschluss vom 02.07.2015 - 2 StR 134/15](2-str-134-15.md) — Schwerer Raub: Verknüpfung zwischen eingesetztem Nötigungsmittel und Wegnahme
-- [BGH, Beschluss vom 02.07.2015 - 2 StR 146/15](2-str-146-15.md) — Strafverfahren wegen gemeinschaftlichen Raubes: Notwendige Urteilsfeststellungen zur verminderten Schuldfähigkeit eines Mittäters wegen erheblicher Alkoholisier
+- [BGH, Beschluss vom 02.07.2015 - 2 StR 146/15](2-str-146-15.md) — Strafverfahren wegen gemeinschaftlichen Raubes: Notwendige Urteilsfeststellungen zur verminderten Schuldfähigkeit eines Mittäters wegen erheblicher Alkoholisierung; Erstreckung …
 - [BGH, Urteil vom 01.07.2015 - 2 StR 137/15](2-str-137-15.md) — Strafverfahren wegen Betruges: Schuldunfähigkeit bei gesicherter Diagnose einer histrionischen Persönlichkeitsstörung
 - [BGH, Urteil vom 01.07.2015 - 2 StR 310/14](2-str-310-14.md) — Strafverfahren u.a. wegen versuchten Mordes durch Unterlassen: Anforderungen an die Feststellung des voluntativen Elements eines bedingten Tötungsvorsatzes
 - [BGH, Urteil vom 01.07.2015 - 2 StR 63/15](2-str-63-15.md) — Geiselnahme: Ausnutzen der durch die Entführung geschaffenen Lage des Opfers durch eine Drohung mit dem Tod zum Erzwingen des Geschlechtsverkehrs
-- [BGH, Beschluss vom 25.06.2015 - 2 ARs 54/15](2-ars-54-15.md) — Zuständigkeit der Strafvollstreckungskammer: "Aufnahme" des Verurteilten in eine Justizvollzugsanstalt durch fünfwöchigen Aufenthalt in einem Justizvollzugskran
+- [BGH, Beschluss vom 25.06.2015 - 2 ARs 54/15](2-ars-54-15.md) — Zuständigkeit der Strafvollstreckungskammer: "Aufnahme" des Verurteilten in eine Justizvollzugsanstalt durch fünfwöchigen Aufenthalt in einem Justizvollzugskrankenhaus
 - [BGH, Beschluss vom 25.06.2015 - 2 StR 83/15](2-str-83-15.md) — Strafzumessung nach Totschlag: Verstoß gegen das Doppelverwertungsverbot bei strafschärfender Berücksichtigung des unbedingten Tötungsvorsatzes
-- [BGH, Urteil vom 17.06.2015 - 2 StR 139/14](2-str-139-14.md) — Verständigung im Strafverfahren: Dokumentationspflicht für Telefonate zwischen Richter und Staatsanwalt außerhalb der Hauptverhandlung; Beruhensprüfung bei Vers
-- [BGH, Urteil vom 17.06.2015 - 2 StR 228/14](2-str-228-14.md) — Strafverfahren: Ablehnung einer beisitzenden Richterin einer Jugendkammer wegen Befangenheitsbesorgnis bei privater Nutzung eines Mobiltelefons während der Bewe
-- [BGH, Urteil vom 17.06.2015 - 2 StR 358/14](2-str-358-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Verminderte Schuldfähigkeit durch einen länger andauernden Zustand bei Persönlichkeitsstörung mit mangelnder
-- [BGH, Beschluss vom 16.06.2015 - 2 StR 29/15](2-str-29-15.md) — Strafverfahren gegen Mitangeklagte wegen Betäubungsmitteldelikten: Verfahrenshindernis des Fehlens eines Eröffnungsbeschlusses; Überzeugungsbildung von der Mitt
+- [BGH, Urteil vom 17.06.2015 - 2 StR 139/14](2-str-139-14.md) — Verständigung im Strafverfahren: Dokumentationspflicht für Telefonate zwischen Richter und Staatsanwalt außerhalb der Hauptverhandlung; Beruhensprüfung bei Verstößen
+- [BGH, Urteil vom 17.06.2015 - 2 StR 228/14](2-str-228-14.md) — Strafverfahren: Ablehnung einer beisitzenden Richterin einer Jugendkammer wegen Befangenheitsbesorgnis bei privater Nutzung eines Mobiltelefons während der Beweisaufnahme
+- [BGH, Urteil vom 17.06.2015 - 2 StR 358/14](2-str-358-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Verminderte Schuldfähigkeit durch einen länger andauernden Zustand bei Persönlichkeitsstörung mit mangelnder Fähigkeit zur …
+- [BGH, Beschluss vom 16.06.2015 - 2 StR 29/15](2-str-29-15.md) — Strafverfahren gegen Mitangeklagte wegen Betäubungsmitteldelikten: Verfahrenshindernis des Fehlens eines Eröffnungsbeschlusses; Überzeugungsbildung von der Mittäterschaft aufgrund …
 - [BGH, Beschluss vom 16.06.2015 - 2 StR 467/14](2-str-467-14.md) — Gefährliche Körperverletzung: Druckausübung auf den Hals des am Boden liegenden Opfers mit dem beschuhten Fuß
 - [BGH, Beschluss vom 11.06.2015 - 2 StR 186/15](2-str-186-15.md) — Räuberische Erpressung: Subjektiver Schadenseinschlag bei aufgenötigtem Weinkauf
-- [BGH, Urteil vom 10.06.2015 - 2 StR 97/14](2-str-97-14.md) — Die rechtsstaatswidrige Provokation einer Straftat durch Angehörige von Strafverfolgungsbehörden oder von ihnen gelenkte Dritte hat regelmäßig ein Verfahrenshin
+- [BGH, Urteil vom 10.06.2015 - 2 StR 97/14](2-str-97-14.md) — Die rechtsstaatswidrige Provokation einer Straftat durch Angehörige von Strafverfolgungsbehörden oder von ihnen gelenkte Dritte hat regelmäßig ein Verfahrenshindernis zur Folge.
 - [BGH, Beschluss vom 09.06.2015 - 2 StR 166/15](2-str-166-15.md) — Strafzumessung nach Totschlag: Berücksichtigung der Gesamtumstände der durch einen pflegenden Familienangehörigen begangenen Tat sowie der Tätermotivation
 - [BGH, Beschluss vom 09.06.2015 - 2 StR 504/14](2-str-504-14.md) — Versuchter Mord: Anforderungen an die Feststellung bedingten Tötungsvorsatzes bei lebensgefährdender Behandlung
 - [BGH, Beschluss vom 09.06.2015 - 2 StR 75/15](2-str-75-15.md) — Strafverfahren wegen schweren Menschenhandels und Zuhälterei: Voraussetzungen für die Annahme dirigierender Handlungen
@@ -89,22 +89,22 @@
 - [BGH, Urteil vom 03.06.2015 - 2 StR 430/14](2-str-430-14.md) — Strafverfahren: Zulässigkeit der Rüge einer fehlerhaften Beweiswürdigung
 - [BGH, Urteil vom 03.06.2015 - 2 StR 473/14](2-str-473-14.md) — Schwere Körperverletzung: Notwehrexzess nach schuldhafter Provokation des Angriffs
 - [BGH, Beschluss vom 28.05.2015 - 2 StR 23/15](2-str-23-15.md) — Gewerbsmäßiges Handeltreiben mit Betäubungsmitteln: Doppelverwertungsverbot bei der Prüfung eines besonders schweren Falls
-- [BGH, Beschluss vom 28.05.2015 - 2 StR 526/14](2-str-526-14.md) — Richterablehnung in Strafsachen: Befangenheit eines Strafkammervorsitzenden bei Fragen zu Strafmaßvorstellungen des Angeklagten außerhalb der Hauptverhandlung a
-- [BGH, Urteil vom 20.05.2015 - 2 StR 45/14](2-str-45-14.md) — Beschließt die Strafkammer in der Hauptverhandlung mit zwei Berufsrichtern und zwei Schöffen, dass das Hauptverfahren hinsichtlich einer weiteren Anklage eröffn
-- [BGH, Urteil vom 20.05.2015 - 2 StR 455/14](2-str-455-14.md) — Strafverfahren wegen sexuellen Missbrauchs: Anforderungen an Beweiswürdigung bei Bewertung anderer Taten des Angeklagten als belastendes Indiz; Ausschluss von P
+- [BGH, Beschluss vom 28.05.2015 - 2 StR 526/14](2-str-526-14.md) — Richterablehnung in Strafsachen: Befangenheit eines Strafkammervorsitzenden bei Fragen zu Strafmaßvorstellungen des Angeklagten außerhalb der Hauptverhandlung an eine …
+- [BGH, Urteil vom 20.05.2015 - 2 StR 45/14](2-str-45-14.md) — Beschließt die Strafkammer in der Hauptverhandlung mit zwei Berufsrichtern und zwei Schöffen, dass das Hauptverfahren hinsichtlich einer weiteren Anklage eröffnet wird, die …
+- [BGH, Urteil vom 20.05.2015 - 2 StR 455/14](2-str-455-14.md) — Strafverfahren wegen sexuellen Missbrauchs: Anforderungen an Beweiswürdigung bei Bewertung anderer Taten des Angeklagten als belastendes Indiz; Ausschluss von Pseudoerinnerungen
 - [BGH, Urteil vom 20.05.2015 - 2 StR 46/14](2-str-46-14.md) — Strafverfahren: Anforderungen an die Ablehnung der Einholung eines Sachverständigengutachtens wegen völliger Ungeeignetheit als Beweismittels
 - [BGH, Urteil vom 20.05.2015 - 2 StR 464/14](2-str-464-14.md) — Strafverfahren wegen versuchten Mordes: Voraussetzungen eines Verdeckungsmordes
 - [BGH, Beschluss vom 13.05.2015 - 2 StR 488/14](2-str-488-14.md) — Gefährliche Körperverletzung: Urteilsfeststellungen bei Tritten gegen den Kopf mit einem Straßenschuh
 - [BGH, Beschluss vom 13.05.2015 - 2 StR 535/14](2-str-535-14.md) — Strafzumessung bei sexueller Nötigung: Strafverschärfende Berücksichtigung eines erheblichen Tatzeitraums
-- [BGH, Beschluss vom 07.05.2015 - 2 StR 108/15](2-str-108-15.md) — Strafverfolgungsvoraussetzung: Konkludente Bejahung des öffentlichen Interesses für die Verfolgung einer einfachen Körperverletzung im Rahmen der Anklageerhebun
+- [BGH, Beschluss vom 07.05.2015 - 2 StR 108/15](2-str-108-15.md) — Strafverfolgungsvoraussetzung: Konkludente Bejahung des öffentlichen Interesses für die Verfolgung einer einfachen Körperverletzung im Rahmen der Anklageerhebung wegen …
 - [BGH, Beschluss vom 07.05.2015 - 2 StR 478/14](2-str-478-14.md) — Verstöße gegen das Waffengesetz: Konkurrenzverhältnisse bei Aufbewahren von Waffen und Munition in einem Kraftfahrzeug
 - [BGH, Urteil vom 06.05.2015 - 2 StR 63/14](2-str-63-14.md) — Strafzumessung: Eigene Verletzung und Deeskalation bei einer Schlägerei als bestimmender Strafzumessungsgrund
 - [BGH, Beschluss vom 30.04.2015 - 2 StR 444/14](2-str-444-14.md) — Strafverfahren wegen eines Tötungsdelikts: Feststellung verminderter Schuldfähigkeit infolge Alkoholkonsums
 - [BGH, Beschluss vom 29.04.2015 - 2 StR 398/14](2-str-398-14.md) — Strafklageverbrauch: Erstreckung der Rechtskraft eines Teilfreispruchs bei Serienstraftaten
-- [BGH, Urteil vom 29.04.2015 - 2 StR 405/14](2-str-405-14.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Revisionsgerichtliche Nachprüfung einer Verfahrenseröffnung vor dem Landgericht wegen Annahme e
+- [BGH, Urteil vom 29.04.2015 - 2 StR 405/14](2-str-405-14.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Revisionsgerichtliche Nachprüfung einer Verfahrenseröffnung vor dem Landgericht wegen Annahme einer den Strafbann …
 - [BGH, Beschluss vom 29.04.2015 - 2 StR 540/14](2-str-540-14.md) — Strafzumessung bei gefährlicher Körperverletzung: Allgemeine Schmerzen und Verletzungsfolgen als strafschärfende Umstände
 - [BGH, Beschluss vom 22.04.2015 - 2 StR 383/14](2-str-383-14.md) — Rücktritt vom unbeendeten Tötungsversuch in Mittäterschaft
-- [BGH, Urteil vom 22.04.2015 - 2 StR 393/14](2-str-393-14.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung der erheblich verminderten Steuerungsfähigkeit und der Gefährl
+- [BGH, Urteil vom 22.04.2015 - 2 StR 393/14](2-str-393-14.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung der erheblich verminderten Steuerungsfähigkeit und der Gefährlichkeitsprognose
 - [BGH, Beschluss vom 22.04.2015 - 2 StR 503/14](2-str-503-14.md) — Verhängung von Jugendstrafe: Erforderlichkeit von Ausführungen zum aktuell bestehenden Erziehungsbedarf bei bereits verbüßter Untersuchungshaft
 - [BGH, Beschluss vom 16.04.2015 - 2 StR 48/15](2-str-48-15.md) — Strafzumessung: Kompensation der überlangen Dauer des Strafverfahrens
 - [BGH, Beschluss vom 16.04.2015 - 2 StR 518/14](2-str-518-14.md) — Schwerer Raub: Notwendige Feststellungen zum Vorsatz der Beihilfe
@@ -121,31 +121,31 @@
 - [BGH, Beschluss vom 18.03.2015 - 2 StR 54/15](2-str-54-15.md) — Strafzumessung: Berücksichtigung durch Verfahrenseinstellung ausgeschiedener Taten
 - [BGH, Vorlagebeschluss vom 18.03.2015 - 2 StR 656/13](2-str-656-13.md) — Voraussetzungen der Verwertung einer während der richterlichen Vernehmung getätigten Zeugenaussage bei Zeugnisverweigerung in der Hauptverhandlung
 - [BGH, Beschluss vom 18.03.2015 - 2 StR 96/14](2-str-96-14.md) — Anfragebeschluss: Ausdehnung der deutschen Strafgewalt auf Auslandstaten ausländischer Täter im Falle des unbefugten Vertriebs von Betäubungsmitteln
-- [BGH, Urteil vom 17.03.2015 - 2 StR 281/14](2-str-281-14.md) — Vorteilsannahme und Abgeordnetenbestechung: Abgrenzung der Dienstausübung von einer Privathandlung; Beachtlichkeit des inneren Vorbehalts des Mandatsträgers bei
-- [BGH, Urteil vom 17.03.2015 - 2 StR 379/14](2-str-379-14.md) — Wird durch Anwendung eines vertypten Strafmilderungsgrundes die Untergrenze des Strafrahmens einer Strafnorm, die nur Freiheitsstrafe mit erhöhter Mindeststrafe
-- [BGH, Beschluss vom 12.03.2015 - 2 StR 322/14](2-str-322-14.md) — Verfall von Wertersatz bei Untreue: Fiskus als Verletzter; Urteilsfeststellung zum Absehen von einer Verfallsanordnung wegen Ansprüchen des Verletzten im Falle 
+- [BGH, Urteil vom 17.03.2015 - 2 StR 281/14](2-str-281-14.md) — Vorteilsannahme und Abgeordnetenbestechung: Abgrenzung der Dienstausübung von einer Privathandlung; Beachtlichkeit des inneren Vorbehalts des Mandatsträgers bei Abschluss der …
+- [BGH, Urteil vom 17.03.2015 - 2 StR 379/14](2-str-379-14.md) — Wird durch Anwendung eines vertypten Strafmilderungsgrundes die Untergrenze des Strafrahmens einer Strafnorm, die nur Freiheitsstrafe mit erhöhter Mindeststrafe androht, auf das …
+- [BGH, Beschluss vom 12.03.2015 - 2 StR 322/14](2-str-322-14.md) — Verfall von Wertersatz bei Untreue: Fiskus als Verletzter; Urteilsfeststellung zum Absehen von einer Verfallsanordnung wegen Ansprüchen des Verletzten im Falle der …
 - [BGH, Urteil vom 11.03.2015 - 2 StR 323/14](2-str-323-14.md) — Räuberische Erpressung: Drohung mit gegenwärtiger Gefahr für Leib oder Leben
-- [BGH, Urteil vom 11.03.2015 - 2 StR 423/14](2-str-423-14.md) — Tötung durch Verabreichen von Betäubungsmitteln: Voraussetzungen eines sonstigen minder schweren Falles des Totschlags; Konkurrenz zwischen Totschlag und qualif
+- [BGH, Urteil vom 11.03.2015 - 2 StR 423/14](2-str-423-14.md) — Tötung durch Verabreichen von Betäubungsmitteln: Voraussetzungen eines sonstigen minder schweren Falles des Totschlags; Konkurrenz zwischen Totschlag und qualifiziertem …
 - [BGH, Vorlagebeschluss vom 11.03.2015 - 2 StR 495/12](2-str-495-12.md) — BGH, Vorlagebeschluss 2 StR 495/12
 - [BGH, Urteil vom 04.03.2015 - 2 StR 400/14](2-str-400-14.md) — Griff des Täters an den entblößten Penis des Geschädigten: Körperverletzung und sexuelle Nötigung mit Gewalt
 - [BGH, Urteil vom 25.02.2015 - 2 StR 495/13](2-str-495-13.md) — Schuldfähigkeit wegen seelischer Störungen: Einschränkung durch isolierten Eifersuchtswahn
 - [BGH, Beschluss vom 19.02.2015 - 2 StR 343/14](2-str-343-14.md) — Besonders schwere räuberische Erpressung: Anforderungen an die tatrichterliche Prüfung eines minder schweren Falles; Würdigung der Gesamtumstände
 - [BGH, Beschluss vom 18.02.2015 - 2 StR 278/14](2-str-278-14.md) — Beweiswürdigung im Strafverfahren wegen sexuellen Missbrauchs: Vernehmung eines Kindes 3 Jahre nach dem Tatgeschehen
-- [BGH, Urteil vom 18.02.2015 - 2 StR 38/14](2-str-38-14.md) — Rücktritt vom Versuch: Beendeter Versuch bei Fürmöglichhalten des Erfolgseintritts in Verkennung der tatsächlichen Ungeeignetheit der Handlung; mehraktiges Deli
+- [BGH, Urteil vom 18.02.2015 - 2 StR 38/14](2-str-38-14.md) — Rücktritt vom Versuch: Beendeter Versuch bei Fürmöglichhalten des Erfolgseintritts in Verkennung der tatsächlichen Ungeeignetheit der Handlung; mehraktiges Delikt
 - [BGH, Beschluss vom 18.02.2015 - 2 StR 523/14](2-str-523-14.md) — Überlange Verfahrensdauer in Strafsachen: Ausgleich einer 2-jährigen Verfahrensverzögerung bei nicht inhaftiertem Angeklagten
-- [BGH, Urteil vom 12.02.2015 - 2 StR 109/14](2-str-109-14.md) — Strafbarkeit eines Apothekers wegen Betruges und unerlaubter Abgabe verschreibungspflichtiger Betäubungsmittel: Täuschungshandlung durch Abrechnung gefälschter 
+- [BGH, Urteil vom 12.02.2015 - 2 StR 109/14](2-str-109-14.md) — Strafbarkeit eines Apothekers wegen Betruges und unerlaubter Abgabe verschreibungspflichtiger Betäubungsmittel: Täuschungshandlung durch Abrechnung gefälschter oder angekaufter …
 - [BGH, Urteil vom 11.02.2015 - 2 StR 210/14](2-str-210-14.md) — Diebstahl: Gewahrsam des Ladeninhabers an den in seinem Ladengeschäft befindlichen Waren
 - [BGH, Urteil vom 11.02.2015 - 2 StR 349/14](2-str-349-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Voraussetzungen der Tateinheit
 - [BGH, Beschluss vom 11.02.2015 - 2 StR 428/14](2-str-428-14.md) — Verurteilung wegen gefährlicher Körperverletzung
-- [BGH, Beschluss vom 05.02.2015 - 2 StR 496/14](2-str-496-14.md) — Strafzumessung bei unerlaubtem Handeltreiben mit Betäubungsmitteln: Fehlende Gewinnerzielungsabsicht als strafmildernder Umstand; Kenntnis von der Strafbarkeit 
+- [BGH, Beschluss vom 05.02.2015 - 2 StR 496/14](2-str-496-14.md) — Strafzumessung bei unerlaubtem Handeltreiben mit Betäubungsmitteln: Fehlende Gewinnerzielungsabsicht als strafmildernder Umstand; Kenntnis von der Strafbarkeit seines Handelns als …
 - [BGH, Beschluss vom 05.02.2015 - 2 StR 5/15](2-str-5-15.md) — Strafverfahren wegen Vergewaltigung: Begriff der Gewalt; Ankündigung "Du wirst schon sehen, was passiert" als Drohung mit Gefahr für Leib oder Leben
-- [BGH, Urteil vom 04.02.2015 - 2 StR 266/14](2-str-266-14.md) — Strafverfahren wegen Betäubungsmitteldelikten: Konkurrenzverhältnis beim Zusammentreffen von täterschaftlichem Besitz von Betäubungsmitteln in nicht geringer Me
+- [BGH, Urteil vom 04.02.2015 - 2 StR 266/14](2-str-266-14.md) — Strafverfahren wegen Betäubungsmitteldelikten: Konkurrenzverhältnis beim Zusammentreffen von täterschaftlichem Besitz von Betäubungsmitteln in nicht geringer Menge mit Beihilfe …
 - [BGH, Beschluss vom 04.02.2015 - 2 StR 426/14](2-str-426-14.md) — Nachträgliche Gesamtstrafenbildung: Anforderungen an die Urteilsformel
 - [BGH, Urteil vom 04.02.2015 - 2 StR 76/14](2-str-76-14.md) — Besetzungsrüge im Strafverfahren: Entbindung eines Schöffen aus beruflichen Gründen; Begründungspflicht
 - [BGH, Beschluss vom 22.01.2015 - 2 StR 390/14](2-str-390-14.md) — Adhäsionsverfahren: Zustellung des Adhäsionsantrags als Verfahrensvoraussetzung
 - [BGH, Beschluss vom 15.01.2015 - 2 ARs 275/14](2-ars-275-14.md) — Jugendstrafverfahren: Vermeidung wiederholter Abgaben
 - [BGH, Beschluss vom 15.01.2015 - 2 StR 204/14](2-str-204-14.md) — Widerstand gegen Vollstreckungsbeamte: Flucht vor der Polizei
-- [BGH, Beschluss vom 15.01.2015 - 2 StR 374/14](2-str-374-14.md) — Beschleunigungsgebot: Entscheidung über den strafrechtlichen Teil eines Revisionsverfahrens bei nicht erledigtem Anfrage- und Vorlageverfahrens hinsichtlich ein
+- [BGH, Beschluss vom 15.01.2015 - 2 StR 374/14](2-str-374-14.md) — Beschleunigungsgebot: Entscheidung über den strafrechtlichen Teil eines Revisionsverfahrens bei nicht erledigtem Anfrage- und Vorlageverfahrens hinsichtlich einer Frage zur …
 - [BGH, Beschluss vom 14.01.2015 - 2 StR 224/14](2-str-224-14.md) — Strafverfahren wegen versuchten Totschlags: Abgrenzung des beendeten vom unbeendeten Versuch bei widerlegter Einlassung des Angeklagten
 - [BGH, Urteil vom 14.01.2015 - 2 StR 290/14](2-str-290-14.md) — Strafurteil: Voraussetzungen einer wirksamen Berichtigung der Urteilsgründe im Zusammenhang mit der Gesamtstrafenbildung
 - [BGH, Beschluss vom 14.01.2015 - 2 StR 352/14](2-str-352-14.md) — Handeltreiben mit Betäubungsmitteln: "Schutz" vor Gewaltanwendung als Vorteilsversprechen

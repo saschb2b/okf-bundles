@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu EuAuslfÜbk"
 description: "BGH-Entscheidungen zu EuAuslfÜbk, geordnet nach Vorschrift."
 tags: [register, navigation, euauslfübk]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

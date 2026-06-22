@@ -3,7 +3,7 @@
 25 Entscheidung(en).
 
 - [BGH, Beschluss vom 14.07.2025 - EnVZ 32/23](envz-32-23.md) — BGH, Beschluss EnVZ 32/23
-- [BGH, Beschluss vom 13.05.2025 - EnVZ 55/22](envz-55-22.md) — Entnahmestelle 1. Die Entnahmestelle gemäß § 2 Nr. 6 StromNEV befindet sich am letzten Punkt der in der wirtschaftlichen Verantwortung des Netzbetreibers stehen
+- [BGH, Beschluss vom 13.05.2025 - EnVZ 55/22](envz-55-22.md) — Entnahmestelle 1. Die Entnahmestelle gemäß § 2 Nr. 6 StromNEV befindet sich am letzten Punkt der in der wirtschaftlichen Verantwortung des Netzbetreibers stehenden Einrichtungen …
 - [BGH, Beschluss vom 14.01.2025 - EnVZ 12/23](envz-12-23.md) — (Anforderungen an die Darlegung des Zulassungsgrundes der grundsätzlichen Bedeutung gemäß § 86 Abs. 2 Nr. 1 EnWG)
 - [BGH, Beschluss vom 14.01.2025 - EnVZ 13/23](envz-13-23.md) — BGH, Beschluss EnVZ 13/23
 - [BGH, Beschluss vom 14.01.2025 - EnVZ 17/23](envz-17-23.md) — BGH, Beschluss EnVZ 17/23

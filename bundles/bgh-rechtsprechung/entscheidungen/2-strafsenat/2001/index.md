@@ -53,7 +53,7 @@
 - [BGH, Urteil vom 23.03.2001 - 2 StR 369/00](2-str-369-00.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 23.03.2001 - 2 StR 48/01](2-str-48-01.md) — Betruges
 - [BGH, Urteil vom 23.03.2001 - 2 StR 488/00](2-str-488-00.md) — Verletzung des Dienstgeheimnisses
-- [BGH, Urteil vom 23.03.2001 - 2 StR 498/00](2-str-498-00.md) — Veröffentlichung: ja ______________________ StPO §§ 413, 416; StGB §§ 71, 63 Ergibt sich im Laufe einer Hauptverhandlung die dauernde Verhandlungsunfähigkeit de
+- [BGH, Urteil vom 23.03.2001 - 2 StR 498/00](2-str-498-00.md) — Veröffentlichung: ja ______________________ StPO §§ 413, 416; StGB §§ 71, 63 Ergibt sich im Laufe einer Hauptverhandlung die dauernde Verhandlungsunfähigkeit des Angeklagten, ist …
 - [BGH, Beschluss vom 23.03.2001 - 2 StR 59/01](2-str-59-01.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 23.03.2001 - 2 StR 7/01](2-str-7-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 23.03.2001 - 2 StR 80/01](2-str-80-01.md) — schweren sexuellen Mißbrauchs von Kindern u.a.

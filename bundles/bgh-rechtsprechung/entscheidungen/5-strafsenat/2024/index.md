@@ -42,7 +42,7 @@
 - [BGH, Beschluss vom 18.11.2024 - 5 StR 531/24](5-str-531-24.md) — Zur Rechtsmittelbefugnis des Nebenklägers im Sicherungsverfahren.
 - [BGH, Beschluss vom 18.11.2024 - 5 StR 532/24](5-str-532-24.md) — BGH, Beschluss 5 StR 532/24
 - [BGH, Beschluss vom 18.11.2024 - 5 StR 634/24](5-str-634-24.md) — BGH, Beschluss 5 StR 634/24
-- [BGH, Urteil vom 06.11.2024 - 5 StR 276/24](5-str-276-24.md) — Schuldspruch wegen schweren sexuellen Missbrauchs von Kindern bei erheblich verminderter Schuldfähigkeit; Feststellung der Haftempfindlichkeit eines Sexualstraf
+- [BGH, Urteil vom 06.11.2024 - 5 StR 276/24](5-str-276-24.md) — Schuldspruch wegen schweren sexuellen Missbrauchs von Kindern bei erheblich verminderter Schuldfähigkeit; Feststellung der Haftempfindlichkeit eines Sexualstraftäters
 - [BGH, Beschluss vom 06.11.2024 - 5 StR 449/24](5-str-449-24.md) — Tatrichterliche Darlegungen zur Schuldunfähigkeit des Täters im Rahmen einer Unterbringungsanordnung
 - [BGH, Beschluss vom 06.11.2024 - 5 StR 467/24](5-str-467-24.md) — BGH, Beschluss 5 StR 467/24
 - [BGH, Beschluss vom 06.11.2024 - 5 StR 490/24](5-str-490-24.md) — BGH, Beschluss 5 StR 490/24
@@ -50,7 +50,7 @@
 - [BGH, Beschluss vom 06.11.2024 - 5 StR 619/24](5-str-619-24.md) — BGH, Beschluss 5 StR 619/24
 - [BGH, Beschluss vom 06.11.2024 - 5 StR 628/24](5-str-628-24.md) — BGH, Beschluss 5 StR 628/24
 - [BGH, Beschluss vom 05.11.2024 - 5 StR 402/24](5-str-402-24.md) — BGH, Beschluss 5 StR 402/24
-- [BGH, Beschluss vom 05.11.2024 - 5 StR 406/24](5-str-406-24.md) — Herbeiführen einer Sprengstoffexplosion durch Zünden von Kugelbomben auf einer privaten Sylvesterfeier: Annahme der Gesundheitsschädigung einer „großen Zahl von
+- [BGH, Beschluss vom 05.11.2024 - 5 StR 406/24](5-str-406-24.md) — Herbeiführen einer Sprengstoffexplosion durch Zünden von Kugelbomben auf einer privaten Sylvesterfeier: Annahme der Gesundheitsschädigung einer „großen Zahl von Menschen“
 - [BGH, Beschluss vom 05.11.2024 - 5 StR 408/24](5-str-408-24.md) — Anfechtung eines Urteils wegen Unterbleibens einer Maßregelanordnung
 - [BGH, Beschluss vom 05.11.2024 - 5 StR 462/24](5-str-462-24.md) — BGH, Beschluss 5 StR 462/24
 - [BGH, Beschluss vom 05.11.2024 - 5 StR 483/24](5-str-483-24.md) — BGH, Beschluss 5 StR 483/24
@@ -79,7 +79,7 @@
 - [BGH, Beschluss vom 08.10.2024 - 5 StR 362/24](5-str-362-24.md) — BGH, Beschluss 5 StR 362/24
 - [BGH, Beschluss vom 08.10.2024 - 5 StR 376/24](5-str-376-24.md) — BGH, Beschluss 5 StR 376/24
 - [BGH, Beschluss vom 08.10.2024 - 5 StR 378/24](5-str-378-24.md) — BGH, Beschluss 5 StR 378/24
-- [BGH, Beschluss vom 08.10.2024 - 5 StR 382/24](5-str-382-24.md) — Sogenannte K.O.-Tropfen stellen weder für sich genommen noch bei Verabreichung in einem Getränk, in das sie vorher mit einer Pipette hinein getropft wurden, ein
+- [BGH, Beschluss vom 08.10.2024 - 5 StR 382/24](5-str-382-24.md) — Sogenannte K.O.-Tropfen stellen weder für sich genommen noch bei Verabreichung in einem Getränk, in das sie vorher mit einer Pipette hinein getropft wurden, ein gefährliches …
 - [BGH, Beschluss vom 08.10.2024 - 5 StR 418/24](5-str-418-24.md) — BGH, Beschluss 5 StR 418/24
 - [BGH, Beschluss vom 08.10.2024 - 5 StR 424/24](5-str-424-24.md) — BGH, Beschluss 5 StR 424/24
 - [BGH, Beschluss vom 08.10.2024 - 5 StR 460/24](5-str-460-24.md) — BGH, Beschluss 5 StR 460/24
@@ -124,7 +124,7 @@
 - [BGH, Beschluss vom 15.08.2024 - 5 StR 243/24](5-str-243-24.md) — BGH, Beschluss 5 StR 243/24
 - [BGH, Beschluss vom 15.08.2024 - 5 StR 435/23](5-str-435-23.md) — BGH, Beschluss 5 StR 435/23
 - [BGH, Beschluss vom 14.08.2024 - 5 StR 174/24](5-str-174-24.md) — BGH, Beschluss 5 StR 174/24
-- [BGH, Beschluss vom 14.08.2024 - 5 StR 206/24](5-str-206-24.md) — Revisionsbegründung im Strafverfahren wegen Totschlags: Verfahrensrüge und nachträgliche Berichtigung des Hauptverhandlungsprotokolls hinsichtlich der Erteilung
+- [BGH, Beschluss vom 14.08.2024 - 5 StR 206/24](5-str-206-24.md) — Revisionsbegründung im Strafverfahren wegen Totschlags: Verfahrensrüge und nachträgliche Berichtigung des Hauptverhandlungsprotokolls hinsichtlich der Erteilung des letzten Wortes …
 - [BGH, Beschluss vom 14.08.2024 - 5 StR 226/24](5-str-226-24.md) — BGH, Beschluss 5 StR 226/24
 - [BGH, Beschluss vom 14.08.2024 - 5 StR 254/24](5-str-254-24.md) — BGH, Beschluss 5 StR 254/24
 - [BGH, Beschluss vom 14.08.2024 - 5 StR 286/24](5-str-286-24.md) — BGH, Beschluss 5 StR 286/24
@@ -206,7 +206,7 @@
 - [BGH, Beschluss vom 04.06.2024 - 5 StR 167/24](5-str-167-24.md) — BGH, Beschluss 5 StR 167/24
 - [BGH, Beschluss vom 04.06.2024 - 5 StR 170/24](5-str-170-24.md) — BGH, Beschluss 5 StR 170/24
 - [BGH, Beschluss vom 04.06.2024 - 5 StR 199/24](5-str-199-24.md) — BGH, Beschluss 5 StR 199/24
-- [BGH, Urteil vom 04.06.2024 - 5 StR 205/23](5-str-205-23.md) — Ist wegen der Schwere der Schuld Strafe erforderlich, ist eine Jugendstrafe zu verhängen, ohne dass es darauf ankommt, ob eine Erziehungsbedürftigkeit oder -fäh
+- [BGH, Urteil vom 04.06.2024 - 5 StR 205/23](5-str-205-23.md) — Ist wegen der Schwere der Schuld Strafe erforderlich, ist eine Jugendstrafe zu verhängen, ohne dass es darauf ankommt, ob eine Erziehungsbedürftigkeit oder -fähigkeit festgestellt …
 - [BGH, Urteil vom 04.06.2024 - 5 StR 37/24](5-str-37-24.md) — Versuchter Totschlag: Abgrenzung unbeendeter und beendeter Versuch im Rahmen des Rücktritts
 - [BGH, Beschluss vom 04.06.2024 - 5 StR 38/24](5-str-38-24.md) — BGH, Beschluss 5 StR 38/24
 - [BGH, Beschluss vom 04.06.2024 - 5 StR 634/23](5-str-634-23.md) — Unterbringung in einer Entziehungsanstalt: Prüfung der Erfolgsaussichten einer Therapie
@@ -256,7 +256,7 @@
 - [BGH, Beschluss vom 24.04.2024 - 5 StR 21/24](5-str-21-24.md) — Beweiswürdigung zur Tatbeteiligung des Angeklagten anhand Videoaufnahmen
 - [BGH, Urteil vom 24.04.2024 - 5 StR 303/23](5-str-303-23.md) — BGH, Urteil 5 StR 303/23
 - [BGH, Beschluss vom 24.04.2024 - 5 StR 4/24](5-str-4-24.md) — Verurteilung wegen Umgang mit Marihuana nach Konsumcannabisgesetz
-- [BGH, Urteil vom 24.04.2024 - 5 StR 510/23](5-str-510-23.md) — Abgrenzung zwischen gefährlicher Körperverletzung und versuchtem Totschlag: Tötungsvorsatz bei Messerstichen in den Oberschenkel; Mittäterschaft bei gemeinschaf
+- [BGH, Urteil vom 24.04.2024 - 5 StR 510/23](5-str-510-23.md) — Abgrenzung zwischen gefährlicher Körperverletzung und versuchtem Totschlag: Tötungsvorsatz bei Messerstichen in den Oberschenkel; Mittäterschaft bei gemeinschaftlichem …
 - [BGH, Urteil vom 24.04.2024 - 5 StR 516/23](5-str-516-23.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Vorliegen einer Bandenabrede
 - [BGH, Beschluss vom 24.04.2024 - 5 StR 570/23](5-str-570-23.md) — BGH, Beschluss 5 StR 570/23
 - [BGH, Beschluss vom 24.04.2024 - 5 StR 594/23](5-str-594-23.md) — BGH, Beschluss 5 StR 594/23
@@ -280,14 +280,14 @@
 - [BGH, Beschluss vom 26.03.2024 - 5 StR 582/23](5-str-582-23.md) — BGH, Beschluss 5 StR 582/23
 - [BGH, Beschluss vom 26.03.2024 - 5 StR 595/23](5-str-595-23.md) — BGH, Beschluss 5 StR 595/23
 - [BGH, Beschluss vom 26.03.2024 - 5 StR 598/23](5-str-598-23.md) — BGH, Beschluss 5 StR 598/23
-- [BGH, Beschluss vom 18.03.2024 - 5 StR 12/23](5-str-12-23.md) — Die Rechtskraft eines Strafurteils beendet den Lauf der Verfolgungsverjährung und es beginnt im Falle einer Wiederaufnahme des Verfahrens zuungunsten des Verurt
+- [BGH, Beschluss vom 18.03.2024 - 5 StR 12/23](5-str-12-23.md) — Die Rechtskraft eines Strafurteils beendet den Lauf der Verfolgungsverjährung und es beginnt im Falle einer Wiederaufnahme des Verfahrens zuungunsten des Verurteilten oder …
 - [BGH, Beschluss vom 18.03.2024 - 5 StR 63/24](5-str-63-24.md) — Beweiswürdigung im Strafverfahren wegen Sexualdelikten: Konstanzprüfung der Aussage des Geschädigten in einer Aussage-gegen-Aussage-Konstellation
 - [BGH, Beschluss vom 14.03.2024 - 5 StR 18/24](5-str-18-24.md) — BGH, Beschluss 5 StR 18/24
 - [BGH, Beschluss vom 14.03.2024 - 5 StR 581/23](5-str-581-23.md) — BGH, Beschluss 5 StR 581/23
 - [BGH, Beschluss vom 14.03.2024 - 5 StR 80/24](5-str-80-24.md) — Betrug oder Computerbetrug bei Verwendung betrügerisch erlangter Geldkarten
-- [BGH, Urteil vom 13.03.2024 - 5 StR 273/23](5-str-273-23.md) — Strafverfahren wegen Beteiligung am unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Urteilsfeststellungen bei Annahme einer Sekundärübe
+- [BGH, Urteil vom 13.03.2024 - 5 StR 273/23](5-str-273-23.md) — Strafverfahren wegen Beteiligung am unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Urteilsfeststellungen bei Annahme einer Sekundärübertragung von …
 - [BGH, Beschluss vom 13.03.2024 - 5 StR 393/23](5-str-393-23.md) — Bezeichnung der Straftat in der Urteilsformel; Darstellung des Ergebnisses der Glaubhaftmachung
-- [BGH, Urteil vom 13.03.2024 - 5 StR 428/23](5-str-428-23.md) — Jugendstrafverfahren: Anzuwendendes Recht auf als Heranwachsender begangene Straftaten als Drogenkurierfahrer; Handlungseinheit bei der Beihilfe zum bandenmäßig
+- [BGH, Urteil vom 13.03.2024 - 5 StR 428/23](5-str-428-23.md) — Jugendstrafverfahren: Anzuwendendes Recht auf als Heranwachsender begangene Straftaten als Drogenkurierfahrer; Handlungseinheit bei der Beihilfe zum bandenmäßigen Handeltreiben …
 - [BGH, Beschluss vom 13.03.2024 - 5 StR 54/24](5-str-54-24.md) — BGH, Beschluss 5 StR 54/24
 - [BGH, Beschluss vom 13.03.2024 - 5 StR 56/24](5-str-56-24.md) — BGH, Beschluss 5 StR 56/24
 - [BGH, Beschluss vom 13.03.2024 - 5 StR 75/24](5-str-75-24.md) — BGH, Beschluss 5 StR 75/24
@@ -297,7 +297,7 @@
 - [BGH, Beschluss vom 12.03.2024 - 5 StR 608/23](5-str-608-23.md) — BGH, Beschluss 5 StR 608/23
 - [BGH, Beschluss vom 12.03.2024 - 5 StR 621/23](5-str-621-23.md) — BGH, Beschluss 5 StR 621/23
 - [BGH, Beschluss vom 12.03.2024 - 5 StR 628/23](5-str-628-23.md) — Bewertung von Indizien im Rahmen der Beweiswürdigung
-- [BGH, Beschluss vom 12.03.2024 - 5 StR 88/24](5-str-88-24.md) — Verfahrensverzögerung im Revisionsverfahren: Abgabe der Revisionsgegenerklärung durch die Staatsanwaltschaft mehr als ein Jahr nach Eingang der Revisionsbegründ
+- [BGH, Beschluss vom 12.03.2024 - 5 StR 88/24](5-str-88-24.md) — Verfahrensverzögerung im Revisionsverfahren: Abgabe der Revisionsgegenerklärung durch die Staatsanwaltschaft mehr als ein Jahr nach Eingang der Revisionsbegründung
 - [BGH, Beschluss vom 28.02.2024 - 5 StR 23/24](5-str-23-24.md) — Besonders schwere räuberische Erpressung: Begriff des Verwendens einer Waffe oder eines gefährlichen Werkzeugs
 - [BGH, Urteil vom 28.02.2024 - 5 StR 413/23](5-str-413-23.md) — Beschränkung der Öffentlichkeit durch nichtöffentliche Vernehmung einer Nebenklägerin ohne Beschluss
 - [BGH, Urteil vom 28.02.2024 - 5 StR 427/23](5-str-427-23.md) — Erweiterte Einziehung sichergestellter Bargeldbeträge beim Handel mit Betäubungsmitteln
@@ -359,11 +359,11 @@
 - [BGH, Beschluss vom 16.01.2024 - 5 StR 451/23](5-str-451-23.md) — Räuberische Erpressung: Strafrahmenwahl bei gesetzlich vertyptem Strafmilderungsgrund
 - [BGH, Beschluss vom 16.01.2024 - 5 StR 462/23](5-str-462-23.md) — BGH, Beschluss 5 StR 462/23
 - [BGH, Beschluss vom 16.01.2024 - 5 StR 495/23](5-str-495-23.md) — BGH, Beschluss 5 StR 495/23
-- [BGH, Beschluss vom 16.01.2024 - 5 StR 506/23](5-str-506-23.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Schätzung der Wirkstoffmenge bei Cannabis; Einziehung; Feststellung einer tatsächlichen Verfügungsgewalt über d
+- [BGH, Beschluss vom 16.01.2024 - 5 StR 506/23](5-str-506-23.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Schätzung der Wirkstoffmenge bei Cannabis; Einziehung; Feststellung einer tatsächlichen Verfügungsgewalt über den Verkaufserlös
 - [BGH, Beschluss vom 16.01.2024 - 5 StR 555/23](5-str-555-23.md) — BGH, Beschluss 5 StR 555/23
 - [BGH, Beschluss vom 11.01.2024 - 5 StR 325/23](5-str-325-23.md) — BGH, Beschluss 5 StR 325/23
 - [BGH, Beschluss vom 04.01.2024 - 5 StR 497/23](5-str-497-23.md) — BGH, Beschluss 5 StR 497/23
-- [BGH, Urteil vom 04.01.2024 - 5 StR 540/23](5-str-540-23.md) — Strafzumessung bei schwerem sexuellen Missbrauchs von Kindern in Tateinheit mit Vergewaltigung: Berücksichtigung eines Täter-Opfer-Ausgleichs sowie weiterer Str
+- [BGH, Urteil vom 04.01.2024 - 5 StR 540/23](5-str-540-23.md) — Strafzumessung bei schwerem sexuellen Missbrauchs von Kindern in Tateinheit mit Vergewaltigung: Berücksichtigung eines Täter-Opfer-Ausgleichs sowie weiterer Strafmilderungsgründe
 - [BGH, Urteil vom 03.01.2024 - 5 StR 406/23](5-str-406-23.md) — Freiwilliger Rücktritt vom versuchten, mittäterschaftlich begangenen Betrug
 - [BGH, Beschluss vom 03.01.2024 - 5 StR 449/23](5-str-449-23.md) — BGH, Beschluss 5 StR 449/23
 - [BGH, Beschluss vom 02.01.2024 - 5 StR 493/23](5-str-493-23.md) — BGH, Beschluss 5 StR 493/23

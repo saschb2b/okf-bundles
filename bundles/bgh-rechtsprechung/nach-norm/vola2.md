@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VOLA2"
 description: "BGH-Entscheidungen zu VOLA2, geordnet nach Vorschrift."
 tags: [register, navigation, vola2]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

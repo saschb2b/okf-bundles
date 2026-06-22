@@ -2,16 +2,16 @@
 
 13 Entscheidung(en).
 
-- [BGH, Beschluss vom 26.11.2012 - NotZ (Brfg) 5/12](notz-brfg-5-12.md) — Im Bereich des Anwaltsnotariats (§ 3 Abs. 2 BNotO) darf die Landesjustizverwaltung bei ihrer Entscheidung um die Besetzung einer Notarstelle im Falle der Konkur
-- [BGH, Beschluss vom 26.11.2012 - NotZ (Brfg) 6/12](notz-brfg-6-12.md) — Zu den Voraussetzungen, unter denen die Landesjustizverwaltung vom Erfordernis der mindestens dreijährigen örtlichen Wartezeit für die Bestellung zum Anwaltsnot
+- [BGH, Beschluss vom 26.11.2012 - NotZ (Brfg) 5/12](notz-brfg-5-12.md) — Im Bereich des Anwaltsnotariats (§ 3 Abs. 2 BNotO) darf die Landesjustizverwaltung bei ihrer Entscheidung um die Besetzung einer Notarstelle im Falle der Konkurrenz eines bereits …
+- [BGH, Beschluss vom 26.11.2012 - NotZ (Brfg) 6/12](notz-brfg-6-12.md) — Zu den Voraussetzungen, unter denen die Landesjustizverwaltung vom Erfordernis der mindestens dreijährigen örtlichen Wartezeit für die Bestellung zum Anwaltsnotar absehen kann.
 - [BGH, Beschluss vom 26.11.2012 - NotZ (Brfg) 7/12](notz-brfg-7-12.md) — Notarbestellungsverfahren in Hessen: Erfüllung der Wartezeit für einen Rechtsanwalt mit einer Zweigstelle im Amtsbezirk eines Anwaltsnotariats
-- [BGH, Urteil vom 23.07.2012 - NotZ (Brfg) 12/11](notz-brfg-12-11.md) — 1. Im Interesse einer möglichst umfassenden vollständigen Tatsachengrundlage für die Beurteilung der Eignung eines Bewerbers für das Amt des Notars muss die Aus
-- [BGH, Beschluss vom 23.07.2012 - NotZ (Brfg) 15/11](notz-brfg-15-11.md) — Berufsrecht für Notare: Verfassungsmäßigkeit einer Altersgrenze für Notare; Vereinbarkeit mit dem gemeinschaftsrechtlichen Verbot der Diskriminierung aufgrund A
+- [BGH, Urteil vom 23.07.2012 - NotZ (Brfg) 12/11](notz-brfg-12-11.md) — 1. Im Interesse einer möglichst umfassenden vollständigen Tatsachengrundlage für die Beurteilung der Eignung eines Bewerbers für das Amt des Notars muss die Auskunftspflicht …
+- [BGH, Beschluss vom 23.07.2012 - NotZ (Brfg) 15/11](notz-brfg-15-11.md) — Berufsrecht für Notare: Verfassungsmäßigkeit einer Altersgrenze für Notare; Vereinbarkeit mit dem gemeinschaftsrechtlichen Verbot der Diskriminierung aufgrund Alters
 - [BGH, Beschluss vom 23.07.2012 - NotZ (Brfg) 16/11](notz-brfg-16-11.md) — Zum Abbruch der Ausschreibung einer Notarstelle, wenn sich kein geeigneter Bewerber beworben hat.
 - [BGH, Beschluss vom 23.07.2012 - NotZ (Brfg) 17/11](notz-brfg-17-11.md) — Ermessensspielraum der Justizverwaltung bei Besetzung einer Notarstelle: Ablehnung der Amtssitzverlegung eines Notars und Neubestellung
 - [BGH, Beschluss vom 23.07.2012 - NotZ (Brfg) 2/12](notz-brfg-2-12.md) — Zum Erlöschen des Bewerbungsverfahrensanspruchs eines Bewerbers um die Aufnahme in den notariellen Anwärterdienst durch Abbruch des Stellenbesetzungsverfahrens.
-- [BGH, Urteil vom 23.07.2012 - NotZ (Brfg) 3/12](notz-brfg-3-12.md) — 1. Die Bewertung der Leistungen der Notarassessoren während des Anwärterdienstes nach § 3 Abs. 3 Satz 1 NotAssAusbV NW stellt ausschließlich eine Äußerung über 
-- [BGH, Urteil vom 23.07.2012 - NotZ (Brfg) 4/12](notz-brfg-4-12.md) — Im Hinblick auf die nach § 4 Satz 2 BNotO gebotene Wahrung einer geordneten Altersstruktur des Notarberufs darf die Justizverwaltung im Auswahlverfahren nach § 
-- [BGH, Beschluss vom 05.03.2012 - NotZ (Brfg) 13/11](notz-brfg-13-11.md) — Beantwortet ein Bewerber für eine Notarstelle in der Selbstauskunft zu seinem Antrag eine Frage, deren Zulässigkeit nicht in Zweifel steht, muss die Auskunft ri
-- [BGH, Urteil vom 05.03.2012 - NotZ (Brfg) 14/11](notz-brfg-14-11.md) — Ein Bewerber um ein Anwaltsnotariat, der in dem in Aussicht genommenen Amtsbereich nur eine Zweigstelle unterhält, die eigentlichen Grundlagen seiner Existenz a
+- [BGH, Urteil vom 23.07.2012 - NotZ (Brfg) 3/12](notz-brfg-3-12.md) — 1. Die Bewertung der Leistungen der Notarassessoren während des Anwärterdienstes nach § 3 Abs. 3 Satz 1 NotAssAusbV NW stellt ausschließlich eine Äußerung über die Eignung des …
+- [BGH, Urteil vom 23.07.2012 - NotZ (Brfg) 4/12](notz-brfg-4-12.md) — Im Hinblick auf die nach § 4 Satz 2 BNotO gebotene Wahrung einer geordneten Altersstruktur des Notarberufs darf die Justizverwaltung im Auswahlverfahren nach § 6 Abs. 3 Satz 1 …
+- [BGH, Beschluss vom 05.03.2012 - NotZ (Brfg) 13/11](notz-brfg-13-11.md) — Beantwortet ein Bewerber für eine Notarstelle in der Selbstauskunft zu seinem Antrag eine Frage, deren Zulässigkeit nicht in Zweifel steht, muss die Auskunft richtig und …
+- [BGH, Urteil vom 05.03.2012 - NotZ (Brfg) 14/11](notz-brfg-14-11.md) — Ein Bewerber um ein Anwaltsnotariat, der in dem in Aussicht genommenen Amtsbereich nur eine Zweigstelle unterhält, die eigentlichen Grundlagen seiner Existenz aber am Hauptsitz …
 - [BGH, Urteil vom 05.03.2012 - NotZ (Brfg) 5/11](notz-brfg-5-11.md) — Zur Bedürfnisprüfung der Landesjustizverwaltung bei der Entscheidung über die Ausschreibung und Wiederbesetzung einer freigewordenen Notarstelle.

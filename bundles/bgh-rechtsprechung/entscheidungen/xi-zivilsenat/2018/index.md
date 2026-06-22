@@ -3,41 +3,41 @@
 39 Entscheidung(en).
 
 - [BGH, Beschluss vom 18.12.2018 - XI ZB 16/18](xi-zb-16-18.md) — Zur Bezeichnung des Rechtsmittelgegners bei Streitgenossenschaft in der Vorinstanz.
-- [BGH, Beschluss vom 04.12.2018 - XI ZR 196/18](xi-zr-196-18.md) — Zulässigkeitsvoraussetzung für die Nichtzulassungsbeschwerde: Streitwertbemessung bei negativer Feststellungsklage nach Widerruf eines Verbraucherdarlehensvertr
+- [BGH, Beschluss vom 04.12.2018 - XI ZR 196/18](xi-zr-196-18.md) — Zulässigkeitsvoraussetzung für die Nichtzulassungsbeschwerde: Streitwertbemessung bei negativer Feststellungsklage nach Widerruf eines Verbraucherdarlehensvertrages
 - [BGH, Beschluss vom 20.11.2018 - XI ZB 31/17](xi-zb-31-17.md) — Organisationsverschulden bei der Fristenkontrolle in der Anwaltskanzlei
-- [BGH, Beschluss vom 20.11.2018 - XI ZB 9/17](xi-zb-9-17.md) — Rechtsbeschwerde gegen die Kostenentscheidung nach Berufungsrücknahme: Bindungswirkung einer nachträglichen Zulassungsentscheidung für das Rechtsbeschwerdegeric
+- [BGH, Beschluss vom 20.11.2018 - XI ZB 9/17](xi-zb-9-17.md) — Rechtsbeschwerde gegen die Kostenentscheidung nach Berufungsrücknahme: Bindungswirkung einer nachträglichen Zulassungsentscheidung für das Rechtsbeschwerdegericht …
 - [BGH, Beschluss vom 20.11.2018 - XI ZR 228/18](xi-zr-228-18.md) — Wert der Beschwer nach Widerruf eines Darlehensvertrages
 - [BGH, Beschluss vom 06.11.2018 - XI ZR 369/18](xi-zr-369-18.md) — Verjährung des Rückzahlungsanspruchs aus einer Inhaberschuldverschreibung
-- [BGH, Beschluss vom 23.10.2018 - XI ZB 3/16](xi-zb-3-16.md) — 1. Die Angabe in einem Verkaufsprospekt, die Kapitalanlagegesellschaft verwende "einen Teil" der ihr aus dem Sondervermögen geleisteten Vergütungen für wiederke
-- [BGH, Beschluss vom 23.10.2018 - XI ZR 549/17](xi-zr-549-17.md) — Der Ausnahmetatbestand des § 110 Abs. 2 Nr. 1 ZPO, dass aufgrund völkerrechtlicher Verträge keine Sicherheit wegen der Prozesskosten zu leisten ist, greift im V
-- [BGH, Urteil vom 16.10.2018 - XI ZR 593/16](xi-zr-593-16.md) — Zur Unwirksamkeit einer formularmäßigen Klausel über eine Bearbeitungsprovision in Unternehmerdarlehen (Fortführung des Senatsurteils vom 4. Juli 2017, XI ZR 56
-- [BGH, Beschluss vom 25.09.2018 - XI ZB 6/17](xi-zb-6-17.md) — Form- und fristgerechte Berufungseinlegung und -begründung: Glaubhaftmachung des Wegfalls der Beweiswirkung eines anwaltlichen Empfangsbekenntnisses zum Eingang
+- [BGH, Beschluss vom 23.10.2018 - XI ZB 3/16](xi-zb-3-16.md) — 1. Die Angabe in einem Verkaufsprospekt, die Kapitalanlagegesellschaft verwende "einen Teil" der ihr aus dem Sondervermögen geleisteten Vergütungen für wiederkehrende Vergütungen …
+- [BGH, Beschluss vom 23.10.2018 - XI ZR 549/17](xi-zr-549-17.md) — Der Ausnahmetatbestand des § 110 Abs. 2 Nr. 1 ZPO, dass aufgrund völkerrechtlicher Verträge keine Sicherheit wegen der Prozesskosten zu leisten ist, greift im Verhältnis zum …
+- [BGH, Urteil vom 16.10.2018 - XI ZR 593/16](xi-zr-593-16.md) — Zur Unwirksamkeit einer formularmäßigen Klausel über eine Bearbeitungsprovision in Unternehmerdarlehen (Fortführung des Senatsurteils vom 4. Juli 2017, XI ZR 562/15, BGHZ 215 …
+- [BGH, Beschluss vom 25.09.2018 - XI ZB 6/17](xi-zb-6-17.md) — Form- und fristgerechte Berufungseinlegung und -begründung: Glaubhaftmachung des Wegfalls der Beweiswirkung eines anwaltlichen Empfangsbekenntnisses zum Eingang des Ersturteils …
 - [BGH, Beschluss vom 18.09.2018 - XI ZR 74/17](xi-zr-74-17.md) — Verletzung rechtlichen Gehörs durch fehlerhaft angenommene Präklusion eines Sachvortrags
 - [BGH, Beschluss vom 11.09.2018 - XI ZB 4/17](xi-zb-4-17.md) — Beweiswirkung des anwaltlichen Empfangsbekenntnisses: Anforderungen an den Nachweis der Unrichtigkeit einer Datumsangabe auf einem Empfangsbekenntnis
-- [BGH, Urteil vom 11.09.2018 - XI ZR 380/16](xi-zr-380-16.md) — Die Bürgschaft eines Arbeitnehmers für Verbindlichkeiten des Arbeitgebers ist nicht schon deswegen sittenwidrig, weil sie vom Arbeitnehmer ohne eine Gegenleistu
+- [BGH, Urteil vom 11.09.2018 - XI ZR 380/16](xi-zr-380-16.md) — Die Bürgschaft eines Arbeitnehmers für Verbindlichkeiten des Arbeitgebers ist nicht schon deswegen sittenwidrig, weil sie vom Arbeitnehmer ohne eine Gegenleistung in einer …
 - [BGH, Beschluss vom 11.07.2018 - XI ZB 17/18](xi-zb-17-18.md) — Anwaltliche Vertretung in Berufungsinstanz erforderlich
 - [BGH, Beschluss vom 10.07.2018 - XI ZB 7/18](xi-zb-7-18.md) — Statthaftigkeit einer Rechtsbeschwerde
 - [BGH, Urteil vom 10.07.2018 - XI ZR 135/17](xi-zr-135-17.md) — Zinsbonusregelung in Bausparvertrag steht Kündigung nach Zuteilungsreife nicht entgegen
 - [BGH, Beschluss vom 10.07.2018 - XI ZR 674/16](xi-zr-674-16.md) — Streitwert für Rückgewähransprüche nach Widerruf eines Darlehens
-- [BGH, Beschluss vom 03.07.2018 - XI ZR 758/17](xi-zr-758-17.md) — Verbraucherdarlehensvertrag: Unwirksamkeit einer Widerrufsbelehrung durch Abbedingung der Auslegungsregel zur Fristberechnung in Allgemeinen Geschäftsbedingunge
+- [BGH, Beschluss vom 03.07.2018 - XI ZR 758/17](xi-zr-758-17.md) — Verbraucherdarlehensvertrag: Unwirksamkeit einer Widerrufsbelehrung durch Abbedingung der Auslegungsregel zur Fristberechnung in Allgemeinen Geschäftsbedingungen
 - [BGH, Beschluss vom 05.06.2018 - XI ZR 388/16](xi-zr-388-16.md) — Bankenhaftung bei Kapitalanlageberatung: Darlegungs- und Beweislast für vorsätzlichen Beratungsfehler
-- [BGH, Urteil vom 05.06.2018 - XI ZR 790/16](xi-zr-790-16.md) — Die von einer Bank in Darlehensverträgen mit einem variablen Zinssatz verwendeten vorformulierten Klauseln "Zinscap-Prämie: ...% Zinssatz p.a. …% variabel* *) B
+- [BGH, Urteil vom 05.06.2018 - XI ZR 790/16](xi-zr-790-16.md) — Die von einer Bank in Darlehensverträgen mit einem variablen Zinssatz verwendeten vorformulierten Klauseln "Zinscap-Prämie: ...% Zinssatz p.a. …% variabel* *) Bis zum … beträgt …
 - [BGH, Beschluss vom 29.05.2018 - XI ZB 3/18](xi-zb-3-18.md) — Bestimmung eines Musterbeklagten zum Musterrechtsbeschwerdegegner
 - [BGH, Beschluss vom 15.05.2018 - XI ZR 423/17](xi-zr-423-17.md) — Normenverifikationsverfahren: Erforderlichkeit einer Vorlage an das Bundesverfassungsgericht zum Umfang der Staatenimmunität
 - [BGH, Urteil vom 15.05.2018 - XI ZR 548/16](xi-zr-548-16.md) — Außerachtlassung wesentlichen Prozessstoffs durch das Berufungsgericht
-- [BGH, Beschluss vom 08.05.2018 - XI ZR 538/17](xi-zr-538-17.md) — Rechtsbeschwerde gegen Berufungszurückweisungsbeschluss: Statthaftigkeit der Rechtsbeschwerde bei fehlerhaftem Beschluss; Berücksichtigung neuen unstreitigen Ta
-- [BGH, Urteil vom 24.04.2018 - XI ZR 207/17](xi-zr-207-17.md) — Zu den Anforderungen an die Bestimmtheit des Klageantrags auf "Freigabe" einer Sicherheit (Anschluss an Senatsbeschluss vom 17. Januar 2017, XI ZR 170/16, BKR 2
+- [BGH, Beschluss vom 08.05.2018 - XI ZR 538/17](xi-zr-538-17.md) — Rechtsbeschwerde gegen Berufungszurückweisungsbeschluss: Statthaftigkeit der Rechtsbeschwerde bei fehlerhaftem Beschluss; Berücksichtigung neuen unstreitigen Tatsachenvortrags
+- [BGH, Urteil vom 24.04.2018 - XI ZR 207/17](xi-zr-207-17.md) — Zu den Anforderungen an die Bestimmtheit des Klageantrags auf "Freigabe" einer Sicherheit (Anschluss an Senatsbeschluss vom 17. Januar 2017, XI ZR 170/16, BKR 2017, 152 Rn. 7).
 - [BGH, Beschluss vom 24.04.2018 - XI ZR 335/17](xi-zr-335-17.md) — Inhaltskontrolle bei Agio-Klausel in Bauspardarlehen
 - [BGH, Beschluss vom 24.04.2018 - XI ZR 573/17](xi-zr-573-17.md) — Darlehensvertrag: Klarheit und Verständlichkeit der Information zu den Widerrufsfolgen
-- [BGH, Urteil vom 17.04.2018 - XI ZR 238/16](xi-zr-238-16.md) — Die in Darlehensurkunden eines Kreditinstituts für Kreditverträge mit Unternehmern enthaltene formularmäßige Klausel zu einer "Bearbeitungsgebühr" unterliegt au
-- [BGH, Beschluss vom 10.04.2018 - XI ZR 468/17](xi-zr-468-17.md) — Unterbrechung der Vollstreckungsabwehrklage gegen die Zwangsvollstreckung aus einer Grundschuld durch Insolvenzeröffnung: Voraussetzungen einer Aufnahmebefugnis
-- [BGH, Urteil vom 20.03.2018 - XI ZR 30/16](xi-zr-30-16.md) — 1. Bei einem Gemeinschaftskonto mit Einzelverfügungsbefugnis (sog. Oder-Konto) kann das kontoführende Kreditinstitut entgegen der dispositiven Regelung des § 42
-- [BGH, Urteil vom 20.03.2018 - XI ZR 309/16](xi-zr-309-16.md) — Die in den Allgemeinen Geschäftsbedingungen einer Sparkasse enthaltene Bestimmung "Nummer 11 Aufrechnung und Verrechnung (1) Aufrechnung durch den Kunden Der Ku
-- [BGH, Urteil vom 13.03.2018 - XI ZR 291/16](xi-zr-291-16.md) — Vorformulierte Vertragsbedingungen, die dem Darlehensnehmer die Wahl zwischen einer Darlehensvariante ohne "Bearbeitungsprovision" zu marktüblichem Zins und ein
-- [BGH, Beschluss vom 20.02.2018 - XI ZR 385/16](xi-zr-385-16.md) — Rückabwicklung des widerrufenen Darlehens zur teilweisen Finanzierung der Beteiligung an einer Fondsgesellschaft: Anspruch des Verbrauchers auf Herausgabe der v
-- [BGH, Urteil vom 20.02.2018 - XI ZR 445/17](xi-zr-445-17.md) — 1. Zum Vorliegen eines Verbraucherdarlehensvertrags. 2. Dem Darlehensgeber steht bei einer außerordentlichen Kündigung eines Darlehensvertrages aufgrund Zahlung
+- [BGH, Urteil vom 17.04.2018 - XI ZR 238/16](xi-zr-238-16.md) — Die in Darlehensurkunden eines Kreditinstituts für Kreditverträge mit Unternehmern enthaltene formularmäßige Klausel zu einer "Bearbeitungsgebühr" unterliegt auch dann nach § 307 …
+- [BGH, Beschluss vom 10.04.2018 - XI ZR 468/17](xi-zr-468-17.md) — Unterbrechung der Vollstreckungsabwehrklage gegen die Zwangsvollstreckung aus einer Grundschuld durch Insolvenzeröffnung: Voraussetzungen einer Aufnahmebefugnis des …
+- [BGH, Urteil vom 20.03.2018 - XI ZR 30/16](xi-zr-30-16.md) — 1. Bei einem Gemeinschaftskonto mit Einzelverfügungsbefugnis (sog. Oder-Konto) kann das kontoführende Kreditinstitut entgegen der dispositiven Regelung des § 428 BGB nur an …
+- [BGH, Urteil vom 20.03.2018 - XI ZR 309/16](xi-zr-309-16.md) — Die in den Allgemeinen Geschäftsbedingungen einer Sparkasse enthaltene Bestimmung "Nummer 11 Aufrechnung und Verrechnung (1) Aufrechnung durch den Kunden Der Kunde darf …
+- [BGH, Urteil vom 13.03.2018 - XI ZR 291/16](xi-zr-291-16.md) — Vorformulierte Vertragsbedingungen, die dem Darlehensnehmer die Wahl zwischen einer Darlehensvariante ohne "Bearbeitungsprovision" zu marktüblichem Zins und einer …
+- [BGH, Beschluss vom 20.02.2018 - XI ZR 385/16](xi-zr-385-16.md) — Rückabwicklung des widerrufenen Darlehens zur teilweisen Finanzierung der Beteiligung an einer Fondsgesellschaft: Anspruch des Verbrauchers auf Herausgabe der von der Bank aus den …
+- [BGH, Urteil vom 20.02.2018 - XI ZR 445/17](xi-zr-445-17.md) — 1. Zum Vorliegen eines Verbraucherdarlehensvertrags. 2. Dem Darlehensgeber steht bei einer außerordentlichen Kündigung eines Darlehensvertrages aufgrund Zahlungsverzugs des …
 - [BGH, Urteil vom 20.02.2018 - XI ZR 65/16](xi-zr-65-16.md) — Pflicht eines Kreditinstituts zur Beratung über anfänglichen negativen Marktwert eines Zinssatz-Swap-Vertrags
-- [BGH, Beschluss vom 06.02.2018 - XI ZR 173/17](xi-zr-173-17.md) — Notanwaltsbeiordnung: Mandatsniederlegung durch einen beim BGH zugelassenen Rechtsanwalt wegen Differenzen mit der Partei über die Begründung einer Nichtzulassu
+- [BGH, Beschluss vom 06.02.2018 - XI ZR 173/17](xi-zr-173-17.md) — Notanwaltsbeiordnung: Mandatsniederlegung durch einen beim BGH zugelassenen Rechtsanwalt wegen Differenzen mit der Partei über die Begründung einer Nichtzulassungsbeschwerde
 - [BGH, Beschluss vom 23.01.2018 - XI ZR 298/17](xi-zr-298-17.md) — Verwirkung des Widerrufsrechts bei Verbraucherdarlehensverträgen: Zurückweisung der Revision wegen mangelnder grundsätzlicher Bedeutung
 - [BGH, Beschluss vom 16.01.2018 - XI ZR 477/17](xi-zr-477-17.md) — Fortbestehendes Widerrufsrecht bei Altverträgen über Immobiliendarlehen wegen fehlerhafter Widerrufsbelehrung: Datum des Ablaufs der absoluten Ausschlussfrist
 - [BGH, Beschluss vom 09.01.2018 - XI ZR 547/17](xi-zr-547-17.md) — BGH, Beschluss XI ZR 547/17

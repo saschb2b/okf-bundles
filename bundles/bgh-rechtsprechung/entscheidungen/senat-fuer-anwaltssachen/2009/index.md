@@ -25,7 +25,7 @@
 - [BGH, Beschluss vom 12.05.2009 - AnwZ (B) 110/08](anwz-b-110-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 103/08](anwz-b-103-08.md) — Unzulässigkeit der Zwangsvollstreckung
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 44/08](anwz-b-44-08.md) — Zulassung zur Rechtsanwaltschaft
-- [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 48/08](anwz-b-48-08.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja FAO § 5 Satz 1 Buchst. m, § 14f a) Zu einem erbrechtlichen Fall wird ein Fall dadurch, dass er sich schwerpunktmäßig auf
+- [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 48/08](anwz-b-48-08.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja FAO § 5 Satz 1 Buchst. m, § 14f a) Zu einem erbrechtlichen Fall wird ein Fall dadurch, dass er sich schwerpunktmäßig auf einen der in § 14f …
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 54/08](anwz-b-54-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 20.04.2009 - AnwZ (B) 94/07](anwz-b-94-07.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 16.03.2009 - AnwZ (B) 30/08](anwz-b-30-08.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft

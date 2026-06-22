@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu Zur"
 description: "BGH-Entscheidungen zu Zur, geordnet nach Vorschrift."
 tags: [register, navigation, zur]
-timestamp: 2026-06-22T13:43:59Z
+timestamp: 2026-06-22T13:45:57Z
 ---
 
 # Nach Vorschrift

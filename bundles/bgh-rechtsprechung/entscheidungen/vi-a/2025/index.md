@@ -176,7 +176,7 @@
 - [BGH, Urteil vom 03.09.2025 - VIa ZR 26/24](via-zr-26-24.md) — Haftung des Automobilherstellers im Dieselskandal: Anforderungen an den Vortrag eines unvermeidbaren Verbotsirrtums
 - [BGH, Urteil vom 03.09.2025 - VIa ZR 694/22](via-zr-694-22.md) — BGH, Urteil VIa ZR 694/22
 - [BGH, Beschluss vom 02.09.2025 - VIa ZR 1104/23](via-zr-1104-23.md) — BGH, Beschluss VIa ZR 1104/23
-- [BGH, Beschluss vom 02.09.2025 - VIa ZR 87/24](via-zr-87-24.md) — 1. Die durch die bloße rechtliche Möglichkeit einer Nutzungsbeschränkung bewirkte Verringerung des objektiven Werts des mit einer unzulässigen Abschalteinrichtu
+- [BGH, Beschluss vom 02.09.2025 - VIa ZR 87/24](via-zr-87-24.md) — 1. Die durch die bloße rechtliche Möglichkeit einer Nutzungsbeschränkung bewirkte Verringerung des objektiven Werts des mit einer unzulässigen Abschalteinrichtung ausgestatteten …
 - [BGH, Urteil vom 27.08.2025 - VIa ZR 145/22](via-zr-145-22.md) — BGH, Urteil VIa ZR 145/22
 - [BGH, Urteil vom 27.08.2025 - VIa ZR 293/23](via-zr-293-23.md) — BGH, Urteil VIa ZR 293/23
 - [BGH, Urteil vom 20.08.2025 - VIa ZR 1026/22](via-zr-1026-22.md) — BGH, Urteil VIa ZR 1026/22

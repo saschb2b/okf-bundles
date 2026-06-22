@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu HeizkostenV"
 description: "BGH-Entscheidungen zu HeizkostenV, geordnet nach Vorschrift."
 tags: [register, navigation, heizkostenv]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

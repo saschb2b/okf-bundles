@@ -19,11 +19,11 @@
 - [BGH, Beschluss vom 01.09.2023 - AnwZ (Brfg) 21/23](anwz-brfg-21-23.md) — Widerruf der Rechtsanwaltszulassung: Gefährdung der Interessen der Rechtsuchenden bei Vermögensverfall des Rechtsanwalts
 - [BGH, Beschluss vom 01.09.2023 - AnwZ (Brfg) 24/23](anwz-brfg-24-23.md) — Widerruf der Rechtsanwaltszulassung: Widerlegung der gesetzlichen Vermutung des Vermögensverfalls eines Rechtsanwalts im Insolvenzverfahren
 - [BGH, Beschluss vom 22.08.2023 - AnwSt (R) 1/23](anwst-r-1-23.md) — BGH, Beschluss AnwSt (R) 1/23
-- [BGH, Beschluss vom 22.08.2023 - AnwZ (Brfg) 14/23](anwz-brfg-14-23.md) — Widerruf einer Rechtsanwaltszulassung: Fehlender Vermerk des Zustellungsdatums auf dem Briefumschlag bei Zustellung des Widerrufsbescheids an den Adressaten per
+- [BGH, Beschluss vom 22.08.2023 - AnwZ (Brfg) 14/23](anwz-brfg-14-23.md) — Widerruf einer Rechtsanwaltszulassung: Fehlender Vermerk des Zustellungsdatums auf dem Briefumschlag bei Zustellung des Widerrufsbescheids an den Adressaten persönlich
 - [BGH, Beschluss vom 22.08.2023 - AnwZ (Brfg) 7/23](anwz-brfg-7-23.md) — Entscheidung des Anwaltsgerichtshofs ohne mündliche Verhandlung und Säumniszuschlag zum Rechtsanwaltskammerbeitrag
 - [BGH, Beschluss vom 27.07.2023 - AnwZ (Brfg) 12/23](anwz-brfg-12-23.md) — Zulassung als Syndikusanwalt bei einem Erzbistum
 - [BGH, Beschluss vom 25.07.2023 - AnwSt (B) 4/21](anwst-b-4-21.md) — BGH, Beschluss AnwSt (B) 4/21
-- [BGH, Beschluss vom 25.07.2023 - AnwZ (Brfg) 25/22](anwz-brfg-25-22.md) — Antrag auf Berufungszulassung gegen den Widerruf einer Rechtsanwaltszulassung: Fehlendes Rechtsschutzbedürfnis bei Bestandskraft des Widerrufs "aus anderen Grün
+- [BGH, Beschluss vom 25.07.2023 - AnwZ (Brfg) 25/22](anwz-brfg-25-22.md) — Antrag auf Berufungszulassung gegen den Widerruf einer Rechtsanwaltszulassung: Fehlendes Rechtsschutzbedürfnis bei Bestandskraft des Widerrufs "aus anderen Gründen"
 - [BGH, Beschluss vom 25.07.2023 - AnwZ (Brfg) 8/23](anwz-brfg-8-23.md) — BGH, Beschluss AnwZ (Brfg) 8/23
 - [BGH, Beschluss vom 20.07.2023 - AnwZ (Brfg) 11/23](anwz-brfg-11-23.md) — BGH, Beschluss AnwZ (Brfg) 11/23
 - [BGH, Urteil vom 20.07.2023 - AnwZ (Brfg) 14/22](anwz-brfg-14-22.md) — Rechtsanwaltszulassung: Widerspruch gegen einen Abhilfe- oder Widerspruchsbescheid im Verfahren zur Zulassung als Syndikusrechtsanwalt
@@ -33,7 +33,7 @@
 - [BGH, Beschluss vom 16.06.2023 - AnwSt (B) 3/21](anwst-b-3-21.md) — BGH, Beschluss AnwSt (B) 3/21
 - [BGH, Beschluss vom 07.06.2023 - AnwZ (Brfg) 3/23](anwz-brfg-3-23.md) — Gefährdung der Interessen Rechtsuchender im Fall eines in Vermögensverfall geratenen Rechtsanwalts
 - [BGH, Beschluss vom 22.05.2023 - AnwZ (Brfg) 2/23](anwz-brfg-2-23.md) — Vergütung des von Amts wegen bestellten Vertreters eines Rechtsanwalts: Berücksichtigung der Kanzleikosten seines Arbeitgebers
-- [BGH, Urteil vom 22.05.2023 - AnwZ (Brfg) 23/22](anwz-brfg-23-22.md) — Zum Anspruch auf Aufnahme in die Rechtsanwaltskammer gemäß § 207 Abs. 1 Satz 1 i.V.m. § 206 Abs. 1 BRAO im Falle eines ehemaligen ausländischen Rechtsanwalts (h
+- [BGH, Urteil vom 22.05.2023 - AnwZ (Brfg) 23/22](anwz-brfg-23-22.md) — Zum Anspruch auf Aufnahme in die Rechtsanwaltskammer gemäß § 207 Abs. 1 Satz 1 i.V.m. § 206 Abs. 1 BRAO im Falle eines ehemaligen ausländischen Rechtsanwalts (hier: Avukat nach …
 - [BGH, Urteil vom 22.05.2023 - AnwZ (Brfg) 24/22](anwz-brfg-24-22.md) — BGH, Urteil AnwZ (Brfg) 24/22
 - [BGH, Beschluss vom 11.05.2023 - AnwZ (Brfg) 33/22](anwz-brfg-33-22.md) — Widerruf der Zulassung zur Rechtsanwaltschaft: Vermögensverfall bei ausschließlich als Strafverteidiger tätigem Rechtsanwalt
 - [BGH, Beschluss vom 28.04.2023 - AnwZ (Brfg) 6/23](anwz-brfg-6-23.md) — Anwaltsgerichtliches Verfahren: Widerruf der Rechtsanwaltszulassung bei Vermögensverfall

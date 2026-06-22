@@ -2,8 +2,8 @@
 
 5 Entscheidung(en).
 
-- [BGH, Beschluss vom 26.08.2014 - X ARZ 275/14](x-arz-275-14.md) — Bindungswirkung eines Verweisungsbeschlusses: Gewährung rechtlichen Gehörs durch die Übersendung einer Hinweisverfügung zur Zuständigkeitsfrage; Gerichtsstand f
-- [BGH, Beschluss vom 23.06.2014 - X ARZ 146/14](x-arz-146-14.md) — Negativer Kompetenzkonflikt zwischen Gerichten verschiedener Gerichtszweige: Zuständigkeitsbestimmung durch einen obersten Gerichtshof des Bundes; Bindungswirku
-- [BGH, Beschluss vom 29.04.2014 - X ARZ 172/14](x-arz-172-14.md) — Verweisung an das Gericht eines anderen Rechtswegs: Bindungswirkung bei Unanfechtbarkeit des Beschlusses; Durchbrechung der Bindungswirkung bei objektiver Willk
-- [BGH, Beschluss vom 11.03.2014 - X ARZ 664/13](x-arz-664-13.md) — Der Bundesgerichtshof ist bei einem negativen Kompetenzkonflikt zwischen dem Kartellsenat und einem Zivilsenat des Oberlandesgerichts nicht zur Bestimmung des z
-- [BGH, Beschluss vom 07.01.2014 - X ARZ 578/13](x-arz-578-13.md) — Die Unterbrechung des Rechtsstreits durch Eröffnung des Insolvenzverfahrens über das Vermögen einer beklagten Partei hindert die Gerichtsstandsbestimmung nach §
+- [BGH, Beschluss vom 26.08.2014 - X ARZ 275/14](x-arz-275-14.md) — Bindungswirkung eines Verweisungsbeschlusses: Gewährung rechtlichen Gehörs durch die Übersendung einer Hinweisverfügung zur Zuständigkeitsfrage; Gerichtsstand für Klage auf …
+- [BGH, Beschluss vom 23.06.2014 - X ARZ 146/14](x-arz-146-14.md) — Negativer Kompetenzkonflikt zwischen Gerichten verschiedener Gerichtszweige: Zuständigkeitsbestimmung durch einen obersten Gerichtshof des Bundes; Bindungswirkung einer …
+- [BGH, Beschluss vom 29.04.2014 - X ARZ 172/14](x-arz-172-14.md) — Verweisung an das Gericht eines anderen Rechtswegs: Bindungswirkung bei Unanfechtbarkeit des Beschlusses; Durchbrechung der Bindungswirkung bei objektiver Willkür
+- [BGH, Beschluss vom 11.03.2014 - X ARZ 664/13](x-arz-664-13.md) — Der Bundesgerichtshof ist bei einem negativen Kompetenzkonflikt zwischen dem Kartellsenat und einem Zivilsenat des Oberlandesgerichts nicht zur Bestimmung des zuständigen Gerichts …
+- [BGH, Beschluss vom 07.01.2014 - X ARZ 578/13](x-arz-578-13.md) — Die Unterbrechung des Rechtsstreits durch Eröffnung des Insolvenzverfahrens über das Vermögen einer beklagten Partei hindert die Gerichtsstandsbestimmung nach § 36 Abs. 1 Nr. 3 …

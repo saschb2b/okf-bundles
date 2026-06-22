@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu HausratsV"
 description: "BGH-Entscheidungen zu HausratsV, geordnet nach Vorschrift."
 tags: [register, navigation, hausratsv]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

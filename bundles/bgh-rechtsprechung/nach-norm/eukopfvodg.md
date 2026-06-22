@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu EuKoPfVODG"
 description: "BGH-Entscheidungen zu EuKoPfVODG, geordnet nach Vorschrift."
 tags: [register, navigation, eukopfvodg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

@@ -3,7 +3,7 @@
 40 Entscheidung(en).
 
 - [BGH, Urteil vom 09.12.2009 - 5 StR 403/09](5-str-403-09.md) — Mordes u. a.
-- [BGH, Entscheidung vom 08.12.2009 - 5 StR 441/09](5-str-441-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 08.12.2009 - 5 StR 441/09](5-str-441-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 28.10.2009 - 5 StR 419/09](5-str-419-09.md) — Vergewaltigung u. a.
 - [BGH, Beschluss vom 15.10.2009 - 5 StR 344/09](5-str-344-09.md) — versuchten Totschlags u. a.
 - [BGH, Beschluss vom 15.10.2009 - 5 StR 351/09](5-str-351-09.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
@@ -27,7 +27,7 @@
 - [BGH, Beschluss vom 08.07.2009 - 5 StR 217/09](5-str-217-09.md) — besonders schweren räuberischen Diebstahls u. a.
 - [BGH, Beschluss vom 08.07.2009 - 5 StR 219/09](5-str-219-09.md) — besonders schweren Raubes u. a.
 - [BGH, Beschluss vom 07.07.2009 - 5 StR 204/09](5-str-204-09.md) — Vergewaltigung
-- [BGH, Entscheidung vom 09.06.2009 - 5 StR 190/09](5-str-190-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 09.06.2009 - 5 StR 190/09](5-str-190-09.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 24.03.2009 - 5 StR 225/06](5-str-225-06.md) — Vergehens nach dem Außenwirtschaftsgesetz hier: Antrag des Vertreters der Verfallsbeteiligten Rechtsanwalt H. auf Festsetzung des Gegenstand
 - [BGH, Beschluss vom 24.03.2009 - 5 StR 394/08](5-str-394-08.md) — Betruges
 - [BGH, Beschluss vom 11.03.2009 - 5 ARs 3/09](5-ars-3-09.md) — schweren Raubes u. a. hier: Anfrage des 2. Strafsenats vom 29. Oktober 2008 – 2 StR 386/08 –

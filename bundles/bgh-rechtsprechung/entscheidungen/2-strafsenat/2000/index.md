@@ -18,7 +18,7 @@
 - [BGH, Urteil vom 30.08.2000 - 2 StR 204/00](2-str-204-00.md) — versuchten Totschlags
 - [BGH, Beschluss vom 30.08.2000 - 2 StR 567/99](2-str-567-99.md) — Mordes u.a.
 - [BGH, Urteil vom 30.08.2000 - 2 StR 85/00](2-str-85-00.md) — Betruges
-- [BGH, Entscheidung vom 25.08.2000 - 2 StR 295/00](2-str-295-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 25.08.2000 - 2 StR 295/00](2-str-295-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 26.07.2000 - 2 StR 199/00](2-str-199-00.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 26.07.2000 - 2 StR 278/00](2-str-278-00.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Urteil vom 20.06.2000 - 2 StR 123/00](2-str-123-00.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
@@ -45,7 +45,7 @@
 - [BGH, Beschluss vom 09.02.2000 - 2 StR 639/99](2-str-639-99.md) — versuchten Totschlags u.a.
 - [BGH, Beschluss vom 04.02.2000 - 2 StR 615/99](2-str-615-99.md) — schweren Raubes, sexueller Nötigung u.a.
 - [BGH, Beschluss vom 04.02.2000 - 2 StR 636/99](2-str-636-99.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
-- [BGH, Beschluss vom 02.02.2000 - 2 ARs 495/99](2-ars-495-99.md) — _______________________ StPO §§ 81g, 162 Abs. 1; DNA-IFG § 2 Die Entnahme von Körperzellen und deren molekulargenetische Untersuchung zur Feststellung des DNA-I
+- [BGH, Beschluss vom 02.02.2000 - 2 ARs 495/99](2-ars-495-99.md) — _______________________ StPO §§ 81g, 162 Abs. 1; DNA-IFG § 2 Die Entnahme von Körperzellen und deren molekulargenetische Untersuchung zur Feststellung des …
 - [BGH, Beschluss vom 02.02.2000 - 2 StR 4/00](2-str-4-00.md) — versuchter schwerer räuberischer Erpressung
 - [BGH, Urteil vom 02.02.2000 - 2 StR 416/99](2-str-416-99.md) — Handeltreibens mit Betäubungsmitteln
 - [BGH, Urteil vom 02.02.2000 - 2 StR 550/99](2-str-550-99.md) — zu 1.: Totschlags zu 2.: Mordes u.a.

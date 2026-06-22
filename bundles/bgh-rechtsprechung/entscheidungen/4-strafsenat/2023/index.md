@@ -5,9 +5,9 @@
 - [BGH, Beschluss vom 21.12.2023 - 4 StR 303/23](4-str-303-23.md) — BGH, Beschluss 4 StR 303/23
 - [BGH, Beschluss vom 20.12.2023 - 4 StR 188/23](4-str-188-23.md) — Bandenhandel mit Betäubungsmitteln: notwendige Feststellungen zum Hang und zur Einziehung des Erlöses
 - [BGH, Beschluss vom 20.12.2023 - 4 StR 209/23](4-str-209-23.md) — Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
-- [BGH, Beschluss vom 20.12.2023 - 4 StR 447/23](4-str-447-23.md) — Strafverurteilung wegen besonders schwerer Brandstiftung: Eintritt des tatbestandmäßigen Eintritts der Zerstörung; erforderliche Urteilsfeststellungen zum Zerst
+- [BGH, Beschluss vom 20.12.2023 - 4 StR 447/23](4-str-447-23.md) — Strafverurteilung wegen besonders schwerer Brandstiftung: Eintritt des tatbestandmäßigen Eintritts der Zerstörung; erforderliche Urteilsfeststellungen zum Zerstörungserfolg
 - [BGH, Beschluss vom 19.12.2023 - 4 StR 252/23](4-str-252-23.md) — BGH, Beschluss 4 StR 252/23
-- [BGH, Beschluss vom 19.12.2023 - 4 StR 325/23](4-str-325-23.md) — Medizinische Instrumente, die von approbierten Ärzten bei nicht gebotenen Heileingriffen kunstgerecht eingesetzt werden, stellen - entsprechend den allgemein hi
+- [BGH, Beschluss vom 19.12.2023 - 4 StR 325/23](4-str-325-23.md) — Medizinische Instrumente, die von approbierten Ärzten bei nicht gebotenen Heileingriffen kunstgerecht eingesetzt werden, stellen - entsprechend den allgemein hierfür geltenden …
 - [BGH, Beschluss vom 19.12.2023 - 4 StR 355/23](4-str-355-23.md) — BGH, Beschluss 4 StR 355/23
 - [BGH, Beschluss vom 19.12.2023 - 4 StR 388/23](4-str-388-23.md) — BGH, Beschluss 4 StR 388/23
 - [BGH, Beschluss vom 19.12.2023 - 4 StR 432/23](4-str-432-23.md) — BGH, Beschluss 4 StR 432/23
@@ -17,14 +17,14 @@
 - [BGH, Beschluss vom 12.12.2023 - 4 StR 62/23](4-str-62-23.md) — BGH, Beschluss 4 StR 62/23
 - [BGH, Beschluss vom 12.12.2023 - 4 StR 92/23](4-str-92-23.md) — BGH, Beschluss 4 StR 92/23
 - [BGH, Urteil vom 07.12.2023 - 4 StR 302/23](4-str-302-23.md) — Tatrichterliche Feststellungen zum bedingten Tötungsvorsatz bei Kraftfahrzeugrennen
-- [BGH, Beschluss vom 05.12.2023 - 4 StR 170/23](4-str-170-23.md) — Nachweis des Tatentschlusses im Rahmen einer Verurteilung wegen versuchten Mordes; Beweiserwägungen zur Annahme bedingten Tötungsvorsatzes; gefährliche Körperve
+- [BGH, Beschluss vom 05.12.2023 - 4 StR 170/23](4-str-170-23.md) — Nachweis des Tatentschlusses im Rahmen einer Verurteilung wegen versuchten Mordes; Beweiserwägungen zur Annahme bedingten Tötungsvorsatzes; gefährliche Körperverletzung mittels …
 - [BGH, Beschluss vom 05.12.2023 - 4 StR 221/23](4-str-221-23.md) — BGH, Beschluss 4 StR 221/23
 - [BGH, Beschluss vom 05.12.2023 - 4 StR 318/23](4-str-318-23.md) — Tatbestandsmerkmal der Abgabe von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 05.12.2023 - 4 StR 421/23](4-str-421-23.md) — Anforderungen an die Gründe des Strafurteils: Sachlich-rechtliche Begründungspflicht bei geständiger Einlassung des Angeklagten
 - [BGH, Beschluss vom 05.12.2023 - 4 StR 435/23](4-str-435-23.md) — (Räuberischer Angriff auf einen Kraftfahrer)
 - [BGH, Beschluss vom 29.11.2023 - 4 StR 218/23](4-str-218-23.md) — BGH, Beschluss 4 StR 218/23
 - [BGH, Urteil vom 23.11.2023 - 4 StR 140/23](4-str-140-23.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
-- [BGH, Beschluss vom 22.11.2023 - 4 StR 340/23](4-str-340-23.md) — Jugendstrafverfahren u.a. wegen versuchten Totschlags in Tateinheit mit vorsätzlicher Körperverletzung: Anordnung der Unterbringung in einer Entziehungsanstalt 
+- [BGH, Beschluss vom 22.11.2023 - 4 StR 340/23](4-str-340-23.md) — Jugendstrafverfahren u.a. wegen versuchten Totschlags in Tateinheit mit vorsätzlicher Körperverletzung: Anordnung der Unterbringung in einer Entziehungsanstalt bei …
 - [BGH, Beschluss vom 22.11.2023 - 4 StR 347/23](4-str-347-23.md) — Wirksamkeit einer Rechtsmittelbeschränkung; Überwiegen eines Hangs als Hauptursache für Anlasstat
 - [BGH, Beschluss vom 22.11.2023 - 4 StR 4/23](4-str-4-23.md) — BGH, Beschluss 4 StR 4/23
 - [BGH, Beschluss vom 21.11.2023 - 4 StR 286/23](4-str-286-23.md) — Versuchter Mord: Anforderungen an Beweiswürdigung zur inneren Tatseite; Verschiebung des Strafrahmens
@@ -56,8 +56,8 @@
 - [BGH, Beschluss vom 11.10.2023 - 4 StR 238/23](4-str-238-23.md) — BGH, Beschluss 4 StR 238/23
 - [BGH, Beschluss vom 11.10.2023 - 4 StR 337/23](4-str-337-23.md) — BGH, Beschluss 4 StR 337/23
 - [BGH, Beschluss vom 10.10.2023 - 4 StR 308/23](4-str-308-23.md) — Betäubungsmittelhandel: Anordnung der Einziehung des Wertes von Taterträgen
-- [BGH, Beschluss vom 10.10.2023 - 4 StR 94/22](4-str-94-22.md) — Die antragsgemäß nicht auf einen konkreten Termin bezogene Entbindung des Betroffenen von der Verpflichtung zum persönlichen Erscheinen gemäß § 73 Abs. 2 OWiG w
-- [BGH, Beschluss vom 27.09.2023 - 4 StR 148/23](4-str-148-23.md) — Beweiswürdigung im Strafverfahren wegen schweren sexuellen Missbrauchs eines Kindes: Aussage-gegen-Aussage-Konstellation und Berücksichtigung einer zweijährigen
+- [BGH, Beschluss vom 10.10.2023 - 4 StR 94/22](4-str-94-22.md) — Die antragsgemäß nicht auf einen konkreten Termin bezogene Entbindung des Betroffenen von der Verpflichtung zum persönlichen Erscheinen gemäß § 73 Abs. 2 OWiG wirkt bei Verlegung …
+- [BGH, Beschluss vom 27.09.2023 - 4 StR 148/23](4-str-148-23.md) — Beweiswürdigung im Strafverfahren wegen schweren sexuellen Missbrauchs eines Kindes: Aussage-gegen-Aussage-Konstellation und Berücksichtigung einer zweijährigen Psychotherapie des …
 - [BGH, Beschluss vom 27.09.2023 - 4 StR 200/23](4-str-200-23.md) — BGH, Beschluss 4 StR 200/23
 - [BGH, Beschluss vom 27.09.2023 - 4 StR 211/23](4-str-211-23.md) — Strafurteil: Unbestraftheit als gewichtiger Strafzumessungsgrund
 - [BGH, Beschluss vom 27.09.2023 - 4 StR 330/23](4-str-330-23.md) — Anwendung des Zweifelssatzes hinsichtlich der Tatzeit zur Prüfung des Vorliegens einer Gesamtstrafenlage
@@ -66,7 +66,7 @@
 - [BGH, Beschluss vom 14.09.2023 - 4 StR 266/23](4-str-266-23.md) — BGH, Beschluss 4 StR 266/23
 - [BGH, Beschluss vom 14.09.2023 - 4 StR 274/23](4-str-274-23.md) — BGH, Beschluss 4 StR 274/23
 - [BGH, Beschluss vom 13.09.2023 - 4 StR 132/23](4-str-132-23.md) — Verbotenes Kraftfahrzeugrennen mit Todesfolge: Voraussetzungen des bedingten Gefährdungsvorsatzes
-- [BGH, Beschluss vom 13.09.2023 - 4 StR 208/23](4-str-208-23.md) — Unterbringung in einem psychiatrischen Krankenhaus im Straf- und Sicherungsverfahren: Anforderungen an die Feststellung der erheblich verminderten Einsichtsfähi
+- [BGH, Beschluss vom 13.09.2023 - 4 StR 208/23](4-str-208-23.md) — Unterbringung in einem psychiatrischen Krankenhaus im Straf- und Sicherungsverfahren: Anforderungen an die Feststellung der erheblich verminderten Einsichtsfähigkeit …
 - [BGH, Beschluss vom 13.09.2023 - 4 StR 40/23](4-str-40-23.md) — Anforderungen an Prüfung und Beurteilung der Schuldfähigkeit nach Amokfahrt mit Fahrzeug durch Fußgängerzone
 - [BGH, Beschluss vom 13.09.2023 - 4 StR 48/23](4-str-48-23.md) — Konkurrenzrechtliche Bewertung des unerlaubten Entfernens vom Unfallort; Grenzen zulässigen Verteidigungsverhaltens
 - [BGH, Beschluss vom 12.09.2023 - 4 StR 119/23](4-str-119-23.md) — BGH, Beschluss 4 StR 119/23
@@ -99,10 +99,10 @@
 - [BGH, Beschluss vom 19.07.2023 - 4 StR 19/23](4-str-19-23.md) — Erforderlichkeit der Anrechnung von gemeinnützigen Arbeitsleistungen in Einbeziehung einer Gesamtfreiheitsstrafe
 - [BGH, Beschluss vom 18.07.2023 - 4 StR 111/22](4-str-111-22.md) — BGH, Beschluss 4 StR 111/22
 - [BGH, Beschluss vom 18.07.2023 - 4 StR 42/23](4-str-42-23.md) — Anforderungen an Anordnung einer lebenslangen Sperre für Erteilung einer Fahrerlaubnis
-- [BGH, Beschluss vom 12.07.2023 - 4 StR 495/22](4-str-495-22.md) — Strafverurteilung wegen Mordes u.a.: Nachträgliche Gesamtstrafenbildung und Härteausgleich bei Verhängung einer lebenslangen Freiheitsstrafe und vorangegangener
+- [BGH, Beschluss vom 12.07.2023 - 4 StR 495/22](4-str-495-22.md) — Strafverurteilung wegen Mordes u.a.: Nachträgliche Gesamtstrafenbildung und Härteausgleich bei Verhängung einer lebenslangen Freiheitsstrafe und vorangegangener …
 - [BGH, Beschluss vom 05.07.2023 - 4 StR 183/23](4-str-183-23.md) — Strafverfahren: Einheitliche Einziehungsentscheidung bei mehreren Vorverurteilungen
 - [BGH, Beschluss vom 05.07.2023 - 4 StR 33/23](4-str-33-23.md) — BGH, Beschluss 4 StR 33/23
-- [BGH, Beschluss vom 04.07.2023 - 4 StR 171/23](4-str-171-23.md) — Strafverfahren: Feststellende Entscheidung des Revisionsgerichts bei Zweifeln an der Wirksamkeit einer Rechtsmittelrücknahme; Formerfordernisse für die Rücknahm
+- [BGH, Beschluss vom 04.07.2023 - 4 StR 171/23](4-str-171-23.md) — Strafverfahren: Feststellende Entscheidung des Revisionsgerichts bei Zweifeln an der Wirksamkeit einer Rechtsmittelrücknahme; Formerfordernisse für die Rücknahmeerklärung
 - [BGH, Beschluss vom 04.07.2023 - 4 StR 199/23](4-str-199-23.md) — BGH, Beschluss 4 StR 199/23
 - [BGH, Beschluss vom 04.07.2023 - 4 StR 68/23](4-str-68-23.md) — BGH, Beschluss 4 StR 68/23
 - [BGH, Urteil vom 28.06.2023 - 4 StR 212/22](4-str-212-22.md) — BGH, Urteil 4 StR 212/22
@@ -125,8 +125,8 @@
 - [BGH, Beschluss vom 22.05.2023 - 4 StR 124/23](4-str-124-23.md) — BGH, Beschluss 4 StR 124/23
 - [BGH, Urteil vom 11.05.2023 - 4 StR 421/22](4-str-421-22.md) — Schwere Körperverletzung: Tatbestandsmerkmal "in Siechtum verfallen"
 - [BGH, Beschluss vom 10.05.2023 - 4 StR 17/23](4-str-17-23.md) — BGH, Beschluss 4 StR 17/23
-- [BGH, Beschluss vom 10.05.2023 - 4 StR 340/22](4-str-340-22.md) — Konkurrenzrechtliche Bewertung bei Erfüllung mehrere Straftatbestände; Frage der Steuerungsfähigkeit bei Gebrauch von Amphetamin; Einbeziehung prognoseungünstig
-- [BGH, Beschluss vom 10.05.2023 - 4 StR 37/23](4-str-37-23.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Darlegung der richterlichen Überzeugungsbildung bei einer Aussage-gegen-Aussage-Konstellation bei sexuel
+- [BGH, Beschluss vom 10.05.2023 - 4 StR 340/22](4-str-340-22.md) — Konkurrenzrechtliche Bewertung bei Erfüllung mehrere Straftatbestände; Frage der Steuerungsfähigkeit bei Gebrauch von Amphetamin; Einbeziehung prognoseungünstiger Faktoren bei …
+- [BGH, Beschluss vom 10.05.2023 - 4 StR 37/23](4-str-37-23.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Darlegung der richterlichen Überzeugungsbildung bei einer Aussage-gegen-Aussage-Konstellation bei sexuellem Kindesmissbrauch
 - [BGH, Beschluss vom 10.05.2023 - 4 StR 515/22](4-str-515-22.md) — Erpresserischer Menschenraub im Zwei-Personen-Verhältnis: Erfordernis einer über die Nötigungshandlung hinausgehenden Beherrschungssituation
 - [BGH, Beschluss vom 09.05.2023 - 4 StR 106/23](4-str-106-23.md) — BGH, Beschluss 4 StR 106/23
 - [BGH, Beschluss vom 09.05.2023 - 4 StR 113/23](4-str-113-23.md) — BGH, Beschluss 4 StR 113/23
@@ -136,7 +136,7 @@
 - [BGH, Beschluss vom 09.05.2023 - 4 StR 3/23](4-str-3-23.md) — Verfolgungsverjährung bei Sachbeschädigungstat
 - [BGH, Beschluss vom 09.05.2023 - 4 StR 65/23](4-str-65-23.md) — BGH, Beschluss 4 StR 65/23
 - [BGH, Beschluss vom 27.04.2023 - 4 StR 473/22](4-str-473-22.md) — Schwerer sexueller Kindesmissbrauch im Falle der Initiative des Kindes
-- [BGH, Beschluss vom 27.04.2023 - 4 StR 9/23](4-str-9-23.md) — Notwendige tatrichterliche Darlegungen bei Verurteilung wegen Gefährdung des Straßenverkehrs; Unterbringungsanordnung in Entziehungsanstalt und Prognoseentschei
+- [BGH, Beschluss vom 27.04.2023 - 4 StR 9/23](4-str-9-23.md) — Notwendige tatrichterliche Darlegungen bei Verurteilung wegen Gefährdung des Straßenverkehrs; Unterbringungsanordnung in Entziehungsanstalt und Prognoseentscheidung
 - [BGH, Beschluss vom 26.04.2023 - 4 StR 346/22](4-str-346-22.md) — BGH, Beschluss 4 StR 346/22
 - [BGH, Beschluss vom 26.04.2023 - 4 StR 368/22](4-str-368-22.md) — (Zulässigkeit einer Inbegriffsrüge)
 - [BGH, Beschluss vom 26.04.2023 - 4 StR 60/23](4-str-60-23.md) — BGH, Beschluss 4 StR 60/23
@@ -144,7 +144,7 @@
 - [BGH, Beschluss vom 25.04.2023 - 4 StR 38/23](4-str-38-23.md) — BGH, Beschluss 4 StR 38/23
 - [BGH, Beschluss vom 25.04.2023 - 4 StR 400/22](4-str-400-22.md) — Vorwurf sexuellen Missbrauchs: Anforderungen an Beweiswürdigung und Feststellungen im Urteil
 - [BGH, Beschluss vom 25.04.2023 - 4 StR 462/22](4-str-462-22.md) — Beweiswürdigungsanforderungen in besonderen Beweissituationen
-- [BGH, Beschluss vom 25.04.2023 - 4 StR 58/23](4-str-58-23.md) — Sicherungverfahren: Anordnung der Unterbringung in einem psychiatrischen Krankenhaus eines an einer paranoid-haluzinatorischen Schizophrenie leidenden Brandstif
+- [BGH, Beschluss vom 25.04.2023 - 4 StR 58/23](4-str-58-23.md) — Sicherungverfahren: Anordnung der Unterbringung in einem psychiatrischen Krankenhaus eines an einer paranoid-haluzinatorischen Schizophrenie leidenden Brandstifters; Anforderungen …
 - [BGH, Beschluss vom 13.04.2023 - 4 StR 389/22](4-str-389-22.md) — BGH, Beschluss 4 StR 389/22
 - [BGH, Beschluss vom 13.04.2023 - 4 StR 413/22](4-str-413-22.md) — Beweiswürdigung im Strafverfahren wegen gefährlicher Körperverletzung: Aussage eines Zeugen vom Hörensagen bei nichtgeständigem Angeklagten
 - [BGH, Urteil vom 13.04.2023 - 4 StR 429/22](4-str-429-22.md) — Tatrichterliche Anforderung an Verurteilung wegen versuchten Totschlags bzw. Mordes bei einer Fluchtfahrt
@@ -155,18 +155,18 @@
 - [BGH, Beschluss vom 11.04.2023 - 4 StR 47/23](4-str-47-23.md) — BGH, Beschluss 4 StR 47/23
 - [BGH, Beschluss vom 11.04.2023 - 4 StR 497/22](4-str-497-22.md) — Vergewaltigung: Würdigung der Aussage der Belastungszeugin bei schwieriger Beweislage
 - [BGH, Beschluss vom 11.04.2023 - 4 StR 7/23](4-str-7-23.md) — BGH, Beschluss 4 StR 7/23
-- [BGH, Beschluss vom 11.04.2023 - 4 StR 80/23](4-str-80-23.md) — Voraussetzungen einer Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Schuldfähigkeitsprüfung; negative Gefährlichkeitsprognose; Festst
+- [BGH, Beschluss vom 11.04.2023 - 4 StR 80/23](4-str-80-23.md) — Voraussetzungen einer Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Schuldfähigkeitsprüfung; negative Gefährlichkeitsprognose; Feststellung einer …
 - [BGH, Urteil vom 30.03.2023 - 4 StR 234/22](4-str-234-22.md) — Herbeiführung eines Verkehrsunfalls in Tötungsabsicht: Mordmerkmal der Heimtücke bei selbstgefährdender Fahrzeugkollision
-- [BGH, Urteil vom 30.03.2023 - 4 StR 318/22](4-str-318-22.md) — Revisionsgrund in Strafsachen: Aufklärungsrüge bei unterbliebener Vernehmung der Berufsrichter der Erstinstanz im Verfahren vor einer neubefassten Strafkammer w
+- [BGH, Urteil vom 30.03.2023 - 4 StR 318/22](4-str-318-22.md) — Revisionsgrund in Strafsachen: Aufklärungsrüge bei unterbliebener Vernehmung der Berufsrichter der Erstinstanz im Verfahren vor einer neubefassten Strafkammer wegen des Vorwurfs …
 - [BGH, Beschluss vom 28.03.2023 - 4 StR 457/22](4-str-457-22.md) — BGH, Beschluss 4 StR 457/22
 - [BGH, Beschluss vom 28.03.2023 - 4 StR 488/22](4-str-488-22.md) — Strafrahmenwahl: Einheitliche Strafzumessung bei unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 28.03.2023 - 4 StR 61/23](4-str-61-23.md) — Qualifikationstatbestand des schweren Raubes bei einer Bedrohung mit einer Luftpumpe nach Art eines Gewehres
 - [BGH, Urteil vom 16.03.2023 - 4 StR 252/22](4-str-252-22.md) — Vorliegen einer Notwehrlage
-- [BGH, Beschluss vom 16.03.2023 - 4 StR 84/22](4-str-84-22.md) — Rechtsbeschwerde im Bußgeldverfahren wegen Geschwindigkeitsüberschreitung: Rüge unzulässiger Beschränkung der Verteidigung durch Nichtüberlassung von Rohmessdat
+- [BGH, Beschluss vom 16.03.2023 - 4 StR 84/22](4-str-84-22.md) — Rechtsbeschwerde im Bußgeldverfahren wegen Geschwindigkeitsüberschreitung: Rüge unzulässiger Beschränkung der Verteidigung durch Nichtüberlassung von Rohmessdaten
 - [BGH, Beschluss vom 14.03.2023 - 4 StR 451/22](4-str-451-22.md) — Räuberischer Diebstahl: Erfüllung des Tatbestandsmerkmals "auf frischer Tat betroffen"; Anwendung des Nötigungsmittels im Rahmen der sog. Nacheile
 - [BGH, Beschluss vom 14.03.2023 - 4 StR 475/22](4-str-475-22.md) — Strafzumessung bei planvoller Abwicklung von Marihuana Geschäften unter Suchtdruck
-- [BGH, Urteil vom 02.03.2023 - 4 StR 298/22](4-str-298-22.md) — Revision: Einziehung von Mobiltelefonen bei Drogendelikten; Revisionsbeschränkung auf Gesamtstrafenausspruch; Berücksichtigung der Untersuchungshaft bei Strafzu
-- [BGH, Urteil vom 02.03.2023 - 4 StR 312/22](4-str-312-22.md) — Lückenhaftigkeit der Urteilsfeststellungen bei einer Verurteilung wegen Verstoßes gegen Weisungen während der Führungsaufsicht; Voraussetzungen der Anordnung de
+- [BGH, Urteil vom 02.03.2023 - 4 StR 298/22](4-str-298-22.md) — Revision: Einziehung von Mobiltelefonen bei Drogendelikten; Revisionsbeschränkung auf Gesamtstrafenausspruch; Berücksichtigung der Untersuchungshaft bei Strafzumessung
+- [BGH, Urteil vom 02.03.2023 - 4 StR 312/22](4-str-312-22.md) — Lückenhaftigkeit der Urteilsfeststellungen bei einer Verurteilung wegen Verstoßes gegen Weisungen während der Führungsaufsicht; Voraussetzungen der Anordnung der …
 - [BGH, Beschluss vom 01.03.2023 - 4 StR 16/23](4-str-16-23.md) — BGH, Beschluss 4 StR 16/23
 - [BGH, Beschluss vom 01.03.2023 - 4 StR 306/22](4-str-306-22.md) — Bewertungseinheit sowie natürliche Handlungseinheit beim Erpressungstatbestand
 - [BGH, Beschluss vom 01.03.2023 - 4 StR 349/22](4-str-349-22.md) — Zeitpunkt des "Hangs" bei Unterbringung in Entziehungsanstalt
@@ -175,7 +175,7 @@
 - [BGH, Beschluss vom 01.03.2023 - 4 StR 486/22](4-str-486-22.md) — BGH, Beschluss 4 StR 486/22
 - [BGH, Beschluss vom 28.02.2023 - 4 StR 452/22](4-str-452-22.md) — BGH, Beschluss 4 StR 452/22
 - [BGH, Beschluss vom 28.02.2023 - 4 StR 477/22](4-str-477-22.md) — Anforderungen an Beweiswürdigung in sog. „Aussage gegen Aussage“-Fällen
-- [BGH, Beschluss vom 28.02.2023 - 4 StR 491/22](4-str-491-22.md) — Strafurteil wegen Mordes: Anforderungen an die Schuldfähigkeitsprüfung bei Vorliegen eines psychiatrischen Sachverständigengutachtens; Erreichen des Schweregrad
+- [BGH, Beschluss vom 28.02.2023 - 4 StR 491/22](4-str-491-22.md) — Strafurteil wegen Mordes: Anforderungen an die Schuldfähigkeitsprüfung bei Vorliegen eines psychiatrischen Sachverständigengutachtens; Erreichen des Schweregrads der verminderten …
 - [BGH, Urteil vom 16.02.2023 - 4 StR 211/22](4-str-211-22.md) — Widersprüchliche Beweiswürdigung zum bedingten Tötungsvorsatz bei einem verbotenem Kraftfahrzeugrennen mit Todesfolge
 - [BGH, Beschluss vom 16.02.2023 - 4 StR 449/22](4-str-449-22.md) — BGH, Beschluss 4 StR 449/22
 - [BGH, Beschluss vom 16.02.2023 - 4 StR 93/22](4-str-93-22.md) — Anforderungen an Rüge der Unverwertbarkeit von EncroChat-Daten

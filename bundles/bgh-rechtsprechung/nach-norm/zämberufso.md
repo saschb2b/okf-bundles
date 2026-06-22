@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZÄMBerufsO"
 description: "BGH-Entscheidungen zu ZÄMBerufsO, geordnet nach Vorschrift."
 tags: [register, navigation, zämberufso]
-timestamp: 2026-06-22T13:43:59Z
+timestamp: 2026-06-22T13:45:57Z
 ---
 
 # Nach Vorschrift

@@ -6,7 +6,7 @@
 - [BGH, Beschluss vom 30.11.2005 - IV ZR 214/04](iv-zr-214-04.md) — BGH, Beschluss vom 30.11.2005 - IV ZR 214/04
 - [BGH, Urteil vom 30.11.2005 - IV ZR 4/04](iv-zr-4-04.md) — Tatbestand:
 - [BGH, Urteil vom 16.11.2005 - IV ZR 307/04](iv-zr-307-04.md) — Tatbestand:
-- [BGH, Urteil vom 09.11.2005 - IV ZR 146/04](iv-zr-146-04.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja _____________________ AKB §§ 7 I Abs. 2 Satz 3 und 7 V; KfzPflVV § 6 Abs. 1 1. Für die Frage, ob der Versicherungsnehmer
+- [BGH, Urteil vom 09.11.2005 - IV ZR 146/04](iv-zr-146-04.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja _____________________ AKB §§ 7 I Abs. 2 Satz 3 und 7 V; KfzPflVV § 6 Abs. 1 1. Für die Frage, ob der Versicherungsnehmer in der …
 - [BGH, Urteil vom 28.09.2005 - IV ZR 288/03](iv-zr-288-03.md) — Tatbestand:
 - [BGH, Beschluss vom 21.09.2005 - IV ZB 11/05](iv-zb-11-05.md) — BGH, Beschluss vom 21.09.2005 - IV ZB 11/05
 - [BGH, Beschluss vom 21.09.2005 - IV ZB 21/05](iv-zb-21-05.md) — BGH, Beschluss vom 21.09.2005 - IV ZB 21/05

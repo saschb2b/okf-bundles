@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu Unterl"
 description: "BGH-Entscheidungen zu Unterl, geordnet nach Vorschrift."
 tags: [register, navigation, unterl]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

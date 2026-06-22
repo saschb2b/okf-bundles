@@ -8,12 +8,12 @@
 - [BGH, Beschluss vom 20.12.2022 - 4 StR 221/22](4-str-221-22.md) — Voraussetzungen einer erweiterten Einziehung von aus nicht verfahrensgegenständlichen Taten erlangten Gegenständen
 - [BGH, Beschluss vom 20.12.2022 - 4 StR 377/22](4-str-377-22.md) — Konkrete Gefährdung von Personen oder fremder Sachen durch Beinahe-Unfall
 - [BGH, Beschluss vom 20.12.2022 - 4 StR 380/22](4-str-380-22.md) — BGH, Beschluss 4 StR 380/22
-- [BGH, Beschluss vom 20.12.2022 - 4 StR 387/22](4-str-387-22.md) — Sicherungsverfahren über die Unterbringung in einem psychiatrischen Krankenhaus: Beeinträchtigung der Steuerungsfähigkeit durch abweichendes Sexualverhalten in 
+- [BGH, Beschluss vom 20.12.2022 - 4 StR 387/22](4-str-387-22.md) — Sicherungsverfahren über die Unterbringung in einem psychiatrischen Krankenhaus: Beeinträchtigung der Steuerungsfähigkeit durch abweichendes Sexualverhalten in Form der Pädophilie …
 - [BGH, Beschluss vom 08.12.2022 - 4 StR 75/22](4-str-75-22.md) — Kostenentscheidung bei Tod des Angeklagten
 - [BGH, Beschluss vom 06.12.2022 - 4 StR 284/22](4-str-284-22.md) — BGH, Beschluss 4 StR 284/22
 - [BGH, Beschluss vom 06.12.2022 - 4 StR 412/22](4-str-412-22.md) — Beeinträchtigung der Schuldfähigkeit durch Auswirkungen schizoaffektiver Psychose
 - [BGH, Beschluss vom 06.12.2022 - 4 StR 438/22](4-str-438-22.md) — Unterbringung in einer Entziehungsanstalt: Tatrichterliche Würdigung der Erfolgsaussichten der Behandlung
-- [BGH, Beschluss vom 29.11.2022 - 4 StR 149/22](4-str-149-22.md) — Rechtsbeugung seitens eines mit Straf- und Familiensachen befassten Amtsrichters durch Unterlassen: Nichtabsetzen eines Strafurteils; Nichtentscheidung über ein
+- [BGH, Beschluss vom 29.11.2022 - 4 StR 149/22](4-str-149-22.md) — Rechtsbeugung seitens eines mit Straf- und Familiensachen befassten Amtsrichters durch Unterlassen: Nichtabsetzen eines Strafurteils; Nichtentscheidung über einen …
 - [BGH, Urteil vom 24.11.2022 - 4 StR 175/22](4-str-175-22.md) — BGH, Urteil 4 StR 175/22
 - [BGH, Beschluss vom 24.11.2022 - 4 StR 263/22](4-str-263-22.md) — Strafverfahren: Hinreichende Bestimmtheit eines Beweisantrags; Ablehnung eines Beweisantrags auf Vernehmung eines Auslandszeugen
 - [BGH, Beschluss vom 24.11.2022 - 4 StR 328/22](4-str-328-22.md) — BGH, Beschluss 4 StR 328/22
@@ -24,7 +24,7 @@
 - [BGH, Beschluss vom 22.11.2022 - 4 StR 242/22](4-str-242-22.md) — Unterbringungsanordnung: Berücksichtigung von Vorverurteilungen bei Gefährlichkeitsprognose
 - [BGH, Beschluss vom 22.11.2022 - 4 StR 347/22](4-str-347-22.md) — Unterbringung in einer Entziehungsanstalt bei Drogenmissbrauch: Anforderungen an die Prognose eines hinreichend konkreten Behandlungserfolgs
 - [BGH, Beschluss vom 22.11.2022 - 4 StR 388/22](4-str-388-22.md) — BGH, Beschluss 4 StR 388/22
-- [BGH, Beschluss vom 10.11.2022 - 4 StR 192/22](4-str-192-22.md) — Strafurteil wegen Tötung mit einem gemeingefährlichen Mittel: Einsatz eines Kraftfahrzeugs gegen eine Vielzahl von Besuchern des Rosenmontagszugs; Auswirkungen 
+- [BGH, Beschluss vom 10.11.2022 - 4 StR 192/22](4-str-192-22.md) — Strafurteil wegen Tötung mit einem gemeingefährlichen Mittel: Einsatz eines Kraftfahrzeugs gegen eine Vielzahl von Besuchern des Rosenmontagszugs; Auswirkungen zulässigen …
 - [BGH, Urteil vom 10.11.2022 - 4 StR 91/22](4-str-91-22.md) — Versuchte Nötigung: Tatentschluss bei Androhung eines Anfahrens des Tatopfers mit einem Kraftfahrzeug
 - [BGH, Beschluss vom 09.11.2022 - 4 StR 272/22](4-str-272-22.md) — Widerstand gegen Vollstreckungsbeamte: Widerstandshandlung durch Flucht vor der Polizei
 - [BGH, Beschluss vom 09.11.2022 - 4 StR 344/22](4-str-344-22.md) — BGH, Beschluss 4 StR 344/22
@@ -40,11 +40,11 @@
 - [BGH, Beschluss vom 25.10.2022 - 4 StR 265/22](4-str-265-22.md) — Wohnungseinbruchsdiebstahl in Wohnung nach Tod des Bewohners
 - [BGH, Beschluss vom 25.10.2022 - 4 StR 268/22](4-str-268-22.md) — Voraussetzungen einer Verurteilung wegen Brandstiftung an einer Lagerhalle
 - [BGH, Beschluss vom 25.10.2022 - 4 StR 297/22](4-str-297-22.md) — BGH, Beschluss 4 StR 297/22
-- [BGH, Beschluss vom 19.10.2022 - 4 StR 168/21](4-str-168-21.md) — Ein milderes Gesetz im Sinne des § 16 Abs. 2 StGB ist allein eine privilegierende lex specialis. Diese Voraussetzung erfüllt § 184c Abs. 1 StGB im Verhältnis zu
+- [BGH, Beschluss vom 19.10.2022 - 4 StR 168/21](4-str-168-21.md) — Ein milderes Gesetz im Sinne des § 16 Abs. 2 StGB ist allein eine privilegierende lex specialis. Diese Voraussetzung erfüllt § 184c Abs. 1 StGB im Verhältnis zu § 184b Abs. 1 StGB …
 - [BGH, Urteil vom 13.10.2022 - 4 StR 102/22](4-str-102-22.md) — Strafverfahren wegen Bandenhandels mit Betäubungsmitteln: Revisionsbeschränkung auf die Einziehungsentscheidung
 - [BGH, Urteil vom 13.10.2022 - 4 StR 115/22](4-str-115-22.md) — Tatrichterliche Ausführungen bei Ablehnung der Unterbringung in psychiatrischem Krankenhaus
 - [BGH, Beschluss vom 13.10.2022 - 4 StR 174/22](4-str-174-22.md) — Erfolg einer Revision bei mangelnder Auswirkung von rechtsfehlerhaften Erwägungen bei Bemessung der Strafe
-- [BGH, Beschluss vom 12.10.2022 - 4 StR 134/22](4-str-134-22.md) — Computerbetrug durch unbefugtes Erlangen und Verwenden der zur Durchführung von Zahlungsvorgängen im Internet erforderlichen Kreditkartendaten; Abgrenzung von T
+- [BGH, Beschluss vom 12.10.2022 - 4 StR 134/22](4-str-134-22.md) — Computerbetrug durch unbefugtes Erlangen und Verwenden der zur Durchführung von Zahlungsvorgängen im Internet erforderlichen Kreditkartendaten; Abgrenzung von Tateinheit und …
 - [BGH, Beschluss vom 12.10.2022 - 4 StR 169/22](4-str-169-22.md) — Sexueller Kindesmissbrauch: Tatsachenfeststellung und Beweiswürdigung bei Zeugen vom Hörensagen und in einer Aussage-gegen-Aussage-Konstellation
 - [BGH, Beschluss vom 12.10.2022 - 4 StR 319/22](4-str-319-22.md) — Notwendige Angaben in Wiedereinsetzungsantrag
 - [BGH, Beschluss vom 11.10.2022 - 4 StR 245/22](4-str-245-22.md) — Voraussetzungen für Anlastung einer Tatserie
@@ -68,36 +68,36 @@
 - [BGH, Beschluss vom 31.08.2022 - 4 StR 235/22](4-str-235-22.md) — Notwendige tatrichterliche Feststellungen zum Vorsatz bei einer gefährlichen Körperverletzung sowie zum Zusammengang zwischen Hang und Anlasstat
 - [BGH, Beschluss vom 31.08.2022 - 4 StR 372/21](4-str-372-21.md) — Nachträgliche Gesamtstrafenbildung: Wegfall der Zäsurwirkung bei gesamtstrafenrechtlich verbrauchtem Urteil
 - [BGH, Beschluss vom 30.08.2022 - 4 StR 104/22](4-str-104-22.md) — Revision im Strafverfahren: Glaubhaftmachung der vorübergehenden Unmöglichkeit der elektronischen Übermittlung der Revisionsbegründung
-- [BGH, Beschluss vom 30.08.2022 - 4 StR 117/22](4-str-117-22.md) — Absoluter Revisionsgrund bei Mitwirkung eines nicht mehr als Rechtsanwalt zugelassenen „Scheinverteidigers“ an der Hauptverhandlung im Falle einer notwendigen V
+- [BGH, Beschluss vom 30.08.2022 - 4 StR 117/22](4-str-117-22.md) — Absoluter Revisionsgrund bei Mitwirkung eines nicht mehr als Rechtsanwalt zugelassenen „Scheinverteidigers“ an der Hauptverhandlung im Falle einer notwendigen Verteidigung
 - [BGH, Beschluss vom 30.08.2022 - 4 StR 215/22](4-str-215-22.md) — Gefährlicher Eingriff in den Straßenverkehr: Verkehrsspezifische Gefahr durch Steinwürfe
 - [BGH, Beschluss vom 30.08.2022 - 4 StR 267/22](4-str-267-22.md) — Strafrechtliche Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
-- [BGH, Beschluss vom 18.08.2022 - 4 ARs 13/21](4-ars-13-21.md) — Auslieferungsverfahren auf Grund eines Europäischen Haftbefehls: Zuständigkeit des OLG zur Entscheidung über die Unzulässigerklärung der Auslieferung auf Antrag
+- [BGH, Beschluss vom 18.08.2022 - 4 ARs 13/21](4-ars-13-21.md) — Auslieferungsverfahren auf Grund eines Europäischen Haftbefehls: Zuständigkeit des OLG zur Entscheidung über die Unzulässigerklärung der Auslieferung auf Antrag der …
 - [BGH, Beschluss vom 18.08.2022 - 4 ARs 14/21](4-ars-14-21.md) — Zulässigkeit einer Vorlagefrage bei Erledigung des zugrunde liegenden Rechtshilfeverfahrens
-- [BGH, Beschluss vom 18.08.2022 - 4 ARs 2/21](4-ars-2-21.md) — Internationale Rechtshilfe: Antragsbefugnis einer drittbetroffenen juristischen Person bei einem Herausgabeersuchen der ausländischen Strafverfolgungsbehörde au
+- [BGH, Beschluss vom 18.08.2022 - 4 ARs 2/21](4-ars-2-21.md) — Internationale Rechtshilfe: Antragsbefugnis einer drittbetroffenen juristischen Person bei einem Herausgabeersuchen der ausländischen Strafverfolgungsbehörde auf Grund einer …
 - [BGH, Urteil vom 18.08.2022 - 4 StR 377/21](4-str-377-21.md) — Verbotenes Kraftfahrzeugrennen mit Todesfolge: Anforderungen an einen bedingten Gefährdungsvorsatz
 - [BGH, Beschluss vom 16.08.2022 - 4 StR 186/22](4-str-186-22.md) — Strafaussetzung: Ungünstige Sozialprognose wegen wahrheitswidriger Angaben des Angeklagten
 - [BGH, Beschluss vom 04.08.2022 - 4 StR 81/22](4-str-81-22.md) — Konkurrenzen bei Fälschung beweiserheblicher Daten und Betrug mittels PayPal-Konten
 - [BGH, Beschluss vom 03.08.2022 - 4 StR 62/22](4-str-62-22.md) — Vergewaltigungsvorwurf: Beweiserwägungen zur Aussagekonstanz bei Aussage-gegen-Aussage-Konstellation
 - [BGH, Beschluss vom 02.08.2022 - 4 StR 231/22](4-str-231-22.md) — Strafverurteilung wegen Trunkenheit im Verkehr u.a.: Nachweis der drogenbedingten Fahrunsicherheit
-- [BGH, Urteil vom 21.07.2022 - 4 StR 177/22](4-str-177-22.md) — Strafzumessung im Jugendstrafverfahren wegen gefährlicher Körperverletzung: Notwendige Begründung der Verhängung einer Jugendstrafe gegen einen Heranwachsenden 
+- [BGH, Urteil vom 21.07.2022 - 4 StR 177/22](4-str-177-22.md) — Strafzumessung im Jugendstrafverfahren wegen gefährlicher Körperverletzung: Notwendige Begründung der Verhängung einer Jugendstrafe gegen einen Heranwachsenden wegen der Schwere …
 - [BGH, Beschluss vom 20.07.2022 - 4 StR 220/22](4-str-220-22.md) — Konkurrenz zwischen versuchter Nötigung und Bedrohung
 - [BGH, Beschluss vom 19.07.2022 - 4 StR 116/22](4-str-116-22.md) — Notwendige Feststellungen bei Verurteilung wegen verbotenen Kraftfahrzeugrennens; Absehen von der Maßregelanordnung
-- [BGH, Beschluss vom 19.07.2022 - 4 StR 167/22](4-str-167-22.md) — Zugänglichmachen kinderpornographischer Inhalte: Übersendung und Empfang mehrerer kinderpornographischer Bild- oder Videodateien über das Internet als eine Tat 
+- [BGH, Beschluss vom 19.07.2022 - 4 StR 167/22](4-str-167-22.md) — Zugänglichmachen kinderpornographischer Inhalte: Übersendung und Empfang mehrerer kinderpornographischer Bild- oder Videodateien über das Internet als eine Tat im …
 - [BGH, Beschluss vom 19.07.2022 - 4 StR 64/22](4-str-64-22.md) — Termin zur fristwahrenden Fortsetzung der Hauptverhandlung
 - [BGH, Beschluss vom 07.07.2022 - 4 StR 370/21](4-str-370-21.md) — Schwere Zwangsprostitution: Erfüllung des Qualifikationstatbestandes nur bei Unterschreitung der Schutzaltersgrenze von 18 Jahren
 - [BGH, Beschluss vom 07.07.2022 - 4 StR 469/21](4-str-469-21.md) — Strafbefreiender Rücktritt vom Versuch des Mordes; Begründung der Adhäsionsentscheidung
 - [BGH, Beschluss vom 07.07.2022 - 4 StR 50/22](4-str-50-22.md) — Strafzumessung im Betäubungsmittelrecht: strafschärfende Berücksichtigung einer fehlenden Abhängigkeit
 - [BGH, Beschluss vom 07.07.2022 - 4 StR 508/21](4-str-508-21.md) — Strafverurteilung wegen räuberischen Angriffs auf Kraftfahrer u.a.: Empfundene Zwangswirkung des Tatopfers durch vermeintlich entstehende Rechtspflicht
-- [BGH, Beschluss vom 06.07.2022 - 4 StR 63/22](4-str-63-22.md) — Strafverfahren wegen Handeltreibens mit Betäubungsmitteldelikten: Verwertbarkeit von aus der Überwachung der Kommunikation über den Krypto-Messengerdienst Encro
+- [BGH, Beschluss vom 06.07.2022 - 4 StR 63/22](4-str-63-22.md) — Strafverfahren wegen Handeltreibens mit Betäubungsmitteldelikten: Verwertbarkeit von aus der Überwachung der Kommunikation über den Krypto-Messengerdienst EncroChat gewonnenen …
 - [BGH, Beschluss vom 05.07.2022 - 4 StR 61/22](4-str-61-22.md) — Verfahrensrüge im Strafverfahren: Beweisverwertung von im Wege der Rechtshilfe erlangten Notizen aus Krypto-Mobiltelefon
 - [BGH, Beschluss vom 05.07.2022 - 4 StR 96/22](4-str-96-22.md) — Schwerer sexueller Missbrauch von Kindern: Freie Beweiswürdigung bei Aussage-gegen-Aussage-Konstellation
 - [BGH, Beschluss vom 23.06.2022 - 4 StR 41/22](4-str-41-22.md) — Gefährliche Körperverletzung: Abgrenzung zwischen Vorsatz und Fahrlässigkeit bei mehreren denkbaren Kausalverläufen im Hinblick auf eine Messerverletzung
-- [BGH, Beschluss vom 21.06.2022 - 4 StR 133/22](4-str-133-22.md) — Betäubungsmitteldelikt: Konkurrenzrechtliche Bewertung von Gesetzesverstößen des Fahrzeugführers während der Beförderung von Rauschgift in einem Pkw zu Handelsz
+- [BGH, Beschluss vom 21.06.2022 - 4 StR 133/22](4-str-133-22.md) — Betäubungsmitteldelikt: Konkurrenzrechtliche Bewertung von Gesetzesverstößen des Fahrzeugführers während der Beförderung von Rauschgift in einem Pkw zu Handelszwecken
 - [BGH, Beschluss vom 25.05.2022 - 4 StR 114/22](4-str-114-22.md) — Vermögensabschöpfung in Strafsachen: Erweiterte Einziehung von Surrogaten
-- [BGH, Beschluss vom 25.05.2022 - 4 StR 36/22](4-str-36-22.md) — Strafurteil wegen gefährlicher Körperverletzung: Putativnotwehr und Erlaubnistatbestandsirrtum des paranoid-schizophrenen Täters; Unterbringung in einem psychia
+- [BGH, Beschluss vom 25.05.2022 - 4 StR 36/22](4-str-36-22.md) — Strafurteil wegen gefährlicher Körperverletzung: Putativnotwehr und Erlaubnistatbestandsirrtum des paranoid-schizophrenen Täters; Unterbringung in einem psychiatrischen …
 - [BGH, Beschluss vom 25.05.2022 - 4 StR 89/22](4-str-89-22.md) — Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Zweifelssatz bei der Tatertragseinziehung
-- [BGH, Beschluss vom 24.05.2022 - 4 StR 72/22](4-str-72-22.md) — Relativer Revisionsgrund im Strafverfahren: Verfahrensfehlerhafte Nichtausschließung der Öffentlichkeit während der Schlussvorträge; strafmildernde Wirkung eine
-- [BGH, Urteil vom 12.05.2022 - 4 StR 197/21](4-str-197-21.md) — Hauptverhandlung im Strafsachen: Voraussetzung der Protokollberichtigung; Revisionsgrund bei Versagung des letzten Wortes für den Angeklagten; Würdigung der Ein
+- [BGH, Beschluss vom 24.05.2022 - 4 StR 72/22](4-str-72-22.md) — Relativer Revisionsgrund im Strafverfahren: Verfahrensfehlerhafte Nichtausschließung der Öffentlichkeit während der Schlussvorträge; strafmildernde Wirkung eines Geständnisses im …
+- [BGH, Urteil vom 12.05.2022 - 4 StR 197/21](4-str-197-21.md) — Hauptverhandlung im Strafsachen: Voraussetzung der Protokollberichtigung; Revisionsgrund bei Versagung des letzten Wortes für den Angeklagten; Würdigung der Einlassung des …
 - [BGH, Beschluss vom 11.05.2022 - 4 StR 44/22](4-str-44-22.md) — Urkundenfälschung: Konkurrenzverhältnis bei Gebrauchmachen mehrerer gefälschter Urkunden
 - [BGH, Beschluss vom 11.05.2022 - 4 StR 478/21](4-str-478-21.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Prognose eines hinreichend konkreten Therapieerfolgs
 - [BGH, Beschluss vom 10.05.2022 - 4 StR 99/22](4-str-99-22.md) — Die zugleich angeordnete Sicherungsverwahrung ist kein bestimmender Strafzumessungsumstand.
@@ -107,16 +107,16 @@
 - [BGH, Beschluss vom 27.04.2022 - 4 StR 408/21](4-str-408-21.md) — Rücktritt vom versuchten Tötungsdelikt: Abgrenzung des unbeendeten vom beendeten Versuch
 - [BGH, Beschluss vom 26.04.2022 - 4 StR 34/22](4-str-34-22.md) — Strafzumessung: Strafschärfende Berücksichtigung der Garantenstellung eines Elternteils
 - [BGH, Beschluss vom 26.04.2022 - 4 StR 343/21](4-str-343-21.md) — Lückenhaftigkeit der Beweiswürdigung bei einer „Aussage gegen Aussage“-Konstellation
-- [BGH, Beschluss vom 11.04.2022 - 4 StR 445/21](4-str-445-21.md) — Unterbringung eines betäubungmittelabhängigen Straftäters in einer Entziehungsanstalt: Begründung der Nichtanordnung; Gefährlichkeitsprognose bei Betäubungmitte
+- [BGH, Beschluss vom 11.04.2022 - 4 StR 445/21](4-str-445-21.md) — Unterbringung eines betäubungmittelabhängigen Straftäters in einer Entziehungsanstalt: Begründung der Nichtanordnung; Gefährlichkeitsprognose bei Betäubungmitteldelikten zur …
 - [BGH, Beschluss vom 11.04.2022 - 4 StR 461/21](4-str-461-21.md) — Abgrenzung zwischen Täterschaft und Beihilfe im Betäubungsmittelstrafrecht
-- [BGH, Beschluss vom 30.03.2022 - 4 StR 181/21](4-str-181-21.md) — Divergenzvorlage in einem Verkehrsordnungswidrigkeitenverfahren wegen Geschwindigkeitsüberschreitung: Fehlen der Vorlegungsvoraussetzungen; Divergenz im Hinblic
+- [BGH, Beschluss vom 30.03.2022 - 4 StR 181/21](4-str-181-21.md) — Divergenzvorlage in einem Verkehrsordnungswidrigkeitenverfahren wegen Geschwindigkeitsüberschreitung: Fehlen der Vorlegungsvoraussetzungen; Divergenz im Hinblick auf die …
 - [BGH, Beschluss vom 30.03.2022 - 4 StR 311/21](4-str-311-21.md) — Verbotenes Kraftfahrzeugrennen: Anforderungen an die Beweiswürdigung im Strafurteil
-- [BGH, Beschluss vom 30.03.2022 - 4 StR 356/21](4-str-356-21.md) — Strafverfahren wegen Mordes: Notwendige tatrichterliche Feststellungen zum Vorstellungsbild des Angeklagten zur Mordmerkmal der Verdeckungsabsicht bei lediglich
+- [BGH, Beschluss vom 30.03.2022 - 4 StR 356/21](4-str-356-21.md) — Strafverfahren wegen Mordes: Notwendige tatrichterliche Feststellungen zum Vorstellungsbild des Angeklagten zur Mordmerkmal der Verdeckungsabsicht bei lediglich bedingtem …
 - [BGH, Urteil vom 17.03.2022 - 4 StR 223/21](4-str-223-21.md) — Strafverfahren wegen Mordes: Voraussetzungen eines Rücktritts vom Versuch bei mehreren Beteiligten
 - [BGH, Urteil vom 17.03.2022 - 4 StR 475/21](4-str-475-21.md) — Sicherungsverfahren: Aussetzung der Unterbringung in einem psychiatrischen Krankenhaus zur Bewährung zugleich mit der Anordnung
-- [BGH, Beschluss vom 16.03.2022 - 4 StR 30/22](4-str-30-22.md) — Anforderungen an die Begründung und Darstellung der tatrichterlichen Überzeugungsbildung bei einer Aussage-gegen-Aussage-Konstellation zum Tatvorwurf einer Verg
-- [BGH, Beschluss vom 15.03.2022 - 4 StR 10/22](4-str-10-22.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge : Konkurrenzverhältnis bei mehreren Verkaufsgeschäften und Einschaltung eines Minderjähr
-- [BGH, Beschluss vom 15.03.2022 - 4 StR 202/21](4-str-202-21.md) — Strafverfahren wegen Bestechung im geschäftlichen Verkehr in einem Altfall: Notwendigkeit einer Wettbewerbslage; Kompensation rechtsstaatswidriger Verfahrensver
+- [BGH, Beschluss vom 16.03.2022 - 4 StR 30/22](4-str-30-22.md) — Anforderungen an die Begründung und Darstellung der tatrichterlichen Überzeugungsbildung bei einer Aussage-gegen-Aussage-Konstellation zum Tatvorwurf einer Vergewaltigung
+- [BGH, Beschluss vom 15.03.2022 - 4 StR 10/22](4-str-10-22.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge : Konkurrenzverhältnis bei mehreren Verkaufsgeschäften und Einschaltung eines Minderjährigen
+- [BGH, Beschluss vom 15.03.2022 - 4 StR 202/21](4-str-202-21.md) — Strafverfahren wegen Bestechung im geschäftlichen Verkehr in einem Altfall: Notwendigkeit einer Wettbewerbslage; Kompensation rechtsstaatswidriger Verfahrensverzögerungen
 - [BGH, Beschluss vom 15.03.2022 - 4 StR 52/22](4-str-52-22.md) — Besonders schwerer Fahrzeugdiebstahl: Verlängerung des Funksignals eines Keyless-Go-Systems
 - [BGH, Urteil vom 03.03.2022 - 4 StR 156/20](4-str-156-20.md) — Strafrechtliche Vermögensabschöpfung: Bereicherungszusammenhang als Voraussetzung für Wertersatzeinziehung beim Drittbegünstigten
 - [BGH, Beschluss vom 03.03.2022 - 4 StR 379/21](4-str-379-21.md) — Richterablehnung im Strafverfahren: Befangenheit durch Vorbefassung nach Verfahrensabtrennung
@@ -133,7 +133,7 @@
 - [BGH, Beschluss vom 02.02.2022 - 4 StR 457/21](4-str-457-21.md) — Anforderungen an die Beweiswürdigung in einer Aussage-gegen-Aussage-Konstellation beim Vorwurf des schweren Kindesmissbrauchs
 - [BGH, Beschluss vom 02.02.2022 - 4 StR 495/21](4-str-495-21.md) — Konkurrenzverhältnis zwischen Kraftfahrzeugdiebstahl und Fahren ohne Fahrerlaubnis
 - [BGH, Beschluss vom 01.02.2022 - 4 StR 404/21](4-str-404-21.md) — Sexueller Missbrauch von Kindern: Sexuelle Handlung bei bloßem Ausziehen eines Kindes
-- [BGH, Beschluss vom 01.02.2022 - 4 StR 449/21](4-str-449-21.md) — Strafzumessung bei sexuellem Kindesmissbrauch: Berücksichtigung von Tatfolgen bei einer Tatserie; Anforderungen an die Feststellung der Pflicht zum Ersatz künft
+- [BGH, Beschluss vom 01.02.2022 - 4 StR 449/21](4-str-449-21.md) — Strafzumessung bei sexuellem Kindesmissbrauch: Berücksichtigung von Tatfolgen bei einer Tatserie; Anforderungen an die Feststellung der Pflicht zum Ersatz künftiger immaterieller …
 - [BGH, Beschluss vom 20.01.2022 - 4 StR 430/21](4-str-430-21.md) — Ursächlicher Zusammenhang zwischen Schlägerei und schwerer Folge
 - [BGH, Beschluss vom 18.01.2022 - 4 StR 432/21](4-str-432-21.md) — Adhäsionsverfahren: Erfordernis eines unbedingten Adhäsionsantrages nach Bewilligung von Prozesskostenhilfe
 - [BGH, Beschluss vom 12.01.2022 - 4 StR 209/21](4-str-209-21.md) — Relativer Revisionsgrund: Beruhen des Urteils auf einer Verletzung der Mitteilungspflicht für Verständigungsgespräche

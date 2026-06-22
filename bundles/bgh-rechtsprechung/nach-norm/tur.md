@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu TUR"
 description: "BGH-Entscheidungen zu TUR, geordnet nach Vorschrift."
 tags: [register, navigation, tur]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu RBerG"
 description: "BGH-Entscheidungen zu RBerG, geordnet nach Vorschrift."
 tags: [register, navigation, rberg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

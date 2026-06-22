@@ -15,7 +15,7 @@
 - [BGH, Beschluss vom 06.12.2022 - 5 StR 479/22](5-str-479-22.md) — Versuchter Mord: Niedriger Beweggrund bei versuchter Tötung des Lebenspartners
 - [BGH, Beschluss vom 05.12.2022 - 5 StR 429/22](5-str-429-22.md) — Pflichtverteidigerwechsel bei Strafanzeige des Angeklagten gegen den bisherigen Verteidiger
 - [BGH, Urteil vom 24.11.2022 - 5 StR 309/22](5-str-309-22.md) — BGH, Urteil 5 StR 309/22
-- [BGH, Urteil vom 23.11.2022 - 5 StR 347/22](5-str-347-22.md) — Hat eine zuungunsten des Angeklagten eingelegte Revision der Staatsanwaltschaft allein zum Strafausspruch Erfolg, gebietet der Grundsatz des fairen Verfahrens, 
+- [BGH, Urteil vom 23.11.2022 - 5 StR 347/22](5-str-347-22.md) — Hat eine zuungunsten des Angeklagten eingelegte Revision der Staatsanwaltschaft allein zum Strafausspruch Erfolg, gebietet der Grundsatz des fairen Verfahrens, abweichend von § …
 - [BGH, Beschluss vom 22.11.2022 - 5 ARs 57/22](5-ars-57-22.md) — BGH, Beschluss 5 ARs 57/22
 - [BGH, Beschluss vom 22.11.2022 - 5 StR 357/22](5-str-357-22.md) — BGH, Beschluss 5 StR 357/22
 - [BGH, Beschluss vom 22.11.2022 - 5 StR 377/22](5-str-377-22.md) — Durchsuchungsanordnung in strafrechtlichem Ermittlungsverfahren: Eilkompetenz der Ermittlungsbehörde bei aufgedeckter Tat
@@ -35,7 +35,7 @@
 - [BGH, Beschluss vom 08.11.2022 - 5 StR 318/22](5-str-318-22.md) — Tankbetrug: Abgrenzung zwischen Diebstahl und Betrug; versuchter Betrug bei Nichtbemerken des Tankvorgangs durch das Tankstellenpersonal
 - [BGH, Beschluss vom 08.11.2022 - 5 StR 339/22](5-str-339-22.md) — BGH, Beschluss 5 StR 339/22
 - [BGH, Beschluss vom 08.11.2022 - 5 StR 351/22](5-str-351-22.md) — Erforderlichkeit der Anreise eines Pflichtverteidigers am Vortag des Hauptverhandlungstermins
-- [BGH, Beschluss vom 25.10.2022 - 5 StR 276/22](5-str-276-22.md) — Für die zur Beurteilung der Erforderlichkeit einer Notwehrhandlung gebotene ex ante-Betrachtung ist entscheidend, wie sich die Lage aus Sicht eines objektiven u
+- [BGH, Beschluss vom 25.10.2022 - 5 StR 276/22](5-str-276-22.md) — Für die zur Beurteilung der Erforderlichkeit einer Notwehrhandlung gebotene ex ante-Betrachtung ist entscheidend, wie sich die Lage aus Sicht eines objektiven und umfassend über …
 - [BGH, Beschluss vom 24.10.2022 - 5 ARs 33/22](5-ars-33-22.md) — BGH, Beschluss 5 ARs 33/22
 - [BGH, Beschluss vom 24.10.2022 - 5 StR 165/22](5-str-165-22.md) — BGH, Beschluss 5 StR 165/22
 - [BGH, Beschluss vom 24.10.2022 - 5 StR 184/22](5-str-184-22.md) — Revision im Strafverfahren: Anforderungen an die ordnungsgemäße Erhebung einer Verfahrensrüge
@@ -64,10 +64,10 @@
 - [BGH, Beschluss vom 27.09.2022 - 5 StR 223/22](5-str-223-22.md) — Strafverfahren wegen Vergewaltigung: Beweisantrag auf Einholung eines aussagepsychologischen Sachverständigengutachtens
 - [BGH, Beschluss vom 27.09.2022 - 5 StR 235/22](5-str-235-22.md) — BGH, Beschluss 5 StR 235/22
 - [BGH, Beschluss vom 27.09.2022 - 5 StR 261/22](5-str-261-22.md) — BGH, Beschluss 5 StR 261/22
-- [BGH, Beschluss vom 27.09.2022 - 5 StR 294/22](5-str-294-22.md) — Besitz kinderpornographischer Schriften: Verfahrenshindernis des Strafklageverbrauchs bei bereits abgeurteilten Taten zum Erwerb und des Verbreitens solcher Sch
+- [BGH, Beschluss vom 27.09.2022 - 5 StR 294/22](5-str-294-22.md) — Besitz kinderpornographischer Schriften: Verfahrenshindernis des Strafklageverbrauchs bei bereits abgeurteilten Taten zum Erwerb und des Verbreitens solcher Schriften
 - [BGH, Beschluss vom 27.09.2022 - 5 StR 308/22](5-str-308-22.md) — BGH, Beschluss 5 StR 308/22
-- [BGH, Beschluss vom 27.09.2022 - 5 StR 328/22](5-str-328-22.md) — Wiedereinsetzung in den vorherigen Stand wegen verspäteter Einreichung eines Verteidigerschriftsatzes: Verzögerung bei der Einrichtung des elektronischen Anwalt
-- [BGH, Urteil vom 14.09.2022 - 5 StR 194/22](5-str-194-22.md) — Strafbare Untreue: Treuepflichtverletzung des Versicherungsvertreters durch Buchung von Versicherungsprämien auf das eigene Konto; rechtsfehlerhafte Strafzumess
+- [BGH, Beschluss vom 27.09.2022 - 5 StR 328/22](5-str-328-22.md) — Wiedereinsetzung in den vorherigen Stand wegen verspäteter Einreichung eines Verteidigerschriftsatzes: Verzögerung bei der Einrichtung des elektronischen Anwaltspostfachs als …
+- [BGH, Urteil vom 14.09.2022 - 5 StR 194/22](5-str-194-22.md) — Strafbare Untreue: Treuepflichtverletzung des Versicherungsvertreters durch Buchung von Versicherungsprämien auf das eigene Konto; rechtsfehlerhafte Strafzumessung
 - [BGH, Beschluss vom 14.09.2022 - 5 StR 215/22](5-str-215-22.md) — Eröffnung des Hauptverfahrens in reduzierter Besetzung; Verfahrenshindernis
 - [BGH, Beschluss vom 14.09.2022 - 5 StR 221/22](5-str-221-22.md) — BGH, Beschluss 5 StR 221/22
 - [BGH, Beschluss vom 14.09.2022 - 5 StR 245/22](5-str-245-22.md) — BGH, Beschluss 5 StR 245/22
@@ -82,9 +82,9 @@
 - [BGH, Beschluss vom 30.08.2022 - 5 StR 171/22](5-str-171-22.md) — BGH, Beschluss 5 StR 171/22
 - [BGH, Beschluss vom 30.08.2022 - 5 StR 197/22](5-str-197-22.md) — Tatrichterliche Feststellung prognoseungünstiger Faktoren bei Maßregelanordnung
 - [BGH, Beschluss vom 17.08.2022 - 5 StR 167/22](5-str-167-22.md) — Strafzumessung: Gewährung von Strafmilderung für erst nach einer Aufklärungshilfe verübte Taten
-- [BGH, Beschluss vom 16.08.2022 - 5 StR 101/22](5-str-101-22.md) — Strafverurteilung wegen besonders schwerer räuberischer Erpressung u.a.: Nichtgewährung des letzten Wortes für den Angeklagten; Beruhen des Urteils auf dem Verf
+- [BGH, Beschluss vom 16.08.2022 - 5 StR 101/22](5-str-101-22.md) — Strafverurteilung wegen besonders schwerer räuberischer Erpressung u.a.: Nichtgewährung des letzten Wortes für den Angeklagten; Beruhen des Urteils auf dem Verfahrensfehler
 - [BGH, Beschluss vom 16.08.2022 - 5 StR 198/22](5-str-198-22.md) — Strafverfahren: Beweiswirkung des Hauptverhandlungsprotokolls über die Einhaltung des Rechts auf Abgabe von Erklärungen durch den Angeklagten
-- [BGH, Urteil vom 08.08.2022 - 5 StR 372/21](5-str-372-21.md) — 1. Den Qualifikationstatbestand des § 261 Abs. 4 StGB n.F. erfüllt nur, wer bei der Geldwäsche in Ausübung seiner gewerblichen oder beruflichen Tätigkeit handel
+- [BGH, Urteil vom 08.08.2022 - 5 StR 372/21](5-str-372-21.md) — 1. Den Qualifikationstatbestand des § 261 Abs. 4 StGB n.F. erfüllt nur, wer bei der Geldwäsche in Ausübung seiner gewerblichen oder beruflichen Tätigkeit handelt, die ihn zum …
 - [BGH, Beschluss vom 04.08.2022 - 5 StR 175/22](5-str-175-22.md) — Versuchter Totschlag: Erforderlichkeit der Notwehrhandlung
 - [BGH, Beschluss vom 04.08.2022 - 5 StR 272/22](5-str-272-22.md) — Zulässigkeit einer Revision bei Revisionseinlegung durch von Betreuer mandatiertem Rechtsanwalt
 - [BGH, Urteil vom 03.08.2022 - 5 StR 203/22](5-str-203-22.md) — Anforderungen an eine Verfahrensrüge wegen einer behaupteten Prozessabsprache; Strafzumessung bei einer Verurteilung wegen Handeltreibens mit Betäubungsmitteln
@@ -94,15 +94,15 @@
 - [BGH, Beschluss vom 20.07.2022 - 5 StR 109/22](5-str-109-22.md) — Anforderungen an die konkludente Bejahung des besonderen öffentlichen Interesses an der Strafverfolgung durch die Anklageerhebung
 - [BGH, Urteil vom 20.07.2022 - 5 StR 160/22](5-str-160-22.md) — Strafzumessung: Erfüllung des Regelbeispiels der Gewerbsmäßigkeit beim Handeltreiben mit Betäubungsmitteln
 - [BGH, Beschluss vom 19.07.2022 - 5 StR 27/22](5-str-27-22.md) — Nachträgliche Gesamtstrafenbildung: Zäsurwirkung eines Berufungsurteils
-- [BGH, Urteil vom 06.07.2022 - 5 StR 170/22](5-str-170-22.md) — Aburteilung von Drogenhandel als Heranwachsender: Zuständigkeit der Jugendkammer nach bereits erfolgter Verurteilung zu einer Jugendstrafe; Inhaltsanforderungen
-- [BGH, Beschluss vom 05.07.2022 - 5 StR 12/22](5-str-12-22.md) — Hinzuziehung eines Sachverständigen zur Bewertung der Glaubwürdigkeit eines Zeugen und der Glaubhaftigkeit der Aussage; Voraussetzungen einer rechtsstaatswidrig
+- [BGH, Urteil vom 06.07.2022 - 5 StR 170/22](5-str-170-22.md) — Aburteilung von Drogenhandel als Heranwachsender: Zuständigkeit der Jugendkammer nach bereits erfolgter Verurteilung zu einer Jugendstrafe; Inhaltsanforderungen an ein …
+- [BGH, Beschluss vom 05.07.2022 - 5 StR 12/22](5-str-12-22.md) — Hinzuziehung eines Sachverständigen zur Bewertung der Glaubwürdigkeit eines Zeugen und der Glaubhaftigkeit der Aussage; Voraussetzungen einer rechtsstaatswidrigen …
 - [BGH, Beschluss vom 23.06.2022 - 5 StR 490/21](5-str-490-21.md) — Strafbarkeit des Handels mit CBD-Blüten
 - [BGH, Beschluss vom 22.06.2022 - 5 StR 333/21](5-str-333-21.md) — Strafprozessrecht: Anforderungen an Revisionsvortrag
-- [BGH, Urteil vom 22.06.2022 - 5 StR 9/22](5-str-9-22.md) — Strafzumessungserwägungen bei Betäubungsmitteldelikten: Einfuhr der Betäubungsmittel zum Weitertransport ins Ausland; lückenlose polizeiliche Überwachung des Be
+- [BGH, Urteil vom 22.06.2022 - 5 StR 9/22](5-str-9-22.md) — Strafzumessungserwägungen bei Betäubungsmitteldelikten: Einfuhr der Betäubungsmittel zum Weitertransport ins Ausland; lückenlose polizeiliche Überwachung des …
 - [BGH, Beschluss vom 21.06.2022 - 5 StR 38/22](5-str-38-22.md) — Verständigung im Strafverfahren: Dokumentations- und Mitteilungspflichten über eine Besprechung eines Vorschlags mit den Schöffen
 - [BGH, Beschluss vom 09.06.2022 - 5 StR 407/21](5-str-407-21.md) — Strafbarer Bankrott: Abgrenzung strafbare Beihilfe zur "Firmenbestattung" und berufsneutraler Beratungshandlung eines Rechtsanwalts
 - [BGH, Beschluss vom 08.06.2022 - 5 StR 128/22](5-str-128-22.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Eigennützige Förderung fremder Umsatzgeschäfte; Abgrenzung von Täterschaft und Teilnahme
-- [BGH, Beschluss vom 08.06.2022 - 5 StR 168/22](5-str-168-22.md) — Betäubungsmittelhandel: Begriff des Handeltreibens bei eigennütziger Förderung eines fremden Umsatzgeschäfts; Abgrenzung von Täterschaft und Teilnahme bei einem
+- [BGH, Beschluss vom 08.06.2022 - 5 StR 168/22](5-str-168-22.md) — Betäubungsmittelhandel: Begriff des Handeltreibens bei eigennütziger Förderung eines fremden Umsatzgeschäfts; Abgrenzung von Täterschaft und Teilnahme bei einem …
 - [BGH, Beschluss vom 08.06.2022 - 5 StR 177/22](5-str-177-22.md) — Revisionsbegründung: Signatur eines anderen Rechtsanwalts bei elektronischer Übermittlung
 - [BGH, Urteil vom 08.06.2022 - 5 StR 406/21](5-str-406-21.md) — Bezugspunkt für ein tatbestandsausschließendes Einverständnis in eine Freiheitsberaubung im Sinne des § 239 StGB ist der potentielle Fortbewegungswille.
 - [BGH, Beschluss vom 07.06.2022 - 5 StR 331/21](5-str-331-21.md) — Vermögensabschöpfung: Einziehung von vorab für den Ankauf von Betäubungsmitteln zur Verfügung gestelltem Geld
@@ -110,27 +110,27 @@
 - [BGH, Beschluss vom 07.06.2022 - 5 StR 460/21](5-str-460-21.md) — Revisionsbegründung in Strafsachen: Notwendige Ausführungen zur Befangenheit eines Schöffen wegen Vorbefassung
 - [BGH, Beschluss vom 24.05.2022 - 5 StR 464/21](5-str-464-21.md) — Verurteilung wegen Mordes: Voraussetzungen einer Verurteilung auf alternativer Tatsachengrundlage
 - [BGH, Beschluss vom 12.05.2022 - 5 StR 398/21](5-str-398-21.md) — Keine wirksame Anbringung eines Strafantrags mittels „einfacher“ E-Mail.
-- [BGH, Beschluss vom 12.05.2022 - 5 StR 421/21](5-str-421-21.md) — Gewerbsmäßiger Bandenbetrug: Darstellungsanforderungen bei Anschließung an ein Sachverständigengutachten zur Verkehrswertermittlung betrügerisch verkaufter Wohn
+- [BGH, Beschluss vom 12.05.2022 - 5 StR 421/21](5-str-421-21.md) — Gewerbsmäßiger Bandenbetrug: Darstellungsanforderungen bei Anschließung an ein Sachverständigengutachten zur Verkehrswertermittlung betrügerisch verkaufter Wohnungen
 - [BGH, Beschluss vom 12.05.2022 - 5 StR 450/21](5-str-450-21.md) — Strafverfahren: Begriff des Beweisantrags; Beruhen des Urteils auf der Behandlung eines Beweisantrags als Beweisermittlungsantrag
-- [BGH, Beschluss vom 12.05.2022 - 5 StR 99/22](5-str-99-22.md) — Strafverfahren wegen Totschlags: Notwehrüberschreitung bei Schüssen auf Einbrecher; Anforderungen an die Prüfung der Schuldfähigkeit und der Unterbringungsvorau
+- [BGH, Beschluss vom 12.05.2022 - 5 StR 99/22](5-str-99-22.md) — Strafverfahren wegen Totschlags: Notwehrüberschreitung bei Schüssen auf Einbrecher; Anforderungen an die Prüfung der Schuldfähigkeit und der Unterbringungsvoraussetzungen bei …
 - [BGH, Beschluss vom 11.05.2022 - 5 StR 125/22](5-str-125-22.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung der Unterbringungsentscheidung
 - [BGH, Beschluss vom 11.05.2022 - 5 StR 306/21](5-str-306-21.md) — Strafaussetzung zur Bewährung: Verwertung nicht ordnungsgemäß eingeführter Tatsachen
 - [BGH, Urteil vom 11.05.2022 - 5 StR 361/21](5-str-361-21.md) — Mordmerkmal Heimtücke: Feststellung anhand von Indizien; offen feindseliges Entgegentreten des Täters
 - [BGH, Beschluss vom 10.05.2022 - 5 StR 28/22](5-str-28-22.md) — Bedingter Tötungsvorsatz bei der Gabe von Medikamenten an ein Kind mit lebensgefährlichen Wechselwirkungen
-- [BGH, Urteil vom 28.04.2022 - 5 StR 511/21](5-str-511-21.md) — Beweiswürdigung im freisprechenden Urteil: Erfordernis der Gesamtwürdigung aller Indizien im Falle des Vorliegens einzelner Belastungsindizien für einen Totschl
-- [BGH, Urteil vom 27.04.2022 - 5 StR 278/21](5-str-278-21.md) — Geldbuße gegen eine GmbH bei Verurteilung ihres Geschäftsführers wegen Bestechung im geschäftlichen Verkehr: Bemessung des Abschöpfungsteils der Geldbuße; Abzug
+- [BGH, Urteil vom 28.04.2022 - 5 StR 511/21](5-str-511-21.md) — Beweiswürdigung im freisprechenden Urteil: Erfordernis der Gesamtwürdigung aller Indizien im Falle des Vorliegens einzelner Belastungsindizien für einen Totschlag
+- [BGH, Urteil vom 27.04.2022 - 5 StR 278/21](5-str-278-21.md) — Geldbuße gegen eine GmbH bei Verurteilung ihres Geschäftsführers wegen Bestechung im geschäftlichen Verkehr: Bemessung des Abschöpfungsteils der Geldbuße; Abzugsfähigkeit von …
 - [BGH, Beschluss vom 25.04.2022 - 5 StR 100/22](5-str-100-22.md) — Geldwäschetatbestand: "Herrühren" eines Gegenstandes aus einer rechtswidrigen Tat; Geldwäsche für Buchgelder nach Rückruf von Lastschriftmandaten
-- [BGH, Urteil vom 14.04.2022 - 5 StR 313/21](5-str-313-21.md) — Strafverfahren u.a. wegen Ladendiebstahls mit Waffen: Bestimmung des Angriffsziels einer Revision der Staatsanwaltschaft; Strafzumessung und erneute Strafausset
+- [BGH, Urteil vom 14.04.2022 - 5 StR 313/21](5-str-313-21.md) — Strafverfahren u.a. wegen Ladendiebstahls mit Waffen: Bestimmung des Angriffsziels einer Revision der Staatsanwaltschaft; Strafzumessung und erneute Strafaussetzung trotz …
 - [BGH, Urteil vom 30.03.2022 - 5 StR 358/21](5-str-358-21.md) — Mordmerkmal "niedrige Beweggründe": Tötung eines 13-jährigen Kindes wegen ehrverletzenden Äußerungen
 - [BGH, Beschluss vom 15.03.2022 - 5 StR 497/21](5-str-497-21.md) — Strafzumessung: Berücksichtigung berufsrechtlicher Folgen der Verurteilung eines Apothekers
-- [BGH, Urteil vom 03.03.2022 - 5 StR 228/21](5-str-228-21.md) — Hauptverhandlung im Strafverfahren wegen Untreue: Mitteilungspflicht hinsichtlich eines außerhalb der Hauptverhandlung geführten Telefonats mit dem Oberstaatsan
-- [BGH, Urteil vom 02.03.2022 - 5 StR 365/21](5-str-365-21.md) — Revision in Strafsachen: Anforderungen an den Revisionsvortrag bei Verstoß gegen Mitteilungspflicht zu Verständigungsgesprächen; Beweiswürdigung bei Freispruch 
+- [BGH, Urteil vom 03.03.2022 - 5 StR 228/21](5-str-228-21.md) — Hauptverhandlung im Strafverfahren wegen Untreue: Mitteilungspflicht hinsichtlich eines außerhalb der Hauptverhandlung geführten Telefonats mit dem Oberstaatsanwalt über eine …
+- [BGH, Urteil vom 02.03.2022 - 5 StR 365/21](5-str-365-21.md) — Revision in Strafsachen: Anforderungen an den Revisionsvortrag bei Verstoß gegen Mitteilungspflicht zu Verständigungsgesprächen; Beweiswürdigung bei Freispruch trotz erheblichem …
 - [BGH, Beschluss vom 02.03.2022 - 5 StR 457/21](5-str-457-21.md) — Verwertbarkeit von EncroChat-Daten.
 - [BGH, Urteil vom 16.02.2022 - 5 StR 320/21](5-str-320-21.md) — Beweiswürdigung bei entlastenden Angaben des Angeklagten
 - [BGH, Beschluss vom 08.02.2022 - 5 StR 243/21](5-str-243-21.md) — Hauptverhandlung in Strafsachen: Anforderungen an eine Anordnung des Selbstleseverfahrens und die Bezeichnung der erfassten Urkunden
-- [BGH, Urteil vom 07.02.2022 - 5 StR 542/20, 5 StR 207/21](5-str-542-20-5-str-207-21.md) — Strafverurteilung von Mitgliedern einer Motorrad-Bande im sog. Berliner Wettbüro-Mordfall: Vollstreckungsabschlag wegen einer Verletzung des Rechts auf ein fair
-- [BGH, Beschluss vom 02.02.2022 - 5 StR 153/21](5-str-153-21.md) — 1. Wird ein Besetzungseinwand vom Rechtsmittelgericht als unstatthaft und damit als unzulässig verworfen, weil der Anwendungsbereich des § 222b StPO nicht eröff
+- [BGH, Urteil vom 07.02.2022 - 5 StR 542/20, 5 StR 207/21](5-str-542-20-5-str-207-21.md) — Strafverurteilung von Mitgliedern einer Motorrad-Bande im sog. Berliner Wettbüro-Mordfall: Vollstreckungsabschlag wegen einer Verletzung des Rechts auf ein faires Verfahren durch …
+- [BGH, Beschluss vom 02.02.2022 - 5 StR 153/21](5-str-153-21.md) — 1. Wird ein Besetzungseinwand vom Rechtsmittelgericht als unstatthaft und damit als unzulässig verworfen, weil der Anwendungsbereich des § 222b StPO nicht eröffnet war, wird durch …
 - [BGH, Beschluss vom 02.02.2022 - 5 StR 390/21](5-str-390-21.md) — Das Sicherungsverfahren erfordert keine Vernehmungsfähigkeit des Beschuldigten.
 - [BGH, Beschluss vom 20.01.2022 - 5 ARs 28/21](5-ars-28-21.md) — Anfragebeschluss/Antwort: Einziehung des aus einer verjährten Straftat erlangten Wertes des Tatertrags im subjektiven Verfahren
 - [BGH, Beschluss vom 20.01.2022 - 5 StR 410/21](5-str-410-21.md) — Strafverfahren: Anforderungen an die Beweiswürdigung bei DNA-Mischspuren
-- [BGH, Urteil vom 06.01.2022 - 5 StR 2/21](5-str-2-21.md) — Strafurteil wegen Betäubungsmitteldelikten: Verstoß gegen das Doppelverwertungsverbot bei der Strafrahmenwahl bei Bestrafung der Beihilfe zum bandenmäßigen Hand
+- [BGH, Urteil vom 06.01.2022 - 5 StR 2/21](5-str-2-21.md) — Strafurteil wegen Betäubungsmitteldelikten: Verstoß gegen das Doppelverwertungsverbot bei der Strafrahmenwahl bei Bestrafung der Beihilfe zum bandenmäßigen Handeltreiben mit …

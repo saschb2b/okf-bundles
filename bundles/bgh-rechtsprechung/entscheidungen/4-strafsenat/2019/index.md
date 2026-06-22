@@ -8,13 +8,13 @@
 - [BGH, Beschluss vom 17.12.2019 - 4 StR 485/19](4-str-485-19.md) — Inbrandsetzungsvorsatz bei Kenntnis von brandgefährdeter Treppenanlage und Schmerzengeldantrags-Voraussetzungen
 - [BGH, Beschluss vom 17.12.2019 - 4 StR 542/19](4-str-542-19.md) — Geiselnahme: Funktionaler und zeitlicher Zusammenhang zwischen Bemächtigungslage und beabsichtigter qualifizierter Nötigung; Erreichen eines Teilerfolgs
 - [BGH, Beschluss vom 10.12.2019 - 4 StR 136/19](4-str-136-19.md) — Subventionsbetrug: Beginn der Strafverfolgungsverjährung bei Zuwendung der Subvention in Teilbeträgen
-- [BGH, Beschluss vom 05.12.2019 - 4 StR 301/19](4-str-301-19.md) — Unerlaubte Ausfuhr von Grundstoffen zur Betäubungsmittelherstellung: Verbringung von Grundstoffen aus dem Zollgebiet der Europäischen Gemeinschaften oder aus ei
+- [BGH, Beschluss vom 05.12.2019 - 4 StR 301/19](4-str-301-19.md) — Unerlaubte Ausfuhr von Grundstoffen zur Betäubungsmittelherstellung: Verbringung von Grundstoffen aus dem Zollgebiet der Europäischen Gemeinschaften oder aus einem nicht zu diesem …
 - [BGH, Beschluss vom 04.12.2019 - 4 ARs 14/19](4-ars-14-19.md) — Täuschung im Rechtsverkehr durch Vorlage einer Kopie oder elektronische Übersendung des Bildes eines echten Ausweises
 - [BGH, Beschluss vom 04.12.2019 - 4 StR 74/19](4-str-74-19.md) — Hinweispflichten des Tatrichters in der Hauptverhandlung: Veränderung der Sachlage
 - [BGH, Beschluss vom 03.12.2019 - 4 StR 553/19](4-str-553-19.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzrechtliche Bewertung mehrerer Teilakte unter Bereithaltung eines Messers
 - [BGH, Beschluss vom 21.11.2019 - 4 StR 158/19](4-str-158-19.md) — Revision in Strafsachen: Verwerfung des Rechtsmittels durch Beschluss trotz Antrags des Generalbundesanwalts auf Schuldspruchherabsetzung
 - [BGH, Beschluss vom 21.11.2019 - 4 StR 166/19](4-str-166-19.md) — Gefährliche Körperverletzung in einer Notwehrlage: Behandlung eines Irrtums über das Hinzutreten eines weiteren Angreifers
-- [BGH, Beschluss vom 21.11.2019 - 4 StR 260/19](4-str-260-19.md) — Revision im Strafverfahren wegen Straßenverkehrsgefährdung und fahrlässiger Tötung: Aufhebung des Strafausspruchs wegen eines Zirkelschlusses in der Beweiswürdi
+- [BGH, Beschluss vom 21.11.2019 - 4 StR 260/19](4-str-260-19.md) — Revision im Strafverfahren wegen Straßenverkehrsgefährdung und fahrlässiger Tötung: Aufhebung des Strafausspruchs wegen eines Zirkelschlusses in der Beweiswürdigung
 - [BGH, Beschluss vom 21.11.2019 - 4 StR 500/19](4-str-500-19.md) — Rücktritt vom versuchten sexuellen Missbrauch von Kindern; Verstoß gegen Doppelverwertungsverbot bei Berücksichtigung des Altersabstandes
 - [BGH, Beschluss vom 21.11.2019 - 4 StR 546/19](4-str-546-19.md) — Strafschärfende Berücksichtigung der Verächtlichmachung des Tatopfers in der Einlassung des Angeklagten
 - [BGH, Beschluss vom 20.11.2019 - 4 StR 318/19](4-str-318-19.md) — Strafurteil des Tatgerichts: Anforderungen an die Darstellung der Ergebnisse molekulargenetischer Vergleichsgutachten
@@ -24,7 +24,7 @@
 - [BGH, Urteil vom 07.11.2019 - 4 StR 226/19](4-str-226-19.md) — (Bedingter Vorsatz als Strafmilderungsgrund)
 - [BGH, Beschluss vom 07.11.2019 - 4 StR 390/19](4-str-390-19.md) — (Anforderungen an die Urteilsgründe)
 - [BGH, Beschluss vom 24.10.2019 - 4 StR 200/19](4-str-200-19.md) — Grenzen zulässigen Verteidigungsverhaltens in Hinblick auf eine Sicherungsverwahrung
-- [BGH, Beschluss vom 24.10.2019 - 4 StR 393/19](4-str-393-19.md) — Strafverfahren wegen versuchten Mordes: Niedrige Beweggründe bei beabsichtigter Tötung der Ehefrau aus Rache oder als Bestrafung; Prüfungs- und Begründungsanfor
+- [BGH, Beschluss vom 24.10.2019 - 4 StR 393/19](4-str-393-19.md) — Strafverfahren wegen versuchten Mordes: Niedrige Beweggründe bei beabsichtigter Tötung der Ehefrau aus Rache oder als Bestrafung; Prüfungs- und Begründungsanforderungen bei …
 - [BGH, Beschluss vom 24.10.2019 - 4 StR 528/19](4-str-528-19.md) — (Zulässigkeit einer Zugrundelegung aufgehobener Feststellungen)
 - [BGH, Beschluss vom 23.10.2019 - 4 StR 515/19](4-str-515-19.md) — Beweiswürdigung in Strafsachen: Erörterungspflicht der Bedeutung einer geänderten Zeugenaussage
 - [BGH, Beschluss vom 22.10.2019 - 4 StR 227/19](4-str-227-19.md) — (Versagung der Anrechnung von Untersuchungshaft bei Verdunkelungshandlungen)
@@ -38,7 +38,7 @@
 - [BGH, Beschluss vom 25.09.2019 - 4 StR 348/19](4-str-348-19.md) — Vorsatz muss bei Tathandlung vorliegen
 - [BGH, Beschluss vom 25.09.2019 - 4 StR 408/19](4-str-408-19.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Schuldunfähigkeit bei Minderung der geistigen Leistungsfähigkeit
 - [BGH, Beschluss vom 25.09.2019 - 4 StR 448/19](4-str-448-19.md) — Bedingter Tötungsvorsatz bei hochgradiger Alkoholisierung
-- [BGH, Urteil vom 12.09.2019 - 4 StR 146/19](4-str-146-19.md) — Revision in Strafsachen: Auslegung einer widersprüchlichen Revisionsbegründung; Gefährdung des Straßenverkehrs: Panikstörung als Grundlage einer Fahrunsicherhei
+- [BGH, Urteil vom 12.09.2019 - 4 StR 146/19](4-str-146-19.md) — Revision in Strafsachen: Auslegung einer widersprüchlichen Revisionsbegründung; Gefährdung des Straßenverkehrs: Panikstörung als Grundlage einer Fahrunsicherheit und Anforderungen …
 - [BGH, Urteil vom 12.09.2019 - 4 StR 183/19](4-str-183-19.md) — Versuchtes Tötungsdelikt durch Unterlassen: Überfahren eines alkoholisierten Fahrgastes mit einem Taxi
 - [BGH, Beschluss vom 12.09.2019 - 4 StR 40/19](4-str-40-19.md) — Nachträgliche Gesamtstrafenbildung: Zäsurwirkung bei mehreren Vorverurteilungen
 - [BGH, Beschluss vom 05.09.2019 - 4 StR 178/19](4-str-178-19.md) — Zulässigkeit von Feststellungen über Höhe eines Adhäsionsanspruchs im Grundurteil
@@ -49,9 +49,9 @@
 - [BGH, Beschluss vom 27.08.2019 - 4 StR 330/19](4-str-330-19.md) — Anforderungen an die Feststellung eines Hangs zum Rauschmittelkonsum im Zusammenhang mit der Unterbringung in einer Entziehungsanstalt
 - [BGH, Beschluss vom 15.08.2019 - 4 StR 21/19](4-str-21-19.md) — Einheitliches Tatgeschehen: Fahren ohne Fahrerlaubnis und mehrere Eigentumsdelikte
 - [BGH, Beschluss vom 15.08.2019 - 4 StR 289/19](4-str-289-19.md) — Schwerer sexueller Kindesmissbrauch: Erfordernis der Sexualbezogenheit bei Eindringen von Körpersekreten
-- [BGH, Beschluss vom 14.08.2019 - 4 StR 147/19](4-str-147-19.md) — Maßregelanordnung: Ablehnung der Unterbringung in einer Entziehungsanstalt entgegen sachverständiger Einschätzung und gestützt auf die bloße Möglichkeit eines T
+- [BGH, Beschluss vom 14.08.2019 - 4 StR 147/19](4-str-147-19.md) — Maßregelanordnung: Ablehnung der Unterbringung in einer Entziehungsanstalt entgegen sachverständiger Einschätzung und gestützt auf die bloße Möglichkeit eines Therapieerfolges
 - [BGH, Beschluss vom 13.08.2019 - 4 StR 342/19](4-str-342-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Beurteilungszeitpunkt für die Gefahrenprognose
-- [BGH, Beschluss vom 07.08.2019 - 4 StR 189/19](4-str-189-19.md) — Wird der Angeklagte (nur) wegen Taten verurteilt, die er als Erwachsener begangen hat, hatte die Staatsanwaltschaft jedoch hinsichtlich weiterer Taten, die der 
+- [BGH, Beschluss vom 07.08.2019 - 4 StR 189/19](4-str-189-19.md) — Wird der Angeklagte (nur) wegen Taten verurteilt, die er als Erwachsener begangen hat, hatte die Staatsanwaltschaft jedoch hinsichtlich weiterer Taten, die der Angeklagte bereits …
 - [BGH, Beschluss vom 06.08.2019 - 4 StR 255/19](4-str-255-19.md) — Bedingter Tötungsvorsatz im Straßenverkehr bei einem Wechsel auf die Gegenfahrbahn
 - [BGH, Beschluss vom 06.08.2019 - 4 StR 315/13](4-str-315-13.md) — Revision in Strafsachen: Verjährung des Anspruchs auf Zahlung der entstandenen Gerichtskosten
 - [BGH, Beschluss vom 01.08.2019 - 4 StR 237/19](4-str-237-19.md) — Qualifikationstatbestand des schweren sexuellen Missbrauchs eines Kindes
@@ -85,38 +85,38 @@
 - [BGH, Beschluss vom 15.05.2019 - 4 StR 591/18](4-str-591-18.md) — (Beteiligung an einer Einfuhr von Betäubungsmitteln)
 - [BGH, Urteil vom 09.05.2019 - 4 StR 511/18](4-str-511-18.md) — (Trennung von Hang und Gefährlichkeitsprognose bei der Sicherungsverwahrung)
 - [BGH, Urteil vom 09.05.2019 - 4 StR 578/18](4-str-578-18.md) — Anordnung der Sicherungsverwahrung: Tatgerichtliche Feststellung der Hangtäterschaft
-- [BGH, Beschluss vom 09.05.2019 - 4 StR 605/18](4-str-605-18.md) — Liegen die Voraussetzungen des § 171b Abs. 3 Satz 2 GVG vor, stellt das Fehlen eines den Ausschluss der Öffentlichkeit für die Schlussvorträge anordnenden Geric
-- [BGH, Beschluss vom 08.05.2019 - 4 StR 203/19](4-str-203-19.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Mitsichführen der Schusswaffe nur bei einem Teilakt der Tat; Wegfall eines Teilfreispru
+- [BGH, Beschluss vom 09.05.2019 - 4 StR 605/18](4-str-605-18.md) — Liegen die Voraussetzungen des § 171b Abs. 3 Satz 2 GVG vor, stellt das Fehlen eines den Ausschluss der Öffentlichkeit für die Schlussvorträge anordnenden Gerichtsbeschlusses …
+- [BGH, Beschluss vom 08.05.2019 - 4 StR 203/19](4-str-203-19.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Mitsichführen der Schusswaffe nur bei einem Teilakt der Tat; Wegfall eines Teilfreispruchs in der …
 - [BGH, Beschluss vom 08.05.2019 - 4 StR 449/18](4-str-449-18.md) — Konkurrenzverhältnis zwischen Bedrohung und Widerstand gegen Vollstreckungsbeamte
 - [BGH, Urteil vom 25.04.2019 - 4 StR 442/18](4-str-442-18.md) — Gefährliche Körperverletzung durch Anfahren eines Fußgängers mit Kraftfahrzeug
 - [BGH, Urteil vom 25.04.2019 - 4 StR 478/18](4-str-478-18.md) — Sicherungsverwahrung: Kriterien für die Erheblichkeit von Vorverurteilungen und hangbedingt zu erwartender Straftaten
-- [BGH, Beschluss vom 24.04.2019 - 4 StR 16/19](4-str-16-19.md) — Strafverfahren wegen schweren sexuellen Missbrauchs eines Kindes: Einführung einer fehlerhaft zustande gekommenen richterlichen Vernehmung als nichtrichterliche
+- [BGH, Beschluss vom 24.04.2019 - 4 StR 16/19](4-str-16-19.md) — Strafverfahren wegen schweren sexuellen Missbrauchs eines Kindes: Einführung einer fehlerhaft zustande gekommenen richterlichen Vernehmung als nichtrichterliche Vernehmung in die …
 - [BGH, Beschluss vom 23.04.2019 - 4 StR 41/19](4-str-41-19.md) — Strafrechtsgeltung bei Auslandstat eines Ausländers
-- [BGH, Beschluss vom 11.04.2019 - 4 StR 69/19](4-str-69-19.md) — Unterbringung in einer Entziehungsanstalt oder in der Sicherungsverwahrung: Indizien für einen Hang zum Betäubungsmittelkonsum; symptomatischer Zusammenhang zwi
+- [BGH, Beschluss vom 11.04.2019 - 4 StR 69/19](4-str-69-19.md) — Unterbringung in einer Entziehungsanstalt oder in der Sicherungsverwahrung: Indizien für einen Hang zum Betäubungsmittelkonsum; symptomatischer Zusammenhang zwischen Hang und …
 - [BGH, Beschluss vom 10.04.2019 - 4 StR 102/19](4-str-102-19.md) — Gefährliche Körperverletzung: Sukzessive Mittäterschaft
 - [BGH, Beschluss vom 10.04.2019 - 4 StR 25/19](4-str-25-19.md) — Zulässigkeit eines Beweisantrags bei Behauptung einer Beweistatsache
 - [BGH, Beschluss vom 10.04.2019 - 4 StR 86/19](4-str-86-19.md) — Prüfungsschritte beim Tatbestand der Straßenverkehrsgefährdung
 - [BGH, Beschluss vom 09.04.2019 - 4 StR 38/19](4-str-38-19.md) — Revisionsbegründung in Strafsachen: Darlegungsanforderungen bei einer Beweisantragsrüge
 - [BGH, Beschluss vom 09.04.2019 - 4 StR 461/18](4-str-461-18.md) — Gesamtheit mehrerer Betäubungsmittel maßgeblich zur Bestimmung Grenzwertes der nicht geringen Menge
-- [BGH, Beschluss vom 28.03.2019 - 4 StR 45/19](4-str-45-19.md) — Abgabe von Betäubungsmitteln an Minderjährige: Vorsätzliches Handeln bei Abgabe an eine dritte Person als "Bote"; Berücksichtigung von Härten bei der Einziehung
+- [BGH, Beschluss vom 28.03.2019 - 4 StR 45/19](4-str-45-19.md) — Abgabe von Betäubungsmitteln an Minderjährige: Vorsätzliches Handeln bei Abgabe an eine dritte Person als "Bote"; Berücksichtigung von Härten bei der Einziehungsanordnung
 - [BGH, Urteil vom 28.03.2019 - 4 StR 463/18](4-str-463-18.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Mit sich Führen eines nicht verbotenen Springmessers
 - [BGH, Beschluss vom 28.03.2019 - 4 StR 483/18](4-str-483-18.md) — Besondere Schwere der Schuld bei Mordverwurf
 - [BGH, Urteil vom 28.03.2019 - 4 StR 530/18](4-str-530-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefährdungsabwendung durch außerhalb des Maßregelvollzugs liegende Maßnahmen
-- [BGH, Beschluss vom 27.03.2019 - 4 StR 360/18](4-str-360-18.md) — Strafausspruch und Maßregelanordnung: Berücksichtigung der Einziehung des Kfz des Täters bei der Strafzumessung; Entziehung der Fahrerlaubnis bei Nichtkatalogst
+- [BGH, Beschluss vom 27.03.2019 - 4 StR 360/18](4-str-360-18.md) — Strafausspruch und Maßregelanordnung: Berücksichtigung der Einziehung des Kfz des Täters bei der Strafzumessung; Entziehung der Fahrerlaubnis bei Nichtkatalogstraftaten
 - [BGH, Beschluss vom 27.03.2019 - 4 StR 597/18](4-str-597-18.md) — Formvoraussetzungen bei der Revisionsrücknahme
-- [BGH, Beschluss vom 26.03.2019 - 4 StR 381/18](4-str-381-18.md) — Gefährliche Körperverletzung und besonders schwerer Fall des Landfriedensbruchs: Abgrenzung von Beihilfe und Mittäterschaft bei psychischer Bestärkung; bedeuten
+- [BGH, Beschluss vom 26.03.2019 - 4 StR 381/18](4-str-381-18.md) — Gefährliche Körperverletzung und besonders schwerer Fall des Landfriedensbruchs: Abgrenzung von Beihilfe und Mittäterschaft bei psychischer Bestärkung; bedeutender Schaden an …
 - [BGH, Beschluss vom 20.03.2019 - 4 StR 517/18](4-str-517-18.md) — (Voraussetzungen eines gefährlichen Eingriffs in den Straßenverkehr und Erfordernis eines "Beinahe-Unfalls")
-- [BGH, Beschluss vom 14.03.2019 - 4 StR 426/18](4-str-426-18.md) — Gebührenüberhöhung beim anwaltlichen Forderungsinkasso: Verwirklichung des Betrugstatbestandes durch vollautomatisiertes Mengeninkasso ohne fallbezogenen Mandat
-- [BGH, Urteil vom 14.03.2019 - 4 StR 444/18](4-str-444-18.md) — Unterbringung in der Sicherungsverwahrung: Erheblichkeit der von dem Angeklagten zu erwartenden Straftaten; schwere räuberische Erpressung und schwerer Raub; Ba
-- [BGH, Beschluss vom 13.03.2019 - 4 StR 491/18](4-str-491-18.md) — Untreue und zum Nachteil privater Krankenversicherungen begangene Betrugshandlungen: Tatmehrheit oder Tateinheit; Verschlechterungsverbot bei Bildung neuer Einz
+- [BGH, Beschluss vom 14.03.2019 - 4 StR 426/18](4-str-426-18.md) — Gebührenüberhöhung beim anwaltlichen Forderungsinkasso: Verwirklichung des Betrugstatbestandes durch vollautomatisiertes Mengeninkasso ohne fallbezogenen Mandatsauftrag und unter …
+- [BGH, Urteil vom 14.03.2019 - 4 StR 444/18](4-str-444-18.md) — Unterbringung in der Sicherungsverwahrung: Erheblichkeit der von dem Angeklagten zu erwartenden Straftaten; schwere räuberische Erpressung und schwerer Raub; Banküberfall mit …
+- [BGH, Beschluss vom 13.03.2019 - 4 StR 491/18](4-str-491-18.md) — Untreue und zum Nachteil privater Krankenversicherungen begangene Betrugshandlungen: Tatmehrheit oder Tateinheit; Verschlechterungsverbot bei Bildung neuer Einzelstrafen nach …
 - [BGH, Beschluss vom 12.03.2019 - 4 StR 58/19](4-str-58-19.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Einziehung der Betäubungsmittel
 - [BGH, Beschluss vom 12.03.2019 - 4 StR 63/19](4-str-63-19.md) — Körperverletzung: Krankheitswert von Flashbacks
 - [BGH, Beschluss vom 27.02.2019 - 4 StR 419/18](4-str-419-18.md) — Strafschärfende Berücksichtigung von Nachtatverhalten des Angeklagten
 - [BGH, Beschluss vom 26.02.2019 - 4 StR 464/18](4-str-464-18.md) — Tötungsdelikt: Abgrenzung unbeendeter/beendeter Versuch
 - [BGH, Beschluss vom 26.02.2019 - 4 StR 514/18](4-str-514-18.md) — Mordversuch durch Brandlegung in einem Mehrfamilienhaus: Rücktritt
-- [BGH, Beschluss vom 14.02.2019 - 4 StR 283/18](4-str-283-18.md) — Inverkehrbringen von Arzneimitteln zu Dopingzwecken im Sport: Verfassungsmäßigkeit der Bezugnahme auf den jährlich aktualisierten Anhang zum Übereinkommen gegen
+- [BGH, Beschluss vom 14.02.2019 - 4 StR 283/18](4-str-283-18.md) — Inverkehrbringen von Arzneimitteln zu Dopingzwecken im Sport: Verfassungsmäßigkeit der Bezugnahme auf den jährlich aktualisierten Anhang zum Übereinkommen gegen Doping
 - [BGH, Beschluss vom 14.02.2019 - 4 StR 37/18](4-str-37-18.md) — Gewerbsmäßiges unerlaubtes Handeltreiben mit Dopingmitteln: Verfassungsmäßigkeit der Strafvorschrift; Auslegung des Tatbestandsmerkmals "Handeltreiben"
-- [BGH, Beschluss vom 14.02.2019 - 4 StR 566/18](4-str-566-18.md) — Strafsache wegen Raubes u.a.: Unterbringung in einem psychiatrischen Krankenhaus wegen fehlender Steuerungsfähigkeit bei bipolar verlaufender affektiver Psychos
+- [BGH, Beschluss vom 14.02.2019 - 4 StR 566/18](4-str-566-18.md) — Strafsache wegen Raubes u.a.: Unterbringung in einem psychiatrischen Krankenhaus wegen fehlender Steuerungsfähigkeit bei bipolar verlaufender affektiver Psychose; Verwirklichung …
 - [BGH, Beschluss vom 13.02.2019 - 4 StR 555/18](4-str-555-18.md) — Verfahrenseinstellung wegen fehlender Anklage der abgeurteilten Tat
 - [BGH, Beschluss vom 12.02.2019 - 4 StR 374/18](4-str-374-18.md) — Mehrere Taten im Sinne des Prostitutions-Menschenhandels
 - [BGH, Beschluss vom 30.01.2019 - 4 StR 365/18](4-str-365-18.md) — Sexueller Missbrauch von Kindern: Schuldunfähigkeit wegen Aufhebung der Einsichtsfähigkeit

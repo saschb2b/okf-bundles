@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UhVorschG"
 description: "BGH-Entscheidungen zu UhVorschG, geordnet nach Vorschrift."
 tags: [register, navigation, uhvorschg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

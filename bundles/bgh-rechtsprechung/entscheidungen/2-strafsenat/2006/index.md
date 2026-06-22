@@ -2,7 +2,7 @@
 
 63 Entscheidung(en).
 
-- [BGH, Entscheidung vom 13.12.2006 - 2 StR 403/06](2-str-403-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 13.12.2006 - 2 StR 403/06](2-str-403-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 13.12.2006 - 2 StR 442/06](2-str-442-06.md) — erpresserischen Menschenraubes
 - [BGH, Beschluss vom 13.12.2006 - 2 StR 520/06](2-str-520-06.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 29.11.2006 - 2 ARs 495/06](2-ars-495-06.md) — BGH, Beschluss vom 29.11.2006 - 2 ARs 495/06

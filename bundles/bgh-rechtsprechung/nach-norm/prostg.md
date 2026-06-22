@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ProstG"
 description: "BGH-Entscheidungen zu ProstG, geordnet nach Vorschrift."
 tags: [register, navigation, prostg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

@@ -20,7 +20,7 @@
 - [BGH, Beschluss vom 19.03.2026 - 1 StR 81/26](1-str-81-26.md) — BGH, Beschluss 1 StR 81/26
 - [BGH, Beschluss vom 18.03.2026 - 1 StR 316/25](1-str-316-25.md) — BGH, Beschluss 1 StR 316/25
 - [BGH, Beschluss vom 18.03.2026 - 1 StR 608/25](1-str-608-25.md) — BGH, Beschluss 1 StR 608/25
-- [BGH, Urteil vom 18.03.2026 - 1 StR 97/25](1-str-97-25.md) — Beantragt die Staatsanwaltschaft in der Hauptverhandlung nach Eintritt eines dauerhaften Verfahrenshindernisses zur Herbeiführung einer Entscheidung über die no
+- [BGH, Urteil vom 18.03.2026 - 1 StR 97/25](1-str-97-25.md) — Beantragt die Staatsanwaltschaft in der Hauptverhandlung nach Eintritt eines dauerhaften Verfahrenshindernisses zur Herbeiführung einer Entscheidung über die noch nicht zur …
 - [BGH, Beschluss vom 17.03.2026 - 1 StR 438/25](1-str-438-25.md) — BGH, Beschluss 1 StR 438/25
 - [BGH, Urteil vom 17.03.2026 - 1 StR 487/25](1-str-487-25.md) — BGH, Urteil 1 StR 487/25
 - [BGH, Urteil vom 17.03.2026 - 1 StR 549/25](1-str-549-25.md) — BGH, Urteil 1 StR 549/25

@@ -6,27 +6,27 @@
 - [BGH, Beschluss vom 12.12.2023 - XI ZB 20/23](xi-zb-20-23.md) — BGH, Beschluss XI ZB 20/23
 - [BGH, Beschluss vom 06.12.2023 - XI ZB 33/21](xi-zb-33-21.md) — BGH, Beschluss XI ZB 33/21
 - [BGH, Beschluss vom 05.12.2023 - XI ZR 251/22](xi-zr-251-22.md) — BGH, Beschluss XI ZR 251/22
-- [BGH, Urteil vom 21.11.2023 - XI ZR 290/22](xi-zr-290-22.md) — Die in den von einer Sparkasse für eine Vielzahl von Vertragsverhältnissen vorformulierten Sonderbedingungen für Altersvorsorgeverträge nach dem Altersvermögens
+- [BGH, Urteil vom 21.11.2023 - XI ZR 290/22](xi-zr-290-22.md) — Die in den von einer Sparkasse für eine Vielzahl von Vertragsverhältnissen vorformulierten Sonderbedingungen für Altersvorsorgeverträge nach dem Altersvermögensgesetz (sog …
 - [BGH, Beschluss vom 14.11.2023 - XI ZA 2/23](xi-za-2-23.md) — BGH, Beschluss XI ZA 2/23
 - [BGH, Beschluss vom 14.11.2023 - XI ZB 10/23](xi-zb-10-23.md) — Kausalität von Anwaltsverschulden bei Übermittlungsfehler des Gerichts
 - [BGH, Beschluss vom 14.11.2023 - XI ZB 2/21](xi-zb-2-21.md) — 1. Zur Prospektqualität eines "Informationsblattes". 2. Zum Erfordernis eines Prospektnachtrags bei einem Blind-Pool (hier: Waldfonds).
-- [BGH, Urteil vom 14.11.2023 - XI ZR 88/23](xi-zr-88-23.md) — Bei einem Prämiensparvertrag, bei dem die Prämien auf die Sparbeiträge stufenweise bis zu einem bestimmten Sparjahr steigen, kann das Recht der Sparkasse zu ein
+- [BGH, Urteil vom 14.11.2023 - XI ZR 88/23](xi-zr-88-23.md) — Bei einem Prämiensparvertrag, bei dem die Prämien auf die Sparbeiträge stufenweise bis zu einem bestimmten Sparjahr steigen, kann das Recht der Sparkasse zu einer ordentlichen …
 - [BGH, Beschluss vom 24.10.2023 - XI ZB 15/23](xi-zb-15-23.md) — BGH, Beschluss XI ZB 15/23
 - [BGH, Beschluss vom 24.10.2023 - XI ZB 16/23](xi-zb-16-23.md) — BGH, Beschluss XI ZB 16/23
-- [BGH, Urteil vom 17.10.2023 - XI ZR 160/22](xi-zr-160-22.md) — Zur Auslegung von § 357 Abs. 1 Satz 1 BGB in der bis zum 12. Juni 2014 geltenden Fassung und von § 312d Abs. 6 BGB in der bis zum 3. August 2009 geltenden Fassu
-- [BGH, Urteil vom 17.10.2023 - XI ZR 72/22](xi-zr-72-22.md) — Bei einem Prämiensparvertrag, bei dem die Prämien auf die Sparbeiträge stufenweise bis zu einem bestimmten Sparjahr steigen, ist das Recht der Sparkasse zur ord
+- [BGH, Urteil vom 17.10.2023 - XI ZR 160/22](xi-zr-160-22.md) — Zur Auslegung von § 357 Abs. 1 Satz 1 BGB in der bis zum 12. Juni 2014 geltenden Fassung und von § 312d Abs. 6 BGB in der bis zum 3. August 2009 geltenden Fassung (Fortführung von …
+- [BGH, Urteil vom 17.10.2023 - XI ZR 72/22](xi-zr-72-22.md) — Bei einem Prämiensparvertrag, bei dem die Prämien auf die Sparbeiträge stufenweise bis zu einem bestimmten Sparjahr steigen, ist das Recht der Sparkasse zur ordentlichen Kündigung …
 - [BGH, Beschluss vom 10.10.2023 - XI ZB 1/23](xi-zb-1-23.md) — Zur Glaubhaftmachung der vorübergehenden technischen Unmöglichkeit gemäß § 130d Satz 3 ZPO durch Vorlage eines Screenshots.
 - [BGH, Beschluss vom 26.09.2023 - XI ZR 311/22](xi-zr-311-22.md) — Anspruchskonkurrenz bei Prospekthaftung: Haftung der Gründungsgesellschafter einer Kapitalanlagegesellschaft "aus anderen Gründen"
 - [BGH, Beschluss vom 26.09.2023 - XI ZR 321/22](xi-zr-321-22.md) — BGH, Beschluss XI ZR 321/22
 - [BGH, Beschluss vom 26.09.2023 - XI ZR 489/21](xi-zr-489-21.md) — BGH, Beschluss XI ZR 489/21
 - [BGH, Beschluss vom 26.09.2023 - XI ZR 491/21](xi-zr-491-21.md) — BGH, Beschluss XI ZR 491/21
-- [BGH, Urteil vom 26.09.2023 - XI ZR 98/22](xi-zr-98-22.md) — Gemäß § 241a Abs. 2 Fall 2 BGB sind gesetzliche Ansprüche nicht ausgeschlossen, wenn die Leistung in der irrigen Vorstellung einer Bestellung erfolgte und der E
+- [BGH, Urteil vom 26.09.2023 - XI ZR 98/22](xi-zr-98-22.md) — Gemäß § 241a Abs. 2 Fall 2 BGB sind gesetzliche Ansprüche nicht ausgeschlossen, wenn die Leistung in der irrigen Vorstellung einer Bestellung erfolgte und der Empfänger dies zwar …
 - [BGH, Beschluss vom 20.09.2023 - XI ZR 14/23](xi-zr-14-23.md) — BGH, Beschluss XI ZR 14/23
 - [BGH, Beschluss vom 19.09.2023 - XI ZB 16/21](xi-zb-16-21.md) — Rechtsbeschwerde im Kapitalanlegermusterverfahren: Prospekthaftung der Gründungsgesellschafter einer Schiffsfondsgesellschaft im Altfall
 - [BGH, Beschluss vom 19.09.2023 - XI ZB 19/21](xi-zb-19-21.md) — Verletzung vorvertraglicher Aufklärungspflichten durch Verwenden eines unrichtigen oder unvollständigen Verkaufsprospekts
-- [BGH, Beschluss vom 19.09.2023 - XI ZB 31/22](xi-zb-31-22.md) — Eine Berufung ist unzulässig, wenn sie nicht wenigstens teilweise den in erster Instanz erhobenen Klageanspruch weiterverfolgt, sondern lediglich im Wege der Kl
-- [BGH, Urteil vom 19.09.2023 - XI ZR 343/22](xi-zr-343-22.md) — Ein Verstoß des Zahlungsdienstleisters gegen das Verbot der Mitwirkung an einer Zahlung im Zusammenhang mit unerlaubtem Glücksspiel nach § 4 Abs. 1 Satz 2 Fall 
-- [BGH, Beschluss vom 19.09.2023 - XI ZR 58/23](xi-zr-58-23.md) — Der Feststellungsantrag des Darlehensnehmers, aufgrund des Widerrufs seiner Vertragserklärung nicht mehr zur Zahlung von Zins- und Tilgungsleistungen aus dem Da
+- [BGH, Beschluss vom 19.09.2023 - XI ZB 31/22](xi-zb-31-22.md) — Eine Berufung ist unzulässig, wenn sie nicht wenigstens teilweise den in erster Instanz erhobenen Klageanspruch weiterverfolgt, sondern lediglich im Wege der Klageänderung einen …
+- [BGH, Urteil vom 19.09.2023 - XI ZR 343/22](xi-zr-343-22.md) — Ein Verstoß des Zahlungsdienstleisters gegen das Verbot der Mitwirkung an einer Zahlung im Zusammenhang mit unerlaubtem Glücksspiel nach § 4 Abs. 1 Satz 2 Fall 2 des …
+- [BGH, Beschluss vom 19.09.2023 - XI ZR 58/23](xi-zr-58-23.md) — Der Feststellungsantrag des Darlehensnehmers, aufgrund des Widerrufs seiner Vertragserklärung nicht mehr zur Zahlung von Zins- und Tilgungsleistungen aus dem Darlehensvertrag …
 - [BGH, Beschluss vom 18.09.2023 - XI ZB 17/23](xi-zb-17-23.md) — BGH, Beschluss XI ZB 17/23
 - [BGH, Beschluss vom 12.09.2023 - XI ZA 1/23](xi-za-1-23.md) — BGH, Beschluss XI ZA 1/23
 - [BGH, Beschluss vom 12.09.2023 - XI ZB 7/23](xi-zb-7-23.md) — BGH, Beschluss XI ZB 7/23
@@ -35,13 +35,13 @@
 - [BGH, Beschluss vom 04.09.2023 - XI ZB 13/23](xi-zb-13-23.md) — BGH, Beschluss XI ZB 13/23
 - [BGH, Beschluss vom 25.07.2023 - XI ZB 11/21](xi-zb-11-21.md) — Zu den Voraussetzungen einer Aussetzung nach § 8 Abs. 1 Satz 1 KapMuG.
 - [BGH, Beschluss vom 25.07.2023 - XI ZB 18/22](xi-zb-18-22.md) — BGH, Beschluss XI ZB 18/22
-- [BGH, Urteil vom 25.07.2023 - XI ZR 221/22](xi-zr-221-22.md) — Bei einem Prämiensparvertrag, bei dem die Prämien auf die Sparbeiträge nach dem Verhältnis des Sparguthabens zur Jahressparleistung steigen (sogenannte Verhältn
-- [BGH, Beschluss vom 11.07.2023 - XI ZB 20/21](xi-zb-20-21.md) — 1. Eine Haftung eines Gründungsgesellschafters nach § 280 Abs. 1, § 241 Abs. 2, § 311 Abs. 2 BGB neben der spezialgesetzlichen Prospekthaftung nach § 13 VerkPro
-- [BGH, Urteil vom 11.07.2023 - XI ZR 111/22](xi-zr-111-22.md) — 1. Einwendungen des Zahlungsdienstnutzers aus der Rechtsbeziehung zu dem Zahlungsempfänger, mit denen er geltend macht, dass die Ansprüche des Zahlungsempfänger
+- [BGH, Urteil vom 25.07.2023 - XI ZR 221/22](xi-zr-221-22.md) — Bei einem Prämiensparvertrag, bei dem die Prämien auf die Sparbeiträge nach dem Verhältnis des Sparguthabens zur Jahressparleistung steigen (sogenannte Verhältnisprämienstaffel) …
+- [BGH, Beschluss vom 11.07.2023 - XI ZB 20/21](xi-zb-20-21.md) — 1. Eine Haftung eines Gründungsgesellschafters nach § 280 Abs. 1, § 241 Abs. 2, § 311 Abs. 2 BGB neben der spezialgesetzlichen Prospekthaftung nach § 13 VerkProspG, §§ 44 ff …
+- [BGH, Urteil vom 11.07.2023 - XI ZR 111/22](xi-zr-111-22.md) — 1. Einwendungen des Zahlungsdienstnutzers aus der Rechtsbeziehung zu dem Zahlungsempfänger, mit denen er geltend macht, dass die Ansprüche des Zahlungsempfängers nicht oder nicht …
 - [BGH, Beschluss vom 11.07.2023 - XI ZR 50/22](xi-zr-50-22.md) — Kapitalanlagegeschäft: Haftung des Kapitalanlagevermittlers aus Auskunftsvertrag neben spezialgesetzlicher Prospekthaftung im Altfall
 - [BGH, Beschluss vom 11.07.2023 - XI ZR 60/22](xi-zr-60-22.md) — Schadensersatz des Kapitalanlegers bei Prospektfehlern: Umfang des Vorrangs der spezialgesetzlichen Prospekthaftung
 - [BGH, Urteil vom 04.07.2023 - XI ZR 118/22](xi-zr-118-22.md) — BGH, Urteil XI ZR 118/22
-- [BGH, Urteil vom 04.07.2023 - XI ZR 77/22](xi-zr-77-22.md) — § 357 Abs. 1 Satz 1 BGB in der bis zum 12. Juni 2014 geltenden Fassung ist nicht im Lichte von Art. 7 Abs. 4 der Richtlinie 2002/65/EG des Europäischen Parlamen
+- [BGH, Urteil vom 04.07.2023 - XI ZR 77/22](xi-zr-77-22.md) — § 357 Abs. 1 Satz 1 BGB in der bis zum 12. Juni 2014 geltenden Fassung ist nicht im Lichte von Art. 7 Abs. 4 der Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates …
 - [BGH, Beschluss vom 26.06.2023 - XI ZB 11/23](xi-zb-11-23.md) — BGH, Beschluss XI ZB 11/23
 - [BGH, Beschluss vom 20.06.2023 - XI ZB 3/23](xi-zb-3-23.md) — BGH, Beschluss XI ZB 3/23
 - [BGH, Beschluss vom 20.06.2023 - XI ZB 4/23](xi-zb-4-23.md) — BGH, Beschluss XI ZB 4/23
@@ -51,11 +51,11 @@
 - [BGH, Urteil vom 20.06.2023 - XI ZR 576/21](xi-zr-576-21.md) — BGH, Urteil XI ZR 576/21
 - [BGH, Urteil vom 20.06.2023 - XI ZR 61/22](xi-zr-61-22.md) — BGH, Urteil XI ZR 61/22
 - [BGH, Urteil vom 20.06.2023 - XI ZR 80/22](xi-zr-80-22.md) — Zur möglichen Umkehr der Zahlungspflichten in einem Swap-Vertrag.
-- [BGH, Beschluss vom 13.06.2023 - XI ZB 11/22](xi-zb-11-22.md) — Zur Darstellung des Totalverlustrisikos einer Kapitalanlage in eine Ölplattform gemäß § 2 Abs. 2 Satz 3 und 4 VermVerkProspV in der bis zum 31. Mai 2012 geltend
-- [BGH, Beschluss vom 13.06.2023 - XI ZB 17/21](xi-zb-17-21.md) — 1. Zur Darstellung der mit einer Fremdfinanzierung einhergehenden Risiken in einem Verkaufsprospekt, der einer Beteiligung an einem geschlossenen Immobilienfond
-- [BGH, Urteil vom 13.06.2023 - XI ZR 464/21](xi-zr-464-21.md) — Die Verjährung eines Schadensersatzanspruchs wegen Verletzung der Pflichten aus einem Anlageberatungsvertrag wird durch die Klageerhebung nach § 204 Abs. 1 Nr. 
+- [BGH, Beschluss vom 13.06.2023 - XI ZB 11/22](xi-zb-11-22.md) — Zur Darstellung des Totalverlustrisikos einer Kapitalanlage in eine Ölplattform gemäß § 2 Abs. 2 Satz 3 und 4 VermVerkProspV in der bis zum 31. Mai 2012 geltenden Fassung im …
+- [BGH, Beschluss vom 13.06.2023 - XI ZB 17/21](xi-zb-17-21.md) — 1. Zur Darstellung der mit einer Fremdfinanzierung einhergehenden Risiken in einem Verkaufsprospekt, der einer Beteiligung an einem geschlossenen Immobilienfonds zugrunde liegt …
+- [BGH, Urteil vom 13.06.2023 - XI ZR 464/21](xi-zr-464-21.md) — Die Verjährung eines Schadensersatzanspruchs wegen Verletzung der Pflichten aus einem Anlageberatungsvertrag wird durch die Klageerhebung nach § 204 Abs. 1 Nr. 1 BGB auch …
 - [BGH, Beschluss vom 06.06.2023 - XI ZR 199/22](xi-zr-199-22.md) — BGH, Beschluss XI ZR 199/22
-- [BGH, Beschluss vom 23.05.2023 - XI ZB 30/20](xi-zb-30-20.md) — 1. Zu den Angaben, die in einem Verkaufsprospekt für Vermögensanlagen zu einem Bewertungsgutachten zu machen sind. 2. Zu der Bestimmtheit und Reichweite von Fes
+- [BGH, Beschluss vom 23.05.2023 - XI ZB 30/20](xi-zb-30-20.md) — 1. Zu den Angaben, die in einem Verkaufsprospekt für Vermögensanlagen zu einem Bewertungsgutachten zu machen sind. 2. Zu der Bestimmtheit und Reichweite von Feststellungszielen.
 - [BGH, Urteil vom 23.05.2023 - XI ZR 272/22](xi-zr-272-22.md) — BGH, Urteil XI ZR 272/22
 - [BGH, Urteil vom 23.05.2023 - XI ZR 43/22](xi-zr-43-22.md) — BGH, Urteil XI ZR 43/22
 - [BGH, Urteil vom 23.05.2023 - XI ZR 436/21](xi-zr-436-21.md) — BGH, Urteil XI ZR 436/21
@@ -67,15 +67,15 @@
 - [BGH, Beschluss vom 04.04.2023 - XI ZR 79/22](xi-zr-79-22.md) — BGH, Beschluss XI ZR 79/22
 - [BGH, Beschluss vom 21.03.2023 - XI ZR 153/22](xi-zr-153-22.md) — BGH, Beschluss XI ZR 153/22
 - [BGH, Urteil vom 21.03.2023 - XI ZR 42/22](xi-zr-42-22.md) — Verbundener Verbraucherdarlehensvertrag: Leistungsverweigerungsrecht des Darlehensgebers nach Widerruf; Zulässigkeit der Feststellungsklage
-- [BGH, Urteil vom 14.03.2023 - XI ZR 420/21](xi-zr-420-21.md) — 1. Ein im Zusammenhang mit einem variabel verzinslichen Darlehensvertrag geschlossener Zinssatz-Swap-Vertrag mit fester Laufzeit ist weder in direkter noch in a
+- [BGH, Urteil vom 14.03.2023 - XI ZR 420/21](xi-zr-420-21.md) — 1. Ein im Zusammenhang mit einem variabel verzinslichen Darlehensvertrag geschlossener Zinssatz-Swap-Vertrag mit fester Laufzeit ist weder in direkter noch in analoger Anwendung …
 - [BGH, Beschluss vom 14.03.2023 - XI ZR 83/22](xi-zr-83-22.md) — BGH, Beschluss XI ZR 83/22
 - [BGH, Beschluss vom 07.03.2023 - XI ZR 29/22](xi-zr-29-22.md) — BGH, Beschluss XI ZR 29/22
 - [BGH, Beschluss vom 06.03.2023 - XI ZB 5/23](xi-zb-5-23.md) — BGH, Beschluss XI ZB 5/23
 - [BGH, Beschluss vom 14.02.2023 - XI ZR 15/22](xi-zr-15-22.md) — BGH, Beschluss XI ZR 15/22
-- [BGH, Urteil vom 14.02.2023 - XI ZR 152/22](xi-zr-152-22.md) — Bei einem mit einem im stationären Handel geschlossenen Fahrzeugkaufvertrag verbundenen und vom Darlehensnehmer widerrufenen Allgemein-Verbraucherdarlehensvertr
+- [BGH, Urteil vom 14.02.2023 - XI ZR 152/22](xi-zr-152-22.md) — Bei einem mit einem im stationären Handel geschlossenen Fahrzeugkaufvertrag verbundenen und vom Darlehensnehmer widerrufenen Allgemein-Verbraucherdarlehensvertrag entfällt das …
 - [BGH, Beschluss vom 14.02.2023 - XI ZR 46/22](xi-zr-46-22.md) — BGH, Beschluss XI ZR 46/22
 - [BGH, Beschluss vom 06.02.2023 - XI ZB 23/20](xi-zb-23-20.md) — BGH, Beschluss XI ZB 23/20
 - [BGH, Beschluss vom 01.02.2023 - XI ZB 28/22](xi-zb-28-22.md) — BGH, Beschluss XI ZB 28/22
-- [BGH, Urteil vom 24.01.2023 - XI ZR 257/21](xi-zr-257-21.md) — 1. Bei Prämiensparverträgen, bei denen die Prämien auf die Sparbeiträge stufenweise bis zum 15. Sparjahr steigen, sind im Wege der ergänzenden Vertragsauslegung
+- [BGH, Urteil vom 24.01.2023 - XI ZR 257/21](xi-zr-257-21.md) — 1. Bei Prämiensparverträgen, bei denen die Prämien auf die Sparbeiträge stufenweise bis zum 15. Sparjahr steigen, sind im Wege der ergänzenden Vertragsauslegung (§§ 133, 157 BGB) …
 - [BGH, Beschluss vom 24.01.2023 - XI ZR 90/22](xi-zr-90-22.md) — BGH, Beschluss XI ZR 90/22
 - [BGH, Beschluss vom 17.01.2023 - XI ZR 95/22](xi-zr-95-22.md) — Nichtzulassungsbeschwerde: Unzulässigkeit beim Nichterreichen des Beschwerdewertes

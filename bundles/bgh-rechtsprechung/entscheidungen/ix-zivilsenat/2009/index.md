@@ -39,7 +39,7 @@
 - [BGH, Beschluss vom 08.10.2009 - IX ZB 107/09](ix-zb-107-09.md) — BGH, Beschluss vom 08.10.2009 - IX ZB 107/09
 - [BGH, Beschluss vom 08.10.2009 - IX ZB 227/08](ix-zb-227-08.md) — BGH, Beschluss vom 08.10.2009 - IX ZB 227/08
 - [BGH, Beschluss vom 08.10.2009 - IX ZB 83/09](ix-zb-83-09.md) — BGH, Beschluss vom 08.10.2009 - IX ZB 83/09
-- [BGH, Beschluss vom 08.10.2009 - IX ZR 169/07](ix-zr-169-07.md) — IX ZR 169/07 Bundesgerichtshof BESCHLUSS vom 8. Oktober 2009 in dem Rechtsstreit -2- Der IX. Zivilsenat des Bundesgerichtshofs hat durch den Vorsitzenden Richte
+- [BGH, Beschluss vom 08.10.2009 - IX ZR 169/07](ix-zr-169-07.md) — IX ZR 169/07 Bundesgerichtshof BESCHLUSS vom 8. Oktober 2009 in dem Rechtsstreit -2- Der IX. Zivilsenat des Bundesgerichtshofs hat durch den Vorsitzenden Richter Dr. Ganter, die …
 - [BGH, Beschluss vom 08.10.2009 - IX ZR 173/08](ix-zr-173-08.md) — BGH, Beschluss vom 08.10.2009 - IX ZR 173/08
 - [BGH, Beschluss vom 08.10.2009 - IX ZR 205/06](ix-zr-205-06.md) — BGH, Beschluss vom 08.10.2009 - IX ZR 205/06
 - [BGH, Beschluss vom 08.10.2009 - IX ZR 223/07](ix-zr-223-07.md) — BGH, Beschluss vom 08.10.2009 - IX ZR 223/07

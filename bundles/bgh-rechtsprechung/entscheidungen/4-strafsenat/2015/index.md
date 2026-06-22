@@ -3,61 +3,61 @@
 121 Entscheidung(en).
 
 - [BGH, Beschluss vom 17.12.2015 - 4 StR 483/15](4-str-483-15.md) — Revision im Strafverfahren: Protokollierung unzulässiger Verfahrensrügen durch den Rechtspfleger der Rechtsantragsstelle
-- [BGH, Beschluss vom 16.12.2015 - 4 StR 227/15](4-str-227-15.md) — Wird über zwei Ordnungswidrigkeiten, die in Tatmehrheit stehen und jeweils mit einem Fahrverbot als Nebenfolge geahndet werden können, gleichzeitig entschieden,
+- [BGH, Beschluss vom 16.12.2015 - 4 StR 227/15](4-str-227-15.md) — Wird über zwei Ordnungswidrigkeiten, die in Tatmehrheit stehen und jeweils mit einem Fahrverbot als Nebenfolge geahndet werden können, gleichzeitig entschieden, so ist nur ein …
 - [BGH, Beschluss vom 15.12.2015 - 4 StR 401/15](4-str-401-15.md) — Revision im Strafverfahren: Nichtausschluss der Öffentlichkeit während einer Zeugenvernehmung
 - [BGH, Beschluss vom 15.12.2015 - 4 StR 491/15](4-str-491-15.md) — Strafverfahren: Wirksamkeit einer Rechtsmittelrücknahmeerklärung eines Schuldunfähigen
 - [BGH, Urteil vom 03.12.2015 - 4 StR 223/15](4-str-223-15.md) — Tatvorsatz: Abweichung des vorgestellten vom tatsächlichen Geschehensablauf
-- [BGH, Urteil vom 03.12.2015 - 4 StR 387/15](4-str-387-15.md) — Jugendstrafverfahren wegen gefährlicher Körperverletzung: Abgrenzung zwischen bedingtem Tötungsvorsatz und Körperverletzungsvorsatz bei gefährlicher Gewalthandl
-- [BGH, Beschluss vom 03.12.2015 - 4 StR 430/15](4-str-430-15.md) — Strafverfahren wegen Betäubungsmitteldelikten: Konkurrenzverhältnis beim Zusammentreffen von täterschaftlichem Besitz von Betäubungsmitteln in nicht geringer Me
-- [BGH, Beschluss vom 02.12.2015 - 4 StR 423/15](4-str-423-15.md) — Absoluter Revisionsgrund im Strafverfahren: Beruhensprüfung bei geltend gemachter Verteidigungsbeschränkung; Ablehnung von Beweisanträgen des Angeklagten zur Ei
+- [BGH, Urteil vom 03.12.2015 - 4 StR 387/15](4-str-387-15.md) — Jugendstrafverfahren wegen gefährlicher Körperverletzung: Abgrenzung zwischen bedingtem Tötungsvorsatz und Körperverletzungsvorsatz bei gefährlicher Gewalthandlung durch gezielte …
+- [BGH, Beschluss vom 03.12.2015 - 4 StR 430/15](4-str-430-15.md) — Strafverfahren wegen Betäubungsmitteldelikten: Konkurrenzverhältnis beim Zusammentreffen von täterschaftlichem Besitz von Betäubungsmitteln in nicht geringer Menge und unerlaubtem …
+- [BGH, Beschluss vom 02.12.2015 - 4 StR 423/15](4-str-423-15.md) — Absoluter Revisionsgrund im Strafverfahren: Beruhensprüfung bei geltend gemachter Verteidigungsbeschränkung; Ablehnung von Beweisanträgen des Angeklagten zur Einholung eines …
 - [BGH, Beschluss vom 01.12.2015 - 4 StR 270/15](4-str-270-15.md) — Pflichtverteidigerbestellung: Wichtiger Grund gegen die Beiordnung des ausgewählten Anwalts wegen Interessenkollision
-- [BGH, Beschluss vom 01.12.2015 - 4 StR 390/15](4-str-390-15.md) — Die fakultative Strafmilderung wegen tätiger Reue nach § 320 Abs. 1 i.V.m. § 49 Abs. 2 StGB kommt auch bei einer Verurteilung wegen Angriffs auf den Luft- und S
-- [BGH, Beschluss vom 01.12.2015 - 4 StR 481/15](4-str-481-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Feststellung von Schuldunfähigkeit bei psychischer Störung und Suchterkrankung; Erörter
-- [BGH, Beschluss vom 19.11.2015 - 4 ARs 29/14](4-ars-29-14.md) — Beantwortung der Anfrage des 2. Strafsenats zur Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse des Täters im Rahmen der Zumessung eines Sch
-- [BGH, Urteil vom 19.11.2015 - 4 StR 115/15](4-str-115-15.md) — Betrugshandlungen in einem Schneeballsystem: Notwendiger Inhalt der Urteilsgründe bei einer Vielzahl von gleichgelagerten Betrugstaten mehrerer Angeklagter; Erm
+- [BGH, Beschluss vom 01.12.2015 - 4 StR 390/15](4-str-390-15.md) — Die fakultative Strafmilderung wegen tätiger Reue nach § 320 Abs. 1 i.V.m. § 49 Abs. 2 StGB kommt auch bei einer Verurteilung wegen Angriffs auf den Luft- und Seeverkehr im Sinne …
+- [BGH, Beschluss vom 01.12.2015 - 4 StR 481/15](4-str-481-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Feststellung von Schuldunfähigkeit bei psychischer Störung und Suchterkrankung; Erörterung einer …
+- [BGH, Beschluss vom 19.11.2015 - 4 ARs 29/14](4-ars-29-14.md) — Beantwortung der Anfrage des 2. Strafsenats zur Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse des Täters im Rahmen der Zumessung eines Schmerzensgeldes
+- [BGH, Urteil vom 19.11.2015 - 4 StR 115/15](4-str-115-15.md) — Betrugshandlungen in einem Schneeballsystem: Notwendiger Inhalt der Urteilsgründe bei einer Vielzahl von gleichgelagerten Betrugstaten mehrerer Angeklagter; Ermittlung des …
 - [BGH, Beschluss vom 18.11.2015 - 4 StR 410/15](4-str-410-15.md) — Strafverfahren wegen Vergewaltigung: Ausnutzung einer schutzlosen Lage des Tatopfers
 - [BGH, Beschluss vom 18.11.2015 - 4 StR 76/15](4-str-76-15.md) — Betrug: Beginn der Verfolgungsverjährungsfrist; maßgeblicher Zeitpunkt für Tatbeendigung bei Auszahlung des Vermögensvorteils an eine Vielzahl von Empfängern
 - [BGH, Beschluss vom 17.11.2015 - 4 StR 276/15](4-str-276-15.md) — Nachträgliche Gesamtstrafenbildung: Zäsurwirkung einer Vorverurteilung; Anforderungen an den Revisionsvortrag bei einer Befangenheitsrüge
 - [BGH, Beschluss vom 17.11.2015 - 4 StR 378/15](4-str-378-15.md) — Gesamtstrafenbildung: Anrechnung von Zahlungen auf einbezogene Geldstrafe
 - [BGH, Urteil vom 05.11.2015 - 4 StR 124/14](4-str-124-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Grenzwert für eine nicht geringe Menge bei JWH-019
-- [BGH, Urteil vom 05.11.2015 - 4 StR 183/15](4-str-183-15.md) — Strafverfahren wegen Vergewaltigung: Grenzen revisionsgerichtlicher Nachprüfung der tatrichterlichen Beweiswürdigung bei Freispruch; Würdigung einer "Aussage ge
+- [BGH, Urteil vom 05.11.2015 - 4 StR 183/15](4-str-183-15.md) — Strafverfahren wegen Vergewaltigung: Grenzen revisionsgerichtlicher Nachprüfung der tatrichterlichen Beweiswürdigung bei Freispruch; Würdigung einer "Aussage gegen …
 - [BGH, Beschluss vom 04.11.2015 - 4 StR 403/14](4-str-403-14.md) — Strafbares Inverkehrbringen verbotener Arzneimittel: Arzneimitteleigenschaft von synthetischen Cannabinoiden
 - [BGH, Beschluss vom 03.11.2015 - 4 StR 309/15](4-str-309-15.md) — Vorbehaltene Anordnung der Sicherungsverwahrung im Fall der Verhängung einer Einheitsjugendstrafe als Vorverurteilung
 - [BGH, Beschluss vom 03.11.2015 - 4 StR 403/15](4-str-403-15.md) — Strafverfahren wegen Untreue: Absehen von der Anordnung des Wertersatzverfalls bei unbilliger Härte
 - [BGH, Beschluss vom 03.11.2015 - 4 StR 407/15](4-str-407-15.md) — Nachträgliche Gesamtstrafenbildung: Auslegung der Worte "vor der früheren Verurteilung begangen"
-- [BGH, Beschluss vom 22.10.2015 - 4 StR 262/15](4-str-262-15.md) — Rücktritt vom versuchten Totschlag: Fehlgeschlagener Versuch; Unterscheidung zwischen unbeendetem und beendetem Versuch; Konkurrenzen bei einem Angriff auf mehr
-- [BGH, Urteil vom 22.10.2015 - 4 StR 275/15](4-str-275-15.md) — Strafverurteilung wegen schweren Kindesmissbrauchs: Absehen von der Anordnung einer Sicherungsverwahrung trotz festgestellten Gefährdungspotentials des Angeklag
+- [BGH, Beschluss vom 22.10.2015 - 4 StR 262/15](4-str-262-15.md) — Rücktritt vom versuchten Totschlag: Fehlgeschlagener Versuch; Unterscheidung zwischen unbeendetem und beendetem Versuch; Konkurrenzen bei einem Angriff auf mehrere Personen
+- [BGH, Urteil vom 22.10.2015 - 4 StR 275/15](4-str-275-15.md) — Strafverurteilung wegen schweren Kindesmissbrauchs: Absehen von der Anordnung einer Sicherungsverwahrung trotz festgestellten Gefährdungspotentials des Angeklagten
 - [BGH, Beschluss vom 21.10.2015 - 4 StR 241/15](4-str-241-15.md) — Anhörungsrüge im Revisionsverfahren: Revisionsentscheidung im Beschlussverfahren
 - [BGH, Beschluss vom 20.10.2015 - 4 StR 343/15](4-str-343-15.md) — Konkurrenzverhältnis zwischen unerlaubtem Waffenbesitz und Begehung eines Verbrechens mit der Waffe
 - [BGH, Beschluss vom 06.10.2015 - 4 StR 352/15](4-str-352-15.md) — Versuchte räuberische Erpressung: Abgrenzung zwischen fehlgeschlagenem Versuch und freiwilligem Rücktritt vom unbeendeten Versuch
 - [BGH, Beschluss vom 06.10.2015 - 4 StR 38/15](4-str-38-15.md) — Betrug: Tateinheit bei Überschneidung der Täuschungshandlungen
-- [BGH, Beschluss vom 23.09.2015 - 4 StR 364/15](4-str-364-15.md) — Wiedereinsetzung im Strafverfahren: Pflicht des Verteidigers zur vorsorglichen Revisionseinlegung bei nicht erfolgter Abklärung der Vorgehensweise mit dem Angek
-- [BGH, Beschluss vom 23.09.2015 - 4 StR 371/15](4-str-371-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Erforderlichkeit der positiven Feststellung einer Verminderung der Schuldfähigkeit; Zusammenwirken von psych
-- [BGH, Beschluss vom 23.09.2015 - 4 StR 54/15](4-str-54-15.md) — Strafverurteilung wegen gewerbsmäßiger Bandenhehlerei: Notwendige Urteilsfeststellungen zum Vorsatznachweis bei tatrichterliche Überzeugungsbildung auf Grundlag
-- [BGH, Beschluss vom 22.09.2015 - 4 StR 152/15](4-str-152-15.md) — Strafverurteilung wegen Erpressung: Erfüllung des Tatbestandsmerkmals "durch Gewalt" durch einschüchterndes Verhalten; Tatbestandserfüllung bei Drohung mit eine
+- [BGH, Beschluss vom 23.09.2015 - 4 StR 364/15](4-str-364-15.md) — Wiedereinsetzung im Strafverfahren: Pflicht des Verteidigers zur vorsorglichen Revisionseinlegung bei nicht erfolgter Abklärung der Vorgehensweise mit dem Angeklagten
+- [BGH, Beschluss vom 23.09.2015 - 4 StR 371/15](4-str-371-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Erforderlichkeit der positiven Feststellung einer Verminderung der Schuldfähigkeit; Zusammenwirken von psychischer Störung und …
+- [BGH, Beschluss vom 23.09.2015 - 4 StR 54/15](4-str-54-15.md) — Strafverurteilung wegen gewerbsmäßiger Bandenhehlerei: Notwendige Urteilsfeststellungen zum Vorsatznachweis bei tatrichterliche Überzeugungsbildung auf Grundlage der …
+- [BGH, Beschluss vom 22.09.2015 - 4 StR 152/15](4-str-152-15.md) — Strafverurteilung wegen Erpressung: Erfüllung des Tatbestandsmerkmals "durch Gewalt" durch einschüchterndes Verhalten; Tatbestandserfüllung bei Drohung mit einem empfindlichen …
 - [BGH, Beschluss vom 22.09.2015 - 4 StR 355/15](4-str-355-15.md) — Strafverfahren: Ausdruck einer E-Mail als präsentes Beweismittel
-- [BGH, Beschluss vom 22.09.2015 - 4 StR 359/15](4-str-359-15.md) — Versuchter Totschlag: Notwendige Urteilsfeststellungen zum fehlgeschlagenen Versuch der Tötung eines Beifahrers durch vorsätzliche Herbeiführung einer Kollision
+- [BGH, Beschluss vom 22.09.2015 - 4 StR 359/15](4-str-359-15.md) — Versuchter Totschlag: Notwendige Urteilsfeststellungen zum fehlgeschlagenen Versuch der Tötung eines Beifahrers durch vorsätzliche Herbeiführung einer Kollision mit einem …
 - [BGH, Urteil vom 10.09.2015 - 4 StR 151/15](4-str-151-15.md) — Strafverfahren wegen versuchter Strafvereitelung: Vorsatz bezüglich Tathandlung und Vereitelungserfolg sowie Kenntnis der Vortat
 - [BGH, Beschluss vom 10.09.2015 - 4 StR 24/15](4-str-24-15.md) — Zu den Wirkungen einer im Beschlusswege erfolgten, irrtümlichen Entscheidung des Revisionsgerichts über einen bloßen Urteilsentwurf des Tatrichters.
 - [BGH, Beschluss vom 09.09.2015 - 4 StR 184/15](4-str-184-15.md) — Strafverfahren wegen erpresserischen Menschenraubs: Schaffung einer stabilen Bemächtigungsgrundlage durch die Nötigungshandlung
 - [BGH, Beschluss vom 09.09.2015 - 4 StR 334/15](4-str-334-15.md) — Jugendstrafverfahren: Wirksamkeit einer Revisionsbeschränkung auf die Anordnung der Unterbringung in einem psychiatrischen Krankenhaus
 - [BGH, Beschluss vom 09.09.2015 - 4 StR 335/15](4-str-335-15.md) — Räuberische Erpressung: Berücksichtigung der Tätervorstellung bei Prüfung der subjektiven Tatseite
-- [BGH, Beschluss vom 09.09.2015 - 4 StR 347/15](4-str-347-15.md) — Unerlaubte Einfuhr und unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Abgrenzung von Mittäterschaft und Beihilfe bei Kurierfahrten; Ab
+- [BGH, Beschluss vom 09.09.2015 - 4 StR 347/15](4-str-347-15.md) — Unerlaubte Einfuhr und unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Abgrenzung von Mittäterschaft und Beihilfe bei Kurierfahrten; Abwicklung von …
 - [BGH, Beschluss vom 13.08.2015 - 4 StR 576/14](4-str-576-14.md) — Revision im Strafverfahren: Statthaftigkeit der Gegenvorstellung gegen einen die Anhörungsrüge zurückweisenden Beschluss
 - [BGH, Urteil vom 13.08.2015 - 4 StR 99/15](4-str-99-15.md) — Rücktritt von einem mehraktigen Raubdelikt
 - [BGH, Beschluss vom 12.08.2015 - 4 StR 14/15](4-str-14-15.md) — Fahren ohne Fahrerlaubnis: Bestimmung des Tatendes
 - [BGH, Urteil vom 30.07.2015 - 4 StR 561/14](4-str-561-14.md) — Revision in Strafsachen: Inbegriffsrüge wegen nicht erfolgter Einbeziehung von in Augenschein genommenen Lichtbildern in die Urteilsgründe
-- [BGH, Beschluss vom 29.07.2015 - 4 StR 293/15](4-str-293-15.md) — Revision des Angeklagten: Darstellung des Sachverständigengutachtens im Urteil zur Schuldunfähigkeit; Aufhebung des Freispruchs bei einer isoliert angeordneten 
+- [BGH, Beschluss vom 29.07.2015 - 4 StR 293/15](4-str-293-15.md) — Revision des Angeklagten: Darstellung des Sachverständigengutachtens im Urteil zur Schuldunfähigkeit; Aufhebung des Freispruchs bei einer isoliert angeordneten Unterbringung
 - [BGH, Beschluss vom 28.07.2015 - 4 StR 247/15](4-str-247-15.md) — Waffendelikt: Mitführen einer Schreckschuss-, Reizstoff- und Signalpistole
 - [BGH, Beschluss vom 28.07.2015 - 4 StR 598/14](4-str-598-14.md) — Nachholung der Entscheidung über die Eröffnung des Hauptverfahrens: Gesetzlich vorgeschriebene Besetzung der großen Strafkammer bei der Beschlussfassung
-- [BGH, Beschluss vom 16.07.2015 - 4 StR 117/15](4-str-117-15.md) — Strafverfahren wegen gefährlichen Eingriffs in den Straßenverkehr: Begründung einer konkreten verkehrsspezifischen Gefahr bei Abgabe von Pistolenschüssen auf fa
-- [BGH, Beschluss vom 16.07.2015 - 4 StR 219/15](4-str-219-15.md) — Straftaten gegen die sexuelle Selbstbestimmung: Verbotenes Einwirken auf Kinder mit Schriften durch Übergabe einer Einladung zum gemeinsamen Masturbieren; versu
+- [BGH, Beschluss vom 16.07.2015 - 4 StR 117/15](4-str-117-15.md) — Strafverfahren wegen gefährlichen Eingriffs in den Straßenverkehr: Begründung einer konkreten verkehrsspezifischen Gefahr bei Abgabe von Pistolenschüssen auf fahrende Autos
+- [BGH, Beschluss vom 16.07.2015 - 4 StR 219/15](4-str-219-15.md) — Straftaten gegen die sexuelle Selbstbestimmung: Verbotenes Einwirken auf Kinder mit Schriften durch Übergabe einer Einladung zum gemeinsamen Masturbieren; versuchtes …
 - [BGH, Beschluss vom 16.07.2015 - 4 StR 265/15](4-str-265-15.md) — Absehen von Verfallsanordnung: Prüfungsreihenfolge; Vorliegen einer unbilligen Härte
 - [BGH, Beschluss vom 16.07.2015 - 4 StR 279/15](4-str-279-15.md) — Urkundenfälschung: Konkurrenzen bei Herstellen von gefälschten Kraftfahrzeugkennzeichen und deren mehrmaligem Gebrauch
-- [BGH, Beschluss vom 15.07.2015 - 4 StR 277/15](4-str-277-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Einsicht in das Unrecht der Tat trotz erheblich verminderter Einsichtsfähigkeit; Gefährlichkeitsprognose für
+- [BGH, Beschluss vom 15.07.2015 - 4 StR 277/15](4-str-277-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Einsicht in das Unrecht der Tat trotz erheblich verminderter Einsichtsfähigkeit; Gefährlichkeitsprognose für Begehung …
 - [BGH, Beschluss vom 14.07.2015 - 4 StR 191/15](4-str-191-15.md) — Strafaussetzung zur Bewährung: Bedeutung des Nachtatverhaltens des die Tat bestreitenden Angeklagten
 - [BGH, Urteil vom 02.07.2015 - 4 StR 509/14](4-str-509-14.md) — Einschränkung des Notwehrrechts bei provoziertem Angriff
-- [BGH, Beschluss vom 30.06.2015 - 4 StR 188/15](4-str-188-15.md) — Gefährlicher Eingriff in den Straßenverkehr und Widerstand gegen Vollstreckungsbeamte: Notwendige Urteilsfeststellungen bei Zufahren auf eine Polizeiabsperrung 
+- [BGH, Beschluss vom 30.06.2015 - 4 StR 188/15](4-str-188-15.md) — Gefährlicher Eingriff in den Straßenverkehr und Widerstand gegen Vollstreckungsbeamte: Notwendige Urteilsfeststellungen bei Zufahren auf eine Polizeiabsperrung durch einen …
 - [BGH, Beschluss vom 30.06.2015 - 4 StR 190/15](4-str-190-15.md) — Urkundenfälschung: Gewerbsmäßiges Handeln bei Erlangung eines nur mittelbaren Vorteils
 - [BGH, Beschluss vom 18.06.2015 - 4 StR 122/15](4-str-122-15.md) — Schwerer Raub: Elektroschockgerät als gefährliches Werkzeug
 - [BGH, Beschluss vom 18.06.2015 - 4 StR 46/15](4-str-46-15.md) — Vergewaltigung: Konkurrenzverhältnis bei mehrfach nacheinander mittels einheitlicher Gewaltanwendung erzwungenen Beischlafhandlungen
@@ -73,53 +73,53 @@
 - [BGH, Beschluss vom 01.06.2015 - 4 StR 267/11](4-str-267-11.md) — Pflichtverteidigervergütung: Voraussetzungen für die Bewilligung einer Pauschgebühr
 - [BGH, Beschluss vom 01.06.2015 - 4 StR 91/15](4-str-91-15.md) — Strafverfahren: Verfahrensfehler bei fehlender bzw. verspäteter Mitteilung über Verständigungsgespräche
 - [BGH, Beschluss vom 21.05.2015 - 4 StR 164/15](4-str-164-15.md) — Vorsätzliche Straßenverkehrsgefährdung durch Vorfahrtverletzung und falsches Fahren am Fußgängerüberweg: Anforderungen an die Urteilsfeststellungen
-- [BGH, Urteil vom 21.05.2015 - 4 StR 577/14](4-str-577-14.md) — Strafverfahren: Revisionsgerichtliche Kontrolle der Änderung des Geschäftsverteilungsplans während des laufenden Geschäftsjahres; Anforderungen an die Dokumenta
-- [BGH, Beschluss vom 20.05.2015 - 4 StR 555/14](4-str-555-14.md) — Die Untersuchung von zu anderen Zwecken entnommenen Körperzellen, um sie zur Erstellung eines DNA-Identifizierungsmusters zur Identitätsfeststellung in künftige
+- [BGH, Urteil vom 21.05.2015 - 4 StR 577/14](4-str-577-14.md) — Strafverfahren: Revisionsgerichtliche Kontrolle der Änderung des Geschäftsverteilungsplans während des laufenden Geschäftsjahres; Anforderungen an die Dokumentation
+- [BGH, Beschluss vom 20.05.2015 - 4 StR 555/14](4-str-555-14.md) — Die Untersuchung von zu anderen Zwecken entnommenen Körperzellen, um sie zur Erstellung eines DNA-Identifizierungsmusters zur Identitätsfeststellung in künftigen Strafverfahren zu …
 - [BGH, Beschluss vom 19.05.2015 - 4 StR 124/15](4-str-124-15.md) — Vorbehaltene Einziehung und Anweisung der Veräußerung eines Kfz: Zulässigkeit der Auskehrung des Erlöses an die Nebenkläger
 - [BGH, Beschluss vom 06.05.2015 - 4 StR 40/15](4-str-40-15.md) — Strafbarkeit eines Firmenbestatters wegen Beihilfe zum Bankrott einer GmbH
 - [BGH, Beschluss vom 06.05.2015 - 4 StR 89/15](4-str-89-15.md) — Strafaussetzung zur Bewährung: Sozialprognose bei Einwilligung des wegen eines Sexualdelikts Angeklagten in eine Sexualtherapie
 - [BGH, Beschluss vom 05.05.2015 - 4 StR 580/11](4-str-580-11.md) — Unzulässige weitere Beschwerde zum Bundesgerichtshof wegen der Aufrechterhaltung eines dinglichen Arrests in einer Strafsache: Abgabe an das Beschwerdegericht
 - [BGH, Beschluss vom 05.05.2015 - 4 StR 605/14](4-str-605-14.md) — Adhäsionsverfahren: Zulässigkeit eines Feststellungsantrags
-- [BGH, Urteil vom 23.04.2015 - 4 StR 603/14](4-str-603-14.md) — Räuberischer Angriff auf Kraftfahrer: Angriff auf die Entschlussfreiheit eines Fahrzeugführers durch Vortäuschen einer Polizeikontrolle; Kammerbesetzung bei der
+- [BGH, Urteil vom 23.04.2015 - 4 StR 603/14](4-str-603-14.md) — Räuberischer Angriff auf Kraftfahrer: Angriff auf die Entschlussfreiheit eines Fahrzeugführers durch Vortäuschen einer Polizeikontrolle; Kammerbesetzung bei der Entscheidung über …
 - [BGH, Urteil vom 23.04.2015 - 4 StR 607/14](4-str-607-14.md) — Zum Angriff auf die Entschlussfreiheit des Führers eines Kraftfahrzeugs durch eine vorgetäuschte Polizeikontrolle.
 - [BGH, Beschluss vom 21.04.2015 - 4 StR 422/14](4-str-422-14.md) — Fälschung beweiserheblicher Daten: Änderung der Kontodaten in "übernommenen" eBay-Accounts; Datenveränderung und Gebrauchmachen als eine Tat
-- [BGH, Beschluss vom 21.04.2015 - 4 StR 92/15](4-str-92-15.md) — Strafurteilurteilsinhalt: Notwendige Feststellungen zu einer Unterbringung in einer Entziehungsanstalt in Anknüpfung an ein bewaffnetes Handeltreiben mit Betäub
+- [BGH, Beschluss vom 21.04.2015 - 4 StR 92/15](4-str-92-15.md) — Strafurteilurteilsinhalt: Notwendige Feststellungen zu einer Unterbringung in einer Entziehungsanstalt in Anknüpfung an ein bewaffnetes Handeltreiben mit Betäubungsmitteln …
 - [BGH, Beschluss vom 21.04.2015 - 4 StR 94/15](4-str-94-15.md) — Besonders schwerer Raub: Messer als Waffe
 - [BGH, Urteil vom 09.04.2015 - 4 StR 401/14](4-str-401-14.md) — Zu den Anforderungen an die Beweiswürdigung bei Prüfung des bedingten Vorsatzes bei einer Trunkenheitsfahrt.
 - [BGH, Urteil vom 09.04.2015 - 4 StR 585/14](4-str-585-14.md) — Revision im Strafverfahren: Aufrechterhaltene Feststellungen bei Teilaufhebung
-- [BGH, Urteil vom 26.03.2015 - 4 StR 442/14](4-str-442-14.md) — Totschlag und gefährliche Körperverletzung: Bedingter Tötungsvorsatzes ohne Tötungsmotiv; Bewertung des Nachtatgeschehens; Anforderungen an den Vorsatz bei der 
+- [BGH, Urteil vom 26.03.2015 - 4 StR 442/14](4-str-442-14.md) — Totschlag und gefährliche Körperverletzung: Bedingter Tötungsvorsatzes ohne Tötungsmotiv; Bewertung des Nachtatgeschehens; Anforderungen an den Vorsatz bei der gefährlichen …
 - [BGH, Urteil vom 26.03.2015 - 4 StR 463/14](4-str-463-14.md) — Strafurteilsinhalt: Absehen von der Feststellung des dem erlangten Wert entsprechenden Geldbetrags bei unterlassener Verfallsanordnung
-- [BGH, Beschluss vom 25.03.2015 - 4 StR 525/13](4-str-525-13.md) — Die Anordnung der Unterbringung eines Betroffenen in einem Heim für Kinder oder Jugendliche hat nicht allein deshalb im Sinne des § 2 Abs. 1 Satz 2 StrRehaG der
+- [BGH, Beschluss vom 25.03.2015 - 4 StR 525/13](4-str-525-13.md) — Die Anordnung der Unterbringung eines Betroffenen in einem Heim für Kinder oder Jugendliche hat nicht allein deshalb im Sinne des § 2 Abs. 1 Satz 2 StrRehaG der politischen …
 - [BGH, Beschluss vom 25.03.2015 - 4 StR 600/14](4-str-600-14.md) — Verstoß gegen gegen eine Weisung der Führungsaufsicht über einen längeren Zeitraum: Realkonkurrenz oder Handlungseinheit
 - [BGH, Beschluss vom 25.03.2015 - 4 StR 612/14](4-str-612-14.md) — Schwere räuberische Erpressung: Einsatz einer nicht geladenen Gasdruckpistole bei einem Raubüberfall; Konkurrenzverhältnis zum Versuch
 - [BGH, Beschluss vom 24.03.2015 - 4 StR 52/15](4-str-52-15.md) — Natürliche Handlungseinheit bei Untreue: Überweisungen am selben Tag von demselben Bankkonto auf dasselbe Empfängerkonto
 - [BGH, Urteil vom 12.03.2015 - 4 StR 538/14](4-str-538-14.md) — Schwerer Raub: Zueignungsabsicht bei beabsichtigtem Konsum entwendeter Drogen; Auslegung des Begriffs des "gefährlichen Werkzeugs"
 - [BGH, Beschluss vom 11.03.2015 - 4 StR 570/14](4-str-570-14.md) — Besitz kinderpornografischer Schriften: Strafschärfende Berücksichtigung der Wiedergabe eines tatsächlichen Geschehens
-- [BGH, Urteil vom 26.02.2015 - 4 StR 178/14](4-str-178-14.md) — Gewerbsmäßiges Einschleusen von Ausländern: Strafbarkeit eines Schleusers für auf dem Luft- oder Landweg eingereiste Asylsuchende aus Syrien mit vorherigem Zwis
-- [BGH, Urteil vom 26.02.2015 - 4 StR 233/14](4-str-233-14.md) — Der Umstand, dass die Bundesrepublik Deutschland von ihrem Selbsteintrittsrecht nach der Dublin-II-Verordnung Gebrauch gemacht hat und Asylsuchende, die sich zu
+- [BGH, Urteil vom 26.02.2015 - 4 StR 178/14](4-str-178-14.md) — Gewerbsmäßiges Einschleusen von Ausländern: Strafbarkeit eines Schleusers für auf dem Luft- oder Landweg eingereiste Asylsuchende aus Syrien mit vorherigem Zwischenaufenthalt in …
+- [BGH, Urteil vom 26.02.2015 - 4 StR 233/14](4-str-233-14.md) — Der Umstand, dass die Bundesrepublik Deutschland von ihrem Selbsteintrittsrecht nach der Dublin-II-Verordnung Gebrauch gemacht hat und Asylsuchende, die sich zuvor in Griechenland …
 - [BGH, Urteil vom 26.02.2015 - 4 StR 293/14](4-str-293-14.md) — Ablehnung von Beweisanträgen im Strafverfahren: Anforderungen an die Urteilsgründe bei Bedeutungslosigkeit belastender Beweistatsachen
 - [BGH, Beschluss vom 26.02.2015 - 4 StR 328/14](4-str-328-14.md) — Verletzung des höchstpersönlichen Lebensbereichs durch Bildaufnahmen: Voraussetzungen des unbefugten Herstellens
 - [BGH, Beschluss vom 26.02.2015 - 4 StR 548/14](4-str-548-14.md) — Körperverletzung: Gesundheitsbeschädigung durch psychische Einwirkung
-- [BGH, Beschluss vom 25.02.2015 - 4 StR 16/15](4-str-16-15.md) — Verfahrensrüge der Ablehnung eines Beweisantrags als Beweisermittlungsantrag: Notwendiger Vortrag zu unzureichenden Bemühungen des Tatrichters zur Ermittlung de
+- [BGH, Beschluss vom 25.02.2015 - 4 StR 16/15](4-str-16-15.md) — Verfahrensrüge der Ablehnung eines Beweisantrags als Beweisermittlungsantrag: Notwendiger Vortrag zu unzureichenden Bemühungen des Tatrichters zur Ermittlung der ladungsfähigen …
 - [BGH, Beschluss vom 25.02.2015 - 4 StR 39/15](4-str-39-15.md) — Strafverfahren: Anforderungen an die Beweiswürdigung des Tatrichters; Abfassen der Urteilsgründe; Wiedergabe des Beweisergebnisses
 - [BGH, Beschluss vom 25.02.2015 - 4 StR 470/14](4-str-470-14.md) — Strafverfahren: Dokumentationspflicht zur Mitteilung und Protokollierung von Verständigungsgesprächen außerhalb der Hauptverhandlung
-- [BGH, Beschluss vom 25.02.2015 - 4 StR 516/14](4-str-516-14.md) — Strafverfahren wegen Betäubungsmitteldelikten: Konkurrenzverhältnis beim Zusammentreffen von täterschaftlichem Besitz von Betäubungsmitteln in nicht geringer Me
+- [BGH, Beschluss vom 25.02.2015 - 4 StR 516/14](4-str-516-14.md) — Strafverfahren wegen Betäubungsmitteldelikten: Konkurrenzverhältnis beim Zusammentreffen von täterschaftlichem Besitz von Betäubungsmitteln in nicht geringer Menge und unerlaubtem …
 - [BGH, Beschluss vom 25.02.2015 - 4 StR 573/14](4-str-573-14.md) — Unerlaubter Waffenbesitz: Konkurrenz bei gleichzeitiger Ausübung der tatsächlichen Gewalt über Waffen und Munition an verschiedenen Orten
 - [BGH, Beschluss vom 25.02.2015 - 4 StR 587/14](4-str-587-14.md) — Revision in Strafsachen: Unzureichende Mitteilung über Verständigungsgespräche mit einem Mitangeklagten
-- [BGH, Beschluss vom 24.02.2015 - 4 StR 11/15](4-str-11-15.md) — Misshandlung von Schutzbefohlenen: Verwirklichung des Tatbestandsmerkmals "Quälen" durch eine Vielzahl von Körperverletzungen; Abgrenzung von einheitlichem Tatv
+- [BGH, Beschluss vom 24.02.2015 - 4 StR 11/15](4-str-11-15.md) — Misshandlung von Schutzbefohlenen: Verwirklichung des Tatbestandsmerkmals "Quälen" durch eine Vielzahl von Körperverletzungen; Abgrenzung von einheitlichem Tatvorsatz und …
 - [BGH, Beschluss vom 24.02.2015 - 4 StR 37/15](4-str-37-15.md) — Verhängung von Jugendstrafe: Vorliegen schädlicher Neigungen bei Straffreiheit seit Tatbegehung
 - [BGH, Beschluss vom 12.02.2015 - 4 StR 391/14](4-str-391-14.md) — Rechtsstaatswidrige Verzögerung eines Strafverfahrens: Bemessung der Kompensation
 - [BGH, Urteil vom 12.02.2015 - 4 StR 420/14](4-str-420-14.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Beweiswürdigung beim Freispruch vom Vorwurf des Raubes wahlweise der Hehlerei
-- [BGH, Beschluss vom 11.02.2015 - 4 StR 498/14](4-str-498-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Dissoziale Persönlichkeitsstörung als schwere andere seelische Abartigkeit; erhebliche Verminderung der Steu
+- [BGH, Beschluss vom 11.02.2015 - 4 StR 498/14](4-str-498-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Dissoziale Persönlichkeitsstörung als schwere andere seelische Abartigkeit; erhebliche Verminderung der Steuerungsfähigkeit
 - [BGH, Beschluss vom 10.02.2015 - 4 StR 595/14](4-str-595-14.md) — Strafprozessuale Verständigung: Beruhen des Urteils auf einer verspäteten Belehrung über die Bindungswirkung einer Verständigung
 - [BGH, Urteil vom 29.01.2015 - 4 StR 424/14](4-str-424-14.md) — Anforderungen an eine exhibitionistische Handlung
 - [BGH, Urteil vom 29.01.2015 - 4 StR 433/14](4-str-433-14.md) — Mordmerkmal der Heimtücke: Ausnutzungsbewusstsein bei spontan gefasstem Tatentschluss
-- [BGH, Beschluss vom 28.01.2015 - 4 StR 514/14](4-str-514-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Urteilsgründe; Gesamtwürdigung von Täterpersönlichkeit, Gefährlichkeitsprognose und Kra
+- [BGH, Beschluss vom 28.01.2015 - 4 StR 514/14](4-str-514-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Urteilsgründe; Gesamtwürdigung von Täterpersönlichkeit, Gefährlichkeitsprognose und Krankheitsverlauf bei …
 - [BGH, Beschluss vom 28.01.2015 - 4 StR 574/14](4-str-574-14.md) — Gefährliche Körperverletzung: Freiwilligkeit des Rücktritts vom Versuch
 - [BGH, Beschluss vom 27.01.2015 - 4 StR 476/14](4-str-476-14.md) — Strafmilderung bei Beihilfe zur Untreue
-- [BGH, Beschluss vom 15.01.2015 - 4 StR 419/14](4-str-419-14.md) — Tatbestand der Bedrohung: Verknüpfung der Todesdrohung mit dem künftigen Eintritt eines weiteren Umstands; Feststehen des Nichteintritts des weiteren Umstands b
+- [BGH, Beschluss vom 15.01.2015 - 4 StR 419/14](4-str-419-14.md) — Tatbestand der Bedrohung: Verknüpfung der Todesdrohung mit dem künftigen Eintritt eines weiteren Umstands; Feststehen des Nichteintritts des weiteren Umstands bei Äußerung der …
 - [BGH, Beschluss vom 15.01.2015 - 4 StR 560/14](4-str-560-14.md) — Versuchter schwerer Diebstahl: Fehlgeschlagener Versuch; Rücktritt vom Versuch
-- [BGH, Beschluss vom 14.01.2015 - 4 StR 440/14](4-str-440-14.md) — Unerlaubtes Handeltreiben bzw. Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln: Annahme einer Bewertungseinheit; Tateinheit bei Teilidentität der A
+- [BGH, Beschluss vom 14.01.2015 - 4 StR 440/14](4-str-440-14.md) — Unerlaubtes Handeltreiben bzw. Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln: Annahme einer Bewertungseinheit; Tateinheit bei Teilidentität der …
 - [BGH, Beschluss vom 14.01.2015 - 4 StR 532/14](4-str-532-14.md) — Tateinheit zwischen Mord und Schwangerschaftsabbruch
 - [BGH, Beschluss vom 13.01.2015 - 4 StR 378/14](4-str-378-14.md) — Einschleusen von Ausländern: Vorliegen einer vorsätzlichen und rechtswidrigen Haupttat des Geschleusten als Voraussetzung der Strafbarkeit
 - [BGH, Beschluss vom 13.01.2015 - 4 StR 445/14](4-str-445-14.md) — Strafverurteilung wegen sexuellen Missbrauchs eines Kindes: Versagung der Strafaussetzung zur Bewährung

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu KiZusVKSa"
 description: "BGH-Entscheidungen zu KiZusVKSa, geordnet nach Vorschrift."
 tags: [register, navigation, kizusvksa]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

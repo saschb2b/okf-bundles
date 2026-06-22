@@ -8,13 +8,13 @@
 - [BGH, Beschluss vom 17.12.2019 - 2 StR 340/19](2-str-340-19.md) — Nachträgliche Korrektur des Rücktrittshorizonts
 - [BGH, Beschluss vom 17.12.2019 - 2 StR 419/19](2-str-419-19.md) — Beweisverwertung im Strafverfahren: Gestattung der Verwertung einer früheren polizeilichen Zeugenaussage durch einen zur Zeugnisverweigerung berechtigten Zeugen
 - [BGH, Beschluss vom 11.12.2019 - 2 StR 176/19](2-str-176-19.md) — Grundsatz der Bewertungseinheit bei der unerlaubten gewerbsmäßigen Abgabe von Betäubungsmitteln an Minderjährige
-- [BGH, Beschluss vom 11.12.2019 - 2 StR 498/19](2-str-498-19.md) — Ablehnung von Beweisanträgen im Strafverfahren: Inhaltsanforderungen an einen Beweisantrag auf Einholung eines Sachverständigengutachtens zum Zwecke der Diagnos
+- [BGH, Beschluss vom 11.12.2019 - 2 StR 498/19](2-str-498-19.md) — Ablehnung von Beweisanträgen im Strafverfahren: Inhaltsanforderungen an einen Beweisantrag auf Einholung eines Sachverständigengutachtens zum Zwecke der Diagnose einer …
 - [BGH, Beschluss vom 04.12.2019 - 2 StR 422/18](2-str-422-18.md) — Darlegung von täuschungsbedingten Fehlvorstellungen in Massenbetrugsfällen
-- [BGH, Beschluss vom 03.12.2019 - 2 StR 155/19](2-str-155-19.md) — Nebenklage im Strafverfahren: Wirksamkeit der Anschlusserklärung eines Betreuers zur Wahrnehmung der höchstpersönlichen Rechte des Betreuten als Verletzter der 
+- [BGH, Beschluss vom 03.12.2019 - 2 StR 155/19](2-str-155-19.md) — Nebenklage im Strafverfahren: Wirksamkeit der Anschlusserklärung eines Betreuers zur Wahrnehmung der höchstpersönlichen Rechte des Betreuten als Verletzter der Straftat
 - [BGH, Beschluss vom 27.11.2019 - 2 StR 609/18](2-str-609-18.md) — Schwerer Bandendiebstahl: Rücktritt vom fehlgeschlagenen Versuch; freiwillige Verhinderung der Tatvollendung bei mehreren Tatbeteiligten
-- [BGH, Beschluss vom 26.11.2019 - 2 StR 300/19](2-str-300-19.md) — Strafurteil wegen Vergewaltigung in Tateinheit mit schwerer Körperverletzung: Anforderungen an die Wiedergabe einer belastenden Zeugenaussage sowie einer wegen 
-- [BGH, Urteil vom 26.11.2019 - 2 StR 557/18](2-str-557-18.md) — 1. Eine gerichtliche Überprüfung der Frage, ob die Gewährung einer vollzugsöffnenden Maßnahme sorgfaltswidrig war, hat den der Vollzugsbehörde zustehenden Beurt
-- [BGH, Beschluss vom 26.11.2019 - 2 StR 588/18](2-str-588-18.md) — Untreue eines Rechtsanwalts durch zweckwidrige Verwendung von Mandantengeldern: Eintritt eines Vermögensnachteils bei dem Berechtigten; Handeln zum Zweck der Be
+- [BGH, Beschluss vom 26.11.2019 - 2 StR 300/19](2-str-300-19.md) — Strafurteil wegen Vergewaltigung in Tateinheit mit schwerer Körperverletzung: Anforderungen an die Wiedergabe einer belastenden Zeugenaussage sowie einer wegen Geringfügigkeit …
+- [BGH, Urteil vom 26.11.2019 - 2 StR 557/18](2-str-557-18.md) — 1. Eine gerichtliche Überprüfung der Frage, ob die Gewährung einer vollzugsöffnenden Maßnahme sorgfaltswidrig war, hat den der Vollzugsbehörde zustehenden Beurteilungsspielraum …
+- [BGH, Beschluss vom 26.11.2019 - 2 StR 588/18](2-str-588-18.md) — Untreue eines Rechtsanwalts durch zweckwidrige Verwendung von Mandantengeldern: Eintritt eines Vermögensnachteils bei dem Berechtigten; Handeln zum Zweck der Befriedigung von …
 - [BGH, Urteil vom 20.11.2019 - 2 StR 175/19](2-str-175-19.md) — Tötung der Geliebten: Beweiswürdigung zu Tatmotivation eines gekränkten Angeklagten
 - [BGH, Beschluss vom 20.11.2019 - 2 StR 467/19](2-str-467-19.md) — Beweiswürdigung im Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Würdigung sog. non-verbalen Verhaltens eines schweigenden Angeklagten
 - [BGH, Urteil vom 20.11.2019 - 2 StR 54/19](2-str-54-19.md) — Faktische bzw. wirtschaftliche Mitverfügungsmacht über den Vermögensgegenstand bei Mittäterschaft
@@ -22,13 +22,13 @@
 - [BGH, Beschluss vom 20.11.2019 - 2 StR 589/18](2-str-589-18.md) — Revision in Strafsachen: Rechtsbehelf bei vermeintlicher Verletzung des Rechts auf den gesetzlichen Richter
 - [BGH, Beschluss vom 19.11.2019 - 2 StR 378/19](2-str-378-19.md) — Versuchter Totschlag: Erforderlicher Zusammenhang zwischen Provokation und Tatbegehung zwecks Annahme eines minder schweren Falls
 - [BGH, Urteil vom 13.11.2019 - 2 StR 217/19](2-str-217-19.md) — Jugendstrafverfahren: jugendspezifische Bestimmung des Schuldgehalts; Verhängung einer Jugendstrafe trotz nicht mehr bestehenden Erziehungsbedarfs
-- [BGH, Beschluss vom 12.11.2019 - 2 StR 404/19](2-str-404-19.md) — Betäubungsmitteldelikte: Schuldumfang bei tateinheitlichem Zusammentreffen des unerlaubten Erwerbs von Betäubungsmitteln und des unerlaubten Handeltreibens mit 
+- [BGH, Beschluss vom 12.11.2019 - 2 StR 404/19](2-str-404-19.md) — Betäubungsmitteldelikte: Schuldumfang bei tateinheitlichem Zusammentreffen des unerlaubten Erwerbs von Betäubungsmitteln und des unerlaubten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 12.11.2019 - 2 StR 415/19](2-str-415-19.md) — Mord: Voraussetzungen für das Mordmerkmal der Tötung mit einem gemeingefährlichen Mittel
 - [BGH, Beschluss vom 06.11.2019 - 2 StR 246/19](2-str-246-19.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei Überscheiden mehrerer Tatausführungshandlungen
 - [BGH, Urteil vom 06.11.2019 - 2 StR 87/19](2-str-87-19.md) — Bandenmitgliedschaft bei Weiterveräußerung auf eigenes Risiko
 - [BGH, Beschluss vom 05.11.2019 - 2 StR 447/19](2-str-447-19.md) — Berücksichtigung von Einziehung bei Strafzumessung
 - [BGH, Beschluss vom 05.11.2019 - 2 StR 469/19](2-str-469-19.md) — Strafprozess: Berücksichtigung der psychischen Leiden von Kindesmissbrauchsopfern bei Strafzumessung sowie Gesamtstrafenbildung
-- [BGH, Urteil vom 23.10.2019 - 2 StR 139/19](2-str-139-19.md) — Beginn des Versuchsstadiums beim versuchten Betrug in mittelbarer Täterschaft; Abgrenzung zwischen Täterschaft und Teilnahme bei bandenmäßig begangenen Vermögen
+- [BGH, Urteil vom 23.10.2019 - 2 StR 139/19](2-str-139-19.md) — Beginn des Versuchsstadiums beim versuchten Betrug in mittelbarer Täterschaft; Abgrenzung zwischen Täterschaft und Teilnahme bei bandenmäßig begangenen Vermögensdelikten …
 - [BGH, Urteil vom 23.10.2019 - 2 StR 294/19](2-str-294-19.md) — Mitsichführen von Waffen beim Handeltreiben mit Betäubungsmitteln
 - [BGH, Beschluss vom 22.10.2019 - 2 StR 397/19](2-str-397-19.md) — Adhäsionsverfahren: Feststellungsanspruch auf Schmerzensgeldzahlung hinsichtlich wahrscheinlich entstehender weiterer Schäden
 - [BGH, Beschluss vom 22.10.2019 - 2 StR 411/19](2-str-411-19.md) — Strafzumessung: Irrtümliche Berücksichtigung einer angeblichen Vorstrafe
@@ -39,7 +39,7 @@
 - [BGH, Urteil vom 09.10.2019 - 2 StR 468/18](2-str-468-18.md) — Strafzumessungserwägungen im Strafurteil: Notwendige Feststellungen zu der Zweckbestimmung einer Ausgleichszahlung im Täter-Opfer-Ausgleich
 - [BGH, Beschluss vom 08.10.2019 - 2 StR 362/19](2-str-362-19.md) — (Anforderungen an die Darlegungen zur Schuldfähigkeit des Angeklagten)
 - [BGH, Beschluss vom 08.10.2019 - 2 StR 83/19](2-str-83-19.md) — Betrug: Vermögensschaden der Bank bei Kontoeröffnung und Garantieübernahme für Zahlungen
-- [BGH, Beschluss vom 01.10.2019 - 2 StR 108/19](2-str-108-19.md) — Unerlaubte Einfuhr und unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Anordnung der Unterbringung in einer Entziehungsanstalt; Anforde
+- [BGH, Beschluss vom 01.10.2019 - 2 StR 108/19](2-str-108-19.md) — Unerlaubte Einfuhr und unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Anordnung der Unterbringung in einer Entziehungsanstalt; Anforderungen an einen Hang
 - [BGH, Beschluss vom 01.10.2019 - 2 StR 143/19](2-str-143-19.md) — Besonders schwere Vergewaltigung: Verwenden eines gefährlichen Werkzeugs "bei der Tat"
 - [BGH, Beschluss vom 25.09.2019 - 2 StR 177/19](2-str-177-19.md) — Unmittelbar bevorstehender Angriff maßgeblich für Notwehrlage
 - [BGH, Beschluss vom 24.09.2019 - 2 ARs 229/19](2-ars-229-19.md) — Voraussetzungen einer Zuständigkeitsbestimmung durch das gemeinschaftliche obere Gericht
@@ -61,7 +61,7 @@
 - [BGH, Beschluss vom 06.08.2019 - 2 ARs 172/19](2-ars-172-19.md) — Anwendungsbereich der Verfahrensabgabe nach Jugendgerichtsgesetz
 - [BGH, Beschluss vom 31.07.2019 - 2 StR 167/19](2-str-167-19.md) — Tatertragseinziehung gegen Nebenbeteiligte: Nachweis des Herrührens des eingezogenen Geldes aus inkriminiertem Vermögen
 - [BGH, Beschluss vom 30.07.2019 - 2 StR 122/19](2-str-122-19.md) — Totschlag: Erforderliche Feststellungen zum bedingten Tötungsvorsatz
-- [BGH, Beschluss vom 30.07.2019 - 2 StR 172/19](2-str-172-19.md) — Strafurteil: Anforderungen an die Feststellungen zur Schuldfähigkeit eines zur Tatzeit alkoholisierten Angeklagten und zur Erfolgsaussicht der Entwöhnungsbehand
+- [BGH, Beschluss vom 30.07.2019 - 2 StR 172/19](2-str-172-19.md) — Strafurteil: Anforderungen an die Feststellungen zur Schuldfähigkeit eines zur Tatzeit alkoholisierten Angeklagten und zur Erfolgsaussicht der Entwöhnungsbehandlung in einer …
 - [BGH, Beschluss vom 30.07.2019 - 2 StR 93/19](2-str-93-19.md) — Betäubungsmitteldelikt: Unterbringung in einer Entziehungsanstalt; Vorliegen eines Hangs
 - [BGH, Beschluss vom 16.07.2019 - 2 StR 268/19](2-str-268-19.md) — Umfang der Einziehung der Veräußerungserlöses aus Betäubungsmittelgeschäften
 - [BGH, Beschluss vom 10.07.2019 - 2 StR 181/19](2-str-181-19.md) — Revision in Strafsachen: Rechtsmittelrücknahme und deren Widerruflichkeit bei unterschiedlichen Erklärungen mehrerer Pflichtverteidiger
@@ -96,31 +96,31 @@
 - [BGH, Urteil vom 27.03.2019 - 2 StR 382/18](2-str-382-18.md) — Schuldfähigkeit: Einsichts- und Steuerungsfähigkeit bei einer Blutalkoholkonzentration von 3 Promille
 - [BGH, Beschluss vom 27.03.2019 - 2 StR 450/18](2-str-450-18.md) — Nachträgliche Gesamtstrafenbildung: Zäsurwirkung einer erledigten Vorverurteilung
 - [BGH, Urteil vom 27.03.2019 - 2 StR 465/18](2-str-465-18.md) — Räuberische Erpressung: Konkludente Drohung; Ausnutzen der Angst des Opfers vor erneuter Gewaltanwendung
-- [BGH, Beschluss vom 27.03.2019 - 2 StR 561/18](2-str-561-18.md) — 1. Wechselt ein Tatbeteiligter Geldscheine in „kleiner“ Stückelung aus einem vorausgegangenen Betäubungsmittelgeschäft eines Tatgenossen zur Förderung dessen ne
+- [BGH, Beschluss vom 27.03.2019 - 2 StR 561/18](2-str-561-18.md) — 1. Wechselt ein Tatbeteiligter Geldscheine in „kleiner“ Stückelung aus einem vorausgegangenen Betäubungsmittelgeschäft eines Tatgenossen zur Förderung dessen neuerlichen …
 - [BGH, Beschluss vom 26.03.2019 - 2 StR 511/18](2-str-511-18.md) — (Zulässigkeit eines Antrags auf Wiedereinsetzung beim Fehlen einer Fristversäumung)
 - [BGH, Beschluss vom 20.03.2019 - 2 StR 594/18](2-str-594-18.md) — Voraussetzungen einer sukzessiven Mittäterschaft
 - [BGH, Beschluss vom 13.03.2019 - 2 StR 380/18](2-str-380-18.md) — Anforderungen an die Konkretisierung des Strafbefehlsantrags
 - [BGH, Urteil vom 13.03.2019 - 2 StR 597/18](2-str-597-18.md) — Pflicht des Tatrichters zur erschöpfenden Beweiswürdigung: Geständnis und teilweise abweichende Zeugenaussage
 - [BGH, Beschluss vom 12.03.2019 - 2 ARs 69/19](2-ars-69-19.md) — Strafverfahren: Voraussetzungen für die Übertragung der Verhandlung und Entscheidung einer Sache auf ein eigentlich nicht zuständiges Gericht
-- [BGH, Beschluss vom 12.03.2019 - 2 StR 17/19](2-str-17-19.md) — Strafzumessung: Prüfungsreihenfolge zur Strafrahmenwahl bei Vorliegen eines minder schweren Falls und eines gesetzlich vertypten Strafmilderungsgrundes beim Tot
+- [BGH, Beschluss vom 12.03.2019 - 2 StR 17/19](2-str-17-19.md) — Strafzumessung: Prüfungsreihenfolge zur Strafrahmenwahl bei Vorliegen eines minder schweren Falls und eines gesetzlich vertypten Strafmilderungsgrundes beim Totschlag
 - [BGH, Beschluss vom 12.03.2019 - 2 StR 244/18](2-str-244-18.md) — (Verwertbarkeit heimlich aufgezeichneter Gespräche über eine Straftat)
 - [BGH, Beschluss vom 12.03.2019 - 2 StR 595/18](2-str-595-18.md) — Entschädigung des Verletzten: Anforderungen an den Adhäsionsantrag
 - [BGH, Beschluss vom 27.02.2019 - 2 ARs 8/19](2-ars-8-19.md) — Strafvollstreckungssache: Zuständigkeit der Strafvollstreckungskammer für eine nachträgliche Entscheidung zur Bewährung
-- [BGH, Beschluss vom 27.02.2019 - 2 StR 558/18](2-str-558-18.md) — Strafverfahren: Einbeziehung einer Verfahrensverständigung in die Beweiswürdigung einer entscheidungserheblichen Aussage; Belastung eines Dritten durch Wechsel 
+- [BGH, Beschluss vom 27.02.2019 - 2 StR 558/18](2-str-558-18.md) — Strafverfahren: Einbeziehung einer Verfahrensverständigung in die Beweiswürdigung einer entscheidungserheblichen Aussage; Belastung eines Dritten durch Wechsel der Einlassung im …
 - [BGH, Beschluss vom 26.02.2019 - 2 StR 358/17](2-str-358-17.md) — Beihilfe zum Betrug: Konkurrenzverhältnis beim uneigentlichen Organisationsdelikt
 - [BGH, Beschluss vom 19.02.2019 - 2 ARs 35/19](2-ars-35-19.md) — Jugendstrafverfahren: Abgabe des Verfahrens bei Aufenthaltswechsel
 - [BGH, Beschluss vom 19.02.2019 - 2 StR 599/18](2-str-599-18.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Begründung der Therapierbarkeit
 - [BGH, Beschluss vom 19.02.2019 - 2 StR 8/19](2-str-8-19.md) — Einziehung des Wertes des Erlangten: Anrechnung einer Vermögenseinziehung im Ausland
-- [BGH, Urteil vom 13.02.2019 - 2 StR 301/18](2-str-301-18.md) — Ein Täter nutzt ein Überraschungsmoment im Sinne des § 177 Abs. 2 Nr. 3 StGB aus, wenn er die äußeren Umstände erkennt, aus denen sich ergibt, dass sich das Opf
-- [BGH, Beschluss vom 13.02.2019 - 2 StR 485/18](2-str-485-18.md) — 1. Ein im Ermittlungsverfahren im Auftrag der Polizei tätig gewordener Übersetzer kann nur dann gemäß § 74 StPO als befangen abgelehnt werden, wenn er in der Ha
+- [BGH, Urteil vom 13.02.2019 - 2 StR 301/18](2-str-301-18.md) — Ein Täter nutzt ein Überraschungsmoment im Sinne des § 177 Abs. 2 Nr. 3 StGB aus, wenn er die äußeren Umstände erkennt, aus denen sich ergibt, dass sich das Opfer keines sexuellen …
+- [BGH, Beschluss vom 13.02.2019 - 2 StR 485/18](2-str-485-18.md) — 1. Ein im Ermittlungsverfahren im Auftrag der Polizei tätig gewordener Übersetzer kann nur dann gemäß § 74 StPO als befangen abgelehnt werden, wenn er in der Hauptverhandlung vom …
 - [BGH, Beschluss vom 05.02.2019 - 2 StR 505/18](2-str-505-18.md) — Strafurteil: Anforderungen an die Darlegung einer Beeinträchtigung der Schuldfähigkeit zur Tatzeit bei psychischer Störung
 - [BGH, Beschluss vom 30.01.2019 - 2 ARs 312/18](2-ars-312-18.md) — Strafvollstreckungssache: Örtlich zuständige Strafvollstreckungskammer für die Anrechnung von Maßregelvollzugszeiten auf verfahrensfremde Freiheitsstrafen
-- [BGH, Urteil vom 30.01.2019 - 2 StR 325/17](2-str-325-17.md) — Die Verabreichung von Morphin zur Bekämpfung von Vernichtungsschmerzen bei einem Sterbenden durch eine Pflegekraft kann auch dann durch erklärte oder mutmaßlich
+- [BGH, Urteil vom 30.01.2019 - 2 StR 325/17](2-str-325-17.md) — Die Verabreichung von Morphin zur Bekämpfung von Vernichtungsschmerzen bei einem Sterbenden durch eine Pflegekraft kann auch dann durch erklärte oder mutmaßliche Einwilligung …
 - [BGH, Urteil vom 30.01.2019 - 2 StR 500/18](2-str-500-18.md) — Beweiswürdigung im Strafverfahren: Einführung von Feststellungen rechtskräftiger Urteile in die neue Hauptverhandlung
 - [BGH, Beschluss vom 29.01.2019 - 2 StR 490/18](2-str-490-18.md) — Sexueller Missbrauch von Kindern: Erheblichkeit sexualbezogener Handlungen
 - [BGH, Beschluss vom 23.01.2019 - 2 StR 489/18](2-str-489-18.md) — (Subsidiarität des Tatbestands des Einwirkens auf Kinder mit pornographischen Schriften)
 - [BGH, Beschluss vom 23.01.2019 - 2 StR 523/18](2-str-523-18.md) — (Anforderungen an die Gefährlichkeitsprognose bei einer Unterbringung nach § 63 StGB)
-- [BGH, Beschluss vom 22.01.2019 - 2 StR 212/18](2-str-212-18.md) — Konkurrenzverhältnisse bei Betäubungsmitteldelikten: Aufzucht von Marihuanapflanzen zum Zwecke des späteren gewinnbringenden Absatzes und unerlaubtes Handeltrei
+- [BGH, Beschluss vom 22.01.2019 - 2 StR 212/18](2-str-212-18.md) — Konkurrenzverhältnisse bei Betäubungsmitteldelikten: Aufzucht von Marihuanapflanzen zum Zwecke des späteren gewinnbringenden Absatzes und unerlaubtes Handeltreiben
 - [BGH, Beschluss vom 22.01.2019 - 2 StR 413/18](2-str-413-18.md) — Revisionsbegründung in Strafsachen: Anforderungen an die Begründung der Verfahrensrüge einer Überschreitung der Urteilsabsetzungsfrist
 - [BGH, Beschluss vom 22.01.2019 - 2 StR 521/18](2-str-521-18.md) — Betäubungsmitteldelikt: Voraussetzungen für die Einziehung eines Geldbetrages als Tatertrag; Unterbringung in einer Entziehungsanstalt
 - [BGH, Urteil vom 16.01.2019 - 2 StR 312/18](2-str-312-18.md) — Rücktritt vom Versuch eines Tötungsdelikts: Korrektur des Rücktrittshorizonts; Abgrenzung zwischen beendetem und unbeendetem Versuch

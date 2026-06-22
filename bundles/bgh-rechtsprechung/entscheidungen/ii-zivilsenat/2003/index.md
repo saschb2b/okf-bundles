@@ -7,7 +7,7 @@
 - [BGH, Urteil vom 24.11.2003 - II ZR 127/01](ii-zr-127-01.md) — BGH, Urteil vom 24.11.2003 - II ZR 127/01
 - [BGH, Beschluss vom 22.10.2003 - II ZR 140/02](ii-zr-140-02.md) — BGH, Beschluss vom 22.10.2003 - II ZR 140/02
 - [BGH, Beschluss vom 20.10.2003 - II ZB 31/02](ii-zb-31-02.md) — BGH, Beschluss vom 20.10.2003 - II ZB 31/02
-- [BGH, Urteil vom 22.09.2003 - II ZR 229/02](ii-zr-229-02.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja GmbHG §§ 30, 31 Abs. 2, 3 a) Die Erstattung von gemäß § 30 GmbHG verbotenen Auszahlungen ist i.S. von § 31 Abs. 2, 3 Gmb
+- [BGH, Urteil vom 22.09.2003 - II ZR 229/02](ii-zr-229-02.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja GmbHG §§ 30, 31 Abs. 2, 3 a) Die Erstattung von gemäß § 30 GmbHG verbotenen Auszahlungen ist i.S. von § 31 Abs. 2, 3 GmbHG zur …
 - [BGH, Beschluss vom 21.07.2003 - II ZB 17/01](ii-zb-17-01.md) — BGH, Beschluss vom 21.07.2003 - II ZB 17/01
 - [BGH, Urteil vom 21.07.2003 - II ZR 109/02](ii-zr-109-02.md) — Tatbestand:
 - [BGH, Urteil vom 23.06.2003 - II ZR 305/01](ii-zr-305-01.md) — Tatbestand:

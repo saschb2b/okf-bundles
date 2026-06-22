@@ -19,7 +19,7 @@
 - [BGH, Beschluss vom 24.07.2001 - 4 StR 268/01](4-str-268-01.md) — Unterbringung in einem psychiatrischen Krankenhaus
 - [BGH, Urteil vom 12.07.2001 - 4 StR 104/01](4-str-104-01.md) — räuberischen Angriffs auf Kraftfahrer u.a.
 - [BGH, Urteil vom 12.07.2001 - 4 StR 550/00](4-str-550-00.md) — Bestechlichkeit
-- [BGH, Entscheidung vom 10.07.2001 - 4 StR 175/01](4-str-175-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 10.07.2001 - 4 StR 175/01](4-str-175-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 10.07.2001 - 4 StR 202/01](4-str-202-01.md) — Betruges
 - [BGH, Beschluss vom 07.06.2001 - 4 StR 149/01](4-str-149-01.md) — fahrlässiger Tötung u.a.
 - [BGH, Beschluss vom 07.06.2001 - 4 StR 156/01](4-str-156-01.md) — schweren Raubes

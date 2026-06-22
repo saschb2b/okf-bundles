@@ -10,7 +10,7 @@
 - [BGH, Beschluss vom 24.10.2022 - AnwSt (B) 2/22](anwst-b-2-22.md) — BGH, Beschluss AnwSt (B) 2/22
 - [BGH, Beschluss vom 24.10.2022 - AnwZ (Brfg) 20/22](anwz-brfg-20-22.md) — BGH, Beschluss AnwZ (Brfg) 20/22
 - [BGH, Urteil vom 24.10.2022 - AnwZ (Brfg) 33/21](anwz-brfg-33-21.md) — Verwaltungsrechtliche Anwaltssache: Zulassung eines Verbands-Geschäftsführers als Syndikusrechtsanwalt
-- [BGH, Beschluss vom 14.10.2022 - AnwZ (Brfg) 17/22](anwz-brfg-17-22.md) — Widerruf der Rechtsanwaltszulassung: Zulassungsgrund für die Berufung; tatsächliche Vermutung für einen Vermögensverfall nach Insolvenzeröffnung; Beurteilungsze
+- [BGH, Beschluss vom 14.10.2022 - AnwZ (Brfg) 17/22](anwz-brfg-17-22.md) — Widerruf der Rechtsanwaltszulassung: Zulassungsgrund für die Berufung; tatsächliche Vermutung für einen Vermögensverfall nach Insolvenzeröffnung; Beurteilungszeitpunkt und …
 - [BGH, Beschluss vom 10.10.2022 - AnwSt (B) 3/22](anwst-b-3-22.md) — BGH, Beschluss AnwSt (B) 3/22
 - [BGH, Beschluss vom 10.10.2022 - AnwSt (R) 5/21](anwst-r-5-21.md) — Anwaltsgerichtliches Verfahren zur Ahndung anwaltlicher Pflichtverletzungen: Entschädigungspflicht bei Aufhebung eines vorläufigen Berufsverbots
 - [BGH, Beschluss vom 10.10.2022 - AnwZ (Brfg) 18/22](anwz-brfg-18-22.md) — BGH, Beschluss AnwZ (Brfg) 18/22
@@ -18,13 +18,13 @@
 - [BGH, Beschluss vom 28.09.2022 - AnwZ (Brfg) 11/22](anwz-brfg-11-22.md) — BGH, Beschluss AnwZ (Brfg) 11/22
 - [BGH, Beschluss vom 12.09.2022 - AnwSt (B) 1/22](anwst-b-1-22.md) — BGH, Beschluss AnwSt (B) 1/22
 - [BGH, Beschluss vom 12.09.2022 - AnwZ (Brfg) 10/22](anwz-brfg-10-22.md) — Antrag auf Terminsverlegung wegen Sorge vor einer Corona-Erkrankung; Ablehnung des Vorsitzenden; Rücknahme der Zulassung zur Rechtsanwaltschaft
-- [BGH, Urteil vom 12.09.2022 - AnwZ (Brfg) 41/21](anwz-brfg-41-21.md) — 1. Ein durch Amtsniederlegung nach § 69 Abs. 1 Nr. 2 BRAO als Mitglied des Vorstands ausgeschiedener Rechtsanwalt kann nicht im Wege der Nachwahl gemäß § 69 Abs
+- [BGH, Urteil vom 12.09.2022 - AnwZ (Brfg) 41/21](anwz-brfg-41-21.md) — 1. Ein durch Amtsniederlegung nach § 69 Abs. 1 Nr. 2 BRAO als Mitglied des Vorstands ausgeschiedener Rechtsanwalt kann nicht im Wege der Nachwahl gemäß § 69 Abs. 3 Satz 1 BRAO für …
 - [BGH, Beschluss vom 25.08.2022 - AnwZ (Brfg) 12/22](anwz-brfg-12-22.md) — BGH, Beschluss AnwZ (Brfg) 12/22
 - [BGH, Urteil vom 25.08.2022 - AnwZ (Brfg) 3/22](anwz-brfg-3-22.md) — Verwaltungsrechtliche Anwaltssache: Zulassung als Syndikusrechtsanwalt bei überwiegender Tätigkeit als Schlichter für eine Schlichtungsstelle
 - [BGH, Beschluss vom 20.06.2022 - AnwZ (Brfg) 26/21](anwz-brfg-26-21.md) — BGH, Beschluss AnwZ (Brfg) 26/21
-- [BGH, Beschluss vom 03.06.2022 - AnwZ (Brfg) 40/21](anwz-brfg-40-21.md) — Verwaltungsrechtliche Anwaltssache: Feststellungsinteresse bei einer Fortsetzungsfeststellungsklage nach Ablehnung der Abberufung eines Kanzleiabwicklers und Wi
+- [BGH, Beschluss vom 03.06.2022 - AnwZ (Brfg) 40/21](anwz-brfg-40-21.md) — Verwaltungsrechtliche Anwaltssache: Feststellungsinteresse bei einer Fortsetzungsfeststellungsklage nach Ablehnung der Abberufung eines Kanzleiabwicklers und Widerruf der …
 - [BGH, Beschluss vom 30.05.2022 - AnwZ (Brfg) 47/21](anwz-brfg-47-21.md) — Verwaltungsrechtliche Anwaltssache: Elektronische Wahl der Mitglieder der Satzungsversammlung bei der Bundesrechtsanwaltskammer
-- [BGH, Urteil vom 13.05.2022 - AnwZ (Brfg) 21/21](anwz-brfg-21-21.md) — Widerruf der Syndikusrechtsanwaltszulassung: Bindungswirkung eines Zulassungsbescheides für die Befreiung von der Versicherungspflicht in der gesetzlichen Rente
+- [BGH, Urteil vom 13.05.2022 - AnwZ (Brfg) 21/21](anwz-brfg-21-21.md) — Widerruf der Syndikusrechtsanwaltszulassung: Bindungswirkung eines Zulassungsbescheides für die Befreiung von der Versicherungspflicht in der gesetzlichen Rentenversicherung
 - [BGH, Urteil vom 13.05.2022 - AnwZ (Brfg) 46/21](anwz-brfg-46-21.md) — Zulassung als Syndikusrechtsanwalt: Tätigkeit als "Case Manager" für die juristische Betreuung von Schiedsverfahren zwischen dritten Schiedsparteien
 - [BGH, Beschluss vom 19.04.2022 - AnwZ (Brfg) 1/22](anwz-brfg-1-22.md) — Verleihung einer Fachanwaltsbezeichnung: Anforderungen an eine persönliche Fallbearbeitung
 - [BGH, Beschluss vom 19.04.2022 - AnwZ (Brfg) 39/21](anwz-brfg-39-21.md) — Widerruf der Zulassung zur Rechtsanwaltschaft: Vermögensverfall des Rechtsanwalts; Ablauf der Jahresfrist bezüglich der Eintragung im Schuldnerverzeichnis

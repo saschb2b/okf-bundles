@@ -2,13 +2,13 @@
 
 10 Entscheidung(en).
 
-- [BGH, Beschluss vom 15.11.2010 - NotZ 1/10](notz-1-10.md) — Die erfolgreiche Teilnahme an einem freiwilligen Vorbereitungskurs beruflicher Organisationen im Sinne des § 6 Abs. 3 Satz 2 BNotO setzt neben dem Bestehen der 
-- [BGH, Beschluss vom 15.11.2010 - NotZ 4/10](notz-4-10.md) — 1. Die Pflicht der Landesjustizverwaltung, Notare nach den Bedürfnissen einer geordneten Rechtspflege zu bestellen, besteht allein der Allgemeinheit gegenüber; 
-- [BGH, Beschluss vom 15.11.2010 - NotZ 6/10](notz-6-10.md) — Ein Notar kann durch seine Art der Wirtschaftsführung die Interessen der Rechtsuchenden gefährden, wenn er zwecks Erlangung einer Restschuldbefreiung einen Inso
-- [BGH, Beschluss vom 08.07.2010 - NotZ 5/10](notz-5-10.md) — Gegen einen Beschluss des Oberlandesgerichts im Verfahren des vorläufigen Rechtsschutzes, der in einer verwaltungsrechtlichen Notarsache ergeht, ist die Beschwe
+- [BGH, Beschluss vom 15.11.2010 - NotZ 1/10](notz-1-10.md) — Die erfolgreiche Teilnahme an einem freiwilligen Vorbereitungskurs beruflicher Organisationen im Sinne des § 6 Abs. 3 Satz 2 BNotO setzt neben dem Bestehen der sich an die …
+- [BGH, Beschluss vom 15.11.2010 - NotZ 4/10](notz-4-10.md) — 1. Die Pflicht der Landesjustizverwaltung, Notare nach den Bedürfnissen einer geordneten Rechtspflege zu bestellen, besteht allein der Allgemeinheit gegenüber; der einzelne …
+- [BGH, Beschluss vom 15.11.2010 - NotZ 6/10](notz-6-10.md) — Ein Notar kann durch seine Art der Wirtschaftsführung die Interessen der Rechtsuchenden gefährden, wenn er zwecks Erlangung einer Restschuldbefreiung einen …
+- [BGH, Beschluss vom 08.07.2010 - NotZ 5/10](notz-5-10.md) — Gegen einen Beschluss des Oberlandesgerichts im Verfahren des vorläufigen Rechtsschutzes, der in einer verwaltungsrechtlichen Notarsache ergeht, ist die Beschwerde an den …
 - [BGH, Beschluss vom 07.06.2010 - NotZ 3/10](notz-3-10.md) — Zur Verpflichtung des Amtsnachfolgers eines Notars, dessen Akten zu verwahren .
-- [BGH, Beschluss vom 07.06.2010 - NotZ 9/09](notz-9-09.md) — 1. Die Ländernotarkasse kann die Einkommensergänzung durch Satzung auch für in der Vergangenheit liegende Zeiträume absenken, sofern nicht die Grenzen des verfa
+- [BGH, Beschluss vom 07.06.2010 - NotZ 9/09](notz-9-09.md) — 1. Die Ländernotarkasse kann die Einkommensergänzung durch Satzung auch für in der Vergangenheit liegende Zeiträume absenken, sofern nicht die Grenzen des verfassungsrechtlich …
 - [BGH, Beschluss vom 22.03.2010 - NotZ 10/09](notz-10-09.md) — Bestellung zum Notar: Anforderungen an die persönliche Eignung des Bewerbers
 - [BGH, Beschluss vom 22.03.2010 - NotZ 11/09](notz-11-09.md) — Organisationsermessen der Landesjustizverwaltung bei der Bestellung von Notaren: Subjektives Recht des Bewerbers auf fehlerfreie Ermessensausübung
-- [BGH, Beschluss vom 22.03.2010 - NotZ 16/09](notz-16-09.md) — 1. Die Regelung in §§ 47 Nr. 1, 48a BNotO, wonach das Amt des Notars mit Erreichen der Altersgrenze von 70 Jahren erlischt, ist mit dem Grundgesetz vereinbar . 
+- [BGH, Beschluss vom 22.03.2010 - NotZ 16/09](notz-16-09.md) — 1. Die Regelung in §§ 47 Nr. 1, 48a BNotO, wonach das Amt des Notars mit Erreichen der Altersgrenze von 70 Jahren erlischt, ist mit dem Grundgesetz vereinbar . 2. Sie verstößt …
 - [BGH, Beschluss vom 22.03.2010 - NotZ 21/09](notz-21-09.md) — Persönliche Eignung des Notarbewerbers: Begehung von Straftaten während seiner Tätigkeit als Notarvertreter

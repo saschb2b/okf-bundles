@@ -2,8 +2,8 @@
 
 5 Entscheidung(en).
 
-- [BGH, Beschluss vom 02.12.2015 - RiZ (R) 1/15](riz-r-1-15.md) — Besorgnis der Befangenheit im dienstgerichtlichen Verfahren: Persönliche Beziehung des Richters zum Präsidenten des die angefochtene dienstaufsichtsrechtliche M
+- [BGH, Beschluss vom 02.12.2015 - RiZ (R) 1/15](riz-r-1-15.md) — Besorgnis der Befangenheit im dienstgerichtlichen Verfahren: Persönliche Beziehung des Richters zum Präsidenten des die angefochtene dienstaufsichtsrechtliche Maßnahme erlassenden …
 - [BGH, Beschluss vom 02.12.2015 - RiZ (R) 3/15](riz-r-3-15.md) — BGH, Beschluss RiZ (R) 3/15
-- [BGH, Urteil vom 04.03.2015 - RiZ (R) 3/14](riz-r-3-14.md) — Die nach §§ 83, 66 Abs. 1 Satz 1 DRiG angeordnete sinngemäße Geltung der Vorschriften der Verwaltungsgerichtsordnung für das Prüfungsverfahren (§ 62 Abs. 1 Nr. 
-- [BGH, Urteil vom 04.03.2015 - RiZ (R) 4/14](riz-r-4-14.md) — Eine Maßnahme, die erst die Grundlage für die dienstliche Beurteilung eines Richters schaffen oder erweitern soll und einen konkreten Bezug zur rechtsprechenden
+- [BGH, Urteil vom 04.03.2015 - RiZ (R) 3/14](riz-r-3-14.md) — Die nach §§ 83, 66 Abs. 1 Satz 1 DRiG angeordnete sinngemäße Geltung der Vorschriften der Verwaltungsgerichtsordnung für das Prüfungsverfahren (§ 62 Abs. 1 Nr. 3 und 4 DRiG) …
+- [BGH, Urteil vom 04.03.2015 - RiZ (R) 4/14](riz-r-4-14.md) — Eine Maßnahme, die erst die Grundlage für die dienstliche Beurteilung eines Richters schaffen oder erweitern soll und einen konkreten Bezug zur rechtsprechenden Tätigkeit des …
 - [BGH, Urteil vom 04.03.2015 - RiZ (R) 5/14](riz-r-5-14.md) — Zu den Voraussetzungen einer Versetzung in den Ruhestand wegen Dienstunfähigkeit ohne Zustimmung des Richters nach dem Landesrichtergesetz Sachsen-Anhalt.

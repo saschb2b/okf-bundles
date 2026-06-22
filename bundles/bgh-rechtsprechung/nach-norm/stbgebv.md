@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu StBGebV"
 description: "BGH-Entscheidungen zu StBGebV, geordnet nach Vorschrift."
 tags: [register, navigation, stbgebv]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

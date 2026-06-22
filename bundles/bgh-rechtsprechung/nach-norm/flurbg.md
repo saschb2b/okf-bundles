@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu FlurbG"
 description: "BGH-Entscheidungen zu FlurbG, geordnet nach Vorschrift."
 tags: [register, navigation, flurbg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

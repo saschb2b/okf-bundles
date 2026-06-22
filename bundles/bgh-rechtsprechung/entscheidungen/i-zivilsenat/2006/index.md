@@ -5,7 +5,7 @@
 - [BGH, Beschluss vom 14.12.2006 - I ZB 16/06](i-zb-16-06.md) — BGH, Beschluss vom 14.12.2006 - I ZB 16/06
 - [BGH, Beschluss vom 12.12.2006 - I ZB 83/06](i-zb-83-06.md) — BGH, Beschluss vom 12.12.2006 - I ZB 83/06
 - [BGH, Urteil vom 07.12.2006 - I ZR 166/03](i-zr-166-03.md) — Tatbestand:
-- [BGH, Entscheidung vom 16.11.2006 - I ZR 191/03](i-zr-191-03.md) — s Der Leitsatz des Urteils vom 16. November 2006 - I ZR 191/03 - wird dahingehend berichtigt, dass es bei den angeführten Vorschriften statt "ZPO … § 314 Abs. 1
+- [BGH, Entscheidung vom 16.11.2006 - I ZR 191/03](i-zr-191-03.md) — s Der Leitsatz des Urteils vom 16. November 2006 - I ZR 191/03 - wird dahingehend berichtigt, dass es bei den angeführten Vorschriften statt "ZPO … § 314 Abs. 1 Nr. 4" richtig …
 - [BGH, Beschluss vom 09.11.2006 - I ZB 28/06](i-zb-28-06.md) — BGH, Beschluss vom 09.11.2006 - I ZB 28/06
 - [BGH, Urteil vom 26.10.2006 - I ZR 37/04](i-zr-37-04.md) — BGH, Urteil vom 26.10.2006 - I ZR 37/04
 - [BGH, Beschluss vom 24.10.2006 - I ZR 5/06](i-zr-5-06.md) — BGH, Beschluss vom 24.10.2006 - I ZR 5/06

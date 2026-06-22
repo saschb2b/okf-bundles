@@ -3,7 +3,7 @@
 217 Entscheidung(en).
 
 - [BGH, Beschluss vom 14.12.2023 - 6 StR 472/23](6-str-472-23.md) — BGH, Beschluss 6 StR 472/23
-- [BGH, Urteil vom 13.12.2023 - 6 StR 142/23](6-str-142-23.md) — Sicherungsverfahren: Prüfung der Geeignetheit der in Betracht kommenden Unterbringungsmöglichkeiten eines psychisch kranken und betäubungsmittelabhängigen Täter
+- [BGH, Urteil vom 13.12.2023 - 6 StR 142/23](6-str-142-23.md) — Sicherungsverfahren: Prüfung der Geeignetheit der in Betracht kommenden Unterbringungsmöglichkeiten eines psychisch kranken und betäubungsmittelabhängigen Täters
 - [BGH, Beschluss vom 13.12.2023 - 6 StR 531/23](6-str-531-23.md) — Unterbringung in einer Entziehungsanstalt: Erörterung in den Urteilsgründen bei ersichtlich fehlendem Therapieerfolg
 - [BGH, Beschluss vom 12.12.2023 - 6 StR 111/23](6-str-111-23.md) — Untreue: Vermögensbetreuungspflicht des Leiters der Abteilung Rechnungswesen eines Abwasserzweckverbands
 - [BGH, Beschluss vom 12.12.2023 - 6 StR 157/23](6-str-157-23.md) — BGH, Beschluss 6 StR 157/23
@@ -12,7 +12,7 @@
 - [BGH, Beschluss vom 12.12.2023 - 6 StR 427/23](6-str-427-23.md) — BGH, Beschluss 6 StR 427/23
 - [BGH, Beschluss vom 12.12.2023 - 6 StR 431/23](6-str-431-23.md) — BGH, Beschluss 6 StR 431/23
 - [BGH, Beschluss vom 30.11.2023 - 6 StR 476/23](6-str-476-23.md) — BGH, Beschluss 6 StR 476/23
-- [BGH, Urteil vom 29.11.2023 - 6 StR 179/23](6-str-179-23.md) — 1. Die Verabredung zur Anstiftung zu einem Verbrechen (§ 30 Abs. 2 Variante 3 Alt. 2 StGB) setzt eine vom ernstlichen Willen getragene Einigung von mindestens z
+- [BGH, Urteil vom 29.11.2023 - 6 StR 179/23](6-str-179-23.md) — 1. Die Verabredung zur Anstiftung zu einem Verbrechen (§ 30 Abs. 2 Variante 3 Alt. 2 StGB) setzt eine vom ernstlichen Willen getragene Einigung von mindestens zwei Personen …
 - [BGH, Beschluss vom 29.11.2023 - 6 StR 191/23](6-str-191-23.md) — Zur Zueignung im Sinne des § 246 Abs. 1 StGB.
 - [BGH, Beschluss vom 29.11.2023 - 6 StR 291/23](6-str-291-23.md) — BGH, Beschluss 6 StR 291/23
 - [BGH, Beschluss vom 29.11.2023 - 6 StR 520/23](6-str-520-23.md) — BGH, Beschluss 6 StR 520/23
@@ -35,11 +35,11 @@
 - [BGH, Beschluss vom 15.11.2023 - 6 StR 508/23](6-str-508-23.md) — BGH, Beschluss 6 StR 508/23
 - [BGH, Beschluss vom 14.11.2023 - 6 StR 345/23](6-str-345-23.md) — Betäubungsmittelrecht: Strafmilderung bei Aufklärungserfolg; Verfahrensvoraussetzungen der Anklageerhebung und des Eröffnungsbeschlusses
 - [BGH, Beschluss vom 14.11.2023 - 6 StR 346/23](6-str-346-23.md) — Anforderungen an Feststellung einer Substanzkonsumstörung und deren überwiegende Ursächlichkeit für begangene Straftaten
-- [BGH, Beschluss vom 14.11.2023 - 6 StR 449/23](6-str-449-23.md) — 1. Bandenmäßig im Sinne von § 184b Abs. 2 Var. 2 bzw. § 184c Abs. 2 Var. 2 StGB handelt, wer einem zum Zwecke des Austauschs kinder- und jugendpornographischer 
+- [BGH, Beschluss vom 14.11.2023 - 6 StR 449/23](6-str-449-23.md) — 1. Bandenmäßig im Sinne von § 184b Abs. 2 Var. 2 bzw. § 184c Abs. 2 Var. 2 StGB handelt, wer einem zum Zwecke des Austauschs kinder- und jugendpornographischer Inhalte (§ 184b …
 - [BGH, Beschluss vom 14.11.2023 - 6 StR 484/23](6-str-484-23.md) — BGH, Beschluss 6 StR 484/23
 - [BGH, Beschluss vom 14.11.2023 - 6 StR 495/23](6-str-495-23.md) — Antragsberechtigt im Adhäsionsverfahren ist auch, wer einen fremden Anspruch im eigenen Namen im Wege sogenannter gewillkürter Prozessstandschaft geltend macht.
 - [BGH, Beschluss vom 14.11.2023 - 6 StR 505/23](6-str-505-23.md) — BGH, Beschluss 6 StR 505/23
-- [BGH, Beschluss vom 02.11.2023 - 6 StR 128/23](6-str-128-23.md) — Auch nach Wegfall des § 217 StGB a.F. beginnt bei regulärem Verlauf die Geburt und damit der Anwendungsbereich der §§ 211 ff. StGB mit dem Einsetzen der Eröffnu
+- [BGH, Beschluss vom 02.11.2023 - 6 StR 128/23](6-str-128-23.md) — Auch nach Wegfall des § 217 StGB a.F. beginnt bei regulärem Verlauf die Geburt und damit der Anwendungsbereich der §§ 211 ff. StGB mit dem Einsetzen der Eröffnungswehen.
 - [BGH, Urteil vom 02.11.2023 - 6 StR 160/23](6-str-160-23.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei Besitz mehrerer Handelsmengen und Marihuana zum Eigenkonsum
 - [BGH, Beschluss vom 02.11.2023 - 6 StR 316/23](6-str-316-23.md) — BGH, Beschluss 6 StR 316/23
 - [BGH, Beschluss vom 02.11.2023 - 6 StR 437/23](6-str-437-23.md) — Beweiswürdigung zum Rücktritt vom Vorwurf des versuchten Mordes; Darlegung des Rettungswillens in Urteilsgründen
@@ -58,7 +58,7 @@
 - [BGH, Urteil vom 05.10.2023 - 6 StR 299/22](6-str-299-22.md) — Strafmildernde Berücksichtigung von Umständen bei der Untreue eines Beamten
 - [BGH, Beschluss vom 05.10.2023 - 6 StR 411/23](6-str-411-23.md) — BGH, Beschluss 6 StR 411/23
 - [BGH, Beschluss vom 04.10.2023 - 6 StR 114/23](6-str-114-23.md) — BGH, Beschluss 6 StR 114/23
-- [BGH, Urteil vom 04.10.2023 - 6 StR 258/23](6-str-258-23.md) — Trägt der Zahlungsdienstleister das Ausfallsrisiko für im elektronischen Lastschriftverfahren entstehende Rücklastschriften, dann ist bereits mit Abschluss des 
+- [BGH, Urteil vom 04.10.2023 - 6 StR 258/23](6-str-258-23.md) — Trägt der Zahlungsdienstleister das Ausfallsrisiko für im elektronischen Lastschriftverfahren entstehende Rücklastschriften, dann ist bereits mit Abschluss des Vertrages über die …
 - [BGH, Beschluss vom 04.10.2023 - 6 StR 311/23](6-str-311-23.md) — Unerlaubter Besitz und unerlaubtes Führen einer Schusswaffe: Konkurrenzverhältnis
 - [BGH, Beschluss vom 04.10.2023 - 6 StR 339/23](6-str-339-23.md) — BGH, Beschluss 6 StR 339/23
 - [BGH, Beschluss vom 04.10.2023 - 6 StR 387/23](6-str-387-23.md) — BGH, Beschluss 6 StR 387/23
@@ -72,14 +72,14 @@
 - [BGH, Urteil vom 06.09.2023 - 6 StR 107/23](6-str-107-23.md) — Bandenmäßiger Anbau von Betäubungsmitteln in nicht geringer Menge: Begriff des Anbaus; Abgrenzung zur Beihilfe
 - [BGH, Beschluss vom 06.09.2023 - 6 StR 378/23](6-str-378-23.md) — BGH, Beschluss 6 StR 378/23
 - [BGH, Beschluss vom 05.09.2023 - 6 StR 235/23](6-str-235-23.md) — BGH, Beschluss 6 StR 235/23
-- [BGH, Beschluss vom 05.09.2023 - 6 StR 360/23](6-str-360-23.md) — Sicherungsverfahren mit Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Feststellung der Schuldunfähigkeit des Beschuldigten wegen para
+- [BGH, Beschluss vom 05.09.2023 - 6 StR 360/23](6-str-360-23.md) — Sicherungsverfahren mit Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Feststellung der Schuldunfähigkeit des Beschuldigten wegen paranoider Schizophrenie
 - [BGH, Beschluss vom 05.09.2023 - 6 StR 380/23](6-str-380-23.md) — BGH, Beschluss 6 StR 380/23
 - [BGH, Beschluss vom 24.08.2023 - 6 StR 283/23](6-str-283-23.md) — BGH, Beschluss 6 StR 283/23
 - [BGH, Beschluss vom 23.08.2023 - 6 StR 256/22](6-str-256-22.md) — BGH, Beschluss 6 StR 256/22
 - [BGH, Beschluss vom 22.08.2023 - 6 StR 230/23](6-str-230-23.md) — Absehen von der Einziehung durch das Revisionsgericht: Verfahrensökonomische Gründe
 - [BGH, Beschluss vom 22.08.2023 - 6 StR 285/23](6-str-285-23.md) — BGH, Beschluss 6 StR 285/23
 - [BGH, Beschluss vom 22.08.2023 - 6 StR 334/23](6-str-334-23.md) — BGH, Beschluss 6 StR 334/23
-- [BGH, Beschluss vom 22.08.2023 - 6 StR 359/23](6-str-359-23.md) — Adhäsionsverfahren: Voraussetzung des für die Feststellung der Ersatzpflicht des Angeklagten für alle zukünftigen immateriellen und materiellen Schäden erforder
+- [BGH, Beschluss vom 22.08.2023 - 6 StR 359/23](6-str-359-23.md) — Adhäsionsverfahren: Voraussetzung des für die Feststellung der Ersatzpflicht des Angeklagten für alle zukünftigen immateriellen und materiellen Schäden erforderlichen …
 - [BGH, Beschluss vom 09.08.2023 - 6 StR 182/23](6-str-182-23.md) — Unterscheidung bei Strafbarkeit wegen Widerstands gegen Vollstreckungsbeamte bzw. tätlichen Angriffs auf Vollstreckungsbeamte
 - [BGH, Beschluss vom 09.08.2023 - 6 StR 210/23](6-str-210-23.md) — BGH, Beschluss 6 StR 210/23
 - [BGH, Beschluss vom 08.08.2023 - 6 StR 15/23](6-str-15-23.md) — BGH, Beschluss 6 StR 15/23
@@ -99,8 +99,8 @@
 - [BGH, Beschluss vom 12.07.2023 - 6 StR 231/23](6-str-231-23.md) — Mord: Heimtücke bei Tötung eines Kleinkindes; räumliche Nähe des schutzbereiten Dritten
 - [BGH, Beschluss vom 12.07.2023 - 6 StR 263/23](6-str-263-23.md) — BGH, Beschluss 6 StR 263/23
 - [BGH, Beschluss vom 12.07.2023 - 6 StR 268/23](6-str-268-23.md) — BGH, Beschluss 6 StR 268/23
-- [BGH, Beschluss vom 12.07.2023 - 6 StR 275/23](6-str-275-23.md) — Täter-Opfer-Ausgleich bei Sexualdelikten: Wiedergutmachungsangebot eines intelligenzgeminderten Täters; Intelligenzminderung als Eingangsmerkmal einer krankhaft
-- [BGH, Urteil vom 12.07.2023 - 6 StR 417/22](6-str-417-22.md) — Revision in Strafverfahren: Anforderungen an die Verfahrensrüge in Zusammenhang mit der Geltendmachung eines Beweisverwertungsverbots wegen rechtswidriger Bewei
+- [BGH, Beschluss vom 12.07.2023 - 6 StR 275/23](6-str-275-23.md) — Täter-Opfer-Ausgleich bei Sexualdelikten: Wiedergutmachungsangebot eines intelligenzgeminderten Täters; Intelligenzminderung als Eingangsmerkmal einer krankhaften seelischen …
+- [BGH, Urteil vom 12.07.2023 - 6 StR 417/22](6-str-417-22.md) — Revision in Strafverfahren: Anforderungen an die Verfahrensrüge in Zusammenhang mit der Geltendmachung eines Beweisverwertungsverbots wegen rechtswidriger Beweismittelgewinnung im …
 - [BGH, Beschluss vom 11.07.2023 - 6 StR 175/23](6-str-175-23.md) — BGH, Beschluss 6 StR 175/23
 - [BGH, Beschluss vom 11.07.2023 - 6 StR 254/23](6-str-254-23.md) — BGH, Beschluss 6 StR 254/23
 - [BGH, Beschluss vom 29.06.2023 - 6 StR 261/23](6-str-261-23.md) — BGH, Beschluss 6 StR 261/23
@@ -121,7 +121,7 @@
 - [BGH, Beschluss vom 30.05.2023 - 6 StR 193/23](6-str-193-23.md) — BGH, Beschluss 6 StR 193/23
 - [BGH, Beschluss vom 30.05.2023 - 6 StR 212/23](6-str-212-23.md) — BGH, Beschluss 6 StR 212/23
 - [BGH, Beschluss vom 30.05.2023 - 6 StR 93/23](6-str-93-23.md) — BGH, Beschluss 6 StR 93/23
-- [BGH, Urteil vom 17.05.2023 - 6 StR 275/22](6-str-275-22.md) — Der Qualifikationstatbestand des § 224 Abs. 1 Nr. 4 StGB kann auch durch Unterlassen verwirklicht werden. Die hierfür erforderliche höhere Gefährlichkeit ist re
+- [BGH, Urteil vom 17.05.2023 - 6 StR 275/22](6-str-275-22.md) — Der Qualifikationstatbestand des § 224 Abs. 1 Nr. 4 StGB kann auch durch Unterlassen verwirklicht werden. Die hierfür erforderliche höhere Gefährlichkeit ist regelmäßig gegeben …
 - [BGH, Beschluss vom 17.05.2023 - 6 StR 69/23](6-str-69-23.md) — BGH, Beschluss 6 StR 69/23
 - [BGH, Beschluss vom 16.05.2023 - 6 StR 14/23](6-str-14-23.md) — BGH, Beschluss 6 StR 14/23
 - [BGH, Beschluss vom 16.05.2023 - 6 StR 155/23](6-str-155-23.md) — BGH, Beschluss 6 StR 155/23
@@ -136,7 +136,7 @@
 - [BGH, Beschluss vom 03.05.2023 - 6 StR 126/23](6-str-126-23.md) — BGH, Beschluss 6 StR 126/23
 - [BGH, Beschluss vom 03.05.2023 - 6 StR 137/23](6-str-137-23.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Abgrenzung von Täterschaft und Teilnahme beim Transport von Betäubungsmitteln
 - [BGH, Beschluss vom 03.05.2023 - 6 StR 140/23](6-str-140-23.md) — BGH, Beschluss 6 StR 140/23
-- [BGH, Beschluss vom 03.05.2023 - 6 StR 161/23](6-str-161-23.md) — Versuchte schwere räuberische Erpressung: Abgrenzung von fehlgeschlagenem Versuch und unbeendetem Versuch mit freiwilligem Rücktritt; Erfordernis der Erörterung
+- [BGH, Beschluss vom 03.05.2023 - 6 StR 161/23](6-str-161-23.md) — Versuchte schwere räuberische Erpressung: Abgrenzung von fehlgeschlagenem Versuch und unbeendetem Versuch mit freiwilligem Rücktritt; Erfordernis der Erörterung einer kurzen …
 - [BGH, Beschluss vom 03.05.2023 - 6 StR 168/23](6-str-168-23.md) — BGH, Beschluss 6 StR 168/23
 - [BGH, Beschluss vom 03.05.2023 - 6 StR 42/23](6-str-42-23.md) — Revision: Absehen von der Erstattung der Kosten des zwischenzeitlich verstorbenen Angeklagten im Zusammenhang mit der Verfahrenseinstellung
 - [BGH, Beschluss vom 02.05.2023 - 6 StR 103/23](6-str-103-23.md) — BGH, Beschluss 6 StR 103/23
@@ -206,16 +206,16 @@
 - [BGH, Beschluss vom 25.01.2023 - 6 StR 549/22](6-str-549-22.md) — BGH, Beschluss 6 StR 549/22
 - [BGH, Urteil vom 24.01.2023 - 6 StR 407/22](6-str-407-22.md) — Unterbringung in Entziehungsanstalt; Anspruch auf Entschädigung des Angeklagten
 - [BGH, Beschluss vom 24.01.2023 - 6 StR 466/22](6-str-466-22.md) — Revision in Strafsachen: Anforderungen an die Übermittlung der Revisionsbegründung über das besondere elektronische Anwaltspostfach
-- [BGH, Beschluss vom 24.01.2023 - 6 StR 476/22](6-str-476-22.md) — Strafurteil wegen sexuellen Kindesmissbrauchs: Anforderungen an die Tatsachenfeststellungen und die Beweiswürdigung bei Vorliegen einer Aussage-gegen-Aussage-Ko
+- [BGH, Beschluss vom 24.01.2023 - 6 StR 476/22](6-str-476-22.md) — Strafurteil wegen sexuellen Kindesmissbrauchs: Anforderungen an die Tatsachenfeststellungen und die Beweiswürdigung bei Vorliegen einer Aussage-gegen-Aussage-Konstellation
 - [BGH, Beschluss vom 24.01.2023 - 6 StR 488/22](6-str-488-22.md) — Rücktritt vom Versuch der räuberischen Erpressung beim sogenannten "Abziehen"
 - [BGH, Beschluss vom 24.01.2023 - 6 StR 500/22](6-str-500-22.md) — Handeltreiben mit und Besitz von Betäubungsmittel
 - [BGH, Beschluss vom 24.01.2023 - 6 StR 544/22](6-str-544-22.md) — BGH, Beschluss 6 StR 544/22
 - [BGH, Beschluss vom 11.01.2023 - 6 StR 327/22](6-str-327-22.md) — BGH, Beschluss 6 StR 327/22
 - [BGH, Beschluss vom 11.01.2023 - 6 StR 367/22](6-str-367-22.md) — BGH, Beschluss 6 StR 367/22
 - [BGH, Beschluss vom 11.01.2023 - 6 StR 448/22](6-str-448-22.md) — BGH, Beschluss 6 StR 448/22
-- [BGH, Beschluss vom 11.01.2023 - 6 StR 477/22](6-str-477-22.md) — Internationale Rechtshilfe in Strafsachen: Auslieferungsersuchen an Polen nach Festnahme aufgrund eines Europäischen Haftbefehls und Verstoß gegen den Spezialit
+- [BGH, Beschluss vom 11.01.2023 - 6 StR 477/22](6-str-477-22.md) — Internationale Rechtshilfe in Strafsachen: Auslieferungsersuchen an Polen nach Festnahme aufgrund eines Europäischen Haftbefehls und Verstoß gegen den Spezialitätsgrundsatz bei …
 - [BGH, Beschluss vom 11.01.2023 - 6 StR 487/22](6-str-487-22.md) — BGH, Beschluss 6 StR 487/22
-- [BGH, Urteil vom 10.01.2023 - 6 StR 133/22](6-str-133-22.md) — Der objektive Tatbestand der Untreue nach § 266 Abs. 1 StGB kann erfüllt sein, wenn ein Vorstand oder Prokurist einer Aktiengesellschaft unter Verstoß gegen das
+- [BGH, Urteil vom 10.01.2023 - 6 StR 133/22](6-str-133-22.md) — Der objektive Tatbestand der Untreue nach § 266 Abs. 1 StGB kann erfüllt sein, wenn ein Vorstand oder Prokurist einer Aktiengesellschaft unter Verstoß gegen das …
 - [BGH, Beschluss vom 10.01.2023 - 6 StR 432/22](6-str-432-22.md) — Einbeziehung einer früheren Gesamtstrafe in Gesamtstrafenausspruch
 - [BGH, Beschluss vom 10.01.2023 - 6 StR 522/22](6-str-522-22.md) — BGH, Beschluss 6 StR 522/22
 - [BGH, Beschluss vom 09.01.2023 - 6 StR 462/22](6-str-462-22.md) — BGH, Beschluss 6 StR 462/22

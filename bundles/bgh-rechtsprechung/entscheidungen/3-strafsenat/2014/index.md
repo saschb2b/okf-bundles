@@ -3,87 +3,87 @@
 109 Entscheidung(en).
 
 - [BGH, Beschluss vom 17.12.2014 - 3 StR 484/14](3-str-484-14.md) — Strafverfahren wegen schweren Bandendiebstahls: Voraussetzungen der Gewerbsmäßigkeit
-- [BGH, Beschluss vom 17.12.2014 - 3 StR 487/14](3-str-487-14.md) — Fahren ohne Fahrerlaubnis im Zusammenhang mit der unerlaubten Einfuhr von Betäubungsmitteln: Anordnung einer isolierten Sperrfrist für die Erteilung einer Fahre
+- [BGH, Beschluss vom 17.12.2014 - 3 StR 487/14](3-str-487-14.md) — Fahren ohne Fahrerlaubnis im Zusammenhang mit der unerlaubten Einfuhr von Betäubungsmitteln: Anordnung einer isolierten Sperrfrist für die Erteilung einer Fahrerlaubnis …
 - [BGH, Beschluss vom 17.12.2014 - 3 StR 507/14](3-str-507-14.md) — Mittäterschaftlich begangene Betrugsserie: Tatbeiträge in gleichartiger Tateinheit
 - [BGH, Beschluss vom 17.12.2014 - 3 StR 510/14](3-str-510-14.md) — Urteilsaufhebung im Strafverfahren: Fehlender rechtlicher Hinweis bei Verurteilung wegen versuchter statt vollendeter Vergewaltigung
 - [BGH, Beschluss vom 17.12.2014 - 3 StR 521/14](3-str-521-14.md) — Verhängung einer Jugendstrafe: Bemessung der Schwere der Schuld; Grundsätze der Strafzumessung bei möglichem Vorliegen eines minder schweren Falles
-- [BGH, Urteil vom 11.12.2014 - 3 StR 265/14](3-str-265-14.md) — 1. Werden Gelder, die einer Fraktion des Landtags von Rheinland-Pfalz aus dem Landeshaushalt zur Erfüllung ihrer Aufgaben zugewendet worden sind, gesetzwidrig f
+- [BGH, Urteil vom 11.12.2014 - 3 StR 265/14](3-str-265-14.md) — 1. Werden Gelder, die einer Fraktion des Landtags von Rheinland-Pfalz aus dem Landeshaushalt zur Erfüllung ihrer Aufgaben zugewendet worden sind, gesetzwidrig für Zwecke der die …
 - [BGH, Beschluss vom 10.12.2014 - 3 StR 489/14](3-str-489-14.md) — Strafverfahren: Anforderungen an die Urteilsgründe hinsichtlich der Aussage eines Zeugen und der Einlassung des Angeklagten
 - [BGH, Beschluss vom 10.12.2014 - 3 StR 503/14](3-str-503-14.md) — Strafurteil wegen Betäubungsmitteldelikts: Notwendige Feststellungen zum bewaffneten Vorrätighalten von Betäubungsmitteln zum Verkauf
-- [BGH, Beschluss vom 09.12.2014 - 3 StR 272/14](3-str-272-14.md) — Revisionsbegründung in Strafsachen: Anforderungen an die Verfahrensrüge wegen ungenügender Belehrung eines an verschiedenen Hauptverhandlungstagen vernommenen Z
+- [BGH, Beschluss vom 09.12.2014 - 3 StR 272/14](3-str-272-14.md) — Revisionsbegründung in Strafsachen: Anforderungen an die Verfahrensrüge wegen ungenügender Belehrung eines an verschiedenen Hauptverhandlungstagen vernommenen Zeugen über sein …
 - [BGH, Beschluss vom 09.12.2014 - 3 StR 502/14](3-str-502-14.md) — Sexueller Missbrauch eines Kindes: Verstoß gegen das Doppelverwertungsverbot bei der Strafzumessung
 - [BGH, Beschluss vom 09.12.2014 - 3 StR 62/14](3-str-62-14.md) — Außenwirtschaftsrecht: Strafbarkeit des gewerbsmäßigen Zuwiderhandelns gegen das europäische Iran-Embargo
 - [BGH, Beschluss vom 27.11.2014 - 3 StR 437/14](3-str-437-14.md) — Beteiligter im Sinne von § 174 Abs. 1 Satz 1 GVG kann auch ein Zeuge sein.
-- [BGH, Beschluss vom 27.11.2014 - 3 StR 458/14](3-str-458-14.md) — Notwendiger Inhalt eines Strafurteils wegen versuchten Mordes: Abgrenzung des fehlgeschlagenen vom unbeendeten und beendeten Versuch; Prüfung eines freiwilligen
-- [BGH, Beschluss vom 25.11.2014 - 3 StR 257/14](3-str-257-14.md) — Öffentlichkeitsgrundsatz im Strafverfahren: Verhandlung und Entscheidung in nichtöffentlicher Sitzung über Gegenvorstellungen gegen den Ausschluss der Öffentlic
+- [BGH, Beschluss vom 27.11.2014 - 3 StR 458/14](3-str-458-14.md) — Notwendiger Inhalt eines Strafurteils wegen versuchten Mordes: Abgrenzung des fehlgeschlagenen vom unbeendeten und beendeten Versuch; Prüfung eines freiwilligen Rücktritts
+- [BGH, Beschluss vom 25.11.2014 - 3 StR 257/14](3-str-257-14.md) — Öffentlichkeitsgrundsatz im Strafverfahren: Verhandlung und Entscheidung in nichtöffentlicher Sitzung über Gegenvorstellungen gegen den Ausschluss der Öffentlichkeit
 - [BGH, Beschluss vom 14.11.2014 - 3 StR 392/14](3-str-392-14.md) — Strafverfahren wegen versuchten Totschlags: Berücksichtigung des gesetzlich vertypten Strafmilderungsgrunds bei Ablehnung eines minder schweren Falls
 - [BGH, Beschluss vom 11.11.2014 - 3 StR 430/14](3-str-430-14.md) — Revision im Sicherungsverfahren: Wirkung einer wiederholten Revisionseinlegung
 - [BGH, Beschluss vom 11.11.2014 - 3 StR 451/14](3-str-451-14.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Gaspistole als Waffe
-- [BGH, Urteil vom 16.10.2014 - 3 StR 268/14](3-str-268-14.md) — Betäubungsmitteldelikt: Anbau und Besitz zum Eigenverbrauch bestimmter Betäubungsmittel in nicht geringer Menge; Tateinheit bei Besitz verschiedener zum Eigenve
+- [BGH, Urteil vom 16.10.2014 - 3 StR 268/14](3-str-268-14.md) — Betäubungsmitteldelikt: Anbau und Besitz zum Eigenverbrauch bestimmter Betäubungsmittel in nicht geringer Menge; Tateinheit bei Besitz verschiedener zum Eigenverbrauch bestimmter …
 - [BGH, Urteil vom 16.10.2014 - 3 StR 329/14](3-str-329-14.md) — Sicherungsverfahren: Verhältnismäßigkeitsprüfung für eine wiederholte Unterbringung in einem psychiatrischen Krankenhaus
-- [BGH, Beschluss vom 14.10.2014 - 3 StR 167/14](3-str-167-14.md) — Embargoverstoß nach dem Außenwirtschaftsgesetz: Günstigkeitsvergleich bei geändertem Gesetz; Anwendbarkeit neuen Rechts bei Verwirklichung des Qualifikationsmer
+- [BGH, Beschluss vom 14.10.2014 - 3 StR 167/14](3-str-167-14.md) — Embargoverstoß nach dem Außenwirtschaftsgesetz: Günstigkeitsvergleich bei geändertem Gesetz; Anwendbarkeit neuen Rechts bei Verwirklichung des Qualifikationsmerkmals der …
 - [BGH, Beschluss vom 14.10.2014 - 3 StR 365/14](3-str-365-14.md) — Konkurrenzverhältnisse beim Betrug: Organisationstätigkeit des Beteiligten eines auf Straftaten ausgerichteten Geschäftsbetriebs
 - [BGH, Beschluss vom 30.09.2014 - 3 ARs 13/14](3-ars-13-14.md) — (Verstoß der richterrechtlich entwickelten Rechtsfigur der ungleichartigen Wahlfeststellung gegen Art. 103 Abs. 2 GG)
 - [BGH, Beschluss vom 30.09.2014 - 3 StR 227/14](3-str-227-14.md) — Diebstahl: Abgrenzung zur Unterschlagung bei Entwendung aus einer von mehreren Unternehmen genutzten Lagerhalle
 - [BGH, Beschluss vom 30.09.2014 - 3 StR 351/14](3-str-351-14.md) — Beeinträchtigung der Steuerungsfähigkeit: Pathologisches Spielen oder Spielsucht als krankhafte seelische Störung
-- [BGH, Beschluss vom 16.09.2014 - 3 StR 372/14](3-str-372-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die zu treffende Gefährlichkeitsprognose; Erfordernis der nachvollziehbaren Darstellung der
-- [BGH, Beschluss vom 16.09.2014 - 3 StR 373/14](3-str-373-14.md) — Strafverfahren wegen räuberischen Diebstahls: Vollendung der Wegnahme bei Verbergen eines Notebooks in einem Jute-Beutel; Kriterien für eine mittäterschaftliche
+- [BGH, Beschluss vom 16.09.2014 - 3 StR 372/14](3-str-372-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die zu treffende Gefährlichkeitsprognose; Erfordernis der nachvollziehbaren Darstellung der Prognose in den …
+- [BGH, Beschluss vom 16.09.2014 - 3 StR 373/14](3-str-373-14.md) — Strafverfahren wegen räuberischen Diebstahls: Vollendung der Wegnahme bei Verbergen eines Notebooks in einem Jute-Beutel; Kriterien für eine mittäterschaftliche Beteiligung
 - [BGH, Beschluss vom 16.09.2014 - 3 StR 413/14](3-str-413-14.md) — Betäubungsmitteldelikt: Notwendige Urteilsfeststellungen zur Strafmilderung bei Aufklärungshilfe
 - [BGH, Urteil vom 04.09.2014 - 3 StR 437/12](3-str-437-12.md) — Unerlaubtes Inverkehrbringen von Arzneimitteln: Arzneimitteleigenschaft synthetischer Cannabinoide
 - [BGH, Beschluss vom 02.09.2014 - 3 StR 325/14](3-str-325-14.md) — Adhäsionsentscheidung: Anforderungen an die Begründung eines zivilrechtlichen Schmerzensgeldanspruchs
-- [BGH, Beschluss vom 02.09.2014 - 3 StR 346/14](3-str-346-14.md) — Adhäsionsentscheidung: Erfordernis einer weitergehenden Erörterung der wirtschaftlichen Verhältnisse bei sehr niedrig festgesetzten Schmerzensgeldbeträgen; Ents
+- [BGH, Beschluss vom 02.09.2014 - 3 StR 346/14](3-str-346-14.md) — Adhäsionsentscheidung: Erfordernis einer weitergehenden Erörterung der wirtschaftlichen Verhältnisse bei sehr niedrig festgesetzten Schmerzensgeldbeträgen; Entscheidung über einen …
 - [BGH, Beschluss vom 21.08.2014 - 3 StR 203/14](3-str-203-14.md) — Strafzumessung bei Totschlags durch Unterlassen: Absehen von der Strafrahmenmilderung
-- [BGH, Urteil vom 21.08.2014 - 3 StR 208/14](3-str-208-14.md) — Revision im Strafverfahren: Rüge der Verletzung des Beweisantragsrechts bei Ablehnung eines Beweisantrages auf aussagepsychologische Begutachtung eines Belastun
+- [BGH, Urteil vom 21.08.2014 - 3 StR 208/14](3-str-208-14.md) — Revision im Strafverfahren: Rüge der Verletzung des Beweisantragsrechts bei Ablehnung eines Beweisantrages auf aussagepsychologische Begutachtung eines Belastungszeugen ohne …
 - [BGH, Beschluss vom 21.08.2014 - 3 StR 245/14](3-str-245-14.md) — Nachträgliche Gesamtstrafenbildung: Härteausgleich im Beschlussverfahren
-- [BGH, Beschluss vom 21.08.2014 - 3 StR 341/14](3-str-341-14.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: Darlegungsanforderungen beim Abweichen des Gerichts von der Einschätzung des Sachverständigen über die 
+- [BGH, Beschluss vom 21.08.2014 - 3 StR 341/14](3-str-341-14.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: Darlegungsanforderungen beim Abweichen des Gerichts von der Einschätzung des Sachverständigen über die mangelnde …
 - [BGH, Beschluss vom 20.08.2014 - 3 StR 315/14](3-str-315-14.md) — Strafzumessung: Strafschärfende Berücksichtigung weiterer nicht abgeurteilter Straftaten des Angeklagten
 - [BGH, Beschluss vom 20.08.2014 - 3 StR 316/14](3-str-316-14.md) — Eingehungsbetrug: Feststellungen zur fehlenden Zahlungswilligkeit bei Bestellungen durch einen Angestellten einer GmbH
 - [BGH, Beschluss vom 20.08.2014 - 3 StR 320/14](3-str-320-14.md) — Gesamtstrafenbildung: Beschwer des Angeklagten bei fehlerhafter Einbeziehung einer Geldstrafe
 - [BGH, Beschluss vom 19.08.2014 - 3 StR 243/14](3-str-243-14.md) — Sicherungsverfahren gegen schuldunfähige Straftäter: Verhältnismäßigkeitsprüfung der Unterbringung in einem psychiatrischen Krankenhaus nach Bedrohung
 - [BGH, Beschluss vom 19.08.2014 - 3 StR 283/14](3-str-283-14.md) — Richterablehnung im Strafverfahren: Unsachliche Äußerungen eines Richters im Rahmen einer Vorentscheidung
-- [BGH, Beschluss vom 19.08.2014 - 3 StR 88/14](3-str-88-14.md) — Verwenden von Kennzeichen verfassungswidriger Organisationen: Öffentliches Verwenden durch Upload auf Internetplattformen; Betreiben der Plattform vom Ausland a
+- [BGH, Beschluss vom 19.08.2014 - 3 StR 88/14](3-str-88-14.md) — Verwenden von Kennzeichen verfassungswidriger Organisationen: Öffentliches Verwenden durch Upload auf Internetplattformen; Betreiben der Plattform vom Ausland aus; Einstellung bei …
 - [BGH, Beschluss vom 07.08.2014 - 3 StR 105/14](3-str-105-14.md) — Beweiswürdigung im Strafverfahren: Wertung von Beweisbehauptungen als Teileinlassung; Würdigung der Aussageverweigerung des Angeklagten
 - [BGH, Beschluss vom 07.08.2014 - 3 StR 17/14](3-str-17-14.md) — Strafverfahren wegen Betäubungsmitteldelikt: Bestimmen eines Minderjährigen zum Betäubungsmittelhandel
 - [BGH, Urteil vom 07.08.2014 - 3 StR 224/14](3-str-224-14.md) — Strafurteil: Abfassen der Urteilsgründe; Wiedergabe des Beweisergebnisses; Darstellungsweise der Beweiswürdigung von Indiztatsachen
 - [BGH, Beschluss vom 07.08.2014 - 3 StR 438/13](3-str-438-13.md) — Strafzumessung: Strafschärfende Berücksichtigung nicht angeklagter Straftaten
 - [BGH, Beschluss vom 05.08.2014 - 3 StR 271/14](3-str-271-14.md) — Strafverfahren: Aufhebung eines Freispruchs auf Revision des Angeklagten
-- [BGH, Beschluss vom 05.08.2014 - 3 StR 340/14](3-str-340-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bewertungseinheit bei funktioneller Verknüpfung mehrerer selbstständiger Verkaufs- und Absatzaktivitäten; Konku
+- [BGH, Beschluss vom 05.08.2014 - 3 StR 340/14](3-str-340-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bewertungseinheit bei funktioneller Verknüpfung mehrerer selbstständiger Verkaufs- und Absatzaktivitäten; Konkurrenzverhältnisse
 - [BGH, Beschluss vom 24.07.2014 - 3 StR 176/14](3-str-176-14.md) — Strafzumessung: Gleichzeitige Verhängung von Freiheits- und Geldstrafe
 - [BGH, Beschluss vom 24.07.2014 - 3 StR 188/14](3-str-188-14.md) — Unterschlagung: Subsidiarität nicht nur gegenüber Zueignungsdelikten
 - [BGH, Beschluss vom 24.07.2014 - 3 StR 286/14](3-str-286-14.md) — Sexueller Missbrauch von Jugendlichen: Fehlendes Einverständnis des Opfers mit den sexuellen Handlungen
-- [BGH, Urteil vom 24.07.2014 - 3 StR 314/13](3-str-314-13.md) — 1. Der Verkauf und die Ausfuhr von Gütern des Teils I Abschnitt A der Ausfuhrliste in Embargoländer, strafbar gemäß § 17 Abs. 1 Nr. 2 AWG in Verbindung mit § 4 
-- [BGH, Beschluss vom 22.07.2014 - 3 StR 302/14](3-str-302-14.md) — Sachverständigenablehnung im Strafverfahren: Notwendiger Inhalt des den Befangenheitsantrag zurückweisenden Beschluss des Tatgerichts; Prüfungsumfang des Revisi
-- [BGH, Urteil vom 10.07.2014 - 3 StR 140/14](3-str-140-14.md) — Beweisaufnahme im Strafverfahren: Ablehnung eines Beweisantrags wegen Bestehens eines Beweisverwertungsverbots; erforderliche Darlegung der Fehlerhaftigkeit der
+- [BGH, Urteil vom 24.07.2014 - 3 StR 314/13](3-str-314-13.md) — 1. Der Verkauf und die Ausfuhr von Gütern des Teils I Abschnitt A der Ausfuhrliste in Embargoländer, strafbar gemäß § 17 Abs. 1 Nr. 2 AWG in Verbindung mit § 4 Abs. 1 AWG, § 80 …
+- [BGH, Beschluss vom 22.07.2014 - 3 StR 302/14](3-str-302-14.md) — Sachverständigenablehnung im Strafverfahren: Notwendiger Inhalt des den Befangenheitsantrag zurückweisenden Beschluss des Tatgerichts; Prüfungsumfang des Revisionsgerichts
+- [BGH, Urteil vom 10.07.2014 - 3 StR 140/14](3-str-140-14.md) — Beweisaufnahme im Strafverfahren: Ablehnung eines Beweisantrags wegen Bestehens eines Beweisverwertungsverbots; erforderliche Darlegung der Fehlerhaftigkeit der Beweisablehnung in …
 - [BGH, Beschluss vom 10.07.2014 - 3 StR 232/14](3-str-232-14.md) — Strafverfahren wegen gefährlicher Körperverletzung: Urteilsfeststellungen bei Ablehnung der Strafaussetzung zur Bewährung
-- [BGH, Beschluss vom 10.07.2014 - 3 StR 262/14](3-str-262-14.md) — Revision in Strafsachen: Verfahrensrüge wegen unterbliebener Aushändigung einer schriftlichen Übersetzung der Anklageschrift vor der Hauptverhandlung; Rüge der 
+- [BGH, Beschluss vom 10.07.2014 - 3 StR 262/14](3-str-262-14.md) — Revision in Strafsachen: Verfahrensrüge wegen unterbliebener Aushändigung einer schriftlichen Übersetzung der Anklageschrift vor der Hauptverhandlung; Rüge der Mitwirkung eines …
 - [BGH, Beschluss vom 08.07.2014 - 3 StR 228/14](3-str-228-14.md) — Minder schwerer Fall des Totschlags: Anforderungen an die Provokation durch eine Misshandlung oder schwere Beleidigung
 - [BGH, Beschluss vom 08.07.2014 - 3 StR 240/14](3-str-240-14.md) — Strafverfahren: Ablehnung eines Beweisantrags wegen fehlender Konnexität zwischen Beweisbehauptung und Beweismittel
-- [BGH, Beschluss vom 24.06.2014 - 3 StR 185/14](3-str-185-14.md) — Verfahrensrüge im Strafverfahren: Beruhen eines Urteils auf der Nichtgewährung des letzten Wortes nach Wiedereintritt in die Hauptverhandlung; Bargeldübergabe d
+- [BGH, Beschluss vom 24.06.2014 - 3 StR 185/14](3-str-185-14.md) — Verfahrensrüge im Strafverfahren: Beruhen eines Urteils auf der Nichtgewährung des letzten Wortes nach Wiedereintritt in die Hauptverhandlung; Bargeldübergabe des Angeklagten an …
 - [BGH, Beschluss vom 24.06.2014 - 3 StR 194/14](3-str-194-14.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Begründungserfordernis für Ausschluss des Angeklagten von einer Zeugenvernehmung
 - [BGH, Beschluss vom 24.06.2014 - 3 StR 223/14](3-str-223-14.md) — Herbeiführen einer Brandgefahr: Notwendige Feststellungen zur konkreten Gefährdung eines fremden Objekts
 - [BGH, Urteil vom 12.06.2014 - 3 StR 139/14](3-str-139-14.md) — Revision im Strafverfahren: Innerprozessuale Bindung nicht aufgehobener Feststellungen des erstinstanzlichen Urteils
 - [BGH, Urteil vom 12.06.2014 - 3 StR 154/14](3-str-154-14.md) — Mord: Ausnutzungsbewusstsein beim Mordmerkmal Heimtücke; Anforderungen an die Urteilsfeststellungen zum freiwilligen Rücktritt
 - [BGH, Beschluss vom 10.06.2014 - 3 StR 57/14](3-str-57-14.md) — Hauptverhandlung in Strafsachen: Wegfall der Beweiskraft des Sitzungsprotokolls
 - [BGH, Beschluss vom 28.05.2014 - 3 StR 196/14](3-str-196-14.md) — Strafverfahren: Würdigung eines anfänglichen Schweigens eines Angeklagten
-- [BGH, Beschluss vom 28.05.2014 - 3 StR 206/13](3-str-206-13.md) — 1. § 264 Abs. 7 Satz 1 Nr. 1 StGB erfasst auch Subventionen, die nicht nur Betrieben und Unternehmen, sondern auch Privatpersonen gewährt werden können. 2. § 4 
+- [BGH, Beschluss vom 28.05.2014 - 3 StR 206/13](3-str-206-13.md) — 1. § 264 Abs. 7 Satz 1 Nr. 1 StGB erfasst auch Subventionen, die nicht nur Betrieben und Unternehmen, sondern auch Privatpersonen gewährt werden können. 2. § 4 SubvG enthält …
 - [BGH, Beschluss vom 27.05.2014 - 3 StR 137/14](3-str-137-14.md) — Betäubungsmitteldelikt: Abgrenzung von Täterschaft und Teilnahme bei der unerlaubten Einfuhr von Betäubungsmitteln
 - [BGH, Beschluss vom 15.05.2014 - 3 StR 149/14](3-str-149-14.md) — Rücktritt vom Versuch der schweren räuberischen Erpressung bei Tatbeteiligung mehrerer Täter: Anforderungen an die Urteilsfeststellungen zur Freiwilligkeit
 - [BGH, Urteil vom 15.05.2014 - 3 StR 386/13](3-str-386-13.md) — Unterbringung in einer Entziehungsanstalt: Vorliegen eines Hangs zum Rauschmittelkonsum
 - [BGH, Beschluss vom 14.05.2014 - 3 StR 130/14](3-str-130-14.md) — Strafverfahren: Verlängerung der Urteilsverkündungsfrist durch Unterbrechung
 - [BGH, Beschluss vom 14.05.2014 - 3 StR 398/13](3-str-398-13.md) — Einziehungsanordnung bei Betäubungsmitteldelikt: Bestimmtheitserfordernis bei der Bezeichnung der einzuziehenden Gegenstände
-- [BGH, Urteil vom 08.05.2014 - 3 StR 243/13](3-str-243-13.md) — 1. § 89a Abs. 1, Abs. 2 Nr. 3 StGB verstößt nicht gegen das Bestimmtheitsgebot des Art. 103 Abs. 2 GG. 2. § 89a StGB entspricht dem verfassungsrechtlichen Grund
-- [BGH, Beschluss vom 06.05.2014 - 3 StR 131/14](3-str-131-14.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Verfahrensfehler bei fehlendem gerichtlichen Hinweis auf die mögliche Anordnung der Führungsauf
+- [BGH, Urteil vom 08.05.2014 - 3 StR 243/13](3-str-243-13.md) — 1. § 89a Abs. 1, Abs. 2 Nr. 3 StGB verstößt nicht gegen das Bestimmtheitsgebot des Art. 103 Abs. 2 GG. 2. § 89a StGB entspricht dem verfassungsrechtlichen Grundsatz der …
+- [BGH, Beschluss vom 06.05.2014 - 3 StR 131/14](3-str-131-14.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Verfahrensfehler bei fehlendem gerichtlichen Hinweis auf die mögliche Anordnung der Führungsaufsicht
 - [BGH, Beschluss vom 06.05.2014 - 3 StR 134/14](3-str-134-14.md) — Versuch der Körperverletzung: Freiwilligkeit des Rücktritts vom unbeendeten Versuch; Erreichen eines außertatbestandlichen Ziels
 - [BGH, Beschluss vom 06.05.2014 - 3 StR 265/13](3-str-265-13.md) — Mitgliedschaft in einer terroristischen Vereinigung im Ausland: Völkerrechtliche Rechtfertigung für die der PKK zuzurechnenden Straftaten
 - [BGH, Beschluss vom 06.05.2014 - 3 StR 382/13](3-str-382-13.md) — Sicherungsverwahrung: Voraussetzungen für die Annahme eines Hangtäters
-- [BGH, Beschluss vom 29.04.2014 - 3 StR 171/14](3-str-171-14.md) — Sicherungsverfahren: Anforderungen an die Gefährlichkeitsprognose und die Begründung der zur Bewährung ausgesetzten Anordnung der Unterbringung in einem psychia
+- [BGH, Beschluss vom 29.04.2014 - 3 StR 171/14](3-str-171-14.md) — Sicherungsverfahren: Anforderungen an die Gefährlichkeitsprognose und die Begründung der zur Bewährung ausgesetzten Anordnung der Unterbringung in einem psychiatrischen …
 - [BGH, Beschluss vom 29.04.2014 - 3 StR 21/14](3-str-21-14.md) — Mordmerkmal der Heimtücke: Arglosigkeit des Opfers bei vorausgehender verbaler Attacke und Waffengebrauch; Versuchstatbestand
 - [BGH, Beschluss vom 29.04.2014 - 3 StR 24/14](3-str-24-14.md) — Revision in Strafsachen: Anforderungen an die Begründung der Rüge des Verstoßes gegen die Mitteilungspflicht über Erörterungen zu Verständigungsmöglichkeiten
 - [BGH, Beschluss vom 29.04.2014 - 3 StR 436/13](3-str-436-13.md) — Strafurteil: Fehlerhafte Berücksichtigung einer Beweistatsache nach Ablehnung des entsprechenden Beweisantrages wegen Bedeutungslosigkeit
 - [BGH, Urteil vom 17.04.2014 - 3 StR 27/14](3-str-27-14.md) — Ablehnung von Beweisanträgen im Strafverfahren: Bedeutungslosigkeit der unter Beweis gestellten Tatsache
 - [BGH, Beschluss vom 17.04.2014 - 3 StR 355/13](3-str-355-13.md) — Sicherungsverwahrung: Anordnung neben einer lebenslangen Freiheitsstrafe für bis zum 31. Mai 2013 begangene Straftaten
-- [BGH, Urteil vom 17.04.2014 - 3 StR 84/14](3-str-84-14.md) — Unerlaubte Einfuhr, unerlaubtes Handeltreiben und unerlaubter Besitz von Betäubungsmitteln: Erlangung einer Zusage über den Erhalt eingeführten Amphetamins zur 
-- [BGH, Beschluss vom 15.04.2014 - 3 StR 48/14](3-str-48-14.md) — Unterbringung in einer Entziehungsanstalt: Geteilte Beurteilung der Schuldfähigkeit bei Betäubungsmitteldelikten; Anordnung der Unterbringung bei voraussichtlic
+- [BGH, Urteil vom 17.04.2014 - 3 StR 84/14](3-str-84-14.md) — Unerlaubte Einfuhr, unerlaubtes Handeltreiben und unerlaubter Besitz von Betäubungsmitteln: Erlangung einer Zusage über den Erhalt eingeführten Amphetamins zur Weiterveräußerung …
+- [BGH, Beschluss vom 15.04.2014 - 3 StR 48/14](3-str-48-14.md) — Unterbringung in einer Entziehungsanstalt: Geteilte Beurteilung der Schuldfähigkeit bei Betäubungsmitteldelikten; Anordnung der Unterbringung bei voraussichtlicher Dauer der …
 - [BGH, Beschluss vom 15.04.2014 - 3 StR 89/14](3-str-89-14.md) — Hauptverhandlung: Mitteilungspflichten über Erörterungen außerhalb der Hauptverhandlung; Verletzung der Verteidigungsposition des Angeklagten
 - [BGH, Beschluss vom 15.04.2014 - 3 StR 92/14](3-str-92-14.md) — Wahlfeststellung zwischen versuchtem schweren Raub und versuchter räuberischer Erpressung
 - [BGH, Urteil vom 27.03.2014 - 3 StR 342/13](3-str-342-13.md) — Zur Strafbarkeit wegen Betrugs durch sog. Ping-Anrufe.
@@ -99,15 +99,15 @@
 - [BGH, Urteil vom 20.02.2014 - 3 StR 289/13](3-str-289-13.md) — Verständigung im Strafverfahren: Fortbestehen der Mitteilungspflicht nach Rücknahme der Anklageschrift
 - [BGH, Beschluss vom 18.02.2014 - 3 StR 442/13](3-str-442-13.md) — Bildung einer Gesamtfreiheitsstrafe: Anrechnung erfüllter Bewährungsauflagen
 - [BGH, Beschluss vom 17.02.2014 - 3 StR 7/14](3-str-7-14.md) — Strafrahmenwahl beim Versuch der räuberischen Erpressung
-- [BGH, Beschluss vom 06.02.2014 - 3 ARs 7/13](3-ars-7-13.md) — Verklammerung des unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge mit drei Fällen der unerlaubten Einfuhr von Betäubungsmitteln in nich
+- [BGH, Beschluss vom 06.02.2014 - 3 ARs 7/13](3-ars-7-13.md) — Verklammerung des unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge mit drei Fällen der unerlaubten Einfuhr von Betäubungsmitteln in nicht geringer Menge …
 - [BGH, Urteil vom 06.02.2014 - 3 StR 315/13](3-str-315-13.md) — Konkurrenzverhältnis zwischen Nötigung und Vergewaltigung
 - [BGH, Beschluss vom 04.02.2014 - 3 StR 347/13](3-str-347-13.md) — Strafbarkeit wegen Betruges: Bemessung des Vermögensschadens bei zweckwidriger Verwendung eines Darlehens
 - [BGH, Beschluss vom 04.02.2014 - 3 StR 447/13](3-str-447-13.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Drogenkuriertätigkeit als Beihilfe; Tateinheit mit Besitz von Betäubungsmitteln in nicht geringer Menge
-- [BGH, Beschluss vom 04.02.2014 - 3 StR 451/13](3-str-451-13.md) — Anordnung der Sicherungsverwahrung: Verwertung zulässigen Verteidigungsverhaltens; frühkrimineller Hangtäter als Ausnahmefall; Fall der revisionsrechtlichen Unt
-- [BGH, Beschluss vom 04.02.2014 - 3 StR 452/13](3-str-452-13.md) — Strafzumessung bei versuchter schwerer Brandstiftung: Beachtung des Doppelverwertungsverbots bei der Strafrahmenbestimmung; Berücksichtigung von Strafrahmenmild
+- [BGH, Beschluss vom 04.02.2014 - 3 StR 451/13](3-str-451-13.md) — Anordnung der Sicherungsverwahrung: Verwertung zulässigen Verteidigungsverhaltens; frühkrimineller Hangtäter als Ausnahmefall; Fall der revisionsrechtlichen Untrennbarkeit von …
+- [BGH, Beschluss vom 04.02.2014 - 3 StR 452/13](3-str-452-13.md) — Strafzumessung bei versuchter schwerer Brandstiftung: Beachtung des Doppelverwertungsverbots bei der Strafrahmenbestimmung; Berücksichtigung von Strafrahmenmilderungsgründen
 - [BGH, Beschluss vom 23.01.2014 - 3 StR 365/13](3-str-365-13.md) — Betrug: Vermögenschaden bei werthaltigen Sicherheiten des Verfügenden
 - [BGH, Beschluss vom 23.01.2014 - 3 StR 373/13](3-str-373-13.md) — Verfall von Wertersatz: Vorliegen einer unbilligen Härte
 - [BGH, Beschluss vom 21.01.2014 - 3 StR 388/13](3-str-388-13.md) — Sexualstraftäter: Beschränkung des Berufsverbots für einen Lehrer auf den gefährdeten Personenkreis
-- [BGH, Beschluss vom 08.01.2014 - 3 StR 318/13](3-str-318-13.md) — Bemessung einer Jugendstrafe wegen schweren sexuellen Missbrauchs eines Kindes: Fehlerhafte Berücksichtigung des tatbestandlichen Regelbildes bei Feststellung d
+- [BGH, Beschluss vom 08.01.2014 - 3 StR 318/13](3-str-318-13.md) — Bemessung einer Jugendstrafe wegen schweren sexuellen Missbrauchs eines Kindes: Fehlerhafte Berücksichtigung des tatbestandlichen Regelbildes bei Feststellung des Unrechtsgehaltes
 - [BGH, Beschluss vom 08.01.2014 - 3 StR 372/13](3-str-372-13.md) — Adhäsionsverfahren: Bemessung des Schmerzensgeldes bei mittäterschaftlich begangener Körperverletzung mit unterschiedlicher Tatbeteiligung
-- [BGH, Beschluss vom 08.01.2014 - 3 StR 416/13](3-str-416-13.md) — Sexueller Missbrauch einer widerstandsunfähigen Person: Fehlvorstellung vom Wachzustand der geschädigten schlafenden Person; Irrtum über die Einwilligung der sc
+- [BGH, Beschluss vom 08.01.2014 - 3 StR 416/13](3-str-416-13.md) — Sexueller Missbrauch einer widerstandsunfähigen Person: Fehlvorstellung vom Wachzustand der geschädigten schlafenden Person; Irrtum über die Einwilligung der schlafenden Person

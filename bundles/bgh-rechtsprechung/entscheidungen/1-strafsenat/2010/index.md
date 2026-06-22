@@ -3,9 +3,9 @@
 74 Entscheidung(en).
 
 - [BGH, Beschluss vom 15.12.2010 - 1 ARs 22/10](1-ars-22-10.md) — Antwort auf Anfrage des 5. Strafsenats zur rückwirkenden Anwendung der Unterbringung in der Sicherungsverwahrung
-- [BGH, Beschluss vom 14.12.2010 - 1 StR 275/10](1-str-275-10.md) — Eine Strafbarkeit wegen vollendeter Steuerhinterziehung gemäß § 370 Abs. 1 Nr. 1 AO aufgrund unrichtiger oder unvollständiger Angaben entfällt nicht deshalb, we
-- [BGH, Beschluss vom 14.12.2010 - 1 StR 420/10](1-str-420-10.md) — Strafurteil wegen Steuerhinterziehung: Bezifferung der Steuerverkürzung bei Vorsteuerabzug aus Scheinrechnungen; Unwirksamkeit einer Zustellungsanordnung des Vo
-- [BGH, Beschluss vom 14.12.2010 - 1 StR 421/10](1-str-421-10.md) — Steuerhinterziehung: Anforderungen an die Beweiswürdigung und die Urteilsfeststellungen bei unberechtigtem Vorsteuerabzug auf der Grundlage von Scheinrechnungen
+- [BGH, Beschluss vom 14.12.2010 - 1 StR 275/10](1-str-275-10.md) — Eine Strafbarkeit wegen vollendeter Steuerhinterziehung gemäß § 370 Abs. 1 Nr. 1 AO aufgrund unrichtiger oder unvollständiger Angaben entfällt nicht deshalb, weil den zuständigen …
+- [BGH, Beschluss vom 14.12.2010 - 1 StR 420/10](1-str-420-10.md) — Strafurteil wegen Steuerhinterziehung: Bezifferung der Steuerverkürzung bei Vorsteuerabzug aus Scheinrechnungen; Unwirksamkeit einer Zustellungsanordnung des Vorsitzenden "an …
+- [BGH, Beschluss vom 14.12.2010 - 1 StR 421/10](1-str-421-10.md) — Steuerhinterziehung: Anforderungen an die Beweiswürdigung und die Urteilsfeststellungen bei unberechtigtem Vorsteuerabzug auf der Grundlage von Scheinrechnungen im Falle eines …
 - [BGH, Beschluss vom 14.12.2010 - 1 StR 422/10](1-str-422-10.md) — Revision im Strafverfahren: Verfahrensrüge eines des Lesens unkundigen Angeklagten wegen Anordnung und Durchführung des Selbstleseverfahrens
 - [BGH, EuGH-Vorlage vom 08.12.2010 - 1 StR 213/10](1-str-213-10.md) — Vorlage an den EuGH: Vereinbarkeit der Strafbarkeit des unerlaubten Verbreiten urheberrechtlich geschützter Werke mit dem freien Warenverkehr
 - [BGH, Beschluss vom 03.12.2010 - 1 StR 538/10](1-str-538-10.md) — Strafmilderung wegen Offenbarung ermittlungsrelevanter Angaben: Maßgeblicher Zeitpunkt für die Präklusion offenbarten Wissens
@@ -13,37 +13,37 @@
 - [BGH, Beschluss vom 30.11.2010 - 1 StR 509/10](1-str-509-10.md) — Strafverfahren wegen Mordes: Hinweis auf Änderung des rechtlichen Gesichtspunkts bei unverändertem Sachverhalt; Lügendetektor als ungeeignetes Beweismittel
 - [BGH, Beschluss vom 30.11.2010 - 1 StR 574/10](1-str-574-10.md) — Unerlaubter Waffenbesitz: Konkurrenz bei gleichzeitiger Ausübung der tatsächlichen Gewalt über mehrere Waffen an verschiedenen Orten
 - [BGH, Beschluss vom 17.11.2010 - 1 StR 145/10](1-str-145-10.md) — Strafverfahren: Zeitpunkt der Entscheidung über einen Beweisantrag
-- [BGH, Beschluss vom 16.11.2010 - 1 StR 502/10](1-str-502-10.md) — Kreditbetrug oder Betrug: Täuschung über die Verwendung des vom Inhaber einer Arztpraxis zwecks privaten Immobilienerwerbs aufgenommenen Kredits; Anforderungen 
+- [BGH, Beschluss vom 16.11.2010 - 1 StR 502/10](1-str-502-10.md) — Kreditbetrug oder Betrug: Täuschung über die Verwendung des vom Inhaber einer Arztpraxis zwecks privaten Immobilienerwerbs aufgenommenen Kredits; Anforderungen an vorsätzliches …
 - [BGH, Beschluss vom 03.11.2010 - 1 StR 497/10](1-str-497-10.md) — Bedarf es der Darlegung der Konnexität, so hat der Antragsteller die Tatsachen, die diese begründen sollen, bestimmt zu behaupten .
-- [BGH, Beschluss vom 03.11.2010 - 1 StR 500/10](1-str-500-10.md) — Befangenheitsbesorgnis: Verwendung des Begriffs "Aufmandeln" gegenüber dem Verteidiger des Angeklagten durch den vorsitzenden Richter - Besorgnis der Befangenhe
+- [BGH, Beschluss vom 03.11.2010 - 1 StR 500/10](1-str-500-10.md) — Befangenheitsbesorgnis: Verwendung des Begriffs "Aufmandeln" gegenüber dem Verteidiger des Angeklagten durch den vorsitzenden Richter - Besorgnis der Befangenheit
 - [BGH, Beschluss vom 03.11.2010 - 1 StR 520/10](1-str-520-10.md) — Zum Beweiswert einer kombinierten Analyse von Kern-DNA und mitochondrialer DNA .
 - [BGH, Beschluss vom 02.11.2010 - 1 StR 544/09](1-str-544-09.md) — Steuerhinterziehung: Verlustvortrag als Steuervorteil
-- [BGH, Urteil vom 02.11.2010 - 1 StR 579/09](1-str-579-09.md) — Betäubungsmitteldelikte: Strafbarkeit der bandenmäßigen Ausfuhr von betäubungsmittelhaltigen Medikamenten und Zubereitungen in Form des unerlaubten Internet-Ver
+- [BGH, Urteil vom 02.11.2010 - 1 StR 579/09](1-str-579-09.md) — Betäubungsmitteldelikte: Strafbarkeit der bandenmäßigen Ausfuhr von betäubungsmittelhaltigen Medikamenten und Zubereitungen in Form des unerlaubten Internet-Versandhandels …
 - [BGH, Urteil vom 02.11.2010 - 1 StR 581/09](1-str-581-09.md) — Zur nicht geringen Menge von Benzodiazepinen und Zolpidem .
 - [BGH, Beschluss vom 25.10.2010 - 1 StR 57/10](1-str-57-10.md) — Zur Tötung von Unbeteiligten in Italien im Zweiten Weltkrieg als Rache für einen Partisanenangriff .
-- [BGH, Beschluss vom 20.10.2010 - 1 StR 400/10](1-str-400-10.md) — Hauptverhandlung in Strafsachen: Notwendige Mitteilung und Protokollierung eines telefonischen Verständigungsversuchs des Strafkammervorsitzenden mit dem Vertei
-- [BGH, Urteil vom 19.10.2010 - 1 StR 266/10](1-str-266-10.md) — In einem Einstellungsurteil wegen Verjährung sind die tatsächlichen und rechtlichen Voraussetzungen des Verfahrenshindernisses in einer revisionsrechtlich überp
+- [BGH, Beschluss vom 20.10.2010 - 1 StR 400/10](1-str-400-10.md) — Hauptverhandlung in Strafsachen: Notwendige Mitteilung und Protokollierung eines telefonischen Verständigungsversuchs des Strafkammervorsitzenden mit dem Verteidiger; Beruhen des …
+- [BGH, Urteil vom 19.10.2010 - 1 StR 266/10](1-str-266-10.md) — In einem Einstellungsurteil wegen Verjährung sind die tatsächlichen und rechtlichen Voraussetzungen des Verfahrenshindernisses in einer revisionsrechtlich überprüfbaren Weise …
 - [BGH, Beschluss vom 11.10.2010 - 1 StR 359/10](1-str-359-10.md) — Verständigung im Strafverfahren: Mitteilung des Strafrahmens; Feststellungen zur Verständigung im Urteil
-- [BGH, Beschluss vom 08.10.2010 - 1 StR 347/10](1-str-347-10.md) — Verständigung im Strafverfahren: Beschwer des Angeklagten bei fehlender Angabe einer Strafuntergrenze in der Bekanntgabe des Inhalts einer möglichen Verständigu
-- [BGH, Beschluss vom 07.10.2010 - 1 StR 424/10](1-str-424-10.md) — Zum Umfang der erforderlichen Feststellungen bei der Verurteilung wegen Vorenthaltens und Veruntreuens von Arbeitsentgelt i.S.v. § 266a Abs. 1 StGB in Fällen de
+- [BGH, Beschluss vom 08.10.2010 - 1 StR 347/10](1-str-347-10.md) — Verständigung im Strafverfahren: Beschwer des Angeklagten bei fehlender Angabe einer Strafuntergrenze in der Bekanntgabe des Inhalts einer möglichen Verständigung durch das Gericht
+- [BGH, Beschluss vom 07.10.2010 - 1 StR 424/10](1-str-424-10.md) — Zum Umfang der erforderlichen Feststellungen bei der Verurteilung wegen Vorenthaltens und Veruntreuens von Arbeitsentgelt i.S.v. § 266a Abs. 1 StGB in Fällen der Nicht-Zahlung …
 - [BGH, Beschluss vom 07.10.2010 - 1 StR 484/10](1-str-484-10.md) — Gesamtstrafenbildung bei Steuerhinterziehung: Einbeziehung von Geldstrafen in eine Gesamtfreiheitstrafe
 - [BGH, Beschluss vom 05.10.2010 - 1 StR 264/10](1-str-264-10.md) — Strafverfahren: Absoluter Revisionsgrund bei Augenscheinseinnahme in Abwesenheit des Angeklagten
 - [BGH, Beschluss vom 24.09.2010 - 1 StR 373/10](1-str-373-10.md) — Zum Spezialitätsgrundsatz bei Serienstraftaten.
-- [BGH, Beschluss vom 13.09.2010 - 1 StR 220/09](1-str-220-09.md) — 1. Eine nach § 119 Abs. 1 Nr. 1 Alt. 2 i.V.m. § 20 Abs. 2 BetrVG strafbare Beeinflussung der Wahl des Betriebsrats liegt jedenfalls dann vor, wenn der Arbeitgeb
+- [BGH, Beschluss vom 13.09.2010 - 1 StR 220/09](1-str-220-09.md) — 1. Eine nach § 119 Abs. 1 Nr. 1 Alt. 2 i.V.m. § 20 Abs. 2 BetrVG strafbare Beeinflussung der Wahl des Betriebsrats liegt jedenfalls dann vor, wenn der Arbeitgeber einer …
 - [BGH, Beschluss vom 13.09.2010 - 1 StR 423/10](1-str-423-10.md) — Abgrenzung zwischen unbeendetem und beendetem Totschlagsversuch
 - [BGH, Beschluss vom 27.08.2010 - 1 StR 217/10](1-str-217-10.md) — Gewerbsmäßiger Schmuggel: Strafbarkeit des Komplementärs einer Import-KG wegen der Hinterziehung von Antidumpingzöllen
 - [BGH, Beschluss vom 27.08.2010 - 1 StR 218/10](1-str-218-10.md) — Bestrafung nach einem Zeitgesetz: EG-Verordnung über die Erhebung von Antidumpingzöllen
 - [BGH, Beschluss vom 25.08.2010 - 1 StR 410/10](1-str-410-10.md) — Eine starke Erhöhung der Einsatzstrafe legt einen Rechtsfehler bei der Gesamtstrafenbildung gemäß § 54 StGB nicht ohne weiteres nahe.
-- [BGH, Urteil vom 11.08.2010 - 1 StR 199/10](1-str-199-10.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Notwendige Tatsachenfeststellungen im Strafurteil zur Höhe vorenthaltener Sozialversicherungsbeträge; Schätzung
+- [BGH, Urteil vom 11.08.2010 - 1 StR 199/10](1-str-199-10.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Notwendige Tatsachenfeststellungen im Strafurteil zur Höhe vorenthaltener Sozialversicherungsbeträge; Schätzung des strafrechtlich …
 - [BGH, Beschluss vom 11.08.2010 - 1 StR 351/10](1-str-351-10.md) — Gefährliche Körperverletzung: Erlaubnistatbestandsirrtum; Einsatz eines Messers als erforderliche Verteidigungshandlung
 - [BGH, Beschluss vom 28.07.2010 - 1 StR 332/10](1-str-332-10.md) — Steuerstrafverfahren: Eintritt der Regelwirkung für den Strafrahmen des besonders schweren Falls bei der versuchten Steuerhinterziehung in großem Ausmaß
-- [BGH, Urteil vom 28.07.2010 - 1 StR 643/09](1-str-643-09.md) — Steuerstrafverfahren: Verhandlung in Abwesenheit des Angeklagten bei einem wesentlichen Teil der Hauptverhandlung; Ermittlung des Schuldumfangs der Steuerhinter
+- [BGH, Urteil vom 28.07.2010 - 1 StR 643/09](1-str-643-09.md) — Steuerstrafverfahren: Verhandlung in Abwesenheit des Angeklagten bei einem wesentlichen Teil der Hauptverhandlung; Ermittlung des Schuldumfangs der Steuerhinterziehung eines …
 - [BGH, Beschluss vom 27.07.2010 - 1 StR 319/10](1-str-319-10.md) — Strafverfolgungsverjährung: Abgrenzung zwischen Wohnungseinbruchsdiebstahl und Diebstahl in einem besonders schweren Fall
-- [BGH, Beschluss vom 27.07.2010 - 1 StR 345/10](1-str-345-10.md) — Gibt das Gericht gemäß § 257c Abs. 3 Satz 2 StPO eine Ober- und Untergrenze der Strafe an, ist es nicht gehindert, die angegebene Obergrenze als Strafe zu verhä
+- [BGH, Beschluss vom 27.07.2010 - 1 StR 345/10](1-str-345-10.md) — Gibt das Gericht gemäß § 257c Abs. 3 Satz 2 StPO eine Ober- und Untergrenze der Strafe an, ist es nicht gehindert, die angegebene Obergrenze als Strafe zu verhängen.
 - [BGH, Beschluss vom 14.07.2010 - 1 StR 123/10](1-str-123-10.md) — Terminsbestimmung in Strafverfahren: Abstimmung mit den Wahlverteidigern des Vertrauens
 - [BGH, Beschluss vom 14.07.2010 - 1 StR 245/09](1-str-245-09.md) — Betrug: Vermögensschaden in Form des persönlichen Schadenseinschlags
 - [BGH, Beschluss vom 13.07.2010 - 1 StR 239/10](1-str-239-10.md) — Strafverfahren wegen Steuerhinterziehung: Anordnung des Wertersatzverfalls in so genannten Verschiebungsfällen
-- [BGH, Beschluss vom 07.07.2010 - 1 StR 212/10](1-str-212-10.md) — Auch bei der wirksamen Beschränkung der Berufung auf die Frage der Strafaussetzung zur Bewährung ist eine Gesamtstrafenbildung nach § 55 StGB durch das Berufung
+- [BGH, Beschluss vom 07.07.2010 - 1 StR 212/10](1-str-212-10.md) — Auch bei der wirksamen Beschränkung der Berufung auf die Frage der Strafaussetzung zur Bewährung ist eine Gesamtstrafenbildung nach § 55 StGB durch das Berufungsgericht …
 - [BGH, Beschluss vom 01.07.2010 - 1 StR 195/10](1-str-195-10.md) — Strafverfahren: Gegenstandslosigkeit eines Urteils
 - [BGH, Beschluss vom 01.07.2010 - 1 StR 259/10](1-str-259-10.md) — Revision in Strafsachen: Anforderungen an die Begründung der Aufklärungsrüge
 - [BGH, Beschluss vom 29.06.2010 - 1 StR 157/10](1-str-157-10.md) — Strafverfahren: Hinweis auf beabsichtigte Verwertung von ausgeschiedenem Verfahrensstoff und Protokollinhalt
@@ -54,25 +54,25 @@
 - [BGH, Beschluss vom 19.05.2010 - 1 StR 148/10](1-str-148-10.md) — Störung des öffentlichen Friedens; Vortäuschen einer Straftat
 - [BGH, Beschluss vom 18.05.2010 - 1 StR 111/10](1-str-111-10.md) — Betrug und Vorenthalten von Arbeitsentgelt: Konkludente Täuschung der zuständigen Sozialversicherungsträger durch Unterlassen der Meldung von Arbeitnehmern
 - [BGH, Beschluss vom 12.05.2010 - 1 StR 530/09](1-str-530-09.md) — Verwerfung der Revision ohne Hauptverhandlung: Umfang des Rechts des Angeklagten zur Gegenerklärung
-- [BGH, Urteil vom 11.05.2010 - 1 StR 40/10](1-str-40-10.md) — Nachträgliche Sicherungsverwahrung: Psychiatrische Befundtatsachen als "neue" Tatsachen und Erfordernis einer individuellen Gefährlichkeitsprüfung anstelle des 
+- [BGH, Urteil vom 11.05.2010 - 1 StR 40/10](1-str-40-10.md) — Nachträgliche Sicherungsverwahrung: Psychiatrische Befundtatsachen als "neue" Tatsachen und Erfordernis einer individuellen Gefährlichkeitsprüfung anstelle des Zurückgreifens auf …
 - [BGH, Beschluss vom 29.04.2010 - 1 StR 644/09](1-str-644-09.md) — Strafverfahren: Notwendiger Inhalt eines auf die Vernehmung eines Auslandszeugen gerichteten Beweisantrages
 - [BGH, Beschluss vom 27.04.2010 - 1 StR 153/10](1-str-153-10.md) — Menschenraub: Aussetzen in hilfloser Lage; Verabredung zu einem Verbrechen
 - [BGH, Urteil vom 27.04.2010 - 1 StR 454/09](1-str-454-09.md) — Strafverfahren: Zulässigkeit der Beschränkung der Revision auf einen Teilfreispruch bei einer Tatserie von Steuerhinterziehungen
 - [BGH, Beschluss vom 14.04.2010 - 1 StR 105/10](1-str-105-10.md) — Steuerhinterziehung durch pflichtwidriges Unterlassen: Verantwortlichkeit des formellen Geschäftsführers der GmbH
-- [BGH, Beschluss vom 14.04.2010 - 1 StR 64/10](1-str-64-10.md) — Ist dem Urteil eine Verständigung (§ 257c StPO) vorausgegangen, so kann eine Zurücknahme des Rechtsmittels grundsätzlich auch noch vor Ablauf der Frist zu seine
+- [BGH, Beschluss vom 14.04.2010 - 1 StR 64/10](1-str-64-10.md) — Ist dem Urteil eine Verständigung (§ 257c StPO) vorausgegangen, so kann eine Zurücknahme des Rechtsmittels grundsätzlich auch noch vor Ablauf der Frist zu seiner Einlegung wirksam …
 - [BGH, Urteil vom 13.04.2010 - 1 StR 648/09](1-str-648-09.md) — Strafverfahren wegen Betruges: Revisionsgerichtliche Nachprüfung eines Freispruchs
 - [BGH, Beschluss vom 25.03.2010 - 1 StR 52/10](1-str-52-10.md) — Strafverfahren wegen Hinterziehung von Tabaksteuer: Anforderungen an die Steuerberechnung durch das Tatgericht
 - [BGH, Beschluss vom 11.03.2010 - 1 ARs 1/10](1-ars-1-10.md) — Strafbarkeit der Nichtanzeige geplanter Straftaten bei Verdacht der Beteiligung an geplanter Straftat
-- [BGH, Urteil vom 09.03.2010 - 1 StR 554/09](1-str-554-09.md) — Nachträgliche Anordnung von Sicherungsverwahrung für einen nach Jugendstrafrecht verurteilten Straftäter: Vereinbarkeit der Maßregelanordnung mit höherrangigem 
+- [BGH, Urteil vom 09.03.2010 - 1 StR 554/09](1-str-554-09.md) — Nachträgliche Anordnung von Sicherungsverwahrung für einen nach Jugendstrafrecht verurteilten Straftäter: Vereinbarkeit der Maßregelanordnung mit höherrangigem Recht …
 - [BGH, Vorlagebeschluss vom 24.02.2010 - 1 StR 260/09](1-str-260-09.md) — Verlesung des Anklagesatzes in der Hauptverhandlung bei einer Vielzahl gleichförmiger Taten oder Tateinzelakten
 - [BGH, Urteil vom 23.02.2010 - 1 StR 623/09](1-str-623-09.md) — Bestechlichkeit: Beseitigung der Indizwirkung des Regelbeispiels der gewerbs- und bandenmäßigen Begehung durch tragfähige Milderungsgründe
 - [BGH, Beschluss vom 23.02.2010 - 1 StR 627/09](1-str-627-09.md) — Verbindung zusammenhängender Strafsachen
 - [BGH, Beschluss vom 04.02.2010 - 1 StR 3/10](1-str-3-10.md) — Letztes Wort des Angeklagten: Wiedereintritt in die Verhandlung nach Schluss der Beweisaufnahme
-- [BGH, Urteil vom 04.02.2010 - 1 StR 95/09](1-str-95-09.md) — 1. „Sich-Verschaffen“ im Sinne des § 261 Abs. 2 Nr. 1 StGB fordert kein kollusives Zusammenwirken von Geldwäscher und Vortäter. Dieses Tatbestandsmerkmal verlan
-- [BGH, Urteil vom 02.02.2010 - 1 StR 635/09](1-str-635-09.md) — Steuerhehlerei: Besitzerwerb an steuerpflichtigen Tabakwaren vor Beendigung des Verbringens oder Versendens als Voraussetzung der Erklärungspflicht; Berücksicht
-- [BGH, Beschluss vom 20.01.2010 - 1 StR 634/09](1-str-634-09.md) — Steuerhinterziehung: Strafbefreiende Selbstanzeige eines Finanzbeamten bei Beginn der Innenrevision; Schadenswiedergutmachung bei Veranlassung der Schadensersat
+- [BGH, Urteil vom 04.02.2010 - 1 StR 95/09](1-str-95-09.md) — 1. „Sich-Verschaffen“ im Sinne des § 261 Abs. 2 Nr. 1 StGB fordert kein kollusives Zusammenwirken von Geldwäscher und Vortäter. Dieses Tatbestandsmerkmal verlangt nur, dass der …
+- [BGH, Urteil vom 02.02.2010 - 1 StR 635/09](1-str-635-09.md) — Steuerhehlerei: Besitzerwerb an steuerpflichtigen Tabakwaren vor Beendigung des Verbringens oder Versendens als Voraussetzung der Erklärungspflicht; Berücksichtigung …
+- [BGH, Beschluss vom 20.01.2010 - 1 StR 634/09](1-str-634-09.md) — Steuerhinterziehung: Strafbefreiende Selbstanzeige eines Finanzbeamten bei Beginn der Innenrevision; Schadenswiedergutmachung bei Veranlassung der Schadensersatzzahlung von …
 - [BGH, Beschluss vom 14.01.2010 - 1 StR 587/09](1-str-587-09.md) — Betäubungsmitteldelikt: Tateinheit bei wiederholtem Rauschgifterwerb von demselben Lieferanten
-- [BGH, Beschluss vom 14.01.2010 - 1 StR 595/09](1-str-595-09.md) — Nachträgliche Anordnung von Sicherungsverwahrung: Vorliegen neuer Tatsachen bei Therapieunfähigkeit eines in einem psychiatrischen Krankenhaus untergebrachten V
-- [BGH, Beschluss vom 14.01.2010 - 1 StR 620/09](1-str-620-09.md) — Ablehnung eines Beweisantrags im Strafverfahren: Anforderungen an den Beweisantrag auf Vernehmung des geflohenen früheren Mitangeklagten als Zeuge; Verfahrensrü
+- [BGH, Beschluss vom 14.01.2010 - 1 StR 595/09](1-str-595-09.md) — Nachträgliche Anordnung von Sicherungsverwahrung: Vorliegen neuer Tatsachen bei Therapieunfähigkeit eines in einem psychiatrischen Krankenhaus untergebrachten Verurteilten
+- [BGH, Beschluss vom 14.01.2010 - 1 StR 620/09](1-str-620-09.md) — Ablehnung eines Beweisantrags im Strafverfahren: Anforderungen an den Beweisantrag auf Vernehmung des geflohenen früheren Mitangeklagten als Zeuge; Verfahrensrüge wegen …
 - [BGH, Urteil vom 13.01.2010 - 1 StR 372/09](1-str-372-09.md) — Anordnung der nachträglichen Sicherungsverwahrung: Erkennbarkeit neuer Tatsachen nach der Anlassverurteilung
-- [BGH, Urteil vom 12.01.2010 - 1 StR 272/09](1-str-272-09.md) — Fahrlässige Tötung und Körperverletzung: Verantwortlichkeit eines Bauingenieurs für den Tod und die Verletzung von Personen infolge des Einsturzes des Dachs ein
+- [BGH, Urteil vom 12.01.2010 - 1 StR 272/09](1-str-272-09.md) — Fahrlässige Tötung und Körperverletzung: Verantwortlichkeit eines Bauingenieurs für den Tod und die Verletzung von Personen infolge des Einsturzes des Dachs einer Eissporthalle …

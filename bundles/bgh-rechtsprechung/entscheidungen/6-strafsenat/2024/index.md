@@ -14,7 +14,7 @@
 - [BGH, Beschluss vom 04.12.2024 - 6 StR 452/24](6-str-452-24.md) — BGH, Beschluss 6 StR 452/24
 - [BGH, Beschluss vom 04.12.2024 - 6 StR 542/24](6-str-542-24.md) — Strafverurteilung wegen Zwangsprostitution u.a.: Nachträgliche Gesamtstrafenbildung, Neufestsetzung der Strafe bei Handeltreiben mit Cannabis
 - [BGH, Beschluss vom 04.12.2024 - 6 StR 612/24](6-str-612-24.md) — Adhäsionsverfahren: Erforderlichkeit der Stellung eines unbedingten Adhäsionsantrages nach Bewilligung von Prozesskostenhilfe
-- [BGH, Urteil vom 27.11.2024 - 6 StR 210/24](6-str-210-24.md) — Gewerbsmäßiger Bandenbetrug mit Auslandsbezug: Mittäterschaft in Love-Scamming-Fällen durch Kontoüberweisung von Taterträgen als Verfügungsberechtigter; Haftung
+- [BGH, Urteil vom 27.11.2024 - 6 StR 210/24](6-str-210-24.md) — Gewerbsmäßiger Bandenbetrug mit Auslandsbezug: Mittäterschaft in Love-Scamming-Fällen durch Kontoüberweisung von Taterträgen als Verfügungsberechtigter; Haftung als Gesamtschuldner
 - [BGH, Urteil vom 27.11.2024 - 6 StR 286/24](6-str-286-24.md) — Beweiswürdigung in Aussage-gegen-Aussage-Konstellation im Rahmen eines Vergewaltigungsvorwurfs; tragfähige Begründung einer Kompensationsentscheidung
 - [BGH, Urteil vom 27.11.2024 - 6 StR 327/24](6-str-327-24.md) — BGH, Urteil 6 StR 327/24
 - [BGH, Beschluss vom 27.11.2024 - 6 StR 477/24](6-str-477-24.md) — BGH, Beschluss 6 StR 477/24
@@ -59,7 +59,7 @@
 - [BGH, Beschluss vom 01.10.2024 - 6 StR 230/24](6-str-230-24.md) — Strafmaß bei Mord durch Unterlassen im Falle der Vernachlässigung eines 1-jährigen Kindes
 - [BGH, Beschluss vom 01.10.2024 - 6 StR 320/24](6-str-320-24.md) — BGH, Beschluss 6 StR 320/24
 - [BGH, Beschluss vom 01.10.2024 - 6 StR 384/24](6-str-384-24.md) — BGH, Beschluss 6 StR 384/24
-- [BGH, Beschluss vom 01.10.2024 - 6 StR 394/24](6-str-394-24.md) — Strafverurteilung wegen Exhibitionismus u.a. mit anschließender Unterbringung in einem psychiatrischen Krankenhaus: Tatnachweis durch Zeugnis vom Hörensagen; sy
+- [BGH, Beschluss vom 01.10.2024 - 6 StR 394/24](6-str-394-24.md) — Strafverurteilung wegen Exhibitionismus u.a. mit anschließender Unterbringung in einem psychiatrischen Krankenhaus: Tatnachweis durch Zeugnis vom Hörensagen; symptomatischer …
 - [BGH, Beschluss vom 30.09.2024 - 6 StR 331/24](6-str-331-24.md) — Vorsätzliches unerlaubtes Führen einer Schusswaffe in Tateinheit mit vorsätzlichem unerlaubten Besitz einer Schusswaffe
 - [BGH, Beschluss vom 30.09.2024 - 6 StR 352/24](6-str-352-24.md) — BGH, Beschluss 6 StR 352/24
 - [BGH, Beschluss vom 30.09.2024 - 6 StR 421/24](6-str-421-24.md) — Notwendige Feststellungen in Urteilsgründen zur Einlassung des Angeklagten
@@ -90,8 +90,8 @@
 - [BGH, Beschluss vom 21.08.2024 - 6 StR 437/24](6-str-437-24.md) — BGH, Beschluss 6 StR 437/24
 - [BGH, Urteil vom 21.08.2024 - 6 StR 72/24](6-str-72-24.md) — BGH, Urteil 6 StR 72/24
 - [BGH, Beschluss vom 21.08.2024 - 6 StR 95/24](6-str-95-24.md) — BGH, Beschluss 6 StR 95/24
-- [BGH, Beschluss vom 20.08.2024 - 6 StR 131/24](6-str-131-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die gerichtliche Prüfung der verminderten Schuldfähigkeit bei intellektueller Minderbegabun
-- [BGH, Beschluss vom 20.08.2024 - 6 StR 221/24](6-str-221-24.md) — Strafverfahren wegen Vergewaltigung u.a.: Rechtsstaatswidrige Verfahrensverzögerung in einer Haftsache bei verzögerter Urteilszustellung; Verhinderung eines Pro
+- [BGH, Beschluss vom 20.08.2024 - 6 StR 131/24](6-str-131-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die gerichtliche Prüfung der verminderten Schuldfähigkeit bei intellektueller Minderbegabung
+- [BGH, Beschluss vom 20.08.2024 - 6 StR 221/24](6-str-221-24.md) — Strafverfahren wegen Vergewaltigung u.a.: Rechtsstaatswidrige Verfahrensverzögerung in einer Haftsache bei verzögerter Urteilszustellung; Verhinderung eines Protokollbeamten an …
 - [BGH, Beschluss vom 20.08.2024 - 6 StR 271/24](6-str-271-24.md) — BGH, Beschluss 6 StR 271/24
 - [BGH, Beschluss vom 20.08.2024 - 6 StR 343/24](6-str-343-24.md) — BGH, Beschluss 6 StR 343/24
 - [BGH, Urteil vom 07.08.2024 - 6 StR 552/23](6-str-552-23.md) — Verurteilung wegen erpresserischen Menschenraubs und Strafzumessungserwägungen
@@ -148,7 +148,7 @@
 - [BGH, Urteil vom 14.05.2024 - 6 StR 458/23](6-str-458-23.md) — BGH, Urteil 6 StR 458/23
 - [BGH, Urteil vom 14.05.2024 - 6 StR 465/23](6-str-465-23.md) — BGH, Urteil 6 StR 465/23
 - [BGH, Beschluss vom 14.05.2024 - 6 StR 502/23](6-str-502-23.md) — Der Strafrahmen des § 177 Abs. 6 Satz 1 StGB entfaltet umfassende Sperrwirkung gegenüber demjenigen des § 177 Abs. 9 Variante 3 StGB.
-- [BGH, Beschluss vom 30.04.2024 - 6 StR 164/24](6-str-164-24.md) — Konkurrenzverhältnis bei Betäubungsmitteldelikten: Bereithalten verschiedener Mengen zum Verkauf bestimmten Marihuana sowie Amphetamingemisch in einem Raum zusa
+- [BGH, Beschluss vom 30.04.2024 - 6 StR 164/24](6-str-164-24.md) — Konkurrenzverhältnis bei Betäubungsmitteldelikten: Bereithalten verschiedener Mengen zum Verkauf bestimmten Marihuana sowie Amphetamingemisch in einem Raum zusammen mit einer Waffe
 - [BGH, Beschluss vom 30.04.2024 - 6 StR 175/24](6-str-175-24.md) — BGH, Beschluss 6 StR 175/24
 - [BGH, Beschluss vom 30.04.2024 - 6 StR 488/21](6-str-488-21.md) — BGH, Beschluss 6 StR 488/21
 - [BGH, Beschluss vom 30.04.2024 - 6 StR 536/23](6-str-536-23.md) — Zäsurwirkung beim Dauerdelikt des Waffenbesitzes durch Begehung des bewaffneten Handeltreibens mit Cannabis
@@ -173,9 +173,9 @@
 - [BGH, Beschluss vom 16.04.2024 - 6 StR 365/23](6-str-365-23.md) — BGH, Beschluss 6 StR 365/23
 - [BGH, Beschluss vom 16.04.2024 - 6 StR 88/24](6-str-88-24.md) — BGH, Beschluss 6 StR 88/24
 - [BGH, Beschluss vom 03.04.2024 - 6 StR 11/24](6-str-11-24.md) — BGH, Beschluss 6 StR 11/24
-- [BGH, Beschluss vom 03.04.2024 - 6 StR 13/24](6-str-13-24.md) — Wird der Angeklagte wegen einer Tat verurteilt, die er als Jugendlicher beging, kommt die Einbeziehung einer Verurteilung nach allgemeinem Strafrecht wegen eine
+- [BGH, Beschluss vom 03.04.2024 - 6 StR 13/24](6-str-13-24.md) — Wird der Angeklagte wegen einer Tat verurteilt, die er als Jugendlicher beging, kommt die Einbeziehung einer Verurteilung nach allgemeinem Strafrecht wegen einer als …
 - [BGH, Urteil vom 03.04.2024 - 6 StR 329/23](6-str-329-23.md) — Tötung eines Säuglings durch Unterlassen: Anforderungen an Darlegungen des Vorsatzes bzw. der Fahrlässigkeit
-- [BGH, Beschluss vom 03.04.2024 - 6 StR 36/24](6-str-36-24.md) — Einziehungsanordnung im Strafverfahren: Ermittlung des Einziehungsbetrages bei Abrechnungsbetrug gegenüber der kassenärztlichen Vereinigung durch fehlerhafte är
+- [BGH, Beschluss vom 03.04.2024 - 6 StR 36/24](6-str-36-24.md) — Einziehungsanordnung im Strafverfahren: Ermittlung des Einziehungsbetrages bei Abrechnungsbetrug gegenüber der kassenärztlichen Vereinigung durch fehlerhafte ärztliche …
 - [BGH, Beschluss vom 03.04.2024 - 6 StR 5/24](6-str-5-24.md) — Sexuelle Nötigung: Ausnutzung eines dissoziativen Zustandes des Opfers
 - [BGH, Beschluss vom 03.04.2024 - 6 StR 77/24](6-str-77-24.md) — BGH, Beschluss 6 StR 77/24
 - [BGH, Beschluss vom 03.04.2024 - 6 StR 84/24](6-str-84-24.md) — BGH, Beschluss 6 StR 84/24
@@ -229,7 +229,7 @@
 - [BGH, Beschluss vom 24.01.2024 - 6 StR 558/23](6-str-558-23.md) — BGH, Beschluss 6 StR 558/23
 - [BGH, Beschluss vom 23.01.2024 - 6 StR 1/24](6-str-1-24.md) — BGH, Beschluss 6 StR 1/24
 - [BGH, Beschluss vom 23.01.2024 - 6 StR 551/23](6-str-551-23.md) — Erpresserischer Menschenraub: Vorliegen tätiger Reue
-- [BGH, Beschluss vom 10.01.2024 - 6 StR 276/23](6-str-276-23.md) — 1. Die Frist zur Anbringung von Beweisanträgen nach § 244 Abs. 6 Satz 3 StPO kann ohne Begründung gesetzt werden. 2. Zum Abschluss der von Amts wegen vorgesehen
+- [BGH, Beschluss vom 10.01.2024 - 6 StR 276/23](6-str-276-23.md) — 1. Die Frist zur Anbringung von Beweisanträgen nach § 244 Abs. 6 Satz 3 StPO kann ohne Begründung gesetzt werden. 2. Zum Abschluss der von Amts wegen vorgesehenen Beweisaufnahme …
 - [BGH, Urteil vom 10.01.2024 - 6 StR 324/23](6-str-324-23.md) — Zur Freiwilligkeit beim Rücktritt vom beendeten Versuch (§ 24 Abs. 1 Satz 1 Var. 2 StGB).
 - [BGH, Urteil vom 10.01.2024 - 6 StR 361/23](6-str-361-23.md) — BGH, Urteil 6 StR 361/23
 - [BGH, Beschluss vom 10.01.2024 - 6 StR 523/23](6-str-523-23.md) — BGH, Beschluss 6 StR 523/23

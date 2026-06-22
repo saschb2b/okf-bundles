@@ -5,7 +5,7 @@
 - [BGH, Beschluss vom 28.12.2023 - 5 StR 400/23](5-str-400-23.md) — Konkurrenzverhältnis von Bedrohung und einer versuchten Nötigung
 - [BGH, Beschluss vom 27.12.2023 - 5 StR 499/23](5-str-499-23.md) — Wechsel des Pflichtverteidigers
 - [BGH, Beschluss vom 11.12.2023 - 5 StR 559/23](5-str-559-23.md) — BGH, Beschluss 5 StR 559/23
-- [BGH, Urteil vom 07.12.2023 - 5 StR 168/23](5-str-168-23.md) — Sicherungsverwahrung: Betäubungsmittelstraftaten als „erhebliche“ Prognosetaten; Erforderlichkeit der Heranziehung eines Sachverständigen bzw. einer Erörterung 
+- [BGH, Urteil vom 07.12.2023 - 5 StR 168/23](5-str-168-23.md) — Sicherungsverwahrung: Betäubungsmittelstraftaten als „erhebliche“ Prognosetaten; Erforderlichkeit der Heranziehung eines Sachverständigen bzw. einer Erörterung der Maßregel in den …
 - [BGH, Beschluss vom 07.12.2023 - 5 StR 418/23](5-str-418-23.md) — BGH, Beschluss 5 StR 418/23
 - [BGH, Urteil vom 06.12.2023 - 5 StR 203/23](5-str-203-23.md) — Vergewaltigung: Voraussetzungen einer Nötigung mit Gewalt
 - [BGH, Beschluss vom 06.12.2023 - 5 StR 271/23](5-str-271-23.md) — Anforderung an ordnungsgemäße Begründung einer Inbegriffsrüge
@@ -71,7 +71,7 @@
 - [BGH, Beschluss vom 06.09.2023 - 5 StR 215/23](5-str-215-23.md) — BGH, Beschluss 5 StR 215/23
 - [BGH, Beschluss vom 31.08.2023 - 5 StR 159/23](5-str-159-23.md) — BGH, Beschluss 5 StR 159/23
 - [BGH, Beschluss vom 31.08.2023 - 5 StR 169/23](5-str-169-23.md) — BGH, Beschluss 5 StR 169/23
-- [BGH, Urteil vom 31.08.2023 - 5 StR 447/22](5-str-447-22.md) — Strafverfahren wegen Bestechung/Bestechlichkeit: Pflicht der Staatsanwaltschaft zur Einreichung elektronischer Dokumente; Voraussetzungen einer Strafbarkeit weg
+- [BGH, Urteil vom 31.08.2023 - 5 StR 447/22](5-str-447-22.md) — Strafverfahren wegen Bestechung/Bestechlichkeit: Pflicht der Staatsanwaltschaft zur Einreichung elektronischer Dokumente; Voraussetzungen einer Strafbarkeit wegen Vorteilsannahme …
 - [BGH, Beschluss vom 30.08.2023 - 5 StR 221/23](5-str-221-23.md) — BGH, Beschluss 5 StR 221/23
 - [BGH, Beschluss vom 29.08.2023 - 5 StR 209/23](5-str-209-23.md) — BGH, Beschluss 5 StR 209/23
 - [BGH, Beschluss vom 29.08.2023 - 5 StR 297/23](5-str-297-23.md) — BGH, Beschluss 5 StR 297/23
@@ -79,7 +79,7 @@
 - [BGH, Beschluss vom 17.08.2023 - 5 StR 349/23](5-str-349-23.md) — Veruntreuende Unterschlagung: Konkurrenzverhältnis bei Gewahrsamserlangung durch Betrug
 - [BGH, Beschluss vom 17.08.2023 - 5 StR 369/23](5-str-369-23.md) — BGH, Beschluss 5 StR 369/23
 - [BGH, Beschluss vom 16.08.2023 - 5 StR 126/23](5-str-126-23.md) — Beweiswürdigung bei Nichterscheinen eines Zeugen in der Hauptverhandlung
-- [BGH, Urteil vom 16.08.2023 - 5 StR 194/23](5-str-194-23.md) — Unterbringung eines betäubungsmittelabhängigen Straftäters in einer Entziehungsanstalt: Feststellung des Hangs und Beurteilung der Erfolgsaussicht einer Therapi
+- [BGH, Urteil vom 16.08.2023 - 5 StR 194/23](5-str-194-23.md) — Unterbringung eines betäubungsmittelabhängigen Straftäters in einer Entziehungsanstalt: Feststellung des Hangs und Beurteilung der Erfolgsaussicht einer Therapie
 - [BGH, Beschluss vom 16.08.2023 - 5 StR 244/23](5-str-244-23.md) — Unterbringung in einem psychiatrischen Krankenhaus: Fehlerhafte Feststellung einer hebephrenen Schizophrenie
 - [BGH, Beschluss vom 16.08.2023 - 5 StR 254/23](5-str-254-23.md) — BGH, Beschluss 5 StR 254/23
 - [BGH, Beschluss vom 16.08.2023 - 5 StR 322/23](5-str-322-23.md) — BGH, Beschluss 5 StR 322/23
@@ -103,7 +103,7 @@
 - [BGH, Beschluss vom 01.08.2023 - 5 StR 279/23](5-str-279-23.md) — Anfechtung eines Urteils wegen unterlassener Anordnung einer Maßregel
 - [BGH, Beschluss vom 01.08.2023 - 5 StR 405/22](5-str-405-22.md) — BGH, Beschluss 5 StR 405/22
 - [BGH, Beschluss vom 19.07.2023 - 5 ARs 23/23](5-ars-23-23.md) — BGH, Beschluss 5 ARs 23/23
-- [BGH, Beschluss vom 19.07.2023 - 5 StR 165/23](5-str-165-23.md) — Wohnungsdurchsuchung im Ermittlungsverfahren wegen Betäubungsmitteldelikten: Rechtmäßigkeitsprüfung bei Eilanordnung der Staatsanwaltschaft; Beweisverwertungsve
+- [BGH, Beschluss vom 19.07.2023 - 5 StR 165/23](5-str-165-23.md) — Wohnungsdurchsuchung im Ermittlungsverfahren wegen Betäubungsmitteldelikten: Rechtmäßigkeitsprüfung bei Eilanordnung der Staatsanwaltschaft; Beweisverwertungsverbot wegen …
 - [BGH, Urteil vom 19.07.2023 - 5 StR 36/23](5-str-36-23.md) — Tatertragseinzug bei Feststellung von Rauschgiftweiterverkauf
 - [BGH, Beschluss vom 19.07.2023 - 5 StR 96/23](5-str-96-23.md) — BGH, Beschluss 5 StR 96/23
 - [BGH, Beschluss vom 18.07.2023 - 5 StR 118/23](5-str-118-23.md) — BGH, Beschluss 5 StR 118/23
@@ -121,7 +121,7 @@
 - [BGH, Beschluss vom 05.07.2023 - 5 StR 50/23](5-str-50-23.md) — BGH, Beschluss 5 StR 50/23
 - [BGH, Beschluss vom 04.07.2023 - 5 StR 112/23](5-str-112-23.md) — BGH, Beschluss 5 StR 112/23
 - [BGH, Beschluss vom 04.07.2023 - 5 StR 121/23](5-str-121-23.md) — BGH, Beschluss 5 StR 121/23
-- [BGH, Beschluss vom 04.07.2023 - 5 StR 145/23](5-str-145-23.md) — Bei einer Dritteinziehung nach § 73b StGB ist dem Einziehungsbeteiligten im Rahmen einer Wiedereinsetzung entsprechend dem allgemeinen Grundsatz des § 85 Abs. 2
+- [BGH, Beschluss vom 04.07.2023 - 5 StR 145/23](5-str-145-23.md) — Bei einer Dritteinziehung nach § 73b StGB ist dem Einziehungsbeteiligten im Rahmen einer Wiedereinsetzung entsprechend dem allgemeinen Grundsatz des § 85 Abs. 2 ZPO ein …
 - [BGH, Beschluss vom 30.06.2023 - 5 StR 55/23](5-str-55-23.md) — Sexueller Missbrauch von Schutzbefohlenen durch Babysitter: Voraussetzungen eines Obhutsverhältnisses
 - [BGH, Beschluss vom 21.06.2023 - 5 StR 73/23](5-str-73-23.md) — Revision im Strafverfahren: Verstoß gegen den Öffentlichkeitsgrundsatz bei verschlossenen Eingangstüren nach Hausalarm
 - [BGH, Beschluss vom 20.06.2023 - 5 StR 133/23](5-str-133-23.md) — BGH, Beschluss 5 StR 133/23
@@ -171,7 +171,7 @@
 - [BGH, Beschluss vom 12.04.2023 - 5 StR 406/22](5-str-406-22.md) — BGH, Beschluss 5 StR 406/22
 - [BGH, Beschluss vom 12.04.2023 - 5 StR 74/23](5-str-74-23.md) — BGH, Beschluss 5 StR 74/23
 - [BGH, Beschluss vom 12.04.2023 - 5 StR 95/23](5-str-95-23.md) — Notwendigkeit der Schätzung von Wirkstoffgehalt eines Betäubungsmittels
-- [BGH, Beschluss vom 11.04.2023 - 5 StR 458/22](5-str-458-22.md) — Strafverfahren u.a. wegen Urkundenfälschung im besonders schweren Fall: Unmittelbarer Zusammenhang zwischen dem Gebrauchmachen von einer unechten Urkunde und ei
+- [BGH, Beschluss vom 11.04.2023 - 5 StR 458/22](5-str-458-22.md) — Strafverfahren u.a. wegen Urkundenfälschung im besonders schweren Fall: Unmittelbarer Zusammenhang zwischen dem Gebrauchmachen von einer unechten Urkunde und einem hohen …
 - [BGH, Beschluss vom 11.04.2023 - 5 StR 537/22](5-str-537-22.md) — BGH, Beschluss 5 StR 537/22
 - [BGH, Beschluss vom 11.04.2023 - 5 StR 71/23](5-str-71-23.md) — BGH, Beschluss 5 StR 71/23
 - [BGH, Beschluss vom 11.04.2023 - 5 StR 78/23](5-str-78-23.md) — Inverkehrbringen von Betäubungsmitteln als Strafschärfungsgrund
@@ -241,7 +241,7 @@
 - [BGH, Beschluss vom 04.01.2023 - 5 StR 290/22](5-str-290-22.md) — BGH, Beschluss 5 StR 290/22
 - [BGH, Beschluss vom 04.01.2023 - 5 StR 390/22](5-str-390-22.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Beihilfe bei Beendigung des Warenflusses durch Sicherstellung
 - [BGH, Beschluss vom 04.01.2023 - 5 StR 393/22](5-str-393-22.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Einziehung eines Messers als Tatmittel
-- [BGH, Beschluss vom 04.01.2023 - 5 StR 412/22](5-str-412-22.md) — Anforderungen an die Revisionsbegründung bei der Rüge einer wesentlichen Beschränkung der Verteidigung; Einsicht der Verteidigung in den Datenbestand der EncroC
+- [BGH, Beschluss vom 04.01.2023 - 5 StR 412/22](5-str-412-22.md) — Anforderungen an die Revisionsbegründung bei der Rüge einer wesentlichen Beschränkung der Verteidigung; Einsicht der Verteidigung in den Datenbestand der EncroChat-Kommunikation …
 - [BGH, Beschluss vom 04.01.2023 - 5 StR 453/22](5-str-453-22.md) — BGH, Beschluss 5 StR 453/22
 - [BGH, Beschluss vom 04.01.2023 - 5 StR 493/22](5-str-493-22.md) — BGH, Beschluss 5 StR 493/22
 - [BGH, Beschluss vom 03.01.2023 - 5 StR 241/22](5-str-241-22.md) — BGH, Beschluss 5 StR 241/22

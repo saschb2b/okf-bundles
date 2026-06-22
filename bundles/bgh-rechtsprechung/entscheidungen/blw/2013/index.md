@@ -2,5 +2,5 @@
 
 2 Entscheidung(en).
 
-- [BGH, EuGH-Vorlage vom 29.11.2013 - BLw 2/12](blw-2-12.md) — Dem Gerichtshof der Europäischen Union wird im Wege des Vorabentscheidungsverfahrens nach Art. 267 AEUV folgende Frage vorgelegt: Steht Art. 107 Abs. 1 AEUV ein
-- [BGH, Beschluss vom 29.11.2013 - BLw 4/12](blw-4-12.md) — 1. Ein im gerichtlichen Verfahren in Landwirtschaftssachen ergehender Beschluss muss nur von den Berufsrichtern, nicht auch von den ehrenamtlichen Richterin unt
+- [BGH, EuGH-Vorlage vom 29.11.2013 - BLw 2/12](blw-2-12.md) — Dem Gerichtshof der Europäischen Union wird im Wege des Vorabentscheidungsverfahrens nach Art. 267 AEUV folgende Frage vorgelegt: Steht Art. 107 Abs. 1 AEUV einer nationalen …
+- [BGH, Beschluss vom 29.11.2013 - BLw 4/12](blw-4-12.md) — 1. Ein im gerichtlichen Verfahren in Landwirtschaftssachen ergehender Beschluss muss nur von den Berufsrichtern, nicht auch von den ehrenamtlichen Richterin unterschrieben werden …

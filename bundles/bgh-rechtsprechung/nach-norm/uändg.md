@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UÄndG"
 description: "BGH-Entscheidungen zu UÄndG, geordnet nach Vorschrift."
 tags: [register, navigation, uändg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

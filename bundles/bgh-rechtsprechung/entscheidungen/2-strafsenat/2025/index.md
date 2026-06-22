@@ -34,7 +34,7 @@
 - [BGH, Beschluss vom 20.11.2025 - 2 StR 488/25](2-str-488-25.md) — BGH, Beschluss 2 StR 488/25
 - [BGH, Beschluss vom 20.11.2025 - 2 StR 588/25](2-str-588-25.md) — BGH, Beschluss 2 StR 588/25
 - [BGH, Beschluss vom 19.11.2025 - 2 StR 127/25](2-str-127-25.md) — BGH, Beschluss 2 StR 127/25
-- [BGH, Urteil vom 19.11.2025 - 2 StR 224/25](2-str-224-25.md) — 1. Der Adressat einer auf der Grundlage von Insiderinformationen erteilten Empfehlung unterliegt nach der Sonderregelung des Art. 8 Abs. 3 MAR dem insiderrechtl
+- [BGH, Urteil vom 19.11.2025 - 2 StR 224/25](2-str-224-25.md) — 1. Der Adressat einer auf der Grundlage von Insiderinformationen erteilten Empfehlung unterliegt nach der Sonderregelung des Art. 8 Abs. 3 MAR dem insiderrechtlichen Erwerbs- und …
 - [BGH, Beschluss vom 19.11.2025 - 2 StR 580/25](2-str-580-25.md) — BGH, Beschluss 2 StR 580/25
 - [BGH, Urteil vom 19.11.2025 - 2 StR 628/24](2-str-628-24.md) — BGH, Urteil 2 StR 628/24
 - [BGH, Beschluss vom 05.11.2025 - 2 StR 278/25](2-str-278-25.md) — BGH, Beschluss 2 StR 278/25
@@ -149,7 +149,7 @@
 - [BGH, Beschluss vom 01.07.2025 - 2 StR 643/24](2-str-643-24.md) — BGH, Beschluss 2 StR 643/24
 - [BGH, Beschluss vom 30.06.2025 - 2 ARs 174/25](2-ars-174-25.md) — BGH, Beschluss 2 ARs 174/25
 - [BGH, Beschluss vom 30.06.2025 - 2 ARs 219/25](2-ars-219-25.md) — BGH, Beschluss 2 ARs 219/25
-- [BGH, Beschluss vom 30.06.2025 - 2 StR 124/25](2-str-124-25.md) — Strafverurteilung wegen unerlaubten Besitz von Betäubungsmitteln in nicht geringer Menge u.a.: Strafbarkeit bei Mischung von Teilmengen zum Eigenkonsum und Verk
+- [BGH, Beschluss vom 30.06.2025 - 2 StR 124/25](2-str-124-25.md) — Strafverurteilung wegen unerlaubten Besitz von Betäubungsmitteln in nicht geringer Menge u.a.: Strafbarkeit bei Mischung von Teilmengen zum Eigenkonsum und Verkauf …
 - [BGH, Beschluss vom 30.06.2025 - 2 StR 241/25](2-str-241-25.md) — BGH, Beschluss 2 StR 241/25
 - [BGH, Beschluss vom 30.06.2025 - 2 StR 284/25](2-str-284-25.md) — Strafverurteilung wegen unerlaubten Handeltreibens von Betäubungsmitteln in nicht geringer Menge u.a.: Strafbarkeit des Handelns mit Methadonzubereitungen
 - [BGH, Beschluss vom 30.06.2025 - 2 StR 466/24](2-str-466-24.md) — BGH, Beschluss 2 StR 466/24
@@ -191,7 +191,7 @@
 - [BGH, Beschluss vom 20.05.2025 - 2 StR 631/24](2-str-631-24.md) — BGH, Beschluss 2 StR 631/24
 - [BGH, Beschluss vom 07.05.2025 - 2 ARs 141/25](2-ars-141-25.md) — Zuständigkeit für Einleitung der Vollstreckung einer Jugendstrafe
 - [BGH, Beschluss vom 07.05.2025 - 2 ARs 162/25](2-ars-162-25.md) — BGH, Beschluss 2 ARs 162/25
-- [BGH, Beschluss vom 07.05.2025 - 2 ARs 167/25](2-ars-167-25.md) — Zuständigkeitsbestimmung in Strafvollzugssachen: Örtliche Zuständigkeit für strafvollzugsbegleitende Kontrolle bei angeordneter Sicherungsverwahrung; Bindungswi
+- [BGH, Beschluss vom 07.05.2025 - 2 ARs 167/25](2-ars-167-25.md) — Zuständigkeitsbestimmung in Strafvollzugssachen: Örtliche Zuständigkeit für strafvollzugsbegleitende Kontrolle bei angeordneter Sicherungsverwahrung; Bindungswirkung der …
 - [BGH, Beschluss vom 07.05.2025 - 2 ARs 78/25](2-ars-78-25.md) — BGH, Beschluss 2 ARs 78/25
 - [BGH, Beschluss vom 07.05.2025 - 2 StR 112/25](2-str-112-25.md) — BGH, Beschluss 2 StR 112/25
 - [BGH, Urteil vom 07.05.2025 - 2 StR 118/25](2-str-118-25.md) — BGH, Urteil 2 StR 118/25
@@ -225,7 +225,7 @@
 - [BGH, Beschluss vom 09.04.2025 - 2 ARs 143/25](2-ars-143-25.md) — BGH, Beschluss 2 ARs 143/25
 - [BGH, Beschluss vom 09.04.2025 - 2 StR 121/25](2-str-121-25.md) — BGH, Beschluss 2 StR 121/25
 - [BGH, Beschluss vom 09.04.2025 - 2 StR 17/25](2-str-17-25.md) — Berücksichtigung einer langen Verfahrensdauer bei der Strafzumessung
-- [BGH, Beschluss vom 09.04.2025 - 2 StR 419/24](2-str-419-24.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern u.a.:. Wiederherstellung der Öffentlichkeit vor Gewährung des letzten Wortes des Angeklagten im 
+- [BGH, Beschluss vom 09.04.2025 - 2 StR 419/24](2-str-419-24.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern u.a.:. Wiederherstellung der Öffentlichkeit vor Gewährung des letzten Wortes des Angeklagten im Verfahren unter …
 - [BGH, Urteil vom 09.04.2025 - 2 StR 539/24](2-str-539-24.md) — Bemessung einer Jugendstrafe bei Begehung einer schweren räuberischen Erpressung durch Heranwachsenden
 - [BGH, Beschluss vom 09.04.2025 - 2 StR 641/24](2-str-641-24.md) — BGH, Beschluss 2 StR 641/24
 - [BGH, Beschluss vom 09.04.2025 - 2 StR 91/25](2-str-91-25.md) — Verurteilung einer Jugendlichen wegen versuchten Raubes; Darlegung von Persönlichkeitsmerkmalen in Urteil
@@ -242,7 +242,7 @@
 - [BGH, Beschluss vom 25.03.2025 - 2 StR 479/24](2-str-479-24.md) — Herstellen und Besitz kinderpornographischer Schriften: Aufleben des subsidiären Besitztatbestandes bei verjährtem Sichverschaffens-Tatbestand; Konkurrenz
 - [BGH, Beschluss vom 25.03.2025 - 2 StR 67/25](2-str-67-25.md) — BGH, Beschluss 2 StR 67/25
 - [BGH, Beschluss vom 21.03.2025 - 2 ARs 193/24, 2 ARs 507/24](2-ars-193-24-2-ars-507-24.md) — BGH, Beschluss 2 ARs 193/24, 2 ARs 507/24
-- [BGH, Beschluss vom 13.03.2025 - 2 StR 232/24](2-str-232-24.md) — Der Versuch der Ermittlungsbehörden, Zugang zu den auf einem Mobiltelefon eines Beschuldigten gespeicherten Daten durch zwangsweises Auflegen von dessen Finger 
+- [BGH, Beschluss vom 13.03.2025 - 2 StR 232/24](2-str-232-24.md) — Der Versuch der Ermittlungsbehörden, Zugang zu den auf einem Mobiltelefon eines Beschuldigten gespeicherten Daten durch zwangsweises Auflegen von dessen Finger auf den …
 - [BGH, Beschluss vom 13.03.2025 - 2 StR 320/24](2-str-320-24.md) — BGH, Beschluss 2 StR 320/24
 - [BGH, Beschluss vom 13.03.2025 - 2 StR 452/24](2-str-452-24.md) — BGH, Beschluss 2 StR 452/24
 - [BGH, Beschluss vom 13.03.2025 - 2 StR 492/24](2-str-492-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an eine verminderte Einsichtsfähigkeit
@@ -265,7 +265,7 @@
 - [BGH, Beschluss vom 26.02.2025 - 2 StR 214/24](2-str-214-24.md) — BGH, Beschluss 2 StR 214/24
 - [BGH, Beschluss vom 26.02.2025 - 2 StR 356/24](2-str-356-24.md) — BGH, Beschluss 2 StR 356/24
 - [BGH, Urteil vom 26.02.2025 - 2 StR 454/24](2-str-454-24.md) — Strafbefreiender Rücktritt vom unbeendeten Mordversuch; Bewertung voneinander abweichender Gutachten zur Schuldfähigkeit des Angeklagten
-- [BGH, Urteil vom 26.02.2025 - 2 StR 480/24](2-str-480-24.md) — Interesse an eigenem geldwertem Vorteil als Voraussetzung für ein gewerbsmäßiges Handeln; Vorstellung von Täuschung oder Wegnahme im Hinblick auf den Gehilfenvo
+- [BGH, Urteil vom 26.02.2025 - 2 StR 480/24](2-str-480-24.md) — Interesse an eigenem geldwertem Vorteil als Voraussetzung für ein gewerbsmäßiges Handeln; Vorstellung von Täuschung oder Wegnahme im Hinblick auf den Gehilfenvorsatz
 - [BGH, Beschluss vom 25.02.2025 - 2 StR 21/25](2-str-21-25.md) — Erforderliche Darlegungen im Urteil bei Verhängung einer Jugendstrafe
 - [BGH, Beschluss vom 25.02.2025 - 2 StR 30/25](2-str-30-25.md) — BGH, Beschluss 2 StR 30/25
 - [BGH, Beschluss vom 25.02.2025 - 2 StR 627/24](2-str-627-24.md) — BGH, Beschluss 2 StR 627/24
@@ -281,7 +281,7 @@
 - [BGH, Beschluss vom 11.02.2025 - 2 StR 618/24](2-str-618-24.md) — BGH, Beschluss 2 StR 618/24
 - [BGH, Beschluss vom 11.02.2025 - 2 StR 638/24](2-str-638-24.md) — BGH, Beschluss 2 StR 638/24
 - [BGH, Beschluss vom 11.02.2025 - 2 StR 8/25](2-str-8-25.md) — BGH, Beschluss 2 StR 8/25
-- [BGH, Beschluss vom 30.01.2025 - 2 StR 450/23](2-str-450-23.md) — Unterbringung in der Sicherungsverwahrung: Erforderlichkeit der gesonderten Untersuchung des Angeklagten durch einen Sachverständigen außerhalb der Hauptverhand
+- [BGH, Beschluss vom 30.01.2025 - 2 StR 450/23](2-str-450-23.md) — Unterbringung in der Sicherungsverwahrung: Erforderlichkeit der gesonderten Untersuchung des Angeklagten durch einen Sachverständigen außerhalb der Hauptverhandlung
 - [BGH, Beschluss vom 29.01.2025 - 2 StR 253/24](2-str-253-24.md) — BGH, Beschluss 2 StR 253/24
 - [BGH, Beschluss vom 29.01.2025 - 2 StR 314/24](2-str-314-24.md) — Körperverletzung mit Todesfolge; Zurechnung eines tödlichen Exzesses bei gemeinschaftlicher Körperverletzung
 - [BGH, Beschluss vom 29.01.2025 - 2 StR 472/24](2-str-472-24.md) — BGH, Beschluss 2 StR 472/24
@@ -301,7 +301,7 @@
 - [BGH, Urteil vom 15.01.2025 - 2 StR 341/24](2-str-341-24.md) — Strafzumessung: Anforderung an die Durchführung eines Täter-Opfer-Ausgleichs bei sexuellem Missbrauch von Kindern
 - [BGH, Beschluss vom 14.01.2025 - 2 StR 182/24](2-str-182-24.md) — BGH, Beschluss 2 StR 182/24
 - [BGH, Beschluss vom 14.01.2025 - 2 StR 508/24](2-str-508-24.md) — Unterbringung in der Sicherungsverwahrung: Berücksichtigung zulässigen Verteidigungsverhaltens im Rahmen der Gefährlichkeitsprognose
-- [BGH, Beschluss vom 14.01.2025 - 2 StR 523/24](2-str-523-24.md) — Betäubungsmitteldelikt: Konkurrenz zwischen Einfuhr von Cannabis in nicht geringer Menge und Handeltreiben in nicht geringer Menge; Tateinheit durch Klammerwirk
+- [BGH, Beschluss vom 14.01.2025 - 2 StR 523/24](2-str-523-24.md) — Betäubungsmitteldelikt: Konkurrenz zwischen Einfuhr von Cannabis in nicht geringer Menge und Handeltreiben in nicht geringer Menge; Tateinheit durch Klammerwirkung beim …
 - [BGH, Beschluss vom 14.01.2025 - 2 StR 570/24](2-str-570-24.md) — BGH, Beschluss 2 StR 570/24
 - [BGH, Beschluss vom 14.01.2025 - 2 StR 572/24](2-str-572-24.md) — BGH, Beschluss 2 StR 572/24
 - [BGH, Beschluss vom 09.01.2025 - 2 StR 259/24](2-str-259-24.md) — BGH, Beschluss 2 StR 259/24

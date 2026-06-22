@@ -4,46 +4,46 @@
 
 - [BGH, Beschluss vom 17.12.2025 - IV ZR 23/25](iv-zr-23-25.md) — BGH, Beschluss IV ZR 23/25
 - [BGH, Beschluss vom 17.12.2025 - IV ZR 63/25](iv-zr-63-25.md) — BGH, Beschluss IV ZR 63/25
-- [BGH, Urteil vom 10.12.2025 - IV ZR 34/25](iv-zr-34-25.md) — Eine Klausel in Allgemeinen Versicherungsbedingungen einer fondsgebundenen Rentenversicherung nach dem Altersvorsorgeverträge-Zertifizierungsgesetz, die den Ver
-- [BGH, Urteil vom 03.12.2025 - IV ZR 185/24](iv-zr-185-24.md) — Ist Grund für die Medikamenteneinnahme eine bedingungsgemäße Krankheit und wirkt diese an der Gesundheitsschädigung und deren Folgen mit, findet § 8 der Allgeme
-- [BGH, Urteil vom 19.11.2025 - IV ZR 66/25](iv-zr-66-25.md) — Der Ausschluss des Versicherungsschutzes nach Ziffer 6 ULLA setzt voraus, dass gerade die Pflichtverletzung aufgrund gesetzlicher Haftpflichtbestimmungen, wegen
+- [BGH, Urteil vom 10.12.2025 - IV ZR 34/25](iv-zr-34-25.md) — Eine Klausel in Allgemeinen Versicherungsbedingungen einer fondsgebundenen Rentenversicherung nach dem Altersvorsorgeverträge-Zertifizierungsgesetz, die den Versicherer aufgrund …
+- [BGH, Urteil vom 03.12.2025 - IV ZR 185/24](iv-zr-185-24.md) — Ist Grund für die Medikamenteneinnahme eine bedingungsgemäße Krankheit und wirkt diese an der Gesundheitsschädigung und deren Folgen mit, findet § 8 der Allgemeinen …
+- [BGH, Urteil vom 19.11.2025 - IV ZR 66/25](iv-zr-66-25.md) — Der Ausschluss des Versicherungsschutzes nach Ziffer 6 ULLA setzt voraus, dass gerade die Pflichtverletzung aufgrund gesetzlicher Haftpflichtbestimmungen, wegen der die …
 - [BGH, Beschluss vom 19.11.2025 - IV ZR 84/25](iv-zr-84-25.md) — BGH, Beschluss IV ZR 84/25
 - [BGH, Beschluss vom 12.11.2025 - IV ZB 34/24](iv-zb-34-24.md) — Berufung in Nachlasssachen: Wert des Beschwerdegegenstands bei Verpflichtung zur Auskunft über Nachlassgegenstände
-- [BGH, Urteil vom 05.11.2025 - IV ZR 109/24](iv-zr-109-24.md) — Die Formulierung "Nicht versichert sind Schäden durch Pandemien" in den Bestimmungen einer Jahres-Reiseversicherung (hier: Abschnitt A § 6 Nr. 1 e) VB- ) verstö
+- [BGH, Urteil vom 05.11.2025 - IV ZR 109/24](iv-zr-109-24.md) — Die Formulierung "Nicht versichert sind Schäden durch Pandemien" in den Bestimmungen einer Jahres-Reiseversicherung (hier: Abschnitt A § 6 Nr. 1 e) VB- ) verstößt nicht gegen das …
 - [BGH, Beschluss vom 24.10.2025 - IV ZB 18/25](iv-zb-18-25.md) — BGH, Beschluss IV ZB 18/25
-- [BGH, Urteil vom 15.10.2025 - IV ZR 157/24](iv-zr-157-24.md) — Ist eine zum Schutz der Geheimhaltungsinteressen des Versicherers gebotene und geeignete Geheimhaltungsanordnung gemäß §§ 172 Nr. 2, 174 Abs. 3 GVG nur deshalb 
-- [BGH, Urteil vom 15.10.2025 - IV ZR 86/24](iv-zr-86-24.md) — Lässt sich den vereinbarten Klauseln einer Verkehrs-Rechtsschutzversicherung (hier u.a.: § 21 Abs. 2 und Abs. 8, § 23 Abs. 3 Satz 4 VRB 1994) nicht eindeutig en
-- [BGH, Urteil vom 08.10.2025 - IV ZR 161/24](iv-zr-161-24.md) — Die Gefahr des Verlusts bei einer Geldüberweisung geht bei einem unwahrscheinlichen Kausalverlauf (hier: Fälschung einer Kontobezeichnung durch einen unbekannte
+- [BGH, Urteil vom 15.10.2025 - IV ZR 157/24](iv-zr-157-24.md) — Ist eine zum Schutz der Geheimhaltungsinteressen des Versicherers gebotene und geeignete Geheimhaltungsanordnung gemäß §§ 172 Nr. 2, 174 Abs. 3 GVG nur deshalb ausgeblieben, weil …
+- [BGH, Urteil vom 15.10.2025 - IV ZR 86/24](iv-zr-86-24.md) — Lässt sich den vereinbarten Klauseln einer Verkehrs-Rechtsschutzversicherung (hier u.a.: § 21 Abs. 2 und Abs. 8, § 23 Abs. 3 Satz 4 VRB 1994) nicht eindeutig entnehmen, dass der …
+- [BGH, Urteil vom 08.10.2025 - IV ZR 161/24](iv-zr-161-24.md) — Die Gefahr des Verlusts bei einer Geldüberweisung geht bei einem unwahrscheinlichen Kausalverlauf (hier: Fälschung einer Kontobezeichnung durch einen unbekannten Dritten) nicht …
 - [BGH, Beschluss vom 10.09.2025 - IV ZB 2/25](iv-zb-2-25.md) — Ein Nachlasspfleger kann keine Vergütung nach seinem Stundensatz für die Tätigkeit eines von ihm herangezogenen Mitarbeiters verlangen.
-- [BGH, Urteil vom 20.08.2025 - IV ZR 164/23](iv-zr-164-23.md) — Erwachsenen-Existenzschutzversicherung: ergänzende Auslegung bzw. Störung der Geschäftsgrundlage von Versicherungsbedingungen hinsichtlich Feststellung der Pfle
+- [BGH, Urteil vom 20.08.2025 - IV ZR 164/23](iv-zr-164-23.md) — Erwachsenen-Existenzschutzversicherung: ergänzende Auslegung bzw. Störung der Geschäftsgrundlage von Versicherungsbedingungen hinsichtlich Feststellung der Pflegebedürftigkeit in …
 - [BGH, Beschluss vom 06.08.2025 - IV ZA 9/23](iv-za-9-23.md) — BGH, Beschluss IV ZA 9/23
 - [BGH, Beschluss vom 09.07.2025 - IV ZB 15/25](iv-zb-15-25.md) — Notwendigkeit der Berufungsbegründung trotz Verwerfung der Berufung bei laufendem Rechtsbeschwerdeverfahren
 - [BGH, Urteil vom 09.07.2025 - IV ZR 161/23](iv-zr-161-23.md) — Basisrentenversicherungsvertrag: Wirksamkeit der Widerrufserklärung des Versicherungsnehmers
-- [BGH, Urteil vom 09.07.2025 - IV ZR 199/24](iv-zr-199-24.md) — Einer Klausel in den Allgemeinen Bedingungen für die Kraftfahrtversicherung zum obligatorischen Sachverständigenverfahren (hier: A.2.6.2 Satz 2 AKB), wonach im 
-- [BGH, Urteil vom 02.07.2025 - IV ZR 93/24](iv-zr-93-24.md) — Ein Vermächtnis, das ein Patient dem ihn behandelnden Arzt zuwendet, ist nicht nach § 32 Abs. 1 Satz 1 der Berufsordnung der Ärztekammer Westfalen-Lippe (entspr
+- [BGH, Urteil vom 09.07.2025 - IV ZR 199/24](iv-zr-199-24.md) — Einer Klausel in den Allgemeinen Bedingungen für die Kraftfahrtversicherung zum obligatorischen Sachverständigenverfahren (hier: A.2.6.2 Satz 2 AKB), wonach im Fall der …
+- [BGH, Urteil vom 02.07.2025 - IV ZR 93/24](iv-zr-93-24.md) — Ein Vermächtnis, das ein Patient dem ihn behandelnden Arzt zuwendet, ist nicht nach § 32 Abs. 1 Satz 1 der Berufsordnung der Ärztekammer Westfalen-Lippe (entspricht § 32 Abs. 1 …
 - [BGH, Beschluss vom 18.06.2025 - IV ZB 26/24](iv-zb-26-24.md) — BGH, Beschluss IV ZB 26/24
 - [BGH, Beschluss vom 16.06.2025 - IV ZR 12/25](iv-zr-12-25.md) — BGH, Beschluss IV ZR 12/25
-- [BGH, Urteil vom 11.06.2025 - IV ZR 83/24](iv-zr-83-24.md) — Ist im Rahmen des schriftlichen Vorverfahrens auf der Grundlage von §§ 331 Abs. 3, 310 Abs. 3 ZPO ein Versäumnisurteil ergangen, ist für die durch dieses Urteil
+- [BGH, Urteil vom 11.06.2025 - IV ZR 83/24](iv-zr-83-24.md) — Ist im Rahmen des schriftlichen Vorverfahrens auf der Grundlage von §§ 331 Abs. 3, 310 Abs. 3 ZPO ein Versäumnisurteil ergangen, ist für die durch dieses Urteil beschwerte säumige …
 - [BGH, Beschluss vom 04.06.2025 - IV ZR 111/24](iv-zr-111-24.md) — Stufenklage wegen Schenkungen des Vorerben: Beschwerdewert bei Abweisung des Antrags auf Auskunftserteilung
 - [BGH, Beschluss vom 28.05.2025 - IV ZB 24/24](iv-zb-24-24.md) — Stufenklage auf Pflichtteil: Beschwerdewert bei Verurteilung zur Auskunftserteilung
 - [BGH, Urteil vom 07.05.2025 - IV ZR 173/23](iv-zr-173-23.md) — Wirksamkeit von Beitragserhöhungen in einer privaten Krankenversicherung
-- [BGH, Urteil vom 30.04.2025 - IV ZR 126/23](iv-zr-126-23.md) — Zu den Auswirkungen des Wegfalls der Pflegestufen I bis III gemäß § 15 Abs. 1 Satz 1 SGB XI a.F. und der Einführung der gemäß § 15 SGB XI zu ermittelnden Pflege
+- [BGH, Urteil vom 30.04.2025 - IV ZR 126/23](iv-zr-126-23.md) — Zu den Auswirkungen des Wegfalls der Pflegestufen I bis III gemäß § 15 Abs. 1 Satz 1 SGB XI a.F. und der Einführung der gemäß § 15 SGB XI zu ermittelnden Pflegegrade 1 bis 5 durch …
 - [BGH, Beschluss vom 25.04.2025 - IV ZB 36/24](iv-zb-36-24.md) — BGH, Beschluss IV ZB 36/24
-- [BGH, Beschluss vom 23.04.2025 - IV ZB 18/24](iv-zb-18-24.md) — Kann aus der Kostengrundentscheidung nicht zweifelsfrei festgestellt werden, dass der Kostenausspruch auch die Erstattung der außergerichtlichen Kosten mitumfas
+- [BGH, Beschluss vom 23.04.2025 - IV ZB 18/24](iv-zb-18-24.md) — Kann aus der Kostengrundentscheidung nicht zweifelsfrei festgestellt werden, dass der Kostenausspruch auch die Erstattung der außergerichtlichen Kosten mitumfasst, kann die …
 - [BGH, Beschluss vom 02.04.2025 - IV ZR 119/24](iv-zr-119-24.md) — BGH, Beschluss IV ZR 119/24
 - [BGH, Beschluss vom 02.04.2025 - IV ZR 14/25](iv-zr-14-25.md) — BGH, Beschluss IV ZR 14/25
 - [BGH, Beschluss vom 02.04.2025 - IV ZR 176/24](iv-zr-176-24.md) — Ansprüche nach Beitragserhöhungen in Krankenversicherungsverträgen; Verfahrensunterbrechung wegen Konkurs des Klägers in Schweiz
 - [BGH, Beschluss vom 02.04.2025 - IV ZR 49/24](iv-zr-49-24.md) — Feststellung der Verfahrensunterbrechung bei vorläufiger Eröffnung eines Konkursverfahrens in Schweiz
 - [BGH, Beschluss vom 26.03.2025 - IV ZB 15/24](iv-zb-15-24.md) — Die Vorschrift des § 2270 BGB ist nur auf das gemeinschaftliche Testament und nicht (auch nicht entsprechend) auf Verfügungen in einem Erbvertrag anwendbar.
-- [BGH, Beschluss vom 19.03.2025 - IV ZB 19/24](iv-zb-19-24.md) — Die Erteilung einer Bescheinigung nach Art. 46 Abs. 3 Buchst. b) EuErbVO setzt voraus, dass diese einem Antrag auf Vollstreckbarerklärung oder auf Anerkennung e
+- [BGH, Beschluss vom 19.03.2025 - IV ZB 19/24](iv-zb-19-24.md) — Die Erteilung einer Bescheinigung nach Art. 46 Abs. 3 Buchst. b) EuErbVO setzt voraus, dass diese einem Antrag auf Vollstreckbarerklärung oder auf Anerkennung einer Entscheidung …
 - [BGH, Urteil vom 19.03.2025 - IV ZR 204/23](iv-zr-204-23.md) — Private Krankenversicherung: Auskunftstufe in der Stufenklage wegen Prämienerhöhung
-- [BGH, Urteil vom 12.03.2025 - IV ZR 32/24](iv-zr-32-24.md) — 1. Die Ersetzung einer durch höchstrichterliche Entscheidung oder durch einen bestandskräftigen Verwaltungsakt für unwirksam erklärten Regelung in Allgemeinen V
-- [BGH, Urteil vom 12.03.2025 - IV ZR 88/24](iv-zr-88-24.md) — 1. Für die Entstehung des Pflichtteilsanspruchs im Sinne des § 199 Abs. 1 Nr. 1 BGB ist auch dann die Regelung in § 2317 Abs. 1 BGB maßgeblich, wenn der Pflicht
+- [BGH, Urteil vom 12.03.2025 - IV ZR 32/24](iv-zr-32-24.md) — 1. Die Ersetzung einer durch höchstrichterliche Entscheidung oder durch einen bestandskräftigen Verwaltungsakt für unwirksam erklärten Regelung in Allgemeinen …
+- [BGH, Urteil vom 12.03.2025 - IV ZR 88/24](iv-zr-88-24.md) — 1. Für die Entstehung des Pflichtteilsanspruchs im Sinne des § 199 Abs. 1 Nr. 1 BGB ist auch dann die Regelung in § 2317 Abs. 1 BGB maßgeblich, wenn der Pflichtteilsberechtigte …
 - [BGH, Beschluss vom 27.02.2025 - IV ZR 71/24](iv-zr-71-24.md) — BGH, Beschluss IV ZR 71/24
-- [BGH, Beschluss vom 26.02.2025 - IV ZB 37/24](iv-zb-37-24.md) — Ein - für den Notar nicht erkennbar - geschäftsunfähiger Auftraggeber ist unabhängig von der Art der notariellen Tätigkeit zur Zahlung der Notarkosten verpflich
+- [BGH, Beschluss vom 26.02.2025 - IV ZB 37/24](iv-zb-37-24.md) — Ein - für den Notar nicht erkennbar - geschäftsunfähiger Auftraggeber ist unabhängig von der Art der notariellen Tätigkeit zur Zahlung der Notarkosten verpflichtet. Die …
 - [BGH, Beschluss vom 19.02.2025 - IV ZB 13/24](iv-zb-13-24.md) — Anspruch auf rechtliches Gehör im Rahmen der Geltendmachung eines Auskunftsanspruchs im Erbrecht
-- [BGH, Beschluss vom 29.01.2025 - IV ZB 2/24](iv-zb-2-24.md) — Einer erstinstanzlichen Kostenentscheidung nach § 81 FamFG in einem Nachlassverfahren, die sich darin erschöpft, dass ein Antrag "kostenpflichtig zurückgewiesen
-- [BGH, Urteil vom 29.01.2025 - IV ZR 221/23](iv-zr-221-23.md) — Zur Verjährung von Rückzahlungsansprüchen des Versicherungsnehmers einer privaten Krankenversicherung gegen den Versicherer aus ungerechtfertigter Bereicherung 
+- [BGH, Beschluss vom 29.01.2025 - IV ZB 2/24](iv-zb-2-24.md) — Einer erstinstanzlichen Kostenentscheidung nach § 81 FamFG in einem Nachlassverfahren, die sich darin erschöpft, dass ein Antrag "kostenpflichtig zurückgewiesen" wird oder der …
+- [BGH, Urteil vom 29.01.2025 - IV ZR 221/23](iv-zr-221-23.md) — Zur Verjährung von Rückzahlungsansprüchen des Versicherungsnehmers einer privaten Krankenversicherung gegen den Versicherer aus ungerechtfertigter Bereicherung (§ 812 Abs. 1 Satz …
 - [BGH, Beschluss vom 29.01.2025 - IV ZR 37/24](iv-zr-37-24.md) — BGH, Beschluss IV ZR 37/24
 - [BGH, Beschluss vom 15.01.2025 - IV ZR 166/24](iv-zr-166-24.md) — Auskunftspflicht gegenüber dem Pflichtteilsberechtigten bei Testamentsvollstreckung; einstweilige Einstellung der Zwangsvollstreckung
 - [BGH, Beschluss vom 13.01.2025 - IV ZB 6/24](iv-zb-6-24.md) — BGH, Beschluss IV ZB 6/24

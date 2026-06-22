@@ -2,7 +2,7 @@
 
 4 Entscheidung(en).
 
-- [BGH, Urteil vom 15.11.2021 - NotSt (Brfg) 2/21](notst-brfg-2-21.md) — 1. Unterlässt es der Notar, in einem Formularentwurf enthaltene Textteile zu streichen, die nicht Gegenstand der Erklärung der Urkundsbeteiligten waren, stellt 
-- [BGH, Beschluss vom 19.07.2021 - NotSt (Brfg) 1/21](notst-brfg-1-21.md) — Beurkundet ein Notar einen Vertrag, bei dem sein Sozius oder eine sonst beruflich mit ihm verbundene Person als (gegebenenfalls vollmachtloser) Vertreter einer 
-- [BGH, Beschluss vom 22.03.2021 - NotSt (Brfg) 4/20](notst-brfg-4-20.md) — 1. Der Notar verstößt gegen seine Amtspflicht zur Vermeidung des Anscheins der Abhängigkeit oder Parteilichkeit, wenn er - jedenfalls: wiederholt - Beurkundunge
+- [BGH, Urteil vom 15.11.2021 - NotSt (Brfg) 2/21](notst-brfg-2-21.md) — 1. Unterlässt es der Notar, in einem Formularentwurf enthaltene Textteile zu streichen, die nicht Gegenstand der Erklärung der Urkundsbeteiligten waren, stellt dies einen Verstoß …
+- [BGH, Beschluss vom 19.07.2021 - NotSt (Brfg) 1/21](notst-brfg-1-21.md) — Beurkundet ein Notar einen Vertrag, bei dem sein Sozius oder eine sonst beruflich mit ihm verbundene Person als (gegebenenfalls vollmachtloser) Vertreter einer Vertragspartei …
+- [BGH, Beschluss vom 22.03.2021 - NotSt (Brfg) 4/20](notst-brfg-4-20.md) — 1. Der Notar verstößt gegen seine Amtspflicht zur Vermeidung des Anscheins der Abhängigkeit oder Parteilichkeit, wenn er - jedenfalls: wiederholt - Beurkundungen in den Räumen …
 - [BGH, Beschluss vom 22.03.2021 - NotSt (Brfg) 5/20](notst-brfg-5-20.md) — Disziplinarsache gegen einen Notar: Formulierung einer Rechtspflicht in einem notariellen Kaufvertrag

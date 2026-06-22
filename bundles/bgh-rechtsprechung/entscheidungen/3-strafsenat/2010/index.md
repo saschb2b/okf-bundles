@@ -2,13 +2,13 @@
 
 120 Entscheidung(en).
 
-- [BGH, Urteil vom 22.12.2010 - 3 StR 239/10](3-str-239-10.md) — Zur erforderlichen Patientenaufklärung durch einen Chirurgen über dessen Absicht, bei einer Folgebehandlung, die wegen der Verwirklichung eines der Erstoperatio
-- [BGH, Beschluss vom 21.12.2010 - 3 StR 401/10](3-str-401-10.md) — Strafverfahren wegen Vergewaltigung: Revisionsgerichtliche Nachprüfung der Ablehnung eines Beweisantrages auf Vernehmung eines Auslandszeugen; Voraussetzungen e
+- [BGH, Urteil vom 22.12.2010 - 3 StR 239/10](3-str-239-10.md) — Zur erforderlichen Patientenaufklärung durch einen Chirurgen über dessen Absicht, bei einer Folgebehandlung, die wegen der Verwirklichung eines der Erstoperation typischerweise …
+- [BGH, Beschluss vom 21.12.2010 - 3 StR 401/10](3-str-401-10.md) — Strafverfahren wegen Vergewaltigung: Revisionsgerichtliche Nachprüfung der Ablehnung eines Beweisantrages auf Vernehmung eines Auslandszeugen; Voraussetzungen einer Vergewaltigung …
 - [BGH, Beschluss vom 21.12.2010 - 3 StR 454/10](3-str-454-10.md) — Zusätzliche Strafrahmenverschiebung bei minder schweren Fall des Totschlags im Zustand verminderter Schuldfähigkeit
-- [BGH, Beschluss vom 21.12.2010 - 3 StR 462/10](3-str-462-10.md) — Revisionsbegründung im Strafverfahren: Anforderungen an die Beweisantrags- und Aufklärungsrüge bei Ablehnung eines Beweisantrags wegen Unerreichbarkeit eines Ze
-- [BGH, Beschluss vom 09.12.2010 - 3 StR 312/10](3-str-312-10.md) — Die DB Netz AG ist eine "sonstige Stelle" im Sinne des § 11 Abs. 1 Nr. 2 Buchst. c StGB (Fortführung von BGH, 16. Juli 2004, 2 StR 486/03, BGHSt 49, 214 und BGH
+- [BGH, Beschluss vom 21.12.2010 - 3 StR 462/10](3-str-462-10.md) — Revisionsbegründung im Strafverfahren: Anforderungen an die Beweisantrags- und Aufklärungsrüge bei Ablehnung eines Beweisantrags wegen Unerreichbarkeit eines Zeugen
+- [BGH, Beschluss vom 09.12.2010 - 3 StR 312/10](3-str-312-10.md) — Die DB Netz AG ist eine "sonstige Stelle" im Sinne des § 11 Abs. 1 Nr. 2 Buchst. c StGB (Fortführung von BGH, 16. Juli 2004, 2 StR 486/03, BGHSt 49, 214 und BGH, 19. Juni 2008, 3 …
 - [BGH, Beschluss vom 07.12.2010 - 3 StR 433/10](3-str-433-10.md) — Betrug: Tateinheit und Tatmehrheit bei einer Deliktsserie
-- [BGH, Beschluss vom 07.12.2010 - 3 StR 434/10](3-str-434-10.md) — Eingehungsbetrug: Konkurrenzen bei der Beteiligung mehrerer Personen an einer Deliktsserie; Betrug zulasten eines Mobilfunknetzbetreibers durch Abschluss eines 
+- [BGH, Beschluss vom 07.12.2010 - 3 StR 434/10](3-str-434-10.md) — Eingehungsbetrug: Konkurrenzen bei der Beteiligung mehrerer Personen an einer Deliktsserie; Betrug zulasten eines Mobilfunknetzbetreibers durch Abschluss eines Handy-Vertrages
 - [BGH, Beschluss vom 30.11.2010 - 3 StR 418/10](3-str-418-10.md) — Strafverfahren: Ablehnung eines Beweisantrages auf kommissarische Zeugenvernehmung im Wege internationaler Rechtshilfe
 - [BGH, Beschluss vom 30.11.2010 - 3 StR 428/10](3-str-428-10.md) — Störung des öffentlichen Friedens durch Androhung von Straftaten: Tatbestandsmäßigkeit der Bedrohung von Mitarbeitern des Sozialamtes
 - [BGH, Urteil vom 25.11.2010 - 3 StR 364/10](3-str-364-10.md) — Abgrenzung zwischen bedingtem Tötungsvorsatz und Körperverletzungsvorsatz bei gefährlichen Gewalthandlungen; Prüfungsumfang bei Revision des Nebenklägers
@@ -17,13 +17,13 @@
 - [BGH, Beschluss vom 25.11.2010 - 3 StR 431/10](3-str-431-10.md) — Bemessung einer Jugendstrafe: Fehlerhafte Bezugnahme auf die Strafzumessungserwägungen in dem vom Revisionsgericht aufgehobenen früheren Strafausspruch
 - [BGH, Beschluss vom 23.11.2010 - 3 StR 385/10](3-str-385-10.md) — Unterbringung in einem psychiatrischen Krankenhaus: Feststellung der Allgemeingefährdung durch den Angeklagten
 - [BGH, Beschluss vom 23.11.2010 - 3 StR 386/10](3-str-386-10.md) — Beweiswürdigung im Strafverfahren: Nachweis der Aussagetüchtigkeit des alkoholbedingt handlungsunfähigen Opfers eines sexuellen Missbrauchs
-- [BGH, Beschluss vom 23.11.2010 - 3 StR 402/10](3-str-402-10.md) — Beweisaufnahme: Verstoß gegen den Grundsatz der Unmittelbarkeit bei Verlesung von Arztberichten zum Nachweis der Unglaubwürdigkeit des Angeklagten sowie der Tat
+- [BGH, Beschluss vom 23.11.2010 - 3 StR 402/10](3-str-402-10.md) — Beweisaufnahme: Verstoß gegen den Grundsatz der Unmittelbarkeit bei Verlesung von Arztberichten zum Nachweis der Unglaubwürdigkeit des Angeklagten sowie der Tatfolgen bei der …
 - [BGH, Beschluss vom 23.11.2010 - 3 StR 403/10](3-str-403-10.md) — Bandenbetrug: Minder schwerer Fall bei Aufklärungshilfe
 - [BGH, Beschluss vom 23.11.2010 - 3 StR 410/10](3-str-410-10.md) — Sexueller Missbrauch widerstandsunfähiger Personen: Psychische Widerstandsunfähigkeit
-- [BGH, Beschluss vom 09.11.2010 - 3 StR 290/10](3-str-290-10.md) — Beweisantragsablehnung im Strafverfahren wegen Bedeutungslosigkeit: Rechtsfehlerhafte Ablehnung eines Antrages auf Beiziehung der Ermittlungsakte aus einem ande
-- [BGH, Beschluss vom 09.11.2010 - 3 StR 357/10](3-str-357-10.md) — Beweiswürdigung im Strafurteil wegen versuchten Mordes: Darlegungsmangel infolge fehlender Angabe der die Aussagen von Belastungszeugen stützenden weiteren Bewe
+- [BGH, Beschluss vom 09.11.2010 - 3 StR 290/10](3-str-290-10.md) — Beweisantragsablehnung im Strafverfahren wegen Bedeutungslosigkeit: Rechtsfehlerhafte Ablehnung eines Antrages auf Beiziehung der Ermittlungsakte aus einem anderen Verfahren gegen …
+- [BGH, Beschluss vom 09.11.2010 - 3 StR 357/10](3-str-357-10.md) — Beweiswürdigung im Strafurteil wegen versuchten Mordes: Darlegungsmangel infolge fehlender Angabe der die Aussagen von Belastungszeugen stützenden weiteren Beweisergebnisse
 - [BGH, Beschluss vom 09.11.2010 - 3 StR 390/10](3-str-390-10.md) — Strafurteil wegen versuchten schweren sexuellen Missbrauchs von Kindern: Rechtsfehlerhafte Ablehnung einer Strafmilderung
-- [BGH, Urteil vom 28.10.2010 - 3 StR 179/10](3-str-179-10.md) — 1. Eine in Deutschland tätige Teilorganisation einer ausländischen Vereinigung ist nur dann als eigenständige inländische Vereinigung im Sinne der §§ 129, 129a 
+- [BGH, Urteil vom 28.10.2010 - 3 StR 179/10](3-str-179-10.md) — 1. Eine in Deutschland tätige Teilorganisation einer ausländischen Vereinigung ist nur dann als eigenständige inländische Vereinigung im Sinne der §§ 129, 129a StGB anzusehen …
 - [BGH, Urteil vom 28.10.2010 - 3 StR 317/10](3-str-317-10.md) — Revision im Strafverfahren: Beanstandung von Beweiswürdigung und nicht erhobener Beweise durch die Staatsanwaltschaft ausschließlich mit der Sachrüge
 - [BGH, Urteil vom 07.10.2010 - 3 StR 168/10](3-str-168-10.md) — Tötung auf Verlangen: Ernstlichkeit des Tötungsverlangens
 - [BGH, Beschluss vom 07.10.2010 - 3 StR 346/10](3-str-346-10.md) — Unterbringung in einer Entziehungsanstalt: Aufgabe des Sachverständigen im Rahmen der Gefährlichkeitsprognose; fehlende Erfolgsaussicht einer Abstinenztherapie
@@ -38,18 +38,18 @@
 - [BGH, Beschluss vom 28.09.2010 - 3 StR 359/10](3-str-359-10.md) — Verständigung im Strafverfahren: Fehlerhafter Schuldspruch bei Verständigungsurteil; Vereinbarung einer bestimmten Strafe bei Geständnis
 - [BGH, Beschluss vom 16.09.2010 - 3 StR 331/10](3-str-331-10.md) — Absehen von einer nachträglichen Gesamtstrafenbildung
 - [BGH, Beschluss vom 14.09.2010 - 3 StR 131/10](3-str-131-10.md) — Beweisaufnahme im Strafverfahren: Beweiskraft eines Protokollvermerks über das Selbstleseverfahren
-- [BGH, Beschluss vom 14.09.2010 - 3 StR 573/09](3-str-573-09.md) — 1. Das Gespräch, das ein Konsularbeamter mit einem in ausländischer Haft befindlichen deutschen Beschuldigten in Erfüllung seiner Hilfspflicht nach § 7 KonsG fü
+- [BGH, Beschluss vom 14.09.2010 - 3 StR 573/09](3-str-573-09.md) — 1. Das Gespräch, das ein Konsularbeamter mit einem in ausländischer Haft befindlichen deutschen Beschuldigten in Erfüllung seiner Hilfspflicht nach § 7 KonsG führt, ist keine …
 - [BGH, Urteil vom 02.09.2010 - 3 StR 273/10](3-str-273-10.md) — Strafverfahren: Beweisantrag zur erheblich eingeschränkten Schuldfähigkeit; Wahrunterstellung
-- [BGH, Beschluss vom 31.08.2010 - 3 StR 297/10](3-str-297-10.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Erörterungspflicht für eine mögliche Strafmilderung wegen Aufklär
+- [BGH, Beschluss vom 31.08.2010 - 3 StR 297/10](3-str-297-10.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Erörterungspflicht für eine mögliche Strafmilderung wegen Aufklärungshilfe
 - [BGH, Beschluss vom 19.08.2010 - 3 StR 226/10](3-str-226-10.md) — Verständigung im Strafverfahren: Verstoß gegen die Belehrungspflicht; Verwertung des nach dem Zustandekommen der Verständigung abgegebenen Geständnisses
-- [BGH, Beschluss vom 19.08.2010 - 3 StR 301/10](3-str-301-10.md) — Voraussetzungen einer öffentlichen Verwendung eines Kennzeichens einer verfassungswidrigen Organisation; Anforderungen an die tatrichterliche Beurteilung der Sc
+- [BGH, Beschluss vom 19.08.2010 - 3 StR 301/10](3-str-301-10.md) — Voraussetzungen einer öffentlichen Verwendung eines Kennzeichens einer verfassungswidrigen Organisation; Anforderungen an die tatrichterliche Beurteilung der Schuldfähigkeit eines …
 - [BGH, Urteil vom 19.08.2010 - 3 StR 98/10](3-str-98-10.md) — Strafverfahren: Fortsetzung der Hauptverhandlung mit der Mitteilung über die Ladung von Zeugen
-- [BGH, Beschluss vom 17.08.2010 - 3 ARs 23/10](3-ars-23-10.md) — Ob im Rahmen der Beweiserhebung eines Untersuchungsausschusses die Gegenüberstellung von Zeugen durchzuführen ist, entscheidet gemäß § 9 Abs. 4 Satz 1, § 24 Abs
+- [BGH, Beschluss vom 17.08.2010 - 3 ARs 23/10](3-ars-23-10.md) — Ob im Rahmen der Beweiserhebung eines Untersuchungsausschusses die Gegenüberstellung von Zeugen durchzuführen ist, entscheidet gemäß § 9 Abs. 4 Satz 1, § 24 Abs. 2 PUAG der …
 - [BGH, Beschluss vom 17.08.2010 - 3 StR 265/10](3-str-265-10.md) — Sexuelle Nötigung: Strafbarkeit bei Vornahme sexueller Handlungen vor dem Täter oder einem Dritten
 - [BGH, Beschluss vom 12.08.2010 - 3 StR 227/10](3-str-227-10.md) — Strafurteil wegen Geldfälschung: Übernahme von Angaben aus der Anklageschrift durch "Einrücken"
 - [BGH, Urteil vom 05.08.2010 - 3 StR 190/10](3-str-190-10.md) — Schwerer Raub: Kunststoffband als gefährliches Werkzeug
 - [BGH, Urteil vom 05.08.2010 - 3 StR 195/10](3-str-195-10.md) — Unterbringung in einer Entziehungsanstalt: Erfolgsaussicht aufgrund von Umständen nach Erlass des Urteils; voraussichtliche Therapiedauer von 3 Jahren
-- [BGH, Beschluss vom 05.08.2010 - 3 StR 269/10](3-str-269-10.md) — Antrag auf Wiedereinsetzung in die versäumte Revisionsbegründungsfrist im Strafverfahren: Anforderungen an die Glaubhaftmachung des Zeitpunkt des Wegfalls des H
+- [BGH, Beschluss vom 05.08.2010 - 3 StR 269/10](3-str-269-10.md) — Antrag auf Wiedereinsetzung in die versäumte Revisionsbegründungsfrist im Strafverfahren: Anforderungen an die Glaubhaftmachung des Zeitpunkt des Wegfalls des Hindernisses
 - [BGH, Beschluss vom 05.08.2010 - 3 StR 271/10](3-str-271-10.md) — Strafmilderung wegen Nachtatverhaltens: Angaben zu angeblichem Mittäter erst in der Hauptverhandlung
 - [BGH, Beschluss vom 04.08.2010 - 3 StR 105/10](3-str-105-10.md) — Strafrechtliches Revisionsverfahren: Nachträgliche Gehörsgewährung bei unterbliebener Kenntnisnahme eines Schriftsatzes
 - [BGH, Beschluss vom 04.08.2010 - 3 StR 192/10](3-str-192-10.md) — Strafzumessung: Nachteilige Verwertung des Verteidigungsverhaltens
@@ -57,8 +57,8 @@
 - [BGH, Urteil vom 22.07.2010 - 3 StR 156/10](3-str-156-10.md) — Anordnung der Sicherungsverwahrung bei unbestraftem Angeklagten: Mehrere rechtlich selbstständige Taten als Voraussetzung
 - [BGH, Beschluss vom 22.07.2010 - 3 StR 169/10](3-str-169-10.md) — Unterbringung in einer Entziehungsanstalt: Gefährlichkeitsprognose auf der Grundlage eines standardisierten Prognoseinstruments
 - [BGH, Beschluss vom 20.07.2010 - 3 StR 193/10](3-str-193-10.md) — Zeugenvernehmung im Strafverfahren: Teilweise Vereidigung eines wiederholt vernommenen Zeugen
-- [BGH, Beschluss vom 20.07.2010 - 3 StR 218/10](3-str-218-10.md) — Strafzumessung und Beweisantragsablehnung: Vorwurf der Tatbegehung trotz Handlungsalternativen als Verstoß gegen das Doppelverwertungsverbot; Ablehnung eines Be
-- [BGH, Beschluss vom 20.07.2010 - 3 StR 250/10](3-str-250-10.md) — Strafverfahren: Formerfordernis der Revisionsrüge wegen Ablehnung eines Beweisantrags; Bedeutungslosigkeit einer unter Beweis gestellten Indiztatsache als Ableh
+- [BGH, Beschluss vom 20.07.2010 - 3 StR 218/10](3-str-218-10.md) — Strafzumessung und Beweisantragsablehnung: Vorwurf der Tatbegehung trotz Handlungsalternativen als Verstoß gegen das Doppelverwertungsverbot; Ablehnung eines Beweisantrags mangels …
+- [BGH, Beschluss vom 20.07.2010 - 3 StR 250/10](3-str-250-10.md) — Strafverfahren: Formerfordernis der Revisionsrüge wegen Ablehnung eines Beweisantrags; Bedeutungslosigkeit einer unter Beweis gestellten Indiztatsache als Ablehnungsgrund
 - [BGH, Beschluss vom 20.07.2010 - 3 StR 76/10](3-str-76-10.md) — Zum Umfang der Beweiskraft des Protokollvermerks nach § 249 Abs. 2 Satz 3 StPO .
 - [BGH, Urteil vom 08.07.2010 - 3 StR 151/10](3-str-151-10.md) — Strafzumessung: Fehlende Verletzungen des Opfers und Ausländereigenschaft des Täters als Strafmilderungsgründe bei der besonders schweren Vergewaltigung
 - [BGH, Beschluss vom 06.07.2010 - 3 StR 180/10](3-str-180-10.md) — Strafbarkeit der Wegnahme eines Mobiltelefons gegen den Willens des Besitzers
@@ -76,29 +76,29 @@
 - [BGH, Beschluss vom 18.05.2010 - 3 StR 140/10](3-str-140-10.md) — Entscheidung des Revisionsgerichts: Strafzumessung auf der Grundlage eines falschen Strafrahmens
 - [BGH, Beschluss vom 11.05.2010 - 3 StR 125/10](3-str-125-10.md) — Strafzumessung im Strafverfahren wegen Vergewaltigung: Strafschärfende Berücksichtigung der Vermeidung der Selbstbelastung
 - [BGH, Beschluss vom 06.05.2010 - 3 StR 62/10](3-str-62-10.md) — Verfallsanordnung: Wertersatzverfall bei Zahlung des Kaufpreises für eine Drogenlieferung im Auftrag des Käufers durch einen Dritten
-- [BGH, Urteil vom 29.04.2010 - 3 StR 314/09](3-str-314-09.md) — Ein Beiseiteschaffen im Sinne des § 283 Abs. 1 Nr. 1 StGB liegt nur dann vor, wenn der Zugriff auf den weggegebenen Vermögensbestandteil für einen Insolvenzverw
-- [BGH, Urteil vom 29.04.2010 - 3 StR 63/10](3-str-63-10.md) — Vernehmung des Beschuldigten: Anforderungen an die Belehrung über die Aussagefreiheit bei der polizeilichen Vernehmung und Unzulässigkeit der Beweiserhebung bei
+- [BGH, Urteil vom 29.04.2010 - 3 StR 314/09](3-str-314-09.md) — Ein Beiseiteschaffen im Sinne des § 283 Abs. 1 Nr. 1 StGB liegt nur dann vor, wenn der Zugriff auf den weggegebenen Vermögensbestandteil für einen Insolvenzverwalter im Rahmen der …
+- [BGH, Urteil vom 29.04.2010 - 3 StR 63/10](3-str-63-10.md) — Vernehmung des Beschuldigten: Anforderungen an die Belehrung über die Aussagefreiheit bei der polizeilichen Vernehmung und Unzulässigkeit der Beweiserhebung bei Vorliegen eines …
 - [BGH, Beschluss vom 27.04.2010 - 3 StR 106/10](3-str-106-10.md) — Strafzumessung: Anforderungen an die Strafzumessung beim minder schweren Fall des versuchten Totschlags ohne Veranlassung durch das Opfer
 - [BGH, Beschluss vom 27.04.2010 - 3 StR 112/10](3-str-112-10.md) — Verfallanordnung: Voraussetzungen bei mehreren Mittätern des schweren Bandendiebstahls
 - [BGH, Beschluss vom 27.04.2010 - 3 StR 32/10](3-str-32-10.md) — Sitzungspolizei: Ermessensentscheidung bezüglich des Abweichens von einer sitzungspolizeilichen Verfügung des Vorsitzenden im Einzelfall
 - [BGH, Beschluss vom 27.04.2010 - 3 StR 54/10](3-str-54-10.md) — Zuwiderhandeln gegen ein vereinsrechtliches Betätigungsverbot: Abgrenzung der Betätigung als Mitglied von der Unterstützung ohne Mitglied zu sein
-- [BGH, Beschluss vom 27.04.2010 - 3 StR 75/10](3-str-75-10.md) — Betäubungsmittelhandel: Eigennütziges Handeln bei Einschleusung von Heroin in die Justizvollzugsanstalt und Beihilfe zum bewaffneter Handeltreiben bei Bewaffnun
+- [BGH, Beschluss vom 27.04.2010 - 3 StR 75/10](3-str-75-10.md) — Betäubungsmittelhandel: Eigennütziges Handeln bei Einschleusung von Heroin in die Justizvollzugsanstalt und Beihilfe zum bewaffneter Handeltreiben bei Bewaffnung des Gehilfen
 - [BGH, Beschluss vom 15.04.2010 - 3 StR 89/10](3-str-89-10.md) — Bandenhandel mit Betäubungsmitteln: Strafzumessung und Doppelverwertungsverbot
-- [BGH, Beschluss vom 13.04.2010 - 3 StR 24/10](3-str-24-10.md) — Strafverfahren wegen Betruges: Abwesenheit eines Verteidigers während der Verhandlung über die Abtrennung eines verbundenen Verfahrens; Anwesenheit beim betrüge
+- [BGH, Beschluss vom 13.04.2010 - 3 StR 24/10](3-str-24-10.md) — Strafverfahren wegen Betruges: Abwesenheit eines Verteidigers während der Verhandlung über die Abtrennung eines verbundenen Verfahrens; Anwesenheit beim betrügerischen …
 - [BGH, Beschluss vom 13.04.2010 - 3 StR 71/10](3-str-71-10.md) — Strafverfahren wegen Beihilfe zur gewerbsmäßigen Hehlerei: Notwendige Begründung einer Gesamtstrafe
 - [BGH, Beschluss vom 01.04.2010 - 3 StR 30/10](3-str-30-10.md) — Revision in Strafsachen: Absoluter Revisionsgrund fehlender richterlicher Unterzeichnung des Ersturteils
 - [BGH, Beschluss vom 01.04.2010 - 3 StR 456/09](3-str-456-09.md) — Brandstiftung: Inbrandsetzen eines Wohnmobils als schwere Brandstiftung
 - [BGH, Beschluss vom 30.03.2010 - 3 StR 88/10](3-str-88-10.md) — Unterbringung in einer Entziehungsanstalt: Annahme eines Hangs wegen psychischer Betäubungsmittelabhängigkeit auf Grund langjährigen Drogenkonsums
 - [BGH, Beschluss vom 18.03.2010 - 3 StR 426/09](3-str-426-09.md) — Strafverfahren: Notwendiger Inhalt der Revisionsbegründung; Vernehmung eines abgelehnten Sachverständigen als Zeugen
-- [BGH, Beschluss vom 18.03.2010 - 3 StR 65/10](3-str-65-10.md) — Betäubungsmittelstrafrecht: Anwendung der Präklusionsregelung der gesetzlichen Neuregelung der Aufklärungshilfe auf die nach deren Inkrafttreten eröffneten Verf
+- [BGH, Beschluss vom 18.03.2010 - 3 StR 65/10](3-str-65-10.md) — Betäubungsmittelstrafrecht: Anwendung der Präklusionsregelung der gesetzlichen Neuregelung der Aufklärungshilfe auf die nach deren Inkrafttreten eröffneten Verfahren
 - [BGH, Urteil vom 11.03.2010 - 3 StR 538/09](3-str-538-09.md) — Unterbringung in einer Entziehungsanstalt: Hinreichende Erfolgsaussicht bei erforderlicher Behandlungsdauer von 3 Jahren
 - [BGH, Beschluss vom 09.03.2010 - 3 ARs 3/10](3-ars-3-10.md) — Strafbarkeit der Nichtanzeige geplanter Straftaten bei Verdacht der Beteiligung an geplanter Straftat
 - [BGH, Beschluss vom 02.03.2010 - 3 StR 496/09](3-str-496-09.md) — Nachträgliche Gesamtstrafenbildung: Zäsurwirkung durch eine erledigte Strafe; erneute Gesamtstrafenbildung nach vorheriger Aufhebung im Revisionsverfahren
 - [BGH, Beschluss vom 18.02.2010 - 3 StR 486/09](3-str-486-09.md) — Revision im Strafverfahren: Anforderungen an den Tatsachenvortrag bei Verfahrensrügen
-- [BGH, Urteil vom 18.02.2010 - 3 StR 556/09](3-str-556-09.md) — Schwerer Raub: Schraubendreher als gefährliches Werkzeug und vollendete Verwendung des Werkzeugs zur Drohung; vollendete Wegnahme beim Einstecken erbeuteter Gel
+- [BGH, Urteil vom 18.02.2010 - 3 StR 556/09](3-str-556-09.md) — Schwerer Raub: Schraubendreher als gefährliches Werkzeug und vollendete Verwendung des Werkzeugs zur Drohung; vollendete Wegnahme beim Einstecken erbeuteter Geldscheine in die …
 - [BGH, Urteil vom 18.02.2010 - 3 StR 568/09](3-str-568-09.md) — Unterbringung in der Sicherungsverwahrung: Prüfung des verbrecherischen Hangs des Täters; Körperverletzung als Symptomtat
 - [BGH, Beschluss vom 10.02.2010 - 3 StR 560/09](3-str-560-09.md) — Betäubungsmittelhandel: Täterschaftliche Beteiligung bei Verhandlungen über eine Betäubungsmittellieferung aus dem Ausland
-- [BGH, Beschluss vom 09.02.2010 - 3 StR 11/10](3-str-11-10.md) — Besonders schwerer Raub: Schreckschusspistole als Waffe; Unterbringung in einem psychiatrischen Krankenhaus bei verminderter Schuldfähigkeit durch Genuss von Al
+- [BGH, Beschluss vom 09.02.2010 - 3 StR 11/10](3-str-11-10.md) — Besonders schwerer Raub: Schreckschusspistole als Waffe; Unterbringung in einem psychiatrischen Krankenhaus bei verminderter Schuldfähigkeit durch Genuss von Alkohol
 - [BGH, Beschluss vom 09.02.2010 - 3 StR 17/10](3-str-17-10.md) — Schwerer Raub bei Bedrohung mit einer Schreckschusswaffe; Voraussetzungen der Dritteinziehung und der Einziehung des Erlangten bei mehreren Tatbeteiligten
 - [BGH, Beschluss vom 04.02.2010 - 3 StR 555/09](3-str-555-09.md) — Gewerbsmäßige Hehlerei in der Begehungsform des Absetzens: Erfordernis der Aufrechterhaltung oder Vertiefung der rechtswidrigen Vermögenssituation
 - [BGH, Beschluss vom 04.02.2010 - 3 StR 564/09](3-str-564-09.md) — Lückenhafte Beweiswürdigung im Strafverfahren: Möglichkeit eines alternativen Handlungsablauf
@@ -106,19 +106,19 @@
 - [BGH, Beschluss vom 02.02.2010 - 3 StR 4/10](3-str-4-10.md) — Betäubungsmittelhandel: Abgrenzung zwischen Mittäterschaft und Beihilfe
 - [BGH, Beschluss vom 02.02.2010 - 3 StR 527/09](3-str-527-09.md) — Sicherungsverwahrung: Berechnung der "Rückfallverjährung"
 - [BGH, Beschluss vom 02.02.2010 - 3 StR 558/09](3-str-558-09.md) — Versuchter Totschlag: Erforderliche Feststellungen zum Tötungsvorsatz bei gefährlichen Gewalthandlungen in Form von Fußtritten gegen den Kopf des Opfers
-- [BGH, Beschluss vom 28.01.2010 - 3 StR 274/09](3-str-274-09.md) — 1. Wird ein Gesetz, das für besonders schwere Fälle strafschärfend Freiheitsstrafe von mehr als fünf Jahren vorsieht, nach Beendigung der Tat in der Weise geänd
-- [BGH, Urteil vom 28.01.2010 - 3 StR 533/09](3-str-533-09.md) — Bedingt vorsätzliches Handeln: Nur Körperverletzungsvorsatz trotz äußert gefährlicher Gewalthandlung; Anforderungen an die Beweiswürdigung im freisprechenden Ur
-- [BGH, Beschluss vom 26.01.2010 - 3 StR 442/09](3-str-442-09.md) — Besonders schwere Brandstiftung: Voraussetzungen eines vollendeten Inbrandsetzens bei Feuerlegung in einem Imbisslokal im Erdgeschoss eines gemischt genutzten G
+- [BGH, Beschluss vom 28.01.2010 - 3 StR 274/09](3-str-274-09.md) — 1. Wird ein Gesetz, das für besonders schwere Fälle strafschärfend Freiheitsstrafe von mehr als fünf Jahren vorsieht, nach Beendigung der Tat in der Weise geändert, dass die …
+- [BGH, Urteil vom 28.01.2010 - 3 StR 533/09](3-str-533-09.md) — Bedingt vorsätzliches Handeln: Nur Körperverletzungsvorsatz trotz äußert gefährlicher Gewalthandlung; Anforderungen an die Beweiswürdigung im freisprechenden Urteil
+- [BGH, Beschluss vom 26.01.2010 - 3 StR 442/09](3-str-442-09.md) — Besonders schwere Brandstiftung: Voraussetzungen eines vollendeten Inbrandsetzens bei Feuerlegung in einem Imbisslokal im Erdgeschoss eines gemischt genutzten Gebäudes
 - [BGH, Beschluss vom 21.01.2010 - 3 StR 502/09](3-str-502-09.md) — Unterbringung in einer Entziehungsanstalt: Absehen von der Maßregelanordnung wegen fehlenden Therapiewillens des Betroffenen
-- [BGH, Beschluss vom 19.01.2010 - 3 StR 451/09](3-str-451-09.md) — Ablehnung eines Beweisantrags im Strafverfahren: Anforderungen an die Ablehnung des Antrags auf Vernehmung eines Auslandszeugen und an die Begründung des Ablehn
+- [BGH, Beschluss vom 19.01.2010 - 3 StR 451/09](3-str-451-09.md) — Ablehnung eines Beweisantrags im Strafverfahren: Anforderungen an die Ablehnung des Antrags auf Vernehmung eines Auslandszeugen und an die Begründung des Ablehnungsbeschlusses
 - [BGH, Beschluss vom 19.01.2010 - 3 StR 499/09](3-str-499-09.md) — Unterbringung in einer Entziehungsanstalt: Teilvorwegvollzug einer Parallelstrafe aus demselben Urteil
 - [BGH, Beschluss vom 19.01.2010 - 3 StR 530/09](3-str-530-09.md) — Durchsuchung ohne richterliche Anordnung: Gefahr im Verzug aufgrund der Ungeschicklichkeit eines Polizeibeamten
-- [BGH, Beschluss vom 14.01.2010 - 3 StR 403/09](3-str-403-09.md) — Strafverfahren wegen Vergewaltigung: Beruhen des Urteils auf der unterbliebenen Unterrichtung des von der Verhandlung ausgeschlossenen Angeklagten über die ergä
+- [BGH, Beschluss vom 14.01.2010 - 3 StR 403/09](3-str-403-09.md) — Strafverfahren wegen Vergewaltigung: Beruhen des Urteils auf der unterbliebenen Unterrichtung des von der Verhandlung ausgeschlossenen Angeklagten über die ergänzende Vernehmung …
 - [BGH, Beschluss vom 13.01.2010 - 3 StR 500/09](3-str-500-09.md) — Betrug: Erforderliche Urteilsfeststellungen zur Person des Verfügenden bei arbeitsteilig tätigen Unternehmen wie einer Bank
-- [BGH, Beschluss vom 13.01.2010 - 3 StR 507/09](3-str-507-09.md) — Strafverfahren: Übertragung anhängiger Verfahren auf eine nachträglich eingerichtete Hilfsstrafkammer im Wege einer Änderung der Geschäftsverteilung; Voraussetz
+- [BGH, Beschluss vom 13.01.2010 - 3 StR 507/09](3-str-507-09.md) — Strafverfahren: Übertragung anhängiger Verfahren auf eine nachträglich eingerichtete Hilfsstrafkammer im Wege einer Änderung der Geschäftsverteilung; Voraussetzungen des …
 - [BGH, Beschluss vom 13.01.2010 - 3 StR 508/09](3-str-508-09.md) — Nötigung durch Gebrauch einer Schusswaffe in Notwehr: Strafbarkeit des Führens der Waffe
 - [BGH, Beschluss vom 13.01.2010 - 3 StR 528/09](3-str-528-09.md) — Dokumentation der Verständigung im Strafverfahren: Erforderliche Angaben in der Sitzungsniederschrift
-- [BGH, Beschluss vom 12.01.2010 - 3 StR 436/09](3-str-436-09.md) — Sicherungsverwahrung: Hang als dem Sachverständigenbeweis nicht zugänglicher Rechtsbegriff; Ablehnung des Antrags auf Hinzuziehung eines weiteren Sachverständig
+- [BGH, Beschluss vom 12.01.2010 - 3 StR 436/09](3-str-436-09.md) — Sicherungsverwahrung: Hang als dem Sachverständigenbeweis nicht zugänglicher Rechtsbegriff; Ablehnung des Antrags auf Hinzuziehung eines weiteren Sachverständigen
 - [BGH, Beschluss vom 12.01.2010 - 3 StR 439/09](3-str-439-09.md) — Nachträgliche Sicherungsverwahrung: Zulässigkeit bei rechtlich möglicher Anordnung der Sicherungsverwahrung zum Zeitpunkt der Anlassverurteilung
 - [BGH, Beschluss vom 12.01.2010 - 3 StR 466/09](3-str-466-09.md) — Zuwiderhandlung gegen ein vereinsrechtliches Betätigungsverbot: Vorliegen einer Bewertungseinheit; Zäsurwirkung einer Verurteilung
-- [BGH, Beschluss vom 12.01.2010 - 3 StR 519/09](3-str-519-09.md) — Strafverfahren: Ablehnung von Beweisanträgen wegen Ungeeignetheit bzw. Bedeutungslosigkeit; Prüfung des Beruhens des Urteils auf der fehlerhaft begründeten Able
+- [BGH, Beschluss vom 12.01.2010 - 3 StR 519/09](3-str-519-09.md) — Strafverfahren: Ablehnung von Beweisanträgen wegen Ungeeignetheit bzw. Bedeutungslosigkeit; Prüfung des Beruhens des Urteils auf der fehlerhaft begründeten Ablehnung im …

@@ -55,7 +55,7 @@
 - [BGH, Urteil vom 12.03.2026 - VIa ZR 529/22](via-zr-529-22.md) — BGH, Urteil VIa ZR 529/22
 - [BGH, Urteil vom 12.03.2026 - VIa ZR 745/22](via-zr-745-22.md) — BGH, Urteil VIa ZR 745/22
 - [BGH, Urteil vom 04.03.2026 - VIa ZR 471/22](via-zr-471-22.md) — BGH, Urteil VIa ZR 471/22
-- [BGH, Urteil vom 04.03.2026 - VIa ZR 473/24](via-zr-473-24.md) — 1. Die Weiterveräußerung eines mit einer unrichtigen Übereinstimmungsbescheinigung in den Verkehr gebrachten Fahrzeugs zu einem Betrag unterhalb seines marktger
+- [BGH, Urteil vom 04.03.2026 - VIa ZR 473/24](via-zr-473-24.md) — 1. Die Weiterveräußerung eines mit einer unrichtigen Übereinstimmungsbescheinigung in den Verkehr gebrachten Fahrzeugs zu einem Betrag unterhalb seines marktgerechten Restwerts …
 - [BGH, Urteil vom 25.02.2026 - VIa ZR 1580/22](via-zr-1580-22.md) — BGH, Urteil VIa ZR 1580/22
 - [BGH, Urteil vom 25.02.2026 - VIa ZR 1658/22](via-zr-1658-22.md) — BGH, Urteil VIa ZR 1658/22
 - [BGH, Urteil vom 25.02.2026 - VIa ZR 440/23](via-zr-440-23.md) — BGH, Urteil VIa ZR 440/23

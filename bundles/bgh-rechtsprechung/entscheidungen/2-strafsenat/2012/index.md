@@ -4,7 +4,7 @@
 
 - [BGH, Beschluss vom 12.12.2012 - 2 StR 325/12](2-str-325-12.md) — Sicherungsverwahrung neben lebenslanger Freiheitsstrafe
 - [BGH, Beschluss vom 06.12.2012 - 2 StR 170/12](2-str-170-12.md) — Minder schwerer Fall des Totschlags durch Unterlassen: Prüfung einer Strafmilderung im Fall der Nichtversorgung eines Säuglings
-- [BGH, Urteil vom 05.12.2012 - 2 StR 117/12](2-str-117-12.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Konkurrenzverhältnis bei Beschaffung und Gebrauch mehrerer gefälschter Kreditkartenrohlinge und bei der sukze
+- [BGH, Urteil vom 05.12.2012 - 2 StR 117/12](2-str-117-12.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Konkurrenzverhältnis bei Beschaffung und Gebrauch mehrerer gefälschter Kreditkartenrohlinge und bei der sukzessiven Beihilfe
 - [BGH, Beschluss vom 05.12.2012 - 2 StR 629/11](2-str-629-11.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Konkurrenzrechtliche Beurteilung mehrerer Beihilfehandlungen
 - [BGH, Beschluss vom 04.12.2012 - 2 StR 376/12](2-str-376-12.md) — Bemessung der Jugendstrafe: Einbeziehung der positiven Entwicklung des Angeklagten seit der Tat
 - [BGH, Beschluss vom 04.12.2012 - 2 StR 395/12](2-str-395-12.md) — Bandenmäßige Fälschung von Zahlungskarten mit Garantiefunktion: Abgrenzung Mittäterschaft von Beihilfe
@@ -17,22 +17,22 @@
 - [BGH, Beschluss vom 06.11.2012 - 2 StR 394/12](2-str-394-12.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Mitführen eines zur Verletzung von Personen bestimmten Gebrauchsgegenstandes
 - [BGH, Beschluss vom 06.11.2012 - 2 StR 410/12](2-str-410-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Erfordernis der Eigennützigkeit; Feststellungen in den Urteilsgründen
 - [BGH, Beschluss vom 23.10.2012 - 2 StR 285/12](2-str-285-12.md) — Strafverfahren: Nachholung des versäumten letzten Wortes des Angeklagten nach Urteilsverkündung
-- [BGH, Urteil vom 18.10.2012 - 2 StR 529/11](2-str-529-11.md) — Voraussetzungen eines Bandendiebstahls: Annahme eines Bandendiebstahls auch bei Ausführung des Diebstahls durch nur zwei von drei Bandenmitgliedern; Abgrenzung 
+- [BGH, Urteil vom 18.10.2012 - 2 StR 529/11](2-str-529-11.md) — Voraussetzungen eines Bandendiebstahls: Annahme eines Bandendiebstahls auch bei Ausführung des Diebstahls durch nur zwei von drei Bandenmitgliedern; Abgrenzung zur Mittäterschaft
 - [BGH, Beschluss vom 10.10.2012 - 2 StR 120/12](2-str-120-12.md) — Schwerer Bandendiebstahl: Gegen eine Bandenabrede sprechende Indizien; Abgrenzung zur Mittäterschaft
 - [BGH, Urteil vom 10.10.2012 - 2 StR 591/11](2-str-591-11.md) — Untreue: Begleichung nichtiger Forderungen
-- [BGH, Beschluss vom 09.10.2012 - 2 StR 297/12](2-str-297-12.md) — Unterbringung in einem psychiatrischen Krankenhaus bei Beschaffungsbetrug: Verminderte Schuldfähigkeit wegen pathologischen Spielens; Spielsucht als schwere see
+- [BGH, Beschluss vom 09.10.2012 - 2 StR 297/12](2-str-297-12.md) — Unterbringung in einem psychiatrischen Krankenhaus bei Beschaffungsbetrug: Verminderte Schuldfähigkeit wegen pathologischen Spielens; Spielsucht als schwere seelische Abartigkeit …
 - [BGH, Beschluss vom 27.09.2012 - 2 StR 349/12](2-str-349-12.md) — Beweiswürdigung im Strafurteil wegen Totschlags: Anforderungen an die Bewertung der Einlassung des Angeklagten
 - [BGH, Urteil vom 26.09.2012 - 2 StR 553/11](2-str-553-11.md) — Untreue zu Lasten einer Kapitalgesellschaft durch den Geschäftsführer
 - [BGH, Beschluss vom 25.09.2012 - 2 StR 340/12](2-str-340-12.md) — Raub: Ausnutzen des Andauerns der Wirkungen der ohne Wegnahmeabsicht ausgeübten Gewalt
 - [BGH, Beschluss vom 12.09.2012 - 2 StR 219/12](2-str-219-12.md) — Erheblichkeitsschwelle für sexuelle Handlungen: Kussversuch
-- [BGH, Beschluss vom 05.09.2012 - 2 StR 242/12](2-str-242-12.md) — Körperverletzung mit Todesfolge: Zurechnungszusammenhang bei mit einem neuen auf Tötung gerichteten Vorsatz und von der vereinbarten Misshandlung des Opfers abw
-- [BGH, Beschluss vom 04.09.2012 - 2 ARs 327/12](2-ars-327-12.md) — Maßregelvollstreckung: Fortbestehende Zuständigkeit einer Strafvollstreckungskammer nach Verlegung des Untergebrachten in ein anderes psychiatrisches Krankenhau
+- [BGH, Beschluss vom 05.09.2012 - 2 StR 242/12](2-str-242-12.md) — Körperverletzung mit Todesfolge: Zurechnungszusammenhang bei mit einem neuen auf Tötung gerichteten Vorsatz und von der vereinbarten Misshandlung des Opfers abweichenden …
+- [BGH, Beschluss vom 04.09.2012 - 2 ARs 327/12](2-ars-327-12.md) — Maßregelvollstreckung: Fortbestehende Zuständigkeit einer Strafvollstreckungskammer nach Verlegung des Untergebrachten in ein anderes psychiatrisches Krankenhaus
 - [BGH, Beschluss vom 23.08.2012 - 2 StR 42/12](2-str-42-12.md) — Strafurteil: Erforderliche Feststellungen zur Vortat bei Geldwäsche
 - [BGH, Urteil vom 22.08.2012 - 2 StR 235/12](2-str-235-12.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Mitführen eines Teleskopschlagsstocks in demselben Raum wie die gelagerten Drogen
 - [BGH, Urteil vom 22.08.2012 - 2 StR 530/11](2-str-530-11.md) — Betäubungsmitteldelikte: Verbindung verschiedener Rauschgiftgeschäfte zu einer einzigen Tat
 - [BGH, Beschluss vom 21.08.2012 - 2 StR 277/12](2-str-277-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bewertungseinheit bei Auffüllen eines Betäubungsmittelvorrats
 - [BGH, Beschluss vom 17.08.2012 - 2 StR 496/11](2-str-496-11.md) — Verurteilung wegen Betruges: Fehlende Bezifferung des Gefährdungsschadens
-- [BGH, Beschluss vom 08.08.2012 - 2 StR 279/12](2-str-279-12.md) — Strafzumessung bei schwerer räuberischer Erpressung: Prüfungsreihenfolge bei minder schwerem Fall und vertyptem Strafmilderungsgrund; hinreichend konkrete Erfol
+- [BGH, Beschluss vom 08.08.2012 - 2 StR 279/12](2-str-279-12.md) — Strafzumessung bei schwerer räuberischer Erpressung: Prüfungsreihenfolge bei minder schwerem Fall und vertyptem Strafmilderungsgrund; hinreichend konkrete Erfolgsaussicht bei …
 - [BGH, Urteil vom 08.08.2012 - 2 StR 526/11](2-str-526-11.md) — Täter-Opfer-Ausgleich bei Vermögensdelikten
 - [BGH, Beschluss vom 07.08.2012 - 2 StR 218/12](2-str-218-12.md) — Vorsätzliches Tötungsdelikt: Voraussetzungen für die Annahme eines schuldrelevanten Affekts
 - [BGH, Urteil vom 25.07.2012 - 2 StR 111/12](2-str-111-12.md) — Sicherungsverwahrung bei lebenslanger Freiheitsstrafe
@@ -41,7 +41,7 @@
 - [BGH, Beschluss vom 24.07.2012 - 2 StR 82/12](2-str-82-12.md) — Schuldunfähigkeit zum Zeitpunkt eines Tötungsdelikts: Indizwert des äußeren Verhaltens bei hirnorganischem Psychosyndrom
 - [BGH, Beschluss vom 11.07.2012 - 2 ARs 164/12](2-ars-164-12.md) — Örtliche Zuständigkeit der Strafvollstreckungskammer: Befassung mit einer Entscheidung über den Widerruf der Bewährung
 - [BGH, Beschluss vom 11.07.2012 - 2 StR 60/12](2-str-60-12.md) — Körperverletzung: Tritte und Schläge gegen den Kopf als lebensgefährdende Behandlung; Hervorrufen von Angst als Taterfolg
-- [BGH, Beschluss vom 10.07.2012 - 2 StR 85/12](2-str-85-12.md) — Unterbringung eines betäubungsmittelabhängigen Straftäters in einer Entziehungsanstalt: Absehen von der Maßregelanordnung wegen fehlenden Therapiewillens des Be
+- [BGH, Beschluss vom 10.07.2012 - 2 StR 85/12](2-str-85-12.md) — Unterbringung eines betäubungsmittelabhängigen Straftäters in einer Entziehungsanstalt: Absehen von der Maßregelanordnung wegen fehlenden Therapiewillens des Betroffenen …
 - [BGH, Beschluss vom 04.07.2012 - 2 StR 122/12](2-str-122-12.md) — Selbstablehnung eines Richters eines Strafsenats des BGH: Festhaltung an den Gründen der Zurückweisung früherer Ablehnungsanträge gegen denselben Richter
 - [BGH, Beschluss vom 04.07.2012 - 2 StR 25/12](2-str-25-12.md) — Selbstablehnung eines Richters eines Strafsenats des BGH: Festhaltung an den Gründen der Zurückweisung früherer Ablehnungsanträge gegen denselben Richter
 - [BGH, Beschluss vom 04.07.2012 - 2 StR 43/12](2-str-43-12.md) — Selbstablehnung eines Richters eines Strafsenats des BGH: Festhaltung an den Gründen der Zurückweisung früherer Ablehnungsanträge gegen denselben Richter
@@ -51,25 +51,25 @@
 - [BGH, Urteil vom 27.06.2012 - 2 StR 103/12](2-str-103-12.md) — Strafurteil wegen Mordes: Anforderungen an die Feststellung der besonderen Schwere der Schuld bei Mord aus niedrigen Beweggründen
 - [BGH, Urteil vom 27.06.2012 - 2 StR 79/12](2-str-79-12.md) — Betrug: Ermittlung des Vermögensschadens beim Verkauf von als Originalfelgen ausgegebenen Plagiatsfelgen
 - [BGH, Beschluss vom 26.06.2012 - 2 StR 137/12](2-str-137-12.md) — Veruntreuende Unterschlagung tritt aufgrund formeller Subsidiarität hinter gewerbsmäßig begangener Untreue zurück.
-- [BGH, Beschluss vom 13.06.2012 - 2 StR 112/12](2-str-112-12.md) — 1. Die Zulässigkeit der Verfahrensrüge eines Verstoßes gegen § 252 StPO setzt nicht den Vortrag voraus, der zeugnisverweigerungsberechtigte Zeuge habe nicht nac
+- [BGH, Beschluss vom 13.06.2012 - 2 StR 112/12](2-str-112-12.md) — 1. Die Zulässigkeit der Verfahrensrüge eines Verstoßes gegen § 252 StPO setzt nicht den Vortrag voraus, der zeugnisverweigerungsberechtigte Zeuge habe nicht nach qualifizierter …
 - [BGH, Urteil vom 31.05.2012 - 2 StR 610/11](2-str-610-11.md) — Rechtsbeugung: Beweiswürdigung hinsichtlich des Vorsatzes
-- [BGH, Beschluss vom 31.05.2012 - 2 StR 74/12](2-str-74-12.md) — Fälschung von Zahlungskarten und Computerbetrug durch eine international tätige Bande: Abgrenzung von Mittäterschaft und Beihilfe zum gewerbs- und bandenmäßigem
+- [BGH, Beschluss vom 31.05.2012 - 2 StR 74/12](2-str-74-12.md) — Fälschung von Zahlungskarten und Computerbetrug durch eine international tätige Bande: Abgrenzung von Mittäterschaft und Beihilfe zum gewerbs- und bandenmäßigem Computerbetrug …
 - [BGH, Beschluss vom 30.05.2012 - 2 StR 98/12](2-str-98-12.md) — Gesamtfreiheitsstrafe wegen schweren sexuellen Missbrauchs von Kindern: Berücksichtigung der persönlichen Verhältnisse des Angeklagten bei der Strafzumessung
 - [BGH, Beschluss vom 29.05.2012 - 2 StR 139/12](2-str-139-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldfähigkeit trotz der Diagnose einer Schizophrenie
-- [BGH, Beschluss vom 16.05.2012 - 2 ARs 159/12](2-ars-159-12.md) — Anordnung der Unterbringungsfortdauer in einer Entziehungsanstalt: Begriff der "Aufnahme" im Rahmen der Bestimmung der örtlich zuständigen Strafvollstreckungska
+- [BGH, Beschluss vom 16.05.2012 - 2 ARs 159/12](2-ars-159-12.md) — Anordnung der Unterbringungsfortdauer in einer Entziehungsanstalt: Begriff der "Aufnahme" im Rahmen der Bestimmung der örtlich zuständigen Strafvollstreckungskammer
 - [BGH, Beschluss vom 16.05.2012 - 2 ARs 167/12](2-ars-167-12.md) — Entlassung des Verurteilten aus dem Strafvollzug: Zuständige Strafvollstreckungskammer für die Entscheidungen im Rahmen der Führungsaufsicht
 - [BGH, Beschluss vom 16.05.2012 - 2 StR 36/12](2-str-36-12.md) — Strafverfahren gegen Heranwachsenden: Unterlassene Anhörung der Jugendgerichtshilfe
 - [BGH, Beschluss vom 16.05.2012 - 2 StR 66/12](2-str-66-12.md) — Betäubungsmitteldelikt: Strafmilderung wegen Aufklärungshilfe
 - [BGH, Beschluss vom 15.05.2012 - 2 StR 54/12](2-str-54-12.md) — Jugendstrafe wegen schwerer räuberischer Erpressung: Notwendige Begründung bei Verhängung wegen Schwere der Schuld; Berücksichtigung des Erziehungsgedankens
-- [BGH, Beschluss vom 09.05.2012 - 2 StR 620/11](2-str-620-11.md) — Ablehnungsgesuch gegen Richter eines Strafsenats des BGH: Auseinandersetzung der abgelehnten Richter mit dem Präsidium des BGH über die Verfassungsmäßigkeit der
+- [BGH, Beschluss vom 09.05.2012 - 2 StR 620/11](2-str-620-11.md) — Ablehnungsgesuch gegen Richter eines Strafsenats des BGH: Auseinandersetzung der abgelehnten Richter mit dem Präsidium des BGH über die Verfassungsmäßigkeit der Regelung der …
 - [BGH, Beschluss vom 03.05.2012 - 2 StR 446/11](2-str-446-11.md) — Untreue: Vermögensbetreuungspflicht eines Kreditsachbearbeiters
-- [BGH, Beschluss vom 02.05.2012 - 2 StR 123/12](2-str-123-12.md) — Ausspähen von Kundendaten an Geldautomaten im Auftrag unbekannter Dritter: Mittäterschaftlich begangene Fälschung von Zahlungskarten mit Garantiefunktion und Co
+- [BGH, Beschluss vom 02.05.2012 - 2 StR 123/12](2-str-123-12.md) — Ausspähen von Kundendaten an Geldautomaten im Auftrag unbekannter Dritter: Mittäterschaftlich begangene Fälschung von Zahlungskarten mit Garantiefunktion und Computerbetrug bzw …
 - [BGH, Urteil vom 02.05.2012 - 2 StR 395/11](2-str-395-11.md) — Verurteilung wegen Mordes: Zulässigkeit von Rückschlüssen auf die vorsätzliche Verursachung des Todes des verschollenen Opfers in einem Ausschlussverfahren
-- [BGH, Beschluss vom 17.04.2012 - 2 StR 73/12](2-str-73-12.md) — Strafzumessung bei bewaffnetem unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Berücksichtigung fehlender Strafmilderungsgründe zu Las
+- [BGH, Beschluss vom 17.04.2012 - 2 StR 73/12](2-str-73-12.md) — Strafzumessung bei bewaffnetem unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Berücksichtigung fehlender Strafmilderungsgründe zu Lasten des …
 - [BGH, Beschluss vom 04.04.2012 - 2 StR 70/12](2-str-70-12.md) — Klammerwirkung einer minderschweren Dauerstraftat; Strafzumessung bei Rücktritt vom Versuch und zugleich verwirklichtem vollendetem Delikt
-- [BGH, Beschluss vom 03.04.2012 - 2 StR 46/12](2-str-46-12.md) — Verfahrenshindernis in Strafsachen: Unwirksamkeit eines Eröffnungsbeschlusses bei unterbliebener Unterzeichnung durch einen Berufsrichter der Strafkammer; Heilu
+- [BGH, Beschluss vom 03.04.2012 - 2 StR 46/12](2-str-46-12.md) — Verfahrenshindernis in Strafsachen: Unwirksamkeit eines Eröffnungsbeschlusses bei unterbliebener Unterzeichnung durch einen Berufsrichter der Strafkammer; Heilung in der …
 - [BGH, Urteil vom 28.03.2012 - 2 StR 16/12](2-str-16-12.md) — Strafverfahren: Beschränkung der Revision auf den Gesamtstrafenausspruch
-- [BGH, Urteil vom 28.03.2012 - 2 StR 592/11](2-str-592-11.md) — Sicherungsverwahrung: Übernahme von Feststellungen aus einem aufgehobenen Urteil bei der erneuten Verurteilung; Beachtung des Verhältnismäßigkeitsgrundsatzes na
+- [BGH, Urteil vom 28.03.2012 - 2 StR 592/11](2-str-592-11.md) — Sicherungsverwahrung: Übernahme von Feststellungen aus einem aufgehobenen Urteil bei der erneuten Verurteilung; Beachtung des Verhältnismäßigkeitsgrundsatzes nach den Maßgaben des …
 - [BGH, Beschluss vom 27.03.2012 - 2 ARs 65/12](2-ars-65-12.md) — Bußgeldverfahren gegen einen Jugendlichen: Örtliche Zuständigkeit für die Vollstreckung eines Bußgeldbescheides
 - [BGH, Beschluss vom 27.03.2012 - 2 StR 31/12](2-str-31-12.md) — Verfallsanordnung: Belohnung für die Mitwirkung am Absatz gefälschter Kunstwerke
 - [BGH, Beschluss vom 27.03.2012 - 2 StR 41/12](2-str-41-12.md) — Strafzumessung: Annahme eines besonders schweren Falls der Nötigung bei erheblicher Verminderung der Steuerungsfähigkeit wegen akuter Kokainwirkung
@@ -78,19 +78,19 @@
 - [BGH, Beschluss vom 15.03.2012 - 2 StR 355/11](2-str-355-11.md) — Sicherungsverwahrung: Anordnung der Maßregel im Nachverfahren nach fehlerhaftem Vorbehalt im Ersturteil
 - [BGH, Beschluss vom 14.03.2012 - 2 StR 493/11](2-str-493-11.md) — BGH, Beschluss 2 StR 493/11
 - [BGH, Urteil vom 14.03.2012 - 2 StR 547/11](2-str-547-11.md) — Erpressungsvorsatz: Vorstellungen des Täters von einer vermeintlichen Anspruchsgrundlage
-- [BGH, Urteil vom 14.03.2012 - 2 StR 561/11](2-str-561-11.md) — Sexuelle Nötigung und Körperverletzung: Tateinheit bei Delikten im Zusammenhang mit einer Körperverletzung; Annahme einer natürlichen Handlungseinheit; Unwirksa
-- [BGH, Urteil vom 07.03.2012 - 2 StR 640/11](2-str-640-11.md) — Strafurteil: Urteilsfeststellungen zu persönlichen und wirtschaftlichen Verhältnissen des Angeklagten bei Freispruch; revisionsgerichtliche Überprüfbarkeit eine
+- [BGH, Urteil vom 14.03.2012 - 2 StR 561/11](2-str-561-11.md) — Sexuelle Nötigung und Körperverletzung: Tateinheit bei Delikten im Zusammenhang mit einer Körperverletzung; Annahme einer natürlichen Handlungseinheit; Unwirksamkeit der …
+- [BGH, Urteil vom 07.03.2012 - 2 StR 640/11](2-str-640-11.md) — Strafurteil: Urteilsfeststellungen zu persönlichen und wirtschaftlichen Verhältnissen des Angeklagten bei Freispruch; revisionsgerichtliche Überprüfbarkeit einer lückenhaften …
 - [BGH, Beschluss vom 29.02.2012 - 2 StR 426/11](2-str-426-11.md) — Verfall von Wertersatz: Absehen von der Verfallsanordnung beim Verbrauch des Erlangten
 - [BGH, Beschluss vom 29.02.2012 - 2 StR 639/11](2-str-639-11.md) — Anordnung des Drittverfalls: Vorliegen einer unbilligen Härte
 - [BGH, Beschluss vom 28.02.2012 - 2 StR 544/11](2-str-544-11.md) — Strafurteil: Widersprüchliche Höhe der verhängten Freiheitsstrafe in Urteilsgründen und Urteilstenor
-- [BGH, Beschluss vom 16.02.2012 - 2 StR 29/12](2-str-29-12.md) — Revisionsbeschränkung im Strafverfahren: Wechselwirkung zwischen der Unterbringung eines Drogenkonsumenten in einer Entziehungsanstalt und der Versagung einer S
+- [BGH, Beschluss vom 16.02.2012 - 2 StR 29/12](2-str-29-12.md) — Revisionsbeschränkung im Strafverfahren: Wechselwirkung zwischen der Unterbringung eines Drogenkonsumenten in einer Entziehungsanstalt und der Versagung einer Strafaussetzung zur …
 - [BGH, Beschluss vom 09.02.2012 - 2 StR 445/11](2-str-445-11.md) — Gesamtstrafenbildung: Nachholung der Festsetzung der Einzelstrafe durch das Revisionsgericht
 - [BGH, Beschluss vom 09.02.2012 - 2 StR 455/11](2-str-455-11.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Berücksichtigung der Beteiligung verdeckter Ermittler bei der Strafzumessung
 - [BGH, Beschluss vom 09.02.2012 - 2 StR 460/11](2-str-460-11.md) — Strafurteil u.a. wegen Sachbeschädigung: Fehlerhafte Annahme der Steuerungsfähigkeit trotz festgestellter verminderter Schuldfähigkeit
 - [BGH, Beschluss vom 08.02.2012 - 2 StR 136/11](2-str-136-11.md) — Strafaussetzung zur Bewährung: Berücksichtigung der Dauer des straffreien Verhaltens des Angeklagten
-- [BGH, Urteil vom 08.02.2012 - 2 StR 346/11](2-str-346-11.md) — Doppelvorsitz in zwei Strafsenaten des Bundesgerichtshofs: Überprüfung der ordnungsgemäßen Besetzung von Amts wegen; richterliche Unabhängigkeit im Licht von Be
+- [BGH, Urteil vom 08.02.2012 - 2 StR 346/11](2-str-346-11.md) — Doppelvorsitz in zwei Strafsenaten des Bundesgerichtshofs: Überprüfung der ordnungsgemäßen Besetzung von Amts wegen; richterliche Unabhängigkeit im Licht von Beschleunigungsgebot …
 - [BGH, Beschluss vom 01.02.2012 - 2 StR 508/11](2-str-508-11.md) — Nachträgliche Anordnung der Sicherungsverwahrung: Vertrauensschutz wegen Erledigterklärung der Unterbringung in einem psychiatrischen Krankenhaus
 - [BGH, Beschluss vom 31.01.2012 - 2 StR 409/11](2-str-409-11.md) — Unerlaubter Waffenbesitz: Konkurrenz bei gleichzeitigem Besitz von Waffen und Munition oder von waffenrechtlich verbotenen Gegenständen
 - [BGH, Beschluss vom 19.01.2012 - 2 StR 590/11](2-str-590-11.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Abgrenzung von Mittäterschaft und Beihilfe
-- [BGH, Urteil vom 18.01.2012 - 2 StR 151/11](2-str-151-11.md) — Verbreitung kinderpornographischer Schriften: Öffentliches Zugänglichmachen und Drittbesitzverschaffung kinderpornographischer Dateien auf einer Internet-Tausch
+- [BGH, Urteil vom 18.01.2012 - 2 StR 151/11](2-str-151-11.md) — Verbreitung kinderpornographischer Schriften: Öffentliches Zugänglichmachen und Drittbesitzverschaffung kinderpornographischer Dateien auf einer Internet-Tauschbörse für pädophile …
 - [BGH, Urteil vom 11.01.2012 - 2 StR 482/11](2-str-482-11.md) — Freispruch: Anforderungen an die Urteilsgründe

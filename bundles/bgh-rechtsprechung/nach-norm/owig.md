@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu OWiG"
 description: "BGH-Entscheidungen zu OWiG, geordnet nach Vorschrift."
 tags: [register, navigation, owig]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

@@ -2,25 +2,25 @@
 
 22 Entscheidung(en).
 
-- [BGH, Urteil vom 21.05.2026 - III ZR 220/25](iii-zr-220-25.md) — Angebot eines Telekommunikationsvertrags, anfängliche Laufzeit § 56 Abs. 1 Satz 2 TKG verpflichtet einen Anbieter von Telekommunikationsdiensten nicht, einen Ve
-- [BGH, Urteil vom 21.05.2026 - III ZR 56/25](iii-zr-56-25.md) — Benachteiligung wegen Behinderung, Aufnahme in Rehaklinik § 19 AGG begründet keinen Anspruch auf besondere Anpassungs- und Teilhabeleistungen. Diese Leistungen 
+- [BGH, Urteil vom 21.05.2026 - III ZR 220/25](iii-zr-220-25.md) — Angebot eines Telekommunikationsvertrags, anfängliche Laufzeit § 56 Abs. 1 Satz 2 TKG verpflichtet einen Anbieter von Telekommunikationsdiensten nicht, einen Vertrag mit einer …
+- [BGH, Urteil vom 21.05.2026 - III ZR 56/25](iii-zr-56-25.md) — Benachteiligung wegen Behinderung, Aufnahme in Rehaklinik § 19 AGG begründet keinen Anspruch auf besondere Anpassungs- und Teilhabeleistungen. Diese Leistungen sind dem …
 - [BGH, Urteil vom 07.05.2026 - III ZR 142/25](iii-zr-142-25.md) — BGH, Urteil III ZR 142/25
-- [BGH, Versäumnisurteil vom 07.05.2026 - III ZR 6/24](iii-zr-6-24.md) — Verjährungsbeginn, Darlegungs- und Beweislast 1. Die Auflösung der Gesellschaft ist nicht nur Voraussetzung für die Anwendbarkeit des § 159 HGB aF, sondern zusa
+- [BGH, Versäumnisurteil vom 07.05.2026 - III ZR 6/24](iii-zr-6-24.md) — Verjährungsbeginn, Darlegungs- und Beweislast 1. Die Auflösung der Gesellschaft ist nicht nur Voraussetzung für die Anwendbarkeit des § 159 HGB aF, sondern zusammen mit ihrer …
 - [BGH, Beschluss vom 30.04.2026 - III ZB 10/26](iii-zb-10-26.md) — BGH, Beschluss III ZB 10/26
-- [BGH, Versäumnisurteil vom 30.04.2026 - III ZR 164/25](iii-zr-164-25.md) — Unterlassung, Schadensersatz, Aufwendungsersatz, Grundstückseigentümer, Immobilienmakler 1. Die Frage, ob einem Grundstückseigentümer gegen einen Immobilienmakl
+- [BGH, Versäumnisurteil vom 30.04.2026 - III ZR 164/25](iii-zr-164-25.md) — Unterlassung, Schadensersatz, Aufwendungsersatz, Grundstückseigentümer, Immobilienmakler 1. Die Frage, ob einem Grundstückseigentümer gegen einen Immobilienmakler wegen der …
 - [BGH, Beschluss vom 30.04.2026 - III ZR 60/23](iii-zr-60-23.md) — BGH, Beschluss III ZR 60/23
-- [BGH, Urteil vom 16.04.2026 - III ZR 152/25](iii-zr-152-25.md) — Vertragsrechtliche Einordnung eines Vertrags über Streamingdienstleistungen Zur vertragsrechtlichen Einordnung eines Vertrags über die Erbringung von Streamingd
-- [BGH, Versäumnisurteil vom 09.04.2026 - III ZR 52/25](iii-zr-52-25.md) — 1. Die Darlegungs- und Beweislast über den Verbleib beziehungsweise die bestimmungsgemäße Verwendung eines zur Ausführung eines Auftrags überlassenen Geldbetrag
+- [BGH, Urteil vom 16.04.2026 - III ZR 152/25](iii-zr-152-25.md) — Vertragsrechtliche Einordnung eines Vertrags über Streamingdienstleistungen Zur vertragsrechtlichen Einordnung eines Vertrags über die Erbringung von Streamingdienstleistungen.
+- [BGH, Versäumnisurteil vom 09.04.2026 - III ZR 52/25](iii-zr-52-25.md) — 1. Die Darlegungs- und Beweislast über den Verbleib beziehungsweise die bestimmungsgemäße Verwendung eines zur Ausführung eines Auftrags überlassenen Geldbetrags liegt beim …
 - [BGH, Beschluss vom 26.03.2026 - III ZB 7/25](iii-zb-7-25.md) — BGH, Beschluss III ZB 7/25
 - [BGH, Beschluss vom 12.03.2026 - III ZR 140/25](iii-zr-140-25.md) — Voraussetzungen der Beiordnung eines Notanwalts
-- [BGH, Urteil vom 12.03.2026 - III ZR 182/25](iii-zr-182-25.md) — Beurkundung einer Regelung zum Vorkaufsrecht in einem Grundstückskaufvertrag 1. Der Notar verletzt die ihm gemäß § 17 Abs. 1 BeurkG obliegenden Amtspflichten, w
-- [BGH, Beschluss vom 26.02.2026 - III ZB 22/24](iii-zb-22-24.md) — Der persönliche Anwendungsbereich des Kapitalanleger-Musterverfahrensgesetzes ist nicht eröffnet, wenn eine Bank eine Kreditlinie bereitstellt oder erhöht, das 
+- [BGH, Urteil vom 12.03.2026 - III ZR 182/25](iii-zr-182-25.md) — Beurkundung einer Regelung zum Vorkaufsrecht in einem Grundstückskaufvertrag 1. Der Notar verletzt die ihm gemäß § 17 Abs. 1 BeurkG obliegenden Amtspflichten, wenn er in einem …
+- [BGH, Beschluss vom 26.02.2026 - III ZB 22/24](iii-zb-22-24.md) — Der persönliche Anwendungsbereich des Kapitalanleger-Musterverfahrensgesetzes ist nicht eröffnet, wenn eine Bank eine Kreditlinie bereitstellt oder erhöht, das heißt ein …
 - [BGH, Beschluss vom 26.02.2026 - III ZB 30/25](iii-zb-30-25.md) — BGH, Beschluss III ZB 30/25
 - [BGH, Beschluss vom 26.02.2026 - III ZB 8/25](iii-zb-8-25.md) — BGH, Beschluss III ZB 8/25
 - [BGH, Versäumnisurteil vom 12.02.2026 - III ZR 73/25](iii-zr-73-25.md) — Zu den Voraussetzungen eines Fernunterrichtsvertrags.
-- [BGH, Urteil vom 05.02.2026 - III ZR 137/25](iii-zr-137-25.md) — Fernunterrichtsvertrag, Online-Unterricht § 1 Abs. 1 Nr. 1 FernUSG ist im Wege einer teleologischen Reduktion dahingehend auszulegen, dass der Lehrende und der 
-- [BGH, Urteil vom 05.02.2026 - III ZR 74/25](iii-zr-74-25.md) — Fernunterrichtsschutzgesetz Der Senat ist nicht mit der für eine Vorlage gemäß Art. 100 Abs. 1 Satz 1 GG, § 80 BVerfGG erforderlichen Sicherheit von der Verfass
+- [BGH, Urteil vom 05.02.2026 - III ZR 137/25](iii-zr-137-25.md) — Fernunterrichtsvertrag, Online-Unterricht § 1 Abs. 1 Nr. 1 FernUSG ist im Wege einer teleologischen Reduktion dahingehend auszulegen, dass der Lehrende und der Lernende als …
+- [BGH, Urteil vom 05.02.2026 - III ZR 74/25](iii-zr-74-25.md) — Fernunterrichtsschutzgesetz Der Senat ist nicht mit der für eine Vorlage gemäß Art. 100 Abs. 1 Satz 1 GG, § 80 BVerfGG erforderlichen Sicherheit von der Verfassungswidrigkeit des …
 - [BGH, Beschluss vom 29.01.2026 - III ZR 389/23](iii-zr-389-23.md) — BGH, Beschluss III ZR 389/23
-- [BGH, Urteil vom 15.01.2026 - III ZR 80/25](iii-zr-80-25.md) — Die Frage, ob sogenannte (Business-)Coaching- oder Mentoring-Angebote dem Gesetz zum Schutz der Teilnehmer am Fernunterricht - Fernunterrichtsschutzgesetz (Fern
+- [BGH, Urteil vom 15.01.2026 - III ZR 80/25](iii-zr-80-25.md) — Die Frage, ob sogenannte (Business-)Coaching- oder Mentoring-Angebote dem Gesetz zum Schutz der Teilnehmer am Fernunterricht - Fernunterrichtsschutzgesetz (FernUSG) - unterfallen …
 - [BGH, Urteil vom 15.01.2026 - III ZR 88/25](iii-zr-88-25.md) — Staatliche Haftungsübernahme für Impfschäden bei Corona-Schutzimpfungen in Privatpraxen
-- [BGH, Urteil vom 08.01.2026 - III ZR 8/25](iii-zr-8-25.md) — Telekommunikationsdienstleistungsvertrag, Allgemeine Geschäftsbedingungen, Mindestvertragslaufzeit § 56 Abs. 1 TKG verdrängt als speziellere Vorschrift § 309 Nr
+- [BGH, Urteil vom 08.01.2026 - III ZR 8/25](iii-zr-8-25.md) — Telekommunikationsdienstleistungsvertrag, Allgemeine Geschäftsbedingungen, Mindestvertragslaufzeit § 56 Abs. 1 TKG verdrängt als speziellere Vorschrift § 309 Nr. 9 Buchst. a BGB …

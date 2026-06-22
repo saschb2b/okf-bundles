@@ -7,14 +7,14 @@
 - [BGH, Beschluss vom 19.12.2018 - 1 StR 510/18](1-str-510-18.md) — Strafzumessung: Berücksichtigung einer ausländischen Verurteilung bei der Gesamtstrafenbildung
 - [BGH, Beschluss vom 19.12.2018 - 1 StR 597/18](1-str-597-18.md) — Beihilfe an einem versuchten Totschlag
 - [BGH, Beschluss vom 18.12.2018 - 1 StR 407/18](1-str-407-18.md) — Berücksichtigung einer vorläufig eingestellten Tat bei Strafzumessung und Einziehung
-- [BGH, Beschluss vom 18.12.2018 - 1 StR 508/18](1-str-508-18.md) — Strafurteil: Absoluter Revisionsgrund einer Überschreitung der Urteilsabsetzungsfrist; Berücksichtigung früherer Auslandsverurteilungen im Rahmen der Strafzumes
+- [BGH, Beschluss vom 18.12.2018 - 1 StR 508/18](1-str-508-18.md) — Strafurteil: Absoluter Revisionsgrund einer Überschreitung der Urteilsabsetzungsfrist; Berücksichtigung früherer Auslandsverurteilungen im Rahmen der Strafzumessung und der …
 - [BGH, Beschluss vom 18.12.2018 - 1 StR 512/18](1-str-512-18.md) — Mittäterschaft bei einer gefährlichen Körperverletzung; Voraussetzungen einer Strafmilderung wegen Aufklärungshilfe
 - [BGH, Beschluss vom 06.12.2018 - 1 StR 186/18](1-str-186-18.md) — Hinweispflicht bezüglich der möglichen Anordnung der Einziehung von Taterträgen
 - [BGH, Beschluss vom 06.12.2018 - 1 StR 343/18](1-str-343-18.md) — Mitteilungspflichtige Gespräche nach Wiedereintritt in Hauptverhandlung
-- [BGH, Urteil vom 04.12.2018 - 1 StR 255/18](1-str-255-18.md) — Einschleusen von Ausländern mit Todesfolge: Mittäterschaftlichen Handeln beim Tod von Schleusungswilligen durch Kollision eines nicht hochseetauglichen Schlauch
+- [BGH, Urteil vom 04.12.2018 - 1 StR 255/18](1-str-255-18.md) — Einschleusen von Ausländern mit Todesfolge: Mittäterschaftlichen Handeln beim Tod von Schleusungswilligen durch Kollision eines nicht hochseetauglichen Schlauchbootes mit einem …
 - [BGH, Urteil vom 04.12.2018 - 1 StR 477/18](1-str-477-18.md) — Strafschärfende Berücksichtigung von Tatzeit und Tatort
 - [BGH, Beschluss vom 04.12.2018 - 1 StR 546/18](1-str-546-18.md) — Vergewaltigung: Voraussetzungen; Teileinverständnis des Opfers
-- [BGH, Beschluss vom 04.12.2018 - 1 StR 666/17](1-str-666-17.md) — Entscheidung über die Revision außerhalb der Hauptverhandlung im Beschlusswege: Letzter Zeitpunkt für die Anbringung eines Ablehnungsgesuchs gegen die Revisions
+- [BGH, Beschluss vom 04.12.2018 - 1 StR 666/17](1-str-666-17.md) — Entscheidung über die Revision außerhalb der Hauptverhandlung im Beschlusswege: Letzter Zeitpunkt für die Anbringung eines Ablehnungsgesuchs gegen die Revisionsrichter
 - [BGH, Beschluss vom 21.11.2018 - 1 StR 290/18](1-str-290-18.md) — (Feststellung des Opferwillens und des Tätervorsatzes bei einem sexuellen Übergriff)
 - [BGH, Beschluss vom 21.11.2018 - 1 StR 401/18](1-str-401-18.md) — Straferhöhende Berücksichtigung der fehlenden Unrechtseinsicht des Täters
 - [BGH, Beschluss vom 21.11.2018 - 1 StR 506/18](1-str-506-18.md) — Strafbarkeit wegen Verabredung eines Tötungsdelikts
@@ -46,21 +46,21 @@
 - [BGH, Beschluss vom 20.09.2018 - 1 StR 190/18](1-str-190-18.md) — Sexueller Missbrauch von Kindern: Einwirken auf ein Kind durch Vorzeigen pornografischer Darstellungen
 - [BGH, Beschluss vom 20.09.2018 - 1 StR 316/18](1-str-316-18.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Voraussetzungen einer mittäterschaftlichen Begehung
 - [BGH, Beschluss vom 20.09.2018 - 1 StR 512/17](1-str-512-17.md) — Steuerhinterziehung: Voraussetzungen der Tatvollendung bei unrichtiger Umsatzsteueranmeldung
-- [BGH, Beschluss vom 19.09.2018 - 1 StR 183/18](1-str-183-18.md) — Einziehung des Tatertrages oder des Wertersatzes: Prüfung des Ausschlusses der Einziehung bei Abschluss eines zivilrechtlichen Vergleichs zwischen Geschädigtem 
+- [BGH, Beschluss vom 19.09.2018 - 1 StR 183/18](1-str-183-18.md) — Einziehung des Tatertrages oder des Wertersatzes: Prüfung des Ausschlusses der Einziehung bei Abschluss eines zivilrechtlichen Vergleichs zwischen Geschädigtem und Täter
 - [BGH, Beschluss vom 19.09.2018 - 1 StR 194/18](1-str-194-18.md) — Darlegung eines Vermögensnachteils bei Zinsswap-Verträgen
-- [BGH, Beschluss vom 18.09.2018 - 1 ARs 9/18](1-ars-9-18.md) — (Beantwortung der Anfrage des 2. Strafsenats vom 6. März 2018, 2 StR 481/17: Konkurrenzen bei schwerem Bandendiebstahl oder Wohnungseinbruchdiebstahl und zuglei
+- [BGH, Beschluss vom 18.09.2018 - 1 ARs 9/18](1-ars-9-18.md) — (Beantwortung der Anfrage des 2. Strafsenats vom 6. März 2018, 2 StR 481/17: Konkurrenzen bei schwerem Bandendiebstahl oder Wohnungseinbruchdiebstahl und zugleich begangener …
 - [BGH, Beschluss vom 18.09.2018 - 1 StR 454/18](1-str-454-18.md) — Ausschließung von der Ausübung des Richteramtes kraft Gesetzes
-- [BGH, Beschluss vom 13.09.2018 - 1 StR 320/17](1-str-320-17.md) — 1. Entscheidet ein Vorsitzender am Bundesgerichtshof, dass eine rechtskräftige Senatsentscheidung nicht übersetzt wird, kann hiergegen die Entscheidung des Geri
+- [BGH, Beschluss vom 13.09.2018 - 1 StR 320/17](1-str-320-17.md) — 1. Entscheidet ein Vorsitzender am Bundesgerichtshof, dass eine rechtskräftige Senatsentscheidung nicht übersetzt wird, kann hiergegen die Entscheidung des Gerichts eingeholt …
 - [BGH, Beschluss vom 13.09.2018 - 1 StR 439/18](1-str-439-18.md) — Feststellungen zur konkreten Tathandlung des Angeklagten erforderlich
 - [BGH, Urteil vom 13.09.2018 - 1 StR 611/17](1-str-611-17.md) — Voraussetzungen der Unterbringung in der Sicherungsverwahrung
-- [BGH, Urteil vom 13.09.2018 - 1 StR 642/17](1-str-642-17.md) — Vorsteuern können dann bei der Ermittlung des Verkürzungsumfangs unmittelbar mindernd angesetzt werden, wenn ein wirtschaftlicher Zusammenhang zwischen Ein- und
+- [BGH, Urteil vom 13.09.2018 - 1 StR 642/17](1-str-642-17.md) — Vorsteuern können dann bei der Ermittlung des Verkürzungsumfangs unmittelbar mindernd angesetzt werden, wenn ein wirtschaftlicher Zusammenhang zwischen Ein- und Ausgangsumsatz …
 - [BGH, Urteil vom 11.09.2018 - 1 StR 193/18](1-str-193-18.md) — Beurteilungsspielraum bei Anwendung des Jugendstrafrechts
 - [BGH, Beschluss vom 11.09.2018 - 1 StR 307/18](1-str-307-18.md) — Strafurteil wegen gefährlicher Körperverletzung: Prüfung verminderten Schuldfähigkeit des Angeklagten wegen erheblicher Alkoholisierung
 - [BGH, Beschluss vom 11.09.2018 - 1 StR 413/18](1-str-413-18.md) — Raubtatbestand: Notwendigkeit finaler Verknüpfung zwischen Gewalteinsatz und Wegnahme
-- [BGH, Beschluss vom 29.08.2018 - 1 StR 263/18](1-str-263-18.md) — Steuerhinterziehung: Wertermittlung bei der Einbringung von Gesellschaftsanteilen; tatrichterliche Beweiswürdigung bei Anschluss an ein Sachverständigengutachte
+- [BGH, Beschluss vom 29.08.2018 - 1 StR 263/18](1-str-263-18.md) — Steuerhinterziehung: Wertermittlung bei der Einbringung von Gesellschaftsanteilen; tatrichterliche Beweiswürdigung bei Anschluss an ein Sachverständigengutachten
 - [BGH, Beschluss vom 29.08.2018 - 1 StR 374/18](1-str-374-18.md) — Steuerstrafverfahren: Schätzung der Besteuerungsgrundlagen; Wirkungen eines allgemein gehaltenen Geständnisses
 - [BGH, Urteil vom 28.08.2018 - 1 StR 103/18](1-str-103-18.md) — Einziehung bei teilweiser Ersatzleistung des Versicherers nicht ausgeschlossen
-- [BGH, Beschluss vom 16.08.2018 - 1 StR 172/18](1-str-172-18.md) — Die an dem Fahrzeugkennzeichen angebrachte Prüfplakette beurkundet mit besonderer Beweiskraft im Sinne des § 348 Abs. 1 StGB neben dem Termin der nächsten Haupt
+- [BGH, Beschluss vom 16.08.2018 - 1 StR 172/18](1-str-172-18.md) — Die an dem Fahrzeugkennzeichen angebrachte Prüfplakette beurkundet mit besonderer Beweiskraft im Sinne des § 348 Abs. 1 StGB neben dem Termin der nächsten Hauptuntersuchung auch …
 - [BGH, Beschluss vom 16.08.2018 - 1 StR 370/18](1-str-370-18.md) — Ausnutzungsbewusstsein beim Heimtückemord
 - [BGH, Beschluss vom 15.08.2018 - 1 StR 392/17](1-str-392-17.md) — Verbringung von Abfallquecksilber in die Schweiz nach Abfallverbringungsgesetz strafbar
 - [BGH, Urteil vom 14.08.2018 - 1 StR 149/18](1-str-149-18.md) — Handeltreiben und Aufbewahrung des durch Betäubungsmittelverkäufe erzielten Erlöses
@@ -75,7 +75,7 @@
 - [BGH, Beschluss vom 18.07.2018 - 1 StR 321/18](1-str-321-18.md) — Verminderte Schuldfähigkeit wegen Trunkenheit
 - [BGH, Beschluss vom 17.07.2018 - 1 StR 287/18](1-str-287-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose und deren Darlegung in den Urteilsgründen
 - [BGH, Beschluss vom 17.07.2018 - 1 StR 518/17](1-str-518-17.md) — Strafurteil: Anforderungen an die Darstellung der Beweiswürdigung bei molekulargenetischer Vergleichsuntersuchung
-- [BGH, Beschluss vom 13.07.2018 - 1 StR 34/18](1-str-34-18.md) — Änderung des rechtlichen Gesichtspunkt in der Hauptverhandlung: Pflicht des Gerichts zur Erteilung eines Hinweises und zur Gewährung ausreichender Gelegenheit z
+- [BGH, Beschluss vom 13.07.2018 - 1 StR 34/18](1-str-34-18.md) — Änderung des rechtlichen Gesichtspunkt in der Hauptverhandlung: Pflicht des Gerichts zur Erteilung eines Hinweises und zur Gewährung ausreichender Gelegenheit zur Verteidigung
 - [BGH, Beschluss vom 10.07.2018 - 1 StR 605/16](1-str-605-16.md) — (Berücksichtigung rechtskräftig titulierter Forderungen bei der Feststellung der Zahlungsunfähigkeit)
 - [BGH, Beschluss vom 10.07.2018 - 1 StR 628/17](1-str-628-17.md) — Revision eines Verfallsbeteiligten
 - [BGH, Beschluss vom 06.07.2018 - 1 StR 234/18](1-str-234-18.md) — Darlegungsanforderungen eines Urteils wegen Steuerhinterziehung und Veruntreuens von Arbeitsentgelt
@@ -93,7 +93,7 @@
 - [BGH, Beschluss vom 26.06.2018 - 1 StR 208/18](1-str-208-18.md) — Notwehrrecht: Einschränkung der Notwehrbefugnisse nach vorwerfbarer Provokation der Notwehrlage
 - [BGH, Beschluss vom 26.06.2018 - 1 StR 233/18](1-str-233-18.md) — Betäubungsmitteldelikt: Berechnung des Grenzwerts der nicht geringen Menge durch das Tatgericht
 - [BGH, Beschluss vom 26.06.2018 - 1 StR 71/18](1-str-71-18.md) — Verfolgungsverjährung: Reichweite der Unterbrechungswirkung von Unterbrechungshandlungen bei Ermittlung wegen mehrerer Straftaten
-- [BGH, Urteil vom 26.06.2018 - 1 StR 79/18](1-str-79-18.md) — Besonders schwerer Fall des Diebstahls: Begriff der Schutzvorrichtung gegen Wegnahme; Sicherung von Waren in Kaufhäusern durch Sicherheitsetiketten und Sicherun
+- [BGH, Urteil vom 26.06.2018 - 1 StR 79/18](1-str-79-18.md) — Besonders schwerer Fall des Diebstahls: Begriff der Schutzvorrichtung gegen Wegnahme; Sicherung von Waren in Kaufhäusern durch Sicherheitsetiketten und Sicherungsspinnen
 - [BGH, Beschluss vom 13.06.2018 - 1 StR 132/18](1-str-132-18.md) — Unterbringung in einer Entziehungsanstalt bei fehlenden Deutschkenntnissen
 - [BGH, Beschluss vom 12.06.2018 - 1 StR 159/18](1-str-159-18.md) — Berücksichtigung der Einziehung von Tatmitteln bei der Strafzumessung
 - [BGH, Beschluss vom 30.05.2018 - 1 StR 36/18](1-str-36-18.md) — (Unterbringung in einem psychiatrischen Krankenhaus)
@@ -108,7 +108,7 @@
 - [BGH, Urteil vom 15.05.2018 - 1 StR 651/17](1-str-651-17.md) — Einziehung von Wertersatz auch bei begangener Straftat vor Reform der Vermögensabschöpfung
 - [BGH, Beschluss vom 25.04.2018 - 1 StR 136/18](1-str-136-18.md) — Betäubungsmitteldelikt: Abgabe von Betäubungsmitteln im Wege mittelbaren Besitzes
 - [BGH, Beschluss vom 25.04.2018 - 1 StR 65/18](1-str-65-18.md) — Anrechnungsentscheidung bei Anordnung eines zeitlich begrenzten Hausarrests entbehrlich
-- [BGH, Beschluss vom 24.04.2018 - 1 StR 160/18](1-str-160-18.md) — Versuchter Verdeckungsmord durch Unterlassen: Anforderungen an die Feststellungen zum Mordmerkmal der Verdeckungsabsicht im Zusammenhang mit bedingtem Tötungsvo
+- [BGH, Beschluss vom 24.04.2018 - 1 StR 160/18](1-str-160-18.md) — Versuchter Verdeckungsmord durch Unterlassen: Anforderungen an die Feststellungen zum Mordmerkmal der Verdeckungsabsicht im Zusammenhang mit bedingtem Tötungsvorsatz …
 - [BGH, Urteil vom 24.04.2018 - 1 StR 481/17](1-str-481-17.md) — Unterlassene Verlesung des Anklagesatzes Revisionsgrund
 - [BGH, Beschluss vom 06.04.2018 - 1 StR 13/18](1-str-13-18.md) — Vermögensschaden beim Eingehungsbetrug
 - [BGH, Beschluss vom 06.04.2018 - 1 StR 88/18](1-str-88-18.md) — Strafverfahren: Ablehnung eines Beweisantrages wegen einer aufs Geratewohl ins Blaue hinein aufgestellten Beweisbehauptung
@@ -121,13 +121,13 @@
 - [BGH, Beschluss vom 22.03.2018 - 1 StR 93/18](1-str-93-18.md) — Vorwegvollzugsdauer der Strafe: Berücksichtigung von Untersuchungshaft
 - [BGH, Urteil vom 21.03.2018 - 1 StR 404/17](1-str-404-17.md) — Misshandlung von Schutzbefohlenen: Massives Schütteln eines Kleinkindes als rohe Misshandlung
 - [BGH, Beschluss vom 21.03.2018 - 1 StR 414/16](1-str-414-16.md) — (Strafbarkeit von Bankrotthandlungen nach dem Ablauf der insolvenzrechtlichen Abtretungsfrist)
-- [BGH, Beschluss vom 21.03.2018 - 1 StR 415/17](1-str-415-17.md) — Recht des Angeklagten auf Verteidigung durch den gewählten Verteidiger: Berücksichtigung von Begehren des Wahlverteidigers bei der Terminierung der Hauptverhand
-- [BGH, Beschluss vom 21.03.2018 - 1 StR 423/17](1-str-423-17.md) — Insolvenzverschleppung und Bankrott: Strafrahmenverschiebung bei einem Gehilfen ohne die Sondereigenschaft als Mitglied eines Vertretungsorgans einer juristisch
+- [BGH, Beschluss vom 21.03.2018 - 1 StR 415/17](1-str-415-17.md) — Recht des Angeklagten auf Verteidigung durch den gewählten Verteidiger: Berücksichtigung von Begehren des Wahlverteidigers bei der Terminierung der Hauptverhandlung
+- [BGH, Beschluss vom 21.03.2018 - 1 StR 423/17](1-str-423-17.md) — Insolvenzverschleppung und Bankrott: Strafrahmenverschiebung bei einem Gehilfen ohne die Sondereigenschaft als Mitglied eines Vertretungsorgans einer juristischen Person oder ohne …
 - [BGH, Beschluss vom 07.03.2018 - 1 StR 663/17](1-str-663-17.md) — Strafzumessung bei Steuerhinterziehung: Strafschärfende Berücksichtigung eines hohen Steuerschadens
 - [BGH, Beschluss vom 07.03.2018 - 1 StR 83/18](1-str-83-18.md) — Versuchter Totschlag: Freiwilligkeit des Rücktritts vom Versuch bei Flucht nach Kenntniserlangung von der Verständigung der Polizei seitens eines Dritten
 - [BGH, Urteil vom 06.03.2018 - 1 StR 277/17](1-str-277-17.md) — Die Verletzung der Aussagefreiheit kann auch außerhalb von Vernehmungen nach §§ 136, 136a StPO zu einem Beweisverwertungsverbot führen.
 - [BGH, Urteil vom 21.02.2018 - 1 StR 351/17](1-str-351-17.md) — Totschlag: Minder schwerer Fall bei Provokation des Täters durch ehewidriges intimes Verhältnis
-- [BGH, Beschluss vom 20.02.2018 - 1 StR 467/17](1-str-467-17.md) — Strafurteil wegen Erpressung: Notwendige Tatsachenfeststellung zum Vermögensschaden bei Einverständnis eines vermeintlich Forderungsberechtigten mit der Schulde
+- [BGH, Beschluss vom 20.02.2018 - 1 StR 467/17](1-str-467-17.md) — Strafurteil wegen Erpressung: Notwendige Tatsachenfeststellung zum Vermögensschaden bei Einverständnis eines vermeintlich Forderungsberechtigten mit der Schuldeneintreibung
 - [BGH, Beschluss vom 08.02.2018 - 1 StR 228/17](1-str-228-17.md) — Diebstahl: Natürliche Handlungseinheit bei Erfüllung eines Regelbeispiels; Erfordernis der Verhängung von Einzelstrafen im Rahmen der Strafzumessung
 - [BGH, Beschluss vom 07.02.2018 - 1 StR 582/17](1-str-582-17.md) — Strafurteil: Nachteilsausgleich des Gesamtstrafenübels bei mehreren Gesamtstrafen
 - [BGH, Beschluss vom 07.02.2018 - 1 StR 647/17](1-str-647-17.md) — Betäubungsmitteldelikt: Bestimmung des Grenzwertes für die Annahme einer nicht geringen Menge bei Piperazin-Derivaten
@@ -135,15 +135,15 @@
 - [BGH, Beschluss vom 06.02.2018 - 1 StR 606/17](1-str-606-17.md) — Strafverfahren: Bindungswirkung eines Verständigungsangebots des Gerichts; Druckausübung durch Aufzeigen einer weiten "Sanktionsschere"
 - [BGH, Beschluss vom 25.01.2018 - 1 StR 264/17](1-str-264-17.md) — Steuerstrafsache: Vollendung der Umsatzsteuerhinterziehung
 - [BGH, Urteil vom 24.01.2018 - 1 StR 331/17](1-str-331-17.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Irrtum über die Arbeitgebereigenschaft
-- [BGH, Beschluss vom 24.01.2018 - 1 StR 36/17](1-str-36-17.md) — Der Bundesgerichtshof hat das Beschleunigungsgebot in Haftsachen eigenständig - unter den spezifischen Bedingungen des Revisionsverfahrens - zu wahren; er ist n
+- [BGH, Beschluss vom 24.01.2018 - 1 StR 36/17](1-str-36-17.md) — Der Bundesgerichtshof hat das Beschleunigungsgebot in Haftsachen eigenständig - unter den spezifischen Bedingungen des Revisionsverfahrens - zu wahren; er ist nicht gehalten …
 - [BGH, Beschluss vom 24.01.2018 - 1 StR 564/17](1-str-564-17.md) — Hauptverhandlung in Strafsachen: Mitteilungspflicht bei der Nennung von Strafober- und -untergrenzen durch die Staatsanwaltschaft im Rahmen eines Gesprächs
 - [BGH, Beschluss vom 23.01.2018 - 1 StR 523/17](1-str-523-17.md) — Unterbringung in einem psychiatrischen Krankenhaus bei nur schwer zu kontrollierendem Bedürfnisaufschub
-- [BGH, Beschluss vom 23.01.2018 - 1 StR 625/17](1-str-625-17.md) — 1. Eine lebenspartnerschaftsähnliche Gemeinschaft i.S.v. § 174 Abs. 1 Nr. 3 StGB ist eine Lebensgemeinschaft von zwei Personen, die auf Dauer angelegt ist, kein
+- [BGH, Beschluss vom 23.01.2018 - 1 StR 625/17](1-str-625-17.md) — 1. Eine lebenspartnerschaftsähnliche Gemeinschaft i.S.v. § 174 Abs. 1 Nr. 3 StGB ist eine Lebensgemeinschaft von zwei Personen, die auf Dauer angelegt ist, keine weitere …
 - [BGH, Beschluss vom 22.01.2018 - 1 StR 535/17](1-str-535-17.md) — Aufgabe der bisherigen Rechtsprechung zur Tateinheit bei Steuerhinterziehung
 - [BGH, Beschluss vom 11.01.2018 - 1 StR 532/17](1-str-532-17.md) — Strafverfahren: Umfang der Mitteilungspflicht bei Verständigungsgesprächen
-- [BGH, Beschluss vom 10.01.2018 - 1 StR 437/17](1-str-437-17.md) — Das Unverzüglichkeitsgebot des § 25 Abs. 2 Satz 1 StPO findet für die Ablehnung von Sachverständigen keine Anwendung. Die Vorschrift des § 74 Abs. 1 Satz 1 StPO
+- [BGH, Beschluss vom 10.01.2018 - 1 StR 437/17](1-str-437-17.md) — Das Unverzüglichkeitsgebot des § 25 Abs. 2 Satz 1 StPO findet für die Ablehnung von Sachverständigen keine Anwendung. Die Vorschrift des § 74 Abs. 1 Satz 1 StPO verweist nur …
 - [BGH, Beschluss vom 10.01.2018 - 1 StR 571/17](1-str-571-17.md) — Telefonüberwachung: Verwertung von Hintergrundgeräuschen und -geprächen
 - [BGH, Urteil vom 09.01.2018 - 1 StR 239/17](1-str-239-17.md) — Schwere der Schuld bei Deliktsbegehung durch Jugendliche
 - [BGH, Beschluss vom 09.01.2018 - 1 StR 368/17](1-str-368-17.md) — Verständigung im Strafverfahren: Hinweis des Gerichts auf eine beabsichtigte Bewährungsauflage
-- [BGH, Urteil vom 09.01.2018 - 1 StR 370/17](1-str-370-17.md) — Zum notwendigen Inhalt der Anklageschrift zur Erfüllung der Umgrenzungsfunktion bei einer Anklage betreffend das Vorenthalten und Veruntreuen von Arbeitsentgelt
-- [BGH, Beschluss vom 09.01.2018 - 1 StR 551/17](1-str-551-17.md) — Anwendbarkeit der sog. Vollstreckungslösung zur Kompensation überlanger Verfahrensdauer bei auf "schädliche Neigungen" und "Schwere der Schuld" gestützter Jugen
+- [BGH, Urteil vom 09.01.2018 - 1 StR 370/17](1-str-370-17.md) — Zum notwendigen Inhalt der Anklageschrift zur Erfüllung der Umgrenzungsfunktion bei einer Anklage betreffend das Vorenthalten und Veruntreuen von Arbeitsentgelt und …
+- [BGH, Beschluss vom 09.01.2018 - 1 StR 551/17](1-str-551-17.md) — Anwendbarkeit der sog. Vollstreckungslösung zur Kompensation überlanger Verfahrensdauer bei auf "schädliche Neigungen" und "Schwere der Schuld" gestützter Jugendstrafe.

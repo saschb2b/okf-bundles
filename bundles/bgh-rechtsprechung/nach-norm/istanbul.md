@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu Istanbul"
 description: "BGH-Entscheidungen zu Istanbul, geordnet nach Vorschrift."
 tags: [register, navigation, istanbul]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

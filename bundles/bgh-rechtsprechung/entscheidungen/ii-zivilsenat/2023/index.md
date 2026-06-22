@@ -4,49 +4,49 @@
 
 - [BGH, Beschluss vom 12.12.2023 - II ZR 87/23](ii-zr-87-23.md) — BGH, Beschluss II ZR 87/23
 - [BGH, Beschluss vom 05.12.2023 - II ZR 146/22](ii-zr-146-22.md) — BGH, Beschluss II ZR 146/22
-- [BGH, Urteil vom 28.11.2023 - II ZR 214/21](ii-zr-214-21.md) — 1. Ein herrschendes Unternehmen ist im faktischen Konzern in der Hauptversammlung der abhängigen Gesellschaft wegen eines Interessenkonflikts vom Stimmrecht aus
-- [BGH, Urteil vom 21.11.2023 - II ZR 69/22](ii-zr-69-22.md) — 1. Bei nachrangigen Zinsforderungen greift die Ermächtigungswirkung nur ein, wenn diese auf eine besondere Aufforderung des Insolvenzgerichts hin zur Tabelle an
-- [BGH, Beschluss vom 24.10.2023 - II ZB 3/23](ii-zb-3-23.md) — Ein Auskunftsersuchen des Gesellschafters, das auch dem Ziel dient, die Namen, Anschriften und Beteiligungshöhe der Mitgesellschafter dazu zu verwenden, diesen 
+- [BGH, Urteil vom 28.11.2023 - II ZR 214/21](ii-zr-214-21.md) — 1. Ein herrschendes Unternehmen ist im faktischen Konzern in der Hauptversammlung der abhängigen Gesellschaft wegen eines Interessenkonflikts vom Stimmrecht ausgeschlossen, wenn …
+- [BGH, Urteil vom 21.11.2023 - II ZR 69/22](ii-zr-69-22.md) — 1. Bei nachrangigen Zinsforderungen greift die Ermächtigungswirkung nur ein, wenn diese auf eine besondere Aufforderung des Insolvenzgerichts hin zur Tabelle angemeldet werden (§ …
+- [BGH, Beschluss vom 24.10.2023 - II ZB 3/23](ii-zb-3-23.md) — Ein Auskunftsersuchen des Gesellschafters, das auch dem Ziel dient, die Namen, Anschriften und Beteiligungshöhe der Mitgesellschafter dazu zu verwenden, diesen Kaufangebote für …
 - [BGH, Urteil vom 24.10.2023 - II ZR 211/21](ii-zr-211-21.md) — Auslegung der Rücknahmeerklärung über die Kündigung einer Genussrechtsbeteiligung; Rechtsfolgen der Kündigung einer Genussrechtsbeteiligung
 - [BGH, Urteil vom 24.10.2023 - II ZR 58/21](ii-zr-58-21.md) — Prospekthaftung: Aufklärungspflichten der Altgesellschafter einer Publikumskommanditgesellschaft gegenüber dem beitrittswilligen Anleger
 - [BGH, Urteil vom 24.10.2023 - II ZR 59/21](ii-zr-59-21.md) — BGH, Urteil II ZR 59/21
 - [BGH, Beschluss vom 17.10.2023 - II ZR 143/22](ii-zr-143-22.md) — BGH, Beschluss II ZR 143/22
-- [BGH, Beschluss vom 17.10.2023 - II ZR 205/22](ii-zr-205-22.md) — Virtuelle Hauptversammlung einer Aktiengesellschaft in der Corona-Pandemie: Vorlagepflicht zum Europäischen Gerichtshof und/oder Verfassungsbeschwerde zur Überp
-- [BGH, Versäumnisurteil vom 17.10.2023 - II ZR 72/22](ii-zr-72-22.md) — 1. Zur Berechtigung einer Gesellschaft mit beschränkter Haftung in Liquidation, abgetretene Ansprüche auf Ersatz verbotener Zahlungen nach § 64 Satz 1 GmbHG a.F
+- [BGH, Beschluss vom 17.10.2023 - II ZR 205/22](ii-zr-205-22.md) — Virtuelle Hauptversammlung einer Aktiengesellschaft in der Corona-Pandemie: Vorlagepflicht zum Europäischen Gerichtshof und/oder Verfassungsbeschwerde zur Überprüfung der …
+- [BGH, Versäumnisurteil vom 17.10.2023 - II ZR 72/22](ii-zr-72-22.md) — 1. Zur Berechtigung einer Gesellschaft mit beschränkter Haftung in Liquidation, abgetretene Ansprüche auf Ersatz verbotener Zahlungen nach § 64 Satz 1 GmbHG a.F. in gewillkürter …
 - [BGH, Beschluss vom 26.09.2023 - II ZA 1/23](ii-za-1-23.md) — BGH, Beschluss II ZA 1/23
 - [BGH, Beschluss vom 22.09.2023 - II ZB 14/22](ii-zb-14-22.md) — BGH, Beschluss II ZB 14/22
-- [BGH, Beschluss vom 19.09.2023 - II ZB 15/22](ii-zb-15-22.md) — Eine nach landesrechtlichen Vorschriften erfolgte Vereinigung von Sparkassen (hier: nach § 28 Abs. 1 Satz 1 Nr. 2 SpkG M-V) ist analog §§ 33, 34 Abs. 1 HGB in d
+- [BGH, Beschluss vom 19.09.2023 - II ZB 15/22](ii-zb-15-22.md) — Eine nach landesrechtlichen Vorschriften erfolgte Vereinigung von Sparkassen (hier: nach § 28 Abs. 1 Satz 1 Nr. 2 SpkG M-V) ist analog §§ 33, 34 Abs. 1 HGB in das Handelsregister …
 - [BGH, Beschluss vom 19.09.2023 - II ZB 5/23](ii-zb-5-23.md) — BGH, Beschluss II ZB 5/23
 - [BGH, Beschluss vom 19.09.2023 - II ZR 94/21](ii-zr-94-21.md) — BGH, Beschluss II ZR 94/21
-- [BGH, Beschluss vom 12.09.2023 - II ZB 6/23](ii-zb-6-23.md) — Für die Bemessung des Geschäftswerts eines Beschlusses über die Erhöhung des Stammkapitals einer GmbH ist innerhalb der durch § 105 Abs. 1 Satz 2 und § 108 Abs.
-- [BGH, Urteil vom 08.08.2023 - II ZR 13/22](ii-zr-13-22.md) — 1. Bei der Beschlussfassung über die Einleitung eines Rechtsstreits gegen eine Drittgesellschaft oder über die außergerichtliche Geltendmachung von Ansprüchen g
+- [BGH, Beschluss vom 12.09.2023 - II ZB 6/23](ii-zb-6-23.md) — Für die Bemessung des Geschäftswerts eines Beschlusses über die Erhöhung des Stammkapitals einer GmbH ist innerhalb der durch § 105 Abs. 1 Satz 2 und § 108 Abs. 5 GNotKG …
+- [BGH, Urteil vom 08.08.2023 - II ZR 13/22](ii-zr-13-22.md) — 1. Bei der Beschlussfassung über die Einleitung eines Rechtsstreits gegen eine Drittgesellschaft oder über die außergerichtliche Geltendmachung von Ansprüchen gegen die …
 - [BGH, Beschluss vom 11.07.2023 - II ZB 22/22](ii-zb-22-22.md) — BGH, Beschluss II ZB 22/22
-- [BGH, Versäumnisurteil vom 11.07.2023 - II ZR 116/21](ii-zr-116-21.md) — 1. Der Gesellschafter einer Zwei-Personen-GmbH kann unter den Voraussetzungen der actio pro socio die Ausschließungsklage gegen den anderen Gesellschafter erheb
-- [BGH, Versäumnisurteil vom 11.07.2023 - II ZR 98/21](ii-zr-98-21.md) — 1. Beschlüsse einer Aktiengesellschaft, die gegen körperschaftsrechtliche Satzungsbestimmungen verstoßen und bei denen die für eine Satzungsänderung geltenden F
+- [BGH, Versäumnisurteil vom 11.07.2023 - II ZR 116/21](ii-zr-116-21.md) — 1. Der Gesellschafter einer Zwei-Personen-GmbH kann unter den Voraussetzungen der actio pro socio die Ausschließungsklage gegen den anderen Gesellschafter erheben. 2. Wird ein …
+- [BGH, Versäumnisurteil vom 11.07.2023 - II ZR 98/21](ii-zr-98-21.md) — 1. Beschlüsse einer Aktiengesellschaft, die gegen körperschaftsrechtliche Satzungsbestimmungen verstoßen und bei denen die für eine Satzungsänderung geltenden Formvorschriften …
 - [BGH, Beschluss vom 04.07.2023 - II ZR 130/22](ii-zr-130-22.md) — BGH, Beschluss II ZR 130/22
 - [BGH, Beschluss vom 04.07.2023 - II ZR 53/22](ii-zr-53-22.md) — BGH, Beschluss II ZR 53/22
 - [BGH, Beschluss vom 27.06.2023 - II ZB 21/22](ii-zb-21-22.md) — BGH, Beschluss II ZB 21/22
-- [BGH, Beschluss vom 27.06.2023 - II ZR 57/21](ii-zr-57-21.md) — Haftung der geschäftsführenden Kommanditistin einer Publikums-Fondsgesellschaft für Kapitalanlegerverluste: Abgrenzung des Anwendungsbereichs der spezialgesetzl
+- [BGH, Beschluss vom 27.06.2023 - II ZR 57/21](ii-zr-57-21.md) — Haftung der geschäftsführenden Kommanditistin einer Publikums-Fondsgesellschaft für Kapitalanlegerverluste: Abgrenzung des Anwendungsbereichs der spezialgesetzlichen …
 - [BGH, Beschluss vom 27.06.2023 - II ZR 86/22](ii-zr-86-22.md) — BGH, Beschluss II ZR 86/22
-- [BGH, Beschluss vom 20.06.2023 - II ZB 18/22](ii-zb-18-22.md) — Die Beschwerdeberechtigung eines Gesellschaftsgläubigers, der nach einer formwechselnden Umwandlung die Löschung der Gesellschaft mit der Begründung angeregt ha
-- [BGH, Urteil vom 23.05.2023 - II ZR 141/21](ii-zr-141-21.md) — 1. Die Benennung der Zwecke der Ermächtigung zur Ausnutzung eines genehmigten Kapitals unter Ausschluss des Bezugsrechts muss nicht im Ermächtigungsbeschluss, s
-- [BGH, Urteil vom 23.05.2023 - II ZR 219/21](ii-zr-219-21.md) — 1a. Eine dem Erwerb im Sinne der Absätze 3 bis 5 gleichgestellte Vereinbarung setzt nicht voraus, dass der Bieter die Übereignung von Aktien verlangen kann. 1b.
+- [BGH, Beschluss vom 20.06.2023 - II ZB 18/22](ii-zb-18-22.md) — Die Beschwerdeberechtigung eines Gesellschaftsgläubigers, der nach einer formwechselnden Umwandlung die Löschung der Gesellschaft mit der Begründung angeregt hat, der Formwechsel …
+- [BGH, Urteil vom 23.05.2023 - II ZR 141/21](ii-zr-141-21.md) — 1. Die Benennung der Zwecke der Ermächtigung zur Ausnutzung eines genehmigten Kapitals unter Ausschluss des Bezugsrechts muss nicht im Ermächtigungsbeschluss, sondern kann auch in …
+- [BGH, Urteil vom 23.05.2023 - II ZR 219/21](ii-zr-219-21.md) — 1a. Eine dem Erwerb im Sinne der Absätze 3 bis 5 gleichgestellte Vereinbarung setzt nicht voraus, dass der Bieter die Übereignung von Aktien verlangen kann. 1b. Eine Vereinbarung …
 - [BGH, Urteil vom 23.05.2023 - II ZR 220/21](ii-zr-220-21.md) — BGH, Urteil II ZR 220/21
-- [BGH, Beschluss vom 25.04.2023 - II ZR 96/22](ii-zr-96-22.md) — Zurückweisung einer Nichtzulassungsbeschwerde: Rechtsfrage des Formerfordernisses bei Verpflichtung zur Übernahme eines GmbH-Geschäftsanteils durch einen Nichtg
+- [BGH, Beschluss vom 25.04.2023 - II ZR 96/22](ii-zr-96-22.md) — Zurückweisung einer Nichtzulassungsbeschwerde: Rechtsfrage des Formerfordernisses bei Verpflichtung zur Übernahme eines GmbH-Geschäftsanteils durch einen Nichtgesellschafter
 - [BGH, Beschluss vom 18.04.2023 - II ZR 184/21](ii-zr-184-21.md) — Schadensersatzklage aufgrund eines existenzvernichtenden Eingriffs
-- [BGH, Beschluss vom 18.04.2023 - II ZR 37/22](ii-zr-37-22.md) — Der Gesellschafter kann gegen die Inanspruchnahme aus einem vor dem 1. November 2008 entstandenen Erstattungsanspruch nach den sog. Rechtsprechungsregeln entspr
-- [BGH, Beschluss vom 28.03.2023 - II ZB 11/22](ii-zb-11-22.md) — Ein Verein, dessen satzungsmäßige Tätigkeit darin besteht, unentgeltliche Hilfeleistung in Steuersachen durch Studierende unter Anleitung beruflich vorgebildete
+- [BGH, Beschluss vom 18.04.2023 - II ZR 37/22](ii-zr-37-22.md) — Der Gesellschafter kann gegen die Inanspruchnahme aus einem vor dem 1. November 2008 entstandenen Erstattungsanspruch nach den sog. Rechtsprechungsregeln entsprechend §§ 30, 31 …
+- [BGH, Beschluss vom 28.03.2023 - II ZB 11/22](ii-zb-11-22.md) — Ein Verein, dessen satzungsmäßige Tätigkeit darin besteht, unentgeltliche Hilfeleistung in Steuersachen durch Studierende unter Anleitung beruflich vorgebildeter und erfahrener …
 - [BGH, Urteil vom 14.03.2023 - II ZR 152/21](ii-zr-152-21.md) — Zur Auslegung einer Schlichtungsklausel einer Partnerschaftsgesellschaft von Steuerberatern und Wirtschaftsprüfern.
-- [BGH, Urteil vom 14.03.2023 - II ZR 162/21](ii-zr-162-21.md) — 1. Der Schutzbereich des zwischen der Kommanditisten-GmbH und ihrem Geschäftsführer bestehenden Organ- und Anstellungsverhältnisses erstreckt sich im Hinblick a
+- [BGH, Urteil vom 14.03.2023 - II ZR 162/21](ii-zr-162-21.md) — 1. Der Schutzbereich des zwischen der Kommanditisten-GmbH und ihrem Geschäftsführer bestehenden Organ- und Anstellungsverhältnisses erstreckt sich im Hinblick auf seine Haftung …
 - [BGH, Beschluss vom 07.03.2023 - II ZR 210/21](ii-zr-210-21.md) — BGH, Beschluss II ZR 210/21
 - [BGH, Beschluss vom 28.02.2023 - II ZR 22/22](ii-zr-22-22.md) — BGH, Beschluss II ZR 22/22
-- [BGH, Beschluss vom 21.02.2023 - II ZB 12/21](ii-zb-12-21.md) — 1. Die Angemessenheit der Abfindung der außenstehenden Aktionäre im Sinne des § 305 AktG kann anhand des Börsenwerts der Gesellschaft bestimmt werden. Im Fall d
-- [BGH, Beschluss vom 31.01.2023 - II ZB 10/22](ii-zb-10-22.md) — Der zwischen zwei Gesellschaften mit beschränkter Haftung bestehende Gewinnabführungsvertrag kann nicht im Handelsregister der Obergesellschaft eingetragen werd
+- [BGH, Beschluss vom 21.02.2023 - II ZB 12/21](ii-zb-12-21.md) — 1. Die Angemessenheit der Abfindung der außenstehenden Aktionäre im Sinne des § 305 AktG kann anhand des Börsenwerts der Gesellschaft bestimmt werden. Im Fall der Abfindung in …
+- [BGH, Beschluss vom 31.01.2023 - II ZB 10/22](ii-zb-10-22.md) — Der zwischen zwei Gesellschaften mit beschränkter Haftung bestehende Gewinnabführungsvertrag kann nicht im Handelsregister der Obergesellschaft eingetragen werden.
 - [BGH, Beschluss vom 31.01.2023 - II ZR 11/22](ii-zr-11-22.md) — Nichtzulassungsbeschwerde: Beschwer bei aktienrechtlichen Beschlussmängelklagen
-- [BGH, Urteil vom 31.01.2023 - II ZR 144/21](ii-zr-144-21.md) — Der Anspruch einer Partei gegen ihr Mitglied auf Zahlung eines Teils seiner Aufwandsentschädigung als Sonderbeitrag ist als zivilrechtlicher Anspruch gerichtlic
-- [BGH, Beschluss vom 31.01.2023 - II ZR 169/22](ii-zr-169-22.md) — Unterbrechung durch Insolvenzverfahren: Berücksichtigung von Erklärungen eines nicht beim BGH zugelassenen Prozessbevollmächtigten zur Verfahrensunterbrechung; 
-- [BGH, Beschluss vom 17.01.2023 - II ZB 6/22](ii-zb-6-22.md) — 1. Die Vertretungsmacht des Vorstandsmitglieds einer Aktiengesellschaft ist bei der Beschlussfassung über seine Bestellung als Geschäftsführer der Tochtergesell
+- [BGH, Urteil vom 31.01.2023 - II ZR 144/21](ii-zr-144-21.md) — Der Anspruch einer Partei gegen ihr Mitglied auf Zahlung eines Teils seiner Aufwandsentschädigung als Sonderbeitrag ist als zivilrechtlicher Anspruch gerichtlich durchsetzbar.
+- [BGH, Beschluss vom 31.01.2023 - II ZR 169/22](ii-zr-169-22.md) — Unterbrechung durch Insolvenzverfahren: Berücksichtigung von Erklärungen eines nicht beim BGH zugelassenen Prozessbevollmächtigten zur Verfahrensunterbrechung …
+- [BGH, Beschluss vom 17.01.2023 - II ZB 6/22](ii-zb-6-22.md) — 1. Die Vertretungsmacht des Vorstandsmitglieds einer Aktiengesellschaft ist bei der Beschlussfassung über seine Bestellung als Geschäftsführer der Tochtergesellschaft nach § 181 …
 - [BGH, Beschluss vom 17.01.2023 - II ZB 9/22](ii-zb-9-22.md) — Zulässigkeit der Berufung: Beschwerdewert bei Verurteilung zur Einsichtsgewährung in Geschäftsunterlagen
-- [BGH, Urteil vom 17.01.2023 - II ZR 76/21](ii-zr-76-21.md) — 1. Ein Gesellschafter einer Gesellschaft bürgerlichen Rechts ist wegen des Grundsatzes, dass niemand Richter in eigener Sache sein darf, von der Abstimmung über
+- [BGH, Urteil vom 17.01.2023 - II ZR 76/21](ii-zr-76-21.md) — 1. Ein Gesellschafter einer Gesellschaft bürgerlichen Rechts ist wegen des Grundsatzes, dass niemand Richter in eigener Sache sein darf, von der Abstimmung über die Kündigung …
 - [BGH, Beschluss vom 10.01.2023 - II ZB 12/22](ii-zb-12-22.md) — BGH, Beschluss II ZB 12/22
 - [BGH, Beschluss vom 10.01.2023 - II ZR 145/22](ii-zr-145-22.md) — BGH, Beschluss II ZR 145/22

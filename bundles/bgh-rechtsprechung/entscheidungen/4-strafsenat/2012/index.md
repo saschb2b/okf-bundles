@@ -4,28 +4,28 @@
 
 - [BGH, Urteil vom 20.12.2012 - 4 StR 125/12](4-str-125-12.md) — Sportwettenbetrug: Erregung eines Irrtums durch konkludente Täuschung über die Manipulationsfreiheit der gewetteten Spiele; Bestimmung des Vermögensschadens
 - [BGH, Beschluss vom 20.12.2012 - 4 StR 292/12](4-str-292-12.md) — Gefährliche Körperverletzung: Fahrendes Kraftfahrzeug als gefährliches Werkzeug; Körperverletzung durch Auslösen von Panikgefühlen
-- [BGH, Beschluss vom 20.12.2012 - 4 StR 458/12](4-str-458-12.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Konkurrenzverhältnisse bei Fälschung und anschließendem Gebrauch sowie bei mittäterschaftlicher Vorbereitungs
+- [BGH, Beschluss vom 20.12.2012 - 4 StR 458/12](4-str-458-12.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Konkurrenzverhältnisse bei Fälschung und anschließendem Gebrauch sowie bei mittäterschaftlicher Vorbereitungshandlung
 - [BGH, Urteil vom 20.12.2012 - 4 StR 55/12](4-str-55-12.md) — Zur Schadensfeststellung beim Sportwettenbetrug (Fortführung von BGH, Urteil vom 15. Dezember 2006, 5 StR 181/06, BGHSt 51, 165).
 - [BGH, Beschluss vom 20.12.2012 - 4 StR 580/11](4-str-580-11.md) — Zur Schadensfeststellung beim Sportwettenbetrug durch Wetten im Internet und an Wettautomaten.
-- [BGH, Beschluss vom 19.12.2012 - 4 StR 417/12](4-str-417-12.md) — (Strafbarkeit unbefugten Nachstellens: Voraussetzungen einer schwerwiegenden Beeinträchtigung der Lebensgestaltung; Schuldunfähigkeit bei chronischer Schizophre
-- [BGH, Beschluss vom 19.12.2012 - 4 StR 494/12](4-str-494-12.md) — Jugendstrafverfahren: Schuldunfähigkeit wegen diagnostizierter schizoider Persönlichkeitsstörung; Verhängung von Jugendstrafe an Stelle der aufgehobenen Unterbr
+- [BGH, Beschluss vom 19.12.2012 - 4 StR 417/12](4-str-417-12.md) — (Strafbarkeit unbefugten Nachstellens: Voraussetzungen einer schwerwiegenden Beeinträchtigung der Lebensgestaltung; Schuldunfähigkeit bei chronischer Schizophrenie …
+- [BGH, Beschluss vom 19.12.2012 - 4 StR 494/12](4-str-494-12.md) — Jugendstrafverfahren: Schuldunfähigkeit wegen diagnostizierter schizoider Persönlichkeitsstörung; Verhängung von Jugendstrafe an Stelle der aufgehobenen Unterbringungsanordnung
 - [BGH, Beschluss vom 19.12.2012 - 4 StR 497/12](4-str-497-12.md) — Versuchter Betrug beim Selbstbedienungstanken
 - [BGH, Urteil vom 13.12.2012 - 4 StR 177/12](4-str-177-12.md) — Strafverfahren wegen Totschlags: Fehlerhafte Beweiswürdigung bei Freispruch
 - [BGH, Urteil vom 13.12.2012 - 4 StR 271/12](4-str-271-12.md) — Jugendstrafverfahren: Urteilsfeststellungen zur strafrechtlichen Verantwortlichkeit des Jugendlichen
 - [BGH, Urteil vom 13.12.2012 - 4 StR 33/12](4-str-33-12.md) — Strafverfahren: Anforderungen an die Beweiswürdigung des Tatrichters
-- [BGH, Urteil vom 13.12.2012 - 4 StR 99/12](4-str-99-12.md) — Einfuhr und unerlaubtes Handeltreiben mit Betäubungsmitteln: Konkurrenzrechtliche Beurteilung mehrerer Beihilfehandlungen; Abgrenzung von Mittäterschaft und Tei
-- [BGH, Urteil vom 06.12.2012 - 4 StR 360/12](4-str-360-12.md) — Strafverfahren wegen sexuellen Kindesmissbrauchs: Anforderungen an die Beweiswürdigung bei Abweichen vom Gutachten des Sachverständigen und Aussage-gegen-Aussag
+- [BGH, Urteil vom 13.12.2012 - 4 StR 99/12](4-str-99-12.md) — Einfuhr und unerlaubtes Handeltreiben mit Betäubungsmitteln: Konkurrenzrechtliche Beurteilung mehrerer Beihilfehandlungen; Abgrenzung von Mittäterschaft und Teilnahme …
+- [BGH, Urteil vom 06.12.2012 - 4 StR 360/12](4-str-360-12.md) — Strafverfahren wegen sexuellen Kindesmissbrauchs: Anforderungen an die Beweiswürdigung bei Abweichen vom Gutachten des Sachverständigen und Aussage-gegen-Aussage-Konstellation
 - [BGH, Urteil vom 06.12.2012 - 4 StR 369/12](4-str-369-12.md) — Trunkenheit im Verkehr und fahrlässige Körperverletzung: Vermeidbarkeit des Verkehrsunfalls durch geringere Geschwindigkeit
 - [BGH, Beschluss vom 04.12.2012 - 4 StR 372/12](4-str-372-12.md) — Beweisaufnahme im Strafverfahren: Anforderungen an die Konnexität des Beweisantrags auf Vernehmung eines Zeugen
 - [BGH, Beschluss vom 04.12.2012 - 4 StR 405/12](4-str-405-12.md) — Strafverfahren: Prüfung der Verhandlungsfähigkeit im Revisionsverfahren
-- [BGH, Beschluss vom 04.12.2012 - 4 StR 435/12](4-str-435-12.md) — Straßenverkehrsgefährdung bei Trunkenheitsfahrt: Anforderungen an die konkrete Gefährdung eines anderen Menschen oder einer fremden Sache; Mitfahrer im Schutzbe
+- [BGH, Beschluss vom 04.12.2012 - 4 StR 435/12](4-str-435-12.md) — Straßenverkehrsgefährdung bei Trunkenheitsfahrt: Anforderungen an die konkrete Gefährdung eines anderen Menschen oder einer fremden Sache; Mitfahrer im Schutzbereich der …
 - [BGH, Beschluss vom 22.11.2012 - 4 StR 302/12](4-str-302-12.md) — Zeitgleiche Begehung von Straftaten: Konkurrenzverhältnis zwischen dem Unterhalten eines Waffenlagers und dem unerlaubten Handeltreiben mit Betäubungsmitteln
 - [BGH, Beschluss vom 21.11.2012 - 4 StR 427/12](4-str-427-12.md) — Falsche Verdächtigung: Wiederholung der Verdächtigung als eine Tat
 - [BGH, Urteil vom 25.10.2012 - 4 StR 170/12](4-str-170-12.md) — Strafverfahren: Anforderungen an die Gründe eines freisprechenden Urteils
 - [BGH, Urteil vom 25.10.2012 - 4 StR 174/12](4-str-174-12.md) — Raub: Finale Verknüpfung der Wegnahme mit einer zunächst mit anderer Zielrichtung vorgenommen Gewaltanwendung
 - [BGH, Urteil vom 25.10.2012 - 4 StR 346/12](4-str-346-12.md) — Versuchter Totschlag: Unmittelbares Ansetzen; Rückwärtsfahren in Tötungsabsicht; Voraussetzungen eines fehlgeschlagenen Versuchs
 - [BGH, Beschluss vom 24.10.2012 - 4 StR 374/12](4-str-374-12.md) — Sexuelle Nötigung bzw. Vergewaltigung unter Ausnutzung einer schutzlosen Lage: Angst des Opfers vor Körperverletzungs- oder Tötungshandlungen des Täters
-- [BGH, Beschluss vom 24.10.2012 - 4 StR 392/12](4-str-392-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Verbringung einer teilweise vom Angeklagten selbst und teilweise für einen anderen Händ
+- [BGH, Beschluss vom 24.10.2012 - 4 StR 392/12](4-str-392-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Verbringung einer teilweise vom Angeklagten selbst und teilweise für einen anderen Händler bestimmten …
 - [BGH, Beschluss vom 09.10.2012 - 4 StR 381/12](4-str-381-12.md) — Kindesmissbrauch: Strafzumessung beim schweren Missbrauch eines Säuglings; Voraussetzungen des Anbietens eines Kindes zur Vornahme sexueller Handlungen
 - [BGH, Urteil vom 27.09.2012 - 4 StR 197/12](4-str-197-12.md) — Notwehr: Erforderliche Verteidigungshandlung bei einem unbewaffneten Angreifer
 - [BGH, Urteil vom 27.09.2012 - 4 StR 217/12](4-str-217-12.md) — Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus: Schwere Störung des Rechtsfriedens durch zu erwartende Straftaten
@@ -42,50 +42,50 @@
 - [BGH, Beschluss vom 29.08.2012 - 4 StR 277/12](4-str-277-12.md) — Besonders schwere Vergewaltigung: Kausaler Zusammenhang zwischen schwerer körperlicher Misshandlung und Vergewaltigung
 - [BGH, Beschluss vom 28.08.2012 - 4 StR 278/12](4-str-278-12.md) — Einziehung eines Computers: Verhältnismäßigkeit bei Möglichkeit der Datenlöschung
 - [BGH, Beschluss vom 23.08.2012 - 4 StR 252/12](4-str-252-12.md) — Kosten eines Strafverfahrens: Erstattung der notwendigen Auslagen eines Nebenklägers bei Einstellung wegen eines Verfahrenshindernisses
-- [BGH, Beschluss vom 23.08.2012 - 4 StR 305/12](4-str-305-12.md) — Freie Beweiswürdigung im Strafverfahren wegen sexuellen Missbrauchs Widerstandsunfähiger: Aussage-gegen-Aussage-Konstellation; nicht erklärbare Erinnerungslücke
+- [BGH, Beschluss vom 23.08.2012 - 4 StR 305/12](4-str-305-12.md) — Freie Beweiswürdigung im Strafverfahren wegen sexuellen Missbrauchs Widerstandsunfähiger: Aussage-gegen-Aussage-Konstellation; nicht erklärbare Erinnerungslücke des Tatopfers …
 - [BGH, Beschluss vom 22.08.2012 - 4 StR 211/12](4-str-211-12.md) — Revisionsverfahren: Rüge der Nichtberücksichtigung von widersprüchlichen Zeugenaussagen
 - [BGH, Beschluss vom 22.08.2012 - 4 StR 244/12](4-str-244-12.md) — Räuberischer Angriff auf Kraftfahrer: Erforderliche Feststellungen zur Ausnutzung der besonderen Verhältnisse des Straßenverkehrs
 - [BGH, Beschluss vom 22.08.2012 - 4 StR 272/12](4-str-272-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Abgrenzung von Täterschaft und Teilnahme beim Rauschgifttransporteur
 - [BGH, Beschluss vom 22.08.2012 - 4 StR 299/12](4-str-299-12.md) — Strafverfahren: Unzulässigkeit des Wiedereinsetzungsantrags bei schuldhafter Versäumung des Revisionseinlegungsfrist
-- [BGH, Beschluss vom 21.08.2012 - 4 StR 157/12](4-str-157-12.md) — Jugendstrafverfahren wegen schwerer räuberischer Erpressung: Einstellung statt Freispruch bei Fehlen von Strafanträgen; Nichterörterung eines minder schweren Fa
+- [BGH, Beschluss vom 21.08.2012 - 4 StR 157/12](4-str-157-12.md) — Jugendstrafverfahren wegen schwerer räuberischer Erpressung: Einstellung statt Freispruch bei Fehlen von Strafanträgen; Nichterörterung eines minder schweren Falles in den …
 - [BGH, Beschluss vom 21.08.2012 - 4 StR 247/12](4-str-247-12.md) — Maßregelanordnung der Sicherungsverwahrung: Verwertung getilgter Verurteilungen bei Erstellung eines Gutachtens über den Geisteszustand des Betroffenen
 - [BGH, Beschluss vom 21.08.2012 - 4 StR 311/12](4-str-311-12.md) — Unterbringung in einer Entziehungsanstalt: Begriff des Hanges; erforderlicher symptomatischer Zusammenhang zwischen den abgeurteilten Taten und dem Hang
 - [BGH, Beschluss vom 01.08.2012 - 4 StR 226/12](4-str-226-12.md) — Einschleusen von Ausländern: Voraussetzungen einer unerlaubten Einreise
 - [BGH, Beschluss vom 01.08.2012 - 4 StR 267/12](4-str-267-12.md) — Revisionsverfahren: Verfahrensrüge der unterlassenen erneuten Erteilung des "letztes Wortes" nach Wiedereintritt in die Beweisaufnahme
 - [BGH, Beschluss vom 31.07.2012 - 4 StR 238/12](4-str-238-12.md) — Wiedereinsetzung in den vorherigen Stand im Strafverfahren: Irrtum des Verteidigers über Zulässigkeit eines beschränkt eingelegten Rechtsmittels
 - [BGH, Beschluss vom 24.07.2012 - 4 StR 193/12](4-str-193-12.md) — Computerbetrug: Mehrfache unbefugte Nutzung einer EC-Karte am selben Bankautomaten
-- [BGH, Beschluss vom 18.07.2012 - 4 StR 603/11](4-str-603-11.md) — Das Amtsgericht hat den Einspruch des nicht vom persönlichen Erscheinen in der Hauptverhandlung entbundenen und unentschuldigt ausgebliebenen Betroffenen auch d
-- [BGH, Beschluss vom 17.07.2012 - 4 StR 179/12](4-str-179-12.md) — Strafverfahren wegen gefährlicher Körperverletzung: Erneute Anordnung der Maßregel einer Unterbringung in einem psychiatrischen Krankenhaus zur Gewährleistung d
-- [BGH, Beschluss vom 17.07.2012 - 4 StR 223/12](4-str-223-12.md) — Revision in Strafsachen: Beschränkung auf die Dauer des Vorwegvollzugs; Festlegung der angemessenen Dauer der Unterbringung in einer Entziehungsanstalt bei zwei
-- [BGH, Beschluss vom 04.07.2012 - 4 StR 224/12](4-str-224-12.md) — Gefährlichkeitsprognose bei Unterbringung in einem psychiatrischen Krankenhaus: Darlegung prognoserelevanten Verhaltens; indizielle Bedeutung lang zurückliegend
-- [BGH, Beschluss vom 03.07.2012 - 4 StR 66/12](4-str-66-12.md) — Gesetzlicher Richter im Strafverfahren: Heranziehung von Schöffen bei Verlegung eines ordentlichen Sitzungstages anstatt der Anberaumung eines außerordentlichen
-- [BGH, Urteil vom 21.06.2012 - 4 StR 623/11](4-str-623-11.md) — 1. Nach § 171b GVG darf die Öffentlichkeit auch während der Verlesung des Anklagesatzes von der Verhandlung ausgeschlossen werden. 2a. Die Zustimmungserklärung 
-- [BGH, Beschluss vom 19.06.2012 - 4 ARs 5/12](4-ars-5-12.md) — Die ergänzende Zulässigkeitsvoraussetzung des § 83 Nr. 4 IRG, wonach bei zu erwartender lebenslanger Freiheitsstrafe eine Überprüfung der Vollstreckung der verh
+- [BGH, Beschluss vom 18.07.2012 - 4 StR 603/11](4-str-603-11.md) — Das Amtsgericht hat den Einspruch des nicht vom persönlichen Erscheinen in der Hauptverhandlung entbundenen und unentschuldigt ausgebliebenen Betroffenen auch dann nach § 74 Abs …
+- [BGH, Beschluss vom 17.07.2012 - 4 StR 179/12](4-str-179-12.md) — Strafverfahren wegen gefährlicher Körperverletzung: Erneute Anordnung der Maßregel einer Unterbringung in einem psychiatrischen Krankenhaus zur Gewährleistung der …
+- [BGH, Beschluss vom 17.07.2012 - 4 StR 223/12](4-str-223-12.md) — Revision in Strafsachen: Beschränkung auf die Dauer des Vorwegvollzugs; Festlegung der angemessenen Dauer der Unterbringung in einer Entziehungsanstalt bei zweifelhafter …
+- [BGH, Beschluss vom 04.07.2012 - 4 StR 224/12](4-str-224-12.md) — Gefährlichkeitsprognose bei Unterbringung in einem psychiatrischen Krankenhaus: Darlegung prognoserelevanten Verhaltens; indizielle Bedeutung lang zurückliegender Taten
+- [BGH, Beschluss vom 03.07.2012 - 4 StR 66/12](4-str-66-12.md) — Gesetzlicher Richter im Strafverfahren: Heranziehung von Schöffen bei Verlegung eines ordentlichen Sitzungstages anstatt der Anberaumung eines außerordentlichen Sitzungstages
+- [BGH, Urteil vom 21.06.2012 - 4 StR 623/11](4-str-623-11.md) — 1. Nach § 171b GVG darf die Öffentlichkeit auch während der Verlesung des Anklagesatzes von der Verhandlung ausgeschlossen werden. 2a. Die Zustimmungserklärung der …
+- [BGH, Beschluss vom 19.06.2012 - 4 ARs 5/12](4-ars-5-12.md) — Die ergänzende Zulässigkeitsvoraussetzung des § 83 Nr. 4 IRG, wonach bei zu erwartender lebenslanger Freiheitsstrafe eine Überprüfung der Vollstreckung der verhängten Strafe …
 - [BGH, Beschluss vom 19.06.2012 - 4 StR 139/12](4-str-139-12.md) — Nötigung: Vollendung der Tat bei Eintritt eines Teilerfolges
 - [BGH, Beschluss vom 06.06.2012 - 4 StR 144/12](4-str-144-12.md) — Hehlerei: Versicherungsmissbrauch als Vortat
 - [BGH, Beschluss vom 05.06.2012 - 4 StR 58/12](4-str-58-12.md) — Freiheitsstrafe: Anrechnung von Abschiebungshaft
 - [BGH, Urteil vom 24.05.2012 - 4 StR 62/12](4-str-62-12.md) — Mordmerkmal der niedrigen Beweggründe: Tatrichterliche Gesamtwürdigung bei vom Täter selbst herbeigeführten Tatanlass
 - [BGH, Beschluss vom 23.05.2012 - 4 StR 76/12](4-str-76-12.md) — Unerlaubtes Handeln mit Betäubungsmitteln: Voraussetzungen der unterschiedlichen rechtlich möglichen Verfallsanordnungen
 - [BGH, Beschluss vom 10.05.2012 - 4 StR 122/12](4-str-122-12.md) — Strafbare Zuwiderhandlung gegen eine vollstreckbare Anordnung nach dem Gewaltschutzgesetz: Voraussetzung der Zustellung des Beschlusses
-- [BGH, Beschluss vom 09.05.2012 - 4 StR 120/12](4-str-120-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Urteilsfeststellungen zur Annahme einer schweren anderen seelischen Abartigkeit aufgrund einer ko
-- [BGH, Beschluss vom 09.05.2012 - 4 StR 381/11](4-str-381-11.md) — Vermögensbetreuungspflicht von Rechtsanwälten: Vertretung einer großen Zahl Geschädigter bei der Geltendmachung von Schadenersatzansprüchen aus betrügerischen k
+- [BGH, Beschluss vom 09.05.2012 - 4 StR 120/12](4-str-120-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Urteilsfeststellungen zur Annahme einer schweren anderen seelischen Abartigkeit aufgrund einer kombinierten …
+- [BGH, Beschluss vom 09.05.2012 - 4 StR 381/11](4-str-381-11.md) — Vermögensbetreuungspflicht von Rechtsanwälten: Vertretung einer großen Zahl Geschädigter bei der Geltendmachung von Schadenersatzansprüchen aus betrügerischen kreditfinanzierten …
 - [BGH, Beschluss vom 09.05.2012 - 4 StR 67/12](4-str-67-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Gewerbsmäßigkeit bei geringer Gewinnerwartung; Bewertungseinheit
-- [BGH, Urteil vom 26.04.2012 - 4 StR 51/12](4-str-51-12.md) — Gefährliche Körperverletzung: Bewertung entlastender Angaben des Angeklagten; Zurechnung eines Mittäterexzesses; Quarzhandschuh und bei Tritten gegen den Kopf g
+- [BGH, Urteil vom 26.04.2012 - 4 StR 51/12](4-str-51-12.md) — Gefährliche Körperverletzung: Bewertung entlastender Angaben des Angeklagten; Zurechnung eines Mittäterexzesses; Quarzhandschuh und bei Tritten gegen den Kopf getragenes Schuhwerk …
 - [BGH, Urteil vom 26.04.2012 - 4 StR 665/11](4-str-665-11.md) — Bandendiebstahl: Abgrenzung zwischen Mittäterschaft und Beihilfe
-- [BGH, Beschluss vom 25.04.2012 - 4 StR 30/12](4-str-30-12.md) — Strafverfahren: Einführung eines umfangreichen Vernehmungsprotokolls in die Hauptverhandlung durch Vorhalt; gefährliche Körperverletzung durch gezieltes Anfahre
-- [BGH, Beschluss vom 25.04.2012 - 4 StR 667/11](4-str-667-11.md) — Gefährlicher Eingriff in den Straßenverkehr: Anforderungen an die Urteilsfeststellungen zur konkreten Gefahr für Leib oder Leben eines anderen Menschen bei Herb
+- [BGH, Beschluss vom 25.04.2012 - 4 StR 30/12](4-str-30-12.md) — Strafverfahren: Einführung eines umfangreichen Vernehmungsprotokolls in die Hauptverhandlung durch Vorhalt; gefährliche Körperverletzung durch gezieltes Anfahren mit einem Kfz
+- [BGH, Beschluss vom 25.04.2012 - 4 StR 667/11](4-str-667-11.md) — Gefährlicher Eingriff in den Straßenverkehr: Anforderungen an die Urteilsfeststellungen zur konkreten Gefahr für Leib oder Leben eines anderen Menschen bei Herbeiführung eines …
 - [BGH, Beschluss vom 25.04.2012 - 4 StR 74/12](4-str-74-12.md) — Sexueller Missbrauch von Schutzbefohlenen: Obhutsverhältnis bei Lehrer-Schüler-Beziehung
 - [BGH, Beschluss vom 25.04.2012 - 4 StR 81/12](4-str-81-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Erheblichkeit zu erwartender Gewalt- und Aggressionsdelikte
 - [BGH, Beschluss vom 16.04.2012 - 4 StR 45/12](4-str-45-12.md) — Fahrlässige Straßenverkehrsgefährdung: Annahme einer konkreten Gefahr für andere Personen oder Sachen bzw. den Mitfahrer
-- [BGH, Beschluss vom 22.03.2012 - 4 StR 541/11](4-str-541-11.md) — Strafverfahren gegen Mitangeklagte wegen besonders schwerer räuberischer Erpressung und wegen Raubes: Notwendige Urteilsfeststellungen zum fehlgeschlagenen Vers
+- [BGH, Beschluss vom 22.03.2012 - 4 StR 541/11](4-str-541-11.md) — Strafverfahren gegen Mitangeklagte wegen besonders schwerer räuberischer Erpressung und wegen Raubes: Notwendige Urteilsfeststellungen zum fehlgeschlagenen Versuch der Erpressung …
 - [BGH, Urteil vom 22.03.2012 - 4 StR 558/11](4-str-558-11.md) — Zur "Hemmschwellentheorie" bei Tötungsdelikten.
-- [BGH, Beschluss vom 22.03.2012 - 4 StR 651/11](4-str-651-11.md) — Änderung des rechtlichen Gesichtspunkts im Strafverfahren wegen Brandstiftung: Rechtlicher Hinweis auf eine Verurteilung wegen Alleintäterschaft anstatt Mittäte
+- [BGH, Beschluss vom 22.03.2012 - 4 StR 651/11](4-str-651-11.md) — Änderung des rechtlichen Gesichtspunkts im Strafverfahren wegen Brandstiftung: Rechtlicher Hinweis auf eine Verurteilung wegen Alleintäterschaft anstatt Mittäterschaft
 - [BGH, Beschluss vom 20.03.2012 - 4 StR 20/12](4-str-20-12.md) — Gefährliche Körperverletzung: Pumpsprühflasche mit Haushaltsreiniger als gefährliches Werkzeug
-- [BGH, Beschluss vom 20.03.2012 - 4 StR 561/11](4-str-561-11.md) — Sexuelle Nötigung: Voraussetzungen einer schutzlosen Lage; konkludente Drohung auf Grund vorheriger Gewalterfahrung; Misshandlung eines Schutzbefohlenen durch f
+- [BGH, Beschluss vom 20.03.2012 - 4 StR 561/11](4-str-561-11.md) — Sexuelle Nötigung: Voraussetzungen einer schutzlosen Lage; konkludente Drohung auf Grund vorheriger Gewalterfahrung; Misshandlung eines Schutzbefohlenen durch fortgesetzte …
 - [BGH, Urteil vom 08.03.2012 - 4 StR 498/11](4-str-498-11.md) — Strafurteil wegen Mordes: Wahlfeststellung zwischen zwei verschiedenen Begehungsformen
 - [BGH, Urteil vom 08.03.2012 - 4 StR 629/11](4-str-629-11.md) — Hehlerei: Variante der Drittverschaffung; Pflicht des Tatrichters zur Darlegung der Verfahrensvoraussetzung der Anwendbarkeit des deutschen Strafrechts
 - [BGH, Beschluss vom 06.03.2012 - 4 StR 669/11](4-str-669-11.md) — Betrug: Vermögensgefährdung durch Einreichung gefälschter Schecks zur Gutschrift auf einem Kontokorrentkonto
-- [BGH, Beschluss vom 23.02.2012 - 4 StR 602/11](4-str-602-11.md) — Revision im Strafverfahren wegen gefährlicher Körperverletzung: Zurückverweisung zur Überprüfung der im Adhäsionsverfahren getroffenen Schmerzensgeldentscheidun
+- [BGH, Beschluss vom 23.02.2012 - 4 StR 602/11](4-str-602-11.md) — Revision im Strafverfahren wegen gefährlicher Körperverletzung: Zurückverweisung zur Überprüfung der im Adhäsionsverfahren getroffenen Schmerzensgeldentscheidung
 - [BGH, Urteil vom 23.02.2012 - 4 StR 608/11](4-str-608-11.md) — Tötungsdelikt: Voraussetzungen eines bedingten Tötungsvorsatzes; Bewertung nachträglichen Bedauerns und von Rettungsversuchen des Täters
 - [BGH, Beschluss vom 22.02.2012 - 4 StR 22/12](4-str-22-12.md) — Nachträgliche Gesamtstrafenbildung bei Teilrechtskraft des Strafausspruchs durch Teilaufhebung und -zurückverweisung
 - [BGH, Beschluss vom 08.02.2012 - 4 StR 621/11](4-str-621-11.md) — Versuch: Strafbefreiender Rücktritt bei mehreren Tatbeteiligten
@@ -94,11 +94,11 @@
 - [BGH, Beschluss vom 25.01.2012 - 4 StR 507/11](4-str-507-11.md) — Gefährlicher Eingriff in den Straßenverkehr: Feststellung der konkreten Gefährdung bei einem provozierten Auffahrunfall
 - [BGH, Beschluss vom 25.01.2012 - 4 StR 605/11](4-str-605-11.md) — Sicherungsverwahrung: Voraussetzungen für die Anordnung in Übergangsfällen
 - [BGH, Beschluss vom 25.01.2012 - 4 StR 631/11](4-str-631-11.md) — Einstellung des Strafverfahrens wegen unwesentlicher Nebenstraftaten: Nachholung der unterbliebenen Kostenentscheidung
-- [BGH, Beschluss vom 24.01.2012 - 4 StR 469/11](4-str-469-11.md) — Verwerfung der Revision: Korrektur des Verwerfungsantrags des Generalbundesanwalts auf Anregung eines BGH-Senats; Ablehnungsantrag und Anhörungsrüge nach Verwer
+- [BGH, Beschluss vom 24.01.2012 - 4 StR 469/11](4-str-469-11.md) — Verwerfung der Revision: Korrektur des Verwerfungsantrags des Generalbundesanwalts auf Anregung eines BGH-Senats; Ablehnungsantrag und Anhörungsrüge nach Verwerfung im …
 - [BGH, Beschluss vom 24.01.2012 - 4 StR 594/11](4-str-594-11.md) — Anordnung der Sicherungsverwahrung bei schwerer räuberischer Erpressung: Strikte Verhältnismäßigkeitsprüfung nach der Rechtsprechung des BVerfG
 - [BGH, Beschluss vom 24.01.2012 - 4 StR 636/11](4-str-636-11.md) — Unterbringung eines alkoholabhängigen Straftäters in einer Entziehungsanstalt: Maßgeblicher Zeitpunkt für die Gefährlichkeitsprognose
 - [BGH, Urteil vom 12.01.2012 - 4 StR 290/11](4-str-290-11.md) — Strafzumessung bei schwerem Raub in Tateinheit mit gefährlicher Körperverletzung: Voraussetzungen eines Täter-Opfer-Ausgleichs bei mehreren Geschädigten
-- [BGH, Urteil vom 12.01.2012 - 4 StR 499/11](4-str-499-11.md) — (Auslieferung: Berücksichtigung von verfahrensfremden Taten als Indiz für die Auslieferungstat und als Grundlage für den Strafrahmen eines Qualifikationstatbest
+- [BGH, Urteil vom 12.01.2012 - 4 StR 499/11](4-str-499-11.md) — (Auslieferung: Berücksichtigung von verfahrensfremden Taten als Indiz für die Auslieferungstat und als Grundlage für den Strafrahmen eines Qualifikationstatbestandes …
 - [BGH, Beschluss vom 11.01.2012 - 4 StR 523/11](4-str-523-11.md) — Doppelvorsitz in zwei Strafsenaten des Bundesgerichtshofs
 - [BGH, Beschluss vom 11.01.2012 - 4 StR 559/11](4-str-559-11.md) — Teilfreispruch im Strafverfahren wegen gewerbs- und bandenmäßigen Computerbetrugs bei Nichterweislichkeit einer tatmehrheitlich angeklagten Tat
 - [BGH, Beschluss vom 10.01.2012 - 4 ARs 17/11](4-ars-17-11.md) — BGH, Beschluss 4 ARs 17/11

@@ -18,8 +18,8 @@
 - [BGH, Urteil vom 19.09.2005 - II ZR 372/03](ii-zr-372-03.md) — Tatbestand:
 - [BGH, Beschluss vom 22.08.2005 - II ZB 6/05](ii-zb-6-05.md) — BGH, Beschluss vom 22.08.2005 - II ZB 6/05
 - [BGH, Beschluss vom 01.08.2005 - II ZR 193/05](ii-zr-193-05.md) — BGH, Beschluss vom 01.08.2005 - II ZR 193/05
-- [BGH, Beschluss vom 25.07.2005 - II ZR 327/03](ii-zr-327-03.md) — AktG §§ 327 a ff. Die Regelungen der §§ 327 a ff. AktG (sog. "Squeeze out") sind verfassungsgemäß. BGH, Beschluss vom 25. Juli 2005 - II ZR 327/03 - OLG Celle L
-- [BGH, Urteil vom 25.07.2005 - II ZR 390/03](ii-zr-390-03.md) — II ZR 390/03 Schreibfehlerberichtigung Im Urteil des II. Zivilsenats des Bundesgerichtshofes vom 25. Juli 2005 muss es wie folgt richtig heißen: Seite 5, Zeile 
+- [BGH, Beschluss vom 25.07.2005 - II ZR 327/03](ii-zr-327-03.md) — AktG §§ 327 a ff. Die Regelungen der §§ 327 a ff. AktG (sog. "Squeeze out") sind verfassungsgemäß. BGH, Beschluss vom 25. Juli 2005 - II ZR 327/03 - OLG Celle LG Hannover
+- [BGH, Urteil vom 25.07.2005 - II ZR 390/03](ii-zr-390-03.md) — II ZR 390/03 Schreibfehlerberichtigung Im Urteil des II. Zivilsenats des Bundesgerichtshofes vom 25. Juli 2005 muss es wie folgt richtig heißen: Seite 5, Zeile 7: "… Unter diesem …
 - [BGH, Urteil vom 11.07.2005 - II ZR 285/03](ii-zr-285-03.md) — Tatbestand:
 - [BGH, Urteil vom 27.06.2005 - II ZR 113/03](ii-zr-113-03.md) — Tatbestand:
 - [BGH, Beschluss vom 20.06.2005 - II ZR 172/04](ii-zr-172-04.md) — BGH, Beschluss vom 20.06.2005 - II ZR 172/04
@@ -32,7 +32,7 @@
 - [BGH, Urteil vom 25.04.2005 - II ZR 103/03](ii-zr-103-03.md) — Tatbestand:
 - [BGH, Urteil vom 25.04.2005 - II ZR 224/03](ii-zr-224-03.md) — Tatbestand:
 - [BGH, Urteil vom 18.04.2005 - II ZR 151/03](ii-zr-151-03.md) — Tatbestand:
-- [BGH, Urteil vom 18.04.2005 - II ZR 61/03](ii-zr-61-03.md) — Nachschlagewerk: ja BGHZ: nein BGB § 823 Abs. 2 Be i.V.m. StGB § 266a; GmbHG § 64 Abs. 2 a) § 266a StGB ist ein Schutzgesetz im Sinne von § 823 Abs. 2 BGB. b) F
+- [BGH, Urteil vom 18.04.2005 - II ZR 61/03](ii-zr-61-03.md) — Nachschlagewerk: ja BGHZ: nein BGB § 823 Abs. 2 Be i.V.m. StGB § 266a; GmbHG § 64 Abs. 2 a) § 266a StGB ist ein Schutzgesetz im Sinne von § 823 Abs. 2 BGB. b) Für die Möglichkeit …
 - [BGH, Urteil vom 11.04.2005 - II ZR 299/03](ii-zr-299-03.md) — Tatbestand:
 - [BGH, Beschluss vom 04.04.2005 - II ZR 107/04](ii-zr-107-04.md) — BGH, Beschluss vom 04.04.2005 - II ZR 107/04
 - [BGH, Urteil vom 21.03.2005 - II ZR 124/03](ii-zr-124-03.md) — bankrechtlicher Bedenken weigert, die Rente zu zahlen, und statt dessen die Auszahlung des Guthabens in einer Summe anbietet.

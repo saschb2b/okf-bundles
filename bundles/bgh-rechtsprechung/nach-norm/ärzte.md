@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu Ärzte"
 description: "BGH-Entscheidungen zu Ärzte, geordnet nach Vorschrift."
 tags: [register, navigation, ärzte]
-timestamp: 2026-06-22T13:43:59Z
+timestamp: 2026-06-22T13:45:57Z
 ---
 
 # Nach Vorschrift

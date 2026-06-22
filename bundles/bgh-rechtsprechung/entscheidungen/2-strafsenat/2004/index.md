@@ -61,7 +61,7 @@
 - [BGH, Beschluss vom 20.02.2004 - 2 StR 512/03](2-str-512-03.md) — sexuellen Mißbrauchs von Kindern
 - [BGH, Beschluss vom 18.02.2004 - 2 StR 423/03](2-str-423-03.md) — Diebstahls u.a.
 - [BGH, Beschluss vom 13.02.2004 - 2 StR 408/03](2-str-408-03.md) — Meineides
-- [BGH, Entscheidung vom 13.02.2004 - 2 StR 489/03](2-str-489-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 13.02.2004 - 2 StR 489/03](2-str-489-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 11.02.2004 - 2 StR 290/01](2-str-290-01.md) — bewaffneten Sichverschaffens von Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 11.02.2004 - 2 StR 378/03](2-str-378-03.md) — Vergewaltigung
 - [BGH, Urteil vom 06.02.2004 - 2 StR 266/03](2-str-266-03.md) — sexuellen Mißbrauchs von Kindern

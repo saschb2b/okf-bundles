@@ -16,5 +16,5 @@
 - [BGH, Beschluss vom 20.01.2026 - StB 70/25](stb-70-25.md) — BGH, Beschluss StB 70/25
 - [BGH, Beschluss vom 13.01.2026 - StB 1/26](stb-1-26.md) — Genügende Entschuldigung für das Ausbleiben eines Angeklagten
 - [BGH, Beschluss vom 13.01.2026 - StB 69/25](stb-69-25.md) — Zulässigkeit der Beschwerde gegen die Gewährung von Akteneinsicht an verfahrensfremde Dritte
-- [BGH, Beschluss vom 07.01.2026 - AK 115/25](ak-115-25.md) — § 129b Abs. 1 Satz 2 StGB tritt neben die die Geltung deutschen Strafrechts bei Auslandstaten regelnden §§ 3 ff. StGB. Diese werden weder ersetzt noch treten si
+- [BGH, Beschluss vom 07.01.2026 - AK 115/25](ak-115-25.md) — § 129b Abs. 1 Satz 2 StGB tritt neben die die Geltung deutschen Strafrechts bei Auslandstaten regelnden §§ 3 ff. StGB. Diese werden weder ersetzt noch treten sie zurück.
 - [BGH, Beschluss vom 07.01.2026 - StB 68/25 VS-NfD](stb-68-25-vs-nfd.md) — Grundsätze der Durchsicht von elektronischen Speichermedien sowie Einordnung der „Große Don Armee“ als ausländische terroristische Vereinigung

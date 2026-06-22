@@ -32,17 +32,17 @@
 - [BGH, Beschluss vom 03.02.2026 - 3 StR 496/24](3-str-496-24.md) — BGH, Beschluss 3 StR 496/24
 - [BGH, Beschluss vom 03.02.2026 - 3 StR 589/25](3-str-589-25.md) — BGH, Beschluss 3 StR 589/25
 - [BGH, Urteil vom 22.01.2026 - 3 StR 142/25](3-str-142-25.md) — BGH, Urteil 3 StR 142/25
-- [BGH, Urteil vom 22.01.2026 - 3 StR 33/25](3-str-33-25.md) — Verurteilungen wegen mitgliedschaftlicher Beteiligung an einer rechtsextremistischen Kampfsportgruppe als kriminelle Vereinigung und nicht als terroristische Ve
+- [BGH, Urteil vom 22.01.2026 - 3 StR 33/25](3-str-33-25.md) — Verurteilungen wegen mitgliedschaftlicher Beteiligung an einer rechtsextremistischen Kampfsportgruppe als kriminelle Vereinigung und nicht als terroristische Vereinigung
 - [BGH, Beschluss vom 21.01.2026 - 3 StR 546/25](3-str-546-25.md) — BGH, Beschluss 3 StR 546/25
 - [BGH, Beschluss vom 21.01.2026 - 3 StR 566/25](3-str-566-25.md) — BGH, Beschluss 3 StR 566/25
 - [BGH, Beschluss vom 21.01.2026 - 3 StR 585/25](3-str-585-25.md) — BGH, Beschluss 3 StR 585/25
 - [BGH, Beschluss vom 20.01.2026 - 3 StR 490/25](3-str-490-25.md) — BGH, Beschluss 3 StR 490/25
-- [BGH, Beschluss vom 20.01.2026 - 3 StR 495/25](3-str-495-25.md) — Bei der Überwachung und Aufzeichnung von Telegram-Chats durch heimliche Aufschaltung ohne Einbeziehung des Informationsdiensteerbringers oder Nutzers handelt es
+- [BGH, Beschluss vom 20.01.2026 - 3 StR 495/25](3-str-495-25.md) — Bei der Überwachung und Aufzeichnung von Telegram-Chats durch heimliche Aufschaltung ohne Einbeziehung des Informationsdiensteerbringers oder Nutzers handelt es sich um eine …
 - [BGH, Beschluss vom 20.01.2026 - 3 StR 569/25](3-str-569-25.md) — BGH, Beschluss 3 StR 569/25
 - [BGH, Beschluss vom 20.01.2026 - 3 StR 573/25](3-str-573-25.md) — BGH, Beschluss 3 StR 573/25
 - [BGH, Beschluss vom 20.01.2026 - 3 StR 602/25](3-str-602-25.md) — BGH, Beschluss 3 StR 602/25
 - [BGH, Urteil vom 08.01.2026 - 3 StR 203/25](3-str-203-25.md) — Einziehung des Wertes von Taterträgen bei Beteiligung von mehreren an einer Tat
-- [BGH, Urteil vom 08.01.2026 - 3 StR 320/25](3-str-320-25.md) — Hat der Tatbeteiligte durch eine vorsätzliche rechtswidrige Tat einen Vermögensvorteil objektiv kausal erlangt, ist dieser als Tatertrag einzuziehen, auch wenn 
+- [BGH, Urteil vom 08.01.2026 - 3 StR 320/25](3-str-320-25.md) — Hat der Tatbeteiligte durch eine vorsätzliche rechtswidrige Tat einen Vermögensvorteil objektiv kausal erlangt, ist dieser als Tatertrag einzuziehen, auch wenn das Erlangen nicht …
 - [BGH, Beschluss vom 08.01.2026 - 3 StR 368/25](3-str-368-25.md) — BGH, Beschluss 3 StR 368/25
 - [BGH, Beschluss vom 08.01.2026 - 3 StR 469/25](3-str-469-25.md) — BGH, Beschluss 3 StR 469/25
 - [BGH, Beschluss vom 08.01.2026 - 3 StR 503/25](3-str-503-25.md) — BGH, Beschluss 3 StR 503/25

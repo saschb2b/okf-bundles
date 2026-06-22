@@ -8,7 +8,7 @@
 - [BGH, Urteil vom 10.12.2009 - Xa ZR 61/09](xa-zr-61-09.md) — Tatbestand:
 - [BGH, Beschluss vom 30.07.2009 - Xa ARZ 167/09](xa-arz-167-09.md) — BGH, Beschluss vom 30.07.2009 - Xa ARZ 167/09
 - [BGH, Urteil vom 30.07.2009 - Xa ZR 22/06](xa-zr-22-06.md) — Tatbestand:
-- [BGH, Urteil vom 09.07.2009 - Xa ZR 19/08](xa-zr-19-08.md) — Nachschlagewerk: ja BGHZ: ja BGHR: ja EuGVVO Art. 5 Nr. 3; Rom-II-VO Art. 4 Abs. 1; EGBGB Art. 40 Abs. 1, Art. 28 Abs. 1, 2 und 5; UKlaG § 1, § 4a Abs. 1 a) Für
+- [BGH, Urteil vom 09.07.2009 - Xa ZR 19/08](xa-zr-19-08.md) — Nachschlagewerk: ja BGHZ: ja BGHR: ja EuGVVO Art. 5 Nr. 3; Rom-II-VO Art. 4 Abs. 1; EGBGB Art. 40 Abs. 1, Art. 28 Abs. 1, 2 und 5; UKlaG § 1, § 4a Abs. 1 a) Für die Klage eines …
 - [BGH, Urteil vom 09.06.2009 - Xa ZR 74/08](xa-zr-74-08.md) — Tatbestand:
 - [BGH, Beschluss vom 27.05.2009 - Xa ZR 162/07](xa-zr-162-07.md) — BGH, Beschluss vom 27.05.2009 - Xa ZR 162/07
 - [BGH, Urteil vom 30.04.2009 - Xa ZR 156/04](xa-zr-156-04.md) — BGH, Urteil vom 30.04.2009 - Xa ZR 156/04

@@ -12,9 +12,9 @@
 - [BGH, Beschluss vom 14.12.2022 - 6 StR 449/22](6-str-449-22.md) — Strafsache: Anforderungen an die Feststellungen zur Schuldfähigkeit und zur Unterbringungsanordnung; Wiedergabe der Einlassung des Angeklagten im Urteil
 - [BGH, Urteil vom 13.12.2022 - 6 StR 148/22](6-str-148-22.md) — BGH, Urteil 6 StR 148/22
 - [BGH, Beschluss vom 13.12.2022 - 6 StR 423/22](6-str-423-22.md) — BGH, Beschluss 6 StR 423/22
-- [BGH, Beschluss vom 13.12.2022 - 6 StR 467/22](6-str-467-22.md) — Strafverfahren wegen besonders schwerer Vergewaltigung: Vernehmungsersetzende Vorführung der Ton-Bild-Aufzeichung einer früheren richterlichen Vernehmung der Ve
+- [BGH, Beschluss vom 13.12.2022 - 6 StR 467/22](6-str-467-22.md) — Strafverfahren wegen besonders schwerer Vergewaltigung: Vernehmungsersetzende Vorführung der Ton-Bild-Aufzeichung einer früheren richterlichen Vernehmung der Verletzten
 - [BGH, Beschluss vom 13.12.2022 - 6 StR 468/22](6-str-468-22.md) — BGH, Beschluss 6 StR 468/22
-- [BGH, Beschluss vom 13.12.2022 - 6 StR 95/22](6-str-95-22.md) — Auch wenn in einem Termin zur Fortsetzung der Hauptverhandlung Verfahrensvorgänge stattfinden, die als Sachverhandlung anzusehen sind, verstößt es gegen § 229 S
+- [BGH, Beschluss vom 13.12.2022 - 6 StR 95/22](6-str-95-22.md) — Auch wenn in einem Termin zur Fortsetzung der Hauptverhandlung Verfahrensvorgänge stattfinden, die als Sachverhandlung anzusehen sind, verstößt es gegen § 229 StPO, wenn aus dem …
 - [BGH, Urteil vom 30.11.2022 - 6 StR 243/22](6-str-243-22.md) — Strafurteil: Revisionsgerichtliche Überprüfung der tatrichterlichen Beweiswürdigung bei Freispruch
 - [BGH, Beschluss vom 30.11.2022 - 6 StR 414/22](6-str-414-22.md) — Vergewaltigung: Strafrahmenverschiebung bei verminderter Schuldfähigkeit
 - [BGH, Beschluss vom 30.11.2022 - 6 StR 422/22](6-str-422-22.md) — BGH, Beschluss 6 StR 422/22
@@ -30,8 +30,8 @@
 - [BGH, Beschluss vom 14.11.2022 - 6 StR 392/22](6-str-392-22.md) — BGH, Beschluss 6 StR 392/22
 - [BGH, Beschluss vom 14.11.2022 - 6 StR 412/22](6-str-412-22.md) — BGH, Beschluss 6 StR 412/22
 - [BGH, Beschluss vom 14.11.2022 - 6 StR 426/22](6-str-426-22.md) — BGH, Beschluss 6 StR 426/22
-- [BGH, Beschluss vom 07.11.2022 - 6 StR 124/22](6-str-124-22.md) — Festsetzung der Verteidigervergütung im Adhäsionsverfahren: Ermittlung des Gesamtgegenstandswerts im Falle mehrerer Adhäsionskläger; Entscheidung des Einzelrich
-- [BGH, Beschluss vom 03.11.2022 - 6 StR 296/21](6-str-296-21.md) — Ein Ergänzungsrichter oder -schöffe ist auch vor seinem Eintritt in das Quorum (§ 192 Abs. 2 GVG) eine zur Urteilsfindung berufene Person im Sinne von § 229 Abs
+- [BGH, Beschluss vom 07.11.2022 - 6 StR 124/22](6-str-124-22.md) — Festsetzung der Verteidigervergütung im Adhäsionsverfahren: Ermittlung des Gesamtgegenstandswerts im Falle mehrerer Adhäsionskläger; Entscheidung des Einzelrichters am …
+- [BGH, Beschluss vom 03.11.2022 - 6 StR 296/21](6-str-296-21.md) — Ein Ergänzungsrichter oder -schöffe ist auch vor seinem Eintritt in das Quorum (§ 192 Abs. 2 GVG) eine zur Urteilsfindung berufene Person im Sinne von § 229 Abs. 3 Satz 1 Nr. 1 …
 - [BGH, Urteil vom 02.11.2022 - 6 StR 239/22](6-str-239-22.md) — Betäubungsmittelhandel durch Erwerb und Besitz von Cannabis-Setzlingen
 - [BGH, Beschluss vom 02.11.2022 - 6 StR 281/22](6-str-281-22.md) — BGH, Beschluss 6 StR 281/22
 - [BGH, Beschluss vom 02.11.2022 - 6 StR 311/22](6-str-311-22.md) — BGH, Beschluss 6 StR 311/22
@@ -41,7 +41,7 @@
 - [BGH, Beschluss vom 01.11.2022 - 6 StR 219/22](6-str-219-22.md) — Zur Unerreichbarkeit eines Zeugen im Falle mehrmonatiger ergebnisloser Fahndung auf Grund eines (internationalen) Haftbefehls.
 - [BGH, Beschluss vom 01.11.2022 - 6 StR 309/22](6-str-309-22.md) — BGH, Beschluss 6 StR 309/22
 - [BGH, Beschluss vom 01.11.2022 - 6 StR 387/22](6-str-387-22.md) — BGH, Beschluss 6 StR 387/22
-- [BGH, Beschluss vom 19.10.2022 - 6 StR 320/22](6-str-320-22.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Feststellung der Dauer der Schuldunfähigkeit; tatrichterliche Gesamtwürdigung im Rahmen der Gefah
+- [BGH, Beschluss vom 19.10.2022 - 6 StR 320/22](6-str-320-22.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Feststellung der Dauer der Schuldunfähigkeit; tatrichterliche Gesamtwürdigung im Rahmen der Gefahrenprognose
 - [BGH, Beschluss vom 19.10.2022 - 6 StR 361/22](6-str-361-22.md) — BGH, Beschluss 6 StR 361/22
 - [BGH, Beschluss vom 19.10.2022 - 6 StR 386/22](6-str-386-22.md) — BGH, Beschluss 6 StR 386/22
 - [BGH, Beschluss vom 18.10.2022 - 6 StR 213/22](6-str-213-22.md) — BGH, Beschluss 6 StR 213/22
@@ -74,8 +74,8 @@
 - [BGH, Urteil vom 14.07.2022 - 6 StR 227/21](6-str-227-21.md) — Falsche uneidliche Aussage: Verjährungsbeginn bei Aussage vor einem Untersuchungsausschuss des Landes Sachsen-Anhalt)
 - [BGH, Beschluss vom 12.07.2022 - 6 StR 196/22](6-str-196-22.md) — Strafverurteilung wegen gewerbsmäßigen Bandenbetrugs u.a.: Anrechnung von Ersatzleistungen ohne Tilgungsbestimmung im Rahmen der Einziehungsentscheidung
 - [BGH, Urteil vom 29.06.2022 - 6 StR 238/22](6-str-238-22.md) — Prognoseentscheidung zu Unterbringung in Entziehungsanstalt
-- [BGH, Beschluss vom 28.06.2022 - 6 StR 511/21](6-str-511-21.md) — Besonders schwerer Fall der Untreue: Regelbeispiel des gewerbsmäßigen Handelns; Entkräftung der Indizwirkung des Regelbeispiels; strafmildernde Berücksichtigung
-- [BGH, Beschluss vom 28.06.2022 - 6 StR 68/21](6-str-68-21.md) — 1. Die Abgrenzung strafbarer Tötung auf Verlangen von strafloser Beihilfe zum Suizid erfordert eine normative Betrachtung. 2. Der ohne Wissens- und Verantwortun
+- [BGH, Beschluss vom 28.06.2022 - 6 StR 511/21](6-str-511-21.md) — Besonders schwerer Fall der Untreue: Regelbeispiel des gewerbsmäßigen Handelns; Entkräftung der Indizwirkung des Regelbeispiels; strafmildernde Berücksichtigung der Wirkung der …
+- [BGH, Beschluss vom 28.06.2022 - 6 StR 68/21](6-str-68-21.md) — 1. Die Abgrenzung strafbarer Tötung auf Verlangen von strafloser Beihilfe zum Suizid erfordert eine normative Betrachtung. 2. Der ohne Wissens- und Verantwortungsdefizit gefasste …
 - [BGH, Beschluss vom 15.06.2022 - 6 StR 206/22](6-str-206-22.md) — Verständigung im Strafverfahren: Zeitpunkt der Belehrung des Angeklagten über sein Schweigerecht
 - [BGH, Urteil vom 15.06.2022 - 6 StR 23/22](6-str-23-22.md) — Mordmerkmal der niedrigen Beweggründe: Prüfung des Mordmerkmals der niedrigen Beweggründe; Annahme niedriger Beweggründe bei einer Spontantat
 - [BGH, Urteil vom 15.06.2022 - 6 StR 401/21](6-str-401-21.md) — Beweiswürdigung im Strafurteil: Erforderlichkeit der Wiedergabe einer Zeugenaussage in Einzelheiten
@@ -84,34 +84,34 @@
 - [BGH, Beschluss vom 31.05.2022 - 6 StR 128/22](6-str-128-22.md) — Besitz von Betäubungsmitteln in nicht geringer Menge: Berücksichtigung der Sicherstellung im Rahmen der Strafzumessung
 - [BGH, Beschluss vom 31.05.2022 - 6 StR 71/22](6-str-71-22.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u.a.: Konkurrenzverhältnis mit Widerstandshandlung und Körperverletzung
 - [BGH, Beschluss vom 18.05.2022 - 6 StR 169/22](6-str-169-22.md) — Strafzumessung: Folgewirkungen bei sexuellem Kindesmissbrauch
-- [BGH, Beschluss vom 18.05.2022 - 6 StR 178/22](6-str-178-22.md) — Sexueller Missbrauch von Schutzbefohlenen: Ruhen der Verfolgungsverjährung wegen Rückwirkung der Änderung der Vorschriften über die Straftaten gegen die sexuell
+- [BGH, Beschluss vom 18.05.2022 - 6 StR 178/22](6-str-178-22.md) — Sexueller Missbrauch von Schutzbefohlenen: Ruhen der Verfolgungsverjährung wegen Rückwirkung der Änderung der Vorschriften über die Straftaten gegen die sexuelle Selbstbestimmung …
 - [BGH, Urteil vom 18.05.2022 - 6 StR 441/21](6-str-441-21.md) — Handeltreiben mit Betäubungsmitteln: Bestimmen eines Minderjährigen zum Handeltreiben
 - [BGH, Urteil vom 18.05.2022 - 6 StR 470/21](6-str-470-21.md) — Anforderungen an die Schuldfähigkeitsprüfung im Zusammenhang mit einem „akuten Eifersuchtswahn“
 - [BGH, Urteil vom 18.05.2022 - 6 StR 587/21](6-str-587-21.md) — Totschlag: Anforderungen an den bedingten Tötungsvorsatz
 - [BGH, Beschluss vom 04.05.2022 - 6 StR 155/22](6-str-155-22.md) — Strafzumessung: Zulässiges Verteidigungsverhalten
 - [BGH, Urteil vom 04.05.2022 - 6 StR 542/21](6-str-542-21.md) — Strafzumessung bei sexuellem Kindesmissbrauch: Berücksichtigung eines Altersgefälles zwischen Täter und Opfer; Begründung einer Gesamtfreiheitsstrafe
 - [BGH, Urteil vom 04.05.2022 - 6 StR 628/21](6-str-628-21.md) — Strafverurteilung wegen besonders schweren Raubes u.a.: Vollendung der Wegnahme
-- [BGH, Beschluss vom 03.05.2022 - 6 StR 147/22](6-str-147-22.md) — Konkurrenzen beim Betäubungsmittelhandel: Zeitliche Überschneidungen der Ausführungshandlungen bei Zahlung des Kaufpreises für eine Drogenmenge bei der nächsten
+- [BGH, Beschluss vom 03.05.2022 - 6 StR 147/22](6-str-147-22.md) — Konkurrenzen beim Betäubungsmittelhandel: Zeitliche Überschneidungen der Ausführungshandlungen bei Zahlung des Kaufpreises für eine Drogenmenge bei der nächsten Lieferung
 - [BGH, Beschluss vom 03.05.2022 - 6 StR 150/22](6-str-150-22.md) — Sexueller Missbrauch einer widerstandsunfähigen Person: Anwendung des Günstigkeitsprinzips auf Schuldspruch und Strafzumessung
-- [BGH, Beschluss vom 06.04.2022 - 6 StR 114/22](6-str-114-22.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bewertungseinheit bei Besitz mehrerer Rauschgiftmengen aus verschiedenen Liefervorgängen; tateinheitliches Hand
+- [BGH, Beschluss vom 06.04.2022 - 6 StR 114/22](6-str-114-22.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bewertungseinheit bei Besitz mehrerer Rauschgiftmengen aus verschiedenen Liefervorgängen; tateinheitliches Handeltreiben mit …
 - [BGH, Beschluss vom 05.04.2022 - 6 StR 99/22](6-str-99-22.md) — Schweigen des Angeklagten: Verwertung zu Lasten des Angeklagten bei Anordnung der Unterbringung und Entscheidung über die Strafaussetzung zur Bewährung
 - [BGH, Urteil vom 23.03.2022 - 6 StR 343/21](6-str-343-21.md) — Versuchter Totschlag: Annahme eines bedingten Tötungsvorsatzes
-- [BGH, Beschluss vom 23.03.2022 - 6 StR 606/21](6-str-606-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Feststellungen zum Vorliegen schweren anderen seelischen Abartigkeit bei diagnostizierter schizoi
+- [BGH, Beschluss vom 23.03.2022 - 6 StR 606/21](6-str-606-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Feststellungen zum Vorliegen schweren anderen seelischen Abartigkeit bei diagnostizierter schizoider …
 - [BGH, Beschluss vom 23.03.2022 - 6 StR 61/22](6-str-61-22.md) — Strafverurteilung wegen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.: Voraussetzungen einer erweiterten Einziehung von Taterträgen
 - [BGH, Beschluss vom 23.03.2022 - 6 StR 611/21](6-str-611-21.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Anordnung der erweiterten Einziehung
 - [BGH, Beschluss vom 23.03.2022 - 6 StR 63/22](6-str-63-22.md) — Strafverfahren: Absehen von der Unterbringung in einer Entziehungsanstalt ohne vorherige Begutachtung durch einen Sachverständigen
 - [BGH, Urteil vom 08.03.2022 - 6 StR 320/21](6-str-320-21.md) — Strafurteil wegen Tötung eines Säuglings: Notwendige Feststellungen zur Tötungsabsicht im Rahmen der Prüfung des Mordtatbestandes "niedrige Beweggründe"
-- [BGH, Beschluss vom 24.02.2022 - 6 StR 48/22](6-str-48-22.md) — Nachträgliche Gesamtstrafenbildung: Nichtberücksichtigung einer Strafe wegen des Vollstreckungshindernisses der Nichtbeachtung des auslieferungsrechtlichen Spez
+- [BGH, Beschluss vom 24.02.2022 - 6 StR 48/22](6-str-48-22.md) — Nachträgliche Gesamtstrafenbildung: Nichtberücksichtigung einer Strafe wegen des Vollstreckungshindernisses der Nichtbeachtung des auslieferungsrechtlichen Spezialitätsgrundsatzes
 - [BGH, Beschluss vom 23.02.2022 - 6 StR 15/22](6-str-15-22.md) — Unterbringung in Entziehungsanstalt bei suchtgefährdendem Gebrauch von Alkohol und Kokain
 - [BGH, Beschluss vom 23.02.2022 - 6 StR 650/21](6-str-650-21.md) — Strafurteil wegen Betäubungsmitteldelikten: Prüfung der Erfolgsaussichten einer Entziehungsbehandlung; Einziehung von Wertersatz oder Tatobjekten
 - [BGH, Beschluss vom 22.02.2022 - 6 StR 643/21](6-str-643-21.md) — Adhäsionsverfahren: Bindung an den Antrag; Begründung des Feststellungsinteresses für künftige materielle Schäden
 - [BGH, Beschluss vom 08.02.2022 - 6 StR 11/22](6-str-11-22.md) — Unterbringung in einer Entziehungsanstalt: Vorliegen eines Hangs bei Betäubungsmittelkonsum zum Zweck der Eigentherapie einer psychischen Erkrankung
-- [BGH, Beschluss vom 08.02.2022 - 6 StR 639/21](6-str-639-21.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Verwertbarkeit von aus der Überwachung der Kommunikation über den
+- [BGH, Beschluss vom 08.02.2022 - 6 StR 639/21](6-str-639-21.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Verwertbarkeit von aus der Überwachung der Kommunikation über den …
 - [BGH, Beschluss vom 08.02.2022 - 6 StR 7/22](6-str-7-22.md) — Versuchte schwere Brandstiftung: Voraussetzungen für die Unterbringung einer wahnhaft handelnden Täterin in einem psychiatrischen Krankenhaus
 - [BGH, Beschluss vom 28.01.2022 - 6 StR 626/21](6-str-626-21.md) — Strafverfahren: Wirksamkeit der Berichtigung des Hauptverhandlungsprotokolls
 - [BGH, Beschluss vom 26.01.2022 - 6 StR 633/21](6-str-633-21.md) — Strafaussetzung zur Bewährung: Berücksichtigung eines erstmaligen Freiheitsentzugs im Rahmen der Sozialprognose
-- [BGH, Beschluss vom 25.01.2022 - 6 StR 426/21](6-str-426-21.md) — Notwendige Begründung einer Einziehungsanordnung im Strafverfahren: Abrechnungsbetrug eines an einem "Medizinischen Versorgungszentrums" in der Rechtsform einer
+- [BGH, Beschluss vom 25.01.2022 - 6 StR 426/21](6-str-426-21.md) — Notwendige Begründung einer Einziehungsanordnung im Strafverfahren: Abrechnungsbetrug eines an einem "Medizinischen Versorgungszentrums" in der Rechtsform einer GmbH beteiligten …
 - [BGH, Beschluss vom 13.01.2022 - 6 StR 469/21](6-str-469-21.md) — Revision in Strafsachen: Nachträgliche Gesamtstrafenbildung unter Festsetzung der Tagessatzhöhe auf den Mindestsatz und Erkennen auf die Mindestfreiheitsstrafe
 - [BGH, Urteil vom 12.01.2022 - 6 StR 388/21](6-str-388-21.md) — Schwerer Bandendiebstahl: Anforderungen an das Vorliegen einer Bandenabrede
-- [BGH, Beschluss vom 11.01.2022 - 6 StR 431/21](6-str-431-21.md) — Jugendstrafsache wegen versuchten Mordes u.a.: Strafbefreiender Rücktritt vom unbeendeten Versuch; Anordnung der Unterbringung in einem psychiatrischen Krankenh
-- [BGH, Beschluss vom 11.01.2022 - 6 StR 461/21](6-str-461-21.md) — Trotz fehlender „Vertatbestandlichung“ der nicht geringen Menge in § 4 NpSG kommt dem Maß einer etwaigen Grenzwertüberschreitung des jeweiligen psychoaktiven St
+- [BGH, Beschluss vom 11.01.2022 - 6 StR 431/21](6-str-431-21.md) — Jugendstrafsache wegen versuchten Mordes u.a.: Strafbefreiender Rücktritt vom unbeendeten Versuch; Anordnung der Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 11.01.2022 - 6 StR 461/21](6-str-461-21.md) — Trotz fehlender „Vertatbestandlichung“ der nicht geringen Menge in § 4 NpSG kommt dem Maß einer etwaigen Grenzwertüberschreitung des jeweiligen psychoaktiven Stoffs für die …

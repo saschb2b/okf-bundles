@@ -7,7 +7,7 @@
 - [BGH, Beschluss vom 03.12.2002 - 4 StR 432/02](4-str-432-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 26.11.2002 - 4 StR 389/02](4-str-389-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 07.11.2002 - 4 StR 247/02](4-str-247-02.md) — Bestechlichkeit u. a.
-- [BGH, Entscheidung vom 05.11.2002 - 4 StR 312/02](4-str-312-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 05.11.2002 - 4 StR 312/02](4-str-312-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 05.11.2002 - 4 StR 316/02](4-str-316-02.md) — Vergewaltigung
 - [BGH, Beschluss vom 22.10.2002 - 4 StR 339/02](4-str-339-02.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 22.10.2002 - 4 StR 347/02](4-str-347-02.md) — sexuellen Mißbrauchs eines Kindes

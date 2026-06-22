@@ -2,7 +2,7 @@
 
 43 Entscheidung(en).
 
-- [BGH, Entscheidung vom 11.12.2001 - 5 StR 372/01](5-str-372-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 11.12.2001 - 5 StR 372/01](5-str-372-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 08.11.2001 - 5 StR 257/01](5-str-257-01.md) — gewerbsmäßiger Geldfälschung
 - [BGH, Beschluss vom 08.11.2001 - 5 StR 457/01](5-str-457-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
 - [BGH, Beschluss vom 07.11.2001 - 5 StR 116/01](5-str-116-01.md) — Mordes u. a.

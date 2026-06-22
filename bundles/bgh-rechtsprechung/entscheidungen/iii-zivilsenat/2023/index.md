@@ -8,70 +8,70 @@
 - [BGH, Beschluss vom 21.12.2023 - III ZR 21/23](iii-zr-21-23.md) — BGH, Beschluss III ZR 21/23
 - [BGH, Beschluss vom 21.12.2023 - III ZR 77/23](iii-zr-77-23.md) — Entscheidungserheblichkeit eines Rechtsfehlers; Prüfpflicht des Aufsichtsrats bezüglich des Jahresabschlusses
 - [BGH, Beschluss vom 07.12.2023 - III ZA 14/23, III ZA 16/23](iii-za-14-23-iii-za-16-23.md) — BGH, Beschluss III ZA 14/23, III ZA 16/23
-- [BGH, Beschluss vom 30.11.2023 - III ZB 4/23](iii-zb-4-23.md) — Elektronisches Dokument; einfache Signatur Für die einfache Signatur eines Schriftsatzes gemäß § 130a Abs. 3 Satz 1 Alt. 2 ZPO genügt es, wenn am Ende des Schri
+- [BGH, Beschluss vom 30.11.2023 - III ZB 4/23](iii-zb-4-23.md) — Elektronisches Dokument; einfache Signatur Für die einfache Signatur eines Schriftsatzes gemäß § 130a Abs. 3 Satz 1 Alt. 2 ZPO genügt es, wenn am Ende des Schriftsatzes der Name …
 - [BGH, Beschluss vom 30.11.2023 - III ZR 174/22](iii-zr-174-22.md) — Streitwert einer Klage auf Freistellung von einer Verbindlichkeit
 - [BGH, Beschluss vom 30.11.2023 - III ZR 41/23](iii-zr-41-23.md) — BGH, Beschluss III ZR 41/23
 - [BGH, Beschluss vom 09.11.2023 - III ZB 81/23](iii-zb-81-23.md) — BGH, Beschluss III ZB 81/23
-- [BGH, Urteil vom 09.11.2023 - III ZR 105/22](iii-zr-105-22.md) — Haftung eines Organs für unerlaubte Bankgeschäfte 1. Wer entgegen § 32 Abs. 1 KWG ohne entsprechende Erlaubnis Bankgeschäfte erbringt, macht sich bei fahrlässig
+- [BGH, Urteil vom 09.11.2023 - III ZR 105/22](iii-zr-105-22.md) — Haftung eines Organs für unerlaubte Bankgeschäfte 1. Wer entgegen § 32 Abs. 1 KWG ohne entsprechende Erlaubnis Bankgeschäfte erbringt, macht sich bei fahrlässigem oder …
 - [BGH, Urteil vom 09.11.2023 - III ZR 197/22](iii-zr-197-22.md) — BGH, Urteil III ZR 197/22
 - [BGH, Beschluss vom 26.10.2023 - III ZB 70/23](iii-zb-70-23.md) — BGH, Beschluss III ZB 70/23
-- [BGH, Beschluss vom 26.10.2023 - III ZR 184/22](iii-zr-184-22.md) — Berücksichtigung von Parteivorbringen Bringt eine Partei auf einen richterlichen Hinweis ein neues entscheidungserhebliches Angriffs- oder Verteidigungsmittel v
-- [BGH, Urteil vom 19.10.2023 - III ZR 221/20](iii-zr-221-20.md) — Zur Haftung eines Automobilherstellers gemäß § 826 BGB und gemäß § 823 Abs. 2 BGB iVm § 6 Abs. 1 und § 27 Abs. 1 EG-FGV in einem sogenannten Dieselfall (Motor T
-- [BGH, Urteil vom 12.10.2023 - III ZR 192/22](iii-zr-192-22.md) — Anschlussbeitrag Kanalisation § 234 Abs. 1 Satz 2 AO (hier in Verbindung mit § 12 Abs. 1 Nr. 5 Buchstaben a und b KAG Bbg) hat abschließenden Charakter, so dass
-- [BGH, Urteil vom 05.10.2023 - III ZR 216/22](iii-zr-216-22.md) — Anlagebedingungen, Transparenzkontrolle Zur Transparenzkontrolle der Anlagebedingungen einer Kapitalverwaltungsgesellschaft eines inländischen Organismus für ge
-- [BGH, Beschluss vom 28.09.2023 - III ZB 25/21](iii-zb-25-21.md) — Die Geltendmachung deliktischer Ansprüche gegen einen Dritten genügt nicht, um im Gestattungsverfahren zur Bestandsdatenauskunft durch Anbieter von Telemedien d
-- [BGH, Beschluss vom 28.09.2023 - III ZB 93/22](iii-zb-93-22.md) — Zur Bemessung der Rechtsmittelbeschwer des die Herausgabe eines in seinem Eigentum stehenden Grundstücks begehrenden, in der Vorinstanz unterlegenen Klägers, we
-- [BGH, Urteil vom 21.09.2023 - III ZR 139/22](iii-zr-139-22.md) — Zweiterwerb von Fondsanteilen, Pflicht zur Prüfung der Anwendbarkeit von deutschem oder ausländischem Sachrecht 1. Beim Zweiterwerb von Fondsanteilen gehen nich
+- [BGH, Beschluss vom 26.10.2023 - III ZR 184/22](iii-zr-184-22.md) — Berücksichtigung von Parteivorbringen Bringt eine Partei auf einen richterlichen Hinweis ein neues entscheidungserhebliches Angriffs- oder Verteidigungsmittel vor, ist dies der …
+- [BGH, Urteil vom 19.10.2023 - III ZR 221/20](iii-zr-221-20.md) — Zur Haftung eines Automobilherstellers gemäß § 826 BGB und gemäß § 823 Abs. 2 BGB iVm § 6 Abs. 1 und § 27 Abs. 1 EG-FGV in einem sogenannten Dieselfall (Motor Typ OM 651).
+- [BGH, Urteil vom 12.10.2023 - III ZR 192/22](iii-zr-192-22.md) — Anschlussbeitrag Kanalisation § 234 Abs. 1 Satz 2 AO (hier in Verbindung mit § 12 Abs. 1 Nr. 5 Buchstaben a und b KAG Bbg) hat abschließenden Charakter, so dass Ersatz der …
+- [BGH, Urteil vom 05.10.2023 - III ZR 216/22](iii-zr-216-22.md) — Anlagebedingungen, Transparenzkontrolle Zur Transparenzkontrolle der Anlagebedingungen einer Kapitalverwaltungsgesellschaft eines inländischen Organismus für gemeinsame Anlagen in …
+- [BGH, Beschluss vom 28.09.2023 - III ZB 25/21](iii-zb-25-21.md) — Die Geltendmachung deliktischer Ansprüche gegen einen Dritten genügt nicht, um im Gestattungsverfahren zur Bestandsdatenauskunft durch Anbieter von Telemedien den …
+- [BGH, Beschluss vom 28.09.2023 - III ZB 93/22](iii-zb-93-22.md) — Zur Bemessung der Rechtsmittelbeschwer des die Herausgabe eines in seinem Eigentum stehenden Grundstücks begehrenden, in der Vorinstanz unterlegenen Klägers, wenn sich der …
+- [BGH, Urteil vom 21.09.2023 - III ZR 139/22](iii-zr-139-22.md) — Zweiterwerb von Fondsanteilen, Pflicht zur Prüfung der Anwendbarkeit von deutschem oder ausländischem Sachrecht 1. Beim Zweiterwerb von Fondsanteilen gehen nicht in den …
 - [BGH, Beschluss vom 31.08.2023 - III ZA 12/23](iii-za-12-23.md) — BGH, Beschluss III ZA 12/23
-- [BGH, Beschluss vom 31.08.2023 - III ZB 72/22](iii-zb-72-22.md) — Rechtsbeschwerde gegen die Versagung der Wiedereinsetzung in den vorigen Stand: Rechtsanwaltsverschulden bei Falscheingabe des Empfängergerichts eines Berufungs
+- [BGH, Beschluss vom 31.08.2023 - III ZB 72/22](iii-zb-72-22.md) — Rechtsbeschwerde gegen die Versagung der Wiedereinsetzung in den vorigen Stand: Rechtsanwaltsverschulden bei Falscheingabe des Empfängergerichts eines …
 - [BGH, Beschluss vom 30.08.2023 - III ZR 1/23](iii-zr-1-23.md) — BGH, Beschluss III ZR 1/23
 - [BGH, Beschluss vom 30.08.2023 - III ZR 198/22](iii-zr-198-22.md) — BGH, Beschluss III ZR 198/22
 - [BGH, Beschluss vom 10.08.2023 - III ZR 30/23](iii-zr-30-23.md) — BGH, Beschluss III ZR 30/23
 - [BGH, Urteil vom 10.08.2023 - III ZR 52/22](iii-zr-52-22.md) — Gehörsverstoß bei unterbliebenem Hinweis auf widersprüchlichen Vortrag
-- [BGH, Urteil vom 03.08.2023 - III ZR 54/22](iii-zr-54-22.md) — 1. Zur Verhältnismäßigkeit infektionsschutzrechtlicher Veranstaltungsverbote und -beschränkungen (hier: Berufsmusiker) in dem Zeitraum von März bis Juli 2020 zu
-- [BGH, Urteil vom 20.07.2023 - III ZR 267/20](iii-zr-267-20.md) — Unter den Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV steht dem Käufer eines mit einer unzulässigen Abschalteinrichtun
+- [BGH, Urteil vom 03.08.2023 - III ZR 54/22](iii-zr-54-22.md) — 1. Zur Verhältnismäßigkeit infektionsschutzrechtlicher Veranstaltungsverbote und -beschränkungen (hier: Berufsmusiker) in dem Zeitraum von März bis Juli 2020 zur Verhinderung der …
+- [BGH, Urteil vom 20.07.2023 - III ZR 267/20](iii-zr-267-20.md) — Unter den Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV steht dem Käufer eines mit einer unzulässigen Abschalteinrichtung im Sinne des Art …
 - [BGH, Urteil vom 20.07.2023 - III ZR 303/20](iii-zr-303-20.md) — BGH, Urteil III ZR 303/20
 - [BGH, Beschluss vom 29.06.2023 - III ZB 39/23](iii-zb-39-23.md) — BGH, Beschluss III ZB 39/23
 - [BGH, Beschluss vom 22.06.2023 - III ZB 35/23, III ZB 36/23](iii-zb-35-23-iii-zb-36-23.md) — BGH, Beschluss III ZB 35/23, III ZB 36/23
 - [BGH, Beschluss vom 22.06.2023 - III ZB 37/23, III ZB 38/23](iii-zb-37-23-iii-zb-38-23.md) — BGH, Beschluss III ZB 37/23, III ZB 38/23
 - [BGH, Beschluss vom 22.06.2023 - III ZB 40/23](iii-zb-40-23.md) — BGH, Beschluss III ZB 40/23
-- [BGH, Urteil vom 15.06.2023 - III ZR 178/22](iii-zr-178-22.md) — 1. Zur Aufrechnung mit einer Forderung aus einem Wertersatzverfall gemäß § 73, § 73a StGB aF (jetzt: Einziehung von Taterträgen) gegen einen Entschädigungsanspr
-- [BGH, Urteil vom 15.06.2023 - III ZR 44/22](iii-zr-44-22.md) — Notarhaftung, Vermutung beratungsgerechten Verhaltens Schuldet ein Notar einen bestimmten Rat, Hinweis oder eine bestimmte Warnung, so spricht der erste Anschei
+- [BGH, Urteil vom 15.06.2023 - III ZR 178/22](iii-zr-178-22.md) — 1. Zur Aufrechnung mit einer Forderung aus einem Wertersatzverfall gemäß § 73, § 73a StGB aF (jetzt: Einziehung von Taterträgen) gegen einen Entschädigungsanspruch gemäß § 2 …
+- [BGH, Urteil vom 15.06.2023 - III ZR 44/22](iii-zr-44-22.md) — Notarhaftung, Vermutung beratungsgerechten Verhaltens Schuldet ein Notar einen bestimmten Rat, Hinweis oder eine bestimmte Warnung, so spricht der erste Anschein dafür, dass die …
 - [BGH, Urteil vom 01.06.2023 - III ZR 73/22](iii-zr-73-22.md) — BGH, Urteil III ZR 73/22
 - [BGH, Beschluss vom 25.05.2023 - III ZB 106/22](iii-zb-106-22.md) — BGH, Beschluss III ZB 106/22
 - [BGH, Beschluss vom 25.05.2023 - III ZB 57/22](iii-zb-57-22.md) — Bestimmung des Werts einer durch Verurteilung zur Auskunftserteilung und Rechnungslegung verursachten Beschwer
-- [BGH, Urteil vom 11.05.2023 - III ZR 41/22](iii-zr-41-22.md) — 1. Zur Verhältnismäßigkeit einer sechswöchigen Betriebsuntersagung für Frisörgeschäfte im Frühjahr 2020 zur Verhinderung der weiteren Ausbreitung des SARS-CoV-2
-- [BGH, Urteil vom 04.05.2023 - III ZR 88/22](iii-zr-88-22.md) — Mobilfunkvertrag, Endgerätewahlfreiheit 1. Das Recht der Endnutzer eines Internetzugangsdienstes, Endgeräte ihrer Wahl zu nutzen (Endgerätewahlfreiheit), kann v
+- [BGH, Urteil vom 11.05.2023 - III ZR 41/22](iii-zr-41-22.md) — 1. Zur Verhältnismäßigkeit einer sechswöchigen Betriebsuntersagung für Frisörgeschäfte im Frühjahr 2020 zur Verhinderung der weiteren Ausbreitung des SARS-CoV-2-Virus. 2. Eine …
+- [BGH, Urteil vom 04.05.2023 - III ZR 88/22](iii-zr-88-22.md) — Mobilfunkvertrag, Endgerätewahlfreiheit 1. Das Recht der Endnutzer eines Internetzugangsdienstes, Endgeräte ihrer Wahl zu nutzen (Endgerätewahlfreiheit), kann vertraglich nicht …
 - [BGH, Beschluss vom 27.04.2023 - III ZB 46/22](iii-zb-46-22.md) — BGH, Beschluss III ZB 46/22
 - [BGH, Beschluss vom 27.04.2023 - III ZB 56/20](iii-zb-56-20.md) — BGH, Beschluss III ZB 56/20
 - [BGH, Beschluss vom 27.04.2023 - III ZB 70/20](iii-zb-70-20.md) — BGH, Beschluss III ZB 70/20
 - [BGH, Beschluss vom 27.04.2023 - III ZB 82/20](iii-zb-82-20.md) — BGH, Beschluss III ZB 82/20
 - [BGH, Beschluss vom 27.04.2023 - III ZB 83/20](iii-zb-83-20.md) — BGH, Beschluss III ZB 83/20
 - [BGH, Beschluss vom 20.04.2023 - III ZR 219/22](iii-zr-219-22.md) — BGH, Beschluss III ZR 219/22
-- [BGH, Urteil vom 20.04.2023 - III ZR 92/22](iii-zr-92-22.md) — 1. § 37 Abs. 1 Satz 2 WHG ist - wie einige seiner landesrechtlichen Vorgängerbestimmungen - einschränkend dahin auszulegen, dass jedenfalls solche Änderungen de
+- [BGH, Urteil vom 20.04.2023 - III ZR 92/22](iii-zr-92-22.md) — 1. § 37 Abs. 1 Satz 2 WHG ist - wie einige seiner landesrechtlichen Vorgängerbestimmungen - einschränkend dahin auszulegen, dass jedenfalls solche Änderungen der Stärke oder …
 - [BGH, Urteil vom 13.04.2023 - III ZR 17/22](iii-zr-17-22.md) — Haftung des Tiefbauunternehmers für Beschädigungen an unterirdisch verlegten Versorgungsleitungen in Zusammenhang mit Bauarbeiten an öffentlichen Straßen
-- [BGH, Urteil vom 13.04.2023 - III ZR 215/21](iii-zr-215-21.md) — Die Mitarbeiter eines privaten Unternehmens, die im Zuge von Straßenbauarbeiten der öffentlichen Hand neue Fahrzeugrückhaltesysteme (Schutzplanken) montieren, h
+- [BGH, Urteil vom 13.04.2023 - III ZR 215/21](iii-zr-215-21.md) — Die Mitarbeiter eines privaten Unternehmens, die im Zuge von Straßenbauarbeiten der öffentlichen Hand neue Fahrzeugrückhaltesysteme (Schutzplanken) montieren, handeln nicht in …
 - [BGH, Beschluss vom 30.03.2023 - III ZA 5/23](iii-za-5-23.md) — BGH, Beschluss III ZA 5/23
-- [BGH, Beschluss vom 30.03.2023 - III ZB 13/22](iii-zb-13-22.md) — Zur Glaubhaftmachung des rechtzeitigen Eingangs eines nicht zu den Gerichtsakten gelangten Fristverlängerungsantrags (hier: Berufungsbegründungsfrist) bei Nutzu
+- [BGH, Beschluss vom 30.03.2023 - III ZB 13/22](iii-zb-13-22.md) — Zur Glaubhaftmachung des rechtzeitigen Eingangs eines nicht zu den Gerichtsakten gelangten Fristverlängerungsantrags (hier: Berufungsbegründungsfrist) bei Nutzung des besonderen …
 - [BGH, Beschluss vom 30.03.2023 - III ZR 18/21](iii-zr-18-21.md) — BGH, Beschluss III ZR 18/21
 - [BGH, Beschluss vom 30.03.2023 - III ZR 96/21](iii-zr-96-21.md) — BGH, Beschluss III ZR 96/21
-- [BGH, Beschluss vom 30.03.2023 - III ZR 99/22](iii-zr-99-22.md) — Zur Zuständigkeit des Bayerischen Obersten Landesgerichts für Nichtzulassungsbeschwerden in Fällen, in denen im Wesentlichen Rechtsnormen zur Anwendung kommen, 
+- [BGH, Beschluss vom 30.03.2023 - III ZR 99/22](iii-zr-99-22.md) — Zur Zuständigkeit des Bayerischen Obersten Landesgerichts für Nichtzulassungsbeschwerden in Fällen, in denen im Wesentlichen Rechtsnormen zur Anwendung kommen, die im Landesrecht …
 - [BGH, Beschluss vom 16.03.2023 - III ZA 7/23](iii-za-7-23.md) — BGH, Beschluss III ZA 7/23
-- [BGH, Urteil vom 16.03.2023 - III ZR 104/21](iii-zr-104-21.md) — Zivilprozess, Beiziehung von Ermittlungs-/Strafakten 1. Gemäß § 432 Abs. 1 ZPO in Verbindung mit § 474 Abs. 1, § 479 Abs. 4 Sätze 2 und 3 StPO steht einer Parte
+- [BGH, Urteil vom 16.03.2023 - III ZR 104/21](iii-zr-104-21.md) — Zivilprozess, Beiziehung von Ermittlungs-/Strafakten 1. Gemäß § 432 Abs. 1 ZPO in Verbindung mit § 474 Abs. 1, § 479 Abs. 4 Sätze 2 und 3 StPO steht einer Partei grundsätzlich die …
 - [BGH, Beschluss vom 16.03.2023 - III ZR 234/21](iii-zr-234-21.md) — BGH, Beschluss III ZR 234/21
-- [BGH, Urteil vom 09.03.2023 - III ZR 80/22](iii-zr-80-22.md) — 1. In "Massenverfahren" führen - jedenfalls bei Personenidentität auf Kläger- oder Beklagtenseite - Verzögerungen, die durch die Überlänge eines Pilotverfahrens
+- [BGH, Urteil vom 09.03.2023 - III ZR 80/22](iii-zr-80-22.md) — 1. In "Massenverfahren" führen - jedenfalls bei Personenidentität auf Kläger- oder Beklagtenseite - Verzögerungen, die durch die Überlänge eines Pilotverfahrens begründet sind, in …
 - [BGH, Beschluss vom 02.03.2023 - III ZA 3/23, III ZA 4/23](iii-za-3-23-iii-za-4-23.md) — BGH, Beschluss III ZA 3/23, III ZA 4/23
-- [BGH, Urteil vom 02.03.2023 - III ZR 108/22](iii-zr-108-22.md) — Anlagebedingungen als Allgemeine Geschäftsbedingungen, Einbeziehung in Investmentvertrag, Erst- und Zweiterwerb von Fondsanteilen 1. Die Anlagebedingungen eines
+- [BGH, Urteil vom 02.03.2023 - III ZR 108/22](iii-zr-108-22.md) — Anlagebedingungen als Allgemeine Geschäftsbedingungen, Einbeziehung in Investmentvertrag, Erst- und Zweiterwerb von Fondsanteilen 1. Die Anlagebedingungen eines Investmentfonds …
 - [BGH, Beschluss vom 02.03.2023 - III ZR 214/22](iii-zr-214-22.md) — BGH, Beschluss III ZR 214/22
 - [BGH, Beschluss vom 23.02.2023 - III ZB 88/22](iii-zb-88-22.md) — BGH, Beschluss III ZB 88/22
 - [BGH, Beschluss vom 23.02.2023 - III ZR 242/21](iii-zr-242-21.md) — Internationale Zuständigkeit: Schadensersatzklage gegen eine Bank mit weltweiten Niederlassungen
 - [BGH, Beschluss vom 23.02.2023 - III ZR 72/22](iii-zr-72-22.md) — BGH, Beschluss III ZR 72/22
 - [BGH, Beschluss vom 16.02.2023 - III ZB 1/23, III ZB 2/23](iii-zb-1-23-iii-zb-2-23.md) — BGH, Beschluss III ZB 1/23, III ZB 2/23
-- [BGH, Urteil vom 16.02.2023 - III ZR 210/21](iii-zr-210-21.md) — Hängt die Kausalität für den Eintritt eines Schadens nicht nur von der notariellen Amtspflichtverletzung, sondern auch von weiteren Umständen ab, trägt der Gesc
+- [BGH, Urteil vom 16.02.2023 - III ZR 210/21](iii-zr-210-21.md) — Hängt die Kausalität für den Eintritt eines Schadens nicht nur von der notariellen Amtspflichtverletzung, sondern auch von weiteren Umständen ab, trägt der Geschädigte hierfür …
 - [BGH, Beschluss vom 13.02.2023 - III ZR 69/22](iii-zr-69-22.md) — BGH, Beschluss III ZR 69/22
 - [BGH, Urteil vom 09.02.2023 - III ZR 113/20](iii-zr-113-20.md) — BGH, Urteil III ZR 113/20
 - [BGH, Urteil vom 09.02.2023 - III ZR 116/20](iii-zr-116-20.md) — BGH, Urteil III ZR 116/20
-- [BGH, Urteil vom 09.02.2023 - III ZR 117/20](iii-zr-117-20.md) — Fehlgeschlagene Kapitalanlage, Prospektfehler 1. Zur Bewertung von Geldforderungen in der Handelsbilanz und zur Erforderlichkeit der Einholung eines Sachverstän
+- [BGH, Urteil vom 09.02.2023 - III ZR 117/20](iii-zr-117-20.md) — Fehlgeschlagene Kapitalanlage, Prospektfehler 1. Zur Bewertung von Geldforderungen in der Handelsbilanz und zur Erforderlichkeit der Einholung eines Sachverständigengutachtens für …
 - [BGH, Urteil vom 09.02.2023 - III ZR 122/20](iii-zr-122-20.md) — Schadensersatz im Zusammenhang mit dem Erwerb von Hypothekenanleihen als Kapitalanlage
 - [BGH, Urteil vom 09.02.2023 - III ZR 125/20](iii-zr-125-20.md) — Prospekthaftung: Bewertung von Forderungen in Handelsbilanz; Wirkung eines Bestätigungsvermerks durch Wirtschaftsprüfer
 - [BGH, Urteil vom 02.02.2023 - III ZR 63/22](iii-zr-63-22.md) — Täuschung durch Angaben zur Mindestvertragslaufzeit bei Mobilfunktvertrag-Änderung - Basic-Phone-Vertrag
@@ -79,8 +79,8 @@
 - [BGH, Beschluss vom 26.01.2023 - III ZA 15/22](iii-za-15-22.md) — BGH, Beschluss III ZA 15/22
 - [BGH, Beschluss vom 26.01.2023 - III ZA 27/22](iii-za-27-22.md) — BGH, Beschluss III ZA 27/22
 - [BGH, Beschluss vom 26.01.2023 - III ZB 57/21](iii-zb-57-21.md) — BGH, Beschluss III ZB 57/21
-- [BGH, Beschluss vom 26.01.2023 - III ZB 9/22](iii-zb-9-22.md) — Notar; Beurkundung eines Teuhänderwechsels; Geschäftswert; Verschlechterungsverbot 1. Zur Bestimmung des Geschäftswerts der notariellen Beurkundung eines Treuhä
-- [BGH, Beschluss vom 26.01.2023 - III ZR 69/21](iii-zr-69-21.md) — Kostenentscheidung im Nichtzulassungsbeschwerdeverfahren: Unterlassene Entscheidung über die Kosten des Streithelfers; Voraussetzungen einer Nachholung im Wege 
+- [BGH, Beschluss vom 26.01.2023 - III ZB 9/22](iii-zb-9-22.md) — Notar; Beurkundung eines Teuhänderwechsels; Geschäftswert; Verschlechterungsverbot 1. Zur Bestimmung des Geschäftswerts der notariellen Beurkundung eines Treuhänderwechsels. 2 …
+- [BGH, Beschluss vom 26.01.2023 - III ZR 69/21](iii-zr-69-21.md) — Kostenentscheidung im Nichtzulassungsbeschwerdeverfahren: Unterlassene Entscheidung über die Kosten des Streithelfers; Voraussetzungen einer Nachholung im Wege der Berichtigung
 - [BGH, Beschluss vom 26.01.2023 - III ZR 85/22](iii-zr-85-22.md) — BGH, Beschluss III ZR 85/22
 - [BGH, Beschluss vom 26.01.2023 - III ZR 91/22](iii-zr-91-22.md) — Gehörsverstoß des Berufungsgerichts durch Übergehen des wesentlichen Kerns des Klägervorbringens
 - [BGH, Beschluss vom 19.01.2023 - III ZB 87/22](iii-zb-87-22.md) — BGH, Beschluss III ZB 87/22

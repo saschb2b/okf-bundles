@@ -2,41 +2,41 @@
 
 114 Entscheidung(en).
 
-- [BGH, Urteil vom 20.12.2023 - VIII ZR 153/22](viii-zr-153-22.md) — Zur Frage des Vorliegens eines nach § 34 Abs. 4 GewO verbotenen Rückkaufshandels im Falle des gewerbsmäßigen Ankaufs von Kraftfahrzeugen und deren anschließende
+- [BGH, Urteil vom 20.12.2023 - VIII ZR 153/22](viii-zr-153-22.md) — Zur Frage des Vorliegens eines nach § 34 Abs. 4 GewO verbotenen Rückkaufshandels im Falle des gewerbsmäßigen Ankaufs von Kraftfahrzeugen und deren anschließender Vermietung an den …
 - [BGH, Urteil vom 20.12.2023 - VIII ZR 309/21](viii-zr-309-21.md) — BGH, Urteil VIII ZR 309/21
 - [BGH, Beschluss vom 19.12.2023 - VIII ZR 74/23](viii-zr-74-23.md) — BGH, Beschluss VIII ZR 74/23
 - [BGH, Beschluss vom 12.12.2023 - VIII ZR 22/23](viii-zr-22-23.md) — Nichtzulassungsbeschwerde: Bemessung des mit der Revision geltend zu machenden Beschwerdewertes
-- [BGH, Urteil vom 29.11.2023 - VIII ZR 211/22](viii-zr-211-22.md) — Im Wohnraummietrecht reicht eine Zerrüttung des Mietverhältnisses im Sinne einer Zerstörung der das Schuldverhältnis tragenden Vertrauensgrundlage allein, ohne 
+- [BGH, Urteil vom 29.11.2023 - VIII ZR 211/22](viii-zr-211-22.md) — Im Wohnraummietrecht reicht eine Zerrüttung des Mietverhältnisses im Sinne einer Zerstörung der das Schuldverhältnis tragenden Vertrauensgrundlage allein, ohne dass festgestellt …
 - [BGH, Urteil vom 29.11.2023 - VIII ZR 7/23](viii-zr-7-23.md) — Zum Vorliegen eines Binnensachverhalts im Sinne von Art. 3 Abs. 3 Rom I-VO bei einem Mietvertrag über eine im Inland gelegene Mietwohnung.
-- [BGH, Urteil vom 29.11.2023 - VIII ZR 75/23](viii-zr-75-23.md) — Es genügt den inhaltlichen Anforderungen der vorvertraglichen Auskunftspflicht nach § 556g Abs. 1a Satz 1 Nr. 1 BGB, wenn der Vermieter, der sich auf den Ausnah
+- [BGH, Urteil vom 29.11.2023 - VIII ZR 75/23](viii-zr-75-23.md) — Es genügt den inhaltlichen Anforderungen der vorvertraglichen Auskunftspflicht nach § 556g Abs. 1a Satz 1 Nr. 1 BGB, wenn der Vermieter, der sich auf den Ausnahmetatbestand des § …
 - [BGH, Beschluss vom 28.11.2023 - VIII ZB 58/23](viii-zb-58-23.md) — BGH, Beschluss VIII ZB 58/23
 - [BGH, Beschluss vom 28.11.2023 - VIII ZR 77/23](viii-zr-77-23.md) — Wohnraummiete: Anspruch auf Wohnungsbesichtigung durch einen Sachverständigen zur Vorbereitung einer Vergleichsmietenerhöhung
 - [BGH, Beschluss vom 21.11.2023 - VIII ZB 34/23](viii-zb-34-23.md) — BGH, Beschluss VIII ZB 34/23
 - [BGH, Beschluss vom 21.11.2023 - VIII ZB 55/23](viii-zb-55-23.md) — BGH, Beschluss VIII ZB 55/23
 - [BGH, Beschluss vom 08.11.2023 - VIII ZB 39/23](viii-zb-39-23.md) — BGH, Beschluss VIII ZB 39/23
-- [BGH, Beschluss vom 08.11.2023 - VIII ZB 59/23](viii-zb-59-23.md) — Zur Verletzung des Anspruchs auf rechtliches Gehör im Falle der Nichtberücksichtigung einer zwar rechtzeitig bei Gericht eingegangenen, aber nicht zur Verfahren
-- [BGH, Beschluss vom 07.11.2023 - VIII ZB 9/23](viii-zb-9-23.md) — Erstattungsfähigkeit der Kosten eines auswärtigen Anwalts im Zivilprozess bei Bearbeitung durch externe Stelle (hier: nicht am Unternehmenssitz ansässige, bunde
+- [BGH, Beschluss vom 08.11.2023 - VIII ZB 59/23](viii-zb-59-23.md) — Zur Verletzung des Anspruchs auf rechtliches Gehör im Falle der Nichtberücksichtigung einer zwar rechtzeitig bei Gericht eingegangenen, aber nicht zur Verfahrensakte gelangten …
+- [BGH, Beschluss vom 07.11.2023 - VIII ZB 9/23](viii-zb-9-23.md) — Erstattungsfähigkeit der Kosten eines auswärtigen Anwalts im Zivilprozess bei Bearbeitung durch externe Stelle (hier: nicht am Unternehmenssitz ansässige, bundesweit tätige …
 - [BGH, Beschluss vom 07.11.2023 - VIII ZR 124/23](viii-zr-124-23.md) — BGH, Beschluss VIII ZR 124/23
 - [BGH, Beschluss vom 07.11.2023 - VIII ZR 168/22](viii-zr-168-22.md) — BGH, Beschluss VIII ZR 168/22
-- [BGH, Urteil vom 25.10.2023 - VIII ZR 147/22](viii-zr-147-22.md) — 1a. Ob das Aufstellen bewusst unwahrer Tatsachenbehauptungen durch den Mieter innerhalb eines Rechtsstreits mit seinem Vermieter eine die ordentliche Kündigung 
-- [BGH, Urteil vom 18.10.2023 - VIII ZR 307/20](viii-zr-307-20.md) — 1. Ist dem Verkäufer einer Forderung deren Übertragung auf den Käufer nicht möglich, weil die Forderung nicht besteht, liegt ein vom allgemeinen Leistungsstörun
+- [BGH, Urteil vom 25.10.2023 - VIII ZR 147/22](viii-zr-147-22.md) — 1a. Ob das Aufstellen bewusst unwahrer Tatsachenbehauptungen durch den Mieter innerhalb eines Rechtsstreits mit seinem Vermieter eine die ordentliche Kündigung nach § 573 Abs. 1 …
+- [BGH, Urteil vom 18.10.2023 - VIII ZR 307/20](viii-zr-307-20.md) — 1. Ist dem Verkäufer einer Forderung deren Übertragung auf den Käufer nicht möglich, weil die Forderung nicht besteht, liegt ein vom allgemeinen Leistungsstörungsrecht geregelter …
 - [BGH, Beschluss vom 17.10.2023 - VIII ZR 61/23](viii-zr-61-23.md) — Wohnraummiete: Rückzahlungsanspruch des Mieters bei Wohnflächenabweichung
 - [BGH, Beschluss vom 17.10.2023 - VIII ZR 67/23](viii-zr-67-23.md) — BGH, Beschluss VIII ZR 67/23
 - [BGH, Beschluss vom 10.10.2023 - VIII ZA 8/23](viii-za-8-23.md) — BGH, Beschluss VIII ZA 8/23
 - [BGH, Beschluss vom 10.10.2023 - VIII ZB 29/22](viii-zb-29-22.md) — Zum Wert des Beschwerdegegenstands im Fall eines Nachbesserungsverlangens.
-- [BGH, Beschluss vom 10.10.2023 - VIII ZB 60/22](viii-zb-60-22.md) — Zu den an einen Rechtsanwalt zu stellenden Sorgfaltsanforderungen hinsichtlich der Bezeichnung des Empfangsgerichts im besonderen elektronischen Anwaltspostfach
+- [BGH, Beschluss vom 10.10.2023 - VIII ZB 60/22](viii-zb-60-22.md) — Zu den an einen Rechtsanwalt zu stellenden Sorgfaltsanforderungen hinsichtlich der Bezeichnung des Empfangsgerichts im besonderen elektronischen Anwaltspostfach (beA), wenn der …
 - [BGH, Beschluss vom 10.10.2023 - VIII ZR 233/22](viii-zr-233-22.md) — Nichtzulassungsbeschwerde: Beschwerdewert bei Klage auf Zustimmung zum Mieterwechsel
-- [BGH, Beschluss vom 10.10.2023 - VIII ZR 45/22](viii-zr-45-22.md) — Mietpreisbremse in Berlin bei Staffelmiete: Fortwirkung qualifizierter Rüge der Mietpreisüberhöhung für nächste Mietpreisstaffel trotz zwischenzeitlicher Erhöhu
+- [BGH, Beschluss vom 10.10.2023 - VIII ZR 45/22](viii-zr-45-22.md) — Mietpreisbremse in Berlin bei Staffelmiete: Fortwirkung qualifizierter Rüge der Mietpreisüberhöhung für nächste Mietpreisstaffel trotz zwischenzeitlicher Erhöhung der ortsüblichen …
 - [BGH, Urteil vom 27.09.2023 - VIII ZR 117/22](viii-zr-117-22.md) — Zum Begriff der "Türnische" im Sinne der Vorschrift des § 3 Abs. 3 Nr. 3 WoFlV.
 - [BGH, Beschluss vom 27.09.2023 - VIII ZR 164/21](viii-zr-164-21.md) — BGH, Beschluss VIII ZR 164/21
-- [BGH, Urteil vom 27.09.2023 - VIII ZR 249/22](viii-zr-249-22.md) — 1. Ersetzt der Fernwärmeversorger während des laufenden Fernwärmelieferungsverhältnisses eine unwirksame Preisänderungsklausel für die Zukunft in - nach Maßgabe
-- [BGH, Urteil vom 27.09.2023 - VIII ZR 263/22](viii-zr-263-22.md) — Zum Gestaltungsspielraum eines Fernwärmeversorgungsunternehmens bei der Ausgestaltung einer im laufenden Vertragsverhältnis einseitig für die Zukunft angepasste
-- [BGH, Urteil vom 27.09.2023 - VIII ZR 88/22](viii-zr-88-22.md) — Zur Untervermietung bei einer aus beruflichen Gründen genutzten Nebenwohnung (im Anschluss an Senatsurteile vom 23. November 2005 - VIII ZR 4/05, NJW 2006, 1200
-- [BGH, Versäumnisurteil vom 20.09.2023 - VIII ZR 247/22](viii-zr-247-22.md) — Beauftragt der Mieter einer Wohnung einen - auf die Einziehung von Ansprüchen gegen Vermieter wegen Verstoßes gegen die Vorschriften über die Begrenzung der Mie
-- [BGH, Urteil vom 20.09.2023 - VIII ZR 432/21](viii-zr-432-21.md) — Zur Frage der Zulässigkeit des Erlasses eines Grundurteils (§ 304 Abs. 1 ZPO; im Anschluss an BGH, Urteile vom 27. Januar 2000 - IX ZR 45/98, NJW 2000, 1572 unt
+- [BGH, Urteil vom 27.09.2023 - VIII ZR 249/22](viii-zr-249-22.md) — 1. Ersetzt der Fernwärmeversorger während des laufenden Fernwärmelieferungsverhältnisses eine unwirksame Preisänderungsklausel für die Zukunft in - nach Maßgabe der Rechtsprechung …
+- [BGH, Urteil vom 27.09.2023 - VIII ZR 263/22](viii-zr-263-22.md) — Zum Gestaltungsspielraum eines Fernwärmeversorgungsunternehmens bei der Ausgestaltung einer im laufenden Vertragsverhältnis einseitig für die Zukunft angepassten …
+- [BGH, Urteil vom 27.09.2023 - VIII ZR 88/22](viii-zr-88-22.md) — Zur Untervermietung bei einer aus beruflichen Gründen genutzten Nebenwohnung (im Anschluss an Senatsurteile vom 23. November 2005 - VIII ZR 4/05, NJW 2006, 1200; vom 11. Juni 2014 …
+- [BGH, Versäumnisurteil vom 20.09.2023 - VIII ZR 247/22](viii-zr-247-22.md) — Beauftragt der Mieter einer Wohnung einen - auf die Einziehung von Ansprüchen gegen Vermieter wegen Verstoßes gegen die Vorschriften über die Begrenzung der Miethöhe (§ 556d ff …
+- [BGH, Urteil vom 20.09.2023 - VIII ZR 432/21](viii-zr-432-21.md) — Zur Frage der Zulässigkeit des Erlasses eines Grundurteils (§ 304 Abs. 1 ZPO; im Anschluss an BGH, Urteile vom 27. Januar 2000 - IX ZR 45/98, NJW 2000, 1572 unter I 1 b; vom 12 …
 - [BGH, Beschluss vom 19.09.2023 - VIII ZB 44/22](viii-zb-44-22.md) — Kostenentscheidung nach Erledigung in der Hauptsache
 - [BGH, Beschluss vom 19.09.2023 - VIII ZR 114/23](viii-zr-114-23.md) — BGH, Beschluss VIII ZR 114/23
-- [BGH, Urteil vom 13.09.2023 - VIII ZR 109/22](viii-zr-109-22.md) — 1. Von einer Überlassung eines Teils des Wohnraums an Dritte im Sinne der Vorschrift des § 553 Abs. 1 BGB ist regelmäßig bereits dann auszugehen, wenn der Miete
+- [BGH, Urteil vom 13.09.2023 - VIII ZR 109/22](viii-zr-109-22.md) — 1. Von einer Überlassung eines Teils des Wohnraums an Dritte im Sinne der Vorschrift des § 553 Abs. 1 BGB ist regelmäßig bereits dann auszugehen, wenn der Mieter den Gewahrsam an …
 - [BGH, Beschluss vom 12.09.2023 - VIII ZR 171/22](viii-zr-171-22.md) — BGH, Beschluss VIII ZR 171/22
 - [BGH, Beschluss vom 29.08.2023 - VIII ZB 18/23](viii-zb-18-23.md) — BGH, Beschluss VIII ZB 18/23
 - [BGH, Beschluss vom 29.08.2023 - VIII ZB 19/23](viii-zb-19-23.md) — BGH, Beschluss VIII ZB 19/23
@@ -44,75 +44,75 @@
 - [BGH, Beschluss vom 22.08.2023 - VIII ZB 25/23](viii-zb-25-23.md) — BGH, Beschluss VIII ZB 25/23
 - [BGH, Beschluss vom 09.08.2023 - VIII ZR 164/22](viii-zr-164-22.md) — BGH, Beschluss VIII ZR 164/22
 - [BGH, Beschluss vom 08.08.2023 - VIII ZA 17/22](viii-za-17-22.md) — BGH, Beschluss VIII ZA 17/22
-- [BGH, Beschluss vom 08.08.2023 - VIII ZR 20/23](viii-zr-20-23.md) — Die Prüfungskompetenz des Berufungsgerichts hinsichtlich der erstinstanzlichen Tatsachenfeststellung ist nicht auf den Umfang beschränkt, in dem eine zweitinsta
+- [BGH, Beschluss vom 08.08.2023 - VIII ZR 20/23](viii-zr-20-23.md) — Die Prüfungskompetenz des Berufungsgerichts hinsichtlich der erstinstanzlichen Tatsachenfeststellung ist nicht auf den Umfang beschränkt, in dem eine zweitinstanzliche …
 - [BGH, Beschluss vom 08.08.2023 - VIII ZR 234/22](viii-zr-234-22.md) — Kündigung des Wohnraummietvertrages wegen Strafanzeige gegen den Vermieter
 - [BGH, Beschluss vom 08.08.2023 - VIII ZR 428/21](viii-zr-428-21.md) — BGH, Beschluss VIII ZR 428/21
 - [BGH, Urteil vom 19.07.2023 - VIII ZR 201/22](viii-zr-201-22.md) — Darstellung von Urteilsgründen im Berufungsurteil; arglistige Täuschung bei fehlender Angabe kurzer Besitzzeit
-- [BGH, Urteil vom 19.07.2023 - VIII ZR 229/22](viii-zr-229-22.md) — 1. Zulässige Miete im Sinne von § 556g Abs. 1 Satz 2 BGB ist die sich nach den Regelungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungs
-- [BGH, Urteil vom 19.07.2023 - VIII ZR 416/21](viii-zr-416-21.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil 
+- [BGH, Urteil vom 19.07.2023 - VIII ZR 229/22](viii-zr-229-22.md) — 1. Zulässige Miete im Sinne von § 556g Abs. 1 Satz 2 BGB ist die sich nach den Regelungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten (§§ 556d …
+- [BGH, Urteil vom 19.07.2023 - VIII ZR 416/21](viii-zr-416-21.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil vom 20. Juli 2022 - …
 - [BGH, Beschluss vom 18.07.2023 - VIII ZA 6/23](viii-za-6-23.md) — Einstweilige Anordnung der Einstellung der Zwangsvollstreckung aus vorläufig vollstreckbarem Urteil; Prozesskostenhilfeverfahren bei Verfahrensunterbrechung
 - [BGH, Beschluss vom 18.07.2023 - VIII ZB 14/23](viii-zb-14-23.md) — BGH, Beschluss VIII ZB 14/23
 - [BGH, Beschluss vom 18.07.2023 - VIII ZB 90/22](viii-zb-90-22.md) — Zurückweisung einer Berufung durch Beschluss; Auslegung eines Wiedereinsetzungsantrags
-- [BGH, Urteil vom 12.07.2023 - VIII ZR 125/22](viii-zr-125-22.md) — Die Verjährungsfrist für den Auskunftsanspruch des Mieters gemäß § 556g Abs. 3 BGB beginnt abweichend von § 199 Abs. 1 BGB nicht bereits mit dessen Entstehung i
-- [BGH, Urteil vom 12.07.2023 - VIII ZR 375/21](viii-zr-375-21.md) — Die Verjährungsfrist für den Auskunftsanspruch des Mieters gemäß § 556g Abs. 3 BGB beginnt abweichend von § 199 Abs. 1 BGB nicht bereits mit dessen Entstehung i
+- [BGH, Urteil vom 12.07.2023 - VIII ZR 125/22](viii-zr-125-22.md) — Die Verjährungsfrist für den Auskunftsanspruch des Mieters gemäß § 556g Abs. 3 BGB beginnt abweichend von § 199 Abs. 1 BGB nicht bereits mit dessen Entstehung im Zeitpunkt des …
+- [BGH, Urteil vom 12.07.2023 - VIII ZR 375/21](viii-zr-375-21.md) — Die Verjährungsfrist für den Auskunftsanspruch des Mieters gemäß § 556g Abs. 3 BGB beginnt abweichend von § 199 Abs. 1 BGB nicht bereits mit dessen Entstehung im Zeitpunkt des …
 - [BGH, Urteil vom 12.07.2023 - VIII ZR 60/22](viii-zr-60-22.md) — Zur Verjährung des Auskunftsanspruchs des Mieters gemäß § 556g Abs. 3 BGB bei Vereinbarung einer Staffelmiete.
-- [BGH, Urteil vom 12.07.2023 - VIII ZR 8/22](viii-zr-8-22.md) — Die Verjährungsfrist für den Auskunftsanspruch des Mieters gemäß § 556g Abs. 3 BGB beginnt abweichend von § 199 Abs. 1 BGB nicht bereits mit dessen Entstehung i
+- [BGH, Urteil vom 12.07.2023 - VIII ZR 8/22](viii-zr-8-22.md) — Die Verjährungsfrist für den Auskunftsanspruch des Mieters gemäß § 556g Abs. 3 BGB beginnt abweichend von § 199 Abs. 1 BGB nicht bereits mit dessen Entstehung im Zeitpunkt des …
 - [BGH, Beschluss vom 11.07.2023 - VIII ZR 436/21](viii-zr-436-21.md) — BGH, Beschluss VIII ZR 436/21
-- [BGH, Versäumnisurteil vom 05.07.2023 - VIII ZR 94/21](viii-zr-94-21.md) — 1. Zur rechtzeitigen Bekanntmachung der Begründung zur Berliner Mietenbegrenzungsverordnung vom 28. April 2015 (im Anschluss an Senatsurteil vom 27. Mai 2020 - 
+- [BGH, Versäumnisurteil vom 05.07.2023 - VIII ZR 94/21](viii-zr-94-21.md) — 1. Zur rechtzeitigen Bekanntmachung der Begründung zur Berliner Mietenbegrenzungsverordnung vom 28. April 2015 (im Anschluss an Senatsurteil vom 27. Mai 2020 - VIII ZR 45/19, BGHZ …
 - [BGH, Beschluss vom 04.07.2023 - VIII ZR 260/22](viii-zr-260-22.md) — BGH, Beschluss VIII ZR 260/22
 - [BGH, Beschluss vom 03.07.2023 - VIII ZR 11/22](viii-zr-11-22.md) — BGH, Beschluss VIII ZR 11/22
-- [BGH, Urteil vom 21.06.2023 - VIII ZR 105/22](viii-zr-105-22.md) — 1. Der Anwendungsbereich des Aufwendungsersatzanspruchs gemäß § 439 Abs. 3 BGB ist unter dem Gesichtspunkt des Einbaus der mangelhaften Kaufsache in eine andere
-- [BGH, Urteil vom 21.06.2023 - VIII ZR 303/21](viii-zr-303-21.md) — Zur Schadensersatzpflicht eines Vermieters (hier nach § 536a Abs. 1, § 536 Abs. 3 BGB), der schuldhaft nicht mehr in der Lage ist, dem Mieter den vertragsgemäße
+- [BGH, Urteil vom 21.06.2023 - VIII ZR 105/22](viii-zr-105-22.md) — 1. Der Anwendungsbereich des Aufwendungsersatzanspruchs gemäß § 439 Abs. 3 BGB ist unter dem Gesichtspunkt des Einbaus der mangelhaften Kaufsache in eine andere Sache auch dann …
+- [BGH, Urteil vom 21.06.2023 - VIII ZR 303/21](viii-zr-303-21.md) — Zur Schadensersatzpflicht eines Vermieters (hier nach § 536a Abs. 1, § 536 Abs. 3 BGB), der schuldhaft nicht mehr in der Lage ist, dem Mieter den vertragsgemäßen Gebrauch der …
 - [BGH, Beschluss vom 13.06.2023 - VIII ZB 6/23](viii-zb-6-23.md) — BGH, Beschluss VIII ZB 6/23
 - [BGH, Beschluss vom 13.06.2023 - VIII ZB 62/22](viii-zb-62-22.md) — BGH, Beschluss VIII ZB 62/22
 - [BGH, Beschluss vom 13.06.2023 - VIII ZR 127/17](viii-zr-127-17.md) — BGH, Beschluss VIII ZR 127/17
 - [BGH, Beschluss vom 13.06.2023 - VIII ZR 402/21](viii-zr-402-21.md) — BGH, Beschluss VIII ZR 402/21
-- [BGH, Urteil vom 24.05.2023 - VIII ZR 213/21](viii-zr-213-21.md) — 1. Die Erneuerung von Rauchwarnmeldern stellt - anders als deren erstmaliger Einbau (vgl. dazu Senatsurteile vom 17. Juni 2015 - VIII ZR 216/14, NJW 2015, 2488 
-- [BGH, Urteil vom 24.05.2023 - VIII ZR 373/21](viii-zr-373-21.md) — Zur Wirksamkeit der Bevollmächtigung eines registrierten Inkassodienstleisters für die Erhebung einer Rüge gemäß § 556g Abs. 2 BGB aF im Zusammenhang mit der Ge
-- [BGH, Beschluss vom 23.05.2023 - VIII ZB 16/22](viii-zb-16-22.md) — Zur Bemessung des Werts des Beschwerdegegenstands bei Abweisung der Vollstreckungsabwehrklage gegen einen auf Gewährung des Zutritts zur Mietwohnung und auf Dul
+- [BGH, Urteil vom 24.05.2023 - VIII ZR 213/21](viii-zr-213-21.md) — 1. Die Erneuerung von Rauchwarnmeldern stellt - anders als deren erstmaliger Einbau (vgl. dazu Senatsurteile vom 17. Juni 2015 - VIII ZR 216/14, NJW 2015, 2488 Rn. 12 f., und VIII …
+- [BGH, Urteil vom 24.05.2023 - VIII ZR 373/21](viii-zr-373-21.md) — Zur Wirksamkeit der Bevollmächtigung eines registrierten Inkassodienstleisters für die Erhebung einer Rüge gemäß § 556g Abs. 2 BGB aF im Zusammenhang mit der Geltendmachung und …
+- [BGH, Beschluss vom 23.05.2023 - VIII ZB 16/22](viii-zb-16-22.md) — Zur Bemessung des Werts des Beschwerdegegenstands bei Abweisung der Vollstreckungsabwehrklage gegen einen auf Gewährung des Zutritts zur Mietwohnung und auf Duldung der …
 - [BGH, Beschluss vom 23.05.2023 - VIII ZR 7/21](viii-zr-7-21.md) — BGH, Beschluss VIII ZR 7/21
 - [BGH, Beschluss vom 17.05.2023 - VIII ZA 4/23](viii-za-4-23.md) — BGH, Beschluss VIII ZA 4/23
 - [BGH, Beschluss vom 17.05.2023 - VIII ZB 78/22](viii-zb-78-22.md) — BGH, Beschluss VIII ZB 78/22
-- [BGH, Beschluss vom 16.05.2023 - VIII ZB 89/22](viii-zb-89-22.md) — Das Amt des Prozesspflegers ist mit dem Verfahrenseintritt eines ordentlichen gesetzlichen Vertreters des Verfahrensbeteiligten beendet, ohne dass es einer geri
+- [BGH, Beschluss vom 16.05.2023 - VIII ZB 89/22](viii-zb-89-22.md) — Das Amt des Prozesspflegers ist mit dem Verfahrenseintritt eines ordentlichen gesetzlichen Vertreters des Verfahrensbeteiligten beendet, ohne dass es einer gerichtlichen Aufhebung …
 - [BGH, Beschluss vom 16.05.2023 - VIII ZR 106/21](viii-zr-106-21.md) — BGH, Beschluss VIII ZR 106/21
 - [BGH, Beschluss vom 10.05.2023 - VIII ZB 72/22](viii-zb-72-22.md) — Erinnerung im Kostenansatzverfahren nach Verwerfung einer Rechtsbeschwerde: Zulässige Einwendungen
 - [BGH, Urteil vom 10.05.2023 - VIII ZR 197/21](viii-zr-197-21.md) — BGH, Urteil VIII ZR 197/21
 - [BGH, Urteil vom 10.05.2023 - VIII ZR 204/21](viii-zr-204-21.md) — BGH, Urteil VIII ZR 204/21
 - [BGH, Beschluss vom 10.05.2023 - VIII ZR 23/23](viii-zr-23-23.md) — Räumungsvollstreckung: Einstellung der Zwangsvollstreckung durch das Revisionsgericht nach nicht gestelltem Vollstreckungsschutzantrag in der Berufungsinstanz
 - [BGH, Beschluss vom 09.05.2023 - VIII ZB 12/23](viii-zb-12-23.md) — BGH, Beschluss VIII ZB 12/23
-- [BGH, Beschluss vom 09.05.2023 - VIII ZB 53/21](viii-zb-53-21.md) — 1. Die gesetzlichen Gebühren und Auslagen nach Maßgabe des Rechtsanwaltsvergütungsgesetzes (hier: 0,65-fache Verfahrensgebühr nach Nr. 3401 VV RVG) fallen für e
+- [BGH, Beschluss vom 09.05.2023 - VIII ZB 53/21](viii-zb-53-21.md) — 1. Die gesetzlichen Gebühren und Auslagen nach Maßgabe des Rechtsanwaltsvergütungsgesetzes (hier: 0,65-fache Verfahrensgebühr nach Nr. 3401 VV RVG) fallen für einen …
 - [BGH, Beschluss vom 09.05.2023 - VIII ZR 160/21](viii-zr-160-21.md) — BGH, Beschluss VIII ZR 160/21
 - [BGH, Beschluss vom 09.05.2023 - VIII ZR 72/22](viii-zr-72-22.md) — BGH, Beschluss VIII ZR 72/22
-- [BGH, Urteil vom 26.04.2023 - VIII ZR 125/21](viii-zr-125-21.md) — Eine Verzinsung eines materiell-rechtlichen Erstattungsanspruchs für verauslagte Gerichtskostenvorschüsse gemäß § 286 Abs. 1, § 288 Abs. 1 BGB kommt nicht in Be
+- [BGH, Urteil vom 26.04.2023 - VIII ZR 125/21](viii-zr-125-21.md) — Eine Verzinsung eines materiell-rechtlichen Erstattungsanspruchs für verauslagte Gerichtskostenvorschüsse gemäß § 286 Abs. 1, § 288 Abs. 1 BGB kommt nicht in Betracht, soweit …
 - [BGH, Beschluss vom 26.04.2023 - VIII ZR 136/22](viii-zr-136-22.md) — BGH, Beschluss VIII ZR 136/22
 - [BGH, Urteil vom 26.04.2023 - VIII ZR 236/21](viii-zr-236-21.md) — BGH, Urteil VIII ZR 236/21
 - [BGH, Urteil vom 26.04.2023 - VIII ZR 239/21](viii-zr-239-21.md) — (Wirksamkeit einer Preisanpassung eines Fernwärmeversorgers)
 - [BGH, Urteil vom 26.04.2023 - VIII ZR 269/21](viii-zr-269-21.md) — BGH, Urteil VIII ZR 269/21
 - [BGH, Urteil vom 26.04.2023 - VIII ZR 276/21](viii-zr-276-21.md) — BGH, Urteil VIII ZR 276/21
-- [BGH, Urteil vom 26.04.2023 - VIII ZR 420/21](viii-zr-420-21.md) — Es besteht eine vertragliche, aus § 242 BGB herzuleitende Nebenpflicht des Wohnraummieters, dem Vermieter - nach entsprechender Vorankündigung - den Zutritt zu 
+- [BGH, Urteil vom 26.04.2023 - VIII ZR 420/21](viii-zr-420-21.md) — Es besteht eine vertragliche, aus § 242 BGB herzuleitende Nebenpflicht des Wohnraummieters, dem Vermieter - nach entsprechender Vorankündigung - den Zutritt zu seiner Wohnung zu …
 - [BGH, Beschluss vom 25.04.2023 - VIII ZR 184/21](viii-zr-184-21.md) — Anforderung an Berufungsbegründung in Sachen Mieterhöhung
 - [BGH, Beschluss vom 25.04.2023 - VIII ZR 198/22](viii-zr-198-22.md) — BGH, Beschluss VIII ZR 198/22
 - [BGH, Beschluss vom 25.04.2023 - VIII ZR 93/22](viii-zr-93-22.md) — BGH, Beschluss VIII ZR 93/22
-- [BGH, Urteil vom 19.04.2023 - VIII ZR 280/21](viii-zr-280-21.md) — Zur Frage der "fiktiven" Schadensbemessung im Mietrecht (im Anschluss an BGH, Beschlüsse vom 26. April 2022 - VIII ZR 364/20, NJW-RR 2022, 1307 Rn. 8 ff.; vom 1
+- [BGH, Urteil vom 19.04.2023 - VIII ZR 280/21](viii-zr-280-21.md) — Zur Frage der "fiktiven" Schadensbemessung im Mietrecht (im Anschluss an BGH, Beschlüsse vom 26. April 2022 - VIII ZR 364/20, NJW-RR 2022, 1307 Rn. 8 ff.; vom 10. Mai 2022 - VIII …
 - [BGH, Beschluss vom 18.04.2023 - VIII ZR 421/21](viii-zr-421-21.md) — BGH, Beschluss VIII ZR 421/21
 - [BGH, Beschluss vom 17.04.2023 - VIII ZB 103/22](viii-zb-103-22.md) — BGH, Beschluss VIII ZB 103/22
-- [BGH, Beschluss vom 21.03.2023 - VIII ZB 80/22](viii-zb-80-22.md) — Die Kontrolle der ordnungsgemäßen Übermittlung eines fristgebundenen Schriftsatzes (hier: Berufungsbegründung) über das besondere elektronische Anwaltspostfach 
-- [BGH, Urteil vom 15.03.2023 - VIII ZR 77/22](viii-zr-77-22.md) — Fernwärmelieferungsvertrag: Recht des Fernwärmeversorgungsunternehmens zur einseitigen Anpassung einer unwirksamen Preisänderungsklausel; Aussetzung der Verhand
-- [BGH, Versäumnisurteil vom 15.03.2023 - VIII ZR 99/22](viii-zr-99-22.md) — Bei der Verpflichtung des Zustellers gemäß § 180 Satz 3 ZPO, das Datum der Zustellung auf dem Umschlag des zuzustellenden Schriftstücks zu vermerken, handelt es
+- [BGH, Beschluss vom 21.03.2023 - VIII ZB 80/22](viii-zb-80-22.md) — Die Kontrolle der ordnungsgemäßen Übermittlung eines fristgebundenen Schriftsatzes (hier: Berufungsbegründung) über das besondere elektronische Anwaltspostfach (beA) erfordert …
+- [BGH, Urteil vom 15.03.2023 - VIII ZR 77/22](viii-zr-77-22.md) — Fernwärmelieferungsvertrag: Recht des Fernwärmeversorgungsunternehmens zur einseitigen Anpassung einer unwirksamen Preisänderungsklausel; Aussetzung der Verhandlung wegen einer …
+- [BGH, Versäumnisurteil vom 15.03.2023 - VIII ZR 99/22](viii-zr-99-22.md) — Bei der Verpflichtung des Zustellers gemäß § 180 Satz 3 ZPO, das Datum der Zustellung auf dem Umschlag des zuzustellenden Schriftstücks zu vermerken, handelt es sich um eine …
 - [BGH, Beschluss vom 06.03.2023 - VIII ZB 61/22](viii-zb-61-22.md) — BGH, Beschluss VIII ZB 61/22
-- [BGH, Beschluss vom 21.02.2023 - VIII ZB 17/22](viii-zb-17-22.md) — 1. Zum Vorliegen eines stillschweigend gestellten Antrags auf Wiedereinsetzung in den vorigen Stand (im Anschluss an Senatsbeschluss vom 8. März 2022 - VIII ZB 
-- [BGH, Beschluss vom 21.02.2023 - VIII ZB 75/22](viii-zb-75-22.md) — Zur Einheitlichkeit eines Rechtsmittels trotz Einreichung von Berufungsschriften bei verschiedenen Gerichten (im Anschluss an BGH, Urteil vom 29. Juni 1966 - IV
+- [BGH, Beschluss vom 21.02.2023 - VIII ZB 17/22](viii-zb-17-22.md) — 1. Zum Vorliegen eines stillschweigend gestellten Antrags auf Wiedereinsetzung in den vorigen Stand (im Anschluss an Senatsbeschluss vom 8. März 2022 - VIII ZB 96/20, NJW-RR 2022 …
+- [BGH, Beschluss vom 21.02.2023 - VIII ZB 75/22](viii-zb-75-22.md) — Zur Einheitlichkeit eines Rechtsmittels trotz Einreichung von Berufungsschriften bei verschiedenen Gerichten (im Anschluss an BGH, Urteil vom 29. Juni 1966 - IV ZR 86/65, BGHZ 45 …
 - [BGH, Beschluss vom 15.02.2023 - VIII ZA 15/22](viii-za-15-22.md) — BGH, Beschluss VIII ZA 15/22
 - [BGH, Beschluss vom 14.02.2023 - VIII ZR 268/21](viii-zr-268-21.md) — BGH, Beschluss VIII ZR 268/21
 - [BGH, Urteil vom 08.02.2023 - VIII ZR 65/22](viii-zr-65-22.md) — BGH, Urteil VIII ZR 65/22
-- [BGH, Beschluss vom 07.02.2023 - VIII ZB 55/21](viii-zb-55-21.md) — Nach § 520 Abs. 2 Satz 3 ZPO kann auch einem wiederholten Antrag auf Verlängerung der Berufungsbegründungsfrist ohne Einwilligung des Gegners stattgegeben werde
+- [BGH, Beschluss vom 07.02.2023 - VIII ZB 55/21](viii-zb-55-21.md) — Nach § 520 Abs. 2 Satz 3 ZPO kann auch einem wiederholten Antrag auf Verlängerung der Berufungsbegründungsfrist ohne Einwilligung des Gegners stattgegeben werden, solange dadurch …
 - [BGH, Beschluss vom 31.01.2023 - VIII ZA 27/22](viii-za-27-22.md) — Voraussetzungen der einstweiligen Einstellung der Räumungsvollstreckung durch das Revisionsgericht
-- [BGH, Urteil vom 25.01.2023 - VIII ZR 230/21](viii-zr-230-21.md) — 1. Wurde ein die Betriebskosten auslösender Dienstleistungsvertrag bereits vor Abschluss des Wohnraummietvertrags geschlossen, kann eine mögliche Verletzung des
-- [BGH, Urteil vom 25.01.2023 - VIII ZR 29/22](viii-zr-29-22.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil 
+- [BGH, Urteil vom 25.01.2023 - VIII ZR 230/21](viii-zr-230-21.md) — 1. Wurde ein die Betriebskosten auslösender Dienstleistungsvertrag bereits vor Abschluss des Wohnraummietvertrags geschlossen, kann eine mögliche Verletzung des …
+- [BGH, Urteil vom 25.01.2023 - VIII ZR 29/22](viii-zr-29-22.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil vom 20. Juli 2022 - …
 - [BGH, Beschluss vom 24.01.2023 - VIII ZR 223/21](viii-zr-223-21.md) — Wohnraummiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten bei vorliegendem einfachen Mietspiegel)
 - [BGH, Urteil vom 18.01.2023 - VIII ZR 356/21](viii-zr-356-21.md) — BGH, Urteil VIII ZR 356/21
 - [BGH, Urteil vom 18.01.2023 - VIII ZR 357/21](viii-zr-357-21.md) — BGH, Urteil VIII ZR 357/21
 - [BGH, Beschluss vom 17.01.2023 - VIII ZR 212/21](viii-zr-212-21.md) — BGH, Beschluss VIII ZR 212/21
-- [BGH, Beschluss vom 10.01.2023 - VIII ZB 41/22](viii-zb-41-22.md) — Zur Frage des Verschuldens eines Rechtsanwalts an einem Fristversäumnis - hier Berufungseinlegung - bei Nichtbeachtung der Pflicht zur elektronischen Übermittlu
+- [BGH, Beschluss vom 10.01.2023 - VIII ZB 41/22](viii-zb-41-22.md) — Zur Frage des Verschuldens eines Rechtsanwalts an einem Fristversäumnis - hier Berufungseinlegung - bei Nichtbeachtung der Pflicht zur elektronischen Übermittlung eines …
 - [BGH, Beschluss vom 10.01.2023 - VIII ZR 146/22](viii-zr-146-22.md) — BGH, Beschluss VIII ZR 146/22
-- [BGH, Beschluss vom 10.01.2023 - VIII ZR 9/21](viii-zr-9-21.md) — 1. Zur Verletzung des Anspruchs der Partei auf rechtliches Gehör gemäß Art. 103 Abs. 1 GG durch überspannte Substantiierungsanforderungen hinsichtlich des zur D
+- [BGH, Beschluss vom 10.01.2023 - VIII ZR 9/21](viii-zr-9-21.md) — 1. Zur Verletzung des Anspruchs der Partei auf rechtliches Gehör gemäß Art. 103 Abs. 1 GG durch überspannte Substantiierungsanforderungen hinsichtlich des zur Darlegung einer …

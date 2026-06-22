@@ -7,7 +7,7 @@
 - [BGH, Beschluss vom 18.12.2002 - 2 StR 477/02](2-str-477-02.md) — Totschlags u.a.
 - [BGH, Beschluss vom 11.12.2002 - 2 ARs 372/02](2-ars-372-02.md) — Beleidigung
 - [BGH, Beschluss vom 11.12.2002 - 2 ARs 373/02](2-ars-373-02.md) — Verdachts des Betruges u.a. Az.: 3 Gs 2083/02 Amtsgericht Az.: 9 UJs 53292/02 Staatsanwaltschaft
-- [BGH, Entscheidung vom 11.12.2002 - 2 StR 400/02](2-str-400-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 11.12.2002 - 2 StR 400/02](2-str-400-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 11.12.2002 - 2 StR 455/02](2-str-455-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Beschluss vom 04.12.2002 - 2 ARs 302/02](2-ars-302-02.md) — Totschlags Az.: 14 Js 27/00 11 Ks Landgericht Darmstadt
 - [BGH, Beschluss vom 04.12.2002 - 2 StR 410/02](2-str-410-02.md) — Vergewaltigung u.a.
@@ -25,7 +25,7 @@
 - [BGH, Beschluss vom 07.08.2002 - 2 StR 196/02](2-str-196-02.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 07.08.2002 - 2 StR 250/02](2-str-250-02.md) — sexueller Nötigung u.a.
 - [BGH, Beschluss vom 24.07.2002 - 2 StR 267/02](2-str-267-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
-- [BGH, Entscheidung vom 26.06.2002 - 2 StR 175/02](2-str-175-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 26.06.2002 - 2 StR 175/02](2-str-175-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 19.06.2002 - 2 ARs 47/02](2-ars-47-02.md) — Mordes handelt es sich um eine Entscheidung im Sinne des § 1 NS-AufhG vom 25. August 1998 (BGBl. I 2501), da die politisch begründete, offen
 - [BGH, Beschluss vom 19.06.2002 - 2 StR 120/02](2-str-120-02.md) — Raubes u.a.
 - [BGH, Beschluss vom 19.06.2002 - 2 StR 191/02](2-str-191-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.

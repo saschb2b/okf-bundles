@@ -2,74 +2,74 @@
 
 71 Entscheidung(en).
 
-- [BGH, Urteil vom 17.12.2025 - VIII ZR 56/25](viii-zr-56-25.md) — Auf die Vereinbarung einer reduzierten Miete während eines laufenden Mietverhältnisses finden die Regelungen über die Miethöhe bei Mietbeginn in Gebieten mit an
-- [BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25](viii-zb-17-25.md) — Zu den Anforderungen an die Glaubhaftmachung der vorübergehenden Unmöglichkeit der Einreichung eines Schriftsatzes - hier: Berufungsbegründung - als elektronisc
-- [BGH, Beschluss vom 02.12.2025 - VIII ZR 274/23](viii-zr-274-23.md) — Rechtsfolgen mieterseitiger baulicher Veränderungen an einer Wohnung ohne Vermieterzustimmung im Langzeitmietverhältnis; Voraussetzung des berechtigten Interess
+- [BGH, Urteil vom 17.12.2025 - VIII ZR 56/25](viii-zr-56-25.md) — Auf die Vereinbarung einer reduzierten Miete während eines laufenden Mietverhältnisses finden die Regelungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten …
+- [BGH, Beschluss vom 02.12.2025 - VIII ZB 17/25](viii-zb-17-25.md) — Zu den Anforderungen an die Glaubhaftmachung der vorübergehenden Unmöglichkeit der Einreichung eines Schriftsatzes - hier: Berufungsbegründung - als elektronisches Dokument aus …
+- [BGH, Beschluss vom 02.12.2025 - VIII ZR 274/23](viii-zr-274-23.md) — Rechtsfolgen mieterseitiger baulicher Veränderungen an einer Wohnung ohne Vermieterzustimmung im Langzeitmietverhältnis; Voraussetzung des berechtigten Interesses für eine …
 - [BGH, Beschluss vom 18.11.2025 - VIII ZR 174/25](viii-zr-174-25.md) — Kostenentscheidung nach übereinstimmender Erledigungserklärung im Revisionsverfahren eines Mietrechtsstreites
 - [BGH, Beschluss vom 11.11.2025 - VIII ZB 68/25](viii-zb-68-25.md) — BGH, Beschluss VIII ZB 68/25
 - [BGH, Beschluss vom 11.11.2025 - VIII ZR 75/25](viii-zr-75-25.md) — Revisionsverfahren: Rüge der unzureichenden Prozesskostensicherheitsleistung
 - [BGH, Beschluss vom 06.11.2025 - VIII ZB 31/21](viii-zb-31-21.md) — BGH, Beschluss VIII ZB 31/21
 - [BGH, Beschluss vom 28.10.2025 - VIII ZB 8/25](viii-zb-8-25.md) — BGH, Beschluss VIII ZB 8/25
 - [BGH, Beschluss vom 28.10.2025 - VIII ZR 165/24](viii-zr-165-24.md) — Gerichtskosten: Niederschlagung der Kosten bei Einlegung der Revision durch einen nicht am BGH zugelassenen Rechtsanwalt
-- [BGH, Beschluss vom 28.10.2025 - VIII ZR 17/25](viii-zr-17-25.md) — Zur Verletzung des Anspruchs eines Mieters auf Gewährung rechtlichen Gehörs (Art. 103 Abs. 1 GG) im Falle der Geltendmachung einer unzumutbaren Härte im Sinne v
+- [BGH, Beschluss vom 28.10.2025 - VIII ZR 17/25](viii-zr-17-25.md) — Zur Verletzung des Anspruchs eines Mieters auf Gewährung rechtlichen Gehörs (Art. 103 Abs. 1 GG) im Falle der Geltendmachung einer unzumutbaren Härte im Sinne von § 574 Abs. 1 …
 - [BGH, Beschluss vom 28.10.2025 - VIII ZR 257/24](viii-zr-257-24.md) — BGH, Beschluss VIII ZR 257/24
 - [BGH, Beschluss vom 28.10.2025 - VIII ZR 5/25](viii-zr-5-25.md) — Nichtzulassungsbeschwerde: Zulässigkeit einer Anhörungsrüge
-- [BGH, Urteil vom 15.10.2025 - VIII ZR 51/24](viii-zr-51-24.md) — Ein Gericht ist nicht ordnungsgemäß besetzt, wenn es seine Zuständigkeit aus einem Präsidiumsbeschluss ableitet, der im Einzelfall sowohl die Neuverteilung als 
-- [BGH, Beschluss vom 14.10.2025 - VIII ZR 114/25](viii-zr-114-25.md) — Anforderungen an die Beiordnung eines Notanwalts und die Wiedereinsetzung in den vorigen Stand nach mehrfacher Mandatsniederlegung im Nichtzulassungsbeschwerdev
-- [BGH, Urteil vom 08.10.2025 - VIII ZR 18/24](viii-zr-18-24.md) — Auch die Veräußerung von vermieteten Wohnräumen, an denen nach der Überlassung an den Mieter Wohnungseigentum begründet worden ist oder begründet werden soll, a
-- [BGH, Beschluss vom 07.10.2025 - VIII ZB 21/25](viii-zb-21-25.md) — Zu den Anforderungen an die Glaubhaftmachung der vorübergehenden Unmöglichkeit der Einreichung eines Schriftsatzes - hier: Berufungsbegründung - als elektronisc
+- [BGH, Urteil vom 15.10.2025 - VIII ZR 51/24](viii-zr-51-24.md) — Ein Gericht ist nicht ordnungsgemäß besetzt, wenn es seine Zuständigkeit aus einem Präsidiumsbeschluss ableitet, der im Einzelfall sowohl die Neuverteilung als auch die …
+- [BGH, Beschluss vom 14.10.2025 - VIII ZR 114/25](viii-zr-114-25.md) — Anforderungen an die Beiordnung eines Notanwalts und die Wiedereinsetzung in den vorigen Stand nach mehrfacher Mandatsniederlegung im Nichtzulassungsbeschwerdeverfahren
+- [BGH, Urteil vom 08.10.2025 - VIII ZR 18/24](viii-zr-18-24.md) — Auch die Veräußerung von vermieteten Wohnräumen, an denen nach der Überlassung an den Mieter Wohnungseigentum begründet worden ist oder begründet werden soll, an eine …
+- [BGH, Beschluss vom 07.10.2025 - VIII ZB 21/25](viii-zb-21-25.md) — Zu den Anforderungen an die Glaubhaftmachung der vorübergehenden Unmöglichkeit der Einreichung eines Schriftsatzes - hier: Berufungsbegründung - als elektronisches Dokument aus …
 - [BGH, Beschluss vom 07.10.2025 - VIII ZR 11/24](viii-zr-11-24.md) — Berechtigtes Interesse an Untervermietung nach Auszug einzelner Personen
 - [BGH, Beschluss vom 07.10.2025 - VIII ZR 308/24](viii-zr-308-24.md) — Wert der Beschwer bei Klage aufgrund selbständiger Garantie auf Schadloshaltung für Mietausfall
 - [BGH, Beschluss vom 29.09.2025 - VIII ZB 31/25](viii-zb-31-25.md) — BGH, Beschluss VIII ZB 31/25
 - [BGH, Beschluss vom 29.09.2025 - VIII ZR 122/24](viii-zr-122-24.md) — BGH, Beschluss VIII ZR 122/24
 - [BGH, Beschluss vom 29.09.2025 - VIII ZR 193/24](viii-zr-193-24.md) — BGH, Beschluss VIII ZR 193/24
-- [BGH, Beschluss vom 24.09.2025 - VIII ZB 34/24](viii-zb-34-24.md) — 1. Zur Frage des Wegfalls der Kausalität eines Anwaltsverschuldens bei der Postausgangskontrolle wegen unterlassener Weiterleitung des Schriftsatzes - hier: Ber
-- [BGH, Urteil vom 24.09.2025 - VIII ZR 289/23](viii-zr-289-23.md) — Zur Frage des Vorliegens von Eigenbedarf gemäß § 573 Abs. 2 Nr. 2 BGB, wenn der im selben Haus wie der Mieter wohnende Vermieter beabsichtigt, die eigene Wohnun
-- [BGH, Beschluss vom 16.09.2025 - VIII ZB 25/25](viii-zb-25-25.md) — Zur Formwirksamkeit der Einreichung eines nicht-qualifiziert elektronisch signierten Schriftsatzes über das besondere elektronische Anwaltspostfach einer prozes
+- [BGH, Beschluss vom 24.09.2025 - VIII ZB 34/24](viii-zb-34-24.md) — 1. Zur Frage des Wegfalls der Kausalität eines Anwaltsverschuldens bei der Postausgangskontrolle wegen unterlassener Weiterleitung des Schriftsatzes - hier: Berufungsbegründung - …
+- [BGH, Urteil vom 24.09.2025 - VIII ZR 289/23](viii-zr-289-23.md) — Zur Frage des Vorliegens von Eigenbedarf gemäß § 573 Abs. 2 Nr. 2 BGB, wenn der im selben Haus wie der Mieter wohnende Vermieter beabsichtigt, die eigene Wohnung baulich zu …
+- [BGH, Beschluss vom 16.09.2025 - VIII ZB 25/25](viii-zb-25-25.md) — Zur Formwirksamkeit der Einreichung eines nicht-qualifiziert elektronisch signierten Schriftsatzes über das besondere elektronische Anwaltspostfach einer prozessbevollmächtigten …
 - [BGH, Beschluss vom 09.09.2025 - VIII ZA 6/25](viii-za-6-25.md) — BGH, Beschluss VIII ZA 6/25
-- [BGH, Beschluss vom 26.08.2025 - VIII ZR 262/24](viii-zr-262-24.md) — Das Gericht verletzt den Anspruch des auf Räumung verklagten Mieters auf Gewährung rechtlichen Gehörs (Art. 103 Abs. 1 GG), wenn es das Vorliegen der geltend ge
+- [BGH, Beschluss vom 26.08.2025 - VIII ZR 262/24](viii-zr-262-24.md) — Das Gericht verletzt den Anspruch des auf Räumung verklagten Mieters auf Gewährung rechtlichen Gehörs (Art. 103 Abs. 1 GG), wenn es das Vorliegen der geltend gemachten …
 - [BGH, Beschluss vom 20.08.2025 - VIII ZR 129/24](viii-zr-129-24.md) — BGH, Beschluss VIII ZR 129/24
-- [BGH, Urteil vom 06.08.2025 - VIII ZR 161/24](viii-zr-161-24.md) — 1. Die Veräußerung vermieteten Wohnraums an eine Personenhandelsgesellschaft (hier: GmbH & Co. KG) löst nicht die in der Vorschrift des § 577a Abs. 1a Satz 1 Nr
-- [BGH, Urteil vom 06.08.2025 - VIII ZR 250/23](viii-zr-250-23.md) — Zur Haftung eines vermietenden Wohnungseigentümers für Schäden, die der Mieter durch einen Sturz bei Eisglätte unter Verletzung der Räum- und Streupflicht auf e
+- [BGH, Urteil vom 06.08.2025 - VIII ZR 161/24](viii-zr-161-24.md) — 1. Die Veräußerung vermieteten Wohnraums an eine Personenhandelsgesellschaft (hier: GmbH & Co. KG) löst nicht die in der Vorschrift des § 577a Abs. 1a Satz 1 Nr. 1 BGB geregelte …
+- [BGH, Urteil vom 06.08.2025 - VIII ZR 250/23](viii-zr-250-23.md) — Zur Haftung eines vermietenden Wohnungseigentümers für Schäden, die der Mieter durch einen Sturz bei Eisglätte unter Verletzung der Räum- und Streupflicht auf einem Weg erlitten …
 - [BGH, Beschluss vom 05.08.2025 - VIII ZA 7/24](viii-za-7-24.md) — BGH, Beschluss VIII ZA 7/24
-- [BGH, Urteil vom 23.07.2025 - VIII ZR 240/24](viii-zr-240-24.md) — Enthält ein Kaufvertrag über einen Oldtimer im Zusammenhang mit der Beschreibung des Erhaltungszustands die Angabe einer Zustandsnote, ist im Hinblick auf die e
+- [BGH, Urteil vom 23.07.2025 - VIII ZR 240/24](viii-zr-240-24.md) — Enthält ein Kaufvertrag über einen Oldtimer im Zusammenhang mit der Beschreibung des Erhaltungszustands die Angabe einer Zustandsnote, ist im Hinblick auf die erhebliche …
 - [BGH, Urteil vom 23.07.2025 - VIII ZR 287/23](viii-zr-287-23.md) — Wohnraummiete: Unwirksamkeit der ordentlichen Kündigung wegen Zahlungsverzugs nach Schonfristzahlung des Mieters
-- [BGH, Beschluss vom 15.07.2025 - VIII ZB 69/24](viii-zb-69-24.md) — Ein rechtliches Interesse gemäß § 485 Abs. 2 ZPO an der Feststellung der ortsüblichen Vergleichsmiete im Sinne von § 558 Abs. 2 Satz 1 BGB oder an der Feststell
-- [BGH, Beschluss vom 08.07.2025 - VIII ZB 12/25](viii-zb-12-25.md) — 1. Ein Prozessbevollmächtigter, der eine Rechtsmittel- oder eine Rechtsmittelbegründungsschrift gemäß § 130a Abs. 3 Satz 1 Halbs. 2 BGB einfach signiert und auf
+- [BGH, Beschluss vom 15.07.2025 - VIII ZB 69/24](viii-zb-69-24.md) — Ein rechtliches Interesse gemäß § 485 Abs. 2 ZPO an der Feststellung der ortsüblichen Vergleichsmiete im Sinne von § 558 Abs. 2 Satz 1 BGB oder an der Feststellung von …
+- [BGH, Beschluss vom 08.07.2025 - VIII ZB 12/25](viii-zb-12-25.md) — 1. Ein Prozessbevollmächtigter, der eine Rechtsmittel- oder eine Rechtsmittelbegründungsschrift gemäß § 130a Abs. 3 Satz 1 Halbs. 2 BGB einfach signiert und auf einem sicheren …
 - [BGH, Beschluss vom 25.06.2025 - VIII ZB 45/24](viii-zb-45-24.md) — BGH, Beschluss VIII ZB 45/24
 - [BGH, Beschluss vom 24.06.2025 - VIII ZB 19/25](viii-zb-19-25.md) — BGH, Beschluss VIII ZB 19/25
-- [BGH, Urteil vom 18.06.2025 - VIII ZR 219/23](viii-zr-219-23.md) — 1. Zur Frage des bei Geltung des Vollmachtsstatuts anwendbaren Rechts bei einem unter Einschaltung eines Stellvertreters zustande gekommenen Kaufvertrag, der mi
-- [BGH, Urteil vom 18.06.2025 - VIII ZR 291/23](viii-zr-291-23.md) — 1. Die Mietsache wird dem Vermieter dann im Sinne des § 546a Abs. 1 BGB nach Beendigung des Mietverhältnisses vorenthalten, wenn - kumulativ - der Mieter die Mi
-- [BGH, Beschluss vom 17.06.2025 - VIII ZB 54/24](viii-zb-54-24.md) — 1. Zu den von einem Rechtsanwalt zu treffenden organisatorischen Vorkehrungen zur Vermeidung möglicher Fristversäumnisse - hier: auf die Eintragung in den Frist
+- [BGH, Urteil vom 18.06.2025 - VIII ZR 219/23](viii-zr-219-23.md) — 1. Zur Frage des bei Geltung des Vollmachtsstatuts anwendbaren Rechts bei einem unter Einschaltung eines Stellvertreters zustande gekommenen Kaufvertrag, der mit Blick auf den …
+- [BGH, Urteil vom 18.06.2025 - VIII ZR 291/23](viii-zr-291-23.md) — 1. Die Mietsache wird dem Vermieter dann im Sinne des § 546a Abs. 1 BGB nach Beendigung des Mietverhältnisses vorenthalten, wenn - kumulativ - der Mieter die Mietsache nicht …
+- [BGH, Beschluss vom 17.06.2025 - VIII ZB 54/24](viii-zb-54-24.md) — 1. Zu den von einem Rechtsanwalt zu treffenden organisatorischen Vorkehrungen zur Vermeidung möglicher Fristversäumnisse - hier: auf die Eintragung in den Fristenkalender …
 - [BGH, Beschluss vom 06.06.2025 - VIII ZR 265/24](viii-zr-265-24.md) — BGH, Beschluss VIII ZR 265/24
 - [BGH, Beschluss vom 03.06.2025 - VIII ZA 17/24](viii-za-17-24.md) — BGH, Beschluss VIII ZA 17/24
 - [BGH, Beschluss vom 03.06.2025 - VIII ZB 42/25](viii-zb-42-25.md) — Zulässigkeit einer Beschwerde gegen einstweilige Einstellung der Zwangsvollstreckung zurückweisenden Beschluss
 - [BGH, Beschluss vom 03.06.2025 - VIII ZB 62/24](viii-zb-62-24.md) — BGH, Beschluss VIII ZB 62/24
-- [BGH, Urteil vom 21.05.2025 - VIII ZR 201/23](viii-zr-201-23.md) — 1. In analoger Anwendung des § 577 Abs. 1 Satz 1 BGB kann auch dann ein Vorkaufsrecht des Mieters entstehen, wenn anstelle von Wohnungseigentum Teileigentum an 
-- [BGH, Beschluss vom 20.05.2025 - VIII ZR 137/24](viii-zr-137-24.md) — Zur Gehörsverletzung bei vom Berufungsgericht angenommener Bindung an widersprüchliche Feststellungen des erstinstanzlichen Gerichts (im Anschluss an BGH, Besch
+- [BGH, Urteil vom 21.05.2025 - VIII ZR 201/23](viii-zr-201-23.md) — 1. In analoger Anwendung des § 577 Abs. 1 Satz 1 BGB kann auch dann ein Vorkaufsrecht des Mieters entstehen, wenn anstelle von Wohnungseigentum Teileigentum an zu Wohnzwecken …
+- [BGH, Beschluss vom 20.05.2025 - VIII ZR 137/24](viii-zr-137-24.md) — Zur Gehörsverletzung bei vom Berufungsgericht angenommener Bindung an widersprüchliche Feststellungen des erstinstanzlichen Gerichts (im Anschluss an BGH, Beschluss vom 19. März …
 - [BGH, Beschluss vom 20.05.2025 - VIII ZR 24/24](viii-zr-24-24.md) — BGH, Beschluss VIII ZR 24/24
-- [BGH, Urteil vom 14.05.2025 - VIII ZR 256/23](viii-zr-256-23.md) — Ist ein Mieter mit der Leistung einer als Mietsicherheit (§ 551 BGB) vereinbarten Bankbürgschaft im Verzug, kann der Vermieter das Mietverhältnis nicht nach § 5
-- [BGH, Urteil vom 16.04.2025 - VIII ZR 270/22](viii-zr-270-22.md) — 1. Der erforderliche hinreichend substantiierte Sachvortrag des Mieters zu einer gesundheitlichen Härte im Sinne von § 574 Abs. 1 Satz 1 BGB kann insbesondere -
+- [BGH, Urteil vom 14.05.2025 - VIII ZR 256/23](viii-zr-256-23.md) — Ist ein Mieter mit der Leistung einer als Mietsicherheit (§ 551 BGB) vereinbarten Bankbürgschaft im Verzug, kann der Vermieter das Mietverhältnis nicht nach § 569 Abs. 2a BGB …
+- [BGH, Urteil vom 16.04.2025 - VIII ZR 270/22](viii-zr-270-22.md) — 1. Der erforderliche hinreichend substantiierte Sachvortrag des Mieters zu einer gesundheitlichen Härte im Sinne von § 574 Abs. 1 Satz 1 BGB kann insbesondere - muss aber nicht …
 - [BGH, Urteil vom 09.04.2025 - VIII ZR 145/24](viii-zr-145-24.md) — Wohnraummiete: Wirksamkeit der außerordentlichen und ordentlichen Kündigung wegen Zahlungsverzugs bei anschließender Schonfristzahlung
 - [BGH, Beschluss vom 08.04.2025 - VIII ZR 143/24](viii-zr-143-24.md) — BGH, Beschluss VIII ZR 143/24
 - [BGH, Beschluss vom 08.04.2025 - VIII ZR 245/22](viii-zr-245-22.md) — Wohnraummietvertrag: Anforderungen an das Aushandeln einer Quotenabgeltungsklausel
-- [BGH, Urteil vom 26.03.2025 - VIII ZR 152/23](viii-zr-152-23.md) — Zum kollusiven Zusammenwirken im Sinne von § 138 Abs. 1 BGB zwischen dem Vertreter des Vermieters (hier: dem Geschäftsführer einer Gesellschaft mit beschränkter
-- [BGH, Versäumnisurteil vom 26.03.2025 - VIII ZR 280/23](viii-zr-280-23.md) — Zur Feststellung der nachhaltigen Einsparung von Endenergie bei einer energetischen Modernisierung der Mietsache (§ 555b Nr. 1 BGB; im Anschluss an Senatsurteil
-- [BGH, Versäumnisurteil vom 26.03.2025 - VIII ZR 281/23](viii-zr-281-23.md) — Zur Feststellung der nachhaltigen Einsparung von Endenergie bei einer energetischen Modernisierung der Mietsache (§ 555b Nr. 1 BGB; im Anschluss an Senatsurteil
-- [BGH, Versäumnisurteil vom 26.03.2025 - VIII ZR 282/23](viii-zr-282-23.md) — Zur Feststellung der nachhaltigen Einsparung von Endenergie bei einer energetischen Modernisierung der Mietsache (§ 555b Nr. 1 BGB; im Anschluss an Senatsurteil
-- [BGH, Versäumnisurteil vom 26.03.2025 - VIII ZR 283/23](viii-zr-283-23.md) — Der Vermieter einer Wohnung kann eine Mieterhöhung gemäß § 559 Abs. 1 BGB aF in Verbindung mit § 555b Nr. 1 BGB (energetische Modernisierung) verlangen, wenn na
+- [BGH, Urteil vom 26.03.2025 - VIII ZR 152/23](viii-zr-152-23.md) — Zum kollusiven Zusammenwirken im Sinne von § 138 Abs. 1 BGB zwischen dem Vertreter des Vermieters (hier: dem Geschäftsführer einer Gesellschaft mit beschränkter Haftung) und dem …
+- [BGH, Versäumnisurteil vom 26.03.2025 - VIII ZR 280/23](viii-zr-280-23.md) — Zur Feststellung der nachhaltigen Einsparung von Endenergie bei einer energetischen Modernisierung der Mietsache (§ 555b Nr. 1 BGB; im Anschluss an Senatsurteil vom heutigen Tag - …
+- [BGH, Versäumnisurteil vom 26.03.2025 - VIII ZR 281/23](viii-zr-281-23.md) — Zur Feststellung der nachhaltigen Einsparung von Endenergie bei einer energetischen Modernisierung der Mietsache (§ 555b Nr. 1 BGB; im Anschluss an Senatsurteil vom heutigen Tag - …
+- [BGH, Versäumnisurteil vom 26.03.2025 - VIII ZR 282/23](viii-zr-282-23.md) — Zur Feststellung der nachhaltigen Einsparung von Endenergie bei einer energetischen Modernisierung der Mietsache (§ 555b Nr. 1 BGB; im Anschluss an Senatsurteil vom heutigen Tag - …
+- [BGH, Versäumnisurteil vom 26.03.2025 - VIII ZR 283/23](viii-zr-283-23.md) — Der Vermieter einer Wohnung kann eine Mieterhöhung gemäß § 559 Abs. 1 BGB aF in Verbindung mit § 555b Nr. 1 BGB (energetische Modernisierung) verlangen, wenn nach dem Abschluss …
 - [BGH, Beschluss vom 11.03.2025 - VIII ZA 19/24](viii-za-19-24.md) — BGH, Beschluss VIII ZA 19/24
 - [BGH, Beschluss vom 25.02.2025 - VIII ZR 12/24](viii-zr-12-24.md) — BGH, Beschluss VIII ZR 12/24
-- [BGH, Urteil vom 19.02.2025 - VIII ZR 138/23](viii-zr-138-23.md) — 1. Für das Vorliegen eines nach § 249 Abs. 1 BGB ersatzfähigen Schadens in Gestalt der Belastung mit einer Verbindlichkeit gegenüber einem Dritten kommt es grun
+- [BGH, Urteil vom 19.02.2025 - VIII ZR 138/23](viii-zr-138-23.md) — 1. Für das Vorliegen eines nach § 249 Abs. 1 BGB ersatzfähigen Schadens in Gestalt der Belastung mit einer Verbindlichkeit gegenüber einem Dritten kommt es grundsätzlich nicht auf …
 - [BGH, Beschluss vom 18.02.2025 - VIII ZB 67/24](viii-zb-67-24.md) — BGH, Beschluss VIII ZB 67/24
 - [BGH, Beschluss vom 18.02.2025 - VIII ZR 149/23](viii-zr-149-23.md) — Anforderungen an die Anhörungsrüge im Nichtzulassungsbeschwerdeverfahren
 - [BGH, Beschluss vom 18.02.2025 - VIII ZR 57/23](viii-zr-57-23.md) — BGH, Beschluss VIII ZR 57/23
 - [BGH, Beschluss vom 11.02.2025 - VIII ZA 16/24](viii-za-16-24.md) — BGH, Beschluss VIII ZA 16/24
 - [BGH, Beschluss vom 11.02.2025 - VIII ZB 60/24](viii-zb-60-24.md) — BGH, Beschluss VIII ZB 60/24
-- [BGH, Beschluss vom 11.02.2025 - VIII ZB 65/23](viii-zb-65-23.md) — Zu den Anforderungen an die Ausgangskontrolle bei der Versendung fristgebundener Schriftsätze - hier: Berufungsbegründung - über das besondere elektronische Anw
-- [BGH, Beschluss vom 11.02.2025 - VIII ZR 300/23](viii-zr-300-23.md) — Zum Adressaten der in der Bereitstellung von Strom und Gas liegenden Realofferten eines Versorgungsunternehmens im Fall der separaten Vermietung einzelner Zimme
+- [BGH, Beschluss vom 11.02.2025 - VIII ZB 65/23](viii-zb-65-23.md) — Zu den Anforderungen an die Ausgangskontrolle bei der Versendung fristgebundener Schriftsätze - hier: Berufungsbegründung - über das besondere elektronische Anwaltspostfach (im …
+- [BGH, Beschluss vom 11.02.2025 - VIII ZR 300/23](viii-zr-300-23.md) — Zum Adressaten der in der Bereitstellung von Strom und Gas liegenden Realofferten eines Versorgungsunternehmens im Fall der separaten Vermietung einzelner Zimmer einer Wohnung …
 - [BGH, Beschluss vom 05.02.2025 - VIII ZA 17/23](viii-za-17-23.md) — BGH, Beschluss VIII ZA 17/23
 - [BGH, Beschluss vom 28.01.2025 - VIII ZB 39/24](viii-zb-39-24.md) — Herausgabe einer Mietwohnung: Zulässigkeit des rechtsgeschäftlichen Verzichts auf den Antrag auf Bewilligung oder Verlängerung einer Räumungsfrist
 - [BGH, Beschluss vom 23.01.2025 - VIII ZR 127/24](viii-zr-127-24.md) — BGH, Beschluss VIII ZR 127/24
 - [BGH, Beschluss vom 14.01.2025 - VIII ZR 100/24](viii-zr-100-24.md) — Handelskauf: Beginn der Rügefrist bei Nichtübergabe der vertraglich vereinbarten Betriebsanleitung für eine gelieferte Maschine; Gehörsverletzung
-- [BGH, Beschluss vom 08.01.2025 - VIII ZR 100/22](viii-zr-100-22.md) — Gegenstandswertfestsetzung für anwaltliche Tätigkeit: Fehlen der Gegenstandsgleichheit bei selbständig nebeneinander stehenden inhaltsgleichen Streitgegenstände
+- [BGH, Beschluss vom 08.01.2025 - VIII ZR 100/22](viii-zr-100-22.md) — Gegenstandswertfestsetzung für anwaltliche Tätigkeit: Fehlen der Gegenstandsgleichheit bei selbständig nebeneinander stehenden inhaltsgleichen Streitgegenständen

@@ -67,7 +67,7 @@
 - [BGH, Beschluss vom 15.01.2026 - 2 StR 677/25](2-str-677-25.md) — BGH, Beschluss 2 StR 677/25
 - [BGH, Beschluss vom 15.01.2026 - 2 StR 680/25](2-str-680-25.md) — BGH, Beschluss 2 StR 680/25
 - [BGH, Beschluss vom 14.01.2026 - 2 ARs 468/25](2-ars-468-25.md) — BGH, Beschluss 2 ARs 468/25
-- [BGH, Urteil vom 14.01.2026 - 2 StR 132/25](2-str-132-25.md) — Bei Opium, das Rauchzwecken dient und dem kein Koffeinzusatz beigemischt ist, beginnt die „nicht geringe Menge“ im Sinne des § 29a Abs. 1 Nr. 2 BtMG bei 16 Gram
+- [BGH, Urteil vom 14.01.2026 - 2 StR 132/25](2-str-132-25.md) — Bei Opium, das Rauchzwecken dient und dem kein Koffeinzusatz beigemischt ist, beginnt die „nicht geringe Menge“ im Sinne des § 29a Abs. 1 Nr. 2 BtMG bei 16 Gramm Morphinbase.
 - [BGH, Beschluss vom 14.01.2026 - 2 StR 169/25](2-str-169-25.md) — BGH, Beschluss 2 StR 169/25
 - [BGH, Beschluss vom 14.01.2026 - 2 StR 267/25](2-str-267-25.md) — BGH, Beschluss 2 StR 267/25
 - [BGH, Urteil vom 14.01.2026 - 2 StR 277/25](2-str-277-25.md) — Verdeckungsabsicht bei Unterlassen von Rettungsmaßnahmen nach Behandlungsfehler

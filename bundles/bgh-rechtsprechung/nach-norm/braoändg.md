@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BRAOÄndG"
 description: "BGH-Entscheidungen zu BRAOÄndG, geordnet nach Vorschrift."
 tags: [register, navigation, braoändg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

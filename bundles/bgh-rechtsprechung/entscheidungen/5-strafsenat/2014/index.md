@@ -2,21 +2,21 @@
 
 63 Entscheidung(en).
 
-- [BGH, Urteil vom 10.12.2014 - 5 StR 136/14](5-str-136-14.md) — Strafverfahren wegen Inverkehrbringens falsch gekennzeichneter und nicht zugelassener Arzneimittel: Erfordernis der Täuschungseignung der falschen Herkunftsanga
+- [BGH, Urteil vom 10.12.2014 - 5 StR 136/14](5-str-136-14.md) — Strafverfahren wegen Inverkehrbringens falsch gekennzeichneter und nicht zugelassener Arzneimittel: Erfordernis der Täuschungseignung der falschen Herkunftsangabe
 - [BGH, Urteil vom 10.12.2014 - 5 StR 405/13](5-str-405-13.md) — Strafbarkeit eines Apothekers wegen Betruges: Täuschungshandlung durch Verwendung von Importarzneimitteln bei patientenindividuellen Zytostatika-Zubereitungen
-- [BGH, Urteil vom 09.12.2014 - 5 StR 422/14](5-str-422-14.md) — Schmerzhafte anale Penetrationshandlungen gegenüber Kindern können eine körperlich schwere Misshandlung (§ 176a Abs. 5, § 177 Abs. 4 Nr. 2 Buchst. a StGB) darst
+- [BGH, Urteil vom 09.12.2014 - 5 StR 422/14](5-str-422-14.md) — Schmerzhafte anale Penetrationshandlungen gegenüber Kindern können eine körperlich schwere Misshandlung (§ 176a Abs. 5, § 177 Abs. 4 Nr. 2 Buchst. a StGB) darstellen.
 - [BGH, Beschluss vom 25.11.2014 - 5 StR 509/14](5-str-509-14.md) — Jugendstrafverfahren: Anordnung der Unterbringung eines alkoholkranken Jugendlichen in einer Entziehungsanstalt
 - [BGH, Beschluss vom 25.11.2014 - 5 StR 527/14](5-str-527-14.md) — Strafzumessung: Berücksichtigung der "Aufklärungshilfe" des Angeklagten in der zum Tatzeitpunkt geltenden Normfassung
 - [BGH, Beschluss vom 06.11.2014 - 5 StR 503/14](5-str-503-14.md) — Strafverfahren wegen Betäubungsmitteldelikt: Anwendung des Zweifelssatzes bei nicht konkret feststellbaren Tatzeitpunkten
 - [BGH, Vorlagebeschluss vom 05.11.2014 - 5 StR 107/14](5-str-107-14.md) — Strafbarkeit des gewerbsmäßigen Inverkehrbringens von zum Rauchen bestimmten Kräutermischungen
-- [BGH, Urteil vom 22.10.2014 - 5 StR 380/14](5-str-380-14.md) — 1. Niedrige Beweggründe bei außergewöhnlich brutalem, eklatant menschenverachtendem Tatbild. 2. Prüfung verminderter Steuerungsfähigkeit und Unterbringung im ps
+- [BGH, Urteil vom 22.10.2014 - 5 StR 380/14](5-str-380-14.md) — 1. Niedrige Beweggründe bei außergewöhnlich brutalem, eklatant menschenverachtendem Tatbild. 2. Prüfung verminderter Steuerungsfähigkeit und Unterbringung im psychiatrischen …
 - [BGH, Beschluss vom 21.10.2014 - 5 StR 296/14](5-str-296-14.md) — Ermüdung im Sinne von § 136a Abs. 1 Satz 1 StPO bei seelischer und körperlicher Erschöpfung.
 - [BGH, Beschluss vom 21.10.2014 - 5 StR 439/14](5-str-439-14.md) — (Unterbringung in einem psychiatrischen Krankenhaus: Gefahr der Begehung weiterer "Drogendelikte" als Unterbringungsgrund)
-- [BGH, Beschluss vom 20.10.2014 - 5 StR 176/14](5-str-176-14.md) — Regelmäßig keine notwendige Verteidigung im Ermittlungsverfahren schon vor einer verantwortlichen Vernehmung des Beschuldigten nach dessen Ergreifung aufgrund e
+- [BGH, Beschluss vom 20.10.2014 - 5 StR 176/14](5-str-176-14.md) — Regelmäßig keine notwendige Verteidigung im Ermittlungsverfahren schon vor einer verantwortlichen Vernehmung des Beschuldigten nach dessen Ergreifung aufgrund eines Haftbefehls …
 - [BGH, Urteil vom 08.10.2014 - 5 StR 395/14](5-str-395-14.md) — Strafverfahren wegen schweren räuberischen Diebstahls: Betroffensein des Angeklagten auf frischer Tat
 - [BGH, Beschluss vom 23.09.2014 - 5 StR 410/14](5-str-410-14.md) — Strafverfahren: Entschädigungsanspruch wegen rechtsstaatswidriger Verzögerung des Revisionsverfahrens; Wiedergutmachung auf andere Weise
 - [BGH, Beschluss vom 10.09.2014 - 5 StR 351/14](5-str-351-14.md) — Verständigung im Strafverfahren: Unzulässigkeit informeller Absprachen
-- [BGH, Urteil vom 09.09.2014 - 5 StR 200/14](5-str-200-14.md) — Verfallsanordnung im Strafverfahren wegen Beihilfe zur Bestechlichkeit: Notwendige Urteilsfeststellungen zu der konkreten Auswirkung der Anordnung des Verfalls 
+- [BGH, Urteil vom 09.09.2014 - 5 StR 200/14](5-str-200-14.md) — Verfallsanordnung im Strafverfahren wegen Beihilfe zur Bestechlichkeit: Notwendige Urteilsfeststellungen zu der konkreten Auswirkung der Anordnung des Verfalls von Wertersatz in …
 - [BGH, Beschluss vom 09.09.2014 - 5 StR 53/14](5-str-53-14.md) — Richterablehnung im Strafverfahren: Verwerfung eines Befangenheitsantrags durch einen hierfür nicht vorgesehenen Spruchkörper
 - [BGH, Beschluss vom 27.08.2014 - 5 StR 181/14](5-str-181-14.md) — Untreue: Einspeisen einer "schwarzen Kasse" mit überschießenden Geldbeträgen
 - [BGH, Urteil vom 26.08.2014 - 5 StR 185/14](5-str-185-14.md) — Geldwäsche: Gewerbsmäßige Untreue als taugliche Vortat; Beteiligung an der Vortat bei Tatbegehung im Ausland
@@ -27,14 +27,14 @@
 - [BGH, Beschluss vom 30.07.2014 - 5 StR 275/14](5-str-275-14.md) — Schwerer Raub: Anwendung der Regelstrafrahmens bei Vorliegen mehrerer Milderungsgründe
 - [BGH, Urteil vom 29.07.2014 - 5 StR 46/14](5-str-46-14.md) — Wirksamkeit des Strafantrags eines vom Amtsgericht bestellten Betreuers ohne ausdrückliche Erstreckung des Aufgabenkreises auf eine Strafantragstellung.
 - [BGH, Beschluss vom 16.07.2014 - 5 ARs 39/14](5-ars-39-14.md) — BGH, Beschluss 5 ARs 39/14
-- [BGH, Beschluss vom 16.07.2014 - 5 StR 154/14](5-str-154-14.md) — Schwerer Menschenhandel zum Zwecke der sexuellen Ausbeutung: Tatbestandsmerkmal "Zwangslage" bei Rekrutierung junger Ausländerinnen aus schlechten sozialen Verh
+- [BGH, Beschluss vom 16.07.2014 - 5 StR 154/14](5-str-154-14.md) — Schwerer Menschenhandel zum Zwecke der sexuellen Ausbeutung: Tatbestandsmerkmal "Zwangslage" bei Rekrutierung junger Ausländerinnen aus schlechten sozialen Verhältnissen
 - [BGH, Beschluss vom 16.07.2014 - 5 StR 290/14](5-str-290-14.md) — Stoffgleichheit zwischen Schaden und Vermögensvorteil beim Betrug; Rücktritt vom Versuch der gefährlichen Körperverletzung
 - [BGH, Beschluss vom 15.07.2014 - 5 StR 169/14](5-str-169-14.md) — Revision in Strafsachen: Revisionsgrund der unzulänglichen Mitteilung von Verständigungsgesprächen
 - [BGH, Beschluss vom 15.07.2014 - 5 StR 270/14](5-str-270-14.md) — Bundeszentralregister: Berechnung der Tilgungsfrist
 - [BGH, Beschluss vom 14.07.2014 - 5 StR 217/14](5-str-217-14.md) — Strafverfahren: Umfang der Pflichtmitteilung über verständigungsbezogene Erörterungen
 - [BGH, Beschluss vom 02.07.2014 - 5 StR 182/14](5-str-182-14.md) — Untreue: Rechtsfigur des persönlichen Schadenseinschlags
 - [BGH, Urteil vom 01.07.2014 - 5 StR 134/14](5-str-134-14.md) — Minder schwerer Fall des Totschlags: Notwehr gegen einen erkannt alkoholisierten, unbewaffneten Angreifer unter Einsatz eines Messers
-- [BGH, Urteil vom 18.06.2014 - 5 StR 60/14](5-str-60-14.md) — Schuldschwereabwägung bei der Aussetzung des Strafrestes der lebenslangen Freiheitsstrafe: Berücksichtigung der Bezeichnung eines völlig Unschuldigen als Allein
+- [BGH, Urteil vom 18.06.2014 - 5 StR 60/14](5-str-60-14.md) — Schuldschwereabwägung bei der Aussetzung des Strafrestes der lebenslangen Freiheitsstrafe: Berücksichtigung der Bezeichnung eines völlig Unschuldigen als Alleintatverantwortlichen …
 - [BGH, Urteil vom 18.06.2014 - 5 StR 98/14](5-str-98-14.md) — Beweiswürdigung im Strafverfahren: Begründungserfordernis für tatrichterliche Schlussfolgerungen; Unterstellungen zu Gunsten des Angeklagten
 - [BGH, Beschluss vom 06.05.2014 - 5 StR 160/14](5-str-160-14.md) — Revisionsgrund der Abwesenheit des Angeklagten in der Hauptverhandlung: Prüfung der Eigenmächtigkeit der Abwesenheit bei Freistellung durch das Gericht
 - [BGH, Beschluss vom 06.05.2014 - 5 StR 161/14](5-str-161-14.md) — Revisionsgrund der Abwesenheit des Angeklagten in der Hauptverhandlung: Prüfung der Eigenmächtigkeit der Abwesenheit bei Freistellung durch das Gericht
@@ -45,13 +45,13 @@
 - [BGH, Urteil vom 10.04.2014 - 5 StR 37/14](5-str-37-14.md) — Therapiedauer und konkrete Erfolgsaussicht.
 - [BGH, Beschluss vom 27.03.2014 - 5 StR 38/14](5-str-38-14.md) — Beteiligung an einer Schlägerei: Strafbarkeit bei Todeseintritt vor Tatbeteiligung
 - [BGH, Beschluss vom 26.03.2014 - 5 StR 91/14](5-str-91-14.md) — Beteiligung an einer Straftat: Mittäterschaft oder Beihilfe bei aktiver Beteiligung an einem schweren Raub
-- [BGH, Beschluss vom 24.03.2014 - 5 StR 2/14](5-str-2-14.md) — Strafverfahren wegen schwerer bzw. gefährlicher Körperverletzung: Notwendige Feststellungen bei psychischer Beihilfe zu einer Körperverletzung; Ablehnung eines 
+- [BGH, Beschluss vom 24.03.2014 - 5 StR 2/14](5-str-2-14.md) — Strafverfahren wegen schwerer bzw. gefährlicher Körperverletzung: Notwendige Feststellungen bei psychischer Beihilfe zu einer Körperverletzung; Ablehnung eines Beweisantrages auf …
 - [BGH, Urteil vom 12.03.2014 - 5 StR 18/14](5-str-18-14.md) — Strafverfahren wegen Computerbetrugs: Anwendung des Erwachsenenstrafrechts auf Heranwachsende
-- [BGH, Beschluss vom 12.03.2014 - 5 StR 69/14](5-str-69-14.md) — Strafzumessung bei versuchtem Totschlag: Annahme eines minder schweren Falls bei "Misshandlung" des Täters durch das Tatopfer; strafschärfende Berücksichtigung 
+- [BGH, Beschluss vom 12.03.2014 - 5 StR 69/14](5-str-69-14.md) — Strafzumessung bei versuchtem Totschlag: Annahme eines minder schweren Falls bei "Misshandlung" des Täters durch das Tatopfer; strafschärfende Berücksichtigung der Art der …
 - [BGH, Beschluss vom 11.03.2014 - 5 StR 19/14](5-str-19-14.md) — Strafzumessung: Anforderungen an den Täter-Opfer-Ausgleich
 - [BGH, Beschluss vom 11.03.2014 - 5 StR 20/14](5-str-20-14.md) — Konkurrenzverhältnis zwischen Bedrohung und versuchter Nötigung
-- [BGH, Beschluss vom 11.03.2014 - 5 StR 29/14](5-str-29-14.md) — § 46b StGB ist auch dann anwendbar, wenn der durch den Aufklärenden Belastete von dem Versuch des im Katalog des § 100a Abs. 2 StPO aufgeführten Delikts strafbe
-- [BGH, Urteil vom 11.03.2014 - 5 StR 563/13](5-str-563-13.md) — Wegen bis zum 31. Mai 2013 begangener Taten darf die Sicherungsverwahrung weiterhin nur mit der Einschränkung strikter Verhältnismäßigkeit im Sinne des Urteils 
+- [BGH, Beschluss vom 11.03.2014 - 5 StR 29/14](5-str-29-14.md) — § 46b StGB ist auch dann anwendbar, wenn der durch den Aufklärenden Belastete von dem Versuch des im Katalog des § 100a Abs. 2 StPO aufgeführten Delikts strafbefreiend …
+- [BGH, Urteil vom 11.03.2014 - 5 StR 563/13](5-str-563-13.md) — Wegen bis zum 31. Mai 2013 begangener Taten darf die Sicherungsverwahrung weiterhin nur mit der Einschränkung strikter Verhältnismäßigkeit im Sinne des Urteils des …
 - [BGH, Beschluss vom 11.03.2014 - 5 StR 630/13](5-str-630-13.md) — Aus Gründen der Verhältnismäßigkeit im Einzelfall mögliche Abwesenheitsverhandlung nach § 231 Abs. 2 StPO gegen einen inhaftierten Angeklagten.
 - [BGH, Urteil vom 11.03.2014 - 5 StR 649/13](5-str-649-13.md) — Strafbarkeit wegen Körperverletzung mit Todesfolge: Beweiswürdigung bei der Beurteilung eines bedingten Tötungsvorsatzes im Rahmen einer Beziehungstat
 - [BGH, Beschluss vom 11.03.2014 - 5 StR 70/14](5-str-70-14.md) — Schlusserklärung des Angeklagten: Nochmalige Gewährung des letzten Worts nach Wiedereintritt in die Beweisaufnahme
@@ -59,7 +59,7 @@
 - [BGH, Urteil vom 19.02.2014 - 5 StR 626/13](5-str-626-13.md) — Beweiswürdigung im Strafverfahren: Abweichungen zwischen schriftlichem und mündlich erstattetem Gutachten
 - [BGH, Beschluss vom 18.02.2014 - 5 StR 41/14](5-str-41-14.md) — Finalzusammenhang bei einem besonders schweren Raub: Entschluss zur Wegnahme nach der Gewaltanwendung
 - [BGH, Beschluss vom 22.01.2014 - 5 StR 467/12](5-str-467-12.md) — Verfallsanordnung: Voraussetzungen des Wertersatzverfalls gegen einen drittbeteiligten Finanzdienstleister in einem Betrugsverfahren
-- [BGH, Urteil vom 22.01.2014 - 5 StR 468/12](5-str-468-12.md) — Strafbarkeit wegen Beihilfe zum Betrug: Beihilfehandlung des Betreibers eines Lastschriftunternehmens bei Abrechnung betrügerisch erlangter Vermögensvorteile du
+- [BGH, Urteil vom 22.01.2014 - 5 StR 468/12](5-str-468-12.md) — Strafbarkeit wegen Beihilfe zum Betrug: Beihilfehandlung des Betreibers eines Lastschriftunternehmens bei Abrechnung betrügerisch erlangter Vermögensvorteile durch einen …
 - [BGH, Beschluss vom 22.01.2014 - 5 StR 555/13](5-str-555-13.md) — Ahndung der Straftat eines Heranwachsenden: Beurteilung der Schuldschwere
 - [BGH, Beschluss vom 21.01.2014 - 5 StR 546/13](5-str-546-13.md) — Beweiswürdigung im Strafverfahren: Glaubwürdigkeit eines Zeugen bei wechselndem Aussageverhalten
 - [BGH, Beschluss vom 08.01.2014 - 5 StR 542/13](5-str-542-13.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Bewusstsein des Angeklagten von der Gebrauchsbereitschaft des gefährlichen Gegenstandes

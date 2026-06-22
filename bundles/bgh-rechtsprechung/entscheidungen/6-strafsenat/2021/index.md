@@ -2,7 +2,7 @@
 
 63 Entscheidung(en).
 
-- [BGH, Urteil vom 15.12.2021 - 6 StR 312/21](6-str-312-21.md) — Strafverfahren wegen Heimtückemordes, Nötigung, Raub und Erpressung: Ausnutzungsbewusstsein als Voraussetzung des Vorliegens von Heimtücke; Verwerflichkeit des 
+- [BGH, Urteil vom 15.12.2021 - 6 StR 312/21](6-str-312-21.md) — Strafverfahren wegen Heimtückemordes, Nötigung, Raub und Erpressung: Ausnutzungsbewusstsein als Voraussetzung des Vorliegens von Heimtücke; Verwerflichkeit des Drohens mit einer …
 - [BGH, Beschluss vom 15.12.2021 - 6 StR 528/21](6-str-528-21.md) — Verständigung im Strafverfahren: Belehrungserfordernis vor Zustandekommen
 - [BGH, Beschluss vom 15.12.2021 - 6 StR 558/21](6-str-558-21.md) — Strafverfahren: Mitteilungspflicht des Vorsitzenden bei verständigungsbezogenen Erörterungen
 - [BGH, Beschluss vom 14.12.2021 - 6 StR 514/21](6-str-514-21.md) — Strafurteil: Unterzeichnung im Falle der Verhinderung eines mitwirkenden Richters
@@ -19,31 +19,31 @@
 - [BGH, Beschluss vom 06.10.2021 - 6 StR 371/21](6-str-371-21.md) — BGH, Beschluss 6 StR 371/21
 - [BGH, Beschluss vom 06.10.2021 - 6 StR 372/21](6-str-372-21.md) — BGH, Beschluss 6 StR 372/21
 - [BGH, Beschluss vom 06.10.2021 - 6 StR 389/21](6-str-389-21.md) — Adhäsionsverfahren: Schmerzensgeld für künftige Schäden
-- [BGH, Urteil vom 22.09.2021 - 6 StR 229/21](6-str-229-21.md) — Strafverurteilung wegen Vergewaltigung u.a.: Tatvollendung bei Fortsetzung des Beischlafs trotz Willensänderung; Tateinheit mit Körperverletzung bei körperliche
+- [BGH, Urteil vom 22.09.2021 - 6 StR 229/21](6-str-229-21.md) — Strafverurteilung wegen Vergewaltigung u.a.: Tatvollendung bei Fortsetzung des Beischlafs trotz Willensänderung; Tateinheit mit Körperverletzung bei körperlicher Misshandlung
 - [BGH, Beschluss vom 21.09.2021 - 6 StR 433/21](6-str-433-21.md) — Unterbringung in einer Entziehungsanstalt: Berechnung der Dauer des Vorwegvollzugs eines Teils der Strafe
 - [BGH, Urteil vom 08.09.2021 - 6 StR 174/21](6-str-174-21.md) — Ein Jagdhochsitz kann eine Hütte im Sinne von § 306 Abs. 1 Nr. 1 StGB sein.
 - [BGH, Beschluss vom 24.08.2021 - 6 StR 344/21](6-str-344-21.md) — Wohnungseinbruchsdiebstahl: Nebenräume als Wohnungsbestandteil
 - [BGH, Urteil vom 11.08.2021 - 6 StR 84/21](6-str-84-21.md) — Zeugnisverweigerungsrecht: Gestattung der Verwertung eines früheren polizeilichen Zeugenaussage
 - [BGH, Beschluss vom 27.07.2021 - 6 StR 307/21](6-str-307-21.md) — Bestellung eines Pflichtverteidigers für den Angeklagten: Erstreckung auf die Verteidigung gegen Adhäsionsanträge
 - [BGH, Beschluss vom 27.07.2021 - 6 StR 313/21](6-str-313-21.md) — Strafzumessung bei einem Tötungsdelikt: Wertung des Versuchs der Beseitigung von Tatspuren
-- [BGH, Beschluss vom 15.07.2021 - 6 StR 252/21](6-str-252-21.md) — Betäubungsmitteldelikt: Konkurrenzverhältnis zwischen gewerbsmäßiger Abgabe von Betäubungsmitteln an Minderjährige und Handeltreiben mit Betäubungsmitteln in ni
-- [BGH, Urteil vom 14.07.2021 - 6 StR 282/20](6-str-282-20.md) — Untreue und Betrug: Verletzung von Vermögensbetreuungspflichten durch einen Oberbürgermeister wegen der Gewährung von rechtswidrigen Zulagenzahlungen an Mitarbe
+- [BGH, Beschluss vom 15.07.2021 - 6 StR 252/21](6-str-252-21.md) — Betäubungsmitteldelikt: Konkurrenzverhältnis zwischen gewerbsmäßiger Abgabe von Betäubungsmitteln an Minderjährige und Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 14.07.2021 - 6 StR 282/20](6-str-282-20.md) — Untreue und Betrug: Verletzung von Vermögensbetreuungspflichten durch einen Oberbürgermeister wegen der Gewährung von rechtswidrigen Zulagenzahlungen an Mitarbeiter der Stadt …
 - [BGH, Beschluss vom 14.07.2021 - 6 StR 298/21](6-str-298-21.md) — Raub: Finalzusammenhang zwischen dem qualifizierten Nötigungsmittel und der Wegnahme
 - [BGH, Beschluss vom 14.07.2021 - 6 StR 303/21](6-str-303-21.md) — Strafurteil: Anforderungen an die Darstellung der Ergebnisse molekulargenetischer Vergleichsgutachten bei DNA-Mischspuren
 - [BGH, Beschluss vom 13.07.2021 - 6 StR 217/21](6-str-217-21.md) — Anordnung der Unterbringung in einer Entziehungsanstalt im Strafverfahren wegen versuchten Mordes: Beachtung des Aspekts der Gefahrenabwehr
 - [BGH, Beschluss vom 16.06.2021 - 6 StR 334/20](6-str-334-20.md) — Untreue: Vermögensnachteil beim Immobilienverkauf unter Wert
-- [BGH, Beschluss vom 02.06.2021 - 6 StR 224/21](6-str-224-21.md) — Strafverurteilung wegen gefährlicher Körperverletzung: Aussetzung einer zeitigen Freiheitsstrafe zur Bewährung bei mangelnder Unrechtseinsicht; Unterbringung in
-- [BGH, Urteil vom 02.06.2021 - 6 StR 341/20](6-str-341-20.md) — Revision im Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Anforderungen an die Urteilsfeststellungen und deren Gesamtwürdigung bei Annahme ei
+- [BGH, Beschluss vom 02.06.2021 - 6 StR 224/21](6-str-224-21.md) — Strafverurteilung wegen gefährlicher Körperverletzung: Aussetzung einer zeitigen Freiheitsstrafe zur Bewährung bei mangelnder Unrechtseinsicht; Unterbringung in einer …
+- [BGH, Urteil vom 02.06.2021 - 6 StR 341/20](6-str-341-20.md) — Revision im Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Anforderungen an die Urteilsfeststellungen und deren Gesamtwürdigung bei Annahme einer verminderten …
 - [BGH, Urteil vom 02.06.2021 - 6 StR 60/21](6-str-60-21.md) — Strafverfahren wegen besonders schweren Raubes: Anforderungen an die Urteilsfeststellungen bei Verwertung einer DNA-Mischspur zur Feststellung der Täterschaft
-- [BGH, Beschluss vom 01.06.2021 - 6 StR 113/21](6-str-113-21.md) — Voraussetzungen einer Unterbringung in einer Entziehungsanstalt: Notwendige Feststellungen zum ursächlichen Zusammenhang zwischen Hang und Anlasstat in einem St
-- [BGH, Beschluss vom 01.06.2021 - 6 StR 119/21](6-str-119-21.md) — Das Anbieten oder Gewähren von Vorteilen für künftige Diensthandlungen an einen Amtsträger, der sich für ein anderes Amt bei demselben Dienstherrn bewirbt, kann
+- [BGH, Beschluss vom 01.06.2021 - 6 StR 113/21](6-str-113-21.md) — Voraussetzungen einer Unterbringung in einer Entziehungsanstalt: Notwendige Feststellungen zum ursächlichen Zusammenhang zwischen Hang und Anlasstat in einem Strafverfahren u.a …
+- [BGH, Beschluss vom 01.06.2021 - 6 StR 119/21](6-str-119-21.md) — Das Anbieten oder Gewähren von Vorteilen für künftige Diensthandlungen an einen Amtsträger, der sich für ein anderes Amt bei demselben Dienstherrn bewirbt, kann dem …
 - [BGH, Beschluss vom 01.06.2021 - 6 StR 212/21](6-str-212-21.md) — Unterbringung in einer Entziehungsanstalt: Absehen von der Unterbringung mangels hinreichend konkreter Erfolgsaussicht
 - [BGH, Urteil vom 20.05.2021 - 6 StR 142/20](6-str-142-20.md) — Mordmerkmal der niedrigen Beweggründe bei anlasslosem Angriff eines Zufallsopfers
 - [BGH, Urteil vom 20.05.2021 - 6 StR 406/20](6-str-406-20.md) — Strafmilderung wegen Aufklärungshilfe bei Betäubungsmitteldelikten: Voraussetzungen eines wesentlichen Aufklärungserfolges
 - [BGH, Beschluss vom 19.05.2021 - 6 StR 199/21](6-str-199-21.md) — Sicherungsverfahren: Anforderungen an die Gefährlichkeitsprognose im Urteil bei Unterbringunganordnung in einem psychiatrischen Krankenhaus
 - [BGH, Beschluss vom 19.05.2021 - 6 StR 28/21](6-str-28-21.md) — Wohnungseinbruchsdiebstahl: Abgrenzung zwischen Vorbereitungs- und Versuchsstadium
 - [BGH, Beschluss vom 05.05.2021 - 6 StR 132/21](6-str-132-21.md) — Gefährliche Körperverletzung: Strafbarkeit versuchter Tatbegehung nach Vollendung mehrerer Qualifikationsmerkmale durch dieselbe Tat
-- [BGH, Urteil vom 05.05.2021 - 6 StR 15/21](6-str-15-21.md) — Strafprozess: Revisionsbeschränkung auf den Strafausspruch bei Tateinheit; rechtliche Bezeichnung der Tat in der Urteilsformel; Härteausgleich bei Gesamtstrafen
+- [BGH, Urteil vom 05.05.2021 - 6 StR 15/21](6-str-15-21.md) — Strafprozess: Revisionsbeschränkung auf den Strafausspruch bei Tateinheit; rechtliche Bezeichnung der Tat in der Urteilsformel; Härteausgleich bei Gesamtstrafenbildung
 - [BGH, Beschluss vom 05.05.2021 - 6 StR 152/21](6-str-152-21.md) — Sicherungsverfahren: Verfahrenseröffnung auf Basis einer Anklageschrift ohne entsprechende Antragsschrift
 - [BGH, Beschluss vom 04.05.2021 - 6 StR 137/21](6-str-137-21.md) — Zur wirksamen Bezeichnung subventionserheblicher Tatsachen durch den Subventionsgeber in Anträgen für Corona-Soforthilfen.
 - [BGH, Beschluss vom 04.05.2021 - 6 StR 148/21](6-str-148-21.md) — Unterbringung in einer Entziehungsanstalt: Vorliegender Hang trotz Abstinenzzeiträumen
@@ -52,16 +52,16 @@
 - [BGH, Beschluss vom 07.04.2021 - 6 StR 128/21](6-str-128-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anordnung bei Rücktritt vom Versuch der gefährlichen Körperverletzung
 - [BGH, Urteil vom 24.03.2021 - 6 StR 240/20](6-str-240-20.md) — Zur Betäubungsmitteleigenschaft von Tee aus EU-zertifiziertem Nutzhanf.
 - [BGH, Beschluss vom 24.03.2021 - 6 StR 46/21](6-str-46-21.md) — Wohnungseinbruchdiebstahl in ein betrieblich und privat genutztes Anwesen
-- [BGH, Beschluss vom 23.03.2021 - 6 StR 452/20](6-str-452-20.md) — Bei einer unter der Geltung des § 30 Abs. 2a OWiG erfolgten Gesamtrechtsnachfolge kann eine Geldbuße gegen den Rechtsnachfolger auch dann festgesetzt werden, we
+- [BGH, Beschluss vom 23.03.2021 - 6 StR 452/20](6-str-452-20.md) — Bei einer unter der Geltung des § 30 Abs. 2a OWiG erfolgten Gesamtrechtsnachfolge kann eine Geldbuße gegen den Rechtsnachfolger auch dann festgesetzt werden, wenn die …
 - [BGH, Beschluss vom 23.03.2021 - 6 StR 90/21](6-str-90-21.md) — Unterbringung in einer Entziehungsanstalt: Hang des betäubungsmittelabhängigen Straftäters
 - [BGH, Urteil vom 10.03.2021 - 6 StR 285/20](6-str-285-20.md) — Beweisaufnahme im Strafverfahren: Verlesung eines nicht handschriftlich unterzeichneten ärztlichen Attests
 - [BGH, Beschluss vom 10.03.2021 - 6 StR 31/21](6-str-31-21.md) — Vergewaltigung: Bestimmung der BAK zum Tatzeitpunkt
 - [BGH, Urteil vom 10.03.2021 - 6 StR 317/20](6-str-317-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Abgrenzung zwischen Mittäterschaft und Beihilfe
-- [BGH, Beschluss vom 09.03.2021 - 6 StR 404/20](6-str-404-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Doppelverwertungsverbot; Absehen von der Unterbringung in einer Entziehungsanstalt bei 
-- [BGH, Beschluss vom 09.03.2021 - 6 StR 48/21](6-str-48-21.md) — Revision in Strafsachen: Notwendigkeit neuer Feststellungen zur Person nach Aufhebung des Rechtsfolgenausspruchs und Zurückverweisung; Verbot der reformatio in 
+- [BGH, Beschluss vom 09.03.2021 - 6 StR 404/20](6-str-404-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Doppelverwertungsverbot; Absehen von der Unterbringung in einer Entziehungsanstalt bei fehlendem …
+- [BGH, Beschluss vom 09.03.2021 - 6 StR 48/21](6-str-48-21.md) — Revision in Strafsachen: Notwendigkeit neuer Feststellungen zur Person nach Aufhebung des Rechtsfolgenausspruchs und Zurückverweisung; Verbot der reformatio in peius in Bezug auf …
 - [BGH, Beschluss vom 09.03.2021 - 6 StR 74/21](6-str-74-21.md) — Tankbetrug: Abgrenzung zwischen Versuch und Vollendung im Falle des Nichtbemerkens des Tankvorgangs durch das Tankstellenpersonal
 - [BGH, Urteil vom 24.02.2021 - 6 StR 151/20](6-str-151-20.md) — Beurteilung der Schuldfähigkeit durch das Tatgericht: Anforderungen an die Begründung einer Abweichung von einem Sachverständigengutachten
-- [BGH, Beschluss vom 24.02.2021 - 6 StR 55/21](6-str-55-21.md) — Nachträgliche Gesamtstrafenbildung: Notwendige Erörterungen zur Möglichkeit einer gesonderten Einzelgeldstrafe zwecks Aussetzung der Freiheitsstrafe zur Bewähru
+- [BGH, Beschluss vom 24.02.2021 - 6 StR 55/21](6-str-55-21.md) — Nachträgliche Gesamtstrafenbildung: Notwendige Erörterungen zur Möglichkeit einer gesonderten Einzelgeldstrafe zwecks Aussetzung der Freiheitsstrafe zur Bewährung
 - [BGH, Beschluss vom 23.02.2021 - 6 StR 431/20](6-str-431-20.md) — Sexueller Missbrauch von Kindern: Abgrenzung von Befund- und Zusatztatsachen bei der Exploration für ein aussagepsychologisches Sachverständigengutachten
 - [BGH, Beschluss vom 10.02.2021 - 6 StR 453/20](6-str-453-20.md) — Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei mehreren Rauschgiftgeschäften
-- [BGH, Beschluss vom 27.01.2021 - 6 StR 399/20](6-str-399-20.md) — Strafverfahren: Korrektur eines vom Sitzungsprotokoll abweichenden Urteilstenors durch das Revisionsgericht; Berücksichtigung ausländischer Verurteilungen im Ra
+- [BGH, Beschluss vom 27.01.2021 - 6 StR 399/20](6-str-399-20.md) — Strafverfahren: Korrektur eines vom Sitzungsprotokoll abweichenden Urteilstenors durch das Revisionsgericht; Berücksichtigung ausländischer Verurteilungen im Rahmen der …

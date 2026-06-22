@@ -31,7 +31,7 @@
 - [BGH, Beschluss vom 16.04.2008 - XII ZR 165/04](xii-zr-165-04.md) — BGH, Beschluss vom 16.04.2008 - XII ZR 165/04
 - [BGH, Beschluss vom 02.04.2008 - XII ZB 134/06](xii-zb-134-06.md) — BGH, Beschluss vom 02.04.2008 - XII ZB 134/06
 - [BGH, Beschluss vom 02.04.2008 - XII ZB 266/03](xii-zb-266-03.md) — ihres gegen den
-- [BGH, Entscheidung vom 02.04.2008 - XII ZR 44/06](xii-zr-44-06.md) — XII ZR 44/06 Schreibfehlerberichtigung In dem Leitzsatz des Urteils vom 2. April 2008 muss es im Zitat, in der Klammer, anstelle von richtig heißen „… BGHZ 71 …
+- [BGH, Entscheidung vom 02.04.2008 - XII ZR 44/06](xii-zr-44-06.md) — XII ZR 44/06 Schreibfehlerberichtigung In dem Leitzsatz des Urteils vom 2. April 2008 muss es im Zitat, in der Klammer, anstelle von richtig heißen „… BGHZ 71 …“ „… BGHZ 171 …“ …
 - [BGH, Urteil vom 12.03.2008 - XII ZR 147/05](xii-zr-147-05.md) — Mängeln der Mietsache geltend machen kann, es sei denn, der Vermieter hat die Mängel vorsätzlich oder grob fahrlässig zu vertreten, ist im Z
 - [BGH, Urteil vom 12.03.2008 - XII ZR 156/05](xii-zr-156-05.md) — Tatbestand:
 - [BGH, Beschluss vom 05.03.2008 - XII ZB 2/07](xii-zb-2-07.md) — BGH, Beschluss vom 05.03.2008 - XII ZB 2/07

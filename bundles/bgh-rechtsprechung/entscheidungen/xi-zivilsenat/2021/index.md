@@ -2,8 +2,8 @@
 
 42 Entscheidung(en).
 
-- [BGH, Urteil vom 14.12.2021 - XI ZR 72/20](xi-zr-72-20.md) — Ein kommunaler Zweckverband, der sich allein aus Gemeinden und/oder Gemeindeverbänden zusammensetzt, ist einem Gemeindeverband im Sinne von § 489 Abs. 4 Satz 2 
-- [BGH, Beschluss vom 23.11.2021 - XI ZB 23/20](xi-zb-23-20.md) — Wird über das Vermögen des Musterrechtsbeschwerdeführers ein Insolvenzverfahren eröffnet, bestimmt das Rechtsbeschwerdegericht entsprechend § 21 Abs. 4, § 13 Ab
+- [BGH, Urteil vom 14.12.2021 - XI ZR 72/20](xi-zr-72-20.md) — Ein kommunaler Zweckverband, der sich allein aus Gemeinden und/oder Gemeindeverbänden zusammensetzt, ist einem Gemeindeverband im Sinne von § 489 Abs. 4 Satz 2 BGB gleichzustellen.
+- [BGH, Beschluss vom 23.11.2021 - XI ZB 23/20](xi-zb-23-20.md) — Wird über das Vermögen des Musterrechtsbeschwerdeführers ein Insolvenzverfahren eröffnet, bestimmt das Rechtsbeschwerdegericht entsprechend § 21 Abs. 4, § 13 Abs. 1 Fall 2, § 9 …
 - [BGH, Beschluss vom 16.11.2021 - XI ZR 170/21](xi-zr-170-21.md) — Verbraucherkreditvertrag: Widerruf grundpfandrechtlich abgesicherter Immobiliardarlehensverträge
 - [BGH, Urteil vom 26.10.2021 - XI ZR 209/19](xi-zr-209-19.md) — BGH, Urteil XI ZR 209/19
 - [BGH, Urteil vom 26.10.2021 - XI ZR 210/19](xi-zr-210-19.md) — BGH, Urteil XI ZR 210/19
@@ -12,33 +12,33 @@
 - [BGH, Urteil vom 26.10.2021 - XI ZR 217/19](xi-zr-217-19.md) — BGH, Urteil XI ZR 217/19
 - [BGH, Urteil vom 26.10.2021 - XI ZR 218/19](xi-zr-218-19.md) — BGH, Urteil XI ZR 218/19
 - [BGH, Beschluss vom 19.10.2021 - XI ZR 622/20](xi-zr-622-20.md) — Widerruf eines Verbraucherdarlehensvertrags in einem Altfall: Zeitlicher Anwendungsbereich der Verbraucherkreditrichtlinie; Verstoß gegen Treu und Glauben
-- [BGH, Beschluss vom 12.10.2021 - XI ZB 26/19](xi-zb-26-19.md) — Hat das Oberlandesgericht in einem Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz das Feststellungsziel 1 als unbegründet zurückgewiesen und den
-- [BGH, Beschluss vom 12.10.2021 - XI ZB 31/19](xi-zb-31-19.md) — Allgemeine Ausführungen des vorlegenden Prozessgerichts zum Gegenstand der Ausgangsverfahren sind nicht geeignet, die von diesem mit der Aufnahme eines Feststel
-- [BGH, Urteil vom 06.10.2021 - XI ZR 234/20](xi-zr-234-20.md) — 1. Die in Prämiensparverträgen enthaltene Formularklausel "Die Spareinlage wird variabel z.Zt. mit .. % p.a. verzinst", nach der bei objektiver Auslegung eine Ä
+- [BGH, Beschluss vom 12.10.2021 - XI ZB 26/19](xi-zb-26-19.md) — Hat das Oberlandesgericht in einem Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz das Feststellungsziel 1 als unbegründet zurückgewiesen und den Vorlagebeschluss …
+- [BGH, Beschluss vom 12.10.2021 - XI ZB 31/19](xi-zb-31-19.md) — Allgemeine Ausführungen des vorlegenden Prozessgerichts zum Gegenstand der Ausgangsverfahren sind nicht geeignet, die von diesem mit der Aufnahme eines Feststellungsziels in den …
+- [BGH, Urteil vom 06.10.2021 - XI ZR 234/20](xi-zr-234-20.md) — 1. Die in Prämiensparverträgen enthaltene Formularklausel "Die Spareinlage wird variabel z.Zt. mit .. % p.a. verzinst", nach der bei objektiver Auslegung eine Änderung des …
 - [BGH, Beschluss vom 22.09.2021 - XI ZR 355/18](xi-zr-355-18.md) — BGH, Beschluss XI ZR 355/18
 - [BGH, Beschluss vom 21.09.2021 - XI ZB 30/19](xi-zb-30-19.md) — Der Verkaufsprospekt ist kein Unternehmensdatum; die Art und Weise seiner Darstellung ist nicht feststellungsfähig.
-- [BGH, Versäumnisurteil vom 21.09.2021 - XI ZR 650/20](xi-zr-650-20.md) — 1. Die Vorschriften der §§ 491 ff. BGB in der Fassung vom 29. Juli 2009 finden auf einen Schuldbeitritt zu einem Darlehensvertrag entsprechende Anwendung. 2. Be
+- [BGH, Versäumnisurteil vom 21.09.2021 - XI ZR 650/20](xi-zr-650-20.md) — 1. Die Vorschriften der §§ 491 ff. BGB in der Fassung vom 29. Juli 2009 finden auf einen Schuldbeitritt zu einem Darlehensvertrag entsprechende Anwendung. 2. Bei dem …
 - [BGH, Beschluss vom 14.09.2021 - XI ZR 599/20](xi-zr-599-20.md) — Grundpfandrechtlich besicherter Immobiliardarlehensvertrag: Einschlägigkeit der Rechtsprechung zur Verbraucherkredit-Richtlinie
 - [BGH, Beschluss vom 27.07.2021 - XI ZA 1/21](xi-za-1-21.md) — Prozesskostenhilfe: Darlegung und Glaubhaftmachung der Einkünfte bei für eine bescheidene Lebensführung nicht ausreichenden finanziellen Mitteln
-- [BGH, Beschluss vom 27.07.2021 - XI ZR 333/21](xi-zr-333-21.md) — Wiedereinsetzung in den vorigen Stand bei Versäumung einer Rechtsmittelfrist: Pflicht des Rechtsanwalts zur Überprüfung des Posteingangs und Notierung von Frist
-- [BGH, Beschluss vom 06.07.2021 - XI ZB 27/19](xi-zb-27-19.md) — § 6 Abs. 1 Satz 2 KapMuG und § 15 KapMuG stehen einer Verfahrensweise entgegen, bei der der Vorlagebeschluss durch einen Beschluss des Oberlandesgerichts ersetz
-- [BGH, Urteil vom 15.06.2021 - XI ZR 568/19](xi-zr-568-19.md) — Hat bei einem verbundenen Geschäft (§ 358 Abs. 3 BGB) der Verbraucher den finanzierten Vertrag wegen arglistiger Täuschung angefochten, führt die Rückwirkung de
-- [BGH, Beschluss vom 08.06.2021 - XI ZB 22/19](xi-zb-22-19.md) — 1. Zur Darstellung der tatsächlichen und rechtlichen Verhältnisse im Sinne von § 2 Abs. 1 Satz 1 VermVerkProspV in der vom 1. Juli 2005 bis zum 31. Mai 2012 gel
+- [BGH, Beschluss vom 27.07.2021 - XI ZR 333/21](xi-zr-333-21.md) — Wiedereinsetzung in den vorigen Stand bei Versäumung einer Rechtsmittelfrist: Pflicht des Rechtsanwalts zur Überprüfung des Posteingangs und Notierung von Fristen bei Übertragung …
+- [BGH, Beschluss vom 06.07.2021 - XI ZB 27/19](xi-zb-27-19.md) — § 6 Abs. 1 Satz 2 KapMuG und § 15 KapMuG stehen einer Verfahrensweise entgegen, bei der der Vorlagebeschluss durch einen Beschluss des Oberlandesgerichts ersetzt wird, der von da …
+- [BGH, Urteil vom 15.06.2021 - XI ZR 568/19](xi-zr-568-19.md) — Hat bei einem verbundenen Geschäft (§ 358 Abs. 3 BGB) der Verbraucher den finanzierten Vertrag wegen arglistiger Täuschung angefochten, führt die Rückwirkung der Anfechtung (§ 142 …
+- [BGH, Beschluss vom 08.06.2021 - XI ZB 22/19](xi-zb-22-19.md) — 1. Zur Darstellung der tatsächlichen und rechtlichen Verhältnisse im Sinne von § 2 Abs. 1 Satz 1 VermVerkProspV in der vom 1. Juli 2005 bis zum 31. Mai 2012 geltenden Fassung …
 - [BGH, Beschluss vom 08.06.2021 - XI ZR 17/21](xi-zr-17-21.md) — BGH, Beschluss XI ZR 17/21
 - [BGH, Beschluss vom 08.06.2021 - XI ZR 645/20](xi-zr-645-20.md) — BGH, Beschluss XI ZR 645/20
-- [BGH, Beschluss vom 18.05.2021 - XI ZB 19/18](xi-zb-19-18.md) — 1. Zur Darstellung der mit der Fremdfinanzierung einhergehenden Risiken im Sinne von § 2 Abs. 2 Satz 3 VermVerkProspV in der vom 1. Juli 2005 bis zum 31. Mai 20
+- [BGH, Beschluss vom 18.05.2021 - XI ZB 19/18](xi-zb-19-18.md) — 1. Zur Darstellung der mit der Fremdfinanzierung einhergehenden Risiken im Sinne von § 2 Abs. 2 Satz 3 VermVerkProspV in der vom 1. Juli 2005 bis zum 31. Mai 2012 geltenden …
 - [BGH, Beschluss vom 04.05.2021 - XI ZR 96/20](xi-zr-96-20.md) — BGH, Beschluss XI ZR 96/20
-- [BGH, Urteil vom 27.04.2021 - XI ZR 26/20](xi-zr-26-20.md) — Die von einer Bank für eine Vielzahl von Vertragsverhältnissen vorformulierten Klauseln a) "Künftige Änderungen dieser Geschäftsbedingungen und der besonderen B
+- [BGH, Urteil vom 27.04.2021 - XI ZR 26/20](xi-zr-26-20.md) — Die von einer Bank für eine Vielzahl von Vertragsverhältnissen vorformulierten Klauseln a) "Künftige Änderungen dieser Geschäftsbedingungen und der besonderen Bedingungen werden …
 - [BGH, Urteil vom 20.04.2021 - XI ZR 511/19](xi-zr-511-19.md) — Zu den Anforderungen an die Identitätsüberprüfung eines für unbekannte Erben tätigen Nachlasspflegers gemäß § 12 Abs. 1, § 13 Abs. 1 GwG.
-- [BGH, Beschluss vom 30.03.2021 - XI ZB 3/18](xi-zb-3-18.md) — Zur Darstellung der mit der Fremdfinanzierung einhergehenden Risiken im Sinne des § 2 Abs. 2 Satz 3 VermVerkProspV in der vom 1. Juli 2005 bis zum 31. Mai 2012 
+- [BGH, Beschluss vom 30.03.2021 - XI ZB 3/18](xi-zb-3-18.md) — Zur Darstellung der mit der Fremdfinanzierung einhergehenden Risiken im Sinne des § 2 Abs. 2 Satz 3 VermVerkProspV in der vom 1. Juli 2005 bis zum 31. Mai 2012 geltenden Fassung.
 - [BGH, Beschluss vom 30.03.2021 - XI ZR 393/20](xi-zr-393-20.md) — BGH, Beschluss XI ZR 393/20
 - [BGH, Beschluss vom 23.03.2021 - XI ZB 8/20](xi-zb-8-20.md) — Wiedereinsetzung in den vorigen Stand: Anwaltliche Sorgfaltspflichtverletzung bei Einreichung einer verwechselten Berufungsschrift
 - [BGH, Beschluss vom 23.03.2021 - XI ZR 250/20](xi-zr-250-20.md) — Bemessung der Revisionsbeschwer: Antrag auf vollständige Abweisung einer Klage auf Feststellung des Fortbestehens eines Prämiensparvertrages
 - [BGH, Beschluss vom 17.03.2021 - XI ZB 30/20](xi-zb-30-20.md) — BGH, Beschluss XI ZB 30/20
 - [BGH, Beschluss vom 16.03.2021 - XI ZR 473/20](xi-zr-473-20.md) — BGH, Beschluss XI ZR 473/20
-- [BGH, Beschluss vom 23.02.2021 - XI ZB 29/19](xi-zb-29-19.md) — Zum Erfordernis von Angaben betreffend den Ausbau des Panamakanals und die mit der Durchsetzung von Schiffsgläubigerrechten verbundenen Risiken in einem Verkauf
+- [BGH, Beschluss vom 23.02.2021 - XI ZB 29/19](xi-zb-29-19.md) — Zum Erfordernis von Angaben betreffend den Ausbau des Panamakanals und die mit der Durchsetzung von Schiffsgläubigerrechten verbundenen Risiken in einem Verkaufsprospekt, der der …
 - [BGH, Urteil vom 23.02.2021 - XI ZR 191/17](xi-zr-191-17.md) — Prospekthaftung der anlageberatenden Bank: Falsche Angaben zu Kfz-Stellplätzen als haftungsbegründender Prospektfehler bei einem Immobilienfonds
-- [BGH, Beschluss vom 19.01.2021 - XI ZB 35/18](xi-zb-35-18.md) — Die spezialgesetzliche Prospekthaftung gemäß den § 13 VerkProspG, §§ 44 ff. BörsG in der bis zum 31. Mai 2012 geltenden Fassung schließt in ihrem Anwendungsbere
+- [BGH, Beschluss vom 19.01.2021 - XI ZB 35/18](xi-zb-35-18.md) — Die spezialgesetzliche Prospekthaftung gemäß den § 13 VerkProspG, §§ 44 ff. BörsG in der bis zum 31. Mai 2012 geltenden Fassung schließt in ihrem Anwendungsbereich eine Haftung …
 - [BGH, Beschluss vom 19.01.2021 - XI ZR 251/20](xi-zr-251-20.md) — BGH, Beschluss XI ZR 251/20
 - [BGH, Beschluss vom 19.01.2021 - XI ZR 294/20](xi-zr-294-20.md) — BGH, Beschluss XI ZR 294/20
 - [BGH, Beschluss vom 12.01.2021 - XI ZB 18/17](xi-zb-18-17.md) — Zur Angabe von Verflechtungstatbeständen im Sinne von § 7 Abs. 2, § 12 Abs. 1, 2 und 4 VermVerkProspV in der bis zum 31. Mai 2012 geltenden Fassung.

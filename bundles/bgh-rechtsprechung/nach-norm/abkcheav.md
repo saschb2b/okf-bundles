@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AbkCHEAV"
 description: "BGH-Entscheidungen zu AbkCHEAV, geordnet nach Vorschrift."
 tags: [register, navigation, abkcheav]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

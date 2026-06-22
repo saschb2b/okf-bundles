@@ -7,19 +7,19 @@
 - [BGH, Beschluss vom 29.12.2014 - 2 StR 211/14](2-str-211-14.md) — Strafverfahren: Anforderungen an die Urteilsgründe bei Ablehnung eines Beweisantrags wegen Bedeutungslosigkeit
 - [BGH, Beschluss vom 29.12.2014 - 2 StR 29/14](2-str-29-14.md) — Strafverfahren wegen Untreue: Feststellung eines Gehilfenvorsatzes hinsichtlich der Verursachung eines Nachteils; Form der Sacheinlassung des Angeklagten
 - [BGH, Beschluss vom 17.12.2014 - 2 StR 78/14](2-str-78-14.md) — Versuchter Mord: Korrektur des Rücktrittshorizonts bei Flucht des Tatopfers nach der letzten Ausführungshandlung
-- [BGH, Urteil vom 10.12.2014 - 2 StR 170/14](2-str-170-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Berücksichtigung des Verhältnismäßigkeitsgrundsatzes bei der Gefährlichkeitsprognose; Wahrscheinlichkeit kün
+- [BGH, Urteil vom 10.12.2014 - 2 StR 170/14](2-str-170-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Berücksichtigung des Verhältnismäßigkeitsgrundsatzes bei der Gefährlichkeitsprognose; Wahrscheinlichkeit künftiger erheblicher …
 - [BGH, Beschluss vom 10.12.2014 - 2 StR 375/14](2-str-375-14.md) — Beweiswürdigung im Strafverfahren: Widerlegung eines Entlastungsvorbringens als Indiz für die Täterschaft
 - [BGH, Beschluss vom 09.12.2014 - 2 StR 239/14](2-str-239-14.md) — Strafverfahren wegen gefährlicher Körperverletzung: Beweiswürdigung hinsichtlich der vorsätzlichen Abgabe eines Schusses aus einer Pistole
-- [BGH, Beschluss vom 09.12.2014 - 2 StR 297/14](2-str-297-14.md) — Maßregelanordnung der Unterbringung in einem psychiatrischen Krankenhaus: Gefährlichkeitsprognose bei der Begehung der Anlasstaten während der stationären psych
-- [BGH, Beschluss vom 27.11.2014 - 2 StR 311/14](2-str-311-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Strafmilderung bei Aufklärungshilfe; Schätzung von Wirkstoffmengen für eine "durchschnittliche Qualität" von Ma
+- [BGH, Beschluss vom 09.12.2014 - 2 StR 297/14](2-str-297-14.md) — Maßregelanordnung der Unterbringung in einem psychiatrischen Krankenhaus: Gefährlichkeitsprognose bei der Begehung der Anlasstaten während der stationären psychiatrischen …
+- [BGH, Beschluss vom 27.11.2014 - 2 StR 311/14](2-str-311-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Strafmilderung bei Aufklärungshilfe; Schätzung von Wirkstoffmengen für eine "durchschnittliche Qualität" von Marihuana
 - [BGH, Urteil vom 26.11.2014 - 2 StR 54/14](2-str-54-14.md) — Versuchter Totschlag: Annahme eines bedingten Tötungsvorsatzes bei äußerst gefährlichen Gewalthandlungen
 - [BGH, Beschluss vom 25.11.2014 - 2 StR 171/14](2-str-171-14.md) — Revision in Strafsachen: Verfahrensrüge wegen fehlender Negativmitteilung über Verständigungsgespräche
 - [BGH, Beschluss vom 05.11.2014 - 2 ARs 388/14](2-ars-388-14.md) — Entscheidung über den Bewährungswiderruf: Begriff der "Aufnahme" im Rahmen der Bestimmung der örtlich zuständigen Strafvollstreckungskammer
-- [BGH, Beschluss vom 05.11.2014 - 2 StR 186/14](2-str-186-14.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Bandenmitgliedschaft und Beteiligung an Bandentaten; bloße Weiterbeförde
+- [BGH, Beschluss vom 05.11.2014 - 2 StR 186/14](2-str-186-14.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Bandenmitgliedschaft und Beteiligung an Bandentaten; bloße Weiterbeförderung von …
 - [BGH, Beschluss vom 05.11.2014 - 2 StR 419/14](2-str-419-14.md) — Strafzumessung bei Betäubungsmitteleinfuhr: Berücksichtigung der Gesamtmenge aus mehreren Einzeltaten
 - [BGH, Beschluss vom 04.11.2014 - 2 StR 300/14](2-str-300-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Doppelverwertungsverbot bei der Prüfung eines besonders schweren Falls
 - [BGH, Urteil vom 22.10.2014 - 2 StR 509/13](2-str-509-13.md) — Sexueller Missbrauch eines Kindes: Pornographische Darstellungen; Tathandlung des Einwirkens
-- [BGH, Urteil vom 22.10.2014 - 2 StR 92/14](2-str-92-14.md) — Beweiswürdigung in einem Strafverfahren wegen Kindesmissbrauchs: Anforderungen an die Darstellung einer Zeugenaussage in den Urteilsgründen bei einem Fall von „
+- [BGH, Urteil vom 22.10.2014 - 2 StR 92/14](2-str-92-14.md) — Beweiswürdigung in einem Strafverfahren wegen Kindesmissbrauchs: Anforderungen an die Darstellung einer Zeugenaussage in den Urteilsgründen bei einem Fall von „Aussage gegen …
 - [BGH, Beschluss vom 15.10.2014 - 2 StR 202/14](2-str-202-14.md) — Strafverfahren wegen schweren sexuellen Missbrauchs Widerstandsunfähiger: Neuvornahme der Gesamtstrafenbildung nach fehlerhaft gebildeter früherer Gesamtstrafe
 - [BGH, Urteil vom 15.10.2014 - 2 StR 240/14](2-str-240-14.md) — Anordnung der Sicherungsverwahrung: Vorliegen von drei vorsätzlichen Taten; Voraussetzungen für eine Ermessensentscheidung über das Absehen von der Anordnung
 - [BGH, Beschluss vom 15.10.2014 - 2 StR 25/14](2-str-25-14.md) — Strafzumessung bei Betäubungsmitteldelikt: Doppelte Berücksichtigung der ein Regelbeispiel bestimmenden Umstände
@@ -28,78 +28,78 @@
 - [BGH, Beschluss vom 14.10.2014 - 2 StR 134/14](2-str-134-14.md) — Wertersatzverfall: Anforderungen an die Annahme einer "unbilligen Härte"
 - [BGH, Beschluss vom 08.10.2014 - 2 StR 104/14](2-str-104-14.md) — BGH, Beschluss 2 StR 104/14
 - [BGH, Beschluss vom 08.10.2014 - 2 StR 105/14](2-str-105-14.md) — BGH, Beschluss 2 StR 105/14
-- [BGH, Beschluss vom 08.10.2014 - 2 StR 137/14, 2 StR 337/14](2-str-137-14-2-str-337-14.md) — Anfrage beim Großen Senat in Zivilsachen und den übrigen Strafsenaten: Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers und des Geschädigten be
-- [BGH, Beschluss vom 08.10.2014 - 2 StR 337/14](2-str-337-14.md) — Anfrage beim Großen Senat für Zivilsachen und den anderen Strafsenaten: Berücksichtigung der Vermögenslage des Geschädigten und des Schädigers bei Zuerkennung e
+- [BGH, Beschluss vom 08.10.2014 - 2 StR 137/14, 2 StR 337/14](2-str-137-14-2-str-337-14.md) — Anfrage beim Großen Senat in Zivilsachen und den übrigen Strafsenaten: Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers und des Geschädigten bei der Bemessung des …
+- [BGH, Beschluss vom 08.10.2014 - 2 StR 337/14](2-str-337-14.md) — Anfrage beim Großen Senat für Zivilsachen und den anderen Strafsenaten: Berücksichtigung der Vermögenslage des Geschädigten und des Schädigers bei Zuerkennung eines …
 - [BGH, Beschluss vom 08.10.2014 - 2 StR 36/14](2-str-36-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Urteilsbegründung bei Ausschluss eines minder schweren Falls
-- [BGH, Verfügung vom 25.09.2014 - 2 StR 163/14](2-str-163-14.md) — Die Praxis, wonach Revisionshauptverhandlungen ohne Anwesenheit des vom Angeklagten gewählten Verteidigers durchgeführt werden, genügt den Anforderungen des Art
+- [BGH, Verfügung vom 25.09.2014 - 2 StR 163/14](2-str-163-14.md) — Die Praxis, wonach Revisionshauptverhandlungen ohne Anwesenheit des vom Angeklagten gewählten Verteidigers durchgeführt werden, genügt den Anforderungen des Art. 6 Absatz 3 …
 - [BGH, Urteil vom 24.09.2014 - 2 StR 160/14](2-str-160-14.md) — Heimtückischer Mord: Bewusstes Ausnutzen von Arg- und Wehrlosigkeit eines ahnungslosen Opfers bei einem überraschendem Messerangriff
 - [BGH, Beschluss vom 24.09.2014 - 2 StR 235/14](2-str-235-14.md) — Strafverfahren wegen gefährlicher Körperverletzung: Schuldfähigkeitsprüfung bei Wahnvorstellungen des Angeklagten zum Tatzeitpunkt
 - [BGH, Beschluss vom 24.09.2014 - 2 StR 276/14](2-str-276-14.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Erforderliche Urteilsfeststellungen zur Annahme der Mittäterschaft
 - [BGH, Beschluss vom 17.09.2014 - 2 StR 191/14](2-str-191-14.md) — Strafverfahren wegen Diebstahls: Vollendung des Diebstahls bei Verladen des Diebesguts im räumlichen Machtbereich des Geschädigten
 - [BGH, Beschluss vom 16.09.2014 - 2 StR 101/14](2-str-101-14.md) — Einheitsjugendstrafe: Einbeziehung von Vorverurteilungen
 - [BGH, Beschluss vom 16.09.2014 - 2 StR 113/14](2-str-113-14.md) — Strafverfahren wegen Körperverletzung mit Todesfolge: Fehlerhafte Beweiswürdigung zum Notwehrexzess
-- [BGH, Beschluss vom 11.09.2014 - 2 StR 269/14](2-str-269-14.md) — Strafverfahren wegen besonders schweren Raubes und Freiheitsberaubung: Aufhebung der Fortbewegungsfreiheit bei Fesselung der Hände; Zurücktreten der Freiheitsbe
+- [BGH, Beschluss vom 11.09.2014 - 2 StR 269/14](2-str-269-14.md) — Strafverfahren wegen besonders schweren Raubes und Freiheitsberaubung: Aufhebung der Fortbewegungsfreiheit bei Fesselung der Hände; Zurücktreten der Freiheitsberaubung im Wege der …
 - [BGH, Beschluss vom 26.08.2014 - 2 StR 30/14](2-str-30-14.md) — Strafverfahren wegen gewerbsmäßiger Hehlerei: Versicherungsmissbrauch als taugliche Vortat
-- [BGH, Urteil vom 20.08.2014 - 2 StR 605/13](2-str-605-13.md) — Heimtückischer Mord: Bewusstes Ausnutzen von Arg- und Wehrlosigkeit eines Opfers bei einem vereinbarten Faustkampf "Mann gegen Mann" und überraschendem Messeran
+- [BGH, Urteil vom 20.08.2014 - 2 StR 605/13](2-str-605-13.md) — Heimtückischer Mord: Bewusstes Ausnutzen von Arg- und Wehrlosigkeit eines Opfers bei einem vereinbarten Faustkampf "Mann gegen Mann" und überraschendem Messerangriff
 - [BGH, Beschluss vom 13.08.2014 - 2 ARs 225/14](2-ars-225-14.md) — Vollstreckung einer Jugendstrafe: Einleitung der Vollstreckung als Aufgabe der Justizverwaltung; Zuständigkeitsstreit
 - [BGH, Beschluss vom 13.08.2014 - 2 StR 128/14](2-str-128-14.md) — Strafverfahren wegen sexuellen Missbrauchs von Schutzbefohlenen: Konkretisierung der durch Verfahrenseinstellung ausgeschiedenen Serienstraftaten
-- [BGH, Urteil vom 13.08.2014 - 2 StR 573/13](2-str-573-13.md) — 1. Ein vom Nebenkläger bevollmächtigter und danach beigeordneter Rechtsanwalt kann für die bestimmenden Revisionsschriftsätze Untervollmacht erteilen. 2. Unterz
+- [BGH, Urteil vom 13.08.2014 - 2 StR 573/13](2-str-573-13.md) — 1. Ein vom Nebenkläger bevollmächtigter und danach beigeordneter Rechtsanwalt kann für die bestimmenden Revisionsschriftsätze Untervollmacht erteilen. 2. Unterzeichnet ein …
 - [BGH, Urteil vom 06.08.2014 - 2 StR 153/14](2-str-153-14.md) — Strafverfahren wegen Untreue: Versagung der Strafaussetzung zur Bewährung
 - [BGH, Urteil vom 06.08.2014 - 2 StR 60/14](2-str-60-14.md) — Schwerer Bandendiebstahl: Bandenmitgliedschaft eines Gehilfen
 - [BGH, Beschluss vom 30.07.2014 - 2 StR 248/14](2-str-248-14.md) — Revision in Strafsachen: Kosten- und Auslagenentscheidung nach dem Tod eines Angeklagten
 - [BGH, Beschluss vom 24.07.2014 - 2 StR 221/14](2-str-221-14.md) — Strafzumessung bei Untreue eines Rechtsanwalts: Berücksichtigung von anwaltsrechtlichen Sanktionen
 - [BGH, Urteil vom 23.07.2014 - 2 StR 20/14](2-str-20-14.md) — Anordnung des erweiterten Verfalls wegen Betäubungsmitteldelikts: Einzahlung des sichergestellten Verkaufserlöses bei der Gerichtszahlstelle
 - [BGH, Beschluss vom 22.07.2014 - 2 StR 84/14](2-str-84-14.md) — Strafzumessung bei sexuellem Kindesmissbrauch: Berücksichtigung von erheblichen psychischen Tatfolgen bei einer Tatserie
-- [BGH, Urteil vom 09.07.2014 - 2 StR 13/14](2-str-13-14.md) — Ein zum Zweck sexueller Erregung vorgenommenes Urinieren des Täters in den Mund eines Kindes oder die Veranlassung des Kindes zum Urinieren in den Mund des Täte
+- [BGH, Urteil vom 09.07.2014 - 2 StR 13/14](2-str-13-14.md) — Ein zum Zweck sexueller Erregung vorgenommenes Urinieren des Täters in den Mund eines Kindes oder die Veranlassung des Kindes zum Urinieren in den Mund des Täters ist eine …
 - [BGH, Urteil vom 09.07.2014 - 2 StR 574/13](2-str-574-13.md) — Strafzumessung bei sexuellem Kindesmissbrauch: Berücksichtigung von erheblichen psychischen Tatfolgen bei einer Tatserie
 - [BGH, Beschluss vom 08.07.2014 - 2 StR 175/14](2-str-175-14.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Erforderlichkeit der Urteilsfeststellungen zur Erheblichkeit der sexuellen Handlungen
 - [BGH, Beschluss vom 07.07.2014 - 2 StR 94/14](2-str-94-14.md) — Strafverfahren wegen Vergewaltigung: Darstellung einer Aussage der Geschädigten bei der Polizei in der Konstellation "Aussage gegen Aussage"
 - [BGH, Urteil vom 25.06.2014 - 2 StR 333/13](2-str-333-13.md) — Strafverfahren: Beweiswürdigung bei Alibibehauptung; Grundsatz "in dubio pro reo" bei zweifelhaftem Alibi des Angeklagten
-- [BGH, Beschluss vom 24.06.2014 - 2 StR 73/14](2-str-73-14.md) — Die Ingebrauchnahme eines Fahrzeugs durch einen an sich Unberechtigten allein zum Zwecke der Rückführung an den Berechtigten ist regelmäßig von dessen mutmaßlic
+- [BGH, Beschluss vom 24.06.2014 - 2 StR 73/14](2-str-73-14.md) — Die Ingebrauchnahme eines Fahrzeugs durch einen an sich Unberechtigten allein zum Zwecke der Rückführung an den Berechtigten ist regelmäßig von dessen mutmaßlichen Willen gedeckt …
 - [BGH, Beschluss vom 24.06.2014 - 2 StR 83/14](2-str-83-14.md) — Strafzumessung: Strafrahmen für Beihilfe zu einem versuchten Wohnungseinbruchdiebstahl
 - [BGH, Beschluss vom 17.06.2014 - 2 StR 658/13](2-str-658-13.md) — Betrug: Notwendige Urteilsfeststellungen zum täuschungsbedingten Irrtum bei der Warenbestellung im Internet unter Verwendung einer fremden Kreditkarte
 - [BGH, Urteil vom 11.06.2014 - 2 StR 117/14](2-str-117-14.md) — Heimtückischer Mord: Bewusstes Ausnutzen von Arg- und Wehrlosigkeit eines Opfers; Auswirkung des psychischen Zustandes des Täters auf die Erkenntnisfähigkeit
-- [BGH, Urteil vom 11.06.2014 - 2 StR 489/13](2-str-489-13.md) — Verteidigung von Mitbeschuldigten durch Rechtsanwälte derselben Bürogemeinschaft: Besorgnis der richterlichen Befangenheit bei Ablehnung der Verteidigerentpflic
+- [BGH, Urteil vom 11.06.2014 - 2 StR 489/13](2-str-489-13.md) — Verteidigung von Mitbeschuldigten durch Rechtsanwälte derselben Bürogemeinschaft: Besorgnis der richterlichen Befangenheit bei Ablehnung der Verteidigerentpflichtung
 - [BGH, Urteil vom 11.06.2014 - 2 StR 90/14](2-str-90-14.md) — Revision im Strafverfahren: Bestimmung des Angriffsziels durch Auslegung
-- [BGH, Urteil vom 05.06.2014 - 2 StR 381/13](2-str-381-13.md) — Die Rüge eines Verstoßes gegen die Mitteilungs- und Dokumentationspflichten gemäß § 243 Abs. 4 Satz 2 StPO setzt nicht voraus, dass der Verteidiger zuvor von de
-- [BGH, Urteil vom 05.06.2014 - 2 StR 624/12](2-str-624-12.md) — Strafverfahren wegen Mordes: Ablehnung eines Beweisantrags auf Einholung eines Sachverständigengutachtens zur Bestimmung des Todeszeitpunktes; Beruhen des Urtei
+- [BGH, Urteil vom 05.06.2014 - 2 StR 381/13](2-str-381-13.md) — Die Rüge eines Verstoßes gegen die Mitteilungs- und Dokumentationspflichten gemäß § 243 Abs. 4 Satz 2 StPO setzt nicht voraus, dass der Verteidiger zuvor von dem …
+- [BGH, Urteil vom 05.06.2014 - 2 StR 624/12](2-str-624-12.md) — Strafverfahren wegen Mordes: Ablehnung eines Beweisantrags auf Einholung eines Sachverständigengutachtens zur Bestimmung des Todeszeitpunktes; Beruhen des Urteils auf den Aussagen …
 - [BGH, Beschluss vom 04.06.2014 - 2 StR 31/14](2-str-31-14.md) — Überlange Verfahrensdauer in Strafsachen: Strafmilderung auf Grund der Verfahrensverzögerung durch einen eklatanten Verfahrensfehler
-- [BGH, Beschluss vom 04.06.2014 - 2 StR 656/13](2-str-656-13.md) — Anfrage an die übrigen Strafsenate des BGH: Voraussetzungen der Verwertung einer während der richterlichen Vernehmung getätigten Zeugenaussage bei Zeugnisverwei
+- [BGH, Beschluss vom 04.06.2014 - 2 StR 656/13](2-str-656-13.md) — Anfrage an die übrigen Strafsenate des BGH: Voraussetzungen der Verwertung einer während der richterlichen Vernehmung getätigten Zeugenaussage bei Zeugnisverweigerung in der …
 - [BGH, Urteil vom 28.05.2014 - 2 StR 437/13](2-str-437-13.md) — Betrug: Versendung von so genannten „Angebotsrechnungen“
-- [BGH, Beschluss vom 27.05.2014 - 2 StR 354/13](2-str-354-13.md) — Strafverfahren wegen unerlaubter Abgabe von Betäubungsmitteln: Abgabe im Rahmen der ärztlichen Substitutionsbehandlung; fehlende Zustimmung der Erziehungsberech
+- [BGH, Beschluss vom 27.05.2014 - 2 StR 354/13](2-str-354-13.md) — Strafverfahren wegen unerlaubter Abgabe von Betäubungsmitteln: Abgabe im Rahmen der ärztlichen Substitutionsbehandlung; fehlende Zustimmung der Erziehungsberechtigten …
 - [BGH, Beschluss vom 27.05.2014 - 2 StR 520/13](2-str-520-13.md) — Minder schwerer Fall des Totschlags: Prüfungsreihenfolge der Tatbestandsalternativen
 - [BGH, Beschluss vom 27.05.2014 - 2 StR 606/13](2-str-606-13.md) — Geiselnahme: Eigenständige Bedeutung der Bemächtigungssituation
 - [BGH, Beschluss vom 15.05.2014 - 2 StR 1/14](2-str-1-14.md) — Tatrichterliche Überzeugungsbildung im Strafverfahren: Grundsatz "in dubio pro reo" bei Tatbeteiligung mehrerer Angeklagter
 - [BGH, Beschluss vom 15.05.2014 - 2 StR 581/13](2-str-581-13.md) — Rücktritt vom Versuch einer räuberischen Erpressung: Anwendung des Zweifelssatzes bei fehlenden Feststellungen zum Ladezustand einer Schreckschusspistole
 - [BGH, Urteil vom 14.05.2014 - 2 StR 275/13](2-str-275-13.md) — Gefährliche Körperverletzung: Einsatz eines Messergriffs beim Schlag gegen den Kopf des Opfers
 - [BGH, Beschluss vom 14.05.2014 - 2 StR 465/13](2-str-465-13.md) — Bandendiebstahl: Tatrichterliche Würdigung eines Geständnisses; Kriterien für bandenmäßige Tatbegehung
-- [BGH, Urteil vom 14.05.2014 - 2 StR 475/13](2-str-475-13.md) — Ablehnung eines Beweisantrags im Strafverfahren: Verlesung eines Vernehmungsprotokolls zur Ergänzung der Zeugenaussage als Verstoß gegen den Unmittelbarkeitsgru
-- [BGH, Urteil vom 14.05.2014 - 2 StR 556/13](2-str-556-13.md) — Mordversuch bei verminderter Steuerungsfähigkeit der Täter: Erforderliche Tätereinsicht in die Niedrigkeit des Tuns; Mordmerkmal der Heimtücke bei überraschende
+- [BGH, Urteil vom 14.05.2014 - 2 StR 475/13](2-str-475-13.md) — Ablehnung eines Beweisantrags im Strafverfahren: Verlesung eines Vernehmungsprotokolls zur Ergänzung der Zeugenaussage als Verstoß gegen den Unmittelbarkeitsgrundsatz
+- [BGH, Urteil vom 14.05.2014 - 2 StR 556/13](2-str-556-13.md) — Mordversuch bei verminderter Steuerungsfähigkeit der Täter: Erforderliche Tätereinsicht in die Niedrigkeit des Tuns; Mordmerkmal der Heimtücke bei überraschendem Angriff des …
 - [BGH, Beschluss vom 07.05.2014 - 2 StR 506/13](2-str-506-13.md) — Strafverfahren wegen Betäubungsmitteldelikt: Verfahrensfehler bei Ablehnung eines Beweisantrags auf kommissarische Vernehmung eines Zeugen
 - [BGH, Urteil vom 30.04.2014 - 2 StR 383/13](2-str-383-13.md) — Körperverletzung: Abgrenzung von bedingtem Vorsatz und bewusster Fahrlässigkeit
-- [BGH, Beschluss vom 29.04.2014 - 2 StR 616/13](2-str-616-13.md) — Strafverfahren wegen unerlaubten Handels mit Betäubungsmitteln: Verletzung des Doppelverwertungsverbots bei strafschärfender Berücksichtigung eines Tatbestandsm
+- [BGH, Beschluss vom 29.04.2014 - 2 StR 616/13](2-str-616-13.md) — Strafverfahren wegen unerlaubten Handels mit Betäubungsmitteln: Verletzung des Doppelverwertungsverbots bei strafschärfender Berücksichtigung eines Tatbestandsmerkmals
 - [BGH, Beschluss vom 29.04.2014 - 2 StR 89/14](2-str-89-14.md) — Unerlaubte Durchfuhr von Betäubungsmitteln: Qualifikation „in nicht geringer Menge"
 - [BGH, Beschluss vom 28.04.2014 - 2 ARs 53/14, 2 AR 55/14](2-ars-53-14-2-ar-55-14.md) — BGH, Beschluss 2 ARs 53/14, 2 AR 55/14
 - [BGH, Beschluss vom 17.04.2014 - 2 StR 405/12](2-str-405-12.md) — Schuldfähigkeit: Fähigkeit des Täters zur Unrechtseinsicht
-- [BGH, Beschluss vom 16.04.2014 - 2 StR 435/13](2-str-435-13.md) — Ebay-Betrug: Tatbeendigung mit Eingang von Vorschusszahlungen auf dem Bankkonto des Täters; Abheben des Geldes vom Konto durch einen Beteiligten als Begünstigun
+- [BGH, Beschluss vom 16.04.2014 - 2 StR 435/13](2-str-435-13.md) — Ebay-Betrug: Tatbeendigung mit Eingang von Vorschusszahlungen auf dem Bankkonto des Täters; Abheben des Geldes vom Konto durch einen Beteiligten als Begünstigung
 - [BGH, Urteil vom 16.04.2014 - 2 StR 608/13](2-str-608-13.md) — Konkurrenzen: Tateinheit zwischen der Misshandlung eines Schutzbefohlenen durch Quälen und Totschlag
-- [BGH, Beschluss vom 15.04.2014 - 2 StR 545/13](2-str-545-13.md) — Zur Verwirklichung des Tatbestands des Verwendens eines gefährlichen Werkzeugs bei einer sexuellen Nötigung reicht es aus, wenn der Täter das Werkzeug ohne Nöti
+- [BGH, Beschluss vom 15.04.2014 - 2 StR 545/13](2-str-545-13.md) — Zur Verwirklichung des Tatbestands des Verwendens eines gefährlichen Werkzeugs bei einer sexuellen Nötigung reicht es aus, wenn der Täter das Werkzeug ohne Nötigungskomponente …
 - [BGH, Beschluss vom 15.04.2014 - 2 StR 566/13](2-str-566-13.md) — Diebstahl: Strafzumessung bei unterschiedlichen Schadenshöhen
 - [BGH, Beschluss vom 15.04.2014 - 2 StR 626/13](2-str-626-13.md) — Unerlaubter Besitz von Betäubungsmitteln: Strafzumessung für den Besitz von 0,5 g Marihuana
 - [BGH, Beschluss vom 03.04.2014 - 2 StR 643/13](2-str-643-13.md) — Freiwilligkeit des Rücktritts vom versuchten Totschlag nach Einwirken eines Dritten
 - [BGH, Urteil vom 02.04.2014 - 2 StR 554/13](2-str-554-13.md) — Urteil: Anforderungen an die Urteilsgründe beim Freispruch aus tatsächlichen Gründen
 - [BGH, Beschluss vom 01.04.2014 - 2 ARs 30/14](2-ars-30-14.md) — Gerichtsstandsbestimmung: Taten während des 2. Weltkrieges; Amtsträgereigenschaft bei Mitgliedern von SS bzw. SD-Verbänden
-- [BGH, Beschluss vom 01.04.2014 - 2 StR 602/13](2-str-602-13.md) — Unterbringung in einem psychiatrischen Krankenhaus: Verminderung der Steuerungsfähigkeit infolge einer Kombination aus Minderbegabung, Persönlichkeitsstörung un
+- [BGH, Beschluss vom 01.04.2014 - 2 StR 602/13](2-str-602-13.md) — Unterbringung in einem psychiatrischen Krankenhaus: Verminderung der Steuerungsfähigkeit infolge einer Kombination aus Minderbegabung, Persönlichkeitsstörung und Alkoholkonsum
 - [BGH, Beschluss vom 26.03.2014 - 2 StR 202/13](2-str-202-13.md) — Gesamtstrafenbildung bei Betäubungsmitteldelikten: Härteausgleich in Ansehung der Nichteinbeziehung einer ausländischen Strafe
 - [BGH, Beschluss vom 26.03.2014 - 2 StR 274/13](2-str-274-13.md) — Beweisaufnahme im Strafverfahren: Ablehnung eines Beweisantrags auf Einholung eines Sachverständigengutachtens wegen genügender eigener Sachkunde
 - [BGH, Beschluss vom 26.03.2014 - 2 StR 505/13](2-str-505-13.md) — Mittäterschaft bei vorsätzlicher Tötung: Zurechnung des Mordmerkmals des niedrigen Beweggrunds
-- [BGH, Urteil vom 19.03.2014 - 2 StR 445/13](2-str-445-13.md) — Besitzverschaffung an kinderpornografischen Schriften: Strafbarkeit eines Verteidigers wegen der Übergabe von kinderpornografischen Bilddateien an einen Sachver
+- [BGH, Urteil vom 19.03.2014 - 2 StR 445/13](2-str-445-13.md) — Besitzverschaffung an kinderpornografischen Schriften: Strafbarkeit eines Verteidigers wegen der Übergabe von kinderpornografischen Bilddateien an einen Sachverständigen …
 - [BGH, Beschluss vom 18.03.2014 - 2 ARs 7/14](2-ars-7-14.md) — Zuständigkeit des Jugendgerichts: Verfahrensabgabe wegen Aufenthaltswechsels
 - [BGH, Beschluss vom 18.03.2014 - 2 StR 448/13](2-str-448-13.md) — Strafverfahren: Anforderungen an die Begründung der Ablehnung eines Beweisantrags wegen Bedeutungslosigkeit einer Indiztatsache
-- [BGH, Beschluss vom 13.03.2014 - 2 StR 4/14](2-str-4-14.md) — Strafaussetzung zur Bewährung: Bedeutung einer positiven Sozialprognose für die Aussetzung einer Freiheitsstrafe von mehr als einem Jahr wegen Betäubungsmitteld
+- [BGH, Beschluss vom 13.03.2014 - 2 StR 4/14](2-str-4-14.md) — Strafaussetzung zur Bewährung: Bedeutung einer positiven Sozialprognose für die Aussetzung einer Freiheitsstrafe von mehr als einem Jahr wegen Betäubungsmitteldelikten
 - [BGH, Beschluss vom 12.03.2014 - 2 ARs 434/13](2-ars-434-13.md) — (Strafvollzugssache: Zuständigkeit für das Antragsverfahren gemäß § 109 StVollzG bei Anfechtung eines Verlegungsbescheides)
 - [BGH, Beschluss vom 12.03.2014 - 2 StR 436/13](2-str-436-13.md) — Unterbringung in einer Entziehungsanstalt: Erfolgsaussicht bei Sprachunkundigkeit eines Ausländers
-- [BGH, Urteil vom 05.03.2014 - 2 StR 496/13](2-str-496-13.md) — Strafzumessung: Täter-Opfer-Ausgleich bei mehreren Geschädigten; Übernahme von Verantwortung für die Tat durch den Täter bei Schadensausgleich durch eine Versic
+- [BGH, Urteil vom 05.03.2014 - 2 StR 496/13](2-str-496-13.md) — Strafzumessung: Täter-Opfer-Ausgleich bei mehreren Geschädigten; Übernahme von Verantwortung für die Tat durch den Täter bei Schadensausgleich durch eine Versicherung des …
 - [BGH, Urteil vom 05.03.2014 - 2 StR 503/13](2-str-503-13.md) — Beweisaufnahme im Strafverfahren: Ablehnung der Einholung eines Sachverständigengutachtens zur Glaubwürdigkeit des Zeugen unter Verweis auf die eigene Sachkunde
 - [BGH, Urteil vom 05.03.2014 - 2 StR 616/12](2-str-616-12.md) — Strafverfahren wegen versuchten Betrugs: Routenplaner-Service mit "Abo-Falle" im Internet
 - [BGH, Beschluss vom 20.02.2014 - 2 StR 563/13](2-str-563-13.md) — Betäubungsmittelhandel: Voraussetzungen des täterschaftlichen Handeltreibens
@@ -115,6 +115,6 @@
 - [BGH, Beschluss vom 23.01.2014 - 2 StR 637/13](2-str-637-13.md) — Mord: Besondere Schuldschwere bei Verwirklichung mehrerer Mordmerkmale
 - [BGH, Urteil vom 22.01.2014 - 2 StR 314/13](2-str-314-13.md) — Beweiswürdigung im freisprechenden Strafurteil: Notwendige Darstellung einer Zeugenaussage in einer Aussage-gegen-Aussage-Konstellation
 - [BGH, Urteil vom 22.01.2014 - 2 StR 393/13](2-str-393-13.md) — Strafzumessung: Orientierung der Strafe an einer gescheiterten Verständigung
-- [BGH, Urteil vom 22.01.2014 - 2 StR 479/13](2-str-479-13.md) — 1. Der subjektive Tatbestand der Rechtsbeugung setzt mindestens bedingten Vorsatz hinsichtlich eines Verstoßes gegen geltendes Recht sowie einer Bevorzugung ode
+- [BGH, Urteil vom 22.01.2014 - 2 StR 479/13](2-str-479-13.md) — 1. Der subjektive Tatbestand der Rechtsbeugung setzt mindestens bedingten Vorsatz hinsichtlich eines Verstoßes gegen geltendes Recht sowie einer Bevorzugung oder Benachteiligung …
 - [BGH, Beschluss vom 21.01.2014 - 2 StR 507/13](2-str-507-13.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Tateinheit mit versuchter räuberischer Erpressung zwecks Beitreibung des Kaufpreises
-- [BGH, Beschluss vom 21.01.2014 - 2 StR 650/13](2-str-650-13.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Darlegung der Erfolgsaussicht einer neuen Therapie nach mehreren erfolglos absolvierten Therapie
+- [BGH, Beschluss vom 21.01.2014 - 2 StR 650/13](2-str-650-13.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Darlegung der Erfolgsaussicht einer neuen Therapie nach mehreren erfolglos absolvierten Therapien in den letzten 14 …

@@ -10,53 +10,53 @@
 - [BGH, Beschluss vom 17.12.2014 - 4 StR 556/14](4-str-556-14.md) — Konkurrenzverhältnis zwischen fahrlässiger und vorsätzlicher schwerer Brandstiftung
 - [BGH, Beschluss vom 16.12.2014 - 4 ARs 21/14](4-ars-21-14.md) — Voraussetzungen der Verwertung einer während der richterlichen Vernehmung getätigten Zeugenaussage bei Zeugnisverweigerung in der Hauptverhandlung
 - [BGH, Urteil vom 04.12.2014 - 4 StR 213/14](4-str-213-14.md) — Der vertypte Strafmilderungsgrund des § 46a Nr. 1 StGB ist auf den vorsätzlichen Eingriff in den Straßenverkehr nach § 315b StGB nicht anwendbar.
-- [BGH, Urteil vom 04.12.2014 - 4 StR 60/14](4-str-60-14.md) — 1. Eine Feststellung nach § 111i Abs. 2 Satz 1 StPO setzt nicht voraus, dass eine Beschlagnahme nach § 111c StPO vorgenommen oder ein Arrest nach § 111d StPO (w
+- [BGH, Urteil vom 04.12.2014 - 4 StR 60/14](4-str-60-14.md) — 1. Eine Feststellung nach § 111i Abs. 2 Satz 1 StPO setzt nicht voraus, dass eine Beschlagnahme nach § 111c StPO vorgenommen oder ein Arrest nach § 111d StPO (wirksam) angeordnet …
 - [BGH, Beschluss vom 03.12.2014 - 4 StR 335/14](4-str-335-14.md) — Revision im Strafverfahren: Anforderungen an die Verfahrensrüge bei erneuter und wirksamer Urteilszustellung
 - [BGH, Beschluss vom 03.12.2014 - 4 StR 342/14](4-str-342-14.md) — Besitzverschaffung an einer kinderpornografischen Schrift: Begriff der sexuellen Handlung eines Kindes; Nacktaufnahme als Kinderpornografie
 - [BGH, Beschluss vom 03.12.2014 - 4 StR 512/14](4-str-512-14.md) — Bewaffnetes unerlaubtes Handeltreiben mit Betäubungsmitteln in minder schwerem Fall: Anwendung der Mindeststrafe eines verdrängten Tatbestandes
 - [BGH, Beschluss vom 02.12.2014 - 4 StR 381/14](4-str-381-14.md) — Beweiswürdigung im Strafverfahren wegen sexuellen Missbrauch eines Kindes: Abweichung vom Sachverständigengutachten
 - [BGH, Beschluss vom 02.12.2014 - 4 StR 473/14](4-str-473-14.md) — Unerlaubter Waffenbesitz: Konkurrenz bei gleichzeitiger Ausübung der tatsächlichen Gewalt über Waffen und Munition an verschiedenen Orten
 - [BGH, Urteil vom 20.11.2014 - 4 StR 153/14](4-str-153-14.md) — Strafverfahren wegen Kindesmissbrauchs: Veränderung des in der Anklage angegebenen Tatzeitpunktes
-- [BGH, Urteil vom 20.11.2014 - 4 StR 234/14](4-str-234-14.md) — Strafverfahren wegen unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge: Hinweispflicht bei unvollständiger Fassung der Anklageschrift und nähere
-- [BGH, Beschluss vom 19.11.2014 - 4 StR 284/14](4-str-284-14.md) — Strafverfahren wegen schweren Bandendiebstahls: Abgrenzung zwischen Tateinheit und Tatmehrheit bei Mittäterschaft an einer Deliktsserie; Annahme der Begehung ei
+- [BGH, Urteil vom 20.11.2014 - 4 StR 234/14](4-str-234-14.md) — Strafverfahren wegen unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge: Hinweispflicht bei unvollständiger Fassung der Anklageschrift und näherer Konkretisierung …
+- [BGH, Beschluss vom 19.11.2014 - 4 StR 284/14](4-str-284-14.md) — Strafverfahren wegen schweren Bandendiebstahls: Abgrenzung zwischen Tateinheit und Tatmehrheit bei Mittäterschaft an einer Deliktsserie; Annahme der Begehung einer Handlung bei …
 - [BGH, Beschluss vom 19.11.2014 - 4 StR 427/14](4-str-427-14.md) — Beweiswürdigung im Strafverfahren wegen sexuellen Missbrauchs eines Kindes: Lügen des einzigen Belastungszeugen
 - [BGH, Beschluss vom 19.11.2014 - 4 StR 497/14](4-str-497-14.md) — Strafverfahren: Anforderungen an die Schuldfähigkeitsprüfung
 - [BGH, Beschluss vom 18.11.2014 - 4 ARs 20-1/14, 2 StR 104/14](4-ars-20-1-14-2-str-104-14.md) — BGH, Beschluss 4 ARs 20-1/14, 2 StR 104/14
 - [BGH, Beschluss vom 18.11.2014 - 4 ARs 20-2/14, 2 StR 105/14](4-ars-20-2-14-2-str-105-14.md) — BGH, Beschluss 4 ARs 20-2/14, 2 StR 105/14
-- [BGH, Beschluss vom 06.11.2014 - 4 StR 290/14](4-str-290-14.md) — Verfallsanordnung bei Betrug: Absehen von der Anordnung des Wertersatzverfalls bei unbilliger Härte; Erstreckung der Aufhebung der Verfallsanordnung auf nicht r
+- [BGH, Beschluss vom 06.11.2014 - 4 StR 290/14](4-str-290-14.md) — Verfallsanordnung bei Betrug: Absehen von der Anordnung des Wertersatzverfalls bei unbilliger Härte; Erstreckung der Aufhebung der Verfallsanordnung auf nicht revidierenden …
 - [BGH, Beschluss vom 06.11.2014 - 4 StR 416/14](4-str-416-14.md) — Heimtückischer Mord: Arglosigkeit des Opfers bei planmäßigem Locken des Opfers in eine Falle; Zeitpunkt des Tötungsvorsatzes
 - [BGH, Beschluss vom 05.11.2014 - 4 StR 358/14](4-str-358-14.md) — Unterbringung in einer Entziehungsanstalt: Anordnung bei voraussichtlicher Behandlungsdauer von mehr als 2 Jahren
 - [BGH, Beschluss vom 05.11.2014 - 4 StR 385/14](4-str-385-14.md) — Strafverfahren wegen schweren sexuellen Missbrauch eines Kindes: Verkündung eines Ausschließungsbeschlusses in Abwesenheit des Angeklagten
 - [BGH, Beschluss vom 04.11.2014 - 4 StR 200/14](4-str-200-14.md) — Zufahren auf einen anderen Verkehrsteilnehmer mit einem Pkw: Vorsatz der gefährlichen Körperverletzung
 - [BGH, Beschluss vom 23.10.2014 - 4 StR 377/14](4-str-377-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bewertungseinheit bei Vermischung sukzessive erworbener Betäubungsmittelmengen
-- [BGH, Beschluss vom 21.10.2014 - 4 StR 351/14](4-str-351-14.md) — Strafverfahren wegen schwerer räuberischer Erpressung: Abgrenzung zwischen Beisichführen und Verwenden einer Waffe oder eines gefährlichen Werkzeugs; Kenntnis d
+- [BGH, Beschluss vom 21.10.2014 - 4 StR 351/14](4-str-351-14.md) — Strafverfahren wegen schwerer räuberischer Erpressung: Abgrenzung zwischen Beisichführen und Verwenden einer Waffe oder eines gefährlichen Werkzeugs; Kenntnis des Opfers von der …
 - [BGH, Urteil vom 09.10.2014 - 4 StR 201/14](4-str-201-14.md) — Beweiswürdigung im Strafverfahren: Nichtbefassung mit naheliegendem alternativen Geschehensablauf
 - [BGH, Urteil vom 09.10.2014 - 4 StR 208/14](4-str-208-14.md) — Räuberische Erpressung: Drohung mit einer gegenwärtigen Gefahr für Leib und Leben bei Drohgebärde mit einem Messer
 - [BGH, Beschluss vom 09.10.2014 - 4 StR 374/14](4-str-374-14.md) — Versäumung der Revisionsbegründungsfrist in Strafsachen: Verschulden des Angeklagten bei lediglich fristwahrender Revisionseinlegung durch den Verteidiger
 - [BGH, Beschluss vom 08.10.2014 - 4 StR 262/14](4-str-262-14.md) — Revision im Strafverfahren: Nachholung der Führerscheineinziehung
 - [BGH, Beschluss vom 08.10.2014 - 4 StR 473/13](4-str-473-13.md) — Strafverfahren wegen fahrlässiger Tötung: Verteilung der Verfahrenskosten nach Zurückverweisung
 - [BGH, Beschluss vom 07.10.2014 - 4 StR 371/14](4-str-371-14.md) — Deliktsserie der Untreue: Konkurrenzverhältnisse bei Beihilfe
-- [BGH, Beschluss vom 07.10.2014 - 4 StR 397/14](4-str-397-14.md) — Verminderte Schuldfähigkeit bei einem versuchten besonders schweren Raub: Feststellung der Blutalkoholkonzentration auf Grund der Trinkmenge; hohe Blutalkoholko
-- [BGH, Urteil vom 25.09.2014 - 4 StR 586/13](4-str-586-13.md) — § 4a Abs. 2 Nr. 1 RVG begründet kraft Gesetzes eine Garantenstellung des Rechtsanwalts, der vor Abschluss einer Erfolgshonorarvereinbarung seinen Mandanten über
+- [BGH, Beschluss vom 07.10.2014 - 4 StR 397/14](4-str-397-14.md) — Verminderte Schuldfähigkeit bei einem versuchten besonders schweren Raub: Feststellung der Blutalkoholkonzentration auf Grund der Trinkmenge; hohe Blutalkoholkonzentration als …
+- [BGH, Urteil vom 25.09.2014 - 4 StR 586/13](4-str-586-13.md) — § 4a Abs. 2 Nr. 1 RVG begründet kraft Gesetzes eine Garantenstellung des Rechtsanwalts, der vor Abschluss einer Erfolgshonorarvereinbarung seinen Mandanten über die …
 - [BGH, Urteil vom 25.09.2014 - 4 StR 69/14](4-str-69-14.md) — Zu den Anforderungen an die Bestimmtheit einer Verfahrenseinstellung nach § 154 Abs. 2 StPO.
 - [BGH, Beschluss vom 23.09.2014 - 4 StR 302/14](4-str-302-14.md) — Revision im Strafverfahren: Abwesenheit des Angeklagten bei der Verhandlung über die Entlassung eines Zeugen
 - [BGH, Beschluss vom 23.09.2014 - 4 StR 375/14](4-str-375-14.md) — Betäubungsmitteldelikt: Bestimmung der nicht geringen Menge beim Herstellen von Betäubungsmitteln
-- [BGH, Beschluss vom 23.09.2014 - 4 StR 92/14](4-str-92-14.md) — Ein Fahrlehrer, der als Beifahrer während einer Ausbildungsfahrt einen Fahrschüler begleitet, dessen fortgeschrittener Ausbildungsstand zu einem Eingreifen in d
+- [BGH, Beschluss vom 23.09.2014 - 4 StR 92/14](4-str-92-14.md) — Ein Fahrlehrer, der als Beifahrer während einer Ausbildungsfahrt einen Fahrschüler begleitet, dessen fortgeschrittener Ausbildungsstand zu einem Eingreifen in der konkreten …
 - [BGH, Beschluss vom 11.09.2014 - 4 ARs 12/14](4-ars-12-14.md) — (Verstoß der richterrechtlich entwickelten Rechtsfigur der ungleichartigen Wahlfeststellung gegen Art. 103 Abs. 2 GG)
-- [BGH, Beschluss vom 11.09.2014 - 4 StR 148/14](4-str-148-14.md) — Die Verhängung einer Bewährungsauflage gemäß § 56b Abs. 1 Satz 1 StGB verstößt gegen den Grundsatz des fairen Verfahrens und unterliegt im Beschwerdeverfahren d
+- [BGH, Beschluss vom 11.09.2014 - 4 StR 148/14](4-str-148-14.md) — Die Verhängung einer Bewährungsauflage gemäß § 56b Abs. 1 Satz 1 StGB verstößt gegen den Grundsatz des fairen Verfahrens und unterliegt im Beschwerdeverfahren der Aufhebung, wenn …
 - [BGH, Beschluss vom 11.09.2014 - 4 StR 207/14](4-str-207-14.md) — Konkurrenzverhältnis bei Betrug und Urkundenfälschung: Einreichung mehrerer gefälschter Überweisungsträger am selben Tag in demselben Bankinstitut
-- [BGH, Beschluss vom 11.09.2014 - 4 StR 312/14](4-str-312-14.md) — Geldwäsche und Computerbetrug: Strafbarkeit wegen leichtfertiger Geldwäsche bei Bereitschaftserklärung zur Weiterleitung durch Phishing erlangter Geldbeträge; Z
+- [BGH, Beschluss vom 11.09.2014 - 4 StR 312/14](4-str-312-14.md) — Geldwäsche und Computerbetrug: Strafbarkeit wegen leichtfertiger Geldwäsche bei Bereitschaftserklärung zur Weiterleitung durch Phishing erlangter Geldbeträge; Zeitpunkt der …
 - [BGH, Beschluss vom 09.09.2014 - 4 StR 251/14](4-str-251-14.md) — Strafverfahren wegen gefährlichen Eingriffs in den Straßenverkehr: Urteilsfeststellungen zum konkreten Gefährdung fremder Sachen von bedeutendem Wert
 - [BGH, Beschluss vom 09.09.2014 - 4 StR 365/14](4-str-365-14.md) — Strafverfahren wegen vorsätzlicher Gefährdung des Straßenverkehrs: Anforderungen an den subjektiven Deliktstatbestand
-- [BGH, Beschluss vom 09.09.2014 - 4 StR 367/14](4-str-367-14.md) — Rücktritt vom versuchten Mord: Fehlschlag eines Versuchs im Rahmen eines mehraktigen Geschehens; Urteilsfeststellungen bei Nichtverwirklichung des ursprüngliche
+- [BGH, Beschluss vom 09.09.2014 - 4 StR 367/14](4-str-367-14.md) — Rücktritt vom versuchten Mord: Fehlschlag eines Versuchs im Rahmen eines mehraktigen Geschehens; Urteilsfeststellungen bei Nichtverwirklichung des ursprünglichen Tatplans
 - [BGH, Beschluss vom 28.08.2014 - 4 StR 330/14](4-str-330-14.md) — Strafzumessung bei banden- und gewerbsmäßigem Betrug: Notwendige Erörterungen zur Strafmilderung bei Aufklärungshilfe durch den Angeklagten
 - [BGH, Beschluss vom 27.08.2014 - 4 StR 259/14](4-str-259-14.md) — Unerlaubtes Entfernen vom Unfallort: Verlassen der Unfallstelle bei wegen eigener Unfallverletzung
-- [BGH, Urteil vom 14.08.2014 - 4 StR 163/14](4-str-163-14.md) — Abgrenzung zwischen Körperverletzung und Tötungsversuch: Urteilsfeststellungen zum voluntativen Merkmal bei Handeln in affektiver Erregung; Narbe im Gesicht als
+- [BGH, Urteil vom 14.08.2014 - 4 StR 163/14](4-str-163-14.md) — Abgrenzung zwischen Körperverletzung und Tötungsversuch: Urteilsfeststellungen zum voluntativen Merkmal bei Handeln in affektiver Erregung; Narbe im Gesicht als erhebliche …
 - [BGH, Beschluss vom 12.08.2014 - 4 StR 174/14](4-str-174-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Abgrenzung von Täterschaft und Beihilfe bei Drogenkurier
 - [BGH, Urteil vom 31.07.2014 - 4 StR 147/14](4-str-147-14.md) — Mordmerkmal Heimtücke: Tötung der Ehefrau bei Selbstmordversuch durch Steuerung eines Pkws gegen einen Baum im Zustand affektiver Erregung
 - [BGH, Urteil vom 31.07.2014 - 4 StR 216/14](4-str-216-14.md) — Erforderlicher Inhalt des Strafurteils: Darlegung der Strafzumessungserwägungen
 - [BGH, Beschluss vom 30.07.2014 - 4 StR 263/14](4-str-263-14.md) — Revision in Strafsachen: Anforderungen an die Aufklärungsrüge wegen unterbliebener Zeugenvernehmung
-- [BGH, Beschluss vom 29.07.2014 - 4 StR 126/14](4-str-126-14.md) — Strafverfahren wegen Betrugs: Mitteilungspflicht über geführte Vorgespräche bei Neubesetzung der Strafkammer; Urteilsfeststellungen zum Eintritt eines Gefährdun
+- [BGH, Beschluss vom 29.07.2014 - 4 StR 126/14](4-str-126-14.md) — Strafverfahren wegen Betrugs: Mitteilungspflicht über geführte Vorgespräche bei Neubesetzung der Strafkammer; Urteilsfeststellungen zum Eintritt eines Gefährdungsschadens
 - [BGH, Urteil vom 17.07.2014 - 4 StR 158/14](4-str-158-14.md) — Rücktritt vom Versuch eines Tötungsdelikts: Korrektur des Rücktrittshorizonts; Abgrenzung zwischen beendetem und unbeendetem Versuch
 - [BGH, Urteil vom 17.07.2014 - 4 StR 78/14](4-str-78-14.md) — Revision in Strafsachen: Formelle Anforderungen an eine Inbegriffsrüge; notwendiger Inhalt eines auf die Vernehmung eines Zeugen gerichteten Beweisantrages
 - [BGH, Beschluss vom 15.07.2014 - 4 StR 34/14](4-str-34-14.md) — Strafverfahren: Vorübergehende Bestellung einer Justizangestellten zur Urkundsbeamtin der Geschäftsstelle
@@ -67,36 +67,36 @@
 - [BGH, Beschluss vom 18.06.2014 - 4 StR 128/14](4-str-128-14.md) — Einziehung eines Personal-Computers: Datenlöschung als milderes Mittel
 - [BGH, Beschluss vom 17.06.2014 - 4 StR 171/14](4-str-171-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die tatrichterlichen Feststellungen zur Schuldunfähigkeit bzw. verminderten Schuldfähigkeit
 - [BGH, Beschluss vom 17.06.2014 - 4 StR 71/14](4-str-71-14.md) — Waffendelikte: Konkurrenz mehrerer Waffendelikte; Verringerung des Tatunrechts und des Schuldgehalts durch Korrektur des Konkurrenzverhältnisses
-- [BGH, Beschluss vom 16.06.2014 - 4 StR 111/14](4-str-111-14.md) — Strafverfahren wegen jahrelanger Nachstellung und Körperverletzung: Gefährlichkeitsprognose vor der Anordnung einer Unterbringung des Täters in einem psychiatri
-- [BGH, Beschluss vom 16.06.2014 - 4 StR 21/14](4-str-21-14.md) — Zum Abrechnungsbetrug der Betreiberin eines ambulanten Pflegedienstes, deren Mitarbeiter nicht über die mit der Kranken- und Pflegekasse vertraglich vereinbarte
-- [BGH, Urteil vom 05.06.2014 - 4 StR 439/13](4-str-439-13.md) — Nach dem gegenwärtig erreichten wissenschaftlichen Stand der forensischen Molekulargenetik sind zur Nachvollziehbarkeit der Wahrscheinlichkeitsberechnung bei DN
+- [BGH, Beschluss vom 16.06.2014 - 4 StR 111/14](4-str-111-14.md) — Strafverfahren wegen jahrelanger Nachstellung und Körperverletzung: Gefährlichkeitsprognose vor der Anordnung einer Unterbringung des Täters in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 16.06.2014 - 4 StR 21/14](4-str-21-14.md) — Zum Abrechnungsbetrug der Betreiberin eines ambulanten Pflegedienstes, deren Mitarbeiter nicht über die mit der Kranken- und Pflegekasse vertraglich vereinbarte Qualifikation …
+- [BGH, Urteil vom 05.06.2014 - 4 StR 439/13](4-str-439-13.md) — Nach dem gegenwärtig erreichten wissenschaftlichen Stand der forensischen Molekulargenetik sind zur Nachvollziehbarkeit der Wahrscheinlichkeitsberechnung bei …
 - [BGH, Urteil vom 05.06.2014 - 4 StR 59/14](4-str-59-14.md) — Revision in Strafsachen: Antrag der Staatsanwaltschaft auf Wiedereinbeziehung eines ausgeschiedenen Tatteils; Strafmilderung bei geringer krimineller Energie
 - [BGH, Beschluss vom 04.06.2014 - 4 StR 104/14](4-str-104-14.md) — Adhäsionsverfahren: Heilung der unterlassenen rechtzeitigen Zustellung des Entschädigungsantrags an den Angeklagten
 - [BGH, Beschluss vom 03.06.2014 - 4 StR 173/14](4-str-173-14.md) — Wohnungseinbruchdiebstahl beim Einbruch über einen Schuppen in ein Wohnhaus
-- [BGH, Vorlagebeschluss vom 22.05.2014 - 4 StR 223/13](4-str-223-13.md) — Vorlage an den Großen Senat für Strafsachen zu Konkurrenzverhältnissen bei Betäubungsmitteldelikten: Verklammerung mehrerer selbständiger Einfuhrhandlungen durc
-- [BGH, Urteil vom 22.05.2014 - 4 StR 430/13](4-str-430-13.md) — Zu den Anforderungen an die Feststellung und Darlegung des Irrtums beim Betrug im Zusammenhang mit routinemäßigen Massengeschäften (hier: Missbrauch des Einzugs
+- [BGH, Vorlagebeschluss vom 22.05.2014 - 4 StR 223/13](4-str-223-13.md) — Vorlage an den Großen Senat für Strafsachen zu Konkurrenzverhältnissen bei Betäubungsmitteldelikten: Verklammerung mehrerer selbständiger Einfuhrhandlungen durch einheitliche Tat …
+- [BGH, Urteil vom 22.05.2014 - 4 StR 430/13](4-str-430-13.md) — Zu den Anforderungen an die Feststellung und Darlegung des Irrtums beim Betrug im Zusammenhang mit routinemäßigen Massengeschäften (hier: Missbrauch des …
 - [BGH, Urteil vom 22.05.2014 - 4 StR 514/13](4-str-514-13.md) — Betäubungsmittelhandel: Strafmilderung wegen Sicherstellung der Betäubungsmittel; Einziehung des Verkaufserlöses aus Drogengeschäften
 - [BGH, Beschluss vom 21.05.2014 - 4 StR 70/14](4-str-70-14.md) — Schwerer Bandendiebstahl: Beteiligung an einer "gemischten" Bande von Dieben und Hehlern
 - [BGH, Beschluss vom 20.05.2014 - 4 StR 143/14](4-str-143-14.md) — Kreditbetrug: Vermögensschaden bei Stellung von Sicherheiten durch den Schuldner
 - [BGH, Beschluss vom 07.05.2014 - 4 StR 105/14](4-str-105-14.md) — Rücktritt vom Versuch: Beendigung des Versuchs eines Totschlags und Fehlschlag eines Tötungsversuchs durch Würgen
 - [BGH, Beschluss vom 07.05.2014 - 4 StR 95/14](4-str-95-14.md) — Konkurrenzen bei mehrmaligem Gebrauch einer gefälschten Urkunde bei Betrugsversuchen
 - [BGH, Beschluss vom 06.05.2014 - 4 StR 503/13](4-str-503-13.md) — Sexueller Missbrauch von Schutzbefohlenen: Abhängigkeitsverhältnis zwischen einem Lehrer und einem Schüler bei Teilnahme an einem Schulsanitätsdienst
-- [BGH, Beschluss vom 06.05.2014 - 4 StR 88/14](4-str-88-14.md) — Strafverfahren wegen schweren sexuellen Missbrauch eines Kindes: Verletzung des Doppelverwertungsverbots bei strafschärfender Berücksichtigung eines Qualifikati
+- [BGH, Beschluss vom 06.05.2014 - 4 StR 88/14](4-str-88-14.md) — Strafverfahren wegen schweren sexuellen Missbrauch eines Kindes: Verletzung des Doppelverwertungsverbots bei strafschärfender Berücksichtigung eines Qualifikationsmerkmals
 - [BGH, Beschluss vom 10.04.2014 - 4 StR 47/14](4-str-47-14.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefährlichkeitsprognose bei zu erwartenden Vergehen aus dem Bereich der vorsätzlichen Körperverletzung
 - [BGH, Beschluss vom 27.03.2014 - 4 StR 341/13](4-str-341-13.md) — Beihilfe zur versuchten Hehlerei
 - [BGH, Urteil vom 13.03.2014 - 4 StR 15/14](4-str-15-14.md) — Freispruch vom Vorwurf der schweren Körperverletzung: Notwendige Urteilsfeststellungen zu den persönlichen Verhältnissen des Angeklagten
-- [BGH, Urteil vom 13.03.2014 - 4 StR 445/13](4-str-445-13.md) — Strafverfahren: Anforderungen an den einen Beweisantrag auf Ladung eines Auslandszeugen ablehnenden Beschluss; Umfang der richterlichen Aufklärungspflicht; Prüf
+- [BGH, Urteil vom 13.03.2014 - 4 StR 445/13](4-str-445-13.md) — Strafverfahren: Anforderungen an den einen Beweisantrag auf Ladung eines Auslandszeugen ablehnenden Beschluss; Umfang der richterlichen Aufklärungspflicht; Prüfung von …
 - [BGH, Beschluss vom 13.03.2014 - 4 StR 537/13](4-str-537-13.md) — Nachträgliche Gesamtstrafenbildung: Verweisung auf das Nachverfahren nach Wegfall mehrerer Einzelstrafen
 - [BGH, Beschluss vom 12.03.2014 - 4 StR 4/14](4-str-4-14.md) — Betäubungsmitteldelikt: Berechnung der Mindestzahl der Einzeltaten bei einer Tatserie
 - [BGH, Beschluss vom 12.03.2014 - 4 StR 562/13](4-str-562-13.md) — Schwerer sexueller Kindesmissbrauch: "Eigenhändiger" Körperkontakt zum Kind
 - [BGH, Beschluss vom 12.03.2014 - 4 StR 572/13](4-str-572-13.md) — Adhäsionsverfahren: Feststellungsausspruch zur Schadensersatzpflicht bei Mitverschulden des Adhäsionsklägers
 - [BGH, Beschluss vom 11.03.2014 - 4 StR 36/14](4-str-36-14.md) — Besonders schwerer Raub: Ausschluss eines fehlgeschlagenen Versuchs bei zuvorigem Rücktritt
 - [BGH, Beschluss vom 11.03.2014 - 4 StR 479/13](4-str-479-13.md) — Betrug: Voraussetzungen eines Wettbetruges im Falle von Sportwetten
-- [BGH, Beschluss vom 06.03.2014 - 4 StR 553/13](4-str-553-13.md) — Die Anordnung der Zustellung durch den Vorsitzenden ist an eine besondere Form nicht gebunden; sie kann sowohl schriftlich als auch mündlich getroffen werden. I
-- [BGH, Beschluss vom 27.02.2014 - 4 StR 498/13](4-str-498-13.md) — Strafverfahren wegen Betruges: Entscheidung über die Aufrechterhaltung einer Beschlagnahme und Absehen von der Anordnung des Wertersatzverfalls bei unbilliger H
+- [BGH, Beschluss vom 06.03.2014 - 4 StR 553/13](4-str-553-13.md) — Die Anordnung der Zustellung durch den Vorsitzenden ist an eine besondere Form nicht gebunden; sie kann sowohl schriftlich als auch mündlich getroffen werden. In Anbetracht ihrer …
+- [BGH, Beschluss vom 27.02.2014 - 4 StR 498/13](4-str-498-13.md) — Strafverfahren wegen Betruges: Entscheidung über die Aufrechterhaltung einer Beschlagnahme und Absehen von der Anordnung des Wertersatzverfalls bei unbilliger Härte im Falle eines …
 - [BGH, Beschluss vom 26.02.2014 - 4 StR 27/14](4-str-27-14.md) — Revision im Strafverfahren: Verfahrensfehlerhaft unterlassener Hinweis auf die Möglichkeit der Unterbringung in einer Entziehungsanstalt
 - [BGH, Beschluss vom 26.02.2014 - 4 StR 40/14](4-str-40-14.md) — Versuchter Totschlag: Freiwilliger Rücktritt vom fehlgeschlagenen Versuch
-- [BGH, Beschluss vom 26.02.2014 - 4 StR 577/13](4-str-577-13.md) — Strafbarkeit wegen Diebstahls und Brandstiftung: Besonders schwerer Fall bei Diebstahl einer geringwertigen Sache mittels Einbruch; Konkurrenzverhältnis von Die
+- [BGH, Beschluss vom 26.02.2014 - 4 StR 577/13](4-str-577-13.md) — Strafbarkeit wegen Diebstahls und Brandstiftung: Besonders schwerer Fall bei Diebstahl einer geringwertigen Sache mittels Einbruch; Konkurrenzverhältnis von Diebstahl und zur …
 - [BGH, Beschluss vom 26.02.2014 - 4 StR 584/13](4-str-584-13.md) — Schwerer Bandendiebstahl: Voraussetzungen des Einsteigens, Einbrechens und der Gewerbsmäßigkeit; Gewerbsmäßigkeit als besonderes persönliches Merkmal
 - [BGH, Beschluss vom 25.02.2014 - 4 StR 544/13](4-str-544-13.md) — Schwere räuberische Erpressung: Erfordernis der finalen Verknüpfung zwischen Nötigungsmittel und vermögensschädigender Handlung
 - [BGH, Beschluss vom 25.02.2014 - 4 StR 567/13](4-str-567-13.md) — Vollendeter Raub: Zueignungsabsicht hinsichtlich des vom Täter weggenommenen Teils eines bei der gewaltsamen Entwendung zerrissenen Geldscheins
@@ -105,14 +105,14 @@
 - [BGH, Beschluss vom 11.02.2014 - 4 StR 437/13](4-str-437-13.md) — Aussageverweigerungsrecht im Strafverfahren: Verfahrensrüge wegen Verneinung des Verlöbnisses einer Zeugin mit dem Angeklagten durch den Vorsitzenden
 - [BGH, Beschluss vom 11.02.2014 - 4 StR 520/13](4-str-520-13.md) — Straßenverkehrsgefährdung: Strafbarkeit eines unter dem Einfluss von Betäubungsmitteln fahrenden Täters auf der Flucht vor der Polizei
 - [BGH, Beschluss vom 11.02.2014 - 4 StR 73/10](4-str-73-10.md) — Vergütung des Pflichtverteidigers: Bewilligung einer Pauschgebühr bei der Wahrnehmung eines Hauptverhandlungstermins in der Revisionsinstanz
-- [BGH, Beschluss vom 29.01.2014 - 4 StR 254/13](4-str-254-13.md) — Der Grundsatz des fairen Verfahrens gebietet es, den Angeklagten vor einer Verständigung gemäß § 257c StPO, deren Gegenstand die Verhängung einer zur Bewährung 
+- [BGH, Beschluss vom 29.01.2014 - 4 StR 254/13](4-str-254-13.md) — Der Grundsatz des fairen Verfahrens gebietet es, den Angeklagten vor einer Verständigung gemäß § 257c StPO, deren Gegenstand die Verhängung einer zur Bewährung auszusetzenden …
 - [BGH, Beschluss vom 28.01.2014 - 4 StR 502/13](4-str-502-13.md) — Strafurteil: Strafmildernde Bedeutung eines Geständnisses
-- [BGH, Beschluss vom 28.01.2014 - 4 StR 528/13](4-str-528-13.md) — Banküberfall mit Vor-und Nachbereitung: Tateinheit bei Herstellen und Gebrauchen einer unechten zusammengesetzten Urkunde; Konkurrenzverhältnis bei Handlungen v
+- [BGH, Beschluss vom 28.01.2014 - 4 StR 528/13](4-str-528-13.md) — Banküberfall mit Vor-und Nachbereitung: Tateinheit bei Herstellen und Gebrauchen einer unechten zusammengesetzten Urkunde; Konkurrenzverhältnis bei Handlungen vor tatsächlicher …
 - [BGH, Beschluss vom 27.01.2014 - 4 StR 499/13](4-str-499-13.md) — Gesamtstrafenbildung: Wahrung des auslieferungsrechtlichen Spezialitätsgrundsatzes; Zäsurwirkung nicht einbeziehungsfähiger Strafen
 - [BGH, Beschluss vom 27.01.2014 - 4 StR 565/13](4-str-565-13.md) — Rücktritt vom Versuch: Beendeter Versuch wegen gedanklicher Indifferenz des Täters
 - [BGH, Urteil vom 16.01.2014 - 4 StR 370/13](4-str-370-13.md) — Hauptverhandlung im Strafverfahren: Fortsetzung der unterbrochenen Hauptverhandlung trotz Abwesenheit des Angeklagten
-- [BGH, Urteil vom 16.01.2014 - 4 StR 496/13](4-str-496-13.md) — Strafverfahren wegen sexueller Nötigung unter Alkoholeinfluss: Verstoß gegen Weisungen während der Führungsaufsicht durch Zerstörung der Fußfessel; Zweckmäßigke
+- [BGH, Urteil vom 16.01.2014 - 4 StR 496/13](4-str-496-13.md) — Strafverfahren wegen sexueller Nötigung unter Alkoholeinfluss: Verstoß gegen Weisungen während der Führungsaufsicht durch Zerstörung der Fußfessel; Zweckmäßigkeitsprüfung der …
 - [BGH, Beschluss vom 15.01.2014 - 4 StR 509/13](4-str-509-13.md) — Schwere Körperverletzung: Voraussetzung der Unbrauchbarkeit eines wichtigen Körperglieds
 - [BGH, Beschluss vom 14.01.2014 - 4 StR 453/13](4-str-453-13.md) — Strafbarkeit bei absichtlichem Rammen eines Motorradfahrers durch einen Autofahrer
 - [BGH, Beschluss vom 14.01.2014 - 4 StR 529/13](4-str-529-13.md) — Beweisaufnahme im Strafverfahren: Ausschließung des Angeklagten während der Erhebung eines Sachbeweises
-- [BGH, Beschluss vom 13.01.2014 - 4 ARs 9/13](4-ars-9-13.md) — 1. Im Geltungsbereich des Übereinkommens über die Überstellung verurteilter Personen vom 21. März 1983 (ÜberstÜbk) wird dessen Art. 11 Abs. 1 Satz 2 lit. c nich
+- [BGH, Beschluss vom 13.01.2014 - 4 ARs 9/13](4-ars-9-13.md) — 1. Im Geltungsbereich des Übereinkommens über die Überstellung verurteilter Personen vom 21. März 1983 (ÜberstÜbk) wird dessen Art. 11 Abs. 1 Satz 2 lit. c nicht durch die §§ 48 …

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BAföG"
 description: "BGH-Entscheidungen zu BAföG, geordnet nach Vorschrift."
 tags: [register, navigation, bafög]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

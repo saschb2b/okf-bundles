@@ -2,5 +2,5 @@
 
 2 Entscheidung(en).
 
-- [BGH, Beschluss vom 23.04.2024 - KVB 56/22](kvb-56-22.md) — Überragende marktübergreifende Bedeutung für den Wettbewerb Amazon 1. Ein Unternehmen hat eine überragende marktübergreifende Bedeutung für den Wettbewerb, wenn
-- [BGH, Beschluss vom 20.02.2024 - KVB 69/23](kvb-69-23.md) — Google-Offenlegung 1. Die Zuständigkeit des Bundesgerichtshofs in Verfahren nach § 19a GWB für Streitigkeiten gegen selbständig anfechtbare Verfahrenshandlungen
+- [BGH, Beschluss vom 23.04.2024 - KVB 56/22](kvb-56-22.md) — Überragende marktübergreifende Bedeutung für den Wettbewerb Amazon 1. Ein Unternehmen hat eine überragende marktübergreifende Bedeutung für den Wettbewerb, wenn es über Größen- …
+- [BGH, Beschluss vom 20.02.2024 - KVB 69/23](kvb-69-23.md) — Google-Offenlegung 1. Die Zuständigkeit des Bundesgerichtshofs in Verfahren nach § 19a GWB für Streitigkeiten gegen selbständig anfechtbare Verfahrenshandlungen ist nicht auf …

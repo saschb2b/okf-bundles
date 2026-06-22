@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu MietHöReglG"
 description: "BGH-Entscheidungen zu MietHöReglG, geordnet nach Vorschrift."
 tags: [register, navigation, miethöreglg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

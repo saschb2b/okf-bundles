@@ -7,7 +7,7 @@
 - [BGH, Beschluss vom 29.11.2023 - IV ZB 17/23](iv-zb-17-23.md) — BGH, Beschluss IV ZB 17/23
 - [BGH, Beschluss vom 29.11.2023 - IV ZR 101/23](iv-zr-101-23.md) — BGH, Beschluss IV ZR 101/23
 - [BGH, Beschluss vom 29.11.2023 - IV ZR 106/23](iv-zr-106-23.md) — BGH, Beschluss IV ZR 106/23
-- [BGH, Urteil vom 29.11.2023 - IV ZR 117/22](iv-zr-117-22.md) — 1. Eine Verbraucherinformation ist unvollständig, wenn sie keine Angaben über die Frist, während der ein Antragsteller an den Antrag gebunden sein sollte, enthä
+- [BGH, Urteil vom 29.11.2023 - IV ZR 117/22](iv-zr-117-22.md) — 1. Eine Verbraucherinformation ist unvollständig, wenn sie keine Angaben über die Frist, während der ein Antragsteller an den Antrag gebunden sein sollte, enthält. Das …
 - [BGH, Beschluss vom 29.11.2023 - IV ZR 19/22](iv-zr-19-22.md) — BGH, Beschluss IV ZR 19/22
 - [BGH, Beschluss vom 29.11.2023 - IV ZR 197/22](iv-zr-197-22.md) — BGH, Beschluss IV ZR 197/22
 - [BGH, Beschluss vom 29.11.2023 - IV ZR 245/21](iv-zr-245-21.md) — BGH, Beschluss IV ZR 245/21
@@ -19,8 +19,8 @@
 - [BGH, Beschluss vom 29.11.2023 - IV ZR 74/22](iv-zr-74-22.md) — BGH, Beschluss IV ZR 74/22
 - [BGH, Beschluss vom 29.11.2023 - IV ZR 77/22](iv-zr-77-22.md) — BGH, Beschluss IV ZR 77/22
 - [BGH, Urteil vom 29.11.2023 - IV ZR 89/22](iv-zr-89-22.md) — BGH, Urteil IV ZR 89/22
-- [BGH, Beschluss vom 15.11.2023 - IV ZB 6/23](iv-zb-6-23.md) — 1. Der Antrag auf gerichtliche Entscheidung nach § 23 EGGVG ist der statthafte Rechtsbehelf gegen eine Entscheidung des Nachlassgerichts nach § 13 Abs. 7 FamFG 
-- [BGH, Urteil vom 15.11.2023 - IV ZR 277/22](iv-zr-277-22.md) — 1. Ein Verstoß ist im Bereich eines unternehmerischen Risikos im Sinne der Ausschlussklausel in A. 5.3 a) BBR-S begangen, wenn der Steuerberater entweder in ein
+- [BGH, Beschluss vom 15.11.2023 - IV ZB 6/23](iv-zb-6-23.md) — 1. Der Antrag auf gerichtliche Entscheidung nach § 23 EGGVG ist der statthafte Rechtsbehelf gegen eine Entscheidung des Nachlassgerichts nach § 13 Abs. 7 FamFG über die …
+- [BGH, Urteil vom 15.11.2023 - IV ZR 277/22](iv-zr-277-22.md) — 1. Ein Verstoß ist im Bereich eines unternehmerischen Risikos im Sinne der Ausschlussklausel in A. 5.3 a) BBR-S begangen, wenn der Steuerberater entweder in einem fremden …
 - [BGH, Beschluss vom 31.10.2023 - IV ZR 70/22](iv-zr-70-22.md) — Festsetzung des Gegenstandswerts des Nichtzulassungsbeschwerdeverfahrens
 - [BGH, Urteil vom 25.10.2023 - IV ZR 150/22](iv-zr-150-22.md) — BGH, Urteil IV ZR 150/22
 - [BGH, Urteil vom 25.10.2023 - IV ZR 152/22](iv-zr-152-22.md) — BGH, Urteil IV ZR 152/22
@@ -32,9 +32,9 @@
 - [BGH, Beschluss vom 25.10.2023 - IV ZR 452/21](iv-zr-452-21.md) — BGH, Beschluss IV ZR 452/21
 - [BGH, Beschluss vom 25.10.2023 - IV ZR 66/22](iv-zr-66-22.md) — BGH, Beschluss IV ZR 66/22
 - [BGH, Beschluss vom 25.10.2023 - IV ZR 76/22](iv-zr-76-22.md) — BGH, Beschluss IV ZR 76/22
-- [BGH, Beschluss vom 11.10.2023 - IV ZB 26/22](iv-zb-26-22.md) — Der Geschäftswert für die Beurkundung eines Pflichtteilsverzichtsvertrages gegenüber dem Erstversterbenden von zwei Erblassern (hier: Kinder im Verhältnis zu ih
-- [BGH, Urteil vom 11.10.2023 - IV ZR 40/22](iv-zr-40-22.md) — 1. Zur ordnungsgemäßen Belehrung im Sinne von § 8 Abs. 2 Satz 1 Nr. 2 VVG für den Fall, dass der Versicherungsschutz nicht vor dem Ende der Widerrufsfrist begin
-- [BGH, Urteil vom 11.10.2023 - IV ZR 41/22](iv-zr-41-22.md) — 1. Die Zustimmung des Versicherungsnehmers zu einem Beginn des Versicherungsschutzes vor Ende der Widerrufsfrist gemäß § 9 Abs. 1 VVG kann in einen vom Versiche
+- [BGH, Beschluss vom 11.10.2023 - IV ZB 26/22](iv-zb-26-22.md) — Der Geschäftswert für die Beurkundung eines Pflichtteilsverzichtsvertrages gegenüber dem Erstversterbenden von zwei Erblassern (hier: Kinder im Verhältnis zu ihren Eltern) bemisst …
+- [BGH, Urteil vom 11.10.2023 - IV ZR 40/22](iv-zr-40-22.md) — 1. Zur ordnungsgemäßen Belehrung im Sinne von § 8 Abs. 2 Satz 1 Nr. 2 VVG für den Fall, dass der Versicherungsschutz nicht vor dem Ende der Widerrufsfrist beginnt, gehört neben …
+- [BGH, Urteil vom 11.10.2023 - IV ZR 41/22](iv-zr-41-22.md) — 1. Die Zustimmung des Versicherungsnehmers zu einem Beginn des Versicherungsschutzes vor Ende der Widerrufsfrist gemäß § 9 Abs. 1 VVG kann in einen vom Versicherer vorformulierten …
 - [BGH, Beschluss vom 27.09.2023 - IV ZR 108/22](iv-zr-108-22.md) — BGH, Beschluss IV ZR 108/22
 - [BGH, Beschluss vom 27.09.2023 - IV ZR 123/21](iv-zr-123-21.md) — BGH, Beschluss IV ZR 123/21
 - [BGH, Urteil vom 27.09.2023 - IV ZR 130/22](iv-zr-130-22.md) — BGH, Urteil IV ZR 130/22
@@ -44,11 +44,11 @@
 - [BGH, Urteil vom 27.09.2023 - IV ZR 164/22](iv-zr-164-22.md) — BGH, Urteil IV ZR 164/22
 - [BGH, Urteil vom 27.09.2023 - IV ZR 165/22](iv-zr-165-22.md) — BGH, Urteil IV ZR 165/22
 - [BGH, Urteil vom 27.09.2023 - IV ZR 176/22](iv-zr-176-22.md) — BGH, Urteil IV ZR 176/22
-- [BGH, Urteil vom 27.09.2023 - IV ZR 177/22](iv-zr-177-22.md) — 1. Dem Versicherungsnehmer kann aus Treu und Glauben ein Auskunftsanspruch über zurückliegende Prämienanpassungen in der privaten Krankenversicherung zustehen, 
+- [BGH, Urteil vom 27.09.2023 - IV ZR 177/22](iv-zr-177-22.md) — 1. Dem Versicherungsnehmer kann aus Treu und Glauben ein Auskunftsanspruch über zurückliegende Prämienanpassungen in der privaten Krankenversicherung zustehen, wenn er in …
 - [BGH, Urteil vom 27.09.2023 - IV ZR 201/22](iv-zr-201-22.md) — BGH, Urteil IV ZR 201/22
 - [BGH, Beschluss vom 27.09.2023 - IV ZR 254/22](iv-zr-254-22.md) — BGH, Beschluss IV ZR 254/22
-- [BGH, Urteil vom 27.09.2023 - IV ZR 464/21](iv-zr-464-21.md) — Es ist aus Rechtsgründen nicht zu beanstanden, wenn das Tatgericht dem nicht ordnungsgemäß belehrten Versicherungsnehmer die Ausübung des Widerspruchsrechts gem
-- [BGH, Urteil vom 20.09.2023 - IV ZR 120/22](iv-zr-120-22.md) — 1. Die infolge der Systemumstellung der Zusatzversorgung des öffentlichen Dienstes zum 31. Dezember 2001 mit der 23. Satzungsänderung vom März 2018 neu gefasste
+- [BGH, Urteil vom 27.09.2023 - IV ZR 464/21](iv-zr-464-21.md) — Es ist aus Rechtsgründen nicht zu beanstanden, wenn das Tatgericht dem nicht ordnungsgemäß belehrten Versicherungsnehmer die Ausübung des Widerspruchsrechts gemäß § 5a Abs. 1 Satz …
+- [BGH, Urteil vom 20.09.2023 - IV ZR 120/22](iv-zr-120-22.md) — 1. Die infolge der Systemumstellung der Zusatzversorgung des öffentlichen Dienstes zum 31. Dezember 2001 mit der 23. Satzungsänderung vom März 2018 neu gefasste Übergangsregelung …
 - [BGH, Beschluss vom 20.09.2023 - IV ZR 344/22](iv-zr-344-22.md) — Auszahlung des Policenwertes nach dem Tod des Versicherungsnehmers; Verjährung des Anspruchs
 - [BGH, Beschluss vom 06.09.2023 - IV ZB 4/23](iv-zb-4-23.md) — Zu den organisatorischen Anforderungen an die Kontrolle einer Eingangsbestätigung nach § 130a Abs. 5 Satz 2 ZPO.
 - [BGH, Beschluss vom 06.09.2023 - IV ZB 7/23](iv-zb-7-23.md) — BGH, Beschluss IV ZB 7/23
@@ -60,66 +60,66 @@
 - [BGH, Beschluss vom 30.08.2023 - IV ZR 38/22](iv-zr-38-22.md) — BGH, Beschluss IV ZR 38/22
 - [BGH, Beschluss vom 24.08.2023 - IV ZR 52/22](iv-zr-52-22.md) — BGH, Beschluss IV ZR 52/22
 - [BGH, Beschluss vom 19.07.2023 - IV ZB 3/23](iv-zb-3-23.md) — Vergütung eines Rechtsanwalts für Auskunft über erhaltene Unterlagen
-- [BGH, Beschluss vom 19.07.2023 - IV ZB 31/22](iv-zb-31-22.md) — Der Pflichtteilsberechtigte kann nicht im Wege der Beschwerde gemäß § 15 Abs. 2 BNotO von dem vom Erben beauftragten Notar die Aufnahme eines notariellen Nachla
+- [BGH, Beschluss vom 19.07.2023 - IV ZB 31/22](iv-zb-31-22.md) — Der Pflichtteilsberechtigte kann nicht im Wege der Beschwerde gemäß § 15 Abs. 2 BNotO von dem vom Erben beauftragten Notar die Aufnahme eines notariellen Nachlassverzeichnisses …
 - [BGH, Beschluss vom 19.07.2023 - IV ZR 102/21](iv-zr-102-21.md) — BGH, Beschluss IV ZR 102/21
 - [BGH, Urteil vom 19.07.2023 - IV ZR 122/22](iv-zr-122-22.md) — BGH, Urteil IV ZR 122/22
 - [BGH, Urteil vom 19.07.2023 - IV ZR 123/22](iv-zr-123-22.md) — BGH, Urteil IV ZR 123/22
 - [BGH, Urteil vom 19.07.2023 - IV ZR 127/22](iv-zr-127-22.md) — BGH, Urteil IV ZR 127/22
 - [BGH, Urteil vom 19.07.2023 - IV ZR 170/22](iv-zr-170-22.md) — BGH, Urteil IV ZR 170/22
-- [BGH, Urteil vom 19.07.2023 - IV ZR 268/21](iv-zr-268-21.md) — 1. Der Senat hält auch unter Berücksichtigung der neueren Rechtsprechung des Gerichtshofs der Europäischen Union (Urteile vom 24. Februar 2022, A u.a. [Unit-Lin
-- [BGH, Urteil vom 19.07.2023 - IV ZR 384/22](iv-zr-384-22.md) — Bei einer selbstfahrenden Erntemaschine (hier: Traubenvollernter) entfällt die Einstandspflicht des Haftpflichtversicherers gemäß Teil B Nr. 11 Abs. 4 Halbs. 1 
-- [BGH, Urteil vom 12.07.2023 - IV ZR 347/22](iv-zr-347-22.md) — Eine Prämienanpassungsklausel in der privaten Krankenversicherung, nach welcher der Versicherer die Beiträge bei einer Abweichung der erforderlichen von den kal
-- [BGH, Urteil vom 05.07.2023 - IV ZR 118/22](iv-zr-118-22.md) — Die sogenannte "erweiterte Schlüsselklausel" in der Hausratversicherung (hier: § 28 Nr. 4 Buchst. a), 4. Spiegelstrich GWW 2014), wonach ein Einbruchdiebstahl a
-- [BGH, Urteil vom 05.07.2023 - IV ZR 375/21](iv-zr-375-21.md) — 1. Zum anwendbaren Recht auf den Innenausgleich zwischen den rumänischen Haftpflichtversicherern einer in Rumänien zugelassenen Zugmaschine und eines in Rumänie
+- [BGH, Urteil vom 19.07.2023 - IV ZR 268/21](iv-zr-268-21.md) — 1. Der Senat hält auch unter Berücksichtigung der neueren Rechtsprechung des Gerichtshofs der Europäischen Union (Urteile vom 24. Februar 2022, A u.a …
+- [BGH, Urteil vom 19.07.2023 - IV ZR 384/22](iv-zr-384-22.md) — Bei einer selbstfahrenden Erntemaschine (hier: Traubenvollernter) entfällt die Einstandspflicht des Haftpflichtversicherers gemäß Teil B Nr. 11 Abs. 4 Halbs. 1 AKB 1995 für …
+- [BGH, Urteil vom 12.07.2023 - IV ZR 347/22](iv-zr-347-22.md) — Eine Prämienanpassungsklausel in der privaten Krankenversicherung, nach welcher der Versicherer die Beiträge bei einer Abweichung der erforderlichen von den kalkulierten …
+- [BGH, Urteil vom 05.07.2023 - IV ZR 118/22](iv-zr-118-22.md) — Die sogenannte "erweiterte Schlüsselklausel" in der Hausratversicherung (hier: § 28 Nr. 4 Buchst. a), 4. Spiegelstrich GWW 2014), wonach ein Einbruchdiebstahl auch dann vorliegt …
+- [BGH, Urteil vom 05.07.2023 - IV ZR 375/21](iv-zr-375-21.md) — 1. Zum anwendbaren Recht auf den Innenausgleich zwischen den rumänischen Haftpflichtversicherern einer in Rumänien zugelassenen Zugmaschine und eines in Rumänien zugelassenen …
 - [BGH, Beschluss vom 21.06.2023 - IV ZR 324/22](iv-zr-324-22.md) — BGH, Beschluss IV ZR 324/22
-- [BGH, Urteil vom 07.06.2023 - IV ZR 252/22](iv-zr-252-22.md) — Zum Auskunftsanspruch des Gebäudeversicherers gegen den Mieter bezüglich des Inhalts eines von diesem abgeschlossenen Haftpflichtversicherungsvertrages (hier: V
+- [BGH, Urteil vom 07.06.2023 - IV ZR 252/22](iv-zr-252-22.md) — Zum Auskunftsanspruch des Gebäudeversicherers gegen den Mieter bezüglich des Inhalts eines von diesem abgeschlossenen Haftpflichtversicherungsvertrages (hier …
 - [BGH, Beschluss vom 07.06.2023 - IV ZR 28/22](iv-zr-28-22.md) — BGH, Beschluss IV ZR 28/22
 - [BGH, Beschluss vom 31.05.2023 - IV ZR 299/22](iv-zr-299-22.md) — Deckungsklage gegen die Vollkaskoversicherung nach Kfz-Unfall: Abrechnung nach Quotenvorrecht; Leistungsgrenze des Kaskoversicherers
 - [BGH, Beschluss vom 31.05.2023 - IV ZR 402/22](iv-zr-402-22.md) — BGH, Beschluss IV ZR 402/22
-- [BGH, Urteil vom 31.05.2023 - IV ZR 58/22](iv-zr-58-22.md) — Bei einer Dienstunfähigkeitsklausel, nach der es für bedingungsgemäße Berufsunfähigkeit ausreicht, wenn die versicherte Person als Beamter infolge eines körperl
+- [BGH, Urteil vom 31.05.2023 - IV ZR 58/22](iv-zr-58-22.md) — Bei einer Dienstunfähigkeitsklausel, nach der es für bedingungsgemäße Berufsunfähigkeit ausreicht, wenn die versicherte Person als Beamter infolge eines körperlichen Gebrechens …
 - [BGH, Beschluss vom 25.05.2023 - IV ZR 168/22](iv-zr-168-22.md) — BGH, Beschluss IV ZR 168/22
 - [BGH, Beschluss vom 24.05.2023 - IV ZR 72/22](iv-zr-72-22.md) — Streitwertbeschwerde: Antrag einer Partei auf Erhöhung des Streitwerts in Ansehung eines Pflichtteilsanspruchs
-- [BGH, Beschluss vom 03.05.2023 - IV ZR 264/22](iv-zr-264-22.md) — Nichtzulassungsbeschwerde in Nachlasssachen: Beschwerdewert bei Interesse eines Vorerben an einer Verfügung über ein Nachlassgrundstück ohne Beeinträchtigung de
-- [BGH, Beschluss vom 26.04.2023 - IV ZB 11/22](iv-zb-11-22.md) — Ein die Erbunwürdigkeit aussprechendes Urteil gemäß §§ 2342, 2344 BGB hat auch dann Bindungswirkung für ein Erbscheinsverfahren, wenn es sich um ein Versäumnisu
+- [BGH, Beschluss vom 03.05.2023 - IV ZR 264/22](iv-zr-264-22.md) — Nichtzulassungsbeschwerde in Nachlasssachen: Beschwerdewert bei Interesse eines Vorerben an einer Verfügung über ein Nachlassgrundstück ohne Beeinträchtigung des Nacherbenrechts
+- [BGH, Beschluss vom 26.04.2023 - IV ZB 11/22](iv-zb-11-22.md) — Ein die Erbunwürdigkeit aussprechendes Urteil gemäß §§ 2342, 2344 BGB hat auch dann Bindungswirkung für ein Erbscheinsverfahren, wenn es sich um ein Versäumnisurteil handelt.
 - [BGH, Urteil vom 26.04.2023 - IV ZR 17/22](iv-zr-17-22.md) — Wirksamkeit von Beitragserhöhungen in der privaten Krankenversicherung
 - [BGH, Urteil vom 26.04.2023 - IV ZR 248/21](iv-zr-248-21.md) — BGH, Urteil IV ZR 248/21
-- [BGH, Urteil vom 26.04.2023 - IV ZR 300/22](iv-zr-300-22.md) — Ein Lebensversicherer mit Sitz in einem anderen Mitgliedsstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsra
+- [BGH, Urteil vom 26.04.2023 - IV ZR 300/22](iv-zr-300-22.md) — Ein Lebensversicherer mit Sitz in einem anderen Mitgliedsstaat der Europäischen Union oder einem Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum musste in der …
 - [BGH, Beschluss vom 19.04.2023 - IV ZB  23/22](iv-zb-23-22.md) — Wiedereinsetzung in den vorigen Stand: Rechtsanwaltsverschulden bei Versäumung der Beschwerdefrist in Nachlassachen bei fehlerhafter Rechtsmittelbelehrung
 - [BGH, Beschluss vom 19.04.2023 - IV ZR 204/22](iv-zr-204-22.md) — Gehörsverletzung bei Neuvortrag hinsichtlich Gefahrerhöhung
 - [BGH, Beschluss vom 04.04.2023 - IV ZR 42/22](iv-zr-42-22.md) — Höhe der Beschwer bei Zahlungsklage an Erbengemeinschaft
-- [BGH, Beschluss vom 29.03.2023 - IV ZB 20/22](iv-zb-20-22.md) — Zur Antragsbefugnis für die Erteilung einer Bescheinigung nach Art. 46 Abs. 3 Buchst. b EuErbVO (hier: Antrag einer mit der Erteilung eines Europäischen Nachlas
+- [BGH, Beschluss vom 29.03.2023 - IV ZB 20/22](iv-zb-20-22.md) — Zur Antragsbefugnis für die Erteilung einer Bescheinigung nach Art. 46 Abs. 3 Buchst. b EuErbVO (hier: Antrag einer mit der Erteilung eines Europäischen Nachlasszeugnisses …
 - [BGH, Beschluss vom 29.03.2023 - IV ZR 209/22](iv-zr-209-22.md) — BGH, Beschluss IV ZR 209/22
 - [BGH, Beschluss vom 29.03.2023 - IV ZR 408/22](iv-zr-408-22.md) — BGH, Beschluss IV ZR 408/22
-- [BGH, Beschluss vom 22.03.2023 - IV ZB 12/22](iv-zb-12-22.md) — Irrt sich der eine Erbschaft Ausschlagende bei Abgabe seiner Erklärung über die an seiner Stelle in die Erbfolge eintretende Person, ist dies nur ein Irrtum übe
+- [BGH, Beschluss vom 22.03.2023 - IV ZB 12/22](iv-zb-12-22.md) — Irrt sich der eine Erbschaft Ausschlagende bei Abgabe seiner Erklärung über die an seiner Stelle in die Erbfolge eintretende Person, ist dies nur ein Irrtum über eine mittelbare …
 - [BGH, Beschluss vom 22.03.2023 - IV ZR 18/22](iv-zr-18-22.md) — Versicherungsschutz in der Betriebsschließungs-Versicherung während Corona-Pandemie
-- [BGH, Urteil vom 22.03.2023 - IV ZR 95/22](iv-zr-95-22.md) — Es gibt keinen Erfahrungssatz, wonach die Kündigung eines Lebensversicherungsvertrages durch den Versicherungsnehmer stets zugleich den Widerruf der Bezugsberec
+- [BGH, Urteil vom 22.03.2023 - IV ZR 95/22](iv-zr-95-22.md) — Es gibt keinen Erfahrungssatz, wonach die Kündigung eines Lebensversicherungsvertrages durch den Versicherungsnehmer stets zugleich den Widerruf der Bezugsberechtigung auf den …
 - [BGH, Beschluss vom 15.03.2023 - IV ZA 9/22](iv-za-9-22.md) — BGH, Beschluss IV ZA 9/22
 - [BGH, Beschluss vom 15.03.2023 - IV ZR 11/22](iv-zr-11-22.md) — BGH, Beschluss IV ZR 11/22
 - [BGH, Urteil vom 15.03.2023 - IV ZR 318/21](iv-zr-318-21.md) — Private Krankenversicherung: Anforderungen an die Wirksamkeit einer Prämienanpassung
 - [BGH, Urteil vom 15.03.2023 - IV ZR 322/20](iv-zr-322-20.md) — Gesetzliche Anforderungen an Prämienanpassung
-- [BGH, Urteil vom 15.03.2023 - IV ZR 40/21](iv-zr-40-21.md) — Enthält eine Widerspruchsbelehrung keinen Hinweis auf die nach § 5a Abs. 1 Satz 1 VVG (hier in der Fassung vom 13. Juli 2001) erforderliche Form (hier Textform)
+- [BGH, Urteil vom 15.03.2023 - IV ZR 40/21](iv-zr-40-21.md) — Enthält eine Widerspruchsbelehrung keinen Hinweis auf die nach § 5a Abs. 1 Satz 1 VVG (hier in der Fassung vom 13. Juli 2001) erforderliche Form (hier Textform) des Widerspruchs …
 - [BGH, Beschluss vom 15.03.2023 - IV ZR 50/22](iv-zr-50-22.md) — BGH, Beschluss IV ZR 50/22
-- [BGH, Urteil vom 01.03.2023 - IV ZR 112/22](iv-zr-112-22.md) — Die vom Versicherer gemäß § 1 Nr. 1 Buchst. a ABRV im Versicherungsfall zu leistende Entschädigung für die einem Reiseunternehmen oder einem anderen vertraglich
+- [BGH, Urteil vom 01.03.2023 - IV ZR 112/22](iv-zr-112-22.md) — Die vom Versicherer gemäß § 1 Nr. 1 Buchst. a ABRV im Versicherungsfall zu leistende Entschädigung für die einem Reiseunternehmen oder einem anderen vertraglich geschuldeten …
 - [BGH, Beschluss vom 01.03.2023 - IV ZR 84/22](iv-zr-84-22.md) — BGH, Beschluss IV ZR 84/22
-- [BGH, Beschluss vom 22.02.2023 - IV ZB 13/22](iv-zb-13-22.md) — Berufungsbeschwer bei Erbfeststellungsklage: Berücksichtigung der gegen den Nachlass selbst gerichteten Forderung des klagenden Erben aus einem dem Erblasser ge
+- [BGH, Beschluss vom 22.02.2023 - IV ZB 13/22](iv-zb-13-22.md) — Berufungsbeschwer bei Erbfeststellungsklage: Berücksichtigung der gegen den Nachlass selbst gerichteten Forderung des klagenden Erben aus einem dem Erblasser gewährten Darlehen
 - [BGH, Beschluss vom 22.02.2023 - IV ZR 216/21](iv-zr-216-21.md) — BGH, Beschluss IV ZR 216/21
 - [BGH, Beschluss vom 22.02.2023 - IV ZR 320/22](iv-zr-320-22.md) — Bemessung des Beschwerdewerts bei einem pflichtteilsrechtlichen Auskunftsanspruch
 - [BGH, Beschluss vom 15.02.2023 - IV ZR 148/22](iv-zr-148-22.md) — BGH, Beschluss IV ZR 148/22
 - [BGH, Beschluss vom 15.02.2023 - IV ZR 21/22](iv-zr-21-22.md) — BGH, Beschluss IV ZR 21/22
 - [BGH, Beschluss vom 15.02.2023 - IV ZR 213/22](iv-zr-213-22.md) — BGH, Beschluss IV ZR 213/22
-- [BGH, Urteil vom 15.02.2023 - IV ZR 312/21](iv-zr-312-21.md) — Bei der Inanspruchnahme des Haftpflichtversicherers eines Schädigers gemäß § 115 Abs. 1 Satz 1 Nr. 2 VVG handelt es sich dann um einen Anwendungsfall des Schade
-- [BGH, Urteil vom 15.02.2023 - IV ZR 353/21](iv-zr-353-21.md) — Die Ausübung des Widerspruchsrechts gemäß § 5a Abs. 1 Satz 1 VVG a.F. (hier: Fassung vom 13. Juli 2001) verstößt gegen Treu und Glauben (§ 242 BGB), wenn ein ge
+- [BGH, Urteil vom 15.02.2023 - IV ZR 312/21](iv-zr-312-21.md) — Bei der Inanspruchnahme des Haftpflichtversicherers eines Schädigers gemäß § 115 Abs. 1 Satz 1 Nr. 2 VVG handelt es sich dann um einen Anwendungsfall des …
+- [BGH, Urteil vom 15.02.2023 - IV ZR 353/21](iv-zr-353-21.md) — Die Ausübung des Widerspruchsrechts gemäß § 5a Abs. 1 Satz 1 VVG a.F. (hier: Fassung vom 13. Juli 2001) verstößt gegen Treu und Glauben (§ 242 BGB), wenn ein geringfügiger …
 - [BGH, Beschluss vom 14.02.2023 - IV ZR 177/21](iv-zr-177-21.md) — Auslandsinsolvenzverfahren: Streitwert und Aufnahme eines inländischen Passivprozesses auf Feststellung eines Rechtsverhältnisses durch den Insolvenzverwalter
-- [BGH, Beschluss vom 08.02.2023 - IV ZB 16/22](iv-zb-16-22.md) — Ein Erbscheinsantrag ist nicht unzulässig, wenn der Antragsteller vom Gesetz geforderte Beweismittel ohne Verschulden nicht angibt. Stattdessen setzt die Pflich
+- [BGH, Beschluss vom 08.02.2023 - IV ZB 16/22](iv-zb-16-22.md) — Ein Erbscheinsantrag ist nicht unzulässig, wenn der Antragsteller vom Gesetz geforderte Beweismittel ohne Verschulden nicht angibt. Stattdessen setzt die Pflicht des …
 - [BGH, Beschluss vom 08.02.2023 - IV ZR 9/22](iv-zr-9-22.md) — Kfz-Kaskoversicherung: Auslegung einer Höchstentschädigungs-Klausel bei Fahrzeugverlust und Beweislast bezüglich des Wiederbeschaffungswertes
 - [BGH, Beschluss vom 30.01.2023 - IV ZR 39/22](iv-zr-39-22.md) — BGH, Beschluss IV ZR 39/22
-- [BGH, Beschluss vom 25.01.2023 - IV ZB 7/22](iv-zb-7-22.md) — Technische Gründe im Sinne von § 130d Satz 2 ZPO liegen nur bei einer Störung der für die Übermittlung erforderlichen technischen Einrichtungen vor, nicht dageg
-- [BGH, Urteil vom 25.01.2023 - IV ZR 133/21](iv-zr-133-21.md) — Die Voraussetzungen des § 115 Abs. 1 Satz 1 VVG müssen nur bei Bestehen des geltend gemachten Schadensersatzanspruchs vorliegen und können zu einem beliebigen Z
+- [BGH, Beschluss vom 25.01.2023 - IV ZB 7/22](iv-zb-7-22.md) — Technische Gründe im Sinne von § 130d Satz 2 ZPO liegen nur bei einer Störung der für die Übermittlung erforderlichen technischen Einrichtungen vor, nicht dagegen bei in der …
+- [BGH, Urteil vom 25.01.2023 - IV ZR 133/21](iv-zr-133-21.md) — Die Voraussetzungen des § 115 Abs. 1 Satz 1 VVG müssen nur bei Bestehen des geltend gemachten Schadensersatzanspruchs vorliegen und können zu einem beliebigen Zeitpunkt vor …
 - [BGH, Urteil vom 18.01.2023 - IV ZR 359/21](iv-zr-359-21.md) — COVID-19-Pandemie: Ansprüche aus Betriebsschließungsversicherung
 - [BGH, Beschluss vom 18.01.2023 - IV ZR 369/21](iv-zr-369-21.md) — BGH, Beschluss IV ZR 369/21
-- [BGH, Urteil vom 18.01.2023 - IV ZR 465/21](iv-zr-465-21.md) — 1. Die Regelung in der Klausel Ziff. 3.4 BBSG 19 ("Bedingungen für die Betriebsschließungs-Pauschalversicherung Gewerbe"), wonach meldepflichtige Krankheiten un
+- [BGH, Urteil vom 18.01.2023 - IV ZR 465/21](iv-zr-465-21.md) — 1. Die Regelung in der Klausel Ziff. 3.4 BBSG 19 ("Bedingungen für die Betriebsschließungs-Pauschalversicherung Gewerbe"), wonach meldepflichtige Krankheiten und Krankheitserreger …
 - [BGH, Beschluss vom 18.01.2023 - IV ZR 61/22](iv-zr-61-22.md) — BGH, Beschluss IV ZR 61/22
-- [BGH, Beschluss vom 11.01.2023 - IV ZB 23/21](iv-zb-23-21.md) — 1. Die anwaltlichen Sorgfaltspflichten im Zusammenhang mit der Übermittlung von fristgebundenen Schriftsätzen im Wege des elektronischen Rechtsverkehrs über das
+- [BGH, Beschluss vom 11.01.2023 - IV ZB 23/21](iv-zb-23-21.md) — 1. Die anwaltlichen Sorgfaltspflichten im Zusammenhang mit der Übermittlung von fristgebundenen Schriftsätzen im Wege des elektronischen Rechtsverkehrs über das besondere …
 - [BGH, Urteil vom 11.01.2023 - IV ZR 293/20](iv-zr-293-20.md) — BGH, Urteil IV ZR 293/20
 - [BGH, Urteil vom 11.01.2023 - IV ZR 3/21](iv-zr-3-21.md) — BGH, Urteil IV ZR 3/21
 - [BGH, Urteil vom 11.01.2023 - IV ZR 306/20](iv-zr-306-20.md) — BGH, Urteil IV ZR 306/20

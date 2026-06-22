@@ -2,7 +2,7 @@
 
 57 Entscheidung(en).
 
-- [BGH, Entscheidung vom 21.12.2000 - 4 StR 431/00](4-str-431-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 21.12.2000 - 4 StR 431/00](4-str-431-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 30.11.2000 - 4 StR 463/00](4-str-463-00.md) — Vergewaltigung u.a.
 - [BGH, Beschluss vom 30.11.2000 - 4 StR 475/00](4-str-475-00.md) — Aussetzung u.a.
 - [BGH, Beschluss vom 30.11.2000 - 4 StR 493/00](4-str-493-00.md) — schweren Raubes u.a.
@@ -17,10 +17,10 @@
 - [BGH, Beschluss vom 05.10.2000 - 4 StR 377/00](4-str-377-00.md) — Raubes u.a.
 - [BGH, Urteil vom 21.09.2000 - 4 StR 284/00](4-str-284-00.md) — Fälschung von Zahlungskarten u.a.
 - [BGH, Beschluss vom 21.09.2000 - 4 StR 366/00](4-str-366-00.md) — Vergewaltigung u.a.
-- [BGH, Entscheidung vom 10.08.2000 - 4 StR 188/00](4-str-188-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 10.08.2000 - 4 StR 188/00](4-str-188-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 10.08.2000 - 4 StR 304/00](4-str-304-00.md) — schwerer räuberischer Erpressung
-- [BGH, Entscheidung vom 03.08.2000 - 4 StR 280/00](4-str-280-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
-- [BGH, Entscheidung vom 03.08.2000 - 4 StR 302/00](4-str-302-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 03.08.2000 - 4 StR 280/00](4-str-280-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Entscheidung vom 03.08.2000 - 4 StR 302/00](4-str-302-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Urteil vom 27.07.2000 - 4 StR 185/00](4-str-185-00.md) — Verdachts der versuchten Anstiftung zum Mord
 - [BGH, Urteil vom 27.07.2000 - 4 StR 189/00](4-str-189-00.md) — Diebstahls
 - [BGH, Beschluss vom 13.07.2000 - 4 StR 230/00](4-str-230-00.md) — schweren Raubes
@@ -40,7 +40,7 @@
 - [BGH, Beschluss vom 23.03.2000 - 4 StR 50/00](4-str-50-00.md) — Raubes und gefährlicher Körperverletzung
 - [BGH, Urteil vom 23.03.2000 - 4 StR 502/99](4-str-502-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
 - [BGH, Urteil vom 23.03.2000 - 4 StR 650/99](4-str-650-99.md) — versuchter räuberischer Erpressung mit Todesfolge u.a.
-- [BGH, Entscheidung vom 15.02.2000 - 4 StR 507/99](4-str-507-99.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 15.02.2000 - 4 StR 507/99](4-str-507-99.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Urteil vom 10.02.2000 - 4 StR 558/99](4-str-558-99.md) — Körperverletzung mit Todesfolge
 - [BGH, Urteil vom 10.02.2000 - 4 StR 616/99](4-str-616-99.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 08.02.2000 - 4 StR 488/99](4-str-488-99.md) — Vergewaltigung u.a.

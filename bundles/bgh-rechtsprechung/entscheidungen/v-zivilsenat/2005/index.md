@@ -11,7 +11,7 @@
 - [BGH, Beschluss vom 24.11.2005 - V ZR 60/05](v-zr-60-05.md) — BGH, Beschluss vom 24.11.2005 - V ZR 60/05
 - [BGH, Urteil vom 28.10.2005 - V ZR 91/05](v-zr-91-05.md) — Tatbestand:
 - [BGH, Beschluss vom 29.09.2005 - V ZB 107/05](v-zb-107-05.md) — BGH, Beschluss vom 29.09.2005 - V ZB 107/05
-- [BGH, Urteil vom 16.09.2005 - V ZR 242/04](v-zr-242-04.md) — Berichtigter Leitzsatz § 57 Abs. 2 Satz 2 TKG a. F. Zur Bestimmung des Ausgleichs nach § 57 Abs. 2 Satz 2 TKG a.F. ist auf die üblichen Entgelte für Versorgungs
+- [BGH, Urteil vom 16.09.2005 - V ZR 242/04](v-zr-242-04.md) — Berichtigter Leitzsatz § 57 Abs. 2 Satz 2 TKG a. F. Zur Bestimmung des Ausgleichs nach § 57 Abs. 2 Satz 2 TKG a.F. ist auf die üblichen Entgelte für Versorgungsleitungen nicht …
 - [BGH, Urteil vom 16.09.2005 - V ZR 244/04](v-zr-244-04.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2005 - V ZR 350/03](v-zr-350-03.md) — Tatbestand:
 - [BGH, Urteil vom 24.06.2005 - V ZR 96/04](v-zr-96-04.md) — BGH, Urteil vom 24.06.2005 - V ZR 96/04

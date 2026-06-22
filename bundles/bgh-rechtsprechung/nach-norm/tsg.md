@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu TSG"
 description: "BGH-Entscheidungen zu TSG, geordnet nach Vorschrift."
 tags: [register, navigation, tsg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

@@ -51,7 +51,11 @@ const frontmatter = (txt) => {
   }
   return o;
 };
-const tidy = (s) => String(s || "").replace(/\s+/g, " ").replace(/^[-\s]+/, "").trim().slice(0, 160);
+const tidy = (s) => {
+  let t = String(s || "").replace(/\s+/g, " ").replace(/^[-\s]+/, "").trim();
+  if (t.length > 180) t = t.slice(0, 180).replace(/\s+\S*$/, "").replace(/[,;:.\s]+$/, "") + " …";
+  return t;
+};
 
 // --- senate subject matter (Geschäftsverteilung), for the navigation blurbs --
 const ZIVIL = {

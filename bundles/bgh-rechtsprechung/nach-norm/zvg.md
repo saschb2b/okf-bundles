@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZVG"
 description: "BGH-Entscheidungen zu ZVG, geordnet nach Vorschrift."
 tags: [register, navigation, zvg]
-timestamp: 2026-06-22T13:43:59Z
+timestamp: 2026-06-22T13:45:57Z
 ---
 
 # Nach Vorschrift

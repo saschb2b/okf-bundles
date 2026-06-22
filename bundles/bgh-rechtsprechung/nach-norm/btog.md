@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BtOG"
 description: "BGH-Entscheidungen zu BtOG, geordnet nach Vorschrift."
 tags: [register, navigation, btog]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

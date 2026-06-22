@@ -4,18 +4,18 @@
 
 - [BGH, Beschluss vom 20.12.2023 - AK 86/23](ak-86-23.md) — BGH, Beschluss AK 86/23
 - [BGH, Beschluss vom 20.12.2023 - AK 89/23](ak-89-23.md) — BGH, Beschluss AK 89/23
-- [BGH, Beschluss vom 20.12.2023 - StB 72/23](stb-72-23.md) — Strafverfahren: Auslegung einer Eingabe auf Entpflichtung eines Pflichtverteidigers und Bestellung eines weiteren Verteidigers nach selbiger Ablehnung durch den
+- [BGH, Beschluss vom 20.12.2023 - StB 72/23](stb-72-23.md) — Strafverfahren: Auslegung einer Eingabe auf Entpflichtung eines Pflichtverteidigers und Bestellung eines weiteren Verteidigers nach selbiger Ablehnung durch den Ermittlungsrichter …
 - [BGH, Beschluss vom 20.12.2023 - StB 73/23](stb-73-23.md) — Kriegsverbrechen gegen Personen durch Vertreibung
 - [BGH, Beschluss vom 13.12.2023 - AK 90/23](ak-90-23.md) — Fortdauer der Untersuchungshaft über sechs Monate hinaus bei Ahndung der Beihilfe zum Mord und zum versuchten Mord
 - [BGH, Beschluss vom 13.12.2023 - AK 91 - 95/23, AK 91/23, AK 92/23, AK 93/23, AK 94/23, AK 95/23](ak-91-95-23-ak-91-23-ak-92-23-ak-93-23-ak-94-23-ak-95-23.md) — BGH, Beschluss AK 91 - 95/23, AK 91/23, AK 92/23, AK 93/23, AK 94/23, AK 95/23
 - [BGH, Beschluss vom 13.12.2023 - AK 96/23](ak-96-23.md) — BGH, Beschluss AK 96/23
 - [BGH, Beschluss vom 13.12.2023 - StB 70/23](stb-70-23.md) — BGH, Beschluss StB 70/23
-- [BGH, Beschluss vom 06.12.2023 - AK 87/23](ak-87-23.md) — Fortdauer der Untersuchungshaft wegen dringenden Tatverdachts der mitgliedschaftlichen Beteiligung an einer terroristischen Vereinigung sowie der Vorbereitung e
+- [BGH, Beschluss vom 06.12.2023 - AK 87/23](ak-87-23.md) — Fortdauer der Untersuchungshaft wegen dringenden Tatverdachts der mitgliedschaftlichen Beteiligung an einer terroristischen Vereinigung sowie der Vorbereitung eines …
 - [BGH, Beschluss vom 29.11.2023 - AK 83/23](ak-83-23.md) — BGH, Beschluss AK 83/23
 - [BGH, Beschluss vom 29.11.2023 - AK 84 und 85/23, AK 84/23, AK 85/23](ak-84-und-85-23-ak-84-23-ak-85-23.md) — BGH, Beschluss AK 84 und 85/23, AK 84/23, AK 85/23
 - [BGH, Beschluss vom 31.10.2023 - StB 30/23](stb-30-23.md) — Mitgliedschaftliche Beteiligung an terroristischer Vereinigung im Ausland; Überprüfung der Rechtmäßigkeit von Telekommunikationsüberwachungsmaßnahmen
 - [BGH, Beschluss vom 24.10.2023 - StB 59/23](stb-59-23.md) — Beschwerde gegen die einstweilige Sicherstellung und Durchsicht von Gegenständen nach Durchsuchung bei unverdächtiger Person
-- [BGH, Beschluss vom 19.10.2023 - AK 58/23](ak-58-23.md) — Beginn der Sechsmonatsfrist für die Untersuchungshaft; Untersuchungshaft wegen dringenden Tatverdachts der mitgliedschaftlichen Beteiligung an einer terroristis
+- [BGH, Beschluss vom 19.10.2023 - AK 58/23](ak-58-23.md) — Beginn der Sechsmonatsfrist für die Untersuchungshaft; Untersuchungshaft wegen dringenden Tatverdachts der mitgliedschaftlichen Beteiligung an einer terroristischen Vereinigung …
 - [BGH, Beschluss vom 19.10.2023 - StB 63 + 64/23, StB 63/23, StB 64/23](stb-63-64-23-stb-63-23-stb-64-23.md) — Haftbeschwerden im Zusammenhang mit einem Haftbefehl wegen dringenden Tatverdachts der Unterstützung einer terroristischen Vereinigung im Ausland
 - [BGH, Beschluss vom 05.10.2023 - AK 56/23](ak-56-23.md) — BGH, Beschluss AK 56/23
 - [BGH, Beschluss vom 05.10.2023 - AK 57/23](ak-57-23.md) — BGH, Beschluss AK 57/23
@@ -62,7 +62,7 @@
 - [BGH, Beschluss vom 11.07.2023 - AK 23/23](ak-23-23.md) — BGH, Beschluss AK 23/23
 - [BGH, Beschluss vom 11.07.2023 - AK 25/23](ak-25-23.md) — BGH, Beschluss AK 25/23
 - [BGH, Beschluss vom 11.07.2023 - AK 26/23](ak-26-23.md) — BGH, Beschluss AK 26/23
-- [BGH, Beschluss vom 11.07.2023 - AK 35/23, StB 34/23](ak-35-23-stb-34-23.md) — 1. Zu den Voraussetzungen der Vorbereitung eines hochverräterischen Unternehmens. 2. Zum Konkurrenzverhältnis zwischen der Vorbereitung eines hochverräterischen
+- [BGH, Beschluss vom 11.07.2023 - AK 35/23, StB 34/23](ak-35-23-stb-34-23.md) — 1. Zu den Voraussetzungen der Vorbereitung eines hochverräterischen Unternehmens. 2. Zum Konkurrenzverhältnis zwischen der Vorbereitung eines hochverräterischen Unternehmens und …
 - [BGH, Beschluss vom 11.07.2023 - AK 42/23](ak-42-23.md) — BGH, Beschluss AK 42/23
 - [BGH, Beschluss vom 11.07.2023 - AK 44/23](ak-44-23.md) — BGH, Beschluss AK 44/23
 - [BGH, Beschluss vom 11.07.2023 - AK 46/23](ak-46-23.md) — BGH, Beschluss AK 46/23

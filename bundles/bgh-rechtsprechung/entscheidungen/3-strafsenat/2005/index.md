@@ -45,7 +45,7 @@
 - [BGH, Beschluss vom 20.04.2005 - 3 StR 95/05](3-str-95-05.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
 - [BGH, Beschluss vom 12.04.2005 - 3 StR 100/05](3-str-100-05.md) — versuchten Totschlags u. a.
 - [BGH, Urteil vom 10.03.2005 - 3 StR 245/04](3-str-245-04.md) — Unterstützens des organisatorischen Zusammenhalts eines verbotenen Vereins u. a.
-- [BGH, Entscheidung vom 25.01.2005 - 3 StR 486/04](3-str-486-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 25.01.2005 - 3 StR 486/04](3-str-486-04.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 12.01.2005 - 3 StR 422/04](3-str-422-04.md) — Wohnungseinbruchsdiebstahls u. a.
 - [BGH, Beschluss vom 11.01.2005 - 3 StR 474/04](3-str-474-04.md) — schweren räuberischen Diebstahls
 - [BGH, Beschluss vom 11.01.2005 - 3 StR 482/04](3-str-482-04.md) — Anstiftung zur gefährlichen Körperverletzung u. a.

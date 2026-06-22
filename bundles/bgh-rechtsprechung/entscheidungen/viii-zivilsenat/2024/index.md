@@ -2,8 +2,8 @@
 
 88 Entscheidung(en).
 
-- [BGH, Urteil vom 18.12.2024 - VIII ZR 16/23](viii-zr-16-23.md) — 1. Die Vorschriften zur Begrenzung der Wiedervermietungsmiete in Gebieten mit angespanntem Wohnungsmarkt (§§ 556d ff. BGB; sogenannte Mietpreisbremse) verstoßen
-- [BGH, Beschluss vom 17.12.2024 - VIII ZR 213/23](viii-zr-213-23.md) — Internationale Zuständigkeit bei deliktsrechtlichen Ansprüchen im Zusammenhang mit einem Lizenzvertrag; Erfolgsort und Gerichtsstandsvereinbarung nach dem Lugan
+- [BGH, Urteil vom 18.12.2024 - VIII ZR 16/23](viii-zr-16-23.md) — 1. Die Vorschriften zur Begrenzung der Wiedervermietungsmiete in Gebieten mit angespanntem Wohnungsmarkt (§§ 556d ff. BGB; sogenannte Mietpreisbremse) verstoßen auch in der seit …
+- [BGH, Beschluss vom 17.12.2024 - VIII ZR 213/23](viii-zr-213-23.md) — Internationale Zuständigkeit bei deliktsrechtlichen Ansprüchen im Zusammenhang mit einem Lizenzvertrag; Erfolgsort und Gerichtsstandsvereinbarung nach dem Lugano-Übereinkommen II
 - [BGH, Beschluss vom 17.12.2024 - VIII ZR 307/23](viii-zr-307-23.md) — Nichtzulassungsbeschwerde: Zulässigkeit der Beschwerde bei Streit über die Verpflichtungen zum Unterhalt einer Trinkwasserleitung
 - [BGH, Beschluss vom 09.12.2024 - VIII ZR 127/24](viii-zr-127-24.md) — Erinnerung gegen Kostenansatz; Verbot der "reformatio in peius"
 - [BGH, Beschluss vom 03.12.2024 - VIII ZR 149/21](viii-zr-149-21.md) — BGH, Beschluss VIII ZR 149/21
@@ -13,27 +13,27 @@
 - [BGH, Beschluss vom 03.12.2024 - VIII ZR 310/21](viii-zr-310-21.md) — BGH, Beschluss VIII ZR 310/21
 - [BGH, Beschluss vom 03.12.2024 - VIII ZR 314/21](viii-zr-314-21.md) — BGH, Beschluss VIII ZR 314/21
 - [BGH, Beschluss vom 03.12.2024 - VIII ZR 73/22](viii-zr-73-22.md) — BGH, Beschluss VIII ZR 73/22
-- [BGH, Urteil vom 27.11.2024 - VIII ZR 155/23](viii-zr-155-23.md) — 1. Bei einer empfangsbedürftigen Willenserklärung ist es auch für die elektronische Form zur Wahrung der Form nicht ausreichend, dass die Willenserklärung formg
-- [BGH, Urteil vom 27.11.2024 - VIII ZR 159/23](viii-zr-159-23.md) — 1. Bei einer empfangsbedürftigen Willenserklärung ist es auch für die elektronische Form zur Wahrung der Form nicht ausreichend, dass die Willenserklärung formg
-- [BGH, Urteil vom 27.11.2024 - VIII ZR 278/23](viii-zr-278-23.md) — Zur Bemessung des Gegenstandswerts eines Anspruchs auf Abgabe einer Erklärung, dass die Miete künftig herabgesetzt wird, bei einer zwischen den Mietvertragspart
-- [BGH, Urteil vom 27.11.2024 - VIII ZR 36/23](viii-zr-36-23.md) — Erteilt der Vermieter dem Mieter vor Abgabe von dessen Vertragserklärung die Auskunft, es handele sich um die erste Vermietung nach umfassender Modernisierung, 
+- [BGH, Urteil vom 27.11.2024 - VIII ZR 155/23](viii-zr-155-23.md) — 1. Bei einer empfangsbedürftigen Willenserklärung ist es auch für die elektronische Form zur Wahrung der Form nicht ausreichend, dass die Willenserklärung formgerecht abgegeben …
+- [BGH, Urteil vom 27.11.2024 - VIII ZR 159/23](viii-zr-159-23.md) — 1. Bei einer empfangsbedürftigen Willenserklärung ist es auch für die elektronische Form zur Wahrung der Form nicht ausreichend, dass die Willenserklärung formgerecht abgegeben …
+- [BGH, Urteil vom 27.11.2024 - VIII ZR 278/23](viii-zr-278-23.md) — Zur Bemessung des Gegenstandswerts eines Anspruchs auf Abgabe einer Erklärung, dass die Miete künftig herabgesetzt wird, bei einer zwischen den Mietvertragsparteien vereinbarten …
+- [BGH, Urteil vom 27.11.2024 - VIII ZR 36/23](viii-zr-36-23.md) — Erteilt der Vermieter dem Mieter vor Abgabe von dessen Vertragserklärung die Auskunft, es handele sich um die erste Vermietung nach umfassender Modernisierung, stellt sich jedoch …
 - [BGH, Beschluss vom 26.11.2024 - VIII ZR 144/24](viii-zr-144-24.md) — BGH, Beschluss VIII ZR 144/24
 - [BGH, Beschluss vom 26.11.2024 - VIII ZR 171/23](viii-zr-171-23.md) — Verfahrensabtrennung in Revisionsverfahren
 - [BGH, Beschluss vom 19.11.2024 - VIII ZA 15/24](viii-za-15-24.md) — BGH, Beschluss VIII ZA 15/24
-- [BGH, Urteil vom 13.11.2024 - VIII ZR 15/23](viii-zr-15-23.md) — Ein auf unbestimmte Zeit geschlossener DDR-Altmietvertrag über Wohnraum, der hinsichtlich einer Beendigung des Mietverhältnisses auf die Vorschriften des Zivilg
-- [BGH, Urteil vom 13.11.2024 - VIII ZR 168/23](viii-zr-168-23.md) — 1. Bei der Rückabwicklung eines über eine Leasingsache geschlossenen Kaufvertrags nach mangelbedingtem Rücktritt richtet sich ein Anspruch des Lieferanten (Verk
+- [BGH, Urteil vom 13.11.2024 - VIII ZR 15/23](viii-zr-15-23.md) — Ein auf unbestimmte Zeit geschlossener DDR-Altmietvertrag über Wohnraum, der hinsichtlich einer Beendigung des Mietverhältnisses auf die Vorschriften des Zivilgesetzbuchs der …
+- [BGH, Urteil vom 13.11.2024 - VIII ZR 168/23](viii-zr-168-23.md) — 1. Bei der Rückabwicklung eines über eine Leasingsache geschlossenen Kaufvertrags nach mangelbedingtem Rücktritt richtet sich ein Anspruch des Lieferanten (Verkäufers) auf …
 - [BGH, Beschluss vom 12.11.2024 - VIII ZA 17/23](viii-za-17-23.md) — BGH, Beschluss VIII ZA 17/23
-- [BGH, Beschluss vom 12.11.2024 - VIII ZB 36/23](viii-zb-36-23.md) — 1. In Fällen, in denen die Klagepartei Ansprüche aus abgetretenem Recht verfolgt, richtet sich die Rechtswegzuordnung maßgeblich nach dem Gepräge des Rechtsverh
-- [BGH, Urteil vom 23.10.2024 - VIII ZR 106/23](viii-zr-106-23.md) — 1. Ein innerhalb der Schonfrist des § 569 Abs. 3 Nr. 2 Satz 1 BGB erfolgter Ausgleich des Mietrückstands beziehungsweise eine entsprechende Verpflichtung einer 
-- [BGH, Urteil vom 23.10.2024 - VIII ZR 177/23](viii-zr-177-23.md) — 1. Ein innerhalb der Schonfrist des § 569 Abs. 3 Nr. 2 Satz 1 BGB erfolgter Ausgleich des Mietrückstands beziehungsweise eine entsprechende Verpflichtung einer 
+- [BGH, Beschluss vom 12.11.2024 - VIII ZB 36/23](viii-zb-36-23.md) — 1. In Fällen, in denen die Klagepartei Ansprüche aus abgetretenem Recht verfolgt, richtet sich die Rechtswegzuordnung maßgeblich nach dem Gepräge des Rechtsverhältnisses zwischen …
+- [BGH, Urteil vom 23.10.2024 - VIII ZR 106/23](viii-zr-106-23.md) — 1. Ein innerhalb der Schonfrist des § 569 Abs. 3 Nr. 2 Satz 1 BGB erfolgter Ausgleich des Mietrückstands beziehungsweise eine entsprechende Verpflichtung einer öffentlichen Stelle …
+- [BGH, Urteil vom 23.10.2024 - VIII ZR 177/23](viii-zr-177-23.md) — 1. Ein innerhalb der Schonfrist des § 569 Abs. 3 Nr. 2 Satz 1 BGB erfolgter Ausgleich des Mietrückstands beziehungsweise eine entsprechende Verpflichtung einer öffentlichen Stelle …
 - [BGH, Beschluss vom 22.10.2024 - VIII ZR 249/23](viii-zr-249-23.md) — Wohnraummiete: Wirksamkeit der Mieterhöhung für eine Wohnung mit Stellplatz
-- [BGH, Urteil vom 25.09.2024 - VIII ZR 165/21](viii-zr-165-21.md) — Die im Bereich der Energielieferungsverhältnisse für den Fall einer durch die Unwirksamkeit einer formularmäßig vereinbarten Preisänderungsklausel entstandenen 
-- [BGH, Urteil vom 25.09.2024 - VIII ZR 176/21](viii-zr-176-21.md) — Zur Fortentwicklung der Dreijahreslösung bei Fernwärmelieferungsverhältnissen im Falle eines vom Kunden frühzeitig - erfolglos - erhobenen, aber langjährig nich
-- [BGH, Urteil vom 25.09.2024 - VIII ZR 20/22](viii-zr-20-22.md) — Zur Fortentwicklung der Dreijahreslösung bei Fernwärmelieferungsverhältnissen im Falle eines vom Kunden frühzeitig - erfolglos - erhobenen, aber langjährig nich
-- [BGH, Urteil vom 25.09.2024 - VIII ZR 58/23](viii-zr-58-23.md) — 1. Zum Nichtbestehen eines Widerrufsrechts des Leasingnehmers im Falle eines Leasingvertrags mit Kilometerabrechnung (im Anschluss an EuGH, Urteil vom 21. Dezem
+- [BGH, Urteil vom 25.09.2024 - VIII ZR 165/21](viii-zr-165-21.md) — Die im Bereich der Energielieferungsverhältnisse für den Fall einer durch die Unwirksamkeit einer formularmäßig vereinbarten Preisänderungsklausel entstandenen Regelungslücke im …
+- [BGH, Urteil vom 25.09.2024 - VIII ZR 176/21](viii-zr-176-21.md) — Zur Fortentwicklung der Dreijahreslösung bei Fernwärmelieferungsverhältnissen im Falle eines vom Kunden frühzeitig - erfolglos - erhobenen, aber langjährig nicht weiter verfolgten …
+- [BGH, Urteil vom 25.09.2024 - VIII ZR 20/22](viii-zr-20-22.md) — Zur Fortentwicklung der Dreijahreslösung bei Fernwärmelieferungsverhältnissen im Falle eines vom Kunden frühzeitig - erfolglos - erhobenen, aber langjährig nicht weiter verfolgten …
+- [BGH, Urteil vom 25.09.2024 - VIII ZR 58/23](viii-zr-58-23.md) — 1. Zum Nichtbestehen eines Widerrufsrechts des Leasingnehmers im Falle eines Leasingvertrags mit Kilometerabrechnung (im Anschluss an EuGH, Urteil vom 21. Dezember 2023 - C-38/21 …
 - [BGH, Beschluss vom 24.09.2024 - VIII ZA 10/24](viii-za-10-24.md) — BGH, Beschluss VIII ZA 10/24
 - [BGH, Beschluss vom 24.09.2024 - VIII ZR 104/23](viii-zr-104-23.md) — Anhörungsrüge gegen die Nichtzulassung der Revision: Darlegungsanforderung hinsichtlich einer entscheidungserheblichen und eigenständigen Gehörsverletzung
-- [BGH, Beschluss vom 24.09.2024 - VIII ZR 234/23](viii-zr-234-23.md) — Zur Höhe der mit der Revision geltend zu machenden Beschwer im Falle der Klage des Mieters auf Zustimmung des Vermieters zum Einbau eines Treppenlifts und eines
+- [BGH, Beschluss vom 24.09.2024 - VIII ZR 234/23](viii-zr-234-23.md) — Zur Höhe der mit der Revision geltend zu machenden Beschwer im Falle der Klage des Mieters auf Zustimmung des Vermieters zum Einbau eines Treppenlifts und eines …
 - [BGH, Beschluss vom 24.09.2024 - VIII ZR 66/24](viii-zr-66-24.md) — BGH, Beschluss VIII ZR 66/24
 - [BGH, Beschluss vom 23.09.2024 - VIII ZR 55/24](viii-zr-55-24.md) — BGH, Beschluss VIII ZR 55/24
 - [BGH, Beschluss vom 14.08.2024 - VIII ZB 23/24](viii-zb-23-24.md) — BGH, Beschluss VIII ZB 23/24
@@ -46,47 +46,47 @@
 - [BGH, Beschluss vom 13.08.2024 - VIII ZR 50/24](viii-zr-50-24.md) — BGH, Beschluss VIII ZR 50/24
 - [BGH, Beschluss vom 23.07.2024 - VIII ZB 39/24](viii-zb-39-24.md) — Aussetzung der Vollstreckung eines in der ersten Instanz protokollierten Räumungsvergleichs durch das Rechtsbeschwerdegericht
 - [BGH, Beschluss vom 23.07.2024 - VIII ZB 5/24](viii-zb-5-24.md) — BGH, Beschluss VIII ZB 5/24
-- [BGH, Urteil vom 10.07.2024 - VIII ZR 184/23](viii-zr-184-23.md) — Eine von den Parteien im Wohnraummietvertrag getroffene Barkautionsabrede ist typischerweise dahingehend auszulegen, dass die Möglichkeit des Vermieters, sich n
-- [BGH, Urteil vom 10.07.2024 - VIII ZR 276/23](viii-zr-276-23.md) — Als Familienangehörige im Sinne des § 577a Abs. 1a Satz 2 BGB (Ausnahme von der Kündigungsbeschränkung bei einem Wohnungserwerb) sind - ebenso wie im Falle der 
+- [BGH, Urteil vom 10.07.2024 - VIII ZR 184/23](viii-zr-184-23.md) — Eine von den Parteien im Wohnraummietvertrag getroffene Barkautionsabrede ist typischerweise dahingehend auszulegen, dass die Möglichkeit des Vermieters, sich nach Beendigung des …
+- [BGH, Urteil vom 10.07.2024 - VIII ZR 276/23](viii-zr-276-23.md) — Als Familienangehörige im Sinne des § 577a Abs. 1a Satz 2 BGB (Ausnahme von der Kündigungsbeschränkung bei einem Wohnungserwerb) sind - ebenso wie im Falle der …
 - [BGH, Beschluss vom 02.07.2024 - VIII ZA 7/23](viii-za-7-23.md) — BGH, Beschluss VIII ZA 7/23
 - [BGH, Beschluss vom 02.07.2024 - VIII ZB 73/23](viii-zb-73-23.md) — BGH, Beschluss VIII ZB 73/23
 - [BGH, Beschluss vom 25.06.2024 - VIII ZR 203/23](viii-zr-203-23.md) — BGH, Beschluss VIII ZR 203/23
-- [BGH, Urteil vom 05.06.2024 - VIII ZR 150/23](viii-zr-150-23.md) — Bezieht ein Wohnraummieter Leistungen zur Sicherung des Lebensunterhalts nach Maßgabe des SGB II, geht ein auf Rückerstattung überzahlter Miete gerichteter Bere
-- [BGH, Beschluss vom 04.06.2024 - VIII ZB 40/23](viii-zb-40-23.md) — 1. Der Umstand, dass in einem vor dem Bundesverfassungsgericht geführten Verfassungsbeschwerdeverfahren über eine Frage zu entscheiden ist, von deren Beantwortu
-- [BGH, Beschluss vom 04.06.2024 - VIII ZR 292/22](viii-zr-292-22.md) — Gegenstandswert für die anwaltliche Tätigkeit im Nichtzulassungsbeschwerdeverfahren betreffend die Revision gegen ein Berufungsurteil auf Herausgabe einer Mietw
+- [BGH, Urteil vom 05.06.2024 - VIII ZR 150/23](viii-zr-150-23.md) — Bezieht ein Wohnraummieter Leistungen zur Sicherung des Lebensunterhalts nach Maßgabe des SGB II, geht ein auf Rückerstattung überzahlter Miete gerichteter Bereicherungsanspruch …
+- [BGH, Beschluss vom 04.06.2024 - VIII ZB 40/23](viii-zb-40-23.md) — 1. Der Umstand, dass in einem vor dem Bundesverfassungsgericht geführten Verfassungsbeschwerdeverfahren über eine Frage zu entscheiden ist, von deren Beantwortung die Entscheidung …
+- [BGH, Beschluss vom 04.06.2024 - VIII ZR 292/22](viii-zr-292-22.md) — Gegenstandswert für die anwaltliche Tätigkeit im Nichtzulassungsbeschwerdeverfahren betreffend die Revision gegen ein Berufungsurteil auf Herausgabe einer Mietwohnung
 - [BGH, Beschluss vom 28.05.2024 - VIII ZA 14/23](viii-za-14-23.md) — BGH, Beschluss VIII ZA 14/23
 - [BGH, Beschluss vom 28.05.2024 - VIII ZR 158/23](viii-zr-158-23.md) — BGH, Beschluss VIII ZR 158/23
-- [BGH, Urteil vom 15.05.2024 - VIII ZR 226/22](viii-zr-226-22.md) — 1. Zum Verbrauchergerichtsstand nach Art. 15 Abs. 1 Buchst. c, Art. 16 Abs. 1 Alt. 2 Lugano-Übk II (im Anschluss an EuGH, Urteil vom 7. Dezember 2010 - C-585/08
-- [BGH, Urteil vom 15.05.2024 - VIII ZR 293/23](viii-zr-293-23.md) — 1. Die in § 17a Abs. 5 GVG vorgesehene Beschränkung der Befugnis des Rechtsmittelgerichts, die Zulässigkeit des Rechtswegs zu überprüfen, gilt nicht, wenn die Z
-- [BGH, Versäumnisurteil vom 15.05.2024 - VIII ZR 52/23](viii-zr-52-23.md) — 1. Zur Frage der Wirksamkeit der Einlegung eines Rechtsmittels durch Einreichung einer mit einer einbettenden Signatur ("enveloping signature") versehenen Recht
+- [BGH, Urteil vom 15.05.2024 - VIII ZR 226/22](viii-zr-226-22.md) — 1. Zum Verbrauchergerichtsstand nach Art. 15 Abs. 1 Buchst. c, Art. 16 Abs. 1 Alt. 2 Lugano-Übk II (im Anschluss an EuGH, Urteil vom 7. Dezember 2010 - C-585/08 und C-144/09, NJW …
+- [BGH, Urteil vom 15.05.2024 - VIII ZR 293/23](viii-zr-293-23.md) — 1. Die in § 17a Abs. 5 GVG vorgesehene Beschränkung der Befugnis des Rechtsmittelgerichts, die Zulässigkeit des Rechtswegs zu überprüfen, gilt nicht, wenn die Zulässigkeit des …
+- [BGH, Versäumnisurteil vom 15.05.2024 - VIII ZR 52/23](viii-zr-52-23.md) — 1. Zur Frage der Wirksamkeit der Einlegung eines Rechtsmittels durch Einreichung einer mit einer einbettenden Signatur ("enveloping signature") versehenen Rechtsmittelschrift. 2 …
 - [BGH, Beschluss vom 14.05.2024 - VIII ZB 6/24](viii-zb-6-24.md) — BGH, Beschluss VIII ZB 6/24
 - [BGH, Beschluss vom 14.05.2024 - VIII ZB 71/23](viii-zb-71-23.md) — BGH, Beschluss VIII ZB 71/23
 - [BGH, Beschluss vom 14.05.2024 - VIII ZB 81/23](viii-zb-81-23.md) — BGH, Beschluss VIII ZB 81/23
 - [BGH, Beschluss vom 14.05.2024 - VIII ZR 15/24](viii-zr-15-24.md) — Zur Gehörsverletzung im Falle eines fehlerhaften "Protokollurteils" (im Anschluss an Senatsbeschluss vom 23. Februar 2021 - VIII ZR 213/20, NZM 2021, 432).
 - [BGH, Beschluss vom 07.05.2024 - VIII ZA 5/24](viii-za-5-24.md) — BGH, Beschluss VIII ZA 5/24
-- [BGH, Beschluss vom 23.04.2024 - VIII ZB 75/23](viii-zb-75-23.md) — Im Beschwerdeverfahren ist die Zivilkammer nicht befugt, selbst über die Übertragung eines in die originäre Zuständigkeit des Einzelrichters fallenden Beschwerd
-- [BGH, Beschluss vom 23.04.2024 - VIII ZR 35/23](viii-zr-35-23.md) — Zu einer Gehörsverletzung bei fehlender Berücksichtigung des Vortrags zum Verständnis des Verkäufers vom Inhalt einer Mängelrüge im Sinne des § 377 HGB (im Ansc
+- [BGH, Beschluss vom 23.04.2024 - VIII ZB 75/23](viii-zb-75-23.md) — Im Beschwerdeverfahren ist die Zivilkammer nicht befugt, selbst über die Übertragung eines in die originäre Zuständigkeit des Einzelrichters fallenden Beschwerdeverfahrens zu …
+- [BGH, Beschluss vom 23.04.2024 - VIII ZR 35/23](viii-zr-35-23.md) — Zu einer Gehörsverletzung bei fehlender Berücksichtigung des Vortrags zum Verständnis des Verkäufers vom Inhalt einer Mängelrüge im Sinne des § 377 HGB (im Anschluss an BGH …
 - [BGH, Beschluss vom 16.04.2024 - VIII ZA 3/24](viii-za-3-24.md) — BGH, Beschluss VIII ZA 3/24
-- [BGH, Urteil vom 10.04.2024 - VIII ZR 114/22](viii-zr-114-22.md) — Zu den Anforderungen an die gerichtliche Prüfung des Vorliegens einer nicht zu rechtfertigenden Härte im Sinne des § 574 Abs. 1 Satz 1 BGB bei der ernsthaften G
-- [BGH, Urteil vom 10.04.2024 - VIII ZR 161/23](viii-zr-161-23.md) — 1. Haben die Parteien eines Kaufvertrags (ausdrücklich oder stillschweigend) eine Beschaffenheit der Kaufsache im Sinne von § 434 Abs. 1 Satz 1 BGB aF vereinbar
-- [BGH, Urteil vom 10.04.2024 - VIII ZR 286/22](viii-zr-286-22.md) — 1. Beabsichtigt der Vermieter, die Mietwohnung nicht nur zu Wohnzwecken zu beziehen, sondern dort zugleich überwiegend einer (frei-)beruflichen Tätigkeit nachzu
+- [BGH, Urteil vom 10.04.2024 - VIII ZR 114/22](viii-zr-114-22.md) — Zu den Anforderungen an die gerichtliche Prüfung des Vorliegens einer nicht zu rechtfertigenden Härte im Sinne des § 574 Abs. 1 Satz 1 BGB bei der ernsthaften Gefahr eines Suizids …
+- [BGH, Urteil vom 10.04.2024 - VIII ZR 161/23](viii-zr-161-23.md) — 1. Haben die Parteien eines Kaufvertrags (ausdrücklich oder stillschweigend) eine Beschaffenheit der Kaufsache im Sinne von § 434 Abs. 1 Satz 1 BGB aF vereinbart, ist ein daneben …
+- [BGH, Urteil vom 10.04.2024 - VIII ZR 286/22](viii-zr-286-22.md) — 1. Beabsichtigt der Vermieter, die Mietwohnung nicht nur zu Wohnzwecken zu beziehen, sondern dort zugleich überwiegend einer (frei-)beruflichen Tätigkeit nachzugehen (hier …
 - [BGH, Urteil vom 27.03.2024 - VIII ZR 122/23](viii-zr-122-23.md) — Gestaltungsspielraum eines Fernwärmeversorgungsunternehmens bei Preisanpassungsklauseln
 - [BGH, Beschluss vom 26.03.2024 - VIII ZA 11/23](viii-za-11-23.md) — BGH, Beschluss VIII ZA 11/23
-- [BGH, Beschluss vom 26.03.2024 - VIII ZR 22/24](viii-zr-22-24.md) — 1. Einem Antrag auf Herabsetzung der nach dem Berufungsurteil zur Abwendung der Zwangsvollstreckung zu leistenden Sicherheit durch das Revisionsgericht fehlt es
-- [BGH, Beschluss vom 26.03.2024 - VIII ZR 89/23](viii-zr-89-23.md) — Zur Verletzung rechtlichen Gehörs (Art. 103 Abs. 1 GG) durch die Nichteinholung eines Sachverständigengutachtens aufgrund der Inanspruchnahme eigener Sachkunde 
+- [BGH, Beschluss vom 26.03.2024 - VIII ZR 22/24](viii-zr-22-24.md) — 1. Einem Antrag auf Herabsetzung der nach dem Berufungsurteil zur Abwendung der Zwangsvollstreckung zu leistenden Sicherheit durch das Revisionsgericht fehlt es an einer …
+- [BGH, Beschluss vom 26.03.2024 - VIII ZR 89/23](viii-zr-89-23.md) — Zur Verletzung rechtlichen Gehörs (Art. 103 Abs. 1 GG) durch die Nichteinholung eines Sachverständigengutachtens aufgrund der Inanspruchnahme eigener Sachkunde des Gerichts im …
 - [BGH, Beschluss vom 19.03.2024 - VIII ZR 96/23](viii-zr-96-23.md) — Wirksamkeit der Berliner Mietenbegrenzungsverordnung
-- [BGH, Urteil vom 06.03.2024 - VIII ZR 363/21](viii-zr-363-21.md) — 1. Ist ein Hotelbetrieb durch das Verbot einer Beherbergung von Personen zu touristischen Zwecken als Maßnahme zur Bekämpfung der COVID-19-Pandemie daran gehind
-- [BGH, Urteil vom 06.03.2024 - VIII ZR 79/22](viii-zr-79-22.md) — 1. Eine formularmäßige Quotenabgeltungsklausel in einem Wohnraummietvertrag benachteiligt den Mieter nach § 307 Abs. 1 Satz 1 BGB unangemessen und ist daher unw
+- [BGH, Urteil vom 06.03.2024 - VIII ZR 363/21](viii-zr-363-21.md) — 1. Ist ein Hotelbetrieb durch das Verbot einer Beherbergung von Personen zu touristischen Zwecken als Maßnahme zur Bekämpfung der COVID-19-Pandemie daran gehindert, dem Gast den …
+- [BGH, Urteil vom 06.03.2024 - VIII ZR 79/22](viii-zr-79-22.md) — 1. Eine formularmäßige Quotenabgeltungsklausel in einem Wohnraummietvertrag benachteiligt den Mieter nach § 307 Abs. 1 Satz 1 BGB unangemessen und ist daher unwirksam, weil sie …
 - [BGH, Beschluss vom 20.02.2024 - VIII ZB 55/23](viii-zb-55-23.md) — BGH, Beschluss VIII ZB 55/23
-- [BGH, Beschluss vom 20.02.2024 - VIII ZR 238/22](viii-zr-238-22.md) — 1. Das Berufungsgericht darf eine Berufung nicht gemäß § 522 Abs. 2 Satz 1 ZPO zurückweisen, ohne zuvor über den rechtzeitig eingegangenen Antrag des Berufungsf
+- [BGH, Beschluss vom 20.02.2024 - VIII ZR 238/22](viii-zr-238-22.md) — 1. Das Berufungsgericht darf eine Berufung nicht gemäß § 522 Abs. 2 Satz 1 ZPO zurückweisen, ohne zuvor über den rechtzeitig eingegangenen Antrag des Berufungsführers auf …
 - [BGH, Beschluss vom 19.02.2024 - VIII ZA 8/23](viii-za-8-23.md) — BGH, Beschluss VIII ZA 8/23
 - [BGH, Beschluss vom 06.02.2024 - VIII ZA 12/23](viii-za-12-23.md) — BGH, Beschluss VIII ZA 12/23
 - [BGH, Beschluss vom 30.01.2024 - VIII ZA 17/22](viii-za-17-22.md) — BGH, Beschluss VIII ZA 17/22
-- [BGH, Beschluss vom 30.01.2024 - VIII ZB 43/23](viii-zb-43-23.md) — 1. Gegen eine Kostenentscheidung nach § 91a ZPO darf die Rechtsbeschwerde nicht aus materiell-rechtlichen Gründen zugelassen werden, da es nicht Zweck des Koste
-- [BGH, Beschluss vom 30.01.2024 - VIII ZB 47/23](viii-zb-47-23.md) — Zu den Anforderungen an die Darlegung eines erheblichen Grunds im Sinne von § 227 Abs. 1 Satz 1 ZPO im Falle der Verhinderung des Prozessbevollmächtigten einer 
-- [BGH, Beschluss vom 30.01.2024 - VIII ZB 85/22](viii-zb-85-22.md) — Zu den Anforderungen an die Ausgangskontrolle bei der Versendung fristgebundener Schriftsätze - hier: Antrag auf Verlängerung der Berufungsbegründungsfrist - üb
-- [BGH, Beschluss vom 16.01.2024 - VIII ZR 12/23](viii-zr-12-23.md) — Wohnraummiete: Zulässigkeit einer Staffelmietvereinbarung für die Zeit nach der Beendigung der Preisbindung und Vereinbarung einer ersten Staffel während des Ze
+- [BGH, Beschluss vom 30.01.2024 - VIII ZB 43/23](viii-zb-43-23.md) — 1. Gegen eine Kostenentscheidung nach § 91a ZPO darf die Rechtsbeschwerde nicht aus materiell-rechtlichen Gründen zugelassen werden, da es nicht Zweck des Kostenverfahrens ist …
+- [BGH, Beschluss vom 30.01.2024 - VIII ZB 47/23](viii-zb-47-23.md) — Zu den Anforderungen an die Darlegung eines erheblichen Grunds im Sinne von § 227 Abs. 1 Satz 1 ZPO im Falle der Verhinderung des Prozessbevollmächtigten einer Partei wegen eines …
+- [BGH, Beschluss vom 30.01.2024 - VIII ZB 85/22](viii-zb-85-22.md) — Zu den Anforderungen an die Ausgangskontrolle bei der Versendung fristgebundener Schriftsätze - hier: Antrag auf Verlängerung der Berufungsbegründungsfrist - über das besondere …
+- [BGH, Beschluss vom 16.01.2024 - VIII ZR 12/23](viii-zr-12-23.md) — Wohnraummiete: Zulässigkeit einer Staffelmietvereinbarung für die Zeit nach der Beendigung der Preisbindung und Vereinbarung einer ersten Staffel während des Zeitraums der …
 - [BGH, Beschluss vom 16.01.2024 - VIII ZR 135/23](viii-zr-135-23.md) — Wohnraummiete in Hamburg: Auskunftsverpflichtung des Vermieters hinsichtlich der Vormiete bei kurzem Vormietverhältnis
-- [BGH, Beschluss vom 09.01.2024 - VIII ZB 31/23](viii-zb-31-23.md) — Zu den Anforderungen an die Darlegung eines erheblichen Grundes im Sinne des § 520 Abs. 2 Satz 3 ZPO bei der Stellung eines (erstmaligen) Antrags auf Verlängeru
+- [BGH, Beschluss vom 09.01.2024 - VIII ZB 31/23](viii-zb-31-23.md) — Zu den Anforderungen an die Darlegung eines erheblichen Grundes im Sinne des § 520 Abs. 2 Satz 3 ZPO bei der Stellung eines (erstmaligen) Antrags auf Verlängerung der Frist zur …
 - [BGH, Beschluss vom 09.01.2024 - VIII ZB 8/23](viii-zb-8-23.md) — BGH, Beschluss VIII ZB 8/23
 - [BGH, Beschluss vom 09.01.2024 - VIII ZR 101/22](viii-zr-101-22.md) — BGH, Beschluss VIII ZR 101/22

@@ -13,7 +13,7 @@
 - [BGH, Urteil vom 03.12.2024 - AnwZ (Brfg) 9/24](anwz-brfg-9-24.md) — BGH, Urteil AnwZ (Brfg) 9/24
 - [BGH, Beschluss vom 02.12.2024 - AnwZ(Brfg) 26/21](anwzbrfg-26-21.md) — BGH, Beschluss AnwZ(Brfg) 26/21
 - [BGH, Beschluss vom 29.11.2024 - AnwZ (Brfg) 38/24](anwz-brfg-38-24.md) — BGH, Beschluss AnwZ (Brfg) 38/24
-- [BGH, Urteil vom 11.11.2024 - AnwZ (Brfg) 17/23](anwz-brfg-17-23.md) — Anwaltliches Berufsrecht: Verfassungsmäßigkeit der Eintragung des Arbeitgebers eines Syndikusrechtsanwalts in das elektronische Anwaltsverzeichnis der Rechtsanw
+- [BGH, Urteil vom 11.11.2024 - AnwZ (Brfg) 17/23](anwz-brfg-17-23.md) — Anwaltliches Berufsrecht: Verfassungsmäßigkeit der Eintragung des Arbeitgebers eines Syndikusrechtsanwalts in das elektronische Anwaltsverzeichnis der Rechtsanwaltskammer
 - [BGH, Urteil vom 11.11.2024 - AnwZ (Brfg) 22/23](anwz-brfg-22-23.md) — Zulassung eines GmbH-Geschäftsführers zur Rechtsanwaltschaft als Syndikusrechtsanwalt
 - [BGH, Beschluss vom 11.11.2024 - AnwZ (Brfg) 35/23](anwz-brfg-35-23.md) — Rechtsmäßigkeit des Kammerbeitrags in Rechtsanwaltskammer für Steuerberater
 - [BGH, Urteil vom 11.11.2024 - AnwZ (Brfg) 36/23](anwz-brfg-36-23.md) — Zulassung eines GmbH-Geschäftsführers als Syndikusrechtsanwalt
@@ -21,7 +21,7 @@
 - [BGH, Beschluss vom 30.09.2024 - AnwZ (Brfg) 23/24](anwz-brfg-23-24.md) — BGH, Beschluss AnwZ (Brfg) 23/24
 - [BGH, Beschluss vom 30.09.2024 - AnwZ (Brfg) 28/24](anwz-brfg-28-24.md) — BGH, Beschluss AnwZ (Brfg) 28/24
 - [BGH, Beschluss vom 21.09.2024 - AnwSt (B) 3/21](anwst-b-3-21.md) — Anwaltsgerichtliches Verfahren: Unzulässigkeit des Ablehnungsantrags nach rechtskräftigem Verfahrensabschluss
-- [BGH, Beschluss vom 21.09.2024 - AnwSt (B) 4/21](anwst-b-4-21.md) — Anwaltgerichtliches Verfahren wegen berufsrechtlicher Pflichtverletzung: Verspäteter Antrag auf Ablehnung des Richters wegen Befangenheitsbesorgnis; Zuständigke
+- [BGH, Beschluss vom 21.09.2024 - AnwSt (B) 4/21](anwst-b-4-21.md) — Anwaltgerichtliches Verfahren wegen berufsrechtlicher Pflichtverletzung: Verspäteter Antrag auf Ablehnung des Richters wegen Befangenheitsbesorgnis; Zuständigkeit des …
 - [BGH, Beschluss vom 03.09.2024 - AnwZ(Brfg) 4/24](anwzbrfg-4-24.md) — BGH, Beschluss AnwZ(Brfg) 4/24
 - [BGH, Beschluss vom 30.08.2024 - AnwZ (Brfg) 15/24](anwz-brfg-15-24.md) — Anwaltsgerichtliches Verfahren: Versagung der Wiederzulassung zur Rechtsanwaltschaft
 - [BGH, Beschluss vom 30.08.2024 - AnwZ (Brfg) 18/24](anwz-brfg-18-24.md) — Widerruf der Berechtigung zur Führung einer Fachanwaltsbezeichnung; Erfüllung der Fortbildungspflicht durch Lektüre von Fachzeitschriften
@@ -70,4 +70,4 @@
 - [BGH, Beschluss vom 12.01.2024 - AnwZ (Brfg) 37/23](anwz-brfg-37-23.md) — BGH, Beschluss AnwZ (Brfg) 37/23
 - [BGH, Beschluss vom 12.01.2024 - AnwZ (Brfg) 38/23](anwz-brfg-38-23.md) — (Vergütung eines Kanzleiabwicklers; Kanzleikostenanteil)
 - [BGH, Beschluss vom 12.01.2024 - AnwZ (Brfg) 40/23](anwz-brfg-40-23.md) — BGH, Beschluss AnwZ (Brfg) 40/23
-- [BGH, Beschluss vom 10.01.2024 - AnwZ (Brfg) 15/23](anwz-brfg-15-23.md) — Elektronischer Rechtsverkehr im anwaltsgerichtlichen Verfahren: Nachträgliche Darlegung und Glaubhaftmachung der Voraussetzungen einer Ersatzeinreichung eines S
+- [BGH, Beschluss vom 10.01.2024 - AnwZ (Brfg) 15/23](anwz-brfg-15-23.md) — Elektronischer Rechtsverkehr im anwaltsgerichtlichen Verfahren: Nachträgliche Darlegung und Glaubhaftmachung der Voraussetzungen einer Ersatzeinreichung eines Schriftsatzes …

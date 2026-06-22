@@ -9,7 +9,7 @@
 - [BGH, Beschluss vom 16.12.2008 - IX ZR 174/06](ix-zr-174-06.md) — BGH, Beschluss vom 16.12.2008 - IX ZR 174/06
 - [BGH, Beschluss vom 16.12.2008 - IX ZR 243/06](ix-zr-243-06.md) — BGH, Beschluss vom 16.12.2008 - IX ZR 243/06
 - [BGH, Beschluss vom 11.12.2008 - IX ZR 134/06](ix-zr-134-06.md) — BGH, Beschluss vom 11.12.2008 - IX ZR 134/06
-- [BGH, Urteil vom 11.12.2008 - IX ZR 195/07](ix-zr-195-07.md) — In einem Schneeballsystem ausgezahlte Scheingewinne sind unentgeltliche Leistungen und nach § 134 InsO anfechtbar, weil ihnen keine werthaltige Gegenleistung ge
+- [BGH, Urteil vom 11.12.2008 - IX ZR 195/07](ix-zr-195-07.md) — In einem Schneeballsystem ausgezahlte Scheingewinne sind unentgeltliche Leistungen und nach § 134 InsO anfechtbar, weil ihnen keine werthaltige Gegenleistung gegenübersteht.
 - [BGH, Beschluss vom 11.12.2008 - IX ZR 26/06](ix-zr-26-06.md) — BGH, Beschluss vom 11.12.2008 - IX ZR 26/06
 - [BGH, Beschluss vom 04.12.2008 - IX ZR 154/08](ix-zr-154-08.md) — BGH, Beschluss vom 04.12.2008 - IX ZR 154/08
 - [BGH, Beschluss vom 04.12.2008 - IX ZR 188/06](ix-zr-188-06.md) — BGH, Beschluss vom 04.12.2008 - IX ZR 188/06

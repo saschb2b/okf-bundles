@@ -32,7 +32,7 @@
 - [BGH, Urteil vom 24.10.2024 - 4 StR 249/24](4-str-249-24.md) — Bewertung einer Verteidigererklärung eines Mitangeklagten; Voraussetzungen einer Einziehung
 - [BGH, Beschluss vom 24.10.2024 - 4 StR 368/24](4-str-368-24.md) — BGH, Beschluss 4 StR 368/24
 - [BGH, Beschluss vom 23.10.2024 - 4 StR 167/24](4-str-167-24.md) — Fehlende Eröffnungsentscheidung im verbundenen Verfahren; Anforderungen an konkludente Eröffnung
-- [BGH, Beschluss vom 23.10.2024 - 4 StR 218/24](4-str-218-24.md) — Revision im Strafverfahren u.a. wegen Straßenverkehrsgefährdung in Tateinheit mit gefährlicher Körperverletzung: Rechtmäßigkeit der Einziehungsanordnung für ein
+- [BGH, Beschluss vom 23.10.2024 - 4 StR 218/24](4-str-218-24.md) — Revision im Strafverfahren u.a. wegen Straßenverkehrsgefährdung in Tateinheit mit gefährlicher Körperverletzung: Rechtmäßigkeit der Einziehungsanordnung für ein Kraftfahrzeug als …
 - [BGH, Beschluss vom 23.10.2024 - 4 StR 367/24](4-str-367-24.md) — BGH, Beschluss 4 StR 367/24
 - [BGH, Beschluss vom 23.10.2024 - 4 StR 488/23](4-str-488-23.md) — Anstiftung zur vorsätzlichen Brandstiftung: Anstifterhaftung bei Identitätsirrtum des Haupttäters
 - [BGH, Beschluss vom 22.10.2024 - 4 StR 174/24](4-str-174-24.md) — BGH, Beschluss 4 StR 174/24
@@ -40,11 +40,11 @@
 - [BGH, Beschluss vom 22.10.2024 - 4 StR 369/24](4-str-369-24.md) — BGH, Beschluss 4 StR 369/24
 - [BGH, Beschluss vom 22.10.2024 - 4 StR 386/24](4-str-386-24.md) — BGH, Beschluss 4 StR 386/24
 - [BGH, Urteil vom 10.10.2024 - 4 StR 173/24](4-str-173-24.md) — Unterbringung des Angeklagten in psychiatrischem Krankenhaus; Alkoholintoxikation als nur vorübergehende Störung; Täter-Opfer-Ausgleich
-- [BGH, Beschluss vom 10.10.2024 - 4 StR 304/24](4-str-304-24.md) — Vorsatzstrafbarkeit und Schuldfähigkeit bei Begehen von Straftaten im Zustand einer akuten krankheitsbedingten Psychose; Anordnung der Unterbringung in einem Ps
+- [BGH, Beschluss vom 10.10.2024 - 4 StR 304/24](4-str-304-24.md) — Vorsatzstrafbarkeit und Schuldfähigkeit bei Begehen von Straftaten im Zustand einer akuten krankheitsbedingten Psychose; Anordnung der Unterbringung in einem Psychiatrischen …
 - [BGH, Beschluss vom 09.10.2024 - 4 StR 257/24](4-str-257-24.md) — BGH, Beschluss 4 StR 257/24
 - [BGH, Beschluss vom 09.10.2024 - 4 StR 374/24](4-str-374-24.md) — Rückwirkende Berücksichtigung des durch Neufassung niedrigeren Strafrahmens für den Besitz kinderpornographischer Inhalte
 - [BGH, Beschluss vom 08.10.2024 - 4 StR 228/24](4-str-228-24.md) — BGH, Beschluss 4 StR 228/24
-- [BGH, Beschluss vom 08.10.2024 - 4 StR 318/24](4-str-318-24.md) — Strafverurteilung wegen versuchter gefährlicher Körperverletzung und versuchten gefährlichen Eingriffs in den Straßenverkehr: Tatrichterliche Darlegungen zum st
+- [BGH, Beschluss vom 08.10.2024 - 4 StR 318/24](4-str-318-24.md) — Strafverurteilung wegen versuchter gefährlicher Körperverletzung und versuchten gefährlichen Eingriffs in den Straßenverkehr: Tatrichterliche Darlegungen zum strafbefreiender …
 - [BGH, Beschluss vom 08.10.2024 - 4 StR 350/24](4-str-350-24.md) — BGH, Beschluss 4 StR 350/24
 - [BGH, Beschluss vom 08.10.2024 - 4 StR 408/24](4-str-408-24.md) — BGH, Beschluss 4 StR 408/24
 - [BGH, Urteil vom 26.09.2024 - 4 StR 115/24](4-str-115-24.md) — BGH, Urteil 4 StR 115/24
@@ -75,9 +75,9 @@
 - [BGH, Beschluss vom 28.08.2024 - 4 StR 271/24](4-str-271-24.md) — BGH, Beschluss 4 StR 271/24
 - [BGH, Beschluss vom 28.08.2024 - 4 StR 480/23](4-str-480-23.md) — Qualifikation des bandenmäßigen Handeltreibens mit Cannabis durch Beziehen auf nicht geringe Menge; Unterbringung in Entziehungsanstalt nach neuem Recht
 - [BGH, Beschluss vom 27.08.2024 - 4 StR 203/24](4-str-203-24.md) — BGH, Beschluss 4 StR 203/24
-- [BGH, Beschluss vom 27.08.2024 - 4 StR 239/24](4-str-239-24.md) — Wiedereinsetzung im Strafverfahren: Glaubhaftmachung einer unverschuldeten Fristversäumnis wegen technischer Fehler bei der Übermittlung der Revisionsschrift pe
+- [BGH, Beschluss vom 27.08.2024 - 4 StR 239/24](4-str-239-24.md) — Wiedereinsetzung im Strafverfahren: Glaubhaftmachung einer unverschuldeten Fristversäumnis wegen technischer Fehler bei der Übermittlung der Revisionsschrift per beA
 - [BGH, Urteil vom 15.08.2024 - 4 StR 79/24](4-str-79-24.md) — BGH, Urteil 4 StR 79/24
-- [BGH, Beschluss vom 14.08.2024 - 4 StR 127/24](4-str-127-24.md) — Belegen eines erforderlichen Obhutsverhältnisses für Verurteilung wegen sexuellen Missbrauchs von Schutzbefohlenen; notwendige Feststellungen zum Rücktrittshori
+- [BGH, Beschluss vom 14.08.2024 - 4 StR 127/24](4-str-127-24.md) — Belegen eines erforderlichen Obhutsverhältnisses für Verurteilung wegen sexuellen Missbrauchs von Schutzbefohlenen; notwendige Feststellungen zum Rücktrittshorizont
 - [BGH, Beschluss vom 14.08.2024 - 4 StR 135/24](4-str-135-24.md) — Strafbarkeit der Weitergabe von (Kriegs-)Waffen an einen verdeckten Ermittler der Polizei
 - [BGH, Beschluss vom 14.08.2024 - 4 StR 232/24](4-str-232-24.md) — BGH, Beschluss 4 StR 232/24
 - [BGH, Beschluss vom 14.08.2024 - 4 StR 251/24](4-str-251-24.md) — Gefährdung des Straßenverkehrs durch Fahruntüchtigkeit nach Rauschmittelkonsum
@@ -115,23 +115,23 @@
 - [BGH, Beschluss vom 18.06.2024 - 4 StR 151/24](4-str-151-24.md) — BGH, Beschluss 4 StR 151/24
 - [BGH, Beschluss vom 18.06.2024 - 4 StR 155/24](4-str-155-24.md) — (Auswirkungen eines Verstoßes gegen den Spezialitätsgrundsatz gemäß § 83h IRG)
 - [BGH, Beschluss vom 18.06.2024 - 4 StR 200/24](4-str-200-24.md) — BGH, Beschluss 4 StR 200/24
-- [BGH, Beschluss vom 18.06.2024 - 4 StR 450/23](4-str-450-23.md) — Einziehungsentscheidung im Strafurteil wegen Diebstahls und gewerbsmäßiger Hehlerei: Anforderungen an die Bezeichnung und Auflistung der Einziehungsobjekte; Zul
+- [BGH, Beschluss vom 18.06.2024 - 4 StR 450/23](4-str-450-23.md) — Einziehungsentscheidung im Strafurteil wegen Diebstahls und gewerbsmäßiger Hehlerei: Anforderungen an die Bezeichnung und Auflistung der Einziehungsobjekte; Zulässigkeit des …
 - [BGH, Beschluss vom 18.06.2024 - 4 StR 515/23](4-str-515-23.md) — BGH, Beschluss 4 StR 515/23
 - [BGH, Beschluss vom 18.06.2024 - 4 StR 88/24](4-str-88-24.md) — BGH, Beschluss 4 StR 88/24
 - [BGH, Beschluss vom 17.06.2024 - 4 StR 187/24](4-str-187-24.md) — Verbotener Anbau von Cannabispflanzen auf Marihuana-Indoor-Plantage
 - [BGH, Beschluss vom 17.06.2024 - 4 StR 307/23](4-str-307-23.md) — BGH, Beschluss 4 StR 307/23
-- [BGH, Beschluss vom 05.06.2024 - 4 StR 157/24](4-str-157-24.md) — Erfordernis der Übermittlung der Revision und ihrer Begründung auf sicherem Übermittlungsweg zwischen besonderem elektronischen Anwaltspostfach und elektronisch
+- [BGH, Beschluss vom 05.06.2024 - 4 StR 157/24](4-str-157-24.md) — Erfordernis der Übermittlung der Revision und ihrer Begründung auf sicherem Übermittlungsweg zwischen besonderem elektronischen Anwaltspostfach und elektronischer Poststelle des …
 - [BGH, Beschluss vom 05.06.2024 - 4 StR 59/24](4-str-59-24.md) — BGH, Beschluss 4 StR 59/24
 - [BGH, Beschluss vom 04.06.2024 - 4 StR 111/24](4-str-111-24.md) — BGH, Beschluss 4 StR 111/24
 - [BGH, Beschluss vom 04.06.2024 - 4 StR 142/24](4-str-142-24.md) — BGH, Beschluss 4 StR 142/24
-- [BGH, Beschluss vom 29.05.2024 - 4 StR 138/22](4-str-138-22.md) — Beweiswürdigung zum Vorwurf eines vorsätzlichen Tötungsdelikts bei Menschen im Sterbeprozess; Kausalität nicht indizierter Medikamentengabe durch Intensivmedizi
+- [BGH, Beschluss vom 29.05.2024 - 4 StR 138/22](4-str-138-22.md) — Beweiswürdigung zum Vorwurf eines vorsätzlichen Tötungsdelikts bei Menschen im Sterbeprozess; Kausalität nicht indizierter Medikamentengabe durch Intensivmediziner
 - [BGH, Urteil vom 23.05.2024 - 4 StR 234/23](4-str-234-23.md) — Verurteilung wegen gefährlicher Körperverletzung zu einer Jugendstrafe; Berücksichtigung einer Schmerzensgeldzahlung im Rahmen der Adhäsionsenscheidung
 - [BGH, Beschluss vom 23.05.2024 - 4 StR 42/24](4-str-42-24.md) — (Wirksamkeit eines Eröffnungsbeschlusses; Anforderungen an die richtige Besetzung)
 - [BGH, Beschluss vom 22.05.2024 - 4 StR 119/24](4-str-119-24.md) — BGH, Beschluss 4 StR 119/24
-- [BGH, Beschluss vom 22.05.2024 - 4 StR 503/23](4-str-503-23.md) — Nutzung eines Fahrzeugs als bewusst zweckwidrig eingesetztes Nötigungsmittel im Rahmen eines Fluchtmanövers; Anwendung des Konsumcannabisgesetzes auf den Handel
+- [BGH, Beschluss vom 22.05.2024 - 4 StR 503/23](4-str-503-23.md) — Nutzung eines Fahrzeugs als bewusst zweckwidrig eingesetztes Nötigungsmittel im Rahmen eines Fluchtmanövers; Anwendung des Konsumcannabisgesetzes auf den Handel mit Marihuana
 - [BGH, Beschluss vom 21.05.2024 - 4 StR 121/24](4-str-121-24.md) — BGH, Beschluss 4 StR 121/24
 - [BGH, Beschluss vom 21.05.2024 - 4 StR 170/24](4-str-170-24.md) — BGH, Beschluss 4 StR 170/24
-- [BGH, Beschluss vom 21.05.2024 - 4 StR 180/24](4-str-180-24.md) — Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge: Berücksichtigung eines Fahrlässigkeitsvorwurfs bezüglich einer vom Vorsatz nicht erfassten Meh
+- [BGH, Beschluss vom 21.05.2024 - 4 StR 180/24](4-str-180-24.md) — Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge: Berücksichtigung eines Fahrlässigkeitsvorwurfs bezüglich einer vom Vorsatz nicht erfassten Mehrmenge im Rahmen …
 - [BGH, Beschluss vom 21.05.2024 - 4 StR 502/23](4-str-502-23.md) — BGH, Beschluss 4 StR 502/23
 - [BGH, Beschluss vom 21.05.2024 - 4 StR 95/24](4-str-95-24.md) — Strafbarer Cannabis-Erwerb und raubspezifisches Nötigungsmittel
 - [BGH, Beschluss vom 15.05.2024 - 4 StR 43/24](4-str-43-24.md) — BGH, Beschluss 4 StR 43/24
@@ -147,7 +147,7 @@
 - [BGH, Beschluss vom 24.04.2024 - 4 StR 46/24](4-str-46-24.md) — BGH, Beschluss 4 StR 46/24
 - [BGH, Beschluss vom 24.04.2024 - 4 StR 476/23](4-str-476-23.md) — Prüfung der Sachurteilsvoraussetzungen zum Adhäsionsausspruch bei Anerkenntnis durch Angeklagten
 - [BGH, Beschluss vom 24.04.2024 - 4 StR 50/24](4-str-50-24.md) — Handeltreiben mit Betäubungsmitteln: Cannabis-THC-Grenzwert nach KCanG
-- [BGH, Beschluss vom 24.04.2024 - 4 StR 90/24](4-str-90-24.md) — Gefährdung des Straßenverkehrs und Urkundenfälschung durch Benutzung eines falschen Kennzeichens: Nachweis einer rauschmittelbedingten Fahrunsicherheit; Konkurr
+- [BGH, Beschluss vom 24.04.2024 - 4 StR 90/24](4-str-90-24.md) — Gefährdung des Straßenverkehrs und Urkundenfälschung durch Benutzung eines falschen Kennzeichens: Nachweis einer rauschmittelbedingten Fahrunsicherheit; Konkurrenzverhältnis
 - [BGH, Beschluss vom 23.04.2024 - 4 StR 117/24](4-str-117-24.md) — (Strafbarkeit wegen schweren sexuellen Missbrauchs von Kindern; Verstoß gegen Doppelverwertungsverbot im Rahmen der Beweiswürdigung)
 - [BGH, Beschluss vom 23.04.2024 - 4 StR 31/24](4-str-31-24.md) — Anforderungen an die Darstellung der Beweiswürdigung in den Urteilsgründen
 - [BGH, Beschluss vom 23.04.2024 - 4 StR 8/24](4-str-8-24.md) — Unterbringung in psychiatrischem Krankenhaus und tatrichterliche Feststellungen zur Gefährlichkeitsprognose
@@ -174,17 +174,17 @@
 - [BGH, Beschluss vom 13.03.2024 - 4 StR 442/23](4-str-442-23.md) — Anforderung an den Zueignungswillen bei Unterschlagung; Leugnung des Angeklagten als Strafschärfungsgrund
 - [BGH, Beschluss vom 13.03.2024 - 4 StR 448/23](4-str-448-23.md) — Mord: Verdrängung niedriger Beweggründe durch das Mordmerkmal der Ermöglichungsabsicht
 - [BGH, Beschluss vom 12.03.2024 - 4 StR 16/24](4-str-16-24.md) — BGH, Beschluss 4 StR 16/24
-- [BGH, Beschluss vom 12.03.2024 - 4 StR 173/23](4-str-173-23.md) — Rechtmäßigkeit einer Einziehungsentscheidung bei Zahlung des D&O-Versicherers nach Pflichtverletzungen eines Organmitglieds und dadurch verursachtem Vermögenssc
+- [BGH, Beschluss vom 12.03.2024 - 4 StR 173/23](4-str-173-23.md) — Rechtmäßigkeit einer Einziehungsentscheidung bei Zahlung des D&O-Versicherers nach Pflichtverletzungen eines Organmitglieds und dadurch verursachtem Vermögensschaden beim …
 - [BGH, Beschluss vom 12.03.2024 - 4 StR 456/23](4-str-456-23.md) — BGH, Beschluss 4 StR 456/23
 - [BGH, Beschluss vom 12.03.2024 - 4 StR 65/24](4-str-65-24.md) — Betäubungsmitteldelikt: Erforderliche Urteilsfeststellungen zum tatbestandsmäßigen Besitz an Cannabispflanzen in einer Aufzuchtanlage
 - [BGH, Urteil vom 29.02.2024 - 4 StR 350/23](4-str-350-23.md) — Tatrichterliche Darlegungen zur Beweiswürdigung zum Tötungs- und Gefährdungsvorsatz bei Fahrzeugrennen
 - [BGH, Beschluss vom 29.02.2024 - 4 StR 513/23](4-str-513-23.md) — BGH, Beschluss 4 StR 513/23
 - [BGH, Beschluss vom 28.02.2024 - 4 StR 362/23](4-str-362-23.md) — BGH, Beschluss 4 StR 362/23
-- [BGH, Beschluss vom 28.02.2024 - 4 StR 369/23](4-str-369-23.md) — Gefährdung des Straßenverkehrs und gefährlicher Eingriff in den Straßenverkehr: Wendemanöver auf einer Bundesautobahn und gezielte Zufahrt auf einen entgegenkom
+- [BGH, Beschluss vom 28.02.2024 - 4 StR 369/23](4-str-369-23.md) — Gefährdung des Straßenverkehrs und gefährlicher Eingriff in den Straßenverkehr: Wendemanöver auf einer Bundesautobahn und gezielte Zufahrt auf einen entgegenkommenden Pkw
 - [BGH, Beschluss vom 28.02.2024 - 4 StR 380/23](4-str-380-23.md) — Anforderungen an Beweiswürdigung beim Vorwurf von Sexualstraftaten
 - [BGH, Beschluss vom 28.02.2024 - 4 StR 508/23](4-str-508-23.md) — BGH, Beschluss 4 StR 508/23
 - [BGH, Beschluss vom 27.02.2024 - 4 StR 198/23](4-str-198-23.md) — Abgrenzung öffentliches Zugänglichmachen und Drittbesitzverschaffung kinderpornographischer Dateien auf einer Darknet-Plattform
-- [BGH, Urteil vom 27.02.2024 - 4 StR 248/23](4-str-248-23.md) — Strafurteil: Notwendige Feststellungen zum Tatgeschehen einer herbeigeführten Kollision mit einem Sattelzug bei möglichem Selbsttötungsvorsatz des Fahrers; schl
+- [BGH, Urteil vom 27.02.2024 - 4 StR 248/23](4-str-248-23.md) — Strafurteil: Notwendige Feststellungen zum Tatgeschehen einer herbeigeführten Kollision mit einem Sattelzug bei möglichem Selbsttötungsvorsatz des Fahrers; schlüssige Darstellung …
 - [BGH, Beschluss vom 27.02.2024 - 4 StR 386/23](4-str-386-23.md) — BGH, Beschluss 4 StR 386/23
 - [BGH, Urteil vom 27.02.2024 - 4 StR 401/22](4-str-401-22.md) — Verletzung des höchstpersönlichen Lebensbereichs durch unzulässige Bildaufnahmen; Darstellung des bei Auseinandersetzung Geschädigten
 - [BGH, Beschluss vom 27.02.2024 - 4 StR 401/23](4-str-401-23.md) — Täterschaftliche Begehung eines bewaffneten Handeltreibens mit Betäubungsmitteln
@@ -202,11 +202,11 @@
 - [BGH, Urteil vom 01.02.2024 - 4 StR 287/23](4-str-287-23.md) — Versuchter Mord: Heimtücke durch Anfahren des Tatopfers
 - [BGH, Beschluss vom 31.01.2024 - 4 StR 129/23](4-str-129-23.md) — Einziehung des Werts der Taterträge bei verbotenem Inverkehrbringen von Alkoholerzeugnissen: Abzugsfähigkeit der abgeführten Branntweinsteuer
 - [BGH, Beschluss vom 31.01.2024 - 4 StR 205/23](4-str-205-23.md) — Voraussetzungen der Anordnung einer isolierten Sperre für die Fahrerlaubniserteilung gegen den Beifahrer
-- [BGH, Beschluss vom 30.01.2024 - 4 StR 191/23](4-str-191-23.md) — Strafbare Untreue des faktischen Geschäftsführers einer Vermarktungsgesellschaft für Finanzprodukte: Vermögensbetreuungspflicht des Emittenten beim Vertrieb von
+- [BGH, Beschluss vom 30.01.2024 - 4 StR 191/23](4-str-191-23.md) — Strafbare Untreue des faktischen Geschäftsführers einer Vermarktungsgesellschaft für Finanzprodukte: Vermögensbetreuungspflicht des Emittenten beim Vertrieb von …
 - [BGH, Beschluss vom 30.01.2024 - 4 StR 237/23](4-str-237-23.md) — BGH, Beschluss 4 StR 237/23
 - [BGH, Beschluss vom 30.01.2024 - 4 StR 397/23](4-str-397-23.md) — BGH, Beschluss 4 StR 397/23
 - [BGH, Beschluss vom 30.01.2024 - 4 StR 441/23](4-str-441-23.md) — BGH, Beschluss 4 StR 441/23
-- [BGH, Beschluss vom 18.01.2024 - 4 StR 233/23](4-str-233-23.md) — Betäubungsmittelverfahren: Konkurrenzverhältnis bei gleichzeitigem Besitz verschiedener Betäubungsmittel und Handeltreiben mit Betäubungsmitteln in nicht gering
+- [BGH, Beschluss vom 18.01.2024 - 4 StR 233/23](4-str-233-23.md) — Betäubungsmittelverfahren: Konkurrenzverhältnis bei gleichzeitigem Besitz verschiedener Betäubungsmittel und Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 18.01.2024 - 4 StR 253/23](4-str-253-23.md) — Mordmerkmal der Heimtücke
 - [BGH, Urteil vom 18.01.2024 - 4 StR 289/23](4-str-289-23.md) — Tatrichterliche Beweiswürdigung zur Annahme eines bedingten Tötungsvorsatzes
 - [BGH, Beschluss vom 18.01.2024 - 4 StR 411/23](4-str-411-23.md) — BGH, Beschluss 4 StR 411/23

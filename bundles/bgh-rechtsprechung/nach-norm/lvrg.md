@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu LVRG"
 description: "BGH-Entscheidungen zu LVRG, geordnet nach Vorschrift."
 tags: [register, navigation, lvrg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

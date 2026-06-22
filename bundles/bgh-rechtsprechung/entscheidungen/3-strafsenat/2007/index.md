@@ -24,7 +24,7 @@
 - [BGH, Beschluss vom 16.10.2007 - 3 StR 351/07](3-str-351-07.md) — gewerbsmäßiger Bandenhehlerei u. a.
 - [BGH, Beschluss vom 16.10.2007 - 3 StR 419/07](3-str-419-07.md) — räuberischer Erpressung u. a.
 - [BGH, Beschluss vom 02.10.2007 - 3 StR 412/07](3-str-412-07.md) — BGH, Beschluss vom 02.10.2007 - 3 StR 412/07
-- [BGH, Entscheidung vom 01.10.2007 - 3 StR 379/07](3-str-379-07.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 01.10.2007 - 3 StR 379/07](3-str-379-07.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Urteil vom 20.09.2007 - 3 StR 274/07](3-str-274-07.md) — versuchter räuberischer Erpressung
 - [BGH, Beschluss vom 20.09.2007 - 3 StR 336/07](3-str-336-07.md) — Betruges
 - [BGH, Beschluss vom 13.09.2007 - 3 StR 349/07](3-str-349-07.md) — schwerer räuberischer Erpressung u. a.

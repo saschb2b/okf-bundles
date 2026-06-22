@@ -5,10 +5,10 @@
 - [BGH, Urteil vom 13.12.2021 - 5 StR 115/21](5-str-115-21.md) — Verhängung einer Jugendstrafe wegen Schwere der Schuld: Berücksichtigung des Erziehungsgedankens bei Bemessung der Strafhöhe
 - [BGH, Urteil vom 08.12.2021 - 5 StR 236/21](5-str-236-21.md) — Eingehungsbetrug: Abschluss eines Lebensversicherungsvertrages mit dem Plan der Vortäuschung des eigenen Todes zur Erlangung der Versicherungssumme
 - [BGH, Beschluss vom 08.12.2021 - 5 StR 296/21](5-str-296-21.md) — Revision des Angeklagten: Kostenentscheidung bei Rechtsmittelerfolg nur hinsichtlich der Einziehungentscheidung
-- [BGH, Beschluss vom 08.12.2021 - 5 StR 312/21](5-str-312-21.md) — Die Einziehung im Sicherungsverfahren ist seit dem Inkrafttreten der Neufassung von § 413 StPO zum 1. Juli 2021 im gleichen Umfang wie im Strafverfahren möglich
+- [BGH, Beschluss vom 08.12.2021 - 5 StR 312/21](5-str-312-21.md) — Die Einziehung im Sicherungsverfahren ist seit dem Inkrafttreten der Neufassung von § 413 StPO zum 1. Juli 2021 im gleichen Umfang wie im Strafverfahren möglich; ein besonderer …
 - [BGH, Beschluss vom 07.12.2021 - 5 StR 187/21](5-str-187-21.md) — Absoluter Revisionsgrund in Strafsachen: Gesetzeswidrige Gerichtsbesetzung bei ärztlichem Beschäftigungsverbot für eine Schöffin im Mutterschutz
 - [BGH, Beschluss vom 07.12.2021 - 5 StR 215/21](5-str-215-21.md) — Beweisaufnahme im Strafverfahren: Sachverständigengutachten als ungeeignetes Beweismittel
-- [BGH, Beschluss vom 07.12.2021 - 5 StR 329/21](5-str-329-21.md) — Tatbeteiligung an einer gefährlichen Körperverletzung durch aktives Tun oder Unterlassen: Mittäterschaft bei bloßer Kenntnis von der Tat und deren Billigung; Re
+- [BGH, Beschluss vom 07.12.2021 - 5 StR 329/21](5-str-329-21.md) — Tatbeteiligung an einer gefährlichen Körperverletzung durch aktives Tun oder Unterlassen: Mittäterschaft bei bloßer Kenntnis von der Tat und deren Billigung; Rechtspflicht eines …
 - [BGH, Beschluss vom 23.11.2021 - 5 StR 300/21](5-str-300-21.md) — Verständigung im Strafverfahren: Erforderlichkeit eines zeitnahen Geständnisses nach gerichtlichem Verständigungsvorschlag
 - [BGH, Beschluss vom 15.11.2021 - 5 StR 90/21](5-str-90-21.md) — Strafverfahren: Urteilszustellung gegen Empfangsbekenntnis an den Verteidiger ohne Vollmacht bei den Akten
 - [BGH, Urteil vom 10.11.2021 - 5 StR 103/21](5-str-103-21.md) — Mord: Freispruch nach dem Zweifelsgrundsatz
@@ -21,19 +21,19 @@
 - [BGH, Beschluss vom 12.10.2021 - 5 StR 271/21](5-str-271-21.md) — Schuldfähigkeit: Anwendung des Zweifelssatzes bei tatrichterlicher Feststellung des Vorliegens eines affektiven Bewusstseinsstörung
 - [BGH, Urteil vom 30.09.2021 - 5 StR 161/21](5-str-161-21.md) — Das einer Schöffin ausgesprochene ärztliche Beschäftigungsverbot nach § 16 Abs. 1 MuSchG führt nicht zu einer gesetzeswidrigen Gerichtsbesetzung.
 - [BGH, Beschluss vom 30.09.2021 - 5 StR 322/21](5-str-322-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Begründungsfehler bei der Gefährlichkeitsprognose
-- [BGH, Beschluss vom 30.09.2021 - 5 StR 325/21](5-str-325-21.md) — Strafverurteilung wegen Mordes u.a.: Verminderte Schuldfähigkeit bei fehlender Steuerungsfähigkeit; Gesamtbetrachtung bei mehreren Eingangsmerkmalen zur Schuldu
+- [BGH, Beschluss vom 30.09.2021 - 5 StR 325/21](5-str-325-21.md) — Strafverurteilung wegen Mordes u.a.: Verminderte Schuldfähigkeit bei fehlender Steuerungsfähigkeit; Gesamtbetrachtung bei mehreren Eingangsmerkmalen zur Schuldunfähigkeit
 - [BGH, Beschluss vom 28.09.2021 - 5 StR 140/21](5-str-140-21.md) — Strafverfahren: Abgrenzung zwischen Rechtsgespräch und mitteilungspflichtiger Verfahrensverständigung
 - [BGH, Beschluss vom 28.09.2021 - 5 StR 179/21](5-str-179-21.md) — Revision in Strafsachen: Mitteilungspflicht bezüglich des Antrags der Staatsanwaltschaft auf Entscheidung ohne Hauptverhandlung bei mehreren Verteidigern
 - [BGH, Beschluss vom 15.09.2021 - 5 StR 135/21](5-str-135-21.md) — Strafzumessung: Verminderung des Unrechts- und Schuldgehalts bei Änderung des Konkurrenzverhältnisses durch das Revisionsgericht
 - [BGH, Beschluss vom 14.09.2021 - 5 StR 186/21](5-str-186-21.md) — Strafzumessung bei verminderter Schuldfähigkeit: Strafschärfende Berücksichtigung der Tatausführung
-- [BGH, Beschluss vom 01.09.2021 - 5 StR 188/21](5-str-188-21.md) — Zum Zusammenhang zwischen Beweistatsache und Beweismittel nach der Neufassung von § 244 Abs. 3 Satz 1 StPO („Konnexität“; Aufgabe von BGH, Urteil vom 10. Juni 2
+- [BGH, Beschluss vom 01.09.2021 - 5 StR 188/21](5-str-188-21.md) — Zum Zusammenhang zwischen Beweistatsache und Beweismittel nach der Neufassung von § 244 Abs. 3 Satz 1 StPO („Konnexität“; Aufgabe von BGH, Urteil vom 10. Juni 2008 - 5 StR 38/08 …
 - [BGH, Beschluss vom 31.08.2021 - 5 StR 216/21](5-str-216-21.md) — Unterbringung in einem psychiatrischen Krankenhaus im Sicherungsverfahren: Begründungsfehler bei Anschluss an ein Sachverständigengutachten
-- [BGH, Beschluss vom 31.08.2021 - 5 StR 223/21](5-str-223-21.md) — Beweiswürdigung im Strafurteil wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Verwertung eines Teils der Aussage des einzigen Belastungszeugen; Verwert
+- [BGH, Beschluss vom 31.08.2021 - 5 StR 223/21](5-str-223-21.md) — Beweiswürdigung im Strafurteil wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Verwertung eines Teils der Aussage des einzigen Belastungszeugen; Verwertung der früheren …
 - [BGH, Beschluss vom 19.08.2021 - 5 StR 238/21](5-str-238-21.md) — Erweiterte Einziehung von Taterträgen: Relevanter Zeitpunkt für das Vorhandensein im Vermögen des Täters oder Teilnehmers
 - [BGH, Beschluss vom 18.08.2021 - 5 StR 199/21](5-str-199-21.md) — Strafverfahren: Mitteilungspflicht über die Erörterung der Verständigungsmöglichkeit
 - [BGH, Beschluss vom 18.08.2021 - 5 StR 217/21](5-str-217-21.md) — Strafverfahren: Verwertbarkeit privater rechtswidriger Videoaufnahmen
-- [BGH, Beschluss vom 18.08.2021 - 5 StR 247/21](5-str-247-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Überleitung des Strafverfahrens in ein Sicherungsverfahren nach Zulassung der Anklageschrift und Eröffnung d
-- [BGH, Urteil vom 18.08.2021 - 5 StR 39/21](5-str-39-21.md) — Rechtsbeugung: Verstöße eines Staatsanwalts gegen Verfahrensvorschriften im Rahmen der Notveräußerung wegen Verstößen gegen das Tierschutzgesetz beschlagnahmter
+- [BGH, Beschluss vom 18.08.2021 - 5 StR 247/21](5-str-247-21.md) — Unterbringung in einem psychiatrischen Krankenhaus: Überleitung des Strafverfahrens in ein Sicherungsverfahren nach Zulassung der Anklageschrift und Eröffnung des Hauptverfahrens
+- [BGH, Urteil vom 18.08.2021 - 5 StR 39/21](5-str-39-21.md) — Rechtsbeugung: Verstöße eines Staatsanwalts gegen Verfahrensvorschriften im Rahmen der Notveräußerung wegen Verstößen gegen das Tierschutzgesetz beschlagnahmter Tiere
 - [BGH, Beschluss vom 21.07.2021 - 5 StR 112/21](5-str-112-21.md) — Jugendstrafverfahren: Erfordernis der Klarstellung des Anfechtungsziels bei Revision gegen ein lediglich Erziehungsmaßregeln oder Zuchtmittel anordnendes Urteil
 - [BGH, Beschluss vom 06.07.2021 - 5 StR 160/21](5-str-160-21.md) — Strafmilderung wegen Aufklärungshilfe bei Betäubungsmitteldelikten: Berücksichtigung einer Tat mit fehlendem Aufklärungserfolg
 - [BGH, Beschluss vom 06.07.2021 - 5 StR 177/21](5-str-177-21.md) — Besonders schwerer Fall des Diebstahls: Ausnutzen der Hilflosigkeit eines alkoholisierten Schlafenden
@@ -41,43 +41,43 @@
 - [BGH, Urteil vom 24.06.2021 - 5 StR 545/20](5-str-545-20.md) — Strafzumessung: Revisionsgerichtliche Überprüfung; Darlegung der Strafzumessungserwägungen in den Urteilsgründen durch das Tatgericht
 - [BGH, Beschluss vom 24.06.2021 - 5 StR 67/21](5-str-67-21.md) — Ermittlungsrichterliche Zeugenvernehmung: Verwertbarkeit bei Ausschluss des Angeklagten und des Verteidigers von der Vernehmung
 - [BGH, Beschluss vom 22.06.2021 - 5 StR 121/21](5-str-121-21.md) — Revision im Strafverfahren: Beweisantragsrüge wegen Ablehnung einer missverständlich formulierten Beweisbehauptung
-- [BGH, Beschluss vom 08.06.2021 - 5 StR 481/20](5-str-481-20.md) — Strafbare Untreue: Leistung auf eine nicht fällige Forderung als Vermögensnachteil; Vermögensnachteil durch Erbringung einer rechtsgrundlosen Zahlung; notwendig
+- [BGH, Beschluss vom 08.06.2021 - 5 StR 481/20](5-str-481-20.md) — Strafbare Untreue: Leistung auf eine nicht fällige Forderung als Vermögensnachteil; Vermögensnachteil durch Erbringung einer rechtsgrundlosen Zahlung; notwendige …
 - [BGH, Beschluss vom 27.05.2021 - 5 StR 337/20](5-str-337-20.md) — Betäubungsmitteldelikt: Vollendung des unerlaubten Handeltreibens mit Anpflanzung erworbener und gelagerter Cannabis-Setzlinge
 - [BGH, Beschluss vom 26.05.2021 - 5 StR 458/20](5-str-458-20.md) — Revision in Strafsachen: Kostenentscheidung beim Absehen von einer Einziehungsentscheidung durch das Revisionsgericht
 - [BGH, Beschluss vom 25.05.2021 - 5 StR 32/21](5-str-32-21.md) — Revision in Strafsachen: Widerruf der Verteidigerermächtigung zur Revisionsrücknahme
-- [BGH, Beschluss vom 25.05.2021 - 5 StR 482/20](5-str-482-20.md) — Revision im Strafverfahren wegen unerlaubter Einfuhr von Betäubungsmitteln: Verfahrenshindernis wegen Transitimmunität von Konsularbeamten; Gehörsrüge bei Befan
+- [BGH, Beschluss vom 25.05.2021 - 5 StR 482/20](5-str-482-20.md) — Revision im Strafverfahren wegen unerlaubter Einfuhr von Betäubungsmitteln: Verfahrenshindernis wegen Transitimmunität von Konsularbeamten; Gehörsrüge bei Befangenheitsgesuch nach …
 - [BGH, Beschluss vom 25.05.2021 - 5 StR 62/21](5-str-62-21.md) — Einziehung von Geldwäscheobjekten: Abgrenzung der Rechtslage nach altem und nach neuem Recht
-- [BGH, Urteil vom 12.05.2021 - 5 StR 4/21](5-str-4-21.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Bindungswirkung aufrechterhaltener Feststellungen nach revisionsgerichtlicher Urteilsaufhebung; Besitz im waffe
+- [BGH, Urteil vom 12.05.2021 - 5 StR 4/21](5-str-4-21.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Bindungswirkung aufrechterhaltener Feststellungen nach revisionsgerichtlicher Urteilsaufhebung; Besitz im waffenrechtlichen Sinne …
 - [BGH, Beschluss vom 11.05.2021 - 5 StR 42/21](5-str-42-21.md) — Versuchter sexueller Missbrauch von Jugendlichen: Unmittelbares Ansetzen bei Geldangebot zur Vornahme sexueller Handlungen
 - [BGH, Beschluss vom 11.05.2021 - 5 StR 99/21](5-str-99-21.md) — Hinzuziehung eines Dolmetschers in der Hauptverhandlung: Anspruch des Angeklagten auf Übersetzung in seine Muttersprache
 - [BGH, Urteil vom 29.04.2021 - 5 StR 339/20](5-str-339-20.md) — Leichtfertige Geldwäsche: Anforderungen an einen bedingten Vorsatz
 - [BGH, Urteil vom 29.04.2021 - 5 StR 498/20](5-str-498-20.md) — Schwere Vergewaltigung und schwere Körperverletzung: Anforderungen an das Qualifikationsmerkmal der körperlich schweren Misshandlung sowie an ein Siechtum
 - [BGH, Urteil vom 28.04.2021 - 5 StR 500/20](5-str-500-20.md) — Versuchter Totschlag: Anforderungen an einen bedingten Tötungsvorsatz
 - [BGH, Beschluss vom 27.04.2021 - 5 StR 102/21](5-str-102-21.md) — Revision im Strafverfahren: Zulässigkeit der isolierten Anfechtung der unterbliebenen Maßregelanordnung
-- [BGH, Urteil vom 15.04.2021 - 5 StR 371/20](5-str-371-20.md) — Zur Rechtswidrigkeit der erstrebten Bereicherung in Fällen, in denen der Käufer von Betäubungsmitteln gegen den Verkäufer die Zahlung von Wechselgeld mit Nötigu
+- [BGH, Urteil vom 15.04.2021 - 5 StR 371/20](5-str-371-20.md) — Zur Rechtswidrigkeit der erstrebten Bereicherung in Fällen, in denen der Käufer von Betäubungsmitteln gegen den Verkäufer die Zahlung von Wechselgeld mit Nötigungsmitteln …
 - [BGH, Urteil vom 14.04.2021 - 5 StR 102/20](5-str-102-20.md) — Strafverurteilung wegen Computerbetrugs u.a.: Voraussetzungen von Bandentat und -abrede
-- [BGH, Beschluss vom 13.04.2021 - 5 StR 14/21](5-str-14-21.md) — Strafverfahren: Verjährungsunterbrechende Wirkung der Verfahrenseinstellung durch die Staatsanwaltschaft; Vorrang des Freispruchs vor der Einstellung des Verfah
+- [BGH, Beschluss vom 13.04.2021 - 5 StR 14/21](5-str-14-21.md) — Strafverfahren: Verjährungsunterbrechende Wirkung der Verfahrenseinstellung durch die Staatsanwaltschaft; Vorrang des Freispruchs vor der Einstellung des Verfahrens
 - [BGH, Beschluss vom 13.04.2021 - 5 StR 29/21](5-str-29-21.md) — Revision im Strafsachen: Anforderungen an die Erhebung von Verfahrensrügen; Ausschluss des Beruhens des Urteils auf einem Verfahrensfehler
 - [BGH, Beschluss vom 18.03.2021 - 5 StR 222/20](5-str-222-20.md) — Adhäsionsverfahren: Rückwirkende Bewilligung von Prozesskostenhilfe für den Adhäsionskläger in der Revisionsinstanz
-- [BGH, Urteil vom 17.03.2021 - 5 StR 148/20](5-str-148-20.md) — Strafverfahren: Eingeschränkte Überprüfung der Strafzumessung durch das Revisionsgericht; Vermengung von Gesichtspunkten der Strafzumessung und solchen der Stra
+- [BGH, Urteil vom 17.03.2021 - 5 StR 148/20](5-str-148-20.md) — Strafverfahren: Eingeschränkte Überprüfung der Strafzumessung durch das Revisionsgericht; Vermengung von Gesichtspunkten der Strafzumessung und solchen der Strafaussetzung zur …
 - [BGH, Urteil vom 17.03.2021 - 5 StR 273/20](5-str-273-20.md) — Strafverfahren: Inhalt der Kognitionspflicht
 - [BGH, Beschluss vom 17.03.2021 - 5 StR 41/20](5-str-41-20.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Nachträgliche Gesamtstrafenbildung
 - [BGH, Beschluss vom 16.03.2021 - 5 StR 35/21](5-str-35-21.md) — Beweisantrag in Strafsachen: Ablehnung eines aufs Geratewohl in Blaue hinein gestellten Antrags auf Vernehmung eines Alibizeugen
-- [BGH, Urteil vom 15.03.2021 - 5 StR 627/19](5-str-627-19.md) — Strafbares Einschleusen von Ausländern: Grundtatbestand und Qualifikation eines lebensgefährdenden Einschleusens von Bootsflüchtlingen aus Syrien über die Türke
+- [BGH, Urteil vom 15.03.2021 - 5 StR 627/19](5-str-627-19.md) — Strafbares Einschleusen von Ausländern: Grundtatbestand und Qualifikation eines lebensgefährdenden Einschleusens von Bootsflüchtlingen aus Syrien über die Türkei in …
 - [BGH, Beschluss vom 04.03.2021 - 5 StR 447/20](5-str-447-20.md) — Einziehung: Zulässigkeit der Wertersatzeinziehung
-- [BGH, Urteil vom 04.03.2021 - 5 StR 509/20](5-str-509-20.md) — Bahnsteigschubserei: Bedingter Tötungsvorsatz; Abgrenzung zwischen Totschlag und Körperverletzung mit Todesfolge; Relevanz einer Abweichung vom Kausalverlauf an
-- [BGH, Beschluss vom 04.03.2021 - 5 StR 575/20](5-str-575-20.md) — Revisionsverfahren: Wirksame Einlegung der Revision bei nicht behebbaren tatsächlichen Zweifeln an der Einhaltung der Einlegungsfrist und unrichtiger Angaben in
+- [BGH, Urteil vom 04.03.2021 - 5 StR 509/20](5-str-509-20.md) — Bahnsteigschubserei: Bedingter Tötungsvorsatz; Abgrenzung zwischen Totschlag und Körperverletzung mit Todesfolge; Relevanz einer Abweichung vom Kausalverlauf an Hand des …
+- [BGH, Beschluss vom 04.03.2021 - 5 StR 575/20](5-str-575-20.md) — Revisionsverfahren: Wirksame Einlegung der Revision bei nicht behebbaren tatsächlichen Zweifeln an der Einhaltung der Einlegungsfrist und unrichtiger Angaben in der …
 - [BGH, Beschluss vom 03.03.2021 - 5 StR 562/20](5-str-562-20.md) — Gesamtstrafenbildung: Nichtbeachtung des auslieferungsrechtlichen Spezialitätsgrundsatzes
 - [BGH, Urteil vom 17.02.2021 - 5 StR 426/20](5-str-426-20.md) — Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u.a.: Mindestanforderungen an die Tatkonkretisierung; Strafzumessung im Zweifelsfall
-- [BGH, Beschluss vom 17.02.2021 - 5 StR 484/20](5-str-484-20.md) — 1. Wird das Verfahren, in dem es zu einer Verständigung gekommen war, ausgesetzt, entfällt die Bindung des Gerichts an die Verständigung. 2. Das aus der Aussetz
+- [BGH, Beschluss vom 17.02.2021 - 5 StR 484/20](5-str-484-20.md) — 1. Wird das Verfahren, in dem es zu einer Verständigung gekommen war, ausgesetzt, entfällt die Bindung des Gerichts an die Verständigung. 2. Das aus der Aussetzung resultierende …
 - [BGH, Urteil vom 03.02.2021 - 5 StR 414/20](5-str-414-20.md) — Täterschaft beim Betrug: Abgrenzung zur Beihilfe
-- [BGH, Beschluss vom 02.02.2021 - 5 StR 400/20](5-str-400-20.md) — Gesetzlicher Richter im Strafprozess: Prognoseentscheidung des Vorsitzenden zur Auswechslung eines Schöffen auf Grund langwieriger Erkrankung; Aussagekraft eine
-- [BGH, Urteil vom 20.01.2021 - 5 StR 390/20](5-str-390-20.md) — Sicherungsverfahren über die Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Bedeutung früher abgeurteilter Taten bei der Gefährlichkeitsprogn
+- [BGH, Beschluss vom 02.02.2021 - 5 StR 400/20](5-str-400-20.md) — Gesetzlicher Richter im Strafprozess: Prognoseentscheidung des Vorsitzenden zur Auswechslung eines Schöffen auf Grund langwieriger Erkrankung; Aussagekraft eines Arztattestes ohne …
+- [BGH, Urteil vom 20.01.2021 - 5 StR 390/20](5-str-390-20.md) — Sicherungsverfahren über die Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Bedeutung früher abgeurteilter Taten bei der Gefährlichkeitsprognose
 - [BGH, Urteil vom 19.01.2021 - 5 StR 291/20](5-str-291-20.md) — Strafrechtliche Vermögensabschöpfung: Einziehung des Verkaufserlöses nach Veräußerung der Diebesbeute
 - [BGH, Beschluss vom 19.01.2021 - 5 StR 401/20](5-str-401-20.md) — Gesetzlicher Richter im Strafverfahren: Mitwirkung einer Richterin im Mutterschutz
 - [BGH, Beschluss vom 19.01.2021 - 5 StR 496/20](5-str-496-20.md) — Unterbrechung der Hauptverhandlung: Sachverhandlungstermin bei Erörterung der Stellung weiterer Beweisanträge und Anordnung des Schlusses der Beweisaufnahme
 - [BGH, Beschluss vom 19.01.2021 - 5 StR 535/20](5-str-535-20.md) — Störung der Totenruhe: Erforderliche Feststellungen zur subjektiven Tatseite
 - [BGH, Urteil vom 06.01.2021 - 5 StR 288/20](5-str-288-20.md) — Heimtückemord: Arglosigkeit des flüchtenden Opfers nach erster Angriffsbewegung des Täters; Exzess des Mittäters
 - [BGH, Beschluss vom 06.01.2021 - 5 StR 363/20](5-str-363-20.md) — Öffentlichkeit des Strafverfahrens: Hinderung der Teilnahme als Zuhörer aufgrund der Ausgangsbeschränkungen durch die Corona-Allgemeinverfügung
-- [BGH, Beschluss vom 06.01.2021 - 5 StR 454/20](5-str-454-20.md) — Strafrechtliche Vermögensabschöpfung bei Betäubungsmitteldelikten: Notwendigkeit und Inhalt eines Antrags der Staatsanwaltschaft auf selbständige Einziehung von
+- [BGH, Beschluss vom 06.01.2021 - 5 StR 454/20](5-str-454-20.md) — Strafrechtliche Vermögensabschöpfung bei Betäubungsmitteldelikten: Notwendigkeit und Inhalt eines Antrags der Staatsanwaltschaft auf selbständige Einziehung von Taterträgen
 - [BGH, Beschluss vom 06.01.2021 - 5 StR 519/20](5-str-519-20.md) — Gerichtsbesetzung: Ersetzung eines verhinderten Hauptschöffen

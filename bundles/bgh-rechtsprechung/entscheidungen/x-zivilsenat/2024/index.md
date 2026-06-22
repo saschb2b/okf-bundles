@@ -2,19 +2,19 @@
 
 45 Entscheidung(en).
 
-- [BGH, Urteil vom 26.11.2024 - X ZR 47/23](x-zr-47-23.md) — 1. Das Revisionsgericht hat die örtliche Zuständigkeit des erstinstanzlichen Gerichts zu überprüfen, wenn diese von der Auslegung einer klärungsbedürftigen Frag
-- [BGH, Urteil vom 12.11.2024 - X ZR 37/22](x-zr-37-22.md) — Chemische Verbrauchsmaterialien 1. Auf die Unwirksamkeit einer Vereinbarung gemäß § 23 Abs. 1 ArbNErfG darf sich gegebenenfalls auch der Arbeitgeber berufen. 2.
-- [BGH, Urteil vom 05.11.2024 - X ZR 10/24](x-zr-10-24.md) — 1. Art. 10 Abs. 2 FluggastrechteVO findet bei einer aus mehreren Flügen bestehenden Beförderung nur auf diejenigen Flüge Anwendung, auf denen der Fluggast in ei
+- [BGH, Urteil vom 26.11.2024 - X ZR 47/23](x-zr-47-23.md) — 1. Das Revisionsgericht hat die örtliche Zuständigkeit des erstinstanzlichen Gerichts zu überprüfen, wenn diese von der Auslegung einer klärungsbedürftigen Frage des Unionsrechts …
+- [BGH, Urteil vom 12.11.2024 - X ZR 37/22](x-zr-37-22.md) — Chemische Verbrauchsmaterialien 1. Auf die Unwirksamkeit einer Vereinbarung gemäß § 23 Abs. 1 ArbNErfG darf sich gegebenenfalls auch der Arbeitgeber berufen. 2. Aus Rechtsgründen …
+- [BGH, Urteil vom 05.11.2024 - X ZR 10/24](x-zr-10-24.md) — 1. Art. 10 Abs. 2 FluggastrechteVO findet bei einer aus mehreren Flügen bestehenden Beförderung nur auf diejenigen Flüge Anwendung, auf denen der Fluggast in eine niedrigere …
 - [BGH, Beschluss vom 22.10.2024 - X ZR 62/22](x-zr-62-22.md) — BGH, Beschluss X ZR 62/22
-- [BGH, Urteil vom 15.10.2024 - X ZR 79/22](x-zr-79-22.md) — 1. Ein Einreiseverbot für das Zielland ist für die Beurteilung der Frage, ob außergewöhnliche Umstände vorliegen, die die Durchführung der Pauschalreise oder di
-- [BGH, Urteil vom 08.10.2024 - X ZR 145/23](x-zr-145-23.md) — Aufschlussgerät 1. Ein auf § 242 BGB gestützter akzessorischer Anspruch auf Auskunft und Rechnungslegung verjährt nicht vor dem Hauptanspruch, dessen Durchsetzu
+- [BGH, Urteil vom 15.10.2024 - X ZR 79/22](x-zr-79-22.md) — 1. Ein Einreiseverbot für das Zielland ist für die Beurteilung der Frage, ob außergewöhnliche Umstände vorliegen, die die Durchführung der Pauschalreise oder die Beförderung von …
+- [BGH, Urteil vom 08.10.2024 - X ZR 145/23](x-zr-145-23.md) — Aufschlussgerät 1. Ein auf § 242 BGB gestützter akzessorischer Anspruch auf Auskunft und Rechnungslegung verjährt nicht vor dem Hauptanspruch, dessen Durchsetzung er dient …
 - [BGH, Beschluss vom 07.10.2024 - X ZB 6/22](x-zb-6-22.md) — BGH, Beschluss X ZB 6/22
 - [BGH, Beschluss vom 07.10.2024 - X ZB 7/22](x-zb-7-22.md) — BGH, Beschluss X ZB 7/22
 - [BGH, Beschluss vom 01.10.2024 - X ZB 2/24](x-zb-2-24.md) — BGH, Beschluss X ZB 2/24
-- [BGH, Urteil vom 24.09.2024 - X ZR 109/23](x-zr-109-23.md) — 1. Zu den zumutbaren Maßnahmen im Sinne von Art. 5 Abs. 3 FluggastrechteVO gehört es, dem Fluggast eine mögliche anderweitige direkte oder indirekte Beförderung
-- [BGH, Urteil vom 24.09.2024 - X ZR 136/23](x-zr-136-23.md) — 1. Wenn ein außergewöhnlicher Umstand dazu führt, dass nicht alle vorgesehenen Flüge stattfinden können, ist dem Luftverkehrsunternehmen bei der Beurteilung der
-- [BGH, Urteil vom 17.09.2024 - X ZR 39/23](x-zr-39-23.md) — 1. In einer monistisch verfassten europäischen Gesellschaft steht dem Verwaltungsrat nach § 41 Abs. 5 SEAG die alleinige Vertretungsbefugnis auch in Bezug auf R
-- [BGH, Urteil vom 27.08.2024 - X ZR 146/23](x-zr-146-23.md) — 1. Die Notwendigkeit der Enteisung eines Flugzeugs vor dem Start ist jedenfalls an Flughäfen und in Zeiträumen, in denen mit winterlichen Temperaturen zu rechne
+- [BGH, Urteil vom 24.09.2024 - X ZR 109/23](x-zr-109-23.md) — 1. Zu den zumutbaren Maßnahmen im Sinne von Art. 5 Abs. 3 FluggastrechteVO gehört es, dem Fluggast eine mögliche anderweitige direkte oder indirekte Beförderung mit einem Flug …
+- [BGH, Urteil vom 24.09.2024 - X ZR 136/23](x-zr-136-23.md) — 1. Wenn ein außergewöhnlicher Umstand dazu führt, dass nicht alle vorgesehenen Flüge stattfinden können, ist dem Luftverkehrsunternehmen bei der Beurteilung der zweckmäßigen …
+- [BGH, Urteil vom 17.09.2024 - X ZR 39/23](x-zr-39-23.md) — 1. In einer monistisch verfassten europäischen Gesellschaft steht dem Verwaltungsrat nach § 41 Abs. 5 SEAG die alleinige Vertretungsbefugnis auch in Bezug auf Rechtsgeschäfte mit …
+- [BGH, Urteil vom 27.08.2024 - X ZR 146/23](x-zr-146-23.md) — 1. Die Notwendigkeit der Enteisung eines Flugzeugs vor dem Start ist jedenfalls an Flughäfen und in Zeiträumen, in denen mit winterlichen Temperaturen zu rechnen ist, kein …
 - [BGH, Beschluss vom 27.08.2024 - X ZR 71/22](x-zr-71-22.md) — BGH, Beschluss X ZR 71/22
 - [BGH, Beschluss vom 30.07.2024 - X ZR 56/23](x-zr-56-23.md) — BGH, Beschluss X ZR 56/23
 - [BGH, Beschluss vom 16.07.2024 - X ZR 21/24](x-zr-21-24.md) — BGH, Beschluss X ZR 21/24
@@ -22,28 +22,28 @@
 - [BGH, Urteil vom 09.07.2024 - X ZR 101/23](x-zr-101-23.md) — Rückzahlungsanspruch bei Reiserücktritt wegen Coronapandemie; Erkennbarkeit der Risiken
 - [BGH, Urteil vom 02.07.2024 - X ZR 82/22](x-zr-82-22.md) — BGH, Urteil X ZR 82/22
 - [BGH, Beschluss vom 02.07.2024 - X ZR 83/23](x-zr-83-23.md) — BGH, Beschluss X ZR 83/23
-- [BGH, Urteil vom 25.06.2024 - X ZR 97/23](x-zr-97-23.md) — 1. Eine Verantwortlichkeit des Gläubigers im Sinne von § 323 Abs. 6 Fall 1 BGB und § 326 Abs. 2 Satz 1 Fall 1 BGB kann auch dann anzunehmen sein, wenn die Ausle
+- [BGH, Urteil vom 25.06.2024 - X ZR 97/23](x-zr-97-23.md) — 1. Eine Verantwortlichkeit des Gläubigers im Sinne von § 323 Abs. 6 Fall 1 BGB und § 326 Abs. 2 Satz 1 Fall 1 BGB kann auch dann anzunehmen sein, wenn die Auslegung des Vertrags …
 - [BGH, Urteil vom 04.06.2024 - X ZR 110/23](x-zr-110-23.md) — BGH, Urteil X ZR 110/23
 - [BGH, Urteil vom 04.06.2024 - X ZR 124/23](x-zr-124-23.md) — BGH, Urteil X ZR 124/23
-- [BGH, Urteil vom 04.06.2024 - X ZR 162/23](x-zr-162-23.md) — Der Ausnahmetatbestand des Art. 3 Abs. 6 Satz 2 FluggastrechteVO ist nicht erfüllt, wenn ein trotz Annullierung einer Pauschalreise vorgesehener Flug annulliert
+- [BGH, Urteil vom 04.06.2024 - X ZR 162/23](x-zr-162-23.md) — Der Ausnahmetatbestand des Art. 3 Abs. 6 Satz 2 FluggastrechteVO ist nicht erfüllt, wenn ein trotz Annullierung einer Pauschalreise vorgesehener Flug annulliert worden ist.
 - [BGH, Urteil vom 04.06.2024 - X ZR 163/23](x-zr-163-23.md) — BGH, Urteil X ZR 163/23
 - [BGH, Urteil vom 04.06.2024 - X ZR 3/23](x-zr-3-23.md) — BGH, Urteil X ZR 3/23
-- [BGH, Urteil vom 04.06.2024 - X ZR 62/23](x-zr-62-23.md) — Ansprüche auf Ausgleichszahlung nach Art. 5 und Art. 7 FluggastrechteVO unterliegen auch dann der regelmäßigen Verjährungsfrist nach § 195 und § 199 Abs. 1 BGB,
-- [BGH, Urteil vom 04.06.2024 - X ZR 81/23](x-zr-81-23.md) — 1. In den Fällen des § 312j Abs. 3 Satz 2 BGB muss der Verbraucher aus der Bildschirmmaske, in der die Bestell-Schaltfläche enthalten ist, ersehen können, für w
-- [BGH, Urteil vom 04.06.2024 - X ZR 89/23](x-zr-89-23.md) — 1. Ein im Rahmen eines Chartervertrags vereinbartes Beförderungsentgelt stellt nicht schon deshalb einen für die Öffentlichkeit nicht verfügbaren reduzierten Ta
+- [BGH, Urteil vom 04.06.2024 - X ZR 62/23](x-zr-62-23.md) — Ansprüche auf Ausgleichszahlung nach Art. 5 und Art. 7 FluggastrechteVO unterliegen auch dann der regelmäßigen Verjährungsfrist nach § 195 und § 199 Abs. 1 BGB, wenn der …
+- [BGH, Urteil vom 04.06.2024 - X ZR 81/23](x-zr-81-23.md) — 1. In den Fällen des § 312j Abs. 3 Satz 2 BGB muss der Verbraucher aus der Bildschirmmaske, in der die Bestell-Schaltfläche enthalten ist, ersehen können, für welche Leistungen …
+- [BGH, Urteil vom 04.06.2024 - X ZR 89/23](x-zr-89-23.md) — 1. Ein im Rahmen eines Chartervertrags vereinbartes Beförderungsentgelt stellt nicht schon deshalb einen für die Öffentlichkeit nicht verfügbaren reduzierten Tarif im Sinne von …
 - [BGH, Beschluss vom 14.05.2024 - X ZR 73/23](x-zr-73-23.md) — BGH, Beschluss X ZR 73/23
-- [BGH, Urteil vom 07.05.2024 - X ZR 104/22](x-zr-104-22.md) — Verdampfungstrockneranlage 1. Gewinne aus der Durchführung eines Vertrags, der in ursächlichem Zusammenhang mit einem patentverletzenden Angebot steht, dürfen b
-- [BGH, Urteil vom 23.04.2024 - X ZR 58/23](x-zr-58-23.md) — Eine nach Abschluss des Reisevertrags eingetretene neue Situation fällt nicht unter den Begriff der unvermeidbaren, außergewöhnlichen Umstände im Sinne von § 65
-- [BGH, Urteil vom 16.04.2024 - X ZR 14/23](x-zr-14-23.md) — Für die Bemessung des angemessenen Unterhalts eines Beschenkten gemäß § 529 Abs. 2 BGB kommt der nach § 94 Abs. 1a SGB XII für den Übergang von Unterhaltsansprü
+- [BGH, Urteil vom 07.05.2024 - X ZR 104/22](x-zr-104-22.md) — Verdampfungstrockneranlage 1. Gewinne aus der Durchführung eines Vertrags, der in ursächlichem Zusammenhang mit einem patentverletzenden Angebot steht, dürfen bei der Berechnung …
+- [BGH, Urteil vom 23.04.2024 - X ZR 58/23](x-zr-58-23.md) — Eine nach Abschluss des Reisevertrags eingetretene neue Situation fällt nicht unter den Begriff der unvermeidbaren, außergewöhnlichen Umstände im Sinne von § 651h Abs. 3 BGB, wenn …
+- [BGH, Urteil vom 16.04.2024 - X ZR 14/23](x-zr-14-23.md) — Für die Bemessung des angemessenen Unterhalts eines Beschenkten gemäß § 529 Abs. 2 BGB kommt der nach § 94 Abs. 1a SGB XII für den Übergang von Unterhaltsansprüchen auf …
 - [BGH, Beschluss vom 16.04.2024 - X ZR 7/22](x-zr-7-22.md) — BGH, Beschluss X ZR 7/22
 - [BGH, Beschluss vom 19.03.2024 - X ZA 1/23](x-za-1-23.md) — BGH, Beschluss X ZA 1/23
 - [BGH, Beschluss vom 19.03.2024 - X ZR 70/22](x-zr-70-22.md) — BGH, Beschluss X ZR 70/22
-- [BGH, Urteil vom 19.03.2024 - X ZR 9/23](x-zr-9-23.md) — Automatisierte Wärmebehandlung 1. Ein Anspruch auf Abtretung des Rechts auf Erteilung oder auf Übertragung des erteilten Patents aus Art. II § 5 Abs. 1 IntPatÜb
+- [BGH, Urteil vom 19.03.2024 - X ZR 9/23](x-zr-9-23.md) — Automatisierte Wärmebehandlung 1. Ein Anspruch auf Abtretung des Rechts auf Erteilung oder auf Übertragung des erteilten Patents aus Art. II § 5 Abs. 1 IntPatÜbkG unterliegt nicht …
 - [BGH, Urteil vom 12.03.2024 - X ZR 31/23](x-zr-31-23.md) — BGH, Urteil X ZR 31/23
 - [BGH, Beschluss vom 12.03.2024 - X ZR 39/22](x-zr-39-22.md) — BGH, Beschluss X ZR 39/22
 - [BGH, Beschluss vom 05.03.2024 - X ZR 82/23](x-zr-82-23.md) — BGH, Beschluss X ZR 82/23
-- [BGH, Urteil vom 30.01.2024 - X ZR 135/22](x-zr-135-22.md) — 1. Eine Unterrichtung über die Annullierung im Sinne von Art. 5 Abs. 1 Buchst. c Nr. i FluggastrechteVO setzt ein zielgerichtetes Tätigwerden des Luftfahrtunter
+- [BGH, Urteil vom 30.01.2024 - X ZR 135/22](x-zr-135-22.md) — 1. Eine Unterrichtung über die Annullierung im Sinne von Art. 5 Abs. 1 Buchst. c Nr. i FluggastrechteVO setzt ein zielgerichtetes Tätigwerden des Luftfahrtunternehmens voraus. 2 …
 - [BGH, Beschluss vom 23.01.2024 - X ZB 18/22](x-zb-18-22.md) — BGH, Beschluss X ZB 18/22
 - [BGH, Urteil vom 23.01.2024 - X ZR 134/22](x-zr-134-22.md) — BGH, Urteil X ZR 134/22
-- [BGH, Beschluss vom 23.01.2024 - X ZR 161/23](x-zr-161-23.md) — Nichtigkeitsstreitwert V 1. Die während der möglichen Restlaufzeit eines Formulierungspatents zu erwartenden Umsätze der Patentinhaberin mit einem bestimmten Ar
-- [BGH, Urteil vom 23.01.2024 - X ZR 4/23](x-zr-4-23.md) — 1. Bei der Beurteilung der Frage, ob eine erhebliche Beeinträchtigung im Sinne von § 651h Abs. 3 Satz 1 BGB vorliegt, sind individuelle Verhältnisse oder Eigens
+- [BGH, Beschluss vom 23.01.2024 - X ZR 161/23](x-zr-161-23.md) — Nichtigkeitsstreitwert V 1. Die während der möglichen Restlaufzeit eines Formulierungspatents zu erwartenden Umsätze der Patentinhaberin mit einem bestimmten Arzneimittel bilden …
+- [BGH, Urteil vom 23.01.2024 - X ZR 4/23](x-zr-4-23.md) — 1. Bei der Beurteilung der Frage, ob eine erhebliche Beeinträchtigung im Sinne von § 651h Abs. 3 Satz 1 BGB vorliegt, sind individuelle Verhältnisse oder Eigenschaften des …

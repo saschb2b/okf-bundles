@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AuslVGerStG"
 description: "BGH-Entscheidungen zu AuslVGerStG, geordnet nach Vorschrift."
 tags: [register, navigation, auslvgerstg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

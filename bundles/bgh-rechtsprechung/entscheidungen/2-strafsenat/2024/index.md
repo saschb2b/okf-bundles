@@ -17,7 +17,7 @@
 - [BGH, Beschluss vom 05.12.2024 - 2 StR 549/24](2-str-549-24.md) — BGH, Beschluss 2 StR 549/24
 - [BGH, Beschluss vom 04.12.2024 - 2 StR 276/24](2-str-276-24.md) — BGH, Beschluss 2 StR 276/24
 - [BGH, Beschluss vom 04.12.2024 - 2 StR 352/23](2-str-352-23.md) — Betrug: Vorliegen eines Vermögensschadens bei irrtumsbedingter Weiterleitung von Maklerprovisionen an einen Untermakler
-- [BGH, Urteil vom 04.12.2024 - 2 StR 352/24](2-str-352-24.md) — Mord: Schuldfähigkeit beim Zusammenspiel mit kombinierter Persönlichkeitsstörung, Alkoholmissbrauch und Triggerreiz; Wegfall der Arglosigkeit wegen früherer Bed
+- [BGH, Urteil vom 04.12.2024 - 2 StR 352/24](2-str-352-24.md) — Mord: Schuldfähigkeit beim Zusammenspiel mit kombinierter Persönlichkeitsstörung, Alkoholmissbrauch und Triggerreiz; Wegfall der Arglosigkeit wegen früherer Bedrohung und …
 - [BGH, Beschluss vom 04.12.2024 - 2 StR 472/23](2-str-472-23.md) — Strafzumessung bei Drogendelikten: Berücksichtigung einer überlangen Verfahrensdauer bei der Zumessung der Einzelstrafen
 - [BGH, Beschluss vom 04.12.2024 - 2 StR 491/24](2-str-491-24.md) — Darstellungspflichten bei DNA-Mischspuren und Maßstab für die Wertermittlung bei Einziehung und Strafzumessung
 - [BGH, Beschluss vom 03.12.2024 - 2 ARs 326/24](2-ars-326-24.md) — BGH, Beschluss 2 ARs 326/24
@@ -35,7 +35,7 @@
 - [BGH, Beschluss vom 20.11.2024 - 2 ARs 306/24](2-ars-306-24.md) — BGH, Beschluss 2 ARs 306/24
 - [BGH, Beschluss vom 20.11.2024 - 2 ARs 385/24](2-ars-385-24.md) — BGH, Beschluss 2 ARs 385/24
 - [BGH, Beschluss vom 20.11.2024 - 2 ARs 421/24](2-ars-421-24.md) — BGH, Beschluss 2 ARs 421/24
-- [BGH, Urteil vom 20.11.2024 - 2 StR 170/24](2-str-170-24.md) — Sichverschaffens jugendpornographischer Inhalte durch Aufnahme eines unbekleideten Körpers; versuchte Vergewaltigung durch Aufforderung zur Übersendung einer Vi
+- [BGH, Urteil vom 20.11.2024 - 2 StR 170/24](2-str-170-24.md) — Sichverschaffens jugendpornographischer Inhalte durch Aufnahme eines unbekleideten Körpers; versuchte Vergewaltigung durch Aufforderung zur Übersendung einer Videodatei mit …
 - [BGH, Beschluss vom 20.11.2024 - 2 StR 230/24](2-str-230-24.md) — BGH, Beschluss 2 StR 230/24
 - [BGH, Urteil vom 20.11.2024 - 2 StR 371/24](2-str-371-24.md) — Darlegungsanforderungen in Urteil an Täter-Opfer-Ausgleich im Rahmen eines Verfahrens wegen versuchten Totschlags
 - [BGH, Urteil vom 20.11.2024 - 2 StR 54/24](2-str-54-24.md) — Beurteilung der Rechtsbeugung durch Familienrichter im Zusammenhang mit der Maskenpflicht an Schulen im Rahmen der COVID-19-Schutzmaßnahmen
@@ -57,7 +57,7 @@
 - [BGH, Beschluss vom 04.11.2024 - 2 StR 461/24](2-str-461-24.md) — Betäubungsmitteldelikt: Konkurrenzverhältnis bei mittäterschaftlicher Deliktsserie; Einziehung des Wertes von Taterträgen
 - [BGH, Beschluss vom 24.10.2024 - 2 StR 229/24](2-str-229-24.md) — BGH, Beschluss 2 StR 229/24
 - [BGH, Beschluss vom 24.10.2024 - 2 StR 474/24](2-str-474-24.md) — Unterbringung in einen psychiatrischen Krankenhaus: Verstoß gegen Weisungen im Führungsaufsichtsbeschluss
-- [BGH, Beschluss vom 23.10.2024 - 2 ARs 179/24](2-ars-179-24.md) — 1. Zuständig für die Entscheidungen nach Art. 316p in Verbindung mit Art. 313 EGStGB ist nicht die Strafvollstreckungskammer, sondern stets das Gericht des erst
+- [BGH, Beschluss vom 23.10.2024 - 2 ARs 179/24](2-ars-179-24.md) — 1. Zuständig für die Entscheidungen nach Art. 316p in Verbindung mit Art. 313 EGStGB ist nicht die Strafvollstreckungskammer, sondern stets das Gericht des ersten Rechtszugs. 2 …
 - [BGH, Beschluss vom 23.10.2024 - 2 ARs 270/24](2-ars-270-24.md) — BGH, Beschluss 2 ARs 270/24
 - [BGH, Beschluss vom 23.10.2024 - 2 ARs 347/24](2-ars-347-24.md) — BGH, Beschluss 2 ARs 347/24
 - [BGH, Beschluss vom 23.10.2024 - 2 StR 145/24](2-str-145-24.md) — Schuldspruch wegen Handeltreibens mit Betäubungsmitteln bzw. Cannabis in nicht geringer Menge; Einziehung des Wertes von Taterträgen
@@ -102,7 +102,7 @@
 - [BGH, Beschluss vom 11.09.2024 - 2 StR 331/24](2-str-331-24.md) — Verstoß gegen Verbot der Schlechterstellung bei Verhängung einer höheren Einzelstrafe als im ersten Rechtsgang
 - [BGH, Beschluss vom 11.09.2024 - 2 StR 340/23](2-str-340-23.md) — Konkurrenzrechtliche Bewertung von Betrugsstraftaten bei Verkauf von Gegenständen über eBay Kleinanzeigen
 - [BGH, Urteil vom 11.09.2024 - 2 StR 498/23](2-str-498-23.md) — Beweiswürdigung bei Sexualdelikten; Bewertung von Indiztatsachen
-- [BGH, Urteil vom 11.09.2024 - 2 StR 521/23](2-str-521-23.md) — 1. Hat eine Revision der Nebenklage zum Schuldspruch Erfolg, gebietet der Grundsatz des fairen Verfahrens aus Art. 6 Abs. 1 Satz 1 EMRK, die Feststellungen über
+- [BGH, Urteil vom 11.09.2024 - 2 StR 521/23](2-str-521-23.md) — 1. Hat eine Revision der Nebenklage zum Schuldspruch Erfolg, gebietet der Grundsatz des fairen Verfahrens aus Art. 6 Abs. 1 Satz 1 EMRK, die Feststellungen über das nach § 353 …
 - [BGH, Beschluss vom 10.09.2024 - 2 ARs 322/24](2-ars-322-24.md) — BGH, Beschluss 2 ARs 322/24
 - [BGH, Beschluss vom 10.09.2024 - 2 StR 364/24](2-str-364-24.md) — BGH, Beschluss 2 StR 364/24
 - [BGH, Beschluss vom 10.09.2024 - 2 StR 402/24](2-str-402-24.md) — BGH, Beschluss 2 StR 402/24
@@ -148,7 +148,7 @@
 - [BGH, Beschluss vom 14.08.2024 - 2 StR 225/24](2-str-225-24.md) — BGH, Beschluss 2 StR 225/24
 - [BGH, Beschluss vom 14.08.2024 - 2 StR 269/24](2-str-269-24.md) — Drogenkonsum als überwiegende Ursache für verfahrensgegenständliche Tat
 - [BGH, Beschluss vom 01.08.2024 - 2 ARs 198/24](2-ars-198-24.md) — BGH, Beschluss 2 ARs 198/24
-- [BGH, Vorlagebeschluss vom 01.08.2024 - 2 StR 107/24](2-str-107-24.md) — Vorlage an den Großen Senat für Strafsachen: Beurteilung der Strafbarkeit des Besitzes von Cannabis bei sowohl zum Handeltreiben als auch für den Eigenkonsum vo
+- [BGH, Vorlagebeschluss vom 01.08.2024 - 2 StR 107/24](2-str-107-24.md) — Vorlage an den Großen Senat für Strafsachen: Beurteilung der Strafbarkeit des Besitzes von Cannabis bei sowohl zum Handeltreiben als auch für den Eigenkonsum vorrätig gehaltenes …
 - [BGH, Beschluss vom 01.08.2024 - 2 StR 334/24](2-str-334-24.md) — BGH, Beschluss 2 StR 334/24
 - [BGH, Urteil vom 31.07.2024 - 2 StR 202/24](2-str-202-24.md) — BGH, Urteil 2 StR 202/24
 - [BGH, Beschluss vom 31.07.2024 - 2 StR 204/24](2-str-204-24.md) — Anbau, Herstellen und Handeltreiben von Cannabis
@@ -212,7 +212,7 @@
 - [BGH, Beschluss vom 04.06.2024 - 2 StR 126/24](2-str-126-24.md) — BGH, Beschluss 2 StR 126/24
 - [BGH, Beschluss vom 04.06.2024 - 2 StR 185/24](2-str-185-24.md) — BGH, Beschluss 2 StR 185/24
 - [BGH, Beschluss vom 04.06.2024 - 2 StR 416/23](2-str-416-23.md) — BGH, Beschluss 2 StR 416/23
-- [BGH, Beschluss vom 04.06.2024 - 2 StR 51/23](2-str-51-23.md) — Misstrauen in Unparteilichkeit des Richters; Mitwirkung des Vorsitzenden bei Urteil trotz Ablehnung wegen Besorgnis der Befangenheit; erforderliche Feststellung
+- [BGH, Beschluss vom 04.06.2024 - 2 StR 51/23](2-str-51-23.md) — Misstrauen in Unparteilichkeit des Richters; Mitwirkung des Vorsitzenden bei Urteil trotz Ablehnung wegen Besorgnis der Befangenheit; erforderliche Feststellungen bei …
 - [BGH, Beschluss vom 04.06.2024 - 2 StR 95/24](2-str-95-24.md) — BGH, Beschluss 2 StR 95/24
 - [BGH, Beschluss vom 22.05.2024 - 2 StR 24/24](2-str-24-24.md) — BGH, Beschluss 2 StR 24/24
 - [BGH, Urteil vom 22.05.2024 - 2 StR 348/23](2-str-348-23.md) — Verfahrensfehlerhafte Zurückweisung eines Hilfsbeweisantrags der Staatsanwaltschaft
@@ -226,13 +226,13 @@
 - [BGH, Beschluss vom 15.05.2024 - 2 StR 122/24](2-str-122-24.md) — BGH, Beschluss 2 StR 122/24
 - [BGH, Beschluss vom 15.05.2024 - 2 StR 135/24](2-str-135-24.md) — BGH, Beschluss 2 StR 135/24
 - [BGH, Beschluss vom 15.05.2024 - 2 StR 177/24](2-str-177-24.md) — BGH, Beschluss 2 StR 177/24
-- [BGH, Beschluss vom 15.05.2024 - 2 StR 458/23](2-str-458-23.md) — Anpassung des Schuldspruchs mit Inkrafttreten des Konsumcannabisgesetzes; (Mit-)Verfügungsmacht eines Angeklagten an Erlösen aus Betäubungsmittel- bzw. Cannabis
+- [BGH, Beschluss vom 15.05.2024 - 2 StR 458/23](2-str-458-23.md) — Anpassung des Schuldspruchs mit Inkrafttreten des Konsumcannabisgesetzes; (Mit-)Verfügungsmacht eines Angeklagten an Erlösen aus Betäubungsmittel- bzw. Cannabis-Geschäften
 - [BGH, Beschluss vom 08.05.2024 - 2 StR 167/24](2-str-167-24.md) — BGH, Beschluss 2 StR 167/24
 - [BGH, Urteil vom 08.05.2024 - 2 StR 51/24](2-str-51-24.md) — BGH, Urteil 2 StR 51/24
 - [BGH, Beschluss vom 08.05.2024 - 2 StR 55/23](2-str-55-23.md) — BGH, Beschluss 2 StR 55/23
 - [BGH, Beschluss vom 08.05.2024 - 2 StR 88/24](2-str-88-24.md) — BGH, Beschluss 2 StR 88/24
 - [BGH, Beschluss vom 07.05.2024 - 2 ARs 431/23](2-ars-431-23.md) — Notwendigkeit einer Gerichtsstandsbestimmung durch BGH
-- [BGH, Beschluss vom 07.05.2024 - 2 StR 16/24](2-str-16-24.md) — Unerlaubter Besitz und unerlaubter Handel mit Betäubungsmitteln in nicht geringer Menge: Nicht geringe Menge bei R-Methamphetamin; Konkurrenzverhältnis bei Abge
+- [BGH, Beschluss vom 07.05.2024 - 2 StR 16/24](2-str-16-24.md) — Unerlaubter Besitz und unerlaubter Handel mit Betäubungsmitteln in nicht geringer Menge: Nicht geringe Menge bei R-Methamphetamin; Konkurrenzverhältnis bei Abgeben von …
 - [BGH, Beschluss vom 07.05.2024 - 2 StR 375/23](2-str-375-23.md) — BGH, Beschluss 2 StR 375/23
 - [BGH, Beschluss vom 07.05.2024 - 2 StR 524/23](2-str-524-23.md) — BGH, Beschluss 2 StR 524/23
 - [BGH, Beschluss vom 07.05.2024 - 2 StR 67/24](2-str-67-24.md) — BGH, Beschluss 2 StR 67/24
@@ -256,10 +256,10 @@
 - [BGH, Beschluss vom 10.04.2024 - 2 StR 63/24](2-str-63-24.md) — BGH, Beschluss 2 StR 63/24
 - [BGH, Beschluss vom 09.04.2024 - 2 StR 109/24](2-str-109-24.md) — BGH, Beschluss 2 StR 109/24
 - [BGH, Beschluss vom 09.04.2024 - 2 StR 520/23](2-str-520-23.md) — BGH, Beschluss 2 StR 520/23
-- [BGH, Beschluss vom 04.04.2024 - 2 ARs 408/23](2-ars-408-23.md) — Auslieferungssache: Anfechtbarkeit einer Entscheidung des Oberlandesgerichts über die Anordnung von Telekommunikationsüberwachungs- und Aufenthaltsortermittlung
+- [BGH, Beschluss vom 04.04.2024 - 2 ARs 408/23](2-ars-408-23.md) — Auslieferungssache: Anfechtbarkeit einer Entscheidung des Oberlandesgerichts über die Anordnung von Telekommunikationsüberwachungs- und Aufenthaltsortermittlungsmaßnahmen
 - [BGH, Beschluss vom 27.03.2024 - 2 StR 179/23](2-str-179-23.md) — Strafzumessungserwägungen bei sexuellem Missbrauch von Kindern
 - [BGH, Urteil vom 27.03.2024 - 2 StR 337/23](2-str-337-23.md) — Strafbare Beteiligung an einer Schlägerei und Adhäsionsentscheidung bei schwerer Verletzung des Nebenklägers
-- [BGH, Urteil vom 27.03.2024 - 2 StR 382/23](2-str-382-23.md) — 1. Nebenkläger und deren bestellte anwaltliche Vertreter rechnen zu den übrigen Beteiligten im Sinne des § 249 Abs. 2 Satz 1 StPO und haben das Recht, dass ihne
+- [BGH, Urteil vom 27.03.2024 - 2 StR 382/23](2-str-382-23.md) — 1. Nebenkläger und deren bestellte anwaltliche Vertreter rechnen zu den übrigen Beteiligten im Sinne des § 249 Abs. 2 Satz 1 StPO und haben das Recht, dass ihnen Gelegenheit zur …
 - [BGH, Urteil vom 27.03.2024 - 2 StR 461/23](2-str-461-23.md) — BGH, Urteil 2 StR 461/23
 - [BGH, Beschluss vom 27.03.2024 - 2 StR 501/23](2-str-501-23.md) — BGH, Beschluss 2 StR 501/23
 - [BGH, Beschluss vom 27.03.2024 - 2 StR 511/23](2-str-511-23.md) — Schwerer sexuellen Missbrauchs von Kindern: Darlegungsanforderungen für in Serie begangene sexuelle Missbrauchshandlungen
@@ -306,18 +306,18 @@
 - [BGH, Beschluss vom 14.02.2024 - 2 StR 451/23](2-str-451-23.md) — BGH, Beschluss 2 StR 451/23
 - [BGH, Beschluss vom 14.02.2024 - 2 StR 493/23](2-str-493-23.md) — BGH, Beschluss 2 StR 493/23
 - [BGH, Beschluss vom 13.02.2024 - 2 StR 254/23](2-str-254-23.md) — BGH, Beschluss 2 StR 254/23
-- [BGH, Beschluss vom 13.02.2024 - 2 StR 485/23](2-str-485-23.md) — Strafurteil wegen Betäubungsmitteldelikten: Konkurrenzverhältnisse bei gleichzeitigem Besitz verschiedener Betäubungsmittel zum Eigenverbrauch und Handeltreiben
+- [BGH, Beschluss vom 13.02.2024 - 2 StR 485/23](2-str-485-23.md) — Strafurteil wegen Betäubungsmitteldelikten: Konkurrenzverhältnisse bei gleichzeitigem Besitz verschiedener Betäubungsmittel zum Eigenverbrauch und Handeltreiben mit …
 - [BGH, Beschluss vom 02.02.2024 - 2 StR 418/23](2-str-418-23.md) — BGH, Beschluss 2 StR 418/23
 - [BGH, Beschluss vom 31.01.2024 - 2 StR 221/23](2-str-221-23.md) — Zeitraum einer möglichen Beihilfe zur Einfuhr von Betäubungsmitteln
 - [BGH, Urteil vom 31.01.2024 - 2 StR 351/23](2-str-351-23.md) — Beweiswürdigung und Urteilsgründe zur Strafbarkeit wegen bewaffneten Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 30.01.2024 - 2 ARs 3/24](2-ars-3-24.md) — BGH, Beschluss 2 ARs 3/24
 - [BGH, Beschluss vom 17.01.2024 - 2 StR 100/23](2-str-100-23.md) — Kompensation bei rechtsstaatswidriger Verfahrensverzögerung
-- [BGH, Urteil vom 17.01.2024 - 2 StR 459/22](2-str-459-22.md) — 1. Die Hauptverhandlung beginnt gemäß § 243 Abs. 1 Satz 1 StPO mit dem Aufruf der Sache; damit sind die für diesen Sitzungstag bestimmten Schöffen zur Verhandlu
+- [BGH, Urteil vom 17.01.2024 - 2 StR 459/22](2-str-459-22.md) — 1. Die Hauptverhandlung beginnt gemäß § 243 Abs. 1 Satz 1 StPO mit dem Aufruf der Sache; damit sind die für diesen Sitzungstag bestimmten Schöffen zur Verhandlung und Entscheidung …
 - [BGH, Beschluss vom 16.01.2024 - 2 ARs 8/24](2-ars-8-24.md) — BGH, Beschluss 2 ARs 8/24
 - [BGH, Beschluss vom 16.01.2024 - 2 StR 422/23](2-str-422-23.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln
 - [BGH, Beschluss vom 15.01.2024 - 2 StR 124/23](2-str-124-23.md) — BGH, Beschluss 2 StR 124/23
 - [BGH, Beschluss vom 11.01.2024 - 2 StR 356/23](2-str-356-23.md) — BGH, Beschluss 2 StR 356/23
-- [BGH, Beschluss vom 10.01.2024 - 2 StR 171/23](2-str-171-23.md) — 1. Die Anordnung einer Funkzellenabfrage nach § 100g Abs. 3 Satz 1 StPO setzt den Verdacht einer besonders schweren Straftat nach § 100g Abs. 2 StPO voraus. Die
+- [BGH, Beschluss vom 10.01.2024 - 2 StR 171/23](2-str-171-23.md) — 1. Die Anordnung einer Funkzellenabfrage nach § 100g Abs. 3 Satz 1 StPO setzt den Verdacht einer besonders schweren Straftat nach § 100g Abs. 2 StPO voraus. Die in § 100g Abs. 3 …
 - [BGH, Beschluss vom 10.01.2024 - 2 StR 438/23](2-str-438-23.md) — Darlegungsmängel bezüglich eines bedingten Tötungsvorsatzes in Urteilsgründen
 - [BGH, Beschluss vom 10.01.2024 - 2 StR 477/23](2-str-477-23.md) — Strafausspruch bei sexuellem Missbrauch von Schutzbefohlenen, Vergewaltigung und Beischlaf zwischen Verwandten
 - [BGH, Beschluss vom 10.01.2024 - 2 StR 478/23](2-str-478-23.md) — BGH, Beschluss 2 StR 478/23

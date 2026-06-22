@@ -60,7 +60,7 @@
 - [BGH, Beschluss vom 22.02.2001 - 3 StR 41/01](3-str-41-01.md) — Vergewaltigung
 - [BGH, Beschluss vom 22.02.2001 - 3 StR 471/00](3-str-471-00.md) — versuchter Bestimmung eines Jugendlichen zum unerlaubten Handeltreiben mit Betäubungsmitteln
 - [BGH, Beschluss vom 22.02.2001 - 3 StR 580/00](3-str-580-00.md) — schwerer räuberischer Erpressung
-- [BGH, Entscheidung vom 22.02.2001 - 3 StR 587/00](3-str-587-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 22.02.2001 - 3 StR 587/00](3-str-587-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 07.02.2001 - 3 StR 556/00](3-str-556-00.md) — schweren Raubes u.a.
 - [BGH, Beschluss vom 07.02.2001 - 3 StR 566/00](3-str-566-00.md) — besonders schwerer Brandstiftung u.a.
 - [BGH, Beschluss vom 10.01.2001 - 3 StR 468/00](3-str-468-00.md) — Betruges u.a.

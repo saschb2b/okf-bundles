@@ -18,7 +18,7 @@
 - [BGH, Beschluss vom 24.08.2004 - 4 StR 293/04](4-str-293-04.md) — schweren Raubes u. a.
 - [BGH, Beschluss vom 24.06.2004 - 4 StR 165/04](4-str-165-04.md) — sexuellen Mißbrauchs eines Kindes u.a.
 - [BGH, Beschluss vom 24.06.2004 - 4 StR 235/04](4-str-235-04.md) — Versäumung der Revisionseinlegungsfrist gemäß § 346 Abs. 1 StPO als unzulässig verworfen. Hiergegen wendet sich der Untergebrachte mit Schre
-- [BGH, Entscheidung vom 27.05.2004 - 4 StR 564/03](4-str-564-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 27.05.2004 - 4 StR 564/03](4-str-564-03.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 27.04.2004 - 4 StR 126/04](4-str-126-04.md) — schwerer räuberischer Erpressung
 - [BGH, Beschluss vom 30.03.2004 - 4 StR 3/04](4-str-3-04.md) — sexuellen Mißbrauchs von Kindern u.a.
 - [BGH, Beschluss vom 24.02.2004 - 4 StR 582/03](4-str-582-03.md) — sexueller Nötigung u.a.

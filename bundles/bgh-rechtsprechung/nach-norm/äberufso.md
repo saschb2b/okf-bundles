@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ÄBerufsO"
 description: "BGH-Entscheidungen zu ÄBerufsO, geordnet nach Vorschrift."
 tags: [register, navigation, äberufso]
-timestamp: 2026-06-22T13:43:59Z
+timestamp: 2026-06-22T13:45:57Z
 ---
 
 # Nach Vorschrift

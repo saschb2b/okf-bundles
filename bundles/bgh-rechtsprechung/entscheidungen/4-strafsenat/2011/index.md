@@ -9,7 +9,7 @@
 - [BGH, Beschluss vom 21.12.2011 - 4 StR 453/11](4-str-453-11.md) — Besonders schwerer Fall des Betrugs: Herbeiführung eines Vermögensverlustes großen Ausmaßes bei Betrugsserie; fortgesetzte Begehung
 - [BGH, Beschluss vom 21.12.2011 - 4 StR 477/11](4-str-477-11.md) — Drogenfahrt: Anforderungen an den Nachweis einer rauschmittelbedingten Fahruntüchtigkeit
 - [BGH, Beschluss vom 21.12.2011 - 4 StR 553/11](4-str-553-11.md) — Strafverfahren: Wirksamkeit eines Eröffnungsbeschlusses ohne sämtliche Unterschriften
-- [BGH, Beschluss vom 20.12.2011 - 4 StR 491/11](4-str-491-11.md) — Strafverfahren: Betrug durch falsche Tatsachenbehauptungen im Mahnverfahren; Verlesung von eidesstattlichen Versicherungen der Mitangeklagten ohne Einverständni
+- [BGH, Beschluss vom 20.12.2011 - 4 StR 491/11](4-str-491-11.md) — Strafverfahren: Betrug durch falsche Tatsachenbehauptungen im Mahnverfahren; Verlesung von eidesstattlichen Versicherungen der Mitangeklagten ohne Einverständnis der Beteiligten
 - [BGH, Urteil vom 08.12.2011 - 4 StR 428/11](4-str-428-11.md) — Sexueller Missbrauch von Kindern: Strafzumessung bei fehlender Gewaltanwendung; Verwertung vom Angeklagten mitgeteilter getilgter Vorstrafen
 - [BGH, Beschluss vom 08.12.2011 - 4 StR 430/11](4-str-430-11.md) — Strafverfahren: Unmittelbare Ladung von Zeugen; erforderlicher Vortrag in der Revisionsrüge wegen Ablehnung der Vernehmung selbst geladener Zeugen
 - [BGH, Urteil vom 08.12.2011 - 4 StR 500/11](4-str-500-11.md) — Strafverfahren gegen mehrere Beschuldigte: Umfang des Zeugnisverweigerungsrecht des Angehörigen eines Beschuldigten
@@ -19,15 +19,15 @@
 - [BGH, Beschluss vom 22.11.2011 - 4 StR 480/11](4-str-480-11.md) — Erpressung: Mehrere Angriffe auf die Willensentschließung des Opfers als eine Tat; Ende der rechtlichen Bewertungseinheit
 - [BGH, Beschluss vom 22.11.2011 - 4 StR 522/11](4-str-522-11.md) — Gefährlicher Eingriff in den Straßenverkehr: Feststellung der Tatvoraussetzungen in Strafurteil
 - [BGH, Beschluss vom 10.11.2011 - 4 StR 417/11](4-str-417-11.md) — Sicherungsverwahrung: Anforderungen an die Begründung bei Feststellung eines Hangs
-- [BGH, Beschluss vom 09.11.2011 - 4 StR 252/11](4-str-252-11.md) — Betrug: Abgrenzung zwischen Tatmehrheit und Tateinheit im Sinne eines uneigentlichen Organisationsdelikts bei Einbindung in ein betrügerisches Geschäftskonzept;
+- [BGH, Beschluss vom 09.11.2011 - 4 StR 252/11](4-str-252-11.md) — Betrug: Abgrenzung zwischen Tatmehrheit und Tateinheit im Sinne eines uneigentlichen Organisationsdelikts bei Einbindung in ein betrügerisches Geschäftskonzept; Beweiswürdigung …
 - [BGH, Beschluss vom 08.11.2011 - 4 StR 445/11](4-str-445-11.md) — Vergewaltigung: Ausnutzung schutzlosen Ausgeliefertseins des Tatopfers
 - [BGH, Beschluss vom 08.11.2011 - 4 StR 468/11](4-str-468-11.md) — Gemeinschaftliche Vergewaltigung: Abgrenzung zwischen Vergewaltigung und sexueller Nötigung
 - [BGH, Beschluss vom 25.10.2011 - 4 StR 455/11](4-str-455-11.md) — Gefährliche Körperverletzung: Vorliegen einer das Leben gefährdenden Behandlung
-- [BGH, Beschluss vom 20.10.2011 - 4 StR 344/11](4-str-344-11.md) — Auch die teilweise Zerstörung eines zu gewerblichen Zwecken genutzten Gebäudes erfordert eine solche von Gewicht. Sie liegt wie im Fall der teilweisen Zerstörun
+- [BGH, Beschluss vom 20.10.2011 - 4 StR 344/11](4-str-344-11.md) — Auch die teilweise Zerstörung eines zu gewerblichen Zwecken genutzten Gebäudes erfordert eine solche von Gewicht. Sie liegt wie im Fall der teilweisen Zerstörung eines …
 - [BGH, Beschluss vom 20.10.2011 - 4 StR 396/11](4-str-396-11.md) — Sexuelle Nötigung und Vergewaltigung: Ausnutzung einer schutzlosen Lage des Tatopfers
-- [BGH, Urteil vom 20.10.2011 - 4 StR 71/11](4-str-71-11.md) — Aus der Stellung als Betriebsinhaber bzw. Vorgesetzter kann sich eine Garantenpflicht zur Verhinderung von Straftaten nachgeordneter Mitarbeiter ergeben. Diese 
+- [BGH, Urteil vom 20.10.2011 - 4 StR 71/11](4-str-71-11.md) — Aus der Stellung als Betriebsinhaber bzw. Vorgesetzter kann sich eine Garantenpflicht zur Verhinderung von Straftaten nachgeordneter Mitarbeiter ergeben. Diese beschränkt sich …
 - [BGH, Beschluss vom 19.10.2011 - 4 StR 409/11](4-str-409-11.md) — Betrug: EC-Kartenmissbrauch im Lastschriftverfahren
-- [BGH, Beschluss vom 19.10.2011 - 4 StR 425/11](4-str-425-11.md) — Strafzumessung: Prüfung der fiktiven Tilgungsreife bei Berücksichtigung einer nicht in das Bundeszentralregister eingetragenen ausländischen Vorstrafe im Rahmen
+- [BGH, Beschluss vom 19.10.2011 - 4 StR 425/11](4-str-425-11.md) — Strafzumessung: Prüfung der fiktiven Tilgungsreife bei Berücksichtigung einer nicht in das Bundeszentralregister eingetragenen ausländischen Vorstrafe im Rahmen der Strafzumessung
 - [BGH, Beschluss vom 18.10.2011 - 4 StR 253/11](4-str-253-11.md) — Besonders schwerer Fall des Betrugs: Herbeiführung eines Vermögensverlustes großen Ausmaßes
 - [BGH, Beschluss vom 18.10.2011 - 4 StR 346/11](4-str-346-11.md) — Deliktsserie mehrerer Personen: Beurteilung der Konkurrenzverhältnisse
 - [BGH, Beschluss vom 05.10.2011 - 4 StR 401/11](4-str-401-11.md) — Gefährlicher Eingriff in den Straßenverkehr: Abstrakte Gefährdung des Geschädigten innerhalb des öffentlichen Verkehrsraumes als Tatbestandsmerkmal
@@ -40,15 +40,15 @@
 - [BGH, Beschluss vom 21.09.2011 - 4 StR 172/11](4-str-172-11.md) — Verfallsanordnung: Unmittelbar aus der Vereitelung der Zwangsvollstreckung erwachsener Vermögensvorteil
 - [BGH, Urteil vom 20.09.2011 - 4 StR 129/11](4-str-129-11.md) — Volksverhetzung: Rechtliche Beurteilung von mehrdeutigen Meinungsäußerungen
 - [BGH, Beschluss vom 20.09.2011 - 4 StR 434/11](4-str-434-11.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: Erfordernis der Anhörung eines Sachverständigen
-- [BGH, Beschluss vom 10.08.2011 - 4 StR 338/11](4-str-338-11.md) — Sexueller Missbrauch Widerstandsunfähiger: Feststellung der Widerstandsunfähigkeit im Rahmen eines Behandlungsverhältnisses; Bedeutung eines Sachverständigengut
+- [BGH, Beschluss vom 10.08.2011 - 4 StR 338/11](4-str-338-11.md) — Sexueller Missbrauch Widerstandsunfähiger: Feststellung der Widerstandsunfähigkeit im Rahmen eines Behandlungsverhältnisses; Bedeutung eines Sachverständigengutachtens in der …
 - [BGH, Beschluss vom 09.08.2011 - 4 StR 367/11](4-str-367-11.md) — Rücktritt vom Versuch: Aufgabe der weiteren Tatausführung unter dem beruhigenden Einfluss eines Dritten
 - [BGH, Urteil vom 28.07.2011 - 4 StR 156/11](4-str-156-11.md) — Dem mit einem Zwangsverwaltungsverfahren befassten Rechtspfleger obliegt eine Vermögensbetreuungspflicht gegenüber Gläubigern und Schuldner .
-- [BGH, Beschluss vom 27.07.2011 - 4 StR 303/11](4-str-303-11.md) — Bildung der Gesamtstrafe: Auswirkung der das Auslieferungsrecht beherrschende Grundsatz der Spezialität bei Einbeziehung einer früheren Verurteilung durch ein d
-- [BGH, Beschluss vom 26.07.2011 - 4 StR 268/11](4-str-268-11.md) — Rücktritt vom Versuch der besonders schweren Brandstiftung: Verhinderung der Tatvollendung durch Nichtausschöpfen der letzten Verwirklichungsmöglichkeit; Abgren
+- [BGH, Beschluss vom 27.07.2011 - 4 StR 303/11](4-str-303-11.md) — Bildung der Gesamtstrafe: Auswirkung der das Auslieferungsrecht beherrschende Grundsatz der Spezialität bei Einbeziehung einer früheren Verurteilung durch ein deutsches Gericht
+- [BGH, Beschluss vom 26.07.2011 - 4 StR 268/11](4-str-268-11.md) — Rücktritt vom Versuch der besonders schweren Brandstiftung: Verhinderung der Tatvollendung durch Nichtausschöpfen der letzten Verwirklichungsmöglichkeit; Abgrenzung zum …
 - [BGH, Beschluss vom 26.07.2011 - 4 StR 340/11](4-str-340-11.md) — Gefährlicher Eingriff in den Straßenverkehr: Voraussetzungen der Vollendung des Delikts
 - [BGH, Beschluss vom 14.07.2011 - 4 StR 139/11](4-str-139-11.md) — Strafverfahren: Gerichtsstand des Tatorts beim Handeltreiben mit Betäubungsmitteln
 - [BGH, Urteil vom 14.07.2011 - 4 StR 16/11](4-str-16-11.md) — Voraussetzungen der nachträglichen Anordnung von Sicherungsverwahrung in Altfällen bis zur gesetzlichen Neuregelung
-- [BGH, Beschluss vom 14.07.2011 - 4 StR 548/10](4-str-548-10.md) — Die für den Anspruch auf Gewährung der besonderen Zuwendung für Haftopfer erforderliche besondere Beeinträchtigung der wirtschaftlichen Lage beurteilt sich bei 
+- [BGH, Beschluss vom 14.07.2011 - 4 StR 548/10](4-str-548-10.md) — Die für den Anspruch auf Gewährung der besonderen Zuwendung für Haftopfer erforderliche besondere Beeinträchtigung der wirtschaftlichen Lage beurteilt sich bei Berechtigten, die …
 - [BGH, Beschluss vom 13.07.2011 - 4 StR 181/11](4-str-181-11.md) — Revision im Strafverfahren: Zulässigkeit einer auf das Hauptverhandlungsprotokoll gestützten Rüge
 - [BGH, Beschluss vom 30.06.2011 - 4 StR 241/11](4-str-241-11.md) — Mord durch Unterlassen: Prüfung einer Strafrahmenmilderung
 - [BGH, Beschluss vom 30.06.2011 - 4 StR 266/11](4-str-266-11.md) — Gefährliche Körperverletzung: Fahrendes Kraftfahrzeug als gefährliches Werkzeug
@@ -62,11 +62,11 @@
 - [BGH, Beschluss vom 08.06.2011 - 4 StR 196/11](4-str-196-11.md) — Aufhebung des Strafausspruchs: Divergenz zwischen Urteilsformel und Urteilsgründen
 - [BGH, Beschluss vom 08.06.2011 - 4 StR 209/11](4-str-209-11.md) — Tateinheit von Straftat und Ordnungswidrigkeit: Strafbarkeit bei ordnungswidrigem Fahren unter Drogeneinfluss beim Transport erworbener Betäubungsmittel
 - [BGH, Beschluss vom 08.06.2011 - 4 StR 249/11](4-str-249-11.md) — Nachträgliche Gesamtstrafenbildung: Anforderungen an die Urteilsgründe
-- [BGH, Beschluss vom 07.06.2011 - 4 StR 643/10](4-str-643-10.md) — Strafverfahren: Rechtsfolgen der unterbliebenen Belehrung eines ausländischen Festgenommenen über sein Recht auf unverzügliche Benachrichtigung seiner konsulari
+- [BGH, Beschluss vom 07.06.2011 - 4 StR 643/10](4-str-643-10.md) — Strafverfahren: Rechtsfolgen der unterbliebenen Belehrung eines ausländischen Festgenommenen über sein Recht auf unverzügliche Benachrichtigung seiner konsularischen Vertretung
 - [BGH, Beschluss vom 26.05.2011 - 4 StR 159/11](4-str-159-11.md) — Jugendstraftat: Absehen von einer Jugendstrafe bei Unterbringung in einer Entziehungsanstalt
 - [BGH, Beschluss vom 26.05.2011 - 4 StR 650/10](4-str-650-10.md) — Sicherungsverwahrung: Anordnungsvoraussetzungen bis zur gesetzlichen Neuregelung
 - [BGH, Beschluss vom 25.05.2011 - 4 StR 27/11](4-str-27-11.md) — Unterbringung in einer Entziehungsanstalt: Symptomatischer Zusammenhang; Erfolgsaussicht bei Therapieunwilligkeit
-- [BGH, Beschluss vom 25.05.2011 - 4 StR 87/11](4-str-87-11.md) — Unterbringung in der Sicherungsverwahrung: Anforderungen an die Darstellung der Ermessensausübung in den Urteilsgründen; Abgrenzung zwischen Hang und Allgemeing
+- [BGH, Beschluss vom 25.05.2011 - 4 StR 87/11](4-str-87-11.md) — Unterbringung in der Sicherungsverwahrung: Anforderungen an die Darstellung der Ermessensausübung in den Urteilsgründen; Abgrenzung zwischen Hang und Allgemeingefährlichkeit
 - [BGH, Beschluss vom 24.05.2011 - 4 StR 175/11](4-str-175-11.md) — Erpresserischer Menschenraub: Erforderlichkeit einer Bereicherungsabsicht
 - [BGH, Urteil vom 12.05.2011 - 4 StR 699/10](4-str-699-10.md) — Sexueller Missbrauch von Kindern: Auslegung der Legaldefinition der sexuellen Handlung vor einem anderen
 - [BGH, Beschluss vom 11.05.2011 - 4 StR 163/11](4-str-163-11.md) — Strafurteil wegen Kindesmissbrauchs: Anforderungen an die Beweiswürdigung im Falle Aussage gegen Aussage
@@ -76,35 +76,35 @@
 - [BGH, Beschluss vom 10.05.2011 - 4 StR 659/10](4-str-659-10.md) — Brandstiftung und versuchte schwere Brandstiftung bei teilweisem Zerstören eines Wohn- und Geschäftsgebäudes: Konkurrenzverhältnis
 - [BGH, Beschluss vom 28.04.2011 - 4 StR 2/11](4-str-2-11.md) — Anordnung des Wertverfalls: Verfall des für die Bestechung eines Amtsträgers überlassenen Geldbetrags
 - [BGH, Beschluss vom 14.04.2011 - 4 StR 112/11](4-str-112-11.md) — Hehlerei: Abgeschlossene Vortat als Voraussetzung einer Hehlerei
-- [BGH, Urteil vom 14.04.2011 - 4 StR 501/10](4-str-501-10.md) — Beweiswürdigung im Strafverfahren: Beweiswert der Wiederkennungsleistung des Zeugen bei einer sequentiellen Wahllichtbildvorlage und des wiederholten Wiedererke
-- [BGH, Urteil vom 14.04.2011 - 4 StR 571/10](4-str-571-10.md) — Befangenheitsablehnung der Strafkammermitglieder: Besorgnis der Voreingenommenheit bei Äußerungen zu einer gescheiterten Verständigung über Strafobergrenzen im 
-- [BGH, Urteil vom 14.04.2011 - 4 StR 669/10](4-str-669-10.md) — 1. Einer Strafbarkeit wegen sexuellen Missbrauchs unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses nach § 174c Abs. 1 StGB steht all
+- [BGH, Urteil vom 14.04.2011 - 4 StR 501/10](4-str-501-10.md) — Beweiswürdigung im Strafverfahren: Beweiswert der Wiederkennungsleistung des Zeugen bei einer sequentiellen Wahllichtbildvorlage und des wiederholten Wiedererkennens in der …
+- [BGH, Urteil vom 14.04.2011 - 4 StR 571/10](4-str-571-10.md) — Befangenheitsablehnung der Strafkammermitglieder: Besorgnis der Voreingenommenheit bei Äußerungen zu einer gescheiterten Verständigung über Strafobergrenzen im Falle eines …
+- [BGH, Urteil vom 14.04.2011 - 4 StR 669/10](4-str-669-10.md) — 1. Einer Strafbarkeit wegen sexuellen Missbrauchs unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses nach § 174c Abs. 1 StGB steht allein das …
 - [BGH, Beschluss vom 13.04.2011 - 4 StR 100/11](4-str-100-11.md) — Vergewaltigung: Anwendung des Normalstrafrahmens bei gewichtigen Milderungsgründen
-- [BGH, Beschluss vom 13.04.2011 - 4 StR 124/11](4-str-124-11.md) — Strafverfahren wegen versuchten besonders schweren Raubes: Strafmilderung wegen Aufklärungshilfe eines fälschlicherweise eine Bedrohungslage angebenden Angeklag
+- [BGH, Beschluss vom 13.04.2011 - 4 StR 124/11](4-str-124-11.md) — Strafverfahren wegen versuchten besonders schweren Raubes: Strafmilderung wegen Aufklärungshilfe eines fälschlicherweise eine Bedrohungslage angebenden Angeklagten
 - [BGH, Beschluss vom 12.04.2011 - 4 StR 22/11](4-str-22-11.md) — Gefährlicher Eingriff in den Straßenverkehr: Bedeutender Schaden
 - [BGH, Beschluss vom 31.03.2011 - 4 StR 657/10](4-str-657-10.md) — Bestechlichkeit: Tatbestandliche Handlungseinheit bei mehreren Vorteilsannahmen auf Grund einer Unrechtsvereinbarung
 - [BGH, Beschluss vom 30.03.2011 - 4 StR 42/11](4-str-42-11.md) — Fahren ohne Fahrerlaubnis: Anforderungen an die Anklageschrift
 - [BGH, Beschluss vom 24.03.2011 - 4 StR 623/10](4-str-623-10.md) — Strafzumessung beim Betrug: Berücksichtigung der Tatfolgen in Form weiterer Vermögensschäden
-- [BGH, Beschluss vom 24.03.2011 - 4 StR 637/10](4-str-637-10.md) — (Gegenvorstellung nach Revisionsverwerfung durch den Bundesgerichtshof: Rüge einer Verletzung des Grundsatzes des gesetzlichen Richters in Ansehung einer Spezia
+- [BGH, Beschluss vom 24.03.2011 - 4 StR 637/10](4-str-637-10.md) — (Gegenvorstellung nach Revisionsverwerfung durch den Bundesgerichtshof: Rüge einer Verletzung des Grundsatzes des gesetzlichen Richters in Ansehung einer Spezialzuständigkeit nach …
 - [BGH, Urteil vom 24.03.2011 - 4 StR 670/10](4-str-670-10.md) — Besonders schwerer Fall des Landfriedensbruchs: Verurteilung eines Rädelsführers; tateinheitliche Verurteilung wegen Körperverletzung
 - [BGH, Beschluss vom 17.03.2011 - 4 StR 49/11](4-str-49-11.md) — (Jugendgerichtsurteil: Einbeziehung einer Maßregelanordnung aus einem früheren Urteil)
 - [BGH, Beschluss vom 17.03.2011 - 4 StR 83/11](4-str-83-11.md) — Strafbefreiender Rücktritt: Freiwilligkeit des Rücktritts vom Totschlagsversuchs bei Furcht vor Entdeckung
-- [BGH, Beschluss vom 15.03.2011 - 4 StR 40/11](4-str-40-11.md) — Zur Strafbarkeit wegen Amtsanmaßung und wegen unbefugten Tragens von inländischen Uniformen und Amtsabzeichen, wenn der nicht der Bundeswehr angehörende Täter u
-- [BGH, Beschluss vom 01.03.2011 - 4 StR 30/11](4-str-30-11.md) — Voraussetzungen eines Bandendiebstahls; Erforderlicher Inhalt der Urteilsgründe beim Wohnungseinbruchdiebstahl; Urteilsfeststellungen bei Aufrechterhaltung der 
-- [BGH, Beschluss vom 24.02.2011 - 4 StR 651/10](4-str-651-10.md) — (Strafverurteilung wegen gewerbsmäßiger Hehlerei: Postpendenzfeststellung bei Nichterweislichkeit einer Beteiligung des Hehlers an Vortaten des Diebstahls und A
-- [BGH, Beschluss vom 22.02.2011 - 4 StR 635/10](4-str-635-10.md) — Sicherungsverfahren: Voraussetzungen für die Anordnung der Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus; Erheblichkeit der drohenden Tat
+- [BGH, Beschluss vom 15.03.2011 - 4 StR 40/11](4-str-40-11.md) — Zur Strafbarkeit wegen Amtsanmaßung und wegen unbefugten Tragens von inländischen Uniformen und Amtsabzeichen, wenn der nicht der Bundeswehr angehörende Täter unter Vortäuschung …
+- [BGH, Beschluss vom 01.03.2011 - 4 StR 30/11](4-str-30-11.md) — Voraussetzungen eines Bandendiebstahls; Erforderlicher Inhalt der Urteilsgründe beim Wohnungseinbruchdiebstahl; Urteilsfeststellungen bei Aufrechterhaltung der Beschlagnahme unter …
+- [BGH, Beschluss vom 24.02.2011 - 4 StR 651/10](4-str-651-10.md) — (Strafverurteilung wegen gewerbsmäßiger Hehlerei: Postpendenzfeststellung bei Nichterweislichkeit einer Beteiligung des Hehlers an Vortaten des Diebstahls und Anwendung der …
+- [BGH, Beschluss vom 22.02.2011 - 4 StR 635/10](4-str-635-10.md) — Sicherungsverfahren: Voraussetzungen für die Anordnung der Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus; Erheblichkeit der drohenden Taten
 - [BGH, Beschluss vom 22.02.2011 - 4 StR 654/10](4-str-654-10.md) — Sicherungsverfahren: Unterbringung eines im Rahmen eines heftigen Nachbarschaftsstreits verhaltensauffälligen Beschuldigten in einem psychiatrischen Krankenhaus
 - [BGH, Beschluss vom 17.02.2011 - 4 StR 691/10](4-str-691-10.md) — Strafverfahren: Zuständigkeit für die Entscheidung über die Wirksamkeit einer Revisionsrücknahme
 - [BGH, Urteil vom 10.02.2011 - 4 StR 566/10](4-str-566-10.md) — Schwerer sexueller Missbrauch und Vergewaltigung eines Kindes: Begriff der Gewalt; Beihilfe zur Vergewaltigung; Defloration als Körperverletzung
-- [BGH, Urteil vom 10.02.2011 - 4 StR 576/10](4-str-576-10.md) — Hat der Täter Betäubungsmittel vorsätzlich eingeführt oder vorsätzlich damit Handel getrieben, scheidet eine tateinheitliche fahrlässige Einfuhr von oder ein ta
-- [BGH, Beschluss vom 08.02.2011 - 4 StR 583/10](4-str-583-10.md) — Revisionsgrund im Strafverfahren wegen versuchten Totschlags: Verfahrensfehlerhafte Verlesung einer Beweisurkunde in der Hauptverhandlung ohne Verlesungsbeschlu
+- [BGH, Urteil vom 10.02.2011 - 4 StR 576/10](4-str-576-10.md) — Hat der Täter Betäubungsmittel vorsätzlich eingeführt oder vorsätzlich damit Handel getrieben, scheidet eine tateinheitliche fahrlässige Einfuhr von oder ein tateinheitliches …
+- [BGH, Beschluss vom 08.02.2011 - 4 StR 583/10](4-str-583-10.md) — Revisionsgrund im Strafverfahren wegen versuchten Totschlags: Verfahrensfehlerhafte Verlesung einer Beweisurkunde in der Hauptverhandlung ohne Verlesungsbeschluss
 - [BGH, Urteil vom 27.01.2011 - 4 StR 338/10](4-str-338-10.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Unmittelbares Ansetzen zur Tatbestandsverwirklichung durch Weitergabe der ausgespähten Kartendaten
-- [BGH, Urteil vom 27.01.2011 - 4 StR 487/10](4-str-487-10.md) — Sexuelle Nötigung und gefährliche Körperverletzung: Beweiswürdigung aufgrund subjektiver Eindrücke des Tatopfers; Sprühflasche mit Haushaltsreiniger als gefährl
-- [BGH, Urteil vom 27.01.2011 - 4 StR 502/10](4-str-502-10.md) — Besonders schwerer Raub bzw. besonders schwere räuberische Erpressung mit Todesfolge: Voraussetzungen einer Feststellung von Zueignungsabsicht bzw. Bereicherung
+- [BGH, Urteil vom 27.01.2011 - 4 StR 487/10](4-str-487-10.md) — Sexuelle Nötigung und gefährliche Körperverletzung: Beweiswürdigung aufgrund subjektiver Eindrücke des Tatopfers; Sprühflasche mit Haushaltsreiniger als gefährliches Werkzeug
+- [BGH, Urteil vom 27.01.2011 - 4 StR 502/10](4-str-502-10.md) — Besonders schwerer Raub bzw. besonders schwere räuberische Erpressung mit Todesfolge: Voraussetzungen einer Feststellung von Zueignungsabsicht bzw. Bereicherungsabsicht bei …
 - [BGH, Beschluss vom 25.01.2011 - 4 StR 681/10](4-str-681-10.md) — Strafzumessung: Strafschärfende Berücksichtigung lange zurückliegender Vorverurteilungen; Tilgungsreife nach tatrichterlicher Entscheidung
 - [BGH, Beschluss vom 25.01.2011 - 4 StR 689/10](4-str-689-10.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Tateinheit bei Umtausch des zum Weiterverkauf erworbenen Rauschgifts wegen Minderwertigkeit
 - [BGH, Beschluss vom 18.01.2011 - 4 ARs 27/10](4-ars-27-10.md) — Antwort des 4. Strafsenats auf die Anfrage des 5. Strafsenats zur rückwirkenden Anwendung der Unterbringung in der Sicherungsverwahrung
 - [BGH, Beschluss vom 18.01.2011 - 4 StR 611/10](4-str-611-10.md) — Falsche Versicherung an Eides statt: Wahrheitswidrige Versicherung gegenüber der Straßenverkehrsbehörde über den Verlust von Fahrzeugpapieren
 - [BGH, Beschluss vom 11.01.2011 - 4 StR 450/10](4-str-450-10.md) — Straftatbestand der gefährlichen Körperverletzung: Einsatz von Körperteilen durch den Täter zur Verletzung des Tatopfers
-- [BGH, Beschluss vom 11.01.2011 - 4 StR 633/10](4-str-633-10.md) — Revision im Strafverfahren: Verfahrensbeschränkung hinsichtlich einer in den Urteilsgründen nicht festgestellten Straftat bei Beschränkung der Revision auf den 
-- [BGH, Beschluss vom 07.01.2011 - 4 StR 409/10](4-str-409-10.md) — Den Gerichtsvollzieher trifft kraft seiner gesetzlichen Stellung als Vollstreckungsorgan im Rahmen des ihm erteilten Vollstreckungsauftrags eine Vermögensbetreu
+- [BGH, Beschluss vom 11.01.2011 - 4 StR 633/10](4-str-633-10.md) — Revision im Strafverfahren: Verfahrensbeschränkung hinsichtlich einer in den Urteilsgründen nicht festgestellten Straftat bei Beschränkung der Revision auf den …
+- [BGH, Beschluss vom 07.01.2011 - 4 StR 409/10](4-str-409-10.md) — Den Gerichtsvollzieher trifft kraft seiner gesetzlichen Stellung als Vollstreckungsorgan im Rahmen des ihm erteilten Vollstreckungsauftrags eine Vermögensbetreuungspflicht …

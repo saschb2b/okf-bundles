@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu TKG"
 description: "BGH-Entscheidungen zu TKG, geordnet nach Vorschrift."
 tags: [register, navigation, tkg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

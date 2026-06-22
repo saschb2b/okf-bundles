@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BMG"
 description: "BGH-Entscheidungen zu BMG, geordnet nach Vorschrift."
 tags: [register, navigation, bmg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

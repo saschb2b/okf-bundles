@@ -7,7 +7,7 @@
 - [BGH, Beschluss vom 21.11.2006 - 4 StR 464/06](4-str-464-06.md) — Vergewaltigung
 - [BGH, Beschluss vom 09.11.2006 - 4 StR 424/06](4-str-424-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 24.10.2006 - 4 StR 118/06](4-str-118-06.md) — Vergewaltigung
-- [BGH, Entscheidung vom 19.10.2006 - 4 StR 359/06](4-str-359-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 19.10.2006 - 4 StR 359/06](4-str-359-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 17.10.2006 - 4 StR 341/06](4-str-341-06.md) — sexuellen Missbrauchs einer Jugendlichen
 - [BGH, Beschluss vom 05.10.2006 - 4 StR 375/06](4-str-375-06.md) — Urkundenfälschung u.a.
 - [BGH, Beschluss vom 29.08.2006 - 4 StR 231/06](4-str-231-06.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u.a.
@@ -24,8 +24,8 @@
 - [BGH, Beschluss vom 01.06.2006 - 4 StR 175/06](4-str-175-06.md) — Vergewaltigung
 - [BGH, Beschluss vom 30.05.2006 - 4 StR 152/06](4-str-152-06.md) — schwerer Brandstiftung
 - [BGH, Beschluss vom 18.05.2006 - 4 StR 153/06](4-str-153-06.md) — versuchten Totschlags u.a.
-- [BGH, Entscheidung vom 11.05.2006 - 4 StR 10/06](4-str-10-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
-- [BGH, Entscheidung vom 11.05.2006 - 4 StR 90/06](4-str-90-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 11.05.2006 - 4 StR 10/06](4-str-10-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
+- [BGH, Entscheidung vom 11.05.2006 - 4 StR 90/06](4-str-90-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen der Vorinstanz …
 - [BGH, Beschluss vom 03.05.2006 - 4 ARs 3/06](4-ars-3-06.md) — gefährlicher Körperverletzung hier: Anfrage des 1. Strafsenats vom 12. Januar 2006 – 1 StR 466/05
 - [BGH, Urteil vom 20.04.2006 - 4 StR 604/05](4-str-604-05.md) — Vergewaltigung
 - [BGH, Beschluss vom 19.04.2006 - 4 StR 395/05](4-str-395-05.md) — zu Ziff. 1.: schweren Bandendiebstahls u.a. zu Ziff. 2.: Beihilfe zum schweren Bandendiebstahl u.a.

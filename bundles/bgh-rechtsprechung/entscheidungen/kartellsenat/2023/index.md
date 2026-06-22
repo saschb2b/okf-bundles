@@ -2,42 +2,42 @@
 
 39 Entscheidung(en).
 
-- [BGH, Beschluss vom 19.12.2023 - EnVR 50/21](envr-50-21.md) — Prüfungsbericht § 6b Abs. 6 EnWG verleiht der Regulierungsbehörde keine Befugnis, die Frist zur Übersendung des Prüfungsberichts über den Jahresabschluss gemäß 
-- [BGH, Beschluss vom 19.12.2023 - EnVR 9/21](envr-9-21.md) — Kapitalverrechnungsposten Ein passiver Kapitalverrechnungsposten in dem gemäß § 6b Abs. 3 Satz 6 EnWG für eine Sparte eines vertikal integrierten Unternehmens a
-- [BGH, Beschluss vom 05.12.2023 - EnVR 59/21](envr-59-21.md) — 1. Preisnachlässe, die Versorgungsunternehmen Gemeinden auf Abgaben, Umlagen und Entgelte für Messungen bzw. den Messstellenbetrieb gewähren, sind nach § 3 Abs.
+- [BGH, Beschluss vom 19.12.2023 - EnVR 50/21](envr-50-21.md) — Prüfungsbericht § 6b Abs. 6 EnWG verleiht der Regulierungsbehörde keine Befugnis, die Frist zur Übersendung des Prüfungsberichts über den Jahresabschluss gemäß § 6b Abs. 7 Satz 1 …
+- [BGH, Beschluss vom 19.12.2023 - EnVR 9/21](envr-9-21.md) — Kapitalverrechnungsposten Ein passiver Kapitalverrechnungsposten in dem gemäß § 6b Abs. 3 Satz 6 EnWG für eine Sparte eines vertikal integrierten Unternehmens aufgestellten …
+- [BGH, Beschluss vom 05.12.2023 - EnVR 59/21](envr-59-21.md) — 1. Preisnachlässe, die Versorgungsunternehmen Gemeinden auf Abgaben, Umlagen und Entgelte für Messungen bzw. den Messstellenbetrieb gewähren, sind nach § 3 Abs. 1 Satz 1 Nr. 1 KAV …
 - [BGH, Beschluss vom 05.12.2023 - EnVR 61/21](envr-61-21.md) — Energierecht: Erlösmindernde Berücksichtigung von Umsatzsteuernachzahlungen eines Stromnetzbetreibers durch die Bundesnetzagentur
-- [BGH, Urteil vom 05.12.2023 - KZR 101/20](kzr-101-20.md) — Fernwärmenetz Stuttgart 1. Dem Betreiber eines Fernwärmenetzes kann nach Beendigung eines befristeten Gestattungsvertrags ein Anspruch auf Einräumung von Nutzun
-- [BGH, Urteil vom 05.12.2023 - KZR 46/21](kzr-46-21.md) — LKW-Kartell III 1. Aus dem zugunsten von Abnehmern eines an einer Kartellabsprache beteiligten Unternehmens streitenden Erfahrungssatz, dass die im Rahmen des K
+- [BGH, Urteil vom 05.12.2023 - KZR 101/20](kzr-101-20.md) — Fernwärmenetz Stuttgart 1. Dem Betreiber eines Fernwärmenetzes kann nach Beendigung eines befristeten Gestattungsvertrags ein Anspruch auf Einräumung von Nutzungsrechten an den im …
+- [BGH, Urteil vom 05.12.2023 - KZR 46/21](kzr-46-21.md) — LKW-Kartell III 1. Aus dem zugunsten von Abnehmern eines an einer Kartellabsprache beteiligten Unternehmens streitenden Erfahrungssatz, dass die im Rahmen des Kartells erzielten …
 - [BGH, Beschluss vom 21.11.2023 - EnVR 31/22](envr-31-22.md) — BGH, Beschluss EnVR 31/22
 - [BGH, Beschluss vom 20.11.2023 - EnVR 25/22](envr-25-22.md) — BGH, Beschluss EnVR 25/22
 - [BGH, Beschluss vom 20.11.2023 - EnVR 26/22](envr-26-22.md) — BGH, Beschluss EnVR 26/22
-- [BGH, Urteil vom 07.11.2023 - EnZR 27/20](enzr-27-20.md) — Energy from Waste II 1.1. Die Härtefallregelung nach § 12 Abs. 1 EEG 2009 und § 12 Abs. 1 EEG 2012 ist auf Stromerzeugungsanlagen anwendbar, in denen sowohl fos
-- [BGH, Urteil vom 07.11.2023 - EnZR 85/20](enzr-85-20.md) — Energy from Waste III 1. Der Anspruch auf Härtefallentschädigung hängt weder von einer vorherigen Anmeldung einer Energieerzeugungsanlage als Erneuerbare-Energi
+- [BGH, Urteil vom 07.11.2023 - EnZR 27/20](enzr-27-20.md) — Energy from Waste II 1.1. Die Härtefallregelung nach § 12 Abs. 1 EEG 2009 und § 12 Abs. 1 EEG 2012 ist auf Stromerzeugungsanlagen anwendbar, in denen sowohl fossile als auch …
+- [BGH, Urteil vom 07.11.2023 - EnZR 85/20](enzr-85-20.md) — Energy from Waste III 1. Der Anspruch auf Härtefallentschädigung hängt weder von einer vorherigen Anmeldung einer Energieerzeugungsanlage als Erneuerbare-Energien-Anlage oder der …
 - [BGH, Beschluss vom 24.10.2023 - EnZR 20/22](enzr-20-22.md) — BGH, Beschluss EnZR 20/22
-- [BGH, Beschluss vom 24.10.2023 - KZR 70/21](kzr-70-21.md) — Preissystem für die Nutzung von Bahnhöfen durch ein Eisenbahnverkehrsunternehmen: Aussetzung des Revisionsverfahrens über die Rückforderung von Entgelten zur Nu
-- [BGH, Beschluss vom 26.09.2023 - EnVR 37/21](envr-37-21.md) — Festlegung der Erlösobergrenzen für ein Gasverteilnetz in der 3. Regulierungsperiode: Bestimmung des Effizienzwerts durch die Bundesnetzagentur unter Einbeziehu
-- [BGH, Beschluss vom 26.09.2023 - EnVR 43/22](envr-43-22.md) — Effizienzvergleich II 1. Das für den Effizienzvergleich in der dritten Regulierungsperiode Gas herangezogene Modell steht - auch unter Berücksichtigung des weit
+- [BGH, Beschluss vom 24.10.2023 - KZR 70/21](kzr-70-21.md) — Preissystem für die Nutzung von Bahnhöfen durch ein Eisenbahnverkehrsunternehmen: Aussetzung des Revisionsverfahrens über die Rückforderung von Entgelten zur Nutzung der …
+- [BGH, Beschluss vom 26.09.2023 - EnVR 37/21](envr-37-21.md) — Festlegung der Erlösobergrenzen für ein Gasverteilnetz in der 3. Regulierungsperiode: Bestimmung des Effizienzwerts durch die Bundesnetzagentur unter Einbeziehung regionaler …
+- [BGH, Beschluss vom 26.09.2023 - EnVR 43/22](envr-43-22.md) — Effizienzvergleich II 1. Das für den Effizienzvergleich in der dritten Regulierungsperiode Gas herangezogene Modell steht - auch unter Berücksichtigung des weiten …
 - [BGH, Beschluss vom 26.09.2023 - EnVR 44/22](envr-44-22.md) — BGH, Beschluss EnVR 44/22
-- [BGH, Urteil vom 26.09.2023 - KZR 73/21](kzr-73-21.md) — Die Freien Brauer Eine Kommanditgesellschaft (hier: Verbund mittelständischer Brauereien) darf Rechtsdienstleistungen für ihre Mitglieder (hier: Abtretungsverei
+- [BGH, Urteil vom 26.09.2023 - KZR 73/21](kzr-73-21.md) — Die Freien Brauer Eine Kommanditgesellschaft (hier: Verbund mittelständischer Brauereien) darf Rechtsdienstleistungen für ihre Mitglieder (hier: Abtretungsvereinbarungen zur …
 - [BGH, Beschluss vom 12.09.2023 - KVZ 64/21](kvz-64-21.md) — Berücksichtigung von Verpflichtungszusage bei Zusammenschlusskontrolle und Fristwahrung bei „Unterzeichnung“ durch unterschiedliche Rechtsanwälte
-- [BGH, Beschluss vom 12.09.2023 - KVZ 73/20](kvz-73-20.md) — Kartellrechtliche Anfechtungsbeschwerde gegen die Freigabe eines Gemeinschaftsunternehmens: Zulässigkeit einer Drittanfechtung - Glasfaser-Gemeinschaftsunterneh
-- [BGH, Beschluss vom 12.09.2023 - KZR 39/21](kzr-39-21.md) — Kartellschadenersatz wegen kartellrechtswidriger Liefersperre und Boykottaufrufen: Gehörsverletzung wegen überhöhter Substantiierungsanforderungen; richterliche
+- [BGH, Beschluss vom 12.09.2023 - KVZ 73/20](kvz-73-20.md) — Kartellrechtliche Anfechtungsbeschwerde gegen die Freigabe eines Gemeinschaftsunternehmens: Zulässigkeit einer Drittanfechtung - Glasfaser-Gemeinschaftsunternehmen
+- [BGH, Beschluss vom 12.09.2023 - KZR 39/21](kzr-39-21.md) — Kartellschadenersatz wegen kartellrechtswidriger Liefersperre und Boykottaufrufen: Gehörsverletzung wegen überhöhter Substantiierungsanforderungen; richterliches …
 - [BGH, Beschluss vom 07.09.2023 - EnVR 29/22](envr-29-22.md) — BGH, Beschluss EnVR 29/22
-- [BGH, Beschluss vom 27.06.2023 - EnVR 22/22](envr-22-22.md) — Genereller sektoraler Produktivitätsfaktor III 1. Auswahlentscheidungen der Bundesnetzagentur, die sie bei der Bestimmung des generellen sektoralen Produktivitä
+- [BGH, Beschluss vom 27.06.2023 - EnVR 22/22](envr-22-22.md) — Genereller sektoraler Produktivitätsfaktor III 1. Auswahlentscheidungen der Bundesnetzagentur, die sie bei der Bestimmung des generellen sektoralen Produktivitätsfaktors, der Wahl …
 - [BGH, Beschluss vom 27.06.2023 - EnVR 23/22](envr-23-22.md) — BGH, Beschluss EnVR 23/22
 - [BGH, Beschluss vom 27.06.2023 - EnVR 24/22](envr-24-22.md) — BGH, Beschluss EnVR 24/22
 - [BGH, Beschluss vom 27.06.2023 - EnVR 27/22](envr-27-22.md) — BGH, Beschluss EnVR 27/22
 - [BGH, Beschluss vom 27.06.2023 - EnVR 28/22](envr-28-22.md) — BGH, Beschluss EnVR 28/22
-- [BGH, Beschluss vom 27.06.2023 - EnVR 30/22](envr-30-22.md) — Energieversorgung: Ermittlung des generellen sektoralen Produktivitätsfaktors für die Betreiber von Elektrizitätsversorgungsnetzen für die dritte Regulierungspe
+- [BGH, Beschluss vom 27.06.2023 - EnVR 30/22](envr-30-22.md) — Energieversorgung: Ermittlung des generellen sektoralen Produktivitätsfaktors für die Betreiber von Elektrizitätsversorgungsnetzen für die dritte Regulierungsperiode
 - [BGH, Beschluss vom 27.06.2023 - EnVR 35/22](envr-35-22.md) — BGH, Beschluss EnVR 35/22
-- [BGH, Beschluss vom 27.06.2023 - KVZ 33/22](kvz-33-22.md) — Fusionskontrolle bei Zusammenschluss von Möbeleinzelhändlern: Überprüfung durch das Rechtsbeschwerdegericht; tatrichterliche Marktabgrenzung - Fusionskontrolle 
+- [BGH, Beschluss vom 27.06.2023 - KVZ 33/22](kvz-33-22.md) — Fusionskontrolle bei Zusammenschluss von Möbeleinzelhändlern: Überprüfung durch das Rechtsbeschwerdegericht; tatrichterliche Marktabgrenzung - Fusionskontrolle im Möbeleinzelhandel
 - [BGH, Beschluss vom 22.06.2023 - KZR 42/20](kzr-42-20.md) — Gegenstandswert der anwaltlichen Tätigkeit: Statthaftigkeit eines Festsetzungsantrags
 - [BGH, Beschluss vom 13.06.2023 - EnVR 28/21](envr-28-21.md) — BGH, Beschluss EnVR 28/21
-- [BGH, EuGH-Vorlage vom 13.06.2023 - KZR 71/21](kzr-71-21.md) — Vorabentscheidungsersuchen an den EuGH zur Auslegung des Vertrags über die Arbeitsweise der Europäischen Union: Anwendung der das Kartellverbot einschränkenden 
+- [BGH, EuGH-Vorlage vom 13.06.2023 - KZR 71/21](kzr-71-21.md) — Vorabentscheidungsersuchen an den EuGH zur Auslegung des Vertrags über die Arbeitsweise der Europäischen Union: Anwendung der das Kartellverbot einschränkenden Grundsätze des Meca …
 - [BGH, Beschluss vom 09.05.2023 - EnVR 16/20](envr-16-20.md) — Anhörungsrüge: Gehörsverletzung bei der Festlegung des generellen sektoralen Produktivitätsfaktors für Betreiber von Gasversorgungsnetzen
-- [BGH, Beschluss vom 25.04.2023 - EnVR 32/21](envr-32-21.md) — Notwendiger Kassenbestand Ein Kassenbestand ist aufgrund der Mittelwertbildung gemäß § 7 Abs. 1 Satz 4 GasNEV im Jahresanfangsbestand auch dann betriebsnotwendi
-- [BGH, Beschluss vom 25.04.2023 - EnVR 35/21](envr-35-21.md) — Negativer Kapitalkostenabzug 1. Das negative Eigenkapital eines Netzbetreibers ist auch dann insgesamt mit dem Zinssatz für Neuanlagen zu verzinsen, wenn zu des
-- [BGH, Urteil vom 04.04.2023 - KZR 20/21](kzr-20-21.md) — Vertriebskooperation im SPNV 1. Das Merkmal der Glaubhaftmachung in § 33g GWB ist eigenständig auszulegen. Es genügt, wenn aufgrund konkreter Anhaltspunkte eine
-- [BGH, Beschluss vom 21.03.2023 - EnVR 83/20](envr-83-20.md) — Vorabentscheidungsersuchen in energierechtlichem Rechtsstreit zwischen Energieversorgungsunternehmen und Verteilernetzbetreiber; Antrag auf Anonymisierung der D
-- [BGH, Beschluss vom 14.02.2023 - KVZ 38/20](kvz-38-20.md) — Wasserpreise Gießen 1. Ob die Kartellbehörde den durch einen Kartellverstoß erwirtschafteten Vorteil überhaupt und, wenn ja, nach § 34 Abs. 1 GWB abschöpft oder
+- [BGH, Beschluss vom 25.04.2023 - EnVR 32/21](envr-32-21.md) — Notwendiger Kassenbestand Ein Kassenbestand ist aufgrund der Mittelwertbildung gemäß § 7 Abs. 1 Satz 4 GasNEV im Jahresanfangsbestand auch dann betriebsnotwendig, wenn er nur …
+- [BGH, Beschluss vom 25.04.2023 - EnVR 35/21](envr-35-21.md) — Negativer Kapitalkostenabzug 1. Das negative Eigenkapital eines Netzbetreibers ist auch dann insgesamt mit dem Zinssatz für Neuanlagen zu verzinsen, wenn zu dessen …
+- [BGH, Urteil vom 04.04.2023 - KZR 20/21](kzr-20-21.md) — Vertriebskooperation im SPNV 1. Das Merkmal der Glaubhaftmachung in § 33g GWB ist eigenständig auszulegen. Es genügt, wenn aufgrund konkreter Anhaltspunkte eine gewisse …
+- [BGH, Beschluss vom 21.03.2023 - EnVR 83/20](envr-83-20.md) — Vorabentscheidungsersuchen in energierechtlichem Rechtsstreit zwischen Energieversorgungsunternehmen und Verteilernetzbetreiber; Antrag auf Anonymisierung der Daten
+- [BGH, Beschluss vom 14.02.2023 - KVZ 38/20](kvz-38-20.md) — Wasserpreise Gießen 1. Ob die Kartellbehörde den durch einen Kartellverstoß erwirtschafteten Vorteil überhaupt und, wenn ja, nach § 34 Abs. 1 GWB abschöpft oder aber im Wege der …
 - [BGH, Beschluss vom 25.01.2023 - KZR 111/18](kzr-111-18.md) — BGH, Beschluss KZR 111/18

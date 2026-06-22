@@ -2,19 +2,19 @@
 
 64 Entscheidung(en).
 
-- [BGH, Beschluss vom 17.12.2025 - XIII ZB 8/23](xiii-zb-8-23.md) — Versäumnisse anderer am Verfahren beteiligter inländischer Behörden sind der die Abschiebung betreibenden Behörde zuzurechnen (Bestätigung von BGH, Beschluss vo
+- [BGH, Beschluss vom 17.12.2025 - XIII ZB 8/23](xiii-zb-8-23.md) — Versäumnisse anderer am Verfahren beteiligter inländischer Behörden sind der die Abschiebung betreibenden Behörde zuzurechnen (Bestätigung von BGH, Beschluss vom 26. März 2024 - …
 - [BGH, Beschluss vom 02.12.2025 - XIII ZB 58/25](xiii-zb-58-25.md) — BGH, Beschluss XIII ZB 58/25
 - [BGH, Beschluss vom 02.12.2025 - XIII ZB 72/22](xiii-zb-72-22.md) — BGH, Beschluss XIII ZB 72/22
 - [BGH, Beschluss vom 01.12.2025 - XIII ZR 1/24](xiii-zr-1-24.md) — BGH, Beschluss XIII ZR 1/24
-- [BGH, Beschluss vom 25.11.2025 - XIII ZB 63/25](xiii-zb-63-25.md) — Ob ein Betroffener bereits einen anwaltlichen Vertreter hat, müssen die Haftgerichte mit den ihnen zur Verfügung stehenden Mitteln unter Berücksichtigung der im
+- [BGH, Beschluss vom 25.11.2025 - XIII ZB 63/25](xiii-zb-63-25.md) — Ob ein Betroffener bereits einen anwaltlichen Vertreter hat, müssen die Haftgerichte mit den ihnen zur Verfügung stehenden Mitteln unter Berücksichtigung der im …
 - [BGH, Beschluss vom 20.10.2025 - XIII ZA 2/25](xiii-za-2-25.md) — BGH, Beschluss XIII ZA 2/25
 - [BGH, Beschluss vom 20.10.2025 - XIII ZB 61/22](xiii-zb-61-22.md) — BGH, Beschluss XIII ZB 61/22
 - [BGH, Beschluss vom 20.10.2025 - XIII ZB 68/22](xiii-zb-68-22.md) — BGH, Beschluss XIII ZB 68/22
 - [BGH, Beschluss vom 20.10.2025 - XIII ZB 7/23](xiii-zb-7-23.md) — BGH, Beschluss XIII ZB 7/23
-- [BGH, Beschluss vom 20.10.2025 - XIII ZB 73/22](xiii-zb-73-22.md) — Fluchtgefahr kann auch im Anwendungsbereich der Rückführungsrichtlinie nur bei Vorliegen eines Vermutungstatbestands des § 62 Abs. 3a AufenthG oder eines konkre
+- [BGH, Beschluss vom 20.10.2025 - XIII ZB 73/22](xiii-zb-73-22.md) — Fluchtgefahr kann auch im Anwendungsbereich der Rückführungsrichtlinie nur bei Vorliegen eines Vermutungstatbestands des § 62 Abs. 3a AufenthG oder eines konkreten Anhaltspunkts …
 - [BGH, Beschluss vom 20.10.2025 - XIII ZB 78/22](xiii-zb-78-22.md) — BGH, Beschluss XIII ZB 78/22
 - [BGH, Beschluss vom 20.10.2025 - XIII ZB 81/22](xiii-zb-81-22.md) — BGH, Beschluss XIII ZB 81/22
-- [BGH, Beschluss vom 20.10.2025 - XIII ZB 84/22](xiii-zb-84-22.md) — Das Recht auf ein faires Verfahren vermittelt einem bedürftigen Betroffenen, der sich gegen eine gerichtlich angeordnete Überstellungshaft wenden will, keinen u
+- [BGH, Beschluss vom 20.10.2025 - XIII ZB 84/22](xiii-zb-84-22.md) — Das Recht auf ein faires Verfahren vermittelt einem bedürftigen Betroffenen, der sich gegen eine gerichtlich angeordnete Überstellungshaft wenden will, keinen unbedingten Anspruch …
 - [BGH, Beschluss vom 20.10.2025 - XIII ZB 86/22](xiii-zb-86-22.md) — BGH, Beschluss XIII ZB 86/22
 - [BGH, Beschluss vom 20.10.2025 - XIII ZB 88/22](xiii-zb-88-22.md) — BGH, Beschluss XIII ZB 88/22
 - [BGH, Beschluss vom 20.10.2025 - XIII ZB 89/22](xiii-zb-89-22.md) — BGH, Beschluss XIII ZB 89/22
@@ -32,37 +32,37 @@
 - [BGH, Beschluss vom 29.07.2025 - XIII ZB 17/23](xiii-zb-17-23.md) — BGH, Beschluss XIII ZB 17/23
 - [BGH, Beschluss vom 29.07.2025 - XIII ZB 19/23](xiii-zb-19-23.md) — BGH, Beschluss XIII ZB 19/23
 - [BGH, Beschluss vom 29.07.2025 - XIII ZB 39/21](xiii-zb-39-21.md) — BGH, Beschluss XIII ZB 39/21
-- [BGH, Beschluss vom 29.07.2025 - XIII ZB 44/22](xiii-zb-44-22.md) — 1. Ein Richter auf Probe ist auch dann nicht zur Entscheidung über eine Beschwerde in Freiheitsentziehungssachen berufen, wenn die Beschwerde zunächst auf einen
+- [BGH, Beschluss vom 29.07.2025 - XIII ZB 44/22](xiii-zb-44-22.md) — 1. Ein Richter auf Probe ist auch dann nicht zur Entscheidung über eine Beschwerde in Freiheitsentziehungssachen berufen, wenn die Beschwerde zunächst auf einen Planrichter als …
 - [BGH, Beschluss vom 29.07.2025 - XIII ZB 56/22](xiii-zb-56-22.md) — BGH, Beschluss XIII ZB 56/22
 - [BGH, Beschluss vom 29.07.2025 - XIII ZB 57/22](xiii-zb-57-22.md) — BGH, Beschluss XIII ZB 57/22
 - [BGH, Beschluss vom 29.07.2025 - XIII ZB 6/23](xiii-zb-6-23.md) — BGH, Beschluss XIII ZB 6/23
-- [BGH, Beschluss vom 29.07.2025 - XIII ZB 62/21](xiii-zb-62-21.md) — 1. Bei der Anordnung von Sicherungshaft wird Fluchtgefahr nicht nach § 62 Abs. 3a Nr. 2 AufenthG widerleglich vermutet, wenn die Behörde den erforderlichen Hinw
+- [BGH, Beschluss vom 29.07.2025 - XIII ZB 62/21](xiii-zb-62-21.md) — 1. Bei der Anordnung von Sicherungshaft wird Fluchtgefahr nicht nach § 62 Abs. 3a Nr. 2 AufenthG widerleglich vermutet, wenn die Behörde den erforderlichen Hinweis, wonach im Fall …
 - [BGH, Beschluss vom 29.07.2025 - XIII ZB 67/22](xiii-zb-67-22.md) — BGH, Beschluss XIII ZB 67/22
 - [BGH, Beschluss vom 28.07.2025 - XIII ZB 3/22](xiii-zb-3-22.md) — BGH, Beschluss XIII ZB 3/22
 - [BGH, Beschluss vom 28.07.2025 - XIII ZB 55/24](xiii-zb-55-24.md) — BGH, Beschluss XIII ZB 55/24
 - [BGH, Beschluss vom 28.07.2025 - XIII ZB 59/21](xiii-zb-59-21.md) — BGH, Beschluss XIII ZB 59/21
-- [BGH, Urteil vom 15.07.2025 - XIII ZR 2/23](xiii-zr-2-23.md) — KWK-Zuschlag Zur Auslegung eines Zulassungsbescheids für eine hocheffiziente bestehende Kraft-Wärme-Kopplungs-Anlage (hier: keine Festlegung der Zuschlagshöhe g
+- [BGH, Urteil vom 15.07.2025 - XIII ZR 2/23](xiii-zr-2-23.md) — KWK-Zuschlag Zur Auslegung eines Zulassungsbescheids für eine hocheffiziente bestehende Kraft-Wärme-Kopplungs-Anlage (hier: keine Festlegung der Zuschlagshöhe gemäß § 13 Abs. 3 …
 - [BGH, Beschluss vom 14.07.2025 - XIII ZB 12/24](xiii-zb-12-24.md) — Zur Zulässigkeit des Haftantrags (hier: Darlegungsanforderungen in Bezug auf die Zustellung der Rückkehrentscheidung).
 - [BGH, Beschluss vom 14.07.2025 - XIII ZB 18/25](xiii-zb-18-25.md) — BGH, Beschluss XIII ZB 18/25
-- [BGH, Beschluss vom 14.07.2025 - XIII ZB 24/24](xiii-zb-24-24.md) — 1. Die Anforderungen des § 417 Abs. 2 Satz 2 Nr. 5 FamFG gelten auch für den auf Anordnung von Mitwirkungshaft nach § 62 Abs. 6 AufenthG gerichteten Haftantrag.
+- [BGH, Beschluss vom 14.07.2025 - XIII ZB 24/24](xiii-zb-24-24.md) — 1. Die Anforderungen des § 417 Abs. 2 Satz 2 Nr. 5 FamFG gelten auch für den auf Anordnung von Mitwirkungshaft nach § 62 Abs. 6 AufenthG gerichteten Haftantrag. 2. Bei der …
 - [BGH, Beschluss vom 01.07.2025 - XIII ZB 30/23](xiii-zb-30-23.md) — BGH, Beschluss XIII ZB 30/23
 - [BGH, Beschluss vom 01.07.2025 - XIII ZB 50/22](xiii-zb-50-22.md) — BGH, Beschluss XIII ZB 50/22
-- [BGH, Beschluss vom 01.07.2025 - XIII ZB 61/21](xiii-zb-61-21.md) — Zu den Voraussetzungen einer öffentlichen Zustellung bei unbekanntem Aufenthaltsort des Betroffenen (hier: Bescheid über den Verlust des Rechts auf Einreise und
-- [BGH, Beschluss vom 17.06.2025 - XIII ZB 2/21](xiii-zb-2-21.md) — Das Rechtsbeschwerdegericht kann die vom Beschwerdegericht getroffene Kostenentscheidung nicht abändern, wenn es wegen der Unzulässigkeit der Rechtsbeschwerde m
+- [BGH, Beschluss vom 01.07.2025 - XIII ZB 61/21](xiii-zb-61-21.md) — Zu den Voraussetzungen einer öffentlichen Zustellung bei unbekanntem Aufenthaltsort des Betroffenen (hier: Bescheid über den Verlust des Rechts auf Einreise und Aufenthalt im …
+- [BGH, Beschluss vom 17.06.2025 - XIII ZB 2/21](xiii-zb-2-21.md) — Das Rechtsbeschwerdegericht kann die vom Beschwerdegericht getroffene Kostenentscheidung nicht abändern, wenn es wegen der Unzulässigkeit der Rechtsbeschwerde mit der inhaltlichen …
 - [BGH, Beschluss vom 17.06.2025 - XIII ZB 23/24](xiii-zb-23-24.md) — BGH, Beschluss XIII ZB 23/24
 - [BGH, Beschluss vom 17.06.2025 - XIII ZB 26/22](xiii-zb-26-22.md) — BGH, Beschluss XIII ZB 26/22
-- [BGH, Beschluss vom 17.06.2025 - XIII ZB 7/24](xiii-zb-7-24.md) — Es bestand vor der Einführung von § 62d AufenthG mit Wirkung zum 27. Februar 2024 keine aus dem Grundsatz des fairen Verfahrens folgende allgemeine Pflicht des 
+- [BGH, Beschluss vom 17.06.2025 - XIII ZB 7/24](xiii-zb-7-24.md) — Es bestand vor der Einführung von § 62d AufenthG mit Wirkung zum 27. Februar 2024 keine aus dem Grundsatz des fairen Verfahrens folgende allgemeine Pflicht des Gerichts, den …
 - [BGH, Beschluss vom 16.06.2025 - XIII ZB 51/21](xiii-zb-51-21.md) — BGH, Beschluss XIII ZB 51/21
-- [BGH, Beschluss vom 27.05.2025 - XIII ZB 71/24](xiii-zb-71-24.md) — Ein Verstoß gegen den Grundsatz des fairen Verfahrens liegt nicht vor, wenn ein verfahrensbevollmächtigter Rechtsanwalt in einem Freiheitsentziehungsverfahren k
+- [BGH, Beschluss vom 27.05.2025 - XIII ZB 71/24](xiii-zb-71-24.md) — Ein Verstoß gegen den Grundsatz des fairen Verfahrens liegt nicht vor, wenn ein verfahrensbevollmächtigter Rechtsanwalt in einem Freiheitsentziehungsverfahren kurz vor einem …
 - [BGH, Beschluss vom 26.05.2025 - XIII ZB 12/25](xiii-zb-12-25.md) — Abschiebungshaft: Verstoß gegen das Beschleunigungsgebot durch erhebliche zeitliche Verzögerung bei der Passersatzpapierbeschaffung
 - [BGH, Beschluss vom 26.05.2025 - XIII ZB 55/22](xiii-zb-55-22.md) — Abschiebehaft: Vorliegen einer Abschiebungsandrohung
 - [BGH, Beschluss vom 20.05.2025 - XIII ZB 21/25](xiii-zb-21-25.md) — BGH, Beschluss XIII ZB 21/25
 - [BGH, Beschluss vom 13.05.2025 - XIII ZB 16/22](xiii-zb-16-22.md) — Abschiebehaftverfahren und Beschleunigungsgebot
-- [BGH, Beschluss vom 13.05.2025 - XIII ZB 17/22](xiii-zb-17-22.md) — Verstoß gegen das Recht auf ein faires Verfahren durch Haftanordnung ohne bevollmächtigten Rechtsanwalt und Entscheidung über Haftverlängerung; der Heilung von 
-- [BGH, Beschluss vom 08.04.2025 - XIII ZB 21/24](xiii-zb-21-24.md) — 1. Der ordnungsgemäßen Übertragung eines handschriftlich unterzeichneten Beschlusses in ein elektronisches Dokument steht es nicht entgegen, wenn aus dem gemäß 
-- [BGH, Beschluss vom 25.02.2025 - XIII ZB 14/22](xiii-zb-14-22.md) — Die förmliche Beiziehung der Ausländerakte wird nicht durch die Vorlage von Dokumenten daraus entbehrlich, wenn sich bei den übermittelten Unterlagen nicht der 
+- [BGH, Beschluss vom 13.05.2025 - XIII ZB 17/22](xiii-zb-17-22.md) — Verstoß gegen das Recht auf ein faires Verfahren durch Haftanordnung ohne bevollmächtigten Rechtsanwalt und Entscheidung über Haftverlängerung; der Heilung von Verfahrensfehlern
+- [BGH, Beschluss vom 08.04.2025 - XIII ZB 21/24](xiii-zb-21-24.md) — 1. Der ordnungsgemäßen Übertragung eines handschriftlich unterzeichneten Beschlusses in ein elektronisches Dokument steht es nicht entgegen, wenn aus dem gemäß § 14 Abs. 3 FamFG …
+- [BGH, Beschluss vom 25.02.2025 - XIII ZB 14/22](xiii-zb-14-22.md) — Die förmliche Beiziehung der Ausländerakte wird nicht durch die Vorlage von Dokumenten daraus entbehrlich, wenn sich bei den übermittelten Unterlagen nicht der Bescheid des …
 - [BGH, Beschluss vom 14.01.2025 - XIII ZB 11/22](xiii-zb-11-22.md) — BGH, Beschluss XIII ZB 11/22
 - [BGH, Beschluss vom 14.01.2025 - XIII ZB 21/23](xiii-zb-21-23.md) — BGH, Beschluss XIII ZB 21/23
 - [BGH, Beschluss vom 14.01.2025 - XIII ZB 48/20](xiii-zb-48-20.md) — (Anforderungen an einen zulässigen Abschiebungshaftantrag: Fehlende Angabe über frühestmöglichen Abschiebungstermin)
 - [BGH, Beschluss vom 14.01.2025 - XIII ZB 51/23](xiii-zb-51-23.md) — Wird über die Beschwerde gegen eine rechtmäßig angeordnete Haft (vermeidbar) verzögert entschieden, führt das nicht zur Rechtswidrigkeit der Haft.
-- [BGH, Beschluss vom 14.01.2025 - XIII ZB 65/23](xiii-zb-65-23.md) — Welches Gewicht der Aufwendung erheblicher Geldbeträge für die unerlaubte Einreise als konkretem Anhaltspunkt für eine Fluchtgefahr bei der vorzunehmenden Gesam
+- [BGH, Beschluss vom 14.01.2025 - XIII ZB 65/23](xiii-zb-65-23.md) — Welches Gewicht der Aufwendung erheblicher Geldbeträge für die unerlaubte Einreise als konkretem Anhaltspunkt für eine Fluchtgefahr bei der vorzunehmenden Gesamtwürdigung zukommt …

@@ -26,7 +26,7 @@
 - [BGH, Urteil vom 29.10.2025 - 6 StR 242/25](6-str-242-25.md) — BGH, Urteil 6 StR 242/25
 - [BGH, Beschluss vom 28.10.2025 - 6 StR 301/25](6-str-301-25.md) — BGH, Beschluss 6 StR 301/25
 - [BGH, Beschluss vom 27.10.2025 - 6 StR 374/25](6-str-374-25.md) — Aufhebung des Strafausspruchs wegen unzureichender Berücksichtigung mildernder Umstände bei sexuellem Missbrauch von Kindern
-- [BGH, Urteil vom 16.10.2025 - 6 StR 72/25](6-str-72-25.md) — Darlegungen im Urteil bei Verurteilung wegen besonders schweren Raubes in Tateinheit mit versuchtem Mord; Amphetaminkonsum des Angeklagten; Sachverständigenguta
+- [BGH, Urteil vom 16.10.2025 - 6 StR 72/25](6-str-72-25.md) — Darlegungen im Urteil bei Verurteilung wegen besonders schweren Raubes in Tateinheit mit versuchtem Mord; Amphetaminkonsum des Angeklagten; Sachverständigengutachten in …
 - [BGH, Urteil vom 15.10.2025 - 6 StR 179/25](6-str-179-25.md) — Anforderungen an Unterbringung in psychiatrischem Krankenhaus
 - [BGH, Beschluss vom 15.10.2025 - 6 StR 441/25](6-str-441-25.md) — BGH, Beschluss 6 StR 441/25
 - [BGH, Urteil vom 15.10.2025 - 6 StR 622/24](6-str-622-24.md) — Einziehung von Geldbeträgen aus Betäubungsmittelgeschäften
@@ -45,7 +45,7 @@
 - [BGH, Beschluss vom 23.09.2025 - 6 StR 410/25](6-str-410-25.md) — Schriftformerfordernis bei der Revisionseinlegung
 - [BGH, Beschluss vom 28.08.2025 - 6 StR 239/25](6-str-239-25.md) — BGH, Beschluss 6 StR 239/25
 - [BGH, Beschluss vom 27.08.2025 - 6 StR 33/25](6-str-33-25.md) — BGH, Beschluss 6 StR 33/25
-- [BGH, Beschluss vom 26.08.2025 - 6 StR 231/25](6-str-231-25.md) — Anrechnung von im Ausland erlittener Freiheitsentziehung: Festnahme des Angeklagten im Ausland und Abschiebung nach Deutschland vor Eingang eines Auslieferungse
+- [BGH, Beschluss vom 26.08.2025 - 6 StR 231/25](6-str-231-25.md) — Anrechnung von im Ausland erlittener Freiheitsentziehung: Festnahme des Angeklagten im Ausland und Abschiebung nach Deutschland vor Eingang eines Auslieferungsersuchens
 - [BGH, Beschluss vom 21.08.2025 - 6 StR 157/25](6-str-157-25.md) — BGH, Beschluss 6 StR 157/25
 - [BGH, Beschluss vom 21.08.2025 - 6 StR 256/25](6-str-256-25.md) — BGH, Beschluss 6 StR 256/25
 - [BGH, Beschluss vom 21.08.2025 - 6 StR 259/25](6-str-259-25.md) — BGH, Beschluss 6 StR 259/25
@@ -90,7 +90,7 @@
 - [BGH, Beschluss vom 10.06.2025 - 6 StR 146/25](6-str-146-25.md) — BGH, Beschluss 6 StR 146/25
 - [BGH, Beschluss vom 10.06.2025 - 6 StR 163/25](6-str-163-25.md) — BGH, Beschluss 6 StR 163/25
 - [BGH, Beschluss vom 10.06.2025 - 6 StR 176/25](6-str-176-25.md) — BGH, Beschluss 6 StR 176/25
-- [BGH, Beschluss vom 10.06.2025 - 6 StR 66/25](6-str-66-25.md) — Unterbringung in einer Entziehungsanstalt: Heranziehung statistischer Werte bei der Prüfung der Erfolgsaussicht einer Drogentherapie; Begriff des Hangs nach der
+- [BGH, Beschluss vom 10.06.2025 - 6 StR 66/25](6-str-66-25.md) — Unterbringung in einer Entziehungsanstalt: Heranziehung statistischer Werte bei der Prüfung der Erfolgsaussicht einer Drogentherapie; Begriff des Hangs nach der Neufassung des …
 - [BGH, Beschluss vom 10.06.2025 - 6 StR 683/24](6-str-683-24.md) — BGH, Beschluss 6 StR 683/24
 - [BGH, Beschluss vom 27.05.2025 - 6 StR 133/25](6-str-133-25.md) — Gefährlichkeitsprognose bei Unterbringung in psychiatrischem Krankenhaus; Versagung der Strafaussetzung zur Bewährung
 - [BGH, Beschluss vom 27.05.2025 - 6 StR 294/24](6-str-294-24.md) — Konkludente Täuschung bei Abrechnung nicht ordnungsgemäß erbrachter Pflegeleistungen; Rolle der Pflegefachkraft für Erstattungsfähigkeit und Schadensbemessung
@@ -98,7 +98,7 @@
 - [BGH, Beschluss vom 15.05.2025 - 6 StR 360/24](6-str-360-24.md) — Besonders schwerer sexueller Übergriff: Verwendung eines Fentanyl-Pflasters als "gefährliches Werkzeug"
 - [BGH, Beschluss vom 15.05.2025 - 6 StR 37/25](6-str-37-25.md) — BGH, Beschluss 6 StR 37/25
 - [BGH, Beschluss vom 15.05.2025 - 6 StR 546/24](6-str-546-24.md) — Strafverurteilung wegen Amtsanmaßung in Mittäterschaft u.a.: Strafbarkeit "falscher Polizeibeamter"
-- [BGH, Beschluss vom 14.05.2025 - 6 StR 25/25](6-str-25-25.md) — Zusammenhang zwischen dem Einsatz des Nötigungsmittels und der Vermögensverfügung im Fall der räuberischen Erpressung; Voraussetzungen eines minderschweren Fall
+- [BGH, Beschluss vom 14.05.2025 - 6 StR 25/25](6-str-25-25.md) — Zusammenhang zwischen dem Einsatz des Nötigungsmittels und der Vermögensverfügung im Fall der räuberischen Erpressung; Voraussetzungen eines minderschweren Falles bei Verstößen …
 - [BGH, Beschluss vom 14.05.2025 - 6 StR 56/25](6-str-56-25.md) — BGH, Beschluss 6 StR 56/25
 - [BGH, Urteil vom 14.05.2025 - 6 StR 623/24](6-str-623-24.md) — Strafverfahren wegen besonders schweren räuberischen Diebstahls: Beweiswürdigung von DNA-Spuren
 - [BGH, Beschluss vom 14.05.2025 - 6 StR 684/24](6-str-684-24.md) — BGH, Beschluss 6 StR 684/24
@@ -169,7 +169,7 @@
 - [BGH, Urteil vom 08.01.2025 - 6 StR 241/24](6-str-241-24.md) — Einziehung von Bargeld bei ungeklärter gegenständlicher Existenz und Herkunft im Betäubungsmittelkontext
 - [BGH, Beschluss vom 08.01.2025 - 6 StR 417/24](6-str-417-24.md) — BGH, Beschluss 6 StR 417/24
 - [BGH, Urteil vom 08.01.2025 - 6 StR 495/24](6-str-495-24.md) — Heimtückischer Überraschungsangriff im öffentlichen Raum bei Beziehungskonflikt
-- [BGH, Beschluss vom 08.01.2025 - 6 StR 597/24](6-str-597-24.md) — Bei der Steuerungsfähigkeit geht es um die Fähigkeit, entsprechend der Unrechtseinsicht zu handeln, also um Hemmungsvermögen, Willenssteuerung und Entscheidungs
+- [BGH, Beschluss vom 08.01.2025 - 6 StR 597/24](6-str-597-24.md) — Bei der Steuerungsfähigkeit geht es um die Fähigkeit, entsprechend der Unrechtseinsicht zu handeln, also um Hemmungsvermögen, Willenssteuerung und Entscheidungssteuerung, nicht …
 - [BGH, Beschluss vom 08.01.2025 - 6 StR 654/24](6-str-654-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung der Unterbringungsentscheidung bei Feststellung einer Intelligenzminderung
 - [BGH, Beschluss vom 07.01.2025 - 6 StR 481/24](6-str-481-24.md) — Bewertung des Zusammenwirkens mehrerer Täter bei gefährlicher Körperverletzung
 - [BGH, Beschluss vom 07.01.2025 - 6 StR 583/24](6-str-583-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldfähigkeit bei akuter polymorpher psychotischer Störung ohne Symptome einer Schizophrenie

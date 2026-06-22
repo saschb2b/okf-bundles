@@ -2,33 +2,33 @@
 
 131 Entscheidung(en).
 
-- [BGH, Urteil vom 20.12.2018 - 3 StR 236/17](3-str-236-17.md) — 1. Eine Person befindet sich gemäß Sinne § 8 Abs. 6 Nr. 2 VStGB in der Gewalt der gegnerischen Konfliktpartei jedenfalls dann, wenn sie sich in einem von dieser
+- [BGH, Urteil vom 20.12.2018 - 3 StR 236/17](3-str-236-17.md) — 1. Eine Person befindet sich gemäß Sinne § 8 Abs. 6 Nr. 2 VStGB in der Gewalt der gegnerischen Konfliktpartei jedenfalls dann, wenn sie sich in einem von dieser kontrollierten …
 - [BGH, Beschluss vom 19.12.2018 - 3 StR 263/18](3-str-263-18.md) — Strafbare Untreue des Betreuers wegen Vermögensverfügungen aufgrund unwirksamen Testaments
 - [BGH, Beschluss vom 19.12.2018 - 3 StR 391/18](3-str-391-18.md) — Strafzumessung bei gefährlicher Körperverletzung: Bewertung einer wahrheitswidrigen Notwehrbehauptung
 - [BGH, Beschluss vom 19.12.2018 - 3 StR 516/18](3-str-516-18.md) — Strafverfahren: Ablehnung eines Beweisantrags wegen Bedeutungslosigkeit der unter Beweis gestellten Indiztatsache
 - [BGH, Beschluss vom 18.12.2018 - 3 StR 270/18](3-str-270-18.md) — Falschaussage bei falschen Angaben des Sachverständigen zu beruflicher Stellung
 - [BGH, Beschluss vom 18.12.2018 - 3 StR 427/18](3-str-427-18.md) — Sexueller Missbrauch eines Kindes durch Vornahme sexueller Handlungen vor dem Kind: Vergewaltigung der Kindesmutter in Anwesenheit des Kindes
-- [BGH, Urteil vom 13.12.2018 - 3 StR 307/18](3-str-307-18.md) — In den Fällen der erweiterten Einziehung gemäß § 73a Abs. 1 StGB hindert ein von dem Angeklagten erklärter Verzicht auf die Herausgabe der betreffenden Gegenstä
+- [BGH, Urteil vom 13.12.2018 - 3 StR 307/18](3-str-307-18.md) — In den Fällen der erweiterten Einziehung gemäß § 73a Abs. 1 StGB hindert ein von dem Angeklagten erklärter Verzicht auf die Herausgabe der betreffenden Gegenstände das Tatgericht …
 - [BGH, Beschluss vom 13.12.2018 - 3 StR 386/18](3-str-386-18.md) — Strafzumessung: Strafschärfende Berücksichtigung der Warnwirkung eines früheren eingestellten Verfahrens
 - [BGH, Beschluss vom 11.12.2018 - 3 StR 378/18](3-str-378-18.md) — Betäubungsmitteldelikt: Bestimmen eines Minderjährigen zur Förderung des Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 11.12.2018 - 3 StR 517/18](3-str-517-18.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Symptomatischer Zusammenhang zwischen psychischer Störung und Anlasstaten
-- [BGH, Urteil vom 29.11.2018 - 3 StR 300/18](3-str-300-18.md) — Vorbehaltene Sicherungsverwahrung: Anforderungen an die Darlegung eines Hangs zu erheblichen Straftaten; nicht sicher feststellbarer Hang; Prüfung der Erheblich
+- [BGH, Urteil vom 29.11.2018 - 3 StR 300/18](3-str-300-18.md) — Vorbehaltene Sicherungsverwahrung: Anforderungen an die Darlegung eines Hangs zu erheblichen Straftaten; nicht sicher feststellbarer Hang; Prüfung der Erheblichkeit der Straftaten
 - [BGH, Beschluss vom 29.11.2018 - 3 StR 388/18](3-str-388-18.md) — Wiedereinsetzung im Strafverfahren: Rechtzeitiger Eingang der per Telefax übersendeten Revisionseinlegung
-- [BGH, Urteil vom 29.11.2018 - 3 StR 405/18](3-str-405-18.md) — Betäubungsmitteldelikt: Bestimmen eines Minderjährigen zum Handel mit Betäubungsmitteln und Überlassung der Betäubungsmittel; Konkurrenzverhältnis und Strafzume
+- [BGH, Urteil vom 29.11.2018 - 3 StR 405/18](3-str-405-18.md) — Betäubungsmitteldelikt: Bestimmen eines Minderjährigen zum Handel mit Betäubungsmitteln und Überlassung der Betäubungsmittel; Konkurrenzverhältnis und Strafzumessung
 - [BGH, Beschluss vom 29.11.2018 - 3 StR 625/17](3-str-625-17.md) — Festsetzung des Gegenstandswerts der anwaltlichen Tätigkeit
 - [BGH, Beschluss vom 28.11.2018 - 3 ARs 10/18](3-ars-10-18.md) — Anordnung des Ermittlungsrichters des BGH nach dem Untersuchungsausschussgesetz: Antrag auf Aussetzung der Vollziehung der Anordnung nach Beschwerdeeinlegung
 - [BGH, Beschluss vom 28.11.2018 - 3 StR 440/18](3-str-440-18.md) — Unterschlagung: Manifestation der Zueignungsabsicht bei Nichtherausgabe eines Mobiltelefons
 - [BGH, Beschluss vom 27.11.2018 - 3 StR 299/18](3-str-299-18.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an einen Hang
-- [BGH, Beschluss vom 27.11.2018 - 3 StR 339/18](3-str-339-18.md) — Revisionsbegründung in Strafsachen: Inbegriffsrüge wegen Fehlerhaftigkeit einer prozessordnungsgemäß in die Hauptverhandlung eingeführten Übersetzung eines frem
+- [BGH, Beschluss vom 27.11.2018 - 3 StR 339/18](3-str-339-18.md) — Revisionsbegründung in Strafsachen: Inbegriffsrüge wegen Fehlerhaftigkeit einer prozessordnungsgemäß in die Hauptverhandlung eingeführten Übersetzung eines fremdsprachigen …
 - [BGH, Beschluss vom 27.11.2018 - 3 StR 429/18](3-str-429-18.md) — Fehlerhafte Beweiswürdigung nach abgelehntem Beweisantrag
-- [BGH, Beschluss vom 14.11.2018 - 3 StR 447/18](3-str-447-18.md) — Einziehungsanordnung im Strafverfahren: Abgrenzung der Abschöpfung des Erlangten beim Täter von der Dritteinziehung; Bedeutung der Eröffnung des Privatinsolvenz
+- [BGH, Beschluss vom 14.11.2018 - 3 StR 447/18](3-str-447-18.md) — Einziehungsanordnung im Strafverfahren: Abgrenzung der Abschöpfung des Erlangten beim Täter von der Dritteinziehung; Bedeutung der Eröffnung des Privatinsolvenzverfahrens über das …
 - [BGH, Beschluss vom 13.11.2018 - 3 StR 243/18](3-str-243-18.md) — Unterbringung in einer Entziehungsanstalt: Absehen vom Vorwegvollzug der Freiheitsstrafe vor der Unterbringung
 - [BGH, Beschluss vom 31.10.2018 - 3 StR 432/18](3-str-432-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Feststellungen zur Erheblichkeit von Körperverletzungen im Rahmen der Gefährlichkeitsprognose
 - [BGH, Beschluss vom 30.10.2018 - 3 StR 167/18](3-str-167-18.md) — (Leugnung des Holocaust durch Abspielen von Liedern)
 - [BGH, Beschluss vom 30.10.2018 - 3 StR 27/18](3-str-27-18.md) — Verunglimpfung des Staates: Strafbarkeit eines Liedes
-- [BGH, Beschluss vom 18.10.2018 - 3 StR 126/18](3-str-126-18.md) — Körperverletzung mit Todesfolge in Tateinheit mit schwerer Misshandlung von Schutzbefohlenen durch Unterlassen: Voraussetzungen einer mittäterschaftlichen Begeh
+- [BGH, Beschluss vom 18.10.2018 - 3 StR 126/18](3-str-126-18.md) — Körperverletzung mit Todesfolge in Tateinheit mit schwerer Misshandlung von Schutzbefohlenen durch Unterlassen: Voraussetzungen einer mittäterschaftlichen Begehungsweise durch …
 - [BGH, Beschluss vom 18.10.2018 - 3 StR 262/18](3-str-262-18.md) — Unterbringung in einer Entziehungsanstalt: Symptomatischer Zusammenhang zwischen Hang und Anlasstaten bei unerlaubtem Handeltreiben mit Betäubungsmitteln
-- [BGH, Urteil vom 18.10.2018 - 3 StR 37/18](3-str-37-18.md) — Strafurteil: Anforderungen an die Beweiswürdigung zur Abgrenzung von Totschlag und Mord durch Berücksichtigung des strafrechtlich relevanten Vorlebens des Angek
+- [BGH, Urteil vom 18.10.2018 - 3 StR 37/18](3-str-37-18.md) — Strafurteil: Anforderungen an die Beweiswürdigung zur Abgrenzung von Totschlag und Mord durch Berücksichtigung des strafrechtlich relevanten Vorlebens des Angeklagten …
 - [BGH, Beschluss vom 18.10.2018 - 3 StR 408/18](3-str-408-18.md) — Strafverurteilung wegen Mordes: Feststellung der besonderen Schwere der Schuld; Prüfung einer verminderten Steuerungsfähigkeit aufgrund affektiver Erregung
 - [BGH, Beschluss vom 16.10.2018 - 3 StR 168/18](3-str-168-18.md) — Zulässigkeit der Anberaumung von Hauptverhandlungen an Feiertagen
 - [BGH, Beschluss vom 16.10.2018 - 3 StR 256/18](3-str-256-18.md) — Ersetzung der persönlichen Vernehmung durch Vorspielen der Bild-Ton-Aufzeichnung
@@ -46,7 +46,7 @@
 - [BGH, Beschluss vom 22.08.2018 - 3 StR 128/18](3-str-128-18.md) — Neue Feststellungen im Anschluss an die Urteilsaufhebung im Revisionsverfahren
 - [BGH, Beschluss vom 22.08.2018 - 3 StR 252/18](3-str-252-18.md) — Rechtsfehler bei der konkreten Ermittlung von Betrugsschäden
 - [BGH, Beschluss vom 22.08.2018 - 3 StR 449/17](3-str-449-17.md) — Subventionsbetrug: Vorliegen subventionserheblicher Tatsachen
-- [BGH, Beschluss vom 22.08.2018 - 3 StR 59/18](3-str-59-18.md) — Versuchter Totschlag: Konkurrenzverhältnis bei Abgabe von Schüssen gegen mehrere Polizisten; Strafrahmenwahl bei Nebeneinander eines minder schweren Falls und e
+- [BGH, Beschluss vom 22.08.2018 - 3 StR 59/18](3-str-59-18.md) — Versuchter Totschlag: Konkurrenzverhältnis bei Abgabe von Schüssen gegen mehrere Polizisten; Strafrahmenwahl bei Nebeneinander eines minder schweren Falls und eines gesetzlich …
 - [BGH, Beschluss vom 21.08.2018 - 3 StR 145/18](3-str-145-18.md) — Anwendung des Verschlechterungsverbots auf die Einziehungsanordnung
 - [BGH, Beschluss vom 21.08.2018 - 3 StR 205/18](3-str-205-18.md) — Strafbefreiender Rücktritt beim versuchten Betrug
 - [BGH, Beschluss vom 21.08.2018 - 3 StR 292/17](3-str-292-17.md) — Voraussetzungen des Bestehens einer Vermögenbetreuungspflicht i.S.d. Straftatbestands der Untreue
@@ -55,14 +55,14 @@
 - [BGH, Beschluss vom 07.08.2018 - 3 StR 301/18](3-str-301-18.md) — Konkurrenzverhältnis zwischen Lieferung und Abverkauf von Betäubungsmitteln
 - [BGH, Beschluss vom 07.08.2018 - 3 StR 345/17](3-str-345-17.md) — Herstellen und Handeltreiben mit Dopingmitteln: Konkurrenzverhältnis der Tatvarianten
 - [BGH, Beschluss vom 07.08.2018 - 3 StR 47/18](3-str-47-18.md) — Totschlag: Prüfungsmaßstab für das Vorliegen eines besonders schweren Falles
-- [BGH, Beschluss vom 07.08.2018 - 3 StR 74/18](3-str-74-18.md) — Mitgliedschaft in einer kriminellen Vereinigung und gemeinschaftliche gefährliche Körperverletzung: Bestimmung der Konkurrenzverhältnisse bei strafbaren Handlun
+- [BGH, Beschluss vom 07.08.2018 - 3 StR 74/18](3-str-74-18.md) — Mitgliedschaft in einer kriminellen Vereinigung und gemeinschaftliche gefährliche Körperverletzung: Bestimmung der Konkurrenzverhältnisse bei strafbaren Handlungen im Rahmen der …
 - [BGH, Urteil vom 01.08.2018 - 3 StR 651/17](3-str-651-17.md) — Versuch der schweren räuberischen Erpressung: Error in persona des Mittäters
 - [BGH, Beschluss vom 31.07.2018 - 3 StR 620/17](3-str-620-17.md) — Vorteilsannahme bei der Werbevermarktung im öffentlichen Personennahverkehr
 - [BGH, Urteil vom 26.07.2018 - 3 StR 174/18](3-str-174-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefahr der Begehung erheblicher rechtswidriger Taten; Prüfungsmaßstab bei Gewalt- und Aggressionsdelikten
 - [BGH, Urteil vom 26.07.2018 - 3 StR 189/18](3-str-189-18.md) — Einheitliche Jugendstrafe bei nicht erledigter anderweitiger Verurteilung
 - [BGH, Beschluss vom 26.07.2018 - 3 StR 626/17](3-str-626-17.md) — Geldwäsche: Beweiswürdigung hinsichtlich der Feststellung der Vortat; vorsatzausschließender Irrtum über das Vorliegen einer tauglichen Vortat
 - [BGH, Beschluss vom 26.07.2018 - 3 StR 627/17](3-str-627-17.md) — Anwendbarkeit des deutschen Strafrechts auf eine Geldwäsche bei Handeln in den Niederlanden
-- [BGH, Beschluss vom 24.07.2018 - 3 StR 132/18](3-str-132-18.md) — Strafbarkeit eines vermögensfürsorgepflichtigen gesetzlichen Betreuers wegen Untreue: Veranlassung des testierunfähigen Betreuten zu seiner Ernennung zum Testam
+- [BGH, Beschluss vom 24.07.2018 - 3 StR 132/18](3-str-132-18.md) — Strafbarkeit eines vermögensfürsorgepflichtigen gesetzlichen Betreuers wegen Untreue: Veranlassung des testierunfähigen Betreuten zu seiner Ernennung zum Testamentsvollstrecker
 - [BGH, Beschluss vom 24.07.2018 - 3 StR 236/15](3-str-236-15.md) — BGH, Beschluss 3 StR 236/15
 - [BGH, Beschluss vom 24.07.2018 - 3 StR 88/17](3-str-88-17.md) — Tateinheitliche Verwirklichung mehrerer Rauschgiftgeschäfte "auf Kommission"
 - [BGH, Beschluss vom 12.07.2018 - 3 StR 144/18](3-str-144-18.md) — Beweisaufnahme im Strafverfahren: Anforderungen an die Ablehnung eines Beweisantrags auf Vernehmung eines Auslandszeugen
@@ -72,7 +72,7 @@
 - [BGH, Beschluss vom 14.06.2018 - 3 StR 180/18](3-str-180-18.md) — Besitz und Verbreitung kinderpornographischer Schriften: Anforderungen an die Urteilsfeststellungen zum Inhalt der Schriften; Konkurrenzverhältnis
 - [BGH, Beschluss vom 14.06.2018 - 3 StR 206/18](3-str-206-18.md) — Strafverfahren wegen Mordes: Erteilung eines förmlichen Hinweises bei Änderung der Tatsachengrundlage für das Mordmerkmal der niedrigen Beweggründe
 - [BGH, Beschluss vom 14.06.2018 - 3 StR 569/17](3-str-569-17.md) — Mittäterschaft nur bei über Unterstützungshandlung hinausgehendem Tatbeitrag
-- [BGH, Urteil vom 14.06.2018 - 3 StR 585/17](3-str-585-17.md) — 1. Für eine Gruppe im Sinne des § 127 StGB genügt eine Mindestanzahl von drei Gruppenmitgliedern jedenfalls dann, wenn sie an einem Ort zusammenwirken. In diese
+- [BGH, Urteil vom 14.06.2018 - 3 StR 585/17](3-str-585-17.md) — 1. Für eine Gruppe im Sinne des § 127 StGB genügt eine Mindestanzahl von drei Gruppenmitgliedern jedenfalls dann, wenn sie an einem Ort zusammenwirken. In diesem Fall muss die …
 - [BGH, Beschluss vom 14.06.2018 - 3 StR 61/18](3-str-61-18.md) — Möglichkeit des Widerrufs einer vom Angeklagten erklärten Revisionsrücknahme
 - [BGH, Beschluss vom 12.06.2018 - 3 StR 171/17](3-str-171-17.md) — (Persönlicher Schadenseinschlag bei der Bestimmung des Vermögensschadens)
 - [BGH, Beschluss vom 12.06.2018 - 3 StR 226/18](3-str-226-18.md) — Tatbestand des Beischlafs zwischen Verwandten
@@ -82,12 +82,12 @@
 - [BGH, Beschluss vom 28.05.2018 - 3 StR 95/18](3-str-95-18.md) — Tateinheit bei mehreren Taten des Handeltreibens mit Betäubungsmitteln
 - [BGH, Urteil vom 17.05.2018 - 3 StR 117/18](3-str-117-18.md) — Keine Strafmilderung für Anstifter
 - [BGH, Beschluss vom 17.05.2018 - 3 StR 166/18](3-str-166-18.md) — Doppelverwertungsverbot bei Berücksichtigung der Qualität des Falschgelds und Hang zu Rauschmitteln
-- [BGH, Urteil vom 17.05.2018 - 3 StR 508/17](3-str-508-17.md) — Unterstützung einer terroristischen Vereinigung im Ausland: Behandlung von Tatsachen zur Ausfüllung der Merkmale einer terroristischen Vereinigung als allgemein
+- [BGH, Urteil vom 17.05.2018 - 3 StR 508/17](3-str-508-17.md) — Unterstützung einer terroristischen Vereinigung im Ausland: Behandlung von Tatsachen zur Ausfüllung der Merkmale einer terroristischen Vereinigung als allgemein- und gerichtskundig
 - [BGH, Urteil vom 17.05.2018 - 3 StR 622/17](3-str-622-17.md) — Verteidigung der Ehre mit Mitteln der Notwehr
 - [BGH, Beschluss vom 15.05.2018 - 3 StR 130/18](3-str-130-18.md) — Mittäterschaftlich begangener Versuch der räuberischen Erpressung
 - [BGH, Beschluss vom 15.05.2018 - 3 StR 18/18](3-str-18-18.md) — Beweisaufnahme im Strafverfahren: Ablehnung eines Beweisantrags auf psychiatrische Begutachtung eines Zeugen aufgrund eigener Sachkunde
-- [BGH, Beschluss vom 03.05.2018 - 3 StR 148/18](3-str-148-18.md) — Revision des Angeklagten: Nachholung der Unterbringungsanordnung nach Aufhebung des Urteils bei fehlender Ausnahme der unterbliebenen Unterbringung vom Rechtsmi
-- [BGH, Urteil vom 03.05.2018 - 3 StR 390/17](3-str-390-17.md) — Unterbleiben einer qualifizierten Belehrung des Beschuldigten vor einer späteren Vernehmung: Abwägung zwischen dem Gewicht des Verfahrensverstoßes und dem staat
+- [BGH, Beschluss vom 03.05.2018 - 3 StR 148/18](3-str-148-18.md) — Revision des Angeklagten: Nachholung der Unterbringungsanordnung nach Aufhebung des Urteils bei fehlender Ausnahme der unterbliebenen Unterbringung vom Rechtsmittelangriff
+- [BGH, Urteil vom 03.05.2018 - 3 StR 390/17](3-str-390-17.md) — Unterbleiben einer qualifizierten Belehrung des Beschuldigten vor einer späteren Vernehmung: Abwägung zwischen dem Gewicht des Verfahrensverstoßes und dem staatlichen Interesse an …
 - [BGH, Beschluss vom 03.05.2018 - 3 StR 658/17](3-str-658-17.md) — Besonders schwere Vergewaltigung: Körperlich schwere Misshandlung durch Würgen des Tatopfers
 - [BGH, Beschluss vom 03.05.2018 - 3 StR 8/18](3-str-8-18.md) — Feststellung des Wertes des einzuziehenden Gegenstandes notwendig
 - [BGH, Beschluss vom 02.05.2018 - 3 StR 355/17](3-str-355-17.md) — Politische Tötungsmotive sind in aller Regel „niedrige Beweggründe“
@@ -95,9 +95,9 @@
 - [BGH, Beschluss vom 02.05.2018 - 3 StR 93/18](3-str-93-18.md) — Strafbarkeit einer Zuwiderhandlung gegen eine gewaltschutzrechtliche Anordnung bei fehlender Befristung
 - [BGH, Beschluss vom 19.04.2018 - 3 StR 23/18](3-str-23-18.md) — Besorgnis der Befangenheit eines Richters bei rechtsfehlerhafter Vorentscheidung
 - [BGH, Beschluss vom 19.04.2018 - 3 StR 24/18](3-str-24-18.md) — Unterbringung in einer Entziehunganstalt: Symptomatischer Zusammenhang zwischen Hang und Anlasstat
-- [BGH, Urteil vom 19.04.2018 - 3 StR 286/17](3-str-286-17.md) — Zur Unterstützung einer terroristischen Vereinigung durch Zusage oder Begehung einer deren Zwecken dienenden oder deren Tätigkeit entsprechenden Straftat, zu de
+- [BGH, Urteil vom 19.04.2018 - 3 StR 286/17](3-str-286-17.md) — Zur Unterstützung einer terroristischen Vereinigung durch Zusage oder Begehung einer deren Zwecken dienenden oder deren Tätigkeit entsprechenden Straftat, zu der Mitglieder der …
 - [BGH, Beschluss vom 19.04.2018 - 3 StR 638/17](3-str-638-17.md) — Anforderungen an eine Annahme von Mittäterschaft
-- [BGH, Urteil vom 05.04.2018 - 3 StR 13/18](3-str-13-18.md) — Zerstören im Sinne des § 306a Abs. 1 Nr. 1 StGB setzt bei gemischt genutzten Gebäuden eine durch die Brandlegung hervorgerufene Einwirkung auf die Sachsubstanz 
+- [BGH, Urteil vom 05.04.2018 - 3 StR 13/18](3-str-13-18.md) — Zerstören im Sinne des § 306a Abs. 1 Nr. 1 StGB setzt bei gemischt genutzten Gebäuden eine durch die Brandlegung hervorgerufene Einwirkung auf die Sachsubstanz einer …
 - [BGH, Beschluss vom 04.04.2018 - 3 StR 63/18](3-str-63-18.md) — Erweiterte Einziehung von Taterträgen nach erschöpfender Beweiserhebung
 - [BGH, Beschluss vom 04.04.2018 - 3 StR 644/17](3-str-644-17.md) — Annahme eines Hangs bei festgestellter Betäubungsmittelabhängigkeit
 - [BGH, Beschluss vom 22.03.2018 - 3 StR 42/18](3-str-42-18.md) — Einziehung des Wertes der Taterträge: Verstoß gegen das Rückwirkungsverbot in einem Übergangsfall
@@ -113,19 +113,19 @@
 - [BGH, Beschluss vom 06.03.2018 - 3 StR 552/17](3-str-552-17.md) — Eingehungsbetrug im Zeitpunkt des notariellen Kaufvertrages über bebautes Grundstück
 - [BGH, Beschluss vom 06.03.2018 - 3 StR 559/17](3-str-559-17.md) — Besorgnis der Befangenheit im Strafverfahren: Zeitpunkt des Einbringens des Gesuchs; spontane Unmutsäußerung eines Schöffen
 - [BGH, Beschluss vom 20.02.2018 - 3 StR 612/17](3-str-612-17.md) — Wahlfeststellung im Strafverfahren: Wahlweise Verurteilung wegen Raubes oder räuberischer Erpressung
-- [BGH, Beschluss vom 20.02.2018 - 3 StR 645/17](3-str-645-17.md) — Unterbringung des Angeklagten in einer Entziehungsanstalt wegen einer Betäubungsmittelstraftat: Anforderungen an die tatrichterliche Feststellung eines Hangs zu
+- [BGH, Beschluss vom 20.02.2018 - 3 StR 645/17](3-str-645-17.md) — Unterbringung des Angeklagten in einer Entziehungsanstalt wegen einer Betäubungsmittelstraftat: Anforderungen an die tatrichterliche Feststellung eines Hangs zum übermäßigen …
 - [BGH, Beschluss vom 08.02.2018 - 3 StR 400/17](3-str-400-17.md) — Rechtsgrundlage für das Versenden sogenannter "stiller SMS" durch die Ermittlungsbehörden ist § 100i Abs. 1 Nr. 2 StPO.
-- [BGH, Beschluss vom 08.02.2018 - 3 StR 549/17](3-str-549-17.md) — Sicherungsverfahren: Anforderungen an die Gefährlichkeitsprognose für die Unterbringung in einem psychiatrischen Krankenhaus; Unterbringung in einer Entziehungs
+- [BGH, Beschluss vom 08.02.2018 - 3 StR 549/17](3-str-549-17.md) — Sicherungsverfahren: Anforderungen an die Gefährlichkeitsprognose für die Unterbringung in einem psychiatrischen Krankenhaus; Unterbringung in einer Entziehungsanstalt trotz …
 - [BGH, Urteil vom 08.02.2018 - 3 StR 560/17](3-str-560-17.md) — Einziehung von Taterträgen: Ausschluss der Einziehung bei Zahlung von Versicherungsleistungen an den Geschädigten; Einziehung des Verkaufserlöses
 - [BGH, Beschluss vom 06.02.2018 - 3 StR 426/17](3-str-426-17.md) — Revision des Nebenklägers in Strafsachen: Revisionsbegründung durch Bezugnahme auf Schriftsätze oder Aktenbestandteile
 - [BGH, Beschluss vom 06.02.2018 - 3 StR 453/17](3-str-453-17.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Zusammenziehen mehrerer Umsatzgeschäfte zu einer einheitlichen Tat
 - [BGH, Beschluss vom 06.02.2018 - 3 StR 532/17](3-str-532-17.md) — Schädliche Neigungen als Voraussetzung für Jugendstrafe bei erheblichen Persönlichkeitsmängeln
-- [BGH, Beschluss vom 06.02.2018 - 3 StR 616/17](3-str-616-17.md) — Anordnung der Unterbringung in einer Entziehungsanstalt neben zeitiger Freiheitsstrafe: Symptomatischer Zusammenhang zwischen der Tat und einem Hang zum Alkohol
+- [BGH, Beschluss vom 06.02.2018 - 3 StR 616/17](3-str-616-17.md) — Anordnung der Unterbringung in einer Entziehungsanstalt neben zeitiger Freiheitsstrafe: Symptomatischer Zusammenhang zwischen der Tat und einem Hang zum Alkoholkonsum …
 - [BGH, Beschluss vom 06.02.2018 - 3 StR 629/17](3-str-629-17.md) — Betäubungsmitteldelikt: Sicherstellung der Drogen als Strafzumessungsgrund; Voraussetzungen eines Hanges
 - [BGH, Beschluss vom 25.01.2018 - 3 StR 613/17](3-str-613-17.md) — Strafzumessung: Berücksichtigung einer geringen Lebenserwartung des Angeklagten
 - [BGH, Beschluss vom 23.01.2018 - 3 StR 451/17](3-str-451-17.md) — Begriffsdefinitionen im Strafrecht: Mittäterschaft; sukzessive Mittäterschaft; fehlgeschlagener Versuch
 - [BGH, Beschluss vom 23.01.2018 - 3 StR 579/17](3-str-579-17.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln: Prüfungsreihenfolge bei einem minder schweren Fall; Voraussetzungen eines Hanges
-- [BGH, Beschluss vom 23.01.2018 - 3 StR 586/17](3-str-586-17.md) — Strafzumessung wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Verstoß gegen das Doppelverwertungsverbot bei strafschärfender Be
+- [BGH, Beschluss vom 23.01.2018 - 3 StR 586/17](3-str-586-17.md) — Strafzumessung wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Verstoß gegen das Doppelverwertungsverbot bei strafschärfender Berücksichtigung des …
 - [BGH, Beschluss vom 23.01.2018 - 3 StR 654/17](3-str-654-17.md) — Raub: Kriterien der Sozialprognose bei der Strafaussetzungsentscheidung
 - [BGH, Urteil vom 11.01.2018 - 3 StR 378/17](3-str-378-17.md) — Mittelbare Falschbeurkundung: Behandlung von Veterinärbescheinigungen im grenzüberschreitenden Schweinefleischhandel
 - [BGH, Urteil vom 11.01.2018 - 3 StR 427/17](3-str-427-17.md) — Zum Verstoß gegen das Uniformverbot des § 3 Abs. 1 VersammlG durch das öffentliche Tragen von Warnwesten mit der Aufschrift "Sharia Police".

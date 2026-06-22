@@ -26,7 +26,7 @@
 - [BGH, Beschluss vom 18.03.2026 - 6 StR 78/26](6-str-78-26.md) — BGH, Beschluss 6 StR 78/26
 - [BGH, Beschluss vom 17.03.2026 - 6 StR 168/25](6-str-168-25.md) — BGH, Beschluss 6 StR 168/25
 - [BGH, Beschluss vom 17.03.2026 - 6 StR 610/25](6-str-610-25.md) — BGH, Beschluss 6 StR 610/25
-- [BGH, Beschluss vom 16.03.2026 - 6 StR 352/25](6-str-352-25.md) — Von der Hinzuziehung eines Sachverständigen nach § 246a Abs. 1 Satz 2 StPO kann das Gericht auch dann absehen, wenn der symptomatische Zusammenhang im Sinne des
+- [BGH, Beschluss vom 16.03.2026 - 6 StR 352/25](6-str-352-25.md) — Von der Hinzuziehung eines Sachverständigen nach § 246a Abs. 1 Satz 2 StPO kann das Gericht auch dann absehen, wenn der symptomatische Zusammenhang im Sinne des § 64 StGB …
 - [BGH, Urteil vom 04.03.2026 - 6 StR 448/25](6-str-448-25.md) — BGH, Urteil 6 StR 448/25
 - [BGH, Beschluss vom 03.03.2026 - 6 StR 45/26](6-str-45-26.md) — BGH, Beschluss 6 StR 45/26
 - [BGH, Beschluss vom 03.03.2026 - 6 StR 485/22](6-str-485-22.md) — BGH, Beschluss 6 StR 485/22

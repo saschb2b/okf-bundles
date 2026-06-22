@@ -263,7 +263,7 @@
 - [BGH, Urteil vom 30.04.2024 - VIa ZR 611/22](via-zr-611-22.md) — BGH, Urteil VIa ZR 611/22
 - [BGH, Urteil vom 30.04.2024 - VIa ZR 677/22](via-zr-677-22.md) — BGH, Urteil VIa ZR 677/22
 - [BGH, Beschluss vom 23.04.2024 - VIa ZB 16/23](via-zb-16-23.md) — BGH, Beschluss VIa ZB 16/23
-- [BGH, Urteil vom 23.04.2024 - VIa ZR 1132/22](via-zr-1132-22.md) — Der Übergang vom Antrag auf "großen" Schadensersatz zum Antrag auf Ersatz des Differenzschadens unter Aufgabe des Zug-um-Zug-Vorbehalts setzt eine Anschlussberu
+- [BGH, Urteil vom 23.04.2024 - VIa ZR 1132/22](via-zr-1132-22.md) — Der Übergang vom Antrag auf "großen" Schadensersatz zum Antrag auf Ersatz des Differenzschadens unter Aufgabe des Zug-um-Zug-Vorbehalts setzt eine Anschlussberufung grundsätzlich …
 - [BGH, Urteil vom 23.04.2024 - VIa ZR 1340/22](via-zr-1340-22.md) — BGH, Urteil VIa ZR 1340/22
 - [BGH, Beschluss vom 23.04.2024 - VIa ZR 1346/22](via-zr-1346-22.md) — BGH, Beschluss VIa ZR 1346/22
 - [BGH, Urteil vom 23.04.2024 - VIa ZR 1376/22](via-zr-1376-22.md) — BGH, Urteil VIa ZR 1376/22

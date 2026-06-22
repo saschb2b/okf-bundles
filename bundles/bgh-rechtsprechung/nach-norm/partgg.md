@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu PartGG"
 description: "BGH-Entscheidungen zu PartGG, geordnet nach Vorschrift."
 tags: [register, navigation, partgg]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

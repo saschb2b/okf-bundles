@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ÄndG"
 description: "BGH-Entscheidungen zu ÄndG, geordnet nach Vorschrift."
 tags: [register, navigation, ändg]
-timestamp: 2026-06-22T13:43:59Z
+timestamp: 2026-06-22T13:45:57Z
 ---
 
 # Nach Vorschrift

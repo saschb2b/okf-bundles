@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu DiätV"
 description: "BGH-Entscheidungen zu DiätV, geordnet nach Vorschrift."
 tags: [register, navigation, diätv]
-timestamp: 2026-06-22T13:43:58Z
+timestamp: 2026-06-22T13:45:56Z
 ---
 
 # Nach Vorschrift

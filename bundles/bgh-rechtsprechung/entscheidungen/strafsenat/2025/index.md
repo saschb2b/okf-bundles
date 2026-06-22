@@ -6,7 +6,7 @@
 - [BGH, Beschluss vom 17.12.2025 - StB 66/25](stb-66-25.md) — Voraussetzungen eines Pflichtverteidigerwechsels im Jugendstrafrecht
 - [BGH, Beschluss vom 10.12.2025 - AK 116/25](ak-116-25.md) — BGH, Beschluss AK 116/25
 - [BGH, Beschluss vom 10.12.2025 - StB 58/25](stb-58-25.md) — Eröffnung des Hauptverfahrens bei Beweisschwierigkeiten im Fall einer „Späherin“ bei politisch motivierten Gruppenangriffen
-- [BGH, Beschluss vom 10.12.2025 - StB 60/25](stb-60-25.md) — 1. Für die Sprengstoffanschläge auf die Nord-Stream-Pipelines in der Ostsee ist deutsche Strafgewalt gegeben, weil der Taterfolg auch auf deutschem Staatsgebiet
+- [BGH, Beschluss vom 10.12.2025 - StB 60/25](stb-60-25.md) — 1. Für die Sprengstoffanschläge auf die Nord-Stream-Pipelines in der Ostsee ist deutsche Strafgewalt gegeben, weil der Taterfolg auch auf deutschem Staatsgebiet eintrat. 2. Die …
 - [BGH, Beschluss vom 10.12.2025 - StB 61/25](stb-61-25.md) — BGH, Beschluss StB 61/25
 - [BGH, Beschluss vom 10.12.2025 - StB 67/25](stb-67-25.md) — Strafrestaussetzung zur Bewährung: Rücknahme der Einwilligung des Verurteilten
 - [BGH, Beschluss vom 14.11.2025 - AK 95/25](ak-95-25.md) — Anordnung der Fortdauer der Untersuchungshaft bei dringendem Tatverdacht der mitgliedschaftlichen Beteiligung an krimineller Vereinigung
@@ -22,13 +22,13 @@
 - [BGH, Beschluss vom 17.09.2025 - StB 46/25](stb-46-25.md) — BGH, Beschluss StB 46/25
 - [BGH, Beschluss vom 10.09.2025 - AK 77/25](ak-77-25.md) — BGH, Beschluss AK 77/25
 - [BGH, Beschluss vom 03.09.2025 - AK 65/25](ak-65-25.md) — BGH, Beschluss AK 65/25
-- [BGH, Beschluss vom 03.09.2025 - StB 42/25](stb-42-25.md) — Die für Verteidigungsunterlagen geltenden Erwägungen, wonach eine Durchsicht vorläufig sichergestellter Gegenstände zulässig ist, wenn nicht offensichtlich ist,
-- [BGH, Beschluss vom 21.08.2025 - AK 64/25](ak-64-25.md) — Für die Wirksamkeit der Teilaufhebung eines Haftbefehls genügt die schriftliche Bekanntgabe des betreffenden Beschlusses, wenn dieser ohne Änderung des angenomm
+- [BGH, Beschluss vom 03.09.2025 - StB 42/25](stb-42-25.md) — Die für Verteidigungsunterlagen geltenden Erwägungen, wonach eine Durchsicht vorläufig sichergestellter Gegenstände zulässig ist, wenn nicht offensichtlich ist, dass es sich um …
+- [BGH, Beschluss vom 21.08.2025 - AK 64/25](ak-64-25.md) — Für die Wirksamkeit der Teilaufhebung eines Haftbefehls genügt die schriftliche Bekanntgabe des betreffenden Beschlusses, wenn dieser ohne Änderung des angenommenen Haftgrundes …
 - [BGH, Beschluss vom 21.08.2025 - StB 37/25](stb-37-25.md) — BGH, Beschluss StB 37/25
 - [BGH, Beschluss vom 07.08.2025 - AK 51 - 55/25, AK 51/25, AK 52/25, AK 53/25, AK 54/25, AK 55/25](ak-51-55-25-ak-51-25-ak-52-25-ak-53-25-ak-54-25-ak-55-25.md) — BGH, Beschluss AK 51 - 55/25, AK 51/25, AK 52/25, AK 53/25, AK 54/25, AK 55/25
 - [BGH, Beschluss vom 07.08.2025 - AK 56/25](ak-56-25.md) — BGH, Beschluss AK 56/25
 - [BGH, Beschluss vom 07.08.2025 - AK 59/25](ak-59-25.md) — BGH, Beschluss AK 59/25
-- [BGH, Beschluss vom 23.07.2025 - StB 65/24](stb-65-24.md) — 1. Gegen Herausgabeverlangen eines Untersuchungsausschusses des Deutschen Bundestages gemäß § 29 Abs. 1 Satz 1 PUAG ist ein Antrag auf gerichtliche Entscheidung
+- [BGH, Beschluss vom 23.07.2025 - StB 65/24](stb-65-24.md) — 1. Gegen Herausgabeverlangen eines Untersuchungsausschusses des Deutschen Bundestages gemäß § 29 Abs. 1 Satz 1 PUAG ist ein Antrag auf gerichtliche Entscheidung nach Art. 44 Abs …
 - [BGH, Beschluss vom 10.07.2025 - AK 49/25](ak-49-25.md) — Gefährliche Körperverletzung: Verwendung von Pfefferspray und Reizstoffsprühgeräten
 - [BGH, Beschluss vom 10.07.2025 - StB 21/25](stb-21-25.md) — Selbständiges Einziehungsverfahren: Zulässigkeit der Beschwerde gegen die Ablehnung der Verfahrensbeteiligung und Verweigerung von Akteneinsicht
 - [BGH, Beschluss vom 26.06.2025 - StB 30/25](stb-30-25.md) — BGH, Beschluss StB 30/25

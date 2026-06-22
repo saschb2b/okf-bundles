@@ -10,13 +10,13 @@
 - [BGH, Beschluss vom 16.11.2010 - 4 StR 530/10](4-str-530-10.md) — Strafurteil: Aufgreifen einer als wahr unterstellten Beweistatsache in den Gründen
 - [BGH, Beschluss vom 15.11.2010 - 4 StR 413/10](4-str-413-10.md) — Verkehrsunfallflucht: Strafbarkeit des Entfernens von einem anderen Ort als dem Unfallort nach Kenntniserlangung von dem Unfallereignis
 - [BGH, Beschluss vom 10.11.2010 - 4 StR 386/10](4-str-386-10.md) — Vollrausch: Schuldunfähigkeit durch den Genuss von Rauschmitteln
-- [BGH, Beschluss vom 09.11.2010 - 4 StR 441/10](4-str-441-10.md) — Der Ausgleich für eine in dem Ausschluss einer nachträglichen Gesamtstrafenbildung liegende Härte ist bei der Verhängung zeitiger Freiheitsstrafen nicht in Anwe
+- [BGH, Beschluss vom 09.11.2010 - 4 StR 441/10](4-str-441-10.md) — Der Ausgleich für eine in dem Ausschluss einer nachträglichen Gesamtstrafenbildung liegende Härte ist bei der Verhängung zeitiger Freiheitsstrafen nicht in Anwendung des …
 - [BGH, Beschluss vom 09.11.2010 - 4 StR 447/10](4-str-447-10.md) — Verfall: Ansprüche des Verletzten nur bei Vermögensvorteil "aus der Tat"
-- [BGH, Beschluss vom 09.11.2010 - 4 StR 521/10](4-str-521-10.md) — Betäubungsmitteldelikt: Verhältnis zwischen Handeltreiben und Besitz; Erforderlichkeit der Feststellung des Wirkstoffgehalts; maßgebender Zeitpunkt für den Aufk
+- [BGH, Beschluss vom 09.11.2010 - 4 StR 521/10](4-str-521-10.md) — Betäubungsmitteldelikt: Verhältnis zwischen Handeltreiben und Besitz; Erforderlichkeit der Feststellung des Wirkstoffgehalts; maßgebender Zeitpunkt für den Aufklärungserfolg
 - [BGH, Beschluss vom 09.11.2010 - 4 StR 532/10](4-str-532-10.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Verstoß gegen das Doppelverwertungsverbot
 - [BGH, Beschluss vom 04.11.2010 - 4 StR 374/10](4-str-374-10.md) — Förderung sexueller Handlungen Minderjähriger: Konkurrenzverhältnis beim Vorschubleisten durch Vermittlung
-- [BGH, Beschluss vom 04.11.2010 - 4 StR 404/10](4-str-404-10.md) — Zur Verwertbarkeit von Erkenntnissen aus einer während der Geltungsdauer einer einstweiligen Anordnung des Bundesverfassungsgerichts nach deren einschränkenden 
-- [BGH, Urteil vom 28.10.2010 - 4 StR 215/10](4-str-215-10.md) — 1. Bei einer Feststellung gemäß § 111i Abs. 2 StPO ist im Urteilstenor (nur) der Vermögensgegenstand bzw. Geldbetrag zu benennen, den der Staat unter den Voraus
+- [BGH, Beschluss vom 04.11.2010 - 4 StR 404/10](4-str-404-10.md) — Zur Verwertbarkeit von Erkenntnissen aus einer während der Geltungsdauer einer einstweiligen Anordnung des Bundesverfassungsgerichts nach deren einschränkenden Vorgaben …
+- [BGH, Urteil vom 28.10.2010 - 4 StR 215/10](4-str-215-10.md) — 1. Bei einer Feststellung gemäß § 111i Abs. 2 StPO ist im Urteilstenor (nur) der Vermögensgegenstand bzw. Geldbetrag zu benennen, den der Staat unter den Voraussetzungen des § …
 - [BGH, Urteil vom 28.10.2010 - 4 StR 285/10](4-str-285-10.md) — Strafverfahren wegen Körperverletzung mit Todesfolge: Grenzen revisionsgerichtlicher Nachprüfung der tatrichterlichen Beweiswürdigung bei Freispruch
 - [BGH, Beschluss vom 28.10.2010 - 4 StR 359/10](4-str-359-10.md) — Strafverfahren: Notwendige Begründung der Ablehnung eines Beweisantrages wegen Verschleppungsabsicht
 - [BGH, Urteil vom 28.10.2010 - 4 StR 402/10](4-str-402-10.md) — Erpressung: Rechtswidrigkeit des erstreben Vermögensvorteils
@@ -25,22 +25,22 @@
 - [BGH, Beschluss vom 19.10.2010 - 4 StR 264/10](4-str-264-10.md) — Gefährliche Körperverletzung: Tatbegehung "mittels" eines gefährlichen Werkzeugs bei Kleben von Reißzwecken unter die Fersen des Opfers
 - [BGH, Beschluss vom 19.10.2010 - 4 StR 277/10](4-str-277-10.md) — Verfallsanordnung: Verfall von für die Bezahlung der Mietkosten der für den Drogentransport angemieteten Fahrzeuge überlassenen Geldbeträgen
 - [BGH, Beschluss vom 19.10.2010 - 4 StR 295/10](4-str-295-10.md) — Adhäsionsverfahren gegen Gesamtschuldner bei Betrug: Ermittlung des Verjährungsbeginns
-- [BGH, Beschluss vom 19.10.2010 - 4 StR 465/10](4-str-465-10.md) — Gefährliche Körperverletzung in der Begehungsweise des hinterlistigen Angriffs: Verstoß gegen das Doppelverwertungsverbot bei straferschwerender Berücksichtigun
+- [BGH, Beschluss vom 19.10.2010 - 4 StR 465/10](4-str-465-10.md) — Gefährliche Körperverletzung in der Begehungsweise des hinterlistigen Angriffs: Verstoß gegen das Doppelverwertungsverbot bei straferschwerender Berücksichtigung des …
 - [BGH, Beschluss vom 05.10.2010 - 4 StR 412/10](4-str-412-10.md) — Strafverurteilung in der Bundesrepublik Deutschland: Reichweite der auslieferungsrechtlichen Spezialität im Verhältnis zur Schweiz
 - [BGH, Urteil vom 30.09.2010 - 4 StR 150/10](4-str-150-10.md) — Untreue: Zweckwidrige Verwendung von Fördermitteln
 - [BGH, Beschluss vom 28.09.2010 - 4 StR 245/10](4-str-245-10.md) — Gefährlicher Eingriff in den Straßenverkehr: Wertgrenze von 750 Euro für den drohenden bedeutenden Schaden
-- [BGH, Beschluss vom 28.09.2010 - 4 StR 371/10](4-str-371-10.md) — Strafzumessung bei versuchter schwerer räuberischer Erpressung: Strafschärfende Berücksichtigung einer Berufsgleichheit der Mutter des - jugendlichen - Angeklag
+- [BGH, Beschluss vom 28.09.2010 - 4 StR 371/10](4-str-371-10.md) — Strafzumessung bei versuchter schwerer räuberischer Erpressung: Strafschärfende Berücksichtigung einer Berufsgleichheit der Mutter des - jugendlichen - Angeklagten und des …
 - [BGH, Beschluss vom 28.09.2010 - 4 StR 442/10](4-str-442-10.md) — Gefährliche Körperverletzung: Lebensgefährdende Behandlung bei Würgen am Hals
 - [BGH, Beschluss vom 20.09.2010 - 4 StR 278/10](4-str-278-10.md) — Strafzumessung bei Geldfälschung: Begründung einer außergewöhnlich hohen Strafe und Berücksichtigung des Einsatzes eines verdeckten Ermittlers
 - [BGH, Beschluss vom 20.09.2010 - 4 StR 395/10](4-str-395-10.md) — Störung des öffentlichen Friedens: Konkrete Eignung bei Mitteilung gegenüber einer Betreuerin für psychisch Kranke
 - [BGH, Beschluss vom 20.09.2010 - 4 StR 408/10](4-str-408-10.md) — Zum Umfang des Verbrauchs der Strafklage in Fällen der wiederholten Verwirklichung des Tatbestandes der Geldfälschung .
-- [BGH, Beschluss vom 16.09.2010 - 4 StR 433/10](4-str-433-10.md) — Revision im Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Nachholung der Festsetzung einer Einzelstrafe für eine Serienstraftat im Rahm
+- [BGH, Beschluss vom 16.09.2010 - 4 StR 433/10](4-str-433-10.md) — Revision im Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Nachholung der Festsetzung einer Einzelstrafe für eine Serienstraftat im Rahmen der …
 - [BGH, Beschluss vom 14.09.2010 - 4 StR 422/10](4-str-422-10.md) — Konkurrenzverhältnisse beim Betrug
-- [BGH, Beschluss vom 07.09.2010 - 4 StR 342/10](4-str-342-10.md) — Strafverfahren u.a. wegen Beischlafs zwischen Verwandten: Tatbestandsmäßigkeit von Oralverkehr; neue Gesamtstrafenbildung nach Aufhebung der Gesamtstrafe durch 
+- [BGH, Beschluss vom 07.09.2010 - 4 StR 342/10](4-str-342-10.md) — Strafverfahren u.a. wegen Beischlafs zwischen Verwandten: Tatbestandsmäßigkeit von Oralverkehr; neue Gesamtstrafenbildung nach Aufhebung der Gesamtstrafe durch das …
 - [BGH, Beschluss vom 17.08.2010 - 4 StR 228/10](4-str-228-10.md) — Verständigung im Strafverfahren: Pflicht zur Belehrung über die Voraussetzungen und Folgen einer Abweichung des Gericht von einer Urteilsabsprache
 - [BGH, Beschluss vom 17.08.2010 - 4 StR 347/10](4-str-347-10.md) — Revision im Strafverfahren: Entscheidung des unzuständigen Erwachsenengerichts in einem Verfahren gegen Heranwachsende
 - [BGH, Beschluss vom 12.08.2010 - 4 StR 378/10](4-str-378-10.md) — Richterausschluss im Strafverfahren: Vorbefassung als Staatsanwalt
-- [BGH, Beschluss vom 10.08.2010 - 4 StR 646/09](4-str-646-09.md) — Die besondere Zuwendung für Haftopfer nach § 17a StrRehaG ist auch dann ab dem auf die Antragstellung an die zuständige Verwaltungsbehörde folgenden Monat auszu
+- [BGH, Beschluss vom 10.08.2010 - 4 StR 646/09](4-str-646-09.md) — Die besondere Zuwendung für Haftopfer nach § 17a StrRehaG ist auch dann ab dem auf die Antragstellung an die zuständige Verwaltungsbehörde folgenden Monat auszuzahlen, wenn der …
 - [BGH, Beschluss vom 03.08.2010 - 4 StR 192/10](4-str-192-10.md) — Strafverfahren: Verschiebung von Beweisanträgen
 - [BGH, Beschluss vom 27.07.2010 - 4 StR 165/10](4-str-165-10.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln und Abgabe von Betäubungsmitteln an Minderjährige: Verstoß gegen das Doppelverwertungsverbot
 - [BGH, Beschluss vom 22.07.2010 - 4 StR 180/10](4-str-180-10.md) — Strafverfahren wegen versuchten Mordes: Gefühlsregungen als niedrige Beweggründe; Rücktritt vom Tötungsversuch
@@ -52,8 +52,8 @@
 - [BGH, Beschluss vom 29.06.2010 - 4 StR 241/10](4-str-241-10.md) — Unterbringung in einer Entziehungsanstalt: Absehen von der Unterbringungsanordnung nach Gesetzesänderung
 - [BGH, Beschluss vom 24.06.2010 - 4 StR 260/10](4-str-260-10.md) — Vergewaltigung: Vorangegangene Gewaltanwendung als fortwirkende Drohung gegenüber dem Opfer
 - [BGH, Beschluss vom 22.06.2010 - 4 StR 211/10](4-str-211-10.md) — Verminderte Schuldfähigkeit: Berechnung der Tatzeit-BAK
-- [BGH, Beschluss vom 22.06.2010 - 4 StR 216/10](4-str-216-10.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Fehlerhaftigkeit des Eröffnungsbeschlusses wegen falscher Besetzung der großen Strafkamme
-- [BGH, Urteil vom 17.06.2010 - 4 StR 126/10](4-str-126-10.md) — Die Anordnung des Verfalls oder des Verfalls des Wertersatzes gegen Jugendliche oder Heranwachsende, auf die Jugendstrafrecht angewendet wird, ist zulässig; das
+- [BGH, Beschluss vom 22.06.2010 - 4 StR 216/10](4-str-216-10.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Fehlerhaftigkeit des Eröffnungsbeschlusses wegen falscher Besetzung der großen Strafkammer und Anforderungen …
+- [BGH, Urteil vom 17.06.2010 - 4 StR 126/10](4-str-126-10.md) — Die Anordnung des Verfalls oder des Verfalls des Wertersatzes gegen Jugendliche oder Heranwachsende, auf die Jugendstrafrecht angewendet wird, ist zulässig; das gilt auch, wenn …
 - [BGH, Beschluss vom 15.06.2010 - 4 StR 229/10](4-str-229-10.md) — Unterbringung in einer Entziehungsanstalt: Zurückstellung der Vollstreckung bei betäubungsmittelabhängigem Täter
 - [BGH, Urteil vom 10.06.2010 - 4 StR 474/09](4-str-474-09.md) — Erpressung mittels entwendeter Kontobelege: Bereicherungsabsicht; Verwerflichkeit
 - [BGH, Urteil vom 10.06.2010 - 4 StR 73/10](4-str-73-10.md) — Verständigung im Strafverfahren: Rechtsmittelbefugnis eines Verfahrensbeteiligten nach einer Verständigung
@@ -63,14 +63,14 @@
 - [BGH, Beschluss vom 18.05.2010 - 4 StR 182/10](4-str-182-10.md) — Untreuetaten in natürlicher Handlungseinheit: Mehrere Abhebungen zum persönlichen Verbrauch von Fremdgeldkonto am selben Tag
 - [BGH, Beschluss vom 12.05.2010 - 4 StR 577/09](4-str-577-09.md) — Menschenrechtswidrige nachträgliche Anordnung der Sicherungsverwahrung in einem Altfall
 - [BGH, Beschluss vom 12.05.2010 - 4 StR 92/10](4-str-92-10.md) — Sexuelle Nötigung: Überraschende Gewalthandlung bei Vornahme einverständlicher sexueller Handlungen
-- [BGH, Beschluss vom 11.05.2010 - 4 StR 117/10](4-str-117-10.md) — Revision in Strafsachen: Verfahrensrüge eines Verstoßes gegen den Grundsatz des fairen Verfahrens bei Provokation zu einer Betäubungsmitteltat ohne deliktspezif
+- [BGH, Beschluss vom 11.05.2010 - 4 StR 117/10](4-str-117-10.md) — Revision in Strafsachen: Verfahrensrüge eines Verstoßes gegen den Grundsatz des fairen Verfahrens bei Provokation zu einer Betäubungsmitteltat ohne deliktspezifisches Verhältnis …
 - [BGH, Beschluss vom 06.05.2010 - 4 StR 98/10](4-str-98-10.md) — Geldfälschung: Strafmildernde Berücksichtigung der polizeilichen Einwirkung auf die Übergabe von Falschgeld
 - [BGH, Beschluss vom 21.04.2010 - 4 StR 635/09](4-str-635-09.md) — Betrug: Vorliegen einer oder mehrerer Handlungen
-- [BGH, Beschluss vom 20.04.2010 - 4 StR 119/10](4-str-119-10.md) — Betäubungsmittelhandel: Unterstützung des Täters durch bloße Anwesenheit als Beihilfe; strafschärfende Berücksichtigung "reinen Gewinnstrebens" und Wertersatzve
+- [BGH, Beschluss vom 20.04.2010 - 4 StR 119/10](4-str-119-10.md) — Betäubungsmittelhandel: Unterstützung des Täters durch bloße Anwesenheit als Beihilfe; strafschärfende Berücksichtigung "reinen Gewinnstrebens" und Wertersatzverfall des Erlöses …
 - [BGH, Urteil vom 15.04.2010 - 4 StR 650/09](4-str-650-09.md) — Strafverfahren: Zeugnisverweigerungsrecht als Geistlicher oder Seelsorger für Angehörige der Glaubensgemeinschaft der Yeziden
 - [BGH, Beschluss vom 07.04.2010 - 4 StR 644/09](4-str-644-09.md) — Strafverfahren: Anforderungen an die Urteilsfeststellungen bezüglich der sachverständigen Beurteilung der Schuldfähigkeit des Angeklagten
 - [BGH, Beschluss vom 01.04.2010 - 4 StR 637/09](4-str-637-09.md) — Wiedereinsetzung in den vorigen Stand im Strafverfahren: Zu späte Kenntnisnahme von einer Gesetzesänderung
-- [BGH, Urteil vom 25.03.2010 - 4 StR 522/09](4-str-522-09.md) — Gefährliche Körperverletzung: Abgrenzung zwischen Mitteltäterschaft und Beihilfe; Aufklärungsrüge wegen Berücksichtigung eines unzutreffenden Bundeszentralregis
+- [BGH, Urteil vom 25.03.2010 - 4 StR 522/09](4-str-522-09.md) — Gefährliche Körperverletzung: Abgrenzung zwischen Mitteltäterschaft und Beihilfe; Aufklärungsrüge wegen Berücksichtigung eines unzutreffenden Bundeszentralregisterauszugs bei der …
 - [BGH, Urteil vom 25.03.2010 - 4 StR 594/09](4-str-594-09.md) — Annahme eines Tötungsdelikts bei Verursachung eines Verkehrsunfalls in Selbsttötungsabsicht
 - [BGH, Beschluss vom 23.03.2010 - 4 ARs 3/10](4-ars-3-10.md) — Strafbarkeit der Nichtanzeige geplanter Straftaten bei Verdacht der Beteiligung an geplanter Straftat
 - [BGH, Beschluss vom 16.03.2010 - 4 StR 48/10](4-str-48-10.md) — Tatmehrheitliche unerlaubte Abgabe von Betäubungsmitteln: Umfang der Urteilsprüfung durch das Revisionsgericht bei nicht erschöpfter Anklage
@@ -78,9 +78,9 @@
 - [BGH, Beschluss vom 16.03.2010 - 4 StR 612/09](4-str-612-09.md) — Entfernung des Angeklagten während einer Zeugenvernehmung: Unterrichtungspflicht nach Unterbrechung der Beweisaufnahme
 - [BGH, Beschluss vom 16.03.2010 - 4 StR 82/10](4-str-82-10.md) — Tatbestandsvoraussetzungen eines gefährlichen Eingriffs in den Straßenverkehr
 - [BGH, Urteil vom 11.03.2010 - 4 StR 22/10](4-str-22-10.md) — Freispruch: Notwendigkeit von Feststellungen zu Werdegang, Vorleben und Persönlichkeit der Angeklagten
-- [BGH, Urteil vom 11.03.2010 - 4 StR 473/09](4-str-473-09.md) — Nachträgliche Anordnung der Sicherungsverwahrung: Neue Tatsachen nach Erledigung des psychiatrischen Maßregelvollzugs; im Strafvollzug aufgetretene psychische E
+- [BGH, Urteil vom 11.03.2010 - 4 StR 473/09](4-str-473-09.md) — Nachträgliche Anordnung der Sicherungsverwahrung: Neue Tatsachen nach Erledigung des psychiatrischen Maßregelvollzugs; im Strafvollzug aufgetretene psychische Erkrankung
 - [BGH, Beschluss vom 09.03.2010 - 4 StR 592/09](4-str-592-09.md) — Konkurrenzen beim Computerbetrug
-- [BGH, Beschluss vom 09.03.2010 - 4 StR 606/09](4-str-606-09.md) — Die in die Hauptverhandlung eingeführte Bewertung des Vorsitzenden einer Strafkammer, eine Zeugin sei nicht mit dem Angeklagten verlobt, kann vom Angeklagten nu
+- [BGH, Beschluss vom 09.03.2010 - 4 StR 606/09](4-str-606-09.md) — Die in die Hauptverhandlung eingeführte Bewertung des Vorsitzenden einer Strafkammer, eine Zeugin sei nicht mit dem Angeklagten verlobt, kann vom Angeklagten nur dann zur …
 - [BGH, Beschluss vom 09.03.2010 - 4 StR 632/09](4-str-632-09.md) — Gefangenenmeuterei: Konkurrenz zwischen Vollendung und Versuch
 - [BGH, Beschluss vom 09.03.2010 - 4 StR 640/09](4-str-640-09.md) — Bindungswirkung der Feststellungen eines rechtskräftigen Urteils gegen die Täter eines Betäubungsmitteldelikts im Verfahren gegen den Gehilfen
 - [BGH, Beschluss vom 04.03.2010 - 4 StR 62/10](4-str-62-10.md) — Brandstiftung: Voraussetzungen des bedingten Vorsatzes
@@ -95,26 +95,26 @@
 - [BGH, Beschluss vom 16.02.2010 - 4 StR 574/09](4-str-574-09.md) — Sexueller Missbrauch von Kindern: Tatbegehung am 14. Geburtstag des Opfers
 - [BGH, Beschluss vom 16.02.2010 - 4 StR 586/09](4-str-586-09.md) — Strafverfahren: Anforderungen an die Prüfung der Aussetzung der Vollstreckung einer Unterbringung in einem psychiatrischen Krankenhaus
 - [BGH, Urteil vom 11.02.2010 - 4 StR 433/09](4-str-433-09.md) — Beihilfe zum Kreditbetrug bei bestehender Überschuldung und Insolvenzverschleppung
-- [BGH, Urteil vom 11.02.2010 - 4 StR 436/09](4-str-436-09.md) — Fair-trial-Grundsatz im Strafverfahren: Darstellung eines unwahren Sachverhalts in der Ermittlungsakte; Täuschung des Beschuldigten im Falle des Verschweigens e
+- [BGH, Urteil vom 11.02.2010 - 4 StR 436/09](4-str-436-09.md) — Fair-trial-Grundsatz im Strafverfahren: Darstellung eines unwahren Sachverhalts in der Ermittlungsakte; Täuschung des Beschuldigten im Falle des Verschweigens einer …
 - [BGH, Beschluss vom 09.02.2010 - 4 StR 355/09](4-str-355-09.md) — Strafverfahren: Rüge fehlerhafter Beweiswürdigung bei Berücksichtigung der Bekundungen einer nicht vernommenen Zeugin
 - [BGH, Beschluss vom 09.02.2010 - 4 StR 492/09](4-str-492-09.md) — Strafzumessung: Zurechenbarkeit der schweren Tatfolgen
-- [BGH, Beschluss vom 09.02.2010 - 4 StR 556/09](4-str-556-09.md) — Gefährlicher Eingriff in den Straßenverkehr: Schädigungsvorsatz als Voraussetzung der Strafbarkeit des zweckwidrigen Einsatzes eines Kfz in verkehrsfeindlicher 
+- [BGH, Beschluss vom 09.02.2010 - 4 StR 556/09](4-str-556-09.md) — Gefährlicher Eingriff in den Straßenverkehr: Schädigungsvorsatz als Voraussetzung der Strafbarkeit des zweckwidrigen Einsatzes eines Kfz in verkehrsfeindlicher Einstellung
 - [BGH, Beschluss vom 09.02.2010 - 4 StR 660/09](4-str-660-09.md) — Strafverfahren: Vernehmung des Richters über die Aussagen eines das Zeugnis verweigernden Zeugen im Ermittlungsverfahren
 - [BGH, Urteil vom 04.02.2010 - 4 StR 394/09](4-str-394-09.md) — Brandstiftung mit Todesfolge: Zeugnisverweigerungsrecht für Geistliche; Begriff der Leichtfertigkeit; bedingter Tötungsvorsatz
-- [BGH, Beschluss vom 04.02.2010 - 4 StR 585/09](4-str-585-09.md) — Revision im Strafverfahren: Eigene Sachentscheidung des Revisionsgerichts über die Einzel- und Gesamtstrafe bei Aufhebung der Einzelstrafe wegen unrichtiger Str
-- [BGH, Beschluss vom 02.02.2010 - 4 StR 345/09](4-str-345-09.md) — Betrug und Untreue: Konkludente Täuschungshandlungen eines Architekten durch Vorlage nicht den jeweiligen Leistungsständen entsprechender Abschlags- und Teilsch
-- [BGH, Beschluss vom 02.02.2010 - 4 StR 514/09](4-str-514-09.md) — Strafzumessung: Strafmildernde Berücksichtigung beruflicher Nachteile für einen Rechtsanwalt; Bemessung der Kompensation für eine rechtsstaatswidrige Verfahrens
+- [BGH, Beschluss vom 04.02.2010 - 4 StR 585/09](4-str-585-09.md) — Revision im Strafverfahren: Eigene Sachentscheidung des Revisionsgerichts über die Einzel- und Gesamtstrafe bei Aufhebung der Einzelstrafe wegen unrichtiger Strafrahmenwahl
+- [BGH, Beschluss vom 02.02.2010 - 4 StR 345/09](4-str-345-09.md) — Betrug und Untreue: Konkludente Täuschungshandlungen eines Architekten durch Vorlage nicht den jeweiligen Leistungsständen entsprechender Abschlags- und Teilschlussrechnungen …
+- [BGH, Beschluss vom 02.02.2010 - 4 StR 514/09](4-str-514-09.md) — Strafzumessung: Strafmildernde Berücksichtigung beruflicher Nachteile für einen Rechtsanwalt; Bemessung der Kompensation für eine rechtsstaatswidrige Verfahrensverzögerung
 - [BGH, Beschluss vom 02.02.2010 - 4 StR 620/09](4-str-620-09.md) — Rüge unzulässiger Einwirkung auf den Angeklagten bei einer Verständigung: Anforderungen an die Revisionsbegründung des verteidigten Angeklagten
 - [BGH, Beschluss vom 02.02.2010 - 4 StR 9/10](4-str-9-10.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anwendung des Zweifelssatzes; positiver Nachweis einer erheblich verminderten Schuldfähigkeit
 - [BGH, Beschluss vom 28.01.2010 - 4 StR 622/09](4-str-622-09.md) — Grundsatz des gesetzlichen Richters: Bestimmung eines Richters als so genannter Sondervertreter in einer Strafkammer
-- [BGH, Urteil vom 21.01.2010 - 4 StR 407/09](4-str-407-09.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Aufhebung der Identität zwischen Anklage und abgeurteilter Tat we
+- [BGH, Urteil vom 21.01.2010 - 4 StR 407/09](4-str-407-09.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Aufhebung der Identität zwischen Anklage und abgeurteilter Tat wegen Veränderung des …
 - [BGH, Beschluss vom 21.01.2010 - 4 StR 518/09](4-str-518-09.md) — Strafverfahren: Fehlerhafter Eröffnungsbeschluss bei vorschriftswidriger Besetzung der Strafkammer
-- [BGH, Beschluss vom 19.01.2010 - 4 StR 504/09](4-str-504-09.md) — Revision im Strafsachen: Wirksamkeit einer Rechtsmittelbeschränkung bei Herausnahme des Maßregelausspruchs der Unterbringung in einer Entziehungsanstalt; Dauer 
-- [BGH, Beschluss vom 19.01.2010 - 4 StR 605/09](4-str-605-09.md) — Strafbefreiender Rücktritt vom versuchten Totschlag; Abgrenzung zwischen unbeendetem und beendetem Versuch; Unterbringung in einem psychiatrischen Krankenhaus b
+- [BGH, Beschluss vom 19.01.2010 - 4 StR 504/09](4-str-504-09.md) — Revision im Strafsachen: Wirksamkeit einer Rechtsmittelbeschränkung bei Herausnahme des Maßregelausspruchs der Unterbringung in einer Entziehungsanstalt; Dauer des Vorwegvollzug …
+- [BGH, Beschluss vom 19.01.2010 - 4 StR 605/09](4-str-605-09.md) — Strafbefreiender Rücktritt vom versuchten Totschlag; Abgrenzung zwischen unbeendetem und beendetem Versuch; Unterbringung in einem psychiatrischen Krankenhaus bei …
 - [BGH, Urteil vom 14.01.2010 - 4 StR 399/09](4-str-399-09.md) — Heimtückemord: Fehlendes Ausnutzungsbewusstsein bei affektivem Impulsdurchbruch
 - [BGH, Urteil vom 14.01.2010 - 4 StR 450/09](4-str-450-09.md) — Strafverfahren wegen Steinwürfen von Autobahnbrücken: Prüfung des Vorsatzes der gefährlichen Körperverletzung; Mordmerkmal der Gemeingefährlichkeit
 - [BGH, Beschluss vom 14.01.2010 - 4 StR 93/09](4-str-93-09.md) — Ausspähen von Daten durch Auslesen von auf dem Magnetstreifen einer Zahlungskarte gespeicherten Daten
 - [BGH, Beschluss vom 13.01.2010 - 4 StR 562/09](4-str-562-09.md) — Idealkonkurrenz: Verbindung mehrerer Delikte durch ein mit ihnen jeweils tateinheitlich zusammentreffendes anderes Delikt
-- [BGH, Beschluss vom 12.01.2010 - 4 StR 589/09](4-str-589-09.md) — Strafverfahren wegen gefährlicher Körperverletzung: Wirkung einer Revision des Nebenklägers; Körperverletzung mittels eines gefährlichen Werkzeuges bei Einsatz 
-- [BGH, Urteil vom 07.01.2010 - 4 StR 413/09](4-str-413-09.md) — (Körperverletzung mit Todesfolge im Amt: Anforderungen an die Beweiswürdigung bei Freispruch; erforderliche Maßnahmen zur Rettung eines gefesselten Untergebrach
+- [BGH, Beschluss vom 12.01.2010 - 4 StR 589/09](4-str-589-09.md) — Strafverfahren wegen gefährlicher Körperverletzung: Wirkung einer Revision des Nebenklägers; Körperverletzung mittels eines gefährlichen Werkzeuges bei Einsatz eines Tatmittels …
+- [BGH, Urteil vom 07.01.2010 - 4 StR 413/09](4-str-413-09.md) — (Körperverletzung mit Todesfolge im Amt: Anforderungen an die Beweiswürdigung bei Freispruch; erforderliche Maßnahmen zur Rettung eines gefesselten Untergebrachten bei Brand in …
 - [BGH, Beschluss vom 05.01.2010 - 4 StR 478/09](4-str-478-09.md) — Gefährliche Körperverletzung: Lebensgefährdende Behandlung durch Werfen auf die Fahrbahn

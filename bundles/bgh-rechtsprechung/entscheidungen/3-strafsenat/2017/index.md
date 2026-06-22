@@ -4,10 +4,10 @@
 
 - [BGH, Beschluss vom 19.12.2017 - 3 StR 515/17](3-str-515-17.md) — Adhäsionsausspruch im Strafverfahren: Gesamtschuldnerische Haftung bei Mittäterexzess
 - [BGH, Beschluss vom 14.12.2017 - 3 StR 544/17](3-str-544-17.md) — Sexueller Missbrauch von Kindern: Berücksichtigung beamtenrechtlicher Folgen der Verurteilung bei der Strafzumessung
-- [BGH, Beschluss vom 12.12.2017 - 3 StR 303/17](3-str-303-17.md) — Einschleusen von Ausländern: Erlangen eines Vermögensvorteils und Vorliegen von Gewerbsmäßigkeit bei Unterstützung einer Schleusergruppe zur „Finanzierung“ der 
+- [BGH, Beschluss vom 12.12.2017 - 3 StR 303/17](3-str-303-17.md) — Einschleusen von Ausländern: Erlangen eines Vermögensvorteils und Vorliegen von Gewerbsmäßigkeit bei Unterstützung einer Schleusergruppe zur „Finanzierung“ der Schleusung von …
 - [BGH, Beschluss vom 12.12.2017 - 3 StR 388/17](3-str-388-17.md) — Revision in Strafsachen: Audiovisuelle Zeugenvernehmung ohne Gerichtsbeschluss
 - [BGH, Beschluss vom 12.12.2017 - 3 StR 558/17](3-str-558-17.md) — Selbständiges Einziehungsverfahren bei schuldunfähigen Tätern erforderlich
-- [BGH, Urteil vom 30.11.2017 - 3 StR 385/17](3-str-385-17.md) — Revision im Strafverfahren wegen Körperverletzung und Verwendens von Kennzeichen verfassungswidriger Organisationen: Auslegung einer widersprüchlichen Revisions
+- [BGH, Urteil vom 30.11.2017 - 3 StR 385/17](3-str-385-17.md) — Revision im Strafverfahren wegen Körperverletzung und Verwendens von Kennzeichen verfassungswidriger Organisationen: Auslegung einer widersprüchlichen Revisionsbegründung der …
 - [BGH, Beschluss vom 29.11.2017 - 3 StR 526/17](3-str-526-17.md) — Strafverfahren: Sachverständigengutachten als ungeeignetes Beweismittel
 - [BGH, Beschluss vom 28.11.2017 - 3 StR 266/17](3-str-266-17.md) — Überweisungsbetrug: Voraussetzungen für die Annahme von Mittäterschaft; mittäterschaftliche Beteiligung nach Vollzug der Überweisung; Beendigung der Tat
 - [BGH, Beschluss vom 28.11.2017 - 3 StR 272/17](3-str-272-17.md) — Verlesung einer Vernehmungsniederschrift
@@ -15,17 +15,17 @@
 - [BGH, Urteil vom 16.11.2017 - 3 StR 262/17](3-str-262-17.md) — Hauptverhandlung in Strafsachen: Berücksichtigung eines Fortsetzungstermins mit der Klärung von Verfahrensfragen bei der Höchstfrist für die Unterbrechung
 - [BGH, Urteil vom 16.11.2017 - 3 StR 315/17](3-str-315-17.md) — Anstiftung zur Brandstiftung: Bedingter Tötungsvorsatz des Anstifters; Überprüfung der Beweiswürdigung durch das Revisionsgericht
 - [BGH, Beschluss vom 16.11.2017 - 3 StR 460/17](3-str-460-17.md) — Strafverfahren wegen schweren sexuellen Missbrauchs von Kindern: Verwertbarkeit der Aussage eines zur Zeugnisverweigerung berechtigten Arztes
-- [BGH, Urteil vom 16.11.2017 - 3 StR 83/17](3-str-83-17.md) — Sexueller Missbrauch von Jugendlichen: Verstoß gegen die Kognitionspflicht bei Missbrauchshandlungen an einem 14jährigen leicht intelligenzgeminderten, an einer
+- [BGH, Urteil vom 16.11.2017 - 3 StR 83/17](3-str-83-17.md) — Sexueller Missbrauch von Jugendlichen: Verstoß gegen die Kognitionspflicht bei Missbrauchshandlungen an einem 14jährigen leicht intelligenzgeminderten, an einer autistischen …
 - [BGH, Beschluss vom 14.11.2017 - 3 StR 265/17](3-str-265-17.md) — Anwendbarkeit des deutschen Strafrechts bei einem Verschaffen von falschen ausländischen amtlichen Ausweisen
-- [BGH, Beschluss vom 03.11.2017 - 3 StR 371/17](3-str-371-17.md) — Betrügerisches Finanzierungsleasing: Feststellung von Täuschung und Vermögensschaden bei angeblicher Lieferung neuer Telefonanlagen sowie des Vermögensschadens 
-- [BGH, Beschluss vom 03.11.2017 - 3 StR 379/17](3-str-379-17.md) — Strafverfahren wegen Vorbereitung einer schweren staatsgefährdenden Gewalttat: Einziehung von Bargeld bei der Ausreise eines IS-Anhängers aus der Bundesrepublik
-- [BGH, Beschluss vom 03.11.2017 - 3 StR 392/17](3-str-392-17.md) — Revisionsgerichtliche Überprüfung der Nichtanordnung einer Unterbringung in einer Entziehungsanstalt: Höchstdauer; kumulative Anordnung einer Unterbringung in e
+- [BGH, Beschluss vom 03.11.2017 - 3 StR 371/17](3-str-371-17.md) — Betrügerisches Finanzierungsleasing: Feststellung von Täuschung und Vermögensschaden bei angeblicher Lieferung neuer Telefonanlagen sowie des Vermögensschadens beim Leasinggeber …
+- [BGH, Beschluss vom 03.11.2017 - 3 StR 379/17](3-str-379-17.md) — Strafverfahren wegen Vorbereitung einer schweren staatsgefährdenden Gewalttat: Einziehung von Bargeld bei der Ausreise eines IS-Anhängers aus der Bundesrepublik Deutschland nach …
+- [BGH, Beschluss vom 03.11.2017 - 3 StR 392/17](3-str-392-17.md) — Revisionsgerichtliche Überprüfung der Nichtanordnung einer Unterbringung in einer Entziehungsanstalt: Höchstdauer; kumulative Anordnung einer Unterbringung in einer …
 - [BGH, Urteil vom 02.11.2017 - 3 StR 301/17](3-str-301-17.md) — Strafzumessung: Anforderungen an eine wesentliche Aufklärungshilfe
 - [BGH, Beschluss vom 02.11.2017 - 3 StR 410/17](3-str-410-17.md) — Sicherungsverfahren: Einziehungsentscheidung bei schuldunfähigem Täter
 - [BGH, Urteil vom 19.10.2017 - 3 StR 211/17](3-str-211-17.md) — Geheimdienstliche Agententätigkeit: Offenbarung von Daten aus dem Ausländerzentralregister und der Visadatei
 - [BGH, Beschluss vom 19.10.2017 - 3 StR 310/17](3-str-310-17.md) — Bewaffnetes unerlaubtes Handeltreiben mit Betäubungsmitteln: Unterlassener Hinweis auf milderes Strafgesetz
 - [BGH, Beschluss vom 18.10.2017 - 3 StR 342/15](3-str-342-15.md) — Kostenentscheidung im Strafverfahren: Tod des Angeklagten während des laufenden Revisionsverfahrens; Auferlegung notwendiger Auslagen auf die Staatskasse
-- [BGH, Beschluss vom 18.10.2017 - 3 StR 368/17](3-str-368-17.md) — Sicherungsverfahren gegen einen schuldunfähigen Straftäter: Darstellungsanforderungen im Urteil bei Abweichung des Tatrichters vom psychiatrischen Gutachten des
+- [BGH, Beschluss vom 18.10.2017 - 3 StR 368/17](3-str-368-17.md) — Sicherungsverfahren gegen einen schuldunfähigen Straftäter: Darstellungsanforderungen im Urteil bei Abweichung des Tatrichters vom psychiatrischen Gutachten des gerichtlich …
 - [BGH, Beschluss vom 18.10.2017 - 3 StR 78/17](3-str-78-17.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Urteilsfeststellungen zum Mitsichführen einer Waffe
 - [BGH, Beschluss vom 17.10.2017 - 3 StR 109/17](3-str-109-17.md) — Verunglimpfung des Staates und seiner Symbole: Wiedergabe fremder Äußerungen; Bewertung des Inhalts einer Äußerung sowie Zu-Eigen-Machen einer Äußerung
 - [BGH, Beschluss vom 17.10.2017 - 3 StR 177/17](3-str-177-17.md) — Maßregelvollzug: Unterbringung in einer Entziehungsanstalt bei Therapieunwilligkeit
@@ -39,8 +39,8 @@
 - [BGH, Beschluss vom 19.09.2017 - 3 StR 412/17](3-str-412-17.md) — Vorbereitung einer schweren staatsgefährdenden Gewalttat: Merkmale der Tathandlungsalternativen des Sich-Unterweisen-Lassens und des Unterweisens
 - [BGH, Beschluss vom 19.09.2017 - 3 StR 418/17](3-str-418-17.md) — Unterbringung in einer Entziehungsanstalt: Vorliegen eines Hanges bei Methadonbehandlung; Urteilsfeststellungen bei Absehen einer Unterbringungsanordnung
 - [BGH, Urteil vom 07.09.2017 - 3 StR 278/17](3-str-278-17.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Strafrahmen bei minder schwerem Fall
-- [BGH, Beschluss vom 07.09.2017 - 3 StR 307/17](3-str-307-17.md) — Betäubungsmittelabhängiger Straftäter: Höchstdauer der Unterbringung des Angeklagten in einer Entziehungsanstalt bei gleichzeitiger Verhängung einer Freiheitsst
-- [BGH, Beschluss vom 05.09.2017 - 3 StR 329/17](3-str-329-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Urteilsgründe hinsichtlich der Gefährlichkeitsprognose und eines dauerhaften Zustands d
+- [BGH, Beschluss vom 07.09.2017 - 3 StR 307/17](3-str-307-17.md) — Betäubungsmittelabhängiger Straftäter: Höchstdauer der Unterbringung des Angeklagten in einer Entziehungsanstalt bei gleichzeitiger Verhängung einer Freiheitsstrafe
+- [BGH, Beschluss vom 05.09.2017 - 3 StR 329/17](3-str-329-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Urteilsgründe hinsichtlich der Gefährlichkeitsprognose und eines dauerhaften Zustands der Schuldunfähigkeit
 - [BGH, Beschluss vom 05.09.2017 - 3 StR 362/17](3-str-362-17.md) — Schwere Brandstiftung: Teilweise Zerstörung eines Gebäudes; völlige Unbrauchbarkeit eines Patientenzimmers eines Klinikgebäudes
 - [BGH, Urteil vom 24.08.2017 - 3 StR 233/17](3-str-233-17.md) — Strafzumessung: Voraussetzungen für die Annahme eines Täter-Opfer-Ausgleichs
 - [BGH, Beschluss vom 24.08.2017 - 3 StR 348/17](3-str-348-17.md) — Untreue: Gewerbsmäßiges Handeln des Gehilfen
@@ -48,20 +48,20 @@
 - [BGH, Beschluss vom 22.08.2017 - 3 StR 299/17](3-str-299-17.md) — Körperverletzung: Strafbefreiender Rücktritt; Abgrenzung des fehlgeschlagenen vom unbeendeten Versuch
 - [BGH, Beschluss vom 22.08.2017 - 3 StR 324/17](3-str-324-17.md) — Vergewaltigung: Finaler Zusammenhang zwischen Nötigungsmittel und Taterfolg
 - [BGH, Beschluss vom 22.08.2017 - 3 StR 331/17](3-str-331-17.md) — Betäubungsmitteldelikt: Voraussetzungen eines bewaffneten Handeltreibens
-- [BGH, Beschluss vom 10.08.2017 - 3 StR 227/17](3-str-227-17.md) — Strafverfolgungsverjährung bei fahrlässiger Insolvenzverschleppung durch GmbH-Geschäftsführer: Verjährungsunterbrechende Wirkung der Beauftragung eines Sachvers
-- [BGH, Urteil vom 10.08.2017 - 3 StR 275/17](3-str-275-17.md) — Beschränkte Revision der Staatsanwaltschaft: Umfang der Beschränkung bei Anfechtung des Urteils wegen der Nichtanordnung des Vorwegvollzugs eines Teils der Frei
+- [BGH, Beschluss vom 10.08.2017 - 3 StR 227/17](3-str-227-17.md) — Strafverfolgungsverjährung bei fahrlässiger Insolvenzverschleppung durch GmbH-Geschäftsführer: Verjährungsunterbrechende Wirkung der Beauftragung eines Sachverständigen
+- [BGH, Urteil vom 10.08.2017 - 3 StR 275/17](3-str-275-17.md) — Beschränkte Revision der Staatsanwaltschaft: Umfang der Beschränkung bei Anfechtung des Urteils wegen der Nichtanordnung des Vorwegvollzugs eines Teils der Freiheitsstrafe
 - [BGH, Urteil vom 10.08.2017 - 3 StR 549/16](3-str-549-16.md) — Strafverfahren wegen Betruges: Revisionsgerichtliche Nachprüfung der Ablehnung eines Beweisantrages wegen Bedeutungslosigkeit
 - [BGH, Beschluss vom 08.08.2017 - 3 StR 179/17](3-str-179-17.md) — Strafaussetzung zur Bewährung: Vollständige Vollstreckung der Freiheitsstrafe durch Anrechnung der Untersuchungshaft
 - [BGH, Beschluss vom 08.08.2017 - 3 StR 204/17](3-str-204-17.md) — Veruntreuende Unterschlagung: Aufnahme der Qualifikation in die Urteilsformel
 - [BGH, Urteil vom 27.07.2017 - 3 StR 172/17](3-str-172-17.md) — Totschlag: Anforderungen an die Prüfung des bedingten Tötungsvorsatzes im Revisionsverfahren
-- [BGH, Urteil vom 27.07.2017 - 3 StR 490/16](3-str-490-16.md) — Vermögensnachteil bei der Untreue: Schadenshindernde Kompensation des Abflusses aus dem betreuten Vermögen durch einen gleichzeitig eintretenden Vermögenszuwach
+- [BGH, Urteil vom 27.07.2017 - 3 StR 490/16](3-str-490-16.md) — Vermögensnachteil bei der Untreue: Schadenshindernde Kompensation des Abflusses aus dem betreuten Vermögen durch einen gleichzeitig eintretenden Vermögenszuwachs
 - [BGH, Urteil vom 27.07.2017 - 3 StR 57/17](3-str-57-17.md) — Zur Strafbarkeit von Leichenschändungen nach § 8 Abs. 1 Nr. 9 VStGB.
-- [BGH, Beschluss vom 26.07.2017 - 3 StR 182/17](3-str-182-17.md) — Strafverfahren wegen Diebstahls: Zueignungsabsicht bei Wegnahme eines Behältnisses und dessen anschließender Entsorgung samt Inhalt; Sachverständigenanhörung be
+- [BGH, Beschluss vom 26.07.2017 - 3 StR 182/17](3-str-182-17.md) — Strafverfahren wegen Diebstahls: Zueignungsabsicht bei Wegnahme eines Behältnisses und dessen anschließender Entsorgung samt Inhalt; Sachverständigenanhörung bei Erwägung einer …
 - [BGH, Beschluss vom 26.07.2017 - 3 StR 437/16](3-str-437-16.md) — Volksverhetzung durch Abspielen eines ausländerfeindlichen Liedes
 - [BGH, Beschluss vom 26.07.2017 - 3 StR 52/17](3-str-52-17.md) — Strafverfahren wegen Betrugs: Verstoß gegen das insolvenzrechtliche Verwendungsverbot als Verfahrenshindernis
 - [BGH, Beschluss vom 25.07.2017 - 3 StR 111/17](3-str-111-17.md) — Revision in Strafsachen: Erforderlicher Inhalt der Urteilsgründe; notwendiger Umfang der Beweiswürdigung
 - [BGH, Beschluss vom 25.07.2017 - 3 StR 113/17](3-str-113-17.md) — Gefährliche Körperverletzung: Voraussetzungen einer gemeinschaftlichen Körperverletzung
-- [BGH, Beschluss vom 25.07.2017 - 3 StR 119/17](3-str-119-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung des symptomatischen Zusammenhangs zwischen psychotischer Erkrankung und der T
+- [BGH, Beschluss vom 25.07.2017 - 3 StR 119/17](3-str-119-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung des symptomatischen Zusammenhangs zwischen psychotischer Erkrankung und der Tat
 - [BGH, Beschluss vom 25.07.2017 - 3 StR 132/17](3-str-132-17.md) — Adhäsionsverfahren: Rückwirkende Bewilligung von Prozesskostenhilfe nach rechtskräftigem Abschluss des Revisionsverfahrens
 - [BGH, Beschluss vom 25.07.2017 - 3 StR 174/17](3-str-174-17.md) — Verstoß gegen Doppelverwertungsverbot durch strafschärfende Berücksichtigung der gemeinsamen Tatbegehung beim schweren Bandendiebstahl
 - [BGH, Beschluss vom 25.07.2017 - 3 StR 93/17](3-str-93-17.md) — Gefährliche Körperverletzung: Vorliegen einer gemeinschaftlichen Begehung
@@ -69,19 +69,19 @@
 - [BGH, Urteil vom 13.07.2017 - 3 StR 188/17](3-str-188-17.md) — Strafsache: Beweiswürdigung bei Freispruch
 - [BGH, Beschluss vom 11.07.2017 - 3 StR 107/17](3-str-107-17.md) — Beweiswürdigung im Strafverfahren: Beurteilung einer erstmaligen Aussage eines familienangehörigen Zeugen nach Schweigen im Ermittlungsverfahren
 - [BGH, Beschluss vom 11.07.2017 - 3 StR 121/17](3-str-121-17.md) — Sicherungsverfahren: Zulässigkeit einer Einziehungsentscheidung; selbständiger Einziehungsantrag
-- [BGH, Beschluss vom 11.07.2017 - 3 StR 176/17](3-str-176-17.md) — Revision im Jugendstrafverfahren wegen Nötigung: Überprüfung der Auflage einer Schadenswiedergutmachung durch Schmerzensgeldzahlung gegenüber einem Heranwachsen
+- [BGH, Beschluss vom 11.07.2017 - 3 StR 176/17](3-str-176-17.md) — Revision im Jugendstrafverfahren wegen Nötigung: Überprüfung der Auflage einer Schadenswiedergutmachung durch Schmerzensgeldzahlung gegenüber einem Heranwachsenden
 - [BGH, Beschluss vom 11.07.2017 - 3 StR 231/17](3-str-231-17.md) — Adhäsionsverfahren: Berücksichtigung der wirtschaftlichen Verhältnisse des Angeklagten bei der Bemessung des Schmerzensgeldes
 - [BGH, Beschluss vom 11.07.2017 - 3 StR 510/16](3-str-510-16.md) — Jugendstrafverfahren: Reihenfolge der Erteilung des letzten Wortes bei Anwesenheit der Erziehungsberechtigten des Angeklagten
-- [BGH, Beschluss vom 11.07.2017 - 3 StR 90/17](3-str-90-17.md) — Selbstablehnung eines Richters in einer Strafsache: Überprüfbarkeit durch das Revisionsgericht; Vorliegen eines Verstoßes gegen den Grundsatz des gesetzlichen R
-- [BGH, Beschluss vom 29.06.2017 - 3 StR 58/17](3-str-58-17.md) — Strafsache: Konkurrenz bei durch mehrere Personen begangener Deliktsserie; Abgrenzung zwischen Mittäterschaft und Teilnahme bei Handeltreiben mit Betäubungsmitt
+- [BGH, Beschluss vom 11.07.2017 - 3 StR 90/17](3-str-90-17.md) — Selbstablehnung eines Richters in einer Strafsache: Überprüfbarkeit durch das Revisionsgericht; Vorliegen eines Verstoßes gegen den Grundsatz des gesetzlichen Richters
+- [BGH, Beschluss vom 29.06.2017 - 3 StR 58/17](3-str-58-17.md) — Strafsache: Konkurrenz bei durch mehrere Personen begangener Deliktsserie; Abgrenzung zwischen Mittäterschaft und Teilnahme bei Handeltreiben mit Betäubungsmitteln
 - [BGH, Beschluss vom 27.06.2017 - 3 StR 142/17](3-str-142-17.md) — Betäubungsmitteldelikt: Sicherstellung der Betäubungsmittel als Strafzumessungsgrund
 - [BGH, Beschluss vom 14.06.2017 - 3 StR 135/17](3-str-135-17.md) — Nötigung: Erzwingen verschiedener Verhaltensweisen durch dieselbe Handlung
 - [BGH, Beschluss vom 14.06.2017 - 3 StR 97/17](3-str-97-17.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: Anforderungen an die Erfolgsaussichtsprüfung
 - [BGH, Beschluss vom 13.06.2017 - 3 StR 106/17](3-str-106-17.md) — Strafzumessung beim schweren Raub
 - [BGH, Beschluss vom 13.06.2017 - 3 StR 48/17](3-str-48-17.md) — Revision in Strafsachen: Wahrunterstellung durch das Erstgericht bei nicht ausreichend konkretisiertem Beweisbegehren; Prüfungsmaßstab für das Revisionsgericht
 - [BGH, Urteil vom 01.06.2017 - 3 StR 31/17](3-str-31-17.md) — Revisionsverfahren: Beweiswürdigung einer DNA-Spur
-- [BGH, Beschluss vom 30.05.2017 - 3 StR 136/17](3-str-136-17.md) — Bestimmung des Erfolgsunwertes bei Diebstahlstaten: Objektiver Verkehrswert der gestohlenen Sache als taugliches Strafzumessungskriterium; Geringwertigkeitsgren
-- [BGH, Urteil vom 18.05.2017 - 3 StR 103/17](3-str-103-17.md) — 1. Werden Bestechung oder Bestechlichkeit im geschäftlichen Verkehr in der Form begangen, dass der Bestechende zunächst den Vorteil gewährt und der Bestochene s
+- [BGH, Beschluss vom 30.05.2017 - 3 StR 136/17](3-str-136-17.md) — Bestimmung des Erfolgsunwertes bei Diebstahlstaten: Objektiver Verkehrswert der gestohlenen Sache als taugliches Strafzumessungskriterium; Geringwertigkeitsgrenze
+- [BGH, Urteil vom 18.05.2017 - 3 StR 103/17](3-str-103-17.md) — 1. Werden Bestechung oder Bestechlichkeit im geschäftlichen Verkehr in der Form begangen, dass der Bestechende zunächst den Vorteil gewährt und der Bestochene sodann die im …
 - [BGH, Beschluss vom 18.05.2017 - 3 StR 511/16](3-str-511-16.md) — Verständigung im Strafverfahren: Umfang der Mitteilungspflicht des Vorsitzenden
 - [BGH, Beschluss vom 16.05.2017 - 3 StR 122/17](3-str-122-17.md) — Schwerer sexueller Missbrauch von Kindern: Erheblichkeit sexueller Handlungen
 - [BGH, Beschluss vom 16.05.2017 - 3 StR 43/17](3-str-43-17.md) — Schwerer sexueller Missbrauch einer widerstandsunfähigen Person: Feststellung des milderen Gesetzes nach Novellierung des Sexualstrafrechts
@@ -89,9 +89,9 @@
 - [BGH, Urteil vom 04.05.2017 - 3 StR 323/16](3-str-323-16.md) — Hauptverhandlung in Strafsachen: Folgen eines Verstoßes gegen das konfrontative Befragungsrecht eines Belastungszeugen
 - [BGH, Urteil vom 04.05.2017 - 3 StR 69/17](3-str-69-17.md) — Beihilfe zur unerlaubten Einreise eines Flüchtlings: Auswirkungen auf die Strafbarkeit des Teilnehmers bei Straflosigkeit der Haupttat
 - [BGH, Urteil vom 04.05.2017 - 3 StR 87/17](3-str-87-17.md) — Sexueller Missbrauch von Kindern: Begriff der erheblichen sexualbezogenen Handlung; Abgrenzung zu unbedeutenden Berührungen des bekleideten Geschlechtsteils
-- [BGH, Beschluss vom 03.05.2017 - 3 StR 498/16](3-str-498-16.md) — Strafverfahren: Aufklärungspflicht des Tatgerichts hinsichtlich der Tatsachen für die Beurteilung der Verwertbarkeit der Ergebnisse einer Telekommunikationsüber
+- [BGH, Beschluss vom 03.05.2017 - 3 StR 498/16](3-str-498-16.md) — Strafverfahren: Aufklärungspflicht des Tatgerichts hinsichtlich der Tatsachen für die Beurteilung der Verwertbarkeit der Ergebnisse einer Telekommunikationsüberwachung …
 - [BGH, Beschluss vom 25.04.2017 - 3 StR 23/17](3-str-23-17.md) — Vollrausch: Strafrahmenmilderung bei nicht ausschließbarer Schuldunfähigkeit und feststehender verminderter Schuldfähigkeit
-- [BGH, Beschluss vom 25.04.2017 - 3 StR 453/16](3-str-453-16.md) — Strafverfolgungsentschädigung für Untersuchungshaft: Ausschluss bei Ursachenzusammenhang zwischen dem Verhalten des Beschuldigten und der Strafverfolgungsmaßnah
+- [BGH, Beschluss vom 25.04.2017 - 3 StR 453/16](3-str-453-16.md) — Strafverfolgungsentschädigung für Untersuchungshaft: Ausschluss bei Ursachenzusammenhang zwischen dem Verhalten des Beschuldigten und der Strafverfolgungsmaßnahme; Unterbrechung …
 - [BGH, Beschluss vom 25.04.2017 - 3 StR 81/17](3-str-81-17.md) — Betäubungsmitteldelikt: Strafzumessung; Verstoß gegen das Doppelverwertungsverbot; Voraussetzungen für die Einziehungsanordnung
 - [BGH, Beschluss vom 06.04.2017 - 3 StR 326/16](3-str-326-16.md) — Zur Strafbarkeit der Vorbereitung einer schweren staatsgefährdenden Gewalttat durch (versuchte) Ausreise aus der Bundesrepublik Deutschland.
 - [BGH, Urteil vom 06.04.2017 - 3 StR 5/17](3-str-5-17.md) — Strafverfahren wegen Betäubungsmitteldelikt: Umfang des Schutzzwecks des Auskunftsverweigerungsrechts
@@ -99,9 +99,9 @@
 - [BGH, Beschluss vom 04.04.2017 - 3 StR 516/16](3-str-516-16.md) — Beihilfe zur sexuellen Nötigung: Prüfungsreihenfolge bei minder schwerem Fall
 - [BGH, Beschluss vom 04.04.2017 - 3 StR 524/16](3-str-524-16.md) — Revision im Strafverfahren wegen Sexualdelikten: Schuldspruchänderung in Ansehung der Neuregelung des sexuellen Übergriffs
 - [BGH, Beschluss vom 04.04.2017 - 3 StR 71/17](3-str-71-17.md) — Absoluter Revisionsgrund: Abwesenheit eines Verfahrensbeteiligten bei Erklärung der Einverständnisses mit der Abladung nicht präsenter Zeugen
-- [BGH, Beschluss vom 23.03.2017 - 3 StR 260/16](3-str-260-16.md) — 1. Die Verabredung eines Verbrechens (§ 30 Abs. 2 Variante 3 StGB) setzt die Willenseinigung von mindestens zwei tatsächlich zur Tatbegehung Entschlossenen vora
-- [BGH, Beschluss vom 22.03.2017 - 3 StR 38/17](3-str-38-17.md) — Anordnung der Unterbringung in einer Entziehungsanstalt und Zurückstellung der Strafvollstreckung: Erfolgsaussicht der Therapie; Zurückstellung der Vollstreckun
-- [BGH, Beschluss vom 22.03.2017 - 3 StR 475/16](3-str-475-16.md) — Verurteilung wegen Vergewaltigung und Körperverletzung: Gesetzesänderung für die Bedrohung des Opfers der Vergewaltigung mit Gewalt gegen eine nahestehende Pers
+- [BGH, Beschluss vom 23.03.2017 - 3 StR 260/16](3-str-260-16.md) — 1. Die Verabredung eines Verbrechens (§ 30 Abs. 2 Variante 3 StGB) setzt die Willenseinigung von mindestens zwei tatsächlich zur Tatbegehung Entschlossenen voraus, an der …
+- [BGH, Beschluss vom 22.03.2017 - 3 StR 38/17](3-str-38-17.md) — Anordnung der Unterbringung in einer Entziehungsanstalt und Zurückstellung der Strafvollstreckung: Erfolgsaussicht der Therapie; Zurückstellung der Vollstreckung bei …
+- [BGH, Beschluss vom 22.03.2017 - 3 StR 475/16](3-str-475-16.md) — Verurteilung wegen Vergewaltigung und Körperverletzung: Gesetzesänderung für die Bedrohung des Opfers der Vergewaltigung mit Gewalt gegen eine nahestehende Person; Voraussetzungen …
 - [BGH, Urteil vom 09.03.2017 - 3 StR 424/16](3-str-424-16.md) — Bankrott: Strafbarkeit der Rückgewähr eines Gesellschafterdarlehens nach dem aktuell geltenden Recht
 - [BGH, Beschluss vom 07.03.2017 - 3 ARs 21/16](3-ars-21-16.md) — BGH, Beschluss 3 ARs 21/16
 - [BGH, Beschluss vom 07.03.2017 - 3 StR 427/16](3-str-427-16.md) — Idealkonkurrenz: Konkurrenzverhältnis zwischen Betäubungsmittelbesitz, Bandenhandel mit Betäubungsmitteln und dem Handeltreiben mit Betäubungsmitteln
@@ -109,14 +109,14 @@
 - [BGH, Beschluss vom 07.03.2017 - 3 StR 517/16](3-str-517-16.md) — Strafzumessung: Strafrahmenverschiebung bei Tatversuch
 - [BGH, Beschluss vom 07.03.2017 - 3 StR 521/16](3-str-521-16.md) — Auslegung des Begriffs des "schweren wirtschaftlichen Schadens"
 - [BGH, Beschluss vom 07.03.2017 - 3 StR 545/16](3-str-545-16.md) — Revision in Strafsachen: Wirksamkeit des Rechtsmittelverzichts
-- [BGH, Beschluss vom 23.02.2017 - 3 ARs 20/16](3-ars-20-16.md) — Der Minderheit eines parlamentarischen Untersuchungsausschusses kommen im Verfahren nach § 17 Abs. 2 und 4 PUAG nur dann eigene Rechte zu, wenn sie entsprechend
+- [BGH, Beschluss vom 23.02.2017 - 3 ARs 20/16](3-ars-20-16.md) — Der Minderheit eines parlamentarischen Untersuchungsausschusses kommen im Verfahren nach § 17 Abs. 2 und 4 PUAG nur dann eigene Rechte zu, wenn sie entsprechend Art. 44 Abs. 1 …
 - [BGH, Beschluss vom 23.02.2017 - 3 StR 546/16](3-str-546-16.md) — Revision im Strafverfahren: Prüfung der Verfahrensvoraussetzung eines wirksamen Adhäsionsantrages bei Beschränkung der Revision auf den Strafausspruch
-- [BGH, Beschluss vom 21.02.2017 - 3 StR 404/16](3-str-404-16.md) — Beweiswürdigung bei Aussage gegen Aussage: Feststellungen zum Tatkerngeschehen allein auf Grundlage der Angaben des (vermeintlichen) Tatopfers einer Vergewaltig
+- [BGH, Beschluss vom 21.02.2017 - 3 StR 404/16](3-str-404-16.md) — Beweiswürdigung bei Aussage gegen Aussage: Feststellungen zum Tatkerngeschehen allein auf Grundlage der Angaben des (vermeintlichen) Tatopfers einer Vergewaltigung
 - [BGH, Beschluss vom 21.02.2017 - 3 StR 455/16](3-str-455-16.md) — Gefährliche Körperverletzung: Mittäterschaft bei Hinzutreten zum Tatgeschehen
-- [BGH, Beschluss vom 21.02.2017 - 3 StR 535/16](3-str-535-16.md) — Unterbringung in einem psychiatrischen Krankenhaus nach neuem Recht: Darlegung besonderer Umstände für die Erwartung drohender erheblicher Straftaten bei nicht 
+- [BGH, Beschluss vom 21.02.2017 - 3 StR 535/16](3-str-535-16.md) — Unterbringung in einem psychiatrischen Krankenhaus nach neuem Recht: Darlegung besonderer Umstände für die Erwartung drohender erheblicher Straftaten bei nicht erheblichen …
 - [BGH, Beschluss vom 21.02.2017 - 3 StR 551/16](3-str-551-16.md) — Wiedereinsetzung im Strafverfahren: Eigenes Verschulden des Angeklagten an der Versäumung der Rechtsmittelfrist
 - [BGH, Beschluss vom 21.02.2017 - 3 StR 554/16](3-str-554-16.md) — Revision in Strafsachen: Anforderungen an eine formgerechte Unterzeichnung einer Revisionsbegründungsschrift
-- [BGH, Urteil vom 09.02.2017 - 3 StR 415/16](3-str-415-16.md) — Tötung anlässlich eines Raubes und anschließender Flucht: Anforderungen an einen bedingten Tötungsvorsatz; fehlerhafte Beweiswürdigung; Strafbarkeit wegen Verde
+- [BGH, Urteil vom 09.02.2017 - 3 StR 415/16](3-str-415-16.md) — Tötung anlässlich eines Raubes und anschließender Flucht: Anforderungen an einen bedingten Tötungsvorsatz; fehlerhafte Beweiswürdigung; Strafbarkeit wegen Verdeckungsmordes durch …
 - [BGH, Beschluss vom 08.02.2017 - 3 StR 483/16](3-str-483-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Strafmilderung bei vollständige Sicherstellung der Drogen aus einer Marihuanaplantage
 - [BGH, Beschluss vom 07.02.2017 - 3 StR 430/16](3-str-430-16.md) — Strafbarkeit wegen Beihilfe zum Betrug: Anforderungen an Bestimmtheit des Gehilfenvorsatzes
 - [BGH, Beschluss vom 07.02.2017 - 3 StR 488/16](3-str-488-16.md) — Raub: Ausnutzen der Angst des Opfers vor erneuter Gewaltanwendung
@@ -125,10 +125,10 @@
 - [BGH, Beschluss vom 24.01.2017 - 3 StR 335/16](3-str-335-16.md) — Örtliche Zuständigkeit nach Ablehnung der Eröffnung des Hauptverfahrens
 - [BGH, Beschluss vom 24.01.2017 - 3 StR 421/16](3-str-421-16.md) — Unterbringung in einem psychiatrischen Krankenhaus nach neuem Recht: Voraussetzungen der Anordnung bei nicht erheblichen Anlasstaten wie Nachstellungen
 - [BGH, Beschluss vom 24.01.2017 - 3 StR 447/16](3-str-447-16.md) — Strafverfahren: Auswirkungen einer unwirksamen Verlängerung der Revisionsbegründungsfrist
-- [BGH, Beschluss vom 24.01.2017 - 3 StR 487/16](3-str-487-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bewertungseinheit bei Besitz mehrerer verschiedenartiger Rauschgiftmengen; tateinheitlicher Besitz von Rauschgi
-- [BGH, Urteil vom 12.01.2017 - 3 StR 364/16](3-str-364-16.md) — Öffentliche Verwendung von Kennzeichen eines verbotenen Vereins: Verwendung der Kennzeichen der "Hells Angels" mit hinzugefügtem Hinweis auf eine nicht verboten
+- [BGH, Beschluss vom 24.01.2017 - 3 StR 487/16](3-str-487-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bewertungseinheit bei Besitz mehrerer verschiedenartiger Rauschgiftmengen; tateinheitlicher Besitz von Rauschgiftteilmengen
+- [BGH, Urteil vom 12.01.2017 - 3 StR 364/16](3-str-364-16.md) — Öffentliche Verwendung von Kennzeichen eines verbotenen Vereins: Verwendung der Kennzeichen der "Hells Angels" mit hinzugefügtem Hinweis auf eine nicht verbotene Unterabteilung
 - [BGH, Beschluss vom 10.01.2017 - 3 StR 144/16](3-str-144-16.md) — Verunglimpfung des Staats und seiner Symbole und Volksverhetzung: "Verbreiten" von Schriften
 - [BGH, Beschluss vom 10.01.2017 - 3 StR 216/16](3-str-216-16.md) — Verständigung im Strafverfahren: Umfang der richterlichen Mitteilungspflicht; Verständigung über "minder schwere Fälle"
 - [BGH, Beschluss vom 10.01.2017 - 3 StR 278/16](3-str-278-16.md) — Gefährliche Körperverletzung und Vergewaltigung: Voraussetzungen der gemeinschaftlichen Begehung
-- [BGH, Beschluss vom 10.01.2017 - 3 StR 496/16](3-str-496-16.md) — Entschädigung des Straftatverletzten: Tatrichterliche Entscheidung bei teilweiser Ablehnung eines Adhäsionsanspruchs; Zurückverweisung der Sache durch das Revis
-- [BGH, Beschluss vom 10.01.2017 - 3 StR 497/16](3-str-497-16.md) — (Aufhebung des Gesamtstrafenausspruchs und Zurückverweisung im Revisionsverfahren: Zäsurwirkung einer Vorverurteilung bei vollstreckter Strafe; maßgeblicher Zei
+- [BGH, Beschluss vom 10.01.2017 - 3 StR 496/16](3-str-496-16.md) — Entschädigung des Straftatverletzten: Tatrichterliche Entscheidung bei teilweiser Ablehnung eines Adhäsionsanspruchs; Zurückverweisung der Sache durch das Revisionsgericht
+- [BGH, Beschluss vom 10.01.2017 - 3 StR 497/16](3-str-497-16.md) — (Aufhebung des Gesamtstrafenausspruchs und Zurückverweisung im Revisionsverfahren: Zäsurwirkung einer Vorverurteilung bei vollstreckter Strafe; maßgeblicher Zeitpunkt des …

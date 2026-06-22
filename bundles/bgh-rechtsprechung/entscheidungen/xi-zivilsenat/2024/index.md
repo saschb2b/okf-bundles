@@ -3,21 +3,21 @@
 80 Entscheidung(en).
 
 - [BGH, Beschluss vom 09.12.2024 - XI ZB 20/24](xi-zb-20-24.md) — BGH, Beschluss XI ZB 20/24
-- [BGH, Urteil vom 03.12.2024 - XI ZR 151/23](xi-zr-151-23.md) — 1. Zur Angabe der Art des Darlehens nach Art. 247 § 3 Abs. 1 Nr. 2 EGBGB bei einem grundpfandrechtlich gesicherten Annuitätendarlehen. 2. Zur Angabe der Vertrag
+- [BGH, Urteil vom 03.12.2024 - XI ZR 151/23](xi-zr-151-23.md) — 1. Zur Angabe der Art des Darlehens nach Art. 247 § 3 Abs. 1 Nr. 2 EGBGB bei einem grundpfandrechtlich gesicherten Annuitätendarlehen. 2. Zur Angabe der Vertragslaufzeit nach Art …
 - [BGH, Beschluss vom 03.12.2024 - XI ZR 36/21](xi-zr-36-21.md) — BGH, Beschluss XI ZR 36/21
 - [BGH, Urteil vom 03.12.2024 - XI ZR 75/23](xi-zr-75-23.md) — Zur Ordnungsgemäßheit der Angabe über die Berechnung der Vorfälligkeitsentschädigung in einem Immobiliar-Verbraucherdarlehensvertrag.
-- [BGH, Urteil vom 19.11.2024 - XI ZR 139/23](xi-zr-139-23.md) — Ein Bankkunde kann sich auch dann noch auf die Unwirksamkeit einer Zustimmungsfiktionsklausel nach Maßgabe des Senatsurteils vom 27. April 2021 (XI ZR 26/20, BG
+- [BGH, Urteil vom 19.11.2024 - XI ZR 139/23](xi-zr-139-23.md) — Ein Bankkunde kann sich auch dann noch auf die Unwirksamkeit einer Zustimmungsfiktionsklausel nach Maßgabe des Senatsurteils vom 27. April 2021 (XI ZR 26/20, BGHZ 229, 344) …
 - [BGH, Beschluss vom 12.11.2024 - XI ZB 14/21](xi-zb-14-21.md) — 1. Zur Vertriebsverantwortung von Gründungsgesellschaftern. 2. Zur Pflicht, einen Nachtrag zum Verkaufsprospekt zu veröffentlichen.
-- [BGH, Beschluss vom 12.11.2024 - XI ZB 22/22](xi-zb-22-22.md) — 1. Zu der Pflicht des Oberlandesgerichts, die Grenzen von Feststellungszielen einzuhalten. 2. Zum Erfordernis von Angaben über Bewertungsgutachten und zu ihrer 
-- [BGH, Beschluss vom 12.11.2024 - XI ZB 26/20](xi-zb-26-20.md) — 1. Zu den Anforderungen an die Begründung der Rechtsbeschwerde in einem Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz. 2. Zu der Bestimmtheit eines F
-- [BGH, Urteil vom 05.11.2024 - XI ZR 251/22](xi-zr-251-22.md) — Haftung der Gründungsgesellschafterin einer Fondsgesellschaft wegen vorvertraglicher Pflichtverletzung im Zusammenhang mit Erwerb einer Fondsbeteiligung auf Sch
+- [BGH, Beschluss vom 12.11.2024 - XI ZB 22/22](xi-zb-22-22.md) — 1. Zu der Pflicht des Oberlandesgerichts, die Grenzen von Feststellungszielen einzuhalten. 2. Zum Erfordernis von Angaben über Bewertungsgutachten und zu ihrer Darstellung in …
+- [BGH, Beschluss vom 12.11.2024 - XI ZB 26/20](xi-zb-26-20.md) — 1. Zu den Anforderungen an die Begründung der Rechtsbeschwerde in einem Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz. 2. Zu der Bestimmtheit eines Feststellungsziels …
+- [BGH, Urteil vom 05.11.2024 - XI ZR 251/22](xi-zr-251-22.md) — Haftung der Gründungsgesellschafterin einer Fondsgesellschaft wegen vorvertraglicher Pflichtverletzung im Zusammenhang mit Erwerb einer Fondsbeteiligung auf Schadensersatz
 - [BGH, Beschluss vom 04.11.2024 - XI ZR 330/22](xi-zr-330-22.md) — Festsetzung des Werts des Gegenstands der anwaltlichen Tätigkeit im Nichtzulassungsbeschwerdeverfahren betreffend Schadensersatz aus Swap-Verträgen
 - [BGH, Beschluss vom 28.10.2024 - XI ZB 1/22](xi-zb-1-22.md) — Beendigung des Musterverfahrens durch protokollierten Vergleich für alle Beteiligten
-- [BGH, Urteil vom 22.10.2024 - XI ZR 214/23](xi-zr-214-23.md) — Bei einem Prämiensparvertrag, bei dem die Prämien auf die Sparbeiträge jährlich bis zu einem bestimmten Sparjahr steigen, ist das Recht der Sparkasse zur ordent
+- [BGH, Urteil vom 22.10.2024 - XI ZR 214/23](xi-zr-214-23.md) — Bei einem Prämiensparvertrag, bei dem die Prämien auf die Sparbeiträge jährlich bis zu einem bestimmten Sparjahr steigen, ist das Recht der Sparkasse zur ordentlichen Kündigung …
 - [BGH, Beschluss vom 22.10.2024 - XI ZR 296/21](xi-zr-296-21.md) — BGH, Beschluss XI ZR 296/21
 - [BGH, Beschluss vom 22.10.2024 - XI ZR 375/21](xi-zr-375-21.md) — BGH, Beschluss XI ZR 375/21
-- [BGH, Urteil vom 15.10.2024 - XI ZR 50/23](xi-zr-50-23.md) — Zur Wirksamkeit der ordentlichen Kündigung eines Zahlungsdiensterahmenvertrags nach Art. 19 Abs. 1 AGB-Banken durch eine Genossenschaftsbank gegenüber einem Kun
-- [BGH, Urteil vom 24.09.2024 - XI ZR 111/23](xi-zr-111-23.md) — 1. Die Ansprüche des Zahlungsdienstnutzers gegen den Zahlungsdienstleister auf Erteilung vorvertraglicher Entgeltinformationen aus § 675d Abs. 1 BGB i.V.m. Art.
+- [BGH, Urteil vom 15.10.2024 - XI ZR 50/23](xi-zr-50-23.md) — Zur Wirksamkeit der ordentlichen Kündigung eines Zahlungsdiensterahmenvertrags nach Art. 19 Abs. 1 AGB-Banken durch eine Genossenschaftsbank gegenüber einem Kunden, der auch …
+- [BGH, Urteil vom 24.09.2024 - XI ZR 111/23](xi-zr-111-23.md) — 1. Die Ansprüche des Zahlungsdienstnutzers gegen den Zahlungsdienstleister auf Erteilung vorvertraglicher Entgeltinformationen aus § 675d Abs. 1 BGB i.V.m. Art. 248 § 4 Abs. 1 Nr …
 - [BGH, Beschluss vom 24.09.2024 - XI ZR 331/21](xi-zr-331-21.md) — BGH, Beschluss XI ZR 331/21
 - [BGH, Beschluss vom 24.09.2024 - XI ZR 342/22](xi-zr-342-22.md) — BGH, Beschluss XI ZR 342/22
 - [BGH, Beschluss vom 24.09.2024 - XI ZR 347/21](xi-zr-347-21.md) — BGH, Beschluss XI ZR 347/21
@@ -26,7 +26,7 @@
 - [BGH, Beschluss vom 17.09.2024 - XI ZR 130/23](xi-zr-130-23.md) — Voraussetzungen eines Gehörsverstoßes eines Berufungsgerichts bei einem Aktienkauf
 - [BGH, Beschluss vom 17.09.2024 - XI ZR 16/23](xi-zr-16-23.md) — BGH, Beschluss XI ZR 16/23
 - [BGH, Beschluss vom 17.09.2024 - XI ZR 198/22](xi-zr-198-22.md) — BGH, Beschluss XI ZR 198/22
-- [BGH, Urteil vom 10.09.2024 - XI ZR 165/22](xi-zr-165-22.md) — 1. Zum stillschweigenden Abschluss eines Finanzierungsberatungsvertrags. 2. Zu den vorvertraglichen Aufklärungspflichten einer Bank bei Abschluss eines Fremdwäh
+- [BGH, Urteil vom 10.09.2024 - XI ZR 165/22](xi-zr-165-22.md) — 1. Zum stillschweigenden Abschluss eines Finanzierungsberatungsvertrags. 2. Zu den vorvertraglichen Aufklärungspflichten einer Bank bei Abschluss eines Fremdwährungsdarlehens mit …
 - [BGH, Beschluss vom 10.09.2024 - XI ZR 177/23](xi-zr-177-23.md) — BGH, Beschluss XI ZR 177/23
 - [BGH, Beschluss vom 10.09.2024 - XI ZR 179/23](xi-zr-179-23.md) — BGH, Beschluss XI ZR 179/23
 - [BGH, Beschluss vom 09.09.2024 - XI ZR 40/23](xi-zr-40-23.md) — BGH, Beschluss XI ZR 40/23
@@ -35,8 +35,8 @@
 - [BGH, Beschluss vom 09.07.2024 - XI ZB 25/23](xi-zb-25-23.md) — Ablehnungsantrag gegen den Sachverständigen wegen Besorgnis der Befangenheit
 - [BGH, Beschluss vom 09.07.2024 - XI ZR 344/22](xi-zr-344-22.md) — Beurteilungsspielraum des Gerichts bei Prüfung einer engeren Verbindung im Rahmen der Prospekthaftung; Verletzung der Anspruchs auf rechtliches Gehör
 - [BGH, Beschluss vom 09.07.2024 - XI ZR 345/22](xi-zr-345-22.md) — BGH, Beschluss XI ZR 345/22
-- [BGH, Urteil vom 09.07.2024 - XI ZR 44/23](xi-zr-44-23.md) — 1. Die von der Deutschen Bundesbank veröffentlichte Zeitreihe der Umlaufsrenditen börsennotierter Bundeswertpapiere mit Restlaufzeiten von über 8 bis 15 Jahren 
-- [BGH, Beschluss vom 09.07.2024 - XI ZR 78/23](xi-zr-78-23.md) — Präjudizielle Wirkung einer Verurteilung zur Rückzahlung einer restlichen Darlehensforderung für den nach Rechtskraft erklärten Widerruf der auf Abschluss des D
+- [BGH, Urteil vom 09.07.2024 - XI ZR 44/23](xi-zr-44-23.md) — 1. Die von der Deutschen Bundesbank veröffentlichte Zeitreihe der Umlaufsrenditen börsennotierter Bundeswertpapiere mit Restlaufzeiten von über 8 bis 15 Jahren mit der Bezeichnung …
+- [BGH, Beschluss vom 09.07.2024 - XI ZR 78/23](xi-zr-78-23.md) — Präjudizielle Wirkung einer Verurteilung zur Rückzahlung einer restlichen Darlehensforderung für den nach Rechtskraft erklärten Widerruf der auf Abschluss des Darlehensvertrags …
 - [BGH, Beschluss vom 05.07.2024 - XI ZB 7/24](xi-zb-7-24.md) — BGH, Beschluss XI ZB 7/24
 - [BGH, Beschluss vom 02.07.2024 - XI ZB 29/21](xi-zb-29-21.md) — Zur Angabe des Wechselkursrisikos in einem Prospekt über die Beteiligung an einem Schiffsfonds.
 - [BGH, Beschluss vom 02.07.2024 - XI ZR 112/23](xi-zr-112-23.md) — BGH, Beschluss XI ZR 112/23
@@ -49,7 +49,7 @@
 - [BGH, Beschluss vom 11.06.2024 - XI ZR 65/21](xi-zr-65-21.md) — BGH, Beschluss XI ZR 65/21
 - [BGH, Beschluss vom 03.06.2024 - XI ZR 225/22](xi-zr-225-22.md) — BGH, Beschluss XI ZR 225/22
 - [BGH, Beschluss vom 28.05.2024 - XI ZR 665/20](xi-zr-665-20.md) — BGH, Beschluss XI ZR 665/20
-- [BGH, Urteil vom 14.05.2024 - XI ZR 327/22](xi-zr-327-22.md) — 1. Im bargeldlosen Zahlungsverkehr entfalten die Vertragsverhältnisse zwischen den beteiligten Banken keine Schutzwirkung zugunsten Dritter, sondern es gelten d
+- [BGH, Urteil vom 14.05.2024 - XI ZR 327/22](xi-zr-327-22.md) — 1. Im bargeldlosen Zahlungsverkehr entfalten die Vertragsverhältnisse zwischen den beteiligten Banken keine Schutzwirkung zugunsten Dritter, sondern es gelten die Grundsätze der …
 - [BGH, Urteil vom 14.05.2024 - XI ZR 51/23](xi-zr-51-23.md) — BGH, Urteil XI ZR 51/23
 - [BGH, Beschluss vom 07.05.2024 - XI ZR 71/23](xi-zr-71-23.md) — BGH, Beschluss XI ZR 71/23
 - [BGH, Beschluss vom 24.04.2024 - XI ZB 1/24](xi-zb-1-24.md) — BGH, Beschluss XI ZB 1/24
@@ -58,22 +58,22 @@
 - [BGH, Beschluss vom 16.04.2024 - XI ZR 45/22](xi-zr-45-22.md) — BGH, Beschluss XI ZR 45/22
 - [BGH, Beschluss vom 16.04.2024 - XI ZR 474/21](xi-zr-474-21.md) — BGH, Beschluss XI ZR 474/21
 - [BGH, Beschluss vom 15.04.2024 - XI ZA 1/24](xi-za-1-24.md) — BGH, Beschluss XI ZA 1/24
-- [BGH, Beschluss vom 09.04.2024 - XI ZB 28/20](xi-zb-28-20.md) — 1. Zur Angabe eines Zwischengewinns in einem Prospekt über die Beteiligung an einem Schiffsfonds. 2. Zu dem Zweck einer Sensitivitätsanalyse in einem Prospekt. 
+- [BGH, Beschluss vom 09.04.2024 - XI ZB 28/20](xi-zb-28-20.md) — 1. Zur Angabe eines Zwischengewinns in einem Prospekt über die Beteiligung an einem Schiffsfonds. 2. Zu dem Zweck einer Sensitivitätsanalyse in einem Prospekt. 3. Zur Angabe von …
 - [BGH, Beschluss vom 09.04.2024 - XI ZR 132/21](xi-zr-132-21.md) — BGH, Beschluss XI ZR 132/21
 - [BGH, Beschluss vom 09.04.2024 - XI ZR 328/22](xi-zr-328-22.md) — BGH, Beschluss XI ZR 328/22
 - [BGH, Beschluss vom 09.04.2024 - XI ZR 338/21](xi-zr-338-21.md) — BGH, Beschluss XI ZR 338/21
 - [BGH, Beschluss vom 09.04.2024 - XI ZR 91/23](xi-zr-91-23.md) — BGH, Beschluss XI ZR 91/23
-- [BGH, Beschluss vom 26.03.2024 - XI ZB 25/22](xi-zb-25-22.md) — Wenn der Verkaufsprospekt für einen Containerschiffsfonds eine Prognose zur Entwicklung der Containerschiffsflotte enthält, kann ein Prospektfehler nicht mit de
+- [BGH, Beschluss vom 26.03.2024 - XI ZB 25/22](xi-zb-25-22.md) — Wenn der Verkaufsprospekt für einen Containerschiffsfonds eine Prognose zur Entwicklung der Containerschiffsflotte enthält, kann ein Prospektfehler nicht mit dem Fehlen von …
 - [BGH, Beschluss vom 26.03.2024 - XI ZR 288/21](xi-zr-288-21.md) — Widerrufsrecht nach vollständiger Erfüllung eines Darlehensvertrags
 - [BGH, Beschluss vom 26.03.2024 - XI ZR 95/23](xi-zr-95-23.md) — BGH, Beschluss XI ZR 95/23
 - [BGH, Beschluss vom 19.03.2024 - XI ZB 24/23](xi-zb-24-23.md) — BGH, Beschluss XI ZB 24/23
-- [BGH, Beschluss vom 12.03.2024 - XI ZB 2/22](xi-zb-2-22.md) — 1. Zu den Prospektangaben bei einem Schiffsfonds hinsichtlich der Verdrängung kleinerer Schiffsklassen durch größere Schiffe (sog. Kaskadeneffekt) und der Reduk
+- [BGH, Beschluss vom 12.03.2024 - XI ZB 2/22](xi-zb-2-22.md) — 1. Zu den Prospektangaben bei einem Schiffsfonds hinsichtlich der Verdrängung kleinerer Schiffsklassen durch größere Schiffe (sog. Kaskadeneffekt) und der Reduktion des Einsatzes …
 - [BGH, Urteil vom 12.03.2024 - XI ZR 159/23](xi-zr-159-23.md) — Zur Berechnung der Vorfälligkeitsentschädigung nach § 490 Abs. 2 Satz 3 BGB in einem "negativen" Zinsumfeld.
 - [BGH, Beschluss vom 12.03.2024 - XI ZR 274/22](xi-zr-274-22.md) — Spezialgesetzlichen Prospekthaftung im Zusammenhang mit dem Erwerb restituierter Waldflächen in Rumänien
 - [BGH, Beschluss vom 12.03.2024 - XI ZR 277/22](xi-zr-277-22.md) — BGH, Beschluss XI ZR 277/22
 - [BGH, Beschluss vom 12.03.2024 - XI ZR 74/21](xi-zr-74-21.md) — BGH, Beschluss XI ZR 74/21
-- [BGH, Beschluss vom 05.03.2024 - XI ZB 17/22](xi-zb-17-22.md) — Für eine Haftung des Gründungsgesellschafters nach § 280 Abs. 1, § 241 Abs. 2, § 311 Abs. 2 BGB neben der spezialgesetzlichen Prospekthaftung nach § 13 VerkPros
-- [BGH, Urteil vom 05.03.2024 - XI ZR 107/22](xi-zr-107-22.md) — Macht der Zahler gegen den Zahlungsdienstleister einen Anspruch aus § 675u Satz 2 BGB in der vom 31. Oktober 2009 bis zum 12. Januar 2018 geltenden Fassung (im 
+- [BGH, Beschluss vom 05.03.2024 - XI ZB 17/22](xi-zb-17-22.md) — Für eine Haftung des Gründungsgesellschafters nach § 280 Abs. 1, § 241 Abs. 2, § 311 Abs. 2 BGB neben der spezialgesetzlichen Prospekthaftung nach § 13 VerkProspG, §§ 44 ff. BörsG …
+- [BGH, Urteil vom 05.03.2024 - XI ZR 107/22](xi-zr-107-22.md) — Macht der Zahler gegen den Zahlungsdienstleister einen Anspruch aus § 675u Satz 2 BGB in der vom 31. Oktober 2009 bis zum 12. Januar 2018 geltenden Fassung (im Folgenden: aF) …
 - [BGH, Beschluss vom 22.02.2024 - XI ZB 30/20](xi-zb-30-20.md) — BGH, Beschluss XI ZB 30/20
 - [BGH, Beschluss vom 20.02.2024 - XI ZB 33/21](xi-zb-33-21.md) — Kapitalanleger-Musterverfahren: Anforderungen an die Richtigkeit und Vollständigkeit eines Verkaufsprospektes
 - [BGH, Beschluss vom 31.01.2024 - XI ZB 3/23](xi-zb-3-23.md) — BGH, Beschluss XI ZB 3/23

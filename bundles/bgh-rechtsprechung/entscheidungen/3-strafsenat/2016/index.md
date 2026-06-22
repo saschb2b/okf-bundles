@@ -3,16 +3,16 @@
 101 Entscheidung(en).
 
 - [BGH, Beschluss vom 21.12.2016 - 3 StR 453/16](3-str-453-16.md) — Strafantrag bei Wohnungseinbruchdiebstahl durch Angehörige: Antragsrecht der Erben des verstorbenen Geschädigten
-- [BGH, Beschluss vom 20.12.2016 - 3 StR 355/16](3-str-355-16.md) — Mitgliedschaftliche Beteiligung an einer terroristischen Vereinigung im Ausland und Vorbereitung einer schweren staatsgefährdenden Gewalttat: Konkurrenzrechtlic
+- [BGH, Beschluss vom 20.12.2016 - 3 StR 355/16](3-str-355-16.md) — Mitgliedschaftliche Beteiligung an einer terroristischen Vereinigung im Ausland und Vorbereitung einer schweren staatsgefährdenden Gewalttat: Konkurrenzrechtliche Beurteilung von …
 - [BGH, Beschluss vom 20.12.2016 - 3 StR 435/16](3-str-435-16.md) — Billigung von Straftaten: Öffentliches Gutheißen von Gefangenentötungen des IS in Syrien
 - [BGH, Beschluss vom 20.12.2016 - 3 StR 63/15](3-str-63-15.md) — Vorlage zum Absehen von Strafrahmenverschiebung bei Trunkenheit
-- [BGH, Beschluss vom 15.12.2016 - 3 ARs 20/16](3-ars-20-16.md) — Beschwerde gegen eine Anordnung der Ermittlungsrichterin des BGH nach dem Untersuchungsausschutzgesetz: Entscheidung über den Antrag auf Aussetzung der Vollzieh
+- [BGH, Beschluss vom 15.12.2016 - 3 ARs 20/16](3-ars-20-16.md) — Beschwerde gegen eine Anordnung der Ermittlungsrichterin des BGH nach dem Untersuchungsausschutzgesetz: Entscheidung über den Antrag auf Aussetzung der Vollziehung der Anordnung
 - [BGH, Beschluss vom 15.12.2016 - 3 StR 417/16](3-str-417-16.md) — Anforderungen an eine Revisionsbegründung des Nebenklägers
 - [BGH, Beschluss vom 13.12.2016 - 3 StR 193/16](3-str-193-16.md) — Strafverfahren: Anforderungen an die Ablehnung eines Beweisantrages wegen Bedeutungslosigkeit
 - [BGH, Beschluss vom 13.12.2016 - 3 StR 262/16](3-str-262-16.md) — Anordnung der Sicherungsverwahrung: Vorverurteilung bei nachträglicher Gesamtstrafenbildung
 - [BGH, Beschluss vom 13.12.2016 - 3 StR 440/16](3-str-440-16.md) — Bemessung der Gesamtfreiheitsstrafe: Anrechnung von in Brasilien verbrachter Haftzeit wegen funktionaler Verfahrenseinheit bei Betäubungsmitteldelikten
-- [BGH, Beschluss vom 01.12.2016 - 3 StR 230/16](3-str-230-16.md) — 1. Ob die Klage im Sinne des § 211 StPO auf Grund neuer Tatsachen oder Beweismittel (sog. Nova) wieder aufgenommen werden durfte, überprüft das Revisionsgericht
-- [BGH, Urteil vom 01.12.2016 - 3 StR 331/16](3-str-331-16.md) — Strafverfahren wegen Betäubungsmitteldelikten: Bindungswirkung einer Verständigung und einseitiges Widerrufsrecht der Staatsanwaltschaft; unerlaubtes Handeltrei
+- [BGH, Beschluss vom 01.12.2016 - 3 StR 230/16](3-str-230-16.md) — 1. Ob die Klage im Sinne des § 211 StPO auf Grund neuer Tatsachen oder Beweismittel (sog. Nova) wieder aufgenommen werden durfte, überprüft das Revisionsgericht als besondere …
+- [BGH, Urteil vom 01.12.2016 - 3 StR 331/16](3-str-331-16.md) — Strafverfahren wegen Betäubungsmitteldelikten: Bindungswirkung einer Verständigung und einseitiges Widerrufsrecht der Staatsanwaltschaft; unerlaubtes Handeltreiben mit …
 - [BGH, Beschluss vom 29.11.2016 - 3 StR 235/16](3-str-235-16.md) — Strafverfahren: Berechnung der Fristen für die Unterbrechung der Hauptverhandlung
 - [BGH, Beschluss vom 29.11.2016 - 3 StR 291/16](3-str-291-16.md) — Bandenbetrug: Bandenabrede und Abweichen vom gemeinsamen Tatplan; Gewerbsmäßigkeit
 - [BGH, Beschluss vom 29.11.2016 - 3 StR 381/16](3-str-381-16.md) — Unterbringung in der Sicherungsverwahrung: Anordnungsvoraussetzungen; Reihenfolge der Vorverurteilungen
@@ -22,7 +22,7 @@
 - [BGH, Beschluss vom 15.11.2016 - 3 ARs 16/16](3-ars-16-16.md) — BGH, Beschluss 3 ARs 16/16
 - [BGH, Vorlagebeschluss vom 15.11.2016 - 3 StR 236/15](3-str-236-15.md) — BGH, Vorlagebeschluss 3 StR 236/15
 - [BGH, Beschluss vom 15.11.2016 - 3 StR 344/16](3-str-344-16.md) — Betäubungsmitteldelikt: Bewaffnetes Sichverschaffen von Betäubungsmitteln in nicht geringer Menge
-- [BGH, Beschluss vom 15.11.2016 - 3 StR 385/16](3-str-385-16.md) — (Verfall von Wertersatz bei geheimdienstlicher Agententätigkeit: Unbillige Härte; Bruttoprinzip; Aufwendungen für die Tat; Erforderlichkeit hinreichender Festst
+- [BGH, Beschluss vom 15.11.2016 - 3 StR 385/16](3-str-385-16.md) — (Verfall von Wertersatz bei geheimdienstlicher Agententätigkeit: Unbillige Härte; Bruttoprinzip; Aufwendungen für die Tat; Erforderlichkeit hinreichender Feststellungen zum …
 - [BGH, Beschluss vom 02.11.2016 - 3 StR 356/16](3-str-356-16.md) — Strafurteil: Anforderungen an die Darstellung der Beweiswürdigung
 - [BGH, Beschluss vom 20.10.2016 - 3 StR 245/16](3-str-245-16.md) — Gesamtstrafenbildung: Berücksichtigungspflicht des auslieferungsrechtlichen Spezialitätsgrundsatzes
 - [BGH, Beschluss vom 20.10.2016 - 3 StR 254/16](3-str-254-16.md) — Strafverfahren: Widersprüchliche Beweiswürdigung im Urteil
@@ -30,19 +30,19 @@
 - [BGH, Beschluss vom 18.10.2016 - 3 StR 186/16](3-str-186-16.md) — Prozessualer Tatbegriff: Tatidentität bei Serienstraftat
 - [BGH, Beschluss vom 13.10.2016 - 3 StR 173/16](3-str-173-16.md) — Besonders schwerer Raub: Fehlgeschlagener Versuch bei Wegnahme einer Geldkassette ohne Inhalt
 - [BGH, Beschluss vom 13.10.2016 - 3 StR 248/16](3-str-248-16.md) — Totschlag durch Unterlassen: Garantenstellung aus familiärer Beistandspflicht
-- [BGH, Beschluss vom 13.10.2016 - 3 StR 352/16](3-str-352-16.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Haftung des lediglich als Strohmann auftretenden formellen GmbH-Geschäftsführers für die Abführung von Sozialve
+- [BGH, Beschluss vom 13.10.2016 - 3 StR 352/16](3-str-352-16.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Haftung des lediglich als Strohmann auftretenden formellen GmbH-Geschäftsführers für die Abführung von Sozialversicherungsbeiträgen
 - [BGH, Beschluss vom 05.10.2016 - 3 StR 268/16](3-str-268-16.md) — Revision im Sicherungsverfahren: Anforderungen an eine formgerechte Unterzeichnung einer Revisionsbegründungsschrift
 - [BGH, Beschluss vom 05.10.2016 - 3 StR 311/16](3-str-311-16.md) — Betäubungsmitteldelikt: Maßgeblicher Zeitpunkt für die Präklusion offenbarten Wissens
 - [BGH, Beschluss vom 05.10.2016 - 3 StR 328/16](3-str-328-16.md) — Schwerer Raub: Anforderungen an das Beisichführen eines gefährlichen Werkzeugs
 - [BGH, Beschluss vom 20.09.2016 - 3 StR 174/16](3-str-174-16.md) — Räuberische Erpressung: Konkludente Drohung; bloßes Ausnutzen der Angst des Opfers vor erneuter Gewaltanwendung; Ausnutzen einer hilflosen Lage
 - [BGH, Beschluss vom 20.09.2016 - 3 StR 302/16](3-str-302-16.md) — Betrug in Serie: Konkurrenzverhältnis der einzelnen Straftaten eines Tatbeteiligten; uneigentliches Organisationsdelikt
-- [BGH, Beschluss vom 20.09.2016 - 3 StR 84/16](3-str-84-16.md) — § 247a Abs. 1 StPO gestattet die einzig zulässige Art und Weise der Videovernehmung eines Zeugen in der Hauptverhandlung (sog. Englisches Modell). Andere Formen
+- [BGH, Beschluss vom 20.09.2016 - 3 StR 84/16](3-str-84-16.md) — § 247a Abs. 1 StPO gestattet die einzig zulässige Art und Weise der Videovernehmung eines Zeugen in der Hauptverhandlung (sog. Englisches Modell). Andere Formen der audiovisuellen …
 - [BGH, Beschluss vom 06.09.2016 - 3 StR 283/16](3-str-283-16.md) — Strafzumessung: Straferschwerende Berücksichtigung der Tatbegehung unter laufender Bewährung
-- [BGH, Beschluss vom 09.08.2016 - 3 StR 109/16](3-str-109-16.md) — Als Inhaber eines öffentlichen Amtes gibt sich aus, wer auf seine Funktion als Amtsinhaber ausdrücklich oder konkludent, sei es auch nur durch eine allgemein ge
+- [BGH, Beschluss vom 09.08.2016 - 3 StR 109/16](3-str-109-16.md) — Als Inhaber eines öffentlichen Amtes gibt sich aus, wer auf seine Funktion als Amtsinhaber ausdrücklich oder konkludent, sei es auch nur durch eine allgemein gehaltene …
 - [BGH, Beschluss vom 09.08.2016 - 3 StR 466/15](3-str-466-15.md) — Konkurrenzen: Tateinheit bei Mitgliedschaft in einer ausländischen terroristischen Vereinigung und Vorbereitung einer schweren staatsgefährdenden Gewalttat
-- [BGH, Beschluss vom 28.07.2016 - 3 StR 149/16](3-str-149-16.md) — Dass dem Angeklagten nach dem Hinweis auf sein Schweigerecht gemäß § 243 Abs. 5 Satz 1 StPO Gelegenheit gegeben worden ist, sich zu der Anklage zu äußern, gehör
-- [BGH, Urteil vom 28.07.2016 - 3 StR 153/16](3-str-153-16.md) — Revision im Strafverfahren: Verfahrensrüge der Staatsanwaltschaft wegen fehlender Mitteilung über informelle Verständigungen außerhalb der Hauptverhandlung ohne
-- [BGH, Urteil vom 28.07.2016 - 3 StR 25/16](3-str-25-16.md) — Verbot der Doppelbestrafung nach Gemeinschaftsrecht: Einstellung eines Strafverfahrens in Litauen wegen überlanger Verfahrensdauer als Strafverfolgungshindernis
+- [BGH, Beschluss vom 28.07.2016 - 3 StR 149/16](3-str-149-16.md) — Dass dem Angeklagten nach dem Hinweis auf sein Schweigerecht gemäß § 243 Abs. 5 Satz 1 StPO Gelegenheit gegeben worden ist, sich zu der Anklage zu äußern, gehört nicht zu den …
+- [BGH, Urteil vom 28.07.2016 - 3 StR 153/16](3-str-153-16.md) — Revision im Strafverfahren: Verfahrensrüge der Staatsanwaltschaft wegen fehlender Mitteilung über informelle Verständigungen außerhalb der Hauptverhandlung ohne Beteiligung der …
+- [BGH, Urteil vom 28.07.2016 - 3 StR 25/16](3-str-25-16.md) — Verbot der Doppelbestrafung nach Gemeinschaftsrecht: Einstellung eines Strafverfahrens in Litauen wegen überlanger Verfahrensdauer als Strafverfolgungshindernis in der …
 - [BGH, Beschluss vom 26.07.2016 - 3 StR 165/16](3-str-165-16.md) — Gefährliche Körperverletzung: Mittäterschaft oder Tatbeihilfe bei billigender Inkaufnahme der Verletzung des Opfers im Rahmen eines Raubes
 - [BGH, Beschluss vom 26.07.2016 - 3 StR 195/16](3-str-195-16.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Abgrenzung der Mittäterschaft von der Gehilfentätigkeit
 - [BGH, Beschluss vom 26.07.2016 - 3 StR 211/16](3-str-211-16.md) — Unterbringung in einem psychiatrischen Krankenhaus: Notwendige Urteilsfeststellungen zur Maßregelanordnung
@@ -51,47 +51,47 @@
 - [BGH, Beschluss vom 12.07.2016 - 3 StR 157/16](3-str-157-16.md) — Besonders schwerer Raub: Zweckgerichteter Einsatz einer Waffe als Raubmittel bei Gewaltanwendung vor Wegnahmeentschluss
 - [BGH, Beschluss vom 30.06.2016 - 3 StR 125/16](3-str-125-16.md) — Jugendstrafverfahren: Notwendige Urteilsfeststellungen bei Bildung einer Einheitsjugendstrafe
 - [BGH, Beschluss vom 30.06.2016 - 3 StR 221/16](3-str-221-16.md) — Betäubungsmitteldelikt: Abgrenzung von Täterschaft und Teilnahme an der Einfuhr von Betäubungsmitteln
-- [BGH, Beschluss vom 28.06.2016 - 3 StR 120/16](3-str-120-16.md) — Mordversuch: Definition von Heimtücke sowie Arg- und Wehrlosigkeit; Heimtücke des Wohnungsinhabers bei einer polizeilich veranlassten Wohnungsöffnung; Wegfall d
+- [BGH, Beschluss vom 28.06.2016 - 3 StR 120/16](3-str-120-16.md) — Mordversuch: Definition von Heimtücke sowie Arg- und Wehrlosigkeit; Heimtücke des Wohnungsinhabers bei einer polizeilich veranlassten Wohnungsöffnung; Wegfall der Wehrlosigkeit …
 - [BGH, Beschluss vom 28.06.2016 - 3 StR 154/16](3-str-154-16.md) — Schwerer sexueller Missbrauch eines Kindes: Tatbestandsverwirklichung durch Zungenkuss
 - [BGH, Beschluss vom 28.06.2016 - 3 StR 17/15](3-str-17-15.md) — Rechtliches Gehör im Strafverfahren: Hinweis des Revisionsgerichts auf seine Rechtsauffassung vor Verwerfung der Revision durch Beschluss
 - [BGH, Beschluss vom 28.06.2016 - 3 StR 46/16](3-str-46-16.md) — Strafverfahren: Anforderungen an die Ablehnung eines Beweisantrags wegen Prozessverschleppungsabsicht
-- [BGH, Urteil vom 16.06.2016 - 3 StR 2/16](3-str-2-16.md) — Geldfälschung: Tatvariante des Sichverschaffens von Falschgeld; Konkurrenzen beim Sichverschaffen mehrerer Falschgeldmengen zur Lieferung von Teilmengen an dens
+- [BGH, Urteil vom 16.06.2016 - 3 StR 2/16](3-str-2-16.md) — Geldfälschung: Tatvariante des Sichverschaffens von Falschgeld; Konkurrenzen beim Sichverschaffen mehrerer Falschgeldmengen zur Lieferung von Teilmengen an denselben Abnehmer
 - [BGH, Beschluss vom 14.06.2016 - 3 StR 128/16](3-str-128-16.md) — Mittelbare Falschbeurkundung: Erstreckung des öffentlichen Glaubens der Handelsregistereintragung einer Grundkapitalerhöhung auf inhaltliche Richtigkeit
 - [BGH, Beschluss vom 14.06.2016 - 3 StR 196/16](3-str-196-16.md) — Schwerer Raub: Rechtlicher Hinweis bei Annahme einer anderen Teilnahmeform; Urteilsfeststellungen zur konkreten Todesgefahr
 - [BGH, Beschluss vom 14.06.2016 - 3 StR 22/16](3-str-22-16.md) — Strafsache: Konkurrenzverhältnis zwischen schwerer Misshandlung von Schutzbefohlenen und gefährlicher Körperverletzung
 - [BGH, Beschluss vom 14.06.2016 - 3 StR 72/16](3-str-72-16.md) — Schwerer sexueller Missbrauch eines Kindes: Ausziehen als sexuelle Handlung an einem Kind; Erheblichkeitsschwelle
-- [BGH, Beschluss vom 02.06.2016 - 3 StR 85/16](3-str-85-16.md) — Beweiswürdigung im Strafurteil: Fehlende Gesamtwürdigung aller Einzelumstände hinsichtlich der Glaubhaftigkeit der Aussage des Belastungszeugen; Widerspruch bei
-- [BGH, Beschluss vom 31.05.2016 - 3 StR 138/16](3-str-138-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Erforderliche Feststellung von Wirkstoffgehalt und Wirkstoffmenge; Schätzung der Wirkstoffkonzentration; Geldgi
+- [BGH, Beschluss vom 02.06.2016 - 3 StR 85/16](3-str-85-16.md) — Beweiswürdigung im Strafurteil: Fehlende Gesamtwürdigung aller Einzelumstände hinsichtlich der Glaubhaftigkeit der Aussage des Belastungszeugen; Widerspruch bei der Bewertung der …
+- [BGH, Beschluss vom 31.05.2016 - 3 StR 138/16](3-str-138-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Erforderliche Feststellung von Wirkstoffgehalt und Wirkstoffmenge; Schätzung der Wirkstoffkonzentration; Geldgier des Täters als …
 - [BGH, Beschluss vom 31.05.2016 - 3 StR 54/16](3-str-54-16.md) — Revision in Strafsachen: Kostenentscheidung nach Beschränkung der Strafverfolgung und Revisionsverwerfung im Übrigen
-- [BGH, Beschluss vom 31.05.2016 - 3 StR 86/16](3-str-86-16.md) — Gründung einer kriminellen Vereinigung: Erhebliche Gefahr für die öffentliche Sicherheit durch die geplanten Straftaten; Anforderungen in diesem Sinne bei gepla
-- [BGH, Beschluss vom 04.05.2016 - 3 StR 358/15](3-str-358-15.md) — Strafverfahren: Rechtmäßigkeit einer Einzelfallzuweisung wegen Überlastung einer Strafkammer; Beteiligung an der Straftat der unerlaubten Einreise von Ausländer
-- [BGH, Beschluss vom 04.05.2016 - 3 StR 392/15](3-str-392-15.md) — Verunglimpfung von Verfassungsorganen: Verwirklichung des subjektiven Tatbestands bei öffentlicher Zurschaustellung eines Plakats mit einem "Fahndungsaufruf" be
+- [BGH, Beschluss vom 31.05.2016 - 3 StR 86/16](3-str-86-16.md) — Gründung einer kriminellen Vereinigung: Erhebliche Gefahr für die öffentliche Sicherheit durch die geplanten Straftaten; Anforderungen in diesem Sinne bei geplanter Begehung von …
+- [BGH, Beschluss vom 04.05.2016 - 3 StR 358/15](3-str-358-15.md) — Strafverfahren: Rechtmäßigkeit einer Einzelfallzuweisung wegen Überlastung einer Strafkammer; Beteiligung an der Straftat der unerlaubten Einreise von Ausländern
+- [BGH, Beschluss vom 04.05.2016 - 3 StR 392/15](3-str-392-15.md) — Verunglimpfung von Verfassungsorganen: Verwirklichung des subjektiven Tatbestands bei öffentlicher Zurschaustellung eines Plakats mit einem "Fahndungsaufruf" betreffend …
 - [BGH, Beschluss vom 04.05.2016 - 3 StR 78/16](3-str-78-16.md) — Jugendstrafe: Anforderungen an die Urteilsfeststellungen zu schädlichen Neigungen eines Jugendlichen
 - [BGH, Beschluss vom 03.05.2016 - 3 StR 449/15](3-str-449-15.md) — Volksverhetzung: Leugnung des Holocaust im Ausland; Anwendbarkeit deutschen Strafrechts
-- [BGH, Beschluss vom 19.04.2016 - 3 StR 48/16](3-str-48-16.md) — Strafverfahren wegen Betäubungsmitteldelikt: Teilfreispruch bei mangelndem Nachweis sämtlicher angeklagter Delikte; Anordnung der Unterbringung in einer Entzieh
+- [BGH, Beschluss vom 19.04.2016 - 3 StR 48/16](3-str-48-16.md) — Strafverfahren wegen Betäubungsmitteldelikt: Teilfreispruch bei mangelndem Nachweis sämtlicher angeklagter Delikte; Anordnung der Unterbringung in einer Entziehungsanstalt
 - [BGH, Beschluss vom 19.04.2016 - 3 StR 49/16](3-str-49-16.md) — Rechtsanwaltsvergütung: Feststellung der Erforderlichkeit einer Reise des Nebenklägervertreters zu seinen Mandanten in die USA
 - [BGH, Beschluss vom 19.04.2016 - 3 StR 52/16](3-str-52-16.md) — Strafverfahren wegen Betrugs: Vermögensschaden bei Einreichung ungedeckter Schecks
 - [BGH, Beschluss vom 19.04.2016 - 3 StR 566/15](3-str-566-15.md) — Strafverfahren wegen Betäubungsmitteldelikt: Anordnung der Unterbringung in einer Entziehungsanstalt; Hang und Therapieunwilligkeit
 - [BGH, Beschluss vom 05.04.2016 - 3 StR 428/15](3-str-428-15.md) — Betäubungsmitteldelikt: Strafzumessung bei mittäterschaftlicher Begehungsweise
-- [BGH, Beschluss vom 05.04.2016 - 3 StR 554/15](3-str-554-15.md) — Betäubungsmitteldelikt: Abgrenzung von Täterschaft und Teilnahme bei der unerlaubten Einfuhr von Betäubungsmitteln; Urteilsfeststellungen hinsichtlich eines Ein
+- [BGH, Beschluss vom 05.04.2016 - 3 StR 554/15](3-str-554-15.md) — Betäubungsmitteldelikt: Abgrenzung von Täterschaft und Teilnahme bei der unerlaubten Einfuhr von Betäubungsmitteln; Urteilsfeststellungen hinsichtlich eines Einflusses auf den …
 - [BGH, Beschluss vom 22.03.2016 - 3 StR 468/15](3-str-468-15.md) — Strafverfahren: Zulässigkeit der Revision des Nebenklägers
-- [BGH, Beschluss vom 22.03.2016 - 3 StR 516/15](3-str-516-15.md) — Strafverfahren: Revisionsgerichtliche Kontrolle der Änderung des Geschäftsverteilungsplans während des laufenden Geschäftsjahres; Anforderungen an die Dokumenta
-- [BGH, Beschluss vom 22.03.2016 - 3 StR 517/15](3-str-517-15.md) — Sozialleistungsbetrug: Feststellungen zum Nichtbestehen eines Anspruchs auf die erbrachten Leistungen; Feststellungen zu einer Gesamtschuldnerhaftung im Rahmen 
+- [BGH, Beschluss vom 22.03.2016 - 3 StR 516/15](3-str-516-15.md) — Strafverfahren: Revisionsgerichtliche Kontrolle der Änderung des Geschäftsverteilungsplans während des laufenden Geschäftsjahres; Anforderungen an die Dokumentation
+- [BGH, Beschluss vom 22.03.2016 - 3 StR 517/15](3-str-517-15.md) — Sozialleistungsbetrug: Feststellungen zum Nichtbestehen eines Anspruchs auf die erbrachten Leistungen; Feststellungen zu einer Gesamtschuldnerhaftung im Rahmen einer …
 - [BGH, Beschluss vom 22.03.2016 - 3 StR 56/16](3-str-56-16.md) — Strafverfahren: Zulässigkeit der Revision des Nebenklägers
 - [BGH, Urteil vom 10.03.2016 - 3 StR 347/15](3-str-347-15.md) — Strafverfahren wegen gewerbsmäßiger Ausfuhr von Dual-Use Gütern in den Iran: Begriff des Ausführers; Abgrenzung von Täterschaft und Teilnahme
-- [BGH, Beschluss vom 10.03.2016 - 3 StR 404/15](3-str-404-15.md) — Wer eine Räumlichkeit durch eine zum ordnungsgemäßen Zugang bestimmte Tür betritt, steigt nicht im Sinne von § 243 Abs. 1 Satz 2 Nr. 1, § 244 Abs. 1 Nr. 3 StGB 
-- [BGH, Urteil vom 10.03.2016 - 3 StR 437/15](3-str-437-15.md) — 1. Das Merkmal der Erheblichkeit im Sinne von § 184h Nr. 1 StGB setzt nicht voraus, dass das Opfer den sexuellen Charakter der zu bewertenden Handlung erkennt (
+- [BGH, Beschluss vom 10.03.2016 - 3 StR 404/15](3-str-404-15.md) — Wer eine Räumlichkeit durch eine zum ordnungsgemäßen Zugang bestimmte Tür betritt, steigt nicht im Sinne von § 243 Abs. 1 Satz 2 Nr. 1, § 244 Abs. 1 Nr. 3 StGB ein, unabhängig …
+- [BGH, Urteil vom 10.03.2016 - 3 StR 437/15](3-str-437-15.md) — 1. Das Merkmal der Erheblichkeit im Sinne von § 184h Nr. 1 StGB setzt nicht voraus, dass das Opfer den sexuellen Charakter der zu bewertenden Handlung erkennt (Bestätigung und …
 - [BGH, Beschluss vom 08.03.2016 - 3 StR 18/16](3-str-18-16.md) — Strafurteil wegen versuchter Vergewaltigung: Notwendige Begründung bei einer bewussten Falschaussage der einzigen Belastungszeugin in einem wesentlichen Detail
-- [BGH, Beschluss vom 08.03.2016 - 3 StR 417/15](3-str-417-15.md) — Strafverfahren wegen Körperverletzung und schwerer Freiheitsberaubung: Konkludente Bejahung des besonderen öffentlichen Interesses an der Strafverfolgung durch 
+- [BGH, Beschluss vom 08.03.2016 - 3 StR 417/15](3-str-417-15.md) — Strafverfahren wegen Körperverletzung und schwerer Freiheitsberaubung: Konkludente Bejahung des besonderen öffentlichen Interesses an der Strafverfolgung durch Anklageerhebung …
 - [BGH, Beschluss vom 08.03.2016 - 3 StR 484/15](3-str-484-15.md) — Polizeiliche Observationsberichte können in der Hauptverhandlung nach § 256 Abs. 1 Nr. 5 StPO verlesen werden.
 - [BGH, Beschluss vom 08.03.2016 - 3 StR 524/15](3-str-524-15.md) — Gefährliche Körperverletzung: Urteilsfeststellungen bei einer gemeinschaftlichen Tatbegehung
-- [BGH, Beschluss vom 08.03.2016 - 3 StR 544/15](3-str-544-15.md) — Kann ein zur Urteilsfindung berufener Richter wegen Krankheit nicht zu einer Hauptverhandlung erscheinen, die bereits an mindestens zehn Tagen stattgefunden hat
-- [BGH, Beschluss vom 25.02.2016 - 3 StR 142/15](3-str-142-15.md) — 1. Das Tatbestandsmerkmal "sonstige Täuschungshandlungen" im Sinne des § 20a Abs. 1 Satz 1 Nr. 3 WpHG entspricht bei einer am Inhalt der Richtlinie 2003/6/EG de
+- [BGH, Beschluss vom 08.03.2016 - 3 StR 544/15](3-str-544-15.md) — Kann ein zur Urteilsfindung berufener Richter wegen Krankheit nicht zu einer Hauptverhandlung erscheinen, die bereits an mindestens zehn Tagen stattgefunden hat (§ 229 Abs. 3 Satz …
+- [BGH, Beschluss vom 25.02.2016 - 3 StR 142/15](3-str-142-15.md) — 1. Das Tatbestandsmerkmal "sonstige Täuschungshandlungen" im Sinne des § 20a Abs. 1 Satz 1 Nr. 3 WpHG entspricht bei einer am Inhalt der Richtlinie 2003/6/EG des Europäischen …
 - [BGH, Beschluss vom 25.02.2016 - 3 StR 513/15](3-str-513-15.md) — Betäubungsmitteldelikt: Strafzumessung bei Aufklärungshilfe in der Hauptverhandlung
 - [BGH, Beschluss vom 25.02.2016 - 3 StR 6/16](3-str-6-16.md) — Unterbringung in einer Entziehungsanstalt: Ursächlicher Zusammenhang zwischen Tat und Hang
 - [BGH, Beschluss vom 23.02.2016 - 3 StR 481/15](3-str-481-15.md) — Sachverständigenablehnung wegen Befangenheit: Mangelnde Sachkunde als Ablehnungsgrund
 - [BGH, Beschluss vom 23.02.2016 - 3 StR 5/16](3-str-5-16.md) — Strafverfahren wegen versuchter schwerer räuberischer Erpressung: Einvernehmlicher Rücktritt bei mehreren Tatbeteiligten
-- [BGH, Beschluss vom 23.02.2016 - 3 StR 547/15](3-str-547-15.md) — Unterbringung eines schuldunfähigen Angeklagten in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung einer schweren anderen seelischen Abartigk
+- [BGH, Beschluss vom 23.02.2016 - 3 StR 547/15](3-str-547-15.md) — Unterbringung eines schuldunfähigen Angeklagten in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung einer schweren anderen seelischen Abartigkeit bei …
 - [BGH, Urteil vom 11.02.2016 - 3 StR 454/15](3-str-454-15.md) — Strafverfahren wegen Kindesmissbrauchs: Veränderung des in der Anklage angegebenen Tatzeitpunktes
 - [BGH, Beschluss vom 09.02.2016 - 3 StR 538/15](3-str-538-15.md) — Bandendiebstahl: Zurechenbarkeit von Tatbeiträgen; Abgrenzung zwischen Mittäterschaft und Beihilfe; Erkundung von Tatobjekten als Beihilfehandlung
 - [BGH, Urteil vom 28.01.2016 - 3 StR 354/15](3-str-354-15.md) — Gefährliche Körperverletzung: Strafmilderung bei Schadenswiedergutmachung in Form einer Entschuldigung nach einem Messerwurf
@@ -99,7 +99,7 @@
 - [BGH, Beschluss vom 28.01.2016 - 3 StR 521/15](3-str-521-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung der Schuldfähigkeit bei bipolaren Störungen
 - [BGH, Beschluss vom 28.01.2016 - 3 StR 534/15](3-str-534-15.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Konkurrenzverhältnis zum Besitz von Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 26.01.2016 - 3 StR 473/15](3-str-473-15.md) — Verfehlungen Jugendlicher: Anforderungen an die Begründung der Verhängung einer Jugendstrafe
-- [BGH, Beschluss vom 26.01.2016 - 3 StR 543/15](3-str-543-15.md) — Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge in Tateinheit mit Beihilfe zum unerlaubten Handeltreiben: Verstoß gegen das Doppelverwertungsve
+- [BGH, Beschluss vom 26.01.2016 - 3 StR 543/15](3-str-543-15.md) — Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge in Tateinheit mit Beihilfe zum unerlaubten Handeltreiben: Verstoß gegen das Doppelverwertungsverbot bei Ablehnung …
 - [BGH, Beschluss vom 12.01.2016 - 3 StR 462/15](3-str-462-15.md) — Schweigen des verweigerungsberechtigten Zeugen: Zulässigkeit der Prüfung und Bewertung der Gründe des Aussageverhaltens des Zeugen
 - [BGH, Beschluss vom 12.01.2016 - 3 StR 482/15](3-str-482-15.md) — Richterablehnung: Ablehnung des Vorsitzenden einer Strafkammer wegen Besorgnis der Befangenheit aufgrund des Inhalts seines Facebook-Profils
-- [BGH, Beschluss vom 12.01.2016 - 3 StR 490/15](3-str-490-15.md) — Nachträgliche Änderung des Geschäftsverteilungsplans im laufenden Geschäftsjahr wegen Überlastung eines Strafsenats: "Scheibchenweise" Einzelzuweisung auf ander
+- [BGH, Beschluss vom 12.01.2016 - 3 StR 490/15](3-str-490-15.md) — Nachträgliche Änderung des Geschäftsverteilungsplans im laufenden Geschäftsjahr wegen Überlastung eines Strafsenats: "Scheibchenweise" Einzelzuweisung auf andere Strafsenate je …

@@ -2,25 +2,25 @@
 
 98 Entscheidung(en).
 
-- [BGH, Beschluss vom 18.12.2019 - 3 StR 264/19](3-str-264-19.md) — Sichverschaffen und Besitz kinderpornographischer Schriften: Sichverschaffen durch Anfertigen von Fotoaufnahmen zum Eigengebrauch; Verfolgungsverjährung für den
+- [BGH, Beschluss vom 18.12.2019 - 3 StR 264/19](3-str-264-19.md) — Sichverschaffen und Besitz kinderpornographischer Schriften: Sichverschaffen durch Anfertigen von Fotoaufnahmen zum Eigengebrauch; Verfolgungsverjährung für den Tatbestand des …
 - [BGH, Beschluss vom 10.12.2019 - 3 StR 370/19](3-str-370-19.md) — Bindung an nicht aufgehobene Feststellungen
-- [BGH, Beschluss vom 10.12.2019 - 3 StR 514/19](3-str-514-19.md) — Fehlerhafte Strafzumessung: Minder schwerer Fall eines Diebstahls mit Waffen; strafschärfende Wertung des Fehlens eines Strafmilderungsgrundes; Absehen von der 
+- [BGH, Beschluss vom 10.12.2019 - 3 StR 514/19](3-str-514-19.md) — Fehlerhafte Strafzumessung: Minder schwerer Fall eines Diebstahls mit Waffen; strafschärfende Wertung des Fehlens eines Strafmilderungsgrundes; Absehen von der nachträglichen …
 - [BGH, Beschluss vom 10.12.2019 - 3 StR 529/19](3-str-529-19.md) — Konkurrenzen bei schwerem Einbruchsdiebstahl und Bandendiebstahl
-- [BGH, Urteil vom 28.11.2019 - 3 StR 294/19](3-str-294-19.md) — 1. Nutzt der Täter die durch seine rechtswidrigen Taten bereicherte Gesellschaft nur als formalen Mantel, ohne dass deren Vermögenssphäre von seiner eigenen get
+- [BGH, Urteil vom 28.11.2019 - 3 StR 294/19](3-str-294-19.md) — 1. Nutzt der Täter die durch seine rechtswidrigen Taten bereicherte Gesellschaft nur als formalen Mantel, ohne dass deren Vermögenssphäre von seiner eigenen getrennt ist, oder …
 - [BGH, Urteil vom 27.11.2019 - 3 StR 233/19](3-str-233-19.md) — Anabolika als bedenkliche Arzneimittel
 - [BGH, Urteil vom 27.11.2019 - 3 StR 301/19](3-str-301-19.md) — Beweiswürdigung bei Abgabe eines Schusses und zwei in Betracht kommenden Tätern
 - [BGH, Beschluss vom 26.11.2019 - 3 StR 323/19](3-str-323-19.md) — Gewerbsmäßiger Bandenbetrug: Mittäterschaft eines Beteiligten mit untergeordneter Stellung
 - [BGH, Beschluss vom 26.11.2019 - 3 StR 336/19](3-str-336-19.md) — Verfahrensfehler bei später Mitteilung über Verständigungsgespräche
 - [BGH, Beschluss vom 26.11.2019 - 3 StR 485/19](3-str-485-19.md) — Versuchter Mord und versuchter Schwangerschaftsabbruch: Konkurrenzverhältnis; Strafzumessung
-- [BGH, Beschluss vom 14.11.2019 - 3 StR 408/19](3-str-408-19.md) — Ein als Flüchtlingsunterkunft genutztes Gebäude ist teilweise zerstört im Sinne des § 306a Abs. 1 StGB, wenn ein dem Bewohner der Unterkunft zu Wohnzwecken zur 
+- [BGH, Beschluss vom 14.11.2019 - 3 StR 408/19](3-str-408-19.md) — Ein als Flüchtlingsunterkunft genutztes Gebäude ist teilweise zerstört im Sinne des § 306a Abs. 1 StGB, wenn ein dem Bewohner der Unterkunft zu Wohnzwecken zur Verfügung …
 - [BGH, Urteil vom 14.11.2019 - 3 StR 561/18](3-str-561-18.md) — Beihilfe zum Einschleusen mit Todesfolge: Zusage der Begleitung illegal eingeschleuster Frauen und Kinder
 - [BGH, Beschluss vom 13.11.2019 - 3 StR 249/19](3-str-249-19.md) — Formulierung des Antrags auf Einziehung im objektiven Verfahren
 - [BGH, Beschluss vom 13.11.2019 - 3 StR 342/19](3-str-342-19.md) — Besonders schwerer Raub: Wegnahme einer fremden Sache durch Einstecken in die eigene Kleidung und anschließende Gewaltanwendung
 - [BGH, Beschluss vom 12.11.2019 - 3 StR 436/19](3-str-436-19.md) — Adhäsionsverfahren: Anforderungen an die Begründung eines Feststellungsausspruchs
 - [BGH, Beschluss vom 31.10.2019 - 3 StR 261/19](3-str-261-19.md) — Elternzeit als Verhinderunggrund bei der Unterzeichnung eines Urteils
 - [BGH, Beschluss vom 29.10.2019 - 3 StR 437/19](3-str-437-19.md) — Strafverurteilung wegen schwerer Zwangsprostitution: Tenorierung bei Beginn der Taten vor und Beendigung nach Novellierung des Gesetzes
-- [BGH, Urteil vom 17.10.2019 - 3 StR 170/19](3-str-170-19.md) — Strafurteil wegen Einschleusens von Ausländern in mehreren Fällen mit Teilfreispruch: Kognitionspflicht des Gerichts; Begriff der Tat im verfahrensrechtlichen S
-- [BGH, Urteil vom 17.10.2019 - 3 StR 521/18](3-str-521-18.md) — Handelt der Gehilfe einer Hehlerei gewerbsmäßig und als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Raub, Diebstahl oder Hehlerei verbunden ha
+- [BGH, Urteil vom 17.10.2019 - 3 StR 170/19](3-str-170-19.md) — Strafurteil wegen Einschleusens von Ausländern in mehreren Fällen mit Teilfreispruch: Kognitionspflicht des Gerichts; Begriff der Tat im verfahrensrechtlichen Sinne
+- [BGH, Urteil vom 17.10.2019 - 3 StR 521/18](3-str-521-18.md) — Handelt der Gehilfe einer Hehlerei gewerbsmäßig und als Mitglied einer Bande, die sich zur fortgesetzten Begehung von Raub, Diebstahl oder Hehlerei verbunden hat, macht er sich …
 - [BGH, Urteil vom 17.10.2019 - 3 StR 536/18](3-str-536-18.md) — Voraussetzungen der Zueignungsabsicht beim Raub; Einheitliche Tat des Handeltreibens mit Betäubungsmitteln
 - [BGH, Beschluss vom 15.10.2019 - 3 StR 379/19](3-str-379-19.md) — Betrug: Verklammerung zur Tateinheit durch unerlaubtes Betreiben von Bankgeschäften
 - [BGH, Beschluss vom 02.10.2019 - 3 ARs 14/19](3-ars-14-19.md) — BGH, Beschluss 3 ARs 14/19
@@ -31,7 +31,7 @@
 - [BGH, Urteil vom 05.09.2019 - 3 StR 219/19](3-str-219-19.md) — Beweiswürdigung hinsichtlich des Tötungsvorsatzes bei einer Vergewaltigung
 - [BGH, Beschluss vom 05.09.2019 - 3 StR 235/19](3-str-235-19.md) — Nachträgliche Unterbringung in einem psychiatrischen Krankenhaus
 - [BGH, Beschluss vom 03.09.2019 - 3 StR 291/19](3-str-291-19.md) — Einführung von Privat-DNA-Gutachten in Gerichtsverhandlung
-- [BGH, Beschluss vom 21.08.2019 - 3 StR 221/18](3-str-221-18.md) — Strafprozess: Gesamtstrafenbildung bei Verfahrensverschmelzung eines erstinstanzlichen Verfahrens mit einem Berufungsverfahren; Voraussetzungen eines Tankbetrug
+- [BGH, Beschluss vom 21.08.2019 - 3 StR 221/18](3-str-221-18.md) — Strafprozess: Gesamtstrafenbildung bei Verfahrensverschmelzung eines erstinstanzlichen Verfahrens mit einem Berufungsverfahren; Voraussetzungen eines Tankbetrugs …
 - [BGH, Beschluss vom 21.08.2019 - 3 StR 7/19](3-str-7-19.md) — Urkundenfälschung: Konkurrenzverhältnis bei Verfälschen einer echten Urkunde und Urkundenunterdrückung durch Beschädigen einer Urkunde
 - [BGH, Beschluss vom 20.08.2019 - 3 StR 178/19](3-str-178-19.md) — Rückfallverjährungsfrist bei der Unterbringung in der Sicherungsverwahrung
 - [BGH, Beschluss vom 20.08.2019 - 3 StR 317/19](3-str-317-19.md) — Strafverfahren: Zuständigkeit bei Begehung von Betäubungsmitteldelikten als Heranwachsender und als Erwachsener
@@ -41,14 +41,14 @@
 - [BGH, Beschluss vom 06.08.2019 - 3 StR 189/19](3-str-189-19.md) — Raub mit Todesfolge: Mittäterschaft eines bei der Tötungshandlung nicht anwesenden Tatbeteiligten
 - [BGH, Beschluss vom 06.08.2019 - 3 StR 190/19](3-str-190-19.md) — (Vorsatzerfordernis in Bezug auf das Leugnen des Holocausts)
 - [BGH, Beschluss vom 06.08.2019 - 3 StR 46/19](3-str-46-19.md) — Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus
-- [BGH, Beschluss vom 24.07.2019 - 3 StR 160/19](3-str-160-19.md) — Revisionsgerichtliche Nachprüfung eines Strafurteils: Auslegungsbedürftigkeit der Anordnung einer Wertersatzeinziehung wegen unklarer Formulierung; Verwerfung d
+- [BGH, Beschluss vom 24.07.2019 - 3 StR 160/19](3-str-160-19.md) — Revisionsgerichtliche Nachprüfung eines Strafurteils: Auslegungsbedürftigkeit der Anordnung einer Wertersatzeinziehung wegen unklarer Formulierung; Verwerfung der Revision des …
 - [BGH, Beschluss vom 24.07.2019 - 3 StR 214/19](3-str-214-19.md) — Verlust des Rechtsmittels durch wirksamen Rechtsmittelverzicht
-- [BGH, Beschluss vom 24.07.2019 - 3 StR 257/19](3-str-257-19.md) — Konkurrenzverhältnis zwischen gewerbsmäßiger unerlaubter Abgabe von Betäubungsmitteln und unerlaubtem Handeltreiben mit Betäubungsmitteln in nicht geringer Meng
+- [BGH, Beschluss vom 24.07.2019 - 3 StR 257/19](3-str-257-19.md) — Konkurrenzverhältnis zwischen gewerbsmäßiger unerlaubter Abgabe von Betäubungsmitteln und unerlaubtem Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
 - [BGH, Beschluss vom 23.07.2019 - 3 StR 433/18](3-str-433-18.md) — Geldfälschung: Herstellung von Schecks zur finanziellen Unterstützung von ausländischen Rebellen
 - [BGH, Beschluss vom 11.07.2019 - 3 StR 254/19](3-str-254-19.md) — Unterbringungsentscheidung: Tatrichterliche Feststellungen zu subjektivem Straftatbestand notwendig
 - [BGH, Beschluss vom 09.07.2019 - 3 StR 155/19](3-str-155-19.md) — Revisionsverfahren in Strafsache: Abschiebung als Prozesshindernis
 - [BGH, Urteil vom 27.06.2019 - 3 StR 443/18](3-str-443-18.md) — Unterbringung bei symptomatischen Zusammenhang zwischen Hang und Tatbegehung
-- [BGH, Beschluss vom 25.06.2019 - 3 StR 130/19](3-str-130-19.md) — Strafverfahren wegen Wohnungseinbruchsdiebstählen: Konkurrenzverhältnisse bei Mittäterschaft in einer Deliktsserie; Verstoß gegen das Doppelverwertungsverbot du
+- [BGH, Beschluss vom 25.06.2019 - 3 StR 130/19](3-str-130-19.md) — Strafverfahren wegen Wohnungseinbruchsdiebstählen: Konkurrenzverhältnisse bei Mittäterschaft in einer Deliktsserie; Verstoß gegen das Doppelverwertungsverbot durch …
 - [BGH, Urteil vom 13.06.2019 - 3 StR 133/19](3-str-133-19.md) — Strafsache: Erheblichkeitsschwelle bei Zuwiderhandlung gegen ein vereinsrechtliches Betätigungsverbot
 - [BGH, Beschluss vom 12.06.2019 - 3 StR 194/19](3-str-194-19.md) — (Einziehung des Wertes erlangter Erlöse aus Betäubungsmittelhandel bei Handelsketten)
 - [BGH, Beschluss vom 05.06.2019 - 3 StR 181/19](3-str-181-19.md) — Vorliegen eines Hangs bei Betäubungsmitteldelikten
@@ -64,7 +64,7 @@
 - [BGH, Urteil vom 02.05.2019 - 3 StR 87/19](3-str-87-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Aussetzung zugleich mit der Anordnung
 - [BGH, Beschluss vom 16.04.2019 - 3 StR 35/19](3-str-35-19.md) — Erpresserischer Menschenraub: Funktionaler Zusammenhang zwischen Bemächtigungslage und beabsichtigter Erpressung
 - [BGH, Beschluss vom 16.04.2019 - 3 StR 48/19](3-str-48-19.md) — Versuchter Totschlag in Tateinheit mit gefährlicher Körperverletzung: Konkurrenzverhältnis bei Angriff gegen mehrere Personen
-- [BGH, Urteil vom 04.04.2019 - 3 StR 31/19](3-str-31-19.md) — Revision in Strafsachen: Wirksamkeit der Rechtsmittelbeschränkung auf die Nichtanordnung der Sicherungsverwahrung; Rückfallgeschwindigkeit als Strafzumessungsgr
+- [BGH, Urteil vom 04.04.2019 - 3 StR 31/19](3-str-31-19.md) — Revision in Strafsachen: Wirksamkeit der Rechtsmittelbeschränkung auf die Nichtanordnung der Sicherungsverwahrung; Rückfallgeschwindigkeit als Strafzumessungsgrund
 - [BGH, Beschluss vom 04.04.2019 - 3 StR 64/19](3-str-64-19.md) — Berücksichtigung von Tatumständen eines vom Rücktritt erfassten Delikts bei Prognoseentscheidung
 - [BGH, Beschluss vom 03.04.2019 - 3 StR 530/18](3-str-530-18.md) — Wohnungseinbruchsdiebstahl: Abgrenzung zwischen Versuch und Vollendung bei Wegwerfen einer erbeuteten Schmuckschatulle mit Modeschmuck
 - [BGH, Beschluss vom 02.04.2019 - 3 StR 135/19](3-str-135-19.md) — Wiedereinsetzungsantrag: mangelnde Sprachkenntnisse des Angeklagten
@@ -78,7 +78,7 @@
 - [BGH, Beschluss vom 19.03.2019 - 3 StR 2/19](3-str-2-19.md) — Versuchter Wohnungseinbruchsdiebstahl: Konkurrenz zu vollendetem Einbruchdiebstahl; Annahme eines minder schweren Falles
 - [BGH, Beschluss vom 19.03.2019 - 3 StR 522/18](3-str-522-18.md) — Rechtsfolgenausspruch im Strafurteil: Anordnung einer Einziehung als Strafzumessungskriterium
 - [BGH, Beschluss vom 19.03.2019 - 3 StR 68/19](3-str-68-19.md) — Strafschärfende Berücksichtigung einer erlassenen Vorstrafe
-- [BGH, Beschluss vom 07.03.2019 - 3 StR 192/18](3-str-192-18.md) — Art. 316h Satz 1 EGStGB ist mit den im Rechtsstaatsprinzip (Art. 20 Abs. 3 GG) und in den Grundrechten verankerten Prinzipien der Rechtssicherheit und des Vertr
+- [BGH, Beschluss vom 07.03.2019 - 3 StR 192/18](3-str-192-18.md) — Art. 316h Satz 1 EGStGB ist mit den im Rechtsstaatsprinzip (Art. 20 Abs. 3 GG) und in den Grundrechten verankerten Prinzipien der Rechtssicherheit und des Vertrauensschutzes …
 - [BGH, Urteil vom 07.03.2019 - 3 StR 462/17](3-str-462-17.md) — Selbstleseverfahren in der Hauptverhandlung: Anforderung an die Bezeichnung der von der Selbstleseanordnung erfassten Urkunden im Sitzungsprotokoll
 - [BGH, Beschluss vom 06.03.2019 - 3 StR 286/18](3-str-286-18.md) — Betrugsverurteilung bei Lieferung von Fälschungen an Unternehmen
 - [BGH, Beschluss vom 06.03.2019 - 3 StR 29/19](3-str-29-19.md) — Dauer des Vorwegvollzugs einer zeitigen Freiheitsstrafe vor der Unterbringung: Anrechnung der Untersuchungshaft
@@ -89,7 +89,7 @@
 - [BGH, Beschluss vom 19.02.2019 - 3 StR 14/19](3-str-14-19.md) — Strafbemessung bei mehreren Gesetzesverletzungen: Freiheitsberaubung als tatbestandsmäßiges Mittel zur Begehung eines anderen Delikts
 - [BGH, Beschluss vom 19.02.2019 - 3 StR 210/18](3-str-210-18.md) — Handeltreiben mit Betäubungsmitteln: Einziehung der Betäubungsmittel nach altem Recht
 - [BGH, Beschluss vom 07.02.2019 - 3 StR 560/18](3-str-560-18.md) — (Zulässigkeitsvoraussetzungen eines Wiedereinsetzungsantrags)
-- [BGH, Beschluss vom 06.02.2019 - 3 ARs 10/18](3-ars-10-18.md) — Beweisantragsrecht der Minderheit eines parlamentarischen Untersuchungsausschusses im Beweiserhebungsverfahren anlässlich des Terroranschlags auf dem Berliner B
+- [BGH, Beschluss vom 06.02.2019 - 3 ARs 10/18](3-ars-10-18.md) — Beweisantragsrecht der Minderheit eines parlamentarischen Untersuchungsausschusses im Beweiserhebungsverfahren anlässlich des Terroranschlags auf dem Berliner Breitscheidplatz
 - [BGH, Beschluss vom 06.02.2019 - 3 StR 239/18](3-str-239-18.md) — (Anforderungen an ein Herbeiführen von Überschuldung oder Zahlungsunfähigkeit)
 - [BGH, Beschluss vom 06.02.2019 - 3 StR 280/18](3-str-280-18.md) — Unterstützung einer ausländischen terroristischen Vereinigung: Anfangsverdacht für Durchsuchungsanordnung
 - [BGH, Beschluss vom 06.02.2019 - 3 StR 479/18](3-str-479-18.md) — Strafverfahren: Feststellung des Eingangsmerkmals im Rahmen der Schuldfähigkeit; Eingangsmerkmal bei emotional instabiler Persönlichkeitsstörung

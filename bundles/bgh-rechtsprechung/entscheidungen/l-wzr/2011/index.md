@@ -2,6 +2,6 @@
 
 3 Entscheidung(en).
 
-- [BGH, Urteil vom 25.11.2011 - LwZR 4/11](lwzr-4-11.md) — Hat der Verpächter dem Pächter von rübenanbaufähigem Ackerland keine Rübenlieferrechte übertragen, so steht ihm bei Beendigung des Vertrages - vorbehaltlich and
-- [BGH, Urteil vom 25.11.2011 - LwZR 6/11](lwzr-6-11.md) — 1. Der subventionsähnliche Vorteil aus der Milchreferenzmenge, abgabenfrei Milch zu erzeugen und vermarkten zu können, steht einem Verpächter, der nicht Erzeuge
-- [BGH, Urteil vom 15.04.2011 - LwZR 7/10](lwzr-7-10.md) — Landpachtsache: Ordnungsgemäße Besetzung des Berufungsgerichts bei der Entscheidung über die Wiedereröffnung der mündlichen Verhandlung; Wahrung der Schriftform
+- [BGH, Urteil vom 25.11.2011 - LwZR 4/11](lwzr-4-11.md) — Hat der Verpächter dem Pächter von rübenanbaufähigem Ackerland keine Rübenlieferrechte übertragen, so steht ihm bei Beendigung des Vertrages - vorbehaltlich anderweitiger …
+- [BGH, Urteil vom 25.11.2011 - LwZR 6/11](lwzr-6-11.md) — 1. Der subventionsähnliche Vorteil aus der Milchreferenzmenge, abgabenfrei Milch zu erzeugen und vermarkten zu können, steht einem Verpächter, der nicht Erzeuger ist und die auf …
+- [BGH, Urteil vom 15.04.2011 - LwZR 7/10](lwzr-7-10.md) — Landpachtsache: Ordnungsgemäße Besetzung des Berufungsgerichts bei der Entscheidung über die Wiedereröffnung der mündlichen Verhandlung; Wahrung der Schriftform für einen …

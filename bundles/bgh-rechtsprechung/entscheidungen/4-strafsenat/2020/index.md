@@ -4,12 +4,12 @@
 
 - [BGH, Beschluss vom 17.12.2020 - 4 StR 437/20](4-str-437-20.md) — Strafverfahren wegen Herstellens kinderpornografischer Schriften: Anwendung des Zweifelssatzes bei der Prüfung der Verfolgungsverjährung
 - [BGH, Beschluss vom 16.12.2020 - 4 StR 297/20](4-str-297-20.md) — Strafverurteilung wegen Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln: Erforderliche Feststellungen zu den geförderten Haupttaten
-- [BGH, Beschluss vom 16.12.2020 - 4 StR 526/19](4-str-526-19.md) — Ein elektronischer Taschenrechner unterfällt als elektronisches Gerät, das der Information dient oder zu dienen bestimmt ist, der Vorschrift des § 23 Abs. 1a Sa
+- [BGH, Beschluss vom 16.12.2020 - 4 StR 526/19](4-str-526-19.md) — Ein elektronischer Taschenrechner unterfällt als elektronisches Gerät, das der Information dient oder zu dienen bestimmt ist, der Vorschrift des § 23 Abs. 1a Satz 1 StVO.
 - [BGH, Beschluss vom 15.12.2020 - 4 StR 385/20](4-str-385-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
-- [BGH, Beschluss vom 03.12.2020 - 4 StR 175/20](4-str-175-20.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Prüfung der Schuldunfähigkeit bei Minderung der geistigen Leistungsfähigkeit; Schluss auf fehl
+- [BGH, Beschluss vom 03.12.2020 - 4 StR 175/20](4-str-175-20.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Prüfung der Schuldunfähigkeit bei Minderung der geistigen Leistungsfähigkeit; Schluss auf fehlende …
 - [BGH, Beschluss vom 03.12.2020 - 4 StR 317/20](4-str-317-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefahrenprognose bei längerer Straffreiheit des Beschuldigten
 - [BGH, Beschluss vom 03.12.2020 - 4 StR 371/20](4-str-371-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anordnung bei gefährlichem Eingriff in den Bahnverkehr
-- [BGH, Beschluss vom 03.12.2020 - 4 StR 541/19](4-str-541-19.md) — Strafverurteilung wegen vorsätzlichen gefährlichen Eingriffs in den Straßenverkehr u.a.: Verständigung über die Unterbringung in einem psychiatrischen Krankenha
+- [BGH, Beschluss vom 03.12.2020 - 4 StR 541/19](4-str-541-19.md) — Strafverurteilung wegen vorsätzlichen gefährlichen Eingriffs in den Straßenverkehr u.a.: Verständigung über die Unterbringung in einem psychiatrischen Krankenhaus
 - [BGH, Beschluss vom 02.12.2020 - 4 StR 398/20](4-str-398-20.md) — Vergewaltigung: Penetrationen und Berührungen der Klitoris mit dem Finger
 - [BGH, Beschluss vom 02.12.2020 - 4 StR 422/20](4-str-422-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Berücksichtigung der Einziehungsentscheidung im Rahmen der Strafzumessung
 - [BGH, Beschluss vom 01.12.2020 - 4 StR 213/20](4-str-213-20.md) — Unerlaubte Einfuhr und unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Divergenz zur Frage der Tateinheit durch Klammerwirkung
@@ -17,45 +17,45 @@
 - [BGH, Beschluss vom 19.11.2020 - 4 StR 240/20](4-str-240-20.md) — Strafverurteilung wegen erpresserischen Menschenraubs und gefährlichen Eingriffs in den Straßenverkehr u.a.: Subjektiver Tatbestand
 - [BGH, Beschluss vom 19.11.2020 - 4 StR 249/20](4-str-249-20.md) — Selbstanzeige einer Richterin des Revisionsgerichts wegen Befangenheitsbesorgnis: Ehe mit dem Nebenklagevertreter im Adhäsionsverfahren
 - [BGH, Beschluss vom 19.11.2020 - 4 StR 387/20](4-str-387-20.md) — Strafverfahren: Minderung des Einziehungsbetrages um eine zeitlich nach der Tat erbrachte Geldleistung an den Geschädigten
-- [BGH, Beschluss vom 19.11.2020 - 4 StR 431/20](4-str-431-20.md) — Zur Anwendbarkeit des Hemmungsgrundes des § 10 Abs. 1 Satz 1 EGStPO bei ärztlich angeratener Kontaktvermeidung eines Prozessbeteiligten zum Schutz von dessen Eh
-- [BGH, Beschluss vom 18.11.2020 - 4 StR 118/20](4-str-118-20.md) — Die Hemmung der Unterbrechungsfristen nach § 229 Abs. 1 und Abs. 2 StPO kann bei wiederholter Erkrankung einer oder mehrerer der in § 229 Abs. 3 Satz 1 StPO gen
+- [BGH, Beschluss vom 19.11.2020 - 4 StR 431/20](4-str-431-20.md) — Zur Anwendbarkeit des Hemmungsgrundes des § 10 Abs. 1 Satz 1 EGStPO bei ärztlich angeratener Kontaktvermeidung eines Prozessbeteiligten zum Schutz von dessen Ehegatten vor einer …
+- [BGH, Beschluss vom 18.11.2020 - 4 StR 118/20](4-str-118-20.md) — Die Hemmung der Unterbrechungsfristen nach § 229 Abs. 1 und Abs. 2 StPO kann bei wiederholter Erkrankung einer oder mehrerer der in § 229 Abs. 3 Satz 1 StPO genannten Personen …
 - [BGH, Beschluss vom 18.11.2020 - 4 StR 35/20](4-str-35-20.md) — Ein bei dem Berechtigten in Vergessenheit geratener Schlüssel ist kein falscher Schlüssel im Sinne des § 244 Abs. 1 Nr. 3 StGB.
 - [BGH, Beschluss vom 18.11.2020 - 4 StR 372/20](4-str-372-20.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Rechtsgrundlage für die Einziehung einer Maschinenpistole nebst Munition
 - [BGH, Beschluss vom 18.11.2020 - 4 StR 422/19](4-str-422-19.md) — Sexueller Missbrauch von Jugendlichen: Ausnutzen der fehlenden sexuellen Selbstbestimmung des Tatopfers
 - [BGH, Beschluss vom 17.11.2020 - 4 StR 390/20](4-str-390-20.md) — Öffentlichkeit des Strafverfahrens: Hinderung der Teilnahme als Zuschauer durch Corona-Allgemeinverfügung
-- [BGH, Beschluss vom 09.11.2020 - 4 StR 626/19](4-str-626-19.md) — Besonders schwere Brandstiftung: Taterfolgsvariante des teilweisen Zerstörens bei einem gemischt genutzten Gebäude; Strafbarkeit des Repräsentanten im versicher
+- [BGH, Beschluss vom 09.11.2020 - 4 StR 626/19](4-str-626-19.md) — Besonders schwere Brandstiftung: Taterfolgsvariante des teilweisen Zerstörens bei einem gemischt genutzten Gebäude; Strafbarkeit des Repräsentanten im versicherungsrechtlichen …
 - [BGH, Beschluss vom 05.11.2020 - 4 StR 201/20](4-str-201-20.md) — Sexueller Übergriff: Darlegungsanforderungen bei Annahme eines minder schweren Falls
 - [BGH, Urteil vom 05.11.2020 - 4 StR 381/20](4-str-381-20.md) — Strafurteil wegen Betäubungsmitteldelikten: Beweiswürdigung der Einlassung des Angeklagten
 - [BGH, Beschluss vom 04.11.2020 - 4 StR 425/19](4-str-425-19.md) — Totschlag: Bedinger Tötungsvorsatz bei tödlichem Verkehrsunfall beim sog. "Stechen"
 - [BGH, Beschluss vom 03.11.2020 - 4 StR 341/20](4-str-341-20.md) — Schwere Körperverletzung: Konkurrenzverhältnis bei sukzessiver Verletzung verschiedener Personen
-- [BGH, Beschluss vom 03.11.2020 - 4 StR 408/20](4-str-408-20.md) — Täteridentifizierung im Strafurteil wegen Wohnungseinbruchsdiebstählen: Notwendige Darstellung der Ergebnisse einer auf einer molekulargenetischen Vergleichsunt
-- [BGH, Beschluss vom 22.10.2020 - 4 StR 258/20](4-str-258-20.md) — Bewaffneten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge und Straßenverkehrsgefährdung während der Fluchtfahrt: Darstellungsanforderungen hinsich
+- [BGH, Beschluss vom 03.11.2020 - 4 StR 408/20](4-str-408-20.md) — Täteridentifizierung im Strafurteil wegen Wohnungseinbruchsdiebstählen: Notwendige Darstellung der Ergebnisse einer auf einer molekulargenetischen Vergleichsuntersuchung von …
+- [BGH, Beschluss vom 22.10.2020 - 4 StR 258/20](4-str-258-20.md) — Bewaffneten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge und Straßenverkehrsgefährdung während der Fluchtfahrt: Darstellungsanforderungen hinsichtlich der …
 - [BGH, Beschluss vom 21.10.2020 - 4 StR 151/20](4-str-151-20.md) — Gefährlicher Eingriff in den Straßenverlehr: Verkehrsspezifische konkrete Gefahr bei einem Außeneingriff
 - [BGH, Beschluss vom 21.10.2020 - 4 StR 290/20](4-str-290-20.md) — Strafverfahren: Anforderungen an einen Übernahmebeschluss eines höherrangigen Gerichts
 - [BGH, Beschluss vom 20.10.2020 - 4 StR 214/20](4-str-214-20.md) — Einziehung: Berücksichtigung des Wertes des eingezogenen Gegenstandes bei der Strafzumessung
 - [BGH, Beschluss vom 20.10.2020 - 4 StR 357/20](4-str-357-20.md) — Fahren ohne Fahrerlaubnis: Begründungserfordernis für die Dauer einer Sperrfrist für die Erteilung einer Fahrerlaubnis
 - [BGH, Urteil vom 08.10.2020 - 4 StR 256/20](4-str-256-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anordnung bei nicht erheblichen Straftaten
 - [BGH, Beschluss vom 08.10.2020 - 4 StR 339/20](4-str-339-20.md) — Schwere Misshandlung von Schutzbefohlenen: Vorliegen des subjektiven Tatbestands
-- [BGH, Beschluss vom 08.10.2020 - 4 StR 636/19](4-str-636-19.md) — Strafurteil: Anforderungen an die Beurteilung der Schuldfähigkeit durch den Tatrichter bei Vorliegen eines Sachverständigengutachtens; Gesamtwürdigung der Alkoh
+- [BGH, Beschluss vom 08.10.2020 - 4 StR 636/19](4-str-636-19.md) — Strafurteil: Anforderungen an die Beurteilung der Schuldfähigkeit durch den Tatrichter bei Vorliegen eines Sachverständigengutachtens; Gesamtwürdigung der Alkoholisierung des …
 - [BGH, Beschluss vom 07.10.2020 - 4 StR 145/20](4-str-145-20.md) — Strafzumessung und Gesamtstrafenbildung: Berücksichtigung einer festgestellten Persönlichkeitsstörung als Ursache fehlender Selbstbeherrschung
-- [BGH, Beschluss vom 07.10.2020 - 4 StR 364/20](4-str-364-20.md) — Strafverurteilung wegen Urkundenfälschung und Fahren ohne Fahrerlaubnis: Konkurrenzverhältnis bei Entwenden eines amtlichen Kfz-Kennzeichens und anschließender 
+- [BGH, Beschluss vom 07.10.2020 - 4 StR 364/20](4-str-364-20.md) — Strafverurteilung wegen Urkundenfälschung und Fahren ohne Fahrerlaubnis: Konkurrenzverhältnis bei Entwenden eines amtlichen Kfz-Kennzeichens und anschließender Fahrzeugnutzung …
 - [BGH, Beschluss vom 07.10.2020 - 4 StR 602/19](4-str-602-19.md) — Raub mit Todesfolge: Qualifikationsspezifischer Zusammenhang
 - [BGH, Beschluss vom 06.10.2020 - 4 StR 168/20](4-str-168-20.md) — Tätlicher Angriff auf Vollstreckungsbeamte: Tatbestandsmerkmal der Rechtmäßigkeit einer Ingewahrsamnahme
 - [BGH, Beschluss vom 06.10.2020 - 4 StR 251/20](4-str-251-20.md) — Beihilfe: Konkurrenzrechtliche Bewertung der Gehilfentätigkeit zum bandenmäßigen Handeltreiben mit Betäubungsmitteln
-- [BGH, Beschluss vom 24.09.2020 - 4 StR 144/20](4-str-144-20.md) — Wohnungsdurchsuchung und Maßregelanordnung: Rüge der verfahrensfehlerhaften Durchsuchung durch einen Dritten; Unterbringungsanordnung ohne ausreichende Behandlu
+- [BGH, Beschluss vom 24.09.2020 - 4 StR 144/20](4-str-144-20.md) — Wohnungsdurchsuchung und Maßregelanordnung: Rüge der verfahrensfehlerhaften Durchsuchung durch einen Dritten; Unterbringungsanordnung ohne ausreichende Behandlungsaussicht
 - [BGH, Beschluss vom 22.09.2020 - 4 StR 265/20](4-str-265-20.md) — Strafaussetzung zur Bewährung: Berücksichtigung der Wertevorstellung des Angeklagten bei bereits festgestellter positiver Kriminalprognose
 - [BGH, Urteil vom 10.09.2020 - 4 StR 14/20](4-str-14-20.md) — Schwerer Raub: Sukzessive Mittäterschaft nach der Tatvollendung mit Bezug auf qualifizierende Merkmale
-- [BGH, Beschluss vom 09.09.2020 - 4 StR 216/20](4-str-216-20.md) — Nachträgliche Gesamtstrafenbildung: Fehlerhafte Einbeziehung eines Strafbefehles mit einer Bewährungsstrafe; doppelte Anwendung des Zweifelssatzes bei nicht fes
+- [BGH, Beschluss vom 09.09.2020 - 4 StR 216/20](4-str-216-20.md) — Nachträgliche Gesamtstrafenbildung: Fehlerhafte Einbeziehung eines Strafbefehles mit einer Bewährungsstrafe; doppelte Anwendung des Zweifelssatzes bei nicht feststehenden …
 - [BGH, Beschluss vom 08.09.2020 - 4 StR 167/20](4-str-167-20.md) — Einstellung des Sicherungsverfahrens wegen des Todes des Beschuldigten: Entscheidung über die notwendigen Auslagen des Beschuldigten
 - [BGH, Beschluss vom 08.09.2020 - 4 StR 288/20](4-str-288-20.md) — Sicherungsverfahren gegen schuldunfähigen Täter: Notwehrlage bei Messerverletzungen während einer Auseinandersetzung eines Untergebrachten mit dem Bezugspfleger
-- [BGH, Beschluss vom 08.09.2020 - 4 StR 295/20](4-str-295-20.md) — Versuchter Totschlag in Tateinheit mit gefährlicher Körperverletzung: Tatrichterliche Feststellungen zum voluntativen Vorsatzelement bei psychisch erkranktem An
+- [BGH, Beschluss vom 08.09.2020 - 4 StR 295/20](4-str-295-20.md) — Versuchter Totschlag in Tateinheit mit gefährlicher Körperverletzung: Tatrichterliche Feststellungen zum voluntativen Vorsatzelement bei psychisch erkranktem Angeklagten sowie zur …
 - [BGH, Beschluss vom 08.09.2020 - 4 StR 44/20](4-str-44-20.md) — Versuchte sexuelle Nötigung: Versuchsbeginn bei mittelbarer Täterschaft und geplantem Irrtum des Tatmittlers
-- [BGH, Beschluss vom 08.09.2020 - 4 StR 75/20](4-str-75-20.md) — Strafverfahren gegen einen Kapitalanlage- und Vermögensberater wegen Betrugs: Unterbrechung der Verfolgungsverjährung durch Durchsuchungsbeschlüsse; Beschränkun
+- [BGH, Beschluss vom 08.09.2020 - 4 StR 75/20](4-str-75-20.md) — Strafverfahren gegen einen Kapitalanlage- und Vermögensberater wegen Betrugs: Unterbrechung der Verfolgungsverjährung durch Durchsuchungsbeschlüsse; Beschränkung der Einziehung …
 - [BGH, Beschluss vom 27.08.2020 - 4 StR 670/19](4-str-670-19.md) — Unterbringung in einer Entziehungsanstalt: Erneute Anordnung der Unterbringung bei Verurteilung wegen der vor einer früheren Verurteilung begangenen Tat
 - [BGH, Beschluss vom 26.08.2020 - 4 StR 132/20](4-str-132-20.md) — Schwerer sexueller Missbrauch von Kindern: Vernehmung von Zeugen in Abwesenheit des Angeklagten; Zeitpunkt der Unterrichtungspflicht
-- [BGH, Beschluss vom 25.08.2020 - 4 StR 185/20](4-str-185-20.md) — Anforderungen an die Beweiswürdigung bei Betäubungsmitteldelikten: Beachtung des Zweifelsgrundsatzes bei der Bestimmung einer jeweiligen Teilmenge für den gewin
-- [BGH, Beschluss vom 13.08.2020 - 4 StR 629/19](4-str-629-19.md) — Strafverfahren wegen Nachstellung mit Todesfolge: Notwendige Wiedergabe der Einlassung des Angeklagten im Urteil; Fahrlässigkeit der Verursachung der Todesfolge
-- [BGH, Beschluss vom 12.08.2020 - 4 StR 189/20](4-str-189-20.md) — Bildung einer Gesamtfreiheitsstrafe nach Bewährungswiderruf in einem neuen Strafverfahren: Anrechnung von erbrachten Geldleistungen des Angeklagten zur Erfüllun
+- [BGH, Beschluss vom 25.08.2020 - 4 StR 185/20](4-str-185-20.md) — Anforderungen an die Beweiswürdigung bei Betäubungsmitteldelikten: Beachtung des Zweifelsgrundsatzes bei der Bestimmung einer jeweiligen Teilmenge für den gewinnbringenden …
+- [BGH, Beschluss vom 13.08.2020 - 4 StR 629/19](4-str-629-19.md) — Strafverfahren wegen Nachstellung mit Todesfolge: Notwendige Wiedergabe der Einlassung des Angeklagten im Urteil; Fahrlässigkeit der Verursachung der Todesfolge; Vorhersehbarkeit …
+- [BGH, Beschluss vom 12.08.2020 - 4 StR 189/20](4-str-189-20.md) — Bildung einer Gesamtfreiheitsstrafe nach Bewährungswiderruf in einem neuen Strafverfahren: Anrechnung von erbrachten Geldleistungen des Angeklagten zur Erfüllung von …
 - [BGH, Beschluss vom 12.08.2020 - 4 StR 588/19](4-str-588-19.md) — Anordnung der Sicherungsverwahrung: Berücksichtigung zulässigen Verteidigungsverhaltens des Angeklagten
 - [BGH, Urteil vom 30.07.2020 - 4 StR 419/19](4-str-419-19.md) — Fahrlässiger unerlaubter Umgang mit Abfällen: Voraussetzungen des bedingten Vorsatzes; Einordnung als gefährlicher Abfall
 - [BGH, Urteil vom 30.07.2020 - 4 StR 486/19](4-str-486-19.md) — Jugendstrafsache wegen Totschlags: Nachträgliche Anordnung der Sicherungsverwahrung in einem Altfall
@@ -63,30 +63,30 @@
 - [BGH, Urteil vom 30.07.2020 - 4 StR 603/19](4-str-603-19.md) — Beweiswürdigung im Strafverfahren: Unzureichende Würdigung von Belastungsindizien; Anwendung des Zweifelsgrundsatzes
 - [BGH, Beschluss vom 29.07.2020 - 4 StR 49/20](4-str-49-20.md) — Selbstaufnahmen des Tatopfers können Gegenstand der unbefugten Weitergabe im Sinne des § 201a Abs. 1 Nr. 4 StGB sein.
 - [BGH, Beschluss vom 29.07.2020 - 4 StR 69/20](4-str-69-20.md) — Beihilfe zum Angriff auf den Seeverkehr: Beendigung der Tathandlung
-- [BGH, Beschluss vom 28.07.2020 - 4 StR 108/20](4-str-108-20.md) — Anordnung der Unterbringung in der Sicherungsverwahrung: Anforderungen an die Begründung der Annahme eines Hanges; erschöpfende Erörterung ambivalenter Indizien
+- [BGH, Beschluss vom 28.07.2020 - 4 StR 108/20](4-str-108-20.md) — Anordnung der Unterbringung in der Sicherungsverwahrung: Anforderungen an die Begründung der Annahme eines Hanges; erschöpfende Erörterung ambivalenter Indizien bei einem …
 - [BGH, Beschluss vom 15.07.2020 - 4 StR 89/20](4-str-89-20.md) — Totschlag: Unterbringung in einer Entziehungsanstalt aufgrund Rauschtat
 - [BGH, Beschluss vom 14.07.2020 - 4 StR 194/20](4-str-194-20.md) — Gefährliche Körperverletzung: Einsatz eines Kraftfahrzeugs als Werkzeug
 - [BGH, Beschluss vom 14.07.2020 - 4 StR 611/19](4-str-611-19.md) — Parteiverrat durch Rechtsanwalt: Strafmilderung durch Täter-Opfer-Ausgleich
-- [BGH, Beschluss vom 08.07.2020 - 4 StR 72/20](4-str-72-20.md) — Strafverurteilung eines Fahrzeugführers: Konkurrenzen bei Fahren ohne Fahrerlaubnis mit einem Fahrzeug mit falschem amtlichen Kennzeichen und Tankbetrug; Sperrf
+- [BGH, Beschluss vom 08.07.2020 - 4 StR 72/20](4-str-72-20.md) — Strafverurteilung eines Fahrzeugführers: Konkurrenzen bei Fahren ohne Fahrerlaubnis mit einem Fahrzeug mit falschem amtlichen Kennzeichen und Tankbetrug; Sperrfristanordnung bei …
 - [BGH, Beschluss vom 02.07.2020 - 4 ARs 1/20](4-ars-1-20.md) — BGH, Beschluss 4 ARs 1/20
 - [BGH, Urteil vom 02.07.2020 - 4 StR 136/20](4-str-136-20.md) — Tateinheit bei Verletzung mehrerer Betäubungsmitteldelikte: Ermittlung des Gesetzes mit der schwersten Strafandrohung
-- [BGH, Urteil vom 02.07.2020 - 4 StR 678/19](4-str-678-19.md) — 1. Der Begriff der schutzlosen Lage ist rein objektiv zu bestimmen; einer subjektiven Zwangswirkung der Schutzlosigkeit auf das Tatopfer bedarf es nicht. 2. Zum
+- [BGH, Urteil vom 02.07.2020 - 4 StR 678/19](4-str-678-19.md) — 1. Der Begriff der schutzlosen Lage ist rein objektiv zu bestimmen; einer subjektiven Zwangswirkung der Schutzlosigkeit auf das Tatopfer bedarf es nicht. 2. Zum Begriff des …
 - [BGH, Beschluss vom 01.07.2020 - 4 StR 125/20](4-str-125-20.md) — Gewerbsmäßige Urkundenfälschung
 - [BGH, Beschluss vom 25.06.2020 - 4 StR 654/19](4-str-654-19.md) — Richterablehnung im Strafverfahren: Wiederholung der Richterablehnung; Ungeeignetheit des Ablehnungsgesuchs
-- [BGH, Urteil vom 18.06.2020 - 4 StR 482/19](4-str-482-19.md) — 1. Die Bewertung der Eigengefährdung durch den Täter kann abhängig von seinem Vorstellungsbild über mögliche Tathergänge abgestuft sein; so kann er bei Fassen d
-- [BGH, Beschluss vom 17.06.2020 - 4 StR 658/19](4-str-658-19.md) — Notwehrprovokation: Erforderliche Feststellungen im Strafurteil wegen gefährlicher Körperverletzung zu einem motivationalen Zusammenhang zwischen einer Pflichtv
+- [BGH, Urteil vom 18.06.2020 - 4 StR 482/19](4-str-482-19.md) — 1. Die Bewertung der Eigengefährdung durch den Täter kann abhängig von seinem Vorstellungsbild über mögliche Tathergänge abgestuft sein; so kann er bei Fassen des Tatentschlusses …
+- [BGH, Beschluss vom 17.06.2020 - 4 StR 658/19](4-str-658-19.md) — Notwehrprovokation: Erforderliche Feststellungen im Strafurteil wegen gefährlicher Körperverletzung zu einem motivationalen Zusammenhang zwischen einer Pflichtverletzung des …
 - [BGH, Beschluss vom 16.06.2020 - 4 StR 228/20](4-str-228-20.md) — Jugendstrafsache: Bildung einer Einheitsjugendstrafe
-- [BGH, Beschluss vom 10.06.2020 - 4 StR 503/19](4-str-503-19.md) — Strafverfahren gegen einen Apotheker wegen Verstößen gegen das Arzneimittelgesetz und Abrechnungsbetrug: Zulässigkeit der Revision wegen fehlenden Sachgrunds ei
+- [BGH, Beschluss vom 10.06.2020 - 4 StR 503/19](4-str-503-19.md) — Strafverfahren gegen einen Apotheker wegen Verstößen gegen das Arzneimittelgesetz und Abrechnungsbetrug: Zulässigkeit der Revision wegen fehlenden Sachgrunds einer Fristsetzung …
 - [BGH, Beschluss vom 04.06.2020 - 4 StR 15/20](4-str-15-20.md) — Beweisverwertungsverbot: Verstoß gegen den Richtervorbehalt bei wiederholter Wohnungsdurchsuchung nach Beendigung einer vorherigen rechtmäßigen Durchsuchung
-- [BGH, Beschluss vom 02.06.2020 - 4 StR 184/20](4-str-184-20.md) — Gesetzesänderung nach erstinstanzlicher Verurteilung: Wohnungseinbruchsdiebstahl als Gegenstand einer Aufklärungshilfe; Verschiebung des Strafrahmens; Urteilsau
+- [BGH, Beschluss vom 02.06.2020 - 4 StR 184/20](4-str-184-20.md) — Gesetzesänderung nach erstinstanzlicher Verurteilung: Wohnungseinbruchsdiebstahl als Gegenstand einer Aufklärungshilfe; Verschiebung des Strafrahmens; Urteilsaufhebung durch das …
 - [BGH, Beschluss vom 20.05.2020 - 4 StR 23/20](4-str-23-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Konkurrenzrechtliche Bewertung von Beihilfehandlungen zum Straßenhandel mit Kokain
 - [BGH, Beschluss vom 19.05.2020 - 4 StR 140/20](4-str-140-20.md) — Versuchter Mord: Habgier des Angeklagten bei erstrebter Inhaftierung in einer Justizvollzugsanstalt zur langfristigen Versorgung
 - [BGH, Beschluss vom 19.05.2020 - 4 StR 610/19](4-str-610-19.md) — Teilaufhebende Revisionsentscheidung: Bindungswirkung des teilweise aufgehobenen Urteils für den neuen Tatrichter
 - [BGH, Beschluss vom 13.05.2020 - 4 StR 533/19](4-str-533-19.md) — Hauptverhandlung in Strafsachen: Verfahrenshindernis einer unterbliebenen Mitteilung der Anklageschrift; Antrag auf Wiederholung der Beweiserhebung
 - [BGH, Beschluss vom 13.05.2020 - 4 StR 607/19](4-str-607-19.md) — Tätlicher Angriff auf Vollstreckungsbeamte: Vorsätzlich herbeigeführtes Auffahren eines Polizeifahrzeugs durch anlassloses plötzliches Abbremsen
-- [BGH, Beschluss vom 07.05.2020 - 4 StR 115/20](4-str-115-20.md) — Unterbringungsanordnung im Sicherungsverfahren: Mehrstufige Prüfung von Schuldausschließungs- und Schuldminderungsgründen vor einer Unterbringung in einem psych
+- [BGH, Beschluss vom 07.05.2020 - 4 StR 115/20](4-str-115-20.md) — Unterbringungsanordnung im Sicherungsverfahren: Mehrstufige Prüfung von Schuldausschließungs- und Schuldminderungsgründen vor einer Unterbringung in einem psychiatrischen …
 - [BGH, Urteil vom 07.05.2020 - 4 StR 586/19](4-str-586-19.md) — Eingehungsbetrug: Vorspiegelung einer Barzahlung
-- [BGH, Beschluss vom 06.05.2020 - 4 StR 12/20](4-str-12-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldfähigkeitsprüfung hinsichtlich Aufhebung der Einsichts- und Steuerungsfähigkeit; Gefährlichkeitsprogno
+- [BGH, Beschluss vom 06.05.2020 - 4 StR 12/20](4-str-12-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldfähigkeitsprüfung hinsichtlich Aufhebung der Einsichts- und Steuerungsfähigkeit; Gefährlichkeitsprognose bei längerer …
 - [BGH, Beschluss vom 06.05.2020 - 4 StR 53/20](4-str-53-20.md) — Strafrahmenmilderung: Alkoholbedingte Verminderung der Schuldfähigkeit; Erfordernis der Feststellungen zu einer möglichen krankhaften Alkoholsucht
 - [BGH, Beschluss vom 05.05.2020 - 4 StR 170/20](4-str-170-20.md) — Unterbringung in einer Entziehungsanstalt: Absehen von einer Entscheidung über den Vorwegvollzug der Strafe
 - [BGH, Beschluss vom 05.05.2020 - 4 StR 597/19](4-str-597-19.md) — Strafzumessung bei Betäubungsmitteldelikten: Prüfungsreihenfolge bei minder schwerem Fall und gesetzlich vertyptem Milderungsgrund
@@ -97,16 +97,16 @@
 - [BGH, Beschluss vom 21.04.2020 - 4 StR 67/20](4-str-67-20.md) — Revision im Jugendstrafverfahren: Erfordernis der Angabe des Rechtsmittelziels
 - [BGH, Beschluss vom 07.04.2020 - 4 StR 13/20](4-str-13-20.md) — Bildung einer Gesamtfreiheitsstrafe: Einbeziehung einer Geldstrafe mit nicht bestimmter Tagessatzhöhe
 - [BGH, Beschluss vom 07.04.2020 - 4 StR 34/20](4-str-34-20.md) — Mord aus niedrigen Beweggründen: Notwendige Gesamtwürdigung der handlungsleitenden Motive im Strafurteil
-- [BGH, Beschluss vom 07.04.2020 - 4 StR 48/20](4-str-48-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die tatrichterlichen Feststellungen zur Schuldfähigkeit bei Diagnose einer Psychose aus dem
+- [BGH, Beschluss vom 07.04.2020 - 4 StR 48/20](4-str-48-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die tatrichterlichen Feststellungen zur Schuldfähigkeit bei Diagnose einer Psychose aus dem Formenkreis der …
 - [BGH, Beschluss vom 07.04.2020 - 4 StR 622/19](4-str-622-19.md) — Teileinstellung durch Gerichtsbeschluss bei mehreren Taten: Beseitigung des Verfahrenshindernisses
-- [BGH, Beschluss vom 26.03.2020 - 4 StR 134/19](4-str-134-19.md) — Wer sein argloses Opfer in Tötungsabsicht in eine Falle lockt und es dadurch in eine andauernde wehrlose Lage bringt, tötet auch dann heimtückisch, wenn er die 
+- [BGH, Beschluss vom 26.03.2020 - 4 StR 134/19](4-str-134-19.md) — Wer sein argloses Opfer in Tötungsabsicht in eine Falle lockt und es dadurch in eine andauernde wehrlose Lage bringt, tötet auch dann heimtückisch, wenn er die durch die …
 - [BGH, Beschluss vom 25.03.2020 - 4 StR 567/19](4-str-567-19.md) — Mißhandlungen von Schutzbefohlenen: Wiederkehrende Schmerzen infolge täglicher Gewaltanwendungen als Quälen
-- [BGH, Beschluss vom 24.03.2020 - 4 StR 523/19](4-str-523-19.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenz mit bandenmäßiger Einfuhr und Besitz von Betäubungsmitteln bei Eigenkonsum
+- [BGH, Beschluss vom 24.03.2020 - 4 StR 523/19](4-str-523-19.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenz mit bandenmäßiger Einfuhr und Besitz von Betäubungsmitteln bei Eigenkonsummenge
 - [BGH, Beschluss vom 24.03.2020 - 4 StR 549/19](4-str-549-19.md) — Sexuelle Nötigung und versuchte Vergewaltigung: Konkurrenzverhältnis
 - [BGH, Beschluss vom 24.03.2020 - 4 StR 646/19](4-str-646-19.md) — (Gefährliche Körperverletzung: Lebensgefährdende Behandlung durch Abwurf eines Geschädigten von der Motorhaube eines fahrenden Pkw).
 - [BGH, Beschluss vom 24.03.2020 - 4 StR 673/19](4-str-673-19.md) — Gefährlicher Eingriff in den Bahnverkehr: Schnellbremsung wegen eines auf den Gleisen befindlichen Menschen
 - [BGH, Beschluss vom 18.03.2020 - 4 StR 374/19](4-str-374-19.md) — Strafverfahren: Besetzungsrüge wegen urlaubsbedingter Verhinderung eines Richters
-- [BGH, Beschluss vom 18.03.2020 - 4 StR 487/19](4-str-487-19.md) — Strafurteil wegen Mordes Notwendige Feststellungen zum Mordmerkmal der Habgier als Teil eines Motivbündels und eines bedingten Tötungsvorsatzes bei erheblicher 
+- [BGH, Beschluss vom 18.03.2020 - 4 StR 487/19](4-str-487-19.md) — Strafurteil wegen Mordes Notwendige Feststellungen zum Mordmerkmal der Habgier als Teil eines Motivbündels und eines bedingten Tötungsvorsatzes bei erheblicher Alkoholisierung des …
 - [BGH, Beschluss vom 12.03.2020 - 4 StR 537/19](4-str-537-19.md) — Zeitige Freiheitsstrafe neben Maßregelanordnung: Anrechnung der Untersuchungshaft auf den vorweg zu vollstreckenden Strafteil
 - [BGH, Urteil vom 12.03.2020 - 4 StR 544/19](4-str-544-19.md) — Fahren ohne Fahrerlaubnis: Begründungserfordernis bei Anordnung einer isolierten Sperrfrist für die Erteilung der Fahrerlaubnis
 - [BGH, Beschluss vom 11.03.2020 - 4 StR 307/19](4-str-307-19.md) — Strafverfahren: Strafklageverbrauch bei Einstellung des Verfahrens durch die Staatsanwaltschaft
@@ -114,15 +114,15 @@
 - [BGH, Beschluss vom 11.03.2020 - 4 StR 50/20](4-str-50-20.md) — Berücksichtigung der Zäsurwirkung bei der nachträglichen Gesamtstrafenbildung
 - [BGH, Beschluss vom 11.03.2020 - 4 StR 556/19](4-str-556-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefährlichkeitsprognose
 - [BGH, Beschluss vom 11.03.2020 - 4 StR 68/20](4-str-68-20.md) — Wiedereinsetzung im Strafverfahren: Unzulässigkeit des Wiedereinsetzungsantrags infolge von Versäumnissen des Pflichtverteidigers
-- [BGH, Beschluss vom 10.03.2020 - 4 ARs 10/19](4-ars-10-19.md) — (Beantwortung der Anfrage des 4. Strafsenats vom 11. Juli 2019, 1 StR 467/18: Zwingende oder im Ermessen des Tatgerichts liegende Anwendung der Regelungen über 
-- [BGH, Beschluss vom 10.03.2020 - 4 StR 570/19](4-str-570-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Voraussetzung der zumindest erheblich eingeschränkten Schuldfähigkeit; Anforderungen an die Gefährlichkeitsp
+- [BGH, Beschluss vom 10.03.2020 - 4 ARs 10/19](4-ars-10-19.md) — (Beantwortung der Anfrage des 4. Strafsenats vom 11. Juli 2019, 1 StR 467/18: Zwingende oder im Ermessen des Tatgerichts liegende Anwendung der Regelungen über die Einziehung von …
+- [BGH, Beschluss vom 10.03.2020 - 4 StR 570/19](4-str-570-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Voraussetzung der zumindest erheblich eingeschränkten Schuldfähigkeit; Anforderungen an die Gefährlichkeitsprognose
 - [BGH, Beschluss vom 10.03.2020 - 4 StR 624/19](4-str-624-19.md) — Vergewaltigung: Veranlassung sexueller Handlungen des Opfers an sich selbst durch Warnung vor einem durch Dritte drohenden Übel
 - [BGH, Beschluss vom 10.03.2020 - 4 StR 640/19](4-str-640-19.md) — Beweisantrag im Strafverfahren: Erfordernis einer Konnexität zwischen Beweisbehauptung und benannten Beweismittel
 - [BGH, Beschluss vom 27.02.2020 - 4 StR 1/20](4-str-1-20.md) — Nachträgliche Gesamtstrafenbildung: Einbeziehung erledigter Strafen; Neubemessung der Sperrfrist für die Wiedererteilung der Fahrerlaubnis
-- [BGH, Urteil vom 27.02.2020 - 4 StR 552/19](4-str-552-19.md) — Strafzumessung im Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Strafmilderung durch Anrechnung von Untersuchungshaft und wegen freiwil
+- [BGH, Urteil vom 27.02.2020 - 4 StR 552/19](4-str-552-19.md) — Strafzumessung im Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Strafmilderung durch Anrechnung von Untersuchungshaft und wegen freiwilligen Verzichts auf …
 - [BGH, Urteil vom 27.02.2020 - 4 StR 568/19](4-str-568-19.md) — Strafsache: Anforderungen an die Begründung eines freisprechenden Urteils
 - [BGH, Beschluss vom 26.02.2020 - 4 StR 20/20](4-str-20-20.md) — (Entziehung der Fahrerlaubnis bei fehlenden Feststellungen zu ihrem Bestand)
-- [BGH, Beschluss vom 26.02.2020 - 4 StR 347/19](4-str-347-19.md) — Die „Verurteilung“ zu einer vorbehaltenen Geldstrafe durch einen Beschluss nach § 59b Abs. 1 StGB ist keine frühere Verurteilung im Sinne des § 55 Abs. 1 Satz 2
+- [BGH, Beschluss vom 26.02.2020 - 4 StR 347/19](4-str-347-19.md) — Die „Verurteilung“ zu einer vorbehaltenen Geldstrafe durch einen Beschluss nach § 59b Abs. 1 StGB ist keine frühere Verurteilung im Sinne des § 55 Abs. 1 Satz 2 StGB.
 - [BGH, Beschluss vom 26.02.2020 - 4 StR 420/19](4-str-420-19.md) — Revisionsentscheidung in Strafsachen: Verbot der reformatio in peius im Falle fehlerhafter nachträglicher Gesamtstrafenbildung durch das Tatgericht
 - [BGH, Beschluss vom 26.02.2020 - 4 StR 474/19](4-str-474-19.md) — Minder schwerer Fall des bewaffneten Handeltreibens mit Betäubungsmitteln: Bewertung der Konkurrenzverhältnisse
 - [BGH, Beschluss vom 26.02.2020 - 4 StR 662/19](4-str-662-19.md) — Revision im Strafverfahren: Anforderungen an die Aufklärungsrüge wegen unterbliebener Vernehmung von Zeugen
@@ -131,19 +131,19 @@
 - [BGH, Beschluss vom 11.02.2020 - 4 StR 22/20](4-str-22-20.md) — (Fakultative Strafmilderung nach dem BtMG bei einer Aufklärungshilfe)
 - [BGH, Beschluss vom 11.02.2020 - 4 StR 525/19](4-str-525-19.md) — Strafzumessung: Berücksichtigung des Werts eines als Tatmittel eingezogenen Kraftfahrzeugs
 - [BGH, Beschluss vom 11.02.2020 - 4 StR 583/19](4-str-583-19.md) — Sukzessive Mittäterschaft beim Totschlag: Zurechnung bereits verwirklichter Tatumstände vor Hinzutreten
-- [BGH, Beschluss vom 11.02.2020 - 4 StR 652/19](4-str-652-19.md) — Strafverurteilung wegen besonders schwerer Brandstiftung sowie Betruges und Hehlerei: Verhaltenszurechnung bei Repräsentantenstellung; Feststellungen zur Vortat
+- [BGH, Beschluss vom 11.02.2020 - 4 StR 652/19](4-str-652-19.md) — Strafverurteilung wegen besonders schwerer Brandstiftung sowie Betruges und Hehlerei: Verhaltenszurechnung bei Repräsentantenstellung; Feststellungen zur Vortat bei Hehlerei und …
 - [BGH, Beschluss vom 29.01.2020 - 4 StR 564/19](4-str-564-19.md) — Verhältnis von Verdeckungsabsicht und bedingtem Tötungsvorsatz
-- [BGH, Beschluss vom 29.01.2020 - 4 StR 605/19](4-str-605-19.md) — Das Revisionsgericht hat auf eine unbeschränkt eingelegte und auch sonst zulässige Revision die vorinstanzlich angeordneten Erziehungsmaßregeln und Zuchtmittel 
+- [BGH, Beschluss vom 29.01.2020 - 4 StR 605/19](4-str-605-19.md) — Das Revisionsgericht hat auf eine unbeschränkt eingelegte und auch sonst zulässige Revision die vorinstanzlich angeordneten Erziehungsmaßregeln und Zuchtmittel ohne die …
 - [BGH, Beschluss vom 29.01.2020 - 4 StR 87/19](4-str-87-19.md) — Zuhälterei: Tatbestandsvarianten des Ausbeutens und der dirigierenden Zuhälterei; mittäterschaftliche Begehung
 - [BGH, Beschluss vom 28.01.2020 - 4 StR 303/19](4-str-303-19.md) — Zur Ablehnung einer teleologischen Reduktion des Tatbestands des bewaffneten Handeltreibens mit Betäubungsmitteln.
 - [BGH, Beschluss vom 28.01.2020 - 4 StR 599/19](4-str-599-19.md) — Berücksichtigung einer in Slowakei erfolgten Verurteilung bei Strafzumessung bzw. Gesamtstrafenbildung
 - [BGH, Beschluss vom 28.01.2020 - 4 StR 608/19](4-str-608-19.md) — Beschwer des Angeklagten durch freisprechendes Urteil
-- [BGH, Beschluss vom 28.01.2020 - 4 StR 632/19](4-str-632-19.md) — Anforderungen an die Urteilsgründe bei Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Räuberische Erpressung als Anlasstat; Feststellung der 
+- [BGH, Beschluss vom 28.01.2020 - 4 StR 632/19](4-str-632-19.md) — Anforderungen an die Urteilsgründe bei Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Räuberische Erpressung als Anlasstat; Feststellung der Beeinträchtigung …
 - [BGH, Beschluss vom 16.01.2020 - 4 StR 279/19](4-str-279-19.md) — Unterzeichnung der Revisionsbegründungsfrist durch einen bevollmächtigten anderen Rechtsanwalt
 - [BGH, Beschluss vom 15.01.2020 - 4 ARs 15/19](4-ars-15-19.md) — (Hinweispflicht auf die Einziehung bei erst sich in der Verhandlung ergebender vom Strafgesetz besonders vorgesehener Umstände)
 - [BGH, Beschluss vom 15.01.2020 - 4 StR 431/19](4-str-431-19.md) — Revision im Strafverfahren: Prozesszinsen im Adhäsionsausspruch; Aufhebungserstreckung zugunsten der nicht revidierenden Mitangeklagten
 - [BGH, Beschluss vom 15.01.2020 - 4 StR 587/19](4-str-587-19.md) — Rücktritt vom Versuch des schweren sexuellen Missbrauchs eines Kindes
-- [BGH, Beschluss vom 14.01.2020 - 4 StR 397/19](4-str-397-19.md) — Wohnungseinbruchsdiebstahl in ein Einfamilienhaus: Fehlgeschlagener Versuch bei Entdeckung des Täters zum Zeitpunkt des Aufhebelns des Küchenfensters und/oder e
+- [BGH, Beschluss vom 14.01.2020 - 4 StR 397/19](4-str-397-19.md) — Wohnungseinbruchsdiebstahl in ein Einfamilienhaus: Fehlgeschlagener Versuch bei Entdeckung des Täters zum Zeitpunkt des Aufhebelns des Küchenfensters und/oder einer Terrassentür
 - [BGH, Beschluss vom 09.01.2020 - 4 StR 324/19](4-str-324-19.md) — Gefährdung des Straßenverkehrs durch Vorfahrtverletzung: Strafrechtlicher Vorfahrtbegriff
 - [BGH, Beschluss vom 09.01.2020 - 4 StR 345/19](4-str-345-19.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Strafmilderung wegen Aufklärungshilfe
 - [BGH, Beschluss vom 09.01.2020 - 4 StR 580/19](4-str-580-19.md) — Strafbemessung bei Betrug: Anrechnung einer im Ausland vollstreckten Strafe
