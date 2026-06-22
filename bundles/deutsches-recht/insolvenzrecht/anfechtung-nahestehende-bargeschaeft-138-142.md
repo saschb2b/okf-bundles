@@ -25,6 +25,10 @@ Eine Leistung des Schuldners, **für die unmittelbar eine gleichwertige Gegenlei
 
 Die **Unmittelbarkeit** verlangt einen engen zeitlichen Zusammenhang nach Art der Leistung und Verkehrsgepflogenheiten (§ 142 Abs. 2). Für **Arbeitsentgelt** ist der Zusammenhang gegeben, wenn zwischen Arbeitsleistung und Entgelt **nicht mehr als drei Monate** liegen.
 
+# Rechtsprechung
+
+- **Lohnzahlung als Bargeschäft (BGH, Urteil vom 10.07.2014 - IX ZR 192/13).** Laufende Lohnzahlungen eines insolventen Arbeitgebers können ein Bargeschäft (§ 142) sein. Der erforderliche enge zeitliche Zusammenhang fehlt jedoch, wenn zwischen Arbeitsleistung und Entgelt mehr als **drei Monate** liegen. Diese Grenze hat der Gesetzgeber 2017 ausdrücklich in § 142 Abs. 2 für das Arbeitsentgelt übernommen.
+
 # Bezug
 
 Diese Normen wirken quer zu allen [Anfechtungstatbeständen](/insolvenzrecht/insolvenzanfechtung-129.md): § 138 verteilt die Beweislast (besonders bei der [Deckungsanfechtung](/insolvenzrecht/anfechtung-deckungen-130-132.md)), § 142 begrenzt vor allem die [Vorsatzanfechtung](/insolvenzrecht/vorsatzanfechtung-133.md), und § 140 bestimmt den Fristbeginn für alle.
@@ -34,3 +38,4 @@ Diese Normen wirken quer zu allen [Anfechtungstatbeständen](/insolvenzrecht/ins
 [1] [§ 138 InsO](https://www.gesetze-im-internet.de/inso/__138.html)
 [2] [§ 142 InsO](https://www.gesetze-im-internet.de/inso/__142.html)
 [3] [§ 140 InsO](https://www.gesetze-im-internet.de/inso/__140.html)
+[4] [BGH, Urteil vom 10.07.2014 - IX ZR 192/13 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=10.07.2014&Aktenzeichen=IX+ZR+192/13)

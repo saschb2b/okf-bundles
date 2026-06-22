@@ -14,6 +14,7 @@ Was durch die anfechtbare Handlung **aus dem Vermögen des Schuldners weggegeben
 
 - **Verschärfte Haftung (§ 143 Abs. 1 Satz 2):** Für den Umfang verweist das Gesetz auf die Vorschriften über die **verschärfte Bereicherungshaftung** (§§ 819 Abs. 1, 818 Abs. 4 BGB). Der Anfechtungsgegner haftet daher wie ein **bösgläubiger Bereicherungsschuldner**: er kann sich nicht auf den Wegfall der Bereicherung berufen und schuldet Nutzungen und gegebenenfalls Zinsen.
 - **Empfänger einer unentgeltlichen Leistung (§ 143 Abs. 2):** Wer durch eine [Schenkungsanfechtung](/insolvenzrecht/anfechtung-unentgeltlich-gesellschafter-134-135.md) in Anspruch genommen wird, muss das Erlangte **nur herausgeben, soweit er bereichert ist**, es sei denn, er kannte oder musste die Benachteiligung kennen. Insoweit ist er privilegiert.
+- **Verzinsung (§ 143 Abs. 1 Satz 3, seit der Reform 2017):** Eine Geldschuld aus der Rückgewähr ist **erst ab Verzug oder Rechtshängigkeit** zu verzinsen (§§ 286, 288, 291 BGB), nicht mehr automatisch ab Verfahrenseröffnung. Die Reform hat die zuvor weitergehende, an die verschärfte Haftung geknüpfte Verzinsung eingeschränkt.
 
 # Wiederaufleben der Gegenforderung (§ 144)
 

@@ -33,6 +33,10 @@ Quer dazu liegen die Hilfsnormen: [nahestehende Personen (§ 138), Bargeschäft 
 
 Was anfechtbar weggegeben wurde, ist [zur Masse zurückzugewähren (§§ 143 bis 146)](/insolvenzrecht/anfechtung-rechtsfolgen-143-146.md); der Empfänger haftet verschärft und wird wegen seiner wiederauflebenden Forderung Insolvenzgläubiger.
 
+# Rechtsprechung
+
+Die Anfechtung wird stark von der Rechtsprechung des Bundesgerichtshofs geprägt; die Leitentscheidungen stehen bei den einzelnen Tatbeständen (etwa die [Vorsatzanfechtung](/insolvenzrecht/vorsatzanfechtung-133.md) mit der Grundsatzentscheidung von 2021, die [Deckungsanfechtung](/insolvenzrecht/anfechtung-deckungen-130-132.md) und die [Schenkungs- und Gesellschafteranfechtung](/insolvenzrecht/anfechtung-unentgeltlich-gesellschafter-134-135.md)). Die vollständige, normbezogene Kasuistik ist über die [frei zugänglichen Quellen](/references/rechtsprechung-quellen.md) abrufbar.
+
 # Bezug
 
 Die Anfechtung knüpft an die [Eröffnungsgründe](/insolvenzrecht/eroeffnungsgruende-17-19.md) (insbesondere die Zahlungsunfähigkeit) an und füllt die [Masse](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) auf. Für das Forderungsmanagement heißt das: eine kurz vor der Insolvenz erlangte Zahlung oder Sicherheit ist nicht endgültig, sondern kann vom Verwalter zurückgefordert werden.

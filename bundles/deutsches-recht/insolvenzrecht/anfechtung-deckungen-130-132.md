@@ -31,6 +31,11 @@ Die Inkongruenz erleichtert die Anfechtung erheblich, weil im letzten Monat wede
 
 Ein **Rechtsgeschäft des Schuldners, das die Insolvenzgläubiger unmittelbar benachteiligt** (und keine Deckung ist), ist unter den gleichen zeitlichen und subjektiven Voraussetzungen wie die kongruente Deckung anfechtbar (Drei-Monats-Frist, Zahlungsunfähigkeit, Kenntnis).
 
+# Rechtsprechung
+
+- **BGH, Urteil vom 20.01.2011 - IX ZR 8/10.** Eine Zahlung, die der Schuldner unter dem Druck einer **unmittelbar drohenden Zwangsvollstreckung** leistet, ist **inkongruent** (§ 131): der Gläubiger hatte die Befriedigung in dieser erzwungenen Form nicht zu beanspruchen. Das eröffnet die erleichterte Anfechtung auch dort, wo die Forderung selbst bestand.
+- **Zahlungseinstellung als Schlüsselindiz.** Ob der Schuldner zahlungsunfähig war und der Gläubiger das kannte (§ 130), entscheidet sich meist über die Zahlungseinstellung: bleibt ein nicht unerheblicher Teil der fälligen Verbindlichkeiten über Wochen offen, spricht das für Zahlungseinstellung. Die fortlaufende BGH-Kasuistik dazu ist über die [freien Quellen](/references/rechtsprechung-quellen.md) abrufbar.
+
 # Bezug
 
 Die Deckungsanfechtung ist eine **besondere Insolvenzanfechtung** und setzt den [Grundtatbestand des § 129](/insolvenzrecht/insolvenzanfechtung-129.md) (objektive Gläubigerbenachteiligung) voraus. Reicht ihr enger Zeitrahmen nicht, greift die [Vorsatzanfechtung](/insolvenzrecht/vorsatzanfechtung-133.md) mit ihrer langen Frist. Rechtsfolge ist stets die [Rückgewähr](/insolvenzrecht/anfechtung-rechtsfolgen-143-146.md) zur Masse.
@@ -40,3 +45,4 @@ Die Deckungsanfechtung ist eine **besondere Insolvenzanfechtung** und setzt den 
 [1] [§ 130 InsO](https://www.gesetze-im-internet.de/inso/__130.html)
 [2] [§ 131 InsO](https://www.gesetze-im-internet.de/inso/__131.html)
 [3] [§ 132 InsO](https://www.gesetze-im-internet.de/inso/__132.html)
+[4] [BGH, Urteil vom 20.01.2011 - IX ZR 8/10 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.01.2011&Aktenzeichen=IX+ZR+8/10)
