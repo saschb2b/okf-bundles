@@ -1,0 +1,10 @@
+# X ARZ – 2013
+
+6 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.09.2013 - X ARZ 423/13](x-arz-423-13.md) — Das zuständige Gericht kann, wenn ein Mahnverfahren vorangegangen ist und mehrere Antragsgegner Widerspruch oder Einspruch eingelegt haben, noch nach § 36 Abs. 
+- [BGH, Beschluss vom 27.08.2013 - X ARZ 425/13](x-arz-425-13.md) — Die antragsgemäße Verweisung des Rechtsstreits durch das örtlich unzuständige Amtsgericht vor Eintritt in die mündliche Verhandlung zur Hauptsache ist auch dann
+- [BGH, Beschluss vom 30.07.2013 - X ARZ 320/13](x-arz-320-13.md) — 1. Wird die Klage zumindest gegen einen Beklagten auf eine der in § 32b Abs. 1 Nr. 1 ZPO aufgeführten Handlungen gestützt, so ist der besondere Gerichtsstand de
+- [BGH, Beschluss vom 14.05.2013 - X ARZ 167/13](x-arz-167-13.md) — Die Verweisung an das zuständige Gericht des zulässigen Rechtswegs ist hinsichtlich des Rechtswegs für das Gericht, an das der Rechtsstreit verwiesen worden ist
+- [BGH, Beschluss vom 06.05.2013 - X ARZ 65/13](x-arz-65-13.md) — 1. § 36 Abs. 1 Nr. 3 ZPO findet Anwendung, wenn hinsichtlich eines Antragsgegners im Inland lediglich ein besonderer Gerichtsstand nach unionsrechtlichen Zustän
+- [BGH, Beschluss vom 19.02.2013 - X ARZ 507/12](x-arz-507-12.md) — Die Verweisung des Rechtsstreits durch das örtlich unzuständige Gericht ist auch dann bindend, wenn der Beklagte erklärt hat, in der mündlichen Verhandlung die 

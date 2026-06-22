@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AntiDopG"
 description: "BGH-Entscheidungen zu AntiDopG, geordnet nach Vorschrift."
 tags: [register, navigation, antidopg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des AntiDopG ausl
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 2 AntiDopG | [BGH, Beschluss vom 05.12.2017 - 4 StR 389/17](../entscheidungen/4-strafsenat/2017/4-str-389-17.md) |
+| § AntiDopG | [BGH, Beschluss vom 05.12.2017 - 4 StR 389/17](../entscheidungen/4-strafsenat/2017/4-str-389-17.md) |

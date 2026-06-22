@@ -1,0 +1,43 @@
+# 2. Strafsenat – 2003
+
+39 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.12.2003 - 2 StR 331/03](2-str-331-03.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 10.12.2003 - 2 StR 286/03](2-str-286-03.md) — Vergewaltigung
+- [BGH, Beschluss vom 08.10.2003 - 2 ARs 339/03](2-ars-339-03.md) — Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 01.10.2003 - 2 StR 336/03](2-str-336-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 17.09.2003 - 2 StR 220/03](2-str-220-03.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 17.09.2003 - 2 StR 320/03](2-str-320-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 10.09.2003 - 2 ARs 281/03](2-ars-281-03.md) — Verstoßes gegen das Bundesnaturschutzgesetz Verteidiger: Rechtsanwalt
+- [BGH, Beschluss vom 03.09.2003 - 2 ARs 253/03](2-ars-253-03.md) — BGH, Beschluss vom 03.09.2003 - 2 ARs 253/03
+- [BGH, Beschluss vom 03.09.2003 - 2 StR 102/03](2-str-102-03.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 03.09.2003 - 2 StR 182/03](2-str-182-03.md) — Totschlags
+- [BGH, Urteil vom 06.08.2003 - 2 StR 180/03](2-str-180-03.md) — Totschlags u.a.
+- [BGH, Beschluss vom 06.08.2003 - 2 StR 235/03](2-str-235-03.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 30.07.2003 - 2 StR 215/03](2-str-215-03.md) — BGH, Beschluss vom 30.07.2003 - 2 StR 215/03
+- [BGH, Beschluss vom 09.07.2003 - 2 StR 204/03](2-str-204-03.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 04.06.2003 - 2 ARs 180/03](2-ars-180-03.md) — unerlaubten Erwerbs von Betäubungsmitteln u.a. Az.: 90 Ds 1812 Js 17321/01 (217/01) BewH Amtsgericht Cottbus
+- [BGH, Beschluss vom 04.06.2003 - 2 StR 137/03](2-str-137-03.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 23.04.2003 - 2 ARs 122/03](2-ars-122-03.md) — Landfriedensbruch u. a.
+- [BGH, Beschluss vom 23.04.2003 - 2 ARs 67/03](2-ars-67-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 23.04.2003 - 2 ARs 89/03](2-ars-89-03.md) — Diebstahls
+- [BGH, Beschluss vom 16.04.2003 - 2 ARs 84/03](2-ars-84-03.md) — Diebstahls
+- [BGH, Beschluss vom 09.04.2003 - 2 StR 421/02](2-str-421-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 09.04.2003 - 2 StR 63/03](2-str-63-03.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 26.03.2003 - 2 ARs 35/03](2-ars-35-03.md) — Mordes verurteilt worden war, die Staatsanwaltschaft bei dem Landgericht Bautzen bestimmt. Diese hat am 3. September 2002 festgestellt, daß
+- [BGH, Beschluss vom 19.03.2003 - 2 StR 23/03](2-str-23-03.md) — unerlaubten Herstellens von Arzneimitteln
+- [BGH, Urteil vom 14.03.2003 - 2 StR 341/02](2-str-341-02.md) — Verabredung eines schweren Raubes u. a.
+- [BGH, Beschluss vom 12.03.2003 - 2 ARs 57/03](2-ars-57-03.md) — Beleidigung
+- [BGH, Beschluss vom 05.03.2003 - 2 ARs 50/03](2-ars-50-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 05.03.2003 - 2 StR 405/02](2-str-405-02.md) — gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 12.02.2003 - 2 StR 464/02](2-str-464-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 05.02.2003 - 2 ARs 13/03](2-ars-13-03.md) — unerlaubten Erwerbs von Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 05.02.2003 - 2 ARs 31/03](2-ars-31-03.md) — Betrug hier: Anträge gemäß § 12 II StPO
+- [BGH, Beschluss vom 29.01.2003 - 2 StR 519/02](2-str-519-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 29.01.2003 - 2 StR 529/02](2-str-529-02.md) — BGH, Beschluss vom 29.01.2003 - 2 StR 529/02
+- [BGH, Beschluss vom 22.01.2003 - 2 ARs 385/02](2-ars-385-02.md) — vorsätzlicher Trunkenheit im Verkehr u.a.
+- [BGH, Beschluss vom 22.01.2003 - 2 StR 515/02](2-str-515-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 17.01.2003 - 2 StR 443/02](2-str-443-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer
+- [BGH, Beschluss vom 17.01.2003 - 2 StR 471/02](2-str-471-02.md) — Totschlags u.a.
+- [BGH, Beschluss vom 15.01.2003 - 2 ARs 383/02](2-ars-383-02.md) — Betrugs Az.: 3652 Js 13459/01 55 Cs Amtsgericht Mainz
+- [BGH, Beschluss vom 15.01.2003 - 2 StR 403/02](2-str-403-02.md) — gefährlicher Körperverletzung

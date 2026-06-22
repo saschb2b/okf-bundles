@@ -1,0 +1,116 @@
+# 4. Strafsenat – 2016
+
+112 Entscheidung(en).
+
+- [BGH, Urteil vom 22.12.2016 - 4 StR 359/16](4-str-359-16.md) — Unterbringung in einem psychiatrischen Krankenhaus: Erheblichkeit von Bedrohungen in Form von Todesdrohungen; Gefahr der Umsetzung der Gewaltfantasien eines bis
+- [BGH, Urteil vom 22.12.2016 - 4 StR 360/16](4-str-360-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Feststellung der nicht geringen Menge bei Anbau von Cannabispflanzen zwecks späterer Veräußerung der Ernte
+- [BGH, Beschluss vom 21.12.2016 - 4 StR 527/16](4-str-527-16.md) — Revision in Strafsachen: Wirksamkeit einer Revisionsrücknahme durch den vermindert schuldfähigen Angeklagten
+- [BGH, Urteil vom 08.12.2016 - 4 StR 389/16](4-str-389-16.md) — Sexueller Missbrauch von Kindern: Einführen eines Thermometers sowie von Zäpfchen und des Daumens in den Anus
+- [BGH, Beschluss vom 07.12.2016 - 4 StR 419/16](4-str-419-16.md) — Beziehungstat: Strafmilderung bei Schadenswiedergutmachung im Rahmen einer Körperverletzung
+- [BGH, Beschluss vom 07.12.2016 - 4 StR 473/16](4-str-473-16.md) — Strafverfahren: Geltung des Antragsgrundsatzes im Adhäsionsverfahren
+- [BGH, Beschluss vom 06.12.2016 - 4 StR 343/16](4-str-343-16.md) — Strafverfahren: Verletzung der Mitteilungspflicht hinsichtlich außerhalb der Hauptverhandlung geführter Verständigungsgespräche über eine Teileinstellung
+- [BGH, Beschluss vom 06.12.2016 - 4 StR 558/16](4-str-558-16.md) — Revision in Strafsachen: Wirksamkeit der Ermächtigung zur Rücknahme der Revision; Widerruf der Ermächtigung
+- [BGH, Urteil vom 24.11.2016 - 4 StR 235/16](4-str-235-16.md) — Notwehr: Dauer eines gegenwärtigen Angriffs; Notwehrlage bei subjektiver Befürchtung eines Angriffs
+- [BGH, Urteil vom 24.11.2016 - 4 StR 289/16](4-str-289-16.md) — Körperverletzung durch Unterlassen: Umfang der Beschützergarantenpflicht des Ehemannes bei eigenverantwortlicher Selbstgefährdung der Ehefrau
+- [BGH, Beschluss vom 24.11.2016 - 4 StR 87/16](4-str-87-16.md) — Uneigentliches Organisationsdelikt: Tateinheit bei wiederkehrenden gleichartigen Betrugstaten; notwendige Urteilsfeststellungen zu Einzelakten und Schuldumfang
+- [BGH, Beschluss vom 23.11.2016 - 4 StR 464/16](4-str-464-16.md) — Computerbetrug: Absprachewidrige Geldabhebung am Geldautomaten mit einer vom Berechtigten überlassenen Bankkarte mit Geheimzahl
+- [BGH, Beschluss vom 23.11.2016 - 4 StR 471/16](4-str-471-16.md) — Rücktritt vom Versuch des Totschlags: Unbeendeter Versuch des Tötungsdelikts
+- [BGH, Beschluss vom 23.11.2016 - 4 StR 542/16](4-str-542-16.md) — Revision im Strafverfahren: Aufrechterhaltung der Feststellungen zur Person bei Aufhebung des Rechtsfolgenausspruchs
+- [BGH, Beschluss vom 22.11.2016 - 4 StR 466/16](4-str-466-16.md) — Nachträgliche Gesamtstrafenbildung nach Verurteilungen wegen Betäubungsmitteldelikten: Zäsurwirkung durch Verurteilung zu einer Jugendstrafe
+- [BGH, Beschluss vom 22.11.2016 - 4 StR 501/16](4-str-501-16.md) — Vorsätzliche Gefährdung des Straßenverkehrs: Innerörtliches Überholen mit überhöhter Geschwindigkeit
+- [BGH, Beschluss vom 10.11.2016 - 4 ARs 17/16](4-ars-17-16.md) — BGH, Beschluss 4 ARs 17/16
+- [BGH, Urteil vom 10.11.2016 - 4 StR 86/16](4-str-86-16.md) — Strafsache: Verjährungsbeginn bei Bankrotttaten; Verjährungsunterbrechung bei Untersuchungshandlungen; Anforderungen an einen Durchsuchungsbeschluss
+- [BGH, Beschluss vom 26.10.2016 - 4 StR 354/16](4-str-354-16.md) — Konkurrenzen bei Urkundenfälschung: Mehrmaliger Gebrauch gefälschter Kraftfahrzeugkennzeichen
+- [BGH, Urteil vom 13.10.2016 - 4 StR 239/16](4-str-239-16.md) — Die Wertgrenze für die Annahme der Gefährdung einer fremden Sache von bedeutendem Wert im Sinne des § 308 Abs. 1 StGB liegt bei 1.500 €.
+- [BGH, Beschluss vom 13.10.2016 - 4 StR 298/16](4-str-298-16.md) — Revision in Strafsachen: Verfahrensrüge gegen die Ablehnung eines Antrags auf Untersuchung von Asservaten
+- [BGH, Beschluss vom 12.10.2016 - 4 StR 174/16](4-str-174-16.md) — Strafverfahren: Verfahrensrüge der verspäteten bzw. unzureichenden Mitteilung des Vorsitzenden über Verständigungsgespräche
+- [BGH, Beschluss vom 12.10.2016 - 4 StR 282/16](4-str-282-16.md) — Strafzumessung: Berücksichtigung der während der Tatbegehung laufenden Bewährung
+- [BGH, Beschluss vom 12.10.2016 - 4 StR 78/16](4-str-78-16.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung des symptomatische Zusammenhangs zwischen der psychotischen Er
+- [BGH, Beschluss vom 11.10.2016 - 4 StR 145/16](4-str-145-16.md) — Jugendstrafsache: Absehen von der Auferlegung der Kosten bei einem Heranwachsenden
+- [BGH, Beschluss vom 11.10.2016 - 4 StR 352/16](4-str-352-16.md) — Adhäsionsverfahren: Erfordernis der Stellung eines Entschädigungsantrags
+- [BGH, Beschluss vom 10.10.2016 - 4 StR 100/16](4-str-100-16.md) — Strafverfahren wegen sexuellen Missbrauchs von Kindern und/oder Schutzbefohlenen: Beweisverwertungsverbot bei unterlassener Belehrung eines Zeugen über sein Unt
+- [BGH, Urteil vom 29.09.2016 - 4 StR 320/16](4-str-320-16.md) — Sexueller Missbrauch von Kindern und Schutzbefohlenen: Anforderungen an die tatrichterliche Überzeugungsbildung; Darlegungsanforderungen bei Abweichung des Tatg
+- [BGH, Beschluss vom 28.09.2016 - 4 StR 293/16](4-str-293-16.md) — Bankrott: Anforderungen an die Urteilsfeststellungen bei Annahme einer mitursächlichen Tathandlung für den Eintritt von Zahlungsunfähigkeit und Überschuldung
+- [BGH, Beschluss vom 27.09.2016 - 4 StR 263/16](4-str-263-16.md) — Revision in einer Jugendstrafsache: Verfahrensrüge wegen Verletzung des Verteidigerkonsultationsrechts und des Fragerechts des Erziehungsberechtigten
+- [BGH, Beschluss vom 27.09.2016 - 4 StR 391/16](4-str-391-16.md) — Konkurrenzverhältnis: Versuchter Totschlag und Aussetzung
+- [BGH, Beschluss vom 15.09.2016 - 4 StR 330/16](4-str-330-16.md) — Hauptverhandlung in Strafsachen: Voraussetzungen für die Vernehmung nichtrichterlicher Verhörspersonen oder die Verlesung richterlicher Vernehmungsprotokolle
+- [BGH, Urteil vom 15.09.2016 - 4 StR 351/16](4-str-351-16.md) — Strafverfahren wegen versuchter Vergewaltigung: Notwendige Gesamtwürdigung von Beweisanzeichen für die Täterschaft des Angeklagten im Urteil des Tatrichters
+- [BGH, Beschluss vom 15.09.2016 - 4 StR 90/16](4-str-90-16.md) — Das Tatbestandsmerkmal des Überholens wird auch durch ein Vorbeifahren von hinten an sich in derselben Richtung bewegenden oder verkehrsbedingt haltenden Fahrze
+- [BGH, Beschluss vom 07.09.2016 - 4 StR 221/16](4-str-221-16.md) — Widerstand gegen Vollstreckungsbeamte und gefährlicher Eingriff in den Straßenverkehr: Konkurrenzverhältnis bei einheitlichem Entschluss zur Flucht vor der Poli
+- [BGH, Beschluss vom 01.09.2016 - 4 ARs 21/15](4-ars-21-15.md) — BGH, Beschluss 4 ARs 21/15
+- [BGH, Beschluss vom 31.08.2016 - 4 StR 197/16](4-str-197-16.md) — Strafbares Nachstellen: Tatbestandsmerkmal der Beharrlichkeit
+- [BGH, Beschluss vom 31.08.2016 - 4 StR 340/16](4-str-340-16.md) — Schwere Misshandlung von Schutzbefohlenen und schwere Körperverletzung durch Unterlassen: Fehlendes Einschreiten der Mutter gegen die Misshandlungen ihrer Tocht
+- [BGH, Beschluss vom 30.08.2016 - 4 StR 153/16](4-str-153-16.md) — Computerbetrug: Manipulation von Glücksspielautomaten
+- [BGH, Beschluss vom 30.08.2016 - 4 StR 194/16](4-str-194-16.md) — Computerbetrug und Verrat von Betriebsgeheimnissen: Softwaremanipulation an Geldspielautomaten
+- [BGH, Beschluss vom 30.08.2016 - 4 StR 203/16](4-str-203-16.md) — Gewerbs- und bandenmäßiger Computerbetrug durch Programmmanipulation
+- [BGH, Beschluss vom 16.08.2016 - 4 StR 163/16](4-str-163-16.md) — Den Vertragsarzt einer Krankenkasse trifft dieser gegenüber eine Vermögensbetreuungspflicht im Sinn des § 266 Abs. 1 StGB, die ihm zumindest gebietet, Heilmitte
+- [BGH, Beschluss vom 09.08.2016 - 4 StR 195/16](4-str-195-16.md) — Strafverfahren: Beweisverwertungsverbot für eine Beschuldigtenvernehmung eines Mitangeklagten ohne zureichende Aufklärung im Hinblick auf andere Mitangeklagte
+- [BGH, Urteil vom 04.08.2016 - 4 StR 142/16](4-str-142-16.md) — Verhängung von Jugendstrafe: Besondere Schwere der Schuld; Strafzumessung unter Berücksichtigung von Erziehungsgedanke und Schuldausgleich bei schwerwiegenden S
+- [BGH, Beschluss vom 04.08.2016 - 4 StR 230/16](4-str-230-16.md) — Strafverfahren: Konkludente Eröffnung des Hauptverfahrens
+- [BGH, Urteil vom 04.08.2016 - 4 StR 523/15](4-str-523-15.md) — Betrug durch Unterlassen: Offenbarungspflicht bei Abschluss von Partnerschaftschaftsverträgen mit zu einer Rechtsanwaltsgesellschaft neu hinzutretenden Anwälten
+- [BGH, Beschluss vom 03.08.2016 - 4 StR 290/16](4-str-290-16.md) — Strafurteil: Notwendige Prüfung der Unterbringung des betäubungsmittelabhängigen Angeklagten in einer Entziehungsanstalt
+- [BGH, Beschluss vom 03.08.2016 - 4 StR 305/16](4-str-305-16.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anwendbares Recht bei revisionsrechtlicher Überprüfung einer nach altem Recht angeordneten Unterbringung; Ve
+- [BGH, Beschluss vom 14.07.2016 - 4 StR 362/15](4-str-362-15.md) — 1. Die Abgabe eines Gebots im Zwangsversteigerungsverfahren enthält keine Erklärung des Bietenden gegenüber den Mitbietern. 2. Der die Zwangsversteigerung leite
+- [BGH, Beschluss vom 07.07.2016 - 4 StR 131/16](4-str-131-16.md) — Revision im Strafverfahren: Verstoß gegen den Grundsatz der erschöpfenden Beweiswürdigung wegen Nichtverwertung eines vorläufigen Gutachtens
+- [BGH, Urteil vom 07.07.2016 - 4 StR 558/15](4-str-558-15.md) — Versuchter Totschlag: Bedingter Tötungsvorsatz bei Beibringung einer Stichverletzung als Bestrafung
+- [BGH, Beschluss vom 06.07.2016 - 4 StR 149/16](4-str-149-16.md) — Nach der den Vorschriften der §§ 296 ff. StPO zugrunde liegenden Regelungssystematik kann der gesetzliche Vertreter des Beschuldigten die gemäß § 302 Abs. 2 StP
+- [BGH, Beschluss vom 06.07.2016 - 4 StR 253/16](4-str-253-16.md) — Strafverfahren: Anforderungen an die Zustellung eines Strafurteils an die Staatsanwaltschaft
+- [BGH, Beschluss vom 05.07.2016 - 4 StR 188/16](4-str-188-16.md) — Strafzumessung und eignungsbezogene Prognoseentscheidung: Berücksichtigung des Fehlens von Bedauern, Mitgefühl und Entschuldigung gegenüber dem Opfer in der Hau
+- [BGH, Beschluss vom 05.07.2016 - 4 StR 202/16](4-str-202-16.md) — Einziehung eines Gegenstands: Einziehung bei Durchführung eines Sicherungsverfahrens
+- [BGH, Beschluss vom 05.07.2016 - 4 StR 215/16](4-str-215-16.md) — Feststellung einer erheblich verminderten Einsichtsfähigkeit: Voraussetzungen für das Vorliegen von Schuldunfähigkeit oder verminderter Schuldfähigkeit
+- [BGH, Beschluss vom 05.07.2016 - 4 StR 512/15](4-str-512-15.md) — Besonders schwere Brandstiftung: Brandlegung durch einen Ehegatten zur Erlangung unberechtigter Versicherungsleistungen aus einer Hausratversicherung des andere
+- [BGH, Beschluss vom 24.06.2016 - 4 StR 205/16](4-str-205-16.md) — Strafvereitelung: Ursächlichkeit der Tathandlung für den Vereitelungserfolg; Einbeziehung hypothetischer alternativer Geschehensabläufe in die Betrachtung des T
+- [BGH, Beschluss vom 23.06.2016 - 4 StR 552/15](4-str-552-15.md) — Landfriedensbruch: Gesetzeskonkurrenz bei Zusammentreffen mit Sachbeschädigung
+- [BGH, Beschluss vom 23.06.2016 - 4 StR 75/16](4-str-75-16.md) — Konkurrenzverhältnis bei Betrug: Einreichung mehrerer Kreditanträge am selben Tag bei demselben Bankinstitut ohne Rückzahlungswillen
+- [BGH, Beschluss vom 21.06.2016 - 4 StR 1/16](4-str-1-16.md) — Gefährlicher Eingriff in den Straßenverkehr: Scharfes Ausbremsen ohne verkehrsbedingte Veranlassung
+- [BGH, Beschluss vom 21.06.2016 - 4 StR 161/16](4-str-161-16.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldfähigkeit bei ADHS-Erkrankung
+- [BGH, Beschluss vom 08.06.2016 - 4 StR 112/16](4-str-112-16.md) — Wohnungseinbruchsdiebstahl: Eindringen in Kellerräume von Ein- oder Mehrfamilienhäusern
+- [BGH, Beschluss vom 08.06.2016 - 4 StR 73/16](4-str-73-16.md) — Revisionsentscheidung im Strafverfahren wegen gefährlicher Körperverletzung: Fehlerhafte Gesamtstrafenbildung bei Tatbegehung zwischen zwei Vorverurteilungen
+- [BGH, Beschluss vom 07.06.2016 - 4 StR 207/16](4-str-207-16.md) — Sicherungsverfahren: Anforderungen an die Gefährlichkeitsprognose des Tatrichters bei Anordnung der Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 07.06.2016 - 4 StR 79/16](4-str-79-16.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Begründung der zukünftigen Gefährlichkeit des Täters; Bedeutung früher abgeurteilter Taten bei
+- [BGH, Beschluss vom 25.05.2016 - 4 StR 458/15](4-str-458-15.md) — Inbegriffsrüge im Strafverfahren: Unterlassene Verlesung eines Schriftstücks und Erörterung des nicht bestrittenen Inhalts in der Hauptverhandlung
+- [BGH, Urteil vom 24.05.2016 - 4 StR 440/15](4-str-440-15.md) — Zur (Haushalts-)Untreue durch Zubilligung von Erfahrungsstufen bei Einstellung als Tarifbeschäftigte(r) im Öffentlichen Dienst.
+- [BGH, Urteil vom 12.05.2016 - 4 StR 487/15](4-str-487-15.md) — Strafverfahren wegen Brandstiftung: Konkurrenzverhältnis bei gleichzeitiger versuchter Brandstiftung; "Teilweises Zerstören" bei brandbedingten Deformierungen a
+- [BGH, Urteil vom 12.05.2016 - 4 StR 569/15](4-str-569-15.md) — Revision in Strafsachen: Anforderungen an die Begründung einer Aufklärungsrüge
+- [BGH, Beschluss vom 11.05.2016 - 4 StR 428/15](4-str-428-15.md) — Richterablehnung im Strafverfahren: Ablehnungsgesuch einer wegen Totschlags durch Unterlassen angeklagten Hebamme
+- [BGH, Beschluss vom 10.05.2016 - 4 StR 185/16](4-str-185-16.md) — Sicherungsverfahren: Anforderungen an die Gefährlichkeitsprognose vor der Anordnung einer Unterbringung in einem psychiatrischen Krankenhaus in Ansehung eines R
+- [BGH, Beschluss vom 10.05.2016 - 4 StR 25/16](4-str-25-16.md) — Strafaussetzung zur Bewährung: Prüfung von "besonderen Umständen" in der Person eines angeklagten Ersttäters
+- [BGH, Beschluss vom 02.05.2016 - 4 StR 133/16](4-str-133-16.md) — Sexueller Missbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses: Einverständliches sexuelles Verhältnis eines Psychologen mit 
+- [BGH, Beschluss vom 28.04.2016 - 4 ARs 16/15](4-ars-16-15.md) — Versagung der Strafrahmenmilderung bei selbst verschuldeter Trunkenheit trotz fehlender Feststellung der Risikoerhöhung im Einzelfall
+- [BGH, Beschluss vom 28.04.2016 - 4 StR 317/15](4-str-317-15.md) — Betrugstatbestand: Vermögensschaden durch Abschluss eines Vertrags
+- [BGH, Beschluss vom 28.04.2016 - 4 StR 474/15](4-str-474-15.md) — Revision des Nebenklägers: Begründungsanforderungen an einen Wiedereinsetzungsantrag nach Versäumung der Revisionsbegründungsfrist; Sicherstellung der Fristwahr
+- [BGH, Urteil vom 28.04.2016 - 4 StR 563/15](4-str-563-15.md) — Räuberischer Angriff auf einen Kraftfahrer: Ausnutzung der besonderen Verhältnisse des Straßenverkehrs bei einem Überfall am Ende einer Taxifahrt
+- [BGH, Beschluss vom 27.04.2016 - 4 StR 52/16](4-str-52-16.md) — Strafrechtliches Ermittlungsverfahren: Fernwirkung des Beweisverwertungsverbots aufgrund unterlassener Belehrung über das Zeugnisverweigerungsrecht
+- [BGH, Beschluss vom 12.04.2016 - 4 StR 17/16](4-str-17-16.md) — Strafverfahren wegen Betäubungsmitteldelikt: Anordnung der Unterbringung in einer Entziehungsanstalt bei gelegentlichem Cannabiskonsum
+- [BGH, Beschluss vom 12.04.2016 - 4 StR 18/16](4-str-18-16.md) — Beweiswürdigung im Strafverfahren: Überzeugung von der Täterschaft aufgrund Übereinstimmung von DNA-Identifizierungsmustern; Anforderungen an die Urteilsgründe 
+- [BGH, Beschluss vom 30.03.2016 - 4 StR 102/16](4-str-102-16.md) — Freie Beweiswürdigung im Strafverfahren: Beweiswert des Wiedererkennens des Angeklagten durch einen Zeugen nach Lichtbildvorlage im Ermittlungsverfahren
+- [BGH, Beschluss vom 30.03.2016 - 4 StR 63/16](4-str-63-16.md) — Hauptverhandlung in Strafsachen: Verpflichtung zur ggf. erneuten Erteilung des letzten Wortes
+- [BGH, Beschluss vom 16.03.2016 - 4 StR 39/16](4-str-39-16.md) — Selbständige Einziehung eines Gegenstandes im Sicherungsverfahren
+- [BGH, Beschluss vom 16.03.2016 - 4 StR 42/16](4-str-42-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Eigennützigkeit bei Erwartung mittelbarer Vorteile
+- [BGH, Beschluss vom 15.03.2016 - 4 StR 7/16](4-str-7-16.md) — Besonders schwere Brandstiftung zur Ermöglichung eines Versicherungsbetrugs in Mittäterschaft
+- [BGH, Beschluss vom 09.03.2016 - 4 StR 60/16](4-str-60-16.md) — Vorsätzliches Fahren ohne Fahrerlaubnis: Unterbrechung des Dauerdelikts durch versuchten Tankbetrug
+- [BGH, Beschluss vom 03.03.2016 - 4 StR 134/15](4-str-134-15.md) — Konkurrenzverhältnisse bei Betrugstaten: Organisationstätigkeit des Beteiligten eines auf Straftaten ausgerichteten Geschäftsbetriebs
+- [BGH, Urteil vom 03.03.2016 - 4 StR 496/15](4-str-496-15.md) — Sportwettenbetrug beim Wetten im Internet: Täuschungsäquivalenz des unbefugten Verwendens von Daten; Schadenseintritt
+- [BGH, Urteil vom 03.03.2016 - 4 StR 497/15](4-str-497-15.md) — (Strafzumessung und Maßregelanordnung: Feststellung der schuldangemessenen Strafe im Einzelfall; Berücksichtigung individualpräventiver Gründe im Rahmen der Str
+- [BGH, Beschluss vom 03.03.2016 - 4 StR 586/15](4-str-586-15.md) — Unterbringung in einer Entziehungsanstalt: Symptomatischer Zusammenhang zwischen dem Hang und der Tat eines drogenabhängigen Angeklagten
+- [BGH, Beschluss vom 18.02.2016 - 4 StR 550/15](4-str-550-15.md) — Gemeinschaftliche Begehung einer gefährlichen Körperverletzung: Erhöhte Gefährlichkeit durch Zusammenwirken von Täter und Tatgenosse
+- [BGH, Beschluss vom 17.02.2016 - 4 StR 412/15](4-str-412-15.md) — Freie Beweiswürdigung: Darstellung einer Zeugenaussage in Bezug auf die Identifizierung des Angeklagten in den Urteilsgründen
+- [BGH, Beschluss vom 16.02.2016 - 4 StR 459/15](4-str-459-15.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln: Strafbarkeit eines Wohnungsinhabers bei Duldung der Aufbereitung und des Vertriebs von Betäubungsm
+- [BGH, Beschluss vom 04.02.2016 - 4 StR 266/15](4-str-266-15.md) — Misshandlung von Schutzbefohlenen: Prüfung einer Unterlassungstäterschaft bei schweren Misshandlungen eines Säuglings jedenfalls durch einen Elternteil
+- [BGH, Beschluss vom 04.02.2016 - 4 StR 79/15](4-str-79-15.md) — Strafverfahren wegen Betruges: Widersprüchliche Urteilsfeststellungen zum Vorsatz bei der Einwerbung von Geldern zur Anlage im Day-Trading; Besetzung der Großen
+- [BGH, Beschluss vom 03.02.2016 - 4 StR 561/15](4-str-561-15.md) — Revision im Strafverfahren: Verfahrensrüge hinsichtlich der Vornahme verbotener Vernehmungsmethoden bei fehlendem Widerspruch zur Verwertung der Aussage in der 
+- [BGH, Beschluss vom 03.02.2016 - 4 StR 594/15](4-str-594-15.md) — Gefährliche Körperverletzung: Einsatz eines Kraftfahrzeugs als gefährliches Werkzeug
+- [BGH, Beschluss vom 21.01.2016 - 4 StR 384/15](4-str-384-15.md) — Geldwäsche: Bargeldtransport im Interesse eines Dritten
+- [BGH, Beschluss vom 20.01.2016 - 4 StR 376/15](4-str-376-15.md) — Revision im Strafverfahren: Verfahrensrüge der Vernehmung eines im polizeilichen Ermittlungsverfahren hinzugezogenen Übersetzers von Telefongesprächen als Zeuge
+- [BGH, Beschluss vom 20.01.2016 - 4 StR 528/15](4-str-528-15.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Feststellungen zur Schusswaffeneigenschaft; Aufbewahrung einer Gaspistole am Ort der Betäubungsmittelübergabe; 
+- [BGH, Beschluss vom 19.01.2016 - 4 StR 252/15](4-str-252-15.md) — Recht des Angeklagten auf ein faires Verfahren: Abgrenzung zwischen einer rechtmäßigen Infiltrierung durch eine Ermittlungsperson und einer rechtswidrigen Tatpr
+- [BGH, Beschluss vom 19.01.2016 - 4 StR 484/15](4-str-484-15.md) — Strafurteil: Anforderungen an die Darstellung des Ergebnisses eines molekulargenetischen Sachverständigengutachtens
+- [BGH, Beschluss vom 19.01.2016 - 4 StR 511/15](4-str-511-15.md) — Misshandlung von Schutzbefohlenen: Abgrenzung der Tatbestandsmerkmale Quälen und rohe Misshandlung; Verwirklichung bei einer Vielzahl von Körperverletzungshandl
+- [BGH, Beschluss vom 14.01.2016 - 4 StR 223/13](4-str-223-13.md) — BGH, Beschluss 4 StR 223/13
+- [BGH, Urteil vom 14.01.2016 - 4 StR 437/15](4-str-437-15.md) — Erneute Bildung der Gesamtstrafe: Gesamtstrafenbildung nach Zurückverweisung; Beschwer des Angeklagten durch fehlerhafte Einbeziehung mehrerer, untereinander ni
+- [BGH, Beschluss vom 14.01.2016 - 4 StR 543/15](4-str-543-15.md) — Revision im Strafverfahren: Wiederherstellung der Öffentlichkeit und Beweiskraft des Protokolls
+- [BGH, Urteil vom 14.01.2016 - 4 StR 72/15](4-str-72-15.md) — Erpresserischer Menschenraub mit Todesfolge und Raub mit Todesfolge: Voraussetzungen des qualifikationsspezifischen Zusammenhangs
+- [BGH, Urteil vom 14.01.2016 - 4 StR 84/15](4-str-84-15.md) — Fahrlässige Körperverletzung: Notwendige Abgrenzung zwischen bedingtem Vorsatz und bewusster Fahrlässigkeit bei Zufahren auf einen Fußgänger; Anforderungen an d
+- [BGH, Beschluss vom 13.01.2016 - 4 StR 322/15](4-str-322-15.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Konkurrenzen bei BtMG-Geschäften auf Kommission
+- [BGH, Beschluss vom 13.01.2016 - 4 StR 452/15](4-str-452-15.md) — Strafverfahren: Anforderungen an Wiedereinsetzungsantrag
+- [BGH, Beschluss vom 13.01.2016 - 4 StR 532/15](4-str-532-15.md) — Strafverfahren wegen Betrugs und vorsätzliche Gefährdung des Straßenverkehrs: Tanken an einer Selbstbedienungstankstelle ohne Zahlungsbereitschaft als vollendet

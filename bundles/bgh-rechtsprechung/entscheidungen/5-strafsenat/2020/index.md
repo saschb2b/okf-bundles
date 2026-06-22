@@ -1,0 +1,99 @@
+# 5. Strafsenat – 2020
+
+95 Entscheidung(en).
+
+- [BGH, Beschluss vom 09.12.2020 - 5 StR 185/20](5-str-185-20.md) — Einziehung von unerlaubt erworbenen Betäubungsmitteln bzw. des Wertersatzes bei Verkauf oder Eigenkonsum sowie des Wertes der Erlöse aus dem Betäubungsmittelhan
+- [BGH, Beschluss vom 25.11.2020 - 5 StR 435/20](5-str-435-20.md) — Strafverfahren wegen Betäubungsmitteldelikten: Vermögensabschöpfung hinsichtlich des aus einem Tauschgeschäft erlangten Rauschgifts
+- [BGH, Urteil vom 25.11.2020 - 5 StR 493/19](5-str-493-19.md) — Unterbringung in einer Entziehungsanstalt: Annahme eines Hangs
+- [BGH, Urteil vom 25.11.2020 - 5 StR 534/19](5-str-534-19.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Feststellung der nicht geringen Menge bei Anbau von Cannabispflanzen zwecks späterer Veräußerung der Ernte
+- [BGH, Beschluss vom 24.11.2020 - 5 StR 439/20](5-str-439-20.md) — Beginn der Revisionsbegründungsfrist in Strafsachen: Notwendige Fertigstellung des Sitzungsprotokolls vor Urteilszustellung in Zeiten der Corona-Pandemie
+- [BGH, Urteil vom 24.11.2020 - 5 StR 553/19](5-str-553-19.md) — Zur Pflichtverletzung durch die Gewährung von Übergangsgeldern an Vorstandsmitglieder einer kassenärztlichen Vereinigung.
+- [BGH, Beschluss vom 23.11.2020 - 5 StR 172/20](5-str-172-20.md) — Falsche uneidliche Aussage: Umfang der Zeugnispflicht im Strafverfahren; Gegenstand der Vernehmung zur Sache
+- [BGH, Beschluss vom 23.11.2020 - 5 StR 462/20](5-str-462-20.md) — Strafzumessung: Aufklärungshilfe bei Teilgeständnis
+- [BGH, Urteil vom 11.11.2020 - 5 StR 124/20](5-str-124-20.md) — Strafverfahren wegen Tötungsdelikt: Feststellung von Heimtücke bei von langer Hand geplanter und vorbereiteter Tat
+- [BGH, Beschluss vom 11.11.2020 - 5 StR 197/20](5-str-197-20.md) — Auf dem Unterlassen der Bescheidung eines Widerspruchs gegen das Selbstleseverfahren kann ein Urteil regelmäßig nicht beruhen, weil dieses Verfahren eine gleich
+- [BGH, Beschluss vom 11.11.2020 - 5 StR 256/20](5-str-256-20.md) — Bei einer operativen Entbindung (Kaiserschnitt, sectio caesarea) beginnt die Geburt und damit der Anwendungsbereich der §§ 211 ff. StGB regelmäßig mit der Eröff
+- [BGH, Beschluss vom 10.11.2020 - 5 StR 410/20](5-str-410-20.md) — Gewerbsmäßige Hehlerei: Beschwer bei Einziehungsentscheidung; Einziehung bei Rückgabe der sichergestellten Tatobjekte
+- [BGH, Beschluss vom 29.10.2020 - 5 StR 618/19](5-str-618-19.md) — Insolvenzverschleppung: "Ernsthaftes Einfordern" der geschuldeten Leistung bei Zahlungsunfähigkeit
+- [BGH, Beschluss vom 28.10.2020 - 5 StR 411/20](5-str-411-20.md) — Beweiswürdigung im Strafverfahren: Einlassung des Angeklagten nach anfänglichem Schweigen
+- [BGH, Urteil vom 14.10.2020 - 5 StR 165/20](5-str-165-20.md) — Strafverfahren: Erweiterte Einziehung von Taterträgen
+- [BGH, Beschluss vom 14.10.2020 - 5 StR 229/19](5-str-229-19.md) — 1. Zur Bestimmung des erlangten Etwas im Sinne von § 73 Abs. 1 StGB in Fällen der Marktmanipulation. 2. § 100a Abs. 1 Satz 1 StPO erlaubt den Zugriff auf beim P
+- [BGH, Beschluss vom 30.09.2020 - 5 StR 373/20](5-str-373-20.md) — Revision im Strafverfahren: Verfahrenseinstellung bei unwirksamen Beschluss über die Eröffnung eines weiteren Verfahrens in der erstinstanzlichen Hauptverhandlu
+- [BGH, Urteil vom 30.09.2020 - 5 StR 99/20](5-str-99-20.md) — Strafverfahren: Anforderungen an die Kognitionspflicht
+- [BGH, Beschluss vom 29.09.2020 - 5 StR 123/20](5-str-123-20.md) — Revisionsverfahren: Anforderungen an einer Verfahrensrüge wegen eines Beweisverwertungsverbots
+- [BGH, Beschluss vom 16.09.2020 - 5 StR 249/20](5-str-249-20.md) — Verständigung im Strafverfahren: Mitteilungspflicht des vorsitzenden Richters über verständigungsbezogene Erörterung; Beruhen des Urteils auf einer Mitteilungsp
+- [BGH, Beschluss vom 16.09.2020 - 5 StR 314/20](5-str-314-20.md) — Strafverfahren: Revisionsrüge der Nichtbeachtung eines Beweisverwertungsverbots wegen Tilgungsreife einer Bundeszentralregistereintragung
+- [BGH, Beschluss vom 15.09.2020 - 5 StR 193/20](5-str-193-20.md) — Jugendstrafe: Geltung des Doppelverwertungsverbots bei der Strafbemessung
+- [BGH, Beschluss vom 02.09.2020 - 5 StR 245/20](5-str-245-20.md) — Zwangsprostitution: Umfang der erforderlichen Einflussnahme auf die Opfer
+- [BGH, Urteil vom 02.09.2020 - 5 StR 520/19](5-str-520-19.md) — Verfahrensfehler in Strafsachen: Unterlassener Hinweis des Erstgerichts bei Übergang vom Sicherungs- in das Strafverfahren; Gefahrenprognose im Rahmen der Maßre
+- [BGH, Urteil vom 02.09.2020 - 5 StR 630/19](5-str-630-19.md) — Richterablehnung im Strafverfahren: Befangenheitsgrund der Wiederholung eines im Vorfeld der Hauptverhandlung gemachten und von einem Verfahrensbeteiligten bere
+- [BGH, Beschluss vom 19.08.2020 - 5 StR 216/20](5-str-216-20.md) — Aufklärungshilfe: Strafmilderung bei Versuch der Beteiligung an einer Katalogtat
+- [BGH, Urteil vom 19.08.2020 - 5 StR 219/20](5-str-219-20.md) — Strafmilderung bei Mord: Vorliegen außergewöhnlicher Umstände bei Heimtückemord
+- [BGH, Urteil vom 19.08.2020 - 5 StR 558/19](5-str-558-19.md) — Zum Abrechnungsbetrug im Fall eines medizinischen Versorgungszentrums bei unzulässiger Beteiligung eines Apothekers.
+- [BGH, Beschluss vom 18.08.2020 - 5 StR 175/20](5-str-175-20.md) — Beweiswürdigung in Strafsachen: Verwertbarkeit visueller Eindrücke des Gesamtverhaltens von Angeklagten und Zeugen
+- [BGH, Beschluss vom 18.08.2020 - 5 StR 318/20](5-str-318-20.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus im Sicherungsverfahren: Anforderungen an die Begründung der Gefährlichkeitsprognose; Voraussetz
+- [BGH, Beschluss vom 10.08.2020 - 5 StR 616/19](5-str-616-19.md) — Rechtsanwaltsgebühren: Reise des Nebenklägervertreters zur Revisionshauptverhandlung
+- [BGH, Beschluss vom 23.07.2020 - 5 StR 149/20](5-str-149-20.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln: Einziehung der erlangten Vermögenswerte bei mehreren Beteiligten
+- [BGH, Urteil vom 22.07.2020 - 5 StR 543/19](5-str-543-19.md) — Niedrige Beweggründe bei einem versuchten "Ehrenmord": Objektiver und subjektiver Bewertungsmaßstab bei einem afghanischen Angeklagten; Maßgeblichkeit inländisc
+- [BGH, Beschluss vom 21.07.2020 - 5 StR 146/19](5-str-146-19.md) — 1. Auch durch Vorlage der Kopie oder durch elektronische Übersendung des Bildes eines echten Ausweises zur Identitätstäuschung kann ein Ausweispapier im Sinne v
+- [BGH, Beschluss vom 21.07.2020 - 5 StR 236/20](5-str-236-20.md) — Ablehnung eines Richters im Strafverfahren: Unverzüglichkeit des Befangenheitsantrags
+- [BGH, Beschluss vom 21.07.2020 - 5 StR 250/20](5-str-250-20.md) — Urkundenverlesung im Strafverfahren: Beruhen des Urteils auf rechtsfehlerhafter Verlesung eines Zeugenvernehmungsprotokolls ohne Gerichtsbeschluss
+- [BGH, Beschluss vom 08.07.2020 - 5 StR 144/20](5-str-144-20.md) — Strafverurteilung wegen erpresserischen Menschenraubs u.a.: Konkurrenzverhältnis bei mehreren Tatbeteiligten
+- [BGH, Urteil vom 08.07.2020 - 5 StR 168/20](5-str-168-20.md) — Revisionsrüge der Wiederherstellung der Öffentlichkeit für das letzte Wort des Angeklagten: Widersprüchliches Verhalten des Angeklagten
+- [BGH, Urteil vom 08.07.2020 - 5 StR 80/20](5-str-80-20.md) — Strafverfahren: Beweiswürdigung durch das Tatgericht
+- [BGH, Beschluss vom 07.07.2020 - 5 StR 233/20](5-str-233-20.md) — Versuchter Totschlag: Freiwilligkeit des Rücktritts bei Einflussnahme Dritter
+- [BGH, Beschluss vom 24.06.2020 - 5 StR 214/20](5-str-214-20.md) — Strafzumessungerwägungen: Aufklärungsbeitrag des Angeklagten als vormaliger Zeuge
+- [BGH, Urteil vom 24.06.2020 - 5 StR 671/19](5-str-671-19.md) — 1. Zum Begriff der dauerhaft genutzten Privatwohnung im Sinne des § 244 Abs. 4 StGB. 2. Einfluss der Rückführungsrichtlinie auf die Strafbarkeit des unerlaubten
+- [BGH, Beschluss vom 23.06.2020 - 5 StR 115/20](5-str-115-20.md) — Revision in Strafsachen: Mitteilungspflichten des Vorsitzenden in erster Instanz nach ergebnislosen Verständigungsgesprächen; Beruhen des erstinstanzlichen Urte
+- [BGH, Beschluss vom 23.06.2020 - 5 StR 164/20](5-str-164-20.md) — Konkurrenzverhältnisse beim Computerbetrug: Mehrfaches Abheben von Bargeld an demselben Geldautomaten mit einer fremden ec-Karte
+- [BGH, Beschluss vom 23.06.2020 - 5 StR 189/20](5-str-189-20.md) — Revisionsentscheidung in Strafsachen: Verschärfung des Schuldspruchs wegen Betäubungsmitteldelikt ohne Verstoß gegen das Verschlechterungsverbot
+- [BGH, Beschluss vom 23.06.2020 - 5 StR 601/19](5-str-601-19.md) — Versuchter Mord: Rücktritt vom unbeendeten Versuch; Korrektur des Rücktrittshorizontes
+- [BGH, Beschluss vom 11.06.2020 - 5 StR 154/20](5-str-154-20.md) — Einziehung des Tatertrags: Verfügungsgewalt eines Tatbeteiligten
+- [BGH, Beschluss vom 11.06.2020 - 5 StR 157/20](5-str-157-20.md) — Widerstand gegen Vollstreckungsbeamte, tätlicher Angriff auf Vollstreckungsbeamte und versuchte Körperverletzung können zueinander im Verhältnis der Tateinheit 
+- [BGH, Beschluss vom 10.06.2020 - 5 ARs 17/19](5-ars-17-19.md) — 1. Gegen die Entscheidung der Staatsanwaltschaft, nach § 111i Abs. 2 StPO einen Antrag auf Eröffnung des Insolvenzverfahrens zu stellen, ist der Rechtsweg nach 
+- [BGH, Beschluss vom 10.06.2020 - 5 StR 109/20](5-str-109-20.md) — Beweiswürdigung im Strafverfahren: Bewertung des Verhaltens des Angeklagten bei der Festnahme
+- [BGH, Beschluss vom 10.06.2020 - 5 StR 635/19](5-str-635-19.md) — Sprengung eines Geldautomaten: Unmittelbares Ansetzen zum versuchten Diebstahl; Verabredung zur Herbeiführung einer Sprengstoffexplosion
+- [BGH, Beschluss vom 09.06.2020 - 5 StR 167/20](5-str-167-20.md) — Sicherungsverfahren auf Unterbringung des Beschuldigten in einem psychiatrischen Krankenhaus: Revisionsgrund fehlerhafter Ablehnung eines Hilfsbeweisantrages au
+- [BGH, Beschluss vom 09.06.2020 - 5 StR 188/20](5-str-188-20.md) — Strafzumessung: Berücksichtigung der Einziehung eines Tatmittels als Nebenstrafe
+- [BGH, Beschluss vom 27.05.2020 - 5 StR 166/20](5-str-166-20.md) — Strafverfahren: Ausreichende Gelegenheit des Angeklagten zum letzten Wort
+- [BGH, Beschluss vom 27.05.2020 - 5 StR 173/20](5-str-173-20.md) — Versuchter Raub in einem besonders schweren Fall: Unmittelbares Ansetzen bei wesentlichen Zwischenschritten vor der eigentlichen Tatausführung
+- [BGH, Beschluss vom 27.05.2020 - 5 StR 35/20](5-str-35-20.md) — Ausbeutung der Arbeitskraft: Konkurrenzverhältnis zum Tatbestand des Menschenhandels
+- [BGH, Urteil vom 27.05.2020 - 5 StR 433/19](5-str-433-19.md) — Urkundenfälschung und Betrug: Verfälschung von Urkunden mittels eines Computers; Beihilfe durch berufstypische Handlungen
+- [BGH, Urteil vom 27.05.2020 - 5 StR 603/19](5-str-603-19.md) — Kumulative Verhängung von Freiheits- und Geldstrafen: Anforderungen an die Begründung
+- [BGH, Beschluss vom 26.05.2020 - 5 StR 55/20](5-str-55-20.md) — Einbruchdiebstahl: Voraussetzungen des Versuchsbeginns und der Mittäterschaft
+- [BGH, Beschluss vom 26.05.2020 - 5 StR 65/20](5-str-65-20.md) — Unterbrechung der Hauptverhandlung: Berechnung der Unterbrechungsdauer
+- [BGH, Beschluss vom 14.05.2020 - 5 StR 672/19](5-str-672-19.md) — Revision in Strafsachen: Unzureichende Begründung von Verfahrensrügen
+- [BGH, Beschluss vom 13.05.2020 - 5 StR 614/19](5-str-614-19.md) — Ausspähen von Daten: Begriff des Überwindens der Zugangssicherung
+- [BGH, Beschluss vom 12.05.2020 - 5 StR 111/20](5-str-111-20.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Mitsichführen einer Schusswaffe
+- [BGH, Beschluss vom 12.05.2020 - 5 StR 139/20](5-str-139-20.md) — Beweiswürdigung im Strafverfahren: Glaubhaftigkeit der Aussage eines Belastungszeugen
+- [BGH, Beschluss vom 28.04.2020 - 5 StR 15/20](5-str-15-20.md) — Versuchsbeginn beim Einbruchdiebstahl.
+- [BGH, Beschluss vom 27.04.2020 - 5 StR 117/20](5-str-117-20.md) — Wirksamkeit der Anklageerhebung: Anklageschrift ohne persönliche Unterschrift des Staatsanwalts
+- [BGH, Beschluss vom 15.04.2020 - 5 StR 435/19](5-str-435-19.md) — Verfolgungsverjährung: Verjährungslauf bei Tateinheit; Verjährungsbeginn beim Bankrott
+- [BGH, Beschluss vom 15.04.2020 - 5 StR 44/20](5-str-44-20.md) — Absehen von der Anordnung der Unterbringung in einer Entziehungsanstalt: Begründungspflicht des Gerichts in den Urteilsgründen
+- [BGH, Beschluss vom 15.04.2020 - 5 StR 513/19](5-str-513-19.md) — Betrug im Gebrauchtwagenhandel: Bestimmung des Vermögensschadens; Vermeidung der Inanspruchnahme wegen Kontoführungsgebühren für ein unter falscher Identität er
+- [BGH, Beschluss vom 15.04.2020 - 5 StR 75/20](5-str-75-20.md) — Rücktritt vom Tötungsversuch: Merkmal der Freiwilligkeit
+- [BGH, Beschluss vom 14.04.2020 - 5 StR 10/20](5-str-10-20.md) — Diebstahl: Begriff des Gewahrsamsbruchs
+- [BGH, Beschluss vom 14.04.2020 - 5 StR 14/20](5-str-14-20.md) — Sitzungsleitung in der Hauptverhandlung in Strafsachen: Beantwortungspflicht für einen Fragenkatalog an den Tatrichter zur Ausforschung möglicher Befangenheitsg
+- [BGH, Beschluss vom 14.04.2020 - 5 StR 20/19](5-str-20-19.md) — Divergenzvorlage an den Großen Senat in Strafsachen: Erfordernis eines rechtlichen Hinweises auf mögliche Einziehung des Wertes von Taterträgen
+- [BGH, Beschluss vom 14.04.2020 - 5 StR 37/20](5-str-37-20.md) — Bei einer Tat nach § 132 Alt. 1 StGB ist eine Begehung in Mittäterschaft möglich; es handelt sich nicht um ein „eigenhändiges Delikt“.
+- [BGH, Beschluss vom 14.04.2020 - 5 StR 424/19](5-str-424-19.md) — 1. Das Sächsische Wahlprüfungsgesetz lässt die eidliche Vernehmung am Verfahren Beteiligter als Zeugen nicht zu. 2. § 162 StGB enthält keine Einschränkung der S
+- [BGH, Beschluss vom 14.04.2020 - 5 StR 644/19](5-str-644-19.md) — Sexueller Missbrauch von Kindern: Zulässigkeit der Nebenklägerrevision wegen Nichtanwendung einer Strafzumessungsregel
+- [BGH, Beschluss vom 14.04.2020 - 5 StR 93/20](5-str-93-20.md) — Versuchter Mord: Tötung mit gemeingefährlichen Mittel bei Brandlegung in einem Wohnhaus; Darstellung des Vorstellungsbildes des Täters im Urteil
+- [BGH, Beschluss vom 31.03.2020 - 5 StR 116/20](5-str-116-20.md) — Kostenentscheidung in Strafsachen: Zuständiges Gericht für die Kostenbeschwerde des Nebenklägers
+- [BGH, Beschluss vom 31.03.2020 - 5 StR 12/20](5-str-12-20.md) — Beweisaufnahme im Strafverfahren: Ausschluss der Öffentlichkeit bei Verlesung eines vom Nebenkläger gefertigten Erinnerungsprotokolls und eines Teils seiner pol
+- [BGH, Urteil vom 04.03.2020 - 5 StR 395/19](5-str-395-19.md) — Untreue: Schädigung des Gesamthandsvermögens einer GmbH & Co. KG
+- [BGH, Beschluss vom 04.03.2020 - 5 StR 43/20](5-str-43-20.md) — Beweiswürdigung im Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Erweiterte Einziehung von Taterträgen
+- [BGH, Urteil vom 04.03.2020 - 5 StR 623/19](5-str-623-19.md) — Besonders schwerer Raub und fahrlässige Tötung: Zurechnung eines Todeserfolgs bei Exzesstat eines Mittäters; Vorhersehbarkeit eines tödlichen Geschehensverlaufs
+- [BGH, Beschluss vom 03.03.2020 - 5 StR 36/20](5-str-36-20.md) — Verfahrenshindernis unwirksamer Anklageerhebung: Übernahme einer Strafrichteranklage ohne wesentliches Ermittlungsergebnis durch das Landgericht
+- [BGH, Beschluss vom 03.03.2020 - 5 StR 595/19](5-str-595-19.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Überwachungspflichten des formellen Strohmann-Geschäftsführers hinsichtlich der Tätigkeiten des faktischen GmbH
+- [BGH, Beschluss vom 20.02.2020 - 5 StR 580/19](5-str-580-19.md) — Sexueller Übergriff auf ein schlafendes Kind: Ausnutzen der Unfähigkeit des Opfers zur Willensbildung und Willensäußerung in objektiver und subjektiver Hinsicht
+- [BGH, Beschluss vom 06.02.2020 - 5 ARs 1/20](5-ars-1-20.md) — BGH, Beschluss 5 ARs 1/20
+- [BGH, Beschluss vom 06.02.2020 - 5 ARs 20/19](5-ars-20-19.md) — Rechtsauffassung des 5. Strafsenats des BGH zur - zwingenden - Anwendung der Einziehungsregelungen im Jugendstrafrecht
+- [BGH, Urteil vom 05.02.2020 - 5 StR 390/19](5-str-390-19.md) — Revision gegen Urteil wegen schweren sexuellen Missbrauchs von Kindern: Widerspruch zwischen einem vorbereitenden schriftlichen und dem mündlich erstatteten Gla
+- [BGH, Beschluss vom 04.02.2020 - 5 StR 657/19](5-str-657-19.md) — Besitz kinderpornographischer Schriften: Verjährung und Konkurrenz; Vorliegen der Sachurteilsvoraussetzungen nach Anerkenntnis des Adhäsionsbeklagten
+- [BGH, Beschluss vom 23.01.2020 - 5 StR 518/19](5-str-518-19.md) — Einziehung des Nachlasses bei Tötung des Erblassers durch den angeklagten Erben
+- [BGH, Urteil vom 22.01.2020 - 5 StR 385/19](5-str-385-19.md) — Bestechlichkeit bei Zahlung für Verkauf an einzigen Interessenten
+- [BGH, Urteil vom 22.01.2020 - 5 StR 407/19](5-str-407-19.md) — Mordmerkmal der niedrigen Beweggründe bei latenter Homophobie: Vorliegen eines Motivbündels
+- [BGH, Beschluss vom 09.01.2020 - 5 StR 529/19](5-str-529-19.md) — Strafurteil: Anforderungen an die Beweiswürdigung des Tatrichters; tragfähige Tatsachengrundlage bei der Abgrenzung täterschaftlichen Handeltreibens mit Betäubu
+- [BGH, Urteil vom 08.01.2020 - 5 StR 122/19](5-str-122-19.md) — Subjektiver Tatbestand des Vorenthaltens und Veruntreuens von Arbeitsentgelt
+- [BGH, Beschluss vom 08.01.2020 - 5 StR 366/19](5-str-366-19.md) — 1. Ein Entscheidungsträger handelt im Bereich der öffentlichen Verwaltung nicht stets pflichtwidrig, wenn er nicht das sparsamste im Sinne des niedrigsten Angeb

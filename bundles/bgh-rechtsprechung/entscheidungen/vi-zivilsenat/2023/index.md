@@ -1,0 +1,86 @@
+# VI. Zivilsenat – 2023
+
+82 Entscheidung(en).
+
+- [BGH, Beschluss vom 12.12.2023 - VI ZR 277/22](vi-zr-277-22.md) — Datenschutzgrundverordnung: Darlegungs- und Beweislast für datenschutzrechtlichen Schadensersatzanspruch
+- [BGH, Urteil vom 12.12.2023 - VI ZR 297/22](vi-zr-297-22.md) — Zum Begriff der Versorgungsbezüge in § 12 Abs. 1 Satz 3 PflVG (hier: Härtefallleistungen nach dem Opferentschädigungsgesetz).
+- [BGH, Urteil vom 12.12.2023 - VI ZR 76/23](vi-zr-76-23.md) — Zur Reichweite der Haftung des Halters eines Kraftfahrzeugs nach § 7 Abs. 1 StVG bei einem Fahrzeugbrand.
+- [BGH, Urteil vom 12.12.2023 - VI ZR 77/23](vi-zr-77-23.md) — 1. Die Gefahr, die von einer gerade entleerten Mülltonne auf der Straße für andere Verkehrsteilnehmer ausgeht, ist dem Betrieb des Müllabfuhrfahrzeugs zuzurechn
+- [BGH, Beschluss vom 11.12.2023 - VI ZR 411/20](vi-zr-411-20.md) — BGH, Beschluss VI ZR 411/20
+- [BGH, Urteil vom 05.12.2023 - VI ZR 108/21](vi-zr-108-21.md) — 1. Einer ordnungsgemäßen, zeitnah erstellten Dokumentation in Papierform, die keinen Anhalt für Veränderungen, Verfälschungen oder Widersprüchlichkeiten bietet,
+- [BGH, Urteil vom 05.12.2023 - VI ZR 34/22](vi-zr-34-22.md) — 1. Gemäß § 412 Abs. 2 ZPO kann das Gericht die Begutachtung durch einen anderen Sachverständigen anordnen, wenn ein Sachverständiger nach Erstattung des Gutacht
+- [BGH, Beschluss vom 14.11.2023 - VI ZR 244/21](vi-zr-244-21.md) — 1. Dem Krankenhausträger obliegen vertragliche Pflichten zum Schutz der körperlichen Unversehrtheit der stationär aufgenommenen Patienten. Er hat die notwendige
+- [BGH, Beschluss vom 14.11.2023 - VI ZR 380/22](vi-zr-380-22.md) — BGH, Beschluss VI ZR 380/22
+- [BGH, Urteil vom 14.11.2023 - VI ZR 98/23](vi-zr-98-23.md) — Auch das Rückwärtsfahren mit einem Anhänger ist ein "Ziehen" im Sinne von § 19 Abs. 4 Satz 4 StVG.
+- [BGH, Beschluss vom 24.10.2023 - VI ZB 39/21](vi-zb-39-21.md) — Zur Anrechnung der Geschäftsgebühr auf die Verfahrensgebühr, wenn außergerichtlich als Nebenforderung geltend gemachte Ansprüche auf Ersatz der vorgerichtlichen
+- [BGH, Beschluss vom 24.10.2023 - VI ZB 53/22](vi-zb-53-22.md) — Ein Rechtsanwalt hat durch geeignete organisatorische Vorkehrungen dafür Sorge zu tragen, dass Fristversäumnisse möglichst vermieden werden. Hierzu gehört die a
+- [BGH, Beschluss vom 24.10.2023 - VI  ZR 114/23](vi-zr-114-23.md) — BGH, Beschluss VI ZR 114/23
+- [BGH, Urteil vom 24.10.2023 - VI ZR 131/20](vi-zr-131-20.md) — Zur deliktischen Haftung des Kfz-Herstellers wegen der Verwendung einer unzulässigen Abschalteinrichtung für die Abgasrückführung gegenüber dem Leasingnehmer un
+- [BGH, Urteil vom 24.10.2023 - VI ZR 493/20](vi-zr-493-20.md) — Zur deliktischen Haftung des Kfz-Herstellers wegen der Verwendung einer unzulässigen Abschalteinrichtung für die Abgasrückführung gegenüber dem Käufer eines Fah
+- [BGH, Urteil vom 17.10.2023 - VI ZR 192/22](vi-zr-192-22.md) — Sprechen gewichtige Gründe für eine identifizierende Tatschilderung seitens des Opfers, muss diese auch dann hingenommen werden, wenn sie (aufgrund einer Prange
+- [BGH, Urteil vom 17.10.2023 - VI ZR 27/23](vi-zr-27-23.md) — Die in einem Vertrag über die Anmietung eines Ersatzfahrzeugs enthaltene formularmäßige Klausel, nach der der geschädigte Mieter (Zedent) dem Fahrzeugvermieter 
+- [BGH, Urteil vom 10.10.2023 - VI ZR 257/22](vi-zr-257-22.md) — Zur Unwirksamkeit einer als "Sicherungsabtretung" bezeichneten formularmäßigen Klausel in einem Vertrag über die Erstellung eines Kfz-Schadensgutachtens, nach d
+- [BGH, Urteil vom 10.10.2023 - VI ZR 287/22](vi-zr-287-22.md) — 1. Das Vorschriftszeichen 220 in Verbindung mit § 41 Abs. 1 StVO gebietet, dass die Einbahnstraße nur in vorgeschriebener Fahrtrichtung befahren werden darf. Ve
+- [BGH, Beschluss vom 26.09.2023 - VI ZB 48/23](vi-zb-48-23.md) — BGH, Beschluss VI ZB 48/23
+- [BGH, Beschluss vom 26.09.2023 - VI ZB 79/21](vi-zb-79-21.md) — 1. Die Begrenzung des Instanzenzugs durch § 574 Abs. 1 Satz 2, § 542 Abs. 2 Satz 1 ZPO gilt nur für das Verfügungsverfahren selbst, nicht hingegen für selbständ
+- [BGH, Beschluss vom 26.09.2023 - VI ZR 269/21](vi-zr-269-21.md) — Streitwertreduzierung bei gesunkener Wahrscheinlichkeit von Folgeschäden
+- [BGH, Beschluss vom 12.09.2023 - VI ZB 72/22](vi-zb-72-22.md) — 1. Das Berufungsgericht muss vor Verwerfung des Rechtsmittels mangels ausreichender Beschwer eine Zulassungsprüfung nachholen, wenn das erstinstanzliche Gericht
+- [BGH, Beschluss vom 12.09.2023 - VI ZR 371/21](vi-zr-371-21.md) — Die Nichtberücksichtigung eines erheblichen Beweisangebots, die im Prozessrecht keine Stütze hat, verstößt gegen Art. 103 Abs. 1 GG (st. Rspr. vgl. nur BGH, Bes
+- [BGH, Beschluss vom 31.08.2023 - VI ZR 367/22](vi-zr-367-22.md) — BGH, Beschluss VI ZR 367/22
+- [BGH, Beschluss vom 01.08.2023 - VI ZR 191/22](vi-zr-191-22.md) — Zum Vorliegen eines Gehörsverstoßes in einem Schadensersatzprozess.
+- [BGH, Urteil vom 01.08.2023 - VI ZR 307/21](vi-zr-307-21.md) — Ehe-Tragödie 1. Entsprechend der Regelung in § 555 Abs. 3 ZPO für das Anerkenntnisurteil ergeht ein Verzichtsurteil in der Revisionsinstanz nur auf gesonderten 
+- [BGH, Urteil vom 01.08.2023 - VI ZR 308/21](vi-zr-308-21.md) — 1. Entsprechend der Regelung in § 555 Abs. 3 ZPO für das Anerkenntnisurteil ergeht ein Verzichtsurteil in der Revisionsinstanz nur auf gesonderten Antrag des Be
+- [BGH, Urteil vom 01.08.2023 - VI ZR 82/22](vi-zr-82-22.md) — Zum Vorliegen eines Produktfehlers bei einem gebrochenen Keramikinlay einer Hüftendoprothese.
+- [BGH, Beschluss vom 18.07.2023 - VI ZR 126/21](vi-zr-126-21.md) — Auch wenn es grundsätzlich im pflichtgemäßen Ermessen des Berufungsgerichts steht, ob und inwieweit eine im ersten Rechtszug durchgeführte Beweisaufnahme zu wie
+- [BGH, Urteil vom 18.07.2023 - VI ZR 16/23](vi-zr-16-23.md) — Zur Reichweite der Haftung des Halters eines Kraftfahrzeugs mit Arbeitsfunktion nach § 7 Abs. 1 StVG (Kontaminierung von Trauben durch Austritt von Diesel aus e
+- [BGH, Beschluss vom 11.07.2023 - VI ZR 256/22](vi-zr-256-22.md) — Zum Vorliegen eines Gehörsverstoßes in einem Schadensersatzprozess.
+- [BGH, Beschluss vom 10.07.2023 - VI ZR 1074/20](vi-zr-1074-20.md) — BGH, Beschluss VI ZR 1074/20
+- [BGH, Beschluss vom 26.06.2023 - VI ZR 114/21](vi-zr-114-21.md) — BGH, Beschluss VI ZR 114/21
+- [BGH, Urteil vom 20.06.2023 - VI ZR 207/22](vi-zr-207-22.md) — Für Klagen, die auf ansehensbeeinträchtigende Äußerungen gestützt werden, welche dazu dienen, einen Antrag auf Vereinsausschluss zu begründen und das entspreche
+- [BGH, Urteil vom 20.06.2023 - VI ZR 262/21](vi-zr-262-21.md) — Für eine identifizierende Verdachtsberichterstattung ist jedenfalls ein Mindestbestand an Beweistatsachen, die für den Wahrheitsgehalt der Information sprechen 
+- [BGH, Beschluss vom 06.06.2023 - VI ZB 75/22](vi-zb-75-22.md) — Die Zuständigkeitsregelung in § 1 der nordrhein-westfälischen Konzentrations-Verordnung über Ansprüche aus Veröffentlichungen vom 1. Oktober 2021 (GV. NRW. S. 1
+- [BGH, Beschluss vom 06.06.2023 - VI ZR 197/21](vi-zr-197-21.md) — Zum Vorliegen eines Gehörsverstoßes in einem Schadensersatzprozess.
+- [BGH, Urteil vom 06.06.2023 - VI ZR 309/22](vi-zr-309-22.md) — Zur teilweisen Unzulässigkeit einer Filmberichterstattung über eine Kindesentführung wegen Schutzbedürftigkeit des Opfers.
+- [BGH, Urteil vom 26.05.2023 - VI ZR 274/22](vi-zr-274-22.md) — 1. Wird bei einem Verkehrsunfall ein Kfz beschädigt, hat der Geschädigte, der einen auf Gewinnerzielung ausgerichteten Reparaturbetrieb führt, grundsätzlich Ans
+- [BGH, Urteil vom 23.05.2023 - VI ZR 161/22](vi-zr-161-22.md) — Zur Bemessung der Höhe der Hinterbliebenenentschädigung (Anschluss an Senatsurteil vom 6. Dezember 2022 - VI ZR 73/21, VersR 2023, 256).
+- [BGH, Urteil vom 23.05.2023 - VI ZR 476/18](vi-zr-476-18.md) — 1. Begehrt ein Betroffener von dem Betreiber einer Internet-Suchmaschine wegen der (behaupteten) Unrichtigkeit eines gelisteten Inhalts dessen Auslistung, oblie
+- [BGH, Urteil vom 16.05.2023 - VI ZR 116/22](vi-zr-116-22.md) — 1. Die Anerkennung einer Rechtsnorm als Schutzgesetz im Sinne des § 823 Abs. 2 BGB setzt unter anderem voraus, dass die Schaffung eines individuellen - unter Um
+- [BGH, Beschluss vom 25.04.2023 - VI ZR 111/22](vi-zr-111-22.md) — Zur Bemessung des Werts der Beschwer des zur Unterlassung ansehensbeeinträchtigender Äußerungen verurteilten Beklagten.
+- [BGH, Beschluss vom 20.04.2023 - VI ZR 241/22](vi-zr-241-22.md) — BGH, Beschluss VI ZR 241/22
+- [BGH, Beschluss vom 18.04.2023 - VI ZB 2/23](vi-zb-2-23.md) — BGH, Beschluss VI ZB 2/23
+- [BGH, Beschluss vom 18.04.2023 - VI ZB 3/23, VI ZB 4/23, VI ZB 5/23](vi-zb-3-23-vi-zb-4-23-vi-zb-5-23.md) — BGH, Beschluss VI ZB 3/23, VI ZB 4/23, VI ZB 5/23
+- [BGH, Beschluss vom 18.04.2023 - VI ZB 36/22](vi-zb-36-22.md) — Zur Frage, wann ein Rechtsanwalt von einer erfolgreichen Übermittlung eines Schriftsatzes mittels des besonderen elektronischen Anwaltspostfachs (beA) an das Ge
+- [BGH, Beschluss vom 18.04.2023 - VI ZB 6/23](vi-zb-6-23.md) — BGH, Beschluss VI ZB 6/23
+- [BGH, Urteil vom 18.04.2023 - VI ZR 345/21](vi-zr-345-21.md) — Zum Ausgleichsanspruch des Unfallgegners gegen den haltenden Nichteigentümer (Leasingnehmer) und den Fahrer nach Regulierung der Schadensersatzansprüche des Lea
+- [BGH, Beschluss vom 17.04.2023 - VI ZR 224/21](vi-zr-224-21.md) — BGH, Beschluss VI ZR 224/21
+- [BGH, Urteil vom 04.04.2023 - VI ZR 11/21](vi-zr-11-21.md) — Zur Reichweite des Vertrauensgrundsatzes hinsichtlich des verkehrsgerechten Verhaltens eines Fußgängers beim Überqueren der Fahrbahn.
+- [BGH, Urteil vom 28.03.2023 - VI ZR 19/22](vi-zr-19-22.md) — Zu den Verkehrssicherungspflichten, insbesondere Prüfpflichten einer Kraftfahrzeugvertragshändlerin bei der Bestellung und Weitergabe von Ersatzschlüsseln für K
+- [BGH, Beschluss vom 28.03.2023 - VI ZR 225/21](vi-zr-225-21.md) — Datenschutz: Löschungsanspruch gegenüber Wirtschaftsauskunftei; Aussetzung des Verfahrens über eine Nichtzulassungsbeschwerde bei Anhängigkeit eines entsprechen
+- [BGH, Beschluss vom 28.03.2023 - VI ZR 29/21](vi-zr-29-21.md) — Zur Verletzung des Anspruchs auf Gewährung rechtlichen Gehörs bei einer unterbliebenen Auseinandersetzung der Entscheidungsgründe mit dem auf Privatgutachten ge
+- [BGH, Beschluss vom 28.03.2023 - VI ZR 368/21](vi-zr-368-21.md) — Zur Verletzung rechtlichen Gehörs durch Übergehen von Parteivortrag zur Würdigung von Zeugenaussagen und Verzicht auf erneute Vernehmung in der Berufungsinstanz
+- [BGH, Urteil vom 21.03.2023 - VI ZR 1369/20](vi-zr-1369-20.md) — Zur deliktischen Produzentenhaftung bei einem mit Herbiziden verunreinigten Düngemittel.
+- [BGH, Beschluss vom 14.03.2023 - VI ZR 319/21](vi-zr-319-21.md) — BGH, Beschluss VI ZR 319/21
+- [BGH, Urteil vom 14.03.2023 - VI ZR 338/21](vi-zr-338-21.md) — 1. Zur Verletzung des allgemeinen Persönlichkeitsrechts durch eine Berichterstattung über den Gesundheitszustand eines Menschen. 2. Die bloße Richtigstellung ei
+- [BGH, Beschluss vom 07.03.2023 - VI ZB 74/22](vi-zb-74-22.md) — Zu den Anforderungen an die Bezeichnung des Rechtsmittelgegners nach § 519 Abs. 2 ZPO.
+- [BGH, Urteil vom 07.03.2023 - VI ZR 180/22](vi-zr-180-22.md) — Zur Zulässigkeit der Vereinbarung eines Erfolgshonorars bei einer Inkassodienstleistung nach § 2 Abs. 2 RDG.
+- [BGH, Beschluss vom 28.02.2023 - VI ZR 98/22](vi-zr-98-22.md) — Zum Vorliegen eines Gehörsverstoßes wegen abweichender Würdigung einer Zeugenaussage durch das Berufungsgericht gegenüber der Vorinstanz, ohne den Zeugen erneut
+- [BGH, Beschluss vom 21.02.2023 - VI ZR 330/21](vi-zr-330-21.md) — Aussetzung eines zivilgerichtlichen Verfahrens wegen ausstehenden Vorabentscheidungen des Europäischen Gerichthofs zur Auslegung der Datenschutzgrundverordnung 
+- [BGH, Urteil vom 14.02.2023 - VI ZR 295/20](vi-zr-295-20.md) — 1. Für eine schwerwiegende Beeinträchtigung des seelischen Gesundheitszustandes der Schwangeren im Sinne von § 218a Abs. 2 StGB müssen Belastungen zu befürchten
+- [BGH, Urteil vom 07.02.2023 - VI ZR 137/22](vi-zr-137-22.md) — 1. Die nachträgliche Zulassung der Berufung aufgrund einer Anhörungsrüge gemäß § 321a ZPO ist ausnahmsweise zulässig, wenn das Verfahren aufgrund eines Gehörsve
+- [BGH, Urteil vom 07.02.2023 - VI ZR 138/22](vi-zr-138-22.md) — BGH, Urteil VI ZR 138/22
+- [BGH, Urteil vom 07.02.2023 - VI ZR 87/22](vi-zr-87-22.md) — Zur Reichweite der Haftung des Halters eines Anhängers nach § 7 Abs. 1 StVG a.F. (§ 19 Abs. 1 Satz 1 StVG n.F.).
+- [BGH, Beschluss vom 24.01.2023 - VI ZR 1214/20](vi-zr-1214-20.md) — BGH, Beschluss VI ZR 1214/20
+- [BGH, Urteil vom 24.01.2023 - VI ZR 1234/20](vi-zr-1234-20.md) — Zur Reichweite der Haftung des Halters eines Elektrorollers nach § 7 Abs. 1 StVG, wenn dessen ausgebaute Batterie während des Aufladens explodiert.
+- [BGH, Urteil vom 24.01.2023 - VI ZR 152/21](vi-zr-152-21.md) — 1. Von einem Geschädigten, der vom Arbeitsamt aufgrund seines Gesundheitszustandes für nicht mehr vermittlungsfähig gehalten wird, kann grundsätzlich keine weit
+- [BGH, Beschluss vom 24.01.2023 - VI ZR 327/20](vi-zr-327-20.md) — BGH, Beschluss VI ZR 327/20
+- [BGH, Beschluss vom 23.01.2023 - VI ZR 154/21](vi-zr-154-21.md) — BGH, Beschluss VI ZR 154/21
+- [BGH, Beschluss vom 17.01.2023 - VI ZB 114/21](vi-zb-114-21.md) — Ermittlung der Berufungsbeschwer bei äußerungsrechtlicher Klage auf Unterlassung und Widerruf
+- [BGH, Urteil vom 17.01.2023 - VI ZR 203/22](vi-zr-203-22.md) — 1. Wird das Klagebegehren auf ein undifferenziertes Gemenge von Ansprüchen sowohl aus eigenem als auch aus abgetretenem Recht ohne Angabe einer Prüfungsreihenfo
+- [BGH, Urteil vom 17.01.2023 - VI ZR 316/20](vi-zr-316-20.md) — Zur Haftung eines Fahrzeugherstellers nach § 826 BGB gegenüber dem Käufer eines Fahrzeugs in einem sogenannten Dieselfall (hier: Vorteilsausgleich, Annahmeverzu
+- [BGH, Beschluss vom 16.01.2023 - VI ZR 68/21](vi-zr-68-21.md) — BGH, Beschluss VI ZR 68/21
+- [BGH, Urteil vom 10.01.2023 - VI ZR 67/20](vi-zr-67-20.md) — Zum Umfang der Haftung eines Automobilherstellers nach §§ 826, 31 BGB gegenüber dem Käufer des Fahrzeugs in einem sogenannten Dieselfall (hier: Feststellungsint
+- [BGH, Beschluss vom 09.01.2023 - VI ZB 79/20](vi-zb-79-20.md) — Zum Rechtsweg beim Rückgriff des Unfallversicherungsträgers gegen den für ihn tätigen Durchgangsarzt bezüglich einer fehlerhaften Behandlung im Rahmen eines Arb
+- [BGH, Beschluss vom 09.01.2023 - VI ZB 80/20](vi-zb-80-20.md) — Zum Rechtsweg beim Rückgriff des Unfallversicherungsträgers gegen den für ihn tätigen Durchgangsarzt bezüglich einer fehlerhaften Behandlung im Rahmen eines Arb
+- [BGH, Beschluss vom 09.01.2023 - VI ZB 81/20](vi-zb-81-20.md) — Zum Rechtsweg beim Rückgriff des Unfallversicherungsträgers gegen den für ihn tätigen Durchgangsarzt bezüglich einer fehlerhaften Behandlung im Rahmen eines Arb
+- [BGH, Beschluss vom 09.01.2023 - VI ZB 82/20](vi-zb-82-20.md) — Zum Rechtsweg beim Rückgriff des Unfallversicherungsträgers gegen den für ihn tätigen Durchgangsarzt bezüglich einer fehlerhaften Behandlung im Rahmen eines Arb
+- [BGH, Beschluss vom 09.01.2023 - VI ZR 365/22](vi-zr-365-22.md) — BGH, Beschluss VI ZR 365/22

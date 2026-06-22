@@ -1,0 +1,85 @@
+# IX. Zivilsenat – 2023
+
+81 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2023 - IX ZA 14/23](ix-za-14-23.md) — Anhörungsrüge im Zusammenhang mit einer beabsichtigten Klage gegen einen vermeintlichen Miterben
+- [BGH, Beschluss vom 21.12.2023 - IX ZA 19/23](ix-za-19-23.md) — Zahlungsklage unter Geltendmachung eines Aussonderungsrechts
+- [BGH, Urteil vom 21.12.2023 - IX ZR 143/22](ix-zr-143-22.md) — Ein Kläger mit gewöhnlichem Aufenthalt im Vereinigten Königreich Großbritannien und Nordirland hat auf Verlangen des Beklagten keine Prozesskostensicherheit zu 
+- [BGH, Urteil vom 21.12.2023 - IX ZR 238/22](ix-zr-238-22.md) — Der Klageantrag auf Herausgabe einer verkörperten Information ist als Prozesserklärung im Wege der Auslegung nicht auf die Herausgabe der Information als solche
+- [BGH, Urteil vom 14.12.2023 - IX ZR 10/23](ix-zr-10-23.md) — Die vollumfängliche Rückzahlung einer Einlage an einen stillen Gesellschafter stellt insoweit eine unentgeltliche Leistung dar, als die Einlage durch Verluste v
+- [BGH, Beschluss vom 14.12.2023 - IX ZR 103/22](ix-zr-103-22.md) — BGH, Beschluss IX ZR 103/22
+- [BGH, Urteil vom 14.12.2023 - IX ZR 13/23](ix-zr-13-23.md) — BGH, Urteil IX ZR 13/23
+- [BGH, Urteil vom 14.12.2023 - IX ZR 14/23](ix-zr-14-23.md) — Anfechtbarkeit als objektiv unentgeltliche Leistung bei Auszahlung von Scheingewinnen an Anleger durch späteren Insolvenzschuldner
+- [BGH, Urteil vom 14.12.2023 - IX ZR 17/23](ix-zr-17-23.md) — Insolvenzanfechtung wegen Gläubigerbenachteiligung durch die Auszahlung von Scheingewinnen
+- [BGH, Urteil vom 07.12.2023 - IX ZR 36/22](ix-zr-36-22.md) — 1. Erfüllt der Schuldner die von einer Bürgschaft gesicherte Hauptschuld und wird der Bürge dadurch von seiner Bürgschaftsverpflichtung frei, ist diese Befreiun
+- [BGH, Beschluss vom 27.11.2023 - IX ZR 2/23](ix-zr-2-23.md) — BGH, Beschluss IX ZR 2/23
+- [BGH, Beschluss vom 23.11.2023 - IX ZB 29/22](ix-zb-29-22.md) — 1. Die Entlassung des Insolvenzverwalters auf Antrag eines Gläubigers wegen fehlender Unabhängigkeit stellt einen gesetzlich geregelten Unterfall einer Entlassu
+- [BGH, Versäumnisurteil vom 26.10.2023 - IX ZR 112/22](ix-zr-112-22.md) — 1. Wird die Kenntnis vom Gläubigerbenachteiligungsvorsatz vermutet, muss der Anfechtungsgegner den Beweis des Gegenteils führen. 2. Der Beweis des Gegenteils is
+- [BGH, Urteil vom 26.10.2023 - IX ZR 250/22](ix-zr-250-22.md) — 1. Zu den Voraussetzungen einer Zurückverweisung an das erstinstanzliche Gericht wegen eines Verfahrensmangels. 2. a) Ist Gegenstand der Anfechtung nur das Verp
+- [BGH, Beschluss vom 25.10.2023 - IX ZB 56/20](ix-zb-56-20.md) — BGH, Beschluss IX ZB 56/20
+- [BGH, Urteil vom 19.10.2023 - IX ZR 249/22](ix-zr-249-22.md) — 1. Führt eine vom Besteller ausgesprochene Kündigung eines Bauvertrags aus wichtigem Grund dazu, dass sich die Forderung des Schuldners auf Werklohn und eine Ge
+- [BGH, Beschluss vom 12.10.2023 - IX ZA 15/23](ix-za-15-23.md) — BGH, Beschluss IX ZA 15/23
+- [BGH, Beschluss vom 12.10.2023 - IX ZB 60/21](ix-zb-60-21.md) — Die Versäumung der Vollziehungsfrist bei einem in einem anderen Mitgliedstaat erlassenen Arrestbefehl kann nur mit den Rechtsbehelfen geltend gemacht werden, di
+- [BGH, Urteil vom 12.10.2023 - IX ZR 162/22](ix-zr-162-22.md) — 1. Übt der Schuldner eine vom Insolvenzverwalter freigegebene selbständige Tätigkeit tatsächlich aus, hat er die Gläubiger auch dann so zu stellen, als ob er ei
+- [BGH, Beschluss vom 28.09.2023 - IX ZB 60/20](ix-zb-60-20.md) — BGH, Beschluss IX ZB 60/20
+- [BGH, Beschluss vom 21.09.2023 - IX ZB 52/22](ix-zb-52-22.md) — Beschlüsse, die auf sofortige Beschwerde ergangen sind und der Rechtsbeschwerde unterliegen, sind in entsprechender Anwendung von § 318 ZPO unabänderlich und da
+- [BGH, Beschluss vom 14.09.2023 - IX ZA 9/23](ix-za-9-23.md) — BGH, Beschluss IX ZA 9/23
+- [BGH, Urteil vom 14.09.2023 - IX ZR 219/22](ix-zr-219-22.md) — 1. Die Erkrankung der anwaltlich vertretenen Partei selbst - bei einer juristischen Person die ihres Vertretungsorgans - zwingt nicht zu einer Terminsverlegung,
+- [BGH, Beschluss vom 07.09.2023 - IX ZB 25/23](ix-zb-25-23.md) — BGH, Beschluss IX ZB 25/23
+- [BGH, Beschluss vom 31.08.2023 - IX ZB 55/22](ix-zb-55-22.md) — BGH, Beschluss IX ZB 55/22
+- [BGH, Beschluss vom 24.08.2023 - IX ZB 5/23](ix-zb-5-23.md) — Zulässigkeit eines Ablehnungsgesuchs nach Abschluss einer Instanz; Zulässigkeit einer Anhörungsrüge vor BGH
+- [BGH, Beschluss vom 24.08.2023 - IX ZB 6/23](ix-zb-6-23.md) — BGH, Beschluss IX ZB 6/23
+- [BGH, Beschluss vom 24.08.2023 - IX ZR 18/22](ix-zr-18-22.md) — BGH, Beschluss IX ZR 18/22
+- [BGH, Beschluss vom 14.08.2023 - IX ZB 24/23](ix-zb-24-23.md) — BGH, Beschluss IX ZB 24/23
+- [BGH, Beschluss vom 02.08.2023 - IX ZB 27/22](ix-zb-27-22.md) — Erinnerung gegen den Gerichtskostenansatz: Einwand der Nichteinlegung der Rechtsbeschwerde
+- [BGH, Urteil vom 27.07.2023 - IX ZR 138/21](ix-zr-138-21.md) — 1. Der Insolvenzverwalter hat die ihm bekannten Konten der Hausbank des Schuldners innerhalb eines angemessenen Zeitraums darauf zu überprüfen, ob ihm die Konto
+- [BGH, Beschluss vom 27.07.2023 - IX ZR 157/21](ix-zr-157-21.md) — BGH, Beschluss IX ZR 157/21
+- [BGH, Urteil vom 27.07.2023 - IX ZR 267/20](ix-zr-267-20.md) — 1. Wird über das Vermögen des von den Feststellungszielen betroffenen Unternehmens das Insolvenzverfahren eröffnet, kann eine Musterfeststellungsklage gegen den
+- [BGH, Beschluss vom 20.07.2023 - IX ZB 7/22](ix-zb-7-22.md) — 1. Begründet der Zeuge im Zwischenstreit das Recht zur Zeugnisverweigerung einerseits mit der Verwandt- oder Schwägerschaft zur Partei und andererseits mit der 
+- [BGH, Beschluss vom 13.07.2023 - IX ZB 24/22](ix-zb-24-22.md) — 1. Besteht aufgrund einer abstrakt-generellen Regelung ein Anspruch auf eine Sonderzahlung, stellt dies nur dann eine Erschwerniszulage dar, wenn der Kreis der 
+- [BGH, Beschluss vom 13.07.2023 - IX ZB 42/22](ix-zb-42-22.md) — 1. Die Einstellung des Insolvenzverfahrens mit Zustimmung der Gläubiger steht einer Beschwerde des Insolvenzverwalters gegen die Festsetzung seiner Vergütung ni
+- [BGH, Beschluss vom 04.07.2023 - IX ZB 3/23](ix-zb-3-23.md) — BGH, Beschluss IX ZB 3/23
+- [BGH, Beschluss vom 04.07.2023 - IX ZB 4/23](ix-zb-4-23.md) — BGH, Beschluss IX ZB 4/23
+- [BGH, Beschluss vom 29.06.2023 - IX ZB 14/23](ix-zb-14-23.md) — BGH, Beschluss IX ZB 14/23
+- [BGH, EuGH-Vorlage vom 29.06.2023 - IX ZB 35/22](ix-zb-35-22.md) — Dem Gerichtshof der Europäischen Gemeinschaften werden gemäß Art. 267 Abs. 1 lit. b, Abs. 3 AEUV folgende Fragen vorgelegt: 1. Ist Art. 3 Abs. 1 Unterabs. 3 Sat
+- [BGH, Beschluss vom 29.06.2023 - IX ZR 128/22](ix-zr-128-22.md) — BGH, Beschluss IX ZR 128/22
+- [BGH, Urteil vom 29.06.2023 - IX ZR 151/22](ix-zr-151-22.md) — Gesamtvollstreckung: Rückgewähr eines zu Unrecht aus der Masse entnommenen Vergütungsvorschusses des Gesamtvollstreckungsverwalters
+- [BGH, Urteil vom 29.06.2023 - IX ZR 152/22](ix-zr-152-22.md) — 1. Der Anspruch auf Rückgewähr eines der Masse entnommenen, letztlich aber nicht verdienten Vorschusses auf die Vergütung des Insolvenzverwalters ergibt sich au
+- [BGH, Urteil vom 29.06.2023 - IX ZR 153/22](ix-zr-153-22.md) — Vergütung des Insolvenzverwalters: Rückzahlung eines aus der Masse entnommenen Vorschusses
+- [BGH, Urteil vom 29.06.2023 - IX ZR 56/22](ix-zr-56-22.md) — 1. Die Einbeziehung eines Dritten in den Schutzbereich des zwischen Rechtsberater und Mandant geschlossenen Mandatsvertrags ist nicht allein deshalb ausgeschlos
+- [BGH, Beschluss vom 22.06.2023 - IX ZB 15/21](ix-zb-15-21.md) — 1. Urkunden, welche die Bonität eines Drittmittelgebers belegen, gehören nicht zu den Anlagen, welche dem Insolvenzplan notwendig beizufügen sind. 2. Ein verfah
+- [BGH, Beschluss vom 15.06.2023 - IX ZB 11/23](ix-zb-11-23.md) — BGH, Beschluss IX ZB 11/23
+- [BGH, Beschluss vom 14.06.2023 - IX ZB 1/23](ix-zb-1-23.md) — Erinnerung gegen Gerichtskostenansatz: Handschriftliche Anmerkungen auf einer Zahlungserinnerung der Bundeskasse und Unterschriftserfordernis
+- [BGH, Beschluss vom 25.05.2023 - IX ZB 41/22](ix-zb-41-22.md) — BGH, Beschluss IX ZB 41/22
+- [BGH, Urteil vom 25.05.2023 - IX ZR 116/21](ix-zr-116-21.md) — Im Rahmen des echten Factorings muss sich der Factor die Kenntnis des Forderungsverkäufers von der Zahlungsunfähigkeit des späteren Insolvenzschuldners oder den
+- [BGH, Urteil vom 25.05.2023 - IX ZR 161/22](ix-zr-161-22.md) — Ein im Hauptsacheverfahren zur Regelung des Umgangs geschlossener und gerichtlich gebilligter Zwischenvergleich kann eine 1,0 Einigungsgebühr zur Entstehung bri
+- [BGH, Urteil vom 27.04.2023 - IX ZR 99/22](ix-zr-99-22.md) — 1. Der Insolvenzverwalter kann nach seiner Wahl die Rücknahme des Widerspruchs gegenüber dem anmeldenden Gläubiger oder aber gegenüber dem Insolvenzgericht erkl
+- [BGH, Urteil vom 20.04.2023 - IX ZR 209/21](ix-zr-209-21.md) — 1. Der Rechtsanwalt ist im Grundsatz gehalten, den Mandanten in die Lage zu versetzen, eine eigenverantwortliche und sachgerechte Entscheidung über den Abschlus
+- [BGH, Urteil vom 20.04.2023 - IX ZR 44/22](ix-zr-44-22.md) — 1. Für das Kleinbeteiligtenprivileg im Fall der Anfechtung der Rückzahlung eines Darlehens oder einer darlehensgleichen Finanzierungsleistung des Gesellschafter
+- [BGH, Beschluss vom 03.04.2023 - IX ZR 91/20](ix-zr-91-20.md) — Kostenentscheidung in übereinstimmend erledigt erklärtem Rechtsstreit in Revisionsinstanz
+- [BGH, Urteil vom 30.03.2023 - IX ZR 121/22](ix-zr-121-22.md) — 1. Der aktienrechtliche Schutz des gutgläubigen Dividendenempfängers schließt eine Insolvenzanfechtung nicht aus. 2. Eine Dividendenzahlung an den Aktionär ist 
+- [BGH, Urteil vom 30.03.2023 - IX ZR 122/22](ix-zr-122-22.md) — Insolvenzanfechtung bei gutgläubigem Dividendenempfänger
+- [BGH, Urteil vom 30.03.2023 - IX ZR 123/22](ix-zr-123-22.md) — BGH, Urteil IX ZR 123/22
+- [BGH, Beschluss vom 20.03.2023 - IX ZA 2/23](ix-za-2-23.md) — BGH, Beschluss IX ZA 2/23
+- [BGH, Beschluss vom 16.03.2023 - IX ZB 28/22](ix-zb-28-22.md) — 1. Die von oder gegenüber einem Insolvenz- oder Gesamtvollstreckungsverwalter vorgenommenen Rechtshandlungen bleiben nach seiner Abberufung auch gegenüber dem n
+- [BGH, Urteil vom 16.03.2023 - IX ZR 150/22](ix-zr-150-22.md) — Haftung des Treuhänders 1. Wird dem Schuldner rechtskräftig vorzeitige Restschuldbefreiung erteilt, steht das Vermögen, das der Schuldner nach Eintritt der tatb
+- [BGH, Urteil vom 09.03.2023 - IX ZR 150/21](ix-zr-150-21.md) — Die allein auf die teilweise Erfüllung gestützte Erwartung, der Insolvenzverwalter werde auch die restliche Insolvenzforderung vollständig befriedigen, genügt n
+- [BGH, Urteil vom 09.03.2023 - IX ZR 86/22](ix-zr-86-22.md) — Insolvenz: Voraussetzungen für Umrechnung von Beförderungsanspruch in Geld
+- [BGH, Urteil vom 09.03.2023 - IX ZR 90/22](ix-zr-90-22.md) — Eine Vereinbarung zwischen Gläubiger und Insolvenzverwalter über eine Insolvenzforderung kann nur dann eine Masseverbindlichkeit begründen, wenn es sich um eine
+- [BGH, Urteil vom 09.03.2023 - IX ZR 91/22](ix-zr-91-22.md) — 1. Fluggäste, die über eine bestätigte Buchung verfügen, denen nach der Eröffnung des Insolvenzverfahrens über das Vermögen der Fluggesellschaft aber kein durch
+- [BGH, Beschluss vom 23.02.2023 - IX ZA 23/22](ix-za-23-22.md) — BGH, Beschluss IX ZA 23/22
+- [BGH, Beschluss vom 23.02.2023 - IX ZR 136/22](ix-zr-136-22.md) — Gehörsverletzung in der Berufungsinstanz eines Insolvenzanfechtungsprozesses: Fehlerhafte Anwendung von Präklusionsvorschriften; Anforderungen an das Bestreiten
+- [BGH, Beschluss vom 16.02.2023 - IX ZR 147/22](ix-zr-147-22.md) — BGH, Beschluss IX ZR 147/22
+- [BGH, Versäumnisurteil vom 16.02.2023 - IX ZR 189/21](ix-zr-189-21.md) — Ein Rechtsanwalt ist auch nach seinem Ausscheiden aus der Anwaltschaft berechtigt und verpflichtet, zur Einforderung seiner Vergütung außerhalb eines Kostenfest
+- [BGH, Beschluss vom 16.02.2023 - IX ZR 21/22](ix-zr-21-22.md) — Streitwertfestsetzung: Gegenstandswert einer Insolvenztabellenfeststellungsklage
+- [BGH, Urteil vom 16.02.2023 - IX ZR 22/22](ix-zr-22-22.md) — Insolvenzverfahren: Aufnahme eines Rechtsstreits durch einen Zessionar ohne Zustimmung des Prozessgegners
+- [BGH, Urteil vom 16.02.2023 - IX ZR 23/22](ix-zr-23-22.md) — BGH, Urteil IX ZR 23/22
+- [BGH, Urteil vom 16.02.2023 - IX ZR 24/22](ix-zr-24-22.md) — Anmeldung einer Schadensersatzforderung in Insolvenztabelle
+- [BGH, Beschluss vom 09.02.2023 - IX ZB 23/22](ix-zb-23-22.md) — BGH, Beschluss IX ZB 23/22
+- [BGH, Beschluss vom 26.01.2023 - IX ZR 17/22](ix-zr-17-22.md) — 1. Bewirkt der Schuldner die ihm bei einem gegenseitigen Vertrag obliegende Gegenleistung, obwohl der Anspruch des Gläubigers auf die Gegenleistung entfallen is
+- [BGH, Urteil vom 26.01.2023 - IX ZR 85/21](ix-zr-85-21.md) — 1a. Eine Beteiligung am Haftkapital in Höhe von 10% (und nicht von weniger als 10%) steht der Anwendung des Kleinbeteiligtenprivilegs nicht entgegen; eine einsc
+- [BGH, Beschluss vom 19.01.2023 - IX ZB 34/22](ix-zb-34-22.md) — Kostenfestsetzungsverfahren: Zulässigkeit der Rechtsbeschwerde bei unzutreffender Rechtsbehelfsbelehrung; Nachholung der Rechtsbeschwerdezulassung durch Ergänzu
+- [BGH, Beschluss vom 19.01.2023 - IX ZR 117/21](ix-zr-117-21.md) — BGH, Beschluss IX ZR 117/21
+- [BGH, Beschluss vom 12.01.2023 - IX ZB 40/20](ix-zb-40-20.md) — BGH, Beschluss IX ZB 40/20
+- [BGH, Beschluss vom 12.01.2023 - IX ZB 5/22](ix-zb-5-22.md) — BGH, Beschluss IX ZB 5/22
+- [BGH, Beschluss vom 12.01.2023 - IX ZR 71/22](ix-zr-71-22.md) — Für die gesetzliche Vermutung der Kenntnis vom Gläubigerbenachteiligungsvorsatz des Schuldners muss der Anfechtungsgegner nicht wissen, dass der Schuldner seine

@@ -1,0 +1,61 @@
+# 4. Strafsenat – 2000
+
+57 Entscheidung(en).
+
+- [BGH, Entscheidung vom 21.12.2000 - 4 StR 431/00](4-str-431-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 30.11.2000 - 4 StR 463/00](4-str-463-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 30.11.2000 - 4 StR 475/00](4-str-475-00.md) — Aussetzung u.a.
+- [BGH, Beschluss vom 30.11.2000 - 4 StR 493/00](4-str-493-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 28.11.2000 - 4 StR 474/00](4-str-474-00.md) — Raubes u.a.
+- [BGH, Urteil vom 21.11.2000 - 4 StR 354/00](4-str-354-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 21.11.2000 - 4 StR 489/00](4-str-489-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 02.11.2000 - 4 StR 461/99](4-str-461-99.md) — Anordnung der Arbeitserziehung nach der Verordnung über Aufenthaltsbeschränkung
+- [BGH, Beschluss vom 02.11.2000 - 4 StR 471/00](4-str-471-00.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 05.10.2000 - 4 StR 313/00](4-str-313-00.md) — Raubes u.a.
+- [BGH, Beschluss vom 05.10.2000 - 4 StR 361/00](4-str-361-00.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 05.10.2000 - 4 StR 374/00](4-str-374-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 05.10.2000 - 4 StR 377/00](4-str-377-00.md) — Raubes u.a.
+- [BGH, Urteil vom 21.09.2000 - 4 StR 284/00](4-str-284-00.md) — Fälschung von Zahlungskarten u.a.
+- [BGH, Beschluss vom 21.09.2000 - 4 StR 366/00](4-str-366-00.md) — Vergewaltigung u.a.
+- [BGH, Entscheidung vom 10.08.2000 - 4 StR 188/00](4-str-188-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 10.08.2000 - 4 StR 304/00](4-str-304-00.md) — schwerer räuberischer Erpressung
+- [BGH, Entscheidung vom 03.08.2000 - 4 StR 280/00](4-str-280-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Entscheidung vom 03.08.2000 - 4 StR 302/00](4-str-302-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Urteil vom 27.07.2000 - 4 StR 185/00](4-str-185-00.md) — Verdachts der versuchten Anstiftung zum Mord
+- [BGH, Urteil vom 27.07.2000 - 4 StR 189/00](4-str-189-00.md) — Diebstahls
+- [BGH, Beschluss vom 13.07.2000 - 4 StR 230/00](4-str-230-00.md) — schweren Raubes
+- [BGH, Beschluss vom 13.07.2000 - 4 StR 271/00](4-str-271-00.md) — Untreue u.a.
+- [BGH, Beschluss vom 11.07.2000 - 4 StR 195/00](4-str-195-00.md) — versuchten Diebstahls u.a.
+- [BGH, Urteil vom 20.06.2000 - 4 StR 162/00](4-str-162-00.md) — Verdachts des Mordes u.a.
+- [BGH, Beschluss vom 18.05.2000 - 4 StR 116/00](4-str-116-00.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 18.05.2000 - 4 StR 127/00](4-str-127-00.md) — schwerer räuberischer Erpressung
+- [BGH, Urteil vom 18.05.2000 - 4 StR 29/00](4-str-29-00.md) — versuchten Totschlags u.a.
+- [BGH, Urteil vom 18.05.2000 - 4 StR 647/99](4-str-647-99.md) — Mordes u.a.
+- [BGH, Beschluss vom 09.05.2000 - 4 StR 105/00](4-str-105-00.md) — Raubes u.a.
+- [BGH, Beschluss vom 09.05.2000 - 4 StR 115/00](4-str-115-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 09.05.2000 - 4 StR 59/00](4-str-59-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 23.03.2000 - 4 StR 10/00](4-str-10-00.md) — versuchter Vergewaltigung mit Todesfolge
+- [BGH, Urteil vom 23.03.2000 - 4 StR 19/00](4-str-19-00.md) — Betruges u.a.
+- [BGH, Urteil vom 23.03.2000 - 4 StR 34/00](4-str-34-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 23.03.2000 - 4 StR 50/00](4-str-50-00.md) — Raubes und gefährlicher Körperverletzung
+- [BGH, Urteil vom 23.03.2000 - 4 StR 502/99](4-str-502-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 23.03.2000 - 4 StR 650/99](4-str-650-99.md) — versuchter räuberischer Erpressung mit Todesfolge u.a.
+- [BGH, Entscheidung vom 15.02.2000 - 4 StR 507/99](4-str-507-99.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Urteil vom 10.02.2000 - 4 StR 558/99](4-str-558-99.md) — Körperverletzung mit Todesfolge
+- [BGH, Urteil vom 10.02.2000 - 4 StR 616/99](4-str-616-99.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 08.02.2000 - 4 StR 488/99](4-str-488-99.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 08.02.2000 - 4 StR 592/99](4-str-592-99.md) — Vergewaltigung
+- [BGH, Beschluss vom 08.02.2000 - 4 StR 652/99](4-str-652-99.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 03.02.2000 - 4 StR 604/99](4-str-604-99.md) — schweren Bandendiebstahls u.a.
+- [BGH, Beschluss vom 03.02.2000 - 4 StR 7/00](4-str-7-00.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 01.02.2000 - 4 StR 564/99](4-str-564-99.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 01.02.2000 - 4 StR 593/99](4-str-593-99.md) — gewerbsmäßiger Bandenhehlerei u.a.
+- [BGH, Beschluss vom 01.02.2000 - 4 StR 635/99](4-str-635-99.md) — fahrlässigen Vollrausches
+- [BGH, Beschluss vom 13.01.2000 - 4 StR 598/99](4-str-598-99.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 13.01.2000 - 4 StR 606/99](4-str-606-99.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 13.01.2000 - 4 StR 609/99](4-str-609-99.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 13.01.2000 - 4 StR 619/99](4-str-619-99.md) — gewerbsmäßiger Bandenhehlerei u. a.
+- [BGH, Beschluss vom 13.01.2000 - 4 StR 626/98](4-str-626-98.md) — Betruges
+- [BGH, Beschluss vom 11.01.2000 - 4 StR 565/99](4-str-565-99.md) — unerlaubter Abgabe von Betäubungsmitteln an eine Person unter 18 Jahren u.a.
+- [BGH, Beschluss vom 11.01.2000 - 4 StR 568/99](4-str-568-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 11.01.2000 - 4 StR 611/99](4-str-611-99.md) — schwerer räuberischer Erpressung

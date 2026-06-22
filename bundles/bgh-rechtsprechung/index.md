@@ -11,7 +11,7 @@ Das Bündel ist auf Vollständigkeit angelegt (perspektivisch der gesamte veröf
 # Einstiege
 
 - **Nach Norm:** [Norm-Register](nach-norm/index.md). Der juristische Einstieg: welche Entscheidungen eine Vorschrift auslegen (etwa § 133 InsO). So bleibt der Bestand auch bei Zehntausenden Entscheidungen beherrschbar, weil man nie alles, sondern immer nur die Entscheidungen zu einer Norm sieht.
-- **Nach Senat und Jahr:** [Entscheidungen](entscheidungen/index.md). Der strukturelle Einstieg und der feste Ort jeder Entscheidungsdatei (`entscheidungen/<senat>/<jahr>/<aktenzeichen>.md`).
+- **Nach Senat und Jahr:** [Entscheidungen](entscheidungen/index.md). Der strukturelle Einstieg, als absteigender Baum (schrittweise Offenlegung): die Senatsübersicht beschreibt jeden Senat nach seinem Sachgebiet und nennt die Zahl der Entscheidungen (etwa IX. Zivilsenat: Insolvenz und Anfechtung); die Senatsseite listet die Jahre; die Jahresseite listet die Entscheidungen, jede mit einer Kurzbeschreibung. So lässt sich der passende Zweig wählen, ohne jede Datei zu öffnen. Pfad: `entscheidungen/<senat>/<jahr>/<aktenzeichen>.md`.
 - **Nach Aktenzeichen:** direkter Zugriff über den Pfad (das Aktenzeichen ist der Dateiname).
 
 # Stand

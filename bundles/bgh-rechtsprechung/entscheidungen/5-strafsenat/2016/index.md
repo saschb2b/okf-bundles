@@ -1,0 +1,61 @@
+# 5. Strafsenat – 2016
+
+57 Entscheidung(en).
+
+- [BGH, Beschluss vom 08.12.2016 - 5 StR 424/15](5-str-424-15.md) — Bemessung einer Geldbuße gegen eine juristische Person
+- [BGH, Beschluss vom 07.12.2016 - 5 StR 39/16](5-str-39-16.md) — Strafverfahren: Fehlende Zustimmungserklärung der Staatsanwaltschaft zum Verständigungsvorschlag des Gerichts
+- [BGH, Urteil vom 06.12.2016 - 5 StR 179/16](5-str-179-16.md) — Beweiswürdigung bei schwerem sexuellen Missbrauch von Kindern: Anforderungen an die Beweiswürdigung der Aussagen der Nebenklägerin bei auftretender Inkonstanz
+- [BGH, Urteil vom 09.11.2016 - 5 StR 313/15](5-str-313-15.md) — Zur Untreue bei behördlichen Entscheidungen im Zusammenhang mit gesetzlicher Vertretung nach Art. 233 § 2 Abs. 3 EGBGB.
+- [BGH, Beschluss vom 08.11.2016 - 5 StR 390/16](5-str-390-16.md) — 1. Zum Mordmerkmal der Grausamkeit bei Verbrennen des Opfers. 2. Bei Annahme besonders schwerer Schuld im Sinne des § 105 Abs. 3 Satz 2 JGG genügt deren Festste
+- [BGH, Beschluss vom 08.11.2016 - 5 StR 487/16](5-str-487-16.md) — Betäubungsmitteldelikte: Strafzumessung bei geringer Überschreitung der Untergrenze zur nicht geringen Menge
+- [BGH, Beschluss vom 26.10.2016 - 5 StR 396/16](5-str-396-16.md) — Verfahrensrüge in Strafsachen: Unterbleiben des Öffentlichkeitsausschlusses während der Schlussanträge
+- [BGH, Urteil vom 25.10.2016 - 5 StR 162/16](5-str-162-16.md) — Revisionsgerichtliche Nachprüfung des Strafausspruchs: Aufhebung auffallend milder Einzelstrafen und der Gesamtstrafe bei banden- und gewerbsmäßigen Betrugstate
+- [BGH, Urteil vom 25.10.2016 - 5 StR 255/16](5-str-255-16.md) — Revision in Strafsachen: Überprüfung tatrichterlicher Beweiswürdigung zur Abgrenzung von Mittäterschaft und Beihilfe beim schweren Raub sowie zur Zuordnung von 
+- [BGH, Urteil vom 12.10.2016 - 5 StR 134/15](5-str-134-15.md) — Strafbarkeit von Vorstandsmitgliedern einer Bank-AG: Untreue bei Verletzung gesellschaftsrechtlicher Pflichten durch sorgfaltswidrige Überschreitung der Grenzen
+- [BGH, Urteil vom 11.10.2016 - 5 StR 181/16](5-str-181-16.md) — Strafverfahren wegen Herbeiführens einer Sprengstoffexplosion: Erfordernis der Gesamtbetrachtung im Rahmen der Beweiswürdigung bei Freispruch
+- [BGH, Beschluss vom 27.09.2016 - 5 StR 417/16](5-str-417-16.md) — Strafverfahren wegen Betäubungsmitteldelikten: Anordnung der Unterbringung in einer Entziehungsanstalt und deren Aufrechterhaltung bei nachträglicher Gesamtstra
+- [BGH, Urteil vom 14.09.2016 - 5 StR 125/16](5-str-125-16.md) — Gewerbsmäßiges unerlaubtes Handeltreiben mit Arznei- und Betäubungsmitteln: Berechnung des erweiterten Verfalls
+- [BGH, Beschluss vom 14.09.2016 - 5 StR 275/16](5-str-275-16.md) — Strafverfahren: Verhältnismäßigkeitsprüfung bei Einziehung
+- [BGH, Beschluss vom 13.09.2016 - 5 StR 338/16](5-str-338-16.md) — Strafverfahren wegen Betäubungsmitteldelikten: Tatrichterliche Bewertung eines Geständnisses; Überprüfung eines verständigungsbasierten Geständnisses
+- [BGH, Beschluss vom 16.08.2016 - 5 StR 182/16](5-str-182-16.md) — Gesetzesalternative Verurteilung (gewerbsmäßig begangenen) Diebstahls oder gewerbsmäßiger Hehlerei bei gleichzeitiger Verwirklichung des Tatbestands der Geldwäs
+- [BGH, Beschluss vom 19.07.2016 - 5 StR 231/16](5-str-231-16.md) — Schwerer sexueller Missbrauch von Kindern: Darlegungsanforderungen und Beweiswürdigung in einer Aussage-gegen-Aussage-Konstellation
+- [BGH, Beschluss vom 07.07.2016 - 5 StR 270/16](5-str-270-16.md) — Beweiswürdigung im Strafverfahren: Verwertung von durch vorläufige gerichtliche Verfahrenseinstellung ausgeschiedenen Taten
+- [BGH, Beschluss vom 23.06.2016 - 5 StR 152/16](5-str-152-16.md) — Mord: Tötung in Verdeckungsabsicht mit bedingtem Vorsatz
+- [BGH, Beschluss vom 22.06.2016 - 5 StR 138/16](5-str-138-16.md) — Notwehr: Erforderlichkeit des lebensgefährdenden Einsatzes einer Waffe
+- [BGH, Beschluss vom 22.06.2016 - 5 StR 198/16](5-str-198-16.md) — Verletzung des höchstpersönlichen Lebensbereichs durch Bildaufnahmen: Aufenthalt des Täters innerhalb des geschützten räumlichen Bereichs beim Herstellen der Au
+- [BGH, Urteil vom 22.06.2016 - 5 StR 524/15](5-str-524-15.md) — Auf das Merkmal der besonderen Schwere der Schuld in § 105 Abs. 3 Satz 2 JGG sind die von der Rechtsprechung zu § 57a Abs. 1 Satz 1 Nr. 2 StGB entwickelten Maßs
+- [BGH, Urteil vom 22.06.2016 - 5 StR 98/16](5-str-98-16.md) — Für die raubspezifische Einheit von qualifizierter Nötigung und Wegnahme ist maßgeblich, ob es zu einer - vom Täter erkannten - nötigungsbedingten Schwächung de
+- [BGH, Beschluss vom 21.06.2016 - 5 StR 266/16](5-str-266-16.md) — Übergang vom Strafverfahren in das Sicherungsverfahren nach Anklage und Eröffnung des Hauptverfahrens
+- [BGH, Urteil vom 21.06.2016 - 5 StR 83/16](5-str-83-16.md) — Strafrahmenverschiebung wegen Aufklärungshilfe: Voraussetzungen und maßgeblicher Zeitpunkt für die Beurteilung
+- [BGH, Beschluss vom 08.06.2016 - 5 StR 170/16](5-str-170-16.md) — Zurückstellung der Strafvollstreckung wegen Betäubungsmittelabhängigkeit des Angeklagten: Entbehrlichkeit der Unterbringung in einer Entziehungsanstalt
+- [BGH, Beschluss vom 08.06.2016 - 5 StR 48/16](5-str-48-16.md) — Richterablehnung im Strafverfahren: "Unverzüglichkeit" eines Ablehnungsgesuchs
+- [BGH, Urteil vom 08.06.2016 - 5 StR 564/15](5-str-564-15.md) — Notwehr: Erforderliche Verteidigungshandlung bei unbewaffnetem Angreifer; Androhung des Gebrauchs eines Messers
+- [BGH, Beschluss vom 07.06.2016 - 5 StR 215/16](5-str-215-16.md) — Revision nach Strafverurteilung wegen unerlaubter Einfuhr von Betäubungsmitteln: Prüfung der Wesentlichkeit einer Aufklärungshilfe
+- [BGH, Beschluss vom 25.05.2016 - 5 StR 107/14](5-str-107-14.md) — Strafverfahren wegen gewerbsmäßigen Inverkehrbringens von Kräutermischungen zur Herbeiführung von Rauschzuständen: Strafbarkeit wegen Inverkehrbringens bedenkli
+- [BGH, Beschluss vom 12.05.2016 - 5 StR 102/16](5-str-102-16.md) — Strafverfahren wegen versuchten Totschlags: Berücksichtigung der Nichtvollendung der Tat und der Erfolgsnähe bei der Strafzumessung
+- [BGH, Urteil vom 11.05.2016 - 5 StR 456/15](5-str-456-15.md) — Schwerer sexueller Missbrauch von Kindern: Fehlerhafte Beweiswürdigung bei Nichtberücksichtigung weiterer Straftatbestände
+- [BGH, Beschluss vom 10.05.2016 - 5 StR 150/16](5-str-150-16.md) — Betäubungsmitteldelikt: Erforderliche Feststellungen bei Anordnung des Wertersatzverfalls
+- [BGH, Urteil vom 20.04.2016 - 5 StR 37/16](5-str-37-16.md) — Strafverfahren wegen Vergewaltigung der Ehefrau: Strafrahmenwahl und Strafzumessung bei Verwirklichung eines Regelbeispiels; strafmildernde Berücksichtigung tro
+- [BGH, Beschluss vom 20.04.2016 - 5 StR 71/16](5-str-71-16.md) — Unterbrechung der Hauptverhandlung: Überprüfungsmaßstab hinsichtlich der Wirksamkeit eines Hemmungsbeschlusses
+- [BGH, Urteil vom 20.04.2016 - 5 StR 8/16](5-str-8-16.md) — Betäubungsmitteldelikt: Ermessensentscheidung hinsichtlich der Anordnung des Wertersatzverfalls
+- [BGH, Urteil vom 19.04.2016 - 5 StR 498/15](5-str-498-15.md) — Raub mit Todesfolge: Bedingter Tötungsvorsatz bei konkreter Lebensgefährlichkeit von Gewalthandlungen
+- [BGH, Urteil vom 07.04.2016 - 5 StR 332/15](5-str-332-15.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Voraussetzungen einer ausdrücklichen Beauftragung mit Aufgaben eines Betriebsinhabers; Vermeidbarkeit eines Ver
+- [BGH, Beschluss vom 07.04.2016 - 5 StR 88/16](5-str-88-16.md) — Aufhebung eines Gesamtstrafenausspruchs: Beachtung des Verschlechterungsverbots bei nunmehriger Nebeneinanderverhängung von Gesamtfreiheitsstrafe und Geldstrafe
+- [BGH, Urteil vom 06.04.2016 - 5 StR 504/15](5-str-504-15.md) — Kannibalenfall: Konkurrenzverhältnis zwischen Mord und Störung der Totenruhe; Anwendung der sog. Rechtsfolgenlösung des Absehens von der lebenslangen Freiheitss
+- [BGH, Beschluss vom 05.04.2016 - 5 StR 40/16](5-str-40-16.md) — Beweiswürdigung im Strafverfahren: Erörterungspflicht hinsichtlich der Aktenkenntnis des Nebenklägers bei der Würdigung seiner Zeugenaussage in einer Aussage-ge
+- [BGH, Beschluss vom 05.04.2016 - 5 StR 525/15](5-str-525-15.md) — Sicherungsverfahren: Kostenregelung nach Tod des Beschuldigten
+- [BGH, Beschluss vom 15.03.2016 - 5 StR 26/16](5-str-26-16.md) — Strafverfahren wegen Mordes: Strafrahmenmilderung bei wesentlicher Aufklärungshilfe
+- [BGH, Beschluss vom 15.03.2016 - 5 StR 52/16](5-str-52-16.md) — BGH, Beschluss 5 StR 52/16
+- [BGH, Beschluss vom 15.03.2016 - 5 StR 68/16](5-str-68-16.md) — Fahrlässige Tötung: Pflicht einer Schwangeren zur Inanspruchnahme fremder Hilfe bei der Geburt
+- [BGH, Beschluss vom 14.03.2016 - 5 StR 516/15](5-str-516-15.md) — Strafverfahren wegen vorsätzlichen Inverkehrbringens gefälschter Arzneimittel: Fehlerhafte Beweiswürdigung bei einer tateinheitlichen Verurteilung wegen versuch
+- [BGH, Beschluss vom 02.03.2016 - 5 ARs 60/15](5-ars-60-15.md) — BGH, Beschluss 5 ARs 60/15
+- [BGH, Beschluss vom 01.03.2016 - 5 ARs 50/15](5-ars-50-15.md) — Versagung der Strafrahmenmilderung bei selbst verschuldeter Trunkenheit trotz fehlender Feststellung der Risikoerhöhung im Einzelfall
+- [BGH, Beschluss vom 17.02.2016 - 5 StR 487/15](5-str-487-15.md) — Falschbeurkundung im Amt: Notarielle Beglaubigung einer unzutreffenden Wohnortangabe für einen Vertragsbeteiligten in einem Unternehmenskaufvertrag
+- [BGH, Beschluss vom 17.02.2016 - 5 StR 554/15](5-str-554-15.md) — Mittäterschaftliche schwere Brandstiftung: Rückschluss auf einen konkludenten gemeinsamen Tatplan oder psychische Beihilfe
+- [BGH, Beschluss vom 16.02.2016 - 5 StR 10/16](5-str-10-16.md) — Revision im Strafverfahren: Anforderungen an die Verfahrensrüge betreffend ein Verwertungsverbot hinsichtlich erlangter Erkenntnisse bei einer Telekommunikation
+- [BGH, Urteil vom 16.02.2016 - 5 StR 465/15](5-str-465-15.md) — Heimtückemord: Wehrlosigkeit des Opfers trotz Abwehrmaßnahmen
+- [BGH, Beschluss vom 15.02.2016 - 5 StR 599/15](5-str-599-15.md) — Strafurteil wegen sexuellen Missbrauchs von Schutzbefohlenen: Notwendige Darstellung der Aussage der Nebenklägerin mit den zugehörigen Details in einer Aussage-
+- [BGH, Urteil vom 27.01.2016 - 5 StR 328/15](5-str-328-15.md) — Verwahrungsbruch: Ausdruck einer elektronisch geführten Verfahrensakte und Entziehen der Papierakte aus dem Geschäftsgang; Erfüllen der Voraussetzungen für eine
+- [BGH, Urteil vom 27.01.2016 - 5 StR 387/15](5-str-387-15.md) — Strafzumessung bei besonders schwerem Raub und gefährlicher Körperverletzung: Indizien für eine erhöhte Vorwerfbarkeit; Berücksichtigung der Häufung von Strafta
+- [BGH, Beschluss vom 13.01.2016 - 5 StR 485/15](5-str-485-15.md) — Teilfreispruch: Verurteilung wegen tateinheitlicher Begehung anstatt der angeklagten tatmehrheitlichen Begehung
+- [BGH, Beschluss vom 12.01.2016 - 5 StR 502/15](5-str-502-15.md) — Strafverfahren: Ausländerrechtliche Folgen als Strafzumessungsgründe

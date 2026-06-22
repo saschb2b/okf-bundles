@@ -1,0 +1,43 @@
+# X. Zivilsenat – 2022
+
+39 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2022 - X ZR 58/20](x-zr-58-20.md) — BGH, Beschluss X ZR 58/20
+- [BGH, Beschluss vom 20.12.2022 - X ZR 71/20](x-zr-71-20.md) — BGH, Beschluss X ZR 71/20
+- [BGH, Beschluss vom 20.12.2022 - X ZR 96/22](x-zr-96-22.md) — BGH, Beschluss X ZR 96/22
+- [BGH, Urteil vom 13.12.2022 - X ZR 48/11](x-zr-48-11.md) — BGH, Urteil X ZR 48/11
+- [BGH, Urteil vom 06.12.2022 - X ZR 47/22](x-zr-47-22.md) — Aminopyridin 1. Für die Beurteilung, ob das Klagehindernis nach § 81 Abs. 2 Satz 1 PatG vorliegt, ist nicht auf den Zeitpunkt der Klageerhebung abzustellen, son
+- [BGH, Urteil vom 15.11.2022 - X ZR 40/20](x-zr-40-20.md) — Ist der Schenker aufgrund einer objektiven oder subjektiven Zwangslage zur Schenkung veranlasst worden, kann der Vorwurf der Sittenwidrigkeit nicht nur solche P
+- [BGH, Urteil vom 10.11.2022 - X ZR 117/21](x-zr-117-21.md) — 1. Ein nicht vorhergesehenes Ereignis, von dem rund die Hälfte aller vorhandenen Flugzeuge betroffen ist, betrifft typischerweise einen wesentlichen Teil der Fl
+- [BGH, Urteil vom 10.11.2022 - X ZR 97/21](x-zr-97-21.md) — 1. Zu den zumutbaren Maßnahmen im Sinne von Art. 5 Abs. 3 FluggastrechteVO gehört es, dem Fluggast eine mögliche anderweitige direkte oder indirekte Beförderung
+- [BGH, Urteil vom 18.10.2022 - X ZR 32/21](x-zr-32-21.md) — BGH, Urteil X ZR 32/21
+- [BGH, Urteil vom 13.10.2022 - X ZR 1/22](x-zr-1-22.md) — BGH, Urteil X ZR 1/22
+- [BGH, Beschluss vom 13.10.2022 - X ZR 80/21](x-zr-80-21.md) — Reiserücktritt während der Corona-Pandemie: Entschädigungsanspruch des Pauschalreiseveranstalters bei coronabedingten Rücktritt durch Reisenden sowie späterer c
+- [BGH, Urteil vom 11.10.2022 - X ZR 42/20](x-zr-42-20.md) — Die Erklärung des Widerrufs einer Schenkung wegen groben Undanks bedarf keiner Begründung.
+- [BGH, Beschluss vom 27.09.2022 - X ZB 6/21](x-zb-6-21.md) — BGH, Beschluss X ZB 6/21
+- [BGH, Beschluss vom 27.09.2022 - X ZR 103/21](x-zr-103-21.md) — Akteneinsicht XXVI Nach § 99 Abs. 3 PatG ist der Antrag auf Akteneinsicht durch andere als die Parteien des Nichtigkeitsverfahrens nur dann von der zusätzlichen
+- [BGH, Beschluss vom 27.09.2022 - X ZR 30/21](x-zr-30-21.md) — BGH, Beschluss X ZR 30/21
+- [BGH, Urteil vom 27.09.2022 - X ZR 35/22](x-zr-35-22.md) — Der für den Fall der Annullierung eines Fluges in Art. 5 Abs. 1 Buchst. a i.V.m. Art. 8 Abs. 1 Buchst. a FluggastrechteVO wahlweise vorgesehene Anspruch auf Ers
+- [BGH, Beschluss vom 30.08.2022 - X ZR 3/22](x-zr-3-22.md) — BGH, Beschluss X ZR 3/22
+- [BGH, Urteil vom 30.08.2022 - X ZR 66/21](x-zr-66-21.md) — 1. Die Bewertung der von der Covid-19-Pandemie ausgehenden Gefahr als unvermeidbarer, außergewöhnlicher Umstand im Sinne von § 651h Abs. 3 BGB, der grundsätzlic
+- [BGH, Urteil vom 30.08.2022 - X ZR 84/21](x-zr-84-21.md) — 1. Unvermeidbare, außergewöhnliche Umstände im Sinne von § 651h Abs. 3 BGB lassen den Entschädigungsanspruch des Reiseveranstalters nur dann entfallen, wenn die
+- [BGH, EuGH-Vorlage vom 02.08.2022 - X ZR 53/21](x-zr-53-21.md) — Dem Gerichtshof der Europäischen Union wird gemäß Art. 267 AEUV folgende Frage zur Auslegung der Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des R
+- [BGH, Urteil vom 21.07.2022 - X ZR 110/21](x-zr-110-21.md) — Stammzellengewinnung Das Interesse der Allgemeinheit an der Beseitigung eines zu Unrecht erteilten Patents rechtfertigt die Nichtigkeitsklage nur solange, als d
+- [BGH, Urteil vom 21.06.2022 - X ZR 22/21](x-zr-22-21.md) — Bei einem Luftbeförderungsvertrag über einen Flug, der in zwei Teilflüge unterteilt ist, begründet die Pflicht, den zweiten Teilflug vertragsgemäß durchzuführen
+- [BGH, Beschluss vom 14.06.2022 - X ZR 147/17](x-zr-147-17.md) — BGH, Beschluss X ZR 147/17
+- [BGH, Beschluss vom 31.05.2022 - X ZR 41/20](x-zr-41-20.md) — Rechtliches Gehör: Gehörsverletzung bei unberechtigter Anwendung einer Präklusionsvorschrift
+- [BGH, Urteil vom 24.05.2022 - X ZR 12/21](x-zr-12-21.md) — Ein Reiseveranstalter kann sich seiner Obliegenheit, die Umstände darzulegen, die für die Angemessenheit einer im Reisevertrag vorgesehenen pauschalen Entschädi
+- [BGH, Zwischenurteil vom 24.05.2022 - X ZR 82/21](x-zr-82-21.md) — Container-Signatur im Patentnichtigkeitsverfahren 1. Eine qualifizierte Signatur, die sich auf den gesamten Inhalt einer über das elektronische Gerichts- und Ve
+- [BGH, EuGH-Vorlage vom 03.05.2022 - X ZR 122/21](x-zr-122-21.md) — BGH, EuGH-Vorlage X ZR 122/21
+- [BGH, Urteil vom 03.05.2022 - X ZR 4/21](x-zr-4-21.md) — Berufung im Zivilprozess: Anforderungen an die Berufungsbegründung
+- [BGH, Urteil vom 26.04.2022 - X ZR 3/20](x-zr-3-20.md) — 1. Zur substantiierten Darlegung von Geschäftsunfähigkeit nach § 104 Nr. 2, § 105 Abs. 2 BGB genügt der Vortrag konkreter Anhaltspunkte, aufgrund derer die Mögl
+- [BGH, Urteil vom 12.04.2022 - X ZR 101/20](x-zr-101-20.md) — 1. Bei einem auf einer einheitlichen Buchung beruhenden Flug, der aus zwei Teilflügen besteht, ist ein Unternehmen, das die Buchung erteilt und die Durchführung
+- [BGH, Beschluss vom 22.03.2022 - X ZB 15/19](x-zb-15-19.md) — Druckmaterialbehälter Für die Festsetzung des Gegenstandswerts in einem den Rechtsbestand eines Patents betreffenden Rechtsbeschwerdeverfahren kann nicht ohne w
+- [BGH, Beschluss vom 15.03.2022 - X ZR 16/22](x-zr-16-22.md) — Wenn der Beschwerdeführer eine beim Berufungsgericht eingelegte, nach § 544 Abs. 2 ZPO nicht statthafte Beschwerde gegen die Nichtzulassung der Revision vor Abg
+- [BGH, Urteil vom 22.02.2022 - X ZR 102/19](x-zr-102-19.md) — Aminosäureproduktion 1. Die Frage, ob ein Patentlizenzvertrag dem Begünstigten die Stellung eines ausschließlichen Lizenznehmers einräumt, ist nach dem Recht de
+- [BGH, Urteil vom 22.02.2022 - X ZR 103/19](x-zr-103-19.md) — Patentverletzungsstreit zum deutschen Teil eines Europäischen Patents: Anwendbares Recht und Aktivlegitimation des Inhabers einer Exklusivlizenz aufgrund rückwi
+- [BGH, Urteil vom 08.02.2022 - X ZR 97/20](x-zr-97-20.md) — Beruft sich der Reisende zur Begründung eines Reisemangels darauf, dass während seines Aufenthalts nachts teils mehrmals pro Stunde Flugzeuge in niedrigem Absta
+- [BGH, Urteil vom 18.01.2022 - X ZR 109/20](x-zr-109-20.md) — 1. Die Darlegungs- und Beweislast hinsichtlich der Umstände, die für die Angemessenheit einer auf der Grundlage von § 651h Abs. 1 Satz 3 BGB geforderten Entschä
+- [BGH, Urteil vom 18.01.2022 - X ZR 125/20](x-zr-125-20.md) — Die Darlegungs- und Beweislast hinsichtlich der Umstände, die für die Angemessenheit einer auf der Grundlage von § 651i Abs. 2 und 3 BGB a.F. geforderten Entsch
+- [BGH, Urteil vom 18.01.2022 - X ZR 14/20](x-zr-14-20.md) — CQI-Bericht Dokumente und Informationen, die den Teilnehmern eines Treffens einer Arbeitsgruppe des European Telecommunication Standards Institute (ETSI) in ein
+- [BGH, Urteil vom 18.01.2022 - X ZR 88/20](x-zr-88-20.md) — 1. Die Darlegungs- und Beweislast hinsichtlich der Umstände, die für die Angemessenheit einer auf der Grundlage von § 651i Abs. 2 und 3 BGB a.F. geforderten Ent

@@ -1,0 +1,42 @@
+# Kartellsenat – 2020
+
+38 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2020 - EnVR 115/18](envr-115-18.md) — Energie- und Wasserversorgung Hamm GmbH In energiewirtschaftsrechtlichen Verwaltungssachen können neue unstreitige Tatsachen in der Rechtsbeschwerdeinstanz berü
+- [BGH, Beschluss vom 15.12.2020 - KVZ 90/20](kvz-90-20.md) — Facebook II Gegen eine Zwischenentscheidung des Kartellbeschwerdegerichts in einem anhängigen Verfahren auf vorläufigen Rechtsschutz, die bis zur endgültigen En
+- [BGH, Urteil vom 08.12.2020 - KZR 103/19](kzr-103-19.md) — Nutzung von Personenbahnhöfen: Eisenbahnrechtliche Regulierung und kartellrechtliche Überprüfung von Eisenbahninfrastrukturnutzungsentgelten auf Grundlage eines
+- [BGH, Urteil vom 08.12.2020 - KZR 124/18](kzr-124-18.md) — Konkurrenzschutz für Schilderpräger II 1. Ein privater Vermieter, der aufgrund seiner marktbeherrschenden Stellung vor einer Vermietung den aktuellen Bedarf im 
+- [BGH, Urteil vom 08.12.2020 - KZR 60/16](kzr-60-16.md) — Stornierungsentgelt II Eine sprunghafte Preiserhöhung von einigem Gewicht kann ein bedeutsames Indiz für die missbräuchliche Ausnutzung von Handlungsspielräumen
+- [BGH, Urteil vom 24.11.2020 - KZR 11/19](kzr-11-19.md) — Radio Cottbus 1. Einem marktbeherrschenden Unternehmen, das auf einem mehrseitigen Markt Produkte oder Dienstleistungen verschiedener Anbieter an die Unternehme
+- [BGH, Beschluss vom 27.10.2020 - EnVR 104/19](envr-104-19.md) — Unberechtigt genutzte Lieferstellen 1. Stromentnahmen an der Lieferstelle eines Haushaltsanschlusses, die ohne vertragliche oder gesetzliche Grundlage erfolgen,
+- [BGH, Beschluss vom 27.10.2020 - EnVR 70/19](envr-70-19.md) — Kraftwerk Westfalen Eine Erzeugungsanlage, die sowohl an das Übertragungsnetz als auch an das Verteilernetz angeschlossen ist, ist keine dezentrale Erzeugungsan
+- [BGH, Beschluss vom 27.10.2020 - KVR 64/19](kvr-64-19.md) — Kartellverwaltungssache: Beschwerdebefugnis des Zielunternehmens in der Fusionskontrolle
+- [BGH, Urteil vom 23.09.2020 - KZR 35/19](kzr-35-19.md) — LKW-Kartell 1. Sind von einem Kartell mit hoher Marktabdeckung über einen längeren Zeitraum Preislisten und Listenpreiserhöhungen abgestimmt worden, ist bei der
+- [BGH, Urteil vom 23.09.2020 - KZR 4/19](kzr-4-19.md) — Schienenkartell V 1. Ein Kartellbeteiligter, der sich auf den Einwand der Vorteilsausgleichung berufen will, muss greifbare Anhaltspunkte vorbringen, die für ei
+- [BGH, Beschluss vom 01.09.2020 - EnVR 104/18](envr-104-18.md) — Formular-Unterschriftsfeld 1. Enthält der Antrag auf Ausstellung der Förderberechtigung nach § 21 FFAV alle notwendigen Angaben und geht er innerhalb der materi
+- [BGH, Beschluss vom 01.09.2020 - EnVR 7/19](envr-7-19.md) — Baltic Cable AB II 1. Der Einordnung einer Maßnahme als marktbezogen im Sinne des § 13 Abs. 1 Nr. 2 EnWG steht nicht entgegen, dass der Netznutzer mit dem Übert
+- [BGH, Urteil vom 01.09.2020 - KZR 12/15](kzr-12-15.md) — Stationspreissystem II Ein marktbeherrschendes Unternehmen, das mit dem Zugang zu wesentlichen Einrichtungen in unterschiedlichen Gebieten weitgehend gleicharti
+- [BGH, Beschluss vom 14.07.2020 - KVZ 56/19](kvz-56-19.md) — Zulassung der Rechtsbeschwerde in Kartellsachen: Zulässigkeit sog. Bestpreisklauseln in den Allgemeinen Geschäftsbedingungen eines Internet-Hotelbuchungsportals
+- [BGH, Beschluss vom 23.06.2020 - KVR 69/19](kvr-69-19.md) — Facebook 1. Die Ausnutzung einer marktbeherrschenden Stellung setzt bei einem Konditionenmissbrauch nach § 19 Abs. 1 GWB nicht stets einen Kausalzusammenhang zw
+- [BGH, Beschluss vom 03.06.2020 - EnVR 26/18](envr-26-18.md) — Energiewirtschaftsrechtliche Verwaltungssache: Verletzung des Anspruchs auf rechtliches Gehör
+- [BGH, Beschluss vom 03.06.2020 - EnVR 50/18](envr-50-18.md) — Bei Gasversorgungsnetzen in Berlin, Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen-Anhalt und Thüringen sind zeitnahe übliche Anschaffungs- und Herstellu
+- [BGH, Beschluss vom 03.06.2020 - KVZ 44/19](kvz-44-19.md) — Kartellverwaltungssache: Wettbewerbsverdrängende Wirkung von vertraglichen Ausschließlichkeitsbindungen eines marktbeherrschenden Unternehmens im Bereich des Ti
+- [BGH, Urteil vom 19.05.2020 - KZR 70/17](kzr-70-17.md) — Schienenkartell III Die an einer Grundabsprache beteiligten Unternehmen haften gesamtschuldnerisch nicht nur für etwaige Schäden, die durch die Umsetzung dieser
+- [BGH, Urteil vom 19.05.2020 - KZR 8/18](kzr-8-18.md) — Schienenkartell IV 1. Preisschirmeffekte und dadurch verursachte Preishöhenschäden sind als mögliche Auswirkungen einer Kartellabsprache geeignet, bei Abnehmern
+- [BGH, Beschluss vom 05.05.2020 - EnVR 26/19](envr-26-19.md) — Kapitalkostenaufschlag II Die Begrenzung der Bemessungsgrundlage der kalkulatorischen Gewerbesteuer für den Kapitalkostenaufschlag auf eine fiktive Eigenkapital
+- [BGH, Beschluss vom 05.05.2020 - EnVR 59/19](envr-59-19.md) — Kapitalkostenaufschlag I 1. Für Kapitalkosten, die zwischen dem Basisjahr der dritten Regulierungsperiode und deren Beginn entstanden sind, kann kein Kapitalkos
+- [BGH, Urteil vom 05.05.2020 - KZR 36/17](kzr-36-17.md) — FRAND-Einwand 1. Die klageweise Geltendmachung der Ansprüche auf Unterlassung, Rückruf und Vernichtung durch den Patentinhaber kann sich auch dann als missbräuc
+- [BGH, Urteil vom 07.04.2020 - EnZR 75/18](enzr-75-18.md) — Strom- und Gasnetz Stuttgart Ein Anspruch des neuen Energieversorgungsunternehmens zur Übereignung von Leitungsanlagen der Hochspannungs- und Hochdruckebene im 
+- [BGH, Beschluss vom 07.04.2020 - KVR 13/19](kvr-13-19.md) — Verfahren vor den Kartellbehörden: Zulässigkeit der isolierten Feststellung des rechtswidrigen Zustands bei andauerndem Kartellrechtsverstoß; Begriff der beteil
+- [BGH, Beschluss vom 24.03.2020 - KVZ 3/19](kvz-3-19.md) — Nichtzulassungsbeschwerde im Kartellverwaltungsverfahren: Erheblichkeit der Verstärkung einer marktbeherrschenden Stellung zum Zwecke der Rechtfertigung der Unt
+- [BGH, Beschluss vom 03.03.2020 - EnVR 114/18](envr-114-18.md) — Jahreshöchstlast Bei der Ermittlung des Erweiterungsfaktors zur Anpassung der Erlösobergrenze ist beim Strukturparameter der Jahreshöchstlast wie bei den übrige
+- [BGH, Beschluss vom 03.03.2020 - EnVR 56/18](envr-56-18.md) — Energiewirtschaftsrechtliches Verwaltungsverfahren: Festlegung des Eigenkapitalzinssatzes zur Bestimmung der Erlösobergrenze für die Betreiber von Elektrizitäts
+- [BGH, Urteil vom 18.02.2020 - KZR 17/17](kzr-17-17.md) — Kooperationsverträge zwischen dem Inhaber von Teilnehmerdaten und verschiedenen Partnerverlagen mit dem Zweck der Herausgabe regionaler Telefonbücher: Kartellre
+- [BGH, Urteil vom 18.02.2020 - KZR 6/17](kzr-6-17.md) — Einspeiseentgelt II Beruht die Kündigung eines Vertrags auf einem abgestimmten Verhalten im Sinne des § 1 GWB, ist die Kündigung auch dann gemäß § 134 BGB nicht
+- [BGH, Urteil vom 18.02.2020 - KZR 7/17](kzr-7-17.md) — Einspeiseentgelt III Beruht die durch mehrere, untereinander im Wettbewerb stehende Unternehmen gemeinsam erklärte Kündigung eines Vertrages auf einer wettbewer
+- [BGH, Beschluss vom 11.02.2020 - EnVR 101/18](envr-101-18.md) — Bürgerenergiegesellschaft 1. Der Bieter, der die formellen und materiellen Voraussetzungen für einen Zuschlag bei der wettbewerblichen Ermittlung der Marktprämi
+- [BGH, Beschluss vom 11.02.2020 - EnVR 122/18](envr-122-18.md) — Anpassung der Erlösobergrenze Hat die Regulierungsbehörde die Erlösobergrenze im Hinblick auf eine geänderte Bestimmung des Qualitätselements von Amts wegen anz
+- [BGH, Beschluss vom 11.02.2020 - EnVR 33/19](envr-33-19.md) — Energieversorgung Halle Netz GmbH Verpflichtet das Gericht die Regulierungsbehörde, einen Betroffenen unter Beachtung der Rechtsauffassung des Gerichts neu zu b
+- [BGH, Urteil vom 28.01.2020 - EnZR 116/18](enzr-116-18.md) — Stromnetz Steinbach 1. Wendet der am Stromnetz der Gemeinde bisher Nutzungsberechtigte gegen den Übereignungsanspruch des neuen Energieversorgungsunternehmens n
+- [BGH, Urteil vom 28.01.2020 - EnZR 99/18](enzr-99-18.md) — Gasnetz Leipzig 1. Verfolgt der Kläger mit der Hauptklage mehrere selbständige Ansprüche aus dem streitigen Rechtsverhältnis, die in ihrer Gesamtheit die Ansprü
+- [BGH, Urteil vom 28.01.2020 - KZR 24/17](kzr-24-17.md) — Schienenkartell II 1. Dem Merkmal der Betroffenheit im Sinne des § 33 Abs. 1 Satz 1 GWB aF, welches mit dem Beweismaß des § 286 ZPO festzustellen ist, kommt bei

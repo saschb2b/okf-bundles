@@ -1,0 +1,50 @@
+# 6. Strafsenat – 2020
+
+46 Entscheidung(en).
+
+- [BGH, Beschluss vom 16.12.2020 - 6 StR 224/20](6-str-224-20.md) — Beihilfe zur Untreue: Konkurrenzverhältnis bei Zurverfügungstellung eigener Konten für mehrere Einzelüberweisungen
+- [BGH, Beschluss vom 16.12.2020 - 6 StR 251/20](6-str-251-20.md) — Betrug und Untreue durch einen Rechtsanwalt als Insolvenzverwalter: Beginn der Verjährungsfrist; Bestimmung des Vermögensschadens bei unberechtigter Entnahme au
+- [BGH, Beschluss vom 16.12.2020 - 6 StR 373/20](6-str-373-20.md) — Strafverfahren mit Bezug zum NATO-Truppenstatut: Zuständigkeit deutscher Gerichte für im Inland begangene Straftaten des Ehepartners eines nach Deutschland ents
+- [BGH, Beschluss vom 16.12.2020 - 6 StR 386/20](6-str-386-20.md) — Strafrechtliche Vermögensabschöpfung: Wertbestimmung bei Einziehung
+- [BGH, Beschluss vom 15.12.2020 - 6 StR 438/20](6-str-438-20.md) — Beweiswürdigung im Strafverfahren wegen Wohnungseinbruchdiebstahl: Anforderungen an die Darstellung der Ergebnisse einer molekulargenetischen Vergleichsuntersuc
+- [BGH, Beschluss vom 01.12.2020 - 6 ARs 15/20](6-ars-15-20.md) — BGH, Beschluss 6 ARs 15/20
+- [BGH, Beschluss vom 04.11.2020 - 6 StR 292/20](6-str-292-20.md) — Strafsache: Beiordnung eines Nebenklagevertreters nach rechtskräftigem Abschluss des Verfahrens
+- [BGH, Beschluss vom 04.11.2020 - 6 StR 321/20](6-str-321-20.md) — Jugendstrafverfahren wegen räuberischer Erpressung und schweren Raubs: Grundsätze der Strafzumessung und tatrichterlicher Erörterung bei möglicher Strafmilderun
+- [BGH, Beschluss vom 03.11.2020 - 6 StR 258/20](6-str-258-20.md) — Erweiterte Einziehung: Taugliche Zugriffsobjekte
+- [BGH, Beschluss vom 03.11.2020 - 6 StR 328/20](6-str-328-20.md) — Strafurteil wegen Mordes: Geltung des Doppelverwertungsverbotes bei der Entscheidung über die besondere Schwere der Schuld
+- [BGH, Beschluss vom 03.11.2020 - 6 StR 348/20](6-str-348-20.md) — Betäubungsmitteldelikt: Aufklärungshilfe durch Benennung von Lieferanten und Abnehmern veräußerter Betäubungsmittel
+- [BGH, Beschluss vom 21.10.2020 - 6 StR 227/20](6-str-227-20.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln: Kenntnis und Billigung des Wohnungsinhabers von Lagerung und Vertrieb von Betäubungsmitteln
+- [BGH, Beschluss vom 21.10.2020 - 6 StR 331/20](6-str-331-20.md) — Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darstellung in den Urteilsgründen
+- [BGH, Urteil vom 21.10.2020 - 6 StR 60/20](6-str-60-20.md) — Beweiswürdigung im Strafverfahren wegen bewaffnetem Handeltreiben mit Betäubungsmitteln: Gesamtwürdigung unter Berücksichtigung einer Einlassung des Angeklagten
+- [BGH, Beschluss vom 06.10.2020 - 6 StR 244/20](6-str-244-20.md) — Vorliegen einer natürliche Handlungseinheit
+- [BGH, Beschluss vom 23.09.2020 - 6 StR 206/20](6-str-206-20.md) — Selbstleseverfahren in Strafsachen: Inbegriffsrüge wegen fehlender Abschlusseintragung im Hauptverhandlungsprotokoll
+- [BGH, Beschluss vom 23.09.2020 - 6 StR 280/20](6-str-280-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Beweiswürdigung hinsichtlich des Vorliegens einer seelischen Störung
+- [BGH, Beschluss vom 22.09.2020 - 6 StR 134/20](6-str-134-20.md) — Mord durch Unterlassen: Vorliegen einer "anderen" Straftat als Voraussetzung eines Verdeckungsmordes
+- [BGH, Urteil vom 26.08.2020 - 6 StR 100/20](6-str-100-20.md) — Strafverurteilung wegen Vergewaltigung: Anforderungen an die Beweiswürdigung bei schwieriger Beweislage; Strafzumessung bei Beziehungstaten und bei drohendem Wi
+- [BGH, Urteil vom 26.08.2020 - 6 StR 115/20](6-str-115-20.md) — Einstellung eines Strafverfahrens durch Urteil wegen eines Verfahrenshindernisses: Anforderungen an die Urteilsdarlegungen bei Einstellung wegen Strafklageverbr
+- [BGH, Beschluss vom 29.07.2020 - 6 StR 183/20](6-str-183-20.md) — Strafverfahren: Darstellung der DNA-Analyse der Hauptkomponente einer Mischspur im Urteil
+- [BGH, Beschluss vom 29.07.2020 - 6 StR 211/20](6-str-211-20.md) — Strafverfahren wegen Einbruchdiebstählen: Notwendige Urteilsfeststellungen bei Verwertung einer DNA-Mischspur und eines Werkzeugspurengutachtens
+- [BGH, Beschluss vom 28.07.2020 - 6 StR 114/20](6-str-114-20.md) — Unterbrechung der Hauptverhandlung im Strafverfahren: Berechnung der Unterbrechungsfrist
+- [BGH, Urteil vom 15.07.2020 - 6 StR 43/20](6-str-43-20.md) — Strafverfahren wegen versuchten Mordes: Versuchsbeginn bei Zurennen auf das potenzielle Tatopfer mit einer Machete; strafbefreiender Rücktritt bei Dazwischengeh
+- [BGH, Urteil vom 15.07.2020 - 6 StR 7/20](6-str-7-20.md) — Strafverfahren wegen eines Sexualdelikts: Voraussetzungen einer sexuellen Nötigung mit Gewalt; Konkurrenzverhältnis zu einer versuchten Vergewaltigung
+- [BGH, Beschluss vom 15.07.2020 - 6 StR 76/20](6-str-76-20.md) — Vorlagebeschluss des Amtsgerichts an das Landgericht zur Übernahme einer Strafsache: Voraussetzungen für die Begründung der sachlichen Zuständigkeit des Landger
+- [BGH, Beschluss vom 02.07.2020 - 6 StR 104/20](6-str-104-20.md) — Schwerer sexueller Missbrauch von Kindern: Beweiswürdigung bei fehlender Konstanz einer Aussage
+- [BGH, Beschluss vom 01.07.2020 - 6 StR 106/20](6-str-106-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Ermittlung des Defektzustands und der Gefährlichkeit des Angeklagten
+- [BGH, Beschluss vom 01.07.2020 - 6 StR 166/20](6-str-166-20.md) — Betäubungsdelikt: Bestimmung des Grenzwerts einer nicht geringen Menge GHB
+- [BGH, Beschluss vom 01.07.2020 - 6 StR 175/20](6-str-175-20.md) — Nachverfahren der Anordnung vorbehaltener Sicherungsverwahrung: Anforderungen an die Beweiswürdigung zur Gefährlichkeitsprognose; Vollstreckungsaussetzung bei n
+- [BGH, Beschluss vom 01.07.2020 - 6 StR 96/20](6-str-96-20.md) — Einziehung von Taterträgen: Einziehung sichergestellten Geldes neben des Wertes von Taterträgen; Wirkung eines Rückgabeverzichts des Angeklagten
+- [BGH, Beschluss vom 30.06.2020 - 6 StR 111/20](6-str-111-20.md) — Einziehung von Taterträgen: Verzicht des Angeklagten auf sichergestelltes Bargeld zum Zweck der Schadenswiedergutmachung
+- [BGH, Beschluss vom 30.06.2020 - 6 StR 162/20](6-str-162-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Konkurrenzverhältnis beim Besitz zweier Handelsmengen
+- [BGH, Beschluss vom 16.06.2020 - 6 StR 108/20](6-str-108-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Erörterung der Frage der Aussetzung der Vollstreckung der Unterbringung zur Bewährung
+- [BGH, Beschluss vom 16.06.2020 - 6 StR 82/20](6-str-82-20.md) — Sexueller Übergriff gegenüber einem Jugendlichen: Anforderungen an eine "Zwangslage"
+- [BGH, Beschluss vom 19.05.2020 - 6 StR 87/20](6-str-87-20.md) — Strafverurteilung wegen Besitzes kinderpornographischer Schriften u.a.: Einziehung von Festplatte und Computer als Speichermedien
+- [BGH, Beschluss vom 18.05.2020 - 6 StR 48/20](6-str-48-20.md) — Adhäsionsverfahren bei einem Tötungsdelikt: Voraussetzung eines Anspruchs auf Hinterbliebenengeld
+- [BGH, Beschluss vom 21.04.2020 - 6 StR 22/20](6-str-22-20.md) — Diebstahl: Abgrenzung der Beihilfe von der Mittäterschaft
+- [BGH, EuGH-Vorlage vom 21.04.2020 - 6 StR 41/20](6-str-41-20.md) — Vorabentscheidungsersuchen an den EuGH zur Auslegung des Rahmenbeschlusses über den Europäischen Haftbefehl und die Übergabeverfahren zwischen den Mitgliedstaat
+- [BGH, Beschluss vom 07.04.2020 - 6 StR 28/20](6-str-28-20.md) — Anforderungen an Urteilsgründe und Urteilstenor bei Anordnung der Unterbringung in einer Entziehungsanstalt und bei Anordnung der Einziehung: Abgrenzung zwische
+- [BGH, Beschluss vom 07.04.2020 - 6 StR 34/20](6-str-34-20.md) — Begünstigung: Anforderungen an die Absicht zur Sicherung der Tatvorteile
+- [BGH, Beschluss vom 07.04.2020 - 6 StR 52/20](6-str-52-20.md) — Stellt ein Beamter, dem insoweit zumindest die Möglichkeit der Einflussnahme zu Gebote steht, die Förderung der Karriere einer Bediensteten bei Stellenbesetzung
+- [BGH, Beschluss vom 24.03.2020 - 6 StR 18/20](6-str-18-20.md) — Erpresserischer Menschenraub: Strafmilderung bei tätiger Reue; Ablassen vom Geschädigten wegen Erkenntnis fehlender Erfolgsaussicht
+- [BGH, Beschluss vom 24.03.2020 - 6 StR 36/20](6-str-36-20.md) — Bewertung der Konkurrenzverhältnisse bei einer Deliktsserie unter Beteiligung mehrerer Personen
+- [BGH, Beschluss vom 24.03.2020 - 6 StR 8/20](6-str-8-20.md) — Strafbemessung bei Betäubungsmitteldelikt: Anrechung von Abschiebungshaft in Thailand
+- [BGH, Beschluss vom 10.03.2020 - 6 StR 4/20](6-str-4-20.md) — Revision im Strafverfahren: Rüge mangelnder Gelegenheit zur Verteidigung nach erteiltem Hinweis

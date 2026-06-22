@@ -1,0 +1,83 @@
+# V. Zivilsenat – 2022
+
+79 Entscheidung(en).
+
+- [BGH, Urteil vom 16.12.2022 - V ZR 144/21](v-zr-144-21.md) — 1. Bei einem Verkauf von Bauland an einen privaten Käufer im Rahmen eines städtebaulichen Vertrages zu einem marktgerechten Preis stellt sich die Vereinbarung e
+- [BGH, Urteil vom 16.12.2022 - V ZR 174/21](v-zr-174-21.md) — 1. Soll eine Gesamtheit von Gegenständen, die nicht räumlich zusammengefasst sind, unter Verwendung eines Gattungsbegriffs übereignet werden, ist der sachenrech
+- [BGH, Urteil vom 16.12.2022 - V ZR 263/21](v-zr-263-21.md) — Nach dem seit dem 1. Dezember 2020 geltenden Wohnungseigentumsrecht trifft die Pflicht zur Durchführung von Beschlüssen der Wohnungseigentümer nicht mehr den Ve
+- [BGH, Urteil vom 16.12.2022 - V ZR 34/22](v-zr-34-22.md) — Ist ein nach § 53 Abs. 1 JustG NRW vorgeschriebenes Schlichtungsverfahren vor Klageerhebung durchgeführt worden, macht ein im Verlauf des gerichtlichen Verfahre
+- [BGH, Beschluss vom 14.12.2022 - V ZA 13/22](v-za-13-22.md) — BGH, Beschluss V ZA 13/22
+- [BGH, Beschluss vom 13.12.2022 - V ZR 8/22](v-zr-8-22.md) — BGH, Beschluss V ZR 8/22
+- [BGH, Urteil vom 09.12.2022 - V ZR 68/22](v-zr-68-22.md) — 1. Das in § 1812 BGB für bestimmte Verfügungen vorgesehene Genehmigungserfordernis besteht bei der Nachlassverwaltung nicht. 2a. Das Recht, im Falle von Leistun
+- [BGH, Urteil vom 09.12.2022 - V ZR 91/21](v-zr-91-21.md) — 1a. Bei der Abtretung einer durch Vormerkung gesicherten Forderung gilt der Inhalt des Grundbuchs analog § 892 Abs. 1 Satz 1 BGB zugunsten des Zessionars im Hin
+- [BGH, Beschluss vom 24.11.2022 - V ZB 29/22](v-zb-29-22.md) — Das Berufungsgericht muss bei einer Berufungseinlegung durch den Streithelfer auch dann prüfen, ob der Beitritt den Anforderungen des § 70 Abs. 1 Satz 2 ZPO gen
+- [BGH, Beschluss vom 24.11.2022 - V ZR 79/22](v-zr-79-22.md) — Anforderungen an die Glaubhaftmachung und Darlegung der Wertgrenze der Nichtzulassungsbeschwerde: Vorlage einer Wertindikation für ein Grundstück
+- [BGH, Beschluss vom 17.11.2022 - V ZB 38/21, V ZB 39/21](v-zb-38-21-v-zb-39-21.md) — BGH, Beschluss V ZB 38/21, V ZB 39/21
+- [BGH, Beschluss vom 17.11.2022 - V ZB 38/22](v-zb-38-22.md) — BGH, Beschluss V ZB 38/22
+- [BGH, Beschluss vom 17.11.2022 - V ZR 25/22](v-zr-25-22.md) — BGH, Beschluss V ZR 25/22
+- [BGH, Urteil vom 11.11.2022 - V ZR 106/22](v-zr-106-22.md) — BGH, Urteil V ZR 106/22
+- [BGH, Urteil vom 11.11.2022 - V ZR 145/21](v-zr-145-21.md) — 1. Wenn der aus einer Grunddienstbarkeit Berechtigte durch Bezeichnung des herrschenden Grundstücks im Grundbuch eindeutig bezeichnet ist, kommt eine abweichend
+- [BGH, Beschluss vom 11.11.2022 - V ZR 213/21](v-zr-213-21.md) — BGH, Beschluss V ZR 213/21
+- [BGH, Beschluss vom 10.11.2022 - V ZR 184/21](v-zr-184-21.md) — BGH, Beschluss V ZR 184/21
+- [BGH, Beschluss vom 10.11.2022 - V ZR 245/21](v-zr-245-21.md) — Zulässigkeit der Nichtzulassungsbeschwerde: Beschwer des zum Unterlassen des Parkens eines Fahrzeugs auf seinem dienenden Grundstück verurteilten Grundstückseig
+- [BGH, Beschluss vom 21.10.2022 - V ZA 14/22](v-za-14-22.md) — BGH, Beschluss V ZA 14/22
+- [BGH, Beschluss vom 20.10.2022 - V ZB 26/22](v-zb-26-22.md) — Antrag auf Wiedereinsetzung in die versäumte Berufungsbegründungsfrist
+- [BGH, Beschluss vom 13.10.2022 - V ZA 10/22](v-za-10-22.md) — BGH, Beschluss V ZA 10/22
+- [BGH, Urteil vom 23.09.2022 - V ZR 133/21](v-zr-133-21.md) — Grundstückskaufvertrag: Schadensersatz bei arglistigem Verschweigen einer negativen Bodenbegutachtung; Grundsätze der sekundären Darlegungslast
+- [BGH, Urteil vom 23.09.2022 - V ZR 148/21](v-zr-148-21.md) — Beruft sich der Erwerber eines gebrauchten Fahrzeugs auf den gutgläubigen Erwerb, trägt derjenige, der den guten Glauben in Abrede stellt, die Beweislast dafür,
+- [BGH, Beschluss vom 22.09.2022 - V ZB 2/20](v-zb-2-20.md) — Vertritt der Rechtsanwalt den Gläubiger in einem Zwangsversteigerungsverfahren über mehrere Bruchteile eines Grundstücks wegen einer Forderung, für die die Mite
+- [BGH, Beschluss vom 22.09.2022 - V ZB 8/22](v-zb-8-22.md) — 1. In dem Verfahren über die Zwangsversteigerung eines Miteigentumsanteils an einem Grundstück sind die Eigentümer der übrigen Miteigentumsanteile nicht schon w
+- [BGH, Beschluss vom 22.09.2022 - V ZR 218/21](v-zr-218-21.md) — BGH, Beschluss V ZR 218/21
+- [BGH, Urteil vom 16.09.2022 - V ZR 151/21](v-zr-151-21.md) — Ohne die Angabe eines Berechtigten ist die Eintragung eines Rechts in das Grundbuch inhaltlich unzulässig. Deshalb kann ein Antrag auf Grundbuchberichtigung nic
+- [BGH, Urteil vom 16.09.2022 - V ZR 180/21](v-zr-180-21.md) — 1. Hat die Gemeinschaft der Wohnungseigentümer keinen Verwalter, so wird sie bei einer gegen einzelne Wohnungseigentümer gerichteten Klage durch die übrigen Woh
+- [BGH, Urteil vom 16.09.2022 - V ZR 214/21](v-zr-214-21.md) — Ist bei einer Wohnungseigentumsanlage mit verschiedenen Ausstattungen zur Verbrauchserfassung der anteilige Verbrauch einer oder mehrerer Nutzergruppe(n) entgeg
+- [BGH, Urteil vom 16.09.2022 - V ZR 69/21](v-zr-69-21.md) — 1. Kommt es für die Frage, ob eine Verwaltungsmaßnahme ordnungsmäßiger Verwaltung entspricht, auf eine umstrittene und höchstrichterlich ungeklärte Rechtsfrage 
+- [BGH, Beschluss vom 15.09.2022 - V ZB 71/21](v-zb-71-21.md) — Ein Beschluss, mit dem die Durch- oder Fortführung eines selbstständigen Beweisverfahrens angeordnet wird, ist nicht anfechtbar; dies gilt auch dann, wenn die A
+- [BGH, Beschluss vom 15.09.2022 - V ZB 85/20](v-zb-85-20.md) — BGH, Beschluss V ZB 85/20
+- [BGH, Beschluss vom 06.09.2022 - V ZB 12/20](v-zb-12-20.md) — BGH, Beschluss V ZB 12/20
+- [BGH, Beschluss vom 18.08.2022 - V ZR 3/22](v-zr-3-22.md) — Zur Verwertung von Immobilienvermögen im Rahmen der Prozesskostenhilfe.
+- [BGH, Beschluss vom 18.07.2022 - V ZB 22/21](v-zb-22-21.md) — Streitgenossenschaft: Verfahrensaussetzung aufgrund des Todes eines Streitgenossen
+- [BGH, Urteil vom 15.07.2022 - V ZR 127/21](v-zr-127-21.md) — Gibt die Teilungserklärung einer Anlage, zu der sowohl Wohnungs- als auch Teileigentumseinheiten gehören, innerhalb eines Gebäudes eine räumliche Trennung von W
+- [BGH, Versäumnisurteil vom 08.07.2022 - V ZR 202/21](v-zr-202-21.md) — 1. Wird eine Beschlussersetzungsklage entgegen § 44 Abs. 2 Satz 1 WEG nicht gegen die Gemeinschaft der Wohnungseigentümer, sondern gegen die übrigen Wohnungseig
+- [BGH, Urteil vom 08.07.2022 - V ZR 207/21](v-zr-207-21.md) — Die Eigentümergemeinschaft, die unter Geltung des Wohnungseigentumsgesetzes in der bis zum 30. November 2020 geltenden Fassung Instandsetzungsmaßnahmen am gemei
+- [BGH, Beschluss vom 07.07.2022 - V ZB 75/21](v-zb-75-21.md) — Zulässigkeit der Berufung: Beschwerdewert einer Unterlassungsklage bei Eigentumsstörung
+- [BGH, Urteil vom 01.07.2022 - V ZR 23/21](v-zr-23-21.md) — 1. Der gegen den Nachbarn gerichtete Anspruch des Grundstückseigentümers aus § 16a NachbarG Bln auf Duldung einer grenzüberschreitenden Wärmedämmung hat einzig 
+- [BGH, Beschluss vom 23.06.2022 - V ZB 32/21](v-zb-32-21.md) — Vereinigen sich die Miteigentumsanteile an einem Grundstück in der Hand eines Eigentümers und wird ein Anspruch des Übertragenden auf Rückübereignung eines Mite
+- [BGH, Urteil vom 02.06.2022 - V ZR 132/21](v-zr-132-21.md) — 1. Die Pfändung und Einziehung des Anspruchs auf Rückgewähr einer Grundschuld umfasst grundsätzlich das Recht des Vollstreckungsgläubigers, im Wege der Vollstre
+- [BGH, Beschluss vom 23.05.2022 - V ZB 9/21](v-zb-9-21.md) — In dem Verfahren nach § 127 GNotKG kann der Kostenschuldner dem Kostenanspruch des Notars keinen Schadensersatzanspruch wegen einer Amtspflichtverletzung (§ 19 
+- [BGH, Versäumnisurteil vom 20.05.2022 - V ZR 199/21](v-zr-199-21.md) — 1. Die in § 919 Abs. 1 BGB geregelte Mitwirkungspflicht des Nachbarn bei der Abmarkung setzt voraus, dass der Grenzverlauf festgestellt ist. 2. Aus dem nachbarl
+- [BGH, Beschluss vom 19.05.2022 - V ZB 53/21](v-zb-53-21.md) — Berufungssumme: Beschwerdewert nach Verurteilung eines Grundstücksnachbarn zur Beseitigung eines Sichtzauns
+- [BGH, Beschluss vom 19.05.2022 - V ZB 66/21](v-zb-66-21.md) — Gehörsverletzung im Berufungsverfahren: Erfordernis des rechtzeitigen Zugangs eines übergangenen Schriftsatzes beim Berufungsgericht
+- [BGH, Urteil vom 13.05.2022 - V ZR 231/20](v-zr-231-20.md) — 1. Eine Beteiligung des Käufers an den Kosten der Nachbesserung einer (gebrauchten) mangelhaften Kaufsache nach den Grundsätzen eines Abzugs „neu für alt“ schei
+- [BGH, Urteil vom 13.05.2022 - V ZR 4/21](v-zr-4-21.md) — 1. Fehlt einem bebauten Grundstück die zur ordnungsmäßigen Benutzung notwendige Verbindung mit einem öffentlichen Weg deshalb, weil die in der bestandskräftigen
+- [BGH, Urteil vom 13.05.2022 - V ZR 7/21](v-zr-7-21.md) — Die Darlegungs- und Beweislast für die einen Anspruch aus § 1004 Abs. 1 BGB ausschließende Einwilligung des Eigentümers in die Einwirkung auf sein Eigentum träg
+- [BGH, Beschluss vom 12.05.2022 - V ZB 58/21](v-zb-58-21.md) — Verlängerung der Berufungsbegründungsfrist: Auslegung des Fristverlängerungsantrags; Umfang der „antragsgemäßen“ Verlängerung durch das Berufungsgericht
+- [BGH, Urteil vom 06.05.2022 - V ZR 282/20](v-zr-282-20.md) — Wird der Käufer bei Abschluss eines Grundstückskaufvertrages durch einen vollmachtlosen Vertreter vertreten, kommt es für seine Kenntnis vom Mangel i.S.v. § 442
+- [BGH, Urteil vom 06.05.2022 - V ZR 50/21](v-zr-50-21.md) — Ein Notwegrecht kann sich weder aus dem nachbarlichen Gemeinschaftsverhältnis noch aus dem Schikaneverbot des § 226 BGB, sondern nur unter den Voraussetzungen v
+- [BGH, Beschluss vom 28.04.2022 - V ZB 4/21](v-zb-4-21.md) — 1. Der Erwerb eines Miteigentumsanteils an einem vermieteten Grundstück durch einen Minderjährigen führt gemäß § 566 BGB zu dessen Eintritt in den Mietvertrag a
+- [BGH, Beschluss vom 28.04.2022 - V ZR 78/21](v-zr-78-21.md) — Gegenstandswert der Nichtzulassungsbeschwerde: Streit unter Grundstücksnachbarn um die Duldung einer Grundstücksnutzung zum Zwecke des Begehens und Befahrens un
+- [BGH, Beschluss vom 07.04.2022 - V ZR 165/21](v-zr-165-21.md) — Wohnungseigentum: Anfechtung eines Eigentümerbeschlusses über eine Dachsanierung
+- [BGH, Urteil vom 25.03.2022 - V ZR 67/21](v-zr-67-21.md) — Feststellungsinteresse für eine Feststellungsklage: Bezifferbarwerden des Schadens nach zulässiger Klageerhebung
+- [BGH, Urteil vom 25.03.2022 - V ZR 92/21](v-zr-92-21.md) — Ein Wohnungseigentümer, der Verbindlichkeiten der Gemeinschaft der Wohnungseigentümer getilgt hat, kann von den anderen Eigentümern auch dann keine unmittelbare
+- [BGH, Beschluss vom 24.03.2022 - V ZB 60/21](v-zb-60-21.md) — Ob eine Leistung nur einmal oder mehrfach und damit „wiederkehrend“ i.S.d. § 1105 Abs. 1 BGB erbracht werden soll, bestimmt sich alleine danach, ob die Leistung
+- [BGH, Beschluss vom 24.03.2022 - V ZR 149/21](v-zr-149-21.md) — Der Streitwert für wohnungseigentumsrechtliche Beschlussklagen entspricht in der Regel nicht der für die Zulässigkeit eines Rechtsmittels maßgeblichen Beschwer;
+- [BGH, Urteil vom 18.03.2022 - V ZR 269/20](v-zr-269-20.md) — Wesentlicher Bestandteil eines Gebäudes: Gebäudeeigenschaft einer Freiland-Photovoltaikanlage
+- [BGH, Urteil vom 11.03.2022 - V ZR 35/21](v-zr-35-21.md) — Wird der kaufvertragliche Anspruch auf Schadensersatz statt der Leistung (kleiner Schadensersatz) gemäß § 437 Nr. 3, §§ 280, 281 BGB anhand der voraussichtlich 
+- [BGH, Urteil vom 11.03.2022 - V ZR 77/21](v-zr-77-21.md) — 1. Für ein Beschlussmängelverfahren, in dem die Wirksamkeit der einseitigen Bestellung des Verwalters durch den teilenden Eigentümer im Streit steht, ist der Ve
+- [BGH, Urteil vom 25.02.2022 - V ZR 143/21](v-zr-143-21.md) — Verneinung der Zuständigkeit durch das erstinstanzliche Gericht in Zivilsachen: Überprüfung durch das Berufungsgericht und das Revisionsgericht
+- [BGH, Urteil vom 25.02.2022 - V ZR 65/21](v-zr-65-21.md) — 1. Für bis zum 30. November 2020 anhängig gewordene Beschlussersetzungsklagen gilt in analoger Anwendung des § 48 Abs. 5 WEG weiter das bisherige Verfahrensrech
+- [BGH, Beschluss vom 24.02.2022 - V ZB 59/21](v-zb-59-21.md) — Wohnungseigentumssache: Berufungseinlegung beim unzuständigen Gericht aufgrund einer unrichtigen Rechtsmittelbelehrung; Wiedereinsetzung in den vorigen Stand be
+- [BGH, Beschluss vom 17.02.2022 - V ZB 14/21](v-zb-14-21.md) — 1. Einem Nachweis der Erbfolge des überlebenden Ehegatten gemäß § 35 Abs. 1 Satz 2 GBO steht nicht entgegen, dass die letztwillige Verfügung eine dem § 2077 Abs
+- [BGH, Urteil vom 11.02.2022 - V ZR 15/21](v-zr-15-21.md) — Wird einer Partei entgegen § 317 Abs. 1 Satz 1, § 169 Abs. 2 Satz 1 ZPO statt einer beglaubigten Abschrift lediglich eine einfache Abschrift des Urteils zugeste
+- [BGH, Beschluss vom 10.02.2022 - V ZB 5/21](v-zb-5-21.md) — Grundbuchsache: Tod eines Mitgesellschafters und Rechtsnachfolge in die Gesellschafterstellung bei einer im Grundbuch als Eigentümerin eingetragenen GbR
+- [BGH, Beschluss vom 10.02.2022 - V ZB 87/20](v-zb-87-20.md) — 1. Nach dem Tod des Gesellschafters einer im Grundbuch als Eigentümerin eines Grundstücks eingetragenen GbR stellt die Buchposition des Gesellschafters keine ge
+- [BGH, Urteil vom 28.01.2022 - V ZR 106/21](v-zr-106-21.md) — 1. Beeinträchtigen oder erschweren andere Wohnungseigentümer oder Dritte den Zugang zum Sondereigentum durch Hindernisse im Bereich des gemeinschaftlichen Eigen
+- [BGH, Beschluss vom 28.01.2022 - V ZR 86/21](v-zr-86-21.md) — Wohnungseigentumssache: Streitwertfestsetzung nach altem und neuem Recht; Rechtsmitteleinlegung nach Gesetzesänderung
+- [BGH, Urteil vom 28.01.2022 - V ZR 99/21](v-zr-99-21.md) — 1a. Ein quasinegatorischer Beseitigungs- oder Unterlassungsanspruch, der auf die Verletzung einer nachbarschützenden Norm des öffentlichen Rechts als Schutzgese
+- [BGH, Beschluss vom 27.01.2022 - V ZR 64/21](v-zr-64-21.md) — Nichtzulassungsbeschwerde im Wohnungseigentumsverfahren: Streitwertbemessung in einem Übergangsfall
+- [BGH, Beschluss vom 25.01.2022 - V ZR 72/21](v-zr-72-21.md) — Wirksamkeit einer durch den Prozessgegner erklärten Aufnahmeerklärung bei insolvenzbedingt unterbrochenem Prozessverfahren
+- [BGH, Versäumnisurteil vom 21.01.2022 - V ZR 233/20](v-zr-233-20.md) — 1. Der Nießbrauch und das mit seiner Bestellung zwischen dem Eigentümer und dem Nießbraucher entstehende besondere gesetzliche Schuldverhältnis sind einer Kündi
+- [BGH, Urteil vom 21.01.2022 - V ZR 76/20](v-zr-76-20.md) — 1. Die mit einer bestandskräftigen Baugenehmigung verbundene umfassende Feststellung der Vereinbarkeit des Bauvorhabens mit dem einschlägigen öffentlichen Recht
+- [BGH, Urteil vom 14.01.2022 - V ZR 245/20](v-zr-245-20.md) — 1. Der aus § 888 Abs. 1 BGB folgende Zustimmungsanspruch des Vormerkungsberechtigten ist in entsprechender Anwendung von § 902 Abs. 1 Satz 1 BGB unverjährbar. 2
+- [BGH, Urteil vom 14.01.2022 - V ZR 255/20](v-zr-255-20.md) — 1. Der die Abtretung eines Grundschuldrückgewähranspruchs betreffende formularmäßige Zustimmungsvorbehalt der Bank ist auch dann wirksam, wenn die Grundschuldsi
+- [BGH, Beschluss vom 13.01.2022 - V ZR 100/21](v-zr-100-21.md) — Prozessaufrechnung: Entscheidung über die Prozessaufrechnung bei Nichterledigung sämtlicher Einwendungen gegen die Klageforderung

@@ -1,0 +1,33 @@
+# Kartellsenat – 2019
+
+29 Entscheidung(en).
+
+- [BGH, Urteil vom 10.12.2019 - KZR 57/19](kzr-57-19.md) — Wettbewerbsbeschränkung durch Werbeblocker im Internet: Sachlich und örtlich relevanter Markt; Interessenabwägung bei der Beurteilung der unbilligen Behinderung
+- [BGH, Urteil vom 03.12.2019 - KZR 27/17](kzr-27-17.md) — Kartellschadensersatz für Abnehmer im sog. Schienenkartell: Grundsätze zum Schadensersatz bei einem Quoten- und Kundenschutzkartell
+- [BGH, Urteil vom 03.12.2019 - KZR 29/17](kzr-29-17.md) — NetCologne II Die Prüfung, ob ein marktbeherrschendes Unternehmen Entgelte oder sonstige Geschäftsbedingungen fordert, die von denjenigen abweichen, die sich be
+- [BGH, Beschluss vom 12.11.2019 - EnVR 108/18](envr-108-18.md) — Schriftformverzicht 1. Eine nach § 22 Abs. 2 Satz 2 Nr. 2 Buchst. c EEG der Schriftform bedürftige Erklärung über den Verzicht auf den gesetzlich bestimmten Zah
+- [BGH, Beschluss vom 12.11.2019 - EnVR 109/18](envr-109-18.md) — Dortmunder Netz GmbH 1. Aus dem in § 6 Abs. 5 und 6 StromNEV normierten Kontinuitätsgebot ergibt sich, dass ein Netzbetreiber bei der Abschreibung von Anlagegüt
+- [BGH, Beschluss vom 12.11.2019 - EnVR 65/18](envr-65-18.md) — Gewoba 1. Erstreckt sich eine Energieanlage über mehrere Grundstücke, befindet sie sich auf einem räumlich zusammengehörigen Gebiet, wenn diese Grundstücke so g
+- [BGH, Beschluss vom 12.11.2019 - EnVR 66/18](envr-66-18.md) — Netze BW Richtet sich die Beschwerde gegen eine Entscheidung der nach Bundesrecht zuständigen Bundesnetzagentur, ist eine Landesregulierungsbehörde nicht nach §
+- [BGH, Urteil vom 29.10.2019 - KZR 39/19](kzr-39-19.md) — Trassenentgelte 1. Verstößt ein Eisenbahninfrastrukturunternehmen gegen Art. 102 AEUV, sind Ansprüche auf Schadensersatz oder Herausgabe einer ungerechtfertigte
+- [BGH, Urteil vom 29.10.2019 - KZR 60/18](kzr-60-18.md) — Berufungszuständigkeit II 1. Die Berufungszuständigkeit nach § 91 Satz 2 GWB beurteilt sich allein danach, ob eine bürgerliche Rechtsstreitigkeit nach § 87 GWB 
+- [BGH, Beschluss vom 08.10.2019 - EnVR 12/18](envr-12-18.md) — Veröffentlichung von Daten II 1. Bei der Prüfung, ob und inwieweit die nach § 31 Abs. 1 ARegV zu veröffentlichenden Daten Betriebs- und Geschäftsgeheimnisse dar
+- [BGH, Beschluss vom 08.10.2019 - EnVR 58/18](envr-58-18.md) — Normativer Regulierungsrahmen Von einer Anwendung der Regelungen in § 6a, § 7 Abs. 1 Satz 3 und 5 und Abs. 7 StromNEV sowie § 24 Abs. 2 Satz 2 ARegV dürfte auch
+- [BGH, Beschluss vom 08.10.2019 - KVZ 14/19](kvz-14-19.md) — Veröffentlichung von tatbeteiligten Dritten im wettbewerbsrechtlichen Bußgeldbescheid
+- [BGH, Urteil vom 08.10.2019 - KZR 73/17](kzr-73-17.md) — Werbeblocker III 1. Die Wettbewerbskräfte, denen sich ein auf einem zweiseitigen Markt tätiges Unternehmen zu stellen hat, das eine Dienstleistung gegenüber ein
+- [BGH, Beschluss vom 14.08.2019 - EnVR 112/18](envr-112-18.md) — (Festsetzung des Gegenstandswerts bei insolvenzbedingter Unterbrechung des Rechtsbeschwerdeverfahrens)
+- [BGH, Beschluss vom 09.07.2019 - EnVR 41/18](envr-41-18.md) — Festlegung der Eigenkapitalzinssätze für einzelne Regulierungsperioden durch Regulierungsbehörde
+- [BGH, Beschluss vom 09.07.2019 - EnVR 5/18](envr-5-18.md) — Lichtblick Die Festlegung der Eigenkapitalzinssätze für die dritte Regulierungsperiode der Anreizregulierung durch die Regulierungsbehörde betrifft ein zum Verw
+- [BGH, Beschluss vom 09.07.2019 - EnVR 52/18](envr-52-18.md) — Eigenkapitalzinssatz II 1. Die Regulierungsbehörde ist auch dann nicht ohne weiteres verpflichtet, den von ihr anhand einer bestimmten Methode ermittelten Zinss
+- [BGH, Beschluss vom 09.07.2019 - EnVR 6/18](envr-6-18.md) — Umspannwerk § 23 Abs. 7 ARegV ist auf Investitionen in die Ebenen der Höchstspannung und der Umspannung von Höchst- zu Hochspannung nicht entsprechend anwendbar
+- [BGH, Urteil vom 09.07.2019 - EnVR 76/18](envr-76-18.md) — Effizienzvergleich 1. In den Effizienzvergleich sind grundsätzlich alle Betreiber von Verteilernetzen einzubeziehen. 2. Für die Frage, ob ein in Hochspannung be
+- [BGH, Beschluss vom 09.07.2019 - KZR 110/18](kzr-110-18.md) — Kartellzivilverfahren wegen Ausnutzung einer marktbeherrschenden Stellung durch einen Fernwärmeversorger: Gehörsverletzung bei gerichtlicher Zugrundelegung eine
+- [BGH, Beschluss vom 09.04.2019 - EnVR 57/18](envr-57-18.md) — KONNI Gas 2.0 1. Die Befugnis der Regulierungsbehörde, festgelegte Bedingungen und Methoden gemäß § 29 Abs. 2 Satz 1 EnWG nachträglich zu ändern, erstreckt sich
+- [BGH, Beschluss vom 26.02.2019 - EnVR 24/18](envr-24-18.md) — Registrierungserfordernis Das Erfordernis, die Genehmigung nach dem Bundes-Immissionsschutzgesetz vor dem 1. Februar 2017 mit allen erforderlichen Angaben an da
+- [BGH, Beschluss vom 26.02.2019 - KZR 22/18](kzr-22-18.md) — Gemeindliche Vergabe einer privatrechtlichen Wasserkonzession: Geltung des kartellrechtlichen Diskriminierungs- und Behinderungsverbots im wettbewerblichen Ausw
+- [BGH, Beschluss vom 29.01.2019 - EnVR 47/17](envr-47-17.md) — Umstrukturierungsmaßnahme 1. Die Genehmigung einer Investition nach § 23 Abs. 6 Satz 1 und Abs. 1 Satz 2 Nr. 7 ARegV setzt voraus, dass es sich um eine Umstrukt
+- [BGH, Beschluss vom 29.01.2019 - EnVR 62/17](envr-62-17.md) — Festsetzung der Erlösobergrenzen für die zweite Regulierungsperiode eines Gasverteilernetzbetreibers: Berücksichtigung von Verbindlichkeiten aus einem Ergebnisa
+- [BGH, Beschluss vom 29.01.2019 - EnVR 63/17](envr-63-17.md) — Gewinnabführungsvertrag 1a. Die Berücksichtigung von Abzugskapital hängt nicht davon ab, dass ein innerer Zusammenhang zum betriebsnotwendigen Eigenkapital best
+- [BGH, Beschluss vom 29.01.2019 - KZR 12/15](kzr-12-15.md) — Stationspreissystem 1. Steht die Überprüfung eines Infrastrukturnutzungsentgelts (hier: für die Nutzung von Eisenbahnstationen) im Zivilprozess am Maßstab billi
+- [BGH, Urteil vom 29.01.2019 - KZR 4/17](kzr-4-17.md) — Teilnehmerdaten V § 47 TKG Abs. 4 ist auf Sachverhalte, die durch das Bereitstellen von Teilnehmerdaten im Rahmen einer gesellschaftsvertraglichen Beitragsleist
+- [BGH, Beschluss vom 29.01.2019 - KZR 47/15](kzr-47-15.md) — Klage eines Interessenverbands nach dem GWB: Streitwertbemessung; Anpassung des Streitwerts

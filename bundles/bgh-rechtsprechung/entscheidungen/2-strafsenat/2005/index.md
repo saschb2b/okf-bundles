@@ -1,0 +1,56 @@
+# 2. Strafsenat – 2005
+
+52 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2005 - 2 StR 452/05](2-str-452-05.md) — Mordes u. a.
+- [BGH, Beschluss vom 21.12.2005 - 2 StR 537/05](2-str-537-05.md) — schwerer Vergewaltigung
+- [BGH, Beschluss vom 21.12.2005 - 2 StR 549/05](2-str-549-05.md) — schweren Raubes
+- [BGH, Urteil vom 30.11.2005 - 2 StR 393/05](2-str-393-05.md) — Mordes u.a.
+- [BGH, Beschluss vom 30.11.2005 - 2 StR 493/05](2-str-493-05.md) — besonders schwerer Vergewaltigung
+- [BGH, Beschluss vom 18.11.2005 - 2 StR 476/05](2-str-476-05.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Urteil vom 16.11.2005 - 2 StR 296/05](2-str-296-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 28.10.2005 - 2 StR 426/05](2-str-426-05.md) — schweren Raubes
+- [BGH, Beschluss vom 28.09.2005 - 2 ARs 352/05](2-ars-352-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 21.09.2005 - 2 StR 311/05](2-str-311-05.md) — schweren sexuellen Missbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 07.09.2005 - 2 ARs 313/05](2-ars-313-05.md) — Vergewaltigung hier: Zuständigkeitsbestimmung für die Entscheidung über den Antrag auf gerichtliche Entscheidung gemäß § 109 StVollzG
+- [BGH, Beschluss vom 07.09.2005 - 2 StR 342/05](2-str-342-05.md) — Betruges u. a.
+- [BGH, Beschluss vom 07.09.2005 - 2 StR 385/05](2-str-385-05.md) — Betruges u.a.
+- [BGH, Beschluss vom 31.08.2005 - 2 StR 314/05](2-str-314-05.md) — BGH, Beschluss vom 31.08.2005 - 2 StR 314/05
+- [BGH, Beschluss vom 31.08.2005 - 2 StR 359/05](2-str-359-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 19.08.2005 - 2 StR 335/05](2-str-335-05.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 12.08.2005 - 2 StR 256/05](2-str-256-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 10.08.2005 - 2 StR 170/05](2-str-170-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 10.08.2005 - 2 StR 176/05](2-str-176-05.md) — Beihilfe zum schweren Raub
+- [BGH, Beschluss vom 05.08.2005 - 2 StR 254/05](2-str-254-05.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 03.08.2005 - 2 StR 360/04](2-str-360-04.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.07.2005 - 2 StR 211/04](2-str-211-04.md) — Geiselnahme u.a.
+- [BGH, Beschluss vom 27.07.2005 - 2 StR 312/05](2-str-312-05.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 13.07.2005 - 2 StR 504/04](2-str-504-04.md) — gewerbsmäßiger Bandenhehlerei u. a.
+- [BGH, Beschluss vom 29.06.2005 - 2 StR 238/05](2-str-238-05.md) — Betruges u.a.
+- [BGH, Beschluss vom 15.06.2005 - 2 StR 162/05](2-str-162-05.md) — Verstoßes gegen § 404 Abs. 1 Nr. 2 a SGB III a. F.
+- [BGH, Urteil vom 15.06.2005 - 2 StR 30/05](2-str-30-05.md) — Betrugs
+- [BGH, Beschluss vom 08.06.2005 - 2 StR 118/05](2-str-118-05.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 20.05.2005 - 2 StR 137/05](2-str-137-05.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 28.04.2005 - 2 StR 518/03](2-str-518-03.md) — schweren Bandendiebstahls u.a.
+- [BGH, Urteil vom 27.04.2005 - 2 StR 457/04](2-str-457-04.md) — gewerbsmäßigen Einschleusens von Ausländern u.a.
+- [BGH, Urteil vom 22.04.2005 - 2 StR 310/04](2-str-310-04.md) — Totschlags
+- [BGH, Beschluss vom 21.04.2005 - 2 StR 135/05](2-str-135-05.md) — schweren Raubes
+- [BGH, Beschluss vom 14.04.2005 - 2 ARs 44/05](2-ars-44-05.md) — Rechtsbeugung
+- [BGH, Beschluss vom 07.04.2005 - 2 StR 103/05](2-str-103-05.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 07.04.2005 - 2 StR 25/05](2-str-25-05.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 07.04.2005 - 2 StR 537/04](2-str-537-04.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 07.04.2005 - 2 StR 95/05](2-str-95-05.md) — besonders schwerer Vergewaltigung u.a.
+- [BGH, Beschluss vom 30.03.2005 - 2 ARs 463/04](2-ars-463-04.md) — Verdachts der Rechtsbeugung u.a.
+- [BGH, Urteil vom 16.03.2005 - 2 StR 487/04](2-str-487-04.md) — Mißhandlung von Schutzbefohlenen u.a.
+- [BGH, Beschluss vom 01.03.2005 - 2 StR 522/04](2-str-522-04.md) — schweren Raubes
+- [BGH, Beschluss vom 18.02.2005 - 2 StR 460/04](2-str-460-04.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 16.02.2005 - 2 StR 13/05](2-str-13-05.md) — absichtlicher schwerer Körperverletzung
+- [BGH, Beschluss vom 16.02.2005 - 2 StR 536/04](2-str-536-04.md) — Bestechung u.a.
+- [BGH, Beschluss vom 09.02.2005 - 2 ARs 461/04](2-ars-461-04.md) — Erschleichens von Leistungen
+- [BGH, Beschluss vom 19.01.2005 - 2 ARs 433/04](2-ars-433-04.md) — BGH, Beschluss vom 19.01.2005 - 2 ARs 433/04
+- [BGH, Urteil vom 19.01.2005 - 2 StR 402/04](2-str-402-04.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.01.2005 - 2 StR 489/04](2-str-489-04.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 14.01.2005 - 2 StR 512/04](2-str-512-04.md) — Betruges u.a.
+- [BGH, Urteil vom 12.01.2005 - 2 StR 229/04](2-str-229-04.md) — Anstiftung zum Totschlag
+- [BGH, Beschluss vom 12.01.2005 - 2 StR 418/04](2-str-418-04.md) — Mordes u.a.
+- [BGH, Beschluss vom 12.01.2005 - 2 StR 449/04](2-str-449-04.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.

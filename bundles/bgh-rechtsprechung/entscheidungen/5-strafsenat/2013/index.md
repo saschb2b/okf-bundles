@@ -1,0 +1,84 @@
+# 5. Strafsenat – 2013
+
+80 Entscheidung(en).
+
+- [BGH, Urteil vom 12.12.2013 - 5 StR 444/13](5-str-444-13.md) — Strafurteil: Strafmildernde Bedeutung eines Geständnisses
+- [BGH, Beschluss vom 12.12.2013 - 5 StR 522/13](5-str-522-13.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Erfüllung des Qualifikationstatbestands durch Mitsichführen einer Schusswaffe beim Besitz von Betäubungsmitteln
+- [BGH, Urteil vom 11.12.2013 - 5 StR 240/13](5-str-240-13.md) — Strafverfahren wegen Betäubungsmitteleinfuhr und -handel: Verletzung des Grundsatzes des fairen Verfahrens bei rechtsstaatswidrigem Lockspitzeleinsatz; Verfahre
+- [BGH, Beschluss vom 28.11.2013 - 5 StR 576/13](5-str-576-13.md) — Betäubungsmitteldelikt: Bewaffnetes Handeltreiben durch das Mitsichführen einer Teleskopstahlrute bei der Entsorgung des in einer Cannabisplantage angefallenen 
+- [BGH, Beschluss vom 25.11.2013 - 5 StR 433/13](5-str-433-13.md) — Protokollierungspflichten im Strafverfahren: Verfahrensrüge unterlassener Dokumentation von Verständigungsgesprächen mit Mitangeklagten
+- [BGH, Beschluss vom 25.11.2013 - 5 StR 502/13](5-str-502-13.md) — Hauptverhandlung in Strafsachen: Umfang der Mitteilungspflicht des Strafkammervorsitzenden bei Verständigungsgesprächen im Zwischenverfahren
+- [BGH, Beschluss vom 25.11.2013 - 5 StR 531/13](5-str-531-13.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln: Vorliegen einer einzigen Bewertungseinheit
+- [BGH, Urteil vom 07.11.2013 - 5 StR 377/13](5-str-377-13.md) — Spielsucht: Voraussetzungen für die Annahme einer erheblichen Verminderung der Steuerungsfähigkeit
+- [BGH, Beschluss vom 07.11.2013 - 5 StR 487/13](5-str-487-13.md) — Jugendstrafverfahren: Anrechnung der Heimunterbringung auf die angedrohte Jugendstrafe
+- [BGH, Urteil vom 06.11.2013 - 5 StR 302/13](5-str-302-13.md) — Handeltreiben mit Betäubungsmitteln: Abgrenzung zum Betäubungsmittelhandel in nicht geringer Menge bei auf spätere Veräußerung zielendem Anbau von Cannabispflan
+- [BGH, Beschluss vom 06.11.2013 - 5 StR 386/13](5-str-386-13.md) — Sexualdelikte: Konkurrenzverhältnis zwischen sexuellem Mißbrauch von Schutzbefohlenen und sexuellem Mißbrauch von Jugendlichen unter Ausnutzung einer Zwangslage
+- [BGH, Beschluss vom 24.10.2013 - 5 StR 333/13](5-str-333-13.md) — Urteilsabsetzungsfrist in Strafsachen: Handschriftliche Änderungen nach Fristablauf
+- [BGH, Beschluss vom 23.10.2013 - 5 StR 358/13](5-str-358-13.md) — Missbrauch eines noch im Säuglings- bzw. Kleinkindalter befindlichen Mädchens: Ausschluss einer schuldmindernden schweren anderen seelischen Abartigkeit des Tät
+- [BGH, Beschluss vom 23.10.2013 - 5 StR 401/13](5-str-401-13.md) — Strafverfahren: Ablehnung eines Beweisantrags auf Vernehmung von Auslandszeugen
+- [BGH, Beschluss vom 23.10.2013 - 5 StR 411/13](5-str-411-13.md) — Hauptverhandlung in Strafsachen: Umfang der Mitteilungspflicht des Strafkammervorsitzenden bei Verständigungsgesprächen im Zwischenverfahren
+- [BGH, Urteil vom 23.10.2013 - 5 StR 505/12](5-str-505-12.md) — 1. Zu der im Rahmen des Tatbestands des unerlaubten Betreibens von Anlagen gemäß § 327 Abs. 2 Nr. 3 StGB vorzunehmenden Abgrenzung zwischen Beseitigung und Verw
+- [BGH, Urteil vom 22.10.2013 - 5 StR 229/13](5-str-229-13.md) — Fehlgeschlagener Versuch und freiwilliger Rücktritt
+- [BGH, Urteil vom 22.10.2013 - 5 StR 297/13](5-str-297-13.md) — Sexueller Missbrauch von Kindern: Inhalt der Anklageschrift bei Serienstraftaten
+- [BGH, Urteil vom 09.10.2013 - 5 StR 214/13](5-str-214-13.md) — Körperverletzung mit Todesfolge: Annahme eines bedingten Tötungsvorsatzes bei Vornahme einvernehmlicher lebensgefährlicher Sexualpraktiken
+- [BGH, Beschluss vom 09.10.2013 - 5 StR 381/13](5-str-381-13.md) — Revision gegen Anordnung der Unterbringung in einem psychiatrischen Krankenhaus im Sicherungsverfahren: Befangenheit eines Sachverständigen; Dauer einer Unterbr
+- [BGH, Urteil vom 18.09.2013 - 5 StR 237/13](5-str-237-13.md) — Verfallsanordnung: Schätzung des Erlangten zur Verfahrensbeschleunigung; Berücksichtigung der Härteregelung, steuerlicher Belastungen und des Resozialisierungsi
+- [BGH, Urteil vom 18.09.2013 - 5 StR 375/13](5-str-375-13.md) — Strafzumessung bei schwerer räuberischer Erpressung: Minder schwerer Fall aufgrund allgemeiner Strafmilderungsgründe
+- [BGH, Beschluss vom 17.09.2013 - 5 StR 258/13](5-str-258-13.md) — Strafverfahren: Feststellung über die Nichtanordnung des Verfalls wegen entgegenstehender Verletztenansprüche; Berücksichtigung des Verschlechterungsverbots
+- [BGH, Urteil vom 04.09.2013 - 5 StR 152/13](5-str-152-13.md) — Geheimnisverrat: Kalkulationsgrundlagen und Schätzkosten des Auftraggebers als Geschäfts- und Dienstgeheimnis bei der öffentlichen Ausschreibung; Strafbarkeit d
+- [BGH, Beschluss vom 04.09.2013 - 5 StR 306/13](5-str-306-13.md) — Revision in Strafsachen: Inbegriffsrüge bei fehlgeschlagenem Selbstleseverfahren zur Einführung umfangreicher Beweisurkunden in die Hauptverhandlung
+- [BGH, Urteil vom 03.09.2013 - 5 StR 318/13](5-str-318-13.md) — Revision in Strafsachen: Verfahrensrüge wegen unterlassener Mitteilung einer sog. Sanktionsschere vor einer Verständigung
+- [BGH, Beschluss vom 03.09.2013 - 5 StR 340/13](5-str-340-13.md) — Strafverfahren wegen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Tatrichterliche Schätzung des sichergestellten Materials zur Ermittlung des W
+- [BGH, Beschluss vom 20.08.2013 - 5 ARs 34/13](5-ars-34-13.md) — BGH, Beschluss 5 ARs 34/13
+- [BGH, Urteil vom 20.08.2013 - 5 StR 248/13](5-str-248-13.md) — Strafzumessung: Strafmildernde Berücksichtigung von Untersuchungshaft
+- [BGH, Beschluss vom 20.08.2013 - 5 StR 352/13](5-str-352-13.md) — Verminderte Schuldfähigkeit bei einem besonders schweren Raub: Hohe Blutalkoholkonzentration als Indiz für verminderte Steuerungsfähigkeit
+- [BGH, Urteil vom 20.08.2013 - 5 StR 36/13](5-str-36-13.md) — Verminderte Schuldfähigkeit bei Beschaffungsdelikten: Angst vor bevorstehenden Entzugserscheinungen als Schuldminderungsgrund bei unschwerem Zugriff auf Cannabi
+- [BGH, Urteil vom 07.08.2013 - 5 StR 253/13](5-str-253-13.md) — Strafprozessuale Verständigung: Beruhen des Urteils auf einer verspäteten Belehrung über die Bindungswirkung einer Verständigung
+- [BGH, Beschluss vom 06.08.2013 - 5 StR 255/13](5-str-255-13.md) — Konkurrenzen bei Betäubungsmitteldelikten: Bewertungseinheit bei bewaffnetem unerlaubten Handeltreiben mit teilweiser Abgabe von Betäubungsmitteln an Minderjähr
+- [BGH, Beschluss vom 05.08.2013 - 5 StR 327/13](5-str-327-13.md) — Betäubungsmittelhandel: Strafmilderung bei Aufklärungshilfe in rechtlich selbstständigen Taten
+- [BGH, Urteil vom 09.07.2013 - 5 StR 181/13](5-str-181-13.md) — Gewerbsmäßige Untreue: Gewerbsmäßiges Handeln bei Weiterleitung wesentlicher Teile der veruntreuten Gelder an dritte Personen
+- [BGH, Urteil vom 09.07.2013 - 5 StR 213/13](5-str-213-13.md) — Strafzumessung bei Betäubungsmitteldelikten: Annahme des Strafmilderungsgrundes der Aufklärungshilfe
+- [BGH, Urteil vom 12.06.2013 - 5 StR 129/13](5-str-129-13.md) — Strafverurteilung wegen Mordes: Sicherungsverwahrung neben lebenslanger Freiheitsstrafe
+- [BGH, Beschluss vom 12.06.2013 - 5 StR 581/12](5-str-581-12.md) — Betrug: Vermögensschaden bei täuschungsbedingter Erzielung niedrigerer Preise für preisgebundene Medikamente
+- [BGH, Urteil vom 11.06.2013 - 5 StR 124/13](5-str-124-13.md) — Besonders schwere Brandstiftung: Erschwerung der Löscharbeiten durch Abschalten eines Rauchmelders
+- [BGH, Urteil vom 11.06.2013 - 5 StR 174/13](5-str-174-13.md) — Revision in Strafsachen: Beachtung des Verschlechterungsgebots bei widersprüchlicher Bildung einer Gesamtfreiheitsstrafe im Ersturteil
+- [BGH, Beschluss vom 10.06.2013 - 5 StR 191/13](5-str-191-13.md) — Beweiswürdigung im Strafverfahren: Vernehmungsbeamter als Zeuge vom Hörensagen
+- [BGH, Beschluss vom 30.05.2013 - 5 StR 130/13](5-str-130-13.md) — Der Anwendung des § 96 Abs. 1 Nr. 2 AufenthG (§ 92a Abs. 1 Nr. 1 AuslG 1990) steht es nicht grundsätzlich entgegen, dass derjenige, der durch sein Handeln zugle
+- [BGH, Beschluss vom 30.05.2013 - 5 StR 309/12](5-str-309-12.md) — Untreue: Feststellung des Vermögensnachteils bei schadensgleicher Vermögensgefährdung; Anstiftung eines zur Tatbegehung Entschlossenen
+- [BGH, Urteil vom 28.05.2013 - 5 StR 551/11](5-str-551-11.md) — Untreue im Zusammenhang mit Kapitalanlagegeschäften: Eventualvorsatz bei bewusster Eingehung eines Risikogeschäfts
+- [BGH, Beschluss vom 15.05.2013 - 5 StR 123/13](5-str-123-13.md) — Strafurteil u.a. wegen besonders schweren räuberischen Diebstahls: Lückenhafte Beweiswürdigung bei schwieriger Beweislage
+- [BGH, Beschluss vom 15.05.2013 - 5 StR 189/13](5-str-189-13.md) — Verstoß gegen Weisungen während der Führungsaufsicht: Verbot der Kontaktaufnahme zu Kindern und Jugendlichen und des Aufsuchens von Orten, an denen Kinder und J
+- [BGH, Beschluss vom 14.05.2013 - 5 StR 143/13](5-str-143-13.md) — Strafverfahren: Urteilsgründe widersprechen der Ablehnung eines Beweisantrages
+- [BGH, Beschluss vom 25.04.2013 - 5 StR 104/13](5-str-104-13.md) — Schuldunfähigkeit bei einem Wahnsyndrom; Rechtsmittelbeschränkung auf den Schuldspruch bei möglicher Unterbringungsanordnung; Strafzumessung bei verminderter Sc
+- [BGH, Beschluss vom 25.04.2013 - 5 StR 139/13](5-str-139-13.md) — Revision im Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Revisionsrüge der Einbeziehung von Sonderstrafrahmen in eine Verständigung
+- [BGH, Beschluss vom 24.04.2013 - 5 StR 135/13](5-str-135-13.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Abgrenzung von Mittäterschaft und Beihilfe bei Tätigkeit als sog. Läufer
+- [BGH, Beschluss vom 24.04.2013 - 5 StR 83/13](5-str-83-13.md) — Formelle Voraussetzungen für die Anordnung der Sicherungsverwahrung: Berücksichtigung einer früher verhängten Einheitsjugendstrafe
+- [BGH, Beschluss vom 23.04.2013 - 5 StR 145/13](5-str-145-13.md) — Strafurteil: Anforderungen an Beweiswürdigung nach Ablehnung eines Beweisantrages wegen tatsächlicher Bedeutungslosigkeit
+- [BGH, Urteil vom 23.04.2013 - 5 StR 610/12](5-str-610-12.md) — Strafurteil u.a. wegen versuchten Mordes: Anordnung von Sicherungsverwahrung in Anwendung der Weitergeltungsanordnung des Bundesverfassungsgerichts
+- [BGH, Urteil vom 23.04.2013 - 5 StR 617/12](5-str-617-12.md) — Anordnung der Sicherungsverwahrung: Anwendung der Weitergeltungsanordnung des BVerfG nach Inkrafttreten der neuen bundesgesetzlichen Regelung
+- [BGH, Beschluss vom 11.04.2013 - 5 StR 113/13](5-str-113-13.md) — Strafzumessung bei gefährlicher Körperverletzung: Annahme der uneingeschränkten Schuldfähigkeit bei fehlerhafter Ermittlung des Alkoholisierungsgrades; Berücksi
+- [BGH, Urteil vom 11.04.2013 - 5 StR 261/12](5-str-261-12.md) — Rechtsbeugung: Verletzung von Verfahrens- und Zuständigkeitsvorschriften durch einen Berufsrichter
+- [BGH, Beschluss vom 10.04.2013 - 5 StR 115/13](5-str-115-13.md) — Versuchte gefährlicher Körperverletzung: Freiwilligkeit des Rücktritts bei Opferwechsel
+- [BGH, Beschluss vom 10.04.2013 - 5 StR 74/13](5-str-74-13.md) — Strafverfahren wegen Totschlags: Revisionsgerichtliche Überprüfung der Annahme einer alkoholbedingten Beeinträchtigung der Schuldfähigkeit bei irrtümlicher Fals
+- [BGH, Beschluss vom 09.04.2013 - 5 StR 120/13](5-str-120-13.md) — Vertikale Teilrechtskraft im Sicherungsverfahren.
+- [BGH, Beschluss vom 09.04.2013 - 5 StR 58/13](5-str-58-13.md) — Strafverfahren: Beweiswert des Nichtbestreitens eines Tatvorwurfs; nochmalige Anordnung einer Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 09.04.2013 - 5 StR 612/12](5-str-612-12.md) — Revision im Strafverfahren wegen sexuellen Kindesmissbrauchs: Besetzungsrüge bei fehlerhafter Annahme eines Verhinderungsfalles; Rüge der ungesetzlichen Beschrä
+- [BGH, Urteil vom 20.03.2013 - 5 StR 344/12](5-str-344-12.md) — Täuscht der Empfänger einer Sachleistung bei einem Eingehungsbetrug über seine Zahlungsbereitschaft, bedarf es für die Bemessung des Schadens regelmäßig keiner 
+- [BGH, Beschluss vom 19.03.2013 - 5 StR 41/13](5-str-41-13.md) — Strafaussetzung zur Bewährung: Verbesserung der Sozialprognose durch die Erteilung von Weisungen
+- [BGH, Urteil vom 19.03.2013 - 5 StR 575/12](5-str-575-12.md) — Mittäterschaft beim Raub: Verantwortlichkeit eines Mittäters für Handlungen seines Tatgenossen
+- [BGH, Beschluss vom 19.03.2013 - 5 StR 60/13](5-str-60-13.md) — Strafaussetzung: Bewährungsstrafe zur Therapiemotivation; Anordnung der zur Bewährung ausgesetzten Unterbringung neben der Strafaussetzung
+- [BGH, Beschluss vom 19.03.2013 - 5 StR 79/13](5-str-79-13.md) — Strafverfahren: Aufklärungspflicht und Beweiswürdigung bei Vorhandensein eines weiteren bisher nicht vernommenen Tatzeugen
+- [BGH, Beschluss vom 06.03.2013 - 5 StR 423/12](5-str-423-12.md) — Verfahrensrechtliche Beanstandung mangelnder Berücksichtigung einem Mitangeklagten im Rahmen von Verständigungsgesprächen erteilter Rechtsfolgenprognosen bei de
+- [BGH, Urteil vom 06.03.2013 - 5 StR 526/12](5-str-526-12.md) — Rücktritt vom unbeendeten Versuch eines Tötungsdelikts: Korrektur des Rücktrittshorizonts
+- [BGH, Urteil vom 06.03.2013 - 5 StR 597/12](5-str-597-12.md) — Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus bei „Spielsucht“.
+- [BGH, Beschluss vom 05.03.2013 - 5 StR 39/13](5-str-39-13.md) — Beweisaufnahme im Strafverfahren: Ablehnung der Einholung eines Sachverständigengutachtens zur Aussagefähigkeit des Zeugen unter Verweis auf die eigene Sachkund
+- [BGH, Urteil vom 20.02.2013 - 5 StR 306/12](5-str-306-12.md) — 1. Für die Anwendung des § 73 Abs. 1 Satz 2 StGB ist der historische Sachverhalt entscheidend, aus dem sich der Ersatzanspruch ergibt, und nicht das Schutzgut d
+- [BGH, Beschluss vom 20.02.2013 - 5 StR 462/12](5-str-462-12.md) — Gegenstand des Strafurteils: Fehlende Identität angeklagter und abgeurteilter Taten bei einer Serie von Betrugsdelikten
+- [BGH, Beschluss vom 19.02.2013 - 5 StR 427/12](5-str-427-12.md) — Strafverfahren wegen Untreue: Verdeckte Gewinnentnahmen durch den faktischen Geschäftsführer einer GmbH
+- [BGH, Beschluss vom 19.02.2013 - 5 StR 613/12](5-str-613-12.md) — Sexueller Missbrauch widerstandsunfähiger Personen: Vorsätzliches Ausnutzen der Widerstandsunfähigkeit einer schlafenden Person
+- [BGH, Beschluss vom 19.02.2013 - 5 StR 620/12](5-str-620-12.md) — Vorbehalt der Sicherungsverwahrung im Übergangsfall: Anforderungen an die Urteilsbegründung bei Feststellung eines Hangs
+- [BGH, Urteil vom 22.01.2013 - 5 StR 378/12](5-str-378-12.md) — Unterbringung in einer Entziehungsanstalt: Verpflichtung des Tatgerichts zur Erörterung der Unterbringung und Einholung eines Sachverständigengutachtens
+- [BGH, Urteil vom 09.01.2013 - 5 StR 395/12](5-str-395-12.md) — Gefährliche Körperverletzung: Abgrenzung des bedingten Tötungsvorsatzes von der bewußten Fahrlässigkeit bei äußerst gefährlichen Gewalthandlungen; Strafzumessun
+- [BGH, Urteil vom 09.01.2013 - 5 StR 461/12](5-str-461-12.md) — Revision in Strafsachen: Verfahrensrüge bei fehlerhafter Protokollierung des Selbstleseverfahrens; Auslegung eines Protokollvermerks
+- [BGH, Beschluss vom 08.01.2013 - 5 StR 594/12](5-str-594-12.md) — Anforderungen an die Urteilsgründe bei nachträglicher Gesamtstrafenbildung: Zäsurwirkung einer früheren Verurteilung; Berücksichtigung des Grenzwertes des Gesam
+- [BGH, Beschluss vom 08.01.2013 - 5 StR 606/12](5-str-606-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Abgrenzung zwischen Beihilfe und Mittäterschaft bei Durchführung von Einkaufs- und Einf

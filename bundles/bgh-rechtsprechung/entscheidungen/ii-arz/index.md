@@ -1,7 +1,7 @@
-# ii-arz
+# II ARZ
 
-1 Entscheidung(en).
+Bestimmung des zuständigen Gerichts (§ 36 ZPO). 1 Entscheidung(en).
 
-## 2007
+## Nach Jahr
 
-- [BGH, Beschluss vom 08.01.2007 - II ARZ 1/05](2007/ii-arz-1-05.md)
+- [2007](2007/index.md) (1)

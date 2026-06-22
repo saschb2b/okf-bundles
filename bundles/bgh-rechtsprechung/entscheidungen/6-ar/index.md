@@ -1,7 +1,7 @@
-# 6-ar
+# 6 AR
 
-1 Entscheidung(en).
+Allgemeines Register, Rechtshilfe- und Zuständigkeitssachen. 1 Entscheidung(en).
 
-## 2025
+## Nach Jahr
 
-- [BGH, Beschluss vom 24.06.2025 - 6 AR 1/25](2025/6-ar-1-25.md)
+- [2025](2025/index.md) (1)

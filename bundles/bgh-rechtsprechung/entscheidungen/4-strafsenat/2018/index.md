@@ -1,0 +1,133 @@
+# 4. Strafsenat – 2018
+
+129 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2018 - 4 StR 410/18](4-str-410-18.md) — Strafverfahren wegen gefährlicher Körperverletzung: Anforderungen an die Begründung der Ablehnung eines Beweisantrages wegen tatsächlicher Bedeutungslosigkeit u
+- [BGH, Beschluss vom 19.12.2018 - 4 StR 526/18](4-str-526-18.md) — Tateinheit bei mehreren Taten des Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 19.12.2018 - 4 StR 58/18](4-str-58-18.md) — Bestechung: Handlungseinheit bei mehreren Vorteilsgewährungen
+- [BGH, Beschluss vom 18.12.2018 - 4 StR 240/18](4-str-240-18.md) — Annahme einer Bewertungseinheit beim Betäubungsmittelhandel
+- [BGH, Beschluss vom 18.12.2018 - 4 StR 493/18](4-str-493-18.md) — Rücktritt vom Versuch des Totschlags: Vorliegen eines fehlgeschlagenen Versuchs
+- [BGH, Urteil vom 06.12.2018 - 4 StR 260/18](4-str-260-18.md) — Strafbefreiender Rücktritt vom versuchten Mord durch Werfen von Steinen und schweren Werkzeugen aus einem schnellfahrenden Fluchtwagen auf ein verfolgendes Poli
+- [BGH, Beschluss vom 06.12.2018 - 4 StR 367/18](4-str-367-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Verhältnismäßigkeitsprüfung
+- [BGH, Urteil vom 06.12.2018 - 4 StR 371/18](4-str-371-18.md) — Zum Begriff der Warenvorräte und des Warenlagers im Sinne des § 306 Abs. 1 Nr. 3 StGB (Fortführung von BGH, Urteil vom 22. März 2018, 5 StR 603/17).
+- [BGH, Beschluss vom 06.12.2018 - 4 StR 424/18](4-str-424-18.md) — Erörterung einer überlangen Verfahrensdauer in Urteilsgründen notwendig
+- [BGH, Beschluss vom 06.12.2018 - 4 StR 484/18](4-str-484-18.md) — Strafverfahren: Anforderungen an die Ablehnung eines Beweisantrages auf Zeugenvernehmung bezüglich einer Indiz- oder Hilfstatsache wegen tatsächlicher Bedeutung
+- [BGH, Beschluss vom 05.12.2018 - 4 StR 292/18](4-str-292-18.md) — Entstehungszeitpunkt des Anspruchs auf Prozesszinsen aus einem Schmerzensgeldbetrag im strafrechtlichen Adhäsionsverfahren
+- [BGH, Beschluss vom 05.12.2018 - 4 StR 392/18](4-str-392-18.md) — Bandenmäßiger Handel mit Betäubungsmitteln: Mitwirkung an der Aufzucht von Cannabispflanzen
+- [BGH, Beschluss vom 05.12.2018 - 4 StR 505/18](4-str-505-18.md) — Gefährlicher Eingriff in den Straßenverkehr: Feststellung eines drohenden bedeutenden Sachschadens sowie einer Leibes- oder Lebensgefährdung; Annahme der vermin
+- [BGH, Beschluss vom 04.12.2018 - 4 StR 319/18](4-str-319-18.md) — Strafverfahren gegen einen GmbH-Geschäftsführer und Alleingesellschafter wegen Insolvenzverschleppung: Anforderungen an die Feststellung der Zahlungsunfähigkeit
+- [BGH, Beschluss vom 04.12.2018 - 4 StR 418/18](4-str-418-18.md) — Inaussichtstellen eines noch bevorstehenden Verbrechens beim Tatbestand der Bedrohung
+- [BGH, Beschluss vom 04.12.2018 - 4 StR 443/18](4-str-443-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Feststellung der Schuldunfähigkeit wegen Psychose aus dem schizophrenen Formenkreis unter Verwertung eines p
+- [BGH, Beschluss vom 22.11.2018 - 4 StR 234/18](4-str-234-18.md) — Anwendung der fünfzehnjährigen Rückfallverjährungsfrist bei der Anordnung der Sicherungsverwahrung
+- [BGH, Beschluss vom 22.11.2018 - 4 StR 347/18](4-str-347-18.md) — Beschaffungskriminalität eines Betäubungsmittelabhängigen: Verminderte Schuldfähigkeit bei Angst vor Entzugserscheinungen
+- [BGH, Urteil vom 22.11.2018 - 4 StR 356/18](4-str-356-18.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Wiederholungsgefahr
+- [BGH, Beschluss vom 21.11.2018 - 4 StR 15/18](4-str-15-18.md) — Parteiverrat: Definition der Pflichtwidrigkeit; Bestimmung der Parteiinteressen in verwaltungsgerichtlichen Streitigkeiten; Abgrenzung des schweren vom einfache
+- [BGH, Beschluss vom 21.11.2018 - 4 StR 332/18](4-str-332-18.md) — Beweiswürdigung zum subjektiven Tatbestand bei versuchter Nötigung
+- [BGH, Beschluss vom 20.11.2018 - 4 StR 168/18](4-str-168-18.md) — Neben der Verhängung lebenslanger Freiheitsstrafe kann Sicherungsverwahrung vorbehalten werden.
+- [BGH, Beschluss vom 20.11.2018 - 4 StR 329/18](4-str-329-18.md) — Verurteilung wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 08.11.2018 - 4 StR 268/18](4-str-268-18.md) — Verständigung im Strafverfahren: Belehrungspflicht vor Zustandekommen einer Verständigung
+- [BGH, Urteil vom 08.11.2018 - 4 StR 269/18](4-str-269-18.md) — Bildung einer nachträglichen Gesamtstrafe
+- [BGH, Beschluss vom 08.11.2018 - 4 StR 297/18](4-str-297-18.md) — Strafrechtliche Vermögensabschöpfung im Verfahren wegen bandenmäßigen Handeltreibens mit Betäubungsmitteln: Voraussetzungen und Umfang der Einziehung bei Teilei
+- [BGH, Beschluss vom 08.11.2018 - 4 StR 61/18](4-str-61-18.md) — Voraussetzungen der Gefahr einer erheblichen Entwicklungsschädigung bei der Mißhandlung von Schutzbefohlenen
+- [BGH, Beschluss vom 07.11.2018 - 4 StR 353/18](4-str-353-18.md) — Entscheidung über einen Adhäsionsantrag im Strafurteil: Reichweite eines Schuldanerkenntnisses bei teilweiser Verfahrenseinstellung
+- [BGH, Beschluss vom 07.11.2018 - 4 StR 395/18](4-str-395-18.md) — Unmittelbares Ansetzen bei einer versuchten Hehlerei
+- [BGH, Beschluss vom 06.11.2018 - 4 StR 226/18](4-str-226-18.md) — Schriftliche Erklärung des Angeklagten in Hauptverhandlung kein Urkundenbeweis
+- [BGH, Urteil vom 25.10.2018 - 4 StR 239/18](4-str-239-18.md) — Besonders schwere Vergewaltigung: Verwenden einer Waffe vor Tatbeendigung
+- [BGH, Urteil vom 25.10.2018 - 4 StR 312/18](4-str-312-18.md) — Berücksichtigung der erlittenen Untersuchungshaft bei der Strafzumessung
+- [BGH, Beschluss vom 24.10.2018 - 4 StR 314/18](4-str-314-18.md) — Begrenzte Anfechtung des Schuldspruchs
+- [BGH, Beschluss vom 17.10.2018 - 4 StR 149/18](4-str-149-18.md) — Urkundenfälschung mit Kraftfahrzeug-Kennzeichen
+- [BGH, Beschluss vom 17.10.2018 - 4 StR 99/18](4-str-99-18.md) — Entfernung des Angeklagten aus der Hauptverhandlung während der Zeugenvernehmung
+- [BGH, Beschluss vom 16.10.2018 - 4 StR 184/18](4-str-184-18.md) — Wechsel in der Person des Beistands
+- [BGH, Urteil vom 11.10.2018 - 4 StR 195/18](4-str-195-18.md) — Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 10.10.2018 - 4 StR 247/18](4-str-247-18.md) — Betäubungsmitteldelikt: Begriff des Handeltreibens und des eigennützigen Handelns
+- [BGH, Beschluss vom 10.10.2018 - 4 StR 311/18](4-str-311-18.md) — Der Qualifikationstatbestand des § 177 Abs. 5 Nr. 1 StGB setzt keinen Finalzusammenhang zwischen der Gewaltanwendung und der Vornahme oder Duldung der sexuellen
+- [BGH, Beschluss vom 10.10.2018 - 4 StR 397/18](4-str-397-18.md) — Differenzierung zwischen beendeten und unbeendeten Versuch
+- [BGH, Beschluss vom 10.10.2018 - 4 StR 414/18](4-str-414-18.md) — Bewertung der Taten bei dem Straftatbestand der Misshandlung von Schutzbefohlenen
+- [BGH, Beschluss vom 10.10.2018 - 4 StR 591/17](4-str-591-17.md) — Zur Zueignungsabsicht beim Diebstahl, wenn der Täter Pfandleergut entwendet, um es gegen Auskehrung des Pfandbetrages in das Pfandsystem zurückzugeben.
+- [BGH, Beschluss vom 09.10.2018 - 4 StR 318/18](4-str-318-18.md) — Berücksichtigung des Werts eines eingezogenen Tatmittels
+- [BGH, Beschluss vom 09.10.2018 - 4 StR 652/17](4-str-652-17.md) — Vorlage einer Strafsache durch ein Oberlandesgericht: Entscheidungserheblichkeit der vorgelegten Rechtsfrage; Rechtsfragen zum Tatbestandsmerkmal "Rausch" bei V
+- [BGH, Urteil vom 27.09.2018 - 4 StR 135/18](4-str-135-18.md) — Begründung einer Verfahrensrüge bei Ablehnung eines Beweisantrags wegen eines Beweisverwertungsverbots
+- [BGH, Beschluss vom 27.09.2018 - 4 StR 153/18](4-str-153-18.md) — Strafverfahren: Verlesung einer dienstlichen Erklärung eines Ermittlungsrichters
+- [BGH, Beschluss vom 27.09.2018 - 4 StR 191/18](4-str-191-18.md) — Mittäterschaftliche Begehung eines Betäubungsmitteldelikts bei Interesse am Einfuhrvorgang
+- [BGH, Beschluss vom 27.09.2018 - 4 StR 276/18](4-str-276-18.md) — Unterbringung in einer Entziehungsanstalt: Soziale Gefährdung bzw. soziale Gefährlichkeit eines Hangtäters wegen Delikten der Beschaffungskriminalität
+- [BGH, Urteil vom 27.09.2018 - 4 StR 78/18](4-str-78-18.md) — Einziehung von Taterträgen beim Absatz von Betäubungsmitteln
+- [BGH, Beschluss vom 26.09.2018 - 4 StR 354/18](4-str-354-18.md) — Verhängung von Jugendstrafe: Vorliegen schädlicher Neigungen bei einem Ersttäter
+- [BGH, Beschluss vom 25.09.2018 - 4 StR 192/18](4-str-192-18.md) — Strafzumessung und Sicherungsverwahrung bei sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 25.09.2018 - 4 StR 325/18](4-str-325-18.md) — Strafzumessung beim Totschlag
+- [BGH, Urteil vom 13.09.2018 - 4 StR 174/18](4-str-174-18.md) — Verfügungsgewalt und Einziehung bei Hehlerei
+- [BGH, Beschluss vom 30.08.2018 - 4 StR 87/18](4-str-87-18.md) — Lebenslange Freiheitsstrafe für einen Heranwachsenden: Prüfungsmaßstab für eine Milderung der Strafe
+- [BGH, Beschluss vom 29.08.2018 - 4 StR 248/18](4-str-248-18.md) — Darlegung der hangbedingten Gefährlichkeit nach provozierter Körperverletzung
+- [BGH, Beschluss vom 28.08.2018 - 4 StR 320/18](4-str-320-18.md) — Keine Wertung zulässigen Prozessverhaltens zu Lasten des Angeklagten
+- [BGH, Urteil vom 16.08.2018 - 4 StR 162/18](4-str-162-18.md) — Besonders schwere Brandstiftung bei Todesgefahr durch Brandverursachung mit Brandbeschleuniger
+- [BGH, Beschluss vom 16.08.2018 - 4 StR 200/18](4-str-200-18.md) — Konkretisierung der Tathandlung und des Tatzeitpunkts in Anklageschrift notwendig
+- [BGH, Beschluss vom 16.08.2018 - 4 StR 255/18](4-str-255-18.md) — Beweiswürdigung bei gemeinschaftlichem Raub mit gefährlicher Körperverletzung und Einziehung des Wertes von Taterträgen
+- [BGH, Beschluss vom 15.08.2018 - 4 StR 250/18](4-str-250-18.md) — Gesamtstrafenbildung im Falle der Einbeziehung einer Bewährungsstrafe: Anrechnung erfüllter Bewährungsauflagen
+- [BGH, Beschluss vom 14.08.2018 - 4 StR 136/18](4-str-136-18.md) — Spurenbeseitigung als Strafschärfungsgrund
+- [BGH, Beschluss vom 14.08.2018 - 4 StR 251/18](4-str-251-18.md) — Vorsatz kann bei gefährlichem Eingriff in Straßenverkehr unter erheblicher Alkoholisierung fehlen
+- [BGH, Beschluss vom 01.08.2018 - 4 StR 54/18](4-str-54-18.md) — Hehlerei: Abgrenzung zwischen Beihilfe und versuchter Hehlerei
+- [BGH, Beschluss vom 31.07.2018 - 4 StR 282/18](4-str-282-18.md) — Strafbefreiender Rücktritt vom versuchten Mord: Anforderungen an die Erörterung des Rücktrittshorizonts des Täters in den Urteilsfeststellungen
+- [BGH, Beschluss vom 30.07.2018 - 4 StR 68/18](4-str-68-18.md) — Revision in Strafsachen: Verletzung der Vorschriften über die Öffentlichkeit durch Verkündung eines zweiten Ausschließungsbeschlusses in nichtöffentlicher Sitzu
+- [BGH, Urteil vom 19.07.2018 - 4 StR 121/18](4-str-121-18.md) — Verdeckungsabsicht bei gefährlichem Eingriff in den Straßenverkehr
+- [BGH, Beschluss vom 18.07.2018 - 4 StR 129/18](4-str-129-18.md) — Zulässigkeit eines unbezifferten Adhäsionsantrags
+- [BGH, Beschluss vom 18.07.2018 - 4 StR 170/18](4-str-170-18.md) — (Anforderungen an einen Adhäsionsantrag)
+- [BGH, Beschluss vom 17.07.2018 - 4 StR 145/18](4-str-145-18.md) — Verbindung von Strafsachen: Zuständiges Gericht für einen Verbindungsbeschluss bei Strafverfahren mit verschiedener örtlicher und sachlicher Zuständigkeit
+- [BGH, Beschluss vom 03.07.2018 - 4 StR 227/18](4-str-227-18.md) — (Anforderungen an das Vorliegen eines Rechtsmittelverzichts)
+- [BGH, Beschluss vom 03.07.2018 - 4 StR 621/17](4-str-621-17.md) — Ablehnung eines Beweisantrags auf Einholung eines Sachverständigengutachtens
+- [BGH, Beschluss vom 27.06.2018 - 4 StR 103/18](4-str-103-18.md) — Keine volle Strafschärfung bei geistig-seelischer Beeinträchtigung
+- [BGH, Beschluss vom 27.06.2018 - 4 StR 110/18](4-str-110-18.md) — Strafbefreiender Rücktritt bei einer versuchten Nötigung
+- [BGH, Beschluss vom 27.06.2018 - 4 StR 116/18](4-str-116-18.md) — Tateinheit bei Aufbewahrung unterschiedlicher Betäubungsmittel
+- [BGH, Beschluss vom 21.06.2018 - 4 StR 645/17](4-str-645-17.md) — Sexueller Missbrauch von Schutzbefohlenen
+- [BGH, Beschluss vom 20.06.2018 - 4 StR 561/17](4-str-561-17.md) — (Strafbewehrte Untreuehandlung durch Gewährung einer erhöhten Vergütungspauschale aus sachfremden Erwägungen)
+- [BGH, Beschluss vom 19.06.2018 - 4 StR 25/18](4-str-25-18.md) — Verstoß gegen Weisungen während der Führungsaufsicht: Begriff der Gefährdung des Maßregelzwecks; einmalige Missachtung der Weisung, sich einem Drogenscreening z
+- [BGH, Beschluss vom 19.06.2018 - 4 StR 484/17](4-str-484-17.md) — Innere Tatseite der öffentlichen Aufforderung zu Straftaten; Strafbarkeit des Versendens einer digital verfälschten Kopie eines Dokuments mittels Email
+- [BGH, Beschluss vom 19.06.2018 - 4 StR 646/17](4-str-646-17.md) — Betrug durch Unterlassen: Pflicht des Kindes zur Anzeige des Todes des Versorgungsberechtigten
+- [BGH, Urteil vom 07.06.2018 - 4 StR 63/18](4-str-63-18.md) — Einziehung von Taterträgen bei Mittäterschaft: Erfordernis einer Mitverfügungsmacht bei der Zurechnung von Beuteanteilen
+- [BGH, Beschluss vom 06.06.2018 - 4 StR 144/18](4-str-144-18.md) — Bei einem vollendeten Tötungsdelikt sind die Hinterbliebenen nicht „Verletzte“ im Sinne von § 46a Nr. 1 StGB.
+- [BGH, Beschluss vom 06.06.2018 - 4 StR 569/17](4-str-569-17.md) — Für die Bestimmung des Wertersatzverfallsbetrages nach § 73a Satz 1 StGB in der Fassung vom 13. November 1998 sind Wertsteigerungen des Erlangten ab dem Zeitpun
+- [BGH, Beschluss vom 06.06.2018 - 4 StR 97/18](4-str-97-18.md) — Beweiswert übereinstimmender Allelen für Feststellung der Täterschaft des Angeklagten
+- [BGH, Beschluss vom 05.06.2018 - 4 StR 138/18](4-str-138-18.md) — Strafverfahren: „Offenkundiger Mangel“ der Verteidigung bei unterlassener Rechtsmittelbegründung durch den Pflichtverteidiger
+- [BGH, Beschluss vom 24.05.2018 - 4 StR 51/17](4-str-51-17.md) — Einstellung des Verfahrens bei Tod des Angeklagten
+- [BGH, Urteil vom 24.05.2018 - 4 StR 643/17](4-str-643-17.md) — Anordnung der Sicherungsverwahrung: Beurteilung der Erheblichkeit der Anlasstat
+- [BGH, Beschluss vom 23.05.2018 - 4 StR 584/17](4-str-584-17.md) — Beweisaufnahme im Strafverfahren: Zulässigkeit der Verlesung eines polizeilichen Vernehmungsprotokolls
+- [BGH, Beschluss vom 22.05.2018 - 4 StR 100/18](4-str-100-18.md) — Strafzumessung bei Inverkehrbringen von Betäubungsmitteln
+- [BGH, Beschluss vom 09.05.2018 - 4 StR 579/17](4-str-579-17.md) — Verspätete Ablehnung von Revisionsrichtern im Strafverfahren: Verbindung des Ablehnungsgesuchs mit der Anhörungsrüge
+- [BGH, Beschluss vom 25.04.2018 - 4 StR 348/17](4-str-348-17.md) — Anforderungen an die Zueignungsabsicht beim Raub
+- [BGH, Beschluss vom 24.04.2018 - 4 StR 60/18](4-str-60-18.md) — Strafzumessung bei Betäubungsmitteldelikten: Strafschärfende Berücksichtigung von nicht angeklagten Straftaten; Doppelverwertungsverbot; fehlende Drogensucht
+- [BGH, Urteil vom 12.04.2018 - 4 StR 336/17](4-str-336-17.md) — Wiederholungsabsicht bei gewerbsmäßigen Menschenhandel und Zuhälterei
+- [BGH, Beschluss vom 11.04.2018 - 4 StR 446/17](4-str-446-17.md) — Umfang der Darlegungen in den Urteilsgründen zur Frage der Schuldfähigkeit
+- [BGH, Beschluss vom 11.04.2018 - 4 StR 583/17](4-str-583-17.md) — Der Tatbestand des § 142 Abs. 1 Nr. 1 StGB ist auch dann erfüllt, wenn der Täter den Unfallort erst nach der letzten feststellungsberechtigten Person verlässt, 
+- [BGH, Beschluss vom 10.04.2018 - 4 StR 108/18](4-str-108-18.md) — Finalzusammenhang zwischen dem Einsatz der Nötigungsmittel und der Wegnahme beim Raub
+- [BGH, Urteil vom 29.03.2018 - 4 StR 568/17](4-str-568-17.md) — Eine „Entscheidung über die Anordnung des Verfalls und des Verfalls von Wertersatz“ im Sinne von Art. 316h Satz 2 EGStGB ist auch das nicht begründete Unterblei
+- [BGH, Beschluss vom 28.03.2018 - 4 StR 629/17](4-str-629-17.md) — Recht des Erziehungsberechtigten auf das letzte Wort
+- [BGH, Beschluss vom 28.03.2018 - 4 StR 81/18](4-str-81-18.md) — Gefährliche Körperverletzung: Beibringen eines gesundheitschädlichen Stoffes durch Besprühen eines Kleidungsstückes mit einer brennenden Substanz und anschließe
+- [BGH, Beschluss vom 26.03.2018 - 4 StR 408/17](4-str-408-17.md) — Untreue und unerlaubtes Betreiben von Bankgeschäften: Vorliegen eines Einlagengeschäfts bei Vereinbarung des Nachrangs des Rückforderungsanspruchs gegenüber nor
+- [BGH, Urteil vom 15.03.2018 - 4 StR 397/17](4-str-397-17.md) — Umgekehrte Korrektur des Rücktrittshorizonts
+- [BGH, Urteil vom 15.03.2018 - 4 StR 425/17](4-str-425-17.md) — Betrug: Einschränkende Auslegung des objektiven Tatbestandes und der die Tatbestandsmerkmale verbindenden Kausalbeziehung
+- [BGH, Beschluss vom 15.03.2018 - 4 StR 469/17](4-str-469-17.md) — Gefährdung des Straßenverkehrs: Erfordernis eines Gefahrverwirklichungszusammenhangs im Fall eines Überholverstoßes
+- [BGH, Beschluss vom 14.03.2018 - 4 StR 516/17](4-str-516-17.md) — Strafverfahren wegen Vergewaltigung: Unbestimmtheit des unbezifferten Adhäsionsantrags; Aufhebung der Adhäsionsentscheidung durch das Revisionsgericht; Konkurre
+- [BGH, Beschluss vom 13.03.2018 - 4 StR 27/18](4-str-27-18.md) — Aussetzung der Hauptverhandlung bei neuen Umständen
+- [BGH, Beschluss vom 13.03.2018 - 4 StR 531/17](4-str-531-17.md) — (Erörterungsmängel von Urteilsgründen in Bezug auf einen Rücktritt)
+- [BGH, Beschluss vom 13.03.2018 - 4 StR 570/17](4-str-570-17.md) — Zu den Voraussetzungen einer sexuellen Belästigung i.S.d. § 184i Abs. 1 StGB.
+- [BGH, Beschluss vom 13.03.2018 - 4 StR 614/17](4-str-614-17.md) — (Anforderungen an das Vorliegen einer Tatprovokation)
+- [BGH, Beschluss vom 12.03.2018 - 4 StR 57/18](4-str-57-18.md) — Einziehung des Wertes von Taterträgen: Ausspruch über die gesamtschuldnerische Haftung von Mittätern
+- [BGH, Urteil vom 01.03.2018 - 4 StR 158/17](4-str-158-17.md) — Abgrenzung der bewussten Fahrlässigkeit von dem dolus eventualis: Durch sog. "Raser" verursachten tödlichen Verkehrsunfall
+- [BGH, Urteil vom 01.03.2018 - 4 StR 311/17](4-str-311-17.md) — Fahrlässige Tötung im Straßenverkehr: Abgrenzung zwischen Vorsatz und bewusster Fahrlässigkeit in "Raserfällen"; Risikozusammenhang bei Rotlichtverstoß des getö
+- [BGH, Urteil vom 01.03.2018 - 4 StR 399/17](4-str-399-17.md) — Zur Bedeutung der Eigengefährdung für das Vorliegen von bedingtem Tötungsvorsatz bei riskanten Verhaltensweisen im Straßenverkehr.
+- [BGH, Beschluss vom 28.02.2018 - 4 StR 530/17](4-str-530-17.md) — Fahrlässige Tötung und Straßenverkehrsgefährdung: Schuldfähigkeitsprüfung bei hoher Alkoholgewöhnung eines Lkw-Fahrers
+- [BGH, Urteil vom 15.02.2018 - 4 StR 361/17](4-str-361-17.md) — Versuchter Mord durch Unterlassen: Zusammentreffen von Verdeckungsabsicht und bedingtem Tötungsvorsatz
+- [BGH, Urteil vom 15.02.2018 - 4 StR 506/17](4-str-506-17.md) — Räuberischer Angriff auf Kraftfahrer: Ausnutzung der spezifischen Bedingungen des Straßenverkehrs; Ausnutzungsbewusstsein des Täters
+- [BGH, Beschluss vom 15.02.2018 - 4 StR 594/17](4-str-594-17.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Verfolgungsverjährung bei unklarem Tatzeitpunkt
+- [BGH, Beschluss vom 14.02.2018 - 4 StR 550/17](4-str-550-17.md) — Strafverfahren: Grenzen der Mitwirkung eines als Zeuge vernommenen Staatsanwalts
+- [BGH, Beschluss vom 14.02.2018 - 4 StR 648/17](4-str-648-17.md) — Einziehungsanordnung: ‚Durch‘ oder ‚für‘ eine rechtswidrige Tat erlangter Vermögenswert
+- [BGH, Beschluss vom 13.02.2018 - 4 StR 346/17](4-str-346-17.md) — Strafverfahren: Beweiswürdigung bei Teileinstellung
+- [BGH, Beschluss vom 13.02.2018 - 4 StR 585/17](4-str-585-17.md) — Begründung des Strafurteils zur Zumessung der Gesamtstrafe
+- [BGH, Beschluss vom 07.02.2018 - 4 StR 376/17](4-str-376-17.md) — Beweiswürdigung in Strafsachen: Erforderlicher Inhalt des Strafurteil bei Täteridentifizierung anhand eines Lichtbildes
+- [BGH, Beschluss vom 07.02.2018 - 4 StR 529/17](4-str-529-17.md) — Strafzumessung bei gefährlicher Körperverletzung: Strafschärfende Berücksichtigung des Verteidigungsverhaltens
+- [BGH, Beschluss vom 30.01.2018 - 4 StR 284/17](4-str-284-17.md) — Vergewaltigung und sexuelle Nötigung: Beweiswürdigung bei Aussage-gegen-Aussage-Konstellation; Erfüllung des subjektiven Tatbestands; Anwendung des zur Tatzeit 
+- [BGH, Beschluss vom 30.01.2018 - 4 StR 471/17](4-str-471-17.md) — Strafverfahren: Beweiskraft des Hauptverhandlungsprotokolls bei Äußerungen des Angeklagten im Rahmen des letzten Wortes
+- [BGH, Beschluss vom 30.01.2018 - 4 StR 587/17](4-str-587-17.md) — Sexueller Missbrauch eines Kindes: Lückenhafte Beweiswürdigung einer Zeugenaussage
+- [BGH, Beschluss vom 18.01.2018 - 4 StR 610/17](4-str-610-17.md) — Versäumung der Revisionsbegründungsfrist durch den Pflichtverteidiger: Vorliegen eines "offenkundigen Mangels" der Verteidigung und Erforderlichkeit der Beiordn
+- [BGH, Beschluss vom 17.01.2018 - 4 StR 305/17](4-str-305-17.md) — Unerlaubte Veranstaltung eines Glücksspiels, Untreue und Computerbetrug: Aufstellung eines Glücksspielautomaten ohne erforderliche Bauartzulassung mit Einwillig
+- [BGH, Beschluss vom 16.01.2018 - 4 StR 458/17](4-str-458-17.md) — Unterschlagung und Gefährdung des Straßenverkehrs: Mitgewahrsam des Dienstherrn an einer von einem Angestellten allein verwalteten Kasse; Beginn der Verwirklich
+- [BGH, Beschluss vom 16.01.2018 - 4 StR 498/17](4-str-498-17.md) — Strafverfahren: Anforderungen an die Darstellung des Ergebnisses einer molekulargenetischen Vergleichsuntersuchung im Urteil
+- [BGH, Beschluss vom 16.01.2018 - 4 StR 597/17](4-str-597-17.md) — Sexueller Missbrauch widerstandsunfähiger Personen: Feststellung der Widerstandsunfähigkeit nach altem Recht

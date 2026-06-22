@@ -1,0 +1,177 @@
+# 6. Strafsenat – 2025
+
+173 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.12.2025 - 6 StR 127/25](6-str-127-25.md) — BGH, Beschluss 6 StR 127/25
+- [BGH, Beschluss vom 17.12.2025 - 6 StR 15/25](6-str-15-25.md) — Vergewaltigung durch Zuhälter wegen Nötigung zum Beischlaf mit Freiern
+- [BGH, Beschluss vom 17.12.2025 - 6 StR 260/25](6-str-260-25.md) — Anforderungen an die Urteilsgründe im Fall "Aussage gegen Aussage"
+- [BGH, Beschluss vom 17.12.2025 - 6 StR 430/25](6-str-430-25.md) — BGH, Beschluss 6 StR 430/25
+- [BGH, Beschluss vom 17.12.2025 - 6 StR 461/25](6-str-461-25.md) — Anordnung der Einziehung unter einer Einbeziehung einer früheren Einziehungsentscheidung
+- [BGH, Beschluss vom 11.12.2025 - 6 StR 71/25](6-str-71-25.md) — BGH, Beschluss 6 StR 71/25
+- [BGH, Urteil vom 10.12.2025 - 6 StR 276/25](6-str-276-25.md) — BGH, Urteil 6 StR 276/25
+- [BGH, Urteil vom 10.12.2025 - 6 StR 364/25](6-str-364-25.md) — BGH, Urteil 6 StR 364/25
+- [BGH, Beschluss vom 10.12.2025 - 6 StR 467/25](6-str-467-25.md) — BGH, Beschluss 6 StR 467/25
+- [BGH, Beschluss vom 10.12.2025 - 6 StR 480/25](6-str-480-25.md) — BGH, Beschluss 6 StR 480/25
+- [BGH, Beschluss vom 09.12.2025 - 6 StR 331/25](6-str-331-25.md) — BGH, Beschluss 6 StR 331/25
+- [BGH, Beschluss vom 09.12.2025 - 6 StR 346/25](6-str-346-25.md) — Anforderungen an die Begründung des Einziehungsausspruchs bei bandenmäßigem Betäubungsmittelhandel
+- [BGH, Beschluss vom 09.12.2025 - 6 StR 411/25](6-str-411-25.md) — BGH, Beschluss 6 StR 411/25
+- [BGH, Beschluss vom 08.12.2025 - 6 StR 125/25](6-str-125-25.md) — Voraussetzungen der Annahme einer schweren anderen seelischen Störung und der Aufhebung des Hemmungsvermögens
+- [BGH, Beschluss vom 08.12.2025 - 6 StR 325/25](6-str-325-25.md) — BGH, Beschluss 6 StR 325/25
+- [BGH, Beschluss vom 08.12.2025 - 6 StR 382/25](6-str-382-25.md) — BGH, Beschluss 6 StR 382/25
+- [BGH, Beschluss vom 08.12.2025 - 6 StR 545/25](6-str-545-25.md) — BGH, Beschluss 6 StR 545/25
+- [BGH, Beschluss vom 27.11.2025 - 6 ARs 12/25](6-ars-12-25.md) — BGH, Beschluss 6 ARs 12/25
+- [BGH, Beschluss vom 25.11.2025 - 6 StR 478/25](6-str-478-25.md) — BGH, Beschluss 6 StR 478/25
+- [BGH, Beschluss vom 12.11.2025 - 6 StR 376/25](6-str-376-25.md) — Zäsurwirkung früherer Verurteilungen im zweiten Rechtsgang
+- [BGH, Beschluss vom 12.11.2025 - 6 StR 420/25](6-str-420-25.md) — BGH, Beschluss 6 StR 420/25
+- [BGH, Urteil vom 29.10.2025 - 6 StR 242/25](6-str-242-25.md) — BGH, Urteil 6 StR 242/25
+- [BGH, Beschluss vom 28.10.2025 - 6 StR 301/25](6-str-301-25.md) — BGH, Beschluss 6 StR 301/25
+- [BGH, Beschluss vom 27.10.2025 - 6 StR 374/25](6-str-374-25.md) — Aufhebung des Strafausspruchs wegen unzureichender Berücksichtigung mildernder Umstände bei sexuellem Missbrauch von Kindern
+- [BGH, Urteil vom 16.10.2025 - 6 StR 72/25](6-str-72-25.md) — Darlegungen im Urteil bei Verurteilung wegen besonders schweren Raubes in Tateinheit mit versuchtem Mord; Amphetaminkonsum des Angeklagten; Sachverständigenguta
+- [BGH, Urteil vom 15.10.2025 - 6 StR 179/25](6-str-179-25.md) — Anforderungen an Unterbringung in psychiatrischem Krankenhaus
+- [BGH, Beschluss vom 15.10.2025 - 6 StR 441/25](6-str-441-25.md) — BGH, Beschluss 6 StR 441/25
+- [BGH, Urteil vom 15.10.2025 - 6 StR 622/24](6-str-622-24.md) — Einziehung von Geldbeträgen aus Betäubungsmittelgeschäften
+- [BGH, Beschluss vom 14.10.2025 - 6 StR 214/25](6-str-214-25.md) — BGH, Beschluss 6 StR 214/25
+- [BGH, Beschluss vom 09.10.2025 - 6 StR 409/25](6-str-409-25.md) — Kontrollbefugnis des Revisionsgerichts bei Revision der Nebenklage
+- [BGH, Beschluss vom 08.10.2025 - 6 StR 154/25](6-str-154-25.md) — BGH, Beschluss 6 StR 154/25
+- [BGH, Beschluss vom 08.10.2025 - 6 StR 332/25](6-str-332-25.md) — BGH, Beschluss 6 StR 332/25
+- [BGH, Beschluss vom 08.10.2025 - 6 StR 358/25](6-str-358-25.md) — Verfahrenshindernis durch fehlenden Eröffnungsbeschluss bei verbundenen Strafsachen
+- [BGH, Beschluss vom 07.10.2025 - 6 StR 312/25](6-str-312-25.md) — BGH, Beschluss 6 StR 312/25
+- [BGH, Beschluss vom 07.10.2025 - 6 StR 317/25](6-str-317-25.md) — BGH, Beschluss 6 StR 317/25
+- [BGH, Beschluss vom 07.10.2025 - 6 StR 347/25](6-str-347-25.md) — Anforderungen an Schuldspruch und Strafausspruch im Fall des besonders schweren Raubes eines betäubungsmittelabhängigen Täters
+- [BGH, Beschluss vom 25.09.2025 - 6 StR 265/25](6-str-265-25.md) — BGH, Beschluss 6 StR 265/25
+- [BGH, Beschluss vom 24.09.2025 - 6 StR 293/25](6-str-293-25.md) — Strafschärfung wegen des Abstands zur Schutzaltersgrenze; Anwendung deutschen Strafrechts
+- [BGH, Beschluss vom 23.09.2025 - 6 StR 233/25](6-str-233-25.md) — BGH, Beschluss 6 StR 233/25
+- [BGH, Beschluss vom 23.09.2025 - 6 StR 250/25](6-str-250-25.md) — Nachweis des bedingten Vorsatzes bei versuchter schwerer Körperverletzung
+- [BGH, Beschluss vom 23.09.2025 - 6 StR 410/25](6-str-410-25.md) — Schriftformerfordernis bei der Revisionseinlegung
+- [BGH, Beschluss vom 28.08.2025 - 6 StR 239/25](6-str-239-25.md) — BGH, Beschluss 6 StR 239/25
+- [BGH, Beschluss vom 27.08.2025 - 6 StR 33/25](6-str-33-25.md) — BGH, Beschluss 6 StR 33/25
+- [BGH, Beschluss vom 26.08.2025 - 6 StR 231/25](6-str-231-25.md) — Anrechnung von im Ausland erlittener Freiheitsentziehung: Festnahme des Angeklagten im Ausland und Abschiebung nach Deutschland vor Eingang eines Auslieferungse
+- [BGH, Beschluss vom 21.08.2025 - 6 StR 157/25](6-str-157-25.md) — BGH, Beschluss 6 StR 157/25
+- [BGH, Beschluss vom 21.08.2025 - 6 StR 256/25](6-str-256-25.md) — BGH, Beschluss 6 StR 256/25
+- [BGH, Beschluss vom 21.08.2025 - 6 StR 259/25](6-str-259-25.md) — BGH, Beschluss 6 StR 259/25
+- [BGH, Beschluss vom 21.08.2025 - 6 StR 271/25](6-str-271-25.md) — BGH, Beschluss 6 StR 271/25
+- [BGH, Beschluss vom 21.08.2025 - 6 StR 652/24](6-str-652-24.md) — BGH, Beschluss 6 StR 652/24
+- [BGH, Urteil vom 20.08.2025 - 6 StR 192/25](6-str-192-25.md) — BGH, Urteil 6 StR 192/25
+- [BGH, Urteil vom 20.08.2025 - 6 StR 68/25](6-str-68-25.md) — BGH, Urteil 6 StR 68/25
+- [BGH, Beschluss vom 19.08.2025 - 6 StR 168/25](6-str-168-25.md) — BGH, Beschluss 6 StR 168/25
+- [BGH, Beschluss vom 19.08.2025 - 6 StR 574/24](6-str-574-24.md) — BGH, Beschluss 6 StR 574/24
+- [BGH, Beschluss vom 19.08.2025 - 6 StR 701/24](6-str-701-24.md) — BGH, Beschluss 6 StR 701/24
+- [BGH, Beschluss vom 07.08.2025 - 6 StR 196/25](6-str-196-25.md) — BGH, Beschluss 6 StR 196/25
+- [BGH, Beschluss vom 07.08.2025 - 6 StR 239/24](6-str-239-24.md) — Betrug durch Abrechnung von Pflegeleistungen gegenüber Kranken- und Pflegekassen
+- [BGH, Beschluss vom 06.08.2025 - 6 StR 115/25](6-str-115-25.md) — Besonders schwerer Raub: Panzertape als gefährliches Werkzeug
+- [BGH, Beschluss vom 06.08.2025 - 6 StR 315/24](6-str-315-24.md) — BGH, Beschluss 6 StR 315/24
+- [BGH, Beschluss vom 06.08.2025 - 6 StR 84/25](6-str-84-25.md) — BGH, Beschluss 6 StR 84/25
+- [BGH, Beschluss vom 05.08.2025 - 6 StR 153/25](6-str-153-25.md) — BGH, Beschluss 6 StR 153/25
+- [BGH, Beschluss vom 24.07.2025 - 6 StR 24/25](6-str-24-25.md) — Anordnung der Sicherungsverwahrung im tatrichterlichen Ermessen: Fall eines frühkriminellen Hangtäters knapp über 21 Jahre
+- [BGH, Beschluss vom 23.07.2025 - 6 StR 120/25](6-str-120-25.md) — Prüfung der Schuldfähigkeit des Angeklagten zur Tatzeit: Entscheidung nach Anhörung eines psychiatrischen Sachverständigen
+- [BGH, Beschluss vom 22.07.2025 - 6 StR 208/25](6-str-208-25.md) — BGH, Beschluss 6 StR 208/25
+- [BGH, Beschluss vom 10.07.2025 - 6 StR 162/25](6-str-162-25.md) — BGH, Beschluss 6 StR 162/25
+- [BGH, Beschluss vom 09.07.2025 - 6 StR 197/25](6-str-197-25.md) — BGH, Beschluss 6 StR 197/25
+- [BGH, Beschluss vom 09.07.2025 - 6 StR 79/25](6-str-79-25.md) — BGH, Beschluss 6 StR 79/25
+- [BGH, Beschluss vom 08.07.2025 - 6 StR 224/25](6-str-224-25.md) — BGH, Beschluss 6 StR 224/25
+- [BGH, Beschluss vom 08.07.2025 - 6 StR 264/25](6-str-264-25.md) — Strafrechtliche Einordnung der gewaltsamen Inpfandnahme illegaler Betäubungsmittel zur Durchsetzung zivilrechtlich nichtiger Geldforderungen
+- [BGH, Beschluss vom 08.07.2025 - 6 StR 29/25](6-str-29-25.md) — BGH, Beschluss 6 StR 29/25
+- [BGH, Beschluss vom 26.06.2025 - 6 StR 121/25](6-str-121-25.md) — Revision in Strafsachen: Ausschluss des Beruhens des Urteils auf der unzulänglichen Ablehnung eines Beweisantrags
+- [BGH, Beschluss vom 26.06.2025 - 6 StR 202/25](6-str-202-25.md) — Abgrenzung von Abgabe und Verabreichen von Betäubungsmitteln
+- [BGH, Beschluss vom 26.06.2025 - 6 StR 203/25](6-str-203-25.md) — BGH, Beschluss 6 StR 203/25
+- [BGH, Beschluss vom 26.06.2025 - 6 StR 212/25](6-str-212-25.md) — BGH, Beschluss 6 StR 212/25
+- [BGH, Beschluss vom 26.06.2025 - 6 StR 222/25](6-str-222-25.md) — BGH, Beschluss 6 StR 222/25
+- [BGH, Urteil vom 26.06.2025 - 6 StR 668/24](6-str-668-24.md) — BGH, Urteil 6 StR 668/24
+- [BGH, Beschluss vom 25.06.2025 - 6 StR 117/25](6-str-117-25.md) — Voraussetzungen einer gefährlichen Körperverletzung „mittels einer Waffe“
+- [BGH, Beschluss vom 25.06.2025 - 6 StR 207/25](6-str-207-25.md) — BGH, Beschluss 6 StR 207/25
+- [BGH, Beschluss vom 24.06.2025 - 6 StR 160/25](6-str-160-25.md) — BGH, Beschluss 6 StR 160/25
+- [BGH, Beschluss vom 24.06.2025 - 6 StR 226/25](6-str-226-25.md) — BGH, Beschluss 6 StR 226/25
+- [BGH, Beschluss vom 24.06.2025 - 6 StR 228/25](6-str-228-25.md) — BGH, Beschluss 6 StR 228/25
+- [BGH, Beschluss vom 24.06.2025 - 6 StR 244/25](6-str-244-25.md) — BGH, Beschluss 6 StR 244/25
+- [BGH, Urteil vom 12.06.2025 - 6 StR 233/24](6-str-233-24.md) — Untreue eines Vermögensbetreuungspflichtigen durch Überschreiten der erlaubten Grenzen unternehmerischen Handelns
+- [BGH, Beschluss vom 12.06.2025 - 6 StR 557/24](6-str-557-24.md) — Zum Vermögensschaden des Pay-TV-Anbieters beim sog. Cardsharing.
+- [BGH, Beschluss vom 11.06.2025 - 6 StR 185/25](6-str-185-25.md) — BGH, Beschluss 6 StR 185/25
+- [BGH, Urteil vom 11.06.2025 - 6 StR 662/24](6-str-662-24.md) — BGH, Urteil 6 StR 662/24
+- [BGH, Beschluss vom 10.06.2025 - 6 StR 146/25](6-str-146-25.md) — BGH, Beschluss 6 StR 146/25
+- [BGH, Beschluss vom 10.06.2025 - 6 StR 163/25](6-str-163-25.md) — BGH, Beschluss 6 StR 163/25
+- [BGH, Beschluss vom 10.06.2025 - 6 StR 176/25](6-str-176-25.md) — BGH, Beschluss 6 StR 176/25
+- [BGH, Beschluss vom 10.06.2025 - 6 StR 66/25](6-str-66-25.md) — Unterbringung in einer Entziehungsanstalt: Heranziehung statistischer Werte bei der Prüfung der Erfolgsaussicht einer Drogentherapie; Begriff des Hangs nach der
+- [BGH, Beschluss vom 10.06.2025 - 6 StR 683/24](6-str-683-24.md) — BGH, Beschluss 6 StR 683/24
+- [BGH, Beschluss vom 27.05.2025 - 6 StR 133/25](6-str-133-25.md) — Gefährlichkeitsprognose bei Unterbringung in psychiatrischem Krankenhaus; Versagung der Strafaussetzung zur Bewährung
+- [BGH, Beschluss vom 27.05.2025 - 6 StR 294/24](6-str-294-24.md) — Konkludente Täuschung bei Abrechnung nicht ordnungsgemäß erbrachter Pflegeleistungen; Rolle der Pflegefachkraft für Erstattungsfähigkeit und Schadensbemessung
+- [BGH, Beschluss vom 15.05.2025 - 6 StR 349/24](6-str-349-24.md) — BGH, Beschluss 6 StR 349/24
+- [BGH, Beschluss vom 15.05.2025 - 6 StR 360/24](6-str-360-24.md) — Besonders schwerer sexueller Übergriff: Verwendung eines Fentanyl-Pflasters als "gefährliches Werkzeug"
+- [BGH, Beschluss vom 15.05.2025 - 6 StR 37/25](6-str-37-25.md) — BGH, Beschluss 6 StR 37/25
+- [BGH, Beschluss vom 15.05.2025 - 6 StR 546/24](6-str-546-24.md) — Strafverurteilung wegen Amtsanmaßung in Mittäterschaft u.a.: Strafbarkeit "falscher Polizeibeamter"
+- [BGH, Beschluss vom 14.05.2025 - 6 StR 25/25](6-str-25-25.md) — Zusammenhang zwischen dem Einsatz des Nötigungsmittels und der Vermögensverfügung im Fall der räuberischen Erpressung; Voraussetzungen eines minderschweren Fall
+- [BGH, Beschluss vom 14.05.2025 - 6 StR 56/25](6-str-56-25.md) — BGH, Beschluss 6 StR 56/25
+- [BGH, Urteil vom 14.05.2025 - 6 StR 623/24](6-str-623-24.md) — Strafverfahren wegen besonders schweren räuberischen Diebstahls: Beweiswürdigung von DNA-Spuren
+- [BGH, Beschluss vom 14.05.2025 - 6 StR 684/24](6-str-684-24.md) — BGH, Beschluss 6 StR 684/24
+- [BGH, Beschluss vom 13.05.2025 - 6 StR 142/25](6-str-142-25.md) — BGH, Beschluss 6 StR 142/25
+- [BGH, Beschluss vom 13.05.2025 - 6 StR 621/24](6-str-621-24.md) — BGH, Beschluss 6 StR 621/24
+- [BGH, Urteil vom 30.04.2025 - 6 StR 326/24](6-str-326-24.md) — Voraussetzungen des Verschleierns bei einer sogenannten Selbstgeldwäsche; Vortatbeteiligung des Gehilfen
+- [BGH, Urteil vom 30.04.2025 - 6 StR 5/25](6-str-5-25.md) — BGH, Urteil 6 StR 5/25
+- [BGH, Beschluss vom 30.04.2025 - 6 StR 693/24](6-str-693-24.md) — Einziehung im Strafverfahren wegen Betrugs: Wertersatzeinziehung bei Mittätern
+- [BGH, Beschluss vom 29.04.2025 - 6 StR 105/25](6-str-105-25.md) — Anforderungen an Konstanzanalyse im Rahmen der Beweiswürdigung bei Aussage-gegen-Aussage-Konstellation
+- [BGH, Beschluss vom 29.04.2025 - 6 StR 36/25](6-str-36-25.md) — BGH, Beschluss 6 StR 36/25
+- [BGH, Beschluss vom 29.04.2025 - 6 StR 521/24](6-str-521-24.md) — BGH, Beschluss 6 StR 521/24
+- [BGH, Beschluss vom 29.04.2025 - 6 StR 575/24](6-str-575-24.md) — Einziehung des Wertes von Taterträgen bei Rückgabeverzicht und faktischer Mitverfügungsgewalt
+- [BGH, Beschluss vom 29.04.2025 - 6 StR 589/24](6-str-589-24.md) — BGH, Beschluss 6 StR 589/24
+- [BGH, Beschluss vom 29.04.2025 - 6 StR 688/24](6-str-688-24.md) — Schwerer sexueller Missbrauch von Kindern: Ablehnung eines minder schweren Falls trotz gewichtiger Strafmilderungsgründe und Fehlens strafschärfender Umstände
+- [BGH, Beschluss vom 28.04.2025 - 6 StR 167/25](6-str-167-25.md) — BGH, Beschluss 6 StR 167/25
+- [BGH, Beschluss vom 28.04.2025 - 6 StR 7/25](6-str-7-25.md) — BGH, Beschluss 6 StR 7/25
+- [BGH, Beschluss vom 17.04.2025 - 6 StR 90/25](6-str-90-25.md) — BGH, Beschluss 6 StR 90/25
+- [BGH, Beschluss vom 15.04.2025 - 6 StR 675/24](6-str-675-24.md) — BGH, Beschluss 6 StR 675/24
+- [BGH, Beschluss vom 03.04.2025 - 6 StR 6/25](6-str-6-25.md) — BGH, Beschluss 6 StR 6/25
+- [BGH, Urteil vom 02.04.2025 - 6 StR 336/24](6-str-336-24.md) — Ausschluss einer Gesamtstrafenbildung: Härteausgleich bei Zusammentreffen einer erledigten Geldstrafe und einer zeitigen Freiheitsstrafe
+- [BGH, Urteil vom 02.04.2025 - 6 StR 482/24](6-str-482-24.md) — Verhängung einer Jugendstrafe wegen Schwere der Schuld bei besonders schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 20.03.2025 - 6 StR 480/24](6-str-480-24.md) — BGH, Beschluss 6 StR 480/24
+- [BGH, Beschluss vom 20.03.2025 - 6 StR 625/24](6-str-625-24.md) — BGH, Beschluss 6 StR 625/24
+- [BGH, Beschluss vom 20.03.2025 - 6 StR 70/25](6-str-70-25.md) — BGH, Beschluss 6 StR 70/25
+- [BGH, Urteil vom 19.03.2025 - 6 StR 412/24](6-str-412-24.md) — BGH, Urteil 6 StR 412/24
+- [BGH, Urteil vom 19.03.2025 - 6 StR 470/24](6-str-470-24.md) — Beweisverwertungsverbot bei Vernehmung in ermüdetem Zustand; Handeltreiben mit Betäubungsmitteln; Einziehungsentscheidung
+- [BGH, Urteil vom 19.03.2025 - 6 StR 543/24](6-str-543-24.md) — BGH, Urteil 6 StR 543/24
+- [BGH, Beschluss vom 19.03.2025 - 6 StR 566/24](6-str-566-24.md) — BGH, Beschluss 6 StR 566/24
+- [BGH, Beschluss vom 19.03.2025 - 6 StR 585/24](6-str-585-24.md) — Revisionsrechtliche Überprüfung eines Schuldspruchs wegen schwerer Körperverletzung; Feststellungen zu einer Zurechnung der schweren Folge
+- [BGH, Beschluss vom 18.03.2025 - 6 StR 146/24](6-str-146-24.md) — Sexueller Kindesmissbrauch: Anforderungen an die Beweiswürdigung in Aussage-gegen-Aussage-Konstellationen
+- [BGH, Beschluss vom 18.03.2025 - 6 StR 53/25](6-str-53-25.md) — BGH, Beschluss 6 StR 53/25
+- [BGH, Beschluss vom 18.03.2025 - 6 StR 81/25](6-str-81-25.md) — BGH, Beschluss 6 StR 81/25
+- [BGH, Beschluss vom 17.03.2025 - 6 StR 101/24](6-str-101-24.md) — BGH, Beschluss 6 StR 101/24
+- [BGH, Beschluss vom 17.03.2025 - 6 StR 30/25](6-str-30-25.md) — BGH, Beschluss 6 StR 30/25
+- [BGH, Beschluss vom 17.03.2025 - 6 StR 34/25](6-str-34-25.md) — BGH, Beschluss 6 StR 34/25
+- [BGH, Beschluss vom 06.03.2025 - 6 StR 524/24](6-str-524-24.md) — BGH, Beschluss 6 StR 524/24
+- [BGH, Beschluss vom 05.03.2025 - 6 StR 10/25](6-str-10-25.md) — BGH, Beschluss 6 StR 10/25
+- [BGH, Urteil vom 05.03.2025 - 6 StR 284/24](6-str-284-24.md) — BGH, Urteil 6 StR 284/24
+- [BGH, Beschluss vom 05.03.2025 - 6 StR 32/25](6-str-32-25.md) — BGH, Beschluss 6 StR 32/25
+- [BGH, Beschluss vom 05.03.2025 - 6 StR 38/25](6-str-38-25.md) — BGH, Beschluss 6 StR 38/25
+- [BGH, Urteil vom 05.03.2025 - 6 StR 508/24](6-str-508-24.md) — BGH, Urteil 6 StR 508/24
+- [BGH, Beschluss vom 05.03.2025 - 6 StR 663/24](6-str-663-24.md) — Einziehung von Taterträgen aus Betäubungsmittelgeschäften: Herkunft der Einziehungsgegenstände als Voraussetzung einer erweiterten Einziehung
+- [BGH, Beschluss vom 20.02.2025 - 6 StR 335/24](6-str-335-24.md) — BGH, Beschluss 6 StR 335/24
+- [BGH, Beschluss vom 20.02.2025 - 6 StR 700/24](6-str-700-24.md) — BGH, Beschluss 6 StR 700/24
+- [BGH, Beschluss vom 19.02.2025 - 6 StR 22/25](6-str-22-25.md) — BGH, Beschluss 6 StR 22/25
+- [BGH, Urteil vom 19.02.2025 - 6 StR 526/24](6-str-526-24.md) — Beihilfe zum Diebstahl: Anforderungen an die Urteilsfeststellungen
+- [BGH, Beschluss vom 19.02.2025 - 6 StR 685/24](6-str-685-24.md) — Darstellungsanforderungen an das Tatgericht bei schwieriger Beweislage
+- [BGH, Beschluss vom 18.02.2025 - 6 StR 318/24](6-str-318-24.md) — Strafverfahren: Anspruch des Angeklagten auf Verlesung und Protokollierung einer schriftlichen Einlassung
+- [BGH, Beschluss vom 18.02.2025 - 6 StR 458/24](6-str-458-24.md) — Einziehung von Wertersatz im Strafverfahren: Prozessuale Anforderungen an die Einziehungsentscheidung
+- [BGH, Beschluss vom 18.02.2025 - 6 StR 617/24](6-str-617-24.md) — BGH, Beschluss 6 StR 617/24
+- [BGH, Beschluss vom 06.02.2025 - 6 StR 550/24](6-str-550-24.md) — BGH, Beschluss 6 StR 550/24
+- [BGH, Beschluss vom 06.02.2025 - 6 StR 560/24](6-str-560-24.md) — BGH, Beschluss 6 StR 560/24
+- [BGH, Beschluss vom 06.02.2025 - 6 StR 65/24](6-str-65-24.md) — BGH, Beschluss 6 StR 65/24
+- [BGH, Urteil vom 05.02.2025 - 6 StR 245/24](6-str-245-24.md) — Strafverurteilung wegen besonders schwerer Vergewaltigung: Täter-Opfer-Ausgleich bei mangelndem Vollgeständnis des Angeklagten
+- [BGH, Urteil vom 05.02.2025 - 6 StR 406/24](6-str-406-24.md) — BGH, Urteil 6 StR 406/24
+- [BGH, Beschluss vom 05.02.2025 - 6 StR 418/24](6-str-418-24.md) — Vergewaltigung und sexueller Missbrauch von Schutzbefohlenen bei Verwendung von Diazepam
+- [BGH, Beschluss vom 05.02.2025 - 6 StR 539/24](6-str-539-24.md) — BGH, Beschluss 6 StR 539/24
+- [BGH, Beschluss vom 04.02.2025 - 6 StR 527/24](6-str-527-24.md) — BGH, Beschluss 6 StR 527/24
+- [BGH, Beschluss vom 23.01.2025 - 6 StR 569/24](6-str-569-24.md) — Strafverurteilung wegen besonders schweren Raubes u.a.: Schwere körperliche Misshandlung bei der Tat
+- [BGH, Beschluss vom 23.01.2025 - 6 StR 620/24](6-str-620-24.md) — BGH, Beschluss 6 StR 620/24
+- [BGH, Urteil vom 22.01.2025 - 6 StR 171/24](6-str-171-24.md) — Strafverurteilung wegen versuchten Totschlag in einem minder schweren Fall u.a.: Strafzumessung und Strafaussetzung zur Bewährung
+- [BGH, Urteil vom 22.01.2025 - 6 StR 387/24](6-str-387-24.md) — Verurteilung wegen besonders schweren sexuellen Übergriffs in Tateinheit mit gefährlicher Körperverletzung
+- [BGH, Beschluss vom 22.01.2025 - 6 StR 607/24](6-str-607-24.md) — Weisung während der Führungsaufsicht im Hinblick auf Verhältnismäßigkeit und Bestimmtheit gegenüber einem seelisch erkrankten Täter
+- [BGH, Beschluss vom 22.01.2025 - 6 StR 643/24](6-str-643-24.md) — BGH, Beschluss 6 StR 643/24
+- [BGH, Beschluss vom 21.01.2025 - 6 StR 534/24](6-str-534-24.md) — BGH, Beschluss 6 StR 534/24
+- [BGH, Beschluss vom 21.01.2025 - 6 StR 634/24](6-str-634-24.md) — BGH, Beschluss 6 StR 634/24
+- [BGH, Beschluss vom 21.01.2025 - 6 StR 676/24](6-str-676-24.md) — Tankbetrug: Abgrenzung zwischen Vollendung und Versuch
+- [BGH, Urteil vom 08.01.2025 - 6 StR 241/24](6-str-241-24.md) — Einziehung von Bargeld bei ungeklärter gegenständlicher Existenz und Herkunft im Betäubungsmittelkontext
+- [BGH, Beschluss vom 08.01.2025 - 6 StR 417/24](6-str-417-24.md) — BGH, Beschluss 6 StR 417/24
+- [BGH, Urteil vom 08.01.2025 - 6 StR 495/24](6-str-495-24.md) — Heimtückischer Überraschungsangriff im öffentlichen Raum bei Beziehungskonflikt
+- [BGH, Beschluss vom 08.01.2025 - 6 StR 597/24](6-str-597-24.md) — Bei der Steuerungsfähigkeit geht es um die Fähigkeit, entsprechend der Unrechtseinsicht zu handeln, also um Hemmungsvermögen, Willenssteuerung und Entscheidungs
+- [BGH, Beschluss vom 08.01.2025 - 6 StR 654/24](6-str-654-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung der Unterbringungsentscheidung bei Feststellung einer Intelligenzminderung
+- [BGH, Beschluss vom 07.01.2025 - 6 StR 481/24](6-str-481-24.md) — Bewertung des Zusammenwirkens mehrerer Täter bei gefährlicher Körperverletzung
+- [BGH, Beschluss vom 07.01.2025 - 6 StR 583/24](6-str-583-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldfähigkeit bei akuter polymorpher psychotischer Störung ohne Symptome einer Schizophrenie
+- [BGH, Beschluss vom 07.01.2025 - 6 StR 633/24](6-str-633-24.md) — BGH, Beschluss 6 StR 633/24
+- [BGH, Beschluss vom 07.01.2025 - 6 StR 651/24](6-str-651-24.md) — BGH, Beschluss 6 StR 651/24

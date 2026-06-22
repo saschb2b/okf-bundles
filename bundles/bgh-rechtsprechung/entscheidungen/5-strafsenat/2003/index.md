@@ -1,0 +1,42 @@
+# 5. Strafsenat – 2003
+
+38 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.12.2003 - 5 StR 501/03](5-str-501-03.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 17.12.2003 - 5 StR 504/03](5-str-504-03.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 17.12.2003 - 5 StR 514/03](5-str-514-03.md) — Beihilfe zur Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 16.12.2003 - 5 StR 262/03](5-str-262-03.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Urteil vom 16.12.2003 - 5 StR 458/03](5-str-458-03.md) — Totschlags u.a.
+- [BGH, Beschluss vom 16.12.2003 - 5 StR 459/03](5-str-459-03.md) — Geiselnahme u.a.
+- [BGH, Urteil vom 04.12.2003 - 5 StR 250/03](5-str-250-03.md) — Anstiftung zum Mord u.a.
+- [BGH, Urteil vom 30.10.2003 - 5 StR 256/03](5-str-256-03.md) — Totschlags
+- [BGH, Beschluss vom 30.10.2003 - 5 StR 416/03](5-str-416-03.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 29.10.2003 - 5 ARs 63/03](5-ars-63-03.md) — vorsätzlichen Vollrausches hier: Anfragebeschluß vom 5. August 2003 – 4 StR 147/03
+- [BGH, Beschluss vom 29.10.2003 - 5 StR 378/03](5-str-378-03.md) — Beihilfe zum versuchten Mord u.a.
+- [BGH, Beschluss vom 28.10.2003 - 5 ARs 67/03](5-ars-67-03.md) — zu 1. Betruges u.a. zu 2. schwerer räuberischer Erpressung zu 3. unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.
+- [BGH, Urteil vom 28.10.2003 - 5 StR 121/03](5-str-121-03.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 28.10.2003 - 5 StR 411/03](5-str-411-03.md) — erpresserischen Menschenraubes u.a.
+- [BGH, Beschluss vom 28.10.2003 - 5 StR 453/03](5-str-453-03.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 16.10.2003 - 5 StR 290/03](5-str-290-03.md) — Einschleusens von Ausländern
+- [BGH, Beschluss vom 16.10.2003 - 5 StR 436/03](5-str-436-03.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 15.10.2003 - 5 StR 305/03](5-str-305-03.md) — versuchten Totschlags
+- [BGH, Beschluss vom 14.10.2003 - 5 StR 426/03](5-str-426-03.md) — BGH, Beschluss vom 14.10.2003 - 5 StR 426/03
+- [BGH, Beschluss vom 22.09.2003 - 5 StR 389/03](5-str-389-03.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 22.09.2003 - 5 StR 418/03](5-str-418-03.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 27.08.2003 - 5 StR 341/03](5-str-341-03.md) — Mordes
+- [BGH, Urteil vom 31.07.2003 - 5 StR 581/02](5-str-581-02.md) — Mordes u.a.
+- [BGH, Beschluss vom 30.07.2003 - 5 StR 221/03](5-str-221-03.md) — vorsätzlicher Konkursverschleppung u.a.
+- [BGH, Beschluss vom 30.07.2003 - 5 StR 312/03](5-str-312-03.md) — versuchter schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 22.07.2003 - 5 StR 22/03](5-str-22-03.md) — Betruges
+- [BGH, Urteil vom 20.05.2003 - 5 StR 66/03](5-str-66-03.md) — Totschlags
+- [BGH, Urteil vom 07.05.2003 - 5 StR 556/02](5-str-556-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 07.04.2003 - 5 StR 407/02](5-str-407-02.md) — Urkundenfälschung u.a.
+- [BGH, Beschluss vom 26.03.2003 - 5 StR 45/03](5-str-45-03.md) — Betruges u.a.
+- [BGH, Beschluss vom 25.03.2003 - 5 StR 48/03](5-str-48-03.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.02.2003 - 5 StR 423/02](5-str-423-02.md) — Geldwäsche aufgrund der Vorrangklausel des § 261 Abs. 9 Satz 2 StGB nicht zu erwarten und die der Geldwäsche zugrundeliegende Tat keine Kata
+- [BGH, Urteil vom 15.01.2003 - 5 StR 223/02](5-str-223-02.md) — Totschlags
+- [BGH, Beschluss vom 15.01.2003 - 5 StR 525/02](5-str-525-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 15.01.2003 - 5 StR 541/02](5-str-541-02.md) — Mordes
+- [BGH, Beschluss vom 14.01.2003 - 5 StR 498/02](5-str-498-02.md) — bewaffneten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 13.01.2003 - 5 StR 542/02](5-str-542-02.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 13.01.2003 - 5 StR 544/02](5-str-544-02.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.

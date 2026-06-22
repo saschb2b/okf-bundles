@@ -1,0 +1,46 @@
+# XIII. Zivilsenat – 2024
+
+42 Entscheidung(en).
+
+- [BGH, Urteil vom 12.11.2024 - XIII ZR 3/24](xiii-zr-3-24.md) — Technologiebonus Wird Strom in einer Biomasseanlage produziert, die in Kraft-Wärme-Kopplung betrieben wird und die zudem mit einer Organic-Rankine-Anlage ausges
+- [BGH, Beschluss vom 29.10.2024 - XIII ZB 25/22](xiii-zb-25-22.md) — BGH, Beschluss XIII ZB 25/22
+- [BGH, Beschluss vom 29.10.2024 - XIII ZB 53/21](xiii-zb-53-21.md) — Ausreisegewahrsam, unverschuldete Verhinderung an der Ausreise Ein vollziehbar zur Ausreise verpflichteter Ausländer ist während des Vollzugs einer Freiheitsstr
+- [BGH, Beschluss vom 29.10.2024 - XIII ZB 76/24](xiii-zb-76-24.md) — Verlängerung der Zurückweisungshaft nach Anhörung des Betroffenen ohne anwaltlichen Beistand
+- [BGH, Beschluss vom 15.10.2024 - XIII ZB 54/21](xiii-zb-54-21.md) — BGH, Beschluss XIII ZB 54/21
+- [BGH, Beschluss vom 17.09.2024 - XIII ZB 23/22](xiii-zb-23-22.md) — Zum organisatorischen Spielraum der Ausländerbehörde bei Abschiebungshaft (hier: Rückführung mit Charterflug anstelle des ursprünglich geplanten früheren Linien
+- [BGH, Beschluss vom 17.09.2024 - XIII ZB 67/20](xiii-zb-67-20.md) — Ein Verstoß gegen den Grundsatz des fairen Verfahrens liegt nicht vor, wenn ein verfahrensbevollmächtigter Rechtsanwalt in einem Freiheitsentziehungsverfahren v
+- [BGH, Beschluss vom 17.09.2024 - XIII ZB 71/22](xiii-zb-71-22.md) — 1. Ist der Aufenthalt eines Ausländers bestandskräftig auf den Bezirk einer Ausländerbehörde beschränkt, kann er einen gewöhnlichen Aufenthalt an einem anderen 
+- [BGH, Beschluss vom 10.09.2024 - XIII ZB 52/21](xiii-zb-52-21.md) — Wünscht ein Betroffener, dass von der Haftanordnung eine bestimmte Person seines Vertrauens oder ein bestimmter Angehöriger (hier: seine Ehefrau) benachrichtigt
+- [BGH, Beschluss vom 10.09.2024 - XIII ZB 72/20](xiii-zb-72-20.md) — BGH, Beschluss XIII ZB 72/20
+- [BGH, Beschluss vom 23.07.2024 - XIII ZB 36/24](xiii-zb-36-24.md) — Verhältnismäßigkeit der Anordnung der Sicherungshaft eines ausreisepflichtigen libyschen Staatsangehörigen
+- [BGH, Beschluss vom 09.07.2024 - XIII ZB 44/23](xiii-zb-44-23.md) — Anordnung der Haft zur Sicherung der Abschiebung eines Betroffenen; Stellung eines Haftaufhebungsantrags durch Person des Vertrauens
+- [BGH, Urteil vom 25.06.2024 - XIII ZR 10/22](xiii-zr-10-22.md) — Formaldehydbonus Ein Anspruch auf erhöhte Vergütung bei Einhaltung der Formaldehydgrenzwerte ("Formaldehydbonus") kann auch nach Inbetriebnahme einer Biogasanla
+- [BGH, Beschluss vom 11.06.2024 - XIII ZA 2/24](xiii-za-2-24.md) — § 62d AufenthG begründet keine Pflicht zur Bestellung eines beim Bundesgerichtshof zugelassenen Rechtsanwalts für die Durchführung eines Rechtsbeschwerdeverfahr
+- [BGH, Beschluss vom 11.06.2024 - XIII ZB 35/21](xiii-zb-35-21.md) — BGH, Beschluss XIII ZB 35/21
+- [BGH, Beschluss vom 11.06.2024 - XIII ZB 36/21](xiii-zb-36-21.md) — BGH, Beschluss XIII ZB 36/21
+- [BGH, Beschluss vom 11.06.2024 - XIII ZB 49/21](xiii-zb-49-21.md) — Dem Betroffenen müssen vor seiner gerichtlichen Anhörung wesentliche Ergänzungen und Änderungen des Haftantrags in geeigneter Weise mitgeteilt und erforderliche
+- [BGH, Beschluss vom 11.06.2024 - XIII ZB 62/22](xiii-zb-62-22.md) — BGH, Beschluss XIII ZB 62/22
+- [BGH, Beschluss vom 09.04.2024 - XIII ZB 7/22](xiii-zb-7-22.md) — Beschleunigungsgebot im Haftbeschwerdeverfahren Die überlange Dauer eines Beschwerdeverfahrens gegen die Anordnung von Sicherungshaft verstößt gegen das auch fü
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 1/23](xiii-zb-1-23.md) — BGH, Beschluss XIII ZB 1/23
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 2/22](xiii-zb-2-22.md) — BGH, Beschluss XIII ZB 2/22
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 25/21](xiii-zb-25-21.md) — BGH, Beschluss XIII ZB 25/21
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 29/21](xiii-zb-29-21.md) — 1. Die gemeinsame persönliche Anhörung von Betroffenen, gegen die jeweils Haft zur Sicherung der Abschiebung beantragt worden ist, verstößt gegen die für die ri
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 30/22](xiii-zb-30-22.md) — 1. Die Unterbringung eines Drittstaatsangehörigen zur Sicherung der Abschiebung darf gemäß Art. 16 Abs. 1 Satz 2 RL 2008/115 jedenfalls für eine Nacht in der bi
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 34/22](xiii-zb-34-22.md) — Anordnung der Sicherungshaft ohne Anhörung des positiv auf Corona getesteten Betroffenen
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 44/21](xiii-zb-44-21.md) — Ein Antrag auf Anordnung von Abschiebungshaft oder von Ausreisegewahrsam ist unbegründet, wenn ein Abschiebungshindernis vorliegt, die deutschen Behörden von di
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 5/23](xiii-zb-5-23.md) — BGH, Beschluss XIII ZB 5/23
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 69/21](xiii-zb-69-21.md) — BGH, Beschluss XIII ZB 69/21
+- [BGH, Beschluss vom 26.03.2024 - XIII ZB 85/22](xiii-zb-85-22.md) — Unterbringung in speziellen Hafteinrichtungen Die Unterbringung eines Abschiebungsgefangenen ist rechtswidrig, wenn sich der Zwang, dem er ausgesetzt ist, nicht
+- [BGH, Beschluss vom 05.03.2024 - XIII ZB 12/22](xiii-zb-12-22.md) — 1. Ein Antrag der zuständigen Verwaltungsbehörde ist für die Anordnung der sofortigen Wirksamkeit der Haftanordnung nicht erforderlich. 2. Bescheinigt der im är
+- [BGH, Beschluss vom 05.03.2024 - XIII ZB 18/22](xiii-zb-18-22.md) — BGH, Beschluss XIII ZB 18/22
+- [BGH, Beschluss vom 05.03.2024 - XIII ZB 20/22](xiii-zb-20-22.md) — Wird einer Haftbeschwerde nach erneuter Anhörung des Betroffenen teilweise abgeholfen und die Haft im Übrigen aufrechterhalten, ist der Vollzug der Haft ab dem 
+- [BGH, Beschluss vom 05.03.2024 - XIII ZB 41/22](xiii-zb-41-22.md) — BGH, Beschluss XIII ZB 41/22
+- [BGH, Beschluss vom 05.03.2024 - XIII ZB 65/22](xiii-zb-65-22.md) — Die wörtliche Übernahme von Teilen eines Haftantrags durch den Haftrichter rechtfertigt nicht die Annahme, dass eine eigenverantwortliche Prüfung durch den Rich
+- [BGH, Beschluss vom 05.03.2024 - XIII ZB 75/22](xiii-zb-75-22.md) — BGH, Beschluss XIII ZB 75/22
+- [BGH, Beschluss vom 22.02.2024 - XIII ZA 1/24](xiii-za-1-24.md) — BGH, Beschluss XIII ZA 1/24
+- [BGH, Beschluss vom 20.02.2024 - XIII ZB 24/21](xiii-zb-24-21.md) — BGH, Beschluss XIII ZB 24/21
+- [BGH, Beschluss vom 20.02.2024 - XIII ZB 29/22](xiii-zb-29-22.md) — Ein Verstoß gegen das Beschleunigungsgebot in Freiheitsentziehungssachen liegt nicht vor, wenn die Ausländerbehörde in der unzutreffenden Annahme, eine Abschieb
+- [BGH, Beschluss vom 20.02.2024 - XIII ZB 42/21](xiii-zb-42-21.md) — Dem nach Erledigung als Feststellungsantrag weiterverfolgten Haftaufhebungsantrag steht nicht die materielle Rechtskraft der Entscheidung des Landgerichts über 
+- [BGH, Beschluss vom 30.01.2024 - XIII ZB 4/22](xiii-zb-4-22.md) — BGH, Beschluss XIII ZB 4/22
+- [BGH, Beschluss vom 30.01.2024 - XIII ZB 90/20](xiii-zb-90-20.md) — BGH, Beschluss XIII ZB 90/20
+- [BGH, Beschluss vom 16.01.2024 - XIII ZB 46/20](xiii-zb-46-20.md) — BGH, Beschluss XIII ZB 46/20

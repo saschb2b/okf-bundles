@@ -1,0 +1,147 @@
+# 1. Strafsenat – 2016
+
+143 Entscheidung(en).
+
+- [BGH, Beschluss vom 22.12.2016 - 1 StR 571/16](1-str-571-16.md) — Tötungsdelikt: Bedingter Tötungsvorsatz
+- [BGH, Beschluss vom 21.12.2016 - 1 StR 112/16](1-str-112-16.md) — Steuerhinterziehung: Beihilfe durch berufstypische Handlungen eines Rechtsanwalts
+- [BGH, Urteil vom 21.12.2016 - 1 StR 253/16](1-str-253-16.md) — Widerrechtliches Parken: Nötigung und Erpressung durch Anbringen einer Parkkralle an Pkw oder Abschleppen an nicht genannten Ort
+- [BGH, Beschluss vom 21.12.2016 - 1 StR 375/16](1-str-375-16.md) — Mordmerkmal: Tötung mit gemeingefährlichen Mitteln
+- [BGH, Urteil vom 21.12.2016 - 1 StR 399/16](1-str-399-16.md) — Strafverfahren: Anforderungen an die Gefährlichkeitsprognose bei Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 21.12.2016 - 1 StR 594/16](1-str-594-16.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung der Unterbringungsvoraussetzungen im Urteil
+- [BGH, Beschluss vom 20.12.2016 - 1 StR 177/16](1-str-177-16.md) — Eine Strafbarkeit nach § 42 StAG ist nicht gegeben, wenn im Einbürgerungsverfahren unrichtige oder unvollständige Angaben über inländische Strafverurteilungen g
+- [BGH, Beschluss vom 20.12.2016 - 1 StR 505/16](1-str-505-16.md) — Steuerhinterziehung: Schätzung der Besteuerungsgrundlagen
+- [BGH, Beschluss vom 20.12.2016 - 1 StR 617/16](1-str-617-16.md) — Strafverfahren: Entscheidung des Revisionsgerichts über die Kompensation von Verfahrensverzögerungen
+- [BGH, Urteil vom 08.12.2016 - 1 StR 344/16](1-str-344-16.md) — Abgrenzung zwischen Körperverletzung und Tötungsversuch: Bedingter Tötungsvorsatz bei Würgen der Ehefrau; notwendige Einzelfallprüfung unter Berücksichtigung ge
+- [BGH, Urteil vom 08.12.2016 - 1 StR 351/16](1-str-351-16.md) — Gemeinschaftliche gefährliche Körperverletzung und Schmerzensgeld: Voraussetzungen der Unterbringung in einer Entziehungsanstalt; Strafzumessung und fehlender M
+- [BGH, Beschluss vom 08.12.2016 - 1 StR 389/16](1-str-389-16.md) — Steuerhinterziehung durch Nichteinreichung der Umsatzsteuerjahreserklärung: Beendigung der Tat mit Verstreichenlassen des Fälligkeitszeitpunkts; Voraussetzungen
+- [BGH, Beschluss vom 08.12.2016 - 1 StR 492/16](1-str-492-16.md) — Untreue: Strafzumessung bei drohender berufsgerichtlicher Maßnahme gegenüber einem Steuerberater
+- [BGH, Beschluss vom 08.12.2016 - 1 StR 542/16](1-str-542-16.md) — Steuerhehlerei: "Sich-Verschaffen" von unversteuert und unverzollt eingeführtem Feinschnitttabak
+- [BGH, Beschluss vom 07.12.2016 - 1 StR 185/16](1-str-185-16.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt und Steuerhinterziehung: Verjährungsunterbrechende Maßnahmen; Hochrechnung der Schwarzlohnsumme auf eine Bruttol
+- [BGH, Beschluss vom 07.12.2016 - 1 StR 305/16](1-str-305-16.md) — Revisionsrüge der ungesetzlichen Erweiterung der Öffentlichkeit: Beruhen des Strafurteils auf dem Verfahrensverstoß
+- [BGH, Beschluss vom 07.12.2016 - 1 StR 358/16](1-str-358-16.md) — Unterlassene Gesamtstrafenbildung: Absehen von der Einbeziehung nicht erledigter Geldstrafen; Anforderungen an die Urteilsbegründung bei selbstständiger Verhäng
+- [BGH, Beschluss vom 07.12.2016 - 1 StR 487/16](1-str-487-16.md) — Verfahrensrüge in Strafsachen: Ausschluss der Öffentlichkeit beim letzten Wort des Angeklagten
+- [BGH, Urteil vom 22.11.2016 - 1 StR 329/16](1-str-329-16.md) — Betäubungsmitteldelikte: Abgrenzung der unerlaubten Abgabe von der unerlaubten Verbrauchsüberlassung an Minderjährige; Konkurrenz zwischen mehreren Fällen des u
+- [BGH, Urteil vom 22.11.2016 - 1 StR 354/16](1-str-354-16.md) — Bei einer Körperverletzung durch Unterlassen mit Todesfolge ist der erforderliche spezifische Gefahrzusammenhang regelmäßig – soweit nicht allgemeine Gründe für
+- [BGH, Beschluss vom 21.11.2016 - 1 StR 526/16](1-str-526-16.md) — Wiedereinsetzung in den vorigen Stand nach Versäumung der Revisionseinlegungsfrist im Strafverfahren: Fehlendes Verschulden bei Unkenntnis von gesetzlichen Best
+- [BGH, Beschluss vom 10.11.2016 - 1 StR 417/16](1-str-417-16.md) — Bemessung der Gesamtstrafe durch Beurteilung der einzelnen Taten
+- [BGH, Beschluss vom 10.11.2016 - 1 StR 453/16](1-str-453-16.md) — Strafurteil: Anforderungen an die Bezeichnung einzuziehender Gegenstände im Urteilstenor
+- [BGH, Urteil vom 08.11.2016 - 1 StR 325/16](1-str-325-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Abgrenzung von Mittäterschaft und Gehilfentätigkeit des Drogenkuriers; Einziehung des nicht im Eigentum des Tät
+- [BGH, Urteil vom 08.11.2016 - 1 StR 492/15](1-str-492-15.md) — Unerlaubte Einfuhr und unerlaubter Besitz von Betäubungsmitteln: Grenzwert der nicht geringen Menge bei Schlafmohnkapseln
+- [BGH, Urteil vom 26.10.2016 - 1 StR 172/16](1-str-172-16.md) — Steuerstrafsache: Verjährungsfrist bei Hinterziehung von Veranlagungssteuern; Mitteilungspflicht über Verständigungsgespräche; Transparenzverstoß als Revisionsg
+- [BGH, Beschluss vom 25.10.2016 - 1 StR 120/15](1-str-120-15.md) — Rechtswidrige Verständigung über die Höhe des Untreueschadens: Umfang der Urteilsaufhebung
+- [BGH, Beschluss vom 13.10.2016 - 1 StR 366/16](1-str-366-16.md) — Zur Bestimmung des Grenzwerts der nicht geringen Menge bei Pentedron.
+- [BGH, Beschluss vom 13.10.2016 - 1 StR 445/16](1-str-445-16.md) — Sicherungsverfahren: Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus bei Aufhebung der Einsichtsfähigkeit wegen Schizophrenie; Anforderun
+- [BGH, Beschluss vom 12.10.2016 - 1 StR 210/16](1-str-210-16.md) — Hinterziehung von Umsatzsteuer: Berechnung des Steuerschadens bei Umsatzsteuerkarussell
+- [BGH, Urteil vom 12.10.2016 - 1 StR 402/16](1-str-402-16.md) — Abgrenzung von Diebstahl und Betrug: Gewahrsamsübergang in einem mehraktigen Geschehen; irrtumsbedingte Überlassung eines Mobiltelefons für ein Telefonat und Da
+- [BGH, Urteil vom 11.10.2016 - 1 StR 248/16](1-str-248-16.md) — Bedingter Tötungsvorsatz: Anforderungen an die Urteilsfeststellungen und die tatrichterliche Überzeugungsbildung bei einer Kindestötung nach einer Lebendgeburt
+- [BGH, Beschluss vom 11.10.2016 - 1 StR 422/16](1-str-422-16.md) — Gewerbs- und bandenmäßige Fälschung von Zahlungskarten mit Garantiefunktion: Fälschung von Tankkarten von Mitgliedern eines Tankstellenverbundes
+- [BGH, Beschluss vom 11.10.2016 - 1 StR 462/16](1-str-462-16.md) — Wohnmobile und Wohnwagen sind jedenfalls dann, wenn sie Menschen zumindest vorübergehend zur Unterkunft dienen, Wohnung im Sinne des § 244 Abs. 1 Nr. 3 StGB.
+- [BGH, Beschluss vom 22.09.2016 - 1 StR 245/16](1-str-245-16.md) — Umsatzsteuerhinterziehung: Auslegung des Begriffs der Uneinbringlichkeit im Rahmen der Mehrwertsteuersystemrichtlinie
+- [BGH, Beschluss vom 22.09.2016 - 1 StR 316/16](1-str-316-16.md) — Beweiserhebung und Beweiswürdigung im Strafverfahren: Abgrenzung der Inaugenscheinnahme von dem Vorhalt oder der Verlesung einer Urkunde
+- [BGH, Beschluss vom 20.09.2016 - 1 StR 347/16](1-str-347-16.md) — Betäubungsmitteldelikt: Strafzumessung unter Berücksichtigung des Gesamtstrafübels
+- [BGH, Beschluss vom 08.09.2016 - 1 StR 232/16](1-str-232-16.md) — Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge: Tatbeteiligung bei bloßer Veranlassung des Einfuhrvorgangs
+- [BGH, Beschluss vom 08.09.2016 - 1 StR 346/16](1-str-346-16.md) — Verständigung im Strafverfahren: Hinweispflicht auf in Betracht kommende Bewährungsauflagen
+- [BGH, Beschluss vom 08.09.2016 - 1 StR 372/16](1-str-372-16.md) — Totschlag: Vorliegen eines minderschweren Falls bei vorhergehender Beleidigung durch das Tatopfer
+- [BGH, Beschluss vom 08.09.2016 - 1 StR 377/16](1-str-377-16.md) — Anforderungen an die Feststellungen in den Urteilsgründen bei einem Schuldspruch wegen Verstoßes gegen Weisungen während der Führungsaufsicht
+- [BGH, Urteil vom 07.09.2016 - 1 StR 154/16](1-str-154-16.md) — Zu Voraussetzungen und Rechtsfolgen von Verstößen gegen die Unschuldsvermutung.
+- [BGH, Beschluss vom 07.09.2016 - 1 StR 202/16](1-str-202-16.md) — Verabredung zum schweren Bandendiebstahl: Tatverhinderung; Rücktritt von der Verbrechensverabredung; Prüfung von Strafmilderungsgründen
+- [BGH, Beschluss vom 07.09.2016 - 1 StR 293/16](1-str-293-16.md) — Tätige Reue gemäß § 239a Abs. 4 Satz 1 StGB liegt erst dann vor, wenn der Täter das Opfer in seinen Lebensbereich zurückgelangen lässt und zudem auf die erstreb
+- [BGH, Urteil vom 07.09.2016 - 1 StR 422/15](1-str-422-15.md) — Revision im Strafverfahren: Anforderungen an die Erhebung der Besetzungsrüge
+- [BGH, Beschluss vom 07.09.2016 - 1 StR 57/16](1-str-57-16.md) — Steuerhinterziehung: Strafbarkeit eines sog. missing traders im Rahmen eines Umsatzsteuerkarussells
+- [BGH, Urteil vom 06.09.2016 - 1 StR 104/15](1-str-104-15.md) — Strafverfahren wegen Untreue: Verfahrenshindernis bei Verstoß gegen das Verbot überlanger Verfahrensdauer; Einrichten einer "schwarzen Kasse" durch ein Mitglied
+- [BGH, Urteil vom 06.09.2016 - 1 StR 575/15](1-str-575-15.md) — Beihilfe zur Steuerhinterziehung: Würdigung einer Beihilfehandlung als besonders schwerer Fall; Einkommenssteuerpflicht als besonderes persönliches Merkmal
+- [BGH, Beschluss vom 25.08.2016 - 1 StR 290/16](1-str-290-16.md) — Strafbarer Bankrott durch GmbH-Geschäftsführer: Notwendige Urteilsfeststellungen bezüglich des Herbeiführens einer drohenden Zahlungsunfähigkeit; notwendige Dar
+- [BGH, Beschluss vom 24.08.2016 - 1 StR 301/16](1-str-301-16.md) — Rechtsmittelverzicht des Angeklagten: Voraussetzung prozessualer Handlungsfähigkeit des Angeklagten; Wirksamkeit trotz eines durch den Verteidiger hervorgerufen
+- [BGH, Beschluss vom 23.08.2016 - 1 StR 204/16](1-str-204-16.md) — Hinterziehung von Tabaksteuer: Verfallsanordnung hinsichtlich der geschmuggelten Zigaretten; Tabaksteuer als ersparte Aufwendungen; Auswirkungen der Verfallsano
+- [BGH, Urteil vom 11.08.2016 - 1 StR 196/16](1-str-196-16.md) — Strafverfahren wegen Steuerhinterziehung: Kompensation bei rechtsstaatswidriger Verfahrensverzögerung
+- [BGH, Beschluss vom 11.08.2016 - 1 StR 63/16](1-str-63-16.md) — Bankrott: Feststellung der Zahlungsunfähigkeit
+- [BGH, Beschluss vom 10.08.2016 - 1 StR 233/16](1-str-233-16.md) — Steuerstrafverfahren: Schätzung von Besteuerungsgrundlagen
+- [BGH, Urteil vom 09.08.2016 - 1 StR 121/16](1-str-121-16.md) — Untreue zu Lasten einer Kommanditgesellschaft: Verhängung einer Kriminalstrafe auch längere Zeit nach der Tat; Voraussetzungen eines Täter-Opfer-Ausgleichs
+- [BGH, Beschluss vom 09.08.2016 - 1 StR 331/16](1-str-331-16.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Anforderungen an die Prüfung eines minder schweren Falls bei Vorliegen eines gesetzlic
+- [BGH, Beschluss vom 09.08.2016 - 1 StR 334/16](1-str-334-16.md) — Beweisaufnahme im Strafverfahren: Vernehmungsersetzende Verlesung der Stellungnahme eines Sachverständigen
+- [BGH, Beschluss vom 09.08.2016 - 1 StR 52/16](1-str-52-16.md) — Anhörungsrüge im Strafverfahren: Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Antragsfrist; fehlende Rechtsbehelfsbelehrung
+- [BGH, Beschluss vom 27.07.2016 - 1 StR 19/16](1-str-19-16.md) — Steuerhinterziehung: Tabaksteuerpflicht für Wasserpfeifentabak
+- [BGH, Beschluss vom 27.07.2016 - 1 StR 256/16](1-str-256-16.md) — Strafzumessung: Berücksichtigung der drohenden berufsrechtlichen Folgen einer begangenen Straftat; versuchte Steuerhinterziehung durch einen Steuerberater
+- [BGH, Beschluss vom 22.07.2016 - 1 StR 579/15](1-str-579-15.md) — Strafverfahren: Zulässigkeit der Anhörungsrüge
+- [BGH, Beschluss vom 18.07.2016 - 1 StR 315/15](1-str-315-15.md) — Strafverfahren: Vergleichende Strafzumessung bei Verurteilung mehrerer Angeklagter
+- [BGH, Beschluss vom 14.07.2016 - 1 StR 285/16](1-str-285-16.md) — Strafurteil: Notwendige Feststellungen zur Schuldunfähigkeit wegen einer "kombinierten Persönlichkeitsstörung"
+- [BGH, Beschluss vom 13.07.2016 - 1 StR 108/16](1-str-108-16.md) — Steuerhehlerei: Erforderlichkeit eines Absatzerfolges bei Absetzen und Absatzhilfe geschmuggelter Zigaretten
+- [BGH, Urteil vom 13.07.2016 - 1 StR 128/16](1-str-128-16.md) — Versuchter Totschlag: Bedingter Tötungsvorsatz bei lebensgefährdenden Gewalthandlungen
+- [BGH, Beschluss vom 13.07.2016 - 1 StR 279/16](1-str-279-16.md) — Unerlaubter Aufenthalt von Ausländern: Verstoß gegen ein unbefristetes Wiedereinreiseverbot bei Überschreitung der Fünfjahresfrist
+- [BGH, Urteil vom 13.07.2016 - 1 StR 94/16](1-str-94-16.md) — Beihilfe zum Fahrzeugdiebstahl: Anforderungen an die Feststellungen hinsichtlich des Tatbeitrags
+- [BGH, Beschluss vom 12.07.2016 - 1 StR 132/16](1-str-132-16.md) — Steuerhinterziehung: Steuervorteil bei Bewirken eines fehlerhaften Gewerbesteuermessbescheids
+- [BGH, Beschluss vom 12.07.2016 - 1 StR 136/16](1-str-136-16.md) — Verständigung im Strafverfahren: Zulässiger Inhalt und Bindungswirkung der Verständigung
+- [BGH, Urteil vom 12.07.2016 - 1 StR 595/15](1-str-595-15.md) — Geldwäsche: „Verwahren“ durch den Inhaber eines Bankkontos
+- [BGH, Beschluss vom 30.06.2016 - 1 StR 241/16](1-str-241-16.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Versuchsbeginn bei Betäubungsmitteleinfuhr mit Kraftfahrzeug
+- [BGH, Beschluss vom 30.06.2016 - 1 StR 99/16](1-str-99-16.md) — Steuerhinterziehung: Voraussetzungen eines besonders schweren Falles nach altem Recht; Zeitpunkt der Vollendung und Beendigung der Tat
+- [BGH, Beschluss vom 29.06.2016 - 1 StR 24/16](1-str-24-16.md) — 1. Zur Eigenständigkeit des Merkmals „Missbrauch“ bei § 174c Abs. 1 StGB. 2. Für die Beurteilung, ob ein Missbrauch im Sinne von § 174c Abs. 1 StGB vorliegt, ko
+- [BGH, Beschluss vom 29.06.2016 - 1 StR 254/16](1-str-254-16.md) — Unterbringung in einem psychiatrischen Krankenhaus: Prüfungserfordernis der parallelen Anordnung der Unterbringung in einer Entziehungsanstalt bei Alkoholabhäng
+- [BGH, Urteil vom 28.06.2016 - 1 StR 5/16](1-str-5-16.md) — Unterbringung eines Jugendlichen in einem psychiatrischen Krankenhaus: Feststellung der strafrechtlichen Verantwortlichkeit; Anforderungen an die Gefährlichkeit
+- [BGH, Beschluss vom 28.06.2016 - 1 StR 613/15](1-str-613-15.md) — Der unerlaubte Umgang mit Betäubungsmitteln zum Zweck der Eigenbehandlung eines Schmerzpatienten kann regelmäßig nicht durch § 34 StGB gerechtfertigt sein.
+- [BGH, Urteil vom 16.06.2016 - 1 StR 20/16](1-str-20-16.md) — Betrug: Vermögensschaden beim Erwerb einer angeblich verpachteten Immobilie; Erfordernis der Stoffgleichheit; Urteilsfeststellungen bei Annahme eines Scheingesc
+- [BGH, Beschluss vom 16.06.2016 - 1 StR 201/16](1-str-201-16.md) — Strafzumessung bei sexuellem Kindesmissbrauch: Berücksichtigung weiterer Straftaten oder deren Folgen für das Tatopfer
+- [BGH, Urteil vom 16.06.2016 - 1 StR 49/16](1-str-49-16.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Voraussetzungen tateinheitlichen Handelns
+- [BGH, Urteil vom 16.06.2016 - 1 StR 50/16](1-str-50-16.md) — Freispruch im Strafverfahren wegen Sexualdelikten: Revisionsgerichtliche Prüfung der Beweiswürdigung des Tatrichters
+- [BGH, Beschluss vom 15.06.2016 - 1 StR 72/16](1-str-72-16.md) — Jugendstrafverfahren wegen Betäubungsmitteldelikten: Maßgebliches Stufenverhältnis hinsichtlich Art und Gefährlichkeit des Rauschgifts im Rahmen der Strafzumess
+- [BGH, Beschluss vom 14.06.2016 - 1 StR 219/16](1-str-219-16.md) — Strafurteil wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Absehen von der Maßregelanordnung der Unterbringung in einer Entzieh
+- [BGH, Beschluss vom 14.06.2016 - 1 StR 221/16](1-str-221-16.md) — Schuldunfähigkeit: Anwendung des Zweifelssatzes bei schizoider Persönlichkeitsstörung
+- [BGH, Beschluss vom 14.06.2016 - 1 StR 239/16](1-str-239-16.md) — Verminderte Schuldfähigkeit: Notwendige Urteilsfeststellungen bei bipolarer Störung des Angeklagten
+- [BGH, Beschluss vom 02.06.2016 - 1 StR 161/16](1-str-161-16.md) — Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge: Mittäterschaft bei Veranlassen einer Kurierfahrt
+- [BGH, Urteil vom 01.06.2016 - 1 StR 597/15](1-str-597-15.md) — Einschränkungen des Notwehrrechts: Sozialethisch zu missbilligendes Vorverhalten; enges familiäres und persönliches Näheverhältnis zwischen Täter und Angreifer
+- [BGH, Beschluss vom 12.05.2016 - 1 StR 103/16](1-str-103-16.md) — Anordnung der Sicherungsverwahrung gegen Sexualstraftäter: Pflicht des Tatgerichts zur Ermessensausübung; revisionsgerichtliche Ersetzung der Ermessensentscheid
+- [BGH, Beschluss vom 12.05.2016 - 1 StR 114/16](1-str-114-16.md) — Schuldnerbegünstigung: Begriff des Verheimlichens und des Beiseiteschaffens
+- [BGH, Beschluss vom 12.05.2016 - 1 StR 43/16](1-str-43-16.md) — Betäubungsmittelverfahren: Auswirkungen von fehlenden Feststellungen zum Wirkstoffgehalt auf den Schuld- und Strafausspruch
+- [BGH, Beschluss vom 11.05.2016 - 1 StR 118/16](1-str-118-16.md) — Hinterziehung von Einfuhrabgaben auf Zigaretten: Einziehung von Transport- und Begleitfahrzeugen bei Zigarettenschmuggel aus Polen; Verfallsanordnung hinsichtli
+- [BGH, Beschluss vom 11.05.2016 - 1 StR 352/15](1-str-352-15.md) — Verhinderungsvermerk des Vorsitzenden bei Ersetzung der Unterschrift eines am Strafurteil beteiligten Richters: Spielraum des Vorsitzenden bei der Annahme der V
+- [BGH, Beschluss vom 11.05.2016 - 1 StR 627/15](1-str-627-15.md) — Strafurteil nach befristeter Überstellung aufgrund eines europäischen Haftbefehls: Identität der Straftat im Sinne des Unionsrechts; Vollstreckung und Einbezieh
+- [BGH, Beschluss vom 11.05.2016 - 1 StR 71/16](1-str-71-16.md) — Verständigung im Strafverfahren: Beruhen des Urteils auf einer verspäteten Belehrung über die Bindungswirkung einer Verständigung
+- [BGH, Beschluss vom 11.05.2016 - 1 StR 77/16](1-str-77-16.md) — Versuchte Körperverletzung: Fehlgeschlagener Versuch
+- [BGH, Beschluss vom 10.05.2016 - 1 ARs 21/15](1-ars-21-15.md) — Versagung der Strafrahmenmilderung bei selbst verschuldeter Trunkenheit trotz fehlender Feststellung der Risikoerhöhung im Einzelfall
+- [BGH, Beschluss vom 10.05.2016 - 1 ARs 5/16](1-ars-5-16.md) — BGH, Beschluss 1 ARs 5/16
+- [BGH, Beschluss vom 10.05.2016 - 1 StR 119/16](1-str-119-16.md) — Strafzumessung bei Totschlag: Begründung des Strafausspruchs bei Vorliegen mehrerer Schuldminderungsgründe
+- [BGH, Beschluss vom 10.05.2016 - 1 StR 571/15](1-str-571-15.md) — Strafverfahren wegen Steuerhinterziehung: Gewerbesteuerpflichtige Einkünfte bei Abwicklung der nicht selbstständigen Einkünfte über eine Scheinfirma; Mitteilung
+- [BGH, Beschluss vom 10.05.2016 - 1 StR 669/15](1-str-669-15.md) — Schwerer sexueller Kindesmissbrauch: Verstoß gegen das Doppelverwertungsverbot bei der Strafzumessung
+- [BGH, Beschluss vom 21.04.2016 - 1 StR 122/16](1-str-122-16.md) — Lohnsteuerhinterziehung durch Nichtabgabe von Lohnsteueranmeldungen und Vorenthalten von Sozialversicherungsbeiträgen: Auswirkungen der unzutreffenden Beurteilu
+- [BGH, Urteil vom 21.04.2016 - 1 StR 456/15](1-str-456-15.md) — Eingehungsbetrug: Bestimmung des Vermögensschadens bei Abschluss von Darlehens- und Leasingverträgen
+- [BGH, Urteil vom 21.04.2016 - 1 StR 629/15](1-str-629-15.md) — Strafverfahren wegen Betäubungsmitteldelikten: Geltendmachung von sich nicht aus den Urteilsgründen ergebenden Erörterungsmängeln im Revisionsverfahren; Konkurr
+- [BGH, Beschluss vom 20.04.2016 - 1 StR 1/16](1-str-1-16.md) — Vorenthalten von Sozialversicherungsbeiträgen: Tatrichterliche Feststellung der vorenthaltenen Beiträge
+- [BGH, Beschluss vom 20.04.2016 - 1 StR 62/16](1-str-62-16.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Feststellung der Schuldunfähigkeit wegen wahnhafter Störung
+- [BGH, Beschluss vom 20.04.2016 - 1 StR 661/15](1-str-661-15.md) — Gesamtstrafenbildung: Auswirkungen des das Auslieferungsrecht beherrschenden Grundsatzes der Spezialität bei Einbeziehung einer früheren Verurteilung zu einer G
+- [BGH, Beschluss vom 19.04.2016 - 1 StR 45/16](1-str-45-16.md) — Revision in Strafsachen: Zulässigkeit der Beschränkung der Revision auf die Nichtanordnung einer Maßregel
+- [BGH, Beschluss vom 19.04.2016 - 1 StR 95/16](1-str-95-16.md) — Verhängung von Jugendstrafe wegen Schwere der Schuld: Berücksichtigung des Erziehungsgedankens im Rahmen der Strafzumessung
+- [BGH, Beschluss vom 07.04.2016 - 1 StR 632/15](1-str-632-15.md) — Wertersatzverfall von Drogengeld: Verfallsanordnung nach Verfahrenseinstellung; Subsidiarität des erweiterten Verfalls
+- [BGH, Beschluss vom 06.04.2016 - 1 StR 431/15](1-str-431-15.md) — Steuerhinterziehung: Taterfolg bei unrichtiger Umsatzsteuervoranmeldung
+- [BGH, Beschluss vom 06.04.2016 - 1 StR 523/15](1-str-523-15.md) — Steuerhinterziehung: Schätzung der Besteuerungsgrundlagen bei Steuerverkürzung durch ein Taxi- und Mietwagenunternehmen
+- [BGH, Beschluss vom 05.04.2016 - 1 StR 38/16](1-str-38-16.md) — Bewaffnete Einfuhr von Betäubungsmitteln in nicht geringer Menge: Waffenrechtliche Einordnung eines Butterflymessers; Konkurrenzen zwischen bewaffneter Einfuhr 
+- [BGH, Beschluss vom 05.04.2016 - 1 StR 53/16](1-str-53-16.md) — Beweiswürdigung bei einem Vergewaltigungsvorwurf: Anforderungen bei Aussage-gegen-Aussage-Konstellationen; Konstanzanalyse des Aussageverhaltens der Belastungsz
+- [BGH, Beschluss vom 04.04.2016 - 1 StR 406/15](1-str-406-15.md) — Revision in Strafsachen: Begründungspflicht bei Verwerfungsbeschluss
+- [BGH, Beschluss vom 17.03.2016 - 1 StR 585/15](1-str-585-15.md) — Revision in Strafsachen: Anhörungsrüge gegen die Verwerfung ohne mündliche Verhandlung
+- [BGH, Beschluss vom 17.03.2016 - 1 StR 628/15](1-str-628-15.md) — Bankrott: Tatbestandsverwirklichung durch Beiseiteschaffen von Vermögen der späteren Insolvenzmasse
+- [BGH, Beschluss vom 16.03.2016 - 1 StR 402/15](1-str-402-15.md) — Anforderungen an die Begründung der Schuldunfähigkeit wegen einer schweren anderen seelischen Abartigkeit: Feststellung einer dissozialen Persönlichkeitsstörung
+- [BGH, Urteil vom 15.03.2016 - 1 StR 526/15](1-str-526-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an den Ausprägungsgrad einer Pädophilie zur Erfüllung des Eingangsmerkmal der schweren anderen
+- [BGH, Beschluss vom 15.03.2016 - 1 StR 605/15](1-str-605-15.md) — Strafverfahren wegen schweren Bandendiebstahls: Versuchsbeginn bei Mittäterschaft
+- [BGH, Beschluss vom 14.03.2016 - 1 StR 337/15](1-str-337-15.md) — Vorsätzlicher Bankrott durch Verheimlichen von Bestandteilen des Vermögens im Sinne von § 283 Abs. 1 Nr. 1 StGB ist im Falle der Insolvenz einer natürlichen Per
+- [BGH, Beschluss vom 03.03.2016 - 1 StR 497/15](1-str-497-15.md) — Steuerhinterziehung: Konkurrenzverhältnis bei gleichzeitiger Übermittlung mehrerer Steuererklärungen für einen Veranlagungszeitpunkt
+- [BGH, Beschluss vom 03.03.2016 - 1 StR 518/15](1-str-518-15.md) — Revision in Strafsachen: Wiedereinsetzung in die Frist zu einer Gegenerklärung und Anhörungsrüge
+- [BGH, Beschluss vom 02.03.2016 - 1 StR 433/15](1-str-433-15.md) — Strafzumessung beim Kapitalanlagebetrug: Feststellung des Schadens bei massenhaftem Betrug von Anlegern mittels eines Schneeballsystems; individuelle Zuordnung 
+- [BGH, Beschluss vom 02.03.2016 - 1 StR 619/15](1-str-619-15.md) — Strafurteil: Strafzumessung bei Wegfall einer verjährten tateinheitlich begangenen Straftat; notwendige Feststellungen bei Steuerhinterziehung
+- [BGH, Beschluss vom 18.02.2016 - 1 StR 590/15](1-str-590-15.md) — Unterbrechung der Hauptverhandlung: Berechnung der Dreiwochenfrist; Eintritt der Fristhemmung kraft Gesetz
+- [BGH, Beschluss vom 18.02.2016 - 1 StR 659/15](1-str-659-15.md) — Zweifelsgrundsatz in Strafsachen: Zweifel an der vollständigen Aufhebung der Schuldfähigkeit des Angeklagten nach der Beweiswürdigung
+- [BGH, Beschluss vom 17.02.2016 - 1 StR 12/16](1-str-12-16.md) — Strafzumessung bei versuchtem Mord in Tateinheit mit besonders schwerer Brandstiftung: Versagung einer Versuchsmilderung wegen der Nähe zur Tatvollendung
+- [BGH, Beschluss vom 16.02.2016 - 1 StR 525/15](1-str-525-15.md) — Strafverfahren wegen Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln: Revisionsgerichtliche Nachprüfung einer Verurteilung in Ansehung tatrichterli
+- [BGH, Beschluss vom 16.02.2016 - 1 StR 624/15](1-str-624-15.md) — Maßregelvollstreckung: Vollstreckungsreihenfolge bei Anordnung der Unterbringung in einer Entziehungsanstalt und Sicherungsverwahrung
+- [BGH, Beschluss vom 04.02.2016 - 1 StR 344/15](1-str-344-15.md) — Beihilfe zum Mord und Körperverletzung mit Todesfolge: Psychische Beilhilfe durch Anwesenheit am Tatort; Vorhersehbarkeit der Todesfolge bei einer Schlägerei
+- [BGH, Beschluss vom 04.02.2016 - 1 StR 424/15](1-str-424-15.md) — Mord: Subjektive Voraussetzungen der Mittäterschaft
+- [BGH, Beschluss vom 03.02.2016 - 1 StR 383/15](1-str-383-15.md) — Subventionsbetrug: Unterlassene Mitteilung über das Ausscheiden eines Wirtschaftsgutes aus dem Anlagevermögen als mitbestrafte Nachtat
+- [BGH, Beschluss vom 03.02.2016 - 1 StR 578/15](1-str-578-15.md) — Strafbare Zuwiderhandlung gegen ein Kontaktverbot in einer Gewaltschutzsache: Anforderungen an die Tatsachenfeststellungen im Strafurteil
+- [BGH, Beschluss vom 03.02.2016 - 1 StR 606/15](1-str-606-15.md) — Verfall des Wertersatzes: Feststellung der Entreicherung bei Teilschweigen des Angeklagten zum Verbleib des Erlöses
+- [BGH, Beschluss vom 03.02.2016 - 1 StR 646/15](1-str-646-15.md) — Nachträgliche Bildung der Gesamtstrafe: Zäsurwirkung zweier Vorverurteilungen
+- [BGH, Urteil vom 02.02.2016 - 1 StR 437/15](1-str-437-15.md) — Betrugstatbestand: Hingabe eines durch eine Grundschuld gesicherten Darlehens als Vermögensschaden; Bestimmung des Marktwertes eines Möbelstücks
+- [BGH, Urteil vom 20.01.2016 - 1 StR 398/15](1-str-398-15.md) — Notwendige Voraussetzung für eine Strafbarkeit wegen Raubes ist eine finale Verknüpfung zwischen dem Einsatz der qualifizierten Nötigungsmittel und der Wegnahme
+- [BGH, Beschluss vom 20.01.2016 - 1 StR 530/15](1-str-530-15.md) — Steuerstrafrecht: Konkurrenzverhältnis zwischen Steuerhinterziehung und Steuerhehlerei bei der Einfuhr von Tabakwaren aus dem europäischen Ausland; Ermittlung d
+- [BGH, Beschluss vom 20.01.2016 - 1 StR 557/15](1-str-557-15.md) — Strafzumessung nach uneidlicher Falschaussage: Berücksichtung von anwaltsrechtlichen Sanktionen
+- [BGH, Beschluss vom 14.01.2016 - 1 StR 615/15](1-str-615-15.md) — Verfall von Wertersatz: Voraussetzungen für eine Ermessensentscheidung im Härtefall
+- [BGH, Beschluss vom 13.01.2016 - 1 StR 581/15](1-str-581-15.md) — Minder schwerer Fall des Totschlags: Misshandlung durch Verabreichung von zwei Ohrfeigen
+- [BGH, Beschluss vom 12.01.2016 - 1 StR 272/09](1-str-272-09.md) — Feststellung der Pauschgebühr des Wahlverteidigers im Revisionsverfahren: Ermessen des Gerichts; Vorbefassung des Wahlverteidigers im Verfahren vor dem Landgeri
+- [BGH, Urteil vom 12.01.2016 - 1 StR 414/15](1-str-414-15.md) — Steuerhinterziehung: Strafzumessungserwägungen; Strafaussetzung zur Bewährung bei einem knapp unter der Millionengrenze liegender Steuerschaden
+- [BGH, Beschluss vom 11.01.2016 - 1 StR 435/15](1-str-435-15.md) — Wiedereinsetzung in den vorigen Stand im Strafverfahren: Verschulden des Verteidigers bei Versäumung der Revisionsbegründungsfrist

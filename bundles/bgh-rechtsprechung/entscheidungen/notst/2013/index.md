@@ -1,0 +1,6 @@
+# NOTST – 2013
+
+2 Entscheidung(en).
+
+- [BGH, Beschluss vom 08.11.2013 - NotSt (B) 1/13](notst-b-1-13.md) — Die vorläufige Amtsenthebung kann bei einem bisher disziplinarrechtlich nicht in Erscheinung getretenen Notar geboten sein, wenn dieser durch Verabredung "gesta
+- [BGH, Urteil vom 04.03.2013 - NotSt (Brfg) 1/12](notst-brfg-1-12.md) — Zur Zuständigkeit für die Ahndung des Verstoßes eines Anwaltsnotars gegen das Tätigkeitsverbot nach § 45 Abs. 1 Nr. 1 BRAO und damit einhergehender Verletzung d

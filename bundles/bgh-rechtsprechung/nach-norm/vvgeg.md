@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VVGEG"
 description: "BGH-Entscheidungen zu VVGEG, geordnet nach Vorschrift."
 tags: [register, navigation, vvgeg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des VVGEG auslege
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 12 VVGEG | [BGH, Urteil vom 08.02.2012 - IV ZR 2/11](../entscheidungen/iv-zivilsenat/2012/iv-zr-2-11.md); [BGH, Urteil vom 08.02.2012 - IV ZR 223/10](../entscheidungen/iv-zivilsenat/2012/iv-zr-223-10.md) |
+| § VVGEG | [BGH, Urteil vom 08.02.2012 - IV ZR 2/11](../entscheidungen/iv-zivilsenat/2012/iv-zr-2-11.md); [BGH, Urteil vom 08.02.2012 - IV ZR 223/10](../entscheidungen/iv-zivilsenat/2012/iv-zr-223-10.md) |

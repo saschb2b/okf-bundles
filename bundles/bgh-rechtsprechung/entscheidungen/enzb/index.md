@@ -1,7 +1,7 @@
-# enzb
+# ENZB
 
-1 Entscheidung(en).
+Kartell- und Energie-Beschwerdesachen (Kartellsenat). 1 Entscheidung(en).
 
-## 2018
+## Nach Jahr
 
-- [BGH, Beschluss vom 17.07.2018 - EnZB 53/17](2018/enzb-53-17.md)
+- [2018](2018/index.md) (1)

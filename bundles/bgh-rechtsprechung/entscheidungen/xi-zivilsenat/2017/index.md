@@ -1,0 +1,44 @@
+# XI. Zivilsenat – 2017
+
+40 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2017 - XI ZB 14/17](xi-zb-14-17.md) — Wiedereinsetzung in den vorigen Stand: Sorgfaltspflichten eines Rechtsanwalts bei Übermittlung eines fristgebundenen Schriftsatzes per Telefax am Tag des Frista
+- [BGH, Beschluss vom 19.12.2017 - XI ZB 16/17](xi-zb-16-17.md) — Wiedereinsetzung in den vorigen Stand: Anforderungen an die Ausgangskontrolle bei Übersendung fristwahrender Schriftsätze per Telefax
+- [BGH, Urteil vom 19.12.2017 - XI ZR 152/17](xi-zr-152-17.md) — 1. Zu den Anforderungen an die Sittenwidrigkeit eines strukturierten Darlehensvertrags. 2a. Zu den Aufklärungspflichten der Bank aufgrund eines Finanzierungsber
+- [BGH, Urteil vom 19.12.2017 - XI ZR 247/16](xi-zr-247-16.md) — BGH, Urteil XI ZR 247/16
+- [BGH, Urteil vom 19.12.2017 - XI ZR 796/16](xi-zr-796-16.md) — Zum Grundsatz der Staatenimmunität, wenn die Klage auf Rückzahlungsansprüche aus Staatsanleihen gestützt ist, die infolge der nachträglich durch Gesetz eingefüh
+- [BGH, Urteil vom 28.11.2017 - XI ZR 211/16](xi-zr-211-16.md) — Der Bürge kann sich nach § 768 Abs. 1 Satz 1 BGB auf ein Leistungsverweigerungsrecht des Hauptschuldners aus einem zwischen diesem und dem Gläubiger geschlossen
+- [BGH, Urteil vom 24.10.2017 - XI ZR 362/15](xi-zr-362-15.md) — Ein Bürge, dem wegen der Unwirksamkeit der Sicherungsvereinbarung nach § 768 Abs. 1 Satz 1 BGB eine dauerhafte Einrede gegen den Gläubiger zustand, kann das von
+- [BGH, Urteil vom 24.10.2017 - XI ZR 600/16](xi-zr-600-16.md) — Eine in einem Vertrag über Bauleistungen formularmäßig vereinbarte Sicherungsabrede, die es dem Auftragnehmer auferlegt, zur Ablösung eines Gewährleistungseinbe
+- [BGH, Urteil vom 17.10.2017 - XI ZR 157/16](xi-zr-157-16.md) — Zur Inhaltskontrolle der formularmäßigen Bestimmung einer laufzeitunabhängigen "Kostenbeteiligung" in einem Darlehensvertrag bei Gewährung des Darlehens zu eine
+- [BGH, Urteil vom 17.10.2017 - XI ZR 419/15](xi-zr-419-15.md) — 1. Hebt der Inhaber eines Pfändungsschutzkontos, das ein Guthaben aufweist, von diesem Konto am letzten Tag des Monats, einem Samstag, an einem Bankautomaten de
+- [BGH, Urteil vom 10.10.2017 - XI ZR 393/16](xi-zr-393-16.md) — Von den gesetzlichen Verjährungshöchstfristen kann nicht auf ein "Mindestzeitmoment" für die Verwirkung des Verbraucherwiderrufsrechts geschlossen werden.
+- [BGH, Beschluss vom 19.09.2017 - XI ZB 13/14](xi-zb-13-14.md) — 1. Ist ein Zivilprozess im Hinblick auf ein Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz gemäß § 8 Abs. 1 Satz 1 KapMuG ausgesetzt, können Dri
+- [BGH, Beschluss vom 19.09.2017 - XI ZB 17/15](xi-zb-17-15.md) — 1. Jedes Feststellungsziel im Sinne des § 2 Abs. 1 Satz 1 KapMuG bildet einen eigenständigen Streitgegenstand des Kapitalanleger-Musterverfahrens. 2. Eine ordnu
+- [BGH, Beschluss vom 12.09.2017 - XI ZB 2/17](xi-zb-2-17.md) — Zu den Voraussetzungen für die Annahme eines wirksamen Empfangsbekenntnisses in der Berufungsschrift.
+- [BGH, Beschluss vom 12.09.2017 - XI ZR 365/16](xi-zr-365-16.md) — Widerruf der auf Abschluss eines Immobiliardarlehensvertrags gerichteten Willenserklärung des Verbrauchers: Berechnung des Wertersatzes im Rahmen des Rückgewähr
+- [BGH, Urteil vom 12.09.2017 - XI ZR 590/15](xi-zr-590-15.md) — 1. Die Entgeltbestimmungen in dem Preis- und Leistungsverzeichnis einer Sparkasse - "Unterrichtung über die berechtigte Ablehnung der Einlösung einer SEPA-Basis
+- [BGH, Urteil vom 01.08.2017 - XI ZR 469/16](xi-zr-469-16.md) — Kündigung eines Bausparvertrages durch die Bausparkasse: Zulässigkeit der Klage auf Feststellung der Unwirksamkeit der Kündigung; Kündigungsrecht der Bausparkas
+- [BGH, Urteil vom 25.07.2017 - XI ZR 260/15](xi-zr-260-15.md) — 1. Bei Klagen nach § 1 UKlaG muss gemäß § 8 Abs. 1 Nr. 1 UKlaG der Klageantrag die beanstandeten Bestimmungen der Allgemeinen Geschäftsbedingungen im Wortlaut e
+- [BGH, Beschluss vom 12.07.2017 - XI ZB 10/17](xi-zb-10-17.md) — Rechtsmittel gegen eine Streitwertfestsetzung: Statthaftigkeit der Rechtsbeschwerde
+- [BGH, Urteil vom 04.07.2017 - XI ZR 233/16](xi-zr-233-16.md) — Die in Darlehensurkunden eines Kreditinstituts für Kreditverträge mit Unternehmern enthaltene formularmäßige Klausel zu einer "Bearbeitungsgebühr" unterliegt au
+- [BGH, Urteil vom 04.07.2017 - XI ZR 470/15](xi-zr-470-15.md) — Kann die Frist des § 128 Abs. 2 Satz 3 ZPO zunächst nicht eingehalten werden, kann das Gericht erneut die Zustimmung beider Parteien zur Entscheidung im schrift
+- [BGH, Urteil vom 04.07.2017 - XI ZR 562/15](xi-zr-562-15.md) — 1. Die in Darlehensurkunden eines Kreditinstituts für den Abschluss von Kreditverträgen mit Unternehmern enthaltene formularmäßige Klausel "Bearbeitungsentgelt 
+- [BGH, Beschluss vom 27.06.2017 - XI ZB 1/16](xi-zb-1-16.md) — Aufgebot zur Kraftloserklärung von Urkunden: Antragsberechtigung bei auf den Inhaber lautenden Anteilsscheinen
+- [BGH, Beschluss vom 13.06.2017 - XI ZB 25/16](xi-zb-25-16.md) — Berufungsschrift: Anforderungen an die anwaltliche Unterschriftsleistung
+- [BGH, Urteil vom 23.05.2017 - XI ZR 219/16](xi-zr-219-16.md) — Selbstschuldnerische Bürgschaft: Verjährungseinrede des Bürgen nach Feststellung der Hauptforderung zur Insolvenztabelle im Insolvenzverfahren über das Vermögen
+- [BGH, Urteil vom 16.05.2017 - XI ZR 430/16](xi-zr-430-16.md) — Der Schadensersatzanspruch des Darlehensnehmers wegen fehlerhafter Aufklärung über die wirtschaftlichen Nachteile einer Kombination aus Darlehensvertrag und Kap
+- [BGH, Urteil vom 09.05.2017 - XI ZR 308/15](xi-zr-308-15.md) — Die in den von einer Bausparkasse für eine Vielzahl von Vertragsverhältnissen vorformulierten Darlehensverträgen enthaltene Bestimmung "Kontogebühr: derzeit je 
+- [BGH, Urteil vom 25.04.2017 - XI ZR 573/15](xi-zr-573-15.md) — 1. Die mit dem Einbehalt der Kapitalertragsteuer verbundene besondere Form der Steuererhebung hindert, solange der Steuerentrichtungspflichtige Kapitalertragste
+- [BGH, Beschluss vom 14.03.2017 - XI ZB 16/16](xi-zb-16-16.md) — Ein Rechtsanwalt, der einen bestimmenden Schriftsatz für einen anderen Rechtsanwalt unterzeichnet, übernimmt mit seiner Unterschrift auch dann die Verantwortung
+- [BGH, Beschluss vom 14.03.2017 - XI ZR 160/16](xi-zr-160-16.md) — Verbraucherdarlehen: Rechtsmissbräuchliche Ausübung des Widerrufsrechts durch einen von mehreren Darlehensnehmern
+- [BGH, Urteil vom 14.03.2017 - XI ZR 508/15](xi-zr-508-15.md) — Zur ergänzenden Vertragsauslegung bei fehlender Einbeziehung oder Unwirksamkeit einer Zinsänderungsklausel zu laufenden Zinsen in einem Sparvertrag (im Anschlus
+- [BGH, Beschluss vom 07.03.2017 - XI ZR 282/16](xi-zr-282-16.md) — Verbraucherdarlehen: Widerrufsbelehrung bei mehreren Darlehensnehmern
+- [BGH, Beschluss vom 07.03.2017 - XI ZR 571/15](xi-zr-571-15.md) — Feststellung von Darlehensrückzahlungsansprüchen zur Insolvenztabelle: Sittenwidrigkeit eines Überbrückungskredits an ein insolvenzbedrohtes Unternehmen
+- [BGH, Urteil vom 21.02.2017 - XI ZR 185/16](xi-zr-185-16.md) — Eine Bausparkasse darf im Regelfall einen Bausparvertrag gemäß § 489 Abs. 1 Nr. 3 BGB in der bis zum 10. Juni 2010 geltenden Fassung (nunmehr § 489 Abs. 1 Nr. 2
+- [BGH, Urteil vom 21.02.2017 - XI ZR 272/16](xi-zr-272-16.md) — Bausparvertrag: Kündigungsrecht der Bausparkasse für Altverträge mit einer mindestens zehnjährigen erstmaligen Zuteilungsreife
+- [BGH, Beschluss vom 21.02.2017 - XI ZR 88/16](xi-zr-88-16.md) — Beschwer für die Nichtzulassungsbeschwerde: Streitwertbemessung bei einer Feststellungsklage auf Fortbestehen eines Bausparvertrags
+- [BGH, Urteil vom 07.02.2017 - XI ZR 379/14](xi-zr-379-14.md) — Bankenhaftung bei Anlageberatung: Pflicht zur Aufklärung über das Einpreisen einer Bruttomarge bei einem Swap-Geschäft
+- [BGH, Beschluss vom 17.01.2017 - XI ZR 490/15](xi-zr-490-15.md) — Auslegung des Tenors eines Berufungsurteils: Abweisung der Klage "insgesamt" bei Anschlussberufung nur gegen einzelne Kläger
+- [BGH, Beschluss vom 10.01.2017 - XI ZB 17/16](xi-zb-17-16.md) — Streitwertbemessung: Klage auf Feststellung der Umwandlung eines Darlehensvertrages in ein Rückgewährschuldverhältnis nach Widerruf
+- [BGH, Beschluss vom 10.01.2017 - XI ZR 365/14](xi-zr-365-14.md) — Rückabwicklungsprozess wegen Bankenhaftung aus fehlerhafter Kapitalanlageberatung: Gehörsverstoß durch nicht berücksichtigten Beweisantritt zur Widerlegung der 

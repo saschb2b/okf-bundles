@@ -1,0 +1,41 @@
+# XII. Zivilsenat – 2007
+
+37 Entscheidung(en).
+
+- [BGH, Urteil vom 19.12.2007 - XII ZR 13/06](xii-zr-13-06.md) — dieser vertragswidrigen Weigerung des Mieters weitervermietet hat, auf § 537 Abs. 2 BGB beruft (im Anschluss an Senatsurteil BGHZ 122, 163).
+- [BGH, Beschluss vom 12.12.2007 - XII ZB 158/05](xii-zb-158-05.md) — BGH, Beschluss vom 12.12.2007 - XII ZB 158/05
+- [BGH, Beschluss vom 12.12.2007 - XII ZB 240/05](xii-zb-240-05.md) — auch ohne eine entsprechende Rüge des Beklagten zu prüfen; dagegen besteht aber keine Verpflichtung des Rechtsbehelfsgerichts, die für die E
+- [BGH, Urteil vom 12.12.2007 - XII ZR 173/04](xii-zr-173-04.md) — Tatbestand:
+- [BGH, Urteil vom 28.11.2007 - XII ZR 132/05](xii-zr-132-05.md) — Tatbestand:
+- [BGH, Urteil vom 21.11.2007 - XII ZR 128/05](xii-zr-128-05.md) — Tatbestand:
+- [BGH, Urteil vom 21.11.2007 - XII ZR 15/06](xii-zr-15-06.md) — Tatbestand:
+- [BGH, Urteil vom 31.10.2007 - XII ZR 112/05](xii-zr-112-05.md) — Tatbestand:
+- [BGH, Beschluss vom 17.10.2007 - XII ZB 99/07](xii-zb-99-07.md) — BGH, Beschluss vom 17.10.2007 - XII ZB 99/07
+- [BGH, Urteil vom 17.10.2007 - XII ZR 146/05](xii-zr-146-05.md) — Tatbestand:
+- [BGH, Beschluss vom 10.10.2007 - XII ZB 26/05](xii-zb-26-05.md) — BGH, Beschluss vom 10.10.2007 - XII ZB 26/05
+- [BGH, Beschluss vom 10.10.2007 - XII ZR 12/07](xii-zr-12-07.md) — BGH, Beschluss vom 10.10.2007 - XII ZR 12/07
+- [BGH, Beschluss vom 26.09.2007 - XII ZB 229/06](xii-zb-229-06.md) — BGH, Beschluss vom 26.09.2007 - XII ZB 229/06
+- [BGH, Beschluss vom 26.09.2007 - XII ZB 80/07](xii-zb-80-07.md) — BGH, Beschluss vom 26.09.2007 - XII ZB 80/07
+- [BGH, Urteil vom 26.09.2007 - XII ZR 11/05](xii-zr-11-05.md) — Tatbestand:
+- [BGH, Urteil vom 26.09.2007 - XII ZR 15/05](xii-zr-15-05.md) — Tatbestand:
+- [BGH, Beschluss vom 11.09.2007 - XII ZB 109/04](xii-zb-109-04.md) — Personalmangels zulässig sein sollte, eine Auszubildende mit der Fristüberwachung zu betrauen, muss eine Kontrolle durch den Rechtsanwalt se
+- [BGH, Beschluss vom 11.09.2007 - XII ZB 177/04](xii-zb-177-04.md) — zu beachtende Verfahrensvorschriften (Fortführung des Senatsbeschlusses vom 18. Dezember 1985 - IVb ZB 677/81 - FamRZ 1986, 455 ff.).
+- [BGH, Beschluss vom 11.09.2007 - XII ZB 27/07](xii-zb-27-07.md) — der Bedeutung der Statusfeststellung auf seinen Antrag regelmäßig sogleich (und nicht erst nach Eingang eines die Vaterschaft bejahenden Abs
+- [BGH, Urteil vom 11.07.2007 - XII ZR 197/05](xii-zr-197-05.md) — Tatbestand:
+- [BGH, Beschluss vom 04.07.2007 - XII ZB 199/05](xii-zb-199-05.md) — BGH, Beschluss vom 04.07.2007 - XII ZB 199/05
+- [BGH, Beschluss vom 04.07.2007 - XII ZB 68/04](xii-zb-68-04.md) — beizuladen.
+- [BGH, Beschluss vom 20.06.2007 - XII ZB 126/04](xii-zb-126-04.md) — BGH, Beschluss vom 20.06.2007 - XII ZB 126/04
+- [BGH, Beschluss vom 20.06.2007 - XII ZB 50/05](xii-zb-50-05.md) — BGH, Beschluss vom 20.06.2007 - XII ZB 50/05
+- [BGH, Urteil vom 23.05.2007 - XII ZR 245/04](xii-zr-245-04.md) — Tatbestand:
+- [BGH, Urteil vom 23.05.2007 - XII ZR 250/04](xii-zr-250-04.md) — Tatbestand:
+- [BGH, Urteil vom 16.05.2007 - XII ZR 13/05](xii-zr-13-05.md) — Tatbestand:
+- [BGH, Beschluss vom 02.05.2007 - XII ZB 205/06](xii-zb-205-06.md) — BGH, Beschluss vom 02.05.2007 - XII ZB 205/06
+- [BGH, Beschluss vom 25.04.2007 - XII ZB 206/06](xii-zb-206-06.md) — BGH, Beschluss vom 25.04.2007 - XII ZB 206/06
+- [BGH, Urteil vom 18.04.2007 - XII ZR 139/05](xii-zr-139-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.03.2007 - XII ZR 119/04](xii-zr-119-04.md) — BGH, Beschluss vom 28.03.2007 - XII ZR 119/04
+- [BGH, Urteil vom 14.02.2007 - XII ZR 163/05](xii-zr-163-05.md) — Tatbestand:
+- [BGH, Beschluss vom 07.02.2007 - XII ZB 175/06](xii-zb-175-06.md) — der verspätet eingegangenen Begründung als unselbständige Anschlussberufung zu behandeln war (Fortführung des Senatsbeschlusses vom 26. Janu
+- [BGH, Beschluss vom 31.01.2007 - XII ZB 207/06](xii-zb-207-06.md) — BGH, Beschluss vom 31.01.2007 - XII ZB 207/06
+- [BGH, Beschluss vom 17.01.2007 - XII ZB 166/05](xii-zb-166-05.md) — BGH, Beschluss vom 17.01.2007 - XII ZB 166/05
+- [BGH, Beschluss vom 10.01.2007 - XII ZB 194/05](xii-zb-194-05.md) — eines offensichtlichen Schreibversehens von Amts wegen dahin berichtigt, dass es anstatt 8. Zivilkammer des Kammergerichts in Berlin, 8. Ziv
+- [BGH, Urteil vom 10.01.2007 - XII ZR 235/04](xii-zr-235-04.md) — Tatbestand:

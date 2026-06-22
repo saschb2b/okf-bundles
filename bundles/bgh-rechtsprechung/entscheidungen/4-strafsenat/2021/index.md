@@ -1,0 +1,111 @@
+# 4. Strafsenat – 2021
+
+107 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2021 - 4 StR 330/21](4-str-330-21.md) — Strafzumessung: Begründung des Gesamtstrafenausspruchs bei Annäherung an Strafobergrenze
+- [BGH, Beschluss vom 16.12.2021 - 4 StR 61/21](4-str-61-21.md) — Betrug: Vermögensschaden der Banken bei Darlehensgewährungen
+- [BGH, Beschluss vom 09.12.2021 - 4 StR 162/21](4-str-162-21.md) — Strafverfahren: Nichteinräumung des Rechtes des Nebenklägers auf einen Schlussvortrag
+- [BGH, Urteil vom 09.12.2021 - 4 StR 167/21](4-str-167-21.md) — Um den vorsätzlichen gefährlichen Eingriff in den Straßenverkehr im Sinne des § 315 Abs. 3 Nr. 1 Buchst. a StGB (Herbeiführen eines Unglücksfalls) zu qualifizie
+- [BGH, Beschluss vom 09.12.2021 - 4 StR 242/21](4-str-242-21.md) — Strafverfahren: Verurteilung wegen nicht angeklagter Taten
+- [BGH, Beschluss vom 08.12.2021 - 4 StR 224/20](4-str-224-20.md) — Verbotenes Kraftfahrzeugrennen: Objektive und subjektive Zurechnung der Erfolgsqualifikation des Todes eines anderen Menschen
+- [BGH, Beschluss vom 08.12.2021 - 4 StR 314/21](4-str-314-21.md) — Beweiswürdigung im Strafverfahren: Glaubhaftigkeit einer belastenden Zeugenaussage nach dessen Freispruch
+- [BGH, Beschluss vom 07.12.2021 - 4 StR 387/21](4-str-387-21.md) — Nachträgliche Gesamtstrafenbildung im Berufungsurteil: Behandlung einer Führerscheinentziehung aus einem Strafbefehl und der zum Zeitpunkt der Verkündung des Be
+- [BGH, Beschluss vom 25.11.2021 - 4 StR 103/21](4-str-103-21.md) — Beihilfe zum Betrug: Beihilfe nach Beendigung der Haupttat
+- [BGH, Beschluss vom 25.11.2021 - 4 StR 255/21](4-str-255-21.md) — Strafurteil: Umfang der Mitteilung von Vorstrafen im Rahmen der Beweiswürdigung
+- [BGH, Beschluss vom 24.11.2021 - 4 StR 345/21](4-str-345-21.md) — Versuchter besonders schwerer Raub: Abgrenzung eines fehlgeschlagenen Versuchs vom freiwilligen Rücktritt vom unbeendeten Versuch
+- [BGH, Beschluss vom 23.11.2021 - 4 StR 236/21](4-str-236-21.md) — Gefährliche Körperverletzung: Einsatz eines Kraftfahrzeugs als gefährliches Werkzeug
+- [BGH, Beschluss vom 23.11.2021 - 4 StR 289/21](4-str-289-21.md) — Unterbringung in einer Entziehungsanstalt: Prüfung hinreichender Wahrscheinlichkeit des Behandlungserfolgs
+- [BGH, Beschluss vom 11.11.2021 - 4 StR 134/21](4-str-134-21.md) — Gefährlicher Eingriff in den Straßenverkehr: Vorsatzfeststellung bei Beschleunigung des Fahrzeugs auf einer Fluchtfahrt innerorts zwecks verkehrswidrigen Überho
+- [BGH, Urteil vom 11.11.2021 - 4 StR 511/20](4-str-511-20.md) — 1. Ein Kraftfahrzeugrennen im Sinne des § 315d Abs. 1 Nr. 1 und Nr. 2 StGB ist ein Wettbewerb zwischen wenigstens zwei Kraftfahrzeugführern, bei dem es zumindes
+- [BGH, Beschluss vom 09.11.2021 - 4 StR 262/21](4-str-262-21.md) — Strafverfahren: Anforderungen an die Darstellung der Ergebnisse einer molekulargenetischen Vergleichsuntersuchung in den Urteilsgründen
+- [BGH, Urteil vom 28.10.2021 - 4 StR 118/21](4-str-118-21.md) — Strafverfahren: Umfang der Rechtsmittelbefugnis des Nebenklägers bei Sexualdelikt
+- [BGH, Beschluss vom 28.10.2021 - 4 StR 163/21](4-str-163-21.md) — Strafverurteilung wegen räuberischen Diebstahls u.a.: Tateinheit durch Klammerwirkung bei Zusammentreffen von Vergehens- und Verbrechenstatbeständen
+- [BGH, Beschluss vom 28.10.2021 - 4 StR 300/21](4-str-300-21.md) — Adhäsionsentscheidung bei Totschlag: Zuerkennung von Hinterbliebengeld bei Nachweis einer tatsächlich gelebten sozialen Beziehung; Bindung an Parteianträge
+- [BGH, Beschluss vom 28.10.2021 - 4 StR 320/21](4-str-320-21.md) — Schwere Brandstiftung: Voraussetzungen der Entwidmung einer Wohnung
+- [BGH, Beschluss vom 27.10.2021 - 4 StR 214/21](4-str-214-21.md) — Jugendstrafe: Anwendbarkeit der sog. Vollstreckungslösung zur Kompensation überlanger Verfahrensdauer
+- [BGH, Beschluss vom 26.10.2021 - 4 StR 145/21](4-str-145-21.md) — Adhäsionsverfahren: Antragsberechtigung des Insolvenzverwalters
+- [BGH, Urteil vom 14.10.2021 - 4 StR 95/21](4-str-95-21.md) — Totschlag: Besondere Verwerflichkeit als Voraussetzung eines besonders schweren Falls
+- [BGH, Beschluss vom 13.10.2021 - 4 StR 121/21](4-str-121-21.md) — Strafsache wegen Totschlags mit Adhäsionsverfahren: Beweis- und Darlegungsanforderungen für Entschädigungsansprüche von Hinterbliebenen
+- [BGH, Beschluss vom 13.10.2021 - 4 StR 244/21](4-str-244-21.md) — Tötungsdelikt: Bedingter Vorsatz oder bewusste Fahrlässigkeit; objektive Gefährlichkeit der Tathandlung
+- [BGH, Beschluss vom 12.10.2021 - 4 StR 261/21](4-str-261-21.md) — Rücktritt vom Tötungsversuch: Anforderungen an die tatrichterlichen Feststellungen zur Beendigung des Versuchs bei versuchter telefonischer Kontaktaufnahme weni
+- [BGH, Urteil vom 30.09.2021 - 4 StR 170/21](4-str-170-21.md) — Beschränkung der Revision auf die Frage der besonderen Schwere der Schuld beim Mord: Tötung zur Verdeckung einer Straftat neben einem Handeln aus niedrigen Bewe
+- [BGH, Beschluss vom 30.09.2021 - 4 StR 70/21](4-str-70-21.md) — Unerlaubter Handel mit Betäubungsmitteln: Annahme von Mittäterschaft nur bei eigennützigem Handeln
+- [BGH, Beschluss vom 29.09.2021 - 4 StR 90/21](4-str-90-21.md) — Strafverfahren: Wirkung der Einstellung gegen Auflagen oder Weisungen
+- [BGH, Beschluss vom 14.09.2021 - 4 StR 21/21](4-str-21-21.md) — Gefährlicher Eingriff in den Straßenverkehr: Schlag auf den Kopf eines auf einer Hauptverkehrsstraße vorbeifahrenden Rennradfahrers
+- [BGH, Beschluss vom 08.09.2021 - 4 StR 166/21](4-str-166-21.md) — Zum Verwenden eines gefährlichen Werkzeugs im Sinne von § 177 Abs. 8 Nr. 1 StGB.
+- [BGH, Beschluss vom 31.08.2021 - 4 StR 108/21](4-str-108-21.md) — Schwerer sexueller Missbrauch eines Kindes: Rechtlicher Hinweis auf eine Veränderung der Sachlage
+- [BGH, Beschluss vom 24.08.2021 - 4 StR 56/21](4-str-56-21.md) — Kostenentscheidung bei Erfolglosigkeit der Revision des durch einen Beistand unterstützten Nebenklägers
+- [BGH, Beschluss vom 19.08.2021 - 4 StR 137/21](4-str-137-21.md) — Strafverfahren wegen Delikten im Zusammenhang mit dem Straßenverkehr: Vorliegen eines Unfalls mit Personenschaden; Tateinheit bei Diebstahl eines Kfz-Kennzeiche
+- [BGH, Beschluss vom 19.08.2021 - 4 StR 410/20](4-str-410-20.md) — Verfahrensrüge im Strafverfahren: Darlegungsanforderungen an eine mangelnde Eigenmächtigkeit des Nichterscheinens des Angeklagten in der Hauptverhandlung
+- [BGH, Beschluss vom 05.08.2021 - 4 StR 143/21](4-str-143-21.md) — Revisionsbegründung in Strafsachen: Anforderungen an die Verfahrensrüge eines Verstoßes gegen die Belehrungspflicht für zeugnisverweigerungsberechtigte Angehöri
+- [BGH, Urteil vom 30.07.2021 - 4 StR 333/20](4-str-333-20.md) — Versuchter Mord: Abgrenzung des bedingten Tötungsvorsatzes von der bewussten Fahrlässigkeit
+- [BGH, Beschluss vom 29.07.2021 - 4 StR 156/20](4-str-156-20.md) — Betrug: Anforderungen an die Bereicherungsabsicht
+- [BGH, Beschluss vom 29.07.2021 - 4 StR 156/21](4-str-156-21.md) — Kenntnis des Täters von den zum gesetzlichen Tatbestand gehörenden Umständen bei Tatbegehung: Maßgeblicher Zeitpunkt der Vorsatzfassung
+- [BGH, Beschluss vom 23.07.2021 - 4 StR 36/19](4-str-36-19.md) — Kosten im Strafverfahren: Kostenanspruch der Staatskasse gegen den erfolglos revidierenden Angeklagten nach Eröffnung des Insolvenzverfahrens über das Vermögen 
+- [BGH, Beschluss vom 21.07.2021 - 4 StR 53/21](4-str-53-21.md) — Versuchter Heimtückemord: Notwendige Urteilsfeststellungen zum Ausnutzungsbewusstsein des Täters hinsichtlich der Arg- und Wehrlosigkeit des Tatopfers
+- [BGH, Beschluss vom 20.07.2021 - 4 StR 439/20](4-str-439-20.md) — Unterbrechung der Verfolgungsverjährung durch Durchsuchungs- und Beschlagnahmebeschlüsse
+- [BGH, Beschluss vom 07.07.2021 - 4 StR 141/21](4-str-141-21.md) — Körperverletzung mit Todesfolge: Zurechnung des qualifizierenden Todeserfolgs bei Mittäterexzess durch überraschenden Einsatz eines Messers
+- [BGH, Beschluss vom 07.07.2021 - 4 StR 546/20](4-str-546-20.md) — Nachträgliche Anordnung der Sicherungsverwahrung nach Erledigung der Unterbringung in einem psychiatrischen Krankenhaus: Ausübung gerichtlichen Ermessens
+- [BGH, Beschluss vom 06.07.2021 - 4 StR 100/21](4-str-100-21.md) — Mord: Heimtücke bei mehraktigem Tatgeschehen
+- [BGH, Beschluss vom 06.07.2021 - 4 StR 155/21](4-str-155-21.md) — Gefährdung des Straßenverkehrs: Feststellung eines „Beinahe-Unfalls“
+- [BGH, Urteil vom 24.06.2021 - 4 StR 79/20](4-str-79-20.md) — Verbotenes Kraftfahrzeugrennen mit Todesfolge: Anforderungen an die tatrichterlichen Feststellungen zum Absichtselement; Feststellung bedingten Tötungsvorsatzes
+- [BGH, Beschluss vom 23.06.2021 - 4 StR 81/21](4-str-81-21.md) — Sicherungsverfahren: Urteilsdarlegung zur Schuldunfähigkeit bei Psychose aus dem schizophrenen Formenkreis
+- [BGH, Beschluss vom 10.06.2021 - 4 StR 30/21](4-str-30-21.md) — Strafverurteilung eines alkoholisierten Fahrzeugführers ohne Fahrerlaubnis nach Verkehrsunfall mit Tötung eines anderen Verkehrsteilnehmers und Verkehrsunfallfl
+- [BGH, Beschluss vom 10.06.2021 - 4 StR 312/20](4-str-312-20.md) — Bedingter Tötungsvorsatz und/oder gefährliche Körperverletzung mit einem gefährlichen Werkzeug: Gezieltes Anfahren und zu Fall bringen eines Motorradfahrers mit
+- [BGH, Beschluss vom 09.06.2021 - 4 StR 523/20](4-str-523-20.md) — Strafverurteilung u.a. wegen unerlaubten Waffenbesitzes: Notwendige Urteilsfeststellungen zur Funktionsfähigkeit der Waffen; strafmildernde Berücksichtigung der
+- [BGH, Beschluss vom 08.06.2021 - 4 StR 68/21](4-str-68-21.md) — Verbindung von Strafverfahren durch Vereinbarung bei verschiedener örtlicher und sachlicher Zuständigkeit der Gerichte
+- [BGH, Beschluss vom 26.05.2021 - 4 StR 476/20](4-str-476-20.md) — Adhäsionsverfahren: Inhaltliche Anforderungen an den Adhäsionsantrag
+- [BGH, Beschluss vom 19.05.2021 - 4 StR 304/20](4-str-304-20.md) — Strafverurteilung wegen schweren sexuellen Missbrauchs von Kindern: Voraussetzungen und Verhältnismäßigkeit einer nachträglichen Anordnung der Sicherungsverwahr
+- [BGH, Beschluss vom 11.05.2021 - 4 StR 1/21](4-str-1-21.md) — Strafzumessung bei Verurteilung wegen sexuellen Kindesmissbrauchs und Herstellens kinderpornographischer Schriften: Berücksichtigung des Wertes eines als Tatmit
+- [BGH, Beschluss vom 11.05.2021 - 4 StR 350/20](4-str-350-20.md) — Bei der Verordnung von häuslicher Krankenpflege gemäß § 37 Abs. 2 SGB V obliegt dem verordnenden Kassenarzt keine Betreuungspflicht im Sinne des § 266 Abs. 1 St
+- [BGH, Beschluss vom 11.05.2021 - 4 StR 535/20](4-str-535-20.md) — Maßregelanordnung der Unterbringung in einem psychiatrischen Krankenhaus im Sicherungsverfahren: Notwendige Feststellungen zur Schuldunfähigkeit eines Fahrzeugf
+- [BGH, Beschluss vom 05.05.2021 - 4 StR 19/20](4-str-19-20.md) — Dem Täter eines fahrlässig herbeigeführten Brand- oder Explosionsgeschehens können der durch Rettungsmaßnahmen verursachte Tod oder die Körperverletzung von Ber
+- [BGH, Beschluss vom 29.04.2021 - 4 StR 165/20](4-str-165-20.md) — Verbotenes Kraftfahrzeugrennen: Absichtsmerkmal in sogenannten Polizeifluchtfällen
+- [BGH, Urteil vom 29.04.2021 - 4 StR 46/21](4-str-46-21.md) — (Feststellung der Täterschaft durch molekulargenetische Vergleichsuntersuchung: Anforderungen an die Darstellung einer DNA-Vergleichsuntersuchung im Urteil)
+- [BGH, Urteil vom 29.04.2021 - 4 StR 522/20](4-str-522-20.md) — Strafurteil wegen fahrlässiger Trunkenheitsfahrt: Erörterungsmangel durch Unterlassen von Ausführungen zur Entziehung der Fahrerlaubnis und Verhängung einer iso
+- [BGH, Beschluss vom 13.04.2021 - 4 StR 109/20](4-str-109-20.md) — Verbotenes Kraftfahrzeugrennen: Subjektiver Tatbestand im Fall eines Einzelrennens; notwendige Tatsachenfeststellungen bei Fluchtfahrt vor der Polizei
+- [BGH, Beschluss vom 13.04.2021 - 4 StR 506/20](4-str-506-20.md) — Unerlaubte Einfuhr von und unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Abgrenzung von Mittäterschaft und Beihilfe bei Tätigkeit als
+- [BGH, Beschluss vom 31.03.2021 - 4 StR 48/21](4-str-48-21.md) — Herstellung und Besitz kinderpornographischer Schriften: Konkurrenzverhältnis
+- [BGH, Beschluss vom 24.03.2021 - 4 StR 142/20](4-str-142-20.md) — Mordvorwurf bei Kraftfahrzeugrennen mit Todesfolge: Feststellung bedingten Tötungsvorsatzes bei grob verkehrswidriger und rücksichtsloser Fluchtfahrt vor der Po
+- [BGH, Beschluss vom 24.03.2021 - 4 StR 20/21](4-str-20-21.md) — Körperverletzung mit Todesfolge: Verstoß gegen das Doppelverwertungsverbot durch isolierte strafschärfende Berücksichtigung direkten Vorsatzes
+- [BGH, Beschluss vom 24.03.2021 - 4 StR 416/20](4-str-416-20.md) — 1a. Die Garantenstellung aus Ingerenz ist ein besonderes persönliches Merkmal im Sinne von § 28 Abs. 1 StGB. 1b. Fehlen mehrere besondere persönliche Merkmale, 
+- [BGH, Beschluss vom 18.03.2021 - 4 StR 480/20](4-str-480-20.md) — Strafverfahren wegen besonders schwerer Vergewaltigung: Anforderungen an die gerichtliche Beweiswürdigung und die Wiedergabe des Beweisergebnisses in den Urteil
+- [BGH, Beschluss vom 17.03.2021 - 4 StR 155/20](4-str-155-20.md) — Misshandlung von Schutzbefohlenen: Unterlassen von Schutzmaßnahmen gegenüber dem anderen Elternteil; Tatbestand des Quälens und rohen Misshandelns
+- [BGH, Beschluss vom 17.03.2021 - 4 StR 527/20](4-str-527-20.md) — Sicherungsverfahren: Widersprüchliche Beurteilung der Schuldfähigkeit eines an chronifizierter paranoid-halluzinatorischen Schizophrenie leidenden Beschuldigten
+- [BGH, Beschluss vom 17.03.2021 - 4 StR 540/20](4-str-540-20.md) — Ablehnung von Beweisanträgen im Strafverfahren: Antrag auf Herstellung und eventueller Verwertung von Einzelbildern aus einer Videoaufzeichnung; Stellung eines 
+- [BGH, Beschluss vom 04.03.2021 - 4 StR 209/20](4-str-209-20.md) — Revision in Strafsachen: Wiedereinsetzung in den vorigen Stand zwecks Heilung einer Verfahrensrüge
+- [BGH, Beschluss vom 03.03.2021 - 4 StR 318/20](4-str-318-20.md) — Notwehr: Einschränkung des Notwehrrechts nach vorwerfbarer Provokation der Notwehrlage
+- [BGH, Beschluss vom 03.03.2021 - 4 StR 324/20](4-str-324-20.md) — Strafverurteilung u.a. wegen Geiselnahme: Absoluter Revisionsgrund bei Augenscheinseinnahme in Lichtbilder in Abwesenheit des Angeklagten; Urteilstenor bei teil
+- [BGH, Beschluss vom 03.03.2021 - 4 StR 338/20](4-str-338-20.md) — Zum Gewahrsam des Bankkunden am Bargeld im Ausgabefach eines Geldautomaten, wenn er den Auszahlungsvorgang durch Einführen seiner Karte und Eingabe der zugehöri
+- [BGH, Beschluss vom 03.03.2021 - 4 StR 514/20](4-str-514-20.md) — Freiwilliger Rücktritt vom Versuch: Notwendigkeit von tatrichterlichen Feststellungen zum Vorstellungsbild des Angeklagten
+- [BGH, Beschluss vom 02.03.2021 - 4 StR 366/20](4-str-366-20.md) — Fahren ohne Fahrerlaubnis und Trunkenheitsfahrt mit Elektroroller: Notwendige Feststellungen zur Kraftfahrzeugeigenschaft und Fahruntüchtigkeit; Anordnung der S
+- [BGH, Beschluss vom 02.03.2021 - 4 StR 543/20](4-str-543-20.md) — Strafverurteilung wegen Nachstellung u.a.: Beharrlichkeit des Nachstellens; Unterbringungsanordnung wegen verminderter Schuldfähigkeit bei narzistischer Persönl
+- [BGH, Beschluss vom 18.02.2021 - 4 StR 266/20](4-str-266-20.md) — Mordvorwurf bei illegalem Autorennen: Feststellung vorsätzlichen Handelns bei Vertrauen des Angeklagten auf kollisionsvermeidendes Verhalten anderer Verkehrstei
+- [BGH, Beschluss vom 18.02.2021 - 4 StR 279/20](4-str-279-20.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: Anforderungen an die Bestimmung der Dauer des Vorwegvollzugs der Strafe in den Urteilsgründen
+- [BGH, Beschluss vom 18.02.2021 - 4 StR 314/20](4-str-314-20.md) — Strafverurteilung wegen Raubes u.a.: Anforderungen an eine sukzessive Mittäterschaft und Beihilfe
+- [BGH, Beschluss vom 18.02.2021 - 4 StR 473/20](4-str-473-20.md) — Körperverletzung: Strafbarkeit des heimlichen Nachschenkens und/oder Beimischens alkoholischer Getränke bei einem 15-jährigen Mädchen
+- [BGH, Beschluss vom 17.02.2021 - 4 StR 225/20](4-str-225-20.md) — Zur Auslegung der Strafnorm des § 315d Abs. 1 Nr. 3 StGB.
+- [BGH, Beschluss vom 17.02.2021 - 4 StR 360/20](4-str-360-20.md) — Strafverfahren: Verweisung bei Zuständigkeit eines höherrangigen Gerichts; Vorlage zur Übernahme des Verfahrens; Zuständigkeitsbegründung durch Übernahmebeschlu
+- [BGH, Beschluss vom 17.02.2021 - 4 StR 376/20](4-str-376-20.md) — Strafverurteilung wegen Herstellung kinderpornographischer Schriften: Verfolgungsverjährung bei unklarem Tatzeitpunkt
+- [BGH, Beschluss vom 17.02.2021 - 4 StR 528/20](4-str-528-20.md) — Sicherungsverfahren gegen einen schuldunfähigen Straftäter: Notwendige Feststellungen zu kritischen Verkehrssituationen bei Straßenverkehrsgefährdung anlässlich
+- [BGH, Beschluss vom 17.02.2021 - 4 StR 533/20](4-str-533-20.md) — Revision in Strafsachen: Zulässigkeit der Beweiserhebung durch Augenscheinseinnahme in Lichtbilder in Abwesenheit des Angeklagten
+- [BGH, Beschluss vom 16.02.2021 - 4 StR 495/20](4-str-495-20.md) — Verminderte Schuldfähigkeit: Anforderungen bei Diagnose einer "Borderline-Persönlichkeitsstörung"; Zusammenwirken einer Persönlichkeitsstörung und dem Konsum ps
+- [BGH, Beschluss vom 16.02.2021 - 4 StR 517/20](4-str-517-20.md) — Strafverfahren: Einschränkung der Verteidigungsmöglichkeit durch Anordnung der Änderung der Sitzordnung im Sitzungssaal
+- [BGH, Urteil vom 04.02.2021 - 4 StR 403/20](4-str-403-20.md) — Herbeiführung eines Verkehrsunfalls in Selbsttötungsabsicht: Straßenverkehrsgefährdung auf Grund alkoholbedingter Fahruntauglichkeit; schwere Körperverletzung d
+- [BGH, Beschluss vom 04.02.2021 - 4 StR 448/20](4-str-448-20.md) — Zu den Voraussetzungen der endgültigen Anordnung vorbehaltener Sicherungsverwahrung im Nachverfahren gemäß § 66a Abs. 3 StGB.
+- [BGH, Urteil vom 04.02.2021 - 4 StR 457/20](4-str-457-20.md) — Strafzumessung: Strafmilderung wegen ausländerrechtlicher Folgen einer Verurteilung
+- [BGH, Beschluss vom 03.02.2021 - 4 StR 263/20](4-str-263-20.md) — Schwere Vergewaltigung: Beisichführen einer Waffe oder eines anderen gefährlichen Werkzeugs; Anforderungen an den subjektiven Tatbestand
+- [BGH, Beschluss vom 03.02.2021 - 4 StR 305/20](4-str-305-20.md) — Hilfe zur Aufklärung oder Verhinderung schwerer waffenrechtlicher Straftaten: Anforderungen an den Aufklärungserfolg; notwendiger Zusammenhang zwischen aufgedec
+- [BGH, Beschluss vom 02.02.2021 - 4 StR 364/19](4-str-364-19.md) — 1. Auch Patienten, die einen Arzt zu Vorsorgeuntersuchungen aufsuchen, können diesem im Sinne von § 174c Abs. 1 StGB anvertraut sein. 2. Zum Vorliegen einer sex
+- [BGH, Beschluss vom 02.02.2021 - 4 StR 471/20](4-str-471-20.md) — Lückenhafte Beweiswürdigung: Unterlassene Wiedergabe der Einlassung des Angeklagten in den Urteilsgründen
+- [BGH, Urteil vom 21.01.2021 - 4 StR 337/20](4-str-337-20.md) — Heimtückemord: Maßgeblicher Zeitpunkt für das Bestehen der Arg- und Wehrlosigkeit des Tatopfers
+- [BGH, Beschluss vom 21.01.2021 - 4 StR 405/20](4-str-405-20.md) — Strafverfahren: Inbegriff der Hauptverhandlung bei Erstattung eines Gutachtens
+- [BGH, Beschluss vom 21.01.2021 - 4 StR 474/20](4-str-474-20.md) — Nachträgliche Gesamtstrafenbildung: Voraussetzung der vollständigen Rechtskraft der früheren Verurteilung
+- [BGH, Urteil vom 21.01.2021 - 4 StR 83/20](4-str-83-20.md) — Rechtsbeugung durch einen Strafrichter: Zugrundelegung sachfremder Erwägungen bei der Aufhebung von Bewährungsauflagen
+- [BGH, Beschluss vom 19.01.2021 - 4 StR 449/20](4-str-449-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Umfang der Bindungswirkung und notwendiger erneuter Feststellungen nach nur teilweiser revisionsgerichtliche
+- [BGH, Urteil vom 14.01.2021 - 4 StR 95/20](4-str-95-20.md) — 1. Zur rechtlichen Bewertung eines Alternativvorsatzes, wenn sich dieser auf die Verletzung höchstpersönlicher Rechtsgüter verschiedener Rechtsgutsträger bezieh
+- [BGH, Beschluss vom 12.01.2021 - 4 StR 139/20](4-str-139-20.md) — Strafzumessung: Entschuldigung über Verteidiger bei Täter-Opfer-Ausgleich
+- [BGH, Beschluss vom 12.01.2021 - 4 StR 280/20](4-str-280-20.md) — Zu den formellen und materiellen Voraussetzungen einer vorbehaltenen Sicherungsverwahrung nach § 7 Abs. 2 Satz 1 JGG.
+- [BGH, Beschluss vom 12.01.2021 - 4 StR 326/20](4-str-326-20.md) — Gefährlicher Eingriff in den Straßenverkehr: Wurf eines Bolzenschneiders in die Windschutzscheibe eines langsam anfahrenden Fahrzeugs
+- [BGH, Beschluss vom 12.01.2021 - 4 StR 411/20](4-str-411-20.md) — Strafverurteilung wegen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.: Eigennütziges Bemühen zur Tilgung von Schulden
+- [BGH, Beschluss vom 12.01.2021 - 4 StR 501/20](4-str-501-20.md) — Zueignungsabsicht beim Raub: Wegnahme einer Sache mit dem Ziel der Zerstörung

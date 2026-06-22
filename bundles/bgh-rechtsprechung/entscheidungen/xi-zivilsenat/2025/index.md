@@ -1,0 +1,45 @@
+# XI. Zivilsenat – 2025
+
+41 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2025 - XI ZB 8/25](xi-zb-8-25.md) — BGH, Beschluss XI ZB 8/25
+- [BGH, Urteil vom 09.12.2025 - XI ZR 64/24](xi-zr-64-24.md) — 1. Die von der Deutschen Bundesbank veröffentlichte Zeitreihe mit der Kennung BBSIS.M.I.ZST.ZI.EUR.S1311.B.A604.R07XX.R.A.A._Z._Z.A, ehemalige Zeitreihe WZ9820,
+- [BGH, Urteil vom 09.12.2025 - XI ZR 65/24](xi-zr-65-24.md) — BGH, Urteil XI ZR 65/24
+- [BGH, Beschluss vom 11.11.2025 - XI ZR 160/24](xi-zr-160-24.md) — Zusammenrechnung der Wertkappungsgrenzen bei mehreren Personen
+- [BGH, Beschluss vom 04.11.2025 - XI ZB 15/22](xi-zb-15-22.md) — 1. Zu den Anforderungen an die Beschwer bei einer Rechtsbeschwerde in einem Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz. 2. Zu dem Rechtsschutzbedü
+- [BGH, Urteil vom 21.10.2025 - XI ZR 133/24](xi-zr-133-24.md) — 1. Eine vom Darlehensgeber beim Abschluss eines Verbraucherdarlehensvertrags verlangte Sicherungszweckvereinbarung hat keine Leistung des Darlehensgebers oder e
+- [BGH, Urteil vom 21.10.2025 - XI ZR 187/23](xi-zr-187-23.md) — Zur Ordnungsgemäßheit der Angabe über die Berechnung der Vorfälligkeitsentschädigung in einem Immobiliar-Verbraucherdarlehensvertrag (Fortführung Senatsurteile 
+- [BGH, Urteil vom 23.09.2025 - XI ZR 29/24](xi-zr-29-24.md) — 1. Kündigungserklärungen einer Sparkasse sind einseitige Rechtsgeschäfte und keine Allgemeinen Geschäftsbedingungen im Sinne von § 305 Abs. 1 Satz 1 BGB (Fortfü
+- [BGH, Urteil vom 22.07.2025 - XI ZR 107/24](xi-zr-107-24.md) — 1. Zur grob fahrlässigen Verletzung einer Pflicht durch den Zahler im Sinne von § 675v Abs. 3 Nr. 2 Buchst. a BGB. 2. Ist der Schaden durch eine Überweisung ein
+- [BGH, Beschluss vom 09.07.2025 - XI ZR 68/24](xi-zr-68-24.md) — BGH, Beschluss XI ZR 68/24
+- [BGH, Beschluss vom 08.07.2025 - XI ZB 7/24](xi-zb-7-24.md) — BGH, Beschluss XI ZB 7/24
+- [BGH, Urteil vom 01.07.2025 - XI ZR 16/24](xi-zr-16-24.md) — Zur sogenannten Svensson-Methode bei der Bestimmung der Referenzzinsen bei Prämiensparverträgen durch ergänzende Vertragsauslegung.
+- [BGH, Beschluss vom 30.06.2025 - XI ZB 1/25](xi-zb-1-25.md) — BGH, Beschluss XI ZB 1/25
+- [BGH, Beschluss vom 24.06.2025 - XI ZB 2/24](xi-zb-2-24.md) — Musterrechtsbeschwerdeverfahren: Änderung der rechtskräftigen Kostengrundentscheidung bei Änderung der Festsetzung des Gegenstandswerts durch den Bundesgerichts
+- [BGH, Urteil vom 03.06.2025 - XI ZR 45/24](xi-zr-45-24.md) — 1. Der Bereicherungsanspruch des Kunden gegen die Sparkasse wegen eines ohne Rechtsgrund vom Girokonto des Kunden abgebuchten Entgelts entsteht erst mit dem Ane
+- [BGH, Urteil vom 20.05.2025 - XI ZR 22/24](xi-zr-22-24.md) — Zur Ordnungsgemäßheit der Angabe über die Berechnung der Vorfälligkeitsentschädigung in einem Immobiliar-Verbraucherdarlehensvertrag.
+- [BGH, Beschluss vom 06.05.2025 - XI ZB 30/21](xi-zb-30-21.md) — Zu der Pflicht, in einem Verkaufsprospekt für die Beteiligung an Gesellschaften, deren Unternehmensgegenstand jeweils der Erwerb und Betrieb eines Containerschi
+- [BGH, Urteil vom 29.04.2025 - XI ZR 140/23](xi-zr-140-23.md) — Der Feststellungsantrag des Darlehensnehmers, aufgrund des Widerrufs seiner Vertragserklärung nicht mehr zur Zahlung von Zins- und Tilgungsleistungen aus dem Da
+- [BGH, Beschluss vom 15.04.2025 - XI ZB 13/24](xi-zb-13-24.md) — Zur Besorgnis der Befangenheit gegenüber einem Richter, der über einen Anspruch auf Rückzahlung von Kontoführungsentgelten wegen Unwirksamkeit der AGB-Klausel ü
+- [BGH, Beschluss vom 15.04.2025 - XI ZB 14/24](xi-zb-14-24.md) — BGH, Beschluss XI ZB 14/24
+- [BGH, Beschluss vom 25.03.2025 - XI ZR 204/23](xi-zr-204-23.md) — BGH, Beschluss XI ZR 204/23
+- [BGH, Urteil vom 25.03.2025 - XI ZR 94/23](xi-zr-94-23.md) — BGH, Urteil XI ZR 94/23
+- [BGH, Beschluss vom 18.03.2025 - XI ZR 101/24](xi-zr-101-24.md) — BGH, Beschluss XI ZR 101/24
+- [BGH, Urteil vom 18.03.2025 - XI ZR 59/23](xi-zr-59-23.md) — 1. Im Effektengiroverkehr entfalten die Vertragsverhältnisse zwischen den beteiligten Depotbanken keine Schutzwirkung zugunsten Dritter. Bei Wertpapieren, die i
+- [BGH, Beschluss vom 18.03.2025 - XI ZR 83/24](xi-zr-83-24.md) — BGH, Beschluss XI ZR 83/24
+- [BGH, Beschluss vom 11.03.2025 - XI ZB 1/24](xi-zb-1-24.md) — Zu den Angaben, die ein Verkaufsprospekt gemäß § 9 Abs. 2 Nr. 7 VermVerkProspV in der Fassung bis zum 31. Mai 2012 hinsichtlich eines Bewertungsgutachtens für d
+- [BGH, Beschluss vom 11.03.2025 - XI ZB 17/24](xi-zb-17-24.md) — Verlassen auf Bestätigung des Dokumenteneingangs in Büroverwaltungssoftware
+- [BGH, Beschluss vom 11.03.2025 - XI ZB 24/23](xi-zb-24-23.md) — BGH, Beschluss XI ZB 24/23
+- [BGH, Beschluss vom 18.02.2025 - XI ZB 24/24](xi-zb-24-24.md) — BGH, Beschluss XI ZB 24/24
+- [BGH, Beschluss vom 11.02.2025 - XI ZR 182/23](xi-zr-182-23.md) — BGH, Beschluss XI ZR 182/23
+- [BGH, Beschluss vom 11.02.2025 - XI ZR 32/24](xi-zr-32-24.md) — Rückzahlung einer Vorfälligkeitsentschädigung nach Kündigung des Darlehensvertrags: Zustimmung der kreditgewährenden Bank zum Sicherheitenaustausch
+- [BGH, Beschluss vom 06.02.2025 - XI ZR 217/22](xi-zr-217-22.md) — BGH, Beschluss XI ZR 217/22
+- [BGH, Urteil vom 04.02.2025 - XI ZR 161/23](xi-zr-161-23.md) — 1. Die in dem von einer Bank für eine Vielzahl von Vertragsverhältnissen vorformulierten Preis- und Leistungsverzeichnis enthaltenen Klauseln über Tagesgeldkont
+- [BGH, Urteil vom 04.02.2025 - XI ZR 183/23](xi-zr-183-23.md) — Die von einer Bank für eine Vielzahl von Vertragsverhältnissen über Spareinlagen vorformulierten Klauseln "Verwahrung von Einlagen oberhalb des Freibetrags für 
+- [BGH, Beschluss vom 04.02.2025 - XI ZR 47/24](xi-zr-47-24.md) — BGH, Beschluss XI ZR 47/24
+- [BGH, Urteil vom 04.02.2025 - XI ZR 61/23](xi-zr-61-23.md) — Die von einer Bank für eine Vielzahl von Giroverträgen verwendete Klausel zu einem "Verwahrentgelt" "Verwahrentgelt für Guthaben ab 5.000,01 € (Freibetrag 5.000
+- [BGH, Urteil vom 04.02.2025 - XI ZR 65/23](xi-zr-65-23.md) — 1. Die von einer Bank für eine Vielzahl von Giroverträgen in dem vorformulierten Preis- und Leistungsverzeichnis enthaltene Klausel zu einem "Verwahrentgelt" "P
+- [BGH, Urteil vom 28.01.2025 - XI ZR 162/21](xi-zr-162-21.md) — Widerruf nach vollständiger Erfüllung des Darlehensvertrags
+- [BGH, Beschluss vom 28.01.2025 - XI ZR 365/21](xi-zr-365-21.md) — Zulässigkeit der Zurückweisung einer Nichtzulassungsbeschwerde
+- [BGH, Beschluss vom 21.01.2025 - XI ZB 26/23](xi-zb-26-23.md) — Einheitlicher Streitgegenstand bei Prospekthaftung und Beratung; Auswirkungen der Verschmelzung auf Rechtsmittel und Kosten
+- [BGH, Urteil vom 14.01.2025 - XI ZR 35/24](xi-zr-35-24.md) — Das bei einer Darlehensablösung von dem bisherigen Kreditinstitut in einer Vielzahl von Fällen von dem neuen Kreditinstitut geforderte Entgelt für den mit der A

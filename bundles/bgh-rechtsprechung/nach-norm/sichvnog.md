@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SichVNOG"
 description: "BGH-Entscheidungen zu SichVNOG, geordnet nach Vorschrift."
 tags: [register, navigation, sichvnog]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des SichVNOG ausl
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 66 SichVNOG | [BGH, Beschluss vom 08.06.2011 - 4 StR 127/11](../entscheidungen/4-strafsenat/2011/4-str-127-11.md) |
+| § SichVNOG | [BGH, Beschluss vom 08.06.2011 - 4 StR 127/11](../entscheidungen/4-strafsenat/2011/4-str-127-11.md) |

@@ -1,0 +1,9 @@
+# NOTST – 2020
+
+5 Entscheidung(en).
+
+- [BGH, Beschluss vom 16.11.2020 - NotSt (Brfg) 1/20](notst-brfg-1-20.md) — Disziplinarverfahren gegen einen Notar: Kostenentscheidung nach Aufhebung der Disziplinarmaßnahme
+- [BGH, Urteil vom 16.11.2020 - NotSt (Brfg) 2/19](notst-brfg-2-19.md) — 1. Dem Notar steht bei der Prüfung der Frage, ob ein berechtigtes Sicherungsinteresse für eine Hinterlegung von Geld auf einem Notaranderkonto besteht, ein geri
+- [BGH, Beschluss vom 16.11.2020 - NotSt (Brfg) 3/20](notst-brfg-3-20.md) — Disziplinarverfahren gegen einen Notar: Gebot der notariellen Unabhängigkeit im Rahmen des Urkundenvollzugs
+- [BGH, Beschluss vom 20.07.2020 - NotSt (B) 1/20](notst-b-1-20.md) — Zu einem gerichtlichen Disziplinarverfahren, das die Entfernung eines Notars aus dem Amt zum Gegenstand hat, ist die Landesnotarkammer mangels rechtlichen Inter
+- [BGH, Beschluss vom 20.07.2020 - NotSt (Brfg) 2/20](notst-brfg-2-20.md) — 1. Genehmigungsbedürftig nach § 2 GrdstVG ist unter dem Gesichtspunkt des Umgehungsgeschäfts auch der Verkauf kleinerer, die Freigrenze nicht überschreitender, 

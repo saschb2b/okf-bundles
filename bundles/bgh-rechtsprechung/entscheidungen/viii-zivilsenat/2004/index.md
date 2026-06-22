@@ -1,0 +1,43 @@
+# VIII. Zivilsenat – 2004
+
+39 Entscheidung(en).
+
+- [BGH, Beschluss vom 16.11.2004 - VIII ZB 107/03](viii-zb-107-03.md) — fehlerhafter Besetzung des Beschwerdegerichts von Amts wegen aufzuheben (BGHZ 154, 200, 202 ff.).
+- [BGH, Beschluss vom 16.11.2004 - VIII ZB 23/04](viii-zb-23-04.md) — BGH, Beschluss vom 16.11.2004 - VIII ZB 23/04
+- [BGH, Beschluss vom 16.11.2004 - VIII ZB 32/04](viii-zb-32-04.md) — BGH, Beschluss vom 16.11.2004 - VIII ZB 32/04
+- [BGH, Beschluss vom 16.11.2004 - VIII ZB 45/04](viii-zb-45-04.md) — BGH, Beschluss vom 16.11.2004 - VIII ZB 45/04
+- [BGH, Urteil vom 10.11.2004 - VIII ZR 391/03](viii-zr-391-03.md) — BGH, Urteil vom 10.11.2004 - VIII ZR 391/03
+- [BGH, Beschluss vom 09.11.2004 - VIII ZB 36/04](viii-zb-36-04.md) — BGH, Beschluss vom 09.11.2004 - VIII ZB 36/04
+- [BGH, Beschluss vom 09.11.2004 - VIII ZB 60/04](viii-zb-60-04.md) — unterlassener Schönheitsreparaturen verlangt. In der Klageschrift hat sie als ihre Adresse ausschließlich eine Anschrift in Spanien angegebe
+- [BGH, Urteil vom 20.10.2004 - VIII ZR 246/03](viii-zr-246-03.md) — Tatbestand:
+- [BGH, Urteil vom 06.10.2004 - VIII ZR 355/03](viii-zr-355-03.md) — Tatbestand:
+- [BGH, Beschluss vom 26.07.2004 - VIII ZR 289/03](viii-zr-289-03.md) — BGH, Beschluss vom 26.07.2004 - VIII ZR 289/03
+- [BGH, Beschluss vom 26.07.2004 - VIII ZR 290/03](viii-zr-290-03.md) — BGH, Beschluss vom 26.07.2004 - VIII ZR 290/03
+- [BGH, Urteil vom 14.07.2004 - VIII ZR 294/03](viii-zr-294-03.md) — BGH, Urteil vom 14.07.2004 - VIII ZR 294/03
+- [BGH, Urteil vom 14.07.2004 - VIII ZR 345/03](viii-zr-345-03.md) — Tatbestand:
+- [BGH, Urteil vom 30.06.2004 - VIII ZR 379/03](viii-zr-379-03.md) — BGH, Urteil vom 30.06.2004 - VIII ZR 379/03
+- [BGH, Urteil vom 23.06.2004 - VIII ZR 283/03](viii-zr-283-03.md) — Tatbestand:
+- [BGH, Beschluss vom 14.06.2004 - VIII ZA 12/04](viii-za-12-04.md) — BGH, Beschluss vom 14.06.2004 - VIII ZA 12/04
+- [BGH, Beschluss vom 09.06.2004 - VIII ZR 86/04](viii-zr-86-04.md) — BGH, Beschluss vom 09.06.2004 - VIII ZR 86/04
+- [BGH, Urteil vom 02.06.2004 - VIII ZR 329/03](viii-zr-329-03.md) — Tatbestand:
+- [BGH, Beschluss vom 01.06.2004 - VIII ZB 2/04](viii-zb-2-04.md) — BGH, Beschluss vom 01.06.2004 - VIII ZB 2/04
+- [BGH, Urteil vom 26.05.2004 - VIII ZR 135/03](viii-zr-135-03.md) — Tatbestand:
+- [BGH, Urteil vom 26.05.2004 - VIII ZR 310/03](viii-zr-310-03.md) — Tatbestand: Aufgrund eines schriftlichen Mietvertrages vom 12. Oktober 2000 bewohnen die Kläger seit dem 1. November 2000 die im Erdgeschoß
+- [BGH, Urteil vom 26.05.2004 - VIII ZR 314/03](viii-zr-314-03.md) — Tatbestand: Das Landgericht hat die Berufung des Klägers gegen das Urteil des Amtsgerichts Kelheim vom 30. April 2003 zurückgewiesen. Zuglei
+- [BGH, Urteil vom 12.05.2004 - VIII ZR 159/03](viii-zr-159-03.md) — Tatbestand: Die Klägerin ist eine Kooperation mehrerer Reisebürounternehmen. Die Beklagte ist ein großes Luftverkehrsunternehmen und gehört
+- [BGH, Urteil vom 12.05.2004 - VIII ZR 235/03](viii-zr-235-03.md) — Tatbestand:
+- [BGH, Urteil vom 28.04.2004 - VIII ZR 177/03](viii-zr-177-03.md) — gestiegener Kapitalkosten nicht außer Betracht.
+- [BGH, Urteil vom 28.04.2004 - VIII ZR 178/03](viii-zr-178-03.md) — gestiegener Kapitalkosten erklärte Mieterhöhung ist nach Wegfall der Preisbindung bei einem nach dem 31. August 2001 zugegangenen Mieterhöhu
+- [BGH, Urteil vom 28.04.2004 - VIII ZR 230/03](viii-zr-230-03.md) — Tatbestand: Mit Mietvertrag vom 8. September 1982 mieteten die Beklagte und ihr inzwischen verstorbener Ehemann von der Klägerin eine Wohnun
+- [BGH, Beschluss vom 27.04.2004 - VIII ZB 103/02](viii-zb-103-02.md) — der grundsätzlichen Bedeutung der Sache die Rechtsbe-
+- [BGH, Urteil vom 24.03.2004 - VIII ZR 188/03](viii-zr-188-03.md) — Tatbestand:
+- [BGH, Urteil vom 24.03.2004 - VIII ZR 44/03](viii-zr-44-03.md) — Tatbestand:
+- [BGH, Urteil vom 25.02.2004 - VIII ZR 208/03](viii-zr-208-03.md) — Tatbestand: Das Landgericht hat die Berufung des Beklagten gegen das Urteil des Amtsgerichts Stade vom 21. Januar 2003 zurückgewiesen. Zugle
+- [BGH, Beschluss vom 18.02.2004 - VIII ZB 84/03](viii-zb-84-03.md) — BGH, Beschluss vom 18.02.2004 - VIII ZB 84/03
+- [BGH, Urteil vom 11.02.2004 - VIII ZR 127/03](viii-zr-127-03.md) — Tatbestand:
+- [BGH, Urteil vom 04.02.2004 - VIII ZR 171/03](viii-zr-171-03.md) — Tatbestand: Die Beklagten mieteten von der Klägerin gemäß Mietvertrag vom 14./25. November 1996 eine Zwei-Zimmer-Dachgeschoßwohnung in B. .
+- [BGH, Beschluss vom 28.01.2004 - VIII ZB 66/03](viii-zb-66-03.md) — BGH, Beschluss vom 28.01.2004 - VIII ZB 66/03
+- [BGH, Urteil vom 21.01.2004 - VIII ZR 137/03](viii-zr-137-03.md) — Tatbestand:
+- [BGH, Urteil vom 21.01.2004 - VIII ZR 140/03](viii-zr-140-03.md) — Tatbestand: Das Landgericht hat die Berufung der Kläger gegen das Urteil des Amtsgerichts Speyer vom 16. Dezember 2002 zurückgewiesen. Zugle
+- [BGH, Urteil vom 21.01.2004 - VIII ZR 99/03](viii-zr-99-03.md) — gestiegener Betriebskosten nach Außerkrafttreten des Gesetzes zur dauerhaften Verbesserung der Wohnungssituation im Land Berlin (GVW) am 31.
+- [BGH, Beschluss vom 07.01.2004 - VIII ZB 131/03](viii-zb-131-03.md) — BGH, Beschluss vom 07.01.2004 - VIII ZB 131/03

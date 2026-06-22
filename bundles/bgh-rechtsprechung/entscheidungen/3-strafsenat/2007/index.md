@@ -1,0 +1,56 @@
+# 3. Strafsenat – 2007
+
+52 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2007 - 3 StR 240/06](3-str-240-06.md) — Untreue u. a.; hier: Antrag des Wahlverteidigers auf Feststellung einer Pauschgebühr
+- [BGH, Beschluss vom 18.12.2007 - 3 StR 417/07](3-str-417-07.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 18.12.2007 - 3 StR 516/07](3-str-516-07.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 13.12.2007 - 3 StR 347/07](3-str-347-07.md) — banden- und gewerbsmäßigen Computerbetrugs u. a.
+- [BGH, Beschluss vom 13.12.2007 - 3 StR 385/04](3-str-385-04.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 06.12.2007 - 3 StR 342/07](3-str-342-07.md) — Mordes
+- [BGH, Beschluss vom 04.12.2007 - 3 StR 402/07](3-str-402-07.md) — gewerbsmäßiger Hehlerei u. a.
+- [BGH, Beschluss vom 04.12.2007 - 3 StR 403/07](3-str-403-07.md) — gewerbsmäßigen Bandenbetrugs
+- [BGH, Beschluss vom 04.12.2007 - 3 StR 404/07](3-str-404-07.md) — Beihilfe zur gewerbsmäßigen Hehlerei
+- [BGH, Beschluss vom 04.12.2007 - 3 StR 456/07](3-str-456-07.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 22.11.2007 - 3 StR 430/07](3-str-430-07.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 15.11.2007 - 3 StR 385/07](3-str-385-07.md) — Erpressung u. a.
+- [BGH, Beschluss vom 15.11.2007 - 3 StR 390/07](3-str-390-07.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.11.2007 - 3 StR 415/07](3-str-415-07.md) — Raubes u. a.
+- [BGH, Urteil vom 08.11.2007 - 3 StR 309/07](3-str-309-07.md) — Beihilfe zum besonders schweren Raub
+- [BGH, Urteil vom 08.11.2007 - 3 StR 320/07](3-str-320-07.md) — schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 06.11.2007 - 3 StR 418/07](3-str-418-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 30.10.2007 - 3 StR 410/07](3-str-410-07.md) — besonders schwerer Vergewaltigung
+- [BGH, Beschluss vom 16.10.2007 - 3 StR 254/07](3-str-254-07.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 16.10.2007 - 3 StR 351/07](3-str-351-07.md) — gewerbsmäßiger Bandenhehlerei u. a.
+- [BGH, Beschluss vom 16.10.2007 - 3 StR 419/07](3-str-419-07.md) — räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 02.10.2007 - 3 StR 412/07](3-str-412-07.md) — BGH, Beschluss vom 02.10.2007 - 3 StR 412/07
+- [BGH, Entscheidung vom 01.10.2007 - 3 StR 379/07](3-str-379-07.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Urteil vom 20.09.2007 - 3 StR 274/07](3-str-274-07.md) — versuchter räuberischer Erpressung
+- [BGH, Beschluss vom 20.09.2007 - 3 StR 336/07](3-str-336-07.md) — Betruges
+- [BGH, Beschluss vom 13.09.2007 - 3 StR 349/07](3-str-349-07.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 11.09.2007 - 3 StR 323/07](3-str-323-07.md) — Anordnung der vorbehaltenen Sicherungsverwahrung
+- [BGH, Beschluss vom 11.09.2007 - 3 StR 330/07](3-str-330-07.md) — sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 11.09.2007 - 3 StR 332/07](3-str-332-07.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 29.08.2007 - 3 StR 256/07](3-str-256-07.md) — Betrugs u. a.
+- [BGH, Urteil vom 28.08.2007 - 3 StR 212/07](3-str-212-07.md) — zu 1.: Vorteilsannahme zu 2.: Vorteilsgewährung
+- [BGH, Beschluss vom 23.08.2007 - 3 StR 273/04](3-str-273-04.md) — Betrugs u. a.
+- [BGH, Beschluss vom 21.08.2007 - 3 StR 263/07](3-str-263-07.md) — Raubes mit Todesfolge u. a.
+- [BGH, Beschluss vom 14.08.2007 - 3 StR 266/07](3-str-266-07.md) — Betruges u. a.
+- [BGH, Beschluss vom 07.08.2007 - 3 StR 276/07](3-str-276-07.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 21.06.2007 - 3 StR 216/07](3-str-216-07.md) — Anstiftung zur Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 19.06.2007 - 3 StR 208/07](3-str-208-07.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 19.06.2007 - 3 StR 214/07](3-str-214-07.md) — versuchten Mordes u. a.
+- [BGH, Urteil vom 14.06.2007 - 3 StR 176/07](3-str-176-07.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.06.2007 - 3 StR 194/07](3-str-194-07.md) — schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 31.05.2007 - 3 StR 152/07](3-str-152-07.md) — BGH, Beschluss vom 31.05.2007 - 3 StR 152/07
+- [BGH, Beschluss vom 29.05.2007 - 3 StR 190/07](3-str-190-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 15.05.2007 - 3 StR 128/07](3-str-128-07.md) — Geiselnahme
+- [BGH, Beschluss vom 02.05.2007 - 3 StR 126/07](3-str-126-07.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 19.04.2007 - 3 StR 75/07](3-str-75-07.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 11.04.2007 - 3 StR 383/06](3-str-383-06.md) — gewerbsmäßiger Bandenhehlerei u. a.
+- [BGH, Beschluss vom 11.04.2007 - 3 StR 94/07](3-str-94-07.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 11.04.2007 - 3 StR 97/07](3-str-97-07.md) — Geiselnahme u. a.
+- [BGH, Beschluss vom 03.04.2007 - 3 StR 100/07](3-str-100-07.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 03.04.2007 - 3 StR 98/07](3-str-98-07.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 15.03.2007 - 3 StR 454/06](3-str-454-06.md) — schwerer Brandstiftung u. a.
+- [BGH, Beschluss vom 06.03.2007 - 3 StR 497/06](3-str-497-06.md) — Totschlags

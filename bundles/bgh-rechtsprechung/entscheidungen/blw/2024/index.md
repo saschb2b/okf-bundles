@@ -1,0 +1,6 @@
+# BLW – 2024
+
+2 Entscheidung(en).
+
+- [BGH, Beschluss vom 22.11.2024 - BLw 1/24](blw-1-24.md) — 1. Fällt ein landwirtschaftlicher Betrieb in den Nachlass einer durch gesetzliche Erbfolge entstandenen Erbengemeinschaft, setzt eine gerichtliche Zuweisung der
+- [BGH, Beschluss vom 12.04.2024 - BLw 2/22](blw-2-22.md) — 1a. Auch bei einem freihändigen Verkauf eines landwirtschaftlichen Grundstücks ohne Durchführung eines Ausschreibungsverfahrens ist in der Regel davon auszugehe

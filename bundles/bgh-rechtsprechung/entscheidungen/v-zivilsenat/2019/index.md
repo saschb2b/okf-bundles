@@ -1,0 +1,103 @@
+# V. Zivilsenat – 2019
+
+99 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2019 - V ZB 145/18](v-zb-145-18.md) — 1. Das Grundbuchamt darf den Vollzug einer Teilungserklärung im Grundbuch nicht deshalb verweigern, weil dem teilenden Eigentümer die Begründung von Wohnungs- o
+- [BGH, Beschluss vom 19.12.2019 - V ZR 81/19](v-zr-81-19.md) — (Zulässigkeit einer Nichtzulassungsbeschwerde: Feststellung der Beschwer eines Wohnungseigentümers)
+- [BGH, Urteil vom 13.12.2019 - V ZR 152/18](v-zr-152-18.md) — 1. Beantragen die Parteien einvernehmlich die Verlegung eines Verkündungstermins, weil sie ernsthafte Vergleichsgespräche führen wollen, ist regelmäßig ein erhe
+- [BGH, Urteil vom 13.12.2019 - V ZR 203/18](v-zr-203-18.md) — 1. Bei der Prüfung, ob sich eine nach dem in der Teilungserklärung vereinbarten Zweck (hier: „Laden mit Lager“) ausgeschlossene Nutzung (hier: Betreiben eines E
+- [BGH, Versäumnisurteil vom 13.12.2019 - V ZR 313/16](v-zr-313-16.md) — Gerichtszuständigkeit in einer Wohnungseigentumssache
+- [BGH, Urteil vom 13.12.2019 - V ZR 43/19](v-zr-43-19.md) — Die Erfüllung der auf das Gemeinschaftseigentum bezogenen Verkehrssicherungspflichten gehört zu einer ordnungsmäßigen Verwaltung; für diese ist der Verband im I
+- [BGH, Beschluss vom 12.12.2019 - V ZR 69/19](v-zr-69-19.md) — Erneute Anhörung des Sachverständigen im Berufungsverfahren
+- [BGH, Beschluss vom 21.11.2019 - V ZB 75/18](v-zb-75-18.md) — Ersucht die Strafverfolgungsbehörde (hier: Finanzamt für Steuerstrafsachen und Steuerfahndung) das Grundbuchamt um die Eintragung einer Sicherungshypothek zum V
+- [BGH, Beschluss vom 21.11.2019 - V ZB 75/19](v-zb-75-19.md) — Es gibt keinen allgemeinen Grundsatz, dass ein Grundstückseigentümer, der auf seinem Grundstück ein Mobilheim aufstellt, eine Verbindung mit dem Grund und Boden
+- [BGH, Beschluss vom 21.11.2019 - V ZR 101/19](v-zr-101-19.md) — Ablehnung einer beantragten Zeugenvernehmung wegen Ungeeignetheit aufgrund fehlender Erinnerungen; Haftung des Verwalters bei Pflichtverletzungen
+- [BGH, Urteil vom 15.11.2019 - V ZR 9/19](v-zr-9-19.md) — 1. § 7 Abs. 1 Satz 3 HeizkostenV ist auch im Wohnungseigentumsrecht auf überwiegend ungedämmte, aber nicht freiliegende Leitungen der Wärmeverteilung nicht anal
+- [BGH, Beschluss vom 14.11.2019 - V ZR 63/19](v-zr-63-19.md) — Wohnungseigentum: Rechtsmissbräuchliche Schadensersatzforderung eines Wohnungseigentümers nach durch Eigentümerbeschluss zurückgewiesenem Sanierungsverlangen
+- [BGH, Beschluss vom 07.11.2019 - V ZB 12/16](v-zb-12-16.md) — 1. Wurde die Zulässigkeit des Rechtswegs in erster Instanz gerügt, ein Beschluss nach § 17a Abs. 3 Satz 2 GVG aber nicht gefasst, ist die Prüfung des Rechtswegs
+- [BGH, Beschluss vom 07.11.2019 - V ZB 135/18](v-zb-135-18.md) — Teilungsversteigerung: Einstweilige Einstellung wegen Suizidgefahr des die Immobilie bewohnenden Miteigentümers; Befugnisse des Vollstreckungsgerichts zur Auflö
+- [BGH, Beschluss vom 30.10.2019 - V ZR 299/14](v-zr-299-14.md) — Rechtsanwaltsvergütung: Gegenstandswert für die anwaltliche Tätigkeit bei zunächst unbeschränkter Einlegung einer Nichtzulassungsbeschwerde und nachfolgender Be
+- [BGH, Urteil vom 25.10.2019 - V ZR 271/18](v-zr-271-18.md) — 1. Die Wohnungseigentümer haben gegen den Mieter einer Sondereigentumseinheit, der bei der Nutzung des Gemeinschaftseigentums gegen eine von den Eigentümern ver
+- [BGH, Urteil vom 18.10.2019 - V ZR 188/18](v-zr-188-18.md) — 1. Der Verwalter, der verurteilt worden ist, einem Wohnungseigentümer die Zustimmung zur Veräußerung seines Wohnungseigentums gemäß § 12 Abs. 1 WEG zu erteilen,
+- [BGH, Urteil vom 18.10.2019 - V ZR 286/18](v-zr-286-18.md) — 1. Die gesetzliche Vertretungsbefugnis des Verwalters für die in einem Beschlussmängelverfahren beklagten Wohnungseigentümer erstreckt sich auf den Abschluss ei
+- [BGH, Urteil vom 11.10.2019 - V ZR 7/19](v-zr-7-19.md) — Eine Vereinbarung, mit der die Parteien eines Grundstückskaufvertrags die Möglichkeit zur Nutzung des Grundstücks beschränken (hier: Verbot der Milchverarbeitun
+- [BGH, Beschluss vom 10.10.2019 - V ZB 154/18](v-zb-154-18.md) — 1. Die Pfändungsschutzvorschrift des § 850i ZPO findet im Zwangsverwaltungsverfahren keine entsprechende Anwendung. 2. Dem Schuldner sind im Zwangsverwaltungsve
+- [BGH, Beschluss vom 10.10.2019 - V ZR 4/19](v-zr-4-19.md) — Streit um Gewährleistungsansprüche des Käufers eines sanierten Altbau-Einfamilienhausgrundstücks: Verletzung rechtlichen Gehörs bei unberücksichtigtem Parteivor
+- [BGH, Urteil vom 27.09.2019 - V ZR 1/18](v-zr-1-18.md) — Kostentragung der Unterhaltungspflicht für die der Ausübung der Grunddienstbarkeit dienenden Anlagen
+- [BGH, Beschluss vom 26.09.2019 - V ZB 41/19](v-zb-41-19.md) — Erteilung von Ausfertigungen einer Grundstückskaufvertragsurkunde mit Auflassungserklärung
+- [BGH, Beschluss vom 26.09.2019 - V ZR 224/18](v-zr-224-18.md) — Übersteigt das Interesse des beklagten Wohnungseigentümers, der zur Beseitigung einer baulichen Veränderung des gemeinschaftlichen Eigentums (hier: Abgasrohr fü
+- [BGH, Beschluss vom 26.09.2019 - V ZR 285/18](v-zr-285-18.md) — Gegenstandswert eines Beschwerdeverfahrens über die Nichtzulassung der Revision
+- [BGH, Urteil vom 20.09.2019 - V ZR 218/18](v-zr-218-18.md) — 1a. Der Eigentümer eines Grundstücks ist hinsichtlich der von einem darauf befindlichen Baum (hier: Birken) ausgehenden natürlichen Immissionen auf benachbarte 
+- [BGH, Urteil vom 20.09.2019 - V ZR 258/18](v-zr-258-18.md) — 1. Der Begriff der Verwaltung im Sinne von § 21 WEG ist weit zu verstehen und umfasst deshalb regelmäßig auch Maßnahmen, die eine Veränderung der sachenrechtlic
+- [BGH, Beschluss vom 19.09.2019 - V ZB 119/18](v-zb-119-18.md) — 1a. Der Notar hat die Amtspflicht, vor der Vollziehung einer Erklärung, die ein Urkundsbeteiligter als Vertreter eines anderen abgegeben hat, die Vertretungsmac
+- [BGH, Beschluss vom 19.09.2019 - V ZB 16/19](v-zb-16-19.md) — Zwangsversteigerung: Einstellung des Verfahrens wegen Suizidgefahr des Schuldners
+- [BGH, Beschluss vom 29.08.2019 - V ZR 15/19](v-zr-15-19.md) — Beschlussanfechtung in Wohnungseigentumssachen: Folgen der Klagerücknahme nach gerichtlicher Feststellung der Nichtigkeit eines Eigentümerbeschlusses im Verfahr
+- [BGH, Beschluss vom 22.08.2019 - V ZB 144/17](v-zb-144-17.md) — Das für die Entscheidung über einen Antrag auf Verlängerung der Sicherungshaft zuständige Amtsgericht ist nicht verpflichtet, von Amts wegen zu prüfen, ob sich 
+- [BGH, Beschluss vom 22.08.2019 - V ZB 39/19](v-zb-39-19.md) — Ist dem Haftrichter, der über einen Haftverlängerungsantrag zu entscheiden hat, bekannt, dass der Betroffene in dem vorangegangenen Haftanordnungsverfahren durc
+- [BGH, Beschluss vom 21.08.2019 - V ZB 10/19](v-zb-10-19.md) — Die Zustellungsfiktion nach § 10 Abs. 2 Satz 4 AsylG setzt voraus, dass der Betroffene gemäß § 10 Abs. 7 AsylG schriftlich und gegen Empfangsbestätigung auf die
+- [BGH, Beschluss vom 21.08.2019 - V ZB 60/17](v-zb-60-17.md) — Eine Abschiebungsanordnung nach § 34a Abs. 1 Satz 2 AsylG muss im Gegensatz zur Abschiebungsandrohung nach § 59 Abs. 1 AufenthG nicht vor der Anordnung von Sich
+- [BGH, Urteil vom 19.07.2019 - V ZR 177/17](v-zr-177-17.md) — 1. Solange der Besitzer eines im Rahmen eines Auswilderungsprogramms freigesetzten Tieres (hier: Wisent) dessen Verbleib mit dem Ziel beobachtet und überwacht, 
+- [BGH, Urteil vom 19.07.2019 - V ZR 255/17](v-zr-255-17.md) — 1. Beruft sich der auf Herausgabe verklagte Besitzer auf den Erwerb des Eigentums durch Ersitzung, trägt der frühere Besitzer der Sache die Beweislast für die V
+- [BGH, Urteil vom 19.07.2019 - V ZR 75/18](v-zr-75-18.md) — 1. Der Verwalter muss zur Vorbereitung der Beschlussfassung über Maßnahmen der Instandhaltung und Instandsetzung des Gemeinschaftseigentums die verschiedenen Ha
+- [BGH, Beschluss vom 18.07.2019 - V ZR 77/18](v-zr-77-18.md) — Verletzung des rechtlichen Gehörs durch ergänzende Vertragsauslegung durch Revisionsgericht
+- [BGH, Urteil vom 12.07.2019 - V ZR 288/17](v-zr-288-17.md) — Die Berechtigung aus einer Grunddienstbarkeit, eine Anlage auf dem dienenden Grundstück mitzubenutzen, bezieht sich bei nächstliegender Auslegung regelmäßig nic
+- [BGH, Beschluss vom 11.07.2019 - V ZR 244/17](v-zr-244-17.md) — Schätzung des Streitwerts bei Zustimmung zur Löschung einer Auflassungsvormerkung
+- [BGH, Urteil vom 05.07.2019 - V ZR 108/18](v-zr-108-18.md) — BGH, Urteil V ZR 108/18
+- [BGH, Urteil vom 05.07.2019 - V ZR 149/18](v-zr-149-18.md) — 1. Das Recht des Grundstückseigentümers, Störungen durch Dritte, deren Quelle sich auf dem Grundstück befindet, auf eigene Kosten selbst zu beseitigen, beruht a
+- [BGH, Versäumnisurteil vom 05.07.2019 - V ZR 278/17](v-zr-278-17.md) — 1. Die Aufhebung eines Beschlusses über die Bestellung der Verwaltung und eines Beschlusses über die Ermächtigung von Wohnungseigentümern zum Abschluss des Verw
+- [BGH, Urteil vom 05.07.2019 - V ZR 96/18](v-zr-96-18.md) — 1. Ein Bauschutt recycelndes Unternehmen verstößt nicht gegen die im Verkehr erforderliche Sorgfalt, wenn in seinem Betrieb Betonteile, die nicht bekanntermaßen
+- [BGH, Beschluss vom 04.07.2019 - V ZB 53/19](v-zb-53-19.md) — Dem Notar steht für die Einreichung einer Urkunde bei dem Präsidenten des Landgerichts zur Einholung einer Apostille keine Vollzugsgebühr nach Nr. 22124 KV GNot
+- [BGH, Urteil vom 28.06.2019 - V ZR 250/18](v-zr-250-18.md) — Eine Bestimmung in der Teilungserklärung, nach der Wohnungseigentümer sich in der Eigentümerversammlung nur durch den Ehegatten, einen Wohnungseigentümer oder d
+- [BGH, Beschluss vom 27.06.2019 - V ZB 27/18](v-zb-27-18.md) — Enthält ein vollstreckbarer Titel eine Kostengrundentscheidung zu Gunsten oder zu Lasten des Zwangsverwalters, ist der Zwangsverwalter in dem nachfolgenden Kost
+- [BGH, Urteil vom 14.06.2019 - V ZR 102/18](v-zr-102-18.md) — Ob der Eigentümer eines Grundstücks vom Nachbargrundstück herüberragende Zweige ausnahmsweise dulden muss, bestimmt sich - vorbehaltlich naturschutzrechtlicher 
+- [BGH, Urteil vom 14.06.2019 - V ZR 144/18](v-zr-144-18.md) — 1. Der Eigentümer eines Grundstücks hat nur einen Überbau durch Bauteile zu dulden, die wegen des Anbringens einer Wärmedämmung an der Grenzwand des Nachbarn au
+- [BGH, Urteil vom 14.06.2019 - V ZR 254/17](v-zr-254-17.md) — 1. Dem Wohnungseigentümer, der eigenmächtig Instandsetzungs- und Instandhaltungsarbeiten am Gemeinschaftseigentum durchführt, steht kein Ersatzanspruch aus Gesc
+- [BGH, Urteil vom 14.06.2019 - V ZR 73/18](v-zr-73-18.md) — Die Angabe des fachkundigen Verkäufers, das Kaufobjekt fachgerecht bzw. nach den anerkannten Vorschriften errichtet zu haben, erfolgt nicht schon dann ohne tats
+- [BGH, Beschluss vom 13.06.2019 - V ZB 132/17](v-zb-132-17.md) — Rechtsanwaltspflichten bei Empfangsbescheinigung ohne Handakten
+- [BGH, Beschluss vom 23.05.2019 - V ZB 196/17](v-zb-196-17.md) — 1. Die der beklagten Partei durch die Einreichung einer Anwaltsbestellung nach Klagerücknahme entstandenen Kosten sind erstattungsfähig im Sinne des § 91 Abs. 1
+- [BGH, Urteil vom 17.05.2019 - V ZR 34/18](v-zr-34-18.md) — Wahrung der Klagefrist bei einer WEG-Beschlussanfechtungsklage
+- [BGH, Beschluss vom 16.05.2019 - V ZB 101/18](v-zb-101-18.md) — Ist eine zweigliedrige Gesellschaft bürgerlichen Rechts, deren Gesellschafter miteinander verheiratet sind, Eigentümerin eines in Deutschland belegenen Grundstü
+- [BGH, Beschluss vom 16.05.2019 - V ZB 117/18](v-zb-117-18.md) — Der Antrag der Bremer Landesbank Kreditanstalt Oldenburg - Girozentrale - nach § 21 Satz 2 des Gesetzes für den Freistaat Oldenburg, betreffend die Staatliche K
+- [BGH, Beschluss vom 16.05.2019 - V ZR 295/16](v-zr-295-16.md) — Unterbrechung des Prozesses bei Unterlassungsansprüchen gegen den Insolvenzschuldner
+- [BGH, Beschluss vom 09.05.2019 - V ZB 12/18](v-zb-12-18.md) — In dem Verfahren der Abschiebungshaft darf das Gericht dem Betroffenen nicht von sich aus nahe legen, seine Beschwerde gegen die Haftanordnung zurückzunehmen. W
+- [BGH, Urteil vom 12.04.2019 - V ZR 112/18](v-zr-112-18.md) — 1. Beschlüsse, die auf der Grundlage einer allgemeinen Öffnungsklausel mit der erforderlichen Mehrheit gefasst werden, sind im Allgemeinen nur insoweit materiel
+- [BGH, Urteil vom 12.04.2019 - V ZR 132/18](v-zr-132-18.md) — 1. Die Veräußerung eines mit einem Grundpfandrecht belasteten Grundstücks ohne Übertragung der aus einem Schadensereignis entstandenen Forderung aus einer Gebäu
+- [BGH, Urteil vom 12.04.2019 - V ZR 341/17](v-zr-341-17.md) — Eine Kumulation von Nutzungsersatz und Prozesszinsen für den nach § 812 Abs. 1 BGB erlangten Geldbetrag scheidet auch dann aus, wenn der Bereicherungsschuldner 
+- [BGH, Urteil vom 12.04.2019 - V ZR 51/18](v-zr-51-18.md) — Nachbarrechte im Beitrittsgebiet: Duldungspflicht für einen ohne Einverständnis zu DDR-Zeiten errichteten Überbau
+- [BGH, Beschluss vom 11.04.2019 - V ZB 105/18](v-zb-105-18.md) — Im Anwendungsbereich der Dublin-III-Verordnung kann ein konkreter Anhaltspunkt für das Bestehen von Fluchtgefahr gemäß § 2 Abs. 14 Nr. 6 AufenthG darin liegen, 
+- [BGH, Beschluss vom 11.04.2019 - V ZR 91/18](v-zr-91-18.md) — Wert der mit der Revision geltend zu machenden Beschwer: Kombinierte Einlegung der teilweise zugelassenen Revision und der Nichtzulassungsbeschwerde gegen die t
+- [BGH, Urteil vom 05.04.2019 - V ZR 339/17](v-zr-339-17.md) — 1. Ein Abmahnungsbeschluss der Wohnungseigentümer gemäß § 18 Abs. 2 Nr. 1 WEG ist anfechtbar; das Rechtsschutzinteresse für eine Beschlussanfechtungsklage fehlt
+- [BGH, Beschluss vom 04.04.2019 - V ZB 108/18](v-zb-108-18.md) — Bei einer unzulässigen Trennung im Sinne von § 145 ZPO kommt eine Berechnung der Rechtsmittelbeschwer aus dem einheitlichen Wert des Verfahrens vor der Trennung
+- [BGH, Beschluss vom 04.04.2019 - V ZB 156/18](v-zb-156-18.md) — Ausgangskontrolle bei Fax-Schriftsätzen
+- [BGH, Beschluss vom 04.04.2019 - V ZB 33/18](v-zb-33-18.md) — Ein konkreter Anhaltspunkt für das Bestehen von Fluchtgefahr gemäß § 62 Abs. 3 Satz 1 Nr. 5, § 2 Abs. 14 Nr. 6 AufenthG kann darin liegen, dass der Ausländer si
+- [BGH, Urteil vom 22.03.2019 - V ZR 105/18](v-zr-105-18.md) — § 21 Abs. 7 WEG erfasst nicht die Einführung von Vertragsstrafen für Verstöße gegen Vermietungsbeschränkungen; ein darauf bezogener Mehrheitsbeschluss ist mange
+- [BGH, Urteil vom 22.03.2019 - V ZR 145/18](v-zr-145-18.md) — Auslegung der Gemeinschaftsordnung von Wohnungseigentümern zur Frage der Kostenumlage bei Reparaturen
+- [BGH, Urteil vom 22.03.2019 - V ZR 298/16](v-zr-298-16.md) — Ein Anspruch auf Änderung der Gemeinschaftsordnung nach § 10 Abs. 2 Satz 3 WEG setzt nicht voraus, dass sich tatsächliche oder rechtliche Umstände nachträglich 
+- [BGH, Beschluss vom 21.03.2019 - V ZB 111/18](v-zb-111-18.md) — Die Voraussetzungen des § 116 Satz 1 Nr. 2 ZPO für die Bewilligung der Prozesskostenhilfe liegen bei der Wohnungseigentümergemeinschaft nur vor, wenn die Kosten
+- [BGH, Beschluss vom 21.03.2019 - V ZB 171/18](v-zb-171-18.md) — Abschiebungshaft: Von Amts wegen zu prüfende Zulässigkeit des Haftantrags; Anforderungen an die Begründung; Heilung eines fehlerhaften Haftantrags
+- [BGH, Beschluss vom 21.03.2019 - V ZB 97/18](v-zb-97-18.md) — Glaubhaftmachung des Verlustes eines fristwahrenden Schriftstückes auf dem Postweg
+- [BGH, Beschluss vom 21.03.2019 - V ZR 120/17](v-zr-120-17.md) — 1. Bei mehreren Klägern entspricht der Verkehrswert des Wohnungseigentums, der nach § 49a Abs. 1 Satz 3 GKG die absolute Obergrenze des Geschäftswerts bildet, d
+- [BGH, Beschluss vom 21.03.2019 - V ZR 127/18](v-zr-127-18.md) — Nichtzulassungsbeschwerde: Ermittlung des Werts der Beschwer bei Klage auf Unterlassung einer Eigentumsstörung
+- [BGH, Beschluss vom 14.03.2019 - V ZR 186/18](v-zr-186-18.md) — Gehörsverletzung: Nichtbeachtung klägerischen Vortrags zum Vorsatz des Maklers bei Angaben zur nutzbaren Wohnfläche einer Eigentumswohnung
+- [BGH, Beschluss vom 14.03.2019 - V ZR 60/18](v-zr-60-18.md) — Nichtzulassungsbeschwerde: Anrechnung von Pachtjahren nach Maßgabe des Flächenerwerbsänderungsgesetzes
+- [BGH, Urteil vom 08.03.2019 - V ZR 330/17](v-zr-330-17.md) — 1. Die tageweise Unterbringung von wohnungslosen Personen in einer Gemeinschaftsunterkunft zur Vermeidung von Obdachlosigkeit ist in der Regel nicht als eine zu
+- [BGH, Urteil vom 08.03.2019 - V ZR 343/17](v-zr-343-17.md) — Sind die Berechtigten einer Grunddienstbarkeit und der Eigentümer des dienenden Grundstücks zur gleichberechtigten Mitbenutzung des Grundstücks befugt, können s
+- [BGH, Beschluss vom 07.03.2019 - V ZB 53/18](v-zb-53-18.md) — 1. Beantragt eine im Grundbuch eingetragene Person gestützt auf einen nach den §§ 1 ff. TSG ergangenen Beschluss die Richtigstellung ihres Namens, hat das Grund
+- [BGH, Urteil vom 22.02.2019 - V ZR 136/18](v-zr-136-18.md) — Der Anspruch des Grundstückseigentümers auf Zurückschneiden herüberragender Äste aus § 1004 Abs. 1 BGB ist nicht nach § 26 Abs. 3 NRG BW unverjährbar. Er unterl
+- [BGH, Urteil vom 22.02.2019 - V ZR 225/17](v-zr-225-17.md) — 1. Die Regelung in § 7 Abs. 2 Sätze 1 und 2 GVO gilt für den Fall der bestandskräftigen Aufhebung der Grundstücksverkehrsgenehmigung für die Veräußerung eines s
+- [BGH, Urteil vom 15.02.2019 - V ZR 71/18](v-zr-71-18.md) — Wohnungseigentum: Klagbarer Anspruch des einzelnen Wohnungseigentümers auf Beschlussdurchführung gegen den Wohnungseigentumsverwalter; Hauptsacheerledigung bei 
+- [BGH, Urteil vom 08.02.2019 - V ZR 153/18](v-zr-153-18.md) — Die Wohnungseigentümergemeinschaft kann die individuellen Schadensersatzansprüche der Wohnungseigentümer gegen den Verwalter wegen der ihnen in einem Beschlussm
+- [BGH, Urteil vom 08.02.2019 - V ZR 176/17](v-zr-176-17.md) — 1. Es begegnet keinen sachenrechtlichen Bedenken, wenn eine beschränkte persönliche Dienstbarkeit zugunsten einer juristischen Person ohne zeitliche Befristung 
+- [BGH, Beschluss vom 07.02.2019 - V ZB 216/17](v-zb-216-17.md) — An einem Interesse des Betroffenen auf Feststellung der Rechtswidrigkeit der Haft fehlt es, wenn und soweit er in dem von der Anordnung der Sicherungshaft erfas
+- [BGH, Beschluss vom 07.02.2019 - V ZB 89/18](v-zb-89-18.md) — Die Pfändung und Überweisung des Anteils eines Miterben am Nachlass berechtigt den Vollstreckungsgläubiger nicht dazu, den Erbanteil freihändig zu veräußern. Hi
+- [BGH, Urteil vom 25.01.2019 - V ZR 38/18](v-zr-38-18.md) — 1. Öffentliche Äußerungen vor Vertragsschluss bestimmen die Eigenschaft einer Sache, die der Käufer erwarten kann, nicht, wenn und soweit die Vertragsparteien e
+- [BGH, Urteil vom 18.01.2019 - V ZR 324/17](v-zr-324-17.md) — Werden mehrere Bewerber um das Amt des Verwalters zur Wahl gestellt, muss über jeden Kandidaten abgestimmt werden, sofern nicht ein Bewerber die absolute Mehrhe
+- [BGH, Urteil vom 18.01.2019 - V ZR 72/18](v-zr-72-18.md) — Zur Herabsetzung der Stimmkraft des Eigentümers von sog. „Geisterwohnungen“.
+- [BGH, Beschluss vom 17.01.2019 - V ZB 121/18](v-zb-121-18.md) — Das für die Rechtsmittelbeschwer maßgebliche wirtschaftliche Interesse des klagenden Wohnungseigentümers, der erfolglos einen Beschluss über die Bestellung des 
+- [BGH, Beschluss vom 17.01.2019 - V ZB 81/18](v-zb-81-18.md) — 1. Ein nach dem Wohnungseigentumsgesetz aufgeteiltes Grundstück kann zugunsten einer der Sondereigentumseinheiten mit einer Grunddienstbarkeit belastet werden, 
+- [BGH, Beschluss vom 17.01.2019 - V ZR 107/18](v-zr-107-18.md) — Wohnungseigentum: Ersatz der Wertminderung bei fehlender Nutzbarkeit der einem Sondernutzungsrecht unterliegenden Dachterrasse
+- [BGH, Beschluss vom 10.01.2019 - V ZB 159/17](v-zb-159-17.md) — Ein Asylfolgeantrag unterbricht die Ursächlichkeit der unerlaubten Einreise für die für den Haftgrund des § 62 Abs. 3 Satz 1 Nr. 1 AufenthG erforderliche vollzi
+- [BGH, Beschluss vom 10.01.2019 - V ZB 19/18](v-zb-19-18.md) — Bei der Entscheidung über den Einstellungsantrag eines Miteigentümers im laufenden Teilungsversteigerungsverfahren ergeht, ebenso wie bei der Entscheidung über 
+- [BGH, Beschluss vom 10.01.2019 - V ZB 56/18](v-zb-56-18.md) — Die nach § 79 Abs. 1 FlurbG um Berichtigung des Grundbuchs ersuchende Flurbereinigungsbehörde ist zur Vorlage des Grundschuldbriefes verpflichtet, wenn sich im 
+- [BGH, Beschluss vom 10.01.2019 - V ZR 130/18](v-zr-130-18.md) — Nichtzulassungsbeschwerde: Berücksichtigungsfähigkeit neuer Angaben zum Erreichen der Mindestbeschwer
+- [BGH, Beschluss vom 10.01.2019 - V ZR 138/18](v-zr-138-18.md) — Wohnungseigentumsverfahren: Feststellung des kontradiktorischen Gegenteils nach Abweisung einer Klage auf Unterlassung eines Dachausbaus

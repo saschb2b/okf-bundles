@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SVRAStärkG"
 description: "BGH-Entscheidungen zu SVRAStärkG, geordnet nach Vorschrift."
 tags: [register, navigation, svrastärkg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des SVRAStärkG a
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 3 SVRAStärkG | [BGH, Urteil vom 20.02.2013 - I ZR 146/12](../entscheidungen/i-zivilsenat/2013/i-zr-146-12.md) |
+| § SVRAStärkG | [BGH, Urteil vom 20.02.2013 - I ZR 146/12](../entscheidungen/i-zivilsenat/2013/i-zr-146-12.md) |

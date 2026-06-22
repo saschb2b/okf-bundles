@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu DiplBezÜbk"
 description: "BGH-Entscheidungen zu DiplBezÜbk, geordnet nach Vorschrift."
 tags: [register, navigation, diplbezübk]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des DiplBezÜbk a
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 107 DiplBezÜbk | [BGH, Beschluss vom 30.03.2011 - XII ZB 300/10](../entscheidungen/xii-zivilsenat/2011/xii-zb-300-10.md) |
+| § DiplBezÜbk | [BGH, Beschluss vom 30.03.2011 - XII ZB 300/10](../entscheidungen/xii-zivilsenat/2011/xii-zb-300-10.md) |

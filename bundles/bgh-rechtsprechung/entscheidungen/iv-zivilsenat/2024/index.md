@@ -1,0 +1,131 @@
+# IV. Zivilsenat – 2024
+
+127 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2024 - IV ZB 1/24](iv-zb-1-24.md) — BGH, Beschluss IV ZB 1/24
+- [BGH, Urteil vom 18.12.2024 - IV ZR 151/23](iv-zr-151-23.md) — 1. Eine Klausel in den Allgemeinen Versicherungsbedingungen einer D&O-Versicherung, die ohne Berücksichtigung der sich aus § 11 Abs. 1 und 3 VVG ergebenden Mind
+- [BGH, Urteil vom 18.12.2024 - IV ZR 162/23](iv-zr-162-23.md) — BGH, Urteil IV ZR 162/23
+- [BGH, Urteil vom 18.12.2024 - IV ZR 207/23](iv-zr-207-23.md) — Prämienerhöhung in der Privaten Krankenversicherung: Auskunftsanspruch des Versicherungsnehmers auf Unterlagen zur Beitragsanpassung und Nachträge zum Versicher
+- [BGH, Urteil vom 18.12.2024 - IV ZR 368/21](iv-zr-368-21.md) — Rückabwicklung von Rentenversicherungsverträgen: Treuwidrigkeit der Geltendmachung des Widerspruchsrechts bei fehlerhafter Widerspruchsbelehrung
+- [BGH, Urteil vom 11.12.2024 - IV ZR 191/22](iv-zr-191-22.md) — 1. Bei der bereicherungsrechtlichen Rückabwicklung einer fondsgebundenen Lebensversicherung nach Widerspruch endet der Anspruch auf Herausgabe gezogener Nutzung
+- [BGH, Urteil vom 11.12.2024 - IV ZR 498/21](iv-zr-498-21.md) — In Verträgen über eine Unfall-Kombirente, in denen der Versicherer eine Leistung nach einem Unfall, nach definierter Beeinträchtigung der Funktionsfähigkeit bes
+- [BGH, Beschluss vom 27.11.2024 - IV ZB 12/24](iv-zb-12-24.md) — Wenn das Rechtsmittelgericht - hier im Nachlassverfahren - unter Anwendung von § 84 FamFG die Kosten eines erfolglosen Rechtsmittels insgesamt dem Beteiligten a
+- [BGH, EuGH-Vorlage vom 27.11.2024 - IV ZB 41/23](iv-zb-41-23.md) — Grundstückbezeichnung im Europäischen Nachlasszeugnis Dem Gerichtshof der Europäischen Union werden zur Auslegung der Verordnung (EU) Nr. 650/2012 des Europäisc
+- [BGH, Urteil vom 27.11.2024 - IV ZR 42/24](iv-zr-42-24.md) — Zur Auslegung einer Klausel in den Tarifbedingungen einer Krankentagegeldversicherung, nach der bei fliegendem Personal (Piloten, Kabine) Fluguntauglichkeit gle
+- [BGH, Urteil vom 20.11.2024 - IV ZR 263/23](iv-zr-263-23.md) — Zur (ergänzenden) Auslegung eines wegen Verstoßes gegen § 2347 Satz 1 Halbsatz 1 BGB (=§ 2347 Abs. 2 Satz 1 Halbsatz 1 BGB a.F.) unwirksamen Pflichtteilsverzich
+- [BGH, Beschluss vom 13.11.2024 - IV ZR 147/23](iv-zr-147-23.md) — Rechtsschutzversicherung: Deckungsschutz bei zwischenzeitlichem Urteil zum Dieselskandal-Schadensersatz
+- [BGH, Beschluss vom 13.11.2024 - IV ZR 212/23](iv-zr-212-23.md) — Gefährdung des Vertragszwecks bei Ausschluss von Schwammschäden in Gebäudeversicherung
+- [BGH, Beschluss vom 12.11.2024 - IV ZB 7/24](iv-zb-7-24.md) — Die Kosten einer Haus- und Grundbesitzerhaftpflichtversicherung für ein im mittellosen Nachlass vorhandenes Grundstück sind keine dem berufsmäßig tätigen Nachla
+- [BGH, Beschluss vom 23.10.2024 - IV ZB 20/24](iv-zb-20-24.md) — Erstmalige Verlängerung der Berufungsbegründungsfrist; Glaubhaftmachung unvorhergesehener Arbeitsüberlastung
+- [BGH, Urteil vom 23.10.2024 - IV ZR 205/22](iv-zr-205-22.md) — Wirksamkeit von Beitragserhöhungen in privater Krankenversicherung; Anforderungen an Berufungsbegründung
+- [BGH, Beschluss vom 23.10.2024 - IV ZR 436/22](iv-zr-436-22.md) — Gerichtskosten bei Verbandsklage: Antrag eines Verbraucherschutzverbands auf Streitwertminderung wegen Gefährdung der wirtschaftlichen Lage
+- [BGH, Beschluss vom 16.10.2024 - IV ZR 11/23](iv-zr-11-23.md) — BGH, Beschluss IV ZR 11/23
+- [BGH, Beschluss vom 16.10.2024 - IV ZR 67/23](iv-zr-67-23.md) — Rückabwicklung einer fondsgebundenen Rentenversicherung: Fehlende Angabe des Lebensversicherers über die Nichtzugehörigkeit zu einem Sicherungsfonds in der Verb
+- [BGH, Beschluss vom 02.10.2024 - IV ZB 29/23](iv-zb-29-23.md) — Pflichtteilsrecht: Inhalt des Auskunftsanspruchs gegen den Erben über den Nachlass
+- [BGH, Urteil vom 02.10.2024 - IV ZR 37/23](iv-zr-37-23.md) — BGH, Urteil IV ZR 37/23
+- [BGH, Beschluss vom 25.09.2024 - IV ZB 21/23](iv-zb-21-23.md) — Geltendmachung eines Pflichtteilsanspruchs im Wege einer Stufenklage: Wert des Beschwerdegegenstands bei Auskunftserteilung; Verletzung rechtlichen Gehörs
+- [BGH, Urteil vom 25.09.2024 - IV ZR 350/22](iv-zr-350-22.md) — Eine Klausel in Allgemeinen Versicherungsbedingungen der Wohngebäudeversicherung, die dem Versicherungsnehmer vor Eintritt des Versicherungsfalls die Einhaltung
+- [BGH, Urteil vom 25.09.2024 - IV ZR 49/22](iv-zr-49-22.md) — Berechnung einer Startgutschrift in der Zusatzversorgung des öffentlichen Dienstes durch Versorgungsanstalt des Bundes und der Länder
+- [BGH, Beschluss vom 18.09.2024 - IV ZB 18/23](iv-zb-18-23.md) — Auskunftsverpflichtung gegenüber Familienangehörigen als berufliche Pflicht
+- [BGH, Urteil vom 18.09.2024 - IV ZR 4/23](iv-zr-4-23.md) — BGH, Urteil IV ZR 4/23
+- [BGH, Urteil vom 18.09.2024 - IV ZR 45/23](iv-zr-45-23.md) — Rückabwicklung eines Lebensversicherungsvertrags nach Widerspruch bei fehlendem Schriftformhinweis in der Widerspruchsbelehrung
+- [BGH, Beschluss vom 17.09.2024 - IV ZB 32/23](iv-zb-32-23.md) — BGH, Beschluss IV ZB 32/23
+- [BGH, Beschluss vom 04.09.2024 - IV ZB 31/23](iv-zb-31-23.md) — Ordnungsgemäße Einlegung der Berufung über besonderes elektronisches Anwaltspostfach; Glaubhaftmachung der Hinderungsgründe bei Ersatzeinreichung
+- [BGH, Beschluss vom 04.09.2024 - IV ZB 37/23](iv-zb-37-23.md) — Eine teleologische Reduktion des Anwendungsbereichs des § 1643 Abs. 2 Satz 2 BGB a.F., § 1643 Abs. 3 Satz 1 BGB n.F. kommt für den Fall, dass ein als gewillkürt
+- [BGH, Beschluss vom 04.09.2024 - IV ZR 19/24](iv-zr-19-24.md) — BGH, Beschluss IV ZR 19/24
+- [BGH, Beschluss vom 04.09.2024 - IV ZR 197/23](iv-zr-197-23.md) — BGH, Beschluss IV ZR 197/23
+- [BGH, Beschluss vom 04.09.2024 - IV ZR 24/23](iv-zr-24-23.md) — Streitwert einer Feststellungsklage auf Gewährung von Deckungsschutz in einem sog. "Dieselverfahren"
+- [BGH, Beschluss vom 04.09.2024 - IV ZR 25/23](iv-zr-25-23.md) — BGH, Beschluss IV ZR 25/23
+- [BGH, Beschluss vom 04.09.2024 - IV ZR 365/22](iv-zr-365-22.md) — Geltendmachung von Widerspruchsrecht bei starker Erweiterung des Vertragsinhalts
+- [BGH, Beschluss vom 04.09.2024 - IV ZR 486/21](iv-zr-486-21.md) — BGH, Beschluss IV ZR 486/21
+- [BGH, Beschluss vom 29.07.2024 - IV ZB 35/23](iv-zb-35-23.md) — BGH, Beschluss IV ZB 35/23
+- [BGH, Beschluss vom 29.07.2024 - IV ZR 404/22](iv-zr-404-22.md) — BGH, Beschluss IV ZR 404/22
+- [BGH, Beschluss vom 24.07.2024 - IV ZB 8/23](iv-zb-8-23.md) — Bei einem teilmittellosen Nachlass sind die Gerichtskosten des Nachlasspflegschaftsverfahrens (Nr. 12311 f. KV GNotKG) und die Vergütung des berufsmäßigen Nachl
+- [BGH, Beschluss vom 18.07.2024 - IV ZR 84/22](iv-zr-84-22.md) — BGH, Beschluss IV ZR 84/22
+- [BGH, Urteil vom 10.07.2024 - IV ZR 129/23](iv-zr-129-23.md) — Zur Intransparenz einer Ausschlussklausel in der Auslandsreisekrankenversicherung "bei einem bereits vorher bekannten medizinischen Zustand" (hier Ziff. 1.6.1 A
+- [BGH, Beschluss vom 10.07.2024 - IV ZR 130/23](iv-zr-130-23.md) — BGH, Beschluss IV ZR 130/23
+- [BGH, Urteil vom 10.07.2024 - IV ZR 196/22](iv-zr-196-22.md) — Rückabwicklungsanspruch eines fondsgebundenen steuerbegünstigten Rentenversicherungsvertrages nach Geltendmachung eines wegen fehlerhafter Widerspruchsbelehrung
+- [BGH, Urteil vom 10.07.2024 - IV ZR 51/23](iv-zr-51-23.md) — BGH, Urteil IV ZR 51/23
+- [BGH, Urteil vom 03.07.2024 - IV ZR 67/22](iv-zr-67-22.md) — Wirksamkeit von Beitragserhöhungen in privater Krankenversicherung; Verletzung rechtlichen Gehörs
+- [BGH, Urteil vom 26.06.2024 - IV ZR 288/22](iv-zr-288-22.md) — 1. Die Nutzungen der Vorerbschaft, wie z.B. Mieteinnahmen, gebühren gemäß § 2111 Abs. 1 Satz 1 BGB grundsätzlich dem Vorerben, und zwar auch dem befreiten Vorer
+- [BGH, Urteil vom 26.06.2024 - IV ZR 421/22](iv-zr-421-22.md) — BGH, Urteil IV ZR 421/22
+- [BGH, Beschluss vom 19.06.2024 - IV ZB 13/23](iv-zb-13-23.md) — 1. Im Hinblick auf die Urkundsgewährungspflicht des Notars sind an die Annahme eines ausreichenden Grundes im Sinne des § 15 Abs. 1 Satz 1 BNotO, der den Notar 
+- [BGH, Beschluss vom 19.06.2024 - IV ZR 182/23](iv-zr-182-23.md) — BGH, Beschluss IV ZR 182/23
+- [BGH, Urteil vom 19.06.2024 - IV ZR 357/21](iv-zr-357-21.md) — Ausübung des Widerspruchsrechts eines Versicherungsnehmers bei Belehrungsfehler des Versicherers zum Schriftformerfordernis eines Widerspruchs
+- [BGH, Urteil vom 19.06.2024 - IV ZR 401/22](iv-zr-401-22.md) — Nach dem Policenmodell abgeschlossener Lebensversicherungsvertrag: Fehlerhafte Wiederspruchsbelehrung zum Fristbeginn; rechtsmissbräuchliche Geltendmachung des 
+- [BGH, Urteil vom 12.06.2024 - IV ZR 341/22](iv-zr-341-22.md) — Zur Wirksamkeit von Bestimmungen in Rechtsschutzversicherungsbedingungen über das Schiedsgutachterverfahren nach einer Ablehnung des Rechtsschutzes durch den Ve
+- [BGH, Urteil vom 12.06.2024 - IV ZR 437/22](iv-zr-437-22.md) — Zur (hier vorliegenden) Unwirksamkeit von Bedingungen zur Berufsunfähigkeitsversicherung über die Überschussbeteiligung und die Mitteilung hinsichtlich des gesu
+- [BGH, Beschluss vom 05.06.2024 - IV ZB 30/23](iv-zb-30-23.md) — Wiedereinsetzungsantrag nach Versäumnis der Berufungsbegründungsfrist durch klägerischen Prozessbevollmächtigten
+- [BGH, Urteil vom 05.06.2024 - IV ZR 140/23](iv-zr-140-23.md) — Erfolgt im Deckungsschutzverfahren des Versicherungsnehmers einer Rechtsschutzversicherung nach dem Zeitpunkt der Bewilligungsreife eine Klärung durch die höchs
+- [BGH, Beschluss vom 05.06.2024 - IV ZR 261/22](iv-zr-261-22.md) — Erbauseinandersetzungsverfahren: Substantiierungsanforderung im Hinblick auf Ausgleichszahlungen für Nachlassverbindlichkeiten
+- [BGH, Beschluss vom 05.06.2024 - IV ZR 98/23](iv-zr-98-23.md) — BGH, Beschluss IV ZR 98/23
+- [BGH, Beschluss vom 29.05.2024 - IV ZB 10/24](iv-zb-10-24.md) — BGH, Beschluss IV ZB 10/24
+- [BGH, Beschluss vom 29.05.2024 - IV ZB 14/22](iv-zb-14-22.md) — BGH, Beschluss IV ZB 14/22
+- [BGH, Beschluss vom 29.05.2024 - IV ZR 189/23](iv-zr-189-23.md) — Verletzung rechtlichen Gehörs bei Geltendmachung von Leistungsansprüchen aus Berufsunfähigkeitsversicherung
+- [BGH, Beschluss vom 22.05.2024 - IV ZB 26/23](iv-zb-26-23.md) — Wirksamkeit einer erbrechtlichen Verfügung zugunsten des geschiedenen Ehepartners
+- [BGH, Urteil vom 22.05.2024 - IV ZR 124/23](iv-zr-124-23.md) — Der für die Bejahung des nach § 256 Abs. 1 ZPO erforderlichen Feststellungsinteresses ausreichenden Erwartung, der Beklagte werde bereits auf ein Feststellungsu
+- [BGH, Beschluss vom 22.05.2024 - IV ZR 216/23](iv-zr-216-23.md) — Erstattungsfähigkeit der Aufwendungen für eine Elektrostimulationstherapie
+- [BGH, Beschluss vom 22.05.2024 - IV ZR 349/22](iv-zr-349-22.md) — BGH, Beschluss IV ZR 349/22
+- [BGH, Urteil vom 08.05.2024 - IV ZR 102/23](iv-zr-102-23.md) — Auskunftsanspruch eines Versicherungsnehmers in Bezug auf Höhe der auslösenden Faktoren für Neukalkulation der Prämien in privater Krankenversicherung
+- [BGH, Beschluss vom 08.05.2024 - IV ZR 185/23](iv-zr-185-23.md) — BGH, Beschluss IV ZR 185/23
+- [BGH, Beschluss vom 08.05.2024 - IV ZR 36/23](iv-zr-36-23.md) — BGH, Beschluss IV ZR 36/23
+- [BGH, Beschluss vom 08.05.2024 - IV ZR 395/22](iv-zr-395-22.md) — BGH, Beschluss IV ZR 395/22
+- [BGH, Beschluss vom 08.05.2024 - IV ZR 40/23](iv-zr-40-23.md) — BGH, Beschluss IV ZR 40/23
+- [BGH, Beschluss vom 24.04.2024 - IV ZB 23/23](iv-zb-23-23.md) — Das Ausschlagungsverbot des § 1942 Abs. 2 BGB für den Fiskus als gesetzlichen Erben (§ 1936 BGB) erstreckt sich nicht auf das Recht zur Ausschlagung einer im Na
+- [BGH, Urteil vom 24.04.2024 - IV ZR 193/22](iv-zr-193-22.md) — BGH, Urteil IV ZR 193/22
+- [BGH, Urteil vom 24.04.2024 - IV ZR 226/22](iv-zr-226-22.md) — BGH, Urteil IV ZR 226/22
+- [BGH, Beschluss vom 24.04.2024 - IV ZR 23/22](iv-zr-23-22.md) — BGH, Beschluss IV ZR 23/22
+- [BGH, Beschluss vom 24.04.2024 - IV ZR 35/22](iv-zr-35-22.md) — BGH, Beschluss IV ZR 35/22
+- [BGH, Urteil vom 24.04.2024 - IV ZR 399/22](iv-zr-399-22.md) — Beitragserhöhungen in einer privaten Krankenversicherung: Auskunftsanspruch eines Versicherungsnehmers über den Inhalt bereits übersandter Mitteilungen zu Prämi
+- [BGH, Urteil vom 24.04.2024 - IV ZR 433/22](iv-zr-433-22.md) — BGH, Urteil IV ZR 433/22
+- [BGH, Urteil vom 17.04.2024 - IV ZR 125/22](iv-zr-125-22.md) — Anspruch auf Rückabwicklung von fondsgebundenen Rentenversicherungsverträgen nach Widerruf
+- [BGH, Urteil vom 17.04.2024 - IV ZR 256/22](iv-zr-256-22.md) — Anspruch aus Vermögensschaden-Haftpflichtversicherung eines Steuerberaters; Begriff der versicherten Tätigkeit
+- [BGH, Urteil vom 17.04.2024 - IV ZR 257/22](iv-zr-257-22.md) — Deckungsausschluss in der Vermögensschadenhaftpflichtversicherung für einen als Treuhandkommanditisten einer Kapitalanlagegesellschaft tätigen Steuerberater
+- [BGH, Urteil vom 17.04.2024 - IV ZR 267/22](iv-zr-267-22.md) — Vermögensschaden-Haftpflichtversicherungfür Steuerberater: Versicherungsschutz bei fehlerhafter Beratung von Kapitalanlegern durch einen als Treuhandkommanditis
+- [BGH, Urteil vom 17.04.2024 - IV ZR 272/22](iv-zr-272-22.md) — BGH, Urteil IV ZR 272/22
+- [BGH, Urteil vom 17.04.2024 - IV ZR 273/22](iv-zr-273-22.md) — BGH, Urteil IV ZR 273/22
+- [BGH, Urteil vom 17.04.2024 - IV ZR 274/22](iv-zr-274-22.md) — BGH, Urteil IV ZR 274/22
+- [BGH, Urteil vom 17.04.2024 - IV ZR 275/22](iv-zr-275-22.md) — BGH, Urteil IV ZR 275/22
+- [BGH, Urteil vom 17.04.2024 - IV ZR 276/22](iv-zr-276-22.md) — BGH, Urteil IV ZR 276/22
+- [BGH, Urteil vom 17.04.2024 - IV ZR 279/22](iv-zr-279-22.md) — BGH, Urteil IV ZR 279/22
+- [BGH, Urteil vom 17.04.2024 - IV ZR 284/22](iv-zr-284-22.md) — BGH, Urteil IV ZR 284/22
+- [BGH, Urteil vom 17.04.2024 - IV ZR 91/23](iv-zr-91-23.md) — Der Senat hält daran fest, dass für das äußere Bild eines Einbruchdiebstahls die festgestellten Spuren nicht in dem Sinne stimmig sein müssen, dass sie zweifels
+- [BGH, Beschluss vom 10.04.2024 - IV ZR 131/23](iv-zr-131-23.md) — BGH, Beschluss IV ZR 131/23
+- [BGH, Urteil vom 20.03.2024 - IV ZR 68/22](iv-zr-68-22.md) — 1. Die Fehlerhaftigkeit einer an § 155 Abs. 2 VAG zu messenden Limitierungsmaßnahme lässt die materielle Wirksamkeit einer Prämienanpassung, die im Übrigen auf 
+- [BGH, Beschluss vom 20.03.2024 - IV ZR 69/23](iv-zr-69-23.md) — BGH, Beschluss IV ZR 69/23
+- [BGH, Beschluss vom 20.03.2024 - IV ZR 77/23](iv-zr-77-23.md) — BGH, Beschluss IV ZR 77/23
+- [BGH, Urteil vom 21.02.2024 - IV ZR 158/22](iv-zr-158-22.md) — BGH, Urteil IV ZR 158/22
+- [BGH, Urteil vom 21.02.2024 - IV ZR 227/22](iv-zr-227-22.md) — BGH, Urteil IV ZR 227/22
+- [BGH, Urteil vom 21.02.2024 - IV ZR 297/22](iv-zr-297-22.md) — Nach § 5a Abs. 2 Satz 1 VVG a.F. setzt der Beginn der Widerspruchsfrist die Überlassung des Versicherungsscheins, der Versicherungsbedingungen und der Verbrauch
+- [BGH, Urteil vom 21.02.2024 - IV ZR 311/22](iv-zr-311-22.md) — Zum Auskunftsanspruch des Versicherungsnehmers in der privaten Krankenversicherung (Anschluss an Senatsurteil vom 27. September 2023 - IV ZR 177/22, VersR 2023,
+- [BGH, Urteil vom 21.02.2024 - IV ZR 32/22](iv-zr-32-22.md) — 1. Ein deutscher Lebens- oder Rentenversicherer musste in dem Zeitraum zwischen dem Inkrafttreten des § 124 VAG a.F. am 21. Dezember 2004 und der tatsächlichen 
+- [BGH, Beschluss vom 21.02.2024 - IV ZR 343/22](iv-zr-343-22.md) — BGH, Beschluss IV ZR 343/22
+- [BGH, Beschluss vom 21.02.2024 - IV ZR 378/22](iv-zr-378-22.md) — BGH, Beschluss IV ZR 378/22
+- [BGH, Beschluss vom 21.02.2024 - IV ZR 427/22](iv-zr-427-22.md) — BGH, Beschluss IV ZR 427/22
+- [BGH, Beschluss vom 21.02.2024 - IV ZR 94/23](iv-zr-94-23.md) — BGH, Beschluss IV ZR 94/23
+- [BGH, Beschluss vom 14.02.2024 - IV ZB 16/23](iv-zb-16-23.md) — Wenn ein Verfahren in der Hauptsache endet, weil die Partei des Rechtsstreits Alleinerbin ihres Gegners geworden ist, hat die zuvor zugunsten eines Streithelfer
+- [BGH, Beschluss vom 07.02.2024 - IV ZB 34/23](iv-zb-34-23.md) — BGH, Beschluss IV ZB 34/23
+- [BGH, Beschluss vom 07.02.2024 - IV ZR 175/23](iv-zr-175-23.md) — BGH, Beschluss IV ZR 175/23
+- [BGH, Beschluss vom 05.02.2024 - IV ZR 253/22](iv-zr-253-22.md) — Streitwertbemessung bei erbrechtlicher Klage und Widerklage: Addition der Gegenstandswerte; wirtschaftliche Identität der Ansprüche
+- [BGH, Urteil vom 24.01.2024 - IV ZR 306/22](iv-zr-306-22.md) — Die Zustimmung zum Beginn des Versicherungsschutzes vor Ende der Widerrufsfrist kann auch konkludent erklärt werden (§ 9 Abs. 1 Satz 1 VVG).
+- [BGH, Urteil vom 17.01.2024 - IV ZR 159/22](iv-zr-159-22.md) — BGH, Urteil IV ZR 159/22
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 175/22](iv-zr-175-22.md) — BGH, Beschluss IV ZR 175/22
+- [BGH, Urteil vom 17.01.2024 - IV ZR 19/23](iv-zr-19-23.md) — Es ist aus Rechtsgründen nicht zu beanstanden, dass das Tatgericht die Möglichkeit der Ausübung des Widerspruchsrechts nach § 5a Abs. 1 Satz 1 VVG a.F. versagt,
+- [BGH, Urteil vom 17.01.2024 - IV ZR 198/22](iv-zr-198-22.md) — BGH, Urteil IV ZR 198/22
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 242/22](iv-zr-242-22.md) — BGH, Beschluss IV ZR 242/22
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 274/21](iv-zr-274-21.md) — BGH, Beschluss IV ZR 274/21
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 301/21](iv-zr-301-21.md) — BGH, Beschluss IV ZR 301/21
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 309/22](iv-zr-309-22.md) — BGH, Beschluss IV ZR 309/22
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 340/22](iv-zr-340-22.md) — BGH, Beschluss IV ZR 340/22
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 419/22](iv-zr-419-22.md) — BGH, Beschluss IV ZR 419/22
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 420/22](iv-zr-420-22.md) — BGH, Beschluss IV ZR 420/22
+- [BGH, Urteil vom 17.01.2024 - IV ZR 51/22](iv-zr-51-22.md) — Die Anforderungen an die Prämienanpassung in einem Beitragsentlastungstarif richten sich nach § 203 Abs. 2 VVG i.V.m. § 155 Abs. 3, 4 VAG, § 203 Abs. 5 VVG.
+- [BGH, Beschluss vom 17.01.2024 - IV ZR 69/22](iv-zr-69-22.md) — BGH, Beschluss IV ZR 69/22
+- [BGH, Beschluss vom 10.01.2024 - IV ZR 146/23](iv-zr-146-23.md) — BGH, Beschluss IV ZR 146/23
+- [BGH, Beschluss vom 10.01.2024 - IV ZR 271/22](iv-zr-271-22.md) — BGH, Beschluss IV ZR 271/22
+- [BGH, Beschluss vom 10.01.2024 - IV ZR 29/23](iv-zr-29-23.md) — BGH, Beschluss IV ZR 29/23
+- [BGH, Beschluss vom 10.01.2024 - IV ZR 315/21](iv-zr-315-21.md) — BGH, Beschluss IV ZR 315/21
+- [BGH, Beschluss vom 10.01.2024 - IV ZR 316/21](iv-zr-316-21.md) — BGH, Beschluss IV ZR 316/21
+- [BGH, Beschluss vom 10.01.2024 - IV ZR 320/21](iv-zr-320-21.md) — BGH, Beschluss IV ZR 320/21
+- [BGH, Beschluss vom 10.01.2024 - IV ZR 321/21](iv-zr-321-21.md) — BGH, Beschluss IV ZR 321/21
+- [BGH, Beschluss vom 10.01.2024 - IV ZR 385/22](iv-zr-385-22.md) — BGH, Beschluss IV ZR 385/22

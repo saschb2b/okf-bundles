@@ -1,0 +1,179 @@
+# 1. Strafsenat – 2024
+
+175 Entscheidung(en).
+
+- [BGH, Urteil vom 18.12.2024 - 1 StR 293/24](1-str-293-24.md) — Jugendstrafsache wegen Drogenhandel und Vergewaltigung: Beweiswürdigung und Konstanzanalyse bei "Aussage gegen Aussage"
+- [BGH, Beschluss vom 18.12.2024 - 1 StR 405/24](1-str-405-24.md) — BGH, Beschluss 1 StR 405/24
+- [BGH, Beschluss vom 18.12.2024 - 1 StR 433/24](1-str-433-24.md) — BGH, Beschluss 1 StR 433/24
+- [BGH, Beschluss vom 17.12.2024 - 1 StR 332/24](1-str-332-24.md) — Strafverurteilung wegen schweren Bandendiebstahls: Einziehung von Fremdwährungen
+- [BGH, Beschluss vom 17.12.2024 - 1 StR 429/24](1-str-429-24.md) — Strafverfahren: Anspruch des sprachunkundigen anwaltlich vertretenen Angeklagten auf schriftliche Übersetzung des nicht rechtskräftigen Urteils bei Entfernung d
+- [BGH, Beschluss vom 17.12.2024 - 1 StR 62/24](1-str-62-24.md) — Betäubungsmitteldelikt: Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln und Cannabis; wesentliches Merkmal einer Bande
+- [BGH, Beschluss vom 12.12.2024 - 1 StR 112/24](1-str-112-24.md) — Steuerhinterziehung durch den Betreiber eines Restaurants: Schätzung der Besteuerungsgrundlagen; Wahl der Gewinnermittlungsart
+- [BGH, Beschluss vom 11.12.2024 - 1 StR 113/24](1-str-113-24.md) — BGH, Beschluss 1 StR 113/24
+- [BGH, Urteil vom 11.12.2024 - 1 StR 303/24](1-str-303-24.md) — Strafverurteilung wegen (versuchter) Vergewaltigung: Auswirkungen des sozio-kulturellen Wertvorstellungen des Täters auf dessen Unrechtsbewusstsein
+- [BGH, Beschluss vom 11.12.2024 - 1 StR 324/24](1-str-324-24.md) — BGH, Beschluss 1 StR 324/24
+- [BGH, Beschluss vom 11.12.2024 - 1 StR 356/24](1-str-356-24.md) — Revision in Strafsachen: Anforderungen an die Mitteilungspflicht für Verständigungsgespräche
+- [BGH, Beschluss vom 11.12.2024 - 1 StR 448/24](1-str-448-24.md) — BGH, Beschluss 1 StR 448/24
+- [BGH, Beschluss vom 10.12.2024 - 1 StR 461/24](1-str-461-24.md) — Revisionseinlegung bei Übermittlungsstörung; Anforderungen an Glaubhaftmachung und Wiedereinsetzung
+- [BGH, Beschluss vom 28.11.2024 - 1 StR 169/24](1-str-169-24.md) — BGH, Beschluss 1 StR 169/24
+- [BGH, Beschluss vom 28.11.2024 - 1 StR 184/24](1-str-184-24.md) — Wegfall einer Einziehungsanordnung und Anrechnung von Auslieferungshaft im Revisionsverfahren
+- [BGH, Beschluss vom 28.11.2024 - 1 StR 340/24](1-str-340-24.md) — Änderung einer Einziehungsanordnung bei doppelter Belastung des Täters einer Steuerhinterziehung durch Vermögensabschöpfung
+- [BGH, Beschluss vom 28.11.2024 - 1 StR 353/24](1-str-353-24.md) — BGH, Beschluss 1 StR 353/24
+- [BGH, Beschluss vom 28.11.2024 - 1 StR 376/24](1-str-376-24.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Vorliegen eines besonders schweren Falls
+- [BGH, Beschluss vom 28.11.2024 - 1 StR 384/24](1-str-384-24.md) — Begründung einer Adhäsionsentscheidung
+- [BGH, Beschluss vom 27.11.2024 - 1 StR 473/23](1-str-473-23.md) — Strafverfahren wegen Steuerhinterziehung: Kumulative Verhängung von Freiheits- und Geldstrafen neben einer Einziehungsanordnung
+- [BGH, Beschluss vom 27.11.2024 - 1 StR 48/24](1-str-48-24.md) — Zulässigkeit der Revisionsbegründung durch Einziehungsbeteiligte; Formerfordernisse und Gleichstellung mit dem Angeklagten
+- [BGH, Beschluss vom 26.11.2024 - 1 StR 381/24](1-str-381-24.md) — BGH, Beschluss 1 StR 381/24
+- [BGH, Beschluss vom 15.11.2024 - 1 StR 279/24](1-str-279-24.md) — Rücknahme von Rechtsanwaltsbestellung bei temporärer Wahlverteidigung
+- [BGH, Beschluss vom 13.11.2024 - 1 StR 350/24](1-str-350-24.md) — Strafbares Sichverschaffen bzw. Besitz kinderpornographischer Inhalte; Notwendigkeit der Tenorierung eines Teilfreispruchs
+- [BGH, Beschluss vom 13.11.2024 - 1 StR 432/24](1-str-432-24.md) — BGH, Beschluss 1 StR 432/24
+- [BGH, Beschluss vom 12.11.2024 - 1 StR 306/24](1-str-306-24.md) — BGH, Beschluss 1 StR 306/24
+- [BGH, Beschluss vom 12.11.2024 - 1 StR 329/24](1-str-329-24.md) — BGH, Beschluss 1 StR 329/24
+- [BGH, Beschluss vom 12.11.2024 - 1 StR 357/24](1-str-357-24.md) — Schriftlicher Hinweis auf Strafbewehrung von Führungsaufsichtsbeschluss in Weisungen
+- [BGH, Beschluss vom 12.11.2024 - 1 StR 417/24](1-str-417-24.md) — Darlegungsanforderungen an eine Maßregelanordnung und an die Prognose zu erwartender Straftaten eines schizophrenen Täters
+- [BGH, Beschluss vom 12.11.2024 - 1 StR 447/24](1-str-447-24.md) — BGH, Beschluss 1 StR 447/24
+- [BGH, Beschluss vom 31.10.2024 - 1 StR 216/24](1-str-216-24.md) — Gegenstandswert von Adhäsionsantrag bei Angeklagtenrevision
+- [BGH, Beschluss vom 30.10.2024 - 1 StR 235/24](1-str-235-24.md) — Berücksichtigung von KCanG in Revision, Konkurrenzen bei Einfuhr und Handeltreiben
+- [BGH, Beschluss vom 30.10.2024 - 1 StR 338/24](1-str-338-24.md) — Verfahrensrüge bei Ablehnung eines Beweisantrags; Anforderungen an Beweisantrag
+- [BGH, Urteil vom 29.10.2024 - 1 StR 276/24](1-str-276-24.md) — An verschiedenen Wohnsitzen und dem gewöhnlichen Aufenthalt gleichzeitig vorgehaltene Cannabismengen sind zur Bestimmung der strafrechtlich relevanten Freigrenz
+- [BGH, Beschluss vom 29.10.2024 - 1 StR 373/24](1-str-373-24.md) — BGH, Beschluss 1 StR 373/24
+- [BGH, Urteil vom 29.10.2024 - 1 StR 382/24](1-str-382-24.md) — 1. Zwischen den Straftatbeständen des Konsumcannabisgesetzes und denen des Betäubungsmittelgesetzes besteht eine tatbestandliche Verwandtschaft dergestalt, dass
+- [BGH, Beschluss vom 29.10.2024 - 1 StR 49/24](1-str-49-24.md) — BGH, Beschluss 1 StR 49/24
+- [BGH, Beschluss vom 29.10.2024 - 1 StR 58/24](1-str-58-24.md) — Rüge einer unzulässigen Vorbefassung; Steuerhinterziehung im Zusammenhang mit "Cum-Ex-Geschäften"
+- [BGH, Beschluss vom 17.10.2024 - 1 StR 170/24](1-str-170-24.md) — Steuerhinterziehung: Notwendige Urteilsfeststellungen zu den steuerlich erheblichen Tatsachen sowie zur Berechnungsdarstellung und -grundlage
+- [BGH, Urteil vom 17.10.2024 - 1 StR 285/24](1-str-285-24.md) — Notwehr: Rechtmäßigkeit polizeilichen Handelns
+- [BGH, Beschluss vom 17.10.2024 - 1 StR 328/24](1-str-328-24.md) — BGH, Beschluss 1 StR 328/24
+- [BGH, Beschluss vom 17.10.2024 - 1 StR 387/24](1-str-387-24.md) — BGH, Beschluss 1 StR 387/24
+- [BGH, Beschluss vom 17.10.2024 - 1 StR 415/24](1-str-415-24.md) — BGH, Beschluss 1 StR 415/24
+- [BGH, Beschluss vom 15.10.2024 - 1 StR 330/24](1-str-330-24.md) — BGH, Beschluss 1 StR 330/24
+- [BGH, Beschluss vom 15.10.2024 - 1 StR 367/24](1-str-367-24.md) — BGH, Beschluss 1 StR 367/24
+- [BGH, Urteil vom 02.10.2024 - 1 StR 156/24](1-str-156-24.md) — Täuschung bei Abrechnung vertragsärztlicher Leistungen
+- [BGH, Beschluss vom 01.10.2024 - 1 StR 299/24](1-str-299-24.md) — Verletzung des höchstpersönlichen Lebensbereichs durch Bildaufnahmen
+- [BGH, Beschluss vom 01.10.2024 - 1 StR 336/24](1-str-336-24.md) — Anforderungen an Darstellung des Schuldspruchs im Urteil
+- [BGH, Beschluss vom 01.10.2024 - 1 StR 392/24](1-str-392-24.md) — BGH, Beschluss 1 StR 392/24
+- [BGH, Beschluss vom 30.09.2024 - 1 StR 222/24](1-str-222-24.md) — BGH, Beschluss 1 StR 222/24
+- [BGH, Beschluss vom 30.09.2024 - 1 StR 334/24](1-str-334-24.md) — Gewährung des letzten Wortes für Angeklagten vor Schließung der Verhandlung
+- [BGH, Beschluss vom 24.09.2024 - 1 StR 51/24](1-str-51-24.md) — BGH, Beschluss 1 StR 51/24
+- [BGH, Urteil vom 18.09.2024 - 1 StR 197/24](1-str-197-24.md) — Steuerhinterziehung im Rahmen von Cum-Ex - Aktiengeschäften: Einziehungsanordnung unter dem Gesichtspunkt der Abschöpfung des Tatlohns
+- [BGH, Urteil vom 18.09.2024 - 1 StR 207/24](1-str-207-24.md) — Rechtliche Beurteilung der Bandenmitgliedschaft; Faktische Verfügungsgewalt über durch Tat erlangten Vermögenswert
+- [BGH, Beschluss vom 18.09.2024 - 1 StR 354/24](1-str-354-24.md) — BGH, Beschluss 1 StR 354/24
+- [BGH, Beschluss vom 11.09.2024 - 1 StR 304/24](1-str-304-24.md) — Mittäterschaftliche Hinterziehung von Energiesteuer durch Unterlassen: Täterschaft bei Aufklärungsverpflichtung über steuerlich erhebliche Tatsachen; Tankwagenf
+- [BGH, Beschluss vom 21.08.2024 - 1 StR 345/24](1-str-345-24.md) — BGH, Beschluss 1 StR 345/24
+- [BGH, Beschluss vom 20.08.2024 - 1 StR 116/24](1-str-116-24.md) — Beweisrechtliche Verwertung dienstlicher Erklärungen eines Richters
+- [BGH, Beschluss vom 20.08.2024 - 1 StR 288/24](1-str-288-24.md) — BGH, Beschluss 1 StR 288/24
+- [BGH, Beschluss vom 20.08.2024 - 1 StR 315/24](1-str-315-24.md) — BGH, Beschluss 1 StR 315/24
+- [BGH, Beschluss vom 20.08.2024 - 1 StR 50/24](1-str-50-24.md) — Einziehung von zur Tatdurchführung überlassenen Geldbeträgen
+- [BGH, Beschluss vom 19.08.2024 - 1 StR 132/24](1-str-132-24.md) — BGH, Beschluss 1 StR 132/24
+- [BGH, Beschluss vom 19.08.2024 - 1 StR 269/24](1-str-269-24.md) — BGH, Beschluss 1 StR 269/24
+- [BGH, Beschluss vom 07.08.2024 - 1 StR 237/24](1-str-237-24.md) — BGH, Beschluss 1 StR 237/24
+- [BGH, Urteil vom 07.08.2024 - 1 StR 430/23](1-str-430-23.md) — Körperverletzung mit Todesfolge: Strafbarkeit eines Mittäters und Exzess; Beweiswürdigung zur Tatbeteiligung
+- [BGH, Beschluss vom 06.08.2024 - 1 StR 265/24](1-str-265-24.md) — BGH, Beschluss 1 StR 265/24
+- [BGH, Beschluss vom 05.08.2024 - 1 StR 445/23](1-str-445-23.md) — BGH, Beschluss 1 StR 445/23
+- [BGH, Urteil vom 25.07.2024 - 1 StR 101/24](1-str-101-24.md) — BGH, Urteil 1 StR 101/24
+- [BGH, Beschluss vom 25.07.2024 - 1 StR 110/24](1-str-110-24.md) — BGH, Beschluss 1 StR 110/24
+- [BGH, Beschluss vom 25.07.2024 - 1 StR 274/24](1-str-274-24.md) — Bewaffnetes Handeltreiben mit Cannabis; Strafzumessung nach Inkrafttreten des Konsumcannabisgesetzes
+- [BGH, Urteil vom 25.07.2024 - 1 StR 471/23](1-str-471-23.md) — Mordmerkmal der Heimtücke bei nicht heimlichem Vorgehen des Täters; Anspruch des Angeklagten auf Täter-Opfer-Ausgleich
+- [BGH, Urteil vom 25.07.2024 - 1 StR 68/24](1-str-68-24.md) — Versuchte Umsatzsteuerhinterziehung in einem besonders schweren Fall: Strafrahmenwahl bei Anwendung eines Regelbeispiels
+- [BGH, Beschluss vom 24.07.2024 - 1 StR 196/24](1-str-196-24.md) — BGH, Beschluss 1 StR 196/24
+- [BGH, Beschluss vom 24.07.2024 - 1 StR 238/24](1-str-238-24.md) — Wiedereinsetzung in den Stand vor Ablauf der Frist zur Einlegung der Revision; Zurechnung des Verschuldens des Verteidigers bei formwidriger Übermittlung der Re
+- [BGH, Beschluss vom 24.07.2024 - 1 StR 239/24](1-str-239-24.md) — BGH, Beschluss 1 StR 239/24
+- [BGH, Beschluss vom 24.07.2024 - 1 StR 245/24](1-str-245-24.md) — BGH, Beschluss 1 StR 245/24
+- [BGH, Beschluss vom 24.07.2024 - 1 StR 261/24](1-str-261-24.md) — BGH, Beschluss 1 StR 261/24
+- [BGH, Beschluss vom 24.07.2024 - 1 StR 278/24](1-str-278-24.md) — BGH, Beschluss 1 StR 278/24
+- [BGH, Beschluss vom 24.07.2024 - 1 StR 438/19](1-str-438-19.md) — BGH, Beschluss 1 StR 438/19
+- [BGH, Beschluss vom 24.07.2024 - 1 StR 56/24](1-str-56-24.md) — BGH, Beschluss 1 StR 56/24
+- [BGH, Beschluss vom 23.07.2024 - 1 StR 242/24](1-str-242-24.md) — BGH, Beschluss 1 StR 242/24
+- [BGH, Beschluss vom 23.07.2024 - 1 StR 60/24](1-str-60-24.md) — BGH, Beschluss 1 StR 60/24
+- [BGH, Beschluss vom 23.07.2024 - 1 StR 73/24](1-str-73-24.md) — Das Datum der Erstzulassung eines Kraftfahrzeuges ist keine Tatsache, die in der Zulassungsbescheinigung Teil II mit der besonderen Beweiskraft einer öffentlich
+- [BGH, Beschluss vom 22.07.2024 - 1 StR 165/24](1-str-165-24.md) — BGH, Beschluss 1 StR 165/24
+- [BGH, Beschluss vom 10.07.2024 - 1 StR 150/24](1-str-150-24.md) — BGH, Beschluss 1 StR 150/24
+- [BGH, Beschluss vom 10.07.2024 - 1 StR 195/24](1-str-195-24.md) — BGH, Beschluss 1 StR 195/24
+- [BGH, Beschluss vom 10.07.2024 - 1 StR 33/24](1-str-33-24.md) — Konkurrenzen bei Steuerhinterziehung durch mittelbaren Täter: Abgabe mehrerer Umsatzsteuer-, Gewerbesteuer- und Körperschaftssteuererklärungen über gutgläubigen
+- [BGH, Beschluss vom 10.07.2024 - 1 StR 70/24](1-str-70-24.md) — BGH, Beschluss 1 StR 70/24
+- [BGH, Beschluss vom 10.07.2024 - 1 StR 94/24](1-str-94-24.md) — BGH, Beschluss 1 StR 94/24
+- [BGH, Beschluss vom 09.07.2024 - 1 StR 179/24](1-str-179-24.md) — BGH, Beschluss 1 StR 179/24
+- [BGH, Beschluss vom 09.07.2024 - 1 StR 188/24](1-str-188-24.md) — (Revision wegen unterlassener Prüfung der Strafmilderung nach § 46b StGB)
+- [BGH, Beschluss vom 09.07.2024 - 1 StR 254/24](1-str-254-24.md) — BGH, Beschluss 1 StR 254/24
+- [BGH, Urteil vom 09.07.2024 - 1 StR 53/24](1-str-53-24.md) — BGH, Urteil 1 StR 53/24
+- [BGH, Beschluss vom 08.07.2024 - 1 StR 66/24](1-str-66-24.md) — Feststellung des Beendigungszeitpunkts für das Dauerdelikt der Insolvenzverschleppung; Vermögensabschöpfung in der Form von Steuerersparnissen
+- [BGH, Beschluss vom 27.06.2024 - 1 StR 162/24](1-str-162-24.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Begründung der Therapiebereitschaft
+- [BGH, Beschluss vom 27.06.2024 - 1 StR 171/24](1-str-171-24.md) — BGH, Beschluss 1 StR 171/24
+- [BGH, Beschluss vom 27.06.2024 - 1 StR 189/24](1-str-189-24.md) — Wiedereinsetzung in den vorigen Stand nach Versäumung der Frist zur Einlegung der Revision durch inhaftierten Rechtsmittelführer
+- [BGH, Beschluss vom 26.06.2024 - 1 StR 10/24](1-str-10-24.md) — Verstoß gegen das Arzneimittelgesetz durch Inverkehrbringen eines Fertigarzneimittels ohne Zulassung und ohne Genehmigung der Europäischen Union
+- [BGH, Beschluss vom 26.06.2024 - 1 StR 176/24](1-str-176-24.md) — BGH, Beschluss 1 StR 176/24
+- [BGH, Beschluss vom 25.06.2024 - 1 StR 217/24](1-str-217-24.md) — Betrug durch angebliche Vermittlung von Ärzten an Klinikum
+- [BGH, Beschluss vom 13.06.2024 - 1 StR 164/24](1-str-164-24.md) — BGH, Beschluss 1 StR 164/24
+- [BGH, Beschluss vom 13.06.2024 - 1 StR 205/24](1-str-205-24.md) — BGH, Beschluss 1 StR 205/24
+- [BGH, Beschluss vom 12.06.2024 - 1 StR 105/24](1-str-105-24.md) — Verstoß gegen das Konsumcannabisgesetz: Umfang der Einziehung bei die Freigrenze überschreitendem Umgang mit Cannabis
+- [BGH, Beschluss vom 12.06.2024 - 1 StR 118/24](1-str-118-24.md) — BGH, Beschluss 1 StR 118/24
+- [BGH, Beschluss vom 12.06.2024 - 1 StR 121/24](1-str-121-24.md) — Strafbarkeit bei Anbau und Erwerb von Cannabis; Freigrenzen im Konsumcannabisgesetz
+- [BGH, Urteil vom 12.06.2024 - 1 StR 416/23](1-str-416-23.md) — Schuldspruch wegen Steuerhinterziehung; Ermittlung und Darlegung des steuerpflichtigen Veräußerungsgewinns im Urteil
+- [BGH, Urteil vom 12.06.2024 - 1 StR 463/23](1-str-463-23.md) — Versuchte räuberische Erpressung: Abgrenzung zwischen den Beteiligungsformen Anstiftung und Beihilfe
+- [BGH, Beschluss vom 11.06.2024 - 1 StR 190/24](1-str-190-24.md) — BGH, Beschluss 1 StR 190/24
+- [BGH, Beschluss vom 11.06.2024 - 1 StR 211/24](1-str-211-24.md) — BGH, Beschluss 1 StR 211/24
+- [BGH, Beschluss vom 27.05.2024 - 1 StR 111/24](1-str-111-24.md) — Bemessung einer Einzelstrafe nach Inkrafttreten des Konsumcannabisgesetzes im Falle des zeitgleichen Handeltreibens mit Marihuana und Kokain in nicht geringer M
+- [BGH, Beschluss vom 27.05.2024 - 1 StR 145/24](1-str-145-24.md) — BGH, Beschluss 1 StR 145/24
+- [BGH, Beschluss vom 14.05.2024 - 1 StR 126/24](1-str-126-24.md) — BGH, Beschluss 1 StR 126/24
+- [BGH, Beschluss vom 14.05.2024 - 1 StR 136/24](1-str-136-24.md) — BGH, Beschluss 1 StR 136/24
+- [BGH, Beschluss vom 14.05.2024 - 1 StR 154/24](1-str-154-24.md) — Schuldspruchänderung nach Verurteilung wegen Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 08.05.2024 - 1 StR 464/23](1-str-464-23.md) — Ein kausaler und finaler Vermögensvorteil im Sinne von § 96 Abs. 1 Nr. 2 AufenthG (in der Fassung vom 12. Juli 2018) kann sich auch aus der Nichtabführung von S
+- [BGH, Beschluss vom 30.04.2024 - 1 StR 152/24](1-str-152-24.md) — Konkurrenzverhältnis zwischen Bedrohung und versuchter Nötigung
+- [BGH, Urteil vom 30.04.2024 - 1 StR 423/23](1-str-423-23.md) — Sexueller Missbrauch unter Ausnutzung eines Beratungs-, Behandlungs- oder Betreuungsverhältnisses durch selbsternannten Schamanen
+- [BGH, Urteil vom 30.04.2024 - 1 StR 426/23](1-str-426-23.md) — Revision in Strafsachen: Rüge der nicht ordnungsgemäßen Einführung von Urkunden im Selbstleseverfahren; Bindungswirkung einer ausländischen Entsendebescheinigun
+- [BGH, Beschluss vom 29.04.2024 - 1 StR 103/24](1-str-103-24.md) — BGH, Beschluss 1 StR 103/24
+- [BGH, Beschluss vom 29.04.2024 - 1 StR 127/24](1-str-127-24.md) — Ermittlung vorenthaltener Arbeitgeber- und Arbeitnehmerbeiträge zur Sozialversicherung
+- [BGH, Beschluss vom 18.04.2024 - 1 StR 106/24](1-str-106-24.md) — Neues Konsumcannabisgesetz: Grenzwert der nicht geringen Menge für Tetrahydrocannabinol
+- [BGH, Urteil vom 17.04.2024 - 1 StR 371/23](1-str-371-23.md) — Prüfungsmaßstab bei Entwicklung der Gefährlichkeitsprognose für Entscheidung bezüglich Anordnung der Sicherungsverwahrung im Nachverfahren
+- [BGH, Beschluss vom 17.04.2024 - 1 StR 403/23](1-str-403-23.md) — Versuchte schwere Körperverletzung u.a.: Freiwilligkeit des Rücktritts vom beendeten Versuch nach Personenverwechslung
+- [BGH, Beschluss vom 17.04.2024 - 1 StR 434/23](1-str-434-23.md) — BGH, Beschluss 1 StR 434/23
+- [BGH, Beschluss vom 17.04.2024 - 1 StR 92/24](1-str-92-24.md) — Darlegung von Gründen zur Beiordnung eines neuen Pflichtverteidigers
+- [BGH, Urteil vom 16.04.2024 - 1 StR 204/23](1-str-204-23.md) — Strafrechtliche Vermögensabschöpfung in Steuerstrafsachen: Isolierte Anfechtung der Einziehungsanordnung
+- [BGH, Urteil vom 16.04.2024 - 1 StR 431/23](1-str-431-23.md) — BGH, Urteil 1 StR 431/23
+- [BGH, Beschluss vom 16.04.2024 - 1 StR 87/24](1-str-87-24.md) — BGH, Beschluss 1 StR 87/24
+- [BGH, Beschluss vom 04.04.2024 - 1 StR 14/24](1-str-14-24.md) — BGH, Beschluss 1 StR 14/24
+- [BGH, Beschluss vom 04.04.2024 - 1 StR 450/23](1-str-450-23.md) — Anforderungen an form- und fristgerechte Erhebung einer Anhörungsrüge
+- [BGH, Beschluss vom 04.04.2024 - 1 StR 451/23](1-str-451-23.md) — BGH, Beschluss 1 StR 451/23
+- [BGH, Beschluss vom 04.04.2024 - 1 StR 46/24](1-str-46-24.md) — BGH, Beschluss 1 StR 46/24
+- [BGH, Beschluss vom 03.04.2024 - 1 StR 257/22](1-str-257-22.md) — BGH, Beschluss 1 StR 257/22
+- [BGH, Beschluss vom 03.04.2024 - 1 StR 259/23](1-str-259-23.md) — BGH, Beschluss 1 StR 259/23
+- [BGH, Beschluss vom 03.04.2024 - 1 StR 75/24](1-str-75-24.md) — Voraussetzungen der Zueignungsabsicht beim Raub
+- [BGH, Beschluss vom 02.04.2024 - 1 StR 165/19](1-str-165-19.md) — Geltendmachung einer Pauschgebühr nach vorheriger Geltendmachung einer doppelten Wahlverteidigerhöchstgebühr
+- [BGH, Beschluss vom 22.03.2024 - 1 StR 35/24](1-str-35-24.md) — BGH, Beschluss 1 StR 35/24
+- [BGH, Beschluss vom 20.03.2024 - 1 StR 315/23](1-str-315-23.md) — BGH, Beschluss 1 StR 315/23
+- [BGH, Beschluss vom 19.03.2024 - 1 StR 459/23](1-str-459-23.md) — BGH, Beschluss 1 StR 459/23
+- [BGH, Beschluss vom 18.03.2024 - 1 StR 1/24](1-str-1-24.md) — Dreieckserpressung unter Ausnutzung des Näheverhältnisses aufgrund eines Arbeitsverhältnisses
+- [BGH, Beschluss vom 18.03.2024 - 1 StR 159/22](1-str-159-22.md) — BGH, Beschluss 1 StR 159/22
+- [BGH, Beschluss vom 07.03.2024 - 1 StR 438/23](1-str-438-23.md) — Einziehung in Steuerstrafsachen: Verbot der Doppelbelastung
+- [BGH, Beschluss vom 07.03.2024 - 1 StR 47/24](1-str-47-24.md) — BGH, Beschluss 1 StR 47/24
+- [BGH, Beschluss vom 07.03.2024 - 1 StR 472/23](1-str-472-23.md) — Umsatzsteuerschuld bei Kommissionsgeschäften
+- [BGH, Urteil vom 06.03.2024 - 1 StR 308/23](1-str-308-23.md) — Wegen jeder rechtlich selbständigen Anknüpfungstat ist eine gesonderte Geldbuße nach § 30 Abs. 1 OWiG zu verhängen.
+- [BGH, Beschluss vom 05.03.2024 - 1 StR 366/23](1-str-366-23.md) — Anspruch eines Beschuldigten auf Übersendung einer Übersetzung der Anklageschrift in einer ihm verständlichen Sprache
+- [BGH, Beschluss vom 05.03.2024 - 1 StR 408/23](1-str-408-23.md) — BGH, Beschluss 1 StR 408/23
+- [BGH, Beschluss vom 05.03.2024 - 1 StR 448/23](1-str-448-23.md) — BGH, Beschluss 1 StR 448/23
+- [BGH, Beschluss vom 29.02.2024 - 1 StR 223/23](1-str-223-23.md) — BGH, Beschluss 1 StR 223/23
+- [BGH, Beschluss vom 29.02.2024 - 1 StR 356/23](1-str-356-23.md) — BGH, Beschluss 1 StR 356/23
+- [BGH, Beschluss vom 21.02.2024 - 1 StR 25/24](1-str-25-24.md) — Anforderungen an Darlegung eines zu erwartenden Therapieerfolgs in Maßregelausspruch
+- [BGH, Beschluss vom 21.02.2024 - 1 StR 334/23](1-str-334-23.md) — BGH, Beschluss 1 StR 334/23
+- [BGH, Beschluss vom 21.02.2024 - 1 StR 394/23](1-str-394-23.md) — Verurteilung wegen Steuerhinterziehung: Ermittlung des Umfangs der Ertragsteuern
+- [BGH, Beschluss vom 20.02.2024 - 1 StR 30/24](1-str-30-24.md) — Anforderungen an gerichtliche Würdigung für die Annahme des Vorliegens schädlicher Neigungen bei Heranwachsendem
+- [BGH, Beschluss vom 20.02.2024 - 1 StR 419/23](1-str-419-23.md) — BGH, Beschluss 1 StR 419/23
+- [BGH, Beschluss vom 06.02.2024 - 1 StR 348/23](1-str-348-23.md) — Einziehung im Strafverfahrens wegen Diebstahls: Bestimmung des Wertes des Erlangten bei Einziehungsgegenständen mit Wertschwankungen
+- [BGH, Beschluss vom 25.01.2024 - 1 StR 449/23](1-str-449-23.md) — BGH, Beschluss 1 StR 449/23
+- [BGH, Urteil vom 24.01.2024 - 1 StR 218/23](1-str-218-23.md) — Steuerhinterziehung: Konkurrenzen bei Einkommensteuererklärung und vorangehenden Feststellungserklärungen; großes Ausmaß einer Steuerhinterziehung bei einer Gmb
+- [BGH, Beschluss vom 24.01.2024 - 1 StR 346/23](1-str-346-23.md) — Adhäsionsverfahren: Vorläufige Vollstreckbarkeit der Kostenentscheidung
+- [BGH, Urteil vom 24.01.2024 - 1 StR 363/23](1-str-363-23.md) — Spekulative Erwägungen in Urteilsgründen bei Voraussetzungen einer heimtückischen Tötung
+- [BGH, Beschluss vom 24.01.2024 - 1 StR 468/23](1-str-468-23.md) — Konkurrenzrechtliche Bewertung der Verwirklichung des Tatbestandes des sexuellen Missbrauchs von Kindern und des sexuellen Missbrauchs von Kindern ohne Körperko
+- [BGH, Beschluss vom 24.01.2024 - 1 StR 470/23](1-str-470-23.md) — Rechtsfolgen der Jugendstraftat: Verstoß gegen Bestimmtheitsgebot bei Anordnung von gemeinnützigen Arbeitsstunden
+- [BGH, Urteil vom 23.01.2024 - 1 StR 189/23](1-str-189-23.md) — 1. Geschütztes Rechtsgut des § 239a StGB ist nicht nur die Willensfreiheit des Genötigten vor einer besonders schwerwiegenden und besonders verwerflichen Nötigu
+- [BGH, Beschluss vom 23.01.2024 - 1 StR 262/23](1-str-262-23.md) — Anordnung und Bemessung des Vorwegvollzugs
+- [BGH, Beschluss vom 23.01.2024 - 1 StR 266/23](1-str-266-23.md) — BGH, Beschluss 1 StR 266/23
+- [BGH, Beschluss vom 12.01.2024 - 1 StR 411/23](1-str-411-23.md) — Beanstandung der Ablehnung von Beweisanträgen
+- [BGH, Beschluss vom 11.01.2024 - 1 StR 422/23](1-str-422-23.md) — Einziehung des Wertes von Taterträgen bei Vorenthalten und Veruntreuen von Arbeitsentgelt und Steuerhinterziehung
+- [BGH, Beschluss vom 11.01.2024 - 1 StR 447/23](1-str-447-23.md) — BGH, Beschluss 1 StR 447/23
+- [BGH, Beschluss vom 10.01.2024 - 1 StR 349/23](1-str-349-23.md) — Revision im Strafverfahren: Nachprüfbarkeit der Nichtanordnung einer Unterbringung in einer Entziehungsanstalt
+- [BGH, Beschluss vom 10.01.2024 - 1 StR 362/23](1-str-362-23.md) — Einziehungsanordnung im Falle einer nachträglichen Gesamtstrafe
+- [BGH, Beschluss vom 10.01.2024 - 1 StR 413/23](1-str-413-23.md) — Strafprozessrecht: Verzicht auf Prozessanträge gegen Zusicherung eines Strafrahmens
+- [BGH, Beschluss vom 10.01.2024 - 1 StR 444/23](1-str-444-23.md) — BGH, Beschluss 1 StR 444/23
+- [BGH, Beschluss vom 09.01.2024 - 1 StR 391/23](1-str-391-23.md) — (Nachträgliche Gesamtstrafenbildung und Entscheidung über eine Einziehung)
+- [BGH, Beschluss vom 09.01.2024 - 1 StR 406/23](1-str-406-23.md) — BGH, Beschluss 1 StR 406/23
+- [BGH, Beschluss vom 09.01.2024 - 1 StR 425/23](1-str-425-23.md) — Kompensation wegen Verfahrensverzögerung

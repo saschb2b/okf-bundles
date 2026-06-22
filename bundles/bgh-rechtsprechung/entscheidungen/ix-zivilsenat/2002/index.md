@@ -1,0 +1,70 @@
+# IX. Zivilsenat – 2002
+
+66 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2002 - IX ZB 248/02](ix-zb-248-02.md) — BGH, Beschluss vom 19.12.2002 - IX ZB 248/02
+- [BGH, Beschluss vom 19.12.2002 - IX ZR 428/99](ix-zr-428-99.md) — BGH, Beschluss vom 19.12.2002 - IX ZR 428/99
+- [BGH, Beschluss vom 18.12.2002 - IX ZA 17/02](ix-za-17-02.md) — BGH, Beschluss vom 18.12.2002 - IX ZA 17/02
+- [BGH, Beschluss vom 12.12.2002 - IX ZR 141/02](ix-zr-141-02.md) — BGH, Beschluss vom 12.12.2002 - IX ZR 141/02
+- [BGH, Beschluss vom 12.12.2002 - IX ZR 27/00](ix-zr-27-00.md) — BGH, Beschluss vom 12.12.2002 - IX ZR 27/00
+- [BGH, Beschluss vom 05.12.2002 - IX ZR 184/99](ix-zr-184-99.md) — BGH, Beschluss vom 05.12.2002 - IX ZR 184/99
+- [BGH, Beschluss vom 05.12.2002 - IX ZR 388/99](ix-zr-388-99.md) — BGH, Beschluss vom 05.12.2002 - IX ZR 388/99
+- [BGH, Beschluss vom 05.12.2002 - IX ZR 70/02](ix-zr-70-02.md) — BGH, Beschluss vom 05.12.2002 - IX ZR 70/02
+- [BGH, Beschluss vom 14.11.2002 - IX ZR 176/00](ix-zr-176-00.md) — BGH, Beschluss vom 14.11.2002 - IX ZR 176/00
+- [BGH, Beschluss vom 14.11.2002 - IX ZR 392/99](ix-zr-392-99.md) — BGH, Beschluss vom 14.11.2002 - IX ZR 392/99
+- [BGH, Beschluss vom 01.10.2002 - IX ZB 271/02](ix-zb-271-02.md) — BGH, Beschluss vom 01.10.2002 - IX ZB 271/02
+- [BGH, Beschluss vom 01.10.2002 - IX ZB 395/02](ix-zb-395-02.md) — BGH, Beschluss vom 01.10.2002 - IX ZB 395/02
+- [BGH, Beschluss vom 01.10.2002 - IX ZR 133/00](ix-zr-133-00.md) — BGH, Beschluss vom 01.10.2002 - IX ZR 133/00
+- [BGH, Beschluss vom 01.10.2002 - IX ZR 317/00](ix-zr-317-00.md) — BGH, Beschluss vom 01.10.2002 - IX ZR 317/00
+- [BGH, Beschluss vom 01.10.2002 - IX ZR 317/99](ix-zr-317-99.md) — BGH, Beschluss vom 01.10.2002 - IX ZR 317/99
+- [BGH, Beschluss vom 01.10.2002 - IX ZR 329/00](ix-zr-329-00.md) — BGH, Beschluss vom 01.10.2002 - IX ZR 329/00
+- [BGH, Urteil vom 01.10.2002 - IX ZR 360/99](ix-zr-360-99.md) — 254.209,71 DM nebst 4 % Zinsen für die Zeit vom 26. Juli 1994 bis 31. Dezember 2001 und 5 % Zinsen seit 1. Januar 2002 abgewiesen worden ist
+- [BGH, Urteil vom 01.10.2002 - IX ZR 443/00](ix-zr-443-00.md) — Tatbestand:
+- [BGH, Beschluss vom 26.09.2002 - IX ZB 180/02](ix-zb-180-02.md) — BGH, Beschluss vom 26.09.2002 - IX ZB 180/02
+- [BGH, Beschluss vom 26.09.2002 - IX ZB 208/02](ix-zb-208-02.md) — BGH, Beschluss vom 26.09.2002 - IX ZB 208/02
+- [BGH, Beschluss vom 26.09.2002 - IX ZR 148/02](ix-zr-148-02.md) — BGH, Beschluss vom 26.09.2002 - IX ZR 148/02
+- [BGH, Beschluss vom 26.09.2002 - IX ZR 160/01](ix-zr-160-01.md) — BGH, Beschluss vom 26.09.2002 - IX ZR 160/01
+- [BGH, Beschluss vom 26.09.2002 - IX ZR 184/01](ix-zr-184-01.md) — BGH, Beschluss vom 26.09.2002 - IX ZR 184/01
+- [BGH, Urteil vom 26.09.2002 - IX ZR 66/99](ix-zr-66-99.md) — Tatbestand:
+- [BGH, Beschluss vom 12.09.2002 - IX ZA 9/02](ix-za-9-02.md) — Beiordnung eines Rechtsanwalts
+- [BGH, Beschluss vom 12.09.2002 - IX ZB 147/02](ix-zb-147-02.md) — BGH, Beschluss vom 12.09.2002 - IX ZB 147/02
+- [BGH, Beschluss vom 12.09.2002 - IX ZB 312/02](ix-zb-312-02.md) — BGH, Beschluss vom 12.09.2002 - IX ZB 312/02
+- [BGH, Beschluss vom 12.09.2002 - IX ZB 348/02](ix-zb-348-02.md) — BGH, Beschluss vom 12.09.2002 - IX ZB 348/02
+- [BGH, Beschluss vom 12.09.2002 - IX ZR 390/99](ix-zr-390-99.md) — BGH, Beschluss vom 12.09.2002 - IX ZR 390/99
+- [BGH, Beschluss vom 12.09.2002 - IX ZR 393/99](ix-zr-393-99.md) — BGH, Beschluss vom 12.09.2002 - IX ZR 393/99
+- [BGH, Beschluss vom 12.09.2002 - IX ZR 438/99](ix-zr-438-99.md) — Verschuldens bei Vertragsschluß verurteilt, weil sein Partner C. und er durch Erklärungen außerhalb des Kaufvertrages in den Käufern unerfül
+- [BGH, Beschluss vom 12.09.2002 - IX ZR 454/99](ix-zr-454-99.md) — BGH, Beschluss vom 12.09.2002 - IX ZR 454/99
+- [BGH, Beschluss vom 12.09.2002 - IX ZR 497/00](ix-zr-497-00.md) — BGH, Beschluss vom 12.09.2002 - IX ZR 497/00
+- [BGH, Beschluss vom 24.07.2002 - IX ZB 70/02](ix-zb-70-02.md) — BGH, Beschluss vom 24.07.2002 - IX ZB 70/02
+- [BGH, Beschluss vom 24.07.2002 - IX ZR 110/01](ix-zr-110-01.md) — Gläubigerbenachteiligung ist - entgegen der Meinung der Revision - nicht Teil des von der Klägerin darzulegenden hypothetischen Kausalverlau
+- [BGH, Beschluss vom 17.07.2002 - IX ZB 219/02](ix-zb-219-02.md) — BGH, Beschluss vom 17.07.2002 - IX ZB 219/02
+- [BGH, Beschluss vom 17.07.2002 - IX ZB 225/02](ix-zb-225-02.md) — BGH, Beschluss vom 17.07.2002 - IX ZB 225/02
+- [BGH, Beschluss vom 17.07.2002 - IX ZB 25/02](ix-zb-25-02.md) — BGH, Beschluss vom 17.07.2002 - IX ZB 25/02
+- [BGH, Beschluss vom 17.07.2002 - IX ZB 82/02](ix-zb-82-02.md) — BGH, Beschluss vom 17.07.2002 - IX ZB 82/02
+- [BGH, Beschluss vom 17.07.2002 - IX ZB 83/02](ix-zb-83-02.md) — schuldhafter Verletzung seiner vertraglichen Pflichten auf Schadensersatz in Höhe von 206.798,36 DM in Anspruch genommen. Das Landgericht ha
+- [BGH, Beschluss vom 17.07.2002 - IX ZR 397/00](ix-zr-397-00.md) — BGH, Beschluss vom 17.07.2002 - IX ZR 397/00
+- [BGH, Beschluss vom 17.07.2002 - IX ZR 418/98](ix-zr-418-98.md) — BGH, Beschluss vom 17.07.2002 - IX ZR 418/98
+- [BGH, Beschluss vom 17.07.2002 - IX ZR 469/00](ix-zr-469-00.md) — BGH, Beschluss vom 17.07.2002 - IX ZR 469/00
+- [BGH, Beschluss vom 17.07.2002 - IX ZR 66/01](ix-zr-66-01.md) — BGH, Beschluss vom 17.07.2002 - IX ZR 66/01
+- [BGH, Beschluss vom 20.06.2002 - IX ZB 12/02](ix-zb-12-02.md) — BGH, Beschluss vom 20.06.2002 - IX ZB 12/02
+- [BGH, Beschluss vom 20.06.2002 - IX ZR 219/99](ix-zr-219-99.md) — BGH, Beschluss vom 20.06.2002 - IX ZR 219/99
+- [BGH, Beschluss vom 20.06.2002 - IX ZR 24/02](ix-zr-24-02.md) — BGH, Beschluss vom 20.06.2002 - IX ZR 24/02
+- [BGH, Beschluss vom 17.04.2002 - IX ZR 414/00](ix-zr-414-00.md) — BGH, Beschluss vom 17.04.2002 - IX ZR 414/00
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 45/02](ix-zb-45-02.md) — BGH, Beschluss vom 21.03.2002 - IX ZB 45/02
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 48/02](ix-zb-48-02.md) — BGH, Beschluss vom 21.03.2002 - IX ZB 48/02
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 55/02](ix-zb-55-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 59/02](ix-zb-59-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 6/02](ix-zb-6-02.md) — BGH, Beschluss vom 21.03.2002 - IX ZB 6/02
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 61/02](ix-zb-61-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 72/02](ix-zb-72-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 74/02](ix-zb-74-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 21.03.2002 - IX ZB 75/02](ix-zb-75-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 21.03.2002 - IX ZR 222/01](ix-zr-222-01.md) — BGH, Beschluss vom 21.03.2002 - IX ZR 222/01
+- [BGH, Beschluss vom 20.03.2002 - IX ZB 50/02](ix-zb-50-02.md) — "greifbarer Gesetzwidrigkeit" oder der Verletzung von Verfahrensgrundrechten ist sie nicht statthaft (vgl. BGH, Beschl. v. 7. März 2002 - IX
+- [BGH, Beschluss vom 28.02.2002 - IX ZR 153/00](ix-zr-153-00.md) — BGH, Beschluss vom 28.02.2002 - IX ZR 153/00
+- [BGH, Beschluss vom 24.01.2002 - IX ZB 129/01](ix-zb-129-01.md) — einer Verletzung von Verfahrensgrundrechten des Beschwerdeführers (vgl. BGH, Beschl. v. 8. November 2001 - IX ZB 44/01 z.V.b.) kommt vorlieg
+- [BGH, Urteil vom 24.01.2002 - IX ZR 180/99](ix-zr-180-99.md) — Tatbestand:
+- [BGH, Urteil vom 24.01.2002 - IX ZR 204/00](ix-zr-204-00.md) — Tatbestand
+- [BGH, Urteil vom 24.01.2002 - IX ZR 228/00](ix-zr-228-00.md) — Tatbestand:
+- [BGH, Beschluss vom 24.01.2002 - IX ZR 238/99](ix-zr-238-99.md) — BGH, Beschluss vom 24.01.2002 - IX ZR 238/99
+- [BGH, Beschluss vom 24.01.2002 - IX ZR 36/00](ix-zr-36-00.md) — BGH, Beschluss vom 24.01.2002 - IX ZR 36/00

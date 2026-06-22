@@ -1,0 +1,106 @@
+# Strafsenat – 2023
+
+102 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2023 - AK 86/23](ak-86-23.md) — BGH, Beschluss AK 86/23
+- [BGH, Beschluss vom 20.12.2023 - AK 89/23](ak-89-23.md) — BGH, Beschluss AK 89/23
+- [BGH, Beschluss vom 20.12.2023 - StB 72/23](stb-72-23.md) — Strafverfahren: Auslegung einer Eingabe auf Entpflichtung eines Pflichtverteidigers und Bestellung eines weiteren Verteidigers nach selbiger Ablehnung durch den
+- [BGH, Beschluss vom 20.12.2023 - StB 73/23](stb-73-23.md) — Kriegsverbrechen gegen Personen durch Vertreibung
+- [BGH, Beschluss vom 13.12.2023 - AK 90/23](ak-90-23.md) — Fortdauer der Untersuchungshaft über sechs Monate hinaus bei Ahndung der Beihilfe zum Mord und zum versuchten Mord
+- [BGH, Beschluss vom 13.12.2023 - AK 91 - 95/23, AK 91/23, AK 92/23, AK 93/23, AK 94/23, AK 95/23](ak-91-95-23-ak-91-23-ak-92-23-ak-93-23-ak-94-23-ak-95-23.md) — BGH, Beschluss AK 91 - 95/23, AK 91/23, AK 92/23, AK 93/23, AK 94/23, AK 95/23
+- [BGH, Beschluss vom 13.12.2023 - AK 96/23](ak-96-23.md) — BGH, Beschluss AK 96/23
+- [BGH, Beschluss vom 13.12.2023 - StB 70/23](stb-70-23.md) — BGH, Beschluss StB 70/23
+- [BGH, Beschluss vom 06.12.2023 - AK 87/23](ak-87-23.md) — Fortdauer der Untersuchungshaft wegen dringenden Tatverdachts der mitgliedschaftlichen Beteiligung an einer terroristischen Vereinigung sowie der Vorbereitung e
+- [BGH, Beschluss vom 29.11.2023 - AK 83/23](ak-83-23.md) — BGH, Beschluss AK 83/23
+- [BGH, Beschluss vom 29.11.2023 - AK 84 und 85/23, AK 84/23, AK 85/23](ak-84-und-85-23-ak-84-23-ak-85-23.md) — BGH, Beschluss AK 84 und 85/23, AK 84/23, AK 85/23
+- [BGH, Beschluss vom 31.10.2023 - StB 30/23](stb-30-23.md) — Mitgliedschaftliche Beteiligung an terroristischer Vereinigung im Ausland; Überprüfung der Rechtmäßigkeit von Telekommunikationsüberwachungsmaßnahmen
+- [BGH, Beschluss vom 24.10.2023 - StB 59/23](stb-59-23.md) — Beschwerde gegen die einstweilige Sicherstellung und Durchsicht von Gegenständen nach Durchsuchung bei unverdächtiger Person
+- [BGH, Beschluss vom 19.10.2023 - AK 58/23](ak-58-23.md) — Beginn der Sechsmonatsfrist für die Untersuchungshaft; Untersuchungshaft wegen dringenden Tatverdachts der mitgliedschaftlichen Beteiligung an einer terroristis
+- [BGH, Beschluss vom 19.10.2023 - StB 63 + 64/23, StB 63/23, StB 64/23](stb-63-64-23-stb-63-23-stb-64-23.md) — Haftbeschwerden im Zusammenhang mit einem Haftbefehl wegen dringenden Tatverdachts der Unterstützung einer terroristischen Vereinigung im Ausland
+- [BGH, Beschluss vom 05.10.2023 - AK 56/23](ak-56-23.md) — BGH, Beschluss AK 56/23
+- [BGH, Beschluss vom 05.10.2023 - AK 57/23](ak-57-23.md) — BGH, Beschluss AK 57/23
+- [BGH, Beschluss vom 26.09.2023 - AK 55/23](ak-55-23.md) — BGH, Beschluss AK 55/23
+- [BGH, Beschluss vom 21.09.2023 - StB 56/23](stb-56-23.md) — BGH, Beschluss StB 56/23
+- [BGH, Beschluss vom 20.09.2023 - AK 54/23](ak-54-23.md) — Untersuchungshaft: Beginn einer neuen Haftprüfungsfrist bei erweitertem Haftbefehl
+- [BGH, Beschluss vom 06.09.2023 - StB 40/23](stb-40-23.md) — Rechtmäßigkeit einer Durchsuchungsanordnung bei Anfangsverdacht der Beteiligung an terroristischer Vereinigung
+- [BGH, Beschluss vom 06.09.2023 - StB 55/23](stb-55-23.md) — BGH, Beschluss StB 55/23
+- [BGH, Beschluss vom 23.08.2023 - AK 53/23](ak-53-23.md) — BGH, Beschluss AK 53/23
+- [BGH, Beschluss vom 23.08.2023 - StB 47/23](stb-47-23.md) — Beschlagnahme von Schmuckschatulle mit mutmaßlichen IS-Spendengeldern
+- [BGH, Beschluss vom 23.08.2023 - StB 48/23](stb-48-23.md) — Verfügung eines Ermittlungsrichters: Beschwerde gegen Beschluss zur Entnahme einer Speichelprobe
+- [BGH, Beschluss vom 23.08.2023 - StB 51/23](stb-51-23.md) — Strafbarkeit eines Sichbereiterklärens zur Durchführung eines Brandanschlags; Rücktritt von Ausführung
+- [BGH, Beschluss vom 23.08.2023 - StB 54/23](stb-54-23.md) — BGH, Beschluss StB 54/23
+- [BGH, Beschluss vom 17.08.2023 - StB 39/23](stb-39-23.md) — BGH, Beschluss StB 39/23
+- [BGH, Beschluss vom 15.08.2023 - StB 28/23](stb-28-23.md) — Beschwer eines Beschuldigten durch Bestellung eines Pflichtverteidigers
+- [BGH, Beschluss vom 10.08.2023 - StB 32/23](stb-32-23.md) — BGH, Beschluss StB 32/23
+- [BGH, Beschluss vom 10.08.2023 - StB 35/23](stb-35-23.md) — Unterstützen einer ausländischen terroristischen Vereinigung: Geldzahlungen an IS-Kämpfer
+- [BGH, Beschluss vom 10.08.2023 - StB 45 + 46/23, StB 45/23, StB 46/23](stb-45-46-23-stb-45-23-stb-46-23.md) — BGH, Beschluss StB 45 + 46/23, StB 45/23, StB 46/23
+- [BGH, Beschluss vom 10.08.2023 - StB 49/23](stb-49-23.md) — Voraussetzungen eines konsensualen Pflichtverteidigerwechsels
+- [BGH, Beschluss vom 10.08.2023 - StB 52/23](stb-52-23.md) — BGH, Beschluss StB 52/23
+- [BGH, Beschluss vom 08.08.2023 - AK 49/23](ak-49-23.md) — BGH, Beschluss AK 49/23
+- [BGH, Beschluss vom 08.08.2023 - AK 51/23](ak-51-23.md) — BGH, Beschluss AK 51/23
+- [BGH, Beschluss vom 08.08.2023 - StB 50/23](stb-50-23.md) — BGH, Beschluss StB 50/23
+- [BGH, Beschluss vom 07.08.2023 - StB 33/23](stb-33-23.md) — Aussetzung des Strafrests zur Bewährung bei terroristischen Gesinnungstaten
+- [BGH, Beschluss vom 27.07.2023 - AK 50/23](ak-50-23.md) — BGH, Beschluss AK 50/23
+- [BGH, Beschluss vom 27.07.2023 - StB 44/23](stb-44-23.md) — BGH, Beschluss StB 44/23
+- [BGH, Beschluss vom 25.07.2023 - StB 42/23](stb-42-23.md) — Besetzungseinwand: Zurückverweisung des Verfahrens an Spruchkörper mit vorbefassten Richtern
+- [BGH, Beschluss vom 20.07.2023 - StB 43/23](stb-43-23.md) — Untersuchungshaft: Verstärkung des Haftgrundes der Fluchtgefahr; Verhältnismäßigkeit der Fortdauer der Untersuchungshaft
+- [BGH, Beschluss vom 13.07.2023 - AK 21/23](ak-21-23.md) — BGH, Beschluss AK 21/23
+- [BGH, Beschluss vom 13.07.2023 - AK 22/23](ak-22-23.md) — BGH, Beschluss AK 22/23
+- [BGH, Beschluss vom 13.07.2023 - AK 28/23](ak-28-23.md) — BGH, Beschluss AK 28/23
+- [BGH, Beschluss vom 13.07.2023 - AK 34/23](ak-34-23.md) — BGH, Beschluss AK 34/23
+- [BGH, Beschluss vom 13.07.2023 - AK 36/23](ak-36-23.md) — BGH, Beschluss AK 36/23
+- [BGH, Beschluss vom 13.07.2023 - AK 37/23](ak-37-23.md) — BGH, Beschluss AK 37/23
+- [BGH, Beschluss vom 13.07.2023 - AK 45/23](ak-45-23.md) — BGH, Beschluss AK 45/23
+- [BGH, Beschluss vom 13.07.2023 - AK 47/23](ak-47-23.md) — BGH, Beschluss AK 47/23
+- [BGH, Beschluss vom 12.07.2023 - AK 24/23](ak-24-23.md) — BGH, Beschluss AK 24/23
+- [BGH, Beschluss vom 12.07.2023 - AK 27/23](ak-27-23.md) — BGH, Beschluss AK 27/23
+- [BGH, Beschluss vom 12.07.2023 - AK 38/23](ak-38-23.md) — BGH, Beschluss AK 38/23
+- [BGH, Beschluss vom 12.07.2023 - AK 39/23](ak-39-23.md) — BGH, Beschluss AK 39/23
+- [BGH, Beschluss vom 12.07.2023 - AK 40/23](ak-40-23.md) — BGH, Beschluss AK 40/23
+- [BGH, Beschluss vom 12.07.2023 - AK 41/23](ak-41-23.md) — BGH, Beschluss AK 41/23
+- [BGH, Beschluss vom 12.07.2023 - AK 43/23](ak-43-23.md) — BGH, Beschluss AK 43/23
+- [BGH, Beschluss vom 11.07.2023 - AK 23/23](ak-23-23.md) — BGH, Beschluss AK 23/23
+- [BGH, Beschluss vom 11.07.2023 - AK 25/23](ak-25-23.md) — BGH, Beschluss AK 25/23
+- [BGH, Beschluss vom 11.07.2023 - AK 26/23](ak-26-23.md) — BGH, Beschluss AK 26/23
+- [BGH, Beschluss vom 11.07.2023 - AK 35/23, StB 34/23](ak-35-23-stb-34-23.md) — 1. Zu den Voraussetzungen der Vorbereitung eines hochverräterischen Unternehmens. 2. Zum Konkurrenzverhältnis zwischen der Vorbereitung eines hochverräterischen
+- [BGH, Beschluss vom 11.07.2023 - AK 42/23](ak-42-23.md) — BGH, Beschluss AK 42/23
+- [BGH, Beschluss vom 11.07.2023 - AK 44/23](ak-44-23.md) — BGH, Beschluss AK 44/23
+- [BGH, Beschluss vom 11.07.2023 - AK 46/23](ak-46-23.md) — BGH, Beschluss AK 46/23
+- [BGH, Beschluss vom 10.07.2023 - StB 41/23](stb-41-23.md) — BGH, Beschluss StB 41/23
+- [BGH, Beschluss vom 29.06.2023 - StB 31/23](stb-31-23.md) — BGH, Beschluss StB 31/23
+- [BGH, Beschluss vom 29.06.2023 - StB 36/23](stb-36-23.md) — BGH, Beschluss StB 36/23
+- [BGH, Beschluss vom 21.06.2023 - StB 38/23](stb-38-23.md) — Beschwerde in Haftsachen: Zulässigkeit hinsichtlich der beantragten Erweiterung eines bestehenden Haftbefehls
+- [BGH, Beschluss vom 15.06.2023 - StB 23/23](stb-23-23.md) — BGH, Beschluss StB 23/23
+- [BGH, Beschluss vom 15.06.2023 - StB 24/23](stb-24-23.md) — BGH, Beschluss StB 24/23
+- [BGH, Beschluss vom 14.06.2023 - AK 29/23](ak-29-23.md) — Fortdauer der Untersuchungshaft: Zuständigkeit für den Erlass eines Haftbefehls nach Anklageerhebung
+- [BGH, Beschluss vom 14.06.2023 - AK 30 - 33/23, AK 30/23, AK 31/23, AK 32/23, AK 33/23](ak-30-33-23-ak-30-23-ak-31-23-ak-32-23-ak-33-23.md) — BGH, Beschluss AK 30 - 33/23, AK 30/23, AK 31/23, AK 32/23, AK 33/23
+- [BGH, Beschluss vom 13.06.2023 - StB 29/23](stb-29-23.md) — BGH, Beschluss StB 29/23
+- [BGH, Beschluss vom 01.06.2023 - StB 18 - 19/23, StB 18/23, StB 19/23](stb-18-19-23-stb-18-23-stb-19-23.md) — BGH, Beschluss StB 18 - 19/23, StB 18/23, StB 19/23
+- [BGH, Beschluss vom 17.05.2023 - AK 20/23](ak-20-23.md) — BGH, Beschluss AK 20/23
+- [BGH, Beschluss vom 17.05.2023 - StB 2/23](stb-2-23.md) — BGH, Beschluss StB 2/23
+- [BGH, Beschluss vom 17.05.2023 - StB 8/23](stb-8-23.md) — BGH, Beschluss StB 8/23
+- [BGH, Beschluss vom 16.05.2023 - StB 20/23](stb-20-23.md) — BGH, Beschluss StB 20/23
+- [BGH, Beschluss vom 03.05.2023 - AK 19/23](ak-19-23.md) — BGH, Beschluss AK 19/23
+- [BGH, Beschluss vom 03.05.2023 - StB 21/23](stb-21-23.md) — Pflichtverteidigung: Beschwerde gegen die Bestellung eines weiteren Pflichtverteidigers
+- [BGH, Beschluss vom 03.05.2023 - StB 22/23](stb-22-23.md) — BGH, Beschluss StB 22/23
+- [BGH, Beschluss vom 03.05.2023 - StB 26/23](stb-26-23.md) — BGH, Beschluss StB 26/23
+- [BGH, Beschluss vom 20.04.2023 - AK 18/23](ak-18-23.md) — BGH, Beschluss AK 18/23
+- [BGH, Beschluss vom 20.04.2023 - StB 5/23](stb-5-23.md) — BGH, Beschluss StB 5/23
+- [BGH, Beschluss vom 20.04.2023 - StB 59/22](stb-59-22.md) — BGH, Beschluss StB 59/22
+- [BGH, Beschluss vom 05.04.2023 - AK 11 und 12/23, AK 11/23, AK 12/23](ak-11-und-12-23-ak-11-23-ak-12-23.md) — Mitgliedschaftliche Beteiligung an der terroristischen Vereinigung "Islamischer Staat"; Fortdauer der Untersuchungshaft
+- [BGH, Beschluss vom 05.04.2023 - AK 14 - 16/23, AK 14/23, AK 15/23, AK 16/23](ak-14-16-23-ak-14-23-ak-15-23-ak-16-23.md) — BGH, Beschluss AK 14 - 16/23, AK 14/23, AK 15/23, AK 16/23
+- [BGH, Beschluss vom 30.03.2023 - AK 13/23](ak-13-23.md) — BGH, Beschluss AK 13/23
+- [BGH, Beschluss vom 30.03.2023 - StB 58/22](stb-58-22.md) — Durchsuchungsanordnung wegen Bildung einer terroristischen Vereinigung
+- [BGH, Beschluss vom 28.03.2023 - StB 16/23](stb-16-23.md) — Statthaftigkeit einer Beschwerde gegen die Art und Weise einer Durchsuchung
+- [BGH, Beschluss vom 21.03.2023 - StB 15/23](stb-15-23.md) — BGH, Beschluss StB 15/23
+- [BGH, Beschluss vom 15.03.2023 - StB 10/23](stb-10-23.md) — BGH, Beschluss StB 10/23
+- [BGH, Beschluss vom 15.03.2023 - StB 11/23](stb-11-23.md) — BGH, Beschluss StB 11/23
+- [BGH, Beschluss vom 15.03.2023 - StB 12/23](stb-12-23.md) — BGH, Beschluss StB 12/23
+- [BGH, Beschluss vom 08.03.2023 - AK 10/23](ak-10-23.md) — BGH, Beschluss AK 10/23
+- [BGH, Beschluss vom 08.03.2023 - StB 6/23, StB 7/23, StB 6/23 + StB 7/23](stb-6-23-stb-7-23-stb-6-23-stb-7-23.md) — Zustellung an Staatsanwaltschaft durch Übersendung von Akten nebst Übersendungsverfügung
+- [BGH, Beschluss vom 22.02.2023 - AK 2 - 5/23, AK 2/23, AK 3/23, AK 4/23, AK 5/23](ak-2-5-23-ak-2-23-ak-3-23-ak-4-23-ak-5-23.md) — BGH, Beschluss AK 2 - 5/23, AK 2/23, AK 3/23, AK 4/23, AK 5/23
+- [BGH, Beschluss vom 22.02.2023 - AK 6 - 9/23, AK 6/23, AK 7/23, AK 8/23, AK 9/23](ak-6-9-23-ak-6-23-ak-7-23-ak-8-23-ak-9-23.md) — BGH, Beschluss AK 6 - 9/23, AK 6/23, AK 7/23, AK 8/23, AK 9/23
+- [BGH, Beschluss vom 09.02.2023 - AK 1/23](ak-1-23.md) — BGH, Beschluss AK 1/23
+- [BGH, Beschluss vom 09.02.2023 - StB 3/23](stb-3-23.md) — Pflichtverteidigerbestellung: Eröffnung des Tatvorwurfs gegenüber dem Beschuldigten
+- [BGH, Beschluss vom 09.02.2023 - StB 4/23](stb-4-23.md) — BGH, Beschluss StB 4/23
+- [BGH, Beschluss vom 10.01.2023 - AK 49/22](ak-49-22.md) — BGH, Beschluss AK 49/22

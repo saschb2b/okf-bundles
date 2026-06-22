@@ -1,0 +1,47 @@
+# 5. Strafsenat – 2001
+
+43 Entscheidung(en).
+
+- [BGH, Entscheidung vom 11.12.2001 - 5 StR 372/01](5-str-372-01.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 08.11.2001 - 5 StR 257/01](5-str-257-01.md) — gewerbsmäßiger Geldfälschung
+- [BGH, Beschluss vom 08.11.2001 - 5 StR 457/01](5-str-457-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 07.11.2001 - 5 StR 116/01](5-str-116-01.md) — Mordes u. a.
+- [BGH, Beschluss vom 07.11.2001 - 5 StR 395/01](5-str-395-01.md) — Steuerhinterziehung
+- [BGH, Beschluss vom 07.11.2001 - 5 StR 411/01](5-str-411-01.md) — fahrlässiger Tötung u. a.
+- [BGH, Beschluss vom 23.10.2001 - 5 StR 310/01](5-str-310-01.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 23.10.2001 - 5 StR 433/01](5-str-433-01.md) — Raubes u. a.
+- [BGH, Beschluss vom 23.10.2001 - 5 StR 462/01](5-str-462-01.md) — Totschlags u. a.
+- [BGH, Beschluss vom 06.09.2001 - 5 StR 276/01](5-str-276-01.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 06.09.2001 - 5 StR 318/01](5-str-318-01.md) — Steuerhinterziehung u. a.
+- [BGH, Beschluss vom 06.09.2001 - 5 StR 362/01](5-str-362-01.md) — Totschlags
+- [BGH, Beschluss vom 06.09.2001 - 5 StR 364/01](5-str-364-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 08.08.2001 - 5 StR 211/01](5-str-211-01.md) — Geiselnahme
+- [BGH, Urteil vom 08.08.2001 - 5 StR 252/01](5-str-252-01.md) — Anstiftung zur Brandstiftung
+- [BGH, Beschluss vom 08.08.2001 - 5 StR 306/01](5-str-306-01.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 08.08.2001 - 5 StR 317/01](5-str-317-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 10.07.2001 - 5 StR 188/01](5-str-188-01.md) — Steuerhinterziehung u. a.
+- [BGH, Urteil vom 10.07.2001 - 5 StR 236/01](5-str-236-01.md) — Vergewaltigung
+- [BGH, Urteil vom 10.07.2001 - 5 StR 240/01](5-str-240-01.md) — sexueller Nötigung u. a.
+- [BGH, Beschluss vom 10.07.2001 - 5 StR 250/01](5-str-250-01.md) — Mordes u. a.
+- [BGH, Beschluss vom 10.07.2001 - 5 StR 264/01](5-str-264-01.md) — schwerer Körperverletzung
+- [BGH, Beschluss vom 14.06.2001 - 5 StR 87/01](5-str-87-01.md) — fahrlässigen Vollrausches
+- [BGH, Beschluss vom 13.06.2001 - 5 StR 177/01](5-str-177-01.md) — erpresserischen Menschenraubes u. a.
+- [BGH, Beschluss vom 13.06.2001 - 5 StR 180/01](5-str-180-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 13.06.2001 - 5 StR 202/01](5-str-202-01.md) — Totschlags
+- [BGH, Beschluss vom 21.05.2001 - 5 StR 542/00](5-str-542-00.md) — Brandstiftung u. a.
+- [BGH, Beschluss vom 13.03.2001 - 5 StR 57/01](5-str-57-01.md) — gewerbsmäßiger unerlaubter Abgabe von Betäubungsmitteln an Minderjährige u. a.
+- [BGH, Beschluss vom 13.03.2001 - 5 StR 58/01](5-str-58-01.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 07.02.2001 - 5 ARs 1/01](5-ars-1-01.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 07.02.2001 - 5 StR 465/00](5-str-465-00.md) — besonders schwerer Körperverletzung
+- [BGH, Urteil vom 07.02.2001 - 5 StR 474/00](5-str-474-00.md) — unerlaubter Einfuhr von Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 07.02.2001 - 5 StR 533/00](5-str-533-00.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 25.01.2001 - 5 StR 486/00](5-str-486-00.md) — vorsätzlicher Brandstiftung u. a.
+- [BGH, Beschluss vom 23.01.2001 - 5 StR 2/01](5-str-2-01.md) — Totschlags
+- [BGH, Urteil vom 11.01.2001 - 5 StR 281/00](5-str-281-00.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 11.01.2001 - 5 StR 493/00](5-str-493-00.md) — Mordes u. a.
+- [BGH, Beschluss vom 10.01.2001 - 5 StR 422/00](5-str-422-00.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 10.01.2001 - 5 StR 435/00](5-str-435-00.md) — Vergehen gegen das Militärregierungsgesetz Nr. 53
+- [BGH, Beschluss vom 10.01.2001 - 5 StR 566/00](5-str-566-00.md) — gewerbs- und bandenmäßigen Einschleusens von Ausländern u. a.
+- [BGH, Beschluss vom 09.01.2001 - 5 StR 555/00](5-str-555-00.md) — schweren Menschenhandels u. a.
+- [BGH, Beschluss vom 09.01.2001 - 5 StR 565/00](5-str-565-00.md) — Diebstahls u. a.
+- [BGH, Beschluss vom 09.01.2001 - 5 StR 575/00](5-str-575-00.md) — Vergewaltigung

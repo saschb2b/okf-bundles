@@ -1,0 +1,49 @@
+# IV. Zivilsenat – 2019
+
+45 Entscheidung(en).
+
+- [BGH, Urteil vom 18.12.2019 - IV ZR 65/19](iv-zr-65-19.md) — Zum Erfordernis einer Änderungsmitteilung des Versicherers bei späterem Wegfall einer zunächst bestehenden Berufsunfähigkeit trotz Nichtabgabe eines Leistungsan
+- [BGH, Beschluss vom 17.12.2019 - IV ZR 240/18](iv-zr-240-18.md) — Reisekostenerstattung einer anwaltlich vertretenen Partei in Revisionsverfahren
+- [BGH, Urteil vom 11.12.2019 - IV ZR 8/19](iv-zr-8-19.md) — Zur Frage, ob und inwieweit § 10a Abs. 1 Satz 1 VAG a.F. i.V.m. Abschnitt I Nr. 2 Buchst. b) und d) der Anlage Teil D zum VAG a.F. den Versicherer zu der Angabe
+- [BGH, Beschluss vom 04.12.2019 - IV ZR 100/19](iv-zr-100-19.md) — Verstoß gegen den Grundsatz auf rechtliches Gehör durch verspätete Erteilung eines richterlichen Hinweises
+- [BGH, Urteil vom 04.12.2019 - IV ZR 323/18](iv-zr-323-18.md) — Für die Beurteilung der medizinischen Notwendigkeit einer In-vitro-Fertilisation (IVF) mit intracytoplasmatischer Spermieninjektion (ICSI) sind deren Erfolgsaus
+- [BGH, Beschluss vom 28.11.2019 - IV ZR 70/19](iv-zr-70-19.md) — (Streitwert bei Feststellungsantrag eines Pflichtteilsberechtigten)
+- [BGH, Urteil vom 27.11.2019 - IV ZR 314/17](iv-zr-314-17.md) — Der Eintritt in die Freistellungsphase einer in Blöcken wahrgenommenen Altersteilzeit führt nicht zum Wegfall der Voraussetzungen für die Versicherungsfähigkeit
+- [BGH, Urteil vom 20.11.2019 - IV ZR 159/18](iv-zr-159-18.md) — Die Formulierung "erhöhte" Kraftanstrengung in Nr. 1.4 der Allgemeinen Unfallversicherungsbedingungen 2010 ist nicht intransparent.
+- [BGH, Urteil vom 13.11.2019 - IV ZR 317/17](iv-zr-317-17.md) — Auch im Falle einer postmortalen Vaterschaftsfeststellung verjährt der einem pflichtteilsberechtigten Abkömmling gemäß § 2329 BGB gegen den Beschenkten zustehen
+- [BGH, Urteil vom 13.11.2019 - IV ZR 324/16](iv-zr-324-16.md) — Altvertrag über eine private Rentenversicherung: Bereicherungsrechtliche Rückabwicklung nach Widerspruch
+- [BGH, Beschluss vom 09.10.2019 - IV ZR 171/18](iv-zr-171-18.md) — Streitwertfestsetzung: Beschwerdeverfahren nach Anfechtung eines Prozessvergleichs
+- [BGH, Urteil vom 09.10.2019 - IV ZR 235/18](iv-zr-235-18.md) — Ein befristetes Anerkenntnis in der Berufsunfähigkeitsversicherung setzt sowohl das Vorliegen eines sachlichen Grundes als auch eine Begründung der Befristung d
+- [BGH, Beschluss vom 08.10.2019 - IV ZR 33/19](iv-zr-33-19.md) — Streitwertfestsetzung: Zahlungsklage eines Miterben gegen den anderen Miterben
+- [BGH, Beschluss vom 25.09.2019 - IV ZR 247/18](iv-zr-247-18.md) — Nachträgliche Vertragsanpassung wegen Verletzung der vorvertraglichen Anzeigepflicht
+- [BGH, Urteil vom 25.09.2019 - IV ZR 99/18](iv-zr-99-18.md) — Bei einer Lebensversicherung auf den Tod eines anderen erfordert die Änderung der Bezugsberechtigung im Todesfall in entsprechender Anwendung von § 159 Abs. 2 S
+- [BGH, Beschluss vom 11.09.2019 - IV ZB 13/19](iv-zb-13-19.md) — Streitwertbemessung: Klage des Versicherungnehmers gegen die Kfz-Kaskoversicherung auf Zustimmung zur Geltendmachung übergegangener Ansprüche; Berücksichtigung 
+- [BGH, Urteil vom 11.09.2019 - IV ZR 20/18](iv-zr-20-18.md) — 1. Das Fehlen eines Neubemessungsvorbehalts im Sinne von Ziffer 9.4 Satz 3 AUB in der Erklärung des Unfallversicherers über die Leistungspflicht zur Erstbemessu
+- [BGH, Beschluss vom 09.09.2019 - IV ZR 241/18](iv-zr-241-18.md) — Entscheidung über eine Erinnerung gegen den Kostenansatz
+- [BGH, Beschluss vom 04.09.2019 - IV ZR 40/19](iv-zr-40-19.md) — Nichtzulassungsbeschwerde: Beschwerdewertbemessung im Streit über das Bestehen eines privaten Kranken- und Pflegeversicherungsvertrages
+- [BGH, Urteil vom 14.08.2019 - IV ZR 279/17](iv-zr-279-17.md) — 1. Die Regelung des § 555 Abs. 3 ZPO ist nicht auf Fälle beschränkt, in denen das Anerkenntnis erst nach Beginn der mündlichen Revisionsverhandlung erklärt word
+- [BGH, Beschluss vom 10.07.2019 - IV ZB 22/18](iv-zb-22-18.md) — Zur Wirksamkeit der Wahl des deutschen Errichtungsstatuts in einem Erbvertrag, der von einer nach dem 17. August 2015 verstorbenen deutschen Erblasserin mit ein
+- [BGH, Urteil vom 03.07.2019 - IV ZR 111/18](iv-zr-111-18.md) — Auch im Passivprozess des Versicherungsnehmers einer Rechtsschutzversicherung ist bei der zeitlichen Festlegung des Rechtsschutzfalles (hier nach § 14 (3) ARB 1
+- [BGH, Urteil vom 03.07.2019 - IV ZR 195/18](iv-zr-195-18.md) — Versicherungsfall in der Rechtsschutzversicherung: Zeitliche Einordnung und Begrenzung des Versicherungsschutzes bei nach dem Vorbringen des Versicherungsnehmer
+- [BGH, Urteil vom 26.06.2019 - IV ZR 19/18](iv-zr-19-18.md) — Bei dem für die Verweisbarkeit des Versicherten auf eine andere berufliche Tätigkeit gebotenen Einkommensvergleich ist das vor Geltendmachung der Berufsunfähigk
+- [BGH, Beschluss vom 25.06.2019 - IV ZR 190/18](iv-zr-190-18.md) — Auslegung einer Bezugsrechtsbestimmung bei einer Lebensversicherung
+- [BGH, Beschluss vom 19.06.2019 - IV ZB 30/18](iv-zb-30-18.md) — Zur Auslegung eines gemeinschaftlichen Testaments, in dem Schlusserben "für den Fall eines gleichzeitigen Ablebens" eingesetzt wurden.
+- [BGH, Beschluss vom 19.06.2019 - IV ZR 224/18](iv-zr-224-18.md) — Nichtzulassungsbeschwerde: Eigenständige Bestimmung der Höhe der Beschwer durch das Revisionsgericht; Zurückweisungsbeschluss ohne tatbestandliche Feststellunge
+- [BGH, Urteil vom 22.05.2019 - IV ZR 73/18](iv-zr-73-18.md) — Bei einer Versicherung für fremde Rechnung obliegt es dem Unfallversicherer grundsätzlich nicht, die versicherte Person neben oder an Stelle des Versicherungsne
+- [BGH, Beschluss vom 16.04.2019 - IV ZB 32/18](iv-zb-32-18.md) — Rechtswegzuständigkeit bei einer Klage auf Zahlung von Berufsunfähigkeitsrente gegen einen Versicherungsverein auf Gegenseitigkeit
+- [BGH, Versäumnisurteil vom 10.04.2019 - IV ZR 59/18](iv-zr-59-18.md) — Die in einer Rechtsschutzversicherung enthaltene Ausschlussklausel für "Streitigkeiten aus Kapitalanlagegeschäften aller Art und deren Finanzierung" erfasst auc
+- [BGH, Beschluss vom 03.04.2019 - IV ZB 17/18](iv-zb-17-18.md) — Rechtswegzuständigkeit für die Klage eines ehemaligen Arbeitnehmers auf Berufsunfähigkeitsrente gegen branchenweite Pensionskasse
+- [BGH, Urteil vom 03.04.2019 - IV ZR 90/18](iv-zr-90-18.md) — Der Gesamtanspruch (das Stammrecht), der dem Versicherungsnehmer einer selbständigen oder als Zusatzversicherung abgeschlossenen Berufsunfähigkeitsversicherung 
+- [BGH, Beschluss vom 27.03.2019 - IV ZR 10/18](iv-zr-10-18.md) — Verletzung des rechtlichen Gehörs des Feuerversicherers: Nichtberücksichtigung des Bestreitens der Wiederherstellungsabsicht des Versicherungsnehmers
+- [BGH, Urteil vom 27.03.2019 - IV ZR 132/18](iv-zr-132-18.md) — Die Belehrung gemäß § 8 Abs. 2 Satz 1 Nr. 2 VVG muss sich nicht auch auf die Folgen einer unrichtigen Belehrung gemäß § 9 Abs. 1 Satz 2 sowie § 152 Abs. 2 Satz 
+- [BGH, Beschluss vom 27.03.2019 - IV ZR 214/16](iv-zr-214-16.md) — Rechtsschutzversicherung: Bindung des Rechtsschutzversicherers an eine im Mandatsverhältnis ergangene gerichtliche Entscheidung
+- [BGH, Beschluss vom 19.03.2019 - IV ZR 182/17](iv-zr-182-17.md) — Berufsunfähigkeitsversicherung in einer überbetrieblichen Pensionskasse: Bemessung der Berufsunfähigkeit bei Angestelltentätigkeit und weiterer selbständiger Fr
+- [BGH, Beschluss vom 19.03.2019 - IV ZR 30/18](iv-zr-30-18.md) — Erhebung der Gerichtskosten für das Nichtzulassungsbeschwerdeverfahren
+- [BGH, Beschluss vom 13.03.2019 - IV ZR 124/18](iv-zr-124-18.md) — Deckungsklage gegen die Berufsunfähigkeits-Zusatzversicherung: Erfordernis einer Einstellungsmitteilung des Versicherers bei späterem Wegfall einer zunächst bes
+- [BGH, Beschluss vom 06.03.2019 - IV ZR 108/18](iv-zr-108-18.md) — Private Krankheitskostenversicherung: Formularmäßige Kostenbegrenzung auf die Höchstsätze der ärztlichen Gebührenordnung bzw. der Verordnungen über Krankenhausp
+- [BGH, Beschluss vom 06.03.2019 - IV ZR 128/18](iv-zr-128-18.md) — Notwendigkeit einer erneuten Anhörung des Sachverständigen durch das Berufungsgericht
+- [BGH, Urteil vom 06.03.2019 - IV ZR 72/18](iv-zr-72-18.md) — Der in § 4 Abs. 1 Buchst. d ARB 1975 geregelte Risikoausschluss für die Wahrnehmung rechtlicher Interessen aus Anstellungsverträgen gesetzlicher Vertreter juris
+- [BGH, Beschluss vom 28.02.2019 - IV ZR 153/18](iv-zr-153-18.md) — Rechtsstreit um Zahlungsansprüche aufgrund einer Erbenstellung: Darlegungs- und Beweislast hinsichtlich des Eintritts einer im Testament enthaltenen auflösenden
+- [BGH, Beschluss vom 13.02.2019 - IV ZB 8/18](iv-zb-8-18.md) — Rechtsmittelbeschwer: Berücksichtigung einer zur Hauptforderung gewordenen Nebenforderung
+- [BGH, Urteil vom 23.01.2019 - IV ZR 311/17](iv-zr-311-17.md) — Revisionsgrund der Überschreitung der Fünfmonatsfrist für das Abfassen der Urteilsgründe
+- [BGH, Beschluss vom 16.01.2019 - IV ZB 20/18, IV ZB 21/18](iv-zb-20-18-iv-zb-21-18.md) — Ein Auslandsaufenthalt im Sinne des § 1944 Abs. 3 BGB liegt jedenfalls dann nicht vor, wenn sich einer der beiden gesetzlichen Vertreter eines minderjährigen Er

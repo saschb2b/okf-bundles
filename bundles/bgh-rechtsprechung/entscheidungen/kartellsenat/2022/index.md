@@ -1,0 +1,27 @@
+# Kartellsenat – 2022
+
+23 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2022 - EnVR 45/21](envr-45-21.md) — Datenkorrektur Die Regulierungsbehörde handelt nicht ermessensfehlerhaft, wenn sie einen Netzbetreiber nach Abschluss der Datenerhebung und Anhörung zur Ausgest
+- [BGH, Beschluss vom 20.12.2022 - KZR 8/21](kzr-8-21.md) — Besondere Zulässigkeitsvoraussetzungen für Erhebung von Schadensersatzklage wegen Marktbeherrschungsmissbrauch durch Eisenbahninfrastrukturunternehmen
+- [BGH, Beschluss vom 20.12.2022 - KZR 84/20](kzr-84-20.md) — Zulässigkeit der Schadensersatzklage wegen Missbrauchs der marktbeherrschenden Stellung eines Eisenbahninfrastrukturunternehmens: Anhörungsrüge; Überraschungsen
+- [BGH, Beschluss vom 20.12.2022 - KZR 89/20](kzr-89-20.md) — Rückforderung räumlich differenzierter Schienennetznutzungsentgelte: Besondere Zulässigkeitsvoraussetzungen für die Erhebung und Sachprüfung einer Schadensersat
+- [BGH, Beschluss vom 13.12.2022 - EnVR 55/20](envr-55-20.md) — Regionetz GmbH Bei der Festlegung der Erlösobergrenzen ist nicht nur für die Kostenerhebung und Kostenprüfung, sondern auch für die Kostenzuordnung in die Kateg
+- [BGH, Urteil vom 29.11.2022 - KZR 42/20](kzr-42-20.md) — Schlecker Ein kartellrechtswidriger Austausch zwischen Wettbewerbern über geheime Informationen, die das aktuelle oder geplante Preissetzungsverhalten gegenüber
+- [BGH, Beschluss vom 28.11.2022 - EnVR 7/21](envr-7-21.md) — BGH, Beschluss EnVR 7/21
+- [BGH, Beschluss vom 14.09.2022 - EnVR 77/20](envr-77-20.md) — Energiewirtschaftsrechtliche Verwaltungssache: Gehörsrüge bei fehlendem Hinweis auf beabsichtigte Entscheidung über die Kosten des Rechtsbeschwerdeverfahrens
+- [BGH, Beschluss vom 14.09.2022 - EnVR 78/20](envr-78-20.md) — BGH, Beschluss EnVR 78/20
+- [BGH, Beschluss vom 14.09.2022 - EnVR 79/20](envr-79-20.md) — BGH, Beschluss EnVR 79/20
+- [BGH, Beschluss vom 14.09.2022 - EnVR 80/20](envr-80-20.md) — BGH, Beschluss EnVR 80/20
+- [BGH, Beschluss vom 14.09.2022 - EnVR 81/20](envr-81-20.md) — BGH, Beschluss EnVR 81/20
+- [BGH, Urteil vom 08.08.2022 - KZR 111/18](kzr-111-18.md) — VBL-Gegenwert III 1. Die rückwirkende, wirksame Gegenwertregelung im Satzungsergänzenden Beschluss des Verwaltungsrats der Versorgungsanstalt des Bundes und der
+- [BGH, Beschluss vom 19.07.2022 - EnVR 29/21](envr-29-21.md) — Energiewirtschaftliche Verwaltungssache: Festlegung von Vorgaben für Erstellung und Prüfung von Jahresabschlüssen und Tätigkeitsabschlüssen von vertikal integri
+- [BGH, Beschluss vom 19.07.2022 - EnVR 33/21](envr-33-21.md) — Energiespezifische Dienstleistungserbringer 1. Energiespezifische Dienstleistungen fallen unter die in § 6b Abs. 3 Satz 1 Nr. 1 und 2 EnWG aufgeführten Tätigkei
+- [BGH, Beschluss vom 28.06.2022 - EnVR 10/20](envr-10-20.md) — Energiewirtschaftliche Verwaltungssache: Festlegung des generellen sektoralen Produktivitätsfaktors für Betreiber von Gasversorgungsnetzen durch die Bundesnetza
+- [BGH, Urteil vom 28.06.2022 - KZR 46/20](kzr-46-20.md) — Stahl-Strahlmittel Der zugunsten von Abnehmern eines an einer Kartellabsprache beteiligten Unternehmens streitende Erfahrungssatz, dass die im Rahmen des Kartel
+- [BGH, Urteil vom 10.05.2022 - EnZR 54/21](enzr-54-21.md) — Verbrauchsstelle Goldbuschfeld 1. Entnimmt ein Letztverbraucher, der kein Haushaltskunde ist, nach Beendigung der Ersatzversorgung durch Zeitablauf gemäß § 38 A
+- [BGH, Beschluss vom 27.04.2022 - EnVR 48/18](envr-48-18.md) — Rechtsbeschwerde im Energiewirtschaftsrechtlichen Verwaltungsverfahren: Überprüfung der Festlegung der Eigenkapitalzinssätze für die dritte Regulierungsperiode 
+- [BGH, Beschluss vom 05.04.2022 - EnVR 36/21](envr-36-21.md) — OPAL-Gasfernleitung Die Bundesnetzagentur darf über die Freistellung einer Verbindungsleitung von der Regulierung (hier: OPAL-Gasfernleitung) nicht durch Abschl
+- [BGH, Beschluss vom 25.01.2022 - EnVR 20/18](envr-20-18.md) — Energieverteilung: Grundsatz der unentgeltlichen Kundenanlagennutzung und Strompreiskalkulation
+- [BGH, Beschluss vom 25.01.2022 - EnVR 83/20](envr-83-20.md) — BGH, Beschluss EnVR 83/20
+- [BGH, Beschluss vom 11.01.2022 - EnVR 69/21](envr-69-21.md) — Systemausgleich im Elektrizitätsversorgungssystem: Änderung der genehmigten Modalitäten für Regelreserveanbieter durch die Bundesnetzagentur

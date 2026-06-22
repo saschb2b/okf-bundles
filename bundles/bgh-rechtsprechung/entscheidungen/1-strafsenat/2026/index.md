@@ -1,0 +1,56 @@
+# 1. Strafsenat – 2026
+
+52 Entscheidung(en).
+
+- [BGH, Beschluss vom 30.04.2026 - 1 StR 40/26](1-str-40-26.md) — BGH, Beschluss 1 StR 40/26
+- [BGH, Beschluss vom 30.04.2026 - 1 StR 586/25](1-str-586-25.md) — BGH, Beschluss 1 StR 586/25
+- [BGH, Beschluss vom 29.04.2026 - 1 StR 51/25](1-str-51-25.md) — BGH, Beschluss 1 StR 51/25
+- [BGH, Beschluss vom 28.04.2026 - 1 StR 41/26](1-str-41-26.md) — BGH, Beschluss 1 StR 41/26
+- [BGH, Beschluss vom 27.04.2026 - 1 StR 174/26](1-str-174-26.md) — BGH, Beschluss 1 StR 174/26
+- [BGH, Beschluss vom 20.04.2026 - 1 StR 348/25](1-str-348-25.md) — BGH, Beschluss 1 StR 348/25
+- [BGH, Beschluss vom 20.04.2026 - 1 StR 65/26](1-str-65-26.md) — BGH, Beschluss 1 StR 65/26
+- [BGH, Beschluss vom 15.04.2026 - 1 StR 63/26](1-str-63-26.md) — BGH, Beschluss 1 StR 63/26
+- [BGH, Beschluss vom 13.04.2026 - 1 StR 52/26](1-str-52-26.md) — BGH, Beschluss 1 StR 52/26
+- [BGH, Beschluss vom 10.04.2026 - 1 StR 462/25](1-str-462-25.md) — BGH, Beschluss 1 StR 462/25
+- [BGH, Beschluss vom 02.04.2026 - 1 StR 410/25](1-str-410-25.md) — BGH, Beschluss 1 StR 410/25
+- [BGH, Beschluss vom 02.04.2026 - 1 StR 441/25](1-str-441-25.md) — BGH, Beschluss 1 StR 441/25
+- [BGH, Beschluss vom 19.03.2026 - 1 StR 25/26](1-str-25-26.md) — BGH, Beschluss 1 StR 25/26
+- [BGH, Beschluss vom 19.03.2026 - 1 StR 37/26](1-str-37-26.md) — BGH, Beschluss 1 StR 37/26
+- [BGH, Beschluss vom 19.03.2026 - 1 StR 618/25](1-str-618-25.md) — BGH, Beschluss 1 StR 618/25
+- [BGH, Beschluss vom 19.03.2026 - 1 StR 81/26](1-str-81-26.md) — BGH, Beschluss 1 StR 81/26
+- [BGH, Beschluss vom 18.03.2026 - 1 StR 316/25](1-str-316-25.md) — BGH, Beschluss 1 StR 316/25
+- [BGH, Beschluss vom 18.03.2026 - 1 StR 608/25](1-str-608-25.md) — BGH, Beschluss 1 StR 608/25
+- [BGH, Urteil vom 18.03.2026 - 1 StR 97/25](1-str-97-25.md) — Beantragt die Staatsanwaltschaft in der Hauptverhandlung nach Eintritt eines dauerhaften Verfahrenshindernisses zur Herbeiführung einer Entscheidung über die no
+- [BGH, Beschluss vom 17.03.2026 - 1 StR 438/25](1-str-438-25.md) — BGH, Beschluss 1 StR 438/25
+- [BGH, Urteil vom 17.03.2026 - 1 StR 487/25](1-str-487-25.md) — BGH, Urteil 1 StR 487/25
+- [BGH, Urteil vom 17.03.2026 - 1 StR 549/25](1-str-549-25.md) — BGH, Urteil 1 StR 549/25
+- [BGH, Beschluss vom 16.03.2026 - 1 StR 581/25](1-str-581-25.md) — BGH, Beschluss 1 StR 581/25
+- [BGH, Beschluss vom 05.03.2026 - 1 StR 279/25](1-str-279-25.md) — BGH, Beschluss 1 StR 279/25
+- [BGH, Beschluss vom 05.03.2026 - 1 StR 55/26](1-str-55-26.md) — BGH, Beschluss 1 StR 55/26
+- [BGH, Beschluss vom 05.03.2026 - 1 StR 64/26](1-str-64-26.md) — BGH, Beschluss 1 StR 64/26
+- [BGH, Beschluss vom 04.03.2026 - 1 StR 388/25](1-str-388-25.md) — BGH, Beschluss 1 StR 388/25
+- [BGH, Beschluss vom 04.03.2026 - 1 StR 423/25](1-str-423-25.md) — BGH, Beschluss 1 StR 423/25
+- [BGH, Beschluss vom 04.03.2026 - 1 StR 8/26](1-str-8-26.md) — BGH, Beschluss 1 StR 8/26
+- [BGH, Beschluss vom 03.03.2026 - 1 StR 428/25](1-str-428-25.md) — BGH, Beschluss 1 StR 428/25
+- [BGH, Beschluss vom 03.03.2026 - 1 StR 543/25](1-str-543-25.md) — BGH, Beschluss 1 StR 543/25
+- [BGH, Beschluss vom 03.03.2026 - 1 StR 574/25](1-str-574-25.md) — BGH, Beschluss 1 StR 574/25
+- [BGH, Beschluss vom 17.02.2026 - 1 StR 312/25](1-str-312-25.md) — BGH, Beschluss 1 StR 312/25
+- [BGH, Beschluss vom 17.02.2026 - 1 StR 530/25](1-str-530-25.md) — BGH, Beschluss 1 StR 530/25
+- [BGH, Beschluss vom 17.02.2026 - 1 StR 602/25](1-str-602-25.md) — BGH, Beschluss 1 StR 602/25
+- [BGH, Beschluss vom 05.02.2026 - 1 StR 510/25](1-str-510-25.md) — BGH, Beschluss 1 StR 510/25
+- [BGH, Beschluss vom 21.01.2026 - 1 StR 318/25](1-str-318-25.md) — BGH, Beschluss 1 StR 318/25
+- [BGH, Beschluss vom 21.01.2026 - 1 StR 485/25](1-str-485-25.md) — BGH, Beschluss 1 StR 485/25
+- [BGH, Beschluss vom 20.01.2026 - 1 StR 382/25](1-str-382-25.md) — BGH, Beschluss 1 StR 382/25
+- [BGH, Beschluss vom 20.01.2026 - 1 StR 414/25](1-str-414-25.md) — Steuerhinterziehung durch Herstellung von Zigaretten ohne Steuerzeichen
+- [BGH, Beschluss vom 20.01.2026 - 1 StR 573/25](1-str-573-25.md) — BGH, Beschluss 1 StR 573/25
+- [BGH, Beschluss vom 19.01.2026 - 1 StR 276/25](1-str-276-25.md) — BGH, Beschluss 1 StR 276/25
+- [BGH, Beschluss vom 13.01.2026 - 1 StR 270/24](1-str-270-24.md) — BGH, Beschluss 1 StR 270/24
+- [BGH, Beschluss vom 13.01.2026 - 1 StR 415/25](1-str-415-25.md) — BGH, Beschluss 1 StR 415/25
+- [BGH, Beschluss vom 12.01.2026 - 1 StR 502/25](1-str-502-25.md) — BGH, Beschluss 1 StR 502/25
+- [BGH, Beschluss vom 09.01.2026 - 1 StR 520/25](1-str-520-25.md) — BGH, Beschluss 1 StR 520/25
+- [BGH, Beschluss vom 08.01.2026 - 1 StR 475/25](1-str-475-25.md) — BGH, Beschluss 1 StR 475/25
+- [BGH, Beschluss vom 07.01.2026 - 1 StR 136/25](1-str-136-25.md) — BGH, Beschluss 1 StR 136/25
+- [BGH, Beschluss vom 07.01.2026 - 1 StR 332/25](1-str-332-25.md) — BGH, Beschluss 1 StR 332/25
+- [BGH, Beschluss vom 07.01.2026 - 1 StR 364/25](1-str-364-25.md) — BGH, Beschluss 1 StR 364/25
+- [BGH, Beschluss vom 07.01.2026 - 1 StR 447/25](1-str-447-25.md) — BGH, Beschluss 1 StR 447/25
+- [BGH, Beschluss vom 05.01.2026 - 1 StR 216/25](1-str-216-25.md) — BGH, Beschluss 1 StR 216/25

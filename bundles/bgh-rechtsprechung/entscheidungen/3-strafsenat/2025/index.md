@@ -1,0 +1,167 @@
+# 3. Strafsenat – 2025
+
+163 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.12.2025 - 3 StR 482/25](3-str-482-25.md) — BGH, Beschluss 3 StR 482/25
+- [BGH, Beschluss vom 16.12.2025 - 3 StR 548/25](3-str-548-25.md) — BGH, Beschluss 3 StR 548/25
+- [BGH, Urteil vom 11.12.2025 - 3 StR 200/25](3-str-200-25.md) — BGH, Urteil 3 StR 200/25
+- [BGH, Urteil vom 11.12.2025 - 3 StR 544/24](3-str-544-24.md) — BGH, Urteil 3 StR 544/24
+- [BGH, Beschluss vom 09.12.2025 - 3 StR 22/25](3-str-22-25.md) — 1. Konstitutive Voraussetzung für eine Vereinigung im Sinne des § 129 Abs. 2 StGB ist eine erkennbare feste Organisationsstruktur mit gegenseitiger Verpflichtun
+- [BGH, Beschluss vom 09.12.2025 - 3 StR 390/25](3-str-390-25.md) — BGH, Beschluss 3 StR 390/25
+- [BGH, Beschluss vom 09.12.2025 - 3 StR 453/25](3-str-453-25.md) — Konkurrenzverhältnisse bei Betäubungsmittelgeschäften zur Deckung von Eigenbedarf und gewerblichem Handel
+- [BGH, Beschluss vom 09.12.2025 - 3 StR 463/25](3-str-463-25.md) — BGH, Beschluss 3 StR 463/25
+- [BGH, Beschluss vom 09.12.2025 - 3 StR 472/25](3-str-472-25.md) — BGH, Beschluss 3 StR 472/25
+- [BGH, Beschluss vom 09.12.2025 - 3 StR 520/25](3-str-520-25.md) — BGH, Beschluss 3 StR 520/25
+- [BGH, Beschluss vom 09.12.2025 - 3 StR 524/25](3-str-524-25.md) — BGH, Beschluss 3 StR 524/25
+- [BGH, Beschluss vom 26.11.2025 - 3 StR 256/25](3-str-256-25.md) — BGH, Beschluss 3 StR 256/25
+- [BGH, Beschluss vom 26.11.2025 - 3 StR 289/25](3-str-289-25.md) — BGH, Beschluss 3 StR 289/25
+- [BGH, Beschluss vom 26.11.2025 - 3 StR 477/25](3-str-477-25.md) — BGH, Beschluss 3 StR 477/25
+- [BGH, Beschluss vom 25.11.2025 - 3 StR 395/25](3-str-395-25.md) — Anrechnung von Verzichtserklärungen auf die Wertersatzeinziehung bei Verstößen gegen das Russlandembargo
+- [BGH, Beschluss vom 25.11.2025 - 3 StR 450/25](3-str-450-25.md) — BGH, Beschluss 3 StR 450/25
+- [BGH, Beschluss vom 25.11.2025 - 3 StR 510/25](3-str-510-25.md) — BGH, Beschluss 3 StR 510/25
+- [BGH, Beschluss vom 14.11.2025 - 3 StR 234/25](3-str-234-25.md) — BGH, Beschluss 3 StR 234/25
+- [BGH, Urteil vom 13.11.2025 - 3 StR 233/25](3-str-233-25.md) — Machete zum Portionieren von Drogen zur Begründung des bewaffneten Handeltreibens mit Cannabis
+- [BGH, Urteil vom 13.11.2025 - 3 StR 78/25](3-str-78-25.md) — Sicherungsverwahrung bei einem jungen Erwachsenen ohne einschlägige Vorverbüßungen
+- [BGH, Beschluss vom 29.10.2025 - 3 StR 405/25](3-str-405-25.md) — BGH, Beschluss 3 StR 405/25
+- [BGH, Beschluss vom 29.10.2025 - 3 StR 425/25](3-str-425-25.md) — Konkurrenzverhältnis bei Betäubungsmittelhandel während einer Fahrt ohne Fahrerlaubnis
+- [BGH, Beschluss vom 29.10.2025 - 3 StR 487/24](3-str-487-24.md) — BGH, Beschluss 3 StR 487/24
+- [BGH, Beschluss vom 28.10.2025 - 3 StR 321/25](3-str-321-25.md) — Revisionsbegründungsfrist: Fristablauf am Feiertag
+- [BGH, Beschluss vom 28.10.2025 - 3 StR 418/25](3-str-418-25.md) — BGH, Beschluss 3 StR 418/25
+- [BGH, Beschluss vom 28.10.2025 - 3 StR 420/25](3-str-420-25.md) — Verfahrensanschluss durch Nebenklägerin im Revisionsverfahren; Änderung des Schuldspruchs
+- [BGH, Beschluss vom 28.10.2025 - 3 StR 458/25](3-str-458-25.md) — Tatbestandsirrtum beim Raub bei Annahme einer Geldforderung gegen Geschädigten
+- [BGH, Beschluss vom 28.10.2025 - 3 StR 583/24](3-str-583-24.md) — BGH, Beschluss 3 StR 583/24
+- [BGH, Beschluss vom 27.10.2025 - 3 StR 377/25](3-str-377-25.md) — BGH, Beschluss 3 StR 377/25
+- [BGH, Beschluss vom 15.10.2025 - 3 StR 25/24](3-str-25-24.md) — Handeltreiben mit Cannabis: Inbesitznahme von Cannabissetzlingen als Tathandlung
+- [BGH, Beschluss vom 15.10.2025 - 3 StR 421/25](3-str-421-25.md) — Rüge der Verletzung des Beweisantragsrechts durch Ablehnung des Antrags auf Einholung eines Sachverständigengutachtens
+- [BGH, Beschluss vom 15.10.2025 - 3 StR 484/24](3-str-484-24.md) — Wahrung des rechtlichen Gehörs durch das Gericht
+- [BGH, Beschluss vom 15.10.2025 - 3 StR 519/24](3-str-519-24.md) — BGH, Beschluss 3 StR 519/24
+- [BGH, Urteil vom 07.10.2025 - 3 StR 11/25](3-str-11-25.md) — 1. Den für ihr minderjähriges Kind sorgeberechtigten Eltern kommt dem Grunde nach eine strafrechtliche Garantenstellung zu. Auch für den strafmündigen Minderjäh
+- [BGH, Urteil vom 07.10.2025 - 3 StR 534/24](3-str-534-24.md) — Vorwurf der Beihilfe zum Mord im Zusammenhang mit ausländerfeindlichem Brandanschlag; Verfahrens- und Sachrüge der Generalbundesanwaltschaft
+- [BGH, Urteil vom 02.10.2025 - 3 StR 29/25](3-str-29-25.md) — BGH, Urteil 3 StR 29/25
+- [BGH, Beschluss vom 02.10.2025 - 3 StR 303/25](3-str-303-25.md) — BGH, Beschluss 3 StR 303/25
+- [BGH, Beschluss vom 01.10.2025 - 3 StR 239/25](3-str-239-25.md) — BGH, Beschluss 3 StR 239/25
+- [BGH, Beschluss vom 01.10.2025 - 3 StR 255/25](3-str-255-25.md) — Gesamtschuldnerische Haftung bei Einziehung; Festsetzung der Tagessatzhöhe
+- [BGH, Beschluss vom 30.09.2025 - 3 StR 150/25](3-str-150-25.md) — BGH, Beschluss 3 StR 150/25
+- [BGH, Beschluss vom 30.09.2025 - 3 StR 156/25](3-str-156-25.md) — Rechtsfehlerhafte Gesamtstrafenbildung; Folgen der Aufhebung der Gesamtstrafenaussprüche
+- [BGH, Beschluss vom 30.09.2025 - 3 StR 388/25](3-str-388-25.md) — BGH, Beschluss 3 StR 388/25
+- [BGH, Beschluss vom 17.09.2025 - 3 StR 216/25](3-str-216-25.md) — BGH, Beschluss 3 StR 216/25
+- [BGH, Beschluss vom 16.09.2025 - 3 StR 250/25](3-str-250-25.md) — Unerlaubter Besitz von Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei Besitz verschiedener Betäubungsmittel
+- [BGH, Urteil vom 04.09.2025 - 3 StR 557/24](3-str-557-24.md) — Notwehrrecht bei bewaffneten Auseinandersetzungen rivalisierender Gruppen; Anforderungen an Erforderlichkeit der Verteidigung sowie an das Merkmal "mit vereinte
+- [BGH, Beschluss vom 03.09.2025 - 3 StR 304/25](3-str-304-25.md) — Strafsache: Voraussetzungen einer Bedrohung
+- [BGH, Beschluss vom 03.09.2025 - 3 StR 306/25](3-str-306-25.md) — BGH, Beschluss 3 StR 306/25
+- [BGH, Beschluss vom 02.09.2025 - 3 StR 152/25](3-str-152-25.md) — Gewerbsmäßigkeit als persönliches Merkmal bei Beihilfetat
+- [BGH, Urteil vom 21.08.2025 - 3 StR 63/25](3-str-63-25.md) — Strafbarkeit wegen gemeinschaftlicher gefährlicher Körperverletzung bei späterem Hinzukommen
+- [BGH, Beschluss vom 20.08.2025 - 3 StR 100/25](3-str-100-25.md) — 1. Zum Gründen einer terroristischen Vereinigung durch Erteilung einer für das Vereinigungsziel bedeutsamen Zusage. 2. Die Rädelsführerschaft ist ein tatbezogen
+- [BGH, Beschluss vom 20.08.2025 - 3 StR 155/25](3-str-155-25.md) — BGH, Beschluss 3 StR 155/25
+- [BGH, Beschluss vom 20.08.2025 - 3 StR 270/25](3-str-270-25.md) — BGH, Beschluss 3 StR 270/25
+- [BGH, Beschluss vom 20.08.2025 - 3 StR 493/24](3-str-493-24.md) — BGH, Beschluss 3 StR 493/24
+- [BGH, Beschluss vom 20.08.2025 - 3 StR 503/24](3-str-503-24.md) — BGH, Beschluss 3 StR 503/24
+- [BGH, Beschluss vom 20.08.2025 - 3 StR 580/24](3-str-580-24.md) — Voraussetzungen der Beurlaubung eines Angeklagten
+- [BGH, Beschluss vom 19.08.2025 - 3 StR 167/25](3-str-167-25.md) — BGH, Beschluss 3 StR 167/25
+- [BGH, Beschluss vom 19.08.2025 - 3 StR 187/25](3-str-187-25.md) — BGH, Beschluss 3 StR 187/25
+- [BGH, Beschluss vom 19.08.2025 - 3 StR 312/25](3-str-312-25.md) — War die im Rahmen einer nachträglichen Bildung der Gesamtstrafe aufrechterhaltene Unterbringung in einer Entziehungsanstalt ursprünglich zur Bewährung ausgesetz
+- [BGH, Beschluss vom 19.08.2025 - 3 StR 85/25](3-str-85-25.md) — BGH, Beschluss 3 StR 85/25
+- [BGH, Urteil vom 07.08.2025 - 3 StR 545/24](3-str-545-24.md) — Gefährliche Körperverletzung in Tateinheit mit Misshandlung von Schutzbefohlenen durch mehrere gleichartige Verletzungshandlungen
+- [BGH, Beschluss vom 05.08.2025 - 3 StR 245/25](3-str-245-25.md) — BGH, Beschluss 3 StR 245/25
+- [BGH, Beschluss vom 05.08.2025 - 3 StR 266/25](3-str-266-25.md) — BGH, Beschluss 3 StR 266/25
+- [BGH, Beschluss vom 05.08.2025 - 3 StR 327/25](3-str-327-25.md) — BGH, Beschluss 3 StR 327/25
+- [BGH, Urteil vom 24.07.2025 - 3 StR 382/24](3-str-382-24.md) — 1. Zahlungen, die ein Mitglied einer kriminellen Vereinigung als Entlohnung für seine Beteiligungsakte erhält und aus Erlösen stammen, die durch die Beteiligung
+- [BGH, Urteil vom 24.07.2025 - 3 StR 586/24](3-str-586-24.md) — Handeltreiben mit Betäubungsmitteln in nicht geringer Menge nach dem Konsumcannabisgesetz: Begriff der Weitergabe und Abgabe in Anbauvereinigungen
+- [BGH, Beschluss vom 23.07.2025 - 3 StR 227/25](3-str-227-25.md) — BGH, Beschluss 3 StR 227/25
+- [BGH, Beschluss vom 22.07.2025 - 3 StR 236/25](3-str-236-25.md) — Grenzwert der nicht geringen Menge des Betäubungsmittels ADB-BUTINACA
+- [BGH, Beschluss vom 22.07.2025 - 3 StR 258/25](3-str-258-25.md) — BGH, Beschluss 3 StR 258/25
+- [BGH, Beschluss vom 22.07.2025 - 3 StR 99/25](3-str-99-25.md) — Strafsache: Benennung einer konkreten medizinischen Diagnose im Beweisantrag zur Einholung eines Glaubwürdigkeitsgutachtens
+- [BGH, Urteil vom 10.07.2025 - 3 StR 213/24](3-str-213-24.md) — BGH, Urteil 3 StR 213/24
+- [BGH, Beschluss vom 10.07.2025 - 3 StR 496/23](3-str-496-23.md) — 1. Zur Strafbarkeit wegen Beteiligung am Völkermord durch Versklavung. 2. Lebensbedingungen sind nur dann zur teilweisen oder vollständigen körperlichen Zerstör
+- [BGH, Beschluss vom 10.07.2025 - 3 StR 575/24](3-str-575-24.md) — BGH, Beschluss 3 StR 575/24
+- [BGH, Beschluss vom 10.07.2025 - 3 StR 79/25](3-str-79-25.md) — Revisionsrechtliche Überprüfung eines Adhäsionsausspruchs; erstmaliges Zusprechen von Schmerzensgeld im Adhäsionsverfahren; Voraussetzungen des Erlasses eines G
+- [BGH, Beschluss vom 09.07.2025 - 3 StR 194/25](3-str-194-25.md) — Ist die Vernehmung eines Zeugen, für welche die Entfernung des Angeklagten angeordnet worden ist, abgeschlossen und wird der Zeuge zu einem späteren Zeitpunkt a
+- [BGH, Beschluss vom 09.07.2025 - 3 StR 220/25](3-str-220-25.md) — BGH, Beschluss 3 StR 220/25
+- [BGH, Beschluss vom 09.07.2025 - 3 StR 230/25](3-str-230-25.md) — BGH, Beschluss 3 StR 230/25
+- [BGH, Beschluss vom 09.07.2025 - 3 StR 349/24](3-str-349-24.md) — BGH, Beschluss 3 StR 349/24
+- [BGH, Beschluss vom 08.07.2025 - 3 StR 192/25](3-str-192-25.md) — Bei Serienstraftaten sind an die Sachverhaltsdarstellung in einem Europäischen Haftbefehl regelmäßig geringere Anforderungen zu stellen als bei einem inländisch
+- [BGH, Beschluss vom 08.07.2025 - 3 StR 207/25](3-str-207-25.md) — BGH, Beschluss 3 StR 207/25
+- [BGH, Beschluss vom 08.07.2025 - 3 StR 218/25](3-str-218-25.md) — BGH, Beschluss 3 StR 218/25
+- [BGH, Beschluss vom 08.07.2025 - 3 StR 93/25](3-str-93-25.md) — (Anwendbarkeit von § 239 StGB neben einer Vergewaltigung; Behinderung in der Fortbewegungsfreiheit als Mittel zur Begehung eines anderen Deliktes)
+- [BGH, Beschluss vom 25.06.2025 - 3 StR 37/25](3-str-37-25.md) — Täuschung über Identität und Zahlungswilligkeit als Grundlage für Computerbetrug
+- [BGH, Beschluss vom 24.06.2025 - 3 StR 138/25](3-str-138-25.md) — Die Verteidigung hat keinen Anspruch auf Aushändigung eines amtlich verwahrten Beweisstücks, um unter dessen Nutzung mit dem Angeklagten unbeaufsichtigt eigene 
+- [BGH, Beschluss vom 24.06.2025 - 3 StR 145/25](3-str-145-25.md) — BGH, Beschluss 3 StR 145/25
+- [BGH, Beschluss vom 24.06.2025 - 3 StR 161/25](3-str-161-25.md) — BGH, Beschluss 3 StR 161/25
+- [BGH, Beschluss vom 24.06.2025 - 3 StR 173/25](3-str-173-25.md) — Strafverurteilung wegen Einschleusens mit Todesfolge u.a.: Erfolgsqualifikation bei Verursachung des Todes des Geschleusten
+- [BGH, Urteil vom 12.06.2025 - 3 StR 24/25](3-str-24-25.md) — BGH, Urteil 3 StR 24/25
+- [BGH, Beschluss vom 11.06.2025 - 3 StR 204/25](3-str-204-25.md) — BGH, Beschluss 3 StR 204/25
+- [BGH, Beschluss vom 10.06.2025 - 3 StR 561/24](3-str-561-24.md) — Wer sein Opfer mit Nötigungsmitteln zu einer Geldzahlung bewegt, auf die zum Teil ein Anspruch besteht, begeht neben der Erpressung eine tateinheitliche Nötigun
+- [BGH, Beschluss vom 28.05.2025 - 3 StR 172/25](3-str-172-25.md) — BGH, Beschluss 3 StR 172/25
+- [BGH, Beschluss vom 28.05.2025 - 3 StR 68/25](3-str-68-25.md) — Einziehung eines Kraftfahrzeugs als Tatmittel und ihre Bedeutung für die Strafzumessung
+- [BGH, Beschluss vom 27.05.2025 - 3 StR 148/25](3-str-148-25.md) — Beihilfe eines Rechtsanwalts zum Betrug: Tatbestandsmerkmal des "durch" die Tat Erlangten; transistorischer Besitz durch faktische Verfügungsgewalt von einiger 
+- [BGH, Beschluss vom 27.05.2025 - 3 StR 179/25](3-str-179-25.md) — Revision in Strafsachen: Darlegungserfordernis bei Geltendmachung einer faktischen Beschränkung der Öffentlichkeit durch Ausfall der elektronischen Anzeigetafel
+- [BGH, Beschluss vom 27.05.2025 - 3 StR 594/24](3-str-594-24.md) — Betäubungsmittelrecht: Einheitliche prozessuale Tat bei materiellrechtlicher Tatmehrheit
+- [BGH, Beschluss vom 27.05.2025 - 3 StR 82/25](3-str-82-25.md) — BGH, Beschluss 3 StR 82/25
+- [BGH, Beschluss vom 14.05.2025 - 3 StR 105/25](3-str-105-25.md) — Beurteilung der Gewerbsmäßigkeit im Fall der Zwangsprostitution
+- [BGH, Beschluss vom 30.04.2025 - 3 StR 104/25](3-str-104-25.md) — BGH, Beschluss 3 StR 104/25
+- [BGH, Beschluss vom 30.04.2025 - 3 StR 284/24](3-str-284-24.md) — BGH, Beschluss 3 StR 284/24
+- [BGH, Beschluss vom 29.04.2025 - 3 StR 108/25](3-str-108-25.md) — Verstoß gegen Verschlechterungsverbot durch Nachholen einer bislang unterbliebenen Festsetzung einer Einzelstrafe
+- [BGH, Urteil vom 17.04.2025 - 3 StR 146/24](3-str-146-24.md) — BGH, Urteil 3 StR 146/24
+- [BGH, Urteil vom 17.04.2025 - 3 StR 405/24](3-str-405-24.md) — Wird die Bereicherung des Täters im Wege der Tatertragseinziehung abgeschöpft, kann dies Anlass sein, auf die kumulative Verhängung von Freiheits- und Geldstraf
+- [BGH, Urteil vom 17.04.2025 - 3 StR 448/24](3-str-448-24.md) — BGH, Urteil 3 StR 448/24
+- [BGH, Beschluss vom 16.04.2025 - 3 StR 40/25](3-str-40-25.md) — Gegen Anblick geschützt im Sinne des § 184k Abs. 1 Nr. 1 StGB ist ein Körperteil nur dann, wenn er durch Oberbekleidung oder eine andere am Körper getragene Sic
+- [BGH, Beschluss vom 16.04.2025 - 3 StR 67/25](3-str-67-25.md) — BGH, Beschluss 3 StR 67/25
+- [BGH, Beschluss vom 15.04.2025 - 3 ARs 2/25](3-ars-2-25.md) — Einziehung in Strafsachen: Anschlusserklärung des 3. Strafsenats zur Anfrage des 5. Strafsenats im Hinblick auf die Rechtsauffassung zur erweiterten Einziehung 
+- [BGH, Beschluss vom 15.04.2025 - 3 StR 1/25](3-str-1-25.md) — BGH, Beschluss 3 StR 1/25
+- [BGH, Beschluss vom 15.04.2025 - 3 StR 30/25](3-str-30-25.md) — BGH, Beschluss 3 StR 30/25
+- [BGH, Beschluss vom 15.04.2025 - 3 StR 576/24](3-str-576-24.md) — BGH, Beschluss 3 StR 576/24
+- [BGH, Beschluss vom 15.04.2025 - 3 StR 87/25](3-str-87-25.md) — BGH, Beschluss 3 StR 87/25
+- [BGH, Urteil vom 03.04.2025 - 3 StR 497/24](3-str-497-24.md) — BGH, Urteil 3 StR 497/24
+- [BGH, Beschluss vom 02.04.2025 - 3 StR 345/24](3-str-345-24.md) — BGH, Beschluss 3 StR 345/24
+- [BGH, Beschluss vom 02.04.2025 - 3 StR 421/24](3-str-421-24.md) — Begehung von Betäubungsmittelstraftaten als Mitglied einer Bande
+- [BGH, Beschluss vom 02.04.2025 - 3 StR 45/25](3-str-45-25.md) — BGH, Beschluss 3 StR 45/25
+- [BGH, Beschluss vom 02.04.2025 - 3 StR 607/24](3-str-607-24.md) — BGH, Beschluss 3 StR 607/24
+- [BGH, Beschluss vom 01.04.2025 - 3 StR 23/25](3-str-23-25.md) — BGH, Beschluss 3 StR 23/25
+- [BGH, Beschluss vom 01.04.2025 - 3 StR 510/24](3-str-510-24.md) — BGH, Beschluss 3 StR 510/24
+- [BGH, Beschluss vom 01.04.2025 - 3 StR 56/25](3-str-56-25.md) — BGH, Beschluss 3 StR 56/25
+- [BGH, Beschluss vom 01.04.2025 - 3 StR 608/24](3-str-608-24.md) — Zulässigkeit der "Ersetzung" einer Zeugenvernehmung durch Abspielen einer Bild-Ton-Aufzeichnung einer früheren Vernehmung
+- [BGH, Urteil vom 20.03.2025 - 3 StR 447/24](3-str-447-24.md) — BGH, Urteil 3 StR 447/24
+- [BGH, Urteil vom 20.03.2025 - 3 StR 461/24](3-str-461-24.md) — BGH, Urteil 3 StR 461/24
+- [BGH, Beschluss vom 20.03.2025 - 3 StR 546/24](3-str-546-24.md) — Teilaufhebung im Sicherungsverwahrungsverfahren wegen unzureichender Feststellungen zu Vorverurteilungen
+- [BGH, Urteil vom 19.03.2025 - 3 StR 173/24](3-str-173-24.md) — BGH, Urteil 3 StR 173/24
+- [BGH, Beschluss vom 19.03.2025 - 3 StR 603/24](3-str-603-24.md) — Strafverfahren: Pflicht des Tatgerichts zur Sachverständigenanhörung bei Erwägung einer Unterbringung des Angeklagten in einer Entziehungsanstalt
+- [BGH, Beschluss vom 18.03.2025 - 3 StR 414/24](3-str-414-24.md) — Strafurteil: Abgrenzung zwischen Verbreitung und Drittbesitzverschaffung kinderpornographischer Schriften
+- [BGH, Beschluss vom 18.03.2025 - 3 StR 423/24](3-str-423-24.md) — Sexueller Missbrauch von Kindern durch Zungenkuss
+- [BGH, Beschluss vom 18.03.2025 - 3 StR 452/24](3-str-452-24.md) — Mitgliedschaftliche Beteiligung an einer kriminellen Vereinigung in Tateinheit mit Beihilfe zum Handeltreiben mit Cannabis; Änderung des Schuldspruchs und der S
+- [BGH, Beschluss vom 18.03.2025 - 3 StR 482/24](3-str-482-24.md) — BGH, Beschluss 3 StR 482/24
+- [BGH, Beschluss vom 18.03.2025 - 3 StR 530/24](3-str-530-24.md) — BGH, Beschluss 3 StR 530/24
+- [BGH, Beschluss vom 06.03.2025 - 3 StR 12/25](3-str-12-25.md) — Strafzumessung und Gefährlichkeitsprognose im Zusammenhang mit Unterbringung nach Körperverletzung
+- [BGH, Urteil vom 06.03.2025 - 3 StR 249/24](3-str-249-24.md) — Hat ein gerichtlich bestellter Dolmetscher als solcher an der Verhandlung tatsächlich teilgenommen, ist seine Abwesenheit nicht deshalb zu fingieren, weil Ableh
+- [BGH, Urteil vom 06.03.2025 - 3 StR 289/24](3-str-289-24.md) — Betäubungsmitteldelikt: Handeln als Mitglied einer Bande
+- [BGH, Urteil vom 06.03.2025 - 3 StR 514/24](3-str-514-24.md) — BGH, Urteil 3 StR 514/24
+- [BGH, Urteil vom 06.03.2025 - 3 StR 515/24](3-str-515-24.md) — (Beschränkung der Revision auf Nichtanordnung einer Maßregel nach § 63 StGB; Darlegungsanforderungen an unterlassene Anordnung der Unterbringung in psychiatrisc
+- [BGH, Beschluss vom 05.03.2025 - 3 StR 20/25](3-str-20-25.md) — BGH, Beschluss 3 StR 20/25
+- [BGH, Beschluss vom 05.03.2025 - 3 StR 230/24](3-str-230-24.md) — Die Jugendkammer kann ihre sachliche Zuständigkeit nur nach Vorlage durch das Jugendschöffengericht mit dem besonderen Umfang der Sache begründen, nicht aber im
+- [BGH, Beschluss vom 05.03.2025 - 3 StR 35/24](3-str-35-24.md) — Revision im Strafverfahren: Ablehnung von Anträgen im Zusammenhang mit eigenen Ermittlungen des Verteidigers
+- [BGH, Beschluss vom 05.03.2025 - 3 StR 399/24](3-str-399-24.md) — Der Begriff der Betäubungsmittel in § 6 Nr. 5 StGB umfasst auch nach Inkrafttreten des Konsumcannabisgesetzes die Rauschmittel Cannabis und Marihuana.
+- [BGH, Beschluss vom 05.03.2025 - 3 StR 4/25](3-str-4-25.md) — BGH, Beschluss 3 StR 4/25
+- [BGH, Beschluss vom 04.03.2025 - 3 StR 551/24](3-str-551-24.md) — Strafverurteilung wegen versuchten besonders schwerer Raubs u.a.: Anforderungen an ein unmittelbares Ansetzen
+- [BGH, Beschluss vom 18.02.2025 - 3 StR 152/24](3-str-152-24.md) — Betäubungsmitteldelikt: Schuldspruch bei Bandenhandel mit Betäubungsmittel in nicht geringer Menge und bewaffnetes Handeltreiben mit Betäubungsmittel
+- [BGH, Beschluss vom 18.02.2025 - 3 StR 5/25](3-str-5-25.md) — BGH, Beschluss 3 StR 5/25
+- [BGH, Beschluss vom 18.02.2025 - 3 StR 587/24](3-str-587-24.md) — BGH, Beschluss 3 StR 587/24
+- [BGH, Beschluss vom 05.02.2025 - 3 StR 527/24](3-str-527-24.md) — BGH, Beschluss 3 StR 527/24
+- [BGH, Beschluss vom 04.02.2025 - 3 StR 468/24](3-str-468-24.md) — (Strafbarkeit des Schriftzugs „Impfen macht frei“ als Volksverhetzung)
+- [BGH, Beschluss vom 04.02.2025 - 3 StR 539/24](3-str-539-24.md) — Verstoß gegen Weisungen in der Führungsaufsicht: Erfordernis eines schriftlichen Hinweises über die Strafbewehrtheit eines Verstoßes gegen die Abstinenzweisung,
+- [BGH, Urteil vom 23.01.2025 - 3 StR 149/24](3-str-149-24.md) — BGH, Urteil 3 StR 149/24
+- [BGH, Urteil vom 23.01.2025 - 3 StR 351/24](3-str-351-24.md) — (Strafverurteilung wegen Verbreitung kinderpornographischer Inhalte u.a.: Zulässigkeit der Anordnung von Führungsaufsicht bei Verhängung mehrerer Freiheitsstraf
+- [BGH, Beschluss vom 22.01.2025 - 3 StR 274/24](3-str-274-24.md) — BGH, Beschluss 3 StR 274/24
+- [BGH, Beschluss vom 22.01.2025 - 3 StR 524/24](3-str-524-24.md) — BGH, Beschluss 3 StR 524/24
+- [BGH, Beschluss vom 21.01.2025 - 3 StR 512/24](3-str-512-24.md) — Vergewaltigung: K.O.-Tropfen als gefährliches Werkzeug
+- [BGH, Beschluss vom 21.01.2025 - 3 StR 532/24](3-str-532-24.md) — Aufrechterhaltung der Unterbringung in einer Entziehungsanstalt: Ausschluß einer Gesamtstrafenbildung wegen Zäsurwirkung einer Vorverurteilung
+- [BGH, Beschluss vom 21.01.2025 - 3 StR 538/24](3-str-538-24.md) — BGH, Beschluss 3 StR 538/24
+- [BGH, Beschluss vom 21.01.2025 - 3 StR 553/24](3-str-553-24.md) — Wiedereinsetzung wegen versäumter Revisionsbegründungsfrist: Anforderungen an Wiedereinsetzungsantrag wegen fehlender Akteneinsicht
+- [BGH, Beschluss vom 15.01.2025 - 3 StR 435/24](3-str-435-24.md) — Pflichtverteidiger: Zerrüttung des Vertrauensverhältnisses wegen mangelnder Kommunikation; Anspruch des Angeklagten auf Zurverfügungstellung von Aktenbestandtei
+- [BGH, Urteil vom 09.01.2025 - 3 StR 111/24](3-str-111-24.md) — Bewertung der Hawala-Banking-Organisation als kriminelle Vereinigung
+- [BGH, Urteil vom 09.01.2025 - 3 StR 239/24](3-str-239-24.md) — Anforderungen an die Beweiswürdigung in den Urteilsgründen und an die Bewertung der einzelnen Taten im Hinblick auf das Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 09.01.2025 - 3 StR 327/24](3-str-327-24.md) — BGH, Beschluss 3 StR 327/24
+- [BGH, Beschluss vom 09.01.2025 - 3 StR 340/24](3-str-340-24.md) — 1. Irrtümlich nach § 154 StPO statt nach § 154a StPO vorgenommene Verfahrensbeschränkungen sind entsprechend dem tatsächlich Gewollten und rechtlich Zulässigen 
+- [BGH, Beschluss vom 07.01.2025 - 3 StR 305/24](3-str-305-24.md) — Strafzumessung: Vollständige Sicherstellung von Betäubungsmitteln
+- [BGH, Beschluss vom 07.01.2025 - 3 StR 383/24](3-str-383-24.md) — Inhaltliche Anforderungen an einen Adhäsionsantrag
+- [BGH, Beschluss vom 07.01.2025 - 3 StR 485/24](3-str-485-24.md) — Betäubungsmitteldelikt: Anpassung des Schuldspruchs wegen Neuregelung des Betäubungsmittelrechts durch das Konsumcannabisgesetz
+- [BGH, Beschluss vom 07.01.2025 - 3 StR 498/24](3-str-498-24.md) — BGH, Beschluss 3 StR 498/24
+- [BGH, Beschluss vom 07.01.2025 - 3 StR 505/24](3-str-505-24.md) — BGH, Beschluss 3 StR 505/24

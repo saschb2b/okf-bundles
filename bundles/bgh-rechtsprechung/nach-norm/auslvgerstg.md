@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AuslVGerStG"
 description: "BGH-Entscheidungen zu AuslVGerStG, geordnet nach Vorschrift."
 tags: [register, navigation, auslvgerstg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des AuslVGerStG a
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 7 AuslVGerStG | [BGH, Beschluss vom 12.05.2020 - 2 ARs 121/20](../entscheidungen/2-strafsenat/2020/2-ars-121-20.md) |
+| § AuslVGerStG | [BGH, Beschluss vom 12.05.2020 - 2 ARs 121/20](../entscheidungen/2-strafsenat/2020/2-ars-121-20.md) |

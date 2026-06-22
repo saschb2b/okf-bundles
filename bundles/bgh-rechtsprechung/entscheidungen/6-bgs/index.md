@@ -1,8 +1,7 @@
-# 6-bgs
+# 6 BGS
 
-2 Entscheidung(en).
+Ermittlungsrichter des BGH (Anordnungen im Ermittlungsverfahren). 2 Entscheidung(en).
 
-## 2021
+## Nach Jahr
 
-- [BGH, Beschluss vom 29.04.2021 - 6 BGs 19/21](2021/6-bgs-19-21.md)
-- [BGH, Beschluss vom 03.02.2021 - 6 BGs 4/21](2021/6-bgs-4-21.md)
+- [2021](2021/index.md) (2)

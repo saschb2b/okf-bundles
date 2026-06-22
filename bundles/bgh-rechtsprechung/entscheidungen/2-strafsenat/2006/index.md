@@ -1,0 +1,67 @@
+# 2. Strafsenat – 2006
+
+63 Entscheidung(en).
+
+- [BGH, Entscheidung vom 13.12.2006 - 2 StR 403/06](2-str-403-06.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 13.12.2006 - 2 StR 442/06](2-str-442-06.md) — erpresserischen Menschenraubes
+- [BGH, Beschluss vom 13.12.2006 - 2 StR 520/06](2-str-520-06.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 29.11.2006 - 2 ARs 495/06](2-ars-495-06.md) — BGH, Beschluss vom 29.11.2006 - 2 ARs 495/06
+- [BGH, Urteil vom 29.11.2006 - 2 StR 435/06](2-str-435-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 22.11.2006 - 2 StR 433/06](2-str-433-06.md) — Vergewaltigung
+- [BGH, Beschluss vom 21.11.2006 - 2 StR 256/06](2-str-256-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 21.11.2006 - 2 StR 341/06](2-str-341-06.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 21.11.2006 - 2 StR 422/06](2-str-422-06.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 17.11.2006 - 2 StR 388/06](2-str-388-06.md) — versuchten Betruges u. a.
+- [BGH, Beschluss vom 15.11.2006 - 2 StR 248/06](2-str-248-06.md) — schweren Menschenhandels u. a.
+- [BGH, Beschluss vom 15.11.2006 - 2 StR 429/06](2-str-429-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 15.11.2006 - 2 StR 447/06](2-str-447-06.md) — sexueller Nötigung u. a.
+- [BGH, Beschluss vom 15.11.2006 - 2 StR 457/06](2-str-457-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 15.11.2006 - 2 StR 458/06](2-str-458-06.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 31.10.2006 - 2 StR 396/06](2-str-396-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 27.10.2006 - 2 StR 356/06](2-str-356-06.md) — Beihilfe zur Fälschung von Zahlungskarten mit Garantiefunktion
+- [BGH, Beschluss vom 25.10.2006 - 2 ARs 428/06](2-ars-428-06.md) — Widerstands pp. Az.: 8006 Js 004204/04 jug. Staatsanwaltschaft Trier Az.: 133 AR (7/06) Amtsgericht Düsseldorf Az.: 12 BRs 46/04 Amtsgericht
+- [BGH, Beschluss vom 25.10.2006 - 2 StR 339/06](2-str-339-06.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 13.10.2006 - 2 StR 452/06](2-str-452-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 11.10.2006 - 2 StR 312/06](2-str-312-06.md) — fahrlässiger Tötung u. a.
+- [BGH, Beschluss vom 04.10.2006 - 2 ARs 308/06](2-ars-308-06.md) — BGH, Beschluss vom 04.10.2006 - 2 ARs 308/06
+- [BGH, Beschluss vom 04.10.2006 - 2 StR 378/06](2-str-378-06.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 29.09.2006 - 2 ARs 403/06](2-ars-403-06.md) — Verkehrsordnungswidrigkeit
+- [BGH, Beschluss vom 29.09.2006 - 2 StR 324/06](2-str-324-06.md) — nachträglicher Anordnung der Sicherungsverwahrung
+- [BGH, Beschluss vom 29.09.2006 - 2 StR 328/06](2-str-328-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.09.2006 - 2 ARs 332/06](2-ars-332-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 27.09.2006 - 2 ARs 368/06](2-ars-368-06.md) — Diebstahls
+- [BGH, Beschluss vom 27.09.2006 - 2 StR 278/06](2-str-278-06.md) — versuchter Geiselnahme u. a.
+- [BGH, Beschluss vom 07.09.2006 - 2 StR 321/06](2-str-321-06.md) — versuchten Totschlags u. a.
+- [BGH, Urteil vom 30.08.2006 - 2 StR 231/06](2-str-231-06.md) — Betruges u. a.
+- [BGH, Beschluss vom 09.08.2006 - 2 StR 260/06](2-str-260-06.md) — Vergewaltigung
+- [BGH, Beschluss vom 02.08.2006 - 2 StR 251/06](2-str-251-06.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 26.07.2006 - 2 ARs 263/06](2-ars-263-06.md) — Bedrohung u. a. hier: Antrag auf Gerichtsstandsbestimmung
+- [BGH, Beschluss vom 21.07.2006 - 2 ARs 232/06](2-ars-232-06.md) — Verstoßes gegen das Betäubungsmittelgesetz
+- [BGH, Beschluss vom 19.07.2006 - 2 StR 162/06](2-str-162-06.md) — bandenmäßigen unerlaubten Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 19.07.2006 - 2 StR 174/05](2-str-174-05.md) — Betrugs hier: Antrag des Verteidigers auf Pauschvergütung
+- [BGH, Beschluss vom 12.07.2006 - 2 StR 226/06](2-str-226-06.md) — versuchten Mordes u. a.
+- [BGH, Beschluss vom 28.06.2006 - 2 ARs 301/06](2-ars-301-06.md) — Diebstahls
+- [BGH, Beschluss vom 28.06.2006 - 2 StR 166/06](2-str-166-06.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 23.06.2006 - 2 StR 217/06](2-str-217-06.md) — unerlaubten bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 21.06.2006 - 2 StR 109/06](2-str-109-06.md) — Totschlags
+- [BGH, Beschluss vom 21.06.2006 - 2 StR 114/06](2-str-114-06.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 09.06.2006 - 2 StR 186/06](2-str-186-06.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 31.05.2006 - 2 ARs 53/06](2-ars-53-06.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 03.05.2006 - 2 ARs 44/06](2-ars-44-06.md) — BGH, Beschluss vom 03.05.2006 - 2 ARs 44/06
+- [BGH, Beschluss vom 29.03.2006 - 2 ARs 49/06](2-ars-49-06.md) — BGH, Beschluss vom 29.03.2006 - 2 ARs 49/06
+- [BGH, Beschluss vom 29.03.2006 - 2 StR 579/05](2-str-579-05.md) — schweren Raubes
+- [BGH, Beschluss vom 24.03.2006 - 2 StR 271/05](2-str-271-05.md) — Betrugs
+- [BGH, Beschluss vom 22.03.2006 - 2 StR 66/06](2-str-66-06.md) — besonders schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 15.03.2006 - 2 StR 22/06](2-str-22-06.md) — gewerbsmäßiger Fälschung von Zahlungskarten und Euroscheckvordrucken
+- [BGH, Beschluss vom 15.03.2006 - 2 StR 43/06](2-str-43-06.md) — versuchten schweren Raubes u. a.
+- [BGH, Beschluss vom 08.03.2006 - 2 StR 609/05](2-str-609-05.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 07.03.2006 - 2 StR 534/05](2-str-534-05.md) — versuchten Betruges u. a.
+- [BGH, Beschluss vom 24.02.2006 - 2 StR 35/06](2-str-35-06.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 08.02.2006 - 2 StR 575/05](2-str-575-05.md) — sexueller Nötigung
+- [BGH, Beschluss vom 03.02.2006 - 2 StR 419/05](2-str-419-05.md) — Mordes
+- [BGH, Beschluss vom 25.01.2006 - 2 StR 548/05](2-str-548-05.md) — Einschleusens von Ausländern
+- [BGH, Beschluss vom 17.01.2006 - 2 StR 452/05](2-str-452-05.md) — Mordes u. a.
+- [BGH, Urteil vom 13.01.2006 - 2 StR 461/05](2-str-461-05.md) — schweren Bandendiebstahls u. a.
+- [BGH, Beschluss vom 13.01.2006 - 2 StR 581/05](2-str-581-05.md) — schwerer Vergewaltigung u. a.
+- [BGH, Beschluss vom 11.01.2006 - 2 StR 562/05](2-str-562-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 11.01.2006 - 2 StR 571/05](2-str-571-05.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.

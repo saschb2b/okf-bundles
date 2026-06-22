@@ -1,0 +1,46 @@
+# X. Zivilsenat – 2023
+
+42 Entscheidung(en).
+
+- [BGH, Beschluss vom 05.12.2023 - X ZA 6/23](x-za-6-23.md) — BGH, Beschluss X ZA 6/23
+- [BGH, Beschluss vom 05.12.2023 - X ZB 4/23](x-zb-4-23.md) — BGH, Beschluss X ZB 4/23
+- [BGH, Versäumnisurteil vom 28.11.2023 - X ZR 11/21](x-zr-11-21.md) — 1. Eine Auflage, die den Beschenkten verpflichtet, den geschenkten Gegenstand spätestens mit seinem Ableben unentgeltlich auf einen Dritten zu übertragen, fällt
+- [BGH, Urteil vom 28.11.2023 - X ZR 70/22](x-zr-70-22.md) — Erntegut 1. Im Rechtsstreit um eine Sortenschutzverletzung kann von der in Anspruch genommenen Partei - ebenso wie in einem Rechtsstreit um eine Patentverletzun
+- [BGH, Urteil vom 28.11.2023 - X ZR 83/20](x-zr-83-20.md) — Die zehnjährige Verjährungsfrist des § 852 Satz 2 BGB beginnt mit der Entstehung des ursprünglichen Schadensersatzanspruchs, nicht erst mit dessen Verjährung.
+- [BGH, Urteil vom 28.11.2023 - X ZR 83/21](x-zr-83-21.md) — Sorafenib-Tosylat 1. Die Offenbarung von über 100 Wirkstoffen, die allein oder in Form eines pharmazeutisch verträglichen Salzes mit zahlreichen in Betracht kom
+- [BGH, Urteil vom 14.11.2023 - X ZR 115/22](x-zr-115-22.md) — 1. Bei der Beurteilung, ob unvermeidbare und außergewöhnliche Umstände dazu führen, dass die Durchführung der Pauschalreise erheblich beeinträchtigt ist, kann v
+- [BGH, Urteil vom 14.11.2023 - X ZR 30/21](x-zr-30-21.md) — Polsterumarbeitungsmaschine 1. Für die Berechnung des dem Rechtsinhaber durch die Verletzung eines Patents entstandenen Schadens auf der Grundlage des vom Verle
+- [BGH, Urteil vom 14.11.2023 - X ZR 93/22](x-zr-93-22.md) — BGH, Urteil X ZR 93/22
+- [BGH, Beschluss vom 07.11.2023 - X ZB 1/23](x-zb-1-23.md) — BGH, Beschluss X ZB 1/23
+- [BGH, Beschluss vom 07.11.2023 - X ZB 7/21](x-zb-7-21.md) — Doppelvertretung im Patentnichtigkeitsverfahren II 1. Die Ankündigung einer gerichtlichen Inanspruchnahme aus dem mit einer Nichtigkeitsklage angegriffenen Pate
+- [BGH, Urteil vom 17.10.2023 - X ZR 96/21](x-zr-96-21.md) — BGH, Urteil X ZR 96/21
+- [BGH, Urteil vom 10.10.2023 - X ZR 107/22](x-zr-107-22.md) — Fluggastrechteverordnung: Ausgleichsleistunganspruch für Flugreisende bei berechtigter Flugannullierung
+- [BGH, Urteil vom 10.10.2023 - X ZR 123/22](x-zr-123-22.md) — Als zumutbare Maßnahmen im Sinne von Art. 5 Abs. 3 FluggastrechteVO kommen nicht nur Ersatzbeförderungen in Betracht, mit denen die Verspätung am Endziel auf we
+- [BGH, Urteil vom 19.09.2023 - X ZR 103/21](x-zr-103-21.md) — BGH, Urteil X ZR 103/21
+- [BGH, Urteil vom 19.09.2023 - X ZR 103/22](x-zr-103-22.md) — 1. Die Qualifikation eines Umstands als außergewöhnlich im Sinne von § 651h Abs. 3 BGB ist grundsätzlich auch dann möglich, wenn dieser Umstand bereits im Zeitp
+- [BGH, Urteil vom 07.09.2023 - X ZR 82/21](x-zr-82-21.md) — BGH, Urteil X ZR 82/21
+- [BGH, Beschluss vom 01.08.2023 - X ZB 16/22](x-zb-16-22.md) — BGH, Beschluss X ZB 16/22
+- [BGH, Beschluss vom 01.08.2023 - X ZB 9/21](x-zb-9-21.md) — Ästhetische Behandlung 1. Gegen eine Entscheidung über die Herausgabe eines Gutachtens, das in einem selbständigen Beweisverfahren aufgrund einer nach § 140c Ab
+- [BGH, Urteil vom 01.08.2023 - X ZR 118/22](x-zr-118-22.md) — 1. Erspart im Sinne von § 648 Satz 2 BGB sind diejenigen Aufwendungen, die der Unternehmer ohne die Kündigung gehabt hätte und die er infolge der Kündigung nich
+- [BGH, Urteil vom 01.08.2023 - X ZR 119/22](x-zr-119-22.md) — BGH, Urteil X ZR 119/22
+- [BGH, Zwischenurteil vom 25.07.2023 - X ZR 51/23](x-zr-51-23.md) — EGVP-Störung 1. Die nach § 130d Satz 3 ZPO erforderliche Darlegung und Glaubhaftmachung ist rechtzeitig, wenn sie am gleichen Tag wie die Ersatzeinreichung bei 
+- [BGH, Beschluss vom 04.07.2023 - X ZB 8/22](x-zb-8-22.md) — BGH, Beschluss X ZB 8/22
+- [BGH, Beschluss vom 04.07.2023 - X ZR 32/22](x-zr-32-22.md) — BGH, Beschluss X ZR 32/22
+- [BGH, Urteil vom 27.06.2023 - X ZR 50/22](x-zr-50-22.md) — Das Recht auf eine anderweitige Beförderung zu einem späteren Zeitpunkt nach Art. 8 Abs. 1 Buchst. c FluggastrechteVO setzt nicht voraus, dass die gewünschte Er
+- [BGH, Urteil vom 22.06.2023 - X ZR 56/21](x-zr-56-21.md) — BGH, Urteil X ZR 56/21
+- [BGH, Urteil vom 20.06.2023 - X ZR 61/21](x-zr-61-21.md) — Faserstoffbahn 1. Die Modifikation eines vorbenutzten Gegenstandes, der alle Merkmale eines unabhängigen Schutzanspruchs des Klagegebrauchsmusters verwirklicht,
+- [BGH, Urteil vom 20.06.2023 - X ZR 84/22](x-zr-84-22.md) — Ein ausführendes Luftfahrtunternehmen ist für eine große Ankunftsverspätung verantwortlich, wenn es einem Fluggast unter Verstoß gegen Art. 11 Abs. 1 Fluggastre
+- [BGH, Anerkenntnisurteil vom 20.06.2023 - X ZR 98/22](x-zr-98-22.md) — BGH, Anerkenntnisurteil X ZR 98/22
+- [BGH, Beschluss vom 16.05.2023 - X ZR 112/20](x-zr-112-20.md) — Anhörungsrüge nach Patentnichtigkeitsverfahren: Stand der Technik einer Bedieneinheit zur Bedienung von digitalen Büchern
+- [BGH, Urteil vom 09.05.2023 - X ZR 15/20](x-zr-15-20.md) — Der Begriff "direkte Anschlussflüge" im Sinne von Art. 2 Buchst. h FluggastrechteVO kann auch einen Beförderungsvorgang erfassen, der aus mehreren Flügen besteh
+- [BGH, Urteil vom 09.05.2023 - X ZR 67/21](x-zr-67-21.md) — BGH, Urteil X ZR 67/21
+- [BGH, Urteil vom 25.04.2023 - X ZR 25/22](x-zr-25-22.md) — Der Tatbestand des Art. 4 Abs. 3 FluggastrechteVO ist nicht erfüllt, wenn der Fluggast auf dem vorgesehenen Flug befördert worden ist.
+- [BGH, Beschluss vom 18.04.2023 - X ZR 117/20](x-zr-117-20.md) — BGH, Beschluss X ZR 117/20
+- [BGH, Urteil vom 18.04.2023 - X ZR 91/22](x-zr-91-22.md) — Der aufgrund einer Annullierung bestehende Anspruch auf Erstattung der Flugscheinkosten nach Art. 5 Abs. 1 Buchst. a und Art. 8 Abs. 1 Buchst. a FluggastrechteV
+- [BGH, Urteil vom 28.03.2023 - X ZR 78/22](x-zr-78-22.md) — Entschädigungsfreier Rücktritt von einer Pauschalreise in die Türkei während der Corona-Pandemie
+- [BGH, Beschluss vom 14.03.2023 - X ZB 4/22](x-zb-4-22.md) — Wenn in einer Berufungsschrift, der das angefochtene Urteil nicht beigefügt ist, das Aktenzeichen und das Verkündungsdatum nicht oder nicht zutreffend angegeben
+- [BGH, Urteil vom 28.02.2023 - X ZR 23/22](x-zr-23-22.md) — Die Frage, ob die Beförderung an den Bestimmungsort erheblich beeinträchtigt ist, darf nicht allein danach beurteilt werden, ob der Reisende diesen Ort ohne Bee
+- [BGH, Urteil vom 14.02.2023 - X ZR 18/22](x-zr-18-22.md) — 1. Reiseleistungen können nur dann Gegenstand einer Gattungsschuld sein, wenn die als gattungsgemäß in Frage kommenden Leistungen durch gemeinsame Merkmale geke
+- [BGH, Urteil vom 31.01.2023 - X ZR 73/22](x-zr-73-22.md) — Patentnichtigkeitsklage: Zulässigkeit nach Wegfall des Klagehindernisses des anhängigen Einspruchsverfahrens
+- [BGH, Urteil vom 24.01.2023 - X ZR 123/20](x-zr-123-20.md) — CQI-Bericht II 1. Im Rechtsstreit über eine Patentverletzung kann von der in Anspruch genommenen Partei grundsätzlich verlangt werden, dass sie auf Vortrag des 
+- [BGH, EuGH-Vorlage vom 10.01.2023 - X ZR 106/21](x-zr-106-21.md) — Dem Gerichtshof der Europäischen Union wird gemäß Art. 267 AEUV folgende Frage zur Auslegung der Verordnung (EG) Nr. 261/2004 des Parlaments und des Rates vom 1

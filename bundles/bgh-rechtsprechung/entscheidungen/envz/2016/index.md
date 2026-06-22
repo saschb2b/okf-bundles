@@ -1,0 +1,6 @@
+# ENVZ – 2016
+
+2 Entscheidung(en).
+
+- [BGH, Beschluss vom 07.06.2016 - EnVZ 29/15](envz-29-15.md) — Energiewirtschaftsrechtliches Verwaltungsverfahren: Zwangsgeldfestsetzung der Bundesnetzagentur gegen ein Energieversorgungsunternehmen wegen Verletzung der Ver
+- [BGH, Beschluss vom 07.06.2016 - EnVZ 30/15](envz-30-15.md) — Zwangsgeldverhängung wegen Anzeigepflichtverletzung eines Energieversorgungsunternehmens gegenüber der Bundesnetzagentur: Anzeigepflicht für eine Energiebeliefe

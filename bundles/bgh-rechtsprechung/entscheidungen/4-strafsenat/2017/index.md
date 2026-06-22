@@ -1,0 +1,128 @@
+# 4. Strafsenat – 2017
+
+124 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2017 - 4 StR 351/17](4-str-351-17.md) — (Strafschärfende Berücksichtigung weiterer nicht abgeurteilter Straftaten)
+- [BGH, Beschluss vom 20.12.2017 - 4 StR 66/17](4-str-66-17.md) — Betrug: Berechnung des Vermögensschadens beim sog. "Leasing-Betrug"; "Vermögensverlust großen Ausmaßes" bei Versuchsstrafbarkeit
+- [BGH, Beschluss vom 19.12.2017 - 4 StR 483/17](4-str-483-17.md) — Gefährlichen Eingriff in den Straßenverkehr: Verdeckungsabsicht bei Fluchtfahrt nach Straftatbegehung
+- [BGH, Beschluss vom 19.12.2017 - 4 StR 589/17](4-str-589-17.md) — Strafrechtliche Vermögensabschöpfung bei nachträglicher Gesamtstrafenbildung: Anwendung der unterschiedlichen Fassungen der Vorschriften über den Verfall nach G
+- [BGH, Beschluss vom 07.12.2017 - 4 StR 287/17](4-str-287-17.md) — Schwerer sexueller Missbrauch einer widerstandsunfähigen Person: Widerstandsunfähigkeit einer stark alkoholisierten Person und Anforderungen an die Beweiswürdig
+- [BGH, Beschluss vom 06.12.2017 - 4 StR 358/17](4-str-358-17.md) — Aufrechterhalten von Maßregeln bei nachträglicher Gesamtstrafenbildung
+- [BGH, Beschluss vom 06.12.2017 - 4 StR 539/17](4-str-539-17.md) — Versuchte Körperverletzung: Freiwilliger Rücktritt von weiteren Verletzungshandlungen
+- [BGH, Beschluss vom 05.12.2017 - 4 StR 323/17](4-str-323-17.md) — Feststellung des Vermögensschadens bei Eingehungsbetrug
+- [BGH, Beschluss vom 05.12.2017 - 4 StR 389/17](4-str-389-17.md) — Anti-Doping-Gesetz: Strafbarkeit des Besitzes von Dopingmitteln in nicht geringen Mengen zum Eigendoping im nicht mit Wettkampfteilnahmen verbundenen Kraftsport
+- [BGH, Beschluss vom 05.12.2017 - 4 StR 562/17](4-str-562-17.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Bereitliegen eines Butterflymessers in einem Stadium der Tatausführungshandlung; Tatein
+- [BGH, Beschluss vom 23.11.2017 - 4 StR 219/17](4-str-219-17.md) — Konkurrenzen bei gemeinschaftlich begangenen Delikten: Zurechnung bei Planungs- und Vorbereitungshandlungen eines Tatbeteiligten und bei Teilidentität von Gewal
+- [BGH, Beschluss vom 23.11.2017 - 4 StR 427/17](4-str-427-17.md) — Entziehung der Fahrerlaubnis: Darlegung der Ungeeignet zum Führen von Kraftfahrzeugen bei Einziehung wegen einer nicht im Katalog enthaltenen Straftat
+- [BGH, Beschluss vom 23.11.2017 - 4 StR 477/17](4-str-477-17.md) — Entscheidung über Vollstreckungsreihenfolge bei Anordnung der Unterbringung in Entziehungsanstalt
+- [BGH, Beschluss vom 22.11.2017 - 4 StR 401/17](4-str-401-17.md) — Schwerer sexueller Missbrauch von Kindern: Anforderungen an eine gemeinschaftliche Tatbegehung
+- [BGH, Beschluss vom 22.11.2017 - 4 StR 468/17](4-str-468-17.md) — Strafurteil: Notwendige Feststellung der Vorschriftsmäßigkeit einer Wahllichtbildvorlage bei Nichtidentifizierung des Angeklagten durch den Zeugen in der Hauptv
+- [BGH, Beschluss vom 09.11.2017 - 4 StR 393/17](4-str-393-17.md) — Strafzumessung beim Handeltreiben mit Betäubungsmitteln: Gewinnerzielungsabsicht als strafschärfender Umstand; Fehlen eines Strafmilderungsgrundes
+- [BGH, Beschluss vom 08.11.2017 - 4 StR 242/17](4-str-242-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Zusammenwirken eines psychischen Defekts mit einer bei Tatbegehung hinzutretenden alkoholischen Beeinflussun
+- [BGH, Beschluss vom 07.11.2017 - 4 StR 327/17](4-str-327-17.md) — Strafverfahren wegen Mordes: Zusammentreffen von niedrigen Beweggründen und Habgier; Heimtücke bei einem Überraschungsangriff und Tötungsvorsatz; Doppelverwertu
+- [BGH, Urteil vom 26.10.2017 - 4 StR 259/17](4-str-259-17.md) — Strafverurteilung wegen Betäubungsmitteldelikten: Strafmilderung in Ansehung ausländerrechtlicher Folgen; Konkurrenzverhältnis zwischen unerlaubtem Besitz und u
+- [BGH, Beschluss vom 24.10.2017 - 4 StR 334/17](4-str-334-17.md) — Gefährlicher Eingriff in den Straßenverkehr: Verkehrsfeindlicher Inneneingriff
+- [BGH, Beschluss vom 11.10.2017 - 4 StR 322/17](4-str-322-17.md) — Besonders schwere räuberische Erpressung zum Nachteil einer Supermarktkette: Abgrenzung vor Vorbereitungshandlung und Beginn der Tatausführung bei Zünden einer 
+- [BGH, Beschluss vom 11.10.2017 - 4 StR 572/16](4-str-572-16.md) — Subventionsbetrug: Unrichtige Angaben über subventionserhebliche Tatsachen durch Verschleierung von Scheingeschäften
+- [BGH, Beschluss vom 28.09.2017 - 4 StR 240/17](4-str-240-17.md) — Bei Vorliegen der Voraussetzungen des § 171b Abs. 3 Satz 2 GVG ist die Öffentlichkeit zwingend für die Schlussvorträge aller Verfahrensbeteiligten auszuschließe
+- [BGH, Urteil vom 28.09.2017 - 4 StR 282/17](4-str-282-17.md) — Rücktritt vom Versuch eines Tötungsdelikts: Freiwilligkeit der Tataufgabe bei Näherung von Dritten
+- [BGH, Beschluss vom 27.09.2017 - 4 StR 142/17](4-str-142-17.md) — Revisionsbegründung: Anforderungen an die Inbegriffsrüge bei unterbliebener Erörterung einer Sacheinlassung des Angeklagten im Urteil
+- [BGH, Beschluss vom 27.09.2017 - 4 StR 235/17](4-str-235-17.md) — Konkurrenzverhältnis: Freiheitsberaubung als Mittel zur Begehung einer anderen Straftat
+- [BGH, Beschluss vom 14.09.2017 - 4 StR 177/17](4-str-177-17.md) — Strafsache: Tateinheit von Rauschgifttransport und Straßenverkehrsdelikten; Begründetheit eines Adhäsionsantrags bei fehlender Einbeziehung des beschädigten Fah
+- [BGH, Beschluss vom 14.09.2017 - 4 StR 274/16](4-str-274-16.md) — Zu den Voraussetzungen der Rechtsbeugung durch einen Staatsanwalt bei bewusstem Nichtbetreiben von anklagereifen Ermittlungsverfahren.
+- [BGH, Beschluss vom 14.09.2017 - 4 StR 381/17](4-str-381-17.md) — Schwerer sexueller Missbrauch von Kindern: Voraussetzungen für eine Tateinheit zwischen Grunddelikt und Qualifikation
+- [BGH, Urteil vom 14.09.2017 - 4 StR 45/17](4-str-45-17.md) — Revision gegen Teilfreispruch: Anforderungen an eine Freispruchsbegründung; Abweichung von einem Sachverständigengutachten zur Glaubwürdigkeit des Opfers; Gesam
+- [BGH, Beschluss vom 13.09.2017 - 4 StR 88/17](4-str-88-17.md) — Strafverfahren wegen Massenbetrug: Anforderungen an die Darlegung eines täuschungsbedingten Irrtums bei einer Vielzahl von gleichartigen Einzelfällen
+- [BGH, Beschluss vom 12.09.2017 - 4 StR 233/17](4-str-233-17.md) — Revision in Strafsachen: Revisionsbegründungsfrist bei mehrfacher Verteidigung
+- [BGH, Beschluss vom 12.09.2017 - 4 StR 298/17](4-str-298-17.md) — Betäubungsmitteldelikt: Konkurrenzverhältnis zwischen Handeltreiben und Besitz einer anderen Betäubungsmittelmenge zum Eigenkonsum
+- [BGH, Beschluss vom 31.08.2017 - 4 StR 221/17](4-str-221-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
+- [BGH, Beschluss vom 31.08.2017 - 4 StR 267/17](4-str-267-17.md) — Neues Strafurteil nach Aufhebung und Zurückverweisung der Sache durch das Revisionsgericht: Bezugnahme auf vom Revisionsgericht aufgehobene Feststellungen betre
+- [BGH, Beschluss vom 31.08.2017 - 4 StR 294/17](4-str-294-17.md) — Wiedereinsetzung in Strafsachen: Wiedereinsetzung eines psychisch Kranken in die Frist für die Beantragung einer Entscheidung des Revisionsgerichts nach verspät
+- [BGH, Beschluss vom 31.08.2017 - 4 StR 297/17](4-str-297-17.md) — Strafzumessung: Strafschärfende Berücksichtigung des Handelns aus „reiner Gewinnsucht“ bei Verurteilung wegen bewaffneten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 31.08.2017 - 4 StR 317/17](4-str-317-17.md) — Schwere Körperverletzung: Vorliegen einer „geistigen Krankheit“
+- [BGH, Beschluss vom 30.08.2017 - 4 StR 255/17](4-str-255-17.md) — Sexueller Missbrauch: Rückwirkung der Ruhensregelung im Rahmen der Verfolgungsverjährung; Einbeziehung wirtschaftlicher Verhältnisse bei der Schmerzensgeldbemes
+- [BGH, Beschluss vom 30.08.2017 - 4 StR 349/17](4-str-349-17.md) — Gefährlicher Eingriff in den Straßenverkehr: Pistolenschuss aus dem fahrenden Fahrzeug auf den Fahrer des auf der Nebenspur befindlichen Fahrzeugs
+- [BGH, Beschluss vom 29.08.2017 - 4 StR 116/17](4-str-116-17.md) — Strafverfahren u.a. wegen Nötigung und Beihilfe zur Falschaussage: Rücktritt vom Versuch der mittäterschaftlichen Nötigung; Anwendbarkeit des Strafmilderungsgru
+- [BGH, Urteil vom 17.08.2017 - 4 StR 127/17](4-str-127-17.md) — Sachverhaltsaufklärung durch das Gericht: Umfang der Amtsaufklärungspflicht bei Erfolgsdelikten
+- [BGH, Beschluss vom 16.08.2017 - 4 StR 320/17](4-str-320-17.md) — Brandstiftung: Vorliegen einer "teilweisen Zerstörung" einer Stadthalle bei Nichtbenutzbarkeit einzelner Räume durch Rußanhaftungen
+- [BGH, Beschluss vom 16.08.2017 - 4 StR 324/17](4-str-324-17.md) — Mord aus Habgier: Subsidiarität einer Unterschlagung
+- [BGH, Beschluss vom 15.08.2017 - 4 StR 250/17](4-str-250-17.md) — Strafbemessung bei mehreren Gesetzesverletzungen: Konkurrenzverhältnis zwischen Freiheitsberaubung und Nötigung
+- [BGH, Urteil vom 03.08.2017 - 4 StR 193/17](4-str-193-17.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus im Straf- und Sicherungsverfahren: Maßgeblicher Zeitpunkt für die Gefährlichkeitsprognose und B
+- [BGH, Urteil vom 03.08.2017 - 4 StR 202/17](4-str-202-17.md) — Revision in Strafsachen: Anforderungen an eine Verfahrensrüge der Verletzung der gerichtlichen Aufklärungspflicht durch die nach Zurückverweisung neubefasste St
+- [BGH, Beschluss vom 03.08.2017 - 4 StR 96/17](4-str-96-17.md) — Revisionsbegründung in Strafsachen: Verdeutlichung der Angriffsrichtung der Verfahrensrüge bei mehreren in Frage kommenden Angriffspunkten
+- [BGH, Beschluss vom 02.08.2017 - 4 StR 169/17](4-str-169-17.md) — Bei Beurteilung der Frage, ob eine strafrechtliche Garantenpflicht eines Kindes gegenüber einem Elternteil besteht, ist auf die Umstände des Einzelfalles abzust
+- [BGH, Beschluss vom 02.08.2017 - 4 StR 190/17](4-str-190-17.md) — Schuldfähigkeit: Erstmalige Sexualstraftat eines 94-Jährigen
+- [BGH, Beschluss vom 02.08.2017 - 4 StR 261/17](4-str-261-17.md) — Vollstreckungsreihenfolge: Nichtanordnung des Vorwegvollzugs einer hohen Gesamtfreiheitsstrafe
+- [BGH, Beschluss vom 01.08.2017 - 4 StR 178/17](4-str-178-17.md) — Sicherungsverwahrung: Bezeichnung des Anordnungstatbestands in der Anklageschrift
+- [BGH, Beschluss vom 19.07.2017 - 4 StR 245/17](4-str-245-17.md) — Vorbehalt der Unterbringung in der Sicherungsverwahrung: Anforderungen an die Darlegung der Wahrscheinlichkeit hangbedingter Gefährlichkeit
+- [BGH, Beschluss vom 19.07.2017 - 4 StR 536/16](4-str-536-16.md) — Erfordernis einer gesonderten Mitteilung über Verständigungsgespräche in der Hauptverhandlung
+- [BGH, Urteil vom 06.07.2017 - 4 StR 124/17](4-str-124-17.md) — Unterbringung in einer Entziehungsanstalt: Erfolgsaussicht bei fehlenden deutschen aber vorhandenen englischen Sprachkenntnissen
+- [BGH, Urteil vom 06.07.2017 - 4 StR 415/16](4-str-415-16.md) — Strafverurteilung von Rasern wegen fahrlässiger Tötung: Voraussetzungen einer Strafaussetzung zur Bewährung
+- [BGH, Urteil vom 06.07.2017 - 4 StR 65/17](4-str-65-17.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Verminderte Schuldfähigkeit bei Borderlinestörung
+- [BGH, Beschluss vom 05.07.2017 - 4 StR 228/17](4-str-228-17.md) — Sexueller Missbrauch von Schutzbefohlenen: Voraussetzungen eines Obhutsverhältnisses; Bewusstsein des Geschädigten von dem Unterordnungsverhältnis
+- [BGH, Beschluss vom 04.07.2017 - 4 StR 566/16](4-str-566-16.md) — Schwerer Bandendiebstahl: Konkurrenzverhältnisse bei mittäterschaftlich begangener Deliktsserie
+- [BGH, Beschluss vom 28.06.2017 - 4 StR 186/16](4-str-186-16.md) — Eingehungsbetrug: Feststellung des Schadens; Vermögensschaden bei Anlagegeschäften
+- [BGH, Urteil vom 22.06.2017 - 4 StR 151/17](4-str-151-17.md) — Räuberische Erpressung: Strafmilderung wegen Täter-Opfer-Ausgleichs bei mehreren Geschädigten
+- [BGH, Beschluss vom 22.06.2017 - 4 StR 218/17](4-str-218-17.md) — Unerlaubter Betäubungsmittelbesitz und -handel: Nicht geringe Menge bei in sog. Ecstasy-Tabletten enthaltenem Wirkstoff MDMA; Unterbringung eines ausreisepflich
+- [BGH, Beschluss vom 20.06.2017 - 4 StR 234/17](4-str-234-17.md) — Strafzumessung: Strafschärfende Berücksichtigung einer mangelnden Therapiebereitschaft
+- [BGH, Beschluss vom 20.06.2017 - 4 StR 575/16](4-str-575-16.md) — Strafzumessung: Berücksichtigung einer möglichen Rufschädigung der Polizei durch die Eigenschaft des Täters als Polizeibeamter zur Tatzeit
+- [BGH, Beschluss vom 08.06.2017 - 4 StR 19/17](4-str-19-17.md) — Strafurteil: Feststellung subjektiver Tatbestandsvoraussetzungen eines erpresserischen Menschenraubs und einer versuchten räuberischen Erpressung
+- [BGH, Beschluss vom 08.06.2017 - 4 StR 607/16](4-str-607-16.md) — Subjektive Voraussetzungen des erpresserischen Menschenraubes im sog. Zweipersonenverhältnis; Tatentschluss im Falle des Versuchs einer räuberischen Erpressung
+- [BGH, Beschluss vom 07.06.2017 - 4 ARs 22/16](4-ars-22-16.md) — BGH, Beschluss 4 ARs 22/16
+- [BGH, Beschluss vom 07.06.2017 - 4 StR 186/17](4-str-186-17.md) — Strafzumessung: Strafschärfende Berücksichtigung des Altersgefälles zwischen Täter und Opfer bei sexuellem Missbrauch eines Kindes
+- [BGH, Beschluss vom 07.06.2017 - 4 StR 197/17](4-str-197-17.md) — Gefährliche Körperverletzung: Gegenwärtiger Angriff bei Notwehrlage
+- [BGH, Beschluss vom 06.06.2017 - 4 StR 355/16](4-str-355-16.md) — Revisionsbegründung in Strafsachen: Inhaltliche Anforderungen bei einer Rüge eines Verstoßes gegen den Untersuchungsgrundsatz
+- [BGH, Beschluss vom 23.05.2017 - 4 StR 141/17](4-str-141-17.md) — Urkundenfälschung und Fälschung beweiserheblicher Daten: Herstellen und Gebrauchen einer gefälschten E-Mail
+- [BGH, Beschluss vom 23.05.2017 - 4 StR 617/16](4-str-617-16.md) — Revision in Strafsachen: Beschwer des wegen Beihilfe statt Mittäterschaft verurteilten Angeklagten; natürliche Handlungseinheit zwischen der Beteiligung an der 
+- [BGH, Beschluss vom 10.05.2017 - 4 StR 167/17](4-str-167-17.md) — Abgrenzung der schweren von der besonders schweren räuberischen Erpressung: Einsatz einer mit "Knallpatronen" geladenen Schreckschusswaffe
+- [BGH, Beschluss vom 10.05.2017 - 4 StR 567/16](4-str-567-16.md) — BGH, Beschluss 4 StR 567/16
+- [BGH, Beschluss vom 10.05.2017 - 4 StR 84/17](4-str-84-17.md) — Bedrohung: Hinterlassen einer Todesdrohung auf der Mailbox des Geschädigten
+- [BGH, Beschluss vom 09.05.2017 - 4 StR 366/16](4-str-366-16.md) — Schwerer sexueller Missbrauch einer widerstandsunfähigen Person: Anwendung des mildesten Gesetzes nach Gesetzesänderung
+- [BGH, Beschluss vom 09.05.2017 - 4 StR 73/17](4-str-73-17.md) — Jugendstrafsache: Berücksichtigung einer rechtsstaatswidrigen Verfahrensverzögerung bei der Bestimmung des Maßes des Erziehungsbedarfs
+- [BGH, Urteil vom 27.04.2017 - 4 StR 434/16](4-str-434-16.md) — Strafurteil: Darlegungsanforderungen im Rahmen der freien Beweiswürdigung
+- [BGH, Beschluss vom 27.04.2017 - 4 StR 547/16](4-str-547-16.md) — Im Fall einer Verurteilung wegen vorsätzlichen Fahrens ohne Fahrerlaubnis nach § 21 Abs. 1 Nr. 1 StVG ist die Beschränkung einer Berufung auf den Rechtsfolgenau
+- [BGH, Urteil vom 27.04.2017 - 4 StR 592/16](4-str-592-16.md) — Strafbarkeit wegen eines räuberischen Angriffs auf einen Taxifahrer: Notwendigkeit tatrichterlicher Tatsachenfeststellungen zum "Führen" eines Kraftfahrzeuges
+- [BGH, Beschluss vom 27.04.2017 - 4 StR 609/16](4-str-609-16.md) — Entwendung eines Tresors: Zueignungsabsicht hinsichtlich Behältnis und Inhalt
+- [BGH, Beschluss vom 27.04.2017 - 4 StR 61/17](4-str-61-17.md) — Gefährdung des Straßenverkehrs: Voraussetzung der kritischen Verkehrssituation und eines "Beinahe-Unfalls"; Urteilsfeststellungen zur konkreten Gefährdung eines
+- [BGH, Beschluss vom 26.04.2017 - 4 StR 129/17](4-str-129-17.md) — Strafzumessung im Verfahren wegen schweren Bandendiebstahls: Strafmildernde Berücksichtigung des Werts eingezogener Gegenstände
+- [BGH, Beschluss vom 26.04.2017 - 4 StR 645/16](4-str-645-16.md) — BGH, Beschluss 4 StR 645/16
+- [BGH, Beschluss vom 25.04.2017 - 4 StR 244/16](4-str-244-16.md) — Zu den Voraussetzungen, unter denen die Hilflosigkeit einer Person auf einer Bildaufnahme zur Schau gestellt wird.
+- [BGH, Beschluss vom 13.04.2017 - 4 StR 35/17](4-str-35-17.md) — Gefährliche Körperverletzung: Gegenwärtigkeit des Angriffs und erforderliche Verteidigung im Rahmen der Notwehr
+- [BGH, Beschluss vom 13.04.2017 - 4 StR 414/16](4-str-414-16.md) — Revision: Notwendiger Umfang der Angabe von Strafzumessungsgründen im Strafurteil; Feststellungsinteresse im Rahmen eines unbezifferten Adhäsionsanspruchs
+- [BGH, Beschluss vom 13.04.2017 - 4 StR 581/16](4-str-581-16.md) — Gefährlicher Eingriff in den Straßenverkehr: Eintritt der Tatvollendung; Mindestwert für eine "Sache von bedeutendem Wert"
+- [BGH, Beschluss vom 11.04.2017 - 4 StR 252/16](4-str-252-16.md) — Vorenthalten von Arbeitsentgelt: Nichtabführung von Beiträgen für die betriebliche Altersvorsorge
+- [BGH, Beschluss vom 11.04.2017 - 4 StR 615/16](4-str-615-16.md) — Konkurrierende Taten im Rahmen einer Diebstahlserie
+- [BGH, Beschluss vom 10.04.2017 - 4 StR 299/16](4-str-299-16.md) — Bei einem unter Verstoß gegen deutsche Straßenverkehrsvorschriften durchgeführten internationalen Transport kann - bei Vorliegen der sonstigen hierfür erforderl
+- [BGH, Urteil vom 30.03.2017 - 4 StR 463/16](4-str-463-16.md) — (Prüfung der Schuldfähigkeit im Strafverfahren: Freispruch wegen fehlender Schuldfähigkeit unter Offenlassung der Täterschaft; Darlegungserfordernis hinsichtlic
+- [BGH, Beschluss vom 29.03.2017 - 4 StR 526/16](4-str-526-16.md) — Strafzumessung bei schwerem Kindesmissbrauch: Verletzung des Doppelverwertungsverbots bei strafschärfender Berücksichtigung eines Qualifikationsmerkmals
+- [BGH, Beschluss vom 29.03.2017 - 4 StR 571/16](4-str-571-16.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Erlaubnisfreies Reizstoffsprühgerät als Waffe
+- [BGH, Beschluss vom 29.03.2017 - 4 StR 619/16](4-str-619-16.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefahr erheblicher Straftaten; Wahrscheinlichkeit zu erwartender Nachstellungen
+- [BGH, Beschluss vom 28.03.2017 - 4 StR 350/16](4-str-350-16.md) — Einziehung von Wertersatz: Anordnung der Einziehung eines nicht im Eigentum des Angeklagten stehenden Geldbetrages
+- [BGH, Beschluss vom 28.03.2017 - 4 StR 52/17](4-str-52-17.md) — Strafverfahren: Zulässigkeit eines bedingt gestellten Hilfsbeweisantrags
+- [BGH, Beschluss vom 28.03.2017 - 4 StR 82/17](4-str-82-17.md) — Tateinheitlicher Tatbeitrag bei Diebstahlstour an einem Tag
+- [BGH, Beschluss vom 22.03.2017 - 4 StR 86/13](4-str-86-13.md) — Wiedereinsetzung im Strafverfahren: Verletzung des Rechts auf ein faires Verfahren durch Versagung der Wiedereinsetzung
+- [BGH, Urteil vom 16.03.2017 - 4 StR 545/16](4-str-545-16.md) — Verletzung des Dienstgeheimnisses: Bestätigung und Inhaltsangabe eines anonymen Schreibens durch einen Staatsanwalt gegenüber einem Pressevertreter
+- [BGH, Beschluss vom 15.03.2017 - 4 StR 22/17](4-str-22-17.md) — Schwerer sexueller Missbrauch von Kindern: Gemeinschaftliche Tatbegehung; Herstellung kinderpornographischer Schriften zum Eigengebrauch; inhaltliche Anforderun
+- [BGH, Beschluss vom 15.03.2017 - 4 StR 472/16](4-str-472-16.md) — Betrug: Vermögensschaden bei abredewidriger Mittelverwendung
+- [BGH, Beschluss vom 15.03.2017 - 4 StR 53/17](4-str-53-17.md) — Gefährlicher Eingriff in den Straßenverkehr: Bereitung eines Hindernisses
+- [BGH, Beschluss vom 14.03.2017 - 4 StR 533/16](4-str-533-16.md) — Betäubungsmitteldelikt: Strafrahmen bei minder schwerem Fall des bewaffneten Handeltreibens
+- [BGH, Beschluss vom 14.03.2017 - 4 StR 599/16](4-str-599-16.md) — Revisionsverwerfung im Strafverfahren: Unterlassene Prüfung der Zäsurwirkung im Rahmen der Gesamtstrafenbildung
+- [BGH, Beschluss vom 14.03.2017 - 4 StR 646/16](4-str-646-16.md) — Strafverfahren: Strafschärfende Berücksichtigung der Tatausführung bei Annahme von Gesetzeskonkurrenz zwischen gefährlicher und schwerer Körperverletzung
+- [BGH, Urteil vom 02.03.2017 - 4 StR 196/16](4-str-196-16.md) — Schwerer Raub: Strafzumessungserwägungen hinsichtlich der Einordnung der Tat als minder schwerer Fall; Darstellung der Sozialprognose bei der Entscheidung über 
+- [BGH, Beschluss vom 02.03.2017 - 4 StR 406/16](4-str-406-16.md) — Inbegriffsrüge im Strafverfahren: Fehlende Erwähnung eines Beweisergebnisses in den Urteilsgründen; unterbliebene Erörterung eines Beweisergebnisses im Rahmen d
+- [BGH, Beschluss vom 01.03.2017 - 4 StR 405/16](4-str-405-16.md) — Strafverfahren: Besetzung der großen Strafkammer bei Eröffnungsentscheidung während der Hauptverhandlung
+- [BGH, Beschluss vom 15.02.2017 - 4 StR 375/16](4-str-375-16.md) — Führt das Opfer einer Nachstellung den tödlichen Erfolg im Sinne des § 238 Abs. 3 StGB durch ein selbstschädigendes Verhalten (Suizid) herbei, ist der tatbestan
+- [BGH, Beschluss vom 15.02.2017 - 4 StR 629/16](4-str-629-16.md) — Diebstahl fremder Kfz-Kennzeichen und deren mehrfache Benutzung: Konkurrenzrechtliche Beurteilung
+- [BGH, Beschluss vom 14.02.2017 - 4 StR 422/15](4-str-422-15.md) — Der Tatrichter ist in Fällen, in denen die Fahrt mit dem Kraftfahrzeug nicht im zeitlichen Zusammenhang mit einem vorangegangenen Cannabiskonsum erfolgt, aus Re
+- [BGH, Beschluss vom 14.02.2017 - 4 StR 565/16](4-str-565-16.md) — Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus: Gefährlichkeitsprognose nach neuem Recht hinsichtlich erheblicher Straftaten; Gewichtung
+- [BGH, Beschluss vom 14.02.2017 - 4 StR 578/16](4-str-578-16.md) — Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge: Sicherungseinziehung des Transportfahrzeugs
+- [BGH, Beschluss vom 14.02.2017 - 4 StR 580/16](4-str-580-16.md) — Konkurrenzen bei Betäubungsmitteldelikten: Gleichzeitiger Besitz unterschiedlicher Betäubungsmittelmengen; Aufbewahren von Drogen zum Eigenkonsum; Verwahrung vo
+- [BGH, Urteil vom 02.02.2017 - 4 StR 423/16](4-str-423-16.md) — Strafurteil: Erforderliche Feststellungen zur Person des Angeklagten und zu Vorstrafen bei Freispruch
+- [BGH, Urteil vom 02.02.2017 - 4 StR 481/16](4-str-481-16.md) — Strafzumessung: Revisionsrechtliche Überprüfbarkeit; Auslegung eines Revisionsantrags; Berücksichtigung eines Geständnisses; Gesamtstrafenbildung
+- [BGH, Beschluss vom 01.02.2017 - 4 StR 401/16](4-str-401-16.md) — Unerlaubtes Entfernen vom Unfallort: Konkurrenzverhältnis bei mehreren Verkehrsverstößen im Rahmen der Fluchtfahrt und Entfernen zu Fuß nach Beendigung der Fluc
+- [BGH, Beschluss vom 01.02.2017 - 4 StR 635/16](4-str-635-16.md) — Rechtfertigung einer Schussabgabe durch Notwehr: Vorliegen eines gegenwärtigen Angriffs
+- [BGH, Beschluss vom 31.01.2017 - 4 StR 597/16](4-str-597-16.md) — Straßenverkehrsgefährdung: Drogentransport unter Drogeneinfluss nebst Polizeiflucht
+- [BGH, Urteil vom 19.01.2017 - 4 StR 334/16](4-str-334-16.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Mitführen eines Samurai-Schwertes in demselben Raum wie die gelagerten Drogen; Strafzumessung bei Vorliegen ein
+- [BGH, Urteil vom 19.01.2017 - 4 StR 443/16](4-str-443-16.md) — Revision in Strafsachen: Eintritt von Teilrechtskraft hinsichtlich der Nichtanordnung einer Maßregel
+- [BGH, Beschluss vom 19.01.2017 - 4 StR 595/16](4-str-595-16.md) — Sicherungsverfahren: Unterbringung in einem psychiatrischen Krankenhaus bei psychischer Erkrankung und hinzutretendem Alkoholgenuss
+- [BGH, Beschluss vom 10.01.2017 - 4 StR 521/16](4-str-521-16.md) — Strafzumessung: Strafschärfung bei fehlender Reue und Unrechtseinsicht

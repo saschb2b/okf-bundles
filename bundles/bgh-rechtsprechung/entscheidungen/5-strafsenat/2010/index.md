@@ -1,0 +1,97 @@
+# 5. Strafsenat – 2010
+
+93 Entscheidung(en).
+
+- [BGH, Beschluss vom 09.12.2010 - 5 StR 421/10](5-str-421-10.md) — (Anordnung der Sicherungsverwahrung: Fehlerhafte Würdigung der Gefährlichkeit des Täters beim mehrfachen sexuellen Missbrauch von Kindern)
+- [BGH, Beschluss vom 09.12.2010 - 5 StR 485/10](5-str-485-10.md) — Absoluter Revisionsgrund in Strafsachen: Nichteinhaltung der Urteilsabsetzungsfrist
+- [BGH, Beschluss vom 08.12.2010 - 5 StR 516/10](5-str-516-10.md) — Schwere Körperverletzung: Faktischer Verlust des Hörvermögens
+- [BGH, Beschluss vom 23.11.2010 - 5 StR 492/10](5-str-492-10.md) — Vollstreckungsaussetzung einer Unterbringung in einem psychiatrischen Krankenhaus zur Bewährung
+- [BGH, Beschluss vom 10.11.2010 - 5 StR 456/10](5-str-456-10.md) — Begründung der Strafzumessung im Urteil: Notwendige Erörterung des Gesamtstrafübels
+- [BGH, Beschluss vom 09.11.2010 - 5 StR 394/10, 5 StR 440/10, 5 StR 474/10](5-str-394-10-5-str-440-10-5-str-474-10.md) — 1. Ergibt sich für die Maßregel der Unterbringung in der Sicherungsverwahrung aus der Europäischen Konvention zum Schutze der Menschenrechte und Grundfreiheiten
+- [BGH, Beschluss vom 28.10.2010 - 5 StR 226/10](5-str-226-10.md) — Konkurrenzen bei betrügerischen Angeboten im Online-Handel
+- [BGH, Urteil vom 27.10.2010 - 5 StR 319/10](5-str-319-10.md) — Strafverfahren wegen besonders schwerer Vergewaltigung: Revisionsgerichtliche Nachprüfung eines Freispruchs in Ansehung tatrichterlicher Beweiswürdigung des Aus
+- [BGH, Beschluss vom 27.10.2010 - 5 StR 359/10](5-str-359-10.md) — Beweisantrag: Präzisierung eines in der Anklageschrift enthaltenen Beweismittels und Bestimmtheit der Beweisbehauptung bezüglich alkoholbedingter Ausfallerschei
+- [BGH, Beschluss vom 27.10.2010 - 5 StR 419/10](5-str-419-10.md) — Verständigung der Verfahrensbeteiligten: Fehlen des sogenannten „Negativattests“ im Hauptverhandlungsprotokoll
+- [BGH, Beschluss vom 26.10.2010 - 5 StR 433/10](5-str-433-10.md) — Strafverfahren: Letztes Wort nach Aufhebung des Haftbefehls nur gegen einen Mitangeklagten
+- [BGH, Beschluss vom 15.10.2010 - 5 StR 119/10](5-str-119-10.md) — Beweisantrag im Strafverfahren: Anforderungen an die Angabe ladungsfähiger Anschriften von Auslandszeugen
+- [BGH, Beschluss vom 14.10.2010 - 5 StR 299/10](5-str-299-10.md) — Aussetzung der Hauptverhandlung wegen ungenügender Vorbereitung der Verteidigung: Übergang von unerlaubtem Handeltreiben mit Betäubungsmitteln in nicht geringer
+- [BGH, Beschluss vom 14.10.2010 - 5 StR 418/10](5-str-418-10.md) — Versäumung der Revisionsbegründungsfrist in Strafsachen: Mitverschulden des inhaftierten Angeklagten bei Fristversäumung nach krankheitsbedingtem Ausfall des Pf
+- [BGH, Beschluss vom 13.10.2010 - 5 StR 179/10](5-str-179-10.md) — Rückwirkende Bewilligung von Prozesskostenhilfe im Adhäsionsverfahren
+- [BGH, Beschluss vom 30.09.2010 - 5 StR 259/10](5-str-259-10.md) — Vermögensnachteil bei der Untreue
+- [BGH, Beschluss vom 30.09.2010 - 5 StR 61/10](5-str-61-10.md) — Subventionsbetrug: Voraussetzungen einer subventionserheblichen Tatsache - Subventionserhebliche Tatsache
+- [BGH, Beschluss vom 29.09.2010 - 5 StR 146/10](5-str-146-10.md) — Wiederaufnahmeverfahren: Neue Tatsachen zur Verjährung nach Rechtskraft des Schuldspruchs
+- [BGH, Beschluss vom 28.09.2010 - 5 StR 330/10](5-str-330-10.md) — Jugendstrafverfahren: Kompensation einer rechtsstaatswidrigen Verfahrensverzögerung im Wege des so genannten Vollstreckungsmodells
+- [BGH, Beschluss vom 28.09.2010 - 5 StR 358/10](5-str-358-10.md) — Totschlag durch alkoholbeeinflussten Täter: Prüfung eines minder schweren Falles; Beweisanzeichen für eine volle Schuldfähigkeit
+- [BGH, Beschluss vom 28.09.2010 - 5 StR 383/10](5-str-383-10.md) — Gewerbsmäßige Fälschung von Zahlungskarten mit Garantiefunktion: Konkurrenzverhältnis bei Beschaffung und Verwendung mehrerer Kreditkarten mit gefälschten Daten
+- [BGH, Beschluss vom 15.09.2010 - 5 StR 325/10](5-str-325-10.md) — Nachträgliche Gesamtstrafenbildung: Zäsurwirkung
+- [BGH, Beschluss vom 15.09.2010 - 5 StR 345/10](5-str-345-10.md) — Strafverfahren wegen Einbruchdiebstählen: Tatrichterliche Überzeugungsbildung anhand eines Sachverständigengutachtens zu Tatortspuren
+- [BGH, Beschluss vom 14.09.2010 - 5 StR 229/10](5-str-229-10.md) — Revision im Strafverfahren: Aufhebung einer isoliert angeordneten Unterbringung
+- [BGH, Beschluss vom 14.09.2010 - 5 StR 336/10](5-str-336-10.md) — Versuch der Fälschung von Zahlungskarten mit Garantiefunktion: Einsatz eines Skimmers und unmittelbares Ansetzen zur Tat
+- [BGH, Urteil vom 31.08.2010 - 5 StR 159/10](5-str-159-10.md) — Besetzungsrüge im Strafverfahren: Änderung der reduzierten Strafkammerbesetzung im zeitlichen Zusammenhang mit der Terminierung
+- [BGH, Urteil vom 04.08.2010 - 5 StR 184/10](5-str-184-10.md) — Anordnung des erweiterten Verfalls bei Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 22.07.2010 - 5 StR 204/10](5-str-204-10.md) — Strafaussetzung zur Bewährung: Tatrichterlicher Beurteilungsspielraum bei erheblichen Vorbelastungen und wiederholten Strafverbüßungen des Angeklagten
+- [BGH, Beschluss vom 22.07.2010 - 5 StR 256/10](5-str-256-10.md) — Strafverfahren u.a. wegen Nachstellung: Tatrichterliche Feststellung der Gefahr einer schweren Gesundheitsschädigung
+- [BGH, Beschluss vom 22.07.2010 - 5 StR 271/10](5-str-271-10.md) — Inverkehrbringen von Falschgeld: Lückenhafte Beweiswürdigung zur Feststellung bedingten Vorsatzes
+- [BGH, Beschluss vom 21.07.2010 - 5 StR 243/10](5-str-243-10.md) — Voraussetzungen der - nochmaligen - Anordnung einer Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 21.07.2010 - 5 StR 246/10](5-str-246-10.md) — Tötung durch Ersticken: Erforderliche Feststellungen zur Beurteilung des Tötungsvorsatzes
+- [BGH, Beschluss vom 21.07.2010 - 5 StR 60/10](5-str-60-10.md) — Zur Ermessensausübung bei Anwendung der §§ 66b Abs. 1 Satz 2, 66 Abs. 2 StGB nach der Entscheidung EGMR vom 17. Dezember 2009, 19359/04, EuGRZ 2010, 25 .
+- [BGH, Beschluss vom 20.07.2010 - 5 StR 199/10](5-str-199-10.md) — Verhängung einer Jugendstrafe: Notwendige Begründung der Annahme schädlicher Neigungen
+- [BGH, Beschluss vom 20.07.2010 - 5 StR 209/10](5-str-209-10.md) — Ablehnung von Richtern in Strafsachen: Völlig ungeeignete Begründung des Antrags; Beteiligung von Richtern an einer Vorentscheidung
+- [BGH, Beschluss vom 07.07.2010 - 5 StR 555/09](5-str-555-09.md) — Zur unerlässlichen Mitwirkung eines dritten Berufsrichters in einem wegen komplexer Rechtsbeugungsvorwürfe umfangreichen und schwierigen Strafverfahren .
+- [BGH, Beschluss vom 06.07.2010 - 5 StR 142/10](5-str-142-10.md) — Nachträgliche Bildung der Gesamtstrafe: Aufrechterhaltung der früheren Anordnung der Sicherungsverwahrung trotz Vollverbüßung der Strafen aus der Vorverurteilun
+- [BGH, Beschluss vom 06.07.2010 - 5 StR 194/10](5-str-194-10.md) — Strafverfahren: Beweiswürdigung bei Aussage gegen Aussage; erforderliche kriminelle Energie für Strafschärfung bei Vergewaltigung
+- [BGH, Urteil vom 06.07.2010 - 5 StR 386/09](5-str-386-09.md) — Die nach extrakorporaler Befruchtung beabsichtigte Präimplantationsdiagnostik mittels Blastozystenbiopsie und anschließender Untersuchung der entnommenen plurip
+- [BGH, Beschluss vom 05.07.2010 - 5 StR 156/10](5-str-156-10.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Beweiswürdigung und Urteilsfeststellungen bei Überführung des Täters durch die am Rau
+- [BGH, Beschluss vom 05.07.2010 - 5 StR 84/10](5-str-84-10.md) — Prüfung der Strafrahmenmilderung wegen Versuchs: Alleiniges Abstellen auf das deliktische Nachtatverhalten
+- [BGH, Beschluss vom 17.06.2010 - 5 StR 114/10](5-str-114-10.md) — Strafvereitelung: Vereitelung einer vollstreckungssichernden Maßnahme der Strafprozessordnung
+- [BGH, Beschluss vom 17.06.2010 - 5 StR 206/10](5-str-206-10.md) — Besonders schwerer Raub: Doppelte Milderung des Regelstrafrahmens oder Annahme eines minder schweren Falles
+- [BGH, Beschluss vom 02.06.2010 - 5 StR 171/10](5-str-171-10.md) — Erheblichkeit der Verminderung der Schuldfähigkeit: Beurteilung der Auswirkungen der Intelligenzminderung des Angeklagten durch das Tatgericht
+- [BGH, Beschluss vom 02.06.2010 - 5 StR 42/10](5-str-42-10.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Täterschaft des Zwischenhändlers und des Vermittlers; Wesentlichkeit der Aufklärungshilfe
+- [BGH, Beschluss vom 20.05.2010 - 5 StR 104/10](5-str-104-10.md) — Schuldfähigkeit: Devianz als schwere andere seelische Abartigkeit; Anzeichen für eine überdurchschnittliche Triebanomalie
+- [BGH, Beschluss vom 20.05.2010 - 5 StR 138/10](5-str-138-10.md) — Subventionsbetrug: Leichtfertiges Handeln des primär für den Subventionsantrag nicht zuständigen Mitgeschäftsführers
+- [BGH, Beschluss vom 19.05.2010 - 5 StR 132/10](5-str-132-10.md) — Strafzumessung: Versagung der Strafrahmenverschiebung beim versuchten Mord wegen Erfolgsnähe
+- [BGH, Beschluss vom 19.05.2010 - 5 StR 182/10](5-str-182-10.md) — 1. § 46b StGB ist auch auf das Opfer einer in § 46b Abs. 1 Satz 1 Nr. 1 StGB i.V.m. § 100a Abs. 2 StPO bezeichneten Tat anwendbar . 2. Zur Ermessensausübung im 
+- [BGH, Urteil vom 19.05.2010 - 5 StR 464/09](5-str-464-09.md) — Eine Verurteilung wegen Nichtanzeige geplanter Straftaten wird nicht dadurch ausgeschlossen, dass der Verdacht der Beteiligung an einer in § 138 Abs. 1 und 2 St
+- [BGH, Beschluss vom 18.05.2010 - 5 StR 143/10](5-str-143-10.md) — Sukzessive Mittäterschaft: Erforderlichkeit eines Beitrags zu einer aktiven Tatbestandsverwirklichung
+- [BGH, Beschluss vom 18.05.2010 - 5 StR 51/10](5-str-51-10.md) — Verwertungsverbot für verdecktes Verhör eines inhaftierten Beschuldigten durch einen als Besucher getarnten nicht offen ermittelnden Polizeibeamten unter Zwangs
+- [BGH, Beschluss vom 17.05.2010 - 5 StR 161/10](5-str-161-10.md) — Rechtsmittelbefugnis des Nebenklägers: Anfechtung der unterbliebenen Anordnung der Sicherungsverwahrung
+- [BGH, Urteil vom 29.04.2010 - 5 StR 18/10](5-str-18-10.md) — Zur Verantwortlichkeit eines im Beweissicherungsdienst tätigen Arztes für tödlich verlaufenen Brechmitteleinsatz gegen Drogen-Kleindealer .
+- [BGH, Beschluss vom 28.04.2010 - 5 StR 135/10](5-str-135-10.md) — Jugendstrafverfahren wegen versuchten Totschlags: Verminderte Schuldfähigkeit bei Schwachsinn und Störung der Impulskontrolle; Berechnung der Blutalkoholkonzent
+- [BGH, Beschluss vom 28.04.2010 - 5 StR 136/10](5-str-136-10.md) — Geldwäsche: Anordnung der Einziehung von Wertersatz gegenüber tatbeteiligten Nichteigentümern
+- [BGH, Beschluss vom 28.04.2010 - 5 StR 487/09](5-str-487-09.md) — Nebenklage: Beweisanträge des Nebenklägers
+- [BGH, Beschluss vom 27.04.2010 - 5 StR 460/08](5-str-460-08.md) — Zulässigkeit der Verfahrensrüge der fortdauernden Abwesenheit des Angeklagten während der Verhandlung über die Entlassung eines Zeugen: Folgen der Nichtbeanstan
+- [BGH, Beschluss vom 15.04.2010 - 5 StR 75/10](5-str-75-10.md) — Brandstiftung und Herbeiführen einer Sprengstoffexplosion: Vorsatz im Zeitpunkt der Tathandlung
+- [BGH, Beschluss vom 15.04.2010 - 5 StR 96/10](5-str-96-10.md) — Strafverfahren wegen gewerbsmäßigen Betruges: Absehen von der Entscheidung über eine Vielzahl von Adhäsionsanträgen in einer Haftsache
+- [BGH, Beschluss vom 14.04.2010 - 5 StR 122/10](5-str-122-10.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Vorliegen der Eigennützigkeit bei täterschaftlichem Handeltreiben
+- [BGH, Beschluss vom 14.04.2010 - 5 StR 123/10](5-str-123-10.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung der Schuldunfähigkeit bei Begehung der Anlasstat und der Gefäh
+- [BGH, Beschluss vom 14.04.2010 - 5 StR 72/10](5-str-72-10.md) — Strafbare Untreue: Vermögensnachteil für die Aktiengesellschaft bei Übertragung einer Lebensversicherung auf ein Vorstandsmitglied
+- [BGH, Beschluss vom 13.04.2010 - 5 StR 113/10](5-str-113-10.md) — Versuchter Totschlag: Versagung der Strafmilderung wegen Nähe zur Tatvollendung
+- [BGH, Urteil vom 13.04.2010 - 5 StR 428/09](5-str-428-09.md) — Strafbare Untreue: Notwendige Feststellungen bei Untreuevorwurf gegen den "Director" einer auf den britischen Virgin Islands ansässigen Limited zum Nachteil der
+- [BGH, Beschluss vom 08.04.2010 - 5 StR 491/09](5-str-491-09.md) — Strafverfahren wegen schweren Parteiverrates: Rückwirkungsverbot bei Rechtsprechungsänderung
+- [BGH, Beschluss vom 25.03.2010 - 5 StR 518/09](5-str-518-09.md) — Strafverfahren u.a. wegen Geldwäsche: Ausschluss der Einziehung der Tatbeute wegen Ansprüchen des Verletzten
+- [BGH, Beschluss vom 25.03.2010 - 5 StR 83/10](5-str-83-10.md) — Sexueller Kindesmissbrauch: Anforderungen an die Beweiswürdigung und die Urteilsfeststellungen bei Serienstraftaten
+- [BGH, Urteil vom 23.03.2010 - 5 StR 556/09](5-str-556-09.md) — Jugendstrafverfahren: Bemessung der Jugendstrafe bei schwerer Schuld und erheblichem Therapie- und Erziehungsbedarf
+- [BGH, Beschluss vom 23.03.2010 - 5 StR 7/10](5-str-7-10.md) — Urkundenfälschung: Abgrenzung zwischen einer falschen Urkunde und einer schriftlichen Lüge
+- [BGH, Urteil vom 10.03.2010 - 5 StR 503/09](5-str-503-09.md) — Verfolgungsentschädigung für einstweilige Unterbringung eines schuldunfähigen Straftäters: Maß des vom Betroffenen erlittenen Sonderopfers
+- [BGH, Beschluss vom 25.02.2010 - 5 StR 542/09](5-str-542-09.md) — Setzt der Täter, vom Opfer wahrgenommen, nach Vollendung, aber noch vor Beendigung der Raubtat eine Waffe oder ein anderes gefährliches Werkzeug mit dem Ziel we
+- [BGH, Beschluss vom 24.02.2010 - 5 StR 13/10](5-str-13-10.md) — Gesamtstrafenbildung: Nachholung der unterbliebenen Festsetzung der Einzelstrafen durch das Revisionsgericht
+- [BGH, Beschluss vom 24.02.2010 - 5 StR 23/10](5-str-23-10.md) — Strafverfahren: Revisionsrüge wegen Nichtverbescheidung des Antrags auf Pflichtverteidigerwechsel bei förmlicher Verständigung unter Mitwirkung des bisherigen P
+- [BGH, Beschluss vom 24.02.2010 - 5 StR 38/10](5-str-38-10.md) — Zurückverweisung einer Strafsache durch das Revisionsgericht: Verschlechterungsverbots nach einer verständigten Strafobergrenze
+- [BGH, Beschluss vom 23.02.2010 - 5 StR 27/10](5-str-27-10.md) — Strafverurteilung zu zeitiger Freiheitsstrafe und Maßregelanordnung: Obsoletwerden der Anordnung eines Teilvorwegvollzugs
+- [BGH, Beschluss vom 23.02.2010 - 5 StR 548/09](5-str-548-09.md) — Strafverfahren: Beweisantrag ohne konkrete Beweisbehauptung und Aufklärungspflicht des Gerichts
+- [BGH, Urteil vom 10.02.2010 - 5 StR 328/09](5-str-328-09.md) — Zum Bestimmen im Sinne des § 181a Abs. 1 Nr. 2 StGB bei freiwilliger Ausübung der Straßenprostitution .
+- [BGH, Beschluss vom 28.01.2010 - 5 StR 169/09](5-str-169-09.md) — Strafverfahren: Beweis des Protokolls für die Kenntnisnahme der Richter von einem Prüfbericht in Tabellenform im Selbstleseverfahren
+- [BGH, Beschluss vom 28.01.2010 - 5 StR 524/09](5-str-524-09.md) — Freie Beweiswürdigung im Strafverfahren: Glaubwürdigkeit eines vorbestraften Belastungszeugen; Würdigung einer Aussage als nur teilweise glaubhaft
+- [BGH, Beschluss vom 28.01.2010 - 5 StR 541/09](5-str-541-09.md) — Gesamtstrafenbildung bei einer Serientat: Begründung der erheblichen Überschreitung der Einsatzstrafe
+- [BGH, Beschluss vom 28.01.2010 - 5 StR 552/09](5-str-552-09.md) — Hinweis auf die Änderung des rechtlichen Gesichtspunkts: Verfahrensfehlerhaftes Unterbleiben eines Hinweises auf die mögliche Unterbringung in einem psychiatris
+- [BGH, Beschluss vom 27.01.2010 - 5 StR 224/09](5-str-224-09.md) — 1. Ausnutzen einer Insidertatsache . 2. Bei verbotenen Insidergeschäften stellt der hierdurch erzielte Sondervorteil das Erlangte im Sinne des § 73 Abs. 1 Satz 
+- [BGH, Beschluss vom 27.01.2010 - 5 StR 254/09](5-str-254-09.md) — Ausschluss der Verfallsanordnung nach Insiderhandel: Deliktischer Anspruch eines Dritten aus der Tat
+- [BGH, Beschluss vom 27.01.2010 - 5 StR 432/09](5-str-432-09.md) — Eine ausländische Vorverurteilung, die an innerstaatlichen Maßstäben gemessen gesamtstrafenfähig wäre, ist im Rahmen der allgemeinen Strafzumessung mit Blick au
+- [BGH, Beschluss vom 27.01.2010 - 5 StR 488/09](5-str-488-09.md) — Urkundenfälschung: Telekopie und Ausdruck einer Computerdatei als Urkunde
+- [BGH, Beschluss vom 26.01.2010 - 5 StR 478/09](5-str-478-09.md) — Zum Härteausgleich für entgangene Bewährung durch Anwendung des Vollstreckungsmodells .
+- [BGH, Beschluss vom 26.01.2010 - 5 StR 507/09](5-str-507-09.md) — Gesamtstrafenbildung: Aufhebung der Gesamtstrafe wegen des engen Zusammenhangs mit aufgehobenen Einsatzstrafen
+- [BGH, Beschluss vom 26.01.2010 - 5 StR 509/09](5-str-509-09.md) — Betäubungsmitteleinfuhr: Vollendete Einfuhr zum Weitertransport ins Ausland bestimmter inkorporierter Betäubungsmittel und Strafzumessung bei einem Ersttäter
+- [BGH, Beschluss vom 26.01.2010 - 5 StR 520/09](5-str-520-09.md) — Jugendstrafverfahren wegen Totschlags: Berücksichtigung des Atemalkoholwerts bei der Beweiswürdigung bezüglich eines Nachtrunks und der unterbliebenen Unterbrin
+- [BGH, Beschluss vom 26.01.2010 - 5 StR 528/09](5-str-528-09.md) — Strafverfahren: Beruhen des Urteils auf Bekundungen des als Zeuge vernommenen Sachverständigen ohne entsprechende Belehrung
+- [BGH, Beschluss vom 13.01.2010 - 5 StR 506/09](5-str-506-09.md) — Verabredung zu einem Verbrechen: Mittäterschaft oder Beihilfe bei Fahren eines Fluchtfahrzeugs; Freiwilligkeit des Rücktritts
+- [BGH, Beschluss vom 13.01.2010 - 5 StR 510/09](5-str-510-09.md) — Strafrahmenverschiebung bei alkoholbedingter erheblich verminderter Schuldfähigkeit; Erfolgsaussicht bei Unterbringung in einer Entziehungsanstalt

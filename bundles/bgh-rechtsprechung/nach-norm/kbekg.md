@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu KBekG"
 description: "BGH-Entscheidungen zu KBekG, geordnet nach Vorschrift."
 tags: [register, navigation, kbekg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des KBekG auslege
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 46 KBekG | [BGH, Beschluss vom 15.03.2022 - 4 StR 202/21](../entscheidungen/4-strafsenat/2022/4-str-202-21.md) |
+| § KBekG | [BGH, Beschluss vom 15.03.2022 - 4 StR 202/21](../entscheidungen/4-strafsenat/2022/4-str-202-21.md) |

@@ -1,0 +1,326 @@
+# 2. Strafsenat – 2024
+
+322 Entscheidung(en).
+
+- [BGH, Beschluss vom 30.12.2024 - 2 StR 350/24](2-str-350-24.md) — BGH, Beschluss 2 StR 350/24
+- [BGH, Beschluss vom 19.12.2024 - 2 StR 389/24](2-str-389-24.md) — Verfahrensfehler im Strafverfahren: Beruhen des Urteils auf fehlender Vereidigung des Dolmetschers
+- [BGH, Beschluss vom 19.12.2024 - 2 StR 534/24](2-str-534-24.md) — Gesamtstrafenbildung nach Straferlass wegen Cannabisbesitz; Zäsurwirkung und Einbeziehungsfähigkeit
+- [BGH, Beschluss vom 18.12.2024 - 2 StR 19/24](2-str-19-24.md) — Strafzumessung bei bandenmäßigem Handeltreiben mit Betäubungsmitteln in nicht geringer Menge und Einfluss der Einziehungsentscheidung
+- [BGH, Urteil vom 18.12.2024 - 2 StR 272/24](2-str-272-24.md) — BGH, Urteil 2 StR 272/24
+- [BGH, Urteil vom 18.12.2024 - 2 StR 297/24](2-str-297-24.md) — BGH, Urteil 2 StR 297/24
+- [BGH, Beschluss vom 18.12.2024 - 2 StR 500/24](2-str-500-24.md) — Strafsache: Voraussetzungen der Gewerbsmäßigkeit des Menschenhandels
+- [BGH, Beschluss vom 18.12.2024 - 2 StR 567/24](2-str-567-24.md) — BGH, Beschluss 2 StR 567/24
+- [BGH, Beschluss vom 17.12.2024 - 2 StR 571/24](2-str-571-24.md) — BGH, Beschluss 2 StR 571/24
+- [BGH, Beschluss vom 05.12.2024 - 2 StR 300/24](2-str-300-24.md) — BGH, Beschluss 2 StR 300/24
+- [BGH, Beschluss vom 05.12.2024 - 2 StR 347/24](2-str-347-24.md) — Beweiswürdigung bei DNA-Mischspur; Anforderungen an Wahrscheinlichkeitsaussage und Vergleichspopulation
+- [BGH, Beschluss vom 05.12.2024 - 2 StR 399/24](2-str-399-24.md) — BGH, Beschluss 2 StR 399/24
+- [BGH, Beschluss vom 05.12.2024 - 2 StR 549/24](2-str-549-24.md) — BGH, Beschluss 2 StR 549/24
+- [BGH, Beschluss vom 04.12.2024 - 2 StR 276/24](2-str-276-24.md) — BGH, Beschluss 2 StR 276/24
+- [BGH, Beschluss vom 04.12.2024 - 2 StR 352/23](2-str-352-23.md) — Betrug: Vorliegen eines Vermögensschadens bei irrtumsbedingter Weiterleitung von Maklerprovisionen an einen Untermakler
+- [BGH, Urteil vom 04.12.2024 - 2 StR 352/24](2-str-352-24.md) — Mord: Schuldfähigkeit beim Zusammenspiel mit kombinierter Persönlichkeitsstörung, Alkoholmissbrauch und Triggerreiz; Wegfall der Arglosigkeit wegen früherer Bed
+- [BGH, Beschluss vom 04.12.2024 - 2 StR 472/23](2-str-472-23.md) — Strafzumessung bei Drogendelikten: Berücksichtigung einer überlangen Verfahrensdauer bei der Zumessung der Einzelstrafen
+- [BGH, Beschluss vom 04.12.2024 - 2 StR 491/24](2-str-491-24.md) — Darstellungspflichten bei DNA-Mischspuren und Maßstab für die Wertermittlung bei Einziehung und Strafzumessung
+- [BGH, Beschluss vom 03.12.2024 - 2 ARs 326/24](2-ars-326-24.md) — BGH, Beschluss 2 ARs 326/24
+- [BGH, Beschluss vom 03.12.2024 - 2 ARs 432/24](2-ars-432-24.md) — Örtliche Zuständigkeit für Widerruf von Strafaussetzung
+- [BGH, Beschluss vom 03.12.2024 - 2 StR 196/24](2-str-196-24.md) — BGH, Beschluss 2 StR 196/24
+- [BGH, Beschluss vom 03.12.2024 - 2 StR 315/24](2-str-315-24.md) — BGH, Beschluss 2 StR 315/24
+- [BGH, Beschluss vom 03.12.2024 - 2 StR 381/24](2-str-381-24.md) — Verurteilung wegen versuchten Mordes: Darlegungsanforderungen an Zeitpunkt des unmittelbaren Ansetzens; Duldung einer Nötigungshandlung
+- [BGH, Beschluss vom 03.12.2024 - 2 StR 434/23](2-str-434-23.md) — Bandenmäßige Verbreitung kinderpornographischer Inhalte durch Plattformbetrieb im Darknet; Anforderungen an die Einziehungsentscheidung
+- [BGH, Beschluss vom 03.12.2024 - 2 StR 524/24](2-str-524-24.md) — BGH, Beschluss 2 StR 524/24
+- [BGH, Beschluss vom 21.11.2024 - 2 StR 318/24](2-str-318-24.md) — BGH, Beschluss 2 StR 318/24
+- [BGH, Beschluss vom 21.11.2024 - 2 StR 443/24](2-str-443-24.md) — BGH, Beschluss 2 StR 443/24
+- [BGH, Beschluss vom 21.11.2024 - 2 StR 449/24](2-str-449-24.md) — BGH, Beschluss 2 StR 449/24
+- [BGH, Beschluss vom 21.11.2024 - 2 StR 453/24](2-str-453-24.md) — BGH, Beschluss 2 StR 453/24
+- [BGH, Beschluss vom 21.11.2024 - 2 StR 503/24](2-str-503-24.md) — Grenzen der Notwehr bei gefährlicher Körperverletzung mit einem Messer
+- [BGH, Beschluss vom 20.11.2024 - 2 ARs 306/24](2-ars-306-24.md) — BGH, Beschluss 2 ARs 306/24
+- [BGH, Beschluss vom 20.11.2024 - 2 ARs 385/24](2-ars-385-24.md) — BGH, Beschluss 2 ARs 385/24
+- [BGH, Beschluss vom 20.11.2024 - 2 ARs 421/24](2-ars-421-24.md) — BGH, Beschluss 2 ARs 421/24
+- [BGH, Urteil vom 20.11.2024 - 2 StR 170/24](2-str-170-24.md) — Sichverschaffens jugendpornographischer Inhalte durch Aufnahme eines unbekleideten Körpers; versuchte Vergewaltigung durch Aufforderung zur Übersendung einer Vi
+- [BGH, Beschluss vom 20.11.2024 - 2 StR 230/24](2-str-230-24.md) — BGH, Beschluss 2 StR 230/24
+- [BGH, Urteil vom 20.11.2024 - 2 StR 371/24](2-str-371-24.md) — Darlegungsanforderungen in Urteil an Täter-Opfer-Ausgleich im Rahmen eines Verfahrens wegen versuchten Totschlags
+- [BGH, Urteil vom 20.11.2024 - 2 StR 54/24](2-str-54-24.md) — Beurteilung der Rechtsbeugung durch Familienrichter im Zusammenhang mit der Maskenpflicht an Schulen im Rahmen der COVID-19-Schutzmaßnahmen
+- [BGH, Beschluss vom 19.11.2024 - 2 StR 325/24](2-str-325-24.md) — Zulässige Revisionsbeschränkung bei Maßregelvollzug; Berechnung der Dauer des Vorwegvollzugs
+- [BGH, Beschluss vom 19.11.2024 - 2 StR 345/24](2-str-345-24.md) — BGH, Beschluss 2 StR 345/24
+- [BGH, Beschluss vom 19.11.2024 - 2 StR 414/23](2-str-414-23.md) — BGH, Beschluss 2 StR 414/23
+- [BGH, Beschluss vom 19.11.2024 - 2 StR 498/24](2-str-498-24.md) — BGH, Beschluss 2 StR 498/24
+- [BGH, Beschluss vom 07.11.2024 - 2 StR 420/24](2-str-420-24.md) — BGH, Beschluss 2 StR 420/24
+- [BGH, Beschluss vom 07.11.2024 - 2 StR 450/23](2-str-450-23.md) — BGH, Beschluss 2 StR 450/23
+- [BGH, Beschluss vom 07.11.2024 - 2 StR 470/24](2-str-470-24.md) — BGH, Beschluss 2 StR 470/24
+- [BGH, Urteil vom 06.11.2024 - 2 StR 176/24](2-str-176-24.md) — Tötungsvorsatz unter Alkoholeinfluss bei stark geistig eingeschränktem Täter
+- [BGH, Beschluss vom 06.11.2024 - 2 StR 290/24](2-str-290-24.md) — Aussage-gegen-Aussage-Konstellation bei Tatvorwurf der Vergewaltigung; Anwendung des Jugendstrafrechts und Bemessung einer Jugendstrafe
+- [BGH, Beschluss vom 05.11.2024 - 2 StR 234/24](2-str-234-24.md) — BGH, Beschluss 2 StR 234/24
+- [BGH, Beschluss vom 05.11.2024 - 2 StR 388/24](2-str-388-24.md) — BGH, Beschluss 2 StR 388/24
+- [BGH, Beschluss vom 05.11.2024 - 2 StR 488/24](2-str-488-24.md) — BGH, Beschluss 2 StR 488/24
+- [BGH, Beschluss vom 05.11.2024 - 2 StR 509/24](2-str-509-24.md) — BGH, Beschluss 2 StR 509/24
+- [BGH, Beschluss vom 04.11.2024 - 2 StR 421/24](2-str-421-24.md) — BGH, Beschluss 2 StR 421/24
+- [BGH, Beschluss vom 04.11.2024 - 2 StR 441/24](2-str-441-24.md) — Bewertung von Cannabisstecklingen im Hinblick auf Handeltreiben mit Cannabis
+- [BGH, Beschluss vom 04.11.2024 - 2 StR 461/24](2-str-461-24.md) — Betäubungsmitteldelikt: Konkurrenzverhältnis bei mittäterschaftlicher Deliktsserie; Einziehung des Wertes von Taterträgen
+- [BGH, Beschluss vom 24.10.2024 - 2 StR 229/24](2-str-229-24.md) — BGH, Beschluss 2 StR 229/24
+- [BGH, Beschluss vom 24.10.2024 - 2 StR 474/24](2-str-474-24.md) — Unterbringung in einen psychiatrischen Krankenhaus: Verstoß gegen Weisungen im Führungsaufsichtsbeschluss
+- [BGH, Beschluss vom 23.10.2024 - 2 ARs 179/24](2-ars-179-24.md) — 1. Zuständig für die Entscheidungen nach Art. 316p in Verbindung mit Art. 313 EGStGB ist nicht die Strafvollstreckungskammer, sondern stets das Gericht des erst
+- [BGH, Beschluss vom 23.10.2024 - 2 ARs 270/24](2-ars-270-24.md) — BGH, Beschluss 2 ARs 270/24
+- [BGH, Beschluss vom 23.10.2024 - 2 ARs 347/24](2-ars-347-24.md) — BGH, Beschluss 2 ARs 347/24
+- [BGH, Beschluss vom 23.10.2024 - 2 StR 145/24](2-str-145-24.md) — Schuldspruch wegen Handeltreibens mit Betäubungsmitteln bzw. Cannabis in nicht geringer Menge; Einziehung des Wertes von Taterträgen
+- [BGH, Urteil vom 23.10.2024 - 2 StR 186/24](2-str-186-24.md) — BGH, Urteil 2 StR 186/24
+- [BGH, Beschluss vom 23.10.2024 - 2 StR 193/24](2-str-193-24.md) — Schuldspruch wegen Vergewaltigung und besonders schwerer Vergewaltigung; Auswirkung einer Teilverjährung auf Strafausspruch
+- [BGH, Beschluss vom 23.10.2024 - 2 StR 309/24](2-str-309-24.md) — BGH, Beschluss 2 StR 309/24
+- [BGH, Beschluss vom 23.10.2024 - 2 StR 361/24](2-str-361-24.md) — Konkurrenzen bei Versand von Betäubungsmitteln; Ausfuhr von Betäubungsmitteln und Cannabis
+- [BGH, Beschluss vom 23.10.2024 - 2 StR 401/24](2-str-401-24.md) — Notwendige Darlegungen eines Gerichts bei minder schwerem Fall des Totschlags; strafmildernde Provokation bei eigener Schuld des Täters
+- [BGH, Beschluss vom 23.10.2024 - 2 StR 411/24](2-str-411-24.md) — Strafverurteilung wegen Herstellens von Cannabis u.a.: Herstellung durch die Ernte von Marihuanapflanzen
+- [BGH, Beschluss vom 22.10.2024 - 2 StR 117/23](2-str-117-23.md) — BGH, Beschluss 2 StR 117/23
+- [BGH, Beschluss vom 22.10.2024 - 2 StR 240/24](2-str-240-24.md) — BGH, Beschluss 2 StR 240/24
+- [BGH, Beschluss vom 22.10.2024 - 2 StR 370/24](2-str-370-24.md) — BGH, Beschluss 2 StR 370/24
+- [BGH, Beschluss vom 22.10.2024 - 2 StR 457/24](2-str-457-24.md) — Strafzumessung bei gleichzeitigem Vorliegen allgemeiner und gesetzlich vertypter Strafmilderungsgründe
+- [BGH, Beschluss vom 22.10.2024 - 2 StR 467/24](2-str-467-24.md) — BGH, Beschluss 2 StR 467/24
+- [BGH, Beschluss vom 10.10.2024 - 2 StR 295/24](2-str-295-24.md) — BGH, Beschluss 2 StR 295/24
+- [BGH, Beschluss vom 10.10.2024 - 2 StR 297/23](2-str-297-23.md) — BGH, Beschluss 2 StR 297/23
+- [BGH, Beschluss vom 10.10.2024 - 2 StR 387/24](2-str-387-24.md) — BGH, Beschluss 2 StR 387/24
+- [BGH, Beschluss vom 10.10.2024 - 2 StR 448/23](2-str-448-23.md) — BGH, Beschluss 2 StR 448/23
+- [BGH, Urteil vom 09.10.2024 - 2 StR 103/24](2-str-103-24.md) — BGH, Urteil 2 StR 103/24
+- [BGH, Beschluss vom 09.10.2024 - 2 StR 182/24](2-str-182-24.md) — BGH, Beschluss 2 StR 182/24
+- [BGH, Urteil vom 09.10.2024 - 2 StR 515/23](2-str-515-23.md) — Notwendige Darlegungen des Gerichts bei Absehen von Unterbringung in Sicherungsverwahrung bei Sexualstraftaten
+- [BGH, Beschluss vom 08.10.2024 - 2 StR 313/24](2-str-313-24.md) — BGH, Beschluss 2 StR 313/24
+- [BGH, Beschluss vom 08.10.2024 - 2 StR 351/24](2-str-351-24.md) — Versuchsstadium bei erpresserischem Menschenraub; Anforderungen an das unmittelbare Ansetzen zur räuberischen Erpressung
+- [BGH, Beschluss vom 08.10.2024 - 2 StR 366/24](2-str-366-24.md) — BGH, Beschluss 2 StR 366/24
+- [BGH, Beschluss vom 08.10.2024 - 2 StR 384/24](2-str-384-24.md) — BGH, Beschluss 2 StR 384/24
+- [BGH, Beschluss vom 08.10.2024 - 2 StR 433/24](2-str-433-24.md) — BGH, Beschluss 2 StR 433/24
+- [BGH, Beschluss vom 08.10.2024 - 2 StR 476/24](2-str-476-24.md) — BGH, Beschluss 2 StR 476/24
+- [BGH, Beschluss vom 04.10.2024 - 2 StR 357/24](2-str-357-24.md) — BGH, Beschluss 2 StR 357/24
+- [BGH, Beschluss vom 26.09.2024 - 2 StR 199/24](2-str-199-24.md) — BGH, Beschluss 2 StR 199/24
+- [BGH, Beschluss vom 25.09.2024 - 2 StR 179/24](2-str-179-24.md) — Betäubungsmitteldelikt: Strafrahmen bei bewaffnetem Handeltreiben mit Cannabis
+- [BGH, Beschluss vom 25.09.2024 - 2 StR 219/24](2-str-219-24.md) — BGH, Beschluss 2 StR 219/24
+- [BGH, Urteil vom 25.09.2024 - 2 StR 222/24](2-str-222-24.md) — Bedingter Vorsatz bei Brandstiftung unter hochgradiger Alkoholisierung; Voraussetzungen der Anordnung der Unterbringung in einer Entziehungsanstalt
+- [BGH, Beschluss vom 25.09.2024 - 2 StR 223/24](2-str-223-24.md) — BGH, Beschluss 2 StR 223/24
+- [BGH, Beschluss vom 24.09.2024 - 2 StR 146/24](2-str-146-24.md) — BGH, Beschluss 2 StR 146/24
+- [BGH, Beschluss vom 24.09.2024 - 2 StR 270/24](2-str-270-24.md) — BGH, Beschluss 2 StR 270/24
+- [BGH, Beschluss vom 24.09.2024 - 2 StR 285/24](2-str-285-24.md) — BGH, Beschluss 2 StR 285/24
+- [BGH, Beschluss vom 24.09.2024 - 2 StR 422/24](2-str-422-24.md) — BGH, Beschluss 2 StR 422/24
+- [BGH, Beschluss vom 24.09.2024 - 2 StR 473/23](2-str-473-23.md) — BGH, Beschluss 2 StR 473/23
+- [BGH, Beschluss vom 11.09.2024 - 2 StR 119/24](2-str-119-24.md) — BGH, Beschluss 2 StR 119/24
+- [BGH, Beschluss vom 11.09.2024 - 2 StR 139/24](2-str-139-24.md) — Zeitpunkt des Tatentschlusses zur Wegnahme bei räuberischer Erpressung
+- [BGH, Beschluss vom 11.09.2024 - 2 StR 327/24](2-str-327-24.md) — BGH, Beschluss 2 StR 327/24
+- [BGH, Beschluss vom 11.09.2024 - 2 StR 331/24](2-str-331-24.md) — Verstoß gegen Verbot der Schlechterstellung bei Verhängung einer höheren Einzelstrafe als im ersten Rechtsgang
+- [BGH, Beschluss vom 11.09.2024 - 2 StR 340/23](2-str-340-23.md) — Konkurrenzrechtliche Bewertung von Betrugsstraftaten bei Verkauf von Gegenständen über eBay Kleinanzeigen
+- [BGH, Urteil vom 11.09.2024 - 2 StR 498/23](2-str-498-23.md) — Beweiswürdigung bei Sexualdelikten; Bewertung von Indiztatsachen
+- [BGH, Urteil vom 11.09.2024 - 2 StR 521/23](2-str-521-23.md) — 1. Hat eine Revision der Nebenklage zum Schuldspruch Erfolg, gebietet der Grundsatz des fairen Verfahrens aus Art. 6 Abs. 1 Satz 1 EMRK, die Feststellungen über
+- [BGH, Beschluss vom 10.09.2024 - 2 ARs 322/24](2-ars-322-24.md) — BGH, Beschluss 2 ARs 322/24
+- [BGH, Beschluss vom 10.09.2024 - 2 StR 364/24](2-str-364-24.md) — BGH, Beschluss 2 StR 364/24
+- [BGH, Beschluss vom 10.09.2024 - 2 StR 402/24](2-str-402-24.md) — BGH, Beschluss 2 StR 402/24
+- [BGH, Beschluss vom 10.09.2024 - 2 StR 459/23](2-str-459-23.md) — BGH, Beschluss 2 StR 459/23
+- [BGH, Beschluss vom 09.09.2024 - 2 StR 211/24](2-str-211-24.md) — Notwehr: Einschränkung des Nothilferechts zugunsten des Angegriffenen bei zuvor provoziertem Angriff
+- [BGH, Beschluss vom 09.09.2024 - 2 StR 243/24](2-str-243-24.md) — BGH, Beschluss 2 StR 243/24
+- [BGH, Beschluss vom 09.09.2024 - 2 StR 251/24](2-str-251-24.md) — BGH, Beschluss 2 StR 251/24
+- [BGH, Beschluss vom 09.09.2024 - 2 StR 279/24](2-str-279-24.md) — BGH, Beschluss 2 StR 279/24
+- [BGH, Beschluss vom 09.09.2024 - 2 StR 342/24](2-str-342-24.md) — BGH, Beschluss 2 StR 342/24
+- [BGH, Beschluss vom 09.09.2024 - 2 StR 431/23](2-str-431-23.md) — Revision in Strafsachen: Unvereidigter Dolmetscher in der Hauptverhandlung
+- [BGH, Beschluss vom 09.09.2024 - 2 StR 87/24](2-str-87-24.md) — BGH, Beschluss 2 StR 87/24
+- [BGH, Beschluss vom 29.08.2024 - 2 StR 231/24](2-str-231-24.md) — BGH, Beschluss 2 StR 231/24
+- [BGH, Beschluss vom 29.08.2024 - 2 StR 271/24](2-str-271-24.md) — BGH, Beschluss 2 StR 271/24
+- [BGH, Beschluss vom 29.08.2024 - 2 StR 280/24](2-str-280-24.md) — BGH, Beschluss 2 StR 280/24
+- [BGH, Beschluss vom 29.08.2024 - 2 StR 301/24](2-str-301-24.md) — BGH, Beschluss 2 StR 301/24
+- [BGH, Beschluss vom 29.08.2024 - 2 StR 382/24](2-str-382-24.md) — BGH, Beschluss 2 StR 382/24
+- [BGH, Beschluss vom 29.08.2024 - 2 StR 392/24](2-str-392-24.md) — BGH, Beschluss 2 StR 392/24
+- [BGH, Beschluss vom 29.08.2024 - 2 StR 471/23](2-str-471-23.md) — BGH, Beschluss 2 StR 471/23
+- [BGH, Beschluss vom 29.08.2024 - 2 StR 90/24](2-str-90-24.md) — Strafverurteilung wegen Computerbetrugs u.a.: Konkurrenzverhältnis bei Vornahme unberechtigter Geldüberweisungen durch den Mitarbeiter einer Sparkasse
+- [BGH, Beschluss vom 28.08.2024 - 2 StR 106/24](2-str-106-24.md) — Einziehung des Wertersatzes: Erlöschen des Rückgewähranspruchs des Verletzten bei Sicherstellung des Diebesguts
+- [BGH, Beschluss vom 28.08.2024 - 2 StR 129/24](2-str-129-24.md) — BGH, Beschluss 2 StR 129/24
+- [BGH, Beschluss vom 28.08.2024 - 2 StR 169/24](2-str-169-24.md) — BGH, Beschluss 2 StR 169/24
+- [BGH, Beschluss vom 28.08.2024 - 2 StR 215/24](2-str-215-24.md) — BGH, Beschluss 2 StR 215/24
+- [BGH, Beschluss vom 28.08.2024 - 2 StR 365/24](2-str-365-24.md) — BGH, Beschluss 2 StR 365/24
+- [BGH, Beschluss vom 28.08.2024 - 2 StR 405/23](2-str-405-23.md) — Auswirkung der Verfolgungsverjährung auf Einziehungsentscheidungen
+- [BGH, Beschluss vom 28.08.2024 - 2 StR 69/24](2-str-69-24.md) — Minder schwerer Fall von Totschlag bei Beendigung von Notwehrlage
+- [BGH, Beschluss vom 27.08.2024 - 2 ARs 165/24](2-ars-165-24.md) — BGH, Beschluss 2 ARs 165/24
+- [BGH, Beschluss vom 27.08.2024 - 2 ARs 229/24](2-ars-229-24.md) — BGH, Beschluss 2 ARs 229/24
+- [BGH, Beschluss vom 27.08.2024 - 2 ARs 237/24](2-ars-237-24.md) — Zuständiges Gericht für Überwachung einer weiteren Führungsaufsicht
+- [BGH, Beschluss vom 27.08.2024 - 2 ARs 285/24](2-ars-285-24.md) — BGH, Beschluss 2 ARs 285/24
+- [BGH, Beschluss vom 27.08.2024 - 2 StR 158/24](2-str-158-24.md) — BGH, Beschluss 2 StR 158/24
+- [BGH, Beschluss vom 27.08.2024 - 2 StR 164/24](2-str-164-24.md) — BGH, Beschluss 2 StR 164/24
+- [BGH, Beschluss vom 27.08.2024 - 2 StR 188/24](2-str-188-24.md) — BGH, Beschluss 2 StR 188/24
+- [BGH, Beschluss vom 27.08.2024 - 2 StR 288/24](2-str-288-24.md) — BGH, Beschluss 2 StR 288/24
+- [BGH, Beschluss vom 27.08.2024 - 2 StR 338/24](2-str-338-24.md) — BGH, Beschluss 2 StR 338/24
+- [BGH, Beschluss vom 27.08.2024 - 2 StR 387/23](2-str-387-23.md) — BGH, Beschluss 2 StR 387/23
+- [BGH, Beschluss vom 26.08.2024 - 2 ARs 191/24](2-ars-191-24.md) — BGH, Beschluss 2 ARs 191/24
+- [BGH, Beschluss vom 26.08.2024 - 2 ARs 203/24](2-ars-203-24.md) — BGH, Beschluss 2 ARs 203/24
+- [BGH, Beschluss vom 26.08.2024 - 2 ARs 253/24](2-ars-253-24.md) — BGH, Beschluss 2 ARs 253/24
+- [BGH, Beschluss vom 21.08.2024 - 2 ARs 147/24](2-ars-147-24.md) — BGH, Beschluss 2 ARs 147/24
+- [BGH, Beschluss vom 15.08.2024 - 2 StR 210/24](2-str-210-24.md) — BGH, Beschluss 2 StR 210/24
+- [BGH, Beschluss vom 14.08.2024 - 2 StR 159/24](2-str-159-24.md) — Darlegung der verhängten Einzelstrafen bei nachträglicher Bildung einer Gesamtstrafe
+- [BGH, Beschluss vom 14.08.2024 - 2 StR 225/24](2-str-225-24.md) — BGH, Beschluss 2 StR 225/24
+- [BGH, Beschluss vom 14.08.2024 - 2 StR 269/24](2-str-269-24.md) — Drogenkonsum als überwiegende Ursache für verfahrensgegenständliche Tat
+- [BGH, Beschluss vom 01.08.2024 - 2 ARs 198/24](2-ars-198-24.md) — BGH, Beschluss 2 ARs 198/24
+- [BGH, Vorlagebeschluss vom 01.08.2024 - 2 StR 107/24](2-str-107-24.md) — Vorlage an den Großen Senat für Strafsachen: Beurteilung der Strafbarkeit des Besitzes von Cannabis bei sowohl zum Handeltreiben als auch für den Eigenkonsum vo
+- [BGH, Beschluss vom 01.08.2024 - 2 StR 334/24](2-str-334-24.md) — BGH, Beschluss 2 StR 334/24
+- [BGH, Urteil vom 31.07.2024 - 2 StR 202/24](2-str-202-24.md) — BGH, Urteil 2 StR 202/24
+- [BGH, Beschluss vom 31.07.2024 - 2 StR 204/24](2-str-204-24.md) — Anbau, Herstellen und Handeltreiben von Cannabis
+- [BGH, Beschluss vom 31.07.2024 - 2 StR 44/24](2-str-44-24.md) — BGH, Beschluss 2 StR 44/24
+- [BGH, Beschluss vom 30.07.2024 - 2 ARs 67/24](2-ars-67-24.md) — BGH, Beschluss 2 ARs 67/24
+- [BGH, Beschluss vom 30.07.2024 - 2 ARs 99/24](2-ars-99-24.md) — BGH, Beschluss 2 ARs 99/24
+- [BGH, Beschluss vom 30.07.2024 - 2 StR 140/24](2-str-140-24.md) — BGH, Beschluss 2 StR 140/24
+- [BGH, Beschluss vom 30.07.2024 - 2 StR 279/23](2-str-279-23.md) — BGH, Beschluss 2 StR 279/23
+- [BGH, Beschluss vom 30.07.2024 - 2 StR 499/23](2-str-499-23.md) — BGH, Beschluss 2 StR 499/23
+- [BGH, Beschluss vom 30.07.2024 - 2 StR 71/24](2-str-71-24.md) — BGH, Beschluss 2 StR 71/24
+- [BGH, Beschluss vom 29.07.2024 - 2 ARs 152/24](2-ars-152-24.md) — BGH, Beschluss 2 ARs 152/24
+- [BGH, Beschluss vom 18.07.2024 - 2 StR 248/24](2-str-248-24.md) — Verbot der Schlechterstellung bei Zumessung von Einzelstrafen
+- [BGH, Beschluss vom 17.07.2024 - 2 ARs 184/24](2-ars-184-24.md) — BGH, Beschluss 2 ARs 184/24
+- [BGH, Beschluss vom 17.07.2024 - 2 ARs 210/24](2-ars-210-24.md) — BGH, Beschluss 2 ARs 210/24
+- [BGH, Beschluss vom 17.07.2024 - 2 ARs 220/24](2-ars-220-24.md) — Anwendbarkeit deutschen Strafrechts bei Geldwäsche
+- [BGH, Beschluss vom 17.07.2024 - 2 ARs 78/24](2-ars-78-24.md) — BGH, Beschluss 2 ARs 78/24
+- [BGH, Beschluss vom 17.07.2024 - 2 StR 127/24](2-str-127-24.md) — Strafbarkeit der Einfuhr und des Handeltreibens mit Cannabis; Einziehung eines mit Tatbeute erworbenen Surrogats
+- [BGH, Beschluss vom 17.07.2024 - 2 StR 218/24](2-str-218-24.md) — Strafverfahren wegen Diebstahls geringwertiger Sachen: Verfahrenshindernis bei fehlender Bejahung des besonderen öffentlichen Interesses
+- [BGH, Urteil vom 17.07.2024 - 2 StR 222/23](2-str-222-23.md) — Schuldspruch wegen schweren sexuellen Missbrauchs von Kindern in Tateinheit mit sexuellem Missbrauch widerstandsunfähiger Personen
+- [BGH, Beschluss vom 17.07.2024 - 2 StR 72/24](2-str-72-24.md) — BGH, Beschluss 2 StR 72/24
+- [BGH, Beschluss vom 16.07.2024 - 2 StR 263/24](2-str-263-24.md) — Strafaussetzung zur Bewährung: maßgebliche Abwägungskriterien bei Kriminalprognose
+- [BGH, Beschluss vom 16.07.2024 - 2 StR 412/23](2-str-412-23.md) — BGH, Beschluss 2 StR 412/23
+- [BGH, Beschluss vom 15.07.2024 - 2 StR 217/24](2-str-217-24.md) — BGH, Beschluss 2 StR 217/24
+- [BGH, Beschluss vom 15.07.2024 - 2 StR 292/24](2-str-292-24.md) — BGH, Beschluss 2 StR 292/24
+- [BGH, Beschluss vom 04.07.2024 - 2 StR 111/24](2-str-111-24.md) — BGH, Beschluss 2 StR 111/24
+- [BGH, Beschluss vom 04.07.2024 - 2 StR 121/24](2-str-121-24.md) — BGH, Beschluss 2 StR 121/24
+- [BGH, Beschluss vom 03.07.2024 - 2 StR 192/24](2-str-192-24.md) — BGH, Beschluss 2 StR 192/24
+- [BGH, Beschluss vom 03.07.2024 - 2 StR 213/24](2-str-213-24.md) — BGH, Beschluss 2 StR 213/24
+- [BGH, Urteil vom 03.07.2024 - 2 StR 28/24](2-str-28-24.md) — Beweiswürdigung zur Feststellung des Brandstiftungsvorsatzes
+- [BGH, Urteil vom 03.07.2024 - 2 StR 453/23](2-str-453-23.md) — Untreue: Nachteilsbegründung durch Schmiergeldzahlungen
+- [BGH, Beschluss vom 02.07.2024 - 2 ARs 185/24](2-ars-185-24.md) — BGH, Beschluss 2 ARs 185/24
+- [BGH, Beschluss vom 02.07.2024 - 2 StR 104/24](2-str-104-24.md) — BGH, Beschluss 2 StR 104/24
+- [BGH, Beschluss vom 02.07.2024 - 2 StR 147/24](2-str-147-24.md) — Eintritt der Strafverfolgungsverjährung; Darlegungsanforderungen bei Anordnung der Sicherungsverwahrung
+- [BGH, Beschluss vom 02.07.2024 - 2 StR 187/24](2-str-187-24.md) — Strafbarkeit bei gleichzeitigem Umgang mit Betäubungsmitteln und Cannabis
+- [BGH, Beschluss vom 02.07.2024 - 2 StR 484/23](2-str-484-23.md) — Sanktionierung beim Besitz von Marihuana zum Eigenkonsum; erweiterte Einziehung von nicht aus verfahrensgegenständlicher Tat erlangten Gegenständen
+- [BGH, Beschluss vom 20.06.2024 - 2 StR 449/23](2-str-449-23.md) — BGH, Beschluss 2 StR 449/23
+- [BGH, Urteil vom 19.06.2024 - 2 StR 2/24](2-str-2-24.md) — Anforderung an tatrichterliche Feststellungen zur Beweiswürdigung; Verstoß gegen Kognitionspflicht des Gerichts und Würdigung des Lebenssachverhalts
+- [BGH, Beschluss vom 19.06.2024 - 2 StR 39/24](2-str-39-24.md) — BGH, Beschluss 2 StR 39/24
+- [BGH, Urteil vom 19.06.2024 - 2 StR 479/23](2-str-479-23.md) — BGH, Urteil 2 StR 479/23
+- [BGH, Beschluss vom 19.06.2024 - 2 StR 99/24](2-str-99-24.md) — BGH, Beschluss 2 StR 99/24
+- [BGH, Beschluss vom 18.06.2024 - 2 StR 123/24](2-str-123-24.md) — BGH, Beschluss 2 StR 123/24
+- [BGH, Beschluss vom 18.06.2024 - 2 StR 195/24](2-str-195-24.md) — Addition der Beträge von Wertersatzeinziehungen aus früheren und aktuellem Verfahren
+- [BGH, Beschluss vom 18.06.2024 - 2 StR 205/24](2-str-205-24.md) — Sexueller Missbrauch von Kindern: Lückenhaftigkeit der Beweiswürdigung
+- [BGH, Beschluss vom 18.06.2024 - 2 StR 207/24](2-str-207-24.md) — BGH, Beschluss 2 StR 207/24
+- [BGH, Beschluss vom 18.06.2024 - 2 StR 216/24](2-str-216-24.md) — BGH, Beschluss 2 StR 216/24
+- [BGH, Beschluss vom 18.06.2024 - 2 StR 233/23](2-str-233-23.md) — BGH, Beschluss 2 StR 233/23
+- [BGH, Beschluss vom 18.06.2024 - 2 StR 522/23](2-str-522-23.md) — BGH, Beschluss 2 StR 522/23
+- [BGH, Beschluss vom 06.06.2024 - 2 ARs 85/24](2-ars-85-24.md) — Ausschließung des Verteidigers wegen Anstiftung zum Ausstellen unrichtiger Gesundheitszeugnisse
+- [BGH, Beschluss vom 06.06.2024 - 2 StR 180/24](2-str-180-24.md) — BGH, Beschluss 2 StR 180/24
+- [BGH, Beschluss vom 06.06.2024 - 2 StR 357/23](2-str-357-23.md) — BGH, Beschluss 2 StR 357/23
+- [BGH, Beschluss vom 06.06.2024 - 2 StR 50/24](2-str-50-24.md) — BGH, Beschluss 2 StR 50/24
+- [BGH, Beschluss vom 06.06.2024 - 2 StR 64/24](2-str-64-24.md) — BGH, Beschluss 2 StR 64/24
+- [BGH, Beschluss vom 05.06.2024 - 2 StR 157/24](2-str-157-24.md) — Untreuehandlung eines Rechtsanwalts durch Tilgung eigener Verbindlichkeiten mit für Mandanten bestimmten Geldern
+- [BGH, Beschluss vom 05.06.2024 - 2 StR 221/18](2-str-221-18.md) — BGH, Beschluss 2 StR 221/18
+- [BGH, Beschluss vom 05.06.2024 - 2 StR 397/23](2-str-397-23.md) — BGH, Beschluss 2 StR 397/23
+- [BGH, Beschluss vom 05.06.2024 - 2 StR 401/23](2-str-401-23.md) — BGH, Beschluss 2 StR 401/23
+- [BGH, Beschluss vom 05.06.2024 - 2 StR 508/23](2-str-508-23.md) — Unterbringung in psychiatrischem Krankenhaus bei latenter Psychose und Alkoholintoxikation
+- [BGH, Beschluss vom 04.06.2024 - 2 ARs 128/24](2-ars-128-24.md) — BGH, Beschluss 2 ARs 128/24
+- [BGH, Beschluss vom 04.06.2024 - 2 StR 101/24](2-str-101-24.md) — Konkurrenzverhältnis zwischen dem gleichzeitigen Besitz und dem Sichverschaffen jugendpornografischer Inhalte
+- [BGH, Beschluss vom 04.06.2024 - 2 StR 116/24](2-str-116-24.md) — BGH, Beschluss 2 StR 116/24
+- [BGH, Beschluss vom 04.06.2024 - 2 StR 126/24](2-str-126-24.md) — BGH, Beschluss 2 StR 126/24
+- [BGH, Beschluss vom 04.06.2024 - 2 StR 185/24](2-str-185-24.md) — BGH, Beschluss 2 StR 185/24
+- [BGH, Beschluss vom 04.06.2024 - 2 StR 416/23](2-str-416-23.md) — BGH, Beschluss 2 StR 416/23
+- [BGH, Beschluss vom 04.06.2024 - 2 StR 51/23](2-str-51-23.md) — Misstrauen in Unparteilichkeit des Richters; Mitwirkung des Vorsitzenden bei Urteil trotz Ablehnung wegen Besorgnis der Befangenheit; erforderliche Feststellung
+- [BGH, Beschluss vom 04.06.2024 - 2 StR 95/24](2-str-95-24.md) — BGH, Beschluss 2 StR 95/24
+- [BGH, Beschluss vom 22.05.2024 - 2 StR 24/24](2-str-24-24.md) — BGH, Beschluss 2 StR 24/24
+- [BGH, Urteil vom 22.05.2024 - 2 StR 348/23](2-str-348-23.md) — Verfahrensfehlerhafte Zurückweisung eines Hilfsbeweisantrags der Staatsanwaltschaft
+- [BGH, Beschluss vom 22.05.2024 - 2 StR 40/24](2-str-40-24.md) — BGH, Beschluss 2 StR 40/24
+- [BGH, Beschluss vom 22.05.2024 - 2 StR 41/24](2-str-41-24.md) — BGH, Beschluss 2 StR 41/24
+- [BGH, Beschluss vom 21.05.2024 - 2 StR 489/23](2-str-489-23.md) — Konkurrenzrechtliche Bewertung von Cannabis-Delikten
+- [BGH, Beschluss vom 21.05.2024 - 2 StR 519/23](2-str-519-23.md) — BGH, Beschluss 2 StR 519/23
+- [BGH, Beschluss vom 21.05.2024 - 2 StR 57/24](2-str-57-24.md) — Rücknahme eines Rechtsmittels bis zur Entscheidung über Rechtsmittel
+- [BGH, Beschluss vom 16.05.2024 - 2 StR 487/23](2-str-487-23.md) — BGH, Beschluss 2 StR 487/23
+- [BGH, Beschluss vom 16.05.2024 - 2 StR 528/23](2-str-528-23.md) — Wirksamkeit des Eröffnungsbeschlusses
+- [BGH, Beschluss vom 15.05.2024 - 2 StR 122/24](2-str-122-24.md) — BGH, Beschluss 2 StR 122/24
+- [BGH, Beschluss vom 15.05.2024 - 2 StR 135/24](2-str-135-24.md) — BGH, Beschluss 2 StR 135/24
+- [BGH, Beschluss vom 15.05.2024 - 2 StR 177/24](2-str-177-24.md) — BGH, Beschluss 2 StR 177/24
+- [BGH, Beschluss vom 15.05.2024 - 2 StR 458/23](2-str-458-23.md) — Anpassung des Schuldspruchs mit Inkrafttreten des Konsumcannabisgesetzes; (Mit-)Verfügungsmacht eines Angeklagten an Erlösen aus Betäubungsmittel- bzw. Cannabis
+- [BGH, Beschluss vom 08.05.2024 - 2 StR 167/24](2-str-167-24.md) — BGH, Beschluss 2 StR 167/24
+- [BGH, Urteil vom 08.05.2024 - 2 StR 51/24](2-str-51-24.md) — BGH, Urteil 2 StR 51/24
+- [BGH, Beschluss vom 08.05.2024 - 2 StR 55/23](2-str-55-23.md) — BGH, Beschluss 2 StR 55/23
+- [BGH, Beschluss vom 08.05.2024 - 2 StR 88/24](2-str-88-24.md) — BGH, Beschluss 2 StR 88/24
+- [BGH, Beschluss vom 07.05.2024 - 2 ARs 431/23](2-ars-431-23.md) — Notwendigkeit einer Gerichtsstandsbestimmung durch BGH
+- [BGH, Beschluss vom 07.05.2024 - 2 StR 16/24](2-str-16-24.md) — Unerlaubter Besitz und unerlaubter Handel mit Betäubungsmitteln in nicht geringer Menge: Nicht geringe Menge bei R-Methamphetamin; Konkurrenzverhältnis bei Abge
+- [BGH, Beschluss vom 07.05.2024 - 2 StR 375/23](2-str-375-23.md) — BGH, Beschluss 2 StR 375/23
+- [BGH, Beschluss vom 07.05.2024 - 2 StR 524/23](2-str-524-23.md) — BGH, Beschluss 2 StR 524/23
+- [BGH, Beschluss vom 07.05.2024 - 2 StR 67/24](2-str-67-24.md) — BGH, Beschluss 2 StR 67/24
+- [BGH, Beschluss vom 07.05.2024 - 2 StR 83/24](2-str-83-24.md) — BGH, Beschluss 2 StR 83/24
+- [BGH, Beschluss vom 07.05.2024 - 2 StR 98/24](2-str-98-24.md) — BGH, Beschluss 2 StR 98/24
+- [BGH, Beschluss vom 06.05.2024 - 2 StR 480/23](2-str-480-23.md) — Bewertung des Konkurrenzverhältnisses bei mehreren Taten des Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 06.05.2024 - 2 StR 481/23](2-str-481-23.md) — BGH, Beschluss 2 StR 481/23
+- [BGH, Beschluss vom 06.05.2024 - 2 StR 73/24](2-str-73-24.md) — BGH, Beschluss 2 StR 73/24
+- [BGH, Urteil vom 24.04.2024 - 2 StR 218/23](2-str-218-23.md) — BGH, Urteil 2 StR 218/23
+- [BGH, Urteil vom 24.04.2024 - 2 StR 454/23](2-str-454-23.md) — BGH, Urteil 2 StR 454/23
+- [BGH, Beschluss vom 23.04.2024 - 2 StR 128/24](2-str-128-24.md) — BGH, Beschluss 2 StR 128/24
+- [BGH, Beschluss vom 22.04.2024 - 2 StR 534/23](2-str-534-23.md) — Anhörungsrüge in Strafsachen: Beschlussentscheidung des Revisionsgerichts
+- [BGH, Beschluss vom 11.04.2024 - 2 StR 428/23](2-str-428-23.md) — BGH, Beschluss 2 StR 428/23
+- [BGH, Beschluss vom 11.04.2024 - 2 StR 465/23](2-str-465-23.md) — Rücktritt vom Versuch des Totschlags im Falle eines Messerangriffs
+- [BGH, Beschluss vom 10.04.2024 - 2 StR 114/24](2-str-114-24.md) — BGH, Beschluss 2 StR 114/24
+- [BGH, Beschluss vom 10.04.2024 - 2 StR 13/24](2-str-13-24.md) — BGH, Beschluss 2 StR 13/24
+- [BGH, Beschluss vom 10.04.2024 - 2 StR 134/23](2-str-134-23.md) — BGH, Beschluss 2 StR 134/23
+- [BGH, Beschluss vom 10.04.2024 - 2 StR 25/24](2-str-25-24.md) — Schuldspruch bei Verurteilung wegen Vergewaltigung
+- [BGH, Beschluss vom 10.04.2024 - 2 StR 335/23](2-str-335-23.md) — BGH, Beschluss 2 StR 335/23
+- [BGH, Beschluss vom 10.04.2024 - 2 StR 46/24](2-str-46-24.md) — BGH, Beschluss 2 StR 46/24
+- [BGH, Beschluss vom 10.04.2024 - 2 StR 63/24](2-str-63-24.md) — BGH, Beschluss 2 StR 63/24
+- [BGH, Beschluss vom 09.04.2024 - 2 StR 109/24](2-str-109-24.md) — BGH, Beschluss 2 StR 109/24
+- [BGH, Beschluss vom 09.04.2024 - 2 StR 520/23](2-str-520-23.md) — BGH, Beschluss 2 StR 520/23
+- [BGH, Beschluss vom 04.04.2024 - 2 ARs 408/23](2-ars-408-23.md) — Auslieferungssache: Anfechtbarkeit einer Entscheidung des Oberlandesgerichts über die Anordnung von Telekommunikationsüberwachungs- und Aufenthaltsortermittlung
+- [BGH, Beschluss vom 27.03.2024 - 2 StR 179/23](2-str-179-23.md) — Strafzumessungserwägungen bei sexuellem Missbrauch von Kindern
+- [BGH, Urteil vom 27.03.2024 - 2 StR 337/23](2-str-337-23.md) — Strafbare Beteiligung an einer Schlägerei und Adhäsionsentscheidung bei schwerer Verletzung des Nebenklägers
+- [BGH, Urteil vom 27.03.2024 - 2 StR 382/23](2-str-382-23.md) — 1. Nebenkläger und deren bestellte anwaltliche Vertreter rechnen zu den übrigen Beteiligten im Sinne des § 249 Abs. 2 Satz 1 StPO und haben das Recht, dass ihne
+- [BGH, Urteil vom 27.03.2024 - 2 StR 461/23](2-str-461-23.md) — BGH, Urteil 2 StR 461/23
+- [BGH, Beschluss vom 27.03.2024 - 2 StR 501/23](2-str-501-23.md) — BGH, Beschluss 2 StR 501/23
+- [BGH, Beschluss vom 27.03.2024 - 2 StR 511/23](2-str-511-23.md) — Schwerer sexuellen Missbrauchs von Kindern: Darlegungsanforderungen für in Serie begangene sexuelle Missbrauchshandlungen
+- [BGH, Beschluss vom 27.03.2024 - 2 StR 531/23](2-str-531-23.md) — Abgrenzung von bedingtem Verletzungsvorsatz und bewusster Fahrlässigkeit
+- [BGH, Beschluss vom 26.03.2024 - 2 StR 10/24](2-str-10-24.md) — BGH, Beschluss 2 StR 10/24
+- [BGH, Beschluss vom 26.03.2024 - 2 StR 211/23](2-str-211-23.md) — Strafverfahren wegen Drogendelikten: Ablehnung eines Beweisantrags
+- [BGH, Beschluss vom 25.03.2024 - 2 ARs 81/24](2-ars-81-24.md) — BGH, Beschluss 2 ARs 81/24
+- [BGH, Beschluss vom 25.03.2024 - 2 StR 235/23](2-str-235-23.md) — BGH, Beschluss 2 StR 235/23
+- [BGH, Beschluss vom 25.03.2024 - 2 StR 444/23](2-str-444-23.md) — Anordnung der Sicherungsverwahrung: Anforderungen an die Urteilsfeststellungen bei Berücksichtigung einer ausländischen Vorverurteilung
+- [BGH, Beschluss vom 14.03.2024 - 2 StR 192/23](2-str-192-23.md) — Betrug und Urkundenfälschung im Rahmen von Verkaufshandlungen über Internetplattformen
+- [BGH, Beschluss vom 14.03.2024 - 2 StR 20/24](2-str-20-24.md) — BGH, Beschluss 2 StR 20/24
+- [BGH, Beschluss vom 14.03.2024 - 2 StR 240/23](2-str-240-23.md) — BGH, Beschluss 2 StR 240/23
+- [BGH, Beschluss vom 14.03.2024 - 2 StR 391/23](2-str-391-23.md) — BGH, Beschluss 2 StR 391/23
+- [BGH, Beschluss vom 14.03.2024 - 2 StR 436/23](2-str-436-23.md) — Tateinheit zwischen vollendetem und versuchtem Delikt; Alternativvorsatz des Täters
+- [BGH, Beschluss vom 14.03.2024 - 2 StR 49/24](2-str-49-24.md) — BGH, Beschluss 2 StR 49/24
+- [BGH, Beschluss vom 14.03.2024 - 2 StR 7/24](2-str-7-24.md) — BGH, Beschluss 2 StR 7/24
+- [BGH, Beschluss vom 13.03.2024 - 2 StR 119/23](2-str-119-23.md) — Betrug zu Lasten einer privaten Krankenversicherung bei Antrag auf Kostenerstattung nicht beglichener Rechnungen
+- [BGH, Urteil vom 13.03.2024 - 2 StR 237/23](2-str-237-23.md) — Darstellungsmängel in Urteil nach politisch motivierter Auseinandersetzung
+- [BGH, Beschluss vom 13.03.2024 - 2 StR 238/23](2-str-238-23.md) — BGH, Beschluss 2 StR 238/23
+- [BGH, Beschluss vom 13.03.2024 - 2 StR 30/22](2-str-30-22.md) — BGH, Beschluss 2 StR 30/22
+- [BGH, Beschluss vom 13.03.2024 - 2 StR 77/24](2-str-77-24.md) — Anforderungen an tatrichterliche Feststellungen zum Rücktritt vom Versuch eines Tötungsdelikts
+- [BGH, Beschluss vom 12.03.2024 - 2 StR 15/24](2-str-15-24.md) — BGH, Beschluss 2 StR 15/24
+- [BGH, Beschluss vom 12.03.2024 - 2 StR 384/23](2-str-384-23.md) — BGH, Beschluss 2 StR 384/23
+- [BGH, Beschluss vom 12.03.2024 - 2 StR 435/23](2-str-435-23.md) — BGH, Beschluss 2 StR 435/23
+- [BGH, Beschluss vom 12.03.2024 - 2 StR 455/23](2-str-455-23.md) — BGH, Beschluss 2 StR 455/23
+- [BGH, Beschluss vom 12.03.2024 - 2 StR 65/24](2-str-65-24.md) — BGH, Beschluss 2 StR 65/24
+- [BGH, Beschluss vom 27.02.2024 - 2 StR 37/24](2-str-37-24.md) — BGH, Beschluss 2 StR 37/24
+- [BGH, Beschluss vom 27.02.2024 - 2 StR 525/23](2-str-525-23.md) — BGH, Beschluss 2 StR 525/23
+- [BGH, Beschluss vom 20.02.2024 - 2 ARs 466/23](2-ars-466-23.md) — BGH, Beschluss 2 ARs 466/23
+- [BGH, Beschluss vom 20.02.2024 - 2 StR 249/23](2-str-249-23.md) — Unterbringung in einer Entziehungsanstalt: Vorliegen einer therapiebedürftigen Substanzkonsumstörung
+- [BGH, Beschluss vom 20.02.2024 - 2 StR 283/23](2-str-283-23.md) — BGH, Beschluss 2 StR 283/23
+- [BGH, Beschluss vom 20.02.2024 - 2 StR 290/23](2-str-290-23.md) — BGH, Beschluss 2 StR 290/23
+- [BGH, Beschluss vom 20.02.2024 - 2 StR 409/23](2-str-409-23.md) — Strafverurteilung wegen Diebstahls: Verneinung der Indizwirkung hinsichtlich eines besonders schweren Falls des Diebstahls
+- [BGH, Urteil vom 20.02.2024 - 2 StR 468/22](2-str-468-22.md) — Verurteilung einer nicht als Ärztin approbierten Anästhesistin wegen Tötungsdelikten: richterlichen Feststellungen zum Vorsatz
+- [BGH, Beschluss vom 15.02.2024 - 2 StR 329/22](2-str-329-22.md) — Konkretisierung des Verfahrensgegenstandes bei Bandenhandel mit Betäubungsmitteln
+- [BGH, Urteil vom 15.02.2024 - 2 StR 404/23](2-str-404-23.md) — Verurteilung wegen Sexual- und Körperverletzungsdelikten: Strafzumessung; Verstoß gegen Öffentlichkeit der Hauptverhandlung
+- [BGH, Beschluss vom 14.02.2024 - 2 ARs 176/23](2-ars-176-23.md) — Örtliche Zuständigkeit eines Amtsgerichts für weitere Bewährungsaufsicht
+- [BGH, Beschluss vom 14.02.2024 - 2 StR 194/23](2-str-194-23.md) — BGH, Beschluss 2 StR 194/23
+- [BGH, Beschluss vom 14.02.2024 - 2 StR 262/23](2-str-262-23.md) — BGH, Beschluss 2 StR 262/23
+- [BGH, Beschluss vom 14.02.2024 - 2 StR 341/23](2-str-341-23.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefährlichkeitsprognose aufgrund früherer Straftaten
+- [BGH, Beschluss vom 14.02.2024 - 2 StR 373/23](2-str-373-23.md) — BGH, Beschluss 2 StR 373/23
+- [BGH, Beschluss vom 14.02.2024 - 2 StR 392/23](2-str-392-23.md) — Einziehung von Taterträgen bei Vollstreckung von Nebenfolgen
+- [BGH, Urteil vom 14.02.2024 - 2 StR 424/23](2-str-424-23.md) — Tateinheitliche Handlungen im Rahmen einer Betäubungsmittelstraftat; Umfang der Kognitionspflicht des Gerichts
+- [BGH, Beschluss vom 14.02.2024 - 2 StR 451/23](2-str-451-23.md) — BGH, Beschluss 2 StR 451/23
+- [BGH, Beschluss vom 14.02.2024 - 2 StR 493/23](2-str-493-23.md) — BGH, Beschluss 2 StR 493/23
+- [BGH, Beschluss vom 13.02.2024 - 2 StR 254/23](2-str-254-23.md) — BGH, Beschluss 2 StR 254/23
+- [BGH, Beschluss vom 13.02.2024 - 2 StR 485/23](2-str-485-23.md) — Strafurteil wegen Betäubungsmitteldelikten: Konkurrenzverhältnisse bei gleichzeitigem Besitz verschiedener Betäubungsmittel zum Eigenverbrauch und Handeltreiben
+- [BGH, Beschluss vom 02.02.2024 - 2 StR 418/23](2-str-418-23.md) — BGH, Beschluss 2 StR 418/23
+- [BGH, Beschluss vom 31.01.2024 - 2 StR 221/23](2-str-221-23.md) — Zeitraum einer möglichen Beihilfe zur Einfuhr von Betäubungsmitteln
+- [BGH, Urteil vom 31.01.2024 - 2 StR 351/23](2-str-351-23.md) — Beweiswürdigung und Urteilsgründe zur Strafbarkeit wegen bewaffneten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 30.01.2024 - 2 ARs 3/24](2-ars-3-24.md) — BGH, Beschluss 2 ARs 3/24
+- [BGH, Beschluss vom 17.01.2024 - 2 StR 100/23](2-str-100-23.md) — Kompensation bei rechtsstaatswidriger Verfahrensverzögerung
+- [BGH, Urteil vom 17.01.2024 - 2 StR 459/22](2-str-459-22.md) — 1. Die Hauptverhandlung beginnt gemäß § 243 Abs. 1 Satz 1 StPO mit dem Aufruf der Sache; damit sind die für diesen Sitzungstag bestimmten Schöffen zur Verhandlu
+- [BGH, Beschluss vom 16.01.2024 - 2 ARs 8/24](2-ars-8-24.md) — BGH, Beschluss 2 ARs 8/24
+- [BGH, Beschluss vom 16.01.2024 - 2 StR 422/23](2-str-422-23.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 15.01.2024 - 2 StR 124/23](2-str-124-23.md) — BGH, Beschluss 2 StR 124/23
+- [BGH, Beschluss vom 11.01.2024 - 2 StR 356/23](2-str-356-23.md) — BGH, Beschluss 2 StR 356/23
+- [BGH, Beschluss vom 10.01.2024 - 2 StR 171/23](2-str-171-23.md) — 1. Die Anordnung einer Funkzellenabfrage nach § 100g Abs. 3 Satz 1 StPO setzt den Verdacht einer besonders schweren Straftat nach § 100g Abs. 2 StPO voraus. Die
+- [BGH, Beschluss vom 10.01.2024 - 2 StR 438/23](2-str-438-23.md) — Darlegungsmängel bezüglich eines bedingten Tötungsvorsatzes in Urteilsgründen
+- [BGH, Beschluss vom 10.01.2024 - 2 StR 477/23](2-str-477-23.md) — Strafausspruch bei sexuellem Missbrauch von Schutzbefohlenen, Vergewaltigung und Beischlaf zwischen Verwandten
+- [BGH, Beschluss vom 10.01.2024 - 2 StR 478/23](2-str-478-23.md) — BGH, Beschluss 2 StR 478/23
+- [BGH, Beschluss vom 09.01.2024 - 2 StR 261/23](2-str-261-23.md) — Berechtigung zum Anschluss als Nebenkläger bei versuchter Straftat gegen Angehörigen
+- [BGH, Beschluss vom 09.01.2024 - 2 StR 443/23](2-str-443-23.md) — Überlassen von Betäubungsmitteln an Minderjährige; Strafzumessung bei Betäubungsmittelstraftaten
+- [BGH, Beschluss vom 09.01.2024 - 2 StR 462/23](2-str-462-23.md) — BGH, Beschluss 2 StR 462/23

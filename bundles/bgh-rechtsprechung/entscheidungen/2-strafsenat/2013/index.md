@@ -1,0 +1,125 @@
+# 2. Strafsenat – 2013
+
+121 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2013 - 2 StR 534/13](2-str-534-13.md) — Schuldunfähigkeit: Tatbegehung aufgrund aktueller Wahnvorstellungen
+- [BGH, Beschluss vom 11.12.2013 - 2 StR 478/13](2-str-478-13.md) — Anstiftung zur Falschaussage: Fehlerhaftigkeit von Strafzumessungserwägungen
+- [BGH, Beschluss vom 05.12.2013 - 2 StR 387/13](2-str-387-13.md) — Absoluter Revisionsgrund im Strafverfahren: Fortbestehende Abwesenheit des während der Zeugenvernehmung entfernten Angeklagten bei der Verhandlung über die Entl
+- [BGH, Beschluss vom 05.12.2013 - 2 StR 454/13](2-str-454-13.md) — Bewaffnetes unerlaubtes Handeltreiben mit Betäubungsmitteln: Mitsichführen einer Waffe in der Schlussphase des Geschäfts
+- [BGH, Urteil vom 04.12.2013 - 2 StR 2/13](2-str-2-13.md) — Strafbarkeit wegen gewerbsmäßiger Fälschung von Zahlungskarten mit Garantiefunktion: Fälschung von Visa- und Mastercards ohne Garantiefunktion bei der konkreten
+- [BGH, Urteil vom 03.12.2013 - 2 StR 160/12](2-str-160-12.md) — Strafbarkeit wegen Bestechung im geschäftlichen Verkehr: Abzeichnung von Scheinrechnungen als Vorteilsgewährung
+- [BGH, Beschluss vom 03.12.2013 - 2 StR 283/13](2-str-283-13.md) — Strafverfahren: Ablehnung eines Beweisantrags auf Einholung eines molekularbiologische Sachverständigengutachtens wegen Bedeutungslosigkeit
+- [BGH, Beschluss vom 03.12.2013 - 2 StR 410/13](2-str-410-13.md) — Verständigung im Strafverfahren: Dokumentations- und Mitteilungspflichten über Verständigungsgespräche mit dem Angeklagten außerhalb der Hauptverhandlung
+- [BGH, Beschluss vom 21.11.2013 - 2 StR 459/13](2-str-459-13.md) — Sexueller Missbrauch von Kindern: Auslegung der Regelung über die Vornahme sexueller Handlungen vor einem Kind; Nacktaufnahme als Kinderpornographie
+- [BGH, Beschluss vom 21.11.2013 - 2 StR 463/13](2-str-463-13.md) — Unterbringung in einem psychiatrischen Krankenhaus: Emotional-instabile Persönlichkeitsstörung als andere schwere seelische Abartigkeit
+- [BGH, Beschluss vom 21.11.2013 - 2 StR 477/13](2-str-477-13.md) — Strafbarkeit wegen versuchter gefährlicher Körperverletzung: Prüfung der Schuldfähigkeit eines unter einer krankhaften seelischen Störung leidenden Täters
+- [BGH, Urteil vom 20.11.2013 - 2 StR 460/13](2-str-460-13.md) — Strafverfahren wegen Kapitalanlagebetrugs: Fehlerhafte Beweiswürdigung bei Freispruch; Anforderungen an die Urteilsgründe
+- [BGH, Beschluss vom 19.11.2013 - 2 StR 379/13](2-str-379-13.md) — Absoluter Revisionsgrund im Strafverfahren: In Abwesenheit des aus der Hauptverhandlung entfernten Angeklagten während einer Zeugenvernehmung durchgeführte förm
+- [BGH, Beschluss vom 19.11.2013 - 2 StR 494/13](2-str-494-13.md) — Strafzumessung bei Betäubungsmitteldelikten: Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in einem minder schweren Fall
+- [BGH, Beschluss vom 13.11.2013 - 2 StR 455/13](2-str-455-13.md) — Jugendstrafverfahren: Anstiftung zum Versuch; Begründung der Verhängung von Jugendstrafe; Voraussetzungen des Vorliegens von schädlichen Neigungen
+- [BGH, Urteil vom 06.11.2013 - 2 StR 357/13](2-str-357-13.md) — Freie Beweiswürdigung im Strafurteil: Anforderungen an die Zurückweisung der Einlassung des Angeklagten als unrichtig
+- [BGH, Beschluss vom 05.11.2013 - 2 StR 265/13](2-str-265-13.md) — Überzeugungsbildung des Strafgerichts: Überprüfung abgelegten Geständnisses nur durch Abgleich der Aktenlage; unzureichende Sachverhaltsaufklärung hinsichtlich 
+- [BGH, Beschluss vom 05.11.2013 - 2 StR 388/13](2-str-388-13.md) — Gemeinschaftliche räuberische Erpressung: Voraussetzungen für einen strafbefreienden Rücktritt vom Versuch
+- [BGH, Beschluss vom 24.10.2013 - 2 ARs 319/13](2-ars-319-13.md) — Anfrage an den Senat: Handlungseinheit bei mehreren selbstständigen Einfuhrhandlungen durch fallübergreifendes Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 24.10.2013 - 2 ARs 336/13](2-ars-336-13.md) — Strafverfahren: Zweckmäßigkeitserwägungen bei der Bestimmung des zuständigen Gerichts
+- [BGH, Urteil vom 23.10.2013 - 2 StR 343/13](2-str-343-13.md) — Kindesmissbrauch durch an Demenz Erkrankten: Anordnung von Führungsaufsicht anstelle der Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Urteil vom 23.10.2013 - 2 StR 392/13](2-str-392-13.md) — Kompensationsentscheidung bei rechtsstaatswidriger Verfahrensverzögerung: Isolierte Überprüfbarkeit auf Rechtsfehler; Anforderungen an die Revisionsrüge; Anford
+- [BGH, Beschluss vom 16.10.2013 - 2 StR 312/13](2-str-312-13.md) — Strafzumessung bei gewerbsmäßigem Betäubungsmittelhandel: Minder schwerer Fall bei Verkauf von Marihuana an Jugendliche in einer Vielzahl von Fällen
+- [BGH, Beschluss vom 10.10.2013 - 2 StR 355/13](2-str-355-13.md) — Strafzumessung bei schwerem Kindesmissbrauch: Notwendige Trennung von Strafzumessungs- und Aussetzungsfragen
+- [BGH, Beschluss vom 10.10.2013 - 2 StR 64/13](2-str-64-13.md) — Schwere Brandstiftung: Anforderungen an die Annahme einer konkreten Gesundheitsgefährdung
+- [BGH, Urteil vom 09.10.2013 - 2 StR 119/13](2-str-119-13.md) — Besonders schwerer Fall des Landfriedensbruchs: Tateinheitliche Verurteilung wegen Körperverletzung; Gewalttätigkeiten aus einer Menschenmenge heraus bei tätlic
+- [BGH, Urteil vom 09.10.2013 - 2 StR 297/13](2-str-297-13.md) — Schwerer Menschenhandel: Notwendige Urteilsfeststellungen hinsichtlich des Zusammenhangs zwischen einer Gewaltanwendungen gegen eine Prostituierte und der Forts
+- [BGH, Beschluss vom 08.10.2013 - 2 StR 342/13](2-str-342-13.md) — Fälschung von Zahlungskarten mit Garantiefunktion und Betrug: Fehlende Gewerbs- und Bandenmäßigkeit bei tateinheitlicher Begehung
+- [BGH, Beschluss vom 26.09.2013 - 2 StR 256/13](2-str-256-13.md) — Beihilfe zum bandenmäßigen Handeltreiben mit Betäubungsmitteln: Anforderungen an die Feststellung von Bandentaten
+- [BGH, Beschluss vom 26.09.2013 - 2 StR 271/13](2-str-271-13.md) — Persönliche Unterzeichnung des Strafurteils durch die mitwirkenden Richter: Anforderungen an die Verhinderung eines Richters wegen Überlastung mit anderen Diens
+- [BGH, Beschluss vom 26.09.2013 - 2 StR 306/13](2-str-306-13.md) — Beweisaufnahme im Strafverfahren: Hinreichend konkrete Beweistatsache im Beweisantrag
+- [BGH, Beschluss vom 26.09.2013 - 2 StR 324/13](2-str-324-13.md) — Versuchter Totschlag: Strafbefreiender Rücktritt vom unbeendeten Versuch durch Absehen von weiteren Handlungen
+- [BGH, Beschluss vom 24.09.2013 - 2 StR 267/13](2-str-267-13.md) — 1. Wenn Verteidigung und Staatsanwaltschaft in Gegenwart der für die Entscheidung zuständigen Richter Anträge zur Strafart und Strafhöhe nach Teileinstellung de
+- [BGH, Beschluss vom 24.09.2013 - 2 StR 338/13](2-str-338-13.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Erörterung des inneren Tatbestandes des Anlassdelikts
+- [BGH, Beschluss vom 24.09.2013 - 2 StR 397/13](2-str-397-13.md) — Beschränkung der Revision im Strafverfahren: Beschränkung auf den Schuldspruch unter Ausklammerung der Anordnung des Maßregelvollzugs; Berücksichtigung erlitten
+- [BGH, Urteil vom 18.09.2013 - 2 StR 365/12](2-str-365-12.md) — Regelt der Gesetzgeber die Strafbarkeit eines Verhaltens durch eine Blankettstrafnorm, die auf eine außergesetzliche Bestimmung Bezug nimmt, so muss die vorrang
+- [BGH, Urteil vom 18.09.2013 - 2 StR 535/12](2-str-535-12.md) — Vollendetes Inverkehrbringen von Arzneimitteln durch Abgabe an andere setzt bei einer Versendung voraus, dass die Sendung in den Zugriffsbereich des Empfängers 
+- [BGH, Beschluss vom 12.09.2013 - 2 StR 226/13](2-str-226-13.md) — Strafverfahren wegen schwerer Körperverletzung: Prüfung eines minderschweren Falls und Berücksichtigung fehlender Tatbeiträge eines Mittäters bei der Strafzumes
+- [BGH, Beschluss vom 12.09.2013 - 2 StR 236/13](2-str-236-13.md) — Geiselnahme: Erforderlicher Zusammenhang zwischen Entführung und beabsichtigter Drohung
+- [BGH, Urteil vom 11.09.2013 - 2 StR 131/13](2-str-131-13.md) — Strafzumessung: Täter-Opfer-Ausgleich bei mehreren Tatopfern; Verzicht auf Rückgabe sichergestellten Geldes ohne kommunikativen Prozess zwischen Täter und Opfer
+- [BGH, Beschluss vom 10.09.2013 - 2 StR 321/13](2-str-321-13.md) — Schuldfähigkeit: Devianz im Sexualverhalten in Form einer Pädophilie
+- [BGH, Beschluss vom 10.09.2013 - 2 StR 353/13](2-str-353-13.md) — Strafrahmenwahl bei Versuch: Alleiniges Abstellen auf die Nähe zur Tatvollendung
+- [BGH, Beschluss vom 27.08.2013 - 2 ARs 267/13](2-ars-267-13.md) — Örtliche Zuständigkeit der Strafvollstreckungskammer: Fortwirkungszuständigkeit der Strafvollstreckungskammer bei Verdacht auf neue Straftat und Untersuchungsha
+- [BGH, Beschluss vom 27.08.2013 - 2 StR 148/13](2-str-148-13.md) — Totschlag: Anforderungen an die Feststellungen zum bedingten Tötungsvorsatz bei gefährlichen Gewalthandlungen
+- [BGH, Beschluss vom 27.08.2013 - 2 StR 156/13](2-str-156-13.md) — Fälschung von Zahlungskarten mit Garantiefunktion: Ausspähen fremder Kartendaten als Tatbestandsverwirklichung
+- [BGH, Beschluss vom 15.08.2013 - 2 ARs 299/13](2-ars-299-13.md) — BGH, Beschluss 2 ARs 299/13
+- [BGH, Beschluss vom 15.08.2013 - 2 StR 225/13](2-str-225-13.md) — Unterbringung in einer Entziehungsanstalt: Symptomatischer Zusammenhang zwischen Tatbegehung und Alkoholabhängigkeit
+- [BGH, Beschluss vom 14.08.2013 - 2 StR 144/13](2-str-144-13.md) — Bandenmäßiges unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Strafrahmen bei minder schwerem Fall
+- [BGH, Urteil vom 14.08.2013 - 2 StR 574/12](2-str-574-12.md) — Strafzumessung: Brutale Tatausführung als Strafschärfungsgrund bei Annahme verminderter Schuldfähigkeit
+- [BGH, Beschluss vom 13.08.2013 - 2 StR 128/13](2-str-128-13.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldfähigkeit trotz der Diagnose einer Schizophrenie
+- [BGH, Beschluss vom 13.08.2013 - 2 StR 180/13](2-str-180-13.md) — Strafurteil u.a. wegen Totschlags: Notwendige Urteilsfeststellungen zur Abgrenzung zwischen bedingtem Tötungsvorsatz und bewusster Fahrlässigkeit
+- [BGH, Urteil vom 31.07.2013 - 2 StR 220/13](2-str-220-13.md) — Unterbringung in einem psychiatrischen Krankenhaus nach Verbreitung pornographischer Schriften im Internet: Verhältnismäßigkeitsprüfung der Unterbringung eines 
+- [BGH, Beschluss vom 31.07.2013 - 2 StR 318/13](2-str-318-13.md) — Sexuelle Nötigung mit Gewalt: Führung der Hand des Tatopfers zur Vornahme sexueller Handlungen
+- [BGH, Urteil vom 31.07.2013 - 2 StR 38/13](2-str-38-13.md) — Gefährliche Körperverletzung: Faustschlag gegen die Schläfe und Tritt gegen den Oberkörper des Opfers als lebensgefährdende Behandlungen
+- [BGH, Beschluss vom 30.07.2013 - 2 StR 150/13](2-str-150-13.md) — Strafverfahren wegen Erpressung: Rechtsfehlerhafte Verurteilung wegen Alleintäterschaft nach Anklage von Mittäterschaft; Vermögensschaden bei Erwirkung der Über
+- [BGH, Beschluss vom 30.07.2013 - 2 StR 174/13](2-str-174-13.md) — Unterbringung in einer Entziehungsanstalt: Vorliegen eines Hanges zum Betäubungsmittelkonsum; symptomatischer Zusammenhang zwischen abgeurteilter Tat und Hang
+- [BGH, Beschluss vom 30.07.2013 - 2 StR 5/13](2-str-5-13.md) — Heimtückischer Mord: Ausnutzungsbewusstsein des Täters hinsichtlich der Arg- und Wehrlosigkeit seines Opfers
+- [BGH, Urteil vom 17.07.2013 - 2 StR 139/13](2-str-139-13.md) — Abgrenzung zwischen Tötungsversuch und schwerer Körperverletzung: Anforderungen an Urteilsfeststellungen zum bedingten Tötungsvorsatz bei Handeln in affektiver 
+- [BGH, Urteil vom 17.07.2013 - 2 StR 176/13](2-str-176-13.md) — Abgrenzung zwischen gefährlicher Körperverletzung und versuchter Tötung: Bedingter Tötungsvorsatz bei gefährlicher Gewalthandlung unter Alkoholeinfluss; Anforde
+- [BGH, Beschluss vom 17.07.2013 - 2 StR 255/13](2-str-255-13.md) — Wenn das Tatgericht einen Sachverständigen zur Prüfung der Unterbringung des Angeklagten in einer Entziehungsanstalt hinzuzieht, erwägt es die Maßregelanordnung
+- [BGH, Beschluss vom 17.07.2013 - 2 StR 259/13](2-str-259-13.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Voraussetzung der Eigennützigkeit der Tätigkeit
+- [BGH, Beschluss vom 16.07.2013 - 2 StR 163/13](2-str-163-13.md) — Erpresserischer Menschenraub und räuberische Erpressung: Behandlung eines Irrtums über die Rechtswidrigkeit des erstrebten Vermögensvorteils
+- [BGH, Beschluss vom 10.07.2013 - 2 StR 116/13](2-str-116-13.md) — Geschäftsverteilung in Strafsachen: Revisionsgerichtliche Nachprüfung einer sog. Ableitung von Verfahren auf eine andere Strafkammer zur Arbeitsentlastung der g
+- [BGH, Urteil vom 10.07.2013 - 2 StR 195/12](2-str-195-12.md) — 1. Die Grundsätze zur Unzulässigkeit einer bloßen Protokollrüge gelten nicht, wenn ein Verfahrensfehler behauptet wird, der in seinem Kern darin besteht, dass d
+- [BGH, Beschluss vom 10.07.2013 - 2 StR 289/13](2-str-289-13.md) — Versuchter Totschlag: Freiwilligkeit eines Rücktritt bei Einwirkung auf den Täter durch einen Dritten
+- [BGH, Urteil vom 10.07.2013 - 2 StR 47/13](2-str-47-13.md) — 1. Einer Mitteilung gemäß § 243 Abs. 4 Satz 1 StPO bedarf es nicht, wenn überhaupt keine oder nur solche Gespräche stattgefunden haben, die dem Regelungskonzept
+- [BGH, Beschluss vom 02.07.2013 - 2 StR 631/12](2-str-631-12.md) — Richterablehnung im Strafverfahren: Verwerfung wegen Verspätung; Austausch des Verwerfungsgrundes durch das Revisionsgericht
+- [BGH, Beschluss vom 02.07.2013 - 2 StR 91/13](2-str-91-13.md) — Versuchte Vergewaltigung in einem besonders schwerer Fall: Freiwilligkeit eines Rücktritts
+- [BGH, Urteil vom 20.06.2013 - 2 StR 113/13](2-str-113-13.md) — Der Angeklagte ist nicht hinreichend verteidigt, wenn bei kurzfristiger Erkrankung des Pflichtverteidigers ein anderer Verteidiger für einen Tag der Hauptverhan
+- [BGH, Beschluss vom 19.06.2013 - 2 ARs 227/13](2-ars-227-13.md) — Örtliche Zuständigkeit der Strafvollstreckungskammer: Fortwirkungszuständigkeit der Strafvollstreckungskammer bei neuer Straftat und Aufnahme des Verurteilten i
+- [BGH, Beschluss vom 19.06.2013 - 2 StR 117/13](2-str-117-13.md) — Strafzumessung bei Totschlag: Straferschwerende Berücksichtigung der angewandten Gewalt und der Beseitigung der Leiche als Nachtatverhalten
+- [BGH, Beschluss vom 18.06.2013 - 2 StR 145/13](2-str-145-13.md) — Ladendiebstahl: Vollendete Wegnahme vor der Kassenzone bei Wegtragen einer verpackten schweren Beute
+- [BGH, Beschluss vom 18.06.2013 - 2 StR 75/13](2-str-75-13.md) — Versuch der besonders schweren räuberischen Erpressung: Beginn der Tatausführung bei Vorbehalten des Täters bezüglich der Durchführung des Tatvorhabens
+- [BGH, Beschluss vom 05.06.2013 - 2 StR 189/13](2-str-189-13.md) — Schwerer sexueller Missbrauch von Kindern: Minder schwerer Fall bei Bestehen einer Liebesbeziehung zwischen einer 13-Jährigen und einem 20-Jährigen
+- [BGH, Beschluss vom 04.06.2013 - 2 StR 3/13](2-str-3-13.md) — Strafverfahren wegen sexuellen Missbrauch von Kindern: Überraschende Vornahme sexueller Handlungen als "Gewalt-Nötigung"
+- [BGH, Beschluss vom 04.06.2013 - 2 StR 4/13](2-str-4-13.md) — Garantenstellung aus vorangegangenem Tun: Beihilfe zu einem Banküberfall nach Tataufgabe durch den vorgesehenen Haupttäter und Durchführung der Tat durch den Fa
+- [BGH, Beschluss vom 04.06.2013 - 2 StR 59/13](2-str-59-13.md) — Strafverfahren wegen Betruges und Urkundenfälschung: Notwendige Urteilsfeststellungen zu Art und Höhe des eingetretenen Vermögensschadens; Echtheit einer Urkund
+- [BGH, Beschluss vom 23.05.2013 - 2 StR 555/12](2-str-555-12.md) — Konkurrenzverhältnisse beim Betrug: Natürliche Handlungseinheit bei Organisationstätigkeit durch den Hintermann eines Unternehmens
+- [BGH, Beschluss vom 22.05.2013 - 2 StR 14/13](2-str-14-13.md) — Strafverfahren wegen schweren Raubes und gefährlicher Körperverletzung: Voraussetzungen der schweren körperlichen Misshandlung; Verantwortlichkeit eines Hinzutr
+- [BGH, Beschluss vom 22.05.2013 - 2 StR 68/13](2-str-68-13.md) — Sexueller Missbrauch von Kindern: Berücksichtigung noch nicht abgeurteilter Taten bei der Strafzumessung
+- [BGH, Beschluss vom 21.05.2013 - 2 ARs 180/13](2-ars-180-13.md) — Strafvollzug: Gemeinschaftliches oberes Gericht bei Zuständigkeitsstreit über Antrag auf gerichtliche Entscheidung
+- [BGH, Beschluss vom 21.05.2013 - 2 StR 29/13](2-str-29-13.md) — Strafverfahren: Begründung der Ablehnung eines Beweisantrags wegen Bedeutungslosigkeit; Aufhebung eines alleinigen Maßregelausspruchs; Verhängung von Freiheitss
+- [BGH, Beschluss vom 21.05.2013 - 2 StR 58/13](2-str-58-13.md) — Geiselnahme: Eigenständige Bedeutung der Bemächtigungssituation
+- [BGH, Urteil vom 08.05.2013 - 2 StR 558/12](2-str-558-12.md) — Raubtatbestand: Konkludente Drohung als Nötigungsmittel
+- [BGH, Beschluss vom 25.04.2013 - 2 StR 127/13](2-str-127-13.md) — Verbindung von Strafverfahren mit verschiedener örtlicher und sachlicher Zuständigkeit
+- [BGH, Beschluss vom 25.04.2013 - 2 StR 37/13](2-str-37-13.md) — Strafzumessung: Voraussetzungen des gesetzlichen Milderungsgrundes der freiwilligen Offenbarung
+- [BGH, Beschluss vom 24.04.2013 - 2 StR 42/13](2-str-42-13.md) — Betäubungsmitteldelikt: Strafbarer Rauschgiftbesitz der Ehefrau bei Lagerung in der gemeinsamen Ehewohnung
+- [BGH, Beschluss vom 24.04.2013 - 2 StR 93/13](2-str-93-13.md) — Besonders schwere Vergewaltigung: Auswirkungen des Konsums von Kokain und Crack auf die Schuldfähigkeit
+- [BGH, Beschluss vom 23.04.2013 - 2 ARs 91/13](2-ars-91-13.md) — Geldwäsche: Strafbarkeit einer in Spanien begangenen leichtfertigen Geldwäsche mit Vortat in Deutschland
+- [BGH, Beschluss vom 11.04.2013 - 2 StR 406/12](2-str-406-12.md) — (Begünstigung und Betrug: Zusage der Vorteilssicherung als Beteiligung an Betrugstaten; Vorhandensein der Betrugsvorteile als Voraussetzung der Begünstigung im 
+- [BGH, Beschluss vom 11.04.2013 - 2 StR 504/12](2-str-504-12.md) — Strafverfahren: Fehlerhafte Ablehnung eines Beweisantrages wegen einer Beweisbehauptung "ins Blaue hinein"
+- [BGH, Beschluss vom 11.04.2013 - 2 StR 506/12](2-str-506-12.md) — Strafverurteilung eines Rechtsanwalts: Berücksichtigung beruflicher Nebenwirkungen
+- [BGH, Beschluss vom 11.04.2013 - 2 StR 525/11](2-str-525-11.md) — Ablehnung des Revisionsrichters im Strafverfahren: Zulässigkeit des mit der Anhörungsrüge verbundenen Ablehnungsgesuchs bei Entscheidung über Revision im Beschl
+- [BGH, Beschluss vom 11.04.2013 - 2 StR 592/12](2-str-592-12.md) — Erpressung: Nötigung zum Abschluss eines gegenseitigen Vertrages
+- [BGH, Urteil vom 10.04.2013 - 2 StR 1/13](2-str-1-13.md) — Revision in Strafsachen: Folgen der Revisionsbeschränkung der Staatsanwaltschaft auf die Nichtordnung von Sicherungsverwahrung für einen alkoholabhängigen Täter
+- [BGH, Beschluss vom 10.04.2013 - 2 StR 19/13](2-str-19-13.md) — Strafverfahren: Abwesenheit des beurlaubten Angeklagten und seines Pflichtverteidigers während der Vernehmung eines Zeugen
+- [BGH, Beschluss vom 10.04.2013 - 2 StR 633/12](2-str-633-12.md) — Beteiligung an gewerbs- und bandenmäßigem Betrug: Notwendige Tatsachenfeststellungen bei Zurverfügungstellung von Anderkonten
+- [BGH, Urteil vom 27.03.2013 - 2 StR 115/12](2-str-115-12.md) — Mittäterschaft bei schwerem Raub: Zurechnung der Wegnahme
+- [BGH, Urteil vom 27.03.2013 - 2 StR 384/12](2-str-384-12.md) — Unterbringung in einer Entziehungsanstalt: Hinreichende Erfolgsaussicht der Therapie
+- [BGH, Beschluss vom 14.03.2013 - 2 StR 534/12](2-str-534-12.md) — Strafverfahren: Ablehnungsantrag gegen Revisionsrichter; Verbindung mit Gehörsrüge; Kenntnisnahme des Sach- und Streitstandes der Mitglieder eines Spruchkörpers
+- [BGH, Beschluss vom 13.03.2013 - 2 StR 275/12](2-str-275-12.md) — Vermögensschaden bei betrügerischer Darlehenserschleichung und Hinderung einer Verfallsanordnung durch Anspruch des Verletzten
+- [BGH, Urteil vom 13.03.2013 - 2 StR 440/12](2-str-440-12.md) — Mittäterschaftliche Tatbeteiligung: Erweiterung des Tatplans von Körperverletzung auf Totschlag
+- [BGH, Beschluss vom 13.03.2013 - 2 StR 474/12](2-str-474-12.md) — Erschleichen eines Bankdarlehens: Betrugsrelevanter Irrtum der Bank bei kollusivem Zusammenwirken von Darlehensnehmer und Bankmitarbeiter; Schadensbestimmung be
+- [BGH, Beschluss vom 13.03.2013 - 2 StR 586/12](2-str-586-12.md) — Strafurteilsinhalt: Anforderungen an Urteilsfeststellungen bei Beihilfe zu einem Bandendiebstahl und Hehlerei
+- [BGH, Beschluss vom 12.03.2013 - 2 StR 16/13](2-str-16-13.md) — Bandenmäßiger unerlaubter Handel mit Betäubungsmitteln: Voraussetzung eigennützigen Handels für die Annahme von Mittäterschaft
+- [BGH, Beschluss vom 12.03.2013 - 2 StR 34/13](2-str-34-13.md) — Revision in Strafsachen: Anforderungen die zulässige Verfahrensrüge im Falle der Ablehnung von Beweisanträgen
+- [BGH, Beschluss vom 12.03.2013 - 2 StR 43/13](2-str-43-13.md) — Strafzumessung: Berücksichtigung der Einziehung eines Pkws bei der Bemessung der zu verhängenden Strafe
+- [BGH, Beschluss vom 12.03.2013 - 2 StR 583/12](2-str-583-12.md) — Schwerer Raub: Verwirklichung von Qualifikationsmerkmalen bei einem Raubüberfall auf ein betagtes Ehepaar in dessen Einfamilienhaus
+- [BGH, Urteil vom 27.02.2013 - 2 StR 206/12](2-str-206-12.md) — Adhäsionsverfahren: Anforderung an die Urteilsgründe bei Zuerkennung eines Schmerzensgeldes
+- [BGH, Beschluss vom 27.02.2013 - 2 StR 517/12](2-str-517-12.md) — Strafverfahren: Antrag auf Aussetzung der Hauptverhandlung bei Übergang von versuchter zur vollendeter Vergewaltigung
+- [BGH, Beschluss vom 13.02.2013 - 2 StR 556/12](2-str-556-12.md) — Beweiswürdigung im Strafverfahren: Verwertbarkeit von außerhalb der Hauptverhandlung erlangtem Wissen und gerichtskundigen Tatsachen
+- [BGH, Beschluss vom 12.02.2013 - 2 StR 524/12](2-str-524-12.md) — Gefährliche Körperverletzung: Ausnutzung eines Überraschungsmoments bei Angriff von hinten als hinterlistiger Überfall
+- [BGH, Beschluss vom 30.01.2013 - 2 StR 224/12](2-str-224-12.md) — Strafzumessung bei Beihilfe zur unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 30.01.2013 - 2 StR 468/12](2-str-468-12.md) — Beweisaufnahme im Strafverfahren: Ablehnung eines Antrags auf Vernehmung eines Zeugen wegen Ungeeignetheit
+- [BGH, Beschluss vom 29.01.2013 - 2 StR 422/12](2-str-422-12.md) — Betrug: Darlehensgewährung durch die über die Bonität des Schuldners getäuschte Bank; Berechnung des Vermögensschadens
+- [BGH, Beschluss vom 29.01.2013 - 2 StR 510/12](2-str-510-12.md) — Stellt die Staatsanwaltschaft das Ermittlungsverfahren gegen den zum Tatvorwurf vernommenen Beschuldigten gemäß § 170 Abs. 2 Satz 1 StPO ein und führt es sodann
+- [BGH, Beschluss vom 17.01.2013 - 2 StR 396/12](2-str-396-12.md) — Gemeinschaftliche räuberische Erpressung: Voraussetzungen für einen strafbefreienden Rücktritt vom Versuch
+- [BGH, Urteil vom 16.01.2013 - 2 StR 106/12](2-str-106-12.md) — Beweiswürdigung im Strafverfahren: Anforderungen bei Tod des einzigen Belastungszeugen vor der Hauptverhandlung und daraus resultierender mangelnder Verteidigun
+- [BGH, Beschluss vom 16.01.2013 - 2 StR 520/12](2-str-520-12.md) — Gefährliche Körperverletzung: Aufprall des Opfers gegen ein Möbelstück nach einem Schlag in das Gesicht
+- [BGH, Beschluss vom 15.01.2013 - 2 StR 512/12](2-str-512-12.md) — Revision im Strafverfahren wegen Totschlags: Aufhebung des erstinstanzlichen Urteils wegen unzureichender Aufklärung und Feststellung des äußeren Tathergangs; n
+- [BGH, Beschluss vom 15.01.2013 - 2 StR 589/12](2-str-589-12.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Schusswaffen in einem anderen Raum als die Betäubungsmittel als Mitsichführen von Schusswaffen

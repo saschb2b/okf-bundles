@@ -1,0 +1,74 @@
+# III. Zivilsenat – 2024
+
+70 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2024 - III ZB 16/24](iii-zb-16-24.md) — BGH, Beschluss III ZB 16/24
+- [BGH, Beschluss vom 19.12.2024 - III ZR 10/23](iii-zr-10-23.md) — BGH, Beschluss III ZR 10/23
+- [BGH, Urteil vom 19.12.2024 - III ZR 24/23](iii-zr-24-23.md) — 1. Die Amtsermittlungspflicht der Behörden kann durch fachgesetzliche Mitwirkungs- und Kooperationspflichten der Beteiligten begrenzt sein. 2. Im Lebensmittelre
+- [BGH, Beschluss vom 19.12.2024 - III ZR 53/23](iii-zr-53-23.md) — Wirksamkeit der Aufnahme des Verfahrens über die Nichtzulassungsbeschwerde durch Erklärung des Insolvenzverwalters
+- [BGH, Beschluss vom 19.12.2024 - III ZR 68/24](iii-zr-68-24.md) — BGH, Beschluss III ZR 68/24
+- [BGH, Urteil vom 12.12.2024 - III ZR 421/23](iii-zr-421-23.md) — Zivilrechtliche Gehilfenhaftung einer Steuerberaterin bei Schneeballsystem
+- [BGH, Beschluss vom 12.12.2024 - III ZR 48/23](iii-zr-48-23.md) — BGH, Beschluss III ZR 48/23
+- [BGH, Beschluss vom 05.12.2024 - III ZR 273/23](iii-zr-273-23.md) — BGH, Beschluss III ZR 273/23
+- [BGH, Beschluss vom 05.12.2024 - III ZR 364/23](iii-zr-364-23.md) — BGH, Beschluss III ZR 364/23
+- [BGH, Beschluss vom 05.12.2024 - III ZR 366/23](iii-zr-366-23.md) — BGH, Beschluss III ZR 366/23
+- [BGH, Beschluss vom 28.11.2024 - III ZB 90/24](iii-zb-90-24.md) — BGH, Beschluss III ZB 90/24
+- [BGH, Urteil vom 28.11.2024 - III ZR 20/23](iii-zr-20-23.md) — Schadensersatz im kreuzungsrechtlichen Gemeinschaftsverhältnis 1. Die schuldhafte Verletzung von Pflichten aus dem kreuzungsrechtlichen Gemeinschaftsverhältnis 
+- [BGH, Beschluss vom 14.11.2024 - III ZR 250/22](iii-zr-250-22.md) — Beschwer bei Verfahren nach dem Gesetz über Unterlassungsklagen bei Verbraucherrechts- oder anderen Verstößen
+- [BGH, Beschluss vom 14.11.2024 - III ZR 42/24](iii-zr-42-24.md) — BGH, Beschluss III ZR 42/24
+- [BGH, Urteil vom 07.11.2024 - III ZR 79/23](iii-zr-79-23.md) — 1. Zur Feststellung der subjektiven Tatseite der Beihilfe bei berufstypischen Tätigkeiten (hier: Steuerberatung und Buchhaltung). 2. Rechtsfehlerhaft ist eine B
+- [BGH, Beschluss vom 06.11.2024 - III ZB 107/22](iii-zb-107-22.md) — Rechtsbeschwerde gegen Aussetzungsbeschluss Gegen die Aussetzung eines Verfahrens gemäß § 8 Abs. 1 Satz 1 KapMuG in der bis zum 19. Juli 2024 geltenden Fassung 
+- [BGH, Beschluss vom 31.10.2024 - III ZR 245/23](iii-zr-245-23.md) — BGH, Beschluss III ZR 245/23
+- [BGH, Beschluss vom 23.10.2024 - III ZB 84/24](iii-zb-84-24.md) — BGH, Beschluss III ZB 84/24
+- [BGH, Beschluss vom 18.10.2024 - III ZR 89/23](iii-zr-89-23.md) — BGH, Beschluss III ZR 89/23
+- [BGH, Beschluss vom 10.10.2024 - III ZR 175/23](iii-zr-175-23.md) — Eigenjagdbezirk, Wert der Beschwer Ist die Zugehörigkeit von Grundstücken (hier: als Eigenjagdbezirk) zu einem Jagdpachtbezirk streitig und ist der Wert der Bes
+- [BGH, Beschluss vom 26.09.2024 - III ZB 55/23](iii-zb-55-23.md) — BGH, Beschluss III ZB 55/23
+- [BGH, Beschluss vom 26.09.2024 - III ZB 82/23](iii-zb-82-23.md) — Wiedereinsetzung, elektronischer Fristenkalender Auch bei einer elektronischen Kalenderführung bedarf es einer Kontrolle des Fristenkalenders, um Datenverarbeit
+- [BGH, Urteil vom 19.09.2024 - III ZR 299/23](iii-zr-299-23.md) — 1. Ein Anlagevermittler genügt seiner Pflicht zur Information über die Bonität des Emittenten einer Kapitalanlage jedenfalls gegenüber einem geschäftserfahrenen
+- [BGH, Beschluss vom 11.09.2024 - III ZR 135/22](iii-zr-135-22.md) — BGH, Beschluss III ZR 135/22
+- [BGH, Beschluss vom 11.09.2024 - III ZR 210/22](iii-zr-210-22.md) — BGH, Beschluss III ZR 210/22
+- [BGH, Beschluss vom 11.09.2024 - III ZR 216/23](iii-zr-216-23.md) — BGH, Beschluss III ZR 216/23
+- [BGH, Beschluss vom 11.09.2024 - III ZR 69/23](iii-zr-69-23.md) — BGH, Beschluss III ZR 69/23
+- [BGH, Beschluss vom 05.09.2024 - III ZB 49/23](iii-zb-49-23.md) — BGH, Beschluss III ZB 49/23
+- [BGH, Beschluss vom 29.08.2024 - III ZR 427/23](iii-zr-427-23.md) — BGH, Beschluss III ZR 427/23
+- [BGH, Urteil vom 15.08.2024 - III ZR 73/23](iii-zr-73-23.md) — Schadensersatzanspruch eines Kapitalanlegers gegen einen Anlagevermittler wegen Auskunftspflichtverletzung; Bedeutung eines eingeschränkten Wirtschaftsprüfer-Te
+- [BGH, Urteil vom 15.08.2024 - III ZR 74/23](iii-zr-74-23.md) — BGH, Urteil III ZR 74/23
+- [BGH, Urteil vom 08.08.2024 - III ZR 287/23](iii-zr-287-23.md) — Anforderungen des Gerichts an den Sachvortrag des Klägers im Rahmen einer Klage auf Schadensersatz wegen notarieller Amtspflichtverletzungen
+- [BGH, Urteil vom 01.08.2024 - III ZR 144/23](iii-zr-144-23.md) — Der Herausgabeanspruch gemäß § 667 Alt. 1 BGB wird bei zweckwidriger Verwendung von zur Anlage bei einer Bank überlassenen Geldmitteln durch den Beauftragten er
+- [BGH, Beschluss vom 25.07.2024 - III ZB 103/23](iii-zb-103-23.md) — BGH, Beschluss III ZB 103/23
+- [BGH, Beschluss vom 25.07.2024 - III ZR 416/23](iii-zr-416-23.md) — BGH, Beschluss III ZR 416/23
+- [BGH, Beschluss vom 18.07.2024 - III ZR 296/23](iii-zr-296-23.md) — BGH, Beschluss III ZR 296/23
+- [BGH, Urteil vom 11.07.2024 - III ZR 176/22](iii-zr-176-22.md) — 1. Zur Feststellung der subjektiven Tatbestandsvoraussetzungen der Beihilfe zu einer vorsätzlich begangenen unerlaubten Handlung; hier: Tragfähigkeit von Indizi
+- [BGH, Beschluss vom 27.06.2024 - III ZR 354/23](iii-zr-354-23.md) — BGH, Beschluss III ZR 354/23
+- [BGH, Urteil vom 13.06.2024 - III ZR 279/23](iii-zr-279-23.md) — 1. Die GOÄ ist auch auf eine ambulante Operation in einer Privatkrankenanstalt anwendbar (Fortführung von Senat, Urteil vom 4. April 2024 - III ZR 38/23, BeckRS
+- [BGH, Beschluss vom 23.05.2024 - III ZR 183/23](iii-zr-183-23.md) — BGH, Beschluss III ZR 183/23
+- [BGH, Urteil vom 16.05.2024 - III ZR 196/22](iii-zr-196-22.md) — Anforderungen an gerichtliche Hinweispflichten; Ansprüche aus einem Hausverwaltervertrag
+- [BGH, Urteil vom 02.05.2024 - III ZR 197/23](iii-zr-197-23.md) — Aus § 8 Abs. 7 Satz 2 und 3 des Bundesmantelvertrags - Zahnärzte ergibt sich kein Schriftformerfordernis im Sinne des § 125 BGB für einen nach § 87 Abs. 1a Satz
+- [BGH, Urteil vom 02.05.2024 - III ZR 259/20](iii-zr-259-20.md) — BGH, Urteil III ZR 259/20
+- [BGH, Beschluss vom 25.04.2024 - III ZB 4/24](iii-zb-4-24.md) — BGH, Beschluss III ZB 4/24
+- [BGH, Beschluss vom 25.04.2024 - III ZB 68/23](iii-zb-68-23.md) — BGH, Beschluss III ZB 68/23
+- [BGH, Beschluss vom 25.04.2024 - III ZR 39/23](iii-zr-39-23.md) — BGH, Beschluss III ZR 39/23
+- [BGH, Beschluss vom 25.04.2024 - III ZR 54/23](iii-zr-54-23.md) — BGH, Beschluss III ZR 54/23
+- [BGH, Beschluss vom 18.04.2024 - III ZB 72/23](iii-zb-72-23.md) — Beschwer und vollstreckungsfähiger Inhalt einer Stufenklage
+- [BGH, Urteil vom 11.04.2024 - III ZR 134/22](iii-zr-134-22.md) — 1. Die infektionsschutzrechtliche Generalklausel des § 28 Abs. 1 Satz 1 IfSG und die Verordnungsermächtigung in § 32 Satz 1 IfSG waren bis zum 18. November 2020
+- [BGH, Urteil vom 04.04.2024 - III ZR 38/23](iii-zr-38-23.md) — Der in § 1 Abs. 1 der Gebührenordnung für Ärzte (GOÄ) beschriebene Anwendungsbereich der GOÄ setzt nicht voraus, dass Vertragspartner des Patienten ein Arzt ist
+- [BGH, Beschluss vom 21.03.2024 - III ZA 1/24, III ZA 2/24](iii-za-1-24-iii-za-2-24.md) — BGH, Beschluss III ZA 1/24, III ZA 2/24
+- [BGH, Urteil vom 21.03.2024 - III ZR 286/20](iii-zr-286-20.md) — BGH, Urteil III ZR 286/20
+- [BGH, Urteil vom 21.03.2024 - III ZR 70/23](iii-zr-70-23.md) — Anlagevermittler, Plausibilitätsprüfung, Pflicht zur Einsichtnahme in Jahresabschlüsse, eingeschränkter Bestätigungsvermerk, einseitig gebliebene (Teil-)Erledig
+- [BGH, Urteil vom 21.03.2024 - III ZR 71/23](iii-zr-71-23.md) — Anlagevermittler, Plausibilitätsprüfung, Pflicht zur Einsichtnahme in Jahresabschlüsse, eingeschränkter Bestätigungsvermerk, einseitig gebliebene (Teil-)Erledig
+- [BGH, Urteil vom 21.03.2024 - III ZR 72/23](iii-zr-72-23.md) — Anlagevermittler, Plausibilitätsprüfung, Pflicht zur Einsichtnahme in Jahresabschlüsse, eingeschränkter Bestätigungsvermerk, einseitig gebliebene (Teil-)Erledig
+- [BGH, Urteil vom 14.03.2024 - III ZR 133/22](iii-zr-133-22.md) — Betreiben unerlaubter Bankgeschäfte: Schadensersatzanspruch gegen den "Direktor" einer Aktiengesellschaft wegen gescheiterter Investitionen über Tochtergesellsc
+- [BGH, Beschluss vom 06.03.2024 - III ZB 2/24](iii-zb-2-24.md) — BGH, Beschluss III ZB 2/24
+- [BGH, Beschluss vom 29.02.2024 - III ZR 162/23](iii-zr-162-23.md) — BGH, Beschluss III ZR 162/23
+- [BGH, Beschluss vom 22.02.2024 - III ZB 65/23](iii-zb-65-23.md) — 1. Zum Erfordernis der Nachholung einer Entscheidung über die Zulassung der Berufung gemäß § 511 Abs. 4 Satz 1 Nr. 1 ZPO durch das Berufungsgericht, wenn das er
+- [BGH, Urteil vom 22.02.2024 - III ZR 13/23](iii-zr-13-23.md) — Amtshaftung Börse, Rechtskraft eines verwaltungsgerichtlichen Urteils 1. Für Amtspflichtverletzungen des Organs einer Börse haftet das Land, das den Rechtsträge
+- [BGH, Beschluss vom 22.02.2024 - III ZR 63/23](iii-zr-63-23.md) — BGH, Beschluss III ZR 63/23
+- [BGH, Beschluss vom 08.02.2024 - III ZR 174/22](iii-zr-174-22.md) — BGH, Beschluss III ZR 174/22
+- [BGH, Beschluss vom 25.01.2024 - III ZB 41/23](iii-zb-41-23.md) — BGH, Beschluss III ZB 41/23
+- [BGH, Beschluss vom 25.01.2024 - III ZR 14/23](iii-zr-14-23.md) — BGH, Beschluss III ZR 14/23
+- [BGH, Beschluss vom 25.01.2024 - III ZR 150/22](iii-zr-150-22.md) — BGH, Beschluss III ZR 150/22
+- [BGH, Beschluss vom 25.01.2024 - III ZR 308/20](iii-zr-308-20.md) — BGH, Beschluss III ZR 308/20
+- [BGH, Urteil vom 18.01.2024 - III ZR 245/22](iii-zr-245-22.md) — Namensschuldverschreibung, Wertpapierprospekt, Transparenzgebot, Darlegungs- und Beweislast 1. Zum Verstoß gegen das Transparenzgebot bei unverbrieften Namenssc
+- [BGH, Urteil vom 18.01.2024 - III ZR 246/22](iii-zr-246-22.md) — BGH, Urteil III ZR 246/22
+- [BGH, Urteil vom 11.01.2024 - III ZR 15/23](iii-zr-15-23.md) — Die Mitarbeiter eines privaten Unternehmens, die zur Ausführung einer von der Straßenbaubehörde angeordneten Verkehrsregelung (§ 45 Abs. 2 StVO), in deren Mitte
+- [BGH, Beschluss vom 10.01.2024 - III ZR 57/23](iii-zr-57-23.md) — 1. Zur Haftung der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) im Zusammenhang mit dem sogenannten "Wirecard-Bilanzskandal". 2. Ob aus der ex-ante-S

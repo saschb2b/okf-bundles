@@ -1,0 +1,42 @@
+# V. Zivilsenat – 2009
+
+38 Entscheidung(en).
+
+- [BGH, Urteil vom 11.12.2009 - V ZR 110/09](v-zr-110-09.md) — BGH, Urteil vom 11.12.2009 - V ZR 110/09
+- [BGH, Beschluss vom 19.11.2009 - V ZB 118/09](v-zb-118-09.md) — erteilt werden, wenn der betreibende Gläubiger bei der Anhörung über den Zuschlag (§ 74 ZVG) das Verfahren genehmigt.
+- [BGH, Urteil vom 13.11.2009 - V ZR 10/09](v-zr-10-09.md) — Tatbestand:
+- [BGH, Beschluss vom 12.11.2009 - V ZR 76/09](v-zr-76-09.md) — BGH, Beschluss vom 12.11.2009 - V ZR 76/09
+- [BGH, Urteil vom 30.10.2009 - V ZR 17/09](v-zr-17-09.md) — Lärmbelästigungen tritt auch dann hinter die im Planfeststellungsverfahren gegebenen Rechtsbehelfe zurück, wenn der Vorhabenträger die den N
+- [BGH, Urteil vom 30.10.2009 - V ZR 42/09](v-zr-42-09.md) — Tatbestand:
+- [BGH, Beschluss vom 29.10.2009 - V ZR 54/09](v-zr-54-09.md) — Verstoßes gegen das Koppelungsverbot (§ 11 Abs. 2 Satz 2 BauGB) unzulässigen Zahlung unterliegt auch dann nicht der Verjährung nach § 196 BG
+- [BGH, Beschluss vom 15.10.2009 - V ZB 43/09](v-zb-43-09.md) — eines dinglichen Anspruchs von 109.000 € zuzüglich Zin-
+- [BGH, Beschluss vom 15.10.2009 - V ZR 46/09](v-zr-46-09.md) — BGH, Beschluss vom 15.10.2009 - V ZR 46/09
+- [BGH, Urteil vom 25.09.2009 - V ZR 33/09](v-zr-33-09.md) — BGH, Urteil vom 25.09.2009 - V ZR 33/09
+- [BGH, Urteil vom 25.09.2009 - V ZR 36/09](v-zr-36-09.md) — Tatbestand:
+- [BGH, Beschluss vom 23.09.2009 - V ZB 90/09](v-zb-90-09.md) — der Auslagen und Anstrengungen bei der Vermietung nicht aus. Diese können aber nicht im Festsetzungsverfahren nach § 153 ZVG, sondern nur in
+- [BGH, Beschluss vom 23.09.2009 - V ZR 140/09](v-zr-140-09.md) — BGH, Beschluss vom 23.09.2009 - V ZR 140/09
+- [BGH, Urteil vom 18.09.2009 - V ZR 118/08](v-zr-118-08.md) — BGH, Urteil vom 18.09.2009 - V ZR 118/08
+- [BGH, Beschluss vom 14.09.2009 - V ZB 105/09](v-zb-105-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 105/09
+- [BGH, Beschluss vom 14.09.2009 - V ZB 106/09](v-zb-106-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 106/09
+- [BGH, Beschluss vom 14.09.2009 - V ZB 107/09](v-zb-107-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 107/09
+- [BGH, Beschluss vom 14.09.2009 - V ZB 108/09](v-zb-108-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 108/09
+- [BGH, Beschluss vom 14.09.2009 - V ZB 109/09](v-zb-109-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 109/09
+- [BGH, Beschluss vom 14.09.2009 - V ZB 110/09](v-zb-110-09.md) — BGH, Beschluss vom 14.09.2009 - V ZB 110/09
+- [BGH, Urteil vom 17.07.2009 - V ZR 254/08](v-zr-254-08.md) — Tatbestand:
+- [BGH, Urteil vom 10.07.2009 - V ZR 72/08](v-zr-72-08.md) — Tatbestand
+- [BGH, Beschluss vom 02.07.2009 - V ZB 40/09](v-zb-40-09.md) — BGH, Beschluss vom 02.07.2009 - V ZB 40/09
+- [BGH, Beschluss vom 04.06.2009 - V ZR 228/08](v-zr-228-08.md) — BGH, Beschluss vom 04.06.2009 - V ZR 228/08
+- [BGH, Beschluss vom 07.05.2009 - V ZB 142/08](v-zb-142-08.md) — Ansprüche der Gläubigerin auf Hausgeldrückstände in der
+- [BGH, Urteil vom 27.03.2009 - V ZR 30/08](v-zr-30-08.md) — Verschuldens bei Vertragschluss sind im Sachbereich der §§ 434 ff. BGB nach Gefahrübergang grundsätzlich ausgeschlossen; das gilt jedoch zum
+- [BGH, Beschluss vom 27.02.2009 - V ZA 27/08](v-za-27-08.md) — BGH, Beschluss vom 27.02.2009 - V ZA 27/08
+- [BGH, Urteil vom 20.02.2009 - V ZR 184/08](v-zr-184-08.md) — Tatbestand:
+- [BGH, Beschluss vom 19.02.2009 - V ZA 18/08](v-za-18-08.md) — BGH, Beschluss vom 19.02.2009 - V ZA 18/08
+- [BGH, Urteil vom 06.02.2009 - V ZR 130/08](v-zr-130-08.md) — Tatbestand:
+- [BGH, Beschluss vom 05.02.2009 - V ZB 169/08](v-zb-169-08.md) — BGH, Beschluss vom 05.02.2009 - V ZB 169/08
+- [BGH, Beschluss vom 29.01.2009 - V ZB 140/08](v-zb-140-08.md) — BGH, Beschluss vom 29.01.2009 - V ZB 140/08
+- [BGH, Beschluss vom 29.01.2009 - V ZR 152/08](v-zr-152-08.md) — BGH, Beschluss vom 29.01.2009 - V ZR 152/08
+- [BGH, Beschluss vom 15.01.2009 - V ZB 166/08](v-zb-166-08.md) — BGH, Beschluss vom 15.01.2009 - V ZB 166/08
+- [BGH, Beschluss vom 15.01.2009 - V ZR 191/08](v-zr-191-08.md) — BGH, Beschluss vom 15.01.2009 - V ZR 191/08
+- [BGH, Versäumnisurteil vom 09.01.2009 - V ZR 168/07](v-zr-168-07.md) — Umzugs in ein Pflegeheim nicht mehr ausüben kann, kommt eine ergänzende Vertragsauslegung in Betracht. Eine Verpflichtung des Eigentümers, d
+- [BGH, Beschluss vom 08.01.2009 - V ZA 14/08](v-za-14-08.md) — BGH, Beschluss vom 08.01.2009 - V ZA 14/08
+- [BGH, Beschluss vom 07.01.2009 - V ZB 160/08](v-zb-160-08.md) — BGH, Beschluss vom 07.01.2009 - V ZB 160/08

@@ -1,0 +1,142 @@
+# VII. Zivilsenat – 2024
+
+138 Entscheidung(en).
+
+- [BGH, Urteil vom 19.12.2024 - VII ZR 130/22](vii-zr-130-22.md) — Eine Teilklage auf Vergütung gemäß § 649 Satz 2 BGB a. F. ist unzulässig, wenn mit ihr nicht ein abgrenzbarer Teilbetrag aus dem Schlussrechnungssaldo, sondern 
+- [BGH, Beschluss vom 18.12.2024 - VII ZB 30/23](vii-zb-30-23.md) — Im Klauselerteilungsverfahren nach §§ 724 ff. ZPO können für ein gemäß § 93 Abs. 1 Satz 2 ZVG zu berücksichtigendes Besitzrecht eines Dritten nur solche Umständ
+- [BGH, Beschluss vom 04.12.2024 - VII ZR 125/23](vii-zr-125-23.md) — BGH, Beschluss VII ZR 125/23
+- [BGH, Beschluss vom 04.12.2024 - VII ZR 192/23](vii-zr-192-23.md) — BGH, Beschluss VII ZR 192/23
+- [BGH, Beschluss vom 04.12.2024 - VII ZR 196/23](vii-zr-196-23.md) — BGH, Beschluss VII ZR 196/23
+- [BGH, Beschluss vom 04.12.2024 - VII ZR 41/24](vii-zr-41-24.md) — BGH, Beschluss VII ZR 41/24
+- [BGH, Urteil vom 21.11.2024 - VII ZR 245/23](vii-zr-245-23.md) — Die dreijährige Verjährungsfrist des Anspruchs auf Stellung einer Bauhandwerkersicherung nach § 648a Abs. 1 Satz 1 BGB (in der Fassung vom 23. Oktober 2008) beg
+- [BGH, Urteil vom 21.11.2024 - VII ZR 39/24](vii-zr-39-24.md) — Zur Haftung des Betreibers einer Portalwaschanlage für die Beschädigung eines mit einem serienmäßigen Heckspoiler ausgestatteten Fahrzeugs.
+- [BGH, Beschluss vom 20.11.2024 - VII ZR 105/22](vii-zr-105-22.md) — BGH, Beschluss VII ZR 105/22
+- [BGH, Beschluss vom 20.11.2024 - VII ZR 146/22](vii-zr-146-22.md) — BGH, Beschluss VII ZR 146/22
+- [BGH, Beschluss vom 20.11.2024 - VII ZR 191/23](vii-zr-191-23.md) — Eine Partei ist grundsätzlich nicht gehindert, ihr Vorbringen im Laufe des Rechtsstreits zu ändern und insbesondere zu präzisieren, zu ergänzen oder zu berichti
+- [BGH, Beschluss vom 20.11.2024 - VII ZR 246/23](vii-zr-246-23.md) — BGH, Beschluss VII ZR 246/23
+- [BGH, Beschluss vom 20.11.2024 - VII ZR 65/22](vii-zr-65-22.md) — BGH, Beschluss VII ZR 65/22
+- [BGH, Beschluss vom 06.11.2024 - VII ZR 58/24](vii-zr-58-24.md) — BGH, Beschluss VII ZR 58/24
+- [BGH, EuGH-Vorlage vom 24.10.2024 - VII ZR 199/22](vii-zr-199-22.md) — Dem Gerichtshof der Europäischen Union werden zur Auslegung des Unionsrechts gemäß Art. 267 Abs. 1 Buchstabe a) AEUV folgende Fragen vorgelegt: 1. Ist der Begri
+- [BGH, Beschluss vom 23.10.2024 - VII ZR 106/23](vii-zr-106-23.md) — BGH, Beschluss VII ZR 106/23
+- [BGH, Beschluss vom 23.10.2024 - VII ZR 169/23](vii-zr-169-23.md) — BGH, Beschluss VII ZR 169/23
+- [BGH, Beschluss vom 23.10.2024 - VII ZR 60/23](vii-zr-60-23.md) — BGH, Beschluss VII ZR 60/23
+- [BGH, Urteil vom 10.10.2024 - VII ZR 240/23](vii-zr-240-23.md) — Verzögerungen im Zustellungsverfahren, die durch eine fehlerhafte Sachbehandlung des Gerichts verursacht sind, sind dem Zustellungsbetreiber nicht zuzurechnen (
+- [BGH, Urteil vom 10.10.2024 - VII ZR 98/22](vii-zr-98-22.md) — Ein Urteil, dessen Tenor in sich selbst unauflösbar widersprüchlich ist, ist insgesamt aufzuheben und zwar auch insoweit, als es zugunsten der Partei ergangen i
+- [BGH, Beschluss vom 09.10.2024 - VII ZR 111/23](vii-zr-111-23.md) — BGH, Beschluss VII ZR 111/23
+- [BGH, Beschluss vom 09.10.2024 - VII ZR 114/24](vii-zr-114-24.md) — BGH, Beschluss VII ZR 114/24
+- [BGH, Beschluss vom 09.10.2024 - VII ZR 152/23](vii-zr-152-23.md) — BGH, Beschluss VII ZR 152/23
+- [BGH, Beschluss vom 09.10.2024 - VII ZR 173/23](vii-zr-173-23.md) — BGH, Beschluss VII ZR 173/23
+- [BGH, Beschluss vom 09.10.2024 - VII ZR 19/24](vii-zr-19-24.md) — BGH, Beschluss VII ZR 19/24
+- [BGH, Urteil vom 19.09.2024 - VII ZR 10/24](vii-zr-10-24.md) — 1. Eine Anordnung im Sinne des § 2 Abs. 5 VOB/B erfordert eine rechtsgeschäftliche Erklärung des Auftraggebers, mit der einseitig eine Änderung der Vertragspfli
+- [BGH, Beschluss vom 18.09.2024 - VII ZR 37/23](vii-zr-37-23.md) — BGH, Beschluss VII ZR 37/23
+- [BGH, Beschluss vom 04.09.2024 - VII ZR 18/24](vii-zr-18-24.md) — BGH, Beschluss VII ZR 18/24
+- [BGH, Beschluss vom 04.09.2024 - VII ZR 34/24](vii-zr-34-24.md) — BGH, Beschluss VII ZR 34/24
+- [BGH, Urteil vom 22.08.2024 - VII ZR 68/22](vii-zr-68-22.md) — Die Minderung des Vergütungsanspruchs nach § 634 Nr. 3, Fall 2, § 638 BGB schließt einen Kostenvorschussanspruch nach § 634 Nr. 2, § 637 Abs. 3 BGB wegen des Ma
+- [BGH, Beschluss vom 21.08.2024 - VII ZA 3/24](vii-za-3-24.md) — BGH, Beschluss VII ZA 3/24
+- [BGH, Beschluss vom 21.08.2024 - VII ZR 181/23](vii-zr-181-23.md) — BGH, Beschluss VII ZR 181/23
+- [BGH, Beschluss vom 21.08.2024 - VII ZR 237/22](vii-zr-237-22.md) — BGH, Beschluss VII ZR 237/22
+- [BGH, Beschluss vom 21.08.2024 - VII ZR 5/23](vii-zr-5-23.md) — BGH, Beschluss VII ZR 5/23
+- [BGH, Beschluss vom 21.08.2024 - VII ZR 6/24](vii-zr-6-24.md) — BGH, Beschluss VII ZR 6/24
+- [BGH, Beschluss vom 21.08.2024 - VII ZR 69/23](vii-zr-69-23.md) — BGH, Beschluss VII ZR 69/23
+- [BGH, Beschluss vom 21.08.2024 - VII ZR 88/22](vii-zr-88-22.md) — BGH, Beschluss VII ZR 88/22
+- [BGH, Beschluss vom 13.08.2024 - VII ZB 5/24](vii-zb-5-24.md) — BGH, Beschluss VII ZB 5/24
+- [BGH, Beschluss vom 07.08.2024 - VII ZR 120/23](vii-zr-120-23.md) — BGH, Beschluss VII ZR 120/23
+- [BGH, Beschluss vom 07.08.2024 - VII ZR 167/23](vii-zr-167-23.md) — BGH, Beschluss VII ZR 167/23
+- [BGH, Beschluss vom 07.08.2024 - VII ZR 20/22](vii-zr-20-22.md) — BGH, Beschluss VII ZR 20/22
+- [BGH, Beschluss vom 07.08.2024 - VII ZR 251/22](vii-zr-251-22.md) — BGH, Beschluss VII ZR 251/22
+- [BGH, Beschluss vom 07.08.2024 - VII ZR 76/23](vii-zr-76-23.md) — BGH, Beschluss VII ZR 76/23
+- [BGH, Urteil vom 25.07.2024 - VII ZR 145/23](vii-zr-145-23.md) — Der Anspruch eines Versicherungsvertreters auf Erteilung eines Buchauszugs gemäß § 92 Abs. 2 HGB i. V. mit § 87c Abs. 2 HGB umfasst auch Angaben zu prämien- ode
+- [BGH, Urteil vom 25.07.2024 - VII ZR 646/21](vii-zr-646-21.md) — Die durch das Urteil des Bundesfinanzhofs vom 22. August 2013 (V R 37/10, BFHE 243, 20) veranlasste ergänzende Vertragsauslegung im Verhältnis des leistenden Ba
+- [BGH, Urteil vom 25.07.2024 - VII ZR 84/21](vii-zr-84-21.md) — Die durch das Urteil des Bundesfinanzhofs vom 22. August 2013 (V R 37/10, BFHE 243, 20) veranlasste ergänzende Vertragsauslegung im Verhältnis des leistenden Ba
+- [BGH, Beschluss vom 24.07.2024 - VII ZR 222/23](vii-zr-222-23.md) — BGH, Beschluss VII ZR 222/23
+- [BGH, Beschluss vom 24.07.2024 - VII ZR 229/23](vii-zr-229-23.md) — Nichtzulassungsbeschwerde: Verletzung des Anspruchs auf Gewährung rechtlichen Gehörs in entscheidungserheblicher Weise
+- [BGH, Urteil vom 11.07.2024 - VII ZR 127/23](vii-zr-127-23.md) — 1. Fordert der Besteller eine Werklohnvorauszahlung zurück, nachdem der Unternehmer Leistungen erbracht hat, muss der Besteller schlüssig die Voraussetzungen ei
+- [BGH, Urteil vom 11.07.2024 - VII ZR 425/21](vii-zr-425-21.md) — BGH, Urteil VII ZR 425/21
+- [BGH, Beschluss vom 10.07.2024 - VII ZR 173/22](vii-zr-173-22.md) — BGH, Beschluss VII ZR 173/22
+- [BGH, Beschluss vom 10.07.2024 - VII ZR 179/22](vii-zr-179-22.md) — BGH, Beschluss VII ZR 179/22
+- [BGH, Beschluss vom 10.07.2024 - VII ZR 9/24](vii-zr-9-24.md) — BGH, Beschluss VII ZR 9/24
+- [BGH, Beschluss vom 26.06.2024 - VII ZR 154/22](vii-zr-154-22.md) — BGH, Beschluss VII ZR 154/22
+- [BGH, Beschluss vom 26.06.2024 - VII ZR 195/22](vii-zr-195-22.md) — Verletzung des rechtlichen Gehörs: Schlüssigkeit des Vortrags zu mündlicher Aufsichtszusage eines Baumaterialherstellers
+- [BGH, Beschluss vom 12.06.2024 - VII ZB 24/23](vii-zb-24-23.md) — Soweit der Barunterhalt eines minderjährigen Kindes gedeckt ist, bedarf der betreuende Elternteil keines gemäß § 850d Abs. 1 Satz 2 ZPO pfändungsfrei zu belasse
+- [BGH, Beschluss vom 12.06.2024 - VII ZR 126/22](vii-zr-126-22.md) — Eine Nichtzulassungsbeschwerde ist unzulässig, wenn der Beschwerdeführer einen Zulassungsgrund nur für einen abtrennbaren Teil des Streitstoffes dargelegt hat, 
+- [BGH, Beschluss vom 12.06.2024 - VII ZR 847/21](vii-zr-847-21.md) — BGH, Beschluss VII ZR 847/21
+- [BGH, Beschluss vom 29.05.2024 - VII ZR 225/23](vii-zr-225-23.md) — BGH, Beschluss VII ZR 225/23
+- [BGH, Beschluss vom 29.05.2024 - VII ZR 97/23](vii-zr-97-23.md) — BGH, Beschluss VII ZR 97/23
+- [BGH, Beschluss vom 15.05.2024 - VII ZR 118/23](vii-zr-118-23.md) — BGH, Beschluss VII ZR 118/23
+- [BGH, Beschluss vom 15.05.2024 - VII ZR 134/23](vii-zr-134-23.md) — BGH, Beschluss VII ZR 134/23
+- [BGH, Beschluss vom 15.05.2024 - VII ZR 147/22](vii-zr-147-22.md) — BGH, Beschluss VII ZR 147/22
+- [BGH, Beschluss vom 15.05.2024 - VII ZR 152/22](vii-zr-152-22.md) — BGH, Beschluss VII ZR 152/22
+- [BGH, Beschluss vom 15.05.2024 - VII ZR 154/23](vii-zr-154-23.md) — BGH, Beschluss VII ZR 154/23
+- [BGH, Beschluss vom 15.05.2024 - VII ZR 52/23](vii-zr-52-23.md) — BGH, Beschluss VII ZR 52/23
+- [BGH, Beschluss vom 15.05.2024 - VII ZR 82/22](vii-zr-82-22.md) — BGH, Beschluss VII ZR 82/22
+- [BGH, Urteil vom 25.04.2024 - VII ZR 109/23](vii-zr-109-23.md) — Berufungsverfahren: Pflicht des Einzelrichters zur Vorlage des Rechtsstreits an das Kollegium zur Entscheidung; Folgen der Nichtbeachtung der Vorlagepflicht
+- [BGH, Urteil vom 25.04.2024 - VII ZR 798/21](vii-zr-798-21.md) — BGH, Urteil VII ZR 798/21
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 110/23](vii-zr-110-23.md) — BGH, Beschluss VII ZR 110/23
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 136/23](vii-zr-136-23.md) — 1. Das Berufungsgericht hat im Hinblick auf den Grundsatz der Gewährung rechtlichen Gehörs einen im ersten Rechtszug vernommenen Zeugen erneut zu vernehmen, wen
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 138/23](vii-zr-138-23.md) — BGH, Beschluss VII ZR 138/23
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 186/23](vii-zr-186-23.md) — BGH, Beschluss VII ZR 186/23
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 205/22](vii-zr-205-22.md) — BGH, Beschluss VII ZR 205/22
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 53/22](vii-zr-53-22.md) — BGH, Beschluss VII ZR 53/22
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 747/21](vii-zr-747-21.md) — BGH, Beschluss VII ZR 747/21
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 80/23](vii-zr-80-23.md) — BGH, Beschluss VII ZR 80/23
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 871/21](vii-zr-871-21.md) — Verletzung rechtlichen Gehörs bei Schadensersatzklage wegen Baumängeln an Lüftungsanlage
+- [BGH, Beschluss vom 24.04.2024 - VII ZR 886/21](vii-zr-886-21.md) — BGH, Beschluss VII ZR 886/21
+- [BGH, Beschluss vom 10.04.2024 - VII ZB 29/23](vii-zb-29-23.md) — Der nach § 66 Abs. 1 Satz 3 SGB X bestellte Vollstreckungsbeamte einer gesetzlichen Krankenkasse, die als bundesunmittelbare Körperschaft des öffentlichen Recht
+- [BGH, Beschluss vom 10.04.2024 - VII ZR 116/22](vii-zr-116-22.md) — BGH, Beschluss VII ZR 116/22
+- [BGH, Beschluss vom 10.04.2024 - VII ZR 226/22](vii-zr-226-22.md) — BGH, Beschluss VII ZR 226/22
+- [BGH, Beschluss vom 10.04.2024 - VII ZR 96/23](vii-zr-96-23.md) — BGH, Beschluss VII ZR 96/23
+- [BGH, Urteil vom 27.03.2024 - VII ZR 745/21](vii-zr-745-21.md) — BGH, Urteil VII ZR 745/21
+- [BGH, Urteil vom 27.03.2024 - VII ZR 906/21](vii-zr-906-21.md) — BGH, Urteil VII ZR 906/21
+- [BGH, Beschluss vom 13.03.2024 - VII ZR 143/22](vii-zr-143-22.md) — BGH, Beschluss VII ZR 143/22
+- [BGH, Beschluss vom 13.03.2024 - VII ZR 24/23](vii-zr-24-23.md) — BGH, Beschluss VII ZR 24/23
+- [BGH, Beschluss vom 13.03.2024 - VII ZR 57/23](vii-zr-57-23.md) — BGH, Beschluss VII ZR 57/23
+- [BGH, Beschluss vom 13.03.2024 - VII ZR 896/21](vii-zr-896-21.md) — BGH, Beschluss VII ZR 896/21
+- [BGH, Beschluss vom 13.03.2024 - VII ZR 94/23](vii-zr-94-23.md) — BGH, Beschluss VII ZR 94/23
+- [BGH, Urteil vom 29.02.2024 - VII ZR 274/21](vii-zr-274-21.md) — BGH, Urteil VII ZR 274/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 384/21](vii-zr-384-21.md) — BGH, Urteil VII ZR 384/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 536/21](vii-zr-536-21.md) — BGH, Urteil VII ZR 536/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 578/21](vii-zr-578-21.md) — BGH, Urteil VII ZR 578/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 597/21](vii-zr-597-21.md) — BGH, Urteil VII ZR 597/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 626/21](vii-zr-626-21.md) — BGH, Urteil VII ZR 626/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 628/21](vii-zr-628-21.md) — BGH, Urteil VII ZR 628/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 701/21](vii-zr-701-21.md) — BGH, Urteil VII ZR 701/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 729/21](vii-zr-729-21.md) — BGH, Urteil VII ZR 729/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 902/21](vii-zr-902-21.md) — BGH, Urteil VII ZR 902/21
+- [BGH, Urteil vom 29.02.2024 - VII ZR 903/21](vii-zr-903-21.md) — BGH, Urteil VII ZR 903/21
+- [BGH, Urteil vom 15.02.2024 - VII ZR 42/22](vii-zr-42-22.md) — Zur Unwirksamkeit der vom Auftraggeber in einem Einheitspreisvertrag verwendeten Vertragsstrafenklausel "2.1 Der Auftragnehmer hat bei Überschreitung ... der Fr
+- [BGH, Urteil vom 15.02.2024 - VII ZR 446/21](vii-zr-446-21.md) — BGH, Urteil VII ZR 446/21
+- [BGH, Urteil vom 15.02.2024 - VII ZR 610/21](vii-zr-610-21.md) — BGH, Urteil VII ZR 610/21
+- [BGH, Urteil vom 15.02.2024 - VII ZR 636/21](vii-zr-636-21.md) — BGH, Urteil VII ZR 636/21
+- [BGH, Urteil vom 15.02.2024 - VII ZR 905/21](vii-zr-905-21.md) — BGH, Urteil VII ZR 905/21
+- [BGH, Beschluss vom 14.02.2024 - VII ZB 3/23](vii-zb-3-23.md) — BGH, Beschluss VII ZB 3/23
+- [BGH, Beschluss vom 14.02.2024 - VII ZR 116/23](vii-zr-116-23.md) — BGH, Beschluss VII ZR 116/23
+- [BGH, Beschluss vom 14.02.2024 - VII ZR 131/23](vii-zr-131-23.md) — BGH, Beschluss VII ZR 131/23
+- [BGH, Beschluss vom 14.02.2024 - VII ZR 221/22](vii-zr-221-22.md) — BGH, Beschluss VII ZR 221/22
+- [BGH, Beschluss vom 14.02.2024 - VII ZR 831/21](vii-zr-831-21.md) — BGH, Beschluss VII ZR 831/21
+- [BGH, Beschluss vom 14.02.2024 - VII ZR 84/23](vii-zr-84-23.md) — BGH, Beschluss VII ZR 84/23
+- [BGH, Beschluss vom 14.02.2024 - VII ZR 89/22](vii-zr-89-22.md) — BGH, Beschluss VII ZR 89/22
+- [BGH, Beschluss vom 14.02.2024 - VII ZR 89/23](vii-zr-89-23.md) — BGH, Beschluss VII ZR 89/23
+- [BGH, Urteil vom 01.02.2024 - VII ZR 171/22](vii-zr-171-22.md) — § 538 Abs. 2 Satz 1 Nr. 1 ZPO lässt im Falle eines in der ersten Instanz unterlaufenen Verfahrensfehlers, zu dem auch die nicht vorschriftsmäßige Besetzung des 
+- [BGH, Urteil vom 01.02.2024 - VII ZR 599/21](vii-zr-599-21.md) — BGH, Urteil VII ZR 599/21
+- [BGH, Urteil vom 01.02.2024 - VII ZR 603/21](vii-zr-603-21.md) — BGH, Urteil VII ZR 603/21
+- [BGH, Urteil vom 01.02.2024 - VII ZR 688/21](vii-zr-688-21.md) — BGH, Urteil VII ZR 688/21
+- [BGH, Urteil vom 01.02.2024 - VII ZR 715/21](vii-zr-715-21.md) — BGH, Urteil VII ZR 715/21
+- [BGH, Urteil vom 01.02.2024 - VII ZR 795/21](vii-zr-795-21.md) — BGH, Urteil VII ZR 795/21
+- [BGH, Beschluss vom 31.01.2024 - VII ZB 57/21](vii-zb-57-21.md) — Zur Frage der Offenkundigkeit einer Rechtsnachfolge bei deren Bekanntmachung im Staatsanzeiger für Baden-Württemberg.
+- [BGH, Beschluss vom 31.01.2024 - VII ZR 103/23](vii-zr-103-23.md) — BGH, Beschluss VII ZR 103/23
+- [BGH, Beschluss vom 31.01.2024 - VII ZR 113/23](vii-zr-113-23.md) — BGH, Beschluss VII ZR 113/23
+- [BGH, Beschluss vom 31.01.2024 - VII ZR 115/22](vii-zr-115-22.md) — BGH, Beschluss VII ZR 115/22
+- [BGH, Beschluss vom 31.01.2024 - VII ZR 179/23](vii-zr-179-23.md) — BGH, Beschluss VII ZR 179/23
+- [BGH, Beschluss vom 31.01.2024 - VII ZR 242/22](vii-zr-242-22.md) — BGH, Beschluss VII ZR 242/22
+- [BGH, Beschluss vom 31.01.2024 - VII ZR 68/23](vii-zr-68-23.md) — BGH, Beschluss VII ZR 68/23
+- [BGH, Urteil vom 18.01.2024 - VII ZR 142/22](vii-zr-142-22.md) — Zur ergänzenden Vertragsauslegung (hier: Rücktrittsrecht) eines im Zusammenhang mit einem Mietvertrag abgeschlossenen Bewirtungsvertrags.
+- [BGH, Urteil vom 18.01.2024 - VII ZR 34/23](vii-zr-34-23.md) — Zur Bemessung des Anspruchs auf Bauhandwerkersicherung in Fällen des § 650f Abs. 5 Satz 2 und 3 BGB.
+- [BGH, Beschluss vom 17.01.2024 - VII ZA 7/23](vii-za-7-23.md) — BGH, Beschluss VII ZA 7/23
+- [BGH, Beschluss vom 17.01.2024 - VII ZB 2/23](vii-zb-2-23.md) — Der von der Vollstreckungsbehörde in Form eines elektronischen Dokuments zu erteilende Vollstreckungsauftrag zur Pfändung und Verwertung beweglicher körperliche
+- [BGH, Beschluss vom 17.01.2024 - VII ZB 22/23](vii-zb-22-23.md) — 1. Für die Rücksendung des elektronischen Empfangsbekenntnisses in Form eines strukturierten Datensatzes per besonderem elektronischen Anwaltspostfach (beA) ist
+- [BGH, Beschluss vom 17.01.2024 - VII ZB 54/21](vii-zb-54-21.md) — Die Feststellung der Identität zwischen dem die Zwangsvollstreckung betreibenden Gläubiger und dem im Vollstreckungsbescheid genannten Titelgläubiger hat nach d
+- [BGH, Beschluss vom 17.01.2024 - VII ZR 100/23](vii-zr-100-23.md) — BGH, Beschluss VII ZR 100/23
+- [BGH, Beschluss vom 17.01.2024 - VII ZR 123/23](vii-zr-123-23.md) — BGH, Beschluss VII ZR 123/23
+- [BGH, Beschluss vom 17.01.2024 - VII ZR 139/23](vii-zr-139-23.md) — BGH, Beschluss VII ZR 139/23
+- [BGH, Beschluss vom 17.01.2024 - VII ZR 38/22](vii-zr-38-22.md) — BGH, Beschluss VII ZR 38/22
+- [BGH, Beschluss vom 17.01.2024 - VII ZR 77/23](vii-zr-77-23.md) — BGH, Beschluss VII ZR 77/23

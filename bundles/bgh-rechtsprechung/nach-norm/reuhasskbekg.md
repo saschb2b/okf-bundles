@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu REuHassKBekG"
 description: "BGH-Entscheidungen zu REuHassKBekG, geordnet nach Vorschrift."
 tags: [register, navigation, reuhasskbekg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des REuHassKBekG 
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 52 REuHassKBekG | [BGH, Beschluss vom 12.11.2024 - 6 StR 572/24](../entscheidungen/6-strafsenat/2024/6-str-572-24.md) |
+| § REuHassKBekG | [BGH, Beschluss vom 12.11.2024 - 6 StR 572/24](../entscheidungen/6-strafsenat/2024/6-str-572-24.md) |

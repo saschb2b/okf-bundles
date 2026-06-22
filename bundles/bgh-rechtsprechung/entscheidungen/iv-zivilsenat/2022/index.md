@@ -1,0 +1,51 @@
+# IV. Zivilsenat – 2022
+
+47 Entscheidung(en).
+
+- [BGH, Beschluss vom 14.12.2022 - IV ZB 1/22](iv-zb-1-22.md) — Eine der Rechtskraft fähige Entscheidung gemäß § 322 Abs. 2 ZPO liegt auch dann vor, wenn eine hilfsweise zur Aufrechnung gestellte Forderung unberücksichtigt b
+- [BGH, Beschluss vom 30.11.2022 - IV ZB 10/22](iv-zb-10-22.md) — BGH, Beschluss IV ZB 10/22
+- [BGH, Beschluss vom 30.11.2022 - IV ZB 17/22](iv-zb-17-22.md) — 1. Ein über das besondere elektronische Anwaltspostfach (beA) eingereichtes elektronisches Dokument ist erst dann gemäß § 130a Abs. 5 Satz 1 ZPO wirksam bei dem
+- [BGH, Urteil vom 30.11.2022 - IV ZR 143/21](iv-zr-143-21.md) — Aus § 126 Abs. 2 Satz 1 VVG ergibt sich weder unmittelbar noch in entsprechender Anwendung eine aktive gesetzliche Prozessstandschaft des Schadensabwicklungsunt
+- [BGH, Urteil vom 30.11.2022 - IV ZR 294/20](iv-zr-294-20.md) — BGH, Urteil IV ZR 294/20
+- [BGH, Urteil vom 30.11.2022 - IV ZR 302/20](iv-zr-302-20.md) — BGH, Urteil IV ZR 302/20
+- [BGH, Urteil vom 30.11.2022 - IV ZR 307/21](iv-zr-307-21.md) — Wirksamkeit einer Beitragserhöhung in der privaten Krankenversicherung; Rückforderung überzahlter Beiträge
+- [BGH, Urteil vom 30.11.2022 - IV ZR 327/20](iv-zr-327-20.md) — BGH, Urteil IV ZR 327/20
+- [BGH, Urteil vom 30.11.2022 - IV ZR 329/20](iv-zr-329-20.md) — BGH, Urteil IV ZR 329/20
+- [BGH, Versäumnisurteil vom 30.11.2022 - IV ZR 60/22](iv-zr-60-22.md) — Einem Pflichtteilsberechtigten steht auch nach Ausschlagung seines Erbteils gemäß § 2306 Abs. 1 BGB ein Auskunftsanspruch gemäß § 2314 Abs. 1 BGB zu.
+- [BGH, Urteil vom 09.11.2022 - IV ZR 62/22](iv-zr-62-22.md) — Der in den Klauseln zu einer Wohngebäudeversicherung (hier: Klauseln zu den WGB F 01/08 K.7) als "naturbedingtes Abgleiten oder Abstürzen von Gesteins- oder Erd
+- [BGH, Urteil vom 02.11.2022 - IV ZR 257/21](iv-zr-257-21.md) — Ergibt sich aufgrund eines allein vom Versicherungsnehmer einer Unfallversicherung initiierten Neubemessungsverlangens eine Verbesserung des Gesundheitszustands
+- [BGH, Beschluss vom 02.11.2022 - IV ZR 39/22](iv-zr-39-22.md) — Feststellungsinteresse des Sozialleistungsträgers an der Erbenstellung nach Ausschlagung des Erbes durch den Sozialleistungsempfänger zugunsten der eigenen Kind
+- [BGH, Urteil vom 19.10.2022 - IV ZR 185/20](iv-zr-185-20.md) — 1. Die Formulierung "unerwartete und schwere" Erkrankung in den Bestimmungen einer Reiseversicherung (hier: B Reise-Rücktrittsversicherung Nr. 3.1, 3.15, 8 VB-R
+- [BGH, Beschluss vom 19.10.2022 - IV ZR 223/21](iv-zr-223-21.md) — BGH, Beschluss IV ZR 223/21
+- [BGH, Beschluss vom 12.10.2022 - IV ZB 29/21](iv-zb-29-21.md) — Statthaftigkeit der Berufung: Erreichen der Berufungssumme durch Erweiterung des Berufungsantrags nach Berufungsbeschränkung und Ablauf der Berufungsbegründungs
+- [BGH, Urteil vom 21.09.2022 - IV ZR 2/21](iv-zr-2-21.md) — Der private Krankenversicherer kann sich nicht auf einen Wegfall der Bereicherung berufen, soweit die auf eine gemäß § 203 Abs. 5 VVG unwirksame Prämienanpassun
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 266/21](iv-zr-266-21.md) — BGH, Beschluss IV ZR 266/21
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 290/21](iv-zr-290-21.md) — BGH, Beschluss IV ZR 290/21
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 300/20](iv-zr-300-20.md) — Altvertrag über eine fondsgebundene Lebensversicherung: Anrechnung von Fondsverlusten im Rahmen der bereicherungsrechtlichen Rückabwicklung nach Widerspruch
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 305/21](iv-zr-305-21.md) — Betriebsschließungsversicherung: Versicherungsschutz für Betriebsschließung eines Catering-Service im Zusammenhang mit der COVID-19-Pandemie
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 332/21](iv-zr-332-21.md) — BGH, Beschluss IV ZR 332/21
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 400/21](iv-zr-400-21.md) — BGH, Beschluss IV ZR 400/21
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 431/21](iv-zr-431-21.md) — BGH, Beschluss IV ZR 431/21
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 467/21](iv-zr-467-21.md) — Betriebsschließungsversicherung: Versicherungsschutz für Betriebsschließung durch behördliche Anordnung in der Corona-Pandemie
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 501/21](iv-zr-501-21.md) — Regress der Wohngebäudeversicherung nach einem Brand: Gehörsverletzung durch überhöhte Anforderungen an die Substantiierungspflichten hinsichtlich des Mietausfa
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 61/22](iv-zr-61-22.md) — BGH, Beschluss IV ZR 61/22
+- [BGH, Beschluss vom 21.09.2022 - IV ZR 63/22](iv-zr-63-22.md) — BGH, Beschluss IV ZR 63/22
+- [BGH, Beschluss vom 14.09.2022 - IV ZB 34/21](iv-zb-34-21.md) — Das Verhältnis von postmortaler Vollmacht zu einer vom Erblasser angeordneten Testamentsvollstreckung kann nicht allgemein, sondern nur im Einzelfall aufgrund e
+- [BGH, Urteil vom 29.06.2022 - IV ZR 110/21](iv-zr-110-21.md) — Die Anwendung des gemäß Art. 22 Abs. 1 EuErbVO gewählten englischen Erbrechts verstößt jedenfalls dann gegen den deutschen ordre public im Sinne von Art. 35 EuE
+- [BGH, Urteil vom 22.06.2022 - IV ZR 14/21](iv-zr-14-21.md) — Private Rentenversicherung im Policenmodell: Rechtsmissbräuchliche Ausübung des Widerspruchsrechts; fehlende Angabe in der Verbraucherinformation zur Zugehörigk
+- [BGH, Urteil vom 22.06.2022 - IV ZR 193/20](iv-zr-193-20.md) — Prämienerhöhung in der Privaten Krankenversicherung: Verjährung eines Anspruchs auf Rückzahlung überbezahlter Prämienbeiträge; Erstattungsfähigkeit vorgerichtli
+- [BGH, Urteil vom 22.06.2022 - IV ZR 253/20](iv-zr-253-20.md) — § 8b Abs. 2 MB/KK 2009 weicht entgegen § 208 Satz 1 VVG zum Nachteil des Versicherungsnehmers von § 203 Abs. 2 Satz 1 VVG ab und ist daher unwirksam. Dies lässt
+- [BGH, Beschluss vom 25.05.2022 - IV ZR 48/22](iv-zr-48-22.md) — Erbenfeststellungsklage: Bestellung eines Notanwalts nach Mandatsniederlegung durch einen beim BGH zugelassenen Rechtsanwalt
+- [BGH, Beschluss vom 04.05.2022 - IV ZR 201/20](iv-zr-201-20.md) — Private Rentenversicherung im Rahmen der betrieblichen Altersvorsorge: Unzulängliche Widerrufsbelehrung seitens des Versicherers und Widerspruchsrecht des Arbei
+- [BGH, Urteil vom 27.04.2022 - IV ZR 344/20](iv-zr-344-20.md) — Zur Zulässigkeit einer negativen Feststellungsklage, die der vom Rechtsschutzversicherer aus gemäß § 86 Abs. 1 Satz 1 VVG übergegangenem Recht in Anspruch genom
+- [BGH, Urteil vom 13.04.2022 - IV ZR 60/20](iv-zr-60-20.md) — Wohngebäude- und Hausratversicherung: Zulässigkeit der Klage auf Feststellung der Leistungspflicht
+- [BGH, Beschluss vom 30.03.2022 - IV ZR 138/20](iv-zr-138-20.md) — Private Krankenversicherung: Anforderungen an die Mitteilung über eine Beitragserhöhung; bereicherungsrechtliche Rückabwicklung einer unwirksamen Prämienerhöhun
+- [BGH, Beschluss vom 16.03.2022 - IV ZB 27/21](iv-zb-27-21.md) — Der Nachlasspfleger ist nicht berechtigt, mit Wirkung für die unbekannten Erben eine in den Nachlass des Erblassers gefallene weitere Erbschaft auszuschlagen. D
+- [BGH, Beschluss vom 16.03.2022 - IV ZR 20/21](iv-zr-20-21.md) — Nichtzulassungsbeschwerde: Bestimmung des Beschwerdewerts
+- [BGH, Beschluss vom 23.02.2022 - IV ZB 2/21](iv-zb-2-21.md) — Wiedereinsetzung in den vorigen Stand: Rechtsanwaltsverschulden bei Versäumung der Berufungsbegründungsfrist nach Fehlerhäufigkeit der angewiesenen Kanzleianges
+- [BGH, Beschluss vom 23.02.2022 - IV ZB 24/21](iv-zb-24-21.md) — Zur Einsetzung des Urkundsnotars als Testamentsvollstrecker in einem eigenhändigen Testament im Anschluss an die Beurkundung einer letztwilligen Verfügung.
+- [BGH, Urteil vom 23.02.2022 - IV ZR 101/20](iv-zr-101-20.md) — In der Berufsunfähigkeitsversicherung kann der Versicherer ein befristetes Anerkenntnis nicht rückwirkend für einen abgeschlossenen Zeitraum abgeben.
+- [BGH, Beschluss vom 23.02.2022 - IV ZR 150/20](iv-zr-150-20.md) — Direktversicherung im Rahmen der betrieblichen Altersversorgung: Widerspruch des aus dem Arbeitsverhältnis ausgeschiedenen Versicherungsnehmers gegen eine im Ra
+- [BGH, Urteil vom 09.02.2022 - IV ZR 291/20](iv-zr-291-20.md) — Klage gegen eine Beitragserhöhung in der privaten Krankenversicherung: Auslegung einer einseitigen Erledigungserklärung; Feststellungsinteresse für eine Unwirks
+- [BGH, Urteil vom 09.02.2022 - IV ZR 337/20](iv-zr-337-20.md) — Private Krankenversicherung: Wirksamkeit der Beitragserhöhung; Beschränkung der Revisionszulassung
+- [BGH, Urteil vom 26.01.2022 - IV ZR 144/21](iv-zr-144-21.md) — 1. Nach § 2 Nr. 1 Buchst. a Halbsatz 1 ZBSV 08 besteht Versicherungsschutz nur für Betriebsschließungen, die zur Verhinderung der Verbreitung von meldepflichtig

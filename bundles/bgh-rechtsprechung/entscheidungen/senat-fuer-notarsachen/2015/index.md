@@ -1,0 +1,11 @@
+# Senat für Notarsachen – 2015
+
+7 Entscheidung(en).
+
+- [BGH, Urteil vom 23.11.2015 - NotZ (Brfg) 2/15](notz-brfg-2-15.md) — Die Regelung in § 6 Abs. 2 Satz 7 BNotO ist dahin auszulegen, dass auch ohne Verzicht auf die Zulassung zur Anwaltschaft Unterbrechungen der anwaltlichen Tätigk
+- [BGH, Beschluss vom 23.11.2015 - NotZ (Brfg) 3/15](notz-brfg-3-15.md) — 1. Die Prozesserklärung einer anwaltlich vertretenen Partei kann allenfalls dann umgedeutet werden, wenn der zulässige Antrag noch innerhalb der dafür geltenden
+- [BGH, Beschluss vom 20.07.2015 - NotZ (Brfg) 1/15](notz-brfg-1-15.md) — Notarstellenbesetzungsverfahren in Bayern: Berücksichtigung einer Mindestverweildauer bei vorheriger Tätigkeit eines Bewerbers in einem anderen Bundesland
+- [BGH, Beschluss vom 20.07.2015 - NotZ (Brfg) 12/14](notz-brfg-12-14.md) — Nach einem wirksamen Erlöschen des Notarsamts auf der Grundlage von § 47 BNotO kann das Amt lediglich durch erneute Bestellung gemäß §§ 5 ff. BNotO erlangt werd
+- [BGH, Beschluss vom 20.07.2015 - NotZ (Brfg) 13/14](notz-brfg-13-14.md) — 1. Die Befugnisse eines nach dem Recht von England und Wales bestellten Notary Scrivener bestimmen sich bei notarieller Urkundstätigkeit im Geltungsbereich der 
+- [BGH, Beschluss vom 16.03.2015 - NotZ (Brfg) 10/14](notz-brfg-10-14.md) — Das Amt des Notars erlischt gemäß § 47 Nr. 1 BNotO bei Erreichen der Altersgrenze des § 48a BNotO auch dann kraft Gesetzes, wenn er vor Einführung dieser Alters
+- [BGH, Beschluss vom 16.03.2015 - NotZ (Brfg) 11/14](notz-brfg-11-14.md) — Gegen Beschlüsse des Oberlandesgerichts im Verfahren des einstweiligen Rechtsschutzes, die in einer verwaltungsrechtlichen Notarsache ergehen, ist die Beschwerd

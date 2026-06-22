@@ -1,0 +1,220 @@
+# 4. Strafsenat – 2025
+
+216 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2025 - 4 ARs 7/25](4-ars-7-25.md) — Konzentration der Zuständigkeit für mehrere Auslieferungsverfahren aufgrund deren Sachzusammenhangs beim Oberlandesgericht
+- [BGH, Beschluss vom 18.12.2025 - 4 StR 121/25](4-str-121-25.md) — BGH, Beschluss 4 StR 121/25
+- [BGH, Beschluss vom 18.12.2025 - 4 StR 325/25](4-str-325-25.md) — Sicherungsverwahrung bei exzessivem Besitz kinderpornographischer Inhalte
+- [BGH, Beschluss vom 18.12.2025 - 4 StR 493/25](4-str-493-25.md) — BGH, Beschluss 4 StR 493/25
+- [BGH, Beschluss vom 17.12.2025 - 4 StR 274/25](4-str-274-25.md) — BGH, Beschluss 4 StR 274/25
+- [BGH, Beschluss vom 17.12.2025 - 4 StR 464/25](4-str-464-25.md) — BGH, Beschluss 4 StR 464/25
+- [BGH, Beschluss vom 17.12.2025 - 4 StR 481/25](4-str-481-25.md) — BGH, Beschluss 4 StR 481/25
+- [BGH, Beschluss vom 17.12.2025 - 4 StR 544/25](4-str-544-25.md) — Anforderungen an Entgeltvereinbarungen beim sexuellen Missbrauch Jugendlicher im familiären Abhängigkeitsverhältnis
+- [BGH, Beschluss vom 17.12.2025 - 4 StR 576/25](4-str-576-25.md) — BGH, Beschluss 4 StR 576/25
+- [BGH, Beschluss vom 16.12.2025 - 4 StR 410/25](4-str-410-25.md) — BGH, Beschluss 4 StR 410/25
+- [BGH, Beschluss vom 16.12.2025 - 4 StR 589/25](4-str-589-25.md) — BGH, Beschluss 4 StR 589/25
+- [BGH, Urteil vom 04.12.2025 - 4 StR 287/25](4-str-287-25.md) — Grenzen der Notwehr bei lebensgefährlichem Messereinsatz gegen körperlich überlegenen Angreifer
+- [BGH, Beschluss vom 04.12.2025 - 4 StR 468/25](4-str-468-25.md) — BGH, Beschluss 4 StR 468/25
+- [BGH, Beschluss vom 04.12.2025 - 4 StR 548/24](4-str-548-24.md) — BGH, Beschluss 4 StR 548/24
+- [BGH, Beschluss vom 03.12.2025 - 4 StR 331/25](4-str-331-25.md) — Fahrlässige Tötung bei Überlassung von Schusswaffe an Nichtberechtigten
+- [BGH, Beschluss vom 03.12.2025 - 4 StR 542/25](4-str-542-25.md) — BGH, Beschluss 4 StR 542/25
+- [BGH, Beschluss vom 02.12.2025 - 4 StR 349/25](4-str-349-25.md) — BGH, Beschluss 4 StR 349/25
+- [BGH, Beschluss vom 02.12.2025 - 4 StR 419/25](4-str-419-25.md) — BGH, Beschluss 4 StR 419/25
+- [BGH, Beschluss vom 02.12.2025 - 4 StR 479/25](4-str-479-25.md) — Strafschärfung bei Sexualstraftaten
+- [BGH, Urteil vom 20.11.2025 - 4 StR 232/25](4-str-232-25.md) — Voraussetzungen des Täter-Opfer-Ausgleichs
+- [BGH, Beschluss vom 20.11.2025 - 4 StR 511/25](4-str-511-25.md) — BGH, Beschluss 4 StR 511/25
+- [BGH, Beschluss vom 20.11.2025 - 4 StR 570/24](4-str-570-24.md) — BGH, Beschluss 4 StR 570/24
+- [BGH, Beschluss vom 19.11.2025 - 4 StR 409/25](4-str-409-25.md) — BGH, Beschluss 4 StR 409/25
+- [BGH, Beschluss vom 19.11.2025 - 4 StR 471/25](4-str-471-25.md) — Strafzumessung bei erheblich verminderter Schuldfähigkeit; Anforderungen an den Adhäsionsausspruch
+- [BGH, Beschluss vom 19.11.2025 - 4 StR 489/25](4-str-489-25.md) — BGH, Beschluss 4 StR 489/25
+- [BGH, Beschluss vom 19.11.2025 - 4 StR 519/25](4-str-519-25.md) — BGH, Beschluss 4 StR 519/25
+- [BGH, Beschluss vom 18.11.2025 - 4 StR 290/25](4-str-290-25.md) — Beendung eines Versuchs durch Hinwendung zu anderem Opfer
+- [BGH, Beschluss vom 18.11.2025 - 4 StR 492/25](4-str-492-25.md) — Konkrete Gefahr beim gefährlichen Eingriff in den Straßenverkehr; Anforderungen an die Anordnung einer Sperrfrist
+- [BGH, Beschluss vom 18.11.2025 - 4 StR 568/25](4-str-568-25.md) — Begründung von Unterbringung in psychiatrischem Krankenhaus und gefährlicher Eingriff in den Straßenverkehr durch Hindernisbereiten
+- [BGH, Beschluss vom 17.11.2025 - 4 StR 385/25](4-str-385-25.md) — BGH, Beschluss 4 StR 385/25
+- [BGH, Beschluss vom 17.11.2025 - 4 StR 448/25](4-str-448-25.md) — BGH, Beschluss 4 StR 448/25
+- [BGH, Urteil vom 06.11.2025 - 4 StR 83/25](4-str-83-25.md) — Definition von unbefugtem Betäubungsmittel-Vertrieb im Ausland und Strafzumessung wegen Beihilfe
+- [BGH, Beschluss vom 05.11.2025 - 4 StR 343/25](4-str-343-25.md) — BGH, Beschluss 4 StR 343/25
+- [BGH, Beschluss vom 05.11.2025 - 4 StR 371/25](4-str-371-25.md) — BGH, Beschluss 4 StR 371/25
+- [BGH, Beschluss vom 05.11.2025 - 4 StR 498/25](4-str-498-25.md) — BGH, Beschluss 4 StR 498/25
+- [BGH, Beschluss vom 04.11.2025 - 4 StR 259/25](4-str-259-25.md) — BGH, Beschluss 4 StR 259/25
+- [BGH, Beschluss vom 22.10.2025 - 4 StR 359/25](4-str-359-25.md) — Strafrechtliche Qualifikation der Geldentnahme am Geldautomaten unter Messerandrohung
+- [BGH, Beschluss vom 22.10.2025 - 4 StR 431/25](4-str-431-25.md) — BGH, Beschluss 4 StR 431/25
+- [BGH, Beschluss vom 21.10.2025 - 4 StR 156/25](4-str-156-25.md) — BGH, Beschluss 4 StR 156/25
+- [BGH, Beschluss vom 21.10.2025 - 4 StR 430/25](4-str-430-25.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Bestimmung der nicht geringen Menge für Rauchopium
+- [BGH, Beschluss vom 21.10.2025 - 4 StR 58/25](4-str-58-25.md) — BGH, Beschluss 4 StR 58/25
+- [BGH, Beschluss vom 08.10.2025 - 4 StR 314/25](4-str-314-25.md) — BGH, Beschluss 4 StR 314/25
+- [BGH, Beschluss vom 08.10.2025 - 4 StR 369/25](4-str-369-25.md) — BGH, Beschluss 4 StR 369/25
+- [BGH, Beschluss vom 08.10.2025 - 4 StR 420/25](4-str-420-25.md) — BGH, Beschluss 4 StR 420/25
+- [BGH, Beschluss vom 07.10.2025 - 4 StR 310/25](4-str-310-25.md) — BGH, Beschluss 4 StR 310/25
+- [BGH, Beschluss vom 07.10.2025 - 4 StR 401/25](4-str-401-25.md) — BGH, Beschluss 4 StR 401/25
+- [BGH, Beschluss vom 07.10.2025 - 4 StR 449/25](4-str-449-25.md) — BGH, Beschluss 4 StR 449/25
+- [BGH, Beschluss vom 25.09.2025 - 4 StR 113/25](4-str-113-25.md) — BGH, Beschluss 4 StR 113/25
+- [BGH, Beschluss vom 25.09.2025 - 4 StR 208/25](4-str-208-25.md) — BGH, Beschluss 4 StR 208/25
+- [BGH, Beschluss vom 25.09.2025 - 4 StR 267/25](4-str-267-25.md) — Darlegungen bei Unterbringung in der Sicherungsverwahrung: Ermessensausübung und zulässiges Verteidigungsverhalten
+- [BGH, Beschluss vom 24.09.2025 - 4 StR 205/25](4-str-205-25.md) — 1. Der schwere sexuelle Missbrauch von Kindern nach § 176a Abs. 2 Nr. 1 StGB (in der Fassung des Gesetzes vom 30. November 2020, BGBl. I S. 2600; jetzt: § 176c 
+- [BGH, Beschluss vom 24.09.2025 - 4 StR 340/25](4-str-340-25.md) — Formanforderungen an Adhäsionsantrag
+- [BGH, Beschluss vom 24.09.2025 - 4 StR 422/25](4-str-422-25.md) — BGH, Beschluss 4 StR 422/25
+- [BGH, Beschluss vom 23.09.2025 - 4 StR 131/25](4-str-131-25.md) — BGH, Beschluss 4 StR 131/25
+- [BGH, Beschluss vom 23.09.2025 - 4 StR 412/25](4-str-412-25.md) — BGH, Beschluss 4 StR 412/25
+- [BGH, Beschluss vom 11.09.2025 - 4 StR 354/25](4-str-354-25.md) — Abgrenzung zwischen Gesetzeskonkurrenz und Idealkonkurrenz bei Delikten gegen die Sicherheit des Straßenverkehrs während Taten der Schleuserkriminalität
+- [BGH, Beschluss vom 11.09.2025 - 4 StR 64/25](4-str-64-25.md) — BGH, Beschluss 4 StR 64/25
+- [BGH, Beschluss vom 10.09.2025 - 4 StR 233/25](4-str-233-25.md) — BGH, Beschluss 4 StR 233/25
+- [BGH, Beschluss vom 09.09.2025 - 4 StR 268/25](4-str-268-25.md) — BGH, Beschluss 4 StR 268/25
+- [BGH, Beschluss vom 09.09.2025 - 4 StR 277/25](4-str-277-25.md) — BGH, Beschluss 4 StR 277/25
+- [BGH, Urteil vom 28.08.2025 - 4 StR 476/24](4-str-476-24.md) — Strafverfahren: Revisionsgerichtliche Prüfung der Beweiswürdigung des Tatgerichts; Gegenstand der vorsatzgleichen Vorstellung bei einem durch Unterlassen verwir
+- [BGH, Beschluss vom 27.08.2025 - 4 StR 306/25](4-str-306-25.md) — BGH, Beschluss 4 StR 306/25
+- [BGH, Beschluss vom 27.08.2025 - 4 StR 353/25](4-str-353-25.md) — BGH, Beschluss 4 StR 353/25
+- [BGH, Beschluss vom 27.08.2025 - 4 StR 80/25](4-str-80-25.md) — Strafverfahren wegen Totschlags: Nebenklagebefugnis des leiblichen Vaters bzw. der leiblichen Halbschwester
+- [BGH, Beschluss vom 26.08.2025 - 4 StR 255/25](4-str-255-25.md) — BGH, Beschluss 4 StR 255/25
+- [BGH, Beschluss vom 26.08.2025 - 4 StR 323/25](4-str-323-25.md) — BGH, Beschluss 4 StR 323/25
+- [BGH, Beschluss vom 26.08.2025 - 4 StR 358/25](4-str-358-25.md) — BGH, Beschluss 4 StR 358/25
+- [BGH, Beschluss vom 26.08.2025 - 4 StR 363/25](4-str-363-25.md) — BGH, Beschluss 4 StR 363/25
+- [BGH, Beschluss vom 14.08.2025 - 4 StR 244/25](4-str-244-25.md) — BGH, Beschluss 4 StR 244/25
+- [BGH, Beschluss vom 14.08.2025 - 4 StR 279/25](4-str-279-25.md) — BGH, Beschluss 4 StR 279/25
+- [BGH, Beschluss vom 14.08.2025 - 4 StR 91/24](4-str-91-24.md) — Strafverfahren: Nachweis einer Ermächtigung zur Zurücknahme eines Rechtsmittels
+- [BGH, Beschluss vom 13.08.2025 - 4 StR 228/25](4-str-228-25.md) — BGH, Beschluss 4 StR 228/25
+- [BGH, Beschluss vom 13.08.2025 - 4 StR 292/25](4-str-292-25.md) — BGH, Beschluss 4 StR 292/25
+- [BGH, Beschluss vom 13.08.2025 - 4 StR 308/25](4-str-308-25.md) — BGH, Beschluss 4 StR 308/25
+- [BGH, Beschluss vom 12.08.2025 - 4 StR 86/25](4-str-86-25.md) — BGH, Beschluss 4 StR 86/25
+- [BGH, Urteil vom 31.07.2025 - 4 StR 37/25](4-str-37-25.md) — BGH, Urteil 4 StR 37/25
+- [BGH, Beschluss vom 30.07.2025 - 4 StR 195/25](4-str-195-25.md) — BGH, Beschluss 4 StR 195/25
+- [BGH, Beschluss vom 30.07.2025 - 4 StR 211/25](4-str-211-25.md) — BGH, Beschluss 4 StR 211/25
+- [BGH, Beschluss vom 30.07.2025 - 4 StR 305/25](4-str-305-25.md) — Fahrverbot: Teilrechtskraft nach teilweise Urteilsaufhebung
+- [BGH, Beschluss vom 29.07.2025 - 4 StR 130/25](4-str-130-25.md) — BGH, Beschluss 4 StR 130/25
+- [BGH, Beschluss vom 29.07.2025 - 4 StR 280/25](4-str-280-25.md) — Gefährlicher Eingriff in den Straßenverkehr u.a.: Anordnung der Unterbringung in einem psychiatrischen Krankenhaus bei freiwilligem Rücktritt vom Versuch; Vorli
+- [BGH, Urteil vom 17.07.2025 - 4 StR 298/24](4-str-298-24.md) — BGH, Urteil 4 StR 298/24
+- [BGH, Beschluss vom 16.07.2025 - 4 StR 482/24](4-str-482-24.md) — Beihilfe durch neutrale berufsbedingte Verhaltensweisen
+- [BGH, Beschluss vom 15.07.2025 - 4 StR 174/25](4-str-174-25.md) — BGH, Beschluss 4 StR 174/25
+- [BGH, Beschluss vom 15.07.2025 - 4 StR 178/25](4-str-178-25.md) — BGH, Beschluss 4 StR 178/25
+- [BGH, Beschluss vom 15.07.2025 - 4 StR 185/25](4-str-185-25.md) — Notwendiger Tatsachenvortrag bei Befangenheitsrüge im Rahmen der Revisionsbegründung
+- [BGH, Beschluss vom 15.07.2025 - 4 StR 236/25](4-str-236-25.md) — Voraussetzungen des bedingten Gefährdungsvorsatzes beim Straftatbestand des verbotenen Kraftfahrzeugrennens
+- [BGH, Beschluss vom 15.07.2025 - 4 StR 541/24](4-str-541-24.md) — Strafbarkeit wegen Bankrotts bei unterlassener Buchführung, Bilanzierung und Vortäuschung eines Passivenbestandes
+- [BGH, Beschluss vom 14.07.2025 - 4 StR 17/25](4-str-17-25.md) — Anforderungen an die Feststellungen bei einer Verurteilung wegen eines Verstoßes gegen eine Anordnung nach dem Gewaltschutzgesetz; Voraussetzungen der Strafbark
+- [BGH, Beschluss vom 14.07.2025 - 4 StR 217/25](4-str-217-25.md) — BGH, Beschluss 4 StR 217/25
+- [BGH, Beschluss vom 14.07.2025 - 4 StR 281/25](4-str-281-25.md) — Strafverurteilung wegen versuchten Mordes u.a.: Error in persona bei mittelbarer Tatopferidentifizierung
+- [BGH, Beschluss vom 03.07.2025 - 4 StR 169/25](4-str-169-25.md) — Unterbringung im psychiatrischen Krankenhaus bei möglichem strafbefreienden Rücktritt und Anforderungen an die Gefährlichkeitsprognose
+- [BGH, Beschluss vom 03.07.2025 - 4 StR 190/25](4-str-190-25.md) — BGH, Beschluss 4 StR 190/25
+- [BGH, Beschluss vom 02.07.2025 - 4 StR 164/25](4-str-164-25.md) — BGH, Beschluss 4 StR 164/25
+- [BGH, Beschluss vom 02.07.2025 - 4 StR 179/25](4-str-179-25.md) — BGH, Beschluss 4 StR 179/25
+- [BGH, Beschluss vom 02.07.2025 - 4 StR 233/24](4-str-233-24.md) — BGH, Beschluss 4 StR 233/24
+- [BGH, Beschluss vom 02.07.2025 - 4 StR 567/24](4-str-567-24.md) — BGH, Beschluss 4 StR 567/24
+- [BGH, Beschluss vom 02.07.2025 - 4 StR 92/25](4-str-92-25.md) — Konkurrenzen im Betäubungsmittelstrafrecht; Besitz von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 01.07.2025 - 4 StR 32/25](4-str-32-25.md) — BGH, Beschluss 4 StR 32/25
+- [BGH, Beschluss vom 01.07.2025 - 4 StR 572/24](4-str-572-24.md) — Zurückweisung von Beweisanträgen wegen Bedeutungslosigkeit der Beweistatsache; Glaubhaftigkeit der Angaben eines Kindes zum erlittenen sexuellen Missbrauch
+- [BGH, Beschluss vom 01.07.2025 - 4 StR 75/25](4-str-75-25.md) — BGH, Beschluss 4 StR 75/25
+- [BGH, Beschluss vom 18.06.2025 - 4 StR 141/25](4-str-141-25.md) — BGH, Beschluss 4 StR 141/25
+- [BGH, Beschluss vom 18.06.2025 - 4 StR 252/25](4-str-252-25.md) — BGH, Beschluss 4 StR 252/25
+- [BGH, Beschluss vom 18.06.2025 - 4 StR 545/24](4-str-545-24.md) — Einziehung des Wertes von Taterträgen: Verfügungsgewalt an einem Vermögensgegenstand
+- [BGH, Beschluss vom 18.06.2025 - 4 StR 65/25](4-str-65-25.md) — Abgrenzung zwischen schlichter Mehrfachtötung und Tötung mit gemeingefährlichen Mitteln
+- [BGH, Beschluss vom 18.06.2025 - 4 StR 8/25](4-str-8-25.md) — Verbotenes Kraftfahrzeugrennen mit Todesfolge: Anforderungen an die Feststellungen zum Gefährdungsvorsatz
+- [BGH, Beschluss vom 17.06.2025 - 4 StR 171/25](4-str-171-25.md) — BGH, Beschluss 4 StR 171/25
+- [BGH, Beschluss vom 17.06.2025 - 4 StR 347/24](4-str-347-24.md) — BGH, Beschluss 4 StR 347/24
+- [BGH, Beschluss vom 05.06.2025 - 4 StR 11/25](4-str-11-25.md) — Erforderlichkeit einer Gefährlichkeitsprognose bei Anordnung der Unterbringung in psychiatrischem Krankenhaus
+- [BGH, Beschluss vom 05.06.2025 - 4 StR 577/24](4-str-577-24.md) — BGH, Beschluss 4 StR 577/24
+- [BGH, Beschluss vom 04.06.2025 - 4 StR 184/25](4-str-184-25.md) — BGH, Beschluss 4 StR 184/25
+- [BGH, Beschluss vom 04.06.2025 - 4 StR 501/24](4-str-501-24.md) — Anforderungen an die Feststellung bedingten Tötungsvorsatzes und Bedeutung einer möglichen Eigengefährdung
+- [BGH, Beschluss vom 04.06.2025 - 4 StR 51/25](4-str-51-25.md) — BGH, Beschluss 4 StR 51/25
+- [BGH, Beschluss vom 03.06.2025 - 4 StR 182/25](4-str-182-25.md) — BGH, Beschluss 4 StR 182/25
+- [BGH, Beschluss vom 03.06.2025 - 4 StR 425/24](4-str-425-24.md) — BGH, Beschluss 4 StR 425/24
+- [BGH, Urteil vom 22.05.2025 - 4 StR 261/24](4-str-261-24.md) — BGH, Urteil 4 StR 261/24
+- [BGH, Beschluss vom 22.05.2025 - 4 StR 35/25](4-str-35-25.md) — BGH, Beschluss 4 StR 35/25
+- [BGH, Urteil vom 22.05.2025 - 4 StR 576/24](4-str-576-24.md) — BGH, Urteil 4 StR 576/24
+- [BGH, Beschluss vom 22.05.2025 - 4 StR 74/25](4-str-74-25.md) — Verwendung eines Kraftfahrzeugs bei polizeilicher Zugriffssituation; Auslegung des § 113 Abs. 2 Satz 2 Nr. 1 StGB im Hinblick auf besonders schwere Fälle
+- [BGH, Beschluss vom 21.05.2025 - 4 StR 34/25](4-str-34-25.md) — BGH, Beschluss 4 StR 34/25
+- [BGH, Beschluss vom 21.05.2025 - 4 StR 42/25](4-str-42-25.md) — Gefährdungserfolg bei fahrlässiger Gefährdung des Straßenverkehrs
+- [BGH, Beschluss vom 21.05.2025 - 4 StR 552/24](4-str-552-24.md) — Verstoß gegen Weisungen der Führungsaufsicht im Fall des Kontaktabbruches zu einer Bewährungshelferin
+- [BGH, Beschluss vom 21.05.2025 - 4 StR 63/25](4-str-63-25.md) — BGH, Beschluss 4 StR 63/25
+- [BGH, Beschluss vom 21.05.2025 - 4 StR 95/25](4-str-95-25.md) — BGH, Beschluss 4 StR 95/25
+- [BGH, Beschluss vom 20.05.2025 - 4 StR 168/25](4-str-168-25.md) — Gefährlicher Eingriff in den Straßenverkehr: Anforderungen an die Feststellungen einer konkreten Gefahr
+- [BGH, Beschluss vom 20.05.2025 - 4 StR 191/25](4-str-191-25.md) — BGH, Beschluss 4 StR 191/25
+- [BGH, Beschluss vom 20.05.2025 - 4 StR 428/24](4-str-428-24.md) — BGH, Beschluss 4 StR 428/24
+- [BGH, Beschluss vom 20.05.2025 - 4 StR 84/25](4-str-84-25.md) — BGH, Beschluss 4 StR 84/25
+- [BGH, Beschluss vom 19.05.2025 - 4 ARs 3/25](4-ars-3-25.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Voraussetzungen einer erweiterten Einziehung von Taterträgen
+- [BGH, Urteil vom 08.05.2025 - 4 StR 477/24](4-str-477-24.md) — BGH, Urteil 4 StR 477/24
+- [BGH, Beschluss vom 08.05.2025 - 4 StR 52/24](4-str-52-24.md) — Gefährliche Körperverletzung: Begehung mittels einer das Leben gefährdenden Behandlung
+- [BGH, Beschluss vom 07.05.2025 - 4 StR 566/24](4-str-566-24.md) — BGH, Beschluss 4 StR 566/24
+- [BGH, Beschluss vom 07.05.2025 - 4 StR 85/25](4-str-85-25.md) — BGH, Beschluss 4 StR 85/25
+- [BGH, Beschluss vom 06.05.2025 - 4 StR 155/25](4-str-155-25.md) — BGH, Beschluss 4 StR 155/25
+- [BGH, Beschluss vom 06.05.2025 - 4 StR 28/25](4-str-28-25.md) — BGH, Beschluss 4 StR 28/25
+- [BGH, Beschluss vom 06.05.2025 - 4 StR 474/24](4-str-474-24.md) — BGH, Beschluss 4 StR 474/24
+- [BGH, Beschluss vom 06.05.2025 - 4 StR 525/24](4-str-525-24.md) — Einziehungsprüfung, Strafrahmenkorrektur und Einlassungsverhalten im Revisionsverfahren
+- [BGH, Beschluss vom 24.04.2025 - 4 StR 3/25](4-str-3-25.md) — BGH, Beschluss 4 StR 3/25
+- [BGH, Beschluss vom 24.04.2025 - 4 StR 554/24](4-str-554-24.md) — Anordnung der Unterbringung eines Angeklagten in Entziehungsanstalt bei fehlendem Therapiewillen; Nachholung einer Unterbringungsanordnung
+- [BGH, Beschluss vom 24.04.2025 - 4 StR 70/25](4-str-70-25.md) — BGH, Beschluss 4 StR 70/25
+- [BGH, Beschluss vom 23.04.2025 - 4 StR 103/25](4-str-103-25.md) — BGH, Beschluss 4 StR 103/25
+- [BGH, Beschluss vom 23.04.2025 - 4 StR 461/24](4-str-461-24.md) — Strafverurteilung wegen Herbeiführens einer Sprengstoffexplosion u.a.: Natürliche Handlungseinheit bei mehraktigem Tatgeschehen; Rücktritt vom fehlgeschlagenen 
+- [BGH, Beschluss vom 23.04.2025 - 4 StR 529/24](4-str-529-24.md) — BGH, Beschluss 4 StR 529/24
+- [BGH, Beschluss vom 23.04.2025 - 4 StR 53/25](4-str-53-25.md) — BGH, Beschluss 4 StR 53/25
+- [BGH, Urteil vom 10.04.2025 - 4 StR 495/24](4-str-495-24.md) — Zur dauerhaften und erheblichen Entstellung gemäß § 226 Abs. 1 Nr. 3 StGB bei einer Gesichtstätowierung.
+- [BGH, Beschluss vom 08.04.2025 - 4 StR 41/25](4-str-41-25.md) — Adressat der Diensthandlung im Falle eines Angriffs auf und Widerstands gegen Vollstreckungsbeamte
+- [BGH, Beschluss vom 08.04.2025 - 4 StR 485/24](4-str-485-24.md) — BGH, Beschluss 4 StR 485/24
+- [BGH, Beschluss vom 08.04.2025 - 4 StR 502/24](4-str-502-24.md) — BGH, Beschluss 4 StR 502/24
+- [BGH, Beschluss vom 08.04.2025 - 4 StR 67/25](4-str-67-25.md) — Berücksichtigung ausländischer EU-Verurteilungen bei der Strafzumessung im Rahmen eines möglichen Härteausgleichs
+- [BGH, Beschluss vom 08.04.2025 - 4 StR 82/25](4-str-82-25.md) — BGH, Beschluss 4 StR 82/25
+- [BGH, Beschluss vom 27.03.2025 - 4 StR 102/25](4-str-102-25.md) — BGH, Beschluss 4 StR 102/25
+- [BGH, Urteil vom 27.03.2025 - 4 StR 565/24](4-str-565-24.md) — Strafverurteilung wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.: Voraussetzungen einer strafmildernden Aufklärungshilfe
+- [BGH, Beschluss vom 27.03.2025 - 4 StR 75/24](4-str-75-24.md) — BGH, Beschluss 4 StR 75/24
+- [BGH, Beschluss vom 27.03.2025 - 4 StR 80/24](4-str-80-24.md) — BGH, Beschluss 4 StR 80/24
+- [BGH, Beschluss vom 26.03.2025 - 4 StR 29/25](4-str-29-25.md) — Strafverfahren wegen sexuellen Missbrauch eines Kindes: Zeugenschaftliche Vernehmung und förmliche Inaugenscheinnahme in Abwesenheit des Angeklagten
+- [BGH, Beschluss vom 26.03.2025 - 4 StR 313/24](4-str-313-24.md) — BGH, Beschluss 4 StR 313/24
+- [BGH, Beschluss vom 26.03.2025 - 4 StR 509/24](4-str-509-24.md) — BGH, Beschluss 4 StR 509/24
+- [BGH, Beschluss vom 26.03.2025 - 4 StR 563/24](4-str-563-24.md) — Berücksichtigung einer einschlägigen Vorstrafe im Betäubungsmittelrecht nach Einführung des Konsumcannabisgesetzes
+- [BGH, Beschluss vom 26.03.2025 - 4 StR 579/24](4-str-579-24.md) — Unterbringung in einer Entziehungsanstalt: Überwiegende Mitursächlichkeit des Hang für die Begehung der Anlasstaten
+- [BGH, Beschluss vom 25.03.2025 - 4 StR 357/23](4-str-357-23.md) — Formanforderung an eine per Elektronischem Gerichts- und Verwaltungspostfach eingegangene Revisionsbegründungsschrift; Wiedereinsetzung in den vorigen Stand bei
+- [BGH, Beschluss vom 25.03.2025 - 4 StR 402/24](4-str-402-24.md) — BGH, Beschluss 4 StR 402/24
+- [BGH, Beschluss vom 25.03.2025 - 4 StR 508/24](4-str-508-24.md) — BGH, Beschluss 4 StR 508/24
+- [BGH, Beschluss vom 25.03.2025 - 4 StR 530/24](4-str-530-24.md) — BGH, Beschluss 4 StR 530/24
+- [BGH, Urteil vom 13.03.2025 - 4 StR 223/24](4-str-223-24.md) — Voraussetzungen der Tatbestandsverwirklichung von Urkundenfälschung und gefährlichem Eingriff in den Straßenverkehr
+- [BGH, Beschluss vom 13.03.2025 - 4 StR 391/24](4-str-391-24.md) — BGH, Beschluss 4 StR 391/24
+- [BGH, Beschluss vom 12.03.2025 - 4 StR 329/24](4-str-329-24.md) — Beweisverwertungsverbot wegen fehlender audiovisueller Aufzeichnung einer Beschuldigtenvernehmung; Auswirkung einer teilweisen Verfahrensbeschränkung auf Strafa
+- [BGH, Beschluss vom 12.03.2025 - 4 StR 39/25](4-str-39-25.md) — BGH, Beschluss 4 StR 39/25
+- [BGH, Beschluss vom 12.03.2025 - 4 StR 409/24](4-str-409-24.md) — BGH, Beschluss 4 StR 409/24
+- [BGH, Beschluss vom 12.03.2025 - 4 StR 458/24](4-str-458-24.md) — BGH, Beschluss 4 StR 458/24
+- [BGH, Beschluss vom 12.03.2025 - 4 StR 488/24](4-str-488-24.md) — BGH, Beschluss 4 StR 488/24
+- [BGH, Beschluss vom 12.03.2025 - 4 StR 523/24](4-str-523-24.md) — BGH, Beschluss 4 StR 523/24
+- [BGH, Beschluss vom 12.03.2025 - 4 StR 73/25](4-str-73-25.md) — Jugendstrafverfahren: Bildung einer Einheitsjugendstrafe
+- [BGH, Beschluss vom 11.03.2025 - 4 StR 291/24](4-str-291-24.md) — BGH, Beschluss 4 StR 291/24
+- [BGH, Beschluss vom 11.03.2025 - 4 StR 307/24](4-str-307-24.md) — BGH, Beschluss 4 StR 307/24
+- [BGH, Beschluss vom 11.03.2025 - 4 StR 377/24](4-str-377-24.md) — BGH, Beschluss 4 StR 377/24
+- [BGH, Beschluss vom 11.03.2025 - 4 StR 411/24](4-str-411-24.md) — BGH, Beschluss 4 StR 411/24
+- [BGH, Beschluss vom 11.03.2025 - 4 StR 494/24](4-str-494-24.md) — Strafverurteilung wegen versuchter Vorbereitung des sexuellen Missbrauchs von Kindern u.a.: Einwirken des Täters auf einen irrig für ein Kind gehaltenen Chatpar
+- [BGH, Beschluss vom 11.03.2025 - 4 StR 544/24](4-str-544-24.md) — BGH, Beschluss 4 StR 544/24
+- [BGH, Beschluss vom 11.03.2025 - 4 StR 561/24](4-str-561-24.md) — BGH, Beschluss 4 StR 561/24
+- [BGH, Beschluss vom 27.02.2025 - 4 StR 46/25](4-str-46-25.md) — BGH, Beschluss 4 StR 46/25
+- [BGH, Beschluss vom 27.02.2025 - 4 StR 516/24](4-str-516-24.md) — BGH, Beschluss 4 StR 516/24
+- [BGH, Beschluss vom 26.02.2025 - 4 StR 356/24](4-str-356-24.md) — BGH, Beschluss 4 StR 356/24
+- [BGH, Beschluss vom 26.02.2025 - 4 StR 433/24](4-str-433-24.md) — BGH, Beschluss 4 StR 433/24
+- [BGH, Beschluss vom 26.02.2025 - 4 StR 526/24](4-str-526-24.md) — Begründung der Feststellung der alkoholbedingten relativen Fahruntüchtigkeit; Einziehung des Fahrzeugs als Mittel zur Tat
+- [BGH, Beschluss vom 26.02.2025 - 4 StR 69/24](4-str-69-24.md) — BGH, Beschluss 4 StR 69/24
+- [BGH, Beschluss vom 26.02.2025 - 4 StR 99/24](4-str-99-24.md) — BGH, Beschluss 4 StR 99/24
+- [BGH, Beschluss vom 25.02.2025 - 4 StR 241/24](4-str-241-24.md) — BGH, Beschluss 4 StR 241/24
+- [BGH, Beschluss vom 25.02.2025 - 4 StR 331/24](4-str-331-24.md) — BGH, Beschluss 4 StR 331/24
+- [BGH, Beschluss vom 25.02.2025 - 4 StR 371/24](4-str-371-24.md) — Fehlende Individualisierungsangaben im Beweisantrag
+- [BGH, Urteil vom 13.02.2025 - 4 StR 327/24](4-str-327-24.md) — Beweiswürdigung bei Totschlag nach Provokation; Vorliegen eines Notwehrexzesses
+- [BGH, Beschluss vom 12.02.2025 - 4 StR 396/24](4-str-396-24.md) — BGH, Beschluss 4 StR 396/24
+- [BGH, Beschluss vom 12.02.2025 - 4 StR 56/24](4-str-56-24.md) — Versuchter Totschlag: Erforderliche Urteilsfeststellungen zum freiwilligen Rücktritt vom Versuch
+- [BGH, Beschluss vom 11.02.2025 - 4 StR 122/24](4-str-122-24.md) — BGH, Beschluss 4 StR 122/24
+- [BGH, Beschluss vom 11.02.2025 - 4 StR 400/24](4-str-400-24.md) — BGH, Beschluss 4 StR 400/24
+- [BGH, Beschluss vom 05.02.2025 - 4 StR 333/23](4-str-333-23.md) — Pflichtverteidigerkosten: Wertfestsetzung und zusätzliche Verfahrensgebühr bei Einziehung in der Revisionsinstanz
+- [BGH, Urteil vom 30.01.2025 - 4 StR 243/24](4-str-243-24.md) — Strafbefreiender Rücktritt vom versuchten Totschlag
+- [BGH, Urteil vom 30.01.2025 - 4 StR 375/24](4-str-375-24.md) — Strafverurteilung wegen Totschlags u.a.: Inbegriffsrüge zur unterlassene Erörterung von Augenscheinsobjekten in den Urteilsgründen; Anforderungen an einen Heimt
+- [BGH, Beschluss vom 29.01.2025 - 4 StR 265/24](4-str-265-24.md) — Totschlag in mittelbarer Täterschaft: Aktive Mitwirkung eines Arztes bei der Selbsttötung eines psychisch Erkrankten
+- [BGH, Beschluss vom 29.01.2025 - 4 StR 401/24](4-str-401-24.md) — BGH, Beschluss 4 StR 401/24
+- [BGH, Beschluss vom 29.01.2025 - 4 StR 491/24](4-str-491-24.md) — BGH, Beschluss 4 StR 491/24
+- [BGH, Beschluss vom 29.01.2025 - 4 StR 500/24](4-str-500-24.md) — Schuldfähigkeit: Anforderungen an die Feststellungen bei der Diagnose einer paranoiden Schizophrenie
+- [BGH, Beschluss vom 28.01.2025 - 4 StR 284/24](4-str-284-24.md) — BGH, Beschluss 4 StR 284/24
+- [BGH, Beschluss vom 28.01.2025 - 4 StR 397/24](4-str-397-24.md) — Vorsätzliche Gefährdung des Straßenverkehrs und gefährlicher Eingriff in den Straßenverkehr: Notwendige Feststellungen bei Gefährdung im Rahmen einer Fluchtfahr
+- [BGH, Beschluss vom 28.01.2025 - 4 StR 542/24](4-str-542-24.md) — BGH, Beschluss 4 StR 542/24
+- [BGH, Beschluss vom 27.01.2025 - 4 StR 426/24](4-str-426-24.md) — BGH, Beschluss 4 StR 426/24
+- [BGH, Beschluss vom 27.01.2025 - 4 StR 486/24](4-str-486-24.md) — Einziehung von Geldmitteln als Tatertrag aus Drogenhandel
+- [BGH, Beschluss vom 16.01.2025 - 4 ARs 11/24](4-ars-11-24.md) — Verweigert der Verfolgte im Auslieferungsverfahren nach dem Europäischen Auslieferungsübereinkommen vom 13. Dezember 1957 aus Gewissensgründen den Kriegsdienst 
+- [BGH, Beschluss vom 16.01.2025 - 4 StR 362/24](4-str-362-24.md) — BGH, Beschluss 4 StR 362/24
+- [BGH, Beschluss vom 16.01.2025 - 4 StR 47/24](4-str-47-24.md) — Unterbringung in einer Entziehungsanstalt nach neuem Recht: Hinreichende Anhaltspunkte für einen Behandlungserfolg bei einer langjährig verfestigten Polytoxikom
+- [BGH, Beschluss vom 16.01.2025 - 4 StR 97/24](4-str-97-24.md) — Unterbringung in einer Entziehungsanstalt: Hang zum übermäßigen Rauschmittelkonsum
+- [BGH, Beschluss vom 15.01.2025 - 4 StR 201/24](4-str-201-24.md) — BGH, Beschluss 4 StR 201/24
+- [BGH, Beschluss vom 15.01.2025 - 4 StR 363/24](4-str-363-24.md) — Sicherungsverwahrung und Maßregelanordnung: Anwendung der Vorschriften über die Rückfallverjährung
+- [BGH, Beschluss vom 14.01.2025 - 4 StR 302/24](4-str-302-24.md) — Berücksichtigungspflicht von erheblichem Zeitablauf und fortgeschrittenem Täteralter bei der Strafzumessung
+- [BGH, Beschluss vom 14.01.2025 - 4 StR 351/24](4-str-351-24.md) — Fristversäumnis beim Antrag auf Entscheidung des Revisionsgerichts nach Verteidigerzustellung
+- [BGH, Beschluss vom 14.01.2025 - 4 StR 444/24](4-str-444-24.md) — BGH, Beschluss 4 StR 444/24
+- [BGH, Beschluss vom 14.01.2025 - 4 StR 452/24](4-str-452-24.md) — BGH, Beschluss 4 StR 452/24

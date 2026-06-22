@@ -1,0 +1,47 @@
+# VIII. Zivilsenat – 2005
+
+43 Entscheidung(en).
+
+- [BGH, Urteil vom 21.12.2005 - VIII ZR 49/05](viii-zr-49-05.md) — des Mangels die Minderung erklären oder einen Anspruch auf Schadensersatz statt der Leistung geltend machen kann.
+- [BGH, Beschluss vom 16.11.2005 - VIII ZR 186/04](viii-zr-186-04.md) — BGH, Beschluss vom 16.11.2005 - VIII ZR 186/04
+- [BGH, Urteil vom 16.11.2005 - VIII ZR 218/04](viii-zr-218-04.md) — Tatbestand:
+- [BGH, Beschluss vom 09.11.2005 - VIII ZR 68/04](viii-zr-68-04.md) — BGH, Beschluss vom 09.11.2005 - VIII ZR 68/04
+- [BGH, Urteil vom 26.10.2005 - VIII ZR 359/04](viii-zr-359-04.md) — Tatbestand:
+- [BGH, Urteil vom 26.10.2005 - VIII ZR 48/05](viii-zr-48-05.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2005 - VIII ZR 265/04](viii-zr-265-04.md) — BGH, Beschluss vom 25.10.2005 - VIII ZR 265/04
+- [BGH, Beschluss vom 25.10.2005 - VIII ZR 337/04](viii-zr-337-04.md) — BGH, Beschluss vom 25.10.2005 - VIII ZR 337/04
+- [BGH, Beschluss vom 12.10.2005 - VIII ZR 179/05](viii-zr-179-05.md) — BGH, Beschluss vom 12.10.2005 - VIII ZR 179/05
+- [BGH, Urteil vom 28.09.2005 - VIII ZR 101/04](viii-zr-101-04.md) — Tatbestand:
+- [BGH, Urteil vom 21.09.2005 - VIII ZR 38/05](viii-zr-38-05.md) — Tatbestand:
+- [BGH, Urteil vom 21.09.2005 - VIII ZR 8/05](viii-zr-8-05.md) — Tatbestand: Der Kläger ist ein Wasser- und Abwasserzweckverband (WAZV) in der Rechtsform einer Körperschaft des öffentlichen Rechts. In sein
+- [BGH, Versäumnisurteil vom 14.09.2005 - VIII ZR 328/04](viii-zr-328-04.md) — BGH, Versäumnisurteil vom 14.09.2005 - VIII ZR 328/04
+- [BGH, Urteil vom 20.07.2005 - VIII ZR 275/04](viii-zr-275-04.md) — des Mangels vom Kaufvertrag zurücktritt. Der Anspruch ist nicht gemäß § 347 Abs. 2 BGB auf den Ersatz notwendiger Verwendungen oder solcher
+- [BGH, Urteil vom 13.07.2005 - VIII ZR 311/04](viii-zr-311-04.md) — Tatbestand:
+- [BGH, Urteil vom 13.07.2005 - VIII ZR 351/04](viii-zr-351-04.md) — unangemessener Benachteiligung des Mieters unwirksam.
+- [BGH, Urteil vom 06.07.2005 - VIII ZR 152/04](viii-zr-152-04.md) — Tatbestand:
+- [BGH, Urteil vom 06.07.2005 - VIII ZR 322/04](viii-zr-322-04.md) — Tatbestand:
+- [BGH, Beschluss vom 05.07.2005 - VIII ZB 114/04](viii-zb-114-04.md) — BGH, Beschluss vom 05.07.2005 - VIII ZB 114/04
+- [BGH, Urteil vom 29.06.2005 - VIII ZR 182/04](viii-zr-182-04.md) — Tatbestand:
+- [BGH, Urteil vom 29.06.2005 - VIII ZR 344/04](viii-zr-344-04.md) — Tatbestand:
+- [BGH, Urteil vom 22.06.2005 - VIII ZR 281/04](viii-zr-281-04.md) — Tatbestand:
+- [BGH, Urteil vom 15.06.2005 - VIII ZR 74/04](viii-zr-74-04.md) — eines Betrages von 142.560,79 DM = 72.890,17 € nebst Zinsen zurückgewiesen worden ist.
+- [BGH, Urteil vom 01.06.2005 - VIII ZR 234/04](viii-zr-234-04.md) — Tatbestand:
+- [BGH, Urteil vom 25.05.2005 - VIII ZR 301/03](viii-zr-301-03.md) — Tatbestand:
+- [BGH, Beschluss vom 18.05.2005 - VIII ZB 3/05](viii-zb-3-05.md) — BGH, Beschluss vom 18.05.2005 - VIII ZB 3/05
+- [BGH, Urteil vom 18.05.2005 - VIII ZR 368/03](viii-zr-368-03.md) — unberechtigter Eigenbedarfskündigung.
+- [BGH, Beschluss vom 27.04.2005 - VIII ZB 16/05](viii-zb-16-05.md) — BGH, Beschluss vom 27.04.2005 - VIII ZB 16/05
+- [BGH, Urteil vom 27.04.2005 - VIII ZR 125/04](viii-zr-125-04.md) — Tatbestand:
+- [BGH, Beschluss vom 13.04.2005 - VIII ZB 115/04](viii-zb-115-04.md) — BGH, Beschluss vom 13.04.2005 - VIII ZB 115/04
+- [BGH, Beschluss vom 13.04.2005 - VIII ZB 77/04](viii-zb-77-04.md) — BGH, Beschluss vom 13.04.2005 - VIII ZB 77/04
+- [BGH, Urteil vom 06.04.2005 - VIII ZR 192/04](viii-zr-192-04.md) — BGH, Urteil vom 06.04.2005 - VIII ZR 192/04
+- [BGH, Urteil vom 06.04.2005 - VIII ZR 260/04](viii-zr-260-04.md) — unangemessener Benachteiligung der Anschlußnehmer gemäß § 307 Abs. 2 Nr. 1, Abs. 1 Satz 1 BGB unwirksam.
+- [BGH, Beschluss vom 05.04.2005 - VIII ZR 160/04](viii-zr-160-04.md) — BGH, Beschluss vom 05.04.2005 - VIII ZR 160/04
+- [BGH, Urteil vom 16.03.2005 - VIII ZR 14/04](viii-zr-14-04.md) — Tatbestand:
+- [BGH, Beschluss vom 08.03.2005 - VIII ZA 22/04](viii-za-22-04.md) — BGH, Beschluss vom 08.03.2005 - VIII ZA 22/04
+- [BGH, Beschluss vom 08.03.2005 - VIII ZA 5/05](viii-za-5-05.md) — BGH, Beschluss vom 08.03.2005 - VIII ZA 5/05
+- [BGH, Beschluss vom 08.03.2005 - VIII ZB 3/04](viii-zb-3-04.md) — BGH, Beschluss vom 08.03.2005 - VIII ZB 3/04
+- [BGH, Beschluss vom 01.03.2005 - VIII ZB 54/04](viii-zb-54-04.md) — BGH, Beschluss vom 01.03.2005 - VIII ZB 54/04
+- [BGH, Urteil vom 23.02.2005 - VIII ZR 129/04](viii-zr-129-04.md) — Tatbestand: Die Klägerin erwarb von der Beklagten am 5. Dezember 2002 ein Radarwarngerät mit einer Basis-Codierung für Deutschland zu einem
+- [BGH, Urteil vom 16.02.2005 - VIII ZR 48/04](viii-zr-48-04.md) — Tatbestand:
+- [BGH, Urteil vom 16.02.2005 - VIII ZR 6/04](viii-zr-6-04.md) — Zahlungsverzugs des Mieters fristlos und hilfsweise auch fristgemäß, läßt der nachträgliche Ausgleich der Rückstände innerhalb der Frist des
+- [BGH, Urteil vom 26.01.2005 - VIII ZR 275/03](viii-zr-275-03.md) — Tatbestand:

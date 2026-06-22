@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu FrStllgV"
 description: "BGH-Entscheidungen zu FrStllgV, geordnet nach Vorschrift."
 tags: [register, navigation, frstllgv]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des FrStllgV ausl
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 3 FrStllgV | [BGH, Urteil vom 12.02.2015 - I ZR 213/13](../entscheidungen/i-zivilsenat/2015/i-zr-213-13.md) |
+| § FrStllgV | [BGH, Urteil vom 12.02.2015 - I ZR 213/13](../entscheidungen/i-zivilsenat/2015/i-zr-213-13.md) |

@@ -1,0 +1,111 @@
+# IX. Zivilsenat – 2007
+
+107 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2007 - IX ZA 48/06](ix-za-48-06.md) — BGH, Beschluss vom 20.12.2007 - IX ZA 48/06
+- [BGH, Beschluss vom 20.12.2007 - IX ZR 105/07](ix-zr-105-07.md) — BGH, Beschluss vom 20.12.2007 - IX ZR 105/07
+- [BGH, Urteil vom 20.12.2007 - IX ZR 132/06](ix-zr-132-06.md) — Tatbestand:
+- [BGH, Beschluss vom 13.12.2007 - IX ZB 40/07](ix-zb-40-07.md) — BGH, Beschluss vom 13.12.2007 - IX ZB 40/07
+- [BGH, Beschluss vom 13.12.2007 - IX ZB 82/07](ix-zb-82-07.md) — BGH, Beschluss vom 13.12.2007 - IX ZB 82/07
+- [BGH, Beschluss vom 13.12.2007 - IX ZB 88/07](ix-zb-88-07.md) — BGH, Beschluss vom 13.12.2007 - IX ZB 88/07
+- [BGH, Beschluss vom 13.12.2007 - IX ZR 206/05](ix-zr-206-05.md) — BGH, Beschluss vom 13.12.2007 - IX ZR 206/05
+- [BGH, Beschluss vom 13.12.2007 - IX ZR 32/06](ix-zr-32-06.md) — BGH, Beschluss vom 13.12.2007 - IX ZR 32/06
+- [BGH, Beschluss vom 06.12.2007 - IX ZB 229/06](ix-zb-229-06.md) — eines versehentlich nicht verwerteten Grundstücks ist unzulässig, wenn vor der Anordnung die Auflassung erklärt und der Antrag auf Eintragun
+- [BGH, Beschluss vom 06.12.2007 - IX ZR 137/06](ix-zr-137-06.md) — BGH, Beschluss vom 06.12.2007 - IX ZR 137/06
+- [BGH, Urteil vom 06.12.2007 - IX ZR 143/06](ix-zr-143-06.md) — Tatbestand:
+- [BGH, Beschluss vom 06.12.2007 - IX ZR 215/06](ix-zr-215-06.md) — der Tilgung einer Insolvenzforderung stellt selbst dann eine Insolvenzforderung dar, wenn er erst nach Eröffnung des Insolvenzverfahrens beg
+- [BGH, Beschluss vom 29.11.2007 - IX ZB 12/07](ix-zb-12-07.md) — BGH, Beschluss vom 29.11.2007 - IX ZB 12/07
+- [BGH, Beschluss vom 29.11.2007 - IX ZB 231/06](ix-zb-231-06.md) — BGH, Beschluss vom 29.11.2007 - IX ZB 231/06
+- [BGH, Urteil vom 29.11.2007 - IX ZR 121/06](ix-zr-121-06.md) — Tatbestand:
+- [BGH, Urteil vom 29.11.2007 - IX ZR 165/05](ix-zr-165-05.md) — Tatbestand:
+- [BGH, Beschluss vom 29.11.2007 - IX ZR 21/06](ix-zr-21-06.md) — BGH, Beschluss vom 29.11.2007 - IX ZR 21/06
+- [BGH, Beschluss vom 29.11.2007 - IX ZR 225/06](ix-zr-225-06.md) — BGH, Beschluss vom 29.11.2007 - IX ZR 225/06
+- [BGH, Beschluss vom 29.11.2007 - IX ZR 63/04](ix-zr-63-04.md) — eingetretener Verjährung abgewie-
+- [BGH, Beschluss vom 15.11.2007 - IX ZB 219/06](ix-zb-219-06.md) — BGH, Beschluss vom 15.11.2007 - IX ZB 219/06
+- [BGH, Beschluss vom 15.11.2007 - IX ZB 237/06](ix-zb-237-06.md) — BGH, Beschluss vom 15.11.2007 - IX ZB 237/06
+- [BGH, Beschluss vom 08.11.2007 - IX ZB 23/03](ix-zb-23-03.md) — BGH, Beschluss vom 08.11.2007 - IX ZB 23/03
+- [BGH, Beschluss vom 08.11.2007 - IX ZB 41/03](ix-zb-41-03.md) — BGH, Beschluss vom 08.11.2007 - IX ZB 41/03
+- [BGH, Beschluss vom 08.11.2007 - IX ZR 100/05](ix-zr-100-05.md) — BGH, Beschluss vom 08.11.2007 - IX ZR 100/05
+- [BGH, Beschluss vom 08.11.2007 - IX ZR 101/05](ix-zr-101-05.md) — BGH, Beschluss vom 08.11.2007 - IX ZR 101/05
+- [BGH, Beschluss vom 08.11.2007 - IX ZR 221/06](ix-zr-221-06.md) — BGH, Beschluss vom 08.11.2007 - IX ZR 221/06
+- [BGH, Beschluss vom 08.11.2007 - IX ZR 222/05](ix-zr-222-05.md) — BGH, Beschluss vom 08.11.2007 - IX ZR 222/05
+- [BGH, Beschluss vom 25.10.2007 - IX ZB 127/06](ix-zb-127-06.md) — Fehlens eines Eröffnungsgrundes
+- [BGH, Beschluss vom 25.10.2007 - IX ZB 244/05](ix-zb-244-05.md) — BGH, Beschluss vom 25.10.2007 - IX ZB 244/05
+- [BGH, Beschluss vom 25.10.2007 - IX ZB 248/06](ix-zb-248-06.md) — BGH, Beschluss vom 25.10.2007 - IX ZB 248/06
+- [BGH, Beschluss vom 25.10.2007 - IX ZB 269/04](ix-zb-269-04.md) — BGH, Beschluss vom 25.10.2007 - IX ZB 269/04
+- [BGH, Beschluss vom 25.10.2007 - IX ZB 76/06](ix-zb-76-06.md) — BGH, Beschluss vom 25.10.2007 - IX ZB 76/06
+- [BGH, Urteil vom 25.10.2007 - IX ZR 157/06](ix-zr-157-06.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2007 - IX ZR 179/06](ix-zr-179-06.md) — BGH, Beschluss vom 25.10.2007 - IX ZR 179/06
+- [BGH, Urteil vom 25.10.2007 - IX ZR 217/06](ix-zr-217-06.md) — Tatbestand:
+- [BGH, Beschluss vom 25.10.2007 - IX ZR 67/05](ix-zr-67-05.md) — Verletzung vertraglicher An-
+- [BGH, Beschluss vom 11.10.2007 - IX ZB 234/06](ix-zb-234-06.md) — BGH, Beschluss vom 11.10.2007 - IX ZB 234/06
+- [BGH, Beschluss vom 11.10.2007 - IX ZB 270/05](ix-zb-270-05.md) — BGH, Beschluss vom 11.10.2007 - IX ZB 270/05
+- [BGH, Beschluss vom 11.10.2007 - IX ZR 117/06](ix-zr-117-06.md) — BGH, Beschluss vom 11.10.2007 - IX ZR 117/06
+- [BGH, Beschluss vom 11.10.2007 - IX ZR 171/06](ix-zr-171-06.md) — BGH, Beschluss vom 11.10.2007 - IX ZR 171/06
+- [BGH, Beschluss vom 27.09.2007 - IX ZA 20/07](ix-za-20-07.md) — Wiedereinsetzung in die versäumte Frist gewährt (§§ 233 ff ZPO), sofern sie bis
+- [BGH, Beschluss vom 27.09.2007 - IX ZB 302/04](ix-zb-302-04.md) — BGH, Beschluss vom 27.09.2007 - IX ZB 302/04
+- [BGH, Beschluss vom 27.09.2007 - IX ZR 242/06](ix-zr-242-06.md) — BGH, Beschluss vom 27.09.2007 - IX ZR 242/06
+- [BGH, Beschluss vom 20.09.2007 - IX ZB 239/06](ix-zb-239-06.md) — BGH, Beschluss vom 20.09.2007 - IX ZB 239/06
+- [BGH, Beschluss vom 20.09.2007 - IX ZR 125/05](ix-zr-125-05.md) — BGH, Beschluss vom 20.09.2007 - IX ZR 125/05
+- [BGH, Beschluss vom 20.09.2007 - IX ZR 137/04](ix-zr-137-04.md) — BGH, Beschluss vom 20.09.2007 - IX ZR 137/04
+- [BGH, Beschluss vom 20.09.2007 - IX ZR 155/06](ix-zr-155-06.md) — BGH, Beschluss vom 20.09.2007 - IX ZR 155/06
+- [BGH, Beschluss vom 20.09.2007 - IX ZR 199/05](ix-zr-199-05.md) — BGH, Beschluss vom 20.09.2007 - IX ZR 199/05
+- [BGH, Beschluss vom 20.09.2007 - IX ZR 207/04](ix-zr-207-04.md) — BGH, Beschluss vom 20.09.2007 - IX ZR 207/04
+- [BGH, Urteil vom 20.09.2007 - IX ZR 91/06](ix-zr-91-06.md) — Tatbestand:
+- [BGH, Beschluss vom 19.07.2007 - IX ZB 86/07](ix-zb-86-07.md) — Versäumung der Frist zu Einlegung und Begründung der Rechtsbeschwerde gegen den Beschluss der 8. Zivilkammer des Landgerichts Braunschweig v
+- [BGH, Beschluss vom 12.07.2007 - IX ZA 2/04](ix-za-2-04.md) — BGH, Beschluss vom 12.07.2007 - IX ZA 2/04
+- [BGH, Beschluss vom 12.07.2007 - IX ZB 32/07](ix-zb-32-07.md) — BGH, Beschluss vom 12.07.2007 - IX ZB 32/07
+- [BGH, Beschluss vom 12.07.2007 - IX ZB 82/03](ix-zb-82-03.md) — BGH, Beschluss vom 12.07.2007 - IX ZB 82/03
+- [BGH, Beschluss vom 12.07.2007 - IX ZR 226/04](ix-zr-226-04.md) — BGH, Beschluss vom 12.07.2007 - IX ZR 226/04
+- [BGH, Beschluss vom 12.07.2007 - IX ZR 69/04](ix-zr-69-04.md) — BGH, Beschluss vom 12.07.2007 - IX ZR 69/04
+- [BGH, Beschluss vom 05.07.2007 - IX ZB 233/05](ix-zb-233-05.md) — BGH, Beschluss vom 05.07.2007 - IX ZB 233/05
+- [BGH, Beschluss vom 05.07.2007 - IX ZB 83/03](ix-zb-83-03.md) — BGH, Beschluss vom 05.07.2007 - IX ZB 83/03
+- [BGH, Beschluss vom 05.07.2007 - IX ZR 160/06](ix-zr-160-06.md) — BGH, Beschluss vom 05.07.2007 - IX ZR 160/06
+- [BGH, Urteil vom 05.07.2007 - IX ZR 256/06](ix-zr-256-06.md) — Tatbestand:
+- [BGH, Beschluss vom 28.06.2007 - IX ZR 169/04](ix-zr-169-04.md) — BGH, Beschluss vom 28.06.2007 - IX ZR 169/04
+- [BGH, Beschluss vom 21.06.2007 - IX ZB 51/06](ix-zb-51-06.md) — BGH, Beschluss vom 21.06.2007 - IX ZB 51/06
+- [BGH, Beschluss vom 21.06.2007 - IX ZR 165/04](ix-zr-165-04.md) — BGH, Beschluss vom 21.06.2007 - IX ZR 165/04
+- [BGH, Beschluss vom 21.06.2007 - IX ZR 171/04](ix-zr-171-04.md) — BGH, Beschluss vom 21.06.2007 - IX ZR 171/04
+- [BGH, Beschluss vom 21.06.2007 - IX ZR 18/05](ix-zr-18-05.md) — BGH, Beschluss vom 21.06.2007 - IX ZR 18/05
+- [BGH, Beschluss vom 14.06.2007 - IX ZR 164/04](ix-zr-164-04.md) — fehler-
+- [BGH, Beschluss vom 14.06.2007 - IX ZR 170/06](ix-zr-170-06.md) — BGH, Beschluss vom 14.06.2007 - IX ZR 170/06
+- [BGH, Beschluss vom 14.06.2007 - IX ZR 44/04](ix-zr-44-04.md) — BGH, Beschluss vom 14.06.2007 - IX ZR 44/04
+- [BGH, Urteil vom 24.05.2007 - IX ZR 105/05](ix-zr-105-05.md) — BGH, Urteil vom 24.05.2007 - IX ZR 105/05
+- [BGH, Beschluss vom 24.05.2007 - IX ZR 35/04](ix-zr-35-04.md) — BGH, Beschluss vom 24.05.2007 - IX ZR 35/04
+- [BGH, Urteil vom 24.05.2007 - IX ZR 89/06](ix-zr-89-06.md) — Tatbestand:
+- [BGH, Beschluss vom 10.05.2007 - IX ZR 222/04](ix-zr-222-04.md) — BGH, Beschluss vom 10.05.2007 - IX ZR 222/04
+- [BGH, Beschluss vom 26.04.2007 - IX ZB 160/06](ix-zb-160-06.md) — BGH, Beschluss vom 26.04.2007 - IX ZB 160/06
+- [BGH, Beschluss vom 26.04.2007 - IX ZB 196/06](ix-zb-196-06.md) — rückständiger Sozialversicherungsbeiträge von knapp
+- [BGH, Beschluss vom 26.04.2007 - IX ZB 221/04](ix-zb-221-04.md) — BGH, Beschluss vom 26.04.2007 - IX ZB 221/04
+- [BGH, Beschluss vom 26.04.2007 - IX ZB 5/06](ix-zb-5-06.md) — BGH, Beschluss vom 26.04.2007 - IX ZB 5/06
+- [BGH, Beschluss vom 26.04.2007 - IX ZB 87/06](ix-zb-87-06.md) — BGH, Beschluss vom 26.04.2007 - IX ZB 87/06
+- [BGH, Urteil vom 19.04.2007 - IX ZR 79/05](ix-zr-79-05.md) — Tatbestand:
+- [BGH, Beschluss vom 29.03.2007 - IX ZB 153/06](ix-zb-153-06.md) — Zahlungsunfähig-
+- [BGH, Beschluss vom 29.03.2007 - IX ZR 102/05](ix-zr-102-05.md) — BGH, Beschluss vom 29.03.2007 - IX ZR 102/05
+- [BGH, Beschluss vom 22.03.2007 - IX ZB 10/06](ix-zb-10-06.md) — BGH, Beschluss vom 22.03.2007 - IX ZB 10/06
+- [BGH, Beschluss vom 22.03.2007 - IX ZB 94/06](ix-zb-94-06.md) — BGH, Beschluss vom 22.03.2007 - IX ZB 94/06
+- [BGH, Beschluss vom 08.03.2007 - IX ZB 13/06](ix-zb-13-06.md) — BGH, Beschluss vom 08.03.2007 - IX ZB 13/06
+- [BGH, Beschluss vom 08.03.2007 - IX ZR 284/03](ix-zr-284-03.md) — BGH, Beschluss vom 08.03.2007 - IX ZR 284/03
+- [BGH, Beschluss vom 22.02.2007 - IX ZA 40/06](ix-za-40-06.md) — BGH, Beschluss vom 22.02.2007 - IX ZA 40/06
+- [BGH, Beschluss vom 22.02.2007 - IX ZA 41/06](ix-za-41-06.md) — BGH, Beschluss vom 22.02.2007 - IX ZA 41/06
+- [BGH, Beschluss vom 22.02.2007 - IX ZA 42/06](ix-za-42-06.md) — BGH, Beschluss vom 22.02.2007 - IX ZA 42/06
+- [BGH, Beschluss vom 22.02.2007 - IX ZA 43/06](ix-za-43-06.md) — BGH, Beschluss vom 22.02.2007 - IX ZA 43/06
+- [BGH, Beschluss vom 22.02.2007 - IX ZA 44/06](ix-za-44-06.md) — BGH, Beschluss vom 22.02.2007 - IX ZA 44/06
+- [BGH, Beschluss vom 22.02.2007 - IX ZB 106/06](ix-zb-106-06.md) — BGH, Beschluss vom 22.02.2007 - IX ZB 106/06
+- [BGH, Beschluss vom 22.02.2007 - IX ZB 116/06](ix-zb-116-06.md) — BGH, Beschluss vom 22.02.2007 - IX ZB 116/06
+- [BGH, Beschluss vom 22.02.2007 - IX ZB 120/05](ix-zb-120-05.md) — BGH, Beschluss vom 22.02.2007 - IX ZB 120/05
+- [BGH, Beschluss vom 22.02.2007 - IX ZB 120/06](ix-zb-120-06.md) — BGH, Beschluss vom 22.02.2007 - IX ZB 120/06
+- [BGH, Beschluss vom 22.02.2007 - IX ZR 4/04](ix-zr-4-04.md) — BGH, Beschluss vom 22.02.2007 - IX ZR 4/04
+- [BGH, Beschluss vom 08.02.2007 - IX ZR 38/03](ix-zr-38-03.md) — BGH, Beschluss vom 08.02.2007 - IX ZR 38/03
+- [BGH, Beschluss vom 01.02.2007 - IX ZB 209/06](ix-zb-209-06.md) — BGH, Beschluss vom 01.02.2007 - IX ZB 209/06
+- [BGH, Beschluss vom 25.01.2007 - IX ZB 114/06](ix-zb-114-06.md) — BGH, Beschluss vom 25.01.2007 - IX ZB 114/06
+- [BGH, Beschluss vom 25.01.2007 - IX ZB 186/06](ix-zb-186-06.md) — BGH, Beschluss vom 25.01.2007 - IX ZB 186/06
+- [BGH, Beschluss vom 25.01.2007 - IX ZR 114/06](ix-zr-114-06.md) — BGH, Beschluss vom 25.01.2007 - IX ZR 114/06
+- [BGH, Urteil vom 25.01.2007 - IX ZR 216/05](ix-zr-216-05.md) — Tatbestand:
+- [BGH, Beschluss vom 25.01.2007 - IX ZR 42/06](ix-zr-42-06.md) — BGH, Beschluss vom 25.01.2007 - IX ZR 42/06
+- [BGH, Beschluss vom 18.01.2007 - IX ZB 170/06](ix-zb-170-06.md) — drohender Zahlungsunfähigkeit
+- [BGH, Beschluss vom 18.01.2007 - IX ZB 70/06](ix-zb-70-06.md) — BGH, Beschluss vom 18.01.2007 - IX ZB 70/06
+- [BGH, Urteil vom 18.01.2007 - IX ZR 122/04](ix-zr-122-04.md) — Tatbestand:
+- [BGH, Beschluss vom 18.01.2007 - IX ZR 176/05](ix-zr-176-05.md) — der Versäumung der Frist zur Begründung der Revision gegen das Urteil der 1. Zivilkammer des Landgerichts Neubrandenburg vom 14. Juni 2005 W
+- [BGH, Beschluss vom 11.01.2007 - IX ZR 25/04](ix-zr-25-04.md) — BGH, Beschluss vom 11.01.2007 - IX ZR 25/04
+- [BGH, Beschluss vom 11.01.2007 - IX ZR 55/03](ix-zr-55-03.md) — BGH, Beschluss vom 11.01.2007 - IX ZR 55/03

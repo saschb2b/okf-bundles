@@ -1,0 +1,43 @@
+# X. Zivilsenat – 2016
+
+39 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2016 - X ZB 7/16](x-zb-7-16.md) — Rechtsbeschwerde im Patentanmeldungsverfahren: Gehörsverletzung bei Absehen von der Einholung eines Sachverständigengutachtens
+- [BGH, Urteil vom 20.12.2016 - X ZR 75/15](x-zr-75-15.md) — Die Beschädigung eines auf einer Außenposition abgestellten Flugzeugs durch einen Gepäckwagen, der nicht hinreichend gegen unkontrolliertes Wegrollen gesichert 
+- [BGH, Urteil vom 20.12.2016 - X ZR 77/15](x-zr-77-15.md) — Ausgleichsanspruch des Fluggastes bei Flugverspätung: Exkulpation durch außergewöhnliche Umstände bei Beschädigung des vorgesehenen Flugzeugs durch einen wegrol
+- [BGH, Beschluss vom 06.12.2016 - X ZB 13/15](x-zb-13-15.md) — Voraussetzungen für Rechtsbeschwerde im Patentverfahren
+- [BGH, Urteil vom 06.12.2016 - X ZR 117/15](x-zr-117-15.md) — 1. Der Reiseveranstalter trägt das Risiko, den vereinbarten Reisepreis nicht zu erhalten, auch dann, wenn der Reiseerfolg durch Umstände vereitelt wird, die wed
+- [BGH, Urteil vom 06.12.2016 - X ZR 118/15](x-zr-118-15.md) — Pauschalreisevertrag: Verkehrsunfall bei Hoteltransfer als Reisemangel; Zurechnungszusammenhang und allgemeines Lebensrisiko; Höhe des Minderungsanspruchs bei s
+- [BGH, Urteil vom 29.11.2016 - X ZR 122/14](x-zr-122-14.md) — Tischlerarbeiten Sendet ein Bieter auf elektronischem Wege ein Hauptangebot und mit gewissem zeitlichem Abstand (hier: etwa zwei Stunden) kommentarlos eine weit
+- [BGH, Beschluss vom 29.11.2016 - X ZR 89/14](x-zr-89-14.md) — Patentnichtigkeitssache: Streitwert im Berufungsverfahren
+- [BGH, Beschluss vom 08.11.2016 - X ZB 1/16](x-zb-1-16.md) — Ventileinrichtung 1. Das Patentgericht ist nicht befugt, im Einspruchsbeschwerdeverfahren von Amts wegen neue Widerrufsgründe, die nicht Gegenstand des Einspruc
+- [BGH, Urteil vom 25.10.2016 - X ZR 27/15](x-zr-27-15.md) — Scarlett Haben die Parteien eines Vermehrungsvertrages für Saatgetreide vereinbart, dass Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag der Entschei
+- [BGH, Urteil vom 27.09.2016 - X ZR 107/15](x-zr-107-15.md) — Verlangt der Reisende, dass statt seiner ein Dritter in die Rechte und Pflichten aus dem Reisevertrag eintritt, gehören zu den dem Reiseveranstalter zu erstatte
+- [BGH, Urteil vom 27.09.2016 - X ZR 124/15](x-zr-124-15.md) — Rezeptortyrosinkinase II 1. Eine Datenfolge kommt nur dann als durch ein patentgeschütztes Verfahren unmittelbar hergestelltes Erzeugnis in Betracht, wenn sie s
+- [BGH, Urteil vom 27.09.2016 - X ZR 141/15](x-zr-141-15.md) — Übertragung eines Flugreisevertrags: Umfang der dem Reiseveranstalter vom Reisenden zu ersetzenden Mehrkosten
+- [BGH, Urteil vom 27.09.2016 - X ZR 163/12](x-zr-163-12.md) — Beschichtungsverfahren Stehen Miterfindern die Rechte an der Erfindung in Bruchteilsgemeinschaft zu, ist die Anmeldung zum Patent durch einen Miterfinder jedenf
+- [BGH, Urteil vom 13.09.2016 - X ZR 64/14](x-zr-64-14.md) — Datengenerator 1. Verteidigt der Patentinhaber das Streitpatent im Nichtigkeitsverfahren nur mit bestimmten Anspruchssätzen, rechtfertigt es die vollständige Ni
+- [BGH, Beschluss vom 12.09.2016 - X ZR 14/15](x-zr-14-15.md) — Eine einstweilige Einstellung der Zwangsvollstreckung aus einem Patentverletzungsurteil des Berufungsgerichts im Revisionsverfahren oder im Verfahren der Beschw
+- [BGH, Beschluss vom 23.08.2016 - X ZR 81/14](x-zr-81-14.md) — Photokatalytische Titandioxidschicht Verteidigt der Beklagte in der mündlichen Verhandlung vor dem Patentgericht das Streitpatent in einer geänderten Fassung, d
+- [BGH, Urteil vom 16.08.2016 - X ZR 96/14](x-zr-96-14.md) — Yttrium-Aluminium-Granat Das Berufungsgericht ist nicht gehindert, die vom Erstgericht bejahte Glaubhaftigkeit der Bekundungen eines Zeugen zu verneinen, wenn k
+- [BGH, Urteil vom 19.07.2016 - X ZR 123/15](x-zr-123-15.md) — Die Anzeige eines Reisemangels durch den Reisenden ist nicht schon deshalb entbehrlich, weil dem Reiseveranstalter der Mangel bereits bekannt ist.
+- [BGH, EuGH-Vorlage vom 19.07.2016 - X ZR 138/15](x-zr-138-15.md) — Dem Gerichtshof der Europäischen Union wird gemäß Art. 267 AEUV folgende Frage zur Auslegung der Fluggastrechteverordnung vorgelegt: Kann ein Ausgleichsanspruch
+- [BGH, Urteil vom 28.06.2016 - X ZR 65/14](x-zr-65-14.md) — Der Formmangel eines Schenkungsvertrags, in dem sich der Schenker zur Übertragung seines gesamten gegenwärtigen Vermögens verpflichtet, wird nicht durch Vollzug
+- [BGH, Urteil vom 21.06.2016 - X ZR 41/15](x-zr-41-15.md) — Prozesskostensicherheit 1. Hat eine nach dem Recht eines Mitgliedstaats der Europäischen Union oder eines Vertragsstaats des Abkommens über den Europäischen Wir
+- [BGH, Urteil vom 14.06.2016 - X ZR 29/15](x-zr-29-15.md) — Pemetrexed 1. Eine Patentverletzung mit äquivalenten Mitteln ist in der Regel zu verneinen, wenn die Beschreibung mehrere Möglichkeiten offenbart, wie eine best
+- [BGH, EuGH-Vorlage vom 14.06.2016 - X ZR 80/15](x-zr-80-15.md) — Vorabentscheidungsersuchen an den EuGH zur Auslegung der Verordnung über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen
+- [BGH, EuGH-Vorlage vom 14.06.2016 - X ZR 92/15](x-zr-92-15.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 AEUV folgende Fragen zur Auslegung des Unionsrechts vorgelegt: 1. Ist Art. 5 Nr. 1 Buchst. a der Ve
+- [BGH, Urteil vom 24.05.2016 - X ZR 28/14](x-zr-28-14.md) — Patentnichtigkeitsverfahren: Rechtsschutzbedürfnis für die Klärung des Rechtsbestands des Streitpatents
+- [BGH, Urteil vom 19.04.2016 - X ZR 148/11](x-zr-148-11.md) — Zöliakiediagnoseverfahren 1. Ein Verfahren zum Nachweis einer bestimmten Antigen-Antikörper-Reaktion (hier: Antikörper gegen Gewebe-Transglutaminase) wird nicht
+- [BGH, Urteil vom 19.04.2016 - X ZR 77/14](x-zr-77-14.md) — Westtangente Rüsselsheim Hat sich ein Architekt oder Ingenieur an einem nach der Vergabeordnung für freiberufliche Dienstleistungen durchgeführten, dem Vierten 
+- [BGH, Urteil vom 05.04.2016 - X ZR 8/13](x-zr-8-13.md) — Filmscanner 1. Haben die Parteien eines Forschungs- und Entwicklungsvertrags vereinbart, dass jede Partei mit den von ihr getragenen Entwicklungskosten belastet
+- [BGH, Urteil vom 22.03.2016 - X ZR 18/15](x-zr-18-15.md) — Eine für sich genommen unbedenkliche Regelung in Allgemeinen Geschäftsbedingungen eines Verkehrsbetriebs, wonach ein Fahrgast, dessen Berechtigung zur Teilnahme
+- [BGH, Urteil vom 25.02.2016 - X ZR 35/15](x-zr-35-15.md) — Das ausführende Luftfahrtunternehmen braucht die Kosten für einen vom Fluggast mit der erstmaligen Geltendmachung einer Ausgleichsleistung wegen Annullierung od
+- [BGH, Urteil vom 25.02.2016 - X ZR 36/15](x-zr-36-15.md) — Geltendmachung von Ausgleichs- und Betreuungsleistungen bei erheblichen Flugverspätungen
+- [BGH, Beschluss vom 16.02.2016 - X ZR 110/13](x-zr-110-13.md) — Patentnichtigkeitsverfahren: Grundsätze der Streitwertbestimmung
+- [BGH, Verfügung vom 16.02.2016 - X ZR 5/15](x-zr-5-15.md) — Luftbeförderungsvertrag: Inhaltskontrolle der Formularklausel über die Bezahlung des Flugpreises in voller Höhe bei Buchung
+- [BGH, Urteil vom 16.02.2016 - X ZR 97/14](x-zr-97-14.md) — 1. Die Vereinbarung einer Verpflichtung des Fahr- oder Fluggastes, das Beförderungsentgelt bei Vertragsschluss zu entrichten, widerspricht nicht wesentlichen Gr
+- [BGH, Urteil vom 16.02.2016 - X ZR 98/14](x-zr-98-14.md) — Allgemeine Geschäftsbedingungen zum Luftbeförderungsvertrag: Klausel über die vollständige Zahlung des Flugpreises bei der Buchung
+- [BGH, Urteil vom 19.01.2016 - X ZR 141/13](x-zr-141-13.md) — Rezeptortyrosinkinase Eine Lehre zum technischen Handeln, die die Nutzung einer Entdeckung zur Herbeiführung eines bestimmten Erfolgs lehrt, ist dem Patentschut
+- [BGH, Beschluss vom 12.01.2016 - X ZR 109/12](x-zr-109-12.md) — Für eine gesonderte, vom Streitwert der Hauptsache abweichende Festsetzung des Werts der anwaltlichen Tätigkeit des Prozessbevollmächtigten eines Streithelfers 
+- [BGH, Urteil vom 12.01.2016 - X ZR 4/15](x-zr-4-15.md) — 1. Ob ein Reiseveranstalter, der dem Reisenden Zusatzleistungen am Urlaubsort anbietet, insoweit lediglich als Vermittler oder als Veranstalter auch dieser Leis

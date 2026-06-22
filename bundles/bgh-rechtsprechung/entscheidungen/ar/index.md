@@ -1,7 +1,7 @@
-# ar
+# AR
 
-1 Entscheidung(en).
+Allgemeines Register, Rechtshilfe- und Zuständigkeitssachen. 1 Entscheidung(en).
 
-## 2003
+## Nach Jahr
 
-- [BGH, Beschluss vom 19.12.2003 - AR (Ri) 1/03](2003/ar-ri-1-03.md)
+- [2003](2003/index.md) (1)

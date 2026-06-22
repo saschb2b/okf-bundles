@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GastG"
 description: "BGH-Entscheidungen zu GastG, geordnet nach Vorschrift."
 tags: [register, navigation, gastg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des GastG auslege
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 3 GastG | [BGH, Urteil vom 17.10.2019 - I ZR 44/19](../entscheidungen/i-zivilsenat/2019/i-zr-44-19.md) |
+| § GastG | [BGH, Urteil vom 17.10.2019 - I ZR 44/19](../entscheidungen/i-zivilsenat/2019/i-zr-44-19.md) |

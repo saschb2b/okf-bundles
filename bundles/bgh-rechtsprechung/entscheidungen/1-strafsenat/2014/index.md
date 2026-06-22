@@ -1,0 +1,113 @@
+# 1. Strafsenat – 2014
+
+109 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2014 - 1 StR 242/14](1-str-242-14.md) — Strafverfahren wegen Vergewaltigung: Umfang der Mitteilungspflicht von verständigungsbezogenen Gesprächen
+- [BGH, Urteil vom 17.12.2014 - 1 StR 324/14](1-str-324-14.md) — Strafverfahren wegen leichtfertiger Steuerverkürzung: Umsatzsteuerhinterziehung im Falle des Handels mit Altgold durch Abgabe unrichtiger Umsatzsteuervoranmeldu
+- [BGH, Beschluss vom 16.12.2014 - 1 StR 496/14](1-str-496-14.md) — Mordmerkmal der Heimtücke: Anforderungen an die Arglosigkeit des Opfers
+- [BGH, Beschluss vom 16.12.2014 - 1 StR 515/14](1-str-515-14.md) — Sicherungsverwahrung: Bewertung zulässigen Verteidigungsverhaltens; Absehen von der Anordnung trotz bestehender hangbedingter Gefährlichkeit
+- [BGH, Beschluss vom 02.12.2014 - 1 StR 31/14](1-str-31-14.md) — Die Zulassungsbescheinigung Teil II ist hinsichtlich der darin enthaltenen Angaben zur Person keine öffentliche Urkunde im Sinne des § 348 StGB. Sie beweist wed
+- [BGH, Beschluss vom 02.12.2014 - 1 StR 422/14](1-str-422-14.md) — Strafverfahren: Umfang der Mitteilungspflicht bei Verständigungsgespräch außerhalb der Hauptverhandlung
+- [BGH, Beschluss vom 19.11.2014 - 1 StR 219/14](1-str-219-14.md) — Umsatzsteuerhinterziehung: Zeitpunkt für die Zulässigkeit eines Vorsteuerabzugs; nachträgliche Bösgläubigkeit
+- [BGH, Beschluss vom 05.11.2014 - 1 StR 267/14](1-str-267-14.md) — Steuerstrafverfahren: Konkurrenzverhältnis zwischen Steuerhinterziehung in einem besonders schweren Fall und gewerbs- und bandenmäßigem Schmuggel nach altem Rec
+- [BGH, Urteil vom 05.11.2014 - 1 StR 299/14](1-str-299-14.md) — Strafzumessung bei Betäubungsmitteldelikt: Gewährung eines Härteausgleichs neben der Anrechnung bereits vollstreckter Auslandshaft
+- [BGH, Urteil vom 05.11.2014 - 1 StR 327/14](1-str-327-14.md) — Beweiswürdigung im Strafverfahren: Nichtverurteilung wegen eines idealkonkurrierenden Delikts bei Vorliegen nur einzelner Belastungsindizien; Anwendungsbereich 
+- [BGH, Urteil vom 05.11.2014 - 1 StR 394/14](1-str-394-14.md) — Sexueller Missbrauch Widerstandsunfähiger: Begriff der Widerstandsunfähigkeit; eigene Würdigung des Tatrichters; Auslagenerstattungsanspruch der Nebenklägerin g
+- [BGH, Beschluss vom 05.11.2014 - 1 StR 503/14](1-str-503-14.md) — Besonders schwere Vergewaltigung: Begriff des gefährlichen Werkzeugs
+- [BGH, Urteil vom 04.11.2014 - 1 StR 233/14](1-str-233-14.md) — Entziehung der Fahrerlaubnis bei Betäubungsmitteldelikt: Allgemeiner Erfahrungssatz über riskante Fahrweise von Rauschgifttransporteuren bei Verkehrskontrollen;
+- [BGH, Beschluss vom 04.11.2014 - 1 StR 474/14](1-str-474-14.md) — Strafverfahren wegen Betäubungsmitteldelikt: Anforderungen an die Einziehungsentscheidung; Erstreckung der Aufhebung einer Einziehungsentscheidung auf den Nicht
+- [BGH, Beschluss vom 04.11.2014 - 1 StR 586/12](1-str-586-12.md) — Strafverfahren wegen Steuerhinterziehung: Stillschweigende Beiordnung des Pflichtverteidigers für die Revisionshauptverhandlung
+- [BGH, Beschluss vom 22.10.2014 - 1 StR 364/14](1-str-364-14.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Urteilsgründe bei DNA-Gutachten
+- [BGH, Urteil vom 21.10.2014 - 1 StR 78/14](1-str-78-14.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Bestimmung des mitgeführten Gegenstandes zur Verletzung von Personen; Zweckbestimmung bei sog. gekorenen Waffen
+- [BGH, Beschluss vom 21.10.2014 - 1 StR 79/14](1-str-79-14.md) — Es ist zur Erfüllung des objektiven Tatbestandes des § 176 Abs. 4 Nr. 1 StGB ausreichend, dass die sexuelle Handlung von dem Kind zeitgleich akustisch wahrgenom
+- [BGH, Urteil vom 08.10.2014 - 1 StR 114/14](1-str-114-14.md) — 1. § 265b StGB umfasst auch Straftaten zu Lasten ausländischer Kreditgeber. 2. Genussrechtekapital kann die Voraussetzungen eines Kredits i.S.v. § 265b Abs. 1 S
+- [BGH, Beschluss vom 08.10.2014 - 1 StR 286/14](1-str-286-14.md) — Strafverfahren wegen Steuerhinterziehung: Einstellung des Verfahrens trotz teilrechtskräftiger Verurteilung
+- [BGH, Urteil vom 08.10.2014 - 1 StR 350/14](1-str-350-14.md) — Unbenannter schwerer Fall des Handeltreibens mit Betäubungsmitteln: Besonders schwerer Fall bei Bereitschaft zum Waffeneinsatz beim Weiterverkauf der Drogen
+- [BGH, Urteil vom 08.10.2014 - 1 StR 359/13](1-str-359-13.md) — 1. Beim Straftatbestand des Betruges (§ 263 Abs. 1 StGB) besteht das Erfordernis einer „Stoffgleichheit“ nur zwischen dem Vermögensschaden und dem angestrebten 
+- [BGH, Beschluss vom 07.10.2014 - 1 StR 166/07](1-str-166-07.md) — Rechtsanwaltskosten in Strafsachen: Festsetzung des Gegenstandswerts der Gebühren von Vertretern von Verfallsbeteiligten im Revisionsverfahren
+- [BGH, Urteil vom 07.10.2014 - 1 StR 182/14](1-str-182-14.md) — Umsatzsteuerhinterziehung: Vollendung in Fällen der Steuervergütung; Beteiligung an einem Umsatzsteuerkarussell; Mittäterschaft einer nicht steuerpflichtigen Pe
+- [BGH, Beschluss vom 07.10.2014 - 1 StR 381/14](1-str-381-14.md) — Strafverfahren: Verfahrensrüge wegen unterlassener Benachrichtigung des Beschuldigten vom Termin zur richterlichen Vernehmung eines Zeugen
+- [BGH, Beschluss vom 07.10.2014 - 1 StR 426/14](1-str-426-14.md) — Strafverfahren wegen Betäubungsmitteldelikt: Verfahrensfehler bei Nichtankündigung einer im Rahmen einer Verfahrensverständigung beabsichtigten Bewährungsweisun
+- [BGH, Beschluss vom 06.10.2014 - 1 StR 214/14](1-str-214-14.md) — Steuerstrafverfahren: Gerichtliche Schätzung der Besteuerungsgrundlagen und erforderliche Urteilsfeststellungen; Darlegung der zugrunde gelegten Rohgewinnaufsch
+- [BGH, Beschluss vom 17.09.2014 - 1 StR 212/14](1-str-212-14.md) — Revisionsgründe im Strafverfahren: Abwesenheit des während der Zeugenvernehmung entfernten Angeklagten bei der anschließenden Augenscheinseinnahme; Wiederherste
+- [BGH, Beschluss vom 17.09.2014 - 1 StR 387/14](1-str-387-14.md) — 1. Entziehung Minderjähriger liegt auch dann vor, wenn ein sorgeberechtigter Elternteil zwangsweise für eine gewisse Dauer von seinem unter achtzehnjährigen Kin
+- [BGH, Beschluss vom 16.09.2014 - 1 StR 382/14](1-str-382-14.md) — Verkehrsstrafsachen im Sinne des Geschäftsverteilungsplanes des Bundesgerichtshofs: Körperverletzung mit Todesfolge im öffentlichen Verkehrsraum
+- [BGH, Beschluss vom 04.09.2014 - 1 StR 314/14](1-str-314-14.md) — Strafverfahren wegen Massenbetruges: Irrtumsbedingte Vermögensverfügung bei Zahlung auf unberechtigte Rechnung; notwendige Feststellungen zum Irrtum der Verfüge
+- [BGH, Beschluss vom 04.09.2014 - 1 StR 389/14](1-str-389-14.md) — Strafverfahren wegen schweren räuberischen Diebstahls: Notwendige Urteilsfeststellungen und Beweiswürdigung zur Besitzerhaltungsabsicht
+- [BGH, Beschluss vom 04.09.2014 - 1 StR 70/14](1-str-70-14.md) — Strafverfahren wegen Brandstiftung: Berücksichtigung von durch Verfahrenseinstellung ausgeschiedener Straftatteile
+- [BGH, Urteil vom 04.09.2014 - 1 StR 75/14](1-str-75-14.md) — Revisionsbegründung in Strafsachen: Fehlerhafte Begründung von Verfahrensrügen mit Bezugnahmen auf andere Unterlagen
+- [BGH, Urteil vom 03.09.2014 - 1 StR 145/14](1-str-145-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Voraussetzungen einer bandenmäßigen Begehung
+- [BGH, Urteil vom 21.08.2014 - 1 StR 13/14](1-str-13-14.md) — Beweisaufnahme im Strafverfahren: Ablehnung eines Beweisantrags wegen völliger Ungeeignetheit des Beweismittels bzw. Bedeutungslosigkeit
+- [BGH, Beschluss vom 21.08.2014 - 1 StR 209/14](1-str-209-14.md) — Steuerhinterziehung: Strafzumessung bei unrechtmäßiger Umsatzsteuervoranmeldung mittels Scheinrechnungen im Gutschriftverfahren
+- [BGH, Beschluss vom 21.08.2014 - 1 StR 320/14](1-str-320-14.md) — Sicherungsverwahrung für Sexualstraftäter: Berücksichtung zulässigen Verteidigungsverhaltens des Angeklagten bei der Gefährlichkeitsprognose
+- [BGH, Beschluss vom 07.08.2014 - 1 StR 198/14](1-str-198-14.md) — Verjährungsfrist für Steuerhinterziehung: Unterbrechung der Verjährung bei mehreren zur Unterbrechung führenden Handlungen
+- [BGH, Beschluss vom 05.08.2014 - 1 StR 340/14](1-str-340-14.md) — Heimtückemord an einem Kleinkind: Schutzbereitschaft eines Dritten
+- [BGH, Beschluss vom 23.07.2014 - 1 StR 196/14](1-str-196-14.md) — Steuerhinterziehung: Abgrenzung einer versuchten und einer vollendeten Steuerhinterziehung im Rahmen der Voranmeldung der Umsatzsteuer
+- [BGH, Beschluss vom 23.07.2014 - 1 StR 207/14](1-str-207-14.md) — Tateinheit bei Steuerhinterziehungen durch Unterlassen
+- [BGH, Beschluss vom 23.07.2014 - 1 StR 47/14](1-str-47-14.md) — Strafbares Inverkehrbringen verbotener Arzneimittel: Arzneimitteleigenschaft von synthetischen Cannabinoiden
+- [BGH, Beschluss vom 22.07.2014 - 1 StR 189/14](1-str-189-14.md) — Umsatzsteuerhinterziehung: Tatbegehung durch Unterlassen
+- [BGH, Beschluss vom 22.07.2014 - 1 StR 210/14](1-str-210-14.md) — Verständigung im Strafverfahren: Anforderungen an Rüge einer Verletzung der Mitteilungspflicht im Hinblick auf die Bekanntgabe eines Verständigungsgesprächs; Sc
+- [BGH, Beschluss vom 10.07.2014 - 1 StR 247/14](1-str-247-14.md) — Revision in Strafsachen: Ergänzung der Urteilsformel erster Instanz um den Anrechnungsmaßstab für eine ausländische Freiheitsentziehung
+- [BGH, Beschluss vom 08.07.2014 - 1 StR 240/14](1-str-240-14.md) — Strafverfahren wegen Steuerhinterziehung: Tatbeendigung bei Hinterziehung von Tabaksteuer
+- [BGH, Beschluss vom 08.07.2014 - 1 StR 266/14](1-str-266-14.md) — Strafzumessung: Anforderungen an einen strafmildernden Täter-Opfer-Ausgleich
+- [BGH, Beschluss vom 08.07.2014 - 1 StR 29/14](1-str-29-14.md) — Umsatzsteuerhinterziehung: Einschaltung von Strohmännern
+- [BGH, Beschluss vom 25.06.2014 - 1 StR 218/14](1-str-218-14.md) — Bildung einer Gesamtstrafe: Auswirkungen des das Auslieferungsrecht beherrschenden Grundsatzes der Spezialität bei Einbeziehung einer früheren Verurteilung durc
+- [BGH, Beschluss vom 24.06.2014 - 1 ARs 14/14](1-ars-14-14.md) — Ungleichartige Wahlfeststellung: Verfassungsmäßigkeit der gesetzesalternativen Wahlfeststellung
+- [BGH, Beschluss vom 24.06.2014 - 1 StR 162/14](1-str-162-14.md) — Strafvollstreckung bei Betäubungsmitteldelikten: Reihenfolge der Vollstreckung bei Bildung zweier Gesamtstrafen; Berechnung des Vorwegvollzugs bei Anordnung ein
+- [BGH, Urteil vom 20.05.2014 - 1 StR 610/13](1-str-610-13.md) — Jugendstrafverfahren wegen Körperverletzung mit Todesfolge: Anwendung von Erwachsenenstrafrecht bei einem Heranwachsenden
+- [BGH, Urteil vom 20.05.2014 - 1 StR 90/14](1-str-90-14.md) — Verminderte Schuldfähigkeit: Erhebliche Beeinträchtigung der Steuerungsfähigkeit infolge Betäubungsmittelabhängigkeit
+- [BGH, Urteil vom 08.05.2014 - 1 StR 722/13](1-str-722-13.md) — Freispruch aus tatsächlichen Gründen: Notwendige Urteilsfeststellungen
+- [BGH, Beschluss vom 08.05.2014 - 1 StR 726/13](1-str-726-13.md) — Richterablehnung im Strafverfahren: Besorgnis der Befangenheit wegen Vorbefassung des Gerichts in Form eines erlassenen Haftbefehls
+- [BGH, Beschluss vom 07.05.2014 - 1 StR 150/14](1-str-150-14.md) — Strafverfahren wegen gewerbsmäßiger Hehlerei: Hehlerei durch Absetzen vorher angekaufter Waren
+- [BGH, Beschluss vom 06.05.2014 - 1 StR 151/14](1-str-151-14.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Waffenrechtliche Einstufung eines Feuerzeugspringmessers
+- [BGH, Beschluss vom 05.05.2014 - 1 StR 82/14](1-str-82-14.md) — Revisionsverfahren: Verletzung des rechtlichen Gehörs durch Revisionsverwerfung ohne Begründung
+- [BGH, Beschluss vom 30.04.2014 - 1 StR 245/09](1-str-245-09.md) — Verteidigergebühren im Revisionsverfahren: Bemessung des Gegenstandswerts bei Sachrüge der Staatsanwaltschaft gegen das Unterlassen einer Verfallsanordnung
+- [BGH, Beschluss vom 30.04.2014 - 1 StR 53/13](1-str-53-13.md) — Festsetzung des Gegenstandswerts nach Entfallen einer erstinstanzlichen Verfallsanordnung im Revisionsverfahren
+- [BGH, Beschluss vom 25.04.2014 - 1 StR 13/13](1-str-13-13.md) — 1. Die Aufteilung der Wirtschaftsstrafsachen eines Landgerichts auf zwei Wirtschaftsstrafkammern (§ 74c Abs. 1 GVG) erfordert nicht zwingend, dass der Geschäfts
+- [BGH, Urteil vom 16.04.2014 - 1 StR 516/13](1-str-516-13.md) — Vorenthaltung von Arbeitsentgelt: Berechnung der bei illegalen Beschäftigungsverhältnissen vorenthaltenen Sozialversicherungsbeiträge; Verwertbarkeit von im Rah
+- [BGH, Urteil vom 16.04.2014 - 1 StR 638/13](1-str-638-13.md) — Strafverfahren: Erfolglosigkeit der Verfahrensrüge der Verletzung des Rechts des Angeklagten zur Befragung eines Belastungszeugen
+- [BGH, Beschluss vom 10.04.2014 - 1 StR 649/13](1-str-649-13.md) — Kreditbetrug: Auslegung unrichtiger schriftlichen Angaben bei den Kreditverhandlungen
+- [BGH, Beschluss vom 09.04.2014 - 1 StR 39/14](1-str-39-14.md) — Beweiswürdigung in Strafsachen: Verwertbarkeit der von einem ausländischen Staat im Wege der Rechtshilfe überlassenen Abhörprotokolle
+- [BGH, Beschluss vom 09.04.2014 - 1 StR 612/13](1-str-612-13.md) — Hauptverhandlung im Strafverfahren: Umfang der gerichtlichen Mitteilungspflicht über vorangegangene Verständigungsgespräche
+- [BGH, Beschluss vom 08.04.2014 - 1 StR 126/14](1-str-126-14.md) — Nachstellung: Strafschärfende Berücksichtigung der "besonderen Hartnäckigkeit" und "Bedenkenlosigkeit" bei der Tatbegehung; Nachholung der Festsetzung der Tages
+- [BGH, Beschluss vom 27.03.2014 - 1 StR 106/14](1-str-106-14.md) — Schwerer sexueller Mißbrauch von Kindern: Vorliegen eines vollendeten Beischlafs
+- [BGH, Urteil vom 25.03.2014 - 1 StR 630/13](1-str-630-13.md) — Einschränkung des Notwehrrechts bei schuldhafter Provokation des Angriffs
+- [BGH, Beschluss vom 25.03.2014 - 1 StR 65/14](1-str-65-14.md) — Verminderte Schuldfähigkeit: Versagung der Strafmilderung bei bekannter Straffälligkeit unter Alkoholeinfluss
+- [BGH, Beschluss vom 12.03.2014 - 1 StR 605/13](1-str-605-13.md) — Strafurteil: Widerspruch zwischen verkündeter Urteilsformel und schriftlicher Urteilsformel bei rechtlich einwandfreien Strafzumessungserwägungen
+- [BGH, Beschluss vom 11.03.2014 - 1 StR 55/14](1-str-55-14.md) — Revisionsverfahren: Entfallen einer Einzelstrafe
+- [BGH, Urteil vom 11.03.2014 - 1 StR 655/13](1-str-655-13.md) — Beweisaufnahme im Strafverfahren: Einvernahme eines bei einer richterlichen Vernehmung anwesenden Polizeibeamten statt des Ermittlungsrichters
+- [BGH, Beschluss vom 11.03.2014 - 1 StR 711/13](1-str-711-13.md) — Revisionsrüge der Abwesenheit des Angeklagten bei der Verhandlung über die Entlassung der in seiner Abwesenheit vernommenen Opferzeugin: Erfordernis der Darstel
+- [BGH, Beschluss vom 11.03.2014 - 1 StR 735/13](1-str-735-13.md) — Strafverfahren wegen versuchten Mordes: Voraussetzungen eines fehlgeschlagenen Versuchs; Anforderungen an die Urteilsfeststellungen für die Annahme eines fehlge
+- [BGH, Beschluss vom 27.02.2014 - 1 StR 15/14](1-str-15-14.md) — Gewerbsmäßige Hehlerei: Gewerbsmäßigkeit beim einmaligen Verschaffen gestohlener Gegenstände und sukzessivem Verkauf
+- [BGH, Beschluss vom 27.02.2014 - 1 StR 367/13](1-str-367-13.md) — Totschlagsversuch mehrerer Tatbeteiligter: Einvernehmlicher Rücktritt durch einvernehmliches Nichtweiterhandeln; Absehen von weiteren Verletzungshandlungen wege
+- [BGH, Beschluss vom 27.02.2014 - 1 StR 50/14](1-str-50-14.md) — Strafverfahren: Ersetzung des Eröffnungsbeschlusses durch den in einer anderen Sache ergangenen Abtrennungsbeschluss für ein hinzuverbundenes Verfahren
+- [BGH, Beschluss vom 26.02.2014 - 1 StR 6/14](1-str-6-14.md) — Gesamtstrafenbildung: Nachholung der Festsetzung einer Einzelstrafe durch das Revisionsgericht
+- [BGH, Beschluss vom 25.02.2014 - 1 StR 40/14](1-str-40-14.md) — Rechtsmittelverzicht in der Hauptverhandlung: Wirksamkeit bei fehlender Rücksprache mit dem Verteidiger
+- [BGH, Beschluss vom 13.02.2014 - 1 StR 336/13](1-str-336-13.md) — Verletzung der Buchführungspflicht als abstraktes Gefährdungsdelikt; Gläubigerbegünstigung bei einem Dritten erteilter Anweisung, an einen Gläubiger zu zahlen
+- [BGH, Urteil vom 13.02.2014 - 1 StR 423/13](1-str-423-13.md) — Verständigung im Strafverfahren: Mitteilungspflicht des Tatrichters bezüglich sämtlicher verständigungsbezogener Vorgespräche außerhalb der Hauptverhandlung
+- [BGH, Beschluss vom 13.02.2014 - 1 StR 631/13](1-str-631-13.md) — Revisionsverfahren: Auslagenentscheidung bei Tod des Angeklagten
+- [BGH, Beschluss vom 12.02.2014 - 1 StR 10/14](1-str-10-14.md) — Strafverfahren wegen versuchtem Totschlags: Berücksichtigung des Zweifelssatzes bei der Strafzumessung
+- [BGH, Beschluss vom 12.02.2014 - 1 StR 36/14](1-str-36-14.md) — Zeitige Freiheitsstrafe: Anrechnung verfahrensfremder Unterbringungszeiten; Bewährungsentscheidung
+- [BGH, Beschluss vom 12.02.2014 - 1 StR 601/13](1-str-601-13.md) — Nachträgliche Gesamtstrafenbildung: Anrechnung der auf Bewährungsauflagen erbrachten Leistungen bei Entfallen der ursprünglichen Strafaussetzung zur Bewährung
+- [BGH, Beschluss vom 11.02.2014 - 1 StR 355/13](1-str-355-13.md) — Telekommunikationsüberwachung: Erstreckung des Akteneinsichtsrechts auf Tonaufzeichnungen; Gewährung der Akteneinsicht in Räumlichkeiten der Polizei
+- [BGH, Urteil vom 11.02.2014 - 1 StR 485/13](1-str-485-13.md) — Die Strafbarkeit nach § 184b StGB setzt nicht voraus, dass die Darstellung der sexuellen Handlung einen vergröbernd-reißerischen Charakter aufweist.
+- [BGH, Beschluss vom 06.02.2014 - 1 StR 577/13](1-str-577-13.md) — Beihilfe zur Umsatzsteuerhinterziehung: Strohmann als steuerpflichtiger leistender Unternehmer; Abgrenzung zwischen Vorbereitungshandlung und Versuchsbeginn bei
+- [BGH, Beschluss vom 06.02.2014 - 1 StR 578/13](1-str-578-13.md) — Steuerhinterziehung: Beihilfe zur Hinterziehung von Umsatzsteuern durch einen "Strohmann"
+- [BGH, Beschluss vom 05.02.2014 - 1 StR 422/13](1-str-422-13.md) — Umsatzsteuerhinterziehung: Versagung des Vorsteuerabzugs bei Beteiligung an einem Umsatzsteuerkarussell; Eigenschaft als Leistender bei Strohmanngeschäften
+- [BGH, Beschluss vom 05.02.2014 - 1 StR 527/13](1-str-527-13.md) — Revision in Strafsachen: Entscheidung über die Wirksamkeit einer Revisionsrücknahme durch den ehemaligen Verteidiger nach Wahlanwaltswechsel
+- [BGH, Beschluss vom 05.02.2014 - 1 StR 693/13](1-str-693-13.md) — Unerlaubte gewerbsmäßige Abgabe von Betäubungsmitteln an Minderjährige: Unmittelbares Ansetzen zur Tat durch bloßes Aufbewahren von Betäubungsmitteln
+- [BGH, Beschluss vom 05.02.2014 - 1 StR 706/13](1-str-706-13.md) — Strafverfahren: Erforderlicher Inhalt des Protokolls hinsichtlich der Kenntnisnahme der Verfahrensbeteiligten beim Selbstleseverfahren
+- [BGH, Beschluss vom 29.01.2014 - 1 StR 469/13](1-str-469-13.md) — Umsatzsteuerhinterziehung: Eigenschaft als Leistender bei Strohmanngeschäften im Rahmen eines auf Steuerhinterziehung angelegten Systems für den internationalen
+- [BGH, Beschluss vom 29.01.2014 - 1 StR 523/13](1-str-523-13.md) — Pflicht zur Mitteilung von Verständigungsgesprächen im Strafverfahren: Beruhen des Urteils auf einem Verstoß gegen die Mitteilungspflicht
+- [BGH, Beschluss vom 29.01.2014 - 1 StR 561/13](1-str-561-13.md) — Steuerstrafverfahren: Schätzung der Besteuerungsgrundlagen bei Steuerhinterziehung
+- [BGH, Beschluss vom 29.01.2014 - 1 StR 589/13](1-str-589-13.md) — Strafzumessung: Bewertung des Leugnens der Tatbeteiligung sowie des Fehlens von Mitgefühl und Schuldeinsicht
+- [BGH, Beschluss vom 29.01.2014 - 1 StR 654/13](1-str-654-13.md) — Zu der Fälschung von Zahlungskarten mit Garantiefunktion bei Erlangung der Kartendaten mittels „Skimming“ wird durch das Auswerten und Systematisieren der Video
+- [BGH, Urteil vom 28.01.2014 - 1 StR 494/13](1-str-494-13.md) — 1. Zur "begründeten Anwendung" im Sinne von § 13 Abs. 1 BtMG bei der ärztlichen Verschreibung von Betäubungsmitteln im Rahmen der Substitutionstherapie opiatabh
+- [BGH, Beschluss vom 28.01.2014 - 1 StR 562/13](1-str-562-13.md) — Beweiswürdigung im Strafverfahren: Verfahrensmangel bei Nichteinführung einer Verfahrensabsprache mit einem Zeugen in die Hauptverhandlung
+- [BGH, Beschluss vom 21.01.2014 - 1 StR 664/13](1-str-664-13.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Mehrere Beihilfehandlungen zu einer einheitlichen Haupttat
+- [BGH, Beschluss vom 16.01.2014 - 1 StR 389/13](1-str-389-13.md) — Körperverletzung mit Todesfolge: Tatherrschaft des Arztes bei Missbrauch des verschriebenen Fetanyl-Schmerzpflasters durch den suchtgefährdeten Patienten
+- [BGH, Beschluss vom 15.01.2014 - 1 StR 302/13](1-str-302-13.md) — Verfahrensrüge im Revisionsverfahren: Verstoß gegen die Belehrungspflicht nach vorausgegangener Verständigung; Darlegungslast für Kausalzusammenhang zwischen Re
+- [BGH, Beschluss vom 15.01.2014 - 1 StR 379/13](1-str-379-13.md) — Ablehnung eines Beweisantrags im Strafverfahren: Anforderungen an die Konnexität des Beweisantrags auf Vernehmung von Zeugen
+- [BGH, Beschluss vom 15.01.2014 - 1 StR 648/13](1-str-648-13.md) — Steuerhinterziehung durch Unterlassen: Umsatzsteuerpflicht bei Rechnungen mit gesondert ausgewiesener Umsatzsteuer; Steueranmeldung bei Blankorechnungen
+- [BGH, Beschluss vom 14.01.2014 - 1 StR 531/13](1-str-531-13.md) — Vorwegvollzug einer Unterbringung: Beschränkung des Rechtsmittels auf die angeordnete Dauer des Vorwegvollzugs; Kürzung der Dauer des Vorwegvollzugs um die verb
+- [BGH, Beschluss vom 14.01.2014 - 1 StR 628/13](1-str-628-13.md) — Brandstiftung und schwere Brandstiftung: Brandlegung im Kellerraum eines Wohngebäudes; teilweise Zerstörung durch Brandlegung; konkrete Gesundheitsgefahr bei Br

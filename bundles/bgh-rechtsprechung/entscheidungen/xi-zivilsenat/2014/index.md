@@ -1,0 +1,50 @@
+# XI. Zivilsenat – 2014
+
+46 Entscheidung(en).
+
+- [BGH, Beschluss vom 02.12.2014 - XI ZB 17/13](xi-zb-17-13.md) — Ist eine Klage wegen anderweitiger Rechtshängigkeit abweisungsreif, ist eine Aussetzung des Verfahrens nach § 8 Abs. 1 Satz 1 KapMuG unzulässig.
+- [BGH, Urteil vom 25.11.2014 - XI ZR 169/13](xi-zr-169-13.md) — Bei Inhaberschuldverschreibungen mit 100%igem Kapitalschutz oder mit bedingtem Kapitalschutz bezogen auf das Erreichen, Überschreiten oder Unterschreiten bestim
+- [BGH, Urteil vom 25.11.2014 - XI ZR 480/13](xi-zr-480-13.md) — Bankenhaftung bei Anlageberatung: Aufklärungspflicht über Sonderkündigungsrecht der Emittentin
+- [BGH, Urteil vom 11.11.2014 - XI ZR 265/13](xi-zr-265-13.md) — 1. Die Forderung aus einer zur Abwendung der Sicherungsvollstreckung geleisteten Prozessbürgschaft wird mit der Rechtskraft des Urteils, dessen Vollstreckung ab
+- [BGH, Urteil vom 28.10.2014 - XI ZR 17/14](xi-zr-17-14.md) — Rückzahlungsanspruch wegen unwirksam formularmäßig vereinbarter Bearbeitungsgebühren in Darlehensverträgen: Beginn der kenntnisabhängigen Verjährung in Ansehung
+- [BGH, Urteil vom 28.10.2014 - XI ZR 348/13](xi-zr-348-13.md) — Die kenntnisabhängige Verjährungsfrist des § 199 Abs. 1 BGB begann für Rückforderungsansprüche wegen unwirksam formularmäßig vereinbarter Bearbeitungsentgelte i
+- [BGH, Beschluss vom 28.10.2014 - XI ZR 395/13](xi-zr-395-13.md) — Kostenentscheidung nach Erledigung: Anerkennung der Kostentragungspflicht durch eine Partei; Streitwertermäßigung
+- [BGH, Beschluss vom 21.10.2014 - XI ZB 12/12](xi-zb-12-12.md) — 1. Ein Musterentscheid im Kapitalanleger-Musterverfahren muss den maßgeblichen Sach- und Streitstand, über den entschieden wird, wiedergeben und die gestellten 
+- [BGH, Urteil vom 21.10.2014 - XI ZR 210/13](xi-zr-210-13.md) — Zur Einordnung des Zugewinnausgleichs als entgeltlichen Vermögenszuwachs.
+- [BGH, Beschluss vom 14.10.2014 - XI ZB 13/13](xi-zb-13-13.md) — Wiedereinsetzung in den vorigen Stand: Versäumung der Berufungsbegründungsfrist durch Übermittlung eines nicht unterzeichneten Berufungsschriftsatzes; Wahrung d
+- [BGH, Beschluss vom 30.09.2014 - XI ZB 21/13](xi-zb-21-13.md) — Rechtsanwaltskosten im Berufungsverfahren: Verfahrensgebühr für den Prozessbevollmächtigten des Berufungsbeklagten bei Zurückweisungsantrag vor Einreichung der 
+- [BGH, Urteil vom 30.09.2014 - XI ZR 168/13](xi-zr-168-13.md) — 1. Der Einwendungsdurchgriff gemäß §§ 358, 359 BGB in der bis zum 3. August 2011 geltenden Fassung setzt einen entgeltlichen Darlehensvertrag voraus. 2. Ein ent
+- [BGH, Urteil vom 23.09.2014 - XI ZR 215/13](xi-zr-215-13.md) — Bankenhaftung bei Kapitalanlageberatung: Anrechnung von Steuervorteilen bei Rückabwicklung der Beteiligung an einem Medienfonds; Übernahme eines negativen Kapit
+- [BGH, Beschluss vom 16.09.2014 - XI ZB 5/13](xi-zb-5-13.md) — Rechtsbeschwerdeverfahren: Aufhebung eines nicht mit Sachverhalt und Sachanträgen versehenen Berufungsverwerfungsbeschlusses
+- [BGH, Urteil vom 16.09.2014 - XI ZR 77/13](xi-zr-77-13.md) — Internationales Privatrecht: Kreditrückzahlungsklage einer liechtensteinischen Bank gegen einen deutschen Kreditnehmer; Wirksamkeit einer Rechtswahlvereinbarung
+- [BGH, Urteil vom 16.09.2014 - XI ZR 78/13](xi-zr-78-13.md) — 1. Fällt ein Lebensversicherungsvertrag nicht in den Anwendungsbereich des Art. 29 Abs. 1 EGBGB in der Fassung vom 21. September 1994, weil er zu den in Art. 37
+- [BGH, Urteil vom 05.08.2014 - XI ZR 172/13](xi-zr-172-13.md) — Zur Hemmung der Verjährung bei der Geltendmachung von Schadenersatz im Mahnverfahren.
+- [BGH, Urteil vom 15.07.2014 - XI ZR 100/13](xi-zr-100-13.md) — 1. Der Bundesgerichtshof ist nicht Prozessgericht im Sinne des § 8 Abs. 1 Satz 1 KapMuG. 2. Eine auf einen Basiswert bezogene Schuldverschreibungen emittierende
+- [BGH, Urteil vom 15.07.2014 - XI ZR 418/13](xi-zr-418-13.md) — 1. Eine Bank, die einen Kunden im Rahmen der Anlageberatung nicht auf an sie zurückgeflossene Rückvergütungen hinweist, kann sich jedenfalls für die Zeit nach 1
+- [BGH, Beschluss vom 08.07.2014 - XI ZB 7/13](xi-zb-7-13.md) — Kostenentscheidung im Berufungsverfahren: Nachholung der unterbliebenen Entscheidung über die außergerichtlichen Kosten des Streithelfers
+- [BGH, Urteil vom 01.07.2014 - XI ZR 247/12](xi-zr-247-12.md) — Die beratende Bank ist aufgrund eines mit ihrem Kunden geschlossenen Finanzierungsberatungsvertrags nicht verpflichtet, diesen darüber zu informieren, dass ihr 
+- [BGH, Beschluss vom 17.06.2014 - XI ZR 50/13](xi-zr-50-13.md) — BGH, Beschluss XI ZR 50/13
+- [BGH, Urteil vom 03.06.2014 - XI ZR 147/12](xi-zr-147-12.md) — 1. Eine beratende Bank hat Kunden aufgrund von Anlageberatungsverträgen ab dem 1. August 2014 über den Empfang versteckter Innenprovisionen von Seiten Dritter u
+- [BGH, Beschluss vom 03.06.2014 - XI ZR 435/12](xi-zr-435-12.md) — Bankenhaftung wegen fehlerhafter Anlageberatung: Gehörsverstoß bei Ablehnung von Beweisanträgen der Beklagten im Hinblick auf Indizien für die fehlende Kausalit
+- [BGH, Urteil vom 27.05.2014 - XI ZR 264/13](xi-zr-264-13.md) — 1. Ein schutzwürdiges rechtliches Interesse an der Einsicht in eine Urkunde im Sinne von § 810 Fall 2 BGB fehlt, wenn der Anspruchsteller die Einsicht nur aufgr
+- [BGH, Urteil vom 13.05.2014 - XI ZR 170/13](xi-zr-170-13.md) — 1. Eine Bestimmung über ein Bearbeitungsentgelt in einem Darlehensvertrag zwischen einem Kreditinstitut und einem Verbraucher ist auch dann vorformuliert im Sin
+- [BGH, Urteil vom 13.05.2014 - XI ZR 405/12](xi-zr-405-12.md) — Die in den Allgemeinen Geschäftsbedingungen eines Kreditinstituts für den Abschluss von Privatkreditverträgen enthaltene Bestimmung "Bearbeitungsentgelt einmali
+- [BGH, Urteil vom 29.04.2014 - XI ZR 130/13](xi-zr-130-13.md) — Eine Bank, die den Erwerb von Anteilen an einem offenen Immobilienfonds empfiehlt, muss den Anleger ungefragt über die Möglichkeit einer zeitweiligen Aussetzung
+- [BGH, Urteil vom 29.04.2014 - XI ZR 477/12](xi-zr-477-12.md) — Bankenhaftung bei Kapitalanlageberatung: Aufklärungspflichten bei dem Erwerb von Aktien an einem offenen Immobilienfonds
+- [BGH, Beschluss vom 16.04.2014 - XI ZR 38/13](xi-zr-38-13.md) — Streitwert eines Rechtsstreits über die Prozessbeendigung durch einen Vergleich
+- [BGH, Urteil vom 15.04.2014 - XI ZR 513/11](xi-zr-513-11.md) — Bankenhaftung bei Anlageberatung: Provision aus den im Prospekt ausgewiesenen Kosten der Eigenkapitalbeschaffung als aufklärungspflichtige Rückvergütung
+- [BGH, Beschluss vom 08.04.2014 - XI ZB 40/11](xi-zb-40-11.md) — Eine analoge Anwendung des § 148 ZPO scheidet im Anwendungsbereich des § 7 Abs. 1 Satz 1 KapMuG (in der bis einschließlich 31. Oktober 2012 geltenden Fassung) b
+- [BGH, Urteil vom 08.04.2014 - XI ZR 341/12](xi-zr-341-12.md) — Ein Anlageinteressent, der im Rahmen eines Beratungsgesprächs nach der Höhe der an die Bank fließenden Provision fragt und trotz ausdrücklicher Erklärung des An
+- [BGH, Beschluss vom 01.04.2014 - XI ZR 171/12](xi-zr-171-12.md) — Bankenhaftung bei Kapitalanlageberatung: Vermutung aufklärungsrichtigen Verhaltens bei unterlassener Offenlegung von erhaltenen Provisionszahlungen; Gehörsverle
+- [BGH, Beschluss vom 01.04.2014 - XI ZR 276/13](xi-zr-276-13.md) — Zur Sittenwidrigkeit einer aus emotionaler Verbundenheit erteilten Bürgschaft bei hintereinander geschalteten Bürgschaftsverträgen.
+- [BGH, Urteil vom 04.03.2014 - XI ZR 178/12](xi-zr-178-12.md) — Haftung einer Direktbank: Beschränkte Revisionszulassung hinsichtlich eines Schadensersatzanspruches wegen Aufklärungspflichtverletzung in Ansehung einer arglis
+- [BGH, Urteil vom 04.03.2014 - XI ZR 313/12](xi-zr-313-12.md) — (Haftung bei Kapitalanlageberatung: Beratungspflichten von Discount-Brokern bzw. Direktbanken bei gestaffelter Einschaltung mehrerer Wertpapierdienstleistungsun
+- [BGH, Beschluss vom 18.02.2014 - XI ZB 12/13](xi-zb-12-13.md) — Ein Rechtsanwalt wird von der Verpflichtung, die Berufungsbegründungsfrist bei Vorlage der Akten zwecks Erstellung der Berufungsbegründungsschrift zu prüfen, ni
+- [BGH, Urteil vom 04.02.2014 - XI ZR 398/12](xi-zr-398-12.md) — Haftung bei Kapitalanlageberatung: Nachweis der fehlenden Kausalität der Beratungspflichtverletzung; Verjährungsbeginn bei Falschangaben über die Höhe der Rückv
+- [BGH, Beschluss vom 28.01.2014 - XI ZR 372/12](xi-zr-372-12.md) — Gehörsrüge: Prozesskostenhilfe und Gerichtsgebühr für die Zurückweisung der Anhörungsrüge
+- [BGH, Urteil vom 28.01.2014 - XI ZR 42/13](xi-zr-42-13.md) — Bankenhaftung aus Anlageberatung: Anrechnung steuerlicher Vorteile auf einen gegen die beratende Bank gerichteten Schadensersatzanspruch; Berechnung des Gegenst
+- [BGH, Urteil vom 28.01.2014 - XI ZR 424/12](xi-zr-424-12.md) — Nr. 7 Abs. 3 Satz 1 AGB-Sparkassen 2002, der zufolge Einwendungen gegen Rechnungsabschlüsse der Sparkasse schriftlich oder, wenn im Rahmen der Geschäftsbeziehun
+- [BGH, Urteil vom 28.01.2014 - XI ZR 49/13](xi-zr-49-13.md) — Rückabwicklung der Beteiligung an einem Medienfonds: Anrechnung von Steuervorteilen des Geschädigten
+- [BGH, Urteil vom 28.01.2014 - XI ZR 495/12](xi-zr-495-12.md) — 1. Zur Frage der Anrechnung steuerlicher Vorteile auf einen gegen die beratende Bank gerichteten Schadensersatzanspruch auf Rückabwicklung der Beteiligung an ei
+- [BGH, Beschluss vom 14.01.2014 - XI ZR 180/13](xi-zr-180-13.md) — BGH, Beschluss XI ZR 180/13
+- [BGH, Urteil vom 14.01.2014 - XI ZR 355/12](xi-zr-355-12.md) — Die von einem Kreditinstitut im Wertpapiergeschäft mit Privatkunden in einer "Rahmenvereinbarung für Wertpapiergeschäfte" verwendete Bestimmung (Behaltensklause

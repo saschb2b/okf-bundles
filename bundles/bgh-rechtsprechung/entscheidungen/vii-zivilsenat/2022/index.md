@@ -1,0 +1,139 @@
+# VII. Zivilsenat – 2022
+
+135 Entscheidung(en).
+
+- [BGH, Urteil vom 15.12.2022 - VII ZR 177/21](vii-zr-177-21.md) — BGH, Urteil VII ZR 177/21
+- [BGH, Urteil vom 15.12.2022 - VII ZR 292/21](vii-zr-292-21.md) — BGH, Urteil VII ZR 292/21
+- [BGH, Urteil vom 15.12.2022 - VII ZR 523/21](vii-zr-523-21.md) — BGH, Urteil VII ZR 523/21
+- [BGH, Urteil vom 15.12.2022 - VII ZR 793/21](vii-zr-793-21.md) — BGH, Urteil VII ZR 793/21
+- [BGH, Beschluss vom 14.12.2022 - VII ZR 117/19](vii-zr-117-19.md) — BGH, Beschluss VII ZR 117/19
+- [BGH, Beschluss vom 14.12.2022 - VII ZR 118/21](vii-zr-118-21.md) — BGH, Beschluss VII ZR 118/21
+- [BGH, Beschluss vom 14.12.2022 - VII ZR 271/19](vii-zr-271-19.md) — Verletzung des Anspruchs auf rechtliches Gehör bei überspannten Substantiierungsanforderungen
+- [BGH, Beschluss vom 14.12.2022 - VII ZR 37/19](vii-zr-37-19.md) — BGH, Beschluss VII ZR 37/19
+- [BGH, Beschluss vom 14.12.2022 - VII ZR 40/22](vii-zr-40-22.md) — BGH, Beschluss VII ZR 40/22
+- [BGH, Beschluss vom 14.12.2022 - VII ZR 56/22](vii-zr-56-22.md) — BGH, Beschluss VII ZR 56/22
+- [BGH, Beschluss vom 01.12.2022 - VII ZR 278/20](vii-zr-278-20.md) — BGH, Beschluss VII ZR 278/20
+- [BGH, Urteil vom 01.12.2022 - VII ZR 359/21](vii-zr-359-21.md) — BGH, Urteil VII ZR 359/21
+- [BGH, Urteil vom 01.12.2022 - VII ZR 363/21](vii-zr-363-21.md) — BGH, Urteil VII ZR 363/21
+- [BGH, Urteil vom 01.12.2022 - VII ZR 492/21](vii-zr-492-21.md) — Berechnung der Schadensersatzansprüche in Dieselskandal-Fällen
+- [BGH, Urteil vom 01.12.2022 - VII ZR 90/22](vii-zr-90-22.md) — Ein Gesamtschuldnerausgleichsanspruch des Architekten gegen den bauausführenden Unternehmer besteht mangels Gesamtschuldverhältnisses nicht, wenn dem Besteller 
+- [BGH, Beschluss vom 30.11.2022 - VII ZA 3/22](vii-za-3-22.md) — Einstweiliges Verfügungsverfahren: Zulässigkeit der Rechtsbeschwerde gegen die ablehnende Entscheidung
+- [BGH, Beschluss vom 30.11.2022 - VII ZR 100/22](vii-zr-100-22.md) — BGH, Beschluss VII ZR 100/22
+- [BGH, Beschluss vom 30.11.2022 - VII ZR 55/22](vii-zr-55-22.md) — BGH, Beschluss VII ZR 55/22
+- [BGH, Beschluss vom 30.11.2022 - VII ZR 79/22](vii-zr-79-22.md) — BGH, Beschluss VII ZR 79/22
+- [BGH, Urteil vom 17.11.2022 - VII ZR 260/20](vii-zr-260-20.md) — Diesel-Abgasskandal: Geltendmachung des sog. kleinen Schadensersatzes
+- [BGH, Urteil vom 17.11.2022 - VII ZR 297/21](vii-zr-297-21.md) — 1. Der Einzelrichter muss den Rechtsstreit nach § 526 Abs. 2 Satz 1 Nr. 1 ZPO dem Kollegium zur Entscheidung über eine Übernahme vorlegen, wenn sich eine aus se
+- [BGH, Urteil vom 17.11.2022 - VII ZR 623/21](vii-zr-623-21.md) — Zur sekundären Darlegungslast des Fahrzeugherstellers in sogenannten Dieselfällen bei Verwendung eines nicht selbst entwickelten, mit einer unzulässigen Abschal
+- [BGH, Urteil vom 17.11.2022 - VII ZR 862/21](vii-zr-862-21.md) — Bei der Kündigung eines Architekten- oder Ingenieurvertrags gemäß § 648 Satz 1 BGB durch einen Besteller, dem bei weiterer Durchführung des Vertrags ein Sonderk
+- [BGH, Urteil vom 17.11.2022 - VII ZR 93/22](vii-zr-93-22.md) — Wird die Forderung eines Klägers nach Zustellung eines Mahnbescheids erfüllt und das Verfahren nach Erhebung des Widerspruchs durch den Beklagten alsbald an das
+- [BGH, Beschluss vom 16.11.2022 - VII ZB 15/22](vii-zb-15-22.md) — BGH, Beschluss VII ZB 15/22
+- [BGH, Beschluss vom 16.11.2022 - VII ZB 18/22](vii-zb-18-22.md) — BGH, Beschluss VII ZB 18/22
+- [BGH, Beschluss vom 16.11.2022 - VII ZB 20/22](vii-zb-20-22.md) — BGH, Beschluss VII ZB 20/22
+- [BGH, Beschluss vom 16.11.2022 - VII ZR 112/22](vii-zr-112-22.md) — BGH, Beschluss VII ZR 112/22
+- [BGH, Beschluss vom 16.11.2022 - VII ZR 69/22](vii-zr-69-22.md) — BGH, Beschluss VII ZR 69/22
+- [BGH, Urteil vom 03.11.2022 - VII ZR 724/21](vii-zr-724-21.md) — 1. Aus dem Unionsrecht folgt keine Verpflichtung, das gegen Art. 15 Abs. 1, Abs. 2 Buchst. g und Abs. 3 der Richtlinie 2006/123/EG des Europäischen Parlaments u
+- [BGH, Beschluss vom 02.11.2022 - VII ZR 22/20](vii-zr-22-20.md) — BGH, Beschluss VII ZR 22/20
+- [BGH, Versäumnisurteil vom 20.10.2022 - VII ZR 154/21](vii-zr-154-21.md) — 1. Ansprüche nach § 2 Abs. 5 oder 6 VOB/B in Verbindung mit § 1 Abs. 3 oder Abs. 4 Satz 1 VOB/B sind solche auf Zahlung einer "auch in Zusatzaufträgen vereinbar
+- [BGH, Urteil vom 20.10.2022 - VII ZR 250/21](vii-zr-250-21.md) — BGH, Urteil VII ZR 250/21
+- [BGH, Beschluss vom 19.10.2022 - VII ZR 227/21](vii-zr-227-21.md) — BGH, Beschluss VII ZR 227/21
+- [BGH, Beschluss vom 19.10.2022 - VII ZR 36/22](vii-zr-36-22.md) — BGH, Beschluss VII ZR 36/22
+- [BGH, Beschluss vom 19.10.2022 - VII ZR 852/21](vii-zr-852-21.md) — BGH, Beschluss VII ZR 852/21
+- [BGH, Beschluss vom 17.10.2022 - VII ZR 49/20](vii-zr-49-20.md) — BGH, Beschluss VII ZR 49/20
+- [BGH, Urteil vom 06.10.2022 - VII ZR 895/21](vii-zr-895-21.md) — Wird eine E-Mail im unternehmerischen Geschäftsverkehr innerhalb der üblichen Geschäftszeiten auf dem Mailserver des Empfängers abrufbereit zur Verfügung gestel
+- [BGH, Beschluss vom 05.10.2022 - VII ZR 140/17](vii-zr-140-17.md) — Nichtzulassungsbeschwerde im Honorarprozess eines Architekten: Einwand der "Europarechtswidrigkeit der Preisbindung der HOAI"
+- [BGH, Beschluss vom 05.10.2022 - VII ZR 28/22](vii-zr-28-22.md) — BGH, Beschluss VII ZR 28/22
+- [BGH, Beschluss vom 05.10.2022 - VII ZR 51/22](vii-zr-51-22.md) — BGH, Beschluss VII ZR 51/22
+- [BGH, Beschluss vom 05.10.2022 - VII ZR 773/21](vii-zr-773-21.md) — BGH, Beschluss VII ZR 773/21
+- [BGH, Beschluss vom 05.10.2022 - VII ZR 83/22](vii-zr-83-22.md) — BGH, Beschluss VII ZR 83/22
+- [BGH, Beschluss vom 05.10.2022 - VII ZR 92/17](vii-zr-92-17.md) — BGH, Beschluss VII ZR 92/17
+- [BGH, Urteil vom 22.09.2022 - VII ZR 786/21](vii-zr-786-21.md) — BGH, Urteil VII ZR 786/21
+- [BGH, Beschluss vom 21.09.2022 - VII ZR 14/22](vii-zr-14-22.md) — BGH, Beschluss VII ZR 14/22
+- [BGH, Beschluss vom 21.09.2022 - VII ZR 150/21](vii-zr-150-21.md) — BGH, Beschluss VII ZR 150/21
+- [BGH, Beschluss vom 21.09.2022 - VII ZR 158/21](vii-zr-158-21.md) — BGH, Beschluss VII ZR 158/21
+- [BGH, Beschluss vom 21.09.2022 - VII ZR 471/21](vii-zr-471-21.md) — Gehörsverletzung im Dieselabgasskandal: Substanziierungsanforderungen im Hinblick auf das Vorliegen einer unzulässigen Abschalteinrichtung
+- [BGH, Beschluss vom 21.09.2022 - VII ZR 767/21](vii-zr-767-21.md) — Gehörsverletzung im Dieselabgasskandal: Substanziierungsanforderungen im Hinblick auf das Vorliegen einer unzulässigen Abschalteinrichtung
+- [BGH, Beschluss vom 07.09.2022 - VII ZB 38/21](vii-zb-38-21.md) — Ein Antrag des Gläubigers an das Vollstreckungsgericht auf Konkretisierung der von dem Schuldner nach § 836 Abs. 3 Satz 1 ZPO zu erteilenden Auskunft in dem (Pf
+- [BGH, Beschluss vom 07.09.2022 - VII ZR 649/21](vii-zr-649-21.md) — BGH, Beschluss VII ZR 649/21
+- [BGH, Beschluss vom 07.09.2022 - VII ZR 829/21](vii-zr-829-21.md) — BGH, Beschluss VII ZR 829/21
+- [BGH, Beschluss vom 07.09.2022 - VII ZR 849/21](vii-zr-849-21.md) — BGH, Beschluss VII ZR 849/21
+- [BGH, Beschluss vom 07.09.2022 - VII ZR 866/21](vii-zr-866-21.md) — BGH, Beschluss VII ZR 866/21
+- [BGH, Urteil vom 25.08.2022 - VII ZR 23/21](vii-zr-23-21.md) — Diesel-Abgasskandal: Beginn der Verjährungsfrist
+- [BGH, Urteil vom 25.08.2022 - VII ZR 86/20](vii-zr-86-20.md) — 1. Ein Kläger, zu dessen Gunsten ein Vorbehaltsurteil gemäß § 599 Abs. 1 ZPO ergangen ist, darf in dem sich daran anschließenden Nachverfahren gemäß § 600 Abs. 
+- [BGH, Beschluss vom 24.08.2022 - VII ZR 58/22](vii-zr-58-22.md) — BGH, Beschluss VII ZR 58/22
+- [BGH, Beschluss vom 24.08.2022 - VII ZR 95/22](vii-zr-95-22.md) — BGH, Beschluss VII ZR 95/22
+- [BGH, Beschluss vom 10.08.2022 - VII ZB 14/21](vii-zb-14-21.md) — Wiedereinsetzung: Verschulden des Prozessbevollmächtigen bei eigenmächtiger Abänderung von eingetragenen Rechtsmittelfristen durch Mitarbeiter
+- [BGH, Beschluss vom 10.08.2022 - VII ZB 5/22](vii-zb-5-22.md) — Zum Verbot der Pfändung eines Pkw bei einer psychischen Erkrankung des Schuldners.
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 1/22](vii-zr-1-22.md) — BGH, Beschluss VII ZR 1/22
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 243/19](vii-zr-243-19.md) — Bauprozess: Notwendige Darlegungen zur Höhe eines Anspruchs auf Gesamtschuldnerausgleich zwischen Architekt und Bauunternehmer
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 302/20](vii-zr-302-20.md) — BGH, Beschluss VII ZR 302/20
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 385/21](vii-zr-385-21.md) — BGH, Beschluss VII ZR 385/21
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 62/22](vii-zr-62-22.md) — Partei im Zivilprozess: Auslegung der Parteibezeichnung "Bruchteilsgemeinschaft"
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 632/21](vii-zr-632-21.md) — BGH, Beschluss VII ZR 632/21
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 671/21](vii-zr-671-21.md) — BGH, Beschluss VII ZR 671/21
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 779/21](vii-zr-779-21.md) — BGH, Beschluss VII ZR 779/21
+- [BGH, Beschluss vom 10.08.2022 - VII ZR 873/21](vii-zr-873-21.md) — BGH, Beschluss VII ZR 873/21
+- [BGH, Beschluss vom 27.07.2022 - VII ZR 204/21](vii-zr-204-21.md) — BGH, Beschluss VII ZR 204/21
+- [BGH, Beschluss vom 27.07.2022 - VII ZR 339/21](vii-zr-339-21.md) — BGH, Beschluss VII ZR 339/21
+- [BGH, Beschluss vom 27.07.2022 - VII ZR 423/21](vii-zr-423-21.md) — BGH, Beschluss VII ZR 423/21
+- [BGH, Beschluss vom 27.07.2022 - VII ZR 846/21](vii-zr-846-21.md) — BGH, Beschluss VII ZR 846/21
+- [BGH, Urteil vom 14.07.2022 - VII ZR 255/21](vii-zr-255-21.md) — 1. Die Zustellung des Mahnbescheids im Mahnverfahren hemmt die Verjährung nur, wenn der Schuldner aufgrund der Bezeichnung des Anspruchs im Mahnbescheid erkenne
+- [BGH, Urteil vom 14.07.2022 - VII ZR 422/21](vii-zr-422-21.md) — 1. Zur Verjährung des Schadensersatzanspruchs nach § 826 BGB in einem sogenannten Dieselfall (hier: EA 189). 2. In der Konstellation des Erwerbs eines von einer
+- [BGH, Beschluss vom 13.07.2022 - VII ZB 29/21](vii-zb-29-21.md) — Das Berufungsgericht hat gemäß § 522 Abs. 1 Satz 1 ZPO von Amts wegen zu prüfen, ob die Frist zur Begründung der Berufung gewahrt worden ist. Erst nach Ausschöp
+- [BGH, Beschluss vom 29.06.2022 - VII ZB 14/19](vii-zb-14-19.md) — 1. Ein Vertretungsmangel kann durch Nachreichen der Originalvollmacht gemäß § 80 Satz 2 ZPO oder gemäß § 89 Abs. 2 ZPO dadurch geheilt werden, dass der Gläubige
+- [BGH, Beschluss vom 29.06.2022 - VII ZB 52/21](vii-zb-52-21.md) — 1. Das Gericht hat im Wege freier Beweiswürdigung zu klären, ob die Berufung der Partei fristgerecht eingegangen ist. Es hat den Sachverhalt vollständig und ohn
+- [BGH, Beschluss vom 29.06.2022 - VII ZR 16/21](vii-zr-16-21.md) — BGH, Beschluss VII ZR 16/21
+- [BGH, Beschluss vom 29.06.2022 - VII ZR 170/21](vii-zr-170-21.md) — BGH, Beschluss VII ZR 170/21
+- [BGH, Beschluss vom 29.06.2022 - VII ZR 892/21](vii-zr-892-21.md) — BGH, Beschluss VII ZR 892/21
+- [BGH, Beschluss vom 23.06.2022 - VII ZB 5/21](vii-zb-5-21.md) — Die Beweiskraft eines innerhalb von fünf Monaten nach Verkündung eines Urteils erstellten Protokolls in Bezug auf die Verkündung besteht unabhängig davon, ob es
+- [BGH, Beschluss vom 23.06.2022 - VII ZB 58/21](vii-zb-58-21.md) — Zu den Anforderungen an den Parteivortrag nach § 514 Abs. 2 Satz 1 ZPO, dass ein Fall der schuldhaften Versäumung nicht vorgelegen hat.
+- [BGH, Beschluss vom 23.06.2022 - VII ZR 132/20](vii-zr-132-20.md) — BGH, Beschluss VII ZR 132/20
+- [BGH, Beschluss vom 23.06.2022 - VII ZR 79/20](vii-zr-79-20.md) — BGH, Beschluss VII ZR 79/20
+- [BGH, Beschluss vom 23.06.2022 - VII ZR 844/21](vii-zr-844-21.md) — BGH, Beschluss VII ZR 844/21
+- [BGH, Urteil vom 02.06.2022 - VII ZR 12/21](vii-zr-12-21.md) — § 7 Abs. 5 HOAI (2013) ist unbeschadet des Urteils des Gerichtshofs der Europäischen Union vom 4. Juli 2019 (C-377/17) weiterhin anwendbar.
+- [BGH, Urteil vom 02.06.2022 - VII ZR 160/21](vii-zr-160-21.md) — Dieselskandal: Feststellungsinteresse an Schadensersatzpflicht wegen etwaiger Steuernachforderungen wegen erhöhten Kohlendioxidausstoßes
+- [BGH, Urteil vom 02.06.2022 - VII ZR 174/19](vii-zr-174-19.md) — 1. § 7 HOAI (2013) kann nicht richtlinienkonform dahin ausgelegt werden, dass die Mindestsätze der HOAI im Verhältnis zwischen Privatpersonen grundsätzlich nich
+- [BGH, Urteil vom 02.06.2022 - VII ZR 229/19](vii-zr-229-19.md) — 1. § 7 HOAI (2013) kann nicht richtlinienkonform dahin ausgelegt werden, dass die Mindestsätze der HOAI im Verhältnis zwischen Privatpersonen grundsätzlich nich
+- [BGH, Beschluss vom 01.06.2022 - VII ZR 121/20](vii-zr-121-20.md) — BGH, Beschluss VII ZR 121/20
+- [BGH, Beschluss vom 01.06.2022 - VII ZR 483/21](vii-zr-483-21.md) — BGH, Beschluss VII ZR 483/21
+- [BGH, Beschluss vom 01.06.2022 - VII ZR 826/21](vii-zr-826-21.md) — BGH, Beschluss VII ZR 826/21
+- [BGH, Beschluss vom 01.06.2022 - VII ZR 885/21](vii-zr-885-21.md) — BGH, Beschluss VII ZR 885/21
+- [BGH, Beschluss vom 01.06.2022 - VII ZR 93/20](vii-zr-93-20.md) — BGH, Beschluss VII ZR 93/20
+- [BGH, Urteil vom 19.05.2022 - VII ZR 149/21](vii-zr-149-21.md) — 1. Der Anspruch auf Ersatz des infolge Verzugs eingetretenen Schadens gemäß § 280 Abs. 1 und 2, § 286 Abs. 1 BGB unterliegt der regelmäßigen Verjährung (Bestäti
+- [BGH, Beschluss vom 18.05.2022 - VII ZB 40/21](vii-zb-40-21.md) — Deliktische Haftung des Kfz-Herstellers im Rahmen des sog. Abgasskandals: Inhaltliche Anforderungen an die Berufungsbegründung
+- [BGH, Beschluss vom 18.05.2022 - VII ZR 239/21](vii-zr-239-21.md) — BGH, Beschluss VII ZR 239/21
+- [BGH, Beschluss vom 18.05.2022 - VII ZR 467/21](vii-zr-467-21.md) — BGH, Beschluss VII ZR 467/21
+- [BGH, Beschluss vom 18.05.2022 - VII ZR 61/20](vii-zr-61-20.md) — BGH, Beschluss VII ZR 61/20
+- [BGH, Urteil vom 05.05.2022 - VII ZR 176/20](vii-zr-176-20.md) — Zur Auslegung des Begriffs "Abrechnungssumme" in einer vom Besteller gestellten Allgemeinen Geschäftsbedingung, mit der eine Vertragsstrafe vereinbart wird.
+- [BGH, Beschluss vom 04.05.2022 - VII ZB 18/18](vii-zb-18-18.md) — Zur Heilung eines Mangels der Vollmacht beim Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses durch einen Inkassodienstleister.
+- [BGH, Beschluss vom 04.05.2022 - VII ZB 46/21](vii-zb-46-21.md) — 1. Ein Beweisbeschluss ist grundsätzlich nicht isoliert anfechtbar (Fortführung von BGH, Beschluss vom 18. Dezember 2008 - I ZB 118/07, NJW-RR 2009, 995). 2. Au
+- [BGH, Beschluss vom 04.05.2022 - VII ZR 259/21](vii-zr-259-21.md) — BGH, Beschluss VII ZR 259/21
+- [BGH, Beschluss vom 04.05.2022 - VII ZR 87/21](vii-zr-87-21.md) — BGH, Beschluss VII ZR 87/21
+- [BGH, Urteil vom 21.04.2022 - VII ZR 247/21](vii-zr-247-21.md) — Deliktischer Schadensersatzanspruch bei Leasing eines vom Dieselabgasskandals betroffenen Neuwagens: Berechnung und Vorteilsausgleichung
+- [BGH, Urteil vom 21.04.2022 - VII ZR 285/21](vii-zr-285-21.md) — Im Rahmen der deliktischen Vorteilsausgleichung entspricht der Wert der während der Leasingzeit erlangten Nutzungsvorteile eines Kraftfahrzeugs grundsätzlich de
+- [BGH, Versäumnisurteil vom 21.04.2022 - VII ZR 783/21](vii-zr-783-21.md) — Im Rahmen der deliktischen Vorteilsausgleichung entspricht der Wert der während der Leasingzeit erlangten Nutzungsvorteile eines Kraftfahrzeugs grundsätzlich de
+- [BGH, Beschluss vom 20.04.2022 - VII ZR 241/21](vii-zr-241-21.md) — BGH, Beschluss VII ZR 241/21
+- [BGH, Beschluss vom 20.04.2022 - VII ZR 306/21](vii-zr-306-21.md) — BGH, Beschluss VII ZR 306/21
+- [BGH, Beschluss vom 20.04.2022 - VII ZR 834/21](vii-zr-834-21.md) — BGH, Beschluss VII ZR 834/21
+- [BGH, Beschluss vom 20.04.2022 - VII ZR 99/21](vii-zr-99-21.md) — Der Bundesgerichtshof ist nicht Gericht im Sinne des § 613 Abs. 2 ZPO (Fortführung von BGH, Urteil vom 15. Juli 2014 - XI ZR 100/13 Rn. 12, NJW 2014, 3362).
+- [BGH, Beschluss vom 06.04.2022 - VII ZR 47/20](vii-zr-47-20.md) — BGH, Beschluss VII ZR 47/20
+- [BGH, Beschluss vom 06.04.2022 - VII ZR 500/21](vii-zr-500-21.md) — BGH, Beschluss VII ZR 500/21
+- [BGH, Beschluss vom 23.03.2022 - VII ZR 191/21](vii-zr-191-21.md) — 1. Eine zusätzliche Vergütung nach § 2 Abs. 5 VOB/B kann auch aus mittelbaren bauzeitlichen Auswirkungen wie etwa Gerätestillstand von - unmittelbar Änderungen 
+- [BGH, Beschluss vom 09.03.2022 - VII ZR 366/21](vii-zr-366-21.md) — BGH, Beschluss VII ZR 366/21
+- [BGH, Urteil vom 24.02.2022 - VII ZR 13/20](vii-zr-13-20.md) — 1. Zum Begriff der "Berechtigung" im Sinne von § 204 Abs. 1 Nr. 1 BGB. 2a. Die Erhebung einer Klage hemmt die Verjährung gemäß § 204 Abs. 1 Nr. 1 BGB nur für An
+- [BGH, Urteil vom 24.02.2022 - VII ZR 320/21](vii-zr-320-21.md) — Ob eine vorprozessuale anwaltliche Zahlungsaufforderung eine Geschäftsgebühr nach Nr. 2300 RVG-VV auslöst oder als der Vorbereitung der Klage dienende Tätigkeit
+- [BGH, Beschluss vom 23.02.2022 - VII ZB 41/21](vii-zb-41-21.md) — Das Mindestelterngeld nach § 2 Abs. 4 Satz 1 BEEG ist aufgrund seiner besonderen Zweckbindung nicht den eigenen Einkünften des Unterhaltsberechtigten im Sinne v
+- [BGH, Beschluss vom 23.02.2022 - VII ZR 252/20](vii-zr-252-20.md) — Deliktshaftung des Kraftfahrzeugherstellers im sog. Dieselabgasskandal: Pflicht des Fahrzeugherstellers zur Vorlage von Urkunden aufgrund seiner sekundären Darl
+- [BGH, Urteil vom 10.02.2022 - VII ZR 365/21](vii-zr-365-21.md) — 1. Zur Verjährung des Schadensersatzanspruchs nach § 826 BGB in einem sogenannten Dieselfall (hier: EA 189). 2. Jedenfalls in mehraktigen Fällen wie bei dem Kau
+- [BGH, Urteil vom 10.02.2022 - VII ZR 396/21](vii-zr-396-21.md) — Zur Frage des Verjährungsbeginns mit Schluss des Jahres 2015 infolge grob fahrlässiger Unkenntnis im Sinne von § 199 Abs. 1 Nr. 2 Fall 2 BGB in einem sogenannte
+- [BGH, Urteil vom 10.02.2022 - VII ZR 679/21](vii-zr-679-21.md) — Deliktische Haftung im Rahmen des sog. Abgasskandals: Restschadensersatzanspruch bei Verkauf des von der Konzerntochter hergestellten Kfz mit einem von der Konz
+- [BGH, Urteil vom 10.02.2022 - VII ZR 692/21](vii-zr-692-21.md) — Zur Frage des Verjährungsbeginns mit Schluss des Jahres 2016 infolge grob fahrlässiger Unkenntnis im Sinne von § 199 Abs. 1 Nr. 2 Fall 2 BGB in einem sogenannte
+- [BGH, Urteil vom 10.02.2022 - VII ZR 717/21](vii-zr-717-21.md) — Deliktische Haftung des Kfz-Herstellers im Rahmen des sog. Abgasskandals: Erneute Erhebung der Verjährungseinrede in der Berufungsinstanz nach Fallenlassen der 
+- [BGH, Beschluss vom 09.02.2022 - VII ZR 76/20](vii-zr-76-20.md) — BGH, Beschluss VII ZR 76/20
+- [BGH, Urteil vom 27.01.2022 - VII ZR 303/20](vii-zr-303-20.md) — 1. Die Hemmungswirkung nach § 204 Abs. 1 Nr. 1a BGB tritt im Falle eines wirksam angemeldeten Anspruchs grundsätzlich bereits mit Erhebung der Musterfeststellun
+- [BGH, Beschluss vom 26.01.2022 - VII ZB 19/21](vii-zb-19-21.md) — Eine Schiedsgutachtenabrede nach § 18 Abs. 4 VOB/B steht jedenfalls einer vorherigen oder parallelen Durchführung eines auf § 485 Abs. 2 ZPO gestützten selbstän
+- [BGH, Beschluss vom 26.01.2022 - VII ZR 258/21](vii-zr-258-21.md) — BGH, Beschluss VII ZR 258/21
+- [BGH, Beschluss vom 26.01.2022 - VII ZR 51/20](vii-zr-51-20.md) — BGH, Beschluss VII ZR 51/20
+- [BGH, Beschluss vom 26.01.2022 - VII ZR 635/21](vii-zr-635-21.md) — Nichtzulassungsbeschwerde: Beschwer bei hilfsweise erklärtem Zurückbehaltungsrecht
+- [BGH, Beschluss vom 12.01.2022 - VII ZA 2/19](vii-za-2-19.md) — Zwangsvollstreckungsverfahren: Pfändungsschutzantrag des Schuldners nach Feststellung der Unpfändbarkeit einer bloßen rechtsgeschäftlichen Handlungsmöglichkeit 
+- [BGH, Beschluss vom 12.01.2022 - VII ZB 26/21](vii-zb-26-21.md) — 1. Ein Pfändungs- und Überweisungsbeschluss ist nicht deswegen aufzuheben, weil die Voraussetzungen für seinen Erlass nicht vorgelegen hätten, wenn einem Antrag
+- [BGH, Beschluss vom 12.01.2022 - VII ZB 37/21](vii-zb-37-21.md) — Subsidiaritätsgrundsatz im Rechtsbeschwerdeverfahren: Zulässigkeit der Rechtsbeschwerde nach versäumter Stellungnahme zum Hinweisbeschluss über die beabsichtigt

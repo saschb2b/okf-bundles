@@ -1,0 +1,43 @@
+# II. Zivilsenat – 2020
+
+39 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.12.2020 - II ZB 31/14](ii-zb-31-14.md) — 1. Ein Vorlagebeschluss wird spätestens mit seinem Eingang beim Oberlandesgericht wirksam. 2. Führt eine Pressemitteilung des Emittenten zu einer mitteilungspfl
+- [BGH, Urteil vom 15.12.2020 - II ZR 108/19](ii-zr-108-19.md) — Die persönliche Haftung des Kommanditisten nach §§ 171, 172 Abs. 4, § 161 Abs. 2, § 128 HGB besteht bei Insolvenz der Gesellschaft jedenfalls für solche Gesells
+- [BGH, Beschluss vom 01.12.2020 - II ZB 19/19](ii-zb-19-19.md) — Kapitalanleger-Musterverfahren: Gebührensstreitwert im Rechtsbeschwerdeverfahren
+- [BGH, Urteil vom 10.11.2020 - II ZR 132/19](ii-zr-132-19.md) — Kommanditistenhaftung: Darlegung der Gläubigerforderungen durch den Insolvenzverwalter; Erfüllungswirkung und -einwand bei teilweiser Befriedigung aus einem Abs
+- [BGH, Urteil vom 10.11.2020 - II ZR 211/19](ii-zr-211-19.md) — Eine Gesellschaft mit beschränkter Haftung ist durch die negative Legitimationswirkung des § 16 Abs. 1 Satz 1 GmbHG nicht gehindert, einen nach einem möglicherw
+- [BGH, Urteil vom 10.11.2020 - II ZR 89/19](ii-zr-89-19.md) — Kommanditistenhaftung in der Insolvenz einer KG: Darlegung von Gläubigerforderungen durch den Insolvenzverwalter; Einwand der mangelnden Erforderlichkeit der ge
+- [BGH, Beschluss vom 27.10.2020 - II ZB 31/19](ii-zb-31-19.md) — Kostenentscheidung: Versehentlich unterbliebene Entscheidung über die durch die Nebenintervention verursachten Kosten
+- [BGH, Urteil vom 27.10.2020 - II ZR 150/19](ii-zr-150-19.md) — Auch eine Gesellschaft bürgerlichen Rechts, die keine Publikumsgesellschaft ist, kann nach ihrer Auflösung, vertreten durch den Liquidator, Nachschüsse zum Zwec
+- [BGH, Urteil vom 27.10.2020 - II ZR 355/18](ii-zr-355-18.md) — Eine masseschmälernde Zahlung aus dem Vermögen einer insolvenzreifen Gesellschaft gemäß § 64 Satz 1 GmbHG kann grundsätzlich nicht durch eine Vorleistung des Za
+- [BGH, Urteil vom 13.10.2020 - II ZR 133/19](ii-zr-133-19.md) — Insolvenzverfahren: Einwendung des Kommanditisten gegen seine Inanspruchnahme für Gesellschaftsschulden; erforderliche Feststellungen des Gerichts zum Massebest
+- [BGH, Urteil vom 13.10.2020 - II ZR 359/18](ii-zr-359-18.md) — 1. Die Geschäftsführungs- und Vertretungsbefugnis des geschäftsführenden Gesellschafters einer Kommanditgesellschaft ist ein relativ unentziehbares Recht. 2. De
+- [BGH, Beschluss vom 13.10.2020 - II ZR 40/20](ii-zr-40-20.md) — Kommanditistenhaftung: Rückforderung von Ausschüttungen durch den Insolvenzverwalter; Umfang notwendiger Forderungsindividualisierung und Verjährungshemmung
+- [BGH, Urteil vom 29.09.2020 - II ZR 112/19](ii-zr-112-19.md) — Verhindert eine Gesellschaft bürgerlichen Rechts die Vereinigung von Forderung und Schuld einer Gesellschaftsverbindlichkeit bei sich durch Veranlassung einer I
+- [BGH, Beschluss vom 22.09.2020 - II ZB 2/20](ii-zb-2-20.md) — Wiedereinsetzung in den vorigen Stand: Glaubhaftmachung des Wiedereinsetzungsgrundes bei behauptetem Verlust eines fristgebundenen Schriftsatzes auf dem Postweg
+- [BGH, Urteil vom 22.09.2020 - II ZR 141/19](ii-zr-141-19.md) — 1. Die vorbehaltlose Entlastung der Komplementärin einer GmbH & Co. KG durch ihre Mitgesellschafter bewirkt zugleich die Entlastung des Geschäftsführers der Kom
+- [BGH, Urteil vom 22.09.2020 - II ZR 399/18](ii-zr-399-18.md) — Die konzernrechtliche Verknüpfung eines Tochterunternehmens mit seinem Mutterunternehmen im Sinne des § 24 Abs. 1 WpHG aF wird durch einen schuld-rechtlichen En
+- [BGH, Beschluss vom 15.09.2020 - II ZB 6/20](ii-zb-6-20.md) — Die angemessene Barabfindung im Falle des Ausschlusses von Minderheitsaktionären nach §§ 327a, 327b AktG kann nach dem Barwert der aufgrund eines Beherrschungs-
+- [BGH, Beschluss vom 15.09.2020 - II ZR 135/19](ii-zr-135-19.md) — Kommanditistenhaftung: Hinreichende Individualisierung von Gläubigerforderungen durch den Insolvenzverwalter
+- [BGH, Urteil vom 15.09.2020 - II ZR 20/19](ii-zr-20-19.md) — Der Erwerber eines Kommanditanteils haftet nicht für eine vorvertragliche Aufklärungspflichtverletzung des Veräußerers, die diesem von einem Anleger zur Last ge
+- [BGH, Beschluss vom 15.09.2020 - II ZR 206/19](ii-zr-206-19.md) — Kommanditistenhaftung: Hinreichende Individualisierung von Gläubigerforderungen durch den Insolvenzverwalter
+- [BGH, Urteil vom 04.08.2020 - II ZR 171/19](ii-zr-171-19.md) — Der Gesellschafter einer GmbH kann, obwohl er seine bereits fällig gestellte Einlage noch nicht vollständig erbracht hat, aus der Gesellschaft ausgeschlossen we
+- [BGH, Urteil vom 04.08.2020 - II ZR 174/19](ii-zr-174-19.md) — Die aus einer Rückabwicklungsanordnung der Bundesanstalt für Finanzdienstleistungen nach § 37 Abs. 1 Satz 1 KWG folgende öffentlich-rechtliche Verpflichtung ein
+- [BGH, Beschluss vom 28.07.2020 - II ZR 20/20](ii-zr-20-20.md) — Berufungsverfahren: Pflicht zur nochmaligen Anhörung der Partei bei beabsichtigter anderer Würdigung ihrer Aussage als in der Vorinstanz
+- [BGH, Beschluss vom 21.07.2020 - II ZB 26/19](ii-zb-26-19.md) — Wird eine von sämtlichen Gesellschaftern einer Personenhandelsgesellschaft vorgenommene Anmeldung zurückgewiesen, sind die zur Anmeldung berufenen Gesellschafte
+- [BGH, Urteil vom 21.07.2020 - II ZR 175/19](ii-zr-175-19.md) — Der Kommanditist kann gegen seine Inanspruchnahme entsprechend § 422 Abs. 1 Satz 1, § 362 Abs. 1 BGB einwenden, dass durch Zahlungen anderer Kommanditisten der 
+- [BGH, Urteil vom 14.07.2020 - II ZR 255/18](ii-zr-255-18.md) — Die aufgrund einer gerichtlichen Ermächtigung der Minderheitsaktionäre auf die Tagesordnung zu setzenden Gegenstände müssen bei einer nicht börsennotierten Akti
+- [BGH, Beschluss vom 14.07.2020 - II ZR 420/17](ii-zr-420-17.md) — Streitwertfestsetzung: Änderung des für das Nichtzulassungsbeschwerdeverfahren festgesetzten Streitwertes im Streit über die Übertragung von GmbH-Geschäftsantei
+- [BGH, Urteil vom 30.06.2020 - II ZR 8/19](ii-zr-8-19.md) — 1. Ein selbständiger Beschluss über die Bestellung eines besonderen Vertreters, dem ein wirksamer oder als wirksam zu behandelnder Beschluss zur Geltendmachung 
+- [BGH, Beschluss vom 16.06.2020 - II ZB 10/19](ii-zb-10-19.md) — 1. Ob die Einleitung des Musterverfahrens unzulässig ist, hat das Oberlandesgericht anhand des Vorlagebeschlusses zu beurteilen. 2. Ein weiteres Musterverfahren
+- [BGH, Beschluss vom 16.06.2020 - II ZB 30/19](ii-zb-30-19.md) — 1. Maßgeblich für die Frage der Abhängigkeit der Entscheidung des Rechtsstreits von den geltend gemachten Feststellungszielen ist, ob mit der Entscheidung über 
+- [BGH, Beschluss vom 28.04.2020 - II ZB 13/19](ii-zb-13-19.md) — Eine gemeinnützige Unternehmergesellschaft (haftungsbeschränkt) kann mit "gUG (haftungsbeschränkt)" eingetragen werden.
+- [BGH, Beschluss vom 24.04.2020 - II ZR 417/18](ii-zr-417-18.md) — Wiedereingliederungsanspruch eines Fußballvereins gegen den regionalen Fußballverband nach unberechtigtem Zwangsabstieg aus der Regionalliga Nord
+- [BGH, Urteil vom 21.04.2020 - II ZR 412/17](ii-zr-412-17.md) — 1a. Der Insolvenzverwalter über das Vermögen einer Aktiengesellschaft ist befugt, eine Klage auf Feststellung der Nichtigkeit des Jahresabschlusses gegen die Ge
+- [BGH, Urteil vom 21.04.2020 - II ZR 56/18](ii-zr-56-18.md) — 1. Der Insolvenzverwalter hat für eine Klage auf Feststellung der Nichtigkeit des Jahresabschlusses gegen eine Kommanditgesellschaft auf Aktien grundsätzlich au
+- [BGH, Beschluss vom 08.04.2020 - II ZB 3/19](ii-zb-3-19.md) — 1. Ein Insolvenzplan sieht den Fortbestand einer Gesellschaft mit beschränkter Haftung bereits dann im Sinne des § 60 Abs. 1 Nr. 4 GmbHG vor, wenn er die Fortse
+- [BGH, Beschluss vom 11.02.2020 - II ZR 130/19](ii-zr-130-19.md) — Rücknahme einer Nichtzulassungsbeschwerde: Zeitpunkt des Erlasses des Zurückweisungsbeschlusses; Verlassen der Geschäftsstelle
+- [BGH, Urteil vom 11.02.2020 - II ZR 427/18](ii-zr-427-18.md) — 1. Die Einziehung einer Vorauszahlung auf ein debitorisches Konto führt unabhängig davon, ob die auf Vorauszahlung gerichtete Forderung der Gesellschaft zu Guns
+- [BGH, Beschluss vom 30.01.2020 - II ZB 13/18](ii-zb-13-18.md) — Prozesskostenhilfebeschwerde: Gegenstandswert einer auf die Gebührenerhöhung beschränkten Beschwerde
+- [BGH, Urteil vom 28.01.2020 - II ZR 10/19](ii-zr-10-19.md) — 1. Die Abfindungsforderung eines vor der Insolvenz ausgeschiedenen Gesellschafters einer GmbH & Co. KG, deren Auszahlung gegen das Kapitalerhaltungsgebot der §§

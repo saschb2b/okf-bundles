@@ -1,0 +1,57 @@
+# IX. Zivilsenat – 2004
+
+53 Entscheidung(en).
+
+- [BGH, Beschluss vom 16.12.2004 - IX ZR 107/04](ix-zr-107-04.md) — BGH, Beschluss vom 16.12.2004 - IX ZR 107/04
+- [BGH, Beschluss vom 16.12.2004 - IX ZR 18/04](ix-zr-18-04.md) — BGH, Beschluss vom 16.12.2004 - IX ZR 18/04
+- [BGH, Beschluss vom 02.12.2004 - IX ZA 22/04](ix-za-22-04.md) — BGH, Beschluss vom 02.12.2004 - IX ZA 22/04
+- [BGH, Urteil vom 02.12.2004 - IX ZR 200/03](ix-zr-200-03.md) — eines Mangels der Schriftform nichtig, kann der Entleiher Sozialversicherungsbeiträge, die er nach Eröffnung des Insolvenzverfahrens über da
+- [BGH, Beschluss vom 18.11.2004 - IX ZR 217/03](ix-zr-217-03.md) — BGH, Beschluss vom 18.11.2004 - IX ZR 217/03
+- [BGH, Beschluss vom 11.11.2004 - IX ZR 267/03](ix-zr-267-03.md) — BGH, Beschluss vom 11.11.2004 - IX ZR 267/03
+- [BGH, Beschluss vom 04.11.2004 - IX ZB 100/04](ix-zb-100-04.md) — anwaltlicher Pflichtverletzungen auf Schadensersatz in Anspruch und hat in erster Instanz obsiegt. Der Beklagte, der auf die Deckungszusage
+- [BGH, Beschluss vom 04.11.2004 - IX ZB 52/04](ix-zb-52-04.md) — zu gewährenden Zuschläge zum Regelsatz der Vergütung grundsätzlich für beide mit dem gleichen Hundertsatz zu bemessen.
+- [BGH, Beschluss vom 21.10.2004 - IX ZR 5/01](ix-zr-5-01.md) — BGH, Beschluss vom 21.10.2004 - IX ZR 5/01
+- [BGH, Beschluss vom 14.10.2004 - IX ZR 249/01](ix-zr-249-01.md) — BGH, Beschluss vom 14.10.2004 - IX ZR 249/01
+- [BGH, Urteil vom 28.09.2004 - IX ZR 155/03](ix-zr-155-03.md) — Tatbestand:
+- [BGH, Urteil vom 28.09.2004 - IX ZR 157/03](ix-zr-157-03.md) — Tatbestand:
+- [BGH, Urteil vom 28.09.2004 - IX ZR 158/03](ix-zr-158-03.md) — Tatbestand:
+- [BGH, Beschluss vom 23.09.2004 - IX ZB 291/03](ix-zb-291-03.md) — BGH, Beschluss vom 23.09.2004 - IX ZB 291/03
+- [BGH, Urteil vom 23.09.2004 - IX ZR 421/00](ix-zr-421-00.md) — Tatbestand:
+- [BGH, Beschluss vom 23.07.2004 - IX ZB 248/03](ix-zb-248-03.md) — BGH, Beschluss vom 23.07.2004 - IX ZB 248/03
+- [BGH, Beschluss vom 23.07.2004 - IX ZB 255/03](ix-zb-255-03.md) — BGH, Beschluss vom 23.07.2004 - IX ZB 255/03
+- [BGH, Beschluss vom 23.07.2004 - IX ZR 165/01](ix-zr-165-01.md) — BGH, Beschluss vom 23.07.2004 - IX ZR 165/01
+- [BGH, Beschluss vom 22.07.2004 - IX ZB 161/03](ix-zb-161-03.md) — BGH, Beschluss vom 22.07.2004 - IX ZB 161/03
+- [BGH, Urteil vom 22.07.2004 - IX ZR 183/03](ix-zr-183-03.md) — Tatbestand:
+- [BGH, Urteil vom 29.06.2004 - IX ZR 195/03](ix-zr-195-03.md) — Tatbestand:
+- [BGH, Beschluss vom 17.06.2004 - IX ZB 206/03](ix-zb-206-03.md) — einer Anwaltshonorarforderung von 272,60 € zuzüglich Kosten und Zinsen einen Mahnbescheid. Als Zustellungsanschrift gab er die Meldeadresse
+- [BGH, Beschluss vom 17.06.2004 - IX ZR 226/00](ix-zr-226-00.md) — BGH, Beschluss vom 17.06.2004 - IX ZR 226/00
+- [BGH, Beschluss vom 08.06.2004 - IX ZR 229/00](ix-zr-229-00.md) — BGH, Beschluss vom 08.06.2004 - IX ZR 229/00
+- [BGH, Beschluss vom 24.05.2004 - IX ZB 94/04](ix-zb-94-04.md) — BGH, Beschluss vom 24.05.2004 - IX ZB 94/04
+- [BGH, Urteil vom 06.05.2004 - IX ZR 85/03](ix-zr-85-03.md) — Tatbestand:
+- [BGH, Beschluss vom 04.05.2004 - IX ZR 255/00](ix-zr-255-00.md) — BGH, Beschluss vom 04.05.2004 - IX ZR 255/00
+- [BGH, Beschluss vom 29.04.2004 - IX ZR 265/03](ix-zr-265-03.md) — BGH, Beschluss vom 29.04.2004 - IX ZR 265/03
+- [BGH, Beschluss vom 27.04.2004 - IX ZA 4/04](ix-za-4-04.md) — BGH, Beschluss vom 27.04.2004 - IX ZA 4/04
+- [BGH, Beschluss vom 22.04.2004 - IX ZB 154/03](ix-zb-154-03.md) — BGH, Beschluss vom 22.04.2004 - IX ZB 154/03
+- [BGH, Beschluss vom 18.03.2004 - IX ZB 159/03](ix-zb-159-03.md) — BGH, Beschluss vom 18.03.2004 - IX ZB 159/03
+- [BGH, Beschluss vom 18.03.2004 - IX ZR 234/02](ix-zr-234-02.md) — BGH, Beschluss vom 18.03.2004 - IX ZR 234/02
+- [BGH, Urteil vom 11.03.2004 - IX ZR 16/01](ix-zr-16-01.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 11.03.2004 - IX ZR 160/02](ix-zr-160-02.md) — BGH, Versäumnisurteil vom 11.03.2004 - IX ZR 160/02
+- [BGH, Versäumnisurteil vom 11.03.2004 - IX ZR 202/03](ix-zr-202-03.md) — Tatbestand:
+- [BGH, Beschluss vom 04.03.2004 - IX ZB 587/02](ix-zb-587-02.md) — BGH, Beschluss vom 04.03.2004 - IX ZB 587/02
+- [BGH, Urteil vom 04.03.2004 - IX ZR 101/03](ix-zr-101-03.md) — Tatbestand: Die Klägerin, eine in München ansässige Anwaltssozietät, hat gegen den in Zittau/Sachsen wohnhaften Beklagten bei dem für den Si
+- [BGH, Beschluss vom 17.02.2004 - IX ZB 102/03](ix-zb-102-03.md) — BGH, Beschluss vom 17.02.2004 - IX ZB 102/03
+- [BGH, Beschluss vom 17.02.2004 - IX ZB 306/03](ix-zb-306-03.md) — einer Hauptforderung "aus vorsätzlich begangener unerlaubter Handlung". Die im Vollstreckungsbescheid titulierte Forderung ist zur Insolvenz
+- [BGH, Beschluss vom 12.02.2004 - IX ZR 328/00](ix-zr-328-00.md) — BGH, Beschluss vom 12.02.2004 - IX ZR 328/00
+- [BGH, Urteil vom 12.02.2004 - IX ZR 98/03](ix-zr-98-03.md) — BGH, Urteil vom 12.02.2004 - IX ZR 98/03
+- [BGH, Beschluss vom 05.02.2004 - IX ZR 473/00](ix-zr-473-00.md) — BGH, Beschluss vom 05.02.2004 - IX ZR 473/00
+- [BGH, Beschluss vom 22.01.2004 - IX ZR 252/00](ix-zr-252-00.md) — BGH, Beschluss vom 22.01.2004 - IX ZR 252/00
+- [BGH, Beschluss vom 22.01.2004 - IX ZR 279/00](ix-zr-279-00.md) — BGH, Beschluss vom 22.01.2004 - IX ZR 279/00
+- [BGH, Beschluss vom 22.01.2004 - IX ZR 339/00](ix-zr-339-00.md) — BGH, Beschluss vom 22.01.2004 - IX ZR 339/00
+- [BGH, Urteil vom 22.01.2004 - IX ZR 65/01](ix-zr-65-01.md) — Tatbestand:
+- [BGH, Beschluss vom 22.01.2004 - IX ZR 78/02](ix-zr-78-02.md) — BGH, Beschluss vom 22.01.2004 - IX ZR 78/02
+- [BGH, Beschluss vom 15.01.2004 - IX ZB 413/02](ix-zb-413-02.md) — Ent-
+- [BGH, Beschluss vom 15.01.2004 - IX ZB 46/03](ix-zb-46-03.md) — BGH, Beschluss vom 15.01.2004 - IX ZB 46/03
+- [BGH, Beschluss vom 15.01.2004 - IX ZB 96/03](ix-zb-96-03.md) — BGH, Beschluss vom 15.01.2004 - IX ZB 96/03
+- [BGH, Beschluss vom 15.01.2004 - IX ZR 278/03](ix-zr-278-03.md) — BGH, Beschluss vom 15.01.2004 - IX ZR 278/03
+- [BGH, Beschluss vom 15.01.2004 - IX ZR 494/00](ix-zr-494-00.md) — BGH, Beschluss vom 15.01.2004 - IX ZR 494/00
+- [BGH, Urteil vom 08.01.2004 - IX ZR 30/03](ix-zr-30-03.md) — Forderung

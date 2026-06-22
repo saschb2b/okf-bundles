@@ -1,0 +1,85 @@
+# 3. Strafsenat – 2013
+
+81 Entscheidung(en).
+
+- [BGH, Urteil vom 12.12.2013 - 3 StR 146/13](3-str-146-13.md) — Betrug und Untreue: Eigenmächtige Vornahme einer Gehaltserhöhung unter Umgehung der zuständigen Entscheidungsträger; pflichtwidriges Verschweigen eines Anspruch
+- [BGH, Beschluss vom 12.12.2013 - 3 StR 210/13](3-str-210-13.md) — Allein auf der fehlenden oder fehlerhaften Protokollierung einer Belehrung gemäß § 257c Abs. 5, § 273 Abs. 1a Satz 2 StPO kann das Urteil nicht beruhen.
+- [BGH, Beschluss vom 12.12.2013 - 3 StR 267/13](3-str-267-13.md) — Beweisaufnahme im Strafverfahren: Inaugenscheinnahme von Urkunden; Verwertung des Inhalts von nicht verlesenen Urkunden
+- [BGH, Urteil vom 12.12.2013 - 3 StR 531/12](3-str-531-12.md) — Zum Begriff "derselben Tat" im Sinne des Art. 54 SDÜ.
+- [BGH, Beschluss vom 11.12.2013 - 3 StR 302/13](3-str-302-13.md) — Strafbarkeit wegen Betruges: Veranlassung von Doppelzahlungen im Zusammenhang mit sog. Kaffeefahrten
+- [BGH, Beschluss vom 28.11.2013 - 3 StR 40/13](3-str-40-13.md) — Die Verurteilung nach § 4 Satz 1 GewSchG wegen einer Zuwiderhandlung gegen eine Anordnung nach § 1 Abs. 1 Satz 1 GewSchG setzt voraus, dass das Strafgericht die
+- [BGH, Urteil vom 27.11.2013 - 3 StR 5/13](3-str-5-13.md) — 1. Auf den Börsenpreis eines Finanzinstruments wird eingewirkt, wenn dieser künstlich, d.h. gegen die wahren wirtschaftlichen Verhältnisse erhöht, abgesenkt ode
+- [BGH, Beschluss vom 26.11.2013 - 3 StR 217/13](3-str-217-13.md) — Beweiswürdigung im Strafverfahren: Belastende Aussage eines von der Kronzeugenregelung profitierenden Mitangeklagten
+- [BGH, Beschluss vom 26.11.2013 - 3 StR 261/13](3-str-261-13.md) — Raub und schwerer Raub: Erforderlichkeit von final auf die Wegnahme gerichteter Gewalt; Voraussetzungen des Tatbestandsmerkmals des Beisichführens einer Waffe
+- [BGH, Beschluss vom 26.11.2013 - 3 StR 301/13](3-str-301-13.md) — Die gefährliche Körperverletzung in der Qualifikationsform der gemeinschaftlichen Begehung mit einem anderen Beteiligten steht in Tateinheit mit der durch die T
+- [BGH, Beschluss vom 26.11.2013 - 3 StR 331/13](3-str-331-13.md) — Notwehr: Erforderlichkeit einer Verteidigungshandlung unter Einsatz eines Baseballschlägers
+- [BGH, Urteil vom 22.11.2013 - 3 StR 162/13](3-str-162-13.md) — Bei Verlegung des ordentlichen Sitzungstages ist für die Entbindung des Hauptschöffen von der Dienstleistung seine Verhinderung am tatsächlichen Sitzungstag, ni
+- [BGH, Beschluss vom 20.11.2013 - 3 StR 325/13](3-str-325-13.md) — Gefährliche Körperverletzung: Rücktritt vom unbeendeten Versuch
+- [BGH, Urteil vom 14.11.2013 - 3 StR 336/13](3-str-336-13.md) — Strafverfahren wegen Brandstiftung: Schwere Brandstiftung bei Verlassen des menschenleeren Tatobjekts nach der Brandlegung
+- [BGH, Beschluss vom 12.11.2013 - 3 StR 135/13](3-str-135-13.md) — Anhörungsrüge im Strafverfahren: Verfassungsrechtlich gewährleistete Einflussnahmemöglichkeiten eines Revisionsführers bei Verwerfung der Revision ohne Hauptver
+- [BGH, Beschluss vom 12.11.2013 - 3 StR 322/13](3-str-322-13.md) — Verbreitung kinderpornographischer Schriften: Öffentliches Zugänglichmachen kinderpornographischer Dateien im Internet
+- [BGH, Urteil vom 24.10.2013 - 3 StR 128/13](3-str-128-13.md) — Verfall: Anforderungen an die Annahme einer unbilligen Härte
+- [BGH, Urteil vom 24.10.2013 - 3 StR 258/13](3-str-258-13.md) — Notwendige Feststellungen im Strafurteil: Ausschöpfen des Unrechtsgehalts der angeklagten Tat
+- [BGH, Beschluss vom 24.10.2013 - 3 StR 349/13](3-str-349-13.md) — Revision im Strafverfahren: Aufhebung einer isoliert angeordneten Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, EuGH-Vorlage vom 22.10.2013 - 3 StR 124/13](3-str-124-13.md) — Vorlage an den EuGH: Arzneimittel als Grundstoffe zur Herstellung von Betäubungsmitteln
+- [BGH, Beschluss vom 22.10.2013 - 3 StR 323/13](3-str-323-13.md) — Körperverletzung: Überschreiten der Schwelle zu einer üblen und unangemessenen Behandlung bei einem Schlag ins Gesicht
+- [BGH, Beschluss vom 17.10.2013 - 3 StR 167/13](3-str-167-13.md) — 1. Der Tatbestand des § 298 Abs. 1 StGB erfasst beschränkte Ausschreibungen öffentlicher Auftraggeber gemäß § 3 Nr. 3 VOB/A (2006) (heute § 3 Abs. 3 und 4 VOB/A
+- [BGH, Urteil vom 17.10.2013 - 3 StR 263/13](3-str-263-13.md) — Schwerer Raub: Beisichführen eines gefährlichen Werkzeugs
+- [BGH, Beschluss vom 15.10.2013 - 3 StR 154/13](3-str-154-13.md) — Ablehnung von Beweisanträgen im Strafverfahren: Bedeutungslosigkeit der unter Beweis gestellten Tatsache
+- [BGH, Beschluss vom 15.10.2013 - 3 StR 224/13](3-str-224-13.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Grundsätze für Abgrenzung von Täterschaft und Beihilfe; Führen der Waffe allein durch den Gehilfen; Wesentlichk
+- [BGH, Beschluss vom 15.10.2013 - 3 StR 282/13](3-str-282-13.md) — Strafzumessung: Berücksichtigung von zulässigem Prozessverhalten zu Lasten eines Angeklagten
+- [BGH, Beschluss vom 01.10.2013 - 3 StR 299/13](3-str-299-13.md) — Strafverfahren wegen schweren Raubs und schwerer räuberischer Erpressung: Qualifikation durch Verwendung eines gefährlichen Werkzeugs nach Vollendung der Raubta
+- [BGH, Beschluss vom 01.10.2013 - 3 StR 311/13](3-str-311-13.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose bei der Ersttat eines seit Jahrzehnten psychisch Kranken
+- [BGH, Urteil vom 19.09.2013 - 3 StR 119/13](3-str-119-13.md) — Erpresserischer Menschenraub: Erlangen eigenständiger Gewalt über das bereits in der Gewalt von Dritten befindliche Opfer
+- [BGH, Beschluss vom 17.09.2013 - 3 StR 117/12](3-str-117-12.md) — Vergütung des anwaltlichen Beistands für den Nebenkläger im Revisionsverfahren vor dem Bundesgerichtshof: Terminsgebühr bei Anschluss an das Plädoyer des Genera
+- [BGH, Beschluss vom 17.09.2013 - 3 StR 259/13](3-str-259-13.md) — Strafverfahren wegen gemeinschaftlichen Betruges: Konkurrenzverhältnisse und Zurechenbarkeit der Tatbeiträge der Mittäter
+- [BGH, Beschluss vom 22.08.2013 - 3 StR 141/13](3-str-141-13.md) — Neues Strafurteil nach Zurückverweisung durch das Revisionsgericht: Erneute Bildung einer Gesamtstrafe
+- [BGH, Urteil vom 22.08.2013 - 3 StR 163/13](3-str-163-13.md) — Strafurteil wegen Totschlags: Berücksichtigung der gleichen subjektiven Gesichtspunkte sowohl bei der Prüfung eines Mordmerkmals als auch bei der Strafzumessung
+- [BGH, Beschluss vom 20.08.2013 - 3 StR 192/13](3-str-192-13.md) — Schwere räuberische Erpressung: Drohung mit Gewalt gegen Hund des Opfers als qualifiziertes Nötigungsmittel
+- [BGH, Beschluss vom 20.08.2013 - 3 StR 222/13](3-str-222-13.md) — Sexueller Missbrauch von Jugendlichen: Beschränkung des Tatbestandes auf einvernehmliche sexuelle Handlungen
+- [BGH, Beschluss vom 08.08.2013 - 3 StR 179/13](3-str-179-13.md) — Verfallsanordnung: Voraussetzungen bei mehreren Mittätern eines schweren Bandendiebstahls; Feststellung des Erlangten
+- [BGH, Beschluss vom 08.08.2013 - 3 StR 226/13](3-str-226-13.md) — Anordnung des erweiterten Verfalls: Gegenstände aus von der Anklageschrift nicht erfassten aber möglicherweise konkretisierbaren Straftaten
+- [BGH, Beschluss vom 06.08.2013 - 3 StR 175/13](3-str-175-13.md) — Geiselnahme: Zusammenhang zwischen Bemächtigungslage und Nötigung
+- [BGH, Beschluss vom 06.08.2013 - 3 StR 212/13](3-str-212-13.md) — Strafverfahren wegen Betäubungsmitteldelikten: Notwendige Feststellung der Wirkstoffkonzentration von Rauschgift; Sachverhaltsermittlungspflicht bei Verständigu
+- [BGH, Beschluss vom 25.07.2013 - 3 StR 143/13](3-str-143-13.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Strafobergrenze bei gleichzeitigem Mitsichführen einer Waffe
+- [BGH, Beschluss vom 25.07.2013 - 3 StR 76/13](3-str-76-13.md) — Revisionsbegründung: Formale Anforderungen an einen Revisionsantrag bei Erhebung der allgemeinen Sachrüge
+- [BGH, Beschluss vom 23.07.2013 - 3 StR 118/13](3-str-118-13.md) — Revisionsbegründung in Strafsachen: Anforderungen an die Rüge der rechtsfehlerhaften Zurückweisung eines Hilfsbeweisantrags
+- [BGH, Beschluss vom 23.07.2013 - 3 StR 96/13](3-str-96-13.md) — Abgrenzung von Computerbetrug und Untreue: Eröffnung von Bankkonten für nicht existente Personen durch den Mitarbeiter einer Bank
+- [BGH, Urteil vom 11.07.2013 - 3 StR 148/13](3-str-148-13.md) — Absehen von der Anordnung der Sicherungsverwahrung: Anforderungen an die tatrichterliche Ermessensentscheidung bei hangbedingter Gefährlichkeit des Angeklagten
+- [BGH, Beschluss vom 11.07.2013 - 3 StR 149/13](3-str-149-13.md) — Verwerfung der Revision im Strafverfahren bei offensichtlicher Unbegründetheit: "Vier-Augen-Prinzip"
+- [BGH, Beschluss vom 11.07.2013 - 3 StR 166/13](3-str-166-13.md) — Strafverfahrensverbindung: Zuständiges Gericht für einen Verbindungsbeschluss bei Strafverfahren mit verschiedener örtlicher und sachlicher Zuständigkeit; Zurüc
+- [BGH, Beschluss vom 11.07.2013 - 3 StR 193/13](3-str-193-13.md) — Unterbringung in einer Entziehungsanstalt: Vorrang vor der Zurückstellung der Strafvollstreckung; Nachholung der Anordnung im Revisionsverfahren
+- [BGH, Beschluss vom 09.07.2013 - 3 StR 132/13](3-str-132-13.md) — Strafverfahren: Begrenzte Beweisantizipation bei der Ablehnung des Antrags auf Zuziehung eines weiteren Sachverständigen
+- [BGH, Beschluss vom 09.07.2013 - 3 StR 174/13](3-str-174-13.md) — Raub: Zueignungsabsicht bei Entwendung eines Behältnisses mit unbekanntem Inhalt
+- [BGH, Urteil vom 27.06.2013 - 3 StR 109/13](3-str-109-13.md) — Verstoß gegen das Vereinsgesetz: Verwendung von Kennzeichen eines von einem Betätigungsverbot betroffenen Vereins durch Hochhalten und Tragen einer Fahne
+- [BGH, Urteil vom 27.06.2013 - 3 StR 435/12](3-str-435-12.md) — Der hohe Rang der Selbstbelastungsfreiheit gebietet es, dass auch Spontanäußerungen - zumal zum Randgeschehen - nicht zum Anlass für sachaufklärende Nachfragen 
+- [BGH, Beschluss vom 26.06.2013 - 3 StR 161/13](3-str-161-13.md) — Nachträgliche Gesamtstrafenbildung; Erledigung einer Strafe
+- [BGH, Beschluss vom 28.05.2013 - 3 StR 426/12](3-str-426-12.md) — Rücknahme eines Rechtsmittels der Staatsanwaltschaft: Erfordernis der Zustimmung des Angeklagten
+- [BGH, EuGH-Vorlage vom 28.05.2013 - 3 StR 437/12](3-str-437-12.md) — Vorabentscheidungsersuchen an den EuGH im Rahmen eines Strafverfahrens wegen Inverkehrbringens bedenklicher Arzneimittel: Arzneimitteleigenschaft von Kräutermis
+- [BGH, Urteil vom 28.05.2013 - 3 StR 54/13](3-str-54-13.md) — Bestimmung des Strafrahmens: Zusammentreffen von vertypten Strafmilderungsgründen und minder schwerem Fall
+- [BGH, Beschluss vom 28.05.2013 - 3 StR 68/13](3-str-68-13.md) — Strafbarkeit des Teilnehmers: Anstiftung oder Beihilfe bei Mitwirkung an untauglichem Versuch
+- [BGH, Beschluss vom 28.05.2013 - 3 StR 80/13](3-str-80-13.md) — Abgrenzung zwischen Computerbetrug und Untreue: Elektronische Erstellung von Vertragsunterlagen für fiktive Kunden zur Einleitung eines automatisierten Genehmig
+- [BGH, Urteil vom 16.05.2013 - 3 StR 45/13](3-str-45-13.md) — Bedingter Tötungsvorsatz: Tatrichterliche Beweiswürdigung bei objektiv besonders gefährlichen Gewalttaten im Falle von wuchtigen Fußtritten gegen den Kopf des O
+- [BGH, Beschluss vom 14.05.2013 - 3 StR 101/13](3-str-101-13.md) — Gestaltung der Urteilsgründe in Strafsachen: Wiedergabe des Strafregisterauszugs in faksimilierter Form; umfassende Dokumentation der Beweisaufnahme in der Bewe
+- [BGH, Vorlagebeschluss vom 14.05.2013 - 3 StR 69/13](3-str-69-13.md) — BGH, Vorlagebeschluss 3 StR 69/13
+- [BGH, Beschluss vom 30.04.2013 - 3 StR 85/13](3-str-85-13.md) — Betäubungsmittelhandel: Beihilfe des Wohnungsinhabers zum Drogenhandel des Mitbewohners durch aktives Tun, Duldung oder "psychische Hilfe"
+- [BGH, Beschluss vom 16.04.2013 - 3 StR 67/13](3-str-67-13.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Darlegung der Beweiswürdigung bei einem DNA-Vergleichsgutachten
+- [BGH, Beschluss vom 15.04.2013 - 3 StR 35/13](3-str-35-13.md) — Beweiswürdigung im Strafverfahren: Geständnis des Angeklagten bei komplexem Sachverhalt
+- [BGH, Urteil vom 04.04.2013 - 3 StR 37/13](3-str-37-13.md) — Strafverurteilung wegen gefährlicher Körperverletzung: Revisionsgerichtliche Nachprüfung der Beweiswürdigung zur Abgrenzung zwischen Körperverletzungsvorsatz un
+- [BGH, Urteil vom 04.04.2013 - 3 StR 521/12](3-str-521-12.md) — Verbreiten von Propagandamitteln verfassungswidriger Organisationen: Unvermeidbarer Verbotsirrtum bei anwaltlicher Auskunft
+- [BGH, Beschluss vom 04.04.2013 - 3 StR 529/12](3-str-529-12.md) — Verfallsanordnung bei Betrugsdelikten: Rangverhältnis zwischen Verfall und erweitertem Verfall
+- [BGH, Beschluss vom 03.04.2013 - 3 StR 60/13](3-str-60-13.md) — Zurückverweisung einer Strafsache durch das Revisionsgericht: Beachtung des Verschlechterungsverbots bei der Gesamtstrafen- und Einzelstrafenbildung
+- [BGH, Beschluss vom 03.04.2013 - 3 StR 61/13](3-str-61-13.md) — Betäubungsmittelstrafrecht: Konkurrenzverhältnis von unerlaubtem Handeltreiben und Bestimmen einer Person unter 18 Jahren zum unerlaubten Handeltreiben
+- [BGH, Urteil vom 21.03.2013 - 3 StR 247/12](3-str-247-12.md) — 1. Ob sich das Tatgericht allein aufgrund der Übereinstimmung von DNA-Identifizierungsmustern von der Täterschaft eines Angeklagten zu überzeugen vermag, ist vo
+- [BGH, Beschluss vom 21.03.2013 - 3 StR 52/13](3-str-52-13.md) — Absehen von Verfallsanordnung: Prüfungsreihenfolge
+- [BGH, Beschluss vom 19.03.2013 - 3 StR 26/13](3-str-26-13.md) — Beweisaufnahme im Strafverfahren: Protokollverlesung zur Gedächtnisstütze bei der Vernehmung einer Verhörsperson
+- [BGH, Beschluss vom 05.03.2013 - 3 StR 438/12](3-str-438-12.md) — Untreue: Selbstständige Vermögensbetreuungspflicht eines regelmäßig beauftragten Rechtsanwalts
+- [BGH, Beschluss vom 05.03.2013 - 3 StR 492/12](3-str-492-12.md) — Anordnung der Unterbringung in einer Entziehungsanstalt neben einer zeitigen Freiheitsstrafe von über drei Jahren: Bemessung des vorweg zu vollziehenden Teils d
+- [BGH, Beschluss vom 21.02.2013 - 3 StR 496/12](3-str-496-12.md) — Mord: Annahme niedriger Beweggründe wegen des äußerst brutalen Tatgeschehens
+- [BGH, Beschluss vom 20.02.2013 - 3 StR 24/13](3-str-24-13.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Mitgliedschaft in einer Bande als besonderes persönliches Merkmal
+- [BGH, Beschluss vom 07.02.2013 - 3 StR 468/12](3-str-468-12.md) — Adhäsionsverfahren: Gesamtschuldnerhaftung mehrerer Angeklagten bei Mittäterexzess
+- [BGH, Urteil vom 07.02.2013 - 3 StR 486/12](3-str-486-12.md) — 1. Die Strafbarkeit wegen Verstoßes gegen Weisungen während der Führungsaufsicht setzt voraus, dass die Weisung eindeutig und so fest umrissen ist, wie dies vom
+- [BGH, Beschluss vom 05.02.2013 - 3 StR 499/12](3-str-499-12.md) — Gewerbs- und bandenmäßige Urkundenfälschung und Betrug: Bandenmitgliedschaft bei Gehilfentätigkeit; Konkurrenzverhältnisse und Zurechenbarkeit der Tatbeiträge d
+- [BGH, Beschluss vom 05.02.2013 - 3 StR 8/13](3-str-8-13.md) — Gesamtfreiheitsstrafe wegen schweren Raubes und schwerer räuberischer Erpressung: Notwendige Erörterung einer Strafmilderung bei Aufklärungshilfe zu einer der T
+- [BGH, Beschluss vom 04.02.2013 - 3 StR 395/12](3-str-395-12.md) — Bildung der Gesamtstrafe: Auswirkungen des das Auslieferungsrecht beherrschenden Grundsatzes der Spezialität bei Einbeziehung einer früheren Verurteilung durch 
+- [BGH, Beschluss vom 22.01.2013 - 3 StR 513/12](3-str-513-12.md) — Unterbringung in einer Entziehungsanstalt: Erfolgsaussicht trotz unzureichender Sprachkenntnisse und Ablehnung einer Suchtbehandlung

@@ -1,0 +1,126 @@
+# XII. Zivilsenat – 2024
+
+122 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2024 - XII ZB 296/23](xii-zb-296-23.md) — Aufhebung einer Betreuung bei verweigerter Mitwirkung; Grenzen der Unbetreubarkeit
+- [BGH, Beschluss vom 18.12.2024 - XII ZB 452/23](xii-zb-452-23.md) — Aus der Anwendung ausländischen Rechts folgt für sich genommen weder, dass damit Rechtsfragen von grundsätzlicher Bedeutung aufgeworfen sind (im Anschluss an BG
+- [BGH, Beschluss vom 18.12.2024 - XII ZB 488/23](xii-zb-488-23.md) — Betreuung für ausgeschlossene Einzelbereiche trotz Vorsorgevollmacht; Zuweisung eines isolierten Aufgabenkreises nach dem Subsidiaritätsprinzip
+- [BGH, Beschluss vom 18.12.2024 - XII ZR 38/24](xii-zr-38-24.md) — Auslegung eines Geschäftsraummietvertrags: Gehörsverletzung bei Nichtberücksichtigung eines Beweisantrags zu ergänzendem Inhalt
+- [BGH, Beschluss vom 11.12.2024 - XII ZB 251/24](xii-zb-251-24.md) — Voraussetzungen der erneuten persönlichen Anhörung des Betroffenen im Beschwerdeverfahren
+- [BGH, Beschluss vom 04.12.2024 - XII ZB 66/24](xii-zb-66-24.md) — 1. Die formelle Rechtskraft der abzuändernden Entscheidung ist eine im Rahmen des Verfahrens nach § 48 Abs. 1 FamFG von Amts wegen zu prüfende Voraussetzung. 2.
+- [BGH, Beschluss vom 27.11.2024 - XII ZB 164/24](xii-zb-164-24.md) — 1. Die geschlossene Unterbringung eines Minderjährigen in der Kinder- und Jugendpsychiatrie ist auch bei vorliegenden Anzeichen für eine psychische Störung unve
+- [BGH, Beschluss vom 27.11.2024 - XII ZB 28/23](xii-zb-28-23.md) — 1. Ein Anspruch auf Nutzungsentschädigung nach § 1361 b Abs. 3 Satz 2 BGB scheidet grundsätzlich aus, wenn der Wohnvorteil des in der Ehewohnung verbliebenen Eh
+- [BGH, Beschluss vom 20.11.2024 - XII ZB 499/23](xii-zb-499-23.md) — Anwaltliche Sorgfaltspflichten bei der Versendung eines elektronischen Dokuments
+- [BGH, Beschluss vom 20.11.2024 - XII ZB 78/24](xii-zb-78-24.md) — 1. Anders als beim Zusammenleben des Unterhaltspflichtigen mit einem Ehegatten oder Partner in nichtehelicher Lebensgemeinschaft ist die Herabsetzung des notwen
+- [BGH, Beschluss vom 20.11.2024 - XII ZR 124/22](xii-zr-124-22.md) — Voraussetzungen für Nichtzulassung der Revision
+- [BGH, Beschluss vom 13.11.2024 - XII ZB 282/24](xii-zb-282-24.md) — Amtsgerichtliche Genehmigung der Unterbringung eines Betreuten
+- [BGH, Beschluss vom 13.11.2024 - XII ZB 466/24](xii-zb-466-24.md) — Dem Leiter einer Maßregelvollzugseinrichtung des Landes Nordrhein-Westfalen steht bei einer nach § 126 a StPO untergebrachten Person kein eigenes Antragsrecht a
+- [BGH, Beschluss vom 13.11.2024 - XII ZB 558/23](xii-zb-558-23.md) — 1. Die Beweislastumkehr nach § 1375 Abs. 2 Satz 2 BGB knüpft an die Auskunft an, mit der der auf den Trennungszeitpunkt bezogene Auskunftsanspruch nach § 1379 A
+- [BGH, Beschluss vom 06.11.2024 - XII ZB 176/24](xii-zb-176-24.md) — 1. Eine vom Betroffenen vorgeschlagene Person darf bei der Betreuerauswahl nur dann unberücksichtigt bleiben, wenn sich nach umfassender Abwägung aller relevant
+- [BGH, Beschluss vom 06.11.2024 - XII ZB 254/24](xii-zb-254-24.md) — Amtsgerichtliche Genehmigung der geschlossenen Unterbringung eines Betreuten
+- [BGH, Beschluss vom 06.11.2024 - XII ZB 368/24](xii-zb-368-24.md) — 1. In Verfahren, welche die Genehmigung einer freiheitsentziehenden Unterbringung eines Kindes betreffen, welches das 14. Lebensjahr vollendet hat, ist das nach
+- [BGH, Beschluss vom 30.10.2024 - XII ZB 173/24](xii-zb-173-24.md) — Die Beschwer eines zur Herausgabe von Urkunden verpflichteten Rechtsmittelführers bemisst sich, sofern nicht der Besitz der Urkunden unmittelbar den Wert eines 
+- [BGH, Beschluss vom 23.10.2024 - XII ZB 249/24](xii-zb-249-24.md) — Zur Betreuervergütung für eine examinierte Krankenschwester, deren Aufgabenkreis die Gesundheitssorge nicht umfasst.
+- [BGH, Beschluss vom 23.10.2024 - XII ZB 255/24](xii-zb-255-24.md) — 1. Den Nachweis über den Zeitpunkt der Zustellung der angefochtenen Entscheidung erbringt der Rechtsmittelführer durch die Übermittlung des vom Ausgangsgericht 
+- [BGH, Beschluss vom 23.10.2024 - XII ZB 318/24](xii-zb-318-24.md) — Notwendigkeit einer erneuten Anhörung bei Anordnung einer Betreuung
+- [BGH, Beschluss vom 23.10.2024 - XII ZB 411/23](xii-zb-411-23.md) — 1. Ein von einem Rechtsanwalt mit einfacher Signatur versehener und über das besondere elektronische Anwaltspostfach (beA) eingereichter Antrag auf Verlängerung
+- [BGH, Beschluss vom 23.10.2024 - XII ZB 576/23](xii-zb-576-23.md) — 1. Hat der Verfahrensbevollmächtigte eines Beteiligten die Anfertigung einer Rechtsmittelschrift seinem angestellten Büropersonal übertragen, ist er verpflichte
+- [BGH, Beschluss vom 23.10.2024 - XII ZB 6/24](xii-zb-6-24.md) — Zur Bemessung des angemessenen Selbstbehalts im Elternunterhalt für Unterhaltszeiträume nach dem Inkrafttreten von § 94 Abs. 1a SGB XII in der Fassung von Art. 
+- [BGH, Beschluss vom 09.10.2024 - XII ZB 253/24](xii-zb-253-24.md) — 1. In Verfahren, die die Genehmigung einer freiheitsentziehenden Unterbringung eines Kindes betreffen, welches das 14. Lebensjahr vollendet hat, ist das nach § 
+- [BGH, Beschluss vom 09.10.2024 - XII ZB 289/24](xii-zb-289-24.md) — Die Frage, ob der Betroffene im Zeitpunkt der Vollmachterteilung nach § 104 Nr. 2 BGB geschäftsunfähig war, hat das Gericht nach § 26 FamFG von Amts wegen aufzu
+- [BGH, Beschluss vom 02.10.2024 - XII ZB 216/24](xii-zb-216-24.md) — Zu den Voraussetzungen der Entstehung eines Vergütungsanspruchs für die Tätigkeit als Berufsbetreuer nach dem ab dem 1. Januar 2023 geltenden Vergütungsrecht.
+- [BGH, Beschluss vom 02.10.2024 - XII ZB 279/24](xii-zb-279-24.md) — Die für die Vergütung eines Berufsbetreuers nach § 9 VBVG maßgebende Dauer der Betreuung richtet sich auch bei einem Betreuerwechsel nach der Einrichtung der Be
+- [BGH, Beschluss vom 25.09.2024 - XII ZB 110/23](xii-zb-110-23.md) — 1. Die Vergütung des Verfahrensbeistands ist in § 158c Abs. 1 FamFG abschließend dergestalt geregelt, dass seine Tätigkeit einschließlich sämtlicher Aufwendunge
+- [BGH, Beschluss vom 25.09.2024 - XII ZB 236/24](xii-zb-236-24.md) — 1. Für die Beschwerdebefugnis naher Angehöriger nach § 303 Abs. 2 Nr. 1 FamFG ist maßgeblich, ob das Rechtsmittel dem objektiven Interesse des Betroffenen dient
+- [BGH, Beschluss vom 25.09.2024 - XII ZB 244/22](xii-zb-244-22.md) — Geben Verlobte die Eheschließungserklärungen in Deutschland ab, handelt es sich um eine Eheschließung im Inland und kann die Ehe daher nur in der hier vorgeschr
+- [BGH, Beschluss vom 25.09.2024 - XII ZB 327/24](xii-zb-327-24.md) — Bei der Entscheidung über die Zustimmung zu einer ärztlichen Zwangsmaßnahme ist nach § 11 Abs. 2 des Gesetzes zur Durchführung strafrechtsbezogener Unterbringun
+- [BGH, Beschluss vom 25.09.2024 - XII ZB 508/23](xii-zb-508-23.md) — 1. Zur Auskunftserteilung und Belegvorlage im Zugewinnausgleichsverfahren, wenn der auskunftspflichtige Ehegatte als selbständiger Rechtsanwalt und Notar tätig 
+- [BGH, Beschluss vom 18.09.2024 - XII ZB 107/24](xii-zb-107-24.md) — 1. Das Recht der Beschwerde nach § 303 Abs. 2 Nr. 1 FamFG gegen eine von Amts wegen ergangene Entscheidung steht den Angehörigen im Interesse des Betroffenen nu
+- [BGH, Beschluss vom 18.09.2024 - XII ZB 25/24](xii-zb-25-24.md) — Zur Abgrenzung von sonstigen Familiensachen zu allgemeinen Zivilsachen (hier: anfechtungsrechtliche Streitigkeit nach dem Anfechtungsgesetz zwischen Schwiegerki
+- [BGH, Beschluss vom 18.09.2024 - XII ZR 116/23](xii-zr-116-23.md) — 1. Der Grundsatz der formellen Anknüpfung in § 119 Abs. 1 GVG greift im Verhältnis von bürgerlichen Rechtsstreitigkeiten und Familiensachen auf die funktionelle
+- [BGH, Beschluss vom 11.09.2024 - XII ZR 114/23](xii-zr-114-23.md) — BGH, Beschluss XII ZR 114/23
+- [BGH, Beschluss vom 28.08.2024 - XII ZB 206/24](xii-zb-206-24.md) — Strafrechtliche Unterbringung in Nordrhein-Westfallen: Gehörsverletzung durch unterbliebener Bekanntgabe des Sachverständigengutachtens vor der Anhörung des Bet
+- [BGH, Beschluss vom 28.08.2024 - XII ZB 207/24](xii-zb-207-24.md) — Freiheitsentziehende Unterbringung eines Betreuten: Verlängerung der regelmäßigen Höchstfrist der Unterbringung; Bestimmung des Fristbeginns
+- [BGH, Beschluss vom 28.08.2024 - XII ZB 92/23](xii-zb-92-23.md) — Persönliche Anhörung im Beschwerdeverfahren bei geänderter Tatsachengrundlage; Maßstab des Amtsermittlungsgrundsatzes
+- [BGH, Beschluss vom 28.08.2024 - XII ZR 62/22](xii-zr-62-22.md) — 1. Sind öffentliche Urkunden im Sinne von § 415 Abs. 1 ZPO echt und mangelfrei, erbringen sie den vollen Beweis dafür, dass die Erklärung des Urkundsbeteiligten
+- [BGH, Beschluss vom 14.08.2024 - XII ZB 386/23](xii-zb-386-23.md) — Beschwerdeanträge genügen den gesetzlichen Anforderungen, wenn die innerhalb der Begründungsfrist eingereichten Schriftsätze des Beschwerdeführers ihrem gesamte
+- [BGH, Beschluss vom 14.08.2024 - XII ZB 440/23](xii-zb-440-23.md) — 1. Die geschlossene Abteilung eines psychiatrischen Krankenhauses stellt eine stationäre Einrichtung im Sinne des § 5 Abs. 3 Satz 2 Nr. 1 VBVG a.F. dar. 2. Es i
+- [BGH, Beschluss vom 14.08.2024 - XII ZB 46/24](xii-zb-46-24.md) — BGH, Beschluss XII ZB 46/24
+- [BGH, Beschluss vom 14.08.2024 - XII ZB 478/22](xii-zb-478-22.md) — 1. Das Entstehen einer Einigungsgebühr nach RVG-VV Nr. 1000 setzt voraus, dass bereits ein Rechtsverhältnis zwischen den Parteien besteht oder dies zumindest vo
+- [BGH, Beschluss vom 07.08.2024 - XII ZB 121/24](xii-zb-121-24.md) — 1. Der Wert des Beschwerdegegenstands (§ 511 Abs. 2 Nr. 1 ZPO) richtet sich nicht nach den Vorschriften des allein für die Bemessung der Gerichtsgebühren maßgeb
+- [BGH, Beschluss vom 07.08.2024 - XII ZB 133/24](xii-zb-133-24.md) — Erfordernis der persönlichen Bekanntgabe des Sachverständigengutachtens an den Betroffenen im Betreuungsverfahren
+- [BGH, Beschluss vom 07.08.2024 - XII ZB 169/24](xii-zb-169-24.md) — Zu den Voraussetzungen und Begründungsanforderungen, wenn eine Unterbringung für länger als ein Jahr angeordnet oder genehmigt werden soll (im Anschluss an Sena
+- [BGH, Urteil vom 07.08.2024 - XII ZR 113/22](xii-zr-113-22.md) — Zu den Ansprüchen des Verpächters und Eigentümers einer Eisenbahninfrastruktureinrichtung gegen den Pächter und Inhaber der zum Betrieb dieser Eisenbahninfrastr
+- [BGH, Beschluss vom 31.07.2024 - XII ZB 117/24](xii-zb-117-24.md) — 1. Bei Einrichtungen, die den Begriff eines Heims im Sinne des früheren Heimgesetzes erfüllen, sind die Kriterien einer stationären Einrichtung im vergütungsrec
+- [BGH, Beschluss vom 31.07.2024 - XII ZB 147/24](xii-zb-147-24.md) — 1. Das grundrechtlich geschützte Interesse des möglichen leiblichen Vaters, die Rechtsstellung als Vater des Kindes einnehmen zu können, ist verfahrensrechtlich
+- [BGH, Beschluss vom 31.07.2024 - XII ZB 573/23](xii-zb-573-23.md) — Werden einem Rechtsanwalt die Akten im Zusammenhang mit einer fristgebundenen Prozesshandlung vorgelegt, hat er den Ablauf von Rechtsmittelbegründungsfristen ei
+- [BGH, Beschluss vom 31.07.2024 - XII ZB 75/24](xii-zb-75-24.md) — Die Suspendierung einer Vorsorgevollmacht setzt die Prognose voraus, dass der Bevollmächtigte trotz angeordneter (Kontroll-)Betreuung nicht den Wünschen des Vol
+- [BGH, Beschluss vom 24.07.2024 - XII ZA 14/24](xii-za-14-24.md) — BGH, Beschluss XII ZA 14/24
+- [BGH, Beschluss vom 17.07.2024 - XII ZB 127/24](xii-zb-127-24.md) — Betreuungsverfahren: Erneute persönliche Anhörung des Betroffenen im Beschwerdeverfahren
+- [BGH, Beschluss vom 17.07.2024 - XII ZB 421/23](xii-zb-421-23.md) — 1. Die Verletzung von Verfahrensvorschriften begründet nur dann eine Beschwerdeberechtigung nach § 59 Abs. 1 FamFG, wenn der Rechtsmittelführer durch die verfah
+- [BGH, Beschluss vom 17.07.2024 - XII ZB 89/24](xii-zb-89-24.md) — 1. § 10 StrUG NRW enthält keine eigenständige Rechtsgrundlage für ärztliche Zwangsmaßnahmen bei Personen, die nach § 126 a StPO in einer Maßregelvollzugsanstalt
+- [BGH, Beschluss vom 10.07.2024 - XII ZR 63/23](xii-zr-63-23.md) — 1. Zur Abgrenzung von sonstigen Familiensachen zu allgemeinen Zivilsachen. 2. Der Meistbegünstigungsgrundsatz vermag keine Erweiterung des gesetzlichen Rechtsmi
+- [BGH, Beschluss vom 03.07.2024 - XII ZB 506/22](xii-zb-506-22.md) — 1. Ein Anrecht, das nicht in die Ausgangsentscheidung über den öffentlich-rechtlichen Versorgungsausgleich einbezogen war, bleibt im Rahmen eines Abänderungsver
+- [BGH, Beschluss vom 03.07.2024 - XII ZB 538/23](xii-zb-538-23.md) — Reicht ein Rechtsanwalt über sein besonderes elektronisches Anwaltspostfach einen Schriftsatz, den ein anderer Rechtsanwalt verfasst, aber nicht qualifiziert el
+- [BGH, Beschluss vom 19.06.2024 - XII ZB 18/24](xii-zb-18-24.md) — BGH, Beschluss XII ZB 18/24
+- [BGH, Beschluss vom 19.06.2024 - XII ZB 456/23](xii-zb-456-23.md) — Wird ein nicht durch das Altersvorsorgeverträge-Zertifizierungsgesetz geschütztes Altersvorsorgekapital nach Kündigung des Vertrages während der Ehezeit auf ein
+- [BGH, Beschluss vom 19.06.2024 - XII ZR 93/23](xii-zr-93-23.md) — BGH, Beschluss XII ZR 93/23
+- [BGH, Beschluss vom 12.06.2024 - XII ZB 197/24](xii-zb-197-24.md) — 1. Zieht das Beschwerdegericht in einer Unterbringungssache für seine Entscheidung eine neue Tatsachengrundlage - etwa ein neues Sachverständigengutachten - her
+- [BGH, Beschluss vom 12.06.2024 - XII ZB 4/24](xii-zb-4-24.md) — Rechtsbeschwerde gegen die betreuungsgerichtliche Genehmigung der Unterbringung des Betroffenen
+- [BGH, Beschluss vom 12.06.2024 - XII ZB 496/22](xii-zb-496-22.md) — Versorgungsausgleich: Teilung des von der Ehefrau erworbenen Anrechts aus Grundrenten-Entgeltpunkten
+- [BGH, Beschluss vom 12.06.2024 - XII ZR 92/22](xii-zr-92-22.md) — 1. Der nach § 522 Abs. 2 Satz 1 ZPO gebotene Hinweis auf die beabsichtigte Beschlusszurückweisung der Berufung kann im Hinblick auf den Anspruch des Berufungskl
+- [BGH, Beschluss vom 05.06.2024 - XII ZB 277/23](xii-zb-277-23.md) — Zum Ausgleich eines Zuschlags an Entgeltpunkten aus langjähriger Versicherung (sog. Grundrenten-Entgeltpunkte) trotz Geringfügigkeit (Fortführung des Senatsbesc
+- [BGH, Beschluss vom 05.06.2024 - XII ZB 463/23](xii-zb-463-23.md) — 1. Das Beschwerdegericht hat auf die Beschwerde des Betroffenen den Beschluss, mit dem eine Unterbringung genehmigt oder angeordnet wurde, aufzuheben, wenn es z
+- [BGH, Beschluss vom 05.06.2024 - XII ZB 493/22](xii-zb-493-22.md) — 1. Nur wesentliche Abweichungen zwischen Urschrift und zugestellter Ausfertigung führen zur Unwirksamkeit der Zustellung. Wesentlich sind Abweichungen, die die 
+- [BGH, Beschluss vom 05.06.2024 - XII ZB 521/23](xii-zb-521-23.md) — 1. Im Verfahren über die Verlängerung der Bestellung eines Betreuers oder der Anordnung eines Einwilligungsvorbehalts gegen den erklärten Willen des Betroffenen
+- [BGH, Beschluss vom 05.06.2024 - XII ZB 589/23](xii-zb-589-23.md) — Einem beruflichen Betreuer, dem der Aufgabenbereich der Wohnungsangelegenheiten übertragen wurde, steht für den Zeitraum zwischen dem dauerhaften Umzug des nich
+- [BGH, Beschluss vom 05.06.2024 - XII ZR 73/22](xii-zr-73-22.md) — Verletzung des Anspruchs auf rechtliches Gehör bei Nichtberücksichtigung eines entscheidungserheblichen Sachvortrags; Beschränkung der Revisionszulassung
+- [BGH, Beschluss vom 22.05.2024 - XII ZB 122/24](xii-zb-122-24.md) — Die Verpflichtung des Gerichts gemäß § 329 Abs. 2 Satz 2 FamFG, einen externen Gutachter zu bestellen, setzt nicht voraus, dass die Unterbringung bereits im Zei
+- [BGH, Beschluss vom 15.05.2024 - XII ZB 122/22](xii-zb-122-22.md) — Der Pflichtehrensold nach dem bayerischen Kommunalwahlbeamtengesetz dient den Versorgungszwecken nach § 2 Abs. 2 Nr. 2 VersAusglG und ist deshalb im Versorgungs
+- [BGH, Beschluss vom 15.05.2024 - XII ZB 358/22](xii-zb-358-22.md) — 1. Der - mutmaßliche - leibliche Vater hat nach Adoption des Kindes grundsätzlich keinen Anspruch auf gerichtliche Feststellung der (rechtlichen) Vaterschaft na
+- [BGH, Beschluss vom 15.05.2024 - XII ZB 490/23](xii-zb-490-23.md) — 1. Der Typus der Unterbringungseinrichtung muss nach § 323 Abs. 1 Nr. 1 FamFG in der Beschlussformel der gerichtlichen Entscheidung über die Genehmigung oder An
+- [BGH, Beschluss vom 15.05.2024 - XII ZB 98/24](xii-zb-98-24.md) — Betreuungsrechtliche Genehmigung der freiheitsentziehenden Unterbringung zur Gefahrenabwehr bei völliger Verwahrlosung und einhergehender Gesundheitsgefahr für 
+- [BGH, Beschluss vom 08.05.2024 - XII ZB 577/23](xii-zb-577-23.md) — 1. Sind in einer Vorsorgevollmacht mehrere einzelvertretungsberechtigte Bevollmächtigte bestellt und erweist sich (nur) einer von ihnen als ungeeignet, kommt di
+- [BGH, Urteil vom 08.05.2024 - XII ZR 7/23](xii-zr-7-23.md) — Zur Anpassung eines Hotelaufnahmevertrages nach den Grundsätzen der Störung der Geschäftsgrundlage, wenn die Zimmerbuchung aus Anlass des Besuchs einer nach der
+- [BGH, Beschluss vom 24.04.2024 - XII ZB 282/23](xii-zb-282-23.md) — 1. Das Beschwerdegericht muss in einer Familienstreitsache die Beschwerdeentscheidung nicht gemäß § 113 Abs. 1 FamFG iVm § 311 Abs. 2 ZPO in einem Termin verkün
+- [BGH, Beschluss vom 24.04.2024 - XII ZB 531/23](xii-zb-531-23.md) — Einem nicht anwaltlichen Verfahrensbevollmächtigten, der nicht durch Beschluss nach § 10 Abs. 3 Satz 1 FamFG zurückgewiesen worden ist, ist Gelegenheit zu geben
+- [BGH, Beschluss vom 17.04.2024 - XII ZB 454/23](xii-zb-454-23.md) — 1. Zur Abgrenzung von sonstigen Familiensachen zu allgemeinen Zivilsachen. 2. Werden einem Rechtsanwalt die Akten im Zusammenhang mit einer fristgebundenen Verf
+- [BGH, Beschluss vom 17.04.2024 - XII ZR 56/23](xii-zr-56-23.md) — Gehörsverletzung bei Überspannen der Substantiierungsanforderungen an das Bestreiten einer Partei
+- [BGH, Beschluss vom 10.04.2024 - XII ZB 459/23](xii-zb-459-23.md) — 1. Allein aus dem Ausschluss eines Elternteils von der (gemeinsamen) elterlichen Sorge für die Geltendmachung von Kindesunterhalt für ein minderjähriges Kind fo
+- [BGH, Beschluss vom 10.04.2024 - XII ZB 559/23](xii-zb-559-23.md) — Einem beruflichen Betreuer, dem der Aufgabenbereich der Wohnungsangelegenheiten übertragen wurde, steht für den Zeitraum zwischen dem dauerhaften Umzug des nich
+- [BGH, Beschluss vom 27.03.2024 - XII ZB 237/23](xii-zb-237-23.md) — Zur Beschwerdeberechtigung im Verfahren zur Berichtigung eines Adoptionsbeschlusses.
+- [BGH, Beschluss vom 27.03.2024 - XII ZB 291/23](xii-zb-291-23.md) — 1. Wird gegen die erstinstanzliche Entscheidung zur Vollstreckbarerklärung eines ausländischen Unterhaltstitels Beschwerde eingelegt, ist das Beschwerdegericht 
+- [BGH, Beschluss vom 20.03.2024 - XII ZB 506/23](xii-zb-506-23.md) — 1. Der verfahrenskostenhilfebedürftige Rechtsmittelführer ist auch dann unverschuldet an der rechtzeitigen Einlegung des Rechtsmittels gehindert, wenn er ein we
+- [BGH, Beschluss vom 13.03.2024 - XII ZB 243/23](xii-zb-243-23.md) — In der Berücksichtigung einer vom Unterhaltsschuldner getragenen Gesamtschuld bei der Bemessung des Kindesunterhalts kann regelmäßig keine anderweitige Bestimmu
+- [BGH, Beschluss vom 13.03.2024 - XII ZB 439/23](xii-zb-439-23.md) — (Bestellung eines Betreuers; Erforderlichkeit einer Betreuung)
+- [BGH, Beschluss vom 13.03.2024 - XII ZR 89/22](xii-zr-89-22.md) — Inhaltsanforderungen an die Beschwerdeschrift bei Nichtzulassungsbeschwerde
+- [BGH, Beschluss vom 06.03.2024 - XII ZB 159/23](xii-zb-159-23.md) — Zu den Voraussetzungen einer Ehegatteninnengesellschaft (im Anschluss an Senatsurteil vom 3. Februar 2016 - XII ZR 29/13, FamRZ 2016, 965).
+- [BGH, Beschluss vom 06.03.2024 - XII ZB 408/23](xii-zb-408-23.md) — Zum Verschulden eines Rechtsanwalts, der ein vermeintlich verfrüht eingelegtes Rechtsmittel wieder zurücknimmt und dadurch die Rechtsmittelfrist versäumt.
+- [BGH, Beschluss vom 28.02.2024 - XII ZB 213/23](xii-zb-213-23.md) — Eine vom Betroffenen vorgeschlagene Person darf bei der Betreuerauswahl nur dann mangels Eignung unberücksichtigt bleiben, wenn sich aufgrund einer umfassenden 
+- [BGH, Beschluss vom 28.02.2024 - XII ZB 496/23](xii-zb-496-23.md) — Betreuungsverfahren: Persönlichen Anhörung des Betroffenen im Beschwerdeverfahren
+- [BGH, Beschluss vom 21.02.2024 - XII ZB 401/23](xii-zb-401-23.md) — 1. Voraussetzung für die Verhängung eines Ordnungsmittels nach § 89 FamFG ist eine Umgangsregelung mit vollstreckungsfähigem Inhalt, mithin eine nach Art, Ort u
+- [BGH, Beschluss vom 21.02.2024 - XII ZR 103/21](xii-zr-103-21.md) — BGH, Beschluss XII ZR 103/21
+- [BGH, Beschluss vom 21.02.2024 - XII ZR 41/22](xii-zr-41-22.md) — Zur Abgrenzung von sonstigen Familiensachen zu allgemeinen Zivilsachen.
+- [BGH, Beschluss vom 21.02.2024 - XII ZR 65/23](xii-zr-65-23.md) — Die Zustellung eines Versäumnisurteils und die Fristwahrung eines dagegen gerichteten Einspruchs ist gemäß § 341 Abs. 1 ZPO von Amts wegen zu prüfen. § 531 Abs.
+- [BGH, Beschluss vom 14.02.2024 - XII ZB 489/23](xii-zb-489-23.md) — Wiedereinsetzung in die versäumte Beschwerdefristbegründung in einer Unterhaltssache: Anforderungen an die Fristenkontrolle durch den Verfahrensbevollmächtigten
+- [BGH, Beschluss vom 07.02.2024 - XII ZB 130/23](xii-zb-130-23.md) — 1. Ist das Betreuungsgericht im Zeitraum vor dem 1. Januar 2028 im Rahmen einer Entscheidung über die Genehmigung der Unterbringung des Betreuten (§ 1831 Abs. 2
+- [BGH, Beschluss vom 07.02.2024 - XII ZB 458/23](xii-zb-458-23.md) — Zu den Voraussetzungen und Begründungsanforderungen, wenn eine Unterbringung für länger als ein Jahr angeordnet oder genehmigt werden soll (im Anschluss an Sena
+- [BGH, Beschluss vom 31.01.2024 - XII ZA 37/23](xii-za-37-23.md) — Verfahrenskostenhilfe in Unterbringungssachen: Zwangsbehandlung eines Untergebrachten mittels Elektrokonvulsionstherapie
+- [BGH, Beschluss vom 31.01.2024 - XII ZB 259/23](xii-zb-259-23.md) — Zum Vorliegen eines Härtefalls iSv § 27 VersAusglG bei vermögenden Ehegatten.
+- [BGH, Beschluss vom 31.01.2024 - XII ZB 343/23](xii-zb-343-23.md) — 1. Zur Berechnung der schuldrechtlichen Ausgleichsrente nach einem im Erstverfahren durchgeführten Teilausgleich im Wege des (hier analogen) Quasi-Splittings. 2
+- [BGH, Beschluss vom 31.01.2024 - XII ZB 385/23](xii-zb-385-23.md) — Die Regelung in einem zwischen geschiedenen Ehegatten geschlossenen gerichtlichen Vergleich, welche die Fälligkeit einer ratenweise zu zahlenden Zugewinnausglei
+- [BGH, Beschluss vom 30.01.2024 - XII ZB 572/23](xii-zb-572-23.md) — Gerichtliche Einwilligung in Zwangsbehandlung eines Untergebrachten durch Verabreichung einer Depotspritze
+- [BGH, Beschluss vom 24.01.2024 - XII ZA 21/23](xii-za-21-23.md) — BGH, Beschluss XII ZA 21/23
+- [BGH, Beschluss vom 24.01.2024 - XII ZB 171/23](xii-zb-171-23.md) — 1. Ein Verfahrensbevollmächtigter, der kurzfristig und unvorhersehbar an der Wahrnehmung eines Termins gehindert ist, hat alles ihm Mögliche und Zumutbare zu tu
+- [BGH, Beschluss vom 24.01.2024 - XII ZB 321/23](xii-zb-321-23.md) — Entscheidet das Landgericht nach dem 1. Januar 2023 über eine Beschwerde in einer Betreuungssache, hat es §§ 294 Abs. 3 Satz 2 und 295 Abs. 2 Satz 2 FamFG in de
+- [BGH, Beschluss vom 24.01.2024 - XII ZB 39/23](xii-zb-39-23.md) — Die Person des Beschwerdeführers muss bei Einlegung der Beschwerde aus der Rechtsmittelschrift selbst oder in Verbindung mit sonstigen Unterlagen oder Umständen
+- [BGH, Urteil vom 24.01.2024 - XII ZR 123/22](xii-zr-123-22.md) — 1. Zur Frage der Unmöglichkeit der von einem Beherbergungsbetrieb geschuldeten Leistung aufgrund eines im Vertragszeitraum geltenden Beherbergungsverbots zu tou
+- [BGH, Beschluss vom 24.01.2024 - XII ZR 81/22](xii-zr-81-22.md) — BGH, Beschluss XII ZR 81/22
+- [BGH, Beschluss vom 17.01.2024 - XII ZA 28/23](xii-za-28-23.md) — BGH, Beschluss XII ZA 28/23
+- [BGH, Beschluss vom 17.01.2024 - XII ZB 140/22](xii-zb-140-22.md) — 1. Zur nachträglichen Zulassung der Rechtsbeschwerde auf eine Gegenvorstellung. 2. Anrechte, die unter der Geltung des bis zum 31. August 2009 gültigen Versorgu
+- [BGH, Beschluss vom 17.01.2024 - XII ZB 334/23](xii-zb-334-23.md) — Notwendige Prüfung zur Sachkunde des Sachverständigen in Betreuungsverfahren
+- [BGH, Beschluss vom 17.01.2024 - XII ZB 434/23](xii-zb-434-23.md) — Voraussetzungen für eine betreuungsrechtliche Genehmigung der Unterbringung zur Gefahrenabwehr bzw. zur Heilbehandlung
+- [BGH, Beschluss vom 17.01.2024 - XII ZB 88/23](xii-zb-88-23.md) — 1. Die Glaubhaftmachung der vorübergehenden Unmöglichkeit der Einreichung eines Schriftsatzes als elektronisches Dokument bedarf einer aus sich heraus verständl
+- [BGH, Beschluss vom 10.01.2024 - XII ZB 217/23](xii-zb-217-23.md) — 1. Die Einrichtung oder Erweiterung der Betreuung mit einem anderen als dem gewünschten Betreuer widerspricht dem Willen des Betroffenen, wenn dieser sein Einve
+- [BGH, Beschluss vom 10.01.2024 - XII ZB 389/22](xii-zb-389-22.md) — Zur Behandlung geringfügiger Anrechte aus dem Zuschlag an Entgeltpunkten für langjährige Versicherung (sog. Grundrenten-Entgeltpunkte) im Versorgungsausgleich.
+- [BGH, Beschluss vom 10.01.2024 - XII ZB 510/23](xii-zb-510-23.md) — Der verfahrenskostenhilfebedürftige Rechtsmittelführer ist auch dann unverschuldet an der rechtzeitigen Einlegung des Rechtsmittels gehindert, wenn er ein wegen

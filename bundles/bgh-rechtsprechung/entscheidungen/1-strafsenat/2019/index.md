@@ -1,0 +1,181 @@
+# 1. Strafsenat – 2019
+
+177 Entscheidung(en).
+
+- [BGH, Urteil vom 19.12.2019 - 1 StR 182/19](1-str-182-19.md) — Betrug und Untreue durch einen Vermögensberater
+- [BGH, Urteil vom 19.12.2019 - 1 StR 293/19](1-str-293-19.md) — Erpressung: Mehrere Angriffe auf die Willensentschließung des Opfers als eine Tat; Ende der rechtlichen Bewertungseinheit; Voraussetzungen einer unrechtmäßigen 
+- [BGH, Beschluss vom 19.12.2019 - 1 StR 579/19](1-str-579-19.md) — Strafverurteilung wegen Vergewaltigung: Anwendbarkeit deutschen Strafrechts bei Auslieferung eines Angeklagten unter Verzicht auf den Spezialitätsgrundsatz
+- [BGH, Beschluss vom 18.12.2019 - 1 StR 402/19](1-str-402-19.md) — Betrug: Berechnung des Vermögensschadens bei Umschuldung eines Darlehens
+- [BGH, Beschluss vom 18.12.2019 - 1 StR 431/19](1-str-431-19.md) — Abgrenzung Selbstgeldwäsche von Beteiligung am Betrug in Zusammenhang mit dem Handel von Bitcoins
+- [BGH, Beschluss vom 18.12.2019 - 1 StR 553/19](1-str-553-19.md) — Abgabe geringer Betäubungsmittelmengen an Minderjährige
+- [BGH, Beschluss vom 18.12.2019 - 1 StR 570/19](1-str-570-19.md) — (Eigennützige Handlung bei Betäubungsmittelgeschäften: Entlohnung durch Übergabe von Eigenbedarfsmengen)
+- [BGH, Urteil vom 17.12.2019 - 1 StR 171/19](1-str-171-19.md) — Betrug: Täuschung durch Äußerung zur zukünftigen Unternehmensentwicklung; Täuschung über Wert der Unternehmensbeteiligung; Abgrenzung von aktiver konkludenter T
+- [BGH, Urteil vom 17.12.2019 - 1 StR 364/18](1-str-364-18.md) — (Anforderungen an den Vorsatz hinsichtlich einer nicht geringen Menge Betäubungsmittel)
+- [BGH, Beschluss vom 17.12.2019 - 1 StR 550/19](1-str-550-19.md) — Lückenhafte Beweiswürdigung bei fehlender Auseinandersetzung mit der Wahrnehmungs- und Erinnerungsfähigkeit der Geschädigten
+- [BGH, Beschluss vom 05.12.2019 - 1 StR 517/19](1-str-517-19.md) — (Nichtbescheiden eines Beweisantrags als Verfahrensfehler)
+- [BGH, Beschluss vom 04.12.2019 - 1 StR 470/19](1-str-470-19.md) — Unterbringung und Feststellung eines „Hangs“ in Revisionsinstanz bei Vortaten ohne Katalogqualifikation
+- [BGH, Beschluss vom 03.12.2019 - 1 StR 535/19](1-str-535-19.md) — Nachträgliche Gesamtstrafenbildung: Zeitpunkt der Zäsurwirkung; Fall der Beschlussfassung über einen auf die Tagessatzhöhe beschränkten Einspruch gegen einen St
+- [BGH, Beschluss vom 19.11.2019 - 1 StR 162/19](1-str-162-19.md) — Absoluter Revisionsgrund der Hauptverhandlung in Abwesenheit eines anwesenheitspflichtigen Verfahrensbeteiligten
+- [BGH, Beschluss vom 19.11.2019 - 1 StR 364/19](1-str-364-19.md) — Voraussetzungen der Anordnung eines Berufsverbots: Missbrauch von Beruf oder Gewerbe; Verabreichen von Medikamenten zur Betäubung von Missbrauchsopfern durch ei
+- [BGH, Beschluss vom 19.11.2019 - 1 StR 503/19](1-str-503-19.md) — Faires Verfahren: Durchführung des Revisionsverfahrens bei verwaltungsgerichtlicher Klage des Angeklagten gegen die Sperrerklärung eines V-Manns
+- [BGH, Beschluss vom 19.11.2019 - 1 StR 525/19](1-str-525-19.md) — Strafverurteilung wegen Beihilfe zum Betrug: Voraussetzungen der Einziehung von Taterträgen bei dem Gehilfen
+- [BGH, Beschluss vom 14.11.2019 - 1 StR 247/19](1-str-247-19.md) — Umsatzsteuerhinterziehung: Strafzumessungskriterien bei Beteiligung an Umsatzsteuerhinterziehungssystemen
+- [BGH, Beschluss vom 13.11.2019 - 1 StR 386/19](1-str-386-19.md) — Erpressungstatbestand: Bereicherungsabsicht bei vermeintlichem Anspruch auf die erstrebte Leistung
+- [BGH, Vorlagebeschluss vom 13.11.2019 - 1 StR 58/19](1-str-58-19.md) — BGH, Vorlagebeschluss 1 StR 58/19
+- [BGH, Beschluss vom 12.11.2019 - 1 StR 310/19](1-str-310-19.md) — Verschiedene Tätigkeiten als Bewertungseinheit beim Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 12.11.2019 - 1 StR 370/19](1-str-370-19.md) — Selbstjustiz eines Familienoberhaupts als Mordmerkmal ʺaus niedrigen Beweggründenʺ
+- [BGH, Urteil vom 31.10.2019 - 1 StR 219/17](1-str-219-17.md) — Versuchter Prozessbetrug: Tatbestandsmäßigkeit zivilprozessualer Falschangaben bei informatorischer Parteianhörung
+- [BGH, Beschluss vom 24.10.2019 - 1 StR 173/19](1-str-173-19.md) — Steuerstrafverfahren: Einziehung des Werts des Tatertrages nach Verjährung des Steueranspruchs
+- [BGH, Beschluss vom 24.10.2019 - 1 StR 393/19](1-str-393-19.md) — Strafklageverbrauch beim Einschleusen von Ausländern in Deutschland und einer bereits erfolgten Verurteilung in Bulgarien
+- [BGH, Beschluss vom 24.10.2019 - 1 StR 441/19](1-str-441-19.md) — Versuch einer gewerbsmäßigen Abgabe von Betäubungsmitteln an Minderjährige
+- [BGH, Beschluss vom 23.10.2019 - 1 StR 355/19](1-str-355-19.md) — (Konkurrenzen bei einer versuchten Tat und einer Bedrohung)
+- [BGH, Beschluss vom 23.10.2019 - 1 StR 444/19](1-str-444-19.md) — Betrug: Bestimmung der Höhe des Vermögensschadens bei einem Austauschvertrag mit auffälligem Missverhältnis von Leistung und Gegenleistung
+- [BGH, Beschluss vom 22.10.2019 - 1 StR 199/19](1-str-199-19.md) — Einziehung des Wertes von Taterträgen bei Hinterziehung von Verbrauch- und/oder Warensteuern: Unmittelbar messbarer wirtschaftlicher Vorteil; Begrenzung des Umf
+- [BGH, Beschluss vom 22.10.2019 - 1 StR 434/19](1-str-434-19.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Verschlechterungsverbot für Einzelstrafen und Einziehungsentscheidung
+- [BGH, Beschluss vom 22.10.2019 - 1 StR 91/19](1-str-91-19.md) — Erneuter Betäubungsmittelhandel nach Entwendung
+- [BGH, Beschluss vom 10.10.2019 - 1 ARs 14/19](1-ars-14-19.md) — Divergierende Ansicht zweier BGH-Senate zur Hinweispflicht auf die Rechtsfolge einer obligatorischen Einziehung
+- [BGH, Beschluss vom 10.10.2019 - 1 StR 113/19](1-str-113-19.md) — Anwesenheitsanspruch bei Revisionsverhandlung
+- [BGH, Beschluss vom 10.10.2019 - 1 StR 407/19](1-str-407-19.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei Bezahlung von Rauschgift aus einer vorhergehenden Lieferung
+- [BGH, Beschluss vom 10.10.2019 - 1 StR 413/19](1-str-413-19.md) — Berücksichtigung des Eigenkonsums beim Handeltreiben mit Betäubungsmitteln; Voraussetzungen des betäubungsmittelrechtlichen Aufklärungserfolgs
+- [BGH, Urteil vom 10.10.2019 - 1 StR 632/18](1-str-632-18.md) — Revisionsrechtliche Überprüfung einer Divergenz zwischen Strafausspruch im Tenor der Urteilsurkunde und der verkündeten Urteilsformel
+- [BGH, Urteil vom 09.10.2019 - 1 StR 170/19](1-str-170-19.md) — Erlangung: faktische Verfügungsgewalt oder transitorischer Erhalt
+- [BGH, Urteil vom 09.10.2019 - 1 StR 39/19](1-str-39-19.md) — Strafzumessung bei Formulierung des Fehlens mildernder Umstände
+- [BGH, Beschluss vom 09.10.2019 - 1 StR 395/19](1-str-395-19.md) — Höhe des eingetretenen Vermögensschadens beim Erschleichen von Pflege- und Rentenzahlungen
+- [BGH, Beschluss vom 09.10.2019 - 1 StR 400/19](1-str-400-19.md) — Ausschluss der Einziehung des Wertes von Taterträgen aufgrund eines Verzichts durch den Angeklagten
+- [BGH, Beschluss vom 09.10.2019 - 1 StR 545/18](1-str-545-18.md) — Pflicht zur Belehrung des Angeklagten über verständigungsbezogene Erörterung
+- [BGH, Beschluss vom 08.10.2019 - 1 StR 327/19](1-str-327-19.md) — Rechtsmittelrücknahmeerklärung durch Schuldunfähigen
+- [BGH, Beschluss vom 07.10.2019 - 1 StR 206/19](1-str-206-19.md) — Verhängung einer über 5-jährigen Jugendstrafe
+- [BGH, Beschluss vom 04.10.2019 - 1 StR 282/19](1-str-282-19.md) — Tatbestandsmerkmal der lebensgefährdenden Behandlung beim Einschleusens von Ausländern
+- [BGH, Beschluss vom 24.09.2019 - 1 StR 346/18](1-str-346-18.md) — 1. Vorsätzliches Handeln ist bei pflichtwidrig unterlassenem Abführen von Sozialversicherungsbeiträgen (§ 266a Abs. 1 und 2 StGB) nur dann anzunehmen, wenn der 
+- [BGH, Beschluss vom 19.09.2019 - 1 StR 235/19](1-str-235-19.md) — Schlussvortrag durch einen bereits als Zeugen vernommenen Staatsanwalt
+- [BGH, Urteil vom 18.09.2019 - 1 StR 129/19](1-str-129-19.md) — Einsatz von körperlicher Gewalt beim Raub: Abbremsen des Fahrzeugs des Geschädigten durch einen an der Ampel stehenbleibenden Pkw
+- [BGH, Urteil vom 18.09.2019 - 1 StR 320/18](1-str-320-18.md) — Anordnungsvoraussetzung für die selbständige Einziehung nach § 76a Abs. 4 StGB ist, dass zum Zeitpunkt der Sicherstellung bereits ein Verdacht wegen einer Katal
+- [BGH, Beschluss vom 17.09.2019 - 1 StR 240/19](1-str-240-19.md) — Umsatzsteuerhinterziehung: Voraussetzungen für den Vorsteuerabzug
+- [BGH, Beschluss vom 17.09.2019 - 1 StR 334/19](1-str-334-19.md) — (Vermögensschaden bei Übernahme eines Mandats trotz eines Berufsverbots)
+- [BGH, Beschluss vom 17.09.2019 - 1 StR 343/19](1-str-343-19.md) — Rücktritt vom Tötungsversuch: Anforderungen an die Darstellung des Vorstellungsbildes des Täters im Urteil
+- [BGH, Beschluss vom 17.09.2019 - 1 StR 379/19](1-str-379-19.md) — (Annahme von Tatmehrheit bei Steuererklärungen über verschiedene Steuerarten)
+- [BGH, Beschluss vom 05.09.2019 - 1 StR 12/19](1-str-12-19.md) — Steuerverkürzung: Berücksichtigung von Schwarzlöhnen bei der Strafzumessung; Schätzung der Besteuerungsgrundlagen
+- [BGH, Beschluss vom 05.09.2019 - 1 StR 99/19](1-str-99-19.md) — Bestechlichkeit im geschäftlichen Verkehr: Einziehung ersparter Einkommensteuer auf Schmiergelder
+- [BGH, Beschluss vom 04.09.2019 - 1 StR 579/18](1-str-579-18.md) — Unerlaubtes Betreiben eines Versicherungsgeschäfts: Vorliegen eines Versicherungsgeschäft; Tätervorsatz; Betreibereigenschaft
+- [BGH, Beschluss vom 03.09.2019 - 1 ARs 13/19](1-ars-13-19.md) — BGH, Beschluss 1 ARs 13/19
+- [BGH, Beschluss vom 03.09.2019 - 1 StR 300/19](1-str-300-19.md) — Betäubungsmittelhandel bei Waffenmitführung während Tatteil
+- [BGH, Beschluss vom 27.08.2019 - 1 StR 586/18](1-str-586-18.md) — (Wesentliche Aufklärungshilfe bei voriger Selbstanzeige eines anderen Beteiligten)
+- [BGH, Beschluss vom 22.08.2019 - 1 StR 205/19](1-str-205-19.md) — Beuteverteilung bei der Hehlerei durch eine Kontoüberweisung
+- [BGH, Beschluss vom 22.08.2019 - 1 StR 267/19](1-str-267-19.md) — Serienbetrug: Konkurrenzverhältnisse bei mehreren Beihilfeakten
+- [BGH, Beschluss vom 22.08.2019 - 1 StR 352/19](1-str-352-19.md) — Einziehungsentscheidung bei schuldunfähigen Tätern: Sicherungsverfahren; Anforderungen an einen Antrag auf selbstständige Einziehung
+- [BGH, Beschluss vom 21.08.2019 - 1 StR 191/19](1-str-191-19.md) — Versuch einer Körperverletzung mit Todesfolge
+- [BGH, Urteil vom 21.08.2019 - 1 StR 218/19](1-str-218-19.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Vorsätzliches Handeln des Drogenkuriers hinsichtlich des Transports der ta
+- [BGH, Beschluss vom 21.08.2019 - 1 StR 225/19](1-str-225-19.md) — „Erlangung“ von verkürzter Tabaksteuer i.S.d. Einziehungsvorschriften
+- [BGH, Beschluss vom 20.08.2019 - 1 StR 184/19](1-str-184-19.md) — Umsatzsteuerhinterziehung: Wegfall der Berechtigung zum Vorsteuerabzug
+- [BGH, Urteil vom 20.08.2019 - 1 StR 209/19](1-str-209-19.md) — Vorliegen eines minder schweren Falls bei Betäubungsmitteldelikten
+- [BGH, Beschluss vom 08.08.2019 - 1 StR 204/19](1-str-204-19.md) — Tötung in Mittäterschaft: Anforderungen an die Beweiswürdigung hinsichtlich des Tötungsvorsatzes
+- [BGH, Beschluss vom 08.08.2019 - 1 StR 214/19](1-str-214-19.md) — Urteilstenor bei gewerbsmäßigem Bandenbetrug
+- [BGH, Beschluss vom 08.08.2019 - 1 StR 295/19](1-str-295-19.md) — (Verstoß gegen die Belehrungspflicht bei einer Verständigung)
+- [BGH, Beschluss vom 08.08.2019 - 1 StR 679/18](1-str-679-18.md) — Hinterziehung von Tabaksteuer: Einziehung der für Transportfahrten gezahlten Entlohnung
+- [BGH, Beschluss vom 08.08.2019 - 1 StR 87/19](1-str-87-19.md) — Steuerhinterziehung: Schätzung der Besteuerungsgrundlagen hinsichtlich der "Schwarzumsätze" eines Restaurants
+- [BGH, Beschluss vom 07.08.2019 - 1 StR 57/19](1-str-57-19.md) — Verlesen eines ärztlichen Attests in der Hauptverhandlung
+- [BGH, Beschluss vom 06.08.2019 - 1 ARs 4/19](1-ars-4-19.md) — Nebenklage im Strafverfahren: Kostentragung bei Verwerfung der vom Nebenkläger eingelegten Revision
+- [BGH, Beschluss vom 25.07.2019 - 1 StR 230/19](1-str-230-19.md) — Beihilfe zur Steuerhinterziehung: Fördern mehrerer rechtlich selbstständiger Taten
+- [BGH, Beschluss vom 25.07.2019 - 1 StR 270/19](1-str-270-19.md) — Strafverfahren: Anforderungen an die Inhaltsanalyse einer wesentlichen Belastungsaussage
+- [BGH, Beschluss vom 25.07.2019 - 1 StR 273/17](1-str-273-17.md) — Unerlaubtes Handelstreiben und unerlaubte Einfuhr von Arzneimitteln und Steuerhinterziehung: Konkurrenzverhältnis und Verfallsentscheidung nach altem Recht
+- [BGH, Beschluss vom 25.07.2019 - 1 StR 556/18](1-str-556-18.md) — Steuerhinterziehung: Konkurrenzverhältnis zwischen Umsatzsteuervoranmeldung und -jahreserklärung; Umsatzsteuernachschau als Sperrgrund für Selbstanzeigen
+- [BGH, Beschluss vom 24.07.2019 - 1 StR 185/19](1-str-185-19.md) — Hinweispflicht bei Annahme anderer subjektiver Tatbestandsmerkmale
+- [BGH, Beschluss vom 24.07.2019 - 1 StR 363/18](1-str-363-18.md) — Aberkennungsentscheidung gegenüber einem Landtagsabgeordneten wegen Steuerhinterziehung
+- [BGH, Beschluss vom 24.07.2019 - 1 StR 44/19](1-str-44-19.md) — Steuerhinterziehung des Betreibers eines Döner-Imbisses: Tatmehrheit bei mehreren Steuererklärung betreffend verschiedene Steuerarten und Veranlagungszeiträume;
+- [BGH, Beschluss vom 24.07.2019 - 1 StR 59/19](1-str-59-19.md) — Steuerhinterziehung: Feststellungen zu Besteuerungsgrundlagen des Ausgangsumsatzes durch Gericht erforderlich
+- [BGH, Beschluss vom 24.07.2019 - 1 StR 656/18](1-str-656-18.md) — Pflicht zur Dokumentation von Verständigungsgesprächen
+- [BGH, Urteil vom 23.07.2019 - 1 StR 107/18](1-str-107-18.md) — Um den sozialen Bedeutungsgehalt der Bedenklichkeit eines Arzneimittels zu erfassen, bedarf es auch der Kenntnis der tatsächlichen Umstände, die für die Abwägun
+- [BGH, Beschluss vom 23.07.2019 - 1 StR 169/19](1-str-169-19.md) — (Zustimmung des Angeklagten zu einem Verständigungsvorschlag)
+- [BGH, Beschluss vom 23.07.2019 - 1 StR 197/19](1-str-197-19.md) — Beihilfe zur Steuerhinterziehung: Strafrahmenverschiebung bei fehlender steuerlicher Erklärungspflicht des Gehilfen
+- [BGH, Beschluss vom 23.07.2019 - 1 StR 2/19](1-str-2-19.md) — Verständigungen im Strafverfahren: Vorliegen eines mitteilungspflichtigen Verständigungsgesprächs
+- [BGH, Urteil vom 23.07.2019 - 1 StR 433/18](1-str-433-18.md) — Einstufung von in ihrer Funktion beeinträchtigter Waffen als Kriegswaffen
+- [BGH, Beschluss vom 23.07.2019 - 1 StR 62/19](1-str-62-19.md) — Unterbliebene Anordnung der Unterbringung in Entziehungsanstalt bei naheliegendem Hang
+- [BGH, Beschluss vom 11.07.2019 - 1 StR 154/19](1-str-154-19.md) — Steuerhinterziehung: Strafverfolgungsverjährung bei Gewerbesteuerbescheiden
+- [BGH, Beschluss vom 11.07.2019 - 1 StR 253/19](1-str-253-19.md) — (Begründung der Gefährlichkeitsprognose bei einer Unterbringung nach § 63 StGB)
+- [BGH, Beschluss vom 11.07.2019 - 1 StR 456/18](1-str-456-18.md) — (Erforderliche Feststellungen bei einer Beitragsvorenthaltung)
+- [BGH, Beschluss vom 11.07.2019 - 1 StR 467/18](1-str-467-18.md) — Neuregelung der Vermögensabschöpfung: Anfrage zur Anordnung der Einziehung des Wertes von Taterträgen in Jugendstrafverfahren
+- [BGH, Urteil vom 11.07.2019 - 1 StR 620/18](1-str-620-18.md) — Ein der Einziehung unterliegender wirtschaftlicher Vorteil liegt bei einer Hinterziehung von Tabaksteuer nur vor, soweit sich die im Wert der Tabakwaren verkörp
+- [BGH, Urteil vom 11.07.2019 - 1 StR 634/18](1-str-634-18.md) — Anstiftungshandlungen, die auf eine Verbringung von mit Verbrauchsteuern belasteten Waren gerichtet sind, an denen der Täter eine Steuerhehlerei begeht, sind re
+- [BGH, Urteil vom 11.07.2019 - 1 StR 683/18](1-str-683-18.md) — Konkurrenzrechtliche Beurteilung mehrerer Vermögensdelikte: Diebstahl, Bandendiebstahl und Unterschlagung
+- [BGH, Beschluss vom 11.07.2019 - 1 StR 94/19](1-str-94-19.md) — Strafzumessung: Wesentlichkeit der Aufklärungshilfe
+- [BGH, Urteil vom 10.07.2019 - 1 StR 265/18](1-str-265-18.md) — Tatmehrheitliche Begehung einer Umsatz- und Gewerbesteuerhinterziehung; gerichtliche Schätzung der Besteuerungsgrundlagen
+- [BGH, Beschluss vom 09.07.2019 - 1 StR 192/19](1-str-192-19.md) — Anrechnung einer erfüllten Bewährungsauflage
+- [BGH, Beschluss vom 27.06.2019 - 1 StR 112/19](1-str-112-19.md) — Tatrichterliche Begründung einer Gefahrenprognose bei Unterbringung in psychiatrischem Krankenhaus
+- [BGH, Beschluss vom 27.06.2019 - 1 StR 203/19](1-str-203-19.md) — Berücksichtigung nicht abgeurteilter Straftaten bei Prognoseentscheidung
+- [BGH, Beschluss vom 27.06.2019 - 1 StR 238/19](1-str-238-19.md) — Feststellung der Schuldschwere bei nicht erwiesener Heimtücke im Rahmen der Tötung
+- [BGH, Beschluss vom 27.06.2019 - 1 StR 612/18](1-str-612-18.md) — (Anforderungen an die Begründung der Ermessensentscheidung über die Anordnung der Sicherungsverwahrung)
+- [BGH, Beschluss vom 26.06.2019 - 1 StR 551/18](1-str-551-18.md) — (Vermögensnachteilsgleiche Vermögensgefährdung durch Abschluss wirtschaftlich nachteiliger Verträge)
+- [BGH, Beschluss vom 25.06.2019 - 1 StR 181/19](1-str-181-19.md) — Strafzumessung bei der unerlaubten Einfuhr von 98,70 Gramm Methamphetamin mit einem Wirkstoffgehalt von 79 %
+- [BGH, Beschluss vom 06.06.2019 - 1 StR 190/19](1-str-190-19.md) — Strafverfahren: Relativer Revisionsgrund bei Hinzuziehung eines nicht ordnungsgemäß vereidigten Dolmetschers
+- [BGH, Beschluss vom 06.06.2019 - 1 StR 75/19](1-str-75-19.md) — Einziehung des Vermögensvorteils einer Steuerstraftat bei Beteiligung einer Gesellschaft
+- [BGH, Beschluss vom 05.06.2019 - 1 StR 208/19](1-str-208-19.md) — Bei der Hinterziehung von Umsatzsteuer im Rahmen einer Scheinlieferbeziehung kommt eine Einziehung des Wertes von Taterträgen (§ 73 Abs. 1, § 73c StGB) in Höhe 
+- [BGH, Beschluss vom 05.06.2019 - 1 StR 223/19](1-str-223-19.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Anforderungen an das Vorliegen einer Bande
+- [BGH, Beschluss vom 05.06.2019 - 1 StR 34/19](1-str-34-19.md) — Ein wirksamer Rücktritt vom Versuch der räuberischen Erpressung mit Todesfolge (§§ 251, 255, 22 StGB) durch Verhinderung der Todesfolge gemäß § 24 Abs. 1 Satz 1
+- [BGH, Beschluss vom 04.06.2019 - 1 StR 454/17](1-str-454-17.md) — Höhe der pauschalen Terminsgebühr für eine Revisionshauptverhandlung in einer Steuerstrafsache
+- [BGH, Urteil vom 04.06.2019 - 1 StR 585/17](1-str-585-17.md) — Freispruch im Strafverfahren: Anforderungen an die Beweiswürdigung; Umfang und Bedeutung des Zweifelssatzes
+- [BGH, Beschluss vom 23.05.2019 - 1 StR 127/19](1-str-127-19.md) — Strafverfahren wegen gewerbsmäßiger Steuerhehlerei und Hinterziehung von Tabaksteuer: Reduzierung der steuerlichen Erklärungspflichten durch den Grundsatz der S
+- [BGH, Beschluss vom 23.05.2019 - 1 StR 479/18](1-str-479-18.md) — Vermögensabschöpfung bei Steuerstraftaten
+- [BGH, Beschluss vom 22.05.2019 - 1 StR 651/18](1-str-651-18.md) — Erfordernis der tatrichterlichen Aufklärung und Darstellung einer erheblichen Einschränkung der Steuerungsfähigkeit
+- [BGH, Beschluss vom 22.05.2019 - 1 StR 79/19](1-str-79-19.md) — Auswertung molekulargenetischer Vergleichsgutachten bei Vorliegen von Mischspuren
+- [BGH, Beschluss vom 21.05.2019 - 1 StR 114/19](1-str-114-19.md) — Strafschärfende Berücksichtigung der Mittäterschaft bei bandenmäßiger Begehung
+- [BGH, Beschluss vom 21.05.2019 - 1 StR 159/19](1-str-159-19.md) — Steuerhinterziehung: Anforderungen an die Berechnungsdarstellung der hinterzogenen Steuern in den Urteilsgründen
+- [BGH, Beschluss vom 21.05.2019 - 1 StR 178/19](1-str-178-19.md) — Friedensstiftende Akzeptanz eines Vergleichs im Adhäsionsverfahren
+- [BGH, Beschluss vom 21.05.2019 - 1 StR 92/19](1-str-92-19.md) — Strafrahmenverschiebung für Gehilfen einer Steuerhinterziehung
+- [BGH, Beschluss vom 21.05.2019 - 1 StR 98/19](1-str-98-19.md) — Einziehungsanordnung im Strafurteil: Anforderungen an die konkrete Bezeichnung der einzuziehenden Gegenstände
+- [BGH, Beschluss vom 09.05.2019 - 1 StR 167/19](1-str-167-19.md) — Zulässigkeit einer Bezugnahme auf eine dem Urteil nicht beigefügte Anlage
+- [BGH, Beschluss vom 09.05.2019 - 1 StR 19/19](1-str-19-19.md) — Rechtlicher Vergleich der Beihilfehandlungen zu Verschaffung und Absatz
+- [BGH, Urteil vom 09.05.2019 - 1 StR 688/18](1-str-688-18.md) — Gerichtliche Hinweispflicht auf eine geänderte Sachlage
+- [BGH, Beschluss vom 08.05.2019 - 1 StR 242/18](1-str-242-18.md) — Einkommenssteuerhinterziehung: Bestimmung des Umfangs der Steuerverkürzungen
+- [BGH, Beschluss vom 08.05.2019 - 1 StR 76/19](1-str-76-19.md) — (Versuch einer Anstiftung zur Begehung eines Verbrechens)
+- [BGH, Beschluss vom 07.05.2019 - 1 StR 150/19](1-str-150-19.md) — Niedrige Beweggründe bei Tötung eines sich abwendenden Ehepartners
+- [BGH, Beschluss vom 07.05.2019 - 1 StR 8/19](1-str-8-19.md) — Einschleusen von Ausländern auf der Ladefläche eines Sattelzuges: Vorliegen der Qualifikationsmerkmale einer Gefahr für das Leben der Geschleusten und der Gefah
+- [BGH, Beschluss vom 07.05.2019 - 1 StR 80/19](1-str-80-19.md) — Minder schwerer Fall des Handeltreibens mit Betäubungsmitteln bei Verfügbarkeit eines Baseballschlägers
+- [BGH, Beschluss vom 26.04.2019 - 1 StR 37/19](1-str-37-19.md) — Zueignungsabsicht bei Raub mit Ziel einer Inhaftierung
+- [BGH, Beschluss vom 26.04.2019 - 1 StR 471/18](1-str-471-18.md) — Strafmilderung bei hinreichendem Aufklärungsbeitrag eines Tatbeteiligten; Zulässigkeit einer Einziehungsentscheidung ohne vorherigen Hinweis
+- [BGH, Beschluss vom 25.04.2019 - 1 StR 427/18](1-str-427-18.md) — Strafbare Untreue des Kämmerers einer großen Kreisstadt unter Verletzung der Vermögensbetreuungspflicht: Anforderungen an die Urteilsfeststellungen zum Vermögen
+- [BGH, Beschluss vom 25.04.2019 - 1 StR 54/19](1-str-54-19.md) — (Einziehung bei Einstellung eines Verfahrens nach § 154 Abs. 2 StPO)
+- [BGH, Beschluss vom 25.04.2019 - 1 StR 665/18](1-str-665-18.md) — Strafverfahren: Identität zwischen angeklagter und abgeurteilter Tat
+- [BGH, Beschluss vom 24.04.2019 - 1 StR 153/19](1-str-153-19.md) — Tatsächliche Verständigung vor Aussetzung der Hauptverhandlung
+- [BGH, Urteil vom 24.04.2019 - 1 StR 81/18](1-str-81-18.md) — Nur der vor Beendigung des Verbringungsvorgangs erlangte Besitz an unversteuerten Tabakwaren kann die Strafbarkeit wegen Steuerhinterziehung gemäß § 370 Abs. 1 
+- [BGH, Beschluss vom 11.04.2019 - 1 StR 91/18](1-str-91-18.md) — Wiedereinsetzung in den vorigen Stand: Heilung von Zulässigkeitsmängeln von fristgemäß erhobenen Verfahrensrügen
+- [BGH, Urteil vom 10.04.2019 - 1 StR 646/18](1-str-646-18.md) — Beweiswürdigung im Zusammenhang mit dem Rücktritt vom versuchten Totschlag
+- [BGH, Beschluss vom 10.04.2019 - 1 StR 668/18](1-str-668-18.md) — Tatrichterliche Überzeugungsbildung: Erforderliche Darlegungen im Strafurteil bei Anschluss des Tatgerichts an die Ausführungen des Sachverständigen hinsichtlic
+- [BGH, Beschluss vom 09.04.2019 - 1 StR 21/19](1-str-21-19.md) — Unerlaubtes gewerbsmäßiges Handeltreiben und unerlaubte gewerbsmäßige Abgabe von Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis
+- [BGH, Beschluss vom 09.04.2019 - 1 StR 673/18](1-str-673-18.md) — Unerlaubtes Betreiben von Bankgeschäften: Konkurrenzverhältnis bei einheitlicher Geschäftsorganisation und kontinuierlichem Tatentschluss
+- [BGH, Beschluss vom 28.03.2019 - 1 StR 10/19](1-str-10-19.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die anzustellende Gefahrprognose
+- [BGH, Beschluss vom 28.03.2019 - 1 StR 598/18](1-str-598-18.md) — Unerlaubter Handel und Besitz von Betäubungsmitteln in nicht geringer Menge: Beihilfe des Wohnungsinhabers
+- [BGH, Beschluss vom 28.03.2019 - 1 StR 633/18](1-str-633-18.md) — Rüge zu kurzfristiger Überlassung eines Schriftstücks
+- [BGH, Beschluss vom 26.03.2019 - 1 StR 677/18](1-str-677-18.md) — Strafzumessung: Überprüfung des Vorliegens eines minder schweren Falls durch das Rechtsmittelgericht
+- [BGH, Beschluss vom 26.03.2019 - 1 StR 684/18](1-str-684-18.md) — Schwere seelische Abartigkeit als Indiz für Beeinträchtigung des Steuerungsvermögens
+- [BGH, Beschluss vom 21.03.2019 - 1 StR 582/18](1-str-582-18.md) — (Unterbringung in einer Entziehungsanstalt: Begriff des Hangs)
+- [BGH, Beschluss vom 14.03.2019 - 1 StR 259/18](1-str-259-18.md) — (Strafmilderung bei Beteiligung an einem Bankrott)
+- [BGH, Urteil vom 13.03.2019 - 1 StR 367/18](1-str-367-18.md) — Steuerhinterziehung: Verhängung einer zusätzlichen Geldstrafe neben einer Freiheitsstrafe bei Hinterziehung in Millionenhöhe
+- [BGH, Urteil vom 13.03.2019 - 1 StR 424/18](1-str-424-18.md) — Erpresserischer Menschenraub: Sich-Bemächtigen in Raubabsicht; verminderte Schuldfähigkeit bei Spielsucht des Angeklagten
+- [BGH, Beschluss vom 13.03.2019 - 1 StR 50/19](1-str-50-19.md) — Beihilfe zur Steuerhinterziehung durch Unterlassen: Steuerrechtliche Erklärungspflicht als besonderes persönliches Merkmal
+- [BGH, Beschluss vom 13.03.2019 - 1 StR 520/18](1-str-520-18.md) — (Beweiswürdigung in Bezug auf die Annahme einer Geschäftsleitung im Inland)
+- [BGH, Beschluss vom 13.03.2019 - 1 StR 532/18](1-str-532-18.md) — Mitwirkung eines Scheinverteidigers als absoluter Revisionsgrund
+- [BGH, Beschluss vom 13.03.2019 - 1 StR 636/18](1-str-636-18.md) — Beihilfe zur Steuerhinterziehung durch Unterlassen: Steuerrechtliche Erklärungspflicht als besonderes persönliches Merkmal
+- [BGH, Beschluss vom 28.02.2019 - 1 StR 26/19](1-str-26-19.md) — Nachträgliche Gesamtstrafenbildung: Aufrechterhaltung von Einziehungsanordnungen
+- [BGH, Urteil vom 28.02.2019 - 1 StR 604/17](1-str-604-17.md) — Revision im Strafverfahren: Rüge der Ablehnung des Antrags auf Vernehmung eines bereits angehörten Zeugen; Ungeeignetheit des Beweismittels im Fall einer angekü
+- [BGH, Beschluss vom 26.02.2019 - 1 StR 14/19](1-str-14-19.md) — Strafrahmenwahl bei minder schweren Fällen neben gesetzlich vertypten Milderungsgründen
+- [BGH, Beschluss vom 26.02.2019 - 1 StR 614/18](1-str-614-18.md) — Zurechnung der tatfördernden Wirkung einer Persönlichkeitsstörung
+- [BGH, Beschluss vom 07.02.2019 - 1 StR 11/19](1-str-11-19.md) — Vergewaltigung eines 14-jährigen Mädchens während des Tiefschlafs: Objektive und subjektive Verwirklichung des Qualifikationsmerkmals des Herbeiführens der Gefa
+- [BGH, Beschluss vom 07.02.2019 - 1 StR 484/18](1-str-484-18.md) — (Anforderungen an die gerichtlichen Feststellungen bei einer Verurteilung wegen Steuerhinterziehung)
+- [BGH, Beschluss vom 07.02.2019 - 1 StR 485/18](1-str-485-18.md) — Verurteilung wegen Steuerhinterziehung: Anforderungen an die Urteilsgründe bei unberechtigtem Steuerausweis
+- [BGH, Beschluss vom 07.02.2019 - 1 StR 642/18](1-str-642-18.md) — Unterbringung in einer Entziehungsanstalt: Absehen von der Anordnung bei einem Ausländer
+- [BGH, Urteil vom 06.02.2019 - 1 StR 499/18](1-str-499-18.md) — Strafurteil des Tatgerichts: Anforderungen an die Darstellung der Ergebnisse von DNA-Vergleichsuntersuchungen bei Vorliegen von Mischspuren
+- [BGH, Beschluss vom 24.01.2019 - 1 StR 564/18](1-str-564-18.md) — Mitteilungsanforderungen bei molekulargenetischem Vergleichsgutachten
+- [BGH, Beschluss vom 24.01.2019 - 1 StR 591/18](1-str-591-18.md) — Strafzumessung: Notwendige Feststellungen zu einem Täter-Opfer-Ausgleich
+- [BGH, Beschluss vom 23.01.2019 - 1 StR 448/18](1-str-448-18.md) — Rechtsfehlerhafte Feststellungen des Tatgerichts zu Alkoholisierung und Schuldfähigkeit des Täters zum Tatzeitpunkt
+- [BGH, Beschluss vom 23.01.2019 - 1 StR 450/18](1-str-450-18.md) — Anforderungen an die Feststellungen in den Urteilsgründen bei einer Beihilfe zur Steuerhinterziehung
+- [BGH, Beschluss vom 23.01.2019 - 1 StR 666/17](1-str-666-17.md) — Revisionsentscheidung in Strafsachen durch Beschluss außerhalb der Hauptverhandlung: Letzter Zeitpunkt für die Anbringung eines Ablehnungsgesuchs
+- [BGH, Urteil vom 22.01.2019 - 1 StR 445/18](1-str-445-18.md) — Würdigung von widersprüchlichen Gutachten zur Steuerungsfähigkeit durch Tatgericht
+- [BGH, Beschluss vom 22.01.2019 - 1 StR 585/18](1-str-585-18.md) — Herausforderung eines provozierten Totschlags
+- [BGH, Beschluss vom 21.01.2019 - 1 StR 475/18](1-str-475-18.md) — Kleinverkaufspreis für geschmuggelte Zigaretten bei der Steuerhehlerei
+- [BGH, Beschluss vom 10.01.2019 - 1 StR 311/17](1-str-311-17.md) — Geldwäsche: Verwertung des vom Vortäter ursprünglich Erlangten; leichtfertiges Handeln
+- [BGH, Urteil vom 10.01.2019 - 1 StR 347/18](1-str-347-18.md) — Vorsatz bei Steuerhinterziehung bei fraglicher treuhänderischer Verwaltung von Vermögen
+- [BGH, Beschluss vom 10.01.2019 - 1 StR 461/18](1-str-461-18.md) — Anordnung der Sicherungsverwahrung bei einem untherapierten einschlägig vorbestraften Sexualstraftäter mit pädophilen Neigungen
+- [BGH, Urteil vom 10.01.2019 - 1 StR 463/18](1-str-463-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Sexueller Missbrauch von Kindern durch exhibitionistische Handlungen
+- [BGH, Beschluss vom 10.01.2019 - 1 StR 574/18](1-str-574-18.md) — Verminderung der Schuldfähigkeit wegen Pädophilie
+- [BGH, Beschluss vom 10.01.2019 - 1 StR 640/18](1-str-640-18.md) — Betäubungsmittelhandel bei einmaliger Vermittlung eines Betäubungsmittelgeschäfts
+- [BGH, Beschluss vom 09.01.2019 - 1 StR 602/18](1-str-602-18.md) — Verstoß gegen das strafzumessungsrechtliche Doppelverwertungsverbot beim Handeltreiben mit Betäubungsmitteln

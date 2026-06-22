@@ -1,0 +1,113 @@
+# V. Zivilsenat – 2024
+
+109 Entscheidung(en).
+
+- [BGH, Urteil vom 20.12.2024 - V ZR 243/23](v-zr-243-23.md) — 1. Grundsätzlich kann jeder Wohnungseigentümer von der Gemeinschaft der Wohnungseigentümer die erstmalige Errichtung des Gemeinschaftseigentums verlangen. Bei e
+- [BGH, Urteil vom 20.12.2024 - V ZR 277/23](v-zr-277-23.md) — 1a. Teilt ein Grundstückseigentümer, dem die Begründung von Wohnungs- oder Teileigentum mit Blick auf eine im Aufstellungsverfahren befindliche Erhaltungssatzun
+- [BGH, Urteil vom 20.12.2024 - V ZR 41/23](v-zr-41-23.md) — 1. Hängt die Fälligkeit des Kaufpreises in einem Grundstückskaufvertrag davon ab, dass der Verkäufer die Lastenfreistellung sichergestellt hat (sog. Direktzahlu
+- [BGH, Beschluss vom 19.12.2024 - V ZB 71/23](v-zb-71-23.md) — Rechtsbeschwerdeverfahren: Streitwert bei Berufungseinlegung gegen die Duldungspflicht für eine Mauer
+- [BGH, Beschluss vom 19.12.2024 - V ZB 77/23](v-zb-77-23.md) — 1. Die Fortsetzung des Verfahrens im Sinne von § 95 ZVG setzt voraus, dass das Versteigerungsverfahren zuvor eingestellt oder aufgehoben war; infolgedessen kann
+- [BGH, Beschluss vom 12.12.2024 - V ZR 80/24](v-zr-80-24.md) — BGH, Beschluss V ZR 80/24
+- [BGH, Urteil vom 06.12.2024 - V ZR 159/23](v-zr-159-23.md) — Wird in einem Grundstücksüberlassungsvertrag der Anspruch des Veräußerers auf Rückübertragung des Grundstücks als „höchstpersönlich“ bezeichnet, hindert dies re
+- [BGH, Urteil vom 06.12.2024 - V ZR 229/23](v-zr-229-23.md) — 1. Der allgemeine Sprachgebrauch ist als allgemeiner Erfahrungssatz revisibel. 2. Es gibt keinen allgemeinen Sprachgebrauch des Inhalts, dass unter einem in ein
+- [BGH, Beschluss vom 28.11.2024 - V ZB 24/23](v-zb-24-23.md) — Eintragungshindernis bezüglich der Teilung von Eigentum
+- [BGH, Urteil vom 15.11.2024 - V ZR 239/23](v-zr-239-23.md) — 1. Ist die Kostenverteilung durch gültigen Beschluss geändert worden, muss der geänderte Kostenverteilungsschlüssel in nachfolgenden Wirtschaftsplänen bzw. Jahr
+- [BGH, Beschluss vom 08.11.2024 - V ZR 163/22](v-zr-163-22.md) — BGH, Beschluss V ZR 163/22
+- [BGH, Beschluss vom 07.11.2024 - V ZA 4/24](v-za-4-24.md) — Prozesskostenhilfe: Allgemeines Interesse einer juristischen Person
+- [BGH, Beschluss vom 07.11.2024 - V ZB 6/24](v-zb-6-24.md) — Die Beschwerde gegen die Zurückweisung eines Grundbuchberichtigungsantrags, der auf die ursprüngliche Unrichtigkeit einer unter dem Schutz des öffentlichen Glau
+- [BGH, Beschluss vom 07.11.2024 - V ZR 278/23](v-zr-278-23.md) — BGH, Beschluss V ZR 278/23
+- [BGH, Beschluss vom 07.11.2024 - V ZR 6/24](v-zr-6-24.md) — BGH, Beschluss V ZR 6/24
+- [BGH, Beschluss vom 31.10.2024 - V ZR 264/23](v-zr-264-23.md) — Nichtzulassungsbeschwerde: Anwaltliches Antragsrecht auf Streitwertfestsetzung bei unbeschränktem Rechtsmittelauftrag und beschränkter Rechtsmitteleinlegung
+- [BGH, Urteil vom 25.10.2024 - V ZR 17/24](v-zr-17-24.md) — In wohnungseigentumsrechtlichen Beschlussanfechtungsverfahren trifft den Kläger die Obliegenheit, bei Verzögerungen der Klagezustellung spätestens innerhalb ein
+- [BGH, Beschluss vom 23.10.2024 - V ZB 50/23](v-zb-50-23.md) — Anforderungen an eine Mitteilung der Verhandlungsunfähigkeit bei starken Zahnschmerzen des Rechtsanwalts
+- [BGH, Beschluss vom 23.10.2024 - V ZR 10/24](v-zr-10-24.md) — BGH, Beschluss V ZR 10/24
+- [BGH, Beschluss vom 23.10.2024 - V ZR 52/24](v-zr-52-24.md) — Wert der Beschwer bei einer Anfechtungsklage gegen WEG-Beschlüsse
+- [BGH, Urteil vom 11.10.2024 - V ZR 22/24](v-zr-22-24.md) — Eine bauliche Veränderung (hier: Gedenkstein) gestaltet die Wohnanlage nicht grundlegend um, wenn sie mit einer in der Gemeinschaftsordnung enthaltenen spezifis
+- [BGH, Urteil vom 11.10.2024 - V ZR 261/23](v-zr-261-23.md) — 1. Das Fehlen der nach § 130a Abs. 3 ZPO erforderlichen einfachen Signatur einer auf einem sicheren Übermittlungsweg als elektronisches Dokument eingereichten K
+- [BGH, Beschluss vom 10.10.2024 - V ZB 55/23](v-zb-55-23.md) — BGH, Beschluss V ZB 55/23
+- [BGH, Beschluss vom 07.10.2024 - V ZR 85/24](v-zr-85-24.md) — BGH, Beschluss V ZR 85/24
+- [BGH, Urteil vom 27.09.2024 - V ZR 21/24](v-zr-21-24.md) — Bei dem Verstoß des Erbbauberechtigten gegen die ihn nach dem Erbbaurechtsvertrag treffende Verpflichtung, das von ihm errichtete Bauwerk in einem guten baulich
+- [BGH, Urteil vom 27.09.2024 - V ZR 48/23](v-zr-48-23.md) — Vorrang des dinglichen Vorkaufsrechts eines Familienangehörigen vor dem gesetzlichen Mietervorkaufsrecht
+- [BGH, Beschluss vom 26.09.2024 - V ZB 8/24](v-zb-8-24.md) — Die Teilungsversteigerung findet nur statt in Bezug auf Grundstücke im Rechtssinn, die im Bestandsverzeichnis eines Grundbuchblatts unter einer besonderen Numme
+- [BGH, Urteil vom 20.09.2024 - V ZR 123/23](v-zr-123-23.md) — 1. Unter den während der Corona-Pandemie zeitweise geltenden landesrechtlichen Vorgaben von "2G" durfte eine Eigentümerversammlung stattfinden. Der Verwalter mu
+- [BGH, Urteil vom 20.09.2024 - V ZR 195/23](v-zr-195-23.md) — Fehler der einem Beschluss nach § 28 Abs. 2 Satz 1 WEG zugrunde liegenden Jahresabrechnung können nur dann zu einer gerichtlichen Ungültigerklärung führen, wenn
+- [BGH, Urteil vom 20.09.2024 - V ZR 235/23](v-zr-235-23.md) — 1. Eine im Wohnungseigentumsgesetz oder in einer Vereinbarung vorgesehene Beschlusskompetenz der Wohnungseigentümer umfasst sowohl die erste Beschlussfassung al
+- [BGH, Beschluss vom 19.09.2024 - V ZB 29/23](v-zb-29-23.md) — 1. Bei der Zuschlagsbeschwerde nach dem Zwangsversteigerungsgesetz kann die Zulassung der Rechtsbeschwerde auf einzelne Zuschlagsversagungsgründe beschränkt wer
+- [BGH, Beschluss vom 19.09.2024 - V ZB 66/23](v-zb-66-23.md) — Genehmigung der Teilung bestehender Wohngebäude; angemessene Frist zur Hebung eines Eintragungshindernisses
+- [BGH, Beschluss vom 16.08.2024 - V ZR 244/17](v-zr-244-17.md) — Zuständigkeit für Entscheidungen über Prozesskosten bei Anhängigkeit des Verfahrens in höherem Rechtszug
+- [BGH, Beschluss vom 09.08.2024 - V ZR 217/23](v-zr-217-23.md) — BGH, Beschluss V ZR 217/23
+- [BGH, Beschluss vom 06.08.2024 - V ZR 166/23](v-zr-166-23.md) — BGH, Beschluss V ZR 166/23
+- [BGH, Beschluss vom 23.07.2024 - V ZR 247/23](v-zr-247-23.md) — BGH, Beschluss V ZR 247/23
+- [BGH, Urteil vom 19.07.2024 - V ZR 102/23](v-zr-102-23.md) — Ein nach dem 30. November 2020 gefasster Beschluss, durch den „die Gesamtabrechnung und die daraus resultierenden Einzelabrechnungen des Hausgeldes“ genehmigt w
+- [BGH, Urteil vom 19.07.2024 - V ZR 139/23](v-zr-139-23.md) — 1. Seit dem 1. Dezember 2020 gehören Kosten, die der Gemeinschaft der Wohnungseigentümer in einem Beschlussklageverfahren auferlegt worden sind, zu den Kosten d
+- [BGH, Urteil vom 19.07.2024 - V ZR 209/23](v-zr-209-23.md) — 1. Die in § 12 Abs. 3a Sätze 1 bis 4 FlErwV getroffenen Regelungen finden auf vor dem Jahre 2009 geschlossene Kaufverträge zu Gunsten der Erwerber Anwendung. 2.
+- [BGH, Versäumnisurteil vom 19.07.2024 - V ZR 226/23](v-zr-226-23.md) — 1. Die Wohnungseigentümer können seit dem 1. Dezember 2020 eine bauliche Veränderung auch dann beschließen, wenn die Nutzungsbefugnis an dem dafür vorgesehenen 
+- [BGH, Beschluss vom 18.07.2024 - V ZB 43/23](v-zb-43-23.md) — Bei falschen oder die wahre Sachlage verzerrenden Erklärungen eines Miteigentümers im Teilungsversteigerungstermin, die in der tatrichterlichen Gesamtschau der 
+- [BGH, Beschluss vom 18.07.2024 - V ZB 79/23](v-zb-79-23.md) — Antrag auf Wiedereinsetzung in den vorigen Stand wegen Versäumung der Frist zur Einlegung und Begründung der Berufung durch Prozessbevollmächtigten
+- [BGH, Beschluss vom 18.07.2024 - V ZR 196/23](v-zr-196-23.md) — Bemessung der Wertgrenze der Nichtzulassungsbeschwerde; Kostenaufwendung und Wiederherstellung des vorherigen Zustands
+- [BGH, Beschluss vom 16.07.2024 - V ZR 129/22](v-zr-129-22.md) — (Anhörung des Vollstreckungsschuldners vor Erteilung einer Klausel)
+- [BGH, Beschluss vom 11.07.2024 - V ZR 164/23](v-zr-164-23.md) — Gehörsverstoß bei unrichtiger Anwendung einer Präklusionsvorschrift; Zulassung eines neues Beweismittels in der Berufungsverhandlung
+- [BGH, Beschluss vom 11.07.2024 - V ZR 212/23](v-zr-212-23.md) — Rechtsstreit um die Rückabwicklung eines Grundstückskaufvertrags wegen Arglist: Gehörsverletzung durch Übergehen eines Beweisantrags auf Vernehmung eines Privat
+- [BGH, Urteil vom 05.07.2024 - V ZR 241/23](v-zr-241-23.md) — 1. Nach dem seit dem 1. Dezember 2020 geltenden Wohnungseigentumsrecht haben die Wohnungseigentümer die Kompetenz, Entscheidungen über die Verwaltung und Benutz
+- [BGH, Urteil vom 05.07.2024 - V ZR 34/24](v-zr-34-24.md) — Nach Inkrafttreten des Wohnungseigentumsmodernisierungsgesetzes zum 1. Dezember 2020 bestehen Ansprüche des einzelnen Wohnungseigentümers wegen der Verletzung v
+- [BGH, Beschluss vom 02.07.2024 - V ZR 16/24](v-zr-16-24.md) — BGH, Beschluss V ZR 16/24
+- [BGH, Beschluss vom 27.06.2024 - V ZR 213/23](v-zr-213-23.md) — BGH, Beschluss V ZR 213/23
+- [BGH, Urteil vom 21.06.2024 - V ZR 79/23](v-zr-79-23.md) — Als Wohnung verkaufte Räume im Souterrain eines Altbaus, die bei Gefahrübergang erhebliche Wandfeuchtigkeit aufweisen, sind regelmäßig weder für die nach dem Ve
+- [BGH, Beschluss vom 20.06.2024 - V ZB 1/24](v-zb-1-24.md) — Überlassung von Miteigentumsanteilen an einem Grundstück an minderjährige Kinder; Notwendigkeit der Einwilligung des gesetzlichen Vertreters
+- [BGH, Beschluss vom 20.06.2024 - V ZR 199/23](v-zr-199-23.md) — BGH, Beschluss V ZR 199/23
+- [BGH, Urteil vom 14.06.2024 - V ZR 8/23](v-zr-8-23.md) — 1. Die wegen des Formmangels einer Vorauszahlungsabrede zur Gesamtnichtigkeit des Kaufvertrages führende Vermutung des § 139 BGB ist bereits dann widerlegt, wen
+- [BGH, Beschluss vom 13.06.2024 - V ZR 174/23](v-zr-174-23.md) — Nichtzulassungsbeschwerde: Wertminderung eines Grundstücks durch Einräumung eines Notwegerechts
+- [BGH, Beschluss vom 13.06.2024 - V ZR 178/23](v-zr-178-23.md) — Nichtzulassungsbeschwerde: Verfahrensaussetzung bei Tod eines Miterben
+- [BGH, Beschluss vom 13.06.2024 - V ZR 18/23](v-zr-18-23.md) — BGH, Beschluss V ZR 18/23
+- [BGH, Beschluss vom 06.06.2024 - V ZB 14/24](v-zb-14-24.md) — BGH, Beschluss V ZB 14/24
+- [BGH, Beschluss vom 06.06.2024 - V ZB 31/23](v-zb-31-23.md) — 1. Die Rechtsbeeinträchtigung des anwesenden Schuldners durch den Zuschlag eines im Bruchteilseigentum stehenden Grundstücks in der Zwangsversteigerung ohne die
+- [BGH, Beschluss vom 06.06.2024 - V ZB 67/23](v-zb-67-23.md) — Die im Klageverfahren hinsichtlich des Streithelfers ergangene Kostengrundentscheidung umfasst nicht die dem Streithelfer als Antragsgegner im vorausgegangenen 
+- [BGH, Beschluss vom 06.06.2024 - V ZR 201/23](v-zr-201-23.md) — Verspäteter Hinweis des Berufungsgerichts über abweichenden Rechtsstandpunkt; Behandlung neuen Vorbringens nach Schluss der mündlichen Verhandlung
+- [BGH, Beschluss vom 06.06.2024 - V ZR 65/23](v-zr-65-23.md) — Nichtzulassungsbeschwerde: Beschwerdewert für die Zustimmung zur Löschung einer Grunddienstbarkeit
+- [BGH, Beschluss vom 28.05.2024 - V ZR 46/24](v-zr-46-24.md) — BGH, Beschluss V ZR 46/24
+- [BGH, Beschluss vom 16.05.2024 - V ZB 69/23](v-zb-69-23.md) — BGH, Beschluss V ZB 69/23
+- [BGH, Beschluss vom 16.05.2024 - V ZR 183/23](v-zr-183-23.md) — Nichtzulassungsbeschwerde: Bemessung des Beschwerdewertes bei Verurteilung zur Beseitigung einer Aufdach-Photovoltaikanlage
+- [BGH, Beschluss vom 25.04.2024 - V ZR 238/23](v-zr-238-23.md) — BGH, Beschluss V ZR 238/23
+- [BGH, Urteil vom 19.04.2024 - V ZR 167/23](v-zr-167-23.md) — 1. Nach dem seit dem 1. Dezember 2020 geltenden Wohnungseigentumsrecht richtet sich der Anspruch des einzelnen Wohnungseigentümers auf Erstellung der Jahresabre
+- [BGH, Beschluss vom 18.04.2024 - V ZB 51/23](v-zb-51-23.md) — 1. Der Erwerb eines Miteigentumsanteils an einem nicht vermieteten oder verpachteten Grundstück durch einen Minderjährigen ist lediglich rechtlich vorteilhaft i
+- [BGH, Beschluss vom 18.04.2024 - V ZR 5/23](v-zr-5-23.md) — BGH, Beschluss V ZR 5/23
+- [BGH, Beschluss vom 17.04.2024 - V ZR 125/23](v-zr-125-23.md) — BGH, Beschluss V ZR 125/23
+- [BGH, Beschluss vom 11.04.2024 - V ZR 206/23](v-zr-206-23.md) — Nichtzulassungsbeschwerde: Glaubhaftmachung des Beschwerdewertes im Fall der Verurteilung eines Mieters zur Unterlassung der Nutzung der Teileigentumseinheit ei
+- [BGH, Beschluss vom 11.04.2024 - V ZR 94/23](v-zr-94-23.md) — BGH, Beschluss V ZR 94/23
+- [BGH, Urteil vom 22.03.2024 - V ZR 141/23](v-zr-141-23.md) — Sieht die Gemeinschaftsordnung vor, dass ein Wohnungseigentümer zur Veräußerung seines Wohnungseigentums „der Zustimmung der anderen Wohnungseigentümer“ bedarf,
+- [BGH, Urteil vom 22.03.2024 - V ZR 81/23](v-zr-81-23.md) — 1. Die Vorschrift des § 16 Abs. 2 Satz 2 WEG begründet die Kompetenz der Wohnungseigentümer, für einzelne Kosten oder bestimmte Arten von Kosten der Gemeinschaf
+- [BGH, Urteil vom 22.03.2024 - V ZR 87/23](v-zr-87-23.md) — Beschließen die Wohnungseigentümer eine Änderung der Kostenverteilung für eine einzelne Erhaltungsmaßnahme, muss nicht zugleich eine entsprechende Regelung für 
+- [BGH, Beschluss vom 21.03.2024 - V ZB 10/23](v-zb-10-23.md) — 1. § 878 BGB ist auf die sich aus dem Genehmigungserfordernis auf Grund einer Rechtsverordnung nach § 250 Abs. 1 Satz 1, 3 BauGB ergebende Verfügungsbeschränkun
+- [BGH, Beschluss vom 21.03.2024 - V ZB 17/23](v-zb-17-23.md) — 1. Eine Zwischenverfügung des Grundbuchamtes, mit der eine Fristverlängerung abgelehnt wird, kann mit der Beschwerde angegriffen werden. Folglich kann nach Zula
+- [BGH, Urteil vom 15.03.2024 - V ZR 115/22](v-zr-115-22.md) — 1. Wird der Kaufpreis bei der Beurkundung eines Grundstückskaufvertrags in der Absicht, Steuern zu hinterziehen, niedriger angegeben als mündlich vereinbart (so
+- [BGH, Urteil vom 15.03.2024 - V ZR 224/22](v-zr-224-22.md) — Die Verjährungsfrist für synallagmatisch verbundene Ansprüche aus einem Vertragsverhältnis beginnt erst mit der Fälligkeit des jeweiligen Anspruchs. Für den Ans
+- [BGH, Beschluss vom 14.03.2024 - V ZB 2/23](v-zb-2-23.md) — Die Glaubhaftmachung der vorübergehenden Unmöglichkeit der Einreichung eines Schriftsatzes als elektronisches Dokument bedarf einer aus sich heraus verständlich
+- [BGH, Beschluss vom 14.03.2024 - V ZB 34/23](v-zb-34-23.md) — BGH, Beschluss V ZB 34/23
+- [BGH, Urteil vom 08.03.2024 - V ZR 119/23](v-zr-119-23.md) — 1. Ist in der Gemeinschaftsordnung einer Mehrhausanlage vereinbart, dass die Wohnungseigentümer weitgehend so gestellt werden sollen, als handelte es sich um re
+- [BGH, Urteil vom 08.03.2024 - V ZR 176/22](v-zr-176-22.md) — 1. Eine Vormerkung, die einen sich aus einem befristeten Vertragsangebot ergebenden künftigen Anspruch sichert, entfaltet bei rechtzeitiger Verlängerung der urs
+- [BGH, Urteil vom 08.03.2024 - V ZR 80/23](v-zr-80-23.md) — Während der Corona-Pandemie gefasste Beschlüsse einer Gemeinschaft der Wohnungseigentümer sind nicht deshalb nichtig, weil die Wohnungseigentümer an der Eigentü
+- [BGH, Beschluss vom 07.03.2024 - V ZA 9/23](v-za-9-23.md) — BGH, Beschluss V ZA 9/23
+- [BGH, Beschluss vom 07.03.2024 - V ZB 46/23](v-zb-46-23.md) — 1. Weder der einzelne Stellplatz innerhalb einer Doppelstockgarage („Duplexparker“) noch der einzelne Stellplatz auf einem Parkpalettensystem („Palettenparker“)
+- [BGH, Beschluss vom 07.03.2024 - V ZB 73/23](v-zb-73-23.md) — BGH, Beschluss V ZB 73/23
+- [BGH, Beschluss vom 07.03.2024 - V ZR 113/23](v-zr-113-23.md) — BGH, Beschluss V ZR 113/23
+- [BGH, Beschluss vom 07.03.2024 - V ZR 96/23](v-zr-96-23.md) — BGH, Beschluss V ZR 96/23
+- [BGH, Beschluss vom 06.03.2024 - V ZR 145/23](v-zr-145-23.md) — BGH, Beschluss V ZR 145/23
+- [BGH, Beschluss vom 28.02.2024 - V ZA 10/23](v-za-10-23.md) — BGH, Beschluss V ZA 10/23
+- [BGH, Urteil vom 23.02.2024 - V ZR 111/23](v-zr-111-23.md) — 1. Weder Verfahrensfehler in erster Instanz noch die Wahrung von Verfahrensgrundrechten eröffnen die Möglichkeit zur Einlegung einer Anschlussberufung nach Abla
+- [BGH, Urteil vom 23.02.2024 - V ZR 132/23](v-zr-132-23.md) — 1a. Sind nach der Gemeinschaftsordnung einer Mehrhausanlage weitgehend verselbstständigte Untergemeinschaften gebildet, kann nur die Gesamtgemeinschaft der Wohn
+- [BGH, Beschluss vom 22.02.2024 - V ZB 65/22](v-zb-65-22.md) — Der Anwendung des Bewertungsprivilegs des § 48 Abs. 1 Satz 1 Nr. 1 GNotKG steht eine Verpachtung des übergebenen land- oder forstwirtschaftlichen Betriebs durch
+- [BGH, Beschluss vom 22.02.2024 - V ZR 117/23](v-zr-117-23.md) — Verletzung des Anspruchs auf Gewährung rechtlichen Gehörs bei rechtsfehlerhafter öffentlicher Zustellung einer Klage
+- [BGH, Beschluss vom 22.02.2024 - V ZR 191/22](v-zr-191-22.md) — BGH, Beschluss V ZR 191/22
+- [BGH, Beschluss vom 15.02.2024 - V ZB 44/23](v-zb-44-23.md) — Die Rücknahme des Versteigerungsantrags nach § 29 ZVG ist als eine auf den Erlass des Aufhebungsbeschlusses gerichtete Prozesshandlung grundsätzlich bis zum Wir
+- [BGH, Beschluss vom 15.02.2024 - V ZB 54/23](v-zb-54-23.md) — BGH, Beschluss V ZB 54/23
+- [BGH, Beschluss vom 15.02.2024 - V ZR 144/23](v-zr-144-23.md) — BGH, Beschluss V ZR 144/23
+- [BGH, Urteil vom 09.02.2024 - V ZR 244/22](v-zr-244-22.md) — 1. Die Wohnungseigentümer können nach dem seit dem 1. Dezember 2020 geltenden Wohnungseigentumsrecht eine bauliche Veränderung grundsätzlich auch dann beschließ
+- [BGH, Urteil vom 09.02.2024 - V ZR 33/23](v-zr-33-23.md) — 1. Beschließen die Wohnungseigentümer die Durchführung oder Gestattung einer baulichen Veränderung, die ein Wohnungseigentümer unter Berufung auf § 20 Abs. 2 Sa
+- [BGH, Urteil vom 09.02.2024 - V ZR 6/23](v-zr-6-23.md) — 1. Auch in einer verwalterlosen Zweiergemeinschaft können jedenfalls auf Beeinträchtigungen des gemeinschaftlichen Eigentums bezogene Unterlassungs- oder Beseit
+- [BGH, Beschluss vom 08.02.2024 - V ZB 53/23](v-zb-53-23.md) — BGH, Beschluss V ZB 53/23
+- [BGH, Urteil vom 26.01.2024 - V ZR 162/22](v-zr-162-22.md) — 1. Hat eine Gemeinschaft der Wohnungseigentümer mit einem Werkunternehmer einen Vertrag zur Erhaltung des gemeinschaftlichen Eigentums geschlossen, gehört es zu
+- [BGH, Beschluss vom 25.01.2024 - V ZR 50/23](v-zr-50-23.md) — Darlegung und Glaubhaftmachung des Werts der Beschwer durch Beschwerdeführer als Zulässigkeitsvoraussetzung für Nichtzulassungsbeschwerde
+- [BGH, Beschluss vom 18.01.2024 - V ZR 182/22](v-zr-182-22.md) — BGH, Beschluss V ZR 182/22
+- [BGH, Beschluss vom 11.01.2024 - V ZA 6/23](v-za-6-23.md) — BGH, Beschluss V ZA 6/23
+- [BGH, Beschluss vom 11.01.2024 - V ZA 7/23](v-za-7-23.md) — BGH, Beschluss V ZA 7/23
+- [BGH, Beschluss vom 11.01.2024 - V ZB 63/22](v-zb-63-22.md) — Der Notar, der von der Pflicht zur Verschwiegenheit befreit worden ist, entscheidet nach pflichtgemäßem Ermessen, ob und in welchem Umfang er einem Beteiligten 

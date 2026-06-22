@@ -1,0 +1,47 @@
+# IV. Zivilsenat – 2018
+
+43 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2018 - IV ZB 10/18](iv-zb-10-18.md) — Streitwertberechnung eines Herausgabeverlangens von Nutzungen bei Rückabwicklung eines Versicherungsvertrages
+- [BGH, Urteil vom 19.12.2018 - IV ZR 255/17](iv-zr-255-17.md) — Im Rechtsstreit über eine Prämienanpassung in der Krankenversicherung gemäß § 203 Abs. 2 Satz 1 VVG ist die Unabhängigkeit des zustimmenden Treuhänders von den 
+- [BGH, Beschluss vom 12.12.2018 - IV ZR 216/17](iv-zr-216-17.md) — Freistellung von Gebührenforderung in Rechtsschutzversicherung nach Zusage von Abwehrdeckung
+- [BGH, Urteil vom 05.12.2018 - IV ZR 81/18](iv-zr-81-18.md) — Im Notlagentarif der privaten Krankenversicherung ist der Versicherer nicht gehindert, mit rückständigen Beiträgen gegen Kostenerstattungsansprüche des Versiche
+- [BGH, Beschluss vom 21.11.2018 - IV ZR 229/18](iv-zr-229-18.md) — Stundung des Pflichtteils: Beachtlichkeit einer bestrittenen Verwertungsmöglichkeit für das Nachlassgrundstück
+- [BGH, Beschluss vom 14.11.2018 - IV ZR 214/16](iv-zr-214-16.md) — Rechtsschutzversicherung: Bindung des Rechtsschutzversicherers an eine im Mandatsverhältnis ergangene gerichtliche Entscheidung
+- [BGH, Beschluss vom 07.11.2018 - IV ZB 13/18](iv-zb-13-18.md) — Die außergerichtlichen Kosten der Gegenpartei des erfolglosen Beschwerdeführers im Verfahren über die Ablehnung eines Sachverständigen gemäß § 406 ZPO gehören z
+- [BGH, Urteil vom 07.11.2018 - IV ZR 14/17](iv-zr-14-17.md) — Zur Erstattungsfähigkeit von Kosten für die Wartung eines Hilfsmittels (hier eines computergesteuerten Kniegelenks einer Beinprothese) in der privaten Krankheit
+- [BGH, Beschluss vom 07.11.2018 - IV ZR 189/17](iv-zr-189-17.md) — Berufungsverfahren: Gehörsverletzung durch Unterlassen einer erneuten Zeugenvernehmung
+- [BGH, Urteil vom 31.10.2018 - IV ZR 313/17](iv-zr-313-17.md) — Der im Rahmen einer Stufenklage von dem Pflichtteilsberechtigten geltend gemachte Anspruch auf Auskunft durch Vorlage eines privatschriftlichen Nachlassverzeich
+- [BGH, Urteil vom 17.10.2018 - IV ZR 106/17](iv-zr-106-17.md) — Bei einem Vertragsschluss im Antragsmodell wurde der Versicherungsnehmer mit der Belehrung, dass er "innerhalb einer Frist von 14 Tagen nach Abschluss des Vertr
+- [BGH, Beschluss vom 17.10.2018 - IV ZR 163/17](iv-zr-163-17.md) — Versorgungsausgleich betr. Zusatzversorgung im öffentlichen Dienst: Kürzung einer betrieblichen Zusatzrente bei Vorversterben des ausgleichsberechtigten Ehegatt
+- [BGH, Beschluss vom 10.10.2018 - IV ZR 161/18](iv-zr-161-18.md) — Beiordnung eines Notanwalts im Nichtzulassungsbeschwerdeverfahren
+- [BGH, Urteil vom 26.09.2018 - IV ZR 304/15](iv-zr-304-15.md) — Fondsgebundene Rentenversicherung: Erstreckung des Widerrufs des nach dem Policenmodell abgeschlossenen Versicherungsvertrags auf die Vereinbarung eines Beitrag
+- [BGH, Beschluss vom 12.09.2018 - IV ZB 1/18](iv-zb-1-18.md) — Zuständigkeit des Sozialgerichts bei Rechtsstreit über Anfechtung eines Pflegeversicherungsvertrages
+- [BGH, Urteil vom 18.07.2018 - IV ZR 68/17](iv-zr-68-17.md) — Rückabwicklung eines Versicherungsverhältnisses bei unvollständigen Verbraucherinformationen zur Antragsannahme
+- [BGH, Beschluss vom 11.07.2018 - IV ZR 112/16](iv-zr-112-16.md) — Deckungsklage gegen die Rechtsschutzversicherung für eine Rückabwicklungsklage nach Widerruf eines Verbraucherkreditvertrages: Bestimmung der Rechtsmittelbeschw
+- [BGH, Urteil vom 11.07.2018 - IV ZR 243/17](iv-zr-243-17.md) — Das Schadensabwicklungsunternehmen eines Rechtsschutzversicherers ist auch dann passiv prozessführungsbefugt gemäß § 126 Abs. 2 Satz 1 VVG, wenn der Versicherun
+- [BGH, Urteil vom 04.07.2018 - IV ZR 121/17](iv-zr-121-17.md) — Der Innenausgleich zwischen dem Haftpflichtversicherer des Zugfahrzeuges und dem Haftpflichtversicherer des mit diesem verbundenen Anhängers nach Regulierung ei
+- [BGH, Urteil vom 04.07.2018 - IV ZR 200/16](iv-zr-200-16.md) — Die so genannte Vorerstreckungsklausel des § 4 Abs. 3 Buchst. a der Allgemeinen Bedingungen für die Rechtsschutzversicherung (ARB 2008) ist intransparent.
+- [BGH, Urteil vom 04.07.2018 - IV ZR 297/16](iv-zr-297-16.md) — Die Verurteilung des Schuldners zur Abgabe einer Willenserklärung gemäß § 894 Satz 1 ZPO ersetzt nicht die nach § 21 Abs. 2 Satz 1 Nr. 2 Alt. 2 InsO erforderlic
+- [BGH, Beschluss vom 04.07.2018 - IV ZR 3/17](iv-zr-3-17.md) — Prozesskostenhilfe bei vorheriger großzügiger finanzieller Unterstützung Dritter
+- [BGH, Urteil vom 27.06.2018 - IV ZR 201/17](iv-zr-201-17.md) — Die Bestimmung zum Vorbehalt aufsichtsrechtlicher Regelungen bei der Ermittlung der Bewertungsreserven in § 153 Abs. 3 Satz 3 VVG in der Fassung des Lebensversi
+- [BGH, Urteil vom 27.06.2018 - IV ZR 222/16](iv-zr-222-16.md) — Bei einer Lebensversicherung auf den Tod eines anderen erfordert die Übertragung der Versicherungsnehmerstellung oder der Bezugsberechtigung im Erlebensfall - a
+- [BGH, Beschluss vom 13.06.2018 - IV ZA 5/18](iv-za-5-18.md) — Befangenheitsantrag zu verfahrensfremden Zwecken unzulässig
+- [BGH, Beschluss vom 06.06.2018 - IV ZB 10/17](iv-zb-10-17.md) — Eine Berufung kann rechtzeitig eingelegt sein, wenn die Berufungsschrift vor Fristablauf an einem Telefaxgerät der Referendarabteilung des Berufungsgerichts ein
+- [BGH, Urteil vom 09.05.2018 - IV ZR 23/17](iv-zr-23-17.md) — Zur Auslegung einer Karenzzeitregelung in den Tarifbedingungen einer Krankentagegeldversicherung.
+- [BGH, Beschluss vom 09.05.2018 - IV ZR 264/17](iv-zr-264-17.md) — Nichtzulassungsbeschwerde: Wert des Beschwerdegegenstands bei der Abgabe der eidesstattlichen Versicherung zum Pflichtteilsrecht im Wege der Stufenklage; Anfech
+- [BGH, Urteil vom 11.04.2018 - IV ZR 215/16](iv-zr-215-16.md) — 1. Zur Zusage von Abwehrdeckung durch den Rechtsschutzversicherer (Fortführung des Senatsurteils vom 21. Oktober 2015, IV ZR 266/14, VersR 2015, 1501). 2. Der Z
+- [BGH, Urteil vom 04.04.2018 - IV ZR 104/17](iv-zr-104-17.md) — 1. Die in den Bedingungen einer Reiseabbruchversicherung enthaltene Bestimmung (hier: B Nr. 13.2 B) VB-ERV 2014) "13. Welche Obliegenheiten haben Sie nach Eintr
+- [BGH, Beschluss vom 21.03.2018 - IV ZR 196/17](iv-zr-196-17.md) — Zuständiges Gericht für eine Restitutionsklage betreffend ein vom Revisionsgericht erlassenes Urteil: Fall einer Entscheidung des EGMR über die erbrechtliche Un
+- [BGH, Beschluss vom 21.03.2018 - IV ZR 201/16](iv-zr-201-16.md) — Private Rentenversicherung: Ordnungsgemäßheit einer Widerspruchsbelehrung in einem Altvertrag
+- [BGH, Beschluss vom 21.03.2018 - IV ZR 248/17](iv-zr-248-17.md) — Verletzung des Anspruchs auf Gewährung rechtlichen Gehörs
+- [BGH, Urteil vom 21.03.2018 - IV ZR 353/16](iv-zr-353-16.md) — Bei der bereicherungsrechtlichen Rückabwicklung einer fondsgebundenen Lebensversicherung nach Widerspruch gemäß § 5a VVG a.F. muss sich der Versicherungsnehmer 
+- [BGH, Beschluss vom 14.03.2018 - IV ZB 16/17](iv-zb-16-17.md) — Die Ausschlussfrist des § 2 Satz 1 VBVG gilt nicht für die Vergütung des Nachlassverwalters.
+- [BGH, Urteil vom 14.03.2018 - IV ZR 170/16](iv-zr-170-16.md) — Zum Pflichtteilsergänzungsanspruch hinsichtlich Finanzierungsleistungen für ein Hausgrundstück als unbenannte Zuwendung unter Ehegatten.
+- [BGH, Beschluss vom 07.03.2018 - IV ZR 238/17](iv-zr-238-17.md) — Nachlasssache: Beendigung des Verfahrens des Nachlassverwalters gegen den Alleinerben bei Aufhebung der Nachlassverwaltung; Feststellungsinteresse an der Verfah
+- [BGH, Beschluss vom 22.02.2018 - IV ZR 318/16](iv-zr-318-16.md) — Transport- und Ausstellungsversicherung: Auslegung von Ausschlussklauseln für Schäden durch Eingriffe von hoher Hand und wegen Mängeln der Verpackung
+- [BGH, Beschluss vom 21.02.2018 - IV ZB 18/17](iv-zb-18-17.md) — Wiedereinsetzungsantrag bei Adressierung der Berufungsbegründung an unzuständiges Gericht
+- [BGH, Urteil vom 21.02.2018 - IV ZR 304/16](iv-zr-304-16.md) — Der Beginn der Verjährungsfrist für einen Rückabwicklungsanspruch nach einem Rücktritt gemäß § 8 VVG in der Fassung vom 21. Juli 1994 war nicht wegen einer unsi
+- [BGH, Urteil vom 21.02.2018 - IV ZR 385/16](iv-zr-385-16.md) — Der Beginn der Verjährungsfrist für einen Bereicherungsanspruch nach einem Widerspruch gemäß § 5a VVG in der Fassung vom 21. Juli 1994 war nicht wegen einer uns
+- [BGH, Urteil vom 07.02.2018 - IV ZR 53/17](iv-zr-53-17.md) — Eine Klausel in Allgemeinen Versicherungsbedingungen einer Risikolebensversicherung, nach der ein Bezugsberechtigter nach dem Ableben des Versicherungsnehmers a
+- [BGH, Urteil vom 10.01.2018 - IV ZR 262/16](iv-zr-262-16.md) — Zur Berechnung der Kürzung einer Betriebsrente bei einem öffentlich-rechtlichen Versorgungsträger infolge eines analogen Quasi-Splittings nach dem bis zum 31. A

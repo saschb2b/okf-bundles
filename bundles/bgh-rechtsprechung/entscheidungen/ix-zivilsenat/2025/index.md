@@ -1,0 +1,72 @@
+# IX. Zivilsenat – 2025
+
+68 Entscheidung(en).
+
+- [BGH, Beschluss vom 11.12.2025 - IX ZB 3/25](ix-zb-3-25.md) — Der Zeitraum, für den Pfändungsschutz zu beanspruchen ist, ist unter Würdigung aller Umstände des Einzelfalls nach freiem Ermessen zu bestimmen, wobei voraussch
+- [BGH, Beschluss vom 11.12.2025 - IX ZR 99/23](ix-zr-99-23.md) — Wert der Beschwer bei einer Klage auf Feststellung einer vom Insolvenzverwalter bestrittenen Forderung
+- [BGH, Urteil vom 20.11.2025 - IX ZR 2/25](ix-zr-2-25.md) — 1a. Sieht das Vollstreckungsgericht im Teilungsplan eine den Widerspruch berücksichtigende Hilfsverteilung vor und ordnet es im Hinblick auf den Widerspruch ein
+- [BGH, Beschluss vom 20.11.2025 - IX ZR 21/25](ix-zr-21-25.md) — BGH, Beschluss IX ZR 21/25
+- [BGH, Beschluss vom 13.11.2025 - IX ZB 21/25](ix-zb-21-25.md) — 1. Ist nicht bereits aufgrund der absoluten Höhe der Verbindlichkeit die Restschuldbefreiung offensichtlich nicht erreichbar, muss der Tatrichter prüfen, ob auf
+- [BGH, Urteil vom 13.11.2025 - IX ZR 103/23](ix-zr-103-23.md) — 1. Die Pflicht des Rechtsanwalts, seinem Mandanten gegenüber die Aussichtslosigkeit eines Klageantrags klar herauszustellen, besteht unabhängig davon, ob der Ma
+- [BGH, Urteil vom 13.11.2025 - IX ZR 127/24](ix-zr-127-24.md) — 1. Der Streit um die Einordnung von Ansprüchen als einfache Insolvenzforderungen stellt ein Rechtsverhältnis dar, auf dessen Feststellung im Rahmen einer Tabell
+- [BGH, Beschluss vom 13.11.2025 - IX ZR 175/24](ix-zr-175-24.md) — 1a. Ein Hinweis darauf, dass sich die Gebühren nach dem Gegenstandswert richten, ist grundsätzlich für jeden einzelnen Auftrag zu erteilen; der Auftrag kann all
+- [BGH, Beschluss vom 03.11.2025 - IX ZB 22/25](ix-zb-22-25.md) — BGH, Beschluss IX ZB 22/25
+- [BGH, Urteil vom 23.10.2025 - IX ZR 125/23](ix-zr-125-23.md) — 1. Im Rahmen der Unentgeltlichkeitsanfechtung liegt ein Drei-Personen-Verhältnis vor, wenn nach objektiven Kriterien aus der Sicht des Zahlungsempfängers der Ve
+- [BGH, Beschluss vom 23.10.2025 - IX ZR 50/24](ix-zr-50-24.md) — BGH, Beschluss IX ZR 50/24
+- [BGH, Beschluss vom 16.10.2025 - IX ZB 10/24](ix-zb-10-24.md) — 1a. Die Zulässigkeit eines Antrags auf Aufhebung eines Beschlusses der Gläubigerversammlung setzt nicht die Wirksamkeit des Beschlusses voraus (Klarstellung von
+- [BGH, Beschluss vom 16.10.2025 - IX ZB 11/24](ix-zb-11-24.md) — Bestellung eines gemeinsamen Vertreters der Anleihegläubiger in einem Insolvenzverfahren
+- [BGH, Beschluss vom 16.10.2025 - IX ZB 14/24](ix-zb-14-24.md) — Bestellung eines gemeinsamen Vertreters der Anleihegläubiger in einem Insolvenzverfahren
+- [BGH, Urteil vom 09.10.2025 - IX ZR 18/24](ix-zr-18-24.md) — Die in der Rechtsberaterhaftung für den Beginn der Verjährungsfrist erforderliche Kenntnis oder grob fahrlässige Unkenntnis von den den Schadensersatzanspruch b
+- [BGH, Beschluss vom 25.09.2025 - IX ZB 13/25](ix-zb-13-25.md) — 1. Zur Masse gehörende, vor Aufhebung des Insolvenzverfahrens nicht verwertete Gegenstände sind im Regelfall der Nachtragsverteilung zuzuführen, selbst wenn die
+- [BGH, Beschluss vom 25.09.2025 - IX ZB 23/25](ix-zb-23-25.md) — BGH, Beschluss IX ZB 23/25
+- [BGH, Urteil vom 25.09.2025 - IX ZR 190/24](ix-zr-190-24.md) — 1. Die Umwandlung einer Lebensversicherung in eine Versicherung, die den Anforderungen des § 851c Abs. 1 ZPO entspricht, kann grundsätzlich nicht nach den Besti
+- [BGH, Beschluss vom 11.09.2025 - IX ZA 18/24](ix-za-18-24.md) — Anfechtung eines Vermächtnisses im Rahmen eines Insolvenzverfahrens
+- [BGH, Beschluss vom 11.09.2025 - IX ZA 8/25](ix-za-8-25.md) — BGH, Beschluss IX ZA 8/25
+- [BGH, Beschluss vom 11.09.2025 - IX ZB 15/24](ix-zb-15-24.md) — Für die Festsetzung der Vergütung des Sachwalters ist der Rechtspfleger im eröffneten Insolvenzverfahren auch dann funktionell zuständig, wenn im Verfahren ein 
+- [BGH, Beschluss vom 11.09.2025 - IX ZB 45/23](ix-zb-45-23.md) — Die von der Staatsanwaltschaft als Vollstreckungsbeschwerde gegen einen Beschluss des Amtsgerichts als Insolvenzgericht eingelegte sofortige Beschwerde ist seit
+- [BGH, Beschluss vom 11.09.2025 - IX ZB 9/23](ix-zb-9-23.md) — 1. Eine vom vorläufigen Sachwalter als gesondert beauftragter Sachverständiger vorgenommene rechtliche Bewertung in Bezug auf Vermögensgegenstände - hier: von b
+- [BGH, Beschluss vom 01.09.2025 - IX ZB 1/24](ix-zb-1-24.md) — BGH, Beschluss IX ZB 1/24
+- [BGH, Urteil vom 31.07.2025 - IX ZR 160/24](ix-zr-160-24.md) — Zahlungsunfähig ist ein Schuldner, der aus Mangel an liquiden Mitteln nicht in der Lage ist, seine fälligen Zahlungspflichten zu erfüllen. Hierbei sind nur diej
+- [BGH, Urteil vom 31.07.2025 - IX ZR 32/24](ix-zr-32-24.md) — 1. Die Erfüllung von Verbindlichkeiten aus Steuerbescheiden und Steueranmeldungen ist grundsätzlich auch dann nicht als unentgeltliche Leistung des Schuldners a
+- [BGH, Beschluss vom 24.07.2025 - IX ZB 32/23](ix-zb-32-23.md) — 1. Die Frage, ob die Energiepreispauschale kraft Gesetzes unpfändbar ist, ist nicht im Insolvenzverfahren, sondern auf dem Prozessweg zu klären. 2. Der Streit z
+- [BGH, Urteil vom 24.07.2025 - IX ZR 134/23](ix-zr-134-23.md) — 1. Hat der Schuldner eine Forderung gegen einen Drittschuldner in anfechtbarer Weise an einen Dritten abgetreten, führt nicht schon die Abtretung des anfechtung
+- [BGH, Urteil vom 24.07.2025 - IX ZR 92/24](ix-zr-92-24.md) — Soll mittels eines Mahnbescheids die Verjährung einer Forderung gehemmt werden, individualisiert der anwaltliche Mahnantrag die Forderung des Mandanten aber nic
+- [BGH, Versäumnisurteil vom 17.07.2025 - IX ZR 184/22](ix-zr-184-22.md) — Die planmäßige Übertragung der letzten freien Vermögenswerte an eine zu diesem Zweck gegründete Gesellschaft, die eine Aufspaltung von Forderungsschuldnerschaft
+- [BGH, Beschluss vom 17.07.2025 - IX ZR 55/24](ix-zr-55-24.md) — BGH, Beschluss IX ZR 55/24
+- [BGH, Urteil vom 17.07.2025 - IX ZR 70/24](ix-zr-70-24.md) — 1a. Der Insolvenzverwalter kann einen Anspruch auf Vergütung für die vom Schuldner vorinsolvenzlich erbrachten Leistungen auf einen zur Zeit der Verfahrenseröff
+- [BGH, Urteil vom 10.07.2025 - IX ZR 108/24](ix-zr-108-24.md) — 1. Nehmen Ehegatten gemeinsam ein Darlehen zur Finanzierung eines in ihrem hälftigen Miteigentum stehenden Grundstücks auf, können Zahlungen des Schuldners auf 
+- [BGH, Urteil vom 10.07.2025 - IX ZR 189/24](ix-zr-189-24.md) — 1. Regressansprüche eines Gesellschafters aufgrund der Befriedigung eines Gesellschaftsgläubigers stellen wirtschaftlich einem Gesellschafterdarlehen gleichsteh
+- [BGH, Beschluss vom 10.07.2025 - IX ZR 201/23](ix-zr-201-23.md) — BGH, Beschluss IX ZR 201/23
+- [BGH, Beschluss vom 26.06.2025 - IX ZA 17/24](ix-za-17-24.md) — BGH, Beschluss IX ZA 17/24
+- [BGH, Beschluss vom 26.06.2025 - IX ZR 74/24](ix-zr-74-24.md) — Voraussetzungen der Behandlung eines Girokontos als insolvenzfreies Vermögen
+- [BGH, Beschluss vom 13.06.2025 - IX ZA 9/25](ix-za-9-25.md) — BGH, Beschluss IX ZA 9/25
+- [BGH, Urteil vom 12.06.2025 - IX ZR 163/24](ix-zr-163-24.md) — Ein Rechtsschutzversicherer muss in einem Prozess auf Rückzahlung von auf Rechtsanwaltsgebühren geleisteten Vorschüssen einen rechtskräftigen Beschluss, durch d
+- [BGH, Beschluss vom 12.06.2025 - IX ZR 37/23](ix-zr-37-23.md) — BGH, Beschluss IX ZR 37/23
+- [BGH, Beschluss vom 12.06.2025 - IX ZR 73/23](ix-zr-73-23.md) — Wird die Berufung des Beklagten gegen das den Einspruch verwerfende Urteil des Gerichts des ersten Rechtszugs mit der Begründung zurückgewiesen, dem Beklagten s
+- [BGH, Urteil vom 05.06.2025 - IX ZR 69/24](ix-zr-69-24.md) — 1. Ein (vorläufiger) Insolvenzverwalter ist nicht befugt, Ansprüche gegen den Schuldner zu verfolgen, um die vom Schuldner im Eröffnungsverfahren nach Anordnung
+- [BGH, Beschluss vom 22.05.2025 - IX ZB 38/24](ix-zb-38-24.md) — Stützt ein Gläubiger seinen Insolvenzantrag allein auf eine Forderung aus einem vollstreckbaren Endurteil, entfällt der mit dem Urteil erbrachte Beweis der Ford
+- [BGH, Urteil vom 22.05.2025 - IX ZR 80/24](ix-zr-80-24.md) — Eine Zahlung des Schuldners an einen Sozialversicherungsträger in dem Zeitraum von drei Monaten vor Insolvenzantragstellung erfolgt nach seiner objektivierten S
+- [BGH, Beschluss vom 15.05.2025 - IX ZA 19/24](ix-za-19-24.md) — BGH, Beschluss IX ZA 19/24
+- [BGH, Beschluss vom 15.05.2025 - IX ZB 8/25](ix-zb-8-25.md) — 1. Im Beschwerdeverfahren ist die Zivilkammer nicht befugt, selbst über die Übertragung eines in die originäre Zuständigkeit des Einzelrichters fallenden Beschw
+- [BGH, Urteil vom 08.05.2025 - IX ZR 90/23](ix-zr-90-23.md) — 1. Die Vergütungsvereinbarung bestimmt, auf welche Tätigkeiten und welche Angelegenheiten die Prüfung der unangemessenen Höhe der Vergütung zu beziehen ist. Dan
+- [BGH, Urteil vom 10.04.2025 - IX ZR 203/23](ix-zr-203-23.md) — Die Verwertung des in seinem Eigentum stehenden Leasinggegenstands durch den Leasinggeber nach Eröffnung des Insolvenzverfahrens über das Vermögen des Leasingne
+- [BGH, Urteil vom 10.04.2025 - IX ZR 95/24](ix-zr-95-24.md) — Stellt ein Flugbeförderungsanspruch nur eine Insolvenzforderung dar, begründet die nach Eröffnung des Insolvenzverfahrens über das Vermögen des Luftfahrtunterne
+- [BGH, Urteil vom 20.03.2025 - IX ZR 141/23](ix-zr-141-23.md) — 1. Leistet der Schuldner auf gewinnabhängige Ansprüche stiller Gesellschafter, ist eine Kenntnis der für den Schuldner handelnden Personen vom Betreiben eines S
+- [BGH, Urteil vom 06.03.2025 - IX ZR 209/23](ix-zr-209-23.md) — 1. Die aus der Stellung als nahestehende Person im Sinne des § 138 Abs. 1 Nr. 2 InsO für die Kenntnis von der (drohenden) Zahlungsunfähigkeit abzuleitenden Schl
+- [BGH, Urteil vom 06.03.2025 - IX ZR 234/23](ix-zr-234-23.md) — 1. Der rechtskräftige Beschluss über die Eröffnung eines Insolvenzverfahrens ist vom Prozessgericht als gültig hinzunehmen, wenn ihm nicht ein offenkundiger, sc
+- [BGH, Beschluss vom 05.03.2025 - IX ZB 42/24](ix-zb-42-24.md) — BGH, Beschluss IX ZB 42/24
+- [BGH, Beschluss vom 27.02.2025 - IX ZB 46/23](ix-zb-46-23.md) — Verwerfung der Berufung wegen eines vom Rechtsanwalt nicht eigenhändig gefertigten und kontrollierten Berufungsbegründungsschriftsatzes
+- [BGH, Beschluss vom 20.02.2025 - IX ZB 36/24](ix-zb-36-24.md) — BGH, Beschluss IX ZB 36/24
+- [BGH, Beschluss vom 13.02.2025 - IX ZB 27/24](ix-zb-27-24.md) — 1. Der Bundesagentur für Arbeit ist es nicht zumutbar, die Kosten für eine Prozessführung des Insolvenzverwalters aufzubringen, wenn sie aufgrund von auf sie üb
+- [BGH, Beschluss vom 06.02.2025 - IX ZB 35/22](ix-zb-35-22.md) — Im Rahmen der Prüfung der internationalen Zuständigkeit der Gerichte für die Eröffnung eines Insolvenzverfahrens wird bei einer natürlichen Person, die eine sel
+- [BGH, Urteil vom 06.02.2025 - IX ZR 181/23](ix-zr-181-23.md) — Insolvenzrecht: Auskunftsanspruch des (Ersatz)Aussonderungsberechtigten gegen den Insolvenzverwalter nach nichtiger Forderungsabtretung
+- [BGH, Urteil vom 06.02.2025 - IX ZR 182/23](ix-zr-182-23.md) — Tritt ein Leistungserbringer für Heil- und Hilfsmittel die ihm zustehenden Ansprüche gegen Krankenkassen an ein Rechenzentrum ab, ist die Abtretung jedenfalls d
+- [BGH, Urteil vom 23.01.2025 - IX ZR 229/22](ix-zr-229-22.md) — Ein vorläufig vollstreckbarer Titel über eine streitige Forderung ist bei der Beurteilung der Zahlungsunfähigkeit durch den Schuldner in Höhe des Nennwerts der 
+- [BGH, Beschluss vom 17.01.2025 - IX ZB 34/24](ix-zb-34-24.md) — BGH, Beschluss IX ZB 34/24
+- [BGH, EuGH-Vorlage vom 16.01.2025 - IX ZR 229/23](ix-zr-229-23.md) — Dem Gerichtshof der Europäischen Union werden zur Auslegung des Gemeinschaftsrechts gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 des Vertrags über die Arbeitsweise d
+- [BGH, Urteil vom 16.01.2025 - IX ZR 235/23](ix-zr-235-23.md) — BGH, Urteil IX ZR 235/23
+- [BGH, Urteil vom 16.01.2025 - IX ZR 236/23](ix-zr-236-23.md) — 1. Schließt ein Gläubiger nach Eröffnung des Insolvenzverfahrens über das Vermögen des Luftfahrtunternehmens einen neuen Beförderungsvertrag ab, handelt es sich
+- [BGH, EuGH-Vorlage vom 16.01.2025 - IX ZR 60/24](ix-zr-60-24.md) — Dem Gerichtshof der Europäischen Union wird zur Auslegung des Gemeinschaftsrechts gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 des Vertrags über die Arbeitsweise der
+- [BGH, Urteil vom 16.01.2025 - IX ZR 91/24](ix-zr-91-24.md) — Ansprüche des Schuldners auf Auszahlung von im Rahmen eines Bestattungsvorsorge-Treuhandvertrags verwahrter Gelder sind grundsätzlich pfändbar und gehören zur I
+- [BGH, Beschluss vom 15.01.2025 - IX ZB 33/24](ix-zb-33-24.md) — BGH, Beschluss IX ZB 33/24
+- [BGH, Urteil vom 09.01.2025 - IX ZR 41/23](ix-zr-41-23.md) — Erbringt der Schuldner eine inkongruente Deckung im zweiten oder dritten Monat vor dem Antrag auf Eröffnung des Insolvenzverfahrens, ist auch die in inkongruent

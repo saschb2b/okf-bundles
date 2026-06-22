@@ -1,0 +1,29 @@
+# Senat für Anwaltssachen – 2005
+
+25 Entscheidung(en).
+
+- [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 3/05](anwz-b-3-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 4/05](anwz-b-4-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 05.12.2005 - AnwZ (B) 5/05](anwz-b-5-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.11.2005 - AnwZ (B) 53/03](anwz-b-53-03.md) — Vorlage eines ärztlichen Gutachtens
+- [BGH, Beschluss vom 21.11.2005 - AnwZ (B) 50/05](anwz-b-50-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 14.11.2005 - AnwZ (B) 85/04](anwz-b-85-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 28.10.2005 - AnwZ (B) 24/05](anwz-b-24-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 27.10.2005 - AnwZ (B) 88/04](anwz-b-88-04.md) — Vermögens-
+- [BGH, Beschluss vom 17.10.2005 - AnwSt (R) 11/04](anwst-r-11-04.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 72/04](anwz-b-72-04.md) — Firmierung einer Aktiengesellschaft als Rechtsanwaltsgesellschaft
+- [BGH, Beschluss vom 17.10.2005 - AnwZ (B) 75/04](anwz-b-75-04.md) — Zahlung des Kammerbeitrags
+- [BGH, Beschluss vom 27.09.2005 - AnwZ (B) 18/04](anwz-b-18-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Urteil vom 26.09.2005 - AnwSt (R) 9/04](anwst-r-9-04.md) — BGH, Urteil vom 26.09.2005 - AnwSt (R) 9/04
+- [BGH, Beschluss vom 26.07.2005 - AnwZ (B) 80/99](anwz-b-80-99.md) — Widerruf der Zulassung
+- [BGH, Beschluss vom 25.07.2005 - AnwZ (B) 46/04](anwz-b-46-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 30.06.2005 - AnwZ (B) 6/05](anwz-b-6-05.md) — BGH, Beschluss vom 30.06.2005 - AnwZ (B) 6/05
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 28/04](anwz-b-28-04.md) — Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO).
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 31/04](anwz-b-31-04.md) — Führung einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 35/04](anwz-b-35-04.md) — Gestaltung des Kanzleibriefbogens
+- [BGH, Beschluss vom 18.04.2005 - AnwZ (B) 36/04](anwz-b-36-04.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.04.2005 - AnwZ (B) 17/04](anwz-b-17-04.md) — BGH, Beschluss vom 04.04.2005 - AnwZ (B) 17/04
+- [BGH, Beschluss vom 29.03.2005 - AnwZ (B) 72/02](anwz-b-72-02.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Tatbestandsberichtigung
+- [BGH, Beschluss vom 07.03.2005 - AnwZ (B) 12/04](anwz-b-12-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 07.03.2005 - AnwZ (B) 9/04](anwz-b-9-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 23.02.2005 - AnwZ (B) 92/03](anwz-b-92-03.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft

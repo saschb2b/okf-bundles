@@ -1,0 +1,58 @@
+# Senat für Anwaltssachen – 2025
+
+54 Entscheidung(en).
+
+- [BGH, Beschluss vom 23.12.2025 - AnwZ (Brfg) 33/25](anwz-brfg-33-25.md) — BGH, Beschluss AnwZ (Brfg) 33/25
+- [BGH, Beschluss vom 23.12.2025 - AnwZ (Brfg) 34/25](anwz-brfg-34-25.md) — BGH, Beschluss AnwZ (Brfg) 34/25
+- [BGH, Urteil vom 01.12.2025 - AnwSt (R) 5/25](anwst-r-5-25.md) — 1. Nach dem Grundsatz der einheitlichen Pflichtverletzung kann innerhalb eines Verfahrens auch bei unterschiedlichen Berufspflichtverstößen nur auf eine einheit
+- [BGH, Urteil vom 01.12.2025 - AnwZ (Brfg) 50/24](anwz-brfg-50-24.md) — Die Erfüllung der Kanzleipflicht gemäß § 27 Abs. 1 BRAO setzt nach wie vor die Vorhaltung bestimmter, dem Rechtsanwalt dauerhaft zur Verfügung stehender Räumlic
+- [BGH, Beschluss vom 20.11.2025 - AnwZ (Brfg) 30/25](anwz-brfg-30-25.md) — BGH, Beschluss AnwZ (Brfg) 30/25
+- [BGH, Beschluss vom 17.11.2025 - AnwZ (Brfg) 12/25](anwz-brfg-12-25.md) — BGH, Beschluss AnwZ (Brfg) 12/25
+- [BGH, Beschluss vom 11.11.2025 - AnwSt (B) 6/25](anwst-b-6-25.md) — BGH, Beschluss AnwSt (B) 6/25
+- [BGH, Beschluss vom 11.11.2025 - AnwZ (Brfg) 28/25](anwz-brfg-28-25.md) — BGH, Beschluss AnwZ (Brfg) 28/25
+- [BGH, Beschluss vom 10.11.2025 - AnwZ (Brfg) 25/25](anwz-brfg-25-25.md) — BGH, Beschluss AnwZ (Brfg) 25/25
+- [BGH, Beschluss vom 03.11.2025 - AnwZ (Brfg) 31/25](anwz-brfg-31-25.md) — Anwaltsgerichtliches Verfahren: Widerruf der Rechtsanwaltszulassung wegen Vermögensverfall
+- [BGH, Beschluss vom 27.10.2025 - AnwZ (Brfg) 24/25](anwz-brfg-24-25.md) — BGH, Beschluss AnwZ (Brfg) 24/25
+- [BGH, Beschluss vom 24.10.2025 - AnwZ (Brfg) 32/25](anwz-brfg-32-25.md) — Widerruf der Fachanwaltsbezeichnung bei Beratungsgesprächen anstelle der jährlichen Fortbildung
+- [BGH, Beschluss vom 29.09.2025 - AnwZ (Brfg) 26/25](anwz-brfg-26-25.md) — Rechtliches Gehör im gerichtlichen Verfahren in verwaltungsrechtlichen Anwaltssachen: Entscheidung über einen Antrag auf Videoübertragung der mündlichen Verhand
+- [BGH, Beschluss vom 22.09.2025 - AnwZ (Brfg) 27/25](anwz-brfg-27-25.md) — BGH, Beschluss AnwZ (Brfg) 27/25
+- [BGH, Beschluss vom 15.09.2025 - AnwZ (Brfg) 11/25](anwz-brfg-11-25.md) — BGH, Beschluss AnwZ (Brfg) 11/25
+- [BGH, Beschluss vom 22.08.2025 - AnwZ (Brfg) 43/24](anwz-brfg-43-24.md) — BGH, Beschluss AnwZ (Brfg) 43/24
+- [BGH, Beschluss vom 18.08.2025 - AnwZ (Brfg) 23/25](anwz-brfg-23-25.md) — BGH, Beschluss AnwZ (Brfg) 23/25
+- [BGH, Beschluss vom 12.08.2025 - AnwZ (Brfg) 19/25](anwz-brfg-19-25.md) — BGH, Beschluss AnwZ (Brfg) 19/25
+- [BGH, Beschluss vom 12.08.2025 - AnwZ (Brfg) 20/25](anwz-brfg-20-25.md) — BGH, Beschluss AnwZ (Brfg) 20/25
+- [BGH, Beschluss vom 12.08.2025 - AnwZ (Brfg) 21/25](anwz-brfg-21-25.md) — BGH, Beschluss AnwZ (Brfg) 21/25
+- [BGH, Beschluss vom 11.08.2025 - AnwZ (Brfg) 18/25](anwz-brfg-18-25.md) — Zulassung des Geschäftsführers eines Vereins als Syndikusrechtsanwalt
+- [BGH, Beschluss vom 01.08.2025 - AnwZ (Brfg) 17/25](anwz-brfg-17-25.md) — Zulassung zur Rechtsanwaltschaft eines in England und Wales zugelassenen "Barristers" im Wege der Eingliederung nach Brexit
+- [BGH, Urteil vom 22.07.2025 - AnwZ (Brfg) 36/24](anwz-brfg-36-24.md) — Anwaltsgerichtliches Verfahren: Zulassung einer doppelstöckigen anwaltlichen Berufsausübungsgesellschaft nach altem und neuem Recht
+- [BGH, Beschluss vom 18.07.2025 - AnwZ (Brfg) 2/25](anwz-brfg-2-25.md) — BGH, Beschluss AnwZ (Brfg) 2/25
+- [BGH, Beschluss vom 18.07.2025 - AnwZ (Brfg) 3/25](anwz-brfg-3-25.md) — BGH, Beschluss AnwZ (Brfg) 3/25
+- [BGH, Beschluss vom 18.07.2025 - AnwZ (Brfg) 4/25](anwz-brfg-4-25.md) — BGH, Beschluss AnwZ (Brfg) 4/25
+- [BGH, Beschluss vom 10.07.2025 - AnwZ (Brfg) 6/25](anwz-brfg-6-25.md) — Anwaltsgerichtliches Verfahren: Voraussetzungen der Aufhebung eines Widerrufs der Rechtsanwaltszulassung
+- [BGH, Beschluss vom 08.07.2025 - AnwZ (Brfg) 33/24](anwz-brfg-33-24.md) — Anwaltgerichtliches Verfahren zum Anspruch einer EU-Beamtin auf Aufnahme als europäische Rechtsanwältin in die Rechtsanwaltskammer: Erfordernis der Einreichung 
+- [BGH, Beschluss vom 25.06.2025 - AnwSt (B) 2/25](anwst-b-2-25.md) — BGH, Beschluss AnwSt (B) 2/25
+- [BGH, Beschluss vom 17.06.2025 - AnwZ (Brfg) 13/25](anwz-brfg-13-25.md) — Anwaltliches Berufsrecht: Wiederzulassung zur Rechtsanwaltschaft nach Begehung gravierender Straftaten
+- [BGH, Beschluss vom 17.06.2025 - AnwZ (Brfg) 15/25](anwz-brfg-15-25.md) — BGH, Beschluss AnwZ (Brfg) 15/25
+- [BGH, Beschluss vom 17.06.2025 - AnwZ (Brfg) 16/25](anwz-brfg-16-25.md) — Strukturanforderungen und Nachweispflichten bei Fortbildungsveranstaltungen im Rahmen der Mediationsausbildung
+- [BGH, Beschluss vom 17.06.2025 - AnwZ (Brfg) 24/24](anwz-brfg-24-24.md) — Widerruf der Rechtsanwaltszulassung: Zustellung eines Scheinurteils; Eintritt der Erledigung
+- [BGH, Beschluss vom 28.05.2025 - AnwZ (Brfg) 7/25](anwz-brfg-7-25.md) — Teilnahme an Lehrveranstaltung im Referendariat als Befreiungstatbestand
+- [BGH, Beschluss vom 27.05.2025 - AnwZ (Brfg) 20/24](anwz-brfg-20-24.md) — BGH, Beschluss AnwZ (Brfg) 20/24
+- [BGH, Beschluss vom 16.05.2025 - AnwSt (B) 1/25](anwst-b-1-25.md) — BGH, Beschluss AnwSt (B) 1/25
+- [BGH, Beschluss vom 16.05.2025 - AnwZ (Brfg) 5/25](anwz-brfg-5-25.md) — BGH, Beschluss AnwZ (Brfg) 5/25
+- [BGH, Beschluss vom 16.05.2025 - AnwZ (Brfg) 51/24](anwz-brfg-51-24.md) — BGH, Beschluss AnwZ (Brfg) 51/24
+- [BGH, Beschluss vom 09.05.2025 - AnwZ (Brfg) 10/25](anwz-brfg-10-25.md) — BGH, Beschluss AnwZ (Brfg) 10/25
+- [BGH, Beschluss vom 09.05.2025 - AnwZ (Brfg) 8/25](anwz-brfg-8-25.md) — Elektronische Zustellung über das besondere Anwaltspostfach ohne Empfangsbekenntnis; Heilung eines Zustellungsmangels
+- [BGH, Beschluss vom 29.04.2025 - AnwSt (B) 11/24](anwst-b-11-24.md) — BGH, Beschluss AnwSt (B) 11/24
+- [BGH, Beschluss vom 29.04.2025 - AnwZ (Brfg) 42/24](anwz-brfg-42-24.md) — BGH, Beschluss AnwZ (Brfg) 42/24
+- [BGH, Beschluss vom 29.04.2025 - AnwZ (Brfg) 46/24](anwz-brfg-46-24.md) — BGH, Beschluss AnwZ (Brfg) 46/24
+- [BGH, Urteil vom 25.04.2025 - AnwZ (Brfg) 41/24](anwz-brfg-41-24.md) — Zulassung eines GmbH-Geschäftsführers als Syndikusrechtsanwalt
+- [BGH, Beschluss vom 11.04.2025 - AnwSt (R) 8/24](anwst-r-8-24.md) — BGH, Beschluss AnwSt (R) 8/24
+- [BGH, Beschluss vom 24.03.2025 - AnwZ (Brfg) 48/24](anwz-brfg-48-24.md) — Abweisung der Klage gegen den Widerruf der Zulassung zur Rechtsanwaltschaft wegen Nichterscheinens des Betroffenen: Glaubhaftmachung eines erheblichen Grundes f
+- [BGH, Beschluss vom 21.03.2025 - AnwZ(Brfg) 29/24](anwzbrfg-29-24.md) — BGH, Beschluss AnwZ(Brfg) 29/24
+- [BGH, Beschluss vom 13.03.2025 - AnwZ (Brfg) 49/24](anwz-brfg-49-24.md) — BGH, Beschluss AnwZ (Brfg) 49/24
+- [BGH, Beschluss vom 06.03.2025 - AnwZ(Brfg) 13/24](anwzbrfg-13-24.md) — BGH, Beschluss AnwZ(Brfg) 13/24
+- [BGH, Beschluss vom 07.02.2025 - AnwZ (Brfg) 40/24](anwz-brfg-40-24.md) — BGH, Beschluss AnwZ (Brfg) 40/24
+- [BGH, Beschluss vom 07.02.2025 - AnwZ (Brfg) 47/24](anwz-brfg-47-24.md) — BGH, Beschluss AnwZ (Brfg) 47/24
+- [BGH, Beschluss vom 07.02.2025 - AnwZ (Brfg) 7/24](anwz-brfg-7-24.md) — BGH, Beschluss AnwZ (Brfg) 7/24
+- [BGH, Beschluss vom 24.01.2025 - AnwZ (Brfg) 30/24](anwz-brfg-30-24.md) — BGH, Beschluss AnwZ (Brfg) 30/24
+- [BGH, Beschluss vom 24.01.2025 - AnwZ (Brfg) 44/24](anwz-brfg-44-24.md) — BGH, Beschluss AnwZ (Brfg) 44/24

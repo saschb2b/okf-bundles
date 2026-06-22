@@ -1,0 +1,51 @@
+# III. Zivilsenat – 2019
+
+47 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2019 - III ZB 28/19](iii-zb-28-19.md) — Rechenschaftslegung, Beschwer Die zur Auskunftserteilung oder Rechnungslegung verurteilte Partei ist nur insoweit beschwert, als sie durch das Urteil zu (zusätz
+- [BGH, Urteil vom 12.12.2019 - III ZR 198/18](iii-zr-198-18.md) — Parteivernehmung, Subsidiarität 1. Eine Parteivernehmung von Amts wegen kommt nur in Betracht, wenn zuvor alle angebotenen Beweismittel ausgeschöpft worden sind
+- [BGH, Urteil vom 05.12.2019 - III ZR 112/18](iii-zr-112-18.md) — 1. Eine große Differenz zwischen Ankaufs- und Verkaufspreis eines Grundstücks bei kurz aufeinanderfolgenden Verträgen ist ein Anhaltspunkt für die Verfolgung un
+- [BGH, Urteil vom 21.11.2019 - III ZR 244/18](iii-zr-244-18.md) — Kapitalanlageberatung, Zurechnung Der Schutzzweck einer Auskunfts- oder Beratungspflicht ist nicht stets auf den ersten Erwerb einer Anlage auf der Grundlage de
+- [BGH, Urteil vom 07.11.2019 - III ZR 17/19](iii-zr-17-19.md) — 1. § 198 Abs. 1 Satz 1 GVG normiert einen staatshaftungsrechtlichen, verschuldensunabhängigen Entschädigungsanspruch sui generis, der Verfahrensbeteiligten das 
+- [BGH, Urteil vom 31.10.2019 - III ZR 64/18](iii-zr-64-18.md) — Ordnungsgemäße Entwässerung aus Anlass einer Straßensanierung 1. Bei der Planung und Ausführung der Sanierung einer Bundesstraße hat der zuständige Straßenbaula
+- [BGH, Urteil vom 24.10.2019 - III ZR 141/18](iii-zr-141-18.md) — 1. Im Rahmen der analogen Anwendung von § 839a BGB auf Sachverständigengutachten in staatsanwaltschaftlichen Ermittlungsverfahren ist die Anklageerhebung als ei
+- [BGH, Urteil vom 17.10.2019 - III ZR 42/19](iii-zr-42-19.md) — Schadensersatz, Gerichtsstandsvereinbarung 1. Die Vereinbarung eines inländischen Gerichtsstands kann eine Verpflichtung begründen, Klagen nur an diesem Gericht
+- [BGH, Urteil vom 10.10.2019 - III ZR 227/18](iii-zr-227-18.md) — Die Verjährung des notariellen Amtshaftungsanspruchs beginnt, wenn dem Geschädigten Tatsachen bekannt oder grob fahrlässig unbekannt sind, die auch aus der Pers
+- [BGH, Beschluss vom 26.09.2019 - III ZR 282/18](iii-zr-282-18.md) — (Anforderungen an die Begründung eines Wiedereinsetzungsantrags)
+- [BGH, Beschluss vom 26.09.2019 - III ZR 85/19](iii-zr-85-19.md) — Voraussetzungen der Beiordnung eines Notanwalts
+- [BGH, Beschluss vom 05.09.2019 - III ZR 218/18](iii-zr-218-18.md) — Uferkrawatte Die Veränderung der Uferlinie infolge des Inkrafttretens von § 7 Abs. 1 bwWG am 1. März 1960 hat nicht zu einer Anwachsung des Eigentums an der dad
+- [BGH, Urteil vom 22.08.2019 - III ZR 113/18](iii-zr-113-18.md) — 1. Ein Heimbewohner, der dem Heimträger zum Schutz seiner körperlichen Unversehrtheit anvertraut ist, kann erwarten, dass der Heimträger ihn vor einer - jedenfa
+- [BGH, Urteil vom 15.08.2019 - III ZR 18/19](iii-zr-18-19.md) — Die Remonstrationspflicht gemäß § 36 Abs. 2 BeamtStG und § 63 Abs. 2 BBG ist dem Grundsatz nach keine Amtspflicht, die dem Beamten Dritten gegenüber obliegt.
+- [BGH, Urteil vom 15.08.2019 - III ZR 205/17](iii-zr-205-17.md) — 1. Zur ordnungsgemäßen Risikoaufklärung des Anlegers bei der Zeichnung von Beteiligungen an geschlossenen Fonds und der diesbezüglichen Verteilung der Darlegung
+- [BGH, Beschluss vom 22.07.2019 - III ZR 625/16](iii-zr-625-16.md) — Erhebung von Gerichtskosten vom Insolvenzverwalter bei einem unterbrochenen Nichtzulassungsbeschwerdeverfahren
+- [BGH, Urteil vom 04.07.2019 - III ZR 202/18](iii-zr-202-18.md) — Mit dem tatsächlichen Hauptvorbringen unvereinbares Hilfsvorbringen einer Partei ist unbeachtlich, wenn das Gericht das Hauptvorbringen seiner Entscheidung zu G
+- [BGH, Beschluss vom 27.06.2019 - III ZR 190/18](iii-zr-190-18.md) — Insolvenzfeststellungsklage: Bemessung von Streit- und Rechtsmittelbeschwerdewert bei Quotenausfall der Forderung
+- [BGH, Urteil vom 27.06.2019 - III ZR 93/18](iii-zr-93-18.md) — Rückforderung von Trinkwasseranschlussbeiträgen 1. Gemäß § 8 Abs. 7 Satz 2 in Verbindung mit § 2 Abs. 1 Satz 1 KAG Bbg in der Fassung vom 27. Juni 1991 war für 
+- [BGH, Beschluss vom 06.06.2019 - III ZB 98/18](iii-zb-98-18.md) — 1. Der Umstand, dass der gerichtlich bestellte Sachverständige im Rahmen der von ihm ausgeübten ärztlichen Tätigkeit gegenüber Versicherungsnehmern einer privat
+- [BGH, Urteil vom 06.06.2019 - III ZR 124/18](iii-zr-124-18.md) — Die Mitarbeiter eines privaten Unternehmens, die zur Ausführung einer verkehrsbeschränkenden Anordnung der Straßenbaubehörde und des der Anordnung beigefügten V
+- [BGH, Versäumnisurteil vom 06.06.2019 - III ZR 83/18](iii-zr-83-18.md) — Revision in Zivilsachen: Auslegung der Rechtsmittelschrift hinsichtlich des Berufungsgegners bei Streitgenossenschaft
+- [BGH, Beschluss vom 22.05.2019 - III ZR 16/18](iii-zr-16-18.md) — Einseitige Hauptsacheerledigungserklärung: Behandlung eines Feststellungsantrags an das unzuständige angerufene Gericht vor Stellung eines Verweisungsantrags
+- [BGH, Urteil vom 16.05.2019 - III ZR 176/18](iii-zr-176-18.md) — Anlageberaterhaftung: Pflicht zur anlegergerechten Empfehlung; abweichender Parteivortrag zum Anlageziel; entgangener Gewinn
+- [BGH, Urteil vom 16.05.2019 - III ZR 6/18](iii-zr-6-18.md) — 1. In einem Strafverfahren beschlagnahmte Gegenstände sind auch gegenüber nicht beschuldigten (unbeteiligten) Dritten in entsprechender Anwendung von § 697 BGB 
+- [BGH, Urteil vom 09.05.2019 - III ZR 388/17](iii-zr-388-17.md) — Rückstau von Niederschlagswasser 1. Führt die im Zuge von Sanierungsmaßnahmen erhöhte Gradiente einer Straße dazu, dass der Abfluss von Niederschlagswasser von 
+- [BGH, Beschluss vom 25.04.2019 - III ZB 104/18](iii-zb-104-18.md) — Wiedereinsetzung in den vorigen Stand bei Beantragung von Prozesskostenhilfe innerhalb der Rechtsmittelfrist
+- [BGH, Urteil vom 18.04.2019 - III ZR 191/18](iii-zr-191-18.md) — Unangemessene Benachteiligung durch Vorfälligkeitsklausel in Unterrichtsvertrag
+- [BGH, Urteil vom 18.04.2019 - III ZR 67/18](iii-zr-67-18.md) — 1. Passivlegitimiert bei einem Schadensersatzanspruch nach Art. 5 Abs. 5 MRK ist der Hoheitsträger, dessen Hoheitsgewalt bei der rechtswidrigen Freiheitsentzieh
+- [BGH, Urteil vom 11.04.2019 - III ZR 4/18](iii-zr-4-18.md) — Zum Erstattungsanspruch des Sozialhilfeträgers aus § 812 Abs. 1 Satz 2 Alt. 1 BGB gegenüber dem Leistungserbringer im Rahmen des sozialhilferechtlichen Dreiecks
+- [BGH, Urteil vom 04.04.2019 - III ZR 338/17](iii-zr-338-17.md) — 1. Die notariellen Belehrungspflichten gemäß § 17 Abs. 1 und 2 BeurkG beschränken sich grundsätzlich auf das konkret zu beurkundende Geschäft. Ein - für die Sch
+- [BGH, Urteil vom 04.04.2019 - III ZR 35/18](iii-zr-35-18.md) — 1. Bei pflichtwidrig unterlassenen Erste-Hilfe-Maßnahmen von Sportlehrern bei einem Unglücksfall während des Sportunterrichts beschränkt sich die Haftung (§ 839
+- [BGH, Beschluss vom 27.03.2019 - III ZR 156/18](iii-zr-156-18.md) — Umwandlung des Befreiungsanspruchs eines Treuhandkommanditisten in Zahlungsanspruch
+- [BGH, Urteil vom 07.03.2019 - III ZR 117/18](iii-zr-117-18.md) — Notarhaftung, Verjährung 1. Hat der Amtsträger durch eine fehlerhafte Belehrung über den Inhalt seiner Amtspflichten deren Verletzung gegenüber dem Geschädigten
+- [BGH, Beschluss vom 28.02.2019 - III ZB 96/18](iii-zb-96-18.md) — 1. Bei der Fristeingabe in den elektronischen Fristenkalender muss eine Kontrolle durch einen Ausdruck der eingegebenen Einzelvorgänge oder eines Fehlerprotokol
+- [BGH, Urteil vom 21.02.2019 - III ZR 115/18](iii-zr-115-18.md) — 1. Für die Zustellung einer im Beschlusswege erwirkten einstweiligen Verfügung genügt seit dem 1. Juli 2014 die Übermittlung einer vom Gericht beglaubigten Absc
+- [BGH, Urteil vom 07.02.2019 - III ZR 38/18](iii-zr-38-18.md) — Zur Transparenzkontrolle vorformulierter Klauseln in Verträgen nach dem Wohn- und Betreuungsvertragsgesetz über die Verpflichtung des Pflegebedürftigen zur Trag
+- [BGH, Urteil vom 07.02.2019 - III ZR 498/16](iii-zr-498-16.md) — abgelehnte Prospektlektüre 1. Lehnt ein Anleger die Entgegennahme eines Emissionsprospekts mit der Begründung ab, dieser sei "zu dick und zu schwer" und nur "Pa
+- [BGH, Beschluss vom 31.01.2019 - III ZA 34/18](iii-za-34-18.md) — 1. An der Einleitung eines Gerichtsverfahrens im Sinne des § 198 Abs. 6 Nr. 1 GVG kann es fehlen, wenn der "Klage" kein sinnhaftes und ernst zu nehmendes Rechts
+- [BGH, Beschluss vom 31.01.2019 - III ZA 41/18](iii-za-41-18.md) — Mindestbeschwer für eine Nichtzulassungsbeschwerde bei beabsichtigter Revision gegen ein erstinstanzliches Urteil eines Oberlandesgerichts in einer Entschädigun
+- [BGH, Beschluss vom 31.01.2019 - III ZB 88/18](iii-zb-88-18.md) — Unterschrift auf einer Telekopie Der Prozessbevollmächtigte einer Partei, der aufgrund der bereits auf dem Originalschriftsatz kaum sichtbaren (blassen) Untersc
+- [BGH, Urteil vom 31.01.2019 - III ZR 186/17](iii-zr-186-17.md) — 1. Solange das Gesetz einem Einzelnen einen Anspruch auf eine öffentlich-rechtliche Subvention gewährt, stellt es einen entschädigungspflichtigen Eingriff in ei
+- [BGH, Urteil vom 17.01.2019 - III ZR 209/17](iii-zr-209-17.md) — 1. Die Bundesrepublik hat durch die Regelungen in § 4 Nr. 16 und 18 UStG 1980 und 1992 nicht in einer einen unionsrechtlichen Staatshaftungsanspruch begründende
+- [BGH, Beschluss vom 10.01.2019 - III ZB 118/18](iii-zb-118-18.md) — Zurückweisung eines Prozesskostenhilfegesuchs in Entschädigungssachen: Statthaftigkeit der Rechtsbeschwerde
+- [BGH, Urteil vom 10.01.2019 - III ZR 109/17](iii-zr-109-17.md) — Wissenserklärung, Rechtzeitigkeit der Prospektübergabe 1. Eine vorformulierte Bestätigung des Anlegers, die Risikohinweise in einem Emissionsprospekt zur Kenntn
+- [BGH, Urteil vom 10.01.2019 - III ZR 325/17](iii-zr-325-17.md) — 1. § 17 Abs. 3 Satz 1 KHEntgG legt den Kreis der liquidationsberechtigten Wahlärzte abschließend fest und schließt wahlärztliche Leistungen durch Honorarärzte a
+- [BGH, Urteil vom 10.01.2019 - III ZR 37/18](iii-zr-37-18.md) — Im Rahmen eines Konzepts zum betreuten Wohnen ist ein in einer Teilungserklärung enthaltener Kontrahierungszwang unwirksam, durch den die Wohnungseigentümer zum

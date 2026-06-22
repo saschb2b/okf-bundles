@@ -1,0 +1,89 @@
+# 2. Strafsenat – 2011
+
+85 Entscheidung(en).
+
+- [BGH, Beschluss vom 28.12.2011 - 2 StR 195/11](2-str-195-11.md) — Aufklärungspflicht des Strafrichters: Anwendung von Zwangsmitteln gegen den die Aussage grundlos verweigernden Zeugen
+- [BGH, Beschluss vom 28.12.2011 - 2 StR 352/11](2-str-352-11.md) — Betäubungsmitteldelikte: Strafmilderungsgrund der Aufklärungshilfe bei Widerruf der Angaben in der Hauptverhandlung
+- [BGH, Beschluss vom 27.12.2011 - 2 StR 380/11](2-str-380-11.md) — Gefährliche Körperverletzung durch Gebrauch einer Schusswaffe in Notwehr: Strafbarkeit des Besitzes und des Führens der Waffe
+- [BGH, Beschluss vom 22.12.2011 - 2 ARs 403/11](2-ars-403-11.md) — Strafbarkeit eines GmbH-Geschäftsführes wegen Bankrotts
+- [BGH, Beschluss vom 22.12.2011 - 2 ARs 458/11](2-ars-458-11.md) — Voraussetzungen der nachträglichen Gesamtstrafenbildung
+- [BGH, Urteil vom 22.12.2011 - 2 StR 509/10](2-str-509-10.md) — Ein in einem Kraftfahrzeug mittels akustischer Überwachung aufgezeichnetes Selbstgespräch eines sich unbeobachtet fühlenden Beschuldigten ist im Strafverfahren 
+- [BGH, Urteil vom 21.12.2011 - 2 StR 295/11](2-str-295-11.md) — Strafbarkeit wegen Totschlags durch Unterlassen bei Nichteinschreiten gegen die Einnahme eines tödlichen Reinigungsmittels
+- [BGH, Beschluss vom 15.12.2011 - 2 StR 505/11](2-str-505-11.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Beihilfe durch Entgegennahme des Verkaufserlöses
+- [BGH, Beschluss vom 23.11.2011 - 2 StR 112/11](2-str-112-11.md) — Strafverfahren: Mitschrift von Vorgängen in der Hauptverhandlung durch das Gericht
+- [BGH, Beschluss vom 17.11.2011 - 2 StR 348/11](2-str-348-11.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln: Strafbarkeit einer Wohnungsinhaberin bei Duldung der Aufbereitung und des Vertriebs von Betäubungs
+- [BGH, Beschluss vom 09.11.2011 - 2 StR 386/11](2-str-386-11.md) — Hehlerei: Nicht vollendete Vortat
+- [BGH, Beschluss vom 09.11.2011 - 2 StR 427/11](2-str-427-11.md) — Unterbringung in einer Entziehungsanstalt: Hang zu übermäßigem Genuss von Rauschmitteln
+- [BGH, Beschluss vom 09.11.2011 - 2 StR 444/11](2-str-444-11.md) — Unterbringung in einer Entziehungsanstalt: Dauer des Vorwegvollzugs der Freiheitsstrafe
+- [BGH, Beschluss vom 03.11.2011 - 2 StR 201/11](2-str-201-11.md) — Besitz von Betäubungsmitteln durch Ausländer im Ausland: Anwendbarkeit deutschen Strafrechts
+- [BGH, Beschluss vom 03.11.2011 - 2 StR 302/11](2-str-302-11.md) — Vorteil im Sinne des § 257 Abs. 1 StGB ist auch der an einen Tatbeteiligten gezahlte, nicht aber der ihm versprochene Tatlohn.
+- [BGH, Urteil vom 02.11.2011 - 2 StR 251/11](2-str-251-11.md) — Revision im Strafverfahren: Ausnahme der Nicht-Anordnung der Unterbringung in einer Entziehungsanstalt vom Revisionsangriff
+- [BGH, Urteil vom 02.11.2011 - 2 StR 332/11](2-str-332-11.md) — In der Verweisung auf ein elektronisches Speichermedium liegt keine wirksame Bezugnahme im Sinne von § 267 Abs. 1 Satz 3 StPO .
+- [BGH, Urteil vom 02.11.2011 - 2 StR 375/11](2-str-375-11.md) — Putativnotwehr: Irrtümliche Deutung eines verdeckten Polizeieinsatzes als lebensbedrohenden Angriff
+- [BGH, Beschluss vom 26.10.2011 - 2 StR 218/11](2-str-218-11.md) — Strafzumessung bei schwerem Raub: Prüfungsreihenfolge bei minder schwerem Fall und vertyptem Strafmilderungsgrund
+- [BGH, Beschluss vom 26.10.2011 - 2 StR 287/11](2-str-287-11.md) — Strafverurteilung wegen besonders schwerer Brandstiftung: Notwendige Urteilsfeststellungen zur vollendeten Inbrandsetzung eines gemischt genutzten Gebäudes; Zer
+- [BGH, Beschluss vom 26.10.2011 - 2 StR 328/11](2-str-328-11.md) — Anordnung der Sicherungsverwahrung wegen Umgangs mit Kinderpornografie im Lichte der Weitergeltungsanordnung der Bundeserfassungsgerichts
+- [BGH, Beschluss vom 20.10.2011 - 2 StR 288/11](2-str-288-11.md) — Anordnung der Sicherungsverwahrung im Übergangsfall: Verhältnismäßigkeitsgrundsatz nach Weitergeltungsanordnung des Bundesverfassungsgerichts; Betäubungsmitteld
+- [BGH, Beschluss vom 20.10.2011 - 2 StR 405/11](2-str-405-11.md) — Strafverfahren: Wahrung der Revisionseinlegungsfrist durch Einwurf in den Gerichtsbriefkasten; Ergänzung der Urteilsgründe
+- [BGH, Urteil vom 19.10.2011 - 2 StR 305/11](2-str-305-11.md) — Anordnung der Sicherungsverwahrung wegen schweren Raubes im Lichte der Weitergeltungsanordnung der Bundeserfassungsgerichts
+- [BGH, Urteil vom 19.10.2011 - 2 StR 344/11](2-str-344-11.md) — Strafzumessung nach schwerem sexuellen Missbrauch eines Kindes: Voraussetzungen eines Täter-Opfer-Ausgleichs
+- [BGH, Urteil vom 12.10.2011 - 2 StR 202/11](2-str-202-11.md) — Versuchte schwere sexuelle Nötigung: Fehlerhafte Beweiswürdigung unter Anwendung des Grundsatzes "in dubio pro reo"
+- [BGH, Beschluss vom 12.10.2011 - 2 StR 362/11](2-str-362-11.md) — Beweiswürdigung im Strafverfahren: Notwendige Urteilsfeststellungen bei Identifizierung des Täters aufgrund einer DNA-Untersuchung
+- [BGH, Urteil vom 28.09.2011 - 2 StR 93/11](2-str-93-11.md) — Bandendiebstahl: Begehung einer Bandentat durch nur zwei Bandenmitglieder
+- [BGH, Beschluss vom 22.09.2011 - 2 StR 263/11](2-str-263-11.md) — Beweiswürdigung im Strafverfahren: Verurteilung aufgrund der Angaben eines Mittäters wegen eines Betäubungsmitteldelikts
+- [BGH, Beschluss vom 22.09.2011 - 2 StR 322/11](2-str-322-11.md) — Reihenfolge der Vollstreckung: Beschwer durch Nichtanordnung des teilweisen Vorwegvollzugs einer Maßregel
+- [BGH, Beschluss vom 22.09.2011 - 2 StR 383/11](2-str-383-11.md) — Verständigung im Strafverfahren: Anforderungen an die Beweiswürdigung und Umfang der richterlichen Sachverhaltsaufklärungspflicht bei einer Verfahrensabsprache;
+- [BGH, Urteil vom 21.09.2011 - 2 StR 286/11](2-str-286-11.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Mitsichführen einer Schusswaffe
+- [BGH, Urteil vom 14.09.2011 - 2 StR 145/11](2-str-145-11.md) — Tötung auf Verlangen: Ernstlichkeit des Tötungsverlangens bei Beeinträchtigung der Willensfähigkeit infolge Krankheit
+- [BGH, Urteil vom 07.09.2011 - 2 StR 600/10](2-str-600-10.md) — Strafverfahren wegen Untreue: Bestimmung des untreuerelevanten Vermögensnachteils
+- [BGH, Beschluss vom 30.08.2011 - 2 StR 141/11](2-str-141-11.md) — Strafverfahren wegen gewerbs- und bandenmäßigen Betruges: Strafmilderung wegen Aufklärungshilfe bei wechselndem Aussageverhalten eines Angeklagten
+- [BGH, Beschluss vom 30.08.2011 - 2 StR 652/10](2-str-652-10.md) — Strafverfahren u.a. wegen Untreue: Prozessordnungsgemäße Einführung einer Vielzahl von Urkunden in die Hauptverhandlung; maßgeblicher Vermögensschaden einer Kom
+- [BGH, Beschluss vom 24.08.2011 - 2 StR 109/11](2-str-109-11.md) — Betrug: Vermögensschaden bei so genannten Abofallen im Internet
+- [BGH, Beschluss vom 11.08.2011 - 2 StR 91/11](2-str-91-11.md) — Versuch des Nachmachens von Zahlungskarten mit Garantiefunktion: Anbringen einer Skimming-Apparatur an einem Geldautomaten
+- [BGH, Urteil vom 10.08.2011 - 2 StR 211/11](2-str-211-11.md) — Sicherungsverwahrung: Nachträgliche Anordnung aufgrund neuer Tatsachen
+- [BGH, Beschluss vom 10.08.2011 - 2 StR 221/11](2-str-221-11.md) — Milderungsgrund bei der Strafzumessung: Angeklagte als alleinerziehende Mutter von 2 Kindern
+- [BGH, Beschluss vom 04.08.2011 - 2 StR 219/11](2-str-219-11.md) — Rücktritt vom Tötungsversuch: Anforderungen an die Bemühungen zur Erfolgsabwendung
+- [BGH, Urteil vom 03.08.2011 - 2 StR 167/11](2-str-167-11.md) — Strafverfahren: Anforderungen an die Beweiswürdigung bei Freispruch
+- [BGH, Beschluss vom 03.08.2011 - 2 StR 228/11](2-str-228-11.md) — Versuchtes unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Abgrenzung zu Vorbereitungshandlungen bei Anlegen einer Cannabis-Plantage
+- [BGH, Beschluss vom 20.07.2011 - 2 StR 293/11](2-str-293-11.md) — (Strafzumessung bei mehrfachem Kindesmissbrauch: Fehlende Differenzierung beim Strafmaß der Einzelstrafen)
+- [BGH, Beschluss vom 13.07.2011 - 2 StR 88/11](2-str-88-11.md) — Strafverfahren: Überschreitung der Urteilsabsetzungsfrist wegen falscher Fristberechnung
+- [BGH, Urteil vom 07.07.2011 - 2 StR 184/11](2-str-184-11.md) — Anordnung der Sicherungsverwahrung: Handeltreiben mit Betäubungsmitteln als erhebliche Straftat
+- [BGH, Urteil vom 06.07.2011 - 2 StR 124/11](2-str-124-11.md) — Strafverfahren: Sachverständiger als völlig ungeeignetes Beweismittel
+- [BGH, Beschluss vom 22.06.2011 - 2 StR 139/11](2-str-139-11.md) — Revision in Strafsachen: Wirksamkeit der Herausnahme der Nichtanordnung einer Maßregel aus dem Revisionsangriff
+- [BGH, Urteil vom 22.06.2011 - 2 StR 580/10](2-str-580-10.md) — Unter die strafbewehrte Erlaubnispflicht nach § 1 Abs. 1 HeilprG fallen nur solche Behandlungen, die gesundheitliche Schäden verursachen können. Bei dem Strafta
+- [BGH, Beschluss vom 16.06.2011 - 2 StR 435/10](2-str-435-10.md) — Strafzumessung bei Mittätern: Unterschiedliche Strafhöhe bei gleichen Strafzumessungsgründen
+- [BGH, Urteil vom 15.06.2011 - 2 StR 140/11](2-str-140-11.md) — BGH, Urteil 2 StR 140/11
+- [BGH, Beschluss vom 15.06.2011 - 2 StR 645/10](2-str-645-10.md) — Strafzumessung bei Betäubungsmitteldelikten: Verstoß gegen Doppelverwertungsverbot bei Vorwurf eines vorsätzlichen Handelns
+- [BGH, Beschluss vom 09.06.2011 - 2 StR 158/11](2-str-158-11.md) — Unterbringung in einer Entziehungsanstalt: Unterbringungsdauer und Dauer der erkannten Freiheitsstrafe
+- [BGH, Beschluss vom 25.05.2011 - 2 ARs 164/11](2-ars-164-11.md) — Die für die Invollzugsetzung der Unterbringung nach § 67h StGB zuständige Strafvollstreckungskammer bleibt i.S.v. § 462a Abs. 1 Satz 1 StPO mit der Sache befass
+- [BGH, Beschluss vom 25.05.2011 - 2 StR 585/10](2-str-585-10.md) — Strafverfahren: Pflicht des Sachverständigen zur persönlichen Gutachtenerstattung
+- [BGH, Urteil vom 11.05.2011 - 2 StR 590/10](2-str-590-10.md) — Die mit dem Gesetz zur Regelung der Verständigung im Strafverfahren vom 29. Juli 2009 (BGBl. I S. 2353) eingeführte Vorschrift des § 257c StPO und die sich aus 
+- [BGH, Beschluss vom 11.05.2011 - 2 StR 618/10](2-str-618-10.md) — Strafverfahren wegen räuberischer Erpressung: Drohung mit einer in der Jackentasche verborgenen Wasserpistole; keine Anordnung der Sicherungsverwahrung mangels 
+- [BGH, Beschluss vom 05.05.2011 - 2 ARs 134/11](2-ars-134-11.md) — Folgen des Schweigens des Oberlandesgerichts zur Frage der Zulassung der Rechtsbeschwerde
+- [BGH, Urteil vom 04.05.2011 - 2 StR 524/10](2-str-524-10.md) — Strafverfahren: Zulässigkeit der Revision des Angeklagten gegen Einstellung bei Verfahrenshindernis; Verjährungsunterbrechung durch richterliche Durchsuchungsan
+- [BGH, Beschluss vom 20.04.2011 - 2 ARs 120/11](2-ars-120-11.md) — Abgabe eines Strafbefehlsverfahrens an ein anderes örtlich zuständiges Gericht
+- [BGH, Urteil vom 20.04.2011 - 2 StR 29/11](2-str-29-11.md) — Schwere Körperverletzung: Vorliegen einer erheblichen Entstellung
+- [BGH, Urteil vom 20.04.2011 - 2 StR 639/10](2-str-639-10.md) — Revision im Strafverfahren: Begründung einer sofortigen Beschwerde gegen den ein Richterablehnungsgesuch zurückweisenden Beschluss
+- [BGH, Beschluss vom 14.04.2011 - 2 StR 34/11](2-str-34-11.md) — Strafverfahren wegen schwerer räuberischer Erpressung: Strafmilderung wegen Offenbarung ermittlungsrelevanter Angaben über Mittäter
+- [BGH, Beschluss vom 14.04.2011 - 2 StR 616/10](2-str-616-10.md) — Zur Schadensfeststellung bei betrügerischer Kapitalerhöhung .
+- [BGH, Beschluss vom 14.04.2011 - 2 StR 65/11](2-str-65-11.md) — Ein "Zungenkuss" ist in der Regel keine dem Beischlaf ähnliche Handlung im Sinne von § 176a Abs. 2 Nr. 1 StGB .
+- [BGH, Beschluss vom 13.04.2011 - 2 StR 665/10](2-str-665-10.md) — Sexueller Missbrauch eines Kindes: Versagung der Strafaussetzung zur Verteidigung der Rechtsordnung
+- [BGH, Beschluss vom 06.04.2011 - 2 ARs 97/11](2-ars-97-11.md) — Schwere Brandstiftung bei einem einheitlichen, teils gewerblich, teils zu Wohnzwecken genutzten Gebäude
+- [BGH, Beschluss vom 06.04.2011 - 2 StR 72/11](2-str-72-11.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Wiedergabe des Sachverständigengutachtens zur Schuldfähigkeit
+- [BGH, Beschluss vom 06.04.2011 - 2 StR 73/11](2-str-73-11.md) — Strafverfahren: Sachverständigenablehnung wegen Besorgnis der Befangenheit
+- [BGH, Beschluss vom 31.03.2011 - 2 StR 8/11](2-str-8-11.md) — Bildung einer Einheitsjugendstrafe trotz Vollstreckung der früher verhängten Strafe
+- [BGH, Beschluss vom 23.03.2011 - 2 StR 584/10](2-str-584-10.md) — Änderung des rechtlichen Gesichtspunkts: Anforderungen an den rechtlichen Hinweis bei beabsichtigter Verurteilung wegen Mordes aus niedrigen Beweggründen anstat
+- [BGH, Beschluss vom 10.03.2011 - 2 StR 669/10](2-str-669-10.md) — Strafzumessung bei mehreren Diebstahlstaten: Wertungsfehler bei der Bemessung der Einzelstrafen
+- [BGH, Beschluss vom 09.03.2011 - 2 ARs 498/10](2-ars-498-10.md) — Strafvollstreckung: Fortdauernde Zuständigkeit der Strafvollstreckungskammer für den Bewährungswiderruf
+- [BGH, Beschluss vom 09.03.2011 - 2 StR 428/10](2-str-428-10.md) — Urkundenfälschung: Verwendung des Ausdrucks der manipulierten Bilddatei eines Personalausweises; Mindestanforderungen an die Urteilsgründe bei einer Verfahrensa
+- [BGH, Urteil vom 09.03.2011 - 2 StR 609/10](2-str-609-10.md) — Besonders schwerer Fall des Betruges: Gewerbsmäßigkeit bei erster Tathandlung; Berufsverbot wegen inneren Zusammenhangs der Straftat mit dem Beruf
+- [BGH, Beschluss vom 02.03.2011 - 2 StR 275/10](2-str-275-10.md) — Strafverfolgungsverjährung: Ersuchen um technische Unterstützung bei der Wiederherstellung gelöschter Computerdateien als verjährungsunterbrechender Gutachtenau
+- [BGH, Urteil vom 02.03.2011 - 2 StR 550/10](2-str-550-10.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose bei fehlender Erheblichkeit der Anlasstat; Besitz von Waffen
+- [BGH, Beschluss vom 02.03.2011 - 2 StR 674/10](2-str-674-10.md) — Totschlag: Rücktritt vom Tötungsversuch
+- [BGH, Beschluss vom 24.02.2011 - 2 StR 602/10](2-str-602-10.md) — Unterbringung in einem psychiatrischen Krankenhaus oder in einer Entziehungsanstalt
+- [BGH, Beschluss vom 02.02.2011 - 2 StR 511/10](2-str-511-10.md) — Der Täter handelt nicht gewerbsmäßig im Sinne des § 146 Abs. 1 Nr. 2 und 3, Abs. 2 StGB, wenn er sich eine Falschgeldmenge in einem Akt verschafft hat und diese
+- [BGH, Urteil vom 27.01.2011 - 2 StR 493/10](2-str-493-10.md) — Körperverletzung mit Todesfolge: Für die Strafzumessung relevantes Nachtatverhalten
+- [BGH, Beschluss vom 27.01.2011 - 2 StR 577/10](2-str-577-10.md) — Verstoß gegen das Doppelverwertungsverbot bei der Bewertung einer Beihilfehandlung
+- [BGH, Urteil vom 26.01.2011 - 2 StR 338/10](2-str-338-10.md) — Absoluter Revisionsgrund in Strafsachen: Besetzungsfehler der Strafkammer bei Mitwirkung eines der deutschen Sprache nicht mächtigen Schöffen
+- [BGH, Urteil vom 26.01.2011 - 2 StR 446/10](2-str-446-10.md) — Nachträgliche Gesamtstrafenbildung bei Sexualdelikten: Berücksichtigung der sinkenden Hemmschwelle bei wiederholter Begehung gleichartiger Taten
+- [BGH, Beschluss vom 12.01.2011 - 2 StR 433/10](2-str-433-10.md) — Betrug: Erforderliche Feststellungen zum Vorsatz bei falschen Angaben im Zusammenhang mit dem Abschluss einer Haftpflichtversicherung für Mietwagen

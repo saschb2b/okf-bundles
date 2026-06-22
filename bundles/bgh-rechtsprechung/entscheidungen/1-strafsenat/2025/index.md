@@ -1,0 +1,167 @@
+# 1. Strafsenat – 2025
+
+163 Entscheidung(en).
+
+- [BGH, Beschluss vom 31.12.2025 - 1 StR 537/25](1-str-537-25.md) — BGH, Beschluss 1 StR 537/25
+- [BGH, Beschluss vom 17.12.2025 - 1 StR 403/25](1-str-403-25.md) — BGH, Beschluss 1 StR 403/25
+- [BGH, Beschluss vom 17.12.2025 - 1 StR 433/25](1-str-433-25.md) — BGH, Beschluss 1 StR 433/25
+- [BGH, Beschluss vom 17.12.2025 - 1 StR 471/25](1-str-471-25.md) — Strafzumessung bei überlanger Verfahrensdauer
+- [BGH, Urteil vom 16.12.2025 - 1 StR 209/25](1-str-209-25.md) — BGH, Urteil 1 StR 209/25
+- [BGH, Urteil vom 10.12.2025 - 1 StR 110/25](1-str-110-25.md) — BGH, Urteil 1 StR 110/25
+- [BGH, Beschluss vom 10.12.2025 - 1 StR 387/25](1-str-387-25.md) — Unrichtige, unvollständige oder unterlassene Umsatzsteuervoranmeldungen und die denselben Besteuerungszeitraum betreffende unrichtige, unvollständige oder unter
+- [BGH, Beschluss vom 10.12.2025 - 1 StR 463/25](1-str-463-25.md) — BGH, Beschluss 1 StR 463/25
+- [BGH, Beschluss vom 10.12.2025 - 1 StR 505/25](1-str-505-25.md) — Sofern das Gericht die Beteiligung einer von einer zu erwartenden Einziehung betroffenen Person, die nicht Beschuldigter ist (Einziehungsbeteiligter), nach § 42
+- [BGH, Beschluss vom 10.12.2025 - 1 StR 528/25](1-str-528-25.md) — Zulässigkeit einer Beschränkung der Revisions bezüglich der Einziehung von Tatmitteln
+- [BGH, Urteil vom 27.11.2025 - 1 StR 104/25](1-str-104-25.md) — BGH, Urteil 1 StR 104/25
+- [BGH, Beschluss vom 27.11.2025 - 1 StR 372/25](1-str-372-25.md) — BGH, Beschluss 1 StR 372/25
+- [BGH, Beschluss vom 27.11.2025 - 1 StR 439/25](1-str-439-25.md) — BGH, Beschluss 1 StR 439/25
+- [BGH, Beschluss vom 27.11.2025 - 1 StR 493/25](1-str-493-25.md) — BGH, Beschluss 1 StR 493/25
+- [BGH, EuGH-Vorlage vom 27.11.2025 - 1 StR 527/24](1-str-527-24.md) — EuGH-Vorlage zu den Voraussetzungen von Marktmanipulationshandlungen
+- [BGH, Beschluss vom 26.11.2025 - 1 StR 427/25](1-str-427-25.md) — BGH, Beschluss 1 StR 427/25
+- [BGH, Beschluss vom 26.11.2025 - 1 StR 498/25](1-str-498-25.md) — BGH, Beschluss 1 StR 498/25
+- [BGH, Beschluss vom 25.11.2025 - 1 StR 436/25](1-str-436-25.md) — BGH, Beschluss 1 StR 436/25
+- [BGH, Beschluss vom 25.11.2025 - 1 StR 441/25](1-str-441-25.md) — BGH, Beschluss 1 StR 441/25
+- [BGH, Beschluss vom 18.11.2025 - 1 StR 375/25](1-str-375-25.md) — BGH, Beschluss 1 StR 375/25
+- [BGH, Beschluss vom 12.11.2025 - 1 StR 178/22](1-str-178-22.md) — Anforderungen an die Schadensfeststellung bei der räuberischen Erpressung in Bezug auf Gesellschaftsanteile
+- [BGH, Beschluss vom 12.11.2025 - 1 StR 285/25](1-str-285-25.md) — BGH, Beschluss 1 StR 285/25
+- [BGH, Beschluss vom 12.11.2025 - 1 StR 363/25](1-str-363-25.md) — Zur Gehörsverletzung führende tatsächliche Umstände als Zulässigkeitsvoraussetzung einer Anhörungsrüge
+- [BGH, Beschluss vom 12.11.2025 - 1 StR 443/25](1-str-443-25.md) — BGH, Beschluss 1 StR 443/25
+- [BGH, Beschluss vom 12.11.2025 - 1 StR 472/25](1-str-472-25.md) — BGH, Beschluss 1 StR 472/25
+- [BGH, Beschluss vom 16.10.2025 - 1 StR 300/25](1-str-300-25.md) — BGH, Beschluss 1 StR 300/25
+- [BGH, Beschluss vom 16.10.2025 - 1 StR 314/24](1-str-314-24.md) — BGH, Beschluss 1 StR 314/24
+- [BGH, Beschluss vom 16.10.2025 - 1 StR 432/25](1-str-432-25.md) — BGH, Beschluss 1 StR 432/25
+- [BGH, Urteil vom 15.10.2025 - 1 StR 146/25](1-str-146-25.md) — Erforderlicher Nötigungserfolg bei Geiselnahme
+- [BGH, Beschluss vom 14.10.2025 - 1 StR 31/25](1-str-31-25.md) — BGH, Beschluss 1 StR 31/25
+- [BGH, Urteil vom 14.10.2025 - 1 StR 445/24](1-str-445-24.md) — 1. Ein durch unrichtige Angaben in einer Erklärung zur gesonderten und einheitlichen Feststellung von Besteuerungsgrundlagen nach § 180 Abs. 1 Satz 1 Nr. 2 Buch
+- [BGH, Beschluss vom 08.10.2025 - 1 StR 125/25](1-str-125-25.md) — BGH, Beschluss 1 StR 125/25
+- [BGH, Beschluss vom 08.10.2025 - 1 StR 378/25](1-str-378-25.md) — BGH, Beschluss 1 StR 378/25
+- [BGH, Beschluss vom 30.09.2025 - 1 StR 270/25](1-str-270-25.md) — BGH, Beschluss 1 StR 270/25
+- [BGH, Urteil vom 18.09.2025 - 1 StR 217/25](1-str-217-25.md) — BGH, Urteil 1 StR 217/25
+- [BGH, Beschluss vom 17.09.2025 - 1 StR 136/25](1-str-136-25.md) — Rüge der rechtsfehlerhaften Ablehnung eines Beweisantrags
+- [BGH, Beschluss vom 17.09.2025 - 1 StR 201/25](1-str-201-25.md) — Prüfung eines sonstigen minder schweren Falls nach Aufklärungshilfe durch den Angeklagten
+- [BGH, Beschluss vom 17.09.2025 - 1 StR 258/25](1-str-258-25.md) — BGH, Beschluss 1 StR 258/25
+- [BGH, Beschluss vom 17.09.2025 - 1 StR 324/25](1-str-324-25.md) — Konkurrenzrechtliche Bewertung mehrerer Verstöße gegen das Waffengesetz und das Kriegswaffenkontrollgesetz
+- [BGH, Beschluss vom 09.09.2025 - 1 StR 299/25](1-str-299-25.md) — BGH, Beschluss 1 StR 299/25
+- [BGH, Beschluss vom 09.09.2025 - 1 StR 322/25](1-str-322-25.md) — Anforderungen an den elektronischen Rechtsverkehr bei der Übermittlung einer Revisionsbegründung durch Kanzleikollegen
+- [BGH, Beschluss vom 21.08.2025 - 1 StR 184/25](1-str-184-25.md) — BGH, Beschluss 1 StR 184/25
+- [BGH, Beschluss vom 21.08.2025 - 1 StR 252/25](1-str-252-25.md) — BGH, Beschluss 1 StR 252/25
+- [BGH, Beschluss vom 20.08.2025 - 1 StR 249/25](1-str-249-25.md) — BGH, Beschluss 1 StR 249/25
+- [BGH, Beschluss vom 20.08.2025 - 1 StR 325/25](1-str-325-25.md) — BGH, Beschluss 1 StR 325/25
+- [BGH, Beschluss vom 20.08.2025 - 1 StR 326/25](1-str-326-25.md) — Die nicht geringe Menge des synthetischen Cannabinoids "ADB-BINACA" (andere Trivialnamen "ADB-BUTINACA" oder "ADMB-BINACA") beginnt bei einem Gramm Wirkstoffmen
+- [BGH, Beschluss vom 20.08.2025 - 1 StR 332/25](1-str-332-25.md) — Kompensationsentscheidung bei Mittätern aufgrund rechtsstaatswidriger Verfahrensverzögerung
+- [BGH, Beschluss vom 20.08.2025 - 1 StR 336/25](1-str-336-25.md) — BGH, Beschluss 1 StR 336/25
+- [BGH, Beschluss vom 13.08.2025 - 1 StR 317/25](1-str-317-25.md) — BGH, Beschluss 1 StR 317/25
+- [BGH, Urteil vom 13.08.2025 - 1 StR 9/25](1-str-9-25.md) — BGH, Urteil 1 StR 9/25
+- [BGH, Beschluss vom 07.08.2025 - 1 StR 155/25](1-str-155-25.md) — BGH, Beschluss 1 StR 155/25
+- [BGH, Beschluss vom 07.08.2025 - 1 StR 287/25](1-str-287-25.md) — BGH, Beschluss 1 StR 287/25
+- [BGH, Beschluss vom 07.08.2025 - 1 StR 60/25](1-str-60-25.md) — Berechnung der Sozialversicherungsbeiträge und Festsetzung der Tagessatzhöhe in Urteil wegen Steuerhinterziehung und Vorenthalten von Arbeitsentgelt
+- [BGH, Beschluss vom 06.08.2025 - 1 StR 106/25](1-str-106-25.md) — Anforderungen an die tatgerichtliche Würdigung der Zustimmung des Finanzamts zu Vorsteuererstattungen bei vollendeter Steuerhinterziehung
+- [BGH, Urteil vom 06.08.2025 - 1 StR 177/25](1-str-177-25.md) — Prüfung des Vorsatzes der Steuerhinterziehung
+- [BGH, Beschluss vom 06.08.2025 - 1 StR 298/25](1-str-298-25.md) — BGH, Beschluss 1 StR 298/25
+- [BGH, Beschluss vom 05.08.2025 - 1 StR 182/25](1-str-182-25.md) — BGH, Beschluss 1 StR 182/25
+- [BGH, Beschluss vom 05.08.2025 - 1 StR 263/25](1-str-263-25.md) — BGH, Beschluss 1 StR 263/25
+- [BGH, Beschluss vom 05.08.2025 - 1 StR 291/25](1-str-291-25.md) — BGH, Beschluss 1 StR 291/25
+- [BGH, Beschluss vom 05.08.2025 - 1 StR 90/25](1-str-90-25.md) — BGH, Beschluss 1 StR 90/25
+- [BGH, Beschluss vom 04.08.2025 - 1 StR 240/25](1-str-240-25.md) — BGH, Beschluss 1 StR 240/25
+- [BGH, Beschluss vom 04.08.2025 - 1 StR 284/25](1-str-284-25.md) — Einstellung eines Verfahrens wegen Verfolgungsverjährung; Einziehung von durch verjährte Straftat erlangten Taterträgen
+- [BGH, Urteil vom 23.07.2025 - 1 StR 467/24](1-str-467-24.md) — BGH, Urteil 1 StR 467/24
+- [BGH, Beschluss vom 22.07.2025 - 1 StR 176/25](1-str-176-25.md) — BGH, Beschluss 1 StR 176/25
+- [BGH, Beschluss vom 22.07.2025 - 1 StR 286/25](1-str-286-25.md) — BGH, Beschluss 1 StR 286/25
+- [BGH, Beschluss vom 10.07.2025 - 1 StR 132/07](1-str-132-07.md) — BGH, Beschluss 1 StR 132/07
+- [BGH, Beschluss vom 10.07.2025 - 1 StR 140/21](1-str-140-21.md) — BGH, Beschluss 1 StR 140/21
+- [BGH, Beschluss vom 10.07.2025 - 1 StR 254/25](1-str-254-25.md) — Verurteilung wegen Mordes auf wahldeutiger Tatsachengrundlage
+- [BGH, Urteil vom 09.07.2025 - 1 StR 475/23](1-str-475-23.md) — Einziehung nach Bestechung: Unterbrechung des Kausal -und Zurechnungszusammenhangs durch Zwischenschaltung eines Dritten; Einhaltung der bilanzrechtlichen Regel
+- [BGH, Beschluss vom 08.07.2025 - 1 StR 298/24](1-str-298-24.md) — Vorsatz bei Cum/Ex-Geschäften: Überzeugungsbildung des Tatgerichts zur Beeinflussung des Vorstellungsbilds des Täters durch ein Gutachten
+- [BGH, Urteil vom 08.07.2025 - 1 StR 58/24](1-str-58-24.md) — BGH, Urteil 1 StR 58/24
+- [BGH, Beschluss vom 07.07.2025 - 1 StR 484/24](1-str-484-24.md) — Beihilfe zur Steuerhinterziehung: Erstellung eines Rechtsgutachten zur steuerrechtlichen Unbedenklichkeit von Cum-Ex-Gestaltungen
+- [BGH, Beschluss vom 26.06.2025 - 1 StR 426/24](1-str-426-24.md) — Versuchte Steuerhinterziehung durch ungerechtfertigte Geltendmachung von Verlusten einer Auslandsgesellschaft durch stillen Gesellschafter
+- [BGH, Beschluss vom 26.06.2025 - 1 StR 493/24](1-str-493-24.md) — Steuerhinterziehung: mittelbare Täterschaft bei Steuererklärung durch einen Steuerberater; Einziehung des Wertes von Taterträgen bei Ehegatten
+- [BGH, Beschluss vom 26.06.2025 - 1 StR 75/25](1-str-75-25.md) — BGH, Beschluss 1 StR 75/25
+- [BGH, Beschluss vom 26.06.2025 - 1 StR 94/25](1-str-94-25.md) — Steuerhinterziehung: Schuldner der Umsatzsteuer im Rahmen einer Zweitticketverkäufertätigkeit; Voraussetzung einer steuerlichen Rechtsmissbräuchlichkeit durch E
+- [BGH, Beschluss vom 26.06.2025 - 1 StR 99/25](1-str-99-25.md) — Strafverurteilung wegen Bestechlichkeit u.a.: Amtsträgereigenschaft einer Person bei der Organisation der Einreise ausländischer Staatsangehöriger
+- [BGH, Beschluss vom 24.06.2025 - 1 StR 135/25](1-str-135-25.md) — BGH, Beschluss 1 StR 135/25
+- [BGH, Beschluss vom 23.06.2025 - 1 StR 134/25](1-str-134-25.md) — BGH, Beschluss 1 StR 134/25
+- [BGH, Beschluss vom 23.06.2025 - 1 StR 191/25](1-str-191-25.md) — Zeitpunkt des Vorsatzes beim Versicherungsbetrug
+- [BGH, Beschluss vom 23.06.2025 - 1 StR 223/25](1-str-223-25.md) — BGH, Beschluss 1 StR 223/25
+- [BGH, Beschluss vom 11.06.2025 - 1 StR 122/25](1-str-122-25.md) — BGH, Beschluss 1 StR 122/25
+- [BGH, Beschluss vom 11.06.2025 - 1 StR 166/25](1-str-166-25.md) — BGH, Beschluss 1 StR 166/25
+- [BGH, Beschluss vom 10.06.2025 - 1 StR 219/25](1-str-219-25.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.: Ablehnung eines Beweisantrags wegen Wahrunterstellung
+- [BGH, Beschluss vom 10.06.2025 - 1 StR 92/25](1-str-92-25.md) — BGH, Beschluss 1 StR 92/25
+- [BGH, Beschluss vom 28.05.2025 - 1 StR 116/25](1-str-116-25.md) — Begründungsanforderungen bei Rüge der Überzeugungsbildung des Tatgerichts unter Verstoßes gegen den Unmittelbarkeitsgrundsatz; Gerichtskundigkeit von einem typi
+- [BGH, Beschluss vom 28.05.2025 - 1 StR 132/25](1-str-132-25.md) — Erforderliche Feststellungen bei Umsatzsteuerhinterziehung und Grenzen der Einziehung bei Vorteilen im GmbH-Vermögen
+- [BGH, Beschluss vom 28.05.2025 - 1 StR 53/25](1-str-53-25.md) — BGH, Beschluss 1 StR 53/25
+- [BGH, Beschluss vom 27.05.2025 - 1 StR 144/25](1-str-144-25.md) — BGH, Beschluss 1 StR 144/25
+- [BGH, Beschluss vom 27.05.2025 - 1 StR 364/24](1-str-364-24.md) — Steuerhinterziehung: Strafbarkeit von Fondsmanagern im Zusammenhang mit sog. "Cum-Ex-Geschäften"
+- [BGH, Beschluss vom 26.05.2025 - 1 StR 101/25](1-str-101-25.md) — BGH, Beschluss 1 StR 101/25
+- [BGH, Beschluss vom 26.05.2025 - 1 StR 154/25](1-str-154-25.md) — BGH, Beschluss 1 StR 154/25
+- [BGH, Beschluss vom 15.05.2025 - 1 StR 164/25](1-str-164-25.md) — BGH, Beschluss 1 StR 164/25
+- [BGH, Beschluss vom 15.05.2025 - 1 StR 189/25](1-str-189-25.md) — Revision in Strafsachen: Verschlechterungsverbot bei Aufhebung eines amtsgerichtlichen Urteils im Berufungsverfahren und Verweisung an die erstinstanzlich zustä
+- [BGH, Urteil vom 15.05.2025 - 1 StR 481/24](1-str-481-24.md) — Strafverfahren: Pflicht zur Mitteilung über einen Verständigungsvorschlag nach ausgesetzter Hauptverhandlung
+- [BGH, Urteil vom 14.05.2025 - 1 StR 410/24](1-str-410-24.md) — Revisionsverfahren: Überprüfung des Ergebnisses eines Augenscheins durch das Revisionsgericht
+- [BGH, Beschluss vom 14.05.2025 - 1 StR 567/24](1-str-567-24.md) — BGH, Beschluss 1 StR 567/24
+- [BGH, Beschluss vom 13.05.2025 - 1 StR 169/25](1-str-169-25.md) — BGH, Beschluss 1 StR 169/25
+- [BGH, Beschluss vom 30.04.2025 - 1 StR 109/25](1-str-109-25.md) — BGH, Beschluss 1 StR 109/25
+- [BGH, Urteil vom 30.04.2025 - 1 StR 349/24](1-str-349-24.md) — BGH, Urteil 1 StR 349/24
+- [BGH, Beschluss vom 30.04.2025 - 1 StR 39/25](1-str-39-25.md) — Unrichtige Angaben in einer Erklärung zur gesonderten und einheitlichen Feststellung von Besteuerungsgrundlagen (§ 181 Abs. 2 Nr. 1 AO) und solche in einer dens
+- [BGH, Beschluss vom 30.04.2025 - 1 StR 419/24](1-str-419-24.md) — BGH, Beschluss 1 StR 419/24
+- [BGH, Beschluss vom 30.04.2025 - 1 StR 457/24](1-str-457-24.md) — BGH, Beschluss 1 StR 457/24
+- [BGH, Beschluss vom 30.04.2025 - 1 StR 519/24](1-str-519-24.md) — BGH, Beschluss 1 StR 519/24
+- [BGH, Beschluss vom 29.04.2025 - 1 StR 238/24](1-str-238-24.md) — Gewerbesteuerhinterziehung: Unrichtige Angabe der Betriebsstätte im Zusammenhang mit der sog. "Maskenaffäre" während der Corona-Pandemie
+- [BGH, Beschluss vom 29.04.2025 - 1 StR 477/24](1-str-477-24.md) — BGH, Beschluss 1 StR 477/24
+- [BGH, Beschluss vom 29.04.2025 - 1 StR 78/25](1-str-78-25.md) — BGH, Beschluss 1 StR 78/25
+- [BGH, Beschluss vom 28.04.2025 - 1 StR 312/24](1-str-312-24.md) — BGH, Beschluss 1 StR 312/24
+- [BGH, Urteil vom 09.04.2025 - 1 StR 371/24](1-str-371-24.md) — Für die Frage, ob das Ablehnungsgesuch eines Sitzungsvertreters der Staatsanwaltschaft unverzüglich im Sinne des § 25 Abs. 2 Satz 1 Nr. 2 StPO angebracht ist, g
+- [BGH, Beschluss vom 09.04.2025 - 1 StR 522/24](1-str-522-24.md) — BGH, Beschluss 1 StR 522/24
+- [BGH, Beschluss vom 09.04.2025 - 1 StR 83/24](1-str-83-24.md) — BGH, Beschluss 1 StR 83/24
+- [BGH, Beschluss vom 08.04.2025 - 1 StR 113/25](1-str-113-25.md) — Schuldspruch wegen sexueller Nötigung und sexuellem Missbrauch von Schutzbefohlenen; Anwendbares Recht bei Tatbegehung in Türkei
+- [BGH, Urteil vom 08.04.2025 - 1 StR 372/24](1-str-372-24.md) — Schuldspruch wegen erwerbsmäßigen Bandenbetrugs durch Abholung von Vermögensgegenständen
+- [BGH, Beschluss vom 08.04.2025 - 1 StR 41/25](1-str-41-25.md) — BGH, Beschluss 1 StR 41/25
+- [BGH, Beschluss vom 08.04.2025 - 1 StR 470/24](1-str-470-24.md) — BGH, Beschluss 1 StR 470/24
+- [BGH, Beschluss vom 08.04.2025 - 1 StR 98/25](1-str-98-25.md) — BGH, Beschluss 1 StR 98/25
+- [BGH, Beschluss vom 03.04.2025 - 1 StR 494/24](1-str-494-24.md) — BGH, Beschluss 1 StR 494/24
+- [BGH, Beschluss vom 03.04.2025 - 1 StR 62/25](1-str-62-25.md) — Betäubungsmitteldelikt: Täterschaft bei unerlaubter Einfuhr von Betäubungsmitteln
+- [BGH, Beschluss vom 03.04.2025 - 1 StR 74/25](1-str-74-25.md) — BGH, Beschluss 1 StR 74/25
+- [BGH, Beschluss vom 02.04.2025 - 1 StR 407/24](1-str-407-24.md) — BGH, Beschluss 1 StR 407/24
+- [BGH, Beschluss vom 02.04.2025 - 1 StR 73/25](1-str-73-25.md) — BGH, Beschluss 1 StR 73/25
+- [BGH, Beschluss vom 01.04.2025 - 1 StR 434/24](1-str-434-24.md) — Offenlegungspflicht von ausführlicher Sachverhaltserörterung zwischen Vorsitzendem und Sitzungsvertreter
+- [BGH, Beschluss vom 01.04.2025 - 1 StR 436/24](1-str-436-24.md) — BGH, Beschluss 1 StR 436/24
+- [BGH, Beschluss vom 01.04.2025 - 1 StR 489/24](1-str-489-24.md) — Steuerhinterziehung durch Mitunternehmer eines Restaurants: Urteilsfeststellungen zu den steuererheblicher Tatsachen in den Urteilsgründen
+- [BGH, Beschluss vom 01.04.2025 - 1 StR 532/24](1-str-532-24.md) — BGH, Beschluss 1 StR 532/24
+- [BGH, Beschluss vom 01.04.2025 - 1 StR 65/25](1-str-65-25.md) — Beihilfe zu einem Schwarzlohnsystem: Zäsurwirkung eines angefochtenen amtgerichtlichen Urteil bei Aufrechterhaltung der Feststellungen durch das Landgericht; Ei
+- [BGH, Beschluss vom 20.03.2025 - 1 StR 37/25](1-str-37-25.md) — BGH, Beschluss 1 StR 37/25
+- [BGH, Beschluss vom 20.03.2025 - 1 StR 83/25](1-str-83-25.md) — BGH, Beschluss 1 StR 83/25
+- [BGH, Urteil vom 19.03.2025 - 1 StR 464/24](1-str-464-24.md) — Inkrafttreten des Konsumcannabisgesetzes: Einordnung einer Straftat als minder schwerer Fall; strafschärfende Bedeutung einer Überschreitung des Grenzwertes der
+- [BGH, Beschluss vom 19.03.2025 - 1 StR 505/24](1-str-505-24.md) — BGH, Beschluss 1 StR 505/24
+- [BGH, Beschluss vom 19.03.2025 - 1 StR 562/24](1-str-562-24.md) — BGH, Beschluss 1 StR 562/24
+- [BGH, Beschluss vom 18.03.2025 - 1 StR 394/24](1-str-394-24.md) — Verhältnis zwischen dem Versuch der besonders schweren räuberischen Erpressung und der vollendeten schweren räuberischen Erpressung
+- [BGH, Beschluss vom 05.03.2025 - 1 StR 25/25](1-str-25-25.md) — BGH, Beschluss 1 StR 25/25
+- [BGH, Beschluss vom 05.03.2025 - 1 StR 332/24](1-str-332-24.md) — BGH, Beschluss 1 StR 332/24
+- [BGH, Beschluss vom 05.03.2025 - 1 StR 501/24](1-str-501-24.md) — Strafverfahren wegen Steuerhinterziehung: Prozessualer Tatbegriff
+- [BGH, Beschluss vom 04.03.2025 - 1 StR 34/25](1-str-34-25.md) — BGH, Beschluss 1 StR 34/25
+- [BGH, Beschluss vom 19.02.2025 - 1 StR 12/25](1-str-12-25.md) — Gesamtwürdigung der Täterpersönlichkeit und der prognosegünstigen und -ungünstigen Umstände im Rahmen der Unterbringungsentscheidung
+- [BGH, Urteil vom 19.02.2025 - 1 StR 193/24](1-str-193-24.md) — BGH, Urteil 1 StR 193/24
+- [BGH, Beschluss vom 19.02.2025 - 1 StR 365/24](1-str-365-24.md) — BGH, Beschluss 1 StR 365/24
+- [BGH, Urteil vom 19.02.2025 - 1 StR 466/24](1-str-466-24.md) — BGH, Urteil 1 StR 466/24
+- [BGH, Beschluss vom 19.02.2025 - 1 StR 482/24](1-str-482-24.md) — Steuerstrafsache: Anforderungen an Urteilsfeststellungen bei Umsatzsteuerhinterziehung
+- [BGH, Beschluss vom 18.02.2025 - 1 StR 486/24](1-str-486-24.md) — BGH, Beschluss 1 StR 486/24
+- [BGH, Beschluss vom 18.02.2025 - 1 StR 543/24](1-str-543-24.md) — Unverzüglicher Antrag auf Ablehnung eines Richters wegen der Besorgnis der Befangenheit
+- [BGH, Beschluss vom 06.02.2025 - 1 StR 465/24](1-str-465-24.md) — BGH, Beschluss 1 StR 465/24
+- [BGH, Beschluss vom 06.02.2025 - 1 StR 5/25](1-str-5-25.md) — BGH, Beschluss 1 StR 5/25
+- [BGH, Urteil vom 05.02.2025 - 1 StR 161/24](1-str-161-24.md) — BGH, Urteil 1 StR 161/24
+- [BGH, Beschluss vom 05.02.2025 - 1 StR 568/24](1-str-568-24.md) — BGH, Beschluss 1 StR 568/24
+- [BGH, Beschluss vom 04.02.2025 - 1 StR 499/24](1-str-499-24.md) — BGH, Beschluss 1 StR 499/24
+- [BGH, Beschluss vom 04.02.2025 - 1 StR 537/24](1-str-537-24.md) — Strafverurteilung wegen versuchten Totschlags u.a. im Rahmen einer Schlägerei: Anforderungen an eine "zugefügte Mißhandlung" bei einem minder schweren Fall
+- [BGH, Beschluss vom 23.01.2025 - 1 StR 135/24](1-str-135-24.md) — BGH, Beschluss 1 StR 135/24
+- [BGH, Urteil vom 22.01.2025 - 1 StR 107/24](1-str-107-24.md) — BGH, Urteil 1 StR 107/24
+- [BGH, Beschluss vom 22.01.2025 - 1 StR 512/24](1-str-512-24.md) — Vermögensvorteil bei Ersparnis von Sozialkassenbeiträgen im Rahmen der Einziehung von Taterträgen
+- [BGH, Beschluss vom 22.01.2025 - 1 StR 534/24](1-str-534-24.md) — BGH, Beschluss 1 StR 534/24
+- [BGH, Beschluss vom 21.01.2025 - 1 StR 281/24](1-str-281-24.md) — BGH, Beschluss 1 StR 281/24
+- [BGH, Beschluss vom 21.01.2025 - 1 StR 456/24](1-str-456-24.md) — Bestimmung der einzelnen Taten des Vorenthaltens und Veruntreuens von Arbeitsentgelt
+- [BGH, Beschluss vom 21.01.2025 - 1 StR 525/24](1-str-525-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Zusammenhang zwischen Anlasstat und psychischer Störung; Vorliegen einer Schuldunfähigkeit
+- [BGH, Beschluss vom 21.01.2025 - 1 StR 558/24](1-str-558-24.md) — BGH, Beschluss 1 StR 558/24
+- [BGH, Beschluss vom 20.01.2025 - 1 StR 370/24](1-str-370-24.md) — BGH, Beschluss 1 StR 370/24
+- [BGH, Beschluss vom 09.01.2025 - 1 StR 142/24](1-str-142-24.md) — Verwertung von SkyECC-Daten zu Beweiszwecken in Verfahren wegen Verstößen gegen das Betäubungsmittelgesetz
+- [BGH, Beschluss vom 09.01.2025 - 1 StR 51/24](1-str-51-24.md) — BGH, Beschluss 1 StR 51/24
+- [BGH, Urteil vom 09.01.2025 - 1 StR 54/24](1-str-54-24.md) — Verwertbarkeit von Anom-Daten.
+- [BGH, Beschluss vom 07.01.2025 - 1 StR 393/23](1-str-393-23.md) — Einziehungsanordnung wegen Steuerhinterziehung
+- [BGH, Beschluss vom 03.01.2025 - 1 StR 49/24](1-str-49-24.md) — Hinterziehung von Schenkungssteuer: Kauf eines Kraftfahrzeugs als Gegenleistung für anwaltliche Beratungstätigkeit

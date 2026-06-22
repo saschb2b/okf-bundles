@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BFStrMG"
 description: "BGH-Entscheidungen zu BFStrMG, geordnet nach Vorschrift."
 tags: [register, navigation, bfstrmg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des BFStrMG ausle
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 131 BFStrMG | [BGH, Urteil vom 09.11.2017 - IX ZR 319/16](../entscheidungen/ix-zivilsenat/2017/ix-zr-319-16.md) |
+| § BFStrMG | [BGH, Urteil vom 09.11.2017 - IX ZR 319/16](../entscheidungen/ix-zivilsenat/2017/ix-zr-319-16.md) |

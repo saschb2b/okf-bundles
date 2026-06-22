@@ -1,0 +1,59 @@
+# XII. Zivilsenat – 2005
+
+55 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2005 - XII ZB 33/05](xii-zb-33-05.md) — Anwaltsverschuldens zurückgewiesen und sich die Verwerfung der Berufung vorbehalten hat, wenn diese Frist in Wirklichkeit nicht versäumt ist
+- [BGH, Beschluss vom 21.12.2005 - XII ZB 80/05](xii-zb-80-05.md) — BGH, Beschluss vom 21.12.2005 - XII ZB 80/05
+- [BGH, Beschluss vom 14.12.2005 - XII ZB 161/03](xii-zb-161-03.md) — BGH, Beschluss vom 14.12.2005 - XII ZB 161/03
+- [BGH, Beschluss vom 14.12.2005 - XII ZR 67/02](xii-zr-67-02.md) — BGH, Beschluss vom 14.12.2005 - XII ZR 67/02
+- [BGH, Beschluss vom 07.12.2005 - XII ZB 197/04](xii-zb-197-04.md) — BGH, Beschluss vom 07.12.2005 - XII ZB 197/04
+- [BGH, Beschluss vom 07.12.2005 - XII ZB 210/03](xii-zb-210-03.md) — BGH, Beschluss vom 07.12.2005 - XII ZB 210/03
+- [BGH, Beschluss vom 07.12.2005 - XII ZB 34/01](xii-zb-34-01.md) — BGH, Beschluss vom 07.12.2005 - XII ZB 34/01
+- [BGH, Beschluss vom 07.12.2005 - XII ZB 39/01](xii-zb-39-01.md) — BGH, Beschluss vom 07.12.2005 - XII ZB 39/01
+- [BGH, Urteil vom 07.12.2005 - XII ZR 94/03](xii-zr-94-03.md) — Tatbestand:
+- [BGH, Beschluss vom 23.11.2005 - XII ZB 260/03](xii-zb-260-03.md) — BGH, Beschluss vom 23.11.2005 - XII ZB 260/03
+- [BGH, Urteil vom 23.11.2005 - XII ZR 155/03](xii-zr-155-03.md) — Tatbestand:
+- [BGH, Urteil vom 16.11.2005 - XII ZR 124/03](xii-zr-124-03.md) — Tatbestand:
+- [BGH, Beschluss vom 09.11.2005 - XII ZB 270/04](xii-zb-270-04.md) — BGH, Beschluss vom 09.11.2005 - XII ZB 270/04
+- [BGH, Beschluss vom 02.11.2005 - XII ZB 264/03](xii-zb-264-03.md) — BGH, Beschluss vom 02.11.2005 - XII ZB 264/03
+- [BGH, Urteil vom 02.11.2005 - XII ZR 212/03](xii-zr-212-03.md) — Tatbestand:
+- [BGH, Urteil vom 02.11.2005 - XII ZR 233/03](xii-zr-233-03.md) — BGH, Urteil vom 02.11.2005 - XII ZR 233/03
+- [BGH, Beschluss vom 28.09.2005 - XII ZB 127/01](xii-zb-127-01.md) — eines offensichtlichen Versehens bei der Wiedergabe der Rechtsausführungen des Oberlandesgerichts dahin berichtigt, dass der dritte Satz des
+- [BGH, Beschluss vom 28.09.2005 - XII ZB 177/00](xii-zb-177-00.md) — BGH, Beschluss vom 28.09.2005 - XII ZB 177/00
+- [BGH, Beschluss vom 21.09.2005 - XII ZB 83/05](xii-zb-83-05.md) — BGH, Beschluss vom 21.09.2005 - XII ZB 83/05
+- [BGH, Urteil vom 07.09.2005 - XII ZR 209/02](xii-zr-209-02.md) — Tatbestand: Die Parteien streiten über Zugewinnausgleich. Ihre am 22. Juli 1987 geschlossene Ehe wurde auf den dem Antragsgegner (Ehemann) a
+- [BGH, Urteil vom 07.09.2005 - XII ZR 316/02](xii-zr-316-02.md) — Tatbestand:
+- [BGH, Beschluss vom 31.08.2005 - XII ZB 159/05](xii-zb-159-05.md) — BGH, Beschluss vom 31.08.2005 - XII ZB 159/05
+- [BGH, Beschluss vom 10.08.2005 - XII ZB 112/05](xii-zb-112-05.md) — BGH, Beschluss vom 10.08.2005 - XII ZB 112/05
+- [BGH, Beschluss vom 10.08.2005 - XII ZB 191/01](xii-zb-191-01.md) — BGH, Beschluss vom 10.08.2005 - XII ZB 191/01
+- [BGH, Beschluss vom 10.08.2005 - XII ZB 63/05](xii-zb-63-05.md) — einer mit dem Arbeitgeber vereinbarten Verschwiegenheitspflicht geltend macht.
+- [BGH, Beschluss vom 10.08.2005 - XII ZR 73/05](xii-zr-73-05.md) — BGH, Beschluss vom 10.08.2005 - XII ZR 73/05
+- [BGH, Beschluss vom 27.07.2005 - XII ZR 67/03](xii-zr-67-03.md) — BGH, Beschluss vom 27.07.2005 - XII ZR 67/03
+- [BGH, Beschluss vom 20.07.2005 - XII ZB 211/00](xii-zb-211-00.md) — BGH, Beschluss vom 20.07.2005 - XII ZB 211/00
+- [BGH, Beschluss vom 20.07.2005 - XII ZB 98/02](xii-zb-98-02.md) — BGH, Beschluss vom 20.07.2005 - XII ZB 98/02
+- [BGH, Beschluss vom 20.07.2005 - XII ZB 99/02](xii-zb-99-02.md) — BGH, Beschluss vom 20.07.2005 - XII ZB 99/02
+- [BGH, Urteil vom 20.07.2005 - XII ZR 155/04](xii-zr-155-04.md) — BGH, Urteil vom 20.07.2005 - XII ZR 155/04
+- [BGH, Urteil vom 20.07.2005 - XII ZR 301/02](xii-zr-301-02.md) — Tatbestand: Die Parteien streiten um Zugewinnausgleich. Die am 9. August 1952 geschlossene Ehe wurde auf den dem Ehemann (früherer Antragsge
+- [BGH, Versäumnisurteil vom 06.07.2005 - XII ZR 145/03](xii-zr-145-03.md) — Tatbestand: Die Parteien streiten im Scheidungsverbund um nachehelichen Ehegattenunterhalt. Die Parteien haben am 23. Februar 1980 die Ehe g
+- [BGH, Versäumnisurteil vom 06.07.2005 - XII ZR 293/02](xii-zr-293-02.md) — BGH, Versäumnisurteil vom 06.07.2005 - XII ZR 293/02
+- [BGH, Beschluss vom 29.06.2005 - XII ZR 259/04](xii-zr-259-04.md) — BGH, Beschluss vom 29.06.2005 - XII ZR 259/04
+- [BGH, Urteil vom 11.05.2005 - XII ZR 108/02](xii-zr-108-02.md) — Tatbestand: Die Parteien streiten um den Ausgleich steuerlicher Nachteile der Klägerin infolge der Inanspruchnahme des sog. begrenzten Reals
+- [BGH, Urteil vom 11.05.2005 - XII ZR 211/02](xii-zr-211-02.md) — Tatbestand: Die Klägerin zu 1 (im folgenden: Klägerin) verlangt von dem Beklagten nachehelichen Unterhalt (Elementar- und Altersvorsorgeunte
+- [BGH, Beschluss vom 04.05.2005 - XII ZB 202/04](xii-zb-202-04.md) — BGH, Beschluss vom 04.05.2005 - XII ZB 202/04
+- [BGH, Beschluss vom 27.04.2005 - XII ZB 48/01](xii-zb-48-01.md) — BGH, Beschluss vom 27.04.2005 - XII ZB 48/01
+- [BGH, Beschluss vom 20.04.2005 - XII ZR 248/04](xii-zr-248-04.md) — arglistiger Täuschung im Jahre 2003 angefochten hat. Die Klägerin hat mit der Klage gegen die Beklagten Schadensersatz- bzw. Bereicherungsan
+- [BGH, Beschluss vom 20.04.2005 - XII ZR 58/03](xii-zr-58-03.md) — BGH, Beschluss vom 20.04.2005 - XII ZR 58/03
+- [BGH, Beschluss vom 20.04.2005 - XII ZR 92/02](xii-zr-92-02.md) — BGH, Beschluss vom 20.04.2005 - XII ZR 92/02
+- [BGH, Beschluss vom 13.04.2005 - XII ZB 165/03](xii-zb-165-03.md) — BGH, Beschluss vom 13.04.2005 - XII ZB 165/03
+- [BGH, Urteil vom 13.04.2005 - XII ZR 273/02](xii-zr-273-02.md) — Tatbestand: Die Parteien streiten um Abänderung zweier Jugendamtsurkunden über die Verpflichtung zur Zahlung von Kindesunterhalt. Die Kläger
+- [BGH, Versäumnisurteil vom 13.04.2005 - XII ZR 296/00](xii-zr-296-00.md) — BGH, Versäumnisurteil vom 13.04.2005 - XII ZR 296/00
+- [BGH, Urteil vom 06.04.2005 - XII ZR 132/03](xii-zr-132-03.md) — Tatbestand:
+- [BGH, Beschluss vom 23.02.2005 - XII ZB 1/03](xii-zb-1-03.md) — BGH, Beschluss vom 23.02.2005 - XII ZB 1/03
+- [BGH, Beschluss vom 23.02.2005 - XII ZB 198/01](xii-zb-198-01.md) — BGH, Beschluss vom 23.02.2005 - XII ZB 198/01
+- [BGH, Beschluss vom 23.02.2005 - XII ZB 212/04](xii-zb-212-04.md) — BGH, Beschluss vom 23.02.2005 - XII ZB 212/04
+- [BGH, Beschluss vom 23.02.2005 - XII ZB 71/00](xii-zb-71-00.md) — BGH, Beschluss vom 23.02.2005 - XII ZB 71/00
+- [BGH, Urteil vom 23.02.2005 - XII ZR 114/03](xii-zr-114-03.md) — Tatbestand: Die Parteien streiten um Abänderung der Unterhaltspflicht des Beklagten für seinen minderjährigen Sohn. Der am 23. Mai 1990 gebo
+- [BGH, Beschluss vom 09.02.2005 - XII ZB 146/04](xii-zb-146-04.md) — BGH, Beschluss vom 09.02.2005 - XII ZB 146/04
+- [BGH, Beschluss vom 02.02.2005 - XII ZR 233/02](xii-zr-233-02.md) — BGH, Beschluss vom 02.02.2005 - XII ZR 233/02
+- [BGH, Beschluss vom 26.01.2005 - XII ZB 163/04](xii-zb-163-04.md) — BGH, Beschluss vom 26.01.2005 - XII ZB 163/04
+- [BGH, Beschluss vom 12.01.2005 - XII ZB 127/02](xii-zb-127-02.md) — BGH, Beschluss vom 12.01.2005 - XII ZB 127/02

@@ -1,0 +1,83 @@
+# 5. Strafsenat – 2011
+
+79 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2011 - 5 StR 122/11](5-str-122-11.md) — Buchführungs- und Bilanzdelikte: Anwendung der Interessentheorie
+- [BGH, Beschluss vom 14.12.2011 - 5 StR 425/11](5-str-425-11.md) — Unerlaubtes Inverkehrbringen von Arzneimitteln: Annahme einer Bewertungseinheit
+- [BGH, Beschluss vom 14.12.2011 - 5 StR 434/11](5-str-434-11.md) — Strafverfahren gegen mehrere Beschuldigte: Umfang des Zeugnisverweigerungsrecht des Angehörigen eines Beschuldigten; Beruhenserfordernis in der Revision
+- [BGH, Beschluss vom 14.12.2011 - 5 StR 471/11](5-str-471-11.md) — Adhäsionsverfahren: Feststellungsausspruch zum Schadensersatzanspruch des Nebenklägers bei Mitverschulden
+- [BGH, Beschluss vom 14.12.2011 - 5 StR 488/11](5-str-488-11.md) — Unterbringung in einem psychiatrischen Krankenhaus: Wahrscheinlichkeit schwerer Störungen des Rechtsfriedens in der Zukunft
+- [BGH, Beschluss vom 13.12.2011 - 5 StR 422/11](5-str-422-11.md) — Unterbringung in einem psychiatrischen Krankenhaus: Berücksichtigung länger währender Straffreiheit bei der Gefährlichkeitsprognose
+- [BGH, Beschluss vom 02.12.2011 - 5 StR 416/11](5-str-416-11.md) — Notwehr: Verteidigung gegen harmlosen Angriff
+- [BGH, Urteil vom 01.12.2011 - 5 StR 360/11](5-str-360-11.md) — Tötungsdelikt: Bedingter Tötungsvorsatz bei äußerst gefährlichen Gewalthandlungen; konkludenter gemeinsamer Tatplan bei Mittäterschaft; Erfolgszurechnung im Weg
+- [BGH, Urteil vom 01.12.2011 - 5 StR 417/11](5-str-417-11.md) — Sexuelle Nötigung: Erheblichkeit sexueller Handlungen
+- [BGH, Beschluss vom 01.12.2011 - 5 StR 429/11](5-str-429-11.md) — Strafverfahren wegen besonders schwerer Raubtaten: Notwendige Angabe der Strafrahmen in den Urteilsgründen
+- [BGH, Beschluss vom 10.11.2011 - 5 StR 397/11](5-str-397-11.md) — Strafverfahren: Ablehnung eines Beweisantrags wegen Bedeutungslosigkeit
+- [BGH, Urteil vom 09.11.2011 - 5 StR 328/11](5-str-328-11.md) — Beweiswürdigung bei Tötungsdelikt: Prüfung der Notwehrlage; strafbefreiender Rücktritt vom unbeendeten Versuch
+- [BGH, Urteil vom 27.10.2011 - 5 StR 14/11](5-str-14-11.md) — (Verfallsanordnung: Ermessensentscheidung bei Vorhandensein von Vermögenswerten bis zur Höhe des verfallbaren Betrages; gesamtschuldnerische Haftung von Mitange
+- [BGH, Beschluss vom 27.10.2011 - 5 StR 376/11](5-str-376-11.md) — Wiederholte Richterablehnungen im Strafverfahren: Mitwirkende Richter in den Ablehnungsverfahren
+- [BGH, Beschluss vom 26.10.2011 - 5 StR 267/11](5-str-267-11.md) — Sicherungsverwahrung: Zulässiges Verteidigungsverhalten und Beachtung des Verhältnismäßigkeitsgrundsatzes nach den Maßgaben des Bundesverfassungsgerichts bei An
+- [BGH, Beschluss vom 26.10.2011 - 5 StR 292/11](5-str-292-11.md) — Zeugenvernehmung: Identifizierung polizeilicher Zeugen in einem Prozess gegen einen "Rockerclub" durch die Dienstnummer; Befangenheit des Vorsitzenden bei Einrä
+- [BGH, Beschluss vom 25.10.2011 - 5 StR 357/11](5-str-357-11.md) — Beweiswürdigung im Strafverfahren: Nachteilige Würdigung später Einlassung des Angeklagten und Anforderungen an die Urteilsgründe
+- [BGH, Beschluss vom 18.10.2011 - 5 StR 346/11](5-str-346-11.md) — Bejahung des besonderen öffentlichen Interesses an der Verfolgung einer Körperverletzung im Revisionsverfahren
+- [BGH, Beschluss vom 11.10.2011 - 5 StR 396/11](5-str-396-11.md) — Nebenklage: Anschlussberechtigung von Eltern bezüglich der gefährlichen Körperverletzung des durch eine rechtswidrige Tat Getöteten
+- [BGH, Beschluss vom 28.09.2011 - 5 StR 245/11](5-str-245-11.md) — Revisionsrüge einer Verletzung des Öffentlichkeitsgrundsatzes im Strafverfahren: Notwendige Darlegungen bei geändertem Zugang zum Gerichtsgebäude und Schwierigk
+- [BGH, Beschluss vom 28.09.2011 - 5 StR 315/11](5-str-315-11.md) — Beweisaufnahme im Strafverfahren: Gerichtsbesetzung bei Anordnung einer audiovisuellen Zeugenvernehmung
+- [BGH, Beschluss vom 28.09.2011 - 5 StR 343/11](5-str-343-11.md) — Anordnung des Verfalls: Verfallspezifische Beziehung sichergestellter Gelder zu den festgestellten und abgeurteilten Taten des Angeklagten
+- [BGH, Beschluss vom 14.09.2011 - 5 StR 331/11](5-str-331-11.md) — Strafurteil: Ersetzung der Unterschrift des wegen Urlaubs verhinderten Beisitzers trotz Urlaubsendes vor Fristablauf
+- [BGH, Beschluss vom 14.09.2011 - 5 StR 355/11](5-str-355-11.md) — Strafurteil: Zulässigkeit der Verweisung auf Videofilme auf CDs
+- [BGH, Beschluss vom 13.09.2011 - 5 StR 189/11](5-str-189-11.md) — Sicherungsverwahrung: Abänderbarkeit einer Besetzungsentscheidung; Berücksichtung des Leugnens der Tat bei der Gefährlichkeitsprognose und der gegen die Sicheru
+- [BGH, Urteil vom 30.08.2011 - 5 StR 235/11](5-str-235-11.md) — Sicherungsverwahrung: Anforderungen an den Antrag der Staatsanwaltschaft auf nachträgliche Anordnung; Maßstäbe des Bundesverfassungsgerichts bei der Sicherungsv
+- [BGH, Beschluss vom 29.08.2011 - 5 StR 247/11](5-str-247-11.md) — Untreue: Missbrauch einer Bankvollmacht
+- [BGH, Beschluss vom 29.08.2011 - 5 StR 287/11](5-str-287-11.md) — Verständigung im Strafverfahren wegen schweren Raubes: Drohung mit "Sanktionsschere"
+- [BGH, Beschluss vom 29.08.2011 - 5 StR 327/11](5-str-327-11.md) — Nachtragsanklage: Einbeziehungsbeschluss in der Besetzung der Hauptverhandlung
+- [BGH, Beschluss vom 17.08.2011 - 5 StR 255/11](5-str-255-11.md) — Strafverfahren wegen Körperverletzung mit Todesfolge: Erhebliche Verminderung der Schuldfähigkeit nach erheblichem Alkoholkonsum; Unterbringung eines sprachunku
+- [BGH, Beschluss vom 17.08.2011 - 5 StR 263/11](5-str-263-11.md) — Ausschluss der Öffentlichkeit: Erfordernis eines erneuten Ausschließungsbeschlusses bei nochmaliger Vernehmung desselben Zeugen nach vorheriger Entlassung
+- [BGH, Beschluss vom 17.08.2011 - 5 StR 301/11](5-str-301-11.md) — Härteausgleich bei Unmöglichkeit nachträglicher Gesamtstrafenbildung wegen Strafverbüßung
+- [BGH, Beschluss vom 16.08.2011 - 5 StR 237/11](5-str-237-11.md) — Strafzumessung: Gerechtes Verhältnis der gegen Mittäter verhängten Strafen
+- [BGH, Beschluss vom 16.08.2011 - 5 StR 300/11](5-str-300-11.md) — Strafzumessung: Berücksichtigung von nicht in unmittelbarem Zusammenhang mit dem Tatgeschehen stehenden Lebensumständen
+- [BGH, Beschluss vom 21.07.2011 - 5 StR 32/11](5-str-32-11.md) — Strafverfahren: Einlassung des geständigen Mittäters als Beweisgrundlage
+- [BGH, Vorlagebeschluss vom 20.07.2011 - 5 StR 115/11](5-str-115-11.md) — Vorlage an den Großen Senat für Strafsachen: Vertragsarzt als Amtsträger
+- [BGH, Beschluss vom 20.07.2011 - 5 StR 234/11](5-str-234-11.md) — Strafzumessung: Berücksichtigung eines eingezogenen Gegenstandes von nicht unbeträchtlichem Wert
+- [BGH, Beschluss vom 20.07.2011 - 5 StR 246/11](5-str-246-11.md) — (Totschlag: Indizien für verminderte Schuldunfähigkeit infolge einer Affekttat; Überprüfbarkeit des Ausschlusses der Schuldminderung durch den psychiatrischen S
+- [BGH, Urteil vom 07.07.2011 - 5 StR 561/10](5-str-561-10.md) — Zur Strafbarkeit gemäß § 227 StGB und zum Tötungsvorsatz eines Schönheitschirurgen, der es vorübergehend unterlassen hat, seine wegen eines Aufklärungsmangels r
+- [BGH, Beschluss vom 22.06.2011 - 5 StR 109/11](5-str-109-11.md) — Vorrangige Befriedigung von Ansprüchen der Verletzten: Verbindliche Erklärung im Feststellungsverfahren
+- [BGH, Beschluss vom 22.06.2011 - 5 StR 190/11](5-str-190-11.md) — Fristwahrende Unterbrechung der Hauptverhandlung: Verfahrensfehlerhafte Durchführung eines "reinen Schiebetermins"
+- [BGH, Beschluss vom 22.06.2011 - 5 StR 202/11](5-str-202-11.md) — Bemessung der Jugendstrafe: Schwere der Schuld und Erziehungszweck
+- [BGH, Beschluss vom 22.06.2011 - 5 StR 203/11](5-str-203-11.md) — Diebstahl: Gewahrsamsbruch durch einen Geldtransportfahrer
+- [BGH, Beschluss vom 22.06.2011 - 5 StR 226/11](5-str-226-11.md) — Verständigung im Strafverfahren bei zweifelhafter Schuldfähigkeit; Bestellung eines neuen Pflichtverteidigers
+- [BGH, Urteil vom 21.06.2011 - 5 StR 52/11](5-str-52-11.md) — 1. Eine dissoziale Persönlichkeitsstörung unterfällt, auch wenn sie nicht die Voraussetzungen der §§ 20, 21 StGB erfüllt, dem Begriff der psychischen Störung im
+- [BGH, Urteil vom 08.06.2011 - 5 StR 134/11](5-str-134-11.md) — Unterbringung in einem psychiatrischen Krankenhaus: Allgemeingefährlichkeit des psychisch kranken Täters bei Anlasstat in einer Ausnahmesituation
+- [BGH, Beschluss vom 08.06.2011 - 5 StR 199/11](5-str-199-11.md) — (Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung der Gefährlichkeitsprognose bei der Unterbringungsentscheidung in einem fre
+- [BGH, Beschluss vom 26.05.2011 - 5 StR 165/11](5-str-165-11.md) — Befangenheitsablehnung eines Revisionsrichters: Besorgnis der Voreingenommenheit wegen Beteiligung einer Angehörigen als Sitzungsstaatsanwältin in der Vorinstan
+- [BGH, Urteil vom 25.05.2011 - 5 StR 63/11](5-str-63-11.md) — Strafzumessung: Berücksichtigung konkret festgestellter Tat- und Lebensumstände
+- [BGH, Beschluss vom 24.05.2011 - 5 StR 161/11](5-str-161-11.md) — Schwerer sexueller Missbrauch von Kindern und Verbreitung pornografischer Schriften: Fehlinterpretation der Einlassung des Angeklagten
+- [BGH, Urteil vom 24.05.2011 - 5 StR 565/10](5-str-565-10.md) — Rücktritt vom gemeinschaftlichen Versuch des Totschlags durch Unterlassen: Sinnlose Rettungsbemühungen nach einem Todeseintritt durch ein unvorhergesehenes Erei
+- [BGH, Beschluss vom 23.05.2011 - 5 StR 394/10, 5 StR 440/10, 5 StR 474/10](5-str-394-10-5-str-440-10-5-str-474-10.md) — In Fällen, in denen die erstmalige Unterbringung eines Verurteilten in der Sicherungsverwahrung wegen Taten angeordnet wurde, die vor Inkrafttreten des Gesetzes
+- [BGH, Beschluss vom 04.05.2011 - 5 StR 124/11](5-str-124-11.md) — Strafverfahren: Revisionsrüge über die Behandlung des Beweisantrags eines Mitangeklagten
+- [BGH, Beschluss vom 04.05.2011 - 5 StR 65/11](5-str-65-11.md) — Mord: Ausnutzungsbewusstsein bei der heimtückischen Begehungsweise
+- [BGH, Beschluss vom 03.05.2011 - 5 StR 123/11](5-str-123-11.md) — Aussetzung einer gegenüber einem EU-Bürger angeordneten Maßregel
+- [BGH, Beschluss vom 03.05.2011 - 5 StR 568/10](5-str-568-10.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Vorliegen eines minder schweren Falls
+- [BGH, Beschluss vom 13.04.2011 - 5 StR 406/09](5-str-406-09.md) — Kosten des Strafverfahrens: Ansatz einer Gebühr für das Revisionsverfahren ungeachtet des Resozialisierungsgebots
+- [BGH, Beschluss vom 13.04.2011 - 5 StR 86/11](5-str-86-11.md) — Strafverfahren: Erörterung der als erwiesen angesehenen Tatsache im Urteil
+- [BGH, Beschluss vom 12.04.2011 - 5 StR 463/10](5-str-463-10.md) — Strafbarer Arzneimittelhandel: Unerlaubten Großhandel mit dem verschreibungspflichtigen Arzneimittel Ephedrinhydrochlorid zwecks Herstellung des Betäubungsmitte
+- [BGH, Urteil vom 12.04.2011 - 5 StR 467/10](5-str-467-10.md) — Revision im Strafverfahren: Vorabentscheidung des Bundesgerichtshofs über die Zulässigkeit wegen unwirksamen Rechtsmittelverzichts des Angeklagten
+- [BGH, Beschluss vom 30.03.2011 - 5 StR 39/11](5-str-39-11.md) — Bewertungseinheit bei Betäubungsmitteldelikten
+- [BGH, Beschluss vom 22.03.2011 - 5 StR 46/11](5-str-46-11.md) — Betrug: Täuschungshandlung im Arrestverfahren zur Beutesicherung
+- [BGH, Urteil vom 17.03.2011 - 5 StR 4/11](5-str-4-11.md) — Strafverfahren wegen schwerer Körperverletzung: Doppelte Strafrahmenminderung bei Provokation und verminderter Schuldfähigkeit nach erheblichem Alkoholkonsum
+- [BGH, Beschluss vom 17.03.2011 - 5 StR 543/10](5-str-543-10.md) — Überwachung des Verkehrs mit Betäubungsmittelgrundstoffen: Bemühungen um den Ankauf von Essigsäureanhydrid als strafbares Handeln mit einem Grundstoff zur Herst
+- [BGH, Beschluss vom 17.03.2011 - 5 StR 570/10](5-str-570-10.md) — Mittäterschaft: Konkludente Vereinbarung der gemeinsamen Tatbegehung bei einer gefährlichen Körperverletzung mittels einer Maschinenpistole
+- [BGH, Beschluss vom 16.03.2011 - 5 StR 581/10](5-str-581-10.md) — Internetchat und Verbrechensverabredung .
+- [BGH, Beschluss vom 16.03.2011 - 5 StR 585/10](5-str-585-10.md) — Strafzumessung: Strafmildernde Bedeutung einer überlangen Verfahrensdauer und Kompensation im Wege der Vollstreckungslösung
+- [BGH, Beschluss vom 15.03.2011 - 5 StR 35/11](5-str-35-11.md) — Anwendung von Erwachsenenstrafrecht auf einen Heranwachsenden: Anforderungen an die tatrichterlichen Feststellungen
+- [BGH, Beschluss vom 14.03.2011 - 5 StR 109/07](5-str-109-07.md) — Wahlverteidigergebühr: Höhe der Pauschgebühr im Revisionsverfahren
+- [BGH, Beschluss vom 24.02.2011 - 5 StR 514/09](5-str-514-09.md) — Verbraucherbegriff bei progressiver Kundenwerbung .
+- [BGH, Urteil vom 09.02.2011 - 5 StR 387/10](5-str-387-10.md) — Strafverfahren: Zeugenentlassung in Abwesenheit des Angeklagten
+- [BGH, Beschluss vom 09.02.2011 - 5 StR 471/10](5-str-471-10.md) — Nachträgliche Unterbringung in der Sicherungsverwahrung bei Altfällen: Prüfung der hochgradigen Gefahr; Sicherungsverwahrung in einem psychiatrischen Krankenhau
+- [BGH, Beschluss vom 09.02.2011 - 5 StR 563/10](5-str-563-10.md) — Betreiben unerlaubter Bankgeschäfte: Hochspekulative Anlagekonstruktion und Begriff des Einlagengeschäfts im Sinne des KWG
+- [BGH, Beschluss vom 08.02.2011 - 5 StR 501/10](5-str-501-10.md) — Unmittelbarkeitsgrundsatz bei der Zeugenvernehmung: Protokollverlesung zur Gedächtnisstütze bei verschiedenen Beweisthemen im Rahmen eines komplexen Verfahrenss
+- [BGH, Beschluss vom 26.01.2011 - 5 StR 569/10](5-str-569-10.md) — Bemessung der Jugendstrafe: Härteausgleich wegen einer gesamtstrafenfähigen ausländischen Vorverurteilung
+- [BGH, Urteil vom 12.01.2011 - 5 StR 403/10](5-str-403-10.md) — Strafrahmenwahl bei Vergewaltigung mit Zusammentreffen von Regelbeispiel und Qualifikationstatbestand im minder schweren Fall
+- [BGH, Beschluss vom 11.01.2011 - 5 StR 491/10](5-str-491-10.md) — Körperverletzung: Strafbarkeit der Teilnahme eines Arztes an selbstgefährdendem Handeln im Falle der Überlassung von Betäubungsmitteln an Patienten im Rahmen ei
+- [BGH, Beschluss vom 11.01.2011 - 5 StR 537/10](5-str-537-10.md) — Rechtsstaatswidrige Verfahrensverzögerung: Kompensation bei Außervollzugsetzung eines Haftbefehls
+- [BGH, Beschluss vom 10.01.2011 - 5 StR 515/10](5-str-515-10.md) — Versuchte schwere räuberische Erpressung in Tateinheit mit gefährlicher Körperverletzung: Voraussetzungen der Annahme sukzessiver Mittäterschaft; Abgrenzung zwi

@@ -1,0 +1,45 @@
+# 3. Strafsenat – 2000
+
+41 Entscheidung(en).
+
+- [BGH, Beschluss vom 24.11.2000 - 3 StR 296/00](3-str-296-00.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 24.11.2000 - 3 StR 367/00](3-str-367-00.md) — schweren Menschenhandels u.a.
+- [BGH, Beschluss vom 23.11.2000 - 3 StR 225/00](3-str-225-00.md) — zu 1., 2. und 3.: Betrugs
+- [BGH, Beschluss vom 23.11.2000 - 3 StR 432/00](3-str-432-00.md) — schwerer Brandstiftung
+- [BGH, Beschluss vom 23.11.2000 - 3 StR 472/00](3-str-472-00.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 21.11.2000 - 3 StR 311/00](3-str-311-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 15.11.2000 - 3 StR 452/00](3-str-452-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 18.10.2000 - 3 StR 258/00](3-str-258-00.md) — Unterstützens des organisatorischen Zusammenhalts eines verbotenen Vereins
+- [BGH, Beschluss vom 12.10.2000 - 3 StR 185/00](3-str-185-00.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 05.10.2000 - 3 StR 357/00](3-str-357-00.md) — versuchter gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 06.09.2000 - 3 StR 200/00](3-str-200-00.md) — Mordes
+- [BGH, Beschluss vom 06.09.2000 - 3 StR 226/00](3-str-226-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 06.09.2000 - 3 StR 276/00](3-str-276-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 06.09.2000 - 3 StR 316/00](3-str-316-00.md) — Betrugs
+- [BGH, Beschluss vom 06.09.2000 - 3 StR 326/00](3-str-326-00.md) — Betrugs
+- [BGH, Beschluss vom 16.08.2000 - 3 ARs 3/00](3-ars-3-00.md) — schweren Bandendiebstahls u.a. hier: Anfrage des 4. Strafsenats vom 14. März 2000 - 4 StR 284/99
+- [BGH, Beschluss vom 16.08.2000 - 3 StR 339/00](3-str-339-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 16.08.2000 - 3 StR 346/00](3-str-346-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 11.08.2000 - 3 StR 235/00](3-str-235-00.md) — versuchten schweren Raubes u.a.
+- [BGH, Beschluss vom 14.07.2000 - 3 StR 195/00](3-str-195-00.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 14.07.2000 - 3 StR 53/00](3-str-53-00.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 30.06.2000 - 3 StR 141/00](3-str-141-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 17.05.2000 - 3 StR 161/00](3-str-161-00.md) — Totschlags u.a.
+- [BGH, Beschluss vom 17.05.2000 - 3 StR 167/00](3-str-167-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 15.03.2000 - 3 StR 597/99](3-str-597-99.md) — Brandstiftung u.a.
+- [BGH, Beschluss vom 11.02.2000 - 3 StR 3/00](3-str-3-00.md) — versuchten Mordes u.a.
+- [BGH, Urteil vom 11.02.2000 - 3 StR 308/99](3-str-308-99.md) — gewerbsmäßigen Einschleusens von Ausländern u.a.
+- [BGH, Urteil vom 11.02.2000 - 3 StR 377/99](3-str-377-99.md) — Beihilfe zum Angriff auf den Luftverkehr u.a.
+- [BGH, Beschluss vom 11.02.2000 - 3 StR 499/99](3-str-499-99.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 11.02.2000 - 3 StR 503/99](3-str-503-99.md) — versuchter räuberischer Erpressung u.a.
+- [BGH, Urteil vom 09.02.2000 - 3 StR 392/99](3-str-392-99.md) — Mordes
+- [BGH, Beschluss vom 14.01.2000 - 3 StR 106/99](3-str-106-99.md) — Bandenhandels mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 14.01.2000 - 3 StR 553/99](3-str-553-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 12.01.2000 - 3 StR 363/99](3-str-363-99.md) — sexueller Nötigung
+- [BGH, Beschluss vom 12.01.2000 - 3 StR 520/99](3-str-520-99.md) — Einschleusens von Ausländern u.a.
+- [BGH, Beschluss vom 05.01.2000 - 3 StR 273/99](3-str-273-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 05.01.2000 - 3 StR 465/99](3-str-465-99.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 05.01.2000 - 3 StR 473/99](3-str-473-99.md) — Mordes
+- [BGH, Beschluss vom 05.01.2000 - 3 StR 560/99](3-str-560-99.md) — Totschlags
+- [BGH, Beschluss vom 04.01.2000 - 3 StR 561/99](3-str-561-99.md) — unerlaubter Abgabe von Betäubungsmitteln an Jugendliche u.a.
+- [BGH, Beschluss vom 04.01.2000 - 3 StR 567/99](3-str-567-99.md) — gefährlicher Körperverletzung

@@ -1,0 +1,205 @@
+# 3. Strafsenat – 2024
+
+201 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2024 - 3 StR 462/24](3-str-462-24.md) — Anordnung einer Sperrfrist für die Erteilung einer Fahrerlaubnis nach Einfuhr von Betäubungsmitteln unter Verwirklichung des vorsätzlichen Fahrens ohne Fahrerla
+- [BGH, Beschluss vom 18.12.2024 - 3 StR 500/24](3-str-500-24.md) — BGH, Beschluss 3 StR 500/24
+- [BGH, Beschluss vom 18.12.2024 - 3 StR 507/24](3-str-507-24.md) — Verbreiten von Propagandamitteln terroristischer Organisationen durch einen Instagram-Beitrag
+- [BGH, Beschluss vom 18.12.2024 - 3 StR 527/24](3-str-527-24.md) — BGH, Beschluss 3 StR 527/24
+- [BGH, Urteil vom 11.12.2024 - 3 StR 185/24](3-str-185-24.md) — Mordmerkmal der Heimtücke; Bewertung der Spurenbeseitigung im Rahmen der Strafzumessung
+- [BGH, Urteil vom 11.12.2024 - 3 StR 231/24](3-str-231-24.md) — Strafzumessung im Verfahren wegen Handeltreibens mit Betäubungsmitteln: Berücksichtigungsfähigkeit von Gesetzesvorhaben
+- [BGH, Beschluss vom 11.12.2024 - 3 StR 334/24](3-str-334-24.md) — Konkurrenzen bei Besitz und Drittbesitzbeschaffung kinderpornographischer Schriften
+- [BGH, Beschluss vom 10.12.2024 - 3 StR 402/24](3-str-402-24.md) — BGH, Beschluss 3 StR 402/24
+- [BGH, Beschluss vom 10.12.2024 - 3 StR 508/24](3-str-508-24.md) — Betäubungsmitteldelikt: Mitwirkung von Drogenkurieren am Betäubungsmittelhandel
+- [BGH, Urteil vom 28.11.2024 - 3 StR 219/24](3-str-219-24.md) — Strafverurteilung wegen Handeltreiben mit verschreibungspflichtigen Arzneimitteln u.a..: Anforderungen an die Urteilsfeststellungen bei Handeltreiben mit Ketami
+- [BGH, Urteil vom 28.11.2024 - 3 StR 493/23](3-str-493-23.md) — BGH, Urteil 3 StR 493/23
+- [BGH, Urteil vom 28.11.2024 - 3 StR 53/24](3-str-53-24.md) — BGH, Urteil 3 StR 53/24
+- [BGH, Beschluss vom 27.11.2024 - 3 StR 25/24](3-str-25-24.md) — Neues Konsumcannabisgesetz: Verbotenes Handeltreiben durch Übernahme von Cannabissetzlingen
+- [BGH, Beschluss vom 27.11.2024 - 3 StR 308/24](3-str-308-24.md) — Einführung umfangreichen Sachverhalts im Zeugenbeweis
+- [BGH, Beschluss vom 27.11.2024 - 3 StR 441/24](3-str-441-24.md) — BGH, Beschluss 3 StR 441/24
+- [BGH, Beschluss vom 26.11.2024 - 3 StR 303/24](3-str-303-24.md) — BGH, Beschluss 3 StR 303/24
+- [BGH, Beschluss vom 26.11.2024 - 3 StR 428/24](3-str-428-24.md) — BGH, Beschluss 3 StR 428/24
+- [BGH, Beschluss vom 25.11.2024 - 3 StR 373/21](3-str-373-21.md) — Vermögensabschöpfung bei Verstoß gegen die Myanmar-Embargo-Verordnung durch Import von aus Myanmar (Birma) stammenden Teakholz: Abgrenzung Tatertrag und Tatobje
+- [BGH, Urteil vom 14.11.2024 - 3 StR 189/24](3-str-189-24.md) — 1. Der Tatbestand der mitgliedschaftlichen Beteiligung an einer terroristischen oder kriminellen Vereinigung verbindet grundsätzlich alle von dem Mitglied in de
+- [BGH, Beschluss vom 14.11.2024 - 3 StR 289/23](3-str-289-23.md) — Revision im Strafverfahren: Beruhen des Urteils auf verfahrensfehlerhafter Anordnung des Selbstleseverfahrens
+- [BGH, Beschluss vom 13.11.2024 - 3 StR 348/24](3-str-348-24.md) — BGH, Beschluss 3 StR 348/24
+- [BGH, Beschluss vom 12.11.2024 - 3 StR 217/24](3-str-217-24.md) — BGH, Beschluss 3 StR 217/24
+- [BGH, Beschluss vom 12.11.2024 - 3 StR 301/24](3-str-301-24.md) — Abgrenzung Raub von räuberischer Erpressung; Vollendung der räuberischen Erpressung
+- [BGH, Beschluss vom 12.11.2024 - 3 StR 425/24](3-str-425-24.md) — Verjährung einer Körperverletzung im Zusammenhang mit einer Vergewaltigung
+- [BGH, Beschluss vom 12.11.2024 - 3 StR 456/24](3-str-456-24.md) — Sexuelle Ausbeutung in der Altenpflege; Idealkonkurrenz bei institutioneller und persönlicher Abhängigkeit
+- [BGH, Beschluss vom 29.10.2024 - 3 StR 413/24](3-str-413-24.md) — BGH, Beschluss 3 StR 413/24
+- [BGH, Beschluss vom 29.10.2024 - 3 StR 463/24](3-str-463-24.md) — BGH, Beschluss 3 StR 463/24
+- [BGH, Beschluss vom 16.10.2024 - 3 StR 312/24](3-str-312-24.md) — Anordnung der Einziehung des Wertes von Taterträgen
+- [BGH, Beschluss vom 16.10.2024 - 3 StR 415/24](3-str-415-24.md) — BGH, Beschluss 3 StR 415/24
+- [BGH, Beschluss vom 15.10.2024 - 3 StR 140/24](3-str-140-24.md) — BGH, Beschluss 3 StR 140/24
+- [BGH, Beschluss vom 15.10.2024 - 3 StR 188/24](3-str-188-24.md) — BGH, Beschluss 3 StR 188/24
+- [BGH, Beschluss vom 15.10.2024 - 3 StR 427/24](3-str-427-24.md) — BGH, Beschluss 3 StR 427/24
+- [BGH, Beschluss vom 15.10.2024 - 3 StR 48/24](3-str-48-24.md) — Adhäsionsverfahren: Auswirkungen des Fehlens einer Zustellungsurkunde; Heilung des Mangels anhand des Hauptverhandlungsprotokolls
+- [BGH, Beschluss vom 02.10.2024 - 3 StR 296/24](3-str-296-24.md) — BGH, Beschluss 3 StR 296/24
+- [BGH, Beschluss vom 02.10.2024 - 3 StR 386/24](3-str-386-24.md) — Freiheitsstrafe bei geringer Betäubungsmittelmenge zum unmittelbaren Eigenkonsum; Anforderungen an Darlegung im Urteil
+- [BGH, Beschluss vom 01.10.2024 - 3 StR 286/24](3-str-286-24.md) — BGH, Beschluss 3 StR 286/24
+- [BGH, Beschluss vom 01.10.2024 - 3 StR 299/24](3-str-299-24.md) — BGH, Beschluss 3 StR 299/24
+- [BGH, Beschluss vom 01.10.2024 - 3 StR 324/24](3-str-324-24.md) — Lebenslange Freiheitsstrafe bei Raub mit Todesfolge
+- [BGH, Beschluss vom 01.10.2024 - 3 StR 368/24](3-str-368-24.md) — Strafbares Handeltreiben und Besitz von Betäubungsmitteln; Anforderungen an Anordnung der Einziehung von Gegenständen
+- [BGH, Beschluss vom 01.10.2024 - 3 StR 371/24](3-str-371-24.md) — BGH, Beschluss 3 StR 371/24
+- [BGH, Urteil vom 25.09.2024 - 3 StR 32/24](3-str-32-24.md) — Volksverhetzung: Übersendung eines den Holocaust leugnenden Schreibens an eine Behörde
+- [BGH, Beschluss vom 18.09.2024 - 3 StR 250/24](3-str-250-24.md) — Anforderungen an Führungsaufsichtsbeschluss: Abstinenzweisung alkoholkranker Angeklagter
+- [BGH, Beschluss vom 18.09.2024 - 3 StR 259/24](3-str-259-24.md) — BGH, Beschluss 3 StR 259/24
+- [BGH, Beschluss vom 17.09.2024 - 3 StR 321/24](3-str-321-24.md) — BGH, Beschluss 3 StR 321/24
+- [BGH, Beschluss vom 17.09.2024 - 3 StR 337/24](3-str-337-24.md) — BGH, Beschluss 3 StR 337/24
+- [BGH, Beschluss vom 17.09.2024 - 3 StR 360/24](3-str-360-24.md) — BGH, Beschluss 3 StR 360/24
+- [BGH, Beschluss vom 17.09.2024 - 3 StR 366/24](3-str-366-24.md) — BGH, Beschluss 3 StR 366/24
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 109/24](3-str-109-24.md) — Strafverfahren wegen Mordes u.a.: Unterlassen eines richterlichen Hinweises auf die besondere Schwere der Schuld
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 171/24](3-str-171-24.md) — BGH, Beschluss 3 StR 171/24
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 212/24](3-str-212-24.md) — BGH, Beschluss 3 StR 212/24
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 261/24](3-str-261-24.md) — BGH, Beschluss 3 StR 261/24
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 269/24](3-str-269-24.md) — BGH, Beschluss 3 StR 269/24
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 301/23](3-str-301-23.md) — Zulässigkeit einer Anhörungsrüge wegen Entscheidung ohne Hauptverhandlung durch Beschluss
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 317/24](3-str-317-24.md) — BGH, Beschluss 3 StR 317/24
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 332/24](3-str-332-24.md) — BGH, Beschluss 3 StR 332/24
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 352/24](3-str-352-24.md) — BGH, Beschluss 3 StR 352/24
+- [BGH, Beschluss vom 11.09.2024 - 3 StR 362/24](3-str-362-24.md) — BGH, Beschluss 3 StR 362/24
+- [BGH, Urteil vom 22.08.2024 - 3 StR 121/24](3-str-121-24.md) — BGH, Urteil 3 StR 121/24
+- [BGH, Beschluss vom 21.08.2024 - 3 StR 119/24](3-str-119-24.md) — Freispruch vom Vorwurf des Totschlags mit Unterbringungsanordnung: Gegenstandslosigkeit einer Maßregelanordnung nach Gesamtstrafenbildung
+- [BGH, Beschluss vom 21.08.2024 - 3 StR 207/24](3-str-207-24.md) — BGH, Beschluss 3 StR 207/24
+- [BGH, Beschluss vom 21.08.2024 - 3 StR 224/24](3-str-224-24.md) — BGH, Beschluss 3 StR 224/24
+- [BGH, Beschluss vom 21.08.2024 - 3 StR 229/24](3-str-229-24.md) — BGH, Beschluss 3 StR 229/24
+- [BGH, Beschluss vom 21.08.2024 - 3 StR 232/24](3-str-232-24.md) — BGH, Beschluss 3 StR 232/24
+- [BGH, Beschluss vom 21.08.2024 - 3 StR 97/24](3-str-97-24.md) — Form des Strafantrags und Rückwirkung der Neufassung der Formvorschrift
+- [BGH, Beschluss vom 20.08.2024 - 3 StR 175/24](3-str-175-24.md) — BGH, Beschluss 3 StR 175/24
+- [BGH, Beschluss vom 20.08.2024 - 3 StR 184/24](3-str-184-24.md) — BGH, Beschluss 3 StR 184/24
+- [BGH, Beschluss vom 20.08.2024 - 3 StR 205/24](3-str-205-24.md) — BGH, Beschluss 3 StR 205/24
+- [BGH, Beschluss vom 20.08.2024 - 3 StR 245/24](3-str-245-24.md) — Tatrichterliche Darlegungen zum strafbefreienden Rücktritt vom unbeendeten Versuch einer gefährlichen Körperverletzung
+- [BGH, Beschluss vom 20.08.2024 - 3 StR 248/24](3-str-248-24.md) — Bestand eines Schuldspruchs wegen Handelreibens mit Cannabis nach Inkrafttreten des Konsumcannabisgesetzes
+- [BGH, Beschluss vom 20.08.2024 - 3 StR 275/24](3-str-275-24.md) — BGH, Beschluss 3 StR 275/24
+- [BGH, Beschluss vom 20.08.2024 - 3 StR 323/24](3-str-323-24.md) — BGH, Beschluss 3 StR 323/24
+- [BGH, Urteil vom 08.08.2024 - 3 StR 20/24](3-str-20-24.md) — Betäubungsmitteldelikt: Bewertung der Einlassung des Angeklagten im Rahmen der Beweiswürdigung; gewerbsmäßiges Handeltreiben mit neuen psychoaktiven Stoffen; Ei
+- [BGH, Beschluss vom 08.08.2024 - 3 StR 241/24](3-str-241-24.md) — BGH, Beschluss 3 StR 241/24
+- [BGH, Beschluss vom 08.08.2024 - 3 StR 257/24](3-str-257-24.md) — BGH, Beschluss 3 StR 257/24
+- [BGH, Beschluss vom 07.08.2024 - 3 StR 126/24](3-str-126-24.md) — BGH, Beschluss 3 StR 126/24
+- [BGH, Beschluss vom 07.08.2024 - 3 StR 195/24](3-str-195-24.md) — BGH, Beschluss 3 StR 195/24
+- [BGH, Beschluss vom 07.08.2024 - 3 StR 237/24](3-str-237-24.md) — BGH, Beschluss 3 StR 237/24
+- [BGH, Beschluss vom 07.08.2024 - 3 StR 278/24](3-str-278-24.md) — Betäubungsmitteldelikt: Herstellung und Besitz von Cannabis
+- [BGH, Beschluss vom 07.08.2024 - 3 StR 313/24](3-str-313-24.md) — Strafverurteilung wegen Beihilfe zum gewerbsmäßigen Bandenbetrug: Bildung einer Gesamtstrafe aus kurzen Einzelstrafen
+- [BGH, Urteil vom 25.07.2024 - 3 StR 62/24](3-str-62-24.md) — BGH, Urteil 3 StR 62/24
+- [BGH, Beschluss vom 24.07.2024 - 3 StR 260/24](3-str-260-24.md) — Unterbringung in Entziehungsanstalt bei nicht therapiebereitem Betroffenen
+- [BGH, Beschluss vom 23.07.2024 - 3 StR 134/24](3-str-134-24.md) — Recht des Beschuldigten auf ein faires Verfahren; Überwachung und Täuschung durch Ermittler
+- [BGH, Beschluss vom 23.07.2024 - 3 StR 191/24](3-str-191-24.md) — BGH, Beschluss 3 StR 191/24
+- [BGH, Beschluss vom 23.07.2024 - 3 StR 216/24](3-str-216-24.md) — BGH, Beschluss 3 StR 216/24
+- [BGH, Beschluss vom 23.07.2024 - 3 StR 246/24](3-str-246-24.md) — BGH, Beschluss 3 StR 246/24
+- [BGH, Beschluss vom 23.07.2024 - 3 StR 256/24](3-str-256-24.md) — BGH, Beschluss 3 StR 256/24
+- [BGH, Beschluss vom 23.07.2024 - 3 StR 271/24](3-str-271-24.md) — BGH, Beschluss 3 StR 271/24
+- [BGH, Beschluss vom 23.07.2024 - 3 StR 71/24](3-str-71-24.md) — BGH, Beschluss 3 StR 71/24
+- [BGH, Urteil vom 11.07.2024 - 3 StR 65/24](3-str-65-24.md) — BGH, Urteil 3 StR 65/24
+- [BGH, Beschluss vom 10.07.2024 - 3 StR 164/24](3-str-164-24.md) — BGH, Beschluss 3 StR 164/24
+- [BGH, Beschluss vom 10.07.2024 - 3 StR 214/24](3-str-214-24.md) — BGH, Beschluss 3 StR 214/24
+- [BGH, Beschluss vom 10.07.2024 - 3 StR 98/24](3-str-98-24.md) — Betäubungsmitteldelikt: Anbau und Herstellung von Cannabis
+- [BGH, Beschluss vom 09.07.2024 - 3 StR 165/24](3-str-165-24.md) — BGH, Beschluss 3 StR 165/24
+- [BGH, Beschluss vom 09.07.2024 - 3 StR 166/24](3-str-166-24.md) — Verurteilung wegen vollendeter sexueller Nötigung
+- [BGH, Beschluss vom 09.07.2024 - 3 StR 200/24](3-str-200-24.md) — BGH, Beschluss 3 StR 200/24
+- [BGH, Beschluss vom 09.07.2024 - 3 StR 202/24](3-str-202-24.md) — Wiedereinsetzungsantrag wegen angeblicher Beauftragung des Verteidigers mit Rechtsmitteleinlegung
+- [BGH, Beschluss vom 09.07.2024 - 3 StR 211/24](3-str-211-24.md) — BGH, Beschluss 3 StR 211/24
+- [BGH, Beschluss vom 09.07.2024 - 3 StR 218/24](3-str-218-24.md) — BGH, Beschluss 3 StR 218/24
+- [BGH, Beschluss vom 09.07.2024 - 3 StR 220/24](3-str-220-24.md) — BGH, Beschluss 3 StR 220/24
+- [BGH, Beschluss vom 05.07.2024 - 3 StR 201/23](3-str-201-23.md) — Wertfestsetzung für die Verteidigungstätigkeit des Pflichtverteidigers in der Revisionsinstanz
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 150/24](3-str-150-24.md) — BGH, Beschluss 3 StR 150/24
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 167/24](3-str-167-24.md) — Abwägung zwischen Handeltreiben mit Cannabis und dem Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 177/24](3-str-177-24.md) — Bildung einer nachträglichen Gesamtstrafe bei geänderter Rechtslage im Betäubungsmittelrecht
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 193/24](3-str-193-24.md) — BGH, Beschluss 3 StR 193/24
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 198/24](3-str-198-24.md) — BGH, Beschluss 3 StR 198/24
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 201/24](3-str-201-24.md) — BGH, Beschluss 3 StR 201/24
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 40/24](3-str-40-24.md) — Änderung des Schuldspruchs wegen Neuregelung zum Umgang mit Cannabis; Beihilfe zum Handeltreiben mit Cannabis durch Aufbewahrung von Haschisch
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 63/24](3-str-63-24.md) — BGH, Beschluss 3 StR 63/24
+- [BGH, Beschluss vom 26.06.2024 - 3 StR 82/24](3-str-82-24.md) — BGH, Beschluss 3 StR 82/24
+- [BGH, Beschluss vom 25.06.2024 - 3 StR 112/24](3-str-112-24.md) — BGH, Beschluss 3 StR 112/24
+- [BGH, Beschluss vom 25.06.2024 - 3 StR 192/24](3-str-192-24.md) — BGH, Beschluss 3 StR 192/24
+- [BGH, Beschluss vom 25.06.2024 - 3 StR 208/24](3-str-208-24.md) — BGH, Beschluss 3 StR 208/24
+- [BGH, Beschluss vom 25.06.2024 - 3 StR 93/24](3-str-93-24.md) — Anforderungen an Entscheidung über Einziehung von Tatmitteln als Ermessensentscheidung
+- [BGH, Urteil vom 13.06.2024 - 3 StR 467/23](3-str-467-23.md) — Sperrwirkung des zurücktretenden Delikts hinsichtlich der Mindeststrafe bei Gesetzeskonkurrenz
+- [BGH, Urteil vom 13.06.2024 - 3 StR 79/24](3-str-79-24.md) — Zulässigkeit der Nebenklagerevision; Beschränkung der revisionsgerichtlichen Prüfung hinsichtlich der tatrichterlichen Überzeugungsbildung
+- [BGH, Beschluss vom 12.06.2024 - 3 StR 108/24](3-str-108-24.md) — BGH, Beschluss 3 StR 108/24
+- [BGH, Beschluss vom 12.06.2024 - 3 StR 83/24](3-str-83-24.md) — BGH, Beschluss 3 StR 83/24
+- [BGH, Beschluss vom 11.06.2024 - 3 StR 135/24](3-str-135-24.md) — BGH, Beschluss 3 StR 135/24
+- [BGH, Beschluss vom 11.06.2024 - 3 StR 148/24](3-str-148-24.md) — BGH, Beschluss 3 StR 148/24
+- [BGH, Beschluss vom 11.06.2024 - 3 StR 151/24](3-str-151-24.md) — BGH, Beschluss 3 StR 151/24
+- [BGH, Beschluss vom 11.06.2024 - 3 StR 158/24](3-str-158-24.md) — Verurteilung wegen Beihilfe zum Handeltreiben mit Betäubungsmitteln unter Berücksichtigung des Konsumcannabisgesetzes
+- [BGH, Beschluss vom 11.06.2024 - 3 StR 159/24](3-str-159-24.md) — Strafbarkeit wegen bewaffnetes Handeltreiben mit Betäubungsmitteln oder Cannabis
+- [BGH, Beschluss vom 11.06.2024 - 3 StR 162/24](3-str-162-24.md) — Verwerfungskompetenz des Landgerichts bei Unzulässigkeit der Revision mangels Beschwer
+- [BGH, Beschluss vom 29.05.2024 - 3 StR 114/24](3-str-114-24.md) — BGH, Beschluss 3 StR 114/24
+- [BGH, Beschluss vom 29.05.2024 - 3 StR 139/24](3-str-139-24.md) — BGH, Beschluss 3 StR 139/24
+- [BGH, Beschluss vom 29.05.2024 - 3 StR 142/24](3-str-142-24.md) — BGH, Beschluss 3 StR 142/24
+- [BGH, Urteil vom 29.05.2024 - 3 StR 286/23](3-str-286-23.md) — Handeltreiben mit Betäubungsmitteln; Einziehung von Taterträgen; Verfolgungsbeschränkung
+- [BGH, Urteil vom 29.05.2024 - 3 StR 507/22](3-str-507-22.md) — Anforderungen an die Bestimmtheit von Strafvorschriften und die Bedeutung des Meistbegünstigungsprinzips; Verletzung der Aufsichtspflicht in einem Unternehmen b
+- [BGH, Beschluss vom 29.05.2024 - 3 StR 85/24](3-str-85-24.md) — BGH, Beschluss 3 StR 85/24
+- [BGH, Beschluss vom 29.05.2024 - 3 StR 87/24](3-str-87-24.md) — Verurteilung wegen besonders schwerem Raub und Anordnung der Unterbringung in Entziehungsanstalt
+- [BGH, Beschluss vom 28.05.2024 - 3 StR 104/24](3-str-104-24.md) — BGH, Beschluss 3 StR 104/24
+- [BGH, Beschluss vom 28.05.2024 - 3 StR 154/24](3-str-154-24.md) — Handel mit Betäubungsmitteln nach Inkrafttretens des Cannabisgesetzes; Bewertung einer Tat als minder schwerer Fall des bewaffneten Handeltreibens mit Cannabis 
+- [BGH, Urteil vom 16.05.2024 - 3 StR 112/23](3-str-112-23.md) — 1. Der Begriff des „Verbreitens“ in § 176c Abs. 2 StGB ist nicht im engen Sinne des Verbreitungsbegriffs des § 184b Abs. 1 Satz 1 Nr. 1 Halbsatz 1 Alternative 1
+- [BGH, Beschluss vom 16.05.2024 - 3 StR 379/23](3-str-379-23.md) — Anwendbarkeit des Jugendstrafrechts bei Straftaten um Vollendung des 21. Lebensjahrs; Einziehungsentscheidung bei Geldwäsche
+- [BGH, Beschluss vom 15.05.2024 - 3 StR 450/23](3-str-450-23.md) — 1. Ist die Revision wirksam elektronisch übermittelt worden, wegen technischer Störungen aber nicht zu den Sachakten gelangt, und hat das erkennende Gericht in 
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 107/24](3-str-107-24.md) — Betrug: Regelbeispiel des Vermögensverlustes großen Ausmaßes beim versuchten Betrug
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 115/24](3-str-115-24.md) — BGH, Beschluss 3 StR 115/24
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 125/24](3-str-125-24.md) — BGH, Beschluss 3 StR 125/24
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 147/24](3-str-147-24.md) — Neufestsetzung einer Jugendstrafe nach Neueinführung des KCanG
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 163/23](3-str-163-23.md) — BGH, Beschluss 3 StR 163/23
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 36/24](3-str-36-24.md) — Erforderlichkeit des symptomatischen Zusammenhangs zwischen dem Substanzkonsum eines Täters und der Begehung von Straftaten
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 45/24](3-str-45-24.md) — BGH, Beschluss 3 StR 45/24
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 88/24](3-str-88-24.md) — Rechtliche Einordnung des Tathandelns eines Angeklagten als Mitglied einer zum Nachteil älterer Menschen Betrugstaten begehenden Gruppierung
+- [BGH, Beschluss vom 14.05.2024 - 3 StR 96/24](3-str-96-24.md) — (Strafverurteilung wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.: Einziehung von Taterträgen in Höhe der für die Drogen au
+- [BGH, Beschluss vom 30.04.2024 - 3 StR 29/24](3-str-29-24.md) — Verwerfung der Revision ohne Hauptverhandlung durch Beschluss
+- [BGH, Beschluss vom 30.04.2024 - 3 StR 90/23](3-str-90-23.md) — Ablehnung eines Beweisantrags wegen Wahrunterstellung
+- [BGH, Beschluss vom 17.04.2024 - 3 StR 113/24](3-str-113-24.md) — Beachtung der Zäsurwirkung einer Vorverurteilung bei Bildung einer Gesamtstrafe
+- [BGH, Beschluss vom 16.04.2024 - 3 StR 1/24](3-str-1-24.md) — BGH, Beschluss 3 StR 1/24
+- [BGH, Beschluss vom 16.04.2024 - 3 StR 41/24](3-str-41-24.md) — BGH, Beschluss 3 StR 41/24
+- [BGH, Beschluss vom 16.04.2024 - 3 StR 428/23](3-str-428-23.md) — BGH, Beschluss 3 StR 428/23
+- [BGH, Beschluss vom 16.04.2024 - 3 StR 474/23](3-str-474-23.md) — Beihilfe zum banden- und gewerbsmäßigen Betrug zum Nachteil älterer Geschädigter
+- [BGH, Beschluss vom 16.04.2024 - 3 StR 68/24](3-str-68-24.md) — BGH, Beschluss 3 StR 68/24
+- [BGH, Beschluss vom 16.04.2024 - 3 StR 81/24](3-str-81-24.md) — BGH, Beschluss 3 StR 81/24
+- [BGH, Beschluss vom 03.04.2024 - 3 StR 397/23](3-str-397-23.md) — BGH, Beschluss 3 StR 397/23
+- [BGH, Urteil vom 27.03.2024 - 3 StR 370/23](3-str-370-23.md) — Strafrechtliche Unterbringung in einer Entziehungsanstalt: Vorwegvollzug einer Freiheitsstrafe und Verschlechterungsverbot
+- [BGH, Beschluss vom 21.03.2024 - 3 StR 300/23](3-str-300-23.md) — Tätlicher Angriff im Vergleich zu Widerstand gegen Vollstreckungsbeamte; Einsatz einer Schreckschusswaffe und subjektive Erfolgseignung
+- [BGH, Beschluss vom 21.03.2024 - 3 StR 463/23](3-str-463-23.md) — BGH, Beschluss 3 StR 463/23
+- [BGH, Beschluss vom 20.03.2024 - 3 StR 183/23](3-str-183-23.md) — Gehörsverstoß durch unterlassene Begründung der Verwerfung der Revision
+- [BGH, Beschluss vom 20.03.2024 - 3 StR 454/22](3-str-454-22.md) — 1. Berichte, die Organe oder Einrichtungen der Vereinten Nationen zu Beweiszwecken für behördliche oder gerichtliche Verfahren verfasst haben, unterfallen dem A
+- [BGH, Beschluss vom 20.03.2024 - 3 StR 58/24](3-str-58-24.md) — Rechtswirkung einer Einziehungsentscheidung
+- [BGH, Beschluss vom 19.03.2024 - 3 StR 141/23](3-str-141-23.md) — BGH, Beschluss 3 StR 141/23
+- [BGH, Urteil vom 19.03.2024 - 3 StR 349/23](3-str-349-23.md) — BGH, Urteil 3 StR 349/23
+- [BGH, Urteil vom 19.03.2024 - 3 StR 474/19](3-str-474-19.md) — Selbstständige Einziehung trotz verjährter Straftat
+- [BGH, Beschluss vom 19.03.2024 - 3 StR 61/24](3-str-61-24.md) — Körperverletzung mit Todesfolge in Tateinheit mit unerlaubter Ausübung der Heilkunde: Vergrößerung von Geschlechtsorganen beim Mann durch Injektion von Silikonö
+- [BGH, Beschluss vom 19.03.2024 - 3 StR 64/24](3-str-64-24.md) — BGH, Beschluss 3 StR 64/24
+- [BGH, Beschluss vom 07.03.2024 - 3 StR 160/22](3-str-160-22.md) — Anhörungsrüge gegen Revisionsverwerfung im Strafverfahren: Hinweispflicht des Revisionsgerichts zum Austausch von Ablehnungsgründen für einen Beweisantrag
+- [BGH, Urteil vom 07.03.2024 - 3 StR 220/23](3-str-220-23.md) — Revision in Jugendstrafsachen: Zulässigkeit der Rechtsmittelbeschränkung auf den Strafausspruch; Einbeziehung von Vorverurteilungen bei der Bemessung der Jugend
+- [BGH, Beschluss vom 07.03.2024 - 3 StR 417/23](3-str-417-23.md) — BGH, Beschluss 3 StR 417/23
+- [BGH, Beschluss vom 06.03.2024 - 3 StR 15/24](3-str-15-24.md) — BGH, Beschluss 3 StR 15/24
+- [BGH, Beschluss vom 06.03.2024 - 3 StR 429/23](3-str-429-23.md) — Überwiegende Ursache des Hangs für Begehung der Anlasstat; Wahrscheinlichkeit des Therapieerfolgs
+- [BGH, Beschluss vom 05.03.2024 - 3 StR 23/24](3-str-23-24.md) — Maßregelvollstreckung im Übergangsfall: Bestimmung des Vorwegvollzugs einer Unterbringung in einer Entziehungsanstalt durch das Revisionsgericht nach altem Rech
+- [BGH, Beschluss vom 05.03.2024 - 3 StR 389/23](3-str-389-23.md) — Anwartschaftsrecht als Gegenstand der Einziehung
+- [BGH, Beschluss vom 05.03.2024 - 3 StR 435/23](3-str-435-23.md) — Hinweis der Dokumentationsstelle des Bundesgerichtshofs: Die Entscheidung ist durch Beschluss vom 29. Mai 2024 berichtigt worden. Der Berichtigungsbeschluss ist
+- [BGH, Urteil vom 22.02.2024 - 3 StR 385/23](3-str-385-23.md) — Jugendstrafverfahren: Bildung einer Einheitsjugendstrafe durch Einbeziehung rechtskräftiger Vorverurteilungen; Anrechnung eines Warnschussarrests
+- [BGH, Beschluss vom 21.02.2024 - 3 StR 278/23](3-str-278-23.md) — BGH, Beschluss 3 StR 278/23
+- [BGH, Beschluss vom 21.02.2024 - 3 StR 373/23](3-str-373-23.md) — (Freies Ermessen oder Aussetzungspflicht im Rahmen der Entscheidung nach § 265 Abs. 4 StPO bei verspäteter Überlassung der Anklageschrift)
+- [BGH, Beschluss vom 21.02.2024 - 3 StR 480/23](3-str-480-23.md) — Strafverfahren: Verkündung der Urteilsformel in nichtöffentlicher Sitzung
+- [BGH, Beschluss vom 20.02.2024 - 3 StR 12/24](3-str-12-24.md) — Konkurrenzen bei einer Bedrohung und sexuellen Nötigung oder Vergewaltigung
+- [BGH, Beschluss vom 20.02.2024 - 3 StR 466/23](3-str-466-23.md) — Begründung in Urteilsgründen bei Verhängung der Höchststrafe und Vorliegen einzelner Milderungsgründe
+- [BGH, Beschluss vom 20.02.2024 - 3 StR 475/23](3-str-475-23.md) — BGH, Beschluss 3 StR 475/23
+- [BGH, Beschluss vom 20.02.2024 - 3 StR 499/23](3-str-499-23.md) — BGH, Beschluss 3 StR 499/23
+- [BGH, Beschluss vom 06.02.2024 - 3 StR 36/23](3-str-36-23.md) — Strafverfahren: Einstellung des Einziehungsverfahrens bei Verbot des beteiligten Vereins
+- [BGH, Beschluss vom 06.02.2024 - 3 StR 401/23](3-str-401-23.md) — BGH, Beschluss 3 StR 401/23
+- [BGH, Beschluss vom 06.02.2024 - 3 StR 457/23](3-str-457-23.md) — Einziehung des Wertes von Objekten der Geldwäsche
+- [BGH, Beschluss vom 05.02.2024 - 3 StR 414/23](3-str-414-23.md) — BGH, Beschluss 3 StR 414/23
+- [BGH, Beschluss vom 05.02.2024 - 3 StR 419/23](3-str-419-23.md) — Strafbarer Verstoß gegen ein Vereinigungsverbot: Rädelsführerschaft in einer muslimischen Organisation zur Errichtung eines "Kalifatstaats"
+- [BGH, Beschluss vom 05.02.2024 - 3 StR 470/23](3-str-470-23.md) — Das die Strafbarkeit begründende Tatbestandsmerkmal „als Zeuge“ in § 153 StGB ist kein besonderes persönliches Merkmal im Sinne des § 28 Abs. 1 StGB, sondern ei
+- [BGH, Beschluss vom 05.02.2024 - 3 StR 500/23](3-str-500-23.md) — Betäubungsmitteldelikt: Strafzumessung bei Handeltreiben mit Betäubungsmitteln in nicht geringer Menge in Tateinheit mit Besitzes von Betäubungsmitteln zum Eige
+- [BGH, Urteil vom 25.01.2024 - 3 StR 157/23](3-str-157-23.md) — Gefährliche Körperverletzung durch Schläge mit bloßer Hand gegen den Kopf; Differenzierung zwischen Einsichts- und Steuerungsfähigkeit; Kausalitätserfordernis z
+- [BGH, Beschluss vom 25.01.2024 - 3 StR 192/18](3-str-192-18.md) — Prüfungs- und Bescheidungsumfang bei einer Anhörungsrüge
+- [BGH, Beschluss vom 24.01.2024 - 3 StR 354/23](3-str-354-23.md) — Die Gutschrift auf einem im Kontokorrent geführten Girokonto stellt einen Gegenstand dar, der Grundlage für die erweiterte Einziehung des Wertes von Taterträgen
+- [BGH, Beschluss vom 24.01.2024 - 3 StR 453/23](3-str-453-23.md) — Strafbares Überlassen von Kokain zum unmittelbaren Verbrauch; Einbeziehung von Strafen in Gesamtfreiheitsstrafe
+- [BGH, Beschluss vom 23.01.2024 - 3 StR 337/23](3-str-337-23.md) — BGH, Beschluss 3 StR 337/23
+- [BGH, Beschluss vom 23.01.2024 - 3 StR 455/23](3-str-455-23.md) — Strafzumessung bei gefährlicher Körperverletzung; Voraussetzungen der Unterbringung in einer Entziehungsanstalt
+- [BGH, Urteil vom 11.01.2024 - 3 StR 254/23](3-str-254-23.md) — BGH, Urteil 3 StR 254/23
+- [BGH, Urteil vom 11.01.2024 - 3 StR 280/23](3-str-280-23.md) — Tötungsdelikt im Vollrausch: Rauschzustand durch Alkoholgenuss bei erheblicher Alkoholgewöhnung; Rückrechnung bei fehlendem Nachtrunk; erheblich verminderte Ste
+- [BGH, Beschluss vom 11.01.2024 - 3 StR 358/23](3-str-358-23.md) — BGH, Beschluss 3 StR 358/23
+- [BGH, Beschluss vom 10.01.2024 - 3 StR 394/23](3-str-394-23.md) — BGH, Beschluss 3 StR 394/23
+- [BGH, Beschluss vom 09.01.2024 - 3 StR 418/23](3-str-418-23.md) — BGH, Beschluss 3 StR 418/23
+- [BGH, Beschluss vom 09.01.2024 - 3 StR 423/23](3-str-423-23.md) — BGH, Beschluss 3 StR 423/23
+- [BGH, Beschluss vom 09.01.2024 - 3 StR 454/23](3-str-454-23.md) — BGH, Beschluss 3 StR 454/23

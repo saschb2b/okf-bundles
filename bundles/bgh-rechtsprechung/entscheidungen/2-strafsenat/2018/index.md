@@ -1,0 +1,131 @@
+# 2. Strafsenat – 2018
+
+127 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2018 - 2 StR 247/18](2-str-247-18.md) — Strafverfahren: Anforderungen an den Revisionsvortrag bei Geltendmachung eines Beweisverwertungsverbots wegen rechtswidriger Beweismittelgewinnung
+- [BGH, Urteil vom 19.12.2018 - 2 StR 291/18](2-str-291-18.md) — Verwertung von Feststellungen in früheren Urteilen
+- [BGH, Beschluss vom 19.12.2018 - 2 StR 451/18](2-str-451-18.md) — Abgrenzung von Täterschaft und Teilnahme im Betäubungsmittelrecht
+- [BGH, Urteil vom 19.12.2018 - 2 StR 477/17](2-str-477-17.md) — Strafzumessung: Minder schwerer Fall eines besonders schweren Raubs und Doppelverwertungsverbot
+- [BGH, Beschluss vom 18.12.2018 - 2 ARs 170/18](2-ars-170-18.md) — Bußgeldverfahren: Zulässigkeit der Beschwerde gegen die Ablehnung der Nebenbeteiligung eines Verfallsinteressierten
+- [BGH, Beschluss vom 11.12.2018 - 2 StR 250/18](2-str-250-18.md) — Verletzung des Anwesenheitsrechts des Angeklagten bei einer Urkundenverlesung
+- [BGH, Beschluss vom 11.12.2018 - 2 StR 48/17](2-str-48-17.md) — Diebstahl: Natürliche Handlungseinheit bei der Wegnahme mehrerer Sachen
+- [BGH, Beschluss vom 11.12.2018 - 2 StR 487/18](2-str-487-18.md) — Beweiswürdigung bei Lüge eines Angeklagten
+- [BGH, Urteil vom 05.12.2018 - 2 StR 316/18](2-str-316-18.md) — Einziehung des Wertersatzes des aus der Tat Erlangten: Erlöschen des Rückgewähranspruchs des Verletzten durch Rückgabe des aus der Hehlereitat Erlangten
+- [BGH, Beschluss vom 05.12.2018 - 2 StR 481/18](2-str-481-18.md) — BGH, Beschluss 2 StR 481/18
+- [BGH, Beschluss vom 04.12.2018 - 2 StR 421/18](2-str-421-18.md) — Untreue: Voraussetzungen einer Vermögensbetreuungspflicht
+- [BGH, Beschluss vom 27.11.2018 - 2 ARs 295/18](2-ars-295-18.md) — Sachliche Zuständigkeit der Schifffahrtsgerichte
+- [BGH, Beschluss vom 27.11.2018 - 2 ARs 314/18](2-ars-314-18.md) — Kostenfestsetzung in Strafsachen: Erstreckung der Zuständigkeit des Rechtspflegers auf Anträge auf Bestimmung des zuständigen Gerichts
+- [BGH, Beschluss vom 27.11.2018 - 2 StR 254/18](2-str-254-18.md) — Schuldspruch bei einer gewaltsam erzwungenen Preisgabe eines Verstecks
+- [BGH, Urteil vom 21.11.2018 - 2 StR 262/18](2-str-262-18.md) — Einziehung von Taterträgen bei Mittäterschaft: Rechtsfehlerhaftes Unterlassen einer Einziehungsentscheidung
+- [BGH, Urteil vom 21.11.2018 - 2 StR 335/18](2-str-335-18.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Berücksichtigung des Nichteinsatzes einer mitgeführten Waffe im Rahmen des Strafrahmens
+- [BGH, Beschluss vom 14.11.2018 - 2 StR 419/18](2-str-419-18.md) — Schwerer sexueller Missbrauch von Kindern: Vorliegen einer "beischlafähnlichen Handlung" durch Eindringen mit dem Daumen oder einem Finger in den Mund eines Kin
+- [BGH, Urteil vom 07.11.2018 - 2 StR 361/18](2-str-361-18.md) — Beihilfe: Begriff der Hilfeleistung; Anforderungen an eine psychische Beihilfe
+- [BGH, Beschluss vom 31.10.2018 - 2 ARs 311/18](2-ars-311-18.md) — Nachholung einer Verfahrensverbindung durch den BGH
+- [BGH, Beschluss vom 31.10.2018 - 2 StR 281/18](2-str-281-18.md) — 1. Eine Verurteilung wegen vollendeter Hehlerei in Form der Absatzhilfe setzt die Feststellung eines Absatzerfolgs voraus. 2. Für die Beurteilung des Versuchsbe
+- [BGH, Beschluss vom 31.10.2018 - 2 StR 371/18](2-str-371-18.md) — Totschlag: Abstufung innerhalb des bedingten Tötungsvorsatzes bei der Strafzumessung
+- [BGH, Urteil vom 24.10.2018 - 2 StR 299/18](2-str-299-18.md) — Verjährung bei Tateinheit
+- [BGH, Beschluss vom 24.10.2018 - 2 StR 578/16](2-str-578-16.md) — Wiedereinsetzung in den vorigen Stand zwecks Heilung von Zulässigkeitsmängeln von fristgemäß erhobenen Verfahrensrügen
+- [BGH, Beschluss vom 23.10.2018 - 2 StR 417/18](2-str-417-18.md) — Strafverfahren: Umfang der gerichtlichen Mitteilungspflicht bei Verständigungsgesprächen
+- [BGH, Beschluss vom 17.10.2018 - 2 StR 259/18](2-str-259-18.md) — (Berücksichtigung der wirtschaftlichen Verhältnisse des Angeklagten und des Tatopfers bei der Schmerzensgeldbemessung im Adhäsionsverfahren)
+- [BGH, Beschluss vom 17.10.2018 - 2 StR 367/18](2-str-367-18.md) — Strafzumessung beim sexuellen Missbrauch von Kindern
+- [BGH, Beschluss vom 10.10.2018 - 2 ARs 271/18](2-ars-271-18.md) — Jugendstrafverfahren: Gerichtsstand bei Aufenthaltswechsel nach Anklageerhebung; Bindungswirkung eines Übernahmebeschlusses bei Nichtvorliegen der Abgabevorauss
+- [BGH, Beschluss vom 10.10.2018 - 2 StR 134/18](2-str-134-18.md) — Tatbestandsvoraussetzungen des Regelbeispiels der Vergewaltigung
+- [BGH, Urteil vom 10.10.2018 - 2 StR 564/17](2-str-564-17.md) — Das zur Erfüllung des Tatbestands der Hehlerei erforderliche einvernehmliche Handeln zwischen Vortäter und Hehler liegt auch in Fällen vor, in denen das Einvers
+- [BGH, Beschluss vom 09.10.2018 - 2 StR 350/18](2-str-350-18.md) — Bestimmung des Einziehungsbetrages bei einem Betrug
+- [BGH, Beschluss vom 26.09.2018 - 2 StR 283/18](2-str-283-18.md) — Kontinuität zwischen Beweisbeschluss und Urteilsinhalt
+- [BGH, Beschluss vom 25.09.2018 - 2 StR 275/18](2-str-275-18.md) — Sexueller Missbrauch Schutzbefohlener und sexueller Missbrauch von Kindern: Voraussetzung einer mittäterschaftlichen Begehung
+- [BGH, Beschluss vom 19.09.2018 - 2 StR 153/18](2-str-153-18.md) — Voraussetzungen einer exhibitionistischen Handlung
+- [BGH, Urteil vom 12.09.2018 - 2 StR 113/18](2-str-113-18.md) — Strafbefreiender Rücktritt vom Versuch
+- [BGH, Beschluss vom 11.09.2018 - 2 StR 98/18](2-str-98-18.md) — Untreue: Beweiswürdigung bei Verurteilung wegen Ausführung nicht gedeckter Abbuchungsaufträge im Lastschriftverfahren durch einen Bankmitarbeiter
+- [BGH, Beschluss vom 05.09.2018 - 2 StR 31/18](2-str-31-18.md) — Beihilfe zum versuchten Betrug
+- [BGH, Beschluss vom 05.09.2018 - 2 StR 400/17](2-str-400-17.md) — (Konkurrenzverhältnis bei mittelbarer Falschbeurkundung und dem Missbrauch von Ausweispapieren)
+- [BGH, Beschluss vom 05.09.2018 - 2 StR 421/17](2-str-421-17.md) — Prinzip des gesetzlichen Richters im Strafverfahren: Feststellung des Verhinderungsfalles bei Erkrankung eines Schöffen und Fortsetzung der Hauptverhandlung mit
+- [BGH, Urteil vom 05.09.2018 - 2 StR 454/17](2-str-454-17.md) — Strafverfahren wegen Vergewaltigung: Antrag auf Ausschluss der Öffentlichkeit; Schaffung eines "Klimas der Gewalt"; Berücksichtigung von psychischen Schäden bei
+- [BGH, Beschluss vom 04.09.2018 - 2 ARs 151/18](2-ars-151-18.md) — Örtliche Gerichtszuständigkeit für die Überprüfung einer Strafhaft-Verlegungsanordnung
+- [BGH, Beschluss vom 28.08.2018 - 2 StR 142/18](2-str-142-18.md) — 1. Die Rückfallverjährungsfrist von fünfzehn Jahren gemäß § 66 Abs. 4 Satz 3 Halbsatz 2 StGB ist nur im Verhältnis zweier Sexualstraftaten zueinander anwendbar.
+- [BGH, Beschluss vom 28.08.2018 - 2 StR 186/14](2-str-186-14.md) — Kürzung der Kosten des Revisionsverfahrens
+- [BGH, Beschluss vom 21.08.2018 - 2 StR 172/18](2-str-172-18.md) — Ausschließung des Angeklagten von Hauptverhandlung durch begründeten Beschluss
+- [BGH, Beschluss vom 21.08.2018 - 2 StR 231/18](2-str-231-18.md) — Beweiswürdigung eines Geständnisses
+- [BGH, Beschluss vom 21.08.2018 - 2 StR 300/18](2-str-300-18.md) — Tateinheit bei Verletzung mehrerer Personen durch eine Handlung
+- [BGH, Beschluss vom 21.08.2018 - 2 StR 311/18](2-str-311-18.md) — Anordnung der Wertersatzeinziehung bei Beschädigung des durch Diebstahl erlangten Gegenstandes
+- [BGH, Urteil vom 15.08.2018 - 2 StR 152/18](2-str-152-18.md) — Strafverfahren: Nachholung einer vom Tatgericht ersichtlich übersehenen Einziehungsentscheidung durch das Revisionsgericht; Einwilligung in eine Körperverletzun
+- [BGH, Urteil vom 15.08.2018 - 2 StR 428/17](2-str-428-17.md) — Inbegriffsrüge bei einer Revision in Strafsachen: Verwertung von Äußerungen in einem ärztlichen Untersuchungsbericht und solchen bei der Anhörung eines Sachvers
+- [BGH, Beschluss vom 15.08.2018 - 2 StR 474/17](2-str-474-17.md) — Rechtsbeugung und Aussageerpressung durch den Aufenthalt des Opfers in einer Gewahrsamszelle des Amtsgerichts
+- [BGH, Beschluss vom 14.08.2018 - 2 StR 251/18](2-str-251-18.md) — Einziehung: Erlangtes Etwas bei Computerbetrug
+- [BGH, Beschluss vom 08.08.2018 - 2 ARs 121/18](2-ars-121-18.md) — Vereitelt ein Strafverteidiger die Beschlagnahme von Geschäftsunterlagen, für die kein Beschlagnahmeverbot besteht, indem er absichtlich oder wissentlich falsch
+- [BGH, Urteil vom 08.08.2018 - 2 StR 131/18](2-str-131-18.md) — Anforderungen an die Rüge eines Beweisverwertungsverbots
+- [BGH, Beschluss vom 08.08.2018 - 2 StR 210/16](2-str-210-16.md) — (Verurteilung wegen vorsätzlichen Marktmanipulationen unter Berücksichtigung der gesetzlichen Änderungen des Wertpapierhandelsgesetzes)
+- [BGH, Beschluss vom 01.08.2018 - 2 ARs 197/18](2-ars-197-18.md) — Zuständigkeit der Strafvollstreckungskammer: Zuständigkeitsbegründung durch Aufnahme in den Strafvollzug; Beendigung der Fortwirkungszuständigkeit
+- [BGH, Beschluss vom 31.07.2018 - 2 ARs 203/18](2-ars-203-18.md) — Strafvollstreckung: Sachlich und örtlich zuständige Strafvollstreckungskammer für einen Aussetzungswiderruf während der Vollstreckung von Organisationshaft vor 
+- [BGH, Beschluss vom 25.07.2018 - 2 StR 353/16](2-str-353-16.md) — Betrug: Vermögensschaden bei betrügerischem Aktienhandel; Urteilsfeststellungen bei einer Einwirkung auf den Börsenpreis nach altem Recht
+- [BGH, Urteil vom 18.07.2018 - 2 StR 150/18](2-str-150-18.md) — Verhängung einer Jugendstrafe wegen der Schwere der Schuld
+- [BGH, Urteil vom 18.07.2018 - 2 StR 416/16](2-str-416-16.md) — In Gewinnerzielungsabsicht praktizierte Darlehensvergabe ohne Banklizenz strafbar
+- [BGH, Beschluss vom 18.07.2018 - 2 StR 553/17](2-str-553-17.md) — Gesamtschuldnerische Haftung bei der Einziehung des Wertes von Taterträgen
+- [BGH, Beschluss vom 17.07.2018 - 2 StR 123/18](2-str-123-18.md) — Unmittelbares Ansetzen beim Versuch des sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 11.07.2018 - 2 StR 467/17](2-str-467-17.md) — Wiedereinsetzungsantrag des revidierenden Nebenklägers: Begründungsanforderungen nach Versäumung der Revisionsbegründungsfrist
+- [BGH, Beschluss vom 11.07.2018 - 2 StR 497/17](2-str-497-17.md) — Revisionsbegründung in Strafsachen: Verfahrensrüge der Verwertung von Erkenntnissen aus einer gegenüber Mitangeklagten wegen des Verdachts des schweren Bandendi
+- [BGH, Beschluss vom 10.07.2018 - 2 StR 224/18](2-str-224-18.md) — Strafzumessung: Jugendstrafe bei sexuellem Kindesmissbrauch; Begehung weiterer Straftaten trotz eines laufenden Ermittlungsverfahrens
+- [BGH, Urteil vom 04.07.2018 - 2 StR 245/17](2-str-245-17.md) — Wegen Sich-Bereiterklärens zu einem Tötungsverbrechen kann sich auch derjenige, der die Erklärung gegenüber dem potenziellen Opfer abgibt, jedenfalls dann straf
+- [BGH, Urteil vom 04.07.2018 - 2 StR 340/17](2-str-340-17.md) — Beweiswürdigung des Tatrichters bei gemeinschaftlichem Betrug
+- [BGH, Urteil vom 04.07.2018 - 2 StR 485/17](2-str-485-17.md) — Dolmetscherablehnung bei Zweifel an Unparteilichkeit
+- [BGH, Beschluss vom 03.07.2018 - 2 StR 117/18](2-str-117-18.md) — Einziehung eines nicht mehr vorhandenen Veräußerungssurrogats
+- [BGH, Beschluss vom 27.06.2018 - 2 StR 112/18](2-str-112-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Normalpsychologisch erklärbare Tat; Gefährlichkeitsprognose bei Konflikttat vor dem Hintergrund einer Lebens
+- [BGH, Beschluss vom 20.06.2018 - 2 StR 127/18](2-str-127-18.md) — Sicherungsverfahren: Voraussetzungen einer selbständigen Einziehung bei schuldunfähigen Tätern
+- [BGH, Beschluss vom 19.06.2018 - 2 StR 211/18](2-str-211-18.md) — Sperrfrist wegen einer nicht im Katalog der Regelbeispiele enthaltenen Straftat
+- [BGH, Beschluss vom 06.06.2018 - 2 ARs 163/18](2-ars-163-18.md) — Geldwäsche im Ausland: Anwendbarkeit deutschen Strafrechts
+- [BGH, Urteil vom 06.06.2018 - 2 StR 20/18](2-str-20-18.md) — Würdigung aller Indizien und Beweismittel in Beweiswürdigung erforderlich
+- [BGH, Beschluss vom 06.06.2018 - 2 StR 337/14](2-str-337-14.md) — Adhäsionsverfahren: Gebührensstreitwert für Feststellung der Haftung für künftige Schäden
+- [BGH, Beschluss vom 05.06.2018 - 2 StR 170/18](2-str-170-18.md) — Annahme des Qualifikationstatbestands der sexuellen Nötigung
+- [BGH, Beschluss vom 05.06.2018 - 2 StR 495/17](2-str-495-17.md) — (Umfang der gerichtlichen Feststellungen bei Vorwurf der sexuellen Nötigung)
+- [BGH, Beschluss vom 30.05.2018 - 2 StR 141/18](2-str-141-18.md) — Rücktritt von unbeendetem Versuch bei freiwilliger Abstandnahme von Tat
+- [BGH, Beschluss vom 23.05.2018 - 2 StR 121/18](2-str-121-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Begriff der Straftat von erheblicher Bedeutung
+- [BGH, Beschluss vom 23.05.2018 - 2 StR 169/18](2-str-169-18.md) — Der durch eine schwere Brandstiftung entstandene Sachschaden an einem Wohngebäude ist dann erheblich im Sinne des § 306e Abs. 1 StGB, wenn - bezogen auf das Tat
+- [BGH, Beschluss vom 23.05.2018 - 2 StR 18/18](2-str-18-18.md) — Tateinheit bei Wohnungseinbruchdiebstahl durch Aufhebelung mehrerer Türen
+- [BGH, Beschluss vom 09.05.2018 - 2 StR 543/17](2-str-543-17.md) — (Auswirkungen eines Verstoßes gegen die Regeln über die Öffentlichkeit)
+- [BGH, Beschluss vom 08.05.2018 - 2 StR 130/18](2-str-130-18.md) — Voraussetzungen einer Beihilfe zu einem unerlaubten Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 08.05.2018 - 2 StR 72/18](2-str-72-18.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Beurteilung der Erfolgsaussicht der Behandlung; Abgrenzung zwischen Einsichts- und Steuerungsfäh
+- [BGH, Beschluss vom 03.05.2018 - 2 ARs 63/18](2-ars-63-18.md) — Gerichtsstand in Strafsachen: Voraussetzungen für eine Zuständigkeitsbestimmung durch den Bundesgerichtshof
+- [BGH, Beschluss vom 03.05.2018 - 2 StR 69/18](2-str-69-18.md) — (Ausschluss der Schuldfähigkeit bei einer psychischen Störung)
+- [BGH, Beschluss vom 02.05.2018 - 2 StR 317/17](2-str-317-17.md) — Entscheidung über Entbindung von Schöffen vom Revisionsgericht nur auf Vertretbarkeit zu überprüfen
+- [BGH, Urteil vom 25.04.2018 - 2 StR 14/18](2-str-14-18.md) — Unterbringung in einer Entziehungsanstalt bei Sprachunkundigkeit eines Ausländers
+- [BGH, Urteil vom 25.04.2018 - 2 StR 194/17](2-str-194-17.md) — Folgen der Taten für das Opfer als Strafschärfungsgrund
+- [BGH, Beschluss vom 18.04.2018 - 2 ARs 542/17](2-ars-542-17.md) — Ausschließung des Verteidigers: Begriff der Beteiligung an der Tat
+- [BGH, Beschluss vom 18.04.2018 - 2 StR 1/18](2-str-1-18.md) — Strafrahmenbemessung bei Betäubungsmitteldelikten: Strafrahmenmilderung unter Berücksichtigung der Sperrwirkung bei Gesetzeskonkurrenz
+- [BGH, Beschluss vom 11.04.2018 - 2 StR 11/18](2-str-11-18.md) — Aufhebung eines Gesamtstrafenausspruchs bei Verstoß gegen Doppelbestrafungsverbot
+- [BGH, Urteil vom 11.04.2018 - 2 StR 436/17](2-str-436-17.md) — Besonders schwerer Raub ohne Durchladen der Schusswaffe
+- [BGH, Urteil vom 11.04.2018 - 2 StR 551/17](2-str-551-17.md) — Rücktritt vom versuchten Totschlag: Urteilsfeststellungen zum Vorstellungsbild des Täters nach Abschluss der letzten mit Tötungsvorsatz vorgenommenen Ausführung
+- [BGH, Beschluss vom 11.04.2018 - 2 StR 71/18](2-str-71-18.md) — Beschreibung des psychischen Defekts bei narzisstisch-dissozialer Borderlinestörung
+- [BGH, Beschluss vom 10.04.2018 - 2 StR 24/18](2-str-24-18.md) — Anstiftung zum versuchten Raub: Berücksichtigung der gesetzlichen Strafmilderung der Versuchsstrafbarkeit bei der Strafrahmenwahl und Strafzumessung
+- [BGH, Beschluss vom 28.03.2018 - 2 ARs 50/18](2-ars-50-18.md) — Zuständigkeit für Nachtragsentscheidungen im Rahmen der Strafaussetzung zur Bewährung
+- [BGH, Beschluss vom 28.03.2018 - 2 ARs 97/18](2-ars-97-18.md) — Zuständigkeitsbestimmung bei Todesermittlungsverfahren
+- [BGH, Urteil vom 28.03.2018 - 2 StR 176/17](2-str-176-17.md) — Betrieb einer illegalen Cannabis-Plantage: Konkurrenzen bei mehreren Anbauvorgängen und verschiedenen Beteiligten; Annahme eines minder schweren Falles trotz ho
+- [BGH, Urteil vom 28.03.2018 - 2 StR 311/17](2-str-311-17.md) — Ausnutzungsbewusstsein bei freiwilligem Ausziehen und Besitz gelöschter Kinderpornos
+- [BGH, Urteil vom 28.03.2018 - 2 StR 516/17](2-str-516-17.md) — Strafaussetzung zur Bewährung: Bewertungsspielraum des Tatrichters; Begründung der Aussetzungsentscheidung
+- [BGH, Beschluss vom 20.03.2018 - 2 StR 328/17](2-str-328-17.md) — Rechtlicher Hinweis vor Verurteilung nach von Anklageschrift abweichendem Strafgesetz notwendig
+- [BGH, Beschluss vom 13.03.2018 - 2 ARs 69/18](2-ars-69-18.md) — Strafverfahren: Zulässigkeit der Verweisung an das örtlich zuständige Gericht durch das erstinstanzliche Gericht
+- [BGH, Beschluss vom 13.03.2018 - 2 StR 286/17](2-str-286-17.md) — Anordnung eines Berufsverbots: Begründung der Gefährlichkeitsprognose
+- [BGH, Beschluss vom 07.03.2018 - 2 StR 353/17](2-str-353-17.md) — Versuchte gefährliche Körperverletzung: Strafbefreiender Rücktritt bei Erreichen eines außertatbestandlichen Ziels; Voraussetzungen der Annahme eines fehlgeschl
+- [BGH, Beschluss vom 07.03.2018 - 2 StR 470/17](2-str-470-17.md) — Keine Wiedereinsetzung bei Versäumung der Frist zur Abgabe einer Gegenerklärung
+- [BGH, Beschluss vom 06.03.2018 - 2 StR 481/17](2-str-481-17.md) — Senatsanfrage: Konkurrenzen bei Bandendiebstahl oder Wohnungseinbruchdiebstahl mit zugleich begangener Sachbeschädigung
+- [BGH, Beschluss vom 06.03.2018 - 2 StR 65/18](2-str-65-18.md) — Besonders schwerer Raub: Einsatz eines gefährlichen Werkzeugs bei Verwendung von K.-o.-Tropfen
+- [BGH, Beschluss vom 28.02.2018 - 2 StR 234/16](2-str-234-16.md) — Strafverfahren: Ablehnung eines Richters wegen Vorbefassung
+- [BGH, Urteil vom 28.02.2018 - 2 StR 409/17](2-str-409-17.md) — Strafzumessung: Wesentlichkeit der Aufklärungshilfe
+- [BGH, Urteil vom 28.02.2018 - 2 StR 45/17](2-str-45-17.md) — Schwerer sexueller Missbrauch einer widerstandsunfähigen Person: Strafzumessung betreffend die Anwendung eines Regelbeispiels im Übergangsfall; Begrenzung der g
+- [BGH, Beschluss vom 27.02.2018 - 2 StR 390/17](2-str-390-17.md) — Wirksame Antragsschrift bei Sexualstraftaten einer Tatserie
+- [BGH, Urteil vom 21.02.2018 - 2 StR 374/17](2-str-374-17.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Konkurrenzbewertung bei Drogenerwerb mit Erlös aus vorangegangenem Abverkauf; Mittäterschaft; Strafzumessung
+- [BGH, Urteil vom 21.02.2018 - 2 StR 431/17](2-str-431-17.md) — Sexueller Missbrauch von Kindern und Schutzbefohlenen: Beweiswürdigung bei freisprechendem Urteil; Gesamtstrafenbildung
+- [BGH, Beschluss vom 20.02.2018 - 2 StR 348/17](2-str-348-17.md) — Strafurteil: Erforderlichkeit der Erörterung von Zahlungserleichterungen bei Verhängung einer Geldstrafe
+- [BGH, Urteil vom 07.02.2018 - 2 StR 171/17](2-str-171-17.md) — Mordversuch: Abgrenzung zwischen beendetem und unbeendetem Versuch; Voraussetzungen eines strafbefreienden Rücktritts vom beendeten Versuch
+- [BGH, Urteil vom 07.02.2018 - 2 StR 447/17](2-str-447-17.md) — Sexueller Kindesmissbrauch: Anforderungen an die Urteilsfeststellungen im Fall von "Aussage gegen Aussage"
+- [BGH, Beschluss vom 07.02.2018 - 2 StR 545/17](2-str-545-17.md) — Diebstahl und schwere räuberische Erpressung: Stufenverhältnis und wahlweise Verurteilung
+- [BGH, Beschluss vom 06.02.2018 - 2 StR 163/17](2-str-163-17.md) — Beweisverwertungsverbot im Strafverfahren: Unterbliebene Belehrung über die Möglichkeit einer Pflichtverteidigerbestellung bei der Beschuldigtenvernehmung
+- [BGH, Beschluss vom 23.01.2018 - 2 StR 238/17](2-str-238-17.md) — Revision in Strafsachen: Notwendige Urteilsausführungen zur Beweiswürdigung
+- [BGH, Beschluss vom 23.01.2018 - 2 StR 535/17](2-str-535-17.md) — Sofortige Beschwerde gegen die Kostenentscheidung in Strafsachen: Zuständigkeit des Revisionsgerichts
+- [BGH, Urteil vom 17.01.2018 - 2 StR 180/17](2-str-180-17.md) — Strafrechtliches Ermittlungsverfahren: Befugnis zur Durchsuchung des Kraftfahrzeugs eines Tatverdächtigen
+- [BGH, Beschluss vom 16.01.2018 - 2 StR 527/17](2-str-527-17.md) — Raub: Beweiswürdigung hinsichtlich Zueignungsabsicht; Subsidiarität der Unterschlagung
+- [BGH, Urteil vom 10.01.2018 - 2 StR 150/15](2-str-150-15.md) — 1. Der Umstand, dass der Täter mit Tötungsabsicht gehandelt hat, kann beim vorsätzlichen Tötungsdelikt strafschärfend berücksichtigt werden. Hierin liegt grunds
+- [BGH, Urteil vom 10.01.2018 - 2 StR 200/17](2-str-200-17.md) — Schwerer Raub: Verwenden eines gefährlichen Werkzeugs bei dessen rein taktiler Wahrnehmung durch das Tatopfer
+- [BGH, Urteil vom 10.01.2018 - 2 StR 525/16](2-str-525-16.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an eine Gefährlichkeitsprognose bei Straftaten nur gegen eine bestimmte Person
+- [BGH, Urteil vom 10.01.2018 - 2 StR 76/17](2-str-76-17.md) — Keine Unvoreingenommenheit eines Richters bei Hinweis auf Bedeutung eines Geständnisses
+- [BGH, Beschluss vom 09.01.2018 - 2 ARs 551/17](2-ars-551-17.md) — Gerichtsstandbestimmung bei häufigem Wohnortwechsel des zu Bewährungsstrafe Verurteilten
+- [BGH, Beschluss vom 09.01.2018 - 2 StR 475/17](2-str-475-17.md) — Strafschärfende Berücksichtigung einer mittäterschaftlichen Beteiligung

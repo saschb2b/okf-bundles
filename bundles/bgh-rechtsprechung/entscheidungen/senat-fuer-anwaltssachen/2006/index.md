@@ -1,0 +1,42 @@
+# Senat für Anwaltssachen – 2006
+
+38 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2006 - AnwZ (B) 57/04](anwz-b-57-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.12.2006 - AnwZ (B) 107/05](anwz-b-107-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.12.2006 - AnwZ (B) 109/05](anwz-b-109-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.12.2006 - AnwZ (B) 110/05](anwz-b-110-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 04.12.2006 - AnwZ (B) 118/05](anwz-b-118-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 27.11.2006 - AnwZ (B) 102/05](anwz-b-102-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 21.11.2006 - AnwZ (B) 39/06](anwz-b-39-06.md) — Widerrufs der Rechtsanwaltszulassung aus Gründen des Vermögensverfalls
+- [BGH, Beschluss vom 06.11.2006 - AnwZ (B) 84/05](anwz-b-84-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 30.10.2006 - AnwZ (B) 21/06](anwz-b-21-06.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.10.2006 - AnwZ (B) 80/05](anwz-b-80-05.md) — Gestattung der Führung der Fachanwaltsbezeichnung Fachanwalt für Versicherungsrecht
+- [BGH, Beschluss vom 12.10.2006 - AnwZ (B) 89/05](anwz-b-89-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 10.10.2006 - AnwZ (B) 28/06](anwz-b-28-06.md) — Feststellung des Fehlens von Widerrufsvoraussetzungen
+- [BGH, Beschluss vom 09.10.2006 - AnwZ (B) 95/05](anwz-b-95-05.md) — Widerrufs der Rechtsanwaltszulassung aus Gründen des Vermögensverfalls
+- [BGH, Beschluss vom 25.09.2006 - AnwZ (B) 70/05](anwz-b-70-05.md) — Widerrufs der Zulassung infolge Vermögensverfalls
+- [BGH, Beschluss vom 25.09.2006 - AnwZ (B) 72/05](anwz-b-72-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 25.09.2006 - AnwZ (B) 81/05](anwz-b-81-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 08.08.2006 - AnwZ (B) 1/06](anwz-b-1-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.07.2006 - AnwSt (B) 4/06](anwst-b-4-06.md) — Verletzung anwaltlicher Pflichten
+- [BGH, Beschluss vom 03.07.2006 - AnwZ (B) 26/06](anwz-b-26-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.07.2006 - AnwZ (B) 63/05](anwz-b-63-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.07.2006 - AnwZ (B) 64/05](anwz-b-64-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.07.2006 - AnwZ (B) 66/05](anwz-b-66-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 03.07.2006 - AnwZ (B) 81/04](anwz-b-81-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.05.2006 - AnwZ (B) 100/05](anwz-b-100-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.05.2006 - AnwZ (B) 11/05](anwz-b-11-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft hier: Anhörungsrüge nach § 29 a FGG
+- [BGH, Beschluss vom 15.05.2006 - AnwZ (B) 25/04](anwz-b-25-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 15.05.2006 - AnwZ (B) 46/05](anwz-b-46-05.md) — Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 16.04.2006 - AnwZ (B) 10/06](anwz-b-10-06.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 31.03.2006 - AnwZ (B) 119/05](anwz-b-119-05.md) — Ablehnung eines Richters des Anwaltsgerichtshofs
+- [BGH, Beschluss vom 06.03.2006 - AnwZ (B) 112/05](anwz-b-112-05.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 06.03.2006 - AnwZ (B) 32/05](anwz-b-32-05.md) — BGH, Beschluss vom 06.03.2006 - AnwZ (B) 32/05
+- [BGH, Beschluss vom 06.03.2006 - AnwZ (B) 36/05](anwz-b-36-05.md) — Verleihung der Fachanwaltsbezeichnung für das Steuerrecht
+- [BGH, Beschluss vom 06.03.2006 - AnwZ (B) 37/05](anwz-b-37-05.md) — Verleihung der Fachanwaltsbezeichnung für das Steuerrecht
+- [BGH, Beschluss vom 22.02.2006 - AnwZ (B) 69/04](anwz-b-69-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 22.02.2006 - AnwZ (B) 91/04](anwz-b-91-04.md) — Widerrufs der Zulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 01.02.2006 - AnwZ (B) 71/05](anwz-b-71-05.md) — Nichtunterhaltung einer Berufshaftpflicht-
+- [BGH, Beschluss vom 30.01.2006 - AnwZ (B) 22/05](anwz-b-22-05.md) — Vermögensverfalls widerru-
+- [BGH, Beschluss vom 02.01.2006 - AnwZ (B) 19/05](anwz-b-19-05.md) — Vorlage eines ärztlichen Gutachtens

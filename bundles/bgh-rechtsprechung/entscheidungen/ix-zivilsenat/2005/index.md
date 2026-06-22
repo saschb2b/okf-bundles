@@ -1,0 +1,103 @@
+# IX. Zivilsenat – 2005
+
+99 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2005 - IX ZR 146/04](ix-zr-146-04.md) — BGH, Beschluss vom 15.12.2005 - IX ZR 146/04
+- [BGH, Beschluss vom 15.12.2005 - IX ZR 149/03](ix-zr-149-03.md) — BGH, Beschluss vom 15.12.2005 - IX ZR 149/03
+- [BGH, Beschluss vom 14.12.2005 - IX ZB 256/04](ix-zb-256-04.md) — BGH, Beschluss vom 14.12.2005 - IX ZB 256/04
+- [BGH, Beschluss vom 14.12.2005 - IX ZB 54/04](ix-zb-54-04.md) — BGH, Beschluss vom 14.12.2005 - IX ZB 54/04
+- [BGH, Beschluss vom 14.12.2005 - IX ZR 210/03](ix-zr-210-03.md) — BGH, Beschluss vom 14.12.2005 - IX ZR 210/03
+- [BGH, Beschluss vom 08.12.2005 - IX ZA 16/03](ix-za-16-03.md) — BGH, Beschluss vom 08.12.2005 - IX ZA 16/03
+- [BGH, Beschluss vom 08.12.2005 - IX ZR 118/02](ix-zr-118-02.md) — BGH, Beschluss vom 08.12.2005 - IX ZR 118/02
+- [BGH, Urteil vom 08.12.2005 - IX ZR 188/04](ix-zr-188-04.md) — Tatbestand:
+- [BGH, Beschluss vom 08.12.2005 - IX ZR 200/04](ix-zr-200-04.md) — BGH, Beschluss vom 08.12.2005 - IX ZR 200/04
+- [BGH, Beschluss vom 08.12.2005 - IX ZR 296/01](ix-zr-296-01.md) — BGH, Beschluss vom 08.12.2005 - IX ZR 296/01
+- [BGH, Beschluss vom 01.12.2005 - IX ZB 17/04](ix-zb-17-04.md) — BGH, Beschluss vom 01.12.2005 - IX ZB 17/04
+- [BGH, Beschluss vom 01.12.2005 - IX ZR 1/05](ix-zr-1-05.md) — BGH, Beschluss vom 01.12.2005 - IX ZR 1/05
+- [BGH, Beschluss vom 01.12.2005 - IX ZR 313/01](ix-zr-313-01.md) — BGH, Beschluss vom 01.12.2005 - IX ZR 313/01
+- [BGH, Beschluss vom 01.12.2005 - IX ZR 85/04](ix-zr-85-04.md) — BGH, Beschluss vom 01.12.2005 - IX ZR 85/04
+- [BGH, Urteil vom 17.11.2005 - IX ZR 162/04](ix-zr-162-04.md) — BGH, Urteil vom 17.11.2005 - IX ZR 162/04
+- [BGH, Beschluss vom 10.11.2005 - IX ZB 195/05](ix-zb-195-05.md) — BGH, Beschluss vom 10.11.2005 - IX ZB 195/05
+- [BGH, Beschluss vom 10.11.2005 - IX ZR 152/01](ix-zr-152-01.md) — BGH, Beschluss vom 10.11.2005 - IX ZR 152/01
+- [BGH, Beschluss vom 03.11.2005 - IX ZA 23/03](ix-za-23-03.md) — BGH, Beschluss vom 03.11.2005 - IX ZA 23/03
+- [BGH, Beschluss vom 03.11.2005 - IX ZB 211/03](ix-zb-211-03.md) — BGH, Beschluss vom 03.11.2005 - IX ZB 211/03
+- [BGH, Beschluss vom 03.11.2005 - IX ZR 128/04](ix-zr-128-04.md) — BGH, Beschluss vom 03.11.2005 - IX ZR 128/04
+- [BGH, Urteil vom 03.11.2005 - IX ZR 140/04](ix-zr-140-04.md) — Tatbestand:
+- [BGH, Beschluss vom 03.11.2005 - IX ZR 143/03](ix-zr-143-03.md) — BGH, Beschluss vom 03.11.2005 - IX ZR 143/03
+- [BGH, Beschluss vom 20.10.2005 - IX ZB 275/03](ix-zb-275-03.md) — BGH, Beschluss vom 20.10.2005 - IX ZB 275/03
+- [BGH, Urteil vom 20.10.2005 - IX ZR 276/02](ix-zr-276-02.md) — Tatbestand:
+- [BGH, Beschluss vom 06.10.2005 - IX ZB 27/02](ix-zb-27-02.md) — BGH, Beschluss vom 06.10.2005 - IX ZB 27/02
+- [BGH, Beschluss vom 06.10.2005 - IX ZB 360/02](ix-zb-360-02.md) — BGH, Beschluss vom 06.10.2005 - IX ZB 360/02
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 111/03](ix-zr-111-03.md) — BGH, Beschluss vom 06.10.2005 - IX ZR 111/03
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 132/04](ix-zr-132-04.md) — BGH, Beschluss vom 06.10.2005 - IX ZR 132/04
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 252/02](ix-zr-252-02.md) — BGH, Beschluss vom 06.10.2005 - IX ZR 252/02
+- [BGH, Beschluss vom 06.10.2005 - IX ZR 258/03](ix-zr-258-03.md) — Verletzung des Willkürverbots oder von Verfahrensgrundrechten (vgl. BGHZ 154, 288, 296) der Beklagten geboten.
+- [BGH, Beschluss vom 29.09.2005 - IX ZA 14/05](ix-za-14-05.md) — BGH, Beschluss vom 29.09.2005 - IX ZA 14/05
+- [BGH, Beschluss vom 29.09.2005 - IX ZB 178/02](ix-zb-178-02.md) — BGH, Beschluss vom 29.09.2005 - IX ZB 178/02
+- [BGH, Beschluss vom 29.09.2005 - IX ZB 98/05](ix-zb-98-05.md) — BGH, Beschluss vom 29.09.2005 - IX ZB 98/05
+- [BGH, Beschluss vom 29.09.2005 - IX ZR 170/01](ix-zr-170-01.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 170/01
+- [BGH, Beschluss vom 29.09.2005 - IX ZR 200/01](ix-zr-200-01.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 200/01
+- [BGH, Beschluss vom 29.09.2005 - IX ZR 62/03](ix-zr-62-03.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 62/03
+- [BGH, Beschluss vom 29.09.2005 - IX ZR 68/03](ix-zr-68-03.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 68/03
+- [BGH, Beschluss vom 29.09.2005 - IX ZR 68/04](ix-zr-68-04.md) — BGH, Beschluss vom 29.09.2005 - IX ZR 68/04
+- [BGH, Beschluss vom 22.09.2005 - IX ZA 13/05](ix-za-13-05.md) — BGH, Beschluss vom 22.09.2005 - IX ZA 13/05
+- [BGH, Beschluss vom 22.09.2005 - IX ZA 17/04](ix-za-17-04.md) — BGH, Beschluss vom 22.09.2005 - IX ZA 17/04
+- [BGH, Beschluss vom 22.09.2005 - IX ZB 205/04](ix-zb-205-04.md) — BGH, Beschluss vom 22.09.2005 - IX ZB 205/04
+- [BGH, Beschluss vom 22.09.2005 - IX ZB 223/04](ix-zb-223-04.md) — BGH, Beschluss vom 22.09.2005 - IX ZB 223/04
+- [BGH, Beschluss vom 22.09.2005 - IX ZB 7/04](ix-zb-7-04.md) — BGH, Beschluss vom 22.09.2005 - IX ZB 7/04
+- [BGH, Beschluss vom 22.09.2005 - IX ZB 91/05](ix-zb-91-05.md) — BGH, Beschluss vom 22.09.2005 - IX ZB 91/05
+- [BGH, Beschluss vom 22.09.2005 - IX ZR 157/01](ix-zr-157-01.md) — BGH, Beschluss vom 22.09.2005 - IX ZR 157/01
+- [BGH, Beschluss vom 22.09.2005 - IX ZR 169/03](ix-zr-169-03.md) — BGH, Beschluss vom 22.09.2005 - IX ZR 169/03
+- [BGH, Beschluss vom 22.09.2005 - IX ZR 197/03](ix-zr-197-03.md) — BGH, Beschluss vom 22.09.2005 - IX ZR 197/03
+- [BGH, Urteil vom 22.09.2005 - IX ZR 205/01](ix-zr-205-01.md) — Tatbestand: Die klagenden Eheleute gründeten zum 1. Januar 1984 eine Gesellschaft bürgerlichen Rechts (im folgenden: GbR) zur gemeinsamen Tä
+- [BGH, Beschluss vom 22.09.2005 - IX ZR 209/03](ix-zr-209-03.md) — der Verletzung des Verwertungsrechts
+- [BGH, Urteil vom 04.08.2005 - IX ZR 117/04](ix-zr-117-04.md) — Tatbestand:
+- [BGH, Beschluss vom 21.07.2005 - IX ZB 275/04](ix-zb-275-04.md) — BGH, Beschluss vom 21.07.2005 - IX ZB 275/04
+- [BGH, Beschluss vom 21.07.2005 - IX ZR 144/02](ix-zr-144-02.md) — BGH, Beschluss vom 21.07.2005 - IX ZR 144/02
+- [BGH, Urteil vom 21.07.2005 - IX ZR 49/02](ix-zr-49-02.md) — Tatbestand:
+- [BGH, Beschluss vom 14.07.2005 - IX ZA 12/04](ix-za-12-04.md) — BGH, Beschluss vom 14.07.2005 - IX ZA 12/04
+- [BGH, Beschluss vom 14.07.2005 - IX ZA 6/05](ix-za-6-05.md) — BGH, Beschluss vom 14.07.2005 - IX ZA 6/05
+- [BGH, Beschluss vom 14.07.2005 - IX ZB 224/04](ix-zb-224-04.md) — BGH, Beschluss vom 14.07.2005 - IX ZB 224/04
+- [BGH, Beschluss vom 14.07.2005 - IX ZR 26/03](ix-zr-26-03.md) — BGH, Beschluss vom 14.07.2005 - IX ZR 26/03
+- [BGH, Beschluss vom 14.07.2005 - IX ZR 66/03](ix-zr-66-03.md) — BGH, Beschluss vom 14.07.2005 - IX ZR 66/03
+- [BGH, Beschluss vom 07.07.2005 - IX ZB 115/05](ix-zb-115-05.md) — zulässig noch durch das Beschwerdegericht im Einzelfall zugelassen worden ist (§ 574 Abs. 1 ZPO). Gegen eine die Prozeßkostenhilfe versagend
+- [BGH, Beschluss vom 23.06.2005 - IX ZR 278/01](ix-zr-278-01.md) — BGH, Beschluss vom 23.06.2005 - IX ZR 278/01
+- [BGH, Beschluss vom 16.06.2005 - IX ZB 42/05](ix-zb-42-05.md) — BGH, Beschluss vom 16.06.2005 - IX ZB 42/05
+- [BGH, Beschluss vom 09.06.2005 - IX ZB 14/05](ix-zb-14-05.md) — BGH, Beschluss vom 09.06.2005 - IX ZB 14/05
+- [BGH, Beschluss vom 09.06.2005 - IX ZR 184/02](ix-zr-184-02.md) — BGH, Beschluss vom 09.06.2005 - IX ZR 184/02
+- [BGH, Beschluss vom 02.06.2005 - IX ZR 233/01](ix-zr-233-01.md) — BGH, Beschluss vom 02.06.2005 - IX ZR 233/01
+- [BGH, Beschluss vom 02.06.2005 - IX ZR 65/03](ix-zr-65-03.md) — BGH, Beschluss vom 02.06.2005 - IX ZR 65/03
+- [BGH, Urteil vom 24.05.2005 - IX ZR 114/01](ix-zr-114-01.md) — pflichtwidriger Begründung einer erkennbar nicht gedeckten Masseschuld verjährt analog § 852 BGB a.F. innerhalb von drei Jahren ab Kenntnis
+- [BGH, Beschluss vom 03.05.2005 - IX ZB 37/05](ix-zb-37-05.md) — BGH, Beschluss vom 03.05.2005 - IX ZB 37/05
+- [BGH, Beschluss vom 03.05.2005 - IX ZB 69/05](ix-zb-69-05.md) — BGH, Beschluss vom 03.05.2005 - IX ZB 69/05
+- [BGH, Beschluss vom 03.05.2005 - IX ZR 232/02](ix-zr-232-02.md) — BGH, Beschluss vom 03.05.2005 - IX ZR 232/02
+- [BGH, Beschluss vom 03.05.2005 - IX ZR 242/02](ix-zr-242-02.md) — BGH, Beschluss vom 03.05.2005 - IX ZR 242/02
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 23/03](ix-zr-23-03.md) — BGH, Beschluss vom 21.04.2005 - IX ZR 23/03
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 271/01](ix-zr-271-01.md) — BGH, Beschluss vom 21.04.2005 - IX ZR 271/01
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 425/00](ix-zr-425-00.md) — BGH, Beschluss vom 21.04.2005 - IX ZR 425/00
+- [BGH, Beschluss vom 21.04.2005 - IX ZR 5/02](ix-zr-5-02.md) — BGH, Beschluss vom 21.04.2005 - IX ZR 5/02
+- [BGH, Beschluss vom 14.04.2005 - IX ZB 175/03](ix-zb-175-03.md) — BGH, Beschluss vom 14.04.2005 - IX ZB 175/03
+- [BGH, Beschluss vom 14.04.2005 - IX ZR 248/02](ix-zr-248-02.md) — BGH, Beschluss vom 14.04.2005 - IX ZR 248/02
+- [BGH, Beschluss vom 07.04.2005 - IX ZB 30/05](ix-zb-30-05.md) — BGH, Beschluss vom 07.04.2005 - IX ZB 30/05
+- [BGH, Urteil vom 07.04.2005 - IX ZR 258/01](ix-zr-258-01.md) — Tatbestand:
+- [BGH, Beschluss vom 10.03.2005 - IX ZB 269/03](ix-zb-269-03.md) — BGH, Beschluss vom 10.03.2005 - IX ZB 269/03
+- [BGH, Beschluss vom 10.03.2005 - IX ZR 253/01](ix-zr-253-01.md) — BGH, Beschluss vom 10.03.2005 - IX ZR 253/01
+- [BGH, Beschluss vom 03.03.2005 - IX ZB 277/03](ix-zb-277-03.md) — BGH, Beschluss vom 03.03.2005 - IX ZB 277/03
+- [BGH, Beschluss vom 03.03.2005 - IX ZB 33/04](ix-zb-33-04.md) — BGH, Beschluss vom 03.03.2005 - IX ZB 33/04
+- [BGH, Beschluss vom 03.03.2005 - IX ZR 248/01](ix-zr-248-01.md) — BGH, Beschluss vom 03.03.2005 - IX ZR 248/01
+- [BGH, Urteil vom 03.03.2005 - IX ZR 441/00](ix-zr-441-00.md) — BGH, Urteil vom 03.03.2005 - IX ZR 441/00
+- [BGH, Beschluss vom 17.02.2005 - IX ZB 144/04](ix-zb-144-04.md) — BGH, Beschluss vom 17.02.2005 - IX ZB 144/04
+- [BGH, Beschluss vom 17.02.2005 - IX ZB 237/04](ix-zb-237-04.md) — BGH, Beschluss vom 17.02.2005 - IX ZB 237/04
+- [BGH, Beschluss vom 17.02.2005 - IX ZB 88/03](ix-zb-88-03.md) — BGH, Beschluss vom 17.02.2005 - IX ZB 88/03
+- [BGH, Beschluss vom 17.02.2005 - IX ZR 168/01](ix-zr-168-01.md) — BGH, Beschluss vom 17.02.2005 - IX ZR 168/01
+- [BGH, Beschluss vom 16.02.2005 - IX ZR 178/01](ix-zr-178-01.md) — BGH, Beschluss vom 16.02.2005 - IX ZR 178/01
+- [BGH, Beschluss vom 10.02.2005 - IX ZR 230/01](ix-zr-230-01.md) — BGH, Beschluss vom 10.02.2005 - IX ZR 230/01
+- [BGH, Beschluss vom 03.02.2005 - IX ZR 80/02](ix-zr-80-02.md) — BGH, Beschluss vom 03.02.2005 - IX ZR 80/02
+- [BGH, Beschluss vom 27.01.2005 - IX ZB 258/04](ix-zb-258-04.md) — BGH, Beschluss vom 27.01.2005 - IX ZB 258/04
+- [BGH, Beschluss vom 27.01.2005 - IX ZB 270/03](ix-zb-270-03.md) — BGH, Beschluss vom 27.01.2005 - IX ZB 270/03
+- [BGH, Beschluss vom 27.01.2005 - IX ZR 228/01](ix-zr-228-01.md) — BGH, Beschluss vom 27.01.2005 - IX ZR 228/01
+- [BGH, Beschluss vom 20.01.2005 - IX ZR 112/03](ix-zr-112-03.md) — BGH, Beschluss vom 20.01.2005 - IX ZR 112/03
+- [BGH, Beschluss vom 20.01.2005 - IX ZR 140/01](ix-zr-140-01.md) — BGH, Beschluss vom 20.01.2005 - IX ZR 140/01
+- [BGH, Urteil vom 20.01.2005 - IX ZR 416/00](ix-zr-416-00.md) — der Aufdeckung stiller Reserven durch Verkauf von Gewerbeerwartungsland (Abgrenzung zu BGH WM 2004, 475).
+- [BGH, Urteil vom 13.01.2005 - IX ZR 33/04](ix-zr-33-04.md) — Tatbestand:
+- [BGH, Urteil vom 13.01.2005 - IX ZR 457/00](ix-zr-457-00.md) — BGH, Urteil vom 13.01.2005 - IX ZR 457/00

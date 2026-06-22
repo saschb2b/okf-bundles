@@ -1,0 +1,10 @@
+# Kartellsenat – 2026
+
+6 Entscheidung(en).
+
+- [BGH, Urteil vom 12.05.2026 - KZR 6/24](kzr-6-24.md) — Sammelklage-Inkasso 1. Kartellschadensersatzansprüche können grundsätzlich im Wege der Sammelklage von einem Inkassodienstleister geltend gemacht werden (Fortfü
+- [BGH, Beschluss vom 24.02.2026 - EnVR 9/24](envr-9-24.md) — Nachsicht Zur Gewährung von Nachsicht bei Versäumung der Frist zur Beantragung einer Zahlungsberechtigung nach § 37d EEG 2017.
+- [BGH, Beschluss vom 27.01.2026 - EnZR 24/25](enzr-24-25.md) — BGH, Beschluss EnZR 24/25
+- [BGH, Urteil vom 27.01.2026 - EnZR 5/24](enzr-5-24.md) — Lieferantenausfall bei Mittelspannungskunden II 1. § 20 Abs. 1 Satz 1 EnWG verpflichtet den Netzbetreiber, das Energieversorgungsunternehmen, dessen Bilanzkreis
+- [BGH, Urteil vom 27.01.2026 - KZR 10/25](kzr-10-25.md) — FRAND-Einwand III 1a. Die fortdauernde Lizenzbereitschaft des Benutzers ist unabdingbare Voraussetzung einer erfolgreichen Lizenzverhandlung und damit auch für 
+- [BGH, Urteil vom 13.01.2026 - EnZR 22/24](enzr-22-24.md) — Gasnetz Salem 1. § 47 Abs. 5 EnWG ordnet ein Eilverfahren eigener Art an, nach dessen formell rechtskräftigem Abschluss sich der unterlegene Bewerber auf die do

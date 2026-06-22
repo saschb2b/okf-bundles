@@ -1,0 +1,49 @@
+# 6. Strafsenat – 2026
+
+45 Entscheidung(en).
+
+- [BGH, Beschluss vom 27.05.2026 - 6 StR 96/26](6-str-96-26.md) — BGH, Beschluss 6 StR 96/26
+- [BGH, Beschluss vom 30.04.2026 - 6 StR 26/26](6-str-26-26.md) — BGH, Beschluss 6 StR 26/26
+- [BGH, Beschluss vom 29.04.2026 - 6 StR 134/26](6-str-134-26.md) — BGH, Beschluss 6 StR 134/26
+- [BGH, Beschluss vom 29.04.2026 - 6 StR 514/25](6-str-514-25.md) — BGH, Beschluss 6 StR 514/25
+- [BGH, Beschluss vom 29.04.2026 - 6 StR 556/25](6-str-556-25.md) — BGH, Beschluss 6 StR 556/25
+- [BGH, Beschluss vom 28.04.2026 - 6 StR 579/25](6-str-579-25.md) — BGH, Beschluss 6 StR 579/25
+- [BGH, Beschluss vom 15.04.2026 - 6 StR 42/26](6-str-42-26.md) — BGH, Beschluss 6 StR 42/26
+- [BGH, Beschluss vom 14.04.2026 - 6 StR 18/26](6-str-18-26.md) — BGH, Beschluss 6 StR 18/26
+- [BGH, Beschluss vom 14.04.2026 - 6 StR 55/26](6-str-55-26.md) — BGH, Beschluss 6 StR 55/26
+- [BGH, Beschluss vom 14.04.2026 - 6 StR 90/26](6-str-90-26.md) — BGH, Beschluss 6 StR 90/26
+- [BGH, Beschluss vom 14.04.2026 - 6 StR 94/26](6-str-94-26.md) — BGH, Beschluss 6 StR 94/26
+- [BGH, Beschluss vom 02.04.2026 - 6 StR 7/26](6-str-7-26.md) — BGH, Beschluss 6 StR 7/26
+- [BGH, Beschluss vom 01.04.2026 - 6 StR 75/26](6-str-75-26.md) — BGH, Beschluss 6 StR 75/26
+- [BGH, Beschluss vom 19.03.2026 - 6 StR 443/25](6-str-443-25.md) — BGH, Beschluss 6 StR 443/25
+- [BGH, Beschluss vom 19.03.2026 - 6 StR 446/25](6-str-446-25.md) — BGH, Beschluss 6 StR 446/25
+- [BGH, Beschluss vom 19.03.2026 - 6 StR 503/25](6-str-503-25.md) — BGH, Beschluss 6 StR 503/25
+- [BGH, Beschluss vom 18.03.2026 - 6 StR 41/26](6-str-41-26.md) — BGH, Beschluss 6 StR 41/26
+- [BGH, Urteil vom 18.03.2026 - 6 StR 416/25](6-str-416-25.md) — BGH, Urteil 6 StR 416/25
+- [BGH, Beschluss vom 18.03.2026 - 6 StR 437/25](6-str-437-25.md) — BGH, Beschluss 6 StR 437/25
+- [BGH, Beschluss vom 18.03.2026 - 6 StR 542/25](6-str-542-25.md) — BGH, Beschluss 6 StR 542/25
+- [BGH, Beschluss vom 18.03.2026 - 6 StR 69/25](6-str-69-25.md) — BGH, Beschluss 6 StR 69/25
+- [BGH, Beschluss vom 18.03.2026 - 6 StR 78/26](6-str-78-26.md) — BGH, Beschluss 6 StR 78/26
+- [BGH, Beschluss vom 17.03.2026 - 6 StR 168/25](6-str-168-25.md) — BGH, Beschluss 6 StR 168/25
+- [BGH, Beschluss vom 17.03.2026 - 6 StR 610/25](6-str-610-25.md) — BGH, Beschluss 6 StR 610/25
+- [BGH, Beschluss vom 16.03.2026 - 6 StR 352/25](6-str-352-25.md) — Von der Hinzuziehung eines Sachverständigen nach § 246a Abs. 1 Satz 2 StPO kann das Gericht auch dann absehen, wenn der symptomatische Zusammenhang im Sinne des
+- [BGH, Urteil vom 04.03.2026 - 6 StR 448/25](6-str-448-25.md) — BGH, Urteil 6 StR 448/25
+- [BGH, Beschluss vom 03.03.2026 - 6 StR 45/26](6-str-45-26.md) — BGH, Beschluss 6 StR 45/26
+- [BGH, Beschluss vom 03.03.2026 - 6 StR 485/22](6-str-485-22.md) — BGH, Beschluss 6 StR 485/22
+- [BGH, Beschluss vom 03.03.2026 - 6 StR 615/25](6-str-615-25.md) — BGH, Beschluss 6 StR 615/25
+- [BGH, Beschluss vom 03.03.2026 - 6 StR 616/25](6-str-616-25.md) — BGH, Beschluss 6 StR 616/25
+- [BGH, Beschluss vom 18.02.2026 - 6 StR 605/25](6-str-605-25.md) — BGH, Beschluss 6 StR 605/25
+- [BGH, Beschluss vom 17.02.2026 - 6 StR 483/25](6-str-483-25.md) — BGH, Beschluss 6 StR 483/25
+- [BGH, Beschluss vom 17.02.2026 - 6 StR 494/25](6-str-494-25.md) — BGH, Beschluss 6 StR 494/25
+- [BGH, Urteil vom 04.02.2026 - 6 StR 380/25](6-str-380-25.md) — BGH, Urteil 6 StR 380/25
+- [BGH, Beschluss vom 04.02.2026 - 6 StR 530/25](6-str-530-25.md) — BGH, Beschluss 6 StR 530/25
+- [BGH, Beschluss vom 04.02.2026 - 6 StR 558/25](6-str-558-25.md) — BGH, Beschluss 6 StR 558/25
+- [BGH, Beschluss vom 03.02.2026 - 6 StR 400/25](6-str-400-25.md) — BGH, Beschluss 6 StR 400/25
+- [BGH, Beschluss vom 22.01.2026 - 6 StR 245/25](6-str-245-25.md) — Geltung von Doppelbestrafungsverbot bei ähnlichen Taten
+- [BGH, Beschluss vom 22.01.2026 - 6 StR 473/25](6-str-473-25.md) — BGH, Beschluss 6 StR 473/25
+- [BGH, Beschluss vom 21.01.2026 - 6 StR 468/25](6-str-468-25.md) — BGH, Beschluss 6 StR 468/25
+- [BGH, Beschluss vom 20.01.2026 - 6 StR 474/25](6-str-474-25.md) — BGH, Beschluss 6 StR 474/25
+- [BGH, Beschluss vom 08.01.2026 - 6 StR 493/25](6-str-493-25.md) — BGH, Beschluss 6 StR 493/25
+- [BGH, Beschluss vom 08.01.2026 - 6 StR 529/25](6-str-529-25.md) — BGH, Beschluss 6 StR 529/25
+- [BGH, Beschluss vom 08.01.2026 - 6 StR 564/25](6-str-564-25.md) — BGH, Beschluss 6 StR 564/25
+- [BGH, Beschluss vom 07.01.2026 - 6 StR 404/25](6-str-404-25.md) — BGH, Beschluss 6 StR 404/25

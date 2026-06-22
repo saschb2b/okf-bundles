@@ -1,0 +1,42 @@
+# X. Zivilsenat – 2000
+
+38 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2000 - X ZB 14/00](x-zb-14-00.md) — BGH, Beschluss vom 19.12.2000 - X ZB 14/00
+- [BGH, Urteil vom 19.12.2000 - X ZR 128/99](x-zr-128-99.md) — Verarmung des Schenkers nach § 528 Abs. 1 Satz 1 BGB unterliegt der regelmäßigen Verjährung von 30 Jahren auch dann, wenn er durch wiederkeh
+- [BGH, Urteil vom 19.12.2000 - X ZR 146/99](x-zr-146-99.md) — BGH, Urteil vom 19.12.2000 - X ZR 146/99
+- [BGH, Urteil vom 19.12.2000 - X ZR 150/98](x-zr-150-98.md) — Patentverletzung können verwirkt sein, wenn sich der Verletzer wegen der Duldung der Verletzungshandlungen durch den Patentinhaber über eine
+- [BGH, Beschluss vom 28.11.2000 - X ZB 20/99](x-zb-20-99.md) — BGH, Beschluss vom 28.11.2000 - X ZB 20/99
+- [BGH, Beschluss vom 06.11.2000 - X ZB 15/00](x-zb-15-00.md) — zu prüfen; mangelt es hieran, so ist die Rechtsbeschwerde als unzulässig zu verwerfen.
+- [BGH, Beschluss vom 24.10.2000 - X ZB 6/00](x-zb-6-00.md) — BGH, Beschluss vom 24.10.2000 - X ZB 6/00
+- [BGH, Urteil vom 24.10.2000 - X ZR 15/98](x-zr-15-98.md) — Nichterfüllung zu verlangen oder vom Vertrag zurückzutreten.
+- [BGH, Versäumnisurteil vom 24.10.2000 - X ZR 72/98](x-zr-72-98.md) — Tatbestand: Der Kläger war bis zum 31. Dezember 1992 bei der Beklagten beschäftigt. Zuletzt bekleidete er dort die Funktion eines Leiters de
+- [BGH, Beschluss vom 11.07.2000 - X ZB 9/99](x-zb-9-99.md) — BGH, Beschluss vom 11.07.2000 - X ZB 9/99
+- [BGH, Urteil vom 11.07.2000 - X ZR 126/98](x-zr-126-98.md) — Tatbestand: Der Kläger nimmt den Beklagten aus übergegangenem Recht auf Rückzahlung eines Betrags von 68.903,60 DM in Anspruch, den der Bekl
+- [BGH, Urteil vom 11.07.2000 - X ZR 78/98](x-zr-78-98.md) — Tatbestand:
+- [BGH, Urteil vom 11.07.2000 - X ZR 89/98](x-zr-89-98.md) — Tatbestand:
+- [BGH, Urteil vom 20.06.2000 - X ZR 119/98](x-zr-119-98.md) — Tatbestand:
+- [BGH, Urteil vom 20.06.2000 - X ZR 17/98](x-zr-17-98.md) — Tatbestand:
+- [BGH, Beschluss vom 31.05.2000 - X ZR 154/99](x-zr-154-99.md) — BGH, Beschluss vom 31.05.2000 - X ZR 154/99
+- [BGH, Urteil vom 03.05.2000 - X ZR 179/97](x-zr-179-97.md) — Tatbestand:
+- [BGH, Urteil vom 03.05.2000 - X ZR 5/99](x-zr-5-99.md) — Tatbestand:
+- [BGH, Urteil vom 11.04.2000 - X ZR 185/97](x-zr-185-97.md) — Tatbestand:
+- [BGH, Urteil vom 11.04.2000 - X ZR 19/98](x-zr-19-98.md) — BGH, Urteil vom 11.04.2000 - X ZR 19/98
+- [BGH, Urteil vom 11.04.2000 - X ZR 246/98](x-zr-246-98.md) — Tatbestand:
+- [BGH, Urteil vom 11.04.2000 - X ZR 32/98](x-zr-32-98.md) — Tatbestand: Die H. T. GmbH (im folgenden: das H.) stand mit der Beklagten in langjährigen Geschäftsbeziehungen, in deren Rahmen die Beklagte
+- [BGH, Urteil vom 23.03.2000 - X ZR 22/98](x-zr-22-98.md) — BGH, Urteil vom 23.03.2000 - X ZR 22/98
+- [BGH, Urteil vom 14.03.2000 - X ZR 115/98](x-zr-115-98.md) — BGH, Urteil vom 14.03.2000 - X ZR 115/98
+- [BGH, Urteil vom 14.03.2000 - X ZR 199/97](x-zr-199-97.md) — Tatbestand:
+- [BGH, Urteil vom 14.03.2000 - X ZR 31/98](x-zr-31-98.md) — Tatbestand:
+- [BGH, Beschluss vom 15.02.2000 - X ZB 13/95](x-zb-13-95.md) — BGH, Beschluss vom 15.02.2000 - X ZB 13/95
+- [BGH, Beschluss vom 15.02.2000 - X ZR 127/99](x-zr-127-99.md) — des Zahlungsanspruchs an die Vorinstanz zurückverweist.
+- [BGH, Urteil vom 15.02.2000 - X ZR 155/97](x-zr-155-97.md) — BGH, Urteil vom 15.02.2000 - X ZR 155/97
+- [BGH, Urteil vom 15.02.2000 - X ZR 53/98](x-zr-53-98.md) — Tatbestand: Die Beklagte ist Inhaberin des am 5. März 1986 angemeldeten deutschen Patents 36 07 268 (Streitpatents), das eine schubgesichert
+- [BGH, Beschluss vom 01.02.2000 - X ZB 27/98](x-zb-27-98.md) — BGH, Beschluss vom 01.02.2000 - X ZB 27/98
+- [BGH, Versäumnisurteil vom 01.02.2000 - X ZR 198/97](x-zr-198-97.md) — Tatbestand:
+- [BGH, Urteil vom 01.02.2000 - X ZR 213/98](x-zr-213-98.md) — Tatbestand:
+- [BGH, Versäumnisurteil vom 01.02.2000 - X ZR 222/98](x-zr-222-98.md) — Tatbestand:
+- [BGH, Beschluss vom 31.01.2000 - X ZB 28/98](x-zb-28-98.md) — BGH, Beschluss vom 31.01.2000 - X ZB 28/98
+- [BGH, Urteil vom 18.01.2000 - X ZR 102/97](x-zr-102-97.md) — BGH, Urteil vom 18.01.2000 - X ZR 102/97
+- [BGH, Urteil vom 11.01.2000 - X ZR 100/97](x-zr-100-97.md) — Tatbestand: Der Kläger verlangt von den Beklagten aufgrund eines notariellen Schenkungsvertrages die Übertragung des (Mit-)Eigentums an eine
+- [BGH, Urteil vom 11.01.2000 - X ZR 20/98](x-zr-20-98.md) — Tatbestand:

@@ -1,0 +1,93 @@
+# VII. Zivilsenat – 2025
+
+89 Entscheidung(en).
+
+- [BGH, Urteil vom 18.12.2025 - VII ZR 53/23](vii-zr-53-23.md) — 1. Erweist sich die von den Parteien in erster Linie gewollte Leistungsbestimmung durch einen Schiedsgutachter als nicht durchführbar, hat das Gericht in entspr
+- [BGH, Beschluss vom 17.12.2025 - VII ZR 46/25](vii-zr-46-25.md) — BGH, Beschluss VII ZR 46/25
+- [BGH, Beschluss vom 17.12.2025 - VII ZR 56/25](vii-zr-56-25.md) — Einstufung eines Vertrages über die Lieferung, Montage und Programmierung einer Sonnenschutzsteueranlage als Bauvertrag
+- [BGH, Urteil vom 11.12.2025 - VII ZR 124/24](vii-zr-124-24.md) — Zu den Voraussetzungen für den Erlass eines Grundurteils.
+- [BGH, Urteil vom 27.11.2025 - VII ZR 112/24](vii-zr-112-24.md) — Eine Vorteilsausgleichung wegen eines Abzugs neu für alt aufgrund der Beseitigung eines Mangels kommt auch dann nicht in Betracht, wenn der Mangel sich relativ 
+- [BGH, Beschluss vom 26.11.2025 - VII ZR 124/25](vii-zr-124-25.md) — BGH, Beschluss VII ZR 124/25
+- [BGH, Beschluss vom 26.11.2025 - VII ZR 134/24](vii-zr-134-24.md) — BGH, Beschluss VII ZR 134/24
+- [BGH, Beschluss vom 26.11.2025 - VII ZR 152/24](vii-zr-152-24.md) — BGH, Beschluss VII ZR 152/24
+- [BGH, Urteil vom 13.11.2025 - VII ZR 187/24](vii-zr-187-24.md) — 1. Ein Schaden aufgrund einer mangelbedingten Nutzungsbeeinträchtigung wird von § 634 Nr. 4, § 280 Abs. 1 BGB erfasst. Dies schließt Folgeschäden ein. 2. Dieser
+- [BGH, Beschluss vom 12.11.2025 - VII ZR 139/24](vii-zr-139-24.md) — BGH, Beschluss VII ZR 139/24
+- [BGH, Beschluss vom 12.11.2025 - VII ZR 160/24](vii-zr-160-24.md) — BGH, Beschluss VII ZR 160/24
+- [BGH, Beschluss vom 29.10.2025 - VII ZR 177/24](vii-zr-177-24.md) — BGH, Beschluss VII ZR 177/24
+- [BGH, Beschluss vom 29.10.2025 - VII ZR 202/24](vii-zr-202-24.md) — BGH, Beschluss VII ZR 202/24
+- [BGH, Beschluss vom 15.10.2025 - VII ZA 5/25](vii-za-5-25.md) — BGH, Beschluss VII ZA 5/25
+- [BGH, Beschluss vom 15.10.2025 - VII ZR 43/24](vii-zr-43-24.md) — BGH, Beschluss VII ZR 43/24
+- [BGH, Beschluss vom 01.10.2025 - VII ZB 24/25](vii-zb-24-25.md) — BGH, Beschluss VII ZB 24/25
+- [BGH, Beschluss vom 01.10.2025 - VII ZB 27/25](vii-zb-27-25.md) — BGH, Beschluss VII ZB 27/25
+- [BGH, Beschluss vom 01.10.2025 - VII ZR 110/25](vii-zr-110-25.md) — BGH, Beschluss VII ZR 110/25
+- [BGH, Beschluss vom 01.10.2025 - VII ZR 113/25](vii-zr-113-25.md) — BGH, Beschluss VII ZR 113/25
+- [BGH, Beschluss vom 01.10.2025 - VII ZR 138/24](vii-zr-138-24.md) — Zur Aufnahme eines durch Insolvenzeröffnung unterbrochenen Nichtzulassungsbeschwerdeverfahrens durch den Beschwerdeführer bei Verzögerung der Verfahrensaufnahme
+- [BGH, Beschluss vom 01.10.2025 - VII ZR 159/24](vii-zr-159-24.md) — BGH, Beschluss VII ZR 159/24
+- [BGH, Beschluss vom 01.10.2025 - VII ZR 66/24](vii-zr-66-24.md) — BGH, Beschluss VII ZR 66/24
+- [BGH, Beschluss vom 01.10.2025 - VII ZR 81/24](vii-zr-81-24.md) — BGH, Beschluss VII ZR 81/24
+- [BGH, Beschluss vom 20.08.2025 - VII ZB 15/25](vii-zb-15-25.md) — BGH, Beschluss VII ZB 15/25
+- [BGH, Beschluss vom 20.08.2025 - VII ZB 16/24](vii-zb-16-24.md) — 1. Ein elektronisches Dokument, das aus einem besonderen elektronischen Anwaltspostfach versandt wird und nicht mit einer qualifizierten elektronischen Signatur
+- [BGH, Beschluss vom 20.08.2025 - VII ZB 4/25](vii-zb-4-25.md) — 1. Ein Anspruch auf Stellung einer Bauhandwerkersicherung nach § 650f BGB wird gemäß § 887 ZPO vollstreckt. 2. Auch bei der Vollstreckung eines Titels über eine
+- [BGH, Beschluss vom 20.08.2025 - VII ZR 179/24](vii-zr-179-24.md) — BGH, Beschluss VII ZR 179/24
+- [BGH, Beschluss vom 20.08.2025 - VII ZR 38/24](vii-zr-38-24.md) — BGH, Beschluss VII ZR 38/24
+- [BGH, Beschluss vom 06.08.2025 - VII ZR 102/24](vii-zr-102-24.md) — BGH, Beschluss VII ZR 102/24
+- [BGH, Urteil vom 24.07.2025 - VII ZR 176/24](vii-zr-176-24.md) — 1. Der Anspruch des Versicherungsvertreters auf Auskunft nach § 87c Abs. 3 HGB über eine Information, die nicht im Buchauszug enthalten ist, besteht neben dem A
+- [BGH, Beschluss vom 23.07.2025 - VII ZB 26/23](vii-zb-26-23.md) — Eine Kostenentscheidung in einem selbständigen Beweisverfahren nach § 494a Abs. 2 Satz 1 ZPO verliert ihre Wirksamkeit, wenn eine abweichende Kostenentscheidung
+- [BGH, Beschluss vom 23.07.2025 - VII ZR 106/24](vii-zr-106-24.md) — BGH, Beschluss VII ZR 106/24
+- [BGH, Beschluss vom 23.07.2025 - VII ZR 188/23](vii-zr-188-23.md) — BGH, Beschluss VII ZR 188/23
+- [BGH, Beschluss vom 23.07.2025 - VII ZR 96/24](vii-zr-96-24.md) — BGH, Beschluss VII ZR 96/24
+- [BGH, Beschluss vom 09.07.2025 - VII ZA 3/25](vii-za-3-25.md) — BGH, Beschluss VII ZA 3/25
+- [BGH, Beschluss vom 09.07.2025 - VII ZR 114/23](vii-zr-114-23.md) — BGH, Beschluss VII ZR 114/23
+- [BGH, Beschluss vom 09.07.2025 - VII ZR 150/24](vii-zr-150-24.md) — BGH, Beschluss VII ZR 150/24
+- [BGH, Beschluss vom 09.07.2025 - VII ZR 209/22](vii-zr-209-22.md) — BGH, Beschluss VII ZR 209/22
+- [BGH, Beschluss vom 09.07.2025 - VII ZR 221/23](vii-zr-221-23.md) — BGH, Beschluss VII ZR 221/23
+- [BGH, Beschluss vom 09.07.2025 - VII ZR 227/23](vii-zr-227-23.md) — BGH, Beschluss VII ZR 227/23
+- [BGH, Beschluss vom 09.07.2025 - VII ZR 233/23](vii-zr-233-23.md) — BGH, Beschluss VII ZR 233/23
+- [BGH, Beschluss vom 09.07.2025 - VII ZR 59/24](vii-zr-59-24.md) — BGH, Beschluss VII ZR 59/24
+- [BGH, Beschluss vom 08.07.2025 - VII ZR 36/24](vii-zr-36-24.md) — BGH, Beschluss VII ZR 36/24
+- [BGH, Urteil vom 12.06.2025 - VII ZR 14/24](vii-zr-14-24.md) — Die Heilung inhaltlicher Mängel einer Streitverkündungsschrift nach § 73 Satz 1 ZPO durch "rügelose Einlassung" des auf Seiten des Streitverkünders beigetretene
+- [BGH, Beschluss vom 11.06.2025 - VII ZR 183/23](vii-zr-183-23.md) — BGH, Beschluss VII ZR 183/23
+- [BGH, Beschluss vom 11.06.2025 - VII ZR 24/24](vii-zr-24-24.md) — BGH, Beschluss VII ZR 24/24
+- [BGH, Urteil vom 22.05.2025 - VII ZR 129/24](vii-zr-129-24.md) — Tritt ein Besteller aufgrund eines ihm in einem Bauträgervertrag vertraglich eingeräumten Rücktrittsrechts wegen nicht termingerechter Fertigstellung eines abna
+- [BGH, Urteil vom 22.05.2025 - VII ZR 157/24](vii-zr-157-24.md) — Zur Haftung des Betreibers einer Waschstraße für die Beschädigung eines Fahrzeugs (hier verneint).
+- [BGH, Beschluss vom 21.05.2025 - VII ZR 130/23](vii-zr-130-23.md) — BGH, Beschluss VII ZR 130/23
+- [BGH, Beschluss vom 21.05.2025 - VII ZR 142/23](vii-zr-142-23.md) — BGH, Beschluss VII ZR 142/23
+- [BGH, Beschluss vom 21.05.2025 - VII ZR 177/23](vii-zr-177-23.md) — BGH, Beschluss VII ZR 177/23
+- [BGH, Urteil vom 08.05.2025 - VII ZR 86/24](vii-zr-86-24.md) — Zu den vertraglichen Schutzpflichten eines Bestellers zur Verhinderung von Unfällen beim notwendigen Zusammenwirken zweier von ihm beauftragter Unternehmer (hie
+- [BGH, Beschluss vom 07.05.2025 - VII ZR 110/24](vii-zr-110-24.md) — BGH, Beschluss VII ZR 110/24
+- [BGH, Beschluss vom 07.05.2025 - VII ZR 116/24](vii-zr-116-24.md) — BGH, Beschluss VII ZR 116/24
+- [BGH, Beschluss vom 07.05.2025 - VII ZR 144/24](vii-zr-144-24.md) — BGH, Beschluss VII ZR 144/24
+- [BGH, Beschluss vom 07.05.2025 - VII ZR 162/24](vii-zr-162-24.md) — BGH, Beschluss VII ZR 162/24
+- [BGH, Beschluss vom 07.05.2025 - VII ZR 190/24](vii-zr-190-24.md) — BGH, Beschluss VII ZR 190/24
+- [BGH, Beschluss vom 07.05.2025 - VII ZR 195/24](vii-zr-195-24.md) — BGH, Beschluss VII ZR 195/24
+- [BGH, Beschluss vom 16.04.2025 - VII ZR 107/23](vii-zr-107-23.md) — BGH, Beschluss VII ZR 107/23
+- [BGH, Beschluss vom 16.04.2025 - VII ZR 126/23](vii-zr-126-23.md) — In Fällen, in denen das mit der Berufung angefochtene Urteil durch einen Richter gefällt worden ist, der entgegen § 309 ZPO der dem Urteil zugrunde liegenden Ve
+- [BGH, Urteil vom 16.04.2025 - VII ZR 236/23](vii-zr-236-23.md) — 1. Nach Kündigung des Vertrags wegen Nichtleistung einer Bauhandwerkersicherung gemäß § 648a Abs. 5 Satz 1 BGB a.F. durch den Unternehmer kann dieser nach seine
+- [BGH, Beschluss vom 16.04.2025 - VII ZR 60/24](vii-zr-60-24.md) — BGH, Beschluss VII ZR 60/24
+- [BGH, Beschluss vom 16.04.2025 - VII ZR 99/23](vii-zr-99-23.md) — BGH, Beschluss VII ZR 99/23
+- [BGH, Beschluss vom 02.04.2025 - VII ZB 10/24](vii-zb-10-24.md) — Rechtsanwaltsvergütung: Gegenstandswertwert und Zinsbetrag im Klauselerinnerungsverfahren
+- [BGH, Beschluss vom 02.04.2025 - VII ZR 111/24](vii-zr-111-24.md) — BGH, Beschluss VII ZR 111/24
+- [BGH, Beschluss vom 02.04.2025 - VII ZR 137/24](vii-zr-137-24.md) — BGH, Beschluss VII ZR 137/24
+- [BGH, Beschluss vom 02.04.2025 - VII ZR 248/23](vii-zr-248-23.md) — Handelsvertretervertrag: Internationale Zuständigkeit für Ausgleichsanspruch eines deutschen Handelsvertreters gegen eine polnische Gesellschaft
+- [BGH, Beschluss vom 19.03.2025 - VII ZB 1/25](vii-zb-1-25.md) — BGH, Beschluss VII ZB 1/25
+- [BGH, Beschluss vom 19.03.2025 - VII ZB 19/24](vii-zb-19-24.md) — Verletzung des Anspruchs auf effektiven Rechtsschutz und auf Gewährung rechtlichen Gehörs durch Verwerfung der Berufung wegen Versäumung der Berufungsbegründung
+- [BGH, Beschluss vom 19.03.2025 - VII ZB 30/24](vii-zb-30-24.md) — 1. Eine Vorpfändung nach § 845 ZPO ist notwendig im Sinne von § 788 Abs. 1 Satz 1 ZPO, wenn aufgrund tatsächlicher Anhaltspunkte die Besorgnis besteht, dass dem
+- [BGH, Beschluss vom 19.03.2025 - VII ZR 122/24](vii-zr-122-24.md) — BGH, Beschluss VII ZR 122/24
+- [BGH, Beschluss vom 19.03.2025 - VII ZR 231/23](vii-zr-231-23.md) — Gehörsverletzung im Prozess zur Geltendmachung eines Mietausfallschadens und Avalkosten wegen Bauzeitüberschreitung eines Generalunternehmers: Verletzung des re
+- [BGH, Beschluss vom 19.03.2025 - VII ZR 30/24](vii-zr-30-24.md) — BGH, Beschluss VII ZR 30/24
+- [BGH, Beschluss vom 06.03.2025 - VII ZR 224/23](vii-zr-224-23.md) — Zurückweisung eines Beweismittels im Berufungsverfahren; Folgen einer rechtsfehlerhaften Präklusionsentscheidung auf die Gewährung rechtlichen Gehörs
+- [BGH, Urteil vom 20.02.2025 - VII ZR 133/24](vii-zr-133-24.md) — Zur Frage rechtsmissbräuchlicher Ausübung des Verbraucherwiderrufsrechts gemäß § 355 Abs. 1, § 312g Abs. 1 BGB (hier verneint).
+- [BGH, Beschluss vom 12.02.2025 - VII ZR 56/24](vii-zr-56-24.md) — BGH, Beschluss VII ZR 56/24
+- [BGH, Beschluss vom 29.01.2025 - VII ZR 201/23](vii-zr-201-23.md) — BGH, Beschluss VII ZR 201/23
+- [BGH, Beschluss vom 29.01.2025 - VII ZR 23/24](vii-zr-23-24.md) — BGH, Beschluss VII ZR 23/24
+- [BGH, Beschluss vom 29.01.2025 - VII ZR 35/24](vii-zr-35-24.md) — BGH, Beschluss VII ZR 35/24
+- [BGH, Beschluss vom 29.01.2025 - VII ZR 84/24](vii-zr-84-24.md) — BGH, Beschluss VII ZR 84/24
+- [BGH, Beschluss vom 15.01.2025 - VII ZR 13/24](vii-zr-13-24.md) — Die Beschwerde der Beklagten gegen die Nichtzulassung der Revision in dem Beschluss des 28. Zivilsenats des Oberlandesgerichts München vom 19. Dezember 2023 wir
+- [BGH, Beschluss vom 15.01.2025 - VII ZR 181/22](vii-zr-181-22.md) — BGH, Beschluss VII ZR 181/22
+- [BGH, Beschluss vom 15.01.2025 - VII ZR 40/24](vii-zr-40-24.md) — BGH, Beschluss VII ZR 40/24
+- [BGH, Beschluss vom 15.01.2025 - VII ZR 54/24](vii-zr-54-24.md) — BGH, Beschluss VII ZR 54/24
+- [BGH, Beschluss vom 15.01.2025 - VII ZR 70/23](vii-zr-70-23.md) — BGH, Beschluss VII ZR 70/23
+- [BGH, Beschluss vom 15.01.2025 - VII ZR 70/24](vii-zr-70-24.md) — BGH, Beschluss VII ZR 70/24
+- [BGH, Beschluss vom 15.01.2025 - VII ZR 9/23](vii-zr-9-23.md) — BGH, Beschluss VII ZR 9/23
+- [BGH, Beschluss vom 15.01.2025 - VII ZR 92/23](vii-zr-92-23.md) — BGH, Beschluss VII ZR 92/23
+- [BGH, Beschluss vom 07.01.2025 - VII ZB 30/23](vii-zb-30-23.md) — BGH, Beschluss VII ZB 30/23

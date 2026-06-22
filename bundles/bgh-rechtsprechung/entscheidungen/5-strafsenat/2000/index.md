@@ -1,0 +1,46 @@
+# 5. Strafsenat – 2000
+
+42 Entscheidung(en).
+
+- [BGH, Urteil vom 28.11.2000 - 5 StR 299/00](5-str-299-00.md) — räuberischer Erpressung u. a.
+- [BGH, Urteil vom 28.11.2000 - 5 StR 327/00](5-str-327-00.md) — Mordes u. a.
+- [BGH, Beschluss vom 28.11.2000 - 5 StR 371/00](5-str-371-00.md) — gewerbsmäßiger Steuerhehlerei
+- [BGH, Beschluss vom 28.11.2000 - 5 StR 443/00](5-str-443-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 28.11.2000 - 5 StR 453/00](5-str-453-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 28.11.2000 - 5 StR 511/00](5-str-511-00.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 23.10.2000 - 5 ARs 49/00](5-ars-49-00.md) — schweren sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 12.10.2000 - 5 StR 397/00](5-str-397-00.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 12.10.2000 - 5 StR 407/00](5-str-407-00.md) — vorsätzlichen Vollrausches
+- [BGH, Beschluss vom 12.10.2000 - 5 StR 414/99](5-str-414-99.md) — Untreue
+- [BGH, Beschluss vom 21.09.2000 - 5 StR 428/00](5-str-428-00.md) — Raubes mit Todesfolge u. a.
+- [BGH, Urteil vom 30.08.2000 - 5 StR 268/00](5-str-268-00.md) — Mordes
+- [BGH, Urteil vom 29.08.2000 - 5 StR 321/00](5-str-321-00.md) — gewerbsmäßiger Fälschung von Zahlungskarten u. a.
+- [BGH, Beschluss vom 29.08.2000 - 5 StR 364/00](5-str-364-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 29.08.2000 - 5 StR 373/00](5-str-373-00.md) — Rechtsbeugung u. a.
+- [BGH, Beschluss vom 16.08.2000 - 5 StR 286/00](5-str-286-00.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 16.08.2000 - 5 StR 292/00](5-str-292-00.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 16.08.2000 - 5 StR 74/00](5-str-74-00.md) — Aussageerpressung u. a.
+- [BGH, Beschluss vom 15.08.2000 - 5 StR 223/00](5-str-223-00.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Urteil vom 15.08.2000 - 5 StR 311/00](5-str-311-00.md) — Rechtsbeugung u. a.
+- [BGH, Urteil vom 20.06.2000 - 5 StR 25/00](5-str-25-00.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 03.04.2000 - 5 StR 17/00](5-str-17-00.md) — sexuellen Mißbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 03.04.2000 - 5 StR 87/00](5-str-87-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 09.02.2000 - 5 StR 451/99](5-str-451-99.md) — Beihilfe zur Körperverletzung
+- [BGH, Beschluss vom 09.02.2000 - 5 StR 612/99](5-str-612-99.md) — sexuellen Mißbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 09.02.2000 - 5 StR 645/99](5-str-645-99.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 09.02.2000 - 5 StR 650/99](5-str-650-99.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 08.02.2000 - 5 ARs 3/00](5-ars-3-00.md) — schweren Bandendiebstahls u. a.
+- [BGH, Urteil vom 08.02.2000 - 5 StR 310/99](5-str-310-99.md) — Totschlags
+- [BGH, Urteil vom 08.02.2000 - 5 StR 421/99](5-str-421-99.md) — Totschlags u. a.
+- [BGH, Urteil vom 08.02.2000 - 5 StR 461/99](5-str-461-99.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Urteil vom 08.02.2000 - 5 StR 543/99](5-str-543-99.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Urteil vom 27.01.2000 - 5 StR 597/99](5-str-597-99.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 27.01.2000 - 5 StR 646/99](5-str-646-99.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln u. a.
+- [BGH, Beschluss vom 13.01.2000 - 5 StR 604/99](5-str-604-99.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 12.01.2000 - 5 StR 587/99](5-str-587-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 12.01.2000 - 5 StR 617/99](5-str-617-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 11.01.2000 - 5 StR 444/99](5-str-444-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 11.01.2000 - 5 StR 526/99](5-str-526-99.md) — versuchten Totschlags
+- [BGH, Beschluss vom 11.01.2000 - 5 StR 651/99](5-str-651-99.md) — versuchter schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 10.01.2000 - 5 StR 638/99](5-str-638-99.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 10.01.2000 - 5 StR 640/99](5-str-640-99.md) — sexuellen Mißbrauchs von Kindern

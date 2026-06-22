@@ -1,0 +1,32 @@
+# Senat für Anwaltssachen – 2020
+
+28 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2020 - AnwZ (Brfg) 27/20](anwz-brfg-27-20.md) — Wiederzulassung zur Rechtsanwaltschaft: Notwendige Wohlverhaltenszeit nach Zulassungswiderruf wegen Vermögensverfalls und Strafverurteilung wegen Veruntreuung v
+- [BGH, Urteil vom 07.12.2020 - AnwZ (Brfg) 11/20](anwz-brfg-11-20.md) — Zulassung als Syndikusrechtsanwalt: Beratung in Rechtsangelegenheiten des Arbeitgebers
+- [BGH, Urteil vom 07.12.2020 - AnwZ (Brfg) 17/20](anwz-brfg-17-20.md) — Verwaltungsrechtliche Anwaltssache: Zulassung eines GmbH-Geschäftsführers als Syndikusrechtsanwalt
+- [BGH, Urteil vom 07.12.2020 - AnwZ (Brfg) 19/19](anwz-brfg-19-19.md) — Verwaltungsrechtliche Anwaltssache: Anfechtung der Wahl zum Vorstand einer Rechtsanwaltskammer wegen unzulässiger Wahlbeeinflussung
+- [BGH, Urteil vom 07.12.2020 - AnwZ (Brfg) 75/18](anwz-brfg-75-18.md) — Zulassung als Syndikusrechtsanwalt: Anwaltliche Tätigkeit eines bei einem Interessenverband angestellten Hauptgeschäftsführers
+- [BGH, Beschluss vom 23.11.2020 - AnwZ (Brfg) 32/20](anwz-brfg-32-20.md) — 1. Der Widerruf der Zulassung zur Rechtsanwaltschaft wegen Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO) verstößt nicht gegen das Grundrecht des Rechtsanwalts auf 
+- [BGH, Urteil vom 02.11.2020 - AnwZ (Brfg) 24/19](anwz-brfg-24-19.md) — Wird eine bei einem Haftpflichtversicherer angestellte Rechtsanwältin zur Unterstützung von Versicherungsnehmern des Haftpflichtversicherers bei der Abwehr unbe
+- [BGH, Beschluss vom 16.10.2020 - AnwZ (Brfg) 23/20](anwz-brfg-23-20.md) — Verleihung der Bezeichnung "Fachanwalt für Insolvenzrecht": Nachweis besonderer praktischer Erfahrungen durch Tätigkeiten als Schuldnervertreter vor Eröffnung e
+- [BGH, Beschluss vom 28.09.2020 - AnwZ (Brfg) 16/20](anwz-brfg-16-20.md) — Zulassung einer GmbH-Geschäftsführerin als Syndikusanwältin: Anwaltliche Prägung des Beschäftigungsverhältnisses
+- [BGH, Beschluss vom 10.09.2020 - AnwZ (Brfg) 21/20](anwz-brfg-21-20.md) — Widerruf der Rechtsanwaltszulassung: Übertragung der Widerrufsentscheidung auf ein Vorstandsmitglied der Rechtsanwaltskammer; Vermögensverfall bei Zwangsvollstr
+- [BGH, Beschluss vom 20.08.2020 - AnwZ (Brfg) 12/20](anwz-brfg-12-20.md) — Wiederzulassung zur Rechtsanwaltschaft: Zulassungsversagung bei schuldhaftem Verhalten durch Straftatenbegehung
+- [BGH, Urteil vom 04.08.2020 - AnwZ (Brfg) 4/20](anwz-brfg-4-20.md) — Anwaltgerichtliches Ermittlungsverfahren: Anspruch der Generalstaatsanwaltschaft auf Einsicht in die Personalakte eines Rechtsanwalts bei der Rechtsanwaltskamme
+- [BGH, Beschluss vom 29.07.2020 - AnwZ (Brfg) 7/20](anwz-brfg-7-20.md) — Versagung der Rechtsanwaltszulassung: Ausübung eines Zweitberufs als Immobilienmakler in Österreich
+- [BGH, Beschluss vom 22.07.2020 - AnwZ (Brfg) 3/20](anwz-brfg-3-20.md) — Anwaltliches Berufsrecht: Gemeinschaftliche Berufsausübung eines Hochschullehrers mit einer Rechtsanwaltssozietät
+- [BGH, Urteil vom 14.07.2020 - AnwZ (Brfg) 8/20](anwz-brfg-8-20.md) — Zulassung als Syndikusrechtsanwalt: Feststellung der Erstreckung der Zulassung bei später eintretender Änderung der Verhältnisse
+- [BGH, Urteil vom 22.06.2020 - AnwZ (Brfg) 23/19](anwz-brfg-23-19.md) — 1. Die Zulassung als Syndikusrechtsanwalt setzt voraus, dass die anwaltliche Tätigkeit in Rechtsangelegenheiten des Arbeitgebers das Arbeitsverhältnis des Antra
+- [BGH, Urteil vom 22.06.2020 - AnwZ (Brfg) 48/19](anwz-brfg-48-19.md) — Verleihungsvoraussetzungen für den Titel "Fachanwalt für Transport- und Speditionsrecht": Gütertransportrecht als Kernmaterie; ausreichender Fachbezug praktisch
+- [BGH, Urteil vom 22.06.2020 - AnwZ (Brfg) 81/18](anwz-brfg-81-18.md) — Zulassung als Syndikusrechtsanwalt: Zulassungsversagung wegen hoheitlicher Tätigkeit im öffentlichen Dienst
+- [BGH, Urteil vom 10.06.2020 - AnwZ (Brfg) 1/20](anwz-brfg-1-20.md) — Titelerwerb "Fachanwalt für Insolvenzrecht": Ersetzungsmöglichkeit in Fallliste
+- [BGH, Beschluss vom 28.05.2020 - AnwZ (Brfg) 10/20](anwz-brfg-10-20.md) — Verleihungsvoraussetzungen für eine Fachanwaltsbezeichnung: Verlängerung des Bearbeitungszeitraums für einschlägige Fälle für Fachanwaltsanwärter
+- [BGH, Beschluss vom 06.04.2020 - AnwZ (Brfg) 6/20](anwz-brfg-6-20.md) — Widerruf der Zulassung zur Rechtsanwaltschaft: Beweisanzeichen für einen Vermögensverfall bei hohen Steuerrückstande und Kontopfändung
+- [BGH, Urteil vom 30.03.2020 - AnwZ (Brfg) 49/19](anwz-brfg-49-19.md) — Im Fall eines Arbeitgeberwechsels ist der Erlass eines Erstreckungsbescheids gemäß § 46b Abs. 3 BRAO auch bei durchgehender Erfüllung der Zulassungsvoraussetzun
+- [BGH, Beschluss vom 09.03.2020 - AnwZ (B) 1/18](anwz-b-1-18.md) — Widerruf der Zulassung zur Rechtsanwaltschaft wegen fehlender Berufshaftpflichtversicherung als wettbewerbswidrige Handlung der Rechtsanwaltskammer
+- [BGH, Beschluss vom 06.02.2020 - AnwZ (Brfg) 64/19](anwz-brfg-64-19.md) — Vorträge im Rahmen von Verwaltungsschulungen keine anwaltliche Tätigkeit
+- [BGH, Urteil vom 03.02.2020 - AnwZ (Brfg) 36/18](anwz-brfg-36-18.md) — 1. Das Zulassungshindernis des § 7 Nr. 8 BRAO kann auch einer Zulassung als Syndikusrechtsanwalt entgegenstehen. 2. Eine Tätigkeit im öffentlichen Dienst ist zw
+- [BGH, Urteil vom 03.02.2020 - AnwZ (Brfg) 71/18](anwz-brfg-71-18.md) — Tätigkeit des Syndikusrechtsanwalts in Rechtsangelegenheiten des Arbeitgebers bei Drittberatungen
+- [BGH, Beschluss vom 09.01.2020 - AnwZ (Brfg) 11/19](anwz-brfg-11-19.md) — Zulassung als Syndikusrechtsanwalt: Erforderlicher Anteil anwaltlicher Tätigkeit für die anwaltliche Prägung des Arbeitsverhältnisses
+- [BGH, Beschluss vom 03.01.2020 - AnwZ (Brfg) 26/19](anwz-brfg-26-19.md) — Widerruf der Zulassung eines Anwalts zur Rechtsanwaltschaft wegen Vermögensverfalls

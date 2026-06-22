@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu DeckRV"
 description: "BGH-Entscheidungen zu DeckRV, geordnet nach Vorschrift."
 tags: [register, navigation, deckrv]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des DeckRV ausleg
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 14 DeckRV | [BGH, Beschluss vom 17.07.2019 - XII ZB 437/18](../entscheidungen/xii-zivilsenat/2019/xii-zb-437-18.md) |
+| § DeckRV | [BGH, Beschluss vom 17.07.2019 - XII ZB 437/18](../entscheidungen/xii-zivilsenat/2019/xii-zb-437-18.md) |

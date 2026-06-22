@@ -1,0 +1,97 @@
+# IX. Zivilsenat – 2008
+
+93 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2008 - IX ZB 114/08](ix-zb-114-08.md) — BGH, Beschluss vom 18.12.2008 - IX ZB 114/08
+- [BGH, Beschluss vom 18.12.2008 - IX ZB 253/08](ix-zb-253-08.md) — BGH, Beschluss vom 18.12.2008 - IX ZB 253/08
+- [BGH, Beschluss vom 18.12.2008 - IX ZB 273/08](ix-zb-273-08.md) — BGH, Beschluss vom 18.12.2008 - IX ZB 273/08
+- [BGH, Beschluss vom 16.12.2008 - IX ZA 46/08](ix-za-46-08.md) — BGH, Beschluss vom 16.12.2008 - IX ZA 46/08
+- [BGH, Beschluss vom 16.12.2008 - IX ZR 174/06](ix-zr-174-06.md) — BGH, Beschluss vom 16.12.2008 - IX ZR 174/06
+- [BGH, Beschluss vom 16.12.2008 - IX ZR 243/06](ix-zr-243-06.md) — BGH, Beschluss vom 16.12.2008 - IX ZR 243/06
+- [BGH, Beschluss vom 11.12.2008 - IX ZR 134/06](ix-zr-134-06.md) — BGH, Beschluss vom 11.12.2008 - IX ZR 134/06
+- [BGH, Urteil vom 11.12.2008 - IX ZR 195/07](ix-zr-195-07.md) — In einem Schneeballsystem ausgezahlte Scheingewinne sind unentgeltliche Leistungen und nach § 134 InsO anfechtbar, weil ihnen keine werthaltige Gegenleistung ge
+- [BGH, Beschluss vom 11.12.2008 - IX ZR 26/06](ix-zr-26-06.md) — BGH, Beschluss vom 11.12.2008 - IX ZR 26/06
+- [BGH, Beschluss vom 04.12.2008 - IX ZR 154/08](ix-zr-154-08.md) — BGH, Beschluss vom 04.12.2008 - IX ZR 154/08
+- [BGH, Beschluss vom 04.12.2008 - IX ZR 188/06](ix-zr-188-06.md) — BGH, Beschluss vom 04.12.2008 - IX ZR 188/06
+- [BGH, Beschluss vom 04.12.2008 - IX ZR 64/08](ix-zr-64-08.md) — BGH, Beschluss vom 04.12.2008 - IX ZR 64/08
+- [BGH, Beschluss vom 20.11.2008 - IX ZB 30/08](ix-zb-30-08.md) — BGH, Beschluss vom 20.11.2008 - IX ZB 30/08
+- [BGH, Beschluss vom 20.11.2008 - IX ZR 145/06](ix-zr-145-06.md) — BGH, Beschluss vom 20.11.2008 - IX ZR 145/06
+- [BGH, Versäumnisurteil vom 20.11.2008 - IX ZR 180/07](ix-zr-180-07.md) — Tatbestand:
+- [BGH, Beschluss vom 20.11.2008 - IX ZR 34/06](ix-zr-34-06.md) — BGH, Beschluss vom 20.11.2008 - IX ZR 34/06
+- [BGH, Beschluss vom 13.11.2008 - IX ZB 42/07](ix-zb-42-07.md) — BGH, Beschluss vom 13.11.2008 - IX ZB 42/07
+- [BGH, Beschluss vom 13.11.2008 - IX ZR 210/08](ix-zr-210-08.md) — BGH, Beschluss vom 13.11.2008 - IX ZR 210/08
+- [BGH, Beschluss vom 23.10.2008 - IX ZB 157/05](ix-zb-157-05.md) — BGH, Beschluss vom 23.10.2008 - IX ZB 157/05
+- [BGH, Beschluss vom 23.10.2008 - IX ZB 197/05](ix-zb-197-05.md) — BGH, Beschluss vom 23.10.2008 - IX ZB 197/05
+- [BGH, Urteil vom 23.10.2008 - IX ZR 202/07](ix-zr-202-07.md) — Tatbestand:
+- [BGH, Beschluss vom 23.10.2008 - IX ZR 211/06](ix-zr-211-06.md) — BGH, Beschluss vom 23.10.2008 - IX ZR 211/06
+- [BGH, Beschluss vom 16.10.2008 - IX ZR 147/07](ix-zr-147-07.md) — BGH, Beschluss vom 16.10.2008 - IX ZR 147/07
+- [BGH, Beschluss vom 16.10.2008 - IX ZR 207/06](ix-zr-207-06.md) — BGH, Beschluss vom 16.10.2008 - IX ZR 207/06
+- [BGH, Beschluss vom 09.10.2008 - IX ZB 16/08](ix-zb-16-08.md) — BGH, Beschluss vom 09.10.2008 - IX ZB 16/08
+- [BGH, Urteil vom 09.10.2008 - IX ZR 59/07](ix-zr-59-07.md) — Tatbestand:
+- [BGH, Beschluss vom 25.09.2008 - IX ZA 20/08](ix-za-20-08.md) — BGH, Beschluss vom 25.09.2008 - IX ZA 20/08
+- [BGH, Beschluss vom 25.09.2008 - IX ZA 25/08](ix-za-25-08.md) — BGH, Beschluss vom 25.09.2008 - IX ZA 25/08
+- [BGH, Beschluss vom 25.09.2008 - IX ZB 154/05](ix-zb-154-05.md) — BGH, Beschluss vom 25.09.2008 - IX ZB 154/05
+- [BGH, Beschluss vom 25.09.2008 - IX ZB 233/04](ix-zb-233-04.md) — BGH, Beschluss vom 25.09.2008 - IX ZB 233/04
+- [BGH, Beschluss vom 25.09.2008 - IX ZB 233/07](ix-zb-233-07.md) — BGH, Beschluss vom 25.09.2008 - IX ZB 233/07
+- [BGH, Beschluss vom 23.09.2008 - IX ZA 31/08](ix-za-31-08.md) — Verfristung unzulässig.
+- [BGH, Beschluss vom 18.09.2008 - IX ZA 12/07](ix-za-12-07.md) — BGH, Beschluss vom 18.09.2008 - IX ZA 12/07
+- [BGH, Beschluss vom 30.07.2008 - IX ZA 9/08](ix-za-9-08.md) — BGH, Beschluss vom 30.07.2008 - IX ZA 9/08
+- [BGH, Beschluss vom 22.07.2008 - IX ZB 209/07](ix-zb-209-07.md) — BGH, Beschluss vom 22.07.2008 - IX ZB 209/07
+- [BGH, Beschluss vom 17.07.2008 - IX ZB 183/07](ix-zb-183-07.md) — BGH, Beschluss vom 17.07.2008 - IX ZB 183/07
+- [BGH, Beschluss vom 17.07.2008 - IX ZB 225/07](ix-zb-225-07.md) — BGH, Beschluss vom 17.07.2008 - IX ZB 225/07
+- [BGH, Beschluss vom 17.07.2008 - IX ZR 123/07](ix-zr-123-07.md) — BGH, Beschluss vom 17.07.2008 - IX ZR 123/07
+- [BGH, Urteil vom 17.07.2008 - IX ZR 126/07](ix-zr-126-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2008 - IX ZR 148/07](ix-zr-148-07.md) — Tatbestand:
+- [BGH, Beschluss vom 17.07.2008 - IX ZR 174/05](ix-zr-174-05.md) — BGH, Beschluss vom 17.07.2008 - IX ZR 174/05
+- [BGH, Urteil vom 17.07.2008 - IX ZR 203/07](ix-zr-203-07.md) — Tatbestand:
+- [BGH, Urteil vom 17.07.2008 - IX ZR 245/06](ix-zr-245-06.md) — Tatbestand:
+- [BGH, Beschluss vom 10.07.2008 - IX ZB 10/07](ix-zb-10-07.md) — BGH, Beschluss vom 10.07.2008 - IX ZB 10/07
+- [BGH, Beschluss vom 10.07.2008 - IX ZB 42/08](ix-zb-42-08.md) — BGH, Beschluss vom 10.07.2008 - IX ZB 42/08
+- [BGH, Urteil vom 10.07.2008 - IX ZR 118/07](ix-zr-118-07.md) — BGH, Urteil vom 10.07.2008 - IX ZR 118/07
+- [BGH, Beschluss vom 10.07.2008 - IX ZR 152/07](ix-zr-152-07.md) — BGH, Beschluss vom 10.07.2008 - IX ZR 152/07
+- [BGH, Beschluss vom 03.07.2008 - IX ZB 167/07](ix-zb-167-07.md) — BGH, Beschluss vom 03.07.2008 - IX ZB 167/07
+- [BGH, Beschluss vom 03.07.2008 - IX ZB 181/07](ix-zb-181-07.md) — BGH, Beschluss vom 03.07.2008 - IX ZB 181/07
+- [BGH, Beschluss vom 03.07.2008 - IX ZB 182/07](ix-zb-182-07.md) — BGH, Beschluss vom 03.07.2008 - IX ZB 182/07
+- [BGH, Beschluss vom 03.07.2008 - IX ZB 65/07](ix-zb-65-07.md) — BGH, Beschluss vom 03.07.2008 - IX ZB 65/07
+- [BGH, Beschluss vom 02.07.2008 - IX ZB 194/07](ix-zb-194-07.md) — BGH, Beschluss vom 02.07.2008 - IX ZB 194/07
+- [BGH, Urteil vom 26.06.2008 - IX ZR 145/05](ix-zr-145-05.md) — Tatbestand:
+- [BGH, Urteil vom 12.06.2008 - IX ZR 100/07](ix-zr-100-07.md) — Tatbestand:
+- [BGH, Beschluss vom 12.06.2008 - IX ZR 110/05](ix-zr-110-05.md) — BGH, Beschluss vom 12.06.2008 - IX ZR 110/05
+- [BGH, Beschluss vom 05.06.2008 - IX ZA 7/08](ix-za-7-08.md) — BGH, Beschluss vom 05.06.2008 - IX ZA 7/08
+- [BGH, Beschluss vom 05.06.2008 - IX ZB 119/06](ix-zb-119-06.md) — BGH, Beschluss vom 05.06.2008 - IX ZB 119/06
+- [BGH, Beschluss vom 05.06.2008 - IX ZB 37/06](ix-zb-37-06.md) — unrichtiger oder unvollständiger Angaben über den "sonstigen Lebensunterhalt" in dem Vermögensverzeichnis des Schuldners.
+- [BGH, Beschluss vom 05.06.2008 - IX ZB 9/07](ix-zb-9-07.md) — BGH, Beschluss vom 05.06.2008 - IX ZB 9/07
+- [BGH, Beschluss vom 05.06.2008 - IX ZR 17/05](ix-zr-17-05.md) — der an-
+- [BGH, Urteil vom 05.06.2008 - IX ZR 17/07](ix-zr-17-07.md) — BGH, Urteil vom 05.06.2008 - IX ZR 17/07
+- [BGH, Beschluss vom 29.05.2008 - IX ZB 103/07](ix-zb-103-07.md) — BGH, Beschluss vom 29.05.2008 - IX ZB 103/07
+- [BGH, Beschluss vom 29.05.2008 - IX ZB 303/05](ix-zb-303-05.md) — BGH, Beschluss vom 29.05.2008 - IX ZB 303/05
+- [BGH, Beschluss vom 29.05.2008 - IX ZR 3/05](ix-zr-3-05.md) — BGH, Beschluss vom 29.05.2008 - IX ZR 3/05
+- [BGH, Urteil vom 29.05.2008 - IX ZR 45/07](ix-zr-45-07.md) — Tatbestand:
+- [BGH, Beschluss vom 08.05.2008 - IX ZB 54/07](ix-zb-54-07.md) — BGH, Beschluss vom 08.05.2008 - IX ZB 54/07
+- [BGH, Beschluss vom 08.05.2008 - IX ZR 116/07](ix-zr-116-07.md) — BGH, Beschluss vom 08.05.2008 - IX ZR 116/07
+- [BGH, Beschluss vom 08.05.2008 - IX ZR 120/07](ix-zr-120-07.md) — BGH, Beschluss vom 08.05.2008 - IX ZR 120/07
+- [BGH, Beschluss vom 24.04.2008 - IX ZB 115/06](ix-zb-115-06.md) — BGH, Beschluss vom 24.04.2008 - IX ZB 115/06
+- [BGH, Beschluss vom 27.03.2008 - IX ZA 24/07](ix-za-24-07.md) — Aussichtslosigkeit unterbleibt. Die
+- [BGH, Beschluss vom 27.03.2008 - IX ZB 178/07](ix-zb-178-07.md) — BGH, Beschluss vom 27.03.2008 - IX ZB 178/07
+- [BGH, Beschluss vom 27.03.2008 - IX ZR 33/05](ix-zr-33-05.md) — BGH, Beschluss vom 27.03.2008 - IX ZR 33/05
+- [BGH, Beschluss vom 27.03.2008 - IX ZR 8/05](ix-zr-8-05.md) — BGH, Beschluss vom 27.03.2008 - IX ZR 8/05
+- [BGH, Urteil vom 20.03.2008 - IX ZR 238/06](ix-zr-238-06.md) — Tatbestand:
+- [BGH, Beschluss vom 13.03.2008 - IX ZB 157/06](ix-zb-157-06.md) — BGH, Beschluss vom 13.03.2008 - IX ZB 157/06
+- [BGH, Urteil vom 13.03.2008 - IX ZR 117/07](ix-zr-117-07.md) — Tatbestand:
+- [BGH, Urteil vom 13.03.2008 - IX ZR 119/06](ix-zr-119-06.md) — Tatbestand:
+- [BGH, Beschluss vom 28.02.2008 - IX ZR 48/07](ix-zr-48-07.md) — BGH, Beschluss vom 28.02.2008 - IX ZR 48/07
+- [BGH, Beschluss vom 21.02.2008 - IX ZA 26/07](ix-za-26-07.md) — BGH, Beschluss vom 21.02.2008 - IX ZA 26/07
+- [BGH, Beschluss vom 21.02.2008 - IX ZB 112/07](ix-zb-112-07.md) — BGH, Beschluss vom 21.02.2008 - IX ZB 112/07
+- [BGH, Beschluss vom 21.02.2008 - IX ZB 62/05](ix-zb-62-05.md) — BGH, Beschluss vom 21.02.2008 - IX ZB 62/05
+- [BGH, Beschluss vom 21.02.2008 - IX ZR 82/07](ix-zr-82-07.md) — der ohnehin gegebenen Zah-
+- [BGH, Beschluss vom 07.02.2008 - IX ZA 18/06](ix-za-18-06.md) — BGH, Beschluss vom 07.02.2008 - IX ZA 18/06
+- [BGH, Urteil vom 07.02.2008 - IX ZR 149/04](ix-zr-149-04.md) — Tatbestand:
+- [BGH, Beschluss vom 24.01.2008 - IX ZB 120/07](ix-zb-120-07.md) — BGH, Beschluss vom 24.01.2008 - IX ZB 120/07
+- [BGH, Beschluss vom 24.01.2008 - IX ZB 66/07](ix-zb-66-07.md) — BGH, Beschluss vom 24.01.2008 - IX ZB 66/07
+- [BGH, Urteil vom 24.01.2008 - IX ZR 216/06](ix-zr-216-06.md) — Tatbestand:
+- [BGH, Beschluss vom 17.01.2008 - IX ZB 167/06](ix-zb-167-06.md) — BGH, Beschluss vom 17.01.2008 - IX ZB 167/06
+- [BGH, Beschluss vom 17.01.2008 - IX ZB 202/06](ix-zb-202-06.md) — BGH, Beschluss vom 17.01.2008 - IX ZB 202/06
+- [BGH, Beschluss vom 17.01.2008 - IX ZR 134/07](ix-zr-134-07.md) — BGH, Beschluss vom 17.01.2008 - IX ZR 134/07
+- [BGH, Urteil vom 17.01.2008 - IX ZR 220/06](ix-zr-220-06.md) — der Anmeldung von Tatsachen, aus denen sich nach Einschätzung des Gläubigers ergibt, dass der Forderung eine vorsätzlich begangene unerlaubt
+- [BGH, Beschluss vom 17.01.2008 - IX ZR 38/05](ix-zr-38-05.md) — BGH, Beschluss vom 17.01.2008 - IX ZR 38/05
+- [BGH, Urteil vom 10.01.2008 - IX ZR 94/06](ix-zr-94-06.md) — Tatbestand:

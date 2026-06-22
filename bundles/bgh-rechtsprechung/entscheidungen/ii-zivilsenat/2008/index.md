@@ -1,0 +1,42 @@
+# II. Zivilsenat – 2008
+
+38 Entscheidung(en).
+
+- [BGH, Beschluss vom 08.12.2008 - II ZB 11/08](ii-zb-11-08.md) — BGH, Beschluss vom 08.12.2008 - II ZB 11/08
+- [BGH, Beschluss vom 08.12.2008 - II ZR 263/07](ii-zr-263-07.md) — Verstoßes gegen § 34 Abs. 3 GmbHG jedenfalls dann nichtig, wenn infolge einer Unterbilanz bzw. einer darüber hinausgehenden bilanziellen Übe
+- [BGH, Beschluss vom 08.12.2008 - II ZR 39/08](ii-zr-39-08.md) — BGH, Beschluss vom 08.12.2008 - II ZR 39/08
+- [BGH, Beschluss vom 08.12.2008 - II ZR 44/08](ii-zr-44-08.md) — BGH, Beschluss vom 08.12.2008 - II ZR 44/08
+- [BGH, Beschluss vom 24.11.2008 - II ZB 4/08](ii-zb-4-08.md) — ausdrücklich
+- [BGH, Urteil vom 24.11.2008 - II ZR 116/08](ii-zr-116-08.md) — Verstoßes gegen die gesellschafterliche Treuepflicht unwirksam sein, was auf einer zweiten Stufe zu prüfen ist (vgl. Senat BGHZ 170, 283 Tz
+- [BGH, Beschluss vom 03.11.2008 - II ZR 236/07](ii-zr-236-07.md) — BGH, Beschluss vom 03.11.2008 - II ZR 236/07
+- [BGH, Urteil vom 27.10.2008 - II ZR 158/06](ii-zr-158-06.md) — BGH, Urteil vom 27.10.2008 - II ZR 158/06
+- [BGH, Beschluss vom 23.10.2008 - II ZR 211/08](ii-zr-211-08.md) — BGH, Beschluss vom 23.10.2008 - II ZR 211/08
+- [BGH, Beschluss vom 20.10.2008 - II ZR 207/07](ii-zr-207-07.md) — BGH, Beschluss vom 20.10.2008 - II ZR 207/07
+- [BGH, Beschluss vom 20.10.2008 - II ZR 211/07](ii-zr-211-07.md) — Insolvenzverschleppung gemäß §§ 823 Abs. 2
+- [BGH, Beschluss vom 20.10.2008 - II ZR 291/07](ii-zr-291-07.md) — BGH, Beschluss vom 20.10.2008 - II ZR 291/07
+- [BGH, Beschluss vom 13.10.2008 - II ZR 233/07](ii-zr-233-07.md) — BGH, Beschluss vom 13.10.2008 - II ZR 233/07
+- [BGH, Beschluss vom 01.10.2008 - II ZR 202/07](ii-zr-202-07.md) — offenbarer Unrichtigkeit dahingehend berichtigt, dass die Sache nicht an den 13., sondern an den 23. Zivilsenat des Berufungsgerichts zurück
+- [BGH, Beschluss vom 27.08.2008 - II ZR 26/07](ii-zr-26-07.md) — BGH, Beschluss vom 27.08.2008 - II ZR 26/07
+- [BGH, Beschluss vom 21.07.2008 - II ZR 1/07](ii-zr-1-07.md) — BGH, Beschluss vom 21.07.2008 - II ZR 1/07
+- [BGH, Urteil vom 14.07.2008 - II ZR 132/07](ii-zr-132-07.md) — Erlöschens der titulierten Forderung begründet war und der Herausgabeschuldner der Erledigung widerspricht.
+- [BGH, Beschluss vom 11.07.2008 - II ZR 125/07](ii-zr-125-07.md) — BGH, Beschluss vom 11.07.2008 - II ZR 125/07
+- [BGH, Beschluss vom 25.06.2008 - II ZR 96/07](ii-zr-96-07.md) — BGH, Beschluss vom 25.06.2008 - II ZR 96/07
+- [BGH, Beschluss vom 05.05.2008 - II ZR 292/06](ii-zr-292-06.md) — der wirtschaftlichen Entwicklung der Gesellschaft, des Vereins oder der Genossenschaft entweder weniger als den Wert seiner Einlage zurücker
+- [BGH, Beschluss vom 28.04.2008 - II ZA 11/07](ii-za-11-07.md) — BGH, Beschluss vom 28.04.2008 - II ZA 11/07
+- [BGH, Urteil vom 28.04.2008 - II ZR 264/06](ii-zr-264-06.md) — materieller Unterkapitalisierung im Wege höchstrichterlicher Rechtsfortbildung ist bereits mangels einer im derzeitigen gesetzlichen System
+- [BGH, Beschluss vom 23.04.2008 - II ZB 1/08](ii-zb-1-08.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 23.04.2008 - II ZB 28/07](ii-zb-28-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 10.04.2008 - II ZR 187/06](ii-zr-187-06.md) — BGH, Beschluss vom 10.04.2008 - II ZR 187/06
+- [BGH, Urteil vom 07.04.2008 - II ZR 181/04](ii-zr-181-04.md) — BGH, Urteil vom 07.04.2008 - II ZR 181/04
+- [BGH, Urteil vom 07.04.2008 - II ZR 3/06](ii-zr-3-06.md) — Tatbestand:
+- [BGH, Beschluss vom 12.03.2008 - II ZB 24/07](ii-zb-24-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 12.03.2008 - II ZB 30/07](ii-zb-30-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 12.03.2008 - II ZB 37/07](ii-zb-37-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 12.03.2008 - II ZB 38/07](ii-zb-38-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 12.03.2008 - II ZB 41/07](ii-zb-41-07.md) — fehlerhafter Ad-
+- [BGH, Beschluss vom 10.03.2008 - II ZR 135/07](ii-zr-135-07.md) — der nach den Feststellungen des Berufungsgerichts der Beklagten erst nachträglich bekannt gewordenen - aus dem Bericht der C. vom 28. April
+- [BGH, Beschluss vom 10.03.2008 - II ZR 180/07](ii-zr-180-07.md) — BGH, Beschluss vom 10.03.2008 - II ZR 180/07
+- [BGH, Beschluss vom 25.02.2008 - II ZB 9/07](ii-zb-9-07.md) — angeblich verspäte-
+- [BGH, Urteil vom 18.02.2008 - II ZR 132/06](ii-zr-132-06.md) — BGH, Urteil vom 18.02.2008 - II ZR 132/06
+- [BGH, Beschluss vom 11.02.2008 - II ZR 291/06](ii-zr-291-06.md) — BGH, Beschluss vom 11.02.2008 - II ZR 291/06
+- [BGH, Beschluss vom 17.01.2008 - II ZB 10/07](ii-zb-10-07.md) — BGH, Beschluss vom 17.01.2008 - II ZB 10/07

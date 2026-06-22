@@ -1,0 +1,102 @@
+# 5. Strafsenat – 2012
+
+98 Entscheidung(en).
+
+- [BGH, Beschluss vom 13.12.2012 - 5 StR 407/12](5-str-407-12.md) — Zu den Anforderungen an die Annahme einer faktischen Geschäftsführerstellung gegenüber einem abhängigen Unternehmen.
+- [BGH, Beschluss vom 13.12.2012 - 5 StR 542/12](5-str-542-12.md) — Leichtfertiger Subventionsbetrug: Unterlassen der Unterrichtung der Subventionsbehörde über subventionserhebliche Tatsachen
+- [BGH, Beschluss vom 12.12.2012 - 5 StR 380/12](5-str-380-12.md) — Untreue und Vorteilsannahme des Vorstands einer Stiftung: Innerer Zusammenhang zwischen Vermögensbetreuungspflicht und Handeln des Täters; konkludente Genehmigu
+- [BGH, Urteil vom 12.12.2012 - 5 StR 544/12](5-str-544-12.md) — Strafverfahren wegen schweren sexuellen Missbrauchs eines Kindes: Beweiswürdigung bei Abweichung des kindlichen Belastungszeugen von früheren Bekundungen
+- [BGH, Beschluss vom 12.12.2012 - 5 StR 574/12](5-str-574-12.md) — Gefährliche Körperverletzung: Industriemüll-Häcksler als gefährliches Werkzeug
+- [BGH, Beschluss vom 12.12.2012 - 5 StR 578/12](5-str-578-12.md) — Strafverfahren: Recht des Angeklagten auf Befragung von Belastungszeugen
+- [BGH, Beschluss vom 11.12.2012 - 5 StR 431/12](5-str-431-12.md) — Fortdauer der Sicherungsverwahrung bei zu erwartenden Raubtaten mit Scheinwaffe.
+- [BGH, Urteil vom 11.12.2012 - 5 StR 438/12](5-str-438-12.md) — Mord: Voraussetzungen der heimtückischen Begehungsweise
+- [BGH, Beschluss vom 29.11.2012 - 5 StR 522/12](5-str-522-12.md) — Strafzumessung bei Sexualdelikten: Begründungsanforderung bei Verhängung ungewöhnlich hoher Einzelstrafen; fehlerhafte Gesamtstrafenbildung bei Verhängung einer
+- [BGH, Urteil vom 28.11.2012 - 5 StR 328/12](5-str-328-12.md) — Untreue: Mitwirkung an einer Freistellungsvereinbarung
+- [BGH, Urteil vom 28.11.2012 - 5 StR 412/12](5-str-412-12.md) — Sachverhandlung durch Anordnung und Vollzug des Selbstleseverfahrens.
+- [BGH, Beschluss vom 28.11.2012 - 5 StR 416/12](5-str-416-12.md) — Besetzungseinwand im Revisionsverfahren in einer Strafsache: Formelle Anforderungen an die Besetzungsrüge; Mitwirkung bisher beteiligter Richter nach Zurückverw
+- [BGH, Beschluss vom 27.11.2012 - 5 StR 426/12](5-str-426-12.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Anforderungen an die Ablehnung eines Beweisantrages wegen Bedeutungslosigkeit
+- [BGH, Beschluss vom 27.11.2012 - 5 StR 492/12](5-str-492-12.md) — Absoluter Revisionsgrund: Mitwirkung der Berufsrichter bei vorherigem Ermittlungsverfahren wegen Falschaussage gegen den Angeklagten; Rüge der Vorbefassung
+- [BGH, Beschluss vom 07.11.2012 - 5 StR 517/12](5-str-517-12.md) — Strafurteil wegen besonders schweren Raubes: Anforderungen an die Urteilsgründe bei Feststellung der Täterschaft des Angeklagten aufgrund eines DNA-Gutachtens
+- [BGH, Beschluss vom 25.10.2012 - 5 StR 512/12](5-str-512-12.md) — Abgekürzte Gründe des Strafurteils wegen nicht rechtzeitig zu den Akten gelangter aber fristgemäß eingegangener Revisionsschrift: Voraussetzungen und Frist für 
+- [BGH, Beschluss vom 24.10.2012 - 5 StR 392/12](5-str-392-12.md) — Abgeschlossene Vortat als Voraussetzung einer Hehlerei
+- [BGH, Beschluss vom 24.10.2012 - 5 StR 393/12](5-str-393-12.md) — Beweiswürdigung im Strafverfahren: Anforderungen bei Schilderung eines alternativen Handlungsablaufs durch einen Mitangeklagten
+- [BGH, Beschluss vom 24.10.2012 - 5 StR 472/12](5-str-472-12.md) — Minder schwerer Fall des Totschlags: Vorrangige Prüfung der Provokationsalternative
+- [BGH, Beschluss vom 24.10.2012 - 5 StR 503/12](5-str-503-12.md) — Jugendstrafverfahren: Letztes Wort der Eltern nach Wiedereintritt in die Beweisaufnahme
+- [BGH, Beschluss vom 23.10.2012 - 5 StR 307/12](5-str-307-12.md) — Strafurteil wegen betrügerischer Darlehenserlangung: Notwendige Bezifferung des Vermögensschadens
+- [BGH, Beschluss vom 11.10.2012 - 5 StR 115/11](5-str-115-11.md) — (Vertragsarzt kein Amtsträger im Sinne von § 11 Abs. 1 Nr. 2 lit. c StGB)
+- [BGH, Urteil vom 10.10.2012 - 5 StR 316/12](5-str-316-12.md) — Aussage-gegen-Aussage-Konstellation im Strafverfahren wegen Sexualdelikten: Anforderungen an die Beweiswürdigung bei Abrücken des einzigen Belastungszeugen von 
+- [BGH, Beschluss vom 09.10.2012 - 5 StR 428/12](5-str-428-12.md) — Ablehnung von Beweisanträgen im Strafverfahren wegen Vergewaltigung: Eigene Sachkunde des Gerichts bei auffälligem Aussageverhalten einer Zeugin
+- [BGH, Beschluss vom 09.10.2012 - 5 StR 441/12](5-str-441-12.md) — Kostenpflicht des Verurteilten: Billigkeit der Kostenentscheidung bei erheblicher Diskrepanz zwischen Anklage und Urteil
+- [BGH, Beschluss vom 09.10.2012 - 5 StR 453/12](5-str-453-12.md) — Strafzumessung: Strafschärfende Berücksichtigung eines falschen Alibis
+- [BGH, Beschluss vom 25.09.2012 - 5 StR 372/12](5-str-372-12.md) — Freie Beweiswürdigung im Strafverfahren: Beweiswert des Wiedererkennens des Angeklagten durch einen Zeugen
+- [BGH, Beschluss vom 12.09.2012 - 5 StR 363/12](5-str-363-12.md) — Zu den Anforderungen an eine ausdrückliche Beauftragung im Sinne des § 14 Abs. 2 Nr. 2 StGB.
+- [BGH, Beschluss vom 12.09.2012 - 5 StR 401/12](5-str-401-12.md) — Benachrichtigung des Beschuldigten vom Termin zur richterlichen Vernehmung eines Zeugen
+- [BGH, Beschluss vom 12.09.2012 - 5 StR 425/12](5-str-425-12.md) — Strafzumessung: Strafschärfende Berücksichtigung von einer Einstellung betroffener Taten
+- [BGH, Beschluss vom 30.08.2012 - 5 StR 394/12](5-str-394-12.md) — Strafverfahren wegen Vergewaltigung: Beweiswürdigung bei Aussage gegen Aussage; Konkurrenzverhältnis bei mehrfach nacheinander mittels Gewaltanwendung begangene
+- [BGH, Beschluss vom 29.08.2012 - 5 StR 332/12](5-str-332-12.md) — Vergewaltigung: Bewertung als minder schwerer Fall
+- [BGH, Beschluss vom 28.08.2012 - 5 StR 251/12](5-str-251-12.md) — Unterbliebener Gerichtsbeschluss bei Widerspruch gegen die Anordnung des Selbstleseverfahrens und Beruhen.
+- [BGH, Urteil vom 28.08.2012 - 5 StR 295/12](5-str-295-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Bedeutung länger währender Straffreiheit des Angeklagten für die Gefährlichkeitsprognose
+- [BGH, Beschluss vom 16.08.2012 - 5 StR 238/12](5-str-238-12.md) — Revisionsurteil wegen Körperverletzung mit Todesfolge: Anforderungen an die tatrichterliche Beweiswürdigung zum Vorsatz bei Tod einer Patientin während einer Sc
+- [BGH, Beschluss vom 14.08.2012 - 5 StR 318/12](5-str-318-12.md) — Anwendung des Jugendstrafrechts auf Heranwachsende und Bemessung einer Jugendstrafe: Reifebeurteilung des Angeklagten; Feststellungen zu schädlichen Neigungen; 
+- [BGH, Beschluss vom 02.08.2012 - 5 StR 408/11](5-str-408-11.md) — Nachverfahren bei Vermögensbeschlagnahme: Berücksichtigung eines Justizverschuldens bei Anwendung der Beweislastregel
+- [BGH, Beschluss vom 31.07.2012 - 5 StR 135/12](5-str-135-12.md) — Strafaussetzung zur Bewährung im Revisionsverfahren: Berücksichtung besonderer Umstände im Rahmen der Gesamtwürdigung
+- [BGH, Beschluss vom 31.07.2012 - 5 StR 188/12](5-str-188-12.md) — Voraussetzungen der Strafverurteilung wegen Beihilfe zum gewerbsmäßigen Betrug
+- [BGH, Beschluss vom 31.07.2012 - 5 StR 315/12](5-str-315-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Voraussetzungen der bandenmäßigen Begehungsweise
+- [BGH, Beschluss vom 18.07.2012 - 5 StR 327/12](5-str-327-12.md) — Schwerer Raub: Schreckschusspistole als Waffe
+- [BGH, Beschluss vom 17.07.2012 - 5 StR 253/12](5-str-253-12.md) — Revision in Strafsachen: Verfahrensfehlerhafte Nichtgewährung des letzten Wortes nach Wiedereintritt des Erstgerichts in die Verhandlung
+- [BGH, Beschluss vom 17.07.2012 - 5 StR 268/12](5-str-268-12.md) — Versuchte schwere Brandstiftung: Definition des Inbrandsetzens; Anordnung der Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 05.07.2012 - 5 StR 1/12](5-str-1-12.md) — Betrugstatbestand: Vermögensschaden bei Erschleichen von Rabatten für Medikamente
+- [BGH, Beschluss vom 05.07.2012 - 5 StR 252/12](5-str-252-12.md) — Betäubungsmitteldelikt: Vertypte Milderungsgründe bei der Strafrahmenwahl
+- [BGH, Beschluss vom 05.07.2012 - 5 StR 380/11](5-str-380-11.md) — Strafbare Handlungen eines geschäftsführenden GmbH-Alleingesellschafters eines Reisebüros: Urkundenfälschung durch Erstellung einer Farbkopie; Untreue bei Überw
+- [BGH, Beschluss vom 04.07.2012 - 5 StR 219/12](5-str-219-12.md) — Meineid: Minder schwerer Fall bei Verstoß gegen Vereidigungsverbot
+- [BGH, Beschluss vom 03.07.2012 - 5 StR 313/12](5-str-313-12.md) — Unterbringung in einer Entziehungsanstalt: Prüfung der Erfolgsaussicht bei Therapieunwilligkeit des Täters
+- [BGH, Beschluss vom 21.06.2012 - 5 StR 286/12](5-str-286-12.md) — Diebstahl mit Waffen: Schraubendreher als gefährliches Werkzeug; Anforderungen an die tatrichterlichen Feststellungen
+- [BGH, Urteil vom 20.06.2012 - 5 StR 514/11](5-str-514-11.md) — Bedingter Tötungsvorsatz bei äußerst gefährlicher Gewalthandlung
+- [BGH, Urteil vom 20.06.2012 - 5 StR 536/11](5-str-536-11.md) — Vorhersehbarkeit der Todesfolge nach Brechmitteleinsatz (im Anschluss an BGH, 29. April 2010, 5 StR 18/10, BGHSt 55, 121).
+- [BGH, Beschluss vom 19.06.2012 - 5 StR 181/12](5-str-181-12.md) — Strafverfahren wegen sexuellen Mißbrauchs eines Kindes: Abweichung von dem Sachverständigengutachten zur Glaubwürdigkeit des Opfers
+- [BGH, Beschluss vom 19.06.2012 - 5 StR 264/12](5-str-264-12.md) — Strafzumessung bei Raubtaten: Begründungsanforderungen bei Verhängung einer außergewöhnlich hohen Strafe und bei Verneinung eines minder schweren Falls trotz Vo
+- [BGH, Beschluss vom 19.06.2012 - 5 StR 269/12](5-str-269-12.md) — Schwerer sexueller Missbrauch von Kindern: Doppelverwertungsverbot bei Verneinung eines minder schweren Falles
+- [BGH, Beschluss vom 06.06.2012 - 5 StR 233/12](5-str-233-12.md) — Besonders schwerer Raub: Bewertung einer geladenen Schreckschusspistole als Waffe
+- [BGH, Beschluss vom 24.05.2012 - 5 StR 52/12](5-str-52-12.md) — Sexueller Missbrauch einer widerstandsunfähigen Person: Anforderungen an die tatrichterliche Beweiswürdigung bei Anschluss des Tatrichters an die Beurteilung de
+- [BGH, Beschluss vom 23.05.2012 - 5 StR 12/12](5-str-12-12.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Anforderungen an eine Zusammenfassung mehrerer Einzelverkäufe zu einer einheitlichen 
+- [BGH, Beschluss vom 23.05.2012 - 5 StR 174/12](5-str-174-12.md) — Ablehnung von Beweisanträgen im Strafverfahren: Ablehnungsgrund der Bedeutungslosigkeit bei Vorwegnahme des Beweisergebnisses; eigene Sachkunde des Gerichts bei
+- [BGH, Beschluss vom 23.05.2012 - 5 StR 185/12](5-str-185-12.md) — Entziehung der Fahrerlaubnis bei Drogenbeschaffungsfahrt: Urteilsfeststellungen zum Zusammenhang zwischen Anlasstat und Verkehrssicherheit; Beeinträchtigung der
+- [BGH, Urteil vom 23.05.2012 - 5 StR 54/12](5-str-54-12.md) — Versuchtes Tötungsdelikt: Voraussetzungen des strafbefreienden Rücktritts bei mehreren Opfern
+- [BGH, Beschluss vom 22.05.2012 - 5 StR 15/12](5-str-15-12.md) — Fehler in der Beweiswürdigung: Inanspruchnahme eigener Sachkunde ohne Auseinandersetzung mit aussagepsychologischem Sachverständigengutachten
+- [BGH, Beschluss vom 22.05.2012 - 5 StR 229/12](5-str-229-12.md) — Strafverfahren: Feststellung des Verlustes der Urteilsurkunde nach Ablauf der Frist für die Beibringung der Urteilsniederschrift
+- [BGH, Beschluss vom 09.05.2012 - 5 StR 41/12](5-str-41-12.md) — Beweiswürdigung im Strafverfahren: Glaubhaftigkeit der Angaben eines erfolgsabhängig entlohnten Vertrauensmannes der Polizei über ein gescheiteres Drogengeschäf
+- [BGH, Beschluss vom 09.05.2012 - 5 StR 499/11](5-str-499-11.md) — Betrug: Gewerbsmäßiges Handeln bei Zufluss des ertrogenen Geldes an eine Kapitalgesellschaft; Mitwirkung beim Vertrieb einer Kapitalanlagegesellschaft als Betru
+- [BGH, Beschluss vom 09.05.2012 - 5 StR 523/11](5-str-523-11.md) — Das Revisionsgericht bindende Nebenklagezulassung gemäß § 396 Abs. 2 Satz 2 i.V.m. § 395 Abs. 3 StPO.
+- [BGH, Urteil vom 08.05.2012 - 5 StR 528/11](5-str-528-11.md) — Rücktritt vom Versuch eines Tötungsdelikts: Vorliegen eines unbeendeten oder beendeten Versuchs bei Korrektur des Rücktrittshorizonts
+- [BGH, Beschluss vom 08.05.2012 - 5 StR 88/12](5-str-88-12.md) — Raub: Tatvollendung trotz Vorspiegelung der Erfolglosigkeit der Tat durch den Mittäter
+- [BGH, Beschluss vom 07.05.2012 - 5 StR 210/12](5-str-210-12.md) — Inbegriffsrüge im Strafverfahren: Stützung des Schuldspruchs auf die Angaben eines nicht vernommenen Zeugen
+- [BGH, Beschluss vom 25.04.2012 - 5 StR 444/11](5-str-444-11.md) — Überprüfung des Verdachts einer wahrheitswidrigen Beweisbehauptung im Revisionsverfahren durch freibeweisliche Einholung des in der Tatsacheninstanz beantragten
+- [BGH, Beschluss vom 25.04.2012 - 5 StR 451/11](5-str-451-11.md) — In dem Verfahren nach Art. 316e Abs. 3 Satz 1 EGStGB ist die nach § 66 StGB in der Fassung vom 27. Dezember 2003 angeordnete Sicherungsverwahrung nur dann für e
+- [BGH, Beschluss vom 24.04.2012 - 5 StR 150/12](5-str-150-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldfähigkeit trotz Schizophrenie
+- [BGH, Beschluss vom 24.04.2012 - 5 StR 95/12](5-str-95-12.md) — Versuchter Heimtückemord: Anforderungen an das bewusste Ausnutzen der Arg- und Wehrlosigkeit des Opfers; Berücksichtigung der Spontanität des Tatentschlusses
+- [BGH, Beschluss vom 13.04.2012 - 5 StR 442/11](5-str-442-11.md) — Schadensberechnung bei täuschungsbedingt gewährtem Darlehen.
+- [BGH, Beschluss vom 12.04.2012 - 5 StR 87/12](5-str-87-12.md) — Unterbringung in einer Entziehungsanstalt: Hang zum übermäßigen Genuss berauschender Mittel
+- [BGH, Beschluss vom 28.03.2012 - 5 StR 49/12](5-str-49-12.md) — Strafzumessung: Verstoß gegen den Grundsatz der Spezialität
+- [BGH, Urteil vom 28.03.2012 - 5 StR 525/11](5-str-525-11.md) — Sicherungsverwahrung im Übergangsfall: Unerlässlichkeit der Anordnung zum Schutz der Allgemeinheit vor schweren Sexual- und Gewaltstraftaten
+- [BGH, Beschluss vom 28.03.2012 - 5 StR 78/12](5-str-78-12.md) — Betrug: Feststellungen zum Irrtum des Lieferanten bei weiteren Warenlieferungen trotz offen stehender Rechnungen
+- [BGH, Beschluss vom 27.03.2012 - 5 StR 103/12](5-str-103-12.md) — Gefährliche Körperverletzung: Vorliegen eines minder schweren Falls bei Provokation durch das Opfer
+- [BGH, Beschluss vom 15.03.2012 - 5 StR 288/11](5-str-288-11.md) — Sieht die Staatsanwaltschaft nach der Erfüllung von Auflagen von der Verfolgung eines Vergehens des Vorenthaltens und der Veruntreuung von Beiträgen (§ 266a StG
+- [BGH, Urteil vom 15.03.2012 - 5 StR 559/11](5-str-559-11.md) — (Betäubungsmitteldelikt: Übernahme und Transport von Cannabissetzlingen)
+- [BGH, Beschluss vom 14.03.2012 - 5 StR 28/12](5-str-28-12.md) — Strafverfahren wegen besonders schwerer Vergewaltigung: Tatrichterliche Beweiswürdigung der Angaben der einzigen Belastungszeugin bei möglicherweise vorliegende
+- [BGH, Beschluss vom 14.03.2012 - 5 StR 63/12](5-str-63-12.md) — Revision im Strafverfahren wegen Vergewaltigung: Anforderungen an tatrichterliche Beweiswürdigung des Aussageverhaltens der einzigen Belastungszeugin
+- [BGH, Beschluss vom 14.03.2012 - 5 StR 8/12](5-str-8-12.md) — Revision im Strafverfahren: Überprüfung lückenhafter und widersprüchlicher tatrichterlicher Beweiswürdigung
+- [BGH, Urteil vom 13.03.2012 - 5 StR 411/11](5-str-411-11.md) — Strafzumessung: Verhängung einer Geldstrafe neben einer zur Bewährung ausgesetzten Freiheitsstrafe; Berücksichtigung der Haftauswirkungen bei der Kompensationse
+- [BGH, Beschluss vom 01.03.2012 - 5 StR 21/12](5-str-21-12.md) — Strafzumessung: Anforderungen an eine Wiedergutmachungsvereinbarung
+- [BGH, Beschluss vom 28.02.2012 - 5 StR 24/12](5-str-24-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Weisung hinsichtlich besonderer Bemühungen um soziale Stabilisierung eines erheblich vermindert schuldfähige
+- [BGH, Beschluss vom 08.02.2012 - 5 StR 486/11](5-str-486-11.md) — Straftaten in verschiedenen Altersstufen: Maß des Härteausgleichs bei Verurteilung nach Erwachsenstrafrecht und Vorverurteilung nach Jugendstrafrecht bei nachte
+- [BGH, EuGH-Vorlage vom 08.02.2012 - 5 StR 567/11](5-str-567-11.md) — Eilantrag nach Vorabentscheidungsersuchen an den Europäischen Gerichtshof: Dringlichkeit einer Vorabentscheidung im Fall eines Freiheitsentzugs durch Untersuchu
+- [BGH, Beschluss vom 07.02.2012 - 5 StR 3/12](5-str-3-12.md) — Strafverfahren wegen vielfachen sexuellen Missbrauchs von Kindern: Erschöpfende Beweiswürdigung bei Verwertung von belastenden Aussagen des Geschädigten
+- [BGH, Beschluss vom 07.02.2012 - 5 StR 432/11](5-str-432-11.md) — Revision in Strafsachen: Inhaltliche Anforderungen an die Befangenheitsrüge nach Ablehnung eines Beweisantrags wegen Verschleppungsabsicht
+- [BGH, Beschluss vom 07.02.2012 - 5 StR 545/11](5-str-545-11.md) — Verminderte Schuldfähigkeit bei versuchtem Totschlag: Blutalkoholkonzentration von über 2,2 ‰; Beweiswert eines auf Trinkmengenangaben errechneten Blutalkoholwe
+- [BGH, Beschluss vom 26.01.2012 - 5 StR 461/11](5-str-461-11.md) — (Geldwäsche: Aufbewahrung betrügerisch erlangter Güter in der Wohnung des Täters als "Verwahren" der Güter durch den Mitbewohner)
+- [BGH, Beschluss vom 25.01.2012 - 5 StR 482/11](5-str-482-11.md) — Strafverfahren: Beschränkung der Revision auf den Rechtsfolgenausspruch bei notwendiger Schuldfähigkeitsprüfung für den Angeklagten; Geeignetheit des Falles für
+- [BGH, Urteil vom 24.01.2012 - 5 StR 433/11](5-str-433-11.md) — Strafverfahren wegen Vergewaltigung: Aussage-gegen-Aussage-Situation und Bewertung des Falschbelastungsmotivs "Rache"
+- [BGH, Beschluss vom 11.01.2012 - 5 StR 445/11](5-str-445-11.md) — Betäubungsmittelhandel: Bildung einer Bewertungseinheit bei Einzelverkäufen aus mehreren Erwerbsvorgängen und Schätzung der Ein- und Verkaufszahlen
+- [BGH, EuGH-Vorlage vom 10.01.2012 - 5 StR 351/11](5-str-351-11.md) — Vorabentscheidungsersuchen an den EuGH: Strafbarkeit wegen Einschleusens von Ausländern im Falle eines durch arglistige Täuschung der zuständigen Behörde erlang
+- [BGH, Beschluss vom 10.01.2012 - 5 StR 508/11](5-str-508-11.md) — Strafverfahren: Zulässigkeit der Rüge des Fairnessverstoßes wegen späten rechtlichen Hinweises
+- [BGH, Beschluss vom 10.01.2012 - 5 StR 517/11](5-str-517-11.md) — Verminderte Schuldfähigkeit: Verminderung des Steuerungs- und Hemmungsvermögens bei erheblicher Blutalkoholkonzentration eines alkoholgewöhnten Täters

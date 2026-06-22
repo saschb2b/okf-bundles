@@ -1,0 +1,42 @@
+# V. Zivilsenat – 2000
+
+38 Entscheidung(en).
+
+- [BGH, Beschluss vom 14.12.2000 - V ZB 51/00](v-zb-51-00.md) — ihrer vorangegangenen Spruchtätigkeit nicht genehm sind, von der Ent-
+- [BGH, Beschluss vom 16.11.2000 - V ZB 48/00](v-zb-48-00.md) — BGH, Beschluss vom 16.11.2000 - V ZB 48/00
+- [BGH, Urteil vom 03.11.2000 - V ZR 189/99](v-zr-189-99.md) — BGH, Urteil vom 03.11.2000 - V ZR 189/99
+- [BGH, Urteil vom 03.11.2000 - V ZR 306/99](v-zr-306-99.md) — des Ausstehens der Genehmigung der Rechtsaufsichtsbehörde nach § 49 KomVerf schwebend unwirksame Grundstücksgeschäfte der Gemeinde wurden mi
+- [BGH, Urteil vom 20.10.2000 - V ZR 207/99](v-zr-207-99.md) — Tatbestand:
+- [BGH, Urteil vom 20.10.2000 - V ZR 285/99](v-zr-285-99.md) — BGH, Urteil vom 20.10.2000 - V ZR 285/99
+- [BGH, Beschluss vom 28.09.2000 - V ZB 35/00](v-zb-35-00.md) — BGH, Beschluss vom 28.09.2000 - V ZB 35/00
+- [BGH, Urteil vom 14.07.2000 - V ZR 320/98](v-zr-320-98.md) — BGH, Urteil vom 14.07.2000 - V ZR 320/98
+- [BGH, Urteil vom 14.07.2000 - V ZR 328/99](v-zr-328-99.md) — Tatbestand:
+- [BGH, Urteil vom 14.07.2000 - V ZR 368/98](v-zr-368-98.md) — der Überlassung der Lagerhalle in Höhe von 64.440 DM zuzüglich der verlangten Zinsen zum Nachteil der Klägerin erkannt worden ist.
+- [BGH, Urteil vom 14.07.2000 - V ZR 384/98](v-zr-384-98.md) — Tatbestand:
+- [BGH, Urteil vom 14.07.2000 - V ZR 82/99](v-zr-82-99.md) — aufgewendeter Kreditzinsen) erklärte Aufrechnung mit einem Saldoposten erst beachtlich, wenn der Saldo feststeht; dies gilt auch dann, wenn
+- [BGH, Versäumnisurteil vom 30.06.2000 - V ZR 116/99](v-zr-116-99.md) — Tatbestand:
+- [BGH, Urteil vom 30.06.2000 - V ZR 149/99](v-zr-149-99.md) — Tatbestand:
+- [BGH, Urteil vom 30.06.2000 - V ZR 156/99](v-zr-156-99.md) — Tatbestand:
+- [BGH, Urteil vom 30.06.2000 - V ZR 193/99](v-zr-193-99.md) — Tatbestand:
+- [BGH, Beschluss vom 21.06.2000 - V ZB 32/99](v-zb-32-99.md) — BGH, Beschluss vom 21.06.2000 - V ZB 32/99
+- [BGH, Beschluss vom 31.05.2000 - V ZB 57/99](v-zb-57-99.md) — BGH, Beschluss vom 31.05.2000 - V ZB 57/99
+- [BGH, Versäumnisurteil vom 19.05.2000 - V ZR 20/99](v-zr-20-99.md) — Tatbestand:
+- [BGH, Urteil vom 19.05.2000 - V ZR 453/99](v-zr-453-99.md) — BGH, Urteil vom 19.05.2000 - V ZR 453/99
+- [BGH, Urteil vom 19.05.2000 - V ZR 74/99](v-zr-74-99.md) — Tatbestand:
+- [BGH, Urteil vom 07.04.2000 - V ZR 83/99](v-zr-83-99.md) — Tatbestand:
+- [BGH, Beschluss vom 06.04.2000 - V ZB 56/99](v-zb-56-99.md) — BGH, Beschluss vom 06.04.2000 - V ZB 56/99
+- [BGH, Beschluss vom 17.02.2000 - V ZB 4/00](v-zb-4-00.md) — BGH, Beschluss vom 17.02.2000 - V ZB 4/00
+- [BGH, Urteil vom 11.02.2000 - V ZR 271/99](v-zr-271-99.md) — BGH, Urteil vom 11.02.2000 - V ZR 271/99
+- [BGH, Urteil vom 11.02.2000 - V ZR 61/99](v-zr-61-99.md) — Tatbestand:
+- [BGH, Beschluss vom 10.02.2000 - V ZB 5/00](v-zb-5-00.md) — BGH, Beschluss vom 10.02.2000 - V ZB 5/00
+- [BGH, Urteil vom 04.02.2000 - V ZR 146/98](v-zr-146-98.md) — Tatbestand:
+- [BGH, Urteil vom 04.02.2000 - V ZR 166/99](v-zr-166-99.md) — Tatbestand:
+- [BGH, Urteil vom 04.02.2000 - V ZR 260/98](v-zr-260-98.md) — Tatbestand:
+- [BGH, Beschluss vom 03.02.2000 - V ZR 386/99](v-zr-386-99.md) — BGH, Beschluss vom 03.02.2000 - V ZR 386/99
+- [BGH, Urteil vom 28.01.2000 - V ZR 252/98](v-zr-252-98.md) — Tatbestand:
+- [BGH, Urteil vom 28.01.2000 - V ZR 402/98](v-zr-402-98.md) — Tatbestand:
+- [BGH, Urteil vom 14.01.2000 - V ZR 269/98](v-zr-269-98.md) — Nichterfüllung" eines notariellen Kaufvertrages wird nicht der Anspruch des Schuldners gegen den Drittschuldner auf Zahlung des Kaufpreises
+- [BGH, Urteil vom 14.01.2000 - V ZR 386/98](v-zr-386-98.md) — Tatbestand:
+- [BGH, Urteil vom 14.01.2000 - V ZR 416/97](v-zr-416-97.md) — Tatbestand:
+- [BGH, Urteil vom 14.01.2000 - V ZR 439/98](v-zr-439-98.md) — Tatbestand:
+- [BGH, Urteil vom 14.01.2000 - V ZR 473/98](v-zr-473-98.md) — Tatbestand:

@@ -1,11 +1,8 @@
-# patanwst
+# PATANWST
 
-2 Entscheidung(en).
+Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 2 Entscheidung(en).
 
-## 2018
+## Nach Jahr
 
-- [BGH, Beschluss vom 16.05.2018 - PatAnwSt (R) 1/18](2018/patanwst-r-1-18.md)
-
-## 2014
-
-- [BGH, Beschluss vom 20.01.2014 - PatAnwSt (R) 1/13](2014/patanwst-r-1-13.md)
+- [2018](2018/index.md) (1)
+- [2014](2014/index.md) (1)

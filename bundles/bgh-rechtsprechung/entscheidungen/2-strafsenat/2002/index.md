@@ -1,0 +1,60 @@
+# 2. Strafsenat – 2002
+
+56 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2002 - 2 StR 381/02](2-str-381-02.md) — Untreue u.a.
+- [BGH, Beschluss vom 18.12.2002 - 2 StR 457/02](2-str-457-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 18.12.2002 - 2 StR 477/02](2-str-477-02.md) — Totschlags u.a.
+- [BGH, Beschluss vom 11.12.2002 - 2 ARs 372/02](2-ars-372-02.md) — Beleidigung
+- [BGH, Beschluss vom 11.12.2002 - 2 ARs 373/02](2-ars-373-02.md) — Verdachts des Betruges u.a. Az.: 3 Gs 2083/02 Amtsgericht Az.: 9 UJs 53292/02 Staatsanwaltschaft
+- [BGH, Entscheidung vom 11.12.2002 - 2 StR 400/02](2-str-400-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 11.12.2002 - 2 StR 455/02](2-str-455-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 04.12.2002 - 2 ARs 302/02](2-ars-302-02.md) — Totschlags Az.: 14 Js 27/00 11 Ks Landgericht Darmstadt
+- [BGH, Beschluss vom 04.12.2002 - 2 StR 410/02](2-str-410-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 27.11.2002 - 2 ARs 239/02](2-ars-239-02.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge Verteidiger: Rechtsanwalt
+- [BGH, Beschluss vom 27.11.2002 - 2 ARs 347/02](2-ars-347-02.md) — Totschlags Az.: 14 Js 27/00, 11 Ks Landgericht Darmstadt
+- [BGH, Beschluss vom 20.11.2002 - 2 StR 396/02](2-str-396-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 15.10.2002 - 2 StR 349/02](2-str-349-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 15.10.2002 - 2 StR 353/02](2-str-353-02.md) — versuchter schwerer räuberischer Erpressung u. a.
+- [BGH, Beschluss vom 20.09.2002 - 2 ARs 265/02](2-ars-265-02.md) — des Verdachts der Urkundenfälschung
+- [BGH, Beschluss vom 20.09.2002 - 2 StR 306/02](2-str-306-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.09.2002 - 2 StR 335/02](2-str-335-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 20.09.2002 - 2 StR 336/02](2-str-336-02.md) — Anstiftung zur gefährlichen Körperverletzung u.a.
+- [BGH, Beschluss vom 06.09.2002 - 2 ARs 251/02](2-ars-251-02.md) — Computersabotage
+- [BGH, Beschluss vom 07.08.2002 - 2 StR 186/02](2-str-186-02.md) — Mordes u. a.
+- [BGH, Beschluss vom 07.08.2002 - 2 StR 196/02](2-str-196-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 07.08.2002 - 2 StR 250/02](2-str-250-02.md) — sexueller Nötigung u.a.
+- [BGH, Beschluss vom 24.07.2002 - 2 StR 267/02](2-str-267-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Entscheidung vom 26.06.2002 - 2 StR 175/02](2-str-175-02.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 19.06.2002 - 2 ARs 47/02](2-ars-47-02.md) — Mordes handelt es sich um eine Entscheidung im Sinne des § 1 NS-AufhG vom 25. August 1998 (BGBl. I 2501), da die politisch begründete, offen
+- [BGH, Beschluss vom 19.06.2002 - 2 StR 120/02](2-str-120-02.md) — Raubes u.a.
+- [BGH, Beschluss vom 19.06.2002 - 2 StR 191/02](2-str-191-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 19.06.2002 - 2 StR 43/02](2-str-43-02.md) — Bestechlichkeit
+- [BGH, Beschluss vom 14.06.2002 - 2 StR 147/02](2-str-147-02.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.06.2002 - 2 StR 157/02](2-str-157-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.06.2002 - 2 StR 169/02](2-str-169-02.md) — Raubes u. a.
+- [BGH, Beschluss vom 24.04.2002 - 2 ARs 125/02](2-ars-125-02.md) — Verdachts der Urkundenfälschung
+- [BGH, Beschluss vom 24.04.2002 - 2 StR 115/02](2-str-115-02.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 24.04.2002 - 2 StR 44/02](2-str-44-02.md) — Totschlags u. a.
+- [BGH, Beschluss vom 24.04.2002 - 2 StR 56/02](2-str-56-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 24.04.2002 - 2 StR 86/02](2-str-86-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 24.04.2002 - 2 StR 96/02](2-str-96-02.md) — schweren sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 17.04.2002 - 2 StR 101/02](2-str-101-02.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 17.04.2002 - 2 StR 51/02](2-str-51-02.md) — versuchten schweren Raubes
+- [BGH, Urteil vom 17.04.2002 - 2 StR 531/01](2-str-531-01.md) — Untreue u.a.
+- [BGH, Beschluss vom 17.04.2002 - 2 StR 63/02](2-str-63-02.md) — Diebstahls
+- [BGH, Beschluss vom 03.04.2002 - 2 StR 66/02](2-str-66-02.md) — versuchter Strafvereitelung
+- [BGH, Beschluss vom 03.04.2002 - 2 StR 84/02](2-str-84-02.md) — bewaffneten unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 03.04.2002 - 2 StR 95/02](2-str-95-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 20.03.2002 - 2 StR 48/02](2-str-48-02.md) — Vergewaltigung
+- [BGH, Beschluss vom 06.03.2002 - 2 StR 41/02](2-str-41-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Urteil vom 06.03.2002 - 2 StR 491/01](2-str-491-01.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 06.03.2002 - 2 StR 530/01](2-str-530-01.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Urteil vom 06.03.2002 - 2 StR 533/01](2-str-533-01.md) — Diebstahls u.a.
+- [BGH, Urteil vom 30.01.2002 - 2 StR 416/01](2-str-416-01.md) — versuchter Erpressung
+- [BGH, Urteil vom 30.01.2002 - 2 StR 504/01](2-str-504-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 23.01.2002 - 2 ARs 2/02](2-ars-2-02.md) — BGH, Beschluss vom 23.01.2002 - 2 ARs 2/02
+- [BGH, Beschluss vom 23.01.2002 - 2 ARs 352/01](2-ars-352-01.md) — Diebstahls
+- [BGH, Beschluss vom 23.01.2002 - 2 StR 520/01](2-str-520-01.md) — Betruges
+- [BGH, Beschluss vom 11.01.2002 - 2 StR 546/01](2-str-546-01.md) — Betruges u.a.
+- [BGH, Beschluss vom 02.01.2002 - 2 StR 538/01](2-str-538-01.md) — Körperverletzung mit Todesfolge

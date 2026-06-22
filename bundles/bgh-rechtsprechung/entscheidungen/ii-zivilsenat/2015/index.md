@@ -1,0 +1,56 @@
+# II. Zivilsenat – 2015
+
+52 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2015 - II ZR 144/14](ii-zr-144-14.md) — Kommanditgesellschaft auf Aktien: Voraussetzungen für die Entziehung der Geschäftsführungsbefugnis und Vertretungsmacht eines persönlich haftenden Gesellschafte
+- [BGH, Urteil vom 08.12.2015 - II ZR 333/14](ii-zr-333-14.md) — Die Auflösung der stillen Gesellschaft, die als bloße Innengesellschaft über kein gesamthänderisch gebundenes Gesellschaftsvermögen verfügt, führt grundsätzlich
+- [BGH, Urteil vom 08.12.2015 - II ZR 68/14](ii-zr-68-14.md) — Wird auf ein debitorisches Konto einer GmbH eine zur Sicherheit an die Bank abgetretene Forderung eingezogen, die erst nach Insolvenzreife entstanden oder werth
+- [BGH, Beschluss vom 01.12.2015 - II ZB 7/15](ii-zb-7-15.md) — Glaubhaftmachung des Wiedereinsetzungsgrundes: Zweifel an dem anwaltlich versicherten Vorbringen
+- [BGH, Beschluss vom 25.11.2015 - II ZR 384/13](ii-zr-384-13.md) — Gerichtskosten im Verfahren der Nichtzulassungsbeschwerde: Teilweise Zurückweisung der Beschwerde und teilweise Fortführung des Beschwerdeverfahrens nach Zulass
+- [BGH, Beschluss vom 17.11.2015 - II ZB 20/14](ii-zb-20-14.md) — Berichtigung einer Kostengrundentscheidung: Abänderung durch das Berufungsgericht nach Streitwertänderung vor rechtskräftigem Verfahrensabschluss
+- [BGH, Beschluss vom 17.11.2015 - II ZB 28/14](ii-zb-28-14.md) — Der (Zuständigkeits- oder Rechtsmittel-)Streitwert einer Auskunftsklage richtet sich nach dem wirtschaftlichen Interesse, das die klagende Partei an der Erteilu
+- [BGH, Beschluss vom 17.11.2015 - II ZB 8/14](ii-zb-8-14.md) — Streitwertfestsetzung: Klage auf Feststellung der Unwirksamkeit des Ausschlusses aus einem Idealverein
+- [BGH, Urteil vom 03.11.2015 - II ZR 13/14](ii-zr-13-14.md) — 1. Dem Inferenten steht ohne Vereinbarung einer Befristung oder Bedingung ein Lösungsrecht von dem Übernahmevertrag nach den Grundsätzen über den Wegfall der Ge
+- [BGH, Urteil vom 03.11.2015 - II ZR 270/14](ii-zr-270-14.md) — Prospekthaftung bei Kapitalanlagebeteiligung als atypisch stiller Gesellschafter: Ordnungsgemäße Aufklärung über den Anteil der Emissionskosten
+- [BGH, Urteil vom 03.11.2015 - II ZR 443/13](ii-zr-443-13.md) — Zwangsvollstreckung gegen eine BGB-Gesellschaft: Aktivlegitimation für eine Vollstreckungsabwehrklage; Folgen gleichzeitiger Auswechslung aller Gesellschafter
+- [BGH, Urteil vom 03.11.2015 - II ZR 446/13](ii-zr-446-13.md) — 1. Richtet sich ein Vollstreckungstitel gegen eine Gesellschaft bürgerlichen Rechts als Vollstreckungsschuldnerin, steht die Befugnis zur Erhebung einer Vollstr
+- [BGH, Urteil vom 27.10.2015 - II ZR 296/14](ii-zr-296-14.md) — 1. Das Recht zur Herabsetzung der Bezüge gemäß § 87 Abs. 2 AktG ist ein einseitiges Gestaltungsrecht der Aktiengesellschaft, das durch eine Gestaltungserklärung
+- [BGH, Urteil vom 13.10.2015 - II ZR 214/13](ii-zr-214-13.md) — 1. Ist in einer zweigliedrigen Gesellschaft bürgerlichen Rechts kein zu liquidierendes Gesellschaftsvermögen mehr vorhanden, kann der Gesellschafter, der für si
+- [BGH, Urteil vom 13.10.2015 - II ZR 23/14](ii-zr-23-14.md) — 1. Bei Nominierungsrichtlinien von Sportverbänden, die außerhalb der Satzung die Kriterien für die Teilnahme an Wettkämpfen festlegen, handelt es sich um Verban
+- [BGH, Urteil vom 13.10.2015 - II ZR 281/14](ii-zr-281-14.md) — Verjährungshemmung durch Mahnbescheid: Anforderungen an Individualisierung von Einzelansprüchen; Nachholung der Individualisierung nach Verjährungsfristablauf i
+- [BGH, Beschluss vom 29.09.2015 - II ZB 23/14](ii-zb-23-14.md) — 1. Im Spruchverfahren ist der gemeinsame Vertreter der Antragsberechtigten, die nicht selbst Antragsteller sind, grundsätzlich nicht beschwerdebefugt. 2. Der Sc
+- [BGH, Urteil vom 29.09.2015 - II ZR 403/13](ii-zr-403-13.md) — 1. Tilgen Treugeberkommanditisten ohne Verpflichtung im Innenverhältnis zur Gesellschaft Gesellschaftsverbindlichkeiten, können sie von der Gesellschaft jedenfa
+- [BGH, Beschluss vom 22.09.2015 - II ZR 310/14](ii-zr-310-14.md) — Auslegung des Gesellschaftsvertrags bei einer zweigliedrigen stillen Gesellschaft: Abfindungsklausel für den Fall der Beendigung der stillen Beteiligung; Insolv
+- [BGH, Urteil vom 22.09.2015 - II ZR 340/14](ii-zr-340-14.md) — 1. Die generelle Verkürzung der Verjährungsfrist in einer die Haftung regelnden Klausel in einem formularmäßigen Emissionsprospekt stellt eine gemäß § 309 Nr. 7
+- [BGH, Urteil vom 22.09.2015 - II ZR 341/14](ii-zr-341-14.md) — Treuhandvermittelte Kommanditbeteiligung an einer Kapitalanlagegesellschaft: Wirksamkeit einer formularmäßig vereinbarten Verkürzung der Verjährung von Prospekt
+- [BGH, Beschluss vom 14.07.2015 - II ZB 27/14](ii-zb-27-14.md) — Versäumung der Berufungs- und der Berufungsbegründungsfrist: Anforderungen an die Glaubhaftmachung des Wiedereinsetzungsgrundes durch eidesstattliche Versicheru
+- [BGH, Urteil vom 30.06.2015 - II ZR 142/14](ii-zr-142-14.md) — 1a. Die Einberufung der Hauptversammlung einer Aktiengesellschaft kann grundsätzlich von dem Organ, das die Versammlung einberufen hat, wieder zurückgenommen we
+- [BGH, Beschluss vom 25.06.2015 - II ZB 30/12](ii-zb-30-12.md) — BGH, Beschluss II ZB 30/12
+- [BGH, Urteil vom 23.06.2015 - II ZR 166/14](ii-zr-166-14.md) — Liegt dem Rechtsstreit ein einheitlicher Streitgegenstand zugrunde, muss der Berufungskläger nicht zu allen für ihn nachteilig beurteilten Streitpunkten in der 
+- [BGH, Urteil vom 23.06.2015 - II ZR 366/13](ii-zr-366-13.md) — 1. Der Einzug von Forderungen, die an die Bank zur Sicherheit abgetreten waren, auf einem debitorischen Konto der GmbH und die anschließende Verrechnung mit dem
+- [BGH, Beschluss vom 09.06.2015 - II ZR 227/14](ii-zr-227-14.md) — Publikums-GbR: Gesellschafterliche Treuepflicht zur Zustimmung zu einer Sanierungsregelung und damit verbunden dem eigenen Ausscheiden aus der Gesellschaft
+- [BGH, Urteil vom 09.06.2015 - II ZR 420/13](ii-zr-420-13.md) — Der Gesellschaftsvertrag einer Publikumspersonengesellschaft muss für eine Zustimmungspflicht des Gesellschafters zu seinem Ausscheiden aus gesellschafterlicher
+- [BGH, Urteil vom 19.05.2015 - II ZR 176/14](ii-zr-176-14.md) — 1. Wenn auf einer Hauptversammlung ein Beschluss gefasst wird, für den das Gesetz eine Dreiviertel- oder größere Mehrheit bestimmt und der damit stets durch ein
+- [BGH, Urteil vom 19.05.2015 - II ZR 181/14](ii-zr-181-14.md) — Nichtbörsennotierte Aktiengesellschaft: Niederschrift der Hauptversammlung bei Fassung eines Beschlusses mit qualifizierter Mehrheit
+- [BGH, Beschluss vom 19.05.2015 - II ZR 263/14](ii-zr-263-14.md) — Prozesskostenhilfeantrag des Insolvenzverwalters: Zumutbarkeit der Prozesskostenaufbringung durch 4 Großgläubiger
+- [BGH, Urteil vom 19.05.2015 - II ZR 291/14](ii-zr-291-14.md) — Ein Gesellschafter, der vor Fälligkeit der Einlageschuld auf den Geschäftsanteil eines Mitgesellschafters aus der Gesellschaft ausgeschieden ist, haftet, soweit
+- [BGH, Beschluss vom 12.05.2015 - II ZB 18/14](ii-zb-18-14.md) — Rechtsbehelfe im Kostenfestsetzungsverfahren: Anfechtbarkeit einer richterlichen Entscheidung nach Erinnerung gegen einen Kostenfestsetzungsbeschluss; Statthaft
+- [BGH, Beschluss vom 05.05.2015 - II ZB 29/12](ii-zb-29-12.md) — Rechtsbeschwerde im Kapitalanleger-Musterverfahren: Berechnung der Obergrenze des Streitwerts
+- [BGH, Beschluss vom 28.04.2015 - II ZB 13/14](ii-zb-13-14.md) — Wird eine Gesellschaft mit beschränkter Haftung durch die Eröffnung des Insolvenzverfahrens über ihr Vermögen aufgelöst, kann sie nur in den in § 60 Abs. 1 Nr. 
+- [BGH, Beschluss vom 28.04.2015 - II ZB 19/14](ii-zb-19-14.md) — Der besondere Vertreter kann der Anfechtungsklage gegen den Beschluss über die Verfolgung von Ersatzansprüchen und über seine Bestellung auf Seiten der Gesellsc
+- [BGH, Urteil vom 28.04.2015 - II ZR 63/14](ii-zr-63-14.md) — 1. Der Abschluss des die Vergütung eines Vorstandsmitglieds betreffenden Vertrags fällt auch dann in die Zuständigkeit des Aufsichtsrats, wenn er von der Gesell
+- [BGH, Beschluss vom 21.04.2015 - II ZR 126/14](ii-zr-126-14.md) — Der Vortrag zu einem übereinstimmenden Willen der an dem Abschluss eines Vertrags (hier: des Gesellschaftsvertrags einer Kommanditgesellschaft) beteiligten Part
+- [BGH, Urteil vom 21.04.2015 - II ZR 255/13](ii-zr-255-13.md) — Nach Einräumung einer Schriftsatzfrist (§ 283 Satz 1 ZPO) darf das Urteil nicht vor Ablauf der gesetzten Frist gefällt werden. Scheidet ein an der mündlichen Ve
+- [BGH, Beschluss vom 24.02.2015 - II ZB 17/14](ii-zb-17-14.md) — Das Registergericht darf die Aufnahme einer mit einem Testamentsvollstreckervermerk versehenen Gesellschafterliste ablehnen.
+- [BGH, Beschluss vom 10.02.2015 - II ZR 163/14](ii-zr-163-14.md) — Haustürgeschäft: Folgen der Verwendung einer inhaltlich bearbeiteten Musterbelehrung über das Widerrufsrecht; mangelnde Deutlichkeit der Belehrung
+- [BGH, Beschluss vom 03.02.2015 - II ZB 12/14](ii-zb-12-14.md) — Aus § 5 Abs. 1 TSG folgt kein Anspruch der Geschäftsführerin einer GmbH auf vollständige Löschung ihres vormals männlichen Vornamens im Handelsregister.
+- [BGH, Urteil vom 03.02.2015 - II ZR 105/13](ii-zr-105-13.md) — 1. In einer Publikumsgesellschaft in der Rechtsform einer GmbH & Co. KG folgt aus einer nach § 316 Abs. 1 HGB oder aufgrund des Gesellschaftsvertrags bestehende
+- [BGH, Beschluss vom 03.02.2015 - II ZR 242/13](ii-zr-242-13.md) — Zulässigkeit eines rückwirkenden Beitritts zu einem Verein
+- [BGH, Urteil vom 03.02.2015 - II ZR 335/13](ii-zr-335-13.md) — Die Kündigung der stillen Gesellschaft führt zu deren Auflösung und zur Auseinandersetzung zwischen dem Inhaber des Handelsgeschäfts und dem stillen Gesellschaf
+- [BGH, Beschluss vom 03.02.2015 - II ZR 93/14](ii-zr-93-14.md) — Prospekthaftung bei Beteiligung eines Kapitalanlegers als atypisch stiller Gesellschafter: Anforderungen an die Prospektangaben zum Totalverlustrisiko und zu de
+- [BGH, Beschluss vom 27.01.2015 - II ZB 21/13](ii-zb-21-13.md) — Ist der Zugriff auf einen ausschließlich elektronisch geführten Fristenkalender wegen eines technischen Defekts vorübergehend nicht störungsfrei gewährleistet, 
+- [BGH, Beschluss vom 27.01.2015 - II ZB 23/13](ii-zb-23-13.md) — Ist der Zugriff auf einen ausschließlich elektronisch geführten Fristenkalender wegen eines technischen Defekts einen ganzen Arbeitstag lang nicht möglich, kann
+- [BGH, Beschluss vom 27.01.2015 - II ZB 7/14](ii-zb-7-14.md) — Ein Statusverfahren ist mit der Verschmelzung der betroffenen Gesellschaft auf eine andere Gesellschaft erledigt. Eine bereits eingelegte Rechtsbeschwerde wird 
+- [BGH, Beschluss vom 20.01.2015 - II ZB 11/14](ii-zb-11-14.md) — Die Parteien können den Gegenstand eines Kapitalanleger-Musterverfahrens nur bis zum Schluss der mündlichen Verhandlung vor dem Oberlandesgericht erweitern.
+- [BGH, Urteil vom 20.01.2015 - II ZR 369/13](ii-zr-369-13.md) — Kundenschutzklauseln, die zwischen einer GmbH und einem ihrer Gesellschafter anlässlich des Ausscheidens aus der Gesellschaft vereinbart werden, sind nichtig, w
+- [BGH, Versäumnisurteil vom 20.01.2015 - II ZR 444/13](ii-zr-444-13.md) — Der einem Gesellschafter einer Personengesellschaft aufgrund der Regelungen im Treuhand- und im Gesellschaftsvertrag gleichgestellte Treugeber kann seine Beteil

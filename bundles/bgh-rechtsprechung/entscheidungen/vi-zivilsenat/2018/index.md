@@ -1,0 +1,75 @@
+# VI. Zivilsenat – 2018
+
+71 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2018 - VI ZB 2/18](vi-zb-2-18.md) — 1. Bejaht der Einzelrichter im Beschwerdeverfahren mit seiner Entscheidung, die Rechtsbeschwerde zuzulassen, die grundsätzliche Bedeutung der Rechtssache, unter
+- [BGH, Beschluss vom 18.12.2018 - VI ZR 34/17](vi-zr-34-17.md) — Anspruchsgegner bei Haftung für einen Arbeitsunfall auf einer Baustelle
+- [BGH, Urteil vom 18.12.2018 - VI ZR 439/17](vi-zr-439-17.md) — 1. Die Frage, ob in dem Online-Archiv einer Tageszeitung Altmeldungen zum Abruf bereitgehalten werden dürfen, in denen über die Hauptverhandlung eines Strafverf
+- [BGH, Urteil vom 04.12.2018 - VI ZR 128/18](vi-zr-128-18.md) — 1. Für die Frage, ob die durch eine bereits erfolgte Verletzung des allgemeinen Persönlichkeitsrechts begründete Vermutung der Wiederholungsgefahr durch den Ver
+- [BGH, Beschluss vom 20.11.2018 - VI ZB 32/17](vi-zb-32-17.md) — Beauftragt der Prozessbevollmächtigte einer Partei einen anderen Rechtsanwalt damit, eine Berufungsschrift zu erstellen, zu unterschreiben und wegen des mit End
+- [BGH, Urteil vom 20.11.2018 - VI ZR 394/17](vi-zr-394-17.md) — Werden zwei einfache Streitgenossen rechtskräftig zur Zahlung von Schadensersatz als Gesamtschuldner verurteilt, so steht ihre Haftung zwar im Verhältnis zum Gl
+- [BGH, Beschluss vom 13.11.2018 - VI ZR 305/18](vi-zr-305-18.md) — Erinnerung gegen gerichtlichen Kostenansatz: Berücksichtigung nicht kostenrechtlicher Einwendungen
+- [BGH, Beschluss vom 13.11.2018 - VI ZR 71/18](vi-zr-71-18.md) — Einer Entscheidung, die die internationale Zuständigkeit auf der Grundlage des Art. 6 Nr. 1 EuGVVO aF bejaht, steht nicht entgegen, dass zuvor eine rechtskräfti
+- [BGH, Beschluss vom 09.11.2018 - VI ZR 5/18](vi-zr-5-18.md) — Nichtzulassungsbeschwerde: Darlegung des Beschwerdewerts eines Anspruchs auf Unterlassung einer Wortberichtserstattung
+- [BGH, Beschluss vom 16.10.2018 - VI ZB 68/16](vi-zb-68-16.md) — Erkennbar unklare oder ergänzungsbedürftige Angaben in einem Wiedereinsetzungsantrag, deren Aufklärung nach § 139 ZPO geboten gewesen wäre, können nach Fristabl
+- [BGH, Urteil vom 16.10.2018 - VI ZR 459/17](vi-zr-459-17.md) — Eine Annahme von Geldern im Sinne von § 1 Abs. 1 Satz 2 Nr. 1 Alt. 2 KWG ist auch dann gegeben, wenn die Anleger nicht unmittelbar Bar- oder Buchgeld beim Kapit
+- [BGH, Beschluss vom 02.10.2018 - VI ZR 213/17](vi-zr-213-17.md) — 1. Gerichte sind nicht verpflichtet, umfangreiche ungeordnete Anlagenkonvolute von sich aus durchzuarbeiten, um so die erhobenen Ansprüche zu konkretisieren. Ni
+- [BGH, Urteil vom 02.10.2018 - VI ZR 40/18](vi-zr-40-18.md) — Wählt der Geschädigte den Weg der fiktiven Schadensabrechnung, ist die im Rahmen einer Ersatzbeschaffung angefallene Umsatzsteuer nicht ersatzfähig, auch nicht 
+- [BGH, Beschluss vom 25.09.2018 - VI ZR 234/17](vi-zr-234-17.md) — Zum Vorliegen eine Gehörsverstoßes wegen überspannter Anforderungen an die Substantiierung des Klagevorbringens (Fortführung Senatsbeschluss vom 14. März 2017, 
+- [BGH, Beschluss vom 25.09.2018 - VI ZR 443/16](vi-zr-443-16.md) — 1. Bezieht sich der Anspruchsteller zur Begründung seiner Klage auf ein strafgerichtliches Urteil, durch das der Anspruchsgegner zu einer Strafe verurteilt word
+- [BGH, Urteil vom 25.09.2018 - VI ZR 65/18](vi-zr-65-18.md) — 1. Bei fiktiver Abrechnung der Reparaturkosten muss sich der Geschädigte, der mühelos eine ohne weiteres zugängliche günstigere und gleichwertige Reparaturmögli
+- [BGH, Beschluss vom 18.09.2018 - VI ZB 26/17](vi-zb-26-17.md) — Zur Ermittlung des Werts der Beschwer des Klägers im Fall einer einseitigen Teilerledigungserklärung.
+- [BGH, Beschluss vom 18.09.2018 - VI ZB 34/17](vi-zb-34-17.md) — 1. Bejaht der Einzelrichter im Beschwerdeverfahren mit seiner Entscheidung, die Rechtsbeschwerde zuzulassen, die grundsätzliche Bedeutung der Rechtssache, unter
+- [BGH, Beschluss vom 28.08.2018 - VI ZB 44/17](vi-zb-44-17.md) — Einer Prozesspartei, die vor Ablauf einer Rechtsmittel- oder Rechtsmittelbegründungsfrist lediglich Prozesskostenhilfe beantragt hat, ist Wiedereinsetzung in de
+- [BGH, Urteil vom 28.08.2018 - VI ZR 509/17](vi-zr-509-17.md) — 1. Eine Haftung wegen Unterlassens der (vorgezogenen) Aufklärung über die Behandlungsalternative der Sectio kommt auch dann in Betracht, wenn die Sectio später 
+- [BGH, Urteil vom 28.08.2018 - VI ZR 518/16](vi-zr-518-16.md) — 1. Zu den vermehrten Bedürfnissen im Sinne des § 843 Abs. 1 Alt. 2 BGB gehören sowohl die Kosten für die Beschäftigung einer Pflegeperson als auch der Betreuung
+- [BGH, Urteil vom 24.07.2018 - VI ZR 294/17](vi-zr-294-17.md) — 1. Zur Entkräftung der Beweiskraft des Tatbestands durch das Sitzungsprotokoll. 2. Der für die Annahme eines Befunderhebungsfehlers erforderliche Pflichtwidrigk
+- [BGH, Urteil vom 24.07.2018 - VI ZR 330/17](vi-zr-330-17.md) — Zur Prüfpflicht des Betreibers einer Internet-Suchmaschine bei Persönlichkeitsrechtsverletzungen (hier: Prozessberichterstattung).
+- [BGH, Beschluss vom 24.07.2018 - VI ZR 599/16](vi-zr-599-16.md) — 1. Im Prozessrecht findet sich keine Grundlage, Parteivortrag nur deshalb unberücksichtigt zu lassen, weil er im Widerspruch zu vorangegangenem, ausdrücklich au
+- [BGH, Urteil vom 17.07.2018 - VI ZR 274/17](vi-zr-274-17.md) — Eine in einem Vertrag über die Erstellung eines Kfz-Schadensgutachtens enthaltene formularmäßige Klausel, nach der der geschädigte Auftraggeber dem Sachverständ
+- [BGH, Urteil vom 17.07.2018 - VI ZR 275/17](vi-zr-275-17.md) — BGH, Urteil VI ZR 275/17
+- [BGH, Urteil vom 17.07.2018 - VI ZR 276/17](vi-zr-276-17.md) — BGH, Urteil VI ZR 276/17
+- [BGH, Urteil vom 17.07.2018 - VI ZR 277/17](vi-zr-277-17.md) — BGH, Urteil VI ZR 277/17
+- [BGH, Urteil vom 17.07.2018 - VI ZR 278/17](vi-zr-278-17.md) — BGH, Urteil VI ZR 278/17
+- [BGH, Beschluss vom 17.07.2018 - VI ZR 428/17](vi-zr-428-17.md) — Zurückweisung einer Nichtzulassungsbeschwerde wegen unzureichender Darlegung
+- [BGH, Urteil vom 10.07.2018 - VI ZR 225/17](vi-zr-225-17.md) — 1. Die Verwendung von elektronischer Post für die Zwecke der Werbung ohne Einwilligung des Empfängers stellt grundsätzlich einen Eingriff in seine geschützte Pr
+- [BGH, Urteil vom 10.07.2018 - VI ZR 259/15](vi-zr-259-15.md) — Verlangt der Geschädigte für erlittene Körperverletzungen uneingeschränkt ein Schmerzensgeld, so werden durch den Klageantrag nach dem Grundsatz der Einheitlich
+- [BGH, Urteil vom 10.07.2018 - VI ZR 263/17](vi-zr-263-17.md) — 1. Eine "Annahme von Geldern" im Sinne von § 1 Abs. 1 Satz 2 Nr. 1 KWG liegt auch dann vor, wenn die Anleger nicht unmittelbar Bar- oder Buchgeld beim Kapitalne
+- [BGH, Beschluss vom 10.07.2018 - VI ZR 580/15](vi-zr-580-15.md) — Gehörsverletzung: Zurückweisung eines Parteiantrags auf Anhörung eines Sachverständigen; widersprüchliche Sachverständigengutachten
+- [BGH, Urteil vom 26.06.2018 - VI ZR 285/17](vi-zr-285-17.md) — 1. Der Arzt hat sicherzustellen, dass der Patient von Arztbriefen mit bedrohlichen Befunden - und gegebenenfalls von der angeratenen Behandlung - Kenntnis erhäl
+- [BGH, Urteil vom 12.06.2018 - VI ZR 284/17](vi-zr-284-17.md) — 1. Der Schutz der Privatsphäre vor öffentlicher Kenntnisnahme kann dort entfallen oder zumindest im Rahmen der Abwägung zurücktreten, wo sich der Betroffene sel
+- [BGH, Urteil vom 05.06.2018 - VI ZR 171/16](vi-zr-171-16.md) — Legt der Geschädigte oder der an seine Stelle getretene Zessionar lediglich die unbeglichene Rechnung über die Sachverständigenkosten vor, genügt ein einfaches 
+- [BGH, Urteil vom 05.06.2018 - VI ZR 185/16](vi-zr-185-16.md) — Legt der Geschädigte oder der an seine Stelle getretene Zessionar lediglich die unbeglichene Rechnung über die Sachverständigenkosten vor, genügt ein einfaches 
+- [BGH, Beschluss vom 29.05.2018 - VI ZR 370/17](vi-zr-370-17.md) — 1. Eine Aufklärungspflicht des Arztes besteht nur hinsichtlich solcher Risiken, die im Zeitpunkt der Behandlung bereits bekannt sind. 2. Der in erster Instanz s
+- [BGH, Urteil vom 29.05.2018 - VI ZR 56/17](vi-zr-56-17.md) — 1. Der Schutz des allgemeinen Persönlichkeitsrechts gegen eine Presseberichterstattung reicht hinsichtlich der Veröffentlichung von Bildern einerseits und der W
+- [BGH, Urteil vom 15.05.2018 - VI ZR 231/17](vi-zr-231-17.md) — "Anderer Verkehrsteilnehmer" im Sinne der § 9 Abs. 5, § 10 Satz 1 StVO ist jede Person, die sich selbst verkehrserheblich verhält, d.h. körperlich und unmittelb
+- [BGH, Urteil vom 15.05.2018 - VI ZR 233/17](vi-zr-233-17.md) — 1. Die permanente und anlasslose Aufzeichnung des Verkehrsgeschehens ist mit den datenschutzrechtlichen Regelungen des Bundesdatenschutzgesetzes nicht vereinbar
+- [BGH, Beschluss vom 15.05.2018 - VI ZR 287/17](vi-zr-287-17.md) — 1. Der Anspruch auf rechtliches Gehör wird verletzt, wenn die vor Erlass einer Entscheidung vom Gericht gesetzte Frist zur Äußerung objektiv nicht ausreicht, um
+- [BGH, Beschluss vom 08.05.2018 - VI ZB 5/17](vi-zb-5-17.md) — 1. Nach dem im Verfahrensgrundrecht auf Gewährung wirkungsvollen Rechtsschutzes verankerten Grundsatz, dass der Zugang zu den Gerichten und zu den in den Verfah
+- [BGH, Urteil vom 08.05.2018 - VI ZR 295/17](vi-zr-295-17.md) — Ein Netzbetreiber kann Ersatz des Gewinns verlangen, der ihm entgeht, weil die Beschädigung seines Stromkabels eine Versorgungsunterbrechung verursacht, die zu 
+- [BGH, Beschluss vom 24.04.2018 - VI ZB 48/17](vi-zb-48-17.md) — Eine Entscheidung über den Antrag auf Wiedereinsetzung in den vorigen Stand vor Ablauf der Wiedereinsetzungsfrist kann den Anspruch des Antragstellers auf recht
+- [BGH, Beschluss vom 24.04.2018 - VI ZB 52/16](vi-zb-52-16.md) — § 149 Abs. 1 ZPO ermöglicht die Aussetzung eines Zivilverfahrens auch dann, wenn bereits vor dem Zivilverfahren an anderer Stelle der Verdacht einer Straftat be
+- [BGH, Urteil vom 24.04.2018 - VI ZR 25/17](vi-zr-25-17.md) — 1. Der Anwendungsbereich der Vorschrift des § 830 Abs. 1 Satz 2 BGB ist nicht auf die Verschuldenshaftung beschränkt, sondern erfasst auch die Gefährdungshaftun
+- [BGH, Urteil vom 24.04.2018 - VI ZR 250/17](vi-zr-250-17.md) — 1. Bei § 266 Abs. 1 StGB handelt es sich um ein Schutzgesetz im Sinne des § 823 Abs. 2 BGB (im Anschluss an Senat, Urteile vom 10. Juli 2012, VI ZR 341/10, NJW 
+- [BGH, Beschluss vom 17.04.2018 - VI ZR 140/17](vi-zr-140-17.md) — Zur unterlassenen Berücksichtigung von durch eine Veröffentlichung in einer Fachzeitschrift belegten Parteivortrag.
+- [BGH, Urteil vom 17.04.2018 - VI ZR 237/17](vi-zr-237-17.md) — Die psychische Gesundheitsverletzung eines Polizeibeamten, die infolge der unmittelbaren Beteiligung an einem durch einen Amoklauf ausgelösten Geschehen eingetr
+- [BGH, Beschluss vom 10.04.2018 - VI ZB 44/16](vi-zb-44-16.md) — Ein Rechtsanwalt muss allgemeine Vorkehrungen dafür treffen, dass das zur Wahrung von Fristen Erforderliche auch dann unternommen wird, wenn er unvorhergesehen 
+- [BGH, Beschluss vom 10.04.2018 - VI ZB 70/16](vi-zb-70-16.md) — Zur Ersatzfähigkeit der dem Berufungsbeklagten entstandenen Rechtsanwaltskosten, wenn die anwaltliche Tätigkeit (Antrag auf Zurückweisung der Berufung) in Unken
+- [BGH, Beschluss vom 10.04.2018 - VI ZR 378/17](vi-zr-378-17.md) — Die Nichtberücksichtigung eines erheblichen Beweisangebots, die im Prozessrecht keine Stütze hat, verstößt gegen Art. 103 Abs. 1 GG (Fortführung BGH, Beschluss 
+- [BGH, Urteil vom 10.04.2018 - VI ZR 396/16](vi-zr-396-16.md) — 1. Maßgeblich für die Ermittlung des Informationsgehalts einer Filmberichterstattung ist der Sinn, den sie nach dem Verständnis eines unvoreingenommenen und ver
+- [BGH, Urteil vom 13.03.2018 - VI ZR 143/17](vi-zr-143-17.md) — Es besteht kein gesetzlicher Anspruch darauf, in Vordrucken und Formularen nicht mit Personenbezeichnungen erfasst zu werden, deren grammatisches Geschlecht vom
+- [BGH, Urteil vom 13.03.2018 - VI ZR 151/17](vi-zr-151-17.md) — 1. Ist das identische Interesse gegen die identische Gefahr mehrfach haftpflichtversichert, liegt ein Fall des § 78 Abs. 1 Alt. 2 VVG vor, der zu einem Innenaus
+- [BGH, Beschluss vom 13.03.2018 - VI ZR 281/16](vi-zr-281-16.md) — Zum Vorliegen eines Gehörsverstoßes bei fehlender inhaltlicher Auseinandersetzung mit zentralem Vortrag einer Partei trotz dessen Wiedergabe im Rahmen der tatbe
+- [BGH, Urteil vom 27.02.2018 - VI ZR 109/17](vi-zr-109-17.md) — Wird nach einem von zwei Mittätern begangenen Fahrzeugdiebstahl (hier: Diebstahl eines Motorrollers) der eine Täter als Beifahrer des entwendeten Fahrzeugs bei 
+- [BGH, Urteil vom 27.02.2018 - VI ZR 121/17](vi-zr-121-17.md) — Eine Geldschuld aus unerlaubter Handlung ist nicht gemäß § 353 Satz 1 HGB ab Fälligkeit zu verzinsen, auch wenn sie im Zusammenhang mit einem beiderseitigen Han
+- [BGH, Beschluss vom 27.02.2018 - VI ZR 156/17](vi-zr-156-17.md) — Zur Pflicht des Gerichts, tatsächliche und rechtliche Ausführungen der Beteiligten zur Kenntnis zu nehmen und in Erwägung zu ziehen (hier: zum Bestehen von Verg
+- [BGH, Urteil vom 27.02.2018 - VI ZR 489/16](vi-zr-489-16.md) — Zur Prüfungspflicht des Betreibers einer Internet-Suchmaschine bei Persönlichkeitsrechtsverletzungen.
+- [BGH, Urteil vom 27.02.2018 - VI ZR 86/16](vi-zr-86-16.md) — Die Grundsätze über das fehlende Rechtsschutzbedürfnis von gesonderten Ehrenschutzklagen gegen Parteivorbringen in zivilgerichtlichen Verfahren können für Abweh
+- [BGH, Beschluss vom 20.02.2018 - VI ZB 47/17](vi-zb-47-17.md) — Ein Rechtsanwalt darf regelmäßig erwarten, dass einem ersten Antrag auf Verlängerung der Berufungsbegründungsfrist entsprochen wird, wenn er einen erheblichen G
+- [BGH, Beschluss vom 06.02.2018 - VI ZB 12/17](vi-zb-12-17.md) — Berufungsverwerfungsbeschluss: Notwendige Begründung bei Verwerfung wegen Nichterreichens der Berufungssumme
+- [BGH, Urteil vom 06.02.2018 - VI ZR 76/17](vi-zr-76-17.md) — Zur Zulässigkeit einer ohne Einwilligung erfolgten Veröffentlichung von Fotos, die ein ehemaliges Staatsoberhaupt nach einem Großeinkauf auf dem Parkplatz eines
+- [BGH, Urteil vom 23.01.2018 - VI ZR 57/17](vi-zr-57-17.md) — 1. Der vorübergehende Entzug der Gebrauchsmöglichkeit eines Motorrads, das dem Geschädigten als einziges Kraftfahrzeug zur Verfügung steht und nicht reinen Frei
+- [BGH, Urteil vom 16.01.2018 - VI ZR 474/16](vi-zr-474-16.md) — 1. Erlaubnispflichtige Zahlungsdienste als Zahlungsinstitut erbringt nur derjenige, der "als Unternehmen" handeln will (Anschluss an BGH, Beschluss vom 28. Okto
+- [BGH, Urteil vom 16.01.2018 - VI ZR 498/16](vi-zr-498-16.md) — Zu der zutreffenden Sinndeutung einer Äußerung und zu den Voraussetzungen eines Eingriffs in das Unternehmerpersönlichkeitsrecht, wenn lediglich Teile einer kom
+- [BGH, Beschluss vom 09.01.2018 - VI ZR 106/17](vi-zr-106-17.md) — 1. Der Tatrichter darf, wenn es um die Beurteilung einer Fachwissen voraussetzenden Frage geht, auf die Einholung eines Sachverständigengutachtens nur verzichte
+- [BGH, Urteil vom 09.01.2018 - VI ZR 82/17](vi-zr-82-17.md) — 1. Eine nur beschränkte Zulassung der Berufung ist unter denselben Voraussetzungen wie die beschränkte Zulassung der Revision zulässig (Anschluss BGH, Beschluss

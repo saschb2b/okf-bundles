@@ -1,0 +1,116 @@
+# 1. Strafsenat – 2015
+
+112 Entscheidung(en).
+
+- [BGH, Beschluss vom 16.12.2015 - 1 ARs 10/15](1-ars-10-15.md) — Anfragebeschluss/Antwort: Ausdehnung der deutschen Strafgewalt auf Auslandstaten ausländischer Täter im Falle des unbefugten Vertriebs von Betäubungsmitteln
+- [BGH, Vorlagebeschluss vom 16.12.2015 - 1 ARs 31/14](1-ars-31-14.md) — Beantwortung der Anfrage des 2. Strafsenats zur Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse des Täters im Rahmen der Zumessung eines Sch
+- [BGH, Beschluss vom 16.12.2015 - 1 StR 503/15](1-str-503-15.md) — Strafverfahren wegen Vergewaltigung: Beweiswürdigung bei einer Lüge des Angeklagten
+- [BGH, Beschluss vom 15.12.2015 - 1 StR 562/15](1-str-562-15.md) — Nachträgliche Gesamtstrafenbildung: Einbeziehung einer Bewährungsstrafe bei abgelaufener Bewährungszeit
+- [BGH, Beschluss vom 09.12.2015 - 1 StR 256/15](1-str-256-15.md) — Hinterziehung von Schaumweinsteuer: Direkte Auslieferung von Schaumwein aus Italien an inländische Kunden eines deutschen Händlers ohne Lagerung des Schaumweins
+- [BGH, Beschluss vom 03.12.2015 - 1 StR 169/15](1-str-169-15.md) — Richterablehnung im Strafverfahren: Befangenheitsbesorgnis bei Verfahrensbeendigung gegen früheren Mitangeklagten nach Verständigung
+- [BGH, Urteil vom 03.12.2015 - 1 StR 457/15](1-str-457-15.md) — Gefährliche Körperverletzung mit Todesfolge: Anforderungen an die Feststellung eines bedingten Tötungsvorsatzes bei Tritten gegen den Kopf
+- [BGH, Beschluss vom 03.12.2015 - 1 StR 576/15](1-str-576-15.md) — Vollstreckungsreihenfolge bei Strafhaft und Unterbringung in einer Entziehungsanstalt: Wegfall des Vorwegvollzugs und sofortiger Beginn des Maßregelvollzugs zur
+- [BGH, Urteil vom 02.12.2015 - 1 StR 292/15](1-str-292-15.md) — Beweiswürdigung im freisprechenden Strafurteil: Gesamtwürdigung aller den jeweiligen Indizien innewohnenden Beweiswerte
+- [BGH, Beschluss vom 01.12.2015 - 1 StR 154/15](1-str-154-15.md) — Strafverfahren wegen Steuerhinterziehung: Strafbarkeit eines Geschäftsführers einer GmbH wegen Verschweigens von verdeckten Gewinnausschüttungen
+- [BGH, Beschluss vom 01.12.2015 - 1 StR 273/15](1-str-273-15.md) — Steuerhinterziehung: Verdeckte Gewinnausschüttung an GmbH-Gesellschafter bei Überlassung von Dienstfahrzeugen; Anforderungen an die tatrichterliche Beweiswürdig
+- [BGH, Urteil vom 01.12.2015 - 1 StR 321/15](1-str-321-15.md) — Wertersatzverfall nach Betäubungsmitteldelikten: Voraussetzungen des Vorliegens einer unbilligen Härte und erforderliche Feststellungen zu den Vermögensverhältn
+- [BGH, Beschluss vom 26.11.2015 - 1 StR 135/15](1-str-135-15.md) — Wiedereinsetzung in den vorigen Stand: Zulässigkeit bei bewusstem Nichtgebrauchmachen des Rechtsmittels; Fortwirken der Pflichtverteidigerbestellung für Nachtra
+- [BGH, Beschluss vom 26.11.2015 - 1 StR 386/15](1-str-386-15.md) — Strafverfahren: Anhörungsrüge nach Verwerfung der Revision im Beschlussverfahren wegen mangelnder Information weiterer in das Revisionsverfahren eintretender Ve
+- [BGH, Beschluss vom 26.11.2015 - 1 StR 389/15](1-str-389-15.md) — Geldstrafe neben Freiheitsstrafe: Vereinbarkeit mit dem verfassungsrechtlichen Schuldgrundsatz und dem Grundsatz des einkommensunabhängigen Strafens
+- [BGH, Beschluss vom 26.11.2015 - 1 StR 538/15](1-str-538-15.md) — Erhalten gebliebene Einsichtsfähigkeit des vermindert schuldfähigen Täters: Darlegungserfordernis hinsichtlich des Ausnutzungsbewusstseins bei Verwirklichung de
+- [BGH, Urteil vom 25.11.2015 - 1 StR 349/15](1-str-349-15.md) — Heimtückemord: Angriff zunächst nur mit Körperverletzungsvorsatz; Anstiftung zur Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 25.11.2015 - 1 StR 379/15](1-str-379-15.md) — Unterbringung in einer Entziehungsanstalt: Symptomatischer Zusammenhang zwischen der Tat und dem Hang des Täters
+- [BGH, Beschluss vom 25.11.2015 - 1 StR 555/15](1-str-555-15.md) — Strafrahmen bei versuchter Verwirklichung eines Regelbeispiels der Vergewaltigung
+- [BGH, Beschluss vom 25.11.2015 - 1 StR 79/15](1-str-79-15.md) — Die Höhe der Kompensation für eine hinsichtlich Art, Ausmaß und ihrer Ursachen prozessordnungsgemäß festgestellte überlange Verfahrensdauer ist ein zulässiger V
+- [BGH, Beschluss vom 24.11.2015 - 1 StR 366/15](1-str-366-15.md) — (Strafverfahren wegen Umsatzsteuerhinterziehung: Abgrenzung von Tatvollendung und Versuch; notwendige tatrichterliche Feststellungen zum Eintritt des Verkürzung
+- [BGH, Urteil vom 11.11.2015 - 1 StR 235/15](1-str-235-15.md) — Revision im Strafverfahren wegen Umsatzsteuerhinterziehung: Notwendigkeit der Gesamtwürdigung festgestellter Tatsachen; Anforderungen an die Begründung eines Fr
+- [BGH, Beschluss vom 11.11.2015 - 1 StR 96/15](1-str-96-15.md) — Frist für die Strafverfolgungsverjährung bei unterlassener Umsatzsteueranmeldung
+- [BGH, Beschluss vom 10.11.2015 - 1 StR 265/15](1-str-265-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Erforderliche Feststellungen für die Unterbringungsanordnung; symptomatischer Zusammenhang zwischen psychisc
+- [BGH, Beschluss vom 10.11.2015 - 1 StR 482/15](1-str-482-15.md) — Unterbringung eines Rauschgifthändlers in einer Entziehungsanstalt: Voraussetzungen für einen Hang des Täters und den Symptomcharakter der Tat
+- [BGH, Urteil vom 28.10.2015 - 1 StR 142/15](1-str-142-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose; umfassende Würdigung der Täterpersönlichkeit und Darlegung der
+- [BGH, Urteil vom 28.10.2015 - 1 StR 465/14](1-str-465-14.md) — Verurteilung wegen Steuerhinterziehung: Anforderung an die Feststellungen in den Urteilsgründen; Zufluss von Geldbeträgen aufgrund einer Novation
+- [BGH, Beschluss vom 27.10.2015 - 1 StR 162/15](1-str-162-15.md) — Strafverfahren: Einstellung des Verfahrens nach Urteilsverkündung
+- [BGH, Urteil vom 27.10.2015 - 1 StR 373/15](1-str-373-15.md) — Ein großes Ausmaß im Sinne von § 370 Abs. 3 Satz 2 Nr. 1 AO liegt bei jeder Steuerhinterziehung über 50.000 Euro vor (Fortentwicklung von BGH, 2. Dezember 2008,
+- [BGH, Urteil vom 26.10.2015 - 1 StR 317/15](1-str-317-15.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Eigennützigkeit bei Abgabe von Marihuana zum Einkaufspreis; gewerbsmäßiges Handeln
+- [BGH, Beschluss vom 15.10.2015 - 1 StR 477/15](1-str-477-15.md) — Adhäsionsverfahren: Tenor bei einem Grundurteil
+- [BGH, Beschluss vom 14.10.2015 - 1 StR 473/15](1-str-473-15.md) — Konkurrenz: Zusammentreffen von einer angedrohten Tat mit dem Versuch des angedrohten Verbrechens
+- [BGH, Beschluss vom 14.10.2015 - 1 StR 521/14](1-str-521-14.md) — Hinterziehung von Tabaksteuer durch Unterlassen: Beendigung und Vollendung; Durchleitung von Tabakwaren durch mehrere Mitgliedsstaaten; einheitliche Beihilfe be
+- [BGH, Beschluss vom 14.10.2015 - 1 StR 56/15](1-str-56-15.md) — Strafprozessrecht: Erfordernis der Tenorbeschwer bei Freispruch wegen Schuldunfähigkeit
+- [BGH, Beschluss vom 13.10.2015 - 1 StR 416/15](1-str-416-15.md) — Strafaussetzung zur Bewährung: Zusammentreffen durchschnittlicher Milderungsgründe als besondere Umstände; Einbeziehung einer langen Verfahrensdauer in die erfo
+- [BGH, Beschluss vom 30.09.2015 - 1 StR 445/15](1-str-445-15.md) — Beweiswürdigung im Strafverfahren: Entlastungsvorbringen und "Vorwegverteidigung" als Indizien für Täterwissen
+- [BGH, Beschluss vom 29.09.2015 - 1 StR 187/15](1-str-187-15.md) — Verfall von Wertersatz bei Steuerhinterziehung: Urteilsfeststellungen zum Absehen von einer Verfallsanordnung bei unbilliger Härte; Auffangrechtserwerb des Staa
+- [BGH, Urteil vom 29.09.2015 - 1 StR 287/15](1-str-287-15.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose; Abgrenzung zur Unterbringung in einer Entziehungsanstalt
+- [BGH, Beschluss vom 29.09.2015 - 1 StR 412/15](1-str-412-15.md) — Strafverfahren wegen Untreue eines Steuerberaters: Strafzumessung bei drohender berufsgerichtlicher Maßnahme
+- [BGH, Beschluss vom 16.09.2015 - 1 StR 362/15](1-str-362-15.md) — Strafbare Zuwiderhandlung eines Sexualstraftäters gegen Weisungen der Führungsaufsicht: Zuwiderhandlung gegen ein Kontaktverbot zu Kindern bei bloßem Dulden von
+- [BGH, Beschluss vom 03.09.2015 - 1 StR 255/15](1-str-255-15.md) — Konkurrenzverhältnisse beim Sich-Verschaffen von kinder- und jugendpornografischen Schriften durch Herunterladen aus dem Internet
+- [BGH, Beschluss vom 02.09.2015 - 1 StR 11/15](1-str-11-15.md) — Steuerstrafverfahren: Konkurrenzverhältnis zwischen Steuerhinterziehung in einem besonders schweren Fall und gewerbsmäßigem Schmuggel nach altem Recht
+- [BGH, Beschluss vom 02.09.2015 - 1 StR 207/15](1-str-207-15.md) — Anhörungsrüge nach Verwerfung der Revision in Strafsachen: Inhaltliche Überprüfung der Entscheidung durch das Revisionsgericht
+- [BGH, Beschluss vom 02.09.2015 - 1 StR 239/15](1-str-239-15.md) — Umsatzsteuerhinterziehung: Voraussetzungen und Zeitpunkt für einen Vorsteuerabzug; nachträgliche Bösgläubigkeit eines Lieferanten in einer Lieferkette
+- [BGH, Beschluss vom 02.09.2015 - 1 StR 433/14](1-str-433-14.md) — Verwerfung der Revision mit Beschluss als unbegründet: Beratungspraxis der BGH-Strafsenate
+- [BGH, Beschluss vom 01.09.2015 - 1 StR 12/15](1-str-12-15.md) — Strafverfahren wegen Umsatzsteuerhinterziehung: Notwendige Urteilsfeststellungen
+- [BGH, Beschluss vom 01.09.2015 - 1 StR 382/15](1-str-382-15.md) — Gesamtstrafenbildung: Bemessung unter Berücksichtigung einer bindenden Zusage der Staatsanwaltschaft zur Einstellung eines weiteren Ermittlungsverfahrens bei Ve
+- [BGH, Beschluss vom 19.08.2015 - 1 StR 178/15](1-str-178-15.md) — Strafverfahren wegen Umsatzsteuerhinterziehung: Erforderliche Urteilsfeststellungen zu unberechtigter Geltendmachung von Vorsteuern aus Scheinrechnungen; tatbes
+- [BGH, Beschluss vom 19.08.2015 - 1 StR 334/15](1-str-334-15.md) — Eingehungsbetrug: Ermittlung des Vermögensschadens bei Forderungsabtretung
+- [BGH, Beschluss vom 18.08.2015 - 1 StR 305/15](1-str-305-15.md) — Nachträgliche Gesamtstrafenbildung: Beendigung der einzubeziehenden Tat vor der früheren Verurteilung
+- [BGH, Beschluss vom 05.08.2015 - 1 StR 300/15](1-str-300-15.md) — Beweisaufnahme im Strafverfahren: Ablehnung eines Beweisantrags über Indiz- oder Hilfstatsache wegen Bedeutungslosigkeit; Anforderungen an die Begründung
+- [BGH, Beschluss vom 05.08.2015 - 1 StR 328/15](1-str-328-15.md) — Eine bewusste Selbstgefährdung lässt grundsätzlich die Erfolgsabwendungspflicht des eintrittspflichtigen Garanten nicht entfallen, wenn sich das allein auf Selb
+- [BGH, Urteil vom 04.08.2015 - 1 StR 53/15](1-str-53-15.md) — Abgrenzung zwischen Mord und Totschlag: Heimtücke und Zweifelsgrundsatz; sonstige niedrige Beweggründe
+- [BGH, Urteil vom 04.08.2015 - 1 StR 624/14](1-str-624-14.md) — Misshandlung von Schutzbefohlenen: Verwirklichung des Tatbestandsmerkmals "Quälen" durch unterlassene medizinische Versorgung eines Kindes mit einer Mukoviszido
+- [BGH, Beschluss vom 28.07.2015 - 1 StR 602/14](1-str-602-14.md) — Verjährungsunterbrechung bei Steuerstraftaten; Befangenheitsbesorgnis bei Anordnung medizinischer Untersuchungen; Prüfung von Revisionsgründen durch Revisionsge
+- [BGH, Beschluss vom 23.07.2015 - 1 StR 149/15](1-str-149-15.md) — Revision in Strafsachen: Umfang der Mitteilungspflicht des Vorsitzenden über Verständigungsgespräche außerhalb der Hauptverhandlung in Bezug auf Erwartungen zur
+- [BGH, Beschluss vom 23.07.2015 - 1 StR 279/15](1-str-279-15.md) — Strafverfahren wegen Steuerhinterziehung und Urkundenfälschung: Gebrauch unechter Urkunden zur Täuschung im Rechtsverkehr durch Übergabe von Scheinrechnungen an
+- [BGH, Beschluss vom 23.07.2015 - 1 StR 52/15](1-str-52-15.md) — Prozesskostenhilfe für den Nebenkläger: Pflicht zur erneuten Darlegung der wirtschaftlichen Verhältnisse in jeder Instanz; rückwirkende Prozesskostenhilfebewill
+- [BGH, Beschluss vom 22.07.2015 - 1 StR 323/15](1-str-323-15.md) — Strafzumessung: Dulden einer falschen Aussage als Strafschärfungsgrund
+- [BGH, Urteil vom 22.07.2015 - 1 StR 447/14](1-str-447-14.md) — Steuerhinterziehung: Beihilfe zur Umsatzsteuerhinterziehung in einer Umsatzsteuerbetrugskette und Konkurrenzverhältnisse
+- [BGH, Beschluss vom 22.07.2015 - 1 StR 85/15](1-str-85-15.md) — Verfahrenseinstellung in der Revisionsinstanz: Fortbestehen eines Strafausspruchs eines einbezogenen Urteils
+- [BGH, Beschluss vom 21.07.2015 - 1 StR 16/15](1-str-16-15.md) — Strafverfahren u.a. wegen Ausspähens von Daten, Datenveränderung und Computerbetrugs: Notwendige tatrichterliche Feststellungen beim Ausspähen von Daten mittels
+- [BGH, Beschluss vom 09.07.2015 - 1 StR 141/15](1-str-141-15.md) — Beweisantrag im Strafverfahren: Anforderungen an eine Ablehnung wegen Bedeutungslosigkeit einer behaupteten Indiztatsache für die Glaubwürdigkeit eines Zeugen
+- [BGH, Beschluss vom 09.07.2015 - 1 StR 7/15](1-str-7-15.md) — Strafverfahren: Richterablehnung mit einer völlig ungeeigneten Begründung
+- [BGH, Beschluss vom 25.06.2015 - 1 StR 579/14](1-str-579-14.md) — Strafverfahren: Unterbrechung der Verfolgungsverjährung durch Durchsuchungsbeschluss bei einer Vielzahl von verfahrensgegenständlichen Taten der Steuerhinterzie
+- [BGH, Beschluss vom 24.06.2015 - 1 StR 76/15](1-str-76-15.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Begriff des Arbeitgebers; gleichzeitiges Vorenthalten von Arbeitnehmerbeiträgen und und Arbeitgeberbeiträgen al
+- [BGH, Beschluss vom 11.06.2015 - 1 StR 368/14](1-str-368-14.md) — Unerlaubtes Erbringen von Zahlungsdiensten: Verfall des gesamten aus der Tat erlangten Vermögensvorteils bei Verstoß gegen das Verbot des Aufstellens von Geldau
+- [BGH, Beschluss vom 11.06.2015 - 1 StR 590/14](1-str-590-14.md) — Revision in Strafsachen: Verfahrensrüge wegen fehlender Negativmitteilung über Verständigungsgespräche; verspätete Mitteilung über ein Verständigungsgespräch; P
+- [BGH, Beschluss vom 10.06.2015 - 1 StR 211/15](1-str-211-15.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Aufbewahrung eines Schlagrings in demselben Raum wie die gelagerten Drogen
+- [BGH, Beschluss vom 10.06.2015 - 1 StR 399/14](1-str-399-14.md) — Eine Bestrafung wegen Bestechlichkeit eines Amtsträgers eines anderen Mitgliedstaats der Europäischen Union setzt eine zweistufige Prüfung der Amtsträgerschaft 
+- [BGH, Beschluss vom 09.06.2015 - 1 StR 198/15](1-str-198-15.md) — Hauptverhandlung im Strafverfahren: Erneute Gewährung des letzten Wortes nach Negativmitteilung über eine Verständigung
+- [BGH, Urteil vom 09.06.2015 - 1 StR 606/14](1-str-606-14.md) — Zur Rechtswidrigkeit des Angriffs im Sinne von § 32 Abs. 2 StGB bei hoheitlichem Handeln.
+- [BGH, Beschluss vom 20.05.2015 - 1 StR 33/15](1-str-33-15.md) — Ist Giralgeld sowohl aus rechtmäßigen Zahlungseingängen als auch aus von § 261 Abs. 1 Satz 2 StGB erfassten Straftaten hervorgegangen, handelt es sich dabei ins
+- [BGH, Beschluss vom 20.05.2015 - 1 StR 429/14](1-str-429-14.md) — Strafverfahren wegen Steuerhinterziehung: Verwertbarkeit der Zeugenaussage bei Widerruf des Verzichts auf ein Zeugnisverweigerungsrecht
+- [BGH, Beschluss vom 20.05.2015 - 1 StR 578/14](1-str-578-14.md) — Strafverfahren: Verbindung von Strafsachen mit verschiedener örtlicher und sachlicher Zuständigkeit
+- [BGH, Beschluss vom 19.05.2015 - 1 StR 128/15](1-str-128-15.md) — 1. Zu den Voraussetzungen einer konventionswidrigen polizeilichen Tatprovokation (Anschluss an BGH, 30. Mai 2001, 1 StR 42/01, BGHSt 47, 44 ff.). 2. Zu den Anfo
+- [BGH, Beschluss vom 19.05.2015 - 1 StR 152/15](1-str-152-15.md) — Strafzumessung: Berücksichtung nicht angeklagter Diebstahlstaten bei Feststellung der Schwere der Mordschuld
+- [BGH, Beschluss vom 19.05.2015 - 1 StR 200/15](1-str-200-15.md) — Strafzumessung bei Erpressung: Strafschärfung bei Vermeidung oder Beseitigung von Tatspuren durch den Täter
+- [BGH, Beschluss vom 11.05.2015 - 1 StR 116/15](1-str-116-15.md) — Revision im Strafverfahren: Befugnis zur Verwerfung der Revision aus anderen Gründen als Form- und Fristmängel
+- [BGH, Beschluss vom 30.04.2015 - 1 StR 388/13](1-str-388-13.md) — Unerlaubtes Handeltreiben mit einem Grundstoff für die unerlaubte Herstellung von Betäubungsmitteln: Pseudoephedrin als Grundstoff nach GÜG
+- [BGH, Beschluss vom 30.04.2015 - 1 StR 426/13](1-str-426-13.md) — Strafverfahren wegen Beihilfe zum unerlaubten Handeltreiben mit einem zur unerlaubten Herstellung von Betäubungsmitteln geeigneten Grundstoff: Extrahierung des 
+- [BGH, Beschluss vom 30.04.2015 - 1 StR 99/14](1-str-99-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmittelgrundstoffen: Pseudoephedrin als Grundstoff zur Herstellung von Betäubungsmitteln
+- [BGH, Beschluss vom 29.04.2015 - 1 StR 235/14](1-str-235-14.md) — Bestechung und Bestechlichkeit im geschäftlichen Verkehr: Ablehnung eines Beweisantrags auf Vernehmung eines Auslandszeugen; unlautere Bevorzugung im Wettbewerb
+- [BGH, Urteil vom 28.04.2015 - 1 StR 594/14](1-str-594-14.md) — Voraussetzungen für die Anordnung der Sicherungsverwahrung: Trennung der Hangtätereigenschaft von der Gefährlichkeitsprognose
+- [BGH, Beschluss vom 21.04.2015 - 1 StR 555/14](1-str-555-14.md) — Einhaltung der Urteilsabsetzungsfrist in Strafsachen: Bedeutung des späteren Abhandenkommens der Originalurteilsurkunde; Nachweis der Fristwahrung; Herstellung 
+- [BGH, Beschluss vom 16.04.2015 - 1 StR 490/14](1-str-490-14.md) — Fälschung technischer Aufzeichnungen: Veränderung des Ausdrucks über Umsatzerlöse durch Zugriff auf den Aufzeichnungsvorgang in einem Geldspielautomaten; Hinter
+- [BGH, Beschluss vom 15.04.2015 - 1 StR 112/15](1-str-112-15.md) — Strafverfahren: Wirksamkeit der vom Verteidiger erklärten Rücknahme der Revision
+- [BGH, Urteil vom 15.04.2015 - 1 StR 337/14](1-str-337-14.md) — Vortäuschen einer Straftat: Erforderlichkeit einer Gesamtbetrachtung der Umstände des Einzelfalls
+- [BGH, Beschluss vom 24.03.2015 - 1 StR 39/15](1-str-39-15.md) — Strafurteil: Erneute Anordnung der Unterbringung eines bereits Untergebrachten in einem psychiatrischen Krankenhaus bei Begleitstrafe
+- [BGH, Beschluss vom 11.03.2015 - 1 StR 3/15](1-str-3-15.md) — Strafzumessung wegen versuchten Mordes: Verstoß gegen das Doppelverwertungsverbot bei strafschärfender Berücksichtigung des unbedingten Tötungsvorsatzes
+- [BGH, Beschluss vom 11.03.2015 - 1 StR 50/15](1-str-50-15.md) — Konkurrenzen bei Computerbetrug: Natürliche Handlungseinheit; Zäsur durch neuen Tatentschluss
+- [BGH, Urteil vom 26.02.2015 - 1 StR 574/14](1-str-574-14.md) — Totschlag: Minder schwerer Fall bei geringfügiger Tatprovokation
+- [BGH, Beschluss vom 24.02.2015 - 1 StR 245/09](1-str-245-09.md) — Rechtsanwaltsvergütung im Strafverfahren: Gegenstandswert der Verteidigertätigkeit bei Abwehr der Revision wegen Nichtanordnung des Verfalls von Wertersatz
+- [BGH, Urteil vom 12.02.2015 - 1 StR 444/14](1-str-444-14.md) — Strafverfahren wegen Geiselnahme und besonders schweren Raubes: Erforderlicher Zusammenhang zwischen Entführung und beabsichtigter Nötigungshandlung; aktuelle D
+- [BGH, Beschluss vom 11.02.2015 - 1 StR 335/14](1-str-335-14.md) — Verständigung im Strafverfahren: Umfang der Mitteilungspflicht des Vorsitzenden über Verständigungsgespräche außerhalb der Hauptverhandlung
+- [BGH, Beschluss vom 11.02.2015 - 1 StR 629/14](1-str-629-14.md) — Strafzumessung: Prüfungsreihenfolge der Milderungsgründe bei versuchtem Totschlag in einem minder schweren Fall
+- [BGH, Beschluss vom 10.02.2015 - 1 StR 20/15](1-str-20-15.md) — Gestattung der Verwertung der polizeilichen Vernehmung eines zur Zeugnisverweigerung berechtigten Zeugen: Anforderung an eine "qualifizierte" Belehrung in der H
+- [BGH, Beschluss vom 10.02.2015 - 1 StR 405/14](1-str-405-14.md) — 1. Die in einer Schenkungsteuererklärung enthaltene unzutreffende Angabe, vom Schenker keine Vorschenkungen erhalten zu haben, stellt sowohl für die Besteuerung
+- [BGH, Urteil vom 10.02.2015 - 1 StR 488/14](1-str-488-14.md) — Falsche Verdächtigung durch den Beschuldigten in einem Strafverfahren bei bewusst wahrheitswidriger Bezichtigung einer bis dahin unverdächtigen Person.
+- [BGH, Beschluss vom 29.01.2015 - 1 StR 216/14](1-str-216-14.md) — Umsatzsteuerhinterziehung: Relevanter Zeitpunkt für das Vorliegen der Voraussetzungen eines Vorsteuerabzugs; leistender Unternehmer im Sinne des Umsatzsteuerges
+- [BGH, Beschluss vom 29.01.2015 - 1 StR 359/13](1-str-359-13.md) — Revisionsverfahren in Strafsachen: Anhörungsrüge des Verurteilten
+- [BGH, Beschluss vom 29.01.2015 - 1 StR 587/14](1-str-587-14.md) — Strafverfahren gegen einen Rechtsanwalt wegen Untreue: Veruntreuung von Mandantengeldern; Eintritt des Vermögensschadens durch Zahlungseingang auf einem überzog
+- [BGH, Beschluss vom 27.01.2015 - 1 StR 142/14](1-str-142-14.md) — Steuerhinterziehung: Prüfung der Beihilfe im besonders schweren Fall
+- [BGH, Beschluss vom 27.01.2015 - 1 StR 393/14](1-str-393-14.md) — Strafverfahren: Mitteilung über Verständigungsgespräch
+- [BGH, Beschluss vom 27.01.2015 - 1 StR 613/14](1-str-613-14.md) — Gewerbsmäßige Steuerhehlerei bei illegaler Einfuhr von Tabakwaren: Fälligkeit inländischer Einfuhrabgaben; Wertersatzverfall; Tabaksteuer als ersparte Aufwendun
+- [BGH, Beschluss vom 15.01.2015 - 1 StR 315/14](1-str-315-14.md) — Zum Beruhen bei Verstößen gegen die Mitteilungspflicht gemäß § 243 Abs. 4 Satz 1 StPO.
+- [BGH, Beschluss vom 14.01.2015 - 1 ARs 21/14](1-ars-21-14.md) — Voraussetzungen der Verwertung einer während der richterlichen Vernehmung getätigten Zeugenaussage bei Zeugnisverweigerung in der Hauptverhandlung
+- [BGH, Urteil vom 14.01.2015 - 1 StR 302/13](1-str-302-13.md) — 1. Die nicht geringe Menge der synthetischen Cannabinoide JWH-018 und CP 47,497-C8-Homologes beginnt bei zwei Gramm. 2. Die nicht geringe Menge der synthetische
+- [BGH, Urteil vom 14.01.2015 - 1 StR 351/14](1-str-351-14.md) — Strafverfahren: Anforderungen an die Beweiswürdigung bei einem freisprechenden Urteil
+- [BGH, Beschluss vom 14.01.2015 - 1 StR 573/14](1-str-573-14.md) — Strafverfahren: Zulässigkeitsvoraussetzungen für Antrag auf Wiedereinsetzung in den vorigen Stand
+- [BGH, Urteil vom 14.01.2015 - 1 StR 93/14](1-str-93-14.md) — Umsatzsteuerhinterziehung: Berechtigung zum Vorsteuerabzug vor Beginn der Ausführung der Leistung
+- [BGH, Urteil vom 13.01.2015 - 1 StR 454/14](1-str-454-14.md) — Herbeiführung einer Sprengstoffexplosion: Strafzumessung bei hohem Maß der Pflichtwidrigkeit und hohem Sachschaden; Anforderungen an den Gehilfenvorsatz; Strafa

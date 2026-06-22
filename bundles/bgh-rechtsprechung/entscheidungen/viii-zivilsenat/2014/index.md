@@ -1,0 +1,98 @@
+# VIII. Zivilsenat – 2014
+
+94 Entscheidung(en).
+
+- [BGH, Urteil vom 17.12.2014 - VIII ZR 86/13](viii-zr-86-13.md) — Wohnraummiete im Mehrparteienhaus: Inhaltsanforderungen an eine Mieterhöhungserklärung wegen Modernisierungsmaßnahmen
+- [BGH, Urteil vom 17.12.2014 - VIII ZR 87/13](viii-zr-87-13.md) — Wohnraummiete: Voraussetzungen wirksamer Mieterhöhungserklärungen wegen der Durchführung von Modernisierungsmaßnahmen in verschiedenen Bauabschnitten
+- [BGH, Urteil vom 17.12.2014 - VIII ZR 88/13](viii-zr-88-13.md) — 1. Werden mit einer Modernisierungsmaßnahme fällige Instandsetzungsmaßnahmen erspart, kann der auf die Instandsetzung entfallende Kostenanteil nicht auf den Woh
+- [BGH, Urteil vom 17.12.2014 - VIII ZR 89/13](viii-zr-89-13.md) — Wohnraummiete: Voraussetzungen wirksamer Mieterhöhungserklärungen wegen der Durchführung von Modernisierungsmaßnahmen in verschiedenen Bauabschnitten
+- [BGH, Urteil vom 10.12.2014 - VIII ZR 25/14](viii-zr-25-14.md) — Zur Kündigung eines Mietverhältnisses gegenüber mehreren Mietern.
+- [BGH, Urteil vom 10.12.2014 - VIII ZR 9/14](viii-zr-9-14.md) — 1. Auch bei hohen Wohnungsleerständen (hier: im Hinblick auf einen im Rahmen der Stadtplanung vorgesehenen Abriss eines 28-Familienhauses) hat es grundsätzlich 
+- [BGH, Urteil vom 10.12.2014 - VIII ZR 90/14](viii-zr-90-14.md) — 1. Zur Auslegung der Allgemeinen Geschäftsbedingungen von eBay - hier: Vorzeitige Angebotsbeendigung (Fortführung von BGH, Urteil vom 8. Juni 2011, VIII ZR 305/
+- [BGH, Beschluss vom 09.12.2014 - VIII ZR 160/14](viii-zr-160-14.md) — BGH, Beschluss VIII ZR 160/14
+- [BGH, Beschluss vom 09.12.2014 - VIII ZR 196/14](viii-zr-196-14.md) — Gebrauchtwagenkauf: Ermittlung der Nutzungsentschädigung bei Rückabwicklung des Kaufvertrags
+- [BGH, Urteil vom 03.12.2014 - VIII ZR 224/13](viii-zr-224-13.md) — Die in einem Formularmietvertrag über eine (damals) preisgebundene Wohnung, bei dem der Vermieter die Kosten der Schönheitsreparaturen zu tragen hat und hierfür
+- [BGH, Urteil vom 03.12.2014 - VIII ZR 370/13](viii-zr-370-13.md) — Zur ergänzenden Vertragsauslegung bei einem langjährigen Gasversorgungsvertrag, in dem mangels wirksamer Einbeziehung der Allgemeinen Geschäftsbedingungen des V
+- [BGH, Urteil vom 19.11.2014 - VIII ZR 191/13](viii-zr-191-13.md) — 1. Hat der Vermieter eine Wohngebäudeversicherung abgeschlossen, deren Kosten vom Mieter getragen werden, und verursacht der Mieter leicht fahrlässig einen von 
+- [BGH, Urteil vom 19.11.2014 - VIII ZR 79/14](viii-zr-79-14.md) — 1. Die Berufungsbeschwer kann mit allen im Rahmen von § 286 Abs. 1 ZPO zur Führung des Vollbeweises zugelassenen Beweismitteln, soweit präsent, glaubhaft gemach
+- [BGH, Urteil vom 12.11.2014 - VIII ZR 112/14](viii-zr-112-14.md) — Für die formelle Ordnungsgemäßheit einer Betriebskostenabrechnung ist es ohne Bedeutung, ob die dort für den jeweiligen Mieter angesetzten Kosten auf abgelesene
+- [BGH, Urteil vom 12.11.2014 - VIII ZR 42/14](viii-zr-42-14.md) — Zur Wirksamkeit eines im Wege der Internetauktion ("eBay") abgeschlossenen Kaufvertrages, bei dem ein grobes Missverhältnis zwischen Leistung und Gegenleistung 
+- [BGH, Beschluss vom 11.11.2014 - VIII ZR 302/13](viii-zr-302-13.md) — Von einer Beweiserhebung darf grundsätzlich nicht bereits deswegen abgesehen werden, weil die beweisbelastete Partei keine schlüssige Erklärung dafür liefert, w
+- [BGH, Beschluss vom 11.11.2014 - VIII ZR 37/14](viii-zr-37-14.md) — Rücktritt vom Pferdekauf: Unmöglichkeit der Übereignung nach zum Todes des Tieres geführtem Verladeversuch
+- [BGH, Urteil vom 05.11.2014 - VIII ZR 257/13](viii-zr-257-13.md) — Es steht den Mietvertragsparteien im Wohnraummietrecht frei, anstelle eines konkreten Umlageschlüssels ein einseitiges Leistungsbestimmungsrecht nach billigem E
+- [BGH, Beschluss vom 04.11.2014 - VIII ZB 38/14](viii-zb-38-14.md) — 1. Die allabendliche Ausgangskontrolle fristgebundener Anwaltsschriftsätze mittels Abgleichs mit dem Fristenkalender dient nicht allein dazu, zu überprüfen, ob 
+- [BGH, Urteil vom 22.10.2014 - VIII ZR 195/13](viii-zr-195-13.md) — 1. § 24 LFGB ist eine Ausnahmeregelung, die auf der Grundlage von § 276 Abs. 1 Satz 1 BGB abweichend vom Verschuldenserfordernis als Regelform des Vertretenmüss
+- [BGH, Urteil vom 22.10.2014 - VIII ZR 41/14](viii-zr-41-14.md) — 1. Ansprüche des Vermieters auf Betriebskostennachzahlungen aus Wohnraummietverträgen können im Urkundenprozess geltend gemacht werden. 2. Zu den Anforderungen 
+- [BGH, Urteil vom 22.10.2014 - VIII ZR 97/14](viii-zr-97-14.md) — Eine Betriebskostenabrechnung ist nicht deshalb unwirksam, weil eine - nicht näher erläuterte - Umlage nach "Personenmonaten" erfolgt. Ebenso wenig bedarf es de
+- [BGH, Beschluss vom 21.10.2014 - VIII ZR 34/14](viii-zr-34-14.md) — Von einer Beweiserhebung darf grundsätzlich nicht bereits deswegen abgesehen werden, weil die beweisbelastete Partei keine schlüssige Erklärung dafür liefert, w
+- [BGH, Beschluss vom 14.10.2014 - VIII ZR 240/14](viii-zr-240-14.md) — Nichtzulassungsbeschwerde: Beschwer bei Abweisung einer Räumungsklage; Verfassungsmäßigkeit der Übergangsregelung zur Bestimmung des Beschwerdewertes
+- [BGH, Urteil vom 24.09.2014 - VIII ZR 350/13](viii-zr-350-13.md) — Eine infolge der Unwirksamkeit einer formularmäßig vereinbarten Preisänderungsklausel nach § 24 Abs. 3 AVBFernwärmeV in der Fassung vom 20. Juni 1980 (= § 24 Ab
+- [BGH, Urteil vom 24.09.2014 - VIII ZR 394/12](viii-zr-394-12.md) — 1a. Für die Beurteilung, ob eine wesentliche Vertragsverletzung vorliegt, ist, wenn die Vertragswidrigkeit auf einer Abweichung von der vertraglich vereinbarten
+- [BGH, Urteil vom 17.09.2014 - VIII ZR 258/13](viii-zr-258-13.md) — Zur Inhaltskontrolle von Spannungsklauseln im unternehmerischen Verkehr (im Anschluss an Senatsurteile vom 14. Mai 2014, VIII ZR 114/13 und VIII ZR 116/13).
+- [BGH, Beschluss vom 16.09.2014 - VIII ZR 116/13](viii-zr-116-13.md) — Unternehmereigenschaft einer Wohnungsbaugenossenschaft bei Abschluss eines Gaslieferungsvertrages
+- [BGH, Beschluss vom 16.09.2014 - VIII ZR 221/14](viii-zr-221-14.md) — Räumungsrechtsstreit nach Kündigung eines Wohnraummietvertrages wegen Zahlungsverzuges: Einstweilige Einstellung einer Räumungsvollstreckung im Verfahren der Ni
+- [BGH, Beschluss vom 26.08.2014 - VIII ZR 335/13](viii-zr-335-13.md) — Leasingvertrag über Elektrotherapiegeräte für eine Physiotherapiepraxis: Zurechenbarkeit einer ohne Kenntnis des Leasinggebers begangenen Aufklärungspflichtverl
+- [BGH, Beschluss vom 26.08.2014 - VIII ZR 352/12](viii-zr-352-12.md) — Kostenentscheidung: Differenzierung hinsichtlich des Streitwerts für die Zeit vor und nach übereinstimmender Hauptsacheerledigungserklärung
+- [BGH, Beschluss vom 22.07.2014 - VIII ZR 15/14](viii-zr-15-14.md) — Allgemeine Geschäftsbedingungen im Kfz-Leasingvertrag: Wirksamkeit einer Restwertausgleichsklausel
+- [BGH, Urteil vom 22.07.2014 - VIII ZR 313/13](viii-zr-313-13.md) — Das typischerweise an alle Mieter eines Grundstücks (hier: eines Einfamilienhauses) gerichtete Leistungsangebot des Energieversorgungsunternehmens (sogenannte "
+- [BGH, Beschluss vom 22.07.2014 - VIII ZR 49/13](viii-zr-49-13.md) — Berichtigung einer Kostenentscheidung bei Berichtigung eines Urteils wegen offenbarer Unrichtigkeit
+- [BGH, Urteil vom 09.07.2014 - VIII ZR 36/14](viii-zr-36-14.md) — Wohnraummiete: Stillschweigende Vereinbarung einer Änderung der Betriebskostenumlage
+- [BGH, Urteil vom 09.07.2014 - VIII ZR 376/13](viii-zr-376-13.md) — 1. Ein einheitliches Mietverhältnis über Wohnräume und Geschäftsräume ist zwingend entweder als Wohnraummietverhältnis oder als Mietverhältnis über andere Räume
+- [BGH, Urteil vom 02.07.2014 - VIII ZR 298/13](viii-zr-298-13.md) — Wohnraummiete: Konkludente Annahme des Angebots des Vermieters auf Gebrauchsüberlassung der um einen Anbau erweiterten Wohnfläche gegen Zahlung einer erhöhten M
+- [BGH, Urteil vom 02.07.2014 - VIII ZR 316/13](viii-zr-316-13.md) — In dem Leistungsangebot eines Versorgungsunternehmens ist grundsätzlich ein Vertragsangebot zum Abschluss eines Versorgungsvertrags in Form einer sogenannten Re
+- [BGH, Beschluss vom 01.07.2014 - VIII ZR 72/14](viii-zr-72-14.md) — Wohnraummiete: Formelle Anforderungen an das Mieterhöhungsverlangen einer juristischen Person
+- [BGH, Urteil vom 25.06.2014 - VIII ZR 10/14](viii-zr-10-14.md) — Die Frist für die Erklärung des Widerspruchs gegen die stillschweigende Verlängerung des Mietverhältnisses (§ 545 Abs. 1 BGB) wird durch eine vor Fristablauf ei
+- [BGH, Urteil vom 25.06.2014 - VIII ZR 169/13](viii-zr-169-13.md) — Die EEG-Umlage nach § 37 Abs. 2 EEG 2012 ist keine verfassungswidrige Sonderabgabe.
+- [BGH, Urteil vom 25.06.2014 - VIII ZR 344/13](viii-zr-344-13.md) — 1. Für die Wirksamkeit einer an § 24 Abs. 3 Satz 1 AVBFernwärmeV in der Fassung vom 20. Juni 1980 (jetzt: § 24 Abs. 4 AVBFernwärmeV) zu messenden Preisanpassung
+- [BGH, Urteil vom 11.06.2014 - VIII ZR 349/13](viii-zr-349-13.md) — 1. Ein mehrjähriger (berufsbedingter) Auslandsaufenthalt des Mieters kann ein berechtigtes Interesse an der Überlassung eines Teils des Wohnraums an einen Dritt
+- [BGH, Urteil vom 04.06.2014 - VIII ZR 289/13](viii-zr-289-13.md) — 1. In die Würdigung, ob der Vermieter angesichts einer Pflichtverletzung des Mieters ein berechtigtes Interesse (§ 573 Abs. 2 Nr. 1 BGB) an der Beendigung des M
+- [BGH, Urteil vom 04.06.2014 - VIII ZR 4/13](viii-zr-4-13.md) — Stufenklage nach Ausübung des Vermieterpfandrechts: Rechtsschutzbedürfnis für Herausgabeklage des Mieters bei zur Abholung bereit gestellten Einrichtungsgegenst
+- [BGH, Beschluss vom 03.06.2014 - VIII ZB 23/14](viii-zb-23-14.md) — Wiedereinsetzung in den vorigen Stand: Überflüssigkeit des Nachholens der versäumten Prozesshandlung
+- [BGH, Urteil vom 28.05.2014 - VIII ZR 179/13](viii-zr-179-13.md) — 1. Die in ein Antragsformular auf Abschluss eines Verbraucherleasingvertrags über ein Kraftfahrzeug vom Leasinggeber deutlich sichtbar eingesetzte Formularklaus
+- [BGH, Urteil vom 28.05.2014 - VIII ZR 241/13](viii-zr-241-13.md) — Kfz-Leasingvertrag: Wirksamkeit einer formularmäßig vereinbarten Restwertgarantie; Umsatzsteuerpflicht einer Ausgleichszahlung nach Restwertabrechnung
+- [BGH, Urteil vom 28.05.2014 - VIII ZR 410/12](viii-zr-410-12.md) — 1. Eine in einem dem UN-Kaufrechtsübereinkommen (CISG) unterfallenden Kaufvertrag enthaltene Rückkaufverpflichtung untersteht in Umkehrung der Pflichten des urs
+- [BGH, Urteil vom 28.05.2014 - VIII ZR 94/13](viii-zr-94-13.md) — 1. Die Beurteilung der Frage, ob eine Pflichtverletzung unerheblich im Sinne des § 323 Abs. 5 Satz 2 BGB ist, erfordert eine umfassende Interessenabwägung auf d
+- [BGH, Urteil vom 14.05.2014 - VIII ZR 114/13](viii-zr-114-13.md) — 1. Eine in den Allgemeinen Geschäftsbedingungen eines Erdgassondervertrags enthaltene Preisregelung, die sowohl der Berechnung des bei Vertragsbeginn geltenden 
+- [BGH, Urteil vom 14.05.2014 - VIII ZR 266/13](viii-zr-266-13.md) — 1. Bei Sachverhalten mit einer Verbindung zum Recht eines ausländischen Staates unterliegt die Aufrechnung gemäß Art. 17 Abs. 1 Rom I-VO der für die Hauptforder
+- [BGH, Beschluss vom 13.05.2014 - VIII ZR 264/13](viii-zr-264-13.md) — Zulassung der Revision durch das Berufungsgericht: Beschränkung der Zulassung auf die beschwerte Prozesspartei
+- [BGH, Beschluss vom 13.05.2014 - VIII ZR 366/13](viii-zr-366-13.md) — Wohnraummietvertrag auf unbestimmte Zeit: Wert der Beschwer bei Räumungsklage
+- [BGH, Urteil vom 07.05.2014 - VIII ZR 234/13](viii-zr-234-13.md) — Während des laufenden Mietverhältnisses darf der Vermieter eine Mietsicherheit wegen streitiger Forderungen gegen den Mieter nicht verwerten.
+- [BGH, Urteil vom 30.04.2014 - VIII ZR 103/13](viii-zr-103-13.md) — Eine in einem Mietvertrag mit fester Laufzeit als Einmalzahlung vereinbarte und vor der Beschlagnahme vollständig gezahlte Miete ist den Hypothekengläubigern ge
+- [BGH, Urteil vom 30.04.2014 - VIII ZR 275/13](viii-zr-275-13.md) — 1. § 439 Abs. 2 BGB erfasst verschuldensunabhängig auch Sachverständigenkosten, die einem Käufer entstehen, um die Ursache der Mangelerscheinungen des Kaufgegen
+- [BGH, Urteil vom 30.04.2014 - VIII ZR 284/13](viii-zr-284-13.md) — Zu den Anforderungen an die Begründung einer Kündigung wegen Eigenbedarfs.
+- [BGH, Beschluss vom 29.04.2014 - VIII ZB 42/13](viii-zb-42-13.md) — Nachholung der Entscheidung über die Zulassung der Berufung durch das Berufungsgericht
+- [BGH, Beschluss vom 29.04.2014 - VIII ZR 365/13](viii-zr-365-13.md) — Wohnraummietvertrag auf unbestimmte Zeit: Wert der Beschwer bei Räumungsklage
+- [BGH, Urteil vom 09.04.2014 - VIII ZR 107/13](viii-zr-107-13.md) — 1. Die Vorlage einer "frei erfundenen" Vorvermieterbescheinigung stellt eine erhebliche Verletzung (vor)vertraglicher Pflichten dar, die eine Vertragsfortsetzun
+- [BGH, Urteil vom 09.04.2014 - VIII ZR 215/13](viii-zr-215-13.md) — Bei der Rückabwicklung eines Gebrauchtwagenkaufs ist der Wertersatz nach § 346 Abs. 2 Satz 1 Nr. 1 BGB für herauszugebende Nutzungen auf der Grundlage des Brutt
+- [BGH, Urteil vom 09.04.2014 - VIII ZR 404/12](viii-zr-404-12.md) — 1a. Der Begriff der Allgemeinen Geschäftsbedingung setzt eine Erklärung des Verwenders voraus, die den Vertragsinhalt regeln soll. Für die Unterscheidung von al
+- [BGH, Beschluss vom 08.04.2014 - VIII ZB 30/13](viii-zb-30-13.md) — Klage auf Zustimmung zur Mieterhöhung: Wert der Berufungsbeschwer des beklagten Mieters
+- [BGH, Beschluss vom 08.04.2014 - VIII ZR 216/13](viii-zr-216-13.md) — Wohnraummiete: Wirksamkeit eines unter Angabe von Vergleichswohnungen erklärten Mieterhöhungsverlangens; Anforderungen an die Vergleichbarkeit der genannten Woh
+- [BGH, Beschluss vom 08.04.2014 - VIII ZR 91/13](viii-zr-91-13.md) — Handelskauf: Geltung der handelsrechtlichen Rüge- und Untersuchungsobliegenheit bei Weiterlieferung der Ware an den Endabnehmer
+- [BGH, Urteil vom 02.04.2014 - VIII ZR 19/13](viii-zr-19-13.md) — Zur Zulässigkeit einer auf Ersatz künftigen Schadens gerichteten Feststellungsklage, wenn die Möglichkeit eines Schadenseintritts zwar minimal über dem allgemei
+- [BGH, Urteil vom 02.04.2014 - VIII ZR 201/13](viii-zr-201-13.md) — Ermittelt der Vermieter die auf das abzurechnende Kalenderjahr entfallenden Betriebskosten aus kalenderübergreifenden Rechnungen des Versorgers, ist die Abrechn
+- [BGH, Urteil vom 02.04.2014 - VIII ZR 231/13](viii-zr-231-13.md) — Auch bei einem Mieterhöhungsverlangen (§ 558a Abs. 1 BGB) genügt es, wenn sich die Vertretung des Vermieters durch einen Bevollmächtigten (hier: die Hausverwalt
+- [BGH, Urteil vom 02.04.2014 - VIII ZR 282/13](viii-zr-282-13.md) — Wohnraummiete: Offenlegung der Stellvertretung bei einem Mieterhöhungsverlangen
+- [BGH, Urteil vom 02.04.2014 - VIII ZR 46/13](viii-zr-46-13.md) — 1. Zur Abgrenzung von Kaufvertrag und Werklieferungsvertrag (hier: Lieferung von Aluminium-Profilleisten in einem bestimmten Farbton durch einen Fachgroßhändler
+- [BGH, Beschluss vom 01.04.2014 - VIII ZR 1/14](viii-zr-1-14.md) — Zwangsvollstreckung: Voraussetzungen einer einstweiligen Einstellung im Revisionsverfahren; Begriff des "unersetzlichem Nachteils"
+- [BGH, Urteil vom 19.03.2014 - VIII ZR 203/13](viii-zr-203-13.md) — Der Käufer einer vermieteten Wohnung kann vom Verkäufer ermächtigt werden, schon vor der Eigentumsumschreibung im Grundbuch und dem damit verbundenen Eintritt d
+- [BGH, Beschluss vom 18.03.2014 - VIII ZR 317/13](viii-zr-317-13.md) — Wohnraummiete: Mietminderung und Mängelanzeige bei Ausweitung eines Schimmelschadens aufgrund unterlassener Mängelbeseitigung
+- [BGH, Urteil vom 12.03.2014 - VIII ZR 147/13](viii-zr-147-13.md) — Zur Duldung einer Modernisierungsmaßnahme nach § 554 BGB in der Fassung vom 2. Januar 2002 bei Vereinbarung einer Indexmiete gemäß § 557b BGB.
+- [BGH, Beschluss vom 11.03.2014 - VIII ZR 261/12](viii-zr-261-12.md) — § 45 Abs. 1 Satz 3 GKG findet keine Anwendung, wenn mit Klage und Widerklage lediglich Teilansprüche aus demselben Rechtsverhältnis hergeleitet werden, die sich
+- [BGH, Beschluss vom 11.03.2014 - VIII ZR 31/13](viii-zr-31-13.md) — Zum Erlöschen der einem Leasingnehmer im Rahmen einer leasingtypischen Abtretungskonstruktion erteilten Ermächtigung, Ansprüche aus einer Rückabwicklung des Bes
+- [BGH, Beschluss vom 11.03.2014 - VIII ZR 374/13](viii-zr-374-13.md) — Mietrecht: Rechtliche Selbständigkeit und gesonderte Kündbarkeit von Wohnraum- und Garagenmietvertrag
+- [BGH, Urteil vom 05.03.2014 - VIII ZR 205/13](viii-zr-205-13.md) — Zum Umfang des Schadensersatzanspruchs des Vermieters gegen den Mieter wegen eines verlorenen Wohnungsschlüssels (hier: Austausch der Schließanlage einer Wohnun
+- [BGH, Beschluss vom 18.02.2014 - VIII ZR 83/13](viii-zr-83-13.md) — Wohnraummiete: Präklusion von Mietereinwendungen gegen die Betriebskostenabrechnung trotz vereinbarter Betriebskostenpauschale
+- [BGH, Beschluss vom 11.02.2014 - VIII ZR 214/13](viii-zr-214-13.md) — Nichtzulassungsbeschwerde: Beschwerdewert bei Verurteilung zur Räumung
+- [BGH, Beschluss vom 11.02.2014 - VIII ZR 220/13](viii-zr-220-13.md) — Wohnraummiete in Berlin: Mieterhöhungsverlangen für eine Villa unter Bezugnahme auf ein Sachverständigengutachten und den Mietspiegel
+- [BGH, Beschluss vom 22.01.2014 - VIII ZR 135/13](viii-zr-135-13.md) — Wohnraummiete: Reichweite der dem Mangelbeseitigungsanspruch des Mieters entgegenstehenden Einrede der faktischen Unmöglichkeit
+- [BGH, Urteil vom 22.01.2014 - VIII ZR 178/13](viii-zr-178-13.md) — Auf das so genannte Eintrittsmodell, bei dem ein Verbraucher zunächst einen Kaufvertrag über die spätere Leasingsache und zur Finanzierung einen Leasingvertrag 
+- [BGH, Urteil vom 22.01.2014 - VIII ZR 391/12](viii-zr-391-12.md) — Zum Zustandekommen eines Energielieferungsvertrages durch bloße Belieferung eines unter Zwangsverwaltung stehenden Grundstücks mit Strom.
+- [BGH, Beschluss vom 21.01.2014 - VIII ZA 21/13](viii-za-21-13.md) — Nichtzulassungsbeschwerde: Beschwer bei Verurteilung zur Räumung
+- [BGH, Beschluss vom 21.01.2014 - VIII ZR 48/13](viii-zr-48-13.md) — Wohnraummiete: Vorrangige Pflicht des Vermieters zur Inanspruchnahme des Gebäudeversicherers bei einem Wohnungsbrand; Nutzungsentschädigung bei Teilräumung nach
+- [BGH, Urteil vom 15.01.2014 - VIII ZR 100/13](viii-zr-100-13.md) — 1. Die unter Verstoß gegen § 170 Abs. 1 ZPO erfolgte Zustellung eines Vollstreckungsbescheids an eine aus dem zuzustellenden Titel nicht erkennbar prozessunfähi
+- [BGH, Urteil vom 15.01.2014 - VIII ZR 111/13](viii-zr-111-13.md) — 1. Auch Allgemeine Geschäftsbedingungen von Fernwärmeunternehmen werden nur aufgrund einer rechtsgeschäftlichen Einbeziehungsvereinbarung Inhalt eines Vertrages
+- [BGH, Urteil vom 15.01.2014 - VIII ZR 70/13](viii-zr-70-13.md) — Zur Beweislastumkehr hinsichtlich eines latenten Mangels beim Verbrauchsgüterkauf (hier: Vorschädigung der Sehnen eines Pferdes als Ursache einer akuten Verletz
+- [BGH, Urteil vom 15.01.2014 - VIII ZR 80/13](viii-zr-80-13.md) — 1. Zu den Voraussetzungen einer ergänzenden Vertragsauslegung (§§ 157, 133 BGB) bei einer infolge der Unwirksamkeit einer formularmäßig vereinbarten Preisänderu
+- [BGH, Urteil vom 08.01.2014 - VIII ZR 210/13](viii-zr-210-13.md) — Erteilt der Vermieter dem Mieter eine Erlaubnis zur Untervermietung, so kann dieser ohne besondere Anhaltspunkte nicht davon ausgehen, dass die Erlaubnis eine t
+- [BGH, Urteil vom 08.01.2014 - VIII ZR 63/13](viii-zr-63-13.md) — Der Erklärungsinhalt eines im Rahmen einer Internetauktion abgegebenen Verkaufsangebots ist unter Berücksichtigung der Allgemeinen Geschäftsbedingungen des Unte
+- [BGH, Beschluss vom 07.01.2014 - VIII ZR 137/13](viii-zr-137-13.md) — Internationales Handelsgeschäft: Wirksamkeit einer per E-Mail getroffenen Gerichtsstandsklausel

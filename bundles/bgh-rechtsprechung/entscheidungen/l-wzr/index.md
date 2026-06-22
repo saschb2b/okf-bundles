@@ -1,101 +1,25 @@
-# l-wzr
+# L WZR
 
-41 Entscheidung(en).
+Verfahrens- oder Hilfsregister des Bundesgerichtshofs. 41 Entscheidung(en).
 
-## 2025
+## Nach Jahr
 
-- [BGH, Beschluss vom 20.11.2025 - LwZR 1/25](2025/lwzr-1-25.md)
-- [BGH, Beschluss vom 09.05.2025 - LwZR 6/24](2025/lwzr-6-24.md)
-
-## 2024
-
-- [BGH, Beschluss vom 17.10.2024 - LwZR 4/22](2024/lwzr-4-22.md)
-- [BGH, Beschluss vom 27.06.2024 - LwZR 3/24](2024/lwzr-3-24.md)
-
-## 2022
-
-- [BGH, Urteil vom 25.11.2022 - LwZR 5/21](2022/lwzr-5-21.md)
-- [BGH, Urteil vom 25.11.2022 - LwZR 6/21](2022/lwzr-6-21.md)
-- [BGH, Beschluss vom 20.10.2022 - LwZR 7/21](2022/lwzr-7-21.md)
-
-## 2021
-
-- [BGH, Beschluss vom 24.03.2021 - LwZR 4/20](2021/lwzr-4-20.md)
-
-## 2020
-
-- [BGH, Beschluss vom 06.11.2020 - LwZR 2/20](2020/lwzr-2-20.md)
-- [BGH, Urteil vom 06.11.2020 - LwZR 5/19](2020/lwzr-5-19.md)
-
-## 2019
-
-- [BGH, Teilurteil vom 10.05.2019 - LwZR 4/18](2019/lwzr-4-18.md)
-
-## 2017
-
-- [BGH, Urteil vom 24.11.2017 - LwZR 5/16](2017/lwzr-5-16.md)
-- [BGH, Urteil vom 28.04.2017 - LwZR 4/16](2017/lwzr-4-16.md)
-
-## 2014
-
-- [BGH, Urteil vom 28.11.2014 - LwZR 6/13](2014/lwzr-6-13.md)
-- [BGH, Urteil vom 25.04.2014 - LwZR 2/13](2014/lwzr-2-13.md)
-
-## 2012
-
-- [BGH, Urteil vom 20.04.2012 - LwZR 5/11](2012/lwzr-5-11.md)
-
-## 2011
-
-- [BGH, Urteil vom 25.11.2011 - LwZR 4/11](2011/lwzr-4-11.md)
-- [BGH, Urteil vom 25.11.2011 - LwZR 6/11](2011/lwzr-6-11.md)
-- [BGH, Urteil vom 15.04.2011 - LwZR 7/10](2011/lwzr-7-10.md)
-
-## 2010
-
-- [BGH, Urteil vom 26.11.2010 - LwZR 22/09](2010/lwzr-22-09.md)
-- [BGH, Urteil vom 23.04.2010 - LwZR 15/08](2010/lwzr-15-08.md)
-- [BGH, Urteil vom 23.04.2010 - LwZR 20/09](2010/lwzr-20-09.md)
-
-## 2009
-
-- [BGH, Urteil vom 27.11.2009 - LwZR 11/09](2009/lwzr-11-09.md)
-
-## 2008
-
-- [BGH, Beschluss vom 08.07.2008 - LwZR 5/08](2008/lwzr-5-08.md)
-- [BGH, Beschluss vom 25.04.2008 - LwZR 10/07](2008/lwzr-10-07.md)
-
-## 2007
-
-- [BGH, Urteil vom 23.11.2007 - LwZR 13/06](2007/lwzr-13-06.md)
-
-## 2006
-
-- [BGH, Urteil vom 24.11.2006 - LwZR 6/05](2006/lwzr-6-05.md)
-
-## 2005
-
-- [BGH, Urteil vom 29.04.2005 - LwZR 8/04](2005/lwzr-8-04.md)
-
-## 2003
-
-- [BGH, Beschluss vom 18.11.2003 - LwZR 2/03](2003/lwzr-2-03.md)
-
-## 2002
-
-- [BGH, Beschluss vom 15.11.2002 - LwZR 5/02](2002/lwzr-5-02.md)
-- [BGH, Urteil vom 15.11.2002 - LwZR 7/02](2002/lwzr-7-02.md)
-- [BGH, Urteil vom 15.11.2002 - LwZR 8/02](2002/lwzr-8-02.md)
-- [BGH, Beschluss vom 07.11.2002 - LwZR 9/02](2002/lwzr-9-02.md)
-- [BGH, Urteil vom 26.04.2002 - LwZR 10/01](2002/lwzr-10-01.md)
-- [BGH, Urteil vom 26.04.2002 - LwZR 18/01](2002/lwzr-18-01.md)
-- [BGH, Urteil vom 26.04.2002 - LwZR 20/01](2002/lwzr-20-01.md)
-
-## 2001
-
-- [BGH, Beschluss vom 09.11.2001 - LwZR 5/01](2001/lwzr-5-01.md)
-- [BGH, Beschluss vom 09.11.2001 - LwZR 7/01](2001/lwzr-7-01.md)
-- [BGH, Urteil vom 27.04.2001 - LwZR 10/00](2001/lwzr-10-00.md)
-- [BGH, Urteil vom 27.04.2001 - LwZR 6/00](2001/lwzr-6-00.md)
-- [BGH, Beschluss vom 29.03.2001 - LwZR 3/01](2001/lwzr-3-01.md)
+- [2025](2025/index.md) (2)
+- [2024](2024/index.md) (2)
+- [2022](2022/index.md) (3)
+- [2021](2021/index.md) (1)
+- [2020](2020/index.md) (2)
+- [2019](2019/index.md) (1)
+- [2017](2017/index.md) (2)
+- [2014](2014/index.md) (2)
+- [2012](2012/index.md) (1)
+- [2011](2011/index.md) (3)
+- [2010](2010/index.md) (3)
+- [2009](2009/index.md) (1)
+- [2008](2008/index.md) (2)
+- [2007](2007/index.md) (1)
+- [2006](2006/index.md) (1)
+- [2005](2005/index.md) (1)
+- [2003](2003/index.md) (1)
+- [2002](2002/index.md) (7)
+- [2001](2001/index.md) (5)

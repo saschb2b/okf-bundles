@@ -1,0 +1,270 @@
+# 5. Strafsenat – 2025
+
+266 Entscheidung(en).
+
+- [BGH, Beschluss vom 23.12.2025 - 5 StR 603/25](5-str-603-25.md) — BGH, Beschluss 5 StR 603/25
+- [BGH, Beschluss vom 18.12.2025 - 5 StR 552/25](5-str-552-25.md) — BGH, Beschluss 5 StR 552/25
+- [BGH, Beschluss vom 17.12.2025 - 5 ARs 13/24](5-ars-13-24.md) — Anspruch kirchlicher Einrichtungen auf Akteneinsicht in staatsanwaltschaftliche Ermittlungsakten
+- [BGH, Beschluss vom 17.12.2025 - 5 StR 358/25](5-str-358-25.md) — Gegenstand der Urteilsfindung im Strafprozess bei abweichendem Bild des Geschehens im Verfahrensverlauf
+- [BGH, Urteil vom 17.12.2025 - 5 StR 413/25](5-str-413-25.md) — BGH, Urteil 5 StR 413/25
+- [BGH, Beschluss vom 17.12.2025 - 5 StR 515/25](5-str-515-25.md) — BGH, Beschluss 5 StR 515/25
+- [BGH, Beschluss vom 17.12.2025 - 5 StR 537/25](5-str-537-25.md) — BGH, Beschluss 5 StR 537/25
+- [BGH, Beschluss vom 17.12.2025 - 5 StR 581/25](5-str-581-25.md) — BGH, Beschluss 5 StR 581/25
+- [BGH, Beschluss vom 16.12.2025 - 5 StR 482/25](5-str-482-25.md) — BGH, Beschluss 5 StR 482/25
+- [BGH, Beschluss vom 16.12.2025 - 5 StR 485/25](5-str-485-25.md) — BGH, Beschluss 5 StR 485/25
+- [BGH, Beschluss vom 16.12.2025 - 5 StR 666/25](5-str-666-25.md) — BGH, Beschluss 5 StR 666/25
+- [BGH, Beschluss vom 15.12.2025 - 5 StR 520/25](5-str-520-25.md) — BGH, Beschluss 5 StR 520/25
+- [BGH, Beschluss vom 15.12.2025 - 5 StR 593/25](5-str-593-25.md) — BGH, Beschluss 5 StR 593/25
+- [BGH, Beschluss vom 03.12.2025 - 5 StR 362/25](5-str-362-25.md) — Strafbarkeit wegen Computerbetrugs bei kontaktlosem Bezahlen mit gestohlener Girokarte
+- [BGH, Urteil vom 03.12.2025 - 5 StR 459/25](5-str-459-25.md) — BGH, Urteil 5 StR 459/25
+- [BGH, Beschluss vom 03.12.2025 - 5 StR 702/24](5-str-702-24.md) — BGH, Beschluss 5 StR 702/24
+- [BGH, Beschluss vom 02.12.2025 - 5 StR 388/25](5-str-388-25.md) — Zulässigkeit einer Zutrittsversagung gegenüber einem Zuschauer trotz wirksamer Sicherheitsvorkehrungen
+- [BGH, Beschluss vom 02.12.2025 - 5 StR 437/25](5-str-437-25.md) — Vergleich der Strafzumessung verschiedener Täter im Hinblick auf die Revisionsbegründung
+- [BGH, Beschluss vom 02.12.2025 - 5 StR 453/25](5-str-453-25.md) — BGH, Beschluss 5 StR 453/25
+- [BGH, Beschluss vom 02.12.2025 - 5 StR 467/25](5-str-467-25.md) — BGH, Beschluss 5 StR 467/25
+- [BGH, Beschluss vom 02.12.2025 - 5 StR 484/25](5-str-484-25.md) — BGH, Beschluss 5 StR 484/25
+- [BGH, Beschluss vom 02.12.2025 - 5 StR 617/25](5-str-617-25.md) — BGH, Beschluss 5 StR 617/25
+- [BGH, Beschluss vom 02.12.2025 - 5 StR 619/25](5-str-619-25.md) — Einziehung bei mehreren Tatbeteiligten
+- [BGH, Beschluss vom 01.12.2025 - 5 StR 472/25](5-str-472-25.md) — BGH, Beschluss 5 StR 472/25
+- [BGH, Beschluss vom 18.11.2025 - 5 StR 320/25](5-str-320-25.md) — BGH, Beschluss 5 StR 320/25
+- [BGH, Urteil vom 18.11.2025 - 5 StR 343/25](5-str-343-25.md) — Beweiswürdigung beim schweren sexuellen Missbrauch von Kindern; Anforderungen an Feststellung der Alterskenntnis des Täters und an Erörterung des Erscheinungsbi
+- [BGH, Beschluss vom 18.11.2025 - 5 StR 376/23](5-str-376-23.md) — BGH, Beschluss 5 StR 376/23
+- [BGH, Beschluss vom 18.11.2025 - 5 StR 448/25](5-str-448-25.md) — BGH, Beschluss 5 StR 448/25
+- [BGH, Beschluss vom 18.11.2025 - 5 StR 469/25](5-str-469-25.md) — BGH, Beschluss 5 StR 469/25
+- [BGH, Urteil vom 17.11.2025 - 5 StR 184/25](5-str-184-25.md) — BGH, Urteil 5 StR 184/25
+- [BGH, Beschluss vom 17.11.2025 - 5 StR 385/25](5-str-385-25.md) — Gesamtwürdigung negativer Prognosefaktoren bei der Anordnung einer Unterbringung im Maßregelvollzug
+- [BGH, Beschluss vom 17.11.2025 - 5 StR 421/25](5-str-421-25.md) — BGH, Beschluss 5 StR 421/25
+- [BGH, Beschluss vom 17.11.2025 - 5 StR 442/25](5-str-442-25.md) — BGH, Beschluss 5 StR 442/25
+- [BGH, Beschluss vom 17.11.2025 - 5 StR 471/25](5-str-471-25.md) — BGH, Beschluss 5 StR 471/25
+- [BGH, Beschluss vom 17.11.2025 - 5 StR 566/25](5-str-566-25.md) — BGH, Beschluss 5 StR 566/25
+- [BGH, Beschluss vom 06.11.2025 - 5 StR 355/25](5-str-355-25.md) — BGH, Beschluss 5 StR 355/25
+- [BGH, Beschluss vom 05.11.2025 - 5 StR 434/25](5-str-434-25.md) — Mittäterschaftliches Handeln bei der Einfuhr von Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 05.11.2025 - 5 StR 446/25](5-str-446-25.md) — BGH, Urteil 5 StR 446/25
+- [BGH, Beschluss vom 05.11.2025 - 5 StR 536/25](5-str-536-25.md) — BGH, Beschluss 5 StR 536/25
+- [BGH, Beschluss vom 05.11.2025 - 5 StR 546/25](5-str-546-25.md) — BGH, Beschluss 5 StR 546/25
+- [BGH, Vorlagebeschluss vom 04.11.2025 - 5 StR 312/23](5-str-312-23.md) — Vorlage einer Rechtsfrage an den Großen Senat für Strafsachen über eine Zulässigkeit der erweiterten Einziehung eines nach Begehung der Anknüpfungstat erlangten
+- [BGH, Beschluss vom 04.11.2025 - 5 StR 422/25](5-str-422-25.md) — BGH, Beschluss 5 StR 422/25
+- [BGH, Beschluss vom 04.11.2025 - 5 StR 483/25](5-str-483-25.md) — Strafbarer Wohnungseinbruchsdiebstahl bei Einbruch in Gartenlaube in Schrebergarten
+- [BGH, Beschluss vom 04.11.2025 - 5 StR 499/25](5-str-499-25.md) — Gesetzeskonkurrenz bei gefährlicher und schwerer Körperverletzung
+- [BGH, Urteil vom 22.10.2025 - 5 StR 197/25](5-str-197-25.md) — Gegenwärtigkeit eines Angriffs
+- [BGH, Urteil vom 22.10.2025 - 5 StR 342/25](5-str-342-25.md) — BGH, Urteil 5 StR 342/25
+- [BGH, Beschluss vom 22.10.2025 - 5 StR 473/25](5-str-473-25.md) — BGH, Beschluss 5 StR 473/25
+- [BGH, Beschluss vom 21.10.2025 - 5 ARs 14/25](5-ars-14-25.md) — BGH, Beschluss 5 ARs 14/25
+- [BGH, Beschluss vom 21.10.2025 - 5 StR 415/25](5-str-415-25.md) — BGH, Beschluss 5 StR 415/25
+- [BGH, Beschluss vom 21.10.2025 - 5 StR 447/25](5-str-447-25.md) — BGH, Beschluss 5 StR 447/25
+- [BGH, Beschluss vom 09.10.2025 - 5 StR 205/25](5-str-205-25.md) — BGH, Beschluss 5 StR 205/25
+- [BGH, Beschluss vom 09.10.2025 - 5 StR 254/25](5-str-254-25.md) — BGH, Beschluss 5 StR 254/25
+- [BGH, Beschluss vom 09.10.2025 - 5 StR 412/25](5-str-412-25.md) — Rücktritt vom Versuch der besonders schweren räuberischen Erpressung
+- [BGH, Beschluss vom 09.10.2025 - 5 StR 440/25](5-str-440-25.md) — BGH, Beschluss 5 StR 440/25
+- [BGH, Urteil vom 08.10.2025 - 5 StR 235/25](5-str-235-25.md) — Strafverfahren wegen Banden- und schweren Wohnungseinbrauchdiebstahls: Wirksamkeit der Verfahrensverständigung über den Verzicht auf Herausgabe von Geld und and
+- [BGH, Beschluss vom 08.10.2025 - 5 StR 360/25](5-str-360-25.md) — BGH, Beschluss 5 StR 360/25
+- [BGH, Beschluss vom 08.10.2025 - 5 StR 402/25](5-str-402-25.md) — BGH, Beschluss 5 StR 402/25
+- [BGH, Beschluss vom 07.10.2025 - 5 StR 269/25](5-str-269-25.md) — BGH, Beschluss 5 StR 269/25
+- [BGH, Beschluss vom 07.10.2025 - 5 StR 308/25](5-str-308-25.md) — BGH, Beschluss 5 StR 308/25
+- [BGH, Beschluss vom 07.10.2025 - 5 StR 348/25](5-str-348-25.md) — BGH, Beschluss 5 StR 348/25
+- [BGH, Beschluss vom 07.10.2025 - 5 StR 410/25](5-str-410-25.md) — BGH, Beschluss 5 StR 410/25
+- [BGH, Beschluss vom 25.09.2025 - 5 StR 18/25](5-str-18-25.md) — BGH, Beschluss 5 StR 18/25
+- [BGH, Beschluss vom 25.09.2025 - 5 StR 332/25](5-str-332-25.md) — Rechtseinheitliche Bewertung des Eigenkonsumbesitzes bei verschiedenen Rauschgiftarten und Grenzen der strafprozessualen Verständigung
+- [BGH, Beschluss vom 25.09.2025 - 5 StR 375/25](5-str-375-25.md) — BGH, Beschluss 5 StR 375/25
+- [BGH, Beschluss vom 24.09.2025 - 5 StR 250/25](5-str-250-25.md) — Eine als elektronisches Dokument übermittelte Anklageschrift muss nicht nach § 32b Abs. 1 Satz 2 StPO mit einer qualifizierten elektronischen Signatur versehen 
+- [BGH, Beschluss vom 24.09.2025 - 5 StR 369/25](5-str-369-25.md) — BGH, Beschluss 5 StR 369/25
+- [BGH, Urteil vom 24.09.2025 - 5 StR 423/25](5-str-423-25.md) — Strafverurteilung wegen Mordes: Mordmerkmal der Heimtücke und des niedrigen Beweggrundes
+- [BGH, Beschluss vom 23.09.2025 - 5 StR 313/25](5-str-313-25.md) — BGH, Beschluss 5 StR 313/25
+- [BGH, Beschluss vom 18.09.2025 - 5 StR 302/25](5-str-302-25.md) — BGH, Beschluss 5 StR 302/25
+- [BGH, Beschluss vom 10.09.2025 - 5 StR 113/25](5-str-113-25.md) — Vorspielen einer Bild-Ton-Aufzeichnung in der Hauptverhandlung; Voraussetzungen eines Berufsverbots
+- [BGH, Beschluss vom 10.09.2025 - 5 StR 263/25](5-str-263-25.md) — BGH, Beschluss 5 StR 263/25
+- [BGH, Beschluss vom 10.09.2025 - 5 StR 300/25](5-str-300-25.md) — BGH, Beschluss 5 StR 300/25
+- [BGH, Beschluss vom 10.09.2025 - 5 StR 335/25](5-str-335-25.md) — BGH, Beschluss 5 StR 335/25
+- [BGH, Beschluss vom 10.09.2025 - 5 StR 341/25](5-str-341-25.md) — BGH, Beschluss 5 StR 341/25
+- [BGH, Beschluss vom 09.09.2025 - 5 StR 244/25](5-str-244-25.md) — Strafverurteilung wegen Betrugs durch Unterlassen: Haftung des Vorstands einer Aktiengesellschaft beim Vertrieb von Geschäftsanteilen
+- [BGH, Beschluss vom 09.09.2025 - 5 StR 259/25](5-str-259-25.md) — BGH, Beschluss 5 StR 259/25
+- [BGH, Beschluss vom 09.09.2025 - 5 StR 378/25](5-str-378-25.md) — BGH, Beschluss 5 StR 378/25
+- [BGH, Beschluss vom 09.09.2025 - 5 StR 394/25](5-str-394-25.md) — Beweiswert der Aussage des in Therapie befindlichen Tatopfers
+- [BGH, Beschluss vom 09.09.2025 - 5 StR 425/25](5-str-425-25.md) — BGH, Beschluss 5 StR 425/25
+- [BGH, Beschluss vom 09.09.2025 - 5 StR 478/24](5-str-478-24.md) — BGH, Beschluss 5 StR 478/24
+- [BGH, Beschluss vom 27.08.2025 - 5 StR 130/25](5-str-130-25.md) — Gewerbsmäßiges Ausstellen von Attesten zur Befreiung vom Tragen einer Mund-Nasen-Bedeckung
+- [BGH, Urteil vom 27.08.2025 - 5 StR 268/25](5-str-268-25.md) — BGH, Urteil 5 StR 268/25
+- [BGH, Beschluss vom 27.08.2025 - 5 StR 59/25](5-str-59-25.md) — BGH, Beschluss 5 StR 59/25
+- [BGH, Beschluss vom 26.08.2025 - 5 ARs 9/25](5-ars-9-25.md) — BGH, Beschluss 5 ARs 9/25
+- [BGH, Beschluss vom 26.08.2025 - 5 StR 301/25](5-str-301-25.md) — BGH, Beschluss 5 StR 301/25
+- [BGH, Beschluss vom 26.08.2025 - 5 StR 311/25](5-str-311-25.md) — Strafverfahren: Anforderungen an die Revision des Nebenklägers; Rüge einer unzutreffenden konkurrenzrechtlichen Beurteilung
+- [BGH, Beschluss vom 26.08.2025 - 5 StR 349/25](5-str-349-25.md) — Strafverfahren: Hinweispflicht des Gerichts auf ungenügenden Täter-Opfer-Ausgleich
+- [BGH, Beschluss vom 26.08.2025 - 5 StR 367/25](5-str-367-25.md) — BGH, Beschluss 5 StR 367/25
+- [BGH, Beschluss vom 26.08.2025 - 5 StR 399/25](5-str-399-25.md) — Voraussetzungen der gesamtschuldnerischen Einziehung des Wertes des aus Cannabisgeschäften Erlangten gegen mehrere Angeklagte
+- [BGH, Beschluss vom 26.08.2025 - 5 StR 426/25](5-str-426-25.md) — Verständigung im Strafverfahren: Grundsatz des fairen Verfahrens; Heilung eines Fehlers bei der Belehrung des Angeklagten
+- [BGH, Beschluss vom 20.08.2025 - 5 StR 377/25](5-str-377-25.md) — BGH, Beschluss 5 StR 377/25
+- [BGH, Beschluss vom 14.08.2025 - 5 StR 520/24](5-str-520-24.md) — Freiverantwortlichkeit einer Suizidentscheidung
+- [BGH, Beschluss vom 13.08.2025 - 5 StR 172/25](5-str-172-25.md) — BGH, Beschluss 5 StR 172/25
+- [BGH, Beschluss vom 13.08.2025 - 5 StR 282/25](5-str-282-25.md) — BGH, Beschluss 5 StR 282/25
+- [BGH, Beschluss vom 13.08.2025 - 5 StR 357/25](5-str-357-25.md) — BGH, Beschluss 5 StR 357/25
+- [BGH, Urteil vom 13.08.2025 - 5 StR 55/25](5-str-55-25.md) — Körperverletzung mit Todesfolge: Tod eines Patienten bei Zahnbehandlung unter Vollnarkose; Aufklärungs- und Überwachungspflichtverletzungpflichtverletzung des b
+- [BGH, Beschluss vom 13.08.2025 - 5 StR 652/24](5-str-652-24.md) — Handeltreiben mit Betäubungsmitteln: Fahrlässige Begehung
+- [BGH, Beschluss vom 13.08.2025 - 5 StR 664/24](5-str-664-24.md) — BGH, Beschluss 5 StR 664/24
+- [BGH, Beschluss vom 12.08.2025 - 5 StR 208/25](5-str-208-25.md) — BGH, Beschluss 5 StR 208/25
+- [BGH, Beschluss vom 12.08.2025 - 5 StR 238/25](5-str-238-25.md) — BGH, Beschluss 5 StR 238/25
+- [BGH, Beschluss vom 12.08.2025 - 5 StR 258/25](5-str-258-25.md) — Einziehung des Wertes der durch gestohlene Debitkarten erlangten Gegenstände
+- [BGH, Beschluss vom 12.08.2025 - 5 StR 262/25](5-str-262-25.md) — BGH, Beschluss 5 StR 262/25
+- [BGH, Beschluss vom 12.08.2025 - 5 StR 293/25](5-str-293-25.md) — BGH, Beschluss 5 StR 293/25
+- [BGH, Beschluss vom 12.08.2025 - 5 StR 307/25](5-str-307-25.md) — BGH, Beschluss 5 StR 307/25
+- [BGH, Beschluss vom 12.08.2025 - 5 StR 688/24](5-str-688-24.md) — Verurteilung wegen Mordes bei tödlicher Messerattacke auf Autobahn und Flucht des Opfers auf Fahrbahn
+- [BGH, Beschluss vom 31.07.2025 - 5 StR 584/24](5-str-584-24.md) — BGH, Beschluss 5 StR 584/24
+- [BGH, Beschluss vom 31.07.2025 - 5 StR 78/25](5-str-78-25.md) — Strafbarkeit wegen Veröffentlichung strafprozessualer Beschlüsse im Internet trotz Schwärzung und Beschuldigteneinwilligung; Vereinbarkeit mit höherrangigem Rec
+- [BGH, Beschluss vom 30.07.2025 - 5 ARs 10/24](5-ars-10-24.md) — Akteneinsicht im strafrechtlichen Ermittlungsverfahren: Begriff der Justizbehörde
+- [BGH, Beschluss vom 30.07.2025 - 5 StR 185/25](5-str-185-25.md) — BGH, Beschluss 5 StR 185/25
+- [BGH, Beschluss vom 30.07.2025 - 5 StR 548/24](5-str-548-24.md) — BGH, Beschluss 5 StR 548/24
+- [BGH, Beschluss vom 30.07.2025 - 5 StR 648/24](5-str-648-24.md) — Mittäterschaft und Beihilfe bei der Einfuhr von Betäubungsmitteln
+- [BGH, Urteil vom 30.07.2025 - 5 StR 759/24](5-str-759-24.md) — Ausnutzen einer schutzlosen Lage bei sexueller Nötigung und schwerem sexuellen Missbrauch von Kindern
+- [BGH, Beschluss vom 29.07.2025 - 5 ARs 5/25](5-ars-5-25.md) — BGH, Beschluss 5 ARs 5/25
+- [BGH, Beschluss vom 29.07.2025 - 5 StR 193/25](5-str-193-25.md) — BGH, Beschluss 5 StR 193/25
+- [BGH, Beschluss vom 29.07.2025 - 5 StR 196/25](5-str-196-25.md) — BGH, Beschluss 5 StR 196/25
+- [BGH, Beschluss vom 29.07.2025 - 5 StR 223/25](5-str-223-25.md) — BGH, Beschluss 5 StR 223/25
+- [BGH, Beschluss vom 29.07.2025 - 5 StR 224/25](5-str-224-25.md) — BGH, Beschluss 5 StR 224/25
+- [BGH, Beschluss vom 29.07.2025 - 5 StR 232/25](5-str-232-25.md) — BGH, Beschluss 5 StR 232/25
+- [BGH, Urteil vom 17.07.2025 - 5 StR 465/24](5-str-465-24.md) — Selbständiges Einziehungsverfahren: Herrühren aus einer Straftat bei der Einziehung von Grundstücken sowie von Miet- und Pachtforderungen
+- [BGH, Beschluss vom 17.07.2025 - 5 StR 62/25](5-str-62-25.md) — BGH, Beschluss 5 StR 62/25
+- [BGH, Beschluss vom 16.07.2025 - 5 StR 299/25](5-str-299-25.md) — BGH, Beschluss 5 StR 299/25
+- [BGH, Beschluss vom 16.07.2025 - 5 StR 34/25](5-str-34-25.md) — BGH, Beschluss 5 StR 34/25
+- [BGH, Beschluss vom 16.07.2025 - 5 StR 579/24](5-str-579-24.md) — Erforderlichkeit einer Reise zur Revisionshauptverhandlung für eine Nebenklägervertreterin
+- [BGH, Beschluss vom 15.07.2025 - 5 StR 222/25](5-str-222-25.md) — BGH, Beschluss 5 StR 222/25
+- [BGH, Beschluss vom 15.07.2025 - 5 StR 294/25](5-str-294-25.md) — BGH, Beschluss 5 StR 294/25
+- [BGH, Beschluss vom 15.07.2025 - 5 StR 317/25](5-str-317-25.md) — BGH, Beschluss 5 StR 317/25
+- [BGH, Beschluss vom 15.07.2025 - 5 StR 319/25](5-str-319-25.md) — Anforderungen an die Urteilsgründe in Bezug auf das Einkopieren von Bildern
+- [BGH, Beschluss vom 15.07.2025 - 5 StR 325/25](5-str-325-25.md) — BGH, Beschluss 5 StR 325/25
+- [BGH, Urteil vom 02.07.2025 - 5 StR 180/25](5-str-180-25.md) — Verkauf von Asservaten an Privatpersonen durch einen Polizeibeamten
+- [BGH, Beschluss vom 01.07.2025 - 5 StR 175/25](5-str-175-25.md) — BGH, Beschluss 5 StR 175/25
+- [BGH, Beschluss vom 01.07.2025 - 5 StR 198/25](5-str-198-25.md) — BGH, Beschluss 5 StR 198/25
+- [BGH, Beschluss vom 01.07.2025 - 5 StR 203/25](5-str-203-25.md) — BGH, Beschluss 5 StR 203/25
+- [BGH, Beschluss vom 01.07.2025 - 5 StR 204/25](5-str-204-25.md) — BGH, Beschluss 5 StR 204/25
+- [BGH, Beschluss vom 01.07.2025 - 5 StR 209/25](5-str-209-25.md) — BGH, Beschluss 5 StR 209/25
+- [BGH, Beschluss vom 01.07.2025 - 5 StR 732/24](5-str-732-24.md) — BGH, Beschluss 5 StR 732/24
+- [BGH, Beschluss vom 26.06.2025 - 5 StR 706/24](5-str-706-24.md) — BGH, Beschluss 5 StR 706/24
+- [BGH, Beschluss vom 26.06.2025 - 5 StR 77/25](5-str-77-25.md) — BGH, Beschluss 5 StR 77/25
+- [BGH, Urteil vom 19.06.2025 - 5 StR 23/25](5-str-23-25.md) — Freie Beweiswürdigung im Strafverfahren: Anforderungen an die Bewertung der Einlassung des Angeklagten
+- [BGH, Beschluss vom 19.06.2025 - 5 StR 72/25](5-str-72-25.md) — BGH, Beschluss 5 StR 72/25
+- [BGH, Beschluss vom 17.06.2025 - 5 StR 107/25](5-str-107-25.md) — BGH, Beschluss 5 StR 107/25
+- [BGH, Beschluss vom 17.06.2025 - 5 StR 190/25](5-str-190-25.md) — BGH, Beschluss 5 StR 190/25
+- [BGH, Beschluss vom 17.06.2025 - 5 StR 288/25](5-str-288-25.md) — BGH, Beschluss 5 StR 288/25
+- [BGH, Beschluss vom 12.06.2025 - 5 StR 206/25](5-str-206-25.md) — Wirksamkeit der Rücknahme einer Revision durch den Pflichtverteidiger
+- [BGH, Beschluss vom 05.06.2025 - 5 StR 105/25](5-str-105-25.md) — BGH, Beschluss 5 StR 105/25
+- [BGH, Urteil vom 05.06.2025 - 5 StR 687/24](5-str-687-24.md) — BGH, Urteil 5 StR 687/24
+- [BGH, Urteil vom 04.06.2025 - 5 StR 622/24](5-str-622-24.md) — Gebot einer umfassenden Verhältnismäßigkeitsprüfung bei der Ermessensentscheidung nach § 76a Abs. 4 StGB.
+- [BGH, Beschluss vom 03.06.2025 - 5 StR 133/25](5-str-133-25.md) — BGH, Beschluss 5 StR 133/25
+- [BGH, Beschluss vom 03.06.2025 - 5 StR 181/25](5-str-181-25.md) — Besonders schwerer Raub: Tatbestandsmerkmal des Verwendens einer Waffe
+- [BGH, Beschluss vom 03.06.2025 - 5 StR 700/24](5-str-700-24.md) — BGH, Beschluss 5 StR 700/24
+- [BGH, Beschluss vom 03.06.2025 - 5 StR 76/25](5-str-76-25.md) — BGH, Beschluss 5 StR 76/25
+- [BGH, Beschluss vom 03.06.2025 - 5 StR 80/25](5-str-80-25.md) — BGH, Beschluss 5 StR 80/25
+- [BGH, Beschluss vom 03.06.2025 - 5 StR 85/25](5-str-85-25.md) — BGH, Beschluss 5 StR 85/25
+- [BGH, Beschluss vom 03.06.2025 - 5 StR 87/25](5-str-87-25.md) — BGH, Beschluss 5 StR 87/25
+- [BGH, Beschluss vom 03.06.2025 - 5 StR 96/25](5-str-96-25.md) — BGH, Beschluss 5 StR 96/25
+- [BGH, Beschluss vom 21.05.2025 - 5 ARs 1/25](5-ars-1-25.md) — Anforderungen an die fristgerechte Begründung einer Beschwerde
+- [BGH, Beschluss vom 21.05.2025 - 5 StR 120/25](5-str-120-25.md) — BGH, Beschluss 5 StR 120/25
+- [BGH, Beschluss vom 21.05.2025 - 5 StR 2/25](5-str-2-25.md) — BGH, Beschluss 5 StR 2/25
+- [BGH, Urteil vom 21.05.2025 - 5 StR 613/24](5-str-613-24.md) — Anforderungen an die Feststellung des Vorliegens einer bandenmäßigen Begehung im Fall eines Wohnungseinbruchdiebstahls
+- [BGH, Beschluss vom 21.05.2025 - 5 StR 70/25](5-str-70-25.md) — BGH, Beschluss 5 StR 70/25
+- [BGH, Beschluss vom 20.05.2025 - 5 StR 103/25](5-str-103-25.md) — BGH, Beschluss 5 StR 103/25
+- [BGH, Beschluss vom 20.05.2025 - 5 StR 106/25](5-str-106-25.md) — BGH, Beschluss 5 StR 106/25
+- [BGH, Beschluss vom 20.05.2025 - 5 StR 178/25](5-str-178-25.md) — Relevanz von Grenzwerten zur „nicht geringen Menge“ im Rahmen der Strafzumessung bei Verstößen gegen das Neue-psychoaktive-Stoffe-Gesetz
+- [BGH, Beschluss vom 20.05.2025 - 5 StR 37/25](5-str-37-25.md) — BGH, Beschluss 5 StR 37/25
+- [BGH, Beschluss vom 19.05.2025 - 5 StR 745/24](5-str-745-24.md) — BGH, Beschluss 5 StR 745/24
+- [BGH, Beschluss vom 07.05.2025 - 5 StR 116/25](5-str-116-25.md) — BGH, Beschluss 5 StR 116/25
+- [BGH, Urteil vom 07.05.2025 - 5 StR 744/24](5-str-744-24.md) — BGH, Urteil 5 StR 744/24
+- [BGH, Beschluss vom 06.05.2025 - 5 StR 139/25](5-str-139-25.md) — (Vergewaltigungsfälle: Darlegungsanforderungen in Bezug auf die Gründe einer Einstellung nach § 154 Abs. 2 StPO)
+- [BGH, Beschluss vom 06.05.2025 - 5 StR 194/25](5-str-194-25.md) — BGH, Beschluss 5 StR 194/25
+- [BGH, Beschluss vom 06.05.2025 - 5 StR 213/25](5-str-213-25.md) — BGH, Beschluss 5 StR 213/25
+- [BGH, Beschluss vom 06.05.2025 - 5 StR 44/25](5-str-44-25.md) — BGH, Beschluss 5 StR 44/25
+- [BGH, Urteil vom 24.04.2025 - 5 StR 729/24](5-str-729-24.md) — Strafverfahren wegen Körperverletzung mit Todesfolge: Verwertbarkeit selbstbelastender Spontanäußerungen des sich auf sein Schweigerecht berufenden Angeklagten
+- [BGH, Beschluss vom 23.04.2025 - 5 StR 11/25](5-str-11-25.md) — BGH, Beschluss 5 StR 11/25
+- [BGH, Beschluss vom 23.04.2025 - 5 StR 161/25](5-str-161-25.md) — BGH, Beschluss 5 StR 161/25
+- [BGH, Beschluss vom 23.04.2025 - 5 StR 33/25](5-str-33-25.md) — BGH, Beschluss 5 StR 33/25
+- [BGH, Beschluss vom 23.04.2025 - 5 StR 422/24](5-str-422-24.md) — Revision im Strafverfahren: Befugnis des Insolvenzverwalters zur Rechtsmitteleinlegung gegen ein Urteil mit Einziehungsanordnung
+- [BGH, Urteil vom 23.04.2025 - 5 StR 63/25](5-str-63-25.md) — BGH, Urteil 5 StR 63/25
+- [BGH, Beschluss vom 22.04.2025 - 5 StR 27/25](5-str-27-25.md) — Hehlerei: Erfordernis eines Absatzerfolges; Einziehung bei mehreren Tatbeteiligten
+- [BGH, Beschluss vom 22.04.2025 - 5 StR 29/25](5-str-29-25.md) — Verurteilung eines Angeklagten als "Abholer" wegen gewerbsmäßigen (Banden-)Betruges und Geldwäsche
+- [BGH, Beschluss vom 22.04.2025 - 5 StR 38/25](5-str-38-25.md) — BGH, Beschluss 5 StR 38/25
+- [BGH, Beschluss vom 22.04.2025 - 5 StR 755/24](5-str-755-24.md) — Einziehung des Wertes von Taterträgen: Schätzung des Wertes des Erlangten aus Handeltreiben mit Cannabis
+- [BGH, Beschluss vom 22.04.2025 - 5 StR 86/25](5-str-86-25.md) — Revisionseinlegung durch Nebenbeteiligte ohne fristgerechten Vollmachtnachweis
+- [BGH, Beschluss vom 10.04.2025 - 5 StR 114/25](5-str-114-25.md) — BGH, Beschluss 5 StR 114/25
+- [BGH, Beschluss vom 08.04.2025 - 5 StR 4/25](5-str-4-25.md) — BGH, Beschluss 5 StR 4/25
+- [BGH, Beschluss vom 08.04.2025 - 5 StR 60/25](5-str-60-25.md) — BGH, Beschluss 5 StR 60/25
+- [BGH, Beschluss vom 08.04.2025 - 5 StR 683/24](5-str-683-24.md) — BGH, Beschluss 5 StR 683/24
+- [BGH, Beschluss vom 08.04.2025 - 5 StR 7/25](5-str-7-25.md) — BGH, Beschluss 5 StR 7/25
+- [BGH, Beschluss vom 08.04.2025 - 5 StR 731/24](5-str-731-24.md) — Vergewaltigung: Gewaltausübung durch Beibringung von Betäubungsmitteln
+- [BGH, Beschluss vom 08.04.2025 - 5 StR 734/24](5-str-734-24.md) — BGH, Beschluss 5 StR 734/24
+- [BGH, Beschluss vom 08.04.2025 - 5 StR 747/24](5-str-747-24.md) — BGH, Beschluss 5 StR 747/24
+- [BGH, Beschluss vom 01.04.2025 - 5 StR 119/25](5-str-119-25.md) — Beweiswürdigung im Strafverfahren: Erkenntnisse zum Wirkstoffgehalt eines Betäubungsmittels als gerichtskundige Tatsache
+- [BGH, Beschluss vom 27.03.2025 - 5 StR 450/24](5-str-450-24.md) — BGH, Beschluss 5 StR 450/24
+- [BGH, Beschluss vom 27.03.2025 - 5 StR 567/24](5-str-567-24.md) — Zur Reichweite der gerichtlichen Anordnung der audiovisuellen Vernehmung eines Zeugen.
+- [BGH, Beschluss vom 27.03.2025 - 5 StR 610/24](5-str-610-24.md) — Verwertung zulässigen Verteidigungsverhaltens
+- [BGH, Beschluss vom 26.03.2025 - 5 StR 436/24](5-str-436-24.md) — Strafverfahren wegen Betrugs u.a.: Gesamtschuldnerische Haftung mehrerer Täter bei Einziehung
+- [BGH, Urteil vom 26.03.2025 - 5 StR 692/24](5-str-692-24.md) — Handeltreiben mit Betäubungsmitteln: Verwertbarkeit der EncroChat-Daten
+- [BGH, Beschluss vom 25.03.2025 - 5 StR 624/24](5-str-624-24.md) — BGH, Beschluss 5 StR 624/24
+- [BGH, Beschluss vom 25.03.2025 - 5 StR 626/24](5-str-626-24.md) — Räuberische Erpressung: Versuch und Vollendung desselben gleichwertigen Delikts zu Lasten des identischen Geschädigten
+- [BGH, Urteil vom 25.03.2025 - 5 StR 649/24](5-str-649-24.md) — Anforderungen an tatrichterliche Darlegungen in freisprechendem Urteil
+- [BGH, Beschluss vom 25.03.2025 - 5 StR 711/24](5-str-711-24.md) — Einziehungsverfahren: Folgen des Ausbleibens des Einziehungsberechtigten in der Hautverhandlung
+- [BGH, Beschluss vom 12.03.2025 - 5 StR 544/24](5-str-544-24.md) — BGH, Beschluss 5 StR 544/24
+- [BGH, Urteil vom 12.03.2025 - 5 StR 576/24](5-str-576-24.md) — Verständigung im Strafverfahren: Zulässigkeit der Verwertung eines Geständnisses und schuldangemessene Strafe bei gescheiterter Verständigung
+- [BGH, Beschluss vom 11.03.2025 - 5 StR 646/24](5-str-646-24.md) — BGH, Beschluss 5 StR 646/24
+- [BGH, Beschluss vom 10.03.2025 - 5 StR 22/25](5-str-22-25.md) — BGH, Beschluss 5 StR 22/25
+- [BGH, Beschluss vom 10.03.2025 - 5 StR 592/24](5-str-592-24.md) — Erweiterte Einziehung von Taterträgen: Überzeugung von der deliktischen Herkunft von Bargeld anhand dessen Auffindesituation
+- [BGH, Beschluss vom 10.03.2025 - 5 StR 682/24](5-str-682-24.md) — Maßregelvollzug: Zeugnisverweigerungsrecht eines Arztes zur psychischen Verfassung eines einstweilig Untergebrachten
+- [BGH, Beschluss vom 10.03.2025 - 5 StR 694/24](5-str-694-24.md) — BGH, Beschluss 5 StR 694/24
+- [BGH, Beschluss vom 10.03.2025 - 5 StR 705/24](5-str-705-24.md) — BGH, Beschluss 5 StR 705/24
+- [BGH, Beschluss vom 10.03.2025 - 5 StR 735/24](5-str-735-24.md) — BGH, Beschluss 5 StR 735/24
+- [BGH, Beschluss vom 03.03.2025 - 5 StR 736/24](5-str-736-24.md) — BGH, Beschluss 5 StR 736/24
+- [BGH, Urteil vom 27.02.2025 - 5 StR 287/24](5-str-287-24.md) — Zur faktischen Geschäftsführung bei Firmenbestattungen.
+- [BGH, Urteil vom 27.02.2025 - 5 StR 720/24](5-str-720-24.md) — Anordnung der Sicherungsverwahrung: Beurteilung der Hangtätereigenschaft bei sexuellem Kindesmissbrauch eines Erstserientäters
+- [BGH, Beschluss vom 26.02.2025 - 5 StR 651/24](5-str-651-24.md) — Revision im Strafverfahren: Anforderungen an das Rügevorbringen hinsichtlich der Verwertbarkeit von Angaben eines verdeckten Ermittlers
+- [BGH, Beschluss vom 26.02.2025 - 5 StR 733/24](5-str-733-24.md) — Strafverurteilung wegen Vergewaltigung u.a.: Anschluss des Tatgerichts an die Beurteilung eines Sachverständigen zur Frage der Schuldfähigkeit, Notwendigkeit ei
+- [BGH, Beschluss vom 25.02.2025 - 5 StR 555/24](5-str-555-24.md) — Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Erweiterte Einziehung des Wertes von Taterträgen
+- [BGH, Beschluss vom 25.02.2025 - 5 StR 655/24](5-str-655-24.md) — BGH, Beschluss 5 StR 655/24
+- [BGH, Beschluss vom 25.02.2025 - 5 StR 676/24](5-str-676-24.md) — BGH, Beschluss 5 StR 676/24
+- [BGH, Beschluss vom 25.02.2025 - 5 StR 695/24](5-str-695-24.md) — Strafverurteilung wegen schweren Wohnungseinbruchsdiebstahls: Ausschluss der erweiterten Einziehung von Taterträgen
+- [BGH, Beschluss vom 25.02.2025 - 5 StR 718/24](5-str-718-24.md) — Wiedereinsetzung in die Frist für die sofortige Beschwerde gegen die Versagung von Strafverfolgungsentschädigung: Darlegungspflicht des Antragstellers bei Beleh
+- [BGH, Beschluss vom 25.02.2025 - 5 StR 719/24](5-str-719-24.md) — Revision in Strafsachen: Ergänzung der Strafurteilsgründe bei unverschuldeter Unkenntnis des Gerichts von der Revisionseinlegung
+- [BGH, Beschluss vom 25.02.2025 - 5 StR 739/24](5-str-739-24.md) — Drohkulisse durch fiktive Person bei Geldforderungen; Abgrenzung zwischen Drohung und Täuschung
+- [BGH, Beschluss vom 24.02.2025 - 5 StR 531/24](5-str-531-24.md) — BGH, Beschluss 5 StR 531/24
+- [BGH, Beschluss vom 20.02.2025 - 5 StR 134/24](5-str-134-24.md) — Betäubungsmitteldelikt: Einordnung von Ketamin als Arzneimittel
+- [BGH, Urteil vom 13.02.2025 - 5 StR 491/23](5-str-491-23.md) — Strafverfahren wegen Geldwäsche: Verwertung von originär in Frankreich erhobenen EncroChat-Daten im inländischen Strafverfahren
+- [BGH, Beschluss vom 12.02.2025 - 5 StR 19/25](5-str-19-25.md) — BGH, Beschluss 5 StR 19/25
+- [BGH, Beschluss vom 12.02.2025 - 5 StR 411/24](5-str-411-24.md) — BGH, Beschluss 5 StR 411/24
+- [BGH, Beschluss vom 11.02.2025 - 5 StR 504/24](5-str-504-24.md) — BGH, Beschluss 5 StR 504/24
+- [BGH, Beschluss vom 11.02.2025 - 5 StR 540/24](5-str-540-24.md) — BGH, Beschluss 5 StR 540/24
+- [BGH, Beschluss vom 11.02.2025 - 5 StR 542/24](5-str-542-24.md) — BGH, Beschluss 5 StR 542/24
+- [BGH, Beschluss vom 11.02.2025 - 5 StR 553/24](5-str-553-24.md) — BGH, Beschluss 5 StR 553/24
+- [BGH, Beschluss vom 11.02.2025 - 5 StR 574/24](5-str-574-24.md) — BGH, Beschluss 5 StR 574/24
+- [BGH, Beschluss vom 11.02.2025 - 5 StR 620/24](5-str-620-24.md) — BGH, Beschluss 5 StR 620/24
+- [BGH, Beschluss vom 11.02.2025 - 5 StR 662/24](5-str-662-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
+- [BGH, Beschluss vom 11.02.2025 - 5 StR 669/24](5-str-669-24.md) — BGH, Beschluss 5 StR 669/24
+- [BGH, Beschluss vom 30.01.2025 - 5 StR 442/23](5-str-442-23.md) — BGH, Beschluss 5 StR 442/23
+- [BGH, Beschluss vom 30.01.2025 - 5 StR 455/23](5-str-455-23.md) — BGH, Beschluss 5 StR 455/23
+- [BGH, Urteil vom 30.01.2025 - 5 StR 514/24](5-str-514-24.md) — BGH, Urteil 5 StR 514/24
+- [BGH, Urteil vom 30.01.2025 - 5 StR 528/24](5-str-528-24.md) — Beweis des Handeltreibens mit Betäubungsmitteln in nicht geringer Menge allein durch die Verwertung von EncroChat-Daten
+- [BGH, Beschluss vom 29.01.2025 - 5 StR 558/24](5-str-558-24.md) — BGH, Beschluss 5 StR 558/24
+- [BGH, Beschluss vom 29.01.2025 - 5 StR 586/24](5-str-586-24.md) — BGH, Beschluss 5 StR 586/24
+- [BGH, Beschluss vom 29.01.2025 - 5 StR 587/24](5-str-587-24.md) — BGH, Beschluss 5 StR 587/24
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 326/23](5-str-326-23.md) — BGH, Beschluss 5 StR 326/23
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 519/24](5-str-519-24.md) — BGH, Beschluss 5 StR 519/24
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 554/24](5-str-554-24.md) — BGH, Beschluss 5 StR 554/24
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 565/24](5-str-565-24.md) — BGH, Beschluss 5 StR 565/24
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 638/24](5-str-638-24.md) — BGH, Beschluss 5 StR 638/24
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 650/24](5-str-650-24.md) — BGH, Beschluss 5 StR 650/24
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 728/24](5-str-728-24.md) — BGH, Beschluss 5 StR 728/24
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 749/24](5-str-749-24.md) — BGH, Beschluss 5 StR 749/24
+- [BGH, Beschluss vom 28.01.2025 - 5 StR 750/24](5-str-750-24.md) — BGH, Beschluss 5 StR 750/24
+- [BGH, Beschluss vom 15.01.2025 - 5 StR 290/24](5-str-290-24.md) — Strafverurteilung wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Verfolgungsverjährung bei Vergehen nach dem neuen milderen Rec
+- [BGH, Beschluss vom 15.01.2025 - 5 StR 306/24](5-str-306-24.md) — BGH, Beschluss 5 StR 306/24
+- [BGH, Beschluss vom 15.01.2025 - 5 StR 338/24](5-str-338-24.md) — Strafverurteilung wegen unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge: Sukzessive mittäterschaftliche Begehung einer Einfuhrtat
+- [BGH, Beschluss vom 15.01.2025 - 5 StR 434/24](5-str-434-24.md) — Beweiswürdigung der Beschreibung von sexsomnischen Episoden durch eine Zeugin in einem Vergewaltigungs- und Missbrauchsprozess
+- [BGH, Beschluss vom 15.01.2025 - 5 StR 438/24](5-str-438-24.md) — Teilfreispruch und Strafzumessung im Revisionsverfahren; Korrektur bei sexuellen Missbrauchstaten und Besitz kinderpornographischer Inhalte
+- [BGH, Urteil vom 15.01.2025 - 5 StR 616/24](5-str-616-24.md) — Schuldfähigkeit bei mehrdimensionaler psychischer Erkrankung; Anforderungen an Tatmotivationsanalyse und Gesamtbetrachtung
+- [BGH, Beschluss vom 15.01.2025 - 5 StR 636/24](5-str-636-24.md) — BGH, Beschluss 5 StR 636/24
+- [BGH, Beschluss vom 15.01.2025 - 5 StR 699/24](5-str-699-24.md) — Berücksichtigung des Strafmilderungsgrunds der Beihilfe im Hinblick auf die Beurteilung eines minder schweren Falls
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 463/24](5-str-463-24.md) — BGH, Beschluss 5 StR 463/24
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 492/24](5-str-492-24.md) — BGH, Beschluss 5 StR 492/24
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 535/24](5-str-535-24.md) — BGH, Beschluss 5 StR 535/24
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 583/24](5-str-583-24.md) — Verurteilung wegen versuchten bandenmäßigen Betrugs
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 609/24](5-str-609-24.md) — BGH, Beschluss 5 StR 609/24
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 656/24](5-str-656-24.md) — BGH, Beschluss 5 StR 656/24
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 689/24](5-str-689-24.md) — Betäubungsmitteldelikt: Subsidiarität der erweiterten Einziehung von Taterträgen
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 701/24](5-str-701-24.md) — BGH, Beschluss 5 StR 701/24
+- [BGH, Beschluss vom 14.01.2025 - 5 StR 709/24](5-str-709-24.md) — BGH, Beschluss 5 StR 709/24

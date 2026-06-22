@@ -1,0 +1,81 @@
+# Strafsenat – 2024
+
+77 Entscheidung(en).
+
+- [BGH, Beschluss vom 12.12.2024 - AK 93/24](ak-93-24.md) — BGH, Beschluss AK 93/24
+- [BGH, Beschluss vom 27.11.2024 - AK 90/24](ak-90-24.md) — BGH, Beschluss AK 90/24
+- [BGH, Beschluss vom 27.11.2024 - AK 91/24](ak-91-24.md) — BGH, Beschluss AK 91/24
+- [BGH, Beschluss vom 27.11.2024 - StB 66/24](stb-66-24.md) — Dringender Tatverdacht der Unterstützung inländischer terroristischer Vereinigung
+- [BGH, Beschluss vom 13.11.2024 - StB 63/24](stb-63-24.md) — Pflichtverteidigerwechsel aufgrund erheblicher Gesundheitsbeeinträchtigungen mit drohenden Ausfallzeiten sowie eingeschränkter Reisefähigkeit
+- [BGH, Beschluss vom 07.11.2024 - StB 62/24](stb-62-24.md) — Zuständigkeit für Entscheidungen über Pflichtverteidigerwechsel
+- [BGH, Beschluss vom 31.10.2024 - StB 21/24](stb-21-24.md) — 1. In eng umgrenzten Ausnahmefällen können finanzielle Zuwendungen eines Außenstehenden an ein Mitglied nicht als Unterstützung einer kriminellen oder terrorist
+- [BGH, Beschluss vom 31.10.2024 - StB 61/24](stb-61-24.md) — Verhältnismäßigkeit des Haftgrundes der Schwerstkriminalität
+- [BGH, Beschluss vom 30.10.2024 - AK 83 u. 84/24, AK 83/24, AK 84/24](ak-83-u-84-24-ak-83-24-ak-84-24.md) — BGH, Beschluss AK 83 u. 84/24, AK 83/24, AK 84/24
+- [BGH, Beschluss vom 30.10.2024 - AK 86/24](ak-86-24.md) — BGH, Beschluss AK 86/24
+- [BGH, Beschluss vom 24.10.2024 - AK 85/24](ak-85-24.md) — BGH, Beschluss AK 85/24
+- [BGH, Beschluss vom 16.10.2024 - AK 77 + 78/24, AK 77/24, AK 78/24](ak-77-78-24-ak-77-24-ak-78-24.md) — BGH, Beschluss AK 77 + 78/24, AK 77/24, AK 78/24
+- [BGH, Beschluss vom 16.10.2024 - AK 82/24](ak-82-24.md) — Mitgliedschaft in einer ausländischen terroristischen Vereinigung: Katibat Abu Bakr al-Siddiq als terroristische Vereinigung
+- [BGH, Beschluss vom 16.10.2024 - StB 40/24](stb-40-24.md) — Anhörung des Verurteilten vor Ablehnung der Strafrestaussetzung
+- [BGH, Beschluss vom 16.10.2024 - StB 58/24](stb-58-24.md) — BGH, Beschluss StB 58/24
+- [BGH, Beschluss vom 02.10.2024 - AK 72 und 73/24, AK 72/24, AK 73/24](ak-72-und-73-24-ak-72-24-ak-73-24.md) — Verlängerung der Untersuchungshaft bei Auswertung von Millionen von Chatnachrichten in ausländischer Sprache
+- [BGH, Beschluss vom 02.10.2024 - AK 74/24](ak-74-24.md) — BGH, Beschluss AK 74/24
+- [BGH, Beschluss vom 02.10.2024 - AK 75/24](ak-75-24.md) — BGH, Beschluss AK 75/24
+- [BGH, Beschluss vom 02.10.2024 - AK 76/24](ak-76-24.md) — BGH, Beschluss AK 76/24
+- [BGH, Beschluss vom 19.09.2024 - StB 42/24](stb-42-24.md) — Widerruf der Strafaussetzung zur Bewährung; Begehung von Straftaten während Bewährung
+- [BGH, Beschluss vom 19.09.2024 - StB 59/24](stb-59-24.md) — BGH, Beschluss StB 59/24
+- [BGH, Beschluss vom 12.09.2024 - StB 52/24](stb-52-24.md) — Aussetzung der Vollstreckung des Strafrests zur Bewährung bei mangelnder Distanzierung von Gründung einer terroristischen Vereinigung
+- [BGH, Beschluss vom 04.09.2024 - AK 71/24](ak-71-24.md) — BGH, Beschluss AK 71/24
+- [BGH, Beschluss vom 04.09.2024 - StB 55/24](stb-55-24.md) — BGH, Beschluss StB 55/24
+- [BGH, Beschluss vom 04.09.2024 - StB 57/24](stb-57-24.md) — BGH, Beschluss StB 57/24
+- [BGH, Beschluss vom 28.08.2024 - StB 46/24](stb-46-24.md) — BGH, Beschluss StB 46/24
+- [BGH, Beschluss vom 28.08.2024 - StB 50/24](stb-50-24.md) — BGH, Beschluss StB 50/24
+- [BGH, Beschluss vom 27.08.2024 - StB 54/24](stb-54-24.md) — Die allgemeine Funktionsträgerimmunität gilt bei Spionage und geheimdienstlichen Gewaltakten nicht; § 20 Abs. 2 Satz 2 GVG steht dem nicht entgegen.
+- [BGH, Beschluss vom 22.08.2024 - StB 53/24](stb-53-24.md) — BGH, Beschluss StB 53/24
+- [BGH, Beschluss vom 21.08.2024 - StB 39/24](stb-39-24.md) — Strafverfahren wegen mitgliedschaftlicher Beteiligung an einer ausländischen terroristischen Vereinigung: Auskunftsverweigerungsrecht eines Zeugen
+- [BGH, Beschluss vom 21.08.2024 - StB 47/24](stb-47-24.md) — Strafverfahren: Aufhebung der Pflichtverteidigerbestellung
+- [BGH, Beschluss vom 21.08.2024 - StB 51/24](stb-51-24.md) — BGH, Beschluss StB 51/24
+- [BGH, Beschluss vom 06.08.2024 - StB 45/24](stb-45-24.md) — Zulässigkeit einer Pflichtverteidigerbestellung vor amtlicher Bekanntgabe des Tatvorwurfs
+- [BGH, Beschluss vom 06.08.2024 - StB 48/24](stb-48-24.md) — BGH, Beschluss StB 48/24
+- [BGH, Beschluss vom 24.07.2024 - StB 41/24](stb-41-24.md) — Beschwer eines Verurteilen nach Wideruf der Einwilligung zur Aussetzung der Strafvollstreckung und Fortsetzung der Strafhaft
+- [BGH, Beschluss vom 10.07.2024 - StB 29/24, StB 30/24](stb-29-24-stb-30-24.md) — Hinreichender Tatverdacht der mitgliedschaftlichen Beteiligung an der terroristischen Vereinigung PKK im Ausland; Einziehung von Geldern als Tatmittel bei Organ
+- [BGH, Beschluss vom 27.06.2024 - AK 56/24](ak-56-24.md) — BGH, Beschluss AK 56/24
+- [BGH, Beschluss vom 27.06.2024 - StB 33/24](stb-33-24.md) — BGH, Beschluss StB 33/24
+- [BGH, Beschluss vom 26.06.2024 - AK 53 - 55/24, AK 53/24, AK 54/24, AK 55/24](ak-53-55-24-ak-53-24-ak-54-24-ak-55-24.md) — HAMAS als ausländische terroristische Vereinigung
+- [BGH, Beschluss vom 26.06.2024 - AK 57 + 58/24, AK 57/24, AK 58/24, StB 38/24](ak-57-58-24-ak-57-24-ak-58-24-stb-38-24.md) — BGH, Beschluss AK 57 + 58/24, AK 57/24, AK 58/24, StB 38/24
+- [BGH, Beschluss vom 26.06.2024 - StB 35/24](stb-35-24.md) — Antrag auf Aufhebung der Bestellung eines Pflichtverteidigers; Sicherung der Verteidigung durch Wahlverteidiger
+- [BGH, Beschluss vom 19.06.2024 - AK 52/24](ak-52-24.md) — BGH, Beschluss AK 52/24
+- [BGH, Beschluss vom 13.06.2024 - StB 34/24](stb-34-24.md) — BGH, Beschluss StB 34/24
+- [BGH, Beschluss vom 12.06.2024 - StB 32/24](stb-32-24.md) — Zulässiger Rechtsschutz gegen Durchsuchungsanordnungen
+- [BGH, Beschluss vom 29.05.2024 - StB 24/24](stb-24-24.md) — Voraussetzungen für die richterliche Beschlagnahme eines Briefes; Verhältnismäßigkeit der Beschlagnahmeanordnung
+- [BGH, Beschluss vom 29.05.2024 - StB 28/24](stb-28-24.md) — Wiedereinsetzungsbegehren bei Reststrafenaussetzung zur Bewährung; technischer Defekt des beA
+- [BGH, Beschluss vom 29.05.2024 - StB 31/24](stb-31-24.md) — BGH, Beschluss StB 31/24
+- [BGH, Beschluss vom 08.05.2024 - AK 43/24](ak-43-24.md) — BGH, Beschluss AK 43/24
+- [BGH, Beschluss vom 23.04.2024 - StB 22/24](stb-22-24.md) — BGH, Beschluss StB 22/24
+- [BGH, Beschluss vom 18.04.2024 - StB 18/24](stb-18-24.md) — Fortdauer einer Untersuchungshaft: Voraussetzungen der Haftgründe der Flucht- und Verdunklungsgefahr
+- [BGH, Beschluss vom 17.04.2024 - AK 39/24](ak-39-24.md) — Fortdauer der Untersuchungshaft bei Vorwurf der Beteiligung an terroristischer Vereinigung der sog. "Reichsbürger"-Szene
+- [BGH, Beschluss vom 17.04.2024 - StB 23/24](stb-23-24.md) — Einwilligung des Verurteilten zur Aussetzung des Strafrests zur Bewährung im Beschwerdeverfahren
+- [BGH, Beschluss vom 04.04.2024 - AK 32/24](ak-32-24.md) — BGH, Beschluss AK 32/24
+- [BGH, Beschluss vom 27.03.2024 - StB 19/24](stb-19-24.md) — Beiordnung eines zusätzlichen Pflichtverteidigers
+- [BGH, Beschluss vom 21.03.2024 - AK 26 und 27/24, AK 26/24, AK 27/24](ak-26-und-27-24-ak-26-24-ak-27-24.md) — BGH, Beschluss AK 26 und 27/24, AK 26/24, AK 27/24
+- [BGH, Beschluss vom 19.03.2024 - StB 17/24](stb-17-24.md) — Beiordnung eines zusätzlichen Pflichtverteidigers
+- [BGH, Beschluss vom 12.03.2024 - StB 16/24](stb-16-24.md) — Auswechselung eines Pflichtverteidigers wegen Störung des Vertrauensverhältnisses
+- [BGH, Beschluss vom 07.03.2024 - StB 14/24](stb-14-24.md) — BGH, Beschluss StB 14/24
+- [BGH, Beschluss vom 07.03.2024 - StB 15/24](stb-15-24.md) — BGH, Beschluss StB 15/24
+- [BGH, Beschluss vom 21.02.2024 - AK 4/24](ak-4-24.md) — 1. Die allgemeine Funktionsträgerimmunität gilt bei völkerrechtlichen Verbrechen nicht, und zwar unabhängig vom Status und Rang des Täters. Der Ausschluss diese
+- [BGH, Beschluss vom 06.02.2024 - AK 2/24](ak-2-24.md) — Haftprüfungsverfahren: Erweiterung des Haftbefehls bei Hinweisen auf zusätzliche Embargoverstöße
+- [BGH, Beschluss vom 06.02.2024 - StB 76 - 78/23, StB 76/23, StB 77/23, StB 78/23](stb-76-78-23-stb-76-23-stb-77-23-stb-78-23.md) — BGH, Beschluss StB 76 - 78/23, StB 76/23, StB 77/23, StB 78/23
+- [BGH, Beschluss vom 01.02.2024 - StB 65/23](stb-65-23.md) — BGH, Beschluss StB 65/23
+- [BGH, Beschluss vom 31.01.2024 - AK 1/24](ak-1-24.md) — Fortdauer von Untersuchungshaftbefehl wegen versuchten Mordes im Rahmen der Schwerstkriminalität: Niedriger Beweggrund bei politischer Tatmotivation unter Betei
+- [BGH, Beschluss vom 25.01.2024 - StB 3/24](stb-3-24.md) — BGH, Beschluss StB 3/24
+- [BGH, Beschluss vom 24.01.2024 - AK 100 - 106/23, AK 100/23, AK 101/23, AK 102/23, AK 103/23, AK 104/23, AK 105/23, AK 106/23](ak-100-106-23-ak-100-23-ak-101-23-ak-102-23-ak-103-23-ak-104-23-ak-kore606572024.md) — BGH, Beschluss AK 100 - 106/23, AK 100/23, AK 101/23, AK 102/23, AK 103/23, AK 104/23, AK 105/23, AK 106/23
+- [BGH, Beschluss vom 24.01.2024 - StB 1/24](stb-1-24.md) — BGH, Beschluss StB 1/24
+- [BGH, Beschluss vom 24.01.2024 - StB 2/24](stb-2-24.md) — BGH, Beschluss StB 2/24
+- [BGH, Beschluss vom 24.01.2024 - StB 4/24](stb-4-24.md) — Haftbefehl wegen dringenden Tatverdachts der Unterstützung einer terroristischen Vereinigung
+- [BGH, Beschluss vom 23.01.2024 - AK 108/23](ak-108-23.md) — Verdacht der mitgliedschaftlichen Beteiligung am "Islamischen Staat"
+- [BGH, Beschluss vom 12.01.2024 - StB 81/23](stb-81-23.md) — BGH, Beschluss StB 81/23
+- [BGH, Beschluss vom 11.01.2024 - AK 107/23](ak-107-23.md) — BGH, Beschluss AK 107/23
+- [BGH, Beschluss vom 11.01.2024 - AK 97/23](ak-97-23.md) — BGH, Beschluss AK 97/23
+- [BGH, Beschluss vom 11.01.2024 - AK 99/23](ak-99-23.md) — BGH, Beschluss AK 99/23
+- [BGH, Beschluss vom 11.01.2024 - StB 74/23](stb-74-23.md) — Strafprozessrecht: Rechtsmittel der Beschwerde gegen auf Ablehnungsgesuch ergehenden Beschluss
+- [BGH, Beschluss vom 11.01.2024 - StB 75/23](stb-75-23.md) — Rechtsmittel gegen Beschlagnahmeanordnung bezüglich eines aus der Haft heraus geschriebenen Briefs eines Angeklagten
+- [BGH, Beschluss vom 11.01.2024 - StB 80/23](stb-80-23.md) — BGH, Beschluss StB 80/23

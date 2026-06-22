@@ -1,0 +1,26 @@
+# Kartellsenat – 2010
+
+22 Entscheidung(en).
+
+- [BGH, Urteil vom 07.12.2010 - KZR 4/10](kzr-4-10.md) — Missbrauch einer marktbeherrschenden Stellung: Sachliche Rechtfertigung einer Preisspaltung
+- [BGH, Beschluss vom 07.12.2010 - KZR 41/09](kzr-41-09.md) — Anspruch auf Rückzahlung überzahlter Netzentgelte: Schlüssigkeit der Darlegung; Verjährungsbeginn
+- [BGH, Urteil vom 07.12.2010 - KZR 5/10](kzr-5-10.md) — Entega II 1. Eine Preisspaltung kann sachlich gerechtfertigt sein, wenn ein beherrschendes Unternehmen seine Tätigkeit auf einen anderen Markt ausdehnen will, a
+- [BGH, Beschluss vom 09.11.2010 - EnVR 1/10](envr-1-10.md) — Bahnstromfernleitungen Das Bahnstromnetz unterliegt der Regulierung nach dem Energiewirtschaftsgesetz.
+- [BGH, Beschluss vom 05.10.2010 - EnVR 49/09](envr-49-09.md) — Energiewirtschaftliches Verwaltungsverfahren: Beurteilungsspielraum der Bundesnetzagentur bei der Bemessung von Gasnetzzugangsentgelten; Korrektur von Bilanzwer
+- [BGH, Beschluss vom 05.10.2010 - EnVR 51/09](envr-51-09.md) — Energiewirtschaft: Beschwerdebefugnis eines Gasversorgungsunternehmens im Gerichtsverfahren zur Überprüfung der Festlegung neuer Rahmenbedingungen für Ausgleich
+- [BGH, Beschluss vom 05.10.2010 - EnVR 52/09](envr-52-09.md) — GABi Gas Ein Gasversorgungsunternehmen, das in dem vor der Bundesnetzagentur geführten Verfahren zur Festlegung neuer Rahmenbedingungen für Ausgleichsleistungen
+- [BGH, Beschluss vom 05.10.2010 - KVR 33/09](kvr-33-09.md) — EDEKA/Plus Eine Untersagungsverfügung kann nur dann eine zur Zulässigkeit eines Fortsetzungsfeststellungsantrags führende Präjudizwirkung entfalten, wenn ein gl
+- [BGH, Beschluss vom 24.08.2010 - EnVR 17/09](envr-17-09.md) — Flughafennetz Leipzig/Halle § 110 Abs. 1 EnWG ist richtlinienkonform dahin auszulegen, dass auf Objektnetze i.S. der Nummer 1 dieser Vorschrift Teil 3 des Energ
+- [BGH, Urteil vom 20.07.2010 - EnZR 23/09](enzr-23-09.md) — Stromnetznutzungsentgelt IV Für die gerichtliche Bestimmung eines Stromnetznutzungsentgelts für die Jahre 2003 und 2004 nach § 315 Abs. 3 BGB kann das Gericht m
+- [BGH, Urteil vom 20.07.2010 - EnZR 24/09](enzr-24-09.md) — Nutzung eines fremden Energieversorgungsnetzes: Billigkeitskontrolle des einseitig vom Netzbetreiber bestimmten Netznutzungsentgelts
+- [BGH, Versäumnisurteil vom 20.07.2010 - KZR 9/09](kzr-9-09.md) — Berufungsbegründung: Begründung durch Bezugnahme auf eine weder beglaubigte noch unterzeichnete Abschrift der Berufungsbegründungsschrift aus einem Parallelverf
+- [BGH, Urteil vom 29.06.2010 - KZR 24/08](kzr-24-08.md) — Kartellrecht: Verweigerung von SIM-Karten für den Einsatz in GSM-Wandlern; unlautere Behinderung des Mobilfunkbetreibers
+- [BGH, Urteil vom 29.06.2010 - KZR 31/08](kzr-31-08.md) — GSM-Wandler Ein Unternehmen, das für bestimmte Telekommunikationsdienstleistungen eine marktbeherrschende Stellung hat, handelt grundsätzlich nicht missbräuchli
+- [BGH, Urteil vom 29.06.2010 - KZR 50/07](kzr-50-07.md) — Telekommunikationsmarkt: Pflicht des Telefondiensteanbieters zur kostenlosen Überlassung von Teilnehmerdaten an Auskunftsdienste - Überlassung von Basisdaten
+- [BGH, Urteil vom 29.06.2010 - KZR 9/08](kzr-9-08.md) — Teilnehmerdaten IV Eine gegen § 47 Abs. 4 TKG - in gemeinschaftsrechtskonformer Auslegung nach Art. 25 Abs. 2 der Richtlinie 2002/22/EG (Universaldienstrichtlin
+- [BGH, Beschluss vom 08.06.2010 - KVR 4/09](kvr-4-09.md) — Springer/Pro Sieben II Die Annahme der Verstärkung der marktbeherrschenden Stellung eines Oligopols setzt nicht notwendig voraus, dass die strukturellen Bedingu
+- [BGH, Beschluss vom 08.06.2010 - KVZ 46/09](kvz-46-09.md) — Nichtzulassungsbeschwerde gegen Verfügung des Bundeskartellamtes: Feststellung eines Verstoßes des Bundesverbands Deutscher Milchviehhalter gegen das Boykottver
+- [BGH, Beschluss vom 20.04.2010 - KVR 1/09](kvr-1-09.md) — Phonak/GN Store 1. Zur Fortsetzungsfeststellungsbeschwerde in Fusionskontrollsachen nach Aufgabe des Zusammenschlussvorhabens 1a. Unter dem Gesichtspunkt der Pr
+- [BGH, Urteil vom 20.04.2010 - KZR 53/07](kzr-53-07.md) — Teilnehmerdaten III § 47 Abs. 4 TKG 2004 ist - ebenso wie § 12 TKG 1996 - so auszulegen, dass ein Telefondienstbetreiber für die Überlassung von Basisdaten - Na
+- [BGH, Beschluss vom 02.02.2010 - KVR 66/08](kvr-66-08.md) — Wasserpreise Wetzlar 1. Ein Versorgungsunternehmen im Bereich der öffentlichen Wasserversorgung unterliegt gemäß § 103 Abs. 7 i.V. mit § 22 Abs. 5 GWB in der bi
+- [BGH, Beschluss vom 02.02.2010 - KVZ 16/09](kvz-16-09.md) — Kosmetikartikel Versagt die Kartellbehörde in einem Beschwerdeverfahren die Zustimmung zur Einsicht in ihre Verfahrensakten, kann diese Entscheidung nur in dem 

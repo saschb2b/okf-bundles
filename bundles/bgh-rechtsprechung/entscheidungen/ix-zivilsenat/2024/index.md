@@ -1,0 +1,102 @@
+# IX. Zivilsenat – 2024
+
+98 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2024 - IX ZB 16/23](ix-zb-16-23.md) — 1. Beantragt ein Prozessbevollmächtigter in der Berufungsschrift allenfalls konkludent eine Verlängerung der Frist für die Berufungsbegründung und führt er hier
+- [BGH, Beschluss vom 19.12.2024 - IX ZB 41/23](ix-zb-41-23.md) — 1. Hat ein Prozessbevollmächtigter wegen vorübergehender technischer Unmöglichkeit der Einreichung eines elektronischen Dokuments die Ersatzeinreichung nach den
+- [BGH, Urteil vom 19.12.2024 - IX ZR 114/23](ix-zr-114-23.md) — Melden sowohl der Zedent als auch der Zessionar dieselbe Forderung zur Tabelle an, ist eine auf eine erst nach dem Prüfungstermin erfolgte Rückabtretung der For
+- [BGH, Urteil vom 19.12.2024 - IX ZR 119/23](ix-zr-119-23.md) — 1. Ein Ersatzgegenstand, den der Alleinerbe bei einer zwischen Annahme der Erbschaft und Eröffnung des Insolvenzverfahrens vorgenommenen Veräußerung eines zum N
+- [BGH, Urteil vom 19.12.2024 - IX ZR 120/23](ix-zr-120-23.md) — Der Anfechtungsgegner kann im Anfechtungsprozess nicht einwenden, die Insolvenzmasse reiche deshalb im eröffneten Verfahren aus, um alle Gläubigeransprüche zu b
+- [BGH, Beschluss vom 12.12.2024 - IX ZB 4/24](ix-zb-4-24.md) — 1. Der Anspruch auf Erstattung der Kosten des Zwangsvollstreckungsverfahrens entsteht zur Gänze bereits mit der Einleitung des Verfahrens; auf den jeweiligen En
+- [BGH, Beschluss vom 12.12.2024 - IX ZR 28/23](ix-zr-28-23.md) — BGH, Beschluss IX ZR 28/23
+- [BGH, Beschluss vom 12.12.2024 - IX ZR 40/23](ix-zr-40-23.md) — Verfahrensfortsetzung nach Tod einer Partei durch Bestellung eines Nachlasspflegers
+- [BGH, Beschluss vom 05.12.2024 - IX ZB 42/23](ix-zb-42-23.md) — 1. Das Interesse eines Insolvenzgläubigers, einen gegen den Insolvenzverwalter geltend gemachten Anspruch, die Herausgabe eines Gutachtens an die Insolvenzgläub
+- [BGH, Urteil vom 05.12.2024 - IX ZR 122/23](ix-zr-122-23.md) — 1. Ein Schuldner handelt bei einem Bargeschäft unlauter, wenn es sich weniger um die Abwicklung eines Bargeschäfts handelt als vielmehr um ein die übrigen Gläub
+- [BGH, Urteil vom 05.12.2024 - IX ZR 42/24](ix-zr-42-24.md) — Verfolgt der Insolvenzverwalter einen von einem Insolvenzgläubiger erhobenen Anfechtungsanspruch für Rechtshandlungen, die außerhalb der Anfechtungsfristen der 
+- [BGH, Beschluss vom 21.11.2024 - IX ZB 38/24](ix-zb-38-24.md) — Aussetzung der weiteren Vollziehung des Eröffnungsbeschlusses bei zweifelhafter Rechtslage
+- [BGH, Urteil vom 21.11.2024 - IX ZR 251/22](ix-zr-251-22.md) — Beförderungsansprüche bzw. Umbuchung als geänderter Beförderungsanspruch als Teil einer Insolvenzforderung
+- [BGH, Beschluss vom 14.11.2024 - IX ZB 13/24](ix-zb-13-24.md) — Vollstreckbarerklärung eines Urteils aus Tel Aviv; Verletzung des ordre public
+- [BGH, Urteil vom 14.11.2024 - IX ZR 13/24](ix-zr-13-24.md) — Im Rahmen der Inkongruenzanfechtung ist die verfrühte Leistung im Ganzen zurück zu gewähren, nicht nur in Höhe des Nutzungsvorteils (Zwischenzinses).
+- [BGH, Beschluss vom 11.11.2024 - IX ZB 30/24](ix-zb-30-24.md) — BGH, Beschluss IX ZB 30/24
+- [BGH, Beschluss vom 11.11.2024 - IX ZB 34/24](ix-zb-34-24.md) — BGH, Beschluss IX ZB 34/24
+- [BGH, Beschluss vom 11.11.2024 - IX ZB 8/23](ix-zb-8-23.md) — BGH, Beschluss IX ZB 8/23
+- [BGH, Urteil vom 07.11.2024 - IX ZR 179/23](ix-zr-179-23.md) — Steht dem Besteller aufgrund von Voraus- oder Abschlagszahlungen aus einem Werkvertrag eine Insolvenzforderung zu, kann er die den Unternehmer treffende nebenve
+- [BGH, Urteil vom 07.11.2024 - IX ZR 216/22](ix-zr-216-22.md) — Die fehlende Beteiligung der Komplementär-GmbH am Kapital der darlehensnehmenden GmbH & Co. KG steht einer Anwendung des Gesellschafterdarlehensrechts auf den G
+- [BGH, Beschluss vom 06.11.2024 - IX ZA 12/24](ix-za-12-24.md) — BGH, Beschluss IX ZA 12/24
+- [BGH, Beschluss vom 23.10.2024 - IX ZB 16/24](ix-zb-16-24.md) — Gerichtskosten: Wirksamkeit der Abänderung des Kostenansatzes im Verwaltungswege zum Nachteil des Kostenschuldners
+- [BGH, Beschluss vom 23.10.2024 - IX ZB 26/24](ix-zb-26-24.md) — BGH, Beschluss IX ZB 26/24
+- [BGH, Beschluss vom 17.10.2024 - IX ZB 10/23](ix-zb-10-23.md) — Ein Rechtsanwalt, der für mehrere Schuldverschreibungsgläubiger, die nach Eröffnung des Insolvenzverfahrens über das Vermögen des Anleiheschuldners einen gemein
+- [BGH, Urteil vom 17.10.2024 - IX ZR 244/22](ix-zr-244-22.md) — Zahlt der Mieter nach wirksamer Kündigung des Mietvertrags für die Dauer der Vorenthaltung der Mietsache die vereinbarte Miete, kommt die Annahme eines Bargesch
+- [BGH, Beschluss vom 10.10.2024 - IX ZB 26/22](ix-zb-26-22.md) — 1. Nimmt der (vorläufige) Sachwalter einen Antrag auf Festsetzung der Vergütung zurück, nachdem ein Insolvenzgläubiger gegen die Festsetzung der Vergütung sofor
+- [BGH, Beschluss vom 26.09.2024 - IX ZB 5/24](ix-zb-5-24.md) — 1. Die Erteilung der Restschuldbefreiung steht einer Nachtragsverteilung nicht entgegen, wenn diese einen Gegenstand der Masse betrifft. 2. Die Beurteilung der 
+- [BGH, Urteil vom 26.09.2024 - IX ZR 146/22](ix-zr-146-22.md) — Nimmt ein Gläubiger nach Eröffnung des Insolvenzverfahrens über das Vermögen eines Luftfahrtunternehmens die Umbuchung eines bereits vor der Eröffnung gebuchten
+- [BGH, Urteil vom 26.09.2024 - IX ZR 246/22](ix-zr-246-22.md) — Erstattung der Flugscheinkosten nach Insolvenz des Luftfahrtunternehmens
+- [BGH, Beschluss vom 19.09.2024 - IX ZA 16/23](ix-za-16-23.md) — BGH, Beschluss IX ZA 16/23
+- [BGH, Beschluss vom 19.09.2024 - IX ZB 13/22](ix-zb-13-22.md) — Stützt das Finanzamt den Insolvenzantrag auf Steuerforderungen, die sich - etwa bei Lohn- und Umsatzsteuer - aus Steueranmeldungen oder Steuervoranmeldungen des
+- [BGH, Beschluss vom 19.09.2024 - IX ZB 14/22](ix-zb-14-22.md) — Zur Glaubhaftmachung des Eröffnungsgrunds der Zahlungsunfähigkeit durch das Finanzamt kann es ausreichen, wenn der wegen Nichtabgabe der Vermögensauskunft berei
+- [BGH, Urteil vom 19.09.2024 - IX ZR 130/23](ix-zr-130-23.md) — Nach dem für Verjährungsfragen maßgeblichen "Gebot des sichersten Weges" hat der Rechtsanwalt bei einer unklaren Rechtslage, ob ein triftiger Grund vorliegt, da
+- [BGH, Urteil vom 19.09.2024 - IX ZR 173/23](ix-zr-173-23.md) — Eine Rechtshandlung, mit der eine Schuldnerin für eine Forderung einer Gesellschaft mit beschränkter Haftung auf Rückgewähr eines Darlehens Befriedigung gewährt
+- [BGH, Urteil vom 19.09.2024 - IX ZR 217/22](ix-zr-217-22.md) — Die Entgeltlichkeit einer neu bestellten Sicherheit ergibt sich nicht allein daraus, dass eine zuvor für die gleichen Verbindlichkeiten bestellte Sicherheit ein
+- [BGH, Beschluss vom 19.09.2024 - IX ZR 217/23](ix-zr-217-23.md) — BGH, Beschluss IX ZR 217/23
+- [BGH, Beschluss vom 12.09.2024 - IX ZB 9/24](ix-zb-9-24.md) — Legt der anwaltliche Betreuer des Schuldners im Insolvenzverfahren sofortige Beschwerde gegen einen Beschluss über die Festsetzung der Vergütung des Insolvenzve
+- [BGH, Urteil vom 12.09.2024 - IX ZR 65/23](ix-zr-65-23.md) — 1. Eine formularmäßig getroffene anwaltliche Zeithonorarabrede ist auch im Rechtsverkehr mit Verbrauchern nicht allein deshalb unwirksam, weil der Rechtsanwalt 
+- [BGH, Beschluss vom 14.08.2024 - IX ZR 52/24](ix-zr-52-24.md) — Vorläufige Vollstreckbarkeit eines angefochtenen Urteils: Voraussetzungen der einstweiligen Einstellung der Zwangsvollstreckung wegen Drohens eines unersetzlich
+- [BGH, Beschluss vom 06.08.2024 - IX ZB 26/23](ix-zb-26-23.md) — Legt eine bedürftige Partei unbeschränkt Berufung ein, genügt ein vom Rechtsanwalt der Partei noch vor Ablauf der Berufungsbegründungsfrist vorgelegtes (ausführ
+- [BGH, Beschluss vom 18.07.2024 - IX ZB 29/23](ix-zb-29-23.md) — Eine Rechtsbeschwerde gegen eine Entscheidung über die Eröffnung des Insolvenzverfahrens ist auch dann nur statthaft, wenn sie durch das Beschwerdegericht zugel
+- [BGH, Beschluss vom 17.07.2024 - IX ZB 18/23](ix-zb-18-23.md) — BGH, Beschluss IX ZB 18/23
+- [BGH, Beschluss vom 11.07.2024 - IX ZB 17/23](ix-zb-17-23.md) — BGH, Beschluss IX ZB 17/23
+- [BGH, Beschluss vom 11.07.2024 - IX ZB 31/23](ix-zb-31-23.md) — Ist ein Rechtsanwalt nicht in der Lage, die Büroräume seiner Kanzlei zu betreten, weil er den Büroschlüssel im Büro vergessen hat, bedarf eine ein Verschulden d
+- [BGH, Urteil vom 11.07.2024 - IX ZR 247/22](ix-zr-247-22.md) — Einordnung eines vor Eröffnung des Insolvenzverfahrens über das Vermögen einer Fluggesellschaft begründeten Beförderungsanspruchs als Insolvenzforderung oder Ma
+- [BGH, Beschluss vom 08.07.2024 - IX ZB 18/24](ix-zb-18-24.md) — BGH, Beschluss IX ZB 18/24
+- [BGH, Beschluss vom 24.06.2024 - IX ZA 22/23](ix-za-22-23.md) — BGH, Beschluss IX ZA 22/23
+- [BGH, Urteil vom 20.06.2024 - IX ZR 80/23](ix-zr-80-23.md) — Eine Terminsgebühr fällt an, wenn der Gegner eine auf die Erledigung des Verfahrens gerichtete Erklärung zwecks Prüfung und Weiterleitung an seine Partei entgeg
+- [BGH, Beschluss vom 19.06.2024 - IX ZB 49/23](ix-zb-49-23.md) — BGH, Beschluss IX ZB 49/23
+- [BGH, Beschluss vom 13.06.2024 - IX ZR 100/23](ix-zr-100-23.md) — Berücksichtigung von Tatsachen- und Rechtsausführungen im Rahmen von Rückgewähransprüchen
+- [BGH, Beschluss vom 13.06.2024 - IX ZR 19/22](ix-zr-19-22.md) — BGH, Beschluss IX ZR 19/22
+- [BGH, Beschluss vom 13.06.2024 - IX ZR 43/23](ix-zr-43-23.md) — BGH, Beschluss IX ZR 43/23
+- [BGH, Beschluss vom 27.05.2024 - IX ZB 7/24](ix-zb-7-24.md) — BGH, Beschluss IX ZB 7/24
+- [BGH, Beschluss vom 16.05.2024 - IX ZB 44/23](ix-zb-44-23.md) — BGH, Beschluss IX ZB 44/23
+- [BGH, Urteil vom 16.05.2024 - IX ZR 143/23](ix-zr-143-23.md) — Widerspricht in einem Eigenverwaltungsverfahren ausschließlich der Sachwalter der Feststellung einer titulierten Forderung zur Tabelle, ist er und nicht der eig
+- [BGH, Urteil vom 16.05.2024 - IX ZR 38/23](ix-zr-38-23.md) — Fehlt es an einer abschließenden höchstrichterlichen Klärung der für die Erfolgsaussichten einer Rechtsverfolgung maßgeblichen Frage, setzt eine zum Eingreifen 
+- [BGH, Beschluss vom 25.04.2024 - IX ZB 23/23](ix-zb-23-23.md) — 1. Zur Berichtigung eines Beschlusses des Insolvenzgerichts über die Bestellung eines Sondersachwalters. 2. Das Amt eines Sondersachwalters endet mit der Aufheb
+- [BGH, Beschluss vom 25.04.2024 - IX ZB 55/23](ix-zb-55-23.md) — 1. Die vom Arbeitgeber gezahlte Inflationsausgleichsprämie ist Arbeitseinkommen und als solches pfändbar. 2. Die Prämie ist Teil des wiederkehrend zahlbaren Arb
+- [BGH, Beschluss vom 25.04.2024 - IX ZR 159/22](ix-zr-159-22.md) — BGH, Beschluss IX ZR 159/22
+- [BGH, Beschluss vom 18.04.2024 - IX ZB 53/23](ix-zb-53-23.md) — BGH, Beschluss IX ZB 53/23
+- [BGH, Urteil vom 18.04.2024 - IX ZR 129/22](ix-zr-129-22.md) — Von einem außerhalb der Gesellschaft stehenden Dritten kann nicht ohne Weiteres verlangt werden, dass er den vom Insolvenzverwalter zur Darlegung der Zahlungsun
+- [BGH, Urteil vom 18.04.2024 - IX ZR 239/22](ix-zr-239-22.md) — 1. Eine Deckungslücke, die mit hinreichender Gewissheit darauf schließen ließe, für den Schuldner habe keine begründete Aussicht bestanden, seine übrigen Gläubi
+- [BGH, Urteil vom 18.04.2024 - IX ZR 89/23](ix-zr-89-23.md) — Vermittelt ein Dritter einem Rechtsanwalt den Auftrag eines Mandanten zur entgeltlichen Geschäftsbesorgung und lässt er sich für die Leistung bezahlen, ist die 
+- [BGH, Beschluss vom 12.04.2024 - IX ZA 8/24](ix-za-8-24.md) — BGH, Beschluss IX ZA 8/24
+- [BGH, Beschluss vom 12.04.2024 - IX ZA 9/24](ix-za-9-24.md) — BGH, Beschluss IX ZA 9/24
+- [BGH, Beschluss vom 11.04.2024 - IX ZB 22/23](ix-zb-22-23.md) — Begründung eines Antrags auf Wiedereinsetzung in versäumte Frist; Anforderungen an Glaubhaftmachung
+- [BGH, Urteil vom 11.04.2024 - IX ZR 148/22](ix-zr-148-22.md) — Ansprüche, die sich gegen einen Sonderverwalter richten, der zur Prüfung und Durchsetzung von Ansprüchen gegen einen Verwalter eingesetzt wurde, können nur von 
+- [BGH, Beschluss vom 09.04.2024 - IX ZB 28/23](ix-zb-28-23.md) — BGH, Beschluss IX ZB 28/23
+- [BGH, Beschluss vom 08.04.2024 - IX ZA 15/23](ix-za-15-23.md) — BGH, Beschluss IX ZA 15/23
+- [BGH, Beschluss vom 08.04.2024 - IX ZA 4/24](ix-za-4-24.md) — BGH, Beschluss IX ZA 4/24
+- [BGH, Beschluss vom 08.04.2024 - IX ZA 5/24](ix-za-5-24.md) — BGH, Beschluss IX ZA 5/24
+- [BGH, Beschluss vom 08.04.2024 - IX ZA 6/24](ix-za-6-24.md) — BGH, Beschluss IX ZA 6/24
+- [BGH, Beschluss vom 08.04.2024 - IX ZA 7/24](ix-za-7-24.md) — BGH, Beschluss IX ZA 7/24
+- [BGH, Beschluss vom 25.03.2024 - IX ZA 20/23](ix-za-20-23.md) — BGH, Beschluss IX ZA 20/23
+- [BGH, Beschluss vom 25.03.2024 - IX ZB 48/23](ix-zb-48-23.md) — BGH, Beschluss IX ZB 48/23
+- [BGH, Beschluss vom 21.03.2024 - IX ZB 56/22](ix-zb-56-22.md) — 1a. Der Anmeldung eines Schadensersatzanspruchs wegen einer vorsätzlich begangenen Unterhaltspflichtverletzung muss der konkrete Zeitraum zu entnehmen sein, für
+- [BGH, Urteil vom 21.03.2024 - IX ZR 12/22](ix-zr-12-22.md) — 1. Ordnet das Insolvenzgericht gegenüber einem mit einem Zustimmungsvorbehalt ausgestatteten vorläufigen Verwalter an, er solle ein Unternehmen in Abstimmung mi
+- [BGH, Urteil vom 21.03.2024 - IX ZR 138/22](ix-zr-138-22.md) — Besteht eine entgegenstehende nationale höchstrichterliche Rechtsprechung, beginnt die Verjährungsfrist eines Anspruchs auf Schadensersatz wegen einer von Anfan
+- [BGH, Beschluss vom 07.03.2024 - IX ZA 17/23](ix-za-17-23.md) — Unterschiedliche Kostenverteilung im Kostenfestsetzungsverfahren bei Streitgenossen
+- [BGH, Beschluss vom 07.03.2024 - IX ZB 47/22](ix-zb-47-22.md) — 1a. Die Amtsermittlungspflicht des Insolvenzgerichts zu den Voraussetzungen eines Versagungstatbestandes greift erst ein, wenn der Antrag auf Versagung der Rest
+- [BGH, Beschluss vom 28.02.2024 - IX ZB 3/24](ix-zb-3-24.md) — BGH, Beschluss IX ZB 3/24
+- [BGH, Beschluss vom 28.02.2024 - IX ZB 30/23](ix-zb-30-23.md) — Signiert ein Mitglied einer mandatierten Anwaltssozietät einen Schriftsatz, den ein anderes Mitglied der Anwaltssozietät verfasst und einfach elektronisch signi
+- [BGH, Beschluss vom 28.02.2024 - IX ZB 60/21](ix-zb-60-21.md) — Der Wert der anwaltlichen Tätigkeit für einen Antrag des Schuldners, die Anerkennung oder Vollstreckung einer ausländischen Entscheidung zu versagen, ist unter 
+- [BGH, Beschluss vom 26.02.2024 - IX ZR 185/23](ix-zr-185-23.md) — BGH, Beschluss IX ZR 185/23
+- [BGH, Urteil vom 22.02.2024 - IX ZR 106/21](ix-zr-106-21.md) — Ist der Schuldner eine juristische Person oder eine rechtsfähige Personengesellschaft, so sind nahestehende Personen auch solche, die mittelbar zu mehr als eine
+- [BGH, Urteil vom 22.02.2024 - IX ZR 226/20](ix-zr-226-20.md) — 1. Führt die Veräußerung eines Vermögensgegenstands zu einer unmittelbaren Gläubigerbenachteiligung, stellt dies ein eigenständiges Beweisanzeichen für die subj
+- [BGH, Urteil vom 08.02.2024 - IX ZR 107/22](ix-zr-107-22.md) — 1. Die Sachhaftung an einfuhrabgabenpflichtiger Ware ist im Grundsatz eine kongruente Sicherung. 2. Der Leiter einer Behörde ist neben dem zuständigen Sachbearb
+- [BGH, Urteil vom 08.02.2024 - IX ZR 194/22](ix-zr-194-22.md) — 1. Der Annahme einer mittelbaren Gläubigerbenachteiligung durch die Zahlung von Einfuhrumsatzsteuer stehen weder das von der Entstehung der Steuer abhängige Rec
+- [BGH, Urteil vom 08.02.2024 - IX ZR 2/22](ix-zr-2-22.md) — Die Geltendmachung eines Insolvenzanfechtungsanspruchs auf Rückgewähr gezahlter Einfuhrumsatzsteuer verstößt nicht gegen Treu und Glauben.
+- [BGH, Urteil vom 18.01.2024 - IX ZR 6/22](ix-zr-6-22.md) — 1. Gewährt der Schuldner dem Anfechtungsgegner im Zustand der drohenden Zahlungsunfähigkeit eine inkongruente Deckung und hat die Inkongruenz ein erhebliches Ge
+- [BGH, Beschluss vom 11.01.2024 - IX ZB 30/22](ix-zb-30-22.md) — Entlassung eines Insolvenzverwalters auf Antrag eines Insolvenzgläubigers
+- [BGH, Beschluss vom 11.01.2024 - IX ZB 31/22](ix-zb-31-22.md) — BGH, Beschluss IX ZB 31/22
+- [BGH, Beschluss vom 11.01.2024 - IX ZB 32/22](ix-zb-32-22.md) — BGH, Beschluss IX ZB 32/22
+- [BGH, Beschluss vom 11.01.2024 - IX ZB 33/22](ix-zb-33-22.md) — Insolvenzverfahren: Antrag des Gläubigers auf Entlassung des Insolvenzverwalters wegen Annahme der Beeinträchtigung der Unabhängigkeit aufgrund Pflichtverletzun
+- [BGH, Beschluss vom 11.01.2024 - IX ZB 36/22](ix-zb-36-22.md) — BGH, Beschluss IX ZB 36/22
+- [BGH, Beschluss vom 11.01.2024 - IX ZB 37/22](ix-zb-37-22.md) — BGH, Beschluss IX ZB 37/22
+- [BGH, Beschluss vom 11.01.2024 - IX ZB 38/22](ix-zb-38-22.md) — BGH, Beschluss IX ZB 38/22
+- [BGH, Beschluss vom 03.01.2024 - IX ZR 86/23](ix-zr-86-23.md) — BGH, Beschluss IX ZR 86/23

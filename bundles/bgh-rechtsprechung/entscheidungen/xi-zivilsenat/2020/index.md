@@ -1,0 +1,75 @@
+# XI. Zivilsenat – 2020
+
+71 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2020 - XI ZB 24/16](xi-zb-24-16.md) — 1. Für den Haftungsausschluss des § 46 Abs. 2 Nr. 2 BörsG aF hat der Anspruchsgegner darzulegen und zu beweisen, dass sich die dem unrichtig prospektierten Sach
+- [BGH, Beschluss vom 02.12.2020 - XI ZR 526/19](xi-zr-526-19.md) — BGH, Beschluss XI ZR 526/19
+- [BGH, Verfügung vom 01.12.2020 - XI ZR 321/20](xi-zr-321-20.md) — Finanzierter Kraftfahrzeugkaufvertrag: Anforderungen an die Widerrufsbelehrung für den Verbraucherkredit im Altfall
+- [BGH, Beschluss vom 24.11.2020 - XI ZR 355/19](xi-zr-355-19.md) — Nichtzulassungsbeschwerde: Verletzung des Grundsatzes der Öffentlichkeit der Verhandlung bei Verzichtserklärung der Parteien
+- [BGH, Beschluss vom 17.11.2020 - XI ZB 1/19](xi-zb-1-19.md) — Zu den Anforderungen, die nach § 607 Abs. 2 i.V.m. § 606 Abs. 2 Satz 1 ZPO für die öffentliche Bekanntmachung einer Musterfeststellungsklage erfüllt sein müssen
+- [BGH, Urteil vom 17.11.2020 - XI ZR 171/19](xi-zr-171-19.md) — 1. Zu den Anforderungen, die die Mitglieder einer qualifizierten Einrichtung nach § 606 Abs. 1 Satz 2 Nr. 1 ZPO erfüllen müssen. 2. Zu den Anforderungen, die ei
+- [BGH, Beschluss vom 10.11.2020 - XI ZR 227/20](xi-zr-227-20.md) — BGH, Beschluss XI ZR 227/20
+- [BGH, Urteil vom 27.10.2020 - XI ZR 429/19](xi-zr-429-19.md) — Zum Gesamtschuldnerausgleich zwischen dem Haftpflichtversicherer des Unfallgegners und dem Halter als dem dinglich Anwartschaftsberechtigten aus einem Sicherung
+- [BGH, Beschluss vom 13.10.2020 - XI ZR 138/20](xi-zr-138-20.md) — BGH, Beschluss XI ZR 138/20
+- [BGH, Beschluss vom 13.10.2020 - XI ZR 157/20](xi-zr-157-20.md) — BGH, Beschluss XI ZR 157/20
+- [BGH, Beschluss vom 13.10.2020 - XI ZR 198/20](xi-zr-198-20.md) — BGH, Beschluss XI ZR 198/20
+- [BGH, Beschluss vom 13.10.2020 - XI ZR 68/20](xi-zr-68-20.md) — BGH, Beschluss XI ZR 68/20
+- [BGH, Beschluss vom 13.10.2020 - XI ZR 99/20](xi-zr-99-20.md) — BGH, Beschluss XI ZR 99/20
+- [BGH, Beschluss vom 06.10.2020 - XI ZB 17/19](xi-zb-17-19.md) — Fristenkontrolle in einer Anwaltskanzlei: Notierung einer Vorfrist für zeitaufwändige Prozesshandlung
+- [BGH, Beschluss vom 06.10.2020 - XI ZB 28/19](xi-zb-28-19.md) — 1. Ergibt sich aus den Darstellungen in einem Verkaufsprospekt nach § 8f Abs. 1 VerkProspG in der bis zum 31. Mai 2012 geltenden Fassung (aF) eine höhere Anzahl
+- [BGH, Vorlagebeschluss vom 06.10.2020 - XI ZR 355/18](xi-zr-355-18.md) — (Besetzung des Gerichts für Antrag nach § 33 RVG auf Festsetzung des Wertes des Gegenstands der anwaltlichen Tätigkeit im Nichtzulassungsbeschwerdeverfahren)
+- [BGH, Beschluss vom 28.09.2020 - XI ZB 9/20](xi-zb-9-20.md) — Rechtsbeschwerde im Kapitalanlegermusterverfahren: Beteiligung der übrigen Musterbeklagten nach Bestimmung eines Musterrechtsbeschwerdegegners; Voraussetzungen 
+- [BGH, Urteil vom 22.09.2020 - XI ZR 162/19](xi-zr-162-19.md) — Wenn ein Unternehmer sowohl eine Webseite unterhält als auch Allgemeine Geschäftsbedingungen verwendet, müssen die Informationen nach § 36 Abs. 1 VSBG sowohl ge
+- [BGH, Urteil vom 22.09.2020 - XI ZR 219/19](xi-zr-219-19.md) — Ein Bürge hat kein Widerrufsrecht gemäß § 312g BGB (Abgrenzung zu Senat, Urteil vom 9. März 1993 - XI ZR 179/92, WM 1993, 683).
+- [BGH, Urteil vom 22.09.2020 - XI ZR 39/19](xi-zr-39-19.md) — Zur Haftung des Kommissionärs im Falle der Aufhebung des Ausführungsgeschäfts im börslichen Freiverkehr wegen Mistrade.
+- [BGH, Beschluss vom 15.09.2020 - XI ZR 170/20](xi-zr-170-20.md) — BGH, Beschluss XI ZR 170/20
+- [BGH, Beschluss vom 15.09.2020 - XI ZR 260/19](xi-zr-260-19.md) — BGH, Beschluss XI ZR 260/19
+- [BGH, Beschluss vom 15.09.2020 - XI ZR 469/19](xi-zr-469-19.md) — BGH, Beschluss XI ZR 469/19
+- [BGH, Beschluss vom 15.09.2020 - XI ZR 606/19](xi-zr-606-19.md) — BGH, Beschluss XI ZR 606/19
+- [BGH, Beschluss vom 08.09.2020 - XI ZR 265/19](xi-zr-265-19.md) — BGH, Beschluss XI ZR 265/19
+- [BGH, Beschluss vom 08.09.2020 - XI ZR 600/19](xi-zr-600-19.md) — BGH, Beschluss XI ZR 600/19
+- [BGH, Beschluss vom 08.09.2020 - XI ZR 601/19](xi-zr-601-19.md) — BGH, Beschluss XI ZR 601/19
+- [BGH, Beschluss vom 25.08.2020 - XI ZR 165/19](xi-zr-165-19.md) — BGH, Beschluss XI ZR 165/19
+- [BGH, Beschluss vom 25.08.2020 - XI ZR 188/19](xi-zr-188-19.md) — BGH, Beschluss XI ZR 188/19
+- [BGH, Beschluss vom 25.08.2020 - XI ZR 361/19](xi-zr-361-19.md) — BGH, Beschluss XI ZR 361/19
+- [BGH, Beschluss vom 25.08.2020 - XI ZR 447/19](xi-zr-447-19.md) — BGH, Beschluss XI ZR 447/19
+- [BGH, Beschluss vom 25.08.2020 - XI ZR 47/20](xi-zr-47-20.md) — BGH, Beschluss XI ZR 47/20
+- [BGH, Beschluss vom 25.08.2020 - XI ZR 598/19](xi-zr-598-19.md) — Streitwertbemessung: Klage auf Feststellung der Wirksamkeit der Kündigung eines Prämiensparvertrags
+- [BGH, Beschluss vom 25.08.2020 - XI ZR 93/20](xi-zr-93-20.md) — BGH, Beschluss XI ZR 93/20
+- [BGH, Beschluss vom 28.07.2020 - XI ZB 21/19](xi-zb-21-19.md) — Haftung bei Kapitalanlageberatung: Verjährungshemmende Wirkung eines Güteantrags; Gegenstand des Kapitalanlegermusterverfahrens
+- [BGH, Urteil vom 14.07.2020 - XI ZR 553/19](xi-zr-553-19.md) — 1. Der Hemmungstatbestand des § 497 Abs. 3 Satz 3 BGB erfasst auch den Anspruch auf Rückzahlung gemäß § 488 Abs. 1 Satz 2, § 497 Abs. 1 Satz 1 BGB nach Gesamtfä
+- [BGH, Urteil vom 07.07.2020 - XI ZR 320/18](xi-zr-320-18.md) — Zur Maßgeblichkeit von § 524 Abs. 4 ZPO bei teilweiser Rücknahme des klägerischen Berufungsantrags und Verwerfung im Übrigen, wenn in erster Instanz die Klage a
+- [BGH, Urteil vom 07.07.2020 - XI ZR 542/18](xi-zr-542-18.md) — Rückabwicklung eines Verbraucherdarlehensvertrages nach Widerruf: Bereithaltung des Darlehensbetrages auf Abruf für einen vereinbarten Zeitraum als Leistung der
+- [BGH, Urteil vom 30.06.2020 - XI ZR 119/19](xi-zr-119-19.md) — Die in den Allgemeinen Geschäftsbedingungen eines Kreditinstituts enthaltene Entgeltklausel für ein Zahlungskonto mit grundlegenden Funktionen (Basiskonto) unte
+- [BGH, Beschluss vom 30.06.2020 - XI ZR 365/19](xi-zr-365-19.md) — BGH, Beschluss XI ZR 365/19
+- [BGH, Beschluss vom 30.06.2020 - XI ZR 398/19](xi-zr-398-19.md) — Verbraucherdarlehensvertrag: Ordnungsgemäße Widerrufsbelehrung bei einem Altvertrag
+- [BGH, Beschluss vom 30.06.2020 - XI ZR 405/19](xi-zr-405-19.md) — BGH, Beschluss XI ZR 405/19
+- [BGH, Beschluss vom 30.06.2020 - XI ZR 571/19](xi-zr-571-19.md) — BGH, Beschluss XI ZR 571/19
+- [BGH, Beschluss vom 30.06.2020 - XI ZR 603/19](xi-zr-603-19.md) — BGH, Beschluss XI ZR 603/19
+- [BGH, Beschluss vom 09.06.2020 - XI ZR 354/19](xi-zr-354-19.md) — Altvertrag über ein Verbraucherdarlehen: Wirksamkeit der Widerrufsbelehrung
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 252/19](xi-zr-252-19.md) — BGH, Beschluss XI ZR 252/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 261/19](xi-zr-261-19.md) — BGH, Beschluss XI ZR 261/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 262/19](xi-zr-262-19.md) — BGH, Beschluss XI ZR 262/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 413/19](xi-zr-413-19.md) — BGH, Beschluss XI ZR 413/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 428/19](xi-zr-428-19.md) — BGH, Beschluss XI ZR 428/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 434/19](xi-zr-434-19.md) — BGH, Beschluss XI ZR 434/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 444/19](xi-zr-444-19.md) — BGH, Beschluss XI ZR 444/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 541/19](xi-zr-541-19.md) — BGH, Beschluss XI ZR 541/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 569/19](xi-zr-569-19.md) — BGH, Beschluss XI ZR 569/19
+- [BGH, Beschluss vom 26.05.2020 - XI ZR 570/19](xi-zr-570-19.md) — BGH, Beschluss XI ZR 570/19
+- [BGH, Beschluss vom 12.05.2020 - XI ZB 19/19](xi-zb-19-19.md) — Wiedereinsetzung in den vorigen Stand bei anwaltlichem Versäumen der Berufungsbegründungsfrist: Grundlegende Anforderungen an die Fristensicherung bei Stellung 
+- [BGH, EuGH-Vorlage vom 12.05.2020 - XI ZR 371/18](xi-zr-371-18.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 AEUV folgende Fragen zur Auslegung des am 30. Oktober 2007 in Lugano unterzeichneten Übereinkommens
+- [BGH, Beschluss vom 07.05.2020 - XI ZR 581/18](xi-zr-581-18.md) — BGH, Beschluss XI ZR 581/18
+- [BGH, Beschluss vom 31.03.2020 - XI ZR 299/19](xi-zr-299-19.md) — Grundpfandrechtlich gesicherter Immobiliardarlehensvertrag: Klarheit und Verständlichkeit der Widerrufsinformation bei beispielhafter Aufzählung von Pflichtanga
+- [BGH, Beschluss vom 24.03.2020 - XI ZR 516/18](xi-zr-516-18.md) — Allgemeine Kreditbedingungen: Formularklausel im Verbraucherkreditvertrag über die Erhebung einer Bereitstellungsprovision
+- [BGH, Beschluss vom 10.03.2020 - XI ZR 199/18](xi-zr-199-18.md) — Gerichtliches Mahnverfahren: Zustellung der Aufforderung zur Anspruchsbegründung
+- [BGH, Urteil vom 03.03.2020 - XI ZR 461/18](xi-zr-461-18.md) — Erfordert die Vermietung oder Verpachtung keinen planmäßigen Geschäftsbetrieb und handelt es sich deshalb um eine private und nicht um eine berufsmäßig betriebe
+- [BGH, Versäumnisurteil vom 03.03.2020 - XI ZR 486/17](xi-zr-486-17.md) — Der Darlehensnehmer eines Verbraucherdarlehensvertrags ist gemäß § 767 Abs. 2, § 796 Abs. 2 ZPO mit seinem nach § 495 Abs. 1, § 355 Abs. 1 und 2 BGB in der bis 
+- [BGH, Beschluss vom 18.02.2020 - XI ZB 11/19](xi-zb-11-19.md) — Berufung gegen ein zweites Versäumnisurteil: Überprüfung der Fehlerhaftigkeit des ersten Versäumnisurteils
+- [BGH, Beschluss vom 18.02.2020 - XI ZB 8/19](xi-zb-8-19.md) — Wiedereinsetzung in den vorigen Stand: Sorgfaltspflichten des Rechtsanwalts bei Versagen des Telefax-Systems
+- [BGH, Urteil vom 18.02.2020 - XI ZR 25/19](xi-zr-25-19.md) — Verwirkung des Widerrufsrechts für einen bereits beendeten Altvertrag über einen grundpfandrechtlich gesichertes Verbraucherdarlehen: Schutzwürdiges Vertrauen d
+- [BGH, Beschluss vom 18.02.2020 - XI ZR 390/19](xi-zr-390-19.md) — Bausparvertrag: Kündigungsrecht der Bausparkasse wegen rückständiger Regelsparbeiträge bei jahrelang hingenommener Nichtzahlung
+- [BGH, Beschluss vom 21.01.2020 - XI ZR 189/19](xi-zr-189-19.md) — Revisionszulassung bei geklärten Fragen zum Widerrufsrecht von Verbraucherdarlehensverträgen
+- [BGH, Beschluss vom 15.01.2020 - XI ZR 271/19](xi-zr-271-19.md) — Gerichtskosten: Zulässige Einwendung gegen den Kostenansatz
+- [BGH, Urteil vom 14.01.2020 - XI ZR 401/18](xi-zr-401-18.md) — Widerruf eines Altvertrages über ein Verbraucherdarlehen: Verwirkungseinwand nach bankseitiger Sicherheitenfreigabe
+- [BGH, Beschluss vom 07.01.2020 - XI ZR 277/18](xi-zr-277-18.md) — Zulässigkeit der Nichtzulassungsbeschwerde: Beschwerdewert einer Feststellungsklage nach Widerruf eines Darlehensvertrages

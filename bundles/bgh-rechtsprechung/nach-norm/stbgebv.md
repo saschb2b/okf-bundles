@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu StBGebV"
 description: "BGH-Entscheidungen zu StBGebV, geordnet nach Vorschrift."
 tags: [register, navigation, stbgebv]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des StBGebV ausle
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 4 StBGebV | [BGH, Beschluss vom 07.05.2013 - IX ZA 1/13](../entscheidungen/ix-zivilsenat/2013/ix-za-1-13.md) |
+| § StBGebV | [BGH, Beschluss vom 07.05.2013 - IX ZA 1/13](../entscheidungen/ix-zivilsenat/2013/ix-za-1-13.md) |

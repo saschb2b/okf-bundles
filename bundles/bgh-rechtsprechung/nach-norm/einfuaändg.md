@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu EinfuaÄndG"
 description: "BGH-Entscheidungen zu EinfuaÄndG, geordnet nach Vorschrift."
 tags: [register, navigation, einfuaändg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des EinfuaÄndG a
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 64 EinfuaÄndG | [BGH, Beschluss vom 05.03.2014 - XII ZB 220/11](../entscheidungen/xii-zivilsenat/2014/xii-zb-220-11.md) |
+| § EinfuaÄndG | [BGH, Beschluss vom 05.03.2014 - XII ZB 220/11](../entscheidungen/xii-zivilsenat/2014/xii-zb-220-11.md) |

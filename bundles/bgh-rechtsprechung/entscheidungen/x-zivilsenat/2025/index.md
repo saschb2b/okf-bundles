@@ -1,0 +1,59 @@
+# X. Zivilsenat – 2025
+
+55 Entscheidung(en).
+
+- [BGH, Beschluss vom 02.12.2025 - X ZR 16/25](x-zr-16-25.md) — Angesichts der Zielsetzung einer Verbandsklage nach § 1 UKlaG ist es auch im Zusammenhang mit § 3 ZPO angemessen, den Streitwert in erster Linie anhand des Inte
+- [BGH, Urteil vom 28.10.2025 - X ZR 110/24](x-zr-110-24.md) — Eine Klausel in Allgemeinen Geschäftsbedingungen eines Luftfahrtunternehmens, die für den Fall, dass der Fluggast die Beförderung nicht auf allen oder nicht in 
+- [BGH, Urteil vom 21.10.2025 - X ZR 39/25](x-zr-39-25.md) — 1. Zu den genehmigungspflichtigen Entgeltbedingungen im Sinne von § 12 Abs. 1 Satz 2, Abs. 3 AEG gehören Regelungen, die nicht unmittelbar die Höhe eines Entgel
+- [BGH, Beschluss vom 13.10.2025 - X ZR 106/24](x-zr-106-24.md) — BGH, Beschluss X ZR 106/24
+- [BGH, Beschluss vom 13.10.2025 - X ZR 107/24](x-zr-107-24.md) — Spenderteil 1. Entscheidungen, mit denen ein Antrag auf Anordnung von Geheimhaltungsmaßnahmen im Sinne von § 16 Abs. 1 und § 19 Abs. 1 GeschGehG abgelehnt wird,
+- [BGH, Beschluss vom 30.09.2025 - X ZR 32/24](x-zr-32-24.md) — BGH, Beschluss X ZR 32/24
+- [BGH, Beschluss vom 12.08.2025 - X ZB 19/22](x-zb-19-22.md) — BGH, Beschluss X ZB 19/22
+- [BGH, Beschluss vom 12.08.2025 - X ZB 20/22](x-zb-20-22.md) — BGH, Beschluss X ZB 20/22
+- [BGH, Beschluss vom 12.08.2025 - X ZB 21/22](x-zb-21-22.md) — BGH, Beschluss X ZB 21/22
+- [BGH, Beschluss vom 29.07.2025 - X ZR 11/24](x-zr-11-24.md) — BGH, Beschluss X ZR 11/24
+- [BGH, Beschluss vom 15.07.2025 - X ZR 160/23](x-zr-160-23.md) — BGH, Beschluss X ZR 160/23
+- [BGH, Urteil vom 15.07.2025 - X ZR 37/24](x-zr-37-24.md) — BGH, Urteil X ZR 37/24
+- [BGH, Beschluss vom 08.07.2025 - X ZB 4/25](x-zb-4-25.md) — BGH, Beschluss X ZB 4/25
+- [BGH, Beschluss vom 01.07.2025 - X ZR 1/19](x-zr-1-19.md) — BGH, Beschluss X ZR 1/19
+- [BGH, Beschluss vom 24.06.2025 - X ZB 7/24](x-zb-7-24.md) — BGH, Beschluss X ZB 7/24
+- [BGH, Beschluss vom 24.06.2025 - X ZR 51/24](x-zr-51-24.md) — BGH, Beschluss X ZR 51/24
+- [BGH, Beschluss vom 17.06.2025 - X ZB 1/25](x-zb-1-25.md) — Anhörungsrüge: Anwaltszwang für Rüge gegen die Ablehnung eines Prozesskostenhilfeantrags
+- [BGH, Urteil vom 17.06.2025 - X ZR 74/23](x-zr-74-23.md) — BGH, Urteil X ZR 74/23
+- [BGH, Beschluss vom 17.06.2025 - X ZR 78/24](x-zr-78-24.md) — Nichtigkeitsstreitwert VII 1. In Patentnichtigkeitsverfahren entspricht es im Allgemeinen billigem Ermessen, den Streitwert anhand des gemeinen Werts des Patent
+- [BGH, Beschluss vom 29.04.2025 - X ZR 65/24](x-zr-65-24.md) — BGH, Beschluss X ZR 65/24
+- [BGH, Beschluss vom 17.04.2025 - X ZR 10/23](x-zr-10-23.md) — BGH, Beschluss X ZR 10/23
+- [BGH, Beschluss vom 08.04.2025 - X ZR 24/23](x-zr-24-23.md) — BGH, Beschluss X ZR 24/23
+- [BGH, Beschluss vom 18.03.2025 - X ZB 8/21](x-zb-8-21.md) — BGH, Beschluss X ZB 8/21
+- [BGH, Beschluss vom 13.03.2025 - X ZR 86/23](x-zr-86-23.md) — BGH, Beschluss X ZR 86/23
+- [BGH, Beschluss vom 11.03.2025 - X ZR 114/22](x-zr-114-22.md) — Nichtigkeitsstreitwert VI 1. Die Höhe eines Schadensersatzanspruchs, den der Berechtigte wegen Verletzung eines Patents gerichtlich geltend macht, ist für den S
+- [BGH, Urteil vom 11.03.2025 - X ZR 17/23](x-zr-17-23.md) — BGH, Urteil X ZR 17/23
+- [BGH, Urteil vom 18.02.2025 - X ZR 68/24](x-zr-68-24.md) — 1. Umstände, die in die Risikosphäre einer Vertragspartei fallen, sind grundsätzlich keine unvermeidbaren, außergewöhnlichen Umstände im Sinne von § 651h Abs. 4
+- [BGH, Urteil vom 28.01.2025 - X ZR 112/21](x-zr-112-21.md) — BGH, Urteil X ZR 112/21
+- [BGH, Beschluss vom 28.01.2025 - X ZR 124/22](x-zr-124-22.md) — BGH, Beschluss X ZR 124/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 29/22](x-zr-29-22.md) — BGH, Urteil X ZR 29/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 3/22](x-zr-3-22.md) — BGH, Urteil X ZR 3/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 30/22](x-zr-30-22.md) — BGH, Urteil X ZR 30/22
+- [BGH, Versäumnisurteil vom 28.01.2025 - X ZR 34/22](x-zr-34-22.md) — BGH, Versäumnisurteil X ZR 34/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 43/22](x-zr-43-22.md) — § 651h BGB lässt für eine ergänzende Anwendung von § 326 BGB keinen Raum.
+- [BGH, Urteil vom 28.01.2025 - X ZR 53/21](x-zr-53-21.md) — Rückzahlung von Anzahlungen für Pauschalreisen und Zahlung von Stornierungskosten bei Reiserücktritt wegen Corona-Pandemie
+- [BGH, Urteil vom 28.01.2025 - X ZR 54/22](x-zr-54-22.md) — BGH, Urteil X ZR 54/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 55/22](x-zr-55-22.md) — Der Ausschluss des Entschädigungsanspruchs nach § 651h Abs. 3 Satz 1 BGB hängt nicht davon ab, auf welche Gründe der Reisende den Rücktritt gestützt hat. Maßgeb
+- [BGH, Urteil vom 28.01.2025 - X ZR 56/22](x-zr-56-22.md) — BGH, Urteil X ZR 56/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 57/22](x-zr-57-22.md) — BGH, Urteil X ZR 57/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 58/22](x-zr-58-22.md) — BGH, Urteil X ZR 58/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 59/22](x-zr-59-22.md) — BGH, Urteil X ZR 59/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 60/22](x-zr-60-22.md) — Verbindlichkeit einer schriftlichen Rückzahlungszusage nach coronabedingter Reiseabsage; Maßgeblichkeit der Empfängersicht bei Irrtum des Reiseveranstalters
+- [BGH, Urteil vom 28.01.2025 - X ZR 61/22](x-zr-61-22.md) — BGH, Urteil X ZR 61/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 66/22](x-zr-66-22.md) — BGH, Urteil X ZR 66/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 67/22](x-zr-67-22.md) — BGH, Urteil X ZR 67/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 68/22](x-zr-68-22.md) — BGH, Urteil X ZR 68/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 77/22](x-zr-77-22.md) — BGH, Urteil X ZR 77/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 80/21](x-zr-80-21.md) — BGH, Urteil X ZR 80/21
+- [BGH, Urteil vom 28.01.2025 - X ZR 80/22](x-zr-80-22.md) — BGH, Urteil X ZR 80/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 81/22](x-zr-81-22.md) — BGH, Urteil X ZR 81/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 85/22](x-zr-85-22.md) — BGH, Urteil X ZR 85/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 86/22](x-zr-86-22.md) — BGH, Urteil X ZR 86/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 87/22](x-zr-87-22.md) — BGH, Urteil X ZR 87/22
+- [BGH, Urteil vom 28.01.2025 - X ZR 90/22](x-zr-90-22.md) — BGH, Urteil X ZR 90/22
+- [BGH, Beschluss vom 14.01.2025 - X ZB 5/24](x-zb-5-24.md) — BGH, Beschluss X ZB 5/24

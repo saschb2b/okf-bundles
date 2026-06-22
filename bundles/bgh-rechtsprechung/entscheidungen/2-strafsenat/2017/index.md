@@ -1,0 +1,165 @@
+# 2. Strafsenat – 2017
+
+161 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2017 - 2 StR 513/16](2-str-513-16.md) — Revision in Strafsachen: Notwendige Urteilsausführungen zur Beweiswürdigung
+- [BGH, Beschluss vom 19.12.2017 - 2 StR 479/17](2-str-479-17.md) — Besonders schwerer Fall des Diebstahls: Vorliegen eines fehlgeschlagenen Versuchs bei Wertlosigkeit des Inhalts eines erbeuteten Tresors
+- [BGH, Beschluss vom 13.12.2017 - 2 ARs 524/17](2-ars-524-17.md) — Jugendstrafsache: Örtliche Zuständigkeit des Jugendrichters für Entscheidungen über die Führungsaufsicht während des Vollzugs der Jugendstrafe
+- [BGH, Beschluss vom 13.12.2017 - 2 ARs 541/17](2-ars-541-17.md) — Strafvollstreckung: Sachliche und örtliche Zuständigkeit der Strafvollstreckungskammer für Aussetzungswiderruf während der Organisationshaft
+- [BGH, Urteil vom 13.12.2017 - 2 StR 230/17](2-str-230-17.md) — Versuch eines Tötungsdelikts: Vorliegen eine bedingten Tötungsvorsatzes; Vorliegen einer wissentlichen schweren Körperverletzung
+- [BGH, Urteil vom 13.12.2017 - 2 StR 345/17](2-str-345-17.md) — Schwerer sexueller Missbrauch von Kindern: Eindringen mit dem Finger in den Scheidenvorhof
+- [BGH, Beschluss vom 12.12.2017 - 2 StR 308/16](2-str-308-16.md) — Bestechung und Bestechlichkeit im geschäftlichen Verkehr: Beginn der Strafverfolgungsverjährung und Mittäterschaft
+- [BGH, Beschluss vom 12.12.2017 - 2 StR 414/17](2-str-414-17.md) — Sexueller Kindesmissbrauch: Anforderungen an die Prüfung einer schweren anderen seelischen Abartigkeit bei festgestellter Pädophilie
+- [BGH, Beschluss vom 07.12.2017 - 2 StR 252/17](2-str-252-17.md) — Gefährliche Körperverletzung: Notwehrhandlung durch lebensgefährlichen Messereinsatz; Notwehreinschränkung bei rechtswidrigem Vorverhalten
+- [BGH, Urteil vom 06.12.2017 - 2 StR 46/17](2-str-46-17.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Mittäterschaft bei Sammeleinkauf und hälftiger Teilung
+- [BGH, Urteil vom 29.11.2017 - 2 StR 271/17](2-str-271-17.md) — Verfallsanordnung nach altem Recht: Fall der Vermögensmehrung bei einem Drittbegünstigten und nicht beim Täter
+- [BGH, Urteil vom 29.11.2017 - 2 StR 460/16](2-str-460-16.md) — Jugendstrafsache: Berücksichtigung des Erziehungsgedankens bei der Bemessung der Einheitsjugendstrafe bei fortschreitendem Alter des Angeklagten
+- [BGH, Beschluss vom 28.11.2017 - 2 StR 350/17](2-str-350-17.md) — Brandstiftung: Konkurrenzverhältnis zwischen versuchter besonders schwerer Brandstiftung und versuchter Brandstiftung mit Todesfolge
+- [BGH, Urteil vom 22.11.2017 - 2 StR 166/17](2-str-166-17.md) — Versuchter Mord: Verschiebung des Strafrahmens bei Versuchsstrafbarkeit
+- [BGH, Beschluss vom 21.11.2017 - 2 StR 375/17](2-str-375-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Schuldunfähigkeit oder verminderte Schuldfähigkeit bei diagnostizierter schizoaffektiver Störung
+- [BGH, Beschluss vom 16.11.2017 - 2 StR 154/17](2-str-154-17.md) — Räuberische Erpressung: Abnötigung einer Geldüberlassung am Geldautomaten
+- [BGH, Beschluss vom 16.11.2017 - 2 StR 404/17](2-str-404-17.md) — Strafzumessung: Prüfungsreihenfolge zur Strafrahmenwahl bei Vorliegen eines minder schweren Falls und eines gesetzlich vertypten Strafmilderungsgrundes bei eine
+- [BGH, Urteil vom 15.11.2017 - 2 StR 128/17](2-str-128-17.md) — Beweisverwertung im Strafverfahren: Verwertung von gewonnenen Beweismitteln bei einer vom Zoll durchgeführten Durchsuchung
+- [BGH, Urteil vom 15.11.2017 - 2 StR 74/17](2-str-74-17.md) — Betäubungsmitteldelikt: Mitsichführen einer Schusswaffe; Strafzumessung bei Überschreitung einer "nicht geringen Menge"
+- [BGH, Beschluss vom 14.11.2017 - 2 StR 377/15](2-str-377-15.md) — Strafzumessung: Auswirkung des zeitlichen Abstandes zwischen Tat und Urteil im Fall des sexuellen Kindesmissbrauchs; Verfahrensverzögerung durch Vorlageverfahre
+- [BGH, Beschluss vom 09.11.2017 - 2 StR 320/17](2-str-320-17.md) — Diebstahl und Hehlerei: Vorrang einer Verurteilung aufgrund Postpendenzfeststellung
+- [BGH, Beschluss vom 08.11.2017 - 2 StR 111/17](2-str-111-17.md) — Sexueller Übergriff: Strafrechtliche Beurteilung des Hinwegsetzens über den Willen einer widerstandsunfähigen Person nach neuem Recht; milderes Gesetz
+- [BGH, Urteil vom 08.11.2017 - 2 StR 542/16](2-str-542-16.md) — Strafurteil: Berichtigung der Urteilsformel bei Verkündungsversehen
+- [BGH, Beschluss vom 02.11.2017 - 2 StR 387/17](2-str-387-17.md) — Maßregelanordnung im Strafverfahren: Erfolgsaussichtprüfung für die Unterbringung eines langjährig Drogenabhängigen in einer Entziehungsanstalt
+- [BGH, Beschluss vom 02.11.2017 - 2 StR 415/17](2-str-415-17.md) — Sexueller Missbrauch von Kindern: Tathandlung des Einwirkens durch entsprechende Reden
+- [BGH, Beschluss vom 26.10.2017 - 2 StR 102/17](2-str-102-17.md) — Serienbetrug: Anforderungen an die Feststellung von Tateinheit und Tatmehrheit; Vorliegen einer natürlichen Handlungseinheit
+- [BGH, Beschluss vom 26.10.2017 - 2 StR 334/17](2-str-334-17.md) — Ablehnung der Strafaussetzung zur Bewährung: Begründung mit dem Eindruck des sich zur Sache nicht äußernden Angeklagten in der Hauptverhandlung
+- [BGH, Beschluss vom 25.10.2017 - 2 ARs 470/17](2-ars-470-17.md) — § 261 Abs. 2 Nr. 1 StGB weist als abstraktes Gefährdungsdelikt keinen Erfolgsort im Sinne von § 9 Abs. 1 2. Alt. StGB auf. Tatort ist daher alleine der Ort, an 
+- [BGH, Urteil vom 25.10.2017 - 2 StR 118/16](2-str-118-16.md) — Notwehr: Sofortiger mehrfacher Messereinsatz gegenüber einem unbewaffneten Angreifer; Schätzung der Blutalkoholkonzentration zur Tatzeit
+- [BGH, Beschluss vom 25.10.2017 - 2 StR 252/16](2-str-252-16.md) — 1. Zwar wird der Ablauf der Verjährungsfrist durch ein auf Einstellung des Verfahrens wegen örtlicher Unzuständigkeit lautendes Prozessurteil gehemmt (§ 78b Abs
+- [BGH, Urteil vom 25.10.2017 - 2 StR 495/12](2-str-495-12.md) — Strafurteil: Wahlfeststellung bei Verurteilung wegen gewerbsmäßig begangenem Diebstahl und gewerbsmäßiger Hehlerei
+- [BGH, Beschluss vom 25.10.2017 - 2 StR 50/17](2-str-50-17.md) — Beschäftigung von Ausländern ohne Genehmigung oder ohne Aufenthaltstitel und zu ungünstigen Arbeitsbedingungen: Auffälliges Missverhältnis der Arbeitsbedingunge
+- [BGH, Urteil vom 18.10.2017 - 2 StR 529/16](2-str-529-16.md) — Vorteilsgewährung im Zusammenhang mit der Errichtung von Windkraftanlagen
+- [BGH, Beschluss vom 17.10.2017 - 2 StR 410/17](2-str-410-17.md) — Sicherungsverfahren: Prozessuale Handlungsfähigkeit bei Abgabe einer Rechtsmittelerklärung
+- [BGH, Beschluss vom 10.10.2017 - 2 StR 359/17](2-str-359-17.md) — Schuldfähigkeitsprüfung im Strafverfahren: Notwendige Urteilsfeststellungen zur Unrechtseinsicht eines Wahnkranken
+- [BGH, Beschluss vom 09.10.2017 - 2 StR 31/17](2-str-31-17.md) — Verstoß gegen Weisungen während der Führungsaufsicht: Voraussetzung der Gefährdung des Zwecks der Maßregel
+- [BGH, Beschluss vom 05.10.2017 - 2 StR 573/16](2-str-573-16.md) — Strafzumessung: Berücksichtigung einer überdurchschnittlich langen Verfahrensdauer
+- [BGH, Urteil vom 04.10.2017 - 2 StR 219/15](2-str-219-15.md) — Sexueller Kindesmissbrauch: Auswirkung des zeitlichen Abstandes zwischen Tat und Urteil im Rahmen der Strafzumessung; Einholung eines aussagepsychologischen Sac
+- [BGH, Urteil vom 04.10.2017 - 2 StR 260/17](2-str-260-17.md) — Versuchte Erpressung: Vermögensschaden bei Nötigung zur vertraglichen Übertragung eines Mietverhältnisses; Berücksichtigung von Erwerbs- und Gewinnaussichten be
+- [BGH, Urteil vom 27.09.2017 - 2 StR 146/17](2-str-146-17.md) — Strafurteil: Anforderungen an die Beweiswürdigung zu der Frage des Zwecks einer Nötigungshandlung
+- [BGH, Beschluss vom 21.09.2017 - 2 StR 275/17](2-str-275-17.md) — Strafurteil wegen sexuellen Kindesmissbrauchs: Anforderungen die Darlegungen zur Beweiswürdigung in "Aussage-gegen-Aussage"-Fällen
+- [BGH, Beschluss vom 21.09.2017 - 2 StR 327/17](2-str-327-17.md) — Revision in Strafsachen: Notwendige Besetzung der Strafkammer bei Nachholung der Eröffnungsentscheidung in der Hauptverhandlung; Erfordernis der Kenntlichmachun
+- [BGH, Beschluss vom 13.09.2017 - 2 StR 161/17](2-str-161-17.md) — Mittäterschaft bei schwerer bzw. gefährlicher Körperverletzung: Voraussetzungen bei einer Förderung der Tatausführung durch Beschaffung des Tatwerkzeuges und An
+- [BGH, Urteil vom 13.09.2017 - 2 StR 188/17](2-str-188-17.md) — Notwehr: Erforderlichkeit des lebensgefährlichen Einsatzes einer Schusswaffe; Aussetzung durch Zurücklassen des tödlich getroffenen Angreifers
+- [BGH, Urteil vom 13.09.2017 - 2 StR 238/16](2-str-238-16.md) — Unerlaubter Besitz von Betäubungsmitteln in nicht geringer Menge: Rechtfertigung des Anbaus von Cannabis zur Selbstmedikation
+- [BGH, Beschluss vom 12.09.2017 - 2 StR 101/17](2-str-101-17.md) — Berücksichtigung der psychischen Leiden des Kindesmissbrauchsopfers bei Strafzumessung sowie Gesamtstrafenbildung
+- [BGH, Beschluss vom 07.09.2017 - 2 StR 18/17](2-str-18-17.md) — Tötungsdelikt: Vorliegen eines einheitlichen Tatgeschehens bei Vorliegen mehrerer Verletzungshandlungen; dolus subsequens
+- [BGH, Urteil vom 07.09.2017 - 2 StR 24/16](2-str-24-16.md) — Zur Untreue eines Finanzbeamten bei Entscheidungen im Zusammenhang mit dem InvZulG 1999.
+- [BGH, Urteil vom 06.09.2017 - 2 StR 280/17](2-str-280-17.md) — Revisionsverfahren: Entbehrlichkeit eines Revisionsantrags; notwendige Feststellungen zu einem bewaffneten unerlaubten Handeltreiben mit Betäubungsmitteln in ni
+- [BGH, Beschluss vom 05.09.2017 - 2 StR 256/17](2-str-256-17.md) — Sexuelle Nötigung: Urteilsfeststellungen zur Gewaltanwendung
+- [BGH, Urteil vom 23.08.2017 - 2 StR 150/16](2-str-150-16.md) — Strafverfahren u.a. wegen versuchter räuberischer Erpressung mit Todesfolge: Vermögensschutz für Rauschgift; Konkurrenzen
+- [BGH, Beschluss vom 23.08.2017 - 2 StR 278/17](2-str-278-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Urteilsgründe bei psychischer Erkrankung und Drogenkonsum
+- [BGH, Urteil vom 23.08.2017 - 2 StR 456/16](2-str-456-16.md) — Insolvenzverschleppung: Umfang der gerichtlichen Kognitionspflicht; bedingt vorsätzliche Tatbegehung
+- [BGH, Urteil vom 23.08.2017 - 2 StR 560/15](2-str-560-15.md) — Strafurteil wegen Raubes: Vermögensschutz für nicht verkehrsfähige Betäubungsmittel; Voraussetzungen straferschwerender Berücksichtigung einer Vorbelastung
+- [BGH, Beschluss vom 16.08.2017 - 2 StR 199/17](2-str-199-17.md) — Hauptverfahren: Schriftlichkeitsgebot hinsichtlich der Verfahrenseröffnung; Konkludente Eröffnung durch Verfahrensverbindung
+- [BGH, Urteil vom 16.08.2017 - 2 StR 335/15](2-str-335-15.md) — BGH, Urteil 2 StR 335/15
+- [BGH, Urteil vom 16.08.2017 - 2 StR 344/15](2-str-344-15.md) — Schwere räuberischer Erpressung zum Nachteil eines Drogenkuriers
+- [BGH, Beschluss vom 03.08.2017 - 2 StR 257/17](2-str-257-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Verminderung der Steuerungsfähigkeit infolge einer Kombination aus Persönlichkeitsstörung und Substanzmissbr
+- [BGH, Beschluss vom 01.08.2017 - 2 StR 185/17](2-str-185-17.md) — Vergewaltigung: Absehen von erhöhtem Strafrahmen bei Zusammentreffen eines Regelbeispiels mit Milderungsgründen in einem Altfall
+- [BGH, Beschluss vom 27.07.2017 - 2 ARs 188/15](2-ars-188-15.md) — Gerichtliche Überprüfung von Presseäußerungen eines Staatsanwalts: Zulässiger Rechtsweg
+- [BGH, Beschluss vom 27.07.2017 - 2 StR 115/17](2-str-115-17.md) — Revisionsgerichtliche Prüfung der Beweiswürdigung im Strafurteil: Rechtsfehler des Tatgerichts bei lückenhafter Beweiswürdigung
+- [BGH, Urteil vom 26.07.2017 - 2 StR 132/17](2-str-132-17.md) — Revision in Strafsachen: Rechtsfehlerhafte Beweiswürdigung bei Freispruch trotz auf den Angeklagten als Täter hinweisender DNA-Spur
+- [BGH, Urteil vom 12.07.2017 - 2 StR 160/16](2-str-160-16.md) — Schwerer Raub: Mitgeführter Schlüssel als sonstiges Werkzeug zur Überwindung des Widerstands des Opfers
+- [BGH, Beschluss vom 11.07.2017 - 2 StR 220/17](2-str-220-17.md) — Abgrenzung von Mittäterschaft und Beihilfe beim Kraftfahrzeugdiebstahl
+- [BGH, Beschluss vom 06.07.2017 - 2 StR 86/17](2-str-86-17.md) — Waffenschmuggel: Abgrenzung der Durchfuhr von der Einfuhr von Kriegswaffen
+- [BGH, Urteil vom 05.07.2017 - 2 StR 110/17](2-str-110-17.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Bedingter Vorsatz hinsichtlich des Transports der tatsächlichen Rauschgiftmenge
+- [BGH, Beschluss vom 05.07.2017 - 2 StR 512/16](2-str-512-16.md) — Schwere räuberische Erpressung: Verschaffung eines vermögenswerten Vorteils bei Erzwingung eines Pfands für nicht bestehende Forderung; Bereicherungsabsicht
+- [BGH, Urteil vom 05.07.2017 - 2 StR 526/15](2-str-526-15.md) — Revision in Strafsachen: Wechsel der Angriffsrichtung einer Verfahrensrüge wegen unterlassener Mitteilung von Verständigungsgesprächen
+- [BGH, Urteil vom 28.06.2017 - 2 StR 178/16](2-str-178-16.md) — Neben der Verhängung lebenslanger Freiheitsstrafe ist die fakultative Anordnung der Sicherungsverwahrung zulässig.
+- [BGH, Urteil vom 28.06.2017 - 2 StR 92/17](2-str-92-17.md) — Raub: Tatrichterliche Beweiswürdigung einer versuchten Einflussnahme auf den Belastungszeugen; Konkurrenzverhältnis zwischen Freiheitsberaubung und Raub; strafm
+- [BGH, Beschluss vom 27.06.2017 - 2 StR 129/17](2-str-129-17.md) — Wiedereinsetzung im Strafverfahren: Anfechtung des Revisionsverwerfungsbeschlusses; Formfehler bei Zustellung des Hauptverhandlungsprotokolls als Wiedereinsetzu
+- [BGH, Beschluss vom 27.06.2017 - 2 StR 572/16](2-str-572-16.md) — Beweiswürdigung im Strafverfahren: Anforderungen an die Würdigung des Ergebnisses einer molekulargenetischen Vergleichsuntersuchung
+- [BGH, Beschluss vom 20.06.2017 - 2 StR 130/17](2-str-130-17.md) — Raub mit Todesfolge: Gewaltanwendung zur Ermöglichung von Flucht oder Beutesicherung
+- [BGH, Urteil vom 14.06.2017 - 2 StR 10/17](2-str-10-17.md) — Mord aus Heimtücke: Ausnutzungsbewusstsein bei spontanem Tatentschluss und affektiver Erregung; Urteilsfeststellungen zum Ausnutzungsbewusstsein
+- [BGH, Urteil vom 14.06.2017 - 2 StR 14/17](2-str-14-17.md) — Wohnungseinbruchdiebstahl: Vorliegen einer bandenmäßigen Tatbegehung bei "eingespielter Vorgehensweise" der Täter; Gewerbsmäßigkeit der Tatbegehung als Strafzum
+- [BGH, Beschluss vom 14.06.2017 - 2 StR 140/17](2-str-140-17.md) — Versuchter Totschlag: Notwendige tatrichterliche Feststellungen zum beendeten Versuch und zum strafbefreienden Rücktritt
+- [BGH, Beschluss vom 13.06.2017 - 2 StR 174/17](2-str-174-17.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Fortbestehender psychischer Defekt ohne Begehung erheblicher Straftaten über Jahre hinweg
+- [BGH, Beschluss vom 13.06.2017 - 2 StR 24/17](2-str-24-17.md) — Strafverfahren wegen Körperverletzung: Voraussetzungen einer Unterbringung des Angeklagten in einem psychiatrischen Krankenhaus wegen der Gefahr der Begehung er
+- [BGH, Beschluss vom 13.06.2017 - 2 StR 465/16](2-str-465-16.md) — Strafverfahren wegen sexuellen Kindesmissbrauchs: Rechtsfehlerhafte Nichtberücksichtigung des Ergebnisses einer gynäkologischen Untersuchung
+- [BGH, Beschluss vom 07.06.2017 - 2 ARs 45/15](2-ars-45-15.md) — Zuständiges Gericht bei Einspruch gegen den Bußgeldbescheid: Fall der Rechtsnachfolge und anderen Bezeichnung der zur Zeit des Erlasses des Bußgeldbescheids zus
+- [BGH, Beschluss vom 07.06.2017 - 2 ARs 46/15](2-ars-46-15.md) — Bußgeldverfahren: Örtlich zuständiges Gericht für die Entscheidung über den Einspruch gegen einen Bußgeldbescheid der „Generaldirektion Wasserstraßen und Schiff
+- [BGH, Urteil vom 07.06.2017 - 2 StR 30/16](2-str-30-16.md) — Gefährliche Körperverletzung: Strafschärfende Berücksichtigung der Tatmotivation
+- [BGH, Beschluss vom 07.06.2017 - 2 StR 474/16](2-str-474-16.md) — Strafurteil: Anforderungen an die Feststellungen zur Schuldfähigkeit des Angeklagten; Abweichung des Tatrichters von dem Gutachten des vernommenen Sachverständi
+- [BGH, Beschluss vom 06.06.2017 - 2 StR 103/17](2-str-103-17.md) — Unterbringung in einer Entziehungsanstalt: Begriff des Hanges; Prüfung der Aussichten auf das Wecken einer Therapiebereitschaft
+- [BGH, Beschluss vom 06.06.2017 - 2 StR 452/16](2-str-452-16.md) — Sexuelle Nötigung: Gewaltsames Entkleiden des Tatopfers als erhebliche sexuelle Handlung
+- [BGH, Beschluss vom 06.06.2017 - 2 StR 536/16](2-str-536-16.md) — Strafverfahren: Stellung eines Adhäsionsantrags unter der Bedingung der Bewilligung von Prozesskostenhilfe
+- [BGH, Beschluss vom 01.06.2017 - 2 StR 57/17](2-str-57-17.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Beurteilung der Einsichts- und Steuerungsfähigkeit
+- [BGH, Beschluss vom 31.05.2017 - 2 StR 428/16](2-str-428-16.md) — Ausschluss der Öffentlichkeit bei Vernehmung einer Beweisperson: Erstreckung des Ausschlusses auf damit zusammenhängende Verfahrensvorgänge; Beweiskraft des Pro
+- [BGH, Urteil vom 31.05.2017 - 2 StR 489/16](2-str-489-16.md) — Besonders schwerer Fall des Bankrotts: Handeln aus Gewinnsucht
+- [BGH, Beschluss vom 24.05.2017 - 2 StR 144/17](2-str-144-17.md) — Unterbringungsanordnung neben einer Freiheitsstrafe: Bemessung des Vorwegvollzuges vor Unterbringung
+- [BGH, Urteil vom 24.05.2017 - 2 StR 414/16](2-str-414-16.md) — 1. Strafbarkeit wegen Landfriedensbruchs setzt weder Täterschaft bei der Begehung von Gewalttätigkeiten noch die Zugehörigkeit des Beteiligten zur Menschenmenge
+- [BGH, Beschluss vom 23.05.2017 - 2 StR 34/17](2-str-34-17.md) — Revision in Strafsachen: Verwerfung der Revision bei Zweifeln an der wirksamen Urteilszustellung
+- [BGH, Beschluss vom 18.05.2017 - 2 StR 83/17](2-str-83-17.md) — Versuchter Totschlag: Anforderungen an einen bedingten Tötungsvorsatz
+- [BGH, Urteil vom 17.05.2017 - 2 StR 342/16](2-str-342-16.md) — Diebstahl und Raub: Abgrenzung von Wegnahme und Vermögensverfügung; Betäubungsmittel als fremde bewegliche Sache; Gesamtstrafenbildung bei Vorverurteilung
+- [BGH, Beschluss vom 17.05.2017 - 2 StR 526/16](2-str-526-16.md) — Strafsache: Wirksamkeit eines ein Rechtsmittel erledigenden Beschlusses eines unzuständigen Gerichts
+- [BGH, Beschluss vom 16.05.2017 - 2 StR 169/15](2-str-169-15.md) — Insolvenzverschleppung: Voraussetzungen der Zahlungsunfähigkeit einer GmbH; ernsthaftes Einfordern einer Leistung durch den Gläubiger; Herstellung von Liquiditä
+- [BGH, Beschluss vom 11.05.2017 - 2 StR 137/14](2-str-137-14.md) — Adhäsionsverfahren: Berücksichtigung der wirtschaftlichen Verhältnisse von Schädiger und Geschädigtem bei der Schmerzensgeldbemessung
+- [BGH, Beschluss vom 11.05.2017 - 2 StR 324/14](2-str-324-14.md) — Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers und des Geschädigten bei der Bemessung einer billigen Entschädigung in Geld
+- [BGH, Beschluss vom 11.05.2017 - 2 StR 374/14](2-str-374-14.md) — Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers und des Geschädigten bei der Bemessung einer billigen Entschädigung in Geld
+- [BGH, Beschluss vom 11.05.2017 - 2 StR 420/15](2-str-420-15.md) — Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers und des Geschädigten bei der Bemessung einer billigen Entschädigung in Geld
+- [BGH, Beschluss vom 11.05.2017 - 2 StR 428/14](2-str-428-14.md) — Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers und des Geschädigten bei der Bemessung einer billigen Entschädigung in Geld
+- [BGH, Beschluss vom 11.05.2017 - 2 StR 518/14](2-str-518-14.md) — Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers und des Geschädigten bei der Bemessung einer billigen Entschädigung in Geld
+- [BGH, Beschluss vom 11.05.2017 - 2 StR 522/14](2-str-522-14.md) — Berücksichtigung der wirtschaftlichen Verhältnisse des Schädigers und des Geschädigten bei der Bemessung einer billigen Entschädigung in Geld
+- [BGH, Beschluss vom 10.05.2017 - 2 StR 117/17](2-str-117-17.md) — Strafaussetzung zur Bewährung: Berücksichtigung des Verdachts einer anderen Straftat bei der Aussetzungsentscheidung
+- [BGH, Urteil vom 10.05.2017 - 2 StR 258/16](2-str-258-16.md) — Strafurteil: Notwendige Urteilsfeststellungen zur Person des Angeklagten bei Freispruch; Beweiswürdigung bei Teilschweigen des Angeklagten
+- [BGH, Urteil vom 10.05.2017 - 2 StR 427/16](2-str-427-16.md) — Strafurteil wegen sexuellen Missbrauchs von Kindern: Aufnahme neuer Erkenntnisse in die Urteilsgründe nach Anwendung einer falschen Rechtsnorm
+- [BGH, Urteil vom 10.05.2017 - 2 StR 438/16](2-str-438-16.md) — Revision in Strafsachen: Revisionsgerichtliche Überprüfung der tatrichterlichen Auslegung von Äußerungen und Erklärungen
+- [BGH, Beschluss vom 04.05.2017 - 2 ARs 156/17](2-ars-156-17.md) — Gerichtsstandsbestimmung in Strafsachen: Voraussetzung der Hauptverfahrenseröffnung
+- [BGH, Beschluss vom 04.05.2017 - 2 StR 30/17](2-str-30-17.md) — Anordnung des dinglichen Arrests im Strafurteil: Statthaftes Rechtsmittel
+- [BGH, Beschluss vom 04.05.2017 - 2 StR 570/16](2-str-570-16.md) — Unterbringung in einer Entziehungsanstalt: Erfolgsaussichtsprüfung in Ansehung gesetzlicher Neuregelung
+- [BGH, Urteil vom 03.05.2017 - 2 StR 576/15](2-str-576-15.md) — Mitteilungspflicht über Erörterungen zur Möglichkeit einer Verständigung: Anregung des Gerichts an die Staatsanwaltschaft zur Einstellung des Verfahrens wegen N
+- [BGH, Urteil vom 03.05.2017 - 2 StR 66/16](2-str-66-16.md) — Bandenmäßiger unerlaubter Handel mit Betäubungsmitteln in nicht geringer Menge: Schätzung des Wirkstoffgehalts im Rahmen der Strafzumessung
+- [BGH, Beschluss vom 02.05.2017 - 2 StR 575/16](2-str-575-16.md) — Versuchter Computerbetrug: Konkurrenzverhältnis bei Beteiligung an Tatserien versuchter Bargeldabhebungen an Geldautomaten
+- [BGH, Beschluss vom 27.04.2017 - 2 StR 592/16](2-str-592-16.md) — Strafurteil wegen Betäubungsmitteldelikten: Anforderungen an die Darlegung der Beweiswürdigung; Erfahrungssatz über die Rauschgiftmenge
+- [BGH, Beschluss vom 27.04.2017 - 2 StR 9/17](2-str-9-17.md) — Revision in Strafsachen: Sperrfrist zur Wiedererteilung der Fahrerlaubnis bei nachträglicher Gesamtstrafenbildung nach Zurückverweisung
+- [BGH, Beschluss vom 26.04.2017 - 2 StR 242/16](2-str-242-16.md) — Strafverfahren wegen Vorenthaltens und Veruntreuens von Arbeitsentgelt: Umgrenzungsfunktion einer Anklageschrift; gerichtliche Hinweispflicht zur Berechnung etw
+- [BGH, Urteil vom 26.04.2017 - 2 StR 247/16](2-str-247-16.md) — 1. Zur Rechtmäßigkeit sogenannter legendierter Kontrollen. 2. Es gibt weder einen allgemeinen Vorrang der Strafprozessordnung gegenüber dem Gefahrenabwehrrecht 
+- [BGH, Urteil vom 26.04.2017 - 2 StR 47/17](2-str-47-17.md) — Revision in Strafsachen: Überprüfung der tatrichterlichen Strafaussetzungsentscheidung
+- [BGH, Urteil vom 26.04.2017 - 2 StR 506/15](2-str-506-15.md) — Revision in Strafsachen: Beruhen des Urteils auf einem Verstoß gegen die Dokumentationspflicht über verständigungsbezogene Erörterungen
+- [BGH, Urteil vom 26.04.2017 - 2 StR 574/16](2-str-574-16.md) — Sexueller Missbrauch von Schutzbefohlenen und Kindern: Erheblichkeit der sexuellen Handlung
+- [BGH, Urteil vom 26.04.2017 - 2 StR 580/16](2-str-580-16.md) — Sexuelle Nötigung: Erheblichkeit sexueller Handlungen; Strafzumessung bei mehrfacher Tatbegehung über einen längeren Zeitraum; Berücksichtigung der Schaffung ei
+- [BGH, Beschluss vom 20.04.2017 - 2 ARs 348/16](2-ars-348-16.md) — Vollstreckung gegen Jugendliche: Zurücknahme der jugendrichterlichen Leitung
+- [BGH, Beschluss vom 20.04.2017 - 2 StR 346/16](2-str-346-16.md) — Schwerer sexueller Missbrauch eines Kindes: Beweiswürdigung bei "Aussage gegen Aussage"-Situation
+- [BGH, Beschluss vom 20.04.2017 - 2 StR 79/17](2-str-79-17.md) — Strafverfahren: Konkludente Bejahung des besonderen öffentlichen Interesses an der Strafverfolgung durch die Staatsanwaltschaft; gefährliche Körperverletzung du
+- [BGH, Urteil vom 19.04.2017 - 2 StR 290/16](2-str-290-16.md) — Gewerbsmäßiger Bandenbetrug: Begriff der Bande; Organisation des Verkaufs von Zeichnungsscheinen für ein gar nicht für einen Börsengang vorgesehenes Unternehmen
+- [BGH, Urteil vom 12.04.2017 - 2 StR 454/16](2-str-454-16.md) — Maßregelanordnung der Unterbringung in einem psychiatrischen Krankenhaus: Verwertung getilgter Verurteilungen bei Erstellung eines Gutachtens über den Geisteszu
+- [BGH, Beschluss vom 12.04.2017 - 2 StR 466/16](2-str-466-16.md) — Anordnung der Sicherungsverwahrung bei Strafverurteilung u.a. wegen sexuellen Kindesmissbrauchs: Notwendige Urteilsfeststellungen zur Ermessensausübung; strikte
+- [BGH, Beschluss vom 11.04.2017 - 2 StR 345/16](2-str-345-16.md) — Strafverfahren u.a. wegen unterlassener Hilfeleistung: Vorliegen eines Unglücksfalls bei Straftat mit erheblichem Verletzungsrisiko; erforderliche Urteilsfestst
+- [BGH, Urteil vom 05.04.2017 - 2 StR 40/16](2-str-40-16.md) — Betrug und Computerbetrug: Online-Reisebuchungen mit der Zahlungsart Lastschriftverfahren und Widerruf der Kontobelastungen nach Inanspruchnahme der Reiseleistu
+- [BGH, Beschluss vom 04.04.2017 - 2 StR 409/16](2-str-409-16.md) — Sexuelle Nötigung und Vergewaltigung in der Ehe: Beweiswürdigung hinsichtlich eines suggestiven Einflusses bei Erstoffenbarung gegenüber einer Präventologin
+- [BGH, Beschluss vom 28.03.2017 - 2 StR 395/16](2-str-395-16.md) — Wohnungseinbruchsdiebstahl: Beihilfe nach Tatbeendigung
+- [BGH, Beschluss vom 23.03.2017 - 2 StR 59/17](2-str-59-17.md) — Nachträgliche Gesamtstrafenbildung: Bezeichnung des Beschlusses als Urteil
+- [BGH, Urteil vom 22.03.2017 - 2 StR 656/13](2-str-656-13.md) — Mordmordmerkmal „niedere Beweggründe“: Tötung des Ehegatten aus Eifersucht
+- [BGH, Urteil vom 15.03.2017 - 2 StR 23/16](2-str-23-16.md) — Strafverfahren wegen Betäubungsmitteldelikten: Verwertbarkeit der Ergebnisse einer polizeilichen Durchsuchung eines Kurierfahrzeuges ohne Einholung einer richte
+- [BGH, Beschluss vom 15.03.2017 - 2 StR 270/16](2-str-270-16.md) — Verurteilung wegen Verstoßes gegen eine Gewaltschutzanordnung: Umfang der strafgerichtlichen Prüfung
+- [BGH, Urteil vom 15.03.2017 - 2 StR 294/16](2-str-294-16.md) — Beim Handeltreiben mit Betäubungsmitteln in nicht geringer Menge darf nur die Tatbegehung mit einer „nicht geringen Menge“ für sich genommen nicht bei der Straf
+- [BGH, Beschluss vom 15.03.2017 - 2 StR 557/16](2-str-557-16.md) — Anordnung der Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Urteilsgründe bei Heranziehung früherer Strafverfahren im Rahmen der Gefa
+- [BGH, Beschluss vom 15.03.2017 - 2 StR 581/16](2-str-581-16.md) — Unterbringung in einer Entziehungsanstalt: Hinreichende Erfolgsaussicht bei voraussichtlicher Dauer der Entzugsbehandlung von über 2 Jahren
+- [BGH, Beschluss vom 14.03.2017 - 2 StR 370/16](2-str-370-16.md) — Verdeckungsabsicht: Schwerer Raub als taugliche Vortat
+- [BGH, Urteil vom 08.03.2017 - 2 StR 429/16](2-str-429-16.md) — Gefährliche Körperverletzung: Lebensgefährdungsvorsatz bei Verpassen eines "Denkzettels"
+- [BGH, Urteil vom 22.02.2017 - 2 StR 291/16](2-str-291-16.md) — Betäubungsmitteldelikt: Berücksichtigung einer erst nach Eröffnung des Hauptverfahrens geleisteten verspäteten Aufklärungshilfe zugunsten des Angeklagten
+- [BGH, Urteil vom 22.02.2017 - 2 StR 573/15](2-str-573-15.md) — Betrug: Einfordern einer nicht bestehenden Forderung
+- [BGH, Beschluss vom 21.02.2017 - 2 ARs 62/17](2-ars-62-17.md) — Örtliche Zuständigkeit der Strafvollstreckungskammer: Entscheidung über die Erledigung des Maßregelvollzugs eines ins Ausland abgeschobenen Verurteilten; zwisch
+- [BGH, Beschluss vom 21.02.2017 - 2 StR 431/16](2-str-431-16.md) — Strafverfahren: Zuständigkeit für die Entscheidung über eine Kostenbeschwerde des Nebenklägers
+- [BGH, Beschluss vom 15.02.2017 - 2 StR 162/16](2-str-162-16.md) — Anwendung des auslieferungsrechtlicher Spezialitätsgrundsatzes bei freiwilligem Stellen durch den Täter; Verdeckungsabsicht
+- [BGH, Beschluss vom 14.02.2017 - 2 StR 303/16](2-str-303-16.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln u.a.: Verwerfung der Revision wegen Nichtberuhens des Urteils auf der Gefährlichkeitseinst
+- [BGH, Beschluss vom 08.02.2017 - 2 StR 375/16](2-str-375-16.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Notwendige Urteilsfeststellungen zur Höhe des zu zahlenden Arbeitsentgelts und des Beitragssatzes einer Kranken
+- [BGH, Urteil vom 01.02.2017 - 2 StR 78/16](2-str-78-16.md) — Beweiswürdigung im Strafverfahren: Wechsel der Einlassung des Angeklagten im Laufe der Hauptverhandlung; Geltung des Grundsatzes "in dubio pro reo" für entlaste
+- [BGH, Beschluss vom 31.01.2017 - 2 StR 413/16](2-str-413-16.md) — Strafzumessung: Berücksichtigung des Gewinnstreben des Angeklagten bei der Strafzumessung wegen unerlaubten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 24.01.2017 - 2 StR 188/16](2-str-188-16.md) — Gefährliche Körperverletzung: Anforderungen an eine gemeinschaftliche Tatbegehung
+- [BGH, Beschluss vom 24.01.2017 - 2 StR 459/16](2-str-459-16.md) — Mordmerkmal: Heimtücke
+- [BGH, Beschluss vom 24.01.2017 - 2 StR 509/16](2-str-509-16.md) — Beweisantrag auf Einholung eine Sachverständigengutachtens zur Lichtbildauswertung im Strafverfahren: Antragsablehnung unter Berufung auf eigene Sachkunde des G
+- [BGH, Beschluss vom 19.01.2017 - 2 ARs 426/16](2-ars-426-16.md) — Für die gerichtliche Entscheidung über die Genehmigung einer medizinischen Zwangsmedikation im Rahmen einer einstweiligen Unterbringung ist das Gericht zuständi
+- [BGH, Beschluss vom 19.01.2017 - 2 StR 549/15](2-str-549-15.md) — Vergütung des Pflichtverteidigers: Voraussetzungen für eine Pauschgebühr
+- [BGH, Beschluss vom 18.01.2017 - 2 ARs 278/16](2-ars-278-16.md) — Richterablehnung in Strafsachen: Völlig ungeeignet Begründung eines Befangenheitsantrags
+- [BGH, Beschluss vom 18.01.2017 - 2 StR 436/16](2-str-436-16.md) — Verminderte Schuldfähigkeit: Erhebliche Einschränkung der Steuerungsfähigkeit eines Rauschgiftsüchtigen
+- [BGH, Beschluss vom 18.01.2017 - 2 StR 496/16](2-str-496-16.md) — Strafverfahren: Fortgang des Verfahrens bei vorliegendem Anfragebeschluss betreffend dieselbe Rechtsfrage; Erpressung durch Nötigung zur Herausgabe von Betäubun
+- [BGH, Beschluss vom 11.01.2017 - 2 ARs 385/16, 2 ARs 387/16, 2 ARs 388/16](2-ars-385-16-2-ars-387-16-2-ars-388-16.md) — Zuständigkeitsbestimmung bei Strafvollstreckung: Beendigung des Befasstseins einer Strafvollstreckungskammer im Rahmen der Bewährungsaufsicht; Wechsel des Verur
+- [BGH, Urteil vom 11.01.2017 - 2 StR 323/16](2-str-323-16.md) — Beweiswürdigung im Strafverfahren: Abweichung des Gerichts von den Feststellungen des Sachverständigen
+- [BGH, Beschluss vom 11.01.2017 - 2 StR 463/16](2-str-463-16.md) — Verurteilung wegen Vergewaltigung: Anforderungen an die Beweiswürdigung bei Verdacht der Falschbelastung
+- [BGH, Beschluss vom 10.01.2017 - 2 StR 235/16](2-str-235-16.md) — Verurteilung wegen Sexualdelikten: Anforderungen an die Beweiswürdigung in den Urteilsgründen in einem Aussage-gegen-Aussage-Fall

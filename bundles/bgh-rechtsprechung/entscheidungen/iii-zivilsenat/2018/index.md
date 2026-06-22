@@ -1,0 +1,61 @@
+# III. Zivilsenat – 2018
+
+57 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2018 - III ZR 17/18](iii-zr-17-18.md) — 1. Wird der Anspruch (erstmals) klageerweiternd im Wege der Anschlussberufung geltend gemacht, so führt dies zur Verjährungshemmung nach § 204 Abs. 1 Nr. 1 BGB.
+- [BGH, Beschluss vom 29.11.2018 - III ZB 102/18](iii-zb-102-18.md) — Kein Anspruch auf Prozesskostenhilfe bei unzulässigem Rechtsmittel
+- [BGH, Beschluss vom 29.11.2018 - III ZB 19/18](iii-zb-19-18.md) — 1. Prozessuale rechtsstaatliche Grundsätze gelten für alle der staatlichen Justizgewalt unterworfenen Verfahrensbeteiligten, die nach Maßgabe der einschlägigen 
+- [BGH, Beschluss vom 29.11.2018 - III ZR 174/17](iii-zr-174-17.md) — Vorlagefrage an EuGH zu Zahlungsverzugsrichtlinie
+- [BGH, Beschluss vom 29.11.2018 - III ZR 222/18](iii-zr-222-18.md) — Die Bemessung des Streitwerts richtet sich nach §§ 8, 9 ZPO (Rechtsmittelbeschwer) beziehungsweise § 41 Abs. 1 GKG (Gebührenstreitwert), wenn sich der auf Räumu
+- [BGH, Urteil vom 15.11.2018 - III ZR 69/17](iii-zr-69-17.md) — 1. Ist die auf § 538 Abs. 2 Satz 1 Nr. 4 ZPO gestützte Aufhebung und Zurückverweisung der Sache an das Gericht der ersten Instanz verfahrensfehlerhaft erfolgt, 
+- [BGH, Urteil vom 08.11.2018 - III ZR 191/17](iii-zr-191-17.md) — 1. Bei einem dinglichen Arrest nach § 111b Abs. 2, 5 StPO in der Fassung vom 17. Juli 2015 ist der Gegenstandswert für eine zusätzliche Verfahrensgebühr nach Nr
+- [BGH, Urteil vom 08.11.2018 - III ZR 628/16](iii-zr-628-16.md) — 1. Steht dem Anleger ein vertragliches Recht auf Widerruf seiner Beitrittserklärung zu einer Fondsgesellschaft zu, welches - abgesehen von der Einhaltung einer 
+- [BGH, Beschluss vom 25.10.2018 - III ZB 71/18](iii-zb-71-18.md) — Gegen die Zurückweisung eines Antrags, die Aussetzung des Entschädigungsverfahrens gemäß § 201 Abs. 3 Satz 1 GVG aufzuheben und das Verfahren fortzusetzen, ist 
+- [BGH, Beschluss vom 25.10.2018 - III ZB 72/18](iii-zb-72-18.md) — Sofortige Beschwerde gegen Entscheidungen eines OLG
+- [BGH, Beschluss vom 25.10.2018 - III ZR 121/18](iii-zr-121-18.md) — Beiordnung eines Notanwalts: Mandatsniederlegung des Rechtsanwalts beim Bundesgerichtshof wegen Aussichtslosigkeit der Nichtzulassungsbeschwerde
+- [BGH, Urteil vom 25.10.2018 - III ZR 122/17](iii-zr-122-17.md) — Verjährungsbeginn bei falscher Zusicherung eines Anlageberaters
+- [BGH, Beschluss vom 23.10.2018 - III ZB 50/18](iii-zb-50-18.md) — Rechtsbeschwerde: Notwendiger Inhalt der Berufungsbegründung
+- [BGH, Beschluss vom 23.10.2018 - III ZB 54/18](iii-zb-54-18.md) — 1. Bei der Übermittlung eines fristgebundenen Schriftsatzes per Telefax muss der Absender die Belegung des Empfangsgeräts des Gerichts durch andere eingehende S
+- [BGH, Urteil vom 18.10.2018 - III ZR 236/17](iii-zr-236-17.md) — Hat der Sachversicherer zur Prüfung seiner Regulierungspflicht (Schadensermittlung) ein Sachverständigengutachten eingeholt, so kann er die hierfür angefallenen
+- [BGH, Urteil vom 18.10.2018 - III ZR 497/16](iii-zr-497-16.md) — Anrechnung von Vorteilen Jedenfalls wenn der Anleger auf der Grundlage eines einheitlichen Beratungsgesprächs zwei verschiedene, ihrer Struktur nach aber gleich
+- [BGH, Urteil vom 04.10.2018 - III ZR 213/17](iii-zr-213-17.md) — Schadensersatzklage wegen fehlerhafter Kapitalanlageberatung: Anforderungen an die Darlegungs- und Beweislast im Falle des Bestreitens der Übergabe eines Emissi
+- [BGH, Urteil vom 04.10.2018 - III ZR 292/17](iii-zr-292-17.md) — 1. § 87a Abs. 1 Satz 2 SGB XI regelt nicht allein die Zahlungspflicht des Kostenträgers, sondern erfasst ebenso die zivilrechtliche Vergütungspflicht des Heimbe
+- [BGH, Beschluss vom 20.09.2018 - III ZB 7/17](iii-zb-7-17.md) — (Isolierte Anfechtung einer Kostenentscheidung)
+- [BGH, Beschluss vom 20.09.2018 - III ZR 374/17](iii-zr-374-17.md) — Private Krankenversicherung: Kostenerstattung jenseits der Entgeltobergrenze einer Privatklinik
+- [BGH, Beschluss vom 20.09.2018 - III ZR 65/18](iii-zr-65-18.md) — Private Krankenversicherung: Kostenerstattung jenseits der Entgeltobergrenze einer Privatklinik
+- [BGH, Beschluss vom 20.09.2018 - III ZR 71/18](iii-zr-71-18.md) — Unbefugte Rechts- und Steuerberatung: Wirkung des Verbots der Beschränkung des freien Dienstleitungsverkehrs bei grenzüberschreitenden Dienstleistungen
+- [BGH, Urteil vom 13.09.2018 - III ZR 294/16](iii-zr-294-16.md) — 1. Bei einer schuldhaften Fehlleistung des Arztes hat der Patient einen Anspruch auf Schadensersatz aus § 280 Abs. 1 BGB. Ist die fehlerhafte Leistung des Arzte
+- [BGH, Urteil vom 13.09.2018 - III ZR 339/17](iii-zr-339-17.md) — 1. Der von einem rechtmäßigen Sicherungsarrest nach der Strafprozessordnung (Rückgewinnungshilfe) Betroffene hat keinen Anspruch auf Entschädigung wegen enteign
+- [BGH, Beschluss vom 06.09.2018 - III ZR 84/18](iii-zr-84-18.md) — Streitwerterhöhung bei Geltendmachung einer Nebenforderung
+- [BGH, Beschluss vom 30.08.2018 - III ZR 29/18](iii-zr-29-18.md) — Schadensersatz aus notarieller Amtshaftung im Zusammenhang mit der Beurkundung von Erwerbsverträgen für eine zu sanierende denkmalgeschützte Wohnanlage: Berücks
+- [BGH, Beschluss vom 30.08.2018 - III ZR 363/17](iii-zr-363-17.md) — 1. Für den Anspruch nach § 839a BGB ist danach zu unterscheiden, ob das unrichtige Gutachten für den Inhalt der gerichtlichen Entscheidung (mit-)ursächlich gewo
+- [BGH, Urteil vom 23.08.2018 - III ZR 192/17](iii-zr-192-17.md) — Preisnebenabreden Zur Inhaltskontrolle von Entgeltklauseln für den postalischen Versand und die Bereitstellung der Möglichkeit des Selbstausdrucks von Eintritts
+- [BGH, Urteil vom 23.08.2018 - III ZR 506/16](iii-zr-506-16.md) — gelöschter Zwangsversteigerungsvermerk 1. Zu den Voraussetzungen, unter denen die Unterschreitung der Frist des § 17 Abs. 2a Satz 2 Nr. 2 BeurkG unschädlich sei
+- [BGH, Urteil vom 16.08.2018 - III ZR 267/16](iii-zr-267-16.md) — Schlichtung als Prozessvoraussetzung: Auslegung einer Schlichtungsklausel; Ausschlussfrist zur Anrufung der Schlichtung
+- [BGH, Urteil vom 02.08.2018 - III ZR 466/16](iii-zr-466-16.md) — Zu den Anforderungen an die Beratungspflicht des Trägers der Sozialhilfe gemäß § 14 SGB I, wenn bei Beantragung von laufenden Leistungen der Grundsicherung wege
+- [BGH, Urteil vom 26.07.2018 - III ZR 391/17](iii-zr-391-17.md) — 1. Ein Luftverkehrsunternehmen hat gegen die Bundesrepublik Deutschland keinen Anspruch auf Erstattung von passagierbezogenen Zahlungen, die es für die Beförder
+- [BGH, Urteil vom 12.07.2018 - III ZR 183/17](iii-zr-183-17.md) — Beim Tod des Kontoinhabers eines sozialen Netzwerks geht der Nutzungsvertrag grundsätzlich nach § 1922 BGB auf dessen Erben über. Dem Zugang zu dem Benutzerkont
+- [BGH, Urteil vom 05.07.2018 - III ZR 273/16](iii-zr-273-16.md) — Verjährung, Aufwendungsersatzanspruch 1. Ansprüche aus § 670 BGB auf Ersatz von Aufwendungen, die im Rahmen einer mehraktigen Geschäftsbesorgung in aufeinander 
+- [BGH, Beschluss vom 05.07.2018 - III ZR 355/17](iii-zr-355-17.md) — 1. § 10 Abs. 3 BKleingG findet auf den Fall, dass der Zwischenpachtvertrag vom Zwischenpächter gekündigt wird, weder direkt noch analog Anwendung. Dies gilt auc
+- [BGH, Urteil vom 21.06.2018 - III ZR 187/17](iii-zr-187-17.md) — Zur Auslegung der Übergangsvorschrift des Art. 23 Satz 1 Halbsatz 2 ÜGRG in so genannten "Rüge-Mischfällen", wenn der Entschädigungskläger bei einem Altfall neb
+- [BGH, Urteil vom 14.06.2018 - III ZR 54/17](iii-zr-54-17.md) — 1. Die Haftung gemäß § 839 BGB i.V.m. Art. 34 Satz 1 GG wegen eines amtspflichtwidrigen Verhaltens eines zur Gefahrenabwehr handelnden Amtsträgers (hier: eines 
+- [BGH, Beschluss vom 07.06.2018 - III ZR 210/17](iii-zr-210-17.md) — Schadensersatzprozess zur Bankenhaftung wegen fehlerhafter Kapitalanlageberatung: Gehörsverletzung bei unterlassener Zeugenvernehmung zur nicht objektgerechten 
+- [BGH, Urteil vom 07.06.2018 - III ZR 351/17](iii-zr-351-17.md) — 1. Vom Klauselverbot des § 309 Nr. 9 Buchst. c BGB sind nur solche Kündigungsfristen erfasst, die eingehalten werden müssen, damit es nicht zu einer (stillschwe
+- [BGH, Beschluss vom 24.05.2018 - III ZA 30/17](iii-za-30-17.md) — Versäumung der Frist für einen Wiedereinsetzungsantrag in die versäumte Berufungsfrist nach Prozesskostenhilfebewilligung: Sorgfaltspflichten des neuen Prozessb
+- [BGH, Urteil vom 17.05.2018 - III ZR 195/17](iii-zr-195-17.md) — 1. Zur Verfassungsmäßigkeit der Entgeltbindung von Privatkliniken, die mit einem für die Behandlung durch Krankenkassen zugelassenen Krankenhaus, insbesondere m
+- [BGH, Beschluss vom 03.05.2018 - III ZR 429/16](iii-zr-429-16.md) — Verletzung rechtlichen Gehörs: Verweigerung der Zeugenvernehmung nach Ablauf einer zum Beweisantritt gesetzten Frist
+- [BGH, Urteil vom 26.04.2018 - III ZR 367/16](iii-zr-367-16.md) — Drittschutz Eine dem Vertragspartner des von einer Amtspflicht primär Geschützten (hier dem von dem Eigentümer beauftragten Generalunternehmer eines Bauvorhaben
+- [BGH, Urteil vom 19.04.2018 - III ZR 255/17](iii-zr-255-17.md) — Zur Auslegung einer Wahlleistungsvereinbarung, die den Kreis der Wahlärzte auf alle an der Behandlung beteiligten Ärzte des Krankenhauses erstreckt, soweit dies
+- [BGH, Urteil vom 12.04.2018 - III ZR 105/17](iii-zr-105-17.md) — 1. Bei der gemäß § 538 Abs. 2 Satz 1 Nr. 1 ZPO vom Berufungsgericht durchzuführenden Ermessensabwägung, ob eine eigene Sachentscheidung zu treffen oder ausnahms
+- [BGH, Urteil vom 05.04.2018 - III ZR 211/17](iii-zr-211-17.md) — Die Pflicht der Kraftfahrzeug-Zulassungsstelle, im Zusammenhang mit der Abstempelung des Kennzeichenschildes mit zugeteiltem Kennzeichen durch eine Stempelplake
+- [BGH, Urteil vom 05.04.2018 - III ZR 36/17](iii-zr-36-17.md) — Vorformulierte Bestimmungen in einem Wohn- und Betreuungsvertrag über vollstationäre Pflege zwischen einem Versicherten der Pflegeversicherung (Verbraucher) und
+- [BGH, Beschluss vom 29.03.2018 - III ZB 135/17](iii-zb-135-17.md) — 1. Lückenhafte Angaben bei der Ausfüllung des Vordrucks nach § 117 Abs. 4 ZPO zu den Einnahmen aus selbständiger oder nichtselbständiger Arbeit können auf ander
+- [BGH, Urteil vom 15.03.2018 - III ZR 126/17](iii-zr-126-17.md) — 1. Zur Einordnung eines Fernüberwachungsvertrags als Dienstvertrag. 2. Zur Unwirksamkeit einer Klausel in einem Fernüberwachungsvertrag, die eine Vertragslaufze
+- [BGH, Beschluss vom 08.03.2018 - III ZB 70/17](iii-zb-70-17.md) — Fehlerhafte Verwerfung der Berufung wegen Nichterreichens der Berufungsbeschwer: Ermittlung der Beschwer bei Verurteilung zur Auskunftserteilung und Rechnungsle
+- [BGH, Beschluss vom 15.02.2018 - III ZR 297/16](iii-zr-297-16.md) — Anspruch auf rechtliches Gehör: Gesamtwürdigung der Indizwirkung sämtlicher vorgelegter Unterlagen für die Zuordnung des Handelns eines Geschäftsführers zweier 
+- [BGH, Urteil vom 08.02.2018 - III ZR 65/17](iii-zr-65-17.md) — 1. Bei einem auf Treu und Glauben gestützten Auskunftsbegehren muss der Anspruchsberechtigte zunächst alle ihm zumutbaren Anstrengungen unternehmen, die Auskunf
+- [BGH, Urteil vom 01.02.2018 - III ZR 196/17](iii-zr-196-17.md) — Es widerspricht den Voraussetzungen des § 7 Abs. 2 Nr. 2 und 3 UWG nicht, wenn sich die in Allgemeinen Geschäftsbedingungen enthaltene Einwilligung eines Verbra
+- [BGH, Urteil vom 01.02.2018 - III ZR 53/17](iii-zr-53-17.md) — Geschäftsführung ohne Auftrag: Auskunftsanspruch des privaten Betreibers eines dualen Systems gegen einen öffentlich-rechtlichen Entsorgungsträger über die Erlö
+- [BGH, Beschluss vom 25.01.2018 - III ZR 561/16](iii-zr-561-16.md) — Einstweilige Einstellung der Zwangsvollstreckung im Revisionsverfahren: Stellung des vom Erblasser im Berufungsverfahren unterlassenen Vollstreckungsschutzantra
+- [BGH, Beschluss vom 11.01.2018 - III ZB 81/17, III ZB 82/17](iii-zb-81-17-iii-zb-82-17.md) — Dem Berufungsführer ist Wiedereinsetzung wegen der Versäumung der Frist zur Begründung der Berufung zu gewähren, wenn sein Prozessbevollmächtigter rechtzeitig v
+- [BGH, Beschluss vom 11.01.2018 - III ZB 87/17](iii-zb-87-17.md) — Prozesskostenhilfe: Mutwillige Rechtsverfolgung im gerichtlichen Mahnverfahren

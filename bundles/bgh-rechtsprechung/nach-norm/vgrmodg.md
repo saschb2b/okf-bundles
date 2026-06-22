@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VgRModG"
 description: "BGH-Entscheidungen zu VgRModG, geordnet nach Vorschrift."
 tags: [register, navigation, vgrmodg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des VgRModG ausle
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 128 VgRModG | [BGH, Beschluss vom 25.01.2012 - X ZB 3/11](../entscheidungen/x-zivilsenat/2012/x-zb-3-11.md) |
+| § VgRModG | [BGH, Beschluss vom 25.01.2012 - X ZB 3/11](../entscheidungen/x-zivilsenat/2012/x-zb-3-11.md) |

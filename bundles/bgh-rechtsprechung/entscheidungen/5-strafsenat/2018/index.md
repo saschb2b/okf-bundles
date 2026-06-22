@@ -1,0 +1,103 @@
+# 5. Strafsenat – 2018
+
+99 Entscheidung(en).
+
+- [BGH, Beschluss vom 13.12.2018 - 5 StR 275/18](5-str-275-18.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Begriff des Arbeitnehmers und der abhängigen Beschäftigung; Arbeitskräfte beim Auf- und Abbau von Bühnen vor un
+- [BGH, Beschluss vom 12.12.2018 - 5 StR 230/18](5-str-230-18.md) — Falschbeurkundung im Amt: Vorlage einer zwischen den Oberlandesgerichten streitigen Rechtsfrage an den Bundesgerichtshof; Beweiswirkung der am Kfz-Kennzeichen a
+- [BGH, Urteil vom 12.12.2018 - 5 StR 385/18](5-str-385-18.md) — Vollrausch: Abweichung von einem die Schuldfähigkeit beurteilenden Sachverständigengutachten; Vorhersehbarkeit der Rauschtat
+- [BGH, Beschluss vom 12.12.2018 - 5 StR 451/18](5-str-451-18.md) — Vergewaltigung: Anwendung bzw. Androhung von Gewalt
+- [BGH, Urteil vom 12.12.2018 - 5 StR 517/18](5-str-517-18.md) — Totschlag: Bedingter Tötungsvorsatz; Fehlen des Willenselements
+- [BGH, Beschluss vom 12.12.2018 - 5 StR 582/18](5-str-582-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gesamtwürdigung im Rahmen der Gefährlichkeitsprognose
+- [BGH, Beschluss vom 11.12.2018 - 5 StR 198/18](5-str-198-18.md) — Zu den Voraussetzungen und Folgen eines wirksamen Verzichts im Zusammenhang mit der Einziehung des Wertes von Taterträgen.
+- [BGH, Beschluss vom 11.12.2018 - 5 StR 373/18](5-str-373-18.md) — Aufhebung und Zurückverweisung der Adhäsionsentscheidung durch das Revisionasgericht
+- [BGH, Beschluss vom 11.12.2018 - 5 StR 577/18](5-str-577-18.md) — Raub: Zueignungsabsicht bei Wegnahme eines Mobiltelefons zur Löschung darauf gespeicherter Bilder
+- [BGH, Beschluss vom 10.12.2018 - 5 StR 270/18](5-str-270-18.md) — Verfahrensrüge: Auslegung des Protokolls; Beschwerde gegen Protokollberichtigung im Fall einer so genannten „Rügeverkümmerung“
+- [BGH, Beschluss vom 10.12.2018 - 5 StR 427/18](5-str-427-18.md) — Unterbringung in einer Entziehungsanstalt: Feststellung eines Hangs bei fehlender Drogenabhängigkeit
+- [BGH, Beschluss vom 10.12.2018 - 5 StR 539/18](5-str-539-18.md) — Einziehungsanordnung bei Erklärung des Verzichts auf Rückgabe
+- [BGH, Beschluss vom 29.11.2018 - 5 StR 362/18](5-str-362-18.md) — Strafverfahren: Voraussetzungen einer Verurteilung wegen Nötigung; Mindestvoraussetzungen für die Darstellung des Ergebnisses einer molekulargenetischen Verglei
+- [BGH, Beschluss vom 29.11.2018 - 5 StR 410/18](5-str-410-18.md) — (Rechtsmitteleinlegung durch einen Vertreter des Pflichtverteidigers)
+- [BGH, Beschluss vom 29.11.2018 - 5 StR 412/18](5-str-412-18.md) — Unterbringung in einem psychiatrischen Krankenhaus nach schwerer Brandstiftung: Darlegung einer Gefahr für die Allgemeinheit bei einer Anlasstat mit primär suiz
+- [BGH, Urteil vom 28.11.2018 - 5 StR 376/18](5-str-376-18.md) — Bildung der Gesamtstrafe: Schuldangemessenheit der Strafe
+- [BGH, Urteil vom 28.11.2018 - 5 StR 379/18](5-str-379-18.md) — Mord: Begriff der niedrigen Beweggründe; Maßstab für die Bewertung eines Beweggrundes
+- [BGH, Beschluss vom 27.11.2018 - 5 StR 234/18](5-str-234-18.md) — Selbstgeldwäsche durch Einzahlung auf ein für den Täter geführtes Bankkonto.
+- [BGH, Beschluss vom 27.11.2018 - 5 StR 445/18](5-str-445-18.md) — Einziehung des Wertersatzes: Beachtlichkeit der Zustimmung des Angeklagten zur Verwertung eines eingezogenen Vermögensgegenstands
+- [BGH, Beschluss vom 27.11.2018 - 5 StR 566/18](5-str-566-18.md) — Anforderung an Darstellung des Ergebnisse eines DNA-Gutachtens in Urteil
+- [BGH, Beschluss vom 27.11.2018 - 5 StR 604/18](5-str-604-18.md) — Strafsache: Mittäterschaft eines Kurierfahrers
+- [BGH, Urteil vom 07.11.2018 - 5 StR 241/18](5-str-241-18.md) — Besonders schwerer Raub: Verwendung eines Gegenstandes als Mittel der Gewalt; Schläge ins Gesicht als körperliche schwere Misshandlung
+- [BGH, Beschluss vom 07.11.2018 - 5 StR 449/18](5-str-449-18.md) — Voraussetzungen der Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 06.11.2018 - 5 StR 486/18](5-str-486-18.md) — Verständigung im Strafverfahren: Belehrung über Möglichkeit eines Entfallens der Bindung des Gerichts
+- [BGH, Beschluss vom 24.10.2018 - 5 StR 73/18](5-str-73-18.md) — Konkurrenzverhältnis: Gleichzeitigkeit und enger Zusammenhang von Geschehensabläufen
+- [BGH, Beschluss vom 23.10.2018 - 5 StR 185/18](5-str-185-18.md) — Wertersatzverfall bei Betrugstaten: Anwendbarkeit des neuen Abschöpfungsrechts; "Durchgriff" der Einziehung auf das Organ einer juristischen Person im Fall der 
+- [BGH, Urteil vom 10.10.2018 - 5 StR 179/18](5-str-179-18.md) — Dildo als gefährliches Werkzeug
+- [BGH, Urteil vom 10.10.2018 - 5 StR 274/18](5-str-274-18.md) — Absehen von der Anordnung der Unterbringung des Angeklagten in der Sicherungsverwahrung
+- [BGH, Beschluss vom 10.10.2018 - 5 StR 389/18](5-str-389-18.md) — Revision einer Nebenbetroffenen wegen Ablehnung von Beweisanträgen als bedeutungslos
+- [BGH, Beschluss vom 09.10.2018 - 5 StR 153/18](5-str-153-18.md) — Prepaid-Kreditkartenfälschung und große Zahl unechter Urkunden
+- [BGH, Urteil vom 25.09.2018 - 5 StR 251/18](5-str-251-18.md) — 1. Bei der Ermessensentscheidung nach § 31 Satz 1 BtMG sind gemäß § 31 Satz 3 BtMG in Verbindung mit § 46b Abs. 2 StGB alle strafzumessungsrelevanten Umstände d
+- [BGH, Beschluss vom 24.09.2018 - 5 StR 358/18](5-str-358-18.md) — Vergewaltigung: Erfordernis einer eigenhändigen Verwirklichung bei Mittäterschaft
+- [BGH, Urteil vom 13.09.2018 - 5 StR 107/18](5-str-107-18.md) — Akzeptanz eines friedensstiftenden Täter-Opfer-Ausgleichs nach heimtückischem Mordversuch
+- [BGH, Beschluss vom 13.09.2018 - 5 StR 421/18](5-str-421-18.md) — Notwehr: Rechtfertigung tödlicher Messerstiche
+- [BGH, Urteil vom 12.09.2018 - 5 StR 278/18](5-str-278-18.md) — Konkurrenz beim Aufbewahren von Betäubungsmitteln in einem Fahrzeug
+- [BGH, Beschluss vom 12.09.2018 - 5 StR 291/18](5-str-291-18.md) — Tatbestandsvoraussetzungen beim Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 30.08.2018 - 5 StR 411/18](5-str-411-18.md) — Tötung des Opfers und Zerteilen der Leiche: Mordmerkmal der niedrigen Beweggründe; Störung der Totenruhe
+- [BGH, Urteil vom 29.08.2018 - 5 StR 147/18](5-str-147-18.md) — Strafbare sexuelle Handlung nur bei nach dem äußeren Erscheinungsbild erkennbarer Sexualbezogenheit
+- [BGH, Urteil vom 29.08.2018 - 5 StR 214/18](5-str-214-18.md) — Kriterien bei Verhängung einer auf Schwere der Schuld basierender Jugendstrafe
+- [BGH, Beschluss vom 28.08.2018 - 5 StR 295/18](5-str-295-18.md) — Strafschärfende Berücksichtigung wahrheitswidriger Aussagen des Angeklagten im Strafprozess
+- [BGH, Beschluss vom 28.08.2018 - 5 StR 50/17](5-str-50-17.md) — Die biostatistische Wahrscheinlichkeitsberechnung ist in Bezug auf DNA-Einzelspuren standardisiert, so dass es einer Darstellung der Anzahl der untersuchten Mer
+- [BGH, Beschluss vom 16.08.2018 - 5 StR 348/18](5-str-348-18.md) — Betrugsrelevante Fehlvorstellungen aufgrund allgemeiner Erfahrungssätze
+- [BGH, Urteil vom 15.08.2018 - 5 StR 100/18](5-str-100-18.md) — Geldwäsche: Geldwäschetauglichkeit eines Vermögensgegenstands bei Vermengung mit legalen Finanzmitteln; Konkurrenzverhältnis bei mehreren Handlungen
+- [BGH, Urteil vom 15.08.2018 - 5 StR 160/18](5-str-160-18.md) — Berücksichtigung von spontanen Einlassungen des Angeklagten
+- [BGH, Beschluss vom 15.08.2018 - 5 StR 308/18](5-str-308-18.md) — Handlungseinheit bei tatsächlicher Gewalt über Waffen und Munition
+- [BGH, Beschluss vom 15.08.2018 - 5 StR 381/18](5-str-381-18.md) — Zusammenhang zwischen Bankrotthandlung und Zahlungseinstellung
+- [BGH, Urteil vom 15.08.2018 - 5 StR 638/17](5-str-638-17.md) — Unterschreitung der Mindeststrafe bei der Gesamtstrafenbildung
+- [BGH, Beschluss vom 01.08.2018 - 5 StR 228/18](5-str-228-18.md) — Eingriff in Verteidigungsrechte eines Angeklagten bei lediglich seitlichem Blick auf Zeugen
+- [BGH, Urteil vom 01.08.2018 - 5 StR 30/18](5-str-30-18.md) — Erpressung: Drohkulisse für Standgeldzahlung im Rotlichtmilieu
+- [BGH, Beschluss vom 01.08.2018 - 5 StR 320/18](5-str-320-18.md) — Revisionsentscheidung im überlangen Strafverfahren: Nachholung der vom Tatgericht versehentlich unterlassenen Kompensationsentscheidung wegen rechtsstaatswidrig
+- [BGH, Beschluss vom 01.08.2018 - 5 StR 330/18](5-str-330-18.md) — Rüge einer fehlerhaften Einführung eines Polizeiberichts in die Hauptverhandlung
+- [BGH, Beschluss vom 31.07.2018 - 5 StR 296/18](5-str-296-18.md) — Heimtücke bei Locken des Opfers in einen Hinterhalt
+- [BGH, Beschluss vom 19.07.2018 - 5 StR 209/18](5-str-209-18.md) — BGH, Beschluss 5 StR 209/18
+- [BGH, Beschluss vom 19.07.2018 - 5 StR 301/18](5-str-301-18.md) — Fortgesetzter schwerer sexueller Missbrauch eigener Kinder: Annahme einer Erhöhung des Unrechtsgehalts der Taten mangels Mitleids und wegen der Gefahr einer Übe
+- [BGH, Urteil vom 18.07.2018 - 5 StR 547/17](5-str-547-17.md) — Konkurrenzrechtliche Beurteilung eines Handeltreibens mit Betäubungsmitteln
+- [BGH, Urteil vom 18.07.2018 - 5 StR 645/17](5-str-645-17.md) — Absehen von einer Einziehung des Werts der Taterträge
+- [BGH, Urteil vom 18.07.2018 - 5 StR 72/18](5-str-72-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefahr der Begehung erheblicher rechtswidriger Taten; Überschreitung der Erheblichkeitsschwelle
+- [BGH, Beschluss vom 05.07.2018 - 5 StR 180/18](5-str-180-18.md) — (Informationspflichten eines Vorsitzenden über die Möglichkeit einer Verständigung)
+- [BGH, Urteil vom 04.07.2018 - 5 StR 46/18](5-str-46-18.md) — Verurteilung wegen Mordes: Anforderungen an die Verhandlungsfähigkeit im Revisionsverfahren; Überzeugungsbildung des Tatrichters aufgrund eines einzigen Beweisa
+- [BGH, Urteil vom 04.07.2018 - 5 StR 580/17](5-str-580-17.md) — Keine verminderte Schuldfähigkeit allein aufgrund Diagnose einer wahnhaften Störung
+- [BGH, Urteil vom 04.07.2018 - 5 StR 650/17](5-str-650-17.md) — Rechtsstaatswidrige polizeiliche Tatprovokation: Voraussetzungen für ein die Verurteilung des Beschuldigten ausschließendes Verfahrenshindernis
+- [BGH, Beschluss vom 03.07.2018 - 5 StR 38/18](5-str-38-18.md) — Schutzwürdiges Vertrauen auf Verurteilung gemäß eines rechtlichen Hinweises
+- [BGH, Urteil vom 20.06.2018 - 5 StR 68/18](5-str-68-18.md) — Besitz von Betäubungsmitteln in nicht geringer Menge bei zwei Teilmengen
+- [BGH, Beschluss vom 19.06.2018 - 5 StR 643/17](5-str-643-17.md) — Verfahrensrüge wegen übermüdetem Schöffen
+- [BGH, Beschluss vom 06.06.2018 - 5 StR 135/18](5-str-135-18.md) — Darlegungsanforderungen bei Unterbringung wegen Körperverletzung
+- [BGH, Beschluss vom 05.06.2018 - 5 StR 133/18](5-str-133-18.md) — (Anforderungen an einen Eröffnungsbeschluss)
+- [BGH, Beschluss vom 05.06.2018 - 5 StR 138/18](5-str-138-18.md) — Unterbringung in einem psychiatrischen Krankenhaus: Verminderung der Steuerungsfähigkeit infolge einer Kombination aus Persönlichkeitsstörung und geringem Alkoh
+- [BGH, Beschluss vom 05.06.2018 - 5 StR 159/18](5-str-159-18.md) — Gerichtsbeschluss bei nochmaliger Vernehmung eines Zeugen unter Ausschluss der Öffentlichkeit
+- [BGH, Urteil vom 24.05.2018 - 5 StR 623/17 und 5 StR 624/17](5-str-623-17-und-5-str-624-17.md) — (Anforderungen an eine Einziehung von Taterträgen)
+- [BGH, Urteil vom 09.05.2018 - 5 StR 17/18](5-str-17-18.md) — Die Rüge unzulässiger Verwertung von Durchsuchungsfunden erfordert einen Widerspruch in der Hauptverhandlung.
+- [BGH, Beschluss vom 09.05.2018 - 5 StR 616/17](5-str-616-17.md) — Strafbarkeit bei Herausgabe des Tatmessers an den Täter
+- [BGH, Beschluss vom 08.05.2018 - 5 StR 108/18](5-str-108-18.md) — Besetzungsrüge im Strafverfahren: Entbindung eines Schöffen wegen Urlaubs
+- [BGH, Beschluss vom 08.05.2018 - 5 StR 139/18](5-str-139-18.md) — Einziehung bei einer Verjährung von Ersatzansprüchen des Opfers
+- [BGH, Beschluss vom 08.05.2018 - 5 StR 65/18](5-str-65-18.md) — Strafverfahren wegen sexuellen Missbrauchs eines Kindes: Grenzen gerichtlicher Hinweispflicht wegen Veränderung der Sachlage
+- [BGH, Beschluss vom 24.04.2018 - 5 StR 85/18](5-str-85-18.md) — Urkundenfälschung durch Anbringen eines fremden Fahrzeugkennzeichens
+- [BGH, Beschluss vom 12.04.2018 - 5 StR 538/17](5-str-538-17.md) — Insolvenzverschleppung: Anforderungen an die Feststellungen zur Zahlungsunfähigkeit
+- [BGH, Urteil vom 11.04.2018 - 5 StR 595/17](5-str-595-17.md) — Versuchter Betrug: Schädigung des Vermögens der Terrororganisation IS als Vermögensschaden; Verbrechensverabredung
+- [BGH, Urteil vom 10.04.2018 - 5 StR 611/17](5-str-611-17.md) — Hat ein Angeklagter wirksam auf die Rückgabe bei ihm sichergestellter Betäubungsmittelerlöse verzichtet, bedarf es auch aufgrund der seit 1. Juli 2017 geltenden
+- [BGH, Beschluss vom 10.04.2018 - 5 StR 75/18](5-str-75-18.md) — Urkundenfälschung: Konkurrenzen bei mehrfachem Gebrauch einer gefälschten Urkunde
+- [BGH, Urteil vom 22.03.2018 - 5 StR 566/17](5-str-566-17.md) — 1. Ein Notar nimmt mit der Erhebung von Gebühren nach § 17 Abs. 1 Satz 1 BNotO eine Diensthandlung im Sinne von §§ 332, 334 StGB vor. 2. Wird er im Gegenzug für
+- [BGH, Urteil vom 22.03.2018 - 5 StR 603/17](5-str-603-17.md) — Zum Begriff des Warenvorrats im Sinne von § 306 Abs. 1 Nr. 3 Alternative 2 StGB.
+- [BGH, Beschluss vom 07.03.2018 - 5 StR 587/17](5-str-587-17.md) — Prozesskostenhilfebewilligung im Adhäsionsverfahren: Rückwirkende Entscheidung nach rechtskräftigem Verfahrensabschluss
+- [BGH, Beschluss vom 07.03.2018 - 5 StR 652/17](5-str-652-17.md) — Schwere Vergewaltigung: Erfüllung des Qualifikationstatbestands bei Verwendung eines Narkosemittels
+- [BGH, Beschluss vom 07.03.2018 - 5 StR 9/18](5-str-9-18.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Urteilsgründe hinsichtlich der Erfolgsaussicht bei Therapieunwilligkeit
+- [BGH, Beschluss vom 06.03.2018 - 5 StR 512/17](5-str-512-17.md) — Verfahrensabsprache im Jugendstrafverfahren
+- [BGH, Beschluss vom 06.03.2018 - 5 StR 585/17](5-str-585-17.md) — Strafverfahren: Belehrungspflichten bei Unterbreitung eines Verständigungsvorschlags
+- [BGH, Urteil vom 21.02.2018 - 5 StR 267/17](5-str-267-17.md) — Mord und Tötung auf Verlangen: Strafmilderung nach der sog. Rechtsfolgenlösung bei Befriedigung des Geschlechtstriebs
+- [BGH, Urteil vom 21.02.2018 - 5 StR 347/17](5-str-347-17.md) — Gefährliche Körperverletzung durch Tritte zum Kopf: Rücktritt vom unbeendetem Totschlagsversuch; Rücktrittshorizont; Anwendung des Zweifelssatzes
+- [BGH, Urteil vom 07.02.2018 - 5 StR 535/17](5-str-535-17.md) — Strafzumessung: Täter-Opfer-Ausgleich bei mehreren Geschädigten
+- [BGH, Beschluss vom 06.02.2018 - 5 StR 600/17](5-str-600-17.md) — Verständigung über das Verfahrensergebnis im Strafverfahren: Strafrechtliche Vermögensabschöpfung als Verständigungsgegenstand
+- [BGH, Beschluss vom 06.02.2018 - 5 StR 629/17](5-str-629-17.md) — Handeltreiben mit Betäubungsmitteln durch den Angestellten eines Ladens mit Internetcafé: Garantenpflicht des Betriebsinhabers zur Verhinderung von betriebsbezo
+- [BGH, Beschluss vom 25.01.2018 - 5 StR 511/17](5-str-511-17.md) — Sexueller Missbrauch von Kindern: Auswirkung des zeitlichen Abstands zwischen Tat und Verurteilung auf die Strafzumessung
+- [BGH, Beschluss vom 25.01.2018 - 5 StR 543/17](5-str-543-17.md) — Entfernung des Angeklagten aus der Hauptverhandlung während der Vernehmung einer jugendlichen Nebenklägerin: Verletzung der Pflicht zur sofortigen Unterrichtung
+- [BGH, Beschluss vom 25.01.2018 - 5 StR 582/17](5-str-582-17.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Bestimmung des Eigenverbrauchsanteils; Entscheidung über die Vollstreckungsreihenfolge
+- [BGH, Beschluss vom 24.01.2018 - 5 StR 457/17](5-str-457-17.md) — Strafurteil wegen fortgesetzten sexuellen Missbrauchs von Schutzbefohlenen: Notwendige Begründung bei Teileinstellung bezüglich einzelner Tatvorwürfe; Umfang de
+- [BGH, Beschluss vom 23.01.2018 - 5 StR 554/17](5-str-554-17.md) — Strafbare Verletzung von Gemeinschaftsmarken: Einfuhr gefälschter und mit Tarnaufklebern zum Passieren der Zollkontrolle versehener Bekleidungsstücke; Beurteilu
+- [BGH, Beschluss vom 23.01.2018 - 5 StR 625/17](5-str-625-17.md) — Reihenfolge der Strafvollstreckung: Anordnung des Vorwegvollzugs einer Freiheitsstrafe nach Untersuchungshaft
+- [BGH, Beschluss vom 11.01.2018 - 5 StR 445/17](5-str-445-17.md) — Revision in Jugendstrafsachen: Bildung der Einheitsjugendstrafe durch das Revisionsgericht
+- [BGH, Beschluss vom 09.01.2018 - 5 StR 541/17](5-str-541-17.md) — Keine Berücksichtigung einer sinkenden Hemmschwelle bei Serientaten zugunsten des Täters

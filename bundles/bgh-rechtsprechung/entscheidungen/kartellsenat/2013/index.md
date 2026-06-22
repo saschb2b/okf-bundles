@@ -1,0 +1,22 @@
+# Kartellsenat – 2013
+
+18 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.12.2013 - EnVR 18/12](envr-18-12.md) — 50Hertz Transmission GmbH 1. Als Erweiterungs- und Umstrukturierungsmaßnahmen im Sinne von § 23 Abs. 1 Satz 1 ARegV sind nicht nur Maßnahmen anzusehen, die durc
+- [BGH, Urteil vom 17.12.2013 - KZR 65/12](kzr-65-12.md) — Stromnetz Heiligenhafen 1. Gemeinden haben auch dann, wenn sie die Nutzung ihrer öffentlichen Verkehrswege zum Netzbetrieb einem Eigenbetrieb übertragen wollen,
+- [BGH, Urteil vom 17.12.2013 - KZR 66/12](kzr-66-12.md) — Stromnetz Berkenthin 1. Als marktbeherrschende Anbieter der Wegenutzungsrechte in ihrem Gebiet sind die Gemeinden verpflichtet, den Konzessionär für den Betrieb
+- [BGH, Beschluss vom 12.11.2013 - EnVR 33/12](envr-33-12.md) — Festlegung Tagesneuwerte Zur gerichtlichen Überprüfung der Festlegung der Bundesnetzagentur vom 17. Oktober 2007 (BK9-07/602-1) über die nach § 6 Abs. 3 GasNEV 
+- [BGH, Urteil vom 06.11.2013 - KZR 58/11](kzr-58-11.md) — VBL-Gegenwert 1. Die Versorgungsanstalt des Bundes und der Länder ist jedenfalls im Zusammenhang mit der Berechnung von Gegenwertansprüchen gegen frühere Beteil
+- [BGH, Urteil vom 24.09.2013 - KZR 62/11](kzr-62-11.md) — Anybet Die Ordnungsbehörde eines Bundeslandes, die eine Erlaubnis für bestimmte Glücksspielangebote aus ordnungsrechtlichen Gründen widerruft, handelt auch dann
+- [BGH, Beschluss vom 12.07.2013 - EnZR 73/12](enzr-73-12.md) — Kaufmännisch-bilanzielle Einspeisung von Strom aus Erneuerbaren Energien: Vom Erzeuger selbst verbrauchte Strommenge als netzentgeltpflichtige Entnahme; geschul
+- [BGH, Beschluss vom 12.07.2013 - KVR 11/12](kvr-11-12.md) — Wettbewerbsbeschränkung durch sog. Rabattstaffel: Gehörsverletzung bei fehlendem gerichtlichem Hinweis auf eine der Entscheidung zugrunde liegende Norm; sortime
+- [BGH, Beschluss vom 09.07.2013 - EnVR 23/12](envr-23-12.md) — E.ON Netz GmbH Die Genehmigung eines Investitionsbudgets für Maßnahmen in einem Verteilernetz, die durch die Integration von Anlagen nach dem Erneuerbare-Energi
+- [BGH, Beschluss vom 09.07.2013 - EnVR 37/11](envr-37-11.md) — KNS Die kalkulatorische Gewerbesteuer nach § 8 GasNEV ist keine Betriebssteuer im Sinne des § 11 Abs. 2 Satz 1 Nr. 3 ARegV. Sie zählt daher nicht zu den dauerha
+- [BGH, Beschluss vom 09.07.2013 - KVR 56/12](kvr-56-12.md) — Zulässigkeit der Fortsetzungsfeststellungsbeschwerde im Kartellverwaltungsverfahren: Gerichtliche Hinweispflicht auf Parteivortrag seitens der Bundesinnung der 
+- [BGH, EuGH-Vorlage vom 09.07.2013 - KZR 15/12](kzr-15-12.md) — Calciumcarbid-Kartell Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 Abs. 1 und 3 AEUV folgende die Auslegung des Unionsrechts betreffenden Fragen
+- [BGH, Beschluss vom 30.04.2013 - EnVR 22/12](envr-22-12.md) — Regionalwerk Bodensee GmbH & Co. KG 1. Die Regelungen in § 4 Abs. 3 Satz 1 Nr. 2 ARegV und § 26 Abs. 2 ARegV betreffen unterschiedliche Sachverhalte und sind ne
+- [BGH, Beschluss vom 30.04.2013 - EnVR 64/10](envr-64-10.md) — Energiewirtschaftliches Verwaltungsverfahren: Bestimmung der Erlösobergrenzen des Stromnetzbetreibers; Gewinnreduzierung durch steigende Verlustenergiekosten al
+- [BGH, Beschluss vom 26.02.2013 - EnVR 10/12](envr-10-12.md) — Photovoltaik-Anlage Der Anlagenbetreiber, der Strom aus Erneuerbaren Energien in ein Verteilernetz einspeist, ist berechtigt, die Messung der eingespeisten Stro
+- [BGH, Beschluss vom 26.02.2013 - KVZ 57/12](kvz-57-12.md) — Kartellrechtliches Auskunftsverlangen: Übermittlung von unternehmensbezogenen Daten über eine ungesicherte E-Mail-Verbindung an die Landeskartellbehörde
+- [BGH, Urteil vom 29.01.2013 - EnZR 16/12](enzr-16-12.md) — Energiewirtschaft: Verwirkung des Rückforderungsanspruchs von überhöhten Netznutzungsentgelten
+- [BGH, Urteil vom 29.01.2013 - KZR 8/10](kzr-8-10.md) — Internationale Zuständigkeit deutscher Gerichte: Negative Feststellungsklage betreffend das Nichtbestehen einer Haftung aus unerlaubter Handlung

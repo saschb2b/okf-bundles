@@ -1,0 +1,55 @@
+# XIII. Zivilsenat – 2023
+
+51 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2023 - XIII ZB 47/21](xiii-zb-47-21.md) — BGH, Beschluss XIII ZB 47/21
+- [BGH, Beschluss vom 19.12.2023 - XIII ZR 3/20](xiii-zr-3-20.md) — Rechtliches Gehör: Nichtberücksichtigung eines Beweisangebots
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 14/21](xiii-zb-14-21.md) — Ein Antrag auf Haftordnung im Hauptsacheverfahren ist auch dann zulässig, wenn zuvor im Verfahren über eine einstweilige Anordnung nach § 427 FamFG irrtümlich H
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 15/23](xiii-zb-15-23.md) — Grundsatz des fairen Verfahrens: Unterrichtung eines bevollmächtigten Rechtsanwalts vor Anhörungstermin
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 23/21](xiii-zb-23-21.md) — BGH, Beschluss XIII ZB 23/21
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 32/21](xiii-zb-32-21.md) — BGH, Beschluss XIII ZB 32/21
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 45/22](xiii-zb-45-22.md) — Ein Haftantrag unterliegt keinem gesetzlichen Schriftformerfordernis gemäß § 14b Abs. 1 FamFG und muss von der beteiligten Behörde nicht als elektronisches Doku
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 46/22](xiii-zb-46-22.md) — Von der persönlichen Anhörung des Betroffenen vor der Anordnung der Sicherungshaft kann trotz eines positiven Corona-PCR-Tests nicht abgesehen werden, wenn zumu
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 58/22](xiii-zb-58-22.md) — BGH, Beschluss XIII ZB 58/22
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 91/22](xiii-zb-91-22.md) — BGH, Beschluss XIII ZB 91/22
+- [BGH, Beschluss vom 05.12.2023 - XIII ZB 93/22](xiii-zb-93-22.md) — BGH, Beschluss XIII ZB 93/22
+- [BGH, Beschluss vom 22.11.2023 - XIII ZB 31/22](xiii-zb-31-22.md) — BGH, Beschluss XIII ZB 31/22
+- [BGH, Beschluss vom 22.11.2023 - XIII ZB 42/22](xiii-zb-42-22.md) — BGH, Beschluss XIII ZB 42/22
+- [BGH, Beschluss vom 07.11.2023 - XIII ZB 73/20](xiii-zb-73-20.md) — BGH, Beschluss XIII ZB 73/20
+- [BGH, Beschluss vom 10.10.2023 - XIII ZB 53/22](xiii-zb-53-22.md) — Beschwerdeberechtigung im Abschiebungshaftverfahren: Berücksichtigung einer vom Betroffenen benannten Vertrauensperson
+- [BGH, Beschluss vom 10.10.2023 - XIII ZB 66/21](xiii-zb-66-21.md) — BGH, Beschluss XIII ZB 66/21
+- [BGH, Beschluss vom 26.09.2023 - XIII ZB 65/21](xiii-zb-65-21.md) — Ein Auf- oder Wiederaufnahmeersuchen an einen anderen Staat unterbricht die Vier-Wochen-Frist des § 14 Abs. 3 Satz 3 AsylG mit der Folge, dass sie im Falle der 
+- [BGH, Beschluss vom 12.09.2023 - XIII ZA 6/23](xiii-za-6-23.md) — BGH, Beschluss XIII ZA 6/23
+- [BGH, Beschluss vom 12.09.2023 - XIII ZB 22/20](xiii-zb-22-20.md) — BGH, Beschluss XIII ZB 22/20
+- [BGH, Beschluss vom 12.09.2023 - XIII ZB 32/20](xiii-zb-32-20.md) — BGH, Beschluss XIII ZB 32/20
+- [BGH, Beschluss vom 12.09.2023 - XIII ZB 43/21](xiii-zb-43-21.md) — BGH, Beschluss XIII ZB 43/21
+- [BGH, Beschluss vom 12.09.2023 - XIII ZB 49/20](xiii-zb-49-20.md) — Teilnahme des Verfahrensbevollmächtigten an Anhörung im Freiheitsentziehungsverfahren gegen malischen Staatsangehörigen zur Sicherung der Abschiebung
+- [BGH, Beschluss vom 12.09.2023 - XIII ZB 68/20](xiii-zb-68-20.md) — Haftantrag gegen albanischen Staatsangehörigen wegen Fluchtgefahr mangels regelmäßigem Aufenthaltsort im Gebiet der Bundesrepublik
+- [BGH, Beschluss vom 12.09.2023 - XIII ZB 77/20](xiii-zb-77-20.md) — Grundsatzes des fairen Verfahrens in Freiheitsentziehungsverfahren gegen malischen Staatsbürger zur Sicherung der Abschiebung
+- [BGH, Beschluss vom 18.07.2023 - XIII ZB 24/22](xiii-zb-24-22.md) — BGH, Beschluss XIII ZB 24/22
+- [BGH, Beschluss vom 18.07.2023 - XIII ZB 27/21](xiii-zb-27-21.md) — BGH, Beschluss XIII ZB 27/21
+- [BGH, Beschluss vom 18.07.2023 - XIII ZB 29/20](xiii-zb-29-20.md) — Anhaltspunkte für Fluchtgefahr bei unerlaubt eingereistem Ausländer
+- [BGH, Beschluss vom 18.07.2023 - XIII ZB 33/21](xiii-zb-33-21.md) — BGH, Beschluss XIII ZB 33/21
+- [BGH, Beschluss vom 11.07.2023 - XIII ZA 3/23](xiii-za-3-23.md) — BGH, Beschluss XIII ZA 3/23
+- [BGH, Urteil vom 16.05.2023 - XIII ZR 14/21](xiii-zr-14-21.md) — GAEB-Dateiformat 1. Der Auftraggeber kann gemäß § 13 Abs. 1 Nr. 1 Satz 1 VOB/A 2016 festlegen, welche elektronischen Mittel (§§ 11, 11a VOB/A) bei der Einreichu
+- [BGH, Beschluss vom 09.05.2023 - XIII ZB 27/20](xiii-zb-27-20.md) — BGH, Beschluss XIII ZB 27/20
+- [BGH, Beschluss vom 09.05.2023 - XIII ZB 9/20](xiii-zb-9-20.md) — Eine Vertrauensperson, die am Haftanordnungsverfahren vor dem Amtsgericht nicht beteiligt war, ist nicht zur Einlegung der Rechtsbeschwerde gegen einen Beschlus
+- [BGH, Beschluss vom 25.04.2023 - XIII ZB 11/21](xiii-zb-11-21.md) — Ein rechtlich schützenswertes Interesse an der Einlegung einer unselbstständigen Anschlussbeschwerde fehlt, wenn mit der Anschließung lediglich das gleiche Ziel
+- [BGH, Beschluss vom 25.04.2023 - XIII ZB 7/21](xiii-zb-7-21.md) — BGH, Beschluss XIII ZB 7/21
+- [BGH, Beschluss vom 04.04.2023 - XIII ZB 3/21](xiii-zb-3-21.md) — BGH, Beschluss XIII ZB 3/21
+- [BGH, Beschluss vom 04.04.2023 - XIII ZB 75/20](xiii-zb-75-20.md) — BGH, Beschluss XIII ZB 75/20
+- [BGH, Beschluss vom 04.04.2023 - XIII ZB 79/20](xiii-zb-79-20.md) — BGH, Beschluss XIII ZB 79/20
+- [BGH, Beschluss vom 04.04.2023 - XIII ZB 8/22](xiii-zb-8-22.md) — BGH, Beschluss XIII ZB 8/22
+- [BGH, Beschluss vom 21.03.2023 - XIII ZB 13/22](xiii-zb-13-22.md) — BGH, Beschluss XIII ZB 13/22
+- [BGH, Beschluss vom 21.03.2023 - XIII ZB 22/22](xiii-zb-22-22.md) — BGH, Beschluss XIII ZB 22/22
+- [BGH, Beschluss vom 21.03.2023 - XIII ZB 32/22](xiii-zb-32-22.md) — BGH, Beschluss XIII ZB 32/22
+- [BGH, Beschluss vom 21.03.2023 - XIII ZB 76/20](xiii-zb-76-20.md) — Kostenfestsetzung: Vergütung des im Abschiebeverfahren tätigen Rechtsanwalts
+- [BGH, Urteil vom 21.03.2023 - XIII ZR 2/20](xiii-zr-2-20.md) — Anschlusskonkurrenz Eine verbindliche Reservierung von Einspeisekapazitäten bereits vor der anschlussfertigen Errichtung einer Anlage zur Erzeugung von Strom au
+- [BGH, Beschluss vom 28.02.2023 - XIII ZB 5/22](xiii-zb-5-22.md) — BGH, Beschluss XIII ZB 5/22
+- [BGH, Beschluss vom 28.02.2023 - XIII ZB 68/21](xiii-zb-68-21.md) — Das Beschleunigungsgebot ist nicht schon verletzt, wenn einer der für die Vorbereitung einer Abschiebung erforderlichen zahlreichen Bearbeitungsschritte nicht s
+- [BGH, Beschluss vom 28.02.2023 - XIII ZB 70/21](xiii-zb-70-21.md) — (Wirksamkeit eines Haftantrags bei fehlender Unterschrift; Hinzuziehung eines Bevollmächtigten zu einer Anhörung)
+- [BGH, Beschluss vom 14.02.2023 - XIII ZB 47/22](xiii-zb-47-22.md) — BGH, Beschluss XIII ZB 47/22
+- [BGH, Beschluss vom 14.02.2023 - XIII ZB 58/21](xiii-zb-58-21.md) — BGH, Beschluss XIII ZB 58/21
+- [BGH, Beschluss vom 31.01.2023 - XIII ZB 90/22](xiii-zb-90-22.md) — Rechtsanwälte, die in einem Verfahren das Amt des Verfahrenspflegers berufsmäßig ausüben und in dieser Eigenschaft eine Beschwerdeschrift nach § 64 Abs. 2 Satz 
+- [BGH, Beschluss vom 17.01.2023 - XIII ZB 20/21](xiii-zb-20-21.md) — BGH, Beschluss XIII ZB 20/21
+- [BGH, Beschluss vom 17.01.2023 - XIII ZB 48/21](xiii-zb-48-21.md) — BGH, Beschluss XIII ZB 48/21

@@ -1,0 +1,48 @@
+# Senat für Anwaltssachen – 2019
+
+44 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2019 - AnwZ (Brfg) 78/18](anwz-brfg-78-18.md) — Zulassung eines Verbandsgeschäftsführers zum Syndikusrechtsanwalt: Anwaltliche Prägung des Arbeitsverhältnisses durch Lektüre juristischer und nicht juristische
+- [BGH, Beschluss vom 11.12.2019 - AnwZ (Brfg) 50/19](anwz-brfg-50-19.md) — Widerruf der Zulassung zur Rechtsanwaltschaft: Vermutung des Vermögensverfalls bei Eintragung im Schuldnerverzeichnis; Anforderungen an die Widerlegung der Verm
+- [BGH, Beschluss vom 28.10.2019 - AnwZ (Brfg) 14/19](anwz-brfg-14-19.md) — Verwaltungsrechtliche Anwaltssache: Mehrfache Anrechenbarkeit einer Fachanwaltsfortbildung
+- [BGH, Beschluss vom 22.10.2019 - AnwZ (B) 1/18](anwz-b-1-18.md) — Verwaltungsrechtliche Anwaltssache: Besorgnis der Befangenheit wegen nichtöffentlicher Sitzung und Angebot der Herstellung der Öffentlichkeit
+- [BGH, Beschluss vom 21.10.2019 - AnwZ (Brfg) 32/19](anwz-brfg-32-19.md) — Vermögensverfall eines Rechtsanwalts bei Ratenzahlungsvereinbarungen
+- [BGH, Beschluss vom 15.10.2019 - AnwZ (Brfg) 6/19](anwz-brfg-6-19.md) — Widerruf der Zulassung zur Rechtsanwaltschaft wegen Vermögensverfall
+- [BGH, Urteil vom 30.09.2019 - AnwZ (Brfg) 32/18](anwz-brfg-32-18.md) — 1. Der zwingende Charakter der Sperrfrist des § 7 Nr. 3 BRAO steht einer Abkürzung derselben zwecks Kompensation einer rechtsstaatswidrigen Verfahrensverzögerun
+- [BGH, Urteil vom 30.09.2019 - AnwZ (Brfg) 38/18](anwz-brfg-38-18.md) — 1. Eine Zulassung als Syndikusrechtsanwalt scheidet aus, wenn der Antragsteller am Erlass hoheitlicher Maßnahmen mit Entscheidungsbefugnis beteiligt ist. Es kom
+- [BGH, Beschluss vom 30.09.2019 - AnwZ (Brfg) 38/19](anwz-brfg-38-19.md) — Zulassung als Syndikusrechtsanwalt: Wahrnehmung von Rechtsangelegenheiten der Mitglieder der Muttergesellschaft des Arbeitgebers
+- [BGH, Urteil vom 30.09.2019 - AnwZ (Brfg) 63/17](anwz-brfg-63-17.md) — 1. Für die anwaltliche Prägung des Arbeitsverhältnisses ist entscheidend, dass die anwaltliche Tätigkeit den Kern oder Schwerpunkt der Tätigkeit darstellt, mith
+- [BGH, Beschluss vom 27.08.2019 - AnwZ (Brfg) 35/19](anwz-brfg-35-19.md) — Widerruf der Zulassung zur Rechtsanwaltsschaft wegen Vermögensverfalls: Maßgeblicher Beurteilungszeitpunkt; Widerlegung der Vermutung des Vermögensverfalls nach
+- [BGH, Beschluss vom 16.08.2019 - AnwZ (Brfg) 58/18](anwz-brfg-58-18.md) — Syndikusrechtsanwalt bei Schadensfallbearbeitung für Kunden
+- [BGH, Beschluss vom 15.08.2019 - AnwZ (Brfg) 36/19](anwz-brfg-36-19.md) — Zulassung als Syndikusrechtsanwalt: Prägung der Tätigkeit bei einer Rechtsschutzversicherung durch selbständige und unabhängige anwaltliche Tätigkeit
+- [BGH, Beschluss vom 23.07.2019 - AnwZ (Brfg) 37/19](anwz-brfg-37-19.md) — Voraussetzungen der Zulassung zum Syndikusanwalt: Anwaltliche Prägung des Arbeitsverhältnisses; Tätigkeit des Leiters einer Privatschule
+- [BGH, Beschluss vom 01.07.2019 - AnwZ (Brfg) 33/19](anwz-brfg-33-19.md) — Berufungsbegründungsfrist bei Urteilszustellung am Wochenende
+- [BGH, Beschluss vom 26.06.2019 - AnwZ (Brfg) 29/19](anwz-brfg-29-19.md) — Anforderungen an die fachlich unabhängige Tätigkeit eines Syndikusrechtsanwalts
+- [BGH, Beschluss vom 24.06.2019 - AnwZ (Brfg) 18/19](anwz-brfg-18-19.md) — Verwaltungsrechtliche Anwaltssache wegen Zulassung als Syndikusrechtsanwalt: Zulassung der Berufung gegen ein Scheinurteil; Streitwertfestsetzung
+- [BGH, Beschluss vom 11.06.2019 - AnwZ (Brfg) 74/18](anwz-brfg-74-18.md) — Nachweis von Fallbearbeitungen für den Erwerb einer Fachanwaltsbezeichnung
+- [BGH, Beschluss vom 24.05.2019 - AnwZ (Brfg) 23/19](anwz-brfg-23-19.md) — Zulassung als Syndikusrechtsanwalt: Zulassung der Berufung bei rechtlicher Beratung von Kunden des Arbeitgebers in Datenschutzbelangen
+- [BGH, Beschluss vom 23.05.2019 - AnwZ (Brfg) 15/19](anwz-brfg-15-19.md) — Antrag auf Zulassung der Berufung in einem verwaltungsrechtlichen Anwaltsverfahren: Verpflichtung eines Rechtsanwalts zur Zahlung der beA-Umlage; Einwand mangel
+- [BGH, Beschluss vom 21.05.2019 - AnwZ (Brfg) 60/18](anwz-brfg-60-18.md) — (Widerlegung der Vermutung des Vermögensverfalls aufgrund von Eintragungen in das Schuldnerverzeichnis)
+- [BGH, Beschluss vom 14.05.2019 - AnwZ (Brfg) 34/18](anwz-brfg-34-18.md) — Vereinbarkeit von Rechtsanwaltsberuf und Bank-Stiftungsberatung
+- [BGH, Urteil vom 06.05.2019 - AnwZ (Brfg) 31/17](anwz-brfg-31-17.md) — Verwaltungsrechtliche Anwaltssache: Hinreichende Bestimmtheit eines Bescheids zur Zulassung eines Syndikusanwalts; Tätigkeit im öffentlichen Dienst als Zulassun
+- [BGH, Urteil vom 06.05.2019 - AnwZ (Brfg) 38/17](anwz-brfg-38-17.md) — Zulassung als Syndikusrechtsanwalt für eine Tätigkeit in einem Jobcenter
+- [BGH, Urteil vom 06.05.2019 - AnwZ (Brfg) 69/18](anwz-brfg-69-18.md) — Besonderes elektronisches Anwaltspostfach: Anspruch von Rechtsanwaltsgesellschaften auf Einrichtung eines eigenständigen beA
+- [BGH, Beschluss vom 25.04.2019 - AnwZ (Brfg) 57/18](anwz-brfg-57-18.md) — Irreführende Werbung und Verletzung des Sachlichkeitsgebots durch einen Rechtsanwalt: Eintrag in ein Online-Branchenbuch unter der Rubrik "Patentanwälte in (...
+- [BGH, Beschluss vom 05.04.2019 - AnwZ (Brfg) 3/19](anwz-brfg-3-19.md) — Widerruf der Zulassung zur Rechtsanwaltschaft wegen Vermögensverfalls: Voraussetzungen eines Ausnahmefalls von der gesetzlichen Wertung der grundsätzlichen Gefä
+- [BGH, Beschluss vom 05.04.2019 - AnwZ (Brfg) 79/18](anwz-brfg-79-18.md) — Anforderungen an die fachliche Unabhängigkeit eines Syndikusrechtsanwalts
+- [BGH, Urteil vom 18.03.2019 - AnwZ (Brfg) 22/17](anwz-brfg-22-17.md) — Zulassung als Syndikusrechtsanwalt: Zeitweilige Stellung des Rechtsanwalts als Mitgeschäftsführer einer GmbH
+- [BGH, Urteil vom 18.03.2019 - AnwZ (Brfg) 6/18](anwz-brfg-6-18.md) — Entspricht die vom Antragsteller zuletzt ausgeübte Tätigkeit den Anforderungen des § 46 Abs. 2 bis 5 BRAO, kann der Antrag auf Zulassung als Syndikusrechtsanwal
+- [BGH, Beschluss vom 04.03.2019 - AnwZ (Brfg) 82/18](anwz-brfg-82-18.md) — Widerruf der Zulassung zur Rechtsanwaltschaft bei Vermögensverfall
+- [BGH, Beschluss vom 27.02.2019 - AnwZ (Brfg) 36/17](anwz-brfg-36-17.md) — Bestimmtheitsanforderungen an den Zulassungsbescheid eines Syndikusrechtsanwalts
+- [BGH, Beschluss vom 26.02.2019 - AnwZ (Brfg) 49/18](anwz-brfg-49-18.md) — Zulassung zur Rechtsanwaltschaft: Widerruf wegen Ernennung zum Hochschulprofessor unter Berufung in das Beamtenverhältnis auf Lebenszeit
+- [BGH, Beschluss vom 25.02.2019 - AnwZ (Brfg) 80/18](anwz-brfg-80-18.md) — Gewichtung einzelner Fälle bei Beantragung der Fachanwaltsbezeichnung für Steuerrecht
+- [BGH, Beschluss vom 18.02.2019 - AnwZ (Brfg) 65/17](anwz-brfg-65-17.md) — Widerruf der Rechtsanwaltszulassung wegen Vermögensverfalls: Maßgeblicher Zeitpunkt für die Beurteilung der Rechtmäßigkeit des Widerrufs
+- [BGH, Beschluss vom 05.02.2019 - AnwZ (Brfg) 50/18](anwz-brfg-50-18.md) — Widerruf der Rechtsanwaltszulassung: Widerlegung der gesetzlichen Vermutung des Vermögensverfalls eines Rechtsanwalts trotz Eröffnung des Insolvenzverfahrens
+- [BGH, Beschluss vom 01.02.2019 - AnwZ (Brfg) 76/18](anwz-brfg-76-18.md) — Widerruf der Zulassung zur Rechtsanwaltschaft wegen Vermögensverfalls
+- [BGH, Beschluss vom 29.01.2019 - AnwZ (Brfg) 16/18](anwz-brfg-16-18.md) — Zulassung als Syndikusrechtsanwalt: Fachliche Unabhängigkeit eines bei einem Versicherungsunternehmen als Schadenssachbearbeiter tätigen Volljuristen
+- [BGH, Beschluss vom 18.01.2019 - AnwZ (Brfg) 19/18](anwz-brfg-19-18.md) — Klage gegen den Widerruf der Zulassung zur Rechtsanwaltschaft: Versäumung der Antragsbegründungsfrist für die Zulassung der Berufung nach Zustellung einer beric
+- [BGH, Urteil vom 14.01.2019 - AnwZ (Brfg) 25/18](anwz-brfg-25-18.md) — Voraussetzung für die Zulassung als Syndikusrechtsanwalt bei einer Tätigkeit im öffentlich-rechtlichen Rundfunk
+- [BGH, Beschluss vom 14.01.2019 - AnwZ (Brfg) 29/17](anwz-brfg-29-17.md) — Zulassung als Syndikusrechtsanwalt: Fehlen einer Alleinvertretungsbefugnis; summenmäßige Beschränkung der Entscheidungsbefugnis
+- [BGH, Urteil vom 14.01.2019 - AnwZ (Brfg) 50/17](anwz-brfg-50-17.md) — Wiederzulassung zur Rechtsanwaltschaft: Angemessener Zeitablauf nach Zulassungswiderruf wegen Vermögensverfalls und einer Strafverurteilung wegen Steuerhinterzi
+- [BGH, Beschluss vom 14.01.2019 - AnwZ (Brfg) 59/17](anwz-brfg-59-17.md) — Widerruf der Zulassung zur Rechtsanwaltschaft: Wirksamkeit der Zustellung des Bescheids trotz Unvollständigkeit der Zustellungsurkunde; Nachschieben von Wiedere
+- [BGH, Urteil vom 14.01.2019 - AnwZ (Brfg) 70/17](anwz-brfg-70-17.md) — Wiederzulassung zur Rechtsanwaltschaft: Zeitlicher Abstand zwischen den gravierenden und berufsbezogenen Straftaten des Bewerbers und dessen Wiederzulassung; Ve

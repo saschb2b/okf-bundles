@@ -1,0 +1,73 @@
+# Senat für Anwaltssachen – 2024
+
+69 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2024 - AnwZ (Brfg) 35/24](anwz-brfg-35-24.md) — BGH, Beschluss AnwZ (Brfg) 35/24
+- [BGH, Beschluss vom 16.12.2024 - AnwZ (Brfg) 31/24](anwz-brfg-31-24.md) — BGH, Beschluss AnwZ (Brfg) 31/24
+- [BGH, Beschluss vom 13.12.2024 - AnwSt (R) 4/24](anwst-r-4-24.md) — Anwaltgerichtliches Verfahren: Berücksichtigung des Grundsatzes der Verhältnismäßigkeit bei der Anordnung eines Vertretungsverbots
+- [BGH, Beschluss vom 13.12.2024 - AnwZ (Brfg) 29/24](anwz-brfg-29-24.md) — BGH, Beschluss AnwZ (Brfg) 29/24
+- [BGH, Beschluss vom 11.12.2024 - AnwSt (B) 6/24](anwst-b-6-24.md) — BGH, Beschluss AnwSt (B) 6/24
+- [BGH, Beschluss vom 11.12.2024 - AnwZ (Brfg) 34/24](anwz-brfg-34-24.md) — BGH, Beschluss AnwZ (Brfg) 34/24
+- [BGH, Beschluss vom 10.12.2024 - AnwZ (Brfg) 39/24](anwz-brfg-39-24.md) — BGH, Beschluss AnwZ (Brfg) 39/24
+- [BGH, Urteil vom 03.12.2024 - AnwZ (Brfg) 6/24](anwz-brfg-6-24.md) — Auswirkungen einer Übertragung des Arbeitsverhältnisses einer Syndikusrechtsanwältin auf ihre Zulassung als Rechtsanwältin
+- [BGH, Urteil vom 03.12.2024 - AnwZ (Brfg) 9/24](anwz-brfg-9-24.md) — BGH, Urteil AnwZ (Brfg) 9/24
+- [BGH, Beschluss vom 02.12.2024 - AnwZ(Brfg) 26/21](anwzbrfg-26-21.md) — BGH, Beschluss AnwZ(Brfg) 26/21
+- [BGH, Beschluss vom 29.11.2024 - AnwZ (Brfg) 38/24](anwz-brfg-38-24.md) — BGH, Beschluss AnwZ (Brfg) 38/24
+- [BGH, Urteil vom 11.11.2024 - AnwZ (Brfg) 17/23](anwz-brfg-17-23.md) — Anwaltliches Berufsrecht: Verfassungsmäßigkeit der Eintragung des Arbeitgebers eines Syndikusrechtsanwalts in das elektronische Anwaltsverzeichnis der Rechtsanw
+- [BGH, Urteil vom 11.11.2024 - AnwZ (Brfg) 22/23](anwz-brfg-22-23.md) — Zulassung eines GmbH-Geschäftsführers zur Rechtsanwaltschaft als Syndikusrechtsanwalt
+- [BGH, Beschluss vom 11.11.2024 - AnwZ (Brfg) 35/23](anwz-brfg-35-23.md) — Rechtsmäßigkeit des Kammerbeitrags in Rechtsanwaltskammer für Steuerberater
+- [BGH, Urteil vom 11.11.2024 - AnwZ (Brfg) 36/23](anwz-brfg-36-23.md) — Zulassung eines GmbH-Geschäftsführers als Syndikusrechtsanwalt
+- [BGH, Beschluss vom 14.10.2024 - AnwZ (Brfg) 25/24](anwz-brfg-25-24.md) — Befugnis zur Führung der Bezeichnung "Fachanwalt für Erbrecht"; Nachweis praktischer Erfahrungen auf dem Fachgebiet
+- [BGH, Beschluss vom 30.09.2024 - AnwZ (Brfg) 23/24](anwz-brfg-23-24.md) — BGH, Beschluss AnwZ (Brfg) 23/24
+- [BGH, Beschluss vom 30.09.2024 - AnwZ (Brfg) 28/24](anwz-brfg-28-24.md) — BGH, Beschluss AnwZ (Brfg) 28/24
+- [BGH, Beschluss vom 21.09.2024 - AnwSt (B) 3/21](anwst-b-3-21.md) — Anwaltsgerichtliches Verfahren: Unzulässigkeit des Ablehnungsantrags nach rechtskräftigem Verfahrensabschluss
+- [BGH, Beschluss vom 21.09.2024 - AnwSt (B) 4/21](anwst-b-4-21.md) — Anwaltgerichtliches Verfahren wegen berufsrechtlicher Pflichtverletzung: Verspäteter Antrag auf Ablehnung des Richters wegen Befangenheitsbesorgnis; Zuständigke
+- [BGH, Beschluss vom 03.09.2024 - AnwZ(Brfg) 4/24](anwzbrfg-4-24.md) — BGH, Beschluss AnwZ(Brfg) 4/24
+- [BGH, Beschluss vom 30.08.2024 - AnwZ (Brfg) 15/24](anwz-brfg-15-24.md) — Anwaltsgerichtliches Verfahren: Versagung der Wiederzulassung zur Rechtsanwaltschaft
+- [BGH, Beschluss vom 30.08.2024 - AnwZ (Brfg) 18/24](anwz-brfg-18-24.md) — Widerruf der Berechtigung zur Führung einer Fachanwaltsbezeichnung; Erfüllung der Fortbildungspflicht durch Lektüre von Fachzeitschriften
+- [BGH, Beschluss vom 30.08.2024 - AnwZ (Brfg) 19/24](anwz-brfg-19-24.md) — BGH, Beschluss AnwZ (Brfg) 19/24
+- [BGH, Beschluss vom 30.08.2024 - AnwZ (Brfg) 22/24](anwz-brfg-22-24.md) — BGH, Beschluss AnwZ (Brfg) 22/24
+- [BGH, Beschluss vom 08.08.2024 - AnwSt (B) 8/23](anwst-b-8-23.md) — BGH, Beschluss AnwSt (B) 8/23
+- [BGH, Beschluss vom 30.07.2024 - AnwSt (B) 1/24](anwst-b-1-24.md) — BGH, Beschluss AnwSt (B) 1/24
+- [BGH, Beschluss vom 30.07.2024 - AnwSt (B) 9/23](anwst-b-9-23.md) — BGH, Beschluss AnwSt (B) 9/23
+- [BGH, Beschluss vom 30.07.2024 - AnwZ (Brfg) 11/24](anwz-brfg-11-24.md) — Anwaltgerichtliches Verfahren über einen Zulassungswiderruf: Beauftragung eines Gutachters zur Beurteilung des Gesundheitszustands eines Rechtsanwalts
+- [BGH, Beschluss vom 30.07.2024 - AnwZ (Brfg) 13/24](anwz-brfg-13-24.md) — Informationsanspruch eines Rechtsanwalts über die Einrichtung eines besonderen elektronischen Anwaltspostfachs für weiteren Kanzleisitz
+- [BGH, Beschluss vom 30.07.2024 - AnwZ (Brfg) 21/24](anwz-brfg-21-24.md) — BGH, Beschluss AnwZ (Brfg) 21/24
+- [BGH, Beschluss vom 30.07.2024 - AnwZ (Brfg) 26/24](anwz-brfg-26-24.md) — BGH, Beschluss AnwZ (Brfg) 26/24
+- [BGH, Beschluss vom 30.07.2024 - AnwZ (Brfg) 48/23](anwz-brfg-48-23.md) — BGH, Beschluss AnwZ (Brfg) 48/23
+- [BGH, Beschluss vom 10.07.2024 - AnwZ (Brfg) 16/21](anwz-brfg-16-21.md) — BGH, Beschluss AnwZ (Brfg) 16/21
+- [BGH, Beschluss vom 10.07.2024 - AnwZ (Brfg) 26/21](anwz-brfg-26-21.md) — BGH, Beschluss AnwZ (Brfg) 26/21
+- [BGH, Urteil vom 05.07.2024 - AnwZ (Brfg) 1/23](anwz-brfg-1-23.md) — Zulassung eines bei einem Bistum angestellten Rechtsanwalts als Syndikusrechtsanwalt
+- [BGH, Urteil vom 05.07.2024 - AnwZ (Brfg) 12/23](anwz-brfg-12-23.md) — Zulassung eines bei einem Bistum angestellten Rechtsanwalts als Syndikusrechtsanwalt
+- [BGH, Beschluss vom 26.06.2024 - AnwZ (Brfg) 20/23](anwz-brfg-20-23.md) — BGH, Beschluss AnwZ (Brfg) 20/23
+- [BGH, Beschluss vom 14.06.2024 - AnwZ (Brfg) 14/24](anwz-brfg-14-24.md) — BGH, Beschluss AnwZ (Brfg) 14/24
+- [BGH, Beschluss vom 14.06.2024 - AnwZ (Brfg) 16/24](anwz-brfg-16-24.md) — BGH, Beschluss AnwZ (Brfg) 16/24
+- [BGH, Beschluss vom 10.06.2024 - AnwZ (Brfg) 47/23](anwz-brfg-47-23.md) — BGH, Beschluss AnwZ (Brfg) 47/23
+- [BGH, Beschluss vom 10.06.2024 - AnwZ (Brfg) 7/24](anwz-brfg-7-24.md) — BGH, Beschluss AnwZ (Brfg) 7/24
+- [BGH, Beschluss vom 23.05.2024 - AnwZ (Brfg) 12/24](anwz-brfg-12-24.md) — BGH, Beschluss AnwZ (Brfg) 12/24
+- [BGH, Beschluss vom 23.05.2024 - AnwZ (Brfg) 4/24](anwz-brfg-4-24.md) — BGH, Beschluss AnwZ (Brfg) 4/24
+- [BGH, Beschluss vom 13.05.2024 - AnwZ (Brfg) 17/24](anwz-brfg-17-24.md) — BGH, Beschluss AnwZ (Brfg) 17/24
+- [BGH, Beschluss vom 25.04.2024 - AnwZ (Brfg) 1/24](anwz-brfg-1-24.md) — BGH, Beschluss AnwZ (Brfg) 1/24
+- [BGH, Beschluss vom 25.04.2024 - AnwZ (Brfg) 10/24](anwz-brfg-10-24.md) — BGH, Beschluss AnwZ (Brfg) 10/24
+- [BGH, Beschluss vom 25.04.2024 - AnwZ (Brfg) 34/22](anwz-brfg-34-22.md) — Widerruf der Zulassung zur Rechtsanwaltschaft: Antrag auf Zulassung der Berufung
+- [BGH, Beschluss vom 25.04.2024 - AnwZ (Brfg) 5/24](anwz-brfg-5-24.md) — BGH, Beschluss AnwZ (Brfg) 5/24
+- [BGH, Beschluss vom 18.04.2024 - AnwZ (Brfg) 45/23](anwz-brfg-45-23.md) — Rechtsanwaltssache: Aufnahme eines in Großbritannien als Barrister zugelassenen Rechtsanwalts in eine Deutsche Rechtsanwaltskammer
+- [BGH, Beschluss vom 17.04.2024 - AnwZ (Brfg) 44/23](anwz-brfg-44-23.md) — BGH, Beschluss AnwZ (Brfg) 44/23
+- [BGH, Beschluss vom 17.04.2024 - AnwZ (Brfg) 8/24](anwz-brfg-8-24.md) — BGH, Beschluss AnwZ (Brfg) 8/24
+- [BGH, Beschluss vom 28.03.2024 - AnwZ (Brfg) 2/24](anwz-brfg-2-24.md) — BGH, Beschluss AnwZ (Brfg) 2/24
+- [BGH, Beschluss vom 28.03.2024 - AnwZ (Brfg) 3/24](anwz-brfg-3-24.md) — BGH, Beschluss AnwZ (Brfg) 3/24
+- [BGH, Beschluss vom 13.03.2024 - AnwZ (Brfg) 43/23](anwz-brfg-43-23.md) — Anwaltliches Berufsrecht: Zulassung eines GmbH-Geschäftsführers als Syndikusanwalt
+- [BGH, Beschluss vom 07.03.2024 - AnwZ (Brfg) 29/23](anwz-brfg-29-23.md) — Widerruf der Aufnahme eines in Großbritannien zugelassenen Solicitors als europäischer Rechtsanwalt nach Brexit
+- [BGH, Beschluss vom 07.03.2024 - AnwZ (Brfg) 39/23](anwz-brfg-39-23.md) — BGH, Beschluss AnwZ (Brfg) 39/23
+- [BGH, Beschluss vom 07.03.2024 - AnwZ (Brfg) 42/23](anwz-brfg-42-23.md) — BGH, Beschluss AnwZ (Brfg) 42/23
+- [BGH, Beschluss vom 22.02.2024 - AnwSt (R) 5/23](anwst-r-5-23.md) — BGH, Beschluss AnwSt (R) 5/23
+- [BGH, Beschluss vom 02.02.2024 - AnwZ (Brfg) 23/23](anwz-brfg-23-23.md) — BGH, Beschluss AnwZ (Brfg) 23/23
+- [BGH, Beschluss vom 02.02.2024 - AnwZ (Brfg) 27/23](anwz-brfg-27-23.md) — BGH, Beschluss AnwZ (Brfg) 27/23
+- [BGH, Beschluss vom 02.02.2024 - AnwZ (Brfg) 31/23](anwz-brfg-31-23.md) — BGH, Beschluss AnwZ (Brfg) 31/23
+- [BGH, Beschluss vom 02.02.2024 - AnwZ (Brfg) 34/23](anwz-brfg-34-23.md) — BGH, Beschluss AnwZ (Brfg) 34/23
+- [BGH, Beschluss vom 02.02.2024 - AnwZ (Brfg) 41/23](anwz-brfg-41-23.md) — BGH, Beschluss AnwZ (Brfg) 41/23
+- [BGH, Beschluss vom 01.02.2024 - AnwSt (R) 3/23](anwst-r-3-23.md) — BGH, Beschluss AnwSt (R) 3/23
+- [BGH, Beschluss vom 12.01.2024 - AnwZ (Brfg) 37/23](anwz-brfg-37-23.md) — BGH, Beschluss AnwZ (Brfg) 37/23
+- [BGH, Beschluss vom 12.01.2024 - AnwZ (Brfg) 38/23](anwz-brfg-38-23.md) — (Vergütung eines Kanzleiabwicklers; Kanzleikostenanteil)
+- [BGH, Beschluss vom 12.01.2024 - AnwZ (Brfg) 40/23](anwz-brfg-40-23.md) — BGH, Beschluss AnwZ (Brfg) 40/23
+- [BGH, Beschluss vom 10.01.2024 - AnwZ (Brfg) 15/23](anwz-brfg-15-23.md) — Elektronischer Rechtsverkehr im anwaltsgerichtlichen Verfahren: Nachträgliche Darlegung und Glaubhaftmachung der Voraussetzungen einer Ersatzeinreichung eines S

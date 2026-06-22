@@ -1,0 +1,18 @@
+# X. Zivilsenat – 2020
+
+14 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.11.2020 - X ZR 3/19](x-zr-3-19.md) — UKlaG-Streitwert Bei einer auf § 1 oder § 4a UKlaG gestützten Klage sind Gebührenstreitwert und Beschwer grundsätzlich auch dann allein nach dem Interesse der A
+- [BGH, Urteil vom 20.10.2020 - X ZR 7/20](x-zr-7-20.md) — Der Verzicht auf ein dingliches Wohnungsrecht stellt grundsätzlich auch dann eine Zuwendung aus dem Vermögen des Wohnungsberechtigten dar, wenn dieser im Zeitpu
+- [BGH, Urteil vom 22.09.2020 - X ZR 172/18](x-zr-172-18.md) — Truvada 1. Das nach Ablauf der Schutzdauer eines ergänzenden Schutzzertifikats erforderliche Rechtsschutzinteresse für eine Nichtigkeitsklage liegt vor, wenn ni
+- [BGH, Urteil vom 01.09.2020 - X ZR 97/19](x-zr-97-19.md) — Das ausführende Luftverkehrsunternehmen muss einem Fluggast, dem ein Ausgleichsanspruch nach Art. 7 FluggastrechteVO zusteht, grundsätzlich auch die Kosten für 
+- [BGH, Beschluss vom 14.07.2020 - X ZB 4/19](x-zb-4-19.md) — Druckstück § 14 Abs. 1 PatV in der Fassung vom 11. Mai 2004 steht in Einklang mit Art. 14 Abs. 1 und Art. 20 Abs. 3 GG.
+- [BGH, Beschluss vom 13.07.2020 - X ZR 90/18](x-zr-90-18.md) — Signalübertragungssystem Das nach Ablauf der Schutzdauer eines Patents erforderliche Rechtsschutzinteresse für eine Patentnichtigkeitsklage ist nur dann zu vern
+- [BGH, Urteil vom 07.07.2020 - X ZR 42/17](x-zr-42-17.md) — Unberechtigte Schutzrechtsverwarnung III 1. Erfolgt eine Schutzrechtsverwarnung teilweise zu Recht, geht sie aber ihrem Umfang nach über das hinaus, was der Rec
+- [BGH, Urteil vom 09.06.2020 - X ZR 142/18](x-zr-142-18.md) — Penetrometer Soll in einer Erfindergemeinschaft nach Bruchteilen mit Stimmenmehrheit beschlossen werden, dass einem Dritten die Nutzung der Erfindung gegen Entg
+- [BGH, Urteil vom 12.05.2020 - X ZR 10/19](x-zr-10-19.md) — 1. Eine Zuständigkeit nach Art. 7 Nr. 5 Brüssel-Ia-VO ergibt sich nicht schon daraus, dass eine Niederlassung ein vorgerichtliches Anspruchsschreiben des später
+- [BGH, Beschluss vom 28.04.2020 - X ZR 60/19](x-zr-60-19.md) — Berufungsbegründung durch Patentanwalt Ein Patentanwalt, der kurz vor Ablauf der dafür maßgeblichen Frist feststellt, dass die Telefax-Übermittlung einer Berufu
+- [BGH, Beschluss vom 14.04.2020 - X ZB 2/18](x-zb-2-18.md) — EPA-Vertreter Die Kosten der Mitwirkung eines beim Europäischen Patentamt zugelassenen Vertreters in einer Patentstreitsache sind entsprechend § 143 Abs. 3 PatG
+- [BGH, Beschluss vom 04.02.2020 - X ZB 11/18](x-zb-11-18.md) — Versäumung der Berufungsfrist: Email-Übermittlung eines im Original eigenhändig unterzeichneten Berufungsschriftsatzes per pdf-Datei
+- [BGH, Urteil vom 14.01.2020 - X ZR 110/18](x-zr-110-18.md) — Sturz des Reisenden im regennassen Hoteleingangsbereich: Reisemangel trotz Warnschild mit Hinweis auf Rutschgefahr
+- [BGH, Beschluss vom 14.01.2020 - X ZR 33/19](x-zr-33-19.md) — Akteneinsicht XXIV 1. Zu den Prozessakten im Sinne des § 299 Abs. 1 ZPO gehören grundsätzlich alle Schriftsätze und Unterlagen, die bei dem Gericht zu dem Recht

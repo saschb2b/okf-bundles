@@ -1,0 +1,315 @@
+# VI A – 2023
+
+311 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2023 - VIa ZR 1038/22](via-zr-1038-22.md) — BGH, Beschluss VIa ZR 1038/22
+- [BGH, Urteil vom 18.12.2023 - VIa ZR 1083/22](via-zr-1083-22.md) — Macht der Käufer eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs gegen den Fahrzeughersteller einen deliktischen Anspruch auf Ersatz des D
+- [BGH, Urteil vom 18.12.2023 - VIa ZR 1248/22](via-zr-1248-22.md) — Auf den Differenzschaden eines vorsteuerabzugsberechtigten Käufers ist die beim Fahrzeugkauf angefallene Umsatzsteuer im Wege der Vorteilsausgleichung anzurechn
+- [BGH, Urteil vom 18.12.2023 - VIa ZR 840/22](via-zr-840-22.md) — BGH, Urteil VIa ZR 840/22
+- [BGH, Urteil vom 18.12.2023 - VIa ZR 921/22](via-zr-921-22.md) — BGH, Urteil VIa ZR 921/22
+- [BGH, Beschluss vom 13.12.2023 - VIa ZR 1171/22](via-zr-1171-22.md) — BGH, Beschluss VIa ZR 1171/22
+- [BGH, Beschluss vom 13.12.2023 - VIa ZR 1441/22](via-zr-1441-22.md) — BGH, Beschluss VIa ZR 1441/22
+- [BGH, Beschluss vom 13.12.2023 - VIa ZR 151/22](via-zr-151-22.md) — BGH, Beschluss VIa ZR 151/22
+- [BGH, Beschluss vom 13.12.2023 - VIa ZR 619/22](via-zr-619-22.md) — BGH, Beschluss VIa ZR 619/22
+- [BGH, Urteil vom 11.12.2023 - VIa ZR 1012/22](via-zr-1012-22.md) — BGH, Urteil VIa ZR 1012/22
+- [BGH, Beschluss vom 11.12.2023 - VIa ZR 1442/22](via-zr-1442-22.md) — BGH, Beschluss VIa ZR 1442/22
+- [BGH, Urteil vom 11.12.2023 - VIa ZR 148/22](via-zr-148-22.md) — BGH, Urteil VIa ZR 148/22
+- [BGH, Beschluss vom 11.12.2023 - VIa ZR 1502/22](via-zr-1502-22.md) — BGH, Beschluss VIa ZR 1502/22
+- [BGH, Beschluss vom 11.12.2023 - VIa ZR 1684/22](via-zr-1684-22.md) — BGH, Beschluss VIa ZR 1684/22
+- [BGH, Urteil vom 11.12.2023 - VIa ZR 318/22](via-zr-318-22.md) — BGH, Urteil VIa ZR 318/22
+- [BGH, Urteil vom 11.12.2023 - VIa ZR 340/22](via-zr-340-22.md) — Für eine Haftung des Fahrzeugherstellers wegen eines Verstoßes gegen § 6 Abs. 1, § 27 Abs. 1 EG-FGV gegenüber dem Käufer eines mit einer unzulässigen Abschaltei
+- [BGH, Urteil vom 11.12.2023 - VIa ZR 574/22](via-zr-574-22.md) — BGH, Urteil VIa ZR 574/22
+- [BGH, Beschluss vom 11.12.2023 - VIa ZR 616/21](via-zr-616-21.md) — BGH, Beschluss VIa ZR 616/21
+- [BGH, Urteil vom 11.12.2023 - VIa ZR 680/22](via-zr-680-22.md) — BGH, Urteil VIa ZR 680/22
+- [BGH, Beschluss vom 11.12.2023 - VIa ZR 802/22](via-zr-802-22.md) — BGH, Beschluss VIa ZR 802/22
+- [BGH, Beschluss vom 04.12.2023 - VIa ZB 17/23](via-zb-17-23.md) — BGH, Beschluss VIa ZB 17/23
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 1067/22](via-zr-1067-22.md) — BGH, Urteil VIa ZR 1067/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 1073/22](via-zr-1073-22.md) — BGH, Urteil VIa ZR 1073/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 1081/22](via-zr-1081-22.md) — BGH, Urteil VIa ZR 1081/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 1099/22](via-zr-1099-22.md) — BGH, Urteil VIa ZR 1099/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 1285/22](via-zr-1285-22.md) — BGH, Urteil VIa ZR 1285/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 181/22](via-zr-181-22.md) — BGH, Urteil VIa ZR 181/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 281/21](via-zr-281-21.md) — BGH, Urteil VIa ZR 281/21
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 397/21](via-zr-397-21.md) — BGH, Urteil VIa ZR 397/21
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 421/22](via-zr-421-22.md) — BGH, Urteil VIa ZR 421/22
+- [BGH, Beschluss vom 04.12.2023 - VIa ZR 61/22](via-zr-61-22.md) — BGH, Beschluss VIa ZR 61/22
+- [BGH, Beschluss vom 04.12.2023 - VIa ZR 617/22](via-zr-617-22.md) — BGH, Beschluss VIa ZR 617/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 673/22](via-zr-673-22.md) — BGH, Urteil VIa ZR 673/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 689/22](via-zr-689-22.md) — BGH, Urteil VIa ZR 689/22
+- [BGH, Beschluss vom 04.12.2023 - VIa ZR 7/23](via-zr-7-23.md) — BGH, Beschluss VIa ZR 7/23
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 703/22](via-zr-703-22.md) — BGH, Urteil VIa ZR 703/22
+- [BGH, Beschluss vom 04.12.2023 - VIa ZR 743/22](via-zr-743-22.md) — BGH, Beschluss VIa ZR 743/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 817/22](via-zr-817-22.md) — BGH, Urteil VIa ZR 817/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 845/22](via-zr-845-22.md) — BGH, Urteil VIa ZR 845/22
+- [BGH, Urteil vom 04.12.2023 - VIa ZR 857/22](via-zr-857-22.md) — BGH, Urteil VIa ZR 857/22
+- [BGH, Beschluss vom 04.12.2023 - VIa ZR 91/22](via-zr-91-22.md) — BGH, Beschluss VIa ZR 91/22
+- [BGH, Urteil vom 27.11.2023 - VIa ZR 1062/22](via-zr-1062-22.md) — Zur Fassung eines Zahlungstitels im Falle des Abzugs von Nutzungsvorteilen in einem sogenannten Dieselfall.
+- [BGH, Urteil vom 27.11.2023 - VIa ZR 1425/22](via-zr-1425-22.md) — 1. Auf die deliktische Haftung des Herstellers eines in einem anderen Mitgliedstaat typgenehmigten Basisfahrzeugs, das als Wohnmobil vervollständigt in der Bund
+- [BGH, Urteil vom 27.11.2023 - VIa ZR 159/22](via-zr-159-22.md) — Auf den Differenzschaden ist der Restwert des Fahrzeugs im Wege der Vorteilsausgleichung ohne Rücksicht darauf anzurechnen, ob er durch eine Weiterveräußerung r
+- [BGH, Beschluss vom 27.11.2023 - VIa ZR 243/22](via-zr-243-22.md) — BGH, Beschluss VIa ZR 243/22
+- [BGH, Beschluss vom 27.11.2023 - VIa ZR 57/22](via-zr-57-22.md) — BGH, Beschluss VIa ZR 57/22
+- [BGH, Beschluss vom 27.11.2023 - VIa ZR 63/23](via-zr-63-23.md) — BGH, Beschluss VIa ZR 63/23
+- [BGH, Urteil vom 20.11.2023 - VIa ZR 119/21](via-zr-119-21.md) — BGH, Urteil VIa ZR 119/21
+- [BGH, Urteil vom 20.11.2023 - VIa ZR 133/22](via-zr-133-22.md) — BGH, Urteil VIa ZR 133/22
+- [BGH, Urteil vom 20.11.2023 - VIa ZR 289/22](via-zr-289-22.md) — BGH, Urteil VIa ZR 289/22
+- [BGH, Urteil vom 20.11.2023 - VIa ZR 319/22](via-zr-319-22.md) — BGH, Urteil VIa ZR 319/22
+- [BGH, Urteil vom 20.11.2023 - VIa ZR 323/22](via-zr-323-22.md) — BGH, Urteil VIa ZR 323/22
+- [BGH, Urteil vom 20.11.2023 - VIa ZR 367/22](via-zr-367-22.md) — BGH, Urteil VIa ZR 367/22
+- [BGH, Urteil vom 20.11.2023 - VIa ZR 445/22](via-zr-445-22.md) — BGH, Urteil VIa ZR 445/22
+- [BGH, Urteil vom 20.11.2023 - VIa ZR 661/21](via-zr-661-21.md) — BGH, Urteil VIa ZR 661/21
+- [BGH, Beschluss vom 20.11.2023 - VIa ZR 668/22](via-zr-668-22.md) — BGH, Beschluss VIa ZR 668/22
+- [BGH, Beschluss vom 20.11.2023 - VIa ZR 934/22](via-zr-934-22.md) — BGH, Beschluss VIa ZR 934/22
+- [BGH, Beschluss vom 20.11.2023 - VIa ZR 938/22](via-zr-938-22.md) — BGH, Beschluss VIa ZR 938/22
+- [BGH, Beschluss vom 20.11.2023 - VIa ZR 988/22](via-zr-988-22.md) — BGH, Beschluss VIa ZR 988/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 1041/22](via-zr-1041-22.md) — BGH, Beschluss VIa ZR 1041/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 1065/22](via-zr-1065-22.md) — BGH, Urteil VIa ZR 1065/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 1179/22](via-zr-1179-22.md) — BGH, Beschluss VIa ZR 1179/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 1188/22](via-zr-1188-22.md) — BGH, Beschluss VIa ZR 1188/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 1251/22](via-zr-1251-22.md) — BGH, Beschluss VIa ZR 1251/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 129/22](via-zr-129-22.md) — BGH, Urteil VIa ZR 129/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 147/21](via-zr-147-21.md) — BGH, Urteil VIa ZR 147/21
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 1530/22](via-zr-1530-22.md) — BGH, Beschluss VIa ZR 1530/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 252/22](via-zr-252-22.md) — BGH, Urteil VIa ZR 252/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 303/22](via-zr-303-22.md) — BGH, Urteil VIa ZR 303/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 387/22](via-zr-387-22.md) — BGH, Urteil VIa ZR 387/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 390/22](via-zr-390-22.md) — BGH, Beschluss VIa ZR 390/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 429/22](via-zr-429-22.md) — BGH, Beschluss VIa ZR 429/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 510/22](via-zr-510-22.md) — BGH, Urteil VIa ZR 510/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 57/23](via-zr-57-23.md) — BGH, Beschluss VIa ZR 57/23
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 582/22](via-zr-582-22.md) — BGH, Urteil VIa ZR 582/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 591/22](via-zr-591-22.md) — BGH, Urteil VIa ZR 591/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 597/22](via-zr-597-22.md) — BGH, Beschluss VIa ZR 597/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 693/22](via-zr-693-22.md) — BGH, Beschluss VIa ZR 693/22
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 753/23](via-zr-753-23.md) — BGH, Beschluss VIa ZR 753/23
+- [BGH, Beschluss vom 13.11.2023 - VIa ZR 828/22](via-zr-828-22.md) — BGH, Beschluss VIa ZR 828/22
+- [BGH, Urteil vom 13.11.2023 - VIa ZR 885/22](via-zr-885-22.md) — BGH, Urteil VIa ZR 885/22
+- [BGH, Beschluss vom 06.11.2023 - VIa ZR 1555/22](via-zr-1555-22.md) — BGH, Beschluss VIa ZR 1555/22
+- [BGH, Beschluss vom 06.11.2023 - VIa ZR 1603/22](via-zr-1603-22.md) — BGH, Beschluss VIa ZR 1603/22
+- [BGH, Beschluss vom 06.11.2023 - VIa ZR 29/23](via-zr-29-23.md) — BGH, Beschluss VIa ZR 29/23
+- [BGH, Beschluss vom 06.11.2023 - VIa ZR 425/22](via-zr-425-22.md) — BGH, Beschluss VIa ZR 425/22
+- [BGH, Beschluss vom 06.11.2023 - VIa ZR 427/22](via-zr-427-22.md) — BGH, Beschluss VIa ZR 427/22
+- [BGH, Urteil vom 06.11.2023 - VIa ZR 535/21](via-zr-535-21.md) — Im Fall der fehlenden Grenzwertkausalität bestehen keine Anhaltspunkte für eine Täuschung der Genehmigungsbehörde mit dem Ziel, die EG-Typgenehmigung zu erhalte
+- [BGH, Beschluss vom 06.11.2023 - VIa ZR 667/22](via-zr-667-22.md) — BGH, Beschluss VIa ZR 667/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 1148/22](via-zr-1148-22.md) — BGH, Beschluss VIa ZR 1148/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 1190/22](via-zr-1190-22.md) — BGH, Beschluss VIa ZR 1190/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 1192/22](via-zr-1192-22.md) — BGH, Beschluss VIa ZR 1192/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 1202/22](via-zr-1202-22.md) — BGH, Beschluss VIa ZR 1202/22
+- [BGH, Urteil vom 30.10.2023 - VIa ZR 1230/22](via-zr-1230-22.md) — BGH, Urteil VIa ZR 1230/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 170/23](via-zr-170-23.md) — BGH, Beschluss VIa ZR 170/23
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 182/22](via-zr-182-22.md) — BGH, Beschluss VIa ZR 182/22
+- [BGH, Urteil vom 30.10.2023 - VIa ZR 183/21](via-zr-183-21.md) — BGH, Urteil VIa ZR 183/21
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 192/22](via-zr-192-22.md) — BGH, Beschluss VIa ZR 192/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 238/22](via-zr-238-22.md) — BGH, Beschluss VIa ZR 238/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 248/22](via-zr-248-22.md) — BGH, Beschluss VIa ZR 248/22
+- [BGH, Urteil vom 30.10.2023 - VIa ZR 255/21](via-zr-255-21.md) — BGH, Urteil VIa ZR 255/21
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 278/22](via-zr-278-22.md) — BGH, Beschluss VIa ZR 278/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 314/22](via-zr-314-22.md) — BGH, Beschluss VIa ZR 314/22
+- [BGH, Urteil vom 30.10.2023 - VIa ZR 320/22](via-zr-320-22.md) — BGH, Urteil VIa ZR 320/22
+- [BGH, Urteil vom 30.10.2023 - VIa ZR 386/22](via-zr-386-22.md) — BGH, Urteil VIa ZR 386/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 406/22](via-zr-406-22.md) — BGH, Beschluss VIa ZR 406/22
+- [BGH, Urteil vom 30.10.2023 - VIa ZR 440/22](via-zr-440-22.md) — BGH, Urteil VIa ZR 440/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 524/22](via-zr-524-22.md) — BGH, Beschluss VIa ZR 524/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 554/23](via-zr-554-23.md) — BGH, Beschluss VIa ZR 554/23
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 738/22](via-zr-738-22.md) — BGH, Beschluss VIa ZR 738/22
+- [BGH, Urteil vom 30.10.2023 - VIa ZR 870/22](via-zr-870-22.md) — BGH, Urteil VIa ZR 870/22
+- [BGH, Beschluss vom 30.10.2023 - VIa ZR 962/22](via-zr-962-22.md) — BGH, Beschluss VIa ZR 962/22
+- [BGH, Beschluss vom 26.10.2023 - VIa ZR 34/23](via-zr-34-23.md) — BGH, Beschluss VIa ZR 34/23
+- [BGH, Urteil vom 23.10.2023 - VIa ZR 1209/22](via-zr-1209-22.md) — BGH, Urteil VIa ZR 1209/22
+- [BGH, Beschluss vom 23.10.2023 - VIa ZR 126/21](via-zr-126-21.md) — BGH, Beschluss VIa ZR 126/21
+- [BGH, Beschluss vom 23.10.2023 - VIa ZR 1704/22](via-zr-1704-22.md) — BGH, Beschluss VIa ZR 1704/22
+- [BGH, Urteil vom 23.10.2023 - VIa ZR 186/22](via-zr-186-22.md) — BGH, Urteil VIa ZR 186/22
+- [BGH, Beschluss vom 23.10.2023 - VIa ZR 312/22](via-zr-312-22.md) — BGH, Beschluss VIa ZR 312/22
+- [BGH, Beschluss vom 23.10.2023 - VIa ZR 33/22](via-zr-33-22.md) — BGH, Beschluss VIa ZR 33/22
+- [BGH, Beschluss vom 23.10.2023 - VIa ZR 381/21](via-zr-381-21.md) — BGH, Beschluss VIa ZR 381/21
+- [BGH, Beschluss vom 23.10.2023 - VIa ZR 414/22](via-zr-414-22.md) — BGH, Beschluss VIa ZR 414/22
+- [BGH, Beschluss vom 23.10.2023 - VIa ZR 426/22](via-zr-426-22.md) — BGH, Beschluss VIa ZR 426/22
+- [BGH, Urteil vom 23.10.2023 - VIa ZR 468/21](via-zr-468-21.md) — 1. Der Käufer eines mit einer unzulässigen Abschalteinrichtung versehenen Fahrzeugs kann unter den Voraussetzungen des Senatsurteils vom 26. Juni 2023 (VIa ZR 3
+- [BGH, Urteil vom 23.10.2023 - VIa ZR 476/22](via-zr-476-22.md) — BGH, Urteil VIa ZR 476/22
+- [BGH, Urteil vom 23.10.2023 - VIa ZR 621/22](via-zr-621-22.md) — BGH, Urteil VIa ZR 621/22
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 101/22](via-zr-101-22.md) — BGH, Beschluss VIa ZR 101/22
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 11/21](via-zr-11-21.md) — BGH, Beschluss VIa ZR 11/21
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 112/22](via-zr-112-22.md) — BGH, Urteil VIa ZR 112/22
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 1121/22](via-zr-1121-22.md) — BGH, Beschluss VIa ZR 1121/22
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 1139/22](via-zr-1139-22.md) — BGH, Urteil VIa ZR 1139/22
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 1193/22](via-zr-1193-22.md) — BGH, Beschluss VIa ZR 1193/22
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 1255/22](via-zr-1255-22.md) — BGH, Urteil VIa ZR 1255/22
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 14/22](via-zr-14-22.md) — § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV gewähren dem Käufer eines vom sogenannten Dieselskandal betroffenen Fahrzeugs gegen den Fahrze
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 1511/22](via-zr-1511-22.md) — BGH, Urteil VIa ZR 1511/22
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 170/22](via-zr-170-22.md) — BGH, Urteil VIa ZR 170/22
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 179/23](via-zr-179-23.md) — BGH, Beschluss VIa ZR 179/23
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 301/22](via-zr-301-22.md) — BGH, Beschluss VIa ZR 301/22
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 356/22](via-zr-356-22.md) — BGH, Urteil VIa ZR 356/22
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 37/21](via-zr-37-21.md) — § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV gewähren dem Käufer eines vom sogenannten Dieselskandal betroffenen Fahrzeugs gegen den Fahrze
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 374/22](via-zr-374-22.md) — Unter den Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 der EG-Fahrzeuggenehmigungsverordnung vom 21. April 2009 steht auch dem
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 446/22](via-zr-446-22.md) — BGH, Urteil VIa ZR 446/22
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 509/22](via-zr-509-22.md) — BGH, Beschluss VIa ZR 509/22
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 604/21](via-zr-604-21.md) — BGH, Urteil VIa ZR 604/21
+- [BGH, Urteil vom 16.10.2023 - VIa ZR 644/22](via-zr-644-22.md) — BGH, Urteil VIa ZR 644/22
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 647/22](via-zr-647-22.md) — BGH, Beschluss VIa ZR 647/22
+- [BGH, Beschluss vom 16.10.2023 - VIa ZR 773/22](via-zr-773-22.md) — BGH, Beschluss VIa ZR 773/22
+- [BGH, Beschluss vom 11.10.2023 - VIa ZR 1089/22](via-zr-1089-22.md) — BGH, Beschluss VIa ZR 1089/22
+- [BGH, Urteil vom 09.10.2023 - VIa ZR 26/21](via-zr-26-21.md) — Einem Fahrzeughersteller, der für die Konstruktion des von ihm hergestellten Fahrzeugs Motoren fremder Hersteller verwendet, obliegen auch insoweit die Sorgfalt
+- [BGH, Urteil vom 09.10.2023 - VIa ZR 338/22](via-zr-338-22.md) — BGH, Urteil VIa ZR 338/22
+- [BGH, Beschluss vom 09.10.2023 - VIa ZR 404/21](via-zr-404-21.md) — BGH, Beschluss VIa ZR 404/21
+- [BGH, Urteil vom 09.10.2023 - VIa ZR 460/22](via-zr-460-22.md) — BGH, Urteil VIa ZR 460/22
+- [BGH, Urteil vom 09.10.2023 - VIa ZR 56/22](via-zr-56-22.md) — BGH, Urteil VIa ZR 56/22
+- [BGH, Beschluss vom 09.10.2023 - VIa ZR 574/21](via-zr-574-21.md) — BGH, Beschluss VIa ZR 574/21
+- [BGH, Urteil vom 09.10.2023 - VIa ZR 598/22](via-zr-598-22.md) — BGH, Urteil VIa ZR 598/22
+- [BGH, Urteil vom 09.10.2023 - VIa ZR 674/21](via-zr-674-21.md) — BGH, Urteil VIa ZR 674/21
+- [BGH, Urteil vom 09.10.2023 - VIa ZR 736/21](via-zr-736-21.md) — BGH, Urteil VIa ZR 736/21
+- [BGH, Beschluss vom 09.10.2023 - VIa ZR 922/22](via-zr-922-22.md) — BGH, Beschluss VIa ZR 922/22
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 1/23](via-zr-1-23.md) — Zu den Voraussetzungen einer Entlastung des Herstellers eines vom sogenannten Dieselskandal betroffenen Fahrzeugs im Falle seiner Inanspruchnahme nach § 823 Abs
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 1199/22](via-zr-1199-22.md) — BGH, Urteil VIa ZR 1199/22
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 1277/22](via-zr-1277-22.md) — BGH, Urteil VIa ZR 1277/22
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 1537/22](via-zr-1537-22.md) — BGH, Urteil VIa ZR 1537/22
+- [BGH, Beschluss vom 25.09.2023 - VIa ZR 1631/22](via-zr-1631-22.md) — BGH, Beschluss VIa ZR 1631/22
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 1633/22](via-zr-1633-22.md) — BGH, Urteil VIa ZR 1633/22
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 1643/22](via-zr-1643-22.md) — BGH, Urteil VIa ZR 1643/22
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 1687/22](via-zr-1687-22.md) — BGH, Urteil VIa ZR 1687/22
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 463/22](via-zr-463-22.md) — BGH, Urteil VIa ZR 463/22
+- [BGH, Beschluss vom 25.09.2023 - VIa ZR 791/22](via-zr-791-22.md) — BGH, Beschluss VIa ZR 791/22
+- [BGH, Beschluss vom 25.09.2023 - VIa ZR 819/22](via-zr-819-22.md) — BGH, Beschluss VIa ZR 819/22
+- [BGH, Beschluss vom 25.09.2023 - VIa ZR 925/22](via-zr-925-22.md) — BGH, Beschluss VIa ZR 925/22
+- [BGH, Urteil vom 25.09.2023 - VIa ZR 97/22](via-zr-97-22.md) — BGH, Urteil VIa ZR 97/22
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 1508/22](via-zr-1508-22.md) — BGH, Urteil VIa ZR 1508/22
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 1652/22](via-zr-1652-22.md) — BGH, Urteil VIa ZR 1652/22
+- [BGH, Beschluss vom 18.09.2023 - VIa ZR 1688/22](via-zr-1688-22.md) — BGH, Beschluss VIa ZR 1688/22
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 1724/22](via-zr-1724-22.md) — BGH, Urteil VIa ZR 1724/22
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 190/22](via-zr-190-22.md) — BGH, Urteil VIa ZR 190/22
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 308/23](via-zr-308-23.md) — BGH, Urteil VIa ZR 308/23
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 580/21](via-zr-580-21.md) — BGH, Urteil VIa ZR 580/21
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 580/22](via-zr-580-22.md) — BGH, Urteil VIa ZR 580/22
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 632/22](via-zr-632-22.md) — BGH, Urteil VIa ZR 632/22
+- [BGH, Urteil vom 18.09.2023 - VIa ZR 92/22](via-zr-92-22.md) — BGH, Urteil VIa ZR 92/22
+- [BGH, Beschluss vom 11.09.2023 - VIa ZR 1002/22](via-zr-1002-22.md) — BGH, Beschluss VIa ZR 1002/22
+- [BGH, Beschluss vom 11.09.2023 - VIa ZR 1205/22](via-zr-1205-22.md) — BGH, Beschluss VIa ZR 1205/22
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1249/22](via-zr-1249-22.md) — BGH, Urteil VIa ZR 1249/22
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1470/22](via-zr-1470-22.md) — BGH, Urteil VIa ZR 1470/22
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 149/23](via-zr-149-23.md) — BGH, Urteil VIa ZR 149/23
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1501/22](via-zr-1501-22.md) — BGH, Urteil VIa ZR 1501/22
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1533/22](via-zr-1533-22.md) — Neben dem aus § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV folgenden und der Höhe nach auf 15% des gezahlten Kaufpreises begrenzten Anspruc
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1669/22](via-zr-1669-22.md) — BGH, Urteil VIa ZR 1669/22
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1689/22](via-zr-1689-22.md) — BGH, Urteil VIa ZR 1689/22
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1693/22](via-zr-1693-22.md) — BGH, Urteil VIa ZR 1693/22
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 1707/22](via-zr-1707-22.md) — BGH, Urteil VIa ZR 1707/22
+- [BGH, Beschluss vom 11.09.2023 - VIa ZR 279/23](via-zr-279-23.md) — BGH, Beschluss VIa ZR 279/23
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 385/23](via-zr-385-23.md) — BGH, Urteil VIa ZR 385/23
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 45/22](via-zr-45-22.md) — BGH, Urteil VIa ZR 45/22
+- [BGH, Urteil vom 11.09.2023 - VIa ZR 83/23](via-zr-83-23.md) — BGH, Urteil VIa ZR 83/23
+- [BGH, Beschluss vom 04.09.2023 - VIa ZR 1324/22](via-zr-1324-22.md) — BGH, Beschluss VIa ZR 1324/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZB 24/22](via-zb-24-22.md) — Zu den Anforderungen an die Versendung eines bestimmenden Schriftsatzes über das besondere elektronische Anwaltspostfach.
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 103/23](via-zr-103-23.md) — BGH, Beschluss VIa ZR 103/23
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 1071/22](via-zr-1071-22.md) — BGH, Beschluss VIa ZR 1071/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 157/22](via-zr-157-22.md) — BGH, Beschluss VIa ZR 157/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 1639/22](via-zr-1639-22.md) — BGH, Beschluss VIa ZR 1639/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 1674/22](via-zr-1674-22.md) — BGH, Beschluss VIa ZR 1674/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 264/22](via-zr-264-22.md) — BGH, Beschluss VIa ZR 264/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 297/23](via-zr-297-23.md) — BGH, Beschluss VIa ZR 297/23
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 462/22](via-zr-462-22.md) — BGH, Beschluss VIa ZR 462/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 553/22](via-zr-553-22.md) — BGH, Beschluss VIa ZR 553/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 587/22](via-zr-587-22.md) — BGH, Beschluss VIa ZR 587/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 594/22](via-zr-594-22.md) — BGH, Beschluss VIa ZR 594/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 603/22](via-zr-603-22.md) — BGH, Beschluss VIa ZR 603/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 695/21](via-zr-695-21.md) — BGH, Beschluss VIa ZR 695/21
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 713/22](via-zr-713-22.md) — BGH, Beschluss VIa ZR 713/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 783/22](via-zr-783-22.md) — BGH, Beschluss VIa ZR 783/22
+- [BGH, Beschluss vom 31.08.2023 - VIa ZR 993/22](via-zr-993-22.md) — BGH, Beschluss VIa ZR 993/22
+- [BGH, Beschluss vom 08.08.2023 - VIa ZB 11/21](via-zb-11-21.md) — Vorgreiflichkeit einer verwaltungsgerichtlichen Entscheidung in einem Schadensersatzprozess in Zusammenhang mit dem sog. Dieselskandal
+- [BGH, Beschluss vom 08.08.2023 - VIa ZB 13/21](via-zb-13-21.md) — BGH, Beschluss VIa ZB 13/21
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 1/21](via-zr-1-21.md) — BGH, Beschluss VIa ZR 1/21
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 1434/22](via-zr-1434-22.md) — BGH, Beschluss VIa ZR 1434/22
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 1513/22](via-zr-1513-22.md) — BGH, Beschluss VIa ZR 1513/22
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 1585/22](via-zr-1585-22.md) — BGH, Beschluss VIa ZR 1585/22
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 293/22](via-zr-293-22.md) — BGH, Beschluss VIa ZR 293/22
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 427/21](via-zr-427-21.md) — BGH, Beschluss VIa ZR 427/21
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 459/22](via-zr-459-22.md) — BGH, Beschluss VIa ZR 459/22
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 507/21](via-zr-507-21.md) — BGH, Beschluss VIa ZR 507/21
+- [BGH, Beschluss vom 08.08.2023 - VIa ZR 717/22](via-zr-717-22.md) — BGH, Beschluss VIa ZR 717/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZB 1/23](via-zb-1-23.md) — Zu den Voraussetzungen einer wiederholten Verlängerung der Berufungsbegründungsfrist mit Einwilligung des Gegners.
+- [BGH, Beschluss vom 31.07.2023 - VIa ZB 25/22](via-zb-25-22.md) — BGH, Beschluss VIa ZB 25/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZB 27/22](via-zb-27-22.md) — BGH, Beschluss VIa ZB 27/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 1031/22](via-zr-1031-22.md) — BGH, Beschluss VIa ZR 1031/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 1066/22](via-zr-1066-22.md) — BGH, Beschluss VIa ZR 1066/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 1521/22](via-zr-1521-22.md) — BGH, Beschluss VIa ZR 1521/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 25/23](via-zr-25-23.md) — BGH, Beschluss VIa ZR 25/23
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 298/23](via-zr-298-23.md) — BGH, Beschluss VIa ZR 298/23
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 42/22](via-zr-42-22.md) — BGH, Beschluss VIa ZR 42/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 489/22](via-zr-489-22.md) — BGH, Beschluss VIa ZR 489/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 530/22](via-zr-530-22.md) — BGH, Beschluss VIa ZR 530/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 532/22](via-zr-532-22.md) — BGH, Beschluss VIa ZR 532/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 613/22](via-zr-613-22.md) — BGH, Beschluss VIa ZR 613/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 729/22](via-zr-729-22.md) — BGH, Beschluss VIa ZR 729/22
+- [BGH, Beschluss vom 31.07.2023 - VIa ZR 750/22](via-zr-750-22.md) — BGH, Beschluss VIa ZR 750/22
+- [BGH, Beschluss vom 24.07.2023 - VIa ZB 10/21](via-zb-10-21.md) — Geht der Hersteller eines vom sogenannten Dieselskandal betroffenen Fahrzeugs mit der Anfechtungsklage gegen die nachträgliche Anordnung von Nebenbestimmungen z
+- [BGH, Beschluss vom 24.07.2023 - VIa ZB 8/23](via-zb-8-23.md) — BGH, Beschluss VIa ZB 8/23
+- [BGH, Beschluss vom 24.07.2023 - VIa ZR 1570/22](via-zr-1570-22.md) — BGH, Beschluss VIa ZR 1570/22
+- [BGH, Urteil vom 24.07.2023 - VIa ZR 338/21](via-zr-338-21.md) — BGH, Urteil VIa ZR 338/21
+- [BGH, Urteil vom 24.07.2023 - VIa ZR 752/22](via-zr-752-22.md) — Der Tatrichter entscheidet gemäß dem ihm eingeräumten Ermessen selbst, ob er Nutzungsvorteile aus dem Gebrauch eines vom sogenannten Dieselskandal betroffenen F
+- [BGH, Beschluss vom 17.07.2023 - VIa ZR 1405/22](via-zr-1405-22.md) — BGH, Beschluss VIa ZR 1405/22
+- [BGH, Beschluss vom 17.07.2023 - VIa ZR 1457/22](via-zr-1457-22.md) — BGH, Beschluss VIa ZR 1457/22
+- [BGH, Beschluss vom 17.07.2023 - VIa ZR 1679/22](via-zr-1679-22.md) — BGH, Beschluss VIa ZR 1679/22
+- [BGH, Beschluss vom 13.07.2023 - VIa ZR 98/22](via-zr-98-22.md) — BGH, Beschluss VIa ZR 98/22
+- [BGH, Urteil vom 10.07.2023 - VIa ZR 1119/22](via-zr-1119-22.md) — 1. Die Sonderpflicht, für ein Kraftfahrzeug eine mit den gesetzlichen Vorgaben konvergierende Übereinstimmungsbescheinigung auszugeben, trifft den Fahrzeugherst
+- [BGH, Urteil vom 10.07.2023 - VIa ZR 1620/22](via-zr-1620-22.md) — BGH, Urteil VIa ZR 1620/22
+- [BGH, Urteil vom 10.07.2023 - VIa ZR 1632/22](via-zr-1632-22.md) — BGH, Urteil VIa ZR 1632/22
+- [BGH, Urteil vom 10.07.2023 - VIa ZR 318/23](via-zr-318-23.md) — BGH, Urteil VIa ZR 318/23
+- [BGH, Urteil vom 10.07.2023 - VIa ZR 6/23](via-zr-6-23.md) — BGH, Urteil VIa ZR 6/23
+- [BGH, Urteil vom 03.07.2023 - VIa ZR 1042/22](via-zr-1042-22.md) — BGH, Urteil VIa ZR 1042/22
+- [BGH, Beschluss vom 03.07.2023 - VIa ZR 1216/22](via-zr-1216-22.md) — BGH, Beschluss VIa ZR 1216/22
+- [BGH, Urteil vom 03.07.2023 - VIa ZR 1498/22](via-zr-1498-22.md) — BGH, Urteil VIa ZR 1498/22
+- [BGH, Urteil vom 03.07.2023 - VIa ZR 155/23](via-zr-155-23.md) — Wirksamkeit einer in einer Sicherungsabrede enthaltenen Abtretungsklausel
+- [BGH, Urteil vom 26.06.2023 - VIa ZR 1141/22](via-zr-1141-22.md) — BGH, Urteil VIa ZR 1141/22
+- [BGH, Urteil vom 26.06.2023 - VIa ZR 1619/22](via-zr-1619-22.md) — BGH, Urteil VIa ZR 1619/22
+- [BGH, Urteil vom 26.06.2023 - VIa ZR 1657/22](via-zr-1657-22.md) — Die im Zuge der Gewährung eines Darlehens zur Finanzierung eines vom sogenannten "Dieselskandal" betroffenen Fahrzeugs in den Allgemeinen Geschäftsbedingungen d
+- [BGH, Urteil vom 26.06.2023 - VIa ZR 335/21](via-zr-335-21.md) — 1. Unter den Voraussetzungen des § 823 Abs. 2 BGB in Verbindung mit § 6 Abs. 1, § 27 Abs. 1 EG-FGV steht dem Käufer eines mit einer unzulässigen Abschalteinrich
+- [BGH, Urteil vom 26.06.2023 - VIa ZR 533/21](via-zr-533-21.md) — Hat das Kraftfahrt-Bundesamt vor Erwerb des Fahrzeugs durch den Geschädigten wegen unzulässiger Abschalteinrichtungen Maßnahmen angeordnet und wurde darüber in 
+- [BGH, Beschluss vom 19.06.2023 - VIa ZR 1161/22](via-zr-1161-22.md) — BGH, Beschluss VIa ZR 1161/22
+- [BGH, Beschluss vom 19.06.2023 - VIa ZR 66/22](via-zr-66-22.md) — BGH, Beschluss VIa ZR 66/22
+- [BGH, Beschluss vom 05.06.2023 - VIa ZR 265/22](via-zr-265-22.md) — BGH, Beschluss VIa ZR 265/22
+- [BGH, Beschluss vom 05.06.2023 - VIa ZR 349/22](via-zr-349-22.md) — BGH, Beschluss VIa ZR 349/22
+- [BGH, Beschluss vom 22.05.2023 - VIa ZB 22/22](via-zb-22-22.md) — Beauftragt der Hauptbevollmächtigte einer Partei gegen ein Honorar einen Terminsvertreter, um den Anfall von abrechenbaren Kosten in einer das Honorar übersteig
+- [BGH, Beschluss vom 22.05.2023 - VIa ZR 1234/22](via-zr-1234-22.md) — BGH, Beschluss VIa ZR 1234/22
+- [BGH, Beschluss vom 22.05.2023 - VIa ZR 26/22](via-zr-26-22.md) — BGH, Beschluss VIa ZR 26/22
+- [BGH, Beschluss vom 22.05.2023 - VIa ZR 394/22](via-zr-394-22.md) — BGH, Beschluss VIa ZR 394/22
+- [BGH, Beschluss vom 22.05.2023 - VIa ZR 56/23](via-zr-56-23.md) — BGH, Beschluss VIa ZR 56/23
+- [BGH, Beschluss vom 22.05.2023 - VIa ZR 892/22](via-zr-892-22.md) — BGH, Beschluss VIa ZR 892/22
+- [BGH, Beschluss vom 15.05.2023 - VIa ZR 1023/22](via-zr-1023-22.md) — BGH, Beschluss VIa ZR 1023/22
+- [BGH, Beschluss vom 15.05.2023 - VIa ZR 111/22](via-zr-111-22.md) — BGH, Beschluss VIa ZR 111/22
+- [BGH, Beschluss vom 15.05.2023 - VIa ZR 1317/22](via-zr-1317-22.md) — BGH, Beschluss VIa ZR 1317/22
+- [BGH, Beschluss vom 15.05.2023 - VIa ZR 1332/22](via-zr-1332-22.md) — BGH, Beschluss VIa ZR 1332/22
+- [BGH, Beschluss vom 08.05.2023 - VIa ZR 1339/22](via-zr-1339-22.md) — BGH, Beschluss VIa ZR 1339/22
+- [BGH, Beschluss vom 08.05.2023 - VIa ZR 1561/22](via-zr-1561-22.md) — BGH, Beschluss VIa ZR 1561/22
+- [BGH, Urteil vom 24.04.2023 - VIa ZR 1072/22](via-zr-1072-22.md) — Zu den Anforderungen an die Individualisierung von Gegenstand und Grund des Anspruchs in der Anmeldung zum Klageregister einer Musterfeststellungsklage.
+- [BGH, Urteil vom 24.04.2023 - VIa ZR 1517/22](via-zr-1517-22.md) — Die im Falle des Verbunds eines Kaufvertrags mit einem Allgemein-Verbraucherdarlehensvertrag in den Allgemeinen Geschäftsbedingungen des Darlehensgebers enthalt
+- [BGH, Beschluss vom 17.04.2023 - VIa ZR 1345/22](via-zr-1345-22.md) — BGH, Beschluss VIa ZR 1345/22
+- [BGH, Urteil vom 03.04.2023 - VIa ZR 233/22](via-zr-233-22.md) — BGH, Urteil VIa ZR 233/22
+- [BGH, Beschluss vom 27.03.2023 - VIa ZR 102/22](via-zr-102-22.md) — BGH, Beschluss VIa ZR 102/22
+- [BGH, Urteil vom 27.03.2023 - VIa ZR 1140/22](via-zr-1140-22.md) — Zur Erledigung der Berufung im Fall der Berichtigung des erstinstanzlichen Urteils.
+- [BGH, Beschluss vom 27.03.2023 - VIa ZR 1389/22](via-zr-1389-22.md) — BGH, Beschluss VIa ZR 1389/22
+- [BGH, Beschluss vom 27.03.2023 - VIa ZR 1548/22](via-zr-1548-22.md) — BGH, Beschluss VIa ZR 1548/22
+- [BGH, Urteil vom 27.03.2023 - VIa ZR 657/21](via-zr-657-21.md) — BGH, Urteil VIa ZR 657/21
+- [BGH, Beschluss vom 27.03.2023 - VIa ZR 660/22](via-zr-660-22.md) — BGH, Beschluss VIa ZR 660/22
+- [BGH, Beschluss vom 20.03.2023 - VIa ZR 1396/22](via-zr-1396-22.md) — BGH, Beschluss VIa ZR 1396/22
+- [BGH, Beschluss vom 20.03.2023 - VIa ZR 956/22](via-zr-956-22.md) — BGH, Beschluss VIa ZR 956/22
+- [BGH, Beschluss vom 13.03.2023 - VIa ZR 1123/22](via-zr-1123-22.md) — BGH, Beschluss VIa ZR 1123/22
+- [BGH, Beschluss vom 13.03.2023 - VIa ZR 1309/22](via-zr-1309-22.md) — BGH, Beschluss VIa ZR 1309/22
+- [BGH, Beschluss vom 13.03.2023 - VIa ZR 1427/22](via-zr-1427-22.md) — BGH, Beschluss VIa ZR 1427/22
+- [BGH, Beschluss vom 13.03.2023 - VIa ZR 257/22](via-zr-257-22.md) — BGH, Beschluss VIa ZR 257/22
+- [BGH, Beschluss vom 13.03.2023 - VIa ZR 797/22](via-zr-797-22.md) — BGH, Beschluss VIa ZR 797/22
+- [BGH, Beschluss vom 06.03.2023 - VIa ZR 1428/22](via-zr-1428-22.md) — BGH, Beschluss VIa ZR 1428/22
+- [BGH, Beschluss vom 02.03.2023 - VIa ZR 1268/22](via-zr-1268-22.md) — BGH, Beschluss VIa ZR 1268/22
+- [BGH, Beschluss vom 27.02.2023 - VIa ZR 121/22](via-zr-121-22.md) — BGH, Beschluss VIa ZR 121/22
+- [BGH, Beschluss vom 27.02.2023 - VIa ZR 1273/22](via-zr-1273-22.md) — BGH, Beschluss VIa ZR 1273/22
+- [BGH, Beschluss vom 27.02.2023 - VIa ZR 1351/22](via-zr-1351-22.md) — BGH, Beschluss VIa ZR 1351/22
+- [BGH, Beschluss vom 27.02.2023 - VIa ZR 1421/22](via-zr-1421-22.md) — BGH, Beschluss VIa ZR 1421/22
+- [BGH, Beschluss vom 27.02.2023 - VIa ZR 529/22](via-zr-529-22.md) — BGH, Beschluss VIa ZR 529/22
+- [BGH, Urteil vom 06.02.2023 - VIa ZR 419/21](via-zr-419-21.md) — Der Käufer eines vom sogenannten "Dieselskandal" betroffenen Fahrzeugs hat ein Interesse an der Feststellung, dass der Hersteller aufgrund des unverjährten Ansp
+- [BGH, Beschluss vom 30.01.2023 - VIa ZB 15/22](via-zb-15-22.md) — Wiedereinsetzung: Vertrauen des Anwalts in eine weitere Verlängerung der Berufungsbegründungsfrist bei Zustimmungserklärung des Gegners
+- [BGH, Urteil vom 30.01.2023 - VIa ZR 213/22](via-zr-213-22.md) — BGH, Urteil VIa ZR 213/22
+- [BGH, Beschluss vom 30.01.2023 - VIa ZR 663/22](via-zr-663-22.md) — BGH, Beschluss VIa ZR 663/22
+- [BGH, Beschluss vom 30.01.2023 - VIa ZR 687/22](via-zr-687-22.md) — BGH, Beschluss VIa ZR 687/22
+- [BGH, Urteil vom 23.01.2023 - VIa ZR 28/22](via-zr-28-22.md) — BGH, Urteil VIa ZR 28/22
+- [BGH, Beschluss vom 23.01.2023 - VIa ZR 724/22](via-zr-724-22.md) — BGH, Beschluss VIa ZR 724/22
+- [BGH, Beschluss vom 16.01.2023 - VIa ZB 19/22](via-zb-19-22.md) — BGH, Beschluss VIa ZB 19/22
+- [BGH, Urteil vom 16.01.2023 - VIa ZR 713/21](via-zr-713-21.md) — BGH, Urteil VIa ZR 713/21
+- [BGH, Beschluss vom 09.01.2023 - VIa ZB 9/22](via-zb-9-22.md) — BGH, Beschluss VIa ZB 9/22

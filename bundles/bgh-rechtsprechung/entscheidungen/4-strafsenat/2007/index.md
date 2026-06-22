@@ -1,0 +1,41 @@
+# 4. Strafsenat – 2007
+
+37 Entscheidung(en).
+
+- [BGH, Beschluss vom 27.11.2007 - 4 StR 525/07](4-str-525-07.md) — Computerbetruges
+- [BGH, Urteil vom 15.11.2007 - 4 StR 453/07](4-str-453-07.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 13.11.2007 - 4 StR 424/07](4-str-424-07.md) — Betruges u.a.
+- [BGH, Beschluss vom 08.11.2007 - 4 StR 522/07](4-str-522-07.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 30.10.2007 - 4 StR 499/07](4-str-499-07.md) — Totschlags
+- [BGH, Beschluss vom 18.10.2007 - 4 StR 425/07](4-str-425-07.md) — zu 1.: Totschlags zu 2. und 3.: Beihilfe zum Totschlag
+- [BGH, Beschluss vom 09.10.2007 - 4 StR 434/07](4-str-434-07.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 09.10.2007 - 4 StR 442/07](4-str-442-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 02.10.2007 - 4 StR 462/07](4-str-462-07.md) — BGH, Beschluss vom 02.10.2007 - 4 StR 462/07
+- [BGH, Beschluss vom 25.09.2007 - 4 StR 207/07](4-str-207-07.md) — schweren sexuellen Missbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 20.09.2007 - 4 StR 334/07](4-str-334-07.md) — räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 13.09.2007 - 4 StR 394/07](4-str-394-07.md) — Vergewaltigung
+- [BGH, Beschluss vom 28.08.2007 - 4 StR 330/07](4-str-330-07.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 16.08.2007 - 4 StR 62/07](4-str-62-07.md) — unerlaubter Veranstaltung eines Glücksspiels
+- [BGH, Beschluss vom 15.08.2007 - 4 StR 308/07](4-str-308-07.md) — Untreue u.a.
+- [BGH, Beschluss vom 15.08.2007 - 4 StR 329/07](4-str-329-07.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 06.08.2007 - 4 StR 431/06](4-str-431-06.md) — Versuchs des Überlassens der tatsächlichen Gewalt über Kriegswaffen u.a.
+- [BGH, Beschluss vom 02.08.2007 - 4 StR 344/07](4-str-344-07.md) — schweren räuberischen Diebstahls u.a.
+- [BGH, Beschluss vom 26.07.2007 - 4 StR 204/07](4-str-204-07.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 26.07.2007 - 4 StR 239/07](4-str-239-07.md) — uneidlicher Falschaussage
+- [BGH, Beschluss vom 26.07.2007 - 4 StR 240/07](4-str-240-07.md) — uneidlicher Falschaussage
+- [BGH, Beschluss vom 17.07.2007 - 4 StR 220/07](4-str-220-07.md) — Freiheitsberaubung u.a.
+- [BGH, Beschluss vom 16.07.2007 - 4 StR 249/07](4-str-249-07.md) — sexueller Nötigung
+- [BGH, Beschluss vom 12.06.2007 - 4 StR 245/07](4-str-245-07.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 26.04.2007 - 4 StR 17/07](4-str-17-07.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 24.04.2007 - 4 StR 94/07](4-str-94-07.md) — schweren Menschenhandels zum Zwecke der sexuellen Ausbeutung u.a.
+- [BGH, Urteil vom 19.04.2007 - 4 StR 23/07](4-str-23-07.md) — des Verdachts des schweren sexuellen Missbrauchs eines Kindes
+- [BGH, Beschluss vom 03.04.2007 - 4 StR 548/06](4-str-548-06.md) — Insolvenzverschleppung u.a.
+- [BGH, Beschluss vom 03.04.2007 - 4 StR 601/06](4-str-601-06.md) — Unterschlagung u.a.
+- [BGH, Beschluss vom 03.04.2007 - 4 StR 64/07](4-str-64-07.md) — Körperverletzung u.a.
+- [BGH, Beschluss vom 22.03.2007 - 4 StR 60/07](4-str-60-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 13.03.2007 - 4 StR 606/06](4-str-606-06.md) — Totschlags
+- [BGH, Beschluss vom 22.02.2007 - 4 StR 49/07](4-str-49-07.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 30.01.2007 - 4 StR 570/06](4-str-570-06.md) — Betruges u.a.
+- [BGH, Beschluss vom 23.01.2007 - 4 StR 593/06](4-str-593-06.md) — Computersabotage u.a.
+- [BGH, Beschluss vom 16.01.2007 - 4 StR 524/06](4-str-524-06.md) — gefährlichen Eingriffs in den Straßenverkehr u.a.
+- [BGH, Beschluss vom 16.01.2007 - 4 StR 598/06](4-str-598-06.md) — versuchten Mordes u.a.

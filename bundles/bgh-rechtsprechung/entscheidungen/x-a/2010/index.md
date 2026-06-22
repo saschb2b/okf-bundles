@@ -1,0 +1,41 @@
+# X A – 2010
+
+37 Entscheidung(en).
+
+- [BGH, Beschluss vom 16.12.2010 - Xa ZR 110/08](xa-zr-110-08.md) — Magnetowiderstandssensor Nimmt der Kläger seine Berufung gegen ein die Klage abweisendes Urteil zurück, kommt eine Fortsetzung des Berufungsverfahrens durch ein
+- [BGH, Urteil vom 16.12.2010 - Xa ZR 66/10](xa-zr-66-10.md) — Steroidbeladene Körner Wenn der Gläubiger alle Vollstreckungsvoraussetzungen herbeigeführt hat, trifft ihn nur dann keine Haftung nach § 717 Abs. 2 ZPO, wenn er
+- [BGH, Beschluss vom 16.12.2010 - Xa ZR 81/09](xa-zr-81-09.md) — Wird die Partei eines Rechtsstreits Alleinerbin ihres Gegners, endet das Verfahren wegen des Verbots des Insichprozesses in der Hauptsache. Auch eine Kostenents
+- [BGH, Beschluss vom 09.12.2010 - Xa ARZ 283/10](xa-arz-283-10.md) — Die Durchbrechung der gesetzlichen Bindungswirkung eines Verweisungsbeschlusses nach § 17a GVG kommt auch dann nur bei "extremen Verstößen" in Betracht, wenn di
+- [BGH, EuGH-Vorlage vom 09.12.2010 - Xa ZR 80/10](xa-zr-80-10.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 AEUV zur Auslegung von Art. 6 und Art. 7 der Verordnung (EG) 261/2004 des Parlaments und des Rates 
+- [BGH, Urteil vom 25.11.2010 - Xa ZR 48/09](xa-zr-48-09.md) — Flexitanks 1. Für die Beurteilung der Frage, ob die außerordentliche Kündigung eines Know-how-Lizenzvertrags innerhalb einer angemessenen Frist im Sinne von § 3
+- [BGH, Urteil vom 18.11.2010 - Xa ZR 149/07](xa-zr-149-07.md) — Fentanyl-TTS 1. Eine die Neuheit eines Stoffes ausschließende Offenbarung ist bereits dann gegeben, wenn ein bestimmtes, dem Fachmann zugängliches Material bena
+- [BGH, Urteil vom 28.10.2010 - Xa ZR 46/10](xa-zr-46-10.md) — Die Einstandspflicht eines Reiseveranstalters für dritte Leistungserbringer hängt auch bei dem gemeinsamen Angebot einer Flugpauschalreise mit einer Bahnanreise
+- [BGH, Beschluss vom 21.10.2010 - Xa ZB 14/09](xa-zb-14-09.md) — Winkelmesseinrichtung 1. Ein Merkmal, das in den ursprünglich eingereichten Unterlagen nicht als zur Erfindung gehörend offenbart ist und dessen Streichung oder
+- [BGH, Urteil vom 14.10.2010 - Xa ZR 15/10](xa-zr-15-10.md) — Ausgleichsanspruch eines Fluggastes bei Annulierung eines Zubringerfluges
+- [BGH, Beschluss vom 30.09.2010 - Xa ARZ 191/10](xa-arz-191-10.md) — Die Bestimmung über den besonderen Gerichtsstand der Widerklage ist auf Drittwiderklagen gegen den bisher nicht am Verfahren beteiligten Zedenten der Klageforde
+- [BGH, Beschluss vom 30.09.2010 - Xa ARZ 208/10](xa-arz-208-10.md) — Gerichtsstand für eine isolierte Drittwiderklage
+- [BGH, EuGH-Vorlage vom 30.09.2010 - Xa ZR 123/09](xa-zr-123-09.md) — Solara Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 AEUV folgende Fragen zur Auslegung der Verordnung (EG) Nr. 2100/94 
+- [BGH, Urteil vom 30.09.2010 - Xa ZR 130/08](xa-zr-130-08.md) — Reiserecht: Abgrenzung zwischen Reisevermittlung und Reiseveranstaltung; Reiseveranstaltereigenschaft eines Reisebüros bei Zusammenstellung von Reiseleistungen 
+- [BGH, Urteil vom 09.09.2010 - Xa ZR 14/10](xa-zr-14-10.md) — Windenergiekonverter Der Schutzbereich eines Patents darf im Rahmen des in § 12 ErstrG vorgesehenen Prüfungsverfahrens nicht erweitert werden .
+- [BGH, Urteil vom 29.07.2010 - Xa ZR 118/09](xa-zr-118-09.md) — Bordako 1a. Die Restitutionsklage kann bei Klagen aus Rechten des gewerblichen Rechtsschutzes, an deren Bestand das Gericht im Verletzungsrechtsstreit gebunden 
+- [BGH, Beschluss vom 10.06.2010 - Xa ZR 110/09](xa-zr-110-09.md) — Eine Nichtzulassungsbeschwerde ist zurückzuweisen, wenn der Beschwerdeführer zwar einen zulassungsrelevanten Rechtsfehler aufzeigt, die rechtliche Überprüfung i
+- [BGH, Urteil vom 10.06.2010 - Xa ZR 3/07](xa-zr-3-07.md) — Werkvertrag: Verantwortlichkeit des Werkunternehmers für mangelhaftes Gesamtwerk bei Erbringung einzelner Leistungen durch den Auftraggeber
+- [BGH, Urteil vom 26.05.2010 - Xa ZR 124/09](xa-zr-124-09.md) — Die Genehmigung einer durch den vollmachtlosen Vertreter rechtzeitig vorgenommenen Anspruchsanmeldung nach § 651g Abs. 1 BGB kann auch nach Ablauf der Ausschlus
+- [BGH, Urteil vom 20.05.2010 - Xa ZR 68/09](xa-zr-68-09.md) — 1. Nachfolgende Klausel in Allgemeinen Geschäftsbedingungen eines Luftverkehrsunternehmens, das seine Leistungen nahezu ausschließlich im Fernabsatz anbietet, h
+- [BGH, Urteil vom 29.04.2010 - Xa ZR 101/09](xa-zr-101-09.md) — Luftbeförderungsvertrag: Wirksamkeit einer Klausel in AGB eines Luftfahrtunternehmens über die Reihenfolge und vollständige Nutzung von Flugcoupons
+- [BGH, Urteil vom 29.04.2010 - Xa ZR 5/09](xa-zr-5-09.md) — 1. Der Gläubiger ist grundsätzlich berechtigt, nur einen teilbaren Teil der ihm vertraglich zustehenden Gesamtleistung vom Schuldner zu fordern, sofern dem nich
+- [BGH, Beschluss vom 22.04.2010 - Xa ZB 20/08](xa-zb-20-08.md) — Dynamische Dokumentengenerierung 1. Ein Verfahren, das das unmittelbare Zusammenwirken der Elemente eines Datenverarbeitungssystems (hier: eines Servers mit ein
+- [BGH, Urteil vom 22.04.2010 - Xa ZR 73/07](xa-zr-73-07.md) — Erreicht der Unterhaltsbedarf nicht den Wert des geschenkten Grundstücksrechts, unterliegt auch der Teilwertersatz für einen Schenkungsrückforderungsanspruch de
+- [BGH, Beschluss vom 15.04.2010 - Xa ZB 10/09](xa-zb-10-09.md) — Walzenformgebungsmaschine 1. Die deutschen Gerichte haben Entscheidungen, die durch die Instanzen des Europäischen Patentamts oder durch Gerichte anderer Vertra
+- [BGH, Urteil vom 15.04.2010 - Xa ZR 69/06](xa-zr-69-06.md) — Telekommunikationseinrichtung Bestand zwischen zwei Teilbereichen eines Fachgebietes (hier: Datenübertragung in öffentlichen Fernmeldenetzen und Datenübertragun
+- [BGH, Urteil vom 15.04.2010 - Xa ZR 89/09](xa-zr-89-09.md) — Eine Klausel in Allgemeinen Geschäftsbedingungen, nach der sich die Laufzeit eines anlässlich eines Sportereignisses (hier: Fußball-Europameisterschaft) angebot
+- [BGH, Urteil vom 25.03.2010 - Xa ZR 96/09](xa-zr-96-09.md) — 1. Ein Luftfahrtunternehmen hat, sobald eine erhebliche Störung im Flugplan auftritt, nach vernünftigem Ermessen zu entscheiden, ob im Hinblick auf das Spannung
+- [BGH, Urteil vom 18.03.2010 - Xa ZR 54/06](xa-zr-54-06.md) — Proxyserversystem Ein europäisches Patent kann im Nichtigkeitsverfahren nicht mit Patentansprüchen beschränkt verteidigt werden, die dem Erfordernis einer deutl
+- [BGH, Urteil vom 18.03.2010 - Xa ZR 74/09](xa-zr-74-09.md) — Nabenschaltung II Hat der Patentinhaber fristgerecht eine Übersetzung des nicht in deutscher Sprache veröffentlichten europäischen Patents eingereicht, findet A
+- [BGH, Urteil vom 25.02.2010 - Xa ZR 100/05](xa-zr-100-05.md) — Thermoplastische Zusammensetzung 1. Eine ausführbare Offenbarung der Erfindung kann zu verneinen sein, wenn der geschützte Gegenstand im Patentanspruch durch of
+- [BGH, Beschluss vom 18.02.2010 - Xa ARZ 14/10](xa-arz-14-10.md) — 1. Auch im selbständigen Beweisverfahren wird die Zuständigkeit des angerufenen Gerichts durch eine nachträgliche anderweitige Gerichtsstandsvereinbarung nicht 
+- [BGH, Urteil vom 18.02.2010 - Xa ZR 164/07](xa-zr-164-07.md) — EU-Luftverkehrsrecht: Anspruch auf Ausgleichszahlung bei über dreistündiger Verspätung der Ankunftszeit des Fluges
+- [BGH, Urteil vom 18.02.2010 - Xa ZR 95/06](xa-zr-95-06.md) — Bei einer großen Verspätung im Sinne des Art. 6 Abs. 1 FluggastrechteVO steht dem Fluggast wie bei einer Annullierung des Flugs ein Anspruch auf eine Ausgleichs
+- [BGH, Urteil vom 04.02.2010 - Xa ZR 4/07](xa-zr-4-07.md) — Glasflaschenanalysesystem Hat der berufungsführende Nichtigkeitskläger in erster Instanz mehrere Nichtigkeitsgründe erfolglos geltend gemacht, seine Berufung ab
+- [BGH, Urteil vom 28.01.2010 - Xa ZR 37/09](xa-zr-37-09.md) — Eine Klausel in den Teilnahmebedingungen für das Flugprämienprogramm eines Luftverkehrsunternehmens, nach der bei einer Kündigung des Teilnehmervertrags durch d
+- [BGH, Urteil vom 21.01.2010 - Xa ZR 175/07](xa-zr-175-07.md) — Ein Vertrag über die Prüfung eines Jahresabschlusses ist nicht schon deswegen nichtig, weil der Abschlussprüfer den Jahresabschluss entgegen dem Verbot in § 319

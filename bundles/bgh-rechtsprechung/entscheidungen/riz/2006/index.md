@@ -1,0 +1,7 @@
+# RIZ – 2006
+
+3 Entscheidung(en).
+
+- [BGH, Urteil vom 20.12.2006 - RiZ (R) 2/06](riz-r-2-06.md) — Entlassung aus dem Richterverhältnis auf Probe
+- [BGH, Urteil vom 08.11.2006 - RiZ (R) 2/05](riz-r-2-05.md) — Anfechtung einer Maßnahme der Dienstaufsicht
+- [BGH, Urteil vom 22.02.2006 - RiZ (R) 3/05](riz-r-3-05.md) — Anfechtung einer Maßnahme der Dienstaufsicht

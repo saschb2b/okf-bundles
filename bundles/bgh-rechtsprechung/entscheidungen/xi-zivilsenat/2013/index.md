@@ -1,0 +1,57 @@
+# XI. Zivilsenat – 2013
+
+53 Entscheidung(en).
+
+- [BGH, Urteil vom 17.12.2013 - XI ZR 66/13](xi-zr-66-13.md) — Die Bestimmung in dem Preis- und Leistungsverzeichnis einer Bank "Nacherstellung von Kontoauszügen Pro Auszug 15,00 EUR" ist nach § 307 Abs. 1 Satz 1, Abs. 2 Nr
+- [BGH, Beschluss vom 10.12.2013 - XI ZR 405/12](xi-zr-405-12.md) — Streitwert einer Verbandsklage gegen Bearbeitungsentgelte in Bank-AGB
+- [BGH, Urteil vom 10.12.2013 - XI ZR 508/12](xi-zr-508-12.md) — 1. Eine Vollstreckungsabwehrklage, mit der ausschließlich die Vollstreckung wegen eines Anspruchs aus § 780 BGB bekämpft wird, kann nur vom Vollstreckungsschuld
+- [BGH, Urteil vom 03.12.2013 - XI ZR 295/12](xi-zr-295-12.md) — Zur Haftung einer das Fondsobjekt eines geschlossenen Immobilienfonds finanzierenden Bank wegen Beihilfe zu einer sittenwidrigen vorsätzlichen Schädigung der An
+- [BGH, Beschluss vom 03.12.2013 - XI ZR 301/11](xi-zr-301-11.md) — Zur Verletzung des Anspruchs auf rechtliches Gehör bei einem Widerspruch zwischen dem in Bezug genommenen Tatbestand des erstinstanzlichen Urteils und den Fests
+- [BGH, Urteil vom 12.11.2013 - XI ZR 312/12](xi-zr-312-12.md) — Bei gestaffelter Einschaltung mehrerer selbstständiger Wertpapierdienstleistungsunternehmen haftet das kundenfernere Unternehmen nicht gemäß § 128 HGB analog fü
+- [BGH, Urteil vom 05.11.2013 - XI ZR 13/13](xi-zr-13-13.md) — Handelsverluste, die im Rahmen der vertragsgemäßen Anlage von Kundengeldern entstanden sind, sind nicht entschädigungsfähig ("Phoenix").
+- [BGH, Urteil vom 05.11.2013 - XI ZR 14/13](xi-zr-14-13.md) — BGH, Urteil XI ZR 14/13
+- [BGH, Urteil vom 05.11.2013 - XI ZR 18/13](xi-zr-18-13.md) — Kapitalanlegerentschädigung: Ersatzfähigkeit von Handelsverlusten bei vertragsgemäßer Anlage von Kundengeldern
+- [BGH, Urteil vom 05.11.2013 - XI ZR 19/13](xi-zr-19-13.md) — Kapitalanlegerentschädigung: Ersatzfähigkeit von Handelsverlusten bei vertragsgemäßer Anlage von Kundengeldern
+- [BGH, Urteil vom 05.11.2013 - XI ZR 25/13](xi-zr-25-13.md) — Kapitalanlegerentschädigung: Ersatzfähigkeit von Handelsverlusten bei vertragsgemäßer Anlage von Kundengeldern
+- [BGH, Urteil vom 05.11.2013 - XI ZR 34/13](xi-zr-34-13.md) — Kapitalanlegerentschädigung: Ersatzfähigkeit von Handelsverlusten bei vertragsgemäßer Anlage von Kundengeldern
+- [BGH, Urteil vom 22.10.2013 - XI ZR 42/12](xi-zr-42-12.md) — Die Rechtskraft einer Entscheidung über einen Schadensersatzanspruch gegen eine Bank wegen eines Fehlers bei der Kapitalanlageberatung steht einer Klage auf Ers
+- [BGH, Beschluss vom 15.10.2013 - XI ZB 2/13](xi-zb-2-13.md) — Der dem zweitinstanzlichen Prozessbevollmächtigten erteilte Auftrag, die Erfolgsaussichten einer gegnerischen Nichtzulassungsbeschwerde vor deren Begründung led
+- [BGH, Urteil vom 15.10.2013 - XI ZR 51/11](xi-zr-51-11.md) — Bankenhaftung bei Kapitalanlageberatung: Konkludenter Abschluss eines Beratungsvertrages; Beweislastumkehr bei Aufklärungspflichtverletzung durch eine falsche A
+- [BGH, Urteil vom 08.10.2013 - XI ZR 401/12](xi-zr-401-12.md) — Die dem Muster von Nr. 5 Abs. 1 AGB-Sparkassen nachgebildete Klausel einer Sparkasse "Nach dem Tode des Kunden kann die Sparkasse zur Klärung der rechtsgeschäft
+- [BGH, Urteil vom 01.10.2013 - XI ZR 28/12](xi-zr-28-12.md) — Zur Zuständigkeit eines Landesministers, im Wege des Selbsteintritts die Haftung eines Bürgen für die Rückforderung von Fördermitteln zu beschränken, wenn die B
+- [BGH, Urteil vom 24.09.2013 - XI ZR 204/12](xi-zr-204-12.md) — Eine beratende Bank, die als Kaufkommissionärin dem Kunden für die Beschaffung eines empfohlenen Wertpapiers eine Provision in Rechnung stellt, hat den Kunden ü
+- [BGH, Urteil vom 17.09.2013 - XI ZR 332/12](xi-zr-332-12.md) — Bei dem Verkauf von Indexzertifikaten im Wege des Eigengeschäfts (§ 2 Abs. 3 Satz 2 WpHG) besteht auch für Sachverhalte ab dem 1. November 2007 keine Aufklärung
+- [BGH, Beschluss vom 17.09.2013 - XI ZR 394/12](xi-zr-394-12.md) — Bindung des Berufungsgerichts an die Tatsachenfeststellungen des ersten Rechtszuges: Voraussetzungen für die Abweichung von der erstinstanzlichen Würdigung der 
+- [BGH, Beschluss vom 17.09.2013 - XI ZR 507/12](xi-zr-507-12.md) — VOB-Vertrag: Verjährung der Hauptforderung und der Bürgschaftsforderung; Erfüllung der Bürgschaftsforderung durch Hinterlegung des Betrages bei der Hinterlegung
+- [BGH, Urteil vom 16.07.2013 - XI ZR 260/12](xi-zr-260-12.md) — 1. Die im Preis- und Leistungsverzeichnis eines Kreditinstituts enthaltenen Bestimmungen über ein Pfändungsschutzkonto "Die Kontoführung erfolgt grundsätzlich a
+- [BGH, Urteil vom 16.07.2013 - XI ZR 363/11](xi-zr-363-11.md) — Bankenhaftung bei Kapitalanlageberatung: Aufklärungspflicht für Rückvergütungen aus offen ausgewiesenen Vertriebskosten eines geschlossenen Immobilienfonds
+- [BGH, Urteil vom 04.06.2013 - XI ZR 505/11](xi-zr-505-11.md) — 1. Eine Bürgschaft erlischt nach § 776 BGB durch Aufgabe einer weiteren für dieselbe Hauptforderung bestehenden Sicherheit. Anders als ein Leistungsverweigerung
+- [BGH, Urteil vom 28.05.2013 - XI ZR 113/11](xi-zr-113-11.md) — Bankenhaftung bei Kapitalanlageberatung: Beweislastumkehr bei Aufklärungspflichtverletzung; Nachweis der Behauptung des Anlageerwerbs auch bei Kenntnis von Rück
+- [BGH, Urteil vom 28.05.2013 - XI ZR 148/11](xi-zr-148-11.md) — Haftung der Bank aus Kapitalanlageberatung: Aufklärungspflicht über Rückvergütungen; Nachweis aufklärungsrichtigen Verhaltens und des entgangenen Gewinns
+- [BGH, Urteil vom 28.05.2013 - XI ZR 6/12](xi-zr-6-12.md) — Bei einer unechten Abschnittsfinanzierung steht einem Verbraucher kein Widerrufsrecht nach den Vorschriften über Verbraucherdarlehensverträge gemäß § 495 Abs. 1
+- [BGH, Urteil vom 14.05.2013 - XI ZR 160/12](xi-zr-160-12.md) — Die Übertragung der in einer Inhaberschuldverschreibung verbrieften Forderung durch Abtretung nach § 398 BGB bedarf zu ihrer Wirksamkeit nicht der Übergabe der 
+- [BGH, Urteil vom 14.05.2013 - XI ZR 335/11](xi-zr-335-11.md) — Prospekthaftung: Haftung des Prospektveranlassers für unvollständige bzw. unrichtige Angaben im Prospekt für den Verkauf von Inhaberschuldverschreibungen; Maßge
+- [BGH, Urteil vom 14.05.2013 - XI ZR 431/10](xi-zr-431-10.md) — Bankenhaftung bei Kapitalanlageberatung: Aufklärungspflichtige Rückvergütungen in Abgrenzung zu Innenprovisionen
+- [BGH, Urteil vom 23.04.2013 - XI ZR 405/11](xi-zr-405-11.md) — Bankenhaftung beim finanzierten Immobilienerwerb zur Steuerersparnis: Aufklärungspflicht über versteckte Innenprovisionen; Wissensvorsprung bei arglistiger Täus
+- [BGH, Beschluss vom 16.04.2013 - XI ZR 94/11](xi-zr-94-11.md) — Zivilprozess: Beweiskraft des Protokolls nach Protokollberichtigung
+- [BGH, Beschluss vom 09.04.2013 - XI ZR 337/10](xi-zr-337-10.md) — Bankenhaftung bei Kapitalanlageberatung: Antrag der Bank auf Vernehmung ihres Anlageberaters und des Anlegers zur Widerlegung der Kausalitätsvermutung
+- [BGH, Beschluss vom 26.03.2013 - XI ZR 228/11](xi-zr-228-11.md) — Bankenhaftung bei Kapitalanlageberatung: Nichtberücksichtigung unter Beweis gestellten Parteivortrags zur Widerlegung der Vermutung aufklärungsrichtigen Verhalt
+- [BGH, Urteil vom 19.03.2013 - XI ZR 431/11](xi-zr-431-11.md) — 1. Zwischen einem Kapitalanleger und einer Direktbank, die ausdrücklich allein sogenannte Execution-only-Dienstleistungen als Discount-Brokerin anbietet, kommt 
+- [BGH, Urteil vom 19.03.2013 - XI ZR 46/11](xi-zr-46-11.md) — 1. Eine Vertragspartei handelt treuwidrig (§ 242 BGB), wenn sie sich auf die Zurechnung von Wissen eines Vertreters ihres Geschäftspartners nach § 166 Abs. 1 BG
+- [BGH, Urteil vom 12.03.2013 - XI ZR 227/12](xi-zr-227-12.md) — 1. Ein von der Bundesanstalt für Finanzdienstleistungsaufsicht erlassenes vorübergehendes Zahlungsverbot nach § 46a Abs. 1 Satz 1 Nr. 1 KWG in der bis zum 31. D
+- [BGH, Beschluss vom 26.02.2013 - XI ZB 15/12](xi-zb-15-12.md) — Wiedereinsetzung in den vorigen Stand: Unverschuldeter Irrtum des Prozessbevollmächtigten über den Beginn der Berufungsfrist bei zweimaliger Zustellung des Urte
+- [BGH, Urteil vom 26.02.2013 - XI ZR 183/11](xi-zr-183-11.md) — Haftung der Bank bei Kapitalanlageberatung: Nachweis der Kausalität der unterbliebenen Aufklärung über Rückvergütungen für die Anlageentscheidung und des vordri
+- [BGH, Urteil vom 26.02.2013 - XI ZR 240/10](xi-zr-240-10.md) — (Bankenhaftung bei Anlageberatung: Aufklärungspflichtverletzung hinsichtlich Rückvergütungen; Kausalitätsvermutung bei vom Anleger gewünschter steueroptimierter
+- [BGH, Urteil vom 26.02.2013 - XI ZR 318/10](xi-zr-318-10.md) — Bankenhaftung bei Kapitalanlageberatung: Beweislastumkehr bei Aufklärungspflichtverletzung; Beweis der Behauptung des Anlageerwerbs auch bei Kenntnis von Rückve
+- [BGH, Urteil vom 26.02.2013 - XI ZR 345/10](xi-zr-345-10.md) — Bankenhaftung bei Anlageberatung: Richterliche Schätzung des entgangenen Zinsgewinns; Anspruch auf Herausgabe des vom Schädiger tatsächlich erzielten Gewinns; E
+- [BGH, Urteil vom 26.02.2013 - XI ZR 417/11](xi-zr-417-11.md) — Bürgschaft: Wirksamkeit einer AGB-Klausel über die Fälligkeit der Bürgschaftsforderung mit Zahlungsaufforderung
+- [BGH, Urteil vom 26.02.2013 - XI ZR 425/10](xi-zr-425-10.md) — Bankenhaftung bei Kapitalanlageberatung: Ausforschungsbeweis durch Antrag auf Vernehmung des Anlegers zur Widerlegung der Kausalitätsvermutung
+- [BGH, Urteil vom 26.02.2013 - XI ZR 445/10](xi-zr-445-10.md) — Bankenhaftung bei Kapitalanlageberatung: Nachweis der Bedeutungslosigkeit einer Rückvergütung für die Kapitalanlageentscheidung; Kausalitätsvermutung für einen 
+- [BGH, Urteil vom 26.02.2013 - XI ZR 498/11](xi-zr-498-11.md) — Weiß ein Anleger, dass die ihn beratende Bank für den Vertrieb der empfohlenen Kapitalanlage eine Rückvergütung erhält, deren Höhe ihm die Bank vor seiner Anlag
+- [BGH, Beschluss vom 19.02.2013 - XI ZR 404/11](xi-zr-404-11.md) — Bankenhaftung bei Kapitalanlageberatung: Widerlegung der Kausalitätsvermutung einer Aufklärungspflichtverletzung durch Verschweigen von Rückvergütungen durch Pa
+- [BGH, Urteil vom 19.02.2013 - XI ZR 82/11](xi-zr-82-11.md) — Bei Höchstbetragsbürgschaften, bei denen sich die Haftung für Nebenforderungen lediglich nach der Bürgschaftssumme und nicht nach der höheren Hauptschuld richte
+- [BGH, Beschluss vom 05.02.2013 - XI ZA 13/12](xi-za-13-12.md) — Wiedereinsetzung in die verstrichene Rechtsmittelfrist bei unvollständigem Prozesskostenhilfegesuch innerhalb der Rechtsmittelfrist
+- [BGH, Beschluss vom 22.01.2013 - XI ZR 471/11](xi-zr-471-11.md) — Negative Feststellungsklage eines Girokontoinhabers: Darlegungs- und Beweislastverteilung bei streitiger Kontokorrentforderung
+- [BGH, Beschluss vom 22.01.2013 - XI ZR 472/11](xi-zr-472-11.md) — Saldoforderung aus Kontokorrentkonto: Darlegungslast der Bank für die eingestellten Aktiv- und Passivposten; Devisenoptionsgeschäfte als selbstständige Schadens
+- [BGH, Urteil vom 15.01.2013 - XI ZR 22/12](xi-zr-22-12.md) — 1. Eine ordentliche Kündigung nach Nr. 19 Abs. 1 AGB-Banken 2002 setzt nicht voraus, dass die Bank eine Abwägung ihrer Interessen an einer Beendigung des Vertra
+- [BGH, Beschluss vom 15.01.2013 - XI ZR 8/12](xi-zr-8-12.md) — Bankenhaftung bei Kapitalanlageberatung: Kausalität von Aufklärungspflichtverletzungen hinsichtlich des Zuflusses von Rückvergütungen und Beginn der kenntnisabh

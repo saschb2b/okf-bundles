@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu LuftAKB"
 description: "BGH-Entscheidungen zu LuftAKB, geordnet nach Vorschrift."
 tags: [register, navigation, luftakb]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des LuftAKB ausle
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 3 LuftAKB | [BGH, Urteil vom 25.05.2011 - IV ZR 151/09](../entscheidungen/iv-zivilsenat/2011/iv-zr-151-09.md) |
+| § LuftAKB | [BGH, Urteil vom 25.05.2011 - IV ZR 151/09](../entscheidungen/iv-zivilsenat/2011/iv-zr-151-09.md) |

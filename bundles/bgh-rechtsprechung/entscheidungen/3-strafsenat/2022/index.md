@@ -1,0 +1,140 @@
+# 3. Strafsenat – 2022
+
+136 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2022 - 3 StR 372/21](3-str-372-21.md) — Es beginnt die nicht geringe Menge der "neuen psychoaktiven Stoffe" - 2-Fluormetamfetamin (2-FMA) bei 10 Gramm 2-FMA-Base, - 4-Fluormetamfetamin (4-FMA) bei 10 
+- [BGH, Beschluss vom 20.12.2022 - 3 StR 417/22](3-str-417-22.md) — Zuständigkeit des BGH für Beschwerde gegen im Adhäsionsverfahren ergangene Kostenentscheidung
+- [BGH, Urteil vom 15.12.2022 - 3 StR 245/22](3-str-245-22.md) — BGH, Urteil 3 StR 245/22
+- [BGH, Urteil vom 15.12.2022 - 3 StR 295/22](3-str-295-22.md) — BGH, Urteil 3 StR 295/22
+- [BGH, Beschluss vom 14.12.2022 - 3 StR 378/22](3-str-378-22.md) — Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei Verbindung von Umsatzgeschäften
+- [BGH, Beschluss vom 13.12.2022 - 3 StR 256/22](3-str-256-22.md) — BGH, Beschluss 3 StR 256/22
+- [BGH, Beschluss vom 13.12.2022 - 3 StR 299/22](3-str-299-22.md) — BGH, Beschluss 3 StR 299/22
+- [BGH, Beschluss vom 13.12.2022 - 3 StR 372/22](3-str-372-22.md) — Zum gegen den erkennbaren Willen des Sexualpartners heimlich ohne Kondom ausgeführten Geschlechtsverkehr (sogenanntes „Stealthing“).
+- [BGH, Beschluss vom 13.12.2022 - 3 StR 407/22](3-str-407-22.md) — BGH, Beschluss 3 StR 407/22
+- [BGH, Beschluss vom 13.12.2022 - 3 StR 419/22](3-str-419-22.md) — BGH, Beschluss 3 StR 419/22
+- [BGH, Beschluss vom 13.12.2022 - 3 StR 430/22](3-str-430-22.md) — BGH, Beschluss 3 StR 430/22
+- [BGH, Urteil vom 01.12.2022 - 3 StR 471/21](3-str-471-21.md) — Jugendstrafe: Schwere der Schuld bei Körperverletzungsdelikten
+- [BGH, Beschluss vom 30.11.2022 - 3 StR 230/22](3-str-230-22.md) — 1. Schwere körperliche oder seelische Schäden im Sinne des § 6 Abs. 1 Nr. 2 VStGB und des § 7 Abs. 1 Nr. 8 VStGB sind solche, die eine gravierende und langanhal
+- [BGH, Urteil vom 30.11.2022 - 3 StR 249/22](3-str-249-22.md) — Die Unfähigkeit, einen sexuellen Handlungen entgegenstehenden Willen zu bilden oder zu äußern (§ 177 Abs. 2 Nr. 1 StGB), kann auch auf der altersmäßigen Entwick
+- [BGH, Beschluss vom 30.11.2022 - 3 StR 337/22](3-str-337-22.md) — BGH, Beschluss 3 StR 337/22
+- [BGH, Beschluss vom 29.11.2022 - 3 StR 111/22](3-str-111-22.md) — BGH, Beschluss 3 StR 111/22
+- [BGH, Beschluss vom 29.11.2022 - 3 StR 238/22](3-str-238-22.md) — Versuch der Ausländereinschleusung bei Festnahme an griechischem Flughafen
+- [BGH, Beschluss vom 29.11.2022 - 3 StR 345/22](3-str-345-22.md) — BGH, Beschluss 3 StR 345/22
+- [BGH, Beschluss vom 29.11.2022 - 3 StR 383/22](3-str-383-22.md) — Jugendstrafsache: Verhängung einer Einheitsjugendstrafe bei Nichteinbeziehung von Vorverurteilungen
+- [BGH, Beschluss vom 29.11.2022 - 3 StR 384/22](3-str-384-22.md) — BGH, Beschluss 3 StR 384/22
+- [BGH, Beschluss vom 29.11.2022 - 3 StR 388/22](3-str-388-22.md) — BGH, Beschluss 3 StR 388/22
+- [BGH, EuGH-Vorlage vom 17.11.2022 - 3 StR 373/21](3-str-373-21.md) — Vorabentscheidungsersuchen an den EuGH zur Auslegung der Myanmar-Embargo-Verordnung: Verstoß gegen das Einfuhrverbot durch Import von in Myanmar gewachsenen und
+- [BGH, Beschluss vom 16.11.2022 - 3 StR 294/22](3-str-294-22.md) — BGH, Beschluss 3 StR 294/22
+- [BGH, Beschluss vom 16.11.2022 - 3 StR 324/22](3-str-324-22.md) — BGH, Beschluss 3 StR 324/22
+- [BGH, Beschluss vom 16.11.2022 - 3 StR 351/22](3-str-351-22.md) — BGH, Beschluss 3 StR 351/22
+- [BGH, Beschluss vom 16.11.2022 - 3 StR 364/22](3-str-364-22.md) — BGH, Beschluss 3 StR 364/22
+- [BGH, Beschluss vom 16.11.2022 - 3 StR 371/22](3-str-371-22.md) — Elektronischer Rechtsverkehr in Strafsachen: Anforderungen an die Anschlusserklärung im Rahmen der Nebenklage per beA
+- [BGH, Beschluss vom 15.11.2022 - 3 StR 291/22](3-str-291-22.md) — BGH, Beschluss 3 StR 291/22
+- [BGH, Beschluss vom 15.11.2022 - 3 StR 297/22](3-str-297-22.md) — BGH, Beschluss 3 StR 297/22
+- [BGH, Beschluss vom 15.11.2022 - 3 StR 318/22](3-str-318-22.md) — BGH, Beschluss 3 StR 318/22
+- [BGH, Beschluss vom 15.11.2022 - 3 StR 340/22](3-str-340-22.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Strafzumessung und minder schwerer Fall bei Amphetamin und Ecstasy
+- [BGH, Urteil vom 03.11.2022 - 3 StR 127/22](3-str-127-22.md) — Verständigung im Strafverfahren: Verfahrensrüge der Staatsanwaltschaft wegen Verletzung der Mitteilungspflicht
+- [BGH, Urteil vom 03.11.2022 - 3 StR 321/21](3-str-321-21.md) — BGH, Urteil 3 StR 321/21
+- [BGH, Beschluss vom 02.11.2022 - 3 StR 12/22](3-str-12-22.md) — Gewerbsmäßiger Bandenbetrug nach dem System "falsche Polizeibeamte": Strafbarkeit von Abholer und Logistiker als Mittäter oder Gehilfe
+- [BGH, Beschluss vom 02.11.2022 - 3 StR 162/22](3-str-162-22.md) — BGH, Beschluss 3 StR 162/22
+- [BGH, Beschluss vom 02.11.2022 - 3 StR 267/22](3-str-267-22.md) — Revision in Strafsachen: Beschwer durch unterbliebene Gesamtstrafenbildung aus Freiheits- und Geldstrafe
+- [BGH, Beschluss vom 19.10.2022 - 3 StR 310/21](3-str-310-21.md) — Verfahrensübergreifende Verständigung in Strafsachen: Wirksamkeit bei notwendiger Rechtsmittelrücknahme im anderweitigen Verfahren
+- [BGH, Beschluss vom 18.10.2022 - 3 StR 262/22](3-str-262-22.md) — Elektronischer Rechtsverkehr in Strafsachen: Einreichung des Revisionseinlegungsschriftsatzes über das beA eines am Verfahren nicht beteiligten Rechtsanwalts
+- [BGH, Beschluss vom 18.10.2022 - 3 StR 292/22](3-str-292-22.md) — BGH, Beschluss 3 StR 292/22
+- [BGH, Beschluss vom 13.10.2022 - 3 StR 64/22](3-str-64-22.md) — BGH, Beschluss 3 StR 64/22
+- [BGH, Beschluss vom 05.10.2022 - 3 StR 185/22](3-str-185-22.md) — Fehlerhafte Beweiswürdigung bei widersprüchlichen Ausführungen des Tatgerichts; Abgrenzung des bedingten Tötungsvorsatzes vom Körperverletzungsvorsatz
+- [BGH, Beschluss vom 05.10.2022 - 3 StR 270/22](3-str-270-22.md) — BGH, Beschluss 3 StR 270/22
+- [BGH, Beschluss vom 22.09.2022 - 3 StR 175/22](3-str-175-22.md) — Einziehung von Taterträgen aus Betäubungsmittelgeschäften: Erweiterte Einziehung von Kryptowährungen; Erlöschen einer zur Sicherung einer Baufinanzierung bestel
+- [BGH, Urteil vom 22.09.2022 - 3 StR 238/21](3-str-238-21.md) — Voraussetzungen der erweiterten Wertersatzeinziehung
+- [BGH, Beschluss vom 20.09.2022 - 3 StR 200/22](3-str-200-22.md) — Strafverfahren wegen schweren Raubs: Erforderlichkeit eines richterlichen Hinweises bei Verurteilung zu milderem Qualifikationstatbestand
+- [BGH, Beschluss vom 20.09.2022 - 3 StR 210/22](3-str-210-22.md) — BGH, Beschluss 3 StR 210/22
+- [BGH, Beschluss vom 20.09.2022 - 3 StR 231/22](3-str-231-22.md) — BGH, Beschluss 3 StR 231/22
+- [BGH, Beschluss vom 08.09.2022 - 3 StR 177/22](3-str-177-22.md) — BGH, Beschluss 3 StR 177/22
+- [BGH, Urteil vom 08.09.2022 - 3 StR 25/22](3-str-25-22.md) — Unterbringung in einem psychiatrischen Krankenhaus: Begriff der Straftat von erheblicher Bedeutung; Nachstellung als geeignete Anlasstat
+- [BGH, Beschluss vom 08.09.2022 - 3 StR 251/22](3-str-251-22.md) — Elektronischer Rechtsverkehr in Strafsachen: Revisionseinlegung und Revisionsbegründung durch elektronische Übermittlung
+- [BGH, Beschluss vom 07.09.2022 - 3 StR 145/22](3-str-145-22.md) — Zwangsprostitution: Qualifikationsmerkmal der Gewerbsmäßigkeit
+- [BGH, Beschluss vom 07.09.2022 - 3 StR 165/22](3-str-165-22.md) — BGH, Beschluss 3 StR 165/22
+- [BGH, Beschluss vom 07.09.2022 - 3 StR 261/22](3-str-261-22.md) — Wertersatzeinziehung einer Geldbetrages: Angabe einer Fremdwährungssumme
+- [BGH, Beschluss vom 06.09.2022 - 3 StR 241/22](3-str-241-22.md) — BGH, Beschluss 3 StR 241/22
+- [BGH, Beschluss vom 06.09.2022 - 3 StR 451/21](3-str-451-21.md) — BGH, Beschluss 3 StR 451/21
+- [BGH, Beschluss vom 25.08.2022 - 3 StR 216/22](3-str-216-22.md) — Freispruch und Unterbringung in psychiatrischem Krankenhaus: Gefährlichkeitsprognose an Hand standardisierter Prognoseinstrumente; Verurteilung durch das wieder
+- [BGH, Urteil vom 25.08.2022 - 3 StR 359/21](3-str-359-21.md) — Strafurteil im Mordfall Walter Lübcke: Umfassende Beweiswürdigung bei freisprechendem Urteil für einen Mitangeklagten; Berücksichtigung des Wechsels der Einlass
+- [BGH, Beschluss vom 23.08.2022 - 3 StR 228/22](3-str-228-22.md) — Strafurteil wegen Betäubungsmitteldelikten: Anordnung der Sicherungseinziehung für gefährliche Gegenstände bei Verfahrensbeschränkung
+- [BGH, Beschluss vom 23.08.2022 - 3 StR 247/22](3-str-247-22.md) — Strafbare Nachstellung: Konkurrenzrechtliche Bewertung einzelner Zuwiderhandlungen gegen eine familiengerichtliche Anordnung nach Gewaltschutzgesetz
+- [BGH, Beschluss vom 10.08.2022 - 3 StR 187/22](3-str-187-22.md) — Kriegsverbrechen gegen Personen, Mord und mitgliedschaftliche Beteiligung an einer terroristischen Vereinigung im Ausland: Konkurrenzverhältnis
+- [BGH, Beschluss vom 09.08.2022 - 3 StR 206/22](3-str-206-22.md) — Für 2C-B (Bromdimethoxyphenethylamin, BDMPEA) beginnt die nicht geringe Menge im Sinne von § 29a Abs. 1 Nr. 2 sowie § 30 Abs. 1 Nr. 4 BtMG bei einem Gramm.
+- [BGH, Beschluss vom 09.08.2022 - 3 StR 500/21](3-str-500-21.md) — Verurteilung wegen Beihilfe zur Vorbereitung einer schweren staatsgefährdenden Gewalttat sowie der Terrorismusfinanzierung
+- [BGH, Beschluss vom 26.07.2022 - 3 StR 193/22](3-str-193-22.md) — Strafverurteilung wegen Besitzes von Betäubungsmitteln in nicht geringer Menge: Strafzumessung bei Besitz von Amphetamin; Einziehung von Tatobjekten
+- [BGH, Urteil vom 20.07.2022 - 3 StR 390/21](3-str-390-21.md) — Werden im Rahmen unerlaubt betriebener Bankgeschäfte Darlehen gewährt, handelt es sich bei den zurückgezahlten Geldbeträgen ebenso wie bei den zuvor überlassene
+- [BGH, Urteil vom 14.07.2022 - 3 StR 455/21](3-str-455-21.md) — Strafverfahren: Verhängung eines aus einer nicht zustande gekommenen Verfahrensabsprache angebotenen Strafrahmens
+- [BGH, Beschluss vom 12.07.2022 - 3 StR 121/22](3-str-121-22.md) — Gerichtszuständigkeit für die Verbindung von Strafsachen
+- [BGH, Beschluss vom 12.07.2022 - 3 StR 189/22](3-str-189-22.md) — Nachträgliche Gesamtstrafenbildung: Einbeziehung von Geldstrafen
+- [BGH, Beschluss vom 29.06.2022 - 3 StR 130/22](3-str-130-22.md) — Strafbare Marktmanipulation im Altfall: Umfang des Verfalls von Wertersatz bei Aktienverkauf
+- [BGH, Beschluss vom 29.06.2022 - 3 StR 501/21](3-str-501-21.md) — Erpresserischer Menschenraub: Sichbemächtigen eines Menschen im Zwei-Personen-Verhältnis
+- [BGH, Beschluss vom 28.06.2022 - 3 StR 123/22](3-str-123-22.md) — Strafverurteilung wegen Mordes: Revision des Nebenklägers zur Feststellung der besonderen Schwere der Schuld und Erweiterung des Schuldumfangs durch ein weitere
+- [BGH, Beschluss vom 28.06.2022 - 3 StR 128/22](3-str-128-22.md) — Einziehung von Tatmitteln bei dem Gehilfen: Erkennbarkeit tatrichterlicher Ermessensausübung im Urteil; Verstoß gegen den Grundsatz der Verhältnismäßigkeit bei 
+- [BGH, Beschluss vom 28.06.2022 - 3 StR 142/22](3-str-142-22.md) — Misshandlung von Schutzbefohlenen: Konkurrenzrechtliches Verhältnis bei wiederholten Misshandlungen
+- [BGH, Beschluss vom 28.06.2022 - 3 StR 179/22](3-str-179-22.md) — Anordnung von Sicherungsverwahrung: Vorliegen einer Vorverurteilung bei Gesamtstrafe aus Katalogtaten und Nichtkatalogtaten mit Einzelstrafen unter 3 Jahren
+- [BGH, Beschluss vom 28.06.2022 - 3 StR 403/20](3-str-403-20.md) — Strafverurteilung wegen mitgliedschaftlicher Beteiligung an einer kriminellen Vereinigung im Ausland und unerlaubtes Erbringen von Zahlungsdiensten: Einziehung 
+- [BGH, Urteil vom 15.06.2022 - 3 StR 295/21](3-str-295-21.md) — Nimmt ein Mitglied einer terroristischen Vereinigung verkörperte Vermögenswerte entgegen, um damit weitere unselbständige mitgliedschaftliche Beteiligungsakte i
+- [BGH, Urteil vom 02.06.2022 - 3 StR 472/21](3-str-472-21.md) — Rechtsfehler eines Strafurteils: Bewertung des Fehlens eines Strafschärfungsgrundes beim Raub; Schweigen zur Sicherungsverwahrung
+- [BGH, Beschluss vom 01.06.2022 - 3 StR 118/22](3-str-118-22.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Abgrenzung von Mittäterschaft und Beihilfe bei Tätigkeiten in Zusammenhang mit der Aufz
+- [BGH, Beschluss vom 31.05.2022 - 3 StR 122/22](3-str-122-22.md) — Elektronischer Rechtsverkehr in Strafsachen: Anforderungen an die elektronische Übersendung der Revisionsbegründungsschrift bei Übermittlung über beA
+- [BGH, Urteil vom 19.05.2022 - 3 StR 322/21](3-str-322-21.md) — Gewerbsmäßiges Handeltreiben mit Dopingmitteln in nicht geringer Menge: Darstellungsanforderungen an die Wirkstoffmenge sowie an die Berechnung der "freien Wirk
+- [BGH, Urteil vom 19.05.2022 - 3 StR 370/21](3-str-370-21.md) — Beihilfe zum Verbringen von Dopingmitteln in nicht geringer Menge nach Deutschland: Darstellungsanforderungen an den Wirkstoffgehalt im erstinstanzlichen Urteil
+- [BGH, Beschluss vom 18.05.2022 - 3 StR 181/21](3-str-181-21.md) — Richterablehnung: Entscheidungshindernis bei nicht fristgerechter Entscheidung über ein Befangenheitsgesuch; Fristverstoß als Revisionsgrund)
+- [BGH, Beschluss vom 17.05.2022 - 3 StR 107/22](3-str-107-22.md) — Revisionsbegründung im Strafverfahren: Anforderungen an die Rüge des fehlenden Hinweises in der Ladung auf die Voraussetzungen für eine Fortsetzung der Verhandl
+- [BGH, Beschluss vom 17.05.2022 - 3 StR 109/22](3-str-109-22.md) — Einordnung der "Arbeiterpartei Kurdistans" (PKK) als terroristische Vereinigung
+- [BGH, Urteil vom 05.05.2022 - 3 StR 412/21](3-str-412-21.md) — Betäubungsmitteldelikte: Umfang der revisionsgerichtlichen Überprüfung der Rechtsmittelbeschränkung auf den Strafausspruch und eines minder schweren Falles oder
+- [BGH, Urteil vom 05.05.2022 - 3 StR 481/21](3-str-481-21.md) — Sexueller Missbrauch von Kindern: Begriff der sexuellen Handlung; Einspritzen von Wasser in den Anus eines Kindes
+- [BGH, Beschluss vom 04.05.2022 - 3 StR 55/22](3-str-55-22.md) — Prozesskostenhilfe im Adhäsionsverfahren: Ermittlung der wirtschaftlichen Verhältnisse des Antragstellers durch das Revisionsgericht
+- [BGH, Beschluss vom 03.05.2022 - 3 StR 105/22](3-str-105-22.md) — Betäubungsmitteldelikt: Abgrenzung der Durchfuhr von der Ein- und Ausfuhr
+- [BGH, Beschluss vom 03.05.2022 - 3 StR 120/22](3-str-120-22.md) — Rücktritt vom Mordversuch: Freiwilligkeit bei Ablassen von der "außertatbestandlichen Zielerreichung" zum Zwecke der Erreichung eines Primärziel
+- [BGH, Beschluss vom 03.05.2022 - 3 StR 45/22](3-str-45-22.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Voraussetzungen einer mittäterschaftlichen Begehung
+- [BGH, Beschluss vom 03.05.2022 - 3 StR 85/22](3-str-85-22.md) — Jugendstrafsache: Absehen von der Bildung einer Einheitsjugendstrafe
+- [BGH, Beschluss vom 03.05.2022 - 3 StR 89/22](3-str-89-22.md) — Elektronischer Rechtsverkehr in Strafsachen: Erfordernis der handschriftlichen Unterzeichnung der Revisionsbegründungsschrift bei Übermittlung via beA
+- [BGH, Beschluss vom 03.05.2022 - 3 StR 93/22](3-str-93-22.md) — Computerbetrug bei einer Abbuchungsauftragslastschrift im Online-Banking
+- [BGH, Beschluss vom 03.05.2022 - 3 StR 95/22](3-str-95-22.md) — Strafzumessung bei Betäubungsmitteldelikten: "Nicht geringe Menge" bei Besitz von Marihuana zum Eigenverbrauch und zum Weiterverkauf; Konkurrenzen
+- [BGH, Urteil vom 21.04.2022 - 3 StR 360/21](3-str-360-21.md) — Prozessualer Tatbegriff: Auskundschaften des Tatorts und nachfolgender Raubüberfall als einheitliches Tatgeschehen
+- [BGH, Beschluss vom 21.04.2022 - 3 StR 49/22](3-str-49-22.md) — Revision in Strafsachen: Wiedereinsetzungsantrag zur Erhebung der Sachrüge bei unklarer Rechtsmittelbegründung
+- [BGH, Beschluss vom 21.04.2022 - 3 StR 81/22](3-str-81-22.md) — Führen einer verbotenen Waffe: Strafbarkeit des Führens eines Teleskopschlagstocks
+- [BGH, Beschluss vom 20.04.2022 - 3 StR 86/22](3-str-86-22.md) — Revision in Strafsachen: Formanforderungen an die Revisionseinlegung
+- [BGH, Beschluss vom 05.04.2022 - 3 StR 16/22](3-str-16-22.md) — 1. Ein Fall der notwendigen Verteidigung im Sinne des § 140 Abs. 1 Nr. 1 oder 2 StPO gebietet für sich genommen nicht eine Pflichtverteidigerbestellung nach § 1
+- [BGH, Beschluss vom 05.04.2022 - 3 StR 75/22](3-str-75-22.md) — Feststellung eines Hangs bei Tatbegehung aufgrund Betäubungsmittelabhängigkeit
+- [BGH, Urteil vom 24.03.2022 - 3 StR 375/20](3-str-375-20.md) — Verhängt das Tatgericht neben der Freiheits- keine Geldstrafe nach § 41 StGB, obgleich die Verteidigung dies beantragt hat, ist es verfahrensrechtlich nicht ana
+- [BGH, Beschluss vom 23.03.2022 - 3 StR 29/22](3-str-29-22.md) — Strafprozessrecht: Wirksamkeit einer Revisionsrücknahme
+- [BGH, Beschluss vom 22.03.2022 - 3 StR 454/21](3-str-454-21.md) — Werben um Mitglieder und Unterstützer für eine terroristische Vereinigung im Ausland und Verbreiten von Gewaltdarstellungen über eine Chatgruppe: Konkurrenzverh
+- [BGH, Beschluss vom 22.03.2022 - 3 StR 46/22](3-str-46-22.md) — Strafverurteilung wegen Betäubungsmitteldelikten: Erweiterte Einziehung von Taterträgen; Einziehung von Betäubungsmitteln und Pkw
+- [BGH, Beschluss vom 22.03.2022 - 3 StR 69/22](3-str-69-22.md) — Anforderungen an richterliche Beweiswürdigung im Rahmen der Bewertung eines Geständnisses
+- [BGH, Beschluss vom 09.03.2022 - 3 StR 19/22](3-str-19-22.md) — Schuldunfähigkeit und verminderten Schuldfähigkeit bei sexuellem Kindesmissbrauch: Anforderungen an die gerichtliche Prüfung und Darlegung
+- [BGH, Beschluss vom 08.03.2022 - 3 StR 136/21](3-str-136-21.md) — Es beginnt die nicht geringe Menge 1. der synthetischen Cathinone - α-Pyrrolidinovalerophenon und - 3,4-Methylendioxypyrovaleron jeweils bei fünf Gramm, - Buphe
+- [BGH, Beschluss vom 08.03.2022 - 3 StR 398/21](3-str-398-21.md) — Strafzumessung: Berücksichtigung drohender anwaltsgerichtlicher Sanktionen
+- [BGH, Beschluss vom 08.03.2022 - 3 StR 456/21](3-str-456-21.md) — Gewerbsmäßige Bandenhehlerei: Voraussetzungen des Sichverschaffens von Wertgegenständen sowie der Gewerbsmäßigkeit der Tatbegehung
+- [BGH, Urteil vom 24.02.2022 - 3 StR 202/21](3-str-202-21.md) — Die Verkündung des ein Ablehnungsgesuch zurückweisenden Beschlusses stellt für sich gesehen keinen Wiedereintritt in die Hauptverhandlung im Sinne des § 258 StP
+- [BGH, Beschluss vom 22.02.2022 - 3 StR 279/21](3-str-279-21.md) — Anwendung von Jugendstrafrecht auf Heranwachsende: Anforderungen an die Urteilsbegründung zur Berücksichtigung des Erziehungsgedankens bei Verhängung einer Juge
+- [BGH, Beschluss vom 22.02.2022 - 3 StR 484/21](3-str-484-21.md) — Betäubungsmitteldelikte: Teilfreispruch bei zum Eröffnungsbeschluss abweichender konkurrenzrechtlicher Bewertung der Taten in der Hauptverhandlung
+- [BGH, Beschluss vom 22.02.2022 - 3 StR 6/22](3-str-6-22.md) — Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei Kommissionsgeschäften; Erforderlichkeit der Unterbringung in einer Entzieh
+- [BGH, Urteil vom 10.02.2022 - 3 StR 329/21](3-str-329-21.md) — Strafbare Untreue: Verletzung der Vermögensbetreuungspflicht durch den Vorstand einer Aktiengesellschaft
+- [BGH, Beschluss vom 09.02.2022 - 3 StR 447/21](3-str-447-21.md) — Landfriedensbruch: Gesetzeskonkurrenz bei Zusammentreffen mit Sachbeschädigung
+- [BGH, Beschluss vom 08.02.2022 - 3 StR 414/21](3-str-414-21.md) — Vermögensabschöpfung im Strafverfahren: Erweiterte Einziehung von Geldbeträgen aus verfahrensfremden Taten
+- [BGH, Beschluss vom 08.02.2022 - 3 StR 440/21](3-str-440-21.md) — Strafverurteilung wegen schweren sexuellen Missbrauchs von Kindern u.a.: Identität der prozessualen Tat bei Veränderung des Tatbildes
+- [BGH, Beschluss vom 08.02.2022 - 3 StR 458/21](3-str-458-21.md) — Betäubungsmitteldelikt: Abgrenzung zwischen Verabreichen und Verbrauchsüberlassung bei Abgabe von Betäubungsmitteln an Minderjährige; Anordnung des teilweisen V
+- [BGH, Beschluss vom 27.01.2022 - 3 StR 155/21](3-str-155-21.md) — Die nicht geringe Menge der synthetischen Cannabinoide 5F-ADB und AMB-FUBINACA beginnt bei einem Gramm Wirkstoffmenge.
+- [BGH, Urteil vom 27.01.2022 - 3 StR 245/21](3-str-245-21.md) — 1. Erkennt das Tatgericht auf Jugendstrafe, ist es deswegen nicht aus Rechtsgründen gehindert, daneben die Auflage der Schadenswiedergutmachung als selbständige
+- [BGH, Urteil vom 27.01.2022 - 3 StR 74/21](3-str-74-21.md) — Sexueller Missbrauch von Schutzbefohlenen: Anforderungen an die Individualisierung einzelner Taten einer Tatserie; rechtliche Abkömmlinge eines Mannes
+- [BGH, Beschluss vom 26.01.2022 - 3 StR 461/21](3-str-461-21.md) — Weder der Rahmenbeschluss 2008/675/JI des Rates vom 24. Juli 2008 zur Berücksichtigung der in anderen Mitgliedstaaten der Europäischen Union ergangenen Verurtei
+- [BGH, Beschluss vom 26.01.2022 - 3 StR 465/21](3-str-465-21.md) — Nebenklage: Wirksamkeit der Anschlusserklärung eines Minderjährigen; Erfordernis der Zustimmung des sorgeberechtigten Elternteils und deren Nachweis
+- [BGH, Beschluss vom 25.01.2022 - 3 StR 464/21](3-str-464-21.md) — Betäubungsmittelhandel: Fassung der Urteilsformel
+- [BGH, Beschluss vom 25.01.2022 - 3 StR 487/21](3-str-487-21.md) — Strafzumessung bei selbstverschuldeter Berauschung und parallele Verhängung mehrerer getrennter Freiheitsstrafen: Strafmilderung bei selbst zu verantwortender B
+- [BGH, Beschluss vom 25.01.2022 - 3 StR 492/21](3-str-492-21.md) — Strafverfahren: Nachträgliche Gesamtstrafenbildung und Maßregelanordnung
+- [BGH, Beschluss vom 25.01.2022 - 3 StR 493/21](3-str-493-21.md) — Unterbringung in einer Entziehungsanstalt: Hinreichend konkrete Erfolgsaussicht der Unterbringung aufgrund der Möglichkeit der Überstellung des Angeklagten zur 
+- [BGH, Beschluss vom 25.01.2022 - 3 StR 63/21](3-str-63-21.md) — Verletzung des Anspruchs auf rechtliches Gehör bei einer Revisionsentscheidung: Begründungserfordernis für einen Verwerfungsbeschluss; Umfang der revisionsrecht
+- [BGH, Urteil vom 13.01.2022 - 3 StR 318/21](3-str-318-21.md) — Revision in Strafsachen: Verfahrensrüge wegen Nichtberücksichtigung des im Wege des Selbstleseverfahrens eingeführten polizeilichen Tatortbefundberichts; Inbegr
+- [BGH, Urteil vom 13.01.2022 - 3 StR 341/21](3-str-341-21.md) — Strafverurteilung wegen Betäubungsmitteldelikten: Überführung nichtgeständiger Angeklagter durch Vernehmungspersonen schweigender tatbeteiligter Zeugen
+- [BGH, Beschluss vom 12.01.2022 - 3 StR 394/21](3-str-394-21.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln: Darlegungsmangel im Urteil bei Aufklärungshilfe; erweiterte Einziehung tatbefangenen Bargeldes
+- [BGH, Beschluss vom 12.01.2022 - 3 StR 428/21](3-str-428-21.md) — Strafverfahren: Verwerfung der Revision bei von der Staatsanwaltschaft irrtümlich angenommener Rechtsmittelbeschränkung des Angeklagten
+- [BGH, Beschluss vom 11.01.2022 - 3 StR 177/21](3-str-177-21.md) — Strafverurteilung wegen Ausbeutung der Arbeitskraft u.a.: Besonderes Abhängigkeitsverhältnis zwischen Täter und Opfer
+- [BGH, Beschluss vom 11.01.2022 - 3 StR 406/21](3-str-406-21.md) — Revision in Strafsachen: Beruhen des Urteils auf nicht mehr ordnungsgemäßer Vereidigung eines Dolmetschers
+- [BGH, Beschluss vom 11.01.2022 - 3 StR 415/21](3-str-415-21.md) — Strafverfahren: Ermessensentscheidung hinsichtlich der Einziehung von Tatmitteln; Einziehung von Kryptowährungen und Wertersatzeinziehung
+- [BGH, Beschluss vom 11.01.2022 - 3 StR 416/21](3-str-416-21.md) — Erwerb von Betäubungsmitteln: Rücktritt vom versuchten Erwerb durch Versuch der Stornierung der Bestellung
+- [BGH, Beschluss vom 11.01.2022 - 3 StR 452/20](3-str-452-20.md) — Revisionsgerichtliche Überprüfung der Verwerfung eines Ablehnungsgesuchs gegen einen selbstanzeigenden Schöffen

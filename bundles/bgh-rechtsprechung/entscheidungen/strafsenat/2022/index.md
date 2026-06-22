@@ -1,0 +1,54 @@
+# Strafsenat – 2022
+
+50 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2022 - AK 45 - 47/22, AK 45/22, AK 46/22, AK 47/22](ak-45-47-22-ak-45-22-ak-46-22-ak-47-22.md) — BGH, Beschluss AK 45 - 47/22, AK 45/22, AK 46/22, AK 47/22
+- [BGH, Beschluss vom 14.12.2022 - AK 48/22](ak-48-22.md) — BGH, Beschluss AK 48/22
+- [BGH, Beschluss vom 14.12.2022 - StB 42/22](stb-42-22.md) — Bestechlichkeit von Mandatsträgern bei innerem Vorbehalt
+- [BGH, Beschluss vom 15.11.2022 - AK 44/22](ak-44-22.md) — BGH, Beschluss AK 44/22
+- [BGH, Beschluss vom 15.11.2022 - StB 50/22](stb-50-22.md) — Absehen von einer Sachverständigenbegutachtung bei Reststrafenaussetzung
+- [BGH, Beschluss vom 15.11.2022 - StB 51/22](stb-51-22.md) — Sofortige Beschwerde gegen die Bestellung des Pflichtverteidigers
+- [BGH, Beschluss vom 03.11.2022 - AK 36 - 39/22, AK 36/22, AK 37/22, AK 38/22, AK 39/22](ak-36-39-22-ak-36-22-ak-37-22-ak-38-22-ak-39-22.md) — BGH, Beschluss AK 36 - 39/22, AK 36/22, AK 37/22, AK 38/22, AK 39/22
+- [BGH, Beschluss vom 03.11.2022 - AK 40 - 43/22, AK 40/22, AK 41/22, AK 42/22, AK 43/22](ak-40-43-22-ak-40-22-ak-41-22-ak-42-22-ak-43-22.md) — BGH, Beschluss AK 40 - 43/22, AK 40/22, AK 41/22, AK 42/22, AK 43/22
+- [BGH, Beschluss vom 03.11.2022 - StB 46/22](stb-46-22.md) — Beschwerde gegen die Bewilligung von Akteneinsicht für den Nebenklagevertreter
+- [BGH, Beschluss vom 03.11.2022 - StB 49/22](stb-49-22.md) — BGH, Beschluss StB 49/22
+- [BGH, Beschluss vom 02.11.2022 - StB 43/22](stb-43-22.md) — Strafrestaussetzung zur Bewährung: Günstige Prognose für NSU-Täter
+- [BGH, Beschluss vom 02.11.2022 - StB 47/22, StB 48/22](stb-47-22-stb-48-22.md) — Strafverfahren: Statthaftigkeit der Beschwerde gegen die Verweigerung von Akteneinsicht bzw. Einsicht in Beweismittel für den Nebenkläger zwischen Eröffnungsbes
+- [BGH, Beschluss vom 24.10.2022 - StB 44/22](stb-44-22.md) — Entpflichtung eines Pflichtverteidigers wegen fehlender Verfügbarkeit; Voraussetzungen der Bestellung eines zusätzlichen Pflichtverteidigers
+- [BGH, Beschluss vom 20.10.2022 - AK 34/22](ak-34-22.md) — BGH, Beschluss AK 34/22
+- [BGH, Beschluss vom 18.10.2022 - AK 31/22](ak-31-22.md) — BGH, Beschluss AK 31/22
+- [BGH, Beschluss vom 18.10.2022 - AK 33/22](ak-33-22.md) — BGH, Beschluss AK 33/22
+- [BGH, Beschluss vom 18.10.2022 - AK 35/22](ak-35-22.md) — BGH, Beschluss AK 35/22
+- [BGH, Beschluss vom 12.10.2022 - AK 32/22](ak-32-22.md) — BGH, Beschluss AK 32/22
+- [BGH, Beschluss vom 05.10.2022 - StB 40/22](stb-40-22.md) — Durchsuchungsanordnung wegen des Verdachts der mitgliedschaftlichen Beteiligung an einer terroristischen Vereinigung im Ausland ("Islamischer Staat")
+- [BGH, Beschluss vom 05.10.2022 - StB 41/22](stb-41-22.md) — BGH, Beschluss StB 41/22
+- [BGH, Beschluss vom 20.09.2022 - StB 38/22](stb-38-22.md) — Strafverfahren: Auslegung einer Eingabe als Rechtsmittel gegen eine Beschlagnahmeanordnung
+- [BGH, Beschluss vom 20.09.2022 - StB 39/22](stb-39-22.md) — BGH, Beschluss StB 39/22
+- [BGH, Beschluss vom 06.09.2022 - AK 27/22](ak-27-22.md) — Versuchter Mord: Anforderungen an das Mordmerkmal des niedrigen Beweggrundes
+- [BGH, Beschluss vom 06.09.2022 - StB 36/22](stb-36-22.md) — Voraussetzungen der Strafverfolgungskompetenz des Bundes bei Katalogstraftaten mit staatsgefährdendem Charakter begangen von sog. Reichsbürgern
+- [BGH, Beschluss vom 25.08.2022 - StB 35/22](stb-35-22.md) — Notwendige Verteidigung: Beiordnung eines weiteren Pflichtverteidigers
+- [BGH, Beschluss vom 20.07.2022 - StB 29/22](stb-29-22.md) — Verdacht der mitgliedschaftlichen Beteiligung an einer kriminellen Vereinigung: Anforderungen an die Rechtmäßigkeit der Durchsuchung von Räumlichkeiten einer ni
+- [BGH, Beschluss vom 13.07.2022 - StB 28/22](stb-28-22.md) — Voraussetzungen der Außervollzugsetzung eines Haftbefehls; Untersuchungshaft aufgrund des dringenden Tatverdachts der Brandlegung in einer Asylbewerberunterkunf
+- [BGH, Beschluss vom 05.07.2022 - StB 7 - 9/22, StB 7/22, StB 8/22, StB 9/22](stb-7-9-22-stb-7-22-stb-8-22-stb-9-22.md) — 1. Das in § 108e Abs. 1 und 2 StGB normierte Tatbestandsmerkmal "bei der Wahrnehmung seines Mandates" ist dahin zu verstehen, dass die Mandatstätigkeit als solc
+- [BGH, Beschluss vom 29.06.2022 - StB 26/22](stb-26-22.md) — Beiordnung eines Pflichtverteidigers im Verfahren über die Reststrafenaussetzung
+- [BGH, Beschluss vom 01.06.2022 - StB 19/22](stb-19-22.md) — Statthaftigkeit einer sofortigen Beschwerde im Rahmen einer Strafzeitberechnung
+- [BGH, Beschluss vom 01.06.2022 - StB 21/22](stb-21-22.md) — Haftbeschwerdeverfahren: Prüfung des dringenden Tatverdachts durch das Beschwerdegericht während laufender Hauptverhandlung
+- [BGH, Beschluss vom 18.05.2022 - StB 17/22](stb-17-22.md) — Beschwerde gegen eine richterlichen Bestätigung der vorläufigen Sicherstellung zwecks Durchsicht
+- [BGH, Beschluss vom 05.05.2022 - StB 12/22](stb-12-22.md) — Strafverfahren: Beschwerde gegen die Ablehnung der Bestellung eines weiteren Pflichtverteidigers; Prüfungsumfang des Beschwerdegerichts
+- [BGH, Beschluss vom 04.05.2022 - AK 17/22](ak-17-22.md) — Dringender Tatverdacht von Verbrechen gegen die Menschlichkeit: Mitwirkung der deutschen Ehefrau eines IS-Kämpfers an der Versklavung und der Ausübung sexueller
+- [BGH, Beschluss vom 21.04.2022 - AK 14/22](ak-14-22.md) — Untersuchungshaftfortdauer über sechs Monate bei IS-Beteiligung: Tatbestandsmäßigkeit von Haushaltstätigkeiten einer IS-Anhängerin; Anrechenbarkeit der Zeit in 
+- [BGH, Beschluss vom 21.04.2022 - AK 18/22](ak-18-22.md) — Fortdauer der Untersuchungshaft: Dringender Tatverdacht der Mitgliedschaft in der ausländischen terroristischen Vereinigung Islamischer Staat
+- [BGH, Beschluss vom 21.04.2022 - StB 13/22](stb-13-22.md) — Gesetzlicher Richter: Voraussetzungen der Einrichtung eines Hilfssenats und Überleitung des Verfahrens an diesen
+- [BGH, Beschluss vom 20.04.2022 - AK 15/22, AK 16/22](ak-15-22-ak-16-22.md) — Gründung einer terroristischen Vereinigung: Einstufung einer paramilitärischen Einheit als in- bzw. ausländische terroristische Vereinigung; Kombattantenprivile
+- [BGH, Beschluss vom 20.04.2022 - StB 15/22](stb-15-22.md) — Fortdauer langjähriger Untersuchungshaft: Verhältnismäßigkeit nach noch nicht rechtskräftiger Verurteilung eines zur Tatzeit Jugendlichen u.a. wegen Kriegsverbr
+- [BGH, Beschluss vom 20.04.2022 - StB 16/22](stb-16-22.md) — Notwendige Begründung eines Nichtabhilfebeschlusses bei Haftbeschwerde während laufender Hauptverhandlung: Tatrichterliche Prüfung des fortbestehenden dringende
+- [BGH, Beschluss vom 19.04.2022 - AK 13/22](ak-13-22.md) — Mitgliedschaftliche Beteiligung an einer ausländischen terroristischen Vereinigung: Einstufung von Jabhat al-Nusra als terroristische Vereinigung
+- [BGH, Beschluss vom 06.04.2022 - StB 11/22](stb-11-22.md) — Fortdauer der Untersuchungshaft vor der Revisionsentscheidung: Vorliegen eines dringenden Tatverdachts und von Fluchtgefahr; Beschleunigungspflicht für das Stra
+- [BGH, Beschluss vom 31.03.2022 - AK 9/22](ak-9-22.md) — Fortdauer der Untersuchungshaft: Dringender Tatverdacht strafbarer geheimdienstlicher Agententätigkeit für den türkischen Nachrichtendienst
+- [BGH, Beschluss vom 24.03.2022 - StB 5/22](stb-5-22.md) — Sicherungsverteidigung: Ablehnung des Bestellung eines zweiten Pflichtverteidigers trotz umfangreichen Aktenbestands bei überschaubarem Verfahrensstoff
+- [BGH, Beschluss vom 10.03.2022 - AK 7/22](ak-7-22.md) — Vorbereitung einer schweren staatsgefährdenden Gewalttat: Überschreitung der Wesentlichkeitsgrenze beim Bau einer Unkonventionellen Spreng- und Brandvorrichtung
+- [BGH, Beschluss vom 09.03.2022 - AK 6/22](ak-6-22.md) — Kriegsverbrechen gegen Personen durch entwürdigende oder erniedrigende Behandlung bei Leichenschändung im syrischen Bürgerkrieg
+- [BGH, Beschluss vom 08.03.2022 - StB 4/22](stb-4-22.md) — Hauptverhandlung in einer Strafsache vor dem OLG: Beschwerde gegen die Anordnung einer Maskenpflicht im Sitzungssaal
+- [BGH, Beschluss vom 22.02.2022 - AK 3/22](ak-3-22.md) — Fortdauer von Untersuchungshaft wegen Kriegsverbrechen in Syrien: Abschuss einer Panzerabwehrwaffe auf eine auf Hilfsgüter wartende Menschenmenge
+- [BGH, Beschluss vom 22.02.2022 - StB 2 und 3/22, StB 2/22, StB 3/22](stb-2-und-3-22-stb-2-22-stb-3-22.md) — Pflichtverteidigung: Verteidigerwechsel wegen Interessenkonflikts
+- [BGH, Beschluss vom 12.01.2022 - StB 40/21](stb-40-21.md) — Notwendige Begründung eines Nichtabhilfebeschlusses bei Haftbeschwerde während laufender Hauptverhandlung

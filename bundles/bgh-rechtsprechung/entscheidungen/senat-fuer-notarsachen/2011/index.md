@@ -1,0 +1,10 @@
+# Senat für Notarsachen – 2011
+
+6 Entscheidung(en).
+
+- [BGH, Urteil vom 21.11.2011 - NotZ (Brfg) 3/11](notz-brfg-3-11.md) — Legt ein Anwaltsnotar sein Amt gemäß § 48b BNotO für mehr als ein Jahr nieder, so hat er keinen Anspruch auf eine erneute Übertragung des Notaramtes. Nach Ablau
+- [BGH, Beschluss vom 21.11.2011 - NotZ (Brfg) 6/11](notz-brfg-6-11.md) — Zur hinreichenden Darlegung eines Grundes für die Zulassung der Berufung .
+- [BGH, Beschluss vom 21.11.2011 - NotZ (Brfg) 9/11](notz-brfg-9-11.md) — Zu den überörtlich verwendeten Verzeichnissen im Sinne des § 29 Abs. 3 Satz 2 BNotO, in denen der Angabe der Amtsbezeichnung ein Hinweis auf den Amtssitz des No
+- [BGH, Beschluss vom 18.07.2011 - NotZ (Brfg) 1/11](notz-brfg-1-11.md) — 1. Konkurrieren um eine ausgeschriebene Notarstelle ein Notar aus dem Land, in dem die Stelle zu vergeben ist, und ein Notar aus einem anderen Land, ist es im R
+- [BGH, Beschluss vom 18.07.2011 - NotZ (Brfg) 10/10](notz-brfg-10-10.md) — Fortsetzungsfeststellungsklage in verwaltungsrechtlichen Notarsachen Für eine Fortsetzungsfeststellungsklage in verwaltungsrechtlichen Notarsachen genügt jedes 
+- [BGH, Beschluss vom 21.02.2011 - NotZ (Brfg) 6/10](notz-brfg-6-10.md) — Die Wartefrist nach § 6 Abs. 2 Nr. 2 BNotO ist nicht schon dann gewahrt, wenn der Rechtsanwalt seit mehr als drei Jahren Gesellschafter und Prokurist einer Rech

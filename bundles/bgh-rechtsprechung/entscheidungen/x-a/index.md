@@ -1,62 +1,8 @@
-# x-a
+# X A
 
-53 Entscheidung(en).
+Allgemeines Register, Rechtshilfe- und Zuständigkeitssachen. 53 Entscheidung(en).
 
-## 2010
+## Nach Jahr
 
-- [BGH, Beschluss vom 16.12.2010 - Xa ZR 110/08](2010/xa-zr-110-08.md)
-- [BGH, Urteil vom 16.12.2010 - Xa ZR 66/10](2010/xa-zr-66-10.md)
-- [BGH, Beschluss vom 16.12.2010 - Xa ZR 81/09](2010/xa-zr-81-09.md)
-- [BGH, Beschluss vom 09.12.2010 - Xa ARZ 283/10](2010/xa-arz-283-10.md)
-- [BGH, EuGH-Vorlage vom 09.12.2010 - Xa ZR 80/10](2010/xa-zr-80-10.md)
-- [BGH, Urteil vom 25.11.2010 - Xa ZR 48/09](2010/xa-zr-48-09.md)
-- [BGH, Urteil vom 18.11.2010 - Xa ZR 149/07](2010/xa-zr-149-07.md)
-- [BGH, Urteil vom 28.10.2010 - Xa ZR 46/10](2010/xa-zr-46-10.md)
-- [BGH, Beschluss vom 21.10.2010 - Xa ZB 14/09](2010/xa-zb-14-09.md)
-- [BGH, Urteil vom 14.10.2010 - Xa ZR 15/10](2010/xa-zr-15-10.md)
-- [BGH, Beschluss vom 30.09.2010 - Xa ARZ 191/10](2010/xa-arz-191-10.md)
-- [BGH, Beschluss vom 30.09.2010 - Xa ARZ 208/10](2010/xa-arz-208-10.md)
-- [BGH, EuGH-Vorlage vom 30.09.2010 - Xa ZR 123/09](2010/xa-zr-123-09.md)
-- [BGH, Urteil vom 30.09.2010 - Xa ZR 130/08](2010/xa-zr-130-08.md)
-- [BGH, Urteil vom 09.09.2010 - Xa ZR 14/10](2010/xa-zr-14-10.md)
-- [BGH, Urteil vom 29.07.2010 - Xa ZR 118/09](2010/xa-zr-118-09.md)
-- [BGH, Beschluss vom 10.06.2010 - Xa ZR 110/09](2010/xa-zr-110-09.md)
-- [BGH, Urteil vom 10.06.2010 - Xa ZR 3/07](2010/xa-zr-3-07.md)
-- [BGH, Urteil vom 26.05.2010 - Xa ZR 124/09](2010/xa-zr-124-09.md)
-- [BGH, Urteil vom 20.05.2010 - Xa ZR 68/09](2010/xa-zr-68-09.md)
-- [BGH, Urteil vom 29.04.2010 - Xa ZR 101/09](2010/xa-zr-101-09.md)
-- [BGH, Urteil vom 29.04.2010 - Xa ZR 5/09](2010/xa-zr-5-09.md)
-- [BGH, Beschluss vom 22.04.2010 - Xa ZB 20/08](2010/xa-zb-20-08.md)
-- [BGH, Urteil vom 22.04.2010 - Xa ZR 73/07](2010/xa-zr-73-07.md)
-- [BGH, Beschluss vom 15.04.2010 - Xa ZB 10/09](2010/xa-zb-10-09.md)
-- [BGH, Urteil vom 15.04.2010 - Xa ZR 69/06](2010/xa-zr-69-06.md)
-- [BGH, Urteil vom 15.04.2010 - Xa ZR 89/09](2010/xa-zr-89-09.md)
-- [BGH, Urteil vom 25.03.2010 - Xa ZR 96/09](2010/xa-zr-96-09.md)
-- [BGH, Urteil vom 18.03.2010 - Xa ZR 54/06](2010/xa-zr-54-06.md)
-- [BGH, Urteil vom 18.03.2010 - Xa ZR 74/09](2010/xa-zr-74-09.md)
-- [BGH, Urteil vom 25.02.2010 - Xa ZR 100/05](2010/xa-zr-100-05.md)
-- [BGH, Beschluss vom 18.02.2010 - Xa ARZ 14/10](2010/xa-arz-14-10.md)
-- [BGH, Urteil vom 18.02.2010 - Xa ZR 164/07](2010/xa-zr-164-07.md)
-- [BGH, Urteil vom 18.02.2010 - Xa ZR 95/06](2010/xa-zr-95-06.md)
-- [BGH, Urteil vom 04.02.2010 - Xa ZR 4/07](2010/xa-zr-4-07.md)
-- [BGH, Urteil vom 28.01.2010 - Xa ZR 37/09](2010/xa-zr-37-09.md)
-- [BGH, Urteil vom 21.01.2010 - Xa ZR 175/07](2010/xa-zr-175-07.md)
-
-## 2009
-
-- [BGH, Beschluss vom 17.12.2009 - Xa ZB 38/08](2009/xa-zb-38-08.md)
-- [BGH, Beschluss vom 17.12.2009 - Xa ZB 39/08](2009/xa-zb-39-08.md)
-- [BGH, Beschluss vom 17.12.2009 - Xa ZB 40/08](2009/xa-zb-40-08.md)
-- [BGH, Urteil vom 10.12.2009 - Xa ZR 61/09](2009/xa-zr-61-09.md)
-- [BGH, Beschluss vom 30.07.2009 - Xa ARZ 167/09](2009/xa-arz-167-09.md)
-- [BGH, Urteil vom 30.07.2009 - Xa ZR 22/06](2009/xa-zr-22-06.md)
-- [BGH, Urteil vom 09.07.2009 - Xa ZR 19/08](2009/xa-zr-19-08.md)
-- [BGH, Urteil vom 09.06.2009 - Xa ZR 74/08](2009/xa-zr-74-08.md)
-- [BGH, Beschluss vom 27.05.2009 - Xa ZR 162/07](2009/xa-zr-162-07.md)
-- [BGH, Urteil vom 30.04.2009 - Xa ZR 156/04](2009/xa-zr-156-04.md)
-- [BGH, Urteil vom 30.04.2009 - Xa ZR 56/05](2009/xa-zr-56-05.md)
-- [BGH, Urteil vom 30.04.2009 - Xa ZR 64/08](2009/xa-zr-64-08.md)
-- [BGH, Urteil vom 30.04.2009 - Xa ZR 92/05](2009/xa-zr-92-05.md)
-- [BGH, Urteil vom 02.04.2009 - Xa ZR 52/05](2009/xa-zr-52-05.md)
-- [BGH, Urteil vom 12.03.2009 - Xa ZR 158/04](2009/xa-zr-158-04.md)
-- [BGH, Urteil vom 12.02.2009 - Xa ZR 116/07](2009/xa-zr-116-07.md)
+- [2010](2010/index.md) (37)
+- [2009](2009/index.md) (16)

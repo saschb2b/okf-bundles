@@ -1,0 +1,58 @@
+# 3. Strafsenat – 2008
+
+54 Entscheidung(en).
+
+- [BGH, Beschluss vom 18.12.2008 - 3 StR 460/08](3-str-460-08.md) — gewerbsmäßiger Fälschung von Zahlungskarten mit Garantiefunktion u. a.
+- [BGH, Beschluss vom 18.12.2008 - 3 StR 541/08](3-str-541-08.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 16.12.2008 - 3 StR 453/08](3-str-453-08.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 11.12.2008 - 3 StR 21/08](3-str-21-08.md) — Beihilfe zum Betrug
+- [BGH, Beschluss vom 09.12.2008 - 3 StR 514/08](3-str-514-08.md) — sexuellen Missbrauchs einer widerstandsunfähigen Person
+- [BGH, Beschluss vom 04.12.2008 - 3 StR 494/08](3-str-494-08.md) — Beihilfe zur Vergewaltigung u. a.
+- [BGH, Beschluss vom 02.12.2008 - 3 StR 203/08](3-str-203-08.md) — Volksverhetzung u. a.
+- [BGH, Beschluss vom 02.12.2008 - 3 StR 466/08](3-str-466-08.md) — Anstiftung zur vorsätzlichen Brandstiftung u. a.
+- [BGH, Beschluss vom 02.12.2008 - 3 StR 504/08](3-str-504-08.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Entscheidung vom 25.11.2008 - 3 StR 444/08](3-str-444-08.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 04.11.2008 - 3 StR 336/08](3-str-336-08.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 28.08.2008 - 3 StR 326/08](3-str-326-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 21.08.2008 - 3 StR 229/08](3-str-229-08.md) — besonders schwerer räuberischer Erpressung u. a.; hier: Anhörungsrüge
+- [BGH, Beschluss vom 21.08.2008 - 3 StR 255/08](3-str-255-08.md) — Totschlags u. a.
+- [BGH, Urteil vom 21.08.2008 - 3 StR 262/08](3-str-262-08.md) — Mordes
+- [BGH, Beschluss vom 21.08.2008 - 3 StR 290/08](3-str-290-08.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 19.08.2008 - 3 StR 252/08](3-str-252-08.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 19.08.2008 - 3 StR 297/08](3-str-297-08.md) — besonders schweren Raubes
+- [BGH, Beschluss vom 19.08.2008 - 3 StR 318/08](3-str-318-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 12.08.2008 - 3 StR 276/08](3-str-276-08.md) — Mitgliedschaft in einer kriminellen Vereinigung
+- [BGH, Beschluss vom 12.08.2008 - 3 StR 294/08](3-str-294-08.md) — besonders schweren Raubes u. a.
+- [BGH, Beschluss vom 05.08.2008 - 3 StR 45/08](3-str-45-08.md) — zu 1. :
+- [BGH, Beschluss vom 24.07.2008 - 3 StR 243/08](3-str-243-08.md) — schweren Bandendiebstahls
+- [BGH, Beschluss vom 22.07.2008 - 3 StR 266/08](3-str-266-08.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 08.07.2008 - 3 StR 172/08](3-str-172-08.md) — Besitzes von Betäubungsmitteln in nicht geringer Menge u. a.
+- [BGH, Beschluss vom 08.07.2008 - 3 StR 204/08](3-str-204-08.md) — Beihilfe zum gewerbs- und bandenmäßigen Betrug
+- [BGH, Beschluss vom 08.07.2008 - 3 StR 213/08](3-str-213-08.md) — sexuellen Missbrauchs eines Kindes
+- [BGH, Urteil vom 26.06.2008 - 3 StR 152/08](3-str-152-08.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 24.06.2008 - 3 StR 179/08](3-str-179-08.md) — Vergewaltigung
+- [BGH, Beschluss vom 17.06.2008 - 3 StR 217/08](3-str-217-08.md) — schweren sexuellen Missbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 10.06.2008 - 3 StR 66/08](3-str-66-08.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 03.06.2008 - 3 StR 246/07](3-str-246-07.md) — Diebstahls mit Waffen u. a.
+- [BGH, Beschluss vom 27.05.2008 - 3 StR 173/08](3-str-173-08.md) — Diebstahls
+- [BGH, Beschluss vom 15.05.2008 - 3 StR 98/08](3-str-98-08.md) — zu 1.: Raubes zu 2.: Beihilfe zum Raub u. a.
+- [BGH, Beschluss vom 14.05.2008 - 3 StR 116/08](3-str-116-08.md) — besonders schweren Raubes
+- [BGH, Beschluss vom 14.05.2008 - 3 StR 135/08](3-str-135-08.md) — schweren Raubes u. a.
+- [BGH, Beschluss vom 14.05.2008 - 3 StR 136/08](3-str-136-08.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 08.05.2008 - 3 StR 102/08](3-str-102-08.md) — zu 1., 2. und 4.: schweren Raubes zu 3.: Beihilfe zum schweren Raub
+- [BGH, Beschluss vom 22.04.2008 - 3 StR 74/08](3-str-74-08.md) — besonders schwerer Brandstiftung u. a.
+- [BGH, Beschluss vom 01.04.2008 - 3 StR 493/07](3-str-493-07.md) — Untreue u. a.
+- [BGH, Beschluss vom 13.03.2008 - 3 StR 485/07](3-str-485-07.md) — zu 1.: Brandstiftung u. a. zu 2.: Brandstiftung
+- [BGH, Beschluss vom 13.03.2008 - 3 StR 64/08](3-str-64-08.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 11.03.2008 - 3 StR 24/08](3-str-24-08.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menga u. a.
+- [BGH, Urteil vom 06.03.2008 - 3 StR 538/07](3-str-538-07.md) — Totschlags u. a.
+- [BGH, Beschluss vom 04.03.2008 - 3 StR 26/08](3-str-26-08.md) — gefährlicher Körperverletzung u. a.
+- [BGH, Beschluss vom 04.03.2008 - 3 StR 30/08](3-str-30-08.md) — schweren Bandendiebstahls u. a.
+- [BGH, Beschluss vom 04.03.2008 - 3 StR 445/07](3-str-445-07.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 03.03.2008 - 3 StR 51/08](3-str-51-08.md) — versuchter sexueller Nötigung u. a.
+- [BGH, Beschluss vom 14.02.2008 - 3 StR 416/07](3-str-416-07.md) — Bestechlichkeit
+- [BGH, Beschluss vom 24.01.2008 - 3 StR 532/07](3-str-532-07.md) — schweren sexuellen Missbrauchs von Kindern
+- [BGH, Beschluss vom 24.01.2008 - 3 StR 537/07](3-str-537-07.md) — Beihilfe zum schweren Raub u.a.
+- [BGH, Beschluss vom 24.01.2008 - 3 StR 542/07](3-str-542-07.md) — Vergewaltigung
+- [BGH, Beschluss vom 16.01.2008 - 3 StR 479/07](3-str-479-07.md) — versuchten Totschlags u. a.
+- [BGH, Beschluss vom 15.01.2008 - 3 StR 450/07](3-str-450-07.md) — schweren sexuellen Missbrauchs von Kindern u. a.

@@ -1,0 +1,81 @@
+# XI. Zivilsenat – 2022
+
+77 Entscheidung(en).
+
+- [BGH, Beschluss vom 13.12.2022 - XI ZB 10/21](xi-zb-10-21.md) — Der Vorrang der spezialgesetzlichen Prospekthaftung gilt auch dann, wenn der Anleger seine Beteiligung erst nach Ablauf der in § 13 Abs. 1 Nr. 1 VerkProspG in d
+- [BGH, Beschluss vom 13.12.2022 - XI ZB 20/20](xi-zb-20-20.md) — BGH, Beschluss XI ZB 20/20
+- [BGH, Beschluss vom 13.12.2022 - XI ZB 21/20](xi-zb-21-20.md) — Fehlendes Sachentscheidungsinteresse im Kapitalanleger-Musterverfahren wegen Vorrang der spezialgesetzlichen Prospekthaftung
+- [BGH, Beschluss vom 13.12.2022 - XI ZR 14/22](xi-zr-14-22.md) — BGH, Beschluss XI ZR 14/22
+- [BGH, Beschluss vom 29.11.2022 - XI ZR 504/21](xi-zr-504-21.md) — BGH, Beschluss XI ZR 504/21
+- [BGH, Beschluss vom 29.11.2022 - XI ZR 525/21](xi-zr-525-21.md) — BGH, Beschluss XI ZR 525/21
+- [BGH, Beschluss vom 29.11.2022 - XI ZR 526/21](xi-zr-526-21.md) — BGH, Beschluss XI ZR 526/21
+- [BGH, Beschluss vom 29.11.2022 - XI ZR 547/21](xi-zr-547-21.md) — BGH, Beschluss XI ZR 547/21
+- [BGH, Beschluss vom 29.11.2022 - XI ZR 555/21](xi-zr-555-21.md) — BGH, Beschluss XI ZR 555/21
+- [BGH, Beschluss vom 29.11.2022 - XI ZR 560/21](xi-zr-560-21.md) — BGH, Beschluss XI ZR 560/21
+- [BGH, Beschluss vom 29.11.2022 - XI ZR 568/21](xi-zr-568-21.md) — BGH, Beschluss XI ZR 568/21
+- [BGH, Beschluss vom 22.11.2022 - XI ZB 13/22](xi-zb-13-22.md) — Ein Organisationsverschulden des Prozessbevollmächtigten auf der ersten Stufe der Ausgangskontrolle fristgebundener Schriftsätze (hier: fehlerhafte Streichung d
+- [BGH, Beschluss vom 22.11.2022 - XI ZB 22/21](xi-zb-22-21.md) — BGH, Beschluss XI ZB 22/21
+- [BGH, Beschluss vom 22.11.2022 - XI ZB 28/21](xi-zb-28-21.md) — Die spezialgesetzliche Prospekthaftung gemäß den § 13 VerkProspG, §§ 44 ff. BörsG in der bis zum 31. Mai 2012 geltenden Fassung schließt in ihrem Anwendungsbere
+- [BGH, Beschluss vom 22.11.2022 - XI ZR 22/22](xi-zr-22-22.md) — BGH, Beschluss XI ZR 22/22
+- [BGH, Beschluss vom 21.11.2022 - XI ZA 3/22](xi-za-3-22.md) — BGH, Beschluss XI ZA 3/22
+- [BGH, Beschluss vom 15.11.2022 - XI ZR 31/22](xi-zr-31-22.md) — BGH, Beschluss XI ZR 31/22
+- [BGH, Urteil vom 15.11.2022 - XI ZR 551/21](xi-zr-551-21.md) — Die von einer Bausparkasse für eine Vielzahl von Vertragsverhältnissen mit Bausparern vorformulierte Klausel "Die Bausparkasse berechnet während der Sparphase j
+- [BGH, Beschluss vom 08.11.2022 - XI ZB 21/21](xi-zb-21-21.md) — BGH, Beschluss XI ZB 21/21
+- [BGH, Beschluss vom 08.11.2022 - XI ZR 453/21](xi-zr-453-21.md) — BGH, Beschluss XI ZR 453/21
+- [BGH, Beschluss vom 26.10.2022 - XI ZA 2/22](xi-za-2-22.md) — BGH, Beschluss XI ZA 2/22
+- [BGH, Urteil vom 25.10.2022 - XI ZR 44/22](xi-zr-44-22.md) — Bei einem mit einem im stationären Handel geschlossenen Fahrzeugkaufvertrag verbundenen und vom Darlehensnehmer widerrufenen Allgemein-Verbraucherdarlehensvertr
+- [BGH, Beschluss vom 18.10.2022 - XI ZB 25/21](xi-zb-25-21.md) — BGH, Beschluss XI ZB 25/21
+- [BGH, Beschluss vom 18.10.2022 - XI ZB 5/22](xi-zb-5-22.md) — BGH, Beschluss XI ZB 5/22
+- [BGH, Urteil vom 18.10.2022 - XI ZR 226/21](xi-zr-226-21.md) — Leistungsverweigerungsrecht bis zum Rückerhalt des finanzierten Fahrzeugs
+- [BGH, Urteil vom 18.10.2022 - XI ZR 606/20](xi-zr-606-20.md) — Der Erlass eines Grundurteils ist unzulässig, wenn dies zu einer ungerechtfertigten Verzögerung und Verteuerung des Prozesses führt. Dies ist insbesondere dann 
+- [BGH, Beschluss vom 12.10.2022 - XI ZB 25/22](xi-zb-25-22.md) — BGH, Beschluss XI ZB 25/22
+- [BGH, Beschluss vom 11.10.2022 - XI ZA 6/22](xi-za-6-22.md) — BGH, Beschluss XI ZA 6/22
+- [BGH, Beschluss vom 11.10.2022 - XI ZB 23/22](xi-zb-23-22.md) — BGH, Beschluss XI ZB 23/22
+- [BGH, Beschluss vom 11.10.2022 - XI ZR 189/22](xi-zr-189-22.md) — BGH, Beschluss XI ZR 189/22
+- [BGH, Beschluss vom 20.09.2022 - XI ZB 14/22](xi-zb-14-22.md) — Die Überprüfung der ordnungsgemäßen Übermittlung eines fristgebundenen Schriftsatzes (hier: Berufungsbegründung) über das besondere elektronische Anwaltspostfac
+- [BGH, Beschluss vom 20.09.2022 - XI ZB 3/20](xi-zb-3-20.md) — Zu Rechtsbeschwerden von Musterbeklagten und Anschlussrechtsbeschwerden gegen Musterbeklagte, die von der spezialgesetzlichen Prospekthaftung erfasst werden.
+- [BGH, Beschluss vom 20.09.2022 - XI ZB 34/19](xi-zb-34-19.md) — 1. Die spezialgesetzliche Prospekthaftung gemäß den § 13 VerkProspG, §§ 44 ff. BörsG in der bis zum 31. Mai 2012 geltenden Fassung schließt in ihrem Anwendungsb
+- [BGH, Beschluss vom 20.09.2022 - XI ZB 4/22](xi-zb-4-22.md) — Zur Prüfung im Rechtsbeschwerdeverfahren, ob die Anhörungsrüge, die in der Beschwerdeinstanz zur Abänderung der zunächst vom Beschwerdegericht getroffenen Entsc
+- [BGH, Beschluss vom 20.09.2022 - XI ZR 190/22](xi-zr-190-22.md) — BGH, Beschluss XI ZR 190/22
+- [BGH, Urteil vom 20.09.2022 - XI ZR 200/21](xi-zr-200-21.md) — BGH, Urteil XI ZR 200/21
+- [BGH, Urteil vom 20.09.2022 - XI ZR 250/21](xi-zr-250-21.md) — BGH, Urteil XI ZR 250/21
+- [BGH, Urteil vom 20.09.2022 - XI ZR 26/22](xi-zr-26-22.md) — BGH, Urteil XI ZR 26/22
+- [BGH, Urteil vom 20.09.2022 - XI ZR 306/21](xi-zr-306-21.md) — BGH, Urteil XI ZR 306/21
+- [BGH, Beschluss vom 20.09.2022 - XI ZR 346/21](xi-zr-346-21.md) — BGH, Beschluss XI ZR 346/21
+- [BGH, Urteil vom 20.09.2022 - XI ZR 353/21](xi-zr-353-21.md) — BGH, Urteil XI ZR 353/21
+- [BGH, Urteil vom 20.09.2022 - XI ZR 461/21](xi-zr-461-21.md) — BGH, Urteil XI ZR 461/21
+- [BGH, Urteil vom 20.09.2022 - XI ZR 66/21](xi-zr-66-21.md) — BGH, Urteil XI ZR 66/21
+- [BGH, Beschluss vom 13.09.2022 - XI ZB 13/21](xi-zb-13-21.md) — § 20 Abs. 2 Satz 1 KapMuG verlangt als weitere ungeschriebene Voraussetzung, dass der Rechtsbeschwerdeführer im Zeitpunkt der Einlegung der Rechtsbeschwerde, sp
+- [BGH, Beschluss vom 13.09.2022 - XI ZB 7/22](xi-zb-7-22.md) — Anforderungen an die Berufungsbegründung in Fällen mit unstreitigem Sachverhalt
+- [BGH, Beschluss vom 13.09.2022 - XI ZR 515/21](xi-zr-515-21.md) — Illegales Glücksspiel: Erstattung von autorisierten Kreditkartenzahlungen für ein illegales Online-Glücksspiel
+- [BGH, Beschluss vom 12.09.2022 - XI ZB 12/22](xi-zb-12-22.md) — BGH, Beschluss XI ZB 12/22
+- [BGH, Beschluss vom 07.09.2022 - XI ZB 22/22](xi-zb-22-22.md) — BGH, Beschluss XI ZB 22/22
+- [BGH, Beschluss vom 26.07.2022 - XI ZB 23/20](xi-zb-23-20.md) — 1. Ansprüche, die auf den gesetzlichen Haftungstatbestand des § 128 Satz 1 HGB (analog) gestützt werden, fallen nicht in den Anwendungsbereich von § 1 Abs. 1 Ka
+- [BGH, Beschluss vom 26.07.2022 - XI ZR 483/21](xi-zr-483-21.md) — Nichtzulassungsbeschwerde: Analoge Anwendung der Regelungen zum Verbraucherdarlehensvertrag auf ein Garantieversprechen; Verbrauchereigenschaft eines GmbH-Gesch
+- [BGH, Beschluss vom 19.07.2022 - XI ZB 32/21](xi-zb-32-21.md) — Zum Vorrang der spezialgesetzlichen Prospekthaftung und zur Zuständigkeit des Senats, hierüber zu entscheiden (weitere Bestätigung von Senat, Beschluss vom 19. 
+- [BGH, Beschluss vom 12.07.2022 - XI ZR 457/21](xi-zr-457-21.md) — BGH, Beschluss XI ZR 457/21
+- [BGH, Beschluss vom 28.06.2022 - XI ZR 554/21](xi-zr-554-21.md) — Nichtzulassungsbeschwerde: Wert der Beschwer einer landgerichtlichen Feststellung im Prozess zwischen Gläubigervertreter und Anleiheemittentin
+- [BGH, Beschluss vom 14.06.2022 - XI ZB 33/19](xi-zb-33-19.md) — 1. Die Frist zur Einlegung der Rechtsbeschwerde nach § 20 Abs. 1 Satz 1 KapMuG wird für jeden Beteiligten gesondert mit Zustellung des Musterentscheids an ihn (
+- [BGH, Beschluss vom 14.06.2022 - XI ZR 395/21](xi-zr-395-21.md) — 1. Zur Zuständigkeit des XI. Zivilsenats für Ansprüche aus spezialgesetzlicher Prospekthaftung und für hierzu in Konkurrenz stehende Ansprüche aus Prospekthaftu
+- [BGH, Beschluss vom 14.06.2022 - XI ZR 443/21](xi-zr-443-21.md) — Zugriffschutz beim Online-Banking: Personalisierte Sicherheitsmerkmale
+- [BGH, Beschluss vom 14.06.2022 - XI ZR 571/21](xi-zr-571-21.md) — Streitwert nach übereinstimmender Erledigungserklärung
+- [BGH, Beschluss vom 24.05.2022 - XI ZB 18/21](xi-zb-18-21.md) — Versäumung der Berufungsfrist: Anwaltlichen Sorgfaltspflichten im Zusammenhang mit der Übermittlung von fristgebundenen Schriftsätzen per beA
+- [BGH, Beschluss vom 24.05.2022 - XI ZR 390/21](xi-zr-390-21.md) — Nichtzulassungsbeschwerde: Revisionszulassungsgrund der klärungsbedürftigen Rechtsfrage hinsichtlich eines Aufwendungsersatzanspruchs der kontoführenden Bank be
+- [BGH, Beschluss vom 26.04.2022 - XI ZB 27/20](xi-zb-27-20.md) — Zum Vorrang der spezialgesetzlichen Prospekthaftung und zur Zuständigkeit des Senats, hierüber zu entscheiden (weitere Bestätigung von Senat, Beschluss vom 19. 
+- [BGH, Beschluss vom 26.04.2022 - XI ZB 32/19](xi-zb-32-19.md) — Richtet sich im Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz die Rechtsbeschwerde eines Musterbeklagten gegen ein Feststellungsziel und verfolgt der
+- [BGH, Urteil vom 12.04.2022 - XI ZR 179/21](xi-zr-179-21.md) — Bei Allgemein-Verbraucherdarlehensverträgen im Anwendungsbereich der Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates vom 23. April 2008 über Ver
+- [BGH, Beschluss vom 22.03.2022 - XI ZB 24/20](xi-zb-24-20.md) — Zur Darstellung von Prognosen, zur Angabe von Verflechtungstatbeständen und zur Aufgliederung der voraussichtlichen Gesamtkosten des Anlageobjekts in einem Verk
+- [BGH, Beschluss vom 15.03.2022 - XI ZB 31/20](xi-zb-31-20.md) — Zum Vorrang der spezialgesetzlichen Prospekthaftung (Bestätigung von Senatsbeschluss vom 19. Januar 2021 - XI ZB 35/18, BGHZ 228, 237 Rn. 22 ff.)
+- [BGH, Beschluss vom 22.02.2022 - XI ZB 12/20](xi-zb-12-20.md) — Haftung bei Kapitalanlagegeschäft: Vorrang der spezialgesetzlichen Prospekthaftung
+- [BGH, Beschluss vom 22.02.2022 - XI ZB 32/20](xi-zb-32-20.md) — Ergibt in einem Verfahren nach dem Kapitalanleger-Musterverfahrensgesetz die Auslegung eines auf Feststellung eines Prospektfehlers gerichteten Feststellungszie
+- [BGH, EuGH-Vorlage vom 31.01.2022 - XI ZR 113/21, XI ZR 144/21, XI ZR 196/21, XI ZR 215/21, XI ZR 228/21, XI ZR 279/21, XI ZR 304/21](xi-zr-113-21-xi-zr-144-21-xi-zr-196-21-xi-zr-215-21-xi-zr-228-21-x-kore300322022.md) — Dem Gerichtshof der Europäischen Union wird gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 AEUV zur Auslegung der Richtlinie 2008/48/EG des Europäischen Parlaments und
+- [BGH, Urteil vom 25.01.2022 - XI ZR 255/20](xi-zr-255-20.md) — Ein formularmäßiger Ausschluss der Einrede der Anfechtbarkeit nach § 770 Abs. 1 BGB im Bürgschaftsvertrag benachteiligt den Bürgen nicht gemäß § 307 Abs. 1 Satz
+- [BGH, Verfügung vom 18.01.2022 - XI ZR 104/21](xi-zr-104-21.md) — Prämiensparvertrag: Wirksamkeit des formularmäßigen ordentlichen Kündigungsrecht nach Erreichen der höchsten Prämiensparstufe
+- [BGH, Urteil vom 18.01.2022 - XI ZR 380/20](xi-zr-380-20.md) — Legt der Anspruchsteller das Sparbuch nicht im Original, sondern nur einen Ausschließungsbeschluss vor, mit dem das Sparbuch für kraftlos erklärt worden ist, is
+- [BGH, Urteil vom 18.01.2022 - XI ZR 505/21](xi-zr-505-21.md) — Die in einen zinslosen Studiendarlehensvertrag einbezogene formularmäßige Bestimmung eines laufzeitunabhängigen "Verwaltungskosteneinbehalts" unterliegt nach § 
+- [BGH, Beschluss vom 11.01.2022 - XI ZB 1/21](xi-zb-1-21.md) — Kapitalanlegermusterverfahren: Haftung des Urhebers eines Prospekts einer Fondsgesellschaft
+- [BGH, Beschluss vom 11.01.2022 - XI ZB 11/20](xi-zb-11-20.md) — Kapitalanlagegeschäft: Prospektverantwortlichkeit eines Hintermanns als Prospektveranlasser
+- [BGH, Beschluss vom 11.01.2022 - XI ZB 13/20](xi-zb-13-20.md) — Spezialgesetzliche Prospekthaftung im Altfall: Prospektverantwortlichkeit eines Hintermannes
+- [BGH, Beschluss vom 11.01.2022 - XI ZB 17/20](xi-zb-17-20.md) — Kapitalanleger-Musterverfahren: Bürgerlich-rechtliche Prospekthaftung bei fehlerhafter Darstellung der Markterwartung und Rentabilität einer Fondsbeteiligung im
+- [BGH, Beschluss vom 11.01.2022 - XI ZB 19/20](xi-zb-19-20.md) — Spezialgesetzliche Prospekthaftung im Altfall: Prospektverantwortlichkeit eines Hintermannes
+- [BGH, Urteil vom 11.01.2022 - XI ZR 215/19](xi-zr-215-19.md) — BGH, Urteil XI ZR 215/19

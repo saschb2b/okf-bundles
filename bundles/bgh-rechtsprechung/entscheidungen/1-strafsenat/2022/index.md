@@ -1,0 +1,135 @@
+# 1. Strafsenat – 2022
+
+131 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2022 - 1 StR 295/22](1-str-295-22.md) — Ein Verstoß gegen § 15 Abs. 1 KraftStDV führt nicht zur Strafbarkeit nach § 370 Abs. 1 Nr. 2 AO, weil die Regelung der steuerlichen Erklärungspflicht allein in 
+- [BGH, Beschluss vom 15.12.2022 - 1 StR 742/08](1-str-742-08.md) — BGH, Beschluss 1 StR 742/08
+- [BGH, Urteil vom 14.12.2022 - 1 StR 273/22](1-str-273-22.md) — Rücktritt vom versuchten Tötungsdelikt bei freiwilliger Aufgabe weiterer Tathandlungen
+- [BGH, Beschluss vom 14.12.2022 - 1 StR 311/22](1-str-311-22.md) — BGH, Beschluss 1 StR 311/22
+- [BGH, Beschluss vom 14.12.2022 - 1 StR 371/22](1-str-371-22.md) — BGH, Beschluss 1 StR 371/22
+- [BGH, Beschluss vom 13.12.2022 - 1 StR 284/22](1-str-284-22.md) — BGH, Beschluss 1 StR 284/22
+- [BGH, Beschluss vom 13.12.2022 - 1 StR 293/22](1-str-293-22.md) — BGH, Beschluss 1 StR 293/22
+- [BGH, Beschluss vom 13.12.2022 - 1 StR 332/22](1-str-332-22.md) — BGH, Beschluss 1 StR 332/22
+- [BGH, Beschluss vom 13.12.2022 - 1 StR 380/22](1-str-380-22.md) — Strafverfahren: Bindungswirkung staatanwaltschaftlicher Zusagen
+- [BGH, Urteil vom 13.12.2022 - 1 StR 408/21](1-str-408-21.md) — Rücktritt vom unbeendeten Versuch: Vorstellungsbild des Täters bei mehraktigem Geschehen
+- [BGH, Beschluss vom 12.12.2022 - 1 StR 244/22](1-str-244-22.md) — BGH, Beschluss 1 StR 244/22
+- [BGH, Beschluss vom 30.11.2022 - 1 StR 272/22](1-str-272-22.md) — BGH, Beschluss 1 StR 272/22
+- [BGH, Urteil vom 30.11.2022 - 1 StR 398/21](1-str-398-21.md) — BGH, Urteil 1 StR 398/21
+- [BGH, Beschluss vom 17.11.2022 - 1 StR 323/22](1-str-323-22.md) — Steuerhinterziehung: Dritteinziehung einer Steuerersparnis
+- [BGH, Beschluss vom 16.11.2022 - 1 StR 330/22](1-str-330-22.md) — Versuchter Totschlag: Freiwilligkeit des Rücktritts
+- [BGH, Beschluss vom 16.11.2022 - 1 StR 367/22](1-str-367-22.md) — BGH, Beschluss 1 StR 367/22
+- [BGH, Beschluss vom 15.11.2022 - 1 StR 196/22](1-str-196-22.md) — Revision in Strafsachen: Gegenvorstellung gegen die Entscheidung des Revisionsgerichts; Anspruch auf Übersetzung der Entscheidung ins Polnische
+- [BGH, Urteil vom 15.11.2022 - 1 StR 228/22](1-str-228-22.md) — BGH, Urteil 1 StR 228/22
+- [BGH, Beschluss vom 20.10.2022 - 1 StR 352/22](1-str-352-22.md) — Begründungsanforderungen bei der Verhängung einer Jugendstrafe
+- [BGH, Beschluss vom 20.10.2022 - 1 StR 70/22](1-str-70-22.md) — Strafverurteilung wegen Beihilfe zur Steuerhinterziehung sowie Vorenthalten und Veruntreuen von Arbeitsentgelt: Konkurrenzverhältnis bei Ausstellen von Abdeckre
+- [BGH, Beschluss vom 19.10.2022 - 1 StR 262/22](1-str-262-22.md) — Elektronischer Rechtsverkehr in Strafsachen: Übermittlung des Revisionsbegründungsschriftsatzes über das beA mit dem Dateiformat "docx"
+- [BGH, Urteil vom 19.10.2022 - 1 StR 269/22](1-str-269-22.md) — Strafzumessung im Steuerstrafverfahren: Steuerhinterziehung in Millionenhöhe; Verschleierung durch Einschaltung einer ausländischen Kapitalgesellschaft und Vort
+- [BGH, Beschluss vom 19.10.2022 - 1 StR 326/22](1-str-326-22.md) — BGH, Beschluss 1 StR 326/22
+- [BGH, Beschluss vom 18.10.2022 - 1 StR 300/22](1-str-300-22.md) — Steuerstrafverfahren: Konkurrenzverhältnis bei Hinterziehung von Lohnsteuer nebst Solidaritätszuschlag
+- [BGH, Beschluss vom 18.10.2022 - 1 StR 346/22](1-str-346-22.md) — Abgrenzung von Täterschaft und Teilnahme beim Betäubungsmittelhandel
+- [BGH, Beschluss vom 18.10.2022 - 1 StR 347/22](1-str-347-22.md) — Unterbringung des Angeklagten in einer Entziehungsanstalt bei einem Sexualdelikt als Anlasstat
+- [BGH, Beschluss vom 05.10.2022 - 1 StR 267/22](1-str-267-22.md) — BGH, Beschluss 1 StR 267/22
+- [BGH, Beschluss vom 04.10.2022 - 1 StR 315/22](1-str-315-22.md) — BGH, Beschluss 1 StR 315/22
+- [BGH, Beschluss vom 29.09.2022 - 1 StR 47/22](1-str-47-22.md) — BGH, Beschluss 1 StR 47/22
+- [BGH, Beschluss vom 22.09.2022 - 1 StR 101/22](1-str-101-22.md) — Strafverfahren wegen Steuerhinterziehung und Vorenthaltens von Sozialversicherungsbeiträgen: Anforderungen an die Feststellung der vorenthaltenen Sozialversiche
+- [BGH, Beschluss vom 22.09.2022 - 1 StR 171/22](1-str-171-22.md) — Untreue: Einbehalten von Mandantengeldern durch einen Rechtsanwalt
+- [BGH, Beschluss vom 22.09.2022 - 1 StR 233/22](1-str-233-22.md) — Gewerbsmäßige Steuerhehlerei: Beihilfehandlung durch Zusage der Abnahme unversteuerter Zigaretten
+- [BGH, Beschluss vom 22.09.2022 - 1 StR 271/22](1-str-271-22.md) — (Versuchte bzw. vollendete Hinterziehung von Ertragssteuern einer GmbH: Schätzung bei unterbliebener Führung von Betriebsbüchern
+- [BGH, Beschluss vom 21.09.2022 - 1 StR 221/22](1-str-221-22.md) — BGH, Beschluss 1 StR 221/22
+- [BGH, Beschluss vom 21.09.2022 - 1 StR 248/22](1-str-248-22.md) — Besitz und Verbreitung kinderpornographischer Inhalte: Konkurrenzen bei durchgehendem Besitz und mehreren Verbreitungstaten sowie gleichzeitiger Aufbewahrung vo
+- [BGH, Beschluss vom 21.09.2022 - 1 StR 479/21](1-str-479-21.md) — Verständigung in Strafsachen: Unstatthafter Gegenstand eines deals
+- [BGH, Urteil vom 20.09.2022 - 1 StR 14/22](1-str-14-22.md) — Strafverurteilung wegen Bestechlichkeit im geschäftlichen Verkehr u.a.: Einziehung eines einem Gesellschafter als Bestechungslohn eingeräumten Gesellschaftsante
+- [BGH, Beschluss vom 20.09.2022 - 1 StR 259/22](1-str-259-22.md) — BGH, Beschluss 1 StR 259/22
+- [BGH, Beschluss vom 20.09.2022 - 1 StR 279/22](1-str-279-22.md) — BGH, Beschluss 1 StR 279/22
+- [BGH, Beschluss vom 07.09.2022 - 1 StR 157/22](1-str-157-22.md) — BGH, Beschluss 1 StR 157/22
+- [BGH, Beschluss vom 07.09.2022 - 1 StR 229/22](1-str-229-22.md) — Steuerhinterziehung: Schätzung der Besteuerungsunterlagen und Anforderungen an die Berechnungsdarstellung der hinterzogenen Steuern in den Urteilsgründen
+- [BGH, Beschluss vom 07.09.2022 - 1 StR 49/22](1-str-49-22.md) — Strafmilderung wegen möglichem Bewährungswiderruf in anderer Sache bei bewusstem Bewährungsbruch
+- [BGH, Beschluss vom 06.09.2022 - 1 StR 242/22](1-str-242-22.md) — BGH, Beschluss 1 StR 242/22
+- [BGH, Urteil vom 06.09.2022 - 1 StR 389/21](1-str-389-21.md) — Steuerhinterziehung: Antidumping- und Ausgleichszölle auf chinesische Solarmodule als taugliche Tatobjekte
+- [BGH, Beschluss vom 06.09.2022 - 1 StR 63/22](1-str-63-22.md) — Haupthandlung in Strafsachen: Fehlerhafte Wiederholung einer Zeugenvernehmung
+- [BGH, Beschluss vom 25.08.2022 - 1 StR 142/22](1-str-142-22.md) — BGH, Beschluss 1 StR 142/22
+- [BGH, Beschluss vom 25.08.2022 - 1 StR 265/22](1-str-265-22.md) — Schuldfähigkeit bei Vorliegen einer Psychose aus dem schizophrenen Formenkreis; Zusammenhang zwischen Erkrankung und Anlasstat
+- [BGH, Beschluss vom 24.08.2022 - 1 StR 186/22](1-str-186-22.md) — BGH, Beschluss 1 StR 186/22
+- [BGH, Beschluss vom 23.08.2022 - 1 StR 232/22](1-str-232-22.md) — Sperrwirkung bei der Strafrahmenbildung sowie Zäsurwirkung hinsichtlich Gesamtstrafenbildung
+- [BGH, Beschluss vom 23.08.2022 - 1 StR 252/22](1-str-252-22.md) — Adhäsionsverfahren: Bindung des Gerichts an den Adhäsionsantrag
+- [BGH, Beschluss vom 23.08.2022 - 1 StR 270/22](1-str-270-22.md) — Rücktritt vom Mordversuch: Ernsthaftigkeit des Bemühens um Erfolgsverhinderung
+- [BGH, Beschluss vom 22.08.2022 - 1 StR 187/22](1-str-187-22.md) — Dritteinziehung von Ersparnissen
+- [BGH, Beschluss vom 10.08.2022 - 1 StR 234/22](1-str-234-22.md) — Sicherungverfahren: Anordnung der Unterbringung in einem psychiatrischen Krankenhaus bei Rücktritt vom Versuch der Brandstiftung
+- [BGH, Beschluss vom 09.08.2022 - 1 StR 119/22](1-str-119-22.md) — Revision im Strafverfahren: Wirksamkeit einer Revisionsrücknahme gegenüber der Staatsanwaltschaft
+- [BGH, Beschluss vom 09.08.2022 - 1 StR 194/22](1-str-194-22.md) — Maßregelausspruch: Notwendige Feststellungen im Rahmen der Gefährlichkeitsprognose
+- [BGH, Beschluss vom 09.08.2022 - 1 StR 254/22](1-str-254-22.md) — Täter-Opfer-Ausgleich: Friedensstiftende Akzeptanz eines Adhäsionsvergleichs ohne volles Geständnis
+- [BGH, Beschluss vom 28.07.2022 - 1 StR 108/22](1-str-108-22.md) — Berücksichtigung des Erziehungsgedankens bei Bemessung der Jugendstrafe; Unterbringung in Entziehungsanstalt
+- [BGH, Urteil vom 28.07.2022 - 1 StR 439/21](1-str-439-21.md) — Lückenhaftigkeit der Feststellungen beim Freispruch vom Subventionsbetrug
+- [BGH, Urteil vom 28.07.2022 - 1 StR 470/21](1-str-470-21.md) — Steuerhinterziehung durch Beteiligung an der Herstellung illegaler Zigaretten
+- [BGH, Beschluss vom 27.07.2022 - 1 StR 106/22](1-str-106-22.md) — Strafbares Einschleusen von Ausländern: Konkurrenzverhältnis bei akzessorischer Beihilfe zur unerlaubter Einreise und zum unerlaubtem Aufenthalt
+- [BGH, Beschluss vom 27.07.2022 - 1 StR 145/22](1-str-145-22.md) — Kostenentscheidung im Strafverfahren: Berechnung der nach fiktivem Teilfreispruch zu erstattenden Verfahrenskosten
+- [BGH, Beschluss vom 26.07.2022 - 1 StR 11/22](1-str-11-22.md) — Veruntreuen von Arbeitsentgelt und Steuerhinterziehung: Ermittlung des gezahlten Schwarzlohns; Rückwirkung der Allgemeinverbindlicherklärung eines Tarifvertrage
+- [BGH, Beschluss vom 26.07.2022 - 1 StR 134/22](1-str-134-22.md) — Umsatzsteuerhinterziehung durch Falschangaben über Erwerber in anderen europäischen Mitgliedstaaten
+- [BGH, Beschluss vom 26.07.2022 - 1 StR 214/22](1-str-214-22.md) — BGH, Beschluss 1 StR 214/22
+- [BGH, Beschluss vom 26.07.2022 - 1 StR 51/22](1-str-51-22.md) — Steuerstrafverfahren: Konkurrenzverhältnis bei Tatbegehung in mittelbarer Täterschaft und Steuerberatungsgesellschaft als Werkzeug
+- [BGH, Beschluss vom 30.06.2022 - 1 StR 176/22](1-str-176-22.md) — Sicherungsverwahrung: Unterbringungsvorbehalt neben lebenslanger Freiheitsstrafe
+- [BGH, Beschluss vom 30.06.2022 - 1 StR 185/22](1-str-185-22.md) — Nichtberücksichtigung des straffreien Vorlebens des Angeklagten bei der Strafzumessung
+- [BGH, Urteil vom 30.06.2022 - 1 StR 277/21](1-str-277-21.md) — Strafverfahren: Erstreckung der Pflichtverteidigerbestellung auf das Adhäsionsverfahren; Behandlung des in der Hauptverhandlung anwesenden Pflichtverteidigers a
+- [BGH, Urteil vom 30.06.2022 - 1 StR 50/22](1-str-50-22.md) — Freisprechendes Strafurteil: Feststellung der persönlichen Verhältnisse des schweigenden Angeklagten
+- [BGH, Beschluss vom 29.06.2022 - 1 StR 127/22](1-str-127-22.md) — Heimtückemord: Maßgeblichkeit des ersten Angriffs; schmales Zeitfenster als Begründung einer Wehrlosigkeit des Opfers
+- [BGH, EuGH-Vorlage vom 29.06.2022 - 1 StR 130/22](1-str-130-22.md) — Vorabentscheidungsersuchen an den EuGH zur Auslegung des Rahmenbeschlusses zur Berücksichtigung der in anderen Mitgliedstaaten der Europäischen Union ergangenen
+- [BGH, Beschluss vom 01.06.2022 - 1 StR 139/22](1-str-139-22.md) — Strafverurteilung wegen Sexualdelikten: Beweiswürdigung bei Schweigen und/oder pauschalem Bestreiten des Tatvorwurfs
+- [BGH, Urteil vom 01.06.2022 - 1 StR 421/21](1-str-421-21.md) — Strafverurteilung wegen Beihilfe zum Betrug u.a.: Tatertragseinziehung des "durch" die Tat Erlangten
+- [BGH, Beschluss vom 01.06.2022 - 1 StR 65/22](1-str-65-22.md) — Versuchte schwere Zwangsprostitution: Tatvollendung und unmittelbares Ansetzen
+- [BGH, Beschluss vom 19.05.2022 - 1 StR 405/21](1-str-405-21.md) — Einziehung von Wertersatz wegen Abgaben- und Steuerhinterziehung: Einziehungsanordnung gegen einen zum Zwecke des Immobilienerwerbs eingesetzten Strohmann
+- [BGH, Beschluss vom 19.05.2022 - 1 StR 83/22](1-str-83-22.md) — Strafzumessung bei Betäubungsmitteldelikt: Einordnung von Amphetamin als "harte Droge"
+- [BGH, Beschluss vom 19.05.2022 - 1 StR 98/22](1-str-98-22.md) — Strafzumessung: Vorliegen einer wesentlichen Aufklärungshilfe
+- [BGH, Beschluss vom 18.05.2022 - 1 StR 19/22](1-str-19-22.md) — Steuerhehlerei durch Veräußerung unversteuerter unverzollter Zigaretten: Unzulässigkeit der Einziehung von Taterträgen bei Zahlung des Kaufpreises an den Liefer
+- [BGH, Beschluss vom 05.05.2022 - 1 StR 475/21](1-str-475-21.md) — Steuerhinterziehung: Schuldner der Umsatzsteuer bei der Erbringung von Prostitutionsleistungen
+- [BGH, Beschluss vom 04.05.2022 - 1 ARs 13/21](1-ars-13-21.md) — Selbständiges Einziehungsverfahren: Antrag auf Einziehung des durch eine verjährte Erwerbstat erlangten Wertes von Taterträgen
+- [BGH, Beschluss vom 04.05.2022 - 1 StR 138/21](1-str-138-21.md) — Betrug durch Scheinbewerbung zum Zwecke der Geltendmachung von Entschädigungsansprüchen wegen Diskriminierung: Konkludente Täuschung durch irreführendes Verhalt
+- [BGH, Beschluss vom 04.05.2022 - 1 StR 3/21](1-str-3-21.md) — Zu den Voraussetzungen einer Strafbarkeit bei vorgespiegelten Bewerbungen auf diskriminierende Stellenangebote zur Erlangung von Entschädigungsansprüchen (sog. 
+- [BGH, Urteil vom 04.05.2022 - 1 StR 309/21](1-str-309-21.md) — Vorsätzliche Tötung: Verurteilung trotz unbekannten Ablaufs des eigentlichen Tatgeschehens; Nebenklagebefugnis des geschiedenen Ehegatten
+- [BGH, Beschluss vom 04.05.2022 - 1 StR 79/22](1-str-79-22.md) — Beweiswürdigung im Strafverfahren: Lügen des Angeklagten als Beweisanzeichen für seine Schuld
+- [BGH, Beschluss vom 03.05.2022 - 1 StR 10/22](1-str-10-22.md) — Strafbarkeit eines Rechtsanwalts: Untreue durch unterlassene Weiterleitung von Mandantengeldern; Steuerhinterziehung wegen Steuerpflicht für nicht ausgekehrte M
+- [BGH, Beschluss vom 03.05.2022 - 1 StR 75/22](1-str-75-22.md) — Unerlaubter Besitz von Betäubungsmitteln in nicht geringer Menge: Voraussetzungen des Besitzes bei Zurverfügungstellung der Wohnung
+- [BGH, Beschluss vom 20.04.2022 - 1 StR 33/22](1-str-33-22.md) — (Wiedereinsetzung in die Revisionsbegründungsfrist: Rückgabe der Sache zur Bestellung eines anderen Verteidigers bei offenkundigem Mangel der Verteidigung).
+- [BGH, Beschluss vom 06.04.2022 - 1 StR 466/21](1-str-466-21.md) — Strafverfahren wegen Steuerhinterziehungen im sog. Cum-Ex-Skandal: Erlöschen der Steuerschuld trotz Rechtsmittel gegen den Steuerbescheid und/oder Vorbehaltszah
+- [BGH, Beschluss vom 06.04.2022 - 1 StR 501/21](1-str-501-21.md) — Verdeckte Gewinnausschüttung: Abzug der für Schmiergeldzahlungen aufgewandten Geldmittel; Beihilfe zur Steuerhinterziehung durch das Ausstellen von Scheinrechnu
+- [BGH, Beschluss vom 06.04.2022 - 1 StR 89/22](1-str-89-22.md) — Beihilfe zum unerlaubten Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Prüfung eines minder schweren Falls
+- [BGH, Urteil vom 05.04.2022 - 1 StR 290/21](1-str-290-21.md) — Rücktritt vom Versuch: Rücktritt des Teilnehmers im Vorbereitungsstadium
+- [BGH, Beschluss vom 05.04.2022 - 1 StR 34/22](1-str-34-22.md) — Unterbringung in einem psychiatrischen Krankenhaus: Unklare Begründung der Unterbringungsentscheidung bezüglich der Einsichts- und Steuerungsfähigkeit
+- [BGH, Beschluss vom 05.04.2022 - 1 StR 72/22](1-str-72-22.md) — Handeltreiben mit Betäubungsmitteln in geringer und nicht geringer Menge: Eintritt der Verfolgungsverjährung und Zweifelsgrundsatz
+- [BGH, Beschluss vom 05.04.2022 - 1 StR 81/22](1-str-81-22.md) — Mord: Anforderungen an das Mordmerkmal der Heimtücke
+- [BGH, Beschluss vom 24.03.2022 - 1 StR 480/21](1-str-480-21.md) — Revision in Strafsachen: Anforderungen an die Verfahrensrüge wegen der Art der Durchführung des Selbstleseverfahrens
+- [BGH, Beschluss vom 23.03.2022 - 1 StR 511/21](1-str-511-21.md) — Strafverurteilung wegen Vorenthaltens und Veruntreuens von Arbeitsentgelt und Bankrott: Faktische Geschäftsführer- und Arbeitgebereigenschaft; gerichtliche Schä
+- [BGH, Urteil vom 22.03.2022 - 1 StR 425/21](1-str-425-21.md) — Strafzumessung: Berücksichtigung eines Widerrufs einer Strafaussetzung zur Bewährung in anderer Sache
+- [BGH, Beschluss vom 22.03.2022 - 1 StR 455/21](1-str-455-21.md) — Strafverurteilung wegen schweren sexuellen Missbrauchs eines Kindes mit anschließender Sicherungsverwahrung: Berücksichtigung der Unterbringungsanordnung bei de
+- [BGH, Beschluss vom 22.03.2022 - 1 StR 62/22](1-str-62-22.md) — Erörterungsfehler bei der Strafzumessung: Besondere Härte bei Herausreißen des Angeklagten aus den sozialen Bindungen durch die Vollstreckung eines kurzen Straf
+- [BGH, Beschluss vom 10.03.2022 - 1 StR 35/22](1-str-35-22.md) — Handeltreiben mit Betäubungsmitteln: Annahme eines minder schweren Falls im Rahmen der Strafzumessung
+- [BGH, Beschluss vom 10.03.2022 - 1 StR 515/21](1-str-515-21.md) — Beihilfe zur Steuerhinterziehung: Beginn der Verfolgungsverjährung
+- [BGH, Beschluss vom 09.03.2022 - 1 StR 21/22](1-str-21-22.md) — Körperverletzung mit Todesfolge: Prüfung eines minder schweren Falls
+- [BGH, Beschluss vom 09.03.2022 - 1 StR 3/22](1-str-3-22.md) — Besonders schwerer Fall des Betrugs: Wechselwirkung zwischen Geringfügigkeitsgrenze und Indizwirkung des Regelbeispiels
+- [BGH, Beschluss vom 09.03.2022 - 1 StR 409/21](1-str-409-21.md) — Adhäsionsverfahren: Inhaltliche Anforderungen an einen Adhäsionsantrag auf Schmerzensgeld und Feststellung der Eintrittspflicht für zukünftige Schäden
+- [BGH, Beschluss vom 09.03.2022 - 1 StR 469/21](1-str-469-21.md) — Räuberische Erpressung: Anforderungen an eine Drohung mit gegenwärtiger Gefahr für Leib oder Leben
+- [BGH, Urteil vom 08.03.2022 - 1 StR 360/21](1-str-360-21.md) — Strafverfahren u.a. wegen Umsatzsteuer- und Einkommensteuerhinterziehung: Voraussetzungen der Einziehung des Wertes von Taterträgen; Konkurrenzverhältnis von St
+- [BGH, Beschluss vom 08.03.2022 - 1 StR 483/21](1-str-483-21.md) — Einschleusen von Ausländern: Qualifikationsmerkmal der lebensgefährdenden Behandlung
+- [BGH, Beschluss vom 10.02.2022 - 1 StR 396/21](1-str-396-21.md) — Symptomatischer Zusammenhang zwischen Deliktsbegehung und Alkoholkonsum
+- [BGH, Beschluss vom 10.02.2022 - 1 StR 403/21](1-str-403-21.md) — Strafmilderung wegen Täter-Opfer-Ausgleich: Berücksichtigung des ernsthaften Bemühens des Täters um Schadenswiedergutmachung
+- [BGH, Urteil vom 10.02.2022 - 1 StR 437/21](1-str-437-21.md) — Strafaussetzung zur Bewährung: Kriminalprognose bei einem Angeklagten ohne Aufenthaltstitel; europarechtskonforme Auslegung der Strafnormen des unerlaubten Aufe
+- [BGH, Beschluss vom 10.02.2022 - 1 StR 484/21](1-str-484-21.md) — Strafverurteilung wegen Körperschafts- und Gewerbe- sowie Umsatzsteuerhinterziehung u.a.: Tatgerichtliche Schätzung der Umsätze und Erträge durch Schwarzverkäuf
+- [BGH, Beschluss vom 10.02.2022 - 1 StR 508/21](1-str-508-21.md) — Minder schwerer Fall des Totschlags: Voraussetzungen eines auf der Stelle zur Tat Hingerissen-Werdens und diesbezügliche Prüfungs- und Urteilsanforderungen
+- [BGH, Beschluss vom 09.02.2022 - 1 StR 369/21](1-str-369-21.md) — Strafzumessung und nachträgliche Gesamtstrafenbildung: Schwerer sexueller Missbrauch von Kindern
+- [BGH, Beschluss vom 09.02.2022 - 1 StR 384/21](1-str-384-21.md) — Untreue und Bankrott: Bemessung des Vermögensnachteils bei Verkauf von Immobilien; vom Tatbestandsmerkmal des Beiseiteschaffens erfasste Vermögensverschiebungen
+- [BGH, Beschluss vom 09.02.2022 - 1 StR 492/21](1-str-492-21.md) — Feststellung einer erheblich verminderten Steuerungsfähigkeit: Blutalkoholkonzentration zur Tatzeit als Beweisanzeichen; Anwendung psychodiagnostischer Kriterie
+- [BGH, Urteil vom 08.02.2022 - 1 StR 401/21](1-str-401-21.md) — Strafverurteilung u.a. wegen unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge: Vorsatz des Drogenkuriers hinsichtlich der transportierten Rausc
+- [BGH, Beschluss vom 08.02.2022 - 1 StR 474/21](1-str-474-21.md) — Einziehung von Taterträgen im Strafverfahren wegen Steuerhinterziehung
+- [BGH, Beschluss vom 27.01.2022 - 1 StR 453/21](1-str-453-21.md) — Bewertung der Anlasstat und Gefährlichkeitsprognose vor Anordnung einer Unterbringung in psychiatrischem Krankenhaus
+- [BGH, Beschluss vom 26.01.2022 - 1 StR 1/22](1-str-1-22.md) — Vernehmung eines Sachverständigen vor Unterbringung in Entziehungsanstalt
+- [BGH, Beschluss vom 26.01.2022 - 1 StR 460/21](1-str-460-21.md) — Bestechlichkeit im geschäftlichen Verkehr: Anwendbarkeit des Täter-Opfer-Ausgleichs
+- [BGH, Beschluss vom 26.01.2022 - 1 StR 518/20](1-str-518-20.md) — Umsteuerhinterziehung: Kenntnis des Steuerpflichtigen vom Steueranspruch; Anforderungen an eine Scheinrechnung
+- [BGH, Urteil vom 25.01.2022 - 1 StR 348/21](1-str-348-21.md) — Anordnung einer Unterbringung in Entziehungsanstalt neben Verurteilung zu Einheitsjugendstrafe
+- [BGH, Beschluss vom 25.01.2022 - 1 StR 424/21](1-str-424-21.md) — Verbreitung, Erwerb und Besitz kinderpornografischer Inhalte: Konkurrenzverhältnisse bei zeitgleichem Besitz von verbreiteten und öffentlich zugänglich gemachte
+- [BGH, Beschluss vom 25.01.2022 - 1 StR 482/21](1-str-482-21.md) — Strafzumessung: Berücksichtigungsfähigkeit anstehender Ausweisung bei einem faktischen Inländer
+- [BGH, Beschluss vom 13.01.2022 - 1 StR 292/21](1-str-292-21.md) — Unterschlagung: Wiederholte Zueignung nach Aufgabe einer zuvor angemaßten Verfügungsmacht
+- [BGH, Beschluss vom 13.01.2022 - 1 StR 464/21](1-str-464-21.md) — Urteil im Sicherungsverfahren: Notwendige Feststellungen hinsichtlich Einschränkungen der Schuldfähigkeit auf Grund psychischer Störungen; Voraussetzungen der U
+- [BGH, Beschluss vom 13.01.2022 - 1 StR 481/21](1-str-481-21.md) — Einziehung bei gewerbsmäßiger Steuerhehlerei im Zusammenhang mit dem Weiterverkauf unversteuerter Zigaretten: Faktische Mitverfügungsgewalt des Hintermannes übe
+- [BGH, Beschluss vom 12.01.2022 - 1 StR 436/21](1-str-436-21.md) — Strafverurteilung wegen Steuerhinterziehung u.a.: Abgrenzung zwischen Tateinheit und Tatmehrheit bei Steuerverkürzung durch Ausstellung von Scheinrechnungen
+- [BGH, Beschluss vom 12.01.2022 - 1 StR 462/21](1-str-462-21.md) — Strafzumessung im Jugendstrafverfahren: Minder schwerer Fall des Totschlags und Prüfungsmaßstab bei Handeln "ohne eigene Schuld" im Drogenmilieu
+- [BGH, Beschluss vom 11.01.2022 - 1 StR 447/21](1-str-447-21.md) — Strafzumessungserwägungen: Einordnung einer dissozialen Persönlichkeitsstörung als schwere andere seelische Störung
+- [BGH, Beschluss vom 11.01.2022 - 1 StR 471/21](1-str-471-21.md) — Vermögensabschöpfung im Altfall der Geldwäsche: Anordnung der Einziehung des Wertes von "Schleusergeld" gegenüber tatbeteiligten Nichteigentümern

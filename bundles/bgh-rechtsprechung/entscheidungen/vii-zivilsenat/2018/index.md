@@ -1,0 +1,58 @@
+# VII. Zivilsenat – 2018
+
+54 Entscheidung(en).
+
+- [BGH, Urteil vom 20.12.2018 - VII ZR 69/18](vii-zr-69-18.md) — Vermittelt der Versicherungsvertreter dynamische Lebensversicherungen, bei denen sich die Versicherungssumme nach dem Inhalt des Versicherungsvertrags in regelm
+- [BGH, Beschluss vom 19.12.2018 - VII ZB 45/18](vii-zb-45-18.md) — Lässt der Einzelrichter entgegen § 568 Satz 2 Nr. 2 ZPO selbst die Rechtsbeschwerde wegen grundsätzlicher Bedeutung der Rechtssache zu, ist diese Entscheidung w
+- [BGH, Beschluss vom 19.12.2018 - VII ZR 192/18, VII ZR 220/18](vii-zr-192-18-vii-zr-220-18.md) — Revisionsverfahren: Anfechtbarkeit der Entscheidung des Berufungsgerichts über die vorläufige Vollstreckbarkeit; Anfechtbarkeit einer im Schlussurteil enthalten
+- [BGH, Urteil vom 06.12.2018 - VII ZR 285/17](vii-zr-285-17.md) — 1. Lassen sich bei dem vorübergehenden Entzug der Gebrauchsmöglichkeit eines ausschließlich gewerblich genutzten Fahrzeugs die materiellen Auswirkungen des Ausf
+- [BGH, Urteil vom 06.12.2018 - VII ZR 71/15](vii-zr-71-15.md) — Ein Besteller, der den Mangel nicht beseitigen lässt, kann seinen Schaden nicht nach den fiktiven Mängelbeseitigungskosten bemessen (Bestätigung von BGH, Urteil
+- [BGH, Beschluss vom 21.11.2018 - VII ZR 1/18](vii-zr-1-18.md) — BGH, Beschluss VII ZR 1/18
+- [BGH, Beschluss vom 21.11.2018 - VII ZR 232/17](vii-zr-232-17.md) — Wirtschaftprüferhaftung aufgrund der Erstellung von in Anlageprospekten veröffentlichten Testaten zur Prüfung der Jahresabschlüsse
+- [BGH, Beschluss vom 21.11.2018 - VII ZR 276/17](vii-zr-276-17.md) — BGH, Beschluss VII ZR 276/17
+- [BGH, Beschluss vom 21.11.2018 - VII ZR 3/18](vii-zr-3-18.md) — Haftung des Wirtschaftsprüfers für Anlageprodukte seines Auftraggebers; Zulassung der Revision wegen grundsätzlicher Bedeutung der Rechtssache bei Vorliegen ein
+- [BGH, Urteil vom 08.11.2018 - VII ZR 100/16](vii-zr-100-16.md) — 1. Lässt ein Besteller Bauwerksmängel nicht beseitigen, scheidet im Verhältnis zum Architekten hinsichtlich der von diesem zu vertretenden Planungs- oder Überwa
+- [BGH, Beschluss vom 07.11.2018 - VII ZB 49/17](vii-zb-49-17.md) — Abgabe einer unzulässigen Rechtsbeschwerde an zuständiges Gericht
+- [BGH, Urteil vom 11.10.2018 - VII ZR 288/17](vii-zr-288-17.md) — 1. Die Inhaberschaft an einer Internet-Domain unter der Top-Level-Domain "de" gründet sich auf die Gesamtheit der schuldrechtlichen Ansprüche, die dem Inhaber d
+- [BGH, Urteil vom 11.10.2018 - VII ZR 298/17](vii-zr-298-17.md) — Die arbeitsrechtlichen Schutzvorschriften betreffend den Kündigungsschutz (§§ 1 ff. KSchG), die Entgeltfortzahlung im Krankheitsfall (§ 3 EntgeltFG) sowie die P
+- [BGH, Beschluss vom 10.10.2018 - VII ZB 12/15](vii-zb-12-15.md) — Der Gerichtsvollzieher ist nicht befugt, bei Eintragung einer Auskunftssperre im Melderegister die Anschrift des Schuldners an den Gläubiger weiterzugeben. Er d
+- [BGH, Beschluss vom 10.10.2018 - VII ZR 13/18](vii-zr-13-18.md) — Gehörsverstoß des Berufungsgerichts: Nichtberücksichtigung von erstinstanzlichem Vortrag des Berufungsbeklagten
+- [BGH, Beschluss vom 10.10.2018 - VII ZR 229/17](vii-zr-229-17.md) — (Umfang der Mängelbeseitigung)
+- [BGH, Beschluss vom 09.10.2018 - VII ZR 228/16](vii-zr-228-16.md) — Streitwertfestsetzung im Nichtzulassungsbeschwerdeverfahren: Gesonderte Wertfestsetzung für anwaltliche Tätigkeit bei Abweichung des Gegenstandswerts vom gerich
+- [BGH, Urteil vom 27.09.2018 - VII ZR 45/17](vii-zr-45-17.md) — 1. Sehen die Allgemeinen Geschäftsbedingungen des Auftraggebers in einem Vertrag über Bauleistungen die Geltung von § 13 Nr. 5 Abs. 1 Satz 2 VOB/B (2000) und zu
+- [BGH, Beschluss vom 26.09.2018 - VII ZB 54/16](vii-zb-54-16.md) — Die anwaltliche Vertretung in einem Verfahren, das wechselseitige Nichtzulassungsbeschwerden zum Gegenstand hat, stellt in der Regel dieselbe Angelegenheit im S
+- [BGH, Beschluss vom 26.09.2018 - VII ZB 56/16](vii-zb-56-16.md) — 1. Der Gläubiger ist nur vom Formularzwang gemäß §§ 1, 5 GVFV entbunden, soweit das Formular unzutreffend, fehlerhaft oder missverständlich ist (vgl. BGH, Besch
+- [BGH, Beschluss vom 12.09.2018 - VII ZB 56/15](vii-zb-56-15.md) — Werden umfangreiche Gutachten, welche die beklagte Partei mangels eigener Sachkunde nicht nachvollziehen kann, zur Grundlage einer Klage gemacht, können unabhän
+- [BGH, Urteil vom 30.08.2018 - VII ZR 243/17](vii-zr-243-17.md) — Senkrechtlift Der Ausschlusstatbestand des § 312g Abs. 2 Satz 1 Nr. 1 BGB a.F. (= § 312g Abs. 2 Nr. 1 BGB) gilt jedenfalls regelmäßig nicht für Werkverträge nac
+- [BGH, Beschluss vom 29.08.2018 - VII ZR 195/14](vii-zr-195-14.md) — Rechtliches Gehör: Nichtberücksichtigung des für eine Partei günstigen Ergebnisses des Sachverständigengutachtens
+- [BGH, Beschluss vom 31.07.2018 - VII ZB 18/18](vii-zb-18-18.md) — Einstweilige Anordnung im Rechtsbeschwerdeverfahren gegen einen Pfändungs- und Überweisungsbeschluss: Einwand der Unwirksamkeit des Zwangsvollstreckungsauftrags
+- [BGH, Urteil vom 19.07.2018 - VII ZR 19/18](vii-zr-19-18.md) — Zur rechtlichen Einordnung eines Vertrags über die Lieferung und Montage einer Küche.
+- [BGH, Urteil vom 19.07.2018 - VII ZR 251/17](vii-zr-251-17.md) — Der Schutz der Rechtsgüter der Benutzer erfordert es, dass von dem Betreiber einer Waschstraße nicht nur die Einhaltung der allgemein anerkannten Regeln der Tec
+- [BGH, Beschluss vom 19.07.2018 - VII ZR 269/14](vii-zr-269-14.md) — Einlegung der Nichtzulassungsbeschwerde gebührenpflichtig
+- [BGH, Beschluss vom 18.07.2018 - VII ZR 30/16](vii-zr-30-16.md) — Sachverständigenbeweis: Erfordernis der erneuten Anhörung des Sachverständigen in der Berufungsinstanz
+- [BGH, Beschluss vom 05.07.2018 - VII ZB 40/17](vii-zb-40-17.md) — 1. Der unpfändbare notwendige Unterhalt des Schuldners im Sinne des § 850d Abs. 1 Satz 2 ZPO entspricht grundsätzlich dem notwendigen Lebensunterhalt im Sinne d
+- [BGH, Beschluss vom 05.07.2018 - VII ZR 35/16](vii-zr-35-16.md) — Keine Bemessung eines Schadensersatzanspruchs nach fiktiven Mängelbeseitigungskosten
+- [BGH, Beschluss vom 04.07.2018 - VII ZB 4/17](vii-zb-4-17.md) — Hat der Gläubiger, der aus einem Zug-um-Zug-Titel vollstrecken will, im Hinblick auf §§ 765, 756 ZPO eine Feststellungsklage erhoben mit dem Ziel, festzustellen
+- [BGH, Beschluss vom 04.07.2018 - VII ZB 48/17](vii-zb-48-17.md) — BGH, Beschluss VII ZB 48/17
+- [BGH, Beschluss vom 04.07.2018 - VII ZR 21/16](vii-zr-21-16.md) — Anforderungen an die Klageschrift: Hinreichender Sachvortrag bei Bezugnahme auf Anlagenkonvolut
+- [BGH, Urteil vom 21.06.2018 - VII ZR 173/16](vii-zr-173-16.md) — Der Auftraggeber, der das Werk behält und den Mangel nicht beseitigen lässt, kann im Rahmen eines Schadensersatzanspruchs statt der Leistung (kleiner Schadenser
+- [BGH, Urteil vom 17.05.2018 - VII ZR 157/17](vii-zr-157-17.md) — 1. Sind ein Bauunternehmer und ein Bauträger bei einem zwischen ihnen vor Erlass des Urteils des Bundesfinanzhofs vom 22. August 2013 (V R 37/10, BFHE 243, 20) 
+- [BGH, Versäumnisurteil vom 17.05.2018 - VII ZR 70/17](vii-zr-70-17.md) — Regelung zur Werbewirksamkeit einer in Auftrag gegebenen Werbeanzeige kein notwendiger Vertragsinhalt
+- [BGH, Urteil vom 17.05.2018 - VII ZR 92/16](vii-zr-92-16.md) — Empfänger von Baugeld im Sinne von § 1 Abs. 3 Satz 1 Nr. 2 BauFordSiG ist jede Person, die für das Versprechen einer Leistung im Zusammenhang mit der Herstellun
+- [BGH, Urteil vom 26.04.2018 - VII ZR 139/17](vii-zr-139-17.md) — Der Behauptung einer Partei, eine bestimmte Form der Gerichtsstandsvereinbarung entspreche unter Kaufleuten in dem betreffenden Geschäftszweig des international
+- [BGH, Urteil vom 26.04.2018 - VII ZR 81/17](vii-zr-81-17.md) — Ein Anspruch auf Ersatz von nach Vertragspreisen einschließlich eines Prozentsatzes für Allgemeine Geschäftskosten kalkulierten Vorhaltekosten wegen verzögerter
+- [BGH, Urteil vom 26.04.2018 - VII ZR 82/17](vii-zr-82-17.md) — 1. Im Falle der einvernehmlichen Vertragsbeendigung richtet sich die vom Auftragnehmer zu beanspruchende Vergütung nach § 8 Nr. 1 Abs. 2 VOB/B (2002), sofern si
+- [BGH, Beschluss vom 25.04.2018 - VII ZR 299/14](vii-zr-299-14.md) — Gehörsverstoß: Beantwortung von fachspezifischen Fragen durch das Gericht ohne Einholung eines Sachverständigengutachtens
+- [BGH, Beschluss vom 11.04.2018 - VII ZR 177/17](vii-zr-177-17.md) — Rechtliches Gehör: Nichtzulassung neuen entscheidungserheblichen Vortrags bei Verletzung der richterlichen Hinweispflicht im erstinstanzlichen Verfahren
+- [BGH, Beschluss vom 11.04.2018 - VII ZR 188/16](vii-zr-188-16.md) — Berufungsverfahren: Gehörsverletzung bei Nichtberücksichtigung entscheidungserheblichen Parteivortrags
+- [BGH, Urteil vom 22.03.2018 - VII ZR 71/17](vii-zr-71-17.md) — 1. Ein Vertrag über die Platzierung einer elektronischen Werbeanzeige unter einer Domain ist rechtlich als Werkvertrag zu qualifizieren. 2. Vertragliche Regelun
+- [BGH, Urteil vom 22.03.2018 - VII ZR 72/17](vii-zr-72-17.md) — Rechtliche Einordnung eines Vertrags über die Platzierung einer Internet-Werbeanzeige
+- [BGH, Beschluss vom 21.03.2018 - VII ZR 170/17](vii-zr-170-17.md) — Prüfungsumfang des Berufungsgerichts: Konkrete Anhaltspunkte für Zweifel an der Richtigkeit entscheidungserheblicher Feststellungen hinsichtlich der Glaubwürdig
+- [BGH, Urteil vom 22.02.2018 - VII ZR 253/16](vii-zr-253-16.md) — Ist die Verpflichtung zum Ersatz künftig eintretender Schäden rechtskräftig festgestellt, so steht die Sperrwirkung der materiellen Rechtskraft (ne bis in idem)
+- [BGH, Urteil vom 22.02.2018 - VII ZR 46/17](vii-zr-46-17.md) — 1. Der Besteller, der das Werk behält und den Mangel nicht beseitigen lässt, kann im Rahmen eines Schadensersatzanspruchs statt der Leistung (kleiner Schadenser
+- [BGH, Urteil vom 25.01.2018 - VII ZR 219/14](vii-zr-219-14.md) — Eine Stoffpreisgleitklausel des öffentlichen Auftraggebers von Bauleistungen ist überraschend und wird nicht Vertragsbestandteil, wenn sie ohne ausreichenden Hi
+- [BGH, Urteil vom 25.01.2018 - VII ZR 74/15](vii-zr-74-15.md) — Zur Kausalität eines Werkmangels für einen Wasserschaden bei längerer Abwesenheit des Inhabers einer unbewohnten Wohnung.
+- [BGH, Beschluss vom 24.01.2018 - VII ZB 21/17](vii-zb-21-17.md) — Werden Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch für zurückliegende Zeiträume nachgezahlt, sind bei der Bemessung des
+- [BGH, Beschluss vom 24.01.2018 - VII ZB 27/17](vii-zb-27-17.md) — 1. Bei der Festsetzung eines pfändungsfreien Betrags gemäß § 850k Abs. 4 ZPO ist auch der sich aus § 42 Abs. 4 SGB II (in der seit 1. August 2016 geltenden Fass
+- [BGH, Beschluss vom 24.01.2018 - VII ZB 60/17](vii-zb-60-17.md) — 1. Die unterliegende Partei trifft keine prozessuale Kostenerstattungspflicht nach § 91 ZPO gegenüber der obsiegenden Partei bezüglich einer von dieser gemäß § 
+- [BGH, Beschluss vom 10.01.2018 - VII ZB 65/17](vii-zb-65-17.md) — 1. Die Rechtsbeschwerde zum Bundesgerichtshof ist im Verfahren betreffend die Anordnung eines Gerichtsvollziehers, die Durchführung eines Vollstreckungsauftrags

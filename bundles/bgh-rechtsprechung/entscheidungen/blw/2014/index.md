@@ -1,0 +1,11 @@
+# BLW – 2014
+
+7 Entscheidung(en).
+
+- [BGH, Beschluss vom 28.11.2014 - BLw 2/14](blw-2-14.md) — Der Erwerb eines landwirtschaftlichen Grundstücks durch den Gesellschafter zu dem Zweck, dieses als Sonderbetriebsvermögen (§ 13 Abs. 7 i.V.m. § 15 Abs. 1 Nr. 2
+- [BGH, Beschluss vom 28.11.2014 - BLw 3/13](blw-3-13.md) — Zur Verlängerung der Frist für die Entscheidung über eine Genehmigung nach dem Grundstücksverkehrsgesetz auf drei Monate reicht es aus, dass die Genehmigungs-be
+- [BGH, Beschluss vom 28.11.2014 - BLw 4/13](blw-4-13.md) — 1. Vorhandenes Eigentum an landwirtschaftlichen Grundstücken reicht nicht aus, um den Versagungsgrund der ungesunden Verteilung von Grund und Boden auf Seiten d
+- [BGH, Beschluss vom 28.04.2014 - BLw 2/13](blw-2-13.md) — Die Bundesrepublik Deutschland ist auch dann Vertragsteil im Sinne von § 4 Nr. 1 GrdstVG, wenn sie nicht Alleineigentümerin des verkauften Grundstücks ist, sond
+- [BGH, Beschluss vom 25.04.2014 - BLw 5/13](blw-5-13.md) — 1. Die Behörde darf die Genehmigung eines Vertrags über die Veräußerung eines land- oder forstwirtschaftlichen Grundstücks auch dann nicht nach § 9 Abs. 1 Nr. 1
+- [BGH, Beschluss vom 25.04.2014 - BLw 6/13](blw-6-13.md) — Grundstücksvermächtnisse zu Gunsten der weichenden Miterben sind - auch wenn sie zu einer Zerschlagung des zum Hof gehörenden Grundbesitzes führen - nicht nach 
+- [BGH, Beschluss vom 25.04.2014 - BLw 7/13](blw-7-13.md) — Grundstücksverkehrsgenehmigung: Veräußerung eines landwirtschaftlichen Grundstücks an ein nicht Landwirtschaft betreibendes Besitzunternehmen; Anforderungen an 

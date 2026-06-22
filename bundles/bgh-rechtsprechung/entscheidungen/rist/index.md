@@ -1,23 +1,11 @@
-# rist
+# RIST
 
-5 Entscheidung(en).
+Berufs- bzw. Dienstgerichtssachen (Notare, Patentanwälte, Steuerberater, Wirtschaftsprüfer, Richter). 5 Entscheidung(en).
 
-## 2026
+## Nach Jahr
 
-- [BGH, Beschluss vom 08.06.2026 - RiSt (B) 1/25](2026/rist-b-1-25.md)
-
-## 2023
-
-- [BGH, Urteil vom 04.05.2023 - RiSt 1/21](2023/rist-1-21.md)
-
-## 2022
-
-- [BGH, Beschluss vom 19.10.2022 - RiSt 1/21](2022/rist-1-21.md)
-
-## 2016
-
-- [BGH, Urteil vom 18.02.2016 - RiSt (R) 1/15](2016/rist-r-1-15.md)
-
-## 2013
-
-- [BGH, Urteil vom 26.11.2013 - RiSt (R) 1/13](2013/rist-r-1-13.md)
+- [2026](2026/index.md) (1)
+- [2023](2023/index.md) (1)
+- [2022](2022/index.md) (1)
+- [2016](2016/index.md) (1)
+- [2013](2013/index.md) (1)

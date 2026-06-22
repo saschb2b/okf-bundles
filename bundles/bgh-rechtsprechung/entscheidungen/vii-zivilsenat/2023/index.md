@@ -1,0 +1,161 @@
+# VII. Zivilsenat – 2023
+
+157 Entscheidung(en).
+
+- [BGH, Beschluss vom 13.12.2023 - VII ZR 47/22](vii-zr-47-22.md) — BGH, Beschluss VII ZR 47/22
+- [BGH, Urteil vom 07.12.2023 - VII ZR 231/22](vii-zr-231-22.md) — Verpflichtet sich der Veräußerer eines Grundstücksanteils in einem Bauträgervertrag zur Errichtung einer Eigentumswohnung, verjährt sein einheitlich für Grundst
+- [BGH, Beschluss vom 06.12.2023 - VII ZA 3/23, VII ZA 4/23, VII ZA 5/23](vii-za-3-23-vii-za-4-23-vii-za-5-23.md) — BGH, Beschluss VII ZA 3/23, VII ZA 4/23, VII ZA 5/23
+- [BGH, Beschluss vom 06.12.2023 - VII ZR 47/23](vii-zr-47-23.md) — BGH, Beschluss VII ZR 47/23
+- [BGH, Beschluss vom 06.12.2023 - VII ZR 546/21](vii-zr-546-21.md) — BGH, Beschluss VII ZR 546/21
+- [BGH, Beschluss vom 06.12.2023 - VII ZR 6/22](vii-zr-6-22.md) — BGH, Beschluss VII ZR 6/22
+- [BGH, Beschluss vom 06.12.2023 - VII ZR 61/23](vii-zr-61-23.md) — BGH, Beschluss VII ZR 61/23
+- [BGH, Beschluss vom 06.12.2023 - VII ZR 7/23](vii-zr-7-23.md) — BGH, Beschluss VII ZR 7/23
+- [BGH, Beschluss vom 22.11.2023 - VII ZR 177/22](vii-zr-177-22.md) — BGH, Beschluss VII ZR 177/22
+- [BGH, Beschluss vom 22.11.2023 - VII ZR 213/22](vii-zr-213-22.md) — BGH, Beschluss VII ZR 213/22
+- [BGH, Beschluss vom 22.11.2023 - VII ZR 249/22](vii-zr-249-22.md) — BGH, Beschluss VII ZR 249/22
+- [BGH, Beschluss vom 22.11.2023 - VII ZR 35/23](vii-zr-35-23.md) — BGH, Beschluss VII ZR 35/23
+- [BGH, Beschluss vom 22.11.2023 - VII ZR 6/23](vii-zr-6-23.md) — Zur Bemessung des Wertes des Beschwerdegegenstandes der Berufung einer zur Gewährung von Bucheinsicht verurteilten Partei.
+- [BGH, Urteil vom 09.11.2023 - VII ZR 190/22](vii-zr-190-22.md) — Eine Vereinbarung, durch die sich ein Architekt verpflichtet, eine von ihm selbst entworfene, der Interessenlage des Bestellers entsprechende Skontoklausel zur 
+- [BGH, Urteil vom 09.11.2023 - VII ZR 241/22](vii-zr-241-22.md) — 1. Eine von einem Bauträger in Allgemeinen Geschäftsbedingungen eines Erwerbsvertrags verwendete Klausel, die die Abnahme des Gemeinschaftseigentums durch eine 
+- [BGH, Urteil vom 09.11.2023 - VII ZR 92/20](vii-zr-92-20.md) — 1. In der werkvertraglichen Leistungskette kann der Hauptunternehmer gegenüber dem Nachunternehmer gemäß § 634 Nr. 4 BGB in Verbindung mit § 280 Abs. 1 und 3, §
+- [BGH, Beschluss vom 08.11.2023 - VII ZB 20/20](vii-zb-20-20.md) — Offenkundigkeit der Rechtsnachfolge bei Verschmelzung zweier Rechtsträger
+- [BGH, Beschluss vom 08.11.2023 - VII ZR 101/23](vii-zr-101-23.md) — BGH, Beschluss VII ZR 101/23
+- [BGH, Beschluss vom 08.11.2023 - VII ZR 16/22](vii-zr-16-22.md) — BGH, Beschluss VII ZR 16/22
+- [BGH, Beschluss vom 08.11.2023 - VII ZR 200/22](vii-zr-200-22.md) — BGH, Beschluss VII ZR 200/22
+- [BGH, Beschluss vom 08.11.2023 - VII ZR 228/22](vii-zr-228-22.md) — BGH, Beschluss VII ZR 228/22
+- [BGH, Beschluss vom 08.11.2023 - VII ZR 229/22](vii-zr-229-22.md) — BGH, Beschluss VII ZR 229/22
+- [BGH, Beschluss vom 08.11.2023 - VII ZR 3/23](vii-zr-3-23.md) — BGH, Beschluss VII ZR 3/23
+- [BGH, Beschluss vom 08.11.2023 - VII ZR 54/23](vii-zr-54-23.md) — BGH, Beschluss VII ZR 54/23
+- [BGH, Beschluss vom 08.11.2023 - VII ZR 629/21](vii-zr-629-21.md) — BGH, Beschluss VII ZR 629/21
+- [BGH, Urteil vom 26.10.2023 - VII ZR 25/23](vii-zr-25-23.md) — Bei der Beurteilung, ob es sich um einen Verbraucherbauvertrag im Sinne von § 650i Abs. 1 Fall 1 BGB handelt, kommt es nicht auf die Gesamtheit aller dem Untern
+- [BGH, Urteil vom 26.10.2023 - VII ZR 306/21](vii-zr-306-21.md) — BGH, Urteil VII ZR 306/21
+- [BGH, Urteil vom 26.10.2023 - VII ZR 619/21](vii-zr-619-21.md) — BGH, Urteil VII ZR 619/21
+- [BGH, Beschluss vom 25.10.2023 - VII ZR 17/23](vii-zr-17-23.md) — Beiziehung eines Sachverständigen für Prüfung von Ausführungsplanung
+- [BGH, Beschluss vom 25.10.2023 - VII ZR 187/22](vii-zr-187-22.md) — BGH, Beschluss VII ZR 187/22
+- [BGH, Beschluss vom 25.10.2023 - VII ZR 20/23](vii-zr-20-23.md) — BGH, Beschluss VII ZR 20/23
+- [BGH, Beschluss vom 25.10.2023 - VII ZR 247/22](vii-zr-247-22.md) — BGH, Beschluss VII ZR 247/22
+- [BGH, Beschluss vom 25.10.2023 - VII ZR 33/23](vii-zr-33-23.md) — BGH, Beschluss VII ZR 33/23
+- [BGH, Beschluss vom 25.10.2023 - VII ZR 44/23](vii-zr-44-23.md) — BGH, Beschluss VII ZR 44/23
+- [BGH, Beschluss vom 25.10.2023 - VII ZR 889/21](vii-zr-889-21.md) — BGH, Beschluss VII ZR 889/21
+- [BGH, Urteil vom 12.10.2023 - VII ZR 319/21](vii-zr-319-21.md) — BGH, Urteil VII ZR 319/21
+- [BGH, Urteil vom 12.10.2023 - VII ZR 412/21](vii-zr-412-21.md) — BGH, Urteil VII ZR 412/21
+- [BGH, Beschluss vom 11.10.2023 - VII ZA 3/23](vii-za-3-23.md) — BGH, Beschluss VII ZA 3/23
+- [BGH, Beschluss vom 11.10.2023 - VII ZA 4/23](vii-za-4-23.md) — BGH, Beschluss VII ZA 4/23
+- [BGH, Beschluss vom 11.10.2023 - VII ZA 5/23](vii-za-5-23.md) — BGH, Beschluss VII ZA 5/23
+- [BGH, Beschluss vom 11.10.2023 - VII ZR 170/22](vii-zr-170-22.md) — BGH, Beschluss VII ZR 170/22
+- [BGH, Beschluss vom 11.10.2023 - VII ZR 204/22](vii-zr-204-22.md) — BGH, Beschluss VII ZR 204/22
+- [BGH, Beschluss vom 11.10.2023 - VII ZR 746/21](vii-zr-746-21.md) — BGH, Beschluss VII ZR 746/21
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 113/22](vii-zr-113-22.md) — Nichtzulassungsbeschwerde: Gehörsverletzung bei Nichtbeachtung von Parteivortag zu fehlerhafter Anwendung einer Präklusionsvorschrift
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 12/23](vii-zr-12-23.md) — BGH, Beschluss VII ZR 12/23
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 13/23](vii-zr-13-23.md) — Provisionsanspruch des Handelsvertreters: Vertretenmüssen des Unternehmers bei Nichtausführung des Geschäfts
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 133/22](vii-zr-133-22.md) — BGH, Beschluss VII ZR 133/22
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 14/23](vii-zr-14-23.md) — BGH, Beschluss VII ZR 14/23
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 15/23](vii-zr-15-23.md) — Anspruch des Betreibers eines Reisebüros auf Provision für Vermittlung eines Reisevertrags; Haftung des Reiseveranstalters für Nichtöffnung eines Hotels
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 2/23](vii-zr-2-23.md) — BGH, Beschluss VII ZR 2/23
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 201/22](vii-zr-201-22.md) — BGH, Beschluss VII ZR 201/22
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 212/22](vii-zr-212-22.md) — Bauprozessrecht: Gehörsverletzung durch Übergehen von - in einer Anlage positionsgenau präzisiertem - Parteivorbringen
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 219/22](vii-zr-219-22.md) — BGH, Beschluss VII ZR 219/22
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 235/22](vii-zr-235-22.md) — BGH, Beschluss VII ZR 235/22
+- [BGH, Beschluss vom 27.09.2023 - VII ZR 39/23](vii-zr-39-23.md) — BGH, Beschluss VII ZR 39/23
+- [BGH, Beschluss vom 13.09.2023 - VII ZR 244/22](vii-zr-244-22.md) — BGH, Beschluss VII ZR 244/22
+- [BGH, Beschluss vom 30.08.2023 - VII ZA 2/21](vii-za-2-21.md) — BGH, Beschluss VII ZA 2/21
+- [BGH, Beschluss vom 30.08.2023 - VII ZB 45/21](vii-zb-45-21.md) — Wird die Vollstreckbarerklärung einer Entscheidung wegen eines Anerkennungshindernisses nach Art. 34 Nr. 2, Art. 45 EuGVVO a.F. im Vollstreckungsstaat versagt, 
+- [BGH, Beschluss vom 30.08.2023 - VII ZR 125/22](vii-zr-125-22.md) — BGH, Beschluss VII ZR 125/22
+- [BGH, Beschluss vom 30.08.2023 - VII ZR 218/22](vii-zr-218-22.md) — BGH, Beschluss VII ZR 218/22
+- [BGH, Beschluss vom 30.08.2023 - VII ZR 31/23](vii-zr-31-23.md) — BGH, Beschluss VII ZR 31/23
+- [BGH, Beschluss vom 30.08.2023 - VII ZR 44/22](vii-zr-44-22.md) — BGH, Beschluss VII ZR 44/22
+- [BGH, Beschluss vom 16.08.2023 - VII ZB 64/21](vii-zb-64-21.md) — 1. Bei der Corona-Überbrückungshilfe III (Billigkeitsleistung des Bundes in Form einer Corona-Überbrückungshilfe für kleine und mittelständische Unternehmen, So
+- [BGH, Beschluss vom 16.08.2023 - VII ZB 69/21](vii-zb-69-21.md) — BGH, Beschluss VII ZB 69/21
+- [BGH, Beschluss vom 16.08.2023 - VII ZR 160/22](vii-zr-160-22.md) — BGH, Beschluss VII ZR 160/22
+- [BGH, Beschluss vom 16.08.2023 - VII ZR 80/22](vii-zr-80-22.md) — BGH, Beschluss VII ZR 80/22
+- [BGH, Urteil vom 03.08.2023 - VII ZR 102/22](vii-zr-102-22.md) — Erweist sich eine Abrechnung nach den Mindestsätzen der HOAI ausnahmsweise als treuwidrig, weil das Vertrauen des Auftraggebers auf das vereinbarte niedrigere H
+- [BGH, Beschluss vom 02.08.2023 - VII ZB 28/20](vii-zb-28-20.md) — 1. Der Verstoß des Notars gegen die lediglich an ihn gerichtete Verbotsnorm des § 57 Abs. 2 Nr. 1 BeurkG gebietet es nicht, die regelmäßig im Grundgeschäft enth
+- [BGH, Beschluss vom 02.08.2023 - VII ZR 166/22](vii-zr-166-22.md) — BGH, Beschluss VII ZR 166/22
+- [BGH, Beschluss vom 02.08.2023 - VII ZR 198/22](vii-zr-198-22.md) — BGH, Beschluss VII ZR 198/22
+- [BGH, Beschluss vom 02.08.2023 - VII ZR 208/22](vii-zr-208-22.md) — BGH, Beschluss VII ZR 208/22
+- [BGH, Beschluss vom 02.08.2023 - VII ZR 21/23](vii-zr-21-23.md) — Streitwertbemessung: Klage auf Rechnungslegung
+- [BGH, Beschluss vom 02.08.2023 - VII ZR 315/21](vii-zr-315-21.md) — BGH, Beschluss VII ZR 315/21
+- [BGH, Beschluss vom 02.08.2023 - VII ZR 61/22](vii-zr-61-22.md) — BGH, Beschluss VII ZR 61/22
+- [BGH, Beschluss vom 02.08.2023 - VII ZR 836/21](vii-zr-836-21.md) — BGH, Beschluss VII ZR 836/21
+- [BGH, Beschluss vom 02.08.2023 - VII ZR 848/21](vii-zr-848-21.md) — BGH, Beschluss VII ZR 848/21
+- [BGH, Beschluss vom 19.07.2023 - VII ZR 216/22](vii-zr-216-22.md) — BGH, Beschluss VII ZR 216/22
+- [BGH, Beschluss vom 19.07.2023 - VII ZR 884/21](vii-zr-884-21.md) — BGH, Beschluss VII ZR 884/21
+- [BGH, Urteil vom 06.07.2023 - VII ZR 151/22](vii-zr-151-22.md) — Ein Vertragsschluss bei gleichzeitiger Anwesenheit der Parteien außerhalb von Geschäftsräumen im Sinne des § 312b Abs. 1 Satz 1 Nr. 1 BGB liegt nicht vor, wenn 
+- [BGH, Beschluss vom 05.07.2023 - VII ZB 30/22](vii-zb-30-22.md) — BGH, Beschluss VII ZB 30/22
+- [BGH, Beschluss vom 05.07.2023 - VII ZB 35/21](vii-zb-35-21.md) — § 753a Satz 1 ZPO ist dahin auszulegen, dass Bevollmächtigte im Sinne des § 79 Abs. 2 Satz 2 Nr. 4 ZPO (in das Rechtsdienstleistungsregister eingetragene Inkass
+- [BGH, Beschluss vom 05.07.2023 - VII ZR 36/23](vii-zr-36-23.md) — BGH, Beschluss VII ZR 36/23
+- [BGH, Beschluss vom 05.07.2023 - VII ZR 823/21](vii-zr-823-21.md) — BGH, Beschluss VII ZR 823/21
+- [BGH, Beschluss vom 05.07.2023 - VII ZR 853/21](vii-zr-853-21.md) — BGH, Beschluss VII ZR 853/21
+- [BGH, Beschluss vom 27.06.2023 - VII ZB 18/18](vii-zb-18-18.md) — BGH, Beschluss VII ZB 18/18
+- [BGH, Beschluss vom 21.06.2023 - VII ZR 128/22](vii-zr-128-22.md) — BGH, Beschluss VII ZR 128/22
+- [BGH, Beschluss vom 21.06.2023 - VII ZR 158/22](vii-zr-158-22.md) — BGH, Beschluss VII ZR 158/22
+- [BGH, Beschluss vom 21.06.2023 - VII ZR 206/22](vii-zr-206-22.md) — BGH, Beschluss VII ZR 206/22
+- [BGH, Beschluss vom 21.06.2023 - VII ZR 439/21](vii-zr-439-21.md) — BGH, Beschluss VII ZR 439/21
+- [BGH, Beschluss vom 21.06.2023 - VII ZR 566/21](vii-zr-566-21.md) — BGH, Beschluss VII ZR 566/21
+- [BGH, Beschluss vom 21.06.2023 - VII ZR 67/22](vii-zr-67-22.md) — BGH, Beschluss VII ZR 67/22
+- [BGH, Urteil vom 07.06.2023 - VII ZR 594/21](vii-zr-594-21.md) — 1. Die Zustellung des Mahnbescheids im Mahnverfahren hemmt die Verjährung nur, wenn der Schuldner aufgrund der Bezeichnung des Anspruchs im Mahnbescheid erkenne
+- [BGH, Beschluss vom 06.06.2023 - VII ZR 39/22](vii-zr-39-22.md) — BGH, Beschluss VII ZR 39/22
+- [BGH, Beschluss vom 06.06.2023 - VII ZR 71/22](vii-zr-71-22.md) — BGH, Beschluss VII ZR 71/22
+- [BGH, Beschluss vom 24.05.2023 - VII ZB 73/21](vii-zb-73-21.md) — Zwangsvollstreckungsverfahren: Funktionale Zuständigkeit des Einzelrichters im Beschwerdeverfahren
+- [BGH, Beschluss vom 24.05.2023 - VII ZR 139/22](vii-zr-139-22.md) — BGH, Beschluss VII ZR 139/22
+- [BGH, Beschluss vom 24.05.2023 - VII ZR 163/20](vii-zr-163-20.md) — BGH, Beschluss VII ZR 163/20
+- [BGH, Beschluss vom 24.05.2023 - VII ZR 176/22](vii-zr-176-22.md) — BGH, Beschluss VII ZR 176/22
+- [BGH, Beschluss vom 24.05.2023 - VII ZR 196/22](vii-zr-196-22.md) — BGH, Beschluss VII ZR 196/22
+- [BGH, Beschluss vom 24.05.2023 - VII ZR 35/22](vii-zr-35-22.md) — BGH, Beschluss VII ZR 35/22
+- [BGH, Beschluss vom 10.05.2023 - VII ZB 23/22](vii-zb-23-22.md) — Die Möglichkeit des vereinfachten Vollstreckungsantrags bei Vollstreckungsbescheiden gemäß § 829a ZPO ist für eine Gläubigerin, deren Parteibezeichnung sich nac
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 120/22](vii-zr-120-22.md) — BGH, Beschluss VII ZR 120/22
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 127/22](vii-zr-127-22.md) — BGH, Beschluss VII ZR 127/22
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 140/22](vii-zr-140-22.md) — BGH, Beschluss VII ZR 140/22
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 141/22](vii-zr-141-22.md) — BGH, Beschluss VII ZR 141/22
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 180/22](vii-zr-180-22.md) — BGH, Beschluss VII ZR 180/22
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 289/21](vii-zr-289-21.md) — BGH, Beschluss VII ZR 289/21
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 414/21](vii-zr-414-21.md) — BGH, Beschluss VII ZR 414/21
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 443/21](vii-zr-443-21.md) — BGH, Beschluss VII ZR 443/21
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 465/21](vii-zr-465-21.md) — BGH, Beschluss VII ZR 465/21
+- [BGH, Urteil vom 10.05.2023 - VII ZR 534/21](vii-zr-534-21.md) — BGH, Urteil VII ZR 534/21
+- [BGH, Beschluss vom 10.05.2023 - VII ZR 833/21](vii-zr-833-21.md) — BGH, Beschluss VII ZR 833/21
+- [BGH, Beschluss vom 26.04.2023 - VII ZR 226/21](vii-zr-226-21.md) — BGH, Beschluss VII ZR 226/21
+- [BGH, Beschluss vom 26.04.2023 - VII ZR 279/21](vii-zr-279-21.md) — BGH, Beschluss VII ZR 279/21
+- [BGH, Beschluss vom 26.04.2023 - VII ZR 556/21](vii-zr-556-21.md) — BGH, Beschluss VII ZR 556/21
+- [BGH, Beschluss vom 26.04.2023 - VII ZR 770/21](vii-zr-770-21.md) — BGH, Beschluss VII ZR 770/21
+- [BGH, Beschluss vom 26.04.2023 - VII ZR 824/21](vii-zr-824-21.md) — BGH, Beschluss VII ZR 824/21
+- [BGH, Beschluss vom 26.04.2023 - VII ZR 883/21](vii-zr-883-21.md) — BGH, Beschluss VII ZR 883/21
+- [BGH, Beschluss vom 12.04.2023 - VII ZB 33/22](vii-zb-33-22.md) — BGH, Beschluss VII ZB 33/22
+- [BGH, Beschluss vom 12.04.2023 - VII ZR 888/21](vii-zr-888-21.md) — BGH, Beschluss VII ZR 888/21
+- [BGH, Urteil vom 30.03.2023 - VII ZR 10/22](vii-zr-10-22.md) — 1. § 614 ZPO ist dahin auszulegen, dass die Revision gegen ein Musterfeststellungsurteil eines Oberlandesgerichts kraft Gesetzes zugelassen ist. Eine Entscheidu
+- [BGH, Beschluss vom 29.03.2023 - VII ZR 399/21](vii-zr-399-21.md) — BGH, Beschluss VII ZR 399/21
+- [BGH, Beschluss vom 29.03.2023 - VII ZR 59/20](vii-zr-59-20.md) — VOB-Vertrag: Anspruch auf Mehrvergütung; Gehörsverletzung bei überspannten Anforderungen an die Anspruchsbegründung
+- [BGH, Beschluss vom 29.03.2023 - VII ZR 7/22](vii-zr-7-22.md) — Gewährleistung bei Werkvertrag: Gehörsverstoß bei unterlassener Beweiserhebung über alternative Mangelursache
+- [BGH, Beschluss vom 29.03.2023 - VII ZR 757/21](vii-zr-757-21.md) — BGH, Beschluss VII ZR 757/21
+- [BGH, Beschluss vom 29.03.2023 - VII ZR 822/21](vii-zr-822-21.md) — BGH, Beschluss VII ZR 822/21
+- [BGH, Beschluss vom 29.03.2023 - VII ZR 880/21](vii-zr-880-21.md) — BGH, Beschluss VII ZR 880/21
+- [BGH, Beschluss vom 29.03.2023 - VII ZR 91/21](vii-zr-91-21.md) — BGH, Beschluss VII ZR 91/21
+- [BGH, Urteil vom 16.03.2023 - VII ZR 94/22](vii-zr-94-22.md) — 1. Um einen Vertrag mit einem Verbraucher, durch den der Unternehmer zum Bau eines neuen Gebäudes verpflichtet wird (Verbraucherbauvertrag im Sinne von § 650i A
+- [BGH, Beschluss vom 15.03.2023 - VII ZB 68/21](vii-zb-68-21.md) — 1. Der Schuldner, der einem dem pfändenden Gläubiger gleichstehenden minderjährigen Kind keinen Barunterhalt, sondern Naturalunterhalt leistet, kann wie ein Bar
+- [BGH, Beschluss vom 15.03.2023 - VII ZR 150/22](vii-zr-150-22.md) — VOB-Vertrag: Darlegungslast des Auftragnehmers zum anderweitigen Erwerb nach ordentlicher Kündigung durch den Auftraggeber
+- [BGH, Beschluss vom 15.03.2023 - VII ZR 449/21](vii-zr-449-21.md) — BGH, Beschluss VII ZR 449/21
+- [BGH, Beschluss vom 15.03.2023 - VII ZR 851/21](vii-zr-851-21.md) — BGH, Beschluss VII ZR 851/21
+- [BGH, Beschluss vom 01.03.2023 - VII ZR 12/22](vii-zr-12-22.md) — BGH, Beschluss VII ZR 12/22
+- [BGH, Beschluss vom 01.03.2023 - VII ZR 175/21](vii-zr-175-21.md) — BGH, Beschluss VII ZR 175/21
+- [BGH, Beschluss vom 01.03.2023 - VII ZR 661/21](vii-zr-661-21.md) — BGH, Beschluss VII ZR 661/21
+- [BGH, Beschluss vom 15.02.2023 - VII ZR 13/22](vii-zr-13-22.md) — Prozessführungsbefugnis einer WEG für werkvertragliche Gewährleistungsansprüche
+- [BGH, Beschluss vom 15.02.2023 - VII ZR 132/22](vii-zr-132-22.md) — BGH, Beschluss VII ZR 132/22
+- [BGH, Beschluss vom 15.02.2023 - VII ZR 138/22](vii-zr-138-22.md) — BGH, Beschluss VII ZR 138/22
+- [BGH, Beschluss vom 15.02.2023 - VII ZR 174/21](vii-zr-174-21.md) — BGH, Beschluss VII ZR 174/21
+- [BGH, Beschluss vom 15.02.2023 - VII ZR 413/21](vii-zr-413-21.md) — BGH, Beschluss VII ZR 413/21
+- [BGH, Beschluss vom 15.02.2023 - VII ZR 549/21](vii-zr-549-21.md) — BGH, Beschluss VII ZR 549/21
+- [BGH, Beschluss vom 01.02.2023 - VII ZR 109/22](vii-zr-109-22.md) — BGH, Beschluss VII ZR 109/22
+- [BGH, Beschluss vom 01.02.2023 - VII ZR 153/22](vii-zr-153-22.md) — BGH, Beschluss VII ZR 153/22
+- [BGH, Beschluss vom 01.02.2023 - VII ZR 284/21](vii-zr-284-21.md) — BGH, Beschluss VII ZR 284/21
+- [BGH, Beschluss vom 01.02.2023 - VII ZR 882/21](vii-zr-882-21.md) — Werkvertragsrecht: Anspruch auf Gewährung rechtlichen Gehörs bei Darlegung und Nachweis einer Auftragserteilung
+- [BGH, Beschluss vom 01.02.2023 - VII ZR 887/21](vii-zr-887-21.md) — Prozessführungsbefugnis einer Wohnungseigentümergemeinschaft
+- [BGH, Urteil vom 19.01.2023 - VII ZR 34/20](vii-zr-34-20.md) — Ist die VOB/B nicht als Ganzes vereinbart worden, hält § 4 Nr. 7 Satz 3 VOB/B (2002) ebenso wie die hierauf rückbezogene Bestimmung in § 8 Nr. 3 Abs. 1 Satz 1 V
+- [BGH, Urteil vom 19.01.2023 - VII ZR 787/21](vii-zr-787-21.md) — 1. Eine Beschränkung der Kündigungsfreiheit des Handelsvertreters im Sinne des § 89a Abs. 1 Satz 2 HGB kann nicht nur unmittelbar erfolgen, sondern auch bei mit
+- [BGH, Beschluss vom 18.01.2023 - VII ZB 35/20](vii-zb-35-20.md) — § 850d Abs. 1 Satz 2 ZPO ist dahin auszulegen, dass bei der Bestimmung des pfandfreien Betrags die laufenden gesetzlichen Unterhaltspflichten des Schuldners geg
+- [BGH, Beschluss vom 18.01.2023 - VII ZR 106/22](vii-zr-106-22.md) — BGH, Beschluss VII ZR 106/22
+- [BGH, Beschluss vom 18.01.2023 - VII ZR 119/20](vii-zr-119-20.md) — BGH, Beschluss VII ZR 119/20
+- [BGH, Beschluss vom 18.01.2023 - VII ZR 199/21](vii-zr-199-21.md) — BGH, Beschluss VII ZR 199/21
+- [BGH, Beschluss vom 18.01.2023 - VII ZR 23/22](vii-zr-23-22.md) — BGH, Beschluss VII ZR 23/22
+- [BGH, Beschluss vom 18.01.2023 - VII ZR 30/22](vii-zr-30-22.md) — BGH, Beschluss VII ZR 30/22
+- [BGH, Beschluss vom 18.01.2023 - VII ZR 881/21](vii-zr-881-21.md) — Zulassungsrevision: Stillschweigende Beschränkung der Revisionszulassung durch das Berufungsgericht
+- [BGH, Beschluss vom 18.01.2023 - VII ZR 96/22](vii-zr-96-22.md) — BGH, Beschluss VII ZR 96/22

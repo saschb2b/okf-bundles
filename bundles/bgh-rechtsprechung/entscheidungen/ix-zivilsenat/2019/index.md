@@ -1,0 +1,89 @@
+# IX. Zivilsenat – 2019
+
+85 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2019 - IX ZB 41/19](ix-zb-41-19.md) — Ein Beklagter gibt regelmäßig nicht schon dann Veranlassung zur Erhebung einer Widerspruchsklage, wenn er als Gläubiger im Verteilungstermin nicht erscheint und
+- [BGH, Beschluss vom 19.12.2019 - IX ZB 72/18](ix-zb-72-18.md) — Der Vergütungsantrag des vorläufigen Insolvenzverwalters hat im Fall einer Betriebsfortführung eine gesonderte Aufstellung der damit verbundenen Einnahmen und A
+- [BGH, Beschluss vom 19.12.2019 - IX ZB 83/18](ix-zb-83-18.md) — Betreuungsleistungen eines nicht barunterhaltspflichtigen Elternteils und Kindergeld bilden keine eigenen Einkünfte eines unterhaltsberechtigten Kindes.
+- [BGH, Urteil vom 19.12.2019 - IX ZR 53/18](ix-zr-53-18.md) — Eine Verbindlichkeit des Schuldners aus einer vorsätzlich begangenen unerlaubten Handlung wird von der Restschuldbefreiung erfasst, wenn der Gläubiger die Forde
+- [BGH, Urteil vom 12.12.2019 - IX ZR 26/19](ix-zr-26-19.md) — Ersatzabsonderungsrecht im Insolvenzverfahren: Abtretung eines Rechts auf Gegenleistung an den Absonderungsberechtigten nach unberechtigter Einziehung einer For
+- [BGH, Urteil vom 12.12.2019 - IX ZR 27/19](ix-zr-27-19.md) — Die im Insolvenzverfahren über das Vermögen des Vorbehaltskäufers nachträglich erteilte Genehmigung seines unberechtigten Forderungseinzugs ist unwirksam.
+- [BGH, Urteil vom 12.12.2019 - IX ZR 328/18](ix-zr-328-18.md) — 1. Ist für die Rechtshandlung das Recht eines anderen Staats maßgebend, so wirkt es zum Nachteil des Anfechtungsgegners, wenn die ausländische Rechtslage im kon
+- [BGH, Teilurteil vom 12.12.2019 - IX ZR 77/19](ix-zr-77-19.md) — Zu den Anforderungen des Transparenzgebots an die Verständlichkeit einer mit einem Verbraucher als Darlehensgeber formularmäßig vereinbarten Rangrücktrittsklaus
+- [BGH, Beschluss vom 29.11.2019 - IX ZB 56/19](ix-zb-56-19.md) — Insolvenzverfahren: Zulässigkeit der sofortigen Beschwerde gegen die Ablehnung der Akteneinsicht gegenüber Verfahrensbeteiligten; Zulassung der Rechtsbeschwerde
+- [BGH, Urteil vom 28.11.2019 - IX ZR 239/18](ix-zr-239-18.md) — 1. Die Ansprüche des Abwicklers einer Rechtsanwaltskanzlei auf Vergütung für seine Tätigkeit stellen keine Masseverbindlichkeiten dar. 2. Bürgerlich-rechtliche 
+- [BGH, Beschluss vom 28.11.2019 - IX ZR 8/19](ix-zr-8-19.md) — Zivilprozess: Gehörsverletzung bei Urteil entgegen eines den Parteien zuvor erteilten gerichtlichen Hinweises
+- [BGH, Urteil vom 21.11.2019 - IX ZR 223/18](ix-zr-223-18.md) — Hat die Gesellschaft ein Darlehen ihrem Gesellschafter teilweise erstattet, wird die damit verbundene Gläubigerbenachteiligung durch eine nachfolgende Zahlung d
+- [BGH, Urteil vom 21.11.2019 - IX ZR 238/18](ix-zr-238-18.md) — Rückgewährklage nach Insolvenzanfechtung von Zahlungen eines insolventen Bauunternehmens: Gläubigerbenachteiligung und Vorteilsausgleichung nach Beitragszahlung
+- [BGH, Beschluss vom 14.11.2019 - IX ZB 18/19](ix-zb-18-19.md) — Zu den Anforderungen an die Büroorganisation eines Rechtsanwalts bezüglich der Versendung fristgebundener Schriftsätze per Telefax.
+- [BGH, Urteil vom 14.11.2019 - IX ZR 50/17](ix-zr-50-17.md) — 1. Ein Kostenbeitrag setzt voraus, dass der Insolvenzverwalter eine Verwertung kraft seines Verwertungsrechts aus § 166 InsO vornimmt oder hätte vornehmen könne
+- [BGH, Urteil vom 31.10.2019 - IX ZR 170/18](ix-zr-170-18.md) — Der unter Vorlage von Zahlungsaufstellungen gehaltene Vortrag des Insolvenzverwalters, der Schuldner habe Sozialversicherungsbeiträge nicht nur an den beklagten
+- [BGH, Beschluss vom 31.10.2019 - IX ZR 37/19](ix-zr-37-19.md) — Nachweis der Prozessvollmacht durch Vorlage der Originalvollmacht
+- [BGH, Beschluss vom 31.10.2019 - IX ZR 65/19](ix-zr-65-19.md) — Herausgabe der von einer Kassenzahnärztlichen Vereinigung an den Insolvenzverwalter ausgezahlten Honorarforderungen
+- [BGH, Beschluss vom 17.10.2019 - IX ZB 5/18](ix-zb-5-18.md) — Für die Vergütung des vorläufigen Insolvenzverwalters gilt § 3 InsVV entsprechend (§ 10 InsVV), auch wenn der Festsetzung die durch das Gesetz vom 15. Juli 2013
+- [BGH, Urteil vom 17.10.2019 - IX ZR 215/16](ix-zr-215-16.md) — Die gesamtschuldnerische Haftung einer vom Schuldner abgespaltenen Gesellschaft nach § 133 UmwG steht der gläubigerbenachteiligenden Wirkung von Zahlungen aus d
+- [BGH, Beschluss vom 26.09.2019 - IX ZB 21/19](ix-zb-21-19.md) — Kaufpreisraten stellen sonstige Einkünfte im Sinne der Pfändungsschutzvorschriften dar.
+- [BGH, Beschluss vom 26.09.2019 - IX ZR 25/19](ix-zr-25-19.md) — Gläubigerbenachteiligungsvorsatz bei gleichwertiger Gegenleistung
+- [BGH, Beschluss vom 19.09.2019 - IX ZB 16/18](ix-zb-16-18.md) — Antrag auf Vollstreckbarerklärung eines rumänischen Urteils: Nachweis der Berechtigung eines antragstellenden Dritten zur Vollstreckung im Erststaat
+- [BGH, Beschluss vom 19.09.2019 - IX ZB 2/18](ix-zb-2-18.md) — Die Entstehung einer Steuerschuld, welche der Schuldner begleichen möchte, ist in der Regel kein ausreichender Grund für die Erhöhung des unpfändbaren Betrages.
+- [BGH, Beschluss vom 19.09.2019 - IX ZB 23/19](ix-zb-23-19.md) — 1. Der Schuldner kann den Antrag auf vorzeitige Restschuldbefreiung wirksam außerhalb der Dreijahresfrist stellen. 2. Zur Glaubhaftmachung der Verkürzungstatbes
+- [BGH, Urteil vom 19.09.2019 - IX ZR 148/18](ix-zr-148-18.md) — 1. Handelt der Schuldner bei einem bargeschäftsähnlichen Leistungsaustausch mit dem Vorsatz, seine Gläubiger zu benachteiligen, weil er fortlaufend unrentabel a
+- [BGH, Urteil vom 19.09.2019 - IX ZR 22/17](ix-zr-22-17.md) — 1. Ein Rechtsanwalt, der mit der zwangsweisen Durchsetzung einer Forderung beauftragt worden ist und einen Titel gegen einen Schuldner des Mandanten erwirkt hat
+- [BGH, Beschluss vom 12.09.2019 - IX ZB 1/17](ix-zb-1-17.md) — Überträgt der Insolvenzverwalter eine ihm obliegende Aufgabe, die ein Verwalter ohne volljuristische Ausbildung nicht lösen kann, einem Rechtsanwalt und entnimm
+- [BGH, Beschluss vom 12.09.2019 - IX ZB 13/19](ix-zb-13-19.md) — 1. Der Rechtsanwalt darf das Empfangsbekenntnis für eine Urteilszustellung erst unterzeichnen, wenn in den Handakten die Rechtsmittelfrist festgehalten und verm
+- [BGH, Beschluss vom 12.09.2019 - IX ZB 2/19](ix-zb-2-19.md) — 1. Um die gerichtliche Zuständigkeit der Kammer zu begründen, genügt es, wenn der Einzelrichter einen aktenkundigen Beschluss zur Übertragung des Verfahrens auf
+- [BGH, Beschluss vom 12.09.2019 - IX ZB 28/18](ix-zb-28-18.md) — Die Regelung in § 11 Abs. 1 Satz 2 InsVV in der Fassung des Gesetzes vom 15. Juli 2013 (BGBl. I S. 2379) ist von der gesetzlichen Ermächtigung in § 63 Abs. 3, §
+- [BGH, Beschluss vom 12.09.2019 - IX ZB 56/18](ix-zb-56-18.md) — Kaufpreisrentenansprüche, die der Schuldner durch vertragliche Vereinbarung als Abfindung für die Veräußerung von Gesellschaftsanteilen vor Insolvenzeröffnung e
+- [BGH, Beschluss vom 12.09.2019 - IX ZB 65/18](ix-zb-65-18.md) — 1. Wird der vorläufige Insolvenzverwalter im Rahmen des ihm zustehenden Aufgabenkreises in erheblichem Umfang zur Vorbereitung einer Sanierung tätig, ist der da
+- [BGH, Beschluss vom 12.09.2019 - IX ZB 75/18](ix-zb-75-18.md) — Vergütung des Treuhänders im Verbraucherinsolvenzverfahren: Verwirkung des Vergütungsanspruchs bei Pflichtverletzung in einem anderen Verfahren
+- [BGH, Beschluss vom 12.09.2019 - IX ZB 76/18](ix-zb-76-18.md) — Die Versagung der Vergütung des Insolvenzverwalters wegen Pflichtverletzungen in anderen Insolvenzverfahren kommt im Hinblick auf den Verhältnismäßigkeitsgrunds
+- [BGH, Urteil vom 12.09.2019 - IX ZR 16/18](ix-zr-16-18.md) — Baumarkt 1. Wenn in einem Konzern in gesunden wirtschaftlichen Verhältnissen ein externes Cash Management-System in einer Weise eingerichtet und über zehn Jahre
+- [BGH, Urteil vom 12.09.2019 - IX ZR 190/18](ix-zr-190-18.md) — War ein Partner mit der Bearbeitung eines Auftrags befasst, endet seine Mithaftung nicht mit der Abgabe des Mandats innerhalb der Partnerschaftsgesellschaft.
+- [BGH, Urteil vom 12.09.2019 - IX ZR 262/18](ix-zr-262-18.md) — 1. Zur Zustellung "demnächst" bei einer Verzögerung von über vier Monaten. 2. Ein Dokument ist dem Zustellungsadressaten tatsächlich zugegangen, wenn er es in d
+- [BGH, Urteil vom 12.09.2019 - IX ZR 264/18](ix-zr-264-18.md) — 1. In Niedersachsen ist die kommunale Gebietskörperschaft, welche nach den niedersächsischen Zuständigkeitsregelungen ermächtigt ist, die auf das Land nach dem 
+- [BGH, Beschluss vom 12.09.2019 - IX ZR 342/18](ix-zr-342-18.md) — Übergehen von erheblichem Beweisantritt
+- [BGH, Beschluss vom 20.08.2019 - IX ZB 37/19](ix-zb-37-19.md) — Zulässigkeit einer Rechtsbeschwerde gegen einen die Beiordnung eines Rechtsanwalts ablehnenden Beschluss
+- [BGH, Beschluss vom 18.07.2019 - IX ZB 57/18](ix-zb-57-18.md) — (Zumutbarkeit von Vorschüssen auf die Prozesskosten)
+- [BGH, Urteil vom 18.07.2019 - IX ZR 258/18](ix-zr-258-18.md) — Erbringt ein Schuldner, der seine Zahlungsunfähigkeit kennt, eine Leistung in der berechtigten Annahme, dadurch eine Gegenleistung in sein Vermögen zu veranlass
+- [BGH, Urteil vom 18.07.2019 - IX ZR 259/18](ix-zr-259-18.md) — (Insolvenzanfechtung von Erstattungsleistungen einer Sozialkasse)
+- [BGH, Beschluss vom 18.07.2019 - IX ZR 276/17](ix-zr-276-17.md) — (Belehrung eines Rechtsanwalts über die Beurkundungsbedürftigkeit eines dinglichen Vorkaufsrechts am Mietobjekt)
+- [BGH, Versäumnisurteil vom 11.07.2019 - IX ZR 210/18](ix-zr-210-18.md) — Wird die aus einem üblichen Austauschgeschäft herrührende Forderung eines Gesellschafters über einen Zeitraum von mehr als drei Monaten rechtsgeschäftlich oder 
+- [BGH, Beschluss vom 11.07.2019 - IX ZR 345/18](ix-zr-345-18.md) — Vorkehrungen hinsichtlich Zustellungen bei Abwesenheit
+- [BGH, Beschluss vom 09.07.2019 - IX ZA 9/19](ix-za-9-19.md) — Rechtsmittel gegen eine Versagung der Restschuldbefreiung
+- [BGH, Beschluss vom 27.06.2019 - IX ZB 5/19](ix-zb-5-19.md) — Eine Aussetzung des Rechtsstreits kommt bei der getrennten Geltendmachung von Teilen einer einheitlichen Forderung nicht in Betracht, auch wenn sie auf demselbe
+- [BGH, Urteil vom 27.06.2019 - IX ZR 167/18](ix-zr-167-18.md) — 1a. Jede Forderung eines Gesellschafters auf Rückzahlung eines vom Gesellschafter aus seinem Vermögen der Gesellschaft zur Verfügung gestellten Geldbetrags ist 
+- [BGH, Urteil vom 06.06.2019 - IX ZR 104/18](ix-zr-104-18.md) — Der Zurechnungszusammenhang zwischen einer anwaltlichen Pflichtverletzung und dem bei dem Mandanten eingetretenen Schaden entfällt nicht bereits durch die nahel
+- [BGH, Urteil vom 06.06.2019 - IX ZR 115/18](ix-zr-115-18.md) — Haftung des Steuerberaters wegen fehlerhafte Beratung eines Unternehmens zur Sozialversicherungspflicht für seinen Gesellschafter-Geschäftsführer: Berechnung de
+- [BGH, Urteil vom 06.06.2019 - IX ZR 272/17](ix-zr-272-17.md) — 1. Vergütungsforderungen eines Kassenzahnarztes gegen seine kassenzahnärztliche Vereinigung können wirksam abgetreten werden, sofern die Informationsrechte des 
+- [BGH, Beschluss vom 22.05.2019 - IX ZA 7/19](ix-za-7-19.md) — Verbraucherinsolvenzverfahren: Rechtsbehelfe gegen die Versagung der Restschuldbefreiung
+- [BGH, Urteil vom 16.05.2019 - IX ZR 44/18](ix-zr-44-18.md) — 1. Der Insolvenzverwalter kann nur dann die Erfüllung eines gegenseitigen Vertrages verlangen oder die Erfüllung ablehnen, wenn im Zeitpunkt der Eröffnung im Sy
+- [BGH, Beschluss vom 09.05.2019 - IX ZB 6/18](ix-zb-6-18.md) — Zu den Sorgfaltspflichten eines Prozessbevollmächtigten, der einen anderen Anwalt mit der fristwahrenden Einlegung eines Rechtsmittels beauftragt.
+- [BGH, Beschluss vom 02.05.2019 - IX ZB 67/18](ix-zb-67-18.md) — Ist ein Kostenfestsetzungsbeschluss erwirkt worden und erfolgt danach die Anzeige der Masseunzulänglichkeit, ist jedenfalls ein Beschluss, auf dem im Wege der Z
+- [BGH, Urteil vom 02.05.2019 - IX ZR 11/18](ix-zr-11-18.md) — 1. Schuldet der Dienstverpflichtete die Fertigung der Finanz- und Lohnbuchhaltung, handelt es sich nicht um Dienste höherer Art. 2. Wird der Steuerberater mit s
+- [BGH, Urteil vom 02.05.2019 - IX ZR 67/18](ix-zr-67-18.md) — Die in der Rückzahlung eines Gesellschafterdarlehens liegende Gläubigerbenachteiligung wird nicht beseitigt, indem der Gesellschafter die empfangenen Darlehensm
+- [BGH, Urteil vom 11.04.2019 - IX ZR 79/18](ix-zr-79-18.md) — 1. Die Rücknahme einer Forderungsanmeldung ist im Insolvenzverfahren jedenfalls bis zur Feststellung der angemeldeten Forderung möglich. Sie ist nach Durchführu
+- [BGH, Beschluss vom 28.03.2019 - IX ZA 8/18](ix-za-8-18.md) — Prozesskostenhilfe: Darlegung der Vermögenslosigkeit durch eine Partei kraft Amtes
+- [BGH, Beschluss vom 28.03.2019 - IX ZR 147/18](ix-zr-147-18.md) — Anhörungsrüge: Ausschluss der Gehörsrüge bei Nichtbeachtung richterlicher Hinweise des Erstgerichts
+- [BGH, Urteil vom 28.03.2019 - IX ZR 7/18](ix-zr-7-18.md) — Vorsatzanfechtung bei vorliegendem Sanierungskonzept
+- [BGH, Beschluss vom 21.03.2019 - IX ZB 47/17](ix-zb-47-17.md) — Zu den Anforderungen an die Abberufung eines Gesamtvollstreckungsverwalters wegen seines Verhaltens im Zusammenhang mit einem verfahrensbeendenden Vergleich.
+- [BGH, Beschluss vom 21.03.2019 - IX ZB 54/18](ix-zb-54-18.md) — Ein sofortiges Anerkenntnis liegt nach Anordnung des schriftlichen Vorverfahrens regelmäßig nur vor, wenn der Beklagte dieses innerhalb der Klageerwiderungsfris
+- [BGH, Beschluss vom 21.03.2019 - IX ZR 26/18](ix-zr-26-18.md) — Mindestbeschwer der Nichtzulassungsbeschwerde: Bemessung der Rechtsmittelbeschwer bei einer Tabellenfeststellungsklage gegen den Insolvenzverwalter
+- [BGH, Beschluss vom 21.03.2019 - IX ZR 27/18](ix-zr-27-18.md) — Mindestbeschwer der Nichtzulassungsbeschwerde: Bemessung der Rechtsmittelbeschwer bei einer Tabellenfeststellungsklage gegen den Insolvenzverwalter
+- [BGH, Beschluss vom 21.03.2019 - IX ZR 29/18](ix-zr-29-18.md) — BGH, Beschluss IX ZR 29/18
+- [BGH, Beschluss vom 21.03.2019 - IX ZR 30/18](ix-zr-30-18.md) — Mindestbeschwer der Nichtzulassungsbeschwerde: Bemessung der Rechtsmittelbeschwer bei einer Tabellenfeststellungsklage gegen den Insolvenzverwalter
+- [BGH, Urteil vom 07.03.2019 - IX ZR 143/18](ix-zr-143-18.md) — 1. Der Rechtsanwalt ist nach Kündigung des Mandats vertraglich verpflichtet, erhaltene Vorschüsse abzurechnen. 2. Der Rechtsanwalt ist vertraglich verpflichtet,
+- [BGH, Urteil vom 07.03.2019 - IX ZR 221/18](ix-zr-221-18.md) — 1. Die Kündigung des Dienstverhältnisses ist nur dann durch ein vertragswidriges Verhalten veranlasst, wenn zwischen dem vertragswidrigen Verhalten und der Künd
+- [BGH, Beschluss vom 21.02.2019 - IX ZB 7/17](ix-zb-7-17.md) — 1. Der Kautionsrückzahlungsanspruch des Mieters gehört nicht zu den sonstigen, von ihm selbst erwirtschafteten Einkünften. 2. Allein der Umstand, dass der Miete
+- [BGH, Urteil vom 21.02.2019 - IX ZR 246/17](ix-zr-246-17.md) — 1. Ein Zahlungsdiensterahmenvertrag (Girovertrag) stellt einen Geschäftsbesorgungsvertrag dar, der durch die Eröffnung des Insolvenzverfahrens erlischt. 2. Die 
+- [BGH, Beschluss vom 14.02.2019 - IX ZB 25/17](ix-zb-25-17.md) — 1. Wird das Insolvenzverfahren durch Einstellung vorzeitig beendet, ist in die Berechnungsgrundlage für die Vergütung des Verwalters auch ein Anfechtungsanspruc
+- [BGH, Urteil vom 14.02.2019 - IX ZR 149/16](ix-zr-149-16.md) — 1a. Die Anfechtung ist ausgeschlossen, wenn die Rechtshandlung bei unveränderter Rechtslage über den 1. November 2008 hinaus der Anfechtung entzogen wäre. 1b. Z
+- [BGH, Urteil vom 14.02.2019 - IX ZR 181/17](ix-zr-181-17.md) — Zur Frage, inwieweit sich ein Rechtsanwalt auf Angaben seines Mandanten über den Zeitpunkt des Zugangs eines Kündigungsschreibens verlassen darf.
+- [BGH, Urteil vom 14.02.2019 - IX ZR 203/18](ix-zr-203-18.md) — Zum Zustandekommen eines Anwaltsvertrages, wenn eine Deckungszusage des Rechtsschutzversicherers eingeholt werden soll.
+- [BGH, Urteil vom 07.02.2019 - IX ZR 47/18](ix-zr-47-18.md) — 1. Bestimmungen der Gläubigerversammlung, bei welcher Stelle und zu welchen Bedingungen Geld, Wertpapiere oder Kostbarkeiten zu hinterlegen sind, erfordern eine
+- [BGH, Urteil vom 07.02.2019 - IX ZR 5/18](ix-zr-5-18.md) — Der Abwickler kann das Eigentum an den Handakten des früheren Rechtsanwalts auf dessen Mandanten übertragen.
+- [BGH, Urteil vom 24.01.2019 - IX ZR 110/17](ix-zr-110-17.md) — 1a. Der Schuldner, der ihm zustehende Forderungen zur Absicherung von eigenen Verbindlichkeiten global abgetreten, das Eigentum an Waren in einem Raumsicherungs
+- [BGH, Versäumnisurteil vom 24.01.2019 - IX ZR 121/16](ix-zr-121-16.md) — Der Anfechtungsgegner kann mit seinem Anspruch auf Erstattung von Fruchtgewinnungskosten nur gegenüber dem Anspruch der Masse auf Herausgabe der vereinnahmten M
+- [BGH, Urteil vom 24.01.2019 - IX ZR 233/17](ix-zr-233-17.md) — Zu den Voraussetzungen eines Anerkenntnisses im Auskunftsprozess des Pflichtteilsberechtigten gegen den Erben.
+- [BGH, Beschluss vom 17.01.2019 - IX ZR 217/17](ix-zr-217-17.md) — Anhörungsrüge im Zivilprozess: Beanstandung des Ergebnisses der rechtlichen Würdigung des Gerichts
+- [BGH, Beschluss vom 10.01.2019 - IX ZB 40/18](ix-zb-40-18.md) — Der Erlös aus einem Anfechtungsanspruch erhöht auch dann die Berechnungsgrundlage für die Vergütung des Insolvenzverwalters, wenn die ohne diesen Erlös vorhande
+- [BGH, Urteil vom 10.01.2019 - IX ZR 89/18](ix-zr-89-18.md) — 1. Ob ein Rechtsanwalt einen haftpflichtigen Versicherten in dessen Auftrag oder im Auftrag des Haftpflichtversicherers vertritt, hängt von den Umständen des Fa

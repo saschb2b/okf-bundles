@@ -1,0 +1,161 @@
+# VIII. Zivilsenat – 2022
+
+157 Entscheidung(en).
+
+- [BGH, Urteil vom 21.12.2022 - VIII ZR 199/20](viii-zr-199-20.md) — 1. (Auch) Bei Stromlieferverträgen außerhalb der Grundversorgung hat der Energieversorger für die Einhaltung der Transparenzanforderungen gemäß § 41 Abs. 3 Satz
+- [BGH, Urteil vom 21.12.2022 - VIII ZR 200/20](viii-zr-200-20.md) — 1. (Auch) Bei Gaslieferverträgen außerhalb der Grundversorgung hat der Energieversorger für die Einhaltung der Transparenzanforderungen gemäß § 41 Abs. 3 Satz 1
+- [BGH, Urteil vom 21.12.2022 - VIII ZR 78/22](viii-zr-78-22.md) — Fernwärmelieferungsvertrag: Recht des Fernwärmeversorgungsunternehmens zur einseitigen Anpassung einer unwirksamen Preisänderungsklausel; Aussetzung der Verhand
+- [BGH, Beschluss vom 13.12.2022 - VIII ZA 15/22](viii-za-15-22.md) — BGH, Beschluss VIII ZA 15/22
+- [BGH, Beschluss vom 13.12.2022 - VIII ZB 43/22](viii-zb-43-22.md) — Berufung gegen ein Räumungsurteil: Notwendiger Inhalt der Berufungsbegründung
+- [BGH, Beschluss vom 13.12.2022 - VIII ZR 298/21](viii-zr-298-21.md) — Zur Frage der Substantiierungsanforderungen hinsichtlich der Entbehrlichkeit einer Fristsetzung zur Nacherfüllung vor der Erklärung des Rücktritts von einem Kau
+- [BGH, Beschluss vom 13.12.2022 - VIII ZR 96/22](viii-zr-96-22.md) — Räumungsverfahren: Gehörsverletzung bei Nichtberücksichtigung eines Beweisangebots zur Erkrankung des Wohnraummieters
+- [BGH, Beschluss vom 06.12.2022 - VIII ZA 12/22](viii-za-12-22.md) — Wird ein bestimmender, grundsätzlich von einem zur Vertretung berechtigten Rechtsanwalt eigenhändig zu unterzeichnender Schriftsatz - hier Berufungsbegründung (
+- [BGH, Beschluss vom 06.12.2022 - VIII ZR 30/22](viii-zr-30-22.md) — Nichtzulassungbeschwerde: Wert der Beschwer bei Verurteilung eines Wohnraummieters zur Duldung von Modernisierungsmaßnahmen sowie Instandsetzungsarbeiten
+- [BGH, Beschluss vom 06.12.2022 - VIII ZR 33/22](viii-zr-33-22.md) — Nichtzulassungbeschwerde: Wert der Beschwer bei Verurteilung eines Wohnraummieters zur Duldung von Modernisierungsmaßnahmen sowie Instandsetzungsarbeiten
+- [BGH, Beschluss vom 06.12.2022 - VIII ZR 36/22](viii-zr-36-22.md) — Nichtzulassungbeschwerde: Wert der Beschwer bei Verurteilung eines Wohnraummieters zur Duldung von Modernisierungsmaßnahmen sowie Instandsetzungsarbeiten
+- [BGH, Beschluss vom 06.12.2022 - VIII ZR 401/21](viii-zr-401-21.md) — Streit um den Widerruf eines im Fernabsatz geschlossenen Wohnraummietvertrages: Beschränkung der Revisionszulassung durch das Berufungsgericht auf eine zur Aufr
+- [BGH, Beschluss vom 06.12.2022 - VIII ZR 5/22](viii-zr-5-22.md) — BGH, Beschluss VIII ZR 5/22
+- [BGH, Beschluss vom 06.12.2022 - VIII ZR 81/21](viii-zr-81-21.md) — BGH, Beschluss VIII ZR 81/21
+- [BGH, Urteil vom 23.11.2022 - VIII ZR 59/21](viii-zr-59-21.md) — 1. Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an BGH, Urtei
+- [BGH, Beschluss vom 22.11.2022 - VIII ZB 2/22](viii-zb-2-22.md) — Zu den Pflichten eines Rechtsanwalts hinsichtlich der Kontrolle der Rechtsmittelbegründungsfrist bei Ablauf der für diese notierten Vorfrist.
+- [BGH, Beschluss vom 22.11.2022 - VIII ZB 28/21](viii-zb-28-21.md) — Ein die Berufung nach § 522 Abs. 1 Satz 2 ZPO verwerfender Beschluss muss jedenfalls die die Verwerfung tragenden Feststellungen enthalten, weil anderenfalls de
+- [BGH, Beschluss vom 22.11.2022 - VIII ZR 212/21](viii-zr-212-21.md) — BGH, Beschluss VIII ZR 212/21
+- [BGH, Beschluss vom 22.11.2022 - VIII ZR 227/21](viii-zr-227-21.md) — BGH, Beschluss VIII ZR 227/21
+- [BGH, Beschluss vom 22.11.2022 - VIII ZR 259/21](viii-zr-259-21.md) — BGH, Beschluss VIII ZR 259/21
+- [BGH, Urteil vom 16.11.2022 - VIII ZR 133/21](viii-zr-133-21.md) — BGH, Urteil VIII ZR 133/21
+- [BGH, Urteil vom 16.11.2022 - VIII ZR 221/21](viii-zr-221-21.md) — 1. Zur Frage des Vorliegens eines nach § 34 Abs. 4 GewO verbotenen Rückkaufshandels im Falle des gewerbsmäßigen Ankaufs von Kraftfahrzeugen und deren anschließe
+- [BGH, Urteil vom 16.11.2022 - VIII ZR 288/21](viii-zr-288-21.md) — 1. Zur Frage des Vorliegens eines nach § 34 Abs. 4 GewO verbotenen Rückkaufshandels im Falle des gewerbsmäßigen Ankaufs von Kraftfahrzeugen und deren anschließe
+- [BGH, Urteil vom 16.11.2022 - VIII ZR 383/20](viii-zr-383-20.md) — 1. Der Verkäufer kann jederzeit und auch stillschweigend auf die Rechtsfolgen aus § 377 Abs. 2, 3 HGB - beziehungsweise auf den Einwand der Verspätung einer Män
+- [BGH, Urteil vom 16.11.2022 - VIII ZR 393/21](viii-zr-393-21.md) — 1. Erfolgt die Versorgung mit Fernwärme nach § 2 Abs. 2 Satz 2 AVBFernwärmeV zu den für gleichartige Versorgungsverhältnisse geltenden Preisen, so werden grunds
+- [BGH, Urteil vom 16.11.2022 - VIII ZR 436/21](viii-zr-436-21.md) — Zur Frage des Vorliegens eines wucherähnlichen Rechtsgeschäfts im Falle des (gewerbsmäßigen) Ankaufs von Kraftfahrzeugen und anschließender Vermietung an den Ve
+- [BGH, Urteil vom 16.11.2022 - VIII ZR 75/21](viii-zr-75-21.md) — BGH, Urteil VIII ZR 75/21
+- [BGH, Beschluss vom 15.11.2022 - VIII ZA 13/22](viii-za-13-22.md) — BGH, Beschluss VIII ZA 13/22
+- [BGH, Beschluss vom 15.11.2022 - VIII ZR 26/22](viii-zr-26-22.md) — Nichtzulassungsbeschwerde: Bemessung des Beschwerdewerts bei Klage gegen den Wohnungsmieter auf Duldung von Modernisierungs- und Instantsetzungsmaßnahmen
+- [BGH, Urteil vom 09.11.2022 - VIII ZR 272/20](viii-zr-272-20.md) — 1. Zur Unzulässigkeit einer Feststellungsklage (§ 256 Abs. 1 ZPO) des (aus abgetretenem Recht des Käufers/Leasinggebers vorgehenden) Leasingnehmers gegen den Ve
+- [BGH, Versäumnisurteil vom 09.11.2022 - VIII ZR 316/21](viii-zr-316-21.md) — Formelle Begründungsanforderungen für eine Modernisierungsmieterhöhung bei mehreren Maßnahmen des Wohnraumvermieters: Ausweisung der für jede Modernisierungsmaß
+- [BGH, Versäumnisurteil vom 09.11.2022 - VIII ZR 331/21](viii-zr-331-21.md) — Formelle Begründungsanforderungen für eine Modernisierungsmieterhöhung bei mehreren Maßnahmen des Wohnraumvermieters: Ausweisung der für jede Modernisierungsmaß
+- [BGH, Versäumnisurteil vom 09.11.2022 - VIII ZR 333/21](viii-zr-333-21.md) — Formelle Begründungsanforderungen für eine Modernisierungsmieterhöhung bei mehreren Maßnahmen des Wohnraumvermieters: Ausweisung der für jede Modernisierungsmaß
+- [BGH, Versäumnisurteil vom 09.11.2022 - VIII ZR 335/21](viii-zr-335-21.md) — Formelle Begründungsanforderungen für eine Modernisierungsmieterhöhung bei mehreren Maßnahmen des Wohnraumvermieters: Ausweisung der für jede Modernisierungsmaß
+- [BGH, Versäumnisurteil vom 09.11.2022 - VIII ZR 347/21](viii-zr-347-21.md) — Formelle Begründungsanforderungen für eine Modernisierungsmieterhöhung bei mehreren Maßnahmen des Wohnraumvermieters: Ausweisung der für jede Modernisierungsmaß
+- [BGH, Beschluss vom 08.11.2022 - VIII ZA 5/22](viii-za-5-22.md) — BGH, Beschluss VIII ZA 5/22
+- [BGH, Beschluss vom 08.11.2022 - VIII ZA 6/22](viii-za-6-22.md) — BGH, Beschluss VIII ZA 6/22
+- [BGH, Beschluss vom 08.11.2022 - VIII ZB 21/22](viii-zb-21-22.md) — Zur Anzeige des Erlöschens der Prozessvollmacht des bisherigen Prozessbevollmächtigten vor Veranlassung der Urteilszustellung im Parteiprozess.
+- [BGH, Beschluss vom 08.11.2022 - VIII ZB 61/22](viii-zb-61-22.md) — BGH, Beschluss VIII ZB 61/22
+- [BGH, Beschluss vom 26.10.2022 - VIII ZA 19/22](viii-za-19-22.md) — BGH, Beschluss VIII ZA 19/22
+- [BGH, Beschluss vom 26.10.2022 - VIII Za 21/22](viii-za-21-22.md) — BGH, Beschluss VIII Za 21/22
+- [BGH, Urteil vom 26.10.2022 - VIII ZR 390/21](viii-zr-390-21.md) — 1. Zu den Voraussetzungen einer nicht zu rechtfertigenden Härte im Sinne des § 574 Abs. 1 Satz 1 BGB bei der ernsthaften Gefahr eines Suizids des Mieters im Fal
+- [BGH, Beschluss vom 25.10.2022 - VIII ZA 20/22](viii-za-20-22.md) — Zulässigkeit der Nichtzulassungsbeschwerde: Beschwer in einem Räumungsverfahren gegen den Wohnraummieter
+- [BGH, Beschluss vom 25.10.2022 - VIII ZA 3/22](viii-za-3-22.md) — BGH, Beschluss VIII ZA 3/22
+- [BGH, Beschluss vom 25.10.2022 - VIII ZB 58/21](viii-zb-58-21.md) — Die Besorgnis, der Mieter werde sich der Verpflichtung zur Räumung und Herausgabe von Wohnräumen im Sinne des § 259 ZPO entziehen, kann nach den Umständen des E
+- [BGH, Beschluss vom 25.10.2022 - VIII ZR 223/21](viii-zr-223-21.md) — Zustimmungsklage zur Erhöhung der Wohnraummiete: Bestimmung der ortsüblichen Vergleichsmiete und der Einzelvergleichsmiete an Hand des Kölner Mietspiegels und e
+- [BGH, Beschluss vom 25.10.2022 - VIII ZR 362/21](viii-zr-362-21.md) — Nichtzulassungsbeschwerde im Mietrechtsstreit: Addition des Beschwerdewertes bei wirtschaftlicher Identität von Feststellungsklage und Feststellungswiderklage
+- [BGH, Urteil vom 05.10.2022 - VIII ZR 117/21](viii-zr-117-21.md) — 1. Die Kosten eines externen Dienstleisters für die regelmäßige Kontrolle der Restmüllbehälter des Mietobjekts auf Einhaltung der satzungsmäßigen Vorgaben für d
+- [BGH, Urteil vom 05.10.2022 - VIII ZR 307/21](viii-zr-307-21.md) — 1. Ein innerhalb der Schonfrist des § 569 Abs. 3 Nr. 2 Satz 1 BGB erfolgter Ausgleich des Mietrückstands beziehungsweise eine entsprechende Verpflichtung einer 
+- [BGH, Beschluss vom 05.10.2022 - VIII ZR 88/21](viii-zr-88-21.md) — Zur Verletzung des Anspruchs der Partei auf rechtliches Gehör gemäß Art. 103 Abs. 1 GG im Zusammenhang mit Vortrag über die Entbehrlichkeit der Fristsetzung zur
+- [BGH, Beschluss vom 04.10.2022 - VIII ZA 9/22](viii-za-9-22.md) — BGH, Beschluss VIII ZA 9/22
+- [BGH, Beschluss vom 04.10.2022 - VIII ZR 153/22](viii-zr-153-22.md) — BGH, Beschluss VIII ZR 153/22
+- [BGH, Beschluss vom 04.10.2022 - VIII ZR 290/21](viii-zr-290-21.md) — BGH, Beschluss VIII ZR 290/21
+- [BGH, Beschluss vom 04.10.2022 - VIII ZR 394/21](viii-zr-394-21.md) — Wohnraummiete: Versperren des Zugangs zur Waschküche des Mehrfamilienhauses durch den Vermieter
+- [BGH, Urteil vom 28.09.2022 - VIII ZR 300/21](viii-zr-300-21.md) — 1. Durch die Zustimmung eines Mieters zu einem Mieterhöhungsverlangen des Vermieters kommt in der Regel eine Vereinbarung über die Erhöhung der Miete auf die ne
+- [BGH, Urteil vom 28.09.2022 - VIII ZR 319/20](viii-zr-319-20.md) — § 8 Nr. 2 Satz 2 der Allgemeinen Geschäftsbedingungen von eBay, wonach die von Nutzern abgegebenen Bewertungen sachlich gehalten sein müssen und Schmähkritik ni
+- [BGH, Versäumnisurteil vom 28.09.2022 - VIII ZR 336/21](viii-zr-336-21.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil 
+- [BGH, Versäumnisurteil vom 28.09.2022 - VIII ZR 338/21](viii-zr-338-21.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil 
+- [BGH, Versäumnisurteil vom 28.09.2022 - VIII ZR 340/21](viii-zr-340-21.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil 
+- [BGH, Versäumnisurteil vom 28.09.2022 - VIII ZR 344/21](viii-zr-344-21.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil 
+- [BGH, Urteil vom 28.09.2022 - VIII ZR 358/21](viii-zr-358-21.md) — BGH, Urteil VIII ZR 358/21
+- [BGH, Urteil vom 28.09.2022 - VIII ZR 91/21](viii-zr-91-21.md) — Fernwärmeversorgungsvertrag: Einseitige Anpassung einer Preisänderungsklausel während des laufenden Versorgungsverhältnisses mit Wirkung für die Zukunft; einsei
+- [BGH, Beschluss vom 27.09.2022 - VIII ZR 16/21](viii-zr-16-21.md) — BGH, Beschluss VIII ZR 16/21
+- [BGH, Beschluss vom 20.09.2022 - VIII ZA 17/22](viii-za-17-22.md) — BGH, Beschluss VIII ZA 17/22
+- [BGH, Beschluss vom 06.09.2022 - VIII ZA 4/22](viii-za-4-22.md) — BGH, Beschluss VIII ZA 4/22
+- [BGH, Beschluss vom 06.09.2022 - VIII ZB 24/21](viii-zb-24-21.md) — Zu den Pflichten des Rechtsmittelgerichts, wenn das Vorbringen zur Begründung eines - auf eine unvorhergesehene Erkrankung des Rechtsanwalts gestützten - Wieder
+- [BGH, Beschluss vom 06.09.2022 - VIII ZR 352/21](viii-zr-352-21.md) — Zur Verletzung des Anspruchs der Partei auf rechtliches Gehör gemäß Art. 103 Abs. 1 GG im Zusammenhang mit Vortrag zur Entbehrlichkeit der Fristsetzung zur Nach
+- [BGH, Urteil vom 31.08.2022 - VIII ZR 132/20](viii-zr-132-20.md) — § 548 Abs. 1 BGB enthält für die von dieser Bestimmung erfassten Ansprüche des Vermieters eine abschließende Sonderregelung, die der allgemeinen Regelung des § 
+- [BGH, Urteil vom 31.08.2022 - VIII ZR 232/21](viii-zr-232-21.md) — BGH, Urteil VIII ZR 232/21
+- [BGH, Urteil vom 31.08.2022 - VIII ZR 233/21](viii-zr-233-21.md) — 1. Zu den Anforderungen an die Wirksamkeit von Preisanpassungsklauseln in Fernwärmelieferungsverträgen (im Anschluss an BGH, Urteil vom 26. Januar 2022 - VIII Z
+- [BGH, Urteil vom 31.08.2022 - VIII ZR 234/21](viii-zr-234-21.md) — BGH, Urteil VIII ZR 234/21
+- [BGH, Beschluss vom 30.08.2022 - VIII ZB 87/20](viii-zb-87-20.md) — Zur Erstattungsfähigkeit der für die Beauftragung eines Unterbevollmächtigten anfallenden Kosten bei Hinzuziehung eines weder am Gerichtsort noch am Sitz der Pa
+- [BGH, Beschluss vom 30.08.2022 - VIII ZR 305/21](viii-zr-305-21.md) — BGH, Beschluss VIII ZR 305/21
+- [BGH, Beschluss vom 30.08.2022 - VIII ZR 429/21](viii-zr-429-21.md) — Räumungsprozess nach Kündigung des Wohnraummietvertrages: Notwendige Beweiserhebung des Berufungsgerichts über den Einwand der unzumutbaren Härte infolge Versch
+- [BGH, Beschluss vom 09.08.2022 - VIII ZR 298/20](viii-zr-298-20.md) — Klage auf Rückgewähr einer Mietkaution: Auslegung einer "Bestätigung, Vollmacht und Abtretung" hinsichtlich der Wirksamkeit einer Abtretung eines Kautionsrückza
+- [BGH, Beschluss vom 02.08.2022 - VIII ZB 3/21](viii-zb-3-21.md) — Zu den Pflichten des Rechtsmittelgerichts, wenn es einer anwaltlichen Versicherung im Verfahren der Wiedereinsetzung keinen Glauben schenkt (im Anschluss an BGH
+- [BGH, Urteil vom 20.07.2022 - VIII ZR 183/21](viii-zr-183-21.md) — Zur zeitlichen Begrenzung der Beschaffungspflicht des Verkäufers eines Verbrauchsguts bezüglich eines Nachfolgemodells (im Anschluss an Senatsurteil vom 21. Jul
+- [BGH, Urteil vom 20.07.2022 - VIII ZR 337/21](viii-zr-337-21.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil 
+- [BGH, Urteil vom 20.07.2022 - VIII ZR 339/21](viii-zr-339-21.md) — Zu den formellen Anforderungen an eine Mieterhöhungserklärung nach der Durchführung von Modernisierungsmaßnahmen gemäß § 559b BGB (im Anschluss an Senatsurteil 
+- [BGH, Urteil vom 20.07.2022 - VIII ZR 361/21](viii-zr-361-21.md) — 1. Die Erklärung über eine Modernisierungsmieterhöhung (§ 559 BGB) genügt regelmäßig den formellen Anforderungen nach § 559b BGB, wenn sie - im Hinblick auf die
+- [BGH, Beschluss vom 19.07.2022 - VIII ZR 194/21](viii-zr-194-21.md) — Wohnraummietvertrag: Konkludente Beschaffenheitsvereinbarung über die Ausstattung der Mietwohnung mit einer Gasetagenheizung; Änderung der Sollbeschaffenheit de
+- [BGH, Urteil vom 13.07.2022 - VIII ZR 317/21](viii-zr-317-21.md) — 1. Bei dem Vertrieb von Eintrittskarten über eine Vorverkaufsstelle, die als Kommissionärin des Veranstalters handelt, wird zwischen dieser und dem Käufer ein R
+- [BGH, Urteil vom 13.07.2022 - VIII ZR 329/21](viii-zr-329-21.md) — Zum Anspruch des Käufers gegen eine Vorverkaufsstelle auf Rückerstattung des Ticketpreises bei Absage der Veranstaltung wegen eines auf Grund der COVID-19-Pande
+- [BGH, Beschluss vom 12.07.2022 - VIII ZR 347/20](viii-zr-347-20.md) — BGH, Beschluss VIII ZR 347/20
+- [BGH, Urteil vom 06.07.2022 - VIII ZR 155/21](viii-zr-155-21.md) — 1. Bei Preisänderungsklauseln in Fernwärmelieferungsverträgen gebietet das Transparenzgebot in § 24 Abs. 4 Satz 2 AVBFernwärmeV eine Erläuterung der Zusammenset
+- [BGH, Urteil vom 06.07.2022 - VIII ZR 28/21](viii-zr-28-21.md) — 1. Bei Preisänderungsklauseln in Fernwärmelieferungsverträgen gebietet das Transparenzgebot in § 24 Abs. 4 Satz 2 AVBFernwärmeV eine Erläuterung der Zusammenset
+- [BGH, Beschluss vom 05.07.2022 - VIII ZB 33/21](viii-zb-33-21.md) — Kostenfestsetzung: Erstattungsfähigkeit der Reisekosten eines auswärtigen Rechtsanwalts
+- [BGH, Beschluss vom 05.07.2022 - VIII ZR 137/21](viii-zr-137-21.md) — 1. Eine Berufungsbegründung muss geeignet sein, die erstinstanzliche Entscheidung im Umfang der Anfechtung in Frage zu stellen. Bei mehreren Streitgegenständen 
+- [BGH, Urteil vom 22.06.2022 - VIII ZR 356/20](viii-zr-356-20.md) — 1. Die vom Land Berlin erlassene "Verordnung im Sinne des § 577a Abs. 2 BGB über den verlängerten Kündigungsschutz bei Umwandlung einer Mietwohnung in eine Eige
+- [BGH, Beschluss vom 21.06.2022 - VIII ZR 285/21](viii-zr-285-21.md) — Auch in einem vorausgegangenen Vortrag der Partei kann ein Bestreiten nachfolgender Behauptungen der Gegenseite liegen, wenn jener Vortrag diesen Behauptungen w
+- [BGH, Beschluss vom 14.06.2022 - VIII ZR 182/21](viii-zr-182-21.md) — Revision und Nichtzulassungsbeschwerde einer bedürftigen Partei: Ablehnung von Prozesskostenhilfe und Beginn der Frist für den Wiedereinsetzungsantrag; Beschrän
+- [BGH, Beschluss vom 14.06.2022 - VIII ZR 24/21](viii-zr-24-21.md) — Wirksamkeitsprüfung für ein Mieterhöhungsverlangen: Unbeachtlichkeit eines Verstoßes gegen das Berliner Gesetz zur Mietenbegrenzung; Anwendung eines Mietspiegel
+- [BGH, Beschluss vom 14.06.2022 - VIII ZR 361/20](viii-zr-361-20.md) — Mieterhöhungsverlangen: Erhöhungsverlangen bei Bezugnahme auf den Berliner Mietspiegel
+- [BGH, Beschluss vom 03.06.2022 - VIII ZB 44/22](viii-zb-44-22.md) — Rechtsbeschwerdeverfahren gegen eine Räumungsvollstreckung bei Wohnraum: Einstweilige Einstellung der Vollstreckung wegen Wegfalls der Voraussetzungen eines vom
+- [BGH, Urteil vom 01.06.2022 - VIII ZR 287/20](viii-zr-287-20.md) — 1. Bei Preisänderungsklauseln in Fernwärmelieferungsverträgen gebietet das Transparenzgebot in § 24 Abs. 4 Satz 2 AVBFernwärmeV eine Erläuterung der Zusammenset
+- [BGH, Beschluss vom 31.05.2022 - VIII ZR 304/21](viii-zr-304-21.md) — Streitwertbemessung: Klage auf Zustimmung des Vermieters zur Auswechselung einzelner Mieter
+- [BGH, Versäumnisurteil vom 18.05.2022 - VIII ZR 28/22](viii-zr-28-22.md) — Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege der A
+- [BGH, Versäumnisurteil vom 18.05.2022 - VIII ZR 343/21](viii-zr-343-21.md) — Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege der A
+- [BGH, Versäumnisurteil vom 18.05.2022 - VIII ZR 365/21](viii-zr-365-21.md) — Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege der A
+- [BGH, Versäumnisurteil vom 18.05.2022 - VIII ZR 380/21](viii-zr-380-21.md) — Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege der A
+- [BGH, Versäumnisurteil vom 18.05.2022 - VIII ZR 381/21](viii-zr-381-21.md) — Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege der A
+- [BGH, Urteil vom 18.05.2022 - VIII ZR 382/21](viii-zr-382-21.md) — Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege der A
+- [BGH, Versäumnisurteil vom 18.05.2022 - VIII ZR 383/21](viii-zr-383-21.md) — Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege der A
+- [BGH, Urteil vom 18.05.2022 - VIII ZR 423/21](viii-zr-423-21.md) — Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege der A
+- [BGH, Versäumnisurteil vom 18.05.2022 - VIII ZR 9/22](viii-zr-9-22.md) — 1. Zur Aktivlegitimation eines registrierten Inkassodienstleisters, der Ansprüche des Mieters aus der sogenannten Mietpreisbremse (§§ 556d, 556g BGB) im Wege de
+- [BGH, Urteil vom 11.05.2022 - VIII ZR 379/20](viii-zr-379-20.md) — Bei den Kosten für die Miete von Rauchwarnmeldern handelt es sich nicht um sonstige Betriebskosten im Sinne von § 2 Nr. 17 BetrKV, sondern - da sie den Kosten f
+- [BGH, Beschluss vom 10.05.2022 - VIII ZR 277/20](viii-zr-277-20.md) — Beendeter Wohnraummietvertrag: Schadensersatzpflicht des Mieters wegen Nichtdurchführung von Schönheitsreparaturen; pauschales Bestreiten von Größenangaben in e
+- [BGH, Beschluss vom 10.05.2022 - VIII ZR 75/22](viii-zr-75-22.md) — Sprungrechtsbeschwerde gegen ein klageabweisendes Urteil im Räumungsprozess gegen den Wohnraummieter
+- [BGH, Urteil vom 04.05.2022 - VIII ZR 50/20](viii-zr-50-20.md) — 1. Der Tatrichter darf bei einem auf Ersatzlieferung gerichteten Nacherfüllungsbegehren nicht offenlassen, ob das bei Vertragsschluss maßgebliche Fahrzeugmodell
+- [BGH, Beschluss vom 03.05.2022 - VIII ZR 111/21](viii-zr-111-21.md) — Deklaratorische Feststellung einer Verfahrensunterbrechung
+- [BGH, Beschluss vom 03.05.2022 - VIII ZR 139/21](viii-zr-139-21.md) — BGH, Beschluss VIII ZR 139/21
+- [BGH, Beschluss vom 03.05.2022 - VIII ZR 140/21](viii-zr-140-21.md) — BGH, Beschluss VIII ZR 140/21
+- [BGH, Beschluss vom 03.05.2022 - VIII ZR 157/21](viii-zr-157-21.md) — BGH, Beschluss VIII ZR 157/21
+- [BGH, Beschluss vom 03.05.2022 - VIII ZR 238/21](viii-zr-238-21.md) — BGH, Beschluss VIII ZR 238/21
+- [BGH, Beschluss vom 03.05.2022 - VIII ZR 302/21](viii-zr-302-21.md) — BGH, Beschluss VIII ZR 302/21
+- [BGH, Beschluss vom 03.05.2022 - VIII ZR 320/21](viii-zr-320-21.md) — BGH, Beschluss VIII ZR 320/21
+- [BGH, Beschluss vom 03.05.2022 - VIII ZR 330/21](viii-zr-330-21.md) — BGH, Beschluss VIII ZR 330/21
+- [BGH, Beschluss vom 26.04.2022 - VIII ZR 19/21](viii-zr-19-21.md) — Rechtliches Gehör im Zusammenhang mit dem sog. Abgasskandal: Nichtberücksichtigung des beweisbewehrten Vortrags des Klägers zu einer in dem Software-Update enth
+- [BGH, Beschluss vom 26.04.2022 - VIII ZR 364/20](viii-zr-364-20.md) — Schadensersatzanspruch des Vermieters nach Beendigung des Mietverhältnisses: Schadensersatz statt der Leistung
+- [BGH, Urteil vom 06.04.2022 - VIII ZR 219/20](viii-zr-219-20.md) — Der Vermieter ist berechtigt, innerhalb eines Mieterhöhungsverfahrens nach §§ 558 ff. BGB sein formell ordnungsgemäßes vorprozessuales Erhöhungsverlangen (§ 558
+- [BGH, Versäumnisurteil vom 06.04.2022 - VIII ZR 246/20](viii-zr-246-20.md) — Die in § 10 Abs. 1 WoBindG beschriebenen formellen Anforderungen an ein Mieterhöhungsverlangen werden durch § 4 Abs. 7 Satz 1 NMV ausgefüllt und konkretisiert. 
+- [BGH, Versäumnisurteil vom 06.04.2022 - VIII ZR 247/20](viii-zr-247-20.md) — Mieterhöhung bei preisgebundenem Wohnraum: Begründungserfordernis bei Inanspruchnahme eines höheren AfA-Satzes
+- [BGH, Urteil vom 06.04.2022 - VIII ZR 262/20](viii-zr-262-20.md) — Zu den Anforderungen an die Angabe einer ladungsfähigen Anschrift des Klägers in der Klageschrift (hier: c/o-Adresse einer rechtsfähigen Stiftung bürgerlichen R
+- [BGH, Urteil vom 06.04.2022 - VIII ZR 295/20](viii-zr-295-20.md) — 1. In Fernwärmelieferungsverträgen ist die Verwendung des Erzeugerpreisindexes gewerblicher Produkte sowie des Indexes für Tarifverdienste der im Wirtschaftszwe
+- [BGH, Beschluss vom 05.04.2022 - VIII ZR 126/21](viii-zr-126-21.md) — Internationaler Warenkauf: Zurückbehaltungsrecht gegenüber der Zahlungsforderung bei verspäteter Mängelrüge
+- [BGH, Urteil vom 30.03.2022 - VIII ZR 109/20](viii-zr-109-20.md) — 1. Ein taugliches Nacherfüllungsverlangen des Käufers setzt die Zurverfügungstellung der Kaufsache am Erfüllungsort der Nacherfüllung voraus (im Anschluss an Se
+- [BGH, Urteil vom 30.03.2022 - VIII ZR 121/21](viii-zr-121-21.md) — Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Verstoßes
+- [BGH, Versäumnisurteil vom 30.03.2022 - VIII ZR 256/21](viii-zr-256-21.md) — Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Verstoßes
+- [BGH, Urteil vom 30.03.2022 - VIII ZR 277/21](viii-zr-277-21.md) — Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Verstoßes
+- [BGH, Versäumnisurteil vom 30.03.2022 - VIII ZR 279/21](viii-zr-279-21.md) — 1. Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Versto
+- [BGH, Versäumnisurteil vom 30.03.2022 - VIII ZR 283/21](viii-zr-283-21.md) — 1. Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Versto
+- [BGH, Versäumnisurteil vom 30.03.2022 - VIII ZR 358/20](viii-zr-358-20.md) — Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Verstoßes
+- [BGH, Beschluss vom 29.03.2022 - VIII ZR 99/21](viii-zr-99-21.md) — Zur Bemessung des Werts der Beschwer des unterlegenen Gegners bei einer im Hinblick auf eine verbraucherschutzgesetzwidrige Praxis im Sinne des § 2 UKlaG erhobe
+- [BGH, Urteil vom 23.03.2022 - VIII ZR 133/20](viii-zr-133-20.md) — 1. Mit dem Erfordernis des Rechtsschutzbedürfnisses als Einschränkung des durch Art. 20 Abs. 3 GG in Verbindung mit Art. 2 Abs. 1 GG verfassungsrechtlich abgesi
+- [BGH, Beschluss vom 15.03.2022 - VIII ZB 43/21](viii-zb-43-21.md) — Zu den inhaltlichen Anforderungen an eine Berufungsbegründung.
+- [BGH, Beschluss vom 15.03.2022 - VIII ZR 81/20](viii-zr-81-20.md) — Wohnraummiete: Widerspruch des langjährigen Mieters gegen eine an sich gerechtfertigte ordentliche Kündigung des Vermieters; Härtegründe
+- [BGH, Beschluss vom 08.03.2022 - VIII ZB 45/21](viii-zb-45-21.md) — War die von dem Prozessbevollmächtigten der Partei zulässigerweise gewählte Übermittlung eines fristwahrenden Schriftsatzes am Tag des Fristablaufs aus von ihm 
+- [BGH, Beschluss vom 08.03.2022 - VIII ZB 96/20](viii-zb-96-20.md) — Zu den Pflichten des Rechtsmittelgerichts bei Zweifeln am rechtzeitigen Eingang einer per Telefax übermittelten Berufungsbegründung.
+- [BGH, Beschluss vom 08.03.2022 - VIII ZR 149/21](viii-zr-149-21.md) — BGH, Beschluss VIII ZR 149/21
+- [BGH, Urteil vom 23.02.2022 - VIII ZR 305/20](viii-zr-305-20.md) — Die in einem Kaufvertrag über eine mit einem Vorkaufsrecht des Mieters belastete Eigentumswohnung zwischen dem Vorkaufsverpflichteten (Verkäufer) und dem Dritte
+- [BGH, Beschluss vom 22.02.2022 - VIII ZR 38/20](viii-zr-38-20.md) — Wohnraummiete: Gebrauchsgewährungs- und Erhaltungspflicht des Vermieters bezüglich eines Außenwasseranschlusses bei mitvermieteter Gartenfläche
+- [BGH, Beschluss vom 08.02.2022 - VIII ZR 150/20](viii-zr-150-20.md) — Wohnraummiete bei preisgebundenem Wohnraum: Rückforderung von Betriebskostenvorauszahlungen bei unzureichender Belegeinsicht
+- [BGH, Beschluss vom 08.02.2022 - VIII ZR 321/21](viii-zr-321-21.md) — Anwaltsprozess: Voraussetzungen für die Anordnung des Ruhens des Verfahrens
+- [BGH, Beschluss vom 08.02.2022 - VIII ZR 38/21](viii-zr-38-21.md) — 1. Nach einer einseitigen Erledigungserklärung richtet sich die Beschwer des Rechtsmittelführers regelmäßig nach der Summe der bis zum Zeitpunkt der Erledigungs
+- [BGH, Urteil vom 26.01.2022 - VIII ZR 140/20](viii-zr-140-20.md) — Zur Frage der Entbehrlichkeit einer Fristsetzung zur Nacherfüllung vor der Erklärung des Rücktritts von einem Kaufvertrag bezüglich eines vom sogenannten Abgass
+- [BGH, Urteil vom 26.01.2022 - VIII ZR 175/19](viii-zr-175-19.md) — 1. Ein Fernwärmeversorgungsunternehmen ist gemäß § 4 Abs. 1, 2 AVBFernwärmeV in Verbindung mit § 24 Abs. 4 AVBFernwärmeV berechtigt und - soweit das Kundeninter
+- [BGH, Beschluss vom 25.01.2022 - VIII ZR 233/20](viii-zr-233-20.md) — 1. Hat das Berufungsgericht die Zulassung der Revision in der Urschrift seiner Entscheidung ausdrücklich abgelehnt, kann diese Entscheidung durch Fehler bei der
+- [BGH, Beschluss vom 25.01.2022 - VIII ZR 359/20](viii-zr-359-20.md) — In die versäumte Frist zur Einlegung der Anschlussberufung gemäß § 524 Abs. 2 Satz 2 ZPO findet eine Wiedereinsetzung nach den Vorschriften der §§ 233 ff. ZPO n
+- [BGH, Urteil vom 19.01.2022 - VIII ZR 122/21](viii-zr-122-21.md) — Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Verstoßes
+- [BGH, Urteil vom 19.01.2022 - VIII ZR 123/21](viii-zr-123-21.md) — 1a. Die Berliner Mietenbegrenzungsverordnung vom 28. April 2015 (GVBl. 2015 S. 101) ist nicht wegen einer unzureichenden Veröffentlichung der Begründung unwirks
+- [BGH, Urteil vom 19.01.2022 - VIII ZR 124/21](viii-zr-124-21.md) — Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Verstoßes
+- [BGH, Urteil vom 19.01.2022 - VIII ZR 196/21](viii-zr-196-21.md) — Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Verstoßes
+- [BGH, Versäumnisurteil vom 19.01.2022 - VIII ZR 220/21](viii-zr-220-21.md) — Zur Wirksamkeit der Abtretung des Anspruchs eines Wohnungsmieters an einen Inkassodienstleister auf Rückerstattung zu viel gezahlter Miete wegen eines Verstoßes
+- [BGH, Versäumnisurteil vom 12.01.2022 - VIII ZR 151/20](viii-zr-151-20.md) — Von einer nicht verbrauchsabhängigen Abrechnung im Sinne von § 12 Abs. 1 Satz 1 HeizkostenV ist auch dann auszugehen, wenn zwar die Wohnung über Heizkostenverte
+- [BGH, Beschluss vom 11.01.2022 - VIII ZB 37/21](viii-zb-37-21.md) — 1. Wird die Frist zur Einlegung eines Rechtsmittels deshalb versäumt, weil der Prozessbevollmächtigte der Partei zuvor einen unstatthaften Rechtsbehelf - hier A
+- [BGH, Beschluss vom 11.01.2022 - VIII ZB 44/21](viii-zb-44-21.md) — 1. Die Vorschrift des § 269 Abs. 3 Satz 2 Halbs. 2 Alt. 2 ZPO lässt die Berücksichtigung materiell-rechtlicher Kostenerstattungsansprüche - soweit diese nicht a
+- [BGH, Beschluss vom 11.01.2022 - VIII ZR 33/20](viii-zr-33-20.md) — Zur Überspannung der Substantiierungsanforderungen an die Darlegung von Folgeschäden, die durch ein Software-Update zur Beseitigung einer unzulässigen Abschalte

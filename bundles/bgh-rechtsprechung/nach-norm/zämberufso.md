@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZÄMBerufsO"
 description: "BGH-Entscheidungen zu ZÄMBerufsO, geordnet nach Vorschrift."
 tags: [register, navigation, zämberufso]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:59Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des ZÄMBerufsO a
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 134 ZÄMBerufsO | [BGH, Urteil vom 23.02.2012 - I ZR 231/10](../entscheidungen/i-zivilsenat/2012/i-zr-231-10.md) |
+| § ZÄMBerufsO | [BGH, Urteil vom 23.02.2012 - I ZR 231/10](../entscheidungen/i-zivilsenat/2012/i-zr-231-10.md) |

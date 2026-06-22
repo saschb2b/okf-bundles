@@ -1,7 +1,7 @@
-# vii-arz
+# VII ARZ
 
-1 Entscheidung(en).
+Bestimmung des zuständigen Gerichts (§ 36 ZPO). 1 Entscheidung(en).
 
-## 2020
+## Nach Jahr
 
-- [BGH, Beschluss vom 08.10.2020 - VII ARZ 1/20](2020/vii-arz-1-20.md)
+- [2020](2020/index.md) (1)

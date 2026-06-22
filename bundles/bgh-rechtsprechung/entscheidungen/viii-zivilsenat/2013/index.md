@@ -1,0 +1,130 @@
+# VIII. Zivilsenat – 2013
+
+126 Entscheidung(en).
+
+- [BGH, Versäumnisurteil vom 11.12.2013 - VIII ZR 235/12](viii-zr-235-12.md) — Erweist sich die Vereinbarung eines Zeitmietvertrags als unwirksam, weil die nach § 575 Abs. 1 Satz 1 BGB erforderlichen Voraussetzungen nicht erfüllt sind, kan
+- [BGH, Urteil vom 11.12.2013 - VIII ZR 41/13](viii-zr-41-13.md) — 1. Zur Fälligkeit einer - unter Außerachtlassung streitiger oder unwirksamer Preiserhöhungen ermittelten - Teilforderung des Grundversorgers (Klarstellung von B
+- [BGH, Beschluss vom 10.12.2013 - VIII ZR 174/13](viii-zr-174-13.md) — Wohnraummiete: Vom Vermieter beabsichtigte Modernisierungsmaßnahmen als nicht zu rechtfertigende Härte für den Mieter
+- [BGH, Urteil vom 04.12.2013 - VIII ZR 32/13](viii-zr-32-13.md) — In einer Mieterhöhungserklärung nach § 10 Abs. 1 Satz 2 WoBindG ist nur die Erhöhung selbst zu erläutern, nicht dagegen die Bildung der erhöhten Einzelmiete ins
+- [BGH, Urteil vom 04.12.2013 - VIII ZR 5/13](viii-zr-5-13.md) — Zu den Pflichten des Mieters nach Widerruf einer Untermieterlaubnis.
+- [BGH, Urteil vom 13.11.2013 - VIII ZR 257/12](viii-zr-257-12.md) — 1. Der Leasingnehmer, dem der Leasinggeber unter Ausschluss einer mietrechtlichen Gewährleistung die gegen den Lieferanten bestehenden kaufrechtlichen Gewährlei
+- [BGH, Urteil vom 13.11.2013 - VIII ZR 413/12](viii-zr-413-12.md) — Die Klage auf Zustimmung zur Mieterhöhung ist unzulässig, wenn ihr kein wirksames Mieterhöhungsverlangen vorausgegangen ist.
+- [BGH, Urteil vom 06.11.2013 - VIII ZR 194/12](viii-zr-194-12.md) — Der vorübergehende Einsatz von fossilen Energieträgern zur Befeuerung einer Biogasanlage führt auch unter Geltung des EEG 2009 nicht zu einem endgültigen Wegfal
+- [BGH, Urteil vom 06.11.2013 - VIII ZR 23/13](viii-zr-23-13.md) — Stromlieferungsvertrag: Rückforderungsanspruch des Kunden nach Ablauf der Abrechnungsfrist für einen "EEG-Aufschlag"
+- [BGH, Urteil vom 06.11.2013 - VIII ZR 346/12](viii-zr-346-12.md) — Zu den Anforderungen an das Vorliegen eines qualifizierten Mietspiegels (Bestätigung des Senatsurteils vom 21. November 2012, VIII ZR 46/12, NJW 2013, 775).
+- [BGH, Versäumnisurteil vom 06.11.2013 - VIII ZR 353/12](viii-zr-353-12.md) — In den Allgemeinen Geschäftsbedingungen des Online-Shops eines Möbelhauses, das auf Wunsch des Kunden auch den Aufbau der gekauften Möbel beim Kunden anbietet, 
+- [BGH, Urteil vom 06.11.2013 - VIII ZR 416/12](viii-zr-416-12.md) — Der Mieter ist gemäß §§ 535, 241 Abs. 2, § 280 Abs. 1 BGB zum Schadensersatz verpflichtet, wenn er eine in neutraler Dekoration übernommene Wohnung bei Mietende
+- [BGH, Urteil vom 23.10.2013 - VIII ZR 262/12](viii-zr-262-12.md) — 1. § 3 Nr. 1 Satz 1 EEG 2009 liegt ein weiter Anlagenbegriff zugrunde. Während nach dem (eng gefassten) Anlagenbegriff in § 3 Abs. 2 Satz 1 EEG 2004 jede techni
+- [BGH, Urteil vom 23.10.2013 - VIII ZR 402/12](viii-zr-402-12.md) — Für die Frage der Verjährung von Ersatzansprüchen des Vermieters setzt die Rückerlangung der Mietsache außer der Übertragung des Besitzes an der Wohnung vom Mie
+- [BGH, Versäumnisurteil vom 23.10.2013 - VIII ZR 423/12](viii-zr-423-12.md) — 1. Bei einem dem UN-Kaufrechtsübereinkommen (CISG) unterliegenden internationalen Warenkauf beurteilt sich ein gesetzlicher Schuldbeitritt aufgrund Firmenfortfü
+- [BGH, Beschluss vom 22.10.2013 - VIII ZR 214/13](viii-zr-214-13.md) — Zwangsräumung: Einstellung der Zwangsvollstreckung in der Revisionsinstanz; Wert der Beschwer bei Verurteilung zur Räumung
+- [BGH, Beschluss vom 22.10.2013 - VIII ZR 29/13](viii-zr-29-13.md) — Kaufvertrag über Internet-Plattform ebay: Auslegung der Allgemeinen Geschäftsbedingungen über das Recht des Anbieters zur vorzeitigen Auktionsbeendigung wegen e
+- [BGH, Urteil vom 16.10.2013 - VIII ZR 243/12](viii-zr-243-12.md) — Zu den Rechtsfolgen einer nach § 11 Abs. 3 StromGVV/GasGVV unzulässigen Verbrauchsschätzung.
+- [BGH, Urteil vom 16.10.2013 - VIII ZR 273/12](viii-zr-273-12.md) — Der Verkäufer, der vorprozessual nur das Vorhandensein von Mängeln bestreitet und aus diesem Grund die Nacherfüllung insgesamt verweigert, ist in der Regel nich
+- [BGH, Urteil vom 16.10.2013 - VIII ZR 57/13](viii-zr-57-13.md) — Durch eine mietvertragliche Bestimmung, der zu Folge der Vermieter das Mietverhältnis "nur in besonderen Ausnahmefällen unter Einhaltung der gesetzlichen Friste
+- [BGH, Urteil vom 09.10.2013 - VIII ZR 22/13](viii-zr-22-13.md) — Zu den Wirksamkeitsvoraussetzungen einer Betriebskostenabrechnung im Wohnraummietrecht.
+- [BGH, Urteil vom 09.10.2013 - VIII ZR 224/12](viii-zr-224-12.md) — 1. Einer auf einer Kunstauktion zu einem erheblichen Ausrufpreis als museal angebotene Skulptur, die entgegen einer im Auktionskatalog erfolgten Zuschreibung zu
+- [BGH, Urteil vom 09.10.2013 - VIII ZR 318/12](viii-zr-318-12.md) — Ansprüche des Käufers wegen Mangelhaftigkeit der Komponenten einer Photovoltaikanlage, die der Käufer auf dem bereits vorhandenen Dach einer Scheune angebracht 
+- [BGH, Beschluss vom 08.10.2013 - VIII ZB 13/13](viii-zb-13-13.md) — Rechtzeitige Einlegung der Berufung: Aufklärungspflicht des Gerichts bei Zweifeln am Zeitpunkt des Faxeingangs bei Gericht
+- [BGH, Beschluss vom 08.10.2013 - VIII ZB 61/12](viii-zb-61-12.md) — Zur Festsetzung der Kosten eines selbständigen Beweisverfahrens als Gerichtskosten des nachfolgenden - von einem Rechtsschutzversicherer in Prozessstandschaft f
+- [BGH, Beschluss vom 08.10.2013 - VIII ZR 254/13](viii-zr-254-13.md) — Mietrecht: Rechtliche Selbstständigkeit und gesonderte Kündbarkeit von Wohnraum- und Garagenmiete
+- [BGH, Urteil vom 25.09.2013 - VIII ZR 206/12](viii-zr-206-12.md) — 1. In einer formularmäßigen Vereinbarung über eine Gebrauchtwagengarantie, die der Fahrzeugkäufer/Garantienehmer gegen Entgelt erwirbt, ist eine Klausel, nach d
+- [BGH, Urteil vom 25.09.2013 - VIII ZR 280/12](viii-zr-280-12.md) — 1. Der Vermieter ist nicht gehindert, eine Mieterhöhung erst mit Wirkung zu einem späteren als dem in § 558b Abs. 1 BGB bestimmten Zeitraum geltend zu machen (B
+- [BGH, Urteil vom 18.09.2013 - VIII ZR 281/12](viii-zr-281-12.md) — Zur Frage einer Zurechnung des Verhaltens eines vom Leasinggeber mit der Vorbereitung des Leasingvertrags betrauten Lieferanten, der weitere Personen einschalte
+- [BGH, Urteil vom 18.09.2013 - VIII ZR 297/12](viii-zr-297-12.md) — Zu den Anforderungen an den Nachweis eines behaupteten, für den Ersteigerer einer Wohnung nachteiligen Mietvertrages, der diesem von einem nahen Angehörigen des
+- [BGH, Beschluss vom 03.09.2013 - VIII ZB 17/12](viii-zb-17-12.md) — Unzulässigkeit der Berufung: Isolierte Anfechtung einer zu Lasten eines Drittwiderbeklagten ergangenen Kostenentscheidung
+- [BGH, Beschluss vom 03.09.2013 - VIII ZR 165/13](viii-zr-165-13.md) — Wohnraum- und Garagenmietvertrag: Separate Kündigung des Mietverhältnisses über die Garage
+- [BGH, Beschluss vom 31.07.2013 - VIII ZB 18/13, VIII ZB 19/13](viii-zb-18-13-viii-zb-19-13.md) — Beginn der Berufungsbegründungsfrist: Anforderungen an die Unterschrift des Urkundsbeamten auf der zuzustellenden Urteilsausfertigung
+- [BGH, Beschluss vom 31.07.2013 - VIII ZR 149/13](viii-zr-149-13.md) — Wohnraummiete: Ordentliche Kündigung des Mieters eines Einfamilienhauses wegen unerlaubter gewerblicher Nutzung bei Angabe der Wohnadresse als Geschäftsadresse
+- [BGH, Urteil vom 31.07.2013 - VIII ZR 162/09](viii-zr-162-09.md) — 1. In Allgemeinen Geschäftsbedingungen, die ein Energieversorgungsunternehmen in Gasversorgungsverträgen mit Endverbrauchern (Normsonderkunden) verwendet, halte
+- [BGH, Urteil vom 17.07.2013 - VIII ZR 163/12](viii-zr-163-12.md) — Die Einrede aus § 320 BGB hat die Funktion, die geschuldete Gegenleistung zu erzwingen, und steht deshalb einer Partei, die deutlich gemacht hat, dass sie nicht
+- [BGH, Urteil vom 17.07.2013 - VIII ZR 308/12](viii-zr-308-12.md) — Eine Photovoltaikanlage ist auf einer baulichen Anlage im Sinne von § 32 Abs. 2 EEG 2009 angebracht, wenn die dafür in Anspruch genommene Fläche einen künstlich
+- [BGH, Urteil vom 17.07.2013 - VIII ZR 334/12](viii-zr-334-12.md) — 1. Dem Anspruch des Leasinggebers auf Minderwertausgleich bei einem Leasingvertrag mit Kilometerabrechnung kann der Leasingnehmer schadensrechtliche Einwände ni
+- [BGH, Beschluss vom 16.07.2013 - VIII ZB 62/12](viii-zb-62-12.md) — Berufungsschriftsatz: Anforderungen an die Unterschrift des Rechtsanwalts als Aussteller
+- [BGH, Beschluss vom 16.07.2013 - VIII ZR 34/13](viii-zr-34-13.md) — Zwangsvollstreckung: Einstellung der Zwangsvollstreckung aus einem für vorläufig vollstreckbar erklärten Urteil bei Übergehen eines Schutzantrags im Berufungsve
+- [BGH, Beschluss vom 16.07.2013 - VIII ZR 384/12](viii-zr-384-12.md) — Internationaler Warenkauf: Umfang der Darlegungslast bei der Geltendmachung entgangenen Gewinns
+- [BGH, Urteil vom 10.07.2013 - VIII ZR 295/12](viii-zr-295-12.md) — Die in § 54 Abs. 1 Satz 1 EEG 2009 (in der Fassung vom 25. Oktober 2008, BGBl. I S. 2074, 2087) bestimmte Frist ist keine Ausschlussfrist.
+- [BGH, Urteil vom 10.07.2013 - VIII ZR 300/12](viii-zr-300-12.md) — Die erhöhte Vergütung gemäß § 66 Abs. 1 Nr. 3 Satz 3 EEG 2009 (Kraft-Wärme-Kopplungsbonus für Strom aus Biomasse) ist gemäß § 18 Abs. 1, 2 EEG 2009 anteilig nac
+- [BGH, Urteil vom 10.07.2013 - VIII ZR 301/12](viii-zr-301-12.md) — Erneuerbare Energien: Berechnung der Einspeisevergütung eines Biomasseheizkraftwerksbetreibers unter Berücksichtigung des für Altanlagen zu zahlenden Bonus für 
+- [BGH, Urteil vom 10.07.2013 - VIII ZR 388/12](viii-zr-388-12.md) — Zur ergänzenden Vertragsauslegung im Falle der Unwirksamkeit einer Befristung des Mietvertrags.
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 1/13](viii-zr-1-13.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 169/12](viii-zr-169-12.md) — Mehrkosten eines eigenen Deckungskaufs des Käufers sind nicht als Verzögerungsschaden nach § 280 Abs. 1, 2, § 286 BGB ersatzfähig. Es handelt sich um einen an d
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 191/12](viii-zr-191-12.md) — Die Kündigung eines Mietverhältnisses, die von einem sachlichen Grund zur fristlosen Kündigung getragen ist, steht, auch wenn sie an einem formellen Mangel leid
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 263/12](viii-zr-263-12.md) — Mieterhöhung bei Wohnraum: Unverwertbarkeit eines Sachverständigengutachtens; Berücksichtigung eines einfachen Mietspiegels
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 267/12](viii-zr-267-12.md) — Mieterhöhung bei Wohnraum: Unverwertbarkeit eines Sachverständigengutachtens; Berücksichtigung eines einfachen Mietspiegels
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 269/12](viii-zr-269-12.md) — Mieterhöhung bei Wohnraum: Unverwertbarkeit eines Sachverständigengutachtens; Berücksichtigung eines einfachen Mietspiegels
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 322/12](viii-zr-322-12.md) — Der Vermieter, der einen Wärmelieferungsvertrag mit einem Contractor abgeschlossen hat, ist dem Mieter gegenüber nicht zur Vorlage der dem Contractor von dessen
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 354/12](viii-zr-354-12.md) — Zur Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten.
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 355/12](viii-zr-355-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 356/12](viii-zr-356-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 357/12](viii-zr-357-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 358/12](viii-zr-358-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 359/12](viii-zr-359-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 360/12](viii-zr-360-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 361/12](viii-zr-361-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 362/12](viii-zr-362-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 363/12](viii-zr-363-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 364/12](viii-zr-364-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 365/12](viii-zr-365-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 366/12](viii-zr-366-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 367/12](viii-zr-367-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 368/12](viii-zr-368-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 369/12](viii-zr-369-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 370/12](viii-zr-370-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 371/12](viii-zr-371-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 372/12](viii-zr-372-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 03.07.2013 - VIII ZR 373/12](viii-zr-373-12.md) — Mieterhöhung bei Reihenhausmiete: Ermittlung der ortsüblichen Vergleichsmiete durch Sachverständigengutachten
+- [BGH, Urteil vom 19.06.2013 - VIII ZR 183/12](viii-zr-183-12.md) — 1. Zur Frage, ob ein Händler verpflichtet ist, sich vor dem Weiterverkauf eines Gebrauchtwagens Kenntnis von einer beim Hersteller geführten "Reparaturhistorie"
+- [BGH, Beschluss vom 18.06.2013 - VIII ZR 2/13](viii-zr-2-13.md) — Zulassung der Revision wegen grundsätzlicher Bedeutung: Anwendung der Grundsätze über die an ein Mieterhöhungsverlangen zu stellenden Anforderungen auf den Einz
+- [BGH, Urteil vom 05.06.2013 - VIII ZR 131/12](viii-zr-131-12.md) — Die von einem Energieversorger in Gaslieferungsverträgen mit Sonderkunden verwendete Formularklausel: „Sämtliche Rechnungsbeträge sind (…) ohne Abzug im Wege de
+- [BGH, Urteil vom 05.06.2013 - VIII ZR 142/12](viii-zr-142-12.md) — Mietrecht: Stillschweigende Übernahme eines mit dem Zwangsverwalter geschlossenen Mietvertrages durch den Grundstückserwerber im Wege eines dreiseitigen Vertrag
+- [BGH, Urteil vom 05.06.2013 - VIII ZR 287/12](viii-zr-287-12.md) — 1. Bei der Beurteilung des Vorliegens eines Mangels der Mietsache ist, wenn Parteiabreden zur Beschaffenheit der Mietsache fehlen, jedenfalls die Einhaltung der
+- [BGH, Beschluss vom 04.06.2013 - VIII ZR 422/12](viii-zr-422-12.md) — Eigenbedarfskündigung: Gesonderte Kündigung des Wohnraummietvertrages und des Garagenmietvertrages
+- [BGH, Urteil vom 29.05.2013 - VIII ZR 174/12](viii-zr-174-12.md) — 1. Eine Klausel in Allgemeinen Geschäftsbedingungen (hier: eines Gebrauchtwagenkaufvertrags), mit der die gesetzliche Verjährungsfrist für die Ansprüche des Käu
+- [BGH, Urteil vom 29.05.2013 - VIII ZR 285/12](viii-zr-285-12.md) — Eine formularmäßige Klausel in einem Wohnraummietvertrag, die den Mieter verpflichtet, sich anteilig an den Kosten zum Zeitpunkt der Beendigung des Mietverhältn
+- [BGH, Beschluss vom 14.05.2013 - VIII ZB 51/12](viii-zb-51-12.md) — Rechtsbeschwerdezulassung: Bindungswirkung der Zulassungsentscheidung des unzuständigen Einzelrichters; Zulassung gegen eine Kostenentscheidung aus materiell-re
+- [BGH, Beschluss vom 14.05.2013 - VIII ZR 268/12](viii-zr-268-12.md) — Wohnraummiete: Anspruch des Vermieters auf Entfernung einer vom Mieter angebrachten Parabolantenne; Abtretbarkeit des Anspruchs auf Unterlassung des vertragswid
+- [BGH, Urteil vom 24.04.2013 - VIII ZR 265/12](viii-zr-265-12.md) — Bei einem Leasingvertrag mit Kilometerabrechnung sind für die Bemessung des mängel- oder beschädigungsbedingten Minderwertausgleichs weder der vom Leasinggeber 
+- [BGH, Urteil vom 24.04.2013 - VIII ZR 336/12](viii-zr-336-12.md) — Kfz-Leasing: Ersatz des Minderwerts im Kilometerleasingvertrag als Amortisationsausgleich; Verjährung des Minderwertsausgleichsanspruchs und Berücksichtigung de
+- [BGH, Urteil vom 24.04.2013 - VIII ZR 88/12](viii-zr-88-12.md) — Eine aus ungefähr 10.000 Verbrauchsstellen bestehende und über rund 480 Verknüpfungspunkte mit dem Verteilnetz verbundene städtische Straßenbeleuchtungsanlage s
+- [BGH, Beschluss vom 23.04.2013 - VIII ZR 260/12](viii-zr-260-12.md) — Wertersatzanspruch des Energieversorgungsunternehmens bei rechtsgrundloser Stromlieferung
+- [BGH, Urteil vom 17.04.2013 - VIII ZR 225/12](viii-zr-225-12.md) — Zur Auslegung einer Allgemeinen Geschäftsbedingung in einem Stromlieferungsvertrag über die Gewährung eines sogenannten "Aktionsbonus" für Neukunden.
+- [BGH, Urteil vom 17.04.2013 - VIII ZR 246/12](viii-zr-246-12.md) — Allgemeine Geschäftsbedingungen eines Stromversorgungsunternehmens: Auslegung einer Bonusregelung
+- [BGH, Urteil vom 17.04.2013 - VIII ZR 252/12](viii-zr-252-12.md) — Betriebskostenabrechnung für eine vermietete Eigentumswohnung: Umlage der Grundsteuer
+- [BGH, Beschluss vom 16.04.2013 - VIII ZB 67/12](viii-zb-67-12.md) — Wiedereinsetzung in den vorigen Stand: Fehlerhaftes Faxen der an sich zuverlässigen Bürokraft nach Einzelanweisung des Rechtsanwalts
+- [BGH, Beschluss vom 16.04.2013 - VIII ZR 375/11](viii-zr-375-11.md) — (Vertrag über die Herstellung eines Parkettbodens in einem Bauvorhaben: Rechtliche Einordnung des Vertragsverhältnisses; analoge Anwendung der Regelung über den
+- [BGH, Beschluss vom 16.04.2013 - VIII ZR 67/12](viii-zr-67-12.md) — Kaufvertrag: Richtlinienkonforme Auslegung des Nacherfüllungsanspruchs bei Mängeln der Kaufsache; Beschränkung auf den Verbrauchsgüterkauf
+- [BGH, Urteil vom 10.04.2013 - VIII ZR 213/12](viii-zr-213-12.md) — 1. Unter den nach der Verkehrsanschauung zu bestimmenden Begriff des "Wohnens" fallen nur solche berufliche Tätigkeiten des Mieters, die in einer nicht nach auß
+- [BGH, Urteil vom 10.04.2013 - VIII ZR 379/12](viii-zr-379-12.md) — Auf eine Sicherheit, die dem Vermieter zur Abwendung einer Kündigung wegen Zahlungsverzugs gewährt wird, findet § 551 Abs. 1, 4 BGB keine Anwendung (Fortführung
+- [BGH, Beschluss vom 09.04.2013 - VIII ZB 64/12](viii-zb-64-12.md) — Mietrechtsstreit: Anforderungen an eine Berufungsbegründungsschrift nach Verurteilung des gekündigten Wohnraummieters zur Räumung
+- [BGH, Beschluss vom 09.04.2013 - VIII ZR 245/12](viii-zr-245-12.md) — Wohnraum- und Garagenmietvertrag: Separate Kündigung des Mietverhältnisses über die Garage
+- [BGH, Urteil vom 20.03.2013 - VIII ZR 168/12](viii-zr-168-12.md) — Eine Allgemeine Geschäftsbedingung in einem Mietvertrag über Wohnräume, die den Mieter verpflichtet, "keine Hunde und Katzen zu halten" ist wegen unangemessener
+- [BGH, Urteil vom 20.03.2013 - VIII ZR 233/12](viii-zr-233-12.md) — Eine Kündigung von Wohnraum wegen Eigenbedarfs für einen Familienangehörigen ist nicht rechtsmissbräuchlich, wenn der Eigenbedarf zwar nur kurze Zeit nach Absch
+- [BGH, Beschluss vom 19.03.2013 - VIII ZB 45/12](viii-zb-45-12.md) — 1. Die Beweisregel des § 314 Satz 1 ZPO gilt auch für die im Urteil aufgeführten prozessualen Erklärungen der Parteien, die in der mündlichen Verhandlung abgege
+- [BGH, Versäumnisurteil vom 13.03.2013 - VIII ZR 172/12](viii-zr-172-12.md) — Wird ein Kraftfahrzeug, das kurz zuvor eine sogenannte "Oldtimerzulassung" erhalten hat, mit der Klausel "positive Begutachtung nach § 21c StVZO (Oldtimer) im O
+- [BGH, Urteil vom 13.03.2013 - VIII ZR 186/12](viii-zr-186-12.md) — Zur Frage des Zustandekommens einer Beschaffenheitsvereinbarung beim Verkauf eines älteren Wohnmobils unter Privatleuten im Hinblick auf eine am Fahrzeug angebr
+- [BGH, Urteil vom 13.03.2013 - VIII ZR 49/12](viii-zr-49-12.md) — Die Erhebung aller notwendigen Beweise durch den vorbereitenden Einzelrichter des Berufungsgerichts ist nicht nach § 527 Abs. 2 Satz 2 ZPO stets unzulässig. Der
+- [BGH, Beschluss vom 12.03.2013 - VIII ZB 42/12](viii-zb-42-12.md) — Verschulden des Prozessbevollmächtigten: Kontrolle der Eintragung eines Verhandlungstermins
+- [BGH, Beschluss vom 05.03.2013 - VIII ZR 137/12](viii-zr-137-12.md) — Wohnraummiete: Inhaltskontrolle für salvatorische Klauseln in einem Formularmietvertrag; Gesamtunwirksamkeit von Schönheitsreparaturklauseln
+- [BGH, Beschluss vom 05.03.2013 - VIII ZR 310/12](viii-zr-310-12.md) — Heizkosten bei Wohnraummiete: Verteilung der Darlegungs- und Beweislast bei einem Erfassungsmangel; Schätzungsermessen des Gerichts hinsichtlich des Mindestverb
+- [BGH, Urteil vom 20.02.2013 - VIII ZR 339/11](viii-zr-339-11.md) — 1. Zur Frage der Doppelkausalität bei einer Schadensverursachung durch Mängel eng zusammengehöriger Arbeitsvorgänge zur Herstellung eines Bodenbelags (Bestätigu
+- [BGH, Beschluss vom 19.02.2013 - VIII ZR 178/12](viii-zr-178-12.md) — Wohnraummietvertrag: Entsprechende Anwendung des Grundsatzes "Kauf bricht nicht Miete" bei Personenverschiedenheit von Wohnungsvermieter und veräußerndem Eigent
+- [BGH, Urteil vom 06.02.2013 - VIII ZR 184/12](viii-zr-184-12.md) — Zur Anpassung von Betriebskostenvorauszahlungen durch den Mieter im Anschluss an eine von ihm selbst vorgenommene Korrektur der Betriebskostenabrechnung.
+- [BGH, Urteil vom 06.02.2013 - VIII ZR 354/11](viii-zr-354-11.md) — 1. Aus § 3 AVBWasserV ergibt sich die grundsätzliche Verpflichtung des Anschlussnehmers, seinen gesamten Wasserbedarf im vereinbarten Umfang bei dem Wasserverso
+- [BGH, Urteil vom 06.02.2013 - VIII ZR 374/11](viii-zr-374-11.md) — 1. Ein Neuwagenkäufer, der die Entgegenahme des ihm angebotenen Fahrzeugs wegen vorhandener Karosserie- und Lackmängel ablehnt und deren Beseitigung verlangt, v
+- [BGH, Beschluss vom 05.02.2013 - VIII ZB 38/12](viii-zb-38-12.md) — Eine Berufung, die unter der Bedingung eingelegt wird, dass die zugleich beantragte Prozesskostenhilfe bewilligt wird, darf nicht als unzulässig verworfen werde
+- [BGH, Beschluss vom 05.02.2013 - VIII ZB 59/12](viii-zb-59-12.md) — Rechtsbeschwerdeverfahren: Maßgeblicher Wert für die Bewertung der Rechtsmittelbeschwer
+- [BGH, Beschluss vom 05.02.2013 - VIII ZR 276/12](viii-zr-276-12.md) — Handeln eines Vertreters ohne Vertretungsmacht: Persönliche Haftung des Fußballobmanns der Fußballabteilung eines Vereins für die Bezahlung bestellter Trikots
+- [BGH, Urteil vom 23.01.2013 - VIII ZR 140/12](viii-zr-140-12.md) — Die Frage, unter welchen Voraussetzungen bei einem gehäuften Auftreten von Mängeln ein sogenanntes "Montagsauto" vorliegt, bei dem eine (weitere) Nacherfüllung 
+- [BGH, Urteil vom 23.01.2013 - VIII ZR 143/12](viii-zr-143-12.md) — Mietkaution: Rückzahlungsanspruch gegen früheren Vermieter
+- [BGH, Urteil vom 23.01.2013 - VIII ZR 47/12](viii-zr-47-12.md) — Zum Verhältnis einer Festpreisvereinbarung zu einer sogenannten Wirtschaftsklausel in einem Energielieferungsvertrag.
+- [BGH, Urteil vom 23.01.2013 - VIII ZR 52/12](viii-zr-52-12.md) — 1. Auch in Ansehung des Art. 6 Abs. 1 der Richtlinie 93/13/EWG kann eine infolge der Unwirksamkeit einer formularmäßig vereinbarten Preisänderungsklausel nach §
+- [BGH, Urteil vom 23.01.2013 - VIII ZR 68/12](viii-zr-68-12.md) — Wird das Mietverhältnis nach dem Tod des Mieters gemäß § 564 Satz 1 BGB mit dem Erben fortgesetzt, sind die nach dem Erbfall fällig werdenden Forderungen jedenf
+- [BGH, Urteil vom 23.01.2013 - VIII ZR 80/12](viii-zr-80-12.md) — 1. Auch in Ansehung des Art. 6 Abs. 1 der Richtlinie 93/13/EWG kann eine infolge der Unwirksamkeit einer formularmäßig vereinbarten Preisänderungsklausel nach §
+- [BGH, Beschluss vom 22.01.2013 - VIII ZB 46/12](viii-zb-46-12.md) — Eine fehlerhafte oder unzureichende Bezeichnung des Rechtsmittelklägers in der Rechtmittelschrift ist dem Rechtsanwalt dann nicht als - seinem Mandanten zureche
+- [BGH, Beschluss vom 22.01.2013 - VIII ZR 104/12](viii-zr-104-12.md) — Revision: Beschwer bei Verurteilung zur Wiedereinräumung des Mietbesitzes an einer Gartenfläche
+- [BGH, Beschluss vom 22.01.2013 - VIII ZR 329/11](viii-zr-329-11.md) — Wohnraummiete: Haltung eines Bearded Collie in der Mietwohnung
+- [BGH, Beschluss vom 15.01.2013 - VIII ZR 411/12](viii-zr-411-12.md) — Wohnraummiete: Mietminderung bei Schadstoffbelastung durch mangelhaften Parkettkleber
+- [BGH, Urteil vom 09.01.2013 - VIII ZR 94/12](viii-zr-94-12.md) — Zur Zulässigkeit einer "Saldoklage", mit der Mietrückstände aus einem mehrere Jahre umfassenden Zeitraum geltend gemacht werden.
+- [BGH, Beschluss vom 08.01.2013 - VIII ZR 180/12](viii-zr-180-12.md) — Wohnraummietvertrag: Betriebskostenabrechnung bei Leerstand einzelner Wohnungen
+- [BGH, Beschluss vom 08.01.2013 - VIII ZR 344/12](viii-zr-344-12.md) — Anspruchsverjährung: Neubeginn der Verjährung bei Anerkenntnis vor Verjährungsbeginn

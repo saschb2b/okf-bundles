@@ -1,0 +1,113 @@
+# 3. Strafsenat – 2012
+
+109 Entscheidung(en).
+
+- [BGH, Urteil vom 20.12.2012 - 3 StR 117/12](3-str-117-12.md) — Zur Verwertbarkeit der im Zusammenhang mit einer molekulargenetischen Reihenuntersuchung gewonnenen Erkenntnis, dass der Verursacher der bei der Tat gelegten DN
+- [BGH, Urteil vom 20.12.2012 - 3 StR 377/12](3-str-377-12.md) — Unterbringung in einer Entziehungsanstalt: Erfolgsaussichten der Therapie; Bemessung der erforderlichen Therapiedauer
+- [BGH, Urteil vom 20.12.2012 - 3 StR 407/12](3-str-407-12.md) — Bei einem auf spätere Veräußerung zielenden Anbau von Cannabispflanzen ist für die Abgrenzung des Handeltreibens mit Betäubungsmitteln (§ 29 Abs. 1 Satz 1 Nr. 1
+- [BGH, Urteil vom 20.12.2012 - 3 StR 426/12](3-str-426-12.md) — Strafzumessung bei Mord: Anforderungen an die Begründung einer Strafmilderung für Aufklärungshilfe
+- [BGH, Beschluss vom 29.11.2012 - 3 StR 293/12](3-str-293-12.md) — Versuch einer Brandstiftung mit Todesfolge: Begehung durch Unterlassen; Garantenstellung aufgrund Ingerenz
+- [BGH, Beschluss vom 27.11.2012 - 3 StR 433/12](3-str-433-12.md) — Beihilfe oder Begünstigung: Eintritt der Beendigung bei einem Raubdelikt
+- [BGH, Beschluss vom 27.11.2012 - 3 StR 439/12](3-str-439-12.md) — Jugendstrafverfahren: Begründungserfordernis bei Verhängung der gleichen Jugendstrafe nach Zurückverweisung
+- [BGH, Beschluss vom 15.11.2012 - 3 StR 199/12](3-str-199-12.md) — Zur Strafbarkeit wegen Bankrotts in Fällen der sog. Firmenbestattung.
+- [BGH, Beschluss vom 15.11.2012 - 3 StR 239/12](3-str-239-12.md) — Strafverfahren: Richterablehnung mit einer völlig ungeeigneten Begründung; Verletzung des rechtlichen Gehörs durch Verwerfung der Revision
+- [BGH, Beschluss vom 15.11.2012 - 3 StR 295/12](3-str-295-12.md) — Strafverfahren wegen versuchten Verstoßes gegen das Außenwirtschaftsgesetz: Verbotsirrtum bei Irrtum über Inhalt und Reichweite einer Ausfüllungsnorm; Nichtanwe
+- [BGH, Beschluss vom 14.11.2012 - 3 StR 335/12](3-str-335-12.md) — Besetzung der Strafkammer: Änderung nach Beginn der Hauptverhandlung
+- [BGH, Beschluss vom 14.11.2012 - 3 StR 372/12](3-str-372-12.md) — Verletzung gewerberechtlicher Vorschriften: Strafbarkeit der beharrlichen Zuwiderhandlung gegen eine Gewerbeuntersagung
+- [BGH, Beschluss vom 14.11.2012 - 3 StR 403/12](3-str-403-12.md) — Bandentaten: Zurechnung der von anderen Bandenmitgliedern begangenen Einzelstraftaten; Abgrenzung zwischen Mittäterschaft und Beihilfe
+- [BGH, Beschluss vom 13.11.2012 - 3 StR 364/12](3-str-364-12.md) — Hehlerei: Begriff des Sich-Verschaffens; Voraussetzungen des subjektiven Tatbestands
+- [BGH, Beschluss vom 13.11.2012 - 3 StR 370/12](3-str-370-12.md) — Sexualdelikt: Sexueller Missbrauch eines Kindes bei Vergewaltigung der Kindesmutter in Anwesenheit des Kindes
+- [BGH, Beschluss vom 13.11.2012 - 3 StR 422/12](3-str-422-12.md) — Strafverfahren wegen besonders schweren Raubs und Erpressung: Verwendung eines gefährlichen Werkzeugs bei der Tat; finale Verknüpfung von Nötigung und Wegnahme
+- [BGH, Urteil vom 18.10.2012 - 3 StR 208/12](3-str-208-12.md) — Besorgnis der Befangenheit im Strafverfahren: Belastungen auf persönlicher Ebene zwischen einem Richter und Verfahrensbeteiligten
+- [BGH, Beschluss vom 16.10.2012 - 3 StR 385/12](3-str-385-12.md) — Vergewaltigung: Ausnutzung früher zu anderen Zwecken angewendeter Gewalt
+- [BGH, Beschluss vom 04.10.2012 - 3 StR 207/12](3-str-207-12.md) — Einstellung des Verfahrens hinsichtlich einer unwesentlichen Nebenstraftat: Zulässigkeit der Einziehung von Beziehungsgegenständen
+- [BGH, Beschluss vom 02.10.2012 - 3 StR 366/12](3-str-366-12.md) — Ablehnung von Beweisanträgen im Strafverfahren: Nebeneinander der Ablehnungsgründe der Wahrunterstellung und der Bedeutungslosigkeit
+- [BGH, Urteil vom 20.09.2012 - 3 StR 140/12](3-str-140-12.md) — Versuchter Totschlag: Feststellung des bedingten Tötungsvorsatzes bei einer Vielzahl von Messerstichen
+- [BGH, Urteil vom 20.09.2012 - 3 StR 158/12](3-str-158-12.md) — Versuchter Totschlag: Feststellung des bedingten Tötungsvorsatzes bei einer Vielzahl von Messerstichen
+- [BGH, Beschluss vom 20.09.2012 - 3 StR 220/12](3-str-220-12.md) — Nachträgliche Gesamtstrafenbildung: Fehlerhafte Einbeziehung früherer Verurteilungen; Nachholung der Festsetzung der Einzelstrafe durch das Revisionsgericht; Au
+- [BGH, Beschluss vom 20.09.2012 - 3 StR 314/12](3-str-314-12.md) — Unterstützung einer ausländischen terroristischen Vereinigung: Verbreitung eines Enthauptungsvideos der Al Qaida im Internet
+- [BGH, Beschluss vom 20.09.2012 - 3 StR 367/12](3-str-367-12.md) — Strafverfahren wegen versuchter gefährlicher Körperverletzung: Strafbefreiender Rücktritt vom unbeendeten Versuch bei außertatbestandlicher Zielerreichung
+- [BGH, Beschluss vom 18.09.2012 - 3 StR 302/12](3-str-302-12.md) — Strafverfahren: Widerspruch zwischen Urteilsinhalt und Inhalt des Beschlusses über die Ablehnung eines Beweisantrages wegen Bedeutungslosigkeit
+- [BGH, Beschluss vom 18.09.2012 - 3 StR 348/12](3-str-348-12.md) — Hauptverhandlung in Strafsachen: Verteidigungsbeschränkung bei Zerreißen einer schriftlichen Erklärung des Angeklagten durch den Vorsitzenden; Ingewahrsamnahme 
+- [BGH, Urteil vom 06.09.2012 - 3 StR 171/12](3-str-171-12.md) — Mordmerkmal der Heimtücke: Arglosigkeit des Opfers trotz vorausgehender verbaler Attacke und früherer Übergriffe
+- [BGH, Beschluss vom 04.09.2012 - 3 StR 337/12](3-str-337-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Anhaltspunkte für die Annahme einer Beihilfe
+- [BGH, Beschluss vom 04.09.2012 - 3 StR 352/12](3-str-352-12.md) — Revision im Strafverfahren: Neufestsetzung der Dauer des Vorwegvollzugs trotz Ausnahme der Unterbringungsanordnung vom Revisionsangriff
+- [BGH, Beschluss vom 28.08.2012 - 3 StR 297/12](3-str-297-12.md) — Besonders schwerer Fall des Betrugs: Herbeiführung eines Vermögensverlustes großen Ausmaßes bei Betrugsserie
+- [BGH, Beschluss vom 28.08.2012 - 3 StR 305/12](3-str-305-12.md) — Strafaussetzung zur Bewährung: Bedeutung einer positiven Sozialprognose für die Aussetzung einer Freiheitsstrafe von mehr als einem Jahr
+- [BGH, Beschluss vom 28.08.2012 - 3 StR 309/12](3-str-309-12.md) — Ein Gutachten zum Bestehen eines Hanges im Sinne von § 66 StGB und einer darauf beruhenden Gefährlichkeit eines Angeklagten ist kein "Gutachten über den Geistes
+- [BGH, Beschluss vom 28.08.2012 - 3 StR 341/12](3-str-341-12.md) — Anordnung von Wertersatzverfall: Prüfungsreihenfolge im Rahmen der Härteregelung
+- [BGH, Urteil vom 16.08.2012 - 3 StR 180/12](3-str-180-12.md) — Revisionsgerichtliche Nachprüfung des Strafurteils: Anforderungen an die Beweiswürdigung bei Freispruch vom Anklagevorwurf des Mordes; Anwendbarkeit des Grundsa
+- [BGH, Urteil vom 16.08.2012 - 3 StR 237/12](3-str-237-12.md) — Strafverfahren wegen Körperverletzung mit Todesfolge: Abgrenzung zwischen bedingtem Tötungsvorsatz und Körperverletzungsvorsatz bei gefährlicher Gewalthandlung 
+- [BGH, Beschluss vom 14.08.2012 - 3 StR 274/12](3-str-274-12.md) — Betäubungsmittelhandel: Abgrenzung zwischen Mittäterschaft und Beihilfe bei Vermittlung von Rauschgiftgeschäften
+- [BGH, Urteil vom 02.08.2012 - 3 StR 132/12](3-str-132-12.md) — Strafverfahren wegen Totschlags: Anforderungen an die Strafzumessungserwägungen im Urteil; Gewicht der Milderungsgründe bei zweifacher Milderung des Regelstrafr
+- [BGH, Beschluss vom 02.08.2012 - 3 StR 209/12](3-str-209-12.md) — Jugendstrafverfahren wegen besonders schwerer räuberischer Erpressung: Bemessung der Jugendstrafe bei festgestellter Schwere der Schuld
+- [BGH, Beschluss vom 02.08.2012 - 3 StR 216/12](3-str-216-12.md) — Strafrahmenmilderung bei gefährlicher Körperverletzung: Verminderung der Schuldfähigkeit bei Alkoholrausch durch Alkoholkrankheit oder Alkoholüberempfindlichkei
+- [BGH, Beschluss vom 02.08.2012 - 3 StR 259/12](3-str-259-12.md) — Schuldspruch im Strafverfahren wegen besonders schwerer räuberischer Erpressung: Abgrenzung der verminderten Schuldfähigkeit von der Schuldunfähigkeit wegen see
+- [BGH, Beschluss vom 02.08.2012 - 3 StR 276/12](3-str-276-12.md) — Schadenswiedergutmachung: Vergleich im Adhäsionsverfahren
+- [BGH, Beschluss vom 31.07.2012 - 3 StR 192/12](3-str-192-12.md) — Unterbringung in der Sicherungsverwahrung: Reihenfolge der Vorverurteilungen
+- [BGH, Beschluss vom 31.07.2012 - 3 StR 231/12](3-str-231-12.md) — Schwerer Raubes in mittelbarer Täterschaft
+- [BGH, Beschluss vom 31.07.2012 - 3 StR 232/12](3-str-232-12.md) — Strafverfahren wegen Raubs: Finale Verknüpfung von Nötigung und Wegnahme; Urteilsfeststellungen zur Einsicht des Täters bei Minderung der Einsichts- und Steueru
+- [BGH, Beschluss vom 19.07.2012 - 3 StR 218/12](3-str-218-12.md) — Werben um Mitglieder oder Unterstützer für eine terroristische Vereinigung: Erforderlichkeit eines Organisationsbezugs; Abgrenzung zur bloßen Sympathiewerbung
+- [BGH, Beschluss vom 17.07.2012 - 3 StR 238/12](3-str-238-12.md) — Jugendstrafrecht: Voraussetzungen des Vorliegens schädlicher Neigungen; Höhe der Jugendstrafe
+- [BGH, Urteil vom 05.07.2012 - 3 StR 119/12](3-str-119-12.md) — Strafverfahren wegen Bandendiebstahls: Mittäterschaft eines nicht an der unmittelbaren Tatausführung Beteiligten
+- [BGH, Beschluss vom 05.07.2012 - 3 StR 210/12](3-str-210-12.md) — Kurier eines Drogengeschäfts: Einziehung oder Verfall von "Dealgeld"
+- [BGH, Beschluss vom 19.06.2012 - 3 StR 190/12](3-str-190-12.md) — Strafverfahren: Ermächtigung des Verteidigers zur Rechtsmittelrücknahme
+- [BGH, Beschluss vom 19.06.2012 - 3 StR 194/12](3-str-194-12.md) — Wiedereinsetzung gegen die Versäumung einer Rechtsmittelfrist: Bewusstes Nichtgebrauchmachen von einem befristeten Rechtsbehelf im Strafverfahren
+- [BGH, Beschluss vom 19.06.2012 - 3 StR 201/12](3-str-201-12.md) — Unterbringung in einer Entziehungsanstalt: Vorrang vor der Zurückstellung der Strafvollstreckung
+- [BGH, Beschluss vom 19.06.2012 - 3 StR 206/12](3-str-206-12.md) — Gefährliche Körperverletzung: Strafmilderung bei Tatprovokation
+- [BGH, Beschluss vom 12.06.2012 - 3 StR 141/12](3-str-141-12.md) — Strafzumessung: Berücksichtigung von tilgungsreifen Eintragungen im Erziehungsregister
+- [BGH, Beschluss vom 12.06.2012 - 3 StR 166/12](3-str-166-12.md) — Räuberische Erpressung: Abgrenzung zwischen Mittäterschaft und Beihilfe
+- [BGH, Beschluss vom 12.06.2012 - 3 StR 186/12](3-str-186-12.md) — Schwerer Raub: Pfefferspray als gefährliches Werkzeug
+- [BGH, Beschluss vom 31.05.2012 - 3 StR 178/12](3-str-178-12.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Beihilfe durch Nichtstun und durch Begleitung des Haupttäters
+- [BGH, Beschluss vom 29.05.2012 - 3 StR 156/12](3-str-156-12.md) — Revisionsrüge im Strafverfahren: Rüge der Unzulässigkeit der Bezugnahme auf Feststellungen zum Einzelstrafen- und Gesamtstrafenausspruch in einem aufgehobenen U
+- [BGH, Beschluss vom 16.05.2012 - 3 StR 33/12](3-str-33-12.md) — Strafbarkeit des Leugnens des Holocaust und der Verwendung nationalsozialistischer Symbole in Schreiben an Gerichte und Behörden; Einsichtsfähigkeit von Wahnkra
+- [BGH, Beschluss vom 15.05.2012 - 3 StR 118/11](3-str-118-11.md) — Die Strafbarkeit des Geschäftsführers einer Gesellschaft mit beschränkter Haftung wegen Bankrotts setzt nicht voraus, dass die Tathandlung im Interesse der Gese
+- [BGH, Beschluss vom 15.05.2012 - 3 StR 121/12](3-str-121-12.md) — Strafzumessung bei Betrug: Berücksichtigung der Fortführung eines Zivilprozesses nach Rechtskraft eines strafrechtlichen Schuldspruchs
+- [BGH, Beschluss vom 10.05.2012 - 3 StR 68/12](3-str-68-12.md) — Strafurteil: Mittäterschaft bei gefährlicher Körperverletzung trotz Abwesenheit; finale Verknüpfung zwischen Nötigungshandlung und Wegnahme beim Raub
+- [BGH, Beschluss vom 08.05.2012 - 3 StR 72/12](3-str-72-12.md) — Beihilfe zum Versuch bei Beschränkung des Tatbeitrags des Gehilfen auf einen versuchten Teilakt der durch andere Teilakte vollendeten Haupttat
+- [BGH, Beschluss vom 08.05.2012 - 3 StR 97/12](3-str-97-12.md) — Besonders schwerer Raub: Offenes Mitsichführen eines Messers ohne zweckgerichteten Einsatz
+- [BGH, Beschluss vom 08.05.2012 - 3 StR 98/12](3-str-98-12.md) — Schwerer Raub: Begriff des Verwendens eines anderen gefährlichen Werkzeugs
+- [BGH, Beschluss vom 03.05.2012 - 3 StR 109/12](3-str-109-12.md) — Strafverfahren wegen bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Revisionsentscheidung bei Strafklageverbrauch nach Verurteilung w
+- [BGH, Urteil vom 03.05.2012 - 3 StR 46/12](3-str-46-12.md) — Beweiswürdigung im Strafverfahren: Wiedergabe der Ergebnisse des Sachverständigengutachtens im Urteil im Falle der an ein PRC-Verfahren anknüpfenden Wahrscheinl
+- [BGH, Beschluss vom 02.05.2012 - 3 StR 146/12](3-str-146-12.md) — Gefährliche Körperverletzung: Ausnutzung eines Überraschungsmoments bei Angriff von hinten als hinterlistiger Überfall
+- [BGH, Beschluss vom 02.05.2012 - 3 StR 465/11](3-str-465-11.md) — Rechtsfolgenausspruch im Strafurteil gegen einen betäubungsmittelabhängigen Täter: Wechselwirkung zwischen Strafausspruch und Maßregelanordnung
+- [BGH, Beschluss vom 17.04.2012 - 3 StR 131/12](3-str-131-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Mengenzurechnung und Mittäterschaft bei Bildung einer Einkaufsgemeinschaft
+- [BGH, Beschluss vom 17.04.2012 - 3 StR 65/12](3-str-65-12.md) — Eine hinreichend konkrete Erfolgsaussicht der Unterbringung in einer Entziehungsanstalt (§ 64 Satz 2 StGB) besteht nicht, wenn die voraussichtlich notwendige Da
+- [BGH, Beschluss vom 11.04.2012 - 3 StR 108/12](3-str-108-12.md) — Beweisaufnahme im Strafverfahren: Verwertung eines richterlichen Vernehmungsprotokolls als ergänzendes Beweismittel nach Zeugnisverweigerung des vernommenen Zeu
+- [BGH, Urteil vom 29.03.2012 - 3 StR 422/11](3-str-422-11.md) — Strafverfahren wegen gefährlicher Körperverletzung: Natürliche Handlungseinheit bei Verletzungshandlungen gegen mehrere Personen; Verfahrensfehler im Zusammenha
+- [BGH, Urteil vom 29.03.2012 - 3 StR 455/11](3-str-455-11.md) — Ablehnung eines Strafrichters: Befangenheitsbesorgnis wegen der Verhandlungsführung des vorsitzenden Richters
+- [BGH, Beschluss vom 27.03.2012 - 3 StR 31/12](3-str-31-12.md) — Strafverfahren: Wahrunterstellung einer Beweistatsache und Hinweispflicht bei Verwertung zum Nachteil des Angeklagten
+- [BGH, Beschluss vom 27.03.2012 - 3 StR 47/12](3-str-47-12.md) — Strafverfahren: Anforderungen an die Ablehnung eines Beweisantrags wegen Bedeutungslosigkeit; Glaubhaftigkeit von Aussagen kindlicher Zeugen bei sexuellem Missb
+- [BGH, Beschluss vom 27.03.2012 - 3 StR 472/11](3-str-472-11.md) — Strafurteil wegen Betruges gegenüber einer Personenmehrheit
+- [BGH, Beschluss vom 27.03.2012 - 3 StR 49/12](3-str-49-12.md) — Strafverfahren wegen unerlaubten Handeltreibens mit Betäubungsmitteln: Beweiswürdigung nach Absehen von der Verfolgung unwesentlicher Nebenstraftaten
+- [BGH, Beschluss vom 27.03.2012 - 3 StR 63/12](3-str-63-12.md) — Täterschaft und Teilnahme: Abgrenzung zwischen Mittäterschaft und Beihilfe
+- [BGH, Beschluss vom 27.03.2012 - 3 StR 64/12](3-str-64-12.md) — Betäubungsmitteldelikt: Handeltreiben mit Betäubungsmitteln bei Überlassung von Kokain zum Einkaufspreis
+- [BGH, Beschluss vom 27.03.2012 - 3 StR 83/12](3-str-83-12.md) — Strafzumessung: Strafmilderung bei Aufklärungshilfe trotz Leugnung des eigenen Tatbeitrages
+- [BGH, Beschluss vom 12.03.2012 - 3 StR 42/12](3-str-42-12.md) — Jugendstrafverfahren: Fehlerhaftes Unterbleiben der Prüfung der Unterbringungsvoraussetzungen und des Vorrangs der Maßregelanordnung bei Verurteilung zu einer J
+- [BGH, Beschluss vom 06.03.2012 - 3 StR 41/12](3-str-41-12.md) — Beweiswürdigung im Strafverfahren: Würdigung des Ergebnisses einer DNA-Untersuchung von Tatortspuren
+- [BGH, Urteil vom 01.03.2012 - 3 StR 425/11](3-str-425-11.md) — Mord: Voraussetzungen der niedrigen Beweggründe und der Arg- und Wehrlosigkeit beim Übergang von Körperverletzungs- zu Tötungshandlungen
+- [BGH, Urteil vom 01.03.2012 - 3 StR 434/11](3-str-434-11.md) — Ladendiebstahl: Zueignungsabsicht eines Täters mit einer organischen Persönlichkeitsstörung; Manifestation der Zueignungsabsicht durch Verlassen des Einkaufsmar
+- [BGH, Beschluss vom 28.02.2012 - 3 StR 14/12](3-str-14-12.md) — Jugendstrafe gegen einen Heranwachsenden wegen besonders schwerer Erpressung: Begründung der Strafhöhe bei Verhängung wegen Schwere der Schuld
+- [BGH, Beschluss vom 28.02.2012 - 3 StR 15/12](3-str-15-12.md) — Jugendstrafe: Berücksichtigung des Erziehungsgedankens bei der Strafzumessung
+- [BGH, Beschluss vom 28.02.2012 - 3 StR 17/12](3-str-17-12.md) — Totschlag: Urteilsfeststellungen zum voluntativen Vorsatzelement bei gefährlicher Gewaltanwendung im affektiven Ausnahmezustand eines vermindert schuldfähigen A
+- [BGH, Beschluss vom 28.02.2012 - 3 StR 435/11](3-str-435-11.md) — Beihilfe zum Computerbetrug: Anforderungen an den Gehilfenvorsatz beim "Phishing"
+- [BGH, Beschluss vom 16.02.2012 - 3 StR 13/12](3-str-13-12.md) — Beleidigung: Sexuell motivierte Tat als ehrverletzende Kundgabe von Missachtung
+- [BGH, Urteil vom 16.02.2012 - 3 StR 243/11](3-str-243-11.md) — Zur Rädelsführerschaft in einer ausländischen terroristischen Vereinigung.
+- [BGH, Urteil vom 16.02.2012 - 3 StR 346/11](3-str-346-11.md) — Mordmerkmal der Heimtücke: Anforderungen an die Arglosigkeit des Opfers
+- [BGH, Beschluss vom 16.02.2012 - 3 StR 462/11](3-str-462-11.md) — Rechtsfehlerhafte Verhandlung in Abwesenheit eines Mitangeklagten in einem Verfahren wegen mittäterschaftlichen Betäubungsmittelhandels
+- [BGH, Beschluss vom 16.02.2012 - 3 StR 470/11](3-str-470-11.md) — Strafzumessung: Berücksichtigung der Einziehung eines Pkw
+- [BGH, Beschluss vom 14.02.2012 - 3 StR 392/11](3-str-392-11.md) — Zueignungsabsicht beim Raub: Gewaltsame Wegnahme eines Mobiltelefons zwecks Durchsuchens und Kopierens von Bilddateien als Raub oder räuberische Erpressung
+- [BGH, Beschluss vom 14.02.2012 - 3 StR 446/11](3-str-446-11.md) — Mord: Tatbeteiligung als Mittäter oder Gehilfe
+- [BGH, Beschluss vom 14.02.2012 - 3 StR 7/12](3-str-7-12.md) — Strafverfahren: Revisionsbeschränkung auf die Dauer des Vorwegvollzugs
+- [BGH, Beschluss vom 07.02.2012 - 3 StR 335/11](3-str-335-11.md) — Strafverfahren wegen Bildung einer kriminellen Vereinigung: Umfang der richterlichen Sachverhaltsaufklärungspflicht bei einem geständigen Angeklagten und/oder b
+- [BGH, Urteil vom 02.02.2012 - 3 StR 321/11](3-str-321-11.md) — Betäubungsmitteldelikt: Strafbarkeit der Abgabe von Betäubungsmitteln zur Substitutionsbehandlung; Bewertungseinheit beim Handeltreiben mit Betäubungsmitteln
+- [BGH, Urteil vom 02.02.2012 - 3 StR 385/11](3-str-385-11.md) — Erpresserischer Menschenraub: Voraussetzungen der Ausnutzungsvariante
+- [BGH, Urteil vom 02.02.2012 - 3 StR 401/11](3-str-401-11.md) — Strafverfahren: Scheinverhandlung zur Wahrung der Unterbrechungsfrist
+- [BGH, Beschluss vom 31.01.2012 - 3 StR 285/11](3-str-285-11.md) — Strafverfahren wegen Betruges: Umfang der richterlichen Sachverhaltsaufklärungspflicht bei einem Geständnis des Angeklagten und einer Verfahrensabsprache
+- [BGH, Beschluss vom 31.01.2012 - 3 StR 453/11](3-str-453-11.md) — Strafzumessung: Strafschärfende Berücksichtigung der Art der Tatausführung bei verminderter Schuldfähigkeit; Strafverschärfende Berücksichtigung des unfreiwilli
+- [BGH, Urteil vom 19.01.2012 - 3 StR 343/11](3-str-343-11.md) — Hat der Täter in Teil I Abschnitt A der Ausfuhrliste (Anlage AL zur Außenwirtschaftsverordnung) genannte Güter ohne die erforderliche Genehmigung ausgeführt, hä
+- [BGH, Urteil vom 19.01.2012 - 3 StR 413/11](3-str-413-11.md) — Revisionsgerichtliche Nachprüfung der Strafzumessung: Berücksichtigung einer in den Strafzumessungsgründen nicht ausdrücklich wiederholten Erwägung; unvertretba
+- [BGH, Beschluss vom 17.01.2012 - 3 StR 449/11](3-str-449-11.md) — Gefährliche Körperverletzung durch Verabreichung von K.O.-Tropfen: Beendigung der Tat
+- [BGH, Beschluss vom 10.01.2012 - 3 StR 370/11](3-str-370-11.md) — Nachträgliche Bildung der Gesamtstrafe: Zäsurwirkung einer früheren Verurteilung
+- [BGH, Beschluss vom 10.01.2012 - 3 StR 400/11](3-str-400-11.md) — Richterablehnung im Strafverfahren: Abtrennung des wegen bandenmäßigen Betäubungsmittelhandels geführten Verfahrens gegen einen geständigen Mitangeklagten; Verm
+- [BGH, Beschluss vom 10.01.2012 - 3 StR 408/11](3-str-408-11.md) — Strafurteil: Berichtigung wegen eines Zählfehlers bei Betrugstaten

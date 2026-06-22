@@ -1,0 +1,6 @@
+# BLW – 2020
+
+2 Entscheidung(en).
+
+- [BGH, Beschluss vom 07.10.2020 - BLw 1/19](blw-1-19.md) — 1. Das Ausgangsgericht (hier: Landwirtschaftsgericht) darf einer Beschwerde gemäß § 68 Abs. 1 Satz 1 FamFG nur abhelfen, wenn diese statthaft und auch im Übrige
+- [BGH, Beschluss vom 08.05.2020 - BLw 2/18](blw-2-18.md) — 1. Der von einem anerkannten Naturschutzverband verfolgte nichtlandwirtschaftliche Zweck kann den aus dem Erwerbsinteresse eines Landwirts begründeten Versagung

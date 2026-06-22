@@ -1,0 +1,56 @@
+# I. Zivilsenat – 2005
+
+52 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.12.2005 - I ZB 32/04](i-zb-32-04.md) — BGH, Beschluss vom 15.12.2005 - I ZB 32/04
+- [BGH, Beschluss vom 15.12.2005 - I ZB 33/04](i-zb-33-04.md) — BGH, Beschluss vom 15.12.2005 - I ZB 33/04
+- [BGH, Beschluss vom 15.12.2005 - I ZB 34/04](i-zb-34-04.md) — BGH, Beschluss vom 15.12.2005 - I ZB 34/04
+- [BGH, Beschluss vom 15.12.2005 - I ZB 63/05](i-zb-63-05.md) — BGH, Beschluss vom 15.12.2005 - I ZB 63/05
+- [BGH, Urteil vom 15.12.2005 - I ZR 9/03](i-zr-9-03.md) — Tatbestand:
+- [BGH, Urteil vom 01.12.2005 - I ZR 108/04](i-zr-108-04.md) — Tatbestand:
+- [BGH, Urteil vom 01.12.2005 - I ZR 265/03](i-zr-265-03.md) — Absehens von einem Hinweis auf die Gefahr eines ungewöhnlich hohen Schadens (§ 254 Abs. 2 Satz 1 BGB) setzt nicht die Feststellung voraus, d
+- [BGH, Beschluss vom 17.11.2005 - I ZB 12/04](i-zb-12-04.md) — BGH, Beschluss vom 17.11.2005 - I ZB 12/04
+- [BGH, Beschluss vom 17.11.2005 - I ZB 45/05](i-zb-45-05.md) — BGH, Beschluss vom 17.11.2005 - I ZB 45/05
+- [BGH, Beschluss vom 17.11.2005 - I ZB 48/05](i-zb-48-05.md) — BGH, Beschluss vom 17.11.2005 - I ZB 48/05
+- [BGH, Urteil vom 17.11.2005 - I ZR 300/02](i-zr-300-02.md) — der höheren Kostenbelastung gegenüber einer streitgenössischen Inanspruchnahme auf der Beklagtenseite rechtsmissbräuchlich sein. Dass die zu
+- [BGH, Urteil vom 03.11.2005 - I ZR 53/05](i-zr-53-05.md) — BGH, Urteil vom 03.11.2005 - I ZR 53/05
+- [BGH, Urteil vom 20.10.2005 - I ZR 18/03](i-zr-18-03.md) — Tatbestand:
+- [BGH, Beschluss vom 06.10.2005 - I ZB 37/05](i-zb-37-05.md) — BGH, Beschluss vom 06.10.2005 - I ZB 37/05
+- [BGH, Urteil vom 06.10.2005 - I ZR 266/02](i-zr-266-02.md) — BGH, Urteil vom 06.10.2005 - I ZR 266/02
+- [BGH, Urteil vom 06.10.2005 - I ZR 267/02](i-zr-267-02.md) — Tatbestand:
+- [BGH, Beschluss vom 22.09.2005 - I ZB 4/05](i-zb-4-05.md) — BGH, Beschluss vom 22.09.2005 - I ZB 4/05
+- [BGH, Beschluss vom 22.09.2005 - I ZB 40/03](i-zb-40-03.md) — BGH, Beschluss vom 22.09.2005 - I ZB 40/03
+- [BGH, Urteil vom 22.09.2005 - I ZR 188/02](i-zr-188-02.md) — BGH, Urteil vom 22.09.2005 - I ZR 188/02
+- [BGH, Urteil vom 22.09.2005 - I ZR 28/03](i-zr-28-03.md) — Tatbestand:
+- [BGH, Urteil vom 22.09.2005 - I ZR 55/02](i-zr-55-02.md) — BGH, Urteil vom 22.09.2005 - I ZR 55/02
+- [BGH, Urteil vom 22.09.2005 - I ZR 67/03](i-zr-67-03.md) — Tatbestand:
+- [BGH, Urteil vom 15.09.2005 - I ZR 151/02](i-zr-151-02.md) — vermeidbarer Herkunftstäuschung nach §§ 3, 4 Nr. 9 lit. a UWG werden nicht dadurch ausgeschlossen, dass für das Erzeugnis Schutz für ein nic
+- [BGH, Beschluss vom 21.07.2005 - I ZR 172/04](i-zr-172-04.md) — dieser beiden Bestandteile als wettbewerbswidriges Gewinnspiel untersagt ist -, sich die Revision des Beschwerdeführers aber nur gegen den v
+- [BGH, Urteil vom 21.07.2005 - I ZR 290/02](i-zr-290-02.md) — BGH, Urteil vom 21.07.2005 - I ZR 290/02
+- [BGH, Urteil vom 21.07.2005 - I ZR 293/02](i-zr-293-02.md) — Tatbestand:
+- [BGH, Urteil vom 21.07.2005 - I ZR 318/02](i-zr-318-02.md) — Tatbestand:
+- [BGH, Beschluss vom 07.07.2005 - I ZB 7/05](i-zb-7-05.md) — BGH, Beschluss vom 07.07.2005 - I ZB 7/05
+- [BGH, Urteil vom 09.06.2005 - I ZR 135/02](i-zr-135-02.md) — Tatbestand:
+- [BGH, Urteil vom 09.06.2005 - I ZR 279/02](i-zr-279-02.md) — BGH, Urteil vom 09.06.2005 - I ZR 279/02
+- [BGH, Urteil vom 02.06.2005 - I ZR 215/02](i-zr-215-02.md) — BGH, Urteil vom 02.06.2005 - I ZR 215/02
+- [BGH, Beschluss vom 02.06.2005 - I ZR 246/02](i-zr-246-02.md) — BGH, Beschluss vom 02.06.2005 - I ZR 246/02
+- [BGH, Urteil vom 02.06.2005 - I ZR 252/02](i-zr-252-02.md) — Tatbestand:
+- [BGH, Beschluss vom 04.05.2005 - I ZB 10/05](i-zb-10-05.md) — BGH, Beschluss vom 04.05.2005 - I ZB 10/05
+- [BGH, Urteil vom 04.05.2005 - I ZR 127/02](i-zr-127-02.md) — Tatbestand:
+- [BGH, Urteil vom 04.05.2005 - I ZR 295/02](i-zr-295-02.md) — Tatbestand:
+- [BGH, Beschluss vom 21.04.2005 - I ZB 10/04](i-zb-10-04.md) — BGH, Beschluss vom 21.04.2005 - I ZB 10/04
+- [BGH, Urteil vom 21.04.2005 - I ZR 201/02](i-zr-201-02.md) — Tatbestand:
+- [BGH, Urteil vom 07.04.2005 - I ZR 314/02](i-zr-314-02.md) — Tatbestand:
+- [BGH, Beschluss vom 24.03.2005 - I ZR 142/04](i-zr-142-04.md) — BGH, Beschluss vom 24.03.2005 - I ZR 142/04
+- [BGH, Beschluss vom 21.03.2005 - I ZR 30/02](i-zr-30-02.md) — BGH, Beschluss vom 21.03.2005 - I ZR 30/02
+- [BGH, Urteil vom 03.03.2005 - I ZR 111/02](i-zr-111-02.md) — BGH, Urteil vom 03.03.2005 - I ZR 111/02
+- [BGH, Urteil vom 03.03.2005 - I ZR 117/02](i-zr-117-02.md) — Tatbestand:
+- [BGH, Urteil vom 03.03.2005 - I ZR 134/02](i-zr-134-02.md) — Tatbestand:
+- [BGH, Beschluss vom 24.02.2005 - I ZB 2/04](i-zb-2-04.md) — BGH, Beschluss vom 24.02.2005 - I ZB 2/04
+- [BGH, Versäumnisurteil vom 24.02.2005 - I ZR 101/02](i-zr-101-02.md) — Herkunftstäuschung und unlauterer Rufausbeutung sind nicht schon dann ausgeschlossen, wenn der Vertrieb des nachgeahmten Produkts gegen ein
+- [BGH, Beschluss vom 27.01.2005 - I ZR 113/04](i-zr-113-04.md) — BGH, Beschluss vom 27.01.2005 - I ZR 113/04
+- [BGH, Urteil vom 27.01.2005 - I ZR 146/02](i-zr-146-02.md) — Tatbestand:
+- [BGH, Urteil vom 27.01.2005 - I ZR 202/02](i-zr-202-02.md) — Tatbestand:
+- [BGH, Urteil vom 20.01.2005 - I ZR 29/02](i-zr-29-02.md) — BGH, Urteil vom 20.01.2005 - I ZR 29/02
+- [BGH, Urteil vom 20.01.2005 - I ZR 34/02](i-zr-34-02.md) — BGH, Urteil vom 20.01.2005 - I ZR 34/02
+- [BGH, Urteil vom 20.01.2005 - I ZR 96/02](i-zr-96-02.md) — Tatbestand:

@@ -1,54 +1,18 @@
-# gsst
+# GSST
 
-15 Entscheidung(en).
+Großer Senat bzw. Vereinigte Große Senate (Vorlagen zur Sicherung der Rechtseinheit). 15 Entscheidung(en).
 
-## 2025
+## Nach Jahr
 
-- [BGH, Beschluss vom 03.02.2025 - GSSt 1/24](2025/gsst-1-24.md)
-
-## 2023
-
-- [BGH, Beschluss vom 23.05.2023 - GSSt 1/23](2023/gsst-1-23.md)
-
-## 2021
-
-- [BGH, Beschluss vom 20.01.2021 - GSSt 2/20](2021/gsst-2-20.md)
-
-## 2020
-
-- [BGH, Beschluss vom 22.10.2020 - GSSt 1/20](2020/gsst-1-20.md)
-
-## 2017
-
-- [BGH, Beschluss vom 24.07.2017 - GSSt 3/17](2017/gsst-3-17.md)
-- [BGH, Beschluss vom 10.07.2017 - GSSt 4/17](2017/gsst-4-17.md)
-- [BGH, Beschluss vom 12.06.2017 - GSSt 2/17](2017/gsst-2-17.md)
-- [BGH, Beschluss vom 08.05.2017 - GSSt 1/17](2017/gsst-1-17.md)
-
-## 2016
-
-- [BGH, Beschluss vom 15.07.2016 - GSSt 1/16](2016/gsst-1-16.md)
-
-## 2015
-
-- [BGH, Beschluss vom 17.03.2015 - GSSt 1/14](2015/gsst-1-14.md)
-
-## 2012
-
-- [BGH, Beschluss vom 29.03.2012 - GSSt 2/11](2012/gsst-2-11.md)
-
-## 2011
-
-- [BGH, Beschluss vom 12.01.2011 - GSSt 1/10](2011/gsst-1-10.md)
-
-## 2010
-
-- [BGH, Beschluss vom 21.04.2010 - GSSt 1/09](2010/gsst-1-09.md)
-
-## 2008
-
-- [BGH, Beschluss vom 07.10.2008 - GSSt 1/08](2008/gsst-1-08.md)
-
-## 2007
-
-- [BGH, Beschluss vom 23.04.2007 - GSSt 1/06](2007/gsst-1-06.md)
+- [2025](2025/index.md) (1)
+- [2023](2023/index.md) (1)
+- [2021](2021/index.md) (1)
+- [2020](2020/index.md) (1)
+- [2017](2017/index.md) (4)
+- [2016](2016/index.md) (1)
+- [2015](2015/index.md) (1)
+- [2012](2012/index.md) (1)
+- [2011](2011/index.md) (1)
+- [2010](2010/index.md) (1)
+- [2008](2008/index.md) (1)
+- [2007](2007/index.md) (1)

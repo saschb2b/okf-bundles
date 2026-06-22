@@ -1,0 +1,44 @@
+# XII. Zivilsenat – 2026
+
+40 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.05.2026 - XII ZB 276/25](xii-zb-276-25.md) — 1. Art. 17 Brüssel IIb-VO ist nicht anwendbar, wenn die Priorität der Rechtshängigkeit im Hinblick auf einerseits in einem Mitgliedstaat und andererseits in ein
+- [BGH, Beschluss vom 13.05.2026 - XII ZB 404/25](xii-zb-404-25.md) — 1. Betrifft ein Streit gemeinsam sorgeberechtigter Eltern ausschließlich die Frage, bei welchem Elternteil das Kind seinen überwiegenden Aufenthalt hat, besteht
+- [BGH, Beschluss vom 13.05.2026 - XII ZR 74/24](xii-zr-74-24.md) — Für die Beurteilung, ob ein Mietvertrag als wucherähnliches Rechtsgeschäft nach § 138 Abs. 1 BGB nichtig ist, ist der Marktwert der Nutzungsüberlassung anhand d
+- [BGH, Beschluss vom 06.05.2026 - XII ZB 313/25](xii-zb-313-25.md) — 1. Für eine Eheschließung „vor“ der ermächtigten Person iSv Art. 13 Abs. 4 Satz 2 Halbsatz 1 EGBGB ist ausreichend, dass die Trauperson anwesend und bereit ist,
+- [BGH, Beschluss vom 06.05.2026 - XII ZR 109/23](xii-zr-109-23.md) — BGH, Beschluss XII ZR 109/23
+- [BGH, Beschluss vom 29.04.2026 - XII ZB 447/25](xii-zb-447-25.md) — BGH, Beschluss XII ZB 447/25
+- [BGH, Beschluss vom 29.04.2026 - XII ZB 60/26](xii-zb-60-26.md) — 1. Als natürlicher Wille im Sinne des § 1832 Abs. 1 Satz 1 BGB kann jede Willenskundgabe eines Einwilligungsunfähigen angesehen werden, die bewusst und nicht bl
+- [BGH, Beschluss vom 22.04.2026 - XII ZB 218/25](xii-zb-218-25.md) — Besteht aufgrund konkreter Anhaltspunkte eine gewisse Wahrscheinlichkeit dafür, dass dem Betroffenen gegenüber seinem Bevollmächtigten Rückforderungsansprüche i
+- [BGH, Beschluss vom 22.04.2026 - XII ZB 460/25](xii-zb-460-25.md) — BGH, Beschluss XII ZB 460/25
+- [BGH, Beschluss vom 15.04.2026 - XII ZB 247/25](xii-zb-247-25.md) — Zu den Voraussetzungen einer Auftragserteilung unter Ehegatten (im Anschluss an Senatsbeschluss vom 5. Juli 2000 - XII ZR 26/98, FamRZ 2001, 23).
+- [BGH, Beschluss vom 15.04.2026 - XII ZB 415/25](xii-zb-415-25.md) — 1. Miteinander verheiratete Eltern sind kraft Gesetzes ausdrücklich von der Vertretung des Kindes in einem Unterhaltsrechtsstreit gegen den jeweils anderen Elte
+- [BGH, Beschluss vom 15.04.2026 - XII ZB 457/25](xii-zb-457-25.md) — In einem Betreuungsverfahren kann die Bestellung eines Verfahrenspflegers grundsätzlich unterbleiben, wenn ein anderer Verfahrensbeteiligter die Interessen des 
+- [BGH, Beschluss vom 15.04.2026 - XII ZB 521/25](xii-zb-521-25.md) — 1. Der für die Gebührenberechnung des berufsmäßigen Ergänzungspflegers maßgebliche Gegenstandswert ist nicht gemäß § 46 Abs. 3 FamGKG auf einen Höchstbetrag von
+- [BGH, Beschluss vom 01.04.2026 - XII ZB 647/24](xii-zb-647-24.md) — 1. Mit der Einrichtung einer Betreuung für den Aufgabenbereich der Vertretung des geschäftsunfähigen Ehegatten im Ehescheidungsverfahren ist keine Entscheidung 
+- [BGH, Beschluss vom 01.04.2026 - XII ZR 66/25](xii-zr-66-25.md) — BGH, Beschluss XII ZR 66/25
+- [BGH, Beschluss vom 18.03.2026 - XII ZB 227/25](xii-zb-227-25.md) — 1. Wird ein Kind nicht verheirateter Eltern im paritätischen Wechselmodell betreut, kann grundsätzlich jedem Elternteil ein Unterhaltsanspruch nach § 1615 l Abs
+- [BGH, Beschluss vom 18.03.2026 - XII ZB 409/25](xii-zb-409-25.md) — BGH, Beschluss XII ZB 409/25
+- [BGH, Beschluss vom 18.03.2026 - XII ZB 529/25](xii-zb-529-25.md) — BGH, Beschluss XII ZB 529/25
+- [BGH, Beschluss vom 11.03.2026 - XII ZB 387/25](xii-zb-387-25.md) — 1. Ein Trennungsunterhaltsverfahren ist nicht deshalb auszusetzen, weil der Unterhaltspflichtige in Italien ein Delibationsverfahren betreibt, um die kirchenger
+- [BGH, Beschluss vom 11.03.2026 - XII ZB 450/25](xii-zb-450-25.md) — BGH, Beschluss XII ZB 450/25
+- [BGH, Urteil vom 11.03.2026 - XII ZR 51/25](xii-zr-51-25.md) — 1. Eine in den Allgemeinen Geschäftsbedingungen eines Gewerberaummietvertrags enthaltene Indexierungsklausel unterliegt neben den Beschränkungen durch das Preis
+- [BGH, Beschluss vom 04.03.2026 - XII ZB 244/24](xii-zb-244-24.md) — 1. Erteilt der Rechtsanwalt einer mit dem Fristenwesen betrauten Kanzleikraft mündlich eine konkrete Einzelanweisung zur Eintragung einer Rechtsmittelbegründung
+- [BGH, Beschluss vom 04.03.2026 - XII ZB 338/24](xii-zb-338-24.md) — 1. Ein Rechtsanwalt hat seinen Fristenkalender so zu führen, dass auch gestrichene und geänderte Fristen erkennbar und überprüfbar bleiben (im Anschluss an BGH 
+- [BGH, Beschluss vom 04.03.2026 - XII ZB 524/25](xii-zb-524-25.md) — 1. Durch die Wiedereinsetzung in den vorigen Stand wird fingiert, dass eine verspätete bzw. eine versäumte und innerhalb der Wiedereinsetzungsfrist nachgeholte 
+- [BGH, Beschluss vom 18.02.2026 - XII ZB 254/25](xii-zb-254-25.md) — 1. Die aus dem islamischen Rechtskreis herrührende Rechtsfigur der Brautgabe betrifft jedenfalls in ihrer typischen, nicht überwiegend unterhaltsrechtlich geprä
+- [BGH, Beschluss vom 18.02.2026 - XII ZR 27/25](xii-zr-27-25.md) — BGH, Beschluss XII ZR 27/25
+- [BGH, Beschluss vom 11.02.2026 - XII ZB 158/24](xii-zb-158-24.md) — Einem Elternteil fehlt die gemäß § 59 Abs. 1 FamFG erforderliche Beschwerdebefugnis für eine Beschwerde gegen eine Entscheidung, mit der die Anordnung von Maßna
+- [BGH, Beschluss vom 11.02.2026 - XII ZB 328/25](xii-zb-328-25.md) — Die in einer Familienstreitsache von einem Rechtsanwalt nach ergangenem Versäumnisbeschluss innerhalb der Einspruchsfrist eingelegte Beschwerde kann nicht in ei
+- [BGH, Beschluss vom 04.02.2026 - XII ZB 419/25](xii-zb-419-25.md) — 1. Zu den Anforderungen an eine gerichtliche Geltendmachung der pauschalen Betreuervergütung zwecks Wahrung der Ausschlussfrist des § 16 Abs. 3 Satz 1 VBVG aF (
+- [BGH, Beschluss vom 04.02.2026 - XII ZB 473/25](xii-zb-473-25.md) — BGH, Beschluss XII ZB 473/25
+- [BGH, Beschluss vom 04.02.2026 - XII ZB 487/25](xii-zb-487-25.md) — Zulässigkeit der Scheidungsbeschwerde nach oberlandesgerichtlicher Wiederherstellung des Verbunds im Beschwerdeverfahren
+- [BGH, Beschluss vom 04.02.2026 - XII ZB 535/25](xii-zb-535-25.md) — BGH, Beschluss XII ZB 535/25
+- [BGH, Beschluss vom 04.02.2026 - XII ZB 551/24](xii-zb-551-24.md) — Zur Bemessung des Werts der Beschwer bei einer Verpflichtung zur Abgabe einer eidesstattlichen Versicherung nach erteilter Auskunft in einem Zugewinnausgleichsv
+- [BGH, Beschluss vom 04.02.2026 - XII ZB 558/25](xii-zb-558-25.md) — BGH, Beschluss XII ZB 558/25
+- [BGH, Beschluss vom 04.02.2026 - XII ZR 77/25](xii-zr-77-25.md) — Gerichtliche Hinweispflicht zur Vermeidung einer Überraschungsentscheidung
+- [BGH, Beschluss vom 28.01.2026 - XII ZB 108/25](xii-zb-108-25.md) — 1. In Verfahren nach dem Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (FamFG) wird - soweit es sich u
+- [BGH, Beschluss vom 28.01.2026 - XII ZB 441/25](xii-zb-441-25.md) — Beschwerdebefugnis des Ehegatten gegen Anordnung von Kontrollbetreuung
+- [BGH, Beschluss vom 21.01.2026 - XII ZB 142/25](xii-zb-142-25.md) — 1. Haben Ehegatten, die keine Ehegatteninnengesellschaft bilden, eine Immobilie zu hälftigem Miteigentum erworben und gemeinsam zu Wohnzwecken vermietet, ist je
+- [BGH, Beschluss vom 21.01.2026 - XII ZB 182/25](xii-zb-182-25.md) — Zu den Anforderungen an die Feststellung der Geschäftsunfähigkeit des Betroffenen bei Erteilung einer Vorsorgevollmacht.
+- [BGH, Urteil vom 14.01.2026 - XII ZR 23/23](xii-zr-23-23.md) — Die nur kurzfristige Verhinderung eines mitwirkenden Richters reicht für die wirksame Ersetzung seiner Unterschrift durch einen Verhinderungsvermerk des Vorsitz

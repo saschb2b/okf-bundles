@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SanInsFoG"
 description: "BGH-Entscheidungen zu SanInsFoG, geordnet nach Vorschrift."
 tags: [register, navigation, saninsfog]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des SanInsFoG aus
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 64 SanInsFoG | [BGH, Beschluss vom 11.09.2025 - IX ZB 9/23](../entscheidungen/ix-zivilsenat/2025/ix-zb-9-23.md) |
+| § SanInsFoG | [BGH, Beschluss vom 11.09.2025 - IX ZB 9/23](../entscheidungen/ix-zivilsenat/2025/ix-zb-9-23.md) |

@@ -1,0 +1,42 @@
+# IV. Zivilsenat – 2005
+
+38 Entscheidung(en).
+
+- [BGH, Beschluss vom 14.12.2005 - IV ZB 55/04](iv-zb-55-04.md) — BGH, Beschluss vom 14.12.2005 - IV ZB 55/04
+- [BGH, Beschluss vom 30.11.2005 - IV ZR 214/04](iv-zr-214-04.md) — BGH, Beschluss vom 30.11.2005 - IV ZR 214/04
+- [BGH, Urteil vom 30.11.2005 - IV ZR 4/04](iv-zr-4-04.md) — Tatbestand:
+- [BGH, Urteil vom 16.11.2005 - IV ZR 307/04](iv-zr-307-04.md) — Tatbestand:
+- [BGH, Urteil vom 09.11.2005 - IV ZR 146/04](iv-zr-146-04.md) — Nachschlagewerk: ja BGHZ: nein BGHR: ja _____________________ AKB §§ 7 I Abs. 2 Satz 3 und 7 V; KfzPflVV § 6 Abs. 1 1. Für die Frage, ob der Versicherungsnehmer
+- [BGH, Urteil vom 28.09.2005 - IV ZR 288/03](iv-zr-288-03.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2005 - IV ZB 11/05](iv-zb-11-05.md) — BGH, Beschluss vom 21.09.2005 - IV ZB 11/05
+- [BGH, Beschluss vom 21.09.2005 - IV ZB 21/05](iv-zb-21-05.md) — BGH, Beschluss vom 21.09.2005 - IV ZB 21/05
+- [BGH, Urteil vom 21.09.2005 - IV ZR 113/04](iv-zr-113-04.md) — BGH, Urteil vom 21.09.2005 - IV ZR 113/04
+- [BGH, Beschluss vom 21.09.2005 - IV ZR 301/04](iv-zr-301-04.md) — BGH, Beschluss vom 21.09.2005 - IV ZR 301/04
+- [BGH, Beschluss vom 21.09.2005 - IV ZR 302/04](iv-zr-302-04.md) — BGH, Beschluss vom 21.09.2005 - IV ZR 302/04
+- [BGH, Urteil vom 14.09.2005 - IV ZR 145/04](iv-zr-145-04.md) — BGH, Urteil vom 14.09.2005 - IV ZR 145/04
+- [BGH, Beschluss vom 14.09.2005 - IV ZR 163/04](iv-zr-163-04.md) — Gründe: A. Die Klägerin nimmt die Beklagte auf Duldung der Zwangsvollstreckung aus einer Sicherungsgrundschuld wegen eines Teilbetrages von
+- [BGH, Beschluss vom 20.07.2005 - IV ZR 94/04](iv-zr-94-04.md) — BGH, Beschluss vom 20.07.2005 - IV ZR 94/04
+- [BGH, Urteil vom 13.07.2005 - IV ZR 47/04](iv-zr-47-04.md) — Tatbestand: Die Kläger sind alleinige Erben ihres 1999 verstorbenen Vaters, nachdem sie ihre während des Prozesses 2003 verstorbene Mutter (
+- [BGH, Urteil vom 29.06.2005 - IV ZR 33/04](iv-zr-33-04.md) — Straftat der versicherten Person); JGG § 3
+- [BGH, Beschluss vom 15.06.2005 - IV ZR 226/04](iv-zr-226-04.md) — BGH, Beschluss vom 15.06.2005 - IV ZR 226/04
+- [BGH, Beschluss vom 08.06.2005 - IV ZB 12/05](iv-zb-12-05.md) — BGH, Beschluss vom 08.06.2005 - IV ZB 12/05
+- [BGH, Beschluss vom 08.06.2005 - IV ZR 87/04](iv-zr-87-04.md) — BGH, Beschluss vom 08.06.2005 - IV ZR 87/04
+- [BGH, Urteil vom 01.06.2005 - IV ZR 315/04](iv-zr-315-04.md) — BGH, Urteil vom 01.06.2005 - IV ZR 315/04
+- [BGH, Urteil vom 01.06.2005 - IV ZR 46/04](iv-zr-46-04.md) — arglistiger Täuschung nicht nur bereits erbrachte Versicherungsleistungen zurückfordern, sondern auch die seit Vertragsschluß erhaltenen Prä
+- [BGH, Beschluss vom 17.05.2005 - IV ZR 238/04](iv-zr-238-04.md) — BGH, Beschluss vom 17.05.2005 - IV ZR 238/04
+- [BGH, Urteil vom 11.05.2005 - IV ZR 279/04](iv-zr-279-04.md) — Tatbestand:
+- [BGH, Urteil vom 04.05.2005 - IV ZR 135/04](iv-zr-135-04.md) — Tatbestand:
+- [BGH, Beschluss vom 04.05.2005 - IV ZR 30/03](iv-zr-30-03.md) — BGH, Beschluss vom 04.05.2005 - IV ZR 30/03
+- [BGH, Urteil vom 20.04.2005 - IV ZR 237/03](iv-zr-237-03.md) — BGH, Urteil vom 20.04.2005 - IV ZR 237/03
+- [BGH, Urteil vom 20.04.2005 - IV ZR 252/03](iv-zr-252-03.md) — Tatbestand: Die Kläger begehren Ersatz für Überschwemmungsschäden in Höhe von 13.880,89 € aus einer Wohngebäudeversicherung, die sie bei der
+- [BGH, Urteil vom 20.04.2005 - IV ZR 293/03](iv-zr-293-03.md) — Tatbestand: Der Kläger verlangt Versicherungsleistungen in Höhe von 24.393,89 € aus einer bei der Beklagten gehaltenen Kfz-Kaskoversicherung
+- [BGH, Beschluss vom 13.04.2005 - IV ZR 292/03](iv-zr-292-03.md) — BGH, Beschluss vom 13.04.2005 - IV ZR 292/03
+- [BGH, Urteil vom 13.04.2005 - IV ZR 86/04](iv-zr-86-04.md) — Tatbestand: Der Kläger nimmt die Beklagte wegen eines Fahrzeugbrandes auf Versicherungsleistungen in Anspruch.
+- [BGH, Beschluss vom 06.04.2005 - IV ZR 243/04](iv-zr-243-04.md) — BGH, Beschluss vom 06.04.2005 - IV ZR 243/04
+- [BGH, Urteil vom 16.03.2005 - IV ZR 246/03](iv-zr-246-03.md) — BGH, Urteil vom 16.03.2005 - IV ZR 246/03
+- [BGH, Beschluss vom 02.03.2005 - IV ZR 137/04](iv-zr-137-04.md) — BGH, Beschluss vom 02.03.2005 - IV ZR 137/04
+- [BGH, Urteil vom 16.02.2005 - IV ZR 18/04](iv-zr-18-04.md) — Tatbestand: Der Kläger erhebt gegen den Beklagten zu 2), einen Versicherungsverein auf Gegenseitigkeit, Leistungsansprüche wegen des Diebsta
+- [BGH, Urteil vom 19.01.2005 - IV ZR 219/02](iv-zr-219-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 220/02](iv-zr-220-02.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 241/02](iv-zr-241-02.md) — Tatbestand: Der Kläger begehrt von der Beklagten eine höhere Zusatzrente mit Wirkung ab 1. Januar 2001.
+- [BGH, Urteil vom 19.01.2005 - IV ZR 312/02](iv-zr-312-02.md) — Tatbestand: Die Klägerin begehrt im Wege der Feststellungsklage von der Beklagten mit Wirkung ab 1. Januar 2001 eine höhere Witwenrente, bei

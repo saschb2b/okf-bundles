@@ -1,0 +1,186 @@
+# 3. Strafsenat – 2023
+
+182 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2023 - 3 StR 391/23](3-str-391-23.md) — BGH, Beschluss 3 StR 391/23
+- [BGH, Beschluss vom 19.12.2023 - 3 ARs 15/23](3-ars-15-23.md) — BGH, Beschluss 3 ARs 15/23
+- [BGH, Beschluss vom 19.12.2023 - 3 StR 160/22](3-str-160-22.md) — 1. Die Fristsetzung zur Anbringung von Beweisanträgen nach § 244 Abs. 6 Satz 3 StPO erfordert nicht die Feststellung oder den konkreten Verdacht einer Absicht d
+- [BGH, Beschluss vom 19.12.2023 - 3 StR 411/23](3-str-411-23.md) — Besitz von Betäubungsmitteln in nicht geringer Menge; Unterbringung des Angeklagten in Entziehungsanstalt
+- [BGH, Beschluss vom 19.12.2023 - 3 StR 424/23](3-str-424-23.md) — Rechtswirksamkeit einer Revisionsbeschränkung; Rechtsfehler bei Rechtsfolgenausspruch und nachträglicher Gesamtstrafenbildung
+- [BGH, Beschluss vom 18.12.2023 - 3 StR 414/23](3-str-414-23.md) — BGH, Beschluss 3 StR 414/23
+- [BGH, Urteil vom 14.12.2023 - 3 StR 183/23](3-str-183-23.md) — Altersbestimmung von Darstellern pornographischer Inhalte beziehungsweise zur Abgrenzung jugendpornographischer Inhalte von kinderpornographischen Inhalten
+- [BGH, Urteil vom 14.12.2023 - 3 StR 225/23](3-str-225-23.md) — BGH, Urteil 3 StR 225/23
+- [BGH, Beschluss vom 13.12.2023 - 3 StR 304/23](3-str-304-23.md) — Strafverurteilung wegen bewaffneten Sicherverschaffens von Betäubungsmitteln in nicht geringer Menge: Subjektive Zweckbestimmung der mitgeführten Gegenstände zu
+- [BGH, Beschluss vom 12.12.2023 - 3 StR 278/23](3-str-278-23.md) — Vertretung des Einziehungsbeteiligten am Strafverfahren
+- [BGH, Beschluss vom 12.12.2023 - 3 StR 343/23](3-str-343-23.md) — BGH, Beschluss 3 StR 343/23
+- [BGH, Beschluss vom 12.12.2023 - 3 StR 422/23](3-str-422-23.md) — Unmittelbares Ansetzen beim Versuch zum Einbruchsdiebstahl
+- [BGH, Urteil vom 30.11.2023 - 3 StR 192/18](3-str-192-18.md) — Abgrenzung der Arbeitnehmerüberlassung von der Arbeitsvermittlung bei Beschäftigung bulgarischer Arbeiter in fleischverarbeitendem Unternehmen
+- [BGH, Beschluss vom 30.11.2023 - 3 StR 201/23](3-str-201-23.md) — BGH, Beschluss 3 StR 201/23
+- [BGH, Beschluss vom 30.11.2023 - 3 StR 227/23](3-str-227-23.md) — BGH, Beschluss 3 StR 227/23
+- [BGH, Urteil vom 30.11.2023 - 3 StR 243/23](3-str-243-23.md) — Schwere räuberische Erpressung und Strafzumessung
+- [BGH, Beschluss vom 30.11.2023 - 3 StR 306/23](3-str-306-23.md) — BGH, Beschluss 3 StR 306/23
+- [BGH, Beschluss vom 30.11.2023 - 3 StR 310/23](3-str-310-23.md) — BGH, Beschluss 3 StR 310/23
+- [BGH, Beschluss vom 29.11.2023 - 3 StR 301/23](3-str-301-23.md) — Konkurrenz bei gleichzeitigem Besitz von selbst hergestellten kinderpornographischen Schriften und weiterem gespeichertem verbotenem Bild- und Videomaterial
+- [BGH, Beschluss vom 29.11.2023 - 3 StR 402/23](3-str-402-23.md) — BGH, Beschluss 3 StR 402/23
+- [BGH, Beschluss vom 28.11.2023 - 3 StR 265/23](3-str-265-23.md) — BGH, Beschluss 3 StR 265/23
+- [BGH, Beschluss vom 28.11.2023 - 3 StR 272/23](3-str-272-23.md) — BGH, Beschluss 3 StR 272/23
+- [BGH, Beschluss vom 28.11.2023 - 3 StR 372/23](3-str-372-23.md) — BGH, Beschluss 3 StR 372/23
+- [BGH, Beschluss vom 28.11.2023 - 3 StR 377/23](3-str-377-23.md) — Rechtsstaatswidrige Verfahrensverzögerung durch vorrangige Bearbeitung anderer Haftsachen und Kontaktbeschränkungen während Corona-Pandemie
+- [BGH, Beschluss vom 28.11.2023 - 3 StR 395/23](3-str-395-23.md) — BGH, Beschluss 3 StR 395/23
+- [BGH, Beschluss vom 28.11.2023 - 3 StR 403/23](3-str-403-23.md) — BGH, Beschluss 3 StR 403/23
+- [BGH, Beschluss vom 28.11.2023 - 3 StR 80/23](3-str-80-23.md) — BGH, Beschluss 3 StR 80/23
+- [BGH, Beschluss vom 17.11.2023 - 3 StR 294/23](3-str-294-23.md) — BGH, Beschluss 3 StR 294/23
+- [BGH, Urteil vom 16.11.2023 - 3 StR 72/23](3-str-72-23.md) — Einziehung eines Bausparguthabens und eines Miteigentumsanteils an einem Grundstück bei Einziehungsbeteiligtem
+- [BGH, Beschluss vom 14.11.2023 - 3 StR 141/23](3-str-141-23.md) — 1. Das Tatbestandsmerkmal der Vereinigung in § 85 StGB entspricht dem Begriff des Vereins in § 2 Abs. 1 VereinsG; die Definition der Vereinigung in § 129 Abs. 2
+- [BGH, Beschluss vom 14.11.2023 - 3 StR 221/23](3-str-221-23.md) — BGH, Beschluss 3 StR 221/23
+- [BGH, Beschluss vom 14.11.2023 - 3 StR 230/23](3-str-230-23.md) — BGH, Beschluss 3 StR 230/23
+- [BGH, Beschluss vom 14.11.2023 - 3 StR 355/23](3-str-355-23.md) — BGH, Beschluss 3 StR 355/23
+- [BGH, Beschluss vom 14.11.2023 - 3 StR 369/23](3-str-369-23.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Abgrenzung von Mittäterschaft und Anstiftung
+- [BGH, Beschluss vom 14.11.2023 - 3 StR 375/23](3-str-375-23.md) — BGH, Beschluss 3 StR 375/23
+- [BGH, Beschluss vom 08.11.2023 - 3 StR 185/23](3-str-185-23.md) — BGH, Beschluss 3 StR 185/23
+- [BGH, Urteil vom 02.11.2023 - 3 StR 249/23](3-str-249-23.md) — Tatvorwurf des schweren sexuellen Missbrauchs von Kindern: lückenhafte Beweiswürdigung hinsichtlich Angaben einer psychologischen Sachverständigen
+- [BGH, Beschluss vom 31.10.2023 - 3 StR 282/23](3-str-282-23.md) — Versuchte räuberische Erpressung: Rechtswidrigkeit des erstrebten Vermögensvorteils
+- [BGH, Beschluss vom 31.10.2023 - 3 StR 285/23](3-str-285-23.md) — BGH, Beschluss 3 StR 285/23
+- [BGH, Beschluss vom 31.10.2023 - 3 StR 298/23](3-str-298-23.md) — BGH, Beschluss 3 StR 298/23
+- [BGH, Beschluss vom 31.10.2023 - 3 StR 342/23](3-str-342-23.md) — BGH, Beschluss 3 StR 342/23
+- [BGH, Beschluss vom 31.10.2023 - 3 StR 347/23](3-str-347-23.md) — BGH, Beschluss 3 StR 347/23
+- [BGH, Beschluss vom 31.10.2023 - 3 StR 367/23](3-str-367-23.md) — BGH, Beschluss 3 StR 367/23
+- [BGH, Beschluss vom 17.10.2023 - 3 StR 197/23](3-str-197-23.md) — BGH, Beschluss 3 StR 197/23
+- [BGH, Beschluss vom 17.10.2023 - 3 StR 267/23](3-str-267-23.md) — BGH, Beschluss 3 StR 267/23
+- [BGH, Beschluss vom 05.10.2023 - 3 StR 233/23](3-str-233-23.md) — BGH, Beschluss 3 StR 233/23
+- [BGH, Beschluss vom 04.10.2023 - 3 StR 287/23](3-str-287-23.md) — BGH, Beschluss 3 StR 287/23
+- [BGH, Beschluss vom 04.10.2023 - 3 StR 291/23](3-str-291-23.md) — BGH, Beschluss 3 StR 291/23
+- [BGH, Beschluss vom 04.10.2023 - 3 StR 292/23](3-str-292-23.md) — Strafprozessrecht: Förmliche Anforderungen für die Revisionseinlegung über das besondere elektronische Anwaltspostfach
+- [BGH, Beschluss vom 04.10.2023 - 3 StR 295/23](3-str-295-23.md) — BGH, Beschluss 3 StR 295/23
+- [BGH, Beschluss vom 04.10.2023 - 3 StR 328/23](3-str-328-23.md) — BGH, Beschluss 3 StR 328/23
+- [BGH, Beschluss vom 04.10.2023 - 3 StR 360/23](3-str-360-23.md) — Strafbemessung: Qualifikationen bei BtM-Delikten; begrenzte Sperrwirkung des Strafrahmens
+- [BGH, Beschluss vom 20.09.2023 - 3 StR 302/23](3-str-302-23.md) — BGH, Beschluss 3 StR 302/23
+- [BGH, Beschluss vom 20.09.2023 - 3 StR 76/23](3-str-76-23.md) — BGH, Beschluss 3 StR 76/23
+- [BGH, Beschluss vom 19.09.2023 - 3 StR 216/23](3-str-216-23.md) — BGH, Beschluss 3 StR 216/23
+- [BGH, Beschluss vom 19.09.2023 - 3 StR 229/23](3-str-229-23.md) — Anforderung an Urteilsbegründung bei Verurteilung wegen gefährlicher Körperverletzung und Unterbringung in psychiatrischem Krankenhaus
+- [BGH, Beschluss vom 19.09.2023 - 3 StR 238/23](3-str-238-23.md) — BGH, Beschluss 3 StR 238/23
+- [BGH, Beschluss vom 19.09.2023 - 3 StR 253/23](3-str-253-23.md) — Zulässigkeit der Einfügung abgelichteter handschriftlicher Anmerkungen in Urteilsgründe
+- [BGH, Beschluss vom 19.09.2023 - 3 StR 268/23](3-str-268-23.md) — BGH, Beschluss 3 StR 268/23
+- [BGH, Beschluss vom 12.09.2023 - 3 StR 181/23](3-str-181-23.md) — BGH, Beschluss 3 StR 181/23
+- [BGH, Urteil vom 12.09.2023 - 3 StR 306/22](3-str-306-22.md) — Mitgliedschaftliche Beteiligung an einer kriminellen Vereinigung: Bereich der Internetkriminalität; Betrieb eines "Cyberbunkers"; Begriff des Rädelsführers; Vor
+- [BGH, Beschluss vom 05.09.2023 - 3 StR 217/23](3-str-217-23.md) — Urteilsbegründung bei Verhängung hoher Strafe
+- [BGH, Beschluss vom 05.09.2023 - 3 StR 219/23](3-str-219-23.md) — BGH, Beschluss 3 StR 219/23
+- [BGH, Beschluss vom 05.09.2023 - 3 StR 256/23](3-str-256-23.md) — Wiedereinsetzung nach Versäumung der Revisionsfrist in Strafsachen: Anforderungen an die Glaubhaftmachung einer unverschuldeten Fristversäumnis wegen technische
+- [BGH, Beschluss vom 05.09.2023 - 3 StR 308/23](3-str-308-23.md) — (Verurteilung wegen schweren sexuellen Missbrauchs: Strafzumessungserwägungen bei Taten vor und nach der Gesetzesreform 2021)
+- [BGH, Beschluss vom 24.08.2023 - 3 StR 257/23](3-str-257-23.md) — Sexueller Missbrauch von Kindern: "Bestimmen" zur Vornahme sexueller Handlungen
+- [BGH, Beschluss vom 22.08.2023 - 3 StR 138/23](3-str-138-23.md) — BGH, Beschluss 3 StR 138/23
+- [BGH, Beschluss vom 22.08.2023 - 3 StR 162/23](3-str-162-23.md) — BGH, Beschluss 3 StR 162/23
+- [BGH, Beschluss vom 22.08.2023 - 3 StR 222/23](3-str-222-23.md) — Strafbarer Verstoß gegen Außenwirtschaftsrecht: Nachweis der Gewerbsmäßigkeit
+- [BGH, Beschluss vom 22.08.2023 - 3 StR 258/23](3-str-258-23.md) — BGH, Beschluss 3 StR 258/23
+- [BGH, Beschluss vom 10.08.2023 - 3 StR 36/23](3-str-36-23.md) — Unterstützung einer anderen kriminellen Vereinigung durch eine Teilorganisation des Motorradclubs Bandidos MC
+- [BGH, Urteil vom 10.08.2023 - 3 StR 412/22](3-str-412-22.md) — Betäubungsmittelstraftaten: erweiterte Einziehung des Wertes von Taterträgen bei Drittbegünstigtem; strafbare Geldwäsche
+- [BGH, Urteil vom 10.08.2023 - 3 StR 462/22](3-str-462-22.md) — Für Levometamfetamin - (R)-(Methyl)(1-phenylpropan-2-yl)azan - beginnt die nicht geringe Menge im Sinne von § 29a Abs. 1 Nr. 2, § 30 Abs. 1 Nr. 4 BtMG bei 50 g 
+- [BGH, Beschluss vom 10.08.2023 - 3 StR 93/23](3-str-93-23.md) — Strafverfahren wegen Betäubungsmitteldelikt: Umfang der verständigungsbezogenen Mitteilungspflicht
+- [BGH, Beschluss vom 09.08.2023 - 3 StR 1/23](3-str-1-23.md) — BGH, Beschluss 3 StR 1/23
+- [BGH, Beschluss vom 09.08.2023 - 3 StR 195/23](3-str-195-23.md) — BGH, Beschluss 3 StR 195/23
+- [BGH, Beschluss vom 09.08.2023 - 3 StR 275/23](3-str-275-23.md) — BGH, Beschluss 3 StR 275/23
+- [BGH, Beschluss vom 09.08.2023 - 3 StR 483/22](3-str-483-22.md) — BGH, Beschluss 3 StR 483/22
+- [BGH, Beschluss vom 08.08.2023 - 3 StR 210/23](3-str-210-23.md) — Betäubungsmitteldelikt Anforderungen an eine mittäterschaftliche Einfuhr von Betäubungsmitteln; Prüfung einer Anstiftung
+- [BGH, Beschluss vom 08.08.2023 - 3 StR 247/23](3-str-247-23.md) — BGH, Beschluss 3 StR 247/23
+- [BGH, Beschluss vom 08.08.2023 - 3 StR 264/23](3-str-264-23.md) — BGH, Beschluss 3 StR 264/23
+- [BGH, Beschluss vom 02.08.2023 - 3 StR 499/22](3-str-499-22.md) — BGH, Beschluss 3 StR 499/22
+- [BGH, Beschluss vom 27.07.2023 - 3 StR 132/23](3-str-132-23.md) — Einziehung im Strafverfahren: Anforderungen an eine erweiterte Wertersatzeinziehung
+- [BGH, Urteil vom 27.07.2023 - 3 StR 509/22](3-str-509-22.md) — Anforderung an Verurteilung wegen gefährlicher Körperverletzung; Nichtanordnung der Unterbringung des Angeklagten
+- [BGH, Beschluss vom 26.07.2023 - 3 StR 155/23](3-str-155-23.md) — Konkurrenz zwischen einem vollendeten und versuchten Erpressungsdelikt bei identischem Geschädigten
+- [BGH, Beschluss vom 26.07.2023 - 3 StR 506/22](3-str-506-22.md) — BGH, Beschluss 3 StR 506/22
+- [BGH, Beschluss vom 25.07.2023 - 3 StR 116/23](3-str-116-23.md) — BGH, Beschluss 3 StR 116/23
+- [BGH, Beschluss vom 25.07.2023 - 3 StR 161/23](3-str-161-23.md) — BGH, Beschluss 3 StR 161/23
+- [BGH, Beschluss vom 25.07.2023 - 3 StR 99/23](3-str-99-23.md) — BGH, Beschluss 3 StR 99/23
+- [BGH, Urteil vom 29.06.2023 - 3 StR 343/22](3-str-343-22.md) — Mittäterschaftlich begangener gewerbsmäßiger Bandenbetrug bei Betrugstaten der Art "Falscher Polizeibeamter"
+- [BGH, Beschluss vom 29.06.2023 - 3 StR 460/22](3-str-460-22.md) — BGH, Beschluss 3 StR 460/22
+- [BGH, Urteil vom 29.06.2023 - 3 StR 56/23](3-str-56-23.md) — Schuldspruch eines Jugendlichen oder Heranwachsenden wegen sexuellen Missbrauchs von Kindern: Anforderungen an die Prüfung der Schwere der Schuld
+- [BGH, Beschluss vom 28.06.2023 - 3 StR 123/23](3-str-123-23.md) — Natürliche Handlungseinheit bei schweren sexuellen Kindesmissbrauch in kinderpornographischer Absicht in Tateinheit mit einer materiellrechtlichen Tat der Herst
+- [BGH, Beschluss vom 28.06.2023 - 3 StR 151/23](3-str-151-23.md) — BGH, Beschluss 3 StR 151/23
+- [BGH, Beschluss vom 28.06.2023 - 3 StR 424/22](3-str-424-22.md) — Mitgliedschaftliche Beteiligung an einer kriminellen Vereinigung: Strafbarkeit bei ausschließlicher Kommunikation über das Internet
+- [BGH, Beschluss vom 27.06.2023 - 3 StR 175/23](3-str-175-23.md) — Strafverurteilung wegen unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.: Bemessung einzelner Tagessätze einer Geldstrafe bei Gesam
+- [BGH, Beschluss vom 13.06.2023 - 3 StR 100/23](3-str-100-23.md) — BGH, Beschluss 3 StR 100/23
+- [BGH, Beschluss vom 13.06.2023 - 3 StR 118/23](3-str-118-23.md) — BGH, Beschluss 3 StR 118/23
+- [BGH, Beschluss vom 13.06.2023 - 3 StR 120/23](3-str-120-23.md) — Strafverurteilung wegen unerlaubten Führens von Waffen u.a.: Konkurrenzverhältnis verschiedener Waffendelikte sowie zwischen Waffendelikten und Widerstand gegen
+- [BGH, Beschluss vom 13.06.2023 - 3 StR 144/23](3-str-144-23.md) — Elektronischer Rechtsverkehr in Strafsachen: Einreichung der Revisionseinlegungsschrift des bestellten Verteidigers über das beA des Kanzleikollegen
+- [BGH, Beschluss vom 13.06.2023 - 3 StR 152/23](3-str-152-23.md) — Einziehung des Wertes von Taterträgen bei durch Raub erlangtem und anschließend konsumiertem Heroin
+- [BGH, Beschluss vom 13.06.2023 - 3 StR 55/23](3-str-55-23.md) — BGH, Beschluss 3 StR 55/23
+- [BGH, Beschluss vom 01.06.2023 - 3 StR 414/22](3-str-414-22.md) — BGH, Beschluss 3 StR 414/22
+- [BGH, Beschluss vom 31.05.2023 - 3 StR 119/23](3-str-119-23.md) — Notwehr: Messereinsatz gegenüber einem unbewaffneten und am Boden liegenden Angreifer
+- [BGH, Beschluss vom 31.05.2023 - 3 StR 133/23](3-str-133-23.md) — BGH, Beschluss 3 StR 133/23
+- [BGH, Beschluss vom 31.05.2023 - 3 StR 25/23](3-str-25-23.md) — BGH, Beschluss 3 StR 25/23
+- [BGH, Beschluss vom 31.05.2023 - 3 StR 32/23](3-str-32-23.md) — Rücktritt vom versuchten Totschlag: Notwendige Feststellungen zum Vorstellungsbild des Täters nach der letzten Ausführungshandlung
+- [BGH, Beschluss vom 31.05.2023 - 3 StR 465/22](3-str-465-22.md) — BGH, Beschluss 3 StR 465/22
+- [BGH, Beschluss vom 31.05.2023 - 3 StR 89/23](3-str-89-23.md) — BGH, Beschluss 3 StR 89/23
+- [BGH, Beschluss vom 16.05.2023 - 3 StR 106/23](3-str-106-23.md) — BGH, Beschluss 3 StR 106/23
+- [BGH, Beschluss vom 16.05.2023 - 3 StR 109/23](3-str-109-23.md) — Anforderungen an die Revisionsbegründung mit der Inbegriffsrüge: Verfahrensrüge bei gerichtlicher Beweiswürdigung von zwei unterschiedlichen Übersetzungen derse
+- [BGH, Beschluss vom 16.05.2023 - 3 StR 137/23](3-str-137-23.md) — Unbeendeter Versuch der gefährlichen Körperverletzung: Rücktritt trotz außertatbestandlicher Zielerreichung der Beutesicherung
+- [BGH, Beschluss vom 16.05.2023 - 3 StR 67/23](3-str-67-23.md) — BGH, Beschluss 3 StR 67/23
+- [BGH, Beschluss vom 16.05.2023 - 3 StR 85/23](3-str-85-23.md) — BGH, Beschluss 3 StR 85/23
+- [BGH, Beschluss vom 03.05.2023 - 3 StR 45/23](3-str-45-23.md) — BGH, Beschluss 3 StR 45/23
+- [BGH, Beschluss vom 03.05.2023 - 3 StR 81/23](3-str-81-23.md) — Vermögensabschöpfung im Altfall der Geldwäsche: Anordnung der Einziehung des Wertes von Geldwäscheobjekten
+- [BGH, Beschluss vom 02.05.2023 - 3 StR 107/23](3-str-107-23.md) — BGH, Beschluss 3 StR 107/23
+- [BGH, Beschluss vom 02.05.2023 - 3 StR 18/23](3-str-18-23.md) — BGH, Beschluss 3 StR 18/23
+- [BGH, Beschluss vom 02.05.2023 - 3 StR 65/23](3-str-65-23.md) — Verurteilung wegen absichtlicher schwerer Körperverletzung durch hochkonzentrierte Schwefelsäure
+- [BGH, Beschluss vom 02.05.2023 - 3 StR 79/23](3-str-79-23.md) — BGH, Beschluss 3 StR 79/23
+- [BGH, Beschluss vom 02.05.2023 - 3 StR 94/23](3-str-94-23.md) — BGH, Beschluss 3 StR 94/23
+- [BGH, Urteil vom 20.04.2023 - 3 StR 380/22](3-str-380-22.md) — Unterbringung in einem psychiatrischen Krankenhaus: Darlegung der Anordnungsvoraussetzungen in den Urteilsgründen
+- [BGH, Beschluss vom 19.04.2023 - 3 StR 68/23](3-str-68-23.md) — Aufrechterhaltung bzw. erneute Anordnung einer Unterbringung in Entziehungsanstalt
+- [BGH, Beschluss vom 18.04.2023 - 3 StR 10/23](3-str-10-23.md) — Relativer Revisionsgrund im Strafverfahren: Nichtgewährung des letzten Wortes nach zeitweiser Abwesenheit des Angeklagten
+- [BGH, Beschluss vom 18.04.2023 - 3 StR 30/23](3-str-30-23.md) — Einfuhr und Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 18.04.2023 - 3 StR 489/22](3-str-489-22.md) — BGH, Beschluss 3 StR 489/22
+- [BGH, Beschluss vom 18.04.2023 - 3 StR 490/22](3-str-490-22.md) — BGH, Beschluss 3 StR 490/22
+- [BGH, Beschluss vom 18.04.2023 - 3 StR 59/23](3-str-59-23.md) — BGH, Beschluss 3 StR 59/23
+- [BGH, Beschluss vom 18.04.2023 - 3 StR 61/23](3-str-61-23.md) — BGH, Beschluss 3 StR 61/23
+- [BGH, Beschluss vom 05.04.2023 - 3 StR 361/22](3-str-361-22.md) — BGH, Beschluss 3 StR 361/22
+- [BGH, Beschluss vom 05.04.2023 - 3 StR 47/23](3-str-47-23.md) — Verurteilung wegen bewaffneten Handeltreibens mit Betäubungsmitteln in Tateinheit mit Abgabe von Betäubungsmitteln an Minderjährige sowie Besitz von Betäubungsm
+- [BGH, Beschluss vom 04.04.2023 - 3 StR 68/22](3-str-68-22.md) — Beweisaufnahme im Strafverfahren: Erkennbarkeit des Urhebers bei der Verlesung von Urkunden in der Hauptverhandlung
+- [BGH, Beschluss vom 04.04.2023 - 3 StR 69/23](3-str-69-23.md) — Schwerer sexueller Missbrauch von Kindern durch Besitzverschaffung an kinderpornographischen Schriften: Beteiligter als "Anderer"
+- [BGH, Beschluss vom 04.04.2023 - 3 StR 73/23](3-str-73-23.md) — Strafzumessung: Straferhöhende Würdigung des dolus directus ersten Grades beim Körperverletzungsdelikt
+- [BGH, Urteil vom 23.03.2023 - 3 StR 277/22](3-str-277-22.md) — Vorliegen bedingten Tötungsvorsatzes
+- [BGH, Urteil vom 23.03.2023 - 3 StR 363/22](3-str-363-22.md) — Abgrenzung Beihilfe von Mittäterschaft
+- [BGH, Beschluss vom 23.03.2023 - 3 StR 503/22](3-str-503-22.md) — BGH, Beschluss 3 StR 503/22
+- [BGH, Beschluss vom 22.03.2023 - 3 StR 11/23](3-str-11-23.md) — BGH, Beschluss 3 StR 11/23
+- [BGH, Beschluss vom 22.03.2023 - 3 StR 51/23](3-str-51-23.md) — Erziehungsgedanke im Jugendstrafrecht; Einbeziehung früherer Verurteilungen
+- [BGH, Beschluss vom 21.03.2023 - 3 StR 255/22](3-str-255-22.md) — BGH, Beschluss 3 StR 255/22
+- [BGH, Beschluss vom 21.03.2023 - 3 StR 310/21](3-str-310-21.md) — BGH, Beschluss 3 StR 310/21
+- [BGH, Urteil vom 09.03.2023 - 3 StR 246/22](3-str-246-22.md) — Strafrahmenwahl im Fall eines Verbrechens gegen die Menschlichkeit durch Versklavung mit Todesfolge
+- [BGH, Urteil vom 09.03.2023 - 3 StR 392/22](3-str-392-22.md) — Räuberischer Diebstahl: Beweiswürdigung bei Motivbündel für eine Gewaltanwendung beim Ladendiebstahl
+- [BGH, Beschluss vom 08.03.2023 - 3 StR 15/23](3-str-15-23.md) — Revision: Urteilsaufhebung wegen Verstoßes gegen die Mitteilungspflicht über Verständigungsgespräche
+- [BGH, Beschluss vom 08.03.2023 - 3 StR 33/23](3-str-33-23.md) — BGH, Beschluss 3 StR 33/23
+- [BGH, Beschluss vom 08.03.2023 - 3 StR 434/22](3-str-434-22.md) — Ablehnung eines Strafrichters: Sofortige Beschwerde gegen den die Ablehnung als unzulässig verwerfenden oder als unbegründet zurückweisenden Beschluss im Rahmen
+- [BGH, Beschluss vom 07.03.2023 - 3 StR 29/23](3-str-29-23.md) — Betäubungsmittelrecht: Nicht geringe Menge Mephedron
+- [BGH, Beschluss vom 07.03.2023 - 3 StR 326/22](3-str-326-22.md) — BGH, Beschluss 3 StR 326/22
+- [BGH, Beschluss vom 07.03.2023 - 3 StR 397/22](3-str-397-22.md) — Besetzungsrüge in Strafsachen: Auswechslung eines Schöffen auf Grund langwieriger Erkrankung vor Ablauf der Hemmungsfrist bei drohendem Verstoß gegen das Beschl
+- [BGH, Beschluss vom 07.03.2023 - 3 StR 398/22](3-str-398-22.md) — BGH, Beschluss 3 StR 398/22
+- [BGH, Beschluss vom 07.03.2023 - 3 StR 399/22](3-str-399-22.md) — BGH, Beschluss 3 StR 399/22
+- [BGH, Beschluss vom 07.03.2023 - 3 StR 4/23](3-str-4-23.md) — BGH, Beschluss 3 StR 4/23
+- [BGH, Beschluss vom 07.03.2023 - 3 StR 421/22](3-str-421-22.md) — BGH, Beschluss 3 StR 421/22
+- [BGH, Beschluss vom 07.03.2023 - 3 StR 497/22](3-str-497-22.md) — BGH, Beschluss 3 StR 497/22
+- [BGH, Beschluss vom 23.02.2023 - 3 StR 450/22](3-str-450-22.md) — Pflichtverteidigerwechsel im Revisionsverfahren wegen Zerstörung des Vertrauensverhältnisses
+- [BGH, Beschluss vom 22.02.2023 - 3 StR 375/22](3-str-375-22.md) — BGH, Beschluss 3 StR 375/22
+- [BGH, Beschluss vom 21.02.2023 - 3 StR 278/22](3-str-278-22.md) — Strafrecht: Vermögensabschöpfung beim Hawala-Banking; Konkurrenz zwischen Besitz und Führen von Schusswaffen
+- [BGH, Beschluss vom 21.02.2023 - 3 StR 394/22](3-str-394-22.md) — Tatrichterliche Feststellungen zur Klassifizierung eines Bandenmitglieds als Rädelsführer
+- [BGH, Beschluss vom 21.02.2023 - 3 StR 444/22](3-str-444-22.md) — BGH, Beschluss 3 StR 444/22
+- [BGH, Urteil vom 09.02.2023 - 3 StR 440/22](3-str-440-22.md) — Strafmilderung bei Kettenanstiftung zur unerlaubten Einfuhr von Betäubungsmitteln: Notwendiger Zusammenhang zwischen aufgedeckten und abgeurteilten Taten bei Au
+- [BGH, Beschluss vom 08.02.2023 - 3 StR 167/22](3-str-167-22.md) — Untreue und Bestechlichkeit durch einen Bürgermeister im Zusammenhang mit städtischen Grundstücksgeschäften
+- [BGH, Beschluss vom 08.02.2023 - 3 StR 311/22](3-str-311-22.md) — BGH, Beschluss 3 StR 311/22
+- [BGH, Beschluss vom 08.02.2023 - 3 StR 477/22](3-str-477-22.md) — Einziehungsentscheidung im Strafurteil wegen Betäubungsmitteldelikten: Anforderungen an die Bezeichnung der Einziehungsobjekte in der Urteilsformel; Erforderlic
+- [BGH, Beschluss vom 07.02.2023 - 3 StR 274/22](3-str-274-22.md) — Schwere mittelbare Falschbeurkundung und Urkundenfälschung: Beweiskraft einer notariellen Urkunde bei Verwendung eines Aliasnamens; Erwerb einer GmbH unter Vorl
+- [BGH, Beschluss vom 07.02.2023 - 3 StR 459/22](3-str-459-22.md) — BGH, Beschluss 3 StR 459/22
+- [BGH, Beschluss vom 07.02.2023 - 3 StR 481/22](3-str-481-22.md) — Anforderungen an Darlegungen im Urteil bei Verurteilung zu Jugendstrafe wegen Schwere der Schuld
+- [BGH, Beschluss vom 07.02.2023 - 3 StR 483/21](3-str-483-21.md) — Effektive Verteidigung im Revisionsverfahren durch „Revisionsspezialisten“ als Wahlverteidiger; Unterstützung einer terroristischen Vereinigung im Ausland
+- [BGH, Beschluss vom 07.02.2023 - 3 StR 501/22](3-str-501-22.md) — Einziehung von Tatmitteln bei schuldlos Handelnden
+- [BGH, Urteil vom 26.01.2023 - 3 StR 154/22](3-str-154-22.md) — Zulässigkeit der Revisionsbeschränkung unter Ausklammerung der Maßregelanordnung
+- [BGH, Beschluss vom 25.01.2023 - 3 StR 353/22](3-str-353-22.md) — BGH, Beschluss 3 StR 353/22
+- [BGH, Beschluss vom 25.01.2023 - 3 StR 374/22](3-str-374-22.md) — BGH, Beschluss 3 StR 374/22
+- [BGH, Beschluss vom 24.01.2023 - 3 StR 386/21](3-str-386-21.md) — Eine Erklärung, mit welcher der Angeklagte dem Verteidiger Vollmacht zur Vertretung, auch im Fall der Abwesenheit des Angeklagten, in allen Instanzen - ohne aus
+- [BGH, Beschluss vom 24.01.2023 - 3 StR 418/22](3-str-418-22.md) — Voraussetzungen einer ausbeuterischen Zuhälterei
+- [BGH, Beschluss vom 24.01.2023 - 3 StR 427/22](3-str-427-22.md) — BGH, Beschluss 3 StR 427/22
+- [BGH, Beschluss vom 24.01.2023 - 3 StR 436/22](3-str-436-22.md) — BGH, Beschluss 3 StR 436/22
+- [BGH, Beschluss vom 24.01.2023 - 3 StR 80/22](3-str-80-22.md) — Strafverfahren: Recht der Verteidigung auf angemessene Vorbereitung des Schlussvortrags
+- [BGH, Vorlagebeschluss vom 12.01.2023 - 3 StR 474/19](3-str-474-19.md) — Divergenzvorlage an den Großen Senat für Strafsachen: Anordnung der Einziehung des durch eine verjährte Straftat erlangten Wertes des Tatertrags im subjektiven 
+- [BGH, Beschluss vom 11.01.2023 - 3 StR 445/22](3-str-445-22.md) — Neues Strafurteil: Besonderes Begründungserfordernis bei Verhängung einer identischen Strafe durch den neuen Tatrichter nach Urteilsaufhebung und Zurückverweisu
+- [BGH, Beschluss vom 11.01.2023 - 3 StR 468/22](3-str-468-22.md) — BGH, Beschluss 3 StR 468/22
+- [BGH, Beschluss vom 10.01.2023 - 3 StR 12/22](3-str-12-22.md) — Verletzung rechtlichen Gehörs bei einer Revisionsentscheidung in Strafsachen: Anhörungsrüge wegen Nichterteilung des Hinweises durch das Tatgericht auf Abänderu
+- [BGH, Beschluss vom 10.01.2023 - 3 StR 433/22](3-str-433-22.md) — BGH, Beschluss 3 StR 433/22
+- [BGH, Beschluss vom 10.01.2023 - 3 StR 437/22](3-str-437-22.md) — BGH, Beschluss 3 StR 437/22

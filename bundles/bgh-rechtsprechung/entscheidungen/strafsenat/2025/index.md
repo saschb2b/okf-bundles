@@ -1,0 +1,63 @@
+# Strafsenat – 2025
+
+59 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.12.2025 - AK 118/25](ak-118-25.md) — BGH, Beschluss AK 118/25
+- [BGH, Beschluss vom 17.12.2025 - StB 66/25](stb-66-25.md) — Voraussetzungen eines Pflichtverteidigerwechsels im Jugendstrafrecht
+- [BGH, Beschluss vom 10.12.2025 - AK 116/25](ak-116-25.md) — BGH, Beschluss AK 116/25
+- [BGH, Beschluss vom 10.12.2025 - StB 58/25](stb-58-25.md) — Eröffnung des Hauptverfahrens bei Beweisschwierigkeiten im Fall einer „Späherin“ bei politisch motivierten Gruppenangriffen
+- [BGH, Beschluss vom 10.12.2025 - StB 60/25](stb-60-25.md) — 1. Für die Sprengstoffanschläge auf die Nord-Stream-Pipelines in der Ostsee ist deutsche Strafgewalt gegeben, weil der Taterfolg auch auf deutschem Staatsgebiet
+- [BGH, Beschluss vom 10.12.2025 - StB 61/25](stb-61-25.md) — BGH, Beschluss StB 61/25
+- [BGH, Beschluss vom 10.12.2025 - StB 67/25](stb-67-25.md) — Strafrestaussetzung zur Bewährung: Rücknahme der Einwilligung des Verurteilten
+- [BGH, Beschluss vom 14.11.2025 - AK 95/25](ak-95-25.md) — Anordnung der Fortdauer der Untersuchungshaft bei dringendem Tatverdacht der mitgliedschaftlichen Beteiligung an krimineller Vereinigung
+- [BGH, Beschluss vom 04.11.2025 - AK 94/25](ak-94-25.md) — BGH, Beschluss AK 94/25
+- [BGH, Beschluss vom 30.10.2025 - AK 89 - 91/25, AK 89/25, AK 90/25, AK 91/25](ak-89-91-25-ak-89-25-ak-90-25-ak-91-25.md) — BGH, Beschluss AK 89 - 91/25, AK 89/25, AK 90/25, AK 91/25
+- [BGH, Beschluss vom 30.10.2025 - AK 92/25](ak-92-25.md) — BGH, Beschluss AK 92/25
+- [BGH, Beschluss vom 30.10.2025 - StB 50/25](stb-50-25.md) — BGH, Beschluss StB 50/25
+- [BGH, Beschluss vom 02.10.2025 - StB 49/25](stb-49-25.md) — BGH, Beschluss StB 49/25
+- [BGH, Beschluss vom 19.09.2025 - StB 41/25](stb-41-25.md) — BGH, Beschluss StB 41/25
+- [BGH, Beschluss vom 18.09.2025 - StB 47/25](stb-47-25.md) — Strafverfahren: Einwand der vorschriftswidrigen Besetzung im Zwischenverfahren
+- [BGH, Beschluss vom 17.09.2025 - AK 76/25](ak-76-25.md) — BGH, Beschluss AK 76/25
+- [BGH, Beschluss vom 17.09.2025 - StB 45/25](stb-45-25.md) — BGH, Beschluss StB 45/25
+- [BGH, Beschluss vom 17.09.2025 - StB 46/25](stb-46-25.md) — BGH, Beschluss StB 46/25
+- [BGH, Beschluss vom 10.09.2025 - AK 77/25](ak-77-25.md) — BGH, Beschluss AK 77/25
+- [BGH, Beschluss vom 03.09.2025 - AK 65/25](ak-65-25.md) — BGH, Beschluss AK 65/25
+- [BGH, Beschluss vom 03.09.2025 - StB 42/25](stb-42-25.md) — Die für Verteidigungsunterlagen geltenden Erwägungen, wonach eine Durchsicht vorläufig sichergestellter Gegenstände zulässig ist, wenn nicht offensichtlich ist,
+- [BGH, Beschluss vom 21.08.2025 - AK 64/25](ak-64-25.md) — Für die Wirksamkeit der Teilaufhebung eines Haftbefehls genügt die schriftliche Bekanntgabe des betreffenden Beschlusses, wenn dieser ohne Änderung des angenomm
+- [BGH, Beschluss vom 21.08.2025 - StB 37/25](stb-37-25.md) — BGH, Beschluss StB 37/25
+- [BGH, Beschluss vom 07.08.2025 - AK 51 - 55/25, AK 51/25, AK 52/25, AK 53/25, AK 54/25, AK 55/25](ak-51-55-25-ak-51-25-ak-52-25-ak-53-25-ak-54-25-ak-55-25.md) — BGH, Beschluss AK 51 - 55/25, AK 51/25, AK 52/25, AK 53/25, AK 54/25, AK 55/25
+- [BGH, Beschluss vom 07.08.2025 - AK 56/25](ak-56-25.md) — BGH, Beschluss AK 56/25
+- [BGH, Beschluss vom 07.08.2025 - AK 59/25](ak-59-25.md) — BGH, Beschluss AK 59/25
+- [BGH, Beschluss vom 23.07.2025 - StB 65/24](stb-65-24.md) — 1. Gegen Herausgabeverlangen eines Untersuchungsausschusses des Deutschen Bundestages gemäß § 29 Abs. 1 Satz 1 PUAG ist ein Antrag auf gerichtliche Entscheidung
+- [BGH, Beschluss vom 10.07.2025 - AK 49/25](ak-49-25.md) — Gefährliche Körperverletzung: Verwendung von Pfefferspray und Reizstoffsprühgeräten
+- [BGH, Beschluss vom 10.07.2025 - StB 21/25](stb-21-25.md) — Selbständiges Einziehungsverfahren: Zulässigkeit der Beschwerde gegen die Ablehnung der Verfahrensbeteiligung und Verweigerung von Akteneinsicht
+- [BGH, Beschluss vom 26.06.2025 - StB 30/25](stb-30-25.md) — BGH, Beschluss StB 30/25
+- [BGH, Beschluss vom 25.06.2025 - StB 27/25](stb-27-25.md) — BGH, Beschluss StB 27/25
+- [BGH, Beschluss vom 25.06.2025 - StB 29/25](stb-29-25.md) — Pflichtverteidigerbestellung im Reststrafenaussetzungsverfahren
+- [BGH, Beschluss vom 26.05.2025 - StB 23/25](stb-23-25.md) — Anforderungen an den die Haftfortdauer rechtfertigenden Grund der Fluchtgefahr; Fluchtgefahr und Verhältnismäßigkeit
+- [BGH, Beschluss vom 26.05.2025 - StB 24/25](stb-24-25.md) — BGH, Beschluss StB 24/25
+- [BGH, Beschluss vom 15.05.2025 - AK 25/25](ak-25-25.md) — BGH, Beschluss AK 25/25
+- [BGH, Beschluss vom 15.05.2025 - AK 29/25](ak-29-25.md) — BGH, Beschluss AK 29/25
+- [BGH, Beschluss vom 15.05.2025 - AK 30/25](ak-30-25.md) — BGH, Beschluss AK 30/25
+- [BGH, Beschluss vom 15.05.2025 - StB 16/25](stb-16-25.md) — BGH, Beschluss StB 16/25
+- [BGH, Beschluss vom 15.05.2025 - StB 17/25](stb-17-25.md) — Sachliche Zuständigkeit im Fall des Vorwurfs der Unterstützung einer terroristischen Vereinigung
+- [BGH, Beschluss vom 15.05.2025 - StB 18/25](stb-18-25.md) — Vermögensarrest: Anordnung zur Sicherung der Vollstreckung der Kosten des Verfahrens gegen eine sog. "Reichsbürger"
+- [BGH, Beschluss vom 13.05.2025 - StB 14/25](stb-14-25.md) — Strafvollstreckung: Strafrestaussetzung zur Bewährung nach Verurteilung wegen terroristischer Straftat
+- [BGH, Beschluss vom 30.04.2025 - StB 15/25](stb-15-25.md) — BGH, Beschluss StB 15/25
+- [BGH, Beschluss vom 16.04.2025 - StB 13/25](stb-13-25.md) — Prüfung der Bestellung eines Sicherungsverteidigers bei notwendiger Verteidigung
+- [BGH, Beschluss vom 16.04.2025 - StB 69/24](stb-69-24.md) — Eröffnung des Hauptverfahrens gegen Angeklagte des "Nationalsozialistischen Untergrunds": Anforderungen an den hinreichenden Tatverdacht
+- [BGH, Beschluss vom 08.04.2025 - AK 18/25](ak-18-25.md) — BGH, Beschluss AK 18/25
+- [BGH, Beschluss vom 03.04.2025 - StB 12/25](stb-12-25.md) — Strafverfahren: Bestellung eines Pflichtverteidigers vor Einleitung des Ermittlungsverfahrens beim BGH
+- [BGH, Beschluss vom 03.04.2025 - StB 8/25](stb-8-25.md) — Ein Untersuchungshaftbefehl erledigt sich mit Rechtskraft der Verurteilung auch dann, wenn er zuletzt gemäß § 116 Abs. 1 StPO außer Vollzug gesetzt war.
+- [BGH, Beschluss vom 20.03.2025 - StB 10/25](stb-10-25.md) — Besetzungseinwand wegen Verhinderung eines Richters aus gesundheitlichen Gründen
+- [BGH, Beschluss vom 20.03.2025 - StB 11/25](stb-11-25.md) — Aufhebung einer Pflichtverteidigerbestellung: Voraussetzungen der Zerstörung des Vertrauensverhältnisses
+- [BGH, Beschluss vom 20.03.2025 - StB 4 - 6/25, StB 4/25, StB 5/25, StB 6/25](stb-4-6-25-stb-4-25-stb-5-25-stb-6-25.md) — BGH, Beschluss StB 4 - 6/25, StB 4/25, StB 5/25, StB 6/25
+- [BGH, Beschluss vom 19.02.2025 - AK 12/25](ak-12-25.md) — BGH, Beschluss AK 12/25
+- [BGH, Beschluss vom 19.02.2025 - AK 13/25](ak-13-25.md) — BGH, Beschluss AK 13/25
+- [BGH, Beschluss vom 13.02.2025 - AK 6/25](ak-6-25.md) — BGH, Beschluss AK 6/25
+- [BGH, Beschluss vom 06.02.2025 - StB 75 - 77/24, StB 75/24, StB 76/24, StB 77/24](stb-75-77-24-stb-75-24-stb-76-24-stb-77-24.md) — BGH, Beschluss StB 75 - 77/24, StB 75/24, StB 76/24, StB 77/24
+- [BGH, Beschluss vom 05.02.2025 - StB 1/25](stb-1-25.md) — Ablehnung der Reststrafenaussetzung bei Staatsschutzdelikten und mangelnder Distanzierung von radikaler Einstellung
+- [BGH, Beschluss vom 22.01.2025 - AK 1 - 5/25, AK 1/25, AK 2/25, AK 3/25, AK 4/25, AK 5/25](ak-1-5-25-ak-1-25-ak-2-25-ak-3-25-ak-4-25-ak-5-25.md) — BGH, Beschluss AK 1 - 5/25, AK 1/25, AK 2/25, AK 3/25, AK 4/25, AK 5/25
+- [BGH, Beschluss vom 16.01.2025 - AK 102/24](ak-102-24.md) — BGH, Beschluss AK 102/24
+- [BGH, Beschluss vom 09.01.2025 - AK 95/24](ak-95-24.md) — BGH, Beschluss AK 95/24
+- [BGH, Beschluss vom 08.01.2025 - StB 71/24](stb-71-24.md) — Bestellung von Pflichtverteidiger im Verfahren über Reststrafenaussetzung

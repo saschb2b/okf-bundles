@@ -1,0 +1,256 @@
+# 2. Strafsenat – 2023
+
+252 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2023 - 2 ARs 446/23](2-ars-446-23.md) — BGH, Beschluss 2 ARs 446/23
+- [BGH, Beschluss vom 21.12.2023 - 2 ARs 460/23](2-ars-460-23.md) — Zuständigkeit in einer Jugendstrafsache
+- [BGH, Beschluss vom 21.12.2023 - 2 ARs 473/23](2-ars-473-23.md) — BGH, Beschluss 2 ARs 473/23
+- [BGH, Urteil vom 20.12.2023 - 2 StR 175/23](2-str-175-23.md) — BGH, Urteil 2 StR 175/23
+- [BGH, Urteil vom 20.12.2023 - 2 StR 359/23](2-str-359-23.md) — Strafrechtliche Unterbringung in einem psychiatrischen Krankenhaus: Freiwilligkeit eines Rücktritts vom Versuch bei Schuldunfähigkeit; Vorliegen von Straftaten 
+- [BGH, Beschluss vom 19.12.2023 - 2 StR 402/23](2-str-402-23.md) — Voraussetzungen der Anordnung der Unterbringung in einer Entziehungsanstalt
+- [BGH, Beschluss vom 07.12.2023 - 2 StR 365/23](2-str-365-23.md) — BGH, Beschluss 2 StR 365/23
+- [BGH, Beschluss vom 07.12.2023 - 2 StR 395/23](2-str-395-23.md) — Notwendige Darlegungen bei Unterbringungsanordnung in Entziehungsanstalt hinsichtlich bisheriger Erfolglosigkeit therapeutischer Maßnahmen
+- [BGH, Beschluss vom 07.12.2023 - 2 StR 49/23](2-str-49-23.md) — Beweisverbot nach unterlassener Pflichtverteidigerbestellung; Bestand einer Adhäsionsentscheidung ohne Geltendmachung eines bezifferten Anspruchs
+- [BGH, Urteil vom 06.12.2023 - 2 StR 276/23](2-str-276-23.md) — Gefährlichkeitsprognose bei Antrag auf Unterbringung eines Beschuldigten in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 06.12.2023 - 2 StR 332/23](2-str-332-23.md) — BGH, Beschluss 2 StR 332/23
+- [BGH, Urteil vom 06.12.2023 - 2 StR 471/22](2-str-471-22.md) — 1. Erwirbt der Täter durch ein verbotenes Insidergeschäft Finanzinstrumente, unterfallen diese - ersatzweise deren Wert - der Einziehung. 2. Die Aufwendungen fü
+- [BGH, Beschluss vom 05.12.2023 - 2 StR 361/23](2-str-361-23.md) — BGH, Beschluss 2 StR 361/23
+- [BGH, Beschluss vom 05.12.2023 - 2 StR 446/23](2-str-446-23.md) — Strafzumessung bei Betäubungsmitteldelikt: Begründungserfordernis bei Verhängung der gleichen Strafe durch das nach Revision wiederbefasste Erstgericht trotz We
+- [BGH, Beschluss vom 05.12.2023 - 2 StR 452/23](2-str-452-23.md) — BGH, Beschluss 2 StR 452/23
+- [BGH, Beschluss vom 23.11.2023 - 2 StR 140/23](2-str-140-23.md) — BGH, Beschluss 2 StR 140/23
+- [BGH, Beschluss vom 23.11.2023 - 2 StR 403/23](2-str-403-23.md) — Moralisierende Strafzumessungserwägungen bei der Bemessung der Strafe für eine Beschaffungstat
+- [BGH, Beschluss vom 23.11.2023 - 2 StR 410/23](2-str-410-23.md) — BGH, Beschluss 2 StR 410/23
+- [BGH, Beschluss vom 23.11.2023 - 2 StR 420/23](2-str-420-23.md) — BGH, Beschluss 2 StR 420/23
+- [BGH, Beschluss vom 23.11.2023 - 2 StR 59/23](2-str-59-23.md) — BGH, Beschluss 2 StR 59/23
+- [BGH, Urteil vom 22.11.2023 - 2 StR 152/23](2-str-152-23.md) — Vorverlagerung des Schuldvorwurfs bei Unterlassen der Medikamenteneinnahme eines psychisch Erkrankten
+- [BGH, Beschluss vom 22.11.2023 - 2 StR 371/23](2-str-371-23.md) — Erforderliche Darlegungen in Urteil bei Einziehung von Bargeld
+- [BGH, Beschluss vom 21.11.2023 - 2 StR 323/23](2-str-323-23.md) — BGH, Beschluss 2 StR 323/23
+- [BGH, Beschluss vom 21.11.2023 - 2 StR 427/23](2-str-427-23.md) — BGH, Beschluss 2 StR 427/23
+- [BGH, Beschluss vom 21.11.2023 - 2 StR 447/23](2-str-447-23.md) — Bandenabrede durch in wechselnder Beteiligung ohne vorherige Tatplanung spontan aus der Situation heraus begangene Straftaten; Zueignungsabsicht bei Wegnahme ei
+- [BGH, Beschluss vom 16.11.2023 - 2 StR 138/23](2-str-138-23.md) — BGH, Beschluss 2 StR 138/23
+- [BGH, Beschluss vom 16.11.2023 - 2 StR 243/23](2-str-243-23.md) — BGH, Beschluss 2 StR 243/23
+- [BGH, Beschluss vom 16.11.2023 - 2 StR 349/23](2-str-349-23.md) — Strafrechtliche Unterbringung in einem psychiatrischen Krankenhaus: Anordnung bei "nicht ausschließbarer" verminderter Schuldfähigkeit
+- [BGH, Beschluss vom 15.11.2023 - 2 ARs 298/23](2-ars-298-23.md) — BGH, Beschluss 2 ARs 298/23
+- [BGH, Beschluss vom 15.11.2023 - 2 ARs 386/23](2-ars-386-23.md) — BGH, Beschluss 2 ARs 386/23
+- [BGH, Beschluss vom 15.11.2023 - 2 StR 327/23](2-str-327-23.md) — Grenzwert der nicht geringen Menge an Betäubungsmitteln; Unterbringung in einer Erziehungsanstalt
+- [BGH, Beschluss vom 15.11.2023 - 2 StR 346/23](2-str-346-23.md) — BGH, Beschluss 2 StR 346/23
+- [BGH, Beschluss vom 14.11.2023 - 2 StR 292/23](2-str-292-23.md) — BGH, Beschluss 2 StR 292/23
+- [BGH, Beschluss vom 14.11.2023 - 2 StR 441/23](2-str-441-23.md) — Anforderungen an Urteilsgründe bei Absehen von Strafrahmenmilderung
+- [BGH, Beschluss vom 08.11.2023 - 2 StR 131/23](2-str-131-23.md) — Hilfeleistung zum banden- und gewerbsmäßigen Einschleusens von Ausländern
+- [BGH, Beschluss vom 08.11.2023 - 2 StR 322/23](2-str-322-23.md) — BGH, Beschluss 2 StR 322/23
+- [BGH, Urteil vom 08.11.2023 - 2 StR 374/23](2-str-374-23.md) — Strafzumessung bei Abgabe von Betäubungsmitteln an Minderjährige und Strafunmündige
+- [BGH, Beschluss vom 08.11.2023 - 2 StR 418/23](2-str-418-23.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Anforderungen an einen Bandenhandel
+- [BGH, Beschluss vom 07.11.2023 - 2 StR 166/23](2-str-166-23.md) — BGH, Beschluss 2 StR 166/23
+- [BGH, Beschluss vom 07.11.2023 - 2 StR 284/23](2-str-284-23.md) — Anforderungen an Ablehnung von Beweisantrag über Negativtatsache
+- [BGH, Beschluss vom 07.11.2023 - 2 StR 302/23](2-str-302-23.md) — Strafbefreiender Rücktritt vom Tötungsversuch
+- [BGH, Beschluss vom 07.11.2023 - 2 StR 344/23](2-str-344-23.md) — BGH, Beschluss 2 StR 344/23
+- [BGH, Beschluss vom 07.11.2023 - 2 StR 347/23](2-str-347-23.md) — BGH, Beschluss 2 StR 347/23
+- [BGH, Beschluss vom 07.11.2023 - 2 StR 358/23](2-str-358-23.md) — BGH, Beschluss 2 StR 358/23
+- [BGH, Beschluss vom 26.10.2023 - 2 StR 225/23](2-str-225-23.md) — Gewerbsmäßiger Bandenbetrug durch Veräußerung von Mietautos an Dritte; Urkundenfälschung
+- [BGH, Beschluss vom 26.10.2023 - 2 StR 226/23](2-str-226-23.md) — Hehlerei in Form des Sich-Verschaffens bei Erlangen der eigenen Verfügungsgewalt
+- [BGH, Beschluss vom 26.10.2023 - 2 StR 268/23](2-str-268-23.md) — BGH, Beschluss 2 StR 268/23
+- [BGH, Beschluss vom 26.10.2023 - 2 StR 273/23](2-str-273-23.md) — BGH, Beschluss 2 StR 273/23
+- [BGH, Beschluss vom 26.10.2023 - 2 StR 310/23](2-str-310-23.md) — BGH, Beschluss 2 StR 310/23
+- [BGH, Beschluss vom 26.10.2023 - 2 StR 324/23](2-str-324-23.md) — BGH, Beschluss 2 StR 324/23
+- [BGH, Beschluss vom 25.10.2023 - 2 StR 186/23](2-str-186-23.md) — BGH, Beschluss 2 StR 186/23
+- [BGH, Urteil vom 25.10.2023 - 2 StR 195/23](2-str-195-23.md) — 1. Bei den gesetzlichen Vorschriften, nach denen ein Richter wegen Besorgnis der Befangenheit abgelehnt werden kann (§ 24 Abs. 1 und 2, § 31 StPO), handelt es s
+- [BGH, Beschluss vom 25.10.2023 - 2 StR 285/23](2-str-285-23.md) — Sexueller Missbrauch von Schutzbefohlenen bzw. Kindern: Bedeutung der Gründe für die Teileinstellung eines Verfahrens für die Beweiswürdigung zu den verbleibend
+- [BGH, Beschluss vom 24.10.2023 - 2 StR 236/23](2-str-236-23.md) — BGH, Beschluss 2 StR 236/23
+- [BGH, Beschluss vom 24.10.2023 - 2 StR 304/23](2-str-304-23.md) — Anforderung an Beweiswürdigung in "Aussage gegen Aussage"-Konstellation bei Vergewaltigungsvorwurf
+- [BGH, Beschluss vom 24.10.2023 - 2 StR 321/23](2-str-321-23.md) — Strafverurteilung wegen Geldwäsche: Verhältnismäßigkeitsprüfung bei der fakultativen Einziehung
+- [BGH, Beschluss vom 24.10.2023 - 2 StR 33/22](2-str-33-22.md) — Prüfung der möglicherweise verminderten Steuerungsfähigkeit bei Feststellung einer Persönlichkeitsstörung mit Hang zu Missbrauchstaten
+- [BGH, Beschluss vom 24.10.2023 - 2 StR 338/23](2-str-338-23.md) — Strafverurteilung wegen versuchten Betrugs u.a.: Irrtumserregung gegenüber einer Person bei Online-Bestellungen
+- [BGH, Beschluss vom 24.10.2023 - 2 StR 378/23](2-str-378-23.md) — Unterbringung in einem psychiatrischen Krankenhaus: Erfordernis der Heranziehung und Gesamtwürdigung aller maßgeblichen Umstände zur zuverlässigen Beurteilung d
+- [BGH, Beschluss vom 12.10.2023 - 2 StR 184/23](2-str-184-23.md) — Verwertung eines rechtsfehlerfrei festgestellten Verstoßes gegen Weisungen in der Strafzumessung bei fehlendem Antrag der Führungsaufsichtsstelle
+- [BGH, Beschluss vom 12.10.2023 - 2 StR 243/22](2-str-243-22.md) — Eine Scheinhandlung im Sinne von § 4 Abs. 1 SubvG liegt nur vor, wenn über die Falschangabe hinaus ein gegenüber dem Subventionsgeber zur Kenntnis gebrachter ta
+- [BGH, Beschluss vom 12.10.2023 - 2 StR 259/23](2-str-259-23.md) — Strafverurteilung wegen Betäubungsmitteldelikt: Einziehung von Tatobjekten nach Verfahrensbeschränkung
+- [BGH, Beschluss vom 12.10.2023 - 2 StR 354/23](2-str-354-23.md) — BGH, Beschluss 2 StR 354/23
+- [BGH, Beschluss vom 12.10.2023 - 2 StR 79/23](2-str-79-23.md) — Versuchter Mord: Motivationsbeherrschungspotential im Sinne des Mordmerkmals und Schuldfähigkeitsprüfung
+- [BGH, Beschluss vom 11.10.2023 - 2 StR 3/23](2-str-3-23.md) — Unterbringung in einer Entziehungsanstalt bei Drogenkonsum: Prüfungsumfang zum Vorliegen eines Hangs zur Straftatbegehung; erweiterten Einziehung von Taterträge
+- [BGH, Beschluss vom 11.10.2023 - 2 StR 315/23](2-str-315-23.md) — BGH, Beschluss 2 StR 315/23
+- [BGH, Urteil vom 11.10.2023 - 2 StR 96/23](2-str-96-23.md) — Strafsache: Sexueller Missbrauch eines Kindes ohne Körperkontakt
+- [BGH, Beschluss vom 10.10.2023 - 2 ARs 166/21, 2 ARs 173/21, 2 ARs 203/21, 2 ARs 277/21, 2 ARs 278/21, 2 ARs 299/21, 2 ARs 300/21, 2 ARs 302/21, 2 ARs 314/21, 2 ARs 40/22, 2 ARs 51/22, 2 ARs 137/22, 2 ARs 138/22, 2 ARs 188/22, 2 ARs 364/22](2-ars-166-21-2-ars-173-21-2-ars-203-21-2-ars-277-21-2-ars-278-21-2-kore631862023.md) — BGH, Beschluss 2 ARs 166/21, 2 ARs 173/21, 2 ARs 203/21, 2 ARs 277/21, 2 ARs 278/21, 2 ARs 299/21, 2 ARs 300/21, 2 ARs 302/21, 2 ARs 314/21, 2 ARs 40/22, 2 ARs 
+- [BGH, Beschluss vom 10.10.2023 - 2 ARs 166/21, 2 ARs 173/21, 2 ARs 203/21, 2 ARs 277/21, 2 ARs 278/21, 2 ARs 299/21, 2 ARs 300/21, 2 ARs 302/21, 2 ARs 314/21, 2 ARs 40/22, 2 ARs 51/22, 2 ARs 137/22, 2 ARs 138/22, 2 ARs 188/22, 2 ARs 364/22](2-ars-166-21-2-ars-173-21-2-ars-203-21-2-ars-277-21-2-ars-278-21-2-kore631872023.md) — Grenzen der Rechtsschutzgarantie im Hinblick auf substanzlose und offensichtlich aussichtslose Serienbeschwerden
+- [BGH, Beschluss vom 10.10.2023 - 2 ARs 347/23](2-ars-347-23.md) — BGH, Beschluss 2 ARs 347/23
+- [BGH, Beschluss vom 10.10.2023 - 2 ARs 361/23](2-ars-361-23.md) — Kompetenzkonflikt zwischen Oberlandesgericht und Kammergericht bezüglich örtlicher Zuständigkeit in einer Justizverwaltungssache
+- [BGH, Beschluss vom 10.10.2023 - 2 StR 180/23](2-str-180-23.md) — BGH, Beschluss 2 StR 180/23
+- [BGH, Beschluss vom 10.10.2023 - 2 StR 196/23](2-str-196-23.md) — BGH, Beschluss 2 StR 196/23
+- [BGH, Beschluss vom 10.10.2023 - 2 StR 270/23](2-str-270-23.md) — BGH, Beschluss 2 StR 270/23
+- [BGH, Beschluss vom 10.10.2023 - 2 StR 333/23](2-str-333-23.md) — BGH, Beschluss 2 StR 333/23
+- [BGH, Beschluss vom 10.10.2023 - 2 StR 64/21](2-str-64-21.md) — BGH, Beschluss 2 StR 64/21
+- [BGH, Beschluss vom 27.09.2023 - 2 StR 163/23](2-str-163-23.md) — BGH, Beschluss 2 StR 163/23
+- [BGH, Urteil vom 27.09.2023 - 2 StR 227/23](2-str-227-23.md) — BGH, Urteil 2 StR 227/23
+- [BGH, Beschluss vom 27.09.2023 - 2 StR 448/22](2-str-448-22.md) — BGH, Beschluss 2 StR 448/22
+- [BGH, Urteil vom 27.09.2023 - 2 StR 46/23](2-str-46-23.md) — BGH, Urteil 2 StR 46/23
+- [BGH, Beschluss vom 26.09.2023 - 2 StR 206/23](2-str-206-23.md) — BGH, Beschluss 2 StR 206/23
+- [BGH, Beschluss vom 26.09.2023 - 2 StR 299/22](2-str-299-22.md) — Strafmilderung bei freiwilligem Beitrag des Angeklagten zur Aufklärung einer Betäubungsmittelstraftat
+- [BGH, Beschluss vom 26.09.2023 - 2 StR 336/23](2-str-336-23.md) — Strafzumessungsrechtliche Berücksichtigung von Tatfolgen bei einer Serie von Sexualdelikten
+- [BGH, Beschluss vom 14.09.2023 - 2 StR 37/22](2-str-37-22.md) — BGH, Beschluss 2 StR 37/22
+- [BGH, Beschluss vom 14.09.2023 - 2 StR 450/22](2-str-450-22.md) — BGH, Beschluss 2 StR 450/22
+- [BGH, Beschluss vom 13.09.2023 - 2 StR 203/23](2-str-203-23.md) — BGH, Beschluss 2 StR 203/23
+- [BGH, Urteil vom 13.09.2023 - 2 StR 42/23](2-str-42-23.md) — BGH, Urteil 2 StR 42/23
+- [BGH, Beschluss vom 12.09.2023 - 2 StR 199/23](2-str-199-23.md) — Erforderliche Eigennützigkeit beim Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 12.09.2023 - 2 StR 230/22](2-str-230-22.md) — BGH, Beschluss 2 StR 230/22
+- [BGH, Beschluss vom 12.09.2023 - 2 StR 87/23](2-str-87-23.md) — BGH, Beschluss 2 StR 87/23
+- [BGH, Beschluss vom 24.08.2023 - 2 StR 173/23](2-str-173-23.md) — BGH, Beschluss 2 StR 173/23
+- [BGH, Beschluss vom 24.08.2023 - 2 StR 252/23](2-str-252-23.md) — Strafverurteilung wegen bandenmäßigen bewaffneten Handeltreibens mit Betäubungsmitteln mit anschließender Unterbringungsanordnung: Strafzumessung bei Sicherstel
+- [BGH, Beschluss vom 24.08.2023 - 2 StR 271/23](2-str-271-23.md) — Sexueller Missbrauch von Schutzbefohlenen: Feststellung einer sexuellen Handlung von Erheblichkeit
+- [BGH, Beschluss vom 23.08.2023 - 2 ARs 268/23](2-ars-268-23.md) — Bestimmung des örtlich zuständigen Jugendgerichts bei Aufenthaltswechsel des zwischenzeitlich volljährigen Angeklagten
+- [BGH, Beschluss vom 23.08.2023 - 2 StR 176/23](2-str-176-23.md) — Schriftformgerechter Strafantrag bei fehlender Unterschrift des Antragstellers
+- [BGH, Beschluss vom 23.08.2023 - 2 StR 244/23](2-str-244-23.md) — Handeltreiben mit Betäubungsmitteln bei Weitergabe von Ecstasy-Tabletten zum Einkaufspreis
+- [BGH, Beschluss vom 23.08.2023 - 2 StR 256/23](2-str-256-23.md) — BGH, Beschluss 2 StR 256/23
+- [BGH, Beschluss vom 23.08.2023 - 2 StR 275/23](2-str-275-23.md) — Berücksichtigung von Verkehrsdelikten bei Strafbemessung zu Raubdelikt
+- [BGH, Beschluss vom 23.08.2023 - 2 StR 405/22](2-str-405-22.md) — BGH, Beschluss 2 StR 405/22
+- [BGH, Beschluss vom 17.08.2023 - 2 StR 138/22](2-str-138-22.md) — Strafurteil wegen gemeinschaftlichen Totschlags: Anforderungen an die Beweiswürdigung bei einer Verurteilung aufgrund der Angaben des Mittäters
+- [BGH, Beschluss vom 17.08.2023 - 2 StR 164/23](2-str-164-23.md) — Belehrung des Angeklagten über Entfall der Bindungswirkung an getroffene Verständigung nach Aussetzung der Hauptverhandlung
+- [BGH, Beschluss vom 17.08.2023 - 2 StR 200/23](2-str-200-23.md) — Konkurrenzrechtliche Bewertung mehrerer Taten des Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 17.08.2023 - 2 StR 215/23](2-str-215-23.md) — Darstellungsmangel bei Beweiswürdigung durch Tatrichter bei geständigem Angeklagten; tatbestandliche Voraussetzungen des Computerbetrugs
+- [BGH, Beschluss vom 17.08.2023 - 2 StR 263/23](2-str-263-23.md) — BGH, Beschluss 2 StR 263/23
+- [BGH, Beschluss vom 16.08.2023 - 2 StR 146/23](2-str-146-23.md) — Anforderungen an Darlegung der Gefährlichkeitsprognose im Rahmen einer Unterbringungsanordnung
+- [BGH, Beschluss vom 16.08.2023 - 2 StR 274/23](2-str-274-23.md) — BGH, Beschluss 2 StR 274/23
+- [BGH, Beschluss vom 16.08.2023 - 2 StR 308/22](2-str-308-22.md) — Hauptverhandlung in Strafsachen: Wiedereintritt in die Beweisaufnahme nach Gewährung des letzten Wortes für den Angeklagten
+- [BGH, Urteil vom 02.08.2023 - 2 StR 122/23](2-str-122-23.md) — Besonders schwerer Fall des Diebstahls bei hilfloser und weitgehend immobiler Seniorin; Beurteilung der Schuldschwere im Jugendstrafrecht
+- [BGH, Beschluss vom 02.08.2023 - 2 StR 2/23](2-str-2-23.md) — BGH, Beschluss 2 StR 2/23
+- [BGH, Beschluss vom 02.08.2023 - 2 StR 234/23](2-str-234-23.md) — Frage der Schuldfähigkeit im Fall einer Psychose aus dem Formenkreis der Schizophrenie
+- [BGH, Beschluss vom 02.08.2023 - 2 StR 37/23](2-str-37-23.md) — Ausschluss der Einziehung des Tatertrags bei gesamtschuldnerischer Haftung
+- [BGH, Beschluss vom 01.08.2023 - 2 ARs 255/23](2-ars-255-23.md) — BGH, Beschluss 2 ARs 255/23
+- [BGH, Beschluss vom 01.08.2023 - 2 ARs 267/23](2-ars-267-23.md) — Reststrafaussetzung zur Bewährung: zuständiges Gericht; Berücksichtigung der erforderlichen Vorlaufzeit
+- [BGH, Beschluss vom 01.08.2023 - 2 StR 112/23](2-str-112-23.md) — BGH, Beschluss 2 StR 112/23
+- [BGH, Beschluss vom 01.08.2023 - 2 StR 124/23](2-str-124-23.md) — Wiedereinsetzung in die versäumte Revisionseinlegungsfrist: Fehlerhafte Übersendung der Revisionsschrift via beA und notwendiger Inhalt des Wiedereinsetzungsant
+- [BGH, Beschluss vom 01.08.2023 - 2 StR 210/23](2-str-210-23.md) — BGH, Beschluss 2 StR 210/23
+- [BGH, Beschluss vom 01.08.2023 - 2 StR 217/23](2-str-217-23.md) — Bemessung der Gesamtstrafe: Erhöhung der Einsatzstrafe bei Zusammenhang zwischen gleichartigen Taten
+- [BGH, Beschluss vom 20.07.2023 - 2 StR 187/23](2-str-187-23.md) — BGH, Beschluss 2 StR 187/23
+- [BGH, Beschluss vom 20.07.2023 - 2 StR 58/22](2-str-58-22.md) — Anforderungen an Urteilsfeststellungen bei Anordnung der Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 20.07.2023 - 2 StR 88/22](2-str-88-22.md) — Tatrichterliche Feststellungen zur verminderten Schuldfähigkeit des Täters
+- [BGH, Beschluss vom 19.07.2023 - 2 StR 104/23](2-str-104-23.md) — Zulässigkeit einer Verfahrensrüge betreffend die Verwertung von bei Wohnungsdurchsuchung aufgefundener Objekte
+- [BGH, Urteil vom 19.07.2023 - 2 StR 248/22](2-str-248-22.md) — Ordnungsgemäße Urteilsbegründung des Tatgerichts bei fehlender Schwerpunktsetzung
+- [BGH, Urteil vom 19.07.2023 - 2 StR 255/22](2-str-255-22.md) — Schuldspruch wegen veruntreuender Unterschlagung; lückenhafte Beweiswürdigung
+- [BGH, Urteil vom 19.07.2023 - 2 StR 266/22](2-str-266-22.md) — Tatvorwurf Vergewaltigung: Umfang der Berücksichtigung eines Chatverlaufs im Rahmen der Beweiswürdigung
+- [BGH, Beschluss vom 19.07.2023 - 2 StR 369/22](2-str-369-22.md) — BGH, Beschluss 2 StR 369/22
+- [BGH, Urteil vom 19.07.2023 - 2 StR 48/22](2-str-48-22.md) — Revision im Strafverfahren wegen Totschlags durch einen Krankenhauspfleger: Überprüfung der tatrichterlichen Beweiswürdigung bei Freispruch nach Tod eines multi
+- [BGH, Beschluss vom 19.07.2023 - 2 StR 77/22](2-str-77-22.md) — Betrug im Schneeballsystem: Vorliegen eines Vermögensschadens beim Kapitalanleger
+- [BGH, Beschluss vom 18.07.2023 - 2 StR 141/23](2-str-141-23.md) — Sexueller Missbrauch eines Kindes: Bloßes Ausziehen als sexuelle Handlung
+- [BGH, Beschluss vom 18.07.2023 - 2 StR 170/23](2-str-170-23.md) — BGH, Beschluss 2 StR 170/23
+- [BGH, Beschluss vom 18.07.2023 - 2 StR 423/22](2-str-423-22.md) — Zuhälterei und Zwangsprostitution: Voraussetzung der Ausbeutung; Veranlassen zur Fortsetzung der Prostitution; Zumessung der Einzelstrafen und Gesamtstrafenbild
+- [BGH, Beschluss vom 06.07.2023 - 2 StR 8/23](2-str-8-23.md) — Anrechnungsentscheidung hinsichtlich erlittener Auslieferungshaft; Unterbringung in Sicherungsverwahrung bei Vollstreckungsdauer unter zwei Jahren
+- [BGH, Beschluss vom 05.07.2023 - 2 ARs 244/23](2-ars-244-23.md) — BGH, Beschluss 2 ARs 244/23
+- [BGH, Beschluss vom 05.07.2023 - 2 ARs 286/23](2-ars-286-23.md) — Verfahrensverbindung in Strafsachen: Verbindung von Verfahren bei Gerichten unterschiedlicher Rangordnung; Abgabe an ranghöheres Gericht bei zu prüfender Unterb
+- [BGH, Beschluss vom 04.07.2023 - 2 StR 105/23](2-str-105-23.md) — BGH, Beschluss 2 StR 105/23
+- [BGH, Beschluss vom 04.07.2023 - 2 StR 123/23](2-str-123-23.md) — BGH, Beschluss 2 StR 123/23
+- [BGH, Beschluss vom 04.07.2023 - 2 StR 167/23](2-str-167-23.md) — Konkurrenzen bei versuchter schwerer räuberische Erpressung: Mehrere natürliche Handlungen als sog. rechtliche Bewertungseinheit; mehrere Angriffe auf die Wille
+- [BGH, Beschluss vom 04.07.2023 - 2 StR 178/23](2-str-178-23.md) — Verklammerung von Taten im Bereich Straßenverkehrsdelikte und Besitz von Betäubungsmitteln
+- [BGH, Beschluss vom 04.07.2023 - 2 StR 219/22](2-str-219-22.md) — Erforderliche Feststellungen zum Qualifikationstatbestand des bewaffneten Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 04.07.2023 - 2 StR 98/23](2-str-98-23.md) — BGH, Beschluss 2 StR 98/23
+- [BGH, Beschluss vom 22.06.2023 - 2 ARs 246/23](2-ars-246-23.md) — BGH, Beschluss 2 ARs 246/23
+- [BGH, Beschluss vom 22.06.2023 - 2 StR 144/23](2-str-144-23.md) — Strafverurteilung eines Rechtsanwalts wegen Untreue und Verhängung eines Berufsverbots: Anforderungen an eine Gefährlichkeitsprognose
+- [BGH, Beschluss vom 22.06.2023 - 2 StR 156/23](2-str-156-23.md) — Adhäsionsantrag im Strafverfahren wegen sexuellen Missbrauchs von Kindern: Feststellungsantrag bei noch nicht abgeschlossener therapeutischer Behandlung des Tat
+- [BGH, Beschluss vom 22.06.2023 - 2 StR 540/21](2-str-540-21.md) — BGH, Beschluss 2 StR 540/21
+- [BGH, Beschluss vom 21.06.2023 - 2 StR 158/23](2-str-158-23.md) — Persönlichkeitsstörung als „schwere andere seelische Störung“
+- [BGH, Beschluss vom 20.06.2023 - 2 StR 111/23](2-str-111-23.md) — BGH, Beschluss 2 StR 111/23
+- [BGH, Beschluss vom 20.06.2023 - 2 StR 126/23](2-str-126-23.md) — BGH, Beschluss 2 StR 126/23
+- [BGH, Beschluss vom 20.06.2023 - 2 StR 31/23](2-str-31-23.md) — BGH, Beschluss 2 StR 31/23
+- [BGH, Beschluss vom 20.06.2023 - 2 StR 39/23](2-str-39-23.md) — Einlegung einer Revision unter Beachtung der Formvorschriften bei Übermittlung über besonderes elektronisches Anwaltspostfach
+- [BGH, Beschluss vom 20.06.2023 - 2 StR 442/22](2-str-442-22.md) — BGH, Beschluss 2 StR 442/22
+- [BGH, Beschluss vom 07.06.2023 - 2 StR 103/22](2-str-103-22.md) — BGH, Beschluss 2 StR 103/22
+- [BGH, Beschluss vom 07.06.2023 - 2 StR 120/23](2-str-120-23.md) — BGH, Beschluss 2 StR 120/23
+- [BGH, Beschluss vom 06.06.2023 - 2 ARs 173/23](2-ars-173-23.md) — BGH, Beschluss 2 ARs 173/23
+- [BGH, Beschluss vom 06.06.2023 - 2 ARs 257/23](2-ars-257-23.md) — BGH, Beschluss 2 ARs 257/23
+- [BGH, Beschluss vom 06.06.2023 - 2 StR 103/23](2-str-103-23.md) — BGH, Beschluss 2 StR 103/23
+- [BGH, Beschluss vom 06.06.2023 - 2 StR 418/22](2-str-418-22.md) — BGH, Beschluss 2 StR 418/22
+- [BGH, Beschluss vom 06.06.2023 - 2 StR 463/22](2-str-463-22.md) — BGH, Beschluss 2 StR 463/22
+- [BGH, Beschluss vom 06.06.2023 - 2 StR 78/23](2-str-78-23.md) — Anwendung von Jugendstrafrecht: Anforderungen an Darlegungen im Urteil zum Erziehungsgedanken
+- [BGH, Beschluss vom 24.05.2023 - 2 ARs 139/23](2-ars-139-23.md) — BGH, Beschluss 2 ARs 139/23
+- [BGH, Urteil vom 24.05.2023 - 2 StR 320/22](2-str-320-22.md) — Heimtückische Tötung bei Erschießen im Auto
+- [BGH, Beschluss vom 23.05.2023 - 2 ARs 148/23](2-ars-148-23.md) — BGH, Beschluss 2 ARs 148/23
+- [BGH, Beschluss vom 23.05.2023 - 2 StR 114/23](2-str-114-23.md) — BGH, Beschluss 2 StR 114/23
+- [BGH, Beschluss vom 23.05.2023 - 2 StR 413/22](2-str-413-22.md) — BGH, Beschluss 2 StR 413/22
+- [BGH, Beschluss vom 23.05.2023 - 2 StR 428/22](2-str-428-22.md) — Strafausspruch bei Tötungsdelikt: Berücksichtigung der Tatvollendung zu Lasten des Angeklagten
+- [BGH, Beschluss vom 23.05.2023 - 2 StR 469/22](2-str-469-22.md) — Revisionsrücknahme: Wirksamkeit der Rücknahmeerklärung bei festgestellter Schizophrenie des Angeklagten
+- [BGH, Beschluss vom 23.05.2023 - 2 StR 478/22](2-str-478-22.md) — BGH, Beschluss 2 StR 478/22
+- [BGH, Beschluss vom 10.05.2023 - 2 StR 373/22](2-str-373-22.md) — BGH, Beschluss 2 StR 373/22
+- [BGH, Beschluss vom 10.05.2023 - 2 StR 392/22](2-str-392-22.md) — BGH, Beschluss 2 StR 392/22
+- [BGH, Beschluss vom 10.05.2023 - 2 StR 52/23](2-str-52-23.md) — BGH, Beschluss 2 StR 52/23
+- [BGH, Urteil vom 10.05.2023 - 2 StR 6/23](2-str-6-23.md) — Hauptverhandlung in Strafsachen: Konkludente Bejahung des besonderen öffentlichen Interesses an der Strafverfolgung einer Körperverletzung im Schlussvortrag des
+- [BGH, Beschluss vom 09.05.2023 - 2 StR 57/23](2-str-57-23.md) — Anforderungen zur Bildung einer Einheitsjugendstrafe unter Einbeziehung eines früheren Urteils
+- [BGH, Beschluss vom 26.04.2023 - 2 StR 559/21](2-str-559-21.md) — Handel mit Betäubungsmitteln: Verfahrensrüge bei fehlerhafter Verwertung eines schriftlichen Wirkstoffgutachtens
+- [BGH, Beschluss vom 26.04.2023 - 2 StR 75/23](2-str-75-23.md) — BGH, Beschluss 2 StR 75/23
+- [BGH, Beschluss vom 25.04.2023 - 2 ARs 146/22](2-ars-146-22.md) — Bestimmung des örtlich zuständigen Gerichts in einer Strafvollzugssache
+- [BGH, Beschluss vom 25.04.2023 - 2 ARs 147/22](2-ars-147-22.md) — BGH, Beschluss 2 ARs 147/22
+- [BGH, Beschluss vom 25.04.2023 - 2 ARs 159/23](2-ars-159-23.md) — Bestimmung des zuständigen Gerichts zur Entscheidung über den Widerruf der Strafaussetzung zur Bewährung durch den BGH als gemeinschaftliches oberes Gericht
+- [BGH, Beschluss vom 25.04.2023 - 2 ARs 25/23](2-ars-25-23.md) — BGH, Beschluss 2 ARs 25/23
+- [BGH, Beschluss vom 20.04.2023 - 2 StR 363/22](2-str-363-22.md) — BGH, Beschluss 2 StR 363/22
+- [BGH, Beschluss vom 20.04.2023 - 2 StR 368/22](2-str-368-22.md) — BGH, Beschluss 2 StR 368/22
+- [BGH, Beschluss vom 20.04.2023 - 2 StR 92/23](2-str-92-23.md) — BGH, Beschluss 2 StR 92/23
+- [BGH, Beschluss vom 19.04.2023 - 2 StR 25/23](2-str-25-23.md) — BGH, Beschluss 2 StR 25/23
+- [BGH, Beschluss vom 19.04.2023 - 2 StR 46/22](2-str-46-22.md) — Notwendige Feststellungen zur Anordnung einer Wertersatzeinziehung
+- [BGH, Beschluss vom 19.04.2023 - 2 StR 56/23](2-str-56-23.md) — Strafverfahren: Unterzeichnung einer als elektronisches Dokument übermittelten Revisionsbegründungsschrift allein mit der Bezeichnung "Rechtsanwalt"
+- [BGH, Beschluss vom 19.04.2023 - 2 StR 64/23](2-str-64-23.md) — BGH, Beschluss 2 StR 64/23
+- [BGH, Beschluss vom 19.04.2023 - 2 StR 70/23](2-str-70-23.md) — BGH, Beschluss 2 StR 70/23
+- [BGH, Beschluss vom 13.04.2023 - 2 ARs 475/22](2-ars-475-22.md) — BGH, Beschluss 2 ARs 475/22
+- [BGH, Beschluss vom 13.04.2023 - 2 StR 101/23](2-str-101-23.md) — BGH, Beschluss 2 StR 101/23
+- [BGH, Urteil vom 12.04.2023 - 2 StR 228/22](2-str-228-22.md) — BGH, Urteil 2 StR 228/22
+- [BGH, Beschluss vom 30.03.2023 - 2 StR 118/22](2-str-118-22.md) — Darlegungsanforderung im Urteil zur strafschärfender Beurteilung der abgeurteilten Tat unter laufender Bewährung
+- [BGH, Beschluss vom 30.03.2023 - 2 StR 239/22](2-str-239-22.md) — BGH, Beschluss 2 StR 239/22
+- [BGH, Beschluss vom 30.03.2023 - 2 StR 288/22](2-str-288-22.md) — BGH, Beschluss 2 StR 288/22
+- [BGH, Beschluss vom 30.03.2023 - 2 StR 358/22](2-str-358-22.md) — Beweiswürdigung zum Vorliegen einer Bande; konkrete Darlegung der Gegenstände in Einziehungsentscheidung
+- [BGH, Beschluss vom 30.03.2023 - 2 StR 479/21](2-str-479-21.md) — Anordnung der Unterbringung in einer Entziehungsanstalt: erforderliche Darlegung der Aussicht auf einen Maßregelerfolg
+- [BGH, Beschluss vom 29.03.2023 - 2 ARs 254/22](2-ars-254-22.md) — BGH, Beschluss 2 ARs 254/22
+- [BGH, Beschluss vom 29.03.2023 - 2 StR 147/21](2-str-147-21.md) — Versuchter Totschlag: Strafbefreiender Rücktritt bei Einwirkung auf den Täter durch einen Dritten
+- [BGH, Beschluss vom 29.03.2023 - 2 StR 252/21](2-str-252-21.md) — Verurteilung wegen Totschlag: Anforderungen an Darlegung der Erforderlichkeit einer Verteidigungshandlung
+- [BGH, Urteil vom 29.03.2023 - 2 StR 306/22](2-str-306-22.md) — Beweiswürdigung im Strafverfahren: Voraussetzung der Tatsachenfeststellung aufgrund von Aussagen von Zeugen vom Hörensagen
+- [BGH, Urteil vom 29.03.2023 - 2 StR 343/22](2-str-343-22.md) — Gefahrbeurteilung für Unterbringung in Entziehungsanstalt
+- [BGH, Beschluss vom 28.03.2023 - 2 StR 33/23](2-str-33-23.md) — Kostenentscheidung in einer Strafsache: Notwendige Auslagen des Nebenklageberechtigten
+- [BGH, Beschluss vom 28.03.2023 - 2 StR 61/23](2-str-61-23.md) — BGH, Beschluss 2 StR 61/23
+- [BGH, Beschluss vom 16.03.2023 - 2 ARs 3/23](2-ars-3-23.md) — BGH, Beschluss 2 ARs 3/23
+- [BGH, Beschluss vom 16.03.2023 - 2 ARs 487/22](2-ars-487-22.md) — Örtliche Zuständigkeit der Strafvollstreckungskammer für den Widerruf der Bewährung
+- [BGH, Beschluss vom 16.03.2023 - 2 StR 381/22](2-str-381-22.md) — Verurteilung wegen Betruges und tateinheitlicher Unterschlagung an demselben Fahrzeug
+- [BGH, Beschluss vom 16.03.2023 - 2 StR 481/22](2-str-481-22.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Erfolgsprognose
+- [BGH, Beschluss vom 16.03.2023 - 2 StR 65/23](2-str-65-23.md) — BGH, Beschluss 2 StR 65/23
+- [BGH, Beschluss vom 15.03.2023 - 2 StR 130/22](2-str-130-22.md) — BGH, Beschluss 2 StR 130/22
+- [BGH, Urteil vom 15.03.2023 - 2 StR 217/22](2-str-217-22.md) — Rechtsbeugung bei Einstellung von Ermittlungsverfahren ohne entsprechende Voraussetzungen
+- [BGH, Urteil vom 15.03.2023 - 2 StR 289/21](2-str-289-21.md) — Sexueller Missbrauch von Jugendlichen; Bildung einer Gesamtstrafe aufgrund Gesamtschau des Unrechtsgehalts und des Schuldumfangs
+- [BGH, Beschluss vom 15.03.2023 - 2 StR 348/22](2-str-348-22.md) — Veranlassung zur Fortsetzung der Prostitution
+- [BGH, Urteil vom 15.03.2023 - 2 StR 462/21](2-str-462-21.md) — Versuchter Verdeckungsmord: Vorliegen der "anderen" Straftat "Misshandlung Schutzbefohlener"
+- [BGH, Beschluss vom 14.03.2023 - 2 StR 148/22](2-str-148-22.md) — BGH, Beschluss 2 StR 148/22
+- [BGH, Beschluss vom 14.03.2023 - 2 StR 16/23](2-str-16-23.md) — BGH, Beschluss 2 StR 16/23
+- [BGH, Beschluss vom 14.03.2023 - 2 StR 265/22](2-str-265-22.md) — Berichtigung der Urteilsformel nach der Urteilsverkündung wegen eines "offensichtlichen Verkündungsversehens"
+- [BGH, Beschluss vom 14.03.2023 - 2 StR 436/22](2-str-436-22.md) — BGH, Beschluss 2 StR 436/22
+- [BGH, Beschluss vom 02.03.2023 - 2 StR 119/22](2-str-119-22.md) — Beihilfehandlung bei Vorstellung von Holz-Mehrwertsteuerbetrug statt großem Drogenhandel
+- [BGH, Beschluss vom 02.03.2023 - 2 StR 140/22](2-str-140-22.md) — BGH, Beschluss 2 StR 140/22
+- [BGH, Beschluss vom 02.03.2023 - 2 StR 168/22](2-str-168-22.md) — BGH, Beschluss 2 StR 168/22
+- [BGH, Beschluss vom 02.03.2023 - 2 StR 346/22](2-str-346-22.md) — BGH, Beschluss 2 StR 346/22
+- [BGH, Urteil vom 01.03.2023 - 2 StR 366/22](2-str-366-22.md) — Erfordernis der eigenständigen und kritischen Würdigung der Einlassung des Angeklagten durch das Tatgericht
+- [BGH, Urteil vom 01.03.2023 - 2 StR 434/22](2-str-434-22.md) — Beweiswürdigung der Einlassung des Angeklagten bei einem Freispruch
+- [BGH, Beschluss vom 01.03.2023 - 2 StR 44/23](2-str-44-23.md) — BGH, Beschluss 2 StR 44/23
+- [BGH, Beschluss vom 01.03.2023 - 2 StR 56/22](2-str-56-22.md) — Wohnungseinbruchdiebstahl und Computerbetrug; Darlegungen in Revisionsvortrag
+- [BGH, Beschluss vom 28.02.2023 - 2 ARs 65/22, 2 ARs 113/22, 2 ARs 163/22, 2 ARs 164/22, 2 ARs 166/22, 2 ARs 167/22, 2 ARs 201/22, 2 ARs 202/22, 2 ARs 203/22, 2 ARs 204/22, 2 ARs 205/22, 2 ARs 206/22, 2 ARs 207/22, 2 ARs 208/22, 2 ARs 217/22, 2 ARs 237/22, 2 ARs 238/22, 2 ARs 239/22, 2 ARs 241/22, 2 ARs 245/22, 2 ARs 255/22, 2 ARs 280/22, 2 ARs 290/22, 2 ARs 291/22, 2 ARs 294/22, 2 ARs 297/22, 2 ARs 298/22, 2 ARs 340/22, 2 ARs 341/22](2-ars-65-22-2-ars-113-22-2-ars-163-22-2-ars-164-22-2-ars-166-22-2-kore650972023.md) — Pflicht zur Bescheidung letztendlich wiederholender Anträge
+- [BGH, Beschluss vom 28.02.2023 - 2 StR 371/22](2-str-371-22.md) — Einen erlaubnispflichtigen Zahlungsdienst im Sinne der § 63 Abs. 1 Nr. 4 Alt. 1, § 10 Abs. 1 Satz 1 des Gesetzes über die Beaufsichtigung von Zahlungsdiensten (
+- [BGH, Beschluss vom 28.02.2023 - 2 StR 377/22](2-str-377-22.md) — Bandendiebstahl und Bandenhehlerei: Vorrang einer Verurteilung aufgrund Postpendenzfeststellung
+- [BGH, Beschluss vom 28.02.2023 - 2 StR 492/22](2-str-492-22.md) — Anrechnung von Bewährungsauflagenleistungen auf nachträglich gebildete Gesamtstrafe
+- [BGH, Beschluss vom 15.02.2023 - 2 ARs 490/22](2-ars-490-22.md) — Zuständigkeit der Vollstreckung einer Jugendstrafe
+- [BGH, Beschluss vom 15.02.2023 - 2 StR 270/22](2-str-270-22.md) — Einziehung einer Machete und von Betäubungsmitteln bei Verurteilung wegen Betäubungsmittelhandel
+- [BGH, Beschluss vom 15.02.2023 - 2 StR 4/23](2-str-4-23.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Ermittlung der nicht abgeführten Sozialversicherungsbeiträge für den jeweiligen Monat
+- [BGH, Beschluss vom 14.02.2023 - 2 ARs 403/22](2-ars-403-22.md) — BGH, Beschluss 2 ARs 403/22
+- [BGH, Beschluss vom 14.02.2023 - 2 StR 17/23](2-str-17-23.md) — BGH, Beschluss 2 StR 17/23
+- [BGH, Beschluss vom 14.02.2023 - 2 StR 318/22](2-str-318-22.md) — BGH, Beschluss 2 StR 318/22
+- [BGH, Beschluss vom 14.02.2023 - 2 StR 403/22](2-str-403-22.md) — BGH, Beschluss 2 StR 403/22
+- [BGH, Beschluss vom 09.02.2023 - 2 StR 421/22](2-str-421-22.md) — Notwendige tatrichterliche Feststellungen bei Verurteilung wegen Misshandlung von Schutzbefohlenen
+- [BGH, Beschluss vom 09.02.2023 - 2 StR 433/22](2-str-433-22.md) — BGH, Beschluss 2 StR 433/22
+- [BGH, Beschluss vom 08.02.2023 - 2 ARs 302/22](2-ars-302-22.md) — Gerichtsstandsbestimmung für die Festsetzung der Pflichtverteidigervergütung
+- [BGH, Beschluss vom 08.02.2023 - 2 ARs 486/22](2-ars-486-22.md) — Zuständigkeit für Entscheidung über Aussetzung des Strafrests zur Bewährung
+- [BGH, Beschluss vom 08.02.2023 - 2 StR 136/21](2-str-136-21.md) — Schwerer sexueller Missbrauch von Kindern in mehreren Fällen
+- [BGH, Beschluss vom 08.02.2023 - 2 StR 204/22](2-str-204-22.md) — Verurteilung wegen vorsätzlichen Insiderhandels und Einziehung des Tatertrages
+- [BGH, Beschluss vom 08.02.2023 - 2 StR 344/22](2-str-344-22.md) — Voraussetzungen für offensichtliches Verkündungsversehen
+- [BGH, Beschluss vom 08.02.2023 - 2 StR 460/22](2-str-460-22.md) — BGH, Beschluss 2 StR 460/22
+- [BGH, Beschluss vom 07.02.2023 - 2 StR 162/22](2-str-162-22.md) — BGH, Beschluss 2 StR 162/22
+- [BGH, Beschluss vom 07.02.2023 - 2 StR 351/22](2-str-351-22.md) — BGH, Beschluss 2 StR 351/22
+- [BGH, Beschluss vom 07.02.2023 - 2 StR 477/22](2-str-477-22.md) — BGH, Beschluss 2 StR 477/22
+- [BGH, Beschluss vom 07.02.2023 - 2 StR 67/22](2-str-67-22.md) — Schadensfeststellung bei der Vorenthaltung von Arbeitsentgelt durch die Nichtabführung von Sozialversicherungsbeiträgen
+- [BGH, Beschluss vom 07.02.2023 - 2 StR 68/22](2-str-68-22.md) — BGH, Beschluss 2 StR 68/22
+- [BGH, Beschluss vom 17.01.2023 - 2 StR 459/21](2-str-459-21.md) — § 224 Abs. 1 Nr. 4 StGB setzt voraus, dass der Täter mit einem anderen Beteiligten gemeinschaftlich die Körperverletzung begeht. Das ist bei einem Unterlassen d
+- [BGH, Beschluss vom 17.01.2023 - 2 StR 462/22](2-str-462-22.md) — BGH, Beschluss 2 StR 462/22
+- [BGH, Beschluss vom 17.01.2023 - 2 StR 498/21](2-str-498-21.md) — BGH, Beschluss 2 StR 498/21
+- [BGH, Beschluss vom 17.01.2023 - 2 StR 508/21](2-str-508-21.md) — BGH, Beschluss 2 StR 508/21
+- [BGH, Beschluss vom 17.01.2023 - 2 StR 87/22](2-str-87-22.md) — 1. Eine Entscheidung des Rechtsmittelgerichts im Sinne von § 222b Abs. 3 StPO präkludiert den Besetzungseinwand in der Revision gemäß § 338 Nr. 1 Halbs. 2 Buchs
+- [BGH, Beschluss vom 10.01.2023 - 2 StR 376/22](2-str-376-22.md) — BGH, Beschluss 2 StR 376/22
+- [BGH, Beschluss vom 10.01.2023 - 2 StR 394/22](2-str-394-22.md) — BGH, Beschluss 2 StR 394/22

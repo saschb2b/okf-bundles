@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu PAZEignPrG"
 description: "BGH-Entscheidungen zu PAZEignPrG, geordnet nach Vorschrift."
 tags: [register, navigation, pazeignprg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des PAZEignPrG au
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 113 PAZEignPrG | [BGH, Beschluss vom 12.02.2014 - X ZR 42/13](../entscheidungen/x-zivilsenat/2014/x-zr-42-13.md) |
+| § PAZEignPrG | [BGH, Beschluss vom 12.02.2014 - X ZR 42/13](../entscheidungen/x-zivilsenat/2014/x-zr-42-13.md) |

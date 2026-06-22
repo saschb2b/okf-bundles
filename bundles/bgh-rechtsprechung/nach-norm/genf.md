@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu Genf"
 description: "BGH-Entscheidungen zu Genf, geordnet nach Vorschrift."
 tags: [register, navigation, genf]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des Genf auslegen
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 8 Genf | [BGH, Beschluss vom 04.04.2019 - AK 12/19](../entscheidungen/strafsenat/2019/ak-12-19.md) |
+| § Genf | [BGH, Beschluss vom 04.04.2019 - AK 12/19](../entscheidungen/strafsenat/2019/ak-12-19.md) |

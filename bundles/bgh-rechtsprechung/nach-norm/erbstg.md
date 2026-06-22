@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ErbStG"
 description: "BGH-Entscheidungen zu ErbStG, geordnet nach Vorschrift."
 tags: [register, navigation, erbstg]
-timestamp: 2026-06-22T13:32:12Z
+timestamp: 2026-06-22T13:43:58Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,4 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des ErbStG ausleg
 
 | Norm | Entscheidung(en) |
 |------|------------------|
-| § 52 ErbStG | [BGH, Beschluss vom 10.02.2015 - 1 StR 405/14](../entscheidungen/1-strafsenat/2015/1-str-405-14.md) |
+| § ErbStG | [BGH, Beschluss vom 10.02.2015 - 1 StR 405/14](../entscheidungen/1-strafsenat/2015/1-str-405-14.md) |

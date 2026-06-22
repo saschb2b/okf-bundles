@@ -1,0 +1,90 @@
+# I. Zivilsenat – 2018
+
+86 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2018 - I ZB 24/17](i-zb-24-17.md) — Zwangsvollstreckungsverfahren wegen eines auf die Zahlung von öffentlich-rechtlichen Geldleistungen gerichteten behördlichen Leistungsbescheids: Zulässigkeit de
+- [BGH, Urteil vom 20.12.2018 - I ZR 104/17](i-zr-104-17.md) — Museumsfotos 1. Stützt der Kläger einen Unterlassungsanspruch sowohl auf den Schutz des Lichtbildwerks nach § 2 Abs. 1 Nr. 5, Abs. 2 UrhG als auch auf den Licht
+- [BGH, Urteil vom 20.12.2018 - I ZR 133/17](i-zr-133-17.md) — Neuausgabe Eine Allgemeine Geschäftsbedingung, nach der der Verlag eines juristischen Großkommentars berechtigt ist, eine Erstreckung der vertraglichen Zusammen
+- [BGH, Urteil vom 20.12.2018 - I ZR 134/17](i-zr-134-17.md) — Verlagsrecht: Unangemessene Benachteiligung durch Klausel in einem Verlagsvertrag zur Kündigung einer weiteren Zusammenarbeit ohne sachliche Gründe
+- [BGH, Beschluss vom 18.12.2018 - I ZB 72/17](i-zb-72-17.md) — 1. Eine Vollstreckung von ersatzweise angeordneter Ordnungshaft ist durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Schuldners nicht gehindert
+- [BGH, Urteil vom 13.12.2018 - I ZR 165/17](i-zr-165-17.md) — Durchleitungssystem 1. Die Ausgestaltung des Durchleitungsverfahrens für Finanzierungen, die von der Kreditanstalt für Wiederaufbau gemäß § 3 Abs. 1 KfWG unter 
+- [BGH, Urteil vom 13.12.2018 - I ZR 3/16](i-zr-3-16.md) — Uber Black II 1. Die Bestimmungen des § 49 Abs. 4 Satz 2 und 5 PBefG über die Ausführung von Beförderungsaufträgen durch Mietwagen sind Marktverhaltensregelunge
+- [BGH, Urteil vom 13.12.2018 - I ZR 51/17](i-zr-51-17.md) — Die Annahme eines auf die vollständige Vertragserfüllung gerichteten "ausdrücklichen" Wunsches eines Maklerkunden im Sinne von § 312d Abs. 3 BGB aF setzt voraus
+- [BGH, Beschluss vom 29.11.2018 - I ZR 26/17](i-zr-26-17.md) — Anhörungsrüge: Gehörsverletzung wegen einer unzureichenden Interessenabwägung bei Annahme eines Rechtsmissbrauchs in einem Verfahren auf Gewinnabschöpfung nach 
+- [BGH, Beschluss vom 29.11.2018 - I ZR 5/18](i-zr-5-18.md) — Gehörsverletzung bei übersteigerten Anforderungen an die Substanziierung eines Bestreitens mit Nichtwissen
+- [BGH, Urteil vom 21.11.2018 - I ZR 10/18](i-zr-10-18.md) — Weist der Verkäufermakler seinem Kunden einen Kaufinteressenten nach und kommt der Hauptvertrag mit einem Dritten zustande, entsteht kein Provisionsanspruch geg
+- [BGH, Beschluss vom 21.11.2018 - I ZR 154/16](i-zr-154-16.md) — Revisionsentscheidung zur wettbewerbsrechtlichen Zulässigkeit von Werbeblockern im Internet: Anhörungsrüge zum Schutzbereich der Pressefreiheit
+- [BGH, Beschluss vom 21.11.2018 - I ZR 51/18](i-zr-51-18.md) — Durchsetzung wettbewerbsrechtlicher Ansprüche: Ersatzfähigkeit von Abmahnkosten bei Beanstandung einer Werbeanzeige unter mehreren Gesichtspunkten - Erstattung 
+- [BGH, Beschluss vom 08.11.2018 - I ZB 108/17](i-zb-108-17.md) — Wiedereinsetzung in vorigen Stand bei Versand der Berufungsbegründung ohne Unterschrift an Gericht
+- [BGH, Beschluss vom 08.11.2018 - I ZB 21/18](i-zb-21-18.md) — 1. Es ist zulässig, wenn sich ein Kläger im Hinblick auf eine Schiedsvereinbarung zunächst an ein Schiedsgericht wendet, jedoch vor dessen Konstituierung wegen 
+- [BGH, Beschluss vom 08.11.2018 - I ZB 24/18](i-zb-24-18.md) — 1. Die persönliche Reichweite einer Schiedsvereinbarung bestimmt sich nach dem Schiedsvereinbarungsstatut. 2. Bedenken unter dem Aspekt einer unzulässigen Schie
+- [BGH, Urteil vom 08.11.2018 - I ZR 108/17](i-zr-108-17.md) — Deutschland-Kombi Die Bestimmung des § 16a Abs. 1 Satz 3 RStV ist eine Marktverhaltensregelung im Sinne des § 3a UWG.
+- [BGH, Urteil vom 08.11.2018 - I ZR 126/15](i-zr-126-15.md) — PUC II 1. Im Hinblick auf eine wegen Verzichts gelöschte deutsche Marke, deren Zeitrang für eine Unionsmarke in Anspruch genommen wird, ist auf Antrag nachträgl
+- [BGH, Beschluss vom 31.10.2018 - I ZB 17/18](i-zb-17-18.md) — (Zulässigkeit eines Schiedsverfahrens nach Beendigung eines Sozietätsvertrags)
+- [BGH, Beschluss vom 31.10.2018 - I ZB 2/15](i-zb-2-15.md) — 1. Bei der Anwendung von § 1059 Abs. 2 Nr. 1 Buchst. a ZPO steht das Fehlen einer Schiedsvereinbarung ihrer Ungültigkeit gleich. 2. In bilateralen Investitionss
+- [BGH, Urteil vom 31.10.2018 - I ZR 20/18](i-zr-20-18.md) — Öffentliche Zustellung 1. An die Feststellung der Voraussetzungen für eine öffentliche Zustellung sind wegen der besonderen Bedeutung der Zustellung für die Gew
+- [BGH, Beschluss vom 17.10.2018 - I ZB 13/18](i-zb-13-18.md) — Festsetzung der Kosten der Räumungsvollstreckung
+- [BGH, Urteil vom 17.10.2018 - I ZR 154/17](i-zr-154-17.md) — Bei besonders engen persönlichen Bindungen zwischen dem Maklerkunden und dem Erwerber eines Objekts ist der Maklerkunde dem Makler zur Provisionszahlung verpfli
+- [BGH, Beschluss vom 16.10.2018 - I ZR 38/18](i-zr-38-18.md) — Wirksamkeit einer Vergütungsklausel in einem Versicherungsmaklervertrag über einen Tarifwechsel in der Krankenversicherung
+- [BGH, Beschluss vom 11.10.2018 - I ZB 9/18](i-zb-9-18.md) — Die Verkennung der Grenzen der Rechtskraft stellt einen Verstoß des Schiedsgerichts gegen den verfahrensrechtlichen ordre public dar.
+- [BGH, Urteil vom 11.10.2018 - I ZR 114/17](i-zr-114-17.md) — 1. Verfolgt der Zessionar mit der Leistungsklage die Beitreibung einer abgetretenen Forderung und erhebt der Schuldner eine isolierte Drittwiderklage gegen den 
+- [BGH, Urteil vom 11.10.2018 - I ZR 18/18](i-zr-18-18.md) — Bei einer der CMR unterfallenden Beförderung ist im Falle der Entwertung des Gutes bei der Berechnung der Haftungshöchstsumme gemäß Art. 25 Abs. 2 Buchst. b CMR
+- [BGH, Beschluss vom 11.10.2018 - I ZR 197/17](i-zr-197-17.md) — Wettbewerbswidrige Werbung für ein Nahrungsergänzungsmittel: Angabe einer bestimmten Wirkung des Produkts ohne Benennung des dafür kausalen Inhaltsstoffs
+- [BGH, Urteil vom 11.10.2018 - I ZR 259/15](i-zr-259-15.md) — Curapor 1. Die Anordnung der Vernichtung widerrechtlich gekennzeichneter Waren gemäß § 18 Abs. 1 MarkenG sowie die Anordnung des Rückrufs und des endgültigen En
+- [BGH, Beschluss vom 20.09.2018 - I ZB 120/17](i-zb-120-17.md) — Gebühr für Drittauskunft 1. Der Antrag des Gläubigers auf Einholung von Drittauskünften gemäß § 802a Abs. 2 Satz 1 Nr. 3, § 802l ZPO ist eine besondere Angelege
+- [BGH, Beschluss vom 20.09.2018 - I ZR 122/17](i-zr-122-17.md) — Urheberrechtsstreit: Zulässigkeit der Gegenvorstellung gegen die Streitwertfestsetzung
+- [BGH, Urteil vom 20.09.2018 - I ZR 146/17](i-zr-146-17.md) — 1. Die Bestimmungen der §§ 467 bis 475h HGB über das Lagergeschäft gelten auch dann, wenn der Lagerhalter - wie bei einem Konsignationslager - neben der Lagerun
+- [BGH, Beschluss vom 20.09.2018 - I ZR 195/15](i-zr-195-15.md) — Kostenentscheidung bei Zurückweisung der Nichtzulassungsbeschwerde
+- [BGH, EuGH-Vorlage vom 20.09.2018 - I ZR 53/17](i-zr-53-17.md) — uploaded Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 3 Abs. 1 und Art. 8 Abs. 3 der Richtlinie 2001/29/EG des Europäischen Parlaments u
+- [BGH, Urteil vom 20.09.2018 - I ZR 71/17](i-zr-71-17.md) — Industrienähmaschinen 1. Für eine Herkunftstäuschung im weiteren Sinne aufgrund der Annahme lizenzvertraglicher Beziehungen sind über eine fast identische Nacha
+- [BGH, Beschluss vom 13.09.2018 - I ZB 100/17](i-zb-100-17.md) — Zulässigkeit einer Berufung bei Einlegung durch Streithelfer
+- [BGH, Beschluss vom 13.09.2018 - I ZB 109/17](i-zb-109-17.md) — 1. Bei der Verpflichtung des Erben gegenüber dem nicht zum Erben berufenen Pflichtteilsberechtigten zur Auskunftserteilung über den Bestand des Nachlasses durch
+- [BGH, Beschluss vom 13.09.2018 - I ZB 16/18](i-zb-16-18.md) — Der Antrag auf Erlass eines Kostenfestsetzungsbeschlusses muss den Gegenstand der geltend gemachten Kostenpositionen in hinreichend bestimmter Form bezeichnen. 
+- [BGH, Beschluss vom 13.09.2018 - I ZB 25/17](i-zb-25-17.md) — Schutzfähigkeit von „Pippi Langstrumpf“ für Erziehung
+- [BGH, Urteil vom 13.09.2018 - I ZR 117/15](i-zr-117-15.md) — YouTube-Werbekanal II Weder ein bei dem Internetdienst YouTube zu Werbezwecken betriebener Videokanal noch ein dort abrufbares Werbevideo stellt einen audiovisu
+- [BGH, EuGH-Vorlage vom 13.09.2018 - I ZR 140/15](i-zr-140-15.md) — YouTube I. Das Verfahren wird ausgesetzt. II. Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 3 Abs. 1 und Art. 8 Abs. 3 der Richtlinie 200
+- [BGH, Beschluss vom 26.07.2018 - I ZB 78/17](i-zb-78-17.md) — 1. Für die Beitreibung von rückständigen Rundfunkgebühren in Bayern ist die vollstreckbare Ausfertigung des Ausstandsverzeichnisses gemäß Art. 24 Abs. 1 Nr. 2 B
+- [BGH, EuGH-Vorlage vom 26.07.2018 - I ZR 20/17](i-zr-20-17.md) — Davidoff Hot Water III Dem Gerichtshof der Europäischen Union wird zur Auslegung von Art. 9 Abs. 2 Buchst. b der Verordnung (EG) Nr. 207/2009 des Rates vom 26. 
+- [BGH, Urteil vom 26.07.2018 - I ZR 274/16](i-zr-274-16.md) — 1. Die Zulässigkeit der auf den Ausgleich eines Vermögensschadens gerichteten Feststellungsklage setzt die Darlegung von Tatsachen voraus, aus denen sich die Wa
+- [BGH, Urteil vom 26.07.2018 - I ZR 64/17](i-zr-64-17.md) — Dead Island 1. Der an die Stelle der bisherigen Störerhaftung des Zugangsvermittlers für von Dritten begangene Rechtsverletzungen getretene Sperranspruch nach §
+- [BGH, Beschluss vom 12.07.2018 - I ZB 86/17](i-zb-86-17.md) — Eine Rundfunkanstalt, die es zu unterlassen hat, bestimmte in einem Fernsehbeitrag enthaltene Äußerungen zu verbreiten oder verbreiten zu lassen, genügt ihrer U
+- [BGH, Urteil vom 12.07.2018 - I ZR 152/17](i-zr-152-17.md) — 1. Einen Makler trifft beim Fehlen einer entsprechenden Vereinbarung grundsätzlich keine vertragliche Nebenpflicht, steuerrechtliche Fragen zu prüfen, die sich 
+- [BGH, Urteil vom 28.06.2018 - I ZR 77/17](i-zr-77-17.md) — 1. Der Einordnung einer im Hinblick auf einen beabsichtigten Tarifwechsel gemäß § 204 VVG getroffenen Vereinbarung über die Einholung eines konkreten Angebots z
+- [BGH, Beschluss vom 21.06.2018 - I ZB 58/17](i-zb-58-17.md) — Ein Richter kann wegen Besorgnis der Befangenheit abgelehnt werden, wenn seine Ehegattin als Sekretärin der Rechtsanwaltskanzlei tätig ist, die den Gegner vor d
+- [BGH, EuGH-Vorlage vom 21.06.2018 - I ZB 61/17](i-zb-61-17.md) — #darferdas? Dem Gerichtshof der Europäischen Union wird zur Auslegung von Art. 3 Abs. 1 Buchst. b der Richtlinie 2008/95/EG des Europäischen Parlaments und des 
+- [BGH, EuGH-Vorlage vom 21.06.2018 - I ZR 40/17](i-zr-40-17.md) — Ersatzteilinformation Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 6 Abs. 1 Satz 1 der Verordnung (EG) 715/2007 des Europäischen Parlame
+- [BGH, Beschluss vom 07.06.2018 - I ZB 117/17](i-zb-117-17.md) — Ordnungsmittelandrohung durch Schuldner Den Antrag auf Androhung von Ordnungsmitteln nach § 890 Abs. 2 ZPO kann allein der Gläubiger stellen.
+- [BGH, Beschluss vom 07.06.2018 - I ZB 48/17](i-zb-48-17.md) — Pizzafoto Besteht für eine Rechtsmittelzuständigkeit eine landesgesetzliche Konzentration nach § 105 UrhG für Urheberrechtsstreitsachen und erteilt das erstinst
+- [BGH, Beschluss vom 07.06.2018 - I ZB 57/17](i-zb-57-17.md) — Das Festhalten an einer im Urteil erster Instanz zurückgewiesenen Rechtsansicht führt auch dann nicht zur Unzulässigkeit der Berufung, wenn in der Berufungsbegr
+- [BGH, Beschluss vom 07.06.2018 - I ZB 70/17](i-zb-70-17.md) — 1. § 1059 Abs. 4 ZPO gilt im Verfahren auf Vollstreckbarerklärung entsprechend, wenn der Antrag auf Vollstreckbarerklärung unter Aufhebung des Schiedsspruchs ab
+- [BGH, Beschluss vom 17.05.2018 - I ZR 53/15](i-zr-53-15.md) — BGH, Beschluss I ZR 53/15
+- [BGH, Beschluss vom 17.05.2018 - I ZR 54/15](i-zr-54-15.md) — Zurückweisung einer Gehörsrüge betr. BGH-Entscheidung über die Vergütungspflicht für PCs mit eingebauter Festplatte
+- [BGH, Beschluss vom 09.05.2018 - I ZB 53/17](i-zb-53-17.md) — Skatgericht 1. Bei ständigen Schiedsgerichten kommt es für die Anwendbarkeit des § 1032 Abs. 2 ZPO nicht auf die Bildung des Schiedsgerichts an, sondern darauf,
+- [BGH, Beschluss vom 09.05.2018 - I ZB 62/17](i-zb-62-17.md) — Auswärtiger Rechtsanwalt IX Ist die Hinzuziehung eines auswärtigen Rechtsanwalts zur zweckentsprechenden Rechtsverfolgung nicht notwendig im Sinne von § 91 Abs.
+- [BGH, Beschluss vom 09.05.2018 - I ZB 77/17](i-zb-77-17.md) — 1. Bei einem zweistufigen Schiedsverfahren steht die Wirksamkeit des Schiedsspruchs erster Instanz unter der aufschiebenden Bedingung seiner Bestätigung durch d
+- [BGH, Beschluss vom 09.05.2018 - I ZR 110/16](i-zr-110-16.md) — Umfang des Anspruchs auf rechtliches Gehör
+- [BGH, Urteil vom 26.04.2018 - I ZR 121/17](i-zr-121-17.md) — Applikationsarzneimittel 1. In einem Vorabentscheidungsverfahren gemäß Art. 267 Abs. 3 AEUV ist es Sache des vorlegenden Gerichts, den Sachverhalt festzustellen
+- [BGH, Versäumnisurteil vom 26.04.2018 - I ZR 248/16](i-zr-248-16.md) — Abmahnaktion II 1. Eine missbräuchliche Rechtsverfolgung im Sinne von § 8 Abs. 4 Satz 1 UWG liegt grundsätzlich vor, wenn mit einer Vielzahl von Abmahnungen ein
+- [BGH, Urteil vom 26.04.2018 - I ZR 269/16](i-zr-269-16.md) — Zurückverweisung der Sache bei wesentlichem Verfahrensmangel
+- [BGH, Beschluss vom 19.04.2018 - I ZB 52/17](i-zb-52-17.md) — 1. Die Überprüfung der Auslegung einer formularmäßig verwendeten Schiedsvereinbarung eines Sportverbands durch das Revisionsgericht ist nicht darauf beschränkt,
+- [BGH, Urteil vom 19.04.2018 - I ZR 244/16](i-zr-244-16.md) — Namensangabe Bei einer telefonischen Kontaktaufnahme mit dem Verbraucher im Sinne von § 312a Abs. 1 BGB muss nur die Identität des Unternehmers sowie der geschä
+- [BGH, Beschluss vom 29.03.2018 - I ZB 12/17](i-zb-12-17.md) — Streitwert in Verfahren auf Vollstreckbarerklärung von Schiedssprüchen
+- [BGH, Beschluss vom 29.03.2018 - I ZB 17/17](i-zb-17-17.md) — (Markenlöschungsverfahren: Bemessung des Gegenstandswertes)
+- [BGH, Beschluss vom 29.03.2018 - I ZB 54/17](i-zb-54-17.md) — 1. Die Aufhebung eines gemäß § 802g ZPO erlassenen Haftbefehls kommt nicht bereits bei der Erbringung von Teilleistungen, sondern allenfalls bei der Bewirkung d
+- [BGH, Beschluss vom 29.03.2018 - I ZR 11/18](i-zr-11-18.md) — Nichtzulassungsbeschwerde: Beschwer eines Unterlassungsschuldners in einer wettbewerbsrechtlichen Streitigkeit; Antrag auf einstweilige Einstellung der Zwangsvo
+- [BGH, Urteil vom 29.03.2018 - I ZR 243/14](i-zr-243-14.md) — Bio-Gewürze II Eine direkte Abgabe von Erzeugnissen im Sinne von Art. 1 Abs. 2 der Verordnung (EG) Nr. 834/2007 durch Unternehmer an Endverbraucher oder -nutzer
+- [BGH, Urteil vom 29.03.2018 - I ZR 34/17](i-zr-34-17.md) — Bonusaktion für Taxi App 1. Die Regelungen der § 51 Abs. 5, § 39 Abs. 3 PBefG zur Tarifpflicht im Taxiverkehr sind Marktverhaltensregelungen im Sinne von § 3a U
+- [BGH, Urteil vom 22.03.2018 - I ZR 118/16](i-zr-118-16.md) — Hohlfasermembranspinnanlage II 1. Ein auf Unterlassung des Herstellens, Anbietens und Inverkehrbringens einer technischen Anlage gerichteter Klageantrag, der au
+- [BGH, Urteil vom 22.03.2018 - I ZR 25/17](i-zr-25-17.md) — Zahlungsaufforderung Das Schreiben eines Inkassounternehmens, das eine Zahlungsaufforderung sowie die Androhung gerichtlicher Schritte und anschließender Vollst
+- [BGH, Versäumnisurteil vom 22.03.2018 - I ZR 265/16](i-zr-265-16.md) — Spricht der Rechtsinhaber im Falle der öffentlichen Zugänglichmachung eines urheberrechtlich geschützten Werks über eine Internettauschbörse gegenüber dem für d
+- [BGH, Beschluss vom 22.03.2018 - I ZR 76/17](i-zr-76-17.md) — 1. Die Aussetzung eines Rechtsstreits bis zur Zustellung einer in diesem Rechtsstreit eingereichten Streitverkündungsschrift kommt weder in direkter noch in ana
+- [BGH, Beschluss vom 21.03.2018 - I ZR 127/17](i-zr-127-17.md) — Bereitstellen von TV-Geräten mit DVB-T-Antenne in Hotelzimmer keine Wiedergabehandlung
+- [BGH, Urteil vom 01.03.2018 - I ZR 264/16](i-zr-264-16.md) — 1. Eine Handwerksinnung kann sich als Körperschaft des öffentlichen Rechts auf das Grundrecht der Meinungsfreiheit aus Art. 5 Abs. 1 Satz 1 GG berufen, soweit s
+- [BGH, Beschluss vom 22.02.2018 - I ZR 11/16](i-zr-11-16.md) — Urheberschutz: Zumutbarkeit von Überwachungsmaßnahmen des Betreibers einer Internetplattform
+- [BGH, Urteil vom 22.02.2018 - I ZR 38/17](i-zr-38-17.md) — Nach der Zielsetzung des Wohnungsvermittlungsgesetzes verliert der Wohnungsvermittler seinen Provisionsanspruch nach § 2 Abs. 2 Nr. 2 Fall 2 WoVermittG in der R
+- [BGH, Beschluss vom 15.02.2018 - I ZR 216/16](i-zr-216-16.md) — Unzulässigkeit einer Anhörungsrüge nach Zurückweisung einer Nichtzulassungsbeschwerde
+- [BGH, Urteil vom 15.02.2018 - I ZR 243/16](i-zr-243-16.md) — Gewohnt gute Qualität 1. Ein Rechtsmittelführer, der die Verletzung einer gerichtlichen Hinweispflicht gemäß § 139 ZPO geltend macht, muss darlegen, wie er auf 
+- [BGH, Beschluss vom 01.02.2018 - I ZB 73/17](i-zb-73-17.md) — Rechtsbeschwerdeverfahren: Unzulässigkeit einer Richterablehnung; Zustellung an den anwaltlichen Vertreter im Anwaltsprozess nach Mandatsbeendigung; Anwaltszwan
+- [BGH, Urteil vom 01.02.2018 - I ZR 82/17](i-zr-82-17.md) — Gefäßgerüst 1. Ein Gefäßgerüst (Stent), dessen Hauptwirkung auf physikalischem Wege erreicht wird, ist auch dann kein Arzneimittel, sondern ein Medizinprodukt, 
+- [BGH, Urteil vom 18.01.2018 - I ZR 150/15](i-zr-150-15.md) — 1. Der Kläger, der Schadensersatzansprüche auf eine ohne sein Wissen von seinem Bevollmächtigten getroffene Schmiergeldabrede stützt, genügt seiner Darlegungsla
+- [BGH, Urteil vom 11.01.2018 - I ZR 85/17](i-zr-85-17.md) — Krankenhausradio 1. Das Recht zur Kündigung eines urheberrechtlichen Lizenzvertrags wegen Störung der Geschäftsgrundlage gemäß § 313 BGB infolge der Änderung ei

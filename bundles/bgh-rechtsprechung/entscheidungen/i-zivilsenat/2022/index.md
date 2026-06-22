@@ -1,0 +1,73 @@
+# I. Zivilsenat – 2022
+
+69 Entscheidung(en).
+
+- [BGH, Beschluss vom 16.12.2022 - I ZB 82/22](i-zb-82-22.md) — BGH, Beschluss I ZB 82/22
+- [BGH, Beschluss vom 15.12.2022 - I ZB 105/22](i-zb-105-22.md) — BGH, Beschluss I ZB 105/22
+- [BGH, Beschluss vom 15.12.2022 - I ZB 106/22](i-zb-106-22.md) — BGH, Beschluss I ZB 106/22
+- [BGH, Beschluss vom 15.12.2022 - I ZB 35/22](i-zb-35-22.md) — BGH, Beschluss I ZB 35/22
+- [BGH, Beschluss vom 15.12.2022 - I ZB 36/22](i-zb-36-22.md) — BGH, Beschluss I ZB 36/22
+- [BGH, Beschluss vom 15.12.2022 - I ZB 37/22](i-zb-37-22.md) — BGH, Beschluss I ZB 37/22
+- [BGH, Beschluss vom 15.12.2022 - I ZB 38/22](i-zb-38-22.md) — BGH, Beschluss I ZB 38/22
+- [BGH, Beschluss vom 15.12.2022 - I ZB 39/22](i-zb-39-22.md) — BGH, Beschluss I ZB 39/22
+- [BGH, Beschluss vom 15.12.2022 - I ZB 40/22](i-zb-40-22.md) — BGH, Beschluss I ZB 40/22
+- [BGH, Urteil vom 15.12.2022 - I ZR 135/21](i-zr-135-21.md) — 1. Ist die mit der Klage des Versicherungsnehmers geltend gemachte Schadensersatzforderung nach Rechtshängigkeit entweder infolge einer Abtretung oder infolge e
+- [BGH, Beschluss vom 09.12.2022 - I ZB 69/21](i-zb-69-21.md) — Gegenstandswert bei Streitwertangabe für eidesstattliche Versicherung
+- [BGH, Beschluss vom 24.11.2022 - I ZR 25/22](i-zr-25-22.md) — Im Verfahren der Nichtzulassungsbeschwerde ist das Angebot des Beschwerdeführers auf Vernehmung eines Zeugen zur Glaubhaftmachung der Beschwer gemäß § 544 Abs. 
+- [BGH, Beschluss vom 10.11.2022 - I ZB 10/22](i-zb-10-22.md) — 1. Für die Frage, ob Zustellungen an den gemäß § 5 Abs. 1 Satz 1 NetzDG benannten Zustellungsbevollmächtigten nach § 5 Abs. 1 Satz 2 NetzDG bewirkt werden könne
+- [BGH, Beschluss vom 10.11.2022 - I ZB 16/22, I ZB 17/22](i-zb-16-22-i-zb-17-22.md) — BGH, Beschluss I ZB 16/22, I ZB 17/22
+- [BGH, Urteil vom 10.11.2022 - I ZR 10/22](i-zr-10-22.md) — rakuten.de 1. Händler im Sinne des § 54b Abs. 1 UrhG ist, wer gewerblich Geräte und Speichermedien erwirbt und weiterveräußert, also Kaufverträge über diese Pro
+- [BGH, Urteil vom 10.11.2022 - I ZR 16/22](i-zr-16-22.md) — Stickstoffgenerator In situ generierter Stickstoff, mit dem Schadorganismen bekämpft werden, ist ein Biozidprodukt im Sinne von Art. 3 Abs. 1 Buchst. a der Vero
+- [BGH, EuGH-Vorlage vom 10.11.2022 - I ZR 186/17](i-zr-186-17.md) — App-Zentrum II Dem Gerichtshof der Europäischen Union wird zur Auslegung von Art. 80 Abs. 2 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rat
+- [BGH, Urteil vom 10.11.2022 - I ZR 241/19](i-zr-241-19.md) — Herstellergarantie IV Den Unternehmer trifft eine vorvertragliche Pflicht zur Information über eine Herstellergarantie für ein im Internet angebotenes Produkt, 
+- [BGH, Beschluss vom 08.11.2022 - I ZR 62/22](i-zr-62-22.md) — BGH, Beschluss I ZR 62/22
+- [BGH, Beschluss vom 07.11.2022 - I ZR 175/21](i-zr-175-21.md) — BGH, Beschluss I ZR 175/21
+- [BGH, Urteil vom 27.10.2022 - I ZR 139/21](i-zr-139-21.md) — Vereinbaren die Parteien eines Beförderungsvertrags die Geltung der ADSp 2017, gilt für die Haftung des Spediteurs für Beschädigungen des Transportguts bei gren
+- [BGH, Urteil vom 27.10.2022 - I ZR 141/21](i-zr-141-21.md) — Vertragsstrafenverjährung Bei einem Anspruch auf Zahlung einer Vertragsstrafe nach "Hamburger Brauch" beginnt die regelmäßige Verjährungsfrist nicht, bevor der 
+- [BGH, Beschluss vom 19.10.2022 - I ZB 22/22](i-zb-22-22.md) — BGH, Beschluss I ZB 22/22
+- [BGH, Beschluss vom 13.10.2022 - I ZB 12/20](i-zb-12-20.md) — BGH, Beschluss I ZB 12/20
+- [BGH, Beschluss vom 13.10.2022 - I ZB 35/20](i-zb-35-20.md) — BGH, Beschluss I ZB 35/20
+- [BGH, Beschluss vom 13.10.2022 - I ZB 59/19](i-zb-59-19.md) — Kosten des Patentanwalts VII Die Vorschrift des § 140 Abs. 3 MarkenG aF (§ 140 Abs. 4 MarkenG nF) ist mit Blick auf Art. 3 und Art. 14 der Richtlinie 2004/48/EG
+- [BGH, Beschluss vom 13.10.2022 - I ZB 66/20](i-zb-66-20.md) — BGH, Beschluss I ZB 66/20
+- [BGH, Urteil vom 13.10.2022 - I ZR 111/21](i-zr-111-21.md) — DNS-Sperre 1. Für den Rechtsinhaber besteht dann im Sinne des § 7 Abs. 4 Satz 1 TMG keine andere Möglichkeit, der Verletzung seines Rechts abzuhelfen, wenn zumu
+- [BGH, Urteil vom 13.10.2022 - I ZR 151/21](i-zr-151-21.md) — 1. Der Hauptfrachtführer haftet dem Absender nur dann nach Art. 29 CMR unbeschränkt, wenn ihm mit Blick auf die ihn selbst gegenüber dem Absender treffenden Ver
+- [BGH, Beschluss vom 13.10.2022 - I ZR 98/21](i-zr-98-21.md) — Umfang eines ausgesprochenen Verbots bei Abwandlungen
+- [BGH, Beschluss vom 07.10.2022 - I ZB 48/22](i-zb-48-22.md) — BGH, Beschluss I ZB 48/22
+- [BGH, Beschluss vom 29.09.2022 - I ZB 15/22](i-zb-15-22.md) — Für die ordnungsgemäße Begründung einer Entscheidung reicht die Bezugnahme auf eine Entscheidung aus, die zwischen denselben Parteien ergangen ist. Dies gilt au
+- [BGH, Urteil vom 29.09.2022 - I ZR 180/21](i-zr-180-21.md) — Die Anhängigkeit eines Zwangsmittelverfahrens nach § 888 ZPO, in dem der Schuldner den Erfüllungseinwand mit Blick auf den gegen ihn titulierten Anspruch erhebe
+- [BGH, Beschluss vom 15.09.2022 - I ZB 6/22](i-zb-6-22.md) — BGH, Beschluss I ZB 6/22
+- [BGH, Beschluss vom 15.09.2022 - I ZR 5/22](i-zr-5-22.md) — BGH, Beschluss I ZR 5/22
+- [BGH, Beschluss vom 14.09.2022 - I ZA 9/22](i-za-9-22.md) — BGH, Beschluss I ZA 9/22
+- [BGH, Beschluss vom 06.09.2022 - I ZB 44/22](i-zb-44-22.md) — BGH, Beschluss I ZB 44/22
+- [BGH, Urteil vom 01.09.2022 - I ZR 108/20](i-zr-108-20.md) — Riptide II 1. Die Regelung des § 97a Abs. 3 Satz 2 bis 4 UrhG, nach der für die Geltendmachung von Unterlassungs- und Beseitigungsansprüchen in einer Abmahnung 
+- [BGH, Urteil vom 28.07.2022 - I ZR 141/20](i-zr-141-20.md) — Elektronischer Pressespiegel II 1. Ein allgemeiner Auskunftsanspruch, der auf die Ausforschung der tatsächlichen Grundlagen und Beweismittel für etwaige Ansprüc
+- [BGH, Urteil vom 28.07.2022 - I ZR 205/20](i-zr-205-20.md) — Servicepauschale II Ein Unternehmer, der Flugbuchungen im Internet anbietet, verlangt ein zusätzliches Entgelt für die Nutzung eines bestimmten Zahlungsmittels,
+- [BGH, Beschluss vom 21.07.2022 - I ZB 49/22](i-zb-49-22.md) — BGH, Beschluss I ZB 49/22
+- [BGH, Urteil vom 14.07.2022 - I ZR 97/21](i-zr-97-21.md) — dortmund.de 1. Die Bezugnahme im Klageantrag auf ein zu den Akten gereichtes digitales Speichermedium, auf dem ein Telemedienangebot als konkrete Verletzungsfor
+- [BGH, Beschluss vom 23.06.2022 - I ZB 76/21](i-zb-76-21.md) — BGH, Beschluss I ZB 76/21
+- [BGH, Urteil vom 02.06.2022 - I ZR 135/18](i-zr-135-18.md) — uploaded III 1. Ergreift der Betreiber einer Sharehosting-Plattform, obwohl er vom Rechtsinhaber darauf hingewiesen wurde, dass ein geschützter Inhalt über sein
+- [BGH, Urteil vom 02.06.2022 - I ZR 140/15](i-zr-140-15.md) — YouTube II 1. Ergreift der Betreiber einer Video-Sharing-Plattform, der weiß oder wissen müsste, dass Nutzer über seine Plattform im Allgemeinen geschützte Inha
+- [BGH, Urteil vom 02.06.2022 - I ZR 53/17](i-zr-53-17.md) — uploaded II Der Betreiber einer Sharehosting-Plattform, der allgemeine Kenntnis von der Verfügbarkeit von Nutzern hochgeladener rechtsverletzender Inhalte hat o
+- [BGH, Urteil vom 02.06.2022 - I ZR 54/17](i-zr-54-17.md) — Urheberrechtsverletzung im Internet: Betreiber einer Sharehosting-Plattform als Täter einer rechtsverletzenden öffentlichen Wiedergabe
+- [BGH, Urteil vom 02.06.2022 - I ZR 55/17](i-zr-55-17.md) — Urheberrechtsverletzung im Internet: Betreiber einer Sharehosting-Plattform als Täter einer rechtsverletzenden öffentlichen Wiedergabe
+- [BGH, Urteil vom 02.06.2022 - I ZR 56/17](i-zr-56-17.md) — Urheberrechtsverletzung im Internet: Betreiber einer Sharehosting-Plattform als Täter einer rechtsverletzenden öffentlichen Wiedergabe
+- [BGH, Urteil vom 02.06.2022 - I ZR 57/17](i-zr-57-17.md) — Urheberrechtsverletzung im Internet: Betreiber einer Sharehosting-Plattform als Täter einer rechtsverletzenden öffentlichen Wiedergabe
+- [BGH, Beschluss vom 19.05.2022 - I ZB 73/21](i-zb-73-21.md) — Rechtsbeschwerde in Zwangsvollstreckungssachen: Öffentliche Zustellung der Ladung zum Termin der Abgabe der Vermögensauskunft; öffentliche Zustellung der Rechts
+- [BGH, Beschluss vom 21.04.2022 - I ZB 36/21](i-zb-36-21.md) — 1. Die zu § 227 Abs. 1 ZPO ergangene Rechtsprechung über die Erheblichkeit von Gründen für einen Terminverlegungsantrag kann auf die Schiedsgerichtsbarkeit über
+- [BGH, Beschluss vom 21.04.2022 - I ZB 56/21](i-zb-56-21.md) — 1. Für die Festsetzung von Ordnungsmitteln nach § 890 Abs. 1 ZPO gilt nicht das allein auf Kriminalstrafgesetze anwendbare Doppelbestrafungsverbot des Art. 103 
+- [BGH, Urteil vom 21.04.2022 - I ZR 214/20](i-zr-214-20.md) — Dr. Stefan Frank 1. Für die Beurteilung, ob Verträge über die Komposition und Produktion von Musik für eine Fernsehserie sowie die Einräumung der Nutzungsrechte
+- [BGH, Urteil vom 07.04.2022 - I ZR 107/21](i-zr-107-21.md) — Der Idiot 1. Musik, die im Rahmen der bühnenmäßigen Aufführung eines Sprechtheaterstücks erklingt, wird als mit dem Sprachwerk verbundenes Werk im Sinne des § 1
+- [BGH, Urteil vom 07.04.2022 - I ZR 212/20](i-zr-212-20.md) — 1. In Allgemeinen Geschäftsbedingungen, die ein Paketdienstleister gegenüber Verbrauchern bei der Besorgung von Paketversendungen verwendet, hält die Klausel We
+- [BGH, Beschluss vom 07.04.2022 - I ZR 73/21](i-zr-73-21.md) — Gewährleistung des rechtlichen Gehörs: Überraschungsentscheidung im Berufungsverfahren; neue Angaben des Beschwerdeführers für die Festsetzung eines höheren Str
+- [BGH, Beschluss vom 07.04.2022 - I ZR 84/20](i-zr-84-20.md) — Urheberrechtliche Vergütung: Indizielle Wirkung gesamtvertraglicher Vereinbarungen gegenüber Außenseitern
+- [BGH, Beschluss vom 24.03.2022 - I ZB 55/21](i-zb-55-21.md) — 1. Der Gerichtsvollzieher hat dem Gläubiger gemäß § 802l Abs. 3 Satz 1 ZPO die nach § 802l Abs. 1 Satz 1 Nr. 2 ZPO beim Bundeszentralamt für Steuern eingeholte 
+- [BGH, Urteil vom 24.03.2022 - I ZR 52/21](i-zr-52-21.md) — 1. Das Verfahren vor dem Gericht eines Mitgliedstaats der Europäischen Union zur Errichtung eines schifffahrtsrechtlichen Haftungsbeschränkungsfonds mit dem Zie
+- [BGH, Beschluss vom 23.03.2022 - I ZB 12/22](i-zb-12-22.md) — Streitwertbeschwerde gegen die Streitwertfestsetzung des Berufungsgerichts: Unzulässigkeit des Beschwerdeziels einer Streitwerterhöhung; Kosten des Beschwerdeve
+- [BGH, Urteil vom 10.03.2022 - I ZR 70/21](i-zr-70-21.md) — Prozessvertretung durch Haftpflichtversicherer 1. § 79 Abs. 2 ZPO ist eine Marktverhaltensregelung im Sinne von § 3a UWG. 2. Ein Haftpflichtversicherer ist im g
+- [BGH, Urteil vom 24.02.2022 - I ZR 128/21](i-zr-128-21.md) — Zweitmarkt für Lebensversicherungen II 1. Nach § 8 Abs. 3 Nr. 1 UWG n.F. ist die Anspruchsberechtigung von Mitbewerbern zusätzlich zu dem Bestehen eines konkret
+- [BGH, EuGH-Vorlage vom 10.02.2022 - I ZR 38/21](i-zr-38-21.md) — Zufriedenheitsgarantie Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 2 Nr. 14 der Richtlinie 2011/83/EU des Europäischen Parlaments und d
+- [BGH, Beschluss vom 10.02.2022 - I ZR 86/21](i-zr-86-21.md) — Verstoß des Gerichts gegen den Grundsatz des rechtlichen Gehörs: Überspannung der Substantiierungsanforderungen
+- [BGH, Beschluss vom 27.01.2022 - I ZB 18/21](i-zb-18-21.md) — Zwangsvollstreckung: Gegenstandswert für das Rechtsbeschwerdeverfahren betreffend der Anordnung des Gerichtsvollziehers zur Eintragung ins Schuldnerverzeichnis
+- [BGH, Urteil vom 27.01.2022 - I ZR 7/21](i-zr-7-21.md) — Der Anspruch auf Erstattung von Abmahnkosten ist kein im Verhältnis zum Unterlassungsanspruch unselbständiger Nebenanspruch, der als solcher das Schicksal des H
+- [BGH, Beschluss vom 27.01.2022 - I ZR 77/21](i-zr-77-21.md) — Nichtzulassungsbeschwerde: Beschwer im Streit eines Vertriebsunternehmens für Zeitschriften und Zeitschriftenabonnements über Verstöße eines Lesezirkels gegen L
+- [BGH, Beschluss vom 13.01.2022 - I ZB 30/21](i-zb-30-21.md) — Wiederholte Beschwerde Weist das Beschwerdegericht die sofortige Beschwerde aus sachlichen Gründen zurück, ist ihre Wiederholung auch während der noch laufenden

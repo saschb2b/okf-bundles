@@ -1,0 +1,74 @@
+# VIII. Zivilsenat – 2018
+
+70 Entscheidung(en).
+
+- [BGH, Urteil vom 19.12.2018 - VIII ZR 254/17](viii-zr-254-17.md) — Eine in einem formularmäßigen Wohnraummietvertrag gesondert ausgewiesene Verwaltungskostenpauschale stellt eine zum Nachteil des Mieters von § 556 Abs. 1 BGB ab
+- [BGH, Urteil vom 19.12.2018 - VIII ZR 336/18](viii-zr-336-18.md) — Erdgaslieferungsvertrag: Zustandekommen eines Tarifkundenverhältnisses nach Kündigung eines Sonderkundenvertrages; Erhöhung eines abgesenkten Gaspreises
+- [BGH, Beschluss vom 07.12.2018 - VIII ZR 146/18](viii-zr-146-18.md) — 1. Hat der zur Räumung einer Mietwohnung verurteilte Schuldner in der Berufungsinstanz einen Vollstreckungsschutzantrag nach § 712 Abs. 1 ZPO nicht gestellt, is
+- [BGH, Urteil vom 05.12.2018 - VIII ZR 17/18](viii-zr-17-18.md) — Zur Gebrauchsgewährungs- und -erhaltungspflicht des Vermieters bezüglich eines in der Mietwohnung vorhandenen Telefonanschlusses.
+- [BGH, Urteil vom 05.12.2018 - VIII ZR 194/17](viii-zr-194-17.md) — Bestimmtheit des Klagebegehrens: Anforderungen bei der sogenannten Saldoklage; Geltendmachung von Mietrückständen auf der Grundlage eines fortgeschriebenen Miet
+- [BGH, Urteil vom 05.12.2018 - VIII ZR 271/17](viii-zr-271-17.md) — 1. Wärmebrücken in den Außenwänden einer Mietwohnung und eine deshalb - bei unzureichender Lüftung und Heizung - bestehende Gefahr einer Schimmelpilzbildung sin
+- [BGH, Urteil vom 05.12.2018 - VIII ZR 67/18](viii-zr-67-18.md) — 1. Wärmebrücken in den Außenwänden einer Mietwohnung und eine deshalb - bei unzureichender Lüftung und Heizung - bestehende Gefahr einer Schimmelpilzbildung sin
+- [BGH, Beschluss vom 04.12.2018 - VIII ZB 37/18](viii-zb-37-18.md) — Eine Partei, die einen außerhalb des Gerichtsbezirks ansässigen Rechtsanwalt beauftragt, ohne dass die in § 91 Abs. 2 Satz 1 Halbs. 2 ZPO vorausgesetzte Notwend
+- [BGH, Beschluss vom 22.11.2018 - VIII ZB 57/18](viii-zb-57-18.md) — Darlegung von Einwendungen gegen Kostenansatz im Erinnerungsverfahren
+- [BGH, Beschluss vom 22.11.2018 - VIII ZB 74/17](viii-zb-74-17.md) — Darlegung von Einwendungen gegen Kostenansatz im Erinnerungsverfahren
+- [BGH, Beschluss vom 20.11.2018 - VIII ZR 112/18](viii-zr-112-18.md) — Streitwertbemessung: Klage auf Duldung von Modernisierungsmaßnahmen und Gewährung des Zutritts zur Mietwohnung
+- [BGH, Urteil vom 14.11.2018 - VIII ZR 109/18](viii-zr-109-18.md) — Bei der in einem Kaufvertrag des Vermieters über ein Hausgrundstück enthaltenen Vereinbarung, wonach der Mieter einer Wohnung des Hauses ein lebenslanges Wohnre
+- [BGH, Beschluss vom 13.11.2018 - VIII ZB 35/18](viii-zb-35-18.md) — Erinnerung gegen gerichtlichen Kostenansatz: Gebühr bei Vorlage einer als Nichtzulassungsbeschwerde erhobenen Beschwerde gegen die Ablehnung eines Prozesskosten
+- [BGH, Urteil vom 24.10.2018 - VIII ZR 52/18](viii-zr-52-18.md) — Eine vom Mieter auf eigene (vom Vermieter auch nicht erstattete) Kosten in die Mietwohnung eingebaute (Küchen-)Einrichtung bleibt bei der Ermittlung der ortsübl
+- [BGH, Urteil vom 24.10.2018 - VIII ZR 66/17](viii-zr-66-17.md) — 1a. Ein Fahrzeug ist nicht frei von Sachmängeln, wenn die Software der Kupplungsüberhitzungsanzeige eine Warnmeldung einblendet, die den Fahrer zum Anhalten auf
+- [BGH, Beschluss vom 23.10.2018 - VIII ZR 156/16](viii-zr-156-16.md) — Abgrenzung der Umwandlung von Nutzenergie zur Lieferung von Strom
+- [BGH, Beschluss vom 23.10.2018 - VIII ZR 61/18](viii-zr-61-18.md) — (Eigenbedarfsmotive „Familienbande, Kultur und Empfang von Besuch“)
+- [BGH, Urteil vom 17.10.2018 - VIII ZR 212/17](viii-zr-212-17.md) — 1. Der Vortrag einer Partei, dass ein Gestaltungsrecht erst nach Schluss der erstinstanzlichen mündlichen Verhandlung ausgeübt worden ist (hier: Widerruf gemäß 
+- [BGH, Urteil vom 17.10.2018 - VIII ZR 94/17](viii-zr-94-17.md) — 1. Stimmt der Mieter einer Wohnung einer vom Vermieter verlangten Anpassung der Miete an die ortsübliche Vergleichsmiete zu (§ 558a Abs. 1, § 558b Abs. 1 BGB), 
+- [BGH, Urteil vom 26.09.2018 - VIII ZR 187/17](viii-zr-187-17.md) — 1. Zur Mängelgewährleistung beim Rechtskauf nach § 453 BGB (hier: Kauf von Gesellschaftsanteilen). 2. Bei einem Kauf von Mitgliedschaftsrechten an einer GmbH, d
+- [BGH, Beschluss vom 26.09.2018 - VIII ZR 290/18](viii-zr-290-18.md) — Einstweilige Einstellung der Zwangsvollstreckung durch das Revisionsgericht: Anwaltszwang für einen Vollstreckungsschutzantrag im Nichtzulassungsbeschwerdeverfa
+- [BGH, Urteil vom 19.09.2018 - VIII ZR 231/17](viii-zr-231-17.md) — 1. Durch § 569 Abs. 3 Nr. 2 Satz 1 BGB hat der Gesetzgeber die gesetzliche Fiktion geschaffen, dass im Falle einer rechtzeitigen Schonfristzahlung oder Verpflic
+- [BGH, Urteil vom 19.09.2018 - VIII ZR 261/17](viii-zr-261-17.md) — 1. Zur Geltungswirkung einer vom Vermieter hilfsweise mit einer fristlosen Kündigung verbundenen ordentlichen Kündigung eines Wohnraummietverhältnisses in den F
+- [BGH, Beschluss vom 04.09.2018 - VIII ZB 70/17](viii-zb-70-17.md) — 1. Bei Stellung eines Fristverlängerungsantrags muss als zusätzliche Fristensicherung auch das hypothetische Ende der beantragten Fristverlängerung bei oder als
+- [BGH, Beschluss vom 04.09.2018 - VIII ZR 100/18](viii-zr-100-18.md) — Mietminderung: Kondiktion überzahlter Miete bei vorbehaltloser Zahlung; Höhe der Minderung bei Geruchsbelästigung aus defektem Abwasserrohr
+- [BGH, Urteil vom 22.08.2018 - VIII ZR 277/16](viii-zr-277-16.md) — 1. Im Falle einer dem Mieter unrenoviert oder renovierungsbedürftig überlassenen Wohnung hält die formularvertragliche Überwälzung der nach der gesetzlichen Reg
+- [BGH, Beschluss vom 22.08.2018 - VIII ZR 287/17](viii-zr-287-17.md) — Individualvertragliche Übertragung einer Anfangsrenovierung auf Mieter im preisgebundenen Wohnraum
+- [BGH, Urteil vom 22.08.2018 - VIII ZR 99/17](viii-zr-99-17.md) — Für das Bestehen der Pflicht des Vermieters, die Wohnung gemäß § 535 Abs. 1 Satz 2 BGB zum vertragsgemäßen Gebrauch zu überlassen und sie fortlaufend in diesem 
+- [BGH, Beschluss vom 21.08.2018 - VIII ZB 1/18](viii-zb-1-18.md) — (Nachholung der Entscheidung über die Zulassung der Berufung)
+- [BGH, Beschluss vom 21.08.2018 - VIII ZB 22/18](viii-zb-22-18.md) — Entscheidung über Prozesskostenhilfegesuch innerhalb der Rechtsmittelfrist
+- [BGH, Beschluss vom 21.08.2018 - VIII ZR 186/17](viii-zr-186-17.md) — Wohnraummiete: Eigenbedarfskündigung wegen beabsichtigter Nutzung einer Wohnung als Ferien- und Zweitwohnung
+- [BGH, Beschluss vom 21.08.2018 - VIII ZR 188/16](viii-zr-188-16.md) — Wohnraummiete: Pflicht des Mieters zur Reinigung der Fenster
+- [BGH, Beschluss vom 21.08.2018 - VIII ZR 92/17](viii-zr-92-17.md) — Wohnraummietvertrag: Unangemessene Benachteiligung durch formularmäßigen Ausschluss der Kautionsverzinsung im Altvertrag
+- [BGH, Urteil vom 11.07.2018 - VIII ZR 136/17](viii-zr-136-17.md) — 1. Im Falle der Beifügung eines Sachverständigengutachtens ist der Pflicht des Vermieters zur Begründung seines Mieterhöhungsverlangens grundsätzlich Genüge get
+- [BGH, Urteil vom 11.07.2018 - VIII ZR 190/17](viii-zr-190-17.md) — Wirksamkeit eines Mieterhöhungsverlangens unter Hinzufügung eines Sachverständigengutachtens
+- [BGH, Beschluss vom 03.07.2018 - VIII ZR 227/16](viii-zr-227-16.md) — Nichtzulassungsbeschwerdeverfahren: Darlegung des Zulassungsgrundes einer grundsätzlichen Bedeutung einer Rechtsfrage trotz deren Klärung durch den Bundesgerich
+- [BGH, Beschluss vom 03.07.2018 - VIII ZR 229/17](viii-zr-229-17.md) — 1. 1078 Abs. 1 Satz 1 ZPO ist richtlinienkonform dahin auszulegen, dass eine Prozesspartei, die ihren Wohnsitz oder gewöhnlichen Aufenthalt in einem anderen Mit
+- [BGH, Beschluss vom 12.06.2018 - VIII ZR 121/17](viii-zr-121-17.md) — Modernisierungsmieterhöhung bei Wohnraummiete: Wirksame Beschränkung einer Revisionszulassung auf die formellen Wirksamkeitsvoraussetzungen; Nichtangabe eines A
+- [BGH, Urteil vom 06.06.2018 - VIII ZR 247/17](viii-zr-247-17.md) — 1. § 5 Abs. 2 Satz 2 StromGVV legt dem Grundversorger unter anderem die Verpflichtung auf, in der brieflichen Mitteilung über Preisänderungen eine Gegenüberstel
+- [BGH, Urteil vom 06.06.2018 - VIII ZR 38/17](viii-zr-38-17.md) — Haben die Mietvertragsparteien die Umlage der Kosten der Gebäudeversicherung (§ 2 Nr. 13 BetrKV) auf den Mieter vereinbart, sind auch die Kosten eines in der Ge
+- [BGH, Beschluss vom 05.06.2018 - VIII ZR 253/17](viii-zr-253-17.md) — Anspruch auf Vergütung von Gaslieferungen gegenüber einem Untermieter
+- [BGH, Urteil vom 30.05.2018 - VIII ZR 220/17](viii-zr-220-17.md) — Sofern und soweit Betriebskosten nach gesetzlichen Vorgaben (vgl. etwa § 556a Abs. 1 BGB, § 7 Abs. 1 HeizkostenV) ganz oder teilweise nach Wohnflächenanteilen u
+- [BGH, Beschluss vom 15.05.2018 - VIII ZR 150/17](viii-zr-150-17.md) — (Anforderungen an eine beschränkte Zulassung der Revision)
+- [BGH, Urteil vom 09.05.2018 - VIII ZR 135/17](viii-zr-135-17.md) — Auf Einzelimportarzneimittel im Sinne des § 73 Abs. 3 AMG findet das Preisrecht der Arzneimittelpreisverordnung keine Anwendung (Abgrenzung zu BGH, Beschluss vo
+- [BGH, Urteil vom 09.05.2018 - VIII ZR 26/17](viii-zr-26-17.md) — 1a. Die mangelbedingte Minderung des Kaufpreises ist vom Gesetzgeber als Gestaltungsrecht ausgeformt worden. Mit dem Zugang einer wirksam ausgeübten Minderung d
+- [BGH, Beschluss vom 08.05.2018 - VIII ZR 200/17](viii-zr-200-17.md) — Zur Zulässigkeit eines individualvertraglich vereinbarten dauerhaften Kündigungsausschlusses.
+- [BGH, Urteil vom 25.04.2018 - VIII ZR 176/17](viii-zr-176-17.md) — 1. Überlässt eine Miteigentümergemeinschaft gemeinschaftliche Räume einem ihrer Mitglieder vertraglich gegen Entgelt zur alleinigen Nutzung, kommt hierdurch reg
+- [BGH, Urteil vom 11.04.2018 - VIII ZR 197/16](viii-zr-197-16.md) — 1. Der Anspruch auf eine Grundvergütung für die Erzeugung von Strom aus Erneuerbaren Energien besteht für Biomasseanlagen mit einer Leistung über fünf Megawatt 
+- [BGH, Beschluss vom 10.04.2018 - VIII ZB 35/17](viii-zb-35-17.md) — Berufungsverfahren: Heilung des Formmangel fehlender Unterzeichnung des Berufungsschriftsatzes; Gehörsverletzung bei Nichtberücksichtigung des entsprechenden Kl
+- [BGH, Beschluss vom 10.04.2018 - VIII ZR 127/17](viii-zr-127-17.md) — Richterablehnung: Besorgnis der Befangenheit wegen vermeintlicher Fehlerhaftigkeit einer Entscheidung
+- [BGH, Beschluss vom 10.04.2018 - VIII ZR 223/17](viii-zr-223-17.md) — Wohnraummiete: Gehörsverletzung des Berufungsgerichts wegen nur vordergründiger Wahrunterstellung des Vortrags eines Mieters zu schwerwiegenden Mängeln; Substan
+- [BGH, Urteil vom 21.03.2018 - VIII ZR 104/17](viii-zr-104-17.md) — 1. Die Kündigungsbeschränkung nach § 577a Abs. 1a Satz 1 BGB erfordert nicht, dass zusätzlich zu den im Tatbestand dieser Vorschrift genannten Voraussetzungen -
+- [BGH, Urteil vom 21.03.2018 - VIII ZR 17/17](viii-zr-17-17.md) — 1a. Die Einziehung im Wege des echten Factorings abgetretener Forderungen ist keine Inkassodienstleistung im Sinne von § 2 Abs. 2 Satz 1 RDG, weil ein Factoring
+- [BGH, Urteil vom 21.03.2018 - VIII ZR 68/17](viii-zr-68-17.md) — 1.1. Ein Klageantrag ist grundsätzlich hinreichend bestimmt im Sinne des § 253 Abs. 2 Nr. 2 ZPO, wenn er den erhobenen Anspruch konkret bezeichnet, dadurch den 
+- [BGH, Urteil vom 21.03.2018 - VIII ZR 84/17](viii-zr-84-17.md) — Zur Anwendung des § 366 Abs. 2 BGB bei der Bestimmung des Klagebegehrens und bei der Begründetheit einer Zahlungsklage, wenn der Vermieter Mietrückstände auf de
+- [BGH, Beschluss vom 20.03.2018 - VIII ZR 71/17](viii-zr-71-17.md) — Erneuerbare Energien: Verantwortlichkeit des Betreibers einer Photovoltaikanlage für die Erfüllung seiner Meldepflichten gegenüber der Bundesnetzagentur; Aufklä
+- [BGH, Urteil vom 28.02.2018 - VIII ZR 157/17](viii-zr-157-17.md) — Schäden an der Sachsubstanz der Mietsache, die durch eine Verletzung von Obhutspflichten des Mieters entstanden sind, hat dieser nach § 280 Abs. 1, § 241 Abs. 2
+- [BGH, Beschluss vom 27.02.2018 - VIII ZR 147/17](viii-zr-147-17.md) — Abstrakte AGB-Kontrollklage einer Verbraucherzentrale: Streitwertbemessung und Rechtsmittelbeschwer der unterlegenen Partei
+- [BGH, Beschluss vom 27.02.2018 - VIII ZR 39/18](viii-zr-39-18.md) — Einstweilige Einstellung der Zwangsvollstreckung im Revisionsverfahren: Vorliegen eines „unersetzlichem Nachteils“ bei unterlassener Stellung eines Vollstreckun
+- [BGH, Beschluss vom 27.02.2018 - VIII ZR 90/17](viii-zr-90-17.md) — 1. § 531 Abs. 1 ZPO, wonach Angriffs- und Verteidigungsmittel, die im ersten Rechtszug zu Recht zurückgewiesen worden sind, auch in der Berufungsinstanz ausgesc
+- [BGH, Urteil vom 21.02.2018 - VIII ZR 255/16](viii-zr-255-16.md) — 1. Ein Vermieter und Grundstückseigentümer, dem die Gemeinde nicht als Anlieger die allgemeine Räum- und Streupflicht übertragen hat, ist regelmäßig nicht aus d
+- [BGH, Urteil vom 07.02.2018 - VIII ZR 148/17](viii-zr-148-17.md) — 1. Die Frage, ob von einem Haushaltskunden erhobene Einwendungen gegen eine Stromrechnung die "ernsthafte Möglichkeit eines offensichtlichen Fehlers" belegen un
+- [BGH, Urteil vom 07.02.2018 - VIII ZR 189/17](viii-zr-189-17.md) — 1. Ein Mieter kann im Rahmen der bei einer Betriebskostenabrechnung geschuldeten Belegvorlage vom Vermieter auch die Einsichtnahme in die von diesem erhobenen E
+- [BGH, Beschluss vom 06.02.2018 - VIII ZR 273/17](viii-zr-273-17.md) — Nichtzulassungsbeschwerde: Wert einer Streitigkeit über das Bestehen eines Mietverhältnisses von unbestimmter Dauer
+- [BGH, Urteil vom 31.01.2018 - VIII ZR 105/17](viii-zr-105-17.md) — 1a. Eine objektiv feststehende finanzielle Leistungsunfähigkeit eines nach dem Tod des Mieters in das Mietverhältnis Eintretenden kann einen wichtigen Grund zur
+- [BGH, Urteil vom 31.01.2018 - VIII ZR 39/17](viii-zr-39-17.md) — Hat das Jobcenter das dem Wohnungsmieter zustehende Arbeitslosengeld II als Bedarf für Unterkunft und Heizung versehentlich auch noch nach der Beendigung des Mi
+- [BGH, Beschluss vom 30.01.2018 - VIII ZB 57/16](viii-zb-57-16.md) — 1. Wird eine Klage des Mieters gegen den Vermieter auf Zustimmung zur Tierhaltung in der gemieteten Wohnung abgewiesen, erfordert die Beurteilung, ob der Wert d
+- [BGH, Beschluss vom 30.01.2018 - VIII ZB 74/16](viii-zb-74-16.md) — Wohnraummiete: Konkludente Zustimmung zu einem Mieterhöhungsverlangen
+- [BGH, Urteil vom 17.01.2018 - VIII ZR 241/16](viii-zr-241-16.md) — Eine gewerbliche Weitervermietung, die eine geschäftsmäßige, auf Dauer gerichtete und mit der Absicht der Gewinnerzielung oder im eigenen wirtschaftlichen Inter
+- [BGH, Beschluss vom 16.01.2018 - VIII ZB 61/17](viii-zb-61-17.md) — 1. Aus Art. 2 Abs. 1 GG in Verbindung mit dem Rechtsstaatsprinzip (Art. 20 Abs. 3 GG) wird als allgemeines Verfahrensgrundrecht neben dem Gebot effektiven Recht

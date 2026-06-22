@@ -1,0 +1,68 @@
+# 3. Strafsenat – 2001
+
+64 Entscheidung(en).
+
+- [BGH, Beschluss vom 14.12.2001 - 3 StR 369/01](3-str-369-01.md) — bewaffneten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 14.12.2001 - 3 StR 442/01](3-str-442-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 14.12.2001 - 3 StR 458/01](3-str-458-01.md) — Mordes u.a.
+- [BGH, Beschluss vom 05.12.2001 - 3 StR 422/01](3-str-422-01.md) — Anstiftung zur besonders schweren Brandstiftung
+- [BGH, Beschluss vom 05.12.2001 - 3 StR 447/01](3-str-447-01.md) — versuchten schweren Raubes u.a.
+- [BGH, Beschluss vom 16.11.2001 - 3 StR 368/01](3-str-368-01.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 16.11.2001 - 3 StR 371/01](3-str-371-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 16.11.2001 - 3 StR 406/01](3-str-406-01.md) — Totschlags
+- [BGH, Beschluss vom 08.11.2001 - 3 StR 362/01](3-str-362-01.md) — zu 1.: Bandenhandels mit Betäubungsmitteln in nicht geringer Menge zu 2.: Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 08.11.2001 - 3 StR 378/01](3-str-378-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 25.10.2001 - 3 StR 300/01](3-str-300-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 25.10.2001 - 3 StR 314/01](3-str-314-01.md) — Betruges
+- [BGH, Beschluss vom 25.10.2001 - 3 StR 376/01](3-str-376-01.md) — Vergewaltigung
+- [BGH, Beschluss vom 25.10.2001 - 3 StR 401/01](3-str-401-01.md) — Betrugs u.a.
+- [BGH, Beschluss vom 18.10.2001 - 3 StR 187/01](3-str-187-01.md) — sexueller Nötigung
+- [BGH, Beschluss vom 18.10.2001 - 3 StR 247/01](3-str-247-01.md) — schweren Menschenhandels u.a.
+- [BGH, Beschluss vom 18.10.2001 - 3 StR 320/01](3-str-320-01.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 18.10.2001 - 3 StR 387/01](3-str-387-01.md) — Totschlags u.a.
+- [BGH, Beschluss vom 20.09.2001 - 3 StR 342/01](3-str-342-01.md) — Mordes u. a.
+- [BGH, Beschluss vom 06.09.2001 - 3 StR 256/01](3-str-256-01.md) — Betruges
+- [BGH, Beschluss vom 06.09.2001 - 3 StR 283/01](3-str-283-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 06.09.2001 - 3 StR 285/01](3-str-285-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 06.09.2001 - 3 StR 302/01](3-str-302-01.md) — schwerer Brandstiftung
+- [BGH, Beschluss vom 06.09.2001 - 3 StR 311/01](3-str-311-01.md) — Körperverletzung u.a.
+- [BGH, Beschluss vom 06.09.2001 - 3 StR 312/01](3-str-312-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 06.09.2001 - 3 StR 321/01](3-str-321-01.md) — sexueller Nötigung
+- [BGH, Beschluss vom 05.09.2001 - 3 StR 174/01](3-str-174-01.md) — zu 1.: versuchten Betrugs u.a. zu 2.: versuchter Verletzung des Dienstgeheimnisses
+- [BGH, Beschluss vom 05.09.2001 - 3 StR 175/01](3-str-175-01.md) — Körperverletzung im Amt u.a.
+- [BGH, Beschluss vom 05.09.2001 - 3 StR 246/01](3-str-246-01.md) — Fälschung von Wertpapieren eines fremden Währungsgebiets
+- [BGH, Beschluss vom 05.09.2001 - 3 StR 327/01](3-str-327-01.md) — Vergewaltigung
+- [BGH, Beschluss vom 09.08.2001 - 3 StR 248/01](3-str-248-01.md) — sexueller Nötigung u. a.
+- [BGH, Beschluss vom 09.08.2001 - 3 StR 253/01](3-str-253-01.md) — Freiheitsberaubung u.a.
+- [BGH, Beschluss vom 09.08.2001 - 3 StR 273/01](3-str-273-01.md) — versuchter schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 09.08.2001 - 3 StR 279/01](3-str-279-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 08.08.2001 - 3 StR 162/01](3-str-162-01.md) — Mordes u.a.
+- [BGH, Beschluss vom 08.08.2001 - 3 StR 258/01](3-str-258-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Urteil vom 08.08.2001 - 3 StR 262/01](3-str-262-01.md) — Beihilfe zum Handeltreiben mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 08.08.2001 - 3 StR 271/01](3-str-271-01.md) — schweren Raubes
+- [BGH, Beschluss vom 20.06.2001 - 3 StR 192/01](3-str-192-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.06.2001 - 3 StR 202/01](3-str-202-01.md) — Vergewaltigung
+- [BGH, Beschluss vom 20.06.2001 - 3 StR 209/01](3-str-209-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 13.06.2001 - 3 StR 126/01](3-str-126-01.md) — Vorenthaltens von Arbeitsentgelt
+- [BGH, Urteil vom 13.06.2001 - 3 StR 131/01](3-str-131-01.md) — Bestechlichkeit
+- [BGH, Beschluss vom 27.04.2001 - 3 StR 112/01](3-str-112-01.md) — unerlaubter Abgabe von Betäubungsmitteln an Minderjährige
+- [BGH, Beschluss vom 27.04.2001 - 3 StR 132/01](3-str-132-01.md) — Urkundenfälschung u.a.
+- [BGH, Beschluss vom 27.04.2001 - 3 StR 502/99](3-str-502-99.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 18.04.2001 - 3 StR 69/01](3-str-69-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.03.2001 - 3 StR 389/00](3-str-389-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 23.03.2001 - 3 StR 59/01](3-str-59-01.md) — BGH, Beschluss vom 23.03.2001 - 3 StR 59/01
+- [BGH, Urteil vom 14.03.2001 - 3 StR 408/00](3-str-408-00.md) — Anstiftung zur schweren Brandstiftung
+- [BGH, Urteil vom 14.03.2001 - 3 StR 446/00](3-str-446-00.md) — Totschlags u.a.
+- [BGH, Urteil vom 14.03.2001 - 3 StR 474/00](3-str-474-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 14.03.2001 - 3 StR 48/01](3-str-48-01.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 14.03.2001 - 3 StR 58/01](3-str-58-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 28.02.2001 - 3 StR 572/00](3-str-572-00.md) — fahrlässiger Körperverletzung u.a.
+- [BGH, Beschluss vom 22.02.2001 - 3 StR 41/01](3-str-41-01.md) — Vergewaltigung
+- [BGH, Beschluss vom 22.02.2001 - 3 StR 471/00](3-str-471-00.md) — versuchter Bestimmung eines Jugendlichen zum unerlaubten Handeltreiben mit Betäubungsmitteln
+- [BGH, Beschluss vom 22.02.2001 - 3 StR 580/00](3-str-580-00.md) — schwerer räuberischer Erpressung
+- [BGH, Entscheidung vom 22.02.2001 - 3 StR 587/00](3-str-587-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 07.02.2001 - 3 StR 556/00](3-str-556-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 07.02.2001 - 3 StR 566/00](3-str-566-00.md) — besonders schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 10.01.2001 - 3 StR 468/00](3-str-468-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 10.01.2001 - 3 StR 516/00](3-str-516-00.md) — sexuellen Mißbrauchs eines Kindes u. a.
+- [BGH, Beschluss vom 10.01.2001 - 3 StR 564/00](3-str-564-00.md) — unerlaubter Abgabe von Betäubungsmitteln an Minderjährige u.a.

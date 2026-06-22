@@ -1,0 +1,162 @@
+# I. Zivilsenat – 2023
+
+158 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2023 - I ZB 37/23](i-zb-37-23.md) — 1. Dem im Verfahren auf Vollstreckbarerklärung eines ausländischen Schiedsspruchs erhobenen Einwand eines Anerkennungsversagungsgrunds im Sinne des Art. V Abs. 
+- [BGH, Beschluss vom 21.12.2023 - I ZB 42/23](i-zb-42-23.md) — 1. Im Verfahren auf Erlass einer einstweiligen Verfügung ist die Rechtsbeschwerde wegen des durch § 574 Abs. 1 Satz 2, § 542 Abs. 2 Satz 1 ZPO begrenzten Instan
+- [BGH, Beschluss vom 21.12.2023 - I ZB 75/23](i-zb-75-23.md) — BGH, Beschluss I ZB 75/23
+- [BGH, EuGH-Vorlage vom 21.12.2023 - I ZR 17/23](i-zr-17-23.md) — Trockenluftkompressor Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 14 Abs. 1 und 2 Unterabs. 1 Buchst. a und Unterabs. 3 der Verordnung 
+- [BGH, Beschluss vom 20.12.2023 - I ZB 82/23](i-zb-82-23.md) — BGH, Beschluss I ZB 82/23
+- [BGH, Beschluss vom 19.12.2023 - I ZB 70/23](i-zb-70-23.md) — BGH, Beschluss I ZB 70/23
+- [BGH, Beschluss vom 19.12.2023 - I ZB 71/23](i-zb-71-23.md) — BGH, Beschluss I ZB 71/23
+- [BGH, Beschluss vom 14.12.2023 - I ZB 72/23](i-zb-72-23.md) — BGH, Beschluss I ZB 72/23
+- [BGH, Beschluss vom 11.12.2023 - I ZB 68/23](i-zb-68-23.md) — BGH, Beschluss I ZB 68/23
+- [BGH, Beschluss vom 11.12.2023 - I ZB 69/23](i-zb-69-23.md) — BGH, Beschluss I ZB 69/23
+- [BGH, Beschluss vom 11.12.2023 - I ZR 89/23](i-zr-89-23.md) — BGH, Beschluss I ZR 89/23
+- [BGH, Beschluss vom 07.12.2023 - I ZB 27/23](i-zb-27-23.md) — Öffentliche Zustellung im Zwangsvollstreckungsverfahren wegen Gewerbesteuerrückständen: Anforderungen an den Nachweis der Unbekanntheit des Aufenthaltsortes ein
+- [BGH, Beschluss vom 23.11.2023 - I ZB 29/23](i-zb-29-23.md) — Der Zulässigkeit der sofortigen Beschwerde des Gläubigers gegen die Entscheidung, mit der gegen den Schuldner ein Ordnungsgeld verhängt worden ist, steht die fe
+- [BGH, Beschluss vom 09.11.2023 - I ZB 32/23](i-zb-32-23.md) — 1. Unter die Geschäftsgeheimnisstreitsachen im Sinn des § 16 Abs. 1 GeschGehG fallen auch selbständige Beweisverfahren. 2. Soweit § 20 Abs. 5 Satz 4 GeschGehG d
+- [BGH, Beschluss vom 09.11.2023 - I ZB 62/23](i-zb-62-23.md) — BGH, Beschluss I ZB 62/23
+- [BGH, Beschluss vom 09.11.2023 - I ZR 203/22](i-zr-203-22.md) — BGH, Beschluss I ZR 203/22
+- [BGH, Beschluss vom 08.11.2023 - I ZB 66/23](i-zb-66-23.md) — BGH, Beschluss I ZB 66/23
+- [BGH, Beschluss vom 08.11.2023 - I ZR 148/22](i-zr-148-22.md) — Wettbewerbsverstoß eines ausländischen Anbieters von Zweitlotterien im Internet: Europarechtskonformität des Internetverbots für Glücksspiele
+- [BGH, Beschluss vom 08.11.2023 - I ZR 79/22](i-zr-79-22.md) — BGH, Beschluss I ZR 79/22
+- [BGH, Beschluss vom 30.10.2023 - I ZB 103/22](i-zb-103-22.md) — BGH, Beschluss I ZB 103/22
+- [BGH, Beschluss vom 30.10.2023 - I ZB 104/22](i-zb-104-22.md) — BGH, Beschluss I ZB 104/22
+- [BGH, Beschluss vom 30.10.2023 - I ZB 115/22](i-zb-115-22.md) — BGH, Beschluss I ZB 115/22
+- [BGH, Beschluss vom 30.10.2023 - I ZB 84/22](i-zb-84-22.md) — BGH, Beschluss I ZB 84/22
+- [BGH, Beschluss vom 26.10.2023 - I ZB 11/23](i-zb-11-23.md) — Die befristete Einstellung der Zwangsvollstreckung kann auch mit Auflagen zu versehen sein, die die wirtschaftliche Verwertung des vom Schuldner bewohnten Grund
+- [BGH, Beschluss vom 26.10.2023 - I ZB 114/22](i-zb-114-22.md) — (Formanforderungen an einen behördlichen Verhaftungsantrag auf Grundlage eines Vollstreckungsantrag nach § 7 S 1, S 2 JBeitrG (juris: JBeitrO) - Übermittlung an
+- [BGH, Beschluss vom 26.10.2023 - I ZB 14/23](i-zb-14-23.md) — 1. Die Zulässigkeit eines Aufhebungsantrags nach § 1059 Abs. 3 ZPO setzt eine Beschwer des Antragstellers voraus. 2. Die Beschwer der durch einen Schiedsspruch 
+- [BGH, Urteil vom 26.10.2023 - I ZR 107/22](i-zr-107-22.md) — energycollect.de Bei der Prüfung einer unberechtigten Namensanmaßung (§ 12 Satz 1 Fall 2 BGB) durch die Aufrechterhaltung einer vor Entstehung des Namensrechts 
+- [BGH, Urteil vom 26.10.2023 - I ZR 135/20](i-zr-135-20.md) — Flaschenpfand IV Der Gesamtpreis gemäß § 1 Abs. 1 Satz 1 PAngV in der Fassung vom 17. Juli 2017 (§ 3 Abs. 1, § 2 Nr. 3 PAngV in der Fassung vom 12. November 202
+- [BGH, Beschluss vom 26.10.2023 - I ZR 32/23](i-zr-32-23.md) — BGH, Beschluss I ZR 32/23
+- [BGH, Beschluss vom 25.10.2023 - I ZB 49/23](i-zb-49-23.md) — BGH, Beschluss I ZB 49/23
+- [BGH, Beschluss vom 25.10.2023 - I ZB 56/23](i-zb-56-23.md) — BGH, Beschluss I ZB 56/23
+- [BGH, Beschluss vom 20.10.2023 - I ZB 53/23](i-zb-53-23.md) — BGH, Beschluss I ZB 53/23
+- [BGH, Beschluss vom 20.10.2023 - I ZB 54/23](i-zb-54-23.md) — BGH, Beschluss I ZB 54/23
+- [BGH, Beschluss vom 12.10.2023 - I ZB 12/23](i-zb-12-23.md) — Die Rechtsprechung des Gerichtshofs der Europäischen Union in der Rechtssache "Achmea" (EuGH, Urteil vom 6. März 2018 - C-284/16, SchiedsVZ 2018, 186) ist nicht
+- [BGH, Beschluss vom 12.10.2023 - I ZB 24/23](i-zb-24-23.md) — Verwaltungsvollstreckung in Nordrhein-Westfalen: Formerfordernisse des Vollstreckungsauftrags im elektronischen Rechtsverkehr
+- [BGH, Beschluss vom 12.10.2023 - I ZB 28/23](i-zb-28-23.md) — KÖLNER DOM 1. Das Eintragungshindernis der fehlenden Unterscheidungskraft nach § 8 Abs. 2 Nr. 1 MarkenG steht der Eintragung einer Marke für mit einem weiten Wa
+- [BGH, Beschluss vom 12.10.2023 - I ZR 42/23](i-zr-42-23.md) — Markenrecht: Abweichende Entscheidung des Amts der Europäischen Union für Geistiges Eigentum; Gehörsverletzung im Parallelverfahren - Terra greca II
+- [BGH, Beschluss vom 05.10.2023 - I ZB 48/23](i-zb-48-23.md) — BGH, Beschluss I ZB 48/23
+- [BGH, EuGH-Vorlage vom 14.09.2023 - I ZR 4/21](i-zr-4-21.md) — Femannose Dem Gerichtshof der Europäischen Union wird zur Auslegung von Art. 1 Nr. 2 Buchst. b Fall 1 der Richtlinie 2001/83/EG vom 6. November 2001 zur Schaffu
+- [BGH, EuGH-Vorlage vom 14.09.2023 - I ZR 74/22](i-zr-74-22.md) — Metall auf Metall V Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 5 Abs. 3 Buchst. k der Richtlinie 2001/29/EG des Europäischen Parlament
+- [BGH, Beschluss vom 31.08.2023 - I ZB 102/22](i-zb-102-22.md) — Zulässigkeit einer Rechtsbeschwerde wegen Wegfall der Beschwer aufgrund wirksamer Rücknahme eines Vollstreckungsantrags; Kostentragungspflicht im Rechtsbeschwer
+- [BGH, Beschluss vom 31.08.2023 - I ZR 11/23](i-zr-11-23.md) — Gehörsrechtsverletzende Überraschungsentscheidung bei Abweichen von gutachterlichen Feststellungen
+- [BGH, Beschluss vom 29.08.2023 - I ZB 36/23](i-zb-36-23.md) — BGH, Beschluss I ZB 36/23
+- [BGH, Beschluss vom 24.08.2023 - I ZB 65/22](i-zb-65-22.md) — BGH, Beschluss I ZB 65/22
+- [BGH, Beschluss vom 15.08.2023 - I ZB 22/23](i-zb-22-23.md) — Kostenansatzverfahren nach Verwerfung einer Rechtsbeschwerde durch den Bundesgerichtshof: Auslegung einer unstatthaften Beschwerde gegen die Erinnerungsentschei
+- [BGH, Beschluss vom 27.07.2023 - I ZB 1/23](i-zb-1-23.md) — Zwangsvollstreckung einer Gerichtskostenforderung: Übermittlung des Auftrags im elektronischen Rechtsverkehr
+- [BGH, Beschluss vom 27.07.2023 - I ZB 110/22](i-zb-110-22.md) — BGH, Beschluss I ZB 110/22
+- [BGH, Beschluss vom 27.07.2023 - I ZB 113/22](i-zb-113-22.md) — Beitreibung einer in Polen verhängten Geldsanktion durch das Bundesamt für Justiz: Übermittlung des Zwangsvollstreckungsantrags im elektronischen Rechtsverkehr
+- [BGH, Beschluss vom 27.07.2023 - I ZB 124/22](i-zb-124-22.md) — BGH, Beschluss I ZB 124/22
+- [BGH, Beschluss vom 27.07.2023 - I ZB 43/22](i-zb-43-22.md) — 1. Die internationale Zuständigkeit deutscher Gerichte für einen Antrag gemäß § 1032 Abs. 2 ZPO folgt bei Schiedsverfahren ohne Schiedsort nach dem ICSID-Überei
+- [BGH, Beschluss vom 27.07.2023 - I ZB 74/22](i-zb-74-22.md) — Als Mindestvoraussetzung für einen zulässigen Antrag nach § 1032 Abs. 2 ZPO muss eine konkrete Schiedsvereinbarung zwischen den Parteien mit einem potenziell da
+- [BGH, Beschluss vom 27.07.2023 - I ZB 75/22](i-zb-75-22.md) — Zulässigkeit von Intra-EU-Investor-Staat-Schiedsverfahren bei dem ICSID auf Grundlage des Energiecharta-Vertrags
+- [BGH, Beschluss vom 27.07.2023 - I ZB 78/22](i-zb-78-22.md) — BGH, Beschluss I ZB 78/22
+- [BGH, Beschluss vom 27.07.2023 - I ZB 85/22](i-zb-85-22.md) — BGH, Beschluss I ZB 85/22
+- [BGH, Beschluss vom 27.07.2023 - I ZB 86/22](i-zb-86-22.md) — BGH, Beschluss I ZB 86/22
+- [BGH, Urteil vom 27.07.2023 - I ZR 144/22](i-zr-144-22.md) — Zweibrücken Fashion Outlet 1. Eine wegen Verstoßes gegen höherrangiges Recht nichtige Rechtsverordnung entfaltet - anders als ein zwar rechtswidriger, aber nich
+- [BGH, Beschluss vom 13.07.2023 - I ZA 3/23](i-za-3-23.md) — BGH, Beschluss I ZA 3/23
+- [BGH, Urteil vom 13.07.2023 - I ZR 152/21](i-zr-152-21.md) — muenchen.de 1. Zu der mit Blick auf das Gebot der Staatsferne der Presse zulässigen Öffentlichkeitsarbeit der Kommune gehören grundsätzlich auch das Stadtmarket
+- [BGH, EuGH-Vorlage vom 13.07.2023 - I ZR 182/22](i-zr-182-22.md) — Gutscheinwerbung Dem Gerichtshof der Europäischen Union werden zur Auslegung der Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates vom 6. November
+- [BGH, Urteil vom 13.07.2023 - I ZR 60/22](i-zr-60-22.md) — Eigenlaborgewinn Die Bestimmung des § 9 Abs. 1 GOZ, nach der neben den für die einzelnen zahnärztlichen Leistungen vorgesehenen Gebühren als Auslagen die dem Za
+- [BGH, Urteil vom 13.07.2023 - I ZR 68/21](i-zr-68-21.md) — Bakterienkulturen 1. Ein Erzeugnis stellt ein Lebensmittel für besondere medizinische Zwecke im Sinne des Art. 2 Abs. 2 Buchst. g der Verordnung (EU) Nr. 609/20
+- [BGH, Beschluss vom 12.07.2023 - I ZR 17/22](i-zr-17-22.md) — 1. Im Fall übereinstimmender Erledigungserklärungen hinsichtlich eines Teils des Rechtsstreits hat das Revisionsgericht in Abweichung von dem Grundsatz der Einh
+- [BGH, Beschluss vom 16.06.2023 - I ZB 38/23](i-zb-38-23.md) — BGH, Beschluss I ZB 38/23
+- [BGH, Beschluss vom 16.06.2023 - I ZB 39/23](i-zb-39-23.md) — BGH, Beschluss I ZB 39/23
+- [BGH, Beschluss vom 16.06.2023 - I ZB 94/20](i-zb-94-20.md) — BGH, Beschluss I ZB 94/20
+- [BGH, Beschluss vom 15.06.2023 - I ZR 173/21](i-zr-173-21.md) — BGH, Beschluss I ZR 173/21
+- [BGH, Urteil vom 15.06.2023 - I ZR 179/22](i-zr-179-22.md) — Microstock-Portal 1. Das Recht des Urhebers auf Anbringung der Urheberbezeichnung gemäß § 13 Satz 2 UrhG ist in seinem Kern unverzichtbar. Daraus, dass der Urhe
+- [BGH, Beschluss vom 14.06.2023 - I ZB 35/23](i-zb-35-23.md) — BGH, Beschluss I ZB 35/23
+- [BGH, Beschluss vom 04.06.2023 - I ZB 16/23](i-zb-16-23.md) — BGH, Beschluss I ZB 16/23
+- [BGH, Beschluss vom 02.06.2023 - I ZB 30/23](i-zb-30-23.md) — BGH, Beschluss I ZB 30/23
+- [BGH, Beschluss vom 01.06.2023 - I ZB 108/22](i-zb-108-22.md) — Räumungsvollstreckung gegen den Wohnraummieter: Erforderlichkeit sachverständiger Hilfe zur Beurteilung der mit einem Umzug verbundenen gesundheitlichen Folgen 
+- [BGH, Beschluss vom 01.06.2023 - I ZB 6/23](i-zb-6-23.md) — BGH, Beschluss I ZB 6/23
+- [BGH, Beschluss vom 01.06.2023 - I ZB 69/22](i-zb-69-22.md) — Bei der Vollstreckung einer kommunalen Gebührenforderung bedarf der elektronisch einzureichende Vollstreckungsauftrag an den Gerichtsvollzieher zur Abnahme der 
+- [BGH, Beschluss vom 01.06.2023 - I ZB 80/22](i-zb-80-22.md) — Bei der Vollstreckung der Wertersatzeinziehung unterliegt die Staatsanwaltschaft nach § 459g Abs. 2 und § 459 StPO in Verbindung mit § 6 Abs. 1 Nr. 1 JBeitrG de
+- [BGH, Beschluss vom 01.06.2023 - I ZB 87/22](i-zb-87-22.md) — BGH, Beschluss I ZB 87/22
+- [BGH, EuGH-Vorlage vom 01.06.2023 - I ZR 109/22](i-zr-109-22.md) — Botanicals Dem Gerichtshof der Europäischen Union wird zur Auslegung der Art. 10 Abs. 1 und 3, Art. 28 Abs. 5 und 6 der Verordnung (EG) Nr. 1924/2006 des Europä
+- [BGH, Beschluss vom 24.05.2023 - I ZB 18/23](i-zb-18-23.md) — BGH, Beschluss I ZB 18/23
+- [BGH, Beschluss vom 19.05.2023 - I ZB 33/23](i-zb-33-23.md) — BGH, Beschluss I ZB 33/23
+- [BGH, Beschluss vom 09.05.2023 - I ZB 20/23](i-zb-20-23.md) — BGH, Beschluss I ZB 20/23
+- [BGH, Beschluss vom 04.05.2023 - I ZB 19/23](i-zb-19-23.md) — BGH, Beschluss I ZB 19/23
+- [BGH, Beschluss vom 02.05.2023 - I ZA 4/23](i-za-4-23.md) — BGH, Beschluss I ZA 4/23
+- [BGH, Beschluss vom 02.05.2023 - I ZA 5/23](i-za-5-23.md) — BGH, Beschluss I ZA 5/23
+- [BGH, Beschluss vom 02.05.2023 - I ZB 10/23](i-zb-10-23.md) — BGH, Beschluss I ZB 10/23
+- [BGH, Beschluss vom 02.05.2023 - I ZB 25/23](i-zb-25-23.md) — BGH, Beschluss I ZB 25/23
+- [BGH, Beschluss vom 02.05.2023 - I ZB 26/23](i-zb-26-23.md) — BGH, Beschluss I ZB 26/23
+- [BGH, Beschluss vom 02.05.2023 - I ZB 71/22](i-zb-71-22.md) — BGH, Beschluss I ZB 71/22
+- [BGH, Beschluss vom 02.05.2023 - I ZB 72/22](i-zb-72-22.md) — BGH, Beschluss I ZB 72/22
+- [BGH, Beschluss vom 02.05.2023 - I ZB 73/22](i-zb-73-22.md) — BGH, Beschluss I ZB 73/22
+- [BGH, Beschluss vom 02.05.2023 - I ZB 9/23](i-zb-9-23.md) — BGH, Beschluss I ZB 9/23
+- [BGH, Beschluss vom 26.04.2023 - I ZB 7/23](i-zb-7-23.md) — BGH, Beschluss I ZB 7/23
+- [BGH, Beschluss vom 20.04.2023 - I ZA 2/23](i-za-2-23.md) — BGH, Beschluss I ZA 2/23
+- [BGH, Beschluss vom 20.04.2023 - I ZA 6/22](i-za-6-22.md) — BGH, Beschluss I ZA 6/22
+- [BGH, Beschluss vom 20.04.2023 - I ZA 7/22](i-za-7-22.md) — BGH, Beschluss I ZA 7/22
+- [BGH, Beschluss vom 20.04.2023 - I ZB 83/22](i-zb-83-22.md) — Reicht eine Partei eine Rechtsmittelschrift beim unzuständigen Ausgangsgericht ein, so entspricht es regelmäßig dem ordentlichen Geschäftsgang, dass die Geschäf
+- [BGH, Urteil vom 20.04.2023 - I ZR 113/22](i-zr-113-22.md) — 1. Ein im Nachgang zu einem bereits bestehenden Immobilienmaklervertrag geschlossener Reservierungsvertrag stellt eine der uneingeschränkten AGB-rechtlichen Inh
+- [BGH, Urteil vom 20.04.2023 - I ZR 140/22](i-zr-140-22.md) — 1. Erklärt der Schuldner noch vor Fälligkeit, dass er nicht rechtzeitig leisten könne, würde es eine reine Förmelei darstellen, den Eintritt des Verzugs von ein
+- [BGH, Beschluss vom 11.04.2023 - I ZB 55/22](i-zb-55-22.md) — Gegenstandswert eines Rechtsbeschwerdeverfahrens in einem Markenlöschungsstreit
+- [BGH, Beschluss vom 23.03.2023 - I ZB 4/23](i-zb-4-23.md) — BGH, Beschluss I ZB 4/23
+- [BGH, Beschluss vom 23.03.2023 - I ZB 59/19](i-zb-59-19.md) — BGH, Beschluss I ZB 59/19
+- [BGH, Beschluss vom 23.03.2023 - I ZR 104/22](i-zr-104-22.md) — Nichtzulassungsbeschwerde in einem Rechtsstreit über den Umfang des urheberrechtlichen Schutzes eines Werks der angewandten Kunst
+- [BGH, Beschluss vom 23.03.2023 - I ZR 139/22](i-zr-139-22.md) — (Wert der Beschwer bei einer Verurteilung zur Auskunftserteilung; Bestimmung der Rechtsmittelbeschwer)
+- [BGH, Beschluss vom 23.03.2023 - I ZR 180/22](i-zr-180-22.md) — Gehörsverletzung im Berufungsverfahren: Überraschungsentscheidung und Verletzung der gerichtlichen Hinweispflicht; Verjährung von Schadensersatzansprüchen gegen
+- [BGH, Beschluss vom 22.03.2023 - I ZA 1/23](i-za-1-23.md) — BGH, Beschluss I ZA 1/23
+- [BGH, Beschluss vom 22.03.2023 - I ZB 35/20](i-zb-35-20.md) — BGH, Beschluss I ZB 35/20
+- [BGH, Beschluss vom 22.03.2023 - I ZR 91/22](i-zr-91-22.md) — BGH, Beschluss I ZR 91/22
+- [BGH, Beschluss vom 14.03.2023 - I ZB 2/23](i-zb-2-23.md) — BGH, Beschluss I ZB 2/23
+- [BGH, Beschluss vom 09.03.2023 - I ZB 105/22](i-zb-105-22.md) — BGH, Beschluss I ZB 105/22
+- [BGH, Beschluss vom 09.03.2023 - I ZB 106/22](i-zb-106-22.md) — BGH, Beschluss I ZB 106/22
+- [BGH, Beschluss vom 09.03.2023 - I ZB 33/22](i-zb-33-22.md) — 1. Die abweisende Entscheidung in einem Aufhebungsverfahren im Ursprungsstaat des Schiedsspruchs entfaltet für das Vollstreckbarerklärungsverfahren im Inland ke
+- [BGH, Beschluss vom 08.03.2023 - I ZA 11/22](i-za-11-22.md) — BGH, Beschluss I ZA 11/22
+- [BGH, Beschluss vom 08.03.2023 - I ZB 81/22](i-zb-81-22.md) — BGH, Beschluss I ZB 81/22
+- [BGH, Beschluss vom 07.03.2023 - I ZB 5/23](i-zb-5-23.md) — BGH, Beschluss I ZB 5/23
+- [BGH, Beschluss vom 07.03.2023 - I ZR 55/22](i-zr-55-22.md) — BGH, Beschluss I ZR 55/22
+- [BGH, Beschluss vom 06.03.2023 - I ZB 8/23](i-zb-8-23.md) — BGH, Beschluss I ZB 8/23
+- [BGH, Beschluss vom 01.03.2023 - I ZB 88/22 bis I ZB 101/22, I ZB 88/22 - I ZB 101/22, I ZB 88 - 101/22, I ZB 88/22, I ZB 101/22](i-zb-88-22-bis-i-zb-101-22-i-zb-88-22-i-zb-101-22-i-zb-88-101-22-i-kore620312023.md) — BGH, Beschluss I ZB 88/22 bis I ZB 101/22, I ZB 88/22 - I ZB 101/22, I ZB 88 - 101/22, I ZB 88/22, I ZB 101/22
+- [BGH, Beschluss vom 23.02.2023 - I ZB 120/22](i-zb-120-22.md) — BGH, Beschluss I ZB 120/22
+- [BGH, Beschluss vom 23.02.2023 - I ZR 127/22](i-zr-127-22.md) — Wettbewerbsrechtliche Unterlassungsklage eines Wettbewerbsvereins: Fehlerhafte Bestimmung des Streitgegenstands von Unterlassungsanträgen gegen eine irreführend
+- [BGH, Urteil vom 23.02.2023 - I ZR 155/21](i-zr-155-21.md) — Rundfunkhaftung II Ein Rundfunkveranstalter, der seine wettbewerbsrechtliche Prüfungspflicht auf ein anderes konzernangehöriges Unternehmen überträgt, kann für 
+- [BGH, EuGH-Vorlage vom 23.02.2023 - I ZR 157/21](i-zr-157-21.md) — Action Replay Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 1 Abs. 1 bis 3, Art. 4 Buchst. b der Richtlinie 2009/24/EG des Europäischen P
+- [BGH, Beschluss vom 22.02.2023 - I ZA 10/22](i-za-10-22.md) — BGH, Beschluss I ZA 10/22
+- [BGH, Beschluss vom 09.02.2023 - I ZB 62/22](i-zb-62-22.md) — 1. Ein nicht-ständiges Schiedsgericht ist im Sinne des § 1032 Abs. 2 ZPO gebildet, wenn alle Schiedsrichter bestellt sind. Es kommt nicht darauf an, ob der Antr
+- [BGH, Beschluss vom 09.02.2023 - I ZR 142/22](i-zr-142-22.md) — Die Besorgnis der Befangenheit ist begründet, wenn der abgelehnte Richter als Mitglied des Revisionsgerichts im Verfahren der Nichtzulassungsbeschwerde gegen ei
+- [BGH, Versäumnisurteil vom 09.02.2023 - I ZR 61/22](i-zr-61-22.md) — Kosten für Abschlussschreiben III Den Schuldner einer einstweiligen (Beschluss-)Verfügung trifft gegenüber dem Gläubiger mit Ablauf der Wartefrist von im Regelf
+- [BGH, Beschluss vom 09.02.2023 - I ZR 62/22](i-zr-62-22.md) — BGH, Beschluss I ZR 62/22
+- [BGH, Beschluss vom 07.02.2023 - I ZR 38/22](i-zr-38-22.md) — BGH, Beschluss I ZR 38/22
+- [BGH, Beschluss vom 07.02.2023 - I ZR 39/22](i-zr-39-22.md) — BGH, Beschluss I ZR 39/22
+- [BGH, Beschluss vom 02.02.2023 - I ZB 10/22](i-zb-10-22.md) — BGH, Beschluss I ZB 10/22
+- [BGH, Beschluss vom 30.01.2023 - I ZB 123/22](i-zb-123-22.md) — BGH, Beschluss I ZB 123/22
+- [BGH, Beschluss vom 26.01.2023 - I ZB 3/23](i-zb-3-23.md) — BGH, Beschluss I ZB 3/23
+- [BGH, Beschluss vom 26.01.2023 - I ZB 42/22](i-zb-42-22.md) — 1. Hat der Prozessbevollmächtigte einer Partei die Anfertigung einer Rechtsmittelschrift seinem angestellten Büropersonal übertragen, ist er verpflichtet, das A
+- [BGH, Beschluss vom 26.01.2023 - I ZB 64/22](i-zb-64-22.md) — Berufungsverfahren: Anforderungen an die Berufungsbegründung nach Klageabweisung bei Kraftfahrzeugschaden während des Transports durch ein Berge- und Abschleppu
+- [BGH, Beschluss vom 26.01.2023 - I ZR 106/22](i-zr-106-22.md) — Wettbewerbsprozess: Anforderungen an einen schlüssigen Klägervortrag hinsichtlich der Mitbewerbereigenschaft bei eBay-Händlern
+- [BGH, Beschluss vom 26.01.2023 - I ZR 111/21](i-zr-111-21.md) — Subsidiarität von Netzsperren bei Urheberrechtsverletzungen
+- [BGH, Urteil vom 26.01.2023 - I ZR 111/22](i-zr-111-22.md) — Mitgliederstruktur Für die Klagebefugnis eines Verbands kommt es grundsätzlich nicht darauf an, über welche mitgliedschaftlichen Rechte dessen - mittelbare oder
+- [BGH, Urteil vom 26.01.2023 - I ZR 27/22](i-zr-27-22.md) — Haftung für Affiliates 1. Der innere Grund für die Zurechnung der Geschäftstätigkeit des Beauftragten gemäß § 8 Abs. 2 UWG liegt vor allem in einer dem Betriebs
+- [BGH, Urteil vom 26.01.2023 - I ZR 56/19](i-zr-56-19.md) — HEITEC III 1. Zur Abwendung der Verwirkung gemäß § 21 Abs. 1 und 2 MarkenG sowie Art. 54 Abs. 1 und 2, Art. 110 Abs. 1 Satz 2, Art. 111 Abs. 2 GMV sind Handlung
+- [BGH, Beschluss vom 25.01.2023 - I ZB 109/22](i-zb-109-22.md) — BGH, Beschluss I ZB 109/22
+- [BGH, Beschluss vom 25.01.2023 - I ZB 119/22](i-zb-119-22.md) — BGH, Beschluss I ZB 119/22
+- [BGH, Beschluss vom 12.01.2023 - I ZB 31/22](i-zb-31-22.md) — BGH, Beschluss I ZB 31/22
+- [BGH, Beschluss vom 12.01.2023 - I ZB 41/22](i-zb-41-22.md) — 1. Von einer Verweigerung eines Schiedsrichters, die das Schiedsgericht unter den Voraussetzungen des § 1052 Abs. 2 Satz 1 und 2 ZPO zu einer Entscheidung ohne 
+- [BGH, Beschluss vom 12.01.2023 - I ZR 108/20](i-zr-108-20.md) — Urheberrechtsverletzungen bei Wechsel von IP-Adressen und Prüfung der Gegenstandsbewertung im Einzelfall
+- [BGH, EuGH-Vorlage vom 12.01.2023 - I ZR 223/19](i-zr-223-19.md) — Arzneimittelbestelldaten Dem Gerichtshof der Europäischen Union werden zur Auslegung der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 
+- [BGH, Urteil vom 12.01.2023 - I ZR 49/22](i-zr-49-22.md) — Unterwerfung durch PDF 1. Eine von einem Kaufmann im Rahmen seines Handelsgewerbes abgegebene Unterlassungsverpflichtungserklärung unterliegt der Formfreiheit (
+- [BGH, Beschluss vom 11.01.2023 - I ZB 122/22](i-zb-122-22.md) — BGH, Beschluss I ZB 122/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 100/22](i-zb-100-22.md) — BGH, Beschluss I ZB 100/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 101/22](i-zb-101-22.md) — BGH, Beschluss I ZB 101/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 88/22](i-zb-88-22.md) — BGH, Beschluss I ZB 88/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 89/22](i-zb-89-22.md) — BGH, Beschluss I ZB 89/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 90/22](i-zb-90-22.md) — BGH, Beschluss I ZB 90/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 91/22](i-zb-91-22.md) — BGH, Beschluss I ZB 91/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 92/22](i-zb-92-22.md) — BGH, Beschluss I ZB 92/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 93/22](i-zb-93-22.md) — BGH, Beschluss I ZB 93/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 94/22](i-zb-94-22.md) — BGH, Beschluss I ZB 94/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 95/22](i-zb-95-22.md) — BGH, Beschluss I ZB 95/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 96/22](i-zb-96-22.md) — BGH, Beschluss I ZB 96/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 97/22](i-zb-97-22.md) — BGH, Beschluss I ZB 97/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 98/22](i-zb-98-22.md) — BGH, Beschluss I ZB 98/22
+- [BGH, Beschluss vom 04.01.2023 - I ZB 99/22](i-zb-99-22.md) — BGH, Beschluss I ZB 99/22

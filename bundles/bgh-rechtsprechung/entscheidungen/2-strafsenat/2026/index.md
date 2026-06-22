@@ -1,0 +1,83 @@
+# 2. Strafsenat – 2026
+
+79 Entscheidung(en).
+
+- [BGH, Beschluss vom 02.06.2026 - 2 StR 186/26](2-str-186-26.md) — BGH, Beschluss 2 StR 186/26
+- [BGH, Beschluss vom 29.05.2026 - 2 StR 614/25](2-str-614-25.md) — BGH, Beschluss 2 StR 614/25
+- [BGH, Beschluss vom 06.05.2026 - 2 StR 118/26](2-str-118-26.md) — BGH, Beschluss 2 StR 118/26
+- [BGH, Beschluss vom 05.05.2026 - 2 StR 697/25](2-str-697-25.md) — BGH, Beschluss 2 StR 697/25
+- [BGH, Beschluss vom 30.04.2026 - 2 StR 767/25](2-str-767-25.md) — BGH, Beschluss 2 StR 767/25
+- [BGH, Beschluss vom 23.04.2026 - 2 StR 81/26](2-str-81-26.md) — BGH, Beschluss 2 StR 81/26
+- [BGH, Beschluss vom 22.04.2026 - 2 ARs 92/26](2-ars-92-26.md) — BGH, Beschluss 2 ARs 92/26
+- [BGH, Beschluss vom 21.04.2026 - 2 StR 590/25](2-str-590-25.md) — BGH, Beschluss 2 StR 590/25
+- [BGH, Urteil vom 08.04.2026 - 2 StR 415/25](2-str-415-25.md) — BGH, Urteil 2 StR 415/25
+- [BGH, Beschluss vom 26.03.2026 - 2 ARs 64/26](2-ars-64-26.md) — BGH, Beschluss 2 ARs 64/26
+- [BGH, Urteil vom 25.03.2026 - 2 StR 111/25](2-str-111-25.md) — BGH, Urteil 2 StR 111/25
+- [BGH, Urteil vom 25.03.2026 - 2 StR 438/25](2-str-438-25.md) — BGH, Urteil 2 StR 438/25
+- [BGH, Beschluss vom 25.03.2026 - 2 StR 649/25](2-str-649-25.md) — BGH, Beschluss 2 StR 649/25
+- [BGH, Beschluss vom 24.03.2026 - 2 StR 619/25](2-str-619-25.md) — BGH, Beschluss 2 StR 619/25
+- [BGH, Beschluss vom 12.03.2026 - 2 StR 440/25](2-str-440-25.md) — BGH, Beschluss 2 StR 440/25
+- [BGH, Beschluss vom 12.03.2026 - 2 StR 670/25](2-str-670-25.md) — BGH, Beschluss 2 StR 670/25
+- [BGH, Beschluss vom 12.03.2026 - 2 StR 700/25](2-str-700-25.md) — BGH, Beschluss 2 StR 700/25
+- [BGH, Beschluss vom 12.03.2026 - 2 StR 780/25](2-str-780-25.md) — BGH, Beschluss 2 StR 780/25
+- [BGH, Beschluss vom 11.03.2026 - 2 ARs 98/25](2-ars-98-25.md) — BGH, Beschluss 2 ARs 98/25
+- [BGH, Beschluss vom 11.03.2026 - 2 StR 21/26](2-str-21-26.md) — BGH, Beschluss 2 StR 21/26
+- [BGH, Beschluss vom 11.03.2026 - 2 StR 235/24](2-str-235-24.md) — BGH, Beschluss 2 StR 235/24
+- [BGH, Beschluss vom 11.03.2026 - 2 StR 419/25](2-str-419-25.md) — BGH, Beschluss 2 StR 419/25
+- [BGH, Urteil vom 11.03.2026 - 2 StR 564/25](2-str-564-25.md) — BGH, Urteil 2 StR 564/25
+- [BGH, Beschluss vom 11.03.2026 - 2 StR 738/25](2-str-738-25.md) — BGH, Beschluss 2 StR 738/25
+- [BGH, Beschluss vom 10.03.2026 - 2 StR 316/25](2-str-316-25.md) — BGH, Beschluss 2 StR 316/25
+- [BGH, Beschluss vom 10.03.2026 - 2 StR 396/25](2-str-396-25.md) — BGH, Beschluss 2 StR 396/25
+- [BGH, Beschluss vom 10.03.2026 - 2 StR 454/25](2-str-454-25.md) — BGH, Beschluss 2 StR 454/25
+- [BGH, Beschluss vom 26.02.2026 - 2 StR 143/25](2-str-143-25.md) — BGH, Beschluss 2 StR 143/25
+- [BGH, Beschluss vom 26.02.2026 - 2 StR 489/25](2-str-489-25.md) — BGH, Beschluss 2 StR 489/25
+- [BGH, Beschluss vom 26.02.2026 - 2 StR 749/25](2-str-749-25.md) — BGH, Beschluss 2 StR 749/25
+- [BGH, Beschluss vom 26.02.2026 - 2 StR 757/25](2-str-757-25.md) — BGH, Beschluss 2 StR 757/25
+- [BGH, Beschluss vom 25.02.2026 - 2 StR 10/26](2-str-10-26.md) — BGH, Beschluss 2 StR 10/26
+- [BGH, Beschluss vom 25.02.2026 - 2 StR 683/25](2-str-683-25.md) — BGH, Beschluss 2 StR 683/25
+- [BGH, Beschluss vom 25.02.2026 - 2 StR 801/25](2-str-801-25.md) — BGH, Beschluss 2 StR 801/25
+- [BGH, Beschluss vom 24.02.2026 - 2 ARs 43/26](2-ars-43-26.md) — BGH, Beschluss 2 ARs 43/26
+- [BGH, Beschluss vom 24.02.2026 - 2 StR 365/25](2-str-365-25.md) — BGH, Beschluss 2 StR 365/25
+- [BGH, Urteil vom 24.02.2026 - 2 StR 5/25](2-str-5-25.md) — BGH, Urteil 2 StR 5/25
+- [BGH, Beschluss vom 24.02.2026 - 2 StR 6/25](2-str-6-25.md) — BGH, Beschluss 2 StR 6/25
+- [BGH, Beschluss vom 24.02.2026 - 2 StR 715/25](2-str-715-25.md) — BGH, Beschluss 2 StR 715/25
+- [BGH, Beschluss vom 12.02.2026 - 2 ARs 4/26](2-ars-4-26.md) — BGH, Beschluss 2 ARs 4/26
+- [BGH, Beschluss vom 12.02.2026 - 2 StR 744/25](2-str-744-25.md) — BGH, Beschluss 2 StR 744/25
+- [BGH, Urteil vom 11.02.2026 - 2 StR 401/25](2-str-401-25.md) — BGH, Urteil 2 StR 401/25
+- [BGH, Beschluss vom 11.02.2026 - 2 StR 43/25](2-str-43-25.md) — BGH, Beschluss 2 StR 43/25
+- [BGH, Urteil vom 11.02.2026 - 2 StR 430/25](2-str-430-25.md) — BGH, Urteil 2 StR 430/25
+- [BGH, Beschluss vom 11.02.2026 - 2 StR 764/25](2-str-764-25.md) — BGH, Beschluss 2 StR 764/25
+- [BGH, Beschluss vom 10.02.2026 - 2 StR 473/25](2-str-473-25.md) — BGH, Beschluss 2 StR 473/25
+- [BGH, Beschluss vom 29.01.2026 - 2 StR 229/25](2-str-229-25.md) — BGH, Beschluss 2 StR 229/25
+- [BGH, Beschluss vom 29.01.2026 - 2 StR 549/25](2-str-549-25.md) — BGH, Beschluss 2 StR 549/25
+- [BGH, Beschluss vom 29.01.2026 - 2 StR 668/25](2-str-668-25.md) — BGH, Beschluss 2 StR 668/25
+- [BGH, Beschluss vom 28.01.2026 - 2 ARs 541/25](2-ars-541-25.md) — BGH, Beschluss 2 ARs 541/25
+- [BGH, Beschluss vom 28.01.2026 - 2 StR 425/24](2-str-425-24.md) — BGH, Beschluss 2 StR 425/24
+- [BGH, Beschluss vom 28.01.2026 - 2 StR 702/25](2-str-702-25.md) — BGH, Beschluss 2 StR 702/25
+- [BGH, Beschluss vom 27.01.2026 - 2 StR 556/24](2-str-556-24.md) — BGH, Beschluss 2 StR 556/24
+- [BGH, Beschluss vom 27.01.2026 - 2 StR 563/25](2-str-563-25.md) — BGH, Beschluss 2 StR 563/25
+- [BGH, Beschluss vom 27.01.2026 - 2 StR 644/25](2-str-644-25.md) — BGH, Beschluss 2 StR 644/25
+- [BGH, Beschluss vom 27.01.2026 - 2 StR 659/25](2-str-659-25.md) — BGH, Beschluss 2 StR 659/25
+- [BGH, Beschluss vom 27.01.2026 - 2 StR 761/25](2-str-761-25.md) — Strafschärfende Berücksichtigung einer jugendgerichtlichen Vorahnung
+- [BGH, Beschluss vom 15.01.2026 - 2 ARs 191/24](2-ars-191-24.md) — BGH, Beschluss 2 ARs 191/24
+- [BGH, Beschluss vom 15.01.2026 - 2 ARs 193/24, 2 ARs 507/24](2-ars-193-24-2-ars-507-24.md) — BGH, Beschluss 2 ARs 193/24, 2 ARs 507/24
+- [BGH, Beschluss vom 15.01.2026 - 2 ARs 203/24](2-ars-203-24.md) — BGH, Beschluss 2 ARs 203/24
+- [BGH, Beschluss vom 15.01.2026 - 2 ARs 253/24](2-ars-253-24.md) — BGH, Beschluss 2 ARs 253/24
+- [BGH, Beschluss vom 15.01.2026 - 2 StR 290/25](2-str-290-25.md) — Strafbarkeit von Verstößen gegen Führungsaufsichtsweisungen
+- [BGH, Beschluss vom 15.01.2026 - 2 StR 677/25](2-str-677-25.md) — BGH, Beschluss 2 StR 677/25
+- [BGH, Beschluss vom 15.01.2026 - 2 StR 680/25](2-str-680-25.md) — BGH, Beschluss 2 StR 680/25
+- [BGH, Beschluss vom 14.01.2026 - 2 ARs 468/25](2-ars-468-25.md) — BGH, Beschluss 2 ARs 468/25
+- [BGH, Urteil vom 14.01.2026 - 2 StR 132/25](2-str-132-25.md) — Bei Opium, das Rauchzwecken dient und dem kein Koffeinzusatz beigemischt ist, beginnt die „nicht geringe Menge“ im Sinne des § 29a Abs. 1 Nr. 2 BtMG bei 16 Gram
+- [BGH, Beschluss vom 14.01.2026 - 2 StR 169/25](2-str-169-25.md) — BGH, Beschluss 2 StR 169/25
+- [BGH, Beschluss vom 14.01.2026 - 2 StR 267/25](2-str-267-25.md) — BGH, Beschluss 2 StR 267/25
+- [BGH, Urteil vom 14.01.2026 - 2 StR 277/25](2-str-277-25.md) — Verdeckungsabsicht bei Unterlassen von Rettungsmaßnahmen nach Behandlungsfehler
+- [BGH, Urteil vom 14.01.2026 - 2 StR 364/25](2-str-364-25.md) — BGH, Urteil 2 StR 364/25
+- [BGH, Beschluss vom 14.01.2026 - 2 StR 515/25](2-str-515-25.md) — BGH, Beschluss 2 StR 515/25
+- [BGH, Beschluss vom 14.01.2026 - 2 StR 538/25](2-str-538-25.md) — BGH, Beschluss 2 StR 538/25
+- [BGH, Beschluss vom 14.01.2026 - 2 StR 592/25](2-str-592-25.md) — BGH, Beschluss 2 StR 592/25
+- [BGH, Beschluss vom 08.01.2026 - 2 StR 577/25](2-str-577-25.md) — BGH, Beschluss 2 StR 577/25
+- [BGH, Beschluss vom 08.01.2026 - 2 StR 617/25](2-str-617-25.md) — BGH, Beschluss 2 StR 617/25
+- [BGH, Beschluss vom 07.01.2026 - 2 StR 557/25](2-str-557-25.md) — BGH, Beschluss 2 StR 557/25
+- [BGH, Beschluss vom 07.01.2026 - 2 StR 583/25](2-str-583-25.md) — BGH, Beschluss 2 StR 583/25
+- [BGH, Beschluss vom 07.01.2026 - 2 StR 615/25](2-str-615-25.md) — BGH, Beschluss 2 StR 615/25
+- [BGH, Beschluss vom 07.01.2026 - 2 StR 704/25](2-str-704-25.md) — BGH, Beschluss 2 StR 704/25

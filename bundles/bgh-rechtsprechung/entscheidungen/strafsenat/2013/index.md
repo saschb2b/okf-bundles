@@ -1,0 +1,8 @@
+# Strafsenat – 2013
+
+4 Entscheidung(en).
+
+- [BGH, Beschluss vom 15.10.2013 - StB 16/13](stb-16-13.md) — Sofortige Beschwerde zum Bundesgerichtshof gegen einen die Hauptverfahrenseröffnung in einer Strafsache ablehnenden Beschluss eines Oberlandesgerichts: Prüfungs
+- [BGH, Beschluss vom 11.07.2013 - AK 13 und 14/13, AK 13/13, AK 14/13](ak-13-und-14-13-ak-13-13-ak-14-13.md) — Ein Außenstehender unterstützt eine Vereinigung auch mit Tätigkeiten, die sich der Sache nach als Förderung des Werbens für die Vereinigung durch ein Organisati
+- [BGH, Beschluss vom 27.06.2013 - StB 7/13](stb-7-13.md) — Immunität von Konsulaten: Reichweite der Immunität der Mitglieder der konsularischen Vertretungen im Hinblick auf die Rechtmäßigkeit der Aufgabenwahrnehmung; Be
+- [BGH, Beschluss vom 03.04.2013 - AK 6/13](ak-6-13.md) — Haftbefehl wegen Verdachts des Werbens um Mitglieder oder Unterstützer einer ausländischen terroristischen Vereinigung (Al Qaida): Haftgrund der Fluchtgefahr; F

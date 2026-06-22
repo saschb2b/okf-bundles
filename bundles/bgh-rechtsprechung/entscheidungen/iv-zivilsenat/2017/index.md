@@ -1,0 +1,63 @@
+# IV. Zivilsenat – 2017
+
+59 Entscheidung(en).
+
+- [BGH, Urteil vom 20.12.2017 - IV ZR 11/16](iv-zr-11-16.md) — Berufsunfähigkeits-Zusatzversicherung: Zumutbarkeitsprüfung bei Verweisung eines Hufbeschlagschmieds auf eine Tätigkeit als Maschinenführer
+- [BGH, Beschluss vom 13.12.2017 - IV ZR 319/16](iv-zr-319-16.md) — Deckungsschutz in der Kfz-Kaskoversicherung wegen des Diebstahls eines Pkw: Gehörsverletzung bei Zurückweisung konkretisierenden Vortrags in der zweiten Instanz
+- [BGH, Urteil vom 13.12.2017 - IV ZR 353/15](iv-zr-353-15.md) — Private Rentenversicherung bei einem Versicherungsverein auf Gegenseitigkeit: Beginn der Widerrufsfrist bei unterlassenen Pflichtmitteilungen des Versicherers v
+- [BGH, Beschluss vom 06.12.2017 - IV ZR 16/17](iv-zr-16-17.md) — Berufsunfähigkeitsversicherung: Anforderungen an die Belehrung über die Folgen einer Anzeigepflichtverletzung
+- [BGH, Urteil vom 06.12.2017 - IV ZR 191/15](iv-zr-191-15.md) — Zusatzversorgung im Öffentlichen Dienst: Verfassungskonformität der Übergangsregelungen zur unterschiedlichen Berechnung von Startgutschriften für rentennahe un
+- [BGH, Urteil vom 06.12.2017 - IV ZR 192/15](iv-zr-192-15.md) — Zusatzversorgung des öffentlichen Dienstes: Verstoß gegen den Gleichheitssatz wegen unterschiedlicher Behandlung rentenferner und rentennaher Versicherter im Ra
+- [BGH, Beschluss vom 08.11.2017 - IV ZR 318/16](iv-zr-318-16.md) — Transport- und Ausstellungsversicherung: Auslegung von Ausschlussklauseln für Schäden durch Eingriffe von hoher Hand und wegen Mängeln der Verpackung
+- [BGH, Urteil vom 08.11.2017 - IV ZR 551/15](iv-zr-551-15.md) — § 215 Abs. 1 Satz 1 VVG erfasst auch Klagen aus einem Versicherungsvertrag, dessen Versicherungsnehmer eine juristische Person ist, wobei auf deren Sitz im Sinn
+- [BGH, Beschluss vom 25.10.2017 - IV ZB 22/16](iv-zb-22-16.md) — Wiedereinsetzung in die versäumte Berufungsfrist: Prozesskostenhilfeantrag innerhalb der Rechtsmittelfrist; Kausalität der Mittellosigkeit für die Fristversäumu
+- [BGH, Urteil vom 18.10.2017 - IV ZR 188/16](iv-zr-188-16.md) — Die Regelung in Allgemeinen Unfallversicherungsbedingungen (hier: Nr. 10.3 AUB 2000), wonach der Vertrag durch den Versicherungsnehmer oder den Versicherer durc
+- [BGH, Urteil vom 18.10.2017 - IV ZR 97/15](iv-zr-97-15.md) — Der Wertersatzanspruch des nichtehelichen Kindes gegen den Staat gemäß Art. 12 § 10 Abs. 2 Satz 1 NEhelG in der Fassung des Gesetzes vom 12. April 2011 umfasst 
+- [BGH, Urteil vom 27.09.2017 - IV ZR 385/15](iv-zr-385-15.md) — Rechtsschutzversicherungsvertrag: Einstandspflicht für ein sozialgerichtliches Klageverfahren nach Ablauf der Nachhaftungsfrist bei Vertragsbeendigung
+- [BGH, Beschluss vom 27.09.2017 - IV ZR 506/15](iv-zr-506-15.md) — Altvertrag über eine Rentenversicherung im Policenmodell: Drucktechnisch nicht hervorgehobene Widerrufsbelehrung; Verwirkung des Widerrufsrechts durch Einsatz d
+- [BGH, Beschluss vom 27.09.2017 - IV ZR 511/15](iv-zr-511-15.md) — Unfallversicherung: Bemessung des Invaliditätsgrades außerhalb der Gliedertaxe
+- [BGH, Beschluss vom 13.09.2017 - IV ZB 21/16](iv-zb-21-16.md) — Verurteilung zur Abgabe einer eidesstattlichen Versicherung: Bemessung des Beschwerdewerts
+- [BGH, Urteil vom 13.09.2017 - IV ZR 26/16](iv-zr-26-16.md) — Verjährungshemmung durch Klageerhebung: Anforderungen an eine dem Beklagten übersandte, beglaubigte Kopie der Klageschrift
+- [BGH, Urteil vom 13.09.2017 - IV ZR 302/16](iv-zr-302-16.md) — In der Forderungsausfallversicherung verstößt die Klausel "Inhalt und Umfang der versicherten Schadensersatzansprüche richten sich nach dem Deckungsumfang der P
+- [BGH, Beschluss vom 13.09.2017 - IV ZR 391/16](iv-zr-391-16.md) — Zivilprozess: Erneute Anhörungsrüge gegen die Entscheidung über eine Anhörungsrüge
+- [BGH, Urteil vom 13.09.2017 - IV ZR 445/14](iv-zr-445-14.md) — Ein ausdrücklicher Wunsch des Versicherungsnehmers nach vollständiger Vertragserfüllung im Sinne von § 8 Abs. 3 Satz 2 VVG setzt ebenso wie dessen Zustimmung zu
+- [BGH, Beschluss vom 23.08.2017 - IV ZR 93/17](iv-zr-93-17.md) — Von einer Gesellschaft, die einen Verwaltungssitz innerhalb der Europäischen Union oder eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsrau
+- [BGH, Urteil vom 19.07.2017 - IV ZR 535/15](iv-zr-535-15.md) — Für die Bemessung des Grades der Berufsunfähigkeit darf nicht nur auf den Zeitanteil einer einzelnen Tätigkeit abgestellt werden, die der Versicherungsnehmer ni
+- [BGH, Beschluss vom 12.07.2017 - IV ZB 15/16](iv-zb-15-16.md) — 1. Zur ergänzenden Testamentsauslegung. 2. Wenn der Erblasser durch letztwillige Zuwendung einer Sachgesamtheit den Nachlass erschöpfen und gleichzeitig einen B
+- [BGH, Beschluss vom 12.07.2017 - IV ZB 6/15](iv-zb-6-15.md) — Zum Erbrecht vor dem 1. Juli 1949 geborener nichtehelicher Kinder, hier: teleologische Erweiterung von Art. 5 Satz 2 des Zweiten Erbrechtsgleichstellungsgesetze
+- [BGH, Urteil vom 12.07.2017 - IV ZR 151/15](iv-zr-151-15.md) — 1. Zur Inhaltskontrolle eines Leistungsausschlusses in der Gebäudeversicherung, demzufolge sich der Versicherungsschutz gegen Leitungswasser ohne Rücksicht auf 
+- [BGH, Beschluss vom 05.07.2017 - IV ZB 6/17](iv-zb-6-17.md) — Eine Aufhebung der Nachlassverwaltung im Falle der Zweckerreichung durch Befriedigung der Nachlassgläubiger kommt jedenfalls dann in Betracht, wenn ein am urspr
+- [BGH, Beschluss vom 05.07.2017 - IV ZR 116/15](iv-zr-116-15.md) — Krankheitskostenversicherung: Erstattungsfähigkeit der Kosten für ein Elektrostimulationsgerät bei einem an einer Fußhebeschwäche leidenden Versicherungsnehmer
+- [BGH, Urteil vom 05.07.2017 - IV ZR 121/15](iv-zr-121-15.md) — 1. § 213 VVG steht der Zulässigkeit so genannter allgemeiner Schweigepflichtentbindungen nicht entgegen. Der Versicherer darf im Rahmen seiner Leistungsprüfung 
+- [BGH, Beschluss vom 05.07.2017 - IV ZR 508/14](iv-zr-508-14.md) — Berufsunfähigkeitsversicherung: Anfechtung wegen arglistiger Täuschung bei Beantwortung der Gesundheitsfragen durch den Versicherungsvertreter
+- [BGH, Urteil vom 28.06.2017 - IV ZR 440/14](iv-zr-440-14.md) — 1. Für die Wirksamkeit der Einigung über den Abschluss eines Versicherungsvertrages ist es unerheblich, ob der Versicherer die in § 7 Abs. 1 Satz 1 VVG bestimmt
+- [BGH, Urteil vom 21.06.2017 - IV ZR 176/15](iv-zr-176-15.md) — Altvertrag über eine Lebensversicherung: Rücktrittsrecht wegen falscher Belehrung über die Rücktrittsfrist; Umfang des Nutzungsersatzanspruchs bei Rückabwicklun
+- [BGH, Urteil vom 14.06.2017 - IV ZR 141/16](iv-zr-141-16.md) — 1. Zum Versicherungsschutz in der privaten Krankheitskostenversicherung für eine im Ausland vorgenommene, dort erlaubte, in Deutschland aber verbotene Behandlun
+- [BGH, Urteil vom 14.06.2017 - IV ZR 161/16](iv-zr-161-16.md) — Reiserücktrittsversicherung: Unklarheit der Versicherungsbedingungen hinsichtlich des Versicherungsschutzes bei Buchung einer Ferienwohnung
+- [BGH, Beschluss vom 17.05.2017 - IV ZB 25/16](iv-zb-25-16.md) — Streitigkeiten über die Entlassung eines Testamentsvollstreckers können in einer letztwilligen Verfügung nicht einseitig durch den Erblasser unter Ausschluss de
+- [BGH, Urteil vom 17.05.2017 - IV ZR 403/15](iv-zr-403-15.md) — Widerruf einer Kapitallebensversicherung mit Berufsunfähigkeitszusatzversicherung im Altfall: Umfang des Bereicherungsanspruchs bei Rückabwicklung
+- [BGH, Urteil vom 17.05.2017 - IV ZR 499/14](iv-zr-499-14.md) — Kapitallebensversicherung nach altem Recht: Verwirkung des über die Jahresfrist hinaus fortbestehenden Widerspruchsrechts durch zwischenzeitliche Erkundigung de
+- [BGH, Beschluss vom 10.05.2017 - IV ZR 30/16](iv-zr-30-16.md) — Risikolebensversicherung mit Berufsunfähigkeitszusatzversicherung: Arglistige Täuschung durch den Versicherungsnehmer und Erfüllung von Anzeigepflichten durch B
+- [BGH, Beschluss vom 27.04.2017 - IV ZR 98/16](iv-zr-98-16.md) — Lebensversicherung nach dem Policenmodell: Nebeneinanderlaufen von zwei Widerspruchsfristen; widersprüchliche Rechtsausübung bei Widerruf nach jahrelanger Vertr
+- [BGH, Urteil vom 26.04.2017 - IV ZR 126/16](iv-zr-126-16.md) — Sehen die Bedingungen einer 1991 geschlossenen Rentenversicherung die Versorgung von Hinterbliebenen in Form von Witwenrente vor, so kann eine Vertragsanpassung
+- [BGH, Urteil vom 05.04.2017 - IV ZR 360/15](iv-zr-360-15.md) — Der Versicherer einer D&O-Versicherung kann sich in einem Innenhaftungsfall auf eine Versicherungsbedingung, nach der der Versicherungsschutz nur durch die vers
+- [BGH, Urteil vom 05.04.2017 - IV ZR 437/15](iv-zr-437-15.md) — Zu den Voraussetzungen der Zurechnung des Vermittlerhandelns beim Abschluss eines Kapitalanlagegeschäfts (hier einer fondsgebundenen Lebensversicherung, Abgrenz
+- [BGH, Beschluss vom 29.03.2017 - IV ZR 510/15](iv-zr-510-15.md) — Hinweispflichtverletzung: Vertrauendürfen auf einen rechtzeitigen Hinweis des Berufungsgerichts bei Abweichung in entscheidungserheblichen Punkten der Beurteilu
+- [BGH, Urteil vom 29.03.2017 - IV ZR 533/15](iv-zr-533-15.md) — 1. Eine Krankheit im Sinne der Musterbedingungen für die Krankheitskosten- und Krankenhaustagegeldversicherung kann auch vorliegen, wenn der fragliche Gesundhei
+- [BGH, Beschluss vom 29.03.2017 - IV ZR 61/16](iv-zr-61-16.md) — Streitwert bei einer Nichtzulassungsbeschwerde: Beschwer eines verurteilten Versicherers
+- [BGH, Beschluss vom 23.03.2017 - IV ZR 365/13](iv-zr-365-13.md) — Abschluss einer fondsgebundenen Rentenversicherung nach dem Policenmodell: Widerspruchsrecht des Versicherungsnehmers nach Übernahme des Vertrages
+- [BGH, Beschluss vom 08.03.2017 - IV ZB 18/16](iv-zb-18-16.md) — Berufungsverfahren: Verwerfung der Berufung wegen Nichterreichens der Berufungsbeschwer
+- [BGH, Urteil vom 08.03.2017 - IV ZR 435/15](iv-zr-435-15.md) — Der Regelungsbereich der Übergangsvorschrift in Art. 1 Abs. 1 und 2 EGVVG erfasst nicht die Gerichtsstandsregelung des § 215 VVG.
+- [BGH, Beschluss vom 22.02.2017 - IV ZB 8/16](iv-zb-8-16.md) — Säumnis des Prozessbevollmächtigten im Anwaltsprozess: Umfang der Mitteilungspflicht eines Rechtsanwalts bei Ausbleiben wegen unverschuldeter Autopanne
+- [BGH, Urteil vom 22.02.2017 - IV ZR 289/14](iv-zr-289-14.md) — 1. Zu den zur Feststellung des Versicherungsfalles und des Umfanges der Leistung des Versicherers notwendigen Erhebungen im Sinne des § 14 Abs. 1 VVG zählen auc
+- [BGH, Beschluss vom 15.02.2017 - IV ZR 202/16](iv-zr-202-16.md) — Inhaltskontrolle für Allgemeine Versicherungsbedingungen einer Forderungsausfallversicherung: Deckungsausschluss für bestrittene Forderungen
+- [BGH, Beschluss vom 15.02.2017 - IV ZR 280/15](iv-zr-280-15.md) — Berufsunfähigkeits-Zusatzversicherung: Wirksamkeit individueller Vereinbarungen über die Leistungspflicht
+- [BGH, Beschluss vom 15.02.2017 - IV ZR 373/13](iv-zr-373-13.md) — Rechtsdienstleistung: Vorliegen eines echten Forderungskaufs; Abtretung der Ansprüche aus einem Lebensversicherungsvertrag zwecks Rückerstattung der eingezahlte
+- [BGH, Urteil vom 15.02.2017 - IV ZR 91/16](iv-zr-91-16.md) — Die in Verträgen über eine Berufsunfähigkeitsversicherung verwendete Klausel "Als versicherter Beruf im Sinne der Bedingungen gilt die vor Eintritt des Versiche
+- [BGH, Beschluss vom 08.02.2017 - IV ZR 543/15](iv-zr-543-15.md) — Private Krankenversicherung: Vereinbarung eines jährlichen Selbstbehalts
+- [BGH, Urteil vom 25.01.2017 - IV ZR 173/15](iv-zr-173-15.md) — Altvertrag über eine private Rentenversicherung: Verwirkung und Ausschluss des Rücktrittsrechts; Nutzungsherausgabe nach Rücktrittserklärung
+- [BGH, Urteil vom 25.01.2017 - IV ZR 229/15](iv-zr-229-15.md) — Zusatzversorgung im Öffentlichen Dienst: Wirksamkeit der Übergangsregelung in der VBL-Satzung für rentenferne Jahrgänge
+- [BGH, Beschluss vom 18.01.2017 - IV ZR 481/15](iv-zr-481-15.md) — Private Unfallversicherung: Leistungskürzung bei Vorinvalidität und Mitwirken von Krankheiten oder Gebrechen
+- [BGH, Beschluss vom 11.01.2017 - IV ZR 152/16](iv-zr-152-16.md) — Krankentagegeldversicherung: Kündigungsrecht des Versicherers; Behandlung schwebender Versicherungsfälle nach erfolgter Kündigung
+- [BGH, Urteil vom 11.01.2017 - IV ZR 340/13](iv-zr-340-13.md) — Zur Wirksamkeit der Abtretung von Rechten aus einer Kapitallebensversicherung an ein Unternehmen, das sich geschäftsmäßig mit der Rückabwicklung solcher Versich
+- [BGH, Beschluss vom 11.01.2017 - IV ZR 74/14](iv-zr-74-14.md) — Geld- und Werttransportversicherung: Darlegungs- und Beweislast des Versicherungsnehmers bei Abhandenkommen von Transportgut

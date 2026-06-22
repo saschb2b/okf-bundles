@@ -1,0 +1,71 @@
+# 1. Strafsenat – 2000
+
+67 Entscheidung(en).
+
+- [BGH, Beschluss vom 13.12.2000 - 1 StR 393/00](1-str-393-00.md) — Diebstahls
+- [BGH, Beschluss vom 13.12.2000 - 1 StR 547/00](1-str-547-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 06.12.2000 - 1 StR 398/00](1-str-398-00.md) — Mordes
+- [BGH, Beschluss vom 06.12.2000 - 1 StR 488/00](1-str-488-00.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 06.12.2000 - 1 StR 492/00](1-str-492-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 06.12.2000 - 1 StR 495/00](1-str-495-00.md) — Betruges
+- [BGH, Beschluss vom 06.12.2000 - 1 StR 498/00](1-str-498-00.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 06.12.2000 - 1 StR 500/00](1-str-500-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 06.12.2000 - 1 StR 518/00](1-str-518-00.md) — Betruges
+- [BGH, Beschluss vom 23.11.2000 - 1 StR 362/00](1-str-362-00.md) — Geldfälschung
+- [BGH, Beschluss vom 23.11.2000 - 1 StR 429/00](1-str-429-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 23.11.2000 - 1 StR 430/00](1-str-430-00.md) — sexuellen Mißbrauchs von Schutzbefohlenen u.a.
+- [BGH, Beschluss vom 23.11.2000 - 1 StR 432/00](1-str-432-00.md) — Mordes
+- [BGH, Beschluss vom 23.11.2000 - 1 StR 502/00](1-str-502-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 21.11.2000 - 1 StR 387/00](1-str-387-00.md) — gemeinschaftlichen Mordes u.a.
+- [BGH, Urteil vom 21.11.2000 - 1 StR 433/00](1-str-433-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 21.11.2000 - 1 StR 438/00](1-str-438-00.md) — schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 19.10.2000 - 1 StR 282/00](1-str-282-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 18.10.2000 - 1 StR 370/00](1-str-370-00.md) — schwerer Brandstiftung u.a.
+- [BGH, Beschluss vom 18.10.2000 - 1 StR 419/00](1-str-419-00.md) — BGH, Beschluss vom 18.10.2000 - 1 StR 419/00
+- [BGH, Beschluss vom 11.10.2000 - 1 StR 409/00](1-str-409-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 06.09.2000 - 1 StR 364/00](1-str-364-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 10.08.2000 - 1 StR 290/00](1-str-290-00.md) — Mordes u.a.
+- [BGH, Beschluss vom 10.08.2000 - 1 StR 328/00](1-str-328-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 10.08.2000 - 1 StR 343/00](1-str-343-00.md) — sexuellen Mißbrauchs von Schutzbefohlenen u.a.
+- [BGH, Urteil vom 27.07.2000 - 1 StR 263/00](1-str-263-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 26.07.2000 - 1 StR 292/00](1-str-292-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 13.07.2000 - 1 StR 230/00](1-str-230-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 29.06.2000 - 1 StR 123/00](1-str-123-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 29.06.2000 - 1 StR 223/00](1-str-223-00.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 29.06.2000 - 1 StR 238/00](1-str-238-00.md) — unerlaubten Überlassens von ausländischen Arbeitnehmern ohne Arbeitserlaubnis u.a.
+- [BGH, Beschluss vom 30.05.2000 - 1 StR 582/99](1-str-582-99.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 30.05.2000 - 1 StR 610/99](1-str-610-99.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 09.05.2000 - 1 StR 106/00](1-str-106-00.md) — versuchter Strafvereitelung u.a.
+- [BGH, Beschluss vom 09.05.2000 - 1 StR 32/00](1-str-32-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 02.05.2000 - 1 StR 136/00](1-str-136-00.md) — sexuellen Mißbrauchs von Kindern u. a.
+- [BGH, Beschluss vom 02.05.2000 - 1 StR 146/00](1-str-146-00.md) — unerlaubten Besitzes von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 02.05.2000 - 1 StR 62/00](1-str-62-00.md) — gefährlicher Körperverletzung
+- [BGH, Urteil vom 11.04.2000 - 1 StR 55/00](1-str-55-00.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 11.04.2000 - 1 StR 613/99](1-str-613-99.md) — Anstiftung zur versuchten schweren Brandstiftung u.a.
+- [BGH, Urteil vom 11.04.2000 - 1 StR 638/99](1-str-638-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 11.04.2000 - 1 StR 78/00](1-str-78-00.md) — Vergewaltigung
+- [BGH, Beschluss vom 05.04.2000 - 1 StR 75/00](1-str-75-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 05.04.2000 - 1 StR 79/00](1-str-79-00.md) — fahrlässiger Tötung
+- [BGH, Beschluss vom 05.04.2000 - 1 StR 85/99](1-str-85-99.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 23.03.2000 - 1 StR 83/00](1-str-83-00.md) — Verstoßes gegen das Betäubungsmittelgesetz u.a.
+- [BGH, Beschluss vom 16.02.2000 - 1 StR 189/99](1-str-189-99.md) — Betruges u.a.
+- [BGH, Beschluss vom 16.02.2000 - 1 StR 5/00](1-str-5-00.md) — ausbeuterischer und dirigierender Zuhälterei u.a.
+- [BGH, Beschluss vom 15.02.2000 - 1 StR 34/00](1-str-34-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 15.02.2000 - 1 StR 39/00](1-str-39-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 02.02.2000 - 1 StR 221/99](1-str-221-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 02.02.2000 - 1 StR 537/99](1-str-537-99.md) — Betruges
+- [BGH, Beschluss vom 02.02.2000 - 1 StR 597/99](1-str-597-99.md) — Veruntreuens von Arbeitsentgelt u.a.
+- [BGH, Beschluss vom 02.02.2000 - 1 StR 672/99](1-str-672-99.md) — Brandstiftung u.a.
+- [BGH, Beschluss vom 01.02.2000 - 1 StR 584/99](1-str-584-99.md) — zu 1. und 2. Mordes
+- [BGH, Beschluss vom 12.01.2000 - 1 StR 603/99](1-str-603-99.md) — gewerbsmäßiger Bandenhehlerei u.a.
+- [BGH, Beschluss vom 12.01.2000 - 1 StR 617/99](1-str-617-99.md) — Totschlags u.a.
+- [BGH, Beschluss vom 12.01.2000 - 1 StR 636/99](1-str-636-99.md) — Mordes u.a.
+- [BGH, Beschluss vom 12.01.2000 - 1 StR 652/99](1-str-652-99.md) — Totschlags
+- [BGH, Urteil vom 11.01.2000 - 1 StR 505/99](1-str-505-99.md) — versuchter schwerer räuberischer Erpressung u. a.
+- [BGH, Urteil vom 11.01.2000 - 1 StR 532/99](1-str-532-99.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 11.01.2000 - 1 StR 572/99](1-str-572-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 11.01.2000 - 1 StR 579/99](1-str-579-99.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 11.01.2000 - 1 StR 615/99](1-str-615-99.md) — Diebstahls
+- [BGH, Beschluss vom 11.01.2000 - 1 StR 633/99](1-str-633-99.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 11.01.2000 - 1 StR 655/99](1-str-655-99.md) — BGH, Beschluss vom 11.01.2000 - 1 StR 655/99
+- [BGH, Beschluss vom 10.01.2000 - 1 StR 651/99](1-str-651-99.md) — Vergewaltigung u.a.

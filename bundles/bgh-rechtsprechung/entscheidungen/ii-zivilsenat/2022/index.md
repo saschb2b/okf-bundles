@@ -1,0 +1,36 @@
+# II. Zivilsenat – 2022
+
+32 Entscheidung(en).
+
+- [BGH, Urteil vom 06.12.2022 - II ZR 187/21](ii-zr-187-21.md) — Die Unanfechtbarkeit eines sittenwidrig erwirkten satzungsändernden Gesellschafterbeschlusses schließt ein darauf gestütztes, auf Wiederherstellung der ursprüng
+- [BGH, Beschluss vom 08.11.2022 - II ZR 74/21](ii-zr-74-21.md) — BGH, Beschluss II ZR 74/21
+- [BGH, Urteil vom 08.11.2022 - II ZR 91/21](ii-zr-91-21.md) — 1. Dem Gesellschafter einer GmbH steht kein Anspruch gegen den Geschäftsführer auf Unterlassung der Einreichung einer zu seinen Lasten materiell unrichtigen Ges
+- [BGH, Beschluss vom 25.10.2022 - II ZR 22/22](ii-zr-22-22.md) — Die spezialgesetzliche Prospekthaftung gemäß den § 13 VerkProspG, §§ 44 ff. BörsG in der bis zum 31. Mai 2012 geltenden Fassung schließt in ihrem Anwendungsbere
+- [BGH, Beschluss vom 25.10.2022 - II ZR 42/22](ii-zr-42-22.md) — BGH, Beschluss II ZR 42/22
+- [BGH, Beschluss vom 18.10.2022 - II ZB 7/22](ii-zb-7-22.md) — BGH, Beschluss II ZB 7/22
+- [BGH, Beschluss vom 18.10.2022 - II ZR 117/21](ii-zr-117-21.md) — BGH, Beschluss II ZR 117/21
+- [BGH, Beschluss vom 18.10.2022 - II ZR 210/21](ii-zr-210-21.md) — BGH, Beschluss II ZR 210/21
+- [BGH, Beschluss vom 10.10.2022 - II ZB 14/22](ii-zb-14-22.md) — BGH, Beschluss II ZB 14/22
+- [BGH, Beschluss vom 20.09.2022 - II ZB 13/22](ii-zb-13-22.md) — BGH, Beschluss II ZB 13/22
+- [BGH, Beschluss vom 26.07.2022 - II ZB 20/21](ii-zb-20-21.md) — Eine gelöschte GmbH und ihre Liquidatoren sind grundsätzlich von Amts wegen einzutragen, wenn die Liquidatoren durch das Gericht ernannt worden sind, weil sich 
+- [BGH, Urteil vom 19.07.2022 - II ZR 103/20](ii-zr-103-20.md) — Der Bericht des Vorstands über die beabsichtigte Ermächtigung zum Ausschluss des Bezugsrechts der Aktionäre gemäß § 186 Abs. 4 Satz 2 AktG muss nicht entspreche
+- [BGH, Urteil vom 12.07.2022 - II ZR 81/21](ii-zr-81-21.md) — Einer nach Kündigung der Gesellschaft durch einen Gesellschafter als Privatgläubiger auf Feststellung des Ausscheidens des gekündigten Gesellschafters gerichtet
+- [BGH, Beschluss vom 28.06.2022 - II ZB 8/22](ii-zb-8-22.md) — § 6 Abs. 2 Satz 2 Halbsatz 1 Nr. 3 Buchst. e GmbHG verweist auch auf die §§ 265c bis 265e StGB.
+- [BGH, Urteil vom 28.06.2022 - II ZR 112/21](ii-zr-112-21.md) — Zahlungsunfähigkeit im Sinne des § 17 Abs. 2 Satz 1 InsO muss nicht durch Aufstellung einer Liquiditätsbilanz, sondern kann auch mit anderen Mitteln dargelegt w
+- [BGH, Beschluss vom 21.06.2022 - II ZB 1/22](ii-zb-1-22.md) — Wiedereinsetzung: Vertrauen auf antragsgemäße zweite Verlängerung der Berufungsfrist
+- [BGH, Beschluss vom 21.06.2022 - II ZB 3/22](ii-zb-3-22.md) — Wiedereinsetzung: Vertrauen auf antragsgemäße zweite Verlängerung der Berufungsfrist
+- [BGH, Versäumnisurteil vom 21.06.2022 - II ZR 181/21](ii-zr-181-21.md) — Im Erkenntnisverfahren über Vergütungsansprüche des vom besonderen Vertreter mit der Geltendmachung von Ersatzansprüchen beauftragten Rechtsanwalts vertritt der
+- [BGH, Beschluss vom 17.05.2022 - II ZB 11/21](ii-zb-11-21.md) — Sonstige im Interesse eines Dritten liegende Abwicklungsmaßnahmen ohne Vermögensbezug können bei einer vermögenslosen Gesellschaft der Beendigung der Liquidatio
+- [BGH, Urteil vom 05.04.2022 - II ZR 30/21](ii-zr-30-21.md) — Publikums-KG: Inanspruchnahme des ausscheidenden Kommanditisten auf Zahlung eines Abfindungsfehlbetrags bis zur Höhe seiner "rückständigen Einlage"
+- [BGH, Beschluss vom 15.03.2022 - II ZR 97/21](ii-zr-97-21.md) — Richterablehnung: Geltendmachung des Ablehnungsgrundes nach Ablauf der Begründungsfrist für die Nichtzulassungsbeschwerde; Entbehrlichkeit der dienstlichen Äuße
+- [BGH, Beschluss vom 08.03.2022 - II ZR 51/21](ii-zr-51-21.md) — Gesellschafterbeschlüsse über einen Gesellschafterausschluss und eine Geschäftsanteilseinziehung: Wert der Beschwer bei Antrag auf Nichtigerklärung
+- [BGH, Beschluss vom 22.02.2022 - II ZB 5/21](ii-zb-5-21.md) — Verurteilung zur Einsicht und Auskunft: Bestimmung des Beschwerdewerts für das Berufungsverfahren
+- [BGH, Beschluss vom 15.02.2022 - II ZB 6/21](ii-zb-6-21.md) — Eine Partnerschaft zwischen einem Tierarzt und einem Betriebswirt ist nach dem Heilberufekammergesetz des Landes Baden-Württemberg zulässig.
+- [BGH, Urteil vom 15.02.2022 - II ZR 235/20](ii-zr-235-20.md) — § 179a AktG ist auf die Kommanditgesellschaft nicht analog anwendbar (Aufgabe von BGH, Urteil vom 9. Januar 1995 - II ZR 24/94, ZIP 1995, 278, 279).
+- [BGH, Beschluss vom 08.02.2022 - II ZR 118/21](ii-zr-118-21.md) — GmbH & Co. KG: Haftung des Geschäftsführers der Komplementär-GmbH für Obliegenheitsverletzungen; stillschweigendes Einverständnis der Gesellschafter der Kommand
+- [BGH, Beschluss vom 25.01.2022 - II ZB 15/21](ii-zb-15-21.md) — Die einer Firma vorangestellten Sonderzeichen "//" sind nicht zu ihrer Kennzeichnung geeignet.
+- [BGH, Beschluss vom 25.01.2022 - II ZB 8/21](ii-zb-8-21.md) — Wird eine Gesellschaft mit beschränkter Haftung durch die rechtskräftige Ablehnung der Eröffnung des Insolvenzverfahrens über das Vermögen der Gesellschaft mang
+- [BGH, Urteil vom 25.01.2022 - II ZR 215/20](ii-zr-215-20.md) — Die Ermittlung des in einem anderen Staat geltenden Rechts obliegt dem Tatrichter auch insoweit, als von ihm die Anrufung des Gerichtshofs der Europäischen Unio
+- [BGH, Urteil vom 25.01.2022 - II ZR 50/20](ii-zr-50-20.md) — Ein Gesellschafter einer GmbH kann Ansprüche der Gesellschaft aus § 43 Abs. 2 GmbHG gegen ihren Fremdgeschäftsführer grundsätzlich nicht im eigenen Namen gelten
+- [BGH, Urteil vom 18.01.2022 - II ZR 71/20](ii-zr-71-20.md) — Haben die Parteien eines Beherrschungs- und Gewinnabführungsvertrags bei der Aufhebung des Unternehmensvertrags vereinbart, dass der Untergesellschaft zur finan
+- [BGH, Urteil vom 11.01.2022 - II ZR 199/20](ii-zr-199-20.md) — Haftung des Treuhandkommandisten: Außenhaftung für Gesellschaftsverbindlichkeiten in der Insolvenz der GmbH & Co. KG

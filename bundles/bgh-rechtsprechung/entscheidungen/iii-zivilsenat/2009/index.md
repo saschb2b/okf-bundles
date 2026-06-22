@@ -1,0 +1,46 @@
+# III. Zivilsenat – 2009
+
+42 Entscheidung(en).
+
+- [BGH, Urteil vom 17.12.2009 - III ZR 4/08](iii-zr-4-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 49/08](iii-zr-49-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 5/08](iii-zr-5-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 61/08](iii-zr-61-08.md) — Tatbestand
+- [BGH, Urteil vom 17.12.2009 - III ZR 62/08](iii-zr-62-08.md) — Tatbestand
+- [BGH, Beschluss vom 26.11.2009 - III ZR 316/08](iii-zr-316-08.md) — BGH, Beschluss vom 26.11.2009 - III ZR 316/08
+- [BGH, Urteil vom 12.11.2009 - III ZR 113/09](iii-zr-113-09.md) — Tatbestand
+- [BGH, Beschluss vom 29.10.2009 - III ZA 18/09](iii-za-18-09.md) — BGH, Beschluss vom 29.10.2009 - III ZA 18/09
+- [BGH, Beschluss vom 29.10.2009 - III ZB 73/09](iii-zb-73-09.md) — BGH, Beschluss vom 29.10.2009 - III ZB 73/09
+- [BGH, Urteil vom 15.10.2009 - III ZR 310/08](iii-zr-310-08.md) — Tatbestand
+- [BGH, Versäumnisurteil vom 15.10.2009 - III ZR 8/09](iii-zr-8-09.md) — Tatbestand
+- [BGH, Urteil vom 08.10.2009 - III ZR 207/07](iii-zr-207-07.md) — Tatbestand
+- [BGH, Urteil vom 08.10.2009 - III ZR 259/07](iii-zr-259-07.md) — Tatbestand
+- [BGH, Beschluss vom 24.09.2009 - III ZA 8/09](iii-za-8-09.md) — BGH, Beschluss vom 24.09.2009 - III ZA 8/09
+- [BGH, Beschluss vom 17.09.2009 - III ZB 67/09](iii-zb-67-09.md) — BGH, Beschluss vom 17.09.2009 - III ZB 67/09
+- [BGH, Beschluss vom 03.09.2009 - III ZA 16/09](iii-za-16-09.md) — BGH, Beschluss vom 03.09.2009 - III ZA 16/09
+- [BGH, Beschluss vom 27.08.2009 - III ZB 60/09](iii-zb-60-09.md) — BGH, Beschluss vom 27.08.2009 - III ZB 60/09
+- [BGH, Beschluss vom 27.08.2009 - III ZB 62/09](iii-zb-62-09.md) — BGH, Beschluss vom 27.08.2009 - III ZB 62/09
+- [BGH, Beschluss vom 24.08.2009 - III ZB 65/09](iii-zb-65-09.md) — BGH, Beschluss vom 24.08.2009 - III ZB 65/09
+- [BGH, Urteil vom 23.07.2009 - III ZR 2/08](iii-zr-2-08.md) — Tatbestand
+- [BGH, Urteil vom 23.07.2009 - III ZR 323/07](iii-zr-323-07.md) — Tatbestand
+- [BGH, Urteil vom 16.07.2009 - III ZR 298/08](iii-zr-298-08.md) — zu erstattende und nicht (nur) der von der Landesjustizverwaltung zuerkannte Betrag maßgeblich ist.
+- [BGH, Urteil vom 16.07.2009 - III ZR 299/08](iii-zr-299-08.md) — Tatbestand
+- [BGH, Urteil vom 09.07.2009 - III ZR 104/08](iii-zr-104-08.md) — des von ihm nachgewiesenen oder vermittelten Kaufvertrags den Verkäufer wegen arglistig verschwiegener Mängel auf den "großen Schadensersatz
+- [BGH, Urteil vom 02.07.2009 - III ZR 303/08](iii-zr-303-08.md) — Tatbestand
+- [BGH, Urteil vom 02.07.2009 - III ZR 333/08](iii-zr-333-08.md) — Tatbestand
+- [BGH, Beschluss vom 25.06.2009 - III ZB 75/08](iii-zb-75-08.md) — BGH, Beschluss vom 25.06.2009 - III ZB 75/08
+- [BGH, Beschluss vom 25.06.2009 - III ZB 99/08](iii-zb-99-08.md) — BGH, Beschluss vom 25.06.2009 - III ZB 99/08
+- [BGH, Beschluss vom 27.05.2009 - III ZR 274/07](iii-zr-274-07.md) — BGH, Beschluss vom 27.05.2009 - III ZR 274/07
+- [BGH, Urteil vom 14.05.2009 - III ZR 86/08](iii-zr-86-08.md) — Tatbestand
+- [BGH, Beschluss vom 30.04.2009 - III ZB 5/09](iii-zb-5-09.md) — BGH, Beschluss vom 30.04.2009 - III ZB 5/09
+- [BGH, Beschluss vom 30.04.2009 - III ZB 91/07](iii-zb-91-07.md) — BGH, Beschluss vom 30.04.2009 - III ZB 91/07
+- [BGH, Beschluss vom 09.04.2009 - III ZA 5/09](iii-za-5-09.md) — BGH, Beschluss vom 09.04.2009 - III ZA 5/09
+- [BGH, Beschluss vom 09.04.2009 - III ZB 17/09](iii-zb-17-09.md) — BGH, Beschluss vom 09.04.2009 - III ZB 17/09
+- [BGH, Beschluss vom 19.03.2009 - III ZR 106/08](iii-zr-106-08.md) — der
+- [BGH, Beschluss vom 19.03.2009 - III ZR 163/08](iii-zr-163-08.md) — BGH, Beschluss vom 19.03.2009 - III ZR 163/08
+- [BGH, Beschluss vom 19.03.2009 - III ZR 24/08](iii-zr-24-08.md) — BGH, Beschluss vom 19.03.2009 - III ZR 24/08
+- [BGH, Beschluss vom 19.03.2009 - III ZR 249/08](iii-zr-249-08.md) — BGH, Beschluss vom 19.03.2009 - III ZR 249/08
+- [BGH, Urteil vom 12.03.2009 - III ZR 142/08](iii-zr-142-08.md) — Tatbestand
+- [BGH, Beschluss vom 26.02.2009 - III ZR 135/08](iii-zr-135-08.md) — BGH, Beschluss vom 26.02.2009 - III ZR 135/08
+- [BGH, Teilurteil vom 12.02.2009 - III ZR 119/08](iii-zr-119-08.md) — Tatbestand
+- [BGH, Beschluss vom 29.01.2009 - III ZR 232/08](iii-zr-232-08.md) — BGH, Beschluss vom 29.01.2009 - III ZR 232/08

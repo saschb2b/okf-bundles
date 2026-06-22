@@ -1,0 +1,112 @@
+# 1. Strafsenat – 2013
+
+108 Entscheidung(en).
+
+- [BGH, EuGH-Vorlage vom 05.12.2013 - 1 StR 388/13](1-str-388-13.md) — Vorabentscheidungsersuchen an den EuGH: Arzneimittel als Grundstoffe zur Herstellung von Betäubungsmitteln
+- [BGH, Beschluss vom 04.12.2013 - 1 StR 106/13](1-str-106-13.md) — 1. Beim Straftatbestand des § 38 Abs. 2 i.V.m. § 39 Abs. 1 Nr. 2, § 20a Abs. 1 Satz 1 Nr. 3 WpHG, § 4 Abs. 3 Nr. 2 MaKonV handelt es sich um ein Jedermannsdelik
+- [BGH, Beschluss vom 03.12.2013 - 1 StR 526/13](1-str-526-13.md) — Untreue eines Versicherungsmaklers: Inkasso von Versicherungsprämien auf allgemeines Geschäftskonto statt auf separates Konto; unterlassene Weiterleitung der Pr
+- [BGH, Urteil vom 03.12.2013 - 1 StR 53/13](1-str-53-13.md) — Verfallsanordnung: Voraussetzungen bei einem versuchten Betrug mit Aktien; Anordnung gegenüber nicht tatbeteiligten Dritten
+- [BGH, Beschluss vom 03.12.2013 - 1 StR 579/13](1-str-579-13.md) — Strafverfahren wegen Steuerhinterziehung: Beihilfe zur Umsatzsteuerhinterziehung durch Einreichung einer unrichtigen Umsatzsteuervoranmeldung nach Geschäften mi
+- [BGH, Beschluss vom 29.11.2013 - 1 StR 200/13](1-str-200-13.md) — Revision in Strafsachen: Unzulängliche Protokollierung von Verständigungsgesprächen als Revisionsgrund
+- [BGH, Beschluss vom 20.11.2013 - 1 StR 476/13](1-str-476-13.md) — Revision im Strafverfahren: Absehen von der Urteilsaufhebung bei Angemessenheit der Jugendstrafe
+- [BGH, Beschluss vom 20.11.2013 - 1 StR 544/13](1-str-544-13.md) — 1. Die Verweisung in § 370 Abs. 6 Satz 2 AO in ihrer geltenden Fassung wie in ihren früheren Fassungen auf unionsrechtliche Vorschriften dient lediglich der beg
+- [BGH, Beschluss vom 19.11.2013 - 1 StR 498/13](1-str-498-13.md) — Steuerhinterziehung: Anforderungen an die Berechnung der nichtversteuerten Mehrumsätze und Mehrerlöse
+- [BGH, Beschluss vom 18.11.2013 - 1 StR 594/13](1-str-594-13.md) — Unterbringung in einem psychiatrischen Krankenhaus: Gefährlichkeitsprognose bei alternativ festgestellter Störung und weniger schwerwiegenden Anlasstaten
+- [BGH, Beschluss vom 06.11.2013 - 1 StR 525/13](1-str-525-13.md) — Strafzumessung: Beachtung des Doppelverwertungsverbots bei Feststellungen zum strafbefreienden Rücktritt von einem versuchten Totschlag
+- [BGH, Urteil vom 05.11.2013 - 1 StR 387/13](1-str-387-13.md) — Strafzumessung: Allgemeine Vergleiche mit Strafen in nur gedachten Fällen gegen unbekannte Angeklagte wegen unbekannter Taten
+- [BGH, Beschluss vom 05.11.2013 - 1 StR 518/13](1-str-518-13.md) — Revision des Nebenklägers: Neubewertung der Konkurrenzverhältnisse als zulässiges Rechtsmittelziel eines Nebenklägers
+- [BGH, Urteil vom 22.10.2013 - 1 StR 210/13](1-str-210-13.md) — Unterbringung in der Sicherungsverwahrung: Berücksichtigung des hohen Lebensalters des Angeklagten bei der Gefährlichkeitsprognose
+- [BGH, Beschluss vom 02.10.2013 - 1 StR 386/13](1-str-386-13.md) — Strafverfahren: Zulässigkeit von getrennten Vorgesprächen des Gerichts mit den Verfahrensbeteiligten in Bezug auf verfahrensbeendende Absprachen
+- [BGH, Urteil vom 02.10.2013 - 1 StR 75/13](1-str-75-13.md) — Strafverfahren: Zulässigkeit der Revision des Angeklagten wegen Nichtanordnung der Unterbringung in einer Entziehungsanstalt
+- [BGH, Beschluss vom 01.10.2013 - 1 StR 312/13](1-str-312-13.md) — Umsatzsteuerhinterziehung: Zeitpunkt für die Zulässigkeit eines Vorsteuerabzugs; Regelungen über den Vorsteuerabzug in der Mehrwertsteuersystemrichtlinie; subje
+- [BGH, Urteil vom 01.10.2013 - 1 StR 403/13](1-str-403-13.md) — Beweiswürdigung im Strafverfahren: Überzeugungsbildung aufgrund eines einzigen Beweisanzeichens
+- [BGH, Beschluss vom 30.09.2013 - 1 StR 487/13](1-str-487-13.md) — Strafverfahren: Revisionseinlegung unter Bedingungen
+- [BGH, Beschluss vom 18.09.2013 - 1 StR 380/13](1-str-380-13.md) — Schlusswort des Angeklagten: Erneute Erteilung des letzten Worts bei Prüfung der Erfolgsaussicht des Adhäsionsantrags nach Wiedereintritt in die Verhandlung
+- [BGH, Beschluss vom 18.09.2013 - 1 StR 382/13](1-str-382-13.md) — Unterbringung in einer Entziehungsanstalt: Begriff des Hanges
+- [BGH, Beschluss vom 17.09.2013 - 1 StR 372/13](1-str-372-13.md) — Unterbringung eines Heranwachsenden in einem psychiatrischen Krankenhaus: Pflicht zur Prüfung des Absehenkönnens von Jugendstrafe
+- [BGH, Beschluss vom 17.09.2013 - 1 StR 489/13](1-str-489-13.md) — Nachträgliche Gesamtstrafenbildung: Anrechnung der auf Bewährungsauflagen erbrachten Leistungen bei Entfallen der ursprünglichen Strafaussetzung zur Bewährung
+- [BGH, Beschluss vom 16.09.2013 - 1 StR 264/13](1-str-264-13.md) — Strafverfahren: Verzicht auf ein Beweisverwertungsverbot
+- [BGH, Beschluss vom 05.09.2013 - 1 StR 162/13](1-str-162-13.md) — 1. Zur Nötigung durch ein anwaltliches Mahnschreiben. 2. Auch aus einer (versuchten) Nötigung kann der Täter etwas erlangen. 3. Zur Fassung des Urteilstenors be
+- [BGH, Beschluss vom 04.09.2013 - 1 StR 374/13](1-str-374-13.md) — Schmuggel und Strafbarkeit wegen Beihilfe zur Hinterziehung von Umsatzsteuer: Kumulatives Vorliegen; unterschiedliche Taten im materiell-rechtlichen und im proz
+- [BGH, Beschluss vom 04.09.2013 - 1 StR 94/13](1-str-94-13.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Begriff des Arbeitgebers; Bestehen eines Beschäftigungsverhältnisses zum Arbeitgeber
+- [BGH, Beschluss vom 03.09.2013 - 1 StR 189/13](1-str-189-13.md) — Strafverfahren: Anhörungsrüge nach Verwerfung der Revision im Beschlussverfahren wegen mangelnder Bescheidung von Parteivortrag
+- [BGH, Beschluss vom 03.09.2013 - 1 StR 237/13](1-str-237-13.md) — Revision in Strafsachen: Verfahrensrüge des Verstoßes gegen die Mitteilungspflicht über auf eine Verständigung hinzielende Gespräche
+- [BGH, Beschluss vom 02.09.2013 - 1 StR 369/13](1-str-369-13.md) — Sicherungsverfahren: Wirksamkeit einer Rechtsmittelrücknahme auf Veranlassung des Betreuers
+- [BGH, Beschluss vom 22.08.2013 - 1 StR 251/13](1-str-251-13.md) — Strafverfahren: Abwesenheit eines Verteidigers während der Verhandlung über die Abtrennung eines verbundenen Verfahrens
+- [BGH, Beschluss vom 22.08.2013 - 1 StR 378/13](1-str-378-13.md) — Unerlaubter Waffenbesitz: Objektive Grundlage der richterlichen Überzeugung bei Beweiswürdigung im Strafverfahren; Merkmal des Waffenbesitzes in Abgrenzung zum 
+- [BGH, Beschluss vom 22.08.2013 - 1 StR 440/13](1-str-440-13.md) — Strafurteil wegen gewerbsmäßigen Bandenbetruges: Strafmilderung wegen Aufklärungshilfe im Ermittlungsverfahren bei Aussageverweigerung in der Hauptverhandlung g
+- [BGH, Beschluss vom 21.08.2013 - 1 ARs 6/13](1-ars-6-13.md) — BGH, Beschluss 1 ARs 6/13
+- [BGH, Beschluss vom 21.08.2013 - 1 StR 332/13](1-str-332-13.md) — Tateinheit zwischen schwerem Bandendiebstahl und Sachbeschädigung
+- [BGH, Beschluss vom 21.08.2013 - 1 StR 449/13](1-str-449-13.md) — Irrtum über Tatumstände bei Putativnotwehrlage
+- [BGH, Beschluss vom 21.08.2013 - 1 StR 665/12](1-str-665-12.md) — Insolvenzverschleppung: Feststellung der Zahlungsunfähigkeit mit der betriebswirtschaftlichen und der wirtschaftskriminalistischen Methode
+- [BGH, Beschluss vom 20.08.2013 - 1 StR 305/13](1-str-305-13.md) — Revision in Strafsachen: Wiedereinsetzung nach Rechtsmittelrücknahme
+- [BGH, Beschluss vom 08.08.2013 - 1 StR 306/13](1-str-306-13.md) — Strafverfahren: Verfahrensrüge eines Verwertungsverbotes für eine Handy-Videoaufnahme eines zeugnisverweigerungsberechtigten Zeugen
+- [BGH, Beschluss vom 08.08.2013 - 1 StR 307/13](1-str-307-13.md) — Strafverfahren wegen jahrelanger Nachstellung: Unterbringung des Täters in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 07.08.2013 - 1 StR 156/13](1-str-156-13.md) — Erhebung von Telekommunikations-Verkehrsdaten: Anordnung der Erhebung bei Verdacht des Vortäuschens einer Straftat
+- [BGH, Beschluss vom 07.08.2013 - 1 StR 246/13](1-str-246-13.md) — Sicherungsverwahrung: Voraussetzungen der vorbehaltenen Anordnung von Sicherungsverwahrung in Altfällen
+- [BGH, Urteil vom 06.08.2013 - 1 StR 201/13](1-str-201-13.md) — Revision in Strafsachen: Anforderungen an Rüge der Abwesenheit eines Verteidigers während der Hauptverhandlung bei gleichzeitiger Verfahrensabtrennung; Präklusi
+- [BGH, Beschluss vom 24.07.2013 - 1 StR 234/13](1-str-234-13.md) — Strafprozessuale Verständigung: Beruhen des Urteils auf einer verspäteten Belehrung des Angeklagten über die Unverwertbarkeit seiner Einlassung
+- [BGH, Beschluss vom 23.07.2013 - 1 StR 204/13](1-str-204-13.md) — Sexueller Missbrauch von Kindern: Erheblichkeit einer sexuellen Handlung; strafschärfende Berücksichtigung des Verteidigungsverhaltens eines Angeklagten
+- [BGH, Beschluss vom 10.07.2013 - 1 StR 278/13](1-str-278-13.md) — Revision im Jugendstrafverfahren: Unzulässigkeit eines Revisionsantrags gegen die Verhängung von Jugendarrest
+- [BGH, Urteil vom 10.07.2013 - 1 StR 532/12](1-str-532-12.md) — Untreue der Geschäftsführer einer Komplementär-GmbH durch Annahme von Schmiergeldern zu Lasten der KG: Berechnung des Vermögensschadens
+- [BGH, Beschluss vom 09.07.2013 - 1 StR 236/13](1-str-236-13.md) — Deutsche Gerichtsbarkeit bei Auslandsstraftaten: Unerlaubter Erwerb von Betäubungsmitteln durch türkische Staatsangehörige in den Niederlanden
+- [BGH, Beschluss vom 25.06.2013 - 1 StR 163/13](1-str-163-13.md) — Revision in Strafsachen: Überprüfung der Verfahrensrüge bei Darstellung eines verständigungsbasierten Geständnisses in den Urteilsgründen trotz tatsächlich nich
+- [BGH, Beschluss vom 13.06.2013 - 1 StR 226/13](1-str-226-13.md) — Strafzumessung bei Schenkungssteuerhinterziehung: Anforderungen an "grober Eigennutz" des Täters als Voraussetzung der Annahme eines besonders schweren Falls
+- [BGH, Beschluss vom 13.06.2013 - 1 StR 592/12](1-str-592-12.md) — Gerichtskosten des Revisionsverfahrens bei Gesamtstrafenbildung unter Einbeziehung einer früheren Strafe
+- [BGH, Urteil vom 12.06.2013 - 1 StR 48/13](1-str-48-13.md) — Auslegung der Übergangsvorschrift zum Gesetz zur bundesrechtlichen Umsetzung des Abstandsgebotes im Recht der Sicherungsverwahrung.
+- [BGH, Beschluss vom 12.06.2013 - 1 StR 6/13](1-str-6-13.md) — Versuchte Steuerhinterziehung: Einräumung einer angemessenen Frist zur Abgabe von Steuererklärungen nach Kündigung des Steuerberatermandats; unmittelbares Anset
+- [BGH, Urteil vom 11.06.2013 - 1 StR 86/13](1-str-86-13.md) — Strafverfahren wegen versuchten Mordes und schweren Raubs: Mordmerkmal der Heimtücke bei Gewaltaktion im Rockermilieu; Zueignungsabsicht als Raubmerkmal bei sym
+- [BGH, Beschluss vom 06.06.2013 - 1 StR 581/12](1-str-581-12.md) — Ausschließung eines Strafrichters von der Entscheidung über ein Ablehnungsgesuch wegen Vernehmung in der "Sache" als Zeuge oder Sachverständiger
+- [BGH, Beschluss vom 05.06.2013 - 1 StR 126/13](1-str-126-13.md) — Beweiswürdigung im Strafprozess: Hinweispflicht des Gerichts vor der beabsichtigten Berücksichtigung ausgeschiedener Tatteile
+- [BGH, Beschluss vom 05.06.2013 - 1 StR 168/13](1-str-168-13.md) — Strafverfahren: Widerruf der Ermächtigung zur Rücknahme der Revision
+- [BGH, Urteil vom 05.06.2013 - 1 StR 457/12](1-str-457-12.md) — Mord: Wegfall der Arglosigkeit bei Rechnenmüssen mit einem körperlichen Angriff
+- [BGH, Beschluss vom 05.06.2013 - 1 StR 626/12](1-str-626-12.md) — Strafbarkeit eines Baukolonnenführers wegen Steuerhinterziehung in Tateinheit mit Vorenthaltung und Veruntreuung von Arbeitsentgelt bei Beschäftigung von Schwar
+- [BGH, Beschluss vom 04.06.2013 - 1 StR 193/13](1-str-193-13.md) — Wiedereintritt in die Verhandlung: Letztes Wort des Angeklagten
+- [BGH, Urteil vom 04.06.2013 - 1 StR 32/13](1-str-32-13.md) — 1. Zum Vorliegen nicht allgemein zugänglicher personenbezogener Daten bei der Erstellung von sog. Bewegungsprofilen bei Überwachung von Zielpersonen durch Anbri
+- [BGH, Beschluss vom 16.05.2013 - 1 StR 633/12](1-str-633-12.md) — Wiedereinsetzung in den vorigen Stand im Strafverfahren: Verschulden des Verteidigers bei Unterschreiben und Absendenlassen eines von der Kanzleikraft nicht sei
+- [BGH, Beschluss vom 16.05.2013 - 1 StR 68/13](1-str-68-13.md) — Strafurteil wegen Steuerhinterziehung: Notwendige Feststellungen zur der Höhe einer Steuerverkürzung
+- [BGH, Beschluss vom 15.05.2013 - 1 StR 166/13](1-str-166-13.md) — Verständigung im Strafverfahren: Fehlerhafte Strafzumessung wegen unterbliebener zugesagter Einbeziehung einer Vorstrafe in die Gesamtstrafe
+- [BGH, Beschluss vom 15.05.2013 - 1 StR 469/12](1-str-469-12.md) — Die Unbrauchbarmachung einer dem Betrieb dienenden Sache gemäß § 316b Abs. 1 Nr. 3 StGB erfordert für ein tatbestandsmäßiges Verhalten eine Einwirkung auf die S
+- [BGH, Urteil vom 15.05.2013 - 1 StR 476/12](1-str-476-12.md) — Unerlaubte Betäubungsmittelausfuhr: Strafzumessung bei der Ausfuhr von "ausgenommenen Zubereitungen"; Voraussetzungen der Bereicherungsabsicht; unterschiedliche
+- [BGH, Beschluss vom 14.05.2013 - 1 StR 122/13](1-str-122-13.md) — Absoluter Revisionsgrund einer Verletzung der Vorschriften über die Öffentlichkeit: Voraussetzungen der erfolgreichen Rüge der Entfernung sämtlicher Zuhörer aus
+- [BGH, Urteil vom 14.05.2013 - 1 StR 573/12](1-str-573-12.md) — Strafverfahren wegen Vergewaltigung unter Alkoholeinfluss: Kumulative Anordnung der Unterbringung in einer Entziehungsanstalt und in der Sicherungsverwahrung
+- [BGH, Beschluss vom 06.05.2013 - 1 StR 178/13](1-str-178-13.md) — Jugendstrafe nach Vergewaltigung: Anordnungsgrund der "Schwere der Schuld"; kumulatives Erfordernis einer Erziehungsbedürftigkeit
+- [BGH, Beschluss vom 03.05.2013 - 1 StR 66/13](1-str-66-13.md) — Strafzumessung bei Kindesmissbrauch: Strafschärfende Berücksichtigung eines 5 Jahre nach der Tat liegenden Verhaltens des Angeklagten
+- [BGH, Beschluss vom 23.04.2013 - 1 StR 131/13](1-str-131-13.md) — Betäubungsmitteldelikt: Voraussetzungen der Strafmilderung wegen Aufklärungshilfe
+- [BGH, Beschluss vom 11.04.2013 - 1 StR 14/13](1-str-14-13.md) — Betrug: Konkurrenzverhältnisse bei Täuschung sowohl durch aktives Tun als auch durch Unterlassen
+- [BGH, Beschluss vom 11.04.2013 - 1 StR 563/12](1-str-563-12.md) — Hauptverhandlung in Strafsachen: Pflicht zur Belehrung über die Voraussetzungen und Folgen einer Abweichung des Gerichtes von dem in Aussicht gestellten Ergebni
+- [BGH, Beschluss vom 10.04.2013 - 1 StR 11/13](1-str-11-13.md) — Strafverfahren: Entfernung des Angeklagten aus dem Sitzungssaal während der Verhandlung über die Entlassung eines Zeugen
+- [BGH, Beschluss vom 10.04.2013 - 1 StR 112/13](1-str-112-13.md) — Gefährliche Körperverletzung: Würgen des Opfers bzw. Zuhalten von Mund und Nase als das Leben gefährdende Behandlung
+- [BGH, Beschluss vom 10.04.2013 - 1 StR 22/13](1-str-22-13.md) — Verfall des Wertersatzes: Urteilsfeststellungen zur Höhe des Erlangten beim Auffangrechtserwerb des Staates und zur gesamtschuldnerischen Haftung von Mittätern
+- [BGH, Urteil vom 09.04.2013 - 1 StR 586/12](1-str-586-12.md) — 1. Täter einer Steuerhinterziehung durch Unterlassen (§ 370 Abs. 1 Nr. 2 AO) kann nur derjenige sein, der selbst zur Aufklärung steuerlich erheblicher Tatsachen
+- [BGH, Beschluss vom 21.03.2013 - 1 StR 108/13](1-str-108-13.md) — Sexueller Missbrauch widerstandsunfähiger Personen: Schlaf als tiefgreifende Bewusstseinsstörung
+- [BGH, Urteil vom 19.03.2013 - 1 StR 318/12](1-str-318-12.md) — Umsatzsteuerhinterziehung: Versagung der Befreiung einer innergemeinschaftlichen Lieferung von der Umsatzsteuer bei der Verschleierung der Identität des wahren 
+- [BGH, Urteil vom 19.03.2013 - 1 StR 647/12](1-str-647-12.md) — Rücktritt vom Tötungsversuch: Abgrenzung zwischen beendetem, unbeendetem und fehlgeschlagenem Versuch bei einem durch Zäsuren gekennzeichneten mehraktigen Gesch
+- [BGH, Beschluss vom 19.03.2013 - 1 StR 8/13](1-str-8-13.md) — Bei einer E-Mail, in der lediglich mit Worten der an einem Kind vorgenommene sexuelle Missbrauch geschildert wird, handelt es sich nicht um eine kinderpornograp
+- [BGH, Beschluss vom 06.03.2013 - 1 StR 578/12](1-str-578-12.md) — Besonders schwere Brandstiftung: Notwendige Urteilsfeststellungen zur vollendeten Inbrandsetzung eines gemischt genutzten Gebäudes bei Feuerlegung im Keller
+- [BGH, Beschluss vom 06.03.2013 - 1 StR 654/12](1-str-654-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Unterbringungsanordnung; Erotomanie als relevante psychische Störung
+- [BGH, Beschluss vom 05.03.2013 - 1 StR 35/13](1-str-35-13.md) — Konkurrenzen bei Betäubungsmitteldelikten: Zusammentreffen von unerlaubter Einfuhr mit unerlaubtem Handeltreiben
+- [BGH, Beschluss vom 05.03.2013 - 1 StR 52/13](1-str-52-13.md) — Verfallsanordnung bei Steuerhinterziehung; Erstreckung der Aufhebung der Verfallsanordnung auf nichtrevidierenden Mitangeklagten
+- [BGH, Beschluss vom 05.03.2013 - 1 StR 602/12](1-str-602-12.md) — Strafverfahren: Voraussetzungen für ein Glaubwürdigkeitsgutachten über einen Zeugen; Gehörsverletzung durch das Revisionsgericht
+- [BGH, Beschluss vom 05.03.2013 - 1 StR 613/12](1-str-613-12.md) — Betrug und Computerbetrug: Zulässigkeit einer Wahlfeststellung
+- [BGH, Beschluss vom 05.03.2013 - 1 StR 73/13](1-str-73-13.md) — Steuerhinterziehung in großem Ausmaß: Verfolgungsverjährung in Übergangsfällen
+- [BGH, Urteil vom 20.02.2013 - 1 StR 320/12](1-str-320-12.md) — Körperverletzung mit Todesfolge und Betrug gegenüber einer Krankenversicherung: Rechtswidrigkeit eines ohne ordnungsgemäße Aufklärung durchgeführten ärztlichen 
+- [BGH, Beschluss vom 20.02.2013 - 1 StR 585/12](1-str-585-12.md) — 1. Bei Körperverletzungen im Rahmen von tätlichen Auseinandersetzungen zwischen rivalisierenden Gruppen ist bei der für die Anwendung von § 228 StGB vorzunehmen
+- [BGH, Urteil vom 19.02.2013 - 1 StR 275/12](1-str-275-12.md) — Anordnung der Sicherungsverwahrung: Anforderungen an die Gefährlichkeitsprognose und an die Ausübung des dem Tatgericht eingeräumten Ermessens
+- [BGH, Urteil vom 19.02.2013 - 1 StR 465/12](1-str-465-12.md) — Sicherungsverwahrung: Sexueller Missbrauch von Kindern als schwere Sexualstraftat im Sinne der Weitergeltungsanordnung; Bedeutung europarechtlicher Vorgaben
+- [BGH, Beschluss vom 07.02.2013 - 1 StR 408/12](1-str-408-12.md) — Kostenentscheidung im Strafverfahren: Kostenentscheidung mehrerer nebeneinander eingelegter Rechtsmittel nach Aufhebung und Zurückverweisung
+- [BGH, Beschluss vom 06.02.2013 - 1 StR 263/12](1-str-263-12.md) — Zur tatgerichtlichen Klärung, ob bei Betrug die einzelnen Vermögensverfügungen jeweils durch den Irrtum der Geschädigten veranlasst waren, wenn den Angeklagten 
+- [BGH, Beschluss vom 06.02.2013 - 1 StR 506/12](1-str-506-12.md) — (Strafverfahren: Ablehnung eines Beweisantrags wegen fehlender Konnexität)
+- [BGH, Beschluss vom 06.02.2013 - 1 StR 529/12](1-str-529-12.md) — Strafverfahren: Zulässigkeit einer Urteilsberichtigung bei widersprüchlicher Höhe der verhängten Freiheitsstrafe in Urteilsgründen und Urteilstenor
+- [BGH, Beschluss vom 06.02.2013 - 1 StR 577/12](1-str-577-12.md) — Steuerhinterziehung und Vorenthalten von Arbeitsentgelt: Ermittlung der Höhe des gezahlten Schwarzlohns
+- [BGH, Urteil vom 05.02.2013 - 1 StR 405/12](1-str-405-12.md) — Freispruch vom Vorwurf der versuchten Anstiftung zum Mord: Anforderungen an die Urteilsgründe eines freisprechenden Urteils; hinreichende Konkretisierung der in
+- [BGH, Beschluss vom 05.02.2013 - 1 StR 553/12](1-str-553-12.md) — Strafverfahren: Notwendige Begründung der Ablehnung eines Beweisantrages wegen Bedeutungslosigkeit
+- [BGH, Beschluss vom 31.01.2013 - 1 StR 595/12](1-str-595-12.md) — Ablehnung des Revisionsrichters: Zulässigkeit des mit einer Anhörungsrüge verbundenen Ablehnungsgesuchs bei Verwerfung der Revision durch Beschluss
+- [BGH, Beschluss vom 23.01.2013 - 1 StR 459/12](1-str-459-12.md) — Betrug: Erforderliche Urteilsfeststellungen bei einer faktischen Geschäftsführerstellung des Angeklagten
+- [BGH, Beschluss vom 22.01.2013 - 1 StR 233/12](1-str-233-12.md) — Beihilfe zum Bankrott: Umgang mit effektiv versteckten Vermögenswerten bei Begründung der Überschuldung oder Zahlungsunfähigkeit; Pflichtenstellung des Täters a
+- [BGH, Beschluss vom 22.01.2013 - 1 StR 234/12](1-str-234-12.md) — 1. Zum Umgang mit effektiv versteckten Vermögenswerten bei der Begründung der Überschuldung oder Zahlungsunfähigkeit. 2. Bei der Vorschrift des § 283 StGB hande
+- [BGH, Beschluss vom 22.01.2013 - 1 StR 416/12](1-str-416-12.md) — Zum Computerbetrug bei Abbuchungsauftragslastschrift.
+- [BGH, Beschluss vom 10.01.2013 - 1 StR 297/12](1-str-297-12.md) — Anhörungsrüge im Strafverfahren: Mangelnde Kenntnisnahme von Parteivortrag
+- [BGH, Beschluss vom 10.01.2013 - 1 StR 560/12](1-str-560-12.md) — Polizeiliche Beschuldigtenvernehmung: Aussageverwertung nach Rechtsbelehrung und Wunsch der Anwesenheit eines Strafverteidigers
+- [BGH, Beschluss vom 10.01.2013 - 1 StR 93/11](1-str-93-11.md) — Sicherungsverwahrung im Übergangsfall: Unerlässlichkeit der Anordnung zum Schutz der Allgemeinheit vor schweren Sexual- und Gewaltstraftaten
+- [BGH, Beschluss vom 09.01.2013 - 1 StR 558/12](1-str-558-12.md) — Sicherungsverwahrung: Erfordernis des richterlichen Hinweises auf die Möglichkeit einer erneuten Unterbringungsanordnung in Fällen lebenslanger Freiheitsstrafe 

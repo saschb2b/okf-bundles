@@ -1,0 +1,103 @@
+# V. Zivilsenat – 2025
+
+99 Entscheidung(en).
+
+- [BGH, Beschluss vom 30.12.2025 - V ZB 74/25](v-zb-74-25.md) — BGH, Beschluss V ZB 74/25
+- [BGH, Urteil vom 19.12.2025 - V ZR 15/24](v-zr-15-24.md) — 1. Ein Erbbaurecht kann für ein bestehendes oder noch zu errichtendes einheitliches Gebäude bestellt werden, das sich auf benachbarte Grundstücke erstreckt (sog
+- [BGH, Urteil vom 19.12.2025 - V ZR 44/25](v-zr-44-25.md) — Wer ein Fahrzeug über das auf dem Parkschein ausgewiesene Parkzeitende hinaus auf einem gebührenpflichtigen privaten Parkplatz abstellt, begeht verbotene Eigenm
+- [BGH, Beschluss vom 18.12.2025 - V ZB 42/25](v-zb-42-25.md) — Verschulden des Prozessbevollmächtigten an der Fristversäumnis
+- [BGH, Beschluss vom 18.12.2025 - V ZB 8/25](v-zb-8-25.md) — § 892 BGB findet auch auf einen rechtsgeschäftlichen Grundstückserwerb Anwendung, der der Vorwegnahme der Erbfolge dient.
+- [BGH, Beschluss vom 11.12.2025 - V ZB 3/25](v-zb-3-25.md) — In einem Zwangsversteigerungsverfahren können Gefahren für das Leben und die Gesundheit des Schuldners oder seines Angehörigen eine einstweilige Einstellung nac
+- [BGH, Beschluss vom 11.12.2025 - V ZB 70/24](v-zb-70-24.md) — 1. Ein Antrag auf Sicherheitsleistung ist nur dann sofort gestellt, wenn er von dem Beteiligten unmittelbar nach Abgabe und Protokollierung des Gebots angebrach
+- [BGH, Beschluss vom 11.12.2025 - V ZR 39/25](v-zr-39-25.md) — BGH, Beschluss V ZR 39/25
+- [BGH, Urteil vom 05.12.2025 - V ZR 238/24](v-zr-238-24.md) — Der Heimfallanspruch im Sinne von § 36 Abs. 1 WEG kann nicht vor dem Dauerwohnrecht entstehen. Die Verjährungsfrist des § 36 Abs. 3 WEG für diesen Anspruch begi
+- [BGH, Beschluss vom 04.12.2025 - V ZB 55/25](v-zb-55-25.md) — Verletzung des Gebots des gesetzlichen Richters
+- [BGH, Beschluss vom 20.11.2025 - V ZB 40/24](v-zb-40-24.md) — 1. Die Abnahme einer eidesstattlichen Versicherung durch das Grundbuchamt ist nur in gesetzlich besonders geregelten, nicht verallgemeinerungsfähigen Ausnahmefä
+- [BGH, Beschluss vom 20.11.2025 - V ZR 4/25](v-zr-4-25.md) — Wird in einem Berufungsurteil die Berufung einer Partei als unzulässig verworfen und über die Berufung der Gegenpartei in der Sache entschieden, gilt im Hinblic
+- [BGH, Beschluss vom 20.11.2025 - V ZR 48/25](v-zr-48-25.md) — Verwerfliche Gesinnung bei Abschluss von Erbbaurechtsvertrag
+- [BGH, Beschluss vom 20.11.2025 - V ZR 66/25](v-zr-66-25.md) — Unterzeichnung der Berufungsbegründung durch einen Rechtsanwalt ohne eigene Prüfung des Inhalts
+- [BGH, Urteil vom 14.11.2025 - V ZR 190/24](v-zr-190-24.md) — Im Hinblick auf den Anspruch der Gemeinschaft der Wohnungseigentümer auf Zahlung der beschlossenen Vorschüsse zur Kostentragung und zu den Rücklagen ist das Zur
+- [BGH, Urteil vom 07.11.2025 - V ZR 121/24](v-zr-121-24.md) — Ein Überbau muss nur unter den Voraussetzungen des § 912 Abs. 1 BGB geduldet werden; liegen diese nicht vor, kann eine Pflicht zur dauerhaften Duldung des Überb
+- [BGH, Urteil vom 07.11.2025 - V ZR 155/24](v-zr-155-24.md) — 1. Der Kondiktionsanspruch des Verkäufers ist bei einer Nichtigkeit allein des Kaufvertrages nach § 138 Abs. 1 BGB auf Rückübertragung des Eigentums gerichtet, 
+- [BGH, Beschluss vom 06.11.2025 - V ZR 211/24](v-zr-211-24.md) — BGH, Beschluss V ZR 211/24
+- [BGH, Beschluss vom 04.11.2025 - V ZR 229/24](v-zr-229-24.md) — BGH, Beschluss V ZR 229/24
+- [BGH, Urteil vom 24.10.2025 - V ZR 129/24](v-zr-129-24.md) — In einer Gemeinschaftsordnung können für den Fall einer Bauzeitüberschreitung bei der Ausübung eines Ausbaurechts Regelungen über Strafzahlungen getroffen werde
+- [BGH, Beschluss vom 22.10.2025 - V ZR 230/24](v-zr-230-24.md) — (Nichtzulassungsbeschwerde einer Gemeinschaft der Wohnungseigentümer sowie des vermeintlichen Verwalters)
+- [BGH, Beschluss vom 16.10.2025 - V ZB 28/25](v-zb-28-25.md) — Der Generalbundesanwalt ist für die Beitreibung von Verfahrenskosten nur unter den Voraussetzungen des § 2 Abs. 1 Satz 1 Halbs. 1 und 2, § 1 Abs. 4 JBeitrG zust
+- [BGH, Beschluss vom 16.10.2025 - V ZB 36/25](v-zb-36-25.md) — Fehlende Sachverhaltsdarstellung in Beschluss zu einem Nachbarstreit um eine blockierte Feuerwehrzufahrt
+- [BGH, Urteil vom 10.10.2025 - V ZR 192/24](v-zr-192-24.md) — Wird einem Wohnungseigentümer eine bauliche Veränderung gestattet, die die Möglichkeit eröffnet, Räumlichkeiten entgegen einer vereinbarten Zweckbestimmung (hie
+- [BGH, Urteil vom 10.10.2025 - V ZR 2/24](v-zr-2-24.md) — Entfernung einer tragenden Wand durch Wohnungseigentümer; Beeinträchtigung des Gemeinschaftseigentums
+- [BGH, Urteil vom 10.10.2025 - V ZR 41/24](v-zr-41-24.md) — Wohnungseigentum. Rückbau eines ohne Genehmigung installierten Klima-Split-Gerätes nach altem Recht
+- [BGH, Urteil vom 10.10.2025 - V ZR 67/25](v-zr-67-25.md) — Rückbauanordnung nach Durchbruch einer tragenden Wand in Eigentumswohnung
+- [BGH, Beschluss vom 09.10.2025 - V ZB 67/24](v-zb-67-24.md) — 1. Eine Entscheidung, mit der dem Antragsteller eines selbständigen Beweisverfahrens die dem Gegner entstandenen Kosten gemäß § 494a Abs. 2 Satz 1 ZPO auferlegt
+- [BGH, Beschluss vom 09.10.2025 - V ZR 157/24](v-zr-157-24.md) — BGH, Beschluss V ZR 157/24
+- [BGH, Beschluss vom 09.10.2025 - V ZR 64/25](v-zr-64-25.md) — BGH, Beschluss V ZR 64/25
+- [BGH, Urteil vom 26.09.2025 - V ZR 108/24](v-zr-108-24.md) — Bei der Beschlussfassung über die Vorschüsse zur Kostentragung steht den Wohnungseigentümern sowohl hinsichtlich der einzustellenden Positionen als auch im Hinb
+- [BGH, Urteil vom 26.09.2025 - V ZR 206/24](v-zr-206-24.md) — 1. Zur Erstellung von Jahresabrechnungen ist die Gemeinschaft der Wohnungseigentümer verpflichtet; als ausführendes Organ muss der bestellte Verwalter auch auss
+- [BGH, Urteil vom 18.09.2025 - V ZR 162/24](v-zr-162-24.md) — Beseitigungsanspruch hinsichtlich innenliegender Rohre des Primärsystems einer Fernwärmestation
+- [BGH, Beschluss vom 17.09.2025 - V ZB 22/24](v-zb-22-24.md) — 1. § 878 BGB ist auf den Antrag auf Vollzug der Teilungserklärung nicht anzuwenden, wenn sich die Teilungserklärung auf mehrere Grundstücke bezieht und es an de
+- [BGH, Beschluss vom 17.09.2025 - V ZR 226/24](v-zr-226-24.md) — Nichtzulassungsbeschwerde in Zivilsachen: Anforderungen an die Glaubhaftmachung des Wertes der Beschwer
+- [BGH, Beschluss vom 17.09.2025 - V ZR 276/23](v-zr-276-23.md) — Gegenvorstellung gegen die Festsetzung des Gegenstandswerts des Nichtzulassungsbeschwerdeverfahrens durch den Bundesgerichtshof
+- [BGH, Urteil vom 18.07.2025 - V ZR 29/24](v-zr-29-24.md) — 1a. Wird ein Wohnungseigentümer gemäß § 1004 Abs. 1 Satz 1 BGB auf Beseitigung einer baulichen Veränderung in Anspruch genommen, findet das Wohnungseigentumsges
+- [BGH, Versäumnisurteil vom 18.07.2025 - V ZR 76/24](v-zr-76-24.md) — 1. Bei der Beschlussfassung über die Beauftragung eines Rechtsanwalts müssen keine Alternativangebote anderer Rechtsanwälte vorliegen; dies gilt auch dann, wenn
+- [BGH, Beschluss vom 17.07.2025 - V ZA 3/25](v-za-3-25.md) — Verwertung von Sparvermögen bei Beantragung der Bewilligung von Prozesskostenhilfe
+- [BGH, Beschluss vom 17.07.2025 - V ZR 54/25](v-zr-54-25.md) — Wohnungseigentum: Zulässigkeit der Nichtzulassungsbeschwerde
+- [BGH, Beschluss vom 11.07.2025 - V ZB 23/25](v-zb-23-25.md) — BGH, Beschluss V ZB 23/25
+- [BGH, Beschluss vom 09.07.2025 - V ZR 163/24](v-zr-163-24.md) — Nichtzulassungsbeschwerde: Streitwert einer wohnungseigentumsrechtlichen Beschlussanfechtungsklage
+- [BGH, Urteil vom 04.07.2025 - V ZR 225/24](v-zr-225-24.md) — 1. Zum Mitglied des Verwaltungsbeirats einer Gemeinschaft der Wohnungseigentümer können auch juristische Personen (hier: Gemeinde) bestellt werden, nicht aber -
+- [BGH, Urteil vom 04.07.2025 - V ZR 77/24](v-zr-77-24.md) — 1. Ein Beschluss, durch den der Verwalter mit der Abmahnung eines Wohnungseigentümers wegen eines die Gemeinschaft schädigenden Verhaltens beauftragt wird, ist 
+- [BGH, Beschluss vom 03.07.2025 - V ZB 17/24](v-zb-17-24.md) — 1. Eine nach bisherigem Recht unter Eintragung ihrer Gesellschafter im Grundbuch als Eigentümerin eines Grundstücks eingetragene Gesellschaft bürgerlichen Recht
+- [BGH, Beschluss vom 03.07.2025 - V ZR 181/24](v-zr-181-24.md) — Nichtzulassungsbeschwerde bei Wohnungseigentum: Gehörsverstoß bei Nichtberücksichtigung erheblichen Bestreitens in der Berufungsinstanz
+- [BGH, Urteil vom 27.06.2025 - V ZR 143/24](v-zr-143-24.md) — Benachbarte Grundstücke: Verschiedene Grundstückserwerbsverträge und Umwandlung eines dienenden Grundstücks in Wohnungseigentum; Anspruch des Eigentümers eines 
+- [BGH, Urteil vom 27.06.2025 - V ZR 150/24](v-zr-150-24.md) — Der Eigentümer eines mit einer Überfahrtbaulast belasteten Grundstücks ist nicht aufgrund der Baulast nach Treu und Glauben zivilrechtlich verpflichtet, das Beg
+- [BGH, Urteil vom 27.06.2025 - V ZR 180/24](v-zr-180-24.md) — Der für Hecken aufgestellte Grundsatz, dass bei einer Anpflanzung auf einem Grundstück, das höher liegt als das Nachbargrundstück, die nach den Landesnachbarges
+- [BGH, Beschluss vom 26.06.2025 - V ZB 2/25](v-zb-2-25.md) — BGH, Beschluss V ZB 2/25
+- [BGH, Beschluss vom 26.06.2025 - V ZB 48/24](v-zb-48-24.md) — Eine noch nicht gezeugte Person kann Inhaberin eines - durch ihre Lebendgeburt bedingten - Grundpfandrechts sein und ein solches erwerben. Daher ist die Eintrag
+- [BGH, Beschluss vom 26.06.2025 - V ZB 64/24](v-zb-64-24.md) — 1. Die Zustellung von Schriftstücken im Zwangsversteigerungsverfahren an einen zu Unrecht bestellten Zustellungsvertreter ist unwirksam. 2. Das Vollstreckungsge
+- [BGH, Beschluss vom 26.06.2025 - V ZR 172/24](v-zr-172-24.md) — BGH, Beschluss V ZR 172/24
+- [BGH, Beschluss vom 24.06.2025 - V ZB 63/23](v-zb-63-23.md) — BGH, Beschluss V ZB 63/23
+- [BGH, EuGH-Vorlage vom 05.06.2025 - V ZB 15/24](v-zb-15-24.md) — Dem Gerichtshof der Europäischen Union wird zur Auslegung des Gemeinschaftsrechts gemäß Art. 267 Abs. 1 Buchst. b AEUV folgende Frage zur Vorabentscheidung vorg
+- [BGH, Beschluss vom 05.06.2025 - V ZB 37/24](v-zb-37-24.md) — 1. Den beabsichtigten Vollzug einer Urkunde i.S.d. § 53 BeurkG muss der Notar regelmäßig in einem Vorbescheid ankündigen, wenn einer der Urkundsbeteiligten dem 
+- [BGH, Beschluss vom 05.06.2025 - V ZR 221/24](v-zr-221-24.md) — BGH, Beschluss V ZR 221/24
+- [BGH, Beschluss vom 05.06.2025 - V ZR 232/24](v-zr-232-24.md) — Zahlungspflicht aus Sonderumlage bei erfolgreicher Anfechtung des Maßnahmenbeschlusses; Abgrenzung zur Jahresabrechnung bei aufgehobenem Kostenverteilungsschlüs
+- [BGH, Urteil vom 23.05.2025 - V ZR 128/24](v-zr-128-24.md) — Gestattung einer baulichen Veränderung durch Einbau eines Klimageräts auf dem Balkon eines Wohnungseigentümers
+- [BGH, Urteil vom 23.05.2025 - V ZR 259/23](v-zr-259-23.md) — 1. Bei der Auslegung von Verträgen, die eine Gemeinde im Rahmen eines sog. Einheimischenmodells abschließt, sind die besondere Zweckbestimmung der verbilligten 
+- [BGH, Urteil vom 23.05.2025 - V ZR 36/24](v-zr-36-24.md) — Eine Vereinbarung in der Gemeinschaftsordnung, wonach einzelne Wohnungseigentümer die Kosten für die Instandhaltung und Instandsetzung von bestimmten Teilen des
+- [BGH, Urteil vom 23.05.2025 - V ZR 39/24](v-zr-39-24.md) — Zur Kostentragungspflicht eines Teilerbbauberechtigten für eine diesem öffentlich-rechtlich obliegende Prüfung der Standsicherheit von tragenden Teilen des Geme
+- [BGH, Beschluss vom 22.05.2025 - V ZB 28/24](v-zb-28-24.md) — In einem Beschwerdeverfahren nach § 15 Abs. 2 BNotO bemisst sich die bei dem Landgericht entstehende Verfahrensgebühr auch nach Inkrafttreten des 2. Kostenrecht
+- [BGH, Beschluss vom 22.05.2025 - V ZB 46/24](v-zb-46-24.md) — 1. Der die Nacherbfolge anordnende Erblasser kann einen Dritten, der nicht Vorerbe wird, durch eine transmortale Vollmacht dazu ermächtigen, nach seinem Tod sow
+- [BGH, Beschluss vom 22.05.2025 - V ZR 186/24](v-zr-186-24.md) — Macht die klagende Partei in einem Beschlussklageverfahren Angaben zu ihrem Interesse an der Entscheidung, das nach § 49 GKG ein Element der Streitwertfestsetzu
+- [BGH, Urteil vom 16.05.2025 - V ZR 124/24](v-zr-124-24.md) — BGH, Urteil V ZR 124/24
+- [BGH, Urteil vom 16.05.2025 - V ZR 133/24](v-zr-133-24.md) — Die in Verträgen über den Erwerb landwirtschaftlicher Flächen nach dem Ausgleichsleistungsgesetz vorgesehene Beteiligung der Privatisierungsstelle (BVVG) an dem
+- [BGH, Urteil vom 16.05.2025 - V ZR 270/23](v-zr-270-23.md) — 1. Auch sogenannten werdenden Wohnungseigentümern kann im Innenverhältnis ein Anspruch auf Beseitigung rechtswidriger baulicher Veränderungen zustehen, dessen A
+- [BGH, Beschluss vom 15.05.2025 - V ZB 1/25](v-zb-1-25.md) — BGH, Beschluss V ZB 1/25
+- [BGH, Beschluss vom 15.05.2025 - V ZB 36/24](v-zb-36-24.md) — Verlegung eines Gerichtstermins bei Urlaubsbuchung nach Terminierung
+- [BGH, Beschluss vom 13.05.2025 - V ZR 138/24](v-zr-138-24.md) — BGH, Beschluss V ZR 138/24
+- [BGH, Beschluss vom 08.05.2025 - V ZB 44/24](v-zb-44-24.md) — Eine Wiedereinsetzung von Amts wegen kommt nicht in Betracht, wenn die Partei ausdrücklich und unmissverständlich erklärt, die Wiedereinsetzung werde nicht bean
+- [BGH, Beschluss vom 08.05.2025 - V ZR 152/24](v-zr-152-24.md) — Gehörsverstoß: Widerruf des Verzichts auf Zeugenvernehmung; Absehen von Zeugenvernehmung wegen voraussichtlicher Unergiebigkeit
+- [BGH, Urteil vom 11.04.2025 - V ZR 194/23](v-zr-194-23.md) — 1. Das Recht zur Ausübung des Vorkaufsrechts setzt das Zustandekommen eines rechtswirksamen Kaufvertrags voraus. Letzteres ist erst dann der Fall, wenn auch die
+- [BGH, Beschluss vom 10.04.2025 - V ZB 59/24](v-zb-59-24.md) — BGH, Beschluss V ZB 59/24
+- [BGH, Beschluss vom 10.04.2025 - V ZR 130/24](v-zr-130-24.md) — BGH, Beschluss V ZR 130/24
+- [BGH, Urteil vom 28.03.2025 - V ZR 105/24](v-zr-105-24.md) — 1. Bei der Beurteilung, ob eine bauliche Veränderung (hier: Klimaanlage) einen Wohnungseigentümer gegenüber anderen unbillig benachteiligt und deshalb nicht ges
+- [BGH, Urteil vom 28.03.2025 - V ZR 185/23](v-zr-185-23.md) — 1. Dem Begriff der Hecke im Sinne der Landesnachbargesetze (hier: § 39 Abs. 1 NachbG HE) ist eine Höhenbegrenzung nicht immanent. Entscheidend für die Einordnun
+- [BGH, Beschluss vom 27.03.2025 - V ZA 11/24](v-za-11-24.md) — BGH, Beschluss V ZA 11/24
+- [BGH, Beschluss vom 27.03.2025 - V ZB 27/24](v-zb-27-24.md) — Ein Rechtsanwalt, der in einem Teilungsversteigerungsverfahren in eigener Sache tätig wird, ohne als Rechtsanwalt aufzutreten, ist jedenfalls dann zur elektroni
+- [BGH, Urteil vom 21.03.2025 - V ZR 1/24](v-zr-1-24.md) — 1. Einen vermietenden Wohnungseigentümer trifft eine Haftung als mittelbarer Handlungsstörer für von dem Mieter ohne erforderlichen Gestattungsbeschluss vorgeno
+- [BGH, Beschluss vom 20.03.2025 - V ZB 32/24](v-zb-32-24.md) — Die zur Auseinandersetzung des Vermögens einer aufgelösten GbR angeordnete Teilungsversteigerung eines Grundstücks ist jedenfalls dann fortzusetzen, wenn der Au
+- [BGH, Beschluss vom 20.03.2025 - V ZB 58/23](v-zb-58-23.md) — Teilungsversteigerung auf Antrag eines Miterben; Anfechtbarkeit einer Zwischenentscheidung des Vollstreckungsgerichts
+- [BGH, Urteil vom 14.03.2025 - V ZR 153/23](v-zr-153-23.md) — 1. Ein Beschluss, mit dem ein im Zwangsversteigerungsverfahren erteilter Zuschlag aufgehoben wird, ist der materiellen Rechtskraft fähig. Als rechtsgestaltender
+- [BGH, Urteil vom 14.03.2025 - V ZR 79/24](v-zr-79-24.md) — Das Notwegrecht des Eigentümers eines verbindungslosen („gefangenen“) Wohngrundstücks umfasst grundsätzlich auch die Zufahrt mit Kraftfahrzeugen zum Zwecke des 
+- [BGH, Beschluss vom 13.03.2025 - V ZR 188/24](v-zr-188-24.md) — Einstweilige Einstellung der Zwangsvollstreckung bei Nichtzulassungsbeschwerde; Anforderungen an die Darlegung eines unersetzlichen Nachteils
+- [BGH, Beschluss vom 13.03.2025 - V ZR 59/24](v-zr-59-24.md) — BGH, Beschluss V ZR 59/24
+- [BGH, Urteil vom 28.02.2025 - V ZR 246/23](v-zr-246-23.md) — Ein in einem Grundstückskaufvertrag mit Ratenzahlungsvereinbarung vorgesehenes Rücktrittsrecht des Verkäufers für den Fall, dass der Antrag gestellt wird, dass 
+- [BGH, Beschluss vom 20.02.2025 - V ZR 77/23](v-zr-77-23.md) — Grundstückskaufvertrag: Arglisteinwand wegen Verschweigens der Anordnung der ordnungsgemäßen Einrichtung einer Schornsteinlaufanlage durch den Bezirksschornstei
+- [BGH, Beschluss vom 18.02.2025 - V ZB 38/24](v-zb-38-24.md) — BGH, Beschluss V ZB 38/24
+- [BGH, Urteil vom 14.02.2025 - V ZR 128/23](v-zr-128-23.md) — 1. § 16 Abs. 2 Satz 2 WEG begründet die Kompetenz der Wohnungseigentümer, die Änderung des Verteilungsschlüssels für die Zuführung zu Rücklagen zu beschließen. 
+- [BGH, Urteil vom 14.02.2025 - V ZR 236/23](v-zr-236-23.md) — Sieht die Gemeinschaftsordnung eine objektbezogene Kostentrennung vor, so dass nur diejenigen Wohnungseigentümer, deren Sondereigentum (bzw. Sondernutzungsrecht
+- [BGH, Urteil vom 14.02.2025 - V ZR 86/24](v-zr-86-24.md) — 1. Wird mit der Beschlussersetzungsklage die Gestattung einer Maßnahme nach § 20 Abs. 3 WEG verlangt, genügt es für die Vorbefassung, dass der Kläger in der Eig
+- [BGH, Beschluss vom 13.02.2025 - V ZB 26/23](v-zb-26-23.md) — 1. Die grundbuchrechtliche Unzulässigkeit einer Eintragung im Sinne des § 53 Abs. 1 Satz 2 GBO vermag nicht deren Gegenstandslosigkeit im Sinne des § 84 Abs. 2 
+- [BGH, Beschluss vom 30.01.2025 - V ZR 224/24](v-zr-224-24.md) — Antrag auf Wiedereinsetzung in den vorigen Stand in Bezug auf die Versäumnis der Frist zur Einlegung einer Nichtzulassungsbeschwerde
+- [BGH, Urteil vom 24.01.2025 - V ZR 51/24](v-zr-51-24.md) — Eine Überfahrtbaulast begründet kein zivilrechtliches Wegerecht.
+- [BGH, Beschluss vom 23.01.2025 - V ZB 10/24](v-zb-10-24.md) — Ein zugunsten des jeweiligen Eigentümers eines Grundstücks bestehendes Vorkaufsrecht (subjektiv-dingliches Vorkaufsrecht) kann nicht im Wege der Rechtsänderung 
+- [BGH, Beschluss vom 15.01.2025 - V ZR 82/24](v-zr-82-24.md) — BGH, Beschluss V ZR 82/24
+- [BGH, Beschluss vom 13.01.2025 - V ZR 100/20](v-zr-100-20.md) — Erinnerung gegen Kostenansatz: Kostenfestsetzung bei zurückgewiesener Anhörungsrüge

@@ -1,0 +1,62 @@
+# 5. Strafsenat – 2002
+
+58 Entscheidung(en).
+
+- [BGH, Beschluss vom 11.12.2002 - 5 StR 519/02](5-str-519-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 10.12.2002 - 5 StR 454/02](5-str-454-02.md) — sexueller Nötigung u.a.
+- [BGH, Urteil vom 09.12.2002 - 5 StR 276/02](5-str-276-02.md) — Verletzung des Dienstgeheimnisses
+- [BGH, Beschluss vom 26.11.2002 - 5 StR 479/02](5-str-479-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 26.11.2002 - 5 StR 513/02](5-str-513-02.md) — Geldwäsche u.a.
+- [BGH, Beschluss vom 07.11.2002 - 5 StR 336/02](5-str-336-02.md) — Diebstahls u.a.
+- [BGH, Beschluss vom 07.11.2002 - 5 StR 357/02](5-str-357-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 07.11.2002 - 5 StR 401/02](5-str-401-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 07.11.2002 - 5 StR 472/02](5-str-472-02.md) — BGH, Beschluss vom 07.11.2002 - 5 StR 472/02
+- [BGH, Beschluss vom 05.11.2002 - 5 StR 249/02](5-str-249-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 05.11.2002 - 5 StR 368/02](5-str-368-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 05.11.2002 - 5 StR 447/02](5-str-447-02.md) — Mordes u.a.
+- [BGH, Beschluss vom 05.11.2002 - 5 StR 473/02](5-str-473-02.md) — Vergewaltigung
+- [BGH, Urteil vom 22.10.2002 - 5 StR 295/02](5-str-295-02.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 22.10.2002 - 5 StR 441/02](5-str-441-02.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 21.10.2002 - 5 ARs 33/02](5-ars-33-02.md) — versuchten Mordes u.a. hier: Anfragebeschluß vom 14. August 2002 – 2 StR 251/02
+- [BGH, Beschluss vom 21.10.2002 - 5 StR 433/02](5-str-433-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 08.10.2002 - 5 StR 309/02](5-str-309-02.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Beschluss vom 08.10.2002 - 5 StR 365/02](5-str-365-02.md) — Totschlags
+- [BGH, Beschluss vom 20.08.2002 - 5 StR 215/02](5-str-215-02.md) — Bestechlichkeit u.a.
+- [BGH, Beschluss vom 20.08.2002 - 5 StR 259/02](5-str-259-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 20.08.2002 - 5 StR 269/02](5-str-269-02.md) — Betruges u.a.
+- [BGH, Beschluss vom 20.08.2002 - 5 StR 338/02](5-str-338-02.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 20.08.2002 - 5 StR 344/02](5-str-344-02.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 20.08.2002 - 5 StR 348/02](5-str-348-02.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 20.08.2002 - 5 StR 359/02](5-str-359-02.md) — gewerbsmäßiger Abgabe von Betäubungsmitteln an Minderjährige u.a.
+- [BGH, Beschluss vom 07.08.2002 - 5 StR 206/02](5-str-206-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 07.08.2002 - 5 StR 228/02](5-str-228-02.md) — Untreue
+- [BGH, Beschluss vom 07.08.2002 - 5 StR 248/02](5-str-248-02.md) — bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 07.08.2002 - 5 StR 292/02](5-str-292-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 11.06.2002 - 5 StR 130/02](5-str-130-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 11.06.2002 - 5 StR 170/02](5-str-170-02.md) — Beihilfe zur Brandstiftung
+- [BGH, Beschluss vom 11.06.2002 - 5 StR 190/02](5-str-190-02.md) — schwerer Brandstiftung
+- [BGH, Beschluss vom 28.05.2002 - 5 StR 196/02](5-str-196-02.md) — Totschlags
+- [BGH, Beschluss vom 28.05.2002 - 5 StR 559/01](5-str-559-01.md) — Mordes
+- [BGH, Beschluss vom 16.05.2002 - 5 StR 12/02](5-str-12-02.md) — Betruges
+- [BGH, Beschluss vom 16.05.2002 - 5 StR 136/02](5-str-136-02.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 16.05.2002 - 5 StR 137/02](5-str-137-02.md) — Beihilfe zur Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 16.05.2002 - 5 StR 176/02](5-str-176-02.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 20.03.2002 - 5 StR 1/02](5-str-1-02.md) — gewerbsmäßigen Betruges u.a.
+- [BGH, Beschluss vom 20.03.2002 - 5 StR 448/01](5-str-448-01.md) — Steuerhinterziehung u.a.
+- [BGH, Beschluss vom 20.03.2002 - 5 StR 574/01](5-str-574-01.md) — Beihilfe zur gewerbsmäßigen Bandenhehlerei u.a.
+- [BGH, Beschluss vom 20.03.2002 - 5 StR 96/02](5-str-96-02.md) — Bestimmens einer Person unter 18 Jahren zur Förderung des unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 21.02.2002 - 5 StR 20/02](5-str-20-02.md) — unerlaubten Handeltreibens mit Betäubungsmitteln u.a.
+- [BGH, Beschluss vom 21.02.2002 - 5 StR 40/02](5-str-40-02.md) — Betruges
+- [BGH, Beschluss vom 21.02.2002 - 5 StR 9/02](5-str-9-02.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Urteil vom 23.01.2002 - 5 StR 130/01](5-str-130-01.md) — Bestechung (zu 1) und Bestechlichkeit (zu 2 bis 5)
+- [BGH, Urteil vom 23.01.2002 - 5 StR 391/01](5-str-391-01.md) — Mordes
+- [BGH, Beschluss vom 23.01.2002 - 5 StR 540/01](5-str-540-01.md) — Steuerhinterziehung u.a.
+- [BGH, Urteil vom 23.01.2002 - 5 StR 584/01](5-str-584-01.md) — Beihilfe zur schweren räuberischen Erpressung
+- [BGH, Beschluss vom 23.01.2002 - 5 StR 596/01](5-str-596-01.md) — schweren Menschenhandels u.a.
+- [BGH, Beschluss vom 23.01.2002 - 5 StR 597/01](5-str-597-01.md) — räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 23.01.2002 - 5 StR 612/01](5-str-612-01.md) — Totschlags
+- [BGH, Beschluss vom 23.01.2002 - 5 StR 616/01](5-str-616-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.01.2002 - 5 StR 549/01](5-str-549-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.01.2002 - 5 StR 568/01](5-str-568-01.md) — bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 22.01.2002 - 5 StR 578/01](5-str-578-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 10.01.2002 - 5 StR 452/01](5-str-452-01.md) — der Abgabe unrichtiger Steuererklärungen ein Steuerstrafverfahren anhängig, rechtfertigt das in § 393 Abs. 1 Sätze 2 und 3 AO normierte Zwan

@@ -1,0 +1,65 @@
+# 2. Strafsenat – 2001
+
+61 Entscheidung(en).
+
+- [BGH, Beschluss vom 20.12.2001 - 2 ARs 322/01](2-ars-322-01.md) — Fahrens ohne Fahrerlaubnis
+- [BGH, Beschluss vom 20.12.2001 - 2 StR 509/01](2-str-509-01.md) — Betrugs
+- [BGH, Beschluss vom 20.12.2001 - 2 StR 513/01](2-str-513-01.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 20.12.2001 - 2 StR 518/01](2-str-518-01.md) — Vergewaltigung u. a.
+- [BGH, Beschluss vom 20.12.2001 - 2 StR 529/01](2-str-529-01.md) — Vergewaltigung
+- [BGH, Beschluss vom 05.12.2001 - 2 ARs 321/01](2-ars-321-01.md) — Willkürlichkeit für unwirksam. Die Abgabe durch das Amtsgericht Köln an das Wohnsitzgericht ist gemäß § 462 a Abs. 2 Satz 2 StPO wirksam und
+- [BGH, Beschluss vom 05.12.2001 - 2 ARs 331/01](2-ars-331-01.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a. hier: Antrag auf Gerichtsstandsbestimmung
+- [BGH, Urteil vom 05.12.2001 - 2 StR 273/01](2-str-273-01.md) — erpresserischen Menschenraubes u.a.
+- [BGH, Urteil vom 05.12.2001 - 2 StR 353/01](2-str-353-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 05.12.2001 - 2 StR 410/01](2-str-410-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 23.11.2001 - 2 StR 456/01](2-str-456-01.md) — Totschlags u.a.
+- [BGH, Beschluss vom 19.10.2001 - 2 StR 349/01](2-str-349-01.md) — Körperverletzung mit Todesfolge
+- [BGH, Urteil vom 19.09.2001 - 2 StR 240/01](2-str-240-01.md) — schweren Raubes
+- [BGH, Beschluss vom 05.09.2001 - 2 ARs 228/01](2-ars-228-01.md) — Betrugs u.a.
+- [BGH, Beschluss vom 05.09.2001 - 2 ARs 280/00](2-ars-280-00.md) — BGH, Beschluss vom 05.09.2001 - 2 ARs 280/00
+- [BGH, Beschluss vom 25.07.2001 - 2 ARs 187/01](2-ars-187-01.md) — BGH, Beschluss vom 25.07.2001 - 2 ARs 187/01
+- [BGH, Beschluss vom 25.07.2001 - 2 StR 19/01](2-str-19-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 25.07.2001 - 2 StR 218/01](2-str-218-01.md) — erpresserischen Menschenraubes zu 6., 9. u. 10. wegen Beihilfe zum erpresserischen Menschenraub
+- [BGH, Beschluss vom 25.07.2001 - 2 StR 219/01](2-str-219-01.md) — ausbeuterischer Zuhälterei u.a.
+- [BGH, Beschluss vom 25.07.2001 - 2 StR 287/01](2-str-287-01.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 25.07.2001 - 2 StR 289/01](2-str-289-01.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 25.07.2001 - 2 StR 299/01](2-str-299-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 04.07.2001 - 2 ARs 137/01](2-ars-137-01.md) — Diebstahls im besonders schweren Fall
+- [BGH, Beschluss vom 04.07.2001 - 2 ARs 178/01](2-ars-178-01.md) — BGH, Beschluss vom 04.07.2001 - 2 ARs 178/01
+- [BGH, Beschluss vom 04.07.2001 - 2 StR 247/01](2-str-247-01.md) — Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Urteil vom 04.07.2001 - 2 StR 513/00](2-str-513-00.md) — Geldwäsche strafbar machen.
+- [BGH, Beschluss vom 04.07.2001 - 2 StR 68/01](2-str-68-01.md) — (unerlaubten) Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.06.2001 - 2 StR 174/01](2-str-174-01.md) — Mordes u.a.
+- [BGH, Beschluss vom 27.06.2001 - 2 StR 204/01](2-str-204-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 27.06.2001 - 2 StR 225/01](2-str-225-01.md) — Verstoßes gegen das Betäubungsmittelgesetz
+- [BGH, Beschluss vom 27.06.2001 - 2 StR 226/01](2-str-226-01.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 20.06.2001 - 2 StR 221/01](2-str-221-01.md) — gefährlicher Körperverletzung u.a.
+- [BGH, Beschluss vom 11.06.2001 - 2 ARs 123/01](2-ars-123-01.md) — Diebstahls
+- [BGH, Beschluss vom 11.06.2001 - 2 StR 183/01](2-str-183-01.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 11.06.2001 - 2 StR 223/01](2-str-223-01.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 18.05.2001 - 2 StR 96/01](2-str-96-01.md) — Menschenhandels
+- [BGH, Beschluss vom 09.05.2001 - 2 StR 111/01](2-str-111-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 09.05.2001 - 2 StR 123/01](2-str-123-01.md) — Mordes
+- [BGH, Beschluss vom 09.05.2001 - 2 StR 130/01](2-str-130-01.md) — Totschlags
+- [BGH, Beschluss vom 02.05.2001 - 2 StR 128/01](2-str-128-01.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 02.05.2001 - 2 StR 129/01](2-str-129-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 02.05.2001 - 2 StR 149/01](2-str-149-01.md) — Betrugs u.a.
+- [BGH, Beschluss vom 27.04.2001 - 2 ARs 91/01](2-ars-91-01.md) — BGH, Beschluss vom 27.04.2001 - 2 ARs 91/01
+- [BGH, Beschluss vom 18.04.2001 - 2 ARs 71/01](2-ars-71-01.md) — Antrag auf Verlegung
+- [BGH, Beschluss vom 18.04.2001 - 2 ARs 81/01](2-ars-81-01.md) — Meineides
+- [BGH, Urteil vom 18.04.2001 - 2 StR 492/00](2-str-492-00.md) — Totschlags u.a.
+- [BGH, Urteil vom 18.04.2001 - 2 StR 492/01](2-str-492-01.md) — Totschlags u.a.
+- [BGH, Beschluss vom 18.04.2001 - 2 StR 51/01](2-str-51-01.md) — sexuellen Mißbrauchs eines Kindes u.a.
+- [BGH, Urteil vom 23.03.2001 - 2 StR 369/00](2-str-369-00.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 23.03.2001 - 2 StR 48/01](2-str-48-01.md) — Betruges
+- [BGH, Urteil vom 23.03.2001 - 2 StR 488/00](2-str-488-00.md) — Verletzung des Dienstgeheimnisses
+- [BGH, Urteil vom 23.03.2001 - 2 StR 498/00](2-str-498-00.md) — Veröffentlichung: ja ______________________ StPO §§ 413, 416; StGB §§ 71, 63 Ergibt sich im Laufe einer Hauptverhandlung die dauernde Verhandlungsunfähigkeit de
+- [BGH, Beschluss vom 23.03.2001 - 2 StR 59/01](2-str-59-01.md) — sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 23.03.2001 - 2 StR 7/01](2-str-7-01.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge
+- [BGH, Beschluss vom 23.03.2001 - 2 StR 80/01](2-str-80-01.md) — schweren sexuellen Mißbrauchs von Kindern u.a.
+- [BGH, Beschluss vom 23.03.2001 - 2 StR 90/01](2-str-90-01.md) — Unterschlagung u.a.
+- [BGH, Beschluss vom 14.03.2001 - 2 StR 4/01](2-str-4-01.md) — schwerer räuberischer Erpressung u.a.
+- [BGH, Beschluss vom 14.03.2001 - 2 StR 54/01](2-str-54-01.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 14.03.2001 - 2 StR 66/01](2-str-66-01.md) — Hehlerei u.a.
+- [BGH, Beschluss vom 10.01.2001 - 2 StR 496/00](2-str-496-00.md) — versuchten Mordes u.a.
+- [BGH, Beschluss vom 10.01.2001 - 2 StR 500/00](2-str-500-00.md) — versuchter Erpressung

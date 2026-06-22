@@ -1,0 +1,107 @@
+# I. Zivilsenat – 2024
+
+103 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2024 - I ZR 70/24](i-zr-70-24.md) — BGH, Beschluss I ZR 70/24
+- [BGH, Beschluss vom 09.12.2024 - I ZB 55/24](i-zb-55-24.md) — BGH, Beschluss I ZB 55/24
+- [BGH, Beschluss vom 05.12.2024 - I ZB 58/24](i-zb-58-24.md) — BGH, Beschluss I ZB 58/24
+- [BGH, Beschluss vom 05.12.2024 - I ZB 70/24](i-zb-70-24.md) — BGH, Beschluss I ZB 70/24
+- [BGH, Urteil vom 05.12.2024 - I ZR 38/24](i-zr-38-24.md) — Sonntagsverkauf im Gartencenter 1. Über die Zulässigkeit der Öffnung einer Verkaufsstelle an Sonn- und Feiertagen nach § 5 Abs. 1 Nr. 1 Satz 1 LÖG NW entscheide
+- [BGH, Urteil vom 05.12.2024 - I ZR 50/24](i-zr-50-24.md) — Produktfotografien Die Verletzung eines inländischen Urheberrechts durch ein Verhalten, das seinen Schwerpunkt im Ausland hat, setzt voraus, dass das Verhalten 
+- [BGH, Beschluss vom 21.11.2024 - I ZB 27/23](i-zb-27-23.md) — BGH, Beschluss I ZB 27/23
+- [BGH, Beschluss vom 21.11.2024 - I ZB 34/24](i-zb-34-24.md) — Behandlung von Fristsachen in Rechtsanwaltskanzlei
+- [BGH, Urteil vom 21.11.2024 - I ZR 107/23](i-zr-107-23.md) — DFL-Supercup 1. Die Leistung eines Plattformbetreibers, der Angebote Dritter vermittelt, ohne selbst die von Dritten angebotenen Produkte anzubieten, ist nicht 
+- [BGH, EuGH-Vorlage vom 21.11.2024 - I ZR 135/23](i-zr-135-23.md) — Herausgeberanteil Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 5 Abs. 2 Buchst. b der Richtlinie 2001/29/EG des Europäischen Parlaments 
+- [BGH, Beschluss vom 21.11.2024 - I ZR 69/24](i-zr-69-24.md) — BGH, Beschluss I ZR 69/24
+- [BGH, Beschluss vom 11.11.2024 - I ZB 54/24](i-zb-54-24.md) — BGH, Beschluss I ZB 54/24
+- [BGH, Beschluss vom 11.11.2024 - I ZB 89/23](i-zb-89-23.md) — BGH, Beschluss I ZB 89/23
+- [BGH, Beschluss vom 07.11.2024 - I ZR 90/23](i-zr-90-23.md) — BGH, Beschluss I ZR 90/23
+- [BGH, Beschluss vom 26.10.2024 - I ZR 8/24](i-zr-8-24.md) — BGH, Beschluss I ZR 8/24
+- [BGH, Beschluss vom 23.10.2024 - I ZR 13/24](i-zr-13-24.md) — BGH, Beschluss I ZR 13/24
+- [BGH, Beschluss vom 18.10.2024 - I ZA 4/24](i-za-4-24.md) — BGH, Beschluss I ZA 4/24
+- [BGH, Beschluss vom 10.10.2024 - I ZB 22/24](i-zb-22-24.md) — Schiedsverfahren: Berechtigtes Interesse der Partnerschaftsgesellschaft an der Feststellung der Unwirksamkeit des Verfahrens bei Beschlussmängelstreitigkeiten
+- [BGH, Beschluss vom 26.09.2024 - I ZB 63/23](i-zb-63-23.md) — Rechtsbeschwerdeverfahren bei Zurückweisung einer Markenanmeldung: Ablehnung des gesamten Spruchkörpers wegen Besorgnis der Befangenheit; Verletzung des rechtli
+- [BGH, EuGH-Vorlage vom 26.09.2024 - I ZR 1/24](i-zr-1-24.md) — Gewerblicher Endabnehmer Dem Gerichtshof der Europäischen Union wird zur Auslegung von Art. 5 Abs. 2 Buchst. b der Richtlinie 2001/29/EG des Europäischen Parlam
+- [BGH, Urteil vom 26.09.2024 - I ZR 142/23](i-zr-142-23.md) — Jobbörse 1. Bei der Beurteilung, ob eine geschäftliche Handlung der öffentlichen Hand vorliegt, ist im Interesse eines funktionierenden Wettbewerbs zu berücksic
+- [BGH, Beschluss vom 26.09.2024 - I ZR 161/23](i-zr-161-23.md) — Gehörsrechtsverletzung bei überspannten Substantiierungsanforderungen an Sachvortrag einer Partei zur Anspruchsbegründung
+- [BGH, Beschluss vom 11.09.2024 - I ZB 20/23](i-zb-20-23.md) — BGH, Beschluss I ZB 20/23
+- [BGH, Beschluss vom 11.09.2024 - I ZB 93/23](i-zb-93-23.md) — Der Grundsatz, dass es an der für eine sofortige Beschwerde notwendigen Beschwer des Gläubigers fehlt, wenn in seinem Antrag auf Festsetzung eines Ordnungsgelds
+- [BGH, Beschluss vom 11.09.2024 - I ZR 132/23](i-zr-132-23.md) — Rabattverlust im Gesamtvertrag bei gerichtlicher Überprüfung der Vergütungsangemessenheit
+- [BGH, Urteil vom 11.09.2024 - I ZR 168/23](i-zr-168-23.md) — Payout Fee 1. Wird mit dem wettbewerbsrechtlichen Beseitigungsanspruch eine Zahlung verlangt, ist der darauf gerichtete Klageantrag im Regelfall zu unbestimmt, 
+- [BGH, Beschluss vom 16.08.2024 - I ZR 122/22](i-zr-122-22.md) — BGH, Beschluss I ZR 122/22
+- [BGH, Beschluss vom 25.07.2024 - I ZB 3/24](i-zb-3-24.md) — BGH, Beschluss I ZB 3/24
+- [BGH, Beschluss vom 25.07.2024 - I ZB 9/24](i-zb-9-24.md) — Überprüfung der Zuständigkeit im Rechtsbeschwerdeverfahren nach Verweisung an Kammer für Handelssachen - Zuständigkeitsstreit für Ordnungsmittelverfahren
+- [BGH, Beschluss vom 25.07.2024 - I ZR 12/24](i-zr-12-24.md) — BGH, Beschluss I ZR 12/24
+- [BGH, Urteil vom 25.07.2024 - I ZR 143/23](i-zr-143-23.md) — durchschnittliche Sternebewertung Bei der Werbung mit einer durchschnittlichen Sternebewertung von Kunden stellt die Aufschlüsselung nach den einzelnen Sternekl
+- [BGH, Beschluss vom 25.07.2024 - I ZR 178/23](i-zr-178-23.md) — BGH, Beschluss I ZR 178/23
+- [BGH, Urteil vom 25.07.2024 - I ZR 27/23](i-zr-27-23.md) — Gesamtvertrag Kabelweitersendung 1. Bei der Festsetzung eines Gesamtvertrags kann eine Indizwirkung für die Billigkeit einer Regelung nicht nur vergleichbaren R
+- [BGH, Beschluss vom 22.07.2024 - I ZB 35/24](i-zb-35-24.md) — BGH, Beschluss I ZB 35/24
+- [BGH, Beschluss vom 18.07.2024 - I ZB 61/23](i-zb-61-23.md) — BGH, Beschluss I ZB 61/23
+- [BGH, Beschluss vom 12.07.2024 - I ZB 46/24](i-zb-46-24.md) — BGH, Beschluss I ZB 46/24
+- [BGH, Beschluss vom 11.07.2024 - I ZB 34/23](i-zb-34-23.md) — 1. Zu den von Amts wegen zu prüfenden besonderen Verfahrensvoraussetzungen des Aufhebungsverfahrens gemäß § 1059 ZPO zählt hinsichtlich der formalen Anforderung
+- [BGH, Beschluss vom 11.07.2024 - I ZR 152/23](i-zr-152-23.md) — Wettbewerbswidrige Werbung eines Stromversorgungsunternehmens: Anforderungen an die Bestimmtheit von Unterlassungsanträgen
+- [BGH, Beschluss vom 11.07.2024 - I ZR 169/23](i-zr-169-23.md) — BGH, Beschluss I ZR 169/23
+- [BGH, Beschluss vom 11.07.2024 - I ZR 4/24](i-zr-4-24.md) — BGH, Beschluss I ZR 4/24
+- [BGH, Urteil vom 27.06.2024 - I ZR 102/23](i-zr-102-23.md) — Der verratene Himmel 1. Das durch § 13 Satz 1 UrhG geschützte Recht des Urhebers auf Anerkennung seiner Urheberschaft wird auch dann beeinträchtigt, wenn das Be
+- [BGH, Beschluss vom 27.06.2024 - I ZR 11/24](i-zr-11-24.md) — BGH, Beschluss I ZR 11/24
+- [BGH, Urteil vom 27.06.2024 - I ZR 14/21](i-zr-14-21.md) — Internet-Radiorecorder II Nutzer eines Internet-Radiorecorders können sich auf die Privatkopieschranke des § 53 Abs. 1 Satz 1 UrhG berufen, wenn sie private Ver
+- [BGH, Beschluss vom 27.06.2024 - I ZR 21/24](i-zr-21-24.md) — BGH, Beschluss I ZR 21/24
+- [BGH, Beschluss vom 18.06.2024 - I ZB 28/24](i-zb-28-24.md) — BGH, Beschluss I ZB 28/24
+- [BGH, Beschluss vom 13.06.2024 - I ZA 2/24](i-za-2-24.md) — BGH, Beschluss I ZA 2/24
+- [BGH, Beschluss vom 10.06.2024 - I ZB 30/24](i-zb-30-24.md) — BGH, Beschluss I ZB 30/24
+- [BGH, Beschluss vom 03.06.2024 - I ZB 42/23](i-zb-42-23.md) — Gegenstandswert der anwaltlichen Tätigkeit im Rechtsbeschwerdeverfahren
+- [BGH, Beschluss vom 03.06.2024 - I ZB 59/23](i-zb-59-23.md) — BGH, Beschluss I ZB 59/23
+- [BGH, Beschluss vom 29.05.2024 - I ZB 84/23](i-zb-84-23.md) — Ein Rechtsanwalt muss Vorkehrungen dafür treffen, dass ein Zustellungsdatum, das in einem von ihm abgegebenen elektronischen Empfangsbekenntnis eingetragen ist,
+- [BGH, Urteil vom 29.05.2024 - I ZR 145/23](i-zr-145-23.md) — Verwarnung aus Kennzeichenrecht III 1. Die Grundsätze, nach denen die unberechtigte Verwarnung aus einem Kennzeichenrecht unter dem Gesichtspunkt eines rechtswi
+- [BGH, Beschluss vom 27.05.2024 - I ZB 21/24](i-zb-21-24.md) — BGH, Beschluss I ZB 21/24
+- [BGH, Beschluss vom 27.05.2024 - I ZB 8/23](i-zb-8-23.md) — BGH, Beschluss I ZB 8/23
+- [BGH, Beschluss vom 03.05.2024 - I ZB 25/24](i-zb-25-24.md) — BGH, Beschluss I ZB 25/24
+- [BGH, Urteil vom 02.05.2024 - I ZR 12/23](i-zr-12-23.md) — Tierkrankenwagen 1. Jedenfalls bei einer Verletzung vertraglicher Rücksichtnahmepflichten im Sinne des § 241 Abs. 2 BGB, durch die die Erreichung des Vertragszw
+- [BGH, Beschluss vom 02.05.2024 - I ZR 160/23](i-zr-160-23.md) — BGH, Beschluss I ZR 160/23
+- [BGH, Beschluss vom 02.05.2024 - I ZR 166/23](i-zr-166-23.md) — BGH, Beschluss I ZR 166/23
+- [BGH, Beschluss vom 02.05.2024 - I ZR 172/23](i-zr-172-23.md) — BGH, Beschluss I ZR 172/23
+- [BGH, Beschluss vom 02.05.2024 - I ZR 174/23](i-zr-174-23.md) — BGH, Beschluss I ZR 174/23
+- [BGH, Beschluss vom 02.05.2024 - I ZR 175/23](i-zr-175-23.md) — BGH, Beschluss I ZR 175/23
+- [BGH, Beschluss vom 02.05.2024 - I ZR 5/24](i-zr-5-24.md) — BGH, Beschluss I ZR 5/24
+- [BGH, Beschluss vom 02.05.2024 - I ZR 96/23](i-zr-96-23.md) — BGH, Beschluss I ZR 96/23
+- [BGH, Beschluss vom 24.04.2024 - I ZB 8/24](i-zb-8-24.md) — BGH, Beschluss I ZB 8/24
+- [BGH, Beschluss vom 18.04.2024 - I ZB 55/23](i-zb-55-23.md) — Ist allein das Organ einer juristischen Person Titelschuldner, sind Ordnungsmittel im Falle einer schuldhaften Zuwiderhandlung des Organs gegen den Vollstreckun
+- [BGH, Beschluss vom 18.04.2024 - I ZB 67/23](i-zb-67-23.md) — Organisationsverschulden des Prozessbevollmächtigten im Zusammenhang mit der Versäumung einer Berufungsbegründungsfrist
+- [BGH, Beschluss vom 12.04.2024 - I ZB 40/23](i-zb-40-23.md) — Wert des Gegenstands der anwaltlichen Tätigkeit bei zu erwirkender Vornahme einer titulierten Handlung
+- [BGH, Beschluss vom 04.04.2024 - I ZB 64/23](i-zb-64-23.md) — Ein Rechtsanwalt, der in einem Zwangsvollstreckungsverfahren in eigener Sache tätig wird, ohne als Rechtsanwalt aufzutreten, ist jedenfalls dann zur elektronisc
+- [BGH, Urteil vom 04.04.2024 - I ZR 137/23](i-zr-137-23.md) — Die Ausnahmeregelung des § 312 Abs. 6 BGB, nach der die Vorschriften über das Widerrufsrecht des Verbrauchers nicht auf Versicherungsvermittlungsverträge anwend
+- [BGH, Beschluss vom 22.03.2024 - I ZB 32/23](i-zb-32-23.md) — Rechtsanwaltsvergütung: Grundsätzliche Bedeutung der Festsetzung des Gegenstandswerts der anwaltlichen Tätigkeit im Rechtsbeschwerdeverfahren einer Geschäftsgeh
+- [BGH, Beschluss vom 22.03.2024 - I ZR 88/23](i-zr-88-23.md) — Online-Sportwette: Wirksamkeit des Wettvertrags; Rückerstattungsanspruch eines Spielers bei Verlusten
+- [BGH, Urteil vom 21.03.2024 - I ZR 185/22](i-zr-185-22.md) — 1. § 656c Abs. 1 Satz 1 BGB gestattet die sukzessive Doppelbeauftragung des Maklers in der Weise, dass zunächst mit einer Partei des Hauptvertrags eine Provisio
+- [BGH, Beschluss vom 20.03.2024 - I ZB 15/24](i-zb-15-24.md) — BGH, Beschluss I ZB 15/24
+- [BGH, Beschluss vom 07.03.2024 - I ZB 49/23](i-zb-49-23.md) — BGH, Beschluss I ZB 49/23
+- [BGH, Beschluss vom 07.03.2024 - I ZB 56/23](i-zb-56-23.md) — BGH, Beschluss I ZB 56/23
+- [BGH, Beschluss vom 07.03.2024 - I ZB 6/24](i-zb-6-24.md) — BGH, Beschluss I ZB 6/24
+- [BGH, Beschluss vom 07.03.2024 - I ZR 118/23](i-zr-118-23.md) — BGH, Beschluss I ZR 118/23
+- [BGH, Urteil vom 07.03.2024 - I ZR 83/23](i-zr-83-23.md) — Vielfachabmahner II 1. Der Geltendmachung einer Vertragsstrafe wegen Verstoßes gegen die Unterlassungspflicht aus einem aufgrund einer missbräuchlichen Abmahnun
+- [BGH, Beschluss vom 06.03.2024 - I ZB 10/24](i-zb-10-24.md) — BGH, Beschluss I ZB 10/24
+- [BGH, Beschluss vom 04.03.2024 - I ZB 29/23](i-zb-29-23.md) — BGH, Beschluss I ZB 29/23
+- [BGH, Beschluss vom 27.02.2024 - I ZB 14/24](i-zb-14-24.md) — BGH, Beschluss I ZB 14/24
+- [BGH, Beschluss vom 22.02.2024 - I ZB 41/23](i-zb-41-23.md) — Zuständigkeit für Antrag auf Herabsetzung einer Prozesskostensicherheit für nicht in EU ansässigen Kläger
+- [BGH, Versäumnisurteil vom 22.02.2024 - I ZR 217/22](i-zr-217-22.md) — PIERRE CARDIN 1. Die Vorschrift des § 19c Satz 1 MarkenG gewährt der obsiegenden Partei nicht nur bei Unterlassungsklagen, sondern auch bei Klagen auf Auskunfts
+- [BGH, Beschluss vom 09.02.2024 - I ZA 1/24](i-za-1-24.md) — BGH, Beschluss I ZA 1/24
+- [BGH, EuGH-Vorlage vom 08.02.2024 - I ZR 34/23](i-zr-34-23.md) — Seniorenwohnheim Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 3 Abs. 1 der Richtlinie 2001/29/EG des Europäischen Parlaments und des Rat
+- [BGH, Urteil vom 08.02.2024 - I ZR 91/23](i-zr-91-23.md) — Großhandelszuschläge II 1. Nach der Vorschrift des § 2 Abs. 1 Satz 1 AMPreisV in der seit dem 11. Mai 2019 geltenden Fassung hat der pharmazeutische Großhandel 
+- [BGH, Beschluss vom 01.02.2024 - I ZB 5/24](i-zb-5-24.md) — BGH, Beschluss I ZB 5/24
+- [BGH, Beschluss vom 25.01.2024 - I ZB 51/23](i-zb-51-23.md) — Wiedereinsetzung in den vorigen Stand: Ungenaue Glaubhaftmachung der Unmöglichkeit der Übermittlung eines Berufungsbegründungsfristverlängerungsantrags
+- [BGH, Beschluss vom 24.01.2024 - I ZB 74/23](i-zb-74-23.md) — BGH, Beschluss I ZB 74/23
+- [BGH, Beschluss vom 24.01.2024 - I ZB 92/23](i-zb-92-23.md) — BGH, Beschluss I ZB 92/23
+- [BGH, Urteil vom 23.01.2024 - I ZR 147/22](i-zr-147-22.md) — Eindrehpapier Die Vorschrift des § 8 Abs. 3 Nr. 2 UWG ist nicht dahingehend teleologisch zu reduzieren, dass stets allein die in ihrem individuellen Schutzinter
+- [BGH, Beschluss vom 22.01.2024 - I ZB 90/23](i-zb-90-23.md) — BGH, Beschluss I ZB 90/23
+- [BGH, Beschluss vom 22.01.2024 - I ZB 91/23](i-zb-91-23.md) — BGH, Beschluss I ZB 91/23
+- [BGH, Beschluss vom 11.01.2024 - I ZB 69/23](i-zb-69-23.md) — BGH, Beschluss I ZB 69/23
+- [BGH, Beschluss vom 11.01.2024 - I ZB 80/23](i-zb-80-23.md) — BGH, Beschluss I ZB 80/23
+- [BGH, Beschluss vom 11.01.2024 - I ZB 81/23](i-zb-81-23.md) — BGH, Beschluss I ZB 81/23
+- [BGH, Beschluss vom 11.01.2024 - I ZB 87/23](i-zb-87-23.md) — BGH, Beschluss I ZB 87/23
+- [BGH, Beschluss vom 11.01.2024 - I ZB 88/23](i-zb-88-23.md) — BGH, Beschluss I ZB 88/23
+- [BGH, Beschluss vom 09.01.2024 - I ZB 24/23](i-zb-24-23.md) — BGH, Beschluss I ZB 24/23
+- [BGH, Beschluss vom 09.01.2024 - I ZB 86/23](i-zb-86-23.md) — BGH, Beschluss I ZB 86/23
+- [BGH, Beschluss vom 08.01.2024 - I ZB 114/22](i-zb-114-22.md) — BGH, Beschluss I ZB 114/22
+- [BGH, Beschluss vom 04.01.2024 - I ZB 68/23](i-zb-68-23.md) — BGH, Beschluss I ZB 68/23
+- [BGH, Beschluss vom 03.01.2024 - I ZB 85/23](i-zb-85-23.md) — BGH, Beschluss I ZB 85/23
+- [BGH, Beschluss vom 02.01.2024 - I ZB 83/23](i-zb-83-23.md) — BGH, Beschluss I ZB 83/23

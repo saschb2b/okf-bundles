@@ -1,0 +1,76 @@
+# I. Zivilsenat – 2019
+
+72 Entscheidung(en).
+
+- [BGH, EuGH-Vorlage vom 19.12.2019 - I ZB 78/18](i-zb-78-18.md) — Spreewälder Gurken Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 53 Abs. 2 Unterabsatz 1 in Verbindung mit Art. 49 Abs. 3 Unterabsatz 1 u
+- [BGH, Beschluss vom 19.12.2019 - I ZB 90/18](i-zb-90-18.md) — Anhörungsrüge wegen einer Entscheidung im Rechtsbeschwerdeverfahren ohne mündliche Verhandlung
+- [BGH, Urteil vom 19.12.2019 - I ZR 163/16](i-zr-163-16.md) — Rückrufsystem II Hat der Verbraucher beim Bestellvorgang in einem Onlineshop vor Abschluss der Bestellung die Möglichkeit, einen mit "Kontaktieren Sie uns" geke
+- [BGH, Beschluss vom 19.12.2019 - I ZR 94/19](i-zr-94-19.md) — Nichtzulassungsbeschwerde: Beschwer bei wettbewerbswidriger Autowerbung in sozialem Netzwerk
+- [BGH, Urteil vom 28.11.2019 - I ZR 23/19](i-zr-23-19.md) — Pflichten des Batterieherstellers 1. Das in § 4 Abs. 1 Satz 1 BattG geregelte Verbot des Vertriebs von Batterien ohne vorangegangene Anzeige gegenüber dem Umwel
+- [BGH, Beschluss vom 28.11.2019 - I ZR 35/19](i-zr-35-19.md) — Grundsatz der Subsidiarität im Zivilprozess
+- [BGH, Beschluss vom 28.11.2019 - I ZR 43/19](i-zr-43-19.md) — Wettbewerbsverstoß eines Online-Versandhändlers: Erforderlicher zeitlicher und räumlich-funktionaler Zusammenhang zwischen den Pflichtangaben über wesentliche M
+- [BGH, Beschluss vom 14.11.2019 - I ZB 54/19](i-zb-54-19.md) — Gehörsverstoß bei Nichtzahlung von Schiedsgebühren
+- [BGH, Beschluss vom 14.11.2019 - I ZR 89/19](i-zr-89-19.md) — Hinweispflichten bei Frage der Verkehrsdurchsetzung einer Marke
+- [BGH, Urteil vom 07.11.2019 - I ZR 42/19](i-zr-42-19.md) — Sportwetten in Gaststätten 1. Sportwett-Terminals sind keine Geldspielgeräte im Sinne von § 3 Abs. 1 Satz 1 SpielV. 2. Die Vorschrift des § 21 Abs. 2 GlüStV ist
+- [BGH, Beschluss vom 23.10.2019 - I ZB 60/18](i-zb-60-18.md) — 1. Ein nicht prozessfähiger Schuldner kann bei der Abgabe der Vermögensauskunft und der eidesstattlichen Versicherung gemäß § 51 Abs. 3 ZPO auch durch einen Vor
+- [BGH, Beschluss vom 17.10.2019 - I ZB 19/19](i-zb-19-19.md) — Zwangsvollstreckung aus einer wettbewerbsrechtlichen Unterlassungsverfügung: Umfang der Verpflichtung des Unterlassungsschuldners zum Rückruf von Produkten und 
+- [BGH, Urteil vom 17.10.2019 - I ZR 34/18](i-zr-34-18.md) — Valentins 1. Für eine schriftliche Dokumentation des Abschlusses eines Lizenzvertrags genügt eine schriftliche Vereinbarung, der sich im Wege der ergänzenden Ve
+- [BGH, Urteil vom 17.10.2019 - I ZR 44/19](i-zr-44-19.md) — Sonntagsverkauf von Backwaren Unbelegte Brötchen und Brot sind zubereitete Speisen, die ein Bäckereibetrieb mit angeschlossenem Café nach § 7 Abs. 2 Nr. 1 GastG
+- [BGH, Versäumnisurteil vom 02.10.2019 - I ZR 19/19](i-zr-19-19.md) — Wettbewerbsverstoß: Vereinbarung eines Erfolgshonorars für einen Versicherungsberater bei einem Tarifwechsel in der privaten Krankenversicherung
+- [BGH, Beschluss vom 19.09.2019 - I ZB 4/19](i-zb-4-19.md) — 1. Ein Antrag nach § 1032 Abs. 2 ZPO kann konkret die Frage der Zulässigkeit eines Schiedsverfahrens im Hinblick auf den Streitgegenstand, zum Beispiel Ansprüch
+- [BGH, Beschluss vom 19.09.2019 - I ZB 6/19](i-zb-6-19.md) — Verfahrensaussetzung wegen Vorgreiflichkeit einer Nichtigkeitsklage vor dem EuGH
+- [BGH, Urteil vom 19.09.2019 - I ZR 116/18](i-zr-116-18.md) — Chickenwings 1. Hat der Geschädigte im Feststellungsverfahren keine konkreten Schadenspositionen mitgeteilt, ist der Schädiger im Betragsverfahren hinsichtlich 
+- [BGH, Beschluss vom 19.09.2019 - I ZR 53/18](i-zr-53-18.md) — (Anlasslose Verschlüsselungspflicht bei einem gewerblichen Internetzugang)
+- [BGH, Urteil vom 19.09.2019 - I ZR 64/18](i-zr-64-18.md) — 1. Ein Verspätungsschaden im Sinne des Art. 23 Abs. 5 CMR, der mit einem außerdem entstehenden Güterschaden im Sinne von Art. 23 Abs. 1 CMR zusammentrifft, ohne
+- [BGH, Beschluss vom 12.09.2019 - I ZR 28/19](i-zr-28-19.md) — Beiordnung eines Notanwalts: Mandatsniederlegung des Rechtsanwalts beim BGH wegen unterschiedlicher Auffassungen zur Nichtzulassungsbeschwerdebegründung
+- [BGH, Beschluss vom 12.09.2019 - I ZR 29/19](i-zr-29-19.md) — BGH, Beschluss I ZR 29/19
+- [BGH, Beschluss vom 25.07.2019 - I ZB 82/18](i-zb-82-18.md) — 1. Die Vorschrift des Art. 31 Abs. 2 CMR, die eine Rechtshängigkeitssperre und die Einrede der Rechtskraft für gleiche Streitgegenstände in Verfahren wegen ders
+- [BGH, Beschluss vom 23.07.2019 - I ZB 1/16](i-zb-1-16.md) — Streitwert in Verfahren auf Vollstreckbarerklärung von Schiedssprüchen
+- [BGH, Beschluss vom 18.07.2019 - I ZB 104/18](i-zb-104-18.md) — Gebühr für Einigungsversuch Wird der Versuch einer gütlichen Erledigung nicht als isolierte Vollstreckungsmaßnahme in einem gesonderten Vollstreckungsauftrag be
+- [BGH, Beschluss vom 04.07.2019 - I ZB 71/18](i-zb-71-18.md) — Die Aufenthaltsermittlung gemäß Modul L der Anlage zur Gerichtsvollzieherformular-Verordnung stellt keine selbständige Maßnahme der Zwangsvollstreckung, sondern
+- [BGH, Urteil vom 04.07.2019 - I ZR 149/18](i-zr-149-18.md) — Umwelthilfe 1. Ob ein beanstandetes Verhalten eines Verbraucherverbands bei der Anspruchsverfolgung unter dem Gesichtspunkt des Rechtsmissbrauchs (§ 8 Abs. 4 Sa
+- [BGH, Beschluss vom 25.06.2019 - I ZR 91/18](i-zr-91-18.md) — Voraussetzungen einer Beschränkung der Revisionszulassung
+- [BGH, Beschluss vom 06.06.2019 - I ZB 30/18](i-zb-30-18.md) — Urheberrechtsstreit: Unrichtige Belehrung über das zuständige Rechtsmittelgericht
+- [BGH, Urteil vom 06.06.2019 - I ZR 150/18](i-zr-150-18.md) — Der Novembermann Lässt der Rechtsinhaber gegenüber unterschiedlichen, rechtlich oder wirtschaftlich nicht verbundenen Unternehmen oder Personen in engem zeitlic
+- [BGH, Urteil vom 06.06.2019 - I ZR 151/18](i-zr-151-18.md) — Rechtsanwaltskosten bei Urheberrechtsverletzungen: Eine gebührenrechtliche Angelegenheit bei Abmahnung verschiedener Vertriebsunternehmen
+- [BGH, Beschluss vom 06.06.2019 - I ZR 159/18](i-zr-159-18.md) — (Streitwert bei Eingrenzung eines wettbewerbsrechtlichen Unterlassungsantrags auf konkrete Verletzungsform)
+- [BGH, Urteil vom 06.06.2019 - I ZR 206/17](i-zr-206-17.md) — Brötchen-Gutschein 1. Gemäß Art. 4 Abs. 3 der Richtlinie 2001/83/EG zur Schaffung eines Gemeinschaftskodexes für Humanarzneimittel bleiben nationale Vorschrifte
+- [BGH, Urteil vom 06.06.2019 - I ZR 216/17](i-zr-216-17.md) — Identitätsdiebstahl 1. Die Aufforderung zur Bezahlung nicht bestellter Dienstleistungen ist als irreführende geschäftliche Handlung im Sinne von § 5 Abs. 1 Satz
+- [BGH, Urteil vom 06.06.2019 - I ZR 60/18](i-zr-60-18.md) — Wettbewerbsrechtliche Zulässigkeit einer Gewährung eines Ein-Euro-Gutscheins durch einen Apotheker
+- [BGH, Urteil vom 06.06.2019 - I ZR 67/18](i-zr-67-18.md) — Erfolgshonorar für Versicherungsberater 1. Ausnahmsweise kann ein wettbewerbsrechtlicher Unterlassungsanspruch von einem Unternehmen auf ein anderes im Wege der
+- [BGH, Beschluss vom 29.05.2019 - I ZB 30/19](i-zb-30-19.md) — (Einstellung der Zwangsvollstreckung vor Eingang der Rechtsmittelbegründung)
+- [BGH, Urteil vom 29.05.2019 - I ZR 194/18](i-zr-194-18.md) — Der Gerichtsstand gemäß Art. 31 Abs. 1 Satz 1 Buchst. b CMR ist auch für den gegen den Haftpflichtversicherer des Frachtführers nach dem insoweit anwendbaren na
+- [BGH, Beschluss vom 16.05.2019 - I ZB 79/18](i-zb-79-18.md) — Der Gläubiger, der im Zwangsvollstreckungsverfahren isoliert die Einholung von Drittauskünften beantragt, hat vorzutragen, nach welcher der Alternativen des § 8
+- [BGH, Beschluss vom 09.05.2019 - I ZB 83/18](i-zb-83-18.md) — Kosten des Patentanwalts V Werden in erster Linie nichtkennzeichenrechtliche Ansprüche (hier: namensrechtliche Ansprüche) und hilfsweise kennzeichenrechtliche A
+- [BGH, Urteil vom 09.05.2019 - I ZR 205/17](i-zr-205-17.md) — Prozessfinanzierer II 1. Die Gewinnabschöpfungsklage eines Verbraucherverbands, die von einem gewerblichen Prozessfinanzierer finanziert wird, dem im Fall des O
+- [BGH, EuGH-Vorlage vom 25.04.2019 - I ZR 113/18](i-zr-113-18.md) — Deutsche Digitale Bibliothek Dem Gerichtshof der Europäischen Union wird zur Auslegung des Art. 3 Abs. 1 der Richtlinie 2001/29/EG des Europäischen Parlaments u
+- [BGH, Beschluss vom 25.04.2019 - I ZR 170/18](i-zr-170-18.md) — Verletzung des rechtlichen Gehörs: Nichtberücksichtigung eines Beweisangebots; Schlüssigkeit des Sachvortrags zur Begründung des Klageanspruchs; vorweggenommene
+- [BGH, Urteil vom 25.04.2019 - I ZR 23/18](i-zr-23-18.md) — WifiSpot In der Aktivierung eines zweiten WLAN-Signals auf dem von einem Telekommunikationsdienstleister seinen Kunden zur Verfügung gestellten WLAN-Router, das
+- [BGH, Urteil vom 25.04.2019 - I ZR 272/15](i-zr-272-15.md) — 1. Die Vergabe von Stipendien für hochbegabte Hochschulstudenten erfordert eine Auswahlentscheidung, bei der die persönlichen Umstände der Bewerber im Vordergru
+- [BGH, Urteil vom 25.04.2019 - I ZR 93/17](i-zr-93-17.md) — Prämiensparverträge 1. Zur Täuschung geeignete Angaben im Sinne von § 5 Abs. 1 Satz 2 Fall 2 UWG sind nicht nur Tatsachenbehauptungen, sondern unter bestimmten 
+- [BGH, Beschluss vom 11.04.2019 - I ZR 186/17](i-zr-186-17.md) — Aussetzung des Verfahrens wegen Vorabentscheidungsersuchen an EuGH
+- [BGH, Beschluss vom 11.04.2019 - I ZR 205/18](i-zr-205-18.md) — Beschwer im Rechtsmittelverfahren: Bemessung des Rechtsmittelstreitswerts bei Verurteilung des Beklagten nach dem Klageantrag und Abweisung der Hilfswiderklage
+- [BGH, Beschluss vom 28.03.2019 - I ZB 51/18](i-zb-51-18.md) — Schiedsgerichtsklausel: Erstreckung auf Nachträge zum Vertrag
+- [BGH, Beschluss vom 28.03.2019 - I ZB 63/18](i-zb-63-18.md) — 1. Treibt der Gerichtsvollzieher vom Schuldner die Forderung des Gläubigers einschließlich der Kosten bei, ist die Zwangsvollstreckung beendet. Damit entfällt f
+- [BGH, Beschluss vom 28.03.2019 - I ZB 81/18](i-zb-81-18.md) — Rechtsanwaltsgebühren im Zwangsvollstreckungsverfahren: Antrag auf Einholung von Drittauskünften als besondere Angelegenheit; analoge Anwendbarkeit der Wertgren
+- [BGH, Urteil vom 28.03.2019 - I ZR 132/17](i-zr-132-17.md) — Testversion Das Bereithalten eines Computerprogramms zum Abruf auf einem Downloadportal stellt eine öffentliche Wiedergabe in Form des öffentlichen Zugänglichma
+- [BGH, Beschluss vom 28.03.2019 - I ZR 179/18](i-zr-179-18.md) — Rückzahlungsklage gegen einen Immobilienmakler wegen der Zahlung einer "Reservierungsgebühr": Bestreiten einer von einem Mitarbeiter des Maklers versandten E-Ma
+- [BGH, Urteil vom 28.03.2019 - I ZR 44/18](i-zr-44-18.md) — Wettbewerbsverstoß: Bewerbung von Kaffeekapseln ohne Angabe des Grundpreises für das enthaltene Kaffeepulver
+- [BGH, Urteil vom 28.03.2019 - I ZR 85/18](i-zr-85-18.md) — Kaffeekapseln 1. Soweit eine spezialgesetzliche Pflicht zur Angabe der Füllmenge nach Gewicht einer im Sinne von § 2 Abs. 1 Satz 1 PAngV angebotenen Fertigpacku
+- [BGH, Urteil vom 14.03.2019 - I ZR 134/18](i-zr-134-18.md) — 1. Der Entgeltanspruch des Wohnungsvermittlers nach § 2 Abs. 1 WoVermittG setzt den Abschluss eines wirksamen Maklervertrags zwischen dem Wohnungsvermittler und
+- [BGH, Beschluss vom 14.03.2019 - I ZR 167/18](i-zr-167-18.md) — Gehörsverletzung bei Beurteilung der irreführenden Verwendung des Internetauftritts "Anwaltsforum Patientenanwälte"
+- [BGH, EuGH-Vorlage vom 07.03.2019 - I ZR 169/17](i-zr-169-17.md) — Vorabentscheidungsersuchen an den EuGH zur Auslegung der Richtlinie über die Rechte der Verbraucher: Verfügbarkeit einer Telefonnummer im Sinne des Gestaltungsh
+- [BGH, Urteil vom 21.02.2019 - I ZR 15/18](i-zr-15-18.md) — Schmerzensgeld für die Beseitigung eines urheberrechtlich geschützten Kunstwerkes
+- [BGH, EuGH-Vorlage vom 21.02.2019 - I ZR 153/17](i-zr-153-17.md) — YouTube-Drittauskunft Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 8 Abs. 2 Buchst. a der Richtlinie 2004/48/EG des Europäischen Parlame
+- [BGH, Urteil vom 21.02.2019 - I ZR 98/17](i-zr-98-17.md) — HHole (for Mannheim) 1. Die Vernichtung eines urheberrechtlich geschützten Werks stellt eine "andere Beeinträchtigung" im Sinne des § 14 UrhG dar. Bei der Prüfu
+- [BGH, Urteil vom 21.02.2019 - I ZR 99/17](i-zr-99-17.md) — Urheberpersönlichkeitsrecht eines Künstlers: Entfernung einer mit dem Gebäude unlösbar verbundenen Lichtinstallation auf dem Dach einer Kunsthalle und Wiederher
+- [BGH, Beschluss vom 14.02.2019 - I ZB 33/18](i-zb-33-18.md) — 1. Die Bestimmung des § 301 ZPO gehört nicht zu den unverzichtbaren Normen für ein ordnungsgemäßes Verfahren. 2. Offen bleibt, ob der verfahrensrechtliche ordre
+- [BGH, Beschluss vom 14.02.2019 - I ZB 34/17](i-zb-34-17.md) — KNEIPP 1. Die Feststellung, dass ein Name als Synonym für eine bestimmte Methode benutzt wird und sich zu einer Gattungsbezeichnung entwickelt hat, unterliegt s
+- [BGH, Urteil vom 14.02.2019 - I ZR 6/17](i-zr-6-17.md) — Kündigung der Unterlassungsvereinbarung 1. Ein rechtsmissbräuchliches Verhalten bei einer Abmahnung kann einen wichtigen Grund für die Kündigung einer auf der A
+- [BGH, Beschluss vom 13.02.2019 - I ZR 192/17](i-zr-192-17.md) — Zulässigkeit einer Anhörungsrüge gegen die Zurückweisung einer Nichtzulassungsbeschwerde: Anforderungen an die Darlegung einer neuen und eigenständigen Gehörsve
+- [BGH, Beschluss vom 31.01.2019 - I ZB 46/18](i-zb-46-18.md) — Verletzt ein Schiedsrichter oder ein Sachverständiger seine Offenbarungspflicht, kann sich daraus ein selbstständiger Grund für seine Ablehnung nur ergeben, sof
+- [BGH, Beschluss vom 31.01.2019 - I ZB 58/18](i-zb-58-18.md) — Future-Institute Die Entscheidung, die feststellt, dass die Beschwerde mangels Zahlung der Beschwerdegebühr als nicht eingelegt gilt (§ 6 Abs. 2 PatKostG), kann
+- [BGH, Urteil vom 31.01.2019 - I ZR 97/17](i-zr-97-17.md) — Das Omen 1. Aus der engen Verbindung von Titel und Werk ergibt sich, dass die Zuordnung der Inhaberschaft am Werktitel der Werkzuordnung folgt. Es ist deshalb d
+- [BGH, Beschluss vom 24.01.2019 - I ZB 2/15](i-zb-2-15.md) — BGH, Beschluss I ZB 2/15
+- [BGH, Beschluss vom 24.01.2019 - I ZB 47/18](i-zb-47-18.md) — Anforderungen an eine Fristenkontrolle in einem Anwaltsbüro
+- [BGH, Urteil vom 24.01.2019 - I ZR 160/17](i-zr-160-17.md) — 1. Der Makler, der aufgrund eines Makleralleinauftrags damit beauftragt ist, dem Verkäufer Kaufinteressenten für ein Grundstück nachzuweisen oder zu vermitteln,

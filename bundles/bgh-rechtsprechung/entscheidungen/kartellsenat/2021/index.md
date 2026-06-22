@@ -1,0 +1,45 @@
+# Kartellsenat – 2021
+
+41 Entscheidung(en).
+
+- [BGH, Urteil vom 14.12.2021 - KZR 2/19](kzr-2-19.md) — Zurückverweisung an das Berufungsgericht: Umfang der Bindung an die rechtliche Beurteilung des Revisionsgerichts; Selbstbindung des Revisionsgerichts; Feststell
+- [BGH, Urteil vom 14.12.2021 - KZR 23/18](kzr-23-18.md) — Kabelkanalanlagen II Sind die Voraussetzungen des § 19 Abs. 2 Nr. 2 GWB erfüllt, kann der dann tatbestandsmäßig vorliegende Missbrauch weder gesetzessystematisc
+- [BGH, Beschluss vom 07.12.2021 - EnVR 51/20](envr-51-20.md) — Unabhängigkeit der Bundesnetzagentur: Auslegung der Vorschriften der Anreizregulierungsverordnung; Umfang der gerichtlichen Überprüfung
+- [BGH, Beschluss vom 07.12.2021 - EnVR 6/21](envr-6-21.md) — Kapitalkostenabzug 1. Die Vorgabe des § 34 Abs. 5 Satz 1 ARegV in der bis zum 30. Juli 2021 geltenden Fassung (aF), § 6 Abs. 3 ARegV für die Dauer der dritten R
+- [BGH, Beschluss vom 29.11.2021 - EnVR 69/21](envr-69-21.md) — Energiewirtschaftsrechtliche Verwaltungssache: Antrag auf Erlass einer prozessualen Zwischenverfügung zur erneuten Anordnung der aufschiebenden Wirkung der Besc
+- [BGH, Beschluss vom 23.11.2021 - EnVR 91/20](envr-91-20.md) — Netzreservekapazität II 1. Die Stromnetzentgeltverordnung verpflichtet Netzbetreiber nicht, die Bestellung von Netzreservekapazität zu reduzierten Entgelten zu 
+- [BGH, Beschluss vom 09.11.2021 - EnVR 36/20](envr-36-20.md) — Genehmigung der Investitionsmaßnahme Die Übergangsregelung in § 34 Abs. 11 Satz 3 ARegV in der seit dem 22. März 2019 geltenden Fassung ist auch auf Investition
+- [BGH, Beschluss vom 26.10.2021 - EnVR 17/20](envr-17-20.md) — Genereller sektoraler Produktivitätsfaktor II 1. § 9 ARegV findet auch nach der Entscheidung des Gerichtshofs der Europäischen Union vom 2. September 2021 (Abgr
+- [BGH, Beschluss vom 12.10.2021 - EnVR 76/20](envr-76-20.md) — Erweiterungsfaktor IV Für die Anwendung des § 10 Abs. 2 Satz 2 Nr. 2 und 4 ARegV ist jede Kundenstation als ein Anschluss- und ein Einspeisepunkt zu zählen, una
+- [BGH, Urteil vom 12.10.2021 - EnZR 43/20](enzr-43-20.md) — Stadt Bargteheide 1. Beteiligt sich die Gemeinde mit einem Eigenbetrieb oder einer Eigengesellschaft am Wettbewerb um das kommunale Wegenetz zur leitungsgebunde
+- [BGH, Beschluss vom 21.09.2021 - KVZ 87/20](kvz-87-20.md) — BGH, Beschluss KVZ 87/20
+- [BGH, Urteil vom 21.09.2021 - KZR 88/20](kzr-88-20.md) — Trassenentgelte II 1. Wendet ein marktbeherrschendes Unternehmen, das über eine wesentliche Infrastruktureinrichtung verfügt und damit in der Lage ist, die Bedi
+- [BGH, Urteil vom 07.09.2021 - EnZR 29/20](enzr-29-20.md) — Gasnetz Rösrath 1. Die eine Konzession vergebende Gemeinde war schon vor Inkrafttreten des § 47 EnWG verpflichtet, den unterlegenen Bietern Auskunft darüber zu 
+- [BGH, Beschluss vom 06.07.2021 - EnVR 44/20](envr-44-20.md) — Festlegung der Netzentgelte durch die Bundesnetzagentur: Verhältnis von Netzentgeltfestlegung und EEG-Ausgleichsmechanismus
+- [BGH, Beschluss vom 06.07.2021 - EnVR 45/20](envr-45-20.md) — EEG-Ausgleichsmechanismus Forderungen und Verbindlichkeiten des Übertragungsnetzbetreibers aus der Umsetzung des der Förderung von Strom aus erneuerbaren Energi
+- [BGH, EuGH-Vorlage vom 06.07.2021 - EnZR 27/20](enzr-27-20.md) — Energy from Waste I Dem Gerichtshof der Europäischen Union werden zur Auslegung des Art. 16 Abs. 2 der Richtlinie 2009/28/EG des Europäischen Parlaments und des
+- [BGH, Urteil vom 06.07.2021 - KZR 11/18](kzr-11-18.md) — wilhelm.tel Für einen Verstoß gegen das Diskriminierungsverbot reicht es aus, dass die durch wettbewerbskonforme Gründe nicht gerechtfertigte erhebliche Ungleic
+- [BGH, Urteil vom 06.07.2021 - KZR 35/20](kzr-35-20.md) — Porsche-Tuning II 1. Erheblich im Sinne des § 33 Abs. 4 Nr. 1 Buchst. a GWB ist eine Anzahl betroffener Unternehmen dann, wenn sie in der Weise repräsentativ si
+- [BGH, Urteil vom 22.06.2021 - KZR 66/15](kzr-66-15.md) — Überprüfung von Stationsentgelten für den Zugang zur Eisenbahninfrastruktur: Zulässigkeit einer Billigkeitskontrolle; Anwendbarkeit des kartellrechtlichen Missb
+- [BGH, Urteil vom 22.06.2021 - KZR 72/15](kzr-72-15.md) — Stationspreissystem III 1. Bei der Anwendung des Missbrauchsverbots nach Art. 102 AEUV auf das Preisverhalten eines marktbeherrschenden Anbieters von Schienenin
+- [BGH, Beschluss vom 18.05.2021 - KVR 54/20](kvr-54-20.md) — Booking.com 1. Die von einer Hotelbuchungsplattform verwendete "enge Bestpreisklausel", die zwar günstigere Preise auf anderen Online-Reservierungsportalen oder
+- [BGH, Beschluss vom 04.05.2021 - EnVR 14/20](envr-14-20.md) — Erweiterungsfaktor III 1. Auf bis zum 30. Juni 2013 gestellte Anträge auf Anpassung der Erlösobergrenze für die zweite Regulierungsperiode, mit der eine bereits
+- [BGH, Beschluss vom 04.05.2021 - EnVR 22/20](envr-22-20.md) — Erweiterungsfaktor II Ist einem Gasverteilernetzbetreiber bei einer Kostenerhöhung von mindestens 0,5 % der Gesamtkosten (Kostengrenze) wegen einer Erhöhung der
+- [BGH, Urteil vom 13.04.2021 - KZR 19/20](kzr-19-20.md) — LKW-Kartell II 1. Der Erfahrungssatz, dass im Rahmen eines Kartells erzielte Marktpreise im Schnitt über denjenigen liegen, die sich ohne die wettbewerbsbeschrä
+- [BGH, Urteil vom 13.04.2021 - KZR 20/20](kzr-20-20.md) — Kartellrechtlicher Schadensersatzanspruch: Schadensersatz wegen Erwerbs eines Lastkraftwagens vom einem Teilnehmer am so genannten Lkw-Kartell; Beachtlichkeit d
+- [BGH, Urteil vom 13.04.2021 - KZR 40/19](kzr-40-19.md) — Kartellschadensersatz im sog. Kölner Fall vergaberechtswidriger Preisabsprachen zur Lieferung von Gleisoberbaumaterialien für den öffentlichen Nahverkehr: Tatsä
+- [BGH, Urteil vom 13.04.2021 - KZR 42/19](kzr-42-19.md) — Kartellschadensersatz: Grundurteil über Ansprüche aus mehreren Beschaffungsvorgängen im Rahmen eines Schienenkartells
+- [BGH, Versäumnisurteil vom 13.04.2021 - KZR 69/18](kzr-69-18.md) — Kartellschadensersatz: Anscheinsbeweis und tatsächliche Vermutung für die Schadensentstehung bei einem Schienenkartell
+- [BGH, Urteil vom 13.04.2021 - KZR 96/18](kzr-96-18.md) — Kartellschadensersatzanspruch: Haftung der an einer Spaltung beteiligten Rechtsträger
+- [BGH, Beschluss vom 23.03.2021 - EnVR 74/19](envr-74-19.md) — Individuelles Netzentgelt V 1. Für rückwirkende Änderungen einer rechtswidrigen belastenden Festlegung der Bundesnetzagentur gelten unabhängig davon, ob sie auf
+- [BGH, Beschluss vom 23.03.2021 - EnVR 85/19](envr-85-19.md) — Energiewirtschaftsrechtliche Verwaltungssache: Rückwirkende Änderung der Festlegung individueller Netzentgelte bei Rechtsprechungsänderung
+- [BGH, Urteil vom 09.03.2021 - KZR 55/19](kzr-55-19.md) — Gasnetz Berlin 1. Hat bei der Vergabe der Konzession für ein Strom- oder Gasnetz die Gemeinde die Vergabekriterien materiell und formell rechtmäßig bestimmt und
+- [BGH, Beschluss vom 08.03.2021 - KVR 96/20](kvr-96-20.md) — Kartellverwaltungssache: Kostenentscheidung bei Rücknahme der Rechtsbeschwerde und offenem Verfahrensausgang - "Facebook-Hängebeschluss"
+- [BGH, Beschluss vom 23.02.2021 - EnVR 6/20](envr-6-20.md) — 1. Bei der Ermittlung individueller Netzentgelte nach der Methode des physikalischen Pfads kann eine Erzeugungsanlage im Ausland nicht berücksichtigt werden. 2.
+- [BGH, Urteil vom 10.02.2021 - KZR 63/18](kzr-63-18.md) — Schienenkartell VI 1. Eine Klausel, nach der der Auftragnehmer, wenn er "aus Anlass der Vergabe nachweislich eine Abrede getroffen hat, die eine unzulässige Wet
+- [BGH, Urteil vom 10.02.2021 - KZR 66/17](kzr-66-17.md) — Wikingerhof/Booking.com 1. Macht der Kläger einen Anspruch wegen Missbrauchs einer marktbeherrschenden Stellung durch das beklagte Unternehmen geltend, ist der 
+- [BGH, Urteil vom 10.02.2021 - KZR 94/18](kzr-94-18.md) — Schadensersatz bei Quoten- und Kundenschutzkartell: Zulässigkeit und Begründetheit einer Feststellungsklage; Wirksamkeit einer Schadenspauschalierung mit 15 % d
+- [BGH, Beschluss vom 26.01.2021 - EnVR 101/19](envr-101-19.md) — Anreizregulierung im Gassektor: Festlegung eines generellen sektoralen Produktivitätsfaktors für Betreiber von Gasversorgungsnetzen durch die Bundesnetzagentur
+- [BGH, Beschluss vom 26.01.2021 - EnVR 7/20](envr-7-20.md) — Genereller sektoraler Produktivitätsfaktor 1. Der Bundesnetzagentur steht bei der Bestimmung der Methoden zur Ermittlung der ökonomischen Grundlagen für die Fes
+- [BGH, Beschluss vom 26.01.2021 - EnVR 72/19](envr-72-19.md) — Anreizregulierung im Gassektor: Festlegung eines generellen sektoralen Produktivitätsfaktors für Betreiber von Gasversorgungsnetzen durch die Bundesnetzagentur
+- [BGH, Beschluss vom 12.01.2021 - KVR 34/20](kvr-34-20.md) — CTS Eventim/Four Artists 1. Für die Verstärkung einer marktbeherrschenden Stellung genügt es, wenn die Marktmacht ausgleichende Wirkung des Wettbewerbs durch ei

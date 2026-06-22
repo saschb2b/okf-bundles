@@ -1,0 +1,57 @@
+# XII. Zivilsenat – 2004
+
+53 Entscheidung(en).
+
+- [BGH, Beschluss vom 22.12.2004 - XII ZA 25/03](xii-za-25-03.md) — Ablaufs der nach § 575 Abs. 1 ZPO einzuhaltenden Notfrist verspätet. Auch könnte einem etwaigen Antrag des Beklagten gemäß § 233 ZPO auf Wie
+- [BGH, Beschluss vom 22.12.2004 - XII ZR 107/02](xii-zr-107-02.md) — BGH, Beschluss vom 22.12.2004 - XII ZR 107/02
+- [BGH, Beschluss vom 15.12.2004 - XII ZB 166/03](xii-zb-166-03.md) — BGH, Beschluss vom 15.12.2004 - XII ZB 166/03
+- [BGH, Urteil vom 15.12.2004 - XII ZR 121/03](xii-zr-121-03.md) — Tatbestand: Die Klägerin verlangt von dem Beklagten Unterhalt nach § 1615 l BGB aus Anlaß der Geburt eines Kindes. Der Beklagte ist Vater de
+- [BGH, Beschluss vom 01.12.2004 - XII ZB 45/01](xii-zb-45-01.md) — BGH, Beschluss vom 01.12.2004 - XII ZB 45/01
+- [BGH, Beschluss vom 01.12.2004 - XII ZB 67/00](xii-zb-67-00.md) — BGH, Beschluss vom 01.12.2004 - XII ZB 67/00
+- [BGH, Urteil vom 10.11.2004 - XII ZR 71/01](xii-zr-71-01.md) — Tatbestand: Die Parteien streiten um rückständigen Mietzins für die Zeit von Juni bis Juli 1997 sowie von November 1997 bis Dezember 1999 un
+- [BGH, Beschluss vom 03.11.2004 - XII ZB 83/00](xii-zb-83-00.md) — BGH, Beschluss vom 03.11.2004 - XII ZB 83/00
+- [BGH, Beschluss vom 20.10.2004 - XII ZB 152/04](xii-zb-152-04.md) — BGH, Beschluss vom 20.10.2004 - XII ZB 152/04
+- [BGH, Beschluss vom 20.10.2004 - XII ZB 159/04](xii-zb-159-04.md) — BGH, Beschluss vom 20.10.2004 - XII ZB 159/04
+- [BGH, Beschluss vom 13.10.2004 - XII ZR 16/00](xii-zr-16-00.md) — eines offenkundigen Schreibfehlers - dahin berichtigt, daß auf Seite 7 im dritten Satz das dritte Wort Zwangsverwaltung statt Zwangsversteig
+- [BGH, Beschluss vom 06.10.2004 - XII ZB 110/99](xii-zb-110-99.md) — BGH, Beschluss vom 06.10.2004 - XII ZB 110/99
+- [BGH, Beschluss vom 06.10.2004 - XII ZB 133/04](xii-zb-133-04.md) — BGH, Beschluss vom 06.10.2004 - XII ZB 133/04
+- [BGH, Beschluss vom 06.10.2004 - XII ZB 139/04](xii-zb-139-04.md) — BGH, Beschluss vom 06.10.2004 - XII ZB 139/04
+- [BGH, Beschluss vom 08.09.2004 - XII ZB 144/04](xii-zb-144-04.md) — BGH, Beschluss vom 08.09.2004 - XII ZB 144/04
+- [BGH, Beschluss vom 08.09.2004 - XII ZB 93/04](xii-zb-93-04.md) — BGH, Beschluss vom 08.09.2004 - XII ZB 93/04
+- [BGH, Beschluss vom 01.09.2004 - XII ZR 73/01](xii-zr-73-01.md) — BGH, Beschluss vom 01.09.2004 - XII ZR 73/01
+- [BGH, Beschluss vom 04.08.2004 - XII ZB 44/04](xii-zb-44-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 44/04
+- [BGH, Beschluss vom 04.08.2004 - XII ZB 65/04](xii-zb-65-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 65/04
+- [BGH, Beschluss vom 04.08.2004 - XII ZB 73/04](xii-zb-73-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 73/04
+- [BGH, Beschluss vom 04.08.2004 - XII ZB 74/04](xii-zb-74-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 74/04
+- [BGH, Beschluss vom 04.08.2004 - XII ZB 75/04](xii-zb-75-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 75/04
+- [BGH, Beschluss vom 04.08.2004 - XII ZB 87/04](xii-zb-87-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 87/04
+- [BGH, Beschluss vom 04.08.2004 - XII ZB 92/04](xii-zb-92-04.md) — BGH, Beschluss vom 04.08.2004 - XII ZB 92/04
+- [BGH, Urteil vom 28.07.2004 - XII ZR 153/03](xii-zr-153-03.md) — Tatbestand: Die Klägerin zu 1 macht als Haftpflicht- und Kaskoversicherer der Klägerin zu 2 Schadensersatz aus übergegangenen, die Klägerin
+- [BGH, Urteil vom 28.07.2004 - XII ZR 163/03](xii-zr-163-03.md) — Tatbestand: Die Kläger sind Eigentümer und Vermieter eines Grundstücks in H.. Sie verlangen von der beklagten Mieterin Erstattung der Kosten
+- [BGH, Urteil vom 28.07.2004 - XII ZR 292/02](xii-zr-292-02.md) — Tatbestand:
+- [BGH, Beschluss vom 14.07.2004 - XII ZB 268/03](xii-zb-268-03.md) — BGH, Beschluss vom 14.07.2004 - XII ZB 268/03
+- [BGH, Urteil vom 14.07.2004 - XII ZR 257/01](xii-zr-257-01.md) — Tatbestand:
+- [BGH, Beschluss vom 07.07.2004 - XII ZB 12/03](xii-zb-12-03.md) — BGH, Beschluss vom 07.07.2004 - XII ZB 12/03
+- [BGH, Beschluss vom 07.07.2004 - XII ZB 277/03](xii-zb-277-03.md) — BGH, Beschluss vom 07.07.2004 - XII ZB 277/03
+- [BGH, Beschluss vom 09.06.2004 - XII ZB 170/03](xii-zb-170-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 170/03
+- [BGH, Beschluss vom 09.06.2004 - XII ZB 172/03](xii-zb-172-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 172/03
+- [BGH, Beschluss vom 09.06.2004 - XII ZB 178/03](xii-zb-178-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 178/03
+- [BGH, Beschluss vom 09.06.2004 - XII ZB 249/03](xii-zb-249-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 249/03
+- [BGH, Beschluss vom 09.06.2004 - XII ZB 256/03](xii-zb-256-03.md) — BGH, Beschluss vom 09.06.2004 - XII ZB 256/03
+- [BGH, Urteil vom 09.06.2004 - XII ZR 277/02](xii-zr-277-02.md) — Tatbestand: Die Klägerin verlangt vom Beklagten für die Zeit von Januar 1999 bis 19. Juli 2002 Unterhalt wegen Getrenntlebens. Die 1979 gesc
+- [BGH, Urteil vom 02.06.2004 - XII ZR 217/01](xii-zr-217-01.md) — Tatbestand: Die seit dem 8. Februar 2000 rechtskräftig geschiedenen Parteien, aus deren Ehe Kinder nicht hervorgegangen sind, streiten um na
+- [BGH, Beschluss vom 19.05.2004 - XII ZA 11/03](xii-za-11-03.md) — BGH, Beschluss vom 19.05.2004 - XII ZA 11/03
+- [BGH, Beschluss vom 19.05.2004 - XII ZB 11/04](xii-zb-11-04.md) — BGH, Beschluss vom 19.05.2004 - XII ZB 11/04
+- [BGH, Beschluss vom 19.05.2004 - XII ZB 14/03](xii-zb-14-03.md) — BGH, Beschluss vom 19.05.2004 - XII ZB 14/03
+- [BGH, Beschluss vom 19.05.2004 - XII ZB 155/02](xii-zb-155-02.md) — BGH, Beschluss vom 19.05.2004 - XII ZB 155/02
+- [BGH, Urteil vom 19.05.2004 - XII ZR 270/02](xii-zr-270-02.md) — Tatbestand: Die Parteien streiten um nachehelichen Ehegattenunterhalt für die Zeit ab Mai 1999. Das Amtsgericht hat der Klage überwiegend st
+- [BGH, Urteil vom 05.05.2004 - XII ZR 132/02](xii-zr-132-02.md) — im Wege der Differenzmethode in die Berechnung des nachehelichen Unterhalts einzubeziehen (im Anschluß an die Senatsurteile vom 13. Juni 200
+- [BGH, Beschluss vom 22.04.2004 - XII ZR 16/04](xii-zr-16-04.md) — BGH, Beschluss vom 22.04.2004 - XII ZR 16/04
+- [BGH, Beschluss vom 21.04.2004 - XII ZB 243/03](xii-zb-243-03.md) — BGH, Beschluss vom 21.04.2004 - XII ZB 243/03
+- [BGH, Urteil vom 21.04.2004 - XII ZR 251/01](xii-zr-251-01.md) — unbilliger Härte ausgeschlossen sein, wenn der Elternteil wegen einer auf seine Kriegserlebnisse zurückzuführenden psychischen Erkrankung ni
+- [BGH, Beschluss vom 24.03.2004 - XII ZB 286/03](xii-zb-286-03.md) — BGH, Beschluss vom 24.03.2004 - XII ZB 286/03
+- [BGH, Beschluss vom 24.03.2004 - XII ZB 287/03](xii-zb-287-03.md) — BGH, Beschluss vom 24.03.2004 - XII ZB 287/03
+- [BGH, Beschluss vom 24.03.2004 - XII ZB 288/03](xii-zb-288-03.md) — BGH, Beschluss vom 24.03.2004 - XII ZB 288/03
+- [BGH, Beschluss vom 25.02.2004 - XII ZB 208/00](xii-zb-208-00.md) — eines übersteigenden Ausgleichsanspruchs bleibt der Ehefrau der schuldrechtliche Versorgungsausgleich vorbehalten."
+- [BGH, Beschluss vom 18.02.2004 - XII ZB 182/03](xii-zb-182-03.md) — BGH, Beschluss vom 18.02.2004 - XII ZB 182/03
+- [BGH, Urteil vom 04.02.2004 - XII ZR 301/01](xii-zr-301-01.md) — Tatbestand:

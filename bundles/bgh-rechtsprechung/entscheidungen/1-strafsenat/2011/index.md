@@ -1,0 +1,96 @@
+# 1. Strafsenat – 2011
+
+92 Entscheidung(en).
+
+- [BGH, Urteil vom 21.12.2011 - 1 StR 400/11](1-str-400-11.md) — Abgrenzung zwischen Tötungsdelikt und gefährlicher Körperverletzung: Vorliegen des Willenselements des bedingten Tötungsvorsatzes; Rücktritt vom unbeendeten Töt
+- [BGH, Beschluss vom 20.12.2011 - 1 StR 547/11](1-str-547-11.md) — Strafverfahren: Einführung der polizeilichen Vernehmung eines Arztes in die Hauptverhandlung nach Widerruf der Entbindung von der Schweigepflicht
+- [BGH, Beschluss vom 15.12.2011 - 1 StR 579/11](1-str-579-11.md) — Zur Wertgrenze des Merkmals "in großem Ausmaß" des § 370 Abs. 3 Satz 2 Nr. 1 AO beim "Griff in die Kasse des Staates".
+- [BGH, Urteil vom 14.12.2011 - 1 StR 501/11](1-str-501-11.md) — Beweiswürdigung im Strafverfahren: Aussage-gegen-Aussage-Konstellation beim Vorwurf der gefährlichen Körperverletzung
+- [BGH, Beschluss vom 14.12.2011 - 1 StR 532/11](1-str-532-11.md) — Strafverfahren: Strafantragstellung in Fällen gemeinschaftlicher elterlicher Sorge
+- [BGH, Beschluss vom 29.11.2011 - 1 ARs 19/11](1-ars-19-11.md) — Strafbarkeit eines GmbH-Geschäftsführes wegen Bankrotts
+- [BGH, Urteil vom 29.11.2011 - 1 StR 287/11](1-str-287-11.md) — Strafverfahren: Transparenzgebot bei einer Verständigung zwischen Staatsanwaltschaft und Verteidigung außerhalb der Hauptverhandlung; Anforderungen an die Urtei
+- [BGH, Beschluss vom 29.11.2011 - 1 StR 459/11](1-str-459-11.md) — Steuerhinterziehung: Berichtigung des auf Grund unberechtigten Steuerausweises geschuldeten Umsatzsteuerbetrages; Strafzumessung bei Serientaten
+- [BGH, Urteil vom 09.11.2011 - 1 StR 302/11](1-str-302-11.md) — Strafverfahren: Wirksamkeit der Anklageschrift bei Bezugnahme auf fremdsprachige Urkunden
+- [BGH, Beschluss vom 09.11.2011 - 1 StR 524/11](1-str-524-11.md) — Bei einer Wahllichtbildvorlage sollten einem Zeugen Lichtbilder von wenigstens acht Personen vorgelegt werden. Dabei ist es vorzugswürdig, ihm diese nicht gleic
+- [BGH, Beschluss vom 31.10.2011 - 1 StR 399/11](1-str-399-11.md) — Strafverfahren: Anhörungsrüge gegen die Verwerfung der Revision
+- [BGH, Beschluss vom 25.10.2011 - 1 StR 254/10](1-str-254-10.md) — Vergütung des Pflichtverteidigers: Pauschgebühr für die Teilnahme an Hauptverhandlung vor dem BGH
+- [BGH, Beschluss vom 20.10.2011 - 1 StR 354/11](1-str-354-11.md) — Bankrottstraftaten: Buchführungs- und Bilanzdelikte eines GmbH-Geschäftsführers
+- [BGH, Beschluss vom 20.10.2011 - 1 StR 41/09](1-str-41-09.md) — Zur Versagung der Befreiung einer innergemeinschaftlichen Lieferung (§ 6a UStG) von der Umsatzsteuer bei der Verschleierung der Identität des wahren Erwerbers, 
+- [BGH, Beschluss vom 19.10.2011 - 1 StR 233/11](1-str-233-11.md) — Aussetzung durch im Stich lassen ist stets ein Unterlassungsdelikt; eine Strafrahmenmilderung gemäß § 13 Abs. 2 StGB ist nicht möglich, auch nicht, wenn der Tät
+- [BGH, Urteil vom 19.10.2011 - 1 StR 273/11](1-str-273-11.md) — Strafurteil wegen Mordes: Anforderungen an die tatrichterliche Beweiswürdigung bezüglich der Mordmerkmale Heimtücke und niedrige Beweggründe
+- [BGH, Urteil vom 19.10.2011 - 1 StR 336/11](1-str-336-11.md) — Verfallsanordnung: Aus der Tat erlangter Vermögenswert bei Provisionszahlungen aus einem „Schneeballsystem“
+- [BGH, Beschluss vom 19.10.2011 - 1 StR 476/11](1-str-476-11.md) — Beweisverwertungverbot im Strafverfahren: Beurteilungsspielraum der Strafverfolgungsbehörde hinsichtlich des Übergangs von der Zeugen- zur Beschuldigtenvernehmu
+- [BGH, Beschluss vom 13.10.2011 - 1 StR 407/11](1-str-407-11.md) — Strafmildernde Berücksichtigung ausländerrechtlicher Folgen der Tat sowie von Untersuchungshaft und Krankheit
+- [BGH, Urteil vom 11.10.2011 - 1 StR 134/11](1-str-134-11.md) — Körperverletzung mit Todesfolge: Rechtswidrigkeit eines ohne ordnungsgemäße Aufklärung durchgeführten ärztlichen Eingriffs
+- [BGH, Beschluss vom 07.10.2011 - 1 StR 321/11](1-str-321-11.md) — Strafverfahren: Konkrete Angaben über ausgeschiedene Tatteile bei Verfahrensbeschränkung durch Einstellung; strafbares Verschaffen von falschen amtlichen Auswei
+- [BGH, Urteil vom 28.09.2011 - 1 StR 129/11](1-str-129-11.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Annahme der Schuldunfähigkeit und die Gefährlichkeitsprognose bei jahrelangem verbotene
+- [BGH, Beschluss vom 21.09.2011 - 1 StR 367/11](1-str-367-11.md) — Die Vernehmung eines Arztes kann auch dann durch die Verlesung eines ärztlichen Attests ersetzt werden, wenn die ärztliche Sicht zu Schlüssen aus der attestiert
+- [BGH, Urteil vom 21.09.2011 - 1 StR 95/11](1-str-95-11.md) — Besonders schwere Brandstiftung: Voraussetzungen für die Annahme eines der Wohnung von Menschen dienenden Gebäudes
+- [BGH, Urteil vom 20.09.2011 - 1 StR 120/11](1-str-120-11.md) — Tötungsdelikt mit bedingtem Vorsatz: Äußerst gefährliche Gewalthandlung durch gezielten Messerstich in den Brustbereich des Opfers
+- [BGH, Urteil vom 20.09.2011 - 1 StR 71/11](1-str-71-11.md) — Unterbringung in einem psychiatrischen Krankenhaus und zusätzliche Sicherungsverwahrung; Erstattung der Auslagen des Nebenklägers bei Erfolglosigkeit der zuungu
+- [BGH, Urteil vom 08.09.2011 - 1 StR 38/11](1-str-38-11.md) — Revision im Strafverfahren wegen Umsatzsteuerhinterziehung: Fehlerhafter Teilfreispruch aufgrund widersprüchlicher und lückenhafter Beweiswürdigung des Erstgeri
+- [BGH, Beschluss vom 07.09.2011 - 1 StR 343/11](1-str-343-11.md) — Betrug: Voraussetzungen der Gewerbsmäßigkeit im Rahmen der Spendenwerbung für einen Verein
+- [BGH, Beschluss vom 07.09.2011 - 1 StR 388/11](1-str-388-11.md) — Strafverfahren: Gerichtsbesetzung bei der Nachholung der Eröffnungsentscheidung in der Hauptverhandlung
+- [BGH, Urteil vom 06.09.2011 - 1 StR 633/10](1-str-633-10.md) — Bestechung und Bestechlichkeit: Verjährungsbeginn; Beendigung der Tat
+- [BGH, Beschluss vom 26.08.2011 - 1 StR 327/11](1-str-327-11.md) — Hauptverhandlung im Strafverfahren: Erforderlichkeit eines Gerichtsbeschlusses für die Vorführung einer Bild-Ton-Aufzeichnung einer früheren richterlichen Verne
+- [BGH, Beschluss vom 24.08.2011 - 1 StR 317/11](1-str-317-11.md) — Strafzumessung: Berücksichtigung tilgungsreifer Vorstrafen bei Verhängung einer kurzen Freiheitsstrafe
+- [BGH, Beschluss vom 23.08.2011 - 1 StR 153/11](1-str-153-11.md) — Nach Übernahme eines Ermittlungsverfahrens durch die Bundesrepublik Deutschland ist eine in dem abgebenden Vertragsstaat der MRK bereits eingetretene rechtsstaa
+- [BGH, Beschluss vom 11.08.2011 - 1 StR 295/11](1-str-295-11.md) — Bei illegalen Beschäftigungsverhältnissen, die den Tatbestand des § 266a Abs. 2 erfüllen, wirkt die Unmöglichkeit der Beitragsentrichtung - anders als im origin
+- [BGH, Urteil vom 10.08.2011 - 1 StR 114/11](1-str-114-11.md) — Beweiswürdigung im freisprechenden Strafurteil: Anforderungen an die Darstellung einer Zeugenaussage in einem Fall von „Aussage gegen Aussage“
+- [BGH, Urteil vom 09.08.2011 - 1 StR 194/11](1-str-194-11.md) — Versuch eines Tötungsdelikts: Unmittelbares Ansetzen zur Tatausführung
+- [BGH, Beschluss vom 26.07.2011 - 1 StR 297/11](1-str-297-11.md) — Beweiserhebung im Strafverfahren: Vernehmung einer polizeilichen Vertrauensperson
+- [BGH, Beschluss vom 25.07.2011 - 1 StR 631/10](1-str-631-10.md) — 1. Eigenmächtigkeit des Entfernens im Sinne von § 231 Abs. 2 StPO kann vorliegen, wenn der Angeklagte aufgrund einer mittelgradigen depressiven Episode einen Su
+- [BGH, Beschluss vom 13.07.2011 - 1 StR 154/11](1-str-154-11.md) — Steuerhinterziehung: Anforderungen an die Urteilsgründe im Hinblick auf die Besteuerungsgrundlagen
+- [BGH, Beschluss vom 13.07.2011 - 1 StR 42/11](1-str-42-11.md) — Verfall: Gesamtschuldnerische Haftung mehrerer Täter bei einem eventuellen Auffangrechtserwerb des Staates
+- [BGH, Beschluss vom 12.07.2011 - 1 StR 274/11](1-str-274-11.md) — Strafverfahren wegen Steuerverkürzung: Zulässigkeit sogenannter "informeller Verständigungen"
+- [BGH, Beschluss vom 12.07.2011 - 1 StR 81/11](1-str-81-11.md) — Besonders schwerer Fall der Steuerhinterziehung: Wertgrenzen
+- [BGH, Beschluss vom 29.06.2011 - 1 StR 136/11](1-str-136-11.md) — Strafzumessung bei mehreren Betrugstaten: Gleich hohe Strafen trotz unterschiedlich hohen Schadens
+- [BGH, Beschluss vom 29.06.2011 - 1 StR 191/11](1-str-191-11.md) — Nachträgliche Gesamtstrafenbildung: Wiederholte Einbeziehung einer Einzelstrafe; Verweisung des Tatrichters auf Entscheidung im Beschlussweg nach Aufhebung des 
+- [BGH, Beschluss vom 28.06.2011 - 1 StR 282/11](1-str-282-11.md) — Zur vergleichenden Strafzumessung bei Tatbeteiligten .
+- [BGH, Beschluss vom 28.06.2011 - 1 StR 291/11](1-str-291-11.md) — Jugendstrafverfahren: Fehlerhafte Verkennung der Schwere der Schuld bei einer Raubtat Jugendlicher mit erheblicher Gewaltanwendung einschließlich Fußtritte gege
+- [BGH, Beschluss vom 28.06.2011 - 1 StR 37/11](1-str-37-11.md) — Gewerbsmäßige Steuerhehlerei: Verkauf geschmuggelter Zigaretten; Anordnung des Verfalls von Wertersatz
+- [BGH, Beschluss vom 14.06.2011 - 1 StR 90/11](1-str-90-11.md) — Beihilfe zum Vorenthalten von Arbeitsentgelt: Besonderes persönliches Merkmal der Arbeitgebereigenschaft
+- [BGH, Beschluss vom 09.06.2011 - 1 StR 21/11](1-str-21-11.md) — Steuerhinterziehung: Strafbarkeit und Strafzumessung bei gewerbsmäßiger Einfuhr unverzollt und unversteuert über Polen eingeführter Zigaretten
+- [BGH, Beschluss vom 08.06.2011 - 1 StR 122/11](1-str-122-11.md) — Strafverfahren wegen Steuerhinterziehung: Schuldfähigkeitsprüfung wegen Spielsucht
+- [BGH, Beschluss vom 08.06.2011 - 1 StR 213/11](1-str-213-11.md) — Vorenthalten von Arbeitsentgelt: Schätzung von Schwarzlöhnen
+- [BGH, Beschluss vom 07.06.2011 - 1 StR 236/11](1-str-236-11.md) — Strafzumessung bei banden- und gewerbsmäßigem Einschleusen von Ausländern: Relativierung des strafmildernden Gewichts eines Teilgeständnisses
+- [BGH, Beschluss vom 31.05.2011 - 1 StR 189/11](1-str-189-11.md) — Steuerhinterziehung: Beginn der Verjährungsfrist für die Steuerhinterziehung durch Nichteinreichung der Umsatzsteuerjahreserklärung
+- [BGH, Urteil vom 26.05.2011 - 1 StR 20/11](1-str-20-11.md) — Rücktritt vom Tötungsversuch: Verzicht auf eine Beschleunigung des Todeseintritts; Freiwilligkeit und Ernsthaftigkeit von Rettungsbemühungen
+- [BGH, Beschluss vom 20.05.2011 - 1 StR 381/10](1-str-381-10.md) — Revision im Strafverfahren: Zurechnung des Verschuldens des Verteidigers bei Versäumung der Frist für die Anhörungsrüge
+- [BGH, Beschluss vom 18.05.2011 - 1 StR 179/11](1-str-179-11.md) — Versuchter Totschlag: Annahme des bedingten Tötungsvorsatzes bei barfuß ausgeführten Fußtritten gegen den Kopf des Opfers ohne erhebliche Verletzungsfolgen
+- [BGH, Beschluss vom 18.05.2011 - 1 StR 209/11](1-str-209-11.md) — Steuerhinterziehung: Verjährungsbeginn bei Nichtabgabe der Steuererklärung
+- [BGH, Beschluss vom 17.05.2011 - 1 StR 208/11](1-str-208-11.md) — Vollzug der Untersuchungshaft: Anspruch des Gefangenen auf Gestattung unüberwachter Telefongespräche mit seinem auswärtigen Verteidiger
+- [BGH, Urteil vom 17.05.2011 - 1 StR 50/11](1-str-50-11.md) — Zu den Anforderungen an das Vorliegen von Verdeckungsabsicht (im Anschluss an Senatsurteil vom 1. Februar 2005, 1 StR 327/04, BGHSt 50, 11 f.) .
+- [BGH, Beschluss vom 05.05.2011 - 1 StR 116/11](1-str-116-11.md) — Soweit dazu Anlass besteht, müssen die Urteilsgründe ergeben, ob Steuern in großem Ausmaß i.S.d. § 370 Abs. 3 Satz 2 Nr. 1 AO nach BGHSt 53, 71 (Betragsgrenzen 
+- [BGH, Beschluss vom 05.05.2011 - 1 StR 168/11](1-str-168-11.md) — Steuerhinterziehung: Fehlerhafte Strafzumessung bei unterbliebener Berücksichtigung eines Steuerschadens "in großem Ausmaß"
+- [BGH, Urteil vom 03.05.2011 - 1 StR 100/11](1-str-100-11.md) — Strafzumessung: Berücksichtigung einer bereits begonnenen Drogenentwöhnungstherapie
+- [BGH, Beschluss vom 03.05.2011 - 1 StR 699/10](1-str-699-10.md) — Sachverständigenablehnung im Strafverfahren: Bedingungsfeindlichkeit eines Befangenheitsantrags
+- [BGH, Beschluss vom 14.04.2011 - 1 StR 112/11](1-str-112-11.md) — Einkommens- und Umsatzsteuerhinterziehung: Gewinnermittlung und Behandlung von Umsatzsteuer als Betriebsausgabe
+- [BGH, Beschluss vom 14.04.2011 - 1 StR 458/10](1-str-458-10.md) — Banden- und gewerbsmäßiger Betrug beim Handel mit Farbdiamanten: Tatort bei mehreren Tätern und verschiedenen Handlungsorten; Sachverständigenablehnung; Vermöge
+- [BGH, Beschluss vom 13.04.2011 - 1 StR 592/10](1-str-592-10.md) — Untreue: Haushaltsrechtswidrige Kreditaufnahme als Untreuehandlung von Bürgermeister und Kämmerer
+- [BGH, Beschluss vom 13.04.2011 - 1 StR 94/10](1-str-94-10.md) — 1. Die unzulässige Aufnahme rechtswidrig erlangter Parteispenden in den Rechenschaftsbericht einer Partei stellt auch dann keine pflichtwidrige Handlung i.S.d. 
+- [BGH, Beschluss vom 31.03.2011 - 1 StR 109/11](1-str-109-11.md) — Unterbringung in einer Entziehungsanstalt: Voraussetzungen für einen Hang zum Übermaßkonsum von Alkohol
+- [BGH, Urteil vom 17.03.2011 - 1 StR 407/10](1-str-407-10.md) — Eine Urkundenfälschung auf der Wahlbenachrichtigungskarte bezüglich des Antrags auf Erteilung von Briefwahlunterlagen und eine nachfolgende Wahlfälschung unter 
+- [BGH, Beschluss vom 16.03.2011 - 1 StR 60/11](1-str-60-11.md) — Verständigung im Strafprozess: Verständigung über bandenmäßige Begehung; Erfordernis einer Verfahrensrüge bezüglich eines Verstoßes gegen das Verbot der Verwert
+- [BGH, Beschluss vom 15.03.2011 - 1 StR 260/09](1-str-260-09.md) — Verlesung des Anklagesatzes in der Hauptverhandlung bei einer Vielzahl gleichförmiger Taten oder Tateinzelakten
+- [BGH, Beschluss vom 15.03.2011 - 1 StR 33/11](1-str-33-11.md) — Strafverfahren: Erforderlicher Inhalt des Protokolls; Rüge der nicht ordnungsgemäßen Einführung von Urkunden; Selbstleseverfahren
+- [BGH, Beschluss vom 15.03.2011 - 1 StR 429/09](1-str-429-09.md) — Strafzumessung: Strafmildernde Berücksichtigung der Verfahrensdauer nach Erlass des tatrichterlichen Urteils; Verfahrensverzögerung durch Vorlageverfahren
+- [BGH, Beschluss vom 15.03.2011 - 1 StR 529/10](1-str-529-10.md) — Betrug: Veranstaltung eines Gewinnspiels im Internet; Herbeiführung eines Vermögensverlustes großen Ausmaßes
+- [BGH, Beschluss vom 15.03.2011 - 1 StR 75/11](1-str-75-11.md) — 1. Für eine Hilfe zur Aufklärung nach Eröffnung des Hauptverfahrens ist gemäß § 31 Abs. 2 BtMG i.V.m. § 46b Abs. 3 StGB eine Strafrahmenverschiebung ausgeschlos
+- [BGH, Beschluss vom 01.03.2011 - 1 StR 52/11](1-str-52-11.md) — Allein die unzulässige Verständigung über den Schuldspruch führt nicht zu einem Verbot, das auf Grund der Verständigung abgegebene Geständnis des Angeklagten zu
+- [BGH, Beschluss vom 21.02.2011 - 1 StR 579/09](1-str-579-09.md) — Pflichtverteidigervergütung: Bemessung der Pauschgebühr für die Revisionshauptverhandlung
+- [BGH, Urteil vom 15.02.2011 - 1 StR 645/10](1-str-645-10.md) — Unterbringung in der Sicherungsverwahrung: Gesamtwürdigung bezüglich des Vorliegens eines Hangs bei Fehlen symptomatischer Vortaten; Abgrenzung zwischen Hang un
+- [BGH, Beschluss vom 15.02.2011 - 1 StR 676/10](1-str-676-10.md) — Die Einfuhr von Betäubungsmitteln auf dem Postweg ist nicht vollendet, wenn die Betäubungsmittel bei einer Zollkontrolle im Ausland entdeckt und aufgrund einer 
+- [BGH, Beschluss vom 08.02.2011 - 1 StR 24/10](1-str-24-10.md) — Jedenfalls dann, wenn derjenige, für den eine Lieferung ausgeführt wird, weiß, dass diese Teil eines auf Hinterziehung von Umsatzsteuer angelegten Systems ist, 
+- [BGH, Beschluss vom 08.02.2011 - 1 StR 490/10](1-str-490-10.md) — Die Vorschrift des § 78b Abs. 4 StGB knüpft nicht an die rechtliche Bewertung der Tat in der Anklage oder im Eröffnungsbeschluss an; maßgeblich ist vielmehr, ob
+- [BGH, Beschluss vom 08.02.2011 - 1 StR 651/10](1-str-651-10.md) — Treffen Arbeitgeber und Arbeitnehmer eine Schwarzlohnabrede, nach der für das gesamte dem Arbeitnehmer gezahlte Gehalt weder Lohnsteuer noch Sozialversicherungs
+- [BGH, Urteil vom 01.02.2011 - 1 StR 408/10](1-str-408-10.md) — Strafverfahren: Beweiswert einer erlogenen Alibibehauptung
+- [BGH, Beschluss vom 19.01.2011 - 1 StR 640/10](1-str-640-10.md) — Steuerhinterziehung: Tatvollendung bei Hinterziehung von Umsatzsteuern durch Unterlassen
+- [BGH, Beschluss vom 18.01.2011 - 1 StR 561/10](1-str-561-10.md) — Steuerhinterziehung: Strafbarkeit der Hinterziehung von Steuern auf Röstkaffee bei Import aus einem EU-Mitgliedsstaat über eine Spedition
+- [BGH, Urteil vom 18.01.2011 - 1 StR 600/10](1-str-600-10.md) — Strafverfahren: Anforderungen an die Beweiswürdigung bei Freispruch
+- [BGH, Beschluss vom 18.01.2011 - 1 StR 663/10](1-str-663-10.md) — Telekommunikationsdaten, die vor dem 2. März 2010 auf der Grundlage der einstweiligen Anordnung des Bundesverfassungsgerichts vom 11. März 2008 im Verfahren 1 B
+- [BGH, Beschluss vom 12.01.2011 - 1 StR 540/10](1-str-540-10.md) — Betrug: Beginn des Versuchs
+- [BGH, Beschluss vom 12.01.2011 - 1 StR 580/10](1-str-580-10.md) — Sexuelle Nötigung: Schutzzweck der 3. Begehungsalternative und Verhältnis zu den anderen Begehungsalternativen; Voraussetzungen einer schutzlosen Lage
+- [BGH, Beschluss vom 12.01.2011 - 1 StR 582/10](1-str-582-10.md) — Der Austausch der Bezugstat bei Verdeckungsmord erfordert einen gerichtlichen Hinweis .
+- [BGH, Beschluss vom 11.01.2011 - 1 StR 537/10](1-str-537-10.md) — Voraussetzungen des Rücktritts vom Tötungsversuch bei schweren Gewalthandlungen mehrerer Täter im Rahmen einer mehraktigen Tatausführung
+- [BGH, Beschluss vom 11.01.2011 - 1 StR 648/10](1-str-648-10.md) — Gerichtsbesetzung bei Entscheidung über Haftfragen während der laufenden Hauptverhandlung

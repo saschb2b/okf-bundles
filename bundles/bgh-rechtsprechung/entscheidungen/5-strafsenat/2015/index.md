@@ -1,0 +1,64 @@
+# 5. Strafsenat – 2015
+
+60 Entscheidung(en).
+
+- [BGH, Beschluss vom 25.11.2015 - 5 ARs 94/14](5-ars-94-14.md) — Beantwortung der Anfrage des 2. Strafsenats zur Berücksichtigung der persönlichen und wirtschaftlichen Verhältnisse des Täters im Rahmen der Zumessung eines Sch
+- [BGH, Urteil vom 23.11.2015 - 5 StR 352/15](5-str-352-15.md) — Besonders schwerer Fall der Bestechlichkeit und Bestechung: Feste Wertgrenze beim "Vorteil großen Ausmaßes"
+- [BGH, Beschluss vom 12.11.2015 - 5 StR 467/15](5-str-467-15.md) — Strafverfahren: Ausschluss der Öffentlichkeit während der Dauer der Vernehmung des Angeklagten im inneren Zusammenhang mit verständigungsbezogenen Gesprächen
+- [BGH, Urteil vom 11.11.2015 - 5 StR 259/15](5-str-259-15.md) — Heimtückemord: Beurteilung der Schuldfähigkeit bei Feststellung eines krankhaften Beziehungswahns; Heimtücke trotz offener Feindseligkeit und bekannter Aggressi
+- [BGH, Beschluss vom 10.11.2015 - 5 StR 420/15](5-str-420-15.md) — Schwere Körperverletzung: Vorliegen einer erheblichen Entstellung
+- [BGH, Beschluss vom 28.10.2015 - 5 StR 189/15](5-str-189-15.md) — Strafverfahren wegen unerlaubten Erbringens von Zahlungsdiensten: Strafbarkeit für Finanztransaktionen des sog. "Hawala-Bankings" durch natürliche Personen; Anw
+- [BGH, Beschluss vom 28.10.2015 - 5 StR 397/15](5-str-397-15.md) — Notwehr: Feststellungen zu einer Kampflage hinsichtlich der Beurteilung der Erforderlichkeit einer Verteidigungshandlung
+- [BGH, Urteil vom 14.10.2015 - 5 StR 273/15](5-str-273-15.md) — Strafverfahren wegen Mordes: Besorgnis der Befangenheit eines Richters bei Neubefassung nach Zurückverweisung
+- [BGH, Beschluss vom 14.10.2015 - 5 StR 355/15](5-str-355-15.md) — Strafverfahren wegen versuchten Mordes: Fehlerhafte Strafzumessung durch Verstoß gegen das Doppelverwertungsverbot; strafschärfende Berücksichtigung der Grund- 
+- [BGH, Beschluss vom 30.09.2015 - 5 StR 367/15](5-str-367-15.md) — Raub und gefährliche Körperverletzung: Erforderlichkeit einer finalen Verknüpfung von Gewalt und Wegnahme beim Raub; erhöhte Gefährlichkeit der Körperverletzung
+- [BGH, Beschluss vom 16.09.2015 - 5 StR 331/15](5-str-331-15.md) — Räuberische Erpressung: Erfüllung des Tatbestandsmerkmale der Begehung "durch Gewalt"
+- [BGH, Urteil vom 15.09.2015 - 5 StR 222/15](5-str-222-15.md) — Mordmerkmal der sonstigen niedrigen Beweggründe: Bewusstes Abreagieren von frustrationsbedingten Aggressionen an einem willkürlich ausgewählten unbeteiligten Op
+- [BGH, Beschluss vom 15.09.2015 - 5 StR 363/15](5-str-363-15.md) — Unterlassene Hilfeleistung: Prüfung der Erforderlichkeit und Möglichkeit der Hilfeleistung im Falle der Nichtfeststellbarkeit des Todeszeitpunkts des Verunglück
+- [BGH, Beschluss vom 02.09.2015 - 5 StR 186/15](5-str-186-15.md) — Strafurteil wegen Eingehungsbetruges: Anforderungen an die Bestimmung der Schadenshöhe beim Erwerb von GmbH-Geschäftsanteilen
+- [BGH, Beschluss vom 02.09.2015 - 5 StR 312/15](5-str-312-15.md) — Beweisverwertungsverbot für die Ergebnisse einer Telekommunikationsüberwachung: Beantragung der Ermittlungsmaßnahme unter Vorlage des Protokolls einer Wahllicht
+- [BGH, Beschluss vom 02.09.2015 - 5 StR 314/15](5-str-314-15.md) — Eingehungsbetrug: Bestimmung des Vermögensschadens
+- [BGH, Beschluss vom 01.09.2015 - 5 StR 349/15](5-str-349-15.md) — Besetzungseinwand: Notwendige Begründung bei kurzfristige Ladung eines dann verhinderten Hilfsschöffen
+- [BGH, Beschluss vom 19.08.2015 - 5 StR 275/15](5-str-275-15.md) — Verstoß gegen Weisungen während der Führungsaufsicht: Voraussetzungen einer Strafbarkeit bei einer Zuwiderhandlung gegen ein Kontaktverbot gegenüber Kindern; se
+- [BGH, Beschluss vom 18.08.2015 - 5 StR 249/15](5-str-249-15.md) — Revision in Strafsachen: Wiedereinsetzungsantrag zur Ergänzung einer Revisionsbegründung
+- [BGH, Urteil vom 18.08.2015 - 5 StR 78/15](5-str-78-15.md) — Strafverfahren wegen Totschlags: Gesamtwürdigung aller Indizien bei Freispruch des Angeklagten
+- [BGH, Beschluss vom 05.08.2015 - 5 StR 255/15](5-str-255-15.md) — Verstoß gegen die Vorschriften zur Transparenz und Dokumentation von Verständigungsgesprächen im Strafverfahren: Ausnahmefall vom Beruhen des Urteils auf dem Ge
+- [BGH, Beschluss vom 05.08.2015 - 5 StR 276/15](5-str-276-15.md) — Absoluter Revisionsgrund fehlerhafter Besetzung einer Strafkammer: Überprüfungsmaßstab bei der Entbindung eines Schöffen von der Dienstleistungspflicht wegen Ur
+- [BGH, Beschluss vom 04.08.2015 - 5 StR 263/15](5-str-263-15.md) — Revisionsverfahren: Zulässigkeit einer gerichtlichen Entscheidung vor Ablauf der zweiwöchigen Gegenerklärungsfrist
+- [BGH, Urteil vom 14.07.2015 - 5 StR 181/15](5-str-181-15.md) — Einfuhr von Betäubungsmitteln: Strafzumessung bei beabsichtigtem Weiterverkauf des Rauschgifts im Ausland
+- [BGH, Beschluss vom 30.06.2015 - 5 StR 236/15](5-str-236-15.md) — Strafverfahren wegen schweren sexuellen Missbrauchs eines Kindes: Belehrung eines angehörigen Zeugen über die Unverwertbarkeit früherer Angaben
+- [BGH, Beschluss vom 30.06.2015 - 5 StR 71/15](5-str-71-15.md) — Zur „Asche“ im Sinne des § 168 Abs. 1 StGB gehören sämtliche nach der Einäscherung verbleibende Rückstände, d.h. auch die vormals mit einem Körper fest verbunde
+- [BGH, Urteil vom 17.06.2015 - 5 StR 140/15](5-str-140-15.md) — Strafzumessung: Identitätsverschleierung als strafschärfender Umstand
+- [BGH, Urteil vom 17.06.2015 - 5 StR 75/15](5-str-75-15.md) — Verdeckungsmord durch Unterlassen: Bedingter Vorsatz der Mutter des getöteten Kindes
+- [BGH, Beschluss vom 15.06.2015 - 5 StR 197/15](5-str-197-15.md) — Waffendelikte: Voraussetzungen der tateinheitlichen Verwirklichung des Führens und des Besitzes einer Waffe
+- [BGH, Beschluss vom 04.06.2015 - 5 StR 201/15](5-str-201-15.md) — Strafzumessung: Zusammentreffen von Strafmilderungsgründen
+- [BGH, Urteil vom 03.06.2015 - 5 StR 55/15](5-str-55-15.md) — Freispruch: Anforderungen an die Beweiswürdigung und die Mitteilung der Einlassung des Angeklagten im Ermittlungsverfahren
+- [BGH, Urteil vom 03.06.2015 - 5 StR 628/14](5-str-628-14.md) — Raub mit Todesfolge: Begriff der Leichtfertigkeit der Verursachung des Todeseintritts
+- [BGH, Urteil vom 20.05.2015 - 5 StR 547/14](5-str-547-14.md) — Betrug beim Weiterverkauf von Immobilien: Täuschung durch Nichtoffenlegung von hohen Provisionsanteilen im Kaufpreis
+- [BGH, Beschluss vom 20.05.2015 - 5 StR 91/15](5-str-91-15.md) — Gesetzlicher Richter: "ad-hoc-Bestellung" eines Vertreters bei Erschöpfung der im Geschäftsverteilungsplan festgelegten kurzen Vertreterreihe
+- [BGH, Beschluss vom 30.04.2015 - 5 StR 132/15](5-str-132-15.md) — Strafzumessung: Strafmilderung wegen Hilfe zur Aufklärung von schweren Straftaten
+- [BGH, Beschluss vom 14.04.2015 - 5 StR 109/15](5-str-109-15.md) — Betäubungsmitteldelikt: Abgrenzung der Abgabe von Betäubungsmittel an Minderjährige und des Überlassens an Minderjährige zum unmittelbaren Verbrauch; strafschär
+- [BGH, Urteil vom 14.04.2015 - 5 StR 20/15](5-str-20-15.md) — Verständigung im Strafverfahren: Beruhensprüfung bei Verstößen gegen die Mitteilungspflicht
+- [BGH, Beschluss vom 14.04.2015 - 5 StR 9/15](5-str-9-15.md) — Verständigung im Strafverfahren: Abgrenzung mitteilungspflichtiger verständigungsbezogener (Vor-)Gespräche von sonstigen zur Verfahrensförderung geeigneten Erör
+- [BGH, Beschluss vom 13.04.2015 - 5 StR 110/15](5-str-110-15.md) — Strafverfahren: Verlesung eines Polizeiberichts aus einem anderen Ermittlungsverfahren
+- [BGH, Beschluss vom 25.03.2015 - 5 StR 70/15](5-str-70-15.md) — Geschäftsverteilung: Nachträgliche Änderung der Geschäftsverteilung wegen absehbarer Überlastung eines Spruchkörpers durch weitere Haftsachen
+- [BGH, Beschluss vom 25.03.2015 - 5 StR 82/15](5-str-82-15.md) — Verständigung im Strafverfahren: Beruhen des Urteils auf dem Verstoß gegen die Belehrungspflicht über die nur eingeschränkte Bindungswirkung der Verständigung f
+- [BGH, Urteil vom 24.03.2015 - 5 StR 6/15](5-str-6-15.md) — Revisionsrechtliche Nachprüfung der Strafzumessung: Strafmildernde Berücksichtigung von länger andauernder Untersuchungshaft
+- [BGH, Beschluss vom 10.03.2015 - 5 StR 22/15](5-str-22-15.md) — Einzelstrafenbemessung unter Berücksichtigung zahlreicher gewichtiger Strafmilderungsgründe: Prüfungs- und Erörterungspflicht bei anschließender Verhängung eine
+- [BGH, Beschluss vom 10.03.2015 - 5 StR 521/14](5-str-521-14.md) — Schwerer sexueller Missbrauch widerstandsunfähiger Personen: Äußerlich eindeutige sexuelle Handlung
+- [BGH, Beschluss vom 25.02.2015 - 5 StR 18/15](5-str-18-15.md) — Kronzeugenregelung: Zeitlicher Beginn des Anwendungsbereichs des Strafmilderungsgrundes
+- [BGH, Beschluss vom 25.02.2015 - 5 StR 258/13](5-str-258-13.md) — Strafverfahren: Umfang der Pflicht zur Mitteilung von Verständigungsgesprächen; Beruhen des Urteils auf fehlender Mitteilung
+- [BGH, Beschluss vom 24.02.2015 - 5 StR 12/15](5-str-12-15.md) — Sexuelle Nötigung eines Kindes: Erforderliche Feststellung zum Vorliegen eines entgegenstehenden Willens und zur Widerstandslosigkeit; Tateinheit zur Besitzvers
+- [BGH, Beschluss vom 11.02.2015 - 5 StR 571/14](5-str-571-14.md) — Verstoß gegen Weisungen während der Führungsaufsicht: Wirksamkeit eines Strafantrags der Aufsichtsstelle ohne vorherige Anhörung des Bewährungshelfers
+- [BGH, Beschluss vom 10.02.2015 - 5 StR 594/14](5-str-594-14.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln: Begriff des Mitsichführens einer Waffe
+- [BGH, Urteil vom 28.01.2015 - 5 StR 486/14](5-str-486-14.md) — Strafzumessung: Verfall als Strafmilderungsgrund
+- [BGH, Beschluss vom 28.01.2015 - 5 StR 601/14](5-str-601-14.md) — Revision im Strafverfahren: Verfahrensfehler des Erstgerichts bei Verstoß gegen die Mitteilungspflicht über ein außerhalb der Hauptverhandlung geführtes Rechtsg
+- [BGH, Beschluss vom 27.01.2015 - 5 ARs 64/14](5-ars-64-14.md) — Voraussetzungen der Verwertung einer während der richterlichen Vernehmung getätigten Zeugenaussage bei Zeugnisverweigerung in der Hauptverhandlung
+- [BGH, Beschluss vom 27.01.2015 - 5 StR 310/13](5-str-310-13.md) — Revision im Strafverfahren: Beruhen eines Urteils auf unterbliebener Negativmitteilung bei auszuschließendem Verständigungsgespräch
+- [BGH, Beschluss vom 27.01.2015 - 5 StR 549/14](5-str-549-14.md) — Gesundheitsgefährdung einer großen Zahl von Menschen
+- [BGH, Beschluss vom 27.01.2015 - 5 StR 603/14](5-str-603-14.md) — Strafzumessung: Aufklärunghilfe des wegen Diebstahls Angeklagten durch Benennung seines Hehlers
+- [BGH, Beschluss vom 15.01.2015 - 5 StR 473/14](5-str-473-14.md) — Strafurteil: Ausspruch über die Reihenfolge der Maßregelvollstreckung bei Anordnung der Unterbringung in einer Entziehungsanstalt sowie in der Sicherungsverwahr
+- [BGH, Urteil vom 14.01.2015 - 5 StR 494/14](5-str-494-14.md) — Strafverfahren wegen Körperverletzung mit Todesfolge: Absehen von Strafe bei fahrlässiger Tötung eines Säuglings durch Schütteln
+- [BGH, Beschluss vom 14.01.2015 - 5 StR 522/14](5-str-522-14.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Tateinheitliche Begehung mehrerer Betäubungsmittelgeschäfte
+- [BGH, Urteil vom 13.01.2015 - 5 StR 435/14](5-str-435-14.md) — Totschlag: Anforderungen an die Beweiswürdigung bei der Prüfung eines bedingten Vorsatzes
+- [BGH, Beschluss vom 13.01.2015 - 5 StR 541/14](5-str-541-14.md) — Geldwäsche: Vorrang der Strafbarkeit des Finanzagenten wegen Beihilfe zur Haupttat; Begriff des Sichverschaffens

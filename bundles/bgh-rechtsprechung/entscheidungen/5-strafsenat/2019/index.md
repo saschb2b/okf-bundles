@@ -1,0 +1,103 @@
+# 5. Strafsenat – 2019
+
+99 Entscheidung(en).
+
+- [BGH, Beschluss vom 12.12.2019 - 5 StR 444/19](5-str-444-19.md) — Lückenhafte Beweiswürdigung bei fehlenden Angaben zur Einlassung des Angeklagten
+- [BGH, Beschluss vom 12.12.2019 - 5 StR 464/19](5-str-464-19.md) — Mittäterschaftliches Handeltreiben und zulässige Ermittlungsmaßnahmen
+- [BGH, Urteil vom 11.12.2019 - 5 StR 391/19](5-str-391-19.md) — Strafverfahren: Anforderungen an die Urteilsgründe bei Würdigung einer Zeugenaussage als nur hinsichtlich einer von mehreren Taten glaubhaft
+- [BGH, Beschluss vom 11.12.2019 - 5 StR 486/19](5-str-486-19.md) — Untreue und Bestechlichkeit im geschäftlichen Verkehr: Amtsträgereigenschaft eines Sparkassenangestellten
+- [BGH, Beschluss vom 11.12.2019 - 5 StR 610/19](5-str-610-19.md) — Ausschluss der Bildung einer Gesamtstrafe aus einer Jugendstrafe und einer Freiheitsstrafe nach Erwachsenenstrafrecht: Ausgleich eines daraus für den Angeklagte
+- [BGH, Beschluss vom 10.12.2019 - 5 StR 578/19](5-str-578-19.md) — Der gleichzeitige Besitz zweier Schlagringe stellt auch dann einen tateinheitlich begangenen Verstoß gegen das Waffengesetz i.S.d. § 53 Abs. 3 Nr. 1 WaffG in zw
+- [BGH, Beschluss vom 27.11.2019 - 5 StR 467/19](5-str-467-19.md) — Strafzumessung: Verstoß gegen das Doppelverwertungsverbot in Zusammenhang mit einem minder schweren Fall einer räuberischen Erpressung
+- [BGH, Urteil vom 27.11.2019 - 5 StR 468/19](5-str-468-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anordnung bei mangelnder konkreter Gefahr der Straftatbegehung
+- [BGH, Beschluss vom 27.11.2019 - 5 StR 530/19](5-str-530-19.md) — Revision im Strafverfahren: Verfahrensfehler wegen Nichtausschlusses der Öffentlichkeit im Rahmen der Schlussvorträge
+- [BGH, Beschluss vom 27.11.2019 - 5 StR 537/19](5-str-537-19.md) — Tatertragseinziehung: Einziehungsanordnung hinsichtlich bezogener Sozialleistungen
+- [BGH, Beschluss vom 26.11.2019 - 5 StR 555/19](5-str-555-19.md) — Strafverfahren: Verwertung von Bild-Ton-Aufzeichnungen einer früheren richterlichen Vernehmung eines nachträglich zeugnisverweigernden Zeugen
+- [BGH, Beschluss vom 14.11.2019 - 5 StR 76/19](5-str-76-19.md) — Kreditbetrug und unrichtige Darstellung im Jahres- und Konzernabschluss eines Unternehmens: Konkurrenzverhältnis der Vergehen
+- [BGH, Urteil vom 13.11.2019 - 5 StR 409/19](5-str-409-19.md) — Bedingter Vorsatz bei anderer Katalogtat
+- [BGH, Urteil vom 13.11.2019 - 5 StR 466/19](5-str-466-19.md) — Mord: Ausnutzungsbewusstsein bei Heimtücke und niedriger Beweggrund bei Tötung aus harmlosem Anlass
+- [BGH, Beschluss vom 12.11.2019 - 5 StR 451/19](5-str-451-19.md) — Beweiswürdigung der Einlassung des Angeklagten
+- [BGH, Beschluss vom 12.11.2019 - 5 StR 542/19](5-str-542-19.md) — Absoluter Revisionsgrund im Strafverfahren: Irrtümliche Überschreitung der Frist zur Absetzung der Urteilsgründe
+- [BGH, Beschluss vom 24.10.2019 - 5 StR 316/19](5-str-316-19.md) — Revision in Strafsachen: Rügeanforderungen bei Zurückweisung eines Antrags auf Einholung eines wahrnehmungspsychologischen Gutachtens
+- [BGH, Beschluss vom 24.10.2019 - 5 StR 410/19](5-str-410-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung der Unterbringungsvoraussetzungen im Urteil bei Begehung der Anlasstaten währ
+- [BGH, Urteil vom 23.10.2019 - 5 StR 677/18](5-str-677-18.md) — Strafurteilsinhalt: Abgrenzung zwischen unbeendetem und beendetem Versuch bei einem Tötungsdelikt; Voraussetzung der längeren Dauer der schweren Folgen bei eine
+- [BGH, Beschluss vom 22.10.2019 - 5 StR 449/19](5-str-449-19.md) — Strafurteil wegen versuchten Mordes: Prüfung der Strafmilderung für den Versuch
+- [BGH, Urteil vom 09.10.2019 - 5 StR 299/19](5-str-299-19.md) — Mord: Heimtückisches Ausnutzungsbewusstsein
+- [BGH, Urteil vom 09.10.2019 - 5 StR 90/19](5-str-90-19.md) — Revisionsgrund im Strafverfahren: Nichtverlesung des Anklagesatzes in neuer Hauptverhandlung nach Aufhebung des Ersturteils und Zurückverweisung der Sache
+- [BGH, Beschluss vom 08.10.2019 - 5 StR 420/19](5-str-420-19.md) — Computerbetrug: Benutzung von Spielautomaten unter Verwendung erschlichener PIN-Codes
+- [BGH, Beschluss vom 08.10.2019 - 5 StR 432/19](5-str-432-19.md) — Revision in Strafsachen: Formwirksamkeit einer mit einer gemeinsamen qualifizierten elektronischen Signatur eingereichten Revisionsschrift
+- [BGH, Beschluss vom 08.10.2019 - 5 StR 441/19](5-str-441-19.md) — Entziehung der Fahrerlaubnis bei Tötungsversuch mit einem Pkw auf einem Privatgelände
+- [BGH, Beschluss vom 26.09.2019 - 5 StR 206/19](5-str-206-19.md) — Die Revision gegen ein Berufungsurteil kann nicht wirksam auf den Rechtsfolgenausspruch beschränkt werden, wenn das Berufungsgericht trotz unbeschränkt eingeleg
+- [BGH, Beschluss vom 26.09.2019 - 5 StR 456/19](5-str-456-19.md) — Tatertragseinziehung: Verzicht auf sichergestelltes Bargeld; Verweigerung der Annahme der Verzichtserklärung durch die Staatsanwaltschaft
+- [BGH, Urteil vom 25.09.2019 - 5 StR 103/19](5-str-103-19.md) — Verhältnismäßigkeitsprüfung bei der Anordnung der Sicherungsverwahrung nach der alten Gesetzesfassung
+- [BGH, Urteil vom 25.09.2019 - 5 StR 222/19](5-str-222-19.md) — Niedriger Beweggrund beim "Ehrenmord": Objektiver und subjektiver Bewertungsmaßstab bei einem ausländischen Angeklagten; Maßgeblichkeit inländischer Rechtsmaßst
+- [BGH, Beschluss vom 24.09.2019 - 5 StR 269/19](5-str-269-19.md) — Betäubungsmitteldelikt: Anordnung der Wertersatzeinziehung
+- [BGH, Beschluss vom 24.09.2019 - 5 StR 394/19](5-str-394-19.md) — Untreue in Tateinheit mit Beihilfe zum Betrug durch einen Rechtsanwalt
+- [BGH, Urteil vom 12.09.2019 - 5 StR 325/19](5-str-325-19.md) — Unerlaubte Einfuhr von Betäubungsmitteln in nicht geringer Menge: Berücksichtigung eines Fahrlässigkeitsvorwurfs bezüglich einer vom Vorsatz nicht erfassten Meh
+- [BGH, Beschluss vom 12.09.2019 - 5 StR 399/19](5-str-399-19.md) — Gesamtbetrachtung bei niedrigen Beweggründen
+- [BGH, Beschluss vom 11.09.2019 - 5 StR 243/19](5-str-243-19.md) — Wahlfeststellung zwischen schwerem Bandendiebstahl und gewerbs- und bandenmäßigem Computerbetrug
+- [BGH, Urteil vom 28.08.2019 - 5 StR 298/19](5-str-298-19.md) — Gefährliche Körperverletzung bei Tritt mit Lederschuh gegen Kopf des Geschädigten
+- [BGH, Beschluss vom 27.08.2019 - 5 StR 196/19](5-str-196-19.md) — Unerlaubtes Handeltreiben mit Schusswaffen durch Onlineverkauf der Waffen und Lieferung nach Deutschland
+- [BGH, Beschluss vom 27.08.2019 - 5 StR 245/19](5-str-245-19.md) — Revision im Strafverfahren: Anforderungen an eine Beweisantragsrüge
+- [BGH, Beschluss vom 15.08.2019 - 5 StR 204/19](5-str-204-19.md) — (Unrichtige Darstellung der Verhältnisse in einem Jahresabschluss)
+- [BGH, Beschluss vom 15.08.2019 - 5 StR 205/19](5-str-205-19.md) — Betrügerisches Handeln bei Abschluss von Leasingverträgen ohne Feststellung der Zahlungsunfähigkeit
+- [BGH, Urteil vom 15.08.2019 - 5 StR 236/19](5-str-236-19.md) — Mordmerkmale der Grausamkeit und des niedrigen Beweggrundes bei Tötung im Rahmen einer Dreiecksbeziehung
+- [BGH, Beschluss vom 14.08.2019 - 5 StR 228/19](5-str-228-19.md) — Notwendigkeit der Bestellung eines Pflichtverteidigers vor richterlicher Beschuldigtenvernehmung
+- [BGH, Beschluss vom 14.08.2019 - 5 StR 403/19](5-str-403-19.md) — Strafzumessung bei fehlender Erschütterung des Täters nach einer Tötung
+- [BGH, Beschluss vom 13.08.2019 - 5 StR 257/19](5-str-257-19.md) — Auswirkungen eines Verstoßes gegen ein etwaiges Elternkonsultationsrecht
+- [BGH, Beschluss vom 01.08.2019 - 5 StR 185/19](5-str-185-19.md) — Verabredung zum Wohnungseinbruchdiebstahls bei Scheitern des Aufhebelns der Terrassentür
+- [BGH, Beschluss vom 01.08.2019 - 5 StR 304/19](5-str-304-19.md) — Schwerer sexueller Missbrauch von Kindern: Konkurrenzverhältnis zum Besitz kinderpornographischer Schriften
+- [BGH, Beschluss vom 31.07.2019 - 5 StR 345/19](5-str-345-19.md) — Besonders schwerer Raub: Umfang des Gehilfenvorsatzes in Bezug auf Einsatz eines Messers
+- [BGH, Beschluss vom 30.07.2019 - 5 StR 288/19](5-str-288-19.md) — Wird in der Hauptverhandlung ein Vermerk über ein außerhalb der Hauptverhandlung geführtes Verständigungsgespräch verlesen, ist der Protokollierungspflicht des 
+- [BGH, Urteil vom 18.07.2019 - 5 StR 649/18](5-str-649-18.md) — Sozialversicherungspflicht von als Subunternehmer tätigen Kurierfahrern
+- [BGH, Urteil vom 17.07.2019 - 5 StR 130/19](5-str-130-19.md) — Einziehung: Aus der Tat erlangter Vermögenswert; mehrere Tatbeteiligte; spätere Aufgabe der Mitverfügungsgewalt
+- [BGH, Beschluss vom 17.07.2019 - 5 StR 195/19](5-str-195-19.md) — Verwertbarkeit einer in Vernehmungspause getätigten Spontanäußerung
+- [BGH, Urteil vom 17.07.2019 - 5 StR 637/18](5-str-637-18.md) — Strafzumessung bei schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 04.07.2019 - 5 StR 274/19](5-str-274-19.md) — Unmittelbares Ansetzen zum Wohnungseinbruch durch Lochbohrung
+- [BGH, Urteil vom 03.07.2019 - 5 StR 132/18](5-str-132-18.md) — Angesichts der gewachsenen Bedeutung der Selbstbestimmung des Einzelnen auch bei Entscheidungen über sein Leben kann in Fällen des freiverantwortlichen Suizids 
+- [BGH, Beschluss vom 01.07.2019 - 5 StR 393/18](5-str-393-18.md) — Zulassung von Ton- und Filmaufnahmen bei Entscheidungsverkündung im Einzelfall
+- [BGH, Beschluss vom 20.06.2019 - 5 StR 208/19](5-str-208-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Darlegung der Anlasstaten im Rahmen der Gefährlichkeitsprognose
+- [BGH, Urteil vom 19.06.2019 - 5 StR 128/19](5-str-128-19.md) — Einer heimtückischen Tötung kann die feindselige Willensrichtung grundsätzlich nur dann fehlen, wenn sie dem ausdrücklichen Willen des Getöteten entspricht oder
+- [BGH, Beschluss vom 19.06.2019 - 5 StR 167/19](5-str-167-19.md) — (Fehlende erneute Belehrung über Recht auf Zuziehung eines Verteidigers)
+- [BGH, Urteil vom 18.06.2019 - 5 StR 2/19](5-str-2-19.md) — Jugendstrafverfahren: Anforderungen an die Revisionsrüge der Verletzung eines "Elternkonsultationsrechts"
+- [BGH, Beschluss vom 18.06.2019 - 5 StR 20/19](5-str-20-19.md) — Hinweispflicht auf Rechtsfolge einer obligatorischen Einziehung
+- [BGH, Beschluss vom 18.06.2019 - 5 StR 51/19](5-str-51-19.md) — Strafbarkeit wegen Amtsanmaßung ohne objektiv fördernden Tatbeitrag
+- [BGH, Beschluss vom 05.06.2019 - 5 StR 181/19](5-str-181-19.md) — Gefährlicher Körperverletzung zum Nachteil eines Kleinkindes: Gemeinsamer Tatentschluss eines Anwesenden durch Beobachtung der Tat
+- [BGH, Urteil vom 05.06.2019 - 5 StR 670/18](5-str-670-18.md) — Vorliegen faktischer Mitverfügungsgewalt bei einer Einziehung
+- [BGH, Beschluss vom 04.06.2019 - 5 StR 96/19](5-str-96-19.md) — Revision in Strafsachen: Verbot der Doppelbestrafung nach dem Schengen-Übereinkommen; Begriff der einheitlichen Tat
+- [BGH, Urteil vom 22.05.2019 - 5 StR 36/19](5-str-36-19.md) — Anforderungen an Begründung eines Freispruchs
+- [BGH, Beschluss vom 22.05.2019 - 5 StR 499/18](5-str-499-18.md) — Vorläufige Einstellung des Strafverfahrens durch das Revisionsgericht: Endgültige Einstellung nach Erfüllung der Auflagen durch den Angeklagten
+- [BGH, Urteil vom 22.05.2019 - 5 StR 683/18](5-str-683-18.md) — Für eine Unterbringung ausreichende Taten und Abwendungsmöglichkeit
+- [BGH, Beschluss vom 22.05.2019 - 5 StR 85/19](5-str-85-19.md) — Strafverfahren: Befangenheit wegen der Beauftragung weiterer Ermittlungshandlungen ohne vorherige Information der Verteidigung
+- [BGH, Beschluss vom 21.05.2019 - 5 StR 231/19](5-str-231-19.md) — Duldung einer Falschaussage als Strafschärfungsgrund
+- [BGH, Beschluss vom 09.05.2019 - 5 StR 109/19](5-str-109-19.md) — Längere Straffreiheit als Indiz für Gefährlichkeitsprognose
+- [BGH, Beschluss vom 08.05.2019 - 5 StR 146/19](5-str-146-19.md) — Anfrage an die Strafsenate: Täuschung im Rechtsverkehr durch Vorlage einer Kopie oder elektronische Übersendung des Bildes eines echten Ausweises
+- [BGH, Urteil vom 08.05.2019 - 5 StR 95/19](5-str-95-19.md) — Strafrechtliche Vermögensabschöpfung im Jugendstrafrecht
+- [BGH, Beschluss vom 07.05.2019 - 5 StR 132/18, 5 StR 393/18](5-str-132-18-5-str-393-18.md) — (Verbindung zweier Strafverfahren zur gleichzeitigen Hauptverhandlung vor dem BGH)
+- [BGH, Beschluss vom 07.05.2019 - 5 StR 623/18](5-str-623-18.md) — Strafprozess: Verfahrensrüge wegen Nichtbescheidung eines Widerspruchs
+- [BGH, Beschluss vom 17.04.2019 - 5 StR 32/19](5-str-32-19.md) — Mehrere Körperverletzungshandlungen eines Täters
+- [BGH, Beschluss vom 17.04.2019 - 5 StR 603/18](5-str-603-18.md) — Strafrechtliche Vermögensabschöpfung: Erweiterte Einziehung eines Surrogats
+- [BGH, Urteil vom 17.04.2019 - 5 StR 685/18](5-str-685-18.md) — Mittäterschaft bei Vorbereitungs- und Unterstützungshandlungen
+- [BGH, Beschluss vom 16.04.2019 - 5 StR 169/19](5-str-169-19.md) — Angabe einer Fremdwährungssumme bei Einziehung
+- [BGH, Beschluss vom 03.04.2019 - 5 StR 57/19](5-str-57-19.md) — Pflicht auf Verlesung der Vernehmungsniederschrift
+- [BGH, Beschluss vom 03.04.2019 - 5 StR 87/19](5-str-87-19.md) — Bandenmäßiges unerlaubtes Handeltreiben sowie Anbau von Betäubungsmitteln in nicht geringer Menge: Revisionsgrund der vorschriftswidrigen Gerichtsbesetzung bei 
+- [BGH, Urteil vom 03.04.2019 - 5 StR 94/19](5-str-94-19.md) — Vollstreckungsreihenfolge: Berechnung der Zeit des Vorwegvollzugs eines Teils der Strafe vor einer Unterbringung in einer Entziehungsanstalt
+- [BGH, Beschluss vom 19.03.2019 - 5 StR 684/18](5-str-684-18.md) — Berücksichtigung des drohenden Widerrufs der Approbation bei der Strafzumessung eines Arztes
+- [BGH, Urteil vom 07.03.2019 - 5 StR 569/18](5-str-569-18.md) — Voraussetzungen der Einziehung beim Handeltreiben mit Betäubungsmitteln: Erlangen des Kaufpreises bei Vorleistung des Abnehmers und späterem Nichtzustandekommen
+- [BGH, Urteil vom 06.03.2019 - 5 StR 526/18](5-str-526-18.md) — Schwere räuberische Erpressung: Verwendung einer Waffe bei Erlangung des Vermögensvorteils durch Einschaltung einer weiteren Person
+- [BGH, Urteil vom 06.03.2019 - 5 StR 543/18](5-str-543-18.md) — Erlangung des Vermögenswertes aus der Tat bei mehreren Beteiligten
+- [BGH, Urteil vom 06.03.2019 - 5 StR 593/18](5-str-593-18.md) — Diebstahl im Supermarkt: Gewahrsamsbegründung beim Einstecken von Getränkeflaschen in eine Sporttasche
+- [BGH, Beschluss vom 20.02.2019 - 5 StR 660/18](5-str-660-18.md) — (Rückschlüsse aus der Flucht eines Angeklagten)
+- [BGH, Beschluss vom 19.02.2019 - 5 StR 513/18](5-str-513-18.md) — Unterzeichnung des Strafurteils: Fehlerhafter Verhinderungsvermerk betreffend einen Richter auf Probe
+- [BGH, Beschluss vom 06.02.2019 - 5 StR 560/18](5-str-560-18.md) — (Berücksichtigung eines Verzichts bei einer Einziehung)
+- [BGH, Beschluss vom 05.02.2019 - 5 StR 413/18](5-str-413-18.md) — Betrug: Gewerbsmäßiges Handeln des Gehilfen
+- [BGH, Beschluss vom 05.02.2019 - 5 StR 561/18](5-str-561-18.md) — Anordnung der Sicherungsverwahrung: Rückfallverjährungsfrist bei Mord in Tateinheit mit sexuellem Übergriff mit Todesfolge
+- [BGH, Beschluss vom 24.01.2019 - 5 StR 480/18](5-str-480-18.md) — Zwei Messerangriffe auf das Leben einer Person als eine Tat im Rechtssinne
+- [BGH, Urteil vom 23.01.2019 - 5 StR 143/18](5-str-143-18.md) — Zurückweisung eines Ablehnungsgesuchs
+- [BGH, Urteil vom 23.01.2019 - 5 StR 479/18](5-str-479-18.md) — Annahme von aus Straftaten stammenden Paysafe-Codes und unrechtmäßige Übermittlung von Produkt-Keys: Strafbarkeit wegen Geldwäsche und Betrugs; Urheberrechtsver
+- [BGH, Beschluss vom 23.01.2019 - 5 StR 553/18](5-str-553-18.md) — Bildung der Gesamtstrafe: Für Prüfung maßgeblicher Zeitpunkt nach Urteilsaufhebung und Zurückverweisung
+- [BGH, Beschluss vom 23.01.2019 - 5 StR 555/18](5-str-555-18.md) — Illegaler Waffenbesitz: Untersagung des Besitzes einer erlaubnispflichtigen Waffe für einen Berechtigten im Einzelfall
+- [BGH, Beschluss vom 16.01.2019 - 5 StR 249/18](5-str-249-18.md) — (Begriff des Arbeitgebers im Sinne von § 266a StGB)
+- [BGH, Beschluss vom 10.01.2019 - 5 StR 387/18](5-str-387-18.md) — Das Verbot der Verschlechterung schließt die erstmalige Anordnung der Einziehung nach den §§ 73 ff. StGB in der Fassung des Gesetzes zur Reform der Vermögensabs
+- [BGH, Beschluss vom 10.01.2019 - 5 StR 648/18](5-str-648-18.md) — Besorgnis der Befangenheit im Strafverfahren: Außerhalb der Hauptverhandlung geführte Gespräche des Richters mit einzelnen Angeklagten unter Ausschluss von Mita
+- [BGH, Beschluss vom 08.01.2019 - 5 StR 650/18](5-str-650-18.md) — Betäubungsmitteldelikt: Anwendung des Zweifelsgrundsatzes bei der Abgrenzung der zum Eigenverbrauch und von der zum Handeltreiben bestimmten Menge

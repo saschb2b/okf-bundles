@@ -1,0 +1,101 @@
+# 1. Strafsenat – 2012
+
+97 Entscheidung(en).
+
+- [BGH, Beschluss vom 19.12.2012 - 1 StR 590/12](1-str-590-12.md) — Gewerbsmäßige Urkundenfälschung und Computerbetrug: Kontoeröffnung mittels Postidentverfahren unter Einsatz eines gefälschten Personalausweises zur Abwicklung v
+- [BGH, Urteil vom 18.12.2012 - 1 StR 415/12](1-str-415-12.md) — 1. Ein nach § 145a Satz 1 StGB tatbestandsmäßiger Weisungsverstoß setzt eine hinreichend bestimmte Weisung voraus. Maßgeblich dafür ist allein der durch das Vol
+- [BGH, Beschluss vom 18.12.2012 - 1 StR 593/12](1-str-593-12.md) — Revision im Strafverfahren wegen Beihilfe zur Steuerhinterziehung: Wiedereinsetzung wegen Protokollierung unzulässiger Verfahrensrügen durch den Rechtspfleger d
+- [BGH, Beschluss vom 13.12.2012 - 1 StR 522/12](1-str-522-12.md) — Bestechlichkeit: Vorliegen einer Bande
+- [BGH, Beschluss vom 05.12.2012 - 1 StR 531/12](1-str-531-12.md) — Revision in Strafsachen: Rüge rechtsstaatswidriger Verfahrensverzögerungen; Rüge unzulässiger Verteidigungsbeschränkung bzw. Verletzung der gerichtlichen Aufklä
+- [BGH, Beschluss vom 05.12.2012 - 1 StR 569/12](1-str-569-12.md) — Sukzessive Mittäterschaft bei Raub: Mitteilung der Abweichung vom Tatplan dem im Auto wartenden Mittäter
+- [BGH, Urteil vom 04.12.2012 - 1 StR 336/12](1-str-336-12.md) — Heimtückischer Mord: Ausnutzungsbewusstsein des Täters hinsichtlich der Arg- und Wehrlosigkeit seines Opfers
+- [BGH, Beschluss vom 22.11.2012 - 1 StR 378/12](1-str-378-12.md) — Räuberischer Diebstahl und räuberische Erpressung: Beutesicherung auf frischer Tat; gewaltsame Verhinderung der Durchsetzung des Fahrpreisanspruchs des Personen
+- [BGH, Beschluss vom 22.11.2012 - 1 StR 537/12](1-str-537-12.md) — Zur Bezifferung aufgrund unrichtiger Feststellungsbescheide nach § 182 Abs. 1 Satz 1 AO erlangter nicht gerechtfertigter Steuervorteile im Sinne von § 370 Abs. 
+- [BGH, Beschluss vom 21.11.2012 - 1 StR 310/12](1-str-310-12.md) — 1. Die Verwertbarkeit mittels Rechtshilfe eines ausländischen Staates erlangter Beweise bestimmt sich nach dem inländischen Recht. 2. Auf diesem Weg gewonnene B
+- [BGH, Beschluss vom 21.11.2012 - 1 StR 391/12](1-str-391-12.md) — Umsatzsteuerhinterziehung: Vorrang der Ermittlungstaktik vor der Verhinderung der Tatvollendung
+- [BGH, Urteil vom 20.11.2012 - 1 StR 428/12](1-str-428-12.md) — Jugendstrafverfahren: Bemessung der Jugendstrafe bei erheblichem Therapiebedarf nach einer Sexualstraftat; Anforderungen an die Darlegung in den Urteilsgründen
+- [BGH, Beschluss vom 20.11.2012 - 1 StR 503/12](1-str-503-12.md) — Strafzumessung bei Totschlag durch Unterlassen: Prüfungsreihenfolge bei minder schwerem Fall und vertyptem Strafmilderungsgrund
+- [BGH, Beschluss vom 20.11.2012 - 1 StR 504/12](1-str-504-12.md) — Unterbringung in einem psychiatrischen Krankenhaus: Einsicht in das Unrecht der Tat trotz erheblich verminderter Einsichtsfähigkeit
+- [BGH, Beschluss vom 20.11.2012 - 1 StR 530/12](1-str-530-12.md) — Revisionsbegründung im Strafverfahren: Verfahrensrüge bei Verwertung des Inhalts einer SMS im Wege des Freibeweises
+- [BGH, Beschluss vom 25.10.2012 - 1 StR 165/12](1-str-165-12.md) — Revision im Strafverfahren: Verfahrenshindernis des Verstoßes gegen den Spezialitätsgrundsatz des Europäischen Auslieferungsübereinkommens
+- [BGH, Beschluss vom 25.10.2012 - 1 StR 421/12](1-str-421-12.md) — Steuerstrafverfahren: Wegfall der gerichtlichen Bindung an eine Verständigung über den Strafrahmen
+- [BGH, Beschluss vom 24.10.2012 - 1 StR 485/12](1-str-485-12.md) — Revision im Strafverfahren: Anforderungen an die Begründung der Verfahrensrüge der örtlichen Unzuständigkeit
+- [BGH, Beschluss vom 23.10.2012 - 1 StR 137/12](1-str-137-12.md) — Strafverfahren: Verwertungsverbot für eine während der polizeilichen Vernehmung freiwillig übergebene Tonbandaufzeichnung bei Zeugnisverweigerung in der Hauptve
+- [BGH, Beschluss vom 23.10.2012 - 1 StR 261/12](1-str-261-12.md) — Strafverfahren: Ablehnung eines Beweisantrages auf Einholung eines Sachverständigengutachtens wegen Ungeeignetheit und wegen widersprüchlicher Beweisbehauptunge
+- [BGH, Beschluss vom 23.10.2012 - 1 StR 377/12](1-str-377-12.md) — Strafverfahren: Anforderungen an die Darlegung der DNA-Analyse in den Urteilsgründen
+- [BGH, Urteil vom 11.10.2012 - 1 StR 213/10](1-str-213-10.md) — 1. Bei einem grenzüberschreitenden Verkauf liegt ein Verbreiten in Deutschland gemäß § 17 UrhG schon dann vor, wenn ein Händler, der seine Werbung auf in Deutsc
+- [BGH, Beschluss vom 26.09.2012 - 1 StR 423/12](1-str-423-12.md) — Strafzumessung: Freiheitsstrafe von über zwei Jahren bei Steuerhinterziehung mit einem nicht die Millionengrenze überschreitenden Hinterziehungsbetrag
+- [BGH, Urteil vom 25.09.2012 - 1 StR 160/12](1-str-160-12.md) — Nachträgliche Sicherungsverwahrung: Maßstab für die Prognoseentscheidung
+- [BGH, Beschluss vom 25.09.2012 - 1 StR 212/12](1-str-212-12.md) — Strafurteil: Bezugnahme auf die Feststellungen in einem aufgehobenen Urteil bei der erneuten Verurteilung sowie bei der Strafzumessung
+- [BGH, Beschluss vom 25.09.2012 - 1 StR 361/12](1-str-361-12.md) — Revision in Strafsachen: Wiedereinsetzungsantrag zur Anbringung von Verfahrensrügen
+- [BGH, Beschluss vom 25.09.2012 - 1 StR 407/12](1-str-407-12.md) — Steuerstrafsache: Strafzumessung bei unrechtmäßiger Umsatzsteuervoranmeldung; strafmildernde Berücksichtigung serienmäßiger Tatbegehung
+- [BGH, Beschluss vom 11.09.2012 - 1 StR 154/12](1-str-154-12.md) — Erfolgsort einer Straftat bei Zwischenerfolgen
+- [BGH, Beschluss vom 06.09.2012 - 1 StR 140/12](1-str-140-12.md) — Zur Zurechnung erworbener Geschäftsanteile bei formunwirksamer Treuhandvereinbarung.
+- [BGH, Beschluss vom 05.09.2012 - 1 StR 297/12](1-str-297-12.md) — Untreue durch Kreisverbandsvorsitzenden einer Partei: Aufnahme rechtswidrig erlangter Parteispenden in den Rechenschaftsbericht einer Partei
+- [BGH, Beschluss vom 05.09.2012 - 1 StR 324/12](1-str-324-12.md) — Freie Beweiswürdigung im Strafverfahren wegen gefährlicher Körperverletzung: Berufung des Angeklagten auf Notwehr nach zunächst pauschalem Bestreiten der Tatbet
+- [BGH, Urteil vom 04.09.2012 - 1 StR 534/11](1-str-534-11.md) — Ein in Deutschland nicht zugelassenes Fertigarzneimittel wird durch Hinzugabe von Kochsalzlösung, um eine Injektion vornehmen zu können, nicht zu einem zulassun
+- [BGH, Beschluss vom 23.08.2012 - 1 StR 389/12](1-str-389-12.md) — Revisionsrügen im Strafverfahren: Auswirkung von Schizophrenie auf die Schuldfähigkeit; Widerspruch zwischen Urteilsinhalt und Verlauf der Hauptverhandlung; Unt
+- [BGH, Beschluss vom 22.08.2012 - 1 StR 170/12](1-str-170-12.md) — Strafverfahren wegen versuchten Mordes: Wirksamkeit einer Rechtsmittelverzichtserklärung auf Druck des Verteidigers
+- [BGH, Beschluss vom 22.08.2012 - 1 StR 317/12](1-str-317-12.md) — Hinterziehung von Veranlagungssteuern durch Unterlassen: Tatvollendung mit Bekanntgabe des Schätzungsbescheides; Bekanntgabe des Ermittlungsverfahrens vor Bekan
+- [BGH, Beschluss vom 22.08.2012 - 1 StR 343/12](1-str-343-12.md) — Strafaussetzung zur Bewährung: Bedeutung einer positiven Kriminalprognose für die Aussetzung einer Freiheitsstrafe von mehr als einem Jahr
+- [BGH, Urteil vom 21.08.2012 - 1 StR 257/12](1-str-257-12.md) — Besonders schwerer Fall der Steuerhinterziehung: Grober Eigennutz bei Umsatzsteuerhinterziehung zugunsten einer Aktiengesellschaft durch den Alleinaktionär; Ber
+- [BGH, Beschluss vom 21.08.2012 - 1 StR 26/12](1-str-26-12.md) — Steuerstrafverfahren: Unrichtige Angaben im Steuerfestsetzungsverfahren und im Vollstreckungsverfahren als selbstständige Taten der Steuerhinterziehung im Verhä
+- [BGH, Beschluss vom 09.08.2012 - 1 StR 323/12](1-str-323-12.md) — Änderung des rechtlichen Gesichtspunkts: Erforderlichkeit einer gesonderten Befragung des Angeklagten nach dem Hinweis
+- [BGH, Beschluss vom 08.08.2012 - 1 StR 296/12](1-str-296-12.md) — Strafverfahren wegen Steuerhinterziehung und Vorenthaltens von Sozialversicherungsbeiträgen: Wirksamkeit der Anklageschrift bei Schätzung der Schadenshöhe
+- [BGH, Beschluss vom 07.08.2012 - 1 StR 314/12](1-str-314-12.md) — Auslieferung aufgrund Europäischen Haftbefehls: Verzicht auf Einhaltung des Spezialitätsgrundsatzes bei Zustimmung des Angeklagten zur Übergabe; Verstoß gegen d
+- [BGH, Urteil vom 07.08.2012 - 1 StR 98/12](1-str-98-12.md) — Nachträgliche Anordnung der Sicherungsverwahrung: Beurteilung der Neuheit von Tatsachen nach unterbliebener Entscheidung im Vorbehaltsverfahren
+- [BGH, Beschluss vom 27.07.2012 - 1 StR 218/12](1-str-218-12.md) — Strafverfahren: Revisionsgerichtliche Feststellung einer unangemessenen Verfahrensdauer bei geringfügiger Verfahrensverzögerung
+- [BGH, Beschluss vom 27.07.2012 - 1 StR 238/12](1-str-238-12.md) — Strafbarkeit bei Nichtrückgabe von Ermittlungsakten an Gericht und Staatsanwaltschaft
+- [BGH, Beschluss vom 27.07.2012 - 1 StR 68/12](1-str-68-12.md) — Beweiswürdigung im Strafverfahren wegen Vergewaltigung: Erfordernis eines richterlichen Hinweises vor Verwertung einer gerichtskundigen Tatsache
+- [BGH, Urteil vom 26.07.2012 - 1 StR 492/11](1-str-492-11.md) — Steuerstrafrecht: Strafbarkeit von Erfindern bei Verlagerung ihrer Einkünfte aus Patentrechten auf eine schweizer Gesellschaft; Einbindung der Gesellschaft in d
+- [BGH, Beschluss vom 25.07.2012 - 1 StR 332/12](1-str-332-12.md) — Strafverfahren wegen gefährlicher Körperverletzung: Unterbringung in einem psychiatrischen Krankenhaus bei erheblich verminderter Einsichtsfähigkeit
+- [BGH, Beschluss vom 24.07.2012 - 1 StR 302/12](1-str-302-12.md) — Revisionsbegründung im Strafverfahren: Erfordernis der Angabe von Aktenstellen der Beweismittel bei einer Aufklärungsrüge
+- [BGH, Beschluss vom 24.07.2012 - 1 StR 57/12](1-str-57-12.md) — Anordnung von Sicherheitsverwahrung: Anwendung eines strengen Verhältnismäßigkeitsgrundsatzes aufgrund der Weitergeltungsanordnung des BVerfG
+- [BGH, Beschluss vom 10.07.2012 - 1 StR 293/12](1-str-293-12.md) — Strafverfahren: Zuständigkeit für eine Verfahrenseinstellung wegen des Todes des Angeklagten zwischen den Instanzen
+- [BGH, Beschluss vom 10.07.2012 - 1 StR 301/12](1-str-301-12.md) — Revision in Strafsachen: Wiedereinsetzung zur formgerechten Nachholung einer unzulässigen Verfahrensrüge
+- [BGH, Beschluss vom 27.06.2012 - 1 StR 131/12](1-str-131-12.md) — Anhörungsrüge im Strafverfahren: Ergänzende Ausführungen nach Entscheidung des Revisionsgerichts
+- [BGH, Beschluss vom 26.06.2012 - 1 StR 158/12](1-str-158-12.md) — Sicherungsverwahrung: Rechtlicher Hinweis auf die Möglichkeit der Anordnung gegen den Angeklagten
+- [BGH, Beschluss vom 26.06.2012 - 1 StR 289/12](1-str-289-12.md) — Gewerbsmäßiger Schmuggel: Anmeldung und Abführung des Umsatzsteuer nach vollendeter Hinterziehung der Einfuhrumsatzsteuer
+- [BGH, Beschluss vom 29.05.2012 - 1 StR 178/12](1-str-178-12.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Zweifelsgrundsatz und Bewertungseinheit
+- [BGH, Beschluss vom 29.05.2012 - 1 StR 59/12](1-str-59-12.md) — Bei der Beurteilung der Schuldfähigkeit kommt der Blutalkoholkonzentration umso geringere Bedeutung zu, je mehr sonstige aussagekräftige psychodiagnostische Bew
+- [BGH, Beschluss vom 23.05.2012 - 1 StR 208/12](1-str-208-12.md) — Verständigung im Strafverfahren: Vermutung wahrheitswidriger Selbstbelastung im Rahmen einer Verständigung; Strafzumessung nach einer Verständigung
+- [BGH, Urteil vom 22.05.2012 - 1 StR 103/12](1-str-103-12.md) — 1. Auch bei einer gewerbsmäßigen Hinterziehung von Einfuhr- oder Ausfuhrabgaben nach § 373 AO in Millionenhöhe kommt eine zwei Jahre nicht überschreitende Freih
+- [BGH, Beschluss vom 02.05.2012 - 1 StR 152/11](1-str-152-11.md) — Strafverfahren: Ablehnungsantrag gegen Revisionsrichter; Verbindung mit Gehörsrüge
+- [BGH, Beschluss vom 02.05.2012 - 1 StR 273/11](1-str-273-11.md) — Pflichtverteidigergebühr: Pauschgebühr für Vorbereitung und Teilnahme an der Revisionshauptverhandlung bei besonderer Verfahrensschwierigkeit
+- [BGH, Beschluss vom 25.04.2012 - 1 StR 566/11](1-str-566-11.md) — Rückgewinnungshilfe: Anwendung in Altfällen
+- [BGH, Beschluss vom 17.04.2012 - 1 StR 146/12](1-str-146-12.md) — Strafverfahren wegen Mordes: Nichtvernehmung eines minderjährigen Zeugen wegen Zweifeln an der "Verstandesreife" zur Erfassung seines Zeugnisverweigerungsrechts
+- [BGH, Urteil vom 17.04.2012 - 1 StR 15/12](1-str-15-12.md) — Erheblich verminderte Schuldfähigkeit bei Beschaffungskriminalität: Steuerungsfähigkeit bei Drogenabhängigkeit, schweren Entzugserscheinungen und bei bevorstehe
+- [BGH, Beschluss vom 22.03.2012 - 1 StR 359/11](1-str-359-11.md) — Strafbarkeit des Vaters des Amokläufers von Winnenden wegen fahrlässiger Tötung aufgrund unzureichender Sicherung von Waffen: Zeugnisverweigerungsrecht eines Kr
+- [BGH, Beschluss vom 22.03.2012 - 1 StR 618/11](1-str-618-11.md) — Strafverfahren: Verwertbarkeit eines Geständnisses bei Drohung mit "Sanktionsschere" durch die Staatsanwaltschaft
+- [BGH, Beschluss vom 21.03.2012 - 1 StR 100/12](1-str-100-12.md) — Strafaussetzung zur Bewährung: Notwendige Erörterung in den Urteilsgründen; günstige Prognose trotz Bewährungsbruchs
+- [BGH, Beschluss vom 21.03.2012 - 1 StR 34/12](1-str-34-12.md) — Absoluter Revisionsgrund in Strafsachen: Verlesen der Aussagegenehmigung für einen Zeugen in nicht öffentlicher Verhandlung
+- [BGH, Urteil vom 21.03.2012 - 1 StR 43/12](1-str-43-12.md) — Hauptverhandlung in Strafsachen: Einführung einer richterlichen Zeugenvernehmung eines das Zeugnis verweigernden Angehörigen durch Vorhalt
+- [BGH, Urteil vom 20.03.2012 - 1 StR 447/11](1-str-447-11.md) — Körperverletzung: Gemeinschaftliche Körperverletzung durch Anwesenheit des Täters bei einer durch einen Dritten begangenen Körperverletzung; Erheblichkeit einer
+- [BGH, Beschluss vom 20.03.2012 - 1 StR 64/12](1-str-64-12.md) — Sicherungsverwahrung: Berücksichtung zulässigen Verteidigungsverhaltens des Angeklagten bei der Gefährlichkeitsprognose
+- [BGH, Urteil vom 20.03.2012 - 1 StR 648/11](1-str-648-11.md) — Notwendige Feststellungen im Strafurteil: Ausschöpfen des Unrechtsgehalts der angeklagten Tat
+- [BGH, Beschluss vom 07.03.2012 - 1 StR 6/12](1-str-6-12.md) — Die Jugendschutzkammer hat ihre Zuständigkeit nicht deshalb willkürlich bejaht, weil ihr die Sache durch das Beschwerdegericht zur Eröffnungsentscheidung vorgel
+- [BGH, Beschluss vom 07.03.2012 - 1 StR 662/11](1-str-662-11.md) — Vorenthalten von Arbeitsentgelt: Konkurrenzverhältnis zu Betrug nach der neuen Gesetzeslage
+- [BGH, Beschluss vom 06.03.2012 - 1 StR 17/12](1-str-17-12.md) — Verfahrensverständigung in Strafsachen: Würdigung der Aussagen von Tatbeteiligten im Verfahren gegen andere Tatbeteiligte
+- [BGH, Beschluss vom 06.03.2012 - 1 StR 28/12](1-str-28-12.md) — Konkurrenzverhältnis zwischen Kraftfahrzeugdiebstahl und Fahren ohne Fahrerlaubnis
+- [BGH, Urteil vom 06.03.2012 - 1 StR 530/11](1-str-530-11.md) — Nachträgliche Gesamtstrafenbildung
+- [BGH, Beschluss vom 06.03.2012 - 1 StR 623/11](1-str-623-11.md) — Strafverfahren: Verwertbarkeit der Aussage des Beschuldigten bei unzureichender Eröffnung des Tatvorwurfs bei der polizeilichen Vernehmung
+- [BGH, Beschluss vom 23.02.2012 - 1 StR 586/11](1-str-586-11.md) — Untreue: Maßgebender Vermögensschaden einer Kommanditgesellschaft; fehlender Strafantrag eines Angehörigen
+- [BGH, Beschluss vom 22.02.2012 - 1 StR 349/11](1-str-349-11.md) — Beurteilung der Aussagen von Tatbeteiligten nach einer Verfahrensverständigung: Verwertbarkeit der Aussagen im Verfahren gegen andere Tatbeteiligte
+- [BGH, Urteil vom 22.02.2012 - 1 StR 378/11](1-str-378-11.md) — Strafurteil wegen Einbruchdiebstahls: Anordnung des teilweisen Vorwegvollzugs der Freiheitsstrafe vor einer Unterbringung in einer Entziehungsanstalt; Wohnungse
+- [BGH, Beschluss vom 22.02.2012 - 1 StR 647/11](1-str-647-11.md) — Revision im Strafverfahren: Erforderlicher Vortrag bei der Rüge der Verletzung des Beweisantragsrechts; Rüge der Nichteinhaltung einer Wahrunterstellung
+- [BGH, Beschluss vom 09.02.2012 - 1 StR 148/11](1-str-148-11.md) — 1. Ein wegen eines Verstoßes gegen den Grundsatz der Spezialität aus Art. 14 des Europäischen Auslieferungsübereinkommens vom 13. Dezember 1957 (EuAlÜbk) besteh
+- [BGH, Beschluss vom 09.02.2012 - 1 StR 438/11](1-str-438-11.md) — Richterablehnung: Unterrichtungspflicht über Verständigungsgespräche im Parallelverfahren
+- [BGH, Urteil vom 08.02.2012 - 1 StR 427/11](1-str-427-11.md) — Körperverletzungs- und Sexualdelikte an einem Mitgefangenen in der Gemeinschaftszelle einer JVA: Mittäterschaft des einen Gefangenen an den allein von dem ander
+- [BGH, Beschluss vom 08.02.2012 - 1 StR 658/11](1-str-658-11.md) — Sexueller Missbrauch von Schutzbefohlenen: Ruhen der Strafverfolgungsverjährung nach Gesetzesänderung
+- [BGH, Urteil vom 07.02.2012 - 1 StR 525/11](1-str-525-11.md) — Zur Strafzumessung bei Steuerhinterziehung „in Millionenhöhe“ (Fortführung von BGH, Urteil vom 2. Dezember 2008, 1 StR 416/08, BGHSt 53, 71).
+- [BGH, Urteil vom 07.02.2012 - 1 StR 542/11](1-str-542-11.md) — Strafverfahren: Dieselbe Tat im prozessualen Sinne
+- [BGH, Beschluss vom 25.01.2012 - 1 StR 45/11](1-str-45-11.md) — Zum Abrechnungsbetrug eines privatliquidierenden Arztes für nicht persönlich erbrachte Leistungen.
+- [BGH, Urteil vom 24.01.2012 - 1 StR 412/11](1-str-412-11.md) — Die Umgrenzungsfunktion der Anklageschrift gebietet auch bei Bandentaten oder "uneigentlichen Organisationsdelikten" nicht, dass für die Bestimmtheit des Anklag
+- [BGH, Beschluss vom 24.01.2012 - 1 StR 551/11](1-str-551-11.md) — Steuerstrafverfahren: Rechtsstaatswidrigkeit einer Verfahrensdauer von nahezu sieben Jahren und sieben Monaten
+- [BGH, Beschluss vom 24.01.2012 - 1 StR 630/11](1-str-630-11.md) — Steuerstraftaten: Abgrenzung der "Steuerverkürzung" von der "Steuerhinterziehung"
+- [BGH, Beschluss vom 24.01.2012 - 1 StR 636/11](1-str-636-11.md) — Steuerstrafverfahren: Kompensation einer rechtsstaatswidrigen Verfahrensverzögerung
+- [BGH, Beschluss vom 12.01.2012 - 1 StR 373/11](1-str-373-11.md) — Strafverfahren: Abwesenheit des Wahlverteidigers in der Hauptverhandlung als Revisionsgrund
+- [BGH, Beschluss vom 12.01.2012 - 1 StR 474/11](1-str-474-11.md) — Strafverfahren: Eigenmächtige Abwesenheit des Angeklagten in einem Fortsetzungstermin
+- [BGH, Beschluss vom 11.01.2012 - 1 StR 386/11](1-str-386-11.md) — Konkurrenzen: Klammerwirkung für Untreuetaten durch Delikte der Bestechlichkeit in einer Vielzahl von Fällen
+- [BGH, Urteil vom 10.01.2012 - 1 StR 580/11](1-str-580-11.md) — Versagung der Strafaussetzung zur Bewährung: Nichtannahme besonderer Umstände bei fehlendem Geständnis; hypothetische Erwägungen in den Urteilsgründen
+- [BGH, Beschluss vom 10.01.2012 - 1 StR 587/11](1-str-587-11.md) — Beweisaufnahme im Strafverfahren: Anforderungen an den Ablauf des Selbstleseverfahrens

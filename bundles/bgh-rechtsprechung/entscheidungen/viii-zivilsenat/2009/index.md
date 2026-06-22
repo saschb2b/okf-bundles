@@ -1,0 +1,43 @@
+# VIII. Zivilsenat – 2009
+
+39 Entscheidung(en).
+
+- [BGH, Urteil vom 09.12.2009 - VIII ZR 91/08](viii-zr-91-08.md) — Tatbestand:
+- [BGH, Urteil vom 09.12.2009 - VIII ZR 93/08](viii-zr-93-08.md) — Tatbestand:
+- [BGH, Beschluss vom 24.11.2009 - VIII ZR 174/09](viii-zr-174-09.md) — nachhaltiger Störung des Hausfriedens durch einen psychisch kranken Mieter dem Tatrichter obliegt, die Belange des Vermieters, des Mieters u
+- [BGH, Urteil vom 11.11.2009 - VIII ZR 11/09](viii-zr-11-09.md) — Tatbestand:
+- [BGH, Urteil vom 11.11.2009 - VIII ZR 249/08](viii-zr-249-08.md) — BGH, Urteil vom 11.11.2009 - VIII ZR 249/08
+- [BGH, Urteil vom 11.11.2009 - VIII ZR 294/08](viii-zr-294-08.md) — Tatbestand:
+- [BGH, Beschluss vom 27.10.2009 - VIII ZB 45/08](viii-zb-45-08.md) — BGH, Beschluss vom 27.10.2009 - VIII ZB 45/08
+- [BGH, Urteil vom 21.10.2009 - VIII ZR 30/09](viii-zr-30-09.md) — Tatbestand:
+- [BGH, Urteil vom 14.10.2009 - VIII ZR 354/08](viii-zr-354-08.md) — unangemessener Benachteiligung des Käufers/Garantienehmers unwirksam.
+- [BGH, Urteil vom 30.09.2009 - VIII ZR 276/08](viii-zr-276-08.md) — Tatbestand:
+- [BGH, Urteil vom 30.09.2009 - VIII ZR 29/09](viii-zr-29-09.md) — Tatbestand:
+- [BGH, Urteil vom 23.09.2009 - VIII ZR 300/08](viii-zr-300-08.md) — Tatbestand:
+- [BGH, Urteil vom 16.09.2009 - VIII ZR 321/08](viii-zr-321-08.md) — Tatbestand:
+- [BGH, Urteil vom 16.09.2009 - VIII ZR 346/08](viii-zr-346-08.md) — Tatbestand:
+- [BGH, Beschluss vom 18.08.2009 - VIII ZR 153/09](viii-zr-153-09.md) — BGH, Beschluss vom 18.08.2009 - VIII ZR 153/09
+- [BGH, Versäumnisurteil vom 12.08.2009 - VIII ZR 254/08](viii-zr-254-08.md) — Tatbestand:
+- [BGH, Urteil vom 16.07.2009 - VIII ZR 231/08](viii-zr-231-08.md) — Eigenbedarfs eines Gesellschafters findet die Kündigungsbeschränkung des § 577a BGB keine Anwendung, wenn nach der Kündigung Wohnungseigentu
+- [BGH, Urteil vom 15.07.2009 - VIII ZR 171/08](viii-zr-171-08.md) — Tatbestand:
+- [BGH, Beschluss vom 14.07.2009 - VIII ZR 101/08](viii-zr-101-08.md) — BGH, Beschluss vom 14.07.2009 - VIII ZR 101/08
+- [BGH, Beschluss vom 14.07.2009 - VIII ZR 295/08](viii-zr-295-08.md) — eines Maschinenschadens in Anspruch, der sich am 12. September 2003 an
+- [BGH, Urteil vom 08.07.2009 - VIII ZR 200/08](viii-zr-200-08.md) — behaupteter anfänglicher Mängel der Mietsache Minderung geltend macht oder die Einrede des nicht erfüllten Vertrages erhebt, die ihm vom Ver
+- [BGH, Urteil vom 08.07.2009 - VIII ZR 266/08](viii-zr-266-08.md) — behaupteter anfänglicher Mängel der Mietsache Minderung geltend macht oder die Einrede des nicht erfüllten Vertrages erhebt, die ihm vom Ver
+- [BGH, Urteil vom 17.06.2009 - VIII ZR 131/08](viii-zr-131-08.md) — Tatbestand:
+- [BGH, Beschluss vom 27.05.2009 - VIII ZB 101/08](viii-zb-101-08.md) — BGH, Beschluss vom 27.05.2009 - VIII ZB 101/08
+- [BGH, Urteil vom 27.05.2009 - VIII ZR 180/08](viii-zr-180-08.md) — Tatbestand:
+- [BGH, Urteil vom 20.05.2009 - VIII ZR 191/07](viii-zr-191-07.md) — Tatbestand:
+- [BGH, Beschluss vom 12.05.2009 - VIII ZA 1/09](viii-za-1-09.md) — BGH, Beschluss vom 12.05.2009 - VIII ZA 1/09
+- [BGH, Urteil vom 22.04.2009 - VIII ZR 86/08](viii-zr-86-08.md) — Tatbestand:
+- [BGH, Urteil vom 08.04.2009 - VIII ZR 128/08](viii-zr-128-08.md) — Tatbestand:
+- [BGH, Urteil vom 08.04.2009 - VIII ZR 233/08](viii-zr-233-08.md) — unangemessener Benachteiligung des Mieters unwirksam; dasselbe gilt für die Vereinbarung der Zulässigkeit einer zeitlich unbegrenzten Rückwi
+- [BGH, Beschluss vom 17.03.2009 - VIII ZB 77/08](viii-zb-77-08.md) — BGH, Beschluss vom 17.03.2009 - VIII ZB 77/08
+- [BGH, Urteil vom 11.03.2009 - VIII ZR 127/08](viii-zr-127-08.md) — Tatbestand:
+- [BGH, Urteil vom 11.03.2009 - VIII ZR 74/08](viii-zr-74-08.md) — Tatbestand:
+- [BGH, Beschluss vom 10.03.2009 - VIII ZB 111/07](viii-zb-111-07.md) — eines Motorschadens an einem Pkw gestritten, den der Kläger vom Beklagten
+- [BGH, Versäumnisurteil vom 04.03.2009 - VIII ZR 110/08](viii-zr-110-08.md) — Tatbestand:
+- [BGH, Urteil vom 04.02.2009 - VIII ZR 66/08](viii-zr-66-08.md) — einer unzulässigen
+- [BGH, Beschluss vom 03.02.2009 - VIII ZB 114/07](viii-zb-114-07.md) — BGH, Beschluss vom 03.02.2009 - VIII ZB 114/07
+- [BGH, Urteil vom 21.01.2009 - VIII ZR 62/08](viii-zr-62-08.md) — Tatbestand:
+- [BGH, Beschluss vom 20.01.2009 - VIII ZB 76/08](viii-zb-76-08.md) — BGH, Beschluss vom 20.01.2009 - VIII ZB 76/08

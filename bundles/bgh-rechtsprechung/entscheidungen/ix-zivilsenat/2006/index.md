@@ -1,0 +1,114 @@
+# IX. Zivilsenat – 2006
+
+110 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2006 - IX ZB 264/05](ix-zb-264-05.md) — BGH, Beschluss vom 21.12.2006 - IX ZB 264/05
+- [BGH, Beschluss vom 21.12.2006 - IX ZB 309/04](ix-zb-309-04.md) — BGH, Beschluss vom 21.12.2006 - IX ZB 309/04
+- [BGH, Beschluss vom 21.12.2006 - IX ZB 60/06](ix-zb-60-06.md) — Besorgnis der Befangenheit abgelehnt. Das
+- [BGH, Beschluss vom 14.12.2006 - IX ZA 38/06](ix-za-38-06.md) — BGH, Beschluss vom 14.12.2006 - IX ZA 38/06
+- [BGH, Urteil vom 14.12.2006 - IX ZR 194/05](ix-zr-194-05.md) — Tatbestand:
+- [BGH, Beschluss vom 14.12.2006 - IX ZR 236/03](ix-zr-236-03.md) — BGH, Beschluss vom 14.12.2006 - IX ZR 236/03
+- [BGH, Beschluss vom 14.12.2006 - IX ZR 34/05](ix-zr-34-05.md) — BGH, Beschluss vom 14.12.2006 - IX ZR 34/05
+- [BGH, Beschluss vom 07.12.2006 - IX ZB 11/06](ix-zb-11-06.md) — BGH, Beschluss vom 07.12.2006 - IX ZB 11/06
+- [BGH, Beschluss vom 07.12.2006 - IX ZB 82/06](ix-zb-82-06.md) — BGH, Beschluss vom 07.12.2006 - IX ZB 82/06
+- [BGH, Beschluss vom 07.12.2006 - IX ZR 157/04](ix-zr-157-04.md) — BGH, Beschluss vom 07.12.2006 - IX ZR 157/04
+- [BGH, Beschluss vom 07.12.2006 - IX ZR 173/03](ix-zr-173-03.md) — fehlerhafter Beratung im Zusammenhang mit der
+- [BGH, Urteil vom 23.11.2006 - IX ZR 21/03](ix-zr-21-03.md) — verloren hätte (Fortführung von BGH, Urt. v. 16. Dezember 2004 - IX ZR 295/00, WM 2005, 950, 951).
+- [BGH, Beschluss vom 23.11.2006 - IX ZR 33/06](ix-zr-33-06.md) — BGH, Beschluss vom 23.11.2006 - IX ZR 33/06
+- [BGH, Beschluss vom 16.11.2006 - IX ZB 302/05](ix-zb-302-05.md) — BGH, Beschluss vom 16.11.2006 - IX ZB 302/05
+- [BGH, Beschluss vom 26.10.2006 - IX ZB 176/05](ix-zb-176-05.md) — BGH, Beschluss vom 26.10.2006 - IX ZB 176/05
+- [BGH, Beschluss vom 26.10.2006 - IX ZB 244/04](ix-zb-244-04.md) — BGH, Beschluss vom 26.10.2006 - IX ZB 244/04
+- [BGH, Beschluss vom 26.10.2006 - IX ZB 95/06](ix-zb-95-06.md) — BGH, Beschluss vom 26.10.2006 - IX ZB 95/06
+- [BGH, Beschluss vom 12.10.2006 - IX ZB 34/05](ix-zb-34-05.md) — BGH, Beschluss vom 12.10.2006 - IX ZB 34/05
+- [BGH, Beschluss vom 12.10.2006 - IX ZB 54/06](ix-zb-54-06.md) — BGH, Beschluss vom 12.10.2006 - IX ZB 54/06
+- [BGH, Beschluss vom 12.10.2006 - IX ZB 9/05](ix-zb-9-05.md) — BGH, Beschluss vom 12.10.2006 - IX ZB 9/05
+- [BGH, Beschluss vom 12.10.2006 - IX ZR 213/04](ix-zr-213-04.md) — BGH, Beschluss vom 12.10.2006 - IX ZR 213/04
+- [BGH, Beschluss vom 28.09.2006 - IX ZA 16/04](ix-za-16-04.md) — BGH, Beschluss vom 28.09.2006 - IX ZA 16/04
+- [BGH, Beschluss vom 28.09.2006 - IX ZA 20/06](ix-za-20-06.md) — BGH, Beschluss vom 28.09.2006 - IX ZA 20/06
+- [BGH, Urteil vom 28.09.2006 - IX ZR 136/05](ix-zr-136-05.md) — Tatbestand:
+- [BGH, Beschluss vom 28.09.2006 - IX ZR 274/03](ix-zr-274-03.md) — BGH, Beschluss vom 28.09.2006 - IX ZR 274/03
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 187/05](ix-zb-187-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 187/05
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 239/05](ix-zb-239-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 239/05
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 24/06](ix-zb-24-06.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 24/06
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 287/05](ix-zb-287-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 287/05
+- [BGH, Beschluss vom 21.09.2006 - IX ZB 31/04](ix-zb-31-04.md) — BGH, Beschluss vom 21.09.2006 - IX ZB 31/04
+- [BGH, Beschluss vom 21.09.2006 - IX ZR 139/05](ix-zr-139-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZR 139/05
+- [BGH, Beschluss vom 21.09.2006 - IX ZR 187/05](ix-zr-187-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZR 187/05
+- [BGH, Urteil vom 21.09.2006 - IX ZR 235/04](ix-zr-235-04.md) — Tatbestand:
+- [BGH, Beschluss vom 21.09.2006 - IX ZR 25/05](ix-zr-25-05.md) — BGH, Beschluss vom 21.09.2006 - IX ZR 25/05
+- [BGH, Urteil vom 21.09.2006 - IX ZR 89/05](ix-zr-89-05.md) — Tatbestand:
+- [BGH, Urteil vom 10.08.2006 - IX ZR 28/05](ix-zr-28-05.md) — der Mängel an dem Bauwerk nur eine Insolvenzforderung zusteht.
+- [BGH, Beschluss vom 27.07.2006 - IX ZB 12/06](ix-zb-12-06.md) — BGH, Beschluss vom 27.07.2006 - IX ZB 12/06
+- [BGH, Beschluss vom 27.07.2006 - IX ZB 141/05](ix-zb-141-05.md) — BGH, Beschluss vom 27.07.2006 - IX ZB 141/05
+- [BGH, Beschluss vom 27.07.2006 - IX ZB 171/05](ix-zb-171-05.md) — BGH, Beschluss vom 27.07.2006 - IX ZB 171/05
+- [BGH, Beschluss vom 27.07.2006 - IX ZB 243/05](ix-zb-243-05.md) — BGH, Beschluss vom 27.07.2006 - IX ZB 243/05
+- [BGH, Beschluss vom 20.07.2006 - IX ZA 12/06](ix-za-12-06.md) — BGH, Beschluss vom 20.07.2006 - IX ZA 12/06
+- [BGH, Beschluss vom 20.07.2006 - IX ZR 179/05](ix-zr-179-05.md) — BGH, Beschluss vom 20.07.2006 - IX ZR 179/05
+- [BGH, Beschluss vom 13.07.2006 - IX ZB 108/04](ix-zb-108-04.md) — BGH, Beschluss vom 13.07.2006 - IX ZB 108/04
+- [BGH, Beschluss vom 13.07.2006 - IX ZB 117/04](ix-zb-117-04.md) — geändert werden.
+- [BGH, Beschluss vom 13.07.2006 - IX ZB 288/03](ix-zb-288-03.md) — BGH, Beschluss vom 13.07.2006 - IX ZB 288/03
+- [BGH, Beschluss vom 06.07.2006 - IX ZB 261/04](ix-zb-261-04.md) — Schadens an Körper und Gesundheit ab. Der
+- [BGH, Beschluss vom 06.07.2006 - IX ZB 56/06](ix-zb-56-06.md) — BGH, Beschluss vom 06.07.2006 - IX ZB 56/06
+- [BGH, Beschluss vom 06.07.2006 - IX ZR 131/05](ix-zr-131-05.md) — BGH, Beschluss vom 06.07.2006 - IX ZR 131/05
+- [BGH, Beschluss vom 06.07.2006 - IX ZR 188/05](ix-zr-188-05.md) — BGH, Beschluss vom 06.07.2006 - IX ZR 188/05
+- [BGH, Beschluss vom 29.06.2006 - IX ZA 17/05](ix-za-17-05.md) — BGH, Beschluss vom 29.06.2006 - IX ZA 17/05
+- [BGH, Beschluss vom 29.06.2006 - IX ZA 7/04](ix-za-7-04.md) — BGH, Beschluss vom 29.06.2006 - IX ZA 7/04
+- [BGH, Beschluss vom 29.06.2006 - IX ZB 19/06](ix-zb-19-06.md) — BGH, Beschluss vom 29.06.2006 - IX ZB 19/06
+- [BGH, Beschluss vom 29.06.2006 - IX ZB 197/04](ix-zb-197-04.md) — BGH, Beschluss vom 29.06.2006 - IX ZB 197/04
+- [BGH, Beschluss vom 29.06.2006 - IX ZB 43/06](ix-zb-43-06.md) — BGH, Beschluss vom 29.06.2006 - IX ZB 43/06
+- [BGH, Beschluss vom 29.06.2006 - IX ZR 149/05](ix-zr-149-05.md) — BGH, Beschluss vom 29.06.2006 - IX ZR 149/05
+- [BGH, Beschluss vom 29.06.2006 - IX ZR 163/05](ix-zr-163-05.md) — BGH, Beschluss vom 29.06.2006 - IX ZR 163/05
+- [BGH, Beschluss vom 29.06.2006 - IX ZR 176/04](ix-zr-176-04.md) — BGH, Beschluss vom 29.06.2006 - IX ZR 176/04
+- [BGH, Beschluss vom 29.06.2006 - IX ZR 75/06](ix-zr-75-06.md) — BGH, Beschluss vom 29.06.2006 - IX ZR 75/06
+- [BGH, Beschluss vom 13.06.2006 - IX ZA 8/06](ix-za-8-06.md) — BGH, Beschluss vom 13.06.2006 - IX ZA 8/06
+- [BGH, Beschluss vom 13.06.2006 - IX ZB 220/05](ix-zb-220-05.md) — BGH, Beschluss vom 13.06.2006 - IX ZB 220/05
+- [BGH, Beschluss vom 18.05.2006 - IX ZB 205/05](ix-zb-205-05.md) — BGH, Beschluss vom 18.05.2006 - IX ZB 205/05
+- [BGH, Beschluss vom 18.05.2006 - IX ZB 268/05](ix-zb-268-05.md) — BGH, Beschluss vom 18.05.2006 - IX ZB 268/05
+- [BGH, Beschluss vom 18.05.2006 - IX ZR 61/05](ix-zr-61-05.md) — BGH, Beschluss vom 18.05.2006 - IX ZR 61/05
+- [BGH, Beschluss vom 11.05.2006 - IX ZR 80/05](ix-zr-80-05.md) — BGH, Beschluss vom 11.05.2006 - IX ZR 80/05
+- [BGH, Beschluss vom 04.05.2006 - IX ZA 26/04](ix-za-26-04.md) — BGH, Beschluss vom 04.05.2006 - IX ZA 26/04
+- [BGH, Beschluss vom 04.05.2006 - IX ZB 202/05](ix-zb-202-05.md) — BGH, Beschluss vom 04.05.2006 - IX ZB 202/05
+- [BGH, Beschluss vom 04.05.2006 - IX ZR 152/05](ix-zr-152-05.md) — BGH, Beschluss vom 04.05.2006 - IX ZR 152/05
+- [BGH, Beschluss vom 04.05.2006 - IX ZR 243/04](ix-zr-243-04.md) — BGH, Beschluss vom 04.05.2006 - IX ZR 243/04
+- [BGH, Beschluss vom 13.04.2006 - IX ZA 1/04](ix-za-1-04.md) — BGH, Beschluss vom 13.04.2006 - IX ZA 1/04
+- [BGH, Beschluss vom 13.04.2006 - IX ZR 173/02](ix-zr-173-02.md) — BGH, Beschluss vom 13.04.2006 - IX ZR 173/02
+- [BGH, Beschluss vom 13.04.2006 - IX ZR 275/02](ix-zr-275-02.md) — BGH, Beschluss vom 13.04.2006 - IX ZR 275/02
+- [BGH, Beschluss vom 06.04.2006 - IX ZB 170/05](ix-zb-170-05.md) — BGH, Beschluss vom 06.04.2006 - IX ZB 170/05
+- [BGH, Beschluss vom 05.04.2006 - IX ZB 144/05](ix-zb-144-05.md) — BGH, Beschluss vom 05.04.2006 - IX ZB 144/05
+- [BGH, Beschluss vom 05.04.2006 - IX ZB 169/04](ix-zb-169-04.md) — BGH, Beschluss vom 05.04.2006 - IX ZB 169/04
+- [BGH, Beschluss vom 05.04.2006 - IX ZB 49/05](ix-zb-49-05.md) — BGH, Beschluss vom 05.04.2006 - IX ZB 49/05
+- [BGH, Beschluss vom 05.04.2006 - IX ZR 245/03](ix-zr-245-03.md) — BGH, Beschluss vom 05.04.2006 - IX ZR 245/03
+- [BGH, Beschluss vom 30.03.2006 - IX ZB 36/05](ix-zb-36-05.md) — BGH, Beschluss vom 30.03.2006 - IX ZB 36/05
+- [BGH, Urteil vom 23.03.2006 - IX ZR 140/03](ix-zr-140-03.md) — der Gewerbesteuer steuermindernd geltend zu machen.
+- [BGH, Beschluss vom 09.03.2006 - IX ZB 161/05](ix-zb-161-05.md) — BGH, Beschluss vom 09.03.2006 - IX ZB 161/05
+- [BGH, Beschluss vom 09.03.2006 - IX ZB 19/05](ix-zb-19-05.md) — BGH, Beschluss vom 09.03.2006 - IX ZB 19/05
+- [BGH, Beschluss vom 09.03.2006 - IX ZB 83/05](ix-zb-83-05.md) — BGH, Beschluss vom 09.03.2006 - IX ZB 83/05
+- [BGH, Beschluss vom 09.03.2006 - IX ZR 113/03](ix-zr-113-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 113/03
+- [BGH, Beschluss vom 09.03.2006 - IX ZR 115/03](ix-zr-115-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 115/03
+- [BGH, Beschluss vom 09.03.2006 - IX ZR 133/03](ix-zr-133-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 133/03
+- [BGH, Beschluss vom 09.03.2006 - IX ZR 191/03](ix-zr-191-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 191/03
+- [BGH, Beschluss vom 09.03.2006 - IX ZR 286/03](ix-zr-286-03.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 286/03
+- [BGH, Beschluss vom 09.03.2006 - IX ZR 67/04](ix-zr-67-04.md) — BGH, Beschluss vom 09.03.2006 - IX ZR 67/04
+- [BGH, Beschluss vom 02.03.2006 - IX ZB 225/04](ix-zb-225-04.md) — BGH, Beschluss vom 02.03.2006 - IX ZB 225/04
+- [BGH, Beschluss vom 02.03.2006 - IX ZB 23/06](ix-zb-23-06.md) — BGH, Beschluss vom 02.03.2006 - IX ZB 23/06
+- [BGH, Urteil vom 02.03.2006 - IX ZR 15/05](ix-zr-15-05.md) — Tatbestand:
+- [BGH, Beschluss vom 02.03.2006 - IX ZR 24/05](ix-zr-24-05.md) — BGH, Beschluss vom 02.03.2006 - IX ZR 24/05
+- [BGH, Beschluss vom 16.02.2006 - IX ZR 254/02](ix-zr-254-02.md) — BGH, Beschluss vom 16.02.2006 - IX ZR 254/02
+- [BGH, Beschluss vom 16.02.2006 - IX ZR 32/02](ix-zr-32-02.md) — BGH, Beschluss vom 16.02.2006 - IX ZR 32/02
+- [BGH, Beschluss vom 09.02.2006 - IX ZB 196/04](ix-zb-196-04.md) — deren Vertretung in einem vorausgegangenen Rechtsstreit vor dem
+- [BGH, Beschluss vom 09.02.2006 - IX ZB 200/04](ix-zb-200-04.md) — BGH, Beschluss vom 09.02.2006 - IX ZB 200/04
+- [BGH, Beschluss vom 09.02.2006 - IX ZB 218/04](ix-zb-218-04.md) — BGH, Beschluss vom 09.02.2006 - IX ZB 218/04
+- [BGH, Urteil vom 09.02.2006 - IX ZR 151/04](ix-zr-151-04.md) — Tatbestand:
+- [BGH, Beschluss vom 02.02.2006 - IX ZB 279/04](ix-zb-279-04.md) — BGH, Beschluss vom 02.02.2006 - IX ZB 279/04
+- [BGH, Beschluss vom 02.02.2006 - IX ZB 78/04](ix-zb-78-04.md) — BGH, Beschluss vom 02.02.2006 - IX ZB 78/04
+- [BGH, Beschluss vom 02.02.2006 - IX ZR 296/01](ix-zr-296-01.md) — BGH, Beschluss vom 02.02.2006 - IX ZR 296/01
+- [BGH, Urteil vom 02.02.2006 - IX ZR 46/05](ix-zr-46-05.md) — Tatbestand:
+- [BGH, Beschluss vom 26.01.2006 - IX ZR 204/02](ix-zr-204-02.md) — BGH, Beschluss vom 26.01.2006 - IX ZR 204/02
+- [BGH, Beschluss vom 19.01.2006 - IX ZB 52/03](ix-zb-52-03.md) — BGH, Beschluss vom 19.01.2006 - IX ZB 52/03
+- [BGH, Urteil vom 19.01.2006 - IX ZR 154/03](ix-zr-154-03.md) — Tatbestand:
+- [BGH, Urteil vom 19.01.2006 - IX ZR 232/01](ix-zr-232-01.md) — BGH, Urteil vom 19.01.2006 - IX ZR 232/01
+- [BGH, Beschluss vom 19.01.2006 - IX ZR 262/03](ix-zr-262-03.md) — BGH, Beschluss vom 19.01.2006 - IX ZR 262/03
+- [BGH, Beschluss vom 12.01.2006 - IX ZB 29/04](ix-zb-29-04.md) — BGH, Beschluss vom 12.01.2006 - IX ZB 29/04
+- [BGH, Beschluss vom 12.01.2006 - IX ZR 238/04](ix-zr-238-04.md) — ist der Anspruch ohne weiteres aus §§ 30, 31 GmbHG begründet. Auf
+- [BGH, Beschluss vom 12.01.2006 - IX ZR 35/05](ix-zr-35-05.md) — BGH, Beschluss vom 12.01.2006 - IX ZR 35/05
+- [BGH, Beschluss vom 12.01.2006 - IX ZR 83/02](ix-zr-83-02.md) — BGH, Beschluss vom 12.01.2006 - IX ZR 83/02

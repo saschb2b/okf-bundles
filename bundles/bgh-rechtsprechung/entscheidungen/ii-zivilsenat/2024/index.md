@@ -1,0 +1,58 @@
+# II. Zivilsenat – 2024
+
+54 Entscheidung(en).
+
+- [BGH, Beschluss vom 17.12.2024 - II ZB 5/24](ii-zb-5-24.md) — Eine aus einem anderen Dateiformat in eine PDF-Datei umgewandelte Rechtsmittel- oder Rechtsmittelbegründungsschrift ist durch den signierenden Rechtsanwalt vor 
+- [BGH, Beschluss vom 10.12.2024 - II ZB 14/24](ii-zb-14-24.md) — BGH, Beschluss II ZB 14/24
+- [BGH, Urteil vom 10.12.2024 - II ZR 37/23](ii-zr-37-23.md) — 1. Bei einer Klage auf Feststellung der Unwirksamkeit eines Beschlusses der Gesellschafterversammlung nach dem bis zum 31. Dezember 2023 für Personengesellschaf
+- [BGH, Beschluss vom 10.12.2024 - II ZR 39/24](ii-zr-39-24.md) — Schadensersatz wegen unrechtmäßigen Zwangsabstiegs eines Sportvereins
+- [BGH, Beschluss vom 04.12.2024 - II ZB 17/23](ii-zb-17-23.md) — BGH, Beschluss II ZB 17/23
+- [BGH, Urteil vom 03.12.2024 - II ZR 143/23](ii-zr-143-23.md) — Die Haftung des Kommanditisten der der durch die Eröffnung des Insolvenzverfahrens aufgelösten Kommanditgesellschaft angehört, ist nicht entsprechend § 161 Abs.
+- [BGH, Beschluss vom 03.12.2024 - II ZR 167/23](ii-zr-167-23.md) — BGH, Beschluss II ZR 167/23
+- [BGH, Beschluss vom 21.11.2024 - II ZA 2/23](ii-za-2-23.md) — BGH, Beschluss II ZA 2/23
+- [BGH, Beschluss vom 21.11.2024 - II ZA 3/23](ii-za-3-23.md) — BGH, Beschluss II ZA 3/23
+- [BGH, Beschluss vom 21.11.2024 - II ZA 4/23](ii-za-4-23.md) — BGH, Beschluss II ZA 4/23
+- [BGH, Beschluss vom 07.11.2024 - II ZR 198/22](ii-zr-198-22.md) — BGH, Beschluss II ZR 198/22
+- [BGH, Beschluss vom 06.11.2024 - II ZB 12/24](ii-zb-12-24.md) — BGH, Beschluss II ZB 12/24
+- [BGH, Urteil vom 05.11.2024 - II ZR 35/23](ii-zr-35-23.md) — 1. Bei einer außerordentlichen Kündigung des Anstellungsvertrags des Geschäftsführers einer Gesellschaft mit beschränkter Haftung aufgrund vertraglich vereinbar
+- [BGH, Urteil vom 05.11.2024 - II ZR 85/23](ii-zr-85-23.md) — 1. In der zweigliedrigen Gesellschaft mit beschränkter Haftung erübrigt sich eine Beschlussfassung nach § 46 Nr. 8 Fall 1 und 2 GmbHG, wenn nur die Stimmen des 
+- [BGH, Urteil vom 29.10.2024 - II ZR 222/21](ii-zr-222-21.md) — Zur Auslegung einer Fortführungsklausel im Gesellschaftsvertrag einer Gesellschaft bürgerlichen Rechts.
+- [BGH, Beschluss vom 22.10.2024 - II ZB 11/23](ii-zb-11-23.md) — Eine sofortige Beschwerde gegen die Bestellung eines Prozesspflegers nach § 57 ZPO für eine GmbH ist nicht statthaft.
+- [BGH, Beschluss vom 22.10.2024 - II ZR 131/23](ii-zr-131-23.md) — BGH, Beschluss II ZR 131/23
+- [BGH, EuGH-Vorlage vom 22.10.2024 - II ZR 193/22](ii-zr-193-22.md) — 1. Dem Gerichtshof der Europäischen Union wird gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 AEUV zur Auslegung der Richtlinie 2004/109/EG des Europäischen Parlaments
+- [BGH, Urteil vom 22.10.2024 - II ZR 64/23](ii-zr-64-23.md) — Die Bindung an eine Stimmabgabe vor Abschluss des Abstimmungsverfahrens in einer Personengesellschaft richtet sich zunächst nach den im Gesellschaftsvertrag ode
+- [BGH, Urteil vom 22.10.2024 - II ZR 97/23](ii-zr-97-23.md) — 1. Bei der rechtlichen Prüfung der Billigkeit sind sämtliche Umstände des Einzelfalls zu berücksichtigen und gegeneinander abzuwägen. Bei dieser Abwägung sind i
+- [BGH, Beschluss vom 30.09.2024 - II ZB 17/22](ii-zb-17-22.md) — BGH, Beschluss II ZB 17/22
+- [BGH, Beschluss vom 24.09.2024 - II ZB 15/23](ii-zb-15-23.md) — Die vom Liquidator einer Gesellschaft mit beschränkter Haftung nach § 67 Abs. 3 Satz 1, § 66 Abs. 4, § 6 Abs. 2 Satz 2 Nr. 2, Satz 3, § 8 Abs. 3 Satz 1 GmbHG ab
+- [BGH, Beschluss vom 20.09.2024 - II ZR 37/24](ii-zr-37-24.md) — BGH, Beschluss II ZR 37/24
+- [BGH, Beschluss vom 17.09.2024 - II ZR 21/23](ii-zr-21-23.md) — BGH, Beschluss II ZR 21/23
+- [BGH, Urteil vom 17.09.2024 - II ZR 221/22](ii-zr-221-22.md) — 1. Ein Geltendmachungsbeschluss ist nichtig, soweit er Ansprüche gegen Aktionäre wegen unberechtigter Dividendenzahlungen aus § 62 Abs. 1 Satz 1 AktG und § 823 
+- [BGH, Beschluss vom 17.09.2024 - II ZR 223/22](ii-zr-223-22.md) — Bestimmung der Beschwer des Rechtsmittelführers
+- [BGH, Urteil vom 22.08.2024 - II ZR 86/23](ii-zr-86-23.md) — Anforderungen an tatrichterliche Auslegung der Erklärungen der Parteien
+- [BGH, Beschluss vom 23.07.2024 - II ZB 3/24](ii-zb-3-24.md) — Für die Bemessung des Geschäftswerts eines Beschlusses über die Erhöhung des Stammkapitals einer GmbH ist innerhalb der durch § 105 Abs. 1 Satz 2 und § 108 Abs.
+- [BGH, Urteil vom 23.07.2024 - II ZR 206/22](ii-zr-206-22.md) — 1. Die Teilaufnahme eines nach § 240 ZPO unterbrochenen Rechtsstreits ist trotz Gefahr einander widersprechender Entscheidungen in Bezug auf den aufgenommenen T
+- [BGH, Urteil vom 23.07.2024 - II ZR 222/22](ii-zr-222-22.md) — Die Aufnahme eines durch Eröffnung des Insolvenzverfahrens unterbrochenen Rechtsstreits über eine Insolvenzforderung zur Beseitigung eines Schuldnerwiderspruchs
+- [BGH, Urteil vom 16.07.2024 - II ZR 100/23](ii-zr-100-23.md) — Bei der Partnerschaftsgesellschaft führt die Einberufung durch einen Unbefugten zur Unwirksamkeit der Einladung und zur Nichtigkeit der auf der Gesellschafterve
+- [BGH, Urteil vom 16.07.2024 - II ZR 71/23](ii-zr-71-23.md) — 1. Gesellschafterbeschlüsse einer GmbH, die gegen die in der Satzung festgelegte, nicht auf zwingenden gesetzlichen Vorschriften beruhende Kompetenzverteilung v
+- [BGH, Beschluss vom 06.06.2024 - II ZB 14/22](ii-zb-14-22.md) — BGH, Beschluss II ZB 14/22
+- [BGH, Beschluss vom 04.06.2024 - II ZB 10/23](ii-zb-10-23.md) — 1. Ein früheres Vereinsvorstandsmitglied kann nach seinem Ausscheiden aus dem Amt gegen das Registergericht einen Anspruch auf Löschung seiner im Vereinsregiste
+- [BGH, Beschluss vom 30.04.2024 - II ZR 17/23](ii-zr-17-23.md) — BGH, Beschluss II ZR 17/23
+- [BGH, Urteil vom 23.04.2024 - II ZR 99/22](ii-zr-99-22.md) — Zur Wirksamkeit eines mit einem GmbH-Geschäftsführer vereinbarten nachvertraglichen Wettbewerbsverbots, das bei Zuwiderhandlung den rückwirkenden Verfall einer 
+- [BGH, Beschluss vom 16.04.2024 - II ZB 4/24](ii-zb-4-24.md) — Zulässigkeitserfordernis der Zulassung der Rechtsbeschwerde durch das Beschwerdegericht
+- [BGH, Beschluss vom 16.04.2024 - II ZR 70/23](ii-zr-70-23.md) — Dem Berufungsgericht ist es verwehrt, die Berufung gemäß § 522 Abs. 2 ZPO zurückzuweisen und dadurch eine Klageänderung für wirkungslos zu erachten, wenn das Er
+- [BGH, Beschluss vom 15.04.2024 - II ZR 82/23](ii-zr-82-23.md) — Feststellung der Aktionärseigenschaft an Aktiengesellschaft; Erwerb von Rechten an Gesellschaft aus Bodensatz der Wertpapierbereinigung
+- [BGH, Beschluss vom 12.03.2024 - II ZB 4/23](ii-zb-4-23.md) — Ein im Wege der Sonderrechtsnachfolge übergegangener Kommanditanteil unterliegt auch dann der Dauertestamentsvollstreckung, wenn der Erbe bereits Gesellschafter
+- [BGH, Beschluss vom 12.03.2024 - II ZR 104/23](ii-zr-104-23.md) — BGH, Beschluss II ZR 104/23
+- [BGH, Beschluss vom 05.03.2024 - II ZB 12/23](ii-zb-12-23.md) — BGH, Beschluss II ZB 12/23
+- [BGH, Beschluss vom 05.03.2024 - II ZB 13/23](ii-zb-13-23.md) — Der ein Firmenmissbrauchsverfahren Anregende hat weder ein Beschwerderecht gegen die eine Verfahrenseinleitung ablehnende Entscheidung des Registergerichts noch
+- [BGH, Beschluss vom 06.02.2024 - II ZB 19/22](ii-zb-19-22.md) — Der Geschäftswert der notariellen Beurkundung der Übertragung eines Geschäftsanteils an einer gemeinnützigen GmbH bestimmt sich nach dem Eigenkapital der Gesell
+- [BGH, Beschluss vom 06.02.2024 - II ZB 23/22](ii-zb-23-22.md) — Gemäß § 2 Abs. 1 PartGG i.d.F. vom 10. August 2021, in Kraft getreten am 1. Januar 2024, muss der Name der Partnerschaft nur noch den Zusatz "und Partner" oder 
+- [BGH, Beschluss vom 31.01.2024 - II ZB 5/22](ii-zb-5-22.md) — 1. Der Rückgriff auf den Börsenkurs einer Gesellschaft ist grundsätzlich eine geeignete Methode zur Schätzung des Unternehmenswerts und des Werts der Beteiligun
+- [BGH, Beschluss vom 31.01.2024 - II ZR 168/22](ii-zr-168-22.md) — BGH, Beschluss II ZR 168/22
+- [BGH, Beschluss vom 23.01.2024 - II ZB 7/23](ii-zb-7-23.md) — 1. Der Geschäftsführer einer GmbH hat keinen Anspruch aus Art. 17 Abs. 1 DS-GVO auf Löschung seines Geburtsdatums und seines Wohnorts im Handelsregister. 2. Der
+- [BGH, Beschluss vom 23.01.2024 - II ZB 8/23](ii-zb-8-23.md) — 1. Der Kommanditist hat keinen Anspruch aus Art. 17 Abs. 1 DS-GVO auf Löschung seines Geburtsdatums und seines Wohnorts im Handelsregister. 2. Der Kommanditist 
+- [BGH, Beschluss vom 14.01.2024 - II ZB 15/22](ii-zb-15-22.md) — Festsetzung des Werts des Gegenstands der anwaltlichen Tätigkeit im Rechtsbeschwerdeverfahren
+- [BGH, Beschluss vom 09.01.2024 - II ZB 20/22](ii-zb-20-22.md) — Ein Aufsichtsrat, der wegen eines dauerhaft boykottierenden Aufsichtsratsmitglieds beschlussunfähig ist, kann nicht entsprechend § 104 Abs. 1 Satz 1 AktG ergänz
+- [BGH, Urteil vom 09.01.2024 - II ZR 220/22](ii-zr-220-22.md) — 1. Die Berufung auf die fehlende Eintragung einer eintragungspflichtigen Tatsache ist dem Dritten gemäß § 15 Abs. 1 HGB nur dann verwehrt, wenn er positive Kenn
+- [BGH, Urteil vom 09.01.2024 - II ZR 65/23](ii-zr-65-23.md) — 1. Die Verjährung des Anspruchs der Gesellschaft auf Leistung der Einlagen vor Beginn des Kaduzierungsverfahrens schließt die Säumnis des Gesellschafters im Sin
+- [BGH, Beschluss vom 02.01.2024 - II ZR 86/22](ii-zr-86-22.md) — BGH, Beschluss II ZR 86/22

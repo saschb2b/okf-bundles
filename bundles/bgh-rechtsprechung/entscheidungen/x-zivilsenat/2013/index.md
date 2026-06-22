@@ -1,0 +1,43 @@
+# X. Zivilsenat – 2013
+
+39 Entscheidung(en).
+
+- [BGH, Urteil vom 10.12.2013 - X ZR 24/13](x-zr-24-13.md) — 1. Die Luftbeförderung gehört bei einer Flugreise zu der vom Reiseveranstalter zu erbringenden Hauptleistung. Der Reisevertrag muss die Frage regeln, wann sie e
+- [BGH, Urteil vom 26.11.2013 - X ZR 3/13](x-zr-3-13.md) — Profilstrangpressverfahren Die Anrufung der durch das Gesetz über Arbeitnehmererfindungen beim Deutschen Patent- und Markenamt eingerichteten Schiedsstelle hemm
+- [BGH, Urteil vom 13.11.2013 - X ZR 115/12](x-zr-115-12.md) — 1. Kehrt der Fluggast, der wegen eines verspäteten Flugs einen gebuchten Anschlussflug verpasst hat und mit einem ihm angebotenen Ersatzflug sein Endziel nicht 
+- [BGH, Urteil vom 13.11.2013 - X ZR 171/12](x-zr-171-12.md) — Einkaufskühltasche 1. Die Ermittlung des Werts eines Unterlassungsanspruchs wegen Verletzung eines gewerblichen Schutzrechts erfordert eine Prognose, mit der so
+- [BGH, Beschluss vom 29.10.2013 - X ZB 17/12](x-zb-17-12.md) — Bergbaumaschine 1. Ein Anwalt muss durch allgemeine Anweisungen sicherstellen, dass sein Büropersonal nicht eigenmächtig im Fristenkalender eingetragene Fristen
+- [BGH, Urteil vom 15.10.2013 - X ZR 41/11](x-zr-41-11.md) — Bildanzeigegerät Wird dem Erwerber einer Vorrichtung ein Handbuch als Begleitunterlage überlassen, steht es der Offenkundigkeit der darin enthaltenen technische
+- [BGH, Urteil vom 24.09.2013 - X ZR 129/12](x-zr-129-12.md) — Ausgleichszahlung bei Flugannulierung: Vogelschlag als außergewöhnlicher Umstand; notwendige Urteilsfeststellungen zur Vermeidbarkeit einer Flugannulierung
+- [BGH, Urteil vom 24.09.2013 - X ZR 160/12](x-zr-160-12.md) — 1. Ein durch Vogelschlag verursachter Turbinenschaden, der den Abbruch eines Starts erzwingt oder den erneuten Einsatz eines beim Landeanflug beschädigten Flugz
+- [BGH, Urteil vom 24.09.2013 - X ZR 40/12](x-zr-40-12.md) — Fettsäuren Das nachträgliche Auffinden der biologischen Zusammenhänge, die der Wirkung eines Arzneimittels zugrunde liegen, offenbart keine neue Lehre zum techn
+- [BGH, Urteil vom 17.09.2013 - X ZR 150/10](x-zr-150-10.md) — Fluggastrechte: Ausgleichsleistungsanspruch bei Versäumung eines Anschlussfluges infolge eines weniger als drei Stunden verspäteten Zubringerflugs; Verspätung v
+- [BGH, Beschluss vom 11.09.2013 - X ZB 8/12](x-zb-8-12.md) — Dipeptidyl-Peptidase-Inhibitoren 1. Dem Patentanmelder ist es grundsätzlich unbenommen, den beanspruchten Schutz nicht auf Ausführungsformen zu beschränken, die
+- [BGH, Beschluss vom 03.09.2013 - X ZR 1/13, X ZR 2/13](x-zr-1-13-x-zr-2-13.md) — Kostenbegünstigung III 1. Ein nicht aktiv am Wirtschaftsleben beteiligtes Unternehmen, das nicht über nennenswerte Vermögensgegenstände verfügt, wird in seiner 
+- [BGH, Beschluss vom 03.09.2013 - X ZR 130/12](x-zr-130-12.md) — Kabelschloss Bei der Bestimmung des herauszugebenden Anteils des Verletzergewinns, der durch die Benutzung der erfindungsgemäßen Lehre vermittelt worden ist, is
+- [BGH, Urteil vom 27.08.2013 - X ZR 19/12](x-zr-19-12.md) — Tretkurbeleinheit 1. Ein neues Angriffsmittel, das aus im zweiten Rechtszug neu eingeführten technischen Informationen einer Entgegenhaltung hergeleitet werden 
+- [BGH, Beschluss vom 27.08.2013 - X ZR 83/10](x-zr-83-10.md) — Nichtigkeitsstreitwert II Wird das Streitpatent von mehreren Klägern in demselben Umfang angegriffen, ist für eine Aufteilung des Streitwerts auf die einzelnen 
+- [BGH, Beschluss vom 06.08.2013 - X ZB 2/12](x-zb-2-12.md) — Tintenstrahldrucker 1. Die Löschung eines Gebrauchsmusters hat zu unterbleiben, wenn der Schutzanspruch zwar ein Merkmal enthält, das in den ursprünglich einger
+- [BGH, EuGH-Vorlage vom 30.07.2013 - X ZR 111/12](x-zr-111-12.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 AEUV zur Auslegung von Art. 7 und Art. 12 der Verordnung (EG) Nr. 261/2004 des Parlaments und des R
+- [BGH, EuGH-Vorlage vom 30.07.2013 - X ZR 113/12](x-zr-113-12.md) — Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 AEUV zur Auslegung von Art. 7 und Art. 12 der Verordnung (EG) Nr. 261/2004 des Parlaments und des R
+- [BGH, Urteil vom 18.06.2013 - X ZR 35/12](x-zr-35-12.md) — Patentnichtigkeitsverfahren: Patentfähigkeit eines Streitpatents als Dotierungsverfahren für Halbleiterkristalle mit großer Bandlücke; Patentbeschränkung auf di
+- [BGH, Beschluss vom 28.05.2013 - X ZR 137/09](x-zr-137-09.md) — Sachverständigenentschädigung VI 1. Die Parteien können sich auch nach Heranziehung eines Sachverständigen mit einer abweichend von der gesetzlichen Regelung zu
+- [BGH, Urteil vom 28.05.2013 - X ZR 21/12](x-zr-21-12.md) — Walzstraße 1. Lässt das Patentgericht in seinem gemäß § 83 Abs. 1 PatG erteilten Hinweis erkennen, dass es die Argumentation des Nichtigkeitsklägers in einem be
+- [BGH, Urteil vom 28.05.2013 - X ZR 88/12](x-zr-88-12.md) — Ansprüche eines Verbrauchers gegen einen Reiseveranstalter aus einem Vertrag, in dem sich der Reiseveranstalter zur zeitweisen Überlassung eines in einem andere
+- [BGH, Urteil vom 28.05.2013 - X ZR 89/12](x-zr-89-12.md) — Gegenstand des Patents: Abgrenzung einer Erweiterung gegenüber der Anmeldung von einer Änderung der Beschreibung
+- [BGH, Urteil vom 14.05.2013 - X ZR 15/11](x-zr-15-11.md) — 1. Inwieweit die Reise mangelhaft war und sich der Reisepreis infolgedessen mindert, kann bei einer Kreuzfahrt nicht schematisch aufgrund eines für jeden Reiset
+- [BGH, Urteil vom 07.05.2013 - X ZR 127/11](x-zr-127-11.md) — 1. Den Fluggästen eines verspäteten, nach Art. 3 Abs. 1 in den Anwendungsbereich der Fluggastrechteverordnung fallenden Flugs steht ein Ausgleichsanspruch nach 
+- [BGH, Urteil vom 07.05.2013 - X ZR 69/11](x-zr-69-11.md) — Fräsverfahren 1a. Die für eine Klage auf Feststellung der Schadensersatzpflicht erforderliche Wahrscheinlichkeit, dass der Berechtigte aufgrund einer mittelbare
+- [BGH, Zwischenurteil vom 23.04.2013 - X ZR 169/12](x-zr-169-12.md) — Aufnahme des Patentnichtigkeitsverfahrens Das durch Eröffnung des Insolvenzverfahrens über das Vermögen des Patentinhabers unterbrochene Patentnichtigkeitsverfa
+- [BGH, Urteil vom 23.04.2013 - X ZR 27/12](x-zr-27-12.md) — Fahrzeugnavigationssystem Die Anweisung an den Fachmann, bei der Sprachausgabe eines Navigationshinweises unter bestimmten Bedingungen bestimmte Detailinformati
+- [BGH, Urteil vom 16.04.2013 - X ZR 49/12](x-zr-49-12.md) — Fahrzeugscheibe 1. Die Übertragung des Rechts auf Inanspruchnahme der Priorität einer deutschen Patentanmeldung ist auch dann nicht formbedürftig, wenn die Prio
+- [BGH, Beschluss vom 16.04.2013 - X ZR 83/12](x-zr-83-12.md) — Eine Weigerung, den Fluggast zu befördern, kann grundsätzlich nur dann angenommen werden, wenn sie diesem gegenüber auch zum Ausdruck gebracht wird.
+- [BGH, EuGH-Vorlage vom 09.04.2013 - X ZR 105/12](x-zr-105-12.md) — Dem Gerichtshof der Europäischen Union wird gemäß Art. 267 AEUV folgende Frage zur Auslegung des Unionsrechts vorgelegt: Ist das Abkommen zwischen der Schweizer
+- [BGH, Urteil vom 09.04.2013 - X ZR 130/11](x-zr-130-11.md) — Verschlüsselungsverfahren 1. Allein aus dem Umstand, dass aus technischer Sicht der Anwendung eines in der Patentanmeldung offenbarten Verfahrens (hier: Verschl
+- [BGH, Beschluss vom 20.03.2013 - X ZB 15/12](x-zb-15-12.md) — Patentstreitsache II 1. Bei der Honorarklage eines Rechts- oder Patentanwalts handelt es sich nicht notwendigerweise schon deswegen um eine Patentstreitsache, w
+- [BGH, Urteil vom 19.02.2013 - X ZR 70/12](x-zr-70-12.md) — Wundverband Hat der Patentinhaber, nachdem er Ansprüche gegen einen Patentverletzer rechtshängig gemacht hat, einem Dritten eine ausschließliche Lizenz an dem K
+- [BGH, Urteil vom 05.02.2013 - X ZR 59/12](x-zr-59-12.md) — Genveränderungen 1. Zu den Einnahmen im Sinne von § 42 Nr. 4 ArbEG gehören nicht nur Geldzahlungen, die dem Dienstherrn aufgrund der Verwertung der Erfindung zu
+- [BGH, Beschluss vom 23.01.2013 - X ZB 8/11](x-zb-8-11.md) — Kostenentscheidung nach übereinstimmender Erledigterklärung eines Vergabenachprüfungsverfahren für die Vergabe von Briefdienstleistungen: Vereinbarkeit der Zula
+- [BGH, Urteil vom 22.01.2013 - X ZR 70/11](x-zr-70-11.md) — Patentrecht: Erfindungsberechtigung auf Grund schöpferischer Beiträge
+- [BGH, Urteil vom 15.01.2013 - X ZR 155/10](x-zr-155-10.md) — Parkhaussanierung Legt der öffentliche Auftraggeber den Vergabeunterlagen ein Kurztextleistungsverzeichnis bei, darf der Bieter als Adressat dies dahin verstehe
+- [BGH, Urteil vom 15.01.2013 - X ZR 81/11](x-zr-81-11.md) — Messelektronik für Coriolisdurchflussmesser Maßgeblich für die Beurteilung der Frage, ob die Weiterverbreitung technischer Informationen an Dritte nach der Lebe

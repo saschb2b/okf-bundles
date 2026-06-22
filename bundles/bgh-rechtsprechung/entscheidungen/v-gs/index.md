@@ -1,7 +1,7 @@
-# v-gs
+# V GS
 
-1 Entscheidung(en).
+Großer Senat bzw. Vereinigte Große Senate (Vorlagen zur Sicherung der Rechtseinheit). 1 Entscheidung(en).
 
-## 2016
+## Nach Jahr
 
-- [BGH, Beschluss vom 16.09.2016 - VGS 1/16](2016/vgs-1-16.md)
+- [2016](2016/index.md) (1)

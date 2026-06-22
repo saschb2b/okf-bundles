@@ -1,0 +1,241 @@
+# 6. Strafsenat – 2024
+
+237 Entscheidung(en).
+
+- [BGH, Beschluss vom 16.12.2024 - 6 StR 226/24](6-str-226-24.md) — Richterablehnung im Strafverfahren: Voraussetzungen für die Verwerfung eines Ablehnungsantrags als unzulässig
+- [BGH, Urteil vom 16.12.2024 - 6 StR 335/23](6-str-335-23.md) — Verstoß gegen das Recht auf ein faires Verfahren wegen der Mitwirkung eines beschuldigten Staatsanwalts
+- [BGH, Urteil vom 12.12.2024 - 6 StR 238/24](6-str-238-24.md) — BGH, Urteil 6 StR 238/24
+- [BGH, Beschluss vom 12.12.2024 - 6 StR 571/24](6-str-571-24.md) — BGH, Beschluss 6 StR 571/24
+- [BGH, Beschluss vom 11.12.2024 - 6 StR 101/24](6-str-101-24.md) — BGH, Beschluss 6 StR 101/24
+- [BGH, Urteil vom 11.12.2024 - 6 StR 248/24](6-str-248-24.md) — BGH, Urteil 6 StR 248/24
+- [BGH, Beschluss vom 10.12.2024 - 6 StR 488/24](6-str-488-24.md) — BGH, Beschluss 6 StR 488/24
+- [BGH, Beschluss vom 10.12.2024 - 6 StR 629/24](6-str-629-24.md) — BGH, Beschluss 6 StR 629/24
+- [BGH, Beschluss vom 04.12.2024 - 6 StR 232/24](6-str-232-24.md) — Beweiswürdigung bei sexuellem Kindesmissbrauch: Urteilsfeststellungen bei "Aussage gegen Aussage"; Angabe von Teileinstellungsgründen
+- [BGH, Beschluss vom 04.12.2024 - 6 StR 452/24](6-str-452-24.md) — BGH, Beschluss 6 StR 452/24
+- [BGH, Beschluss vom 04.12.2024 - 6 StR 542/24](6-str-542-24.md) — Strafverurteilung wegen Zwangsprostitution u.a.: Nachträgliche Gesamtstrafenbildung, Neufestsetzung der Strafe bei Handeltreiben mit Cannabis
+- [BGH, Beschluss vom 04.12.2024 - 6 StR 612/24](6-str-612-24.md) — Adhäsionsverfahren: Erforderlichkeit der Stellung eines unbedingten Adhäsionsantrages nach Bewilligung von Prozesskostenhilfe
+- [BGH, Urteil vom 27.11.2024 - 6 StR 210/24](6-str-210-24.md) — Gewerbsmäßiger Bandenbetrug mit Auslandsbezug: Mittäterschaft in Love-Scamming-Fällen durch Kontoüberweisung von Taterträgen als Verfügungsberechtigter; Haftung
+- [BGH, Urteil vom 27.11.2024 - 6 StR 286/24](6-str-286-24.md) — Beweiswürdigung in Aussage-gegen-Aussage-Konstellation im Rahmen eines Vergewaltigungsvorwurfs; tragfähige Begründung einer Kompensationsentscheidung
+- [BGH, Urteil vom 27.11.2024 - 6 StR 327/24](6-str-327-24.md) — BGH, Urteil 6 StR 327/24
+- [BGH, Beschluss vom 27.11.2024 - 6 StR 477/24](6-str-477-24.md) — BGH, Beschluss 6 StR 477/24
+- [BGH, Beschluss vom 27.11.2024 - 6 StR 547/24](6-str-547-24.md) — BGH, Beschluss 6 StR 547/24
+- [BGH, Beschluss vom 26.11.2024 - 6 StR 383/24](6-str-383-24.md) — BGH, Beschluss 6 StR 383/24
+- [BGH, Beschluss vom 26.11.2024 - 6 StR 585/24](6-str-585-24.md) — BGH, Beschluss 6 StR 585/24
+- [BGH, Beschluss vom 13.11.2024 - 6 StR 417/24](6-str-417-24.md) — BGH, Beschluss 6 StR 417/24
+- [BGH, Beschluss vom 13.11.2024 - 6 StR 459/24](6-str-459-24.md) — Darlegungsanforderungen bei Verurteilung wegen Raubes; Unterbringung in Entziehungsanstalt
+- [BGH, Beschluss vom 13.11.2024 - 6 StR 497/24](6-str-497-24.md) — BGH, Beschluss 6 StR 497/24
+- [BGH, Beschluss vom 12.11.2024 - 6 StR 462/24](6-str-462-24.md) — Kinderpornografie: Differenzierung zwischen Herstellung, Besitz und Reproduktion
+- [BGH, Beschluss vom 12.11.2024 - 6 StR 516/24](6-str-516-24.md) — BGH, Beschluss 6 StR 516/24
+- [BGH, Beschluss vom 12.11.2024 - 6 StR 572/24](6-str-572-24.md) — Strafsache: Konkurrenzverhältnis zwischen Bedrohung mit einem Verbrechen und versuchter Nötigung
+- [BGH, Beschluss vom 06.11.2024 - 6 StR 378/24](6-str-378-24.md) — BGH, Beschluss 6 StR 378/24
+- [BGH, Beschluss vom 06.11.2024 - 6 StR 400/24](6-str-400-24.md) — BGH, Beschluss 6 StR 400/24
+- [BGH, Beschluss vom 06.11.2024 - 6 StR 414/24](6-str-414-24.md) — Revisionsrechtliche Prüfung der Anordnung der Unterbringung des Angeklagten in einer Entziehungsanstalt
+- [BGH, Beschluss vom 06.11.2024 - 6 StR 423/24](6-str-423-24.md) — BGH, Beschluss 6 StR 423/24
+- [BGH, Beschluss vom 06.11.2024 - 6 StR 564/24](6-str-564-24.md) — Unterbringung in einem psychiatrischen Krankenhaus trotz Freispruchs wegen verminderter Schuldfähigkeit
+- [BGH, Beschluss vom 06.11.2024 - 6 StR 589/23](6-str-589-23.md) — Abgrenzung von Täterschaft bzw. Beihilfe zum Wohnungseinbruchdiebstahl; Voraussetzungen der Einziehung bei fehlender Verfügungsgewalt
+- [BGH, Beschluss vom 06.11.2024 - 6 StR 596/24](6-str-596-24.md) — BGH, Beschluss 6 StR 596/24
+- [BGH, Beschluss vom 05.11.2024 - 6 StR 258/24](6-str-258-24.md) — Rücktritt vom versuchten Mord und Beihilfe durch Unterlassen
+- [BGH, Beschluss vom 05.11.2024 - 6 StR 338/24](6-str-338-24.md) — BGH, Beschluss 6 StR 338/24
+- [BGH, Beschluss vom 05.11.2024 - 6 StR 377/24](6-str-377-24.md) — Strafverurteilung wegen bandenmäßigen Handeltreibens mit Betäubungsmitteln in nicht geringer Menge: Tatmitteleinziehung als Nebenstrafe
+- [BGH, Beschluss vom 05.11.2024 - 6 StR 413/23](6-str-413-23.md) — BGH, Beschluss 6 StR 413/23
+- [BGH, Beschluss vom 05.11.2024 - 6 StR 439/24](6-str-439-24.md) — BGH, Beschluss 6 StR 439/24
+- [BGH, Beschluss vom 05.11.2024 - 6 StR 447/24](6-str-447-24.md) — BGH, Beschluss 6 StR 447/24
+- [BGH, Beschluss vom 05.11.2024 - 6 StR 558/24](6-str-558-24.md) — BGH, Beschluss 6 StR 558/24
+- [BGH, Beschluss vom 17.10.2024 - 6 StR 408/24](6-str-408-24.md) — Erweiterte Einziehung von Taterträgen; Verschärfung des Schuldspruchs
+- [BGH, Beschluss vom 17.10.2024 - 6 StR 450/24](6-str-450-24.md) — BGH, Beschluss 6 StR 450/24
+- [BGH, Beschluss vom 17.10.2024 - 6 StR 461/24](6-str-461-24.md) — BGH, Beschluss 6 StR 461/24
+- [BGH, Beschluss vom 17.10.2024 - 6 StR 494/24](6-str-494-24.md) — Anordnung der Unterbringung in der Sicherungsverwahrung; Aufhebung einer Maßregelanordnung bei zugleich aufrechterhaltenen Feststellungen
+- [BGH, Urteil vom 16.10.2024 - 6 StR 199/24](6-str-199-24.md) — Jugendstrafverfahren wegen versuchten Totschlags u.a.: Beweiswürdigung bei der Offenbarung von Täterwissen im Fall des Freispruchs
+- [BGH, Urteil vom 16.10.2024 - 6 StR 288/24](6-str-288-24.md) — Betäubungsmitteldelikt: Konkurrenzverhältnis bei Überschneidungen der Ausführungshandlungen des Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 16.10.2024 - 6 StR 348/24](6-str-348-24.md) — BGH, Beschluss 6 StR 348/24
+- [BGH, Beschluss vom 16.10.2024 - 6 StR 388/24](6-str-388-24.md) — BGH, Beschluss 6 StR 388/24
+- [BGH, Beschluss vom 16.10.2024 - 6 StR 389/24](6-str-389-24.md) — BGH, Beschluss 6 StR 389/24
+- [BGH, Beschluss vom 16.10.2024 - 6 StR 419/24](6-str-419-24.md) — BGH, Beschluss 6 StR 419/24
+- [BGH, Beschluss vom 16.10.2024 - 6 StR 498/24](6-str-498-24.md) — BGH, Beschluss 6 StR 498/24
+- [BGH, Beschluss vom 15.10.2024 - 6 StR 355/24](6-str-355-24.md) — BGH, Beschluss 6 StR 355/24
+- [BGH, Beschluss vom 15.10.2024 - 6 StR 405/24](6-str-405-24.md) — BGH, Beschluss 6 StR 405/24
+- [BGH, Beschluss vom 02.10.2024 - 6 StR 278/24](6-str-278-24.md) — Verzugszinsen auf Schmerzensgeld im Adhäsionsverfahren nach schwerer Sexualstraftat
+- [BGH, Beschluss vom 02.10.2024 - 6 StR 299/24](6-str-299-24.md) — BGH, Beschluss 6 StR 299/24
+- [BGH, Beschluss vom 01.10.2024 - 6 StR 230/24](6-str-230-24.md) — Strafmaß bei Mord durch Unterlassen im Falle der Vernachlässigung eines 1-jährigen Kindes
+- [BGH, Beschluss vom 01.10.2024 - 6 StR 320/24](6-str-320-24.md) — BGH, Beschluss 6 StR 320/24
+- [BGH, Beschluss vom 01.10.2024 - 6 StR 384/24](6-str-384-24.md) — BGH, Beschluss 6 StR 384/24
+- [BGH, Beschluss vom 01.10.2024 - 6 StR 394/24](6-str-394-24.md) — Strafverurteilung wegen Exhibitionismus u.a. mit anschließender Unterbringung in einem psychiatrischen Krankenhaus: Tatnachweis durch Zeugnis vom Hörensagen; sy
+- [BGH, Beschluss vom 30.09.2024 - 6 StR 331/24](6-str-331-24.md) — Vorsätzliches unerlaubtes Führen einer Schusswaffe in Tateinheit mit vorsätzlichem unerlaubten Besitz einer Schusswaffe
+- [BGH, Beschluss vom 30.09.2024 - 6 StR 352/24](6-str-352-24.md) — BGH, Beschluss 6 StR 352/24
+- [BGH, Beschluss vom 30.09.2024 - 6 StR 421/24](6-str-421-24.md) — Notwendige Feststellungen in Urteilsgründen zur Einlassung des Angeklagten
+- [BGH, Urteil vom 18.09.2024 - 6 StR 154/24](6-str-154-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Begründung der Prognoseentscheidung; Erheblichkeit der zu erwartenden Straftat
+- [BGH, Beschluss vom 17.09.2024 - 6 StR 165/24](6-str-165-24.md) — Revisionsbeschränkung im Fall des Handeltreibens mit Cannabis
+- [BGH, Beschluss vom 17.09.2024 - 6 StR 366/24](6-str-366-24.md) — BGH, Beschluss 6 StR 366/24
+- [BGH, Beschluss vom 17.09.2024 - 6 StR 379/24](6-str-379-24.md) — BGH, Beschluss 6 StR 379/24
+- [BGH, Beschluss vom 17.09.2024 - 6 StR 385/24](6-str-385-24.md) — BGH, Beschluss 6 StR 385/24
+- [BGH, Beschluss vom 17.09.2024 - 6 StR 399/24](6-str-399-24.md) — BGH, Beschluss 6 StR 399/24
+- [BGH, Beschluss vom 17.09.2024 - 6 StR 438/24](6-str-438-24.md) — (Adhäsionsverfahren: Tod des Adhäsionsklägers während des Revisionsverfahrens)
+- [BGH, Beschluss vom 05.09.2024 - 6 StR 340/24](6-str-340-24.md) — Anforderungen an die Feststellungen zum bedingten Tötungsvorsatz
+- [BGH, Beschluss vom 05.09.2024 - 6 StR 422/24](6-str-422-24.md) — BGH, Beschluss 6 StR 422/24
+- [BGH, Urteil vom 04.09.2024 - 6 StR 137/24](6-str-137-24.md) — Schwere Brandstiftung: Prüfung des bedingten Tötungsvorsatzes; Überprüfung der Beweiswürdigung durch das Revisionsgericht
+- [BGH, Urteil vom 04.09.2024 - 6 StR 168/24](6-str-168-24.md) — BGH, Urteil 6 StR 168/24
+- [BGH, Beschluss vom 04.09.2024 - 6 StR 401/24](6-str-401-24.md) — BGH, Beschluss 6 StR 401/24
+- [BGH, Beschluss vom 04.09.2024 - 6 StR 404/24](6-str-404-24.md) — BGH, Beschluss 6 StR 404/24
+- [BGH, Beschluss vom 04.09.2024 - 6 StR 425/24](6-str-425-24.md) — BGH, Beschluss 6 StR 425/24
+- [BGH, Beschluss vom 03.09.2024 - 6 StR 155/24](6-str-155-24.md) — Voraussetzungen der Anordnung der Unterbringung in einem psychiatrischen Krankenhaus
+- [BGH, Beschluss vom 03.09.2024 - 6 StR 195/24](6-str-195-24.md) — BGH, Beschluss 6 StR 195/24
+- [BGH, Beschluss vom 03.09.2024 - 6 StR 357/24](6-str-357-24.md) — BGH, Beschluss 6 StR 357/24
+- [BGH, Beschluss vom 03.09.2024 - 6 StR 365/24](6-str-365-24.md) — BGH, Beschluss 6 StR 365/24
+- [BGH, Beschluss vom 03.09.2024 - 6 StR 427/24](6-str-427-24.md) — BGH, Beschluss 6 StR 427/24
+- [BGH, Beschluss vom 22.08.2024 - 6 StR 287/24](6-str-287-24.md) — BGH, Beschluss 6 StR 287/24
+- [BGH, Beschluss vom 22.08.2024 - 6 StR 297/24](6-str-297-24.md) — BGH, Beschluss 6 StR 297/24
+- [BGH, Beschluss vom 22.08.2024 - 6 StR 358/24](6-str-358-24.md) — BGH, Beschluss 6 StR 358/24
+- [BGH, Beschluss vom 21.08.2024 - 6 StR 204/24](6-str-204-24.md) — BGH, Beschluss 6 StR 204/24
+- [BGH, Beschluss vom 21.08.2024 - 6 StR 374/24](6-str-374-24.md) — BGH, Beschluss 6 StR 374/24
+- [BGH, Beschluss vom 21.08.2024 - 6 StR 437/24](6-str-437-24.md) — BGH, Beschluss 6 StR 437/24
+- [BGH, Urteil vom 21.08.2024 - 6 StR 72/24](6-str-72-24.md) — BGH, Urteil 6 StR 72/24
+- [BGH, Beschluss vom 21.08.2024 - 6 StR 95/24](6-str-95-24.md) — BGH, Beschluss 6 StR 95/24
+- [BGH, Beschluss vom 20.08.2024 - 6 StR 131/24](6-str-131-24.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die gerichtliche Prüfung der verminderten Schuldfähigkeit bei intellektueller Minderbegabun
+- [BGH, Beschluss vom 20.08.2024 - 6 StR 221/24](6-str-221-24.md) — Strafverfahren wegen Vergewaltigung u.a.: Rechtsstaatswidrige Verfahrensverzögerung in einer Haftsache bei verzögerter Urteilszustellung; Verhinderung eines Pro
+- [BGH, Beschluss vom 20.08.2024 - 6 StR 271/24](6-str-271-24.md) — BGH, Beschluss 6 StR 271/24
+- [BGH, Beschluss vom 20.08.2024 - 6 StR 343/24](6-str-343-24.md) — BGH, Beschluss 6 StR 343/24
+- [BGH, Urteil vom 07.08.2024 - 6 StR 552/23](6-str-552-23.md) — Verurteilung wegen erpresserischen Menschenraubs und Strafzumessungserwägungen
+- [BGH, Beschluss vom 06.08.2024 - 6 StR 282/24](6-str-282-24.md) — BGH, Beschluss 6 StR 282/24
+- [BGH, Beschluss vom 06.08.2024 - 6 StR 325/24](6-str-325-24.md) — BGH, Beschluss 6 StR 325/24
+- [BGH, Beschluss vom 06.08.2024 - 6 StR 92/24](6-str-92-24.md) — Betäubungsmitteldelikt: Abgabe von Betäubungsmitteln zum sofortigen Gebrauch
+- [BGH, Beschluss vom 24.07.2024 - 6 StR 369/24](6-str-369-24.md) — BGH, Beschluss 6 StR 369/24
+- [BGH, Beschluss vom 23.07.2024 - 6 StR 301/24](6-str-301-24.md) — BGH, Beschluss 6 StR 301/24
+- [BGH, Beschluss vom 23.07.2024 - 6 StR 313/24](6-str-313-24.md) — BGH, Beschluss 6 StR 313/24
+- [BGH, Beschluss vom 23.07.2024 - 6 StR 376/24](6-str-376-24.md) — BGH, Beschluss 6 StR 376/24
+- [BGH, Beschluss vom 23.07.2024 - 6 StR 398/24](6-str-398-24.md) — BGH, Beschluss 6 StR 398/24
+- [BGH, Beschluss vom 11.07.2024 - 6 StR 298/24](6-str-298-24.md) — BGH, Beschluss 6 StR 298/24
+- [BGH, Beschluss vom 11.07.2024 - 6 StR 308/24](6-str-308-24.md) — BGH, Beschluss 6 StR 308/24
+- [BGH, Beschluss vom 11.07.2024 - 6 StR 309/24](6-str-309-24.md) — BGH, Beschluss 6 StR 309/24
+- [BGH, Beschluss vom 10.07.2024 - 6 StR 211/24](6-str-211-24.md) — BGH, Beschluss 6 StR 211/24
+- [BGH, Beschluss vom 10.07.2024 - 6 StR 220/24](6-str-220-24.md) — BGH, Beschluss 6 StR 220/24
+- [BGH, Beschluss vom 10.07.2024 - 6 StR 272/24](6-str-272-24.md) — BGH, Beschluss 6 StR 272/24
+- [BGH, Beschluss vom 10.07.2024 - 6 StR 283/24](6-str-283-24.md) — BGH, Beschluss 6 StR 283/24
+- [BGH, Beschluss vom 10.07.2024 - 6 StR 303/24](6-str-303-24.md) — (Strafzumessung bei Vergewaltigung einer Prostituierten)
+- [BGH, Beschluss vom 10.07.2024 - 6 StR 312/24](6-str-312-24.md) — BGH, Beschluss 6 StR 312/24
+- [BGH, Beschluss vom 09.07.2024 - 6 StR 266/24](6-str-266-24.md) — BGH, Beschluss 6 StR 266/24
+- [BGH, Beschluss vom 09.07.2024 - 6 StR 295/24](6-str-295-24.md) — BGH, Beschluss 6 StR 295/24
+- [BGH, Beschluss vom 09.07.2024 - 6 StR 304/24](6-str-304-24.md) — BGH, Beschluss 6 StR 304/24
+- [BGH, Beschluss vom 27.06.2024 - 6 StR 16/24](6-str-16-24.md) — Kapitalanlagebetrug: Eintritt der Verfolgungsverjährung
+- [BGH, Beschluss vom 26.06.2024 - 6 StR 113/24](6-str-113-24.md) — BGH, Beschluss 6 StR 113/24
+- [BGH, Beschluss vom 26.06.2024 - 6 StR 260/24](6-str-260-24.md) — BGH, Beschluss 6 StR 260/24
+- [BGH, Urteil vom 26.06.2024 - 6 StR 71/24](6-str-71-24.md) — Bedeutung der Tatmotivation beim bedingten Tötungsvorsatz
+- [BGH, Beschluss vom 12.06.2024 - 6 StR 532/23](6-str-532-23.md) — Strafprozessrecht: Informationspflicht des Gerichts hinsichtlich bisheriger Verständigungsgespräche
+- [BGH, Beschluss vom 11.06.2024 - 6 StR 149/24](6-str-149-24.md) — BGH, Beschluss 6 StR 149/24
+- [BGH, Beschluss vom 11.06.2024 - 6 StR 207/24](6-str-207-24.md) — BGH, Beschluss 6 StR 207/24
+- [BGH, Beschluss vom 11.06.2024 - 6 StR 209/24](6-str-209-24.md) — Tatrichterliche Feststellungen bei Verurteilung zur Zahlung von Schmerzensgeld nach sexueller Nötigung
+- [BGH, Beschluss vom 11.06.2024 - 6 StR 257/24](6-str-257-24.md) — BGH, Beschluss 6 StR 257/24
+- [BGH, Beschluss vom 29.05.2024 - 6 StR 174/24](6-str-174-24.md) — BGH, Beschluss 6 StR 174/24
+- [BGH, Beschluss vom 29.05.2024 - 6 StR 93/24](6-str-93-24.md) — Strafprozessrecht: Versendung eines qualifiziert signierten elektronischen Dokuments über das elektronische Anwaltspostfach eines anderen Anwalts
+- [BGH, Beschluss vom 28.05.2024 - 6 StR 142/24](6-str-142-24.md) — Strafbares Handeltreiben mit Cannabis nach neuem Recht
+- [BGH, Beschluss vom 28.05.2024 - 6 StR 144/24](6-str-144-24.md) — Unterbringung in einer Entziehungsanstalt: Überwiegendes Beruhen der Tat auf dem Hang
+- [BGH, Beschluss vom 28.05.2024 - 6 StR 158/24](6-str-158-24.md) — Anforderungen an Anordnungen nach dem Gewaltschutzgesetz
+- [BGH, Beschluss vom 28.05.2024 - 6 StR 227/24](6-str-227-24.md) — BGH, Beschluss 6 StR 227/24
+- [BGH, Urteil vom 28.05.2024 - 6 StR 479/23](6-str-479-23.md) — BGH, Urteil 6 StR 479/23
+- [BGH, Beschluss vom 28.05.2024 - 6 StR 52/24](6-str-52-24.md) — Verurteilung wegen Handeltreiben mit Cannabis; Anordnung des Vorwegvollzugs
+- [BGH, Beschluss vom 16.05.2024 - 6 StR 116/24](6-str-116-24.md) — Verurteilung wegen Besitzes von Cannabis nach dem KCanG
+- [BGH, Beschluss vom 16.05.2024 - 6 StR 179/24](6-str-179-24.md) — (Änderung eines Schuldspruchs aufgrund des neuen Konsumcannabisgesetzes)
+- [BGH, Beschluss vom 16.05.2024 - 6 StR 216/24](6-str-216-24.md) — (Anordnung der Unterbringung nach § 63 StGB bei diagnostizierter Intelligenzschwäche des Angeklagten)
+- [BGH, Beschluss vom 16.05.2024 - 6 StR 567/23](6-str-567-23.md) — Darlegung eines Vorsatzes bei Kenntnis über kinderpornographischen Charakter von Bilddateien
+- [BGH, Beschluss vom 15.05.2024 - 6 StR 111/24](6-str-111-24.md) — Vernehmung eines Zeugen in Abwesenheit des Angeklagten
+- [BGH, Beschluss vom 15.05.2024 - 6 StR 161/24](6-str-161-24.md) — BGH, Beschluss 6 StR 161/24
+- [BGH, Beschluss vom 15.05.2024 - 6 StR 172/24](6-str-172-24.md) — BGH, Beschluss 6 StR 172/24
+- [BGH, Urteil vom 15.05.2024 - 6 StR 374/23](6-str-374-23.md) — BGH, Urteil 6 StR 374/23
+- [BGH, Urteil vom 15.05.2024 - 6 StR 521/23](6-str-521-23.md) — BGH, Urteil 6 StR 521/23
+- [BGH, Beschluss vom 15.05.2024 - 6 StR 73/24](6-str-73-24.md) — Zulässigkeit einer Addition von Betäubungsmitteln und Cannabis zur Bestimmung der „nicht geringen Menge“
+- [BGH, Beschluss vom 14.05.2024 - 6 StR 138/24](6-str-138-24.md) — BGH, Beschluss 6 StR 138/24
+- [BGH, Beschluss vom 14.05.2024 - 6 StR 162/24](6-str-162-24.md) — BGH, Beschluss 6 StR 162/24
+- [BGH, Beschluss vom 14.05.2024 - 6 StR 313/23](6-str-313-23.md) — BGH, Beschluss 6 StR 313/23
+- [BGH, Urteil vom 14.05.2024 - 6 StR 458/23](6-str-458-23.md) — BGH, Urteil 6 StR 458/23
+- [BGH, Urteil vom 14.05.2024 - 6 StR 465/23](6-str-465-23.md) — BGH, Urteil 6 StR 465/23
+- [BGH, Beschluss vom 14.05.2024 - 6 StR 502/23](6-str-502-23.md) — Der Strafrahmen des § 177 Abs. 6 Satz 1 StGB entfaltet umfassende Sperrwirkung gegenüber demjenigen des § 177 Abs. 9 Variante 3 StGB.
+- [BGH, Beschluss vom 30.04.2024 - 6 StR 164/24](6-str-164-24.md) — Konkurrenzverhältnis bei Betäubungsmitteldelikten: Bereithalten verschiedener Mengen zum Verkauf bestimmten Marihuana sowie Amphetamingemisch in einem Raum zusa
+- [BGH, Beschluss vom 30.04.2024 - 6 StR 175/24](6-str-175-24.md) — BGH, Beschluss 6 StR 175/24
+- [BGH, Beschluss vom 30.04.2024 - 6 StR 488/21](6-str-488-21.md) — BGH, Beschluss 6 StR 488/21
+- [BGH, Beschluss vom 30.04.2024 - 6 StR 536/23](6-str-536-23.md) — Zäsurwirkung beim Dauerdelikt des Waffenbesitzes durch Begehung des bewaffneten Handeltreibens mit Cannabis
+- [BGH, Beschluss vom 30.04.2024 - 6 StR 606/23](6-str-606-23.md) — BGH, Beschluss 6 StR 606/23
+- [BGH, Beschluss vom 30.04.2024 - 6 StR 66/24](6-str-66-24.md) — BGH, Beschluss 6 StR 66/24
+- [BGH, Beschluss vom 30.04.2024 - 6 StR 74/24](6-str-74-24.md) — BGH, Beschluss 6 StR 74/24
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 102/24](6-str-102-24.md) — Schuldspruchänderung nach Inkrafttreten des Konsumcannabisgesetzes
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 117/24](6-str-117-24.md) — Berücksichtigung einer Gesetzesänderung im Revisionsverfahren
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 124/24](6-str-124-24.md) — BGH, Beschluss 6 StR 124/24
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 128/24](6-str-128-24.md) — BGH, Beschluss 6 StR 128/24
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 132/24](6-str-132-24.md) — BGH, Beschluss 6 StR 132/24
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 139/24](6-str-139-24.md) — BGH, Beschluss 6 StR 139/24
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 156/24](6-str-156-24.md) — (Tatrichterliche Feststellungen bei Prüfung einer Strafaussetzung zur Bewährung nach § 56 Abs. 2 S. 1 StGB)
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 18/23](6-str-18-23.md) — BGH, Beschluss 6 StR 18/23
+- [BGH, Beschluss vom 29.04.2024 - 6 StR 86/24](6-str-86-24.md) — Elektronischer Rechtsverkehr: Fristwahrender Eingang einer per beA versandten Revisionsbegründung bei Gericht
+- [BGH, Beschluss vom 18.04.2024 - 6 StR 24/24](6-str-24-24.md) — BGH, Beschluss 6 StR 24/24
+- [BGH, Beschluss vom 18.04.2024 - 6 StR 386/23](6-str-386-23.md) — Rechtsbeugung: Verletzung von Anhörungspflichten bei der Anordnung von Unterbringungen
+- [BGH, Beschluss vom 18.04.2024 - 6 StR 545/23](6-str-545-23.md) — Anspruch auf angemessene Vorbereitungszeit für Schlussvortrag eines Strafverteidigers
+- [BGH, Beschluss vom 17.04.2024 - 6 StR 114/24](6-str-114-24.md) — BGH, Beschluss 6 StR 114/24
+- [BGH, Beschluss vom 17.04.2024 - 6 StR 468/23](6-str-468-23.md) — Fahrlässige Tötung: Unterbrechung des Kausalverlaufs bei Einsturz eines Gerüsttragwerks für eine Autobahnbrücke
+- [BGH, Beschluss vom 17.04.2024 - 6 StR 79/24](6-str-79-24.md) — BGH, Beschluss 6 StR 79/24
+- [BGH, Beschluss vom 16.04.2024 - 6 StR 365/23](6-str-365-23.md) — BGH, Beschluss 6 StR 365/23
+- [BGH, Beschluss vom 16.04.2024 - 6 StR 88/24](6-str-88-24.md) — BGH, Beschluss 6 StR 88/24
+- [BGH, Beschluss vom 03.04.2024 - 6 StR 11/24](6-str-11-24.md) — BGH, Beschluss 6 StR 11/24
+- [BGH, Beschluss vom 03.04.2024 - 6 StR 13/24](6-str-13-24.md) — Wird der Angeklagte wegen einer Tat verurteilt, die er als Jugendlicher beging, kommt die Einbeziehung einer Verurteilung nach allgemeinem Strafrecht wegen eine
+- [BGH, Urteil vom 03.04.2024 - 6 StR 329/23](6-str-329-23.md) — Tötung eines Säuglings durch Unterlassen: Anforderungen an Darlegungen des Vorsatzes bzw. der Fahrlässigkeit
+- [BGH, Beschluss vom 03.04.2024 - 6 StR 36/24](6-str-36-24.md) — Einziehungsanordnung im Strafverfahren: Ermittlung des Einziehungsbetrages bei Abrechnungsbetrug gegenüber der kassenärztlichen Vereinigung durch fehlerhafte är
+- [BGH, Beschluss vom 03.04.2024 - 6 StR 5/24](6-str-5-24.md) — Sexuelle Nötigung: Ausnutzung eines dissoziativen Zustandes des Opfers
+- [BGH, Beschluss vom 03.04.2024 - 6 StR 77/24](6-str-77-24.md) — BGH, Beschluss 6 StR 77/24
+- [BGH, Beschluss vom 03.04.2024 - 6 StR 84/24](6-str-84-24.md) — BGH, Beschluss 6 StR 84/24
+- [BGH, Beschluss vom 02.04.2024 - 6 StR 58/24](6-str-58-24.md) — BGH, Beschluss 6 StR 58/24
+- [BGH, Beschluss vom 02.04.2024 - 6 StR 608/23](6-str-608-23.md) — BGH, Beschluss 6 StR 608/23
+- [BGH, Beschluss vom 21.03.2024 - 6 StR 28/24](6-str-28-24.md) — BGH, Beschluss 6 StR 28/24
+- [BGH, Beschluss vom 21.03.2024 - 6 StR 30/24](6-str-30-24.md) — BGH, Beschluss 6 StR 30/24
+- [BGH, Beschluss vom 21.03.2024 - 6 StR 33/24](6-str-33-24.md) — BGH, Beschluss 6 StR 33/24
+- [BGH, Beschluss vom 20.03.2024 - 6 StR 17/24](6-str-17-24.md) — BGH, Beschluss 6 StR 17/24
+- [BGH, Beschluss vom 20.03.2024 - 6 StR 47/24](6-str-47-24.md) — BGH, Beschluss 6 StR 47/24
+- [BGH, Beschluss vom 20.03.2024 - 6 StR 572/23](6-str-572-23.md) — Verurteilung wegen Raubes bei finaler Verknüpfung zwischen qualifiziertem Nötigungsmittel und Wegnahme
+- [BGH, Beschluss vom 19.03.2024 - 6 StR 406/23](6-str-406-23.md) — BGH, Beschluss 6 StR 406/23
+- [BGH, Beschluss vom 19.03.2024 - 6 StR 504/23](6-str-504-23.md) — BGH, Beschluss 6 StR 504/23
+- [BGH, Beschluss vom 19.03.2024 - 6 StR 584/23](6-str-584-23.md) — BGH, Beschluss 6 StR 584/23
+- [BGH, Beschluss vom 19.03.2024 - 6 StR 96/24](6-str-96-24.md) — BGH, Beschluss 6 StR 96/24
+- [BGH, Urteil vom 06.03.2024 - 6 StR 367/23](6-str-367-23.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Tatertragseinziehung aus einer verfahrensfremden Tat und nach Verfahrenseinstellung
+- [BGH, Beschluss vom 06.03.2024 - 6 StR 550/23](6-str-550-23.md) — Darlegung der wesentlichen Beweiserwägungen in den Urteilsgründen bei Tatvorwurf der Vergewaltigung
+- [BGH, Beschluss vom 06.03.2024 - 6 StR 560/23](6-str-560-23.md) — BGH, Beschluss 6 StR 560/23
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 415/23](6-str-415-23.md) — BGH, Beschluss 6 StR 415/23
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 44/24](6-str-44-24.md) — BGH, Beschluss 6 StR 44/24
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 45/24](6-str-45-24.md) — Urteilsfeststellungen zum Rücktritt bei schwerem sexuellen Missbrauch von Kindern; Bemessung der Einzelstrafen bei seriell begangenen Taten
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 50/24](6-str-50-24.md) — BGH, Beschluss 6 StR 50/24
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 511/23](6-str-511-23.md) — BGH, Beschluss 6 StR 511/23
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 579/23](6-str-579-23.md) — BGH, Beschluss 6 StR 579/23
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 588/23](6-str-588-23.md) — Symptomatischer Zusammenhang zwischen dem Substanzkonsum des Täters und der Begehung von Straftaten
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 599/23](6-str-599-23.md) — BGH, Beschluss 6 StR 599/23
+- [BGH, Beschluss vom 05.03.2024 - 6 StR 61/24](6-str-61-24.md) — BGH, Beschluss 6 StR 61/24
+- [BGH, Beschluss vom 22.02.2024 - 6 StR 566/23](6-str-566-23.md) — BGH, Beschluss 6 StR 566/23
+- [BGH, Beschluss vom 22.02.2024 - 6 StR 604/23](6-str-604-23.md) — BGH, Beschluss 6 StR 604/23
+- [BGH, Urteil vom 21.02.2024 - 6 StR 541/23](6-str-541-23.md) — Strafzumessung bei Sexualdelikten: Verhängung der Mindeststrafe bei besonders schwerer sexueller Nötigung
+- [BGH, Beschluss vom 20.02.2024 - 6 StR 3/24](6-str-3-24.md) — BGH, Beschluss 6 StR 3/24
+- [BGH, Beschluss vom 20.02.2024 - 6 StR 32/24](6-str-32-24.md) — BGH, Beschluss 6 StR 32/24
+- [BGH, Beschluss vom 20.02.2024 - 6 StR 37/24](6-str-37-24.md) — Notwendige Darlegungen in Urteilsgründen bei Vergewaltigungsvorwurf zu Aussage-gegen-Aussage-Konstellation; Darstellung der Ergebnisse einer DNA-Analyse
+- [BGH, Beschluss vom 20.02.2024 - 6 StR 557/23](6-str-557-23.md) — BGH, Beschluss 6 StR 557/23
+- [BGH, Beschluss vom 20.02.2024 - 6 StR 569/23](6-str-569-23.md) — BGH, Beschluss 6 StR 569/23
+- [BGH, Beschluss vom 08.02.2024 - 6 StR 533/23](6-str-533-23.md) — BGH, Beschluss 6 StR 533/23
+- [BGH, Beschluss vom 08.02.2024 - 6 StR 581/23](6-str-581-23.md) — BGH, Beschluss 6 StR 581/23
+- [BGH, Beschluss vom 08.02.2024 - 6 StR 600/23](6-str-600-23.md) — Beihilfetat zum Handeltreiben mit Betäubungsmitteln
+- [BGH, Urteil vom 07.02.2024 - 6 StR 346/23](6-str-346-23.md) — BGH, Urteil 6 StR 346/23
+- [BGH, Urteil vom 07.02.2024 - 6 StR 348/23](6-str-348-23.md) — Erfolgsaussichten einer therapeutischen Behandlung bei Entscheidung über Unterbringung in einer Entziehungsanstalt
+- [BGH, Beschluss vom 07.02.2024 - 6 StR 528/23](6-str-528-23.md) — BGH, Beschluss 6 StR 528/23
+- [BGH, Beschluss vom 07.02.2024 - 6 StR 577/23](6-str-577-23.md) — BGH, Beschluss 6 StR 577/23
+- [BGH, Beschluss vom 06.02.2024 - 6 StR 352/23](6-str-352-23.md) — BGH, Beschluss 6 StR 352/23
+- [BGH, Beschluss vom 06.02.2024 - 6 StR 525/23](6-str-525-23.md) — BGH, Beschluss 6 StR 525/23
+- [BGH, Beschluss vom 06.02.2024 - 6 StR 559/23](6-str-559-23.md) — BGH, Beschluss 6 StR 559/23
+- [BGH, Beschluss vom 06.02.2024 - 6 StR 6/24](6-str-6-24.md) — Voraussetzungen einer Wertersatzeinziehung bei Mittäterschaft
+- [BGH, Beschluss vom 06.02.2024 - 6 StR 609/23](6-str-609-23.md) — Wiedereinsetzung in vorigen Stand nach Revisionseinlegung über Nachtbriefkasten wegen Hardware-Defekt an Kanzleirechner
+- [BGH, Beschluss vom 24.01.2024 - 6 StR 456/23](6-str-456-23.md) — Sexueller Missbrauch von Kindern: Anforderungen an Urteilsgründe in Aussage-gegen-Aussage-Konstellationen
+- [BGH, Beschluss vom 24.01.2024 - 6 StR 498/23](6-str-498-23.md) — BGH, Beschluss 6 StR 498/23
+- [BGH, Beschluss vom 24.01.2024 - 6 StR 539/23](6-str-539-23.md) — BGH, Beschluss 6 StR 539/23
+- [BGH, Beschluss vom 24.01.2024 - 6 StR 558/23](6-str-558-23.md) — BGH, Beschluss 6 StR 558/23
+- [BGH, Beschluss vom 23.01.2024 - 6 StR 1/24](6-str-1-24.md) — BGH, Beschluss 6 StR 1/24
+- [BGH, Beschluss vom 23.01.2024 - 6 StR 551/23](6-str-551-23.md) — Erpresserischer Menschenraub: Vorliegen tätiger Reue
+- [BGH, Beschluss vom 10.01.2024 - 6 StR 276/23](6-str-276-23.md) — 1. Die Frist zur Anbringung von Beweisanträgen nach § 244 Abs. 6 Satz 3 StPO kann ohne Begründung gesetzt werden. 2. Zum Abschluss der von Amts wegen vorgesehen
+- [BGH, Urteil vom 10.01.2024 - 6 StR 324/23](6-str-324-23.md) — Zur Freiwilligkeit beim Rücktritt vom beendeten Versuch (§ 24 Abs. 1 Satz 1 Var. 2 StGB).
+- [BGH, Urteil vom 10.01.2024 - 6 StR 361/23](6-str-361-23.md) — BGH, Urteil 6 StR 361/23
+- [BGH, Beschluss vom 10.01.2024 - 6 StR 523/23](6-str-523-23.md) — BGH, Beschluss 6 StR 523/23
+- [BGH, Beschluss vom 10.01.2024 - 6 StR 549/23](6-str-549-23.md) — Notwendige Feststellungen zum Maßregelausspruch bei Betäubungsmitteldelikten
+- [BGH, Beschluss vom 10.01.2024 - 6 StR 585/23](6-str-585-23.md) — BGH, Beschluss 6 StR 585/23
+- [BGH, Beschluss vom 09.01.2024 - 6 StR 332/23](6-str-332-23.md) — BGH, Beschluss 6 StR 332/23
+- [BGH, Beschluss vom 09.01.2024 - 6 StR 462/23](6-str-462-23.md) — BGH, Beschluss 6 StR 462/23
+- [BGH, Beschluss vom 09.01.2024 - 6 StR 494/23](6-str-494-23.md) — BGH, Beschluss 6 StR 494/23
+- [BGH, Beschluss vom 09.01.2024 - 6 StR 564/23](6-str-564-23.md) — BGH, Beschluss 6 StR 564/23

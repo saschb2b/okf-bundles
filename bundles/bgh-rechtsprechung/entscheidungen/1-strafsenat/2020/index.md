@@ -1,0 +1,126 @@
+# 1. Strafsenat – 2020
+
+122 Entscheidung(en).
+
+- [BGH, Beschluss vom 23.12.2020 - 1 StR 310/20](1-str-310-20.md) — Vermögensabschöpfung: Ersparte Aufwendungen durch Anmeldung zu geringer Bruttolöhne u.a. im Sozialkassenverfahren des Baugewerbes
+- [BGH, Urteil vom 22.12.2020 - 1 StR 165/19](1-str-165-19.md) — Strafvereitelung im Amt durch Polizeibeamte: Ermittlungsbedingte Strafbarkeit von V-Leuten; Tatbestandsirrtum bei Annahme einer Straflosigkeit der zu überwachen
+- [BGH, Beschluss vom 21.12.2020 - 1 StR 445/20](1-str-445-20.md) — Strafzumessung: Begründungserfordernis bei hoher Freiheitsstrafe wegen Totschlags
+- [BGH, Beschluss vom 25.11.2020 - 1 StR 420/20](1-str-420-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Darlegungsanforderungen im Rahmen der Gefährlichkeitsprognose bei geringfügigen Anlasstaten
+- [BGH, Beschluss vom 12.11.2020 - 1 StR 354/20](1-str-354-20.md) — Strafverurteilung wegen schweren sexuellen Missbrauchs von Kindern u.a.: Ablehnung eines Beweisantrags wegen Wahrunterstellung
+- [BGH, Beschluss vom 11.11.2020 - 1 StR 277/20](1-str-277-20.md) — Anordnung von Sicherungsverwahrung: Verwertung zulässigen Verteidigungsverhaltens
+- [BGH, Urteil vom 11.11.2020 - 1 StR 328/19](1-str-328-19.md) — Revision im Strafverfahren: Verjährungsbeginn bei Vorenthalten und Veruntreuen von Arbeitsentgelt; Reduzierung des Einziehungsbetrages im Umfang der Verjährungs
+- [BGH, Beschluss vom 29.10.2020 - 1 StR 344/20](1-str-344-20.md) — Gewerbsmäßiger Computerbetrug: Begriff der Gewerbsmäßigkeit
+- [BGH, Beschluss vom 28.10.2020 - 1 StR 158/20](1-str-158-20.md) — Gefährliche Körperverletzung: Schönheitsbehandlung durch eine nicht als Heilpraktikerin zugelassene Täterin unter Verwendung einer Hyaluronsäurespritze
+- [BGH, Beschluss vom 27.10.2020 - 1 StR 148/20](1-str-148-20.md) — Umsatzsteuerhinterziehung: Tatvollendung bei unrichtiger Umsatzsteueranmeldung; erforderliche Feststellungen des Tatgerichts
+- [BGH, Beschluss vom 27.10.2020 - 1 StR 350/20](1-str-350-20.md) — Unerlaubte Einfuhr von Betäubungsmitteln: Voraussetzungen der Vorsatzfeststellung beim Anstifter
+- [BGH, Beschluss vom 16.10.2020 - 1 ARs 3/20](1-ars-3-20.md) — Rechtsweg und Zuständigkeiten: Rechtsschutz gegen Eingriffsmaßnahmen von Polizei, Gericht und Staatsanwaltschaft im Strafverfahren; Wirkungen einer Verweisung d
+- [BGH, Beschluss vom 15.10.2020 - 1 StR 336/20](1-str-336-20.md) — Revision in Strafsachen: Amtswegige Prüfung des Übereinstimmens von verkündeter und im schriftlichen Urteil niedergelegter Urteilsformel
+- [BGH, Beschluss vom 14.10.2020 - 1 StR 142/20](1-str-142-20.md) — Strafzumessung und Strafaussetzung zur Bewährung bei gewerbsmäßigem Bandenbetrug: Berücksichtigung einer straffreien Lebensführung eines Rechtsanwalts
+- [BGH, Beschluss vom 14.10.2020 - 1 StR 197/20](1-str-197-20.md) — Schlechterstellungsverbot im Revisionsverfahren: Festsetzung der neuen Einzelstrafen für Steuerhinterziehungen nach Änderung des Schuldspruchs hinsichtlich der 
+- [BGH, Beschluss vom 14.10.2020 - 1 StR 211/20](1-str-211-20.md) — Unerlaubter Besitz und Beihilfe zum unerlaubten Handeltreiben von Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis und Einordnung der Schuld des 
+- [BGH, Urteil vom 14.10.2020 - 1 StR 213/19](1-str-213-19.md) — Umsatzsteuerhinterziehung: Notwendige Feststellungen bei Heranziehung ausländischer Ebay-Accounts zur Begründung der Steuerpflicht; Recht auf Vorsteuerabzug
+- [BGH, Beschluss vom 14.10.2020 - 1 StR 234/20](1-str-234-20.md) — Verbreitung kinderpornografischer Schriften: Abgrenzung zwischen Verbreiten und Drittbesitzverschaffung
+- [BGH, Urteil vom 14.10.2020 - 1 StR 33/19](1-str-33-19.md) — Vorenthalten und Veruntreuen von Arbeitsentgelt: Beweiswürdigung zur Stellung als faktischer Geschäftsführer
+- [BGH, Beschluss vom 14.10.2020 - 1 StR 616/19](1-str-616-19.md) — Revision im Strafverfahren: Schlaf eines Schöffen während der Anklageverlesung
+- [BGH, Urteil vom 13.10.2020 - 1 StR 299/20](1-str-299-20.md) — Sexualdelikt: Anforderungen an die Beweiswürdigung in den Urteilsgründen in einem Aussage-gegen-Aussage-Fall
+- [BGH, Beschluss vom 17.09.2020 - 1 StR 229/20](1-str-229-20.md) — Anordnung der Sicherungsverwahrung: Begriff der verwirkten Freiheitsstrafe
+- [BGH, Urteil vom 17.09.2020 - 1 StR 576/18](1-str-576-18.md) — Steuerhinterziehung sowie Vorenthaltung und Veruntreuen von Arbeitsentgelt in einem Bordellbetrieb
+- [BGH, Beschluss vom 16.09.2020 - 1 StR 140/20](1-str-140-20.md) — Strafurteil wegen Steuerhinterziehungen: Schätzung von Besteuerungsgrundlagen
+- [BGH, Beschluss vom 16.09.2020 - 1 StR 275/20](1-str-275-20.md) — Hinterziehung von Lohnsteuer sowie Vorenthalten und Veruntreuen von Arbeitsentgelt: Konkurrenzverhältnis bei mittelbarer Täterschaft; Beginn der Verfolgungsverj
+- [BGH, Beschluss vom 16.09.2020 - 1 StR 324/20](1-str-324-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Erfordernis der Feststellung der Einsichtsfähigkeit zur Feststellung der Schuldfähigkeit
+- [BGH, Beschluss vom 02.09.2020 - 1 StR 273/20](1-str-273-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Feststellungen zum symptomatischen Zusammenhang zwischen der zum Tatzeitpunkt bestehenden psychischen Störun
+- [BGH, Urteil vom 01.09.2020 - 1 StR 371/19](1-str-371-19.md) — Unterbringung in einem psychiatrischen Krankenhaus: Voraussetzung der erheblichen Bedeutung einer Straftat
+- [BGH, Urteil vom 01.09.2020 - 1 StR 373/19](1-str-373-19.md) — Strafurteil wegen unterlassener Hilfeleistung und Strafvereitelung: Beurteilung der Erforderlichkeit einer Hilfeleistung; notwendige Urteilsfeststellungen bei z
+- [BGH, Beschluss vom 01.09.2020 - 1 StR 58/19](1-str-58-19.md) — Die Verjährung jeder Tat des Vorenthaltens und Veruntreuens von Arbeitsentgelt gemäß § 266a Abs. 1 StGB beginnt mit dem Verstreichen des Fälligkeitszeitpunktes 
+- [BGH, Beschluss vom 20.08.2020 - 1 StR 239/20](1-str-239-20.md) — Nachträgliche Gesamtstrafenbildung: Erfordernis ausreichender Feststellungen zur Tatzeit und zum Vollstreckungsstand früherer Urteile
+- [BGH, Beschluss vom 19.08.2020 - 1 StR 248/20](1-str-248-20.md) — Strafverfahren wegen gefährlicher Körperverletzung: Einschränkung des Notwehrrechts bei vorangegangener verbaler Auseinandersetzung mit wechselseitigen Beleidig
+- [BGH, Urteil vom 19.08.2020 - 1 StR 474/19](1-str-474-19.md) — Zum versuchten Verdeckungsmord durch Unterlassen nach Medikamentenverwechslung bei einem Palliativpatienten durch Pflegekräfte.
+- [BGH, Beschluss vom 18.08.2020 - 1 StR 247/20](1-str-247-20.md) — Unerlaubter Besitz von Betäubungsmitteln in nicht geringer Menge: Voraussetzungen des Besitzes bei bloßem Eigenkonsum
+- [BGH, Urteil vom 18.08.2020 - 1 StR 296/19](1-str-296-19.md) — Gewerbesteuerhinterziehung: Tatbestandsirrtum und Vorsatz bei Nichtversteuerung von aus einer Unterschlagung stammenden Gewerbeerträgen
+- [BGH, Urteil vom 13.08.2020 - 1 StR 648/18](1-str-648-18.md) — Deliktsserie im Zusammenhang mit Kapitalanlagebetrug: Bewertung des Konkurrenzverhältnisses bei Beteiligung mehrerer Täter oder Teilnehmer
+- [BGH, Beschluss vom 06.08.2020 - 1 StR 178/20](1-str-178-20.md) — Beweiswürdigung im Strafverfahren: Darlegung der tatrichterlichen Überzeugungsbildung bei Belastung des geständigen Angeklagten durch das Tatopfer
+- [BGH, Beschluss vom 06.08.2020 - 1 StR 198/20](1-str-198-20.md) — Steuerhinterziehung: Eintritt des Taterfolgs bei Einreichung unrichtiger Umsatzsteuervoranmeldungen; Konkurrenzverhältnis bei gleichzeitiger Abgabe mehrerer Vor
+- [BGH, Beschluss vom 06.08.2020 - 1 StR 93/20](1-str-93-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Berücksichtigung von Tatumständen im Rahmen der Gefährlichkeitsprognose
+- [BGH, Beschluss vom 04.08.2020 - 1 StR 252/20](1-str-252-20.md) — Härteausgleich bei der Strafzumessung: Ausgleich für die fehlende Möglichkeit einer Gesamtstrafenbildung mit einer Vorverurteilung im EU-Ausland
+- [BGH, Beschluss vom 23.07.2020 - 1 StR 78/20](1-str-78-20.md) — Steuerhinterziehung durch Unterlassen: Einziehung des Wertes von Taterträgen bei Sicherstellung steuerpflichtiger Tabakwaren; steuerrechtliche Erklärungspflicht
+- [BGH, Beschluss vom 22.07.2020 - 1 StR 132/20](1-str-132-20.md) — Überlange Verfahrensdauer in Strafsachen: Ausgleich einer Verfahrensverzögerung von 18 Monaten bei einem nicht inhaftierten Angeklagten
+- [BGH, Beschluss vom 22.07.2020 - 1 StR 166/20](1-str-166-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Begründung der Gefährlichkeitsprognose in den Urteilsgründen
+- [BGH, Beschluss vom 22.07.2020 - 1 StR 176/20](1-str-176-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose im Falle einer Anlasstat mit geringem Sachschaden
+- [BGH, Beschluss vom 22.07.2020 - 1 StR 220/20](1-str-220-20.md) — Strafzumessung: Berücksichtigung der vorhandenen bzw. fehlenden Therapiebereitschaft eines drogenabhängigen Täters; Anwendung des Zweifelssatzes
+- [BGH, Urteil vom 21.07.2020 - 1 StR 192/20](1-str-192-20.md) — Unterbringung in der Sicherungsverwahrung: Vorliegen eines Hangs bei Begehung einer durch einen Mitpatienten provozierten Straftat in einer Betreuungseinrichtun
+- [BGH, Beschluss vom 14.07.2020 - 1 StR 277/17](1-str-277-17.md) — Pflichtverteidigervergütung: Voraussetzungen für die Bewilligung einer Pauschgebühr im Revisionsverfahren
+- [BGH, Beschluss vom 10.07.2020 - 1 StR 221/20](1-str-221-20.md) — Sexueller Missbrauch eines 15jährigen Mädchens: Notwendige Urteilsfeststellungen für ein "Ausnutzen" sowie die Abgrenzung zu einer rein zuneigungsbedingten Lieb
+- [BGH, Beschluss vom 08.07.2020 - 1 StR 169/20](1-str-169-20.md) — Unterbringung in einer Entziehungsanstalt: Notwendige Erfolgsaussichtprüfung für eine Drogentherapie bei einem Untersuchungshaft befindlichen Angeklagten tunesi
+- [BGH, Beschluss vom 08.07.2020 - 1 StR 196/20](1-str-196-20.md) — Aufhebung des Rechtsfolgenausspruchs durch das Revisionsgericht: Begründungserfordernis bei Verhängung einer identischen Strafe durch den neuen Tatrichter
+- [BGH, Beschluss vom 08.07.2020 - 1 StR 467/18](1-str-467-18.md) — BGH, Beschluss 1 StR 467/18
+- [BGH, Urteil vom 07.07.2020 - 1 StR 242/19](1-str-242-19.md) — Zusammentreffen von Waffen- und Betäubungsmitteldelikten: Zeitgleiche Aufbewahrung von Waffen und Betäubungsmitteln; Verstoß gegen die Anzeigepflicht für den Wa
+- [BGH, Beschluss vom 18.06.2020 - 1 StR 86/20](1-str-86-20.md) — Hauptverhandlung in Strafsachen: Zwingender Ausschluss der Öffentlichkeit während der Schlussvorträge und des letzten Wortes des Angeklagten
+- [BGH, Beschluss vom 18.06.2020 - 1 StR 95/20](1-str-95-20.md) — Divergenzvorlage in einem selbstständigen Einziehungsverfahren: Zulässiges Rechtsmittel gegen einen ohne Hauptverhandlung gefassten amtsgerichtlichen Einziehung
+- [BGH, Beschluss vom 17.06.2020 - 1 StR 110/20](1-str-110-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Unterbreitung eines verbindliches Kaufangebots; Konkurrenzverhältnis bei Anbau von Betä
+- [BGH, Beschluss vom 17.06.2020 - 1 StR 188/20](1-str-188-20.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Eigennützigkeit des Handeltreibens; Bewertungseinheit
+- [BGH, Beschluss vom 16.06.2020 - 1 StR 155/20](1-str-155-20.md) — Unterbringung in einer Entziehungsanstalt: Vorliegen eines Hangs zum übermäßigen Rauschmittelgenuss
+- [BGH, Urteil vom 16.06.2020 - 1 StR 502/19](1-str-502-19.md) — Verbreiten kinderpornografischer Schriften: Tatbestandsmäßigkeit verbaler und ggf. nur fiktiver Schilderung von Missbrauchshandlungen in einem Internetchat; Vor
+- [BGH, Beschluss vom 28.05.2020 - 1 StR 108/20](1-str-108-20.md) — Richterablehnung wegen Befangenheit: Zuständiges Gericht für die Bescheidung eines Befangenheitsantrages als unzulässig
+- [BGH, Beschluss vom 27.05.2020 - 1 StR 118/20](1-str-118-20.md) — § 306e Abs. 1 StGB ist auf die Qualifikation des § 306b Abs. 2 Nr. 1 StGB analog anzuwenden, wenn der Täter - anstatt den Brand zu löschen - die (konkrete) Lebe
+- [BGH, Beschluss vom 27.05.2020 - 1 StR 98/20](1-str-98-20.md) — Strafverurteilung wegen schwerer Vergewaltigung u.a.: Beweiswürdigung bei "Aussage gegen Aussage"
+- [BGH, Beschluss vom 26.05.2020 - 1 StR 151/20](1-str-151-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefährlichkeitsprognose
+- [BGH, Urteil vom 26.05.2020 - 1 StR 538/19](1-str-538-19.md) — Strafverurteilung wegen sexueller Nötigung u.a.: Gerichtliches Ermessen bei der Nichtanordnung der Sicherungsverwahrung
+- [BGH, Beschluss vom 14.05.2020 - 1 StR 109/20](1-str-109-20.md) — Körperverletzung mit Todesfolge: Zurechnung des Todeserfolgs bei Dazwischentreten Dritter
+- [BGH, Beschluss vom 14.05.2020 - 1 StR 555/19](1-str-555-19.md) — Umsatzsteuerhinterziehung im Rahmen einer Scheinlieferbeziehung: Einziehung des Werts von Taterträgen in Höhe nicht angemeldeter Umsätze beim Aussteller der Sch
+- [BGH, Beschluss vom 14.05.2020 - 1 StR 6/20](1-str-6-20.md) — Steuerhinterziehung: Begriff der Mitunternehmerschaft; Bedeutung bei der Einkommensteuer, der Umsatzsteuer und der Gewerbesteuer
+- [BGH, Beschluss vom 13.05.2020 - 1 StR 128/20](1-str-128-20.md) — Unterbringung in einem psychiatrischen Krankenhaus: Anforderungen an die Gefahrenprognose
+- [BGH, Beschluss vom 13.05.2020 - 1 StR 632/19](1-str-632-19.md) — Strafzumessung: Doppelverwertungsverbot bei strafschärfender Berücksichtigung der Höhe vorenthaltener Beiträge zur Sozialversicherung
+- [BGH, Urteil vom 12.05.2020 - 1 StR 33/20](1-str-33-20.md) — Verwerfung der Revision nach Hauptverhandlung als offensichtlich unbegründet
+- [BGH, Urteil vom 12.05.2020 - 1 StR 368/19](1-str-368-19.md) — Beteiligung an einer Schlägerei und Körperverletzung bei einem Zweikampf: Begriff der Schlägerei und Abgrenzung von einzelnen Zweikämpfen; Einwilligung von 15-j
+- [BGH, Beschluss vom 12.05.2020 - 1 StR 460/19](1-str-460-19.md) — Anhörungsrüge: Gehörsverletzung bei fehlender Stellungnahme des Revisionsgerichts zur Rechtsauffassung der Verteidigung
+- [BGH, Beschluss vom 12.05.2020 - 1 StR 569/19](1-str-569-19.md) — Zur Anwendung des § 61 Abs. 1 JGG beim Zusammentreffen von Jugendstrafe und Unterbringung in einer Entziehungsanstalt gemäß § 64 StGB.
+- [BGH, Beschluss vom 12.05.2020 - 1 StR 596/19](1-str-596-19.md) — Beweiswürdigung im Strafverfahren: Zeugenaussage eines geständigen Tatbeteiligten
+- [BGH, Beschluss vom 12.05.2020 - 1 StR 635/19](1-str-635-19.md) — Umsatzsteuerhinterziehung: Erforderlicher Zeitpunkt für das Vorliegen der Voraussetzungen für den Vorsteuerabzug
+- [BGH, Beschluss vom 23.04.2020 - 1 StR 15/20](1-str-15-20.md) — Der Ausgleich für die fehlende Möglichkeit einer Gesamtstrafenbildung mit einer (noch nicht vollständig vollstreckten) EU-ausländischen Strafe ist im Falle der 
+- [BGH, Beschluss vom 23.04.2020 - 1 StR 391/19](1-str-391-19.md) — Betrug durch "Abo-Falle" im Internet: Beihilfe eines Rechtsanwalts durch berufstypische „neutrale“ Handlung
+- [BGH, Beschluss vom 23.04.2020 - 1 StR 406/19](1-str-406-19.md) — Zur Berücksichtigung von an sich gesamtstrafenfähigen EU-ausländischen Strafen bei Verhängung einer lebenslangen Freiheitsstrafe mit Feststellung der besonderen
+- [BGH, Beschluss vom 23.04.2020 - 1 StR 559/19](1-str-559-19.md) — Subventionsbetrug: Konkurrenzverhältnis zum einfachen Betrugstatbestand; Ermittlung des Vermögensschadens
+- [BGH, Beschluss vom 23.04.2020 - 1 StR 99/20](1-str-99-20.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei Vertrieb einer einheitlichen Rauschgiftmenge; räumliche Nähe e
+- [BGH, Beschluss vom 22.04.2020 - 1 StR 261/19](1-str-261-19.md) — Vorsätzliches Inverkehrbringen von Lebensmitteln mit irreführender Bezeichnung: Abzugsverbot bei der Tatertragseinziehung nach neuem Recht
+- [BGH, Beschluss vom 22.04.2020 - 1 StR 527/19](1-str-527-19.md) — Einziehung von Taterträgen beim Teilnehmer des Betrugs: Bestimmung des Erlangten bei erbrachten Sozialversicherungsbeiträgen im Rahmen eines fingierten Arbeitsv
+- [BGH, Beschluss vom 22.04.2020 - 1 StR 61/20](1-str-61-20.md) — Bandenmäßiges Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Anforderungen an eine Bandenabrede
+- [BGH, Beschluss vom 22.04.2020 - 1 StR 641/19](1-str-641-19.md) — Unerlaubtes Handeltreiben mit Betäubungsmitteln: Beendigung der Tat; Tateinheit mit Ausführungshandlungen nach Vollendung bis zur Beendigung der Tat
+- [BGH, Beschluss vom 21.04.2020 - 1 StR 486/19](1-str-486-19.md) — Beihilfe: Abgrenzung zwischen Tateinheit und Tatmehrheit
+- [BGH, Urteil vom 02.04.2020 - 1 StR 224/19](1-str-224-19.md) — Hinterziehung französischer Biersteuer: Strafbarkeit der Abgabe einer unrichtigen Steuererklärung in Deutschland; unrichtige Eingangsmeldungen der verbrauchsteu
+- [BGH, Beschluss vom 02.04.2020 - 1 StR 28/20](1-str-28-20.md) — Beweiswürdigung der Jugendkammer: Notwendige Urteilsfeststellungen zum Heranwachsendenstatus eines Angeklagten; Anwendung des Zweifelssatzes
+- [BGH, Beschluss vom 02.04.2020 - 1 StR 90/20](1-str-90-20.md) — Besorgnis der Befangenheit: Mitteilung der Voreingenommenheit an den Angeklagten durch den Richter selbst
+- [BGH, Beschluss vom 01.04.2020 - 1 StR 5/20](1-str-5-20.md) — Tabaksteuerhinterziehung: Tabaksteuerpflicht für Wasserpfeifentabak; Begriff des Rauchtabaks; Voraussetzungen für einen vorsatzausschließenden Tatumstandsirrtum
+- [BGH, Beschluss vom 01.04.2020 - 1 StR 615/19](1-str-615-19.md) — Nachträgliche Gesamtstrafenbildung: Abzuurteilende Taten wurden zwischen zwei Vorverurteilungen begangen
+- [BGH, Beschluss vom 31.03.2020 - 1 StR 403/19](1-str-403-19.md) — Einziehung des Wertes von Taterträgen bei Tabakschmuggel: Erzielung eines Vermögenszuwachses aus den Tabakwaren
+- [BGH, Beschluss vom 31.03.2020 - 1 StR 639/19](1-str-639-19.md) — Absehen von der Anordnung einer Unterbringung in der Entziehungsanstalt: Fehlende Erfolgsaussicht bei fehlender Therapiebereitschaft des Angeklagten
+- [BGH, Beschluss vom 31.03.2020 - 1 StR 73/20](1-str-73-20.md) — Banden- und gewerbsmäßiges Einschleusen von Ausländern: Verstoß gegen das Doppelverwertungsverbot bei strafschärfender Berücksichtigung der bandenmäßigen Begehu
+- [BGH, Beschluss vom 18.03.2020 - 1 StR 600/19](1-str-600-19.md) — Betäubungsmitteldelikt: Anforderungen an die Bestimmung des Wirkstoffgehalts durch Schätzung
+- [BGH, Beschluss vom 17.03.2020 - 1 StR 38/20](1-str-38-20.md) — Schwerer Raub in Tateinheit mit gefährlicher Körperverletzung: Vorsatz der Gesundheitsbeschädigung bei Drohung mit ungeladener Gaspistole
+- [BGH, Beschluss vom 17.03.2020 - 1 StR 631/19](1-str-631-19.md) — Schwerer sexueller Missbrauch von Kindern: Vernehmung von Auslandszeugen
+- [BGH, Beschluss vom 05.03.2020 - 1 StR 530/19](1-str-530-19.md) — Vorenthalten und Veruntreuen von Sozialversicherungsbeiträgen: Konkurrenzverhältnis bei mittelbarer Täterschaft
+- [BGH, Beschluss vom 04.03.2020 - 1 StR 46/20](1-str-46-20.md) — Unerlaubter Besitz von Betäubungsmitteln in nicht geringer Menge: Strafschärfende Berücksichtigung der hohen Rückfallgeschwindigkeit eines betäubungsmittelabhän
+- [BGH, Beschluss vom 13.02.2020 - 1 StR 613/19](1-str-613-19.md) — Jugendstrafverfahren: Voraussetzungen für die Anwendung von Erwachsenenstrafrecht bei einem Heranwachsenden
+- [BGH, Beschluss vom 13.02.2020 - 1 StR 9/20](1-str-9-20.md) — Bewaffnetes Handeltreiben mit Betäubungsmitteln in nicht geringer Menge: Konkurrenzverhältnis bei mehreren Ausführungshandlungen
+- [BGH, Beschluss vom 12.02.2020 - 1 StR 25/20](1-str-25-20.md) — Sicherungsverfahren: Rechtmäßigkeit der Einziehung von Tatmessern
+- [BGH, Urteil vom 12.02.2020 - 1 StR 344/19](1-str-344-19.md) — Einziehung von Taterträgen bei Verbrauch- und Warensteuern: Erlangtes Etwas
+- [BGH, Beschluss vom 12.02.2020 - 1 StR 451/19](1-str-451-19.md) — Revision in Strafsachen: Voraussetzungen einer Aufklärungsrüge
+- [BGH, Beschluss vom 12.02.2020 - 1 StR 481/19](1-str-481-19.md) — Sexuelle Nötigung: Erforderliche Feststellungen zur Widerstandslosigkeit des Opfers nach altem Recht
+- [BGH, Beschluss vom 12.02.2020 - 1 StR 518/19](1-str-518-19.md) — Lückenhafte Beweiswürdigung bei fehlenden Angaben zur Einlassung des Angeklagten
+- [BGH, Beschluss vom 12.02.2020 - 1 StR 612/19](1-str-612-19.md) — Anforderungen an die Darlegung der richterlichen Überzeugungsbildung bei Feststellungen zum Tatgeschehen ausschließlich aufgrund einer Belastungszeugin
+- [BGH, Urteil vom 11.02.2020 - 1 StR 119/19](1-str-119-19.md) — Umsatzsteuerhinterziehung durch Unterlassen: Vorsatz eines Strohmanns bei Nichtabgabe von Steuererklärungen für eine Einzelfirma
+- [BGH, Beschluss vom 11.02.2020 - 1 StR 438/19](1-str-438-19.md) — Steuerhehlerei: Einziehung des Wertes von Taterträgen
+- [BGH, Beschluss vom 30.01.2020 - 1 StR 467/19](1-str-467-19.md) — Strafzumessung bei Anstiftung zum Mord: Berücksichtigung von Aufklärungshilfe
+- [BGH, Beschluss vom 30.01.2020 - 1 StR 552/19](1-str-552-19.md) — Strafverfahren wegen schwerer Brandstiftung und versuchten Mordes: Anforderungen an die Feststellung der Schuldunfähigkeit eines Täters mit chronisch-produktive
+- [BGH, Beschluss vom 29.01.2020 - 1 StR 421/19](1-str-421-19.md) — Strafurteil wegen Untreue: Feststellung der Vermögensbetreuungspflicht eines Prokuristen
+- [BGH, Beschluss vom 29.01.2020 - 1 StR 471/19](1-str-471-19.md) — Beweiswürdigung im Strafverfahren: Darstellung des Zustandekommens und des Inhalts einer Verständigung mit einem Mitangeklagten im Urteil
+- [BGH, Beschluss vom 29.01.2020 - 1 StR 637/19](1-str-637-19.md) — Strafbefreiender Rücktritt vom versuchten Mord durch Richten eines Messers an das Opfer: Fehlgeschlagener Versuch
+- [BGH, Beschluss vom 27.01.2020 - 1 StR 622/17](1-str-622-17.md) — Besetzungsrüge in Strafsachen: Zulässigkeit der Zuweisung von bei einer Wirtschaftsstrafkammer bereits anhängigen Wirtschaftsstrafsachen an eine neu errichtete 
+- [BGH, Urteil vom 16.01.2020 - 1 StR 113/19](1-str-113-19.md) — Betrug und Wucher: Erstellen überhöhter Rechnungen durch einen Schlüsseldienst; Konkurrenzverhältnis
+- [BGH, Beschluss vom 16.01.2020 - 1 StR 490/19](1-str-490-19.md) — Unterbringung in einer Entziehungsanstalt: Anforderungen an die Gefährlichkeitsprognose
+- [BGH, Urteil vom 16.01.2020 - 1 StR 89/19](1-str-89-19.md) — 1. Die Befreiung einer innergemeinschaftlichen Lieferung (§ 6a Abs. 1 UStG) von der Umsatzsteuer entfällt, wenn der liefernde Unternehmer seine tatsächlichen Ab
+- [BGH, Beschluss vom 15.01.2020 - 1 StR 492/15](1-str-492-15.md) — Pflichtverteidigervergütung: Voraussetzungen für die Bewilligung einer Pauschgebühr
+- [BGH, Beschluss vom 15.01.2020 - 1 StR 529/19](1-str-529-19.md) — Umsatzsteuerhinterziehung: Der Einziehung unterliegende Taterträge; unmittelbarer Zufluss eines Vermögensvorteils für den als Organ einer Kapitalgesellschaft ha
+- [BGH, Beschluss vom 15.01.2020 - 1 StR 604/19](1-str-604-19.md) — Gefährlichkeitsprognose für die Unterbringung in einem psychiatrischen Krankenhaus bei Straftaten in einer Unterbringungseinrichtung
+- [BGH, Beschluss vom 14.01.2020 - 1 StR 428/19](1-str-428-19.md) — Steuerhinterziehung: Strafzumessung bei Billigung der Planung und Umsetzung eines Hinterziehungskonstrukts
+- [BGH, Beschluss vom 14.01.2020 - 1 StR 446/19](1-str-446-19.md) — Umsatzsteuerhinterziehung: Strafmilderung bei Irrtum über den entstandenen Schaden
+- [BGH, Beschluss vom 14.01.2020 - 1 StR 531/19](1-str-531-19.md) — Anordnung des Verfalls: Bestimmung des Werts des noch vorhandenen Vermögens; Feststellungen zur Werthaltigkeit einer Forderung gegen eine insolvente GmbH

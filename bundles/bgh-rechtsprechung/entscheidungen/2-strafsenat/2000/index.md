@@ -1,0 +1,53 @@
+# 2. Strafsenat – 2000
+
+49 Entscheidung(en).
+
+- [BGH, Beschluss vom 13.12.2000 - 2 StR 155/00](2-str-155-00.md) — räuberischer Erpressung u.a.
+- [BGH, Urteil vom 01.12.2000 - 2 StR 329/00](2-str-329-00.md) — Körperverletzung mit Todesfolge
+- [BGH, Beschluss vom 15.11.2000 - 2 StR 413/00](2-str-413-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 15.11.2000 - 2 StR 431/00](2-str-431-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 03.11.2000 - 2 ARs 285/00](2-ars-285-00.md) — BGH, Beschluss vom 03.11.2000 - 2 ARs 285/00
+- [BGH, Urteil vom 03.11.2000 - 2 StR 274/00](2-str-274-00.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 03.11.2000 - 2 StR 354/00](2-str-354-00.md) — sexuellen Mißbrauchs eines Kindes
+- [BGH, Beschluss vom 18.10.2000 - 2 ARs 280/00](2-ars-280-00.md) — Leuna - Elf - Aquitaine - Affäre".
+- [BGH, Beschluss vom 27.09.2000 - 2 ARs 249/00](2-ars-249-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 27.09.2000 - 2 ARs 270/00](2-ars-270-00.md) — Verstoßes gegen das Ausländergesetz
+- [BGH, Beschluss vom 27.09.2000 - 2 ARs 69/00](2-ars-69-00.md) — Diebstahls u.a.
+- [BGH, Urteil vom 06.09.2000 - 2 StR 190/00](2-str-190-00.md) — Betrugs
+- [BGH, Beschluss vom 30.08.2000 - 2 ARs 168/00](2-ars-168-00.md) — Beförderungserschleichung und Diebstahls
+- [BGH, Urteil vom 30.08.2000 - 2 StR 204/00](2-str-204-00.md) — versuchten Totschlags
+- [BGH, Beschluss vom 30.08.2000 - 2 StR 567/99](2-str-567-99.md) — Mordes u.a.
+- [BGH, Urteil vom 30.08.2000 - 2 StR 85/00](2-str-85-00.md) — Betruges
+- [BGH, Entscheidung vom 25.08.2000 - 2 StR 295/00](2-str-295-00.md) — In diesem Verfahren wurde das Rechtsmittel ohne weitere Begründung verworfen. Rechtskräftig ist somit die Entscheidung der Vorinstanz geworden, das Aktenzeichen
+- [BGH, Beschluss vom 26.07.2000 - 2 StR 199/00](2-str-199-00.md) — schweren Raubes u.a.
+- [BGH, Beschluss vom 26.07.2000 - 2 StR 278/00](2-str-278-00.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Urteil vom 20.06.2000 - 2 StR 123/00](2-str-123-00.md) — unerlaubten bewaffneten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 31.05.2000 - 2 StR 542/99](2-str-542-99.md) — Beihilfe zum Mord
+- [BGH, Beschluss vom 17.05.2000 - 2 ARs 114/00](2-ars-114-00.md) — gefährlicher Körperverletzung
+- [BGH, Beschluss vom 17.05.2000 - 2 ARs 120/00](2-ars-120-00.md) — BGH, Beschluss vom 17.05.2000 - 2 ARs 120/00
+- [BGH, Beschluss vom 17.05.2000 - 2 ARs 126/00](2-ars-126-00.md) — Verstoßes gegen das Betäubungsmittelgesetz
+- [BGH, Beschluss vom 17.05.2000 - 2 StR 166/00](2-str-166-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 17.05.2000 - 2 StR 460/99](2-str-460-99.md) — Anstiftung zum Mord
+- [BGH, Beschluss vom 17.05.2000 - 2 StR 640/99](2-str-640-99.md) — sexuellen Mißbrauchs von Kindern
+- [BGH, Beschluss vom 07.04.2000 - 2 ARs 102/00](2-ars-102-00.md) — Betruges u.a.
+- [BGH, Beschluss vom 30.03.2000 - 2 ARs 53/00](2-ars-53-00.md) — Verstoßes gegen das Betäubungsmittelgesetz
+- [BGH, Beschluss vom 15.03.2000 - 2 ARs 41/00](2-ars-41-00.md) — eigenmächtiger Abwesenheit
+- [BGH, Beschluss vom 15.03.2000 - 2 StR 42/00](2-str-42-00.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 15.03.2000 - 2 StR 46/00](2-str-46-00.md) — unerlaubter Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 15.03.2000 - 2 StR 55/00](2-str-55-00.md) — schwerer räuberischer Erpressung
+- [BGH, Beschluss vom 15.03.2000 - 2 StR 614/99](2-str-614-99.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 15.03.2000 - 2 StR 635/00](2-str-635-00.md) — Vergewaltigung u.a.
+- [BGH, Beschluss vom 16.02.2000 - 2 StR 52/00](2-str-52-00.md) — Vergewaltigung
+- [BGH, Urteil vom 16.02.2000 - 2 StR 532/99](2-str-532-99.md) — unerlaubten Handeltreibens mit Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Urteil vom 16.02.2000 - 2 StR 582/99](2-str-582-99.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 09.02.2000 - 2 ARs 507/99](2-ars-507-99.md) — Handeltreibens mit Betäubungsmitteln
+- [BGH, Beschluss vom 09.02.2000 - 2 StR 31/00](2-str-31-00.md) — gewerbsmäßiger Bandenhehlerei u.a.
+- [BGH, Beschluss vom 09.02.2000 - 2 StR 639/99](2-str-639-99.md) — versuchten Totschlags u.a.
+- [BGH, Beschluss vom 04.02.2000 - 2 StR 615/99](2-str-615-99.md) — schweren Raubes, sexueller Nötigung u.a.
+- [BGH, Beschluss vom 04.02.2000 - 2 StR 636/99](2-str-636-99.md) — Einfuhr von Betäubungsmitteln in nicht geringer Menge u.a.
+- [BGH, Beschluss vom 02.02.2000 - 2 ARs 495/99](2-ars-495-99.md) — _______________________ StPO §§ 81g, 162 Abs. 1; DNA-IFG § 2 Die Entnahme von Körperzellen und deren molekulargenetische Untersuchung zur Feststellung des DNA-I
+- [BGH, Beschluss vom 02.02.2000 - 2 StR 4/00](2-str-4-00.md) — versuchter schwerer räuberischer Erpressung
+- [BGH, Urteil vom 02.02.2000 - 2 StR 416/99](2-str-416-99.md) — Handeltreibens mit Betäubungsmitteln
+- [BGH, Urteil vom 02.02.2000 - 2 StR 550/99](2-str-550-99.md) — zu 1.: Totschlags zu 2.: Mordes u.a.
+- [BGH, Beschluss vom 12.01.2000 - 2 ARs 520/99](2-ars-520-99.md) — Verdachts des Betruges
+- [BGH, Beschluss vom 12.01.2000 - 2 StR 626/99](2-str-626-99.md) — schweren Raubes u.a.

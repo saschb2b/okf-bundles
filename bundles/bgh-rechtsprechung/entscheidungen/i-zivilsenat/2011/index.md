@@ -1,0 +1,154 @@
+# I. Zivilsenat – 2011
+
+150 Entscheidung(en).
+
+- [BGH, Beschluss vom 21.12.2011 - I ZB 31/10](i-zb-31-10.md) — Verfahren in Markenangelegenheiten: Begründung der Anhörungsrüge mit wiederholtem Vortrag
+- [BGH, Beschluss vom 21.12.2011 - I ZB 47/09](i-zb-47-09.md) — Rechtsanwalt an einem dritten Ort Beauftragt ein Unternehmen, das bei einem auswärtigen Gericht klagt oder verklagt wird, einen Rechtsanwalt mit der Prozessführ
+- [BGH, Beschluss vom 21.12.2011 - I ZB 56/09](i-zb-56-09.md) — Link economy Lässt sich ein beschreibender Gehalt einer Wortfolge nur in mehreren gedanklichen Schritten ermitteln, rechtfertigt dies regelmäßig nicht den Schlu
+- [BGH, Beschluss vom 21.12.2011 - I ZB 87/09](i-zb-87-09.md) — Gemeinschaftsrechtliches Markenrecht: Angabe "Thüringer Klöße" als nicht als geographische Angabe eintragungsfähige Gattungsbezeichnung; Rechtsbeschwerde wegen 
+- [BGH, Beschluss vom 21.12.2011 - I ZR 144/09](i-zr-144-09.md) — Anwendung ausländischer Rechtsnormen: Umfang der Pflicht zur amtswegigen Ermittlung ausländischen Rechts in einem Schadensersatzverfahren gegen einen taiwanesis
+- [BGH, Urteil vom 21.12.2011 - I ZR 190/10](i-zr-190-10.md) — Neue Personenkraftwagen Das Verständnis des Begriffs "neue Personenkraftwagen" in § 2 Nr. 1 Pkw-EnVKV ist an objektivierbaren Umständen auszurichten, aus denen 
+- [BGH, Urteil vom 21.12.2011 - I ZR 196/10](i-zr-196-10.md) — Kosten des Patentanwalts III 1. Zu den Kennzeichenstreitsachen im Sinne des § 140 Abs. 1 MarkenG zählen auch Verfahren der einstweiligen Verfügung, durch die ei
+- [BGH, Beschluss vom 21.12.2011 - I ZR 83/11](i-zr-83-11.md) — Berücksichtigung von Abmahnkosten beim Streitwert und Beschwerdewert
+- [BGH, Urteil vom 15.12.2011 - I ZR 12/11](i-zr-12-11.md) — 1. Bei den Haager Regeln von 1924 handelt es sich um zwingende Vorschriften im Sinne von Art. 2 Abs. 1 Satz 2 CMR. 2. Feuer an Bord eines Seeschiffes kann eine 
+- [BGH, Urteil vom 15.12.2011 - I ZR 129/10](i-zr-129-10.md) — Einkauf Aktuell 1. Das für den Staat bestehende Gebot, sich nur in engen Grenzen auf dem Gebiet der Presse zu betätigen, stellt insoweit, als es den Schutz der 
+- [BGH, Urteil vom 15.12.2011 - I ZR 174/10](i-zr-174-10.md) — Bauheizgerät 1. Schlägt der Abmahnende dem wegen eines Wettbewerbsverstoßes Abgemahnten in einer vorformulierten Unterlassungsverpflichtungserklärung für jeden 
+- [BGH, Beschluss vom 30.11.2011 - I ZB 56/11](i-zb-56-11.md) — Schokoladenstäbchen 1. Das Informationsfreiheitsgesetz findet auf die Akteneinsicht Dritter in Verfahren in Markenangelegenheiten keine Anwendung. 2. Für die Ak
+- [BGH, Urteil vom 30.11.2011 - I ZR 212/10](i-zr-212-10.md) — Blühende Landschaften 1. Das Zitatrecht gemäß § 51 Satz 2 Nr. 2 UrhG hat im Hinblick auf Kunstwerke einen weiteren Anwendungsbereich als bei nichtkünstlerischen
+- [BGH, Beschluss vom 30.11.2011 - I ZR 213/10](i-zr-213-10.md) — Anhörungsrüge: Begründung der Gehörsrüge gegen einen die Nichtzulassungsbeschwerde zurückweisenden Beschluss
+- [BGH, Beschluss vom 30.11.2011 - I ZR 26/11](i-zr-26-11.md) — Die Beurteilung der Frage, ob die Revision zur Sicherung einer einheitlichen Rechtsprechung (§ 543 Abs. 2 Satz 1 Nr. 2 Fall 2 ZPO) zuzulassen ist, wenn der abso
+- [BGH, Urteil vom 30.11.2011 - I ZR 59/10](i-zr-59-10.md) — PC als Bild- und Tonaufzeichnungsgerät 1. Es kann nicht ohne Weiteres davon ausgegangen werden, dass sämtliche PCs mit eingebauter Festplatte, die in den Jahren
+- [BGH, Urteil vom 30.11.2011 - I ZR 8/11](i-zr-8-11.md) — Glucosamin Naturell 1. Im Rahmen des § 1 Abs. 4a Satz 2 DiätV sind bei der Prüfung der Frage, ob für die diätetische Behandlung der Patienten eine Modifizierung
+- [BGH, Beschluss vom 24.11.2011 - I ZR 13/10](i-zr-13-10.md) — Anhörungsrüge: Beanstandung der Übergehung der Verfahrensrüge eines nicht erhobenen Sachverständigenbeweises
+- [BGH, Beschluss vom 24.11.2011 - I ZR 170/09](i-zr-170-09.md) — Haftung eines Gesellschafters für Verfahrenskosten nach Auflösung der GbR
+- [BGH, Urteil vom 09.11.2011 - I ZR 123/10](i-zr-123-10.md) — Überschrift zur Widerrufsbelehrung 1. Eine Widerrufsbelehrung mit dem einleitenden Satz "Verbraucher haben das folgende Widerrufsrecht" verstößt nicht gegen das
+- [BGH, Urteil vom 09.11.2011 - I ZR 150/09](i-zr-150-09.md) — Basler Haar-Kosmetik 1. Der Namensschutz aus § 12 BGB bleibt neben dem Kennzeichenschutz aus §§ 5, 15 MarkenG anwendbar, wenn mit der Löschung des Domainnamens 
+- [BGH, Urteil vom 09.11.2011 - I ZR 204/10](i-zr-204-10.md) — Strafbewehrte Unterlassungsverpflichtung bei Wettbewerbsverstoß: Kommunale Touristen-Information als Erfüllungsgehilfe der Zuwiderhandlung
+- [BGH, Beschluss vom 09.11.2011 - I ZR 216/10](i-zr-216-10.md) — Grenzen postmortalen Urheberrechtsschutzes: Interessenabwägung bei Unterlassungsklage der Erben des Architekten Paul Bonatz gegen den Teilabriss des Stuttgarter
+- [BGH, Beschluss vom 27.10.2011 - I ZB 23/11](i-zb-23-11.md) — Simca Das rechtliche Gehör des Antragstellers eines Löschungsverfahrens nach § 8 Abs. 2 Nr. 10, § 50 Abs. 1 MarkenG ist nicht schon dann verletzt, wenn das Bund
+- [BGH, Urteil vom 27.10.2011 - I ZR 125/10](i-zr-125-10.md) — Barmen Live 1. Zwischen einer Verwertungsgesellschaft und einer Person, die von der Verwertungsgesellschaft die Einräumung von Nutzungsrechten verlangt, kommt e
+- [BGH, Urteil vom 27.10.2011 - I ZR 131/10](i-zr-131-10.md) — regierung-oberfranken.de 1. Die für die Registrierung von Domainnamen unter der Top-Level-Domain „.de“ zuständige DENIC haftet dann als Störerin, wenn sie von D
+- [BGH, Beschluss vom 27.10.2011 - I ZR 134/11](i-zr-134-11.md) — Markenrechtsverletzung ohne markenfeindliche Tendenz
+- [BGH, Urteil vom 27.10.2011 - I ZR 175/10](i-zr-175-10.md) — Bochumer Weihnachtsmarkt 1. Eine Verwertungsgesellschaft ist auch dann berechtigt, von einem Nutzer der von ihr wahrgenommenen Rechte die angemessene Vergütung 
+- [BGH, Beschluss vom 19.10.2011 - I ZB 90/10](i-zb-90-10.md) — Nicht zugelassene Rechtsbeschwerde im Markenlöschungsstreit: Gehörsrüge zur markenmäßigen Verwendung der Wortmarke POST
+- [BGH, Urteil vom 19.10.2011 - I ZR 223/06](i-zr-223-06.md) — Wettbewerbswidrige Werbung für verschreibungspflichtige Medikamente im Internet
+- [BGH, Beschluss vom 19.10.2011 - I ZR 69/11](i-zr-69-11.md) — Sprungrevision: Anforderungen an die schriftliche Einwilligungserklärung des Antragsgegners
+- [BGH, Beschluss vom 19.10.2011 - I ZR 91/10](i-zr-91-10.md) — Anhörungsrüge: Berücksichtigung der gegenteilige Rechtsauffassung
+- [BGH, Beschluss vom 19.10.2011 - I ZR 98/11](i-zr-98-11.md) — Notanwalt: Voraussetzungen für die Beiordnung
+- [BGH, Beschluss vom 18.10.2011 - I ZR 109/10](i-zr-109-10.md) — Wettbewerbs- und Geschmacksmusterrecht: Wettbewerbliche Eigenart des Designs eines Haushaltsgeräts; Abgrenzung zwischen wettbewerblicher und geschmacksmusterrec
+- [BGH, Urteil vom 06.10.2011 - I ZR 117/10](i-zr-117-10.md) — Delan 1. Ein auf das Verbot des Vertriebs eines importierten Pflanzenschutzmittels gerichteter Unterlassungsantrag ist regelmäßig nicht hinreichend bestimmt, we
+- [BGH, Urteil vom 06.10.2011 - I ZR 42/10](i-zr-42-10.md) — Falsche Suchrubrik Stellt der Verkäufer eines Gebrauchtfahrzeugs sein Angebot auf einer Internethandelsplattform in eine Suchrubrik mit einer geringeren als der
+- [BGH, Urteil vom 06.10.2011 - I ZR 54/10](i-zr-54-10.md) — Kreditkontrolle Ein Finanzdienstleistungsunternehmen, das Kunden bei der Umschuldung bestehender Verbindlichkeiten berät, darf die rechtliche Beratung zur vorze
+- [BGH, Urteil vom 06.10.2011 - I ZR 6/10](i-zr-6-10.md) — Echtheitszertifikat Bringt ein Wiederverkäufer mit der Marke des Softwareherstellers versehene Sicherungs-CDs eines Computerprogramms in den Verkehr, die er mit
+- [BGH, Beschluss vom 28.09.2011 - I ZB 29/10](i-zb-29-10.md) — Rechtsanwaltsgebühr: Anrechnung der vorgerichtlichen Geschäftsgebühr auf die Verfahrensgebühr
+- [BGH, Beschluss vom 28.09.2011 - I ZB 97/09](i-zb-97-09.md) — Ausländischer Verkehrsanwalt 1. Für die Frage, ob die Kosten des ausländischen Verkehrsanwalts einer ausländischen Partei erstattungsfähig sind, bedarf es einer
+- [BGH, Beschluss vom 28.09.2011 - I ZR 13/11](i-zr-13-11.md) — Bewilligung von Prozesskostenhilfe für eine juristische Person im Falle eines Verfahrens gegen "Haus & Grund"
+- [BGH, Urteil vom 28.09.2011 - I ZR 145/10](i-zr-145-10.md) — Urheberrechtsverletzung im Internet: Ersatzfähigkeit anwaltlicher Abmahnkosten nach Abmahnung wegen des Anbietens eines mit einer geschützten Abbildung versehen
+- [BGH, Urteil vom 28.09.2011 - I ZR 188/09](i-zr-188-09.md) — Landgut Borsig Der Eigentümer einer Liegenschaft, die im allgemeinen Sprachgebrauch des maßgeblichen Verkehrs mit dem bürgerlichen Namen einer Familie bezeichne
+- [BGH, Urteil vom 28.09.2011 - I ZR 191/10](i-zr-191-10.md) — Freie Wähler 1. Für die Namen von Wählervereinigungen gilt das strenge Prioritätsprinzip gemäß § 4 Abs. 1 PartG nicht. Für ihre originäre Unterscheidungskraft i
+- [BGH, Beschluss vom 28.09.2011 - I ZR 89/09](i-zr-89-09.md) — Die Entscheidung über die Aussetzung nach § 148 ZPO kann ohne mündliche Verhandlung ergehen.
+- [BGH, Beschluss vom 22.09.2011 - I ZB 61/10](i-zb-61-10.md) — Eidesstattliche Versicherung durch WEG-Verwalter 1. Dritte, die die eidesstattliche Versicherung für einen Schuldner abgeben sollen, sich dazu aber nicht für be
+- [BGH, Urteil vom 22.09.2011 - I ZR 127/10](i-zr-127-10.md) — Das Boot 1. Ein Miturheber kann einen Anspruch auf weitere angemessene Beteiligung nach § 32a Abs. 1 oder 2 Satz 1 UrhG und einen diesen Anspruch vorbereitenden
+- [BGH, Beschluss vom 22.09.2011 - I ZR 184/10](i-zr-184-10.md) — Nichtzulassungsbeschwerdeverfahren: Darlegung der Revisionszulassungsgründe bei mehreren Streitgegenständen
+- [BGH, Urteil vom 22.09.2011 - I ZR 229/10](i-zr-229-10.md) — Überregionale Klagebefugnis 1. Der Umstand, dass das Prozessgericht bei begründeten Zweifeln am (Fort-)Bestehen der Eintragungsvoraussetzungen gemäß § 8 Abs. 3 
+- [BGH, Beschluss vom 17.08.2011 - I ZA 2/11](i-za-2-11.md) — Nichtzulassungsbeschwerde: Darlegungslast zur Beschwer; rechtliches Gehör
+- [BGH, Beschluss vom 17.08.2011 - I ZB 20/11](i-zb-20-11.md) — Aufschiebende Wirkung Die Beschwerde gegen die Festsetzung eines Zwangs- oder Ordnungsmittels hat auch bei Zwangs- oder Ordnungsmittelbeschlüssen gemäß §§ 888, 
+- [BGH, Beschluss vom 17.08.2011 - I ZB 21/11](i-zb-21-11.md) — Der Grundsatz, dass ein Rechtsanwalt darauf vertrauen darf, dass eine bislang zuverlässige Kanzleikraft eine konkrete Einzelweisung befolgen wird, gilt insoweit
+- [BGH, Beschluss vom 17.08.2011 - I ZB 5/11](i-zb-5-11.md) — Der Schuldner kann den Einwand der Übersicherung des Gläubigers (§ 803 Abs. 1 Satz 2 ZPO) im Verfahren zur Abnahme der eidesstattlichen Versicherung nur durch W
+- [BGH, Beschluss vom 17.08.2011 - I ZB 7/11](i-zb-7-11.md) — Radiologisch-diagnostische Untersuchungen Für eine Unterlassungsklage der Zentrale zur Bekämpfung unlauteren Wettbewerbs gegen einen Krankenhausbetreiber, mit d
+- [BGH, Beschluss vom 17.08.2011 - I ZB 70/10](i-zb-70-10.md) — Institut der Norddeutschen Wirtschaft e.V. 1. Für das Vorliegen des Schutzhindernisses nach § 8 Abs. 2 Nr. 2 MarkenG kommt es nicht darauf an, ob der Anmelder b
+- [BGH, Beschluss vom 17.08.2011 - I ZB 73/09](i-zb-73-09.md) — Zwangsvollstreckungsverfahren: Vollstreckungsschutzantrag eines prozessunfähigen Schuldners
+- [BGH, Beschluss vom 17.08.2011 - I ZB 98/10](i-zb-98-10.md) — akustilon Das Verfahren nach § 53 MarkenG ist auf die formelle Prüfung beschränkt, ob der Inhaber der eingetragenen Marke der Löschung rechtzeitig widersprochen
+- [BGH, Beschluss vom 17.08.2011 - I ZR 110/10](i-zr-110-10.md) — Rechtliches Gehör des Urheberrechtsverletzers: Neue erweiterte Anlage zur Klageantrag im Urteilstenor
+- [BGH, Urteil vom 17.08.2011 - I ZR 148/10](i-zr-148-10.md) — Glücksspielverband 1. Legt ein Verband eine die Kosten des Streitfalls vielfach übersteigende liquide Finanzausstattung dar und ist nicht bekannt geworden, dass
+- [BGH, Beschluss vom 17.08.2011 - I ZR 18/09](i-zr-18-09.md) — Alleinurheberschaft an einem Filmwerk: Darlegungs- und Beweislast
+- [BGH, Urteil vom 17.08.2011 - I ZR 223/10](i-zr-223-10.md) — Verfolgung von Wettbewerbsverstößen der staatlichen Lottogesellschaften: Klagebefugnis eines Verbandes der privaten Glücksspielwirtschaft
+- [BGH, Urteil vom 17.08.2011 - I ZR 57/09](i-zr-57-09.md) — Stiftparfüm 1. Weist ein Rechteinhaber den Betreiber eines Online-Marktplatzes auf eine Verletzung seines Rechts durch ein auf dem Marktplatz eingestelltes Verk
+- [BGH, Beschluss vom 21.07.2011 - I ZB 71/09](i-zb-71-09.md) — 1. Weist der Rechtspfleger einen Antrag auf Widerruf der Bestätigung als Europäischer Vollstreckungstitel zurück und weist auch der Richter die dagegen gerichte
+- [BGH, Beschluss vom 21.07.2011 - I ZB 93/10](i-zb-93-10.md) — 1. Die bloße Änderung des Namens oder der Firma einer Partei steht der Vollstreckung eines Titels dann nicht entgegen, wenn der Gläubiger die Personenidentität 
+- [BGH, Beschluss vom 21.07.2011 - I ZB 94/10](i-zb-94-10.md) — Zwangsvollstreckungsverfahren: Vollstreckung aus nicht geänderter Klausel trotz Umfirmierung
+- [BGH, Beschluss vom 21.07.2011 - I ZB 96/10](i-zb-96-10.md) — Der Gerichtsvollzieher hat dem Schuldner mit der Ladung zum Termin zur Abgabe der eidesstattlichen Versicherung eine Abschrift des Vollstreckungsauftrags zuzust
+- [BGH, Beschluss vom 21.07.2011 - I ZR 138/10](i-zr-138-10.md) — Gegenvorstellung: Bitte um Begründung der Streitwertfestsetzung
+- [BGH, EuGH-Vorlage vom 21.07.2011 - I ZR 162/10](i-zr-162-10.md) — Vorabentscheidungsersuchen an den EuGH: Auslegung der Informationsgesellschaftsrichtlinie hinsichtlich ihrer zeitlichen Anwendbarkeit und ihrer Geltung für Verv
+- [BGH, Beschluss vom 21.07.2011 - I ZR 204/09](i-zr-204-09.md) — Anhörungsrüge: Anforderungen an die Darlegung der Gehörsverletzung
+- [BGH, Urteil vom 21.07.2011 - I ZR 209/09](i-zr-209-09.md) — Stufenklage einer Fluggesellschaft gegen einen Flughafenbetreiber wegen des Abschlusses wettbewerbsbeschränkender und wettbewerbswidriger Individualverträge übe
+- [BGH, EuGH-Vorlage vom 21.07.2011 - I ZR 28/11](i-zr-28-11.md) — Drucker und Plotter II Dem Gerichtshof der Europäischen Union werden zur Auslegung der Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. M
+- [BGH, EuGH-Vorlage vom 21.07.2011 - I ZR 30/11](i-zr-30-11.md) — PC II Dem Gerichtshof der Europäischen Union werden zur Auslegung der Richtlinie 2001/29/EG des Europäischen Parlaments und des Rates vom 22. Mai 2001 zur Harmo
+- [BGH, Beschluss vom 07.07.2011 - I ZB 62/10](i-zb-62-10.md) — Rechtzeitigkeit des Eingangs eines per Telefax übersandten Schriftsatzes
+- [BGH, Urteil vom 07.07.2011 - I ZR 181/10](i-zr-181-10.md) — Frühlings-Special Ein Reiseveranstalter, der mit einem zeitlich befristeten Frühbucherrabatt wirbt, muss sich grundsätzlich an die gesetzte Frist halten, will e
+- [BGH, Urteil vom 07.07.2011 - I ZR 207/08](i-zr-207-08.md) — Gartencenter Pötschke 1. Besteht eine kennzeichenrechtliche Gleichgewichtslage, auf die die Grundsätze des Rechts der Gleichnamigen anzuwenden sind, kann eine P
+- [BGH, Beschluss vom 07.07.2011 - I ZR 92/10](i-zr-92-10.md) — Markenrechtsverletzung: Verwechslungsgefahr bei Verwendung zusammengesetzter Zeichen
+- [BGH, EuGH-Vorlage vom 30.06.2011 - I ZR 29/11](i-zr-29-11.md) — Vorabentscheidungsersuchen an den EuGH: Auslegung der Informationsgesellschaftsrichtlinie hinsichtlich ihrer zeitlichen Anwendbarkeit und ihrer Geltung für Verv
+- [BGH, Beschluss vom 22.06.2011 - I ZB 64/10](i-zb-64-10.md) — Aussetzung eines Schlichtungsverfahrens 1. Das Verfahren nach § 36a Abs. 3 UrhG zur Bestellung des Vorsitzenden und zur Bestimmung der Zahl der Beisitzer der Sc
+- [BGH, Beschluss vom 22.06.2011 - I ZB 77/10](i-zb-77-10.md) — 1. Für die Frage, ob das Fernbleiben einer Partei, deren persönliches Erscheinen im Termin nach § 141 ZPO angeordnet ist, genügend entschuldigt ist, kommt es ni
+- [BGH, Beschluss vom 22.06.2011 - I ZB 78/10](i-zb-78-10.md) — Rheinpark-Center Neuss 1. Die angemeldete Marke "Rheinpark-Center Neuss" beschreibt den Ort, an dem die beanspruchten Dienstleistungen angeboten oder erbracht w
+- [BGH, Beschluss vom 22.06.2011 - I ZB 83/10](i-zb-83-10.md) — Markenrecht: Eintragungsfähigkeit der Bezeichnung "Rheinpark-Center" für ein Dienstleistungs- und Einkaufszentrum
+- [BGH, Beschluss vom 22.06.2011 - I ZB 86/10](i-zb-86-10.md) — Kostenfestsetzungsverfahren: Anrechnung der anwaltlichen Geschäftsgebühr auf die im Verfügungsverfahren entstandene Verfahrensgebühr
+- [BGH, Beschluss vom 22.06.2011 - I ZB 9/10](i-zb-9-10.md) — Stahlschluessel Ist die mündliche Verhandlung im Beschwerdeverfahren vor dem Bundespatentgericht geschlossen (§ 76 Abs. 6 Satz 1 MarkenG), ist der Anspruch eine
+- [BGH, Urteil vom 22.06.2011 - I ZR 108/10](i-zr-108-10.md) — 1. Von außen wirkende Verzögerungsursachen, die bei Abschluss des Frachtvertrags für den Absender weder vorhersehbar noch beherrschbar sind und bei denen auch s
+- [BGH, Urteil vom 22.06.2011 - I ZR 159/10](i-zr-159-10.md) — Automobil-Onlinebörse 1. Vervielfältigen mehrere Nutzer nach Art und Umfang für sich genommen jeweils unwesentliche Teile einer Datenbank, die aber in ihrer Ges
+- [BGH, Beschluss vom 16.06.2011 - I ZR 200/09](i-zr-200-09.md) — Wettbewerbsrecht: Verstoß gegen Wettbewerbsregeln der Privatwirtschaft als unlautere geschäftliche Handlung
+- [BGH, Urteil vom 09.06.2011 - I ZR 113/10](i-zr-113-10.md) — Zertifizierter Testamentsvollstrecker Der Verkehr erwartet von einem Rechtsanwalt, der sich als "zertifizierter Testamentsvollstrecker" bezeichnet, dass er nich
+- [BGH, Urteil vom 09.06.2011 - I ZR 17/10](i-zr-17-10.md) — Computer-Bild 1a. In einer Werbeanzeige für ein Zeitschriftenabonnement, der ein Bestellformular beigefügt ist, mit dem die Zeitschrift abonniert werden kann, m
+- [BGH, Beschluss vom 01.06.2011 - I ZB 52/09](i-zb-52-09.md) — Maalox/Melox-GRY 1. Gehören zu den angesprochenen Verkehrskreisen sowohl Fachkreise (Ärzte und Apotheker) als auch das allgemeine Publikum (Endverbraucher), kan
+- [BGH, Beschluss vom 01.06.2011 - I ZR 199/09](i-zr-199-09.md) — Neues Vorbringen in der Berufung: Anwendungsbeobachtung zwecks Wirksamkeitsnachweises eines Arzneimittels als verspätetes Vorbringen
+- [BGH, Urteil vom 01.06.2011 - I ZR 25/10](i-zr-25-10.md) — Vorrichtung zur Schädlingsbekämpfung Wer eine Vorrichtung zur Herstellung eines Pflanzenschutzmittels anbietet, handelt auch dann keiner im Pflanzenschutzgesetz
+- [BGH, Urteil vom 01.06.2011 - I ZR 58/10](i-zr-58-10.md) — Rechtsberatung durch Einzelhandelsverband Einem Einzelhandelsverband, zu dessen satzungsgemäßen Zwecken es gehört, seinen Mitgliedern durch Beratung und Hilfe i
+- [BGH, Ergänzungsurteil vom 01.06.2011 - I ZR 80/09](i-zr-80-09.md) — Ein Klageverzicht im Sinne des § 306 ZPO bezieht sich als Prozesshandlung nur auf diejenigen (prozessualen) Ansprüche, die noch rechtshängig sind .
+- [BGH, Beschluss vom 19.05.2011 - I ZB 57/10](i-zb-57-10.md) — Genügt eine Verurteilung zur Abgabe einer Willenserklärung nicht dem Bestimmtheitserfordernis des § 253 Abs. 2 Nr. 2 ZPO, kann die Abgabe der fraglichen Erkläru
+- [BGH, Urteil vom 19.05.2011 - I ZR 147/09](i-zr-147-09.md) — Coaching-Newsletter 1. Vergleichende Werbung im Sinne von § 6 UWG setzt nicht nur voraus, dass ein Mitbewerber oder die von ihm angebotenen Produkte erkennbar g
+- [BGH, Urteil vom 19.05.2011 - I ZR 195/09](i-zr-195-09.md) — Haftung des Frachtführers: Unwiderlegliche Vermutung für Schadenseintritt nach Ablieferung bei unterbliebener Festhaltung erkennbarer Schäden durch den Empfänge
+- [BGH, Beschluss vom 19.05.2011 - I ZR 215/08](i-zr-215-08.md) — Gewerbliche Spielvermittlung: Vermittlung von Anteilen an BGB-Gesellschaften mit dem Geschäftszweck der Teilnahme am Samstagslotto; Haftung der Lotteriegesellsc
+- [BGH, Beschluss vom 05.05.2011 - I ZB 17/11](i-zb-17-11.md) — Rechtsbeschwerde: Anfechtbarkeit der Nichtzulassung durch das Beschwerdegericht
+- [BGH, Beschluss vom 05.05.2011 - I ZR 46/09](i-zr-46-09.md) — Wettbewerbsverstoß: Unverlangte Werbeanrufe gegenüber Verbrauchern
+- [BGH, Beschluss vom 28.04.2011 - I ZB 61/08](i-zb-61-08.md) — Rechtsanwaltsgebühr: Anrechnung der Geschäftsgebühr auf die Verfahrensgebühr im Kostenfestsetzungsverfahren
+- [BGH, Beschluss vom 20.04.2011 - I ZB 41/09](i-zb-41-09.md) — Richterablehnung: Offensichtliche Unbegründetheit eines Ablehnungsgesuchs
+- [BGH, Beschluss vom 14.04.2011 - I ZA 21/10](i-za-21-10.md) — Markenbeschwerdeverfahren: Verletzung des rechtlichen Gehörs durch Verweigerung von Verfahrenskostenhilfe
+- [BGH, Beschluss vom 14.04.2011 - I ZB 65/10](i-zb-65-10.md) — Rechtsbeschwerde: Qualifizierter Anwaltszwang
+- [BGH, Urteil vom 14.04.2011 - I ZR 129/09](i-zr-129-09.md) — Injektionslösung Ein Apotheker, der eine Erlaubnis zum Versand von apothekenpflichtigen Arzneimitteln hat, darf auch die von ihm hergestellten Defekturarzneimit
+- [BGH, Urteil vom 14.04.2011 - I ZR 133/09](i-zr-133-09.md) — Werbung mit Garantie 1. Unter den Begriff der Garantieerklärung im Sinne des § 477 Abs. 1 Satz 1 BGB fällt nur die zum Abschluss eines Kaufvertrages oder eines 
+- [BGH, Beschluss vom 14.04.2011 - I ZR 38/10](i-zr-38-10.md) — Wettbewerbsverstoß: Anforderungen an eine Einwilligung in Telefonwerbung
+- [BGH, Urteil vom 07.04.2011 - I ZR 15/10](i-zr-15-10.md) — Die frachtrechtliche Haftung des Spediteurs/Frachtführers, der die Versendung von Transportgut im Wege einer Sammelladung veranlasst hat, endet grundsätzlich mi
+- [BGH, Beschluss vom 07.04.2011 - I ZR 19/09](i-zr-19-09.md) — Urheberrecht: Angemessene Vergütung für Übersetzer
+- [BGH, EuGH-Vorlage vom 07.04.2011 - I ZR 53/09](i-zr-53-09.md) — Messgerät Dem Gerichtshof der Europäischen Union wird zur Auslegung der Richtlinie 93/42/EWG des Rates vom 14. Juni 1993 über Medizinprodukte (ABl. Nr. L 169 vo
+- [BGH, Beschluss vom 24.03.2011 - I ZA 1/11](i-za-1-11.md) — Ist der Antrag einer Partei auf Beiordnung eines Notanwalts abgelehnt worden, besteht für die gegen diese Entscheidung gerichtete sofortige Beschwerde bzw. - fa
+- [BGH, Beschluss vom 24.03.2011 - I ZB 85/10](i-zb-85-10.md) — Entscheidung über die Bewilligung von Prozesskostenhilfe: Zulassung der Rechtsbeschwerde
+- [BGH, Beschluss vom 24.03.2011 - I ZR 108/09](i-zr-108-09.md) — TÜV 1. Die alternative Klagehäufung, bei der der Kläger ein einheitliches Klagebegehren aus mehreren prozessualen Ansprüchen (Streitgegenständen) herleitet und 
+- [BGH, Beschluss vom 17.03.2011 - I ZB 12/11](i-zb-12-11.md) — Zulässigkeit der Rechtsbeschwerde gegen Versagung der Prozesskostenhilfe für das Berufungsverfahren
+- [BGH, Urteil vom 17.03.2011 - I ZR 170/08](i-zr-170-08.md) — Ford-Vertragspartner Entsteht beim angesprochenen Verkehr durch die Verwendung des Begriffs "Vertragspartner" der unzutreffende Eindruck, der Werbende sei "Vert
+- [BGH, Beschluss vom 17.03.2011 - I ZR 183/09](i-zr-183-09.md) — Streitwertherabsetzung II Bei Klagen von Verbraucherschutzverbänden, die im öffentlichen Interesse tätig und auf die Finanzierung durch die öffentliche Hand ang
+- [BGH, Urteil vom 03.03.2011 - I ZR 167/09](i-zr-167-09.md) — Kreditkartenübersendung Die einmalige unaufgeforderte Übersendung einer bereits auf den Namen des Empfängers ausgestellten Kreditkarte durch ein Bankunternehmen
+- [BGH, Urteil vom 03.03.2011 - I ZR 50/10](i-zr-50-10.md) — Der Frachtführer kommt der ihm obliegenden sekundären Darlegungslast bei einem Verlust des Transportgutes im Allgemeinen nicht nach, wenn er nur den Ort des Sen
+- [BGH, Urteil vom 24.02.2011 - I ZR 154/09](i-zr-154-09.md) — Enzymax/Enzymix Zwischen "Enzymax" und "Enzymix" besteht nicht zuletzt deshalb eine hohe Zeichenähnlichkeit, weil der Verkehr das "m" in beiden Zeichen sowohl d
+- [BGH, Urteil vom 24.02.2011 - I ZR 181/09](i-zr-181-09.md) — Kosten des Patentanwalts II Hat neben einem Rechtsanwalt auch ein Patentanwalt an der Abmahnung wegen einer Markenverletzung mitgewirkt, kann die Erstattung der
+- [BGH, Beschluss vom 24.02.2011 - I ZR 220/10](i-zr-220-10.md) — Zulässigkeit der Nichtzulassungsbeschwerde: Beschwer eines zur Unterlassung einer Spitzenstellungsbehauptung verurteilten Anzeigenblattverlages
+- [BGH, Beschluss vom 10.02.2011 - I ZB 63/09](i-zb-63-09.md) — Parallelverwendung 1. Allein die Möglichkeit, dass ein Urteil in einem ersten Prozess für nachfolgende Prozesse eine faktische Präzedenzwirkung entfaltet und zu
+- [BGH, Urteil vom 10.02.2011 - I ZR 136/09](i-zr-136-09.md) — Flughafen Frankfurt-Hahn 1. Das beihilferechtliche Durchführungsverbot des Art. 108 Abs. 3 Satz 3 AEUV ist zugunsten der Wettbewerber des Beihilfeempfängers Sch
+- [BGH, Urteil vom 10.02.2011 - I ZR 164/09](i-zr-164-09.md) — Double-opt-in-Verfahren 1. Die Regelung des § 7 Abs. 2 Nr. 2 UWG, wonach Telefonwerbung gegenüber Verbrauchern generell nur nach deren vorheriger ausdrücklicher
+- [BGH, Urteil vom 10.02.2011 - I ZR 172/09](i-zr-172-09.md) — RENNIE Ist der Vertrieb eines parallelimportierten Arzneimittels im Inland in einer bestimmten Packungsgröße ohne weiteres dadurch möglich, dass die Originalver
+- [BGH, Beschluss vom 10.02.2011 - I ZR 73/09](i-zr-73-09.md) — Unlauterer Wettbewerb: Angebot und Bewerbung von Glücksspielen durch private Anbieter während der vom Bundesverfassungsgericht bestimmten Übergangszeit – Banden
+- [BGH, Urteil vom 10.02.2011 - I ZR 8/09](i-zr-8-09.md) — RC-Netzmittel 1. Die Eintragung eines Pflanzenschutzmittel-Zusatzstoffes in die für solche Stoffe beim Bundesamt für Verbraucherschutz und Lebensmittelsicherhei
+- [BGH, Beschluss vom 07.02.2011 - I ZB 95/09](i-zb-95-09.md) — Kostenfestsetzung nach wettbewerbsrechtlicher einstweiliger Verfügung: Anrechnung der anwaltlichen Geschäftsgebühr auf die Verfahrensgebühr
+- [BGH, Beschluss vom 07.02.2011 - I ZB 96/09](i-zb-96-09.md) — Rechtsanwaltsgebühr: Ansatz der Verfahrensgebühr des einstweiligen Verfügungsverfahrens in der Kostenfestsetzung nach der gesetzlichen Neuregelung in Altfällen
+- [BGH, Beschluss vom 03.02.2011 - I ZA 17/10](i-za-17-10.md) — Prozesskostenhilfe: Erfolgsaussichten einer Nichtzulassungsbeschwerde – Zulassungsgründe
+- [BGH, Beschluss vom 03.02.2011 - I ZB 2/10](i-zb-2-10.md) — Die Auskunftsverpflichtung nach § 807 ZPO erstreckt sich auch auf künftige Forderungen des Schuldners, sofern der Rechtsgrund und der Drittschuldner der Forderu
+- [BGH, Beschluss vom 03.02.2011 - I ZB 47/10](i-zb-47-10.md) — Kostenfestsetzung: Anrechnung der anwaltlichen Geschäftsgebühr auf die Verfahrensgebühr im Verfügungsverfahren
+- [BGH, Beschluss vom 03.02.2011 - I ZB 50/10](i-zb-50-10.md) — Der Gläubiger kann die Nachbesserung einer eidesstattlichen Versicherung verlangen, wenn er glaubhaft macht, dass der Schuldner versehentlich unzutreffende Anga
+- [BGH, Beschluss vom 03.02.2011 - I ZB 51/10](i-zb-51-10.md) — Eidesstattliche Versicherung: Erstreckung der Auskunftsverpflichtung des selbstständig tätigen Schuldners auf die Geschäftsvorfälle des letzten Jahres
+- [BGH, Beschluss vom 03.02.2011 - I ZB 74/09](i-zb-74-09.md) — Wiedereinsetzung in den vorigen Stand: Zurechnung von Verzögerungen oder sonstigen Fehlern bei der Briefbeförderung oder Briefzustellung; Verlust einer von zwei
+- [BGH, Urteil vom 03.02.2011 - I ZR 134/08](i-zr-134-08.md) — World's End 1. Das Recht des Verlegers, Folgeauflagen eines Werkes zu veranstalten, kann sich auch ohne ausdrückliche Erwähnung aus dem Gesamtinhalt des Verlags
+- [BGH, Beschluss vom 03.02.2011 - I ZR 197/07](i-zr-197-07.md) — Rechtliches Gehör im Revisionsverfahren: Prüfungsumfang des Revisionsgerichts; Gehörsrüge bezüglich der revisionsrechtlichen Auslegung eines Urheberrechtsvertra
+- [BGH, Beschluss vom 20.01.2011 - I ZB 27/10](i-zb-27-10.md) — Räumungsvollstreckung nach Zuschlagsbeschluss für ein Hausanwesen: Wiederholte vorläufige Einstellung bei Selbstmordgefahr des Schuldners
+- [BGH, Beschluss vom 20.01.2011 - I ZB 67/09](i-zb-67-09.md) — 1. Eine klare, geordnete und übersichtliche Form der Darstellung sämtlicher relevanten Geschäftsvorfälle in einem Buchauszug im Sinne von § 87c Abs. 2 HGB kann 
+- [BGH, Urteil vom 20.01.2011 - I ZR 10/09](i-zr-10-09.md) — BCC 1. Die Grenzziehung zwischen Branchenähnlichkeit und Branchenunähnlichkeit bei der Verwechslungsgefahr im Sinne von § 15 Abs. 2 MarkenG ist ebenso wie dieje
+- [BGH, Versäumnisurteil vom 20.01.2011 - I ZR 122/09](i-zr-122-09.md) — Makler als Vertreter im Zwangsversteigerungsverfahren Immobilienmakler sind nicht befugt, einen Gläubiger als Beteiligten im Sinne von § 9 ZVG in einem gerichtl
+- [BGH, Urteil vom 20.01.2011 - I ZR 133/08](i-zr-133-08.md) — Urheberrecht: Angemessene Vergütung für den Übersetzer eines belletristischen Werks
+- [BGH, Urteil vom 20.01.2011 - I ZR 20/09](i-zr-20-09.md) — Urheberrecht: Angemessene Vergütung für den Übersetzer eines belletristischen Werks
+- [BGH, Beschluss vom 20.01.2011 - I ZR 31/10](i-zr-31-10.md) — Wettbewerbsrecht: Anwendbarkeit der Grundsätze über die unberechtigte Schutzrechtsverwarnung auf die unberechtigte wettbewerbsrechtliche Abmahnung
+- [BGH, Urteil vom 20.01.2011 - I ZR 49/09](i-zr-49-09.md) — Urheberrecht: Angemessene Vergütung für den Übersetzer eines belletristischen Werks
+- [BGH, Urteil vom 20.01.2011 - I ZR 78/08](i-zr-78-08.md) — Urheberrecht: Angemessene Vergütung für den Übersetzer eines belletristischen Werks
+- [BGH, Beschluss vom 13.01.2011 - I ZB 39/10](i-zb-39-10.md) — Markenanmeldung: Gehörsverletzung bei Nichtberücksichtigung eines zum Nachweis der Unterscheidungskraft ungeeigneten Schriftstücks
+- [BGH, Urteil vom 13.01.2011 - I ZR 111/08](i-zr-111-08.md) — Hörgeräteversorgung II 1. Vom Begriff der Verweisung in § 34 Abs. 5 MBO-Ä sind alle Empfehlungen für bestimmte Leistungserbringer erfasst, die der Arzt - ohne v
+- [BGH, Urteil vom 13.01.2011 - I ZR 112/08](i-zr-112-08.md) — Ärztliches Berufsrecht: Verweisung eines Patienten an einen Hilfsmittelanbieter ohne hinreichenden sachlichen Grund im Falle der Empfehlung eines bestimmten Hör
+- [BGH, Urteil vom 13.01.2011 - I ZR 125/07](i-zr-125-07.md) — Bananabay II Gibt ein Dritter ein mit einer Marke identisches Zeichen ohne Zustimmung des Markeninhabers einem Suchmaschinenbetreiber gegenüber als Schlüsselwor
+- [BGH, Urteil vom 13.01.2011 - I ZR 188/08](i-zr-188-08.md) — Der Umstand, dass es aufgrund von gleichzeitig beidseitig blockierenden Bremsen zu einem Reifenbrand an einem Lkw-Anhänger kommt, deutet nicht ohne weiteres dar

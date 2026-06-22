@@ -1,0 +1,23 @@
+# Senat für Anwaltssachen – 2014
+
+19 Entscheidung(en).
+
+- [BGH, Beschluss vom 08.12.2014 - AnwZ (Brfg) 45/14](anwz-brfg-45-14.md) — Anwaltsgerichtliches Verfahren wegen Widerrufs der Zulassung zur Rechtsanwaltschaft: Verhinderung des anwaltlich vertretenen Betroffenen als Terminsverlegungsgr
+- [BGH, Beschluss vom 01.12.2014 - AnwZ (Brfg) 29/14](anwz-brfg-29-14.md) — Berufspflichtverletzung eines Rechtsanwalts: Bezeichnung des gegnerischen Anwalts als Betrüger und Drohung mit einer Strafanzeige
+- [BGH, Urteil vom 03.11.2014 - AnwSt (R) 4/14](anwst-r-4-14.md) — Anwaltgerichtliches Verfahren: Berufspflichtverletzung bei Vertretung eines Beschwerdeausschusses und gleichzeitiger Funktion als Ausschussvorsitzender; Erstrec
+- [BGH, Urteil vom 03.11.2014 - AnwSt (R) 5/14](anwst-r-5-14.md) — Berufsrecht des Anwalts: Berufsrechtliche Pflicht zur Herausgabe einer Handakte
+- [BGH, Urteil vom 03.11.2014 - AnwZ (Brfg) 68/13](anwz-brfg-68-13.md) — Anwaltsgerichtliches Verfahren: Materielles Prüfungsrecht des Präsidenten der Rechtsanwaltskammer bei Anträgen zur Tagesordnung der Kammerversammlung
+- [BGH, Urteil vom 03.11.2014 - AnwZ (Brfg) 72/13](anwz-brfg-72-13.md) — Anwaltgerichtliches Verfahren: Pflicht des Rechtsanwalts zur Herausgabe benötigter Mandantenunterlagen; Berufspflichtverletzung bei Verweigerung der Herausgabe 
+- [BGH, Beschluss vom 27.10.2014 - AnwSt (B) 8/14](anwst-b-8-14.md) — Vertretungsverbot für einen Rechtsanwalt: Funktionelle Zuständigkeit für Antrag einen Antrag auf Aufschub bzw. Aussetzung; Anfechtbarkeit einer Entscheidung des
+- [BGH, Urteil vom 27.10.2014 - AnwZ (Brfg) 67/13](anwz-brfg-67-13.md) — Anwaltliches Berufsrecht: Belehrende Hinweise der Rechtsanwaltskammer über die Rechtswidrigkeit einer beabsichtigten Werbemaßnahme
+- [BGH, Urteil vom 27.10.2014 - AnwZ (Brfg) 85/13](anwz-brfg-85-13.md) — Für den Nachweis der praktischen Erfahrungen auf dem Gebiet des Verkehrsrechts können nur solche versicherungsrechtlichen Fälle herangezogen werden, die einen B
+- [BGH, Beschluss vom 20.08.2014 - AnwZ 3/13](anwz-3-13.md) — Verfahren gegen die Ablehnung der Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof: Selbstablehnung der Präsidentin des Bundesgerichtshofs
+- [BGH, Beschluss vom 23.07.2014 - AnwZ (Brfg) 45/13](anwz-brfg-45-13.md) — Verwaltungsrechtliche Anwaltssache: Erfordernis der Bestellung eines Zustellungsbevollmächtigten bei Verlegung des Kanzleisitzes ins Ausland
+- [BGH, Beschluss vom 04.06.2014 - AnwZ (Brfg) 6/14](anwz-brfg-6-14.md) — Verfahren der Rechtsanwaltskammer zur Prüfung des möglichen Vermögensverfalls eines Rechtsanwalts: Befugnis zur Einholung von Auskünften Dritter; Androhung des 
+- [BGH, Beschluss vom 22.05.2014 - AnwZ (Brfg) 75/13](anwz-brfg-75-13.md) — Anwaltgerichtliches Verfahren: Weitergabe von personenbezogenen Daten durch eine Rechtsanwaltskammer
+- [BGH, Beschluss vom 05.05.2014 - AnwZ (Brfg) 76/13](anwz-brfg-76-13.md) — Widerruf der Erlaubnis zum Führen einer Fachanwaltsbezeichnung: Mehrfacher Verstoß gegen die Fortbildungspflicht; Nachholung unterlassener Fortbildungen
+- [BGH, Urteil vom 10.03.2014 - AnwZ (Brfg) 58/12](anwz-brfg-58-12.md) — Fallbearbeitungen aus dem Sozialversicherungs- und Arbeitsförderungsrecht genügen nur dann für den Erwerb der erforderlichen besonderen praktischen Erfahrungen 
+- [BGH, Urteil vom 10.03.2014 - AnwZ (Brfg) 60/12](anwz-brfg-60-12.md) — Fachanwaltserwerb im Bau- und Architektenrecht: Durchführung eines Fachgesprächs bei Verfehlen der Mindestfallzahlen
+- [BGH, Urteil vom 10.03.2014 - AnwZ (Brfg) 67/12](anwz-brfg-67-12.md) — Ausbildung der Rechtsanwaltsfachangestellten als hoheitliche Aufgabe der Rechtsanwaltskammern: Zulässigkeit der Bestellung von Ausbildungsbeauftragten mit Gesch
+- [BGH, Beschluss vom 06.02.2014 - AnwZ (Brfg) 83/13](anwz-brfg-83-13.md) — Widerruf einer Rechtsanwaltszulassung wegen Vermögensverfalls: Widerlegung der gesetzlichen Vermutung durch Hinweis auf Immobilienvermögen
+- [BGH, Beschluss vom 04.01.2014 - AnwZ (Brfg) 62/13](anwz-brfg-62-13.md) — Widerruf einer Rechtsanwaltszulassung wegen Vermögensverfalls: Anforderungen an die Widerlegung einer indizierten Gefährdung der Rechtsuchenden; weitere Tätigke
