@@ -9,7 +9,7 @@ timestamp: 2026-06-22T12:00:00Z
 
 # Was das ist
 
-Dieses Bündel hält die **veröffentlichten Entscheidungen des Bundesgerichtshofs** als einzeln adressierbare Konzepte vor. Es ergänzt das Bündel [deutsches-recht](../deutsches-recht/index.md): dort die nach Norm geordnete Dogmatik mit zusammenfassenden `# Rechtsprechung`-Abschnitten, hier die Entscheidungen im Volltext. Die Trennung folgt der Natur der Sache. Ein kuratiertes Wissensbündel bleibt schlank, ein Volltext-Korpus wird groß; beides in einem Bündel würde die schrittweise Offenlegung zerstören.
+Dieses Bündel hält die **veröffentlichten Entscheidungen des Bundesgerichtshofs** als einzeln adressierbare Konzepte vor, je Entscheidung einen Knoten mit Volltext und Leitsatz. Die zugrunde liegenden Vorschriften stehen amtlich bei gesetze-im-internet.de; die Auslegungsdogmatik ist nicht Gegenstand dieses Bündels. Warum überhaupt ein eigenes Bündel: ein Volltext-Korpus wird groß, und ein großer Korpus in einem kuratierten Wissensbündel würde dessen schrittweise Offenlegung zerstören.
 
 Rechtsgrundlage der Wiedergabe: Entscheidungen und amtlich verfasste Leitsätze sind nach **§ 5 UrhG amtliche Werke und gemeinfrei**, dürfen also im Wortlaut aufgenommen werden (anders als die geschützte Kommentarliteratur).
 

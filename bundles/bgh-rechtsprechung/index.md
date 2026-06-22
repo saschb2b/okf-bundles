@@ -4,7 +4,7 @@ okf_version: "0.1"
 
 # BGH-Rechtsprechung
 
-Ein Korpus der veröffentlichten Entscheidungen des Bundesgerichtshofs als OKF-Bündel: je Entscheidung ein Knoten mit Gericht, Senat, Datum, Aktenzeichen, amtlicher Fundstelle, den betroffenen Normen und (gemeinfrei nach § 5 UrhG) dem amtlichen Leitsatz und Volltext. Schwesterbündel zu [deutsches-recht](../deutsches-recht/index.md): dort steht die nach Norm geordnete Dogmatik, hier die Entscheidungen selbst.
+Ein Korpus der veröffentlichten Entscheidungen des Bundesgerichtshofs als OKF-Bündel: je Entscheidung ein Knoten mit Gericht, Senat, Datum, Aktenzeichen, amtlicher Fundstelle, den betroffenen Normen und (gemeinfrei nach § 5 UrhG) dem amtlichen Leitsatz und Volltext. Die zugrunde liegenden Vorschriften stehen amtlich bei gesetze-im-internet.de; dieses Bündel hält die Entscheidungen selbst, nicht die Auslegungsdogmatik dazu.
 
 Das Bündel ist auf Vollständigkeit angelegt (perspektivisch der gesamte veröffentlichte BGH-Bestand), bleibt aber navigierbar durch drei Einstiege statt einer Gesamtliste. Hier starten: [Überblick](overview.md).
 

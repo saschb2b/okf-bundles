@@ -33,5 +33,3 @@ Das Verfahren bei Zahlungsunfähigkeit und Überschuldung, von den Eröffnungsgr
 
 - [Verbraucherinsolvenz (§§ 304 ff.)](verbraucherinsolvenz-304.md) - Vereinfachtes Verfahren, außergerichtlicher Einigungsversuch.
 - [Restschuldbefreiung (§§ 286 ff.)](restschuldbefreiung-286.md) - Befreiung von Restschulden nach dreijähriger Abtretungsfrist.
-
-Die Volltexte der hier zitierten BGH-Entscheidungen liegen im Schwesterbündel `bgh-rechtsprechung`, das die Rechtsprechung nach Norm erschließt.

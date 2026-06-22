@@ -9,7 +9,7 @@ timestamp: 2026-06-22T12:00:00Z
 
 # Nach Vorschrift
 
-Welche erfassten BGH-Entscheidungen die einzelnen Anfechtungsnormen auslegen. Die zugehörige Dogmatik steht im Schwesterbündel deutsches-recht (Gebiet Insolvenzrecht, Cluster Insolvenzanfechtung).
+Welche erfassten BGH-Entscheidungen die einzelnen Anfechtungsnormen (§§ 129 ff. InsO) auslegen.
 
 | Norm | Gegenstand | Entscheidung(en) |
 |------|------------|------------------|
