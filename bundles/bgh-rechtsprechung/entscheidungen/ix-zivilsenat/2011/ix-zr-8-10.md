@@ -20,8 +20,7 @@ Leistet der Schuldner eine Zahlung, um eine **unmittelbar drohende Zwangsvollstr
 
 # Normen
 
-Legt § 131 InsO aus (inkongruente Deckung). Register: [Insolvenzanfechtung](/nach-norm/inso-anfechtung.md).
-
+Legt § 131 InsO aus (inkongruente Deckung).
 # Fundstelle und Volltext
 
 Volltext und amtliche Leitsätze frei über die [Entscheidungssuche des BGH](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html) unter dem Aktenzeichen IX ZR 8/10.
