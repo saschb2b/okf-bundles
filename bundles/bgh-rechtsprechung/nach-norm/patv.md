@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu PatV"
 description: "BGH-Entscheidungen zu PatV, geordnet nach Vorschrift."
 tags: [register, navigation, patv]
-timestamp: 2026-06-22T12:47:49Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

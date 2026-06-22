@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BB"
 description: "BGH-Entscheidungen zu BB, geordnet nach Vorschrift."
 tags: [register, navigation, bb]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

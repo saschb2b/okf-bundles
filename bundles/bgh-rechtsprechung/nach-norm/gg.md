@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GG"
 description: "BGH-Entscheidungen zu GG, geordnet nach Vorschrift."
 tags: [register, navigation, gg]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift
@@ -240,7 +240,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des GG auslegen.
 | § 296 GG | [BGH, Beschluss vom 03.09.2020 - I ZR 186/19](../entscheidungen/i-zivilsenat/2020/i-zr-186-19.md); [BGH, Beschluss vom 24.09.2019 - VIII ZR 289/18](../entscheidungen/viii-zivilsenat/2019/viii-zr-289-18.md) |
 | § 297 GG | [BGH, Beschluss vom 05.03.2019 - VIII ZR 190/18](../entscheidungen/viii-zivilsenat/2019/viii-zr-190-18.md) |
 | § 300 GG | [BGH, Beschluss vom 18.10.2012 - IX ZB 131/10](../entscheidungen/ix-zivilsenat/2012/ix-zb-131-10.md) |
-| § 304 GG | [BGH, Beschluss vom 31.01.2024 - II ZB 5/22](../entscheidungen/ii-zivilsenat/2024/ii-zb-5-22.md) |
+| § 304 GG | [BGH, Beschluss vom 31.01.2024 - II ZB 5/22](../entscheidungen/ii-zivilsenat/2024/ii-zb-5-22.md); [BGH, Beschluss vom 28.02.2023 - 2 ARs 65/22, 2 ARs 113/22, 2 ARs 163/22, 2 ARs 164/22, 2 ARs 166/22, 2 ARs 167/22, 2 ARs 201/22, 2 ARs 202/22, 2 ARs 203/22, 2 ARs 204/22, 2 ARs 205/22, 2 ARs 206/22, 2 ARs 207/22, 2 ARs 208/22, 2 ARs 217/22, 2 ARs 237/22, 2 ARs 238/22, 2 ARs 239/22, 2 ARs 241/22, 2 ARs 245/22, 2 ARs 255/22, 2 ARs 280/22, 2 ARs 290/22, 2 ARs 291/22, 2 ARs 294/22, 2 ARs 297/22, 2 ARs 298/22, 2 ARs 340/22, 2 ARs 341/22](../entscheidungen/2-strafsenat/2023/2-ars-65-22-2-ars-113-22-2-ars-163-22-2-ars-164-22-2-ars-166-22-2-kore650972023.md) |
 | § 307 GG | [BGH, Beschluss vom 10.10.2024 - I ZB 22/24](../entscheidungen/i-zivilsenat/2024/i-zb-22-24.md); [BGH, Urteil vom 12.07.2018 - III ZR 183/17](../entscheidungen/iii-zivilsenat/2018/iii-zr-183-17.md); [BGH, Beschluss vom 24.03.2016 - I ZR 113/15](../entscheidungen/i-zivilsenat/2016/i-zr-113-15.md); [BGH, Urteil vom 04.06.2014 - VIII ZR 289/13](../entscheidungen/viii-zivilsenat/2014/viii-zr-289-13.md) |
 | § 314 GG | [BGH, Beschluss vom 20.05.2025 - VIII ZR 137/24](../entscheidungen/viii-zivilsenat/2025/viii-zr-137-24.md) |
 | § 315 GG | [BGH, Beschluss vom 22.02.2017 - XII ZB 341/16](../entscheidungen/xii-zivilsenat/2017/xii-zb-341-16.md); [BGH, Beschluss vom 14.08.2013 - XII ZB 270/13](../entscheidungen/xii-zivilsenat/2013/xii-zb-270-13.md) |

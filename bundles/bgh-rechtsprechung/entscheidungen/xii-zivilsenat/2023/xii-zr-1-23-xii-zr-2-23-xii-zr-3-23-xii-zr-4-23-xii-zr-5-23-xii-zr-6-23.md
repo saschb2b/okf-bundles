@@ -11,7 +11,7 @@ ecli: "ECLI:DE:BGH:2023:080323BXIIZR.UE.1.23.0"
 doknr: "KORE650952023"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:24Z
+timestamp: 2026-06-22T12:52:16Z
 ---
 # Normen
 

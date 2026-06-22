@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VerlG"
 description: "BGH-Entscheidungen zu VerlG, geordnet nach Vorschrift."
 tags: [register, navigation, verlg]
-timestamp: 2026-06-22T12:47:49Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

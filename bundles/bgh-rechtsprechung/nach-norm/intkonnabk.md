@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu IntKonnAbk"
 description: "BGH-Entscheidungen zu IntKonnAbk, geordnet nach Vorschrift."
 tags: [register, navigation, intkonnabk]
-timestamp: 2026-06-22T12:47:49Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GKG"
 description: "BGH-Entscheidungen zu GKG, geordnet nach Vorschrift."
 tags: [register, navigation, gkg]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

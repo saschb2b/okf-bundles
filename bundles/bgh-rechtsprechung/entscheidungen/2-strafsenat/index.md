@@ -1,6 +1,6 @@
 # 2-strafsenat
 
-2554 Entscheidung(en).
+2556 Entscheidung(en).
 
 ## 2026
 
@@ -794,6 +794,7 @@
 - [BGH, Beschluss vom 11.10.2023 - 2 StR 3/23](2023/2-str-3-23.md)
 - [BGH, Beschluss vom 11.10.2023 - 2 StR 315/23](2023/2-str-315-23.md)
 - [BGH, Urteil vom 11.10.2023 - 2 StR 96/23](2023/2-str-96-23.md)
+- [BGH, Beschluss vom 10.10.2023 - 2 ARs 166/21, 2 ARs 173/21, 2 ARs 203/21, 2 ARs 277/21, 2 ARs 278/21, 2 ARs 299/21, 2 ARs 300/21, 2 ARs 302/21, 2 ARs 314/21, 2 ARs 40/22, 2 ARs 51/22, 2 ARs 137/22, 2 ARs 138/22, 2 ARs 188/22, 2 ARs 364/22](2023/2-ars-166-21-2-ars-173-21-2-ars-203-21-2-ars-277-21-2-ars-278-21-2-kore631862023.md)
 - [BGH, Beschluss vom 10.10.2023 - 2 ARs 166/21, 2 ARs 173/21, 2 ARs 203/21, 2 ARs 277/21, 2 ARs 278/21, 2 ARs 299/21, 2 ARs 300/21, 2 ARs 302/21, 2 ARs 314/21, 2 ARs 40/22, 2 ARs 51/22, 2 ARs 137/22, 2 ARs 138/22, 2 ARs 188/22, 2 ARs 364/22](2023/2-ars-166-21-2-ars-173-21-2-ars-203-21-2-ars-277-21-2-ars-278-21-2-kore631872023.md)
 - [BGH, Beschluss vom 10.10.2023 - 2 ARs 347/23](2023/2-ars-347-23.md)
 - [BGH, Beschluss vom 10.10.2023 - 2 ARs 361/23](2023/2-ars-361-23.md)
@@ -947,6 +948,7 @@
 - [BGH, Urteil vom 01.03.2023 - 2 StR 434/22](2023/2-str-434-22.md)
 - [BGH, Beschluss vom 01.03.2023 - 2 StR 44/23](2023/2-str-44-23.md)
 - [BGH, Beschluss vom 01.03.2023 - 2 StR 56/22](2023/2-str-56-22.md)
+- [BGH, Beschluss vom 28.02.2023 - 2 ARs 65/22, 2 ARs 113/22, 2 ARs 163/22, 2 ARs 164/22, 2 ARs 166/22, 2 ARs 167/22, 2 ARs 201/22, 2 ARs 202/22, 2 ARs 203/22, 2 ARs 204/22, 2 ARs 205/22, 2 ARs 206/22, 2 ARs 207/22, 2 ARs 208/22, 2 ARs 217/22, 2 ARs 237/22, 2 ARs 238/22, 2 ARs 239/22, 2 ARs 241/22, 2 ARs 245/22, 2 ARs 255/22, 2 ARs 280/22, 2 ARs 290/22, 2 ARs 291/22, 2 ARs 294/22, 2 ARs 297/22, 2 ARs 298/22, 2 ARs 340/22, 2 ARs 341/22](2023/2-ars-65-22-2-ars-113-22-2-ars-163-22-2-ars-164-22-2-ars-166-22-2-kore650972023.md)
 - [BGH, Beschluss vom 28.02.2023 - 2 StR 371/22](2023/2-str-371-22.md)
 - [BGH, Beschluss vom 28.02.2023 - 2 StR 377/22](2023/2-str-377-22.md)
 - [BGH, Beschluss vom 28.02.2023 - 2 StR 492/22](2023/2-str-492-22.md)

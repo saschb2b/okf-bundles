@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GOZ"
 description: "BGH-Entscheidungen zu GOZ, geordnet nach Vorschrift."
 tags: [register, navigation, goz]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu WHG"
 description: "BGH-Entscheidungen zu WHG, geordnet nach Vorschrift."
 tags: [register, navigation, whg]
-timestamp: 2026-06-22T12:47:49Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ABRV"
 description: "BGH-Entscheidungen zu ABRV, geordnet nach Vorschrift."
 tags: [register, navigation, abrv]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

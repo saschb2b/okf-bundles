@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GBR"
 description: "BGH-Entscheidungen zu GBR, geordnet nach Vorschrift."
 tags: [register, navigation, gbr]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

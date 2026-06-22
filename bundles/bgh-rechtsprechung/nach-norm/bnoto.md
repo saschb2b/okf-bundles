@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BNotO"
 description: "BGH-Entscheidungen zu BNotO, geordnet nach Vorschrift."
 tags: [register, navigation, bnoto]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

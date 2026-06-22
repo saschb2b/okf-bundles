@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu MitbestG"
 description: "BGH-Entscheidungen zu MitbestG, geordnet nach Vorschrift."
 tags: [register, navigation, mitbestg]
-timestamp: 2026-06-22T12:47:49Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

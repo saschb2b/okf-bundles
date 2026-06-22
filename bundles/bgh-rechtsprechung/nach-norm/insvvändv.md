@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu InsVVÄndV"
 description: "BGH-Entscheidungen zu InsVVÄndV, geordnet nach Vorschrift."
 tags: [register, navigation, insvvändv]
-timestamp: 2026-06-22T12:47:49Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

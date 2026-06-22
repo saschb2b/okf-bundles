@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ErbStG"
 description: "BGH-Entscheidungen zu ErbStG, geordnet nach Vorschrift."
 tags: [register, navigation, erbstg]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift

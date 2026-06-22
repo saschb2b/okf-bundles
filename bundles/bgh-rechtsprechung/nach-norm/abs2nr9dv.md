@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu Abs2Nr9DV"
 description: "BGH-Entscheidungen zu Abs2Nr9DV, geordnet nach Vorschrift."
 tags: [register, navigation, abs2nr9dv]
-timestamp: 2026-06-22T12:47:48Z
+timestamp: 2026-06-22T12:55:13Z
 ---
 
 # Nach Vorschrift
