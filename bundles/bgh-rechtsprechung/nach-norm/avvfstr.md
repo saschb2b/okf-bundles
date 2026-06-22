@@ -1,0 +1,15 @@
+---
+type: Rechtsprechungsregister
+title: "Rechtsprechung zu AVVFStr"
+description: "BGH-Entscheidungen zu AVVFStr, geordnet nach Vorschrift."
+tags: [register, navigation, avvfstr]
+timestamp: 2026-06-22T12:47:48Z
+---
+
+# Nach Vorschrift
+
+Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des AVVFStr auslegen.
+
+| Norm | Entscheidung(en) |
+|------|------------------|
+| § 249 AVVFStr | [BGH, Urteil vom 18.03.2014 - VI ZR 10/13](../entscheidungen/vi-zivilsenat/2014/vi-zr-10-13.md) |

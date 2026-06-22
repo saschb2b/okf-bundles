@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ERVGerFöG"
 description: "BGH-Entscheidungen zu ERVGerFöG, geordnet nach Vorschrift."
 tags: [register, navigation, ervgerfög]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:48Z
 ---
 
 # Nach Vorschrift

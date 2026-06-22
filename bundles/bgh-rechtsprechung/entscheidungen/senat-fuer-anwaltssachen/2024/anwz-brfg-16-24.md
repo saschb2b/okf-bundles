@@ -1,0 +1,27 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 14.06.2024 - AnwZ (Brfg) 16/24"
+description: "BGH, Beschluss AnwZ (Brfg) 16/24"
+resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+gericht: "BGH"
+senat: "Senat für Anwaltssachen"
+datum: 2024-06-14
+aktenzeichen: "AnwZ (Brfg) 16/24"
+ecli: "ECLI:DE:BGH:2024:140624BANWZ.BRFG.16.24.0"
+doknr: "KORE706762024"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei]
+timestamp: 2026-06-22T12:40:15Z
+---
+# Normen
+
+(keine ausgewiesen)
+
+# Volltext
+
+Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 16/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
+
+# Citations
+
+[1] [BGH, Beschluss vom 14.06.2024 - AnwZ (Brfg) 16/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
+

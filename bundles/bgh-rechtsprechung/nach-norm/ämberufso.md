@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ÄMBerufsO"
 description: "BGH-Entscheidungen zu ÄMBerufsO, geordnet nach Vorschrift."
 tags: [register, navigation, ämberufso]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:49Z
 ---
 
 # Nach Vorschrift

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VAStrRefG"
 description: "BGH-Entscheidungen zu VAStrRefG, geordnet nach Vorschrift."
 tags: [register, navigation, vastrrefg]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:49Z
 ---
 
 # Nach Vorschrift

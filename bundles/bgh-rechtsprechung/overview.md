@@ -38,4 +38,4 @@ Jede Entscheidung ist ein Konzept mit `type: Gerichtsentscheidung`:
 
 # Stand und Haftung
 
-Eingelesen sind über 800 Entscheidungen des IX. Zivilsenats (ab 2010) mit Leitsatz, Tenor und Gründen im Volltext; die übrigen Jahrgänge und Senate folgen mit demselben, wiederaufsetzbaren Lauf. Entscheidungen sind eine bewegliche Materie. Das bei jeder Entscheidung genannte Datum und Aktenzeichen sind der Weg zur amtlichen Gegenprüfung; jüngere oder abweichende Rechtsprechung ist dort zu suchen. Dies ist keine Rechtsberatung.
+Eingelesen ist der vollständige veröffentlichte BGH-Bestand 2010 bis 2026 (rund 32.600 Entscheidungen aller Senate), je Entscheidung Metadaten und, soweit vorhanden, der amtliche Leitsatz; Tenor, Tatbestand und Gründe stehen im Volltext bei der amtlichen Quelle (ein Klick über das Aktenzeichen). Vor 2010 enthält die Quelle nichts. Entscheidungen sind eine bewegliche Materie. Das bei jeder Entscheidung genannte Datum und Aktenzeichen sind der Weg zur amtlichen Gegenprüfung; jüngere oder abweichende Rechtsprechung ist dort zu suchen. Dies ist keine Rechtsberatung.

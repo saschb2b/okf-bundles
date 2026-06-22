@@ -1,0 +1,27 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Urteil vom 04.11.2025 - RiZ (R) 7/25"
+description: "BGH, Urteil RiZ (R) 7/25"
+resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+gericht: "BGH"
+senat: "RIZ"
+datum: 2025-11-04
+aktenzeichen: "RiZ (R) 7/25"
+ecli: "ECLI:DE:BGH:2025:041125URIZ.R.7.25.0"
+doknr: "KORE729742025"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei]
+timestamp: 2026-06-22T12:41:53Z
+---
+# Normen
+
+(keine ausgewiesen)
+
+# Volltext
+
+Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen RiZ (R) 7/25 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
+
+# Citations
+
+[1] [BGH, Urteil vom 04.11.2025 - RiZ (R) 7/25 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
+

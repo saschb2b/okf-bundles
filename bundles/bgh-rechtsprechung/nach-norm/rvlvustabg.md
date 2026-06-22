@@ -1,0 +1,15 @@
+---
+type: Rechtsprechungsregister
+title: "Rechtsprechung zu RVLVuStabG"
+description: "BGH-Entscheidungen zu RVLVuStabG, geordnet nach Vorschrift."
+tags: [register, navigation, rvlvustabg]
+timestamp: 2026-06-22T12:47:49Z
+---
+
+# Nach Vorschrift
+
+Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des RVLVuStabG auslegen.
+
+| Norm | Entscheidung(en) |
+|------|------------------|
+| § 5 RVLVuStabG | [BGH, Beschluss vom 23.08.2023 - XII ZB 202/22](../entscheidungen/xii-zivilsenat/2023/xii-zb-202-22.md) |

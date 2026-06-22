@@ -1,0 +1,27 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Urteil vom 17.07.2025 - III ZR 53/24"
+description: "BGH, Urteil III ZR 53/24"
+resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+gericht: "BGH"
+senat: "III. Zivilsenat"
+datum: 2025-07-17
+aktenzeichen: "III ZR 53/24"
+ecli: "ECLI:DE:BGH:2025:170725UIIIZR53.24.0"
+doknr: "KORE718322025"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei]
+timestamp: 2026-06-22T12:41:15Z
+---
+# Normen
+
+(keine ausgewiesen)
+
+# Volltext
+
+Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 53/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
+
+# Citations
+
+[1] [BGH, Urteil vom 17.07.2025 - III ZR 53/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
+

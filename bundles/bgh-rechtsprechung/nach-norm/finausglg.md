@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu FinAusglG"
 description: "BGH-Entscheidungen zu FinAusglG, geordnet nach Vorschrift."
 tags: [register, navigation, finausglg]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:48Z
 ---
 
 # Nach Vorschrift

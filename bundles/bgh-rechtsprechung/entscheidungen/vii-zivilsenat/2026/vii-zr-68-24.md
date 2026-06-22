@@ -1,0 +1,35 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Urteil vom 26.03.2026 - VII ZR 68/24"
+description: "1. Die Verjährung eines Kostenvorschussanspruchs des Bestellers gemäß § 633 Abs. 3 BGB a.F. in Verbindung mit § 242 BGB beginnt erst mit Abnahme der Werkleistung zu laufen (Bestätigung von BGH, Urteil"
+resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+gericht: "BGH"
+senat: "VII. Zivilsenat"
+datum: 2026-03-26
+aktenzeichen: "VII ZR 68/24"
+ecli: "ECLI:DE:BGH:2026:260326UVIZR68.24.0"
+doknr: "KORE706402026"
+normen: ["§ 133 BGB, § 157 BGB, § 242 BGB, § 633 Abs 2 S 1 BGB vom 09.12.1976, § 633 Abs 3 BGB vom 09.12.1976, § 634a Abs 1 Nr 2 BGB, § 634a Abs 2 BGB, § 634a Abs 3 BGB, § 638 Abs 1  BGB vom 26.11.2001, § 640 Abs 1 BGB, § 5 AGBG, § 9 Abs 1 AGBG, § 9 Abs 2 Nr 1 AGBG"]
+tags: [bgh, rechtsprechung, gemeinfrei]
+timestamp: 2026-06-22T12:40:12Z
+---
+# Leitsatz
+
+1. Die Verjährung eines Kostenvorschussanspruchs des Bestellers gemäß § 633 Abs. 3 BGB a.F. in Verbindung mit § 242 BGB beginnt erst mit Abnahme der Werkleistung zu laufen (Bestätigung von BGH, Urteil vom 8. Juli 2010 - VII ZR 171/08, BauR 2010, 1778 = NZBau 2010, 768).
+
+                  2. Eine von einem Bauträger gestellte Vertragsklausel, wonach die Abnahme des Gemeinschaftseigentums durch drei aus der Mitte der Erwerber zu wählende Vertreter erfolgen soll, ohne dass dem Erwerber das Recht vorbehalten wird, das hergestellte Werk auf seine Abnahmefähigkeit zu überprüfen und die Abnahme selbst zu erklären, ist gemäß § 9 Abs. 1 AGBG wegen unangemessener Benachteiligung der Erwerber unwirksam.
+
+                  Für die Durchsetzbarkeit des Kostenvorschussanspruchs gemäß § 633 Abs. 3 BGB a.F. in Verbindung mit § 242 BGB wegen Mängeln des Gemeinschaftseigentums gilt in diesem Fall eine zeitliche Obergrenze von 30 Jahren ab dem Zeitpunkt der infolge der Unwirksamkeit der Abnahmeklausel fehlgeschlagenen Abnahme.
+
+# Normen
+
+- § 133 BGB, § 157 BGB, § 242 BGB, § 633 Abs 2 S 1 BGB vom 09.12.1976, § 633 Abs 3 BGB vom 09.12.1976, § 634a Abs 1 Nr 2 BGB, § 634a Abs 2 BGB, § 634a Abs 3 BGB, § 638 Abs 1  BGB vom 26.11.2001, § 640 Abs 1 BGB, § 5 AGBG, § 9 Abs 1 AGBG, § 9 Abs 2 Nr 1 AGBG
+
+# Volltext
+
+Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 68/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
+
+# Citations
+
+[1] [BGH, Urteil vom 26.03.2026 - VII ZR 68/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
+

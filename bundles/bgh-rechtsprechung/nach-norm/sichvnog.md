@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SichVNOG"
 description: "BGH-Entscheidungen zu SichVNOG, geordnet nach Vorschrift."
 tags: [register, navigation, sichvnog]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:49Z
 ---
 
 # Nach Vorschrift

@@ -1,0 +1,27 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 03.05.2022 - VIII ZR 157/21"
+description: "BGH, Beschluss VIII ZR 157/21"
+resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+gericht: "BGH"
+senat: "VIII. Zivilsenat"
+datum: 2022-05-03
+aktenzeichen: "VIII ZR 157/21"
+ecli: "ECLI:DE:BGH:2022:030522BVIIIZR157.21.0"
+doknr: "KORE623622023"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei]
+timestamp: 2026-06-22T12:36:16Z
+---
+# Normen
+
+(keine ausgewiesen)
+
+# Volltext
+
+Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 157/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
+
+# Citations
+
+[1] [BGH, Beschluss vom 03.05.2022 - VIII ZR 157/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
+

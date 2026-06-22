@@ -1,0 +1,27 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 14.01.2025 - EnVZ 8/23"
+description: "BGH, Beschluss EnVZ 8/23"
+resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+gericht: "BGH"
+senat: "ENVZ"
+datum: 2025-01-14
+aktenzeichen: "EnVZ 8/23"
+ecli: "ECLI:DE:BGH:2025:140125BENVZ8.23.0"
+doknr: "KORE703822025"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei]
+timestamp: 2026-06-22T12:39:46Z
+---
+# Normen
+
+(keine ausgewiesen)
+
+# Volltext
+
+Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVZ 8/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
+
+# Citations
+
+[1] [BGH, Beschluss vom 14.01.2025 - EnVZ 8/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
+

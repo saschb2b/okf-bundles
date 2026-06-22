@@ -1,6 +1,10 @@
 # gsz
 
-1 Entscheidung(en).
+2 Entscheidung(en).
+
+## 2021
+
+- [BGH, Beschluss vom 09.08.2021 - GSZ 1/20](2021/gsz-1-20.md)
 
 ## 2015
 

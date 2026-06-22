@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VgRModG"
 description: "BGH-Entscheidungen zu VgRModG, geordnet nach Vorschrift."
 tags: [register, navigation, vgrmodg]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:49Z
 ---
 
 # Nach Vorschrift

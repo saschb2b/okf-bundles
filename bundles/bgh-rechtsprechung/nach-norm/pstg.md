@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu PStG"
 description: "BGH-Entscheidungen zu PStG, geordnet nach Vorschrift."
 tags: [register, navigation, pstg]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:49Z
 ---
 
 # Nach Vorschrift
@@ -12,7 +12,9 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des PStG auslegen
 
 | Norm | Entscheidung(en) |
 |------|------------------|
+| Art. 17b PStG | [BGH, Beschluss vom 18.04.2018 - XII ZB 530/16](../entscheidungen/xii-zivilsenat/2018/xii-zb-530-16.md) |
 | § 1 PStG | [BGH, Beschluss vom 05.05.2021 - XII ZB 189/20](../entscheidungen/xii-zivilsenat/2021/xii-zb-189-20.md) |
+| Art. 1 PStG | [BGH, EuGH-Vorlage vom 28.10.2020 - XII ZB 187/20](../entscheidungen/xii-zivilsenat/2020/xii-zb-187-20.md); [BGH, Beschluss vom 10.10.2018 - XII ZB 231/18](../entscheidungen/xii-zivilsenat/2018/xii-zb-231-18.md) |
 | § 7 PStG | [BGH, Beschluss vom 12.01.2022 - XII ZB 142/20](../entscheidungen/xii-zivilsenat/2022/xii-zb-142-20.md) |
 | § 31 PStG | [BGH, Beschluss vom 25.04.2018 - XII ZB 155/17](../entscheidungen/xii-zivilsenat/2018/xii-zb-155-17.md) |
 | § 59 PStG | [BGH, Beschluss vom 25.04.2018 - XII ZB 414/16](../entscheidungen/xii-zivilsenat/2018/xii-zb-414-16.md) |

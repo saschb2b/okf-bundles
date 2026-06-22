@@ -1,6 +1,10 @@
 # patanwst
 
-1 Entscheidung(en).
+2 Entscheidung(en).
+
+## 2018
+
+- [BGH, Beschluss vom 16.05.2018 - PatAnwSt (R) 1/18](2018/patanwst-r-1-18.md)
 
 ## 2014
 

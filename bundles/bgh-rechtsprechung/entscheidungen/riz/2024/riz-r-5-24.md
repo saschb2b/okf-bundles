@@ -1,0 +1,27 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Urteil vom 10.12.2024 - RiZ (R) 5/24"
+description: "BGH, Urteil RiZ (R) 5/24"
+resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+gericht: "BGH"
+senat: "RIZ"
+datum: 2024-12-10
+aktenzeichen: "RiZ (R) 5/24"
+ecli: "ECLI:DE:BGH:2024:101224URIZ.R.5.24.0"
+doknr: "KORE701702025"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei]
+timestamp: 2026-06-22T12:39:25Z
+---
+# Normen
+
+(keine ausgewiesen)
+
+# Volltext
+
+Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen RiZ (R) 5/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
+
+# Citations
+
+[1] [BGH, Urteil vom 10.12.2024 - RiZ (R) 5/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
+

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu EigZulG"
 description: "BGH-Entscheidungen zu EigZulG, geordnet nach Vorschrift."
 tags: [register, navigation, eigzulg]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:48Z
 ---
 
 # Nach Vorschrift

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SchuldAbk"
 description: "BGH-Entscheidungen zu SchuldAbk, geordnet nach Vorschrift."
 tags: [register, navigation, schuldabk]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:49Z
 ---
 
 # Nach Vorschrift

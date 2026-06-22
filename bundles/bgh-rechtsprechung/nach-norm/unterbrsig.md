@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UnterbrSiG"
 description: "BGH-Entscheidungen zu UnterbrSiG, geordnet nach Vorschrift."
 tags: [register, navigation, unterbrsig]
-timestamp: 2026-06-22T12:15:38Z
+timestamp: 2026-06-22T12:47:49Z
 ---
 
 # Nach Vorschrift

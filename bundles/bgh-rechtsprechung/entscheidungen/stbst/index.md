@@ -1,6 +1,14 @@
 # stbst
 
-4 Entscheidung(en).
+6 Entscheidung(en).
+
+## 2025
+
+- [BGH, Beschluss vom 07.05.2025 - StbSt (B) 1/24](2025/stbst-b-1-24.md)
+
+## 2017
+
+- [BGH, Beschluss vom 13.12.2017 - StBSt (B) 1/17](2017/stbst-b-1-17.md)
 
 ## 2015
 
