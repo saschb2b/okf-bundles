@@ -1,0 +1,19 @@
+---
+okf_version: "0.1"
+---
+
+# BGH-Rechtsprechung
+
+Ein Korpus der veröffentlichten Entscheidungen des Bundesgerichtshofs als OKF-Bündel: je Entscheidung ein Knoten mit Gericht, Senat, Datum, Aktenzeichen, amtlicher Fundstelle, den betroffenen Normen und (gemeinfrei nach § 5 UrhG) dem amtlichen Leitsatz und Volltext. Schwesterbündel zu [deutsches-recht](../deutsches-recht/index.md): dort steht die nach Norm geordnete Dogmatik, hier die Entscheidungen selbst.
+
+Das Bündel ist auf Vollständigkeit angelegt (perspektivisch der gesamte veröffentlichte BGH-Bestand), bleibt aber navigierbar durch drei Einstiege statt einer Gesamtliste. Hier starten: [Überblick](overview.md).
+
+# Einstiege
+
+- **Nach Norm:** [Norm-Register](nach-norm/index.md). Der juristische Einstieg: welche Entscheidungen eine Vorschrift auslegen (etwa § 133 InsO). So bleibt der Bestand auch bei Zehntausenden Entscheidungen beherrschbar, weil man nie alles, sondern immer nur die Entscheidungen zu einer Norm sieht.
+- **Nach Senat und Jahr:** [Entscheidungen](entscheidungen/index.md). Der strukturelle Einstieg und der feste Ort jeder Entscheidungsdatei (`entscheidungen/<senat>/<jahr>/<aktenzeichen>.md`).
+- **Nach Aktenzeichen:** direkter Zugriff über den Pfad (das Aktenzeichen ist der Dateiname).
+
+# Stand
+
+Erste Befüllung (Seed): die Leitentscheidungen des IX. Zivilsenats zur Insolvenzanfechtung, gegengeprüft an freien Quellen. Der vollständige Bestand wird über eine Stapel-Ingestion aus der amtlichen Quelle nachgezogen; der [Überblick](overview.md) beschreibt Quelle und Verfahren.

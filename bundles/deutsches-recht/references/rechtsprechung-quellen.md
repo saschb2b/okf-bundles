@@ -34,7 +34,11 @@ Hier ist die urheberrechtliche Lage entscheidend, und sie verläuft genau zwisch
 - **Gerichtsentscheidungen und ihre amtlich verfassten Leitsätze sind nach § 5 UrhG amtliche Werke und gemeinfrei.** Sie genießen keinen Urheberrechtsschutz und dürfen im Wortlaut wiedergegeben werden. Eine Leitentscheidung kann daher einen eigenen Knoten (`type: Gerichtsentscheidung`) erhalten, der den amtlichen Leitsatz und die Kernaussage festhält und auf den amtlichen Volltext verweist.
 - **Die Kommentarliteratur** (Münchener Kommentar, Staudinger, Grüneberg und die Angebote der Verlage über Beck-Online, Wolters Kluwer, juris sowie KI-gestützte Dienste wie Libra oder Noxtus) ist dagegen **urheberrechtlich geschützt und kostenpflichtig**. Dieses Bündel **spiegelt sie nicht**, sondern verweist auf sie höchstens als Fundstelle, ohne ihren Text zu übernehmen.
 
-So entsteht der Mehrwert (die nach Norm geordnete, an Entscheidungen belegte Dogmatik) auf rechtlich sauberer, frei verteilbarer Grundlage. Der bloße Volltext-Korpus aller Urteile ist davon zu unterscheiden: er ist eine Sache der Suche und des Abrufs (etwa für eine Vektordatenbank), nicht des kuratierten Wissensbündels, das nach dem Prinzip der schrittweisen Offenlegung schlank bleibt.
+So entsteht der Mehrwert (die nach Norm geordnete, an Entscheidungen belegte Dogmatik) auf rechtlich sauberer, frei verteilbarer Grundlage.
+
+# Verhältnis zum Korpus-Bündel
+
+Der **Volltext-Korpus** der BGH-Entscheidungen liegt im **Schwesterbündel `bgh-rechtsprechung`**, nicht hier. Die Trennung ist bewusst: dieses Bündel hält die kuratierte, nach Norm geordnete Dogmatik schlank (schrittweise Offenlegung), das Korpus-Bündel hält je Entscheidung einen eigenen Knoten mit Leitsatz und Volltext und erschließt sie über ein Norm-Register (welche Urteile zu welcher Vorschrift). Die Konzepte hier zitieren eine Entscheidung über Gericht, Datum und Aktenzeichen; ein Agent, der beide Bündel geladen hat, findet darüber den Volltext im Korpus-Bündel.
 
 # Hinweis
 
