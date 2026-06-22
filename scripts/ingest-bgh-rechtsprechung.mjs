@@ -140,6 +140,14 @@ function senatOf(az) {
 }
 const azSlug = (az) =>
   az.toLowerCase().replace(/[\s/]+/g, "-").replace(/[^a-z0-9-]/g, "").replace(/-+/g, "-");
+// Filename base. Combined proceedings carry many joined Aktenzeichen, which would
+// blow past the Windows path limit, so cap the slug and disambiguate with the doknr.
+function fileBase(az, doknr) {
+  const s = azSlug(az);
+  if (s.length <= 80) return s;
+  const suf = doknr ? "-" + doknr.toLowerCase().replace(/[^a-z0-9]/g, "") : "";
+  return s.slice(0, 80 - suf.length).replace(/-+$/, "") + suf;
+}
 // Prefer the actual Spruchkoerper for grouping (e.g. "IX. Zivilsenat" -> ix-zivilsenat),
 // so e.g. an "ARs" Rechtshilfesache files under its senate, not a register-derived folder.
 const slugSenat = (s) =>
@@ -222,7 +230,7 @@ function toConcept(xml) {
     "",
   );
 
-  const path = join(OUT, "entscheidungen", sen.slug, year, `${azSlug(az)}.md`);
+  const path = join(OUT, "entscheidungen", sen.slug, year, `${fileBase(az, doknr)}.md`);
   return { path, content: fm + body.join("\n") + "\n", az, normen };
 }
 
