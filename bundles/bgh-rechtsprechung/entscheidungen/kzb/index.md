@@ -1,6 +1,6 @@
 # kzb
 
-6 Entscheidung(en).
+9 Entscheidung(en).
 
 ## 2024
 
@@ -19,3 +19,12 @@
 ## 2016
 
 - [BGH, Beschluss vom 18.10.2016 - KZB 46/15](2016/kzb-46-15.md)
+
+## 2004
+
+- [BGH, Beschluss vom 23.11.2004 - KZB 11/03](2004/kzb-11-03.md)
+
+## 2000
+
+- [BGH, Beschluss vom 14.03.2000 - KZB 34/99](2000/kzb-34-99.md)
+- [BGH, Beschluss vom 14.03.2000 - KZB 35/99](2000/kzb-35-99.md)

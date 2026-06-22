@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UKlaG"
 description: "BGH-Entscheidungen zu UKlaG, geordnet nach Vorschrift."
 tags: [register, navigation, uklag]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift
@@ -12,6 +12,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des UKlaG auslege
 
 | Norm | Entscheidung(en) |
 |------|------------------|
+| § 4a UKlaG | [BGH, Urteil vom 09.07.2009 - Xa ZR 19/08](../entscheidungen/x-a/2009/xa-zr-19-08.md) |
 | § 49b UKlaG | [BGH, Versäumnisurteil vom 02.10.2019 - I ZR 19/19](../entscheidungen/i-zivilsenat/2019/i-zr-19-19.md) |
 | § 312a UKlaG | [BGH, Urteil vom 24.08.2021 - X ZR 23/20](../entscheidungen/x-zivilsenat/2021/x-zr-23-20.md) |
 | § 312i UKlaG | [BGH, Urteil vom 22.05.2025 - I ZR 161/24](../entscheidungen/i-zivilsenat/2025/i-zr-161-24.md) |

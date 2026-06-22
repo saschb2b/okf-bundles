@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu FamFG"
 description: "BGH-Entscheidungen zu FamFG, geordnet nach Vorschrift."
 tags: [register, navigation, famfg]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

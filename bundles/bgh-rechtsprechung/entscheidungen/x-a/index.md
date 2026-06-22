@@ -1,6 +1,6 @@
 # x-a
 
-37 Entscheidung(en).
+53 Entscheidung(en).
 
 ## 2010
 
@@ -41,3 +41,22 @@
 - [BGH, Urteil vom 04.02.2010 - Xa ZR 4/07](2010/xa-zr-4-07.md)
 - [BGH, Urteil vom 28.01.2010 - Xa ZR 37/09](2010/xa-zr-37-09.md)
 - [BGH, Urteil vom 21.01.2010 - Xa ZR 175/07](2010/xa-zr-175-07.md)
+
+## 2009
+
+- [BGH, Beschluss vom 17.12.2009 - Xa ZB 38/08](2009/xa-zb-38-08.md)
+- [BGH, Beschluss vom 17.12.2009 - Xa ZB 39/08](2009/xa-zb-39-08.md)
+- [BGH, Beschluss vom 17.12.2009 - Xa ZB 40/08](2009/xa-zb-40-08.md)
+- [BGH, Urteil vom 10.12.2009 - Xa ZR 61/09](2009/xa-zr-61-09.md)
+- [BGH, Beschluss vom 30.07.2009 - Xa ARZ 167/09](2009/xa-arz-167-09.md)
+- [BGH, Urteil vom 30.07.2009 - Xa ZR 22/06](2009/xa-zr-22-06.md)
+- [BGH, Urteil vom 09.07.2009 - Xa ZR 19/08](2009/xa-zr-19-08.md)
+- [BGH, Urteil vom 09.06.2009 - Xa ZR 74/08](2009/xa-zr-74-08.md)
+- [BGH, Beschluss vom 27.05.2009 - Xa ZR 162/07](2009/xa-zr-162-07.md)
+- [BGH, Urteil vom 30.04.2009 - Xa ZR 156/04](2009/xa-zr-156-04.md)
+- [BGH, Urteil vom 30.04.2009 - Xa ZR 56/05](2009/xa-zr-56-05.md)
+- [BGH, Urteil vom 30.04.2009 - Xa ZR 64/08](2009/xa-zr-64-08.md)
+- [BGH, Urteil vom 30.04.2009 - Xa ZR 92/05](2009/xa-zr-92-05.md)
+- [BGH, Urteil vom 02.04.2009 - Xa ZR 52/05](2009/xa-zr-52-05.md)
+- [BGH, Urteil vom 12.03.2009 - Xa ZR 158/04](2009/xa-zr-158-04.md)
+- [BGH, Urteil vom 12.02.2009 - Xa ZR 116/07](2009/xa-zr-116-07.md)

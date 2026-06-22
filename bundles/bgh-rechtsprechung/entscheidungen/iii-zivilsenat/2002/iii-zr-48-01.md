@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 16.05.2002 - III ZR 48/01"
+description: "BGH, Beschluss vom 16.05.2002 - III ZR 48/01"
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2001/III_ZR__48-01.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "III. Zivilsenat"
+datum: 2002-05-16
+aktenzeichen: "III ZR 48/01"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T13:13:32Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: III ZR 48/01 vom 16.05.2002.
+
+# Citations
+
+[1] [BGH, Beschluss vom 16.05.2002 - III ZR 48/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2001/III_ZR__48-01.pdf?__blob=publicationFile&v=1)
+

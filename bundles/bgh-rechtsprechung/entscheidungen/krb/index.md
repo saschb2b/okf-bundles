@@ -1,6 +1,6 @@
 # krb
 
-27 Entscheidung(en).
+31 Entscheidung(en).
 
 ## 2026
 
@@ -70,3 +70,19 @@
 
 - [BGH, Beschluss vom 10.08.2011 - KRB 2/10](2011/krb-2-10.md)
 - [BGH, Beschluss vom 10.08.2011 - KRB 55/10](2011/krb-55-10.md)
+
+## 2007
+
+- [BGH, Beschluss vom 04.10.2007 - KRB 59/07](2007/krb-59-07.md)
+
+## 2005
+
+- [BGH, Beschluss vom 22.02.2005 - KRB 28/04](2005/krb-28-04.md)
+
+## 2004
+
+- [BGH, Beschluss vom 23.11.2004 - KRB 23/04](2004/krb-23-04.md)
+
+## 2003
+
+- [BGH, Beschluss vom 04.11.2003 - KRB 20/03](2003/krb-20-03.md)

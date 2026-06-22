@@ -1,6 +1,6 @@
 # iv-ar
 
-17 Entscheidung(en).
+18 Entscheidung(en).
 
 ## 2026
 
@@ -54,3 +54,7 @@
 
 - [BGH, Beschluss vom 11.07.2012 - IV AR (VZ) 1/12](2012/iv-ar-vz-1-12.md)
 - [BGH, Beschluss vom 28.06.2012 - IV AR (VZ) 2/12](2012/iv-ar-vz-2-12.md)
+
+## 2007
+
+- [BGH, Beschluss vom 28.03.2007 - IV AR (VZ) 1/07](2007/iv-ar-vz-1-07.md)

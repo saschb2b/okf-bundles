@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BDG"
 description: "BGH-Entscheidungen zu BDG, geordnet nach Vorschrift."
 tags: [register, navigation, bdg]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

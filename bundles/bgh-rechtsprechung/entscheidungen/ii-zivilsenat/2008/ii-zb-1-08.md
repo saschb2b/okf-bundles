@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 23.04.2008 - II ZB 1/08"
+description: "fehlerhafter Ad- "
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2008/II_ZB___1-08.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "II. Zivilsenat"
+datum: 2008-04-23
+aktenzeichen: "II ZB 1/08"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T13:26:46Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: II ZB 1/08 vom 23.04.2008.
+
+# Citations
+
+[1] [BGH, Beschluss vom 23.04.2008 - II ZB 1/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2008/II_ZB___1-08.pdf?__blob=publicationFile&v=1)
+

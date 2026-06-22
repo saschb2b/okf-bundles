@@ -1,6 +1,6 @@
 # xii-arz
 
-3 Entscheidung(en).
+4 Entscheidung(en).
 
 ## 2021
 
@@ -10,3 +10,7 @@
 ## 2016
 
 - [BGH, Beschluss vom 26.10.2016 - XII ARZ 40/16](2016/xii-arz-40-16.md)
+
+## 2000
+
+- [BGH, Beschluss vom 21.06.2000 - XII ARZ 6/00](2000/xii-arz-6-00.md)

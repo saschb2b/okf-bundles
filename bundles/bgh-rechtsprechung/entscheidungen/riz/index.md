@@ -1,6 +1,6 @@
 # riz
 
-61 Entscheidung(en).
+70 Entscheidung(en).
 
 ## 2026
 
@@ -110,3 +110,30 @@
 
 - [BGH, Urteil vom 16.12.2010 - RiZ (R) 2/10](2010/riz-r-2-10.md)
 - [BGH, Urteil vom 21.10.2010 - RiZ (R) 5/09](2010/riz-r-5-09.md)
+
+## 2009
+
+- [BGH, Urteil vom 03.12.2009 - RiZ (R) 7/08](2009/riz-r-7-08.md)
+- [BGH, Urteil vom 03.12.2009 - RiZ (R) 8/08](2009/riz-r-8-08.md)
+
+## 2006
+
+- [BGH, Urteil vom 20.12.2006 - RiZ (R) 2/06](2006/riz-r-2-06.md)
+- [BGH, Urteil vom 08.11.2006 - RiZ (R) 2/05](2006/riz-r-2-05.md)
+- [BGH, Urteil vom 22.02.2006 - RiZ (R) 3/05](2006/riz-r-3-05.md)
+
+## 2004
+
+- [BGH, Beschluss vom 21.01.2004 - RiZ (R) 1/03](2004/riz-r-1-03.md)
+
+## 2003
+
+- [BGH, Urteil vom 12.03.2003 - RiZ (R) 1/02](2003/riz-r-1-02.md)
+
+## 2002
+
+- [BGH, Urteil vom 01.03.2002 - RiZ (R) 1/01](2002/riz-r-1-01.md)
+
+## 2001
+
+- [BGH, Urteil vom 10.08.2001 - RiZ (R) 5/00](2001/riz-r-5-00.md)

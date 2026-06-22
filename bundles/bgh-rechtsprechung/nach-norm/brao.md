@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BRAO"
 description: "BGH-Entscheidungen zu BRAO, geordnet nach Vorschrift."
 tags: [register, navigation, brao]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift
@@ -56,6 +56,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des BRAO auslegen
 | § 65 BRAO | [BGH, Beschluss vom 15.10.2018 - AnwZ (Brfg) 2/17](../entscheidungen/senat-fuer-anwaltssachen/2018/anwz-brfg-2-17.md) |
 | § 68 BRAO | [BGH, Urteil vom 20.07.2023 - AnwZ (Brfg) 14/22](../entscheidungen/senat-fuer-anwaltssachen/2023/anwz-brfg-14-22.md); [BGH, Urteil vom 12.09.2022 - AnwZ (Brfg) 41/21](../entscheidungen/senat-fuer-anwaltssachen/2022/anwz-brfg-41-21.md); [BGH, Beschluss vom 08.02.2010 - AnwZ (B) 80/09, AnwZ (B) 112/09](../entscheidungen/senat-fuer-anwaltssachen/2010/anwz-b-80-09-anwz-b-112-09.md) |
 | § 73 BRAO | [BGH, Beschluss vom 30.09.2021 - AnwZ (Brfg) 20/21](../entscheidungen/senat-fuer-anwaltssachen/2021/anwz-brfg-20-21.md); [BGH, Beschluss vom 12.03.2015 - AnwZ (Brfg) 82/13](../entscheidungen/senat-fuer-anwaltssachen/2015/anwz-brfg-82-13.md); [BGH, Urteil vom 27.10.2014 - AnwZ (Brfg) 67/13](../entscheidungen/senat-fuer-anwaltssachen/2014/anwz-brfg-67-13.md); [BGH, Beschluss vom 05.11.2013 - AnwZ (Brfg) 37/13](../entscheidungen/senat-fuer-anwaltssachen/2013/anwz-brfg-37-13.md) |
+| § 74 BRAO | [BGH, Beschluss vom 06.11.2000 - AnwZ (B) 77/99](../entscheidungen/senat-fuer-anwaltssachen/2000/anwz-b-77-99.md) |
 | § 78 BRAO | [BGH, Beschluss vom 20.09.2022 - IX ZR 118/22](../entscheidungen/ix-zivilsenat/2022/ix-zr-118-22.md); [BGH, Beschluss vom 01.03.2018 - IX ZR 2/18](../entscheidungen/ix-zivilsenat/2018/ix-zr-2-18.md) |
 | § 80 BRAO | [BGH, Beschluss vom 18.06.2018 - AnwZ (Brfg) 61/17](../entscheidungen/senat-fuer-anwaltssachen/2018/anwz-brfg-61-17.md) |
 | § 85 BRAO | [BGH, Beschluss vom 29.09.2021 - VII ZB 12/21](../entscheidungen/vii-zivilsenat/2021/vii-zb-12-21.md); [BGH, Beschluss vom 25.02.2021 - III ZB 34/20](../entscheidungen/iii-zivilsenat/2021/iii-zb-34-20.md); [BGH, Beschluss vom 17.12.2020 - III ZB 31/20](../entscheidungen/iii-zivilsenat/2020/iii-zb-31-20.md); [BGH, Beschluss vom 23.06.2020 - VI ZB 63/19](../entscheidungen/vi-zivilsenat/2020/vi-zb-63-19.md); [BGH, Beschluss vom 17.03.2020 - VI ZB 99/19](../entscheidungen/vi-zivilsenat/2020/vi-zb-99-19.md); [BGH, Urteil vom 03.11.2014 - AnwZ (Brfg) 68/13](../entscheidungen/senat-fuer-anwaltssachen/2014/anwz-brfg-68-13.md) |

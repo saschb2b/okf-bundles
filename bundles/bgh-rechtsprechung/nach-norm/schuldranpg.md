@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SchuldRAnpG"
 description: "BGH-Entscheidungen zu SchuldRAnpG, geordnet nach Vorschrift."
 tags: [register, navigation, schuldranpg]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

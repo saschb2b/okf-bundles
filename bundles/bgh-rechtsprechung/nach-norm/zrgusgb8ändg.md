@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZRGuSGB8ÄndG"
 description: "BGH-Entscheidungen zu ZRGuSGB8ÄndG, geordnet nach Vorschrift."
 tags: [register, navigation, zrgusgb8ändg]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

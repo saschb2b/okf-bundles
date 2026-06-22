@@ -1,6 +1,6 @@
 # 1-bgs
 
-8 Entscheidung(en).
+9 Entscheidung(en).
 
 ## 2018
 
@@ -21,3 +21,7 @@
 ## 2014
 
 - [BGH, Beschluss vom 23.09.2014 - 1 BGs 210/14](2014/1-bgs-210-14.md)
+
+## 2009
+
+- [BGH, Entscheidung vom 20.02.2009 - 1 BGs 20/09](2009/1-bgs-20-09.md)

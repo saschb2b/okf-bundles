@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZustÜbkHaag"
 description: "BGH-Entscheidungen zu ZustÜbkHaag, geordnet nach Vorschrift."
 tags: [register, navigation, zustübkhaag]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

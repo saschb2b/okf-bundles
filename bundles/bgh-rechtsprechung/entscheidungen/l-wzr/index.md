@@ -1,6 +1,6 @@
 # l-wzr
 
-22 Entscheidung(en).
+41 Entscheidung(en).
 
 ## 2025
 
@@ -56,3 +56,46 @@
 - [BGH, Urteil vom 26.11.2010 - LwZR 22/09](2010/lwzr-22-09.md)
 - [BGH, Urteil vom 23.04.2010 - LwZR 15/08](2010/lwzr-15-08.md)
 - [BGH, Urteil vom 23.04.2010 - LwZR 20/09](2010/lwzr-20-09.md)
+
+## 2009
+
+- [BGH, Urteil vom 27.11.2009 - LwZR 11/09](2009/lwzr-11-09.md)
+
+## 2008
+
+- [BGH, Beschluss vom 08.07.2008 - LwZR 5/08](2008/lwzr-5-08.md)
+- [BGH, Beschluss vom 25.04.2008 - LwZR 10/07](2008/lwzr-10-07.md)
+
+## 2007
+
+- [BGH, Urteil vom 23.11.2007 - LwZR 13/06](2007/lwzr-13-06.md)
+
+## 2006
+
+- [BGH, Urteil vom 24.11.2006 - LwZR 6/05](2006/lwzr-6-05.md)
+
+## 2005
+
+- [BGH, Urteil vom 29.04.2005 - LwZR 8/04](2005/lwzr-8-04.md)
+
+## 2003
+
+- [BGH, Beschluss vom 18.11.2003 - LwZR 2/03](2003/lwzr-2-03.md)
+
+## 2002
+
+- [BGH, Beschluss vom 15.11.2002 - LwZR 5/02](2002/lwzr-5-02.md)
+- [BGH, Urteil vom 15.11.2002 - LwZR 7/02](2002/lwzr-7-02.md)
+- [BGH, Urteil vom 15.11.2002 - LwZR 8/02](2002/lwzr-8-02.md)
+- [BGH, Beschluss vom 07.11.2002 - LwZR 9/02](2002/lwzr-9-02.md)
+- [BGH, Urteil vom 26.04.2002 - LwZR 10/01](2002/lwzr-10-01.md)
+- [BGH, Urteil vom 26.04.2002 - LwZR 18/01](2002/lwzr-18-01.md)
+- [BGH, Urteil vom 26.04.2002 - LwZR 20/01](2002/lwzr-20-01.md)
+
+## 2001
+
+- [BGH, Beschluss vom 09.11.2001 - LwZR 5/01](2001/lwzr-5-01.md)
+- [BGH, Beschluss vom 09.11.2001 - LwZR 7/01](2001/lwzr-7-01.md)
+- [BGH, Urteil vom 27.04.2001 - LwZR 10/00](2001/lwzr-10-00.md)
+- [BGH, Urteil vom 27.04.2001 - LwZR 6/00](2001/lwzr-6-00.md)
+- [BGH, Beschluss vom 29.03.2001 - LwZR 3/01](2001/lwzr-3-01.md)

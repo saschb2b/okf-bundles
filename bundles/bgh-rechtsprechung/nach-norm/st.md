@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ST"
 description: "BGH-Entscheidungen zu ST, geordnet nach Vorschrift."
 tags: [register, navigation, st]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

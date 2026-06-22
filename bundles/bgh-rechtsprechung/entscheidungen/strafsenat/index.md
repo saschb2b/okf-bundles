@@ -1,6 +1,6 @@
 # strafsenat
 
-485 Entscheidung(en).
+511 Entscheidung(en).
 
 ## 2026
 
@@ -537,3 +537,56 @@
 - [BGH, Beschluss vom 11.03.2010 - StB 16/09](2010/stb-16-09.md)
 - [BGH, Beschluss vom 04.03.2010 - StB 46/09](2010/stb-46-09.md)
 - [BGH, Beschluss vom 19.01.2010 - StB 27/09](2010/stb-27-09.md)
+
+## 2009
+
+- [BGH, Beschluss vom 04.08.2009 - StB 32/09](2009/stb-32-09.md)
+- [BGH, Beschluss vom 16.06.2009 - StB 19/09](2009/stb-19-09.md)
+- [BGH, Beschluss vom 09.04.2009 - StB 6/09](2009/stb-6-09.md)
+- [BGH, Beschluss vom 17.03.2009 - AK 2/09](2009/ak-2-09.md)
+- [BGH, Beschluss vom 17.03.2009 - AK 3/09](2009/ak-3-09.md)
+- [BGH, Beschluss vom 17.03.2009 - AK 4/09](2009/ak-4-09.md)
+- [BGH, Beschluss vom 13.01.2009 - AK 20/08](2009/ak-20-08.md)
+
+## 2008
+
+- [BGH, Beschluss vom 08.10.2008 - StB 12/08](2008/stb-12-08.md)
+- [BGH, Beschluss vom 26.06.2008 - AK 10/08](2008/ak-10-08.md)
+
+## 2007
+
+- [BGH, Beschluss vom 07.08.2007 - StB 17/07](2007/stb-17-07.md)
+
+## 2006
+
+- [BGH, Beschluss vom 18.07.2006 - StB 14/06](2006/stb-14-06.md)
+- [BGH, Beschluss vom 09.02.2006 - AK 1/06](2006/ak-1-06.md)
+
+## 2005
+
+- [BGH, Beschluss vom 08.09.2005 - AK 8/05](2005/ak-8-05.md)
+- [BGH, Beschluss vom 02.06.2005 - StB 8/05](2005/stb-8-05.md)
+- [BGH, Beschluss vom 22.02.2005 - StB 2/05](2005/stb-2-05.md)
+
+## 2003
+
+- [BGH, Beschluss vom 19.12.2003 - StB 21/03](2003/stb-21-03.md)
+
+## 2002
+
+- [BGH, Beschluss vom 11.06.2002 - StB 12/02](2002/stb-12-02.md)
+- [BGH, Beschluss vom 10.01.2002 - AK 22/01](2002/ak-22-01.md)
+
+## 2001
+
+- [BGH, Beschluss vom 16.11.2001 - StB 17/01](2001/stb-17-01.md)
+- [BGH, Beschluss vom 16.11.2001 - StB 18/01](2001/stb-18-01.md)
+- [BGH, Beschluss vom 16.11.2001 - StB 19/01](2001/stb-19-01.md)
+
+## 2000
+
+- [BGH, Beschluss vom 13.09.2000 - StB 9/00](2000/stb-9-00.md)
+- [BGH, Beschluss vom 09.02.2000 - AK 2/00](2000/ak-2-00.md)
+- [BGH, Beschluss vom 28.01.2000 - StB 1/00](2000/stb-1-00.md)
+- [BGH, Beschluss vom 14.01.2000 - StB 16/99](2000/stb-16-99.md)
+- [BGH, Beschluss vom 12.01.2000 - StB 15/99](2000/stb-15-99.md)

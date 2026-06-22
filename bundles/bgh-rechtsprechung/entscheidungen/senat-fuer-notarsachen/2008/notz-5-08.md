@@ -1,0 +1,21 @@
+---
+type: Gerichtsentscheidung
+title: "BGH, Beschluss vom 28.07.2008 - NotZ 5/08"
+description: "Bestellung zum Notar "
+resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2008/NotZ___5-08.pdf?__blob=publicationFile&v=1
+gericht: Bundesgerichtshof
+senat: "Senat für Notarsachen"
+datum: 2008-07-28
+aktenzeichen: "NotZ 5/08"
+normen: []
+tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
+timestamp: 2026-06-22T13:27:26Z
+---
+# Volltext
+
+Volltext (PDF) beim Bundesgerichtshof: NotZ 5/08 vom 28.07.2008.
+
+# Citations
+
+[1] [BGH, Beschluss vom 28.07.2008 - NotZ 5/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2008/NotZ___5-08.pdf?__blob=publicationFile&v=1)
+

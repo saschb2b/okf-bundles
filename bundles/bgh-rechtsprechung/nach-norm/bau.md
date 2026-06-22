@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu Bau"
 description: "BGH-Entscheidungen zu Bau, geordnet nach Vorschrift."
 tags: [register, navigation, bau]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu RuStAG"
 description: "BGH-Entscheidungen zu RuStAG, geordnet nach Vorschrift."
 tags: [register, navigation, rustag]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

@@ -1,6 +1,6 @@
 # l-wzb
 
-7 Entscheidung(en).
+8 Entscheidung(en).
 
 ## 2021
 
@@ -29,3 +29,7 @@
 ## 2011
 
 - [BGH, Beschluss vom 17.10.2011 - LwZB 2/11](2011/lwzb-2-11.md)
+
+## 2001
+
+- [BGH, Beschluss vom 27.04.2001 - LwZB 4/00](2001/lwzb-4-00.md)

@@ -1,6 +1,6 @@
 # kartellsenat
 
-456 Entscheidung(en).
+521 Entscheidung(en).
 
 ## 2026
 
@@ -508,3 +508,95 @@
 - [BGH, Urteil vom 20.04.2010 - KZR 53/07](2010/kzr-53-07.md)
 - [BGH, Beschluss vom 02.02.2010 - KVR 66/08](2010/kvr-66-08.md)
 - [BGH, Beschluss vom 02.02.2010 - KVZ 16/09](2010/kvz-16-09.md)
+
+## 2009
+
+- [BGH, Beschluss vom 13.10.2009 - KVZ 41/08](2009/kvz-41-08.md)
+- [BGH, Beschluss vom 29.09.2009 - KZR 43/08](2009/kzr-43-08.md)
+- [BGH, Beschluss vom 21.07.2009 - EnVR 12/08](2009/envr-12-08.md)
+- [BGH, Beschluss vom 21.07.2009 - EnVR 33/08](2009/envr-33-08.md)
+- [BGH, Beschluss vom 23.06.2009 - EnVR 19/08](2009/envr-19-08.md)
+- [BGH, Beschluss vom 23.06.2009 - EnVR 48/08](2009/envr-48-08.md)
+- [BGH, Urteil vom 23.06.2009 - KZR 58/07](2009/kzr-58-07.md)
+- [BGH, Beschluss vom 06.05.2009 - EnVR 16/08](2009/envr-16-08.md)
+- [BGH, Beschluss vom 07.04.2009 - EnVR 27/08](2009/envr-27-08.md)
+- [BGH, Beschluss vom 07.04.2009 - KVR 25/08](2009/kvr-25-08.md)
+- [BGH, Beschluss vom 07.04.2009 - KVZ 59/08](2009/kvz-59-08.md)
+- [BGH, Beschluss vom 03.03.2009 - EnVR 79/07](2009/envr-79-07.md)
+- [BGH, Beschluss vom 03.03.2009 - KZR 7/08](2009/kzr-7-08.md)
+- [BGH, Urteil vom 03.03.2009 - KZR 82/07](2009/kzr-82-07.md)
+- [BGH, Beschluss vom 03.03.2009 - KZR 83/07](2009/kzr-83-07.md)
+
+## 2008
+
+- [BGH, Beschluss vom 25.09.2008 - EnVR 81/07](2008/envr-81-07.md)
+- [BGH, Beschluss vom 25.09.2008 - KVR 68/07](2008/kvr-68-07.md)
+- [BGH, Beschluss vom 14.08.2008 - KVR 27/07](2008/kvr-27-07.md)
+- [BGH, Beschluss vom 14.08.2008 - KVR 34/07](2008/kvr-34-07.md)
+- [BGH, Beschluss vom 14.08.2008 - KVR 36/07](2008/kvr-36-07.md)
+- [BGH, Beschluss vom 14.08.2008 - KVR 42/07](2008/kvr-42-07.md)
+- [BGH, Beschluss vom 04.03.2008 - KVR 21/07](2008/kvr-21-07.md)
+- [BGH, Urteil vom 04.03.2008 - KZR 29/06](2008/kzr-29-06.md)
+
+## 2007
+
+- [BGH, Beschluss vom 10.12.2007 - KZR 14/07](2007/kzr-14-07.md)
+- [BGH, Beschluss vom 25.09.2007 - KVZ 22/07](2007/kvz-22-07.md)
+- [BGH, Urteil vom 25.09.2007 - KZR 48/05](2007/kzr-48-05.md)
+- [BGH, Beschluss vom 19.06.2007 - KVR 16/06](2007/kvr-16-06.md)
+- [BGH, Beschluss vom 19.06.2007 - KVR 17/06](2007/kvr-17-06.md)
+- [BGH, Beschluss vom 19.06.2007 - KVR 18/06](2007/kvr-18-06.md)
+- [BGH, Beschluss vom 19.06.2007 - KVZ 9/07](2007/kvz-9-07.md)
+- [BGH, Urteil vom 08.05.2007 - KZR 14/04](2007/kzr-14-04.md)
+- [BGH, Urteil vom 08.05.2007 - KZR 16/04](2007/kzr-16-04.md)
+- [BGH, Urteil vom 08.05.2007 - KZR 9/06](2007/kzr-9-06.md)
+- [BGH, Beschluss vom 16.01.2007 - KVR 12/06](2007/kvr-12-06.md)
+
+## 2006
+
+- [BGH, Beschluss vom 07.11.2006 - KVR 37/05](2006/kvr-37-05.md)
+- [BGH, Beschluss vom 07.11.2006 - KVR 38/05](2006/kvr-38-05.md)
+- [BGH, Beschluss vom 07.11.2006 - KVR 39/05](2006/kvr-39-05.md)
+- [BGH, Beschluss vom 17.08.2006 - KVR 11/06](2006/kvr-11-06.md)
+- [BGH, Beschluss vom 11.07.2006 - KVR 28/05](2006/kvr-28-05.md)
+- [BGH, Beschluss vom 11.07.2006 - KVZ 1/06](2006/kvz-1-06.md)
+- [BGH, Beschluss vom 11.07.2006 - KVZ 41/05](2006/kvz-41-05.md)
+- [BGH, Beschluss vom 11.07.2006 - KVZ 44/05](2006/kvz-44-05.md)
+
+## 2005
+
+- [BGH, Urteil vom 08.11.2005 - KZR 21/04](2005/kzr-21-04.md)
+- [BGH, Beschluss vom 17.10.2005 - KVZ 7/03](2005/kvz-7-03.md)
+- [BGH, Beschluss vom 26.07.2005 - KZR 16/04](2005/kzr-16-04.md)
+- [BGH, Beschluss vom 26.07.2005 - KZR 24/04](2005/kzr-24-04.md)
+- [BGH, Beschluss vom 28.06.2005 - KVR 27/04](2005/kvr-27-04.md)
+- [BGH, Urteil vom 22.02.2005 - KZR 2/04](2005/kzr-2-04.md)
+- [BGH, Urteil vom 22.02.2005 - KZR 36/03](2005/kzr-36-03.md)
+
+## 2004
+
+- [BGH, Beschluss vom 23.11.2004 - KVZ 7/03](2004/kvz-7-03.md)
+- [BGH, Urteil vom 11.05.2004 - KZR 4/03](2004/kzr-4-03.md)
+
+## 2003
+
+- [BGH, Urteil vom 04.11.2003 - KZR 16/02](2003/kzr-16-02.md)
+- [BGH, Urteil vom 04.11.2003 - KZR 38/02](2003/kzr-38-02.md)
+- [BGH, Beschluss vom 24.06.2003 - KVR 14/01](2003/kvr-14-01.md)
+
+## 2002
+
+- [BGH, Beschluss vom 12.11.2002 - KVR 5/02](2002/kvr-5-02.md)
+- [BGH, Urteil vom 12.11.2002 - KZR 11/01](2002/kzr-11-01.md)
+- [BGH, Urteil vom 24.09.2002 - KZR 38/99](2002/kzr-38-99.md)
+- [BGH, Urteil vom 09.07.2002 - KZR 13/01](2002/kzr-13-01.md)
+- [BGH, Urteil vom 09.07.2002 - KZR 30/00](2002/kzr-30-00.md)
+
+## 2000
+
+- [BGH, Beschluss vom 21.11.2000 - KVR 16/99](2000/kvr-16-99.md)
+- [BGH, Beschluss vom 21.11.2000 - KVR 21/99](2000/kvr-21-99.md)
+- [BGH, Beschluss vom 21.11.2000 - KVZ 28/99](2000/kvz-28-99.md)
+- [BGH, Urteil vom 09.05.2000 - KZR 1/99](2000/kzr-1-99.md)
+- [BGH, Urteil vom 09.05.2000 - KZR 28/98](2000/kzr-28-98.md)
+- [BGH, Urteil vom 14.03.2000 - KZR 15/98](2000/kzr-15-98.md)

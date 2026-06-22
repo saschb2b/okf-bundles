@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VBVAnpG"
 description: "BGH-Entscheidungen zu VBVAnpG, geordnet nach Vorschrift."
 tags: [register, navigation, vbvanpg]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

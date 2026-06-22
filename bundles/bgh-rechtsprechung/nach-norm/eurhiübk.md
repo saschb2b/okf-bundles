@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu EuRHiÜbk"
 description: "BGH-Entscheidungen zu EuRHiÜbk, geordnet nach Vorschrift."
 tags: [register, navigation, eurhiübk]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

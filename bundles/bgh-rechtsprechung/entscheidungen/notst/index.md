@@ -1,6 +1,6 @@
 # notst
 
-52 Entscheidung(en).
+55 Entscheidung(en).
 
 ## 2026
 
@@ -98,3 +98,12 @@
 ## 2011
 
 - [BGH, Beschluss vom 18.07.2011 - NotSt (Brfg) 1/11](2011/notst-brfg-1-11.md)
+
+## 2005
+
+- [BGH, Beschluss vom 11.07.2005 - NotSt (B) 2/05](2005/notst-b-2-05.md)
+- [BGH, Beschluss vom 14.03.2005 - NotSt (B) 4/04](2005/notst-b-4-04.md)
+
+## 2004
+
+- [BGH, Beschluss vom 12.07.2004 - NotSt (Brfg) 2/04](2004/notst-brfg-2-04.md)

@@ -16,4 +16,9 @@ Das Bündel ist auf Vollständigkeit angelegt (perspektivisch der gesamte veröf
 
 # Stand
 
-Befüllt mit dem **vollständigen veröffentlichten BGH-Bestand 2010 bis 2026**: rund 32.600 Entscheidungen aller Senate, maschinell aus der amtlichen Quelle eingelesen und über die Norm-Register erschlossen. Format (Option B): je Entscheidung die Metadaten und, soweit vorhanden, der amtliche Leitsatz; der Volltext (Tenor, Tatbestand, Gründe) ist über die in jedem Knoten genannte amtliche Fundstelle einen Klick entfernt. Frei zugänglich sind nur Entscheidungen **ab 2010**; ältere Jahrgänge enthält die Quelle nicht. Die sechs Anfechtungs-Leitentscheidungen sind zusätzlich von Hand kuratiert. Erneutes Einlesen (etwa für neue Jahrgänge) ist wiederaufsetzbar (siehe [Überblick](overview.md)).
+Befüllt für die Jahre **2000 bis 2026** (rund 39.100 Entscheidungen), aus zwei amtlichen Quellen:
+
+- **2010 bis 2026**: der maschinenlesbare Bestand der rii-Quelle (rund 32.600 Entscheidungen) mit amtlichem Leitsatz und strukturierten Normen.
+- **2000 bis 2009**: ergänzend die Entscheidungen der BGH-Entscheidungsdatenbank (bundesgerichtshof.de, rund 6.600; dort nur selektiv veröffentlicht), aus dem PDF gewonnen, mit Metadaten und PDF-Link sowie Leitsatz und Normen nach Möglichkeit (bei den älteren Beschlüssen oft knapp).
+
+Format (Option B): je Entscheidung Metadaten und, soweit vorhanden, der Leitsatz; der Volltext ist über die amtliche Fundstelle einen Klick entfernt. Die sechs Anfechtungs-Leitentscheidungen sind zusätzlich von Hand kuratiert. Das Einlesen ist wiederaufsetzbar (siehe [Überblick](overview.md)).

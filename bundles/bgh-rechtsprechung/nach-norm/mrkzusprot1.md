@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu MRKZusProt1"
 description: "BGH-Entscheidungen zu MRKZusProt1, geordnet nach Vorschrift."
 tags: [register, navigation, mrkzusprot1]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

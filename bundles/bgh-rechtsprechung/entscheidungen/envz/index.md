@@ -1,6 +1,6 @@
 # envz
 
-62 Entscheidung(en).
+63 Entscheidung(en).
 
 ## 2026
 
@@ -105,3 +105,7 @@
 ## 2012
 
 - [BGH, Beschluss vom 06.11.2012 - EnVZ 21/12](2012/envz-21-12.md)
+
+## 2008
+
+- [BGH, Beschluss vom 08.07.2008 - EnVZ 80/07](2008/envz-80-07.md)

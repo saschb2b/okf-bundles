@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu IHKG"
 description: "BGH-Entscheidungen zu IHKG, geordnet nach Vorschrift."
 tags: [register, navigation, ihkg]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

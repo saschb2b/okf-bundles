@@ -1,6 +1,6 @@
 # stbst
 
-6 Entscheidung(en).
+9 Entscheidung(en).
 
 ## 2025
 
@@ -22,3 +22,15 @@
 ## 2010
 
 - [BGH, Urteil vom 01.09.2010 - StbSt (R) 2/10](2010/stbst-r-2-10.md)
+
+## 2009
+
+- [BGH, Urteil vom 07.12.2009 - StbSt (R) 2/09](2009/stbst-r-2-09.md)
+
+## 2003
+
+- [BGH, Urteil vom 25.02.2003 - StbSt (R) 2/02](2003/stbst-r-2-02.md)
+
+## 2002
+
+- [BGH, Beschluss vom 11.02.2002 - StbSt (B) 2/01](2002/stbst-b-2-01.md)

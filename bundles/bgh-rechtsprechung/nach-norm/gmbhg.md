@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GmbHG"
 description: "BGH-Entscheidungen zu GmbHG, geordnet nach Vorschrift."
 tags: [register, navigation, gmbhg]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift
@@ -32,7 +32,7 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des GmbHG auslege
 | § 20 GmbHG | [BGH, Beschluss vom 05.03.2015 - IX ZB 62/14](../entscheidungen/ix-zivilsenat/2015/ix-zb-62-14.md) |
 | § 24 GmbHG | [BGH, Urteil vom 19.05.2015 - II ZR 291/14](../entscheidungen/ii-zivilsenat/2015/ii-zr-291-14.md); [BGH, Urteil vom 10.06.2011 - V ZR 222/10](../entscheidungen/v-zivilsenat/2011/v-zr-222-10.md) |
 | § 26 GmbHG | [BGH, Urteil vom 15.04.2021 - III ZR 139/20](../entscheidungen/iii-zivilsenat/2021/iii-zr-139-20.md) |
-| § 30 GmbHG | [BGH, Urteil vom 26.06.2018 - II ZR 65/16](../entscheidungen/ii-zivilsenat/2018/ii-zr-65-16.md); [BGH, Urteil vom 21.03.2017 - II ZR 93/16](../entscheidungen/ii-zivilsenat/2017/ii-zr-93-16.md); [BGH, Urteil vom 10.05.2016 - II ZR 342/14](../entscheidungen/ii-zivilsenat/2016/ii-zr-342-14.md); [BGH, Urteil vom 09.12.2014 - II ZR 360/13](../entscheidungen/ii-zivilsenat/2014/ii-zr-360-13.md); [BGH, Teilurteil vom 05.04.2011 - II ZR 263/08](../entscheidungen/ii-zivilsenat/2011/ii-zr-263-08.md) |
+| § 30 GmbHG | [BGH, Urteil vom 26.06.2018 - II ZR 65/16](../entscheidungen/ii-zivilsenat/2018/ii-zr-65-16.md); [BGH, Urteil vom 21.03.2017 - II ZR 93/16](../entscheidungen/ii-zivilsenat/2017/ii-zr-93-16.md); [BGH, Urteil vom 10.05.2016 - II ZR 342/14](../entscheidungen/ii-zivilsenat/2016/ii-zr-342-14.md); [BGH, Urteil vom 09.12.2014 - II ZR 360/13](../entscheidungen/ii-zivilsenat/2014/ii-zr-360-13.md); [BGH, Teilurteil vom 05.04.2011 - II ZR 263/08](../entscheidungen/ii-zivilsenat/2011/ii-zr-263-08.md); [BGH, Urteil vom 22.09.2003 - II ZR 229/02](../entscheidungen/ii-zivilsenat/2003/ii-zr-229-02.md) |
 | § 34 GmbHG | [BGH, Urteil vom 24.09.2013 - II ZR 216/11](../entscheidungen/ii-zivilsenat/2013/ii-zr-216-11.md); [BGH, Urteil vom 24.01.2012 - II ZR 109/11](../entscheidungen/ii-zivilsenat/2012/ii-zr-109-11.md) |
 | § 35 GmbHG | [BGH, Beschluss vom 02.02.2016 - II ZB 2/15](../entscheidungen/ii-zivilsenat/2016/ii-zb-2-15.md) |
 | § 38 GmbHG | [BGH, Beschluss vom 07.05.2025 - II ZB 15/24](../entscheidungen/ii-zivilsenat/2025/ii-zb-15-24.md); [BGH, Urteil vom 04.04.2017 - II ZR 77/16](../entscheidungen/ii-zivilsenat/2017/ii-zr-77-16.md); [BGH, Urteil vom 11.10.2010 - II ZR 266/08](../entscheidungen/ii-zivilsenat/2010/ii-zr-266-08.md) |

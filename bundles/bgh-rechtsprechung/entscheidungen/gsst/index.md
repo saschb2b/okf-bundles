@@ -1,6 +1,6 @@
 # gsst
 
-13 Entscheidung(en).
+15 Entscheidung(en).
 
 ## 2025
 
@@ -44,3 +44,11 @@
 ## 2010
 
 - [BGH, Beschluss vom 21.04.2010 - GSSt 1/09](2010/gsst-1-09.md)
+
+## 2008
+
+- [BGH, Beschluss vom 07.10.2008 - GSSt 1/08](2008/gsst-1-08.md)
+
+## 2007
+
+- [BGH, Beschluss vom 23.04.2007 - GSSt 1/06](2007/gsst-1-06.md)

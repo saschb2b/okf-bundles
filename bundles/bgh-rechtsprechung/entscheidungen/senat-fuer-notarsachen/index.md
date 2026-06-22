@@ -1,6 +1,6 @@
 # senat-fuer-notarsachen
 
-118 Entscheidung(en).
+164 Entscheidung(en).
 
 ## 2025
 
@@ -167,3 +167,73 @@
 - [BGH, Beschluss vom 22.03.2010 - NotZ 11/09](2010/notz-11-09.md)
 - [BGH, Beschluss vom 22.03.2010 - NotZ 16/09](2010/notz-16-09.md)
 - [BGH, Beschluss vom 22.03.2010 - NotZ 21/09](2010/notz-21-09.md)
+
+## 2009
+
+- [BGH, Beschluss vom 26.10.2009 - NotZ 15/09](2009/notz-15-09.md)
+
+## 2008
+
+- [BGH, Beschluss vom 06.10.2008 - NotZ 6/08](2008/notz-6-08.md)
+- [BGH, Beschluss vom 28.07.2008 - NotZ 5/08](2008/notz-5-08.md)
+- [BGH, Beschluss vom 28.07.2008 - NotZ 82/07](2008/notz-82-07.md)
+- [BGH, Beschluss vom 14.04.2008 - NotZ 1/08](2008/notz-1-08.md)
+- [BGH, Beschluss vom 14.04.2008 - NotZ 120/07](2008/notz-120-07.md)
+- [BGH, Beschluss vom 14.04.2008 - NotZ 4/08](2008/notz-4-08.md)
+- [BGH, Beschluss vom 12.02.2008 - NotZ 128/07](2008/notz-128-07.md)
+
+## 2007
+
+- [BGH, Beschluss vom 26.11.2007 - NotZ 89/07](2007/notz-89-07.md)
+- [BGH, Beschluss vom 23.07.2007 - NotZ 50/06](2007/notz-50-06.md)
+- [BGH, Beschluss vom 23.07.2007 - NotZ 51/06](2007/notz-51-06.md)
+- [BGH, Beschluss vom 23.07.2007 - NotZ 53/06](2007/notz-53-06.md)
+- [BGH, Beschluss vom 26.03.2007 - NotZ 37/06](2007/notz-37-06.md)
+- [BGH, Beschluss vom 26.03.2007 - NotZ 38/06](2007/notz-38-06.md)
+- [BGH, Beschluss vom 26.03.2007 - NotZ 39/06](2007/notz-39-06.md)
+- [BGH, Beschluss vom 26.03.2007 - NotZ 43/06](2007/notz-43-06.md)
+- [BGH, Beschluss vom 26.03.2007 - NotZ 45/06](2007/notz-45-06.md)
+- [BGH, Beschluss vom 26.03.2007 - NotZ 46/06](2007/notz-46-06.md)
+- [BGH, Beschluss vom 26.03.2007 - NotZ 49/06](2007/notz-49-06.md)
+- [BGH, Beschluss vom 12.01.2007 - NotZ 35/06](2007/notz-35-06.md)
+
+## 2006
+
+- [BGH, Beschluss vom 20.11.2006 - NotZ 16/06](2006/notz-16-06.md)
+- [BGH, Beschluss vom 20.11.2006 - NotZ 23/06](2006/notz-23-06.md)
+- [BGH, Beschluss vom 24.07.2006 - NotZ 44/05](2006/notz-44-05.md)
+- [BGH, Beschluss vom 20.03.2006 - NotZ 46/05](2006/notz-46-05.md)
+- [BGH, Beschluss vom 20.03.2006 - NotZ 49/05](2006/notz-49-05.md)
+- [BGH, Beschluss vom 20.03.2006 - NotZ 50/05](2006/notz-50-05.md)
+- [BGH, Beschluss vom 20.03.2006 - NotZ 51/05](2006/notz-51-05.md)
+
+## 2005
+
+- [BGH, Beschluss vom 29.11.2005 - NotZ 24/05](2005/notz-24-05.md)
+- [BGH, Beschluss vom 28.11.2005 - NotZ 17/05](2005/notz-17-05.md)
+- [BGH, Beschluss vom 28.11.2005 - NotZ 25/05](2005/notz-25-05.md)
+- [BGH, Beschluss vom 28.11.2005 - NotZ 27/05](2005/notz-27-05.md)
+- [BGH, Beschluss vom 05.10.2005 - NotZ 13/05](2005/notz-13-05.md)
+- [BGH, Beschluss vom 11.07.2005 - NotZ 10/05](2005/notz-10-05.md)
+- [BGH, Beschluss vom 11.07.2005 - NotZ 12/05](2005/notz-12-05.md)
+- [BGH, Beschluss vom 11.07.2005 - NotZ 14/05](2005/notz-14-05.md)
+- [BGH, Beschluss vom 11.07.2005 - NotZ 5/05](2005/notz-5-05.md)
+- [BGH, Beschluss vom 11.07.2005 - NotZ 6/05](2005/notz-6-05.md)
+- [BGH, Beschluss vom 11.07.2005 - NotZ 8/05](2005/notz-8-05.md)
+
+## 2004
+
+- [BGH, Beschluss vom 22.11.2004 - NotZ 17/04](2004/notz-17-04.md)
+- [BGH, Beschluss vom 22.11.2004 - NotZ 22/04](2004/notz-22-04.md)
+
+## 2003
+
+- [BGH, Beschluss vom 03.11.2003 - NotZ 14/03](2003/notz-14-03.md)
+- [BGH, Beschluss vom 03.11.2003 - NotZ 18/03](2003/notz-18-03.md)
+- [BGH, Beschluss vom 05.08.2003 - NotZ 7/02](2003/notz-7-02.md)
+- [BGH, Beschluss vom 14.07.2003 - NotZ 5/03](2003/notz-5-03.md)
+- [BGH, Beschluss vom 31.03.2003 - NotZ 30/02](2003/notz-30-02.md)
+
+## 2002
+
+- [BGH, Beschluss vom 02.12.2002 - NotZ 15/02](2002/notz-15-02.md)

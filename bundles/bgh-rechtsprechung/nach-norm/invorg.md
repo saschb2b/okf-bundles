@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu InVorG"
 description: "BGH-Entscheidungen zu InVorG, geordnet nach Vorschrift."
 tags: [register, navigation, invorg]
-timestamp: 2026-06-22T12:55:13Z
+timestamp: 2026-06-22T13:32:12Z
 ---
 
 # Nach Vorschrift

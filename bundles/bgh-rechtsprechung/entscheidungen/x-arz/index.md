@@ -1,6 +1,6 @@
 # x-arz
 
-54 Entscheidung(en).
+62 Entscheidung(en).
 
 ## 2026
 
@@ -100,3 +100,20 @@
 - [BGH, Beschluss vom 17.05.2011 - X ARZ 109/11](2011/x-arz-109-11.md)
 - [BGH, Beschluss vom 03.05.2011 - X ARZ 101/11](2011/x-arz-101-11.md)
 - [BGH, Beschluss vom 23.02.2011 - X ARZ 388/10](2011/x-arz-388-10.md)
+
+## 2006
+
+- [BGH, Beschluss vom 13.06.2006 - X ARZ 85/06](2006/x-arz-85-06.md)
+- [BGH, Beschluss vom 10.01.2006 - X ARZ 367/05](2006/x-arz-367-05.md)
+
+## 2003
+
+- [BGH, Beschluss vom 16.12.2003 - X ARZ 117/03](2003/x-arz-117-03.md)
+- [BGH, Beschluss vom 07.01.2003 - X ARZ 362/02](2003/x-arz-362-02.md)
+
+## 2002
+
+- [BGH, Beschluss vom 10.09.2002 - X ARZ 217/02](2002/x-arz-217-02.md)
+- [BGH, Beschluss vom 10.09.2002 - X ARZ 299/02](2002/x-arz-299-02.md)
+- [BGH, Beschluss vom 09.07.2002 - X ARZ 110/02](2002/x-arz-110-02.md)
+- [BGH, Beschluss vom 12.03.2002 - X ARZ 314/01](2002/x-arz-314-01.md)
