@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AVAG"
 description: "BGH-Entscheidungen zu AVAG, geordnet nach Vorschrift."
 tags: [register, navigation, avag]
-timestamp: 2026-06-22T11:03:11Z
+timestamp: 2026-06-22T12:15:38Z
 ---
 
 # Nach Vorschrift

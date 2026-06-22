@@ -176,8 +176,6 @@ function toConcept(xml) {
   const doknr = text(xml, "doknr");
   const normen = parseNormen(allTags(xml, "norm").join("\n"));
   const leitsatz = text(xml, "leitsatz");
-  const tenor = text(xml, "tenor");
-  const gruende = text(xml, "entscheidungsgruende") || text(xml, "gruende");
   const titel = text(xml, "titelzeile");
   const ddmmyyyy = datum ? datum.split("-").reverse().join(".") : "";
   const sen = senatOf(az);
@@ -205,15 +203,18 @@ function toConcept(xml) {
     "",
   ].filter((l) => l !== null).join("\n");
 
+  // Slim format (option B): metadata + amtlicher Leitsatz only; the full text
+  // (Tenor, Tatbestand, Gründe) is one link away at the official source.
   const body = [];
   if (leitsatz) body.push("# Leitsatz", "", leitsatz, "");
-  else body.push("# Kernaussage", "", "(Kein amtlicher Leitsatz im Dokument; siehe Tenor und Gründe.)", "");
-  if (tenor) body.push("# Tenor", "", tenor, "");
-  if (gruende) body.push("# Gründe", "", gruende, "");
   body.push(
     "# Normen",
     "",
     normen.length ? normen.map((n) => `- ${n}`).join("\n") : "(keine ausgewiesen)",
+    "",
+    "# Volltext",
+    "",
+    `Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen ${az} (Entscheidungen sind nach § 5 UrhG gemeinfrei).`,
     "",
     "# Citations",
     "",

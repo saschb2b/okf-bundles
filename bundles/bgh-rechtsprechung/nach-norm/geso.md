@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GesO"
 description: "BGH-Entscheidungen zu GesO, geordnet nach Vorschrift."
 tags: [register, navigation, geso]
-timestamp: 2026-06-22T11:03:11Z
+timestamp: 2026-06-22T12:15:38Z
 ---
 
 # Nach Vorschrift

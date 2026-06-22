@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu EGInsO"
 description: "BGH-Entscheidungen zu EGInsO, geordnet nach Vorschrift."
 tags: [register, navigation, eginso]
-timestamp: 2026-06-22T11:03:11Z
+timestamp: 2026-06-22T12:15:38Z
 ---
 
 # Nach Vorschrift

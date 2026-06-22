@@ -3,7 +3,7 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu MediationsG"
 description: "BGH-Entscheidungen zu MediationsG, geordnet nach Vorschrift."
 tags: [register, navigation, mediationsg]
-timestamp: 2026-06-22T11:03:11Z
+timestamp: 2026-06-22T12:15:38Z
 ---
 
 # Nach Vorschrift
@@ -12,4 +12,5 @@ Welche erfassten BGH-Entscheidungen die einzelnen Vorschriften des MediationsG a
 
 | Norm | Entscheidung(en) |
 |------|------------------|
+| § 126 MediationsG | [BGH, Beschluss vom 14.01.2016 - I ZR 98/15](../entscheidungen/i-zivilsenat/2016/i-zr-98-15.md) |
 | § 280 MediationsG | [BGH, Urteil vom 21.09.2017 - IX ZR 34/17](../entscheidungen/ix-zivilsenat/2017/ix-zr-34-17.md) |
