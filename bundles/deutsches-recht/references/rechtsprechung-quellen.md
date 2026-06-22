@@ -1,10 +1,10 @@
 ---
 type: Reference
 title: "Rechtsprechung und frei zugängliche Quellen"
-description: Die frei zugänglichen Fundstellen für Gerichtsentscheidungen und normbezogene Verweise (rechtsprechung-im-internet.de, dejure.org, openJur, Curia), und die Grenze zur kostenpflichtigen Kommentarliteratur, die dieses Bündel zitiert, aber nicht spiegelt.
-resource: https://www.rechtsprechung-im-internet.de/
-tags: [external, rechtsprechung, case-law, frei, dejure, openjur, urheberrecht]
-timestamp: 2026-06-19T12:00:00Z
+description: Die frei zugänglichen Fundstellen für Gerichtsentscheidungen (bundesgerichtshof.de als amtliche Quelle der BGH-Rechtsprechung, daneben rechtsprechung-im-internet.de, dejure.org, openJur, Curia) und die Grenze zur kostenpflichtigen Kommentarliteratur, die dieses Bündel zitiert, aber nicht spiegelt.
+resource: https://www.bundesgerichtshof.de/
+tags: [external, rechtsprechung, case-law, frei, bundesgerichtshof, dejure, openjur, urheberrecht]
+timestamp: 2026-06-22T12:00:00Z
 ---
 
 # Warum eine Rechtsprechungsebene
@@ -15,16 +15,26 @@ Der **Normtext** ist die frei verfügbare Grundlage (gesetze-im-internet.de), ab
 
 | Quelle | Inhalt | Fundstelle |
 |--------|--------|------------|
-| Rechtsprechung im Internet | Amtliche Entscheidungssammlung der obersten Bundesgerichte (BVerfG, BGH, BVerwG, BFH, BAG, BSG), frei | https://www.rechtsprechung-im-internet.de/ |
+| Bundesgerichtshof (Entscheidungssuche) | Amtlicher Volltext aller veröffentlichten BGH-Entscheidungen samt amtlicher Leitsätze, frei; die maßgebliche Quelle gerade für die BGH-geprägte Insolvenzanfechtung | https://www.bundesgerichtshof.de/ |
+| Rechtsprechung im Internet | Amtliche Entscheidungssammlung des Bundes (BVerfG, BGH, BVerwG, BFH, BAG, BSG), frei | https://www.rechtsprechung-im-internet.de/ |
 | dejure.org | Normtext, Querverweise zwischen Normen und umfangreiche Rechtsprechungsnachweise je Paragraph, frei | https://dejure.org/ |
 | openJur | Freie Sammlung von Gerichtsentscheidungen mit Volltext und Zitierhilfe | https://openjur.de/ |
 | Curia / EUR-Lex | Entscheidungen des EuGH und des Gerichts der EU | https://curia.europa.eu/ |
 
 Diese Quellen liefern den Volltext oder die Fundstelle einer Entscheidung kostenlos. Sie sind der Weg, die in den Konzepten genannten Aktenzeichen gegenzuprüfen und die jeweils aktuelle Linie zu verfolgen.
 
+# Amtliche Quelle und Verhältnis der Quellen
+
+Maßgeblich ist die **amtliche Quelle**. Für die BGH-Rechtsprechung ist das **bundesgerichtshof.de** (Entscheidungssuche): dort steht der Volltext mit den amtlichen Leitsätzen, und dorthin verweist dieses Bündel als `resource` einer Entscheidung; daneben tritt die amtliche Sammlung (etwa BGHZ). **dejure.org und openJur ziehen ihre Texte aus diesen amtlichen Quellen** und sind insoweit nachgelagert. Sie sind aber nicht überflüssig: ihr eigener Wert liegt in der **Verknüpfung Norm zu Entscheidung** (welche Urteile zu § 133 InsO ergangen sind) und in der Abdeckung **anderer Gerichte** (Oberlandesgerichte, BAG, BVerfG), für die bundesgerichtshof.de naturgemäß nichts enthält. Kurz: für den Beleg einer konkreten BGH-Entscheidung genügt die amtliche Quelle, für das Auffinden nach Norm und für die Instanzrechtsprechung bleiben dejure und rechtsprechung-im-internet.de nützlich.
+
 # Grenze zur Kommentarliteratur
 
-Die **Kommentarliteratur** (Münchener Kommentar, Staudinger, Grüneberg und die Angebote der Verlage über Beck-Online, Wolters Kluwer, juris sowie KI-gestützte Dienste wie Libra oder Noxtus) ist **urheberrechtlich geschützt und kostenpflichtig**. Dieses Bündel **spiegelt sie nicht**. Es belegt seine Aussagen am Normtext und an frei zugänglicher Rechtsprechung und verweist auf Literatur höchstens als Fundstelle, ohne ihren Text zu übernehmen. Das hält das Bündel rechtlich sauber und zugleich frei verteilbar.
+Hier ist die urheberrechtliche Lage entscheidend, und sie verläuft genau zwischen Rechtsprechung und Literatur:
+
+- **Gerichtsentscheidungen und ihre amtlich verfassten Leitsätze sind nach § 5 UrhG amtliche Werke und gemeinfrei.** Sie genießen keinen Urheberrechtsschutz und dürfen im Wortlaut wiedergegeben werden. Eine Leitentscheidung kann daher einen eigenen Knoten (`type: Gerichtsentscheidung`) erhalten, der den amtlichen Leitsatz und die Kernaussage festhält und auf den amtlichen Volltext verweist.
+- **Die Kommentarliteratur** (Münchener Kommentar, Staudinger, Grüneberg und die Angebote der Verlage über Beck-Online, Wolters Kluwer, juris sowie KI-gestützte Dienste wie Libra oder Noxtus) ist dagegen **urheberrechtlich geschützt und kostenpflichtig**. Dieses Bündel **spiegelt sie nicht**, sondern verweist auf sie höchstens als Fundstelle, ohne ihren Text zu übernehmen.
+
+So entsteht der Mehrwert (die nach Norm geordnete, an Entscheidungen belegte Dogmatik) auf rechtlich sauberer, frei verteilbarer Grundlage. Der bloße Volltext-Korpus aller Urteile ist davon zu unterscheiden: er ist eine Sache der Suche und des Abrufs (etwa für eine Vektordatenbank), nicht des kuratierten Wissensbündels, das nach dem Prinzip der schrittweisen Offenlegung schlank bleibt.
 
 # Hinweis
 
@@ -32,6 +42,8 @@ Eine Entscheidung wird mit **Gericht, Datum und Aktenzeichen** zitiert (etwa "BG
 
 # Citations
 
-[1] [Rechtsprechung im Internet (Bund)](https://www.rechtsprechung-im-internet.de/)
-[2] [dejure.org](https://dejure.org/)
-[3] [openJur](https://openjur.de/)
+[1] [Bundesgerichtshof, Entscheidungssuche](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
+[2] [Rechtsprechung im Internet (Bund)](https://www.rechtsprechung-im-internet.de/)
+[3] [dejure.org](https://dejure.org/)
+[4] [openJur](https://openjur.de/)
+[5] [§ 5 UrhG (amtliche Werke)](https://www.gesetze-im-internet.de/urhg/__5.html)
