@@ -22,6 +22,10 @@ wird bestraft. Der Versuch ist strafbar.
 
 Geschützt ist die **Echtheit** der Urkunde (wer hat sie ausgestellt), nicht ihre inhaltliche Wahrheit: Eine inhaltlich falsche, aber vom richtigen Aussteller stammende Erklärung (schriftliche Lüge) ist keine Urkundenfälschung. Urkunde ist eine verkörperte Gedankenerklärung, die zum Beweis im Rechtsverkehr geeignet und bestimmt ist und ihren Aussteller erkennen lässt (Perpetuierungs-, Beweis- und Garantiefunktion).
 
+# Siehe auch
+
+Wie jedes Delikt folgt § 267 dem [Aufbau der Straftat](/strafrecht-at/aufbau-der-straftat.md).
+
 # Citations
 
 [1] [§ 267 StGB](https://www.gesetze-im-internet.de/stgb/__267.html)

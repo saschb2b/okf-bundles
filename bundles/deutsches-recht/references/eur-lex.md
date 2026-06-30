@@ -9,7 +9,7 @@ timestamp: 2026-06-19T12:00:00Z
 
 # Zusammenfassung
 
-`EUR-Lex` ist das amtliche Portal für das Recht der Europäischen Union (Amt für Veröffentlichungen der EU). Es stellt die konsolidierten Verträge und das Sekundärrecht in allen Amtssprachen bereit und ist die maßgebliche Quelle für das Gebiet [Europarecht](/europarecht/index.md) dieses Bündels. Anders als das nationale Recht ist das Unionsrecht **nicht** bei gesetze-im-internet.de zu finden.
+`EUR-Lex` ist das amtliche Portal für das Recht der Europäischen Union (Amt für Veröffentlichungen der EU). Es stellt die konsolidierten Verträge und das Sekundärrecht in allen Amtssprachen bereit und ist die maßgebliche Quelle für das Gebiet [Europarecht](/europarecht/rechtsquellen-handlungsformen-288.md) dieses Bündels. Anders als das nationale Recht ist das Unionsrecht **nicht** bei gesetze-im-internet.de zu finden.
 
 # Fundstellen
 

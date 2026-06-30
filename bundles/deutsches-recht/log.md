@@ -1,3 +1,7 @@
+## 2026-06-30
+
+* **Wartung (Graph)**: Querverweise auf concept-to-concept umgestellt, damit das Bündel als sauberer Graph navigierbar ist. Verweise, die bisher auf ein `index.md` (Verzeichnislisting, kein Konzept) zeigten, jetzt auf das zentrale Konzept des jeweiligen Gebiets gerichtet (Überblick und einige Querverweise in den Konzepten). Neun verwaiste Konzepte (Bürgschaft, Schenkung, drei Mietrecht-Konzepte, Tötungs- und Urkundsdelikte, einstweiliger Rechtsschutz, EUR-Lex-Referenz) über eine "Siehe auch"-Verknüpfung in den Graphen eingebunden. Reine Navigation, der Rechtsinhalt bleibt unverändert.
+
 ## 2026-06-18
 
 * **Neuausrichtung**: Den früheren Plugin-Katalog (ein Konzept je Plugin der Sammlung claude-fuer-deutsches-recht, ohne Rechtsinhalt) ersetzt durch ein kuratiertes, am Normtext belegtes Wissensbündel. Es hält fest, was gilt, statt fremde Werkzeuge aufzulisten.

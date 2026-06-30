@@ -23,6 +23,10 @@ Erforderlich sind ein **Verfügungsanspruch** (der zu sichernde materielle Anspr
 
 Anspruch und Grund müssen nur **glaubhaft gemacht**, nicht voll bewiesen werden (§ 920 Abs. 2); zulässig sind alle Beweismittel einschließlich der eidesstattlichen Versicherung (§ 294). Das trägt der Eilbedürftigkeit Rechnung.
 
+# Siehe auch
+
+Arrest und einstweilige Verfügung sichern die spätere [Zwangsvollstreckung](/zivilprozess/zwangsvollstreckung-704.md).
+
 # Citations
 
 [1] [§ 916 ZPO](https://www.gesetze-im-internet.de/zpo/__916.html)

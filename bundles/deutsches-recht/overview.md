@@ -16,17 +16,17 @@ Wo das geltende Recht erst in der Rechtsprechung entsteht, tragen Konzepte unter
 
 Das Bündel wächst **gebietsweise**: lieber ein Gebiet vollständig und belegt als viele Gebiete oberflächlich. Ausgearbeitet sind:
 
-- **Grundlage:** [Methodik](/methodik/index.md) (Anspruchsaufbau, Gutachtenstil, Auslegung).
-- **Bürgerliches Recht:** [BGB Allgemeiner Teil](/bgb-at/index.md), [Schuldrecht AT](/schuldrecht-at/index.md), [Kaufrecht](/kaufrecht/index.md), [besondere Schuldverhältnisse](/besondere-schuldverhaeltnisse/index.md), [Deliktsrecht](/deliktsrecht/index.md), [Bereicherungsrecht](/bereicherungsrecht/index.md), [Sachenrecht](/sachenrecht/index.md), [Erbrecht](/erbrecht/index.md), [Familienrecht](/familienrecht/index.md), [Betreuungsrecht](/betreuungsrecht/index.md).
-- **Wirtschafts- und Sonderprivatrecht:** [Handels- und Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md), [AGB-Kontrolle](/agb-kontrolle/index.md), [Arbeitsrecht](/arbeitsrecht/index.md), [Mietrecht](/mietrecht/index.md).
-- **Strafrecht:** [Allgemeiner Teil](/strafrecht-at/index.md), [Besonderer Teil](/strafrecht-bt/index.md), [Strafprozess](/strafprozess/index.md).
-- **Öffentliches Recht:** [Verfassungsrecht](/verfassungsrecht/index.md), [allgemeines Verwaltungsrecht](/verwaltungsrecht/index.md), [Sozialrecht](/sozialrecht/index.md).
-- **Verfahrensrecht:** [Zivilprozess](/zivilprozess/index.md) (von der Klage bis zur Zwangsvollstreckung).
-- **Insolvenzrecht:** [InsO](/insolvenzrecht/index.md) (Eröffnungsgründe, Forderungsanmeldung, Anfechtung, Verbraucherinsolvenz, Restschuldbefreiung).
-- **Europarecht:** [EUV und AEUV](/europarecht/index.md) (Vorrang, Grundfreiheiten, Vorabentscheidung).
-- **IT- und IP-Recht:** [UrhG, DSGVO, DDG, BGB](/it-ip-recht/index.md) (Software-Urheberrecht, Lizenz, Datenschutz, Impressum, Softwarevertrag und SaaS).
-- **Steuerrecht:** [AO, EStG, UStG, KStG, GewStG](/steuerrecht/index.md) (Besteuerungsverfahren, Einkommen-, Umsatz- und Unternehmenssteuern, Grundprinzipien).
-- **Behinderung und Teilhabe:** [SGB IX, AGG, BGG](/behinderung-teilhabe/index.md) (GdB, Merkzeichen, Eingliederungshilfe, Hilfsmittel, Barrierefreiheit).
+- **Grundlage:** [Methodik](/methodik/anspruchsaufbau.md) (Anspruchsaufbau, Gutachtenstil, Auslegung).
+- **Bürgerliches Recht:** [BGB Allgemeiner Teil](/bgb-at/willenserklaerung.md), [Schuldrecht AT](/schuldrecht-at/verzug.md), [Kaufrecht](/kaufrecht/maengelrechte-437.md), [besondere Schuldverhältnisse](/besondere-schuldverhaeltnisse/werkvertrag-631.md), [Deliktsrecht](/deliktsrecht/grundtatbestand-823-1.md), [Bereicherungsrecht](/bereicherungsrecht/leistungskondiktion-812.md), [Sachenrecht](/sachenrecht/eigentumserwerb-bewegliche-929.md), [Erbrecht](/erbrecht/ehegattenerbrecht-1931.md), [Familienrecht](/familienrecht/elterliche-sorge-1626.md), [Betreuungsrecht](/betreuungsrecht/vorsorgevollmacht-1820.md).
+- **Wirtschafts- und Sonderprivatrecht:** [Handels- und Gesellschaftsrecht](/handels-gesellschaftsrecht/gmbh.md), [AGB-Kontrolle](/agb-kontrolle/inhaltskontrolle-307.md), [Arbeitsrecht](/arbeitsrecht/kuendigungsschutz-1-kschg.md), [Mietrecht](/mietrecht/mietvertrag-pflichten-535.md).
+- **Strafrecht:** [Allgemeiner Teil](/strafrecht-at/aufbau-der-straftat.md), [Besonderer Teil](/strafrecht-bt/raub-und-erpressung-249-253.md), [Strafprozess](/strafprozess/beweisaufnahme-und-wuerdigung-244-261.md).
+- **Öffentliches Recht:** [Verfassungsrecht](/verfassungsrecht/verhaeltnismaessigkeit.md), [allgemeines Verwaltungsrecht](/verwaltungsrecht/verwaltungsakt-35.md), [Sozialrecht](/sozialrecht/sozialgerichtliches-verfahren-sgg.md).
+- **Verfahrensrecht:** [Zivilprozess](/zivilprozess/klageerhebung-253.md) (von der Klage bis zur Zwangsvollstreckung).
+- **Insolvenzrecht:** [InsO](/insolvenzrecht/forderungsanmeldung-174.md) (Eröffnungsgründe, Forderungsanmeldung, Anfechtung, Verbraucherinsolvenz, Restschuldbefreiung).
+- **Europarecht:** [EUV und AEUV](/europarecht/rechtsquellen-handlungsformen-288.md) (Vorrang, Grundfreiheiten, Vorabentscheidung).
+- **IT- und IP-Recht:** [UrhG, DSGVO, DDG, BGB](/it-ip-recht/datenschutz-dsgvo-bdsg.md) (Software-Urheberrecht, Lizenz, Datenschutz, Impressum, Softwarevertrag und SaaS).
+- **Steuerrecht:** [AO, EStG, UStG, KStG, GewStG](/steuerrecht/abgabenordnung-und-verfahren.md) (Besteuerungsverfahren, Einkommen-, Umsatz- und Unternehmenssteuern, Grundprinzipien).
+- **Behinderung und Teilhabe:** [SGB IX, AGG, BGG](/behinderung-teilhabe/hilfsmittel-rollstuhl-33.md) (GdB, Merkzeichen, Eingliederungshilfe, Hilfsmittel, Barrierefreiheit).
 
 Weitere Gebiete (etwa das Strafprozessrecht oder das Steuerrecht) folgen nach demselben Muster: Normtext als Quelle, Tatbestandsmerkmale als Listen, Prüfschema als eigener Knoten, Querverweise zwischen verwandten Normen.
 
@@ -34,7 +34,7 @@ Weitere Gebiete (etwa das Strafprozessrecht oder das Steuerrecht) folgen nach de
 
 - **Einen Anspruch prüfen:** der [Anspruchsaufbau](/methodik/anspruchsaufbau.md) gibt die Leitfrage und die Prüfungsreihenfolge vor.
 - **Eine AGB-Klausel prüfen:** das [Prüfschema](/agb-kontrolle/pruefungsschema.md) gibt die Reihenfolge vor und verlinkt in die Einzelnormen.
-- **Eine Norm nachschlagen:** vom [Wurzelindex](/index.md) direkt in das Konzept springen.
+- **Eine Norm nachschlagen:** vom Wurzelindex direkt in das Konzept springen.
 
 # Normstand und Haftung
 

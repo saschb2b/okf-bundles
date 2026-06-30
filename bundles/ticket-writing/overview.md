@@ -8,7 +8,7 @@ timestamp: 2026-06-18T11:30:00Z
 
 # The idea
 
-Most bad tickets are slicing failures, and they are detectable before you start work, the way a code smell is. This bundle catalogs four [ticket smells](/smells/index.md), the [concepts](/concepts/index.md) that explain why they hurt, the [techniques](/techniques/index.md) that cure them, and [playbooks](/playbooks/index.md) you can run in refinement.
+Most bad tickets are slicing failures, and they are detectable before you start work, the way a code smell is. This bundle catalogs four [ticket smells](/smells/iceberg.md), the [concepts](/concepts/planning-fallacy.md) that explain why they hurt, the [techniques](/techniques/invest.md) that cure them, and [playbooks](/playbooks/ready-smell-test.md) you can run in refinement.
 
 # The four smells and their cures
 

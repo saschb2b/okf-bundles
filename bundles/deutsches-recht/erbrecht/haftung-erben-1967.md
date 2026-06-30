@@ -21,7 +21,7 @@ Der Erbe kann die Haftung auf den Nachlass beschränken:
 
 # Bezug
 
-Die sicherste Vermeidung der Haftung für einen überschuldeten Nachlass ist die fristgerechte [Ausschlagung](/erbrecht/annahme-ausschlagung-1942.md). Für die Nachlassinsolvenz gelten die Regeln des [Insolvenzrechts](/schuldrecht-at/index.md) entsprechend.
+Die sicherste Vermeidung der Haftung für einen überschuldeten Nachlass ist die fristgerechte [Ausschlagung](/erbrecht/annahme-ausschlagung-1942.md). Für die Nachlassinsolvenz gelten die Regeln des [Insolvenzrechts](/insolvenzrecht/forderungsanmeldung-174.md) entsprechend.
 
 # Citations
 

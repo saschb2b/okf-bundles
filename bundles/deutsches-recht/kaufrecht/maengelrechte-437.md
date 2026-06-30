@@ -18,7 +18,7 @@ timestamp: 2026-06-18T12:00:00Z
 
 # Struktur (Vorrang der Nacherfüllung)
 
-Die Nacherfüllung ist vorrangig: Rücktritt, Minderung und Schadensersatz statt der Leistung setzen regelmäßig voraus, dass dem Verkäufer zuvor erfolglos eine angemessene Frist zur Nacherfüllung gesetzt wurde (oder diese entbehrlich war). § 437 schafft keine eigenen Voraussetzungen, sondern verknüpft das Kaufrecht mit dem allgemeinen [Leistungsstörungsrecht](/schuldrecht-at/index.md).
+Die Nacherfüllung ist vorrangig: Rücktritt, Minderung und Schadensersatz statt der Leistung setzen regelmäßig voraus, dass dem Verkäufer zuvor erfolglos eine angemessene Frist zur Nacherfüllung gesetzt wurde (oder diese entbehrlich war). § 437 schafft keine eigenen Voraussetzungen, sondern verknüpft das Kaufrecht mit dem allgemeinen [Leistungsstörungsrecht](/schuldrecht-at/verzug.md).
 
 # Citations
 

@@ -31,7 +31,7 @@ Damit wird die wirtschaftliche Doppelbelastung von Körperschaft- und Einkommens
 
 # Bezug
 
-Die Rechtsform aus dem [Gesellschaftsrecht](/handels-gesellschaftsrecht/index.md) bestimmt die Besteuerung: Trennungsprinzip bei Kapital-, Transparenzprinzip bei Personengesellschaften. Verfahren und Bescheide laufen über die [Abgabenordnung](/steuerrecht/abgabenordnung-und-verfahren.md); die laufende Besteuerung der natürlichen Person regelt die [Einkommensteuer](/steuerrecht/einkommensteuer.md).
+Die Rechtsform aus dem [Gesellschaftsrecht](/handels-gesellschaftsrecht/gmbh.md) bestimmt die Besteuerung: Trennungsprinzip bei Kapital-, Transparenzprinzip bei Personengesellschaften. Verfahren und Bescheide laufen über die [Abgabenordnung](/steuerrecht/abgabenordnung-und-verfahren.md); die laufende Besteuerung der natürlichen Person regelt die [Einkommensteuer](/steuerrecht/einkommensteuer.md).
 
 # Citations
 

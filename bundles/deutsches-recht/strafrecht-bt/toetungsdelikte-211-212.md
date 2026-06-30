@@ -24,6 +24,10 @@ Der Mörder wird mit **lebenslanger** Freiheitsstrafe bestraft. Mörder ist, wer
 
 Das Verhältnis von § 211 zu § 212 ist umstritten (selbständiger Tatbestand nach der Rechtsprechung, Qualifikation nach der herrschenden Lehre); die Einordnung wirkt sich auf die Teilnahme aus. Ein minder schwerer Fall des Totschlags steht in § 213.
 
+# Siehe auch
+
+Mord und Totschlag folgen dem allgemeinen [Aufbau der Straftat](/strafrecht-at/aufbau-der-straftat.md); zentral ist der [Vorsatz](/strafrecht-at/vorsatz-und-irrtum-15-16.md).
+
 # Citations
 
 [1] [§ 211 StGB](https://www.gesetze-im-internet.de/stgb/__211.html)

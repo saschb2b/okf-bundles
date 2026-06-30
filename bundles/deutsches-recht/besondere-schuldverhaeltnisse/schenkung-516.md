@@ -21,6 +21,10 @@ Das **Schenkungsversprechen** bedarf zu seiner Wirksamkeit der **notariellen Beu
 - **Verarmung (§ 528).** Wird der Schenker nach der Schenkung außerstande, seinen angemessenen Unterhalt zu bestreiten, kann er das Geschenk zurückfordern.
 - **Grober Undank (§ 530).** Die Schenkung kann widerrufen werden, wenn sich der Beschenkte durch eine schwere Verfehlung gegen den Schenker oder einen nahen Angehörigen groben Undanks schuldig macht.
 
+# Siehe auch
+
+Das Schenkungsversprechen ist nach § 518 nur mit notarieller [Form](/bgb-at/form.md) wirksam; der formlose Vollzug heilt den Formmangel.
+
 # Citations
 
 [1] [§ 516 BGB](https://www.gesetze-im-internet.de/bgb/__516.html)

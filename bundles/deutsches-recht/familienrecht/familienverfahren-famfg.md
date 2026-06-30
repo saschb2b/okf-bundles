@@ -31,7 +31,7 @@ Das Gericht kann durch **einstweilige Anordnung** eine vorläufige Regelung tref
 
 # Bezug
 
-Das Verfahren setzt die materiellen Regeln durch: [Scheidung](/familienrecht/scheidung-1565.md), [Versorgungsausgleich](/familienrecht/versorgungsausgleich.md), [Ehewohnung und Haushalt](/familienrecht/ehewohnung-und-haushalt-1361b-1568a.md), [elterliche Sorge](/familienrecht/elterliche-sorge-1626.md), [Adoption](/familienrecht/adoption-1741.md) und [Gewaltschutz](/familienrecht/gewaltschutz-gewschg.md). Es steht neben dem [Zivilprozess](/zivilprozess/index.md), folgt aber eigenen, vom Amtsermittlungsgrundsatz geprägten Regeln.
+Das Verfahren setzt die materiellen Regeln durch: [Scheidung](/familienrecht/scheidung-1565.md), [Versorgungsausgleich](/familienrecht/versorgungsausgleich.md), [Ehewohnung und Haushalt](/familienrecht/ehewohnung-und-haushalt-1361b-1568a.md), [elterliche Sorge](/familienrecht/elterliche-sorge-1626.md), [Adoption](/familienrecht/adoption-1741.md) und [Gewaltschutz](/familienrecht/gewaltschutz-gewschg.md). Es steht neben dem [Zivilprozess](/zivilprozess/klageerhebung-253.md), folgt aber eigenen, vom Amtsermittlungsgrundsatz geprägten Regeln.
 
 # Citations
 

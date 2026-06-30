@@ -24,6 +24,10 @@ Das Erhöhungsverlangen ist in Textform zu begründen, etwa durch einen Mietspie
 
 Die Mieterhöhung im laufenden Verhältnis (§ 558) ist von der **Mietpreisbremse** bei Wiedervermietung zu unterscheiden: In angespannten Wohnungsmärkten darf die Miete zu Mietbeginn höchstens 10 Prozent über der ortsüblichen Vergleichsmiete liegen (§ 556d).
 
+# Siehe auch
+
+Die Miete ist die Hauptleistungspflicht des Mieters aus dem [Mietvertrag](/mietrecht/mietvertrag-pflichten-535.md).
+
 # Citations
 
 [1] [§ 558 BGB](https://www.gesetze-im-internet.de/bgb/__558.html)

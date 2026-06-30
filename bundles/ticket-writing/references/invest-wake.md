@@ -13,7 +13,7 @@ Bill Wake coined INVEST (Independent, Negotiable, Valuable, Estimable, Small, Te
 
 # Cited by
 
-[INVEST](/techniques/invest.md), [vertical slicing](/techniques/vertical-slicing.md), and most of the [smells](/smells/index.md).
+[INVEST](/techniques/invest.md), [vertical slicing](/techniques/vertical-slicing.md), and most of the [smells](/smells/iceberg.md).
 
 # Citations
 

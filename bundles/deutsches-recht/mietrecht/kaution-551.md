@@ -17,6 +17,10 @@ timestamp: 2026-06-18T12:00:00Z
 - **Getrennte Anlage (§ 551 Abs. 3).** Der Vermieter hat eine Geldsicherheit getrennt von seinem Vermögen anzulegen; die Erträge stehen dem Mieter zu und erhöhen die Sicherheit.
 - **Abweichungsverbot (§ 551 Abs. 4).** Eine zum Nachteil des Mieters abweichende Vereinbarung ist unwirksam.
 
+# Siehe auch
+
+Die Kaution sichert die Ansprüche aus dem [Mietvertrag](/mietrecht/mietvertrag-pflichten-535.md).
+
 # Citations
 
 [1] [§ 551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)

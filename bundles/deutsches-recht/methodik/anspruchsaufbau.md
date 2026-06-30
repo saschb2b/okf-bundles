@@ -24,7 +24,7 @@ Bei mehreren in Betracht kommenden Grundlagen gilt eine übliche Prüfungsreihen
 
 # Bezug
 
-Jede Stufe greift auf Konzepte des [BGB AT](/bgb-at/index.md) und des [Schuldrecht AT](/schuldrecht-at/index.md) zu. Die Darstellung folgt dem [Gutachtenstil](/methodik/gutachtenstil.md).
+Jede Stufe greift auf Konzepte des [BGB AT](/bgb-at/willenserklaerung.md) und des [Schuldrecht AT](/schuldrecht-at/verzug.md) zu. Die Darstellung folgt dem [Gutachtenstil](/methodik/gutachtenstil.md).
 
 # Citations
 

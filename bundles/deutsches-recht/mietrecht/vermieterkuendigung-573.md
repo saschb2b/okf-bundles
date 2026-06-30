@@ -26,6 +26,10 @@ Die Kündigung ist spätestens am **dritten Werktag eines Kalendermonats zum Abl
 
 Gegen eine wirksame Kündigung kann der Mieter unter Härtegesichtspunkten die Fortsetzung verlangen (Sozialklausel, § 574). Die fristlose Kündigung bei Zahlungsverzug richtet sich nach § 543, § 569.
 
+# Siehe auch
+
+Die Kündigung beendet das Mietverhältnis aus dem [Mietvertrag](/mietrecht/mietvertrag-pflichten-535.md).
+
 # Citations
 
 [1] [§ 573 BGB](https://www.gesetze-im-internet.de/bgb/__573.html)

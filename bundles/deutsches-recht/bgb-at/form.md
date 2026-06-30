@@ -26,7 +26,7 @@ Welche Geschäfte welche Form verlangen, ergibt sich aus der jeweiligen Einzelvo
 
 # Bezug
 
-Eine formbedürftige Erklärung ist trotz wirksamer [Willenserklärung](/bgb-at/willenserklaerung.md) nichtig, wenn die Form fehlt. Die AGB-rechtliche Schriftform- und Textformproblematik behandelt das Gebiet [AGB-Kontrolle](/agb-kontrolle/index.md).
+Eine formbedürftige Erklärung ist trotz wirksamer [Willenserklärung](/bgb-at/willenserklaerung.md) nichtig, wenn die Form fehlt. Die AGB-rechtliche Schriftform- und Textformproblematik behandelt das Gebiet [AGB-Kontrolle](/agb-kontrolle/inhaltskontrolle-307.md).
 
 # Citations
 

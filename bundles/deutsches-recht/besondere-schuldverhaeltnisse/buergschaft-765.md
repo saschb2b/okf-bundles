@@ -24,6 +24,10 @@ Die Bürgschaftserklärung bedarf der **Schriftform**; die elektronische Form is
 
 Der Bürge kann die Befriedigung des Gläubigers verweigern, solange dieser nicht erfolglos die Zwangsvollstreckung gegen den Hauptschuldner versucht hat (Einrede der Vorausklage, § 771). Bei der praktisch häufigen **selbstschuldnerischen Bürgschaft** ist diese Einrede ausgeschlossen (§ 773 Abs. 1 Nr. 1).
 
+# Siehe auch
+
+Die Bürgschaftserklärung des Bürgen bedarf nach § 766 der [Schriftform](/bgb-at/form.md).
+
 # Citations
 
 [1] [§ 765 BGB](https://www.gesetze-im-internet.de/bgb/__765.html)

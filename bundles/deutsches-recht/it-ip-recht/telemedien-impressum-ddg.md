@@ -38,7 +38,7 @@ Abgestufte Haftung danach, ob eigene oder fremde Inhalte betroffen sind:
 
 # Bezug
 
-Die Impressumspflicht trifft jeden gewerblichen Betreiber eines digitalen Dienstes, ergänzend zum [Datenschutz](/it-ip-recht/datenschutz-dsgvo-bdsg.md) (Datenschutzerklärung) und zur [Fernabsatz-](/besondere-schuldverhaeltnisse/index.md) und Verbraucherinformation im Onlinehandel.
+Die Impressumspflicht trifft jeden gewerblichen Betreiber eines digitalen Dienstes, ergänzend zum [Datenschutz](/it-ip-recht/datenschutz-dsgvo-bdsg.md) (Datenschutzerklärung) und zur [Fernabsatz-](/besondere-schuldverhaeltnisse/werkvertrag-631.md) und Verbraucherinformation im Onlinehandel.
 
 # Citations
 
