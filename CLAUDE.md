@@ -36,6 +36,20 @@ A bundle is conformant when every concept document carries YAML frontmatter with
 4. Add a row to the Bundles table in `README.md`.
 5. Validate before committing. `/okf validate bundles/<bundle>` checks one bundle; `node scripts/check-bundles.mjs` gates the whole repo (it wraps the same checker over every bundle and warns on a missing README row). `scripts/okf-validate.mjs` is a vendored copy of the skill's `okf-validate.mjs`, kept in sync so the repo gate still runs where the skill is not installed.
 
+## Staying conformant
+
+Every bundle must stay conformant at all times, not just at creation. Before committing any change that touches a bundle, run the gate and fix what it flags:
+
+- `node scripts/check-bundles.mjs` validates every bundle in the repo; `node scripts/okf-validate.mjs bundles/<bundle>` checks one. The gate must report 0 errors. Treat its warnings (a non-ISO `log.md` date, a missing README row, a link whose target file is absent) as fix-on-sight, not noise.
+
+The checker verifies the hard rule (every concept has a `type`) and that link targets exist as files. It does not check that the bundle reads as a clean graph, which an OKF consumer (and the graph visualizer) cares about. Hold these too:
+
+- **Link concepts to concepts, never to an `index.md` listing or an in-page `#anchor`.** An `index.md` is navigation, not a concept node, so a concept that links to one is a dangling edge to a graph consumer even though the file exists and the checker stays silent. Point at the section's landing concept or a representative concept instead. The `index.md` files themselves may link to other `index.md` files: that is navigation, and it is fine.
+- **No orphans.** Every concept should link to, or be linked from, at least one other concept. A concept with no edges is invisible to graph navigation; give it a `# Related` cross-link or weave one into its prose.
+- Quick checks: `grep -rn '](/[^)]*index\.md)' bundles/<bundle> --include='*.md'` finds concept-to-index links (ignore hits inside `index.md` files); a concept with no outbound `](/...md)` link and no inbound link is an orphan to wire up.
+
+This is the same discipline as Implicit mode: when you touch a concept, leave the bundle both validator-clean and graph-clean in the same change.
+
 ## Concept format
 
 ```markdown
