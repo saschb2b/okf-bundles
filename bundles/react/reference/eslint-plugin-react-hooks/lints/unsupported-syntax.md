@@ -57,6 +57,10 @@ function Calculator({ expression }) {
 
 Never use `eval` with user input, it is a security risk. Use dedicated parsing libraries for math expressions, JSON, or templates.
 
+# Related
+
+This lint flags syntax the compiler cannot optimize. See the [React Compiler introduction](/react-compiler/introduction.md) for what the compiler supports.
+
 # Citations
 
 [1] [unsupported-syntax](https://react.dev/reference/eslint-plugin-react-hooks/lints/unsupported-syntax)

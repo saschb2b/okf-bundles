@@ -48,6 +48,10 @@ function useOnlineStatus() {
 
 - It is most valuable for custom Hooks that are part of shared libraries and have a complex internal data structure that is hard to inspect. Do not add debug values to every custom Hook.
 
+# Related
+
+Adds a label to the [custom Hooks](/escape-hatches/reusing-logic-with-custom-hooks.md) you build, shown next to them in React DevTools.
+
 # Citations
 
 [1] [useDebugValue](https://react.dev/reference/react/useDebugValue)

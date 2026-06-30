@@ -55,6 +55,10 @@ setUser({
 });
 ```
 
+# Related
+
+This lint backs the purity rule in [Keeping Components Pure](/describing-the-ui/keeping-components-pure.md), and the same discipline appears in [Updating Objects in State](/adding-interactivity/updating-objects-in-state.md): React state and props must not be mutated in place.
+
 # Citations
 
 [1] [immutability](https://react.dev/reference/eslint-plugin-react-hooks/lints/immutability)

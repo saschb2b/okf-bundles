@@ -48,6 +48,10 @@ useEffect(() => {
 }, [theme]);
 ```
 
+# Related
+
+Related to manual memoization with [useMemo](/reference/react/hooks/useMemo.md) and the compiler-driven ["use memo" directive](/reference/react-compiler/directives/use-memo.md).
+
 # Citations
 
 [1] [use-memo](https://react.dev/reference/eslint-plugin-react-hooks/lints/use-memo)

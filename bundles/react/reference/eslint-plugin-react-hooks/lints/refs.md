@@ -53,6 +53,10 @@ For UI values that should drive rendering, use state instead of a ref.
 
 If the lint flags a plain object that happens to have a `.current` property, the name heuristic is treating `ref.current` or `fooRef.current` as a real ref. Rename the variable (for example `box`) so the compiler stops inferring it as a ref, or move the mutable value into state.
 
+# Related
+
+See [Referencing Values with Refs](/escape-hatches/referencing-values-with-refs.md) and [useRef](/reference/react/hooks/useRef.md) for why a ref must not be read or written during render.
+
 # Citations
 
 [1] [refs](https://react.dev/reference/eslint-plugin-react-hooks/lints/refs)

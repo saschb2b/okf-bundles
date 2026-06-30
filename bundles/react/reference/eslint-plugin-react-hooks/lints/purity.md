@@ -54,7 +54,7 @@ function Clock() {
 
 # Related
 
-This lint enforces the conceptual rule [Components and Hooks must be pure](/reference/rules/components-and-hooks-must-be-pure.md), part of the [Rules of React](/reference/rules/index.md).
+This lint enforces the conceptual rule [Components and Hooks must be pure](/reference/rules/components-and-hooks-must-be-pure.md), part of the [Rules of React](/reference/rules/rules-of-hooks.md).
 
 # Citations
 

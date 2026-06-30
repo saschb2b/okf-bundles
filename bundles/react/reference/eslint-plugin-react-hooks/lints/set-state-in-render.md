@@ -52,6 +52,10 @@ const increment = () => setCount(current => Math.min(current + 1, max));
 
 Now the setter only runs in response to the click, render finishes normally, and `count` never crosses `max`. Adjusting state from previous renders should use the conditional pattern shown above only when truly needed.
 
+# Related
+
+See [State as a Snapshot](/adding-interactivity/state-as-a-snapshot.md) and [useState](/reference/react/hooks/useState.md) for why setting state straight from render usually signals a design problem.
+
 # Citations
 
 [1] [set-state-in-render](https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-render)

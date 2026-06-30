@@ -52,5 +52,9 @@ console.error = function patchedConsoleError(...args) {
 - `null` is returned when the call happened outside a React controlled function (a `setTimeout` callback, after a `fetch`, or a custom DOM event handler). Call it earlier, for example in a `useEffect` body.
 - The export is only present in development builds and is `undefined` in production. Use conditional access via a namespace import.
 
+# Related
+
+A development-only diagnostic, like [<StrictMode>](/reference/react/components/StrictMode.md), for surfacing where in the component tree a problem originates.
+
 # Citations
 [1] [captureOwnerStack](https://react.dev/reference/react/captureOwnerStack)

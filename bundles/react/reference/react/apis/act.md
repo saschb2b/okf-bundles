@@ -53,5 +53,9 @@ await act(async () => {
 
 - `act` requires `global.IS_REACT_ACT_ENVIRONMENT = true` in your test environment. Without it you get the error "The current testing environment is not configured to support act(...)". Frameworks like React Testing Library set this flag for you.
 
+# Related
+
+In tests you wrap rendering done with [createRoot](/reference/react-dom/client/createRoot.md) in `act()`, which also flushes the [Effects](/reference/react/hooks/useEffect.md) those renders schedule.
+
 # Citations
 [1] [act](https://react.dev/reference/react/act)

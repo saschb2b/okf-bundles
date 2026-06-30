@@ -93,7 +93,7 @@ You can configure custom effect hooks through shared ESLint settings (available 
 
 # Related
 
-This lint enforces the conceptual rule documented at [Rules of Hooks](/reference/rules/rules-of-hooks.md), which is part of the broader [Rules of React](/reference/rules/index.md).
+This lint enforces the conceptual rule documented at [Rules of Hooks](/reference/rules/rules-of-hooks.md), which is part of the broader [Rules of React](/reference/rules/components-and-hooks-must-be-pure.md).
 
 # Citations
 
