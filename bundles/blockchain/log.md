@@ -1,0 +1,4 @@
+## 2026-07-07
+
+* **Update**: Added the `cardano/` chain folder (9 concepts): overview, Ouroboros, EUTXO, native tokens, Plutus, ADA monetary policy, the hard fork combinator, Voltaire governance, and the full hard-fork history through van Rossem (2026-06-18). Made `comparison/utxo-vs-account` three-way with EUTXO, added a Cardano section to `comparison/design-philosophy`, and threaded Cardano into the shared `proof-of-stake` and `fork` primitives. Extended the root index and overview.
+* **Creation**: Started the blockchain bundle. Scaffolded the shared `concepts/` primitives layer and the first two chain folders, `bitcoin/` and `ethereum/`, plus a `comparison/` area for explicit contrasts. Design: chain-agnostic primitives live once; each chain links back to them so the differences fall out of the graph.
