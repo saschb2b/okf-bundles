@@ -18,6 +18,14 @@ React Compiler is a build-time tool that automatically optimizes your React app 
 - Learn [strategies for gradually adopting React Compiler](incremental-adoption.md) in an existing codebase when you are not ready to enable it everywhere.
 - Use the [debugging guide](debugging.md) to tell compiler errors from runtime issues, spot common breaking patterns, and follow a systematic debugging workflow.
 
+# Going deeper
+
+For a full technical and ecosystem picture beyond the official docs:
+
+- [How the Compiler Works](how-it-works.md) walks the build-time pipeline end to end, and the [Memoization Model](memoization-model.md) explains the generated `_c` cache and why cascades stop.
+- [Adoption Timeline](adoption-timeline.md) and [Production Experience](production-experience.md) cover the two-year arc and what teams actually reported.
+- [Linting for the Compiler](linting.md) and the [Migration Playbook](migration-playbook.md) are the actionable path to adopting it, and the [Roadmap](roadmap.md) tracks what comes next.
+
 # Configuration and reference
 
 For detailed configuration options and API reference, see the reference-side concepts:

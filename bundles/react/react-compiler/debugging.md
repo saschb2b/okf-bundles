@@ -4,7 +4,7 @@ title: Debugging and Troubleshooting
 description: How to tell compiler errors from runtime issues, recognize common breaking patterns, follow a debugging workflow, and report compiler bugs.
 resource: https://react.dev/learn/react-compiler/debugging
 tags: [react, react-compiler, debugging, troubleshooting, rules-of-react]
-timestamp: 2026-06-30T12:00:00Z
+timestamp: 2026-07-24T12:00:00Z
 ---
 
 # Summary
@@ -62,6 +62,8 @@ If you believe you found a compiler bug:
 
 - Review the [Rules of React](/reference/rules/rules-of-hooks.md) to prevent issues.
 - Check the [incremental adoption guide](incremental-adoption.md) for gradual rollout strategies.
+- Catch violations before they reach the compiler with [linting for the compiler](linting.md), and recognize the [silent opt-out failure mode](production-experience.md) that makes some issues so hard to spot.
+- Understand why a bail is safe rather than a crash in [how the compiler works](how-it-works.md).
 
 # Citations
 

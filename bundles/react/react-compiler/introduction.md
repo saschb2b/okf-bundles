@@ -4,7 +4,7 @@ title: Introduction
 description: What React Compiler is, what it optimizes, whether to adopt it, supported build tools, and how it interacts with existing manual memoization.
 resource: https://react.dev/learn/react-compiler/introduction
 tags: [react, react-compiler, memoization, re-renders, build-tools]
-timestamp: 2026-06-30T12:00:00Z
+timestamp: 2026-07-24T12:00:00Z
 ---
 
 # Summary
@@ -79,6 +79,10 @@ By default the compiler memoizes based on its own analysis and heuristics, usual
 - React Compiler optimizes at build time, replacing most manual memoization.
 - Adopt it incrementally if needed, then debug runtime issues by hunting Rules of React violations.
 - Next: [install the compiler](installation.md), plan [incremental adoption](incremental-adoption.md), and learn [debugging](debugging.md).
+
+# Going deeper
+
+To understand the machinery rather than just the promise, see [how the compiler works](how-it-works.md) and the [memoization model](memoization-model.md). For the ecosystem story and a field-tested rollout, see the [adoption timeline](adoption-timeline.md), [production experience](production-experience.md), and the [migration playbook](migration-playbook.md).
 
 # Citations
 
