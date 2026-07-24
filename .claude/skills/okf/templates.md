@@ -1,6 +1,173 @@
 # OKF templates
 
-Copy, fill, validate. Every example uses bundle-absolute links (beginning with `/`) because the spec recommends them for stability. Relative links like `customers.md` are equally valid. Rules behind these shapes are in [spec.md](./spec.md).
+Copy, fill, validate. Every example uses bundle-absolute links (beginning with `/`) because the spec recommends them for stability. Relative links like `customers.md` are equally valid. Rules behind these shapes are in [spec.md](./spec.md); the form-per-fact table they follow (diagrams for topology, TeX for formulas, definition lists for terms, task lists for stateful checklists, footnotes for caveats) is in [SKILL.md](./SKILL.md).
+
+## Structured work artifact envelope
+
+In OKF Studio, when a capability names an artifact contract and a work surface is useful, end the response with one fenced `okf-artifact` JSON object. Studio validates this object in Rust before rendering it as trusted work. Prose outside the fence remains conversation text. Invalid artifact JSON also remains prose, so do not describe an unvalidated object as a Studio work surface. Outside Studio, return the same substance in ordinary prose, markdown, or a diff unless the caller explicitly asks for this envelope; never fabricate a fingerprint just to fill the template.
+
+Call `okf_health_summary` immediately before emitting the artifact and copy its exact `bundleFingerprint`. Keep the same portable `artifactId` across revisions. Start at revision 1 with a null `parentRevision`; each continuation increments `revision` and names the previous revision as its parent. A revision sent back by Studio is explicit context: continue from it, never replace it with an older update.
+
+```okf-artifact
+{
+  "schemaVersion": 1,
+  "artifactId": "impact-agent-panel",
+  "kind": "change-impact-map",
+  "revision": 1,
+  "parentRevision": null,
+  "bundleFingerprint": "<exact value from okf_health_summary>",
+  "title": "Agent Panel change impact",
+  "status": "complete",
+  "summary": "The panel contract affects its host boundary and reviewed staging.",
+  "conceptPaths": ["features/agent-panel.md", "architecture/agent-system.md"],
+  "sources": [
+    {
+      "id": "agent-panel",
+      "label": "Agent Panel",
+      "kind": "bundle",
+      "reference": "features/agent-panel.md"
+    }
+  ],
+  "citations": [
+    {
+      "sourceId": "agent-panel",
+      "claim": "The Agent Panel keeps writes behind reviewed staging."
+    }
+  ],
+  "fields": [
+    {
+      "id": "target",
+      "label": "Target",
+      "value": "features/agent-panel.md",
+      "editable": true
+    },
+    {
+      "id": "proposed-change",
+      "label": "Proposed change",
+      "value": "Add a persistent structured-work surface.",
+      "editable": true
+    }
+  ],
+  "items": [
+    {
+      "id": "inspect-host",
+      "label": "Inspect the host contract",
+      "detail": "Trace direct links before proposing edits.",
+      "status": "complete",
+      "conceptPath": "features/agent-panel.md",
+      "sourceIds": ["agent-panel"]
+    }
+  ]
+}
+```
+
+The closed values are:
+
+- `kind`: `source-inventory`, `bundle-plan`, `health-report`, `research-brief`, `change-impact-map`, `migration-plan`, `writing-revision`, or `staged-revision`.
+- `status`: `partial` or `complete`.
+- source `kind`: `bundle`, `attachment`, or `external`. Bundle references are current bundle-relative concept paths, attachment references are portable attachment IDs, and external references are HTTPS URLs.
+- item `status`: `pending`, `in-progress`, `complete`, `blocked`, `advisory`, `unchanged`, `reworded`, `added`, or `removed`. The last four are reserved for a writing revision's claim ledger.
+
+Use bundle-relative Markdown concept paths without a leading slash. Paths may name proposed concepts in `conceptPaths` and `items[].conceptPath`, but a `bundle` source must name a current concept. Every citation and item source ID must resolve within the same object. External research evidence requires claim-level citations.
+
+Each complete artifact has required field IDs:
+
+- `source-inventory`: `scope`
+- `bundle-plan`: `destination`, `scope`
+- `health-report`: `health-summary`
+- `research-brief`: `question`, `conclusion`
+- `change-impact-map`: `target`, `proposed-change`
+- `migration-plan`: `source-version`, `target-version`, `rollback`
+- `writing-revision`: `reader-job`, `purpose`, `revision-mode`
+- `staged-revision`: `revision-summary`
+
+Use `partial` when a required field is not yet known. Only planning artifacts (`source-inventory`, `bundle-plan`, `research-brief`, `change-impact-map`, `migration-plan`, and `writing-revision`) may set `editable: true`; those edits remain local until the user explicitly sends a new revision. A `staged-revision` describes reviewed work but does not apply it. Export to conformant Markdown only through reviewed staging.
+
+### Writing revision claim ledger
+
+A `writing-revision` uses `items` as a complete claim ledger. Set `revision-mode` to `style-only` or `enrichment`. Each item names one claim, its before and after text, its status, the affected concept, and the source IDs supporting it. A style-only revision may use only `unchanged` and `reworded`; additions and removals require enrichment scope, and every added claim requires a source.
+
+```okf-artifact
+{
+  "schemaVersion": 1,
+  "artifactId": "revise-refund-definition",
+  "kind": "writing-revision",
+  "revision": 1,
+  "parentRevision": null,
+  "bundleFingerprint": "<exact value from okf_health_summary>",
+  "title": "Refund definition revision",
+  "status": "complete",
+  "summary": "Clarifies the settlement boundary without changing the metric.",
+  "conceptPaths": ["metrics/net-revenue.md"],
+  "sources": [
+    {
+      "id": "net-revenue",
+      "label": "Net revenue",
+      "kind": "bundle",
+      "reference": "metrics/net-revenue.md"
+    }
+  ],
+  "citations": [],
+  "fields": [
+    {
+      "id": "reader-job",
+      "label": "Reader job",
+      "value": "Determine when refunds leave net revenue.",
+      "editable": true
+    },
+    {
+      "id": "purpose",
+      "label": "Purpose",
+      "value": "Make the settlement qualifier explicit.",
+      "editable": true
+    },
+    {
+      "id": "revision-mode",
+      "label": "Revision mode",
+      "value": "style-only",
+      "editable": false
+    }
+  ],
+  "items": [
+    {
+      "id": "claim-refund-settlement",
+      "label": "Refund settlement boundary",
+      "detail": "Reworded while preserving the settlement qualifier.",
+      "status": "reworded",
+      "conceptPath": "metrics/net-revenue.md",
+      "before": "Refunds are excluded from revenue only after settlement.",
+      "after": "Revenue excludes a refund after it settles.",
+      "sourceIds": ["net-revenue"]
+    }
+  ]
+}
+```
+
+## Coverage inventory (the export/enrich work-list)
+
+Before writing a single concept when producing from a source (`export`, `enrich`), enumerate the *whole* surface into a checklist and burn it down. This is the artifact that stops a producer at the front door. Enumerate the way the source lets you: a database's table list, an OpenAPI spec's `paths`, a wiki's page tree, a website's `sitemap.xml` plus its section and listing pages. One discovered unit is one row; keep the list (in scratch, or as a `log.md` note) until every row is a concept or a recorded skip.
+
+```markdown
+# Coverage inventory: <source name> (<source root>), <N> units discovered
+Discovery: <how the surface was enumerated — e.g. INFORMATION_SCHEMA, spec paths, sitemap.xml + section indexes>
+
+- [ ] <unit> → <concept/path.md>          # one row per unit the source contains
+- [ ] <unit> → <concept/path.md>
+- [ ] <unit> → <concept/path.md>
+- [~] <unit> → skipped: <reason>          # record skips; do not drop silently
+```
+
+`N` is the count of units the source actually contains, not a target you may round down. If enumeration found fifty, a bundle of a dozen files has not covered the source. The rows are whatever the source's units are — tables and views, API operations, wiki pages, or a site's articles, entries, and catalog items — grouped into concept folders by domain.
+
+The inventory grows while you write: the entity pass (`enrich` step 4) appends a second section for the load-bearing names concepts use but never explain — technologies, organizations, products, people, standards, domain terms. Same discipline: every row ends as a concept or a recorded skip, and the mention itself is rewritten as a link.
+
+```markdown
+# Entities: <M> names mentioned but unexplained
+- [ ] React → /technologies/react.md              (mentioned in: /expertise.md, /articles/…)
+- [ ] Wertarbyte GmbH → /companies/wertarbyte.md  (mentioned in: /career.md, /projects/…)
+- [ ] MCP → /glossary/mcp.md                      (mentioned in: /mcp-servers/index.md, /articles/…)
+- [~] GmbH → skipped: legal form, one glossary sentence at most, not load-bearing
+```
 
 ## Concept document
 
@@ -99,6 +266,11 @@ timestamp: 2026-05-28T14:30:00Z
 # Joins
 Joined with [customers](/tables/customers.md) on `customer_id`. One customer has many orders.
 
+\`\`\`mermaid
+erDiagram
+  customers ||--o{ orders : "customer_id"
+\`\`\`
+
 # Examples
 \`\`\`sql
 SELECT customer_id, SUM(amount_usd) AS lifetime_value
@@ -125,8 +297,14 @@ timestamp: 2026-06-01T09:00:00Z
 
 # Definition
 A user is "active" on a day if they emit at least one event in [events](/tables/events.md)
-whose `event_name` is in the qualifying set. WAU on date D is the count of distinct
-`user_id` active on any day in the inclusive window `[D-6, D]`.
+whose `event_name` is in the qualifying set. WAU on date D counts users active anywhere
+in the trailing window:
+
+$$
+\mathrm{WAU}(D) = \left|\{\, u \mid \exists\, d \in [D-6,\, D] : \mathrm{active}(u, d) \,\}\right|
+$$
+
+The formula is the contract; the prose above says what "active" means.
 
 # Examples
 \`\`\`sql
@@ -160,14 +338,82 @@ timestamp: 2026-06-10T17:45:00Z
 The `orders_daily_load` job reports a non-zero exit, or [orders](/tables/orders.md)
 is missing yesterday's partition.
 
+# Preflight
+Confirm before touching anything:
+
+- [ ] The job logs identify the failing stage
+- [ ] The source export for yesterday actually completed
+- [ ] No schema-change PR merged since the last green run
+
 # Steps
-1. Check the job logs for the failing stage.
-2. If the source export is late, wait and re-run; do not backfill by hand.
-3. If the schema changed, update [orders](/tables/orders.md) and the load config together.
-4. Re-run `orders_daily_load` for the missing partition only.
+1. If the source export is late, wait and re-run; do not backfill by hand[^backfill].
+2. If the schema changed, update [orders](/tables/orders.md) and the load config together.
+3. Re-run `orders_daily_load` for the missing partition only.
 
 # Escalation
 Page the data-platform on-call if the partition is still missing after one re-run.
+
+[^backfill]: Hand backfills bypass the dedupe stage and have produced double-counted revenue twice; see the 2026-03 incident review.
+```
+
+## Worked example: a glossary
+
+`glossary.md`. Term meanings are definition lists, not bullet prose; a caveat too small for `# Citations` is a footnote. The glossary is the home for a term whose whole story is one or two sentences; an entity with its own facts, history, or relationships graduates to its own concept (next example).
+
+```markdown
+---
+type: Glossary
+title: Sales terms
+description: What the sales bundle's recurring terms mean, in one place.
+tags: [sales, terminology]
+timestamp: 2026-06-12T08:00:00Z
+---
+
+# Terms
+
+Order
+: A completed checkout. Draft carts are not orders[^carts].
+
+Lifetime value
+: A customer's summed order totals, $\mathrm{LTV} = \sum_i \mathrm{amount\_usd}_i$,
+  over [orders](/tables/orders.md).
+
+Active user
+: Defined by [weekly active users](/metrics/weekly_active_users.md); do not redefine
+  per report.
+
+[^carts]: Carts live in the app database and never reach the warehouse export.
+```
+
+## Worked example: an entity concept (the entity pass)
+
+`technologies/react.md`. The shape the entity pass (`enrich` step 4) mints for a name the source uses but never explains — here, one of thirty technologies a CV listed as bare text. What the source lacks, the concept supplies: a self-contained explanation from the entity's authoritative home and producer knowledge, then the entity's role *in this bundle*, linked both ways so the skills table's "React" cell now points here and this concept points back. `# Citations` says what each source contributed, so verified and recalled facts stay distinguishable.
+
+```markdown
+---
+type: Technology
+title: React
+description: The declarative UI library most of the portfolio's frontend work builds on.
+resource: https://react.dev
+tags: [frontend, library, javascript]
+timestamp: 2026-07-16T09:00:00Z
+---
+
+React is a declarative JavaScript library for building component-based user
+interfaces, maintained by Meta and a large open-source community. Components
+describe their UI as a function of state; React reconciles changes against the
+DOM. Since React 19, the React Compiler handles memoization automatically.
+
+# Role in this bundle
+The primary frontend library in [technical expertise](/expertise.md), used
+across most [projects](/projects/synthwave-drive.md) and examined in articles
+such as [React state management in 2026](/articles/react-state-management-2026.md)
+and [React structure, then and now](/articles/react-structure-then-and-now.md).
+
+# Citations
+[1] [react.dev](https://react.dev) — official documentation; the definition above.
+[2] [Work — saschb2b.com](https://www.saschb2b.com/work) — where the source names it.
+[3] Producer knowledge (2026-07-16) — the React 19 compiler note; verify against [1].
 ```
 
 ## Worked example: an external page mirrored as a reference
