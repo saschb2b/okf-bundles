@@ -40,7 +40,11 @@ for (const name of bundles) {
   }
 
   try {
-    process.stdout.write(execFileSync("node", [validator, dir], { encoding: "utf8" }));
+    // maxBuffer raised well above the default 1 MB: the stricter validator emits a
+    // connectivity warning per orphan, and a bulk corpus (e.g. bgh-rechtsprechung)
+    // legitimately has tens of thousands, which otherwise overflows the buffer and
+    // throws, counting a conformant bundle as failed.
+    process.stdout.write(execFileSync("node", [validator, dir], { encoding: "utf8", maxBuffer: 256 * 1024 * 1024 }));
   } catch (e) {
     if (e.stdout) process.stdout.write(e.stdout);
     if (e.stderr) process.stderr.write(e.stderr);
