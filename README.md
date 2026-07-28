@@ -4,6 +4,8 @@
 
 **Expert knowledge, packaged as portable bundles your AI agent can read.**
 
+[![BundleDex](https://bundledex.net/static-badge.svg)](https://bundledex.net)
+
 [![Open Knowledge Format](https://img.shields.io/badge/format-OKF%20v0.1-0969da)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
 [![License](https://img.shields.io/badge/license-MIT-0969da)](./LICENSE)
 
