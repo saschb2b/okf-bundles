@@ -10,8 +10,8 @@ lagerung: Dunkel, trocken, luftdicht, nicht über dem Herd
 haltbarkeit: 6 bis 12 Monate mit vollem Aroma, danach flach
 tags: [gewuerz, mischung, curry, japan]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -50,3 +50,4 @@ Eigene Mischung aus den Einzelgewürzen oben, Garam Masala plus Kurkuma (anders,
 # Wird verwendet in
 
 - [Curry-Roux](/komponenten/curry-roux.md) und darüber im [japanischen Curry](/gerichte/japanisches-curry.md), als Hauptaroma.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), direkt im Topf über dem Fleisch geröstet.

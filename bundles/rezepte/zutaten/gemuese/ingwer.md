@@ -11,8 +11,8 @@ haltbarkeit: 3 Wochen im Kühlschrank, mehrere Monate gefroren
 saison: Ganzjährig, Importware
 tags: [gewuerz, asien, aroma, scharf]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -51,3 +51,7 @@ Galgant (verwandt, harziger), Ingwerpulver in etwa einem Viertel der Menge (ande
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), fein gerieben zusammen mit Knoblauch.
+- [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), in Marinade und Sauce.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), fein gehackt mit dem Knoblauch.
+- [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), zum Brokkoli am Ende.
+- [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md), gerieben in der Fleischmasse.

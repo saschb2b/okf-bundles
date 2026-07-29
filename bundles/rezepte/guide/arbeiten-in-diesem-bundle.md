@@ -38,10 +38,12 @@ Dazu kommen `Küche` für eine Landesküche ([Japanische Küche](/kuechen/japani
 gerichte/           ein Gericht, eine Datei
 komponenten/        Bausteine, die mehrere Gerichte teilen
 zutaten/
-  gemuese/  obst/  fleisch/  gewuerze/  grundzutaten/  wuerzmittel/
+  gemuese/  obst/  fleisch/  fisch/  milch-und-ei/
+  gewuerze/  grundzutaten/  wuerzmittel/  suesswaren/
 techniken/          eine Technik, eine Datei, flach
 kuechen/            eine Landesküche, eine Datei
 guide/              Konventionen und Methoden
+assets/             Bilder, flach, sprechende Dateinamen
 ```
 
 Dateinamen sind klein, ohne Umlaute, mit Bindestrich: `haehnchenschenkel.md`, `reis-kochen-absorptionsmethode.md`. Der Titel im Frontmatter trägt die korrekte Schreibweise mit Umlauten.
@@ -53,8 +55,9 @@ Dateinamen sind klein, ohne Umlaute, mit Bindestrich: `haehnchenschenkel.md`, `r
 3. **Fehlende Techniken anlegen**, jede als eigene Datei. Wenn ein Schritt eine Technik nur benutzt, gehört die Erklärung in die Technik, nicht in das Rezept. Das Rezept sagt „Zwiebeln [anschwitzen](/techniken/anschwitzen.md), bis sie glasig sind", nicht, wie Anschwitzen geht.
 4. **Rückverweise ergänzen.** In jeder verwendeten Zutat eine Zeile unter `# Wird verwendet in`, in jeder verwendeten Technik eine Zeile unter `# Wird gebraucht für`. Dieser Schritt wird am häufigsten vergessen und ist der einzige, der die Rückwärtssuche trägt.
 5. **Indexe aktualisieren**: die `index.md` jedes berührten Ordners und die Wurzel-`index.md`.
-6. **`log.md` ergänzen**, neuester Eintrag oben, Datum als `## JJJJ-MM-TT`.
-7. **Validieren**: `node scripts/okf-validate.mjs bundles/rezepte` aus dem Repo-Wurzelverzeichnis, oder `node scripts/check-bundles.mjs` für alle Bundles.
+6. **Bilder ablegen**, falls vorhanden, unter `assets/<gericht>.jpg`, auf etwa 1600 Pixel Kantenlänge verkleinert, und mit einem **relativen** Pfad (`../assets/…`) einbinden, damit sie auch auf GitHub angezeigt werden. Konzept-zu-Konzept-Links bleiben dagegen bundle-absolut.
+7. **`log.md` ergänzen**, neuester Eintrag oben, Datum als `## JJJJ-MM-TT`.
+8. **Validieren**: `node scripts/okf-validate.mjs bundles/rezepte --strict` aus dem Repo-Wurzelverzeichnis, oder `node scripts/check-bundles.mjs` für alle Bundles.
 
 # Was den Graphen kaputt macht
 
@@ -62,6 +65,12 @@ Dateinamen sind klein, ohne Umlaute, mit Bindestrich: `haehnchenschenkel.md`, `r
 - **Eine Zutat ohne Rückverweis.** Sie ist dann nur über den Index erreichbar und taucht in keiner Rückwärtssuche auf.
 - **Eine Zutat doppelt.** „Frühlingszwiebel" und „Lauchzwiebel" sind dasselbe Konzept. Ein Lebensmittel, eine Datei, die zweite Bezeichnung steht im Fließtext.
 - **Mengen im Zutatenkonzept.** Mengen gehören ins Rezept, das Zutatenkonzept beschreibt das Lebensmittel. Sonst muss jede Zutat bei jedem neuen Gericht angefasst werden.
+
+# Herkunft festhalten
+
+Stammt ein Gericht aus einer eigenen Notiz, gehört diese als `sources`-Eintrag mit `author: human:sascha` ins Frontmatter, verlinkte Videos und Rezeptseiten als eigene Einträge daneben. `generated.by` bleibt davon unberührt: dort steht, wer den Konzepttext geschrieben hat, nicht woher das Rezept stammt.
+
+Wird eine dünne Notiz aus einer fremden Quelle aufgefüllt, muss im Text stehen, wo die Notiz endet und die Ergänzung beginnt. Liegt gar keine Anleitung vor, bekommt das Konzept `status: draft` und eine Liste der offenen Punkte, wie beim [Pulled Beef](/gerichte/pulled-beef.md). `verified` wird nie vorsorglich gesetzt: es steht für ein tatsächlich nachgekochtes und bestätigtes Rezept.
 
 # Was in ein Zutatenkonzept gehört
 

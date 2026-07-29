@@ -1,19 +1,19 @@
 # Zutaten
 
-Jede Zutat ist ein eigenes Konzept mit Sorten, Einkauf, Lagerung, Küchenpraxis, Ersatz und, ganz unten, dem Abschnitt „Wird verwendet in". Dieser letzte Abschnitt trägt die [Rückwärtssuche](../guide/rueckwaertssuche.md): von der vorhandenen Zutat zum möglichen Gericht.
+Jede Zutat ist ein eigenes Konzept mit Sorten, Einkauf, Lagerung, Küchenpraxis, Ersatz und, am wichtigsten für die [Rückwärtssuche](/guide/rueckwaertssuche.md), einem Abschnitt "Wird verwendet in".
 
-Mengen stehen nicht hier, sondern im jeweiligen Rezept.
-
-# Warengruppen
-
-* [Gemüse](gemuese/index.md) - Zwiebelgemüse, Wurzel- und Knollengemüse.
-* [Obst](obst/index.md) - Obst, das in herzhaften Gerichten eingesetzt wird.
-* [Fleisch](fleisch/index.md) - Geflügel, Rind, Schwein.
-* [Gewürze](gewuerze/index.md) - Einzelgewürze, Mischungen und die Grundwürzen.
-* [Grundzutaten](grundzutaten/index.md) - Getreide, Fette, Brühen, also was fast immer im Haus ist.
-* [Würzmittel](wuerzmittel/index.md) - Fermentierte Saucen und Süßungsmittel.
+* [Gemüse](gemuese/index.md) - Frisches Gemüse, Kräuter und Aromaten. 16 Konzepte.
+* [Obst](obst/index.md) - Frisches Obst und Trockenfrüchte. 3 Konzepte.
+* [Fleisch](fleisch/index.md) - Geflügel, Rind und Schwein. 4 Konzepte.
+* [Fisch und Meeresfrüchte](fisch/index.md) - Was aus dem Wasser kommt. 1 Konzept.
+* [Milch und Ei](milch-und-ei/index.md) - Eier, Käse und Milchprodukte. 3 Konzepte.
+* [Grundzutaten](grundzutaten/index.md) - Reis, Mehl, Nudeln, Öle und Vorratsware. 17 Konzepte.
+* [Gewürze](gewuerze/index.md) - Trockengewürze, Kräuter und Salz. 15 Konzepte.
+* [Würzmittel](wuerzmittel/index.md) - Saucen, Essige, Pasten und alles Flüssige zum Würzen. 12 Konzepte.
+* [Süßwaren](suesswaren/index.md) - Schokolade und Kakao. 3 Konzepte.
 
 # Weiter
 
-* [Gerichte](../gerichte/index.md) - Die Rezepte, in denen diese Zutaten vorkommen.
-* [Techniken](../techniken/index.md) - Wie sie behandelt werden.
+* [Techniken](../techniken/index.md)
+* [Gerichte](../gerichte/index.md)
+* [Bundle-Wurzel](../index.md)

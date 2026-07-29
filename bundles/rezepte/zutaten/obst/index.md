@@ -1,8 +1,10 @@
 # Obst
 
-Obst, das hier vor allem in herzhaften Gerichten vorkommt, als Träger von Süße und Säure.
+Frisches Obst und Trockenfrüchte.
 
-* [Apfel](apfel.md) - Süße und Fruchtsäure in einem, gerieben die klassische heimliche Zutat im japanischen Curry.
+* [Apfel](apfel.md) - Fruchtsäure und Süße in einem, im japanischen Curry gerieben die klassische heimliche Zutat.
+* [Limette](limette.md) - Kleine, sehr saure Zitrusfrucht, deren Saft am Ende eines Gerichts Schärfe und Fett auffängt.
+* [Rosine](rosine.md) - Getrocknete Weintraube, die in Schmorgerichten zerfällt und dabei Süße und Fruchtsäure abgibt.
 
 # Weiter
 

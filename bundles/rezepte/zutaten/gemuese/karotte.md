@@ -11,8 +11,8 @@ haltbarkeit: 2 bis 3 Wochen im Kühlschrank, Bundmöhren nur wenige Tage
 saison: Ganzjährig, Freilandernte Juni bis November, Lagerware im Winter
 tags: [gemuese, wurzelgemuese, suess]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -51,3 +51,5 @@ Pastinake (süßer, würziger), Süßkartoffel (deutlich süßer, zerfällt schn
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), in Rangiri geschnitten, für Süße und Biss.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), in groben Stücken mitgekocht.
+- [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), optional als Teil des Gemüses.

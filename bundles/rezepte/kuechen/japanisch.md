@@ -4,8 +4,8 @@ title: Japanische Küche
 description: Die Prinzipien, Grundwürzen und Techniken der japanischen Küche, und wo sie in diesem Bundle auftauchen.
 tags: [kueche, japan, washoku]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Prinzip
@@ -39,3 +39,5 @@ Aus Yōshoku kommt die [Mehlschwitze](/techniken/mehlschwitze.md), die Japan von
 # Gerichte in diesem Bundle
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), Yōshoku, das Alltagsgericht schlechthin.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), dieselbe Familie in der Ein-Topf-Variante.
+- [Onigiri](/gerichte/onigiri.md), Reisbällchen aus gewürztem [Sushi-Reis](/komponenten/sushi-reis.md).

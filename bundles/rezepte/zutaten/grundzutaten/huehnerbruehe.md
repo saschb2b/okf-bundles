@@ -10,8 +10,8 @@ lagerung: Selbst gekocht 3 Tage im Kühlschrank oder eingefroren, Instantware tr
 haltbarkeit: 3 Tage gekühlt, 3 Monate gefroren, Instantpulver 1 bis 2 Jahre
 tags: [bruehe, fluessigkeit, umami, grundlage]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -47,3 +47,4 @@ Wasser plus ein Löffel Misopaste oder [Sojasauce](/zutaten/wuerzmittel/sojasauc
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), als Kochflüssigkeit der Sauce.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), als Garflüssigkeit.

@@ -10,8 +10,8 @@ lagerung: Trocken, verschlossen
 haltbarkeit: Unbegrenzt
 tags: [gewuerz, grundwuerze, vorrat]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -40,3 +40,9 @@ Wichtig für Rezepte: gleiche Volumen wiegen unterschiedlich. Ein Teelöffel fei
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), zum Vorsalzen des Fleisches und zum Abschmecken am Ende.
+- [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), zum [Trockensalzen](/techniken/trockensalzen.md) am Vortag.
+- [Pulled Beef](/gerichte/pulled-beef.md), in der Trockenwürzung.
+- [Sauerteigbrötchen](/gerichte/broetchen.md), 8 g auf 400 g Mehl, also 2 Prozent.
+- [Brownies](/gerichte/brownies.md), in der trockenen Mischung.
+- [Sushi-Reis](/komponenten/sushi-reis.md), in der Würzmischung und auf den Händen beim Formen.
+- [Shakshuka](/gerichte/shakshuka.md), [Freezer-Burritos](/gerichte/burrito.md), [Paella](/gerichte/paella.md) und [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), zum Abschmecken.

@@ -7,8 +7,8 @@ werkzeug: [Schüssel, Sieb]
 dauer: 3 bis 5 Minuten
 tags: [reis, japan, vorbereitung, grundtechnik]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Prinzip
@@ -36,3 +36,5 @@ Als „musenmai" (vorgewaschen) verkaufter Reis braucht diesen Schritt nicht. Pa
 # Wird gebraucht für
 
 - [Japanischer Reis](/komponenten/japanischer-reis.md), als erster Schritt vor der [Absorptionsmethode](/techniken/reis-kochen-absorptionsmethode.md), und damit für das [japanische Curry](/gerichte/japanisches-curry.md).
+- [Sushi-Reis](/komponenten/sushi-reis.md) und [Onigiri](/gerichte/onigiri.md), dort vier- bis fünfmal.
+- [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), damit der Reis in der Pfanne weniger klebt.

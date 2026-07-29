@@ -11,8 +11,8 @@ haltbarkeit: 2 bis 6 Monate ganze Knolle, geschälte Zehen 1 Woche im Kühlschra
 saison: Ganzjährig, frischer Knoblauch Juni bis August
 tags: [gemuese, aroma, wuerze, lauchgewaechs]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -49,3 +49,10 @@ Bärlauch (saisonal, milder), Schalotte plus eine Prise Knoblauchgranulat, oder 
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), fein gehackt zusammen mit [Ingwer](/zutaten/gemuese/ingwer.md) am Ende des Anschwitzens.
+- [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), gehackt mit dem Gemüse gebraten.
+- [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), in der Übernachtmarinade.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), mit dem Ingwer 30 Sekunden vor dem Currypulver.
+- [Shakshuka](/gerichte/shakshuka.md), in der letzten Minute der Gemüsebasis.
+- [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), zum Brokkoli am Ende.
+- [Paella](/gerichte/paella.md), als Beginn des Sofrito.
+- [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md), fein gehackt, optional.

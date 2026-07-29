@@ -10,8 +10,8 @@ schwierigkeit: einfach
 allergene: []
 tags: [japan, reis, grundlage, beilage]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -52,3 +52,5 @@ Warm halten trocknet den Reis aus. Besser portionsweise noch warm in Frischhalte
 # Wird gebraucht für
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), als Träger der Sauce.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), ebenfalls als Träger der Sauce.
+- Gewürzt und mit Essig abgezogen wird daraus [Sushi-Reis](/komponenten/sushi-reis.md), die Grundlage der [Onigiri](/gerichte/onigiri.md).

@@ -7,8 +7,8 @@ werkzeug: [Topf mit Deckel]
 temperatur: 85 bis 95 Grad
 tags: [kochen, garen, grundtechnik, eintopf]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Prinzip
@@ -43,3 +43,5 @@ Im Eintopf kommt nicht alles gleichzeitig hinein, sonst ist eines zerkocht und d
 # Wird gebraucht für
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), sowohl beim Garen des Gemüses als auch beim Nachziehen der gebundenen Sauce.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), 10 Minuten für Kartoffeln und Karotten.
+- [Shakshuka](/gerichte/shakshuka.md), zum Eindicken der Sauce vor den Eiern.

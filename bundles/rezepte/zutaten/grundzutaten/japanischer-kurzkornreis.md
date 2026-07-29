@@ -10,8 +10,8 @@ lagerung: Trocken, luftdicht, dunkel, kühl
 haltbarkeit: 6 bis 12 Monate ungekocht, gekocht 1 Tag im Kühlschrank oder eingefroren
 tags: [reis, japan, getreide, grundnahrungsmittel]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -51,3 +51,4 @@ Italienischer Rundkornreis oder koreanischer Kurzkornreis. Langkorn, Basmati und
 # Wird verwendet in
 
 - [Japanischer Reis](/komponenten/japanischer-reis.md) und darüber als Träger im [japanischen Curry](/gerichte/japanisches-curry.md).
+- [Onigiri](/gerichte/onigiri.md), als gewürzter [Sushi-Reis](/komponenten/sushi-reis.md).

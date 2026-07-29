@@ -10,8 +10,8 @@ lagerung: Kühlschrank, verschlossen, weil sie Fremdgerüche annimmt
 haltbarkeit: 4 bis 6 Wochen gekühlt, mehrere Monate eingefroren
 tags: [fett, milchprodukt, braten, vorrat]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -47,3 +47,5 @@ Für den [Curry-Roux](/komponenten/curry-roux.md): Butterschmalz (neutraler, hit
 # Wird verwendet in
 
 - [Curry-Roux](/komponenten/curry-roux.md) und darüber im [japanischen Curry](/gerichte/japanisches-curry.md), als Fettphase der Roux.
+- [Brownies](/gerichte/brownies.md), mit der Schokolade im Wasserbad geschmolzen.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), geklärt zum Anbraten.

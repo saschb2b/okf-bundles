@@ -1,6 +1,10 @@
 # Anleitungen
 
-Wie dieses Bundle benutzt und erweitert wird.
+Wie dieses Bundle zu lesen und zu erweitern ist.
 
-* [Rückwärtssuche](rueckwaertssuche.md) - Aus vorhandenen Zutaten die kochbaren Gerichte ableiten, und wie stark eine Zutat dabei wiegt.
-* [Arbeiten in diesem Bundle](arbeiten-in-diesem-bundle.md) - Typen und Frontmatter, Ordnerstruktur, der Ablauf für ein neues Gericht, und was den Graphen kaputt macht.
+* [Arbeiten in diesem Bundle](arbeiten-in-diesem-bundle.md) - Die Konventionen für neue Gerichte, Zutaten und Techniken, damit der Graph in beide Richtungen begehbar bleibt.
+* [Rückwärtssuche, von Zutaten zum Gericht](rueckwaertssuche.md) - Wie ein Agent aus einer Liste vorhandener Zutaten die kochbaren Gerichte dieses Bundles ableitet.
+
+# Weiter
+
+* [Bundle-Wurzel](../index.md)

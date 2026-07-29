@@ -4,8 +4,8 @@ title: Rezepte auf einen Blick
 description: Wie dieses Bundle Gerichte, Komponenten, Zutaten und Zubereitungstechniken so verknüpft, dass sich aus vorhandenen Zutaten passende Gerichte finden lassen.
 tags: [uebersicht, kochen, rezepte, zutaten]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was dieses Bundle ist
@@ -23,7 +23,7 @@ Genau diese Rückverweise sind der Zweck. Wer eine Zwiebel, eine Karotte und ein
 | Zutat | `Zutat` | Ein einzelnes Lebensmittel: Sorten, Einkauf, Lagerung, Ersatz, Verwendung | [Zwiebel](/zutaten/gemuese/zwiebel.md), [Currypulver](/zutaten/gewuerze/currypulver.md) |
 | Technik | `Zubereitungstechnik` | Ein Handgriff oder eine Garmethode, unabhängig vom Rezept | [Anschwitzen](/techniken/anschwitzen.md), [Mehlschwitze](/techniken/mehlschwitze.md) |
 
-Eine fünfte, querliegende Ebene sind die Küchen: [Japanische Küche](/kuechen/japanisch.md) bündelt, welche Zutaten und Techniken eine Landesküche prägen.
+Eine fünfte, querliegende Ebene sind die Küchen: [Japanische](/kuechen/japanisch.md), [Chinesische](/kuechen/chinesisch.md), [Indische](/kuechen/indisch.md), [Spanische](/kuechen/spanisch.md), [Levantinische](/kuechen/levantinisch.md), [Mexikanische](/kuechen/mexikanisch.md) und [US-amerikanische Küche](/kuechen/us-amerikanisch.md) bündeln jeweils, welche Zutaten, Würzen und Techniken eine Landesküche prägen und welche Gerichte daraus stammen.
 
 # Wie die Kanten laufen
 
@@ -43,10 +43,16 @@ Die durchgezogenen Kanten schreibt das Rezept, die gestrichelten schreiben Zutat
 
 # Was drin ist
 
-- **Gerichte.** [Japanisches Curry](/gerichte/japanisches-curry.md), das erste vollständig ausgearbeitete Rezept.
-- **Komponenten.** [Curry-Roux](/komponenten/curry-roux.md) (selbst gemacht statt Fertigblock) und [Japanischer Reis](/komponenten/japanischer-reis.md).
-- **Zutaten.** Zwanzig Konzepte in sechs Warengruppen, von der [Zwiebel](/zutaten/gemuese/zwiebel.md) über [Hähnchenschenkel](/zutaten/fleisch/haehnchenschenkel.md) bis zur [Worcestershiresauce](/zutaten/wuerzmittel/worcestershiresauce.md).
-- **Techniken.** Neun Handgriffe vom [Würfeln](/techniken/wuerfeln.md) über [Rangiri](/techniken/rangiri.md) und [Anschwitzen](/techniken/anschwitzen.md) bis zur [Absorptionsmethode](/techniken/reis-kochen-absorptionsmethode.md) für Reis.
+- **Gerichte.** Vierzehn, aus sechs Küchen. Die beiden Currys ([japanisch](/gerichte/japanisches-curry.md) und [indisch](/gerichte/chicken-curry-indisch.md)) liegen als Gegenentwürfe nebeneinander, dazu Pfannengerichte ([Bratreis](/gerichte/bratreis-mit-ei-und-gemuese.md), [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), [Scampi-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md)), Reisgerichte ([Paella](/gerichte/paella.md), [Onigiri](/gerichte/onigiri.md)), Handarbeit ([Jiaozi](/gerichte/jiaozi.md), [Sauerteigbrötchen](/gerichte/broetchen.md)), Vorratsgerichte ([Freezer-Burritos](/gerichte/burrito.md), [Pulled Beef](/gerichte/pulled-beef.md)) und ein Dessert ([Brownies](/gerichte/brownies.md)).
+- **Komponenten.** Fünf Bausteine, die mehrfach vorkommen oder getrennt verwendbar sind: [Curry-Roux](/komponenten/curry-roux.md), [Japanischer Reis](/komponenten/japanischer-reis.md), [Sushi-Reis](/komponenten/sushi-reis.md), [Jiaozi-Teig](/komponenten/jiaozi-teig.md) und [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md).
+- **Zutaten.** Rund 75 Konzepte in neun Warengruppen, von der [Zwiebel](/zutaten/gemuese/zwiebel.md) über [Bomba-Reis](/zutaten/grundzutaten/bomba-reis.md) und [Safran](/zutaten/gewuerze/safran.md) bis zum [Kakaopulver](/zutaten/suesswaren/kakaopulver.md).
+- **Techniken.** 25 Handgriffe vom [Würfeln](/techniken/wuerfeln.md) über [Wok-Braten](/techniken/wok-braten.md), [Trockensalzen](/techniken/trockensalzen.md) und [Schmoren](/techniken/schmoren.md) bis zum [Socarrat](/techniken/socarrat.md).
+
+# Herkunft und Bilder
+
+Der größte Teil der Gerichte stammt aus persönlichen Kochnotizen, die in ihrem `sources`-Eintrag mit `author: human:sascha` ausgewiesen sind. Wo eine Notiz nur eine Zutatenliste oder einen Videolink enthielt, ist sie aus der genannten Quelle aufgefüllt worden, und das Konzept sagt an der Stelle, was aus der Notiz stammt und was ergänzt wurde. Wo gar keine Anleitung vorlag, wie beim [Pulled Beef](/gerichte/pulled-beef.md), trägt das Konzept `status: draft` und benennt die offenen Punkte.
+
+Die Fotos liegen unter `assets/` im Bundle, verkleinert auf Kantenlängen um 1600 Pixel, und sind aus den Konzepten heraus eingebunden. Sie sind Prozessdokumentation, kein Schmuck: beim Pulled Beef ersetzen sie die fehlende Anleitung, beim [Brötchen](/gerichte/broetchen.md) trägt eines von ihnen die eigentliche Formel.
 
 # Wie es wächst
 

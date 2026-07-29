@@ -12,8 +12,8 @@ allergene: [Gluten, Milch, Soja, Fisch]
 vorab: Sauce am Vortag kochen, schmeckt aufgewärmt besser
 tags: [japan, curry, eintopf, hauptgericht, reisgericht, yoshoku]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -88,6 +88,7 @@ Nach [Japanischer Reis](/komponenten/japanischer-reis.md): 360 ml (2 gō) [japan
 | Vegan | Zusätzlich Butter im Roux durch Öl ersetzen, Worcestershiresauce durch eine anchovisfreie Sauce, Honig durch Zucker |
 | Schärfer | 1/2 TL Cayenne oder Chilipulver in den Roux |
 | Schneller | Fertigen Curry-Roux als Block verwenden, Schritt 6 entfällt |
+| Ein Topf | Nach [Kenji](/gerichte/japanisches-curry-kenji.md): Currypulver und Mehl direkt über dem Fleisch rösten, Süße aus Rosinen und Honig |
 
 # Tipps
 
@@ -99,3 +100,5 @@ Nach [Japanischer Reis](/komponenten/japanischer-reis.md): 360 ml (2 gō) [japan
 # Verwandtes
 
 Die Küche dahinter: [Japanische Küche](/kuechen/japanisch.md). Die beiden Bausteine: [Curry-Roux](/komponenten/curry-roux.md) und [Japanischer Reis](/komponenten/japanischer-reis.md).
+
+Dasselbe Gericht in der schnellen Ein-Topf-Fassung, mit Mehl und Currypulver direkt über dem Fleisch statt getrenntem Roux, steht in [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md). Der indische Ausgangspunkt derselben Currylinie, gebunden mit [Kokosmilch](/zutaten/wuerzmittel/kokosmilch.md) statt mit einer Mehlschwitze, ist das [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md).

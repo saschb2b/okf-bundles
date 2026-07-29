@@ -11,8 +11,8 @@ haltbarkeit: 4 bis 8 Wochen, angeschnitten 2 Tage abgedeckt im Kühlschrank
 saison: Ganzjährig verfügbar, Haupternte Juli bis Oktober
 tags: [gemuese, aroma, basis, lauchgewaechs]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -55,3 +55,8 @@ Schalotten (feiner, etwas weniger Volumen), Lauch (milder, weniger süß) oder G
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), als Basis und Hauptquelle der Süße.
+- [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), karamellisiert als erste Saucenstufe.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), in Scheiben kurz mitgebraten.
+- [Shakshuka](/gerichte/shakshuka.md), mit der Paprika weich geschwitzt.
+- [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), als Basis der Sauce.
+- [Pulled Beef](/gerichte/pulled-beef.md), ganz mitgeschmort.

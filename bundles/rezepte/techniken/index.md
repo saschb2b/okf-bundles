@@ -1,26 +1,33 @@
-# Zubereitungstechniken
+# Techniken
 
-Jede Technik steht für sich, unabhängig vom Rezept. Ein Rezept nennt den Handgriff und verlinkt hierher, statt ihn erneut zu erklären. Umgekehrt führt jede Technik unter „Wird gebraucht für" die Gerichte, die sie verlangen.
+Handgriffe und Garmethoden, unabhängig vom einzelnen Gericht.
 
-# Schnitttechniken
-
-* [Würfeln](wuerfeln.md) - Gleichmäßige Würfel, damit alle Stücke zur selben Zeit gar sind.
-* [Rangiri](rangiri.md) - Der japanische rollende Schrägschnitt für Wurzelgemüse.
-
-# Garmethoden
-
-* [Anschwitzen](anschwitzen.md) - Aromaten in Fett weich garen, ohne dass sie Farbe nehmen.
-* [Anbraten](anbraten.md) - Fleisch bei hoher Hitze bräunen, für Röstaromen und Bratensatz.
-* [Köcheln](koecheln.md) - Garen knapp unterhalb des Siedepunkts, damit nichts zerfällt.
-* [Abschäumen](abschaeumen.md) - Den grauen Eiweißschaum abnehmen, damit die Sauce sauber schmeckt.
-* [Mehlschwitze](mehlschwitze.md) - Mehl in Fett rösten und damit binden, ohne Klümpchen.
-* [Reis kochen nach der Absorptionsmethode](reis-kochen-absorptionsmethode.md) - Reis in abgemessenem Wasser zugedeckt garen.
-
-# Vorbereitung
-
-* [Reis waschen](reis-waschen.md) - Die lose Oberflächenstärke abspülen, damit der Reis nicht verklebt.
+* [Abschäumen (Aku-tori)](abschaeumen.md) - Den grauen Schaum abnehmen, der sich beim Aufkochen von Fleisch und Gemüse bildet, damit Sauce und Brühe klar und sauber schmecken.
+* [Anbraten](anbraten.md) - Fleisch bei hoher Hitze außen bräunen, um über die Maillard-Reaktion Röstaromen aufzubauen.
+* [Anschwitzen](anschwitzen.md) - Aromaten in Fett bei mittlerer Hitze weich garen, ohne dass sie Farbe nehmen.
+* [Blanchieren](blanchieren.md) - Gemüse kurz in kochendem Wasser garen und sofort abkühlen, um Farbe, Biss und Enzymzustand zu fixieren.
+* [Brot backen](brot-backen.md) - Bei hoher Hitze mit Dampf anbacken, damit der Teig aufgeht, bevor die Kruste sich schließt.
+* [Eier in Sauce pochieren](eier-in-sauce-pochieren.md) - Eier in Mulden einer fertigen Sauce garen, bis das Weiß gestockt und das Gelb noch flüssig ist.
+* [Fleisch zupfen](fleisch-zupfen.md) - Geschmortes Fleisch entlang der Faser in Stränge teilen und mit Fond mischen, damit es nicht austrocknet.
+* [Kalte Stockgare](kalte-stockgare.md) - Den Teig über Nacht im Kühlschrank gehen lassen, wodurch der Trieb langsamer und der Geschmack tiefer wird.
+* [Köcheln (Simmern)](koecheln.md) - Garen in Flüssigkeit knapp unterhalb des Siedepunkts, damit Stücke weich werden, ohne zu zerfallen.
+* [Marinieren](marinieren.md) - Fleisch in einer Mischung aus Fett, Aromaten und Gewürzen ziehen lassen, um die Oberfläche zu würzen und Röstaromen vorzubereiten.
+* [Mehlschwitze (Roux)](mehlschwitze.md) - Mehl in Fett rösten, um Flüssigkeit zu binden, ohne Klümpchen und ohne Mehlgeschmack.
+* [Rangiri (乱切り), rollender Schrägschnitt](rangiri.md) - Japanischer Schnitt, bei dem das Gemüse zwischen den Schnitten gedreht wird, so dass unregelmäßige Stücke mit maximaler Schnittfläche entstehen.
+* [Reis kochen nach der Absorptionsmethode](reis-kochen-absorptionsmethode.md) - Reis in einer abgemessenen Wassermenge zugedeckt garen, bis das Wasser vollständig aufgenommen ist.
+* [Reis waschen (Togu)](reis-waschen.md) - Die lose Oberflächenstärke vom Kurzkornreis spülen, damit die Körner nicht verkleben.
+* [Rührei](ruehrei.md) - Eier unter Bewegung stocken lassen, wobei die Hitze darüber entscheidet, ob Creme oder Flocken entstehen.
+* [Schmoren](schmoren.md) - Angebratenes Fleisch stundenlang in wenig Flüssigkeit unter 100 Grad garen, bis das Kollagen zu Gelatine geworden ist.
+* [Socarrat](socarrat.md) - Die karamellisierte Reiskruste am Boden der Paellapfanne, erzeugt durch 30 bis 60 Sekunden hohe Hitze zum Schluss.
+* [Teig kneten](teig-kneten.md) - Mehl und Wasser so lange bearbeiten, bis sich aus den Mehlproteinen ein zusammenhängendes Glutennetz gebildet hat.
+* [Teigtaschen falten](teigtaschen-falten.md) - Füllung in einen Teigkreis setzen und so verschließen, dass die Naht dicht hält und die Tasche steht.
+* [Tofu pressen](tofu-pressen.md) - Wasser aus dem Tofublock drücken, damit die Oberfläche in der Pfanne bräunen kann statt zu dünsten.
+* [Trockensalzen (Dry Brine)](trockensalzen.md) - Fleisch Stunden vor dem Garen salzen, damit das Salz bis in den Kern zieht und die Oberfläche abtrocknet.
+* [Im Wasserbad schmelzen](wasserbad-schmelzen.md) - Empfindliche Zutaten über heißem Wasser statt direkter Hitze schmelzen, weil das Wasser die Temperatur auf 100 Grad deckelt.
+* [Wok-Braten (Pfannenrühren)](wok-braten.md) - Garen bei sehr hoher Hitze in ständiger Bewegung, wobei die gesamte Arbeit vor dem Einschalten des Herds passiert.
+* [Würfeln](wuerfeln.md) - Gemüse in gleichmäßige Würfel schneiden, damit alle Stücke zur selben Zeit gar sind.
+* [Zwiebeln karamellisieren](zwiebeln-karamellisieren.md) - Zwiebeln über 15 bis 30 Minuten braun und süß braten, wodurch die Süße entsteht, die viele Currys tragen.
 
 # Weiter
 
-* [Gerichte](../gerichte/index.md) - Die Rezepte, die diese Techniken verwenden.
-* [Zutaten](../zutaten/index.md) - Was so behandelt wird.
+* [Bundle-Wurzel](../index.md)

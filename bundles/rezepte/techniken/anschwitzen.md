@@ -8,8 +8,8 @@ temperatur: mittlere Hitze, etwa 120 bis 140 Grad
 dauer: 3 bis 8 Minuten
 tags: [braten, aromen, grundtechnik]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Prinzip
@@ -44,3 +44,7 @@ Wer über den glasigen Zustand hinaus weitergart, kommt zur Bräunung: Zwiebeln 
 # Wird gebraucht für
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), als erster Schritt und Ursprung der Süße.
+- [Shakshuka](/gerichte/shakshuka.md), für Zwiebeln und Paprika.
+- [Paella](/gerichte/paella.md), als Beginn des Sofrito.
+- [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), für Zwiebel und Frühlingszwiebeln.
+- Über den glasigen Zustand hinaus geführt wird daraus [Zwiebeln karamellisieren](/techniken/zwiebeln-karamellisieren.md).

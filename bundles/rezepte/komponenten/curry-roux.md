@@ -10,8 +10,8 @@ schwierigkeit: einfach
 allergene: [Gluten, Milch]
 tags: [japan, curry, grundlage, bindung, roux]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -54,3 +54,4 @@ Die abgekühlte Masse in Eiswürfelformen oder als flaches Rechteck einfrieren u
 # Wird gebraucht für
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), wo er Sauce und Würze zugleich stellt.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md) kommt ohne ihn aus: dort werden Currypulver und Mehl direkt im Topf gebunden.

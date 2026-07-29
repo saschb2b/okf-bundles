@@ -6,8 +6,8 @@ kategorie: Schnitttechnik
 werkzeug: [Kochmesser, Schneidebrett]
 tags: [schneiden, vorbereitung, grundtechnik]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Prinzip
@@ -43,3 +43,5 @@ Die Führhand liegt als Krallengriff auf dem Schnittgut, Fingerkuppen eingezogen
 # Wird gebraucht für
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), wo [Kartoffeln](/zutaten/gemuese/kartoffel.md) grob gewürfelt werden, damit sie Stück bleiben. Für [Karotten](/zutaten/gemuese/karotte.md) tritt dort [Rangiri](/techniken/rangiri.md) an die Stelle des Würfelns.
+- [Freezer-Burritos](/gerichte/burrito.md), für Paprika und Jalapeño.
+- [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), für Zwiebel und Tomaten.

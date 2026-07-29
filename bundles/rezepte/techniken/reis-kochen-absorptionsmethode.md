@@ -7,8 +7,8 @@ werkzeug: [Topf mit gut schließendem Deckel oder Reiskocher]
 dauer: 12 Minuten Garen plus 10 Minuten Ruhen
 tags: [reis, japan, garen, grundtechnik]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Prinzip
@@ -46,3 +46,4 @@ Basmati braucht etwa 1 zu 1,5 und 10 Minuten, Vollkornreis etwa 1 zu 2 und 40 Mi
 # Wird gebraucht für
 
 - [Japanischer Reis](/komponenten/japanischer-reis.md) und damit für das [japanische Curry](/gerichte/japanisches-curry.md).
+- [Sushi-Reis](/komponenten/sushi-reis.md) und damit [Onigiri](/gerichte/onigiri.md), mit 30 Minuten Quellzeit vorab.

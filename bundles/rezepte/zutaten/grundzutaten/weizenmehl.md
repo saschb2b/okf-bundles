@@ -10,8 +10,8 @@ lagerung: Trocken, luftdicht, kühl
 haltbarkeit: 12 bis 18 Monate (Type 405), Vollkornmehl nur 6 bis 8 Wochen
 tags: [mehl, bindung, getreide, vorrat, gluten]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -50,3 +50,7 @@ Speisestärke (Mais oder Kartoffel) bindet etwa doppelt so stark, ist glutenfrei
 # Wird verwendet in
 
 - [Curry-Roux](/komponenten/curry-roux.md) und darüber im [japanischen Curry](/gerichte/japanisches-curry.md), als Bindemittel.
+- [Sauerteigbrötchen](/gerichte/broetchen.md), als Brotmehl mit hohem Proteingehalt.
+- [Brownies](/gerichte/brownies.md), 62 g in der trockenen Mischung.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), direkt im Topf zur Bindung.
+- [Jiaozi-Teig](/komponenten/jiaozi-teig.md), mit kochendem Wasser als Brühteig.

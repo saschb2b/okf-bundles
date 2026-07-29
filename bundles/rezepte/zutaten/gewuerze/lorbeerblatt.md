@@ -10,8 +10,8 @@ lagerung: Trocken, dunkel, luftdicht
 haltbarkeit: 1 bis 2 Jahre, danach nur noch Papier
 tags: [gewuerz, kraut, schmoren]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -39,3 +39,5 @@ Ein kleiner Zweig Thymian oder Oregano geht in eine ähnliche Richtung, ohne das
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), mitgekocht während des [Köchelns](/techniken/koecheln.md).
+- [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), im Kochwasser des Reises.
+- [Pulled Beef](/gerichte/pulled-beef.md), im Schmorfond, auf den Fotos sichtbar.

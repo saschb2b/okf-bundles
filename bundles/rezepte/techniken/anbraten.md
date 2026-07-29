@@ -8,8 +8,8 @@ temperatur: hohe Hitze, 160 Grad und mehr an der Oberfläche
 dauer: 2 bis 4 Minuten je Seite
 tags: [braten, fleisch, roestaromen, grundtechnik]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Prinzip
@@ -39,3 +39,9 @@ Die braunen, angeklebten Rückstände am Topfboden sind konzentrierter Geschmack
 # Wird gebraucht für
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), wo [Hähnchenschenkelfleisch](/zutaten/fleisch/haehnchenschenkel.md) nach dem [Anschwitzen](/techniken/anschwitzen.md) der Zwiebeln angebraten wird.
+- [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), für den kalten Reis.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), für Hähnchen und Zwiebeln.
+- [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), für den gepressten Tofu.
+- [Jiaozi](/gerichte/jiaozi.md), für den Boden der gebratenen Gyoza.
+- [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), für die Garnelen.
+- [Pulled Beef](/gerichte/pulled-beef.md), vor dem [Schmoren](/techniken/schmoren.md), weil das Schmoren selbst keine Röstaromen erzeugt.

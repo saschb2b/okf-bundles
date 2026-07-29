@@ -10,8 +10,8 @@ lagerung: Dunkel und trocken bei Raumtemperatur, nicht im Kühlschrank
 haltbarkeit: Praktisch unbegrenzt, kristallisiert mit der Zeit
 tags: [suessung, wuerze, vorrat]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -46,3 +46,5 @@ Zucker (etwa ein gestrichener Esslöffel je Esslöffel Honig, ohne Eigenaroma), 
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), zum Abrunden der fertigen Sauce.
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), zusammen mit den Rosinen als Süßequelle.
+- [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), als süßer Teil der Glasur.

@@ -10,8 +10,8 @@ lagerung: Kühl und dunkel, nach dem Öffnen im Kühlschrank
 haltbarkeit: Ungeöffnet 2 Jahre, geöffnet etwa 3 Monate mit vollem Aroma
 tags: [wuerze, japan, umami, fermentiert]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Was es ist
@@ -51,3 +51,7 @@ Tamari (glutenfrei), Kokos-Aminos (süßer, weniger salzig), Fischsauce in klein
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), als Umami- und Salzquelle in der fertigen Sauce.
+- [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), hell für das Salz, neben der [dunklen Sojasauce](/zutaten/wuerzmittel/dunkle-sojasauce.md) für die Farbe.
+- [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), als salziger Teil der Glasur.
+- [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), in der Erdnusssauce.
+- [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md), in der Würzung.

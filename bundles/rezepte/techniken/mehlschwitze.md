@@ -8,8 +8,8 @@ temperatur: mittlere bis kleine Hitze
 dauer: 3 bis 20 Minuten je nach gewünschter Farbe
 tags: [binden, sauce, grundtechnik, roux]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/opus-5
+  at: 2026-07-29T19:00:00Z
 ---
 
 # Prinzip
@@ -54,3 +54,5 @@ Für einen Liter Flüssigkeit:
 # Wird gebraucht für
 
 - [Curry-Roux](/komponenten/curry-roux.md) und damit für das [japanische Curry](/gerichte/japanisches-curry.md). Die Technik kam mit der westlichen Küche nach Japan und ist ein Kennzeichen von [Yōshoku](/kuechen/japanisch.md).
+- [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), in der abgekürzten Form direkt im Topf.
+- Der Gegenentwurf ohne Mehlschwitze ist das [indische Chicken Curry](/gerichte/chicken-curry-indisch.md), das mit [Kokosmilch](/zutaten/wuerzmittel/kokosmilch.md) bindet.
