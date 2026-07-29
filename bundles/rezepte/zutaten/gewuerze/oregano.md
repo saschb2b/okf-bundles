@@ -11,7 +11,7 @@ haltbarkeit: Getrocknet 1 bis 2 Jahre
 tags: [kraut, mediterran, pizza, getrocknet]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Was es ist
@@ -43,3 +43,4 @@ Majoran (milder, süßlicher, botanisch nah verwandt), [Thymian](/zutaten/gewuer
 # Wird verwendet in
 
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), in der Tomatenwürzpaste.
+- [Focaccia](/gerichte/focaccia.md), in der Variante mit Kirschtomaten.

@@ -11,7 +11,7 @@ haltbarkeit: 12 bis 18 Monate, geöffnet einige Monate
 tags: [oel, fett, mediterran, geschmackstraeger]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Was es ist
@@ -55,3 +55,4 @@ Beim Verrühren mit [Tomatenmark](/zutaten/wuerzmittel/tomatenmark.md) macht es 
 
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), zum Anrühren der Würzpaste.
 - [Paella](/gerichte/paella.md) und [Shakshuka](/gerichte/shakshuka.md), als Grundfett des Sofrito beziehungsweise der Gemüsebasis.
+- [Focaccia](/gerichte/focaccia.md), das Gericht dieses Bundles, das am meisten davon braucht: im Teig, im Blech als Garmedium und in der [Salamoia](/techniken/salamoia.md).

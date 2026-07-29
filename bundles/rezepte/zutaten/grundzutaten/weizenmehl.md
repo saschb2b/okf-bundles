@@ -11,7 +11,7 @@ haltbarkeit: 12 bis 18 Monate (Type 405), Vollkornmehl nur 6 bis 8 Wochen
 tags: [mehl, bindung, getreide, vorrat, gluten]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Was es ist
@@ -54,4 +54,5 @@ Speisestärke (Mais oder Kartoffel) bindet etwa doppelt so stark, ist glutenfrei
 - [Brownies](/gerichte/brownies.md), 62 g in der trockenen Mischung.
 - [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), direkt im Topf zur Bindung.
 - [Jiaozi-Teig](/komponenten/jiaozi-teig.md), mit kochendem Wasser als Brühteig.
+- [Focaccia](/gerichte/focaccia.md), 500 g als Brotmehl bei 75 Prozent Hydration.
 - Fertig verarbeitet steckt es im [Pizzateig](/zutaten/grundzutaten/pizzateig-fertig.md) und im [Blätterteig](/zutaten/grundzutaten/blaetterteig.md) aus dem Kühlregal.

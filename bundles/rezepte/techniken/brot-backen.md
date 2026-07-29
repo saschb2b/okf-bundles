@@ -9,7 +9,7 @@ dauer: 20 bis 40 Minuten
 tags: [backen, brot, kruste, ofentrieb]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Prinzip
@@ -46,3 +46,4 @@ Ein Sonderfall, den das [Brötchenrezept](/gerichte/broetchen.md) nutzt: nur 20 
 # Wird gebraucht für
 
 - [Sauerteigbrötchen](/gerichte/broetchen.md), im Voll- und im Vorbackverfahren.
+- [Focaccia](/gerichte/focaccia.md), bei 230 Grad im unteren Ofendrittel, wo der Boden im Öl frittiert.

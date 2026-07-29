@@ -7,10 +7,12 @@ Reis, Mehl, Teige, Nudeln, Öle und Vorratsware.
 * [Butter](butter.md) - Milchfett mit Wasser- und Eiweißanteil, Geschmacksträger und Fettphase jeder Mehlschwitze.
 * [Dosenbohnen](dosenbohnen.md) - Vorgegarte Hülsenfrüchte aus der Dose, die Protein und Sämigkeit liefern und nur noch erwärmt werden müssen.
 * [Erdnuss](erdnuss.md) - Geröstete Hülsenfrucht, die als Topping Biss und Röstaroma liefert und deren Fett die Grundlage der Erdnussbutter ist.
+* [Hefe (Backhefe)](hefe.md) - Einzelliger Pilz, der Zucker zu Kohlendioxid und Alkohol vergärt und damit einen Teig treibt, als frischer Würfel oder als Trockenhefe.
 * [Hühnerbrühe](huehnerbruehe.md) - Die Flüssigkeit, die einem Eintopf Körper und Umami gibt, selbst gekocht oder als Instantware.
 * [Japanischer Kurzkornreis (Uruchimai)](japanischer-kurzkornreis.md) - Rundkörniger Reis mit hohem Amylopektinanteil, der gegart leicht klebt und sich mit Stäbchen essen lässt.
 * [Langkornreis](langkornreis.md) - Reis mit hohem Amylosegehalt, dessen Körner nach dem Kochen einzeln bleiben und der deshalb die Basis für Bratreis ist.
 * [Noriblatt](noriblatt.md) - Getrocknete und gepresste Rotalge, die geröstet nussig schmeckt und an feuchter Luft binnen Minuten zäh wird.
+* [Olive (eingelegt)](olive.md) - In Lake oder Öl eingelegte Steinfrucht, die roh ungenießbar ist und ihre Bitterstoffe erst durch Fermentation oder Laugenbehandlung verliert.
 * [Olivenöl](olivenoel.md) - Fruchtiges Öl aus Oliven, dessen native Qualität ein Geschmacksträger und dessen raffinierte ein Bratfett ist.
 * [Fertiger Pizzateig (Kühlregal)](pizzateig-fertig.md) - Bereits ausgerollter Hefeteig auf Backpapier, der die gesamte Teigarbeit ersetzt und sofort verarbeitet werden kann.
 * [Rapsöl](rapsoel.md) - Neutrales Pflanzenöl mit hohem Rauchpunkt, das Standardfett zum Anbraten.

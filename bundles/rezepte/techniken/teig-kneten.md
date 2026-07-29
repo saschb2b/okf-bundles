@@ -8,7 +8,7 @@ dauer: 8 bis 12 Minuten
 tags: [teig, backen, gluten, grundtechnik]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Prinzip
@@ -44,3 +44,4 @@ Ein Teig mit 80 Prozent Hydration wie beim [Sauerteigbrötchen](/gerichte/broetc
 - [Sauerteigbrötchen](/gerichte/broetchen.md), als erster Schritt.
 - [Jiaozi-Teig](/komponenten/jiaozi-teig.md), mit kochendem Wasser.
 - Übersprungen wird der Schritt beim [fertigen Pizzateig](/zutaten/grundzutaten/pizzateig-fertig.md), etwa in den [Pizzaschnecken](/gerichte/pizzaschnecken.md).
+- Ersetzt wird er bei der [Focaccia](/gerichte/focaccia.md) durch [Dehnen und Falten](/techniken/dehnen-und-falten.md), weil ihr Teig zu nass zum Kneten ist.

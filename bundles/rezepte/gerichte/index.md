@@ -7,6 +7,7 @@ Fertige Gerichte. Jedes verlinkt seine Zutaten und die Techniken, die es verlang
 * [Brownies (Triple Chocolate)](brownies.md) - Dichte, fudgy Brownies aus geschmolzener Zartbitterschokolade, Kakao und Schokoladenchips, in einer 20x20-Form gebacken.
 * [Freezer-Burritos](burrito.md) - Sechs große Vorratsburritos mit Hähnchen, Bohnen, Paprika und zwei Käsesorten, in einer Stunde gemacht und portionsweise eingefroren.
 * [Chicken Curry (indische Art)](chicken-curry-indisch.md) - Currypaste-Curry mit über Nacht mariniertem Fleisch, karamellisierten Zwiebeln, Tomate und Kokosmilch, dazu gewürzter Langkornreis.
+* [Focaccia](focaccia.md) - Luftiges italienisches Fladenbrot aus einem sehr nassen Hefeteig, das mit Salamoia beträufelt und in reichlich Olivenöl auf dem Blech gebacken wird.
 * [Japanisches Curry nach Kenji (Kare Raisu)](japanisches-curry-kenji.md) - Die Ein-Topf-Variante des japanischen Currys, bei der Currypulver und Mehl direkt im Topf gebunden werden, mit Rosinen, Honig und Erbsen.
 * [Japanisches Curry (カレーライス, Karē Raisu)](japanisches-curry.md) - Das japanische Alltagscurry: milde, dicke, leicht süße Sauce über Kurzkornreis, mit selbst gemachtem Curry-Roux.
 * [Jiaozi (餃子)](jiaozi.md) - Chinesische Teigtaschen mit Schweinehack und Chinakohl, aus Brühteig selbst gerollt, gekocht oder als Gyoza gebraten.

@@ -9,6 +9,8 @@ Handgriffe und Garmethoden, unabhängig vom einzelnen Gericht. Vier davon (Abkü
 * [Auftauen und Aufwärmen](auftauen-und-aufwaermen.md) - Gelagertes Essen so zurück auf Temperatur bringen, dass es dem frisch gekochten nahekommt, wobei sich die Methode nach der Textur richtet, die erhalten bleiben soll.
 * [Blanchieren](blanchieren.md) - Gemüse kurz in kochendem Wasser garen und sofort abkühlen, um Farbe, Biss und Enzymzustand zu fixieren.
 * [Brot backen](brot-backen.md) - Bei hoher Hitze mit Dampf anbacken, damit der Teig aufgeht, bevor die Kruste sich schließt.
+* [Dehnen und Falten](dehnen-und-falten.md) - Einen zu nassen Teig statt durch Kneten durch wiederholtes Anheben und Übereinanderlegen strukturieren, wobei die Pausen dazwischen die eigentliche Arbeit leisten.
+* [Dimpeln (Grübchen drücken)](dimpeln.md) - Mit gespreizten, geölten Fingern senkrecht durch den aufgegangenen Teig bis auf den Blechboden drücken, um die Mulden für Öl, Salz und Belag zu erzeugen.
 * [Eier in Sauce pochieren](eier-in-sauce-pochieren.md) - Eier in Mulden einer fertigen Sauce garen, bis das Weiß gestockt und das Gelb noch flüssig ist.
 * [Einfrieren](einfrieren.md) - Fertiges Essen bei minus 18 Grad haltbar machen, wobei die Geschwindigkeit des Durchfrierens und der Ausschluss von Luft darüber entscheiden, wie das Gericht später schmeckt.
 * [Fleisch zupfen](fleisch-zupfen.md) - Geschmortes Fleisch entlang der Faser in Stränge teilen und mit Fond mischen, damit es nicht austrocknet.
@@ -22,6 +24,7 @@ Handgriffe und Garmethoden, unabhängig vom einzelnen Gericht. Vier davon (Abkü
 * [Reis waschen (Togu)](reis-waschen.md) - Die lose Oberflächenstärke vom Kurzkornreis spülen, damit die Körner nicht verkleben.
 * [Rollen und Schneiden](rollen-und-schneiden.md) - Belegten Teig zu einer Rolle formen und in Scheiben schneiden, so dass die Spirale beim Backen sichtbar bleibt.
 * [Rührei](ruehrei.md) - Eier unter Bewegung stocken lassen, wobei die Hitze darüber entscheidet, ob Creme oder Flocken entstehen.
+* [Salamoia (Öl-Salz-Lake)](salamoia.md) - Eine aufgeschlagene Mischung aus Wasser, Olivenöl und Salz, die vor dem Backen in die Grübmulden der Focaccia gegossen wird und deren Oberfläche feucht hält, während die Kruste entsteht.
 * [Schmoren](schmoren.md) - Angebratenes Fleisch stundenlang in wenig Flüssigkeit unter 100 Grad garen, bis das Kollagen zu Gelatine geworden ist.
 * [Socarrat](socarrat.md) - Die karamellisierte Reiskruste am Boden der Paellapfanne, erzeugt durch 30 bis 60 Sekunden hohe Hitze zum Schluss.
 * [Teig kneten](teig-kneten.md) - Mehl und Wasser so lange bearbeiten, bis sich aus den Mehlproteinen ein zusammenhängendes Glutennetz gebildet hat.

@@ -12,7 +12,7 @@ saison: Ganzjährig verfügbar, Haupternte Juli bis Oktober
 tags: [gemuese, aroma, basis, lauchgewaechs]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Was es ist
@@ -60,3 +60,4 @@ Schalotten (feiner, etwas weniger Volumen), Lauch (milder, weniger süß) oder G
 - [Shakshuka](/gerichte/shakshuka.md), mit der Paprika weich geschwitzt.
 - [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), als Basis der Sauce.
 - [Pulled Beef](/gerichte/pulled-beef.md), ganz mitgeschmort.
+- [Focaccia](/gerichte/focaccia.md), als rohe rote Ringe in der Belagvariante.

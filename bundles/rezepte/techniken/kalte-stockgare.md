@@ -9,7 +9,7 @@ dauer: 12 bis 48 Stunden
 tags: [teig, gaerung, sauerteig, geschmack, zeit]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Prinzip
@@ -46,3 +46,4 @@ Stechender Alkoholgeruch und eine eingefallene Oberfläche bedeuten übergangen.
 # Wird gebraucht für
 
 - [Sauerteigbrötchen](/gerichte/broetchen.md), mindestens 12 Stunden.
+- [Focaccia](/gerichte/focaccia.md), in der Variante mit 12 bis 72 Stunden und stark reduzierter [Hefe](/zutaten/grundzutaten/hefe.md).

@@ -11,7 +11,7 @@ haltbarkeit: Frisch 1 bis 2 Wochen, getrocknet 1 Jahr
 tags: [kraut, mediterran, harzig, marinade]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Was es ist
@@ -39,3 +39,4 @@ In heißem Öl gibt Rosmarin sein Aroma innerhalb einer Minute ab. Ein Zweig, de
 # Wird verwendet in
 
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), in der Übernachtmarinade.
+- [Focaccia](/gerichte/focaccia.md), als Nadeln über die Grübchen gestreut, die klassische Kombination mit [Oliven](/zutaten/grundzutaten/olive.md).

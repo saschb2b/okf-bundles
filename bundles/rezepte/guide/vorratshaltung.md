@@ -78,6 +78,7 @@ Die Einordnung aller Gerichte und Komponenten dieses Bundles. Die Spalte `eignun
 | [Japanischer Reis](/komponenten/japanischer-reis.md) | nicht empfohlen | 1 Monat |
 | [Onigiri](/gerichte/onigiri.md) | nicht empfohlen | 1 Monat |
 | [Jiaozi-Teig](/komponenten/jiaozi-teig.md) | 1 Tag | 3 Monate |
+| [Focaccia](/gerichte/focaccia.md) | Raumtemperatur 2 Tage | 3 Monate |
 
 ## Eingeschränkt
 

@@ -11,7 +11,7 @@ haltbarkeit: Praktisch unbegrenzt, kristallisiert mit der Zeit
 tags: [suessung, wuerze, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  at: 2026-07-29T22:00:00Z
 ---
 
 # Was es ist
@@ -49,3 +49,4 @@ Zucker (etwa ein gestrichener Esslöffel je Esslöffel Honig, ohne Eigenaroma), 
 - [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), zusammen mit den Rosinen als Süßequelle.
 - [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), als süßer Teil der Glasur.
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), über die süß-herzhafte Variante mit Ziegenkäse und Feige.
+- [Focaccia](/gerichte/focaccia.md), als schnell verfügbares Futter für die [Hefe](/zutaten/grundzutaten/hefe.md).
