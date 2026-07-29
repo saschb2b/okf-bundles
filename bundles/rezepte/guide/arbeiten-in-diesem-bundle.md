@@ -1,0 +1,68 @@
+---
+type: Anleitung
+title: Arbeiten in diesem Bundle
+description: Die Konventionen für neue Gerichte, Zutaten und Techniken, damit der Graph in beide Richtungen begehbar bleibt.
+tags: [anleitung, konventionen, okf]
+generated:
+  by: claude-code/opus-5
+  at: 2026-07-29T18:00:00Z
+---
+
+# Die harte Regel
+
+Dieses Bundle folgt dem Open Knowledge Format (OKF v0.2): ein Ordner aus Markdown-Dateien, in dem jedes Konzept YAML-Frontmatter mit einem nicht leeren `type` trägt. Das ist die einzige harte Anforderung. `index.md` und `log.md` sind reserviert, sind nie Konzepte, und nur die Wurzel-`index.md` trägt Frontmatter (ihr `okf_version`).
+
+Alles Weitere hier ist Hauskonvention. Sie existiert, damit die [Rückwärtssuche](/guide/rueckwaertssuche.md) funktioniert, und die bricht schneller, als der Validator merkt.
+
+# Die vier Typen und ihr Frontmatter
+
+Verwendete `type`-Werte, jeweils mit den Feldern, die über die OKF-Empfehlungen hinausgehen. Empfohlen und hier überall gesetzt sind `title`, `description`, `tags` und `generated` (`by`, also wer das Konzept geschrieben hat, und `at`, der Zeitpunkt); wo eine Quelle dahintersteht, kommt `sources` dazu. `verified` bleibt leer, solange niemand das Rezept tatsächlich nachgekocht und bestätigt hat:
+
+`Rezept`
+: Ein fertiges Gericht. Zusätzlich `kueche`, `gang`, `portionen`, `zeit_aktiv`, `zeit_gesamt`, `schwierigkeit`, optional `allergene` und `vorab` (was am Vortag geht). Beispiel: [Japanisches Curry](/gerichte/japanisches-curry.md).
+
+`Rezeptkomponente`
+: Ein Baustein, den mehrere Gerichte teilen (Saucen, Grundlagen, Beilagen). Gleiche Felder wie ein Rezept, aber `ergibt` statt `portionen`. Beispiel: [Curry-Roux](/komponenten/curry-roux.md).
+
+`Zutat`
+: Ein einzelnes Lebensmittel. Zusätzlich `kategorie`, `warengruppe`, `vegan`, `allergene`, `lagerung`, `haltbarkeit`, optional `saison`. Beispiel: [Karotte](/zutaten/gemuese/karotte.md).
+
+`Zubereitungstechnik`
+: Ein Handgriff oder eine Garmethode, unabhängig vom Gericht. Zusätzlich `kategorie` (Schnitttechnik, Garmethode, Vorbereitung), `werkzeug`, optional `temperatur` und `dauer`. Beispiel: [Anschwitzen](/techniken/anschwitzen.md).
+
+Dazu kommen `Küche` für eine Landesküche ([Japanische Küche](/kuechen/japanisch.md)) und `Anleitung` für Konzepte wie dieses.
+
+# Wohin die Datei gehört
+
+```
+gerichte/           ein Gericht, eine Datei
+komponenten/        Bausteine, die mehrere Gerichte teilen
+zutaten/
+  gemuese/  obst/  fleisch/  gewuerze/  grundzutaten/  wuerzmittel/
+techniken/          eine Technik, eine Datei, flach
+kuechen/            eine Landesküche, eine Datei
+guide/              Konventionen und Methoden
+```
+
+Dateinamen sind klein, ohne Umlaute, mit Bindestrich: `haehnchenschenkel.md`, `reis-kochen-absorptionsmethode.md`. Der Titel im Frontmatter trägt die korrekte Schreibweise mit Umlauten.
+
+# Ein neues Gericht anlegen, Schritt für Schritt
+
+1. **Gericht schreiben** unter `gerichte/<name>.md`. Die Zutatentabelle verlinkt jede Zeile auf das Zutatenkonzept, die Ablaufschritte verlinken auf die Techniken.
+2. **Fehlende Zutaten anlegen**, jede als eigene Datei in ihrer Warengruppe. Keine Sammel-Datei „Gewürze", auch nicht für Salz.
+3. **Fehlende Techniken anlegen**, jede als eigene Datei. Wenn ein Schritt eine Technik nur benutzt, gehört die Erklärung in die Technik, nicht in das Rezept. Das Rezept sagt „Zwiebeln [anschwitzen](/techniken/anschwitzen.md), bis sie glasig sind", nicht, wie Anschwitzen geht.
+4. **Rückverweise ergänzen.** In jeder verwendeten Zutat eine Zeile unter `# Wird verwendet in`, in jeder verwendeten Technik eine Zeile unter `# Wird gebraucht für`. Dieser Schritt wird am häufigsten vergessen und ist der einzige, der die Rückwärtssuche trägt.
+5. **Indexe aktualisieren**: die `index.md` jedes berührten Ordners und die Wurzel-`index.md`.
+6. **`log.md` ergänzen**, neuester Eintrag oben, Datum als `## JJJJ-MM-TT`.
+7. **Validieren**: `node scripts/okf-validate.mjs bundles/rezepte` aus dem Repo-Wurzelverzeichnis, oder `node scripts/check-bundles.mjs` für alle Bundles.
+
+# Was den Graphen kaputt macht
+
+- **Ein Link auf eine `index.md`.** Ein Index ist Navigation, kein Konzept. Aus einem Konzept heraus wird immer auf ein Konzept verlinkt, nie auf die Übersicht daneben.
+- **Eine Zutat ohne Rückverweis.** Sie ist dann nur über den Index erreichbar und taucht in keiner Rückwärtssuche auf.
+- **Eine Zutat doppelt.** „Frühlingszwiebel" und „Lauchzwiebel" sind dasselbe Konzept. Ein Lebensmittel, eine Datei, die zweite Bezeichnung steht im Fließtext.
+- **Mengen im Zutatenkonzept.** Mengen gehören ins Rezept, das Zutatenkonzept beschreibt das Lebensmittel. Sonst muss jede Zutat bei jedem neuen Gericht angefasst werden.
+
+# Was in ein Zutatenkonzept gehört
+
+Was das Lebensmittel ist, welche Sorten es gibt und wie sie sich unterscheiden, worauf es beim Einkauf ankommt, wie es gelagert wird, wie es in der Küche behandelt wird (mit Links auf die Techniken), womit es sich ersetzen lässt, und in welchen Gerichten es vorkommt. Nicht: Nährwerttabellen und Botanik ohne Küchenrelevanz.
