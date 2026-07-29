@@ -1,7 +1,7 @@
 ---
 type: Küche
 title: Levantinische und nordafrikanische Küche
-description: Die Küche zwischen Marokko und Israel: Gemüse als Hauptgericht, Kreuzkümmel und Paprika als Leitgewürze, das Brot als Besteck.
+description: "Die Küche zwischen Marokko und Israel: Gemüse als Hauptgericht, Kreuzkümmel und Paprika als Leitgewürze, das Brot als Besteck."
 tags: [kueche, levante, nordafrika, israel, gemuese]
 generated:
   by: claude-code/opus-5

@@ -10,10 +10,14 @@ zeit_gesamt: 150 Minuten
 schwierigkeit: mittel
 allergene: [Gluten, Soja, Sesam]
 vorab: Roh einfrierbar, direkt gefroren garen
+aufbewahrung:
+  eignung: gut, roh
+  kuehlschrank: roh 1 Tag, gekocht 2 Tage
+  gefrierfach: roh 3 Monate
 tags: [china, teigtaschen, dumplings, vorrat, gyoza]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Jiaozi Filling.md
@@ -63,9 +67,16 @@ In eine Pfanne mit etwas Öl setzen, bis der Boden goldbraun ist [anbraten](/tec
 - Die Füllung ist saftig und federt beim Biss, sie ist nicht krümelig.
 - Beim Gyoza löst sich der Boden als eine zusammenhängende, goldene Fläche aus der Pfanne.
 
-# Vorrat
+# Aufbewahren
 
-Roh auf einem bemehlten Blech einzeln einfrieren, dann in einen Beutel umfüllen. Gefroren direkt ins kochende Wasser, ohne Auftauen, mit ein bis zwei Minuten mehr Garzeit. Aufgetaute rohe Teigtaschen kleben zusammen und reißen.
+Die Vorratsform der Jiaozi ist die **rohe** Teigtasche, nicht die gekochte. Genau deshalb lohnt sich der Aufwand von 50 Stück auf einmal: gegessen werden zwölf, die anderen liegen im Gefrierfach.
+
+- **Roh, Gefrierfach.** 3 Monate. Auf einem bemehlten Blech einzeln [vorfrieren](/techniken/einfrieren.md), dann in einen Beutel umfüllen. Gefroren direkt ins kochende Wasser, ohne Auftauen, mit ein bis zwei Minuten mehr Garzeit. Aufgetaute rohe Teigtaschen kleben zusammen und reißen, das Auftauen ist hier also nicht die schonendere, sondern die schlechtere Variante.
+- **Roh, Kühlschrank.** 1 Tag, mit Abstand auf einem bemehlten Blech, abgedeckt. Länger nicht: die Füllung zieht Wasser in den Teig, und der Boden weicht durch.
+- **Gekocht, Kühlschrank.** 2 Tage. Am besten am nächsten Tag als Gyoza [anbraten](/techniken/anbraten.md), dann ist der weiche Teig wieder knusprig. In der Mikrowelle werden sie zäh.
+- **Gekocht, Gefrierfach.** Möglich, aber ohne Gewinn. Wer einfriert, friert roh ein.
+
+Die [Füllung](/komponenten/jiaozi-fuellung.md) allein einzufrieren funktioniert schlechter als die fertige Teigtasche, weil sie nach dem Auftauen Wasser abgibt und dann die Naht sprengt.
 
 # Tipps
 

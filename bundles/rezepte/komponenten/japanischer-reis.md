@@ -8,10 +8,14 @@ zeit_aktiv: 10 Minuten
 zeit_gesamt: 60 Minuten inklusive Einweichen und Ruhen
 schwierigkeit: einfach
 allergene: []
-tags: [japan, reis, grundlage, beilage]
+aufbewahrung:
+  eignung: gut, aber nur im Gefrierfach
+  kuehlschrank: nicht empfohlen, höchstens 1 Tag
+  gefrierfach: 1 Monat
+tags: [japan, reis, grundlage, beilage, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 ---
 
 # Was es ist
@@ -47,7 +51,16 @@ Neuer Reis (shinmai) bringt mehr Eigenfeuchte mit und braucht bis zu 10 Prozent 
 
 # Aufbewahren
 
-Warm halten trocknet den Reis aus. Besser portionsweise noch warm in Frischhaltefolie wickeln und einfrieren, dann in der Mikrowelle auftauen: das kommt frisch gekochtem Reis deutlich näher als Reis aus dem Kühlschrank, dessen Stärke retrogradiert und kreidig wird.
+Warm halten trocknet den Reis aus. Besser [portionsweise](/techniken/portionieren.md) noch warm in Frischhaltefolie wickeln und [einfrieren](/techniken/einfrieren.md), dann in der Mikrowelle auftauen: das kommt frisch gekochtem Reis deutlich näher als Reis aus dem Kühlschrank, dessen Stärke retrogradiert und kreidig wird.
+
+Das ist der Punkt, an dem Reis der üblichen Vorratslogik widerspricht. Bei etwa 4 Grad, also genau Kühlschranktemperatur, altert gekochte Stärke am schnellsten. Das Gefrierfach überspringt diesen Bereich, weshalb es hier die **bessere** Lagerung ist und nicht die grobere.
+
+- **Portionsgröße.** Eine Schale, etwa 150 bis 180 g. Flach gewickelt, dann taut sie gleichmäßig auf.
+- **Noch warm einwickeln.** Der eingeschlossene Dampf ist beim Auftauen die Feuchtigkeit, die den Reis wieder weich macht.
+- **Haltbarkeit.** 1 Monat im Gefrierfach.
+- **Auftauen.** 1 bis 2 Minuten in der Mikrowelle, in der Folie oder abgedeckt.
+
+Eine Ausnahme gibt es: für [Bratreis](/gerichte/bratreis-mit-ei-und-gemuese.md) ist der kalte, trockene Reis aus dem Kühlschrank genau das Richtige, weil die Körner dann einzeln bleiben. Dort ist die Retrogradation kein Schaden, sondern das Verfahren. Wichtig bleibt in beiden Fällen das schnelle [Abkühlen](/techniken/abkuehlen.md) innerhalb einer Stunde.
 
 # Wird gebraucht für
 

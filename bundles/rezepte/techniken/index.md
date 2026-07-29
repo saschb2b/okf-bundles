@@ -1,18 +1,22 @@
 # Techniken
 
-Handgriffe und Garmethoden, unabhängig vom einzelnen Gericht.
+Handgriffe und Garmethoden, unabhängig vom einzelnen Gericht. Vier davon (Abkühlen, Portionieren, Einfrieren, Auftauen und Aufwärmen) gehören zur Vorratshaltung und setzen erst ein, wenn das Gericht fertig ist.
 
+* [Abkühlen vor dem Wegpacken](abkuehlen.md) - Fertiges Essen schnell und flach herunterkühlen, bevor es in den Kühlschrank oder das Gefrierfach geht, weil langsames Abkühlen Keime vermehrt und Kondenswasser das Gericht verwässert.
 * [Abschäumen (Aku-tori)](abschaeumen.md) - Den grauen Schaum abnehmen, der sich beim Aufkochen von Fleisch und Gemüse bildet, damit Sauce und Brühe klar und sauber schmecken.
 * [Anbraten](anbraten.md) - Fleisch bei hoher Hitze außen bräunen, um über die Maillard-Reaktion Röstaromen aufzubauen.
 * [Anschwitzen](anschwitzen.md) - Aromaten in Fett bei mittlerer Hitze weich garen, ohne dass sie Farbe nehmen.
+* [Auftauen und Aufwärmen](auftauen-und-aufwaermen.md) - Gelagertes Essen so zurück auf Temperatur bringen, dass es dem frisch gekochten nahekommt, wobei sich die Methode nach der Textur richtet, die erhalten bleiben soll.
 * [Blanchieren](blanchieren.md) - Gemüse kurz in kochendem Wasser garen und sofort abkühlen, um Farbe, Biss und Enzymzustand zu fixieren.
 * [Brot backen](brot-backen.md) - Bei hoher Hitze mit Dampf anbacken, damit der Teig aufgeht, bevor die Kruste sich schließt.
 * [Eier in Sauce pochieren](eier-in-sauce-pochieren.md) - Eier in Mulden einer fertigen Sauce garen, bis das Weiß gestockt und das Gelb noch flüssig ist.
+* [Einfrieren](einfrieren.md) - Fertiges Essen bei minus 18 Grad haltbar machen, wobei die Geschwindigkeit des Durchfrierens und der Ausschluss von Luft darüber entscheiden, wie das Gericht später schmeckt.
 * [Fleisch zupfen](fleisch-zupfen.md) - Geschmortes Fleisch entlang der Faser in Stränge teilen und mit Fond mischen, damit es nicht austrocknet.
 * [Kalte Stockgare](kalte-stockgare.md) - Den Teig über Nacht im Kühlschrank gehen lassen, wodurch der Trieb langsamer und der Geschmack tiefer wird.
 * [Köcheln (Simmern)](koecheln.md) - Garen in Flüssigkeit knapp unterhalb des Siedepunkts, damit Stücke weich werden, ohne zu zerfallen.
 * [Marinieren](marinieren.md) - Fleisch in einer Mischung aus Fett, Aromaten und Gewürzen ziehen lassen, um die Oberfläche zu würzen und Röstaromen vorzubereiten.
 * [Mehlschwitze (Roux)](mehlschwitze.md) - Mehl in Fett rösten, um Flüssigkeit zu binden, ohne Klümpchen und ohne Mehlgeschmack.
+* [Portionieren](portionieren.md) - Fertiges Essen vor dem Lagern in Einzelportionen teilen, damit später genau eine Mahlzeit aufgewärmt wird und der Rest unberührt bleibt.
 * [Rangiri (乱切り), rollender Schrägschnitt](rangiri.md) - Japanischer Schnitt, bei dem das Gemüse zwischen den Schnitten gedreht wird, so dass unregelmäßige Stücke mit maximaler Schnittfläche entstehen.
 * [Reis kochen nach der Absorptionsmethode](reis-kochen-absorptionsmethode.md) - Reis in einer abgemessenen Wassermenge zugedeckt garen, bis das Wasser vollständig aufgenommen ist.
 * [Reis waschen (Togu)](reis-waschen.md) - Die lose Oberflächenstärke vom Kurzkornreis spülen, damit die Körner nicht verkleben.

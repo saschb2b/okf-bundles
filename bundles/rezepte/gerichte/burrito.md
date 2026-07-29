@@ -10,10 +10,14 @@ zeit_gesamt: 60 Minuten plus 20 Minuten Abkühlen
 schwierigkeit: einfach
 allergene: [Gluten, Milch]
 vorab: Ist selbst die Vorratshaltung; hält Wochen im Gefrierfach
+aufbewahrung:
+  eignung: gut, ist selbst die Vorratshaltung
+  kuehlschrank: 3 Tage
+  gefrierfach: 3 Monate
 tags: [meal-prep, vorrat, tiefkuehl, huhn, mexikanisch]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Burrito.md
@@ -77,9 +81,15 @@ Ancho-Chilipulver und Koriandersamen sind laut Quelle verzichtbar, ohne dass das
 7. **Wickeln.** Die Füllung gleichmäßig auf sechs große Tortillas verteilen und einschlagen.
 8. **Einfrieren.** Einzeln in Backpapier wickeln und ins Gefrierfach.
 
-# Aufwärmen aus dem Gefrierfach
+# Aufbewahren
 
-Die Burritos sind dick. Entweder über Nacht im Kühlschrank auftauen oder in der Mikrowelle antauen, dann pro Seite eine Minute in der Mikrowelle. Wer eine Kruste will, gibt sie danach kurz in eine trockene Pfanne.
+Das Referenzgericht der [Vorratshaltung](/guide/vorratshaltung.md) in diesem Bundle: Lagerung ist hier nicht das, was nach dem Rezept kommt, sondern der Zweck des Rezepts. Die Schritte 6 bis 8 der Zubereitung, [Abkühlen](/techniken/abkuehlen.md), Wickeln, [Einfrieren](/techniken/einfrieren.md), sind bereits die vollständige Vorratsarbeit.
+
+- **Kühlschrank.** 3 Tage, wenn absehbar ist, dass sie in dieser Woche gegessen werden.
+- **Gefrierfach.** 3 Monate. Jeder Burrito ist eine fertige [Portion](/techniken/portionieren.md), einzeln in Backpapier gewickelt. Backpapier und nicht Frischhaltefolie, weil die Folie am gefrorenen Burrito festklebt.
+- **Aufwärmen.** Die Burritos sind dick. Entweder über Nacht im Kühlschrank auftauen oder in der Mikrowelle antauen, dann pro Seite eine Minute in der Mikrowelle. Wer eine Kruste will, gibt sie danach kurz in eine trockene Pfanne.
+
+Beschriften lohnt sich auch hier, obwohl alle sechs gleich aussehen: nach zwei Monaten weiß niemand mehr, ob der Wickel im Fach der Burrito oder die [Pizzaschnecke](/gerichte/pizzaschnecken.md) war.
 
 # Kennzeichen des gelungenen Ergebnisses
 

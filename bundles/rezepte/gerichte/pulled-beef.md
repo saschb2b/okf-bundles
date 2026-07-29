@@ -11,10 +11,14 @@ schwierigkeit: einfach
 allergene: []
 vorab: Ist ein Vorratsgericht, hält gezupft mehrere Tage im Kühlschrank
 status: draft
+aufbewahrung:
+  eignung: gut
+  kuehlschrank: 4 Tage, im eigenen Fond
+  gefrierfach: 3 Monate, im eigenen Fond
 tags: [rind, schmoren, schongarer, vorrat, sandwich]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Pulled Beef.md
@@ -54,6 +58,16 @@ Das fertige Ergebnis: vollständig [gezupftes Fleisch](/techniken/fleisch-zupfen
 3. **Schmoren.** Mit Zwiebel und Lorbeerblatt in den Schongarer geben, so viel Flüssigkeit angießen, dass das Fleisch etwa zur Hälfte steht, und mehrere Stunden [schmoren](/techniken/schmoren.md), bis es auf Druck nachgibt.
 4. **Ruhen.** Herausnehmen und kurz ruhen lassen, bevor es zerteilt wird.
 5. **Zupfen.** Mit zwei Gabeln [in Fasern zupfen](/techniken/fleisch-zupfen.md) und mit etwas Schmorfond mischen, damit es nicht austrocknet.
+
+# Aufbewahren
+
+Dieser Abschnitt stammt nicht aus der Notiz, die dazu nichts sagt. Er gilt allgemein für geschmortes, gezupftes Fleisch und ist deshalb auch dann brauchbar, wenn die offenen Punkte unten noch nicht geklärt sind.
+
+Die eine Regel, an der alles hängt: **im eigenen Fond lagern, nicht trocken.** Gezupftes Fleisch hat eine enorme Oberfläche und trocknet ohne Flüssigkeit schon im Kühlschrank innerhalb eines Tages zu Fasern aus. Dasselbe Prinzip steht in [Fleisch zupfen](/techniken/fleisch-zupfen.md).
+
+- **Kühlschrank.** 4 Tage, mit so viel Schmorflüssigkeit, dass das Fleisch bedeckt ist. Das Fett, das sich oben absetzt, bleibt drauf: es ist ein Deckel.
+- **Gefrierfach.** 3 Monate. [Portionsweise](/techniken/portionieren.md) mit Fond in flache Beutel, dann [einfrieren](/techniken/einfrieren.md). Das ist die eigentliche Bestimmung des Gerichts: einmal acht Stunden Schongarer, danach sechs fertige Portionen.
+- **Aufwärmen.** Im Topf oder in der Pfanne mit dem Fond, bei mittlerer Hitze, zugedeckt. Wer eine krosse Kante will, gibt es danach kurz in eine heiße Pfanne oder unter den Grill.
 
 # Was die Notiz offen lässt
 

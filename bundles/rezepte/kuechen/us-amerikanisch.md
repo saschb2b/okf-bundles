@@ -1,7 +1,7 @@
 ---
 type: Küche
 title: US-amerikanische Küche
-description: Barbecue-Logik und Backen nach Gewicht: lange Niedrigtemperatur beim Fleisch, exakte Verhältnisse beim Gebäck.
+description: "Barbecue-Logik und Backen nach Gewicht: lange Niedrigtemperatur beim Fleisch, exakte Verhältnisse beim Gebäck."
 tags: [kueche, usa, barbecue, backen]
 generated:
   by: claude-code/opus-5

@@ -1,7 +1,7 @@
 ---
 type: Rezept
 title: Japanisches Curry (カレーライス, Karē Raisu)
-description: Das japanische Alltagscurry: milde, dicke, leicht süße Sauce über Kurzkornreis, mit selbst gemachtem Curry-Roux.
+description: "Das japanische Alltagscurry: milde, dicke, leicht süße Sauce über Kurzkornreis, mit selbst gemachtem Curry-Roux."
 kueche: Japanisch
 gang: Hauptgericht
 portionen: 4
@@ -10,10 +10,14 @@ zeit_gesamt: 80 Minuten
 schwierigkeit: einfach
 allergene: [Gluten, Milch, Soja, Fisch]
 vorab: Sauce am Vortag kochen, schmeckt aufgewärmt besser
-tags: [japan, curry, eintopf, hauptgericht, reisgericht, yoshoku]
+aufbewahrung:
+  eignung: gut
+  kuehlschrank: 3 bis 4 Tage
+  gefrierfach: 3 Monate, ohne die Kartoffeln
+tags: [japan, curry, eintopf, hauptgericht, reisgericht, yoshoku, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 ---
 
 # Was es ist
@@ -89,6 +93,14 @@ Nach [Japanischer Reis](/komponenten/japanischer-reis.md): 360 ml (2 gō) [japan
 | Schärfer | 1/2 TL Cayenne oder Chilipulver in den Roux |
 | Schneller | Fertigen Curry-Roux als Block verwenden, Schritt 6 entfällt |
 | Ein Topf | Nach [Kenji](/gerichte/japanisches-curry-kenji.md): Currypulver und Mehl direkt über dem Fleisch rösten, Süße aus Rosinen und Honig |
+
+# Aufbewahren
+
+Eines der Gerichte, die aufgewärmt besser schmecken als frisch: über Nacht zieht die Würze in Fleisch und Gemüse, und die Sauce wird runder. Für vier Portionen aus einem Zwei-Personen-Haushalt ist das der Normalfall, nicht die Ausnahme.
+
+- **Kühlschrank.** [Abgekühlt](/techniken/abkuehlen.md) und [portioniert](/techniken/portionieren.md) 3 bis 4 Tage. Sauce und [Reis](/komponenten/japanischer-reis.md) in getrennte Dosen, weil beide unterschiedlich aufgewärmt werden wollen.
+- **Gefrierfach.** 3 Monate, mit einer Einschränkung: die [Kartoffel](/zutaten/gemuese/kartoffel.md)stücke werden beim Auftauen mehlig und körnig. Wer auf Vorrat kocht, nimmt sie vor dem [Einfrieren](/techniken/einfrieren.md) heraus oder lässt sie gleich weg und kocht sie frisch dazu.
+- **Aufwärmen.** Im Topf bei mittlerer Hitze mit einem Schuss Wasser, weil die Mehlbindung des [Roux](/komponenten/curry-roux.md) beim Stehen weiter andickt. Die Methode steht in [Auftauen und Aufwärmen](/techniken/auftauen-und-aufwaermen.md).
 
 # Tipps
 

@@ -9,10 +9,14 @@ zeit_gesamt: 45 Minuten inklusive Ruhezeit
 schwierigkeit: einfach
 allergene: [Gluten]
 vorab: Muss mindestens 30 Minuten ruhen, hält gewickelt einen Tag im Kühlschrank
-tags: [china, teig, teigtaschen, bruehteig]
+aufbewahrung:
+  eignung: gut
+  kuehlschrank: 1 Tag
+  gefrierfach: 3 Monate
+tags: [china, teig, teigtaschen, bruehteig, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: adam-liaw
     resource: http://adamliaw.com/recipe/how-to-make-basic-dumplings/
@@ -59,6 +63,16 @@ Den Teig zu einer Rolle von etwa 2 cm Durchmesser formen, in Stücke von 1 cm sc
 - Immer nur so viele Kreise ausrollen, wie in fünf Minuten gefüllt werden. Ausgerollter Teig trocknet an der Oberfläche und schließt dann nicht mehr.
 - Zugedeckt halten, was gerade nicht in der Hand ist, ein feuchtes Tuch reicht.
 - Fertig gerollte Kreise mit etwas Mehl zwischen den Lagen stapeln, sonst kleben sie zusammen.
+
+# Aufbewahren
+
+Der Teig ist ohne Trieb und ohne verderbliche Zutat, also unkompliziert. Der einzige Feind ist Austrocknen: eine trockene Randzone reißt beim Ausrollen und lässt sich nicht mehr einarbeiten.
+
+- **Kühlschrank.** 1 Tag, fest in Frischhaltefolie gewickelt, die Folie leicht bemehlt. Vor dem Verarbeiten 20 bis 30 Minuten auf Raumtemperatur kommen lassen, kalt ist er störrisch.
+- **Gefrierfach.** 3 Monate als Klumpen in Folie plus Beutel. Über Nacht im Kühlschrank auftauen, siehe [Auftauen und Aufwärmen](/techniken/auftauen-und-aufwaermen.md).
+- **Ausgerollte Kreise.** Mit etwas Mehl zwischen den Lagen stapeln, abgedeckt, und noch am selben Tag verarbeiten.
+
+Wer ohnehin auf Vorrat arbeitet, lagert allerdings besser die fertig gefüllte Teigtasche als den Teig allein: rohe [Jiaozi](/gerichte/jiaozi.md) gehen gefroren direkt ins kochende Wasser, während gelagerter Teig noch die ganze Arbeit vor sich hat.
 
 # Wird gebraucht für
 

@@ -10,10 +10,14 @@ zeit_gesamt: 15 Minuten, plus gekochter Reis vom Vortag
 schwierigkeit: einfach
 allergene: [Ei, Soja, Gluten, Sesam]
 vorab: Reis am Vortag kochen und offen im Kühlschrank abtrocknen lassen
+aufbewahrung:
+  eignung: eingeschränkt
+  kuehlschrank: 1 bis 2 Tage
+  gefrierfach: 1 Monat, mit Abstrichen beim Ei
 tags: [china, wok, reisgericht, resteverwertung, schnell, feierabend]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Bratreis mit Ei und Gemüse.md
@@ -96,6 +100,16 @@ Für 1 Portion.
 | Mit Fleisch | Reste von [Hähnchenbrust](/zutaten/fleisch/haehnchenbrust.md) oder Schweinefleisch vor dem Gemüse anbraten |
 | Vegan | Eier weglassen, dafür zerbröselten [Tofu](/zutaten/grundzutaten/tofu.md) mit Kurkuma anbraten |
 | Schärfer | Frische [Chili](/zutaten/gemuese/chili.md) mit dem Knoblauch zugeben |
+
+# Aufbewahren
+
+Ein Sonderfall in diesem Bundle, weil das Gericht selbst schon die Vorratshaltung ist: es verwertet den [Reis](/komponenten/japanischer-reis.md) vom Vortag. Was danach noch übrig bleibt, ist Reis, der zum zweiten Mal gelagert wird, und das wird nicht besser.
+
+- **Kühlschrank.** 1 bis 2 Tage. Kürzer als bei den Saucen dieses Bundles, und der Grund ist der Reis: gekochter Reis ist das Lebensmittel mit dem engsten Zeitfenster, weil *Bacillus cereus* das Kochen übersteht. Das Verfahren dazu steht in [Abkühlen](/techniken/abkuehlen.md).
+- **Gefrierfach.** 1 Monat. Möglich, aber das [Rührei](/techniken/ruehrei.md) wird beim Auftauen gummiartig. Wer auf Vorrat kocht, brät den Reis ohne Ei und schlägt es beim Aufwärmen frisch dazu.
+- **Aufwärmen.** In der Pfanne bei hoher Hitze, nicht in der Mikrowelle. Der Reis wird dabei ein zweites Mal gebraten und trocknet wieder ab, statt zu dämpfen.
+
+Die wichtigere Vorratsfrage steht ohnehin vor dem Gericht, nicht dahinter: der Reis vom Vortag gehört **offen in den Kühlschrank**, damit er abtrocknet, nicht über Nacht auf den Herd.
 
 # Tipps
 
