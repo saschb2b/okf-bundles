@@ -6,7 +6,7 @@ okf_version: "0.2"
 
 Sascha kocht. Eine Rezeptsammlung, die bis auf die einzelne Zutat und den einzelnen Handgriff heruntergebrochen ist: jedes Gericht verlinkt seine Zutaten und Techniken, und jede Zutat verlinkt zurück auf die Gerichte, in denen sie steckt. Damit lässt sich die Sammlung in beide Richtungen lesen, vom Gericht zur Einkaufsliste und von den vorhandenen Zutaten zum möglichen Gericht.
 
-Anfangen bei: [Überblick](overview.md). Die Suchmethode steht in [Rückwärtssuche](guide/rueckwaertssuche.md), und was nach dem Kochen mit den übrigen Portionen passiert, in [Vorratshaltung](guide/vorratshaltung.md).
+Anfangen bei: [Überblick](overview.md). Die Suchmethode steht in [Rückwärtssuche](guide/rueckwaertssuche.md), was nach dem Kochen mit den übrigen Portionen passiert in [Vorratshaltung](guide/vorratshaltung.md), und wer eine ganze Woche auf einmal plant, nimmt einen der [Wochenpläne](wochenplaene/standardwoche.md).
 
 # Gerichte
 
@@ -37,6 +37,14 @@ Sechzehn Gerichte, die meisten aus persönlichen Kochnotizen.
 * [Jiaozi-Teig](komponenten/jiaozi-teig.md) - Brühteig aus Mehl und kochendem Wasser.
 * [Jiaozi-Füllung](komponenten/jiaozi-fuellung.md) - Schweinehack und Chinakohl, springend geschlagen.
 
+# Wochenpläne
+
+Fertig gerechnete Wochen für 2 Personen, mit Einkaufszettel und Restelogik.
+
+* [Standardwoche](wochenplaene/standardwoche.md) - Zwei Kochtage, 27 Minuten Aktivzeit im Schnitt, längster Tag 45 Minuten.
+* [Vorratswoche](wochenplaene/vorratswoche.md) - Ein Kochsonntag, danach höchstens 15 Minuten pro Werktag.
+* [Schnelle Woche](wochenplaene/schnelle-woche.md) - Kein Tag über 30 Minuten, auch der Sonntag nicht.
+
 # Zutaten
 
 * [Alle Zutaten nach Warengruppen](zutaten/index.md) - Gemüse, Obst, Fleisch, Fisch, Milch und Ei, Gewürze, Grundzutaten, Würzmittel und Süßwaren, jede Zutat mit Sorten, Lagerung, Ersatz und den Gerichten, in denen sie vorkommt.
@@ -59,4 +67,6 @@ Sechzehn Gerichte, die meisten aus persönlichen Kochnotizen.
 
 * [Rückwärtssuche](guide/rueckwaertssuche.md) - Von vorhandenen Zutaten zum passenden Gericht.
 * [Vorratshaltung](guide/vorratshaltung.md) - Portionieren, kühlen, einfrieren, aufwärmen, und welches Gericht sich wofür eignet.
+* [Wochenplanung](guide/wochenplanung.md) - Wie aus Gerichten eine Woche wird: zwei Kochtage, geteilte Zutaten, nichts verdirbt.
+* [Einkauf bei Edeka](guide/einkauf-edeka.md) - Marktreihenfolge, Vorratsschrank gegen Wocheneinkauf, und was Edeka nicht führt.
 * [Arbeiten in diesem Bundle](guide/arbeiten-in-diesem-bundle.md) - Konventionen für neue Gerichte, Zutaten und Techniken.

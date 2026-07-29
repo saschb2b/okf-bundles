@@ -5,7 +5,7 @@ description: Die Konventionen für neue Gerichte, Zutaten und Techniken, damit d
 tags: [anleitung, konventionen, okf]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T21:00:00Z
+  at: 2026-07-29T23:00:00Z
 ---
 
 # Die harte Regel
@@ -14,7 +14,7 @@ Dieses Bundle folgt dem Open Knowledge Format (OKF v0.2): ein Ordner aus Markdow
 
 Alles Weitere hier ist Hauskonvention. Sie existiert, damit die [Rückwärtssuche](/guide/rueckwaertssuche.md) funktioniert, und die bricht schneller, als der Validator merkt.
 
-# Die vier Typen und ihr Frontmatter
+# Die Typen und ihr Frontmatter
 
 Verwendete `type`-Werte, jeweils mit den Feldern, die über die OKF-Empfehlungen hinausgehen. Empfohlen und hier überall gesetzt sind `title`, `description`, `tags` und `generated` (`by`, also wer das Konzept geschrieben hat, und `at`, der Zeitpunkt); wo eine Quelle dahintersteht, kommt `sources` dazu. `verified` bleibt leer, solange niemand das Rezept tatsächlich nachgekocht und bestätigt hat:
 
@@ -30,6 +30,9 @@ Verwendete `type`-Werte, jeweils mit den Feldern, die über die OKF-Empfehlungen
 `Zubereitungstechnik`
 : Ein Handgriff oder eine Garmethode, unabhängig vom Gericht. Zusätzlich `kategorie` (Schnitttechnik, Garmethode, Vorbereitung, Vorratshaltung), `werkzeug`, optional `temperatur` und `dauer`. Beispiel: [Anschwitzen](/techniken/anschwitzen.md).
 
+`Wochenplan`
+: Eine gerechnete Woche aus vorhandenen Gerichten. Zusätzlich `haushalt`, `einkaufstag`, `kochtage`, `aktivzeit_woche`, `laengster_tag`, `vegetarische_tage` und vor allem `gerichte`: die Liste der Rezeptpfade, aus denen der Plan besteht. Beispiel: [Standardwoche](/wochenplaene/standardwoche.md).
+
 Dazu kommen `Küche` für eine Landesküche ([Japanische Küche](/kuechen/japanisch.md)) und `Anleitung` für Konzepte wie dieses.
 
 # Wohin die Datei gehört
@@ -42,6 +45,7 @@ zutaten/
   gewuerze/  grundzutaten/  wuerzmittel/  suesswaren/
 techniken/          eine Technik, eine Datei, flach
 kuechen/            eine Landesküche, eine Datei
+wochenplaene/       fertig gerechnete Wochen, abgeleitet aus den Gerichten
 guide/              Konventionen und Methoden
 assets/             Bilder, flach, sprechende Dateinamen
 ```
@@ -56,15 +60,17 @@ Dateinamen sind klein, ohne Umlaute, mit Bindestrich: `haehnchenschenkel.md`, `r
 4. **Abschnitt „Aufbewahren" schreiben.** Pflicht bei jedem Rezept und jeder Komponente, auch wenn die Antwort „hält sich nicht" lautet. Die drei Fragen dazu stehen in [Vorratshaltung](/guide/vorratshaltung.md).
 5. **Rückverweise ergänzen.** In jeder verwendeten Zutat eine Zeile unter `# Wird verwendet in`, in jeder verwendeten Technik eine Zeile unter `# Wird gebraucht für`. Dieser Schritt wird am häufigsten vergessen und ist der einzige, der die Rückwärtssuche trägt.
 6. **Indexe aktualisieren**: die `index.md` jedes berührten Ordners und die Wurzel-`index.md`.
-7. **Bilder ablegen**, falls vorhanden, unter `assets/<gericht>.jpg`, auf etwa 1600 Pixel Kantenlänge verkleinert, und mit einem **relativen** Pfad (`../assets/…`) einbinden, damit sie auch auf GitHub angezeigt werden. Konzept-zu-Konzept-Links bleiben dagegen bundle-absolut.
-8. **`log.md` ergänzen**, neuester Eintrag oben, Datum als `## JJJJ-MM-TT`.
-9. **Validieren**: `node scripts/okf-validate.mjs bundles/rezepte --strict` aus dem Repo-Wurzelverzeichnis, oder `node scripts/check-bundles.mjs` für alle Bundles.
+7. **Wochenpläne prüfen.** Ein [Wochenplan](/wochenplaene/standardwoche.md) ist abgeleitetes Wissen und wird falsch, wenn sich ein Gericht ändert. `node scripts/check-wochenplaene.mjs` meldet jeden Plan, der älter ist als eines seiner Rezepte. Danach inhaltlich prüfen: Zeiten, Portionen, Einkaufsmengen, und ob das neue Gericht in einen bestehenden Plan gehört oder einen neuen ermöglicht. Die Regeln stehen in [Wochenplanung](/guide/wochenplanung.md).
+8. **Bilder ablegen**, falls vorhanden, unter `assets/<gericht>.jpg`, auf etwa 1600 Pixel Kantenlänge verkleinert, und mit einem **relativen** Pfad (`../assets/…`) einbinden, damit sie auch auf GitHub angezeigt werden. Konzept-zu-Konzept-Links bleiben dagegen bundle-absolut.
+9. **`log.md` ergänzen**, neuester Eintrag oben, Datum als `## JJJJ-MM-TT`.
+10. **Validieren**: `node scripts/okf-validate.mjs bundles/rezepte --strict` aus dem Repo-Wurzelverzeichnis, oder `node scripts/check-bundles.mjs` für alle Bundles. Dazu `node scripts/check-wochenplaene.mjs` für die Aktualität der Wochenpläne.
 
 # Was den Graphen kaputt macht
 
 - **Ein Link auf eine `index.md`.** Ein Index ist Navigation, kein Konzept. Aus einem Konzept heraus wird immer auf ein Konzept verlinkt, nie auf die Übersicht daneben.
 - **Eine Zutat ohne Rückverweis.** Sie ist dann nur über den Index erreichbar und taucht in keiner Rückwärtssuche auf.
 - **Eine Zutat doppelt.** „Frühlingszwiebel" und „Lauchzwiebel" sind dasselbe Konzept. Ein Lebensmittel, eine Datei, die zweite Bezeichnung steht im Fließtext.
+- **Ein Wochenplan, der ein geändertes Gericht nicht nachvollzieht.** Er nennt dann Zeiten und Einkaufsmengen, die nicht mehr stimmen, und ist schlimmer als kein Plan. Deshalb der Prüfschritt oben.
 - **Mengen im Zutatenkonzept.** Mengen gehören ins Rezept, das Zutatenkonzept beschreibt das Lebensmittel. Sonst muss jede Zutat bei jedem neuen Gericht angefasst werden.
 
 # Herkunft festhalten
