@@ -11,7 +11,7 @@ haltbarkeit: 6 bis 12 Monate, danach verblasst Farbe und Aroma
 tags: [gewuerz, farbe, suess, geraeuchert]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -52,3 +52,4 @@ Tomatenmark für die Farbe (nicht für den Geschmack), [Chilipulver](/zutaten/ge
 - [Pulled Beef](/gerichte/pulled-beef.md), in der Trockenwürzung.
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), in der Marinade.
 - [Paella](/gerichte/paella.md), im Sofrito.
+- [Pizzaschnecken](/gerichte/pizzaschnecken.md), edelsüß in der Würzpaste, geräuchert in der kräftigen Variante.

@@ -11,7 +11,7 @@ haltbarkeit: 1 bis 2 Jahre ungeöffnet
 tags: [oel, fett, neutral, hocherhitzbar]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -44,3 +44,4 @@ Zum Frittieren mehrfach verwendbar, solange es klar bleibt und nicht ranzig riec
 
 - [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), zum Braten bei hoher Hitze.
 - [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), zum Anbraten des Tofus.
+- Wo der Eigengeschmack gewollt und die Hitze moderat ist, steht stattdessen [Olivenöl](/zutaten/grundzutaten/olivenoel.md).

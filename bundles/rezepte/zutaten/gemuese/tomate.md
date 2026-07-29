@@ -12,7 +12,7 @@ saison: Freiland Juli bis Oktober
 tags: [gemuese, fruchtgemuese, saeure, umami]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -47,3 +47,4 @@ Passierte Tomaten gegen gestückelte ist unproblematisch. Tomatenmark ersetzt fr
 - [Shakshuka](/gerichte/shakshuka.md), als gestückelte Dosentomaten.
 - [Paella](/gerichte/paella.md), gerieben im Sofrito.
 - [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), frisch und gewürfelt.
+- [Pizzaschnecken](/gerichte/pizzaschnecken.md), als [Tomatenmark](/zutaten/wuerzmittel/tomatenmark.md) statt als Sauce.

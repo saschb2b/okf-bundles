@@ -11,7 +11,7 @@ haltbarkeit: Geriebene Ware 1 bis 2 Wochen, angebrochen wenige Tage
 tags: [kaese, schmelzkaese, mild]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -37,3 +37,4 @@ Gouda jung (kräftiger, schmilzt gut), Emmentaler (nussiger), Cheddar (färbt un
 # Wird verwendet in
 
 - [Freezer-Burritos](/gerichte/burrito.md), zusammen mit Frischkäse in die Füllung gerührt.
+- [Pizzaschnecken](/gerichte/pizzaschnecken.md), gerieben als bindender Teil der Füllung.

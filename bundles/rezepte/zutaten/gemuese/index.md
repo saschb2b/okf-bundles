@@ -2,6 +2,7 @@
 
 Frisches Gemüse, Kräuter und Aromaten.
 
+* [Basilikum](basilikum.md) - Süßlich-anisartiges Kraut, dessen Aroma bei Hitze sofort verschwindet und das deshalb immer zuletzt kommt.
 * [Brokkoli](brokkoli.md) - Kohlgemüse aus ungeöffneten Blütenknospen, das kurz gegart leuchtend grün und bissfest bleibt und lang gegart schwefelig wird.
 * [Chili](chili.md) - Scharfe Paprikafrucht, deren Capsaicin in den Trennwänden sitzt und die getrocknet zu einem Gewürz mit eigenem Geschmack wird.
 * [Chinakohl](chinakohl.md) - Milder Kohl mit dicken, wasserreichen Blattrippen, der für Füllungen blanchiert und ausgedrückt werden muss.

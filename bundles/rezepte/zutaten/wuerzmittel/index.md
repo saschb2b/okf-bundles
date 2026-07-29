@@ -12,6 +12,7 @@ Saucen, Essige, Pasten und alles Flüssige zum Würzen.
 * [Reisessig](reisessig.md) - Milder Essig aus fermentiertem Reis, dessen niedrige Säure ihn zum Würzen von Reis geeignet macht.
 * [Shaoxing-Wein](shaoxing-wein.md) - Chinesischer Reiswein, der Fleischfüllungen den strengen Ton nimmt und Fermentaroma beisteuert.
 * [Sojasauce (Shōyu)](sojasauce.md) - Fermentierte Würzsauce aus Sojabohnen und Weizen, die Salz und Umami zugleich liefert.
+* [Tomatenmark](tomatenmark.md) - Stark eingekochtes Tomatenkonzentrat, das Umami und Farbe ohne Wasser liefert und im Fett angeröstet werden will.
 * [Vanilleextrakt](vanilleextrakt.md) - Alkoholischer Auszug aus Vanilleschoten, dessen Aroma flüchtig ist und der deshalb spät in den Teig kommt.
 * [Worcestershiresauce](worcestershiresauce.md) - Fermentierte englische Würzsauce aus Essig, Melasse, Tamarinde und Sardellen, in Japan Grundlage einer eigenen Saucenfamilie.
 

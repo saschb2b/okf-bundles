@@ -8,6 +8,7 @@ Trockengewürze, Kräuter und Salz.
 * [Kreuzkümmel (Cumin)](kreuzkuemmel.md) - Erdig-warmes Gewürz, das mit Kümmel nichts zu tun hat und dessen Aroma erst durch Rösten im Fett aufgeht.
 * [Kurkuma](kurkuma.md) - Gelb färbendes Rhizom mit erdig-bitterem Aroma, dessen Farbstoff fettlöslich und lichtempfindlich ist.
 * [Lorbeerblatt](lorbeerblatt.md) - Getrocknetes Blatt des Echten Lorbeers, das in Schmorgerichten langsam eine harzig-herbe Grundnote abgibt.
+* [Oregano](oregano.md) - Das eine Kraut, das getrocknet kräftiger schmeckt als frisch, und der Leitton der Pizzawürze.
 * [Paprikapulver](paprikapulver.md) - Gemahlene getrocknete Paprika, die Farbe und Süße liefert und bei zu viel Hitze binnen Sekunden bitter wird.
 * [Rosmarin](rosmarin.md) - Harziges, sehr kräftiges Kraut mit nadelförmigen Blättern, das lange Garzeiten aushält.
 * [Safran](safran.md) - Die getrockneten Narben des Krokus, das teuerste Gewürz der Welt, das in heißer Flüssigkeit ausgezogen wird.

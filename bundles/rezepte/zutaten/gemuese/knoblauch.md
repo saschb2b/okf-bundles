@@ -12,7 +12,7 @@ saison: Ganzjährig, frischer Knoblauch Juni bis August
 tags: [gemuese, aroma, wuerze, lauchgewaechs]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -56,3 +56,4 @@ Bärlauch (saisonal, milder), Schalotte plus eine Prise Knoblauchgranulat, oder 
 - [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), zum Brokkoli am Ende.
 - [Paella](/gerichte/paella.md), als Beginn des Sofrito.
 - [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md), fein gehackt, optional.
+- [Pizzaschnecken](/gerichte/pizzaschnecken.md), fein gerieben in der Würzpaste.

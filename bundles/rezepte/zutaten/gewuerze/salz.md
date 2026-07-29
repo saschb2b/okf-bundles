@@ -11,7 +11,7 @@ haltbarkeit: Unbegrenzt
 tags: [gewuerz, grundwuerze, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -46,3 +46,4 @@ Wichtig für Rezepte: gleiche Volumen wiegen unterschiedlich. Ein Teelöffel fei
 - [Brownies](/gerichte/brownies.md), in der trockenen Mischung.
 - [Sushi-Reis](/komponenten/sushi-reis.md), in der Würzmischung und auf den Händen beim Formen.
 - [Shakshuka](/gerichte/shakshuka.md), [Freezer-Burritos](/gerichte/burrito.md), [Paella](/gerichte/paella.md) und [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), zum Abschmecken.
+- [Pizzaschnecken](/gerichte/pizzaschnecken.md), sparsam, weil Parmesan und Salami bereits salzen.

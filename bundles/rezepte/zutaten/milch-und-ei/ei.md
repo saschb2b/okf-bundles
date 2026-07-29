@@ -11,7 +11,7 @@ haltbarkeit: 28 Tage ab Legedatum, danach nur noch durchgegart
 tags: [ei, protein, bindung, grundzutat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -53,3 +53,4 @@ Beim Backen: Apfelmus oder Banane für die Feuchtigkeit, Leinsamen in Wasser fü
 - [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), als Rührei untergehoben.
 - [Shakshuka](/gerichte/shakshuka.md), in der Sauce pochiert.
 - [Brownies](/gerichte/brownies.md), einzeln in die warme Schokoladenmasse geschlagen.
+- [Pizzaschnecken](/gerichte/pizzaschnecken.md), verquirlt als Eistreiche für den Glanz.

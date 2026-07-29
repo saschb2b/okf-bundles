@@ -10,7 +10,7 @@ Anfangen bei: [Überblick](overview.md). Die Suchmethode steht in [Rückwärtssu
 
 # Gerichte
 
-Vierzehn Gerichte aus sechs Küchen, die meisten aus persönlichen Kochnotizen.
+Fünfzehn Gerichte aus sechs Küchen, die meisten aus persönlichen Kochnotizen.
 
 * [Japanisches Curry](gerichte/japanisches-curry.md) - Mildes, dickes Currygericht über Kurzkornreis, mit selbst gemachtem Roux.
 * [Japanisches Curry nach Kenji](gerichte/japanisches-curry-kenji.md) - Dieselbe Familie in der schnellen Ein-Topf-Fassung, mit Rosinen und Honig.
@@ -26,6 +26,7 @@ Vierzehn Gerichte aus sechs Küchen, die meisten aus persönlichen Kochnotizen.
 * [Pulled Beef](gerichte/pulled-beef.md) - Stundenlang geschmortes Rind, gezupft; ein Entwurf aus Fotos.
 * [Sauerteigbrötchen](gerichte/broetchen.md) - Vier Zutaten, kalte Übernachtgare, mit Vorbackverfahren für den Vorrat.
 * [Brownies](gerichte/brownies.md) - Dicht und fudgy, mit Schokolade in drei Formen.
+* [Pizzaschnecken](gerichte/pizzaschnecken.md) - Partyfingerfood aus Kühlregalteig, 20 Minuten Handarbeit.
 
 # Komponenten
 

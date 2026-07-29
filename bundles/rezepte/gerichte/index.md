@@ -12,6 +12,7 @@ Fertige Gerichte. Jedes verlinkt seine Zutaten und die Techniken, die es verlang
 * [Jiaozi (餃子)](jiaozi.md) - Chinesische Teigtaschen mit Schweinehack und Chinakohl, aus Brühteig selbst gerollt, gekocht oder als Gyoza gebraten.
 * [Onigiri (おにぎり)](onigiri.md) - Japanische Reisbällchen aus gewürztem Sushi-Reis, von Hand geformt, wahlweise mit Nori und Füllung.
 * [Paella](paella.md) - Reisgericht aus Bomba-Reis mit Safran, Tomate, Knoblauch und Fischfond, dessen Ziel die knusprige Bodenkruste Socarrat ist.
+* [Pizzaschnecken](pizzaschnecken.md) - Herzhafte Schnecken aus fertigem Kühlregalteig, in der Muffinform gebacken, in 20 Minuten Handarbeit fertig und aus der Hand zu essen.
 * [Pulled Beef](pulled-beef.md) - Rindfleisch, im Schongarer stundenlang in würziger Brühe geschmort und danach in Fasern gezupft, als Vorrat für Brötchen.
 * [Scampi-Erdnussbutter-Nudeln](scampi-erdnussbutter-nudeln.md) - Reisbandnudeln mit Garnelen in einer Sauce aus Erdnussbutter, Tomate und Sojasauce, mit Erdnüssen und Röstzwiebeln als Topping.
 * [Shakshuka](shakshuka.md) - Eier, in einer würzigen Sauce aus Paprika, Tomate, Kreuzkümmel und Chili pochiert, aus einer Pfanne gegessen.

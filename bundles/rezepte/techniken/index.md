@@ -16,6 +16,7 @@ Handgriffe und Garmethoden, unabhängig vom einzelnen Gericht.
 * [Rangiri (乱切り), rollender Schrägschnitt](rangiri.md) - Japanischer Schnitt, bei dem das Gemüse zwischen den Schnitten gedreht wird, so dass unregelmäßige Stücke mit maximaler Schnittfläche entstehen.
 * [Reis kochen nach der Absorptionsmethode](reis-kochen-absorptionsmethode.md) - Reis in einer abgemessenen Wassermenge zugedeckt garen, bis das Wasser vollständig aufgenommen ist.
 * [Reis waschen (Togu)](reis-waschen.md) - Die lose Oberflächenstärke vom Kurzkornreis spülen, damit die Körner nicht verkleben.
+* [Rollen und Schneiden](rollen-und-schneiden.md) - Belegten Teig zu einer Rolle formen und in Scheiben schneiden, so dass die Spirale beim Backen sichtbar bleibt.
 * [Rührei](ruehrei.md) - Eier unter Bewegung stocken lassen, wobei die Hitze darüber entscheidet, ob Creme oder Flocken entstehen.
 * [Schmoren](schmoren.md) - Angebratenes Fleisch stundenlang in wenig Flüssigkeit unter 100 Grad garen, bis das Kollagen zu Gelatine geworden ist.
 * [Socarrat](socarrat.md) - Die karamellisierte Reiskruste am Boden der Paellapfanne, erzeugt durch 30 bis 60 Sekunden hohe Hitze zum Schluss.

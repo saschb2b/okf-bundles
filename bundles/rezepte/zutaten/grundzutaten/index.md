@@ -1,7 +1,8 @@
 # Grundzutaten
 
-Reis, Mehl, Nudeln, Öle und Vorratsware.
+Reis, Mehl, Teige, Nudeln, Öle und Vorratsware.
 
+* [Blätterteig](blaetterteig.md) - Teig aus hunderten von Butter- und Teigschichten, der im Ofen durch Wasserdampf aufgeht und kalt verarbeitet werden muss.
 * [Bomba-Reis](bomba-reis.md) - Spanischer Kurzkornreis, der das Dreifache seines Volumens an Flüssigkeit aufnimmt und dabei die Kornform behält.
 * [Butter](butter.md) - Milchfett mit Wasser- und Eiweißanteil, Geschmacksträger und Fettphase jeder Mehlschwitze.
 * [Dosenbohnen](dosenbohnen.md) - Vorgegarte Hülsenfrüchte aus der Dose, die Protein und Sämigkeit liefern und nur noch erwärmt werden müssen.
@@ -10,6 +11,8 @@ Reis, Mehl, Nudeln, Öle und Vorratsware.
 * [Japanischer Kurzkornreis (Uruchimai)](japanischer-kurzkornreis.md) - Rundkörniger Reis mit hohem Amylopektinanteil, der gegart leicht klebt und sich mit Stäbchen essen lässt.
 * [Langkornreis](langkornreis.md) - Reis mit hohem Amylosegehalt, dessen Körner nach dem Kochen einzeln bleiben und der deshalb die Basis für Bratreis ist.
 * [Noriblatt](noriblatt.md) - Getrocknete und gepresste Rotalge, die geröstet nussig schmeckt und an feuchter Luft binnen Minuten zäh wird.
+* [Olivenöl](olivenoel.md) - Fruchtiges Öl aus Oliven, dessen native Qualität ein Geschmacksträger und dessen raffinierte ein Bratfett ist.
+* [Fertiger Pizzateig (Kühlregal)](pizzateig-fertig.md) - Bereits ausgerollter Hefeteig auf Backpapier, der die gesamte Teigarbeit ersetzt und sofort verarbeitet werden kann.
 * [Rapsöl](rapsoel.md) - Neutrales Pflanzenöl mit hohem Rauchpunkt, das Standardfett zum Anbraten.
 * [Reisbandnudeln](reisbandnudeln.md) - Glutenfreie Bandnudeln aus Reismehl, die eingeweicht statt gekocht werden und im Wok nachgaren.
 * [Röstzwiebeln](roestzwiebel.md) - Frittierte Zwiebelstreifen, die als Topping Knusprigkeit und konzentrierte Süße liefern.

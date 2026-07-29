@@ -12,7 +12,7 @@ saison: Ganzjährig
 tags: [kraut, frisch, garnitur]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -38,3 +38,4 @@ Koriandergrün (völlig anderer Geschmack, aber dieselbe Rolle), Kerbel (milder)
 # Wird verwendet in
 
 - [Shakshuka](/gerichte/shakshuka.md), zum Bestreuen am Ende.
+- Dieselbe Rolle als frisches Grün am Ende spielt [Basilikum](/zutaten/gemuese/basilikum.md), etwa auf den [Pizzaschnecken](/gerichte/pizzaschnecken.md).

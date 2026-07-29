@@ -11,7 +11,7 @@ haltbarkeit: Ganze Körner Jahre, gemahlen wenige Wochen mit vollem Aroma
 tags: [gewuerz, grundwuerze, schaerfe, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -45,3 +45,4 @@ Weißer Pfeffer (schärfer, wenn die schwarzen Punkte stören), Sansho (japanisc
 - [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), zum Würzen des Fleischs.
 - [Pulled Beef](/gerichte/pulled-beef.md), in der Trockenwürzung.
 - [Shakshuka](/gerichte/shakshuka.md), [Freezer-Burritos](/gerichte/burrito.md) und [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), zum Abschmecken.
+- [Pizzaschnecken](/gerichte/pizzaschnecken.md), in der Würzpaste.

@@ -11,7 +11,7 @@ haltbarkeit: 4 bis 6 Wochen gekühlt, mehrere Monate eingefroren
 tags: [fett, milchprodukt, braten, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T20:00:00Z
 ---
 
 # Was es ist
@@ -49,3 +49,4 @@ Für den [Curry-Roux](/komponenten/curry-roux.md): Butterschmalz (neutraler, hit
 - [Curry-Roux](/komponenten/curry-roux.md) und darüber im [japanischen Curry](/gerichte/japanisches-curry.md), als Fettphase der Roux.
 - [Brownies](/gerichte/brownies.md), mit der Schokolade im Wasserbad geschmolzen.
 - [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), geklärt zum Anbraten.
+- Im [Blätterteig](/zutaten/grundzutaten/blaetterteig.md) bildet sie die Schichten, die das Gebäck aufgehen lassen, etwa bei den [Pizzaschnecken](/gerichte/pizzaschnecken.md).
