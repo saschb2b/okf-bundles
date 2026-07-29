@@ -9,13 +9,14 @@ datum: 2005-04-27
 aktenzeichen: "AnwZ (B) 45/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:28:21Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:28:21Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__45-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 27.04.2005 - AnwZ (B) 45/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 45/04 vom 27.04.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.04.2005 - AnwZ (B) 45/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__45-04.pdf?__blob=publicationFile&v=1)
-

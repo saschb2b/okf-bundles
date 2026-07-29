@@ -5,7 +5,16 @@ description: Untersuchungshaft darf nur bei dringendem Tatverdacht und einem Haf
 resource: https://www.gesetze-im-internet.de/stpo/__112.html
 tags: [strafprozess, untersuchungshaft, haftgrund, fluchtgefahr, verhaeltnismaessigkeit]
 norm: "§§ 112, 112a, 116, 117 StPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stpo/__112.html
+    title: "§ 112 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__116.html
+    title: "§ 116 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__117.html
+    title: "§ 117 StPO"
 ---
 
 # Voraussetzungen (§ 112 Abs. 1)
@@ -33,9 +42,3 @@ Bei bestimmten schweren Straftaten (etwa Mord, Terrorismus, schwere Sexualdelikt
 # Bezug
 
 Die Anordnung ist ein Eingriff in die Freiheit der Person (Art. 2 Abs. 2, 104 GG) und unterliegt wie die übrigen [Ermittlungseingriffe](/strafprozess/ermittlungseingriffe-102-100a.md) dem Richtervorbehalt und der [Verhältnismäßigkeit](/verfassungsrecht/verhaeltnismaessigkeit.md).
-
-# Citations
-
-[1] [§ 112 StPO](https://www.gesetze-im-internet.de/stpo/__112.html)
-[2] [§ 116 StPO](https://www.gesetze-im-internet.de/stpo/__116.html)
-[3] [§ 117 StPO](https://www.gesetze-im-internet.de/stpo/__117.html)

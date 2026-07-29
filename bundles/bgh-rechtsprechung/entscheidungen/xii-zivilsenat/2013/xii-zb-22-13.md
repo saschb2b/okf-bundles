@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 22/13"
 doknr: "KORE301792013"
 normen: ["§ 2 Abs 2 Nr 3 VersAusglG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.11.2013 - XII ZB 22/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Ein betrieblich erworbenes Anrecht des Gesellschafter-Geschäftsführers einer GmbH, das noch vor dem Ende der Ehezeit in eine private Kapitalversicherung umgewandelt wird, ist insgesamt nicht in den Versorgungsausgleich einzubeziehen.
@@ -23,8 +29,3 @@ Ein betrieblich erworbenes Anrecht des Gesellschafter-Geschäftsführers einer G
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 22/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.11.2013 - XII ZB 22/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:260220UXIIZR51.19.0"
 doknr: "KORE307382020"
 normen: ["§ 307 BGB, § 535 BGB, § 550 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.02.2020 - XII ZR 51/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Hinzusetzen eines (Firmen-)Stempels zu der Unterschrift eines von mehreren gesamtvertretungsberechtigten Geschäftsführern weist denjenigen, der die Unterschrift geleistet hat, dann nicht als allein unterschriftsberechtigt für die Gesellschaft aus, wenn die Urkunde aufgrund ihres sonstigen Erscheinungsbilds nicht den Eindruck der Vollständigkeit erweckt (Abgrenzung zu Senatsurteil vom 23. Januar 2013 - XII ZR 35/11, NJW 2013, 1082).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:29:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 51/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.02.2020 - XII ZR 51/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

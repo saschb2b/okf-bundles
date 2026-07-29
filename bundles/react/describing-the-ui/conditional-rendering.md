@@ -4,7 +4,12 @@ title: Conditional Rendering
 description: How to render different JSX depending on conditions using if, the logical AND, and the ternary operator.
 resource: https://react.dev/learn/conditional-rendering
 tags: [react, conditional-rendering, jsx, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/conditional-rendering
+    title: "Conditional Rendering"
 ---
 
 # Summary
@@ -85,7 +90,3 @@ function Item({ name, isPacked }) {
 - For short conditions, the `? :` and `&&` shortcuts are idiomatic in JSX.
 - For complex logic, build content in a variable with `if`, then embed it.
 - Extract child components when conditional markup gets too nested.
-
-# Citations
-
-[1] [Conditional Rendering](https://react.dev/learn/conditional-rendering)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:300323UVIIZR10.22.0"
 doknr: "KORE300372023"
 normen: ["§ 543 Abs 1 ZPO, § 606 Abs 1 S 2 Nr 1 ZPO, § 614 ZPO, § 4 UKlaG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.03.2023 - VII ZR 10/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 614 ZPO ist dahin auszulegen, dass die Revision gegen ein Musterfeststellungsurteil eines Oberlandesgerichts kraft Gesetzes zugelassen ist. Eine Entscheidung über die Zulassung der Revision gemäß § 543 Abs. 1 ZPO durch das Oberlandesgericht im angefochtenen Urteil oder durch das Revisionsgericht auf eine Nichtzulassungsbeschwerde hin ist nicht erforderlich.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 10/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.03.2023 - VII ZR 10/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

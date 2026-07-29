@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:091116UVIIIZR73.16.0"
 doknr: "KORE309112016"
 normen: ["§ 543 Abs 1 S 2 BGB, Art 2 Abs 2 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.11.2016 - VIII ZR 73/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 543 Abs. 1 Satz 2 BGB verlangt eine Abwägung der beiderseitigen Interessen der Mietvertragsparteien und eine Berücksichtigung aller Umstände des Einzelfalles; hierzu gehören auch etwaige Härtegründe auf Seiten des Mieters (Bestätigung des Senatsurteils vom 8. Dezember 2004, VIII ZR 218/03, NZM 2005, 300 unter II 3; hier: Besorgnis einer ernsthaften Verschlechterung des Gesundheitszustands einer 97-jährigen, bettlägerigen Mieterin infolge eines erzwungenen Wechsels der bisherigen häuslichen Umgebung und Pflegesituation).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 73/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.11.2016 - VIII ZR 73/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: refs
 description: Flags reading or writing ref.current during render, which produces stale or uninitialized values.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/refs
 tags: [react, eslint, lint, refs, render]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/refs
+    title: "refs"
 ---
 
 # What it flags
@@ -56,7 +61,3 @@ If the lint flags a plain object that happens to have a `.current` property, the
 # Related
 
 See [Referencing Values with Refs](/escape-hatches/referencing-values-with-refs.md) and [useRef](/reference/react/hooks/useRef.md) for why a ref must not be read or written during render.
-
-# Citations
-
-[1] [refs](https://react.dev/reference/eslint-plugin-react-hooks/lints/refs)

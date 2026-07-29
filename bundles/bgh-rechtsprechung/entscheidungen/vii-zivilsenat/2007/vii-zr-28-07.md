@@ -9,13 +9,14 @@ datum: 2007-12-06
 aktenzeichen: "VII ZR 28/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:35:32Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:35:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2007/VII_ZR__28-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 06.12.2007 - VII ZR 28/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VII ZR 28/07 vom 06.12.2007.
-
-# Citations
-
-[1] [BGH, Urteil vom 06.12.2007 - VII ZR 28/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2007/VII_ZR__28-07.pdf?__blob=publicationFile&v=1)
-

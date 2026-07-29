@@ -4,7 +4,12 @@ title: <title>
 description: The built-in browser title component for the document title, which React always hoists into the document head.
 resource: https://react.dev/reference/react-dom/components/title
 tags: [react, react-dom, metadata, seo, head]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/title
+    title: "<title>"
 ---
 
 # Reference
@@ -42,7 +47,3 @@ React always places the `<title>` element in the document `<head>`, regardless o
 # Caveats
 
 - Render only one `<title>` at a time. If several render simultaneously, React puts them all in `<head>` and the behavior of browsers and search engines is undefined.
-
-# Citations
-
-[1] [<title>](https://react.dev/reference/react-dom/components/title)

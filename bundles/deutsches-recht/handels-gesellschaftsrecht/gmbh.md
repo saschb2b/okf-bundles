@@ -5,7 +5,16 @@ description: Die GmbH ist eine juristische Person mit einem Stammkapital von min
 resource: https://www.gesetze-im-internet.de/gmbhg/__13.html
 tags: [gesellschaftsrecht, gmbh, kapitalgesellschaft, haftungsbeschraenkung, stammkapital]
 norm: "§§ 1, 5, 5a, 11, 13 GmbHG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gmbhg/__13.html
+    title: "§ 13 GmbHG"
+  - resource: https://www.gesetze-im-internet.de/gmbhg/__5.html
+    title: "§ 5 GmbHG"
+  - resource: https://www.gesetze-im-internet.de/gmbhg/__11.html
+    title: "§ 11 GmbHG"
 ---
 
 # Rechtsnatur und Haftungsbeschränkung (§ 13)
@@ -20,9 +29,3 @@ Die GmbH ist eine **juristische Person** (§ 13 Abs. 1); sie ist selbst Trägeri
 # Bezug
 
 Die Geschäftsführung und ihre Haftung gegenüber der Gesellschaft regelt [§ 43 GmbHG](/handels-gesellschaftsrecht/geschaeftsfuehrerhaftung-43-gmbhg.md). Gegenstück ist die [Personengesellschaft](/handels-gesellschaftsrecht/personengesellschaften.md) mit persönlicher Gesellschafterhaftung.
-
-# Citations
-
-[1] [§ 13 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__13.html)
-[2] [§ 5 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__5.html)
-[3] [§ 11 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__11.html)

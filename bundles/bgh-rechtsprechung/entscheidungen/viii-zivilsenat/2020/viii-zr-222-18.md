@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:130520BVIIIZR222.18.0"
 doknr: "KORE301032020"
 normen: ["§ 543 Abs 1 Nr 1 ZPO, § 713 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.05.2020 - VIII ZR 222/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Beschränkung der Revisionszulassung durch das Berufungsgericht muss nicht im Tenor des Urteils angeordnet sein, sondern kann sich auch - mit der hierfür erforderlichen Klarheit - aus den Urteilsgründen ergeben. Das ist regelmäßig etwa dann anzunehmen, wenn die vom Berufungsgericht als zulassungsrelevant bezeichnete Frage lediglich einen eindeutig abgrenzbaren selbständigen Teil des Streitstoffs betrifft (im Anschluss an BGH, Urteile vom 24. Oktober 2017 - II ZR 16/16, NJW-RR 2018, 39 Rn. 9; vom 5. Dezember 2018 - VIII ZR 67/18, juris Rn. 17; vom 16. Januar 2019 - VIII ZR 173/17, NJW-RR 2019, 787 Rn. 11; vom 11. Dezember 2019 - VIII ZR 361/18, WM 2020, 469 Rn. 24; vom 29. April 2020 - VIII ZR 355/18, unter B I 2 a; jeweils mwN).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 222/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.05.2020 - VIII ZR 222/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

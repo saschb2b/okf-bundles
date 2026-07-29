@@ -5,7 +5,18 @@ description: Die Umsatzsteuer belastet als Allphasen-Nettosteuer den Endverbrauc
 resource: https://www.gesetze-im-internet.de/ustg_1980/__15.html
 tags: [steuerrecht, umsatzsteuer, vorsteuerabzug, rechnung, kleinunternehmer, mehrwertsteuer]
 norm: "§§ 1, 2, 12, 14, 15, 19 UStG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/ustg_1980/__15.html
+    title: "§ 15 UStG"
+  - resource: https://www.gesetze-im-internet.de/ustg_1980/__19.html
+    title: "§ 19 UStG"
+  - resource: https://www.gesetze-im-internet.de/ustg_1980/__12.html
+    title: "§ 12 UStG"
+  - resource: https://www.gesetze-im-internet.de/ustg_1980/__14.html
+    title: "§ 14 UStG"
 ---
 
 # Steuerbare Umsätze und Unternehmer (§§ 1, 2)
@@ -34,10 +45,3 @@ Umsätze von **Kleinunternehmern** sind von der Umsatzsteuer **befreit**, wenn d
 # Bezug
 
 Verfahren, Voranmeldung und Bescheid richten sich nach der [Abgabenordnung](/steuerrecht/abgabenordnung-und-verfahren.md). Die Umsatzsteuer ist als europäische Mehrwertsteuer weitgehend durch die [Mehrwertsteuer-Systemrichtlinie](/europarecht/rechtsquellen-handlungsformen-288.md) harmonisiert; die Rechnungspflichten berühren das [IT- und Vertragsrecht](/it-ip-recht/softwarevertrag-und-saas.md) der Leistungserbringung.
-
-# Citations
-
-[1] [§ 15 UStG](https://www.gesetze-im-internet.de/ustg_1980/__15.html)
-[2] [§ 19 UStG](https://www.gesetze-im-internet.de/ustg_1980/__19.html)
-[3] [§ 12 UStG](https://www.gesetze-im-internet.de/ustg_1980/__12.html)
-[4] [§ 14 UStG](https://www.gesetze-im-internet.de/ustg_1980/__14.html)

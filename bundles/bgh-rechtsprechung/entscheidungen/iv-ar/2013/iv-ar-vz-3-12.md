@@ -10,8 +10,14 @@ aktenzeichen: "IV AR (VZ) 3/12"
 doknr: "JURE130009877"
 normen: ["§ 15a Abs 6 ZPOEG, Art 12 Abs 1 GG, § 794 Abs 1 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.05.2013 - IV AR (VZ) 3/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 15a Abs 6 ZPOEG, Art 12 Abs 1 GG, § 794 Abs 1 Nr 1 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV AR (VZ) 3/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.05.2013 - IV AR (VZ) 3/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

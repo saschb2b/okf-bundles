@@ -5,7 +5,16 @@ description: Der Erbe haftet für die Nachlassverbindlichkeiten, zunächst auch 
 resource: https://www.gesetze-im-internet.de/bgb/__1967.html
 tags: [erbrecht, erbenhaftung, nachlassverbindlichkeiten, haftungsbeschraenkung]
 norm: "§§ 1967, 1975, 1990 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1967.html
+    title: "§ 1967 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1975.html
+    title: "§ 1975 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1990.html
+    title: "§ 1990 BGB"
 ---
 
 # Grundsatz (§ 1967)
@@ -22,9 +31,3 @@ Der Erbe kann die Haftung auf den Nachlass beschränken:
 # Bezug
 
 Die sicherste Vermeidung der Haftung für einen überschuldeten Nachlass ist die fristgerechte [Ausschlagung](/erbrecht/annahme-ausschlagung-1942.md). Für die Nachlassinsolvenz gelten die Regeln des [Insolvenzrechts](/insolvenzrecht/forderungsanmeldung-174.md) entsprechend.
-
-# Citations
-
-[1] [§ 1967 BGB](https://www.gesetze-im-internet.de/bgb/__1967.html)
-[2] [§ 1975 BGB](https://www.gesetze-im-internet.de/bgb/__1975.html)
-[3] [§ 1990 BGB](https://www.gesetze-im-internet.de/bgb/__1990.html)

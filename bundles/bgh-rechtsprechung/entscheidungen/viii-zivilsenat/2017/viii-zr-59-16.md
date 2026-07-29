@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:150217UVIIIZR59.16.0"
 doknr: "KORE302812017"
 normen: ["§ 119 BGB, § 133 BGB, § 143 BGB, § 157 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.02.2017 - VIII ZR 59/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Sind bei Verkaufsaktionen auf der eBay-Internetplattform die Erklärungen der Teilnehmer nicht aus sich heraus verständlich oder lückenhaft und bedürfen sie deshalb der Auslegung, ist grundsätzlich zwar der Aussagegehalt der eBay-AGB ergänzend in die Auslegung der abgegebenen Willenserklärungen einzubeziehen. Rückt jedoch einer der Teilnehmer von den Regelungen der eBay-AGB erkennbar in bestimmter Hinsicht ab, kommt deren Heranziehung insoweit zur Bestimmung des Vertragsinhalts nicht mehr in Betracht. Es ist dann vielmehr das individuell Vereinbarte maßgeblich (Fortführung der Senatsurteile vom 7. November 2001, VIII ZR 13/01, BGHZ 149, 129, 135 f.; vom 11. Mai 2011, VIII ZR 289/09, BGHZ 189, 346 Rn. 21; vom 10. Dezember 2014, VIII ZR 90/14, NJW 2015, 1009 Rn. 19).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:52Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 59/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.02.2017 - VIII ZR 59/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2009-09-29
 aktenzeichen: "VIII ZR 242/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:40:33Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:40:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_242-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 29.09.2009 - VIII ZR 242/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 242/08 vom 29.09.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.09.2009 - VIII ZR 242/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZR_242-08.pdf?__blob=publicationFile&v=1)
-

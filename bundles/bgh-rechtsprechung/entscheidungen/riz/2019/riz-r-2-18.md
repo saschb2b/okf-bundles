@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:270219URIZ.R.2.18.0"
 doknr: "KORE604592019"
 normen: ["Art 33 Abs 2 GG, § 22 Abs 1 DRiG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:33Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.02.2019 - RiZ (R) 2/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 33 Abs 2 GG, § 22 Abs 1 DRiG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:33:33Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen RiZ (R) 2/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.02.2019 - RiZ (R) 2/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

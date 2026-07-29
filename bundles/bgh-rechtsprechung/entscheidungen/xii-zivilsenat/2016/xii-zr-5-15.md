@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:240216UXIIZR5.15.0"
 doknr: "KORE313072016"
 normen: ["§ 147 Abs 2 BGB, § 149 BGB, § 150 Abs 1 BGB, § 151 BGB, § 242 BGB, § 307 Abs 1 BGB, § 307 Abs 2 Nr 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.02.2016 - XII ZR 5/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bis zu welchem Zeitpunkt ein Vertragsangebot unter Abwesenden angenommen werden konnte, unterliegt tatrichterlichem Ermessen. Die Entscheidung des Tatsachengerichts ist vom Revisionsgericht nur daraufhin überprüfbar, ob das Ermessen ausgeübt worden ist, dabei alle wesentlichen Umstände rechtsfehlerfrei ermittelt und berücksichtigt sowie die Grenzen des tatrichterlichen Ermessens richtig bestimmt und eingehalten worden sind (im Anschluss an BGH Urteil vom 24. November 1951, II ZR 63/51, LM BGB § 147 Nr. 1 und BAG, 6. Februar 2003, 2 AZR 674/01, BAGE 104, 315 = BB 2003, 1731).
@@ -34,8 +40,3 @@ timestamp: 2026-06-22T12:31:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 5/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.02.2016 - XII ZR 5/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

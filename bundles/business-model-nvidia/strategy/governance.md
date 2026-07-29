@@ -4,7 +4,24 @@ title: NVIDIA corporate structure and financials
 description: Market cap, FY2026 financials, Jensen Huang, and China export-control exposure.
 resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026
 tags: [nvidia, financials, market-cap, china, export-controls]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://www.forbes.com/sites/antoniopequenoiv/2026/05/13/nvidia-hits-record-55-trillion-value-first-company-to-ever-reach-mark/
+    title: "NVIDIA hits record $5.5T, first to reach the mark (Forbes, May 13 2026)"
+  - resource: https://companiesmarketcap.com/nvidia/marketcap/
+    title: "NVIDIA market cap (companiesmarketcap.com)"
+  - resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026
+    title: "NVIDIA financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)"
+  - resource: https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html
+    title: "NVIDIA Q1 FY2027 earnings (CNBC, May 20 2026)"
+  - resource: https://www.computerweekly.com/news/366625005/Nvidia-takes-45bn-hit-due-export-restrictions
+    title: "NVIDIA takes $4.5B hit due to export restrictions (Computer Weekly, 2025)"
+  - resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2026
+    title: "NVIDIA Q1 FY2026 results (NVIDIA, 2025)"
+  - resource: https://bullfincher.io/companies/nvidia-corporation/revenue-by-geography
+    title: "NVIDIA revenue by geography (Bullfincher, FY2026)"
 ---
 
 # The most valuable company in the world
@@ -25,13 +42,3 @@ Export policy is the biggest external variable in the model. The timeline as of 
 - **China was ~9.1% of revenue (~$19.7B) in FY2026**, on a basis NVIDIA shifted to customer-HQ location in Q3 FY2026. [7]
 
 The mid-2026 status of H200-to-China is fluid and unresolved. This exposure is why the [monetization](/revenue/pricing.md) margin story carries a policy asterisk.
-
-# Citations
-
-[1] [NVIDIA hits record $5.5T, first to reach the mark (Forbes, May 13 2026)](https://www.forbes.com/sites/antoniopequenoiv/2026/05/13/nvidia-hits-record-55-trillion-value-first-company-to-ever-reach-mark/)
-[2] [NVIDIA market cap (companiesmarketcap.com)](https://companiesmarketcap.com/nvidia/marketcap/)
-[3] [NVIDIA financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026)
-[4] [NVIDIA Q1 FY2027 earnings (CNBC, May 20 2026)](https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html)
-[5] [NVIDIA takes $4.5B hit due to export restrictions (Computer Weekly, 2025)](https://www.computerweekly.com/news/366625005/Nvidia-takes-45bn-hit-due-export-restrictions)
-[6] [NVIDIA Q1 FY2026 results (NVIDIA, 2025)](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2026)
-[7] [NVIDIA revenue by geography (Bullfincher, FY2026)](https://bullfincher.io/companies/nvidia-corporation/revenue-by-geography)

@@ -9,13 +9,14 @@ datum: 2001-04-05
 aktenzeichen: "III ZB 48/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:03:15Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:03:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2000/III_ZB__48-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.04.2001 - III ZB 48/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZB 48/00 vom 05.04.2001.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.04.2001 - III ZB 48/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2000/III_ZB__48-00.pdf?__blob=publicationFile&v=1)
-

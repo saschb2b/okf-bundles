@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:060722UVIIIZR28.21.0"
 doknr: "KORE301862022"
 normen: ["§ 1 Abs 1 AVBFernwärmeV, § 4 Abs 1 AVBFernwärmeV, § 4 Abs 2 AVBFernwärmeV, § 24 Abs 4 S 1 AVBFernwärmeV vom 04.11.2010, § 24 Abs 4 S 2 AVBFernwärmeV vom 04.11.2010, § 134 BGB, § 139 BGB, § 306 Abs 1 BGB, § 812 Abs 1 S 1 Alt 1 BGB, Art 6 Abs 1 EWGRL 13/93"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.07.2022 - VIII ZR 28/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei Preisänderungsklauseln in Fernwärmelieferungsverträgen gebietet das Transparenzgebot in § 24 Abs. 4 Satz 2 AVBFernwärmeV eine Erläuterung der Zusammensetzung der Bezugspreise des Fernwärmeversorgungsunternehmens, also insbesondere der diesen zugrundeliegenden vertraglichen und preislichen Bestimmungen, oder auch die namentliche Bezeichnung des Bezugslieferanten nicht. Allerdings muss eine Preisänderungsklausel zum Arbeitspreis, mit dem die vom Kunden abgenommene Wärmemenge vergütet wird, nach § 24 Abs. 4 Satz 1 AVBFernwärmeV zwingend auch die jeweiligen Verhältnisse auf dem Wärmemarkt angemessen berücksichtigen (Bestätigung des Senatsurteils vom 1. Juni 2022 - VIII ZR 287/20, juris Rn. 20 ff., 27 ff., BGHZ 233, 339).
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:27:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 28/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.07.2022 - VIII ZR 28/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

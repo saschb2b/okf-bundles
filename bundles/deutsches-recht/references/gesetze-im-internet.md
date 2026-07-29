@@ -4,7 +4,14 @@ title: "Gesetze im Internet (amtliche Quellen)"
 description: Das amtliche Portal mit dem geltenden Bundesrecht in konsolidierter Fassung; primäre Fundstelle für den Normtext nahezu aller Konzepte dieses Bündels (BGB, HGB, GmbHG, StGB, ZPO, GG, SGB und weitere); das Unionsrecht steht bei EUR-Lex.
 resource: https://www.gesetze-im-internet.de/
 tags: [external, primary-source, amtlich, bgb, stgb]
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/
+    title: "Gesetze im Internet (Bundesrecht konsolidiert)"
+  - resource: https://www.gesetze-im-internet.de/bgb/
+    title: "Bürgerliches Gesetzbuch (BGB)"
 ---
 
 # Zusammenfassung
@@ -94,8 +101,3 @@ Gebiete außerhalb des BGB ziehen eigene Gesetze heran, ebenfalls bei gesetze-im
 # Hinweis
 
 Konsolidierte Fassungen geben den geltenden Stand wieder, sind aber kein amtliches Verkündungsorgan. Der Abrufstand dieses Bündels ist der 18. und 19. Juni 2026; für den tagesaktuellen Stand ist die Quelle erneut zu prüfen.
-
-# Citations
-
-[1] [Gesetze im Internet (Bundesrecht konsolidiert)](https://www.gesetze-im-internet.de/)
-[2] [Bürgerliches Gesetzbuch (BGB)](https://www.gesetze-im-internet.de/bgb/)

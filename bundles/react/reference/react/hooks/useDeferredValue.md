@@ -4,7 +4,12 @@ title: useDeferredValue
 description: React Hook that defers updating a part of the UI, keeping a stale value on screen while a new value renders in the background.
 resource: https://react.dev/reference/react/useDeferredValue
 tags: [react, hook, performance, concurrent, suspense]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useDeferredValue
+    title: "useDeferredValue"
 ---
 
 # Reference
@@ -62,7 +67,3 @@ The current value. On the initial render this is `initialValue` (if given) or th
 - It does not by itself prevent extra network requests.
 - It adds no fixed delay. React starts the background re-render as soon as the original render finishes. Updates from events such as typing interrupt and take priority over it.
 - The background re-render does not fire Effects until it commits to the screen. If it suspends, its Effects run after the data loads and the UI updates.
-
-# Citations
-
-[1] [useDeferredValue](https://react.dev/reference/react/useDeferredValue)

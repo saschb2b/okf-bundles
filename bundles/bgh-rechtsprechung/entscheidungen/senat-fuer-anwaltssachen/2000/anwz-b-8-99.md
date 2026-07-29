@@ -9,13 +9,14 @@ datum: 2000-02-14
 aktenzeichen: "AnwZ (B) 8/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:16:23Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:16:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/1999/AnwZ_B___8-99.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 14.02.2000 - AnwZ (B) 8/99 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 8/99 vom 14.02.2000.
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.02.2000 - AnwZ (B) 8/99 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/1999/AnwZ_B___8-99.pdf?__blob=publicationFile&v=1)
-

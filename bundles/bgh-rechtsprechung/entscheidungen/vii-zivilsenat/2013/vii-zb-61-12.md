@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 61/12"
 doknr: "KORE311082013"
 normen: ["§ 144 Abs 1 S 3 ZPO, § 492 Abs 1 ZPO, Art 13 GG, § 1 Abs 5 WoEigG, § 10 Abs 6 WoEigG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.05.2013 - VII ZB 61/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Gericht kann einem am selbstständigen Beweisverfahren nicht beteiligten Dritten nicht aufgeben, eine Bauteilöffnung in seiner Wohnung zum Zwecke der Beweissicherung zu dulden.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 61/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.05.2013 - VII ZB 61/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

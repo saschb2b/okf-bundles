@@ -5,7 +5,14 @@ description: Sozialleistungen werden durch Verwaltungsakt bewilligt; ein bestand
 resource: https://www.gesetze-im-internet.de/sgb_10/__44.html
 tags: [sozialrecht, sgb-x, ueberpruefungsantrag, bestandskraft]
 norm: "§§ 31, 44 SGB X"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_10/__44.html
+    title: "§ 44 SGB X"
+  - resource: https://www.gesetze-im-internet.de/sgb_10/__31.html
+    title: "§ 31 SGB X"
 ---
 
 # Verwaltungsakt (§ 31 SGB X)
@@ -22,8 +29,3 @@ Die Behörde entscheidet über Sozialleistungen durch **Verwaltungsakt** (§ 31 
 # Abgrenzung
 
 Die Rücknahme eines rechtswidrigen **begünstigenden** VA (zulasten des Bürgers) richtet sich nach § 45 SGB X, die Aufhebung bei nachträglicher Änderung nach § 48 SGB X. § 44 ist das Gegenstück zugunsten des Bürgers und ein praktisch sehr bedeutsames Werkzeug.
-
-# Citations
-
-[1] [§ 44 SGB X](https://www.gesetze-im-internet.de/sgb_10/__44.html)
-[2] [§ 31 SGB X](https://www.gesetze-im-internet.de/sgb_10/__31.html)

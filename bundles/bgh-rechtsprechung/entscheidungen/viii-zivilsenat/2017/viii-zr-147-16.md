@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:050717UVIIIZR147.16.0"
 doknr: "KORE301842017"
 normen: ["§ 17 Abs 2 Nr 1 Buchst a EEG 2012, § 25 Abs 1 S 1 Nr 1 EEG 2014, § 35 Abs 4 S 1 EEG 2012, § 35 Abs 4 S 3 EEG 2012, § 52 Abs 3 Nr 1 EEG 2017, § 57 Abs 5 S 1 EEG 2014, § 57 Abs 5 S 3 EEG 2014, § 100 Abs 1 Nr 3 Buchst b EEG 2014, § 100 Abs 2 S 1 Nr 3 Buchst b EEG 2017"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 05.07.2017 - VIII ZR 147/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Betreiber einer Photovoltaikanlage, der Fördermittel nach dem Erneuerbare-Energien-Gesetz in Anspruch nehmen will, hat sich über die geltende Rechtslage und über die Voraussetzungen für die Inanspruchnahme der Förderung zu informieren und ist deshalb grundsätzlich auch selbst verantwortlich für die Erfüllung seiner Meldepflichten gegenüber der Bundesnetzagentur.
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:27:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 147/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 05.07.2017 - VIII ZR 147/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

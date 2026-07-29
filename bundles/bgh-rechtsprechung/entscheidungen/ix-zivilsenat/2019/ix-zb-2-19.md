@@ -10,8 +10,14 @@ aktenzeichen: "IX ZB 2/19"
 doknr: "KORE301642019"
 normen: ["§ 568 S 2 ZPO, Art 3 Abs 1 GG, Art 12 Abs 1 GG, Art 80 Abs 1 S 2 GG, § 63 Abs 1 InsO, § 2 Abs 1 InsVV, § 3 Abs 1 InsVV, § 6 InsVV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:59:09Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:59:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.09.2019 - IX ZB 2/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Um die gerichtliche Zuständigkeit der Kammer zu begründen, genügt es, wenn der Einzelrichter einen aktenkundigen Beschluss zur Übertragung des Verfahrens auf die Kammer vor Erlass des Beschlusses der Kammer getroffen hat.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T10:59:09Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 2/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.09.2019 - IX ZB 2/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

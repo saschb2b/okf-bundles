@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 9/09"
 doknr: "KORE300702010"
 normen: ["Art 20 Abs 3 GG, § 1572 BGB, § 1578b Abs 1 BGB vom 21.12.2007, § 1578b Abs 2 S 2 BGB vom 21.12.2007, § 36 Nr 1 ZPOEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.06.2010 - XII ZR 9/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 1578b BGB ist - auch - im Hinblick auf die Befristung des Krankheitsunterhalts nicht wegen Unbestimmtheit verfassungswidrig .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:14:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 9/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.06.2010 - XII ZR 9/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

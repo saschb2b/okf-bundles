@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:211021UIXZR9.21.0"
 doknr: "KORE308022021"
 normen: ["§ 249 BGB, § 280 BGB, § 9 Nr 1 S 2 GewStG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.10.2021 - IX ZR 9/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Führt eine fehlerhafte steuerliche Beratung zu steuerlichen Vorteilen, die dem Mandanten wegen Festsetzungsverjährung verbleiben, können diese Vorteile bei wertender Betrachtung im Rahmen des Gesamtvermögensvergleichs schadensmindernd anzurechnen sein.
@@ -24,8 +30,3 @@ Führt eine fehlerhafte steuerliche Beratung zu steuerlichen Vorteilen, die dem 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 9/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.10.2021 - IX ZR 9/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:210525UVIIIZR201.23.0"
 doknr: "KORE712292025"
 normen: ["§ 469 Abs 2 S 1 BGB, § 570b BGB vom 19.06.2001, § 577 Abs 1 S 1 BGB, § 577 Abs 1 S 3 BGB, § 1 WoEigG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.05.2025 - VIII ZR 201/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1.    In analoger Anwendung des § 577 Abs. 1 Satz 1 BGB kann auch dann ein Vorkaufsrecht des Mieters entstehen, wenn anstelle von Wohnungseigentum Teileigentum an zu Wohnzwecken vermieteten Räumlichkeiten begründet wird.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:40:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 201/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.05.2025 - VIII ZR 201/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

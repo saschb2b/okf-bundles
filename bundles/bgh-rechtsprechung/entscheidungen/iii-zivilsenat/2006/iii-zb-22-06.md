@@ -9,13 +9,14 @@ datum: 2006-11-30
 aktenzeichen: "III ZB 22/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:32:32Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:32:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2006/III_ZB__22-06.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 30.11.2006 - III ZB 22/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZB 22/06 vom 30.11.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.11.2006 - III ZB 22/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2006/III_ZB__22-06.pdf?__blob=publicationFile&v=1)
-

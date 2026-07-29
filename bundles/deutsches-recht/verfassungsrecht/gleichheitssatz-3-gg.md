@@ -5,7 +5,12 @@ description: Alle Menschen sind vor dem Gesetz gleich; wesentlich Gleiches ist g
 resource: https://www.gesetze-im-internet.de/gg/art_3.html
 tags: [verfassungsrecht, gleichheitssatz, diskriminierungsverbot]
 norm: "Art. 3 GG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gg/art_3.html
+    title: "Art. 3 GG"
 ---
 
 # Regel
@@ -21,7 +26,3 @@ Geprüft wird, ob eine **Ungleichbehandlung wesentlich gleicher** Sachverhalte (
 # Bezug
 
 Anders als bei den Freiheitsrechten ([Schutzbereich, Eingriff, Rechtfertigung](/verfassungsrecht/grundrechte-grundlagen.md)) steht hier die vergleichende Prüfung im Vordergrund; auf der Rechtfertigungsebene wirkt wiederum die [Verhältnismäßigkeit](/verfassungsrecht/verhaeltnismaessigkeit.md).
-
-# Citations
-
-[1] [Art. 3 GG](https://www.gesetze-im-internet.de/gg/art_3.html)

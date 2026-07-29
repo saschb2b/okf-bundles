@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:240216UVIIIZR216.12.0"
 doknr: "KORE303232016"
 normen: ["§ 315 BGB, § 3 Nr 22 Alt 2 EnWG 2005, § 115 Abs 2 S 3 EnWG 2005, § 116 S 1 EnWG 2005, § 116 S 2 EnWG 2005, § 4 Abs 1 AVBGasV, § 4 Abs 2 AVBGasV, § 23 GasGVV, Art 2 Nr 26 EGRL 55/2003, Art 3 Abs 3 Anh A EGRL 55/2003"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:03Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.02.2016 - VIII ZR 216/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Anders als bei Haushaltskunden steht dem Gasgrundversorger gegenüber Nicht-Haushaltskunden im Sinne des Art. 2 Nr. 26 der Gas-Richtlinie 2003/55/EG, die auch nicht gemäß § 3 Nr. 22 Alt. 2 EnWG 2005 als Haushaltskunden anzusehen sind, gemäß § 4 Abs. 1 und 2 AVBGasV auch nach dem Ablauf der bis zum 1. Juli 2004 reichenden Umsetzungsfrist der Gas-Richtlinie 2003/55/EG das Recht zu, die Preise nach billigem Ermessen (§ 315 BGB) zu ändern (Fortführung der Senatsurteile vom 28. Oktober 2015, VIII ZR 158/11, BGHZ 207, 209, ZIP 2015, 2226 und VIII ZR 13/12, juris, ZIP 2015, 2236; vom 9. Dezember 2015, VIII ZR 208/12, juris, EnWZ 2016, 166, VIII ZR 236/12, juris, und VIII ZR 330/12, juris, EnWZ 2016, 168).
@@ -34,8 +40,3 @@ timestamp: 2026-06-22T12:28:03Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 216/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.02.2016 - VIII ZR 216/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

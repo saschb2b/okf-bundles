@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 339/11"
 doknr: "KORE305882013"
 normen: ["§ 254 Abs 1 BGB, § 280 Abs 1 BGB, § 434 Abs 2 S 2 BGB, § 437 Nr 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:26Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:26Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.02.2013 - VIII ZR 339/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Frage der Doppelkausalität bei einer Schadensverursachung durch Mängel eng zusammengehöriger Arbeitsvorgänge zur Herstellung eines Bodenbelags (Bestätigung von BGH, Urteil vom 7. Mai 2004, V ZR 77/03, NJW 2004, 2526).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:26Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 339/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.02.2013 - VIII ZR 339/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:080819UVIIZR34.18.0"
 doknr: "KORE301352019"
 normen: ["§ 2 Abs 3 Nr 2 VOB B 2009, § 133 BGB, § 157 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.08.2019 - VII ZR 34/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wie die Vergütungsanpassung bei Mengenmehrungen vorzunehmen ist, wenn eine Einigung über den neuen Einheitspreis nicht zustande kommt, ist in § 2 Abs. 3 Nr. 2 VOB/B nicht geregelt. Die Bestimmung gibt nur vor, dass bei der von den Parteien zu treffenden Vereinbarung über den neuen Preis Mehr- oder Minderkosten zu berücksichtigen sind. Die VOB/B legt die Verantwortung für die neue Preisbestimmung, durch die etwaigen Störungen des Äquivalenzverhältnisses entgegengewirkt werden soll, damit in die Hände der Vertragsparteien, die unter Berücksichtigung der geänderten Umstände einen neuen Preis aushandeln sollen.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:14:52Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 34/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.08.2019 - VII ZR 34/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

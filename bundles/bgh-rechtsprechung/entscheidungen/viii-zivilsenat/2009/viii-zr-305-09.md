@@ -9,13 +9,14 @@ datum: 2009-12-08
 aktenzeichen: "VIII ZR 305/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:40:55Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:40:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZR_305-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 08.12.2009 - VIII ZR 305/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 305/09 vom 08.12.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.12.2009 - VIII ZR 305/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZR_305-09.pdf?__blob=publicationFile&v=1)
-

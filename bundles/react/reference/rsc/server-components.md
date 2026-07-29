@@ -4,7 +4,12 @@ title: Server Components
 description: Server Components render ahead of time, before bundling, in an environment separate from the client app or SSR server.
 resource: https://react.dev/reference/rsc/server-components
 tags: [react, rsc, server-components, ssr, async]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/rsc/server-components
+    title: "Server Components"
 ---
 
 # Reference
@@ -107,7 +112,3 @@ function Comments({ commentsPromise }) {
 - Mark the client boundary with [`"use client"`](/reference/rsc/use-client.md).
 - Define callable server endpoints with [Server Functions](/reference/rsc/server-functions.md) and the [`"use server"`](/reference/rsc/use-server.md) directive.
 - Suspend high-priority data with [`<Suspense>`](/reference/react/components/Suspense.md); resolve promises on the client with [`use`](/reference/react/apis/use.md).
-
-# Citations
-
-[1] [Server Components](https://react.dev/reference/rsc/server-components)

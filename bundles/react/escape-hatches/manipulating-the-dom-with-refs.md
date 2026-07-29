@@ -4,7 +4,12 @@ title: Manipulating the DOM with Refs
 description: Use refs to access DOM nodes that React manages, for focus, scroll, and measurement, and the rules for doing so safely.
 resource: https://react.dev/learn/manipulating-the-dom-with-refs
 tags: [react, refs, useRef, dom]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/manipulating-the-dom-with-refs
+    title: "Manipulating the DOM with Refs"
 ---
 
 # Summary
@@ -107,7 +112,3 @@ listRef.current.lastChild.scrollIntoView(); // node already in the DOM
 - Usually use refs for non-destructive actions: focusing, scrolling, measuring.
 - A component does not expose its DOM nodes unless you opt in via a `ref` prop.
 - Avoid changing DOM nodes managed by React. If you must, change only parts React has no reason to update.
-
-# Citations
-
-[1] [Manipulating the DOM with Refs](https://react.dev/learn/manipulating-the-dom-with-refs)

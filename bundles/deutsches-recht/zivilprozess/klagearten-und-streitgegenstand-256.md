@@ -5,7 +5,18 @@ description: Die ZPO kennt Leistungs-, Feststellungs- und Gestaltungsklage; die 
 resource: https://www.gesetze-im-internet.de/zpo/__256.html
 tags: [zivilprozess, klagearten, feststellungsklage, gestaltungsklage, streitgegenstand, klageaenderung]
 norm: "§§ 253, 254, 256, 260, 263, 264, 33 ZPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__256.html
+    title: "§ 256 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__260.html
+    title: "§ 260 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__263.html
+    title: "§ 263 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__254.html
+    title: "§ 254 ZPO"
 ---
 
 # Die drei Klagearten
@@ -32,10 +43,3 @@ Der Streitgegenstand bestimmt, worüber das Gericht entscheidet. Nach herrschend
 # Bezug
 
 Antrag und Lebenssachverhalt sind schon in der [Klageschrift](/zivilprozess/klageerhebung-253.md) zu bezeichnen. Welche Tatsachen für den geltend gemachten Anspruch erheblich und zu beweisen sind, ergibt sich aus dem [materiellen Anspruchsaufbau](/methodik/anspruchsaufbau.md); ihre Feststellung regelt das [Beweisrecht](/zivilprozess/beweisrecht-und-beweislast-286.md).
-
-# Citations
-
-[1] [§ 256 ZPO](https://www.gesetze-im-internet.de/zpo/__256.html)
-[2] [§ 260 ZPO](https://www.gesetze-im-internet.de/zpo/__260.html)
-[3] [§ 263 ZPO](https://www.gesetze-im-internet.de/zpo/__263.html)
-[4] [§ 254 ZPO](https://www.gesetze-im-internet.de/zpo/__254.html)

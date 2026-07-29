@@ -4,7 +4,12 @@ title: createContext
 description: Creates a context that components can provide or read to pass data deep without prop drilling.
 resource: https://react.dev/reference/react/createContext
 tags: [react, context, state-management, provider]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/createContext
+    title: "createContext"
 ---
 
 # Reference
@@ -66,6 +71,3 @@ Wrap components in a context provider to set the value for everything inside. St
 # Caveats
 
 - The argument to `createContext` is only the default value and never changes. To make context change over time, add state and wrap components in a provider, as shown in [updating data passed via context](/reference/react/hooks/useContext.md).
-
-# Citations
-[1] [createContext](https://react.dev/reference/react/createContext)

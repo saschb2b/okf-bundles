@@ -4,7 +4,12 @@ title: NVIDIA go-to-market
 description: Direct to hyperscalers, OEM/ODM partners, the CUDA developer flywheel, and the TSMC supply side.
 resource: https://www.nvidia.com/
 tags: [nvidia, distribution, oem, cuda, tsmc]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026
+    title: "NVIDIA financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)"
 ---
 
 # How NVIDIA reaches buyers
@@ -25,7 +30,3 @@ The CUDA developer ecosystem, on the order of 6 million developers (reported, ap
 # The supply side
 
 NVIDIA is fabless: silicon is fabricated by TSMC with advanced CoWoS packaging, and HBM memory comes from a small set of suppliers. That upstream dependency is the subject of the [cost structure](/economics/cost-structure.md), and it is the ceiling on how fast NVIDIA can actually ship what its channels sell.
-
-# Citations
-
-[1] [NVIDIA financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026)

@@ -4,7 +4,12 @@ title: cloneElement
 description: Legacy API that creates a new React element from an existing one with overridden props and children. Using it is uncommon and fragile. Prefer render props, context, or a custom Hook.
 resource: https://react.dev/reference/react/cloneElement
 tags: [react, legacy, elements, props, api]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/cloneElement
+    title: "cloneElement"
 ---
 
 # Legacy notice
@@ -68,6 +73,3 @@ A React element object with:
 - Extract logic into a custom Hook. Move non-visual logic (selection, navigation) into a Hook like `useList` and use its return value to decide what to render.
 
 This API is commonly paired with [Children](/reference/react/legacy/Children.md), which is also legacy. The `element` argument can be produced by [createElement](/reference/react/legacy/createElement.md), and you can guard inputs with [isValidElement](/reference/react/legacy/isValidElement.md).
-
-# Citations
-[1] [cloneElement](https://react.dev/reference/react/cloneElement)

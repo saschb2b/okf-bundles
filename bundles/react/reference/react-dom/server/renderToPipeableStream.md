@@ -4,7 +4,12 @@ title: renderToPipeableStream
 description: Renders a React tree to a pipeable Node.js Stream for streaming server-side rendering.
 resource: https://react.dev/reference/react-dom/server/renderToPipeableStream
 tags: [react, react-dom, server, ssr, streaming, nodejs]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/server/renderToPipeableStream
+    title: "renderToPipeableStream"
 ---
 
 # Reference
@@ -78,7 +83,3 @@ setTimeout(() => abort(), 10000);
 - This API is specific to Node.js. Use [renderToReadableStream](/reference/react-dom/server/renderToReadableStream.md) where Web Streams are available.
 - Place `<Suspense>` boundaries so the shell is minimal but complete, since the shell determines the earliest loading state users see.
 - Use the `onShellError` and `onError` callbacks to set an appropriate HTTP status code before bytes are emitted.
-
-# Citations
-
-[1] [renderToPipeableStream](https://react.dev/reference/react-dom/server/renderToPipeableStream)

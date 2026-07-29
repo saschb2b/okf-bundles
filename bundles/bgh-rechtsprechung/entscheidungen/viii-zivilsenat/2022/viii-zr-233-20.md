@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:250122BVIIIZR233.20.0"
 doknr: "KORE303662022"
 normen: ["§ 85 Abs 2 ZPO, § 87 Abs 1 ZPO, § 172 Abs 1 S 1 ZPO, § 233 S 1 ZPO, § 543 Abs 1 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:18Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:18Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.01.2022 - VIII ZR 233/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Hat das Berufungsgericht die Zulassung der Revision in der Urschrift seiner Entscheidung ausdrücklich abgelehnt, kann diese Entscheidung durch Fehler bei der anschließenden Erstellung der zur Zustellung an die Prozessbeteiligten dienenden Ausfertigungen oder Abschriften durch den Urkundsbeamten der Geschäftsstelle (hier: Abschrift eines Urteils, in dem die Revision ausdrücklich zugelassen worden ist) nicht inhaltlich abgeändert werden. Maßgeblich ist allein die richterliche Entscheidung (im Anschluss an BGH, Beschluss vom 13. Oktober 2016 - IX ZB 57/14, NJW-RR 2016, 1463 [zur Rechtsbeschwerde]).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:28:18Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 233/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.01.2022 - VIII ZR 233/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

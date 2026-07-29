@@ -5,7 +5,12 @@ description: Aus wichtigem Grund kann das Arbeitsverhältnis fristlos gekündigt
 resource: https://www.gesetze-im-internet.de/bgb/__626.html
 tags: [arbeitsrecht, ausserordentliche-kuendigung, wichtiger-grund, fristlos]
 norm: "§ 626 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__626.html
+    title: "§ 626 BGB"
 ---
 
 # Regel (§ 626 Abs. 1)
@@ -25,7 +30,3 @@ Die Kündigung kann nur innerhalb von **zwei Wochen** erfolgen; die Frist beginn
 # Bezug
 
 Auch gegen die außerordentliche Kündigung läuft die [Drei-Wochen-Klagefrist](/arbeitsrecht/kuendigungsschutzklage-4-kschg.md) (§ 13 in Verbindung mit § 4 KSchG).
-
-# Citations
-
-[1] [§ 626 BGB](https://www.gesetze-im-internet.de/bgb/__626.html)

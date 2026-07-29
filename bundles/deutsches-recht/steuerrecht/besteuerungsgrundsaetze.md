@@ -5,7 +5,16 @@ description: Die Besteuerung ist verfassungsrechtlich gebunden: sie bedarf eines
 resource: https://www.gesetze-im-internet.de/gg/art_3.html
 tags: [steuerrecht, besteuerungsgrundsaetze, leistungsfaehigkeit, gesetzmaessigkeit, gleichheit, rueckwirkung]
 norm: "§§ 3, 38 AO; Art. 3, 20, 105 ff. GG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gg/art_3.html
+    title: "Art. 3 GG"
+  - resource: https://www.gesetze-im-internet.de/ao_1977/__38.html
+    title: "§ 38 AO"
+  - resource: https://www.gesetze-im-internet.de/gg/art_105.html
+    title: "Art. 105 GG"
 ---
 
 # Gesetzmäßigkeit der Besteuerung (§ 38 AO, Art. 20 Abs. 3 GG)
@@ -31,9 +40,3 @@ Aus dem Rechtsstaatsprinzip und dem Vertrauensschutz folgt das **Verbot echter R
 # Bezug
 
 Diese Prinzipien binden jede einzelne Steuer: die [Einkommensteuer](/steuerrecht/einkommensteuer.md) (Progression, Existenzminimum), die [Umsatzsteuer](/steuerrecht/umsatzsteuer.md) und die [Unternehmenssteuern](/steuerrecht/unternehmensbesteuerung.md). Durchgesetzt werden sie über das Verfahren der [Abgabenordnung](/steuerrecht/abgabenordnung-und-verfahren.md) und letztlich vor den Finanzgerichten und dem [Bundesverfassungsgericht](/verfassungsrecht/verfassungsbeschwerde-93.md).
-
-# Citations
-
-[1] [Art. 3 GG](https://www.gesetze-im-internet.de/gg/art_3.html)
-[2] [§ 38 AO](https://www.gesetze-im-internet.de/ao_1977/__38.html)
-[3] [Art. 105 GG](https://www.gesetze-im-internet.de/gg/art_105.html)

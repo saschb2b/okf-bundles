@@ -10,8 +10,14 @@ aktenzeichen: "RiZ (R) 8/10"
 doknr: "KORE605092012"
 normen: ["§ 22 Abs 2 Nr 1 DRiG, § 22 Abs 5 DRiG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.12.2011 - RiZ (R) 8/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 22 Abs 2 Nr 1 DRiG, § 22 Abs 5 DRiG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:33:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen RiZ (R) 8/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.12.2011 - RiZ (R) 8/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

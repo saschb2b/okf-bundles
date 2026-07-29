@@ -3,7 +3,9 @@ type: Overview
 title: "Deutsches Recht: Überblick"
 description: Ein kuratiertes, am Normtext belegtes Wissensbündel zum deutschen Recht, das gebietsweise wächst; ausgearbeitet sind die Methodik, das gesamte Bürgerliche Recht (alle fünf Bücher des BGB), das Handels-, Arbeits-, Miet- und AGB-Recht, das Strafrecht (Allgemeiner und Besonderer Teil sowie das Strafprozessrecht), das öffentliche Recht (Verfassung, Verwaltung, Sozial), der Zivilprozess, das Insolvenzrecht, das Europarecht, das IT- und IP-Recht und das Steuerrecht.
 tags: [deutsches-recht, agb-recht, bgb]
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
 ---
 
 # Was das ist

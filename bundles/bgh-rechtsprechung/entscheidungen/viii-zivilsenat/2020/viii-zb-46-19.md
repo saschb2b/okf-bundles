@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:050820BVIIIZB46.19.0"
 doknr: "KORE607842020"
 normen: ["§ 13 GVG, § 51 Abs 1 SGG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:14Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.08.2020 - VIII ZB 46/19 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 13 GVG, § 51 Abs 1 SGG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:14Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 46/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.08.2020 - VIII ZB 46/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

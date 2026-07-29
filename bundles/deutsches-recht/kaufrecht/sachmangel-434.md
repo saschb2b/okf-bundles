@@ -5,7 +5,12 @@ description: Seit der Reform 2022 ist die Sache nur mangelfrei, wenn sie bei Gef
 resource: https://www.gesetze-im-internet.de/bgb/__434.html
 tags: [kaufrecht, sachmangel, beschaffenheit, reform-2022]
 norm: "§ 434 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__434.html
+    title: "§ 434 BGB"
 ---
 
 # Regel
@@ -25,7 +30,3 @@ Einem Sachmangel steht die Lieferung einer anderen als der geschuldeten Sache (a
 # Bezug
 
 Liegt ein Sachmangel bei Gefahrübergang vor, eröffnet [§ 437](/kaufrecht/maengelrechte-437.md) die Mängelrechte.
-
-# Citations
-
-[1] [§ 434 BGB](https://www.gesetze-im-internet.de/bgb/__434.html)

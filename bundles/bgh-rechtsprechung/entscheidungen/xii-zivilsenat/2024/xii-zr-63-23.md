@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:100724BXIIZR63.23.0"
 doknr: "KORE702732024"
 normen: ["§ 266 Abs 1 Nr 3 FamFG, § 17a Abs 5 GVG, § 17a Abs 6 GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.07.2024 - XII ZR 63/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1.    Zur Abgrenzung von sonstigen Familiensachen zu allgemeinen Zivilsachen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:39:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 63/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.07.2024 - XII ZR 63/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

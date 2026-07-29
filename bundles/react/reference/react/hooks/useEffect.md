@@ -4,7 +4,12 @@ title: useEffect
 description: React Hook that synchronizes a component with an external system by running setup and cleanup tied to a dependency list.
 resource: https://react.dev/reference/react/useEffect
 tags: [react, hook, effects, lifecycle, synchronization]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useEffect
+    title: "useEffect"
 ---
 
 # Reference
@@ -69,7 +74,3 @@ function ChatRoom({ roomId }) {
 - If an Effect was caused by an interaction (like a click), React may run it before the browser paints, so the result can be observed by the event system. To defer work until after paint, use `setTimeout`.
 - Even when caused by an interaction, React may let the browser repaint before processing the state updates inside your Effect. To block repaint, use [useLayoutEffect](/reference/react/hooks/useLayoutEffect.md) instead.
 - Effects only run on the client. They do not run during server rendering.
-
-# Citations
-
-[1] [useEffect](https://react.dev/reference/react/useEffect)

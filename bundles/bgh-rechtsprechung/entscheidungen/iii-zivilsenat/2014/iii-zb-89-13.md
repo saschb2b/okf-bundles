@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 89/13"
 doknr: "KORE316322014"
 normen: ["§ 1032 Abs 1 ZPO, § 1040 Abs 3 S 2 ZPO, § 40 Abs 1 S 1 DRiG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.06.2014 - III ZB 89/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zum Rechtsschutzinteresse für einen Antrag auf gerichtliche Entscheidung gegen einen Zwischenentscheid, mit dem sich ein Schiedsgericht für zuständig erklärt hat, wenn das Schiedsgericht zugleich in einem Schiedsspruch über Teile des Streitgegenstands entschieden hat (im Anschluss an Senatsbeschluss vom 19. September 2013, III ZB 37/12, SchiedsVZ 2013, 333).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:32:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 89/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.06.2014 - III ZB 89/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

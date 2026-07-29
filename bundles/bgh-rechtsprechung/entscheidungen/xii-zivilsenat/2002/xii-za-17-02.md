@@ -9,13 +9,14 @@ datum: 2002-12-04
 aktenzeichen: "XII ZA 17/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:22:02Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:22:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZA__17-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 04.12.2002 - XII ZA 17/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZA 17/02 vom 04.12.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.12.2002 - XII ZA 17/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZA__17-02.pdf?__blob=publicationFile&v=1)
-

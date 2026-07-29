@@ -9,13 +9,14 @@ datum: 2000-03-28
 aktenzeichen: "AnwZ (B) 32/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:16:33Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:16:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/1999/AnwZ_B__32-99.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 28.03.2000 - AnwZ (B) 32/99 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 32/99 vom 28.03.2000.
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.03.2000 - AnwZ (B) 32/99 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/1999/AnwZ_B__32-99.pdf?__blob=publicationFile&v=1)
-

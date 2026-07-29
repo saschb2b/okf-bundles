@@ -4,7 +4,12 @@ title: flushSync
 description: A react-dom escape hatch that forces React to flush pending updates inside a callback synchronously so the DOM is updated immediately.
 resource: https://react.dev/reference/react-dom/flushSync
 tags: [react, react-dom, rendering, synchronous, escape-hatch]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/flushSync
+    title: "flushSync"
 ---
 
 # Reference
@@ -63,7 +68,3 @@ function handleClick() {
   });
 }
 ```
-
-# Citations
-
-[1] [flushSync](https://react.dev/reference/react-dom/flushSync)

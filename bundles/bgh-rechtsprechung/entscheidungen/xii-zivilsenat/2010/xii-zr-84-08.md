@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 84/08"
 doknr: "KORE300802010"
 normen: ["§ 23a SchuldRAnpG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.06.2010 - XII ZR 84/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zu den Voraussetzungen einer Teilkündigung eines Nutzungsvertrages an einem Erholungsgrundstück nach § 23a SchuldRAnpG .
@@ -23,8 +29,3 @@ Zu den Voraussetzungen einer Teilkündigung eines Nutzungsvertrages an einem Erh
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 84/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.06.2010 - XII ZR 84/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

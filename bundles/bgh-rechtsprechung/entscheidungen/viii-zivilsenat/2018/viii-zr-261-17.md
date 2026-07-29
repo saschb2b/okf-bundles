@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:190918UVIIIZR261.17.0"
 doknr: "KORE309352018"
 normen: ["§ 133 BGB, § 157 BGB, § 543 Abs 2 S 1 Nr 3 BGB, § 564b Abs 1  BGB vom 21.02.1996, § 564b Abs 2 Nr 1 BGB vom 21.02.1996, § 564c BGB vom 21.07.1993, § 565  BGB vom 29.10.1993, § 565a aF BGB, § 569 Abs 3 Nr 2 S 1 BGB, § 573 Abs 1 BGB, § 573 Abs 2 Nr 1 BGB, Art 229 § 3 Abs 3 BGBEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.09.2018 - VIII ZR 261/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Geltungswirkung einer vom Vermieter hilfsweise mit einer fristlosen Kündigung verbundenen ordentlichen Kündigung eines Wohnraummietverhältnisses in den Fällen des Zahlungsverzugs (im Anschluss an Senatsurteil vom 19. September 2018, VIII ZR 231/17, BGHZ 220,1).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 261/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.09.2018 - VIII ZR 261/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

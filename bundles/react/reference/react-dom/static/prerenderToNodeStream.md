@@ -4,7 +4,12 @@ title: prerenderToNodeStream
 description: Renders a React tree to static HTML via a Node.js Stream, waiting for all data to load.
 resource: https://react.dev/reference/react-dom/static/prerenderToNodeStream
 tags: [react, react-dom, static, ssg, nodejs]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/static/prerenderToNodeStream
+    title: "prerenderToNodeStream"
 ---
 
 # Reference
@@ -72,7 +77,3 @@ prelude.on('error', reject);
 - This API is specific to Node.js. For Web Streams, use [prerender](/reference/react-dom/static/prerender.md).
 - `nonce` is not an available option when prerendering, since a nonce must be unique per request and would be insecure under CSP if baked into the prerender.
 - Does not stream as content loads. It waits for the entire app to finish. To stream, use [renderToPipeableStream](/reference/react-dom/server/renderToPipeableStream.md).
-
-# Citations
-
-[1] [prerenderToNodeStream](https://react.dev/reference/react-dom/static/prerenderToNodeStream)

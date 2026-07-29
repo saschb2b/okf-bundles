@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2026:060526UVIIIZR257.23.0"
 doknr: "KORE303742026"
 normen: ["§ 323 Abs 5 S 2 BGB, § 437 Nr 3 BGB, § 477 aF BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.05.2026 - VIII ZR 257/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Vermutung des § 477 BGB aF greift zugunsten des Käufers bereits dann ein, wenn diesem der Nachweis gelingt, dass sich innerhalb von sechs Monaten ab Gefahrübergang ein mangelhafter Zustand (eine Mangelerscheinung) gezeigt hat. Zur Erbringung des Nachweises einer solchen Mangelerscheinung ist es erforderlich, aber auch ausreichend, dass als mögliche Ursache für den innerhalb dieser Frist aufgetretenen, dem Käufer nachteiligen Zustand der Kaufsache (hier: Pendelschwingungen des Motorrollers) - zumindest auch - eine solche in Betracht kommt, die - wenn sie dem Verkäufer zuzurechnen wäre - dessen Gewährleistungshaftung auslöste (hier: Unwucht des Vorderrads). Ob daneben auch andere Umstände als Ursache für den aufgetretenen, dem Käufer nachteiligen Zustand denkbar sind, die dem Verkäufer nicht zuzurechnen wären beziehungsweise seine Gewährleistungshaftung nicht begründeten - wie etwa Bedienungsfehler, üblicher Verschleiß oder Einwirkungen Dritter -, ist hierbei nicht von Belang. Lediglich in den Fällen, in denen ausschließlich derartige andere Umstände als Ursache für den aufgetretenen nachteiligen Zustand in Betracht kommen, fehlt es am Vorliegen einer Mangelerscheinung in dem vorbezeichneten Sinne (im Anschluss an Senatsurteile vom 12. Oktober 2016 - VIII ZR 103/15, BGHZ 212, 224 Rn. 36; vom 27. Mai 2020 - VIII ZR 315/18, BGHZ 226, 1 Rn. 54, 57; vom 9. September 2020 - VIII ZR 150/18, NJW 2021, 151 Rn. 27 f.; vom 10. November 2021 - VIII ZR 187/20, BGHZ 232, 1 Rn. 72, 75; ebenso Senatsurteil vom heutigen Tag - VIII ZR 73/24, unter II 2 b, zur Veröffentlichung bestimmt).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 257/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.05.2026 - VIII ZR 257/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

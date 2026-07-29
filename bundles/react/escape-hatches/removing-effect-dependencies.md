@@ -4,7 +4,12 @@ title: Removing Effect Dependencies
 description: Make Effects re-run less often by changing the code so unnecessary dependencies fall away, never by suppressing the dependency linter.
 resource: https://react.dev/learn/removing-effect-dependencies
 tags: [react, effects, useEffect, dependencies, useEffectEvent]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/removing-effect-dependencies
+    title: "Removing Effect Dependencies"
 ---
 
 # Summary
@@ -67,7 +72,3 @@ Objects and functions created during render are different on every render (`Obje
 - To update state from previous state, pass an updater function.
 - To read the latest value without reacting to it, extract an Effect Event.
 - Objects and functions created at different times are considered different; avoid them as dependencies by moving them outside the component or inside the Effect, or by extracting primitives.
-
-# Citations
-
-[1] [Removing Effect Dependencies](https://react.dev/learn/removing-effect-dependencies)

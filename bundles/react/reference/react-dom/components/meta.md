@@ -4,7 +4,12 @@ title: <meta>
 description: The built-in browser meta component for document metadata, which React always hoists into the document head.
 resource: https://react.dev/reference/react-dom/components/meta
 tags: [react, react-dom, metadata, seo, head]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/meta
+    title: "<meta>"
 ---
 
 # Reference
@@ -40,7 +45,3 @@ React always places the `<meta>` element in the document `<head>`, regardless of
 <meta name="author" content="John Smith" />
 <meta name="description" content="A site map for the React website" />
 ```
-
-# Citations
-
-[1] [<meta>](https://react.dev/reference/react-dom/components/meta)

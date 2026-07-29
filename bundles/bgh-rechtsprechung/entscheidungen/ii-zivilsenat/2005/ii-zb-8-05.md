@@ -9,13 +9,14 @@ datum: 2005-10-17
 aktenzeichen: "II ZB 8/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:29:30Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:29:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZB___8-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 17.10.2005 - II ZB 8/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: II ZB 8/05 vom 17.10.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.10.2005 - II ZB 8/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZB___8-05.pdf?__blob=publicationFile&v=1)
-

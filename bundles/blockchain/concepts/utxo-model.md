@@ -3,7 +3,14 @@ type: Accounting Model
 title: UTXO model
 description: A ledger of discrete unspent coins consumed and recreated by each transaction, with no protocol-level balances.
 tags: [utxo, accounting, bitcoin, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin whitepaper, section 9 (Nakamoto, 2008)"
+  - resource: https://developer.bitcoin.org/devguide/transactions.html
+    title: "Bitcoin developer guide: transactions"
 ---
 
 # What it is
@@ -19,8 +26,3 @@ In the **unspent transaction output (UTXO)** model, the ledger is a set of discr
 # In practice, and the contrast
 
 Bitcoin is the canonical UTXO chain; see [Bitcoin's UTXO transactions](/bitcoin/utxo-transactions.md). The alternative is the [account model](/concepts/account-model.md) used by Ethereum, where transactions mutate balances directly. The two are compared, with their consequences for privacy, scaling, and smart contracts, in [UTXO vs account](/comparison/utxo-vs-account.md).
-
-# Citations
-
-[1] [Bitcoin whitepaper, section 9 (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
-[2] [Bitcoin developer guide: transactions](https://developer.bitcoin.org/devguide/transactions.html)

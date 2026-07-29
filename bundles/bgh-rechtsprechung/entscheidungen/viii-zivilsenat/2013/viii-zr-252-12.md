@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 252/12"
 doknr: "KORE504602013"
 normen: ["§ 556 BGB, § 556a BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.04.2013 - VIII ZR 252/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 556 BGB, § 556a BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:32:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 252/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.04.2013 - VIII ZR 252/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

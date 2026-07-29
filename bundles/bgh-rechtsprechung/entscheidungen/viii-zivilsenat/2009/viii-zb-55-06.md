@@ -9,13 +9,14 @@ datum: 2009-03-10
 aktenzeichen: "VIII ZB 55/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:39:19Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:39:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2006/VIII_ZB__55-06.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 10.03.2009 - VIII ZB 55/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 55/06 vom 10.03.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.03.2009 - VIII ZB 55/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2006/VIII_ZB__55-06.pdf?__blob=publicationFile&v=1)
-

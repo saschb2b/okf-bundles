@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:250321BIXAR.VZ.1.19.0"
 doknr: "KORE301502021"
 normen: ["§ 4 InsO, § 299 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.03.2021 - IX AR (VZ) 1/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In Insolvenzsachen kann der Gerichtsvorstand am Verfahren nicht beteiligten Dritten anonymisierte Abschriften von Entscheidungen des Insolvenzgerichts erteilen, ohne dass dies den Anforderungen an die Gewährung von Akteneinsicht unterliegt.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX AR (VZ) 1/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.03.2021 - IX AR (VZ) 1/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:251023UVIIIZR147.22.0"
 doknr: "KORE315842023"
 normen: ["§ 554a aF BGB, § 573 Abs 1 BGB, § 573 Abs 2 Nr 1 BGB, § 573 Abs 3 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.10.2023 - VIII ZR 147/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Ob das Aufstellen bewusst unwahrer Tatsachenbehauptungen durch den Mieter innerhalb eines Rechtsstreits mit seinem Vermieter eine die ordentliche Kündigung nach § 573 Abs. 1, 2 Nr. 1 BGB rechtfertigende Pflichtverletzung darstellt, ist anhand einer umfassenden Würdigung aller Umstände des Einzelfalls zu beurteilen.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:32:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 147/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.10.2023 - VIII ZR 147/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

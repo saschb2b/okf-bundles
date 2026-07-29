@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:230316BVIIIZR26.16.0"
 doknr: "JURE160006564"
 normen: ["§ 8 ZPO, § 9 ZPO, § 544 Abs 5 S 2 ZPO, § 719 Abs 2 ZPO, § 26 Nr 8 ZPOEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:11Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.03.2016 - VIII ZR 26/16 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 8 ZPO, § 9 ZPO, § 544 Abs 5 S 2 ZPO, § 719 Abs 2 ZPO, § 26 Nr 8 ZPOEG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:11Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 26/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.03.2016 - VIII ZR 26/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

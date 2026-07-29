@@ -9,13 +9,14 @@ datum: 2001-06-27
 aktenzeichen: "IV ZB 3/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:18:49Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:18:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2001/IV_ZB___3-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 27.06.2001 - IV ZB 3/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IV ZB 3/01 vom 27.06.2001.
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.06.2001 - IV ZB 3/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2001/IV_ZB___3-01.pdf?__blob=publicationFile&v=1)
-

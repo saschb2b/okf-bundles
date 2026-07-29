@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:200416BXIIZB15.15.0"
 doknr: "KORE313552016"
 normen: ["Art 6 BGBEG, Art 13 BGBEG, Art 17b Abs 1 BGBEG, Art 17b Abs 4 BGBEG, Art 19 Abs 1 BGBEG, § 36 PStG, § 4 Abs 1 RuStAG, § 30 Abs 3 RuStAG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.04.2016 - XII ZB 15/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine im Ausland (hier: Südafrika) geschlossene gleichgeschlechtliche Ehe unterliegt kollisionsrechtlich den für die eingetragene Lebenspartnerschaft geltenden Regeln.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 15/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.04.2016 - XII ZB 15/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

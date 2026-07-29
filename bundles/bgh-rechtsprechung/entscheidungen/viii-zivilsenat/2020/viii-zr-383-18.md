@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:281020BVIIIZR383.18.0"
 doknr: "KORE632372020"
 normen: ["§ 2 ZPO, § 3 ZPO, § 9 ZPO, § 33 Abs 1 RVG, § 41 Abs 5 S 1 Alt 2 GKG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.10.2020 - VIII ZR 383/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 2 ZPO, § 3 ZPO, § 9 ZPO, § 33 Abs 1 RVG, § 41 Abs 5 S 1 Alt 2 GKG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 383/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.10.2020 - VIII ZR 383/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

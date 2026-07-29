@@ -3,7 +3,18 @@ type: Ticket Smell
 title: The Siamese Twins
 description: Two tickets split on paper but so technically intertwined that neither can be built, demoed, or shipped on its own.
 tags: [ticket-smell, dependencies, slicing, coupling]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
+    title: "The Humanizing Work Guide to Splitting User Stories"
+  - resource: https://www.visual-paradigm.com/scrum/user-story-splitting-vertical-slice-vs-horizontal-slice/
+    title: "Vertical Slice vs Horizontal Slice (Visual Paradigm)"
+  - resource: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
+    title: "INVEST in Good Stories (Bill Wake)"
+  - resource: https://www.oreilly.com/library/view/97-things-every/9780596800611/ch60.html
+    title: "Start with a Walking Skeleton (97 Things)"
 ---
 
 # What it is
@@ -26,10 +37,3 @@ Horizontal slicing: cutting work by technical layer (backend, frontend, database
 
 - Re-slice vertically: one thin story top to bottom (UI, service, storage) that is demoable. Then slice further by happy path, error handling, and edge cases.
 - If two teams must work in parallel, decouple with a contract-first interface (build against a stub) or a [walking skeleton](/techniques/walking-skeleton.md).
-
-# Citations
-
-[1] [The Humanizing Work Guide to Splitting User Stories](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
-[2] [Vertical Slice vs Horizontal Slice (Visual Paradigm)](https://www.visual-paradigm.com/scrum/user-story-splitting-vertical-slice-vs-horizontal-slice/)
-[3] [INVEST in Good Stories (Bill Wake)](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
-[4] [Start with a Walking Skeleton (97 Things)](https://www.oreilly.com/library/view/97-things-every/9780596800611/ch60.html)

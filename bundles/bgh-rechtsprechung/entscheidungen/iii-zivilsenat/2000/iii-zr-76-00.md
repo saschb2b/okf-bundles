@@ -9,13 +9,14 @@ datum: 2000-12-21
 aktenzeichen: "III ZR 76/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:17:55Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:17:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2000/III_ZR__76-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 21.12.2000 - III ZR 76/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 76/00 vom 21.12.2000.
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.12.2000 - III ZR 76/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2000/III_ZR__76-00.pdf?__blob=publicationFile&v=1)
-

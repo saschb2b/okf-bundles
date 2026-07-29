@@ -5,7 +5,18 @@ description: Das StaRUG schafft einen präventiven Restrukturierungsrahmen: scho
 resource: https://www.gesetze-im-internet.de/starug/__29.html
 tags: [insolvenzrecht, starug, restrukturierung, restrukturierungsplan, stabilisierungsanordnung, drohende-zahlungsunfaehigkeit]
 norm: "§§ 1, 29, 49, 60 StaRUG; § 18 Abs. 2 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/starug/__29.html
+    title: "§ 29 StaRUG"
+  - resource: https://www.gesetze-im-internet.de/starug/__1.html
+    title: "§ 1 StaRUG"
+  - resource: https://www.gesetze-im-internet.de/starug/__49.html
+    title: "§ 49 StaRUG"
+  - resource: https://www.gesetze-im-internet.de/inso/__18.html
+    title: "§ 18 InsO"
 ---
 
 # Einordnung
@@ -32,10 +43,3 @@ Grundlage ist ein **Restrukturierungsplan**, der (wie der Insolvenzplan) die Bet
 # Bezug
 
 Das StaRUG greift **früher** als die [Eigenverwaltung und das Schutzschirmverfahren](/insolvenzrecht/eigenverwaltung-und-schutzschirm-270.md), die bereits die Insolvenznähe voraussetzen, und vermeidet das förmliche Verfahren mit [Eröffnungsgrund](/insolvenzrecht/eroeffnungsgruende-17-19.md) und [Tabelle](/insolvenzrecht/forderungsanmeldung-174.md). Scheitert die präventive Restrukturierung, bleibt der Weg in die Insolvenz.
-
-# Citations
-
-[1] [§ 29 StaRUG](https://www.gesetze-im-internet.de/starug/__29.html)
-[2] [§ 1 StaRUG](https://www.gesetze-im-internet.de/starug/__1.html)
-[3] [§ 49 StaRUG](https://www.gesetze-im-internet.de/starug/__49.html)
-[4] [§ 18 InsO](https://www.gesetze-im-internet.de/inso/__18.html)

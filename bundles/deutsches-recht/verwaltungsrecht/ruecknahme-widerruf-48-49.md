@@ -5,7 +5,14 @@ description: Ein rechtswidriger Verwaltungsakt wird zurückgenommen (§ 48), ein
 resource: https://www.gesetze-im-internet.de/vwvfg/__48.html
 tags: [verwaltungsrecht, ruecknahme, widerruf, vertrauensschutz]
 norm: "§§ 48, 49 VwVfG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/vwvfg/__48.html
+    title: "§ 48 VwVfG"
+  - resource: https://www.gesetze-im-internet.de/vwvfg/__49.html
+    title: "§ 49 VwVfG"
 ---
 
 # Rücknahme des rechtswidrigen VA (§ 48)
@@ -22,8 +29,3 @@ Ein **rechtmäßiger** Verwaltungsakt kann widerrufen werden. Ein belastender re
 # Bezug
 
 Wird ein begünstigender VA zurückgenommen oder widerrufen, sind zu Unrecht erbrachte Leistungen nach § 49a zu erstatten. Gegen die Aufhebung steht dem Bürger die [Anfechtungsklage](/verwaltungsrecht/klagearten-42-vwgo.md) offen.
-
-# Citations
-
-[1] [§ 48 VwVfG](https://www.gesetze-im-internet.de/vwvfg/__48.html)
-[2] [§ 49 VwVfG](https://www.gesetze-im-internet.de/vwvfg/__49.html)

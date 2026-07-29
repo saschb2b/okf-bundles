@@ -4,7 +4,12 @@ title: Reusing Logic with Custom Hooks
 description: Write your own Hooks to share stateful logic between components, naming and structuring them, and when to extract one.
 resource: https://react.dev/learn/reusing-logic-with-custom-hooks
 tags: [react, custom-hooks, effects, useEffectEvent, reuse]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/reusing-logic-with-custom-hooks
+    title: "Reusing Logic with Custom Hooks"
 ---
 
 # Summary
@@ -104,7 +109,3 @@ How you draw boundaries is up to you. A fade-in can live in a `useFadeIn` Hook, 
 - Wrap event handlers received by custom Hooks into Effect Events.
 - Do not create custom Hooks like `useMount`; keep their purpose specific.
 - It is up to you where to draw the boundaries of your code.
-
-# Citations
-
-[1] [Reusing Logic with Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)

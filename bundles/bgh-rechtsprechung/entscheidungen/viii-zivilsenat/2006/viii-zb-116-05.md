@@ -9,13 +9,14 @@ datum: 2006-11-28
 aktenzeichen: "VIII ZB 116/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:32:25Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:32:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZB_116-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 28.11.2006 - VIII ZB 116/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 116/05 vom 28.11.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.11.2006 - VIII ZB 116/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZB_116-05.pdf?__blob=publicationFile&v=1)
-

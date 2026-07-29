@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:130416UVIIIZR39.15.0"
 doknr: "KORE313432016"
 normen: ["§ 280 Abs 1 S 2 BGB, § 573 Abs 2 Nr 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.04.2016 - VIII ZR 39/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Frage, ob die Nichtzahlung einer auf die Verletzung mietvertraglicher Pflichten zurückgehende titulierte Schadensersatzforderung des Vermieters eine die ordentliche Kündigung des Mietverhältnisses berechtigende schuldhafte Pflichtverletzung des Mieters darstellt.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 39/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.04.2016 - VIII ZR 39/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

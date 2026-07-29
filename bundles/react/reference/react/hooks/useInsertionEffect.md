@@ -4,7 +4,12 @@ title: useInsertionEffect
 description: React Hook for CSS-in-JS libraries that inserts elements into the DOM before any layout Effects fire.
 resource: https://react.dev/reference/react/useInsertionEffect
 tags: [react, hooks, effects, css-in-js]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useInsertionEffect
+    title: "useInsertionEffect"
 ---
 
 # Reference
@@ -62,7 +67,3 @@ For collecting rules during server rendering, accumulate them outside the Effect
 - By the time `useInsertionEffect` runs, refs are not attached yet.
 - `useInsertionEffect` may run either before or after the DOM has been updated. Do not rely on the DOM being updated at any particular time.
 - Unlike other Effects, which fire cleanup for every Effect and then setup for every Effect, `useInsertionEffect` fires both cleanup and setup one component at a time, interleaving the two.
-
-# Citations
-
-[1] [useInsertionEffect](https://react.dev/reference/react/useInsertionEffect)

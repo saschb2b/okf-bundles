@@ -5,7 +5,12 @@ description: Individuelle Vertragsabreden haben Vorrang vor Allgemeinen Geschäf
 resource: https://www.gesetze-im-internet.de/bgb/__305b.html
 tags: [agb-recht, bgb, individualabrede, klauselkontrolle]
 norm: "§ 305b BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__305b.html
+    title: "§ 305b BGB"
 ---
 
 # Regel
@@ -21,7 +26,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Bezug
 
 Zweite Stufe im [Prüfschema](/agb-kontrolle/pruefungsschema.md): Vor jeder Einbeziehungs- und Inhaltsprüfung steht die Frage, ob eine vorrangige Individualabrede die Klausel ohnehin verdrängt.
-
-# Citations
-
-[1] [§ 305b BGB](https://www.gesetze-im-internet.de/bgb/__305b.html)

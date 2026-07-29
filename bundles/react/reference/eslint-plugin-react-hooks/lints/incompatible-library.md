@@ -4,7 +4,12 @@ title: incompatible-library
 description: Flags use of library APIs that are incompatible with memoization, whether manual or automatic via React Compiler.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/incompatible-library
 tags: [react, eslint, lint, compiler, memoization]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/incompatible-library
+    title: "incompatible-library"
 ---
 
 # What it flags
@@ -64,7 +69,3 @@ The React team is migrating these libraries to patterns that follow the Rules of
 # Related
 
 The compiler's promise to honor your existing memoization is covered by [preserve-manual-memoization](preserve-manual-memoization.md).
-
-# Citations
-
-[1] [incompatible-library](https://react.dev/reference/eslint-plugin-react-hooks/lints/incompatible-library)

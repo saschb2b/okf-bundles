@@ -9,13 +9,14 @@ datum: 2003-02-27
 aktenzeichen: "VII ZR 48/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:22:43Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:22:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2001/VII_ZR__48-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 27.02.2003 - VII ZR 48/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VII ZR 48/01 vom 27.02.2003.
-
-# Citations
-
-[1] [BGH, Urteil vom 27.02.2003 - VII ZR 48/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2001/VII_ZR__48-01.pdf?__blob=publicationFile&v=1)
-

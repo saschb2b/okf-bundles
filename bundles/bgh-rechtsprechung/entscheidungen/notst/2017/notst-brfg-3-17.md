@@ -10,8 +10,14 @@ aktenzeichen: "NotSt (Brfg) 3/17"
 doknr: "KORE304112018"
 normen: ["Art 6 Abs 1 S 1 MRK, § 4 BDG, § 14 Abs 1 S 2 BNotO, § 14 Abs 3 S 2 BNotO, § 14 Abs 4 S 2 BNotO, § 28 BNotO, Art 20 Abs 3 GG, § 124 Abs 2 Nr 5 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.11.2017 - NotSt (Brfg) 3/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine auf die Verletzung des Beschleunigungsgrundsatzes in Disziplinarangelegenheiten gestützte Verfahrenseinstellung kommt allenfalls in extrem gelagerten Ausnahmefällen in Betracht. Vorrangig ist die Berücksichtigung bei der gegen den Betroffenen zu verhängenden Sanktion.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotSt (Brfg) 3/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.11.2017 - NotSt (Brfg) 3/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

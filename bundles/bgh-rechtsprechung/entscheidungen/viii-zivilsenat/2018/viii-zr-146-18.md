@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:071218BVIIIZR146.18.0"
 doknr: "KORE302592018"
 normen: ["§ 711 ZPO, § 712 Abs 1 ZPO, § 713 ZPO, § 719 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.12.2018 - VIII ZR 146/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Hat der zur Räumung einer Mietwohnung verurteilte Schuldner in der Berufungsinstanz einen Vollstreckungsschutzantrag nach § 712 Abs. 1 ZPO nicht gestellt, ist eine einstweilige Einstellung der Zwangsvollstreckung nach § 719 Abs. 2 ZPO durch das Revisionsgericht in der Regel ausgeschlossen (Bestätigung der Senatsbeschlüsse vom 1. April 2014, VIII ZR 1/14, juris Rn. 5; vom 27. Februar 2018, VIII ZR 39/18, WuM 2018, 221 Rn. 5; vom 26. September 2018, VIII ZR 290/18, WuM 2018, 726 Rn. 7).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 146/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.12.2018 - VIII ZR 146/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

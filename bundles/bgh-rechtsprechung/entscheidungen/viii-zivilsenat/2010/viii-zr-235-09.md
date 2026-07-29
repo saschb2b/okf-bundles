@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 235/09"
 doknr: "JURE100061309"
 normen: ["§ 313 Abs 2 BGB, § 558 BGB, § 8a WoBindG, § 10 WoBindG, § 17 Abs 1 S 2 WoBauG 2"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.03.2010 - VIII ZR 235/09 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 313 Abs 2 BGB, § 558 BGB, § 8a WoBindG, § 10 WoBindG, § 17 Abs 1 S 2 WoBauG 2
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 235/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.03.2010 - VIII ZR 235/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

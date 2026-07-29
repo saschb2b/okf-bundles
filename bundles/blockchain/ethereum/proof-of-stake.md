@@ -4,7 +4,18 @@ title: Ethereum proof of stake and the Merge
 description: Ethereum's PoS consensus (Gasper): 32-ETH validators, 12-second slots, and economic finality.
 resource: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
 tags: [ethereum, proof-of-stake, the-merge, finality]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/roadmap/merge/
+    title: "The Merge (Ethereum.org)"
+  - resource: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
+    title: "Proof-of-stake (Ethereum.org docs)"
+  - resource: https://ethereum.org/en/roadmap/pectra/
+    title: "Pectra upgrade (Ethereum.org)"
+  - resource: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/gasper/
+    title: "Gasper (Ethereum.org docs)"
 ---
 
 # The Merge
@@ -26,10 +37,3 @@ Each slot, one [validator](/concepts/node.md) is randomly chosen to propose a [b
 # Economic finality (Gasper)
 
 Ethereum's finality gadget, **Casper FFG** within the **Gasper** design, finalizes epoch-boundary checkpoints: a checkpoint is **justified** when >=2/3 of staked ETH votes for it and **finalized** when a further checkpoint is justified on top, roughly every two epochs. [4] This gives explicit [economic finality](/concepts/finality.md), stronger than Bitcoin's probabilistic settlement, the core contrast in [PoW vs PoS](/comparison/pow-vs-pos.md).
-
-# Citations
-
-[1] [The Merge (Ethereum.org)](https://ethereum.org/en/roadmap/merge/)
-[2] [Proof-of-stake (Ethereum.org docs)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-[3] [Pectra upgrade (Ethereum.org)](https://ethereum.org/en/roadmap/pectra/)
-[4] [Gasper (Ethereum.org docs)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/gasper/)

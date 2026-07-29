@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:190716BIIZB3.16.0"
 doknr: "JURE160016017"
 normen: ["§ 85 Abs 2 ZPO, § 233 Abs 1 S 1 ZPO, § 234 ZPO, § 520 Abs 2 ZPO, § 140 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.07.2016 - II ZB 3/16 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 85 Abs 2 ZPO, § 233 Abs 1 S 1 ZPO, § 234 ZPO, § 520 Abs 2 ZPO, § 140 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 3/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.07.2016 - II ZB 3/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

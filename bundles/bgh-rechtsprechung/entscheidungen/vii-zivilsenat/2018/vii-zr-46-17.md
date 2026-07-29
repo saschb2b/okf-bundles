@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:220218UVIIZR46.17.0"
 doknr: "KORE300362018"
 normen: ["§ 249 Abs 1 BGB, § 280 Abs 1 BGB, § 281 BGB, § 634 Nr 2 BGB, § 634 Nr 3 BGB, § 634 Nr 4 BGB, § 637 BGB, § 638 BGB, § 13 Abs 7 Nr 3 VOB B 2002, § 287 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.02.2018 - VII ZR 46/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Besteller, der das Werk behält und den Mangel nicht beseitigen lässt, kann im Rahmen eines Schadensersatzanspruchs statt der Leistung (kleiner Schadensersatz) gegen den Unternehmer gemäß § 634 Nr. 4, §§ 280, 281 BGB seinen Schaden nicht nach den fiktiven Mängelbeseitigungskosten bemessen (Aufgabe der bisherigen Rechtsprechung).
@@ -42,8 +48,3 @@ timestamp: 2026-06-22T12:14:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 46/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.02.2018 - VII ZR 46/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

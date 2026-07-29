@@ -9,13 +9,14 @@ datum: 2004-07-12
 aktenzeichen: "II ZB 3/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:26:14Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:26:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZB___3-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 12.07.2004 - II ZB 3/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: II ZB 3/03 vom 12.07.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.07.2004 - II ZB 3/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2003/II_ZB___3-03.pdf?__blob=publicationFile&v=1)
-

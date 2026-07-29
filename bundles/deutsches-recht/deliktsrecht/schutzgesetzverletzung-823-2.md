@@ -5,7 +5,12 @@ description: Wer gegen ein Gesetz verstößt, das zumindest auch dem Schutz eine
 resource: https://www.gesetze-im-internet.de/bgb/__823.html
 tags: [deliktsrecht, schutzgesetz, vermoegensschaden]
 norm: "§ 823 Abs. 2 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__823.html
+    title: "§ 823 BGB"
 ---
 
 # Regel
@@ -22,7 +27,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Bedeutung
 
 Anders als [§ 823 Abs. 1](/deliktsrecht/grundtatbestand-823-1.md) schützt § 823 Abs. 2 auch das **reine Vermögen**, wenn das verletzte Schutzgesetz gerade Vermögensinteressen schützt (etwa der Betrugstatbestand). Damit füllt die Vorschrift eine Lücke des Grundtatbestands.
-
-# Citations
-
-[1] [§ 823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)

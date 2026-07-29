@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:250123UVIIIZR230.21.0"
 doknr: "KORE310492023"
 normen: ["§ 556 Abs 1 S 1 BGB, § 556 Abs 3 S 1 Halbs 2 BGB, § 59 ZPO, § 60 ZPO, § 253 Abs 2 Nr 2 ZPO, § 256 Abs 1 ZPO, § 256 Abs 2  ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.01.2023 - VIII ZR 230/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wurde ein die Betriebskosten auslösender Dienstleistungsvertrag bereits vor Abschluss des Wohnraummietvertrags geschlossen, kann eine mögliche Verletzung des Wirtschaftlichkeitsgebots als Nebenpflicht des Vermieters schon wegen einer zu diesem Zeitpunkt noch nicht bestehenden mietvertraglichen Rücksichtnahmepflicht nicht in der Eingehung dieser Verbindlichkeit gesehen werden. Vielmehr kommt eine Verletzung des Wirtschaftlichkeitsgebots nur in Betracht, soweit dem Vermieter - im Falle eines nicht angemessenen Kosten-Nutzen-Verhältnisses - eine Korrektur der zu überhöhten Kosten führenden Maßnahme während des Mietverhältnisses - beispielsweise durch Kündigung eines Vertrags mit ungünstigen Bedingungen - möglich und wirtschaftlich zumutbar gewesen wäre und er diese Möglichkeit nicht ergriffen hat (im Anschluss an Senatsurteil vom 28. November 2007 - VIII ZR 243/06, NJW 2008, 440 Rn. 15).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 230/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.01.2023 - VIII ZR 230/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2004-06-28
 aktenzeichen: "AnwZ (B) 81/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:26:03Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:26:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2002/AnwZ_B__81-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 28.06.2004 - AnwZ (B) 81/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 81/02 vom 28.06.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 81/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2002/AnwZ_B__81-02.pdf?__blob=publicationFile&v=1)
-

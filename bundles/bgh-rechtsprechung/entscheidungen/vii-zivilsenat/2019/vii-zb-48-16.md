@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:210819BVIIZB48.16.0"
 doknr: "KORE313222019"
 normen: ["§ 114 Abs 1 S 1 ZPO, § 114 Abs 2 ZPO, § 688 ZPO, §§ 688ff ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.08.2019 - VII ZB 48/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die hinreichende Erfolgsaussicht für ein Mahnverfahren kann nicht allein deshalb verneint werden, weil ein Widerspruch des Antragsgegners zu erwarten ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 48/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.08.2019 - VII ZB 48/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

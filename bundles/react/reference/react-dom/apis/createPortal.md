@@ -4,7 +4,12 @@ title: createPortal
 description: A react-dom API that renders children into a different DOM node while keeping them part of the React tree for context and event bubbling.
 resource: https://react.dev/reference/react-dom/createPortal
 tags: [react, react-dom, portal, modal, dom]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/createPortal
+    title: "createPortal"
 ---
 
 # Reference
@@ -65,7 +70,3 @@ Store a third-party widget's DOM node in state, then `createPortal` React conten
 # Caveats
 
 - Events propagate according to the React tree, not the DOM tree. A click inside a portal fires an `onClick` on a React ancestor even though the portal's DOM lives elsewhere. Stop propagation inside the portal, or move the portal up the React tree, if this causes issues.
-
-# Citations
-
-[1] [createPortal](https://react.dev/reference/react-dom/createPortal)

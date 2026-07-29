@@ -4,7 +4,14 @@ title: The Curse of Knowledge (Harvard Business Review)
 description: Chip and Dan Heath on why experts write opaque instructions, including the tapper-and-listener study.
 resource: https://hbr.org/2006/12/the-curse-of-knowledge
 tags: [external, communication, primary-source]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://hbr.org/2006/12/the-curse-of-knowledge
+    title: "The Curse of Knowledge (HBR, December 2006)"
+  - resource: https://heathbrothers.com/made-to-stick-introduction/
+    title: "Made to Stick, Introduction (Heath Brothers)"
 ---
 
 # Summary
@@ -14,8 +21,3 @@ Applies the curse-of-knowledge bias to business communication: experts speak in 
 # Cited by
 
 [curse of knowledge](/concepts/curse-of-knowledge.md) and [the Tapper](/smells/tapper.md).
-
-# Citations
-
-[1] [The Curse of Knowledge (HBR, December 2006)](https://hbr.org/2006/12/the-curse-of-knowledge)
-[2] [Made to Stick, Introduction (Heath Brothers)](https://heathbrothers.com/made-to-stick-introduction/)

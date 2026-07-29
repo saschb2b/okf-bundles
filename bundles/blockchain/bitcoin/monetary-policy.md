@@ -4,7 +4,16 @@ title: Bitcoin monetary policy
 description: A hard ~21 million cap issued via a block subsidy that halves every 210,000 blocks until ~2140.
 resource: https://en.bitcoin.it/wiki/Controlled_supply
 tags: [bitcoin, monetary-policy, halving, supply]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://en.bitcoin.it/wiki/Controlled_supply
+    title: "Controlled supply (Bitcoin Wiki)"
+  - resource: https://en.bitcoin.it/wiki/Satoshi_(unit)
+    title: "Satoshi (unit) (Bitcoin Wiki)"
+  - resource: https://news.bitcoin.com/halving-milestone-block-840000-mined-ushering-in-a-new-chapter-as-bitcoin-miners-face-shrinking-rewards/
+    title: "Halving at block 840,000 (Bitcoin.com News, 2024)"
 ---
 
 # The fixed-supply schedule
@@ -25,9 +34,3 @@ Bitcoin's [native token](/concepts/native-token.md) has a supply set entirely by
 # Why it matters
 
 Predictable, disinflationary scarcity is the core of Bitcoin's "sound money" thesis and the sharpest contrast with Ethereum's uncapped, dynamic [ether policy](/ethereum/ether-monetary-policy.md), a difference explored in [design philosophy](/comparison/design-philosophy.md). As the subsidy trends to zero, [transaction fees](/concepts/gas-and-fees.md) must become the security budget that pays miners.
-
-# Citations
-
-[1] [Controlled supply (Bitcoin Wiki)](https://en.bitcoin.it/wiki/Controlled_supply)
-[2] [Satoshi (unit) (Bitcoin Wiki)](https://en.bitcoin.it/wiki/Satoshi_(unit))
-[3] [Halving at block 840,000 (Bitcoin.com News, 2024)](https://news.bitcoin.com/halving-milestone-block-840000-mined-ushering-in-a-new-chapter-as-bitcoin-miners-face-shrinking-rewards/)

@@ -5,7 +5,14 @@ description: Barrierefrei ist, was ohne fremde Hilfe auffindbar, zugänglich und
 resource: https://www.gesetze-im-internet.de/bgg/
 tags: [behinderung-teilhabe, barrierefreiheit, bgg, bfsg, bauordnung]
 norm: "§ 4 BGG; BFSG; BITV 2.0; Landesbauordnungen"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgg/
+    title: "Behindertengleichstellungsgesetz (BGG)"
+  - resource: https://www.gesetze-im-internet.de/bfsg/
+    title: "Barrierefreiheitsstärkungsgesetz (BFSG)"
 ---
 
 # Begriff (§ 4 BGG)
@@ -22,8 +29,3 @@ Barrierefrei sind bauliche und sonstige Anlagen, Verkehrsmittel, technische Gebr
 # Bezug
 
 Das Barrierefreiheitsrecht ist die objektiv-rechtliche Seite der Teilhabe; der individuelle Anspruch auf [barrierefreien Umbau der Mietwohnung](/mietrecht/barrierefreiheit-554.md) steht im Mietrecht (§ 554 BGB), das Diskriminierungsverbot im [AGG](/behinderung-teilhabe/benachteiligungsverbot-agg.md).
-
-# Citations
-
-[1] [Behindertengleichstellungsgesetz (BGG)](https://www.gesetze-im-internet.de/bgg/)
-[2] [Barrierefreiheitsstärkungsgesetz (BFSG)](https://www.gesetze-im-internet.de/bfsg/)

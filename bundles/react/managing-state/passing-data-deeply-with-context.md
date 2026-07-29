@@ -4,7 +4,12 @@ title: Passing Data Deeply with Context
 description: How to use context to make information available to any component in the tree below a parent, without passing it explicitly through props.
 resource: https://react.dev/learn/passing-data-deeply-with-context
 tags: [react, state, context, prop-drilling]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/passing-data-deeply-with-context
+    title: "Passing Data Deeply with Context"
 ---
 
 # Summary
@@ -102,7 +107,3 @@ Reach for context only when passing props through many layers, for data many com
 - Context passes through any components in the middle.
 - A component can read and override the context for its own subtree.
 - Before using context, try passing props or passing JSX as `children`.
-
-# Citations
-
-[1] [Passing Data Deeply with Context](https://react.dev/learn/passing-data-deeply-with-context)

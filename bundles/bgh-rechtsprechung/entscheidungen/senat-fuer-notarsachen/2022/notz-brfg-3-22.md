@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:110722BNOTZ.BRFG.3.22.0"
 doknr: "KORE307382022"
 normen: ["§ 7a BNotO, § 7b BNotO, § 111b Abs 1 S 1 BNotO, § 113 Abs 5 S 2 VwGO, § 121 Nr 1 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.07.2022 - NotZ (Brfg) 3/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Sollen Prüfungsleistungen eines Kandidaten (hier: notarielle Fachprüfung) einer erneuten Bewertung unterzogen werden, sind die Gründe eines rechtskräftigen prüfungsrechtlichen Bescheidungsurteils dafür maßgeblich, in welchem Umfang die Prüfungsbehörde eine Neubewertung zu veranlassen hat und welche Rechtsauffassung dabei zugrunde zu legen ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 3/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.07.2022 - NotZ (Brfg) 3/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

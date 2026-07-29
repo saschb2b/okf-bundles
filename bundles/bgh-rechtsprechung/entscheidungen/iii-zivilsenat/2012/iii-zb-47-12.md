@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 47/12"
 doknr: "KORE600022013"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO, § 234 Abs 1 ZPO, § 236 Abs 2 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.12.2012 - III ZB 47/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 85 Abs 2 ZPO, § 233 ZPO, § 234 Abs 1 ZPO, § 236 Abs 2 S 1 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:32:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 47/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.12.2012 - III ZB 47/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

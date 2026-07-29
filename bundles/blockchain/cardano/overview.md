@@ -4,7 +4,12 @@ title: Cardano
 description: A research-first proof-of-stake blockchain that extends the UTXO model to smart contracts via EUTXO.
 resource: https://cardano.org/
 tags: [cardano, overview]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://cardano.org/
+    title: "Cardano (cardano.org)"
 ---
 
 # What Cardano is
@@ -30,7 +35,3 @@ Cardano is interesting precisely because it does not sit at either pole of the [
 # Development eras
 
 Cardano's roadmap is organized into five eras named after historical figures: **Byron** (foundation), **Shelley** (decentralization/staking), **Goguen** (smart contracts), **Basho** (scaling), and **Voltaire** (governance). Each is delivered incrementally through [hard forks](/cardano/hard-forks.md). [1]
-
-# Citations
-
-[1] [Cardano (cardano.org)](https://cardano.org/)

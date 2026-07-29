@@ -9,13 +9,14 @@ datum: 2008-01-23
 aktenzeichen: "IV ZB 8/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:35:47Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:35:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2007/IV_ZB___8-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 23.01.2008 - IV ZB 8/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IV ZB 8/07 vom 23.01.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.01.2008 - IV ZB 8/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2007/IV_ZB___8-07.pdf?__blob=publicationFile&v=1)
-

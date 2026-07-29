@@ -4,7 +4,12 @@ title: Bitcoin
 description: The first blockchain: peer-to-peer electronic cash secured by proof of work, with a fixed 21M supply.
 resource: https://bitcoin.org/bitcoin.pdf
 tags: [bitcoin, overview]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin: A Peer-to-Peer Electronic Cash System (Nakamoto, 2008)"
 ---
 
 # What Bitcoin is
@@ -24,7 +29,3 @@ Bitcoin makes a set of deliberate, conservative choices, each an instance of a s
 # The philosophy
 
 Every choice favors trust-minimization, censorship resistance, and predictable scarcity over flexibility. That is what most distinguishes it from Ethereum, as drawn out in [design philosophy](/comparison/design-philosophy.md). Start from any concept above; each links back to the shared primitive it implements.
-
-# Citations
-
-[1] [Bitcoin: A Peer-to-Peer Electronic Cash System (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)

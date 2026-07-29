@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 56/14"
 doknr: "KORE301282015"
 normen: ["§ 85 Abs 2  ZPO, § 233 ZPO, § 236 Abs 2 S 1 ZPO, § 294 ZPO, § 520 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.09.2015 - III ZB 56/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist ein fristgebundener Schriftsatz (hier: Berufungsbegründung) verloren gegangen, ist Wiedereinsetzung in den vorigen Stand bereits dann zu gewähren, wenn die Partei auf der Grundlage einer aus sich heraus verständlichen, geschlossenen Schilderung der tatsächlichen Abläufe bis zur rechtzeitigen Aufgabe zur Post glaubhaft macht, dass der Verlust mit überwiegender Wahrscheinlichkeit nicht im Verantwortungsbereich der Partei oder ihres Prozessbevollmächtigten eingetreten ist.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 56/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.09.2015 - III ZB 56/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

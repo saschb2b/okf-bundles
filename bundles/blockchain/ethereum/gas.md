@@ -4,7 +4,14 @@ title: Ethereum gas and EIP-1559
 description: Metered computation priced in gas, with a burned base fee plus a priority tip since the London upgrade.
 resource: https://ethereum.org/en/developers/docs/gas/
 tags: [ethereum, gas, eip-1559, fees]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/developers/docs/gas/
+    title: "Gas and fees (Ethereum.org docs)"
+  - resource: https://eips.ethereum.org/EIPS/eip-1559
+    title: "EIP-1559 (eips.ethereum.org)"
 ---
 
 # Gas: pricing computation
@@ -27,8 +34,3 @@ The base fee adjusts by at most ±12.5% per block (denominator 8), rising when a
 # Why it matters
 
 Metered gas is the direct consequence of choosing a Turing-complete [EVM](/ethereum/evm.md): Bitcoin needs no equivalent because [Script](/bitcoin/script.md) cannot loop. The fee market also concentrates [MEV](/concepts/mempool.md) on Ethereum, since ordering contract calls is profitable.
-
-# Citations
-
-[1] [Gas and fees (Ethereum.org docs)](https://ethereum.org/en/developers/docs/gas/)
-[2] [EIP-1559 (eips.ethereum.org)](https://eips.ethereum.org/EIPS/eip-1559)

@@ -9,13 +9,14 @@ datum: 2008-11-03
 aktenzeichen: "AnwZ (B) 5/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:38:29Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:38:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2008/AnwZ_B___5-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 03.11.2008 - AnwZ (B) 5/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 5/08 vom 03.11.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.11.2008 - AnwZ (B) 5/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2008/AnwZ_B___5-08.pdf?__blob=publicationFile&v=1)
-

@@ -9,13 +9,14 @@ datum: 2009-11-27
 aktenzeichen: "LwZR 4/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:40:52Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:40:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2009/LwZR___4-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 27.11.2009 - LwZR 4/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: LwZR 4/09 vom 27.11.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.11.2009 - LwZR 4/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2009/LwZR___4-09.pdf?__blob=publicationFile&v=1)
-

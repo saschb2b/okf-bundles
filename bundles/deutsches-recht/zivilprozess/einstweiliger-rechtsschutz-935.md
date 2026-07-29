@@ -5,7 +5,16 @@ description: Arrest sichert Geldforderungen, die einstweilige Verfügung sichert
 resource: https://www.gesetze-im-internet.de/zpo/__935.html
 tags: [zivilprozess, einstweilige-verfuegung, arrest, glaubhaftmachung]
 norm: "§§ 916, 920, 935, 940 ZPO"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__916.html
+    title: "§ 916 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__935.html
+    title: "§ 935 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__940.html
+    title: "§ 940 ZPO"
 ---
 
 # Arrest (§ 916)
@@ -26,9 +35,3 @@ Anspruch und Grund müssen nur **glaubhaft gemacht**, nicht voll bewiesen werden
 # Siehe auch
 
 Arrest und einstweilige Verfügung sichern die spätere [Zwangsvollstreckung](/zivilprozess/zwangsvollstreckung-704.md).
-
-# Citations
-
-[1] [§ 916 ZPO](https://www.gesetze-im-internet.de/zpo/__916.html)
-[2] [§ 935 ZPO](https://www.gesetze-im-internet.de/zpo/__935.html)
-[3] [§ 940 ZPO](https://www.gesetze-im-internet.de/zpo/__940.html)

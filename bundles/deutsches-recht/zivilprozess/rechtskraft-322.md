@@ -5,7 +5,12 @@ description: Ein Urteil ist der materiellen Rechtskraft fähig, soweit über den
 resource: https://www.gesetze-im-internet.de/zpo/__322.html
 tags: [zivilprozess, rechtskraft, ne-bis-in-idem, bindung]
 norm: "§ 322 ZPO"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__322.html
+    title: "§ 322 ZPO"
 ---
 
 # Formelle und materielle Rechtskraft
@@ -22,7 +27,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Bezug
 
 Der Umfang der Rechtskraft folgt dem [Streitgegenstand](/zivilprozess/klageerhebung-253.md). Aus dem rechtskräftigen Leistungsurteil wird die [Zwangsvollstreckung](/zivilprozess/zwangsvollstreckung-704.md) betrieben.
-
-# Citations
-
-[1] [§ 322 ZPO](https://www.gesetze-im-internet.de/zpo/__322.html)

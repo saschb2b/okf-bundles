@@ -4,7 +4,12 @@ title: <select>
 description: The built-in browser select component, covering controlled vs uncontrolled select boxes, multiple selection, and reading values on submit.
 resource: https://react.dev/reference/react-dom/components/select
 tags: [react, react-dom, forms, controlled-components, select]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/select
+    title: "<select>"
 ---
 
 # Reference
@@ -55,7 +60,3 @@ timestamp: 2026-06-30T12:00:00Z
 - A `value` prop makes the select controlled.
 - A select cannot be both controlled and uncontrolled, and cannot switch between them over its lifetime.
 - Every controlled select needs an `onChange` that synchronously updates its backing value.
-
-# Citations
-
-[1] [<select>](https://react.dev/reference/react-dom/components/select)

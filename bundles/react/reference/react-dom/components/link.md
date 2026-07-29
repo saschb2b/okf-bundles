@@ -4,7 +4,12 @@ title: <link>
 description: The built-in browser link component for external resources and document metadata, with React's head-hoisting, stylesheet precedence, deduplication, and Suspense behavior.
 resource: https://react.dev/reference/react-dom/components/link
 tags: [react, react-dom, metadata, stylesheets, resources]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/link
+    title: "<link>"
 ---
 
 # Reference
@@ -66,7 +71,3 @@ When `rel="stylesheet"` with `precedence`:
 
 - React ignores prop changes after the link is rendered (warns in development).
 - React may leave the link in the DOM after the rendering component unmounts.
-
-# Citations
-
-[1] [<link>](https://react.dev/reference/react-dom/components/link)

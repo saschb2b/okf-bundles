@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:030221UVIIIZR68.19.0"
 doknr: "KORE307652021"
 normen: ["§ 573 Abs 2 Nr 2 BGB, § 574 Abs 1 S 1 BGB, § 574a BGB, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 03.02.2021 - VIII ZR 68/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zu den Voraussetzungen einer nicht zu rechtfertigenden Härte im Sinne des § 574 Abs. 1 Satz 1 BGB (im Anschluss an Senatsurteil vom 22. Mai 2019 - VIII ZR 180/18, BGHZ 222, 133).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 68/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 03.02.2021 - VIII ZR 68/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

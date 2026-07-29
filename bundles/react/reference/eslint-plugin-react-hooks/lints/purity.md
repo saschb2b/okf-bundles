@@ -4,7 +4,12 @@ title: purity
 description: Flags calls to known-impure functions during render, such as Math.random and Date.now, that break render purity.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/purity
 tags: [react, eslint, lint, purity, side-effects]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/purity
+    title: "purity"
 ---
 
 # What it flags
@@ -55,7 +60,3 @@ function Clock() {
 # Related
 
 This lint enforces the conceptual rule [Components and Hooks must be pure](/reference/rules/components-and-hooks-must-be-pure.md), part of the [Rules of React](/reference/rules/rules-of-hooks.md).
-
-# Citations
-
-[1] [purity](https://react.dev/reference/eslint-plugin-react-hooks/lints/purity)

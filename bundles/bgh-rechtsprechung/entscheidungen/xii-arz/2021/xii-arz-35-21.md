@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:061021BXIIARZ35.21.0"
 doknr: "KORE311932021"
 normen: ["§ 1666 Abs 1 BGB, § 1666 Abs 4 BGB, § 5 Abs 1 Nr 4 FamFG, § 151 FamFG, § 17a Abs 2 GVG, § 17a Abs 4 GVG, § 40 Abs 1 S 1 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.10.2021 - XII ARZ 35/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für Maßnahmen gegenüber schulischen Behörden (hier: mit dem Ziel der Unterlassung schulinterner Infektionsschutzmaßnahmen) ist der Rechtsweg zu den Familiengerichten im Verfahren nach § 1666 Abs. 1 und 4 BGB nicht eröffnet; zuständig sind ausschließlich die Verwaltungsgerichte.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:10Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ARZ 35/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.10.2021 - XII ARZ 35/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

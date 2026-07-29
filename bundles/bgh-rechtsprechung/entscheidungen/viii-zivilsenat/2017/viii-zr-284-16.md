@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:190717BVIIIZR284.16.0"
 doknr: "KORE620892017"
 normen: ["§ 573 Abs 2 Nr 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.07.2017 - VIII ZR 284/16 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 573 Abs 2 Nr 2 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 284/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.07.2017 - VIII ZR 284/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

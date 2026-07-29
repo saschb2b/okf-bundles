@@ -10,8 +10,14 @@ aktenzeichen: "II ZR 2/11"
 doknr: "KORE301092012"
 normen: ["§ 723 Abs 1 S 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.05.2012 - II ZR 2/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Gesellschafter einer Gesellschaft bürgerlichen Rechts ist zur außerordentlichen Kündigung der Gesellschaft berechtigt, wenn ihm eine Fortsetzung der Gesellschaft bis zum Vertragsende oder zum nächsten ordentlichen Kündigungstermin nicht zugemutet werden kann, weil das Vertrauensverhältnis zwischen den Gesellschaftern grundlegend gestört oder ein gedeihliches Zusammenwirken aus sonstigen, namentlich auch wirtschaftlichen Gründen, nicht mehr möglich ist.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:14:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZR 2/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.05.2012 - II ZR 2/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

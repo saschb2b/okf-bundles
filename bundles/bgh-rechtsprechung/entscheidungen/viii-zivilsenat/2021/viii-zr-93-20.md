@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:260521UVIIIZR93.20.0"
 doknr: "KORE301912021"
 normen: ["§ 558 Abs 2 S 1 BGB vom 11.03.2013, § 558c BGB, § 558d Abs 1 BGB, § 558d Abs 3 BGB, § 286 ZPO, § 287 Abs 2 ZPO, § 540 Abs 1 S 1 Nr 1 ZPO, § 540 Abs 1 S 2 ZPO, § 540 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.05.2021 - VIII ZR 93/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Unterliegt ein Berufungsurteil der Revision oder der Nichtzulassungsbeschwerde, müssen sich die tatsächlichen Grundlagen der Entscheidung aus dem Urteil oder - im Falle des § 540 Abs. 1 Satz 2 ZPO - aus dem Sitzungsprotokoll einschließlich der im Urteil oder im Sitzungsprotokoll enthaltenen Bezugnahmen so erschließen, dass eine revisionsrechtliche Nachprüfung stattfinden kann. Weiter muss das Berufungsurteil in diesem Fall erkennen lassen, von welchem Sach- und Streitstand das Gericht ausgegangen ist und welche Berufungsanträge die Parteien zumindest sinngemäß gestellt haben (im Anschluss an Senatsurteile vom 19. Juli 2017 - VIII ZR 3/17, NZM 2017, 732 Rn. 7 f.; vom 18. Oktober 2017 - VIII ZR 242/16, DAR 2018, 78 Rn. 4; jeweils m.w.N).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:27:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 93/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.05.2021 - VIII ZR 93/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

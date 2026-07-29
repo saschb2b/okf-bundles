@@ -5,7 +5,14 @@ description: AGB werden gegenüber Verbrauchern nur Vertragsbestandteil bei ausd
 resource: https://www.gesetze-im-internet.de/bgb/__305.html
 tags: [agb-recht, bgb, einbeziehung, vertragsschluss]
 norm: "§ 305 Abs. 2, 3 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__305.html
+    title: "§ 305 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__310.html
+    title: "§ 310 BGB"
 ---
 
 # Regel
@@ -29,8 +36,3 @@ Wird eine Klausel nicht einbezogen, ist sie nicht Vertragsbestandteil. Nach § 3
 # Bezug
 
 Dritte Stufe im [Prüfschema](/agb-kontrolle/pruefungsschema.md). Auch eine einbezogene Klausel scheitert noch, wenn sie [überraschend](/agb-kontrolle/ueberraschende-und-mehrdeutige-klauseln-305c.md) ist, und unterliegt danach der [Inhaltskontrolle](/agb-kontrolle/inhaltskontrolle-307.md).
-
-# Citations
-
-[1] [§ 305 BGB](https://www.gesetze-im-internet.de/bgb/__305.html)
-[2] [§ 310 BGB](https://www.gesetze-im-internet.de/bgb/__310.html)

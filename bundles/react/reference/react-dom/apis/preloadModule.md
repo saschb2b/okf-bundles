@@ -4,7 +4,12 @@ title: preloadModule
 description: A react-dom API that eagerly fetches an ESM module you expect to use, without evaluating it.
 resource: https://react.dev/reference/react-dom/preloadModule
 tags: [react, react-dom, resource-hints, performance, esm]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/preloadModule
+    title: "preloadModule"
 ---
 
 React-based frameworks often handle resource loading for you, so you might not need this API directly.
@@ -66,7 +71,3 @@ function CallToAction() {
 - Multiple calls with the same `href` behave like a single call.
 - In the browser, callable in any situation: rendering, an Effect, an event handler.
 - During server-side rendering or Server Components, it only has an effect when called while rendering a component or in an async context originating from rendering. Other calls are ignored.
-
-# Citations
-
-[1] [preloadModule](https://react.dev/reference/react-dom/preloadModule)

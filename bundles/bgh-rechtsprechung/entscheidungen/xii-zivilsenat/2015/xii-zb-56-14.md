@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 56/14"
 doknr: "KORE304132015"
 normen: ["§ 19 Abs 2 S 2 SGB 12, § 27 SGB 12, §§ 27ff SGB 12, § 41 SGB 12, §§ 41ff SGB 12, § 43 Abs 3 S 6 SGB 12, § 94 Abs 3 S 1 Nr 2 SGB 12, § 242 BGB, § 1602 BGB, § 1606 Abs 3 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.07.2015 - XII ZB 56/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für den Unterhaltsberechtigten besteht grundsätzlich die Obliegenheit zur Inanspruchnahme von Leistungen der Grundsicherung im Alter und bei Erwerbsminderung (§§ 41 ff. SGB XII); eine Verletzung dieser Obliegenheit kann zur Anrechnung fiktiver Einkünfte in der Höhe der entgangenen Leistungen führen.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:28:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 56/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.07.2015 - XII ZB 56/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

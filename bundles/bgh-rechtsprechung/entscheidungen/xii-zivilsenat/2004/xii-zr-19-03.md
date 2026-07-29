@@ -9,13 +9,14 @@ datum: 2004-11-17
 aktenzeichen: "XII ZR 19/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:27:29Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:27:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2003/XII_ZR__19-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 17.11.2004 - XII ZR 19/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZR 19/03 vom 17.11.2004.
-
-# Citations
-
-[1] [BGH, Urteil vom 17.11.2004 - XII ZR 19/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2003/XII_ZR__19-03.pdf?__blob=publicationFile&v=1)
-

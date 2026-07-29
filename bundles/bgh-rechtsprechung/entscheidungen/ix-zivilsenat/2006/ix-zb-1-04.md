@@ -9,13 +9,14 @@ datum: 2006-12-07
 aktenzeichen: "IX ZB 1/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:32:55Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:32:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZB___1-04A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 07.12.2006 - IX ZB 1/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZB 1/04 vom 07.12.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.12.2006 - IX ZB 1/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZB___1-04A.pdf?__blob=publicationFile&v=1)
-

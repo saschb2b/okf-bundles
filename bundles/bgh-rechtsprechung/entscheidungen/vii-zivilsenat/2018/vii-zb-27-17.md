@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:240118BVIIZB27.17.0"
 doknr: "KORE304612018"
 normen: ["§ 850k Abs 4 ZPO, § 42 Abs 4 SGB 2 vom 26.07.2016"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.01.2018 - VII ZB 27/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Festsetzung eines pfändungsfreien Betrags gemäß § 850k Abs. 4 ZPO ist auch der sich aus § 42 Abs. 4 SGB II (in der seit 1. August 2016 geltenden Fassung) ergebende Pfändungsschutz zu berücksichtigen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 27/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.01.2018 - VII ZB 27/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

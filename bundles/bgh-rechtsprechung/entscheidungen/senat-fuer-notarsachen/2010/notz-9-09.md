@@ -10,8 +10,14 @@ aktenzeichen: "NotZ 9/09"
 doknr: "KORE308012010"
 normen: ["§ 113 Abs 3 Nr 1 BNotO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.06.2010 - NotZ 9/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Ländernotarkasse kann die Einkommensergänzung durch Satzung auch für in der Vergangenheit liegende Zeiträume absenken, sofern nicht die Grenzen des verfassungsrechtlich verankerten Vertrauensschutzes überschritten werden .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ 9/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.06.2010 - NotZ 9/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

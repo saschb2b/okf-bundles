@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 256/09"
 doknr: "KORE300652010"
 normen: ["§ 133 BGB, § 157 BGB, § 536 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.06.2010 - VIII ZR 256/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Frage des Zustandekommens einer konkludenten Wohnflächenvereinbarung bei Abschluss eines schriftlichen Mietvertrags unter Verwendung eines Vertragsformulars, das Angaben zur Größe der Wohnfläche nicht vorsieht  .
@@ -23,8 +29,3 @@ Zur Frage des Zustandekommens einer konkludenten Wohnflächenvereinbarung bei Ab
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 256/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.06.2010 - VIII ZR 256/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

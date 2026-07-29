@@ -9,13 +9,14 @@ datum: 2008-10-29
 aktenzeichen: "XII ZB 75/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:28:05Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:28:05Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2008/XII_ZB__75-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 29.10.2008 - XII ZB 75/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 75/08 vom 29.10.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.10.2008 - XII ZB 75/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2008/XII_ZB__75-08.pdf?__blob=publicationFile&v=1)
-

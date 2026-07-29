@@ -9,13 +9,14 @@ datum: 2009-04-07
 aktenzeichen: "EnVR 6/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:39:48Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:39:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2008/EnVR___6-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 07.04.2009 - EnVR 6/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: EnVR 6/08 vom 07.04.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.04.2009 - EnVR 6/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2008/EnVR___6-08.pdf?__blob=publicationFile&v=1)
-

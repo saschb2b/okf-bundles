@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:070721BANWZ1.21.0"
 doknr: "KORE602732021"
 normen: ["§ 112a Abs 1 BRAO, § 112a Abs 3 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.07.2021 - AnwZ 1/21 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 112a Abs 1 BRAO, § 112a Abs 3 BRAO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:33:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ 1/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.07.2021 - AnwZ 1/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

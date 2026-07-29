@@ -4,7 +4,12 @@ title: experimental_taintObjectReference
 description: Prevents a specific object instance from being passed to a Client Component.
 resource: https://react.dev/reference/react/experimental_taintObjectReference
 tags: [react, server-components, security, tainting]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/experimental_taintObjectReference
+    title: "experimental_taintObjectReference"
 ---
 
 # Reference
@@ -56,6 +61,3 @@ export async function getUser(id) {
 
 - Recreating or cloning a tainted object creates a new untainted object that may contain sensitive data. `{...user}` or `{name: user.name, ssn: user.ssn}` are not tainted. Tainting only guards against passing the object through unchanged.
 - Do not rely on tainting alone for security. It does not block every derived value. A secure app uses multiple layers: well designed APIs, isolation patterns, and tainting as one layer.
-
-# Citations
-[1] [experimental_taintObjectReference](https://react.dev/reference/react/experimental_taintObjectReference)

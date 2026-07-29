@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:300919UANWZ.BRFG.32.18.0"
 doknr: "KORE301882019"
 normen: ["§ 7 Nr 3 BRAO, § 7 Nr 5 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.09.2019 - AnwZ (Brfg) 32/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der zwingende Charakter der Sperrfrist des § 7 Nr. 3 BRAO steht einer Abkürzung derselben zwecks Kompensation einer rechtsstaatswidrigen Verfahrensverzögerung in Anlehnung an die sogenannte Vollstreckungslösung der Strafgerichte nicht entgegen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 32/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.09.2019 - AnwZ (Brfg) 32/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

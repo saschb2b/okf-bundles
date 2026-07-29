@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:170316BIXARVZ1.15.0"
 doknr: "KORE300562016"
 normen: ["§ 56 InsO, § 23 GVGEG, §§ 23ff GVGEG, § 8 Nr 3 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.03.2016 - IX AR (VZ) 1/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Auf das Verfahren in Justizverwaltungssachen vor dem Zivilsenat des Oberlandesgerichts findet das Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit Anwendung.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX AR (VZ) 1/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.03.2016 - IX AR (VZ) 1/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

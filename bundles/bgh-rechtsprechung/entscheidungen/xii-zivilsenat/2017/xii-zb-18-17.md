@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:170517BXIIZB18.17.0"
 doknr: "KORE308272017"
 normen: ["§ 34 Abs 3 FamFG, § 68 Abs 3 S 2 FamFG, § 276 FamFG, § 278 Abs 1 S 1 FamFG, § 278 Abs 1 S 2 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.05.2017 - XII ZB 18/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Beschwerdegericht darf im Verfahren zur Anordnung oder Verlängerung der Betreuung nicht von der Anhörung des Betroffenen absehen, wenn das Amtsgericht auf eine Anhörung des Betroffenen verzichtet hat, weil dieser schon im Vorfeld des Anhörungstermins mitgeteilt hatte, er wolle in Ruhe gelassen werden (Abgrenzung zu Senatsbeschluss vom 11. Mai 2016, XII ZB 363/15, FamRZ 2016, 1350).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:02Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 18/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.05.2017 - XII ZB 18/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

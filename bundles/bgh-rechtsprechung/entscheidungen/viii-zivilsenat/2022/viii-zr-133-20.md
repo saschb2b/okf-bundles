@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:230322UVIIIZR133.20.0"
 doknr: "KORE301122022"
 normen: ["§ 556d BGB, §§ 556dff BGB, § 556e BGB, § 556f BGB, § 556g Abs 3 BGB, Art 2 Abs 1 GG, Art 20 Abs 3 GG, MietBegrV BE"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.03.2022 - VIII ZR 133/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Mit dem Erfordernis des Rechtsschutzbedürfnisses als Einschränkung des durch Art. 20 Abs. 3 GG in Verbindung mit Art. 2 Abs. 1 GG verfassungsrechtlich abgesicherten Justizgewährleistungsanspruchs soll (lediglich) verhindert werden, dass die Gerichte als Teil der Staatsgewalt unnütz oder gar unlauter bemüht werden oder ein gesetzlich vorgesehenes Verfahren zur Verfolgung zweckwidriger und insoweit nicht schutzwürdiger Ziele ausgenutzt wird (im Anschluss an BGH, Urteile vom 5. Dezember 1975 - I ZR 122/74, GRUR 1976, 256 unter II; vom 14. März 1978 - VI ZR 68/76, NJW 1978, 2031 unter II 2 a; jeweils m.w.N.). Nur ausnahmsweise können deshalb bei Leistungsklagen besondere Umstände das Verlangen des Klägers, in die materiell-rechtliche Prüfung seines Anspruchs einzutreten, als nicht schutzwürdig erscheinen lassen (im Anschluss an BGH, Urteile vom 25. Oktober 2012 - III ZR 266/11, BGHZ 195, 174 Rn. 51; vom 22. August 2018 - VIII ZR 99/17, NJW-RR 2018, 1285 Rn. 10).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 133/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.03.2022 - VIII ZR 133/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

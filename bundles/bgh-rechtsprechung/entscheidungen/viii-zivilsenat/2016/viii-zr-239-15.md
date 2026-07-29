@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:200916BVIIIZR239.15.0"
 doknr: "JURE160016982"
 normen: ["§ 288 BGB, § 309 Nr 5 BGB, § 26 Nr 8 ZPOEG, § 3 ZPO, § 522 Abs 2 ZPO, § 543 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.09.2016 - VIII ZR 239/15 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 288 BGB, § 309 Nr 5 BGB, § 26 Nr 8 ZPOEG, § 3 ZPO, § 522 Abs 2 ZPO, § 543 Abs 2 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 239/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.09.2016 - VIII ZR 239/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

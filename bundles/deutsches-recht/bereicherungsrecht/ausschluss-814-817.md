@@ -5,7 +5,14 @@ description: Die Kondiktion ist gesperrt, wenn der Leistende wusste, dass er nic
 resource: https://www.gesetze-im-internet.de/bgb/__814.html
 tags: [bereicherungsrecht, rueckforderungssperre, kondiktionssperre]
 norm: "§§ 814, 817 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__814.html
+    title: "§ 814 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__817.html
+    title: "§ 817 BGB"
 ---
 
 # § 814: Kenntnis der Nichtschuld
@@ -20,8 +27,3 @@ Das zum Zweck der Erfüllung einer Verbindlichkeit Geleistete kann nicht zurück
 # Bezug
 
 Beide Vorschriften sind rechtshindernde Einwendungen gegen die [Leistungskondiktion](/bereicherungsrecht/leistungskondiktion-812.md); sie setzen einen im Übrigen begründeten Anspruch voraus.
-
-# Citations
-
-[1] [§ 814 BGB](https://www.gesetze-im-internet.de/bgb/__814.html)
-[2] [§ 817 BGB](https://www.gesetze-im-internet.de/bgb/__817.html)

@@ -5,7 +5,12 @@ description: Wer durch die Leistung eines anderen ohne rechtlichen Grund etwas e
 resource: https://www.gesetze-im-internet.de/bgb/__812.html
 tags: [bereicherungsrecht, leistungskondiktion, rechtsgrund]
 norm: "§ 812 Abs. 1 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__812.html
+    title: "§ 812 BGB"
 ---
 
 # Regel
@@ -27,7 +32,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Rechtsfolge
 
 Herausgabe des Erlangten nach Maßgabe des [§ 818](/bereicherungsrecht/umfang-818.md), vorbehaltlich der [Ausschlussgründe](/bereicherungsrecht/ausschluss-814-817.md).
-
-# Citations
-
-[1] [§ 812 BGB](https://www.gesetze-im-internet.de/bgb/__812.html)

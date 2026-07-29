@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 244/10"
 doknr: "KORE310712012"
 normen: ["§ 138 BGB, § 280 BGB, § 281 BGB, § 434 BGB, § 442 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.03.2012 - VIII ZR 244/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei einer Internetauktion rechtfertigt ein grobes Missverhältnis zwischen dem Maximalgebot eines Bieters und dem (angenommenen) Wert des Versteigerungsobjekts nicht ohne Weiteres den Schluss auf eine verwerfliche Gesinnung des Bieters.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:30:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 244/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.03.2012 - VIII ZR 244/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

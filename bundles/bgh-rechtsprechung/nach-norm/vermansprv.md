@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VermAnsprV"
 description: "BGH-Entscheidungen zu VermAnsprV, geordnet nach Vorschrift."
 tags: [register, navigation, vermansprv]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

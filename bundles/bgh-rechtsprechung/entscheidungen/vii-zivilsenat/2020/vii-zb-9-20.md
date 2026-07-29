@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:161220BVIIZB9.20.0"
 doknr: "KORE300262021"
 normen: ["§ 829 Abs 1 S 1 ZPO, § 857 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.12.2020 - VII ZB 9/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Gemäß § 829 Abs. 1 Satz 1 ZPO hat im Falle der Pfändung einer Geldforderung das Gericht dem Drittschuldner zu verbieten, an den Schuldner zu zahlen. Der Ausspruch dieses Arrestatoriums ist für die Wirksamkeit der Forderungspfändung konstitutiv. Fehlt es an einem solchen Ausspruch, ist die Forderungspfändung unwirksam.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 9/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.12.2020 - VII ZB 9/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

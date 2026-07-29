@@ -5,7 +5,14 @@ description: Der Mieter kann verlangen, dass der Vermieter bauliche Veränderung
 resource: https://www.gesetze-im-internet.de/bgb/__554.html
 tags: [mietrecht, barrierefreiheit, bauliche-veraenderung, behinderung]
 norm: "§ 554 BGB; § 20 WEG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__554.html
+    title: "§ 554 BGB"
+  - resource: https://www.gesetze-im-internet.de/woeigg/__20.html
+    title: "§ 20 WEG"
 ---
 
 # Anspruch des Mieters (§ 554 Abs. 1)
@@ -30,8 +37,3 @@ Für Wohnungseigentümer besteht ein paralleler Anspruch: Jeder Eigentümer kann
 # Bezug
 
 Der Anspruch ist die mietrechtliche Seite der [Barrierefreiheit](/behinderung-teilhabe/barrierefreiheit-bgg-bfsg.md); Zuschüsse für den Umbau leistet die [Pflegeversicherung (§ 40 SGB XI)](/sozialrecht/pflegeversicherung-sgb11.md).
-
-# Citations
-
-[1] [§ 554 BGB](https://www.gesetze-im-internet.de/bgb/__554.html)
-[2] [§ 20 WEG](https://www.gesetze-im-internet.de/woeigg/__20.html)

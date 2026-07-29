@@ -4,7 +4,16 @@ title: Effect and Mutability Model
 description: The React Compiler's per-instruction effect kinds, its aliasing analysis, mutable ranges, and the freeze point that makes automatic memoization sound.
 resource: https://shapkarin.me/articles/drop-react-manual-memoization/
 tags: [react, react-compiler, mutability, aliasing, effects, internals]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://shapkarin.me/articles/drop-react-manual-memoization/
+    title: "The Mutability and Aliasing Model in React"
+  - resource: https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Pipeline.ts
+    title: "React Compiler pipeline (Pipeline.ts)"
+  - resource: https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md
+    title: "React Compiler design goals"
 ---
 
 # Why this exists
@@ -46,9 +55,3 @@ When an app relies on mutation during render, or on a value staying referentiall
 - [HIR](hir.md): the representation these effects annotate.
 - [Reactive scope](reactive-scope.md): what consumes the mutable-range and reactivity output.
 - [Linting for the compiler](../linting.md): the lints that flag violations of this model.
-
-# Citations
-
-[1] [The Mutability and Aliasing Model in React](https://shapkarin.me/articles/drop-react-manual-memoization/)
-[2] [React Compiler pipeline (Pipeline.ts)](https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Pipeline.ts)
-[3] [React Compiler design goals](https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md)

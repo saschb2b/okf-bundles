@@ -4,7 +4,12 @@ title: Example Mapping
 description: Matt Wynne's 25-minute, four-card refinement technique that surfaces a story's rules, concrete examples, and open questions.
 resource: https://cucumber.io/blog/bdd/example-mapping-introduction/
 tags: [refinement, bdd, acceptance-criteria]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://cucumber.io/blog/bdd/example-mapping-introduction/
+    title: "Introducing Example Mapping (Matt Wynne, Cucumber)"
 ---
 
 # The four cards
@@ -21,7 +26,3 @@ A small group should map a well-understood, well-sized story in about 25 minutes
 # Related
 
 A concrete way to run [Three Amigos](/techniques/three-amigos.md). See the [reference](/references/example-mapping-wynne.md).
-
-# Citations
-
-[1] [Introducing Example Mapping (Matt Wynne, Cucumber)](https://cucumber.io/blog/bdd/example-mapping-introduction/)

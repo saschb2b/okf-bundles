@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:250624UXIIIZR10.22.0"
 doknr: "KORE304362024"
 normen: ["§ 27 Abs 5 EEG 2009, § 547 Nr 6 ZPO, § 551 Abs 3 S 1 Nr 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.06.2024 - XIII ZR 10/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Formaldehydbonus
@@ -26,8 +32,3 @@ Formaldehydbonus
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZR 10/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.06.2024 - XIII ZR 10/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

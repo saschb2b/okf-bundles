@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 44/09"
 doknr: "KORE312722011"
 normen: ["§ 1572 BGB, § 1578b Abs 1 S 3 BGB, § 43 Abs 2 Nr 2 SGB 6"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 02.03.2011 - XII ZR 44/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Rahmen des Krankheitsunterhalts nach § 1572 BGB kann sich ein ehebedingter Nachteil aus der Aufgabe der Erwerbstätigkeit wegen Kindererziehung und Haushaltstätigkeit während der Ehe ergeben, wenn deswegen die Voraussetzungen für eine Rente wegen voller Erwerbsminderung nicht erfüllt sind. Denn nach § 43 Abs. 2 Nr. 2 SGB 6 haben Versicherte bis zum Erreichen der Regelaltersgrenze nur dann Anspruch auf Rente wegen voller Erwerbsminderung, wenn sie in den letzten fünf Jahren vor Eintritt der Erwerbsminderung drei Jahre Pflichtbeiträge für eine versicherte Beschäftigung oder Tätigkeit gezahlt haben .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:25Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 44/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 02.03.2011 - XII ZR 44/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 79/14"
 doknr: "KORE304542014"
 normen: ["§ 3 ZPO, § 9 ZPO, § 256 ZPO, § 258 ZPO, § 259 ZPO, § 286 Abs 1 ZPO, § 294 ZPO, § 511 ZPO, § 271 BGB, § 16 Abs 1 S 3 EEG 2012, § 35 EEG 2012, § 66 Abs 1 Nr 6 EEG 2012, § 19 EEG 2014, § 57 EEG 2014, § 71 EEG 2014, § 100 Abs 1 Nr 10 EEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.11.2014 - VIII ZR 79/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Berufungsbeschwer kann mit allen im Rahmen von § 286 Abs. 1 ZPO zur Führung des Vollbeweises zugelassenen Beweismitteln, soweit präsent, glaubhaft gemacht werden. Dazu können auch die bloßen Erklärungen des Berufungsklägers bei seiner Anhörung vor dem Tatrichter gehören, selbst wenn sie außerhalb einer förmlichen Parteivernehmung erfolgt sind.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 79/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.11.2014 - VIII ZR 79/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

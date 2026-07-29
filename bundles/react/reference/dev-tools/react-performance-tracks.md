@@ -4,7 +4,12 @@ title: React Performance tracks
 description: Custom entries that visualize React-specific events and metrics on the browser Performance panel timeline.
 resource: https://react.dev/reference/dev-tools/react-performance-tracks
 tags: [react, dev-tools, performance, profiling, scheduler]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/dev-tools/react-performance-tracks
+    title: "React Performance tracks"
 ---
 
 # Summary
@@ -73,7 +78,3 @@ Development-only tracks for server work.
 - Wrap subtrees to surface them in profiling builds with [`<Profiler>`](/reference/react/components/Profiler.md).
 - Background on the render and commit phases: [Render and Commit](/adding-interactivity/render-and-commit.md).
 - Server work originates from [Server Components](/reference/rsc/server-components.md).
-
-# Citations
-
-[1] [React Performance tracks](https://react.dev/reference/dev-tools/react-performance-tracks)

@@ -3,7 +3,18 @@ type: Ticket Smell
 title: The Boulder
 description: A ticket too big to finish, which sits on the board for weeks showing no progress because nothing smaller than the whole thing can reach done.
 tags: [ticket-smell, flow, batch-size, sizing]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://businessmap.io/continuous-flow/littles-law
+    title: "What Is Little's Law? (Businessmap)"
+  - resource: https://www.55degrees.se/blog/post/what-is-work-item-age
+    title: "What is Work Item Age? (55degrees)"
+  - resource: https://www.scrum.org/resources/blog/getting-85-agile-metrics-actionableagile-part-1
+    title: "Getting to 85: Agile Metrics with ActionableAgile (Scrum.org)"
+  - resource: https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009
+    title: "The Principles of Product Development Flow (Reinertsen)"
 ---
 
 # What it is
@@ -26,10 +37,3 @@ Large [batch size](/concepts/batch-size.md). [Little's Law](/concepts/littles-la
 
 - Right-size before committing: if a story will take more than a few days, split it (vertically).
 - Track [work item age](/concepts/flow-metrics.md) against your team's history; a boulder crosses the 85th-percentile line before it is formally late.
-
-# Citations
-
-[1] [What Is Little's Law? (Businessmap)](https://businessmap.io/continuous-flow/littles-law)
-[2] [What is Work Item Age? (55degrees)](https://www.55degrees.se/blog/post/what-is-work-item-age)
-[3] [Getting to 85: Agile Metrics with ActionableAgile (Scrum.org)](https://www.scrum.org/resources/blog/getting-85-agile-metrics-actionableagile-part-1)
-[4] [The Principles of Product Development Flow (Reinertsen)](https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009)

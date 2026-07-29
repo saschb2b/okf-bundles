@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:200421BXIIIZB47.20.0"
 doknr: "KORE301792021"
 normen: ["§ 62 Abs 3a Nr 5 AufenthG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.04.2021 - XIII ZB 47/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Der Vermutungstatbestand des § 62 Abs. 3a Nr. 5 AufenthG setzt voraus, dass der Ausländer eine konkrete, auf seine Abschiebung gerichtete Maßnahme der Behörde vereitelt hat.
@@ -24,8 +30,3 @@ Der Vermutungstatbestand des § 62 Abs. 3a Nr. 5 AufenthG setzt voraus, dass der
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 47/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.04.2021 - XIII ZB 47/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

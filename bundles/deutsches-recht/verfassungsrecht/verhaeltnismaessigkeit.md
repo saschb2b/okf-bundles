@@ -5,7 +5,12 @@ description: Ein Eingriff in ein Grundrecht ist nur gerechtfertigt, wenn er eine
 resource: https://www.gesetze-im-internet.de/gg/art_20.html
 tags: [verfassungsrecht, verhaeltnismaessigkeit, schranken-schranke, abwaegung]
 norm: "Art. 20 Abs. 3 GG (Rechtsstaatsprinzip)"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gg/art_20.html
+    title: "Art. 20 GG"
 ---
 
 # Regel
@@ -22,7 +27,3 @@ Die Verhältnismäßigkeit folgt aus dem [Rechtsstaatsprinzip (Art. 20 Abs. 3 GG
 # Reichweite
 
 Die Verhältnismäßigkeit gilt für jeden Grundrechtseingriff, im Gleichheitsrecht (neue Formel) und allgemein für belastendes staatliches Handeln. Die [Menschenwürde (Art. 1)](/verfassungsrecht/menschenwuerde-1-gg.md) ist als absolute Grenze der Abwägung entzogen.
-
-# Citations
-
-[1] [Art. 20 GG](https://www.gesetze-im-internet.de/gg/art_20.html)

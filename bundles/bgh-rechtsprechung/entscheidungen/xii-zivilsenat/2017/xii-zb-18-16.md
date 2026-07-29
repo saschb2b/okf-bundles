@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:210617BXIIZB18.16.0"
 doknr: "KORE318352017"
 normen: ["§ 1757 BGB, § 197 Abs 3 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.06.2017 - XII ZB 18/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Adoptionsbeschluss ist auch hinsichtlich des im Ausspruch enthaltenen, lediglich deklaratorischen Hinweises auf die Änderung des Geburtsnamens des Anzunehmenden nicht anfechtbar.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:32:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 18/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.06.2017 - XII ZB 18/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

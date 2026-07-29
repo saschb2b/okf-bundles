@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 204/16"
 doknr: "KORE319362017"
 normen: ["§ 310 Abs 1 S 1 ZPO, § 169 S 1 GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.12.2017 - VIII ZR 204/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Verkündungsmängel (hier: Verkündung nicht in öffentlicher Sitzung im angegebenen Sitzungssaal, sondern im Dienstzimmer des Richters) stehen dem wirksamen Erlass eines Urteils nur entgegen, wenn gegen elementare, zum Wesen der Verlautbarung gehörende Formerfordernisse verstoßen wurde.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 204/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.12.2017 - VIII ZR 204/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

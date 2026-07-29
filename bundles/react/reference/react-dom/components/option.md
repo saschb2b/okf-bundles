@@ -4,7 +4,12 @@ title: <option>
 description: The built-in browser option component for rendering a selectable option inside a select box.
 resource: https://react.dev/reference/react-dom/components/option
 tags: [react, react-dom, forms, select, option]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/option
+    title: "<option>"
 ---
 
 # Reference
@@ -40,7 +45,3 @@ Render a `<select>` containing `<option>` components, each with a `value` repres
 # Caveats
 
 - React does not support the `selected` attribute on `<option>`. Set the initial selection on the parent instead: `<select defaultValue>` for uncontrolled, or `<select value>` for controlled (see [<select>](/reference/react-dom/components/select.md)).
-
-# Citations
-
-[1] [<option>](https://react.dev/reference/react-dom/components/option)

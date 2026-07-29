@@ -4,7 +4,12 @@ title: Referencing Values with Refs
 description: Use refs to let a component remember information without triggering re-renders, and how refs differ from state.
 resource: https://react.dev/learn/referencing-values-with-refs
 tags: [react, refs, useRef, state]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/referencing-values-with-refs
+    title: "Referencing Values with Refs"
 ---
 
 # Summary
@@ -89,7 +94,3 @@ The most common use is to access a DOM element. Passing a ref to a JSX `ref` att
 - Like state, refs retain information between re-renders.
 - Unlike state, setting `ref.current` does not trigger a re-render.
 - Do not read or write `ref.current` during rendering. This makes the component hard to predict.
-
-# Citations
-
-[1] [Referencing Values with Refs](https://react.dev/learn/referencing-values-with-refs)

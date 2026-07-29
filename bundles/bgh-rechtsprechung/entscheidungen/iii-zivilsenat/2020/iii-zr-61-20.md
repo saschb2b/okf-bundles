@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:261120UIIIZR61.20.0"
 doknr: "KORE304222020"
 normen: ["§ 198 Abs 3 S 1 GVG, § 198 Abs 3 S 2 Halbs 1 GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.11.2020 - III ZR 61/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 198 Abs. 3 Satz 1 GVG stellt keine besonderen Anforderungen an die Form oder den Mindestinhalt einer Verzögerungsrüge, sondern verlangt lediglich, dass die "Dauer des Verfahrens gerügt" wird. Daraus folgt, dass auch eine nicht ausdrücklich als "Verzögerungsrüge" bezeichnete Äußerung eines Verfahrensbeteiligten im Wege der Auslegung als Verzögerungsrüge anzusehen ist, wenn sich ihr nur entnehmen lässt, dass der Beteiligte die Dauer des Verfahrens beanstandet oder in sonstiger Weise zum Ausdruck bringt, mit der Verfahrensdauer nicht einverstanden zu sein.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 61/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.11.2020 - III ZR 61/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

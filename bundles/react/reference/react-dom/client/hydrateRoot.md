@@ -4,7 +4,12 @@ title: hydrateRoot
 description: The react-dom/client API that attaches React to existing server-rendered HTML inside a DOM node, returning render and unmount methods.
 resource: https://react.dev/reference/react-dom/client/hydrateRoot
 tags: [react, react-dom, client, hydration, ssr]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/client/hydrateRoot
+    title: "hydrateRoot"
 ---
 
 # Reference
@@ -84,7 +89,3 @@ Calling `render` after hydration is uncommon; usually you update state inside co
 # Troubleshooting
 
 - "You passed a second argument to root.render": pass options to `hydrateRoot`, not `root.render`.
-
-# Citations
-
-[1] [hydrateRoot](https://react.dev/reference/react-dom/client/hydrateRoot)

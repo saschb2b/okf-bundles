@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:210819UVIIIZR263.18.0"
 doknr: "KORE308892019"
 normen: ["§ 36 Abs 1 Nr 1 VSBG, § 36 Abs 1 Nr 2 VSBG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.08.2019 - VIII ZR 263/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Regelung des § 36 Abs. 1 Nr. 2 VSBG verlangt Informationen über die zuständige Verbraucherschlichtungsstelle nur von einem Unternehmer, der sich zur Teilnahme an einem Streitbeilegungsverfahren verpflichtet hat oder aufgrund einer Rechtsvorschrift hierzu verpflichtet ist. Dagegen ist ein Unternehmer, der sich lediglich zu einer Teilnahme an einem Streitbeilegungsverfahren bereit erklärt hat, von diesen Angaben befreit.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:30:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 263/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.08.2019 - VIII ZR 263/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

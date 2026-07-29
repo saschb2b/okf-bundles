@@ -9,13 +9,14 @@ datum: 2005-07-20
 aktenzeichen: "XII ZB 99/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:20:06Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:20:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZB__99-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 20.07.2005 - XII ZB 99/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 99/02 vom 20.07.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.07.2005 - XII ZB 99/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZB__99-02.pdf?__blob=publicationFile&v=1)
-

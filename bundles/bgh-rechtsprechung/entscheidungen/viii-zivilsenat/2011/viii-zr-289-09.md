@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 289/09"
 doknr: "KORE310992011"
 normen: ["§ 164 BGB, § 177 Abs 1 BGB, § 307 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.05.2011 - VIII ZR 289/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Werden unter Nutzung eines fremden eBay-Mitgliedskontos auf den Abschluss eines Vertrages gerichtete Erklärungen abgegeben, liegt ein Handeln unter fremdem Namen vor, auf das die Regeln über die Stellvertretung sowie die Grundsätze der Anscheins- oder der Duldungsvollmacht entsprechend anzuwenden sind (im Anschluss an BGH, Urteile vom 3. März 1966, II ZR 18/64, BGHZ 45, 193; vom 18. Januar 1988, II ZR 304/86, NJW-RR 1988, 814; vom 8. Dezember 2005, III ZR 99/05, NJW-RR 2006, 701)  .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 289/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.05.2011 - VIII ZR 289/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

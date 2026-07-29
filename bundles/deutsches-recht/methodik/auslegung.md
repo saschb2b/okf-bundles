@@ -3,7 +3,14 @@ type: Methodik
 title: "Auslegung"
 description: Die Ermittlung des Norm- oder Erklärungssinns nach Wortlaut, Systematik, Entstehungsgeschichte und Zweck; bei Willenserklärungen nach §§ 133, 157 vom Empfängerhorizont her.
 tags: [methodik, auslegung, gesetzesauslegung, teleologie]
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__133.html
+    title: "§ 133 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__157.html
+    title: "§ 157 BGB"
 ---
 
 # Gesetzesauslegung: die vier Methoden (Canones)
@@ -22,8 +29,3 @@ Reicht der Wortlaut nicht, kommen die **analoge Anwendung** (planwidrige Regelun
 # Auslegung von Willenserklärungen (§§ 133, 157)
 
 Bei Willenserklärungen und Verträgen gilt ein eigener Maßstab: Nach § 133 ist der wirkliche Wille zu erforschen, nach § 157 ist nach Treu und Glauben mit Rücksicht auf die Verkehrssitte auszulegen. Maßgeblich ist der **objektive Empfängerhorizont** (siehe [Willenserklärung](/bgb-at/willenserklaerung.md)).
-
-# Citations
-
-[1] [§ 133 BGB](https://www.gesetze-im-internet.de/bgb/__133.html)
-[2] [§ 157 BGB](https://www.gesetze-im-internet.de/bgb/__157.html)

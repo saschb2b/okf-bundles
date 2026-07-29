@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:030419BVIIZB24.17.0"
 doknr: "KORE304402019"
 normen: ["§ 859 Abs 1 S 1 ZPO, § 705 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 03.04.2019 - VII ZB 24/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Pfändung eines Anteils an einer Limited Liability Partnership (LLP) britischen Rechts.
@@ -24,8 +30,3 @@ Zur Pfändung eines Anteils an einer Limited Liability Partnership (LLP) britisc
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 24/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.04.2019 - VII ZB 24/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

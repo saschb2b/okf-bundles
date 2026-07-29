@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 25/08"
 doknr: "KORE312622010"
 normen: ["§ 89b HGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.01.2010 - VIII ZR 25/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für die Berücksichtigung von (über den Rabatt auf den Listenpreis hinaus gewährten) Zusatzleistungen des Herstellers/Lieferanten bei der Berechnung des Ausgleichsanspruchs eines Vertragshändlers in entsprechender Anwendung des § 89b HGB kommt es nicht darauf an, ob dem Vertragshändler ein vertraglicher Anspruch auf die gewährten Zusatzleistungen zustand; es genügt, dass der Vertragshändler berechtigterweise erwarten konnte, auch in Zukunft vergleichbare Leistungen zu erhalten.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 25/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.01.2010 - VIII ZR 25/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

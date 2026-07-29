@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:240423BANWZ.BRFG.15.22.0"
 doknr: "KORE652122023"
 normen: ["§ 46 Abs 2 S 1 BRAO, § 46 Abs 3 Nr 1 BRAO, § 46a Abs 1 BRAO, Art 3 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.04.2023 - AnwZ (Brfg) 15/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 46 Abs 2 S 1 BRAO, § 46 Abs 3 Nr 1 BRAO, § 46a Abs 1 BRAO, Art 3 Abs 1 GG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 15/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.04.2023 - AnwZ (Brfg) 15/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

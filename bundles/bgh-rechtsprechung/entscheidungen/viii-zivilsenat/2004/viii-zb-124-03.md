@@ -9,13 +9,14 @@ datum: 2004-06-09
 aktenzeichen: "VIII ZB 124/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:25:52Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:25:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2003/VIII_ZB_124-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 09.06.2004 - VIII ZB 124/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 124/03 vom 09.06.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.06.2004 - VIII ZB 124/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2003/VIII_ZB_124-03.pdf?__blob=publicationFile&v=1)
-

@@ -5,7 +5,18 @@ description: Kapitalgesellschaften zahlen Körperschaftsteuer und Gewerbesteuer,
 resource: https://www.gesetze-im-internet.de/kstg_1977/__1.html
 tags: [steuerrecht, koerperschaftsteuer, gewerbesteuer, transparenzprinzip, mitunternehmer, abgeltungsteuer]
 norm: "§§ 1, 23 KStG; §§ 2, 11 GewStG; §§ 15, 32d EStG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/kstg_1977/__1.html
+    title: "§ 1 KStG"
+  - resource: https://www.gesetze-im-internet.de/kstg_1977/__23.html
+    title: "§ 23 KStG"
+  - resource: https://www.gesetze-im-internet.de/gewstg/__2.html
+    title: "§ 2 GewStG"
+  - resource: https://www.gesetze-im-internet.de/estg/__15.html
+    title: "§ 15 EStG"
 ---
 
 # Kapitalgesellschaften: Körperschaftsteuer (§§ 1, 23 KStG)
@@ -32,10 +43,3 @@ Damit wird die wirtschaftliche Doppelbelastung von Körperschaft- und Einkommens
 # Bezug
 
 Die Rechtsform aus dem [Gesellschaftsrecht](/handels-gesellschaftsrecht/gmbh.md) bestimmt die Besteuerung: Trennungsprinzip bei Kapital-, Transparenzprinzip bei Personengesellschaften. Verfahren und Bescheide laufen über die [Abgabenordnung](/steuerrecht/abgabenordnung-und-verfahren.md); die laufende Besteuerung der natürlichen Person regelt die [Einkommensteuer](/steuerrecht/einkommensteuer.md).
-
-# Citations
-
-[1] [§ 1 KStG](https://www.gesetze-im-internet.de/kstg_1977/__1.html)
-[2] [§ 23 KStG](https://www.gesetze-im-internet.de/kstg_1977/__23.html)
-[3] [§ 2 GewStG](https://www.gesetze-im-internet.de/gewstg/__2.html)
-[4] [§ 15 EStG](https://www.gesetze-im-internet.de/estg/__15.html)

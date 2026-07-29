@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:201216BANWZ.BRFG.52.16.0"
 doknr: "KORE608952017"
 normen: ["§ 31a BRAO, § 177 Abs 2 Nr 7 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.12.2016 - AnwZ (Brfg) 52/16 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 31a BRAO, § 177 Abs 2 Nr 7 BRAO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 52/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.12.2016 - AnwZ (Brfg) 52/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

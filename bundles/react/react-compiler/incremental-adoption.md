@@ -4,7 +4,12 @@ title: Incremental Adoption
 description: Strategies to roll out React Compiler gradually using Babel overrides, annotation-mode opt-in, and runtime gating feature flags.
 resource: https://react.dev/learn/react-compiler/incremental-adoption
 tags: [react, react-compiler, adoption, babel, feature-flags]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/react-compiler/incremental-adoption
+    title: "Incremental Adoption"
 ---
 
 # Summary
@@ -109,7 +114,3 @@ export function isCompilerEnabled() {
 - The [configuration guide](/reference/react-compiler/compilationMode.md) for more options.
 - [Debugging techniques](debugging.md).
 - The full [API reference](/reference/react-compiler/) for all compiler options.
-
-# Citations
-
-[1] [Incremental Adoption](https://react.dev/learn/react-compiler/incremental-adoption)

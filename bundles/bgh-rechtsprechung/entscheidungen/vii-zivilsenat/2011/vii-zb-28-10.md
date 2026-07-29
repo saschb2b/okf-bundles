@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 28/10"
 doknr: "JURE110006641"
 normen: ["§ 139 ZPO, § 233 ZPO, § 238 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.03.2011 - VII ZB 28/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 139 ZPO, § 233 ZPO, § 238 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:01Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 28/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.03.2011 - VII ZB 28/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

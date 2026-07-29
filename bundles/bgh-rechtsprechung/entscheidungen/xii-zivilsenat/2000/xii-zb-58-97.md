@@ -9,13 +9,14 @@ datum: 2000-07-05
 aktenzeichen: "XII ZB 58/97"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:17:03Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:17:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/1997/XII_ZB__58-97.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.07.2000 - XII ZB 58/97 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 58/97 vom 05.07.2000.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.07.2000 - XII ZB 58/97 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/1997/XII_ZB__58-97.pdf?__blob=publicationFile&v=1)
-

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 52/11"
 doknr: "JURE120008573"
 normen: ["§ 239 Abs 2 ZPO, § 239 Abs 3 ZPO, § 239 Abs 4 ZPO, § 55 Abs 1 Nr 2 Alt 2 InsO, § 85 Abs 1 InsO, § 108 Abs 1 InsO, § 535 BGB, § 544 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 04.04.2012 - XII ZR 52/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 239 Abs 2 ZPO, § 239 Abs 3 ZPO, § 239 Abs 4 ZPO, § 55 Abs 1 Nr 2 Alt 2 InsO, § 85 Abs 1 InsO, § 108 Abs 1 InsO, § 535 BGB, § 544 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 52/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.04.2012 - XII ZR 52/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

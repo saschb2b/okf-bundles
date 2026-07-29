@@ -5,7 +5,18 @@ description: Der Urheber bleibt Inhaber des Urheberrechts und räumt anderen nur
 resource: https://www.gesetze-im-internet.de/urhg/__31.html
 tags: [it-recht, urheberrecht, lizenz, nutzungsrecht, zweckuebertragung, open-source]
 norm: "§§ 2, 7, 11, 31, 97 UrhG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/urhg/__31.html
+    title: "§ 31 UrhG"
+  - resource: https://www.gesetze-im-internet.de/urhg/__97.html
+    title: "§ 97 UrhG"
+  - resource: https://www.gesetze-im-internet.de/urhg/__2.html
+    title: "§ 2 UrhG"
+  - resource: https://www.gesetze-im-internet.de/urhg/__7.html
+    title: "§ 7 UrhG"
 ---
 
 # Werk und Urheber (§§ 2, 7, 11)
@@ -31,10 +42,3 @@ Wer das Urheberrecht oder ein Nutzungsrecht verletzt, kann auf **Beseitigung und
 # Bezug
 
 Für Software konkretisieren die [§§ 69a ff.](/it-ip-recht/urheberrecht-software-69a.md) den Schutz und die erlaubten Handlungen. Lizenz- und Überlassungsverträge sind zugleich [Softwareverträge](/it-ip-recht/softwarevertrag-und-saas.md) und unterliegen der [AGB-Kontrolle](/agb-kontrolle/inhaltskontrolle-307.md).
-
-# Citations
-
-[1] [§ 31 UrhG](https://www.gesetze-im-internet.de/urhg/__31.html)
-[2] [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html)
-[3] [§ 2 UrhG](https://www.gesetze-im-internet.de/urhg/__2.html)
-[4] [§ 7 UrhG](https://www.gesetze-im-internet.de/urhg/__7.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:160621BXIIZB58.20.0"
 doknr: "KORE302122021"
 normen: ["§ 1686a Abs 1 Nr 1 BGB, § 1697a BGB, § 1747 Abs 1 S 2 BGB, § 167a FamFG, § 8a AdVermiG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.06.2021 - XII ZB 58/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Umgangsrecht kann dem leiblichen Vater auch im Fall der sogenannten privaten Samenspende zustehen (Fortführung von Senatsurteil vom 15. Mai 2013 - XII ZR 49/11, BGHZ 197, 242 = FamRZ 2013, 1209 und Senatsbeschluss vom 18. Februar 2015 - XII ZB 473/13, FamRZ 2015, 828).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:27:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 58/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.06.2021 - XII ZB 58/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

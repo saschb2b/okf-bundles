@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:300119UXIIZR46.18.0"
 doknr: "KORE303962019"
 normen: ["§ 133 BGB, § 157 BGB, § 7 HeizkostenV, § 10 HeizkostenV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.01.2019 - XII ZR 46/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Nach § 10 HeizkostenV können in einem Mietvertrag über Gewerberäume auch rein verbrauchsabhängige Kostenverteilungen vereinbart werden.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 46/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.01.2019 - XII ZR 46/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

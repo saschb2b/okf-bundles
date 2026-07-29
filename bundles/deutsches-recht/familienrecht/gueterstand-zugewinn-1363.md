@@ -5,7 +5,14 @@ description: Ohne Ehevertrag leben Ehegatten in Zugewinngemeinschaft; die Vermö
 resource: https://www.gesetze-im-internet.de/bgb/__1363.html
 tags: [familienrecht, gueterstand, zugewinngemeinschaft, verfuegungsbeschraenkung]
 norm: "§§ 1363, 1365, 1369 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1363.html
+    title: "§ 1363 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1365.html
+    title: "§ 1365 BGB"
 ---
 
 # Gesetzlicher Güterstand (§ 1363)
@@ -22,8 +29,3 @@ Trotz Vermögenstrennung schränkt das Gesetz zwei Verfügungen ein:
 # Abgrenzung
 
 Durch Ehevertrag (§ 1408, notariell, § 1410) können die Ehegatten Gütertrennung (§ 1414) oder Gütergemeinschaft (§ 1415) vereinbaren.
-
-# Citations
-
-[1] [§ 1363 BGB](https://www.gesetze-im-internet.de/bgb/__1363.html)
-[2] [§ 1365 BGB](https://www.gesetze-im-internet.de/bgb/__1365.html)

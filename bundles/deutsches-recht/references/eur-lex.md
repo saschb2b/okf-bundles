@@ -4,7 +4,12 @@ title: "EUR-Lex (Unionsrecht)"
 description: Das amtliche Portal der Europäischen Union für das Unionsrecht; primäre Fundstelle für EUV, AEUV und das Sekundärrecht, auf das die Konzepte im Gebiet Europarecht und (für die DSGVO) im IT- und IP-Recht gestützt sind.
 resource: https://eur-lex.europa.eu/
 tags: [external, eu-recht, primary-source, eur-lex, dsgvo]
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://eur-lex.europa.eu/
+    title: "EUR-Lex"
 ---
 
 # Zusammenfassung
@@ -23,7 +28,3 @@ timestamp: 2026-06-19T12:00:00Z
 # Hinweis
 
 Die Konzepte im Europarecht geben neben dem Vertragstext auch gefestigte Rechtsprechung des EuGH wieder (etwa Costa/ENEL, Van Gend en Loos, Cassis de Dijon, Francovich). Die Entscheidungen sind über EUR-Lex und die Curia-Datenbank des Gerichtshofs abrufbar.
-
-# Citations
-
-[1] [EUR-Lex](https://eur-lex.europa.eu/)

@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 22/12"
 doknr: "KORE306132013"
 normen: ["§ 293 ZPO, § 88 Abs 1a VAG, § 335 InsO, § 351 InsO, Art 9 Abs 2 Buchst l EGRL 17/2001, Art 20 Abs 4 EGRL 17/2001"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.04.2013 - VII ZB 22/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist nach dem deutschen internationalen Privat- und Zivilverfahrensrecht ausländisches Recht (hier: griechisches Recht) anzuwenden, hat der Tatrichter dieses gemäß § 293 ZPO von Amts wegen zu ermitteln.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 22/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.04.2013 - VII ZB 22/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

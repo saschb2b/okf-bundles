@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:160817BXIIZB21.17.0"
 doknr: "KORE302322017"
 normen: ["§ 242 BGB, § 3 Abs 1 VersAusglG, § 27 VersAusglG, § 28 VersAusglG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.08.2017 - XII ZB 21/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Berücksichtigung von Nachteilen, die einem Ehegatten aus einer verfrühten Scheidungsantragstellung erwachsen, kann im Versorgungsausgleich allenfalls nach § 27 VersAusglG erfolgen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 21/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.08.2017 - XII ZB 21/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

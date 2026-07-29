@@ -9,13 +9,14 @@ datum: 2006-02-15
 aktenzeichen: "IV ZR 6/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:30:43Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:30:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2005/IV_ZR___6-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 15.02.2006 - IV ZR 6/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IV ZR 6/05 vom 15.02.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.02.2006 - IV ZR 6/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2005/IV_ZR___6-05.pdf?__blob=publicationFile&v=1)
-

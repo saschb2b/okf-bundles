@@ -4,7 +4,12 @@ title: <progress>
 description: The built-in browser progress component for rendering determinate or indeterminate progress indicators.
 resource: https://react.dev/reference/react-dom/components/progress
 tags: [react, react-dom, progress, ui]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/progress
+    title: "<progress>"
 ---
 
 # Reference
@@ -29,7 +34,3 @@ Pass a `value` between `0` and `max`. Omit `max` to default it to `1`. Pass `val
 <progress value={75} max={100} /> {/* determinate, explicit max */}
 <progress value={null} />         {/* indeterminate */}
 ```
-
-# Citations
-
-[1] [<progress>](https://react.dev/reference/react-dom/components/progress)

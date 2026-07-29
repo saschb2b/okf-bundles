@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 35/11"
 doknr: "KORE312992012"
 normen: ["§ 174 Abs 1 ZPO, § 174 Abs 4 ZPO, § 286 ZPO, § 520 Abs 2 S 1 ZPO, § 522 Abs 1 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:33Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.12.2011 - VII ZB 35/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für die gemäß § 522 Abs. 1 Satz 1 ZPO von Amts wegen zu treffenden Feststellungen, ob die Berufungsbegründungsfrist eingehalten ist, gelten die Regeln des Freibeweises. Das gilt auch für den zulässigen Gegenbeweis der Unrichtigkeit einer Datumsangabe in einem Empfangsbekenntnis über die Zustellung der vollstreckbaren Ausfertigung eines erstinstanzlichen Urteils.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:33Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 35/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.12.2011 - VII ZB 35/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

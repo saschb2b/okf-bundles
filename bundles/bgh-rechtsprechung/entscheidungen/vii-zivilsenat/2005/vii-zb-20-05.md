@@ -9,13 +9,14 @@ datum: 2005-04-05
 aktenzeichen: "VII ZB 20/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:28:23Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:28:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2005/VII_ZB__20-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.04.2005 - VII ZB 20/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VII ZB 20/05 vom 05.04.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.04.2005 - VII ZB 20/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2005/VII_ZB__20-05.pdf?__blob=publicationFile&v=1)
-

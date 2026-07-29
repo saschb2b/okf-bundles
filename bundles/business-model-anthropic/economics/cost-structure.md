@@ -4,7 +4,18 @@ title: Anthropic cost structure
 description: Compute-dominated costs, headcount efficiency, and gross-margin dynamics.
 resource: https://sacra.com/c/anthropic/
 tags: [anthropic, costs, compute, margins, headcount]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://tomtunguz.com/ai-spend-breakeven-2029/
+    title: "AI spend and breakeven (Tomasz Tunguz, 2026)"
+  - resource: https://www.saastr.com/anthropic-only-has-5000-employees-almost-no-one-has-ever-been-this-efficient-thats-by-choice/
+    title: "Anthropic's efficiency by choice (SaaStr, 2026)"
+  - resource: https://www.makerstations.io/anthropic-employee-statistics/
+    title: "Anthropic employee statistics (makerstations, 2026)"
+  - resource: https://sacra.com/c/anthropic/
+    title: "Anthropic company profile (Sacra, 2026)"
 ---
 
 # Compute dominates everything
@@ -21,10 +32,3 @@ Headcount is contested by source and method, ranging from ~2,300 (Fortune, Dec 2
 - Analysts caution the valuation embeds aggressive, unproven margin expansion (from roughly 40% toward 70%+). Actual current gross margin is not officially disclosed, so treat any specific figure as estimated. [4][1]
 
 The [pricing mechanics](/revenue/pricing.md) (caching, batch discounts, the newer higher-token tokenizer) all bear directly on realized margin, which is why the margin story is inseparable from the pricing story.
-
-# Citations
-
-[1] [AI spend and breakeven (Tomasz Tunguz, 2026)](https://tomtunguz.com/ai-spend-breakeven-2029/)
-[2] [Anthropic's efficiency by choice (SaaStr, 2026)](https://www.saastr.com/anthropic-only-has-5000-employees-almost-no-one-has-ever-been-this-efficient-thats-by-choice/)
-[3] [Anthropic employee statistics (makerstations, 2026)](https://www.makerstations.io/anthropic-employee-statistics/)
-[4] [Anthropic company profile (Sacra, 2026)](https://sacra.com/c/anthropic/)

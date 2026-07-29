@@ -9,7 +9,14 @@ datum: 2011-01-20
 aktenzeichen: "IX ZR 8/10"
 normen: ["§ 131 InsO"]
 tags: [bgh, insolvenzanfechtung, inkongruente-deckung, vollstreckungsdruck, gemeinfrei]
-timestamp: 2026-06-22T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-22T12:00:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Entscheidungssuche"
+  - resource: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.01.2011&Aktenzeichen=IX+ZR+8/10
+    title: "BGH, Urteil vom 20.01.2011 - IX ZR 8/10 (dejure.org)"
 ---
 
 # Kernaussage
@@ -24,8 +31,3 @@ Legt § 131 InsO aus (inkongruente Deckung).
 # Fundstelle und Volltext
 
 Volltext und amtliche Leitsätze frei über die [Entscheidungssuche des BGH](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html) unter dem Aktenzeichen IX ZR 8/10.
-
-# Citations
-
-[1] [BGH, Entscheidungssuche](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-[2] [BGH, Urteil vom 20.01.2011 - IX ZR 8/10 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.01.2011&Aktenzeichen=IX+ZR+8/10)

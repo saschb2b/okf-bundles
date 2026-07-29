@@ -10,8 +10,14 @@ aktenzeichen: "IX ZR 2/11"
 doknr: "KORE310202012"
 normen: ["§ 131 Abs 1 Nr 1 InsO, § 143 Abs 1 S 1 InsO, § 44 AO, § 73 AO, § 191 Abs 1 S 1 AO, § 219 S 1 AO, § 2 Abs 2 Nr 2 UStG, § 421 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.01.2012 - IX ZR 2/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zieht das Finanzamt in Fällen einer umsatzsteuerrechtlichen Organschaft der Steuerschuld des Organträgers entsprechende Beträge aufgrund einer Lastschriftermächtigung vom Konto der Organgesellschaft ein, so macht es den steuerrechtlichen Haftungsanspruch aus § 73 AO gegen die Organgesellschaft geltend. Gerät diese in Insolvenz, erlangt das Finanzamt die Zahlung als deren Insolvenzgläubiger.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 2/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.01.2012 - IX ZR 2/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

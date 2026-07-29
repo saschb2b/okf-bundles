@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:140218BIVAR.VZ.2.17.0"
 doknr: "KORE300382018"
 normen: ["§ 209 Abs 1 Nr 3 InsO, § 210 InsO, § 21 Abs 1 S 2 Nr 1 HintG HE, § 22 Abs 2 S 1 Nr 2 HintG HE, § 108 ZPO, § 711 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.02.2018 - IV AR (VZ) 2/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Fall der Hinterlegung zur Abwendung der Zwangsvollstreckung ist der Nachweis der Empfangsberechtigung erbracht, wenn das Urteil rechtskräftig geworden ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV AR (VZ) 2/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.02.2018 - IV AR (VZ) 2/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2002-03-21
 aktenzeichen: "IX ZA 1/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:20:28Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:20:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2002/IX_ZA___1-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 21.03.2002 - IX ZA 1/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZA 1/02 vom 21.03.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.03.2002 - IX ZA 1/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2002/IX_ZA___1-02.pdf?__blob=publicationFile&v=1)
-

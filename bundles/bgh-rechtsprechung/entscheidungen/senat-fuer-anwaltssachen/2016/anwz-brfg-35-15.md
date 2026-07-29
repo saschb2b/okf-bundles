@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:110116UANWZBRFG35.15.0"
 doknr: "JURE160005823"
 normen: ["§ 14 Abs 2 Nr 8 BRAO, § 45 Abs 1 Nr 4 BRAO, § 45 Abs 2 Nr 2 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.01.2016 - AnwZ (Brfg) 35/15 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 14 Abs 2 Nr 8 BRAO, § 45 Abs 1 Nr 4 BRAO, § 45 Abs 2 Nr 2 BRAO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:10Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 35/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.01.2016 - AnwZ (Brfg) 35/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

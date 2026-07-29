@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 37/09"
 doknr: "KORE306412010"
 normen: ["§ 1615l BGB, Art 34 Nr 1  EGV 44/2001, Art 1 UhÜbk Haag 1993, Art 7 UhÜbk Haag 1993, § 11 S 1 BEEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.11.2010 - XII ZR 37/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Rechtsschutzbedürfnis für eine Leistungsklage ergibt sich regelmäßig schon aus der Nichterfüllung einer fälligen Forderung (im Anschluss an BGH Urteile vom 4. März 1993, I ZR 65/91, NJW-RR 1993, 1129, 1130 und vom 30. September 2009, VIII ZR 238/08, NJW 2010, 1135, 1136) .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 37/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.11.2010 - XII ZR 37/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

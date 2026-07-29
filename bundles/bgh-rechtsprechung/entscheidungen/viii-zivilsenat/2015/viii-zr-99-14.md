@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 99/14"
 doknr: "KORE313782015"
 normen: ["§ 133 BGB, § 157 BGB, § 280 Abs 1 BGB, § 573 Abs 1 BGB, § 779 BGB, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.06.2015 - VIII ZR 99/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Vermieter ist im Falle der Vortäuschung von (Eigen-)Bedarf - wie auch sonst bei einer schuldhaften (materiell) unberechtigten Kündigung eines Dauerschuldverhältnisses - dem Mieter gemäß § 280 Abs. 1 BGB zum Schadensersatz verpflichtet (Bestätigung und Fortführung von BGH, Urteile vom 8. April 2009, VIII ZR 231/07, NJW 2009, 2059 Rn. 11 mwN; vom 13. Juni 2012, VIII ZR 356/11, juris Rn. 10; Beschluss vom 7. September 2011, VIII ZR 343/10, WuM 2011, 634 Rn. 3).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:31:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 99/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.06.2015 - VIII ZR 99/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

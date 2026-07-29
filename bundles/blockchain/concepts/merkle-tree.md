@@ -3,7 +3,14 @@ type: Primitive
 title: Merkle tree
 description: A hash tree that summarizes many transactions into one root, enabling compact proofs of inclusion.
 tags: [cryptography, data-structure, merkle, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin whitepaper, section 7 (Nakamoto, 2008)"
+  - resource: https://ethereum.org/en/developers/docs/data-structures-and-encoding/patricia-merkle-trie/
+    title: "Merkle Patricia Trie (Ethereum.org docs)"
 ---
 
 # What it is
@@ -18,8 +25,3 @@ A Merkle tree pairs up [hashes](/concepts/cryptographic-hash.md) of [transaction
 # Where the chains differ
 
 Bitcoin's block header contains one Merkle root over its transactions. Ethereum uses a richer structure, a **Merkle Patricia trie**, and its block header commits to multiple roots: the transactions, the receipts, and the global [account state](/ethereum/accounts.md). That state root is what lets Ethereum prove the balance or storage of any account at a given block.
-
-# Citations
-
-[1] [Bitcoin whitepaper, section 7 (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
-[2] [Merkle Patricia Trie (Ethereum.org docs)](https://ethereum.org/en/developers/docs/data-structures-and-encoding/patricia-merkle-trie/)

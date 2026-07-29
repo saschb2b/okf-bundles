@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:181120UVIIIZR123.20.0"
 doknr: "KORE304152020"
 normen: ["§ 558c BGB, § 558d BGB, Art 2 Abs 1 GG, Art 20 Abs 3 GG, § 286 ZPO, § 287 Abs 2 ZPO, § 529 Abs 1 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.11.2020 - VIII ZR 123/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Bringt eine Partei gegen einen Mietspiegel (hier: Berliner Mietspiegel 2017) lediglich Einwendungen vor, die dessen Qualifizierung nach § 558d BGB in Frage stellen können, kann er als einfacher Mietspiegel (§ 558c BGB) herangezogen werden (im Anschluss an Senatsurteil vom 27. Mai 2020 - VIII ZR 45/19, NZM 2020, 551 Rn. 103 ff.).
@@ -38,8 +44,3 @@ timestamp: 2026-06-22T12:28:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 123/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.11.2020 - VIII ZR 123/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

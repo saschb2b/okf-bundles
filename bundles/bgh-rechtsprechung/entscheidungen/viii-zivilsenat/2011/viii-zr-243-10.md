@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 243/10"
 doknr: "JURE110007307"
 normen: ["§ 556 Abs 3 S 5 BGB, § 522a ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 15.03.2011 - VIII ZR 243/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 556 Abs 3 S 5 BGB, § 522a ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:01Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 243/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.03.2011 - VIII ZR 243/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

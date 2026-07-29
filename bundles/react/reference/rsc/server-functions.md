@@ -4,7 +4,12 @@ title: Server Functions
 description: Server Functions let Client Components call async functions that execute on the server, marked with the "use server" directive.
 resource: https://react.dev/reference/rsc/server-functions
 tags: [react, rsc, server-functions, actions, forms]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/rsc/server-functions
+    title: "Server Functions"
 ---
 
 # Reference
@@ -97,7 +102,3 @@ const [, submitAction] = useActionState(updateName, null, `/name/update`);
 - The enabling directive: [`"use server"`](/reference/rsc/use-server.md).
 - Where they are used: [Server Components](/reference/rsc/server-components.md) and the client boundary [`"use client"`](/reference/rsc/use-client.md).
 - Pending state and replay: [`useActionState`](/reference/react/hooks/useActionState.md), [`useTransition`](/reference/react/hooks/useTransition.md), [`useOptimistic`](/reference/react/hooks/useOptimistic.md).
-
-# Citations
-
-[1] [Server Functions](https://react.dev/reference/rsc/server-functions)

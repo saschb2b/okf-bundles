@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:160823BVIIZB64.21.0"
 doknr: "KORE311062023"
 normen: ["§ 765a ZPO, § 850k ZPO, § 851 Abs 1 ZPO, § 902 S 1 Nr 6 ZPO, § 906 Abs 2 ZPO, § 362 Abs 1 BGB, § 399 Alt 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.08.2023 - VII ZB 64/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Corona-Überbrückungshilfe III (Billigkeitsleistung des Bundes in Form einer Corona-Überbrückungshilfe für kleine und mittelständische Unternehmen, Soloselbständige und Angehörige der Freien Berufe, die in Folge der Corona-Krise erhebliche Umsatzausfälle erleiden) handelt es sich um eine nach § 851 Abs. 1 ZPO in Verbindung mit § 399 1. Fall BGB nicht pfändbare Forderung.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 64/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.08.2023 - VII ZB 64/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

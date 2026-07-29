@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 224/13"
 doknr: "KORE302582015"
 normen: ["§ 305c Abs 2 BGB, § 535 Abs 1 S 2 BGB, § 28 Abs 2 BVO 2"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 03.12.2014 - VIII ZR 224/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die in einem Formularmietvertrag über eine (damals) preisgebundene Wohnung, bei dem der Vermieter die Kosten der Schönheitsreparaturen zu tragen hat und hierfür ein Zuschlag zur Kostenmiete gemäß § 28 Abs. 2 der Zweiten Berechnungsverordnung vorgesehen ist, enthaltene Klausel
@@ -27,8 +33,3 @@ Die in einem Formularmietvertrag über eine (damals) preisgebundene Wohnung, bei
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 224/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 03.12.2014 - VIII ZR 224/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

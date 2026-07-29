@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:250523BIIIZB57.22.0"
 doknr: "KORE625352023"
 normen: ["§ 2 ZPO, § 3 ZPO, § 511 Abs 2 Nr 1 ZPO, § 511 Abs 4 S 1 ZPO, § 522 Abs 1 S 1 ZPO, § 709 S 1 ZPO, § 20 JVEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:36:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:36:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.05.2023 - III ZB 57/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 2 ZPO, § 3 ZPO, § 511 Abs 2 Nr 1 ZPO, § 511 Abs 4 S 1 ZPO, § 522 Abs 1 S 1 ZPO, § 709 S 1 ZPO, § 20 JVEG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:36:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 57/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.05.2023 - III ZB 57/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

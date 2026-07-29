@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:080224UIXZR2.22.0"
 doknr: "KORE310202024"
 normen: ["§ 242 BGB, § 129 InsO, § 143 Abs 1 InsO, § 144 Abs 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.02.2024 - IX ZR 2/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Geltendmachung eines Insolvenzanfechtungsanspruchs auf Rückgewähr gezahlter Einfuhrumsatzsteuer verstößt nicht gegen Treu und Glauben.
@@ -24,8 +30,3 @@ Die Geltendmachung eines Insolvenzanfechtungsanspruchs auf Rückgewähr gezahlte
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 2/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.02.2024 - IX ZR 2/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

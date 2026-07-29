@@ -9,13 +9,14 @@ datum: 2005-10-05
 aktenzeichen: "VIII ZB 125/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:12:47Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:12:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2004/VIII_ZB_125-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.10.2005 - VIII ZB 125/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 125/04 vom 05.10.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.10.2005 - VIII ZB 125/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2004/VIII_ZB_125-04.pdf?__blob=publicationFile&v=1)
-

@@ -10,8 +10,14 @@ aktenzeichen: "AnwSt (B) 3/12"
 doknr: "JURE120013144"
 normen: ["Art 5 GG, § 145 Abs 2 BRAO, § 145 Abs 3 S 3  BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:18Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:18Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.06.2012 - AnwSt (B) 3/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 5 GG, § 145 Abs 2 BRAO, § 145 Abs 3 S 3  BRAO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:18Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwSt (B) 3/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.06.2012 - AnwSt (B) 3/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2008-03-05
 aktenzeichen: "VIII ZR 37/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:35:56Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:35:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR__37-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 05.03.2008 - VIII ZR 37/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 37/07 vom 05.03.2008.
-
-# Citations
-
-[1] [BGH, Urteil vom 05.03.2008 - VIII ZR 37/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR__37-07.pdf?__blob=publicationFile&v=1)
-

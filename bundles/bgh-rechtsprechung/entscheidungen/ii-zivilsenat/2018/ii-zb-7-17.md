@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:080518BIIZB7.17.0"
 doknr: "KORE312882018"
 normen: ["§ 18 Abs 2 HGB, § 24 Abs 2 HGB, § 2 Abs 2 PartGG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.05.2018 - II ZB 7/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Bei Ausscheiden des promovierten Namensgebers einer Partnerschaft von Rechtsanwälten sind die verbleibenden Partner bei Einwilligung des Ausgeschiedenen oder seiner Erben auch dann zur Fortführung des bisherigen Namens der Partnerschaft mit dem Doktortitel des Ausgeschiedenen befugt, wenn keiner von ihnen promoviert hat.
@@ -24,8 +30,3 @@ Bei Ausscheiden des promovierten Namensgebers einer Partnerschaft von Rechtsanw�
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 7/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.05.2018 - II ZB 7/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

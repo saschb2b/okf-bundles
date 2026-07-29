@@ -9,13 +9,14 @@ datum: 2009-10-07
 aktenzeichen: "Xa ZR 8/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:40:37Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:40:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/Xa_ZS/2008/Xa_ZR___8-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 07.10.2009 - Xa ZR 8/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: Xa ZR 8/08 vom 07.10.2009.
-
-# Citations
-
-[1] [BGH, Urteil vom 07.10.2009 - Xa ZR 8/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/Xa_ZS/2008/Xa_ZR___8-08.pdf?__blob=publicationFile&v=1)
-

@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 37/13"
 doknr: "KORE302842014"
 normen: ["§ 198 Abs 1 S 1 GVG, § 198 Abs 2 S 2 GVG, § 198 Abs 4 S 1 GVG, § 198 Abs 5 S 1 GVG, § 256 Abs 1 ZPO, Art 6 Abs 1 S 1 MRK, Art 2 Abs 1 GG, Art 19 Abs 4 GG, Art 20 Abs 3 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.01.2014 - III ZR 37/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Voraussetzungen eines Entschädigungsanspruchs nach § 198 Abs. 1 Satz 1 GVG müssen auch dann vollständig vorliegen, wenn die Entschädigungsklage gemäß § 198 Abs. 5 Satz 1 GVG während des noch andauernden Ausgangsverfahrens erhoben wird.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:27:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 37/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.01.2014 - III ZR 37/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

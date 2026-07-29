@@ -9,13 +9,14 @@ datum: 2003-07-16
 aktenzeichen: "XII ZB 22/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:07:31Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:07:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2003/XII_ZB__22-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 16.07.2003 - XII ZB 22/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 22/03 vom 16.07.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.07.2003 - XII ZB 22/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2003/XII_ZB__22-03.pdf?__blob=publicationFile&v=1)
-

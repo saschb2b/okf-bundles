@@ -4,7 +4,12 @@ title: error-boundaries
 description: Flags try/catch used to handle rendering errors from child components, which only Error Boundaries can catch.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/error-boundaries
 tags: [react, eslint, lint, error-boundaries, suspense]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/error-boundaries
+    title: "error-boundaries"
 ---
 
 # What it flags
@@ -53,7 +58,3 @@ function App() {
   );
 }
 ```
-
-# Citations
-
-[1] [error-boundaries](https://react.dev/reference/eslint-plugin-react-hooks/lints/error-boundaries)

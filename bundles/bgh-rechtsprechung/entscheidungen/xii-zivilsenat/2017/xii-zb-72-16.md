@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:190717BXIIZB72.16.0"
 doknr: "KORE308462017"
 normen: ["Art 19 Abs 1 BGBEG, Art 20 BGBEG, § 1594 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.07.2017 - XII ZB 72/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Führt von den nach Art. 19 Abs. 1 EGBGB für die Feststellung der Vaterschaft alternativ berufenen Rechtsordnungen zum Zeitpunkt der Geburt allein das Personalstatut des geschiedenen Ehemanns der Mutter zur rechtlichen Vaterschaft (hier: des geschiedenen Ehemanns nach polnischem Recht), so ist eine später von einem anderen Mann nach dem hierfür anwendbaren deutschen Recht erklärte Anerkennung der Vaterschaft unwirksam (Fortführung des Senatsbeschlusses vom 3. August 2016, XII ZB 110/16, FamRZ 2016, 1847).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 72/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.07.2017 - XII ZB 72/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

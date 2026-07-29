@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:121124BVIIIZB36.23.0"
 doknr: "KORE711502024"
 normen: ["§ 13 GVG, § 17a GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.11.2024 - VIII ZB 36/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In Fällen, in denen die Klagepartei Ansprüche aus abgetretenem Recht verfolgt, richtet sich die Rechtswegzuordnung maßgeblich nach dem Gepräge des Rechtsverhältnisses zwischen dem Zedenten und dem Schuldner (Vergleiche BGH, Beschluss vom 25. Juli 2013 - III ZB 18/13, BGHZ 198, 105 Rn. 7, 9 f.; BSG, Beschluss vom 30. September 2014 - B 8 SF 1/14 R, juris Rn. 8).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:40:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 36/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.11.2024 - VIII ZB 36/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

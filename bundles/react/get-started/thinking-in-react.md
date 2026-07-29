@@ -4,7 +4,12 @@ title: Thinking in React
 description: The five-step thought process for building a React UI, from breaking a mockup into components to wiring up inverse data flow.
 resource: https://react.dev/learn/thinking-in-react
 tags: [react, components, state, props, data-flow]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/thinking-in-react
+    title: "Thinking in React"
 ---
 
 # Summary
@@ -153,7 +158,3 @@ Now the application fully works. Learn more about handling events and updating s
 # Recap
 
 The five steps: break the UI into a component hierarchy, build a static version with props and one-way data flow, find the minimal complete representation of state, identify which component owns each piece of state, then add inverse data flow so user input updates the owning state. From here, start a [React project](/installation/installation.md) or go deeper on the syntax in [Describing the UI](/describing-the-ui/describing-the-ui.md).
-
-# Citations
-
-[1] [Thinking in React](https://react.dev/learn/thinking-in-react)

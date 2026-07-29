@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 47/14"
 doknr: "KORE301242014"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO, § 234 ZPO, § 520 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.09.2014 - III ZR 47/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Auch wenn der Rechtsanwalt (nach Eingang des Urteils in der Kanzlei) seine Angestellte im Wege einer Einzelanweisung angehalten hat, die fehlerhaft eingetragene Frist zur Berufungsbegründung zu korrigieren, so befreit ihn dies nicht davon, im Rahmen der Vorbereitung einer Prozesshandlung (wie der Einlegung der Berufung) die Richtigkeit der Notierung der Berufungsbegründungsfrist eigenverantwortlich zu prüfen.
@@ -23,8 +29,3 @@ Auch wenn der Rechtsanwalt (nach Eingang des Urteils in der Kanzlei) seine Anges
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 47/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.09.2014 - III ZR 47/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: <form>
 description: The built-in browser form component, with React action props that run submission in a Transition and support Server Functions, pending state, and optimistic updates.
 resource: https://react.dev/reference/react-dom/components/form
 tags: [react, react-dom, forms, actions, server-functions]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/form
+    title: "<form>"
 ---
 
 # Reference
@@ -112,7 +117,3 @@ Give buttons different `formAction` functions so one form supports several actio
 # Caveats
 
 - When a function is passed to `action` or `formAction`, the HTTP method is always POST regardless of the `method` prop.
-
-# Citations
-
-[1] [<form>](https://react.dev/reference/react-dom/components/form)

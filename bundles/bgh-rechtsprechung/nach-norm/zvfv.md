@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZVFV"
 description: "BGH-Entscheidungen zu ZVFV, geordnet nach Vorschrift."
 tags: [register, navigation, zvfv]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

@@ -5,7 +5,12 @@ description: Die zentrale Anspruchsgrundlage für Schadensersatz im Schuldverhä
 resource: https://www.gesetze-im-internet.de/bgb/__280.html
 tags: [schuldrecht-at, schadensersatz, pflichtverletzung, leistungsstoerung]
 norm: "§ 280 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__280.html
+    title: "§ 280 BGB"
 ---
 
 # Regel
@@ -26,7 +31,3 @@ timestamp: 2026-06-18T12:00:00Z
 - **Schadensersatz neben der Leistung** (der einfache Fall, allein § 280 Abs. 1): Begleitschäden, die auch nach Erfüllung bleiben.
 - **Verzögerungsschaden** (§ 280 Abs. 2): nur unter den zusätzlichen Voraussetzungen des [Schuldnerverzugs](/schuldrecht-at/verzug.md) (§ 286).
 - **Schadensersatz statt der Leistung** (§ 280 Abs. 3): nur unter den zusätzlichen Voraussetzungen der [§§ 281, 282 oder 283](/schuldrecht-at/schadensersatz-statt-der-leistung.md).
-
-# Citations
-
-[1] [§ 280 BGB](https://www.gesetze-im-internet.de/bgb/__280.html)

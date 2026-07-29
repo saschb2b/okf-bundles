@@ -5,7 +5,16 @@ description: Die Schenkung ist eine unentgeltliche Zuwendung; das Schenkungsvers
 resource: https://www.gesetze-im-internet.de/bgb/__516.html
 tags: [schuldrecht-bt, schenkung, unentgeltlich, widerruf]
 norm: "§§ 516, 518, 528, 530 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__516.html
+    title: "§ 516 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__518.html
+    title: "§ 518 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__530.html
+    title: "§ 530 BGB"
 ---
 
 # Regel (§ 516)
@@ -24,9 +33,3 @@ Das **Schenkungsversprechen** bedarf zu seiner Wirksamkeit der **notariellen Beu
 # Siehe auch
 
 Das Schenkungsversprechen ist nach § 518 nur mit notarieller [Form](/bgb-at/form.md) wirksam; der formlose Vollzug heilt den Formmangel.
-
-# Citations
-
-[1] [§ 516 BGB](https://www.gesetze-im-internet.de/bgb/__516.html)
-[2] [§ 518 BGB](https://www.gesetze-im-internet.de/bgb/__518.html)
-[3] [§ 530 BGB](https://www.gesetze-im-internet.de/bgb/__530.html)

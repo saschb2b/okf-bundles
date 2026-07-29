@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:130922BXIZB7.22.0"
 doknr: "KORE676402022"
 normen: ["§ 520 Abs 3 S 2 Nr 2 ZPO, § 242 BGB, § 355 BGB, § 357 BGB, § 495 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.09.2022 - XI ZB 7/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 520 Abs 3 S 2 Nr 2 ZPO, § 242 BGB, § 355 BGB, § 357 BGB, § 495 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XI ZB 7/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.09.2022 - XI ZB 7/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

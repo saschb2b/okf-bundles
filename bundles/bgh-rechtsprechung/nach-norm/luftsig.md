@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu LuftSiG"
 description: "BGH-Entscheidungen zu LuftSiG, geordnet nach Vorschrift."
 tags: [register, navigation, luftsig]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

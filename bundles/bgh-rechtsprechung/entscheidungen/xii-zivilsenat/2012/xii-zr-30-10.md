@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 30/10"
 doknr: "KORE304682012"
 normen: ["§ 242 BGB, § 1361 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 31.10.2012 - XII ZR 30/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Berücksichtigung eines nach Eintritt der gesetzlichen Regelaltersgrenze erzielten Erwerbseinkommens aus einer Nebentätigkeit (im Anschluss an Senatsurteil BGH, 12. Januar 2011, XII ZR 83/08, BGHZ 188, 50 = FamRZ 2011, 454).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 30/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 31.10.2012 - XII ZR 30/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

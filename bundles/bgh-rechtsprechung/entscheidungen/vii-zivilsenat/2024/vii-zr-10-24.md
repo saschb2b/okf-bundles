@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:190924UVIIZR10.24.0"
 doknr: "KORE706902024"
 normen: ["§ 133 BGB, § 157 BGB, § 642 BGB, § 2 Abs 5 VOB B, § 6 Abs 2 Nr 1 VOB B, § 6 Abs 6 S 1 VOB B"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.09.2024 - VII ZR 10/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1.    Eine Anordnung im Sinne des § 2 Abs. 5 VOB/B erfordert eine rechtsgeschäftliche Erklärung des Auftraggebers, mit der einseitig eine Änderung der Vertragspflichten des Auftragnehmers herbeigeführt werden soll (Fortführung von BGH, Urteil vom 9. April 1992 - VII ZR 129/91, WM 1992,1501).
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:40:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 10/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.09.2024 - VII ZR 10/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

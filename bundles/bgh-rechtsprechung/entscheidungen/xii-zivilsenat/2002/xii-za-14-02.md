@@ -9,13 +9,14 @@ datum: 2002-10-02
 aktenzeichen: "XII ZA 14/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:21:40Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:21:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZA__14-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 02.10.2002 - XII ZA 14/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZA 14/02 vom 02.10.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 02.10.2002 - XII ZA 14/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2002/XII_ZA__14-02.pdf?__blob=publicationFile&v=1)
-

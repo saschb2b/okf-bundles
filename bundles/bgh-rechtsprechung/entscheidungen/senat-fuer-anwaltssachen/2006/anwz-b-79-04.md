@@ -9,13 +9,14 @@ datum: 2006-01-18
 aktenzeichen: "AnwZ (B) 79/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:30:20Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:30:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__79-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 18.01.2006 - AnwZ (B) 79/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 79/04 vom 18.01.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.01.2006 - AnwZ (B) 79/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__79-04.pdf?__blob=publicationFile&v=1)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 48/07"
 doknr: "KORE307852010"
 normen: ["§ 8 Abs 1 AIHonO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.04.2010 - VII ZR 48/07 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Fälligkeit der Forderung, die ein Architekt auf Grundlage einer nicht prüffähigen Rechnung für eine vertragsgemäß erbrachte Leistung erhebt, tritt ein, wenn ein Prüfungszeitraum von zwei Monaten ohne Beanstandungen zur Prüffähigkeit abgelaufen ist oder wenn das Ergebnis der Prüfung mitgeteilt wird und keine Rügen zur Prüffähigkeit erhoben werden .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:52Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 48/07 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.04.2010 - VII ZR 48/07 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

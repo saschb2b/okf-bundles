@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 95/11"
 doknr: "KORE303892011"
 normen: ["§ 627 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.09.2011 - III ZR 95/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Beauftragung eines Wirtschaftsprüfungsunternehmens mit der internen Revision handelt es sich um einen Vertrag über die Leistung von Diensten höherer Art, die auf Grund besonderen Vertrauens übertragen zu werden pflegen .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 95/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.09.2011 - III ZR 95/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:130525BXIIIZB17.22.0"
 doknr: "KORE712082025"
 normen: ["§ 64 Abs 3 FamFG, § 420 Abs 1 S 1 FamFG, § 425 Abs 3 FamFG, § 427 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.05.2025 - XIII ZB 17/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 64 Abs 3 FamFG, § 420 Abs 1 S 1 FamFG, § 425 Abs 3 FamFG, § 427 FamFG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:40:52Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 17/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.05.2025 - XIII ZB 17/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

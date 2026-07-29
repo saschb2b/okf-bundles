@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:120717UVIIIZR214.16.0"
 doknr: "KORE301932017"
 normen: ["§ 546a Abs 1 BGB, § 812 Abs 1 S 1 Alt 1 BGB, § 812 Abs 1 S 2 Alt 1 BGB, § 818 Abs 1 BGB, § 987 BGB, §§ 987ff BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.07.2017 - VIII ZR 214/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Mietsache wird dem Vermieter dann im Sinne des § 546a Abs. 1 BGB nach Beendigung des Mietverhältnisses vorenthalten, wenn der Mieter die Mietsache nicht zurückgibt und das Unterlassen der Herausgabe dem Willen des Vermieters widerspricht (Anschluss an BGH, Urteile vom 5. Oktober 2005, VIII ZR 57/05, NZM 2006, 52 Rn. 6; vom 16. November 2005, VIII ZR 218/04, NZM 2006, 12 Rn. 12 und vom 29. Januar 2015, IX ZR 279/13, BGHZ 204, 83 Rn. 81: jeweils mwN; st. Rspr.).
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:27:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 214/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.07.2017 - VIII ZR 214/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

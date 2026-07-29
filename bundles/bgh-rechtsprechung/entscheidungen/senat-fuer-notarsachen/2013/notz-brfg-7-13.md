@@ -10,8 +10,14 @@ aktenzeichen: "NotZ (Brfg) 7/13"
 doknr: "KORE315132014"
 normen: ["§ 17a Abs 3 S 2 GVG, § 50 Abs 1 Nr 8 Alt 2 BNotO, § 54 Abs 1 S 1 Nr 2 BNotO, § 111 Abs 1 BNotO, § 111 Abs 2 BNotO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:11Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.11.2013 - NotZ (Brfg) 7/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Rüge der Zulässigkeit des Rechtswegs und zur Zuständigkeit der ordentlichen Gerichte in verwaltungsrechtlichen Notarsachen.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:11Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 7/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.11.2013 - NotZ (Brfg) 7/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

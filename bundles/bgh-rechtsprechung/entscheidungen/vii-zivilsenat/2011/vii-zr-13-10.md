@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 13/10"
 doknr: "KORE303692011"
 normen: ["§ 133 BGB, § 157 BGB, § 313 BGB, § 2 Nr 7 Abs 1 VOB B 2002"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.06.2011 - VII ZR 13/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Inwieweit eine detaillierte Angabe im Leistungsverzeichnis einer funktionalen Ausschreibung (hier: Abbruch einer Klinik) dazu führt, dass sie die Pauschalierung der Vergütung begrenzt, ergibt die Auslegung des Vertrages. Die Auslegung kann auch ergeben, dass die detaillierte Angabe lediglich die Geschäftsgrundlage des Vertrages beschreibt  .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 13/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.06.2011 - VII ZR 13/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: useCallback
 description: React Hook that caches a function definition between re-renders so its identity stays stable until its dependencies change.
 resource: https://react.dev/reference/react/useCallback
 tags: [react, hook, performance, memoization]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useCallback
+    title: "useCallback"
 ---
 
 # Reference
@@ -62,7 +67,3 @@ Note: React Compiler memoizes values and functions automatically, reducing the n
 - React will not throw away the cached function unless there is a specific reason: in development it discards the cache when you edit the file, and in both development and production it discards the cache if the component suspends during the initial mount.
 - Rely on `useCallback` only as a performance optimization. If your code does not work without it, find and fix the underlying problem first. If you need to cache a value that is not a function, consider a [state variable](/reference/react/hooks/useState.md) or a [ref](/reference/react/hooks/useRef.md).
 - If `useCallback` returns a new function every render, confirm you passed the dependency array, then check whether one of the dependencies changed (log them or compare with `Object.is`). Memoize a dependency that keeps changing with [useMemo](/reference/react/hooks/useMemo.md).
-
-# Citations
-
-[1] [useCallback](https://react.dev/reference/react/useCallback)

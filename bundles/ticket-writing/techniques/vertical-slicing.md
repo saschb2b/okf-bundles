@@ -3,7 +3,16 @@ type: Technique
 title: Vertical slicing
 description: Slice a story as a thin increment cutting through every layer (UI, logic, data) to deliver demonstrable value, instead of by technical layer.
 tags: [slicing, value, increment]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
+    title: "INVEST in Good Stories (Bill Wake)"
+  - resource: https://www.thoughtworks.com/insights/blog/slicing-your-development-work-multi-layer-cake
+    title: "Slicing your development work as a multi-layer cake (Thoughtworks)"
+  - resource: https://www.visual-paradigm.com/scrum/user-story-splitting-vertical-slice-vs-horizontal-slice/
+    title: "Vertical Slice vs Horizontal Slice (Visual Paradigm)"
 ---
 
 # Definition
@@ -19,9 +28,3 @@ A vertical slice goes top to bottom through all layers and is independently demo
 - The cure for [the Siamese Twins](/smells/siamese-twins.md).
 - Tools to slice vertically: [SPIDR](/techniques/spidr.md), [story-splitting patterns](/techniques/story-splitting-patterns.md), [Elephant Carpaccio](/techniques/elephant-carpaccio.md).
 - Step-by-step in the [splitting playbook](/playbooks/splitting-a-story.md).
-
-# Citations
-
-[1] [INVEST in Good Stories (Bill Wake)](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
-[2] [Slicing your development work as a multi-layer cake (Thoughtworks)](https://www.thoughtworks.com/insights/blog/slicing-your-development-work-multi-layer-cake)
-[3] [Vertical Slice vs Horizontal Slice (Visual Paradigm)](https://www.visual-paradigm.com/scrum/user-story-splitting-vertical-slice-vs-horizontal-slice/)

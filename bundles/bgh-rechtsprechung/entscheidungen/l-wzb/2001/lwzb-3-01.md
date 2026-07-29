@@ -9,13 +9,14 @@ datum: 2001-11-09
 aktenzeichen: "LwZB 3/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:19:36Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:19:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2001/LwZB___3-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 09.11.2001 - LwZB 3/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: LwZB 3/01 vom 09.11.2001.
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.11.2001 - LwZB 3/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2001/LwZB___3-01.pdf?__blob=publicationFile&v=1)
-

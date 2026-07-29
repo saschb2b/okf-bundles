@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:150125UXIIZR29.24.0"
 doknr: "KORE705602025"
 normen: ["§ 259 Abs 1 BGB, § 535 Abs 2 BGB, § 2 Abs 1 S 1 UStG, § 2 Abs 1 S 3 UStG, § 4 Nr 12 Buchst a UStG, § 4 Nr 13 UStG, § 9 Abs 1 UStG, § 9 Abs 2 UStG, § 15 Abs 1 S 1 Nr 1 UStG, § 15 Abs 1 S 2 UStG, § 28 Abs 2 S 2 WoEigG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:04Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:04Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.01.2025 - XII ZR 29/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Haben die Parteien eines gewerblichen Mietverhältnisses vereinbart, dass der Mieter die Umsatzsteuer auf Miete und Nebenkosten übernimmt, wenn eine solche anfällt, kann der Vermieter die zusätzliche Zahlung des Umsatzsteuerbetrags nur dann vom Mieter verlangen, wenn er selbst tatsächlich umsatzsteuerpflichtig ist (im Anschluss an Senatsurteil vom 30. September 2020 - XII ZR 6/20, NZM 2021, 96).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:40:04Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 29/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.01.2025 - XII ZR 29/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

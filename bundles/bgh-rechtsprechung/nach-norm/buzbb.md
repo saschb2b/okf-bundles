@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BUZBB"
 description: "BGH-Entscheidungen zu BUZBB, geordnet nach Vorschrift."
 tags: [register, navigation, buzbb]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

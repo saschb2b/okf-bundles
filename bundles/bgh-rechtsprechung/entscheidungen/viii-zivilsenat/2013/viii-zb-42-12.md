@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 42/12"
 doknr: "JURE130005875"
 normen: ["§ 85 Abs 2 ZPO, § 514 Abs 2 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.03.2013 - VIII ZB 42/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 85 Abs 2 ZPO, § 514 Abs 2 S 1 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 42/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.03.2013 - VIII ZB 42/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

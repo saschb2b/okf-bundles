@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 185/14"
 doknr: "KORE300572015"
 normen: ["§ 280 Abs 1 BGB, § 280 Abs 3  BGB, § 281 Abs 1 S 1  BGB, § 307 Abs 1 S 1 BGB, § 307 Abs 2 Nr 1 BGB, § 535 Abs 1 S 2 BGB, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.03.2015 - VIII ZR 185/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die formularvertragliche Überwälzung der Verpflichtung zur Vornahme laufender Schönheitsreparaturen einer dem Mieter unrenoviert oder renovierungsbedürftig überlassenen Wohnung hält der Inhaltskontrolle am Maßstab des § 307 Abs. 1 Satz 1, Abs. 2 Nr. 1 BGB nicht stand, sofern der Vermieter dem Mieter keinen angemessenen Ausgleich gewährt (insoweit Aufgabe von BGH, Rechtsentscheid vom 1. Juli 1987, VIII ARZ 9/86, BGHZ 101, 253).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:14:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 185/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.03.2015 - VIII ZR 185/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

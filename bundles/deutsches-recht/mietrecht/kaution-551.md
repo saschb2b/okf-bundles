@@ -5,7 +5,12 @@ description: Die Mietsicherheit darf höchstens das Dreifache der monatlichen Ne
 resource: https://www.gesetze-im-internet.de/bgb/__551.html
 tags: [mietrecht, kaution, mietsicherheit]
 norm: "§ 551 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__551.html
+    title: "§ 551 BGB"
 ---
 
 # Regel
@@ -20,7 +25,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Siehe auch
 
 Die Kaution sichert die Ansprüche aus dem [Mietvertrag](/mietrecht/mietvertrag-pflichten-535.md).
-
-# Citations
-
-[1] [§ 551 BGB](https://www.gesetze-im-internet.de/bgb/__551.html)

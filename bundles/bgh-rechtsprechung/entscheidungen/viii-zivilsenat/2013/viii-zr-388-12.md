@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 388/12"
 doknr: "KORE301222013"
 normen: ["§ 133 BGB, § 157 BGB, § 573c BGB, § 575 Abs 1 S 1  BGB, § 575 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.07.2013 - VIII ZR 388/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur ergänzenden Vertragsauslegung im Falle der Unwirksamkeit einer Befristung des Mietvertrags.
@@ -23,8 +29,3 @@ Zur ergänzenden Vertragsauslegung im Falle der Unwirksamkeit einer Befristung d
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 388/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.07.2013 - VIII ZR 388/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2005-04-26
 aktenzeichen: "AnwZ (B) 98/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:28:18Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:28:18Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__98-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 26.04.2005 - AnwZ (B) 98/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 98/04 vom 26.04.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.04.2005 - AnwZ (B) 98/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__98-04.pdf?__blob=publicationFile&v=1)
-

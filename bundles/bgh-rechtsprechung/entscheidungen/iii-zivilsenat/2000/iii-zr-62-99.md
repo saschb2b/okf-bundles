@@ -9,13 +9,14 @@ datum: 2000-01-13
 aktenzeichen: "III ZR 62/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:01:08Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:01:08Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/1999/III_ZR__62-99.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 13.01.2000 - III ZR 62/99 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 62/99 vom 13.01.2000.
-
-# Citations
-
-[1] [BGH, Urteil vom 13.01.2000 - III ZR 62/99 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/1999/III_ZR__62-99.pdf?__blob=publicationFile&v=1)
-

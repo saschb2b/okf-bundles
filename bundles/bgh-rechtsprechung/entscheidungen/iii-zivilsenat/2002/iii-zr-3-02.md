@@ -9,13 +9,14 @@ datum: 2002-05-29
 aktenzeichen: "III ZR 3/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:20:51Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:20:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2002/III_ZR___3-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 29.05.2002 - III ZR 3/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 3/02 vom 29.05.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.05.2002 - III ZR 3/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2002/III_ZR___3-02.pdf?__blob=publicationFile&v=1)
-

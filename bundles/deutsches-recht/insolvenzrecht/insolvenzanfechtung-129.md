@@ -5,7 +5,16 @@ description: Der Verwalter kann Rechtshandlungen vor der Eröffnung, die die Ins
 resource: https://www.gesetze-im-internet.de/inso/__129.html
 tags: [insolvenzrecht, insolvenzanfechtung, glaeubigerbenachteiligung, rechtshandlung, systematik]
 norm: "§§ 129 bis 147 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__129.html
+    title: "§ 129 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__140.html
+    title: "§ 140 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__142.html
+    title: "§ 142 InsO"
 ---
 
 # Grundtatbestand (§ 129)
@@ -40,9 +49,3 @@ Die Anfechtung wird stark von der Rechtsprechung des Bundesgerichtshofs geprägt
 # Bezug
 
 Die Anfechtung knüpft an die [Eröffnungsgründe](/insolvenzrecht/eroeffnungsgruende-17-19.md) (insbesondere die Zahlungsunfähigkeit) an und füllt die [Masse](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) auf. Für das Forderungsmanagement heißt das: eine kurz vor der Insolvenz erlangte Zahlung oder Sicherheit ist nicht endgültig, sondern kann vom Verwalter zurückgefordert werden.
-
-# Citations
-
-[1] [§ 129 InsO](https://www.gesetze-im-internet.de/inso/__129.html)
-[2] [§ 140 InsO](https://www.gesetze-im-internet.de/inso/__140.html)
-[3] [§ 142 InsO](https://www.gesetze-im-internet.de/inso/__142.html)

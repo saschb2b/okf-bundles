@@ -9,13 +9,14 @@ datum: 2002-02-26
 aktenzeichen: "X ARZ 9/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:20:17Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:20:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2002/X_ARZ___9-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 26.02.2002 - X ARZ 9/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: X ARZ 9/02 vom 26.02.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.02.2002 - X ARZ 9/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2002/X_ARZ___9-02.pdf?__blob=publicationFile&v=1)
-

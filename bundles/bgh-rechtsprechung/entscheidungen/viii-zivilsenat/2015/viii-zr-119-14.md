@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 119/14"
 doknr: "KORE304492015"
 normen: ["§ 205 BGB, § 232 BGB, §§ 232ff BGB, § 286 Abs 1 BGB, § 765 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 16.09.2015 - VIII ZR 119/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Die Verjährung des Anspruchs des Leasinggebers auf Zahlung von Leasingraten ist gemäß § 205 BGB während eines auf Rückabwicklung des Kaufvertrages gerichteten Rechtsstreits des Leasingnehmers, dem - leasingtypisch - unter Ausschluss der Sachmängelhaftung im Rahmen des Leasingvertrages kaufrechtliche Gewährleistungsansprüche und -rechte gegen den Lieferanten übertragen worden sind, gehemmt. Denn das Recht des Leasingnehmers, die Zahlung der Leasingraten vorläufig einzustellen, wenn er ihm übertragene Ansprüche und Rechte gegen den Lieferanten klageweise geltend macht, ist ein leasingvertraglich vereinbartes vorübergehendes Leistungsverweigerungsrecht (Fortführung und Fortentwicklung von BGH, Urteile vom 19. Februar 1986, VIII ZR 91/85, BGHZ 97, 135; vom 16. Juni 2010, VIII ZR 317/09, NJW 2010, 2798).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:28:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 119/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 16.09.2015 - VIII ZR 119/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

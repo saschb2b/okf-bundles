@@ -9,13 +9,14 @@ datum: 2009-04-20
 aktenzeichen: "NotSt (B) 1/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:22:41Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:22:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2009/NotSt_B___1-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 20.04.2009 - NotSt (B) 1/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: NotSt (B) 1/09 vom 20.04.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.04.2009 - NotSt (B) 1/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2009/NotSt_B___1-09.pdf?__blob=publicationFile&v=1)
-

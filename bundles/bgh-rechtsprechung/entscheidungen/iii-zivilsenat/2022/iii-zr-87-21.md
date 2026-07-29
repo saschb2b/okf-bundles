@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:100222BIIIZR87.21.0"
 doknr: "KORE312302022"
 normen: ["§ 839 Abs 1 BGB, Art 34 GG, EGRL 46/2007, EGV 715/2007"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.02.2022 - III ZR 87/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Diesel-Skandal, Amtshaftung
@@ -26,8 +32,3 @@ Diesel-Skandal, Amtshaftung
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 87/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.02.2022 - III ZR 87/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

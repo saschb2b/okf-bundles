@@ -9,13 +9,14 @@ datum: 2003-10-27
 aktenzeichen: "II ZA 9/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:24:09Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:24:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2002/II_ZA___9-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 27.10.2003 - II ZA 9/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: II ZA 9/02 vom 27.10.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.10.2003 - II ZA 9/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2002/II_ZA___9-02.pdf?__blob=publicationFile&v=1)
-

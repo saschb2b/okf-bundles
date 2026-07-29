@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:290720BANWZ.BRFG.7.20.0"
 doknr: "KORE629502020"
 normen: ["§ 7 Nr 8 BRAO, § 14 Abs 2 Nr 8 Halbs 1 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:11Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.07.2020 - AnwZ (Brfg) 7/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 7 Nr 8 BRAO, § 14 Abs 2 Nr 8 Halbs 1 BRAO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:11Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 7/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.07.2020 - AnwZ (Brfg) 7/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

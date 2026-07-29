@@ -10,8 +10,14 @@ aktenzeichen: "IX ZA 4/10"
 doknr: "JURE100062517"
 normen: ["§ 280 Abs 1 BGB, § 19 InsO, § 32a GmbHG vom 19.12.1998"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:58:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:58:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.04.2010 - IX ZA 4/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 280 Abs 1 BGB, § 19 InsO, § 32a GmbHG vom 19.12.1998
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T10:58:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZA 4/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.04.2010 - IX ZA 4/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

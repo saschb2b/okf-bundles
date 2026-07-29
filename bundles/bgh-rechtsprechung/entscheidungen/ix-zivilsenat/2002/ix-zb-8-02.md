@@ -9,13 +9,14 @@ datum: 2002-03-12
 aktenzeichen: "IX ZB 8/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:04:52Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:04:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2002/IX_ZB___8-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 12.03.2002 - IX ZB 8/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZB 8/02 vom 12.03.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.03.2002 - IX ZB 8/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2002/IX_ZB___8-02.pdf?__blob=publicationFile&v=1)
-

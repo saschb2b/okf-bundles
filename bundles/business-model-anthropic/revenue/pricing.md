@@ -4,7 +4,14 @@ title: Anthropic pricing model
 description: Per-token API pricing by model tier, caching and batch discounts, and subscription prices.
 resource: https://platform.claude.com/docs/en/about-claude/pricing
 tags: [anthropic, pricing, api, subscriptions, tokens]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://platform.claude.com/docs/en/about-claude/pricing
+    title: "Claude pricing docs (Anthropic, 2026)"
+  - resource: https://claude.com/pricing
+    title: "Claude pricing page (Anthropic, 2026)"
 ---
 
 # Two price surfaces
@@ -49,8 +56,3 @@ These mechanics push effective revenue-per-token below the headline rate, which 
 | Team, standard seat | $25/mo ($20 annual), 5 to 150 people | SSO, central billing |
 | Team, premium seat | $125/mo ($100 annual) | 5x standard-seat usage |
 | Enterprise | Custom | ~$20/seat base plus usage at API rates; SCIM, audit logs, HIPAA-ready |
-
-# Citations
-
-[1] [Claude pricing docs (Anthropic, 2026)](https://platform.claude.com/docs/en/about-claude/pricing)
-[2] [Claude pricing page (Anthropic, 2026)](https://claude.com/pricing)

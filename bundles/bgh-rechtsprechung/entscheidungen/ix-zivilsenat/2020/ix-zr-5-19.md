@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:060220BIXZR5.19.0"
 doknr: "KORE307332020"
 normen: ["§ 129 Abs 1 InsO, § 179 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.02.2020 - IX ZR 5/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Es spricht ein Anscheinsbeweis dafür, dass in dem eröffneten Verfahren die Insolvenzmasse nicht ausreicht, um alle Gläubigeransprüche zu befriedigen. Dabei sind auch die Forderungen einzubeziehen, denen der Insolvenzverwalter widersprochen hat, weil nach der Lebenserfahrung die Möglichkeit besteht, dass jener Widerspruch durch eine Feststellungsklage (§ 179 InsO) beseitigt werden kann. Greift der Anscheinsbeweis ein, muss der Anfechtungsgegner nachweisen, dass die angemeldeten Forderungen nicht bestehen oder nicht durchsetzbar sind und eine Feststellung zur Tabelle unter jedem Gesichtspunkt ausscheidet.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 5/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.02.2020 - IX ZR 5/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

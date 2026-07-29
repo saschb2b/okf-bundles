@@ -5,7 +5,16 @@ description: Leistungen zur Teilhabe sollen die selbstbestimmte Teilhabe ermögl
 resource: https://www.gesetze-im-internet.de/sgb_9_2018/__14.html
 tags: [behinderung-teilhabe, teilhabe, rehabilitation, persoenliches-budget, zustaendigkeit]
 norm: "§§ 5, 6, 14, 29 SGB IX"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__14.html
+    title: "§ 14 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__29.html
+    title: "§ 29 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__5.html
+    title: "§ 5 SGB IX"
 ---
 
 # Leistungsgruppen (§ 5)
@@ -30,9 +39,3 @@ Auf Antrag werden Teilhabeleistungen als **Persönliches Budget** erbracht, in d
 # Bezug
 
 Die wichtigste Trägerleistung für die soziale Teilhabe ist die [Eingliederungshilfe](/behinderung-teilhabe/eingliederungshilfe.md); Hilfsmittel der Krankenkasse regelt [§ 33 SGB V](/behinderung-teilhabe/hilfsmittel-rollstuhl-33.md).
-
-# Citations
-
-[1] [§ 14 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__14.html)
-[2] [§ 29 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__29.html)
-[3] [§ 5 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__5.html)

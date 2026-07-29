@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:260918UVIIIZR187.17.0"
 doknr: "KORE305652018"
 normen: ["§ 313 Abs 1 BGB, § 313 Abs 2 BGB, § 434 BGB, §§ 434ff BGB, § 453 Abs 1 Alt 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:21Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:21Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.09.2018 - VIII ZR 187/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Mängelgewährleistung beim Rechtskauf nach § 453 BGB (hier: Kauf von Gesellschaftsanteilen).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:21Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 187/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.09.2018 - VIII ZR 187/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

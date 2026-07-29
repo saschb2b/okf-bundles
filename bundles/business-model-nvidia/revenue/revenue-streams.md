@@ -4,7 +4,18 @@ title: NVIDIA revenue streams
 description: The market platforms NVIDIA reports and how Data Center dominates the mix.
 resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026
 tags: [nvidia, revenue, data-center, gaming, segments]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026
+    title: "NVIDIA financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)"
+  - resource: https://bullfincher.io/companies/nvidia-corporation/revenue-by-segment
+    title: "NVIDIA revenue by segment (Bullfincher, FY2026)"
+  - resource: https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html
+    title: "NVIDIA Q1 FY2027 earnings (CNBC, May 20 2026)"
+  - resource: https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/
+    title: "NVIDIA Q4 results (Fortune, Feb 25 2026)"
 ---
 
 # One platform carries the business
@@ -30,10 +41,3 @@ Inside Data Center, GPUs (Hopper, then Blackwell and Blackwell Ultra) dominate, 
 # Software and services, the emerging line
 
 NVIDIA AI Enterprise, Omniverse, and DGX Cloud are guided toward a multi-billion annualized run-rate, but NVIDIA does not disclose a clean standalone software revenue line, so exact figures are not verified. Growing this recurring layer is one of the [key strategic bets](/strategy/key-bets.md).
-
-# Citations
-
-[1] [NVIDIA financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026)
-[2] [NVIDIA revenue by segment (Bullfincher, FY2026)](https://bullfincher.io/companies/nvidia-corporation/revenue-by-segment)
-[3] [NVIDIA Q1 FY2027 earnings (CNBC, May 20 2026)](https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html)
-[4] [NVIDIA Q4 results (Fortune, Feb 25 2026)](https://fortune.com/2026/02/25/nvidia-nvda-earnings-q4-results-jensen-huang/)

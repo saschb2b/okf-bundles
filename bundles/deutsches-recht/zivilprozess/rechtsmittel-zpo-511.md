@@ -5,7 +5,18 @@ description: Gegen Endurteile ist die Berufung statthaft (Beschwer über 1.000 E
 resource: https://www.gesetze-im-internet.de/zpo/__511.html
 tags: [zivilprozess, rechtsmittel, berufung, revision, beschwerde, zulassung]
 norm: "§§ 511, 513, 529, 531, 542, 543, 544, 567, 574 ZPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__511.html
+    title: "§ 511 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__543.html
+    title: "§ 543 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__529.html
+    title: "§ 529 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__567.html
+    title: "§ 567 ZPO"
 ---
 
 # Berufung (§§ 511, 513, 529, 531)
@@ -33,10 +44,3 @@ Gegen **Beschlüsse und prozessleitende Verfügungen** (nicht Urteile) ist die *
 # Bezug
 
 Rechtsmittel setzen ein Urteil voraus, das aus der [Beweisaufnahme](/zivilprozess/beweisrecht-und-beweislast-286.md) hervorgegangen ist; der Instanzenzug knüpft an die [Eingangszuständigkeit](/zivilprozess/zustaendigkeit-und-parteien-12.md) an. Erst mit Ablauf der Rechtsmittelfristen wird das Urteil [rechtskräftig](/zivilprozess/rechtskraft-322.md). Das System der Zulassungsrevision entspricht strukturell der [Revision im Strafprozess](/strafprozess/rechtsmittel-296.md), die aber keine Wertgrenze kennt.
-
-# Citations
-
-[1] [§ 511 ZPO](https://www.gesetze-im-internet.de/zpo/__511.html)
-[2] [§ 543 ZPO](https://www.gesetze-im-internet.de/zpo/__543.html)
-[3] [§ 529 ZPO](https://www.gesetze-im-internet.de/zpo/__529.html)
-[4] [§ 567 ZPO](https://www.gesetze-im-internet.de/zpo/__567.html)

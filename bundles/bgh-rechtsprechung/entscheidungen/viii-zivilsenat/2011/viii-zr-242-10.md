@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 242/10"
 doknr: "KORE311762011"
 normen: ["§ 432 Abs 1 S 1 BGB, § 554 Abs 3 S 1 BGB, § 253 ZPO, § 531 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.09.2011 - VIII ZR 242/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Klageantrag auf Duldung der Modernisierung einer Mietwohnung ist hinreichend bestimmt, wenn der erstrebte Duldungserfolg sowie der Umfang der zu duldenden Arbeiten in seinen wesentlichen Umrissen und Schritten im Antrag umschrieben werden .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:31:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 242/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.09.2011 - VIII ZR 242/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

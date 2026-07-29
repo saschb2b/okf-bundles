@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:270717BIIIZB37.16.0"
 doknr: "KORE318652017"
 normen: ["§ 5 Halbs 2 ZPO, § 511 Abs 2 Nr 1 ZPO, § 45 Abs 1 GKG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.07.2017 - III ZB 37/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Der Wert der Beschwer ist nach § 45 Abs. 1 GKG zu bemessen, wenn die von einer beklagten Partei gestellten Hilfsanträge, eine Verurteilung nur Zug-um-Zug gegen bestimmte Leistungen auszusprechen, unzutreffend als Hilfswiderklage angesehen werden und diese abgewiesen wird.
@@ -24,8 +30,3 @@ Der Wert der Beschwer ist nach § 45 Abs. 1 GKG zu bemessen, wenn die von einer 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 37/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.07.2017 - III ZB 37/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

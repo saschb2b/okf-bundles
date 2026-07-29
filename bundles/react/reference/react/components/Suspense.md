@@ -4,7 +4,12 @@ title: Suspense
 description: Display a fallback UI until the children of a boundary have finished loading.
 resource: https://react.dev/reference/react/Suspense
 tags: [react, component, suspense, loading, transitions]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/Suspense
+    title: "Suspense"
 ---
 
 # Reference
@@ -40,7 +45,3 @@ timestamp: 2026-06-30T12:00:00Z
 - When React hides already-visible content because it suspended again, it cleans up [layout Effects](/reference/react/hooks/useLayoutEffect.md) in the content tree and fires them again when the content is shown, so layout-measuring Effects do not run while content is hidden.
 - Suspense integrates with under-the-hood optimizations such as Streaming Server Rendering and Selective Hydration.
 - During an urgent update React will not prevent the fallback; opt in with `startTransition` or `useDeferredValue`. Newly mounted Suspense boundaries always show their fallback immediately, even during a Transition.
-
-# Citations
-
-[1] [Suspense](https://react.dev/reference/react/Suspense)

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 68/09"
 doknr: "KORE305442010"
 normen: ["Art 6 GG, § 1666 BGB, § 12 FGG, § 33 FGG, § 26 FamFG, § 29 FamFG, § 33 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.02.2010 - XII ZB 68/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In Verfahren nach § 1666 BGB kann ein Elternteil mangels einer gesetzlichen Grundlage nicht gezwungen werden, sich körperlich oder psychiatrisch/psychologisch untersuchen zu lassen und zu diesem Zweck bei einem Sachverständigen zu erscheinen (im Anschluss an BVerfG, 2. April 2009, 1 BvR 683/09, FamRZ 2009, 944 f. und BVerfG, 20. Mai 2003, 1 BvR 2222/01, FamRZ 2004, 523 f.) .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 68/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.02.2010 - XII ZB 68/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

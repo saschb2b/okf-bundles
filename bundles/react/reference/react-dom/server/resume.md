@@ -4,7 +4,12 @@ title: resume
 description: Resumes rendering a prerendered React tree to a Readable Web Stream from a postponed state.
 resource: https://react.dev/reference/react-dom/server/resume
 tags: [react, react-dom, server, ssr, streaming, web-streams]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/server/resume
+    title: "resume"
 ---
 
 # Reference
@@ -60,7 +65,3 @@ async function handler(request, writable) {
 - Does not accept `identifierPrefix`, since the prefix must be the same in `prerender` and `resume`.
 - Only provide `nonce` to `resume` if you are not providing scripts to prerender, since `nonce` cannot be passed to prerender.
 - Re-renders from the root until it finds a component that was not fully pre-rendered. Only fully prerendered components (component and all children finished) are skipped entirely.
-
-# Citations
-
-[1] [resume](https://react.dev/reference/react-dom/server/resume)

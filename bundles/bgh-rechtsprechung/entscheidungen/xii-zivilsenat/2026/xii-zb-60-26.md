@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2026:290426BXIIZB60.26.0"
 doknr: "KORE303582026"
 normen: ["§ 1831 Abs 1 Nr 2 BGB, § 1832 Abs 1 S 1 BGB, § 1832 Abs 2 BGB, Art 2 Abs 2 S 1 GG, § 62 Abs 1 FamFG, § 62 Abs 2 Nr 1 FamFG, § 70 Abs 3 S 1 Nr 2 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.04.2026 - XII ZB 60/26 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Als natürlicher Wille im Sinne des § 1832 Abs. 1 Satz 1 BGB kann jede Willenskundgabe eines Einwilligungsunfähigen angesehen werden, die bewusst und nicht bloß reflexartig erfolgt. Voraussetzung hierfür ist lediglich die Fähigkeit des Betreuten zur Entäußerung seines natürlichen Willens.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 60/26 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.04.2026 - XII ZB 60/26 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

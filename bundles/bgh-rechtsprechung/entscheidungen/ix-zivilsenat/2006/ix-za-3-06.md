@@ -9,13 +9,14 @@ datum: 2006-04-13
 aktenzeichen: "IX ZA 3/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:31:00Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:31:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2006/IX_ZA___3-06.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 13.04.2006 - IX ZA 3/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZA 3/06 vom 13.04.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.04.2006 - IX ZA 3/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2006/IX_ZA___3-06.pdf?__blob=publicationFile&v=1)
-

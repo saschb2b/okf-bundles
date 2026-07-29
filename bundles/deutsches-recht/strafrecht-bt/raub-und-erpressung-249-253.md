@@ -5,7 +5,16 @@ description: Raub ist die Wegnahme einer fremden Sache mit Gewalt oder Drohung i
 resource: https://www.gesetze-im-internet.de/stgb/__249.html
 tags: [strafrecht-bt, raub, erpressung, noetigung]
 norm: "§§ 249, 253, 255 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__249.html
+    title: "§ 249 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__253.html
+    title: "§ 253 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__255.html
+    title: "§ 255 StGB"
 ---
 
 # Raub (§ 249)
@@ -20,9 +29,3 @@ Wer mit **Gewalt gegen eine Person** oder unter Anwendung von **Drohungen mit ge
 # Abgrenzung
 
 Raub und räuberische Erpressung grenzen sich nach der Rechtsprechung nach dem äußeren Erscheinungsbild ab (Nehmen vs. Geben); ihre Konkurrenz ist klausurträchtig.
-
-# Citations
-
-[1] [§ 249 StGB](https://www.gesetze-im-internet.de/stgb/__249.html)
-[2] [§ 253 StGB](https://www.gesetze-im-internet.de/stgb/__253.html)
-[3] [§ 255 StGB](https://www.gesetze-im-internet.de/stgb/__255.html)

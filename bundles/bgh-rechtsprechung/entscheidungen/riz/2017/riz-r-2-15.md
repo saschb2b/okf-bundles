@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:070917URIZ.R.2.15.0"
 doknr: "KORE316022017"
 normen: ["§ 26 Abs 2 DRiG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.09.2017 - RiZ (R) 2/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Vorhalt von Rückständen oder Arbeitsresten und die hierauf bezogene Ermahnung, die übertragenen Aufgaben fortan ordnungsgemäß und unverzögert zu erledigen, stellen grundsätzlich noch keine Beeinträchtigung der richterlichen Unabhängigkeit dar.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:32:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen RiZ (R) 2/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.09.2017 - RiZ (R) 2/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

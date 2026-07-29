@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:051022UVIIIZR117.21.0"
 doknr: "KORE307522022"
 normen: ["§ 133 BGB, § 157 BGB, § 556 Abs 1 S 2 BGB, § 556 Abs 3 S 1 Halbs 2 BGB, § 560 Abs 5 BGB, § 1 Abs 1 BetrKV, § 2 Nr 8 BetrKV, § 2 Nr 17 BetrKV, § 48 Abs 4 S 4 BauO BE"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 05.10.2022 - VIII ZR 117/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Kosten eines externen Dienstleisters für die regelmäßige Kontrolle der Restmüllbehälter des Mietobjekts auf Einhaltung der satzungsmäßigen Vorgaben für die Mülltrennung und für die bei fehlerhafter Abfalltrennung erfolgende Nachsortierung von Hand sind im Wohnraummietverhältnis gemäß § 2 Nr. 8 BetrKV auf den Mieter umlegbare Betriebskosten.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:29:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 117/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 05.10.2022 - VIII ZR 117/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

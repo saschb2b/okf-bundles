@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 142/12"
 doknr: "JURE130011276"
 normen: ["§ 546 BGB, § 566 BGB, § 986 Abs 1 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 05.06.2013 - VIII ZR 142/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 546 BGB, § 566 BGB, § 986 Abs 1 S 1 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 142/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 05.06.2013 - VIII ZR 142/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

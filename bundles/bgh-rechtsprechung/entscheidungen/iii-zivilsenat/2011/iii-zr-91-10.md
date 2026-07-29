@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 91/10"
 doknr: "KORE313152011"
 normen: ["§ 34 S 1 BJagdG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 05.05.2011 - III ZR 91/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Erforderlichkeit der Nachmeldung neuer, zwischen der ersten Meldung und der sachverständigen Schadensbegutachtung auftretender Wildschäden bei landwirtschaftlich genutzten Flächen (im Anschluss an BGH, Urteil vom 15. April 2010, III ZR 216/09, VersR 2010, 1318) .
@@ -23,8 +29,3 @@ Zur Erforderlichkeit der Nachmeldung neuer, zwischen der ersten Meldung und der 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 91/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 05.05.2011 - III ZR 91/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,20 @@ title: The Rust Port
 description: The React team's official reimplementation of the compiler in Rust, why it exists, how it reuses the TypeScript architecture, its performance, and how build tools integrate it.
 resource: https://github.com/facebook/react/pull/36173
 tags: [react, react-compiler, rust, oxc, swc, build-tools, performance]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://github.com/facebook/react/pull/36173
+    title: "Port React Compiler to Rust (PR #36173)"
+  - resource: https://www.infoq.com/news/2026/07/meta-react-compiler-rust/
+    title: "Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration (InfoQ)"
+  - resource: https://oxc.rs/docs/guide/usage/transformer/react-compiler.html
+    title: "oxc React Compiler transformer"
+  - resource: https://github.com/swc-project/swc/issues/11751
+    title: "Migrate to official Rust React Compiler (swc issue #11751)"
+  - resource: https://socket.dev/blog/rolldown-pulls-rust-react-compiler-integration
+    title: "Rolldown Pulls Rust React Compiler Integration (Socket)"
 ---
 
 # What it is
@@ -55,11 +68,3 @@ Numbers are early and come from the React team and integrators, so treat them as
 - [Roadmap](roadmap.md): where the Rust port sits among the other in-flight directions.
 - [Adoption timeline](adoption-timeline.md): the port as a mid-2026 milestone.
 - [Installation](installation.md): the build-tool setup this will eventually simplify.
-
-# Citations
-
-[1] [Port React Compiler to Rust (PR #36173)](https://github.com/facebook/react/pull/36173)
-[2] [Meta Ports React Compiler to Rust for Faster Builds and Tighter Toolchain Integration (InfoQ)](https://www.infoq.com/news/2026/07/meta-react-compiler-rust/)
-[3] [oxc React Compiler transformer](https://oxc.rs/docs/guide/usage/transformer/react-compiler.html)
-[4] [Migrate to official Rust React Compiler (swc issue #11751)](https://github.com/swc-project/swc/issues/11751)
-[5] [Rolldown Pulls Rust React Compiler Integration (Socket)](https://socket.dev/blog/rolldown-pulls-rust-react-compiler-integration)

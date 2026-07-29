@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:080420UVIIIZR130.19.0"
 doknr: "KORE307572020"
 normen: ["§ 557 Abs 2 ZPO, § 134 BGB, § 398 BGB, § 399 Alt 1 BGB, § 556d Abs 1 BGB, § 556g Abs 1 S 3 BGB vom 21.04.2015, § 556g Abs 2 BGB vom 21.04.2015, § 556g Abs 3 S 1 BGB vom 21.04.2015, § 2 Abs 2 S 1 RDG, § 3 RDG, § 4 RDG, § 10 Abs 1 S 1 Nr 1 RDG, § 4 Abs 1 S 1 RDGEG, § 4 Abs 3 S 1 RDGEG, § 4 Abs 3 S 2 RDGEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.04.2020 - VIII ZR 130/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Mietpreisbremse
@@ -32,8 +38,3 @@ Mietpreisbremse
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 130/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.04.2020 - VIII ZR 130/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

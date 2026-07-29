@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:240717BNOTST.BRFG.2.16.0"
 doknr: "KORE302122017"
 normen: ["§ 95 BNotO, § 95a Abs 1 S 1  BNotO, § 17 Abs 1 S 1 BeurkG, Art 2 Abs 1  GG, Art 20 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.07.2017 - NotSt (Brfg) 2/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Notar muss jedenfalls den Tatsachenkern des zu beurkundenden Geschäfts aufklären.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:27:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotSt (Brfg) 2/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.07.2017 - NotSt (Brfg) 2/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

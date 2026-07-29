@@ -5,7 +5,14 @@ description: Nach erfolgloser oder entbehrlicher Nacherfüllung kann der Käufer
 resource: https://www.gesetze-im-internet.de/bgb/__441.html
 tags: [kaufrecht, ruecktritt, minderung, gewaehrleistung]
 norm: "§§ 440, 441 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__440.html
+    title: "§ 440 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__441.html
+    title: "§ 441 BGB"
 ---
 
 # Voraussetzung: Vorrang der Nacherfüllung
@@ -23,8 +30,3 @@ Statt zurückzutreten kann der Käufer den Kaufpreis durch Erklärung gegenüber
 # Bezug
 
 Erschlossen über [§ 437 Nr. 2](/kaufrecht/maengelrechte-437.md). Daneben kommt Schadensersatz nach § 437 Nr. 3 in Betracht.
-
-# Citations
-
-[1] [§ 440 BGB](https://www.gesetze-im-internet.de/bgb/__440.html)
-[2] [§ 441 BGB](https://www.gesetze-im-internet.de/bgb/__441.html)

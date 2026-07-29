@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 39/13"
 doknr: "KORE310472014"
 normen: ["§ 829 Abs 4 S 2 ZPO, § 2 Nr 2 Anl 2 ZVFV, § 3 ZVFV, Art 2 Abs 1 GG, Art 20 Abs 3 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.02.2014 - VII ZB 39/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die den Formularzwang für Anträge auf Erlass eines Pfändungs- und Überweisungsbeschlusses regelnden Rechtsnormen können verfassungskonform dahingehend ausgelegt werden, dass der Gläubiger vom Formularzwang entbunden ist, soweit das Formular unvollständig, unzutreffend, fehlerhaft oder missverständlich ist.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:30:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 39/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.02.2014 - VII ZB 39/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

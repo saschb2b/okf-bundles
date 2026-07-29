@@ -4,7 +4,12 @@ title: useFormStatus
 description: A react-dom Hook that exposes the pending state and submitted data of the parent form, so child components like a submit button can react to an in-flight submission.
 resource: https://react.dev/reference/react-dom/hooks/useFormStatus
 tags: [react, react-dom, hooks, forms, actions]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/hooks/useFormStatus
+    title: "useFormStatus"
 ---
 
 # Reference
@@ -70,7 +75,3 @@ function UsernameForm() {
 # Troubleshooting
 
 - `status.pending` is never `true`: the calling component is not nested inside a `<form>`, or the `<form>` is rendered in the same component as the Hook call. Move the Hook into a child of the `<form>`.
-
-# Citations
-
-[1] [useFormStatus](https://react.dev/reference/react-dom/hooks/useFormStatus)

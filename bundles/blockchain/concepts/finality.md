@@ -3,7 +3,14 @@ type: Primitive
 title: Finality
 description: The guarantee that a confirmed transaction cannot be reversed, either probabilistic or economic.
 tags: [finality, settlement, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin whitepaper, section 11 (Nakamoto, 2008)"
+  - resource: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
+    title: "Proof-of-stake and finality (Ethereum.org docs)"
 ---
 
 # What it is
@@ -18,8 +25,3 @@ Finality is the point at which a [transaction](/concepts/transaction.md) is cons
 # Why it matters
 
 Finality is what an exchange, a merchant, or a bridge waits for before treating a payment as done. The choice between probabilistic and economic finality is one of the substantive differences examined in [PoW vs PoS](/comparison/pow-vs-pos.md).
-
-# Citations
-
-[1] [Bitcoin whitepaper, section 11 (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
-[2] [Proof-of-stake and finality (Ethereum.org docs)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)

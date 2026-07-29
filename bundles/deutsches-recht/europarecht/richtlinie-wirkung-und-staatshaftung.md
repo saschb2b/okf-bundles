@@ -5,7 +5,12 @@ description: Eine nicht oder fehlerhaft umgesetzte Richtlinie kann nach Ablauf d
 resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
 tags: [europarecht, richtlinie, unmittelbare-wirkung, staatshaftung, francovich]
 norm: "Art. 288 AEUV; EuGH-Rechtsprechung"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
+    title: "AEUV bei EUR-Lex"
 ---
 
 # Grundsatz: Umsetzungsbedürftigkeit
@@ -26,7 +31,3 @@ Die Wirkung ist nur **vertikal** (Bürger gegen Staat), nicht horizontal zwische
 
 - **Richtlinienkonforme Auslegung.** Nationale Gerichte müssen das nationale Recht so weit wie möglich im Licht der Richtlinie auslegen (siehe auch [Auslegung](/methodik/auslegung.md)).
 - **Unionsrechtlicher Staatshaftungsanspruch (Francovich).** Verletzt ein Mitgliedstaat das Unionsrecht (etwa durch Nichtumsetzung), haftet er dem geschädigten Bürger auf Schadensersatz, wenn die Norm dem Einzelnen Rechte verleiht, der Verstoß hinreichend qualifiziert ist und ein Kausalzusammenhang besteht.
-
-# Citations
-
-[1] [AEUV bei EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)

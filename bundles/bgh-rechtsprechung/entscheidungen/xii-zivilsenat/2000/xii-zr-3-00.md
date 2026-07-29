@@ -9,13 +9,14 @@ datum: 2000-10-31
 aktenzeichen: "XII ZR 3/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:17:34Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:17:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2000/XII_ZR___3-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 31.10.2000 - XII ZR 3/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZR 3/00 vom 31.10.2000.
-
-# Citations
-
-[1] [BGH, Beschluss vom 31.10.2000 - XII ZR 3/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2000/XII_ZR___3-00.pdf?__blob=publicationFile&v=1)
-

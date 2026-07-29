@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 112/10"
 doknr: "KORE301572010"
 normen: ["§ 556a Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.11.2010 - VIII ZR 112/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist im Mietvertrag eine nach § 556a Abs. 1 Satz 2 BGB zulässige Betriebskostenabrechnung auf der Grundlage eines erfassten Verbrauchs vereinbart, kommt es für die inhaltliche Richtigkeit der Betriebskostenabrechnung allein darauf an, ob der tatsächliche Verbrauch zutreffend erfasst worden ist .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:14:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 112/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.11.2010 - VIII ZR 112/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

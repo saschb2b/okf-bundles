@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:010316BVIIIZB57.15.0"
 doknr: "KORE300372016"
 normen: ["§ 85 Abs 2  ZPO, § 233 ZPO, § 234 ZPO, § 313 Abs 1 Nr 2 ZPO, § 315 ZPO, § 520 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 01.03.2016 - VIII ZB 57/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die unterbliebene Namensangabe der erkennenden Richter im Rubrum der getroffenen Entscheidung wird jedenfalls in den Fällen, in denen kein Zweifel daran bestehen kann, dass die Richter, die die Entscheidung unterzeichnet haben, auch an ihr mitgewirkt haben, durch die Unterschriften der Richter ersetzt; dann kann von einer stillschweigenden Verweisung auf die Unterschriften ausgegangen werden (im Anschluss an BGH, Urteil vom 22. Dezember 1976, IV ZR 11/76, NJW 1977, 377 unter I 2).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 57/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.03.2016 - VIII ZB 57/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

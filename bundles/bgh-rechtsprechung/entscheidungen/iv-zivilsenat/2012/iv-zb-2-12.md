@@ -10,8 +10,14 @@ aktenzeichen: "IV ZB 2/12"
 doknr: "JURE120013534"
 normen: ["§ 83 Abs 2 ZPO, § 233 ZPO, § 234 ZPO, § 517 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.05.2012 - IV ZB 2/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 83 Abs 2 ZPO, § 233 ZPO, § 234 ZPO, § 517 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV ZB 2/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.05.2012 - IV ZB 2/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:060324UVIIIZR363.21.0"
 doknr: "KORE700562024"
 normen: ["§ 275 Abs 1 BGB, § 323 Abs 4 BGB, § 323 Abs 6 BGB, § 326 Abs 5 BGB, § 346 Abs 1 BGB, § 537 Abs 1 S 1 BGB, § 1 Abs 4 S 1 CoronaVInfSchMaßnV ND"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.03.2024 - VIII ZR 363/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist ein Hotelbetrieb durch das Verbot einer Beherbergung von Personen zu touristischen Zwecken als Maßnahme zur Bekämpfung der COVID-19-Pandemie daran gehindert, dem Gast den Gebrauch des Hotelzimmers im vereinbarten Leistungszeitraum zu gewähren, ist ihm die geschuldete Leistung im Sinne von § 275 Abs. 1 BGB (rechtlich) unmöglich.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:39:13Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 363/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.03.2024 - VIII ZR 363/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

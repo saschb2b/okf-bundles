@@ -9,13 +9,14 @@ datum: 2006-10-16
 aktenzeichen: "II ZR 7/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:15:15Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:15:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZR___7-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 16.10.2006 - II ZR 7/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: II ZR 7/05 vom 16.10.2006.
-
-# Citations
-
-[1] [BGH, Urteil vom 16.10.2006 - II ZR 7/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2005/II_ZR___7-05.pdf?__blob=publicationFile&v=1)
-

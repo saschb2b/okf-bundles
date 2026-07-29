@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:170320BVIIIZR115.19.0"
 doknr: "KORE619912020"
 normen: ["§ 3 ZPO, § 9 ZPO, § 544 Abs 2 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.03.2020 - VIII ZR 115/19 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 3 ZPO, § 9 ZPO, § 544 Abs 2 Nr 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 115/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.03.2020 - VIII ZR 115/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

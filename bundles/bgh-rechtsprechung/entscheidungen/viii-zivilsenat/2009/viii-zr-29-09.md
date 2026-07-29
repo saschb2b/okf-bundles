@@ -9,13 +9,14 @@ datum: 2009-09-30
 aktenzeichen: "VIII ZR 29/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:30:30Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:30:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZR__29-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 30.09.2009 - VIII ZR 29/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 29/09 vom 30.09.2009.
-
-# Citations
-
-[1] [BGH, Urteil vom 30.09.2009 - VIII ZR 29/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZR__29-09.pdf?__blob=publicationFile&v=1)
-

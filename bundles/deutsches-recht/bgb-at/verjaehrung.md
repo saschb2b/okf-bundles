@@ -5,7 +5,16 @@ description: Die regelmäßige Verjährungsfrist beträgt drei Jahre und beginnt
 resource: https://www.gesetze-im-internet.de/bgb/__199.html
 tags: [bgb-at, verjaehrung, fristen, einrede]
 norm: "§§ 194 bis 218 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__195.html
+    title: "§ 195 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__199.html
+    title: "§ 199 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__214.html
+    title: "§ 214 BGB"
 ---
 
 # Regel
@@ -32,9 +41,3 @@ Die Frist kann gehemmt werden (etwa durch Verhandlungen, § 203, oder Rechtsverf
 # Bezug
 
 Sonderfristen gehen vor, etwa die zweijährige Frist für kaufrechtliche Mängelansprüche (siehe [Verjährung im Kaufrecht](/kaufrecht/verjaehrung-438.md)).
-
-# Citations
-
-[1] [§ 195 BGB](https://www.gesetze-im-internet.de/bgb/__195.html)
-[2] [§ 199 BGB](https://www.gesetze-im-internet.de/bgb/__199.html)
-[3] [§ 214 BGB](https://www.gesetze-im-internet.de/bgb/__214.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:100424UVIIIZR286.22.0"
 doknr: "KORE700762024"
 normen: ["§ 133 BGB, § 157 BGB, § 546 Abs 1 BGB, § 573 Abs 1 S 1 BGB, § 573 Abs 2 Nr 2 BGB, § 573 Abs 2 Nr 3 BGB, § 577a Abs 1 BGB, § 577a Abs 2 BGB, § 985 BGB, Art 14 Abs 1 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.04.2024 - VIII ZR 286/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Beabsichtigt der Vermieter, die Mietwohnung nicht nur zu Wohnzwecken zu beziehen, sondern dort zugleich überwiegend einer (frei-)beruflichen Tätigkeit nachzugehen (hier: Betrieb einer Rechtsanwaltskanzlei), wird es für das Vorliegen eines berechtigten Interesses an der Beendigung des Mietverhältnisses im Sinne von § 573 Abs. 1 Satz 1 BGB regelmäßig ausreichen, dass ihm bei verwehrtem Bezug ein beachtenswerter beziehungsweise anerkennenswerter Nachteil entstünde (Bestätigung von Senatsurteil vom 29. März 2017 - VIII ZR 45/16, BGHZ 214, 269 Rn. 44 f.).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:39:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 286/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.04.2024 - VIII ZR 286/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

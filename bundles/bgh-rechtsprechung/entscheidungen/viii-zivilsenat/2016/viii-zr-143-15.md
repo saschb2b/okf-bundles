@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:060416UVIIIZR143.15.0"
 doknr: "KORE303812016"
 normen: ["§ 254 ZPO, § 469 Abs 1 S 1 BGB, § 577 Abs 1 S 1 Alt 1 BGB, § 577 Abs 1 S 1 Alt 2 BGB, § 8 WoEigG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 06.04.2016 - VIII ZR 143/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Stufenklage ist nicht zulässig, wenn die Auskunft nicht dem Zweck der Bestimmbarkeit des Leistungsanspruchs dienen, sondern dem Kläger sonstige mit der Bestimmbarkeit als solcher nicht im Zusammenhang stehende Information über seine Rechtsverfolgung verschaffen soll (im Anschluss an BGH, Urteile vom 2. März 2000, III ZR 65/99, NJW 2000, 1645 unter 1 a; vom 29. März 2011, VI ZR 117/10, aaO Rn. 8; vom 17. Oktober 2012, XII ZR 101/10, NJW 2012, 3722 Rn. 13). Dies bedeutet aber nicht, dass eine Stufenklage nach § 254 ZPO nur dann zulässig ist, wenn durch die in der ersten Stufe geltend gemachte Auskunft alle Informationen zu erlangen sind, die für die Bezifferung des in einer weiteren Stufe verfolgten Leistungsanspruchs notwendig sind.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 143/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 06.04.2016 - VIII ZR 143/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

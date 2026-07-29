@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:240816BXIIZB84.13.0"
 doknr: "KORE301672016"
 normen: ["§ 5 Abs 2 VersAusglG, § 17 VersAusglG, § 27 VersAusglG, § 4 Abs 5 BetrAVG, § 253 Abs 2 HGB, § 1 Abs 2 RückAbzinsV, § 6 RückAbzinsV, § 6a RückAbzinsV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:58Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.08.2016 - XII ZB 84/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur externen Teilung eines auf einer rückstellungsfinanzierten Direktzusage beruhenden betrieblichen Anrechts, aus dem der ausgleichspflichtigen Person seit dem Ende der Ehezeit eine ungekürzte Versorgung gewährt wird (Fortführung des Senatsbeschlusses vom 17. Februar 2016, XII ZB 447/13, FamRZ 2016, 775).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:58Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 84/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.08.2016 - XII ZB 84/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

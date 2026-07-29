@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:080818BXIIZB25.18.0"
 doknr: "KORE309202018"
 normen: ["§ 2 Abs 2 Nr 1 VersAusglG, § 66 S 1 FamFG, § 1 Abs 1 Nr 10 Buchst b AltZertG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.08.2018 - XII ZB 25/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Legt der Versorgungsträger Rechtsmittel gegen eine Entscheidung zum Versorgungsausgleich bei der Scheidung ein, fehlt es für eine Anschließung durch die Ehegatten regelmäßig an einem Rechtsschutzbedürfnis.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 25/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.08.2018 - XII ZB 25/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

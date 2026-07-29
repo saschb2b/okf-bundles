@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:100321BVIIZB24.20.0"
 doknr: "KORE300992021"
 normen: ["§ 850k Abs 4 ZPO, § 851 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.03.2021 - VII ZB 24/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Corona-Soforthilfe (Bundesprogramm "Corona-Soforthilfen für Kleinstunternehmen und Selbständige" und ergänzendes Landesprogramm "NRW-Soforthilfe 2020") handelt es sich um eine nach § 851 Abs. 1 ZPO nicht pfändbare Forderung.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 24/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.03.2021 - VII ZB 24/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

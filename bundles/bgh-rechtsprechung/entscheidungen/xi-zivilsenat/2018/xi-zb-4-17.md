@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:110918BXIZB4.17.0"
 doknr: "KORE606842018"
 normen: ["§ 11 Abs 2 RPflG, § 174 Abs 4 ZPO, § 416 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.09.2018 - XI ZB 4/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 11 Abs 2 RPflG, § 174 Abs 4 ZPO, § 416 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XI ZB 4/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.09.2018 - XI ZB 4/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

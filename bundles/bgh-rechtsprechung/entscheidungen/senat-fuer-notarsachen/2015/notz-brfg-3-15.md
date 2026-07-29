@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2015:231115BNOTZBRFG3.15.0"
 doknr: "KORE312552016"
 normen: ["Art 19 Abs 4 GG, Art 20 Abs 3 GG, § 56 Abs 4 BNotO, § 111d S 2 BNotO, § 124a Abs 4 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.11.2015 - NotZ (Brfg) 3/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Prozesserklärung einer anwaltlich vertretenen Partei kann allenfalls dann umgedeutet werden, wenn der zulässige Antrag noch innerhalb der dafür geltenden Rechtsmittelfrist gestellt worden ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 3/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.11.2015 - NotZ (Brfg) 3/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

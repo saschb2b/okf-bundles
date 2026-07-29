@@ -4,7 +4,14 @@ title: NVIDIA business model at a glance
 description: How NVIDIA makes money, who it sells to, and where it is betting, as of mid-2026.
 resource: https://www.nvidia.com/
 tags: [nvidia, ai, business-model, data-center, gpu]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026
+    title: "NVIDIA announces financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)"
+  - resource: https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html
+    title: "NVIDIA Q1 FY2027 earnings (CNBC, May 20 2026)"
 ---
 
 # The one-line model
@@ -26,8 +33,3 @@ A concentrated base: in Q3 FY2026, four direct customers each topped 10% of reve
 # Why it wins, what it costs, how it is exposed
 
 The [moats](/moat/moats.md) are CUDA's two-decade software lock-in, full-stack integration, and an annual product cadence rivals cannot match. The [cost structure](/economics/cost-structure.md) is fabless: TSMC fabrication, CoWoS packaging, and HBM memory are the binding constraints, and gross margin runs in the low-to-mid 70s. The [strategic bets](/strategy/key-bets.md) are rack-scale selling, networking, software as recurring revenue, sovereign AI, and robotics, while [China export controls](/strategy/governance.md) are the standing risk to the model.
-
-# Citations
-
-[1] [NVIDIA announces financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026)
-[2] [NVIDIA Q1 FY2027 earnings (CNBC, May 20 2026)](https://www.cnbc.com/2026/05/20/nvidia-nvda-earnings-report-q1-2027.html)

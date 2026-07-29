@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:160519UIIIZR6.18.0"
 doknr: "KORE304522019"
 normen: ["§ 94 Abs 2 StPO, § 111k StPO vom 24.10.2006, § 111n StPO vom 13.04.2017, § 23 Abs 2 S 1 Nr 1 JVEG, § 280 BGB, § 697 BGB, § 688 BGB, § 839 BGB, Art 34 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 16.05.2019 - III ZR 6/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In einem Strafverfahren beschlagnahmte Gegenstände sind auch gegenüber nicht beschuldigten (unbeteiligten) Dritten in entsprechender Anwendung von § 697 BGB an dem Ort zurückzugeben, an welchem sie aufzubewahren waren. Die verwahrende Justizbehörde ist nicht verpflichtet, die Sachen an den Beschlagnahmeort oder den Wohnsitz des Berechtigten zurückzubringen (Bestätigung und Fortführung des Senatsurteils vom 3. Februar 2005 - III ZR 271/04, NJW 2005, 988).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:52Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 6/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 16.05.2019 - III ZR 6/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

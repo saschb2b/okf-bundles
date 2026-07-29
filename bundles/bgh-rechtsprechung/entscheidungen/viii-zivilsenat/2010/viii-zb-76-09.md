@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 76/09"
 doknr: "KORE305412010"
 normen: ["§ 85 ZPO, § 233 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.02.2010 - VIII ZB 76/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wiedereinsetzung in den vorigen Stand gegen die Versäumung der Berufungsbegründungsfrist bei fehlender Ursächlichkeit eines möglichen Organisationsverschuldens des Prozessbevollmächtigten .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 76/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.02.2010 - VIII ZB 76/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 89/11"
 doknr: "JURE110017141"
 normen: ["§ 78b Abs 1  ZPO, § 114 S 1 ZPO, § 233 ZPO, § 234 ZPO, § 544 Abs 2  ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.09.2011 - III ZR 89/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 78b Abs 1  ZPO, § 114 S 1 ZPO, § 233 ZPO, § 234 ZPO, § 544 Abs 2  ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 89/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.09.2011 - III ZR 89/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

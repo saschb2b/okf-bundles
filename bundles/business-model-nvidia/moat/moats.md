@@ -4,7 +4,16 @@ title: NVIDIA competitive moats
 description: CUDA lock-in, full-stack integration, annual cadence, networking, and the competitive threats.
 resource: https://www.nvidia.com/
 tags: [nvidia, moat, cuda, networking, competition]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://tech-insider.org/amd-stock-ai-data-center-2026/
+    title: "AMD data-center momentum and OpenAI/Meta commitments (Tech Insider, May 2026)"
+  - resource: https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html
+    title: "Comparing NVIDIA GPUs, Google TPUs, AWS Trainium (CNBC, Nov 2025)"
+  - resource: https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia
+    title: "Custom AI ASICs from Broadcom to MTIA (Tom's Hardware, May 2026)"
 ---
 
 # The four moats
@@ -24,9 +33,3 @@ CUDA is the one that matters most: it is why a customer who could buy a cheaper 
 - **Hyperscaler custom silicon.** Google TPU (v8 at Google Cloud Next 2026), Amazon Trainium (Anthropic reportedly trained on ~500k Trainium2), Microsoft Maia, Meta MTIA, plus Broadcom and Marvell ASIC programs. ASIC-based AI servers are projected at ~27.8% of shipments in 2026. [2][3]
 
 The sharpest edge of this threat is that the custom-silicon builders are NVIDIA's own largest [customers](/market/segments.md), which is why concentration and competition are the same problem. NVIDIA's answer, NVLink Fusion, even opens its interconnect to third-party silicon, a hedge examined in the [key bets](/strategy/key-bets.md).
-
-# Citations
-
-[1] [AMD data-center momentum and OpenAI/Meta commitments (Tech Insider, May 2026)](https://tech-insider.org/amd-stock-ai-data-center-2026/)
-[2] [Comparing NVIDIA GPUs, Google TPUs, AWS Trainium (CNBC, Nov 2025)](https://www.cnbc.com/2025/11/21/nvidia-gpus-google-tpus-aws-trainium-comparing-the-top-ai-chips.html)
-[3] [Custom AI ASICs from Broadcom to MTIA (Tom's Hardware, May 2026)](https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia)

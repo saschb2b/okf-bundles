@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 180/14"
 doknr: "KORE303522015"
 normen: ["§ 195 BGB, § 199 BGB, § 204 Abs 1 Nr 1 BGB, § 213 Alt 1 BGB, § 214 Abs 1 BGB, § 323 BGB, § 346 BGB, §§ 346ff BGB, § 437 Nr 2 BGB, § 263 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:11Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.04.2015 - VIII ZR 180/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für die Frage, ob ein von § 213 Alt. 1 BGB erfasster Fall elektiver Konkurrenz mehrerer Ansprüche vorliegt, ist allein maßgeblich, dass das Gesetz dem Gläubiger generell mehrere, einander ausschließende Ansprüche zur Auswahl stellt. Daher werden von der dort angeordneten Erstreckung der Wirkung verjährungshemmender oder den Neubeginn der Verjährung auslösender Maßnahmen sämtliche in § 437 BGB aufgeführten kaufrechtlichen Nacherfüllungs- und Gewährleistungsrechte erfasst, die auf demselben Mangel beruhen (Fortführung von BGH, Urteil vom 8. Dezember 2009, XI ZR 181/08, NJW 2010, 1284 Rn. 49).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:11Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 180/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.04.2015 - VIII ZR 180/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

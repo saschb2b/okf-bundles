@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 135/13"
 doknr: "KORE523032014"
 normen: ["§ 275 Abs 2 BGB, § 535 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.01.2014 - VIII ZR 135/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 275 Abs 2 BGB, § 535 Abs 1 S 2 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:32:52Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 135/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.01.2014 - VIII ZR 135/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

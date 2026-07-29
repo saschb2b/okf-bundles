@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:240717BNOTST.BRFG.1.17.0"
 doknr: "KORE313632017"
 normen: ["§ 54a Abs 2 Nr 2 BeurkG vom 31.08.1998, § 54a Abs 3 BeurkG vom 31.08.1998, § 54a Abs 4 BeurkG vom 31.08.1998, § 54b Abs 2 S 3 BeurkG vom 31.08.1998"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.07.2017 - NotSt (Brfg) 1/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Verwahrungsantrag nach § 54a Abs. 2 Nr. 2, Abs. 3 BeurkG bedarf nicht der Schriftform, da § 54a Abs. 4 BeurkG dies nur für die Verwahrungsanweisung vorsieht.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:31:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotSt (Brfg) 1/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.07.2017 - NotSt (Brfg) 1/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

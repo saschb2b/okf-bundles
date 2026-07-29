@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:130317BNOTST.BRFG.1.16.0"
 doknr: "KORE301062017"
 normen: ["§ 11 Abs 2 BNotO, § 94 Abs 1 S 1 BNotO, Art 12 Abs 1 S 2 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.03.2017 - NotSt (Brfg) 1/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Gefahr im Verzug im Sinne des § 11 Abs. 2 BNotO ist gegeben, wenn eine unabwendbare Eilbedürftigkeit für die vorzunehmende Amtshandlung besteht. Dies ist dann der Fall, wenn die Beurkundung durch einen örtlich ansässigen Notar nicht vorgenommen werden kann, ohne dass ihr Zweck gefährdet wäre, d.h. der Urkundsgewährungsanspruch der Beteiligten nicht mehr erfüllt werden könnte.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotSt (Brfg) 1/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.03.2017 - NotSt (Brfg) 1/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

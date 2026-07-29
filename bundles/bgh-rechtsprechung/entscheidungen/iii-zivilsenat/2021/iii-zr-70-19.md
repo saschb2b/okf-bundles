@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:210121UIIIZR70.19.0"
 doknr: "KORE300752021"
 normen: ["§ 839 Abs 1 S 1 BGB, § 6 VermG, § 35 Abs 4 VermG, Art 34 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.01.2021 - III ZR 70/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Leitet das sachlich unzuständige Amt zur Regelung offener Vermögensfragen einen bei ihm eingehenden Restitutionsantrag entgegen § 35 Abs. 4 VermG nicht unverzüglich an das zuständige Landesamt zur Regelung offener Vermögensfragen weiter, verletzt es eine zugunsten des Antragstellers bestehende drittgerichtete Amtspflicht.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 70/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.01.2021 - III ZR 70/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

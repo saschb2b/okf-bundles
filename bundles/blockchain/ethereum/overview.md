@@ -4,7 +4,12 @@ title: Ethereum
 description: A programmable blockchain, the "world computer," running smart contracts under proof of stake.
 resource: https://ethereum.org/en/what-is-ethereum/
 tags: [ethereum, overview]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/what-is-ethereum/
+    title: "What is Ethereum? (Ethereum.org)"
 ---
 
 # What Ethereum is
@@ -25,7 +30,3 @@ Ethereum takes the opposite pole from Bitcoin on several shared [primitives](/co
 # The philosophy
 
 Every choice favors general programmability and an evolving, roadmap-driven protocol over Bitcoin's minimalism and fixed rules. That contrast is the subject of [design philosophy](/comparison/design-philosophy.md). Each concept above links back to the shared primitive it implements.
-
-# Citations
-
-[1] [What is Ethereum? (Ethereum.org)](https://ethereum.org/en/what-is-ethereum/)

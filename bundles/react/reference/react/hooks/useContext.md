@@ -4,7 +4,12 @@ title: useContext
 description: React Hook that reads and subscribes to context from a component, returning the nearest provider value above it.
 resource: https://react.dev/reference/react/useContext
 tags: [react, hook, context, state]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useContext
+    title: "useContext"
 ---
 
 # Reference
@@ -62,7 +67,3 @@ The context value for the calling component: the `value` passed to the closest `
 - If your build system produces duplicate modules (for example via symlinks), context breaks. The `SomeContext` used to provide and the one used to read must be exactly the same object (`===`).
 - If a consumer does not see the value, the provider may be at or below the consumer (move it above), missing entirely, or duplicated by a build issue.
 - If you always get `undefined` although the default differs, you likely have a provider with no `value` prop (equivalent to `value={undefined}`) or used the wrong prop name. The prop must be called `value`. The `createContext` default applies only when there is no matching provider at all.
-
-# Citations
-
-[1] [useContext](https://react.dev/reference/react/useContext)

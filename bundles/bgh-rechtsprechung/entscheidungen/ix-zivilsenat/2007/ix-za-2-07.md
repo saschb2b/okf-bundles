@@ -9,13 +9,14 @@ datum: 2007-05-03
 aktenzeichen: "IX ZA 2/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:33:39Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:33:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2007/IX_ZA___2-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 03.05.2007 - IX ZA 2/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZA 2/07 vom 03.05.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.05.2007 - IX ZA 2/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2007/IX_ZA___2-07.pdf?__blob=publicationFile&v=1)
-

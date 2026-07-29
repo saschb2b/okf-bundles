@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:040624BVIIIZB40.23.0"
 doknr: "KORE701492024"
 normen: ["§ 148 Abs 1 Alt 1  ZPO, § 148 Abs 2  ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 04.06.2024 - VIII ZB 40/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1.    Der Umstand, dass in einem vor dem Bundesverfassungsgericht geführten Verfassungsbeschwerdeverfahren über eine Frage zu entscheiden ist, von deren Beantwortung die Entscheidung des Rechtsstreits ganz oder zum Teil abhängt, rechtfertigt eine Aussetzung der Verhandlung nach § 148 Abs. 1 ZPO nicht (im Anschluss an Senatsurteile vom 21. Dezember 2022 - VIII ZR 78/22, juris Rn. 40; vom 8. Februar 2023 - VIII ZR 65/22, juris Rn. 40; jeweils mwN).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:39:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 40/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.06.2024 - VIII ZB 40/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

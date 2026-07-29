@@ -4,7 +4,12 @@ title: Managing State
 description: Section landing page for organizing state, keeping update logic maintainable, and sharing state between distant components in React.
 resource: https://react.dev/learn/managing-state
 tags: [react, state, architecture, hooks]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/managing-state
+    title: "Managing State"
 ---
 
 # Summary
@@ -36,7 +41,3 @@ Read these concepts in order. They build on one another.
 # Recap
 
 Head to [Reacting to Input with State](reacting-to-input-with-state.md) to read this chapter page by page. If you already know these topics, continue to Escape Hatches.
-
-# Citations
-
-[1] [Managing State](https://react.dev/learn/managing-state)

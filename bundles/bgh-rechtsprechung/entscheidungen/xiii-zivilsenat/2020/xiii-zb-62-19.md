@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:240320BXIIIZB62.19.0"
 doknr: "KORE300922020"
 normen: ["§ 50 Abs 2 AufenthG, § 50 Abs 4 AufenthG, § 62 Abs 3 S 1 Nr 2 AufenthG vom 22.11.2011"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.03.2020 - XIII ZB 62/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein der Ausländerbehörde nicht angezeigter Umzug des ausreisepflichtigen Ausländers innerhalb der Unterkunft kann einen Wechsel des Aufenthaltsorts im Sinne des § 62 Abs. 3 Satz 1 Nr. 2 AufenthG aF begründen, wenn dadurch die Erreichbarkeit des Ausländers für die Ausländerbehörde zur Durchführung der Abschiebung nicht mehr gewährleistet ist.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 62/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.03.2020 - XIII ZB 62/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

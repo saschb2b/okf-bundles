@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:240920UVIIZR91.18.0"
 doknr: "KORE631862020"
 normen: ["§ 249 S 1 BGB, § 280 Abs 1 BGB, § 631 Abs 1 BGB, § 634 Nr 4 BGB, § 636 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.09.2020 - VII ZR 91/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 249 S 1 BGB, § 280 Abs 1 BGB, § 631 Abs 1 BGB, § 634 Nr 4 BGB, § 636 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 91/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.09.2020 - VII ZR 91/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

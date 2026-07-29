@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 54/11"
 doknr: "KORE303122013"
 normen: ["§ 43c Abs 1 BRAO, § 43c Abs 2 BRAO, § 5 Abs 1 Buchst m FAO, § 5 Abs 4 FAO, § 5 S 1 Buchst m FAO vom 01.01.2008, § 5 S 3  FAO vom 01.01.2008, Art 3 Abs 1 GG, Art 12 Abs 1 GG, Art 20 Abs 3 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:00Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.04.2013 - AnwZ (Brfg) 54/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Gewichtungsregelung des § 5 Abs. 4 FAO ist keine Ausnahmebestimmung; jeder eingereichte Fall ist darauf zu prüfen, ob eine Minder- oder Höhergewichtung angezeigt ist.
@@ -31,8 +37,3 @@ timestamp: 2026-06-22T12:28:00Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 54/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.04.2013 - AnwZ (Brfg) 54/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

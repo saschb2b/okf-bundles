@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 7/11"
 doknr: "KORE302632012"
 normen: ["§ 280 Abs 1 BGB, § 421 BGB, § 423 BGB, § 437 BGB, § 634 Nr 4 BGB, § 779 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.12.2011 - VII ZR 7/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Tierarzt, der seine Pflichten aus einem Vertrag über die Ankaufsuntersuchung eines Pferdes verletzt und deshalb einen unzutreffenden Befund erstellt hat, haftet seinem Vertragspartner auf Ersatz des Schadens, der diesem dadurch entstanden ist, dass er das Pferd aufgrund des fehlerhaften Befundes erworben hat.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 7/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.12.2011 - VII ZR 7/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

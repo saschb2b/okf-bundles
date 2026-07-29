@@ -4,7 +4,12 @@ title: ViewTransition
 description: Animate component trees on enter, exit, update, and shared-element changes using the browser View Transition API.
 resource: https://react.dev/reference/react/ViewTransition
 tags: [react, component, view-transition, animation, transitions]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/ViewTransition
+    title: "ViewTransition"
 ---
 
 # Reference
@@ -66,7 +71,3 @@ Each event receives `(instance, types)` and should return a cleanup function cal
 - A `flushSync` during the transition sequence causes React to skip the animation, since it relies on completing asynchronously.
 - Always return cleanup functions from event callbacks so the browser can cancel interrupted animations.
 - Check `@media (prefers-reduced-motion)` to tone down or disable animations; React does not do this automatically.
-
-# Citations
-
-[1] [ViewTransition](https://react.dev/reference/react/ViewTransition)

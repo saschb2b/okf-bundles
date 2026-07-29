@@ -5,7 +5,16 @@ description: Täter ist, wer die Tat selbst, durch einen anderen oder gemeinscha
 resource: https://www.gesetze-im-internet.de/stgb/__25.html
 tags: [strafrecht-at, taeterschaft, anstiftung, beihilfe, teilnahme]
 norm: "§§ 25 bis 27 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__25.html
+    title: "§ 25 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__26.html
+    title: "§ 26 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__27.html
+    title: "§ 27 StGB"
 ---
 
 # Täterschaft (§ 25)
@@ -24,9 +33,3 @@ Teilnahme ist die vorsätzliche Mitwirkung an einer fremden, vorsätzlich begang
 # Abgrenzung
 
 Ob jemand Täter oder nur Teilnehmer ist, richtet sich nach der Tatherrschaft (eigenes Beherrschen des Tatgeschehens) und dem eigenen Tatinteresse. Die Teilnahme setzt eine vorsätzliche rechtswidrige Haupttat voraus; fehlt sie, kommt allenfalls mittelbare [Täterschaft](/strafrecht-at/aufbau-der-straftat.md) in Betracht.
-
-# Citations
-
-[1] [§ 25 StGB](https://www.gesetze-im-internet.de/stgb/__25.html)
-[2] [§ 26 StGB](https://www.gesetze-im-internet.de/stgb/__26.html)
-[3] [§ 27 StGB](https://www.gesetze-im-internet.de/stgb/__27.html)

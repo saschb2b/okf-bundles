@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 8/10"
 doknr: "KORE310362011"
 normen: ["§ 254 Abs 1 BGB, § 631 BGB, § 633 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:33Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.02.2011 - VII ZR 8/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Architekt, der sich zur Erstellung einer Genehmigungsplanung verpflichtet, schuldet als Werkerfolg grundsätzlich eine dauerhaft genehmigungsfähige Planung. Etwas anderes gilt dann, wenn der Auftraggeber das Risiko der Genehmigungsfähigkeit der Planung aufgrund vertraglicher Vereinbarung übernimmt .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:33Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 8/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.02.2011 - VII ZR 8/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

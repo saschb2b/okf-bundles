@@ -4,7 +4,12 @@ title: Rules of Hooks
 description: Hooks must be called only at the top level and only from React functions, never conditionally or from regular JavaScript functions.
 resource: https://react.dev/reference/rules/rules-of-hooks
 tags: [react, rules, hooks, lint]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/rules/rules-of-hooks
+    title: "Rules of Hooks"
 ---
 
 # Summary
@@ -64,7 +69,3 @@ function setOnlineStatus() {              // Bad: not a component or custom Hook
 - Render purity underpins consistent Hook ordering: [Components and Hooks must be pure](/reference/rules/components-and-hooks-must-be-pure.md).
 - Conceptual background: [Keeping Components Pure](/describing-the-ui/keeping-components-pure.md).
 - Lint that enforces this rule: [rules-of-hooks](/reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md).
-
-# Citations
-
-[1] [Rules of Hooks](https://react.dev/reference/rules/rules-of-hooks)

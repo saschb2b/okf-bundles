@@ -4,7 +4,12 @@ title: Editor Setup
 description: Recommended editors for React and how to set up linting and automatic formatting.
 resource: https://react.dev/learn/editor-setup
 tags: [react, editor, eslint, prettier, tooling]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/editor-setup
+    title: "Editor Setup"
 ---
 
 # Summary
@@ -52,7 +57,3 @@ Install the Prettier VS Code extension:
 
 - ESLint formatting rules can conflict with Prettier. Disable formatting rules in your ESLint preset using `eslint-config-prettier` so ESLint is used only for catching logical mistakes.
 - To enforce formatting before a pull request merges, run `prettier --check` in continuous integration.
-
-# Citations
-
-[1] [Editor Setup](https://react.dev/learn/editor-setup)

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 90/10"
 doknr: "JURE120015073"
 normen: ["§ 1592 Nr 2 BGB, § 1600 Abs 1 Nr 5 BGB vom 13.03.2008, Art 6 Abs 5 GG, Art 100 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Vorlagebeschluss vom 27.06.2012 - XII ZR 90/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 1592 Nr 2 BGB, § 1600 Abs 1 Nr 5 BGB vom 13.03.2008, Art 6 Abs 5 GG, Art 100 GG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 90/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Vorlagebeschluss vom 27.06.2012 - XII ZR 90/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

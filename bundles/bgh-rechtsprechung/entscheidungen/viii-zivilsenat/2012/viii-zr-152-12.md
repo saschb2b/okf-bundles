@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 152/12"
 doknr: "KORE302822013"
 normen: ["§ 242 BGB, § 535 Abs 1 S 2 BGB, § 536 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.12.2012 - VIII ZR 152/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zu den Voraussetzungen einer konkludenten Beschaffenheitsvereinbarung in Bezug auf die Mietsache (im Anschluss an BGH, Urteil vom 23. September 2009, VIII ZR 300/08, NJW 2010, 1133).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:52Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 152/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.12.2012 - VIII ZR 152/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

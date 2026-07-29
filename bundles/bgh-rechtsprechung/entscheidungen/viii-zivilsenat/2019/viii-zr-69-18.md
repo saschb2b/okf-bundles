@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:301019UVIIIZR69.18.0"
 doknr: "KORE302012019"
 normen: ["§ 90a S 3 BGB, § 323 Abs 1 BGB, § 346 BGB, § 348 BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 437 Nr 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.10.2019 - VIII ZR 69/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Verkäufer eines Tieres hat, sofern eine anderslautende Beschaffenheitsvereinbarung nicht getroffen wird, (lediglich) dafür einzustehen, dass das Tier bei Gefahrübergang nicht krank ist und sich auch nicht in einem (ebenfalls vertragswidrigen) Zustand befindet, aufgrund dessen bereits die Sicherheit oder zumindest die hohe Wahrscheinlichkeit besteht, dass es alsbald erkranken wird (Bestätigung von BGH, Urteil vom 18. Oktober 2017 - VIII ZR 32/16, NJW 2018, 150 Rn. 26 mwN) und infolgedessen für die gewöhnliche (oder die vertraglich vorausgesetzte) Verwendung nicht mehr einsetzbar wäre.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:27:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 69/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.10.2019 - VIII ZR 69/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

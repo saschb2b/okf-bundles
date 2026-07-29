@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:280421UVIIIZR22.20.0"
 doknr: "KORE304182021"
 normen: ["§ 558 Abs 2 S 1 BGB vom 19.06.2001, § 558c BGB, § 558d Abs 1 BGB, § 558d Abs 3 BGB, § 286 ZPO, § 287 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.04.2021 - VIII ZR 22/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Gerichte sind grundsätzlich auch dann berechtigt, zur Bestimmung der ortsüblichen Vergleichsmiete ein von der beweisbelasteten Partei angebotenes Sachverständigengutachten einzuholen, wenn ein Mietspiegel vorliegt, der tabellarisch Mietspannen ausweist und zusätzlich eine Orientierungshilfe für die Spanneneinordnung enthält. Das gilt bei solchen Mietspiegeln nicht nur in den Fällen, in denen zwischen den Parteien Streit über die Voraussetzungen für das Eingreifen beziehungsweise die Reichweite einer dem Mietspiegel gegebenenfalls zukommenden Vermutungs- oder Indizwirkung herrscht, sondern unabhängig davon in der Regel auch dann, wenn die ortsübliche Vergleichsmiete unstreitig innerhalb der für das einschlägige Mietspiegelfeld ausgewiesenen Spanne liegt und deshalb lediglich die Einordnung der konkreten Einzelvergleichsmiete in diese Spanne einer Klärung bedarf (im Anschluss an Senatsurteil vom 18. November 2020 - VIII ZR 123/20, NJW-RR 2021, 76 Rn. 24 ff.).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 22/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.04.2021 - VIII ZR 22/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

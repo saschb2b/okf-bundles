@@ -9,13 +9,14 @@ datum: 2007-10-09
 aktenzeichen: "XI ZB 4/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:34:49Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:34:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2007/XI_ZB___4-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 09.10.2007 - XI ZB 4/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XI ZB 4/07 vom 09.10.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.10.2007 - XI ZB 4/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2007/XI_ZB___4-07.pdf?__blob=publicationFile&v=1)
-

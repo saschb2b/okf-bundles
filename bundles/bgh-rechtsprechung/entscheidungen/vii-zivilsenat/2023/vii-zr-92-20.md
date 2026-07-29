@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:091123UVIIZR92.20.0"
 doknr: "KORE305462023"
 normen: ["§ 255 BGB, § 273 BGB, § 280 Abs 1 BGB, § 280 Abs 3 BGB, § 281 BGB, § 634 Nr 2 BGB, § 634 Nr 4 BGB, § 637 Abs 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.11.2023 - VII ZR 92/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In der werkvertraglichen Leistungskette kann der Hauptunternehmer gegenüber dem Nachunternehmer gemäß § 634 Nr. 4 BGB in Verbindung mit § 280 Abs. 1 und 3, § 281 BGB den Schaden ersetzt verlangen, der ihm dadurch entsteht, dass er wegen der mangelhaften Werkleistung des Nachunternehmers seinerseits Mängelansprüchen seines Bestellers ausgesetzt ist.  Hat der Hauptunternehmer in diesem Fall einen vom Besteller geltend gemachten Anspruch auf Kostenvorschuss gemäß § 634 Nr. 2, § 637 Abs. 3 BGB durch Zahlung erfüllt, kann er im Wege des Schadensersatzes gemäß § 634 Nr. 4 BGB in Verbindung mit § 280 Abs. 1 und 3, § 281 BGB vom Nachunternehmer Zahlung in Höhe des geleisteten Kostenvorschusses verlangen.
@@ -34,8 +40,3 @@ timestamp: 2026-06-22T12:29:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 92/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.11.2023 - VII ZR 92/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

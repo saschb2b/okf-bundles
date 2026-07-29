@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:180220UXIIIZR13.19.0"
 doknr: "KORE310442020"
 normen: ["§ 60 Abs 4 S 2 EEG 2014, § 74 S 1 EEG 2014, Art 3 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.02.2020 - XIII ZR 13/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 EEG-Umlage-Verzinsung II
@@ -28,8 +34,3 @@ EEG-Umlage-Verzinsung II
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZR 13/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.02.2020 - XIII ZR 13/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

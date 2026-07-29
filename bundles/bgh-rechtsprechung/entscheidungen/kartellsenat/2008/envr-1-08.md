@@ -9,13 +9,14 @@ datum: 2008-11-11
 aktenzeichen: "EnVR 1/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:38:15Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:38:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2008/EnVR___1-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 11.11.2008 - EnVR 1/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: EnVR 1/08 vom 11.11.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.11.2008 - EnVR 1/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/KartS/2008/EnVR___1-08.pdf?__blob=publicationFile&v=1)
-

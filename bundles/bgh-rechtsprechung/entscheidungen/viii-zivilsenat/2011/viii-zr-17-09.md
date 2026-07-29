@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 17/09"
 doknr: "KORE313702011"
 normen: ["§ 89b Abs 1 S 1 Nr 3 HGB vom 23.10.1989, § 89b Abs 1 S 1 Nr 2 HGB vom 31.07.2009"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.07.2011 - VIII ZR 17/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Annahme eines bei der Berechnung des Ausgleichsanspruchs des Handelsvertreters (Vertragshändlers) berücksichtigungsfähigen Stamm- oder Mehrfachkundengeschäfts steht es nicht entgegen, wenn der Folgekauf durch den Ehegatten oder einen nahen Angehörigen des Erstkäufers erfolgt. Einer häuslichen Gemeinschaft zwischen dem Erst- und dem Zweitkäufer bedarf es hierfür nicht (Fortführung von BGH, Urteil vom 5. Juni 1996, VIII ZR 7/95, NJW 1996, 2302 unter B II 2 a) .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:31:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 17/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.07.2011 - VIII ZR 17/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

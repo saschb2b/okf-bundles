@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:270520UVIIIZR45.19.0"
 doknr: "KORE303422020"
 normen: ["§ 398 BGB, § 432 BGB, § 556d Abs 2 S 5 BGB, § 556d Abs 2 S 6 BGB, § 556d Abs 2 S 7 BGB, § 556g Abs 1 BGB vom 21.04.2015, § 556g Abs 3 BGB vom 21.04.2015, § 556g Abs 2 BGB vom 21.04.2015, MietBegrV BE"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:09Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.05.2020 - VIII ZR 45/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Falle einer Mietermehrheit kann zwar ein Mieter allein Rückzahlung zu viel gezahlter Miete und Auskunftserteilung verlangen. Er ist insoweit jedoch nur als Mitgläubiger berechtigt (Anschluss an und Fortführung von Senatsurteil vom 28. April 2010 - VIII ZR 263/09, NJW 2010, 1965 Rn. 10 f.) und kann daher nur Zahlung beziehungsweise Auskunftserteilung an alle Mieter verlangen. Dieses eigene Forderungsrecht kann der Mieter ohne Mitwirkung der Mitmieter wirksam abtreten.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:09Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 45/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.05.2020 - VIII ZR 45/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

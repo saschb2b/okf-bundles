@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:100422UVIIIZR114.22.0"
 doknr: "KORE310622024"
 normen: ["§ 574 Abs 1 S 1 BGB, § 574a Abs 2 BGB, Art 2 Abs 2 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.04.2024 - VIII ZR 114/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zu den Anforderungen an die gerichtliche Prüfung des Vorliegens einer nicht zu rechtfertigenden Härte im Sinne des § 574 Abs. 1 Satz 1 BGB bei der ernsthaften Gefahr eines Suizids des Mieters im Falle einer Verurteilung zur Räumung der Wohnung (im Anschluss an BGH, Urteil vom 26. Oktober 2022 - VIII ZR 390/21).
@@ -24,8 +30,3 @@ Zu den Anforderungen an die gerichtliche Prüfung des Vorliegens einer nicht zu 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 114/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.04.2024 - VIII ZR 114/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

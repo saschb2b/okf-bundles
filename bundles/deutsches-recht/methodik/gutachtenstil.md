@@ -3,7 +3,12 @@ type: Methodik
 title: "Gutachtenstil"
 description: Die viergliedrige Darstellung der Rechtsanwendung (Obersatz, Definition, Subsumtion, Ergebnis), die die Frage voranstellt, statt das Ergebnis zu behaupten.
 tags: [methodik, gutachtenstil, subsumtion, fallloesung]
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/
+    title: "Bürgerliches Gesetzbuch (BGB)"
 ---
 
 # Aufbau
@@ -22,7 +27,3 @@ Steht ein Ergebnis offensichtlich fest oder ist ein Punkt unproblematisch, wird 
 # Bezug
 
 Der Gutachtenstil ist die Darstellungsform für den [Anspruchsaufbau](/methodik/anspruchsaufbau.md); die Definition eines Merkmals stützt sich auf Gesetz, [Auslegung](/methodik/auslegung.md) und Rechtsprechung.
-
-# Citations
-
-[1] [Bürgerliches Gesetzbuch (BGB)](https://www.gesetze-im-internet.de/bgb/)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:081020BVIIARZ1.20.0"
 doknr: "KORE302362020"
 normen: ["§ 280 BGB, § 281 Abs 1 BGB, § 634 Nr 4 BGB, § 132 Abs 3 GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.10.2020 - VII ARZ 1/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Anfrage des V. Zivilsenats nach § 132 Abs. 3 GVG vom 13. März 2020 - V ZR 33/19 - wird wie folgt beantwortet:
@@ -28,8 +34,3 @@ Die Anfrage des V. Zivilsenats nach § 132 Abs. 3 GVG vom 13. März 2020 - V ZR 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ARZ 1/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.10.2020 - VII ARZ 1/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

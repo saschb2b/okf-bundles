@@ -4,7 +4,12 @@ title: Activity
 description: Hide and restore the UI and internal state of children, with pre-rendering and selective hydration.
 resource: https://react.dev/reference/react/Activity
 tags: [react, component, activity, state, hydration]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/Activity
+    title: "Activity"
 ---
 
 # Reference
@@ -38,7 +43,3 @@ When hidden, React visually hides children with `display: none` and destroys the
 - Hidden components keep their DOM, so DOM-level side effects persist. For example a `<video>` keeps playing when hidden; add a `useLayoutEffect` cleanup that pauses it. Use `useLayoutEffect` (not `useEffect`) since the cleanup ties to the UI being visually hidden. The common cases needing cleanup are `<video>`, `<audio>`, and `<iframe>`.
 - When hidden, all children's Effects are cleaned up; conceptually the children unmount while state is saved. If you rely on an Effect mounting to clean up side effects, move that work into the Effect's cleanup function instead.
 - Use [StrictMode](/reference/react/components/StrictMode.md) to eagerly discover Effects lacking proper cleanup.
-
-# Citations
-
-[1] [Activity](https://react.dev/reference/react/Activity)

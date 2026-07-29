@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:280520BIXZB8.18.0"
 doknr: "KORE303542020"
 normen: ["§ 233 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:59:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:59:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.05.2020 - IX ZB 8/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Erkrankt ein Rechtsanwalt unvorhersehbar am Tag vor dem Ablauf der Berufungsbegründungsfrist, ist er in der Regel nicht gehalten, einen vertretungsbereiten Kollegen mit der Anfertigung der Berufungsbegründung zu beauftragen.
@@ -24,8 +30,3 @@ Erkrankt ein Rechtsanwalt unvorhersehbar am Tag vor dem Ablauf der Berufungsbegr
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 8/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.05.2020 - IX ZB 8/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 33/09"
 doknr: "KORE305412011"
 normen: ["§ 1374 BGB, § 1375 BGB, § 1568b BGB, § 9 HausratsV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.05.2011 - XII ZR 33/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Haushaltsgegenstände, die im Alleineigentum eines Ehegatten stehen, können im Hausratsverfahren nicht (mehr) dem anderen Ehegatten zugewiesen werden und unterliegen dem Zugewinnausgleich (im Anschluss an Senatsurteil vom 17. November 2010, XII ZR 170/09, FamRZ 2011, 183) .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 33/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.05.2011 - XII ZR 33/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

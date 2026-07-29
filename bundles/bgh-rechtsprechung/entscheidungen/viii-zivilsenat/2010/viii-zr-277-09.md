@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 277/09"
 doknr: "KORE316362010"
 normen: ["§ 3 EEG 2004, § 4 EEG 2004, § 5 EEG 2004, § 11 Abs 2 S 1 EEG 2004, § 11 Abs 2 S 3 EEG 2004, § 11 Abs 3 EEG 2004, § 520 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.11.2010 - VIII ZR 277/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der in § 11 Abs. 2 Satz 3 EEG definierte Begriff des Gebäudes ist weit zu verstehen .
@@ -31,8 +37,3 @@ timestamp: 2026-06-22T12:32:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 277/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.11.2010 - VIII ZR 277/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

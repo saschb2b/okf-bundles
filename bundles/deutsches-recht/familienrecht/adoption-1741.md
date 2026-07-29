@@ -5,7 +5,18 @@ description: Die Annahme als Kind ist zulässig, wenn sie dem Kindeswohl dient u
 resource: https://www.gesetze-im-internet.de/bgb/__1741.html
 tags: [familienrecht, adoption, annahme-als-kind, kindeswohl, stiefkindadoption, einwilligung]
 norm: "§§ 1741, 1743, 1746, 1747, 1752, 1754, 1755, 1767 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1741.html
+    title: "§ 1741 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1747.html
+    title: "§ 1747 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1755.html
+    title: "§ 1755 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1767.html
+    title: "§ 1767 BGB"
 ---
 
 # Zulässigkeit (§ 1741)
@@ -37,10 +48,3 @@ Die Annahme eines Volljährigen ist zulässig, wenn sie **sittlich gerechtfertig
 # Bezug
 
 Die Adoption ist eine Statussache und wird im [familiengerichtlichen Verfahren](/familienrecht/familienverfahren-famfg.md) ausgesprochen. Sie begründet [Unterhalts-](/familienrecht/kindesunterhalt-1612a.md) und [Erbrechtsbeziehungen](/erbrecht/gesetzliche-erbfolge-1924.md) wie zwischen leiblichen Verwandten und steht stets unter dem Maßstab des Kindeswohls (vgl. [Kindeswohlgefährdung](/familienrecht/kindeswohlgefaehrdung-1666.md)).
-
-# Citations
-
-[1] [§ 1741 BGB](https://www.gesetze-im-internet.de/bgb/__1741.html)
-[2] [§ 1747 BGB](https://www.gesetze-im-internet.de/bgb/__1747.html)
-[3] [§ 1755 BGB](https://www.gesetze-im-internet.de/bgb/__1755.html)
-[4] [§ 1767 BGB](https://www.gesetze-im-internet.de/bgb/__1767.html)

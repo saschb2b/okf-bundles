@@ -4,7 +4,12 @@ title: component-hook-factories
 description: Flags higher-order functions that define nested components or Hooks instead of declaring them at the module level.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/component-hook-factories
 tags: [react, eslint, hooks, lint, components]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/component-hook-factories
+    title: "component-hook-factories"
 ---
 
 # What it flags
@@ -67,7 +72,3 @@ function App() {
 # Related
 
 Closely related to [static-components](static-components.md), which flags components recreated every render.
-
-# Citations
-
-[1] [component-hook-factories](https://react.dev/reference/eslint-plugin-react-hooks/lints/component-hook-factories)

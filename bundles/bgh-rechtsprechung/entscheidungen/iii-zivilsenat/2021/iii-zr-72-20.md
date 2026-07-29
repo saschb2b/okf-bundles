@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:060521UIIIZR72.20.0"
 doknr: "KORE304282021"
 normen: ["§ 198 Abs 2 S 3 GVG, § 198 Abs 2 S 4 GVG, Art 6 Abs 2 GG, § 1684 Abs 1 BGB, Art 8 Abs 1 MRK, § 155 Abs 1  FamFG, § 155b FamFG, § 155c FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.05.2021 - III ZR 72/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Hinblick auf den eine Verfahrensvereinfachung anstrebenden Gesetzeszweck ist der Tatrichter nur bei Vorliegen besonderer Umstände gehalten, von dem normierten Pauschalsatz (§ 198 Abs. 2 Satz 3 GVG) aus Billigkeitsgründen gemäß § 198 Abs. 2 Satz 4 GVG abzuweichen. Erforderlich ist, dass sich das zu beurteilende Verfahren durch eine oder mehrere entschädigungsrelevante Besonderheiten in tatsächlicher oder rechtlicher Hinsicht von anderen Verfahren dieser Art abhebt, so dass die konkreten Auswirkungen der überlangen Verfahrensdauer die Pauschalhöhe als unbillig erscheinen lassen (Bestätigung und Fortführung der Senatsurteile vom 14. November 2013 - III ZR 376/12, BGHZ 199, 87 und vom 13. März 2014 - III ZR 91/13, NJW 2014, 1816).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 72/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.05.2021 - III ZR 72/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

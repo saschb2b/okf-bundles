@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 74/10"
 doknr: "KORE300242011"
 normen: ["§ 553 Abs 1 S 1 BGB, § 573 Abs 2 Nr 1 BGB, § 573 Abs 3 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 02.02.2011 - VIII ZR 74/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Nimmt der Mieter eine Untervermietung vor, ohne die erforderliche Erlaubnis seines Vermieters einzuholen, verletzt er seine vertraglichen Pflichten auch dann, wenn er einen Anspruch auf Erteilung der Erlaubnis hat .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:14:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 74/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 02.02.2011 - VIII ZR 74/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

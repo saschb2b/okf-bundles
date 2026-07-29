@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:201022UIIIZR88.21.0"
 doknr: "KORE302362022"
 normen: ["§ 195 BGB, § 199 Abs 1 Nr 2 BGB, § 280 Abs 1  BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.10.2022 - III ZR 88/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Beginn der regelmäßigen Verjährungsfrist
@@ -26,8 +32,3 @@ Beginn der regelmäßigen Verjährungsfrist
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 88/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.10.2022 - III ZR 88/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

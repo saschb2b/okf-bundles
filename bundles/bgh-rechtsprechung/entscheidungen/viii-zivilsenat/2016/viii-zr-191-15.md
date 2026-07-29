@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 191/15"
 doknr: "KORE301302016"
 normen: ["§ 133 BGB, § 157 BGB, § 305 Abs 1 BGB, § 305c Abs 2 BGB, § 434 Abs 1 S 1 BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 513 Abs 1 ZPO, § 529 Abs 1 Nr 1 ZPO, § 546 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.06.2016 - VIII ZR 191/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Die Frage, ob eine Erklärung als (rechtsverbindliche) Willenserklärung zu werten ist, beurteilt sich nach den für die Auslegung von Willenserklärungen geltenden Maßstäben (im Anschluss an BGH, Urteile vom 7. November 2001, VIII ZR 13/01, NJW 2002, 363 unter II 3 b aa und vom 22. Januar 2014,VIII ZR 391/12, NJW 2014, 1951 Rn. 14). Bei der Abgrenzung einer Allgemeinen Geschäftsbedingung von einer unverbindlichen Erklärung ist daher der für die inhaltliche Auslegung von Allgemeinen Geschäftsbedingungen geltende Grundsatz der objektiven Auslegung heranzuziehen (im Anschluss an Senatsurteile vom 4. Februar 2009, VIII ZR 32/08, BGHZ 179, 319 Rn. 11, 22 und vom 9. April 2014, VIII ZR 404/12, BGHZ 200, 362 Rn. 24 f.).
@@ -35,8 +41,3 @@ timestamp: 2026-06-22T12:14:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 191/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.06.2016 - VIII ZR 191/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

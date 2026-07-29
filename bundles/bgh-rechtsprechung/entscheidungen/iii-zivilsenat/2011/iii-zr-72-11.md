@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 72/11"
 doknr: "KORE310052012"
 normen: ["Art 11 Abs 1 NATOTrStatVtrG, Art 13 Abs 3 NATOTrStatVtrG, § 133 BGB, § 157 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.12.2011 - III ZR 72/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Auslegung eines eine Vorauszahlung für die Beseitigung einer Bodenkontamination ankündigenden Schreibens der zuständigen Schadensregulierungsstelle des Bundes als Entschließung im Sinne des Art. 11 NTS AG.
@@ -23,8 +29,3 @@ Zur Auslegung eines eine Vorauszahlung für die Beseitigung einer Bodenkontamina
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 72/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.12.2011 - III ZR 72/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

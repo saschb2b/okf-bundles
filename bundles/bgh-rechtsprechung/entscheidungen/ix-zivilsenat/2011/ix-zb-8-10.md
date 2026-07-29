@@ -10,8 +10,14 @@ aktenzeichen: "IX ZB 8/10"
 doknr: "JURE110002883"
 normen: ["§ 296 Abs 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:58:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:58:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.01.2011 - IX ZB 8/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 296 Abs 1 InsO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T10:58:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 8/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.01.2011 - IX ZB 8/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

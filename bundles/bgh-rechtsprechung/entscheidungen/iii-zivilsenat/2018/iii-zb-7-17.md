@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:200918BIIIZB7.17.0"
 doknr: "KORE629552018"
 normen: ["§ 574 Abs 1 S 1 Nr 1 ZPO, § 574 Abs 1 Nr 2  ZPO, § 574 Abs 2 ZPO, § 574 Abs 3 S 2  ZPO, § 577 Abs 1 S 2  ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:11Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.09.2018 - III ZB 7/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 574 Abs 1 S 1 Nr 1 ZPO, § 574 Abs 1 Nr 2  ZPO, § 574 Abs 2 ZPO, § 574 Abs 3 S 2  ZPO, § 577 Abs 1 S 2  ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:11Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 7/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.09.2018 - III ZB 7/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

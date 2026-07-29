@@ -4,7 +4,14 @@ title: Bitcoin UTXO transactions
 description: How Bitcoin transactions consume prior outputs and create new ones, with change and implicit fees.
 resource: https://developer.bitcoin.org/devguide/transactions.html
 tags: [bitcoin, utxo, transactions, fees]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://developer.bitcoin.org/devguide/transactions.html
+    title: "Transactions (Bitcoin developer guide)"
+  - resource: https://en.bitcoin.it/wiki/Transaction_fees
+    title: "Transaction fees (Bitcoin Wiki)"
 ---
 
 # Bitcoin's realization of the UTXO model
@@ -24,8 +31,3 @@ The fee is implicit: **fee = total inputs minus total outputs**, with no named f
 # Why this shape
 
 Independent, single-use outputs make validation parallel and replay trivial to prevent, and they favor address reuse avoidance for privacy. The cost is that expressing evolving contract state is awkward, which is one reason Bitcoin keeps [scripting](/bitcoin/script.md) limited. The tradeoffs against Ethereum's [account model](/concepts/account-model.md) are in [UTXO vs account](/comparison/utxo-vs-account.md).
-
-# Citations
-
-[1] [Transactions (Bitcoin developer guide)](https://developer.bitcoin.org/devguide/transactions.html)
-[2] [Transaction fees (Bitcoin Wiki)](https://en.bitcoin.it/wiki/Transaction_fees)

@@ -5,7 +5,18 @@ description: Der Zivilprozess folgt dem Beibringungsgrundsatz; streitige erhebli
 resource: https://www.gesetze-im-internet.de/zpo/__286.html
 tags: [zivilprozess, beweisrecht, beweislast, beibringungsgrundsatz, beweiswuerdigung, anscheinsbeweis]
 norm: "§§ 138, 286, 287, 288, 371, 373, 402, 415, 445 ZPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__286.html
+    title: "§ 286 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__287.html
+    title: "§ 287 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__288.html
+    title: "§ 288 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__415.html
+    title: "§ 415 ZPO"
 ---
 
 # Beibringungsgrundsatz und Beweisbedürftigkeit
@@ -40,10 +51,3 @@ Bleibt eine erhebliche Tatsache unbewiesen (non liquet), entscheidet die **Bewei
 # Bezug
 
 Welche Tatsachen erheblich sind, folgt aus dem [Anspruchsaufbau](/methodik/anspruchsaufbau.md) und der jeweiligen Norm. Das Beweisergebnis trägt das Urteil, dessen Bindung die [Rechtskraft](/zivilprozess/rechtskraft-322.md) regelt; Fehler der Beweiswürdigung sind über die [Rechtsmittel](/zivilprozess/rechtsmittel-zpo-511.md) nur eingeschränkt angreifbar.
-
-# Citations
-
-[1] [§ 286 ZPO](https://www.gesetze-im-internet.de/zpo/__286.html)
-[2] [§ 287 ZPO](https://www.gesetze-im-internet.de/zpo/__287.html)
-[3] [§ 288 ZPO](https://www.gesetze-im-internet.de/zpo/__288.html)
-[4] [§ 415 ZPO](https://www.gesetze-im-internet.de/zpo/__415.html)

@@ -9,13 +9,14 @@ datum: 2002-11-13
 aktenzeichen: "RiZ (R) 3/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:06:19Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:06:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/DienstG/2001/RiZ_R___3-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 13.11.2002 - RiZ (R) 3/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: RiZ (R) 3/01 vom 13.11.2002.
-
-# Citations
-
-[1] [BGH, Urteil vom 13.11.2002 - RiZ (R) 3/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/DienstG/2001/RiZ_R___3-01.pdf?__blob=publicationFile&v=1)
-

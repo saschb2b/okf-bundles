@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:181125BVIIIZR174.25.0"
 doknr: "KORE729102025"
 normen: ["§ 555c Abs 1 S 1 BGB, § 555c Abs 1 S 2 BGB, § 555d Abs 1 BGB, § 91a Abs 1 S 1 ZPO, § 520 Abs 3 S 2 Nr 2 ZPO, § 520 Abs 3 S 2 Nr 3 ZPO, § 522 Abs 1 S 1 ZPO, § 522 Abs 1 S 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:41:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:41:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.11.2025 - VIII ZR 174/25 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 555c Abs 1 S 1 BGB, § 555c Abs 1 S 2 BGB, § 555d Abs 1 BGB, § 91a Abs 1 S 1 ZPO, § 520 Abs 3 S 2 Nr 2 ZPO, § 520 Abs 3 S 2 Nr 3 ZPO, § 522 Abs 1 S 1 ZPO, § 522 Abs 1 S 2 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:41:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 174/25 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.11.2025 - VIII ZR 174/25 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

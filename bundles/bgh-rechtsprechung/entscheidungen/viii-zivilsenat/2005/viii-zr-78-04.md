@@ -9,13 +9,14 @@ datum: 2005-04-05
 aktenzeichen: "VIII ZR 78/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:27:58Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:27:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2004/VIII_ZR__78-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.04.2005 - VIII ZR 78/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 78/04 vom 05.04.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.04.2005 - VIII ZR 78/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2004/VIII_ZR__78-04.pdf?__blob=publicationFile&v=1)
-

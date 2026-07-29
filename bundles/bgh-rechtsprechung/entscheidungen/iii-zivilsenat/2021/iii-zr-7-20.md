@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:040221UIIIZR7.20.0"
 doknr: "KORE307772021"
 normen: ["§ 823 Abs 2 BGB, § 826 BGB, § 263 StGB, § 138 Abs 2 ZPO, § 138 Abs 3 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 04.02.2021 - III ZR 7/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist vorhersehbar, dass bei einem Anlagemodell die den Anlegern versprochene Rendite nicht aus den Erträgen des Anlageobjekts, sondern aus den Einlagen weiterer Anleger bedient werden wird (sogenanntes "Schneeballsystem"), erfüllt dies regelmäßig sowohl die Voraussetzungen einer vorsätzlichen sittenwidrigen Schädigung gemäß § 826 BGB als auch diejenigen eines Eingehungsbetrugs gemäß § 823 Abs. 2 BGB in Verbindung mit § 263 StGB.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 7/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 04.02.2021 - III ZR 7/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

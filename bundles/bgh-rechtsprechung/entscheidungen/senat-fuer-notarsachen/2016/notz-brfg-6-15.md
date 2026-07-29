@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:140316BNOTZBRFG6.15.0"
 doknr: "KORE313192016"
 normen: ["§ 6 Abs 2 S 1 Nr 4 BNotO, § 6 Abs 3 S 3 BNotO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.03.2016 - NotZ (Brfg) 6/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die für die Bewertung der fachlichen Eignung der konkurrierenden Bewerber gemäß § 6 Abs. 3 Satz 3 BNotO maßgebliche und sich zu 60% nach dem Ergebnis der notariellen Fachprüfung und zu 40% nach dem Ergebnis der die juristische Ausbildung abschließenden Staatsprüfung bestimmende Gesamtpunktzahl ist rechnerisch nur bis auf zwei Dezimalstellen zu ermitteln.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 6/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.03.2016 - NotZ (Brfg) 6/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

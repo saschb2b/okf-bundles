@@ -5,7 +5,18 @@ description: Welches Gericht zuständig ist, richtet sich sachlich nach dem Stre
 resource: https://www.gesetze-im-internet.de/gvg/__23.html
 tags: [zivilprozess, zustaendigkeit, gerichtsstand, anwaltszwang, parteifaehigkeit, streitgenossenschaft]
 norm: "§§ 12, 13, 29, 32, 50, 51, 59, 78 ZPO; §§ 23, 71 GVG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gvg/__23.html
+    title: "§ 23 GVG"
+  - resource: https://www.gesetze-im-internet.de/gvg/__71.html
+    title: "§ 71 GVG"
+  - resource: https://www.gesetze-im-internet.de/zpo/__12.html
+    title: "§ 12 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__78.html
+    title: "§ 78 ZPO"
 ---
 
 # Sachliche Zuständigkeit (§§ 23, 71 GVG)
@@ -36,10 +47,3 @@ Vor dem **Landgericht, dem Oberlandesgericht und dem Bundesgerichtshof** müssen
 # Bezug
 
 Die Zuständigkeit ist mit der [Klageerhebung](/zivilprozess/klageerhebung-253.md) zu prüfen; fehlt sie, kann der Rechtsstreit verwiesen werden (§ 281). Auf die Eingangsinstanz baut der [Instanzenzug der Rechtsmittel](/zivilprozess/rechtsmittel-zpo-511.md) auf.
-
-# Citations
-
-[1] [§ 23 GVG](https://www.gesetze-im-internet.de/gvg/__23.html)
-[2] [§ 71 GVG](https://www.gesetze-im-internet.de/gvg/__71.html)
-[3] [§ 12 ZPO](https://www.gesetze-im-internet.de/zpo/__12.html)
-[4] [§ 78 ZPO](https://www.gesetze-im-internet.de/zpo/__78.html)

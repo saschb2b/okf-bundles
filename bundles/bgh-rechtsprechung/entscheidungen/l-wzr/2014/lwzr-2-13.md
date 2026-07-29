@@ -10,8 +10,14 @@ aktenzeichen: "LwZR 2/13"
 doknr: "JURE140009125"
 normen: ["§ 1 Nr 1a LwVfG, § 2 Abs 2 Nr 2 LwVfG, § 20 Abs 1 LwVfG, § 48 Abs 1 S 2 Halbs 2 LwVfG, Art 101 Abs 1 S 2 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.04.2014 - LwZR 2/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 1 Nr 1a LwVfG, § 2 Abs 2 Nr 2 LwVfG, § 20 Abs 1 LwVfG, § 48 Abs 1 S 2 Halbs 2 LwVfG, Art 101 Abs 1 S 2 GG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen LwZR 2/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.04.2014 - LwZR 2/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

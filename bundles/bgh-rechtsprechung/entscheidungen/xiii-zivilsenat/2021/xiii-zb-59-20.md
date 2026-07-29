@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:220621BXIIIZB59.20.0"
 doknr: "KORE305092021"
 normen: ["§ 13 Abs 4 S 3 FamFG, § 58 Abs 2 FamFG, Art 19 Abs 4 GG, Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.06.2021 - XIII ZB 59/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Macht der Beteiligte geltend, durch die Verweigerung einer Überlassung der Akten in die Geschäftsräume und die Verweisung auf eine Einsichtnahme auf der Geschäftsstelle in seiner Rechtsstellung beeinträchtigt zu sein, stehen § 13 Abs. 4 Satz 3, § 58 Abs. 2 FamFG in einer an Art. 19 Abs. 4, Art. 103 Abs. 1 GG ausgerichteten verfassungskonformen Auslegung einer Überprüfung der Verweigerung der Aktenüberlassung im Rechtsmittelverfahren nicht entgegen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 59/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.06.2021 - XIII ZB 59/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

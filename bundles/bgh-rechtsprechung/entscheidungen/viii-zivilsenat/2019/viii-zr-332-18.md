@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:181219UVIIIZR332.18.0"
 doknr: "KORE300102020"
 normen: ["§ 548 ZPO, § 549 Abs 1 S 1 ZPO, § 555c Abs 1 S 2 Nr 1 BGB vom 11.03.2013"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.12.2019 - VIII ZR 332/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine falsche oder ungenaue Bezeichnung des Rechtsmittelklägers in der Rechtsmittelschrift kann behoben werden, wenn der richtige Rechtsmittelkläger aufgrund weiterer Erkenntnismöglichkeiten innerhalb der Rechtsmittelfrist zweifelsfrei erkennbar wird, beispielsweise im Wege der Auslegung der Rechtsmittelschrift und der im Zeitpunkt des Ablaufs der Rechtsmittelfrist vorliegenden sonstigen Unterlagen, etwa der zwischenzeitlich eingegangenen Instanzakten (Bestätigung von BGH, Beschluss vom 13. Januar 2004 - VI ZB 53/03, NJW-RR 2004, 572 unter II 1 b aa).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 332/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.12.2019 - VIII ZR 332/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,18 @@ description: Familiensachen entscheidet das Familiengericht in einem von der Amt
 resource: https://www.gesetze-im-internet.de/famfg/__137.html
 tags: [familienrecht, famfg, familiengericht, scheidungsverbund, amtsermittlung, einstweilige-anordnung, kindesanhoerung]
 norm: "§§ 23a GVG, 111, 26, 137, 49, 158, 159 FamFG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/famfg/__137.html
+    title: "§ 137 FamFG"
+  - resource: https://www.gesetze-im-internet.de/famfg/__26.html
+    title: "§ 26 FamFG"
+  - resource: https://www.gesetze-im-internet.de/famfg/__159.html
+    title: "§ 159 FamFG"
+  - resource: https://www.gesetze-im-internet.de/famfg/__49.html
+    title: "§ 49 FamFG"
 ---
 
 # Familiengericht und Familiensachen (§ 111 FamFG, § 23a GVG)
@@ -32,10 +43,3 @@ Das Gericht kann durch **einstweilige Anordnung** eine vorläufige Regelung tref
 # Bezug
 
 Das Verfahren setzt die materiellen Regeln durch: [Scheidung](/familienrecht/scheidung-1565.md), [Versorgungsausgleich](/familienrecht/versorgungsausgleich.md), [Ehewohnung und Haushalt](/familienrecht/ehewohnung-und-haushalt-1361b-1568a.md), [elterliche Sorge](/familienrecht/elterliche-sorge-1626.md), [Adoption](/familienrecht/adoption-1741.md) und [Gewaltschutz](/familienrecht/gewaltschutz-gewschg.md). Es steht neben dem [Zivilprozess](/zivilprozess/klageerhebung-253.md), folgt aber eigenen, vom Amtsermittlungsgrundsatz geprägten Regeln.
-
-# Citations
-
-[1] [§ 137 FamFG](https://www.gesetze-im-internet.de/famfg/__137.html)
-[2] [§ 26 FamFG](https://www.gesetze-im-internet.de/famfg/__26.html)
-[3] [§ 159 FamFG](https://www.gesetze-im-internet.de/famfg/__159.html)
-[4] [§ 49 FamFG](https://www.gesetze-im-internet.de/famfg/__49.html)

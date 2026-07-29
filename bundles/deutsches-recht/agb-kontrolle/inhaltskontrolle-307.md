@@ -5,7 +5,12 @@ description: Die Generalklausel der AGB-Kontrolle; Klauseln sind unwirksam, wenn
 resource: https://www.gesetze-im-internet.de/bgb/__307.html
 tags: [agb-recht, bgb, inhaltskontrolle, transparenzgebot, generalklausel]
 norm: "§ 307 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__307.html
+    title: "§ 307 BGB"
 ---
 
 # Regel
@@ -29,7 +34,3 @@ Die Abs. 1 und 2 sowie die §§ 308 und 309 gelten **nur für Klauseln, die von 
 # Verhältnis zu §§ 308, 309
 
 § 307 ist die Auffangkontrolle. Vorrangig zu prüfen sind die spezielleren [Klauselverbote](/agb-kontrolle/klauselverbote-308-309.md): erst § 309 (ohne Wertung), dann § 308 (mit Wertung), dann § 307. Im unternehmerischen Verkehr greift unmittelbar nur § 307, wobei die §§ 308 und 309 Indizwirkung entfalten (siehe [Anwendungsbereich](/agb-kontrolle/anwendungsbereich-310.md)).
-
-# Citations
-
-[1] [§ 307 BGB](https://www.gesetze-im-internet.de/bgb/__307.html)

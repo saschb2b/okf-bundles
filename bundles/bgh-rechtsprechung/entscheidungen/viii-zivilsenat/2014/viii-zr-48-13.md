@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 48/13"
 doknr: "JURE140006502"
 normen: ["§ 242 BGB, § 326 Abs 2 S 1 BGB, § 546a Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.01.2014 - VIII ZR 48/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 242 BGB, § 326 Abs 2 S 1 BGB, § 546a Abs 1 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 48/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.01.2014 - VIII ZR 48/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

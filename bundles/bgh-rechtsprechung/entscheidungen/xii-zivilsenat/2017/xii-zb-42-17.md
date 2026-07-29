@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:210617BXIIZB42.17.0"
 doknr: "KORE318302017"
 normen: ["§ 35 FamFG, § 76 Abs 1 FamFG, § 114 Abs 1 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.06.2017 - XII ZB 42/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Verfahrenskostenhilfe kann nur der bedürftige Beteiligte erhalten, der in eigenen Rechten betroffen ist (im Anschluss an Senatsbeschluss vom 22. Oktober 2014, XII ZB 125/14, FamRZ 2015, 133).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:32:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 42/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.06.2017 - XII ZB 42/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

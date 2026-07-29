@@ -9,13 +9,14 @@ datum: 2009-02-12
 aktenzeichen: "III ZR 90/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:38:51Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:38:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2008/III_ZR__90-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 12.02.2009 - III ZR 90/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 90/08 vom 12.02.2009.
-
-# Citations
-
-[1] [BGH, Urteil vom 12.02.2009 - III ZR 90/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2008/III_ZR__90-08.pdf?__blob=publicationFile&v=1)
-

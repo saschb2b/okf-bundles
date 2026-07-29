@@ -4,7 +4,12 @@ title: set-state-in-effect
 description: Flags synchronous setState calls inside effects that cause an avoidable extra render pass.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-effect
 tags: [react, eslint, lint, effects, state]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-effect
+    title: "set-state-in-effect"
 ---
 
 # What it flags
@@ -47,7 +52,3 @@ const selected = items.find(i => i.id === selectedId);
 # Best practice
 
 When something can be calculated from existing props or state, do not put it in state. Calculate it during rendering. This is faster, simpler, and less error-prone. See [You Might Not Need an Effect](/escape-hatches/you-might-not-need-an-effect.md).
-
-# Citations
-
-[1] [set-state-in-effect](https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-effect)

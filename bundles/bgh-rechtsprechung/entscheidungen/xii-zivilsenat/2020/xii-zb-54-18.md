@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:270520BXIIZB54.18.0"
 doknr: "KORE301422020"
 normen: ["§ 1767 BGB, § 1769 BGB, § 1770 BGB, Art 6 BGBEG, § 7 Abs 2 Nr 1 FamFG, § 58 FamFG, § 59 FamFG, § 108 Abs 2 S 1 FamFG, § 109 Abs 1 Nr 1 FamFG, § 109 Abs 1 Nr 2 FamFG, § 109 Abs 1 Nr 4 FamFG, § 186 FamFG, §§ 186ff FamFG, § 188 FamFG, § 193 FamFG, § 197 Abs 3 FamFG, § 43b Abs 1 S 1 FGG vom 25.07.1986, Art 8 MRK"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.05.2020 - XII ZB 54/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Über die Anerkennungsfähigkeit einer Volljährigenadoption, die durch ein ausländisches Gericht oder eine ausländische Behörde ausgesprochen worden ist, wird im Verfahren nach § 108 Abs. 2 Satz 1 FamFG entschieden; auf dieses Verfahren finden die speziellen Vorschriften zum Adoptionsverfahren nach den §§ 186 ff. FamFG keine Anwendung.
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:14:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 54/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.05.2020 - XII ZB 54/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

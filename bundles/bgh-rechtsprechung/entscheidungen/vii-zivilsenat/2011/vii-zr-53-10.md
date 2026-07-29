@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 53/10"
 doknr: "KORE302882011"
 normen: ["§ 286 Abs 1 BGB, § 286 Abs 4 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.02.2011 - VII ZR 53/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Forderung aus einer selbstschuldnerischen Bürgschaft wird grundsätzlich mit der Fälligkeit der Hauptschuld fällig; einer Leistungsaufforderung des Gläubigers und der Vorlage von die Hauptschuld belegenden Unterlagen bedarf es dazu nicht (im Anschluss an BGH, Urteil vom 29. Januar 2008, XI ZR 160/07, BGHZ 175, 161).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 53/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.02.2011 - VII ZR 53/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:140618UIIIZR54.17.0"
 doknr: "KORE308822018"
 normen: ["§ 276 BGB, § 680 BGB, § 839 BGB, § 283 ZPO, Art 34 S 1 GG, Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.06.2018 - III ZR 54/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Haftung gemäß § 839 BGB i.V.m. Art. 34 Satz 1 GG wegen eines amtspflichtwidrigen Verhaltens eines zur Gefahrenabwehr handelnden Amtsträgers (hier: eines Feuerwehrbeamten) ist nicht entsprechend § 680 BGB auf Vorsatz und grobe Fahrlässigkeit beschränkt.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 54/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.06.2018 - III ZR 54/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

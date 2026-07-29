@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SprAnerkÜbk"
 description: "BGH-Entscheidungen zu SprAnerkÜbk, geordnet nach Vorschrift."
 tags: [register, navigation, spranerkübk]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

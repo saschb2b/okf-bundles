@@ -4,7 +4,20 @@ title: "Rechtsprechung und frei zugängliche Quellen"
 description: Die frei zugänglichen Fundstellen für Gerichtsentscheidungen (bundesgerichtshof.de als amtliche Quelle der BGH-Rechtsprechung, daneben rechtsprechung-im-internet.de, dejure.org, openJur, Curia) und die Grenze zur kostenpflichtigen Kommentarliteratur, die dieses Bündel zitiert, aber nicht spiegelt.
 resource: https://www.bundesgerichtshof.de/
 tags: [external, rechtsprechung, case-law, frei, bundesgerichtshof, dejure, openjur, urheberrecht]
-timestamp: 2026-06-22T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-22T12:00:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "Bundesgerichtshof, Entscheidungssuche"
+  - resource: https://www.rechtsprechung-im-internet.de/
+    title: "Rechtsprechung im Internet (Bund)"
+  - resource: https://dejure.org/
+    title: "dejure.org"
+  - resource: https://openjur.de/
+    title: "openJur"
+  - resource: https://www.gesetze-im-internet.de/urhg/__5.html
+    title: "§ 5 UrhG (amtliche Werke)"
 ---
 
 # Warum eine Rechtsprechungsebene
@@ -39,11 +52,3 @@ So entsteht der Mehrwert (die nach Norm geordnete, an Entscheidungen belegte Dog
 # Hinweis
 
 Eine Entscheidung wird mit **Gericht, Datum und Aktenzeichen** zitiert (etwa "BGH, Urteil vom 06.05.2021 - IX ZR 72/20"); das ist die stabile, gerichtsübergreifend auffindbare Kennung. Rechtsprechung entwickelt sich fort: das in einem Konzept genannte Datum markiert den Stand, und die obigen Quellen zeigen jüngere oder abweichende Entscheidungen.
-
-# Citations
-
-[1] [Bundesgerichtshof, Entscheidungssuche](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-[2] [Rechtsprechung im Internet (Bund)](https://www.rechtsprechung-im-internet.de/)
-[3] [dejure.org](https://dejure.org/)
-[4] [openJur](https://openjur.de/)
-[5] [§ 5 UrhG (amtliche Werke)](https://www.gesetze-im-internet.de/urhg/__5.html)

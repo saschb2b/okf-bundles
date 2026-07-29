@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:010817BANWZ.BRFG.14.17.0"
 doknr: "KORE603462017"
 normen: ["§ 46 Abs 3 BRAO, § 46 Abs 4 S 1 BRAO, § 46a BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 01.08.2017 - AnwZ (Brfg) 14/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 46 Abs 3 BRAO, § 46 Abs 4 S 1 BRAO, § 46a BRAO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:33:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 14/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.08.2017 - AnwZ (Brfg) 14/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

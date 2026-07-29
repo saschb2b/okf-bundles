@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:270520BVIIIZR275.18.0"
 doknr: "KORE627042020"
 normen: ["§ 4 Abs 1 ZPO, § 511 ZPO, § 556g BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:36:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:36:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.05.2020 - VIII ZR 275/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 4 Abs 1 ZPO, § 511 ZPO, § 556g BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:36:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 275/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.05.2020 - VIII ZR 275/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

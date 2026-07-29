@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:181125BIIZB9.23.0"
 doknr: "KORE701452026"
 normen: ["Art 267 Abs 1 Buchst b AEUV, Art 267 Abs 3 AEUV, § 13 WpHG vom 16.07.2007, § 14 WpHG vom 16.07.2007, § 15 Abs 1 S 1 WpHG vom 05.07.2007, § 15 Abs 1 S 3 WpHG vom 05.07.2007, § 37b Abs 1 Nr 1 WpHG vom 28.10.2004, Art 6 Abs 1 UAbs 1 EGRL 6/2003, Art 6 Abs 2 S 1 EGRL 6/2003, § 17 AktG, § 18 AktG, § 93 AktG, § 311 AktG, § 249 HGB, § 31 BGB, § 166 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, EuGH-Vorlage vom 18.11.2025 - II ZB 9/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 Abs. 1 Buchst. b, Abs. 3 AEUV zur Auslegung der Richtlinie 2003/6/EG des Europäischen Parlaments vom 28. Januar 2003 und des Rates über Insider-Geschäfte und Marktmanipulation (Marktmissbrauchsrichtlinie - ABl. L 96 vom 12. April 2003, S. 16) folgende Fragen vorgelegt:
@@ -40,8 +46,3 @@ Dem Gerichtshof der Europäischen Union werden gemäß Art. 267 Abs. 1 Buchst.�
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 9/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, EuGH-Vorlage vom 18.11.2025 - II ZB 9/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

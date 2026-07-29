@@ -5,7 +5,14 @@ description: Eine Befristung ist mit Sachgrund zulässig oder ohne Sachgrund bis
 resource: https://www.gesetze-im-internet.de/tzbfg/__14.html
 tags: [arbeitsrecht, befristung, tzbfg, sachgrund]
 norm: "§ 14 TzBfG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/tzbfg/__14.html
+    title: "§ 14 TzBfG"
+  - resource: https://www.gesetze-im-internet.de/tzbfg/__17.html
+    title: "§ 17 TzBfG"
 ---
 
 # Befristung mit Sachgrund (§ 14 Abs. 1)
@@ -23,8 +30,3 @@ Die Befristungsabrede bedarf zu ihrer Wirksamkeit der **Schriftform** ([§ 126 B
 # Rechtsfolge bei Unwirksamkeit
 
 Ist die Befristung unwirksam, gilt der Vertrag als auf unbestimmte Zeit geschlossen. Der Arbeitnehmer muss die Unwirksamkeit binnen drei Wochen nach dem vereinbarten Ende mit der Entfristungsklage geltend machen (§ 17 TzBfG, der auf die [§§ 4 ff. KSchG](/arbeitsrecht/kuendigungsschutzklage-4-kschg.md) verweist).
-
-# Citations
-
-[1] [§ 14 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__14.html)
-[2] [§ 17 TzBfG](https://www.gesetze-im-internet.de/tzbfg/__17.html)

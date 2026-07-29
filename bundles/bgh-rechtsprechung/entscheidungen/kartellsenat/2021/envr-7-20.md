@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:260121BENVR7.20.0"
 doknr: "KORE307602021"
 normen: ["§ 21a Abs 4 S 7 EnWG, § 9 Abs 1 ARegV, § 9 Abs 3 ARegV, § 12 Abs 3 ARegV, § 12 Abs 4a ARegV, GasNEV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.01.2021 - EnVR 7/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Genereller sektoraler Produktivitätsfaktor
@@ -34,8 +40,3 @@ Genereller sektoraler Produktivitätsfaktor
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 7/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.01.2021 - EnVR 7/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

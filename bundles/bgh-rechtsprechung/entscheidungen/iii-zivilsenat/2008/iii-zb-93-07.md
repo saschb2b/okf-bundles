@@ -9,13 +9,14 @@ datum: 2008-12-04
 aktenzeichen: "III ZB 93/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:28:25Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:28:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZB__93-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 04.12.2008 - III ZB 93/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZB 93/07 vom 04.12.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.12.2008 - III ZB 93/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZB__93-07.pdf?__blob=publicationFile&v=1)
-

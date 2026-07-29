@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 32/10"
 doknr: "KORE309002010"
 normen: ["§ 839 Abs 2 S 1 BGB, § 839 Abs 2 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.11.2010 - III ZR 32/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Richterspruchprivileg des § 839 Abs. 2 Satz 1 BGB (Amtspflichtverletzung "bei dem Urteil in einer Rechtssache") erfasst auch alle prozessleitenden Maßnahmen, die objektiv darauf gerichtet sind, die Rechtssache durch Urteil zu entscheiden, also die Grundlagen für die Sachentscheidung zu gewinnen .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 32/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.11.2010 - III ZR 32/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

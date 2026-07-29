@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 80/13"
 doknr: "KORE315182014"
 normen: ["§ 133 BGB, § 157 BGB, § 307 BGB, § 433 Abs 2 BGB, § 812 Abs 1 S 1 Alt 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.01.2014 - VIII ZR 80/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zu den Voraussetzungen einer ergänzenden Vertragsauslegung (§§ 157, 133 BGB) bei einer infolge der Unwirksamkeit einer formularmäßig vereinbarten Preisänderungsklausel nach § 307 BGB entstehenden planwidrigen Regelungslücke in einem Stromlieferungsvertrag mit einem (Norm-)Sonderkunden (Fortführung von BGH, Urteile vom 14. Juli 2010, VIII ZR 246/08, BGHZ 186, 180 Rn. 50; vom 14. März 2012, VIII ZR 113/11, BGHZ 192, 372 Rn. 23 und VIII ZR 93/11, ZNER 2012, 265 Rn. 28).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:32:12Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 80/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.01.2014 - VIII ZR 80/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

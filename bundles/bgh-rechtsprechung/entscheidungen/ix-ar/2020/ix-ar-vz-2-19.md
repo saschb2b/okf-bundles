@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:151020BIXAR.VZ.2.19.0"
 doknr: "KORE302642020"
 normen: ["§ 4 InsO, § 299 Abs 2 ZPO, § 171 Abs 2 HGB, § 172 Abs 4 HGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 15.10.2020 - IX AR (VZ) 2/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Dem Kommanditisten kann Einsicht in die Akten des Insolvenzeröffnungsverfahrens über das Vermögen der Gesellschaft nur gewährt werden, wenn er ein rechtliches Interesse hieran glaubhaft macht.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX AR (VZ) 2/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.10.2020 - IX AR (VZ) 2/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

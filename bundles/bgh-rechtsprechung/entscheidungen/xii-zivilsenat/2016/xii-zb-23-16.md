@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:010616BXIIZB23.16.0"
 doknr: "KORE313662016"
 normen: ["§ 68 Abs 3 S 2 FamFG, § 70 Abs 3 FamFG, § 70 Abs 4 FamFG, § 319 Abs 1 FamFG, § 319 Abs 4 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 01.06.2016 - XII ZB 23/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird in einer Unterbringungssache die zugestellte Ausfertigung der amtsgerichtlichen Entscheidung fälschlicherweise als einstweilige Anordnung bezeichnet, steht § 70 Abs. 4 FamFG der Statthaftigkeit der Rechtsbeschwerde nicht entgegen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 23/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.06.2016 - XII ZB 23/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

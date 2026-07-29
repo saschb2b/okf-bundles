@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 266/13"
 doknr: "KORE300762014"
 normen: ["Art 1 UNWaVtrÜbk, Art 4 UNWaVtrÜbk, Art 4 EGV 593/2008, Art 17 Abs 1 EGV 593/2008, Art 19 EGV 593/2008, Art 6 EGV 44/2001, § 387 BGB, §§ 387ff BGB, § 390 BGB, Art 3 BGBEG, § 293 ZPO, § 322 ZPO, Art 1242 CC ITA, Art 1243 CC ITA"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.05.2014 - VIII ZR 266/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei Sachverhalten mit einer Verbindung zum Recht eines ausländischen Staates unterliegt die Aufrechnung gemäß Art. 17 Abs. 1 Rom I-VO der für die Hauptforderung berufenen Rechtsordnung mit der Folge, dass das Vertragsstatut der Hauptforderung auch über die Voraussetzungen, das Zustandekommen und die Wirkungen der Aufrechnung entscheidet. Das ist bei einer Aufrechnung gegen eine Forderung aus einem Kaufvertrag, der dem einheitlichen UN-Kaufrechtsübereinkommen (CISG) unterfällt, das unvereinheitlichte Recht des Staates, nach dessen Recht der Kaufvertrag ohne Eingreifen des Übereinkommens zu beurteilen wäre (Bestätigung des Senatsurteils vom 23. Juni 2010, VIII ZR 135/08, WM 2010, 1712 Rn. 24, insoweit in BGHZ 186, 81 nicht abgedruckt).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 266/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.05.2014 - VIII ZR 266/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

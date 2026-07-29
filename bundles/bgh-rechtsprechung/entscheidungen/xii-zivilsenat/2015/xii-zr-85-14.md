@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 85/14"
 doknr: "JURE150005297"
 normen: ["§ 315 BGB, § 535 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.02.2015 - XII ZR 85/14 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 315 BGB, § 535 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 85/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.02.2015 - XII ZR 85/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

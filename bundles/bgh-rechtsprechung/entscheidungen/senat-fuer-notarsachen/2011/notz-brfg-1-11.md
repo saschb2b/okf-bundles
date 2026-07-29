@@ -10,8 +10,14 @@ aktenzeichen: "NotZ (Brfg) 1/11"
 doknr: "KORE306012011"
 normen: ["§ 4 BNotO, § 7 Abs 1 BNotO, § 10 Abs 1 S 3 BNotO, Art 3 GG, Art 12 Abs 1 GG, Art 33 Abs 2 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.07.2011 - NotZ (Brfg) 1/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Konkurrieren um eine ausgeschriebene Notarstelle ein Notar aus dem Land, in dem die Stelle zu vergeben ist, und ein Notar aus einem anderen Land, ist es im Rahmen der gebotenen Beurteilung der Belange einer geordneten Rechtspflege eine zulässige Erwägung, dass bei der Vergabe der Stelle an den landesfremden Bewerber keine Stelle zur Besetzung durch anstellungsreife Notarassessoren frei würde  .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 1/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.07.2011 - NotZ (Brfg) 1/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

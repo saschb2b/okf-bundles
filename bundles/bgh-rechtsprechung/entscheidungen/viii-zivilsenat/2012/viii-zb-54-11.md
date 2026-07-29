@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 54/11"
 doknr: "KORE300382012"
 normen: ["§ 148 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.02.2012 - VIII ZB 54/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Umstand, dass beim Bundesgerichtshof ein Revisionsverfahren anhängig ist, in dem über eine Rechtsfrage zu entscheiden ist, von deren Beantwortung auch die Entscheidung eines zweiten Rechtsstreits ganz oder teilweise abhängt, rechtfertigt die Aussetzung der Verhandlung des zweiten Rechtsstreits grundsätzlich auch dann nicht, wenn bei dem zur Entscheidung berufenen Gericht eine Vielzahl von gleich gelagerten Fällen anhängig ist.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 54/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.02.2012 - VIII ZB 54/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

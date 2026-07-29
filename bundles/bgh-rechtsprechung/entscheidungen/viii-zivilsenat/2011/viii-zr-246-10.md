@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 246/10"
 doknr: "JURE110021022"
 normen: ["§ 254 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:09Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.09.2011 - VIII ZR 246/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 254 Abs 2 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:09Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 246/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.09.2011 - VIII ZR 246/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

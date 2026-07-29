@@ -4,7 +4,12 @@ title: Reacting to Input with State
 description: Describe a component's visual states declaratively and switch between them in response to input, instead of manipulating the UI imperatively.
 resource: https://react.dev/learn/reacting-to-input-with-state
 tags: [react, state, declarative, forms]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/reacting-to-input-with-state
+    title: "Reacting to Input with State"
 ---
 
 # Summary
@@ -120,7 +125,3 @@ Longer than the imperative version but far less fragile. New visual states can b
 
 - Declarative programming means describing the UI for each visual state rather than micromanaging the UI imperatively.
 - When developing a component: identify all visual states, determine the human and computer triggers, model the state with `useState`, remove non-essential state to avoid bugs and paradoxes, and connect event handlers to set state.
-
-# Citations
-
-[1] [Reacting to Input with State](https://react.dev/learn/reacting-to-input-with-state)

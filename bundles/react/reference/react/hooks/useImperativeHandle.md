@@ -4,7 +4,12 @@ title: useImperativeHandle
 description: React Hook that customizes the handle exposed to a parent through a ref, replacing the default DOM node with your own methods.
 resource: https://react.dev/reference/react/useImperativeHandle
 tags: [react, hook, refs, imperative]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useImperativeHandle
+    title: "useImperativeHandle"
 ---
 
 # Reference
@@ -60,7 +65,3 @@ Note: Starting with React 19, `ref` is available as a prop. In React 18 and earl
 
 - Do not overuse refs. Use them only for imperative behaviors you cannot express as props: scrolling to a node, focusing a node, triggering an animation, selecting text, and so on.
 - If you can express something as a prop, do not use a ref. Instead of exposing a `{ open, close }` handle from a `Modal`, prefer an `isOpen` prop like `<Modal isOpen={isOpen} />`. [Effects](/escape-hatches/synchronizing-with-effects.md) can help you expose imperative behaviors via props.
-
-# Citations
-
-[1] [useImperativeHandle](https://react.dev/reference/react/useImperativeHandle)

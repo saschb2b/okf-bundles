@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 69/14"
 doknr: "KORE309252015"
 normen: ["§ 1 Abs 1 KapMuG vom 19.10.2012, § 3 Abs 2 S 1 KapMuG vom 19.10.2012"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.11.2015 - III ZB 69/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Nach dem Kapitalanleger-Musterverfahrensgesetz in der Fassung vom 19. Oktober 2012 (BGBl. I S. 2182) sind auch positive Feststellungsklagen musterverfahrensfähig.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 69/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.11.2015 - III ZB 69/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

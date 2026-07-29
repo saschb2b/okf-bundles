@@ -5,7 +5,16 @@ description: Bei der Scheidung werden die in der Ehezeit erworbenen Versorgungsa
 resource: https://www.gesetze-im-internet.de/versausglg/__1.html
 tags: [familienrecht, versorgungsausgleich, halbteilung, scheidungsfolge, rente]
 norm: "§§ 1, 2, 9, 10, 14, 18 VersAusglG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/versausglg/__1.html
+    title: "§ 1 VersAusglG"
+  - resource: https://www.gesetze-im-internet.de/versausglg/__10.html
+    title: "§ 10 VersAusglG"
+  - resource: https://www.gesetze-im-internet.de/versausglg/__14.html
+    title: "§ 14 VersAusglG"
 ---
 
 # Halbteilungsgrundsatz (§ 1)
@@ -26,9 +35,3 @@ Im Versorgungsausgleich werden die in der **Ehezeit** erworbenen Anteile von Ver
 # Bezug
 
 Der Versorgungsausgleich ist neben dem [Zugewinnausgleich](/familienrecht/zugewinn-berechnung.md) die zweite vermögensbezogene Scheidungsfolge; er betrifft die Alterssicherung, der Zugewinnausgleich das übrige Vermögen.
-
-# Citations
-
-[1] [§ 1 VersAusglG](https://www.gesetze-im-internet.de/versausglg/__1.html)
-[2] [§ 10 VersAusglG](https://www.gesetze-im-internet.de/versausglg/__10.html)
-[3] [§ 14 VersAusglG](https://www.gesetze-im-internet.de/versausglg/__14.html)

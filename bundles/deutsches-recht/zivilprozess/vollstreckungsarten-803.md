@@ -5,7 +5,18 @@ description: Wegen einer Geldforderung wird in bewegliche Sachen (Gerichtsvollzi
 resource: https://www.gesetze-im-internet.de/zpo/__803.html
 tags: [zivilprozess, zwangsvollstreckung, sachpfaendung, forderungspfaendung, pfaendungsschutz, vermoegensauskunft]
 norm: "§§ 803, 808, 829, 835, 850c, 850k, 867, 883, 887, 888, 890, 802c ZPO; ZVG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__803.html
+    title: "§ 803 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__829.html
+    title: "§ 829 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__850c.html
+    title: "§ 850c ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__802c.html
+    title: "§ 802c ZPO"
 ---
 
 # Vollstreckung wegen Geldforderungen
@@ -38,10 +49,3 @@ Erbringt die Vollstreckung keine Befriedigung, muss der Schuldner auf Verlangen 
 # Bezug
 
 Jede Vollstreckung setzt die allgemeinen Voraussetzungen voraus, die das [Grundkonzept der Zwangsvollstreckung](/zivilprozess/zwangsvollstreckung-704.md) behandelt (Titel, Klausel, Zustellung). Ist der Schuldner zahlungsunfähig, verdrängt das [Insolvenzverfahren](/insolvenzrecht/forderungsanmeldung-174.md) die Einzelvollstreckung (Vollstreckungsverbot § 89 InsO).
-
-# Citations
-
-[1] [§ 803 ZPO](https://www.gesetze-im-internet.de/zpo/__803.html)
-[2] [§ 829 ZPO](https://www.gesetze-im-internet.de/zpo/__829.html)
-[3] [§ 850c ZPO](https://www.gesetze-im-internet.de/zpo/__850c.html)
-[4] [§ 802c ZPO](https://www.gesetze-im-internet.de/zpo/__802c.html)

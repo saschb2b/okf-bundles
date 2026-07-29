@@ -9,13 +9,14 @@ datum: 2000-03-16
 aktenzeichen: "IX ZB 2/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:16:31Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:16:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2000/IX_ZB___2-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 16.03.2000 - IX ZB 2/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZB 2/00 vom 16.03.2000.
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.03.2000 - IX ZB 2/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2000/IX_ZB___2-00.pdf?__blob=publicationFile&v=1)
-

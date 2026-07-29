@@ -4,7 +4,16 @@ title: Bitcoin upgrades: SegWit and Taproot
 description: How Bitcoin evolves through conservative, backward-compatible soft forks.
 resource: https://github.com/bitcoin/bips
 tags: [bitcoin, segwit, taproot, soft-fork]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://github.com/bitcoin/bips
+    title: "BIPs repository (bitcoin/bips)"
+  - resource: https://en.wikipedia.org/wiki/SegWit
+    title: "SegWit (Wikipedia)"
+  - resource: https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki
+    title: "BIP341: Taproot (bitcoin/bips)"
 ---
 
 # Upgrade culture: soft forks
@@ -24,9 +33,3 @@ Taproot (BIPs 340/341/342) activated November 14, 2021 at block 709,632:
 
 - **Schnorr signatures** (BIP340) on secp256k1, which are linear and allow key/signature aggregation. This extends the [signature scheme](/concepts/public-key-cryptography.md) beyond the original ECDSA.
 - **Merklized script trees** so a cooperative spend via the key path looks like an ordinary single-signature payment, improving privacy: multisig and complex [scripts](/bitcoin/script.md) become indistinguishable from simple payments. [3]
-
-# Citations
-
-[1] [BIPs repository (bitcoin/bips)](https://github.com/bitcoin/bips)
-[2] [SegWit (Wikipedia)](https://en.wikipedia.org/wiki/SegWit)
-[3] [BIP341: Taproot (bitcoin/bips)](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)

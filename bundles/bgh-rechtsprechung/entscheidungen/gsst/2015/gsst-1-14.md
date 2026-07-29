@@ -10,8 +10,14 @@ aktenzeichen: "GSSt 1/14"
 doknr: "KORE309122015"
 normen: ["§ 132 Abs 2 GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:21Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:21Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.03.2015 - GSSt 1/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Zulässigkeit einer Vorlegung an den Großen Senat für Strafsachen.
@@ -23,8 +29,3 @@ Zur Zulässigkeit einer Vorlegung an den Großen Senat für Strafsachen.
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen GSSt 1/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.03.2015 - GSSt 1/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

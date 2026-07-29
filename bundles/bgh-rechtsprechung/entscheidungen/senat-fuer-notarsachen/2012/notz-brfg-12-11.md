@@ -10,8 +10,14 @@ aktenzeichen: "NotZ (Brfg) 12/11"
 doknr: "KORE301322012"
 normen: ["§ 6 Abs 1 BNotO, § 6 Abs 3 BNotO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.07.2012 - NotZ (Brfg) 12/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Interesse einer möglichst umfassenden vollständigen Tatsachengrundlage für die Beurteilung der Eignung eines Bewerbers für das Amt des Notars muss die Auskunftspflicht peinlich genau erfüllt werden. Die Relevanz der auskunftspflichtigen Tatsachen für die Beurteilung der persönlichen Eignung bestimmt ausschließlich die Besetzungsbehörde.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 12/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.07.2012 - NotZ (Brfg) 12/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

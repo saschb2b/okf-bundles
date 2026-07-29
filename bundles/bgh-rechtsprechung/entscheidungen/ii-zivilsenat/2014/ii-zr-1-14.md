@@ -10,8 +10,14 @@ aktenzeichen: "II ZR 1/14"
 doknr: "KORE304602014"
 normen: ["§ 78 Abs 1 S 3 ZPO, § 269 Abs 4 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.11.2014 - II ZR 1/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Es ist nicht erforderlich, dass der auf Seiten des Beklagten beigetretene Nebenintervenient nach einer unstreitigen und zulässigen Klagerücknahme des Beschwerdegegners im Nichtzulassungsbeschwerdeverfahrens allein zur Stellung eines Kostenantrags nach § 269 Abs. 4 Satz 1 ZPO einen beim Bundesgerichtshof zugelassenen Anwalt bestellt.
@@ -23,8 +29,3 @@ Es ist nicht erforderlich, dass der auf Seiten des Beklagten beigetretene Nebeni
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZR 1/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.11.2014 - II ZR 1/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

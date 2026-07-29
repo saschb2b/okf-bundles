@@ -5,7 +5,16 @@ description: Eigentum an einer beweglichen Sache geht über durch Einigung und �
 resource: https://www.gesetze-im-internet.de/bgb/__929.html
 tags: [sachenrecht, eigentumserwerb, uebereignung, einigung-uebergabe]
 norm: "§§ 929 bis 931 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__929.html
+    title: "§ 929 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__930.html
+    title: "§ 930 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__931.html
+    title: "§ 931 BGB"
 ---
 
 # Grundtatbestand (§ 929)
@@ -22,9 +31,3 @@ Die Übergabe kann ersetzt werden, damit der Veräußerer die Sache behalten ode
 # Bezug
 
 Gehört die Sache dem Veräußerer nicht, kommt der [gutgläubige Erwerb (§ 932)](/sachenrecht/gutglaeubiger-erwerb-932.md) in Betracht. Bei Grundstücken gilt der eigene Tatbestand der [§§ 873, 925](/sachenrecht/eigentumserwerb-grundstueck-873-925.md).
-
-# Citations
-
-[1] [§ 929 BGB](https://www.gesetze-im-internet.de/bgb/__929.html)
-[2] [§ 930 BGB](https://www.gesetze-im-internet.de/bgb/__930.html)
-[3] [§ 931 BGB](https://www.gesetze-im-internet.de/bgb/__931.html)

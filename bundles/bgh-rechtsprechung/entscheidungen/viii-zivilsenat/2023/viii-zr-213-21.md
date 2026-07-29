@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:240523UVIIIZR213.21.0"
 doknr: "KORE310892023"
 normen: ["§ 555b BGB, § 559 Abs 1 BGB vom 18.12.2018, § 559 Abs 1 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.05.2023 - VIII ZR 213/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Erneuerung von Rauchwarnmeldern stellt - anders als deren erstmaliger Einbau (vgl. dazu Senatsurteile vom 17. Juni 2015 - VIII ZR 216/14, NJW 2015, 2488 Rn. 12 f., und VIII ZR 290/14, NJW 2015, 2487 Rn. 11 ff., 23) - grundsätzlich keine Modernisierung im Sinne von § 555b BGB dar, wenn mit ihr eine technische Verbesserung oder sonstige Aufwertung nicht verbunden ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 213/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.05.2023 - VIII ZR 213/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

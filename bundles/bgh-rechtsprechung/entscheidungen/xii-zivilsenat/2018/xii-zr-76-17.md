@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:180418UXIIZR76.17.0"
 doknr: "KORE308632018"
 normen: ["§ 138 Abs 1 BGB, § 311 Abs 1 BGB, § 546 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:11Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.04.2018 - XII ZR 76/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Parteien eines Mietvertrags können grundsätzlich das Mietverhältnis auch dann jederzeit durch einen Aufhebungsvertrag (§ 311 Abs. 1 BGB) vorzeitig beenden, wenn der Mieter einen Untermietvertrag geschlossen oder einem Dritten auf einer anderen rechtlichen Grundlage die Mietsache zur Nutzung überlassen hat.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:11Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 76/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.04.2018 - XII ZR 76/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

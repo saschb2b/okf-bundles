@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:200918BIIIZR65.18.0"
 doknr: "KORE629832018"
 normen: ["§ 17 Abs 1 S 5 KHG, § 17b KHG, § 7 KHEntgG, § 134 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:14Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.09.2018 - III ZR 65/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 17 Abs 1 S 5 KHG, § 17b KHG, § 7 KHEntgG, § 134 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:14Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 65/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.09.2018 - III ZR 65/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:160316UVIIIZR146.15.0"
 doknr: "KORE303432016"
 normen: ["§ 242 BGB, § 312d BGB vom 04.07.2013, § 355 Abs 1 S 2 BGB vom 29.07.2009"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:09Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 16.03.2016 - VIII ZR 146/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Es ist dem freien Willen des Verbrauchers überlassen, ob und aus welchen Gründen er von einem bei einem Fernabsatzgeschäft bestehenden Widerrufsrecht Gebrauch macht.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:09Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 146/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 16.03.2016 - VIII ZR 146/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

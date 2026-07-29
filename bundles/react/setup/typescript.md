@@ -4,7 +4,12 @@ title: Using TypeScript
 description: How to add TypeScript to a React project and type components, Hooks, DOM events, children, and style props.
 resource: https://react.dev/learn/typescript
 tags: [react, typescript, hooks, types, props]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/typescript
+    title: "Using TypeScript"
 ---
 
 # Summary
@@ -200,7 +205,3 @@ interface MyComponentProps {
 - The TypeScript release notes (new features in depth).
 - React TypeScript Cheatsheet (community maintained, covers edge cases).
 - TypeScript Community Discord for questions.
-
-# Citations
-
-[1] [Using TypeScript](https://react.dev/learn/typescript)

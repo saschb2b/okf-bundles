@@ -4,7 +4,12 @@ title: ADA monetary policy
 description: A 45 billion ADA cap funded from a diminishing reserve that also feeds staking rewards and a treasury.
 resource: https://docs.cardano.org/
 tags: [cardano, ada, monetary-policy, treasury]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://docs.cardano.org/about-cardano/introduction/
+    title: "Cardano monetary policy and ADA (docs.cardano.org)"
 ---
 
 # The fixed cap and the reserve
@@ -23,7 +28,3 @@ Because the reserve is drawn down by a percentage each epoch, issuance **diminis
 # Why it matters
 
 A fixed cap places Cardano nearer Bitcoin's "sound money" pole than Ethereum's uncapped, [burn-balanced supply](/ethereum/ether-monetary-policy.md), while the built-in treasury makes protocol-funded development a first-class, governed feature rather than an off-chain foundation activity.
-
-# Citations
-
-[1] [Cardano monetary policy and ADA (docs.cardano.org)](https://docs.cardano.org/about-cardano/introduction/)

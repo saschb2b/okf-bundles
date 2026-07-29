@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:090622UIIIZR24.21.0"
 doknr: "KORE307172022"
 normen: ["§ 4 BeurkG vom 28.08.1969, § 17 Abs 2a S 2 Nr 2 BeurkG vom 23.07.2002, § 14 Abs 2 BNotO, § 19 Abs 1 S 2 BNotO, § 322 Abs 1 ZPO, § 839 BGB, Art 34 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.06.2022 - III ZR 24/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Rechtskraft eines Urteils, mit dem die gegen einen Notar gerichtete Amtshaftungsklage wegen einer anderweitigen Ersatzmöglichkeit nach § 19 Abs. 1 Satz 2 BNotO als derzeit unbegründet abgewiesen wird, umfasst die Gründe des Urteils, soweit in ihnen die übrigen Anspruchsvoraussetzungen positiv festgestellt werden. Ist dies der Fall, kann im Folgeprozess die Amtshaftungsklage nicht mit der Begründung abgewiesen werden, der Anspruch habe bereits im Zeitpunkt der Erstentscheidung dem Grunde nach nicht bestanden.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:29:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 24/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.06.2022 - III ZR 24/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

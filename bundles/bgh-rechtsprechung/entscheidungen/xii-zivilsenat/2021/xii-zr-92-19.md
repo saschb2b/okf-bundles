@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:030321UXIIZR92.19.0"
 doknr: "KORE303872021"
 normen: ["§ 133 BGB, § 157 BGB, § 305b BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:26Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:26Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 03.03.2021 - XII ZR 92/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Bedeutung einer Vollständigkeitsklausel (hier: „Mündliche Nebenabreden bestehen nicht“) in einem Mietvertrag über Geschäftsräume.
@@ -24,8 +30,3 @@ Zur Bedeutung einer Vollständigkeitsklausel (hier: „Mündliche Nebenabreden b
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 92/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 03.03.2021 - XII ZR 92/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

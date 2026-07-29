@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 280/09"
 doknr: "KORE313902010"
 normen: ["§ 133 BGB, § 157 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 16.06.2010 - VIII ZR 280/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Haben die Mietvertragsparteien vereinbart, dass der Mieter die anteiligen Kosten für künftige Schönheitsreparaturen nach einem Kostenvoranschlag des Vermieters oder eines Fachbetriebs zu zahlen hat, so schuldet der Mieter den Abgeltungsbetrag einschließlich der Umsatzsteuer  .
@@ -23,8 +29,3 @@ Haben die Mietvertragsparteien vereinbart, dass der Mieter die anteiligen Kosten
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 280/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 16.06.2010 - VIII ZR 280/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

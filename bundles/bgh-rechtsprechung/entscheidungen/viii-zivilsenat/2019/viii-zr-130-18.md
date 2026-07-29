@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:170719UVIIIZR130.18.0"
 doknr: "KORE313032019"
 normen: ["§ 556d Abs 2 S 5 BGB, § 556d Abs 2 S 6 BGB, § 556d Abs 2 S 7 BGB, Art 14 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.07.2019 - VIII ZR 130/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die der jeweiligen Landesregierung obliegende gesetzliche Verpflichtung, den Erlass einer Rechtsverordnung, die Gebiete mit angespannten Wohnungsmärken bestimmt, zu begründen (§ 556d Abs. 2 Satz 5 bis 7 BGB), verfolgt in Anbetracht der mit der Gebietsbestimmung verbundenen Beschränkung der grundrechtlich geschützten Eigentumsfreiheit (Art. 14 Abs. 1 GG) den Zweck, die Verhältnismäßigkeit der Gebietsausweisung zu gewährleisten.
@@ -34,8 +40,3 @@ timestamp: 2026-06-22T12:31:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 130/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.07.2019 - VIII ZR 130/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

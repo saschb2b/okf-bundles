@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:260619BANWZ.BRFG.29.19.0"
 doknr: "KORE627472019"
 normen: ["§ 46 Abs 3 BRAO, § 46 Abs 4 S 1  BRAO, § 46 Abs 4 S 2  BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:36:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:36:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.06.2019 - AnwZ (Brfg) 29/19 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 46 Abs 3 BRAO, § 46 Abs 4 S 1  BRAO, § 46 Abs 4 S 2  BRAO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:36:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 29/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.06.2019 - AnwZ (Brfg) 29/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

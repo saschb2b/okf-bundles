@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:041224BXIIZB66.24.0"
 doknr: "KORE703692025"
 normen: ["§ 15 Abs 2 S 1 Alt 2 FamFG, § 41 Abs 1 S 1 FamFG, § 45 FamFG, § 48 Abs 1 FamFG, § 59 Abs 1 FamFG, § 59 Abs 2 FamFG, § 292 Abs 2 FamFG, § 184 Abs 2 S 4 ZPO, § 9 Abs 3 VBVG, § 15 Abs 2 VBVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 04.12.2024 - XII ZB 66/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die formelle Rechtskraft der abzuändernden Entscheidung ist eine im Rahmen des Verfahrens nach § 48 Abs. 1 FamFG von Amts wegen zu prüfende Voraussetzung.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:39:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 66/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.12.2024 - XII ZB 66/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

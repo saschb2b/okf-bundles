@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:060618UVIIIZR247.17.0"
 doknr: "KORE301172018"
 normen: ["§ 2 Abs 3 S 1 Nr 5 StromGVV, § 2 Abs 3 S 3 StromGVV, § 5 Abs 2 S 2 StromGVV, § 2 Abs 1 UKlaG, § 3 Abs 1 UKlaG, § 4 Abs 1 UKlaG, § 4 Abs 2 UKlaG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.06.2018 - VIII ZR 247/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 5 Abs. 2 Satz 2 StromGVV legt dem Grundversorger unter anderem die Verpflichtung auf, in der brieflichen Mitteilung über Preisänderungen eine Gegenüberstellung sämtlicher in § 2 Abs. 3 Satz 1 Nr. 5 und Satz 3 StromGVV aufgeführter Kostenfaktoren vor und nach der Preisanpassung vorzunehmen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 247/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.06.2018 - VIII ZR 247/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "NotZ (Brfg) 6/12"
 doknr: "KORE304722012"
 normen: ["§ 6 Abs 2 Nr 2 BNotO vom 30.11.2000"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:58Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.11.2012 - NotZ (Brfg) 6/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zu den Voraussetzungen, unter denen die Landesjustizverwaltung vom Erfordernis der mindestens dreijährigen örtlichen Wartezeit für die Bestellung zum Anwaltsnotar absehen kann.
@@ -23,8 +29,3 @@ Zu den Voraussetzungen, unter denen die Landesjustizverwaltung vom Erfordernis d
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 6/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.11.2012 - NotZ (Brfg) 6/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

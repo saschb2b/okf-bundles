@@ -4,7 +4,12 @@ title: preserve-manual-memoization
 description: Flags incomplete dependencies in manual memoization that prevent React Compiler from understanding your data flow.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization
 tags: [react, eslint, lint, compiler, memoization]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization
+    title: "preserve-manual-memoization"
 ---
 
 # What it flags
@@ -42,7 +47,3 @@ With React Compiler you can usually remove manual memoization entirely and let t
 # Related
 
 Mirrors the dependency completeness checked by [exhaustive-deps](exhaustive-deps.md), here in service of the compiler.
-
-# Citations
-
-[1] [preserve-manual-memoization](https://react.dev/reference/eslint-plugin-react-hooks/lints/preserve-manual-memoization)

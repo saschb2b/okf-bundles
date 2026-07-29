@@ -4,7 +4,12 @@ title: <input>
 description: The built-in browser input component, covering controlled vs uncontrolled inputs, value/checked/onChange, and the full prop list.
 resource: https://react.dev/reference/react-dom/components/input
 tags: [react, react-dom, forms, controlled-components, input]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/input
+    title: "<input>"
 ---
 
 # Reference
@@ -66,7 +71,3 @@ Pass one of these (then an `onChange` is required):
 - Checkbox does not update on click: same cause; read `e.target.checked` (not `value`) in the handler.
 - Caret jumps to the start: update state synchronously to exactly `e.target.value`, never transformed (`.toUpperCase()`) or async (`setTimeout`).
 - "Changing an uncontrolled input to be controlled": keep `value` a string the whole lifetime; initialize state to `''` rather than `null`/`undefined`.
-
-# Citations
-
-[1] [<input>](https://react.dev/reference/react-dom/components/input)

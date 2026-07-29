@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:280923BIIIZB93.22.0"
 doknr: "KORE311212023"
 normen: ["§ 8 ZPO, § 9 ZPO, § 511 Abs 2 Nr 1 ZPO, § 985 BGB, § 986 BGB, § 1  BKleingG, §§ 1ff BKleingG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.09.2023 - III ZB 93/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Bemessung der Rechtsmittelbeschwer des die Herausgabe eines in seinem Eigentum stehenden Grundstücks begehrenden, in der Vorinstanz unterlegenen Klägers, wenn sich der Beklagte auf einen das Grundstück betreffenden Kleingartenpachtvertrag beruft.
@@ -24,8 +30,3 @@ Zur Bemessung der Rechtsmittelbeschwer des die Herausgabe eines in seinem Eigent
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 93/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.09.2023 - III ZB 93/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

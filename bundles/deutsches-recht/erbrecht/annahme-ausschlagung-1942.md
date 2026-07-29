@@ -5,7 +5,16 @@ description: Die Erbschaft fällt dem Erben mit dem Erbfall von selbst an; er ka
 resource: https://www.gesetze-im-internet.de/bgb/__1942.html
 tags: [erbrecht, annahme, ausschlagung, frist]
 norm: "§§ 1942 bis 1944, 1953 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1942.html
+    title: "§ 1942 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1944.html
+    title: "§ 1944 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1953.html
+    title: "§ 1953 BGB"
 ---
 
 # Anfall (§ 1942)
@@ -25,9 +34,3 @@ Schlägt der Erbe aus, gilt der Anfall an ihn als nicht erfolgt; die Erbschaft f
 # Bezug
 
 Die Ausschlagung ist das zentrale Mittel, der [Haftung für Nachlassverbindlichkeiten](/erbrecht/haftung-erben-1967.md) bei einem überschuldeten Nachlass zu entgehen.
-
-# Citations
-
-[1] [§ 1942 BGB](https://www.gesetze-im-internet.de/bgb/__1942.html)
-[2] [§ 1944 BGB](https://www.gesetze-im-internet.de/bgb/__1944.html)
-[3] [§ 1953 BGB](https://www.gesetze-im-internet.de/bgb/__1953.html)

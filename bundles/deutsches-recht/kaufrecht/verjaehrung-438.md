@@ -5,7 +5,12 @@ description: Kaufrechtliche Mängelansprüche verjähren regelmäßig in zwei Ja
 resource: https://www.gesetze-im-internet.de/bgb/__438.html
 tags: [kaufrecht, verjaehrung, maengelansprueche]
 norm: "§ 438 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__438.html
+    title: "§ 438 BGB"
 ---
 
 # Regel
@@ -25,7 +30,3 @@ Die Frist beginnt mit der **Ablieferung** der Sache, bei Grundstücken mit der �
 # Grenze: Arglist
 
 Hat der Verkäufer den Mangel arglistig verschwiegen, gilt statt der kurzen Frist die regelmäßige Verjährung (§ 438 Abs. 3).
-
-# Citations
-
-[1] [§ 438 BGB](https://www.gesetze-im-internet.de/bgb/__438.html)

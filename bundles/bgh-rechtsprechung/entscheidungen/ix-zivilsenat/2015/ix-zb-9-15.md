@@ -10,8 +10,14 @@ aktenzeichen: "IX ZB 9/15"
 doknr: "JURE150014764"
 normen: ["§ 290 Abs 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:58:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:58:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.09.2015 - IX ZB 9/15 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 290 Abs 1 InsO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T10:58:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 9/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.09.2015 - IX ZB 9/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

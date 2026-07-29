@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 337/10"
 doknr: "KORE313732011"
 normen: ["§ 558a Abs 2 Nr 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 06.07.2011 - VIII ZR 337/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Ein Mieterhöhungsbegehren ist nicht deshalb aus formellen Gründen unwirksam, weil der Vermieter darin zur Begründung auf den bisher geltenden Mietspiegel und nicht auf den kurz zuvor veröffentlichten neuesten Mietspiegel Bezug genommen hat .
@@ -23,8 +29,3 @@ Ein Mieterhöhungsbegehren ist nicht deshalb aus formellen Gründen unwirksam, w
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 337/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 06.07.2011 - VIII ZR 337/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

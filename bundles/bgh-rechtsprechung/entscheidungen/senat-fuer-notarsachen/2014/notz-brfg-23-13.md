@@ -10,8 +10,14 @@ aktenzeichen: "NotZ (Brfg) 23/13"
 doknr: "JURE140013231"
 normen: ["§ 6 Abs 1 S 1 BNotO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.07.2014 - NotZ (Brfg) 23/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 6 Abs 1 S 1 BNotO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 23/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.07.2014 - NotZ (Brfg) 23/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

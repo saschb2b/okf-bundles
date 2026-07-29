@@ -5,7 +5,16 @@ description: GbR, OHG und KG sind Personengesellschaften; seit dem MoPeG 2024 un
 resource: https://www.gesetze-im-internet.de/bgb/__705.html
 tags: [gesellschaftsrecht, gbr, ohg, kg, mopeg, gesellschafterhaftung]
 norm: "§§ 705, 721 BGB; §§ 105, 161 HGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__705.html
+    title: "§ 705 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__721.html
+    title: "§ 721 BGB"
+  - resource: https://www.gesetze-im-internet.de/hgb/__161.html
+    title: "§ 161 HGB"
 ---
 
 # GbR (§ 705 BGB, MoPeG 2024)
@@ -29,9 +38,3 @@ Kennzeichnend für die Personengesellschaft ist die **persönliche, unbeschränk
 # Abgrenzung
 
 Anders als bei den [Kapitalgesellschaften](/handels-gesellschaftsrecht/gmbh.md) haftet bei der Personengesellschaft also der Mensch hinter der Gesellschaft persönlich.
-
-# Citations
-
-[1] [§ 705 BGB](https://www.gesetze-im-internet.de/bgb/__705.html)
-[2] [§ 721 BGB](https://www.gesetze-im-internet.de/bgb/__721.html)
-[3] [§ 161 HGB](https://www.gesetze-im-internet.de/hgb/__161.html)

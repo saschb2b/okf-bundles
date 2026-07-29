@@ -5,7 +5,18 @@ description: Der gesetzliche Zinssatz beträgt vier Prozent; viele Zinsen knüpf
 resource: https://www.gesetze-im-internet.de/bgb/__247.html
 tags: [schuldrecht-at, zinsen, basiszinssatz, zinseszinsverbot, prozesszinsen]
 norm: "§§ 246, 247, 288, 289, 291 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__246.html
+    title: "§ 246 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__247.html
+    title: "§ 247 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__289.html
+    title: "§ 289 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__291.html
+    title: "§ 291 BGB"
 ---
 
 # Gesetzlicher Zinssatz (§ 246)
@@ -29,10 +40,3 @@ Von Zinsen sind **keine Verzugszinsen** zu entrichten (§ 289 Satz 1): Eine Zins
 # Prozesszinsen (§ 291)
 
 Eine Geldschuld ist von dem Eintritt der **Rechtshängigkeit** an zu verzinsen, auch wenn der Schuldner nicht in Verzug ist (§ 291); der Zinssatz richtet sich nach § 288 Abs. 1 (fünf Prozentpunkte über Basiszinssatz). Damit verzinst sich die eingeklagte Forderung spätestens ab Klagezustellung.
-
-# Citations
-
-[1] [§ 246 BGB](https://www.gesetze-im-internet.de/bgb/__246.html)
-[2] [§ 247 BGB](https://www.gesetze-im-internet.de/bgb/__247.html)
-[3] [§ 289 BGB](https://www.gesetze-im-internet.de/bgb/__289.html)
-[4] [§ 291 BGB](https://www.gesetze-im-internet.de/bgb/__291.html)

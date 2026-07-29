@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:180117UVIIIZR263.15.0"
 doknr: "KORE302642017"
 normen: ["§ 241 BGB, § 269 Abs 1 BGB, § 269 Abs 2 BGB, § 293 BGB, § 295 BGB, § 302 BGB, § 305c BGB, § 306 BGB, § 307 Abs 1 S 1 BGB, § 310 BGB, § 315 BGB, § 546 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.01.2017 - VIII ZR 263/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Leistungsort für die § 546 Abs. 1 BGB zu entnehmende Pflicht des Leasingnehmers, den Leasinggegenstand bei Vertragsende zurückzugeben, folgt nicht schon - im Sinne einer Bringschuld - aus dieser Bestimmung, sondern richtet sich bei Fehlen einer (wirksamen) vertraglichen Festlegung nach der Auslegungsregel des § 269 Abs. 1, 2 BGB. Hieraus ergibt sich jedoch kein von einem konkreten Leistungsort abgelöstes Recht des Leasinggebers, bei Vertragsende den Rückgabeort und die Rückgabemodalitäten einseitig zu bestimmen.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:27:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 263/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.01.2017 - VIII ZR 263/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

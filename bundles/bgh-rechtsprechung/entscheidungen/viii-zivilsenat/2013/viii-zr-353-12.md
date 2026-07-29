@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 353/12"
 doknr: "KORE305022014"
 normen: ["§ 269 BGB, § 278 BGB, § 280 Abs 1  BGB, § 307 Abs 1 BGB, § 307 Abs 2 BGB, § 309 Nr 7 Buchst b BGB, § 446 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:04Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:04Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 06.11.2013 - VIII ZR 353/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 In den Allgemeinen Geschäftsbedingungen des Online-Shops eines Möbelhauses, das auf Wunsch des Kunden auch den Aufbau der gekauften Möbel beim Kunden anbietet, hält die Regelung
@@ -29,8 +35,3 @@ In den Allgemeinen Geschäftsbedingungen des Online-Shops eines Möbelhauses, da
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 353/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 06.11.2013 - VIII ZR 353/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

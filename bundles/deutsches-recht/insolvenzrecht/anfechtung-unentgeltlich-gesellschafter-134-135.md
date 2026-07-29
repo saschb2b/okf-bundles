@@ -5,7 +5,22 @@ description: Unentgeltliche Leistungen sind ohne subjektive Voraussetzungen bis 
 resource: https://www.gesetze-im-internet.de/inso/__134.html
 tags: [insolvenzrecht, anfechtung, unentgeltliche-leistung, schenkungsanfechtung, gesellschafterdarlehen, nachrang]
 norm: "§§ 134, 135 InsO; § 39 Abs. 1 Nr. 5 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__134.html
+    title: "§ 134 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__135.html
+    title: "§ 135 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__39.html
+    title: "§ 39 InsO"
+  - resource: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=11.12.2008&Aktenzeichen=IX+ZR+195/07
+    title: "BGH, Urteil vom 11.12.2008 - IX ZR 195/07 (dejure.org)"
+  - resource: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=22.04.2010&Aktenzeichen=IX+ZR+225/09
+    title: "BGH, Urteil vom 22.04.2010 - IX ZR 225/09 (dejure.org)"
+  - resource: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=30.04.2015&Aktenzeichen=IX+ZR+196/13
+    title: "BGH, Urteil vom 30.04.2015 - IX ZR 196/13 (dejure.org)"
 ---
 
 # Unentgeltliche Leistung (§ 134)
@@ -32,12 +47,3 @@ Darlehen, die ein **Gesellschafter** seiner Gesellschaft gewährt hat, sind in d
 # Bezug
 
 Beide Tatbestände sind besondere Insolvenzanfechtungen neben der [Deckungs-](/insolvenzrecht/anfechtung-deckungen-130-132.md) und der [Vorsatzanfechtung](/insolvenzrecht/vorsatzanfechtung-133.md) und setzen den [Grundtatbestand des § 129](/insolvenzrecht/insolvenzanfechtung-129.md) voraus. Der Nachrang des Gesellschafterdarlehens knüpft an die [Gläubigerrangordnung](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) (§ 39) an; die GmbH-Haftungsverfassung steht im [Gesellschaftsrecht](/handels-gesellschaftsrecht/gmbh.md).
-
-# Citations
-
-[1] [§ 134 InsO](https://www.gesetze-im-internet.de/inso/__134.html)
-[2] [§ 135 InsO](https://www.gesetze-im-internet.de/inso/__135.html)
-[3] [§ 39 InsO](https://www.gesetze-im-internet.de/inso/__39.html)
-[4] [BGH, Urteil vom 11.12.2008 - IX ZR 195/07 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=11.12.2008&Aktenzeichen=IX+ZR+195/07)
-[5] [BGH, Urteil vom 22.04.2010 - IX ZR 225/09 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=22.04.2010&Aktenzeichen=IX+ZR+225/09)
-[6] [BGH, Urteil vom 30.04.2015 - IX ZR 196/13 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=30.04.2015&Aktenzeichen=IX+ZR+196/13)

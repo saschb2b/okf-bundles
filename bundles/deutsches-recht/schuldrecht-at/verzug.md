@@ -5,7 +5,14 @@ description: Der Schuldner kommt mit einer fälligen, durchsetzbaren Leistung na
 resource: https://www.gesetze-im-internet.de/bgb/__286.html
 tags: [schuldrecht-at, verzug, mahnung, verzugszinsen]
 norm: "§§ 286, 288 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__286.html
+    title: "§ 286 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__288.html
+    title: "§ 288 BGB"
 ---
 
 # Voraussetzungen (§ 286)
@@ -31,8 +38,3 @@ Der Gläubiger kann den Verzögerungsschaden ersetzt verlangen (§ 280 Abs. 2 in
 # Bezug
 
 Der Verzögerungsschaden ist der über § 280 Abs. 2 laufende Weg der [Pflichtverletzung](/schuldrecht-at/pflichtverletzung-280.md). Will der Gläubiger sich lösen, führt der Weg über den [Rücktritt](/schuldrecht-at/ruecktritt.md).
-
-# Citations
-
-[1] [§ 286 BGB](https://www.gesetze-im-internet.de/bgb/__286.html)
-[2] [§ 288 BGB](https://www.gesetze-im-internet.de/bgb/__288.html)

@@ -9,13 +9,14 @@ datum: 2002-09-25
 aktenzeichen: "VIII ZR 253/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:21:37Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:21:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/1999/VIII_ZR_253-99A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 25.09.2002 - VIII ZR 253/99 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 253/99 vom 25.09.2002.
-
-# Citations
-
-[1] [BGH, Urteil vom 25.09.2002 - VIII ZR 253/99 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/1999/VIII_ZR_253-99A.pdf?__blob=publicationFile&v=1)
-

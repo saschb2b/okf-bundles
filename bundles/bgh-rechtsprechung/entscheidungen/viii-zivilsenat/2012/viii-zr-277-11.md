@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 277/11"
 doknr: "JURE120008058"
 normen: ["§ 280 BGB, § 286 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 31.01.2012 - VIII ZR 277/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 280 BGB, § 286 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 277/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 31.01.2012 - VIII ZR 277/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

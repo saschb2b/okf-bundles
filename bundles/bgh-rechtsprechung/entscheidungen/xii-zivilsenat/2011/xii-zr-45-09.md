@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 45/09"
 doknr: "KORE311222011"
 normen: ["§ 1570 Abs 1 S 1 BGB, § 1570 Abs 2 BGB, § 1578b BGB, § 1684 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.06.2011 - XII ZR 45/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Altersphasenmodell, das bei der Frage der Verlängerung des Betreuungsunterhalts aus kindbezogenen Gründen allein oder wesentlich auf das Alter des Kindes, etwa während der Kindergarten- und Grundschulzeit, abstellt, wird den gesetzlichen Anforderungen nicht gerecht (im Anschluss an das Senatsurteil vom 30. März 2011, XII ZR 3/09, FamRZ 2011, 791) .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 45/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.06.2011 - XII ZR 45/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,16 @@ description: Gegen einen Sozialverwaltungsakt sind Widerspruch und dann Klage bi
 resource: https://www.gesetze-im-internet.de/sgg/__87.html
 tags: [sozialrecht, sgg, widerspruch, klagefrist, eilrechtsschutz]
 norm: "§§ 78, 84, 86b, 87, 183 SGG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgg/__87.html
+    title: "§ 87 SGG"
+  - resource: https://www.gesetze-im-internet.de/sgg/__86b.html
+    title: "§ 86b SGG"
+  - resource: https://www.gesetze-im-internet.de/sgg/__183.html
+    title: "§ 183 SGG"
 ---
 
 # Vorverfahren und Klage
@@ -25,9 +34,3 @@ Für Versicherte, Leistungsempfänger und behinderte Menschen ist das Verfahren 
 # Bezug
 
 Maßgeblicher Anknüpfungspunkt ist der [Sozialverwaltungsakt](/sozialrecht/sozialverwaltungsakt-ueberpruefung-44-sgb10.md). Unabhängig von den Klagefristen bleibt der [Überprüfungsantrag nach § 44 SGB X](/sozialrecht/sozialverwaltungsakt-ueberpruefung-44-sgb10.md) möglich.
-
-# Citations
-
-[1] [§ 87 SGG](https://www.gesetze-im-internet.de/sgg/__87.html)
-[2] [§ 86b SGG](https://www.gesetze-im-internet.de/sgg/__86b.html)
-[3] [§ 183 SGG](https://www.gesetze-im-internet.de/sgg/__183.html)

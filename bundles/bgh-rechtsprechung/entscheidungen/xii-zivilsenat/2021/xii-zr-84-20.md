@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:271021UXIIZR84.20.0"
 doknr: "KORE312592021"
 normen: ["§ 566 Abs 1 BGB, § 578 Abs 2 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:21Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:21Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.10.2021 - XII ZR 84/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei fehlender Identität zwischen Vermieter und Veräußerer ist § 566 Abs. 1 BGB entsprechend anwendbar, wenn die Vermietung des veräußerten Grundstücks mit Zustimmung und im alleinigen wirtschaftlichen Interesse des Eigentümers erfolgt und der Vermieter kein eigenes Interesse am Fortbestand des Mietverhältnisses hat.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:21Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 84/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.10.2021 - XII ZR 84/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

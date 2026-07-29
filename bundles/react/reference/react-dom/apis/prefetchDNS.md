@@ -4,7 +4,12 @@ title: prefetchDNS
 description: A react-dom resource hint that asks the browser to look up the IP address of a server you expect to load resources from.
 resource: https://react.dev/reference/react-dom/prefetchDNS
 tags: [react, react-dom, resource-hints, performance, preloading]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/prefetchDNS
+    title: "prefetchDNS"
 ---
 
 # Reference
@@ -60,7 +65,3 @@ function CallToAction() {
 - If you know the specific resources, prefer the resource preloading APIs like [`preload`](/reference/react-dom/apis/preload.md), which start loading right away.
 - No benefit to prefetching the page's own host, already resolved.
 - Compared with [`preconnect`](/reference/react-dom/apis/preconnect.md), `prefetchDNS` may be better when speculatively connecting to a large number of domains, where preconnection overhead can outweigh the benefit.
-
-# Citations
-
-[1] [prefetchDNS](https://react.dev/reference/react-dom/prefetchDNS)

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 6/12"
 doknr: "KORE305142013"
 normen: ["§ 278 BGB, § 280 BGB, § 535 BGB, § 67 aF VVG, § 86 VVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:08Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:08Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.12.2012 - XII ZR 6/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Haftung des Vermieters von Geschäftsräumen für Schäden des Mieters, die diesem auf Grund der Verletzung einer mietvertraglichen Fürsorgepflicht durch einen von dem Vermieter mit Bauarbeiten in dem Mietobjekt beauftragten Handwerker entstehen.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:08Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 6/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.12.2012 - XII ZR 6/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

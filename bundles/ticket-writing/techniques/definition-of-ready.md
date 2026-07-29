@@ -4,7 +4,14 @@ title: Definition of Ready
 description: An optional, team-owned agreement that a backlog item is understood enough to start; useful as a guideline, harmful as a rigid stage gate.
 resource: https://www.atlassian.com/agile/project-management/definition-of-ready
 tags: [refinement, readiness, scrum]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.atlassian.com/agile/project-management/definition-of-ready
+    title: "What is a Definition of Ready? (Atlassian)"
+  - resource: https://blog.logrocket.com/product-management/breaking-down-the-definition-of-ready-in-scrum/
+    title: "Breaking down the Definition of Ready in Scrum (LogRocket)"
 ---
 
 # Definition
@@ -18,8 +25,3 @@ A rigid Definition of Ready becomes a mini-waterfall: a stage gate where "refine
 # Related
 
 Operationalized by the [ready smell-test](/playbooks/ready-smell-test.md) checklist, and built during [backlog refinement](/techniques/backlog-refinement.md).
-
-# Citations
-
-[1] [What is a Definition of Ready? (Atlassian)](https://www.atlassian.com/agile/project-management/definition-of-ready)
-[2] [Breaking down the Definition of Ready in Scrum (LogRocket)](https://blog.logrocket.com/product-management/breaking-down-the-definition-of-ready-in-scrum/)

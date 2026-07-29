@@ -5,7 +5,12 @@ description: Arbeitnehmer ist, wer weisungsgebundene, fremdbestimmte Arbeit in p
 resource: https://www.gesetze-im-internet.de/bgb/__611a.html
 tags: [arbeitsrecht, arbeitsvertrag, arbeitnehmerbegriff, scheinselbststaendigkeit]
 norm: "§ 611a BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__611a.html
+    title: "§ 611a BGB"
 ---
 
 # Regel
@@ -21,7 +26,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Rechtsfolge
 
 Der Arbeitgeber schuldet die vereinbarte Vergütung (§ 611a Abs. 2). Mit der Einordnung als Arbeitnehmer greifen der [Kündigungsschutz](/arbeitsrecht/kuendigungsschutz-1-kschg.md), die [Kündigungsfristen](/arbeitsrecht/ordentliche-kuendigung-622.md) und das übrige Arbeitnehmerschutzrecht.
-
-# Citations
-
-[1] [§ 611a BGB](https://www.gesetze-im-internet.de/bgb/__611a.html)

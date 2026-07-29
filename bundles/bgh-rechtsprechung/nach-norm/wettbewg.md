@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu WettbewG"
 description: "BGH-Entscheidungen zu WettbewG, geordnet nach Vorschrift."
 tags: [register, navigation, wettbewg]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

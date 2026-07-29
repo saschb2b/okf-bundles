@@ -4,7 +4,12 @@ title: cache
 description: Caches the result of a data fetch or computation, for use in React Server Components.
 resource: https://react.dev/reference/react/cache
 tags: [react, server-components, caching, memoization]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/cache
+    title: "cache"
 ---
 
 # Reference
@@ -54,6 +59,3 @@ const getTemperature = cache(async (city) => await fetchTemperature(city));
 - `cache` is for Server Components only.
 - Calling the memoized function outside of a component evaluates `fn` but does not read or update the cache, because cache access is provided through context.
 - React checks cache hits with shallow equality (`Object.is`) of arguments. Pass primitives or the same object reference, not freshly created objects, or you will miss the cache.
-
-# Citations
-[1] [cache](https://react.dev/reference/react/cache)

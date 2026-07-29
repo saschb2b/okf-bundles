@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:080222BVIIIZR38.21.0"
 doknr: "KORE303742022"
 normen: ["§ 544 Abs 2 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.02.2022 - VIII ZR 38/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Nach einer einseitigen Erledigungserklärung richtet sich die Beschwer des Rechtsmittelführers regelmäßig nach der Summe der bis zum Zeitpunkt der Erledigungserklärung entstandenen Kosten; an die Stelle des Sachinteresses tritt das Kosteninteresse (im Anschluss an BGH, Urteil vom 9. März 1993 - VI ZR 249/92, NJW-RR 1993, 765 unter II 2 b aa; Beschlüsse vom 1. März 2011 - VIII ZR 19/10, WuM 2011, 247 Rn. 3; vom 18. Juni 2015 - V ZR 224/14, NJW 2015, 3173 Rn. 3; vom 29. Juni 2017 - III ZR 540/16, juris Rn. 8 und vom 10. April 2018 - II ZR 149/17, juris Rn. 4).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 38/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.02.2022 - VIII ZR 38/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

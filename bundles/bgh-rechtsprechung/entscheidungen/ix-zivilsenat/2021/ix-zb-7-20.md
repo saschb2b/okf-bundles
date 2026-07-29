@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:220721BIXZB7.20.0"
 doknr: "KORE307882021"
 normen: ["§ 4a Abs 1 InsO vom 15.07.2013, § 35 Abs 2 S 1 InsO, § 287a Abs 2 S 1 Nr 1 InsO vom 15.07.2013"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.07.2021 - IX ZB 7/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Gibt der Insolvenzverwalter das Vermögen des Schuldners aus seiner selbständigen Tätigkeit frei und wird über dieses Vermögen ein gesondertes Insolvenzverfahren eröffnet, ist ein in diesem Verfahren gestellter Antrag des Schuldners auf Restschuldbefreiung unzulässig, wenn über seinen im Ausgangsverfahren gestellten Restschuldbefreiungsantrag nicht entschieden ist (Fortführung BGH, Beschluss vom 18. Dezember 2014 - IX ZB 22/13).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 7/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.07.2021 - IX ZB 7/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2005-07-20
 aktenzeichen: "XII ZB 21/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:28:58Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:28:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/1999/XII_ZB__21-99.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 20.07.2005 - XII ZB 21/99 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 21/99 vom 20.07.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.07.2005 - XII ZB 21/99 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/1999/XII_ZB__21-99.pdf?__blob=publicationFile&v=1)
-

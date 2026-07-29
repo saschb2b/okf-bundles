@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 62/12"
 doknr: "KORE301192013"
 normen: ["§ 556 Abs 3 S 2 BGB, § 556 Abs 3 S 3 BGB, § 556 Abs 3 S 5 BGB, § 556 Abs 3 S 6 BGB, § 782 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.07.2013 - XII ZR 62/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Auch bei einem Mietverhältnis über Gewerberaum rechtfertigt allein die vorbehaltlose Erstattung eines sich aus der Betriebskostenabrechnung ergebenden Guthabens durch den Vermieter nicht die Annahme eines deklaratorischen Schuldanerkenntnisses, das einer nachträglichen Korrektur der Betriebskostenabrechnung entgegensteht (im Anschluss an BGH Urteil vom 12. Januar 2011, VIII ZR 296/09, NJW 2011, 843).
@@ -23,8 +29,3 @@ Auch bei einem Mietverhältnis über Gewerberaum rechtfertigt allein die vorbeha
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 62/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.07.2013 - XII ZR 62/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: Profiler
 description: Measure the rendering performance of a React tree programmatically via an onRender callback.
 resource: https://react.dev/reference/react/Profiler
 tags: [react, component, profiler, performance, rendering]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/Profiler
+    title: "Profiler"
 ---
 
 # Reference
@@ -58,7 +63,3 @@ Parameters:
 - Although lightweight, `<Profiler>` should be used only when needed; each use adds some CPU and memory overhead.
 - For interactive profiling, prefer the Profiler tab in React Developer Tools, which exposes similar functionality as a browser extension.
 - Components wrapped in `<Profiler>` are marked in the Component tracks of React Performance tracks even in profiling builds. In development builds, all components are marked regardless of wrapping.
-
-# Citations
-
-[1] [Profiler](https://react.dev/reference/react/Profiler)

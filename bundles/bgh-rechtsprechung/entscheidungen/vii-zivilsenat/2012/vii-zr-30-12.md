@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 30/12"
 doknr: "JURE120016752"
 normen: ["§ 116 S 1 Nr 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:21Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:21Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 09.08.2012 - VII ZR 30/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 116 S 1 Nr 2 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:21Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 30/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.08.2012 - VII ZR 30/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

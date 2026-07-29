@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 340/10"
 doknr: "KORE303802011"
 normen: ["§ 556 Abs 3 S 1 Halbs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.07.2011 - VIII ZR 340/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Mieter trägt die Darlegungs- und Beweislast für eine Verletzung des Grundsatzes der Wirtschaftlichkeit bei der Abrechnung der Betriebskosten durch den Vermieter .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 340/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.07.2011 - VIII ZR 340/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

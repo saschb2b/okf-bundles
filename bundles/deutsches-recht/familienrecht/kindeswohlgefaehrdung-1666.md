@@ -5,7 +5,14 @@ description: Wird das körperliche, geistige oder seelische Wohl des Kindes gef�
 resource: https://www.gesetze-im-internet.de/bgb/__1666.html
 tags: [familienrecht, kindeswohlgefaehrdung, waechteramt, verhaeltnismaessigkeit]
 norm: "§§ 1666, 1666a BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1666.html
+    title: "§ 1666 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1666a.html
+    title: "§ 1666a BGB"
 ---
 
 # Regel (§ 1666)
@@ -19,8 +26,3 @@ Maßnahmen, mit denen eine **Trennung des Kindes von der elterlichen Familie** v
 # Bezug
 
 § 1666 begrenzt das elterliche Sorgerecht ([§ 1626](/familienrecht/elterliche-sorge-1626.md)) im Interesse des Kindes; das Verfahren ist ein FamFG-Verfahren, in dem das Kind einen Verfahrensbeistand erhält.
-
-# Citations
-
-[1] [§ 1666 BGB](https://www.gesetze-im-internet.de/bgb/__1666.html)
-[2] [§ 1666a BGB](https://www.gesetze-im-internet.de/bgb/__1666a.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:200618BXIIZB99.18.0"
 doknr: "KORE301322018"
 normen: ["§ 295 Abs 1 S 1 FamFG, § 1903 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.06.2018 - XII ZB 99/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Verlängerungsentscheidung über eine Betreuung mit Einwilligungsvorbehalt hat das Gericht hinsichtlich der Betreuung und hinsichtlich des Einwilligungsvorbehalts darüber zu entscheiden, ob und in welchem Umfang diese fortzusetzen oder aufzuheben sind.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 99/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.06.2018 - XII ZB 99/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

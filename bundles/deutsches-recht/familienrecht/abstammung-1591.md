@@ -5,7 +5,16 @@ description: Mutter ist, wer das Kind geboren hat; Vater ist der mit der Mutter 
 resource: https://www.gesetze-im-internet.de/bgb/__1592.html
 tags: [familienrecht, abstammung, vaterschaft, anerkennung, anfechtung]
 norm: "§§ 1591, 1592, 1594, 1600, 1600b, 1600d BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1591.html
+    title: "§ 1591 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1592.html
+    title: "§ 1592 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1600b.html
+    title: "§ 1600b BGB"
 ---
 
 # Mutter und Vater
@@ -31,9 +40,3 @@ Besteht keine Vaterschaft kraft Ehe oder Anerkennung, stellt das Familiengericht
 # Bezug
 
 Die Abstammung ist Grundlage von [Kindesunterhalt](/familienrecht/kindesunterhalt-1612a.md), [elterlicher Sorge](/familienrecht/elterliche-sorge-1626.md) und [Erbrecht](/erbrecht/gesetzliche-erbfolge-1924.md).
-
-# Citations
-
-[1] [§ 1591 BGB](https://www.gesetze-im-internet.de/bgb/__1591.html)
-[2] [§ 1592 BGB](https://www.gesetze-im-internet.de/bgb/__1592.html)
-[3] [§ 1600b BGB](https://www.gesetze-im-internet.de/bgb/__1600b.html)

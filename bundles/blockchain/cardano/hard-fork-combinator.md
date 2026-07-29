@@ -4,7 +4,12 @@ title: The hard fork combinator
 description: Cardano's mechanism for upgrading via hard forks without a chain split or disruption.
 resource: https://docs.cardano.org/
 tags: [cardano, hard-fork-combinator, upgrades, fork]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://docs.cardano.org/about-cardano/evolution/upgrades/
+    title: "Cardano upgrades and the hard fork combinator (docs.cardano.org)"
 ---
 
 # The problem it solves
@@ -18,7 +23,3 @@ The **hard fork combinator (HFC)** is protocol machinery that lets Cardano trans
 # Why it matters
 
 The HFC is why Cardano's [hard-fork history](/cardano/hard-forks.md) reads as a smooth sequence of scheduled upgrades (Shelley, Mary, Alonzo, Vasil, Chang, and later) rather than a series of contentious splits. It is a distinct third stance on the [fork](/concepts/fork.md) question: where Bitcoin favors conservative backward-compatible [soft forks](/bitcoin/upgrades.md) and Ethereum accepts disruptive scheduled hard forks, Cardano makes hard forks themselves non-disruptive. Coordination of when to trigger a fork is increasingly handled through on-chain [governance](/cardano/governance.md).
-
-# Citations
-
-[1] [Cardano upgrades and the hard fork combinator (docs.cardano.org)](https://docs.cardano.org/about-cardano/evolution/upgrades/)

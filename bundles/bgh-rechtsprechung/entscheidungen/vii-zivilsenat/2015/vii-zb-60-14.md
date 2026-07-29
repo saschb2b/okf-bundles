@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 60/14"
 doknr: "KORE303562015"
 normen: ["§ 85 Abs 2 ZPO, § 233 S 1 ZPO, § 234 ZPO, § 520 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.05.2015 - VII ZB 60/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Ein Rechtsanwalt, der Mitglied einer aus mehreren Rechtsanwälten bestehenden Sozietät ist, ist nicht verpflichtet, in Bezug auf die Berufungsbegründungsfrist eine von der üblichen Vorfrist unabhängige weitere Frist zu notieren, um die Bearbeitung der Sache durch ihn im Hinblick auf seinen anstehenden Jahresurlaub sicherzustellen.
@@ -23,8 +29,3 @@ Ein Rechtsanwalt, der Mitglied einer aus mehreren Rechtsanwälten bestehenden So
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 60/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.05.2015 - VII ZB 60/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

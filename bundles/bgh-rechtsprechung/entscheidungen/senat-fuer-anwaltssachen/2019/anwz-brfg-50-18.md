@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:050219BANWZ.BRFG.50.18.0"
 doknr: "KORE620232019"
 normen: ["§ 14 Abs 2 Nr 7 Halbs 2  BRAO, § 248 InsO, § 291 InsO vom 05.10.1994, § 308 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.02.2019 - AnwZ (Brfg) 50/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 14 Abs 2 Nr 7 Halbs 2  BRAO, § 248 InsO, § 291 InsO vom 05.10.1994, § 308 InsO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 50/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.02.2019 - AnwZ (Brfg) 50/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

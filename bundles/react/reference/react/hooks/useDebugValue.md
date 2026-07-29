@@ -4,7 +4,12 @@ title: useDebugValue
 description: React Hook that adds a readable label to a custom Hook in React DevTools.
 resource: https://react.dev/reference/react/useDebugValue
 tags: [react, hook, devtools, debugging, custom-hooks]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useDebugValue
+    title: "useDebugValue"
 ---
 
 # Reference
@@ -51,7 +56,3 @@ function useOnlineStatus() {
 # Related
 
 Adds a label to the [custom Hooks](/escape-hatches/reusing-logic-with-custom-hooks.md) you build, shown next to them in React DevTools.
-
-# Citations
-
-[1] [useDebugValue](https://react.dev/reference/react/useDebugValue)

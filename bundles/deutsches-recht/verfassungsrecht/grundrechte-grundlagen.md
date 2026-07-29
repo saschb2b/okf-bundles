@@ -5,7 +5,12 @@ description: Grundrechte wirken vor allem als Abwehrrechte gegen den Staat, dane
 resource: https://www.gesetze-im-internet.de/gg/
 tags: [verfassungsrecht, grundrechte, abwehrrecht, grundrechtspruefung]
 norm: "Art. 1 Abs. 3 GG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gg/art_1.html
+    title: "Art. 1 GG"
 ---
 
 # Funktionen der Grundrechte
@@ -23,7 +28,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Bezug
 
 Beim Gleichheitsrecht tritt an die Stelle dieses Aufbaus die Prüfung einer [Ungleichbehandlung](/verfassungsrecht/gleichheitssatz-3-gg.md). Durchgesetzt werden die Grundrechte mit der [Verfassungsbeschwerde](/verfassungsrecht/verfassungsbeschwerde-93.md).
-
-# Citations
-
-[1] [Art. 1 GG](https://www.gesetze-im-internet.de/gg/art_1.html)

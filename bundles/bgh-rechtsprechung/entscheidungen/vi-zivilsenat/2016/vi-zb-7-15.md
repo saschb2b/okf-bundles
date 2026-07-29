@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:120416BVIZB7.15.0"
 doknr: "KORE313372016"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.04.2016 - VI ZB 7/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für die Rechtzeitigkeit des Eingangs eines per Telefax übersandten Schriftsatzes kommt es allein darauf an, ob die gesendeten Signale noch vor Ablauf des letzten Tages der Frist vom Telefaxgerät des Gerichts vollständig empfangen worden sind.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZB 7/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.04.2016 - VI ZB 7/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

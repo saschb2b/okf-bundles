@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:030817UVIIZR32.17.0"
 doknr: "KORE308442017"
 normen: ["§ 87c Abs 1 HGB, § 87c Abs 2 HGB, § 199 Abs 1 Nr 1 BGB, § 259 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 03.08.2017 - VII ZR 32/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Verjährung des Anspruchs des Handelsvertreters auf Erteilung eines Buchauszugs nach § 87c Abs. 2 HGB beginnt regelmäßig mit dem Schluss des Jahres, in dem der Unternehmer dem Handelsvertreter eine abschließende Abrechnung über die diesem zustehende Provision erteilt hat.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 32/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 03.08.2017 - VII ZR 32/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

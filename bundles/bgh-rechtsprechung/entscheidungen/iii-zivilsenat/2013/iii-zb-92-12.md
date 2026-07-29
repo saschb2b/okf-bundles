@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 92/12"
 doknr: "KORE300052014"
 normen: ["§ 767 ZPO, § 1059 Abs 2 ZPO, § 1060 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.12.2013 - III ZB 92/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Zulässigkeit sachlich-rechtlicher Einwendungen - über die gesetzlichen Aufhebungsgründe für Schiedssprüche (§ 1060 Abs. 2, § 1059 Abs. 2 ZPO) hinaus - gegen die Erstattung von Anwalts- und Schiedsrichterhonoraren im Verfahren auf Vollstreckbarerklärung eines inländischen Schiedsspruchs.
@@ -23,8 +29,3 @@ Zur Zulässigkeit sachlich-rechtlicher Einwendungen - über die gesetzlichen Auf
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 92/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.12.2013 - III ZB 92/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

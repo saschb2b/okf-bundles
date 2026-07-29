@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 7/09"
 doknr: "KORE306092010"
 normen: ["§ 1571 BGB, § 1578b Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.08.2010 - XII ZR 7/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Frage, ob ehebedingte Nachteile im Sinne des § 1578b Abs. 1 BGB vorliegen, ist der Ausgleich unterschiedlicher Vorsorgebeiträge vornehmlich Aufgabe des Versorgungsausgleichs, durch den die Interessen des Unterhaltsberechtigten regelmäßig ausreichend gewahrt werden (im Anschluss an Senatsurteile vom 16. April 2008, XII ZR 107/06, FamRZ 2008, 1325 und vom 25. Juni 2008, XII ZR 109/07, FamRZ 2008, 1508). Das gilt nicht, wenn die vom Unterhaltsberechtigten aufgrund der ehelichen Rollenverteilung erlittene Einbuße bei seiner Altersvorsorge durch den Versorgungsausgleich nicht vollständig erfasst wird, weil der Unterhaltspflichtige nur für einen geringen Teil der Ehezeit Rentenanwartschaften erworben hat .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 7/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.08.2010 - XII ZR 7/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:071124UIIIZR79.23.0"
 doknr: "KORE709842024"
 normen: ["§ 823 Abs 2 BGB, § 826 BGB, § 830 Abs 2 BGB, § 27 StGB, § 263 StGB, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.11.2024 - III ZR 79/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Feststellung der subjektiven Tatseite der Beihilfe bei berufstypischen Tätigkeiten (hier: Steuerberatung und Buchhaltung).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:40:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 79/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.11.2024 - III ZR 79/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

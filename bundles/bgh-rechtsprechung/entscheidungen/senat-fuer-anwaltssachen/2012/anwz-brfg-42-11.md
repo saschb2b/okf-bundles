@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 42/11"
 doknr: "KORE606082012"
 normen: ["§ 86 Abs 1 VwGO, § 124 Abs 2 VwGO, § 173 S 1 VwGO, § 169 GVG, §§ 169ff GVG, § 171b GVG, § 172 GVG, Art 3 GG, § 14 Abs 2 Nr 7 BRAO, § 32 Abs 1 BRAO, § 112c BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.02.2012 - AnwZ (Brfg) 42/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 86 Abs 1 VwGO, § 124 Abs 2 VwGO, § 173 S 1 VwGO, § 169 GVG, §§ 169ff GVG, § 171b GVG, § 172 GVG, Art 3 GG, § 14 Abs 2 Nr 7 BRAO, § 32 Abs 1 BRAO, § 112c BRAO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:33:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 42/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.02.2012 - AnwZ (Brfg) 42/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

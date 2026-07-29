@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 19/14"
 doknr: "KORE303932015"
 normen: ["§ 242 BGB, § 286 BGB, §§ 286ff BGB, § 320 Abs 1 S 1 BGB, § 320 Abs 2 BGB, § 536 BGB, § 543 Abs 2 S 1 Nr 3 Buchst b BGB, § 109 Abs 1 S 2 InsO, § 112 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 17.06.2015 - VIII ZR 19/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Kündigungssperre des § 112 InsO gilt nach Wirksamwerden der Enthaftungserklärung des Insolvenzverwalters nach § 109 Abs. 1 Satz 2 InsO weder im Insolvenzverfahren noch in dem sich daran anschließenden Restschuldbefreiungsverfahren (§§ 286 ff. InsO). Nach Wirksamwerden der Enthaftungserklärung nach § 109 Abs. 1 Satz 2 InsO sind rückständige Mieten, mit deren Zahlung der Mieter bereits vor Insolvenzantragstellung in Verzug geraten war, bei der Beurteilung der Wirksamkeit einer (auch) hierauf gestützten fristlosen Kündigung des Vermieters nach § 543 Abs. 2 Satz 1 Nr. 3 Buchst. b BGB zu berücksichtigen.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:28:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 19/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 17.06.2015 - VIII ZR 19/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

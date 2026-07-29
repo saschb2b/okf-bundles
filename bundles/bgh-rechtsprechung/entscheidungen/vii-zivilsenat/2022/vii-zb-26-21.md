@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:120122BVIIZB26.21.0"
 doknr: "KORE303822022"
 normen: ["§ 775 Nr 2 ZPO, § 776 S 2 ZPO, § 829 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.01.2022 - VII ZB 26/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Pfändungs- und Überweisungsbeschluss ist nicht deswegen aufzuheben, weil die Voraussetzungen für seinen Erlass nicht vorgelegen hätten, wenn einem Antrag des Schuldners auf Einstellung der Zwangsvollstreckung aus dem zugrundeliegenden Titel zeitnah und somit vor Erlass des Pfändungs- und Überweisungsbeschlusses stattgegeben worden wäre.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:25Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 26/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.01.2022 - VII ZB 26/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

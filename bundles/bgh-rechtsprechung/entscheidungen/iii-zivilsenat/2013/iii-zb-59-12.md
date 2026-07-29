@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 59/12"
 doknr: "JURE130008757"
 normen: ["§ 328 Abs 1 Nr 5 ZPO, § 1061 BGB, Art 5 Abs 1 Buchst e SchSprAnerkÜbk, Art 5 Abs 2  SchSprAnerkÜbk, Art 7 Abs 1  SchSprAnerkÜbk, Art 9 Abs 1 Buchst d IntHdlSchiedsGerÜbk"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.04.2013 - III ZB 59/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 328 Abs 1 Nr 5 ZPO, § 1061 BGB, Art 5 Abs 1 Buchst e SchSprAnerkÜbk, Art 5 Abs 2  SchSprAnerkÜbk, Art 7 Abs 1  SchSprAnerkÜbk, Art 9 Abs 1 Buchst d IntHdlSchiedsGerÜbk
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 59/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.04.2013 - III ZB 59/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 330/09"
 doknr: "KORE306502010"
 normen: ["§ 242 BGB, § 320 Abs 1 BGB, § 535 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 03.11.2010 - VIII ZR 330/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Wegen eines Mangels der Wohnung, von dem der Vermieter keine Kenntnis hat, kann der Mieter ein Zurückbehaltungsrecht erst an den Mieten geltend machen, die fällig werden, nachdem der Mieter dem Vermieter den Mangel angezeigt hat .
@@ -23,8 +29,3 @@ Wegen eines Mangels der Wohnung, von dem der Vermieter keine Kenntnis hat, kann 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 330/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 03.11.2010 - VIII ZR 330/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

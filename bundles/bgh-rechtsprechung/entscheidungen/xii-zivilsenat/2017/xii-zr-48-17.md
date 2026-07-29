@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:270917BXIIZR48.17.0"
 doknr: "KORE314142017"
 normen: ["Art 103 Abs 1 GG, § 141 ZPO, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:00Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.09.2017 - XII ZR 48/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Dem Tatrichter ist es nach § 286 ZPO grundsätzlich erlaubt, allein aufgrund des Vortrags der Parteien und ohne Beweiserhebung festzustellen, was für wahr und was für nicht wahr zu erachten ist (im Anschluss an BGH, 6. Oktober 1981, X ZR 57/80, BGHZ 82, 13 = NJW 1982, 940; BGH Beschluss vom 29. Oktober 1987, III ZR 54/87, BGHR ZPO § 141 Würdigung 1).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:32:00Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 48/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.09.2017 - XII ZR 48/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

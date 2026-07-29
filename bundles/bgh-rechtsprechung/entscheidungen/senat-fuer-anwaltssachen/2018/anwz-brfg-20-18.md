@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:161018UANWZ.BRFG.20.18.0"
 doknr: "KORE305842018"
 normen: ["§ 7 Nr 8 BRAO, § 46 Abs 2 BRAO, § 46 Abs 3 Nr 1 BRAO, § 46 Abs 3 Nr 2 BRAO, § 46 Abs 3 Nr 3 BRAO, § 46 Abs 3 Nr 4 BRAO, § 46 Abs 4 BRAO, § 46 Abs 5 BRAO, §§ 46ff BRAO, § 46a Abs 1 S 1 Nr 2 BRAO, § 49 WDRG NW, § 50 WDRG NW, § 51 WDRG NW, § 53 WDRG NW"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.10.2018 - AnwZ (Brfg) 20/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Zulassung als Syndikusrechtsanwalt nach §§ 46 f. BRAO ist grundsätzlich auch für ein Arbeitsverhältnis im öffentlichen Dienst möglich.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:25Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 20/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.10.2018 - AnwZ (Brfg) 20/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

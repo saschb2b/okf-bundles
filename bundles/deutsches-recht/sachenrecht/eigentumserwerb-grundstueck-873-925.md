@@ -5,7 +5,16 @@ description: Eigentum an einem Grundstück geht über durch Einigung (Auflassung
 resource: https://www.gesetze-im-internet.de/bgb/__873.html
 tags: [sachenrecht, grundstueck, auflassung, grundbuch]
 norm: "§§ 873, 925, 891, 892 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__873.html
+    title: "§ 873 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__925.html
+    title: "§ 925 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__892.html
+    title: "§ 892 BGB"
 ---
 
 # Regel (§ 873)
@@ -19,9 +28,3 @@ Die zur Eigentumsübertragung erforderliche Einigung (Auflassung) muss bei **gle
 # Öffentlicher Glaube des Grundbuchs
 
 Zugunsten des im Grundbuch Eingetragenen wird vermutet, dass ihm das Recht zusteht (§ 891). Der gutgläubige Erwerber darf sich auf den Grundbuchinhalt verlassen; zu seinen Gunsten gilt der Inhalt als richtig, soweit kein Widerspruch eingetragen und ihm die Unrichtigkeit nicht bekannt ist (§ 892, öffentlicher Glaube des Grundbuchs).
-
-# Citations
-
-[1] [§ 873 BGB](https://www.gesetze-im-internet.de/bgb/__873.html)
-[2] [§ 925 BGB](https://www.gesetze-im-internet.de/bgb/__925.html)
-[3] [§ 892 BGB](https://www.gesetze-im-internet.de/bgb/__892.html)

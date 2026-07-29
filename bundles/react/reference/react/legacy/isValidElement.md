@@ -4,7 +4,12 @@ title: isValidElement
 description: Legacy API that checks whether a value is a React element. Rarely needed; mostly useful before calling an API that only accepts elements, such as cloneElement.
 resource: https://react.dev/reference/react/isValidElement
 tags: [react, legacy, elements, validation, api]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/isValidElement
+    title: "isValidElement"
 ---
 
 # Legacy notice
@@ -47,6 +52,3 @@ isValidElement({ age: 42 });           // false
 # Related
 
 The values it validates are produced by [createElement](/reference/react/legacy/createElement.md), and the main consumer that requires an element is [cloneElement](/reference/react/legacy/cloneElement.md).
-
-# Citations
-[1] [isValidElement](https://react.dev/reference/react/isValidElement)

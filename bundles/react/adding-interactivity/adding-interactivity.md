@@ -4,7 +4,12 @@ title: Adding Interactivity
 description: Section landing page on writing components that handle interactions, hold state, and render different output over time.
 resource: https://react.dev/learn/adding-interactivity
 tags: [react, state, events, rendering]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/adding-interactivity
+    title: "Adding Interactivity"
 ---
 
 # Summary
@@ -31,7 +36,3 @@ The topic concepts in this folder, in reading order:
 - State behaves like a snapshot: setting it does not change the variable you already have, it triggers a re-render.
 - React batches state updates within an event. Pass an updater function like `setScore(s => s + 1)` to queue multiple updates to the same state.
 - Do not mutate objects or arrays held in state. Create a new copy (often with spread syntax) and pass it to the setter. Libraries like Immer reduce the repetition.
-
-# Citations
-
-[1] [Adding Interactivity](https://react.dev/learn/adding-interactivity)

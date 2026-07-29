@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BNatSchG"
 description: "BGH-Entscheidungen zu BNatSchG, geordnet nach Vorschrift."
 tags: [register, navigation, bnatschg]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

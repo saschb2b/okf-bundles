@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 47/10"
 doknr: "KORE302042011"
 normen: ["§ 313 BGB, § 1578 Abs 1 S 2 BGB vom 02.01.2002, § 1578b BGB, § 323 ZPO vom 05.12.2005, § 36 ZPOEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.11.2011 - XII ZR 47/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Dass der Unterhaltspflichtige mit der Herabsetzung gemäß § 1578 Abs. 1 Satz 2 BGB in der Fassung vom 2. Januar 2002 eines nach altem Recht nicht befristbaren Unterhaltsanspruchs - hier Anspruch auf Altersunterhalt - ausgeschlossen war, steht einer Herabsetzung und/oder Befristung des Unterhalts nach § 1578b BGB nicht entgegen.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:27:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 47/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.11.2011 - XII ZR 47/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

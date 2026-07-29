@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:150524BXIIZB98.24.0"
 doknr: "KORE664322024"
 normen: ["§ 1831 Abs 1 Nr 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 15.05.2024 - XII ZB 98/24 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 1831 Abs 1 Nr 1 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 98/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.05.2024 - XII ZB 98/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

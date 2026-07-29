@@ -9,13 +9,14 @@ datum: 2009-06-23
 aktenzeichen: "XI ZR 9/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:39:53Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:39:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2008/XI_ZR___9-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 23.06.2009 - XI ZR 9/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XI ZR 9/08 vom 23.06.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.06.2009 - XI ZR 9/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2008/XI_ZR___9-08.pdf?__blob=publicationFile&v=1)
-

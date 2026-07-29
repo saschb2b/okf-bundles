@@ -4,7 +4,12 @@ title: Your First Component
 description: How to define and use a React component, a JavaScript function that returns JSX markup.
 resource: https://react.dev/learn/your-first-component
 tags: [react, components, jsx, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/your-first-component
+    title: "Your First Component"
 ---
 
 # Summary
@@ -89,7 +94,3 @@ function Profile() {
 - React lets you create components, reusable UI elements for your app.
 - In a React app, every piece of UI is a component.
 - React components are regular JavaScript functions except that their names always begin with a capital letter and they return JSX markup.
-
-# Citations
-
-[1] [Your First Component](https://react.dev/learn/your-first-component)

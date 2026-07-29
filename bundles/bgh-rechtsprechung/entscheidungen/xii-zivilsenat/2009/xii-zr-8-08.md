@@ -9,13 +9,14 @@ datum: 2009-11-25
 aktenzeichen: "XII ZR 8/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:40:53Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:40:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2008/XII_ZR___8-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 25.11.2009 - XII ZR 8/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZR 8/08 vom 25.11.2009.
-
-# Citations
-
-[1] [BGH, Urteil vom 25.11.2009 - XII ZR 8/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2008/XII_ZR___8-08.pdf?__blob=publicationFile&v=1)
-

@@ -10,8 +10,14 @@ aktenzeichen: "II ZR 4/10"
 doknr: "JURE110019542"
 normen: ["§ 311 Abs 2 BGB, § 705 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:08Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:08Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.09.2011 - II ZR 4/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 311 Abs 2 BGB, § 705 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:08Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZR 4/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.09.2011 - II ZR 4/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

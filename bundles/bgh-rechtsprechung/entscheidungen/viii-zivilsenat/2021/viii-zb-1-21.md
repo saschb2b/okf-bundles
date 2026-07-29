@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:090321BVIIIZB1.21.0"
 doknr: "KORE301072021"
 normen: ["§ 114 ZPO, § 233 ZPO, § 234 Abs 1 ZPO, § 517 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 09.03.2021 - VIII ZB 1/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Beantragt eine Partei vor Ablauf der Rechtsmittel- oder Rechtsmittelbegründungsfrist die Bewilligung von Prozesskostenhilfe, ist sie regelmäßig schuldlos verhindert, die genannten Fristen einzuhalten, wenn sie vernünftigerweise nicht mit der Verweigerung der Prozesskostenhilfe mangels Bedürftigkeit rechnen musste. Die Wiedereinsetzungsfrist (§ 234 Abs. 1 ZPO) beginnt auch dann, wenn das Gericht - wie vorliegend - die Ablehnung der Prozesskostenhilfe nicht auf die fehlende Bedürftigkeit der Partei stützt, sondern die Erfolgsaussichten der beabsichtigten Rechtsverfolgung verneint, grundsätzlich nicht vor der Bekanntgabe der Entscheidung über den Prozesskostenhilfeantrag (im Anschluss an BGH, Beschlüsse vom 9. Januar 1985 - IVb ZB 142/84, juris Rn. 8 f. und vom 9. Juli 2020 - V ZR 30/20, NJW 2021, 242 Rn. 6).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 1/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.03.2021 - VIII ZB 1/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 81/09"
 doknr: "KORE307892010"
 normen: ["§ 1626 BGB, § 1671 BGB, § 1684 BGB, Art 2 GG, Art 6 GG, § 12 FGG, § 50 FGG, § 50b FGG, § 26 FamFG, § 158 FamFG, § 159 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.04.2010 - XII ZB 81/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Beabsichtigt bei gemeinsamer elterlicher Sorge der das Kind betreuende Elternteil, mit dem Kind in ein entferntes Land (hier: Mexiko) auszuwandern, so ist Maßstab der Entscheidung über die Übertragung des
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:29:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 81/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.04.2010 - XII ZB 81/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

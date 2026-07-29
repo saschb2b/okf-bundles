@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 27/11"
 doknr: "JURE120004156"
 normen: ["§ 43b BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.01.2012 - AnwZ (Brfg) 27/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 43b BRAO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:13Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 27/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.01.2012 - AnwZ (Brfg) 27/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

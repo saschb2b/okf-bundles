@@ -5,7 +5,16 @@ description: Durch Testament kann der Erblasser Erben einsetzen; das eigenhändi
 resource: https://www.gesetze-im-internet.de/bgb/__2247.html
 tags: [erbrecht, testament, form, testierfaehigkeit]
 norm: "§§ 1937, 2229, 2247, 2232 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__2247.html
+    title: "§ 2247 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__2229.html
+    title: "§ 2229 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1937.html
+    title: "§ 1937 BGB"
 ---
 
 # Testierfreiheit und Testierfähigkeit
@@ -24,9 +33,3 @@ Der Erblasser kann ein Testament jederzeit widerrufen (§ 2253), durch ein neues
 # Bezug
 
 Setzt das Testament Erben ein oder schließt es Angehörige aus, bleibt diesen der [Pflichtteil](/erbrecht/pflichtteil-2303.md). Die notarielle Beurkundung folgt den Formregeln (siehe [Form](/bgb-at/form.md)).
-
-# Citations
-
-[1] [§ 2247 BGB](https://www.gesetze-im-internet.de/bgb/__2247.html)
-[2] [§ 2229 BGB](https://www.gesetze-im-internet.de/bgb/__2229.html)
-[3] [§ 1937 BGB](https://www.gesetze-im-internet.de/bgb/__1937.html)

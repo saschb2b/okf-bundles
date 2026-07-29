@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:170316BIXARVZ5.15.0"
 doknr: "KORE300552016"
 normen: ["§ 56 Abs 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.03.2016 - IX AR (VZ) 5/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wenn ein Bewerber um die Aufnahme in eine Vorauswahlliste eine Vielzahl von Verfahren beanstandungsfrei geführt hat, kann ihm die generelle fachliche Eignung nicht allein deswegen abgesprochen werden, weil der Insolvenzrichter ihm zwei Fehler nachweisen kann.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX AR (VZ) 5/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.03.2016 - IX AR (VZ) 5/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

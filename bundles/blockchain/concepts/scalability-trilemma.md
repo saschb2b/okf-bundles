@@ -3,7 +3,14 @@ type: Primitive
 title: The scalability trilemma
 description: The claim that a blockchain struggles to maximize decentralization, security, and scalability at once.
 tags: [trilemma, scalability, decentralization, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/developers/docs/scaling/
+    title: "The scalability trilemma (Ethereum.org docs)"
+  - resource: https://vitalik.eth.limo/general/2021/04/07/sharding.html
+    title: "Vitalik Buterin on the trilemma (Ethereum Foundation)"
 ---
 
 # The idea
@@ -22,8 +29,3 @@ The tension: the naive way to scale (bigger [blocks](/concepts/block.md), more c
 - **Ethereum** keeps L1 conservative and scales through [layer-2 rollups](/ethereum/layer-2-rollups.md) that execute off-chain while inheriting L1 security, with [data blobs](/ethereum/layer-2-rollups.md) making that data cheap.
 
 Both, notably, answer the trilemma by moving scale off the base layer rather than enlarging it, a shared strategic conclusion from different starting philosophies. The contrast is drawn out in [PoW vs PoS](/comparison/pow-vs-pos.md) and [design philosophy](/comparison/design-philosophy.md).
-
-# Citations
-
-[1] [The scalability trilemma (Ethereum.org docs)](https://ethereum.org/en/developers/docs/scaling/)
-[2] [Vitalik Buterin on the trilemma (Ethereum Foundation)](https://vitalik.eth.limo/general/2021/04/07/sharding.html)

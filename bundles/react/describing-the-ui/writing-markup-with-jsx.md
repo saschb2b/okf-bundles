@@ -4,7 +4,12 @@ title: Writing Markup with JSX
 description: How to add HTML-like markup to JavaScript with the JSX syntax extension and its three rules.
 resource: https://react.dev/learn/writing-markup-with-jsx
 tags: [react, jsx, markup, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/writing-markup-with-jsx
+    title: "Writing Markup with JSX"
 ---
 
 # Summary
@@ -74,7 +79,3 @@ Converting attributes in existing markup by hand is tedious. Use an HTML-to-JSX 
 - React components group rendering logic with markup because they are related.
 - JSX is similar to HTML with a few differences. You can use a converter if you need to.
 - Error messages will often point you toward fixing your markup.
-
-# Citations
-
-[1] [Writing Markup with JSX](https://react.dev/learn/writing-markup-with-jsx)

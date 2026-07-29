@@ -4,7 +4,12 @@ title: Updating Objects in State
 description: Update an object held in React state by creating a new copy instead of mutating the existing one.
 resource: https://react.dev/learn/updating-objects-in-state
 tags: [react, state, immutability, objects, immer]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/updating-objects-in-state
+    title: "Updating Objects in State"
 ---
 
 # Summary
@@ -98,7 +103,3 @@ updatePerson(draft => {
 - Use `{ ...obj, field: newValue }` spread syntax for shallow updates.
 - Spread at every level to update deeply nested objects.
 - Use Immer for convenient update syntax without manual copying.
-
-# Citations
-
-[1] [Updating Objects in State](https://react.dev/learn/updating-objects-in-state)

@@ -5,7 +5,12 @@ description: Der Geschäftsherr haftet für Schäden seines weisungsabhängigen 
 resource: https://www.gesetze-im-internet.de/bgb/__831.html
 tags: [deliktsrecht, verrichtungsgehilfe, exkulpation, geschaeftsherr]
 norm: "§ 831 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__831.html
+    title: "§ 831 BGB"
 ---
 
 # Regel
@@ -27,7 +32,3 @@ Die Ersatzpflicht tritt **nicht** ein, wenn der Geschäftsherr bei der Auswahl u
 # Abgrenzung zu § 278
 
 Der deliktische § 831 erlaubt die Entlastung (Exkulpation) und setzt kein Schuldverhältnis voraus. Die vertragliche Zurechnungsnorm [§ 278](/schuldrecht-at/vertretenmuessen.md) rechnet das Verschulden des Erfüllungsgehilfen dagegen ohne Entlastungsmöglichkeit zu, setzt aber ein bestehendes Schuldverhältnis voraus.
-
-# Citations
-
-[1] [§ 831 BGB](https://www.gesetze-im-internet.de/bgb/__831.html)

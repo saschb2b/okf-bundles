@@ -4,7 +4,12 @@ title: set-state-in-render
 description: Flags unconditional setState during render, which triggers extra renders and can cause infinite loops.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-render
 tags: [react, eslint, lint, state, render]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-render
+    title: "set-state-in-render"
 ---
 
 # What it flags
@@ -55,7 +60,3 @@ Now the setter only runs in response to the click, render finishes normally, and
 # Related
 
 See [State as a Snapshot](/adding-interactivity/state-as-a-snapshot.md) and [useState](/reference/react/hooks/useState.md) for why setting state straight from render usually signals a design problem.
-
-# Citations
-
-[1] [set-state-in-render](https://react.dev/reference/eslint-plugin-react-hooks/lints/set-state-in-render)

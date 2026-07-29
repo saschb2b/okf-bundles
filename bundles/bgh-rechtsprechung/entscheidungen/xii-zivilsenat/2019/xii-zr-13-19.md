@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:181219UXIIZR13.19.0"
 doknr: "KORE303142020"
 normen: ["§ 305 Abs 2 Nr 1 BGB, § 305 Abs 2 Nr 2 BGB, § 307 Abs 1 S 1 BGB, § 307 Abs 1 S 2 BGB, § 339 BGB, § 535 BGB, § 598 BGB, § 138 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.12.2019 - XII ZR 13/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zwischen dem Betreiber eines privaten Parkplatzes und dem Fahrzeugführer kommt ein Vertrag über die Nutzung eines Fahrzeugabstellplatzes zustande, indem der Fahrzeugführer das als Realofferte in der Bereitstellung des Parkplatzes liegende Angebot durch das Abstellen des Fahrzeugs annimmt (Fortführung von BGH Urteil vom 18. Dezember 2015 - V ZR 160/14, NJW 2016, 863).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:28:01Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 13/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.12.2019 - XII ZR 13/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

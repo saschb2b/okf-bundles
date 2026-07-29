@@ -4,7 +4,12 @@ title: resumeAndPrerender
 description: Continues an aborted prerendered React tree to static HTML via a Web Stream.
 resource: https://react.dev/reference/react-dom/static/resumeAndPrerender
 tags: [react, react-dom, static, ssg, web-streams]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/static/resumeAndPrerender
+    title: "resumeAndPrerender"
 ---
 
 # Reference
@@ -59,7 +64,3 @@ async function handler(request, response) {
 - This API depends on Web Streams. For Node.js, use [resumeAndPrerenderToNodeStream](/reference/react-dom/static/resumeAndPrerenderToNodeStream.md).
 - `nonce` is not an available option when prerendering, since a nonce must be unique per request and would be insecure under CSP if baked into the prerender.
 - Like all prerender APIs, it waits for all data to load before resolving. To stream as content loads, use [renderToReadableStream](/reference/react-dom/server/renderToReadableStream.md).
-
-# Citations
-
-[1] [resumeAndPrerender](https://react.dev/reference/react-dom/static/resumeAndPrerender)

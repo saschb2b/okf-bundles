@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:181017BLWZB1.17.0"
 doknr: "KORE625352017"
 normen: ["§ 2 Abs 1 S 3 LwVfG, § 85 Abs 2  ZPO, § 233 S 2  ZPO, § 234 ZPO, § 511 ZPO, § 517 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:36:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:36:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.10.2017 - LwZB 1/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 2 Abs 1 S 3 LwVfG, § 85 Abs 2  ZPO, § 233 S 2  ZPO, § 234 ZPO, § 511 ZPO, § 517 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:36:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen LwZB 1/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.10.2017 - LwZB 1/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

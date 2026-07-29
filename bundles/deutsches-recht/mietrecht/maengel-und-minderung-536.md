@@ -5,7 +5,14 @@ description: Ein Mangel, der die Tauglichkeit aufhebt oder mindert, setzt die Mi
 resource: https://www.gesetze-im-internet.de/bgb/__536.html
 tags: [mietrecht, mietminderung, mangel, gewaehrleistung]
 norm: "§§ 536, 536a BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__536.html
+    title: "§ 536 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__536a.html
+    title: "§ 536a BGB"
 ---
 
 # Minderung (§ 536)
@@ -24,8 +31,3 @@ Hat die Mietsache einen Mangel, der ihre Tauglichkeit zum vertragsgemäßen Gebr
 # Bezug
 
 Setzt die Erhaltungspflicht aus [§ 535](/mietrecht/mietvertrag-pflichten-535.md) voraus. Ein vertraglicher Ausschluss der Mängelrechte ist nur in engen Grenzen wirksam.
-
-# Citations
-
-[1] [§ 536 BGB](https://www.gesetze-im-internet.de/bgb/__536.html)
-[2] [§ 536a BGB](https://www.gesetze-im-internet.de/bgb/__536a.html)

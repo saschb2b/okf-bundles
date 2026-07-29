@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:161116BVIIZR23.14.0"
 doknr: "JURE160020306"
 normen: ["§ 280 BGB, § 281 BGB, § 634 Nr 4 BGB, Art 103 Abs 1 GG, § 412 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.11.2016 - VII ZR 23/14 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 280 BGB, § 281 BGB, § 634 Nr 4 BGB, Art 103 Abs 1 GG, § 412 Abs 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 23/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.11.2016 - VII ZR 23/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

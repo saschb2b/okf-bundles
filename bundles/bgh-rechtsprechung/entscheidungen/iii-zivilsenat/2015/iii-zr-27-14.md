@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2015:101215IIIZR27.14.0"
 doknr: "KORE307542016"
 normen: ["§ 254 Abs 1 BGB, § 839 BGB, § 3 Abs 3 VermG, § 3 Abs 5 VermG, § 31 Abs 2 S 1 VermG, Art 34 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.12.2015 - III ZR 27/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ob ein (rechtswidriger) begünstigender Verwaltungsakt haftungsrechtlich schutzwürdiges Vertrauen begründet oder ob einer entsprechenden Vertrauensgrundlage objektive Umstände oder subjektive Kenntnisse beziehungsweise sich aufdrängende Erkenntnismöglichkeiten des Empfängers entgegenstehen, ist nicht erst eine Frage des mitwirkenden Verschuldens im Sinne des § 254 BGB, sondern bereits eine solche der objektiven Reichweite des dem Betroffenen durch das Amtshaftungsrecht gewährten Vermögensschutzes.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 27/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.12.2015 - III ZR 27/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:170517UVIIIZR245.15.0"
 doknr: "KORE301442017"
 normen: ["Art 3 Abs 1 GG, § 315 BGB, § 433 Abs 2 BGB, § 2 AVBWasserV, § 4 Abs 2 AVBWasserV, § 6 Abs 1 KAG BB, § 6 Abs 4 KAG BB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.05.2017 - VIII ZR 245/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Wasserversorgungsunternehmen, das in seinem Versorgungsgebiet die Anschlussnehmer auf privatrechtlicher Grundlage versorgt, kann bei seiner Tarifgestaltung für die Lieferung von Trinkwasser neben verbrauchsabhängigen Entgelten zugleich verbrauchsunabhängige Grundpreise zur Abgeltung der durch das Bereitstellen und ständige Vorhalten der Versorgungseinrichtungen entstehenden verbrauchsunabhängigen Betriebskosten in Ansatz bringen (Bestätigung der Senatsurteile vom 20. Mai 2015, VIII ZR 136/14, NVwZ-RR 2015, 722 unter II 1 und 2, und VIII ZR 164/14, juris Rn. 15 f.; vom 8. Juli 2015, VIII ZR 106/14, NJW 2015, 3564 Rn. 22 f.).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 245/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.05.2017 - VIII ZR 245/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

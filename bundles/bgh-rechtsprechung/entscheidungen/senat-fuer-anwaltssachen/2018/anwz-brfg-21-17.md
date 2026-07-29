@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:120318BANWZ.BRFG.21.17.0"
 doknr: "KORE621252018"
 normen: ["§ 46 BRAO, § 46a BRAO, § 112c Abs 1 S 1 BRAO, § 108 Abs 1  VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.03.2018 - AnwZ (Brfg) 21/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 46 BRAO, § 46a BRAO, § 112c Abs 1 S 1 BRAO, § 108 Abs 1  VwGO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 21/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.03.2018 - AnwZ (Brfg) 21/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

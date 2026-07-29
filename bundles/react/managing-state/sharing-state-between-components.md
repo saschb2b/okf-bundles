@@ -4,7 +4,12 @@ title: Sharing State Between Components
 description: Lift state up to a common parent so two components change together, and understand controlled vs uncontrolled components and single source of truth.
 resource: https://react.dev/learn/sharing-state-between-components
 tags: [react, state, lifting-state, props]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/sharing-state-between-components
+    title: "Sharing State Between Components"
 ---
 
 # Summary
@@ -91,7 +96,3 @@ For each unique piece of state, choose the one component that owns it. This is t
 - Pass the information down through props from the common parent.
 - Pass event handlers down so the children can change the parent's state.
 - It is useful to consider components as controlled (driven by props) or uncontrolled (driven by state).
-
-# Citations
-
-[1] [Sharing State Between Components](https://react.dev/learn/sharing-state-between-components)

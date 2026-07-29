@@ -4,7 +4,12 @@ title: useActionState
 description: React Hook that updates state with the result of an Action, exposing the current state, a dispatch function, and a pending flag.
 resource: https://react.dev/reference/react/useActionState
 tags: [react, hook, actions, forms, state]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useActionState
+    title: "useActionState"
 ---
 
 # Reference
@@ -73,7 +78,3 @@ An array with exactly three values:
 - React queues multiple dispatched actions and runs them sequentially, each receiving the result of the previous one. If multiple actions are ongoing, React batches them.
 - If you set state after an `await` inside the action, wrap that state update in an additional `startTransition`.
 - The `permalink` requires that the same form component is rendered on the destination page.
-
-# Citations
-
-[1] [useActionState](https://react.dev/reference/react/useActionState)

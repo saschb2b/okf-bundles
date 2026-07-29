@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 46/13"
 doknr: "KORE305612014"
 normen: ["§ 433 BGB, § 434 BGB, § 651 S 1 BGB, § 278 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 02.04.2014 - VIII ZR 46/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Abgrenzung von Kaufvertrag und Werklieferungsvertrag (hier: Lieferung von Aluminium-Profilleisten in einem bestimmten Farbton durch einen Fachgroßhändler für Baubedarf).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 46/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 02.04.2014 - VIII ZR 46/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

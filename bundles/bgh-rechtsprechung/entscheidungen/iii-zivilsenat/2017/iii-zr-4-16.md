@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:120117UIIIZR4.16.0"
 doknr: "KORE300342017"
 normen: ["§ 280 Abs 1 BGB, § 611 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.01.2017 - III ZR 4/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Einordnung eines Vertrags über den "Vollberitt" eines Pferdes als Dienstvertrag.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 4/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.01.2017 - III ZR 4/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

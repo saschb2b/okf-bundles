@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:010420UVIIIZR18.19.0"
 doknr: "KORE300762020"
 normen: ["§ 133 BGB, § 157 BGB, § 433 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.04.2020 - VIII ZR 18/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Amazon A-bis-z Garantie
@@ -28,8 +34,3 @@ Amazon A-bis-z Garantie
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 18/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.04.2020 - VIII ZR 18/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

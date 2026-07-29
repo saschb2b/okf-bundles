@@ -9,13 +9,14 @@ datum: 2006-09-13
 aktenzeichen: "XII ZB 70/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:32:14Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:32:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2001/XII_ZB__70-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 13.09.2006 - XII ZB 70/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 70/01 vom 13.09.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.09.2006 - XII ZB 70/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2001/XII_ZB__70-01.pdf?__blob=publicationFile&v=1)
-

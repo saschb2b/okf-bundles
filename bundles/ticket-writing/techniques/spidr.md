@@ -4,7 +4,12 @@ title: SPIDR
 description: "Mike Cohn's five patterns for splitting a user story into vertical slices: Spike, Paths, Interfaces, Data, Rules."
 resource: https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories
 tags: [slicing, story-splitting]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories
+    title: "SPIDR: Five Simple but Powerful Ways to Split User Stories (Mike Cohn)"
 ---
 
 # Definition
@@ -24,7 +29,3 @@ Pay for one item by credit card end to end (happy path), then add PayPal (Paths)
 # Related
 
 A toolkit for [vertical slicing](/techniques/vertical-slicing.md); complements the [story-splitting patterns](/techniques/story-splitting-patterns.md). See the [reference](/references/spidr-cohn.md).
-
-# Citations
-
-[1] [SPIDR: Five Simple but Powerful Ways to Split User Stories (Mike Cohn)](https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories)

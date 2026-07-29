@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 74/11"
 doknr: "KORE304362011"
 normen: ["§ 566 Abs 1 BGB, § 573 Abs 2 Nr 2  BGB, § 577a BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.11.2011 - VIII ZR 74/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird eine Gesellschaft bürgerlichen Rechts, die Eigentümerin eines Mehrfamilienhauses und Vermieterin der Wohnungen dieses Anwesens ist, unter Bildung von Wohnungseigentum und Eintragung der einzelnen Gesellschafter als Eigentümer der jeweils zugewiesenen Wohnungen auseinandergesetzt, tritt der neue Eigentümer in die sich während der Dauer seines Eigentums aus dem Mietverhältnis ergebenden Rechte und Pflichten ein.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 74/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.11.2011 - VIII ZR 74/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

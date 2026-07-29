@@ -4,7 +4,14 @@ title: "Trennungs- und Abstraktionsprinzip"
 description: Das Verpflichtungsgeschäft (etwa der Kaufvertrag) und das Verfügungsgeschäft (etwa die Übereignung) sind getrennte Rechtsgeschäfte, und die Verfügung ist in ihrer Wirksamkeit vom Verpflichtungsgeschäft unabhängig.
 tags: [sachenrecht, abstraktionsprinzip, trennungsprinzip, verfuegung]
 norm: "§§ 433, 929 BGB (Dogmatik)"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__929.html
+    title: "§ 929 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__812.html
+    title: "§ 812 BGB"
 ---
 
 # Trennungsprinzip
@@ -21,8 +28,3 @@ Das Verfügungsgeschäft ist in seiner Wirksamkeit **unabhängig (abstrakt)** vo
 # Sinn und Grenze
 
 Der Zweck ist der **Verkehrsschutz**: Der Bestand dinglicher Rechte hängt nicht von verborgenen Mängeln des Grundgeschäfts ab. Eine Grenze ist die **Fehleridentität**: Ein Mangel, der beide Geschäfte zugleich erfasst (Geschäftsunfähigkeit, Sittenwidrigkeit nach § 138, Verstoß gegen ein Verbotsgesetz nach § 134), macht auch die Verfügung unwirksam.
-
-# Citations
-
-[1] [§ 929 BGB](https://www.gesetze-im-internet.de/bgb/__929.html)
-[2] [§ 812 BGB](https://www.gesetze-im-internet.de/bgb/__812.html)

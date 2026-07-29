@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:200116UVIIIZR26.15.0"
 doknr: "KORE307672016"
 normen: ["§ 305 Abs 1 S 1 BGB, § 307 Abs 1 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.01.2016 - VIII ZR 26/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Stellen von Vertragsbedingungen liegt nicht vor, wenn die Einbeziehung vorformulierter Vertragsbedingungen in einen Vertrag auf einer freien Entscheidung desjenigen beruht, der vom anderen Vertragsteil mit dem Verwendungsvorschlag konfrontiert wird. Dazu ist es erforderlich, dass er in der Auswahl der in Betracht kommenden Vertragstexte frei ist und insbesondere Gelegenheit erhält, alternativ eigene Textvorschläge mit der effektiven Möglichkeit ihrer Durchsetzung in die Verhandlungen einzubringen (Bestätigung von BGH, Urteil vom 17. Februar 2010, VIII ZR 67/09, BGHZ 184, 259). Danach entfällt ein Stellen von Vertragsbedingungen nicht bereits dann, wenn die vorformulierten Vertragsbedingungen dem anderen Vertragsteil mit der Bitte übersandt werden, Anmerkungen oder Änderungswünsche mitzuteilen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 26/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.01.2016 - VIII ZR 26/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

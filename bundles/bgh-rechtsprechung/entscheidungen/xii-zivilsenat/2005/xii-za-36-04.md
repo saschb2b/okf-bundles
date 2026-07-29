@@ -9,13 +9,14 @@ datum: 2005-06-29
 aktenzeichen: "XII ZA 36/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:28:48Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:28:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2004/XII_ZA__36-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 29.06.2005 - XII ZA 36/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZA 36/04 vom 29.06.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.06.2005 - XII ZA 36/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2004/XII_ZA__36-04.pdf?__blob=publicationFile&v=1)
-

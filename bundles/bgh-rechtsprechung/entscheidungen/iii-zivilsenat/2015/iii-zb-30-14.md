@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 30/14"
 doknr: "JURE150004389"
 normen: ["§ 520 Abs 3 S 2 Nr 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.02.2015 - III ZB 30/14 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 520 Abs 3 S 2 Nr 2 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 30/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.02.2015 - III ZB 30/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

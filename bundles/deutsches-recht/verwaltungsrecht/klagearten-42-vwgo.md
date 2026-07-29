@@ -5,7 +5,14 @@ description: Gegen einen Verwaltungsakt richtet sich die Anfechtungsklage, auf s
 resource: https://www.gesetze-im-internet.de/vwgo/__42.html
 tags: [verwaltungsrecht, vwgo, anfechtungsklage, verpflichtungsklage, klagebefugnis]
 norm: "§§ 42, 113 VwGO"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/vwgo/__42.html
+    title: "§ 42 VwGO"
+  - resource: https://www.gesetze-im-internet.de/vwgo/__113.html
+    title: "§ 113 VwGO"
 ---
 
 # Klagearten (§ 42 Abs. 1)
@@ -22,8 +29,3 @@ Die Klage ist nur zulässig, wenn der Kläger geltend macht, durch den Verwaltun
 # Begründetheit (§ 113)
 
 Die Anfechtungsklage ist begründet, soweit der Verwaltungsakt **rechtswidrig** und der Kläger dadurch in seinen Rechten **verletzt** ist; das Gericht hebt ihn dann auf (§ 113 Abs. 1). Bei der Verpflichtungsklage spricht das Gericht die Verpflichtung aus, wenn die Sache spruchreif ist, sonst die Verpflichtung zur Neubescheidung (§ 113 Abs. 5).
-
-# Citations
-
-[1] [§ 42 VwGO](https://www.gesetze-im-internet.de/vwgo/__42.html)
-[2] [§ 113 VwGO](https://www.gesetze-im-internet.de/vwgo/__113.html)

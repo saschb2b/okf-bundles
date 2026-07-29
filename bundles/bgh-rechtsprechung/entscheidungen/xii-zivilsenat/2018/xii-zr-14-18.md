@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:191218UXIIZR14.18.0"
 doknr: "KORE303652019"
 normen: ["§ 535 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:18Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:18Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.12.2018 - XII ZR 14/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Auf einen Vertrag über die Anbringung von Werbung auf mobilen Werbeflächen gegen Entgelt sind die Vorschriften über den Mietvertrag anzuwenden (im Anschluss an Senatsurteil vom 7. November 2018, XII ZR 109/17, juris).
@@ -24,8 +30,3 @@ Auf einen Vertrag über die Anbringung von Werbung auf mobilen Werbeflächen geg
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 14/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.12.2018 - XII ZR 14/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

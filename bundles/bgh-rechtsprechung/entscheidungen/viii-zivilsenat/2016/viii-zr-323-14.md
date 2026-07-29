@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:270416UVIIIZR323.14.0"
 doknr: "KORE300692016"
 normen: ["§ 464 BGB, § 472 BGB, § 535 Abs 1 S 2 BGB, § 545 BGB, § 566 BGB, § 577 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.04.2016 - VIII ZR 323/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Mietverhältnis kann nicht wirksam entstehen, wenn auf Gebrauchsnutzerseite eine Person beteiligt ist, die zugleich Vermieterstellung einnimmt, und es erlischt durch Konfusion, wenn der Mieter nachträglich das mit dem Recht zur Gebrauchsnutzung verbundene Eigentum an der Mietsache erwirbt.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 323/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.04.2016 - VIII ZR 323/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

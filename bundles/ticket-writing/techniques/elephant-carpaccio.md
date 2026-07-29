@@ -4,7 +4,12 @@ title: Elephant Carpaccio
 description: A team exercise (Cockburn and Kniberg) for practicing breaking a feature into many extremely thin vertical slices, each independently demonstrable.
 resource: https://blog.crisp.se/2013/07/25/henrikkniberg/elephant-carpaccio-facilitation-guide
 tags: [practice, slicing, workshop]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://blog.crisp.se/2013/07/25/henrikkniberg/elephant-carpaccio-facilitation-guide
+    title: "Elephant Carpaccio Facilitation Guide (Henrik Kniberg, Crisp)"
 ---
 
 # What it is
@@ -18,7 +23,3 @@ Cockburn notes the name is backwards. You are not carving slices off a finished 
 # Use it to
 
 Build the team muscle for [vertical slicing](/techniques/vertical-slicing.md).
-
-# Citations
-
-[1] [Elephant Carpaccio Facilitation Guide (Henrik Kniberg, Crisp)](https://blog.crisp.se/2013/07/25/henrikkniberg/elephant-carpaccio-facilitation-guide)

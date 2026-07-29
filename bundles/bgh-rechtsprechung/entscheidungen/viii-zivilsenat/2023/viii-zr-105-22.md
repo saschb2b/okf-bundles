@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:210623UVIIIZR105.22.0"
 doknr: "KORE310952023"
 normen: ["§ 439 Abs 3 BGB vom 28.04.2017"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.06.2023 - VIII ZR 105/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Anwendungsbereich des Aufwendungsersatzanspruchs gemäß § 439 Abs. 3 BGB ist unter dem Gesichtspunkt des Einbaus der mangelhaften Kaufsache in eine andere Sache auch dann eröffnet, wenn sich ein Sachmangel der Kaufsache bereits im Rahmen eines - ihrer Art und ihrem Verwendungszweck entsprechenden - Vorfertigungsprozesses zeigt und es deshalb nicht mehr zum Abschluss des Einbauvorgangs kommt.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 105/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.06.2023 - VIII ZR 105/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

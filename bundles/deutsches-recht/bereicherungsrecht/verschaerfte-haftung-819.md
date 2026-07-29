@@ -5,7 +5,14 @@ description: Kennt der Empfänger den fehlenden Rechtsgrund oder wird der Anspru
 resource: https://www.gesetze-im-internet.de/bgb/__819.html
 tags: [bereicherungsrecht, boesglaeubigkeit, verschaerfte-haftung]
 norm: "§§ 818 Abs. 4, 819 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__818.html
+    title: "§ 818 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__819.html
+    title: "§ 819 BGB"
 ---
 
 # Regel
@@ -18,8 +25,3 @@ Das Entreicherungsprivileg des [§ 818 Abs. 3](/bereicherungsrecht/umfang-818.md
 # Folge
 
 Nach den allgemeinen Vorschriften (Verweis über §§ 818 Abs. 4, 819 auf §§ 292, 989, 987) haftet der Empfänger insbesondere auf Schadensersatz und Nutzungsherausgabe und kann sich **nicht mehr** auf den Wegfall der Bereicherung berufen. Wer also bei Empfang wusste, dass er ohne Grund erlangt, trägt das Risiko des späteren Untergangs.
-
-# Citations
-
-[1] [§ 818 BGB](https://www.gesetze-im-internet.de/bgb/__818.html)
-[2] [§ 819 BGB](https://www.gesetze-im-internet.de/bgb/__819.html)

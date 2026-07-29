@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 1/15"
 doknr: "KORE301462015"
 normen: ["§ 134 BGB, § 1360a Abs 3 BGB, § 1361 Abs 4 BGB, § 1614 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.09.2015 - XII ZB 1/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Beurteilung, ob eine unzulässige Unterschreitung des angemessenen Unterhalts und damit ein nach § 134 BGB unwirksamer Verzicht auf künftigen Trennungsunterhalt vorliegt, setzt voraus, dass zunächst die Höhe dieses angemessenen Unterhaltsanspruchs im hierfür erforderlichen Umfang festgestellt worden ist.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 1/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.09.2015 - XII ZB 1/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

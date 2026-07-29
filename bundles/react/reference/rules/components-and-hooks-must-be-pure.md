@@ -4,7 +4,12 @@ title: Components and Hooks must be pure
 description: Components and Hooks must be pure functions so React can re-run, pause, and optimize render safely.
 resource: https://react.dev/reference/rules/components-and-hooks-must-be-pure
 tags: [react, rules, purity, render, hooks]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/rules/components-and-hooks-must-be-pure
+    title: "Components and Hooks must be pure"
 ---
 
 # Summary
@@ -119,7 +124,3 @@ function Page({ colour }) {
 - Hooks have placement restrictions: see [Rules of Hooks](/reference/rules/rules-of-hooks.md).
 - The conceptual introduction to purity is [Keeping Components Pure](/describing-the-ui/keeping-components-pure.md).
 - The lint that enforces purity at the call site is [rules-of-hooks](/reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md).
-
-# Citations
-
-[1] [Components and Hooks must be pure](https://react.dev/reference/rules/components-and-hooks-must-be-pure)

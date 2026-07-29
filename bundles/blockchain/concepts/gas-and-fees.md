@@ -3,7 +3,14 @@ type: Primitive
 title: Gas and transaction fees
 description: The pricing of scarce block space and computation, which funds security and resists spam.
 tags: [gas, fees, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://en.bitcoin.it/wiki/Transaction_fees
+    title: "Transaction fees (Bitcoin Wiki)"
+  - resource: https://ethereum.org/en/developers/docs/gas/
+    title: "Gas and fees (Ethereum.org docs)"
 ---
 
 # Why fees exist
@@ -18,8 +25,3 @@ Block space is scarce and computation is unbounded, so every chain charges for i
 # Why it matters
 
 Fee design shapes user experience and economics: Bitcoin prices bytes, Ethereum prices computation, and the fee market is also where [MEV](/concepts/mempool.md) lives on programmable chains. Fees are the long-run replacement for issuance in both [monetary policies](/concepts/native-token.md).
-
-# Citations
-
-[1] [Transaction fees (Bitcoin Wiki)](https://en.bitcoin.it/wiki/Transaction_fees)
-[2] [Gas and fees (Ethereum.org docs)](https://ethereum.org/en/developers/docs/gas/)

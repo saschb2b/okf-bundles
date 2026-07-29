@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:050319BVIIIZR190.18.0"
 doknr: "KORE312582019"
 normen: ["§ 297 Abs 2 ZPO, § 321 Abs 1 ZPO, Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:21Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:21Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.03.2019 - VIII ZR 190/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Nimmt eine Partei ausdrücklich auf die Klageschrift Bezug, sind sämtliche darin angekündigten Anträge gemäß § 297 Abs. 2 ZPO gestellt. Etwas anderes gilt nur dann, wenn sich aus dem Verhandlungsprotokoll unmissverständlich ergibt, dass die Partei nur auf einen Teil der angekündigten Anträge Bezug genommen hat.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:21Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 190/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.03.2019 - VIII ZR 190/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

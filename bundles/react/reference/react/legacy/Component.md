@@ -4,7 +4,12 @@ title: Component
 description: Legacy base class for class components. Class components are still supported but not recommended in new code. Prefer function components with Hooks (useState, useEffect, useContext).
 resource: https://react.dev/reference/react/Component
 tags: [react, legacy, class-components, lifecycle, api]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/Component
+    title: "Component"
 ---
 
 # Legacy notice
@@ -110,6 +115,3 @@ function Greeting({ name }) { return <h1>Hello, {name}!</h1>; }
 ```
 
 The shallow-comparing subclass is [PureComponent](/reference/react/legacy/PureComponent.md). For refs in class components, see [createRef](/reference/react/legacy/createRef.md).
-
-# Citations
-[1] [Component](https://react.dev/reference/react/Component)

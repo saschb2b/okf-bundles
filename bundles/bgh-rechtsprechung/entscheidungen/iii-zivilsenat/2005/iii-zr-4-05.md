@@ -9,13 +9,14 @@ datum: 2005-11-24
 aktenzeichen: "III ZR 4/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:29:43Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:29:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2005/III_ZR___4-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 24.11.2005 - III ZR 4/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 4/05 vom 24.11.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.11.2005 - III ZR 4/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2005/III_ZR___4-05.pdf?__blob=publicationFile&v=1)
-

@@ -5,7 +5,14 @@ description: Strafbar ist nur vorsätzliches Handeln, sofern nicht Fahrlässigke
 resource: https://www.gesetze-im-internet.de/stgb/__15.html
 tags: [strafrecht-at, vorsatz, fahrlaessigkeit, tatbestandsirrtum]
 norm: "§§ 15, 16 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__15.html
+    title: "§ 15 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__16.html
+    title: "§ 16 StGB"
 ---
 
 # Vorsatzerfordernis (§ 15)
@@ -21,8 +28,3 @@ Strafbar ist nur **vorsätzliches** Handeln, wenn nicht das Gesetz fahrlässiges
 Wer bei Begehung der Tat einen Umstand nicht kennt, der zum gesetzlichen Tatbestand gehört, handelt **nicht vorsätzlich** (§ 16 Abs. 1 Satz 1). Eine Strafbarkeit wegen fahrlässiger Begehung bleibt möglich, soweit das Gesetz sie vorsieht (Satz 2).
 
 Vom Tatbestandsirrtum zu trennen ist der [Verbotsirrtum (§ 17)](/strafrecht-at/schuld-17-19-20.md): Dort kennt der Täter die Umstände, hält sein Tun aber für erlaubt; dieser Irrtum betrifft die Schuld, nicht den Vorsatz.
-
-# Citations
-
-[1] [§ 15 StGB](https://www.gesetze-im-internet.de/stgb/__15.html)
-[2] [§ 16 StGB](https://www.gesetze-im-internet.de/stgb/__16.html)

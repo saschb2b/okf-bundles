@@ -4,7 +4,12 @@ title: experimental_taintUniqueValue
 description: Prevents unique values like passwords, keys, or tokens from being passed to Client Components.
 resource: https://react.dev/reference/react/experimental_taintUniqueValue
 tags: [react, server-components, security, tainting]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/experimental_taintUniqueValue
+    title: "experimental_taintUniqueValue"
 ---
 
 # Reference
@@ -59,6 +64,3 @@ export async function getUser(id) {
 - Deriving new values from tainted values can break protection. Uppercasing, concatenating, base64-encoding, or substringing a tainted value produces an untainted value unless you call `taintUniqueValue` on it too.
 - Do not use it for low-entropy values such as PIN codes or phone numbers. An attacker controlling request values could enumerate possibilities to infer the tainted value.
 - Do not rely solely on tainting for security. Mistakes like using a global store outside React without the right lifetime object can untaint the value. Tainting is one layer among several in a secure app.
-
-# Citations
-[1] [experimental_taintUniqueValue](https://react.dev/reference/react/experimental_taintUniqueValue)

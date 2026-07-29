@@ -4,7 +4,12 @@ title: <script>
 description: The built-in browser script component for inline and external scripts, with React's head-hoisting and deduplication for async external scripts.
 resource: https://react.dev/reference/react-dom/components/script
 tags: [react, react-dom, scripts, resources, head]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/script
+    title: "<script>"
 ---
 
 # Reference
@@ -50,7 +55,3 @@ React can move `<script>` to the `<head>` and deduplicate identical scripts. To 
 
 - With the special treatment, React ignores prop changes after render (warns in development).
 - React may leave the script in the DOM after the rendering component unmounts (harmless, since scripts run once on insertion).
-
-# Citations
-
-[1] [<script>](https://react.dev/reference/react-dom/components/script)

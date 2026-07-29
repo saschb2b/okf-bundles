@@ -9,13 +9,14 @@ datum: 2000-07-05
 aktenzeichen: "RiZ (R) 3/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:17:03Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:17:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/DienstG/1999/RiZ_R___3-99A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.07.2000 - RiZ (R) 3/99 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: RiZ (R) 3/99 vom 05.07.2000.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.07.2000 - RiZ (R) 3/99 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/DienstG/1999/RiZ_R___3-99A.pdf?__blob=publicationFile&v=1)
-

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 92/15"
 doknr: "KORE301142015"
 normen: ["§ 1903 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.07.2015 - XII ZB 92/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Anordnung eines Einwilligungsvorbehalts für Vermögensangelegenheiten bei einem vermögenden Betroffenen.
@@ -23,8 +29,3 @@ Zur Anordnung eines Einwilligungsvorbehalts für Vermögensangelegenheiten bei e
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 92/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.07.2015 - XII ZB 92/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

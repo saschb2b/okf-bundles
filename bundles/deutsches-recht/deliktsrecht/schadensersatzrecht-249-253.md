@@ -5,7 +5,16 @@ description: Schadensersatz bedeutet vorrangig Naturalrestitution; ist sie unmö
 resource: https://www.gesetze-im-internet.de/bgb/__249.html
 tags: [schadensrecht, naturalrestitution, schmerzensgeld, schadensberechnung]
 norm: "§§ 249 bis 253 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__249.html
+    title: "§ 249 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__251.html
+    title: "§ 251 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__253.html
+    title: "§ 253 BGB"
 ---
 
 # Regel
@@ -30,9 +39,3 @@ Wegen eines Schadens, der nicht Vermögensschaden ist, kann Geld nur in den durc
 # Bezug
 
 Der Anspruch wird um ein [Mitverschulden](/deliktsrecht/mitverschulden-254.md) des Geschädigten gekürzt.
-
-# Citations
-
-[1] [§ 249 BGB](https://www.gesetze-im-internet.de/bgb/__249.html)
-[2] [§ 251 BGB](https://www.gesetze-im-internet.de/bgb/__251.html)
-[3] [§ 253 BGB](https://www.gesetze-im-internet.de/bgb/__253.html)

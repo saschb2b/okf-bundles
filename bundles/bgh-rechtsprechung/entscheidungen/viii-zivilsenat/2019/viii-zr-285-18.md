@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:271119UVIIIZR285.18.0"
 doknr: "KORE313462019"
 normen: ["§ 134 BGB, § 398 BGB, § 556d Abs 1 BGB, § 556g Abs 1 S 3 BGB vom 21.04.2015, § 556g Abs 2 BGB vom 21.04.2015, § 556g Abs 3 S 1 BGB vom 21.04.2015, § 1 Abs 1 S 2 RDG, § 2 Abs 2 S 1 RDG, § 3 RDG, § 4 RDG, § 10 Abs 1 S 1 Nr 1 RDG, § 4 Abs 1 S 1 RDGEG, § 4 Abs 2 S 1 RDGEG, § 4 Abs 2 S 2 RDGEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.11.2019 - VIII ZR 285/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Begriff der Rechtsdienstleistung in Gestalt der Inkassodienstleistung (Forderungseinziehung) gemäß § 2 Abs. 2 Satz 1 RDG, die ein im Rechtsdienstleistungsregister eingetragener Inkassodienstleister nach § 10 Abs. 1 Satz 1 Nr. 1 RDG erbringen darf, ist unter Berücksichtigung der vom Gesetzgeber mit dem Rechtsdienstleistungsgesetz - in Anknüpfung an die Rechtsprechung des Bundesverfassungsgerichts - verfolgten Zielsetzung einer grundlegenden, an den Gesichtspunkten der Deregulierung und Liberalisierung ausgerichteten, die Entwicklung neuer Berufsbilder erlaubenden Neugestaltung des Rechts der außergerichtlichen Rechtsdienstleistungen nicht in einem zu engen Sinne zu verstehen. Vielmehr ist - innerhalb des mit diesem Gesetz verfolgten Schutzzwecks, die Rechtsuchenden, den Rechtsverkehr und die Rechtsordnung vor unqualifizierten Rechtsdienstleistungen zu schützen (§ 1 Abs. 1 Satz 2 RDG) - eine eher großzügige Betrachtung geboten (im Anschluss an BVerfG, Beschluss vom 20. Februar 2002 - 1 BvR 423/99, NJW 2002, 1190 und BVerfG, Beschluss vom 14. August 2004 - 1 BvR 725/03, NJW-RR 2004, 1570 [jeweils zum RBerG]).
@@ -34,8 +40,3 @@ timestamp: 2026-06-22T12:31:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 285/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.11.2019 - VIII ZR 285/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

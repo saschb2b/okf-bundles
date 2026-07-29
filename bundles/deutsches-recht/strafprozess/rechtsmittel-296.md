@@ -5,7 +5,20 @@ description: Gegen Urteile stehen Berufung (neue Tatsacheninstanz) und Revision 
 resource: https://www.gesetze-im-internet.de/stpo/__296.html
 tags: [strafprozess, rechtsmittel, berufung, revision, beschwerde, verschlechterungsverbot]
 norm: "§§ 296, 304, 312, 333, 337, 331, 358 StPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stpo/__296.html
+    title: "§ 296 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__312.html
+    title: "§ 312 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__337.html
+    title: "§ 337 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__304.html
+    title: "§ 304 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__331.html
+    title: "§ 331 StPO"
 ---
 
 # Rechtsmittelberechtigte (§ 296)
@@ -31,11 +44,3 @@ Wird ein Rechtsmittel **allein vom Angeklagten oder zu seinen Gunsten** eingeleg
 # Bezug
 
 Rechtsmittel setzen ein Urteil aus der [Beweisaufnahme](/strafprozess/beweisaufnahme-und-wuerdigung-244-261.md) voraus. Erst mit Ablauf der Rechtsmittelfristen oder Erschöpfung der Instanzen wird das Urteil rechtskräftig; danach schützt das Verbot der Doppelbestrafung (Art. 103 Abs. 3 GG) vor erneuter Verfolgung derselben Tat.
-
-# Citations
-
-[1] [§ 296 StPO](https://www.gesetze-im-internet.de/stpo/__296.html)
-[2] [§ 312 StPO](https://www.gesetze-im-internet.de/stpo/__312.html)
-[3] [§ 337 StPO](https://www.gesetze-im-internet.de/stpo/__337.html)
-[4] [§ 304 StPO](https://www.gesetze-im-internet.de/stpo/__304.html)
-[5] [§ 331 StPO](https://www.gesetze-im-internet.de/stpo/__331.html)

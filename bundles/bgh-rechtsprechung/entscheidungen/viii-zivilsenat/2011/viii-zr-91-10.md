@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 91/10"
 doknr: "KORE301042011"
 normen: ["§ 199 BGB, § 543 BGB, § 551 BGB, § 569 Abs 3 BGB, § 812 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.06.2011 - VIII ZR 91/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur fristlosen Kündigung wegen fortdauernder unpünktlicher Mietzahlungen .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 91/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.06.2011 - VIII ZR 91/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

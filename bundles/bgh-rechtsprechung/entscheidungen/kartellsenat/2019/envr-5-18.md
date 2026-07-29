@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:090719BENVR5.18.0"
 doknr: "KORE308702019"
 normen: ["§ 75 Abs 2 EnWG, § 7 Abs 6 StromNEV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 09.07.2019 - EnVR 5/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Lichtblick
@@ -26,8 +32,3 @@ Lichtblick
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 5/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.07.2019 - EnVR 5/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

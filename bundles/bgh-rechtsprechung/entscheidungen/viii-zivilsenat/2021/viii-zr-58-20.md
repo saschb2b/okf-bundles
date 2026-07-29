@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:130121UVIIIZR58.20.0"
 doknr: "KORE634232021"
 normen: ["§ 133 BGB, § 157 BGB, § 549 Abs 1 BGB, § 565 BGB, § 578 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.01.2021 - VIII ZR 58/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 133 BGB, § 157 BGB, § 549 Abs 1 BGB, § 565 BGB, § 578 Abs 2 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 58/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.01.2021 - VIII ZR 58/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

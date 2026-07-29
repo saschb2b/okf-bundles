@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 70/08"
 doknr: "KORE310282012"
 normen: ["§ 439 Abs 1 Alt 2 BGB, § 439 Abs 3 S 3 BGB, § 474 Abs 1 S 1 BGB, Art 3 EGRL 44/99"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.12.2011 - VIII ZR 70/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 439 Abs. 1 Alt. 2 BGB ist richtlinienkonform dahin auszulegen, dass die dort genannte Nacherfüllungsvariante "Lieferung einer mangelfreien Sache" auch den Ausbau und den Abtransport der mangelhaften Kaufsache erfasst (im Anschluss an EuGH, Urteil vom 16. Juni 2011 - Rechtssachen C-65/09 und C-87/09, NJW 2011, 2269 - Gebr. Weber GmbH/Jürgen Wittmer und Ingrid Putz/Medianess Electronics GmbH).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 70/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.12.2011 - VIII ZR 70/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

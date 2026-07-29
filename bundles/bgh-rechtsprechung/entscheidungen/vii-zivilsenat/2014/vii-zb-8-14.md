@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 8/14"
 doknr: "KORE301202014"
 normen: ["§ 10 Abs 6 S 3 WoEigG, Teil 3 Vorbem 3 Abs 5 RVG-VV, § 91 Abs 2 S 2 ZPO, § 104 ZPO, § 485 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.08.2014 - VII ZB 8/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird ein selbständiges Beweisverfahren von einzelnen Erwerbern von Wohnungseigentum wegen Mängeln des Gemeinschaftseigentums betrieben und klagt nach Beendigung des selbständigen Beweisverfahrens die Wohnungseigentümergemeinschaft aufgrund eines Beschlusses, mit dem sie die Durchsetzung der Rechte der Erwerber auf Beseitigung der genannten Mängel wirksam an sich gezogen hat, gegen die Antragsgegnerin des selbständigen Beweisverfahrens auf Kostenvorschuss zur Beseitigung der Mängel, werden die Kosten des selbständigen Beweisverfahrens von der Kostenentscheidung im Verfahren der Kostenvorschussklage mitumfasst.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:14:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 8/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.08.2014 - VII ZB 8/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

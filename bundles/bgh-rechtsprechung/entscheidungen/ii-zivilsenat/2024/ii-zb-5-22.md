@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:310124BIIZB5.22.0"
 doknr: "KORE700732024"
 normen: ["§ 304 Abs 2 S 1 AktG, § 305 Abs 1 AktG, § 305 Abs 3 S 2 AktG, § 287 Abs 1 S 2 ZPO, § 287 Abs 2 ZPO, Art 14 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 31.01.2024 - II ZB 5/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Rückgriff auf den Börsenkurs einer Gesellschaft ist grundsätzlich eine geeignete Methode zur Schätzung des Unternehmenswerts und des Werts der Beteiligung eines außenstehenden Aktionärs im Rahmen des § 305 AktG (Bestätigung BGH, Beschluss vom 21. Februar 2023 - II ZB 12/21, BGHZ 236, 180 Rn. 18).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:39:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 5/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 31.01.2024 - II ZB 5/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

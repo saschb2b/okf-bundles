@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:210222UVIAZR8.21.0"
 doknr: "KORE301002022"
 normen: ["§ 31 BGB, § 195 BGB, § 199 Abs 1 Nr 2 BGB, § 214 Abs 1  BGB, § 249 BGB, §§ 249ff BGB, § 818 Abs 3 BGB, § 818 Abs 4 BGB, § 819 Abs 1 BGB, § 826 BGB, § 852 S 1 BGB, Art 3 Nr 10 EGV 715/2007, Art 5 Abs 2 EGV 715/2007, § 6 EG-FGV, § 27 EG-FGV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.02.2022 - VIa ZR 8/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Anwendungsbereich des § 852 Satz 1 BGB ist eröffnet, wenn der Käufer eines Neufahrzeugs gegen den Fahrzeughersteller aus § 826 BGB einen Anspruch auf Erstattung des aufgrund eines ungewollten Vertragsschlusses an ihn gezahlten Kaufpreises hat. Eine teleologische Reduktion der Norm auf Fälle, in denen aufgrund unklarer Sach- oder Rechtslage für den Deliktsgläubiger ein besonderes Prozesskostenrisiko besteht, ist nicht veranlasst.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIa ZR 8/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.02.2022 - VIa ZR 8/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

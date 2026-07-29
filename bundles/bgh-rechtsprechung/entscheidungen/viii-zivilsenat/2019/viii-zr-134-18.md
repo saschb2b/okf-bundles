@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:150519UVIIIZR134.18.0"
 doknr: "KORE304562019"
 normen: ["§ 8 Abs 4 S 1 Alt 3 EEG 2004, § 16 Abs 1 EEG 2009, § 27 Abs 4 Nr 1 Anl 1 Abschn 2 Nr 1 Buchst c EEG 2009, § 35 Abs 4 S 1 EEG 2012, § 35 Abs 4 S 3 EEG 2012"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.05.2019 - VIII ZR 134/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei einer Turbine, die im Abgasstrang des Blockheizkraftwerksmotors einer Biogasanlage zur Erzeugung weiteren Stroms im Wege der Nachverstromung eingesetzt wird (sogenannte Abgasturbine), handelt es sich nicht um eine - mit dem Technologie-Bonus geförderte - Gasturbine im Sinne des § 27 Abs. 4 Nr. 1 in Verbindung mit der Anlage 1 Abschnitt II Nr. 1 Buchst. c EEG 2009.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 134/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.05.2019 - VIII ZR 134/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

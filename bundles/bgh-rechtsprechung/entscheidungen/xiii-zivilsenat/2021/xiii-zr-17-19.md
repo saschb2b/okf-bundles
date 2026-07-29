@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:260121UXIIIZR17.19.0"
 doknr: "KORE301242021"
 normen: ["§ 4 EEG 2009, § 8 Abs 1 EEG 2009, § 11 Abs 1 S 1 Nr 1 EEG 2012, § 12 Abs 1 EEG 2012, § 15 Abs 1 EEG 2014, § 15 Abs 1 EEG 2017, § 241 Abs 2 BGB, § 242 BGB, § 280 Abs 1 S 1 BGB, § 280 Abs 1 S 2 BGB, § 280 Abs 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.01.2021 - XIII ZR 17/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Solarpark Tutow
@@ -32,8 +38,3 @@ Solarpark Tutow
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZR 17/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.01.2021 - XIII ZR 17/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

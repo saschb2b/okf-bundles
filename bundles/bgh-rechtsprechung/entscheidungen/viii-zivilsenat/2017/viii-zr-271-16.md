@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:270917UVIIIZR271.16.0"
 doknr: "KORE318822017"
 normen: ["§ 14 Abs 1 BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 434 Abs 1 S 3 BGB, § 444 BGB, § 474 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.09.2017 - VIII ZR 271/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Verkäufer kann im Hinblick auf die in § 434 Abs. 1 Satz 3 BGB getroffene gesetzgeberische Wertung grundsätzlich seine Haftung nicht nur für das Fehlen einer üblichen und vom Käufer zu erwartenden Beschaffenheit (§ 434 Abs. 1 Satz 2 Nr. 2 BGB), sondern auch für das Fehlen von Eigenschaften ausschließen, deren Vorhandensein der Käufer nach den vom Verkäufer abgegebenen öffentlichen Äußerungen berechtigterweise erwarten kann (im Anschluss an BGH, Urteil vom 22. April 2016, V ZR 23/15, NJW 2017, 150 Rn. 14).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:32:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 271/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.09.2017 - VIII ZR 271/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

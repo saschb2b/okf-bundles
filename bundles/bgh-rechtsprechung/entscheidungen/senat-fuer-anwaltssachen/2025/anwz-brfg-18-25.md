@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:110825BANWZ.BRFG.18.25.0"
 doknr: "KORE720892025"
 normen: ["§ 46 Abs 2 S 1 BRAO, § 112e S 2 BRAO, § 30 BGB, § 611 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:41:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:41:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.08.2025 - AnwZ (Brfg) 18/25 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 46 Abs 2 S 1 BRAO, § 112e S 2 BRAO, § 30 BGB, § 611 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:41:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 18/25 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.08.2025 - AnwZ (Brfg) 18/25 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

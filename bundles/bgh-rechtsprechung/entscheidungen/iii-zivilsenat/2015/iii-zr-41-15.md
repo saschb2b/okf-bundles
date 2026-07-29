@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 41/15"
 doknr: "KORE301582015"
 normen: ["§ 7 PreisV 30/53, § 8  PreisV 30/53, § 271 Abs 1 BGB, § 317 Abs 1 BGB, § 318 BGB, § 319 BGB, Nr 25 Abs 1 Buchst c PreisLS, Nr 25 Abs 2 Buchst b PreisLS, Nr 48 Abs 1 PreisLS, Nr 51 Buchst a PreisLS"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 05.11.2015 - III ZR 41/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Auf der Grundlage eines Sozialplans gezahlte Abfindungen sind erstattungsfähige Selbstkosten im Sinne von § 8 der Verordnung PR Nr. 30/53 über die Preise bei öffentlichen Aufträgen in Verbindung mit Nummer 25 Abs. 1 Buchst. c, Abs. 2 Buchst. b der Leitsätze für die Preisermittlung auf Grund von Selbstkosten, wenn sie als Teil des normalen Betriebsgeschehens der Leistungserstellung zugeordnet werden können, betriebs- und branchenüblich sind und dem Grundsatz wirtschaftlicher Betriebsführung entsprechen.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:14:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 41/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 05.11.2015 - III ZR 41/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

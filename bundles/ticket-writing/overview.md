@@ -3,7 +3,9 @@ type: Overview
 title: "Ticket writing and slicing: overview"
 description: How to write and slice work items a team can act on, organized as four ticket smells, their shared root cause (bad slicing), and the techniques that cure them.
 tags: [agile, tickets, user-stories, slicing]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
 ---
 
 # The idea

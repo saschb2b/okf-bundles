@@ -5,7 +5,16 @@ description: Erscheint eine Partei in der mündlichen Verhandlung nicht, ergeht 
 resource: https://www.gesetze-im-internet.de/zpo/__331.html
 tags: [zivilprozess, versaeumnisurteil, saeumnis, einspruch]
 norm: "§§ 330, 331, 338 ZPO"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__330.html
+    title: "§ 330 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__331.html
+    title: "§ 331 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__338.html
+    title: "§ 338 ZPO"
 ---
 
 # Versäumnisurteil
@@ -20,9 +29,3 @@ Gegen ein Versäumnisurteil ist der **Einspruch** statthaft (§ 338), einzulegen
 # Bezug
 
 Das Versäumnisurteil ist vorläufig vollstreckbar (§ 708 Nr. 2). Es betrifft den Säumnisfall im normalen Erkenntnisverfahren nach der [Klageerhebung](/zivilprozess/klageerhebung-253.md); ein eigener vereinfachter Weg ist das [Mahnverfahren](/zivilprozess/mahnverfahren-688.md).
-
-# Citations
-
-[1] [§ 330 ZPO](https://www.gesetze-im-internet.de/zpo/__330.html)
-[2] [§ 331 ZPO](https://www.gesetze-im-internet.de/zpo/__331.html)
-[3] [§ 338 ZPO](https://www.gesetze-im-internet.de/zpo/__338.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:240920UVIIZR69.19.0"
 doknr: "KORE308422020"
 normen: ["§ 89b Abs 1 S 1 Nr 1 HGB, § 242 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.09.2020 - VII ZR 69/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Vorteil des Unternehmers oder Herstellers im Sinne des § 89b Abs. 1 Satz 1 Nr. 1 HGB besteht darin, die vom Handelsvertreter oder Vertragshändler geschaffenen Geschäftsverbindungen nach Beendigung des Vertrags weiterhin nutzen zu können. Es geht damit um eine Bewertung dieses vom Handelsvertreter oder Vertragshändler geschaffenen Kundenstamms ("goodwill").
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 69/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.09.2020 - VII ZR 69/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

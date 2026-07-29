@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:250117UVIIIZR249.15.0"
 doknr: "KORE300602017"
 normen: ["§ 278 BGB, § 556 Abs 3 S 1 Halbs 1 BGB, § 556 Abs 3 S 2 BGB, § 556 Abs 3 S 3 Halbs 2 BGB, § 28 Abs 3 WoEigG, § 28 Abs 5 WoEigG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.01.2017 - VIII ZR 249/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Vermieter einer Eigentumswohnung hat über die Betriebskostenvorauszahlungen des Mieters grundsätzlich auch dann innerhalb der Jahresfrist des § 556 Abs. 3 Satz 2 BGB abzurechnen, wenn zu diesem Zeitpunkt der Beschluss der Wohnungseigentümer gemäß § 28 Abs. 5 WEG über die Jahresabrechnung (§ 28 Abs. 3 WEG) des Verwalters der Wohnungseigentümergemeinschaft noch nicht vorliegt. Ein solcher Beschluss ist keine (ungeschriebene) Voraussetzung für die Abrechnung der Betriebskosten gemäß § 556 Abs. 3 BGB.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 249/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.01.2017 - VIII ZR 249/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

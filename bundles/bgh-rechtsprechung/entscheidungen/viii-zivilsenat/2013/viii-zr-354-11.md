@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 354/11"
 doknr: "KORE302872013"
 normen: ["§ 3 Abs 1 AVBWasserV, § 8 Abs 3 AVBWasserV, § 10 Abs 4 S 1 Nr 2 AVBWasserV, § 11 Abs 1 Nr 2 Alt 1 AVBWasserV, § 12 Abs 1 S 1 AVBWasserV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.02.2013 - VIII ZR 354/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Aus § 3 AVBWasserV ergibt sich die grundsätzliche Verpflichtung des Anschlussnehmers, seinen gesamten Wasserbedarf im vereinbarten Umfang bei dem Wasserversorgungsunternehmen zu decken.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:27:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 354/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.02.2013 - VIII ZR 354/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

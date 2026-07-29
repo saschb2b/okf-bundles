@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:100419UVIIIZR39.18.0"
 doknr: "KORE300892019"
 normen: ["§ 322 Abs 1 ZPO, § 320 Abs 1 S 1 BGB, § 320 Abs 2 BGB, § 543 Abs 2 S 1 Nr 3 Buchst a BGB, § 543 Abs 2 S 1 Nr 3 Buchst b BGB, § 546 Abs 1 BGB, § 985 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.04.2019 - VIII ZR 39/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird der Mieter nach einer Kündigung des Vermieters wegen Zahlungsverzugs (§ 543 Abs. 2 Satz 1 Nr. 3 Buchst. a oder b BGB) rechtskräftig zur Zahlung eines auch für die Kündigung relevanten Mietrückstands verurteilt, sind damit die Voraussetzungen eines Zahlungsverzugs im Zeitpunkt der Kündigung nicht bindend festgestellt.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 39/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.04.2019 - VIII ZR 39/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

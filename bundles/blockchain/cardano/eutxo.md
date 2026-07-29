@@ -4,7 +4,12 @@ title: Extended UTXO (EUTXO)
 description: Cardano's ledger model: Bitcoin's UTXO extended with datums and scripts to run smart contracts deterministically.
 resource: https://docs.cardano.org/
 tags: [cardano, eutxo, utxo, smart-contract]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://docs.cardano.org/about-cardano/learn/eutxo-explainer/
+    title: "The Extended UTXO model (docs.cardano.org)"
 ---
 
 # The third accounting model
@@ -29,7 +34,3 @@ The point is to gain programmability **without** giving up UTXO's advantages:
 - **Local state.** State lives in outputs rather than in global mutable [accounts](/ethereum/accounts.md), which changes how contracts are architected (and is less natural for some globally-shared-state patterns).
 
 The three-way contrast is drawn out in [UTXO vs account](/comparison/utxo-vs-account.md).
-
-# Citations
-
-[1] [The Extended UTXO model (docs.cardano.org)](https://docs.cardano.org/about-cardano/learn/eutxo-explainer/)

@@ -4,7 +4,14 @@ title: Ether monetary policy
 description: An uncapped supply set by validator issuance minus the EIP-1559 burn, the "ultrasound money" framing.
 resource: https://ethereum.org/en/roadmap/merge/issuance/
 tags: [ethereum, monetary-policy, issuance, ultrasound-money]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/roadmap/merge/issuance/
+    title: "Issuance after the Merge (Ethereum.org)"
+  - resource: https://ethereum.org/en/eth/supply/
+    title: "ETH supply (Ethereum.org)"
 ---
 
 # Issuance minus burn
@@ -23,8 +30,3 @@ The framing that fee-burning can make ETH net-deflationary during high demand is
 # Why it matters
 
 Fixed scarcity versus dynamic, demand-linked supply is one of the sharpest economic contrasts between the two chains, developed in [design philosophy](/comparison/design-philosophy.md).
-
-# Citations
-
-[1] [Issuance after the Merge (Ethereum.org)](https://ethereum.org/en/roadmap/merge/issuance/)
-[2] [ETH supply (Ethereum.org)](https://ethereum.org/en/eth/supply/)

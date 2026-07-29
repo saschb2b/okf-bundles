@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:060918BIIIZR84.18.0"
 doknr: "KORE628392018"
 normen: ["§ 63 Abs 3 GKG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:03Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.09.2018 - III ZR 84/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 63 Abs 3 GKG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:03Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 84/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.09.2018 - III ZR 84/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

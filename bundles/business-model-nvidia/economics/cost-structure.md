@@ -4,7 +4,14 @@ title: NVIDIA cost structure
 description: The fabless TSMC dependency, CoWoS and HBM constraints, R&D, margins, and capital returns.
 resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026
 tags: [nvidia, costs, tsmc, hbm, margins, buybacks]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026
+    title: "NVIDIA financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)"
+  - resource: https://www.stocktitan.net/sec-filings/NVDA/8-k-nvidia-corp-reports-material-event-56086a88bbb4.html
+    title: "NVIDIA Q1 FY2027 8-K (StockTitan, May 2026)"
 ---
 
 # Fabless, so the constraints are upstream
@@ -24,8 +31,3 @@ R&D grew materially in FY2026 (full-year opex guided to mid-30s percent growth),
 # Capital returns
 
 The cash generation funds large returns. In FY2026 NVIDIA returned $41.1B to shareholders ($40.1B in buybacks plus $974M in dividends), the board approved a new $80B buyback authorization, and NVIDIA raised its quarterly dividend in Q1 FY2027 (the exact new per-share figure is worth confirming against the 8-K). [1][2] The scale of these returns is a function of the margins and the market position described in the [corporate structure](/strategy/governance.md).
-
-# Citations
-
-[1] [NVIDIA financial results for Q4 and fiscal 2026 (NVIDIA, Feb 2026)](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-fourth-quarter-and-fiscal-2026)
-[2] [NVIDIA Q1 FY2027 8-K (StockTitan, May 2026)](https://www.stocktitan.net/sec-filings/NVDA/8-k-nvidia-corp-reports-material-event-56086a88bbb4.html)

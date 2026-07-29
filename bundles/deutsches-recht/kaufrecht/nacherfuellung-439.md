@@ -5,7 +5,12 @@ description: Der Käufer wählt zwischen Mangelbeseitigung und Lieferung einer m
 resource: https://www.gesetze-im-internet.de/bgb/__439.html
 tags: [kaufrecht, nacherfuellung, nachbesserung, ersatzlieferung]
 norm: "§ 439 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__439.html
+    title: "§ 439 BGB"
 ---
 
 # Regel
@@ -25,7 +30,3 @@ Der Verkäufer kann die vom Käufer gewählte Art der Nacherfüllung verweigern,
 # Bezug
 
 Erst wenn die Nacherfüllung fehlschlägt, verweigert wird oder eine angemessene Frist erfolglos verstreicht, werden [Rücktritt und Minderung](/kaufrecht/ruecktritt-minderung.md) sowie der Schadensersatz statt der Leistung eröffnet.
-
-# Citations
-
-[1] [§ 439 BGB](https://www.gesetze-im-internet.de/bgb/__439.html)

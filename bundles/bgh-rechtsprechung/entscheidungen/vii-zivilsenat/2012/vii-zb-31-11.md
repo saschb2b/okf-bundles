@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 31/11"
 doknr: "KORE313762012"
 normen: ["§ 829 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.05.2012 - VII ZB 31/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die materielle Richtigkeit der erteilten Vollstreckungsklausel ist grundsätzlich nicht zur Überprüfung des Vollstreckungsgerichts gestellt. Seiner Nachprüfung unterliegt es, ob eine Klausel vorhanden ist und ob sie ordnungsgemäß erteilt wurde, nicht hingegen, ob sie erteilt werden durfte (im Anschluss an BGH, 12. Januar 2012, VII ZB 71/09, MDR 2012, 367).
@@ -23,8 +29,3 @@ Die materielle Richtigkeit der erteilten Vollstreckungsklausel ist grundsätzlic
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 31/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.05.2012 - VII ZB 31/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:061020BXIIIZB115.19.0"
 doknr: "KORE300052021"
 normen: ["§ 428 FamFG, § 14 Abs 3 S 3 AsylVfG, § 31 Abs 1 S 3  AsylVfG, § 55 Abs 1 S 3  AsylVfG, § 15 Abs 3 VwVG, Art 2  GG, Art 104 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.10.2020 - XIII ZB 115/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die ordentlichen Gerichte sind nach § 428 FamFG auch für die Entscheidung über die Freiheitsentziehung im Verwaltungswege und damit auch für Fälle zuständig, in denen eine gerichtlich angeordnete Haft über ihr gesetzliches Ende hinaus vollzogen wird oder nicht rechtzeitig von der beteiligten Behörde beendet wird.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 115/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.10.2020 - XIII ZB 115/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

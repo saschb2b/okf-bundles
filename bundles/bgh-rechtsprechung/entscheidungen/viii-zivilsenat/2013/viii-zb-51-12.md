@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 51/12"
 doknr: "JURE130010257"
 normen: ["Art 101 Abs 1 S 2 GG, § 269 Abs 3 S 3 ZPO, § 568 S 2 Nr 2 ZPO, § 574 Abs 1 S 1 Nr 2 ZPO, § 574 Abs 3 S 2 ZPO, § 21 GKG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.05.2013 - VIII ZB 51/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 101 Abs 1 S 2 GG, § 269 Abs 3 S 3 ZPO, § 568 S 2 Nr 2 ZPO, § 574 Abs 1 S 1 Nr 2 ZPO, § 574 Abs 3 S 2 ZPO, § 21 GKG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 51/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.05.2013 - VIII ZB 51/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 356/11"
 doknr: "JURE120014824"
 normen: ["§ 280 BGB, § 573 Abs 2 Nr 2 BGB, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 13.06.2012 - VIII ZR 356/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 280 BGB, § 573 Abs 2 Nr 2 BGB, § 286 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 356/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 13.06.2012 - VIII ZR 356/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

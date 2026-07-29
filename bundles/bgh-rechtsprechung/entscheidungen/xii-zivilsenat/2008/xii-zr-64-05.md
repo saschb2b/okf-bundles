@@ -9,13 +9,14 @@ datum: 2008-04-30
 aktenzeichen: "XII ZR 64/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:36:55Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:36:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2005/XII_ZR__64-05A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 30.04.2008 - XII ZR 64/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZR 64/05 vom 30.04.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.04.2008 - XII ZR 64/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2005/XII_ZR__64-05A.pdf?__blob=publicationFile&v=1)
-

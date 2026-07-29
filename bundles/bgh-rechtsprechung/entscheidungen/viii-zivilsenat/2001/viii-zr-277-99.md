@@ -9,13 +9,14 @@ datum: 2001-02-14
 aktenzeichen: "VIII ZR 277/99"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:18:12Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:18:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/1999/VIII_ZR_277-99.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 14.02.2001 - VIII ZR 277/99 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 277/99 vom 14.02.2001.
-
-# Citations
-
-[1] [BGH, Urteil vom 14.02.2001 - VIII ZR 277/99 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/1999/VIII_ZR_277-99.pdf?__blob=publicationFile&v=1)
-

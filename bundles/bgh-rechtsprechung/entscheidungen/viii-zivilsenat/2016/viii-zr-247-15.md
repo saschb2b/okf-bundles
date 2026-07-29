@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:200916BVIIIZR247.15.0"
 doknr: "KORE301642016"
 normen: ["§ 263 ZPO, § 264 ZPO, § 296 ZPO, § 530 ZPO, § 531 ZPO, § 533 ZPO, Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.09.2016 - VIII ZR 247/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Änderung oder Erweiterung einer Klage stellt einen selbstständigen prozessualen Angriff dar, dessen Zulassung sich nicht nach den §§ 296, 530, 531 ZPO, sondern nach den §§ 263, 264, 533 ZPO bestimmt (Bestätigung von BGH, Urteile vom 23. April 1986, VIII ZR 93/85, WM 1986, 864 und vom 15. Januar 2001, II ZR 48/99, NJW 2001, 1210).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 247/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.09.2016 - VIII ZR 247/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

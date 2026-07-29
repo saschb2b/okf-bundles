@@ -4,7 +4,12 @@ title: Compiling Libraries
 description: How library authors compile their code with React Compiler before publishing so all users get optimized output.
 resource: https://react.dev/reference/react-compiler/compiling-libraries
 tags: [react, react-compiler, libraries, build]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-compiler/compiling-libraries
+    title: "Compiling Libraries"
 ---
 
 # Summary
@@ -62,7 +67,3 @@ Test the library both with and without compilation. Run your existing suite agai
 - Test with and without compilation, and watch for plugin ordering and missing-runtime issues.
 
 For selective optimization, see [`compilationMode`](/reference/react-compiler/compilationMode.md). For the runtime version mapping, see [`target`](/reference/react-compiler/target.md). For an overview, see [the React Compiler guide](/react-compiler/react-compiler.md).
-
-# Citations
-
-[1] [Compiling Libraries](https://react.dev/reference/react-compiler/compiling-libraries)

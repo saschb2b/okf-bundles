@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:221117UVIIIZR83.16.0"
 doknr: "KORE309082017"
 normen: ["§ 133 BGB, § 157 BGB, § 311 Abs 1 BGB, § 362 BGB, §§ 362ff BGB, § 433 Abs 2 BGB, § 447 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.11.2017 - VIII ZR 83/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird der Kaufpreis vereinbarungsgemäß unter Verwendung des Online-Zahlungsdienstes PayPal entrichtet, ist die geschuldete Leistung bewirkt, wenn der vom Käufer geschuldete Betrag dem PayPal-Konto des Verkäufers vorhaltlos gutgeschrieben wird, so dass dieser den Zahlbetrag endgültig zur freien Verfügung erhält.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:30:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 83/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.11.2017 - VIII ZR 83/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

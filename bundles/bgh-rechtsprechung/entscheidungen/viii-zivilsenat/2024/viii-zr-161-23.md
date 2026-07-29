@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:100424UVIIIZR161.23.0"
 doknr: "KORE310592024"
 normen: ["§ 280 Abs 1 BGB, § 280 Abs 3 BGB, § 281 Abs 1 S 1 BGB, § 281 Abs 2 BGB, § 434 Abs 1 S 1  BGB vom 02.01.2002, § 434 Abs 1 S 2  BGB vom 02.01.2002, § 437 Nr 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.04.2024 - VIII ZR 161/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Haben die Parteien eines Kaufvertrags (ausdrücklich oder stillschweigend) eine Beschaffenheit der Kaufsache im Sinne von § 434 Abs. 1 Satz 1 BGB aF vereinbart, ist ein daneben vereinbarter allgemeiner Haftungsausschluss für Sachmängel dahin auszulegen, dass er nicht für das Fehlen der vereinbarten Beschaffenheit, sondern nur für Mängel nach § 434 Abs. 1 Satz 2 BGB aF gelten soll (st. Rspr.; seit Senatsurteil vom 29. November 2006 - VIII ZR 92/06, BGHZ 170, 86 Rn. 31; zuletzt Senatsurteil vom 27. September 2017 - VIII ZR 271/16, NJW 2018, 146 Rn. 23).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:30:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 161/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.04.2024 - VIII ZR 161/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 131/09"
 doknr: "KORE313502010"
 normen: ["§ 242 BGB, § 275 Abs 2 BGB, § 536a BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.04.2010 - VIII ZR 131/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Mieter hat keinen Anspruch auf Kostenvorschuss für Maßnahmen, die zur nachhaltigen Mangelbeseitigung ungeeignet sind .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 131/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.04.2010 - VIII ZR 131/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

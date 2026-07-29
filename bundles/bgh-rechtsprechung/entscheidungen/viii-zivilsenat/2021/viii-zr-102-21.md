@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:271021UVIIIZR102.21.0"
 doknr: "KORE312412021"
 normen: ["§ 259 Abs 1 BGB, § 556 Abs 3 BGB, § 612 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.10.2021 - VIII ZR 102/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Mieter kann im Rahmen der bei einer Betriebskostenabrechnung geschuldeten Belegvorlage vom Vermieter dann nicht die Einsichtnahme in Unterlagen verlangen, die das Vertragsverhältnis zwischen einem vom Vermieter mit einer betriebskostenrelevanten Dienstleistung beauftragten Dritten und dem von diesem weiter beauftragten Subunternehmer betreffen, wenn der Vermieter mit dem Dritten eine Vergütung für dessen Tätigkeit vereinbart hat oder diese nach § 612 BGB als vereinbart gilt und der Vermieter die von dem Dritten in Rechnung gestellte Vergütung in der Betriebskostenabrechnung auf die Mieter umgelegt hat (Fortentwicklung von Senatsurteil vom 3. Juli 2013 - VIII ZR 322/12, NJW 2013, 3234 Rn. 9 f.).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 102/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.10.2021 - VIII ZR 102/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

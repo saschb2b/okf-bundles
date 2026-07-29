@@ -9,13 +9,14 @@ datum: 2006-12-06
 aktenzeichen: "XII ZB 99/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:32:31Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:32:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2006/XII_ZB__99-06.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 06.12.2006 - XII ZB 99/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 99/06 vom 06.12.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.12.2006 - XII ZB 99/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2006/XII_ZB__99-06.pdf?__blob=publicationFile&v=1)
-

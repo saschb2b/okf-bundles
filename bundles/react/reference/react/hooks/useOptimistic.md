@@ -4,7 +4,12 @@ title: useOptimistic
 description: React Hook that optimistically updates the UI while an async Action is pending.
 resource: https://react.dev/reference/react/useOptimistic
 tags: [react, hooks, state, optimistic, actions]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useOptimistic
+    title: "useOptimistic"
 ---
 
 # Reference
@@ -97,7 +102,3 @@ Optimistic state is driven by Actions; pair it with [useTransition](/reference/r
 - Call the set function inside `startTransition` or an Action prop. Called outside, React warns and the optimistic state briefly renders then reverts.
 - Do not call the set function during render. Call it from event handlers, effects, or callbacks inside Actions.
 - For relative updates, use an updater function or a reducer rather than a hardcoded value, to avoid stale data.
-
-# Citations
-
-[1] [useOptimistic](https://react.dev/reference/react/useOptimistic)

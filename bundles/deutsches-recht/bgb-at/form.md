@@ -5,7 +5,18 @@ description: Grundsatz der Formfreiheit; ein gesetzliches Formerfordernis (Schri
 resource: https://www.gesetze-im-internet.de/bgb/__125.html
 tags: [bgb-at, form, schriftform, textform, beurkundung]
 norm: "§§ 125 bis 129 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__125.html
+    title: "§ 125 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__126.html
+    title: "§ 126 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__126a.html
+    title: "§ 126a BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__126b.html
+    title: "§ 126b BGB"
 ---
 
 # Regel
@@ -27,10 +38,3 @@ Welche Geschäfte welche Form verlangen, ergibt sich aus der jeweiligen Einzelvo
 # Bezug
 
 Eine formbedürftige Erklärung ist trotz wirksamer [Willenserklärung](/bgb-at/willenserklaerung.md) nichtig, wenn die Form fehlt. Die AGB-rechtliche Schriftform- und Textformproblematik behandelt das Gebiet [AGB-Kontrolle](/agb-kontrolle/inhaltskontrolle-307.md).
-
-# Citations
-
-[1] [§ 125 BGB](https://www.gesetze-im-internet.de/bgb/__125.html)
-[2] [§ 126 BGB](https://www.gesetze-im-internet.de/bgb/__126.html)
-[3] [§ 126a BGB](https://www.gesetze-im-internet.de/bgb/__126a.html)
-[4] [§ 126b BGB](https://www.gesetze-im-internet.de/bgb/__126b.html)

@@ -10,8 +10,14 @@ aktenzeichen: "NotSt (Brfg) 1/11"
 doknr: "KORE303612011"
 normen: ["§ 124 Abs 2 VwGO, § 96 Abs 1 S 1 BNotO, § 111d  BNotO, § 32 Abs 2 Nr 2 BDG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.07.2011 - NotSt (Brfg) 1/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ob ein (dargelegter) Grund für die Zulassung der Berufung besteht, beurteilt sich nach der Sach- und Rechtslage im Zeitpunkt der Entscheidung des Berufungsgerichts über den Zulassungsantrag und nicht danach, ob das erstinstanzliche Gericht angesichts der aufgrund im Zeitpunkt seiner Entscheidung geltenden Rechtslage richtig entschieden hat .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotSt (Brfg) 1/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.07.2011 - NotSt (Brfg) 1/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

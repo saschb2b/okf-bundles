@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:300620UIIZR8.19.0"
 doknr: "KORE301592020"
 normen: ["§ 147 Abs 1 S 1 AktG, § 147 Abs 2 S 1 AktG, § 309 AktG, § 317 AktG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.06.2020 - II ZR 8/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein selbständiger Beschluss über die Bestellung eines besonderen Vertreters, dem ein wirksamer oder als wirksam zu behandelnder Beschluss zur Geltendmachung der Ersatzansprüche zugrunde liegt, ist nicht wegen des Fehlens von Anhaltspunkten für das Bestehen von Ersatzansprüchen anfechtbar.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZR 8/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.06.2020 - II ZR 8/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2001-04-03
 aktenzeichen: "XI ZB 2/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:22:41Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:22:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2001/XI_ZB___2-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 03.04.2001 - XI ZB 2/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XI ZB 2/01 vom 03.04.2001.
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.04.2001 - XI ZB 2/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2001/XI_ZB___2-01.pdf?__blob=publicationFile&v=1)
-

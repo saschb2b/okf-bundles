@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AEUV"
 description: "BGH-Entscheidungen zu AEUV, geordnet nach Vorschrift."
 tags: [register, navigation, aeuv]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

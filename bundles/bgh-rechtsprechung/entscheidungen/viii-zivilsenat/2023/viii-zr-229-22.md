@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:190723UVIIIZR229.22.0"
 doknr: "KORE301022023"
 normen: ["§ 556d Abs 1 BGB, §§ 556dff BGB, § 556e Abs 1 S 1 BGB, § 556g Abs 1 S 1 BGB, § 556g Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.07.2023 - VIII ZR 229/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zulässige Miete im Sinne von § 556g Abs. 1 Satz 2 BGB ist die sich nach den Regelungen über die Miethöhe bei Mietbeginn in Gebieten mit angespannten Wohnungsmärkten (§§ 556d ff. BGB) ergebende Miete. Die zulässige Miete kann sich auch aus einer Anwendung der Vorschrift des § 556e Abs. 1 Satz 1 BGB ergeben, mithin nach der in dem vorangegangenen Mietverhältnis geschuldeten Vormiete zu bemessen sein.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 229/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.07.2023 - VIII ZR 229/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

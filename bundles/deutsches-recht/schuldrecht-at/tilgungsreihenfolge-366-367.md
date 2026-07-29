@@ -5,7 +5,16 @@ description: Eine Teilzahlung wird bei mehreren Schulden nach § 366 verrechnet 
 resource: https://www.gesetze-im-internet.de/bgb/__367.html
 tags: [schuldrecht-at, tilgungsreihenfolge, anrechnung, forderungskonto, teilzahlung]
 norm: "§§ 366, 367 BGB; § 497 Abs. 3 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__366.html
+    title: "§ 366 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__367.html
+    title: "§ 367 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__497.html
+    title: "§ 497 BGB"
 ---
 
 # Mehrere Schulden (§ 366)
@@ -29,9 +38,3 @@ Beim Verzug aus einem [Verbraucherdarlehen](/besondere-schuldverhaeltnisse/darle
 # Bezug
 
 Die Zinsen folgen dem [Zinsrecht (§§ 246 ff.)](/schuldrecht-at/zinsrecht-246-291.md), die Verzugszinsen dem [Schuldnerverzug (§ 288)](/schuldrecht-at/verzug.md). Voraussetzung ist eine wirksame [Teilleistung](/schuldrecht-at/erfuellung-362.md).
-
-# Citations
-
-[1] [§ 366 BGB](https://www.gesetze-im-internet.de/bgb/__366.html)
-[2] [§ 367 BGB](https://www.gesetze-im-internet.de/bgb/__367.html)
-[3] [§ 497 BGB](https://www.gesetze-im-internet.de/bgb/__497.html)

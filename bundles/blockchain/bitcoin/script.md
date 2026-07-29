@@ -4,7 +4,14 @@ title: Bitcoin Script
 description: A stack-based, intentionally non-Turing-complete language for expressing spending conditions.
 resource: https://en.bitcoin.it/wiki/Script
 tags: [bitcoin, script, smart-contract]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://en.bitcoin.it/wiki/Script
+    title: "Script (Bitcoin Wiki)"
+  - resource: https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki
+    title: "BIP341: Taproot (bitcoin/bips)"
 ---
 
 # What it is
@@ -24,8 +31,3 @@ Script has conditionals but **no loops and no unbounded recursion**, so every sc
 - **P2SH**, pay to a script hash, revealed at spend time; made complex contracts and multisig practical.
 - **P2WPKH**, the [SegWit](/bitcoin/upgrades.md) native form, moving the signature to the witness.
 - **P2TR**, [Taproot](/bitcoin/upgrades.md), spendable by a single Schnorr signature (key path) or a revealed script branch. [1]
-
-# Citations
-
-[1] [Script (Bitcoin Wiki)](https://en.bitcoin.it/wiki/Script)
-[2] [BIP341: Taproot (bitcoin/bips)](https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki)

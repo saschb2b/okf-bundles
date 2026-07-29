@@ -9,13 +9,14 @@ datum: 2008-04-30
 aktenzeichen: "III ZA 27/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:19:36Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:19:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZA__27-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 30.04.2008 - III ZA 27/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZA 27/07 vom 30.04.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.04.2008 - III ZA 27/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZA__27-07.pdf?__blob=publicationFile&v=1)
-

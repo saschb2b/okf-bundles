@@ -4,7 +4,12 @@ title: Passing Props to a Component
 description: How to configure components with props, including any JavaScript value, defaults, spread, and children.
 resource: https://react.dev/learn/passing-props-to-a-component
 tags: [react, props, components, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/passing-props-to-a-component
+    title: "Passing Props to a Component"
 ---
 
 # Summary
@@ -91,7 +96,3 @@ A component can receive different props on different renders, so props are not s
 - Set defaults with `=` in destructuring; forward all props with `{...props}` sparingly.
 - Nested JSX arrives as the `children` prop, enabling flexible wrapper components.
 - Props are read-only snapshots; for changing data, use state.
-
-# Citations
-
-[1] [Passing Props to a Component](https://react.dev/learn/passing-props-to-a-component)

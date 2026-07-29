@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:071221BENVR6.21.0"
 doknr: "KORE300632022"
 normen: ["§ 6 Abs 3 S 2 ARegV, § 6 Abs 3 S 3 ARegV, § 10a ARegV, § 34 Abs 5 S 1 ARegV vom 14.09.2016, § 5 Abs 2 StromNEV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.12.2021 - EnVR 6/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Kapitalkostenabzug
@@ -30,8 +36,3 @@ Kapitalkostenabzug
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 6/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.12.2021 - EnVR 6/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 34/11"
 doknr: "KORE312962012"
 normen: ["§ 150 BGB, § 305 BGB, § 4 AVBGasV, § 5 Abs 2 GasGVV, § 13 GasGVV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.02.2012 - VIII ZR 34/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Erhöht ein Versorgungsunternehmen einseitig den Gaspreis aufgrund einer Preisanpassungsklausel, die nicht wirksam Vertragsbestandteil geworden ist, kann die vorbehaltlose Zahlung des erhöhten Preises durch den Kunden nach Übersendung einer auf der Preiserhöhung basierenden Jahresabrechnung nicht als stillschweigende Zustimmung zu dem erhöhten Preis angesehen werden (Bestätigung des Senatsurteils vom 14. Juli 2010, VIII ZR 246/08, BGHZ 186, 180).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 34/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.02.2012 - VIII ZR 34/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

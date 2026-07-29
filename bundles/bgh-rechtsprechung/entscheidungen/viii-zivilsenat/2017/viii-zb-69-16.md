@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:090517BVIIIZB69.16.0"
 doknr: "KORE313262017"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO, § 520 Abs 2 S 3 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 09.05.2017 - VIII ZB 69/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Wiedereinsetzungsverfahren kann sich der Berufungsführer nur dann mit Erfolg auf sein Vertrauen in die Gewährung der beantragten Fristverlängerung berufen, wenn diese mit großer Wahrscheinlichkeit erwartet werden konnte (im Anschluss an BGH, Beschlüsse vom 18. Juli 2007, IV ZR 132/06, FamRZ 2007, 1808 Rn. 5; vom 9. Juli 2009, VII ZB 111/08, NJW 2009, 3100 Rn. 8; jeweils mwN). Dies wiederum ist bei einem ersten Antrag auf Verlängerung der Berufungsbegründungsfrist dann der Fall, wenn dieser auf erhebliche Gründe im Sinne des § 520 Abs. 2 Satz 3 ZPO gestützt wird (im Anschluss an BGH, Beschlüsse vom 18. Juli 2007, IV ZR 132/06, aaO; vom 15. August 2007, XII ZB 82/07, NJW-RR 2008, 76 Rn. 10; vom 16. Oktober 2007, VI ZB 65/06, NJW-RR 2008, 367 Rn. 9; vom 9. Juli 2009, VII ZB 111/08, aaO; vom 26. Januar 2017, IX ZB 34/16, juris Rn. 10; jeweils mwN).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 69/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.05.2017 - VIII ZB 69/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

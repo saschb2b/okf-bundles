@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 178/08"
 doknr: "KORE313342010"
 normen: ["§ 307 Abs 1 S 1 BGB, § 1 Abs 1  PrKG, § 1 Abs 2 Nr 2 PrKG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.03.2010 - VIII ZR 178/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Auch eine nach § 1 Abs. 2 Nr. 2 PrKG zulässige Spannungsklausel unterliegt im Falle ihrer formularmäßigen Verwendung der Inhaltskontrolle gemäß § 307 BGB .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 178/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.03.2010 - VIII ZR 178/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

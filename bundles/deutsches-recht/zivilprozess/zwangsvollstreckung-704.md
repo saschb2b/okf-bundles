@@ -5,7 +5,16 @@ description: Aus einem vollstreckbaren Titel wird mit Klausel und Zustellung die
 resource: https://www.gesetze-im-internet.de/zpo/__704.html
 tags: [zivilprozess, zwangsvollstreckung, pfaendung, vollstreckungstitel]
 norm: "§§ 704, 750, 803, 829, 850, 766, 767, 771 ZPO"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__704.html
+    title: "§ 704 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__767.html
+    title: "§ 767 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__850.html
+    title: "§ 850 ZPO"
 ---
 
 # Voraussetzungen
@@ -31,9 +40,3 @@ Unpfändbare Sachen (§ 811) und Pfändungsfreigrenzen beim Arbeitseinkommen (§
 - **Vollstreckungserinnerung (§ 766)** gegen die Art und Weise der Vollstreckung.
 - **Vollstreckungsabwehrklage (§ 767)** gegen den titulierten Anspruch selbst (materielle Einwendungen nach Schluss der Verhandlung).
 - **Drittwiderspruchsklage (§ 771)** des Dritten, dem ein die Veräußerung hinderndes Recht an der Sache zusteht.
-
-# Citations
-
-[1] [§ 704 ZPO](https://www.gesetze-im-internet.de/zpo/__704.html)
-[2] [§ 767 ZPO](https://www.gesetze-im-internet.de/zpo/__767.html)
-[3] [§ 850 ZPO](https://www.gesetze-im-internet.de/zpo/__850.html)

@@ -4,7 +4,12 @@ title: useRef
 description: React Hook that references a mutable value which does not trigger re-renders.
 resource: https://react.dev/reference/react/useRef
 tags: [react, hooks, refs, dom]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useRef
+    title: "useRef"
 ---
 
 # Reference
@@ -75,7 +80,3 @@ To expose a ref from your own component, accept `ref` as a prop and forward it t
 - Changing `ref.current` does not re-render the component. React is unaware of the change because a ref is a plain JavaScript object.
 - Do not write or read `ref.current` during rendering, except for initialization. This makes the component's behavior unpredictable.
 - In Strict Mode, React calls your component function twice in development, creating each ref object twice and discarding one version. Production is unaffected.
-
-# Citations
-
-[1] [useRef](https://react.dev/reference/react/useRef)

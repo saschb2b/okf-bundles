@@ -3,12 +3,14 @@ type: Overview
 title: "React: overview"
 description: A guided tour of the React knowledge bundle, transformed from the official react.dev documentation into one OKF concept per page.
 tags: [react, frontend, javascript, ui]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/opus-5
+  at: 2026-07-29T18:00:00Z
 ---
 
 # What this bundle is
 
-The official React documentation at [react.dev](https://react.dev), restructured as an OKF bundle: one concept per documentation page, with the page's canonical URL in each concept's `resource`. It has two halves: the **Learn guide**, which teaches how React works and how to think in it, and the **API Reference**, which gives exact signatures, parameters, return values, and caveats for every documented export, from [useState](/reference/react/hooks/useState.md) to the [server rendering APIs](/reference/react-dom/server/renderToPipeableStream.md). The content is transformed and summarized, not copied; the `timestamp` and cited URL on each concept tell you how to re-check it against the live docs. For navigation by section, start at the bundle root index.
+The official React documentation at [react.dev](https://react.dev), restructured as an OKF bundle: one concept per documentation page, with the page's canonical URL in each concept's `resource`. It has two halves: the **Learn guide**, which teaches how React works and how to think in it, and the **API Reference**, which gives exact signatures, parameters, return values, and caveats for every documented export, from [useState](/reference/react/hooks/useState.md) to the [server rendering APIs](/reference/react-dom/server/renderToPipeableStream.md). The content is transformed and summarized, not copied; each concept's `generated.at` and the URL in its `sources` tell you how to re-check it against the live docs. For navigation by section, start at the bundle root index.
 
 # The mental model
 

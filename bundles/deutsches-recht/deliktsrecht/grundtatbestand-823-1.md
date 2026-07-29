@@ -5,7 +5,12 @@ description: Wer vorsätzlich oder fahrlässig eines der absoluten Rechtsgüter 
 resource: https://www.gesetze-im-internet.de/bgb/__823.html
 tags: [deliktsrecht, schadensersatz, rechtsgutsverletzung, verkehrssicherungspflicht]
 norm: "§ 823 Abs. 1 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__823.html
+    title: "§ 823 BGB"
 ---
 
 # Regel
@@ -23,7 +28,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Rechtsfolge
 
 Ersatz des aus der Verletzung entstehenden Schadens nach dem [Schadensersatzrecht der §§ 249 ff.](/deliktsrecht/schadensersatzrecht-249-253.md), gekürzt um ein etwaiges [Mitverschulden](/deliktsrecht/mitverschulden-254.md).
-
-# Citations
-
-[1] [§ 823 BGB](https://www.gesetze-im-internet.de/bgb/__823.html)

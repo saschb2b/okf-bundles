@@ -9,13 +9,14 @@ datum: 2006-07-28
 aktenzeichen: "IV ZR 6/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:14:47Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:14:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2004/IV_ZR___6-04A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 28.07.2006 - IV ZR 6/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IV ZR 6/04 vom 28.07.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.07.2006 - IV ZR 6/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2004/IV_ZR___6-04A.pdf?__blob=publicationFile&v=1)
-

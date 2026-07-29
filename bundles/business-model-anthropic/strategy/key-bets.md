@@ -4,7 +4,18 @@ title: Anthropic key strategic bets
 description: Enterprise-first monetization, coding and agents as the wedge, safety as differentiation, and securing compute.
 resource: https://www.anthropic.com/news/claude-code-on-team-and-enterprise
 tags: [anthropic, strategy, enterprise, agents, compute]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://www.anthropic.com/news/claude-code-on-team-and-enterprise
+    title: "Claude Code on Team and Enterprise (Anthropic, 2026)"
+  - resource: https://platform.claude.com/docs/en/about-claude/pricing
+    title: "Claude pricing docs (Anthropic, 2026)"
+  - resource: https://www.anthropic.com/research/economic-index-march-2026-report
+    title: "Anthropic Economic Index, March 2026 (Anthropic, 2026)"
+  - resource: https://www.anthropic.com/news/series-h
+    title: "Series H funding (Anthropic, 2026)"
 ---
 
 # Four bets
@@ -28,10 +39,3 @@ Multi-gigawatt deals with Amazon (5 GW), Google/Broadcom (5 GW of TPUs), SpaceX,
 ## The model lineup that ties them together
 
 A tiered lineup, Opus (max capability), Sonnet (production workhorse, now Sonnet 5), Haiku (cheap and fast), plus premium Fable and a Fast mode, lets customers price-match model to task under the [pricing model](/revenue/pricing.md). [4]
-
-# Citations
-
-[1] [Claude Code on Team and Enterprise (Anthropic, 2026)](https://www.anthropic.com/news/claude-code-on-team-and-enterprise)
-[2] [Claude pricing docs (Anthropic, 2026)](https://platform.claude.com/docs/en/about-claude/pricing)
-[3] [Anthropic Economic Index, March 2026 (Anthropic, 2026)](https://www.anthropic.com/research/economic-index-march-2026-report)
-[4] [Series H funding (Anthropic, 2026)](https://www.anthropic.com/news/series-h)

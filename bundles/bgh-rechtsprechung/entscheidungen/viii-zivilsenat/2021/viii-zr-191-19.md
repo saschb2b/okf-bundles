@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:070421UVIIIZR191.19.0"
 doknr: "KORE304172021"
 normen: ["§ 13 BGB, § 14 Abs 1 BGB, § 437 Nr 1 BGB vom 02.01.2002, § 439 Abs 2 BGB vom 02.01.2002, § 439 Abs 3 BGB vom 02.01.2002, § 474 Abs 1 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.04.2021 - VIII ZR 191/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Schließt eine natürliche Person ein Rechtsgeschäft objektiv zu einem Zweck ab, der weder ihrer gewerblichen noch ihrer selbständigen beruflichen Tätigkeit zugerechnet werden kann, so kommt eine Zurechnung entgegen dem mit dem rechtsgeschäftlichen Handeln objektiv verfolgten privaten Zweck nur dann in Betracht, wenn die dem Vertragspartner erkennbaren Umstände eindeutig und zweifelsfrei darauf hinweisen, dass die natürliche Person in Verfolgung ihrer gewerblichen oder selbständigen beruflichen Tätigkeit handelt (Bestätigung von Senatsurteile vom 30. September 2009 - VIII ZR 7/09, NJW 2009, 3780 Rn. 11 und vom 13. März 2013 - VIII ZR 186/12, NJW 2013, 2107 Rn. 18).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 191/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.04.2021 - VIII ZR 191/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

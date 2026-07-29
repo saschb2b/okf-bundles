@@ -4,7 +4,12 @@ title: Fragment (<>...</>)
 description: Group elements without adding a wrapper DOM node, optionally with a key or a ref.
 resource: https://react.dev/reference/react/Fragment
 tags: [react, component, fragment, ref, key]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/Fragment
+    title: "Fragment (<>...</>)"
 ---
 
 # Reference
@@ -90,7 +95,3 @@ When a `ref` is passed, React provides a `FragmentInstance` whose methods act on
 - Listeners added via `addEventListener` are not applied to hidden Activity trees; they apply automatically when the boundary becomes visible. See the Activity caveat at [Activity](/reference/react/components/Activity.md).
 - `scrollIntoView` rejects an options object; use the `alignToTop` boolean. With no children, it scrolls the nearest sibling or parent as a fallback.
 - Each first-level DOM child of a fragment with a `ref` gets a `reactFragments` property (a `Set<FragmentInstance>`), enabling a shared/cached observer across fragments.
-
-# Citations
-
-[1] [Fragment (<>...</>)](https://react.dev/reference/react/Fragment)

@@ -4,7 +4,18 @@ title: Adoption Timeline
 description: The React Compiler arc from React Conf 2024 through public beta, the RC, the 1.0 stable release, and the late-2025 ecosystem reckoning.
 resource: https://react.dev/blog/2025/10/07/react-compiler-1
 tags: [react, react-compiler, history, timeline, adoption, rules-of-react]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://react.dev/blog/2025/10/07/react-compiler-1
+    title: "React Compiler v1.0"
+  - resource: https://react.dev/blog/2024/10/21/react-compiler-beta-release
+    title: "React Compiler (Beta)"
+  - resource: https://blog.logrocket.com/react-compiler-rc/
+    title: "React Compiler RC: What it means for React devs"
+  - resource: https://saschb2b.com/blog/react-compiler-year-in-review
+    title: "The React Compiler at Eighteen Months: The Arc, the Debates, and What's Next"
 ---
 
 # The arc in one line
@@ -48,10 +59,3 @@ Automatic memoization is only sound if the code follows the rules the [pipeline]
 - [Roadmap](roadmap.md): directional signals for what comes after 1.0.
 - [Introduction](introduction.md): the compiler as it is documented today.
 - [Rules of React](/reference/rules/components-and-hooks-must-be-pure.md): the contract that became enforceable.
-
-# Citations
-
-[1] [React Compiler v1.0](https://react.dev/blog/2025/10/07/react-compiler-1)
-[2] [React Compiler (Beta)](https://react.dev/blog/2024/10/21/react-compiler-beta-release)
-[3] [React Compiler RC: What it means for React devs](https://blog.logrocket.com/react-compiler-rc/)
-[4] [The React Compiler at Eighteen Months: The Arc, the Debates, and What's Next](https://saschb2b.com/blog/react-compiler-year-in-review)

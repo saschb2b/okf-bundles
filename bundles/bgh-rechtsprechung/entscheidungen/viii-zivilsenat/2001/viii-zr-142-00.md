@@ -9,13 +9,14 @@ datum: 2001-01-31
 aktenzeichen: "VIII ZR 142/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:18:01Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:18:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2000/VIII_ZR_142-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 31.01.2001 - VIII ZR 142/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 142/00 vom 31.01.2001.
-
-# Citations
-
-[1] [BGH, Urteil vom 31.01.2001 - VIII ZR 142/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2000/VIII_ZR_142-00.pdf?__blob=publicationFile&v=1)
-

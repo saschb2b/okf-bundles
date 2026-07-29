@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZA 14/10"
 doknr: "JURE100073631"
 normen: ["§ 114 ZPO, § 160 Abs 3 Nr 5 ZPO, § 162 Abs 1  ZPO, § 418 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 02.11.2010 - VIII ZA 14/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 114 ZPO, § 160 Abs 3 Nr 5 ZPO, § 162 Abs 1  ZPO, § 418 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZA 14/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 02.11.2010 - VIII ZA 14/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

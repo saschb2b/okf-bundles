@@ -4,7 +4,20 @@ title: Anthropic go-to-market
 description: Direct channels, cloud-marketplace resale, and hyperscaler equity-plus-compute partnerships.
 resource: https://www.anthropic.com/news/series-h
 tags: [anthropic, distribution, amazon, google, cloud]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://platform.claude.com/docs/en/about-claude/pricing
+    title: "Claude pricing docs (Anthropic, 2026)"
+  - resource: https://valueaddvc.com/blog/how-anthropic-makes-money-claude-api-enterprise-and-the-business-model-breakdown
+    title: "How Anthropic makes money (Value Add VC, 2026)"
+  - resource: https://fortune.com/2026/04/30/google-amazon-ai-profits-anthropic-stake-bubble-earnings-2026/
+    title: "Google and Amazon AI profits and the Anthropic stake (Fortune, 2026)"
+  - resource: https://www.anthropic.com/news/anthropic-amazon-compute
+    title: "Anthropic and Amazon expand collaboration (Anthropic, 2026)"
+  - resource: https://www.anthropic.com/news/series-h
+    title: "Series H funding (Anthropic, 2026)"
 ---
 
 # Three ways Claude reaches buyers
@@ -26,11 +39,3 @@ The same partners fund Anthropic, sell Claude, and supply the compute its [cost 
 - **Other compute channels** named in the Series H: SpaceX (Colossus GPU capacity), Micron, Samsung, and SK hynix. [5]
 
 This entanglement is both an advantage and a dependency, and it is examined as part of the [moats](/moat/moats.md) and the [governance](/strategy/governance.md) trajectory.
-
-# Citations
-
-[1] [Claude pricing docs (Anthropic, 2026)](https://platform.claude.com/docs/en/about-claude/pricing)
-[2] [How Anthropic makes money (Value Add VC, 2026)](https://valueaddvc.com/blog/how-anthropic-makes-money-claude-api-enterprise-and-the-business-model-breakdown)
-[3] [Google and Amazon AI profits and the Anthropic stake (Fortune, 2026)](https://fortune.com/2026/04/30/google-amazon-ai-profits-anthropic-stake-bubble-earnings-2026/)
-[4] [Anthropic and Amazon expand collaboration (Anthropic, 2026)](https://www.anthropic.com/news/anthropic-amazon-compute)
-[5] [Series H funding (Anthropic, 2026)](https://www.anthropic.com/news/series-h)

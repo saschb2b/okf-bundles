@@ -4,7 +4,12 @@ title: Separating Events from Effects
 description: Choose between event handlers and Effects, and extract non-reactive logic into Effect Events so some values do not re-trigger an Effect.
 resource: https://react.dev/learn/separating-events-from-effects
 tags: [react, effects, useEffectEvent, events, reactive-values]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/separating-events-from-effects
+    title: "Separating Events from Effects"
 ---
 
 # Summary
@@ -83,7 +88,3 @@ Pass the reactive value (`url`) as an argument from the Effect rather than readi
 - Move non-reactive logic from Effects into Effect Events.
 - Only call Effect Events from inside Effects.
 - Do not pass Effect Events to other components or Hooks.
-
-# Citations
-
-[1] [Separating Events from Effects](https://react.dev/learn/separating-events-from-effects)

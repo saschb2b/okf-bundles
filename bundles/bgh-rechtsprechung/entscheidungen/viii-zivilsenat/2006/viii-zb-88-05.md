@@ -9,13 +9,14 @@ datum: 2006-05-03
 aktenzeichen: "VIII ZB 88/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:31:10Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:31:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZB__88-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 03.05.2006 - VIII ZB 88/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 88/05 vom 03.05.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.05.2006 - VIII ZB 88/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZB__88-05.pdf?__blob=publicationFile&v=1)
-

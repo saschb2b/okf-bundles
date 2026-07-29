@@ -4,7 +4,16 @@ title: Cardano hard fork history
 description: Every activated Cardano hard fork from Byron (2017) to van Rossem (June 2026), with dates and headline features.
 resource: https://cardano.org/hardforks/
 tags: [cardano, hard-forks, upgrades, history]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://cardano.org/hardforks/
+    title: "Cardano hard forks (cardano.org, accessed 2026-07-07)"
+  - resource: https://crypto.news/cardano-van-rossem-hard-fork-reaches-mainnet-governance/
+    title: "van Rossem reaches mainnet through governance (crypto.news, June 2026)"
+  - resource: https://icobench.com/news/cardano-van-rossem-hard-fork-live-ada-holders/
+    title: "van Rossem hard fork live (icobench, June 2026)"
 ---
 
 # How to read this
@@ -36,9 +45,3 @@ van Rossem is the **first Cardano hard fork initiated entirely through on-chain 
 # What is not yet scheduled
 
 As of this snapshot the official page lists no activated fork beyond 11.0. Research-stage consensus upgrades like **Ouroboros Leios and Peras** ([throughput and finality](/cardano/ouroboros.md)) are not yet assigned a protocol-version hard-fork date. [1]
-
-# Citations
-
-[1] [Cardano hard forks (cardano.org, accessed 2026-07-07)](https://cardano.org/hardforks/)
-[2] [van Rossem reaches mainnet through governance (crypto.news, June 2026)](https://crypto.news/cardano-van-rossem-hard-fork-reaches-mainnet-governance/)
-[3] [van Rossem hard fork live (icobench, June 2026)](https://icobench.com/news/cardano-van-rossem-hard-fork-live-ada-holders/)

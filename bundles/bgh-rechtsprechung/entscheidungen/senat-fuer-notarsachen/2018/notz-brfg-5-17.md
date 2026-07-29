@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:191118UNOTZ.BRFG.5.17.0"
 doknr: "KORE303532019"
 normen: ["§ 1 BNotO, § 6 Abs 1 S 1 BNotO, § 56 Abs 2 BNotO, § 110a Abs 3 BNotO, Art 33 Abs 2 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.11.2018 - NotZ (Brfg) 5/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Vorschrift des § 56 Abs. 2 BNotO begründet für sich genommen keine subjektiven Rechte eines Bewerbers auf Bestellung zum Notariatsverwalter. Hat die Landesjustizverwaltung aber entschieden, dass die Bestellung eines Notariatsverwalters erforderlich ist, so stehen einem Bewerber für das auf dieser Grundlage zu besetzende öffentliche Amt des Notariatsverwalters - gleichgültig, ob es sich bei ihm um den bisherigen Amtsinhaber oder einen Dritten handelt - gemäß Art. 33 Abs. 2 GG grundrechtsgleiche Rechte auf ermessens- und beurteilungsfehlerfreie Einbeziehung in die Bewerberauswahl zu.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:28:12Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 5/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.11.2018 - NotZ (Brfg) 5/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

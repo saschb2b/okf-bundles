@@ -5,7 +5,12 @@ description: Das Arbeitsverhältnis ist ordentlich mit vier Wochen Grundfrist k�
 resource: https://www.gesetze-im-internet.de/bgb/__622.html
 tags: [arbeitsrecht, kuendigung, kuendigungsfrist, probezeit]
 norm: "§ 622 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__622.html
+    title: "§ 622 BGB"
 ---
 
 # Grundfrist (§ 622 Abs. 1)
@@ -33,7 +38,3 @@ Während einer vereinbarten Probezeit, längstens für sechs Monate, kann mit ei
 # Bezug
 
 § 622 regelt nur die **Frist** der ordentlichen Kündigung. Ob die Kündigung wirksam ist, hängt zusätzlich vom [Kündigungsschutz](/arbeitsrecht/kuendigungsschutz-1-kschg.md) ab. Die fristlose Kündigung richtet sich nach [§ 626](/arbeitsrecht/ausserordentliche-kuendigung-626.md).
-
-# Citations
-
-[1] [§ 622 BGB](https://www.gesetze-im-internet.de/bgb/__622.html)

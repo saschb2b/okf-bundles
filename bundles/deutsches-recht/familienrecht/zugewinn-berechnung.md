@@ -5,7 +5,18 @@ description: Der Zugewinn ist der Überschuss des Endvermögens über das Anfang
 resource: https://www.gesetze-im-internet.de/bgb/__1373.html
 tags: [familienrecht, zugewinn, anfangsvermoegen, endvermoegen, berechnung]
 norm: "§§ 1373, 1374, 1375, 1378, 1379, 1384 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1374.html
+    title: "§ 1374 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1375.html
+    title: "§ 1375 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1378.html
+    title: "§ 1378 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1384.html
+    title: "§ 1384 BGB"
 ---
 
 # Rechenweg
@@ -26,10 +37,3 @@ Der [Zugewinnausgleich](/familienrecht/zugewinnausgleich-1378.md) wird je Ehegat
 # Bezug
 
 Endet der Güterstand durch Tod, wird statt dieser Berechnung der erbrechtliche Pauschalausgleich nach § 1371 vorgenommen (siehe [Ehegattenerbrecht](/erbrecht/ehegattenerbrecht-1931.md)); die Grundlagen des Güterstands stehen im [Güterstand-Konzept](/familienrecht/gueterstand-zugewinn-1363.md).
-
-# Citations
-
-[1] [§ 1374 BGB](https://www.gesetze-im-internet.de/bgb/__1374.html)
-[2] [§ 1375 BGB](https://www.gesetze-im-internet.de/bgb/__1375.html)
-[3] [§ 1378 BGB](https://www.gesetze-im-internet.de/bgb/__1378.html)
-[4] [§ 1384 BGB](https://www.gesetze-im-internet.de/bgb/__1384.html)

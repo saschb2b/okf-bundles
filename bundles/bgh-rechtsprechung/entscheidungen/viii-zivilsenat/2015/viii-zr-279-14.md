@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 279/14"
 doknr: "JURE150006188"
 normen: ["§ 8 ZPO, § 9 ZPO, § 577a BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 03.03.2015 - VIII ZR 279/14 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 8 ZPO, § 9 ZPO, § 577a BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 279/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.03.2015 - VIII ZR 279/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

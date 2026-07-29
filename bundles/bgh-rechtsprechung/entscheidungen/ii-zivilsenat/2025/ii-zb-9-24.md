@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:110325BIIZB9.24.0"
 doknr: "KORE707432025"
 normen: ["§ 18 Abs 1 HGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.03.2025 - II ZB 9/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Firma "v.       .de AG" besitzt nicht die nach § 18 Abs. 1 HGB erforderliche Unterscheidungskraft.
@@ -24,8 +30,3 @@ Die Firma "v.       .de AG" besitzt nicht die nach § 18 Abs. 1 HGB erfo
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 9/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.03.2025 - II ZB 9/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

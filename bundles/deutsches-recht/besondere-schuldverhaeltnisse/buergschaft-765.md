@@ -5,7 +5,16 @@ description: Der Bürge verpflichtet sich, für die Verbindlichkeit eines Dritte
 resource: https://www.gesetze-im-internet.de/bgb/__765.html
 tags: [schuldrecht-bt, buergschaft, akzessorietaet, personalsicherheit]
 norm: "§§ 765, 766, 767, 771, 773 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__765.html
+    title: "§ 765 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__766.html
+    title: "§ 766 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__771.html
+    title: "§ 771 BGB"
 ---
 
 # Regel (§ 765)
@@ -27,9 +36,3 @@ Der Bürge kann die Befriedigung des Gläubigers verweigern, solange dieser nich
 # Siehe auch
 
 Die Bürgschaftserklärung des Bürgen bedarf nach § 766 der [Schriftform](/bgb-at/form.md).
-
-# Citations
-
-[1] [§ 765 BGB](https://www.gesetze-im-internet.de/bgb/__765.html)
-[2] [§ 766 BGB](https://www.gesetze-im-internet.de/bgb/__766.html)
-[3] [§ 771 BGB](https://www.gesetze-im-internet.de/bgb/__771.html)

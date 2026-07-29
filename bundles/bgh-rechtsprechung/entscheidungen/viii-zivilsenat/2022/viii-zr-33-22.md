@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:061222BVIIIZR33.22.0"
 doknr: "KORE618692023"
 normen: ["§ 3 ZPO, § 9 ZPO, § 544 Abs 2 Nr 1 ZPO, § 559 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.12.2022 - VIII ZR 33/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 3 ZPO, § 9 ZPO, § 544 Abs 2 Nr 1 ZPO, § 559 Abs 2 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 33/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.12.2022 - VIII ZR 33/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

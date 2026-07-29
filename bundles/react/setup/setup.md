@@ -4,7 +4,12 @@ title: Setup
 description: Landing page for getting your React development environment ready, covering editors, TypeScript, browser devtools, and the compiler.
 resource: https://react.dev/learn/setup
 tags: [react, setup, tooling, environment]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/setup
+    title: "Setup"
 ---
 
 # Summary
@@ -21,7 +26,3 @@ React integrates with editors, TypeScript, browser extensions, and compilers. Th
 # Next steps
 
 Head to the Quick Start guide for a tour of the most important React concepts, at [/get-started/quick-start.md](/get-started/quick-start.md).
-
-# Citations
-
-[1] [Setup](https://react.dev/learn/setup)

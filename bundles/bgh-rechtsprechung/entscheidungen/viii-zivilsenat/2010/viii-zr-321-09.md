@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 321/09"
 doknr: "KORE300682010"
 normen: ["§ 558a Abs 1 BGB, § 10 Abs 1 S 1 WoBindG, § 10 Abs 1 S 5 WoBindG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.07.2010 - VIII ZR 321/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Wirksamkeit eines Mieterhöhungsverlangens, mit dem der Vermieter die "Erhöhung einer Nettokaltmiete" begehrt, obwohl einzelne Betriebskosten in der Miete enthalten sind ("Teilinklusivmiete")  .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 321/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.07.2010 - VIII ZR 321/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

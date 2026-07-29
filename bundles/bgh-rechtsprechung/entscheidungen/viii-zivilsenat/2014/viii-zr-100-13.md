@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 100/13"
 doknr: "KORE310212014"
 normen: ["§ 170 Abs 1 ZPO, § 339 Abs 1 ZPO, § 579 Abs 1 Nr 4 ZPO, § 579 Abs 2 ZPO, § 700 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.01.2014 - VIII ZR 100/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die unter Verstoß gegen § 170 Abs. 1 ZPO erfolgte Zustellung eines Vollstreckungsbescheids an eine aus dem zuzustellenden Titel nicht erkennbar prozessunfähige Partei setzt die Einspruchsfrist in Gang (Bestätigung von BGH, Urteil vom 25. März 1988, V ZR 1/87, BGHZ 104, 109 und BGH, Urteil vom 19. März 2008, VIII ZR 68/07, BGHZ 176, 74 Rn. 9).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 100/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.01.2014 - VIII ZR 100/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

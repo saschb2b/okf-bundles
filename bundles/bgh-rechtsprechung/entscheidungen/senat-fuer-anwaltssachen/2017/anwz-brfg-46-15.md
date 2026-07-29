@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:200317UANWZ.BRFG.46.15.0"
 doknr: "KORE300922017"
 normen: ["§ 4 Abs 1 InfFrG NW, § 4 Abs 2 S 2 InfFrG NW, § 5 Abs 1 S 5 InfFrG NW, § 7 Abs 1 InfFrG NW, § 7 Abs 3 S 2 InfFrG NW, § 76 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.03.2017 - AnwZ (Brfg) 46/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird gemäß § 4 Abs. 1 des Informationsfreiheitsgesetzes Nordrhein-Westfalen (IFG NRW) Einsicht in die Protokolle von Sitzungen des Vorstands einer Rechtsanwaltskammer begehrt, entfällt gemäß § 4 Abs. 2 Satz 2 IFG NRW die Verschwiegenheitspflicht der Vorstandsmitglieder der Rechtsanwaltskammer nach § 76 BRAO.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 46/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.03.2017 - AnwZ (Brfg) 46/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

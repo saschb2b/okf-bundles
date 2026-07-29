@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:110122BVIIIZB37.21.0"
 doknr: "KORE312162022"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO, § 234 ZPO, § 321a  Abs 1 S 1 Nr 1  ZPO, § 522 Abs 1 S 4 ZPO, § 575 Abs 1 S 1 ZPO, § 575 Abs 2 S 1 ZPO, Art 103 Abs 1  GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:14Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.01.2022 - VIII ZB 37/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird die Frist zur Einlegung eines Rechtsmittels deshalb versäumt, weil der Prozessbevollmächtigte der Partei zuvor einen unstatthaften Rechtsbehelf - hier Anhörungsrüge - eingelegt hat, liegt hierin regelmäßig ein der Partei zuzurechnendes (§ 85 Abs. 2 ZPO), einer Wiedereinsetzung in den vorigen Stand entgegenstehendes, Verschulden da von einem Rechtsanwalt erwartet wird, dass er das Rechtsmittelsystem der jeweiligen Verfahrensart kennt (im Anschluss an Senatsurteil vom 24. Juni 1992 - VIII ZR 203/91, NJW 1992, 2413 unter I 2 c, insoweit in BGHZ 119, 35 nicht abgedruckt; BGH, Beschlüsse vom 10. Mai 2016 - VIII ZR 19/16, NZM 2016, 767 Rn. 5 f.; vom 12. Oktober 2016 - V ZB 178/15, NJW 2017, 1112 Rn. 12).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:14Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 37/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.01.2022 - VIII ZB 37/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

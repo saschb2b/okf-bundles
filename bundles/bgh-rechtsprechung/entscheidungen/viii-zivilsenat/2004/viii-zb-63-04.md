@@ -9,13 +9,14 @@ datum: 2004-07-26
 aktenzeichen: "VIII ZB 63/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:26:19Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:26:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2004/VIII_ZB__63-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 26.07.2004 - VIII ZB 63/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 63/04 vom 26.07.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.07.2004 - VIII ZB 63/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2004/VIII_ZB__63-04.pdf?__blob=publicationFile&v=1)
-

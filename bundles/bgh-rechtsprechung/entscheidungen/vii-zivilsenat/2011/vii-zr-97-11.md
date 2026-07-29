@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 97/11"
 doknr: "JURE120000580"
 normen: ["§ 87c Abs 2 HGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:11Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.12.2011 - VII ZR 97/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 87c Abs 2 HGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:11Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 97/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.12.2011 - VII ZR 97/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

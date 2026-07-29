@@ -5,7 +5,12 @@ description: Das Unionsrecht gliedert sich in Primärrecht (EUV, AEUV, Grundrech
 resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
 tags: [europarecht, rechtsquellen, verordnung, richtlinie, sekundaerrecht]
 norm: "Art. 288 AEUV"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
+    title: "AEUV bei EUR-Lex"
 ---
 
 # Primär- und Sekundärrecht
@@ -19,7 +24,3 @@ timestamp: 2026-06-18T12:00:00Z
 - **Richtlinie.** Ist für jeden Mitgliedstaat, an den sie gerichtet wird, **hinsichtlich des zu erreichenden Ziels verbindlich**, überlässt aber Form und Mittel den innerstaatlichen Stellen (Umsetzung erforderlich, siehe [Richtlinienwirkung](/europarecht/richtlinie-wirkung-und-staatshaftung.md)).
 - **Beschluss.** In allen Teilen verbindlich; ist er an bestimmte Adressaten gerichtet, nur für diese.
 - **Empfehlungen und Stellungnahmen** sind **nicht verbindlich**.
-
-# Citations
-
-[1] [AEUV bei EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)

@@ -5,7 +5,14 @@ description: Hat der Geschädigte den Schaden mitverursacht, werden Ersatzpflich
 resource: https://www.gesetze-im-internet.de/bgb/__254.html
 tags: [schadensrecht, mitverschulden, schadensminderung, quote]
 norm: "§ 254 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__254.html
+    title: "§ 254 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__278.html
+    title: "§ 278 BGB"
 ---
 
 # Regel
@@ -28,8 +35,3 @@ Nach § 254 Abs. 2 Satz 2 ist § 278 entsprechend anzuwenden: Der Geschädigte m
 # Bezug
 
 § 254 mindert jeden Schadensersatzanspruch, auch den [deliktischen](/deliktsrecht/grundtatbestand-823-1.md), und greift in das [Schadensersatzrecht der §§ 249 ff.](/deliktsrecht/schadensersatzrecht-249-253.md) ein.
-
-# Citations
-
-[1] [§ 254 BGB](https://www.gesetze-im-internet.de/bgb/__254.html)
-[2] [§ 278 BGB](https://www.gesetze-im-internet.de/bgb/__278.html)

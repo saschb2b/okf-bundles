@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 99/13"
 doknr: "KORE315442014"
 normen: ["§ 104 ZPO, § 2039 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.02.2014 - III ZB 99/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist in einem Kostenfestsetzungsverfahren ein Miterbe Gegner der verstorbenen Partei gewesen, sind nur die übrigen Miterben befugt, auf Antragstellerseite das Kostenfestsetzungsverfahren fortzuführen. Der Miterbe, der Gegner der verstorbenen Partei gewesen ist, behält seine prozessuale Stellung bei.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 99/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.02.2014 - III ZB 99/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

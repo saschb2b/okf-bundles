@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 89/08"
 doknr: "KORE305632010"
 normen: ["§ 1570 BGB, § 1571 BGB, § 1572 BGB, § 1573 Abs 2 BGB, § 1578 Abs 1 S 1 BGB, § 1578b BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.04.2010 - XII ZR 89/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist der Unterhaltsberechtigte vollständig an einer Erwerbstätigkeit gehindert, ergibt sich der Anspruch auf nachehelichen Unterhalt allein aus den §§ 1570 bis 1572 BGB, und zwar auch für den Teil des Unterhaltsbedarfs, der nicht auf dem Erwerbshindernis, sondern auf dem den angemessenen Lebensbedarf übersteigenden Bedarf nach den ehelichen Lebensverhältnissen gemäß § 1578 Abs. 1 Satz 1 BGB beruht. Ist der Unterhaltsberechtigte hingegen nur teilweise an einer Erwerbstätigkeit gehindert, ergibt sich der Unterhaltsanspruch wegen des allein durch die Erwerbshinderung verursachten Einkommensausfalls aus den §§ 1570 bis 1572 BGB und im Übrigen als Aufstockungsunterhalt aus § 1573 Abs. 2 BGB (im Anschluss an BGH, 26. November 2008, XII ZR 131/07, BGHZ 179, 43 = FamRZ 2009, 406) .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 89/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.04.2010 - XII ZR 89/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

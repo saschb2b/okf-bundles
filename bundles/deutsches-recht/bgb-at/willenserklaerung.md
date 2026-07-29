@@ -5,7 +5,16 @@ description: Die auf eine Rechtsfolge gerichtete Äußerung; ihr Tatbestand, ihr
 resource: https://www.gesetze-im-internet.de/bgb/__130.html
 tags: [bgb-at, willenserklaerung, auslegung, zugang]
 norm: "§§ 116 bis 133 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__130.html
+    title: "§ 130 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__133.html
+    title: "§ 133 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__157.html
+    title: "§ 157 BGB"
 ---
 
 # Begriff
@@ -24,9 +33,3 @@ Nach § 133 ist der wirkliche Wille zu erforschen und nicht am buchstäblichen S
 # Wirksamwerden und Zugang (§ 130)
 
 Eine empfangsbedürftige Willenserklärung unter Abwesenden wird mit **Zugang** wirksam (§ 130 Abs. 1 Satz 1). Zugang bedeutet, dass die Erklärung so in den Machtbereich des Empfängers gelangt, dass unter normalen Umständen mit der Kenntnisnahme zu rechnen ist. Ein Widerruf ist nur wirksam, wenn er vorher oder gleichzeitig zugeht (§ 130 Abs. 1 Satz 2). Auf den Tod oder den Eintritt der Geschäftsunfähigkeit nach Abgabe kommt es nicht an (§ 130 Abs. 2).
-
-# Citations
-
-[1] [§ 130 BGB](https://www.gesetze-im-internet.de/bgb/__130.html)
-[2] [§ 133 BGB](https://www.gesetze-im-internet.de/bgb/__133.html)
-[3] [§ 157 BGB](https://www.gesetze-im-internet.de/bgb/__157.html)

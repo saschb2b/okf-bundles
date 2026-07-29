@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:100419UVIIIZR12.18.0"
 doknr: "KORE301032019"
 normen: ["§ 322 Abs 1 ZPO, § 320 Abs 1 S 1 BGB, § 320 Abs 2 BGB, § 543 Abs 1 S 1 BGB, § 543 Abs 2 S 1 Nr 3 BGB, § 546 Abs 1 BGB, § 985 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.04.2019 - VIII ZR 12/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird eine Klage auf Zahlung von Miete ganz oder teilweise mit der Begründung abgewiesen, die Miete sei aufgrund von Mängeln gemindert, erwachsen - als bloße Vorfragen - weder die Ausführungen zum Bestehen von Mängeln noch die vom Gericht angesetzten Minderungsquoten in Rechtskraft. 
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 12/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.04.2019 - VIII ZR 12/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

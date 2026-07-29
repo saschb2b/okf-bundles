@@ -4,7 +4,12 @@ title: Lifecycle of Reactive Effects
 description: How an Effect's lifecycle of start and stop synchronization differs from a component's, and why reactive values must be dependencies.
 resource: https://react.dev/learn/lifecycle-of-reactive-effects
 tags: [react, effects, useEffect, dependencies, reactive-values]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/lifecycle-of-reactive-effects
+    title: "Lifecycle of Reactive Effects"
 ---
 
 # Summary
@@ -79,7 +84,3 @@ The linter checks that every reactive value used by the Effect is declared. Neve
 - Values declared in the component body are reactive and can change over time.
 - Reactive values used by an Effect must be dependencies so it re-synchronizes when they change.
 - The linter flags missing dependencies, and every flag is legitimate; there is always a way to fix the code.
-
-# Citations
-
-[1] [Lifecycle of Reactive Effects](https://react.dev/learn/lifecycle-of-reactive-effects)

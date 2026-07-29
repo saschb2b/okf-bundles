@@ -4,7 +4,12 @@ title: StrictMode
 description: Enable extra development-only checks to surface common bugs early in a component tree.
 resource: https://react.dev/reference/react/StrictMode
 tags: [react, component, strict-mode, development, debugging]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/StrictMode
+    title: "StrictMode"
 ---
 
 # Reference
@@ -61,7 +66,3 @@ React warns when any component inside `<StrictMode>` uses a deprecated API, such
 - All Strict Mode checks run only in development and do not affect the production build.
 - When Strict Mode is enabled for only part of the app, React enables only behaviors possible in production. For example, it will not double-run Effects on initial mount if `<StrictMode>` is not at the root, since that could not happen in production.
 - With React DevTools installed, `console.log` calls during the second render appear dimmed, and DevTools offers a setting to suppress them.
-
-# Citations
-
-[1] [StrictMode](https://react.dev/reference/react/StrictMode)

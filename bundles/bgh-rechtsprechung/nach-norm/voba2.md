@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VOBA2"
 description: "BGH-Entscheidungen zu VOBA2, geordnet nach Vorschrift."
 tags: [register, navigation, voba2]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

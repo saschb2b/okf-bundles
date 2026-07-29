@@ -5,7 +5,16 @@ description: Der Schwerbehindertenausweis trägt Merkzeichen, die Nachteilsausgl
 resource: https://www.gesetze-im-internet.de/sgb_9_2018/__229.html
 tags: [behinderung-teilhabe, merkzeichen, ausweis, ag, freifahrt, parkausweis]
 norm: "§§ 152 Abs. 5, 228, 229 SGB IX; § 33b EStG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__229.html
+    title: "§ 229 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__228.html
+    title: "§ 228 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/estg/__33b.html
+    title: "§ 33b EStG"
 ---
 
 # Ausweis und Merkzeichen (§ 152 Abs. 5)
@@ -28,9 +37,3 @@ Das Versorgungsamt stellt einen **Schwerbehindertenausweis** aus, der die Eigens
 # Hinweis
 
 Die konkreten Beträge (Pauschbeträge, Wertmarkenpreis) ändern sich; maßgeblich ist die jeweils geltende Fassung. Dauerhaft sind die Merkzeichen und die Zuordnung der Ausgleiche.
-
-# Citations
-
-[1] [§ 229 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__229.html)
-[2] [§ 228 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__228.html)
-[3] [§ 33b EStG](https://www.gesetze-im-internet.de/estg/__33b.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:270520UVIIIZR121.19.0"
 doknr: "KORE301442020"
 normen: ["§ 557 Abs 2 ZPO, § 134 BGB, § 398 BGB, § 399 Alt 1 BGB, § 556d Abs 1 BGB, § 556d Abs 2 BGB, § 556g Abs 1 S 3 BGB, § 556g Abs 2 BGB, § 556g Abs 3 S 1 BGB, § 2 Abs 2 S 1 RDG, § 3 RDG, § 4 RDG, § 10 Abs 1 S 1 Nr 1 RDG, § 4 Abs 1 S 1 RDGEG, § 4 Abs 3 S 1 RDGEG, § 4 Abs 3 S 2 RDGEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 27.05.2020 - VIII ZR 121/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 557 Abs. 2 ZPO schließt eine Inzidentprüfung einer unanfechtbaren Entscheidung über das Ablehnungsgesuch durch das Revisionsgericht im Rahmen des Rechtsmittels gegen eine von erfolglos abgelehnten Richtern getroffene Entscheidung in der Hauptsache aus (im Anschluss an Senatsurteile vom 8. April 2020 - VIII ZR 130/19, WM 2020, 991 Rn. 20 ff.; vom 6. Mai 2020 - VIII ZR 120/19, unter II 1; vom 27. Mai 2020 - VIII ZR 128/19 und VIII ZR 129/19, jeweils unter II 1).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:14:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 121/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 27.05.2020 - VIII ZR 121/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

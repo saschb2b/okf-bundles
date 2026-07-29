@@ -9,13 +9,14 @@ datum: 2003-04-11
 aktenzeichen: "XI ZB 5/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:15:14Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:15:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2003/XI_ZB___5-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 11.04.2003 - XI ZB 5/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XI ZB 5/03 vom 11.04.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.04.2003 - XI ZB 5/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2003/XI_ZB___5-03.pdf?__blob=publicationFile&v=1)
-

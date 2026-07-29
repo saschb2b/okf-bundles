@@ -9,13 +9,14 @@ datum: 2004-11-08
 aktenzeichen: "AnwZ (B) 83/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:18:36Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:18:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2003/AnwZ_B__83-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 08.11.2004 - AnwZ (B) 83/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 83/03 vom 08.11.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.11.2004 - AnwZ (B) 83/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2003/AnwZ_B__83-03.pdf?__blob=publicationFile&v=1)
-

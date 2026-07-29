@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:190522BIXZB6.21.0"
 doknr: "KORE306902022"
 normen: ["§ 220 Abs 2 InsO, § 248 InsO, § 250 Nr 1 InsO, § 286 InsO, §§ 286ff InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.05.2022 - IX ZB 6/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der gerichtlichen Bestätigung eines Insolvenzplans, durch den der Schuldner von seinen restlichen Verbindlichkeiten befreit werden soll, steht nicht entgegen, dass der Schuldner keine Restschuldbefreiung nach den gesetzlichen Bestimmungen erlangen kann.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 6/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.05.2022 - IX ZB 6/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

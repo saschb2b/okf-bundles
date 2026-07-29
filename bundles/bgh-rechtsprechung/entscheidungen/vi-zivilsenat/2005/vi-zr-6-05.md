@@ -9,13 +9,14 @@ datum: 2005-08-24
 aktenzeichen: "VI ZR 6/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:29:13Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:29:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2005/VI_ZR___6-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 24.08.2005 - VI ZR 6/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VI ZR 6/05 vom 24.08.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.08.2005 - VI ZR 6/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2005/VI_ZR___6-05.pdf?__blob=publicationFile&v=1)
-

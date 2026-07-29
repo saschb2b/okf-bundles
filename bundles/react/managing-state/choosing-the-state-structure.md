@@ -4,7 +4,12 @@ title: Choosing the State Structure
 description: Five principles for shaping state so it stays in sync, avoids impossible states, and is easy to update without introducing bugs.
 resource: https://react.dev/learn/choosing-the-state-structure
 tags: [react, state, data-modeling, bugs]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/choosing-the-state-structure
+    title: "Choosing the State Structure"
 ---
 
 # Summary
@@ -100,7 +105,3 @@ Improving memory usage: also delete removed items and their children from the ta
 - Do not put props into state unless you specifically want to prevent updates.
 - For patterns like selection, keep an ID or index in state instead of the object itself.
 - If updating deeply nested state is complicated, try flattening it.
-
-# Citations
-
-[1] [Choosing the State Structure](https://react.dev/learn/choosing-the-state-structure)

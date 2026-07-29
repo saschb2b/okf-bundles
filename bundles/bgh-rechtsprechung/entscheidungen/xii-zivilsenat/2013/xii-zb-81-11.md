@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 81/11"
 doknr: "KORE303042013"
 normen: ["§ 242 BGB, § 875 BGB, § 1603 BGB, § 79 Abs 2 S 4 BVerfGG, Art 2 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:58Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.03.2013 - XII ZB 81/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wurde ein unterhaltspflichtiges Kind rechtskräftig dazu verurteilt, Ansprüche auf Elternunterhalt, die der Sozialhilfeträger aus übergegangenem Recht geltend macht, durch die Annahme eines Darlehensangebotes des Sozialhilfeträgers zu erfüllen, und beruht das Urteil auf einer Rechtsanwendung, die vom Bundesverfassungsgericht zu einem späteren Zeitpunkt in einem anderen Fall als verfassungswidrig beanstandet wurde, kann dem Anspruch des Sozialhilfeträgers auf Rückzahlung des Darlehens der Einwand des rechtsmissbräuchlichen Verhaltens entgegengesetzt werden.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:58Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 81/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.03.2013 - XII ZB 81/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

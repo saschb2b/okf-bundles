@@ -4,7 +4,12 @@ title: Backlog refinement
 description: The ongoing team activity of adding detail, order, and size to upcoming items so they become small, clear, and deliverable before a sprint.
 resource: https://www.mountaingoatsoftware.com/blog/product-backlog-refinement-grooming
 tags: [refinement, scrum, planning]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.mountaingoatsoftware.com/blog/product-backlog-refinement-grooming
+    title: "Product Backlog Refinement (Mike Cohn)"
 ---
 
 # Definition
@@ -17,7 +22,3 @@ An ongoing activity (not a mandated Scrum event) where the team turns big, vague
 - [Example Map](/techniques/example-mapping.md) anything you cannot explain in a sentence.
 - Split anything bigger than a few days on the spot, using [SPIDR](/techniques/spidr.md) and the [story-splitting patterns](/techniques/story-splitting-patterns.md).
 - Make "send it back" a normal, blameless move, driven by the [ready smell-test](/playbooks/ready-smell-test.md).
-
-# Citations
-
-[1] [Product Backlog Refinement (Mike Cohn)](https://www.mountaingoatsoftware.com/blog/product-backlog-refinement-grooming)

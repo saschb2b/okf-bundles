@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 63/10"
 doknr: "KORE303312012"
 normen: ["§ 1057 Abs 1 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:05Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:05Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.03.2012 - III ZB 63/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Streitwertabhängige Schiedsrichtervergütung
@@ -27,8 +33,3 @@ Streitwertabhängige Schiedsrichtervergütung
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 63/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.03.2012 - III ZB 63/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

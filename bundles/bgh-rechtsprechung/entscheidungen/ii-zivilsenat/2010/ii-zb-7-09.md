@@ -10,8 +10,14 @@ aktenzeichen: "II ZB 7/09"
 doknr: "KORE301492010"
 normen: ["§ 13 Abs 1 WpHG, § 37b Abs 1  WpHG, Art 1 Abs 1 EGRL 6/2003, Art 1 Abs 1 EGRL 124/2003, Art 1 Abs 2 EGRL 124/2003, § 4 KapMuG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, EuGH-Vorlage vom 22.11.2010 - II ZB 7/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Dem Gerichtshof der Europäischen Union werden folgende Fragen vorgelegt:
@@ -27,8 +33,3 @@ Dem Gerichtshof der Europäischen Union werden folgende Fragen vorgelegt:
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 7/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, EuGH-Vorlage vom 22.11.2010 - II ZB 7/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

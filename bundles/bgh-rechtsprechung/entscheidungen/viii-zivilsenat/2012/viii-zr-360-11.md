@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 360/11"
 doknr: "JURE120020796"
 normen: ["§ 543 Abs 2 Nr 3 Buchst b BGB, § 560 Abs 4 BGB, § 569 Abs 3 Nr 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.10.2012 - VIII ZR 360/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 543 Abs 2 Nr 3 Buchst b BGB, § 560 Abs 4 BGB, § 569 Abs 3 Nr 3 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 360/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.10.2012 - VIII ZR 360/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

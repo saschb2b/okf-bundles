@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:100216BIVARVZ8.15.0"
 doknr: "JURE160003886"
 normen: ["Art 19 Abs 4 GG, § 23 GVGEG, §§ 23ff GVGEG, § 24 GVGEG, § 418 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:08Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:08Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.02.2016 - IV AR (VZ) 8/15 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 19 Abs 4 GG, § 23 GVGEG, §§ 23ff GVGEG, § 24 GVGEG, § 418 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:08Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV AR (VZ) 8/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.02.2016 - IV AR (VZ) 8/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

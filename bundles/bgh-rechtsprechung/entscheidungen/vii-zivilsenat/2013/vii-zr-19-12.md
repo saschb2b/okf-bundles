@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 19/12"
 doknr: "KORE301612013"
 normen: ["§ 9 AGBG vom 09.12.1976, § 24 AGBG vom 09.12.1976, § 157 BGB, § 640 BGB, § 55 AIHonO vom 04.03.1991, § 57 AIHonO vom 04.03.1991"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.10.2013 - VII ZR 19/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die in den Allgemeinen Geschäftsbedingungen eines Ingenieurs enthaltene Verkürzung der Verjährungsfrist für Gewährleistungsansprüche für auf Bauwerke bezogene Planungs- und Überwachungsleistungen auf zwei Jahre ist auch bei Verwendung gegenüber einer Juristischen Person des öffentlichen Rechts unwirksam.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:14:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 19/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.10.2013 - VII ZR 19/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

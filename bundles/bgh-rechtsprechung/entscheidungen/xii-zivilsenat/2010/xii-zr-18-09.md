@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 18/09"
 doknr: "KORE315042011"
 normen: ["§ 519 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:09Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.12.2010 - XII ZR 18/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 An die Bezeichnung des Rechtsmittelgegners sind nach ständiger Rechtsprechung des Bundesgerichtshofs weniger strenge Anforderungen zu stellen als an die Bezeichnung des Rechtsmittelführers. Wenn der in der Vorinstanz obsiegende Gegner aus mehreren Streitgenossen besteht, richtet sich das Rechtsmittel im Zweifel gegen die gesamte angefochtene Entscheidung und somit gegen alle gegnerischen Streitgenossen, es sei denn, die Rechtsmittelschrift lässt eine Beschränkung der Anfechtung erkennen (im Anschluss an BGH, Beschluss vom 11. Mai 2010, VIII ZB 93/09, MDR 2010, 828) .
@@ -23,8 +29,3 @@ An die Bezeichnung des Rechtsmittelgegners sind nach ständiger Rechtsprechung d
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 18/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.12.2010 - XII ZR 18/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

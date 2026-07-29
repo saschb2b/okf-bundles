@@ -10,8 +10,14 @@ aktenzeichen: "AnwSt (R) 4/12"
 doknr: "JURE120014713"
 normen: ["§ 43 BRAO, § 113 Abs 1 BRAO, § 143 Abs 4 S 1 BRAO, § 327 StPO, § 266 StGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.07.2012 - AnwSt (R) 4/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 43 BRAO, § 113 Abs 1 BRAO, § 143 Abs 4 S 1 BRAO, § 327 StPO, § 266 StGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwSt (R) 4/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.07.2012 - AnwSt (R) 4/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

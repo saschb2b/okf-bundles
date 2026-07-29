@@ -5,7 +5,14 @@ description: Das Bürgergeld erhalten erwerbsfähige, hilfebedürftige Personen 
 resource: https://www.gesetze-im-internet.de/sgb_2/__7.html
 tags: [sozialrecht, sgb-ii, buergergeld, grundsicherung, bedarfsgemeinschaft]
 norm: "§§ 7, 19 ff. SGB II"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_2/__7.html
+    title: "§ 7 SGB II"
+  - resource: https://www.gesetze-im-internet.de/sgb_2/__22.html
+    title: "§ 22 SGB II"
 ---
 
 # Leistungsberechtigte (§ 7 Abs. 1)
@@ -26,8 +33,3 @@ Geprüft wird nicht die Einzelperson, sondern die **Bedarfsgemeinschaft**: die e
 # Leistungen
 
 Das Bürgergeld umfasst den **Regelbedarf** (§ 20), Mehrbedarfe (§ 21) und die **Bedarfe für Unterkunft und Heizung** in angemessener Höhe (§ 22). Die konkreten Regelbedarfsstufen werden jährlich fortgeschrieben.
-
-# Citations
-
-[1] [§ 7 SGB II](https://www.gesetze-im-internet.de/sgb_2/__7.html)
-[2] [§ 22 SGB II](https://www.gesetze-im-internet.de/sgb_2/__22.html)

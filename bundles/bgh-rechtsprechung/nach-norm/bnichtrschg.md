@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu BNichtrSchG"
 description: "BGH-Entscheidungen zu BNichtrSchG, geordnet nach Vorschrift."
 tags: [register, navigation, bnichtrschg]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

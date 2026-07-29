@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2026:210526UIIIZR56.25.0"
 doknr: "KORE303602026"
 normen: ["§ 1 AGG, § 3 Abs 1 S 1 AGG, § 19 Abs 1 AGG, § 20 Abs 1 S 1 AGG, § 21 Abs 2 AGG, § 12 S 1 SGB 1, § 17 Abs 1 Nr 4 SGB 1, § 4 SGB 9, § 6 SGB 9, § 36 Abs 1 S 2 SGB 9, § 78 Abs 1 S 2 SGB 9, § 113 Abs 6 SGB 9"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.05.2026 - III ZR 56/25 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Benachteiligung wegen Behinderung, Aufnahme in Rehaklinik
@@ -26,8 +32,3 @@ Benachteiligung wegen Behinderung, Aufnahme in Rehaklinik
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 56/25 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.05.2026 - III ZR 56/25 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

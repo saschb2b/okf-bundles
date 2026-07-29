@@ -10,8 +10,14 @@ aktenzeichen: "IX ZA 2/11"
 doknr: "JURE110004193"
 normen: ["§ 78b Abs 1 ZPO, § 233 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:58:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:58:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.01.2011 - IX ZA 2/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 78b Abs 1 ZPO, § 233 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T10:58:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZA 2/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.01.2011 - IX ZA 2/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

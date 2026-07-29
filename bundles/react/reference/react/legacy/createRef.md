@@ -4,7 +4,12 @@ title: createRef
 description: Legacy API that creates a ref object, used mostly in class components. Function components should use useRef instead.
 resource: https://react.dev/reference/react/createRef
 tags: [react, legacy, refs, class-components, api]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/createRef
+    title: "createRef"
 ---
 
 # Legacy notice
@@ -72,6 +77,3 @@ function Form() {
   );
 }
 ```
-
-# Citations
-[1] [createRef](https://react.dev/reference/react/createRef)

@@ -4,7 +4,16 @@ title: Roadmap and Directional Signals
 description: Where the React Compiler is heading after 1.0, based on React Team signals: finer-grained control, compiler-aware Server Components, DevTools visibility, React Native priority, and non-Babel backends.
 resource: https://react.dev/blog/2025/10/07/react-compiler-1
 tags: [react, react-compiler, roadmap, outlook, server-components, devtools]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://react.dev/blog/2025/10/07/react-compiler-1
+    title: "React Compiler v1.0"
+  - resource: https://saschb2b.com/blog/react-compiler-year-in-review
+    title: "The React Compiler at Eighteen Months"
+  - resource: https://github.com/reactwg/react-compiler
+    title: "React Compiler Working Group"
 ---
 
 # How to read this
@@ -41,9 +50,3 @@ The stable-event-callback idea (a primitive that reads the latest state without 
 - [Production experience](production-experience.md): the DevTools and silent-opt-out gaps this roadmap addresses.
 - [How the compiler works](how-it-works.md): the analysis that makes several of these directions feasible.
 - [Migration playbook](migration-playbook.md): what to do now, given the roadmap is unfinished.
-
-# Citations
-
-[1] [React Compiler v1.0](https://react.dev/blog/2025/10/07/react-compiler-1)
-[2] [The React Compiler at Eighteen Months](https://saschb2b.com/blog/react-compiler-year-in-review)
-[3] [React Compiler Working Group](https://github.com/reactwg/react-compiler)

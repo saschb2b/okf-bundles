@@ -5,7 +5,18 @@ description: Die Kosten zweckentsprechender Rechtsverfolgung sind als Verzugssch
 resource: https://www.gesetze-im-internet.de/bgb/__286.html
 tags: [schuldrecht-at, verzugsschaden, inkassokosten, rechtsverfolgungskosten, forderungskonto]
 norm: "§§ 280 Abs. 2, 286, 288 Abs. 5 BGB; RDG; RVG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__286.html
+    title: "§ 286 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__288.html
+    title: "§ 288 BGB"
+  - resource: https://www.gesetze-im-internet.de/rdg/
+    title: "Rechtsdienstleistungsgesetz (RDG)"
+  - resource: https://www.gesetze-im-internet.de/rvg/
+    title: "Rechtsanwaltsvergütungsgesetz (RVG)"
 ---
 
 # Grundsatz: Verzugsschaden
@@ -29,10 +40,3 @@ Bei Entgeltforderungen ohne Verbraucherbeteiligung besteht zusätzlich eine **Pa
 # Hinweis zur Aktualität
 
 Die konkreten Gebührensätze (RVG-Tabelle, Inkasso-Höchstsätze) ändern sich durch Gesetzesänderungen; ein Forderungsrechner muss die jeweils geltenden Sätze vorhalten. Dauerhaft sind der Erstattungsgrund (Verzugsschaden) und die Deckelung durch RVG/RDG.
-
-# Citations
-
-[1] [§ 286 BGB](https://www.gesetze-im-internet.de/bgb/__286.html)
-[2] [§ 288 BGB](https://www.gesetze-im-internet.de/bgb/__288.html)
-[3] [Rechtsdienstleistungsgesetz (RDG)](https://www.gesetze-im-internet.de/rdg/)
-[4] [Rechtsanwaltsvergütungsgesetz (RVG)](https://www.gesetze-im-internet.de/rvg/)

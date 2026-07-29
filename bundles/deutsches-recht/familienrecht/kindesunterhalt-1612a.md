@@ -5,7 +5,16 @@ description: Minderjährige Kinder beanspruchen Unterhalt als Prozentsatz des Mi
 resource: https://www.gesetze-im-internet.de/bgb/__1612a.html
 tags: [familienrecht, kindesunterhalt, mindestunterhalt, duesseldorfer-tabelle, kindergeld]
 norm: "§§ 1612a, 1612b, 1606 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1612a.html
+    title: "§ 1612a BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1612b.html
+    title: "§ 1612b BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1606.html
+    title: "§ 1606 BGB"
 ---
 
 # Mindestunterhalt und Altersstufen (§ 1612a)
@@ -31,9 +40,3 @@ Das Kindergeld mindert den Barbedarf: Bei einem minderjährigen Kind wird es zur
 # Hinweis zur Aktualität
 
 Die konkreten Euro-Beträge (Mindestunterhalt, Tabellenstufen, Kindergeld) ändern sich jährlich. Maßgeblich ist stets die **aktuelle Düsseldorfer Tabelle** und die Mindestunterhaltsverordnung; ein Unterhaltsrechner muss diese Werte aktuell vorhalten. Die hier wiedergegebene **Struktur** (Prozentsätze der Altersstufen, Einkommensstaffelung, Anrechnungsregel) ist dagegen dauerhaft.
-
-# Citations
-
-[1] [§ 1612a BGB](https://www.gesetze-im-internet.de/bgb/__1612a.html)
-[2] [§ 1612b BGB](https://www.gesetze-im-internet.de/bgb/__1612b.html)
-[3] [§ 1606 BGB](https://www.gesetze-im-internet.de/bgb/__1606.html)

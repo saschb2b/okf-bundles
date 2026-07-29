@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:200219UVIIIZR115.18.0"
 doknr: "KORE308272019"
 normen: ["§ 151 BGB, § 157 BGB, § 315 Abs 3 S 1 BGB, § 316 BGB, § 433 Abs 2 BGB, § 651 S 1 BGB, § 812 Abs 1 S 2 Alt 1  BGB, § 14 Abs 4 S 1 Nr 7 UStG, § 14 Abs 4 S 1 Nr 8 UStG, § 14c Abs 1 S 2 UStG, § 17 Abs 1 S 7 UStG, § 233a AO, § 238 AO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.02.2019 - VIII ZR 115/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Stellt ein Krankenhaus in seiner hauseigenen Apotheke patientenindividuell Zytostatika für eine ambulante Behandlung des Patienten in seiner Klinik her, kommt regelmäßig (stillschweigend) eine Bruttopreisabrede zustande, bei der der darin enthaltene Umsatzsteueranteil lediglich einen unselbstständigen Preisbestandteil bildet (im Anschluss an BGH, Urteile vom 20. Februar 2019 - VIII ZR 7/18 und VIII ZR 66/18). Dabei kommt dem Krankenhaus ein einseitiges Preisbestimmungsrecht nach §§ 316, 315 Abs. 3 Satz 1 BGB nicht zu. Vielmehr ist regelmäßig davon auszugehen, dass die Vertragsparteien sich in der hier gegebenen Fallgestaltung durch Rechnungstellung und vorbehaltlose Zahlung der verlangten (angemessenen) Beträge konkludent über die geschuldete Vergütung geeinigt haben (im Anschluss an BGH, Urteile vom 20. Februar 2019 - VIII ZR 7/18, BGHZ 221, 145 und VIII ZR 66/18).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:30:02Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 115/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.02.2019 - VIII ZR 115/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

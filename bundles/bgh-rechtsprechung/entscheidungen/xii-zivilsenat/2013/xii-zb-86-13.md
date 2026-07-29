@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 86/13"
 doknr: "KORE301822013"
 normen: ["§ 2 S 1 VBVG, § 168 Abs 1 S 4 FamFG, § 8 JBeitrO, § 168 Abs 1 S 4 FamFG, § 292 Abs 1  FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.11.2013 - XII ZB 86/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die materielle Ausschlussfrist des § 2 Satz 1 VBVG findet keine analoge Anwendung auf die Rückforderung überzahlter Betreuervergütung durch die Staatskasse.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:27:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 86/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.11.2013 - XII ZB 86/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

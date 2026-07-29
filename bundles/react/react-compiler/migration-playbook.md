@@ -4,7 +4,18 @@ title: Migration Playbook
 description: A field-tested sequence for adopting React Compiler incrementally, why the one-big-PR approach fails, and how to enable it per framework.
 resource: https://react.dev/learn/react-compiler/incremental-adoption
 tags: [react, react-compiler, adoption, migration, next.js, vite, react-native]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/react-compiler/incremental-adoption
+    title: "Incremental Adoption"
+  - resource: https://react.dev/learn/react-compiler/installation
+    title: "Installation"
+  - resource: https://react.dev/blog/2025/10/07/react-compiler-1
+    title: "React Compiler v1.0"
+  - resource: https://saschb2b.com/blog/react-compiler-year-in-review
+    title: "The React Compiler at Eighteen Months"
 ---
 
 # The one rule: do not migrate in one big PR
@@ -46,10 +57,3 @@ Full setup for each build tool is in [installation](installation.md); the short 
 - [Installation](installation.md): full per-framework build configuration.
 - [Linting for the compiler](linting.md): step 2 in depth.
 - [Production experience](production-experience.md): why incremental beats big-bang.
-
-# Citations
-
-[1] [Incremental Adoption](https://react.dev/learn/react-compiler/incremental-adoption)
-[2] [Installation](https://react.dev/learn/react-compiler/installation)
-[3] [React Compiler v1.0](https://react.dev/blog/2025/10/07/react-compiler-1)
-[4] [The React Compiler at Eighteen Months](https://saschb2b.com/blog/react-compiler-year-in-review)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:200722UVIIIZR361.21.0"
 doknr: "KORE304342022"
 normen: ["§ 559 Abs 2 BGB, § 559b BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.07.2022 - VIII ZR 361/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Erklärung über eine Modernisierungsmieterhöhung (§ 559 BGB) genügt regelmäßig den formellen Anforderungen nach § 559b BGB, wenn sie - im Hinblick auf die Angabe der entstandenen Kosten - die Gesamtkosten für die durchgeführte Modernisierungsmaßnahme und im Fall der Durchführung mehrerer verschiedener Modernisierungsmaßnahmen die jeweiligen Gesamtkosten für die einzelnen Maßnahmen ausweist.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 361/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.07.2022 - VIII ZR 361/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

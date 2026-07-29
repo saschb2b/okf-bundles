@@ -9,13 +9,14 @@ datum: 2004-11-11
 aktenzeichen: "III ZB 70/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:27:04Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:27:04Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2004/III_ZB__70-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 11.11.2004 - III ZB 70/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZB 70/04 vom 11.11.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.11.2004 - III ZB 70/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2004/III_ZB__70-04.pdf?__blob=publicationFile&v=1)
-

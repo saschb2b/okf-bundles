@@ -9,13 +9,14 @@ datum: 2001-07-26
 aktenzeichen: "III ZB 31/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:19:02Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:19:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2001/III_ZB__31-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 26.07.2001 - III ZB 31/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZB 31/01 vom 26.07.2001.
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.07.2001 - III ZB 31/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2001/III_ZB__31-01.pdf?__blob=publicationFile&v=1)
-

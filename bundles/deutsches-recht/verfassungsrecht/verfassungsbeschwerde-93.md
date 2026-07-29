@@ -5,7 +5,14 @@ description: Jeder kann mit der Behauptung, durch die öffentliche Gewalt in ein
 resource: https://www.gesetze-im-internet.de/gg/art_93.html
 tags: [verfassungsrecht, verfassungsbeschwerde, bverfg, rechtsschutz]
 norm: "Art. 93 Abs. 1 Nr. 4a GG; § 90 BVerfGG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gg/art_93.html
+    title: "Art. 93 GG"
+  - resource: https://www.gesetze-im-internet.de/bverfgg/__90.html
+    title: "§ 90 BVerfGG"
 ---
 
 # Regel
@@ -26,8 +33,3 @@ Das Bundesverfassungsgericht hebt verfassungswidrige Entscheidungen auf und kann
 # Bezug
 
 Über die Verfassungsbeschwerde werden die [Grundrechte](/verfassungsrecht/grundrechte-grundlagen.md) durchgesetzt; geprüft wird die [Verhältnismäßigkeit](/verfassungsrecht/verhaeltnismaessigkeit.md) des angegriffenen Eingriffs.
-
-# Citations
-
-[1] [Art. 93 GG](https://www.gesetze-im-internet.de/gg/art_93.html)
-[2] [§ 90 BVerfGG](https://www.gesetze-im-internet.de/bverfgg/__90.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:270219UVIIIZR255.17.0"
 doknr: "KORE308262019"
 normen: ["§ 144 Abs 1 S 1 ZPO, § 531 Abs 2 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.02.2019 - VIII ZR 255/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Es steht im pflichtgemäßen Ermessen des Gerichts, ob es nach § 144 Abs. 1 Satz 1 ZPO ein Sachverständigengutachten ohne Antrag des Beweispflichtigen von Amts wegen einholt; dies befreit die Partei jedoch nicht von ihrer Darlegungs- und Beweislast (im Anschluss an BGH, Urteil vom 9. Dezember 2014 - X ZR 13/14, juris Rn. 34).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:30:02Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 255/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.02.2019 - VIII ZR 255/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

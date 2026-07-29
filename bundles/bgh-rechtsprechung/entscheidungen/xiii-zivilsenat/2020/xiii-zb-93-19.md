@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:151220BXIIIZB93.19.0"
 doknr: "KORE310852021"
 normen: ["§ 417 Abs 2 S 2 Nr 5 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 15.12.2020 - XIII ZB 93/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Ergibt sich die vollziehbare Ausreisepflicht aus einem Bescheid des Bundesamts für Migration und Flüchtlinge, genügt der Haftantrag den Anforderungen des § 417 Abs. 2 Satz 2 Nr. 5 FamFG, wenn dieser wegen der Zustellung des Bescheids auf die Abschlussmitteilung des Bundesamts Bezug nimmt, soweit keine Anhaltspunkte für die Fehlerhaftigkeit der Abschlussmitteilung vorliegen.
@@ -24,8 +30,3 @@ Ergibt sich die vollziehbare Ausreisepflicht aus einem Bescheid des Bundesamts f
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 93/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.12.2020 - XIII ZB 93/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

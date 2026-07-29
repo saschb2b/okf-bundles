@@ -10,8 +10,14 @@ aktenzeichen: "RiZ (R) 7/10"
 doknr: "KORE314222011"
 normen: ["§ 26 Abs 3 DRiG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.10.2011 - RiZ (R) 7/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Frage einer Beeinträchtigung der richterlichen Unabhängigkeit durch den Betrieb und die Administration des EDV-Netzes im Bereich der rechtsprechenden Tätigkeit .
@@ -23,8 +29,3 @@ Zur Frage einer Beeinträchtigung der richterlichen Unabhängigkeit durch den Be
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen RiZ (R) 7/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.10.2011 - RiZ (R) 7/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

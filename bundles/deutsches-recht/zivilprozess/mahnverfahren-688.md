@@ -5,7 +5,14 @@ description: Wegen einer bestimmten Geldforderung kann ein Mahnbescheid beantrag
 resource: https://www.gesetze-im-internet.de/zpo/__688.html
 tags: [zivilprozess, mahnverfahren, mahnbescheid, vollstreckungsbescheid]
 norm: "§§ 688, 694, 699 ZPO"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__688.html
+    title: "§ 688 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__699.html
+    title: "§ 699 ZPO"
 ---
 
 # Regel (§ 688)
@@ -21,8 +28,3 @@ Wegen eines Anspruchs, der die **Zahlung einer bestimmten Geldsumme in Euro** zu
 # Bezug
 
 Der Vollstreckungsbescheid ist ein Vollstreckungstitel (§ 794) und führt in die [Zwangsvollstreckung](/zivilprozess/zwangsvollstreckung-704.md).
-
-# Citations
-
-[1] [§ 688 ZPO](https://www.gesetze-im-internet.de/zpo/__688.html)
-[2] [§ 699 ZPO](https://www.gesetze-im-internet.de/zpo/__699.html)

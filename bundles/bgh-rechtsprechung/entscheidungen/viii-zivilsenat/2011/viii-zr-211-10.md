@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 211/10"
 doknr: "KORE305802011"
 normen: ["§ 4 AVBEltV, § 32 AVBEltV, Art 267 AEUV, Art 3 Abs 5 EGRL 54/2003, Anh A Buchst b EGRL 54/2003, Anh A Buchst c EGRL 54/2003, § 315 Abs 3 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, EuGH-Vorlage vom 29.06.2011 - VIII ZR 211/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Dem Gerichtshof der Europäischen Union wird folgende Frage zur Auslegung des Gemeinschaftsrechts gemäß Art. 267 AEUV zur Vorabentscheidung vorgelegt:
@@ -25,8 +31,3 @@ Dem Gerichtshof der Europäischen Union wird folgende Frage zur Auslegung des Ge
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 211/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, EuGH-Vorlage vom 29.06.2011 - VIII ZR 211/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

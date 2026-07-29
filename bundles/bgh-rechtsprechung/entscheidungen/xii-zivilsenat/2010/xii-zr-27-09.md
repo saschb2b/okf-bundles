@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 27/09"
 doknr: "KORE305122011"
 normen: ["§ 85 ZPO, § 233 ZPO, § 234 Abs 3 ZPO, § 338 ZPO, Art 18 EGV 805/2004"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 15.12.2010 - XII ZR 27/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Veranlasst die Geschäftsstelle des Gerichts die nochmalige Zustellung eines Versäumnisurteils, weil sie irrig davon ausgeht, die bereits erfolgte Zustellung sei wegen fehlender Belehrung über den Einspruch unwirksam, so wird der bereits mit der ersten Zustellung ausgelöste Lauf der Einspruchsfrist davon nicht berührt .
@@ -31,8 +37,3 @@ timestamp: 2026-06-22T12:29:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 27/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 15.12.2010 - XII ZR 27/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

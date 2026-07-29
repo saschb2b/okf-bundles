@@ -4,7 +4,12 @@ title: logger
 description: Configures a custom callback to receive React Compiler events for tracking behavior and debugging.
 resource: https://react.dev/reference/react-compiler/logger
 tags: [react, react-compiler, configuration, debugging]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-compiler/logger
+    title: "logger"
 ---
 
 # Reference
@@ -80,7 +85,3 @@ timestamp: 2026-06-30T12:00:00Z
 - Large codebases generate many log entries.
 
 This option is set in the React Compiler config. For debugging compiled code, see [the React Compiler guide](/react-compiler/react-compiler.md).
-
-# Citations
-
-[1] [logger](https://react.dev/reference/react-compiler/logger)

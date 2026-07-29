@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 374/11"
 doknr: "KORE310502013"
 normen: ["§ 323 Abs 5 S 2 BGB, § 434 BGB, § 439 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.02.2013 - VIII ZR 374/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Neuwagenkäufer, der die Entgegenahme des ihm angebotenen Fahrzeugs wegen vorhandener Karosserie- und Lackmängel ablehnt und deren Beseitigung verlangt, verliert hierdurch nicht den Anspruch darauf, dass das Fahrzeug technisch und optisch in einen Zustand versetzt wird, der der beim Neuwagenkauf konkludent vereinbarten Beschaffenheit "fabrikneu" entspricht.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 374/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.02.2013 - VIII ZR 374/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VI ZB 7/12"
 doknr: "KORE304012012"
 normen: ["§ 91 ZPO, § 19 RVG, Nr 3403 RVG-VV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.07.2012 - VI ZB 7/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Im Nichtzulassungsbeschwerdeverfahren ist die Einzeltätigkeit eines beim Bundesgerichtshof nicht zugelassenen Rechtsanwalts grundsätzlich nicht erstattungsfähig, wenn auch ein beim Bundesgerichtshof zugelassener Verfahrensbevollmächtigter bestellt wird.
@@ -23,8 +29,3 @@ Im Nichtzulassungsbeschwerdeverfahren ist die Einzeltätigkeit eines beim Bundes
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZB 7/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.07.2012 - VI ZB 7/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

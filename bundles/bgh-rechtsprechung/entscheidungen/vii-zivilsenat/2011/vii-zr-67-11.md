@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 67/11"
 doknr: "KORE310092012"
 normen: ["§ 133 BGB, § 157 BGB, § 9 VOB A 2006, Nr 18300 Abschn 0.2.3 DIN"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:26Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:26Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.12.2011 - VII ZR 67/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Grundsätzlich ist der öffentliche Auftraggeber gehalten, ihm mögliche und zumutbare Angaben zur Kontamination eines zum Aushub und zur Weiterverwendung vorgesehenen Bodens zu machen. Ein Unterlassen solcher Angaben kann die Auslegung des Vertrages dahin rechtfertigen, eine Bodenkontamination liege nicht vor.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:26Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 67/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.12.2011 - VII ZR 67/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

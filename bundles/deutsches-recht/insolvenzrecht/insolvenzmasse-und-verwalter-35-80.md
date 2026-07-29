@@ -5,7 +5,18 @@ description: Mit Verfahrenseröffnung wird das pfändbare Vermögen zur Insolven
 resource: https://www.gesetze-im-internet.de/inso/__80.html
 tags: [insolvenzrecht, insolvenzmasse, insolvenzverwalter, glaeubiger, absonderung, aussonderung]
 norm: "§§ 35, 38, 39, 47, 49, 50, 53, 80 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__80.html
+    title: "§ 80 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__35.html
+    title: "§ 35 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__38.html
+    title: "§ 38 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__47.html
+    title: "§ 47 InsO"
 ---
 
 # Insolvenzmasse (§ 35)
@@ -29,10 +40,3 @@ Maßgeblich ist, in welcher Gruppe ein Anspruch steht:
 # Bezug
 
 Voraussetzung ist ein [Eröffnungsgrund](/insolvenzrecht/eroeffnungsgruende-17-19.md). Insolvenzgläubiger setzen ihre Ansprüche nicht durch Einzelvollstreckung durch, sondern durch [Anmeldung zur Tabelle](/insolvenzrecht/forderungsanmeldung-174.md) (§ 87, Vollstreckungsverbot § 89).
-
-# Citations
-
-[1] [§ 80 InsO](https://www.gesetze-im-internet.de/inso/__80.html)
-[2] [§ 35 InsO](https://www.gesetze-im-internet.de/inso/__35.html)
-[3] [§ 38 InsO](https://www.gesetze-im-internet.de/inso/__38.html)
-[4] [§ 47 InsO](https://www.gesetze-im-internet.de/inso/__47.html)

@@ -3,7 +3,14 @@ type: Checklist
 title: The ready smell-test
 description: A yes/no checklist to run before a ticket reaches the board; a "no" is a prompt to talk, split, or send it back, not a veto.
 tags: [refinement, checklist, definition-of-ready]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.atlassian.com/agile/project-management/definition-of-ready
+    title: "What is a Definition of Ready? (Atlassian)"
+  - resource: https://cucumber.io/blog/bdd/example-mapping-introduction/
+    title: "Introducing Example Mapping (Matt Wynne)"
 ---
 
 # The checklist
@@ -25,8 +32,3 @@ Run it in [backlog refinement](/techniques/backlog-refinement.md). It operationa
 - Not small points at [the Boulder](/smells/boulder.md).
 - Not independent points at [the Siamese Twins](/smells/siamese-twins.md).
 - A wide, unexplained estimate spread points at [the Iceberg](/smells/iceberg.md).
-
-# Citations
-
-[1] [What is a Definition of Ready? (Atlassian)](https://www.atlassian.com/agile/project-management/definition-of-ready)
-[2] [Introducing Example Mapping (Matt Wynne)](https://cucumber.io/blog/bdd/example-mapping-introduction/)

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 158/11"
 doknr: "KORE304622015"
 normen: ["§ 133 BGB, § 157 BGB, § 315 BGB, § 433 Abs 2 BGB, § 4 Abs 1 AVBGasV, § 4 Abs 2 AVBGasV, Art 3 Abs 3 EGRL 55/2003, § 287 Abs 1 S 1 ZPO, § 287 Abs 2 ZPO, § 36 Abs 1 S 1  EnWG 2005, § 39 EnWG 2005"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.10.2015 - VIII ZR 158/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 4 Abs. 1 und 2 AVBGasV ist mit den Transparenzanforderungen der Gas-Richtlinie 2003/55/EG nicht vereinbar (Anschluss an EuGH, Urteil vom 23. Oktober 2014, C-359/11 und C-400/11, NJW 2015, 849 - Schulz und Egbringhoff).
@@ -37,8 +43,3 @@ timestamp: 2026-06-22T12:28:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 158/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.10.2015 - VIII ZR 158/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

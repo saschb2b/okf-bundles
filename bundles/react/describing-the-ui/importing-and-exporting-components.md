@@ -4,7 +4,12 @@ title: Importing and Exporting Components
 description: How to split components across files using default and named imports and exports.
 resource: https://react.dev/learn/importing-and-exporting-components
 tags: [react, components, modules, imports, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/importing-and-exporting-components
+    title: "Importing and Exporting Components"
 ---
 
 # Summary
@@ -93,7 +98,3 @@ To reduce confusion, some teams stick to one export style per file. Do what work
 - You import and export components to split them across files.
 - A default export uses `export default` and is imported without curly braces under any name; a named export uses `export` and is imported with curly braces under the matching name.
 - A file can have one default export and many named exports, so you can export multiple components from the same file.
-
-# Citations
-
-[1] [Importing and Exporting Components](https://react.dev/learn/importing-and-exporting-components)

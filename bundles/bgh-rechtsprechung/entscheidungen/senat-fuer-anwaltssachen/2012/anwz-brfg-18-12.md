@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 18/12"
 doknr: "JURE120013508"
 normen: ["§ 5 FAO, § 14 Abs 1 Nr 1 FAO, § 14 Abs 1 Nr 2 FAO, § 14 Abs 1 Nr 3 FAO, § 14 Abs 1 Nr 4 FAO, § 14 Abs 1 Nr 5 FAO, § 14 Abs 1 Nr 6 FAO, § 14 Abs 1 Nr 7 FAO, § 14 Abs 1 Nr 8 FAO, § 14 Abs 1 Nr 9 FAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.06.2012 - AnwZ (Brfg) 18/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 5 FAO, § 14 Abs 1 Nr 1 FAO, § 14 Abs 1 Nr 2 FAO, § 14 Abs 1 Nr 3 FAO, § 14 Abs 1 Nr 4 FAO, § 14 Abs 1 Nr 5 FAO, § 14 Abs 1 Nr 6 FAO, § 14 Abs 1 Nr 7 FAO, § 14 Abs 1 Nr 8 FAO, § 14 Abs 1 Nr 9 FAO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 18/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.06.2012 - AnwZ (Brfg) 18/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

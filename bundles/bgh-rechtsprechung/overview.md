@@ -4,7 +4,9 @@ title: "BGH-Rechtsprechung: Überblick"
 description: Aufbau, Navigation, Quelle und Ingestionsverfahren des BGH-Entscheidungskorpus als OKF-Bündel, ausgelegt auf Vollständigkeit bei erhaltener Navigierbarkeit über ein Norm-Register.
 resource: https://www.bundesgerichtshof.de/
 tags: [bgh-rechtsprechung, overview, navigation, ingestion]
-timestamp: 2026-06-22T12:00:00Z
+generated:
+  by: claude-code/opus-5
+  at: 2026-07-29T18:00:00Z
 ---
 
 # Was das ist
@@ -25,12 +27,12 @@ Der Bestand soll vollständig werden und kann Zehntausende Entscheidungen umfass
 
 Jede Entscheidung ist ein Konzept mit `type: Gerichtsentscheidung`:
 
-- **Frontmatter:** `gericht`, `senat`, `datum` (ISO), `aktenzeichen`, `ecli` (sofern bekannt), `fundstelle` (amtliche Sammlung wie `BGHZ 230, 28`), `normen` (Liste der ausgelegten Vorschriften, speist das Norm-Register), `resource` (amtliche Fundstelle).
-- **Körper:** `# Leitsatz` (amtlicher Leitsatz, wörtlich, sofern vorhanden), sonst eine klar als solche bezeichnete `# Kernaussage`; `# Normen` (Querbezug zu den Vorschriften); `# Fundstelle und Volltext` mit Link zur amtlichen Quelle; `# Citations`.
+- **Frontmatter:** `gericht`, `senat`, `datum` (ISO), `aktenzeichen`, `ecli` (sofern bekannt), `fundstelle` (amtliche Sammlung wie `BGHZ 230, 28`), `normen` (Liste der ausgelegten Vorschriften, speist das Norm-Register), `resource` (amtliche Fundstelle). Dazu die Herkunft nach OKF v0.2: `generated` (`by` ist das erzeugende Skript, `process:ingest-bgh-rechtsprechung` oder `process:ingest-bgh-pdf`, nie ein Mensch; `at` der Zeitpunkt des Einlesens) und `sources` mit der amtlichen Fundstelle. `verified` bleibt leer, weil niemand die Einzelentscheidung gegengelesen hat.
+- **Körper:** `# Leitsatz` (amtlicher Leitsatz, wörtlich, sofern vorhanden), sonst eine klar als solche bezeichnete `# Kernaussage`; `# Normen` (Querbezug zu den Vorschriften); `# Fundstelle und Volltext` mit Link zur amtlichen Quelle.
 
 # Quelle und Ingestion
 
-- **Amtliche Quelle und Zitat:** [bundesgerichtshof.de](https://www.bundesgerichtshof.de/) (Entscheidungssuche) und die amtliche Sammlung (BGHZ, BGHSt). Diese stehen als `resource` und in den Citations.
+- **Amtliche Quelle und Zitat:** [bundesgerichtshof.de](https://www.bundesgerichtshof.de/) (Entscheidungssuche) und die amtliche Sammlung (BGHZ, BGHSt). Diese stehen als `resource` und als `sources`-Eintrag im Frontmatter.
 - **Stapel-Ingestion:** Für den Massenbezug dient die offene, maschinenlesbare Bereitstellung von [rechtsprechung-im-internet.de](https://www.rechtsprechung-im-internet.de/) (Inhaltsverzeichnis `rii-toc.xml`, je Entscheidung eine ZIP mit einer XML nach `rii-dok.dtd`). Zwei Skripte im Repo führen das aus:
   - `scripts/ingest-bgh-rechtsprechung.mjs` lädt das Inhaltsverzeichnis, filtert die BGH-Entscheidungen, holt je Entscheidung die XML, übersetzt sie in ein Konzept (`entscheidungen/<senat>/<jahr>/<aktenzeichen>.md`) und überspringt bereits vorhandene Dateien (wiederaufsetzbar). Reihenfolge: erst ein Rauchtest `--limit 5` oder `--selftest`, dann der volle Lauf, in Scheiben (`--since`) und mit Höflichkeitspausen (`--delay`).
   - `scripts/ingest-bgh-pdf.mjs` ergänzt die Jahre vor 2010 aus der BGH-Entscheidungsdatenbank ([bundesgerichtshof.de](https://www.bundesgerichtshof.de/)), deren Entscheidungen als PDF vorliegen; die Suchtrefferliste liefert Senat, Datum, Aktenzeichen und PDF-Link, der Text wird mit `pdftotext` ausgelesen. Gleiches Pfadschema, daher überschneidungsfrei zum rii-Bestand. Der Vollscan (`--full`, je Seite `resultsPerPage=50`) besucht jede Suchseite und filtert nach Entscheidungsjahr, statt sich auf das instabile Seitenfenster am Ende zu verlassen; so ist die Abdeckung vollständig. Fetches werden bei transienten Fehlern wiederholt.

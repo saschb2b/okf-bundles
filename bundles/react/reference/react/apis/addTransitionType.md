@@ -4,7 +4,12 @@ title: addTransitionType
 description: Specifies the cause of a transition so animations can be customized by type.
 resource: https://react.dev/reference/react/addTransitionType
 tags: [react, transitions, animation, view-transitions]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/addTransitionType
+    title: "addTransitionType"
 ---
 
 # Reference
@@ -49,6 +54,3 @@ startTransition(() => {
 
 - If multiple transitions are combined, all transition types are collected. You can also add more than one type to a single transition.
 - Transition types are reset after each commit. A `<Suspense>` fallback associates the types after a `startTransition`, but revealing the content does not.
-
-# Citations
-[1] [addTransitionType](https://react.dev/reference/react/addTransitionType)

@@ -10,8 +10,14 @@ aktenzeichen: "NotZ (Brfg) 9/12"
 doknr: "KORE303052013"
 normen: ["§ 11 Abs 2 Alt 2 BNotO, Art 51 AEUV, Art 62 AEUV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:58Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.03.2013 - NotZ (Brfg) 9/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Genehmigungsvorbehalt des § 11 Abs. 2, 2. Alt. BNotO erfasst auch Urkundstätigkeiten von Notaren im Ausland.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:27:58Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 9/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.03.2013 - NotZ (Brfg) 9/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

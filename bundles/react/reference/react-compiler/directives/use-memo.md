@@ -4,7 +4,12 @@ title: "use memo"
 description: A directive that marks a function for React Compiler optimization.
 resource: https://react.dev/reference/react-compiler/directives/use-memo
 tags: [react, react-compiler, directive, memoization]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-compiler/directives/use-memo
+    title: "\"use memo\""
 ---
 
 # Reference
@@ -66,7 +71,3 @@ In most cases you do not need `"use memo"`. It is mainly for `annotation` mode. 
 - To opt out instead, use [`"use no memo"`](/reference/react-compiler/directives/use-no-memo.md).
 - To configure which functions are compiled, see [`compilationMode`](/reference/react-compiler/compilationMode.md).
 - For an overview, see [the React Compiler guide](/react-compiler/react-compiler.md).
-
-# Citations
-
-[1] ["use memo"](https://react.dev/reference/react-compiler/directives/use-memo)

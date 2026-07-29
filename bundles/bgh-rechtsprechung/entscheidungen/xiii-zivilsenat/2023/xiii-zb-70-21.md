@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:280223BXIIIZB70.21.0"
 doknr: "KORE620772023"
 normen: ["§ 70 Abs 1  FamFG, § 70 Abs 3 Nr 3  FamFG, § 415 Abs 1  FamFG, Art 2 Abs 1  GG, Art 20 Abs 3  GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.02.2023 - XIII ZB 70/21 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 70 Abs 1  FamFG, § 70 Abs 3 Nr 3  FamFG, § 415 Abs 1  FamFG, Art 2 Abs 1  GG, Art 20 Abs 3  GG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 70/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.02.2023 - XIII ZB 70/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

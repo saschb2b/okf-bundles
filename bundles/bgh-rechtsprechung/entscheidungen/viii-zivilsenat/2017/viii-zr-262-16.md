@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:070317BVIIIZR262.16.0"
 doknr: "KORE613682017"
 normen: ["§ 544 Abs 5 S 2 ZPO, § 719 Abs 2 ZPO, § 26 Nr 8 ZPOEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.03.2017 - VIII ZR 262/16 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 544 Abs 5 S 2 ZPO, § 719 Abs 2 ZPO, § 26 Nr 8 ZPOEG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 262/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.03.2017 - VIII ZR 262/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,18 @@ description: Die rückwirkende Beseitigung einer Willenserklärung wegen Irrtums
 resource: https://www.gesetze-im-internet.de/bgb/__119.html
 tags: [bgb-at, anfechtung, irrtum, taeuschung, drohung]
 norm: "§§ 119 bis 124, 142, 143 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__119.html
+    title: "§ 119 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__123.html
+    title: "§ 123 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__142.html
+    title: "§ 142 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__143.html
+    title: "§ 143 BGB"
 ---
 
 # Regel
@@ -30,10 +41,3 @@ Das angefochtene Geschäft ist nach § 142 Abs. 1 von Anfang an nichtig. Bei der
 # Bezug
 
 Die Anfechtung setzt eine wirksam abgegebene [Willenserklärung](/bgb-at/willenserklaerung.md) voraus; das Fehlen des Geschäftswillens ist der typische Anfechtungsfall.
-
-# Citations
-
-[1] [§ 119 BGB](https://www.gesetze-im-internet.de/bgb/__119.html)
-[2] [§ 123 BGB](https://www.gesetze-im-internet.de/bgb/__123.html)
-[3] [§ 142 BGB](https://www.gesetze-im-internet.de/bgb/__142.html)
-[4] [§ 143 BGB](https://www.gesetze-im-internet.de/bgb/__143.html)

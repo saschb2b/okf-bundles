@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 344/13"
 doknr: "KORE300982014"
 normen: ["§ 134 BGB, § 307 Abs 1  BGB, § 24 Abs 3 S 1 AVBFernwärmeV vom 20.06.1980, § 24 Abs 4 AVBFernwärmeV vom 04.11.2010"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.06.2014 - VIII ZR 344/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für die Wirksamkeit einer an § 24 Abs. 3 Satz 1 AVBFernwärmeV in der Fassung vom 20. Juni 1980 (jetzt: § 24 Abs. 4 AVBFernwärmeV) zu messenden Preisanpassungsklausel ist grundsätzlich auf die Verhältnisse im Zeitpunkt des Vertragsschlusses abzustellen.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 344/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.06.2014 - VIII ZR 344/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

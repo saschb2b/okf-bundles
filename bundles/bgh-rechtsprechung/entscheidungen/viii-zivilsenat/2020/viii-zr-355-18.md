@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:290420UVIIIZR355.18.0"
 doknr: "KORE307712020"
 normen: ["§ 558 BGB, § 558a BGB, § 558b Abs 2 BGB, § 3 Abs 1 S 1 MietBegrG BE"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.04.2020 - VIII ZR 355/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Die Einhaltung der Förmlichkeiten des Verfahrens auf Zustimmung zu einer Mieterhöhung durch den Vermieter nach § 558a BGB (Erklärung und Begründung des Erhöhungsverlangens in Textform) und nach § 558b Abs. 2 BGB (Fristen zur Erhebung der Zustimmungsklage) ist insgesamt dem materiellen Recht zuzuordnen und betrifft deshalb die Begründetheit und nicht die Zulässigkeit der Klage (Aufgabe der bisherigen Rechtsprechung; vgl. zuletzt Senatsurteile vom 11. Juli 2018 - VIII ZR 136/17, NJW 2018, 2792 Rn. 12 und vom 13. November 2013 - VIII ZR 413/12, NJW 2014, 1173 Rn. 13; jeweils mwN).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:29:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 355/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.04.2020 - VIII ZR 355/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

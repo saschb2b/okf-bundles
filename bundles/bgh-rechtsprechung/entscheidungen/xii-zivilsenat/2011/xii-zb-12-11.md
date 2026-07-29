@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 12/11"
 doknr: "KORE301582011"
 normen: ["§ 1629 BGB, § 1796 BGB, § 1909 BGB, § 7 FamFG, § 9 FamFG, § 158 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.09.2011 - XII ZB 12/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das minderjährige Kind ist im Verfahren zur Übertragung der elterlichen Sorge vom Familiengericht hinzuzuziehen und somit formeller Verfahrensbeteiligter ("Muss-Beteiligter"). Ist das Kind nicht selbst verfahrensfähig und bedarf es im Verfahren daher der gesetzlichen Vertretung, so ist diese grundsätzlich von den sorgeberechtigten Eltern ungeachtet ihrer eigenen Verfahrensbeteiligung wahrzunehmen .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 12/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.09.2011 - XII ZB 12/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,12 @@ description: Die vier Grundfreiheiten (Waren, Personen, Dienstleistungen, Kapita
 resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
 tags: [europarecht, grundfreiheiten, warenverkehr, binnenmarkt]
 norm: "Art. 34, 45, 49, 56, 63 AEUV"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
+    title: "AEUV bei EUR-Lex"
 ---
 
 # Die vier Grundfreiheiten
@@ -27,7 +32,3 @@ Für Waren grenzt die Keck-Rechtsprechung bloße Verkaufsmodalitäten aus dem Be
 # Bezug
 
 Die Grundfreiheiten wirken [unmittelbar](/europarecht/vorrang-und-unmittelbare-wirkung.md) und werden vom EuGH im [Vorabentscheidungsverfahren](/europarecht/vorabentscheidungsverfahren-267.md) ausgelegt.
-
-# Citations
-
-[1] [AEUV bei EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)

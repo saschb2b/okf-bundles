@@ -5,7 +5,12 @@ description: Ein Verwaltungsakt kann mit Befristung, Bedingung, Auflage, Widerru
 resource: https://www.gesetze-im-internet.de/vwvfg/__36.html
 tags: [verwaltungsrecht, nebenbestimmungen, auflage, bedingung]
 norm: "§ 36 VwVfG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/vwvfg/__36.html
+    title: "§ 36 VwVfG"
 ---
 
 # Arten (§ 36 Abs. 2)
@@ -24,7 +29,3 @@ Die **Auflage** ist als selbständige Regelung ihrerseits ein [Verwaltungsakt](/
 
 - Bei einem **gebundenen** Verwaltungsakt (kein Ermessen) ist eine Nebenbestimmung nur zulässig, wenn sie durch Rechtsvorschrift zugelassen ist oder sicherstellen soll, dass die gesetzlichen Voraussetzungen erfüllt werden.
 - Bei einer **Ermessens**entscheidung darf die Behörde nach pflichtgemäßem Ermessen Nebenbestimmungen beifügen.
-
-# Citations
-
-[1] [§ 36 VwVfG](https://www.gesetze-im-internet.de/vwvfg/__36.html)
