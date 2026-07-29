@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:131016BIXAR.VZ.7.15.0"
 doknr: "KORE304772016"
 normen: ["§ 56 Abs 1 InsO, § 23 GVGEG, §§ 23ff GVGEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:59Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:59Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.10.2016 - IX AR (VZ) 7/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Insolvenzrichter kann die Aufnahme eines Bewerbers auf seine Vorauswahlliste ablehnen, wenn begründeter Anlass für die Vermutung besteht, dieser werde sein Amt als Insolvenzverwalter nicht höchstpersönlich ausüben.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:59Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX AR (VZ) 7/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.10.2016 - IX AR (VZ) 7/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

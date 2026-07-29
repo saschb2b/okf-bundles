@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 91/13"
 doknr: "KORE315962013"
 normen: ["§ 33 VersAusglG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.06.2013 - XII ZB 91/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Aussetzung der Kürzung des Versorgungsausgleichs wegen Unterhalt hat nicht zur Voraussetzung, dass die Unterhaltsbelastung für den Ausgleichspflichtigen ohne die Anpassung eine unzumutbare Härte darstellt.
@@ -23,8 +29,3 @@ Die Aussetzung der Kürzung des Versorgungsausgleichs wegen Unterhalt hat nicht 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 91/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.06.2013 - XII ZB 91/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

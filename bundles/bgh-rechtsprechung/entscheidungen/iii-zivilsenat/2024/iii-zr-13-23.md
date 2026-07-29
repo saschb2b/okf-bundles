@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:220224UIIIZR13.23.0"
 doknr: "KORE300332024"
 normen: ["§ 839 S 1 BGB, § 121 VwGO, § 124 Abs 2 Nr 1 VwGO, § 124a Abs 5 S 4 VwGO, § 5 Abs 1 S 1 BörsG, Art 34 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.02.2024 - III ZR 13/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Amtshaftung Börse, Rechtskraft eines verwaltungsgerichtlichen Urteils
@@ -30,8 +36,3 @@ Amtshaftung Börse, Rechtskraft eines verwaltungsgerichtlichen Urteils
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 13/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.02.2024 - III ZR 13/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

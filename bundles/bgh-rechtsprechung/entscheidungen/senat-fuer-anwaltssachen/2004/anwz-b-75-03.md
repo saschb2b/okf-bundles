@@ -9,13 +9,14 @@ datum: 2004-10-18
 aktenzeichen: "AnwZ (B) 75/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:27:17Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:27:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2003/AnwZ_B__75-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 18.10.2004 - AnwZ (B) 75/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 75/03 vom 18.10.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.10.2004 - AnwZ (B) 75/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2003/AnwZ_B__75-03.pdf?__blob=publicationFile&v=1)
-

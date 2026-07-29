@@ -4,7 +4,12 @@ title: gating
 description: Configures runtime feature flag gating so compiled functions are used only when a flag returns true.
 resource: https://react.dev/reference/react-compiler/gating
 tags: [react, react-compiler, configuration, feature-flags]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-compiler/gating
+    title: "gating"
 ---
 
 # Reference
@@ -83,7 +88,3 @@ The gating function is evaluated once at module time. Once the bundle is parsed 
 - `source` is resolved through module resolution, not relative to `babel.config.js`. A package name (`@myapp/feature-flags`) or an absolute path from the project root both work.
 
 This option is set in the React Compiler config. For incremental rollout strategies, see [the React Compiler guide](/react-compiler/react-compiler.md).
-
-# Citations
-
-[1] [gating](https://react.dev/reference/react-compiler/gating)

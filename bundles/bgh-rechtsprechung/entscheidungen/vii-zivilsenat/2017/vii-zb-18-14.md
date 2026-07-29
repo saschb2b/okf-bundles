@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:010217BVIIZB18.14.0"
 doknr: "KORE312842017"
 normen: ["§ 91 Abs 1 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 01.02.2017 - VII ZB 18/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Erstattungsfähigkeit der Kosten für ein prozessbegleitend eingeholtes, privates Sachverständigengutachten ist nicht deshalb gegeben, weil einem solchen privaten Gutachten im Rahmen des Rechtsstreits ein höheres Gewicht zukäme als sonstigem Parteivortrag.
@@ -24,8 +30,3 @@ Die Erstattungsfähigkeit der Kosten für ein prozessbegleitend eingeholtes, pri
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 18/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.02.2017 - VII ZB 18/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

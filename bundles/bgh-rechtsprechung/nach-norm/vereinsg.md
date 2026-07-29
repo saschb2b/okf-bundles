@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VereinsG"
 description: "BGH-Entscheidungen zu VereinsG, geordnet nach Vorschrift."
 tags: [register, navigation, vereinsg]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

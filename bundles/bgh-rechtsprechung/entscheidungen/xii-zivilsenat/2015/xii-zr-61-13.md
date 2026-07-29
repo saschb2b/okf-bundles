@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 61/13"
 doknr: "KORE313142015"
 normen: ["§ 242 BGB, § 670 BGB, § 671 BGB, § 1353 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.03.2015 - XII ZR 61/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Hat ein Ehegatte dem anderen die Aufnahme von Bankkrediten durch Einräumung von dinglichen Sicherheiten ermöglicht, kann er nach Scheitern der Ehe Befreiung von solchen Verbindlichkeiten nach den Regeln des Auftragsrechts verlangen. Die Geltendmachung des Befreiungsanspruchs unterliegt jedoch Einschränkungen, die sich als Nachwirkung der Ehe sowie nach Treu und Glauben ergeben (im Anschluss an Senatsurteil vom 5. April 1989, IVb ZR 35/88, FamRZ 1989, 835).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 61/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.03.2015 - XII ZR 61/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:240816UVIIIZR261.15.0"
 doknr: "KORE301482016"
 normen: ["§ 543 Abs 2 S 1 Nr 3 Buchst a BGB, § 543 Abs 2 S 1 Nr 3 Buchst b BGB, § 543 Abs 2 S 2 BGB, § 543 Abs 2 S 3 BGB, § 546a BGB, § 556 Abs 3 BGB, § 569 Abs 3 Nr 2 BGB, § 9 HeizkostenV, § 9a HeizkostenV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.08.2016 - VIII ZR 261/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Ist durch Auflauf eines Rückstands in der in § 543 Abs. 2 Satz 1 Nr. 3 Buchst. a oder Nr. 3 Buchst. b BGB genannten Höhe ein Recht des Vermieters zur fristlosen Kündigung des Mietverhältnisses entstanden, wird dieses nach § 543 Abs. 2 Satz 2 BGB nur durch eine vollständige Zahlung des Rückstandes vor Zugang der Kündigung ausgeschlossen (Bestätigung des Senatsurteils vom 14. Juli 1970, VIII ZR 12/69, ZMR 1971, 27, unter II 4).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:14:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 261/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.08.2016 - VIII ZR 261/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

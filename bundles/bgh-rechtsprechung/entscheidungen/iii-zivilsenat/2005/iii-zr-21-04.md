@@ -9,13 +9,14 @@ datum: 2005-06-09
 aktenzeichen: "III ZR 21/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:11:55Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:11:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2004/III_ZR__21-04A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 09.06.2005 - III ZR 21/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 21/04 vom 09.06.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.06.2005 - III ZR 21/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2004/III_ZR__21-04A.pdf?__blob=publicationFile&v=1)
-

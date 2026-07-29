@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 257/12"
 doknr: "KORE301982013"
 normen: ["§ 346 BGB, § 437 BGB, § 440 BGB, § 677 BGB, § 683 BGB, § 179 Abs 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:33Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Leasingnehmer, dem der Leasinggeber unter Ausschluss einer mietrechtlichen Gewährleistung die gegen den Lieferanten bestehenden kaufrechtlichen Gewährleistungsansprüche leasingtypisch abgetreten hat, ist bei Mängeln der Leasingsache nur und erst dann berechtigt, die Zahlung der Leasingraten vorläufig einzustellen, wenn er die ihm übertragenen Ansprüche und Rechte gegen den Lieferanten bei dessen Weigerung klageweise geltend macht (Bestätigung der Senatsurteile vom 19. Februar 1986, VIII ZR 91/85, BGHZ 97, 135 und vom 16. Juni 2010, VIII ZR 317/09, WM 2010, 1561).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:33Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 257/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.11.2013 - VIII ZR 257/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

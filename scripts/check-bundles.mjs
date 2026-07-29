@@ -2,7 +2,7 @@
 // check-bundles.mjs - validate every OKF bundle in this repo.
 //
 // Treats each directory under `bundles/` as a bundle, confirms it has a root
-// index.md, runs the OKF v0.1 conformance check on it, and warns if it is not
+// index.md, runs the OKF v0.2 conformance check on it, and warns if it is not
 // linked from README.md. Exits non-zero if any bundle fails the hard requirement.
 //
 // Usage:  node scripts/check-bundles.mjs

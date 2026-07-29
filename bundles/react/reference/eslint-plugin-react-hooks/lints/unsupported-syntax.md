@@ -4,7 +4,12 @@ title: unsupported-syntax
 description: Flags syntax that React Compiler cannot statically analyze, such as eval and with.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/unsupported-syntax
 tags: [react, eslint, lint, compiler, syntax]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/unsupported-syntax
+    title: "unsupported-syntax"
 ---
 
 # What it flags
@@ -60,7 +65,3 @@ Never use `eval` with user input, it is a security risk. Use dedicated parsing l
 # Related
 
 This lint flags syntax the compiler cannot optimize. See the [React Compiler introduction](/react-compiler/introduction.md) for what the compiler supports.
-
-# Citations
-
-[1] [unsupported-syntax](https://react.dev/reference/eslint-plugin-react-hooks/lints/unsupported-syntax)

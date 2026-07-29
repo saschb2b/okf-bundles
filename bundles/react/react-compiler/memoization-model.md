@@ -4,7 +4,16 @@ title: Memoization Model and the Cache Runtime
 description: What React Compiler emits, how the per-component memo cache and the _c hook work, why the output is more granular than manual memoization, and why re-render cascades stop.
 resource: https://react.dev/learn/react-compiler/installation
 tags: [react, react-compiler, memoization, re-renders, compiler-runtime, useMemoCache]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/react-compiler/installation
+    title: "Installation"
+  - resource: https://react.dev/blog/2025/10/07/react-compiler-1
+    title: "React Compiler v1.0"
+  - resource: https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md
+    title: "React Compiler design goals"
 ---
 
 # The unit of memoization: reactive scopes
@@ -128,9 +137,3 @@ The only runtime footprint is the slot array: memory proportional to the number 
 - [Installation](installation.md): confirming the `_c` output appears in your build.
 - [target](/reference/react-compiler/target.md): where `_c` comes from for React 17, 18, and 19.
 - [useMemo](/reference/react/hooks/useMemo.md) and [useCallback](/reference/react/hooks/useCallback.md): the manual equivalents the compiler still honors as escape hatches.
-
-# Citations
-
-[1] [Installation](https://react.dev/learn/react-compiler/installation)
-[2] [React Compiler v1.0](https://react.dev/blog/2025/10/07/react-compiler-1)
-[3] [React Compiler design goals](https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md)

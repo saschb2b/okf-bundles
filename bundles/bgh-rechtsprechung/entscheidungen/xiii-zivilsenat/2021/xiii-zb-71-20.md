@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:220621BXIIIZB71.20.0"
 doknr: "KORE602642021"
 normen: ["§ 15 Abs 6 AufenthG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.06.2021 - XIII ZB 71/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 15 Abs 6 AufenthG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:33:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 71/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.06.2021 - XIII ZB 71/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

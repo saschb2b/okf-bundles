@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:110521BVIIIZB9.20.0"
 doknr: "KORE311282021"
 normen: ["§ 85 Abs 2 ZPO, § 130a Abs 5 S 1 ZPO, § 130a Abs 5 S 2 ZPO, § 233 S 1  ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:58Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.05.2021 - VIII ZB 9/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zum Eingang eines über das besondere elektronische Anwaltspostfach (beA) eingereichten elektronischen Dokuments (hier: Berufungsbegründung) bei Gericht (§ 130a Abs. 5 Satz 1 ZPO; im Anschluss an BGH, Urteil vom 14. Mai 2020 - X ZR 119/18, WM 2021, 463 Rn. 8 ff.; Beschluss vom 25. August 2020 - VI ZB 79/19, NJW-RR 2020, 1519 Rn. 7).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:30:58Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 9/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.05.2021 - VIII ZB 9/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

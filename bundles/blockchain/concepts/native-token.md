@@ -3,7 +3,14 @@ type: Primitive
 title: Native token and monetary policy
 description: The chain's built-in asset that pays for security and fees, governed by a protocol-defined issuance schedule.
 tags: [token, issuance, monetary-policy, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://en.bitcoin.it/wiki/Controlled_supply
+    title: "Controlled supply (Bitcoin Wiki)"
+  - resource: https://ethereum.org/en/roadmap/merge/issuance/
+    title: "ETH supply and issuance (Ethereum.org)"
 ---
 
 # What it is
@@ -18,8 +25,3 @@ Each chain has a **native token** (BTC, ETH) that is not a [smart contract](/con
 # Why it matters
 
 Monetary policy is a chain's economic identity as much as a technical parameter, and the fixed-vs-dynamic split is one of the sharpest contrasts in [design philosophy](/comparison/design-philosophy.md). It also determines the long-run [security budget](/concepts/gas-and-fees.md): what pays for block production once subsidies fade.
-
-# Citations
-
-[1] [Controlled supply (Bitcoin Wiki)](https://en.bitcoin.it/wiki/Controlled_supply)
-[2] [ETH supply and issuance (Ethereum.org)](https://ethereum.org/en/roadmap/merge/issuance/)

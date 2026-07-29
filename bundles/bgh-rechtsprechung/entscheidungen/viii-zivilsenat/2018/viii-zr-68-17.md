@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:210318UVIIIZR68.17.0"
 doknr: "KORE300652018"
 normen: ["§ 253 Abs 2 Nr 2 ZPO, § 263 ZPO, § 264 Nr 2 ZPO, § 308 ZPO, § 322 ZPO, § 531 Abs 2 ZPO, § 533 ZPO, § 199 Abs 1 BGB, § 366 Abs 2 BGB, § 367 Abs 1 BGB, § 556 Abs 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.03.2018 - VIII ZR 68/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1.1. Ein Klageantrag ist grundsätzlich hinreichend bestimmt im Sinne des § 253 Abs. 2 Nr. 2 ZPO, wenn er den erhobenen Anspruch konkret bezeichnet, dadurch den Rahmen der gerichtlichen Entscheidungsbefugnis (§ 308 ZPO) absteckt, Inhalt und Umfang der materiellen Rechtskraft der begehrten Entscheidung (§ 322 ZPO) erkennen lässt, das Risiko eines Unterliegens des Klägers nicht durch vermeidbare Ungenauigkeit auf den Beklagten abwälzt und schließlich eine Zwangsvollstreckung aus dem Urteil ohne eine Fortsetzung des Streits im Vollstreckungsverfahren erwarten lässt (im Anschluss an BGH, Urteile vom 9. Januar 2013, VIII ZR 94/12, NJW 2013, 1367 Rn. 12 und vom 2. Dezember 2015, IV ZR 28/15, NJW 2016, 708, Rn. 8; jeweils mwN).
@@ -50,8 +56,3 @@ timestamp: 2026-06-22T12:14:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 68/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.03.2018 - VIII ZR 68/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

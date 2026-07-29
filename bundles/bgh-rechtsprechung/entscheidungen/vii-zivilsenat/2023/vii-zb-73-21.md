@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:240523BVIIZB73.21.0"
 doknr: "KORE651982023"
 normen: ["§ 568 S 1 ZPO, § 766 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.05.2023 - VII ZB 73/21 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 568 S 1 ZPO, § 766 Abs 2 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 73/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.05.2023 - VII ZB 73/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

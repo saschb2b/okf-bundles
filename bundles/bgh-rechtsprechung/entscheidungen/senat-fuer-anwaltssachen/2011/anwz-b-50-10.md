@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (B) 50/10"
 doknr: "KORE303082011"
 normen: ["§ 74 BRAO, § 74a BRAO, § 112a Abs 1 BRAO, § 112a Abs 2 Nr 2 BRAO, § 113 BRAO, § 114 BRAO, § 119 BRAO, § 17a Abs 4 S 4 GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:59Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:59Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 02.03.2011 - AnwZ (B) 50/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 112a Abs. 1 BRAO eröffnet in verwaltungsrechtlichen Anwaltssachen den Rechtsweg zum Anwaltsgerichtshof. Von dieser weit gespannten Zuständigkeit sind alle Streitigkeiten umfasst, die aus der Anwendung der Bundesrechtsanwaltsordnung und der auf ihrer Grundlage erlassenen Rechtsverordnungen und Satzungen resultieren und die nicht ausdrücklich dem Anwaltsgericht oder einem anderen Gericht zugewiesen sind .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:59Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (B) 50/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 02.03.2011 - AnwZ (B) 50/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

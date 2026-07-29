@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 360/14"
 doknr: "KORE309392015"
 normen: ["§ 307 Abs 1 S 2 BGB, § 315 BGB, EEG, KWKG, § 1 Abs 2 Nr 1 PrKG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.11.2015 - VIII ZR 360/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 In Allgemeinen Geschäftsbedingungen, die ein Energieversorgungsunternehmen in Stromversorgungsverträgen mit Endverbrauchern (Sonderkunden) verwendet, hält die Klausel
@@ -27,8 +33,3 @@ In Allgemeinen Geschäftsbedingungen, die ein Energieversorgungsunternehmen in S
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 360/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.11.2015 - VIII ZR 360/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

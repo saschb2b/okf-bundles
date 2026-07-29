@@ -4,7 +4,12 @@ title: <style>
 description: The built-in browser style component for inline CSS, with React's head-hoisting, precedence ordering, and deduplication by href.
 resource: https://react.dev/reference/react-dom/components/style
 tags: [react, react-dom, stylesheets, css, head]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/style
+    title: "<style>"
 ---
 
 # Reference
@@ -47,7 +52,3 @@ Render an inline stylesheet within a component that depends on it. Give it a uni
 - With the special treatment, React ignores prop changes after render (warns in development).
 - When using `precedence`, React drops all extraneous props beyond `href` and `precedence`.
 - React may leave the style in the DOM after the rendering component unmounts.
-
-# Citations
-
-[1] [<style>](https://react.dev/reference/react-dom/components/style)

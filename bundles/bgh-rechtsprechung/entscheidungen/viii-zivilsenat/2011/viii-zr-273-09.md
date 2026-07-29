@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 273/09"
 doknr: "KORE313082011"
 normen: ["§ 307 BGB, § 308 BGB, § 309 BGB, § 310 Abs 2 BGB, § 1 Abs 2 AVBFernwärmeV, § 1 Abs 3 S 1 AVBFernwärmeV, § 24 Abs 3 S 1  AVBFernwärmeV vom 20.06.1980, § 24 Abs 4 S 1 AVBFernwärmeV, § 30 Nr 1 AVBFernwärmeV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.04.2011 - VIII ZR 273/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Allgemeine Geschäftsbedingungen in Verträgen zwischen Lieferanten und Abnehmern von Fernwärme unterliegen - von den Fällen des § 1 Abs. 2 und 3 Satz 1 AVBFernwärmeV abgesehen - nicht der Inhaltskontrolle nach §§ 307ff. BGB (im Anschluss an BGH, Urteil vom 28. Januar 1987, VIII ZR 37/86, BGHZ 100, 1 ff.). Sofern nicht eine von § 1 Abs. 2 und 3 Satz 1 AVBFernwärmeV erfasste Fallgestaltung vorliegt, sind daher Preisanpassungsklauseln in Verträgen mit Fernwärmekunden nicht an §§ 307ff. BGB, sondern an der Regelung des § 24 Abs. 4 AVBFernwärme V (bzw. des gleich lautenden § 24 Abs. 3 AVBFernwärmeV aF) zu messen     .
@@ -31,8 +37,3 @@ timestamp: 2026-06-22T12:31:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 273/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.04.2011 - VIII ZR 273/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

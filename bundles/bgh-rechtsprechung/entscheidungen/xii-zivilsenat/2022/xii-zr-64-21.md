@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:040522UXIIZR64.21.0"
 doknr: "KORE317152022"
 normen: ["§ 275 Abs 1 BGB, § 313 Abs 1 BGB, § 326 Abs 1 BGB, § 326 Abs 4 BGB, § 346 Abs 1 BGB, Art 240 § 5 Abs 2 BGBEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.05.2022 - XII ZR 64/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Während der Zeit der Schließung eines Fitnessstudios aufgrund der hoheitlichen Maßnahmen zur Bekämpfung der COVID-19-Pandemie war es dem Betreiber rechtlich unmöglich, dem Nutzungsberechtigten die Möglichkeit zur vertragsgemäßen Nutzung des Fitnessstudios zu gewähren und damit seine vertraglich geschuldete Hauptleistungspflicht zu erfüllen. Für den Zeitraum der Schließung hat der Nutzungsberechtigte einen Anspruch auf Rückzahlung der entrichteten Monatsbeiträge, sofern der Betreiber von der „Gutscheinlösung“ nach Art. 240 § 5 Abs. 2 EGBGB keinen Gebrauch gemacht hat.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:32:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 64/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.05.2022 - XII ZR 64/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

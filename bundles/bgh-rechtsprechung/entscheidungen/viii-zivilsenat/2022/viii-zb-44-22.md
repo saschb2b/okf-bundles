@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:030622BVIIIZB44.22.0"
 doknr: "KORE632252022"
 normen: ["§ 570 Abs 3 ZPO, § 575 Abs 5 ZPO, § 794a Abs 1 ZPO, § 794a Abs 2 ZPO, § 313 BGB, § 535 BGB, §§ 535ff BGB, § 546 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 03.06.2022 - VIII ZB 44/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 570 Abs 3 ZPO, § 575 Abs 5 ZPO, § 794a Abs 1 ZPO, § 794a Abs 2 ZPO, § 313 BGB, § 535 BGB, §§ 535ff BGB, § 546 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 44/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.06.2022 - VIII ZB 44/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

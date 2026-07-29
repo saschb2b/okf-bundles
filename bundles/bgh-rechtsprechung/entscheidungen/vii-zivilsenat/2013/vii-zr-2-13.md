@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 2/13"
 doknr: "KORE301502013"
 normen: ["§ 48 Abs 1 EStG, § 48a Abs 2 EStG, § 273 Abs 1 BGB, § 631 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.09.2013 - VII ZR 2/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zahlt der Besteller nach versehentlich vollständiger Zahlung des Werklohns an den Unternehmer die Bauabzugsteuer an das Finanzamt, trifft den Unternehmer eine aus dem Vertragsverhältnis resultierende Nebenpflicht, diesen Betrag an den Besteller zu erstatten.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 2/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.09.2013 - VII ZR 2/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

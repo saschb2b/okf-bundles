@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 154/14"
 doknr: "KORE312952015"
 normen: ["§ 242 BGB, § 573 Abs 2 Nr 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.02.2015 - VIII ZR 154/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Vermieter, der eine Wohnung auf unbestimmte Zeit vermietet, obwohl er entweder entschlossen ist oder zumindest erwägt, sie alsbald selbst in Gebrauch zu nehmen, setzt sich mit einer später hierauf gestützten Eigenbedarfskündigung zu seinem früheren Verhalten in Widerspruch, wenn er den Mieter, der mit einer längeren Mietdauer rechnet, bei Vertragsschluss nicht über die Aussicht einer begrenzten Mietdauer aufklärt. Die ausgesprochene Eigenbedarfskündigung ist in diesen Fällen wegen Rechtsmissbrauchs unwirksam (Bestätigung von BGH, Urteil vom 21. Januar 2009, VIII ZR 62/08, NJW 2009, 1139; Beschluss vom 6. Juli 2010, VIII ZR 180/09, WuM 2010, 512).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:31:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 154/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.02.2015 - VIII ZR 154/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

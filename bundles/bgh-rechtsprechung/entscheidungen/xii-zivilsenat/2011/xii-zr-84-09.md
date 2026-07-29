@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 84/09"
 doknr: "KORE306042011"
 normen: ["§ 1579 Nr 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.07.2011 - XII ZR 84/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zweck der gesetzlichen Neuregelung in § 1579 Nr. 2 BGB ist es, rein objektive Gegebenheiten bzw. Veränderungen in den Lebensverhältnissen des bedürftigen Ehegatten zu erfassen, die eine dauerhafte Unterhaltsleistung unzumutbar erscheinen lassen. Entscheidend ist deswegen darauf abzustellen, dass der unterhaltsberechtigte frühere Ehegatte eine verfestigte neue Lebensgemeinschaft eingegangen ist, sich damit endgültig aus der ehelichen Solidarität herauslöst und zu erkennen gibt, dass er diese nicht mehr benötigt. Kriterien wie die Leistungsfähigkeit des neuen Partners spielen hingegen keine Rolle .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 84/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.07.2011 - XII ZR 84/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

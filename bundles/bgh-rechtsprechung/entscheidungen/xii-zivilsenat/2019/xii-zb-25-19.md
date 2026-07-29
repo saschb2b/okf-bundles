@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:250919BXIIZB25.19.0"
 doknr: "KORE301802019"
 normen: ["§ 1573 Abs 2 BGB, § 1574 BGB, § 1578 Abs 1 BGB, § 1578 Abs 3 BGB, § 1578b BGB, § 1615l BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.09.2019 - XII ZB 25/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Es ist rechtsbeschwerderechtlich nicht zu beanstanden, wenn die Tatsachengerichte im Sinne einer tatsächlichen Vermutung davon ausgehen, dass ein Familieneinkommen bis zur Höhe des Doppelten des höchsten in der Düsseldorfer Tabelle ausgewiesenen Einkommensbetrags vollständig für den Lebensbedarf der Familie verwendet worden ist. Der Unterhaltsbedarf kann in diesem Fall ohne Darlegung der konkreten Einkommensverwendung nach der Einkommensquote bemessen werden. Soweit das Einkommen darüber hinausgeht, hat der Unterhaltsberechtigte, wenn er dennoch Unterhalt nach der Quotenmethode begehrt, die entsprechende Verwendung des Einkommens für den Lebensbedarf darzulegen und im Bestreitensfall in vollem Umfang zu beweisen (im Anschluss an Senatsbeschluss vom 15. November 2017 - XII ZB 503/16, BGHZ 217, 24 = FamRZ 2018, 260).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:27:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 25/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.09.2019 - XII ZB 25/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

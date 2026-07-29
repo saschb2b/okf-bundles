@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 50/11"
 doknr: "KORE310242013"
 normen: ["§ 829 ZPO, § 836 ZPO, § 840 ZPO, § 401 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.12.2012 - VII ZB 50/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Pfändung eines Anspruchs auf Lohnzahlung stellt der Anspruch auf Erteilung einer Lohnabrechnung einen unselbständigen Nebenanspruch dar, wenn es der Abrechnung bedarf, um den Anspruch auf Lohnzahlung geltend machen zu können. Wenn nicht ausgeschlossen ist, dass dem Schuldner gegen den Drittschuldner derartige Ansprüche auf Lohnabrechnung zustehen, werden diese angeblichen Ansprüche des Schuldners gegen den Drittschuldner (Arbeitgeber) bei einer Lohnpfändung mitgepfändet.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 50/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.12.2012 - VII ZB 50/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

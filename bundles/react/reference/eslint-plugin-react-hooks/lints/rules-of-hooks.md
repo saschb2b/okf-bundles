@@ -4,7 +4,12 @@ title: rules-of-hooks
 description: Validates that components and Hooks follow the Rules of Hooks, calling Hooks only at the top level of React functions.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/rules-of-hooks
 tags: [react, eslint, hooks, lint, purity]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/rules-of-hooks
+    title: "rules-of-hooks"
 ---
 
 # What it flags
@@ -94,7 +99,3 @@ You can configure custom effect hooks through shared ESLint settings (available 
 # Related
 
 This lint enforces the conceptual rule documented at [Rules of Hooks](/reference/rules/rules-of-hooks.md), which is part of the broader [Rules of React](/reference/rules/components-and-hooks-must-be-pure.md).
-
-# Citations
-
-[1] [rules-of-hooks](https://react.dev/reference/eslint-plugin-react-hooks/lints/rules-of-hooks)

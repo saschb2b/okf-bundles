@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:060416BVIIZB7.15.0"
 doknr: "KORE303602016"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.04.2016 - VII ZB 7/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Eine am Vortag des Fristablaufs erteilte mündliche Einzelanweisung des Rechtsanwalts, den Fristablauf am Folgetag zu beachten und den fristwahrenden Schriftsatz spätestens an diesem Tag an das Berufungsgericht zu faxen, ist nicht geeignet, allgemeine organisatorische Vorkehrungen für die Ausgangskontrolle zu ersetzen.
@@ -24,8 +30,3 @@ Eine am Vortag des Fristablaufs erteilte mündliche Einzelanweisung des Rechtsan
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 7/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.04.2016 - VII ZB 7/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

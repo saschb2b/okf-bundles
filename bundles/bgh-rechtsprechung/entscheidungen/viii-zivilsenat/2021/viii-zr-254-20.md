@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:210721UVIIIZR254.20.0"
 doknr: "KORE304652021"
 normen: ["§ 133 BGB, § 157 BGB, § 275 Abs 1 BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 437 Nr 1 BGB, § 438 Abs 1 Nr 3 BGB, § 439 Abs 1 Alt 2 BGB, Art 3 Nr 10 EGV 715/2007, Art 5 Abs 2 S 1 EGV 715/2007, § 6 EG-FGV, § 27 EG-FGV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.07.2021 - VIII ZR 254/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Einem Fahrzeug fehlt die Eignung für die gewöhnliche Verwendung im Sinne von § 434 Abs. 1 Satz 2 Nr. 2 BGB, wenn es bei Übergabe an den Käufer mit einer - den Stickoxidausstoß auf dem Prüfstand gegenüber dem normalen Fahrbetrieb reduzierenden - Abschalteinrichtung im Sinne von Art. 3 Nr. 10 Verordnung 715/2007/EG versehen ist, die gemäß Art. 5 Abs. 2 Satz 1 Verordnung 715/2007/EG unzulässig ist. Denn in einem solchen Fall besteht eine (latente) Gefahr einer Betriebsuntersagung durch die für die Zulassung zum Straßenverkehr zuständige Behörde, so dass der weitere (ungestörte) Betrieb des Fahrzeugs im öffentlichen Straßenverkehr nicht gewährleistet ist (im Anschluss an Senatsbeschluss vom 8. Januar 2019 - VIII ZR 225/17, NJW 2019, 1133).
@@ -36,8 +42,3 @@ timestamp: 2026-06-22T12:28:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 254/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.07.2021 - VIII ZR 254/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

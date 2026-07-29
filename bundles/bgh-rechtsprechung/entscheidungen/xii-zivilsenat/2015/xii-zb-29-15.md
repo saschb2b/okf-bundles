@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 29/15"
 doknr: "KORE300512015"
 normen: ["§ 1896 Abs 2 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:33Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 01.04.2015 - XII ZB 29/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Erforderlichkeit einer Betreuung für das Eingehen von Verbindlichkeiten und für die Vertretung gegenüber Gerichten, wenn diese Punkte aus der erteilten Vorsorgevollmacht ausgenommen worden sind.
@@ -23,8 +29,3 @@ Zur Erforderlichkeit einer Betreuung für das Eingehen von Verbindlichkeiten und
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 29/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.04.2015 - XII ZB 29/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

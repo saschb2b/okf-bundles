@@ -10,8 +10,14 @@ aktenzeichen: "IX ZA 1/13"
 doknr: "JURE130008760"
 normen: ["§ 4 StBGebV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:58:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:58:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.05.2013 - IX ZA 1/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 4 StBGebV
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T10:58:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZA 1/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.05.2013 - IX ZA 1/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

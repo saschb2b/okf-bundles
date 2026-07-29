@@ -10,8 +10,14 @@ aktenzeichen: "NotZ (Brfg) 10/10"
 doknr: "KORE303672011"
 normen: ["§ 111  BNotO vom 26.03.2007, § 111b Abs 1 S 1  BNotO vom 30.07.2009, § 113 Abs 1 S 4 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:18Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:18Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.07.2011 - NotZ (Brfg) 10/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Fortsetzungsfeststellungsklage in verwaltungsrechtlichen Notarsachen
@@ -25,8 +31,3 @@ Fortsetzungsfeststellungsklage in verwaltungsrechtlichen Notarsachen
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 10/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.07.2011 - NotZ (Brfg) 10/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,12 @@ description: Versicherte haben Anspruch auf Hilfsmittel, die im Einzelfall erfor
 resource: https://www.gesetze-im-internet.de/sgb_5/__33.html
 tags: [behinderung-teilhabe, hilfsmittel, rollstuhl, krankenkasse, behinderungsausgleich]
 norm: "§ 33 SGB V"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_5/__33.html
+    title: "§ 33 SGB V"
 ---
 
 # Anspruch (§ 33 Abs. 1)
@@ -29,7 +34,3 @@ Der Rollstuhl ist ein Hilfsmittel zum Behinderungsausgleich. Die Rechtsprechung 
 - **Eingliederungshilfe:** Hilfsmittel zur [Teilhabe](/behinderung-teilhabe/eingliederungshilfe.md), die über den medizinischen Ausgleich hinausgehen.
 
 Über die Zuständigkeit entscheidet bei Unklarheit die [schnelle Klärung nach § 14 SGB IX](/behinderung-teilhabe/teilhabe-persoenliches-budget.md).
-
-# Citations
-
-[1] [§ 33 SGB V](https://www.gesetze-im-internet.de/sgb_5/__33.html)

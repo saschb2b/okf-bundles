@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 103/15"
 doknr: "KORE301892016"
 normen: ["§ 476 BGB, Art 5 Abs 3 EGRL 44/1999"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.10.2016 - VIII ZR 103/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 476 BGB ist richtlinienkonform dahin auszulegen, dass die dort vorgesehene Beweislastumkehr zugunsten des Käufers schon dann greift, wenn diesem der Nachweis gelingt, dass sich innerhalb von sechs Monaten ab Gefahrübergang ein mangelhafter Zustand (eine Mangelerscheinung) gezeigt hat, der - unterstellt, er hätte seine Ursache in einem dem Verkäufer zuzurechnenden Umstand - dessen Haftung wegen Abweichung von der geschuldeten Beschaffenheit begründen würde. Dagegen muss der Käufer weder darlegen und nachweisen, auf welche Ursache dieser Zustand zurückzuführen ist, noch dass diese in den Verantwortungsbereich des Verkäufers fällt (im Anschluss an EuGH, Urteil vom 4. Juni 2015, C-497/13, NJW 2015, 2237 Rn. 70 - Faber; Änderung der bisherigen Senatsrechtsprechung; vergleiche Senatsurteile vom 2. Juni 2004, VIII ZR 329/03, BGHZ 159, 215, 217 f. [Zahnriemen]; vom 14. September 2005, VIII ZR 363/04, NJW 2005, 3490 unter II 1 b bb (1) [Karosserieschaden]; vom 23. November 2005, VIII ZR 43/05, NJW 2006, 434 Rn. 20 f. [Turbolader]; vom 18. Juli 2007, VIII ZR 259/06, NJW 2007, 2621 Rn. 15 [defekte Zylinderkopfdichtung]).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:27:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 103/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.10.2016 - VIII ZR 103/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

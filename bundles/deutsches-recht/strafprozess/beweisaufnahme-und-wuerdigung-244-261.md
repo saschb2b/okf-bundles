@@ -5,7 +5,16 @@ description: Das Gericht erforscht die Wahrheit von Amts wegen, ist an Beweisant
 resource: https://www.gesetze-im-internet.de/stpo/__244.html
 tags: [strafprozess, beweisaufnahme, amtsaufklaerung, beweisantrag, beweiswuerdigung, in-dubio-pro-reo]
 norm: "§§ 244, 250, 261, 264 StPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stpo/__244.html
+    title: "§ 244 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__261.html
+    title: "§ 261 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__250.html
+    title: "§ 250 StPO"
 ---
 
 # Amtsaufklärungsgrundsatz (§ 244 Abs. 2)
@@ -39,9 +48,3 @@ Bleiben nach erschöpfter Beweisaufnahme Zweifel an entscheidungserheblichen Tat
 # Bezug
 
 Die Beweisaufnahme findet im Hauptverfahren nach dem [Eröffnungsbeschluss](/strafprozess/legalitaetsprinzip-und-anklage-152-170.md) statt; rechtswidrig durch [Ermittlungseingriffe](/strafprozess/ermittlungseingriffe-102-100a.md) erlangte Beweise können von der Verwertung ausgeschlossen sein. Fehler in der Beweiswürdigung und Verfahrensverstöße sind mit der [Revision](/strafprozess/rechtsmittel-296.md) angreifbar.
-
-# Citations
-
-[1] [§ 244 StPO](https://www.gesetze-im-internet.de/stpo/__244.html)
-[2] [§ 261 StPO](https://www.gesetze-im-internet.de/stpo/__261.html)
-[3] [§ 250 StPO](https://www.gesetze-im-internet.de/stpo/__250.html)

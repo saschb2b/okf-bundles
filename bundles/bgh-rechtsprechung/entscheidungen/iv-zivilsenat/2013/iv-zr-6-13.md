@@ -10,8 +10,14 @@ aktenzeichen: "IV ZR 6/13"
 doknr: "JURE130021036"
 normen: ["§ 1 Abs 3 Nr 3 VAG, § 24 Abs 1 VAG, § 25 Abs 1 S 1 VAG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.10.2013 - IV ZR 6/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 1 Abs 3 Nr 3 VAG, § 24 Abs 1 VAG, § 25 Abs 1 S 1 VAG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV ZR 6/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.10.2013 - IV ZR 6/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

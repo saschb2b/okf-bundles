@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:260717BXIIZB85.17.0"
 doknr: "KORE302082017"
 normen: ["§ 1686 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.07.2017 - XII ZB 85/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist den Eltern die Gesundheitssorge entzogen, so richtet sich insoweit der Auskunftsanspruch eines Elternteils über die persönlichen Verhältnisse des Kindes vorrangig gegen den Inhaber der Gesundheitssorge (im Anschluss an Senatsbeschluss vom 14. Dezember 2016, XII ZB 345/16, FamRZ 2017, 378).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 85/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.07.2017 - XII ZB 85/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

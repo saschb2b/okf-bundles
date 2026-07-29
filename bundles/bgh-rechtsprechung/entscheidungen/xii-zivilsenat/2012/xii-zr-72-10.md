@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 72/10"
 doknr: "KORE304152012"
 normen: ["§ 1573 BGB, § 1574 BGB, § 1578 BGB, § 1578b BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.07.2012 - XII ZR 72/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine angemessene Erwerbstätigkeit im Sinne von § 1574 BGB kann auch in der Ausübung von zwei Teilzeitbeschäftigungen bestehen.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 72/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.07.2012 - XII ZR 72/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: useMemo
 description: React Hook that caches a calculation result between re-renders.
 resource: https://react.dev/reference/react/useMemo
 tags: [react, hooks, performance, memoization]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useMemo
+    title: "useMemo"
 ---
 
 # Reference
@@ -51,7 +56,3 @@ Measure before optimizing; `useMemo` is a performance tool, not a correctness on
 - `useMemo` is a Hook. Call it only at the top level of a component or a custom Hook, never inside loops or conditions.
 - In Strict Mode, React calls your calculation function twice in development to surface impurities. One result is ignored. Production is unaffected.
 - React will not throw away the cached value unless there is a specific reason. For example, in development it discards the cache when you edit the component's file, and in development and production it discards the cache if the component suspends during the initial mount. Rely on `useMemo` only as a performance optimization; for other needs use state or a ref.
-
-# Citations
-
-[1] [useMemo](https://react.dev/reference/react/useMemo)

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 281/13"
 doknr: "KORE308442015"
 normen: ["§ 543 Abs 1 BGB, § 554 BGB, § 573 Abs 2 Nr 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 15.04.2015 - VIII ZR 281/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Kündigung des Vermieters wegen der Verletzung der Pflicht des Mieters, Instandsetzungs- oder Modernisierungsarbeiten zu dulden, kommt nicht erst dann in Betracht, wenn der Vermieter gegen den Mieter vor Ausspruch der Kündigung einen (rechtskräftig) titulierten Duldungstitel erstritten hat.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 281/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 15.04.2015 - VIII ZR 281/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:080222BVIIIZR321.21.0"
 doknr: "KORE626442022"
 normen: ["§ 251 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:36:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:36:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.02.2022 - VIII ZR 321/21 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 251 S 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:36:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 321/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.02.2022 - VIII ZR 321/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

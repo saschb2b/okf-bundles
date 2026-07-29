@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 14/12"
 doknr: "KORE302542013"
 normen: ["§ 309 Nr 9 Buchst a BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.12.2012 - VIII ZR 14/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 In Allgemeinen Geschäftsbedingungen, die ein Energieversorgungsunternehmen in Stromversorgungsverträgen mit Endverbrauchern verwendet, verstößt die Klausel
@@ -27,8 +33,3 @@ In Allgemeinen Geschäftsbedingungen, die ein Energieversorgungsunternehmen in S
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 14/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.12.2012 - VIII ZR 14/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 77/08"
 doknr: "KORE318142010"
 normen: ["§ 633 Abs 3 BGB, §§ 633ff BGB, § 638 Abs 1 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.07.2010 - VII ZR 77/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Arglistig i.S.d. § 638 Abs. 1 Satz 1 BGB a.F. handelt nur derjenige, der bewusst einen offenbarungspflichtigen Mangel verschweigt. Ein solches Bewusstsein fehlt, wenn der Mangel von seinem Verursacher nicht als solcher wahrgenommen wird (Bestätigung von BGH, Urteil vom 11. Oktober 2007, VII ZR 99/06, BGHZ 174, 32) .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:32:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 77/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.07.2010 - VII ZR 77/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2007-02-06
 aktenzeichen: "VIII ZB 105/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:15:48Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:15:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2006/VIII_ZB_105-06.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 06.02.2007 - VIII ZB 105/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 105/06 vom 06.02.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.02.2007 - VIII ZB 105/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2006/VIII_ZB_105-06.pdf?__blob=publicationFile&v=1)
-

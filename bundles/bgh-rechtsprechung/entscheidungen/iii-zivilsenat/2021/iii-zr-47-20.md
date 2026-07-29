@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:010421UIIIZR47.20.0"
 doknr: "KORE301402021"
 normen: ["§ 346 ZPO, § 515 ZPO, § 700 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.04.2021 - III ZR 47/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Mahnverfahren, Vollstreckungsbescheid, Einspruch, Rechtsbehelfsverzicht
@@ -26,8 +32,3 @@ Mahnverfahren, Vollstreckungsbescheid, Einspruch, Rechtsbehelfsverzicht
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 47/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.04.2021 - III ZR 47/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

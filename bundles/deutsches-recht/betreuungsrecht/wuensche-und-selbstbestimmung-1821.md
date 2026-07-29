@@ -5,7 +5,12 @@ description: Der Betreuer hat die Angelegenheiten so zu besorgen, wie es dem Woh
 resource: https://www.gesetze-im-internet.de/bgb/__1821.html
 tags: [betreuungsrecht, wuensche, selbstbestimmung, unterstuetzung]
 norm: "§ 1821 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1821.html
+    title: "§ 1821 BGB"
 ---
 
 # Leitprinzip der Reform 2023
@@ -22,7 +27,3 @@ Die Betreuungsrechtsreform hat die **Wunsch- und Selbstbestimmungsorientierung**
 # Bezug
 
 Diese Bindung an die Wünsche begrenzt die [Vertretungsmacht des Betreuers](/betreuungsrecht/rechtliche-betreuung-1814.md) und konkretisiert für die Gesundheitssorge die [Patientenverfügung](/betreuungsrecht/patientenverfuegung-1827.md) und die Behandlungswünsche.
-
-# Citations
-
-[1] [§ 1821 BGB](https://www.gesetze-im-internet.de/bgb/__1821.html)

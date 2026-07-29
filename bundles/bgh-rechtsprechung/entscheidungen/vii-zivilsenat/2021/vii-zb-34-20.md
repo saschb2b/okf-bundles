@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:210721BVIIZB34.20.0"
 doknr: "KORE311392021"
 normen: ["§ 703b Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:00Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.07.2021 - VII ZB 34/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zum Anwendungsbereich des § 703b Abs. 1 ZPO bei der Erteilung einer Rechtsnachfolgeklausel.
@@ -24,8 +30,3 @@ Zum Anwendungsbereich des § 703b Abs. 1 ZPO bei der Erteilung einer Rechtsnachf
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 34/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.07.2021 - VII ZB 34/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

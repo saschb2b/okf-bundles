@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:250820BXIIIZB101.19.0"
 doknr: "KORE308432020"
 normen: ["§ 62 Abs 1 S 3 AufenthG, § 26 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.08.2020 - XIII ZB 101/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Kann nicht zuverlässig ausgeschlossen werden, dass der Betroffene minderjährig ist, darf Abschiebungshaft nur unter den Voraussetzungen des § 62 Abs. 1 Satz 3 AufenthG angeordnet werden.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 101/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.08.2020 - XIII ZB 101/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

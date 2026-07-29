@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 49/19"
 doknr: "KORE307832021"
 normen: ["§ 13 BGB, § 14 Abs 1 BGB, § 90a S 3 BGB, § 312g Abs 2 Nr 10 BGB, § 383 Abs 3 S 1 BGB, § 434 Abs 1 S 2 Nr 1 BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 474 Abs 1 S 2  BGB vom 10.12.2008, § 474 Abs 1 S 1 BGB, § 474 Abs 2 S 2 BGB, § 476 BGB vom 02.01.2002, § 34b Abs 5 GewO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.04.2021 - VIII ZR 49/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine "öffentlich zugängliche Versteigerung" im Sinne des § 474 Abs. 2 Satz 2 BGB (hier: Auktion für Reitpferde) ist - entsprechend der Legaldefinition in § 312g Abs. 2 Nr. 10 BGB - dann gegeben, wenn der Unternehmer Verbrauchern, die persönlich anwesend sind oder denen diese Möglichkeit gewährt wird, Waren oder Dienstleistungen anbietet, und zwar in einem vom Versteigerer durchgeführten, auf konkurrierenden Geboten basierenden transparenten Verfahren, bei dem der Bieter, der den Zuschlag erhalten hat, zum Erwerb der Waren oder Dienstleistungen verpflichtet ist. Darüber hinaus ist - anders als bei einer "öffentlichen Versteigerung" im Sinne der Vorgängerregelung in § 474 Abs. 1 Satz 2 BGB a.F. (siehe hierzu Senatsurteile vom 9. November 2005 - VIII ZR 116/05, NJW 2006, 613 Rn. 9 ff. und vom 24. Februar 2010 - VIII ZR 71/09, NJW-RR 2010, 1210 Rn. 12) - nicht (mehr) erforderlich, dass der Versteigerer die persönlichen Anforderungen gemäß § 383 Abs. 3 Satz 1 BGB, § 34b Abs. 5 GewO erfüllt (im Anschluss an Senatsurteile vom 27. Mai 2020 - VIII ZR 315/18, BGHZ 226, 1 Rn. 51 und vom 9. Oktober 2019 - VIII ZR 240/18, BGHZ 223, 235 Rn. 24 f., 58 ff.).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:52Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 49/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.04.2021 - VIII ZR 49/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

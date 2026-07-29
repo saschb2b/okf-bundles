@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:260418UVIIZR82.17.0"
 doknr: "KORE300822018"
 normen: ["§ 2 Nr 3 VOB B 2002, § 8 Nr 1 Abs 2 VOB B 2002"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.04.2018 - VII ZR 82/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Falle der einvernehmlichen Vertragsbeendigung richtet sich die vom Auftragnehmer zu beanspruchende Vergütung nach § 8 Nr. 1 Abs. 2 VOB/B (2002), sofern sich die Parteien über die Folgen der Vertragsbeendigung nicht anderweitig geeinigt haben (im Anschluss an BGH, Urteil vom 4. Juni 1973, VII ZR 113/71, NJW 1973, 1463).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 82/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.04.2018 - VII ZR 82/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

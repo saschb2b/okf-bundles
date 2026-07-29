@@ -9,13 +9,14 @@ datum: 2006-06-01
 aktenzeichen: "IX ZR 9/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:31:16Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:31:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR___9-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 01.06.2006 - IX ZR 9/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZR 9/04 vom 01.06.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.06.2006 - IX ZR 9/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2004/IX_ZR___9-04.pdf?__blob=publicationFile&v=1)
-

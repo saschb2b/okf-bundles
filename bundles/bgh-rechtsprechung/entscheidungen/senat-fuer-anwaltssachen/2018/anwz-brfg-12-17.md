@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:290118UANWZ.BRFG.12.17.0"
 doknr: "KORE312332018"
 normen: ["§ 46 BRAO, §§ 46ff BRAO, § 78 S 2 BetrVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.01.2018 - AnwZ (Brfg) 12/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Als Syndikusrechtsanwalt kann nicht zugelassen werden, wer zum Zeitpunkt der Zulassungsentscheidung als Betriebsrat von seiner beruflichen Tätigkeit vollständig befreit ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 12/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.01.2018 - AnwZ (Brfg) 12/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2003-03-26
 aktenzeichen: "IXa ZB 63/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:22:54Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:22:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IXa_ZS/2003/IXa_ZB__63-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 26.03.2003 - IXa ZB 63/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IXa ZB 63/03 vom 26.03.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.03.2003 - IXa ZB 63/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IXa_ZS/2003/IXa_ZB__63-03.pdf?__blob=publicationFile&v=1)
-

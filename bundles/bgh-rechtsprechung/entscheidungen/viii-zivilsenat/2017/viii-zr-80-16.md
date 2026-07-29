@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:260417UVIIIZR80.16.0"
 doknr: "KORE303362017"
 normen: ["§ 434 Abs 1 S 2 Nr 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.04.2017 - VIII ZR 80/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Vertraglich vorausgesetzt im Sinne des § 434 Abs. 1 Satz 2 Nr. 1 BGB ist die zwar nicht vereinbarte, aber von beiden Vertragsparteien unterstellte Verwendung der Kaufsache, die von der gewöhnlichen Verwendung abweichen kann (Bestätigung von BGH, Urteil vom 16. März 2012, V ZR 18/11, NJW-RR 2012, 1078).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 80/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.04.2017 - VIII ZR 80/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

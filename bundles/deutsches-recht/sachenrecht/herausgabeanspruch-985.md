@@ -5,7 +5,14 @@ description: Der Eigentümer kann vom Besitzer die Herausgabe der Sache verlange
 resource: https://www.gesetze-im-internet.de/bgb/__985.html
 tags: [sachenrecht, vindikation, herausgabe, recht-zum-besitz]
 norm: "§§ 985, 986 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__985.html
+    title: "§ 985 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__986.html
+    title: "§ 986 BGB"
 ---
 
 # Anspruch (§ 985)
@@ -23,8 +30,3 @@ Liegen die Voraussetzungen des § 985 vor (Eigentümer und nicht berechtigter Be
 # Bezug
 
 Wird der Besitz durch verbotene Eigenmacht entzogen, tritt neben den auf das Eigentum gestützten § 985 der vom Recht unabhängige possessorische [Besitzschutz (§ 861)](/sachenrecht/besitz-854.md). Beeinträchtigungen unterhalb der Besitzentziehung erfasst [§ 1004](/sachenrecht/beseitigung-unterlassung-1004.md).
-
-# Citations
-
-[1] [§ 985 BGB](https://www.gesetze-im-internet.de/bgb/__985.html)
-[2] [§ 986 BGB](https://www.gesetze-im-internet.de/bgb/__986.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:281025BVIIIZR5.25.0"
 doknr: "KORE725502025"
 normen: ["§ 321a Abs 1 ZPO, § 321a Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:41:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:41:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.10.2025 - VIII ZR 5/25 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 321a Abs 1 ZPO, § 321a Abs 2 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:41:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 5/25 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.10.2025 - VIII ZR 5/25 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

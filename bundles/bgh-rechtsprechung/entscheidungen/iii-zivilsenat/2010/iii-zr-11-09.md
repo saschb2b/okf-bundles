@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 11/09"
 doknr: "JURE100057393"
 normen: ["§ 276 BGB, § 280 BGB, § 309 Nr 7b BGB, § 311 Abs 2 BGB, § 328 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.02.2010 - III ZR 11/09 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 276 BGB, § 280 BGB, § 309 Nr 7b BGB, § 311 Abs 2 BGB, § 328 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 11/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.02.2010 - III ZR 11/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2004-12-22
 aktenzeichen: "XII ZA 25/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:18:40Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:18:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2003/XII_ZA__25-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 22.12.2004 - XII ZA 25/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZA 25/03 vom 22.12.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.12.2004 - XII ZA 25/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2003/XII_ZA__25-03.pdf?__blob=publicationFile&v=1)
-

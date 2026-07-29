@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 123/09"
 doknr: "KORE307832010"
 normen: ["§ 309 Nr 5 Buchst b BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.04.2010 - VIII ZR 123/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 In Allgemeinen Geschäftsbedingungen, die ein Kraftfahrzeughändler gegenüber Verbrauchern in Verträgen über den Verkauf gebrauchter Kraftfahrzeuge verwendet, verstößt folgende, für den Fall der Nichtabnahme des Fahrzeugs durch den Käufer vorgesehene Schadenspauschalierungsklausel
@@ -27,8 +33,3 @@ In Allgemeinen Geschäftsbedingungen, die ein Kraftfahrzeughändler gegenüber V
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 123/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.04.2010 - VIII ZR 123/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

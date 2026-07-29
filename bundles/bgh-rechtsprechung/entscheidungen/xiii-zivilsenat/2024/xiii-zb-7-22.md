@@ -10,8 +10,14 @@ aktenzeichen: "XIII ZB 7/22"
 doknr: "KORE300732024"
 normen: ["Art 19 Abs 4 GG, Art 5 Abs 4 MRK, § 417 FamFG, §§ 417ff FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 09.04.2024 - XIII ZB 7/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Beschleunigungsgebot im Haftbeschwerdeverfahren
@@ -25,8 +31,3 @@ Beschleunigungsgebot im Haftbeschwerdeverfahren
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 7/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.04.2024 - XIII ZB 7/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

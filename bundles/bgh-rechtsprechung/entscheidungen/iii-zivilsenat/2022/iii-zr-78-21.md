@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:120522UIIIZR78.21.0"
 doknr: "KORE304212022"
 normen: ["§ 296 S 1 BGB, § 297 BGB, § 328 BGB, § 615 S 1 BGB, § 630a BGB, § 630b BGB, § 7 Abs 3 S 2 CoronaVV NW 1"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.05.2022 - III ZR 78/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird ein minderjähriges Kind von seinen Eltern in einer Arztpraxis - oder wie hier in einer Praxis für Ergotherapie - zur medizinischen Behandlung vorgestellt, kommt der Behandlungsvertrag in der Regel zwischen den Eltern und dem Behandelnden als Vertrag zugunsten des Kindes zustande (§§ 630a, 328 BGB). Dies gilt - jedenfalls bei kleinen Kindern - auch dann, wenn diese in der gesetzlichen Krankenversicherung mitversichert sind.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:28:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 78/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.05.2022 - III ZR 78/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

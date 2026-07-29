@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:260619BXIIZB11.19.0"
 doknr: "KORE312972019"
 normen: ["§ 61 Abs 1 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:33Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.06.2019 - XII ZB 11/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zum Wert der Beschwer bei der Verpflichtung zur Auskunftserteilung in einer Güterrechtssache (im Anschluss an Senatsbeschluss vom 4. Juli 2018 - XII ZB 82/18, FamRZ 2018, 1529).
@@ -24,8 +30,3 @@ Zum Wert der Beschwer bei der Verpflichtung zur Auskunftserteilung in einer Güt
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 11/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.06.2019 - XII ZB 11/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,14 @@ description: Das Versorgungsamt stellt auf Antrag den Grad der Behinderung in Ze
 resource: https://www.gesetze-im-internet.de/sgb_9_2018/__152.html
 tags: [behinderung-teilhabe, gdb, schwerbehinderung, gleichstellung, versorgungsamt]
 norm: "§§ 2, 152 SGB IX"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__152.html
+    title: "§ 152 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__2.html
+    title: "§ 2 SGB IX"
 ---
 
 # Begriff der Behinderung (§ 2 SGB IX)
@@ -24,8 +31,3 @@ Das **Versorgungsamt** (Feststellungsbehörde) stellt auf Antrag fest, ob eine B
 # Bezug
 
 Auf der Feststellung bauen der [Schwerbehindertenausweis mit den Merkzeichen](/behinderung-teilhabe/merkzeichen-nachteilsausgleiche.md) und alle Nachteilsausgleiche auf. Gegen einen ablehnenden Bescheid führt der [Widerspruch und die Klage zum Sozialgericht](/sozialrecht/sozialgerichtliches-verfahren-sgg.md).
-
-# Citations
-
-[1] [§ 152 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__152.html)
-[2] [§ 2 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__2.html)

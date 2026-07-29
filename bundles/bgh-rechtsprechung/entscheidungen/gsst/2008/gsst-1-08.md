@@ -9,13 +9,14 @@ datum: 2008-10-07
 aktenzeichen: "GSSt 1/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:28:12Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:28:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/GSSt/2008/GSSt___1-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 07.10.2008 - GSSt 1/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: GSSt 1/08 vom 07.10.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.10.2008 - GSSt 1/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/GSSt/2008/GSSt___1-08.pdf?__blob=publicationFile&v=1)
-

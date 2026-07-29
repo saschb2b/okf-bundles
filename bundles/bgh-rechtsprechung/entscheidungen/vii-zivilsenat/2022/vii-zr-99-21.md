@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:200422BVIIZR99.21.0"
 doknr: "KORE304112022"
 normen: ["§ 613 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.04.2022 - VII ZR 99/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Der Bundesgerichtshof ist nicht Gericht im Sinne des § 613 Abs. 2 ZPO (Fortführung von BGH, Urteil vom 15. Juli 2014 - XI ZR 100/13 Rn. 12, NJW 2014, 3362).
@@ -24,8 +30,3 @@ Der Bundesgerichtshof ist nicht Gericht im Sinne des § 613 Abs. 2 ZPO (Fortfüh
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 99/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.04.2022 - VII ZR 99/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

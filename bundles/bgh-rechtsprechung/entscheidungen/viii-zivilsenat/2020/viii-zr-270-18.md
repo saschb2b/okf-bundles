@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:080720UVIIIZR270.18.0"
 doknr: "KORE303682020"
 normen: ["§ 242 BGB, § 273 Abs 1 BGB, § 306 Abs 2 BGB, § 307 Abs 1 BGB, § 307 Abs 2 Nr 1 BGB, § 535 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.07.2020 - VIII ZR 270/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. An die Stelle einer nach § 307 Abs. 1, Abs. 2 Nr. 1 BGB unwirksamen Klausel zur Durchführung von Schönheitsreparaturen durch den Mieter bei einer ohne angemessenen Ausgleich unrenoviert beziehungsweise renovierungsbedürftig überlassenen Wohnung tritt nach § 306 Abs. 2 BGB die gesetzliche Regelung des § 535 Abs. 1 Satz 2 BGB (Bestätigung der Senatsurteile vom 9. Juli 2008 - VIII ZR 181/07, BGHZ 177, 186 Rn. 20; vom 18. März 2015 - VIII ZR 185/14, BGHZ 204, 302 Rn. 40; vom 8. Juli 2020 - VIII ZR 163/18, BGHZ 226, 208).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:28:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 270/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.07.2020 - VIII ZR 270/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

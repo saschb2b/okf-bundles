@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu CMR"
 description: "BGH-Entscheidungen zu CMR, geordnet nach Vorschrift."
 tags: [register, navigation, cmr]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

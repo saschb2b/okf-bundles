@@ -9,13 +9,14 @@ datum: 2005-12-06
 aktenzeichen: "VIII ZB 48/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:29:53Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:29:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZB__48-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 06.12.2005 - VIII ZB 48/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 48/05 vom 06.12.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.12.2005 - VIII ZB 48/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2005/VIII_ZB__48-05.pdf?__blob=publicationFile&v=1)
-

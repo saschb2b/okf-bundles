@@ -5,7 +5,18 @@ description: Über die Kosten entscheidet das Gericht von Amts wegen nach dem Un
 resource: https://www.gesetze-im-internet.de/zpo/__91.html
 tags: [zivilprozess, prozesskosten, kostenentscheidung, unterliegensprinzip, streitwert, prozesskostenhilfe]
 norm: "§§ 91, 92, 93, 103, 114 ZPO; GKG, RVG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__91.html
+    title: "§ 91 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__92.html
+    title: "§ 92 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__93.html
+    title: "§ 93 ZPO"
+  - resource: https://www.gesetze-im-internet.de/zpo/__114.html
+    title: "§ 114 ZPO"
 ---
 
 # Kostengrundentscheidung (§§ 91, 92)
@@ -33,10 +44,3 @@ Die PKH deckt Gerichtskosten und die eigenen Anwaltskosten; die Kosten des obsie
 # Bezug
 
 Das Kostenrisiko bemisst sich am Streitwert, der auch die [Eingangszuständigkeit](/zivilprozess/zustaendigkeit-und-parteien-12.md) bestimmt. Außergerichtliche Anwalts- und Inkassokosten als Verzugsschaden behandelt das [Schuldrecht](/schuldrecht-at/rechtsverfolgungskosten-inkasso.md).
-
-# Citations
-
-[1] [§ 91 ZPO](https://www.gesetze-im-internet.de/zpo/__91.html)
-[2] [§ 92 ZPO](https://www.gesetze-im-internet.de/zpo/__92.html)
-[3] [§ 93 ZPO](https://www.gesetze-im-internet.de/zpo/__93.html)
-[4] [§ 114 ZPO](https://www.gesetze-im-internet.de/zpo/__114.html)

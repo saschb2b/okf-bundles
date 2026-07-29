@@ -9,13 +9,14 @@ datum: 2005-10-26
 aktenzeichen: "XII ZB 25/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:12:52Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:12:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2005/XII_ZB__25-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 26.10.2005 - XII ZB 25/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 25/05 vom 26.10.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.10.2005 - XII ZB 25/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2005/XII_ZB__25-05.pdf?__blob=publicationFile&v=1)
-

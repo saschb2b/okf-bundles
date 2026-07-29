@@ -10,8 +10,14 @@ aktenzeichen: "IX ZB 3/15"
 doknr: "KORE301562015"
 normen: ["§ 20 Abs 2 InsO, § 289 Abs 2  InsO vom 05.10.1994"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:59:08Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:59:08Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.10.2015 - IX ZB 3/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird das Insolvenzverfahren auf einen Gläubigerantrag eröffnet, kann ein während des laufenden Insolvenzverfahrens gestellter Antrag des Schuldners auf Restschuldbefreiung nicht wegen verspäteter Antragstellung als unzulässig verworfen werden, wenn das Insolvenzgericht den Schuldner nicht rechtzeitig über die Notwendigkeit eines Eigenantrags verbunden mit einem Antrag auf Restschuldbefreiung belehrt und ihm hierfür eine bestimmte richterliche Frist gesetzt hat (Ergänzung zu BGH, 17. Februar 2005, IX ZB 176/03, BGHZ 162, 181).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T10:59:08Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 3/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.10.2015 - IX ZB 3/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

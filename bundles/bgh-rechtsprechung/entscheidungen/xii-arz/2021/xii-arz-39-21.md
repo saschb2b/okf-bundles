@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:081221BXIIARZ39.21.0"
 doknr: "KORE300112022"
 normen: ["§ 42 Abs 2 ZPO, § 45 Abs 3 ZPO, § 6 Abs 1 S 1 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.12.2021 - XII ARZ 39/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Maßgeblich dafür, welches Gericht bei Beschlussunfähigkeit des eigentlich zur Entscheidung über ein Ablehnungsgesuch berufenen Gerichts zuständig gemäß § 45 Abs. 3 ZPO ist, ist die Rechtsmittelzuständigkeit in der Hauptsache. Bei Beschlussunfähigkeit eines Landgerichts in einer Betreuungssache ist daher der Bundesgerichtshof nach § 6 Abs. 1 Satz 1 FamFG i.V.m. § 45 Abs. 3 ZPO zuständig.
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:14:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ARZ 39/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.12.2021 - XII ARZ 39/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

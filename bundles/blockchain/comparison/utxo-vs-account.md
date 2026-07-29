@@ -3,7 +3,14 @@ type: Comparison
 title: UTXO vs account model
 description: How Bitcoin's coin-based ledger and Ethereum's balance-based state lead to different capabilities.
 tags: [comparison, utxo, account, accounting]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://developer.bitcoin.org/devguide/transactions.html
+    title: "Transactions (Bitcoin developer guide)"
+  - resource: https://ethereum.org/en/developers/docs/accounts/
+    title: "Accounts (Ethereum.org docs)"
 ---
 
 # The fork in the road
@@ -25,8 +32,3 @@ The deepest structural difference between chains is how each represents "who own
 # Why it matters
 
 The account model exists largely because Ethereum wanted rich [smart contracts](/concepts/smart-contract.md), and persistent account storage is the natural home for evolving contract state. Bitcoin accepted plain UTXO's inability to express contracts as the price of parallelism, privacy, and a smaller attack surface, fitting its minimalist [design philosophy](/comparison/design-philosophy.md). Cardano's EUTXO is the interesting middle: it argues you can have programmability **and** UTXO's determinism (validity and exact fees known before you submit), at the cost of a less familiar, output-centric way of architecting state. Neither is "better"; each is coherent with the chain's goals.
-
-# Citations
-
-[1] [Transactions (Bitcoin developer guide)](https://developer.bitcoin.org/devguide/transactions.html)
-[2] [Accounts (Ethereum.org docs)](https://ethereum.org/en/developers/docs/accounts/)

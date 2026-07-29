@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:130122BIXAR.VZ.1.20.0"
 doknr: "KORE312112022"
 normen: ["§ 23 GVGEG, § 24 GVGEG, § 56 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.01.2022 - IX AR (VZ) 1/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Ein Bewerber kann mit einem Antrag auf gerichtliche Entscheidung geltend machen, dass die Auswahlkriterien, die der Insolvenzrichter bei der Aufnahme in die Vorauswahlliste für Insolvenzverwalter heranzieht, rechtswidrig sind und ihn in seinen Rechten verletzen. Hierzu zählen auch Merkmale, die eine Strukturierung der Vorauswahlliste ermöglichen sollen.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:31:13Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX AR (VZ) 1/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.01.2022 - IX AR (VZ) 1/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

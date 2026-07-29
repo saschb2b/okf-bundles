@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:221020UVIIZR10.17.0"
 doknr: "KORE311422020"
 normen: ["§ 2 Abs 5 VOB B 2006, § 2 Abs 9 VOB B 2006, § 92 ZPO, § 96 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.10.2020 - VII ZR 10/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Kosten eines Privatgutachtens, die der Auftragnehmer zur Ermittlung der Vergütung nach § 2 Abs. 5 VOB/B aufwendet, sind vom Auftraggeber nicht nach dieser Bestimmung als Teil der Mehrkosten zu erstatten.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:01Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 10/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.10.2020 - VII ZR 10/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

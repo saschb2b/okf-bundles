@@ -188,7 +188,11 @@ for (const g of gesetze) {
   plan(join(NORM, `${g.toLowerCase()}.md`),
     `---\ntype: Rechtsprechungsregister\ntitle: ${JSON.stringify(`Rechtsprechung zu ${g}`)}\n` +
     `description: ${JSON.stringify(`BGH-Entscheidungen zu ${g}, geordnet nach Vorschrift.`)}\n` +
-    `tags: [register, navigation, ${g.toLowerCase()}]\ntimestamp: ${new Date().toISOString().replace(/\.\d+Z$/, "Z")}\n---\n\n` +
+    `tags: [register, navigation, ${g.toLowerCase()}]\n` +
+    // OKF v0.2 provenance: the register is derived by this script from the
+    // `normen` field of the decisions, so the actor is the process.
+    `generated:\n  by: process:build-rechtsprechung-index\n` +
+    `  at: ${new Date().toISOString().replace(/\.\d+Z$/, "Z")}\n---\n\n` +
     `# Nach Vorschrift\n\nWelche erfassten BGH-Entscheidungen die einzelnen Vorschriften des ${g} auslegen.\n\n` +
     `| Norm | Entscheidung(en) |\n|------|------------------|\n${rows.join("\n")}\n`);
 }

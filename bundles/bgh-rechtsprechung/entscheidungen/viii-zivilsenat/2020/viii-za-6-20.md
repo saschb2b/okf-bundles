@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:201020BVIIIZA6.20.0"
 doknr: "KORE608392020"
 normen: ["§ 2 ZPO, § 3 ZPO, § 78b ZPO, § 511 Abs 2 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.10.2020 - VIII ZA 6/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 2 ZPO, § 3 ZPO, § 78b ZPO, § 511 Abs 2 Nr 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZA 6/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.10.2020 - VIII ZA 6/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

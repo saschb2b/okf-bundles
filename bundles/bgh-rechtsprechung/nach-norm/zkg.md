@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu ZKG"
 description: "BGH-Entscheidungen zu ZKG, geordnet nach Vorschrift."
 tags: [register, navigation, zkg]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

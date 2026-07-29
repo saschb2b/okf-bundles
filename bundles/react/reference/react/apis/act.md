@@ -4,7 +4,12 @@ title: act
 description: A test helper that applies pending React updates before you make assertions.
 resource: https://react.dev/reference/react/act
 tags: [react, testing, act, assertions]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/act
+    title: "act"
 ---
 
 # Reference
@@ -56,6 +61,3 @@ await act(async () => {
 # Related
 
 In tests you wrap rendering done with [createRoot](/reference/react-dom/client/createRoot.md) in `act()`, which also flushes the [Effects](/reference/react/hooks/useEffect.md) those renders schedule.
-
-# Citations
-[1] [act](https://react.dev/reference/react/act)

@@ -5,7 +5,16 @@ description: Die Eingliederungshilfe ermöglicht Menschen mit wesentlicher Behin
 resource: https://www.gesetze-im-internet.de/sgb_9_2018/__90.html
 tags: [behinderung-teilhabe, eingliederungshilfe, bthg, assistenz, teilhabe]
 norm: "§§ 90, 99, 102, 78 SGB IX"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__90.html
+    title: "§ 90 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__99.html
+    title: "§ 99 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__78.html
+    title: "§ 78 SGB IX"
 ---
 
 # Aufgabe (§ 90)
@@ -31,9 +40,3 @@ Die Fachleistung der Eingliederungshilfe ist vom Lebensunterhalt getrennt. Das B
 # Bezug
 
 Die Eingliederungshilfe ist eine [Teilhabeleistung](/behinderung-teilhabe/teilhabe-persoenliches-budget.md) und kann als Persönliches Budget bezogen werden. Sie grenzt sich von der medizinischen Hilfsmittelversorgung der [Krankenkasse](/behinderung-teilhabe/hilfsmittel-rollstuhl-33.md) und der [Pflegeversicherung](/sozialrecht/pflegeversicherung-sgb11.md) ab.
-
-# Citations
-
-[1] [§ 90 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__90.html)
-[2] [§ 99 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__99.html)
-[3] [§ 78 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__78.html)

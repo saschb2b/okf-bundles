@@ -5,7 +5,16 @@ description: Das Insolvenzverfahren wird bei Zahlungsunfähigkeit, drohender Zah
 resource: https://www.gesetze-im-internet.de/inso/__17.html
 tags: [insolvenzrecht, eroeffnungsgruende, zahlungsunfaehigkeit, ueberschuldung, antragspflicht]
 norm: "§§ 17, 18, 19 InsO; § 15a InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__17.html
+    title: "§ 17 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__19.html
+    title: "§ 19 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__15a.html
+    title: "§ 15a InsO"
 ---
 
 # Eröffnungsgründe
@@ -21,9 +30,3 @@ Bei einer juristischen Person müssen die Mitglieder des Vertretungsorgans (Gesc
 # Bezug
 
 Mit dem Eröffnungsbeschluss gehen die Verwaltungs- und Verfügungsbefugnis auf den [Insolvenzverwalter](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) über; Gläubiger melden ihre Forderungen [zur Tabelle](/insolvenzrecht/forderungsanmeldung-174.md) an.
-
-# Citations
-
-[1] [§ 17 InsO](https://www.gesetze-im-internet.de/inso/__17.html)
-[2] [§ 19 InsO](https://www.gesetze-im-internet.de/inso/__19.html)
-[3] [§ 15a InsO](https://www.gesetze-im-internet.de/inso/__15a.html)

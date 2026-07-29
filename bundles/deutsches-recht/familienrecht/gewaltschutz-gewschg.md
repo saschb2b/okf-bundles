@@ -5,7 +5,16 @@ description: Wer vorsätzlich Körper, Gesundheit, Freiheit oder sexuelle Selbst
 resource: https://www.gesetze-im-internet.de/gewschg/__1.html
 tags: [familienrecht, gewaltschutz, gewschg, schutzanordnung, naeherungsverbot, wohnungsueberlassung, stalking]
 norm: "§§ 1, 2, 4 GewSchG; § 214 FamFG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gewschg/__1.html
+    title: "§ 1 GewSchG"
+  - resource: https://www.gesetze-im-internet.de/gewschg/__2.html
+    title: "§ 2 GewSchG"
+  - resource: https://www.gesetze-im-internet.de/gewschg/__4.html
+    title: "§ 4 GewSchG"
 ---
 
 # Schutzanordnungen (§ 1 GewSchG)
@@ -39,9 +48,3 @@ Der **Verstoß gegen eine vollstreckbare Schutzanordnung** nach § 1 ist eine **
 # Bezug
 
 Das Verfahren läuft vor dem [Familiengericht](/familienrecht/familienverfahren-famfg.md). Bei getrennt lebenden Eheleuten überschneidet sich die Wohnungsüberlassung mit der [Zuweisung der Ehewohnung](/familienrecht/ehewohnung-und-haushalt-1361b-1568a.md); zugunsten von Kindern wirkt der Schutz mit dem [staatlichen Wächteramt](/familienrecht/kindeswohlgefaehrdung-1666.md) zusammen.
-
-# Citations
-
-[1] [§ 1 GewSchG](https://www.gesetze-im-internet.de/gewschg/__1.html)
-[2] [§ 2 GewSchG](https://www.gesetze-im-internet.de/gewschg/__2.html)
-[3] [§ 4 GewSchG](https://www.gesetze-im-internet.de/gewschg/__4.html)

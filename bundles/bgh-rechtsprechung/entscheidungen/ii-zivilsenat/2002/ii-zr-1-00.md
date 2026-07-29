@@ -9,13 +9,14 @@ datum: 2002-09-16
 aktenzeichen: "II ZR 1/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:21:32Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:21:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2000/II_ZR___1-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 16.09.2002 - II ZR 1/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: II ZR 1/00 vom 16.09.2002.
-
-# Citations
-
-[1] [BGH, Urteil vom 16.09.2002 - II ZR 1/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2000/II_ZR___1-00.pdf?__blob=publicationFile&v=1)
-

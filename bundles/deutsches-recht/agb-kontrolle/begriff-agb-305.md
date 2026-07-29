@@ -5,7 +5,12 @@ description: AGB sind für eine Vielzahl von Verträgen vorformulierte Vertragsb
 resource: https://www.gesetze-im-internet.de/bgb/__305.html
 tags: [agb-recht, bgb, vertragsrecht, klauselkontrolle]
 norm: "§ 305 Abs. 1 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__305.html
+    title: "§ 305 BGB"
 ---
 
 # Regel
@@ -29,7 +34,3 @@ Liegen die Merkmale vor, ist die Klausel AGB und durchläuft die Kontrolle der �
 # Bezug
 
 Erste Stufe im [Prüfschema](/agb-kontrolle/pruefungsschema.md). Ist AGB-Charakter bejaht, folgt die [Einbeziehung](/agb-kontrolle/einbeziehung-305.md).
-
-# Citations
-
-[1] [§ 305 BGB](https://www.gesetze-im-internet.de/bgb/__305.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:050619BXIIZB58.19.0"
 doknr: "KORE304792019"
 normen: ["§ 27 Abs 2 FamFG, § 68 Abs 3 S 2 FamFG, § 278 FamFG, § 1896 Abs 1a BGB, § 1896 Abs 3 BGB, Art 103 Abs 1  GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:00Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.06.2019 - XII ZB 58/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird dem Betroffenen das im Verfahren eingeholte Sachverständigengutachten nicht rechtzeitig vor dem Anhörungstermin überlassen, leidet die Anhörung an einem wesentlichen Verfahrensmangel. Dann hat das Beschwerdegericht diesen Mangel durch die Übersendung des Sachverständigengutachtens an den Betroffenen und dessen anschließende erneute Anhörung zu beheben (im Anschluss an Senatsbeschluss vom 6. Februar 2019 - XII ZB 504/18, MDR 2019, 498).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:00Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 58/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.06.2019 - XII ZB 58/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

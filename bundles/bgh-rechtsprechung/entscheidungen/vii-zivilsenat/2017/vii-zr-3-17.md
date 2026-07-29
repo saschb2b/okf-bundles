@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:140917UVIIZR3.17.0"
 doknr: "KORE302182017"
 normen: ["§ 157 BGB, § 280 BGB, §§ 280ff BGB, § 387 BGB, § 631 Abs 1 BGB, § 634 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.09.2017 - VII ZR 3/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Vereinbaren die Parteien eines Bauvertrags, dass ein Betrag von 5% der Netto-Schlussabrechnungssumme zur Sicherung einbehalten werden darf, der Unternehmer diesen Einbehalt durch eine Bankbürgschaft ablösen kann und weiter:
@@ -28,8 +34,3 @@ Vereinbaren die Parteien eines Bauvertrags, dass ein Betrag von 5% der Netto-Sch
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 3/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.09.2017 - VII ZR 3/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

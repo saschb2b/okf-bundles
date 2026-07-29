@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:310118UVIIIZR105.17.0"
 doknr: "KORE308222018"
 normen: ["§ 543 Abs 2 S 1 Nr 3 BGB, § 553 Abs 1 BGB, § 563 Abs 1 BGB, § 563 Abs 2 BGB, § 563 Abs 4 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 31.01.2018 - VIII ZR 105/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Eine objektiv feststehende finanzielle Leistungsunfähigkeit eines nach dem Tod des Mieters in das Mietverhältnis Eintretenden kann einen wichtigen Grund zur Kündigung des Mietverhältnisses nach § 563 Abs. 4 BGB darstellen. Voraussetzung hierfür ist regelmäßig, dass dem Vermieter ein Zuwarten, bis die Voraussetzungen einer Kündigung wegen Zahlungsverzugs nach § 543 Abs. 2 Satz 1 Nr. 3 BGB erfüllt sind, nicht zuzumuten ist.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:30:01Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 105/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 31.01.2018 - VIII ZR 105/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

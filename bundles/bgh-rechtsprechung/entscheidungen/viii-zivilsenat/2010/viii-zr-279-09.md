@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 279/09"
 doknr: "JURE100066883"
 normen: ["§ 242 BGB, § 558 Abs 1 S 1  BGB, § 559 BGB, § 8a WoBindG, § 10 WoBindG, § 17 Abs 1 S 2 WoBauG 2"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.07.2010 - VIII ZR 279/09 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 242 BGB, § 558 Abs 1 S 1  BGB, § 559 BGB, § 8a WoBindG, § 10 WoBindG, § 17 Abs 1 S 2 WoBauG 2
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 279/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.07.2010 - VIII ZR 279/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

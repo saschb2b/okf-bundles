@@ -10,8 +10,14 @@ aktenzeichen: "IX ZR 7/12"
 doknr: "KORE305772013"
 normen: ["§ 129 Abs 1 InsO, § 135 Abs 1 Nr 2 InsO, § 143 InsO, § 134 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.03.2013 - IX ZR 7/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Gewährt ein Gesellschafter seiner Gesellschaft fortlaufend zur Vorfinanzierung der von ihr abzuführenden Sozialversicherungsbeiträge Kredite, die in der Art eines Kontokorrentkredits jeweils vor Erhalt des Nachfolgedarlehens mit Hilfe öffentlicher Beihilfen abgelöst werden, ist die Anfechtung wie bei einem Kontokorrentkredit auf die Verringerung des Schuldsaldos im Anfechtungszeitraum beschränkt.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 7/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.03.2013 - IX ZR 7/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

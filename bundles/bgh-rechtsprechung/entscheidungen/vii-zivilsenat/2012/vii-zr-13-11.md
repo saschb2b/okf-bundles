@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 13/11"
 doknr: "KORE310742012"
 normen: ["§ 414 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.04.2012 - VII ZR 13/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Allein das Ausstellen einer Rechnung auf einen am Werkvertrag nicht beteiligten Dritten und deren Begleichung durch diesen stellt keine Schuldübernahme durch den Dritten dar.
@@ -23,8 +29,3 @@ Allein das Ausstellen einer Rechnung auf einen am Werkvertrag nicht beteiligten 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 13/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.04.2012 - VII ZR 13/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

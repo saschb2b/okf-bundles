@@ -9,13 +9,14 @@ datum: 2004-11-05
 aktenzeichen: "IXa ZB 35/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:26:50Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:26:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IXa_ZS/2003/IXa_ZB__35-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.11.2004 - IXa ZB 35/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IXa ZB 35/03 vom 05.11.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.11.2004 - IXa ZB 35/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IXa_ZS/2003/IXa_ZB__35-03.pdf?__blob=publicationFile&v=1)
-

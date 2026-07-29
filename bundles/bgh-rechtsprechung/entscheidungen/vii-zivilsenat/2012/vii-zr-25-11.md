@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 25/11"
 doknr: "KORE313452012"
 normen: ["§ 256 Abs 2 ZPO, § 301 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.04.2012 - VII ZR 25/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei erhobener Klage und Widerklage kann über die Widerklage ein Teilurteil ergehen, wenn diese selbstständig zur Endentscheidung reif und von der Entscheidung über die Klage unabhängig ist.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:31:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 25/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.04.2012 - VII ZR 25/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

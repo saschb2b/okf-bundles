@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 55/13"
 doknr: "KORE303902014"
 normen: ["§ 280 BGB, § 281 BGB, § 633 BGB, § 634 Nr 4 BGB, § 636 BGB, § 15 AIHonO 1996"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.07.2014 - VII ZR 55/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der mit der Grundlagenermittlung (Leistungsphase 1) beauftragte Architekt hat den Besteller hinsichtlich der Genehmigungsfähigkeit des Bauvorhabens vollständig und richtig zu beraten. Verletzt der Architekt diese Pflicht und erklärt sich der Besteller aus diesem Grund damit einverstanden, dass der Architekt ein anderes Gebäude als das ursprünglich gewollte plant, ist der Architekt dem Besteller zum Schadensersatz gemäß § 634 Nr. 4, §§ 636, 280, 281 BGB verpflichtet. Der Schaden besteht in diesem Fall darin, dass der Besteller Aufwendungen für ein Gebäude tätigt, das er ohne die mangelhafte Planungsleistung des Architekten nicht hätte errichten lassen.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 55/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.07.2014 - VII ZR 55/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: preinitModule
 description: A react-dom API that eagerly fetches and evaluates an ESM module, so it runs as soon as it downloads.
 resource: https://react.dev/reference/react-dom/preinitModule
 tags: [react, react-dom, resource-hints, performance, esm]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/preinitModule
+    title: "preinitModule"
 ---
 
 React-based frameworks often handle resource loading for you, so you might not need this API directly.
@@ -64,7 +69,3 @@ function CallToAction() {
 - Multiple calls with the same `href` behave like a single call.
 - In the browser, callable in any situation: rendering, an Effect, an event handler.
 - During server-side rendering or Server Components, it only has an effect when called while rendering a component or in an async context originating from rendering. Other calls are ignored.
-
-# Citations
-
-[1] [preinitModule](https://react.dev/reference/react-dom/preinitModule)

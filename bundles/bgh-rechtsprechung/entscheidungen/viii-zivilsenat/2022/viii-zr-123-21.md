@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:190122UVIIIZR123.21.0"
 doknr: "KORE306782022"
 normen: ["§ 134 BGB, § 312j Abs 2 BGB, § 312j Abs 3 BGB, § 312j Abs 4 BGB, § 398 BGB, § 556d Abs 1 BGB, § 556d Abs 2 S 5 BGB, § 556d Abs 2 S 6 BGB, § 556d Abs 2 S 7 BGB, §§ 556dff BGB, § 556g Abs 1 S 3  BGB vom 21.04.2015, § 556g Abs 2 S 1  BGB vom 21.04.2015, § 2 Abs 2 S 1   RDG vom 12.12.2007, § 3  RDG, § 10 Abs 1 S 1 Nr 1 RDG, MietBegrV BE"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.01.2022 - VIII ZR 123/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Die Berliner Mietenbegrenzungsverordnung vom 28. April 2015 (GVBl. 2015 S. 101) ist nicht wegen einer unzureichenden Veröffentlichung der Begründung unwirksam. Die Verordnungsbegründung ist in hinreichender Weise und rechtzeitig vor Inkrafttreten der Verordnung am 1. Juni 2015 veröffentlicht worden (Bestätigung des Senatsurteils vom 27. Mai 2020 - VIII ZR 45/19, BGHZ 225, 352 Rn. 83 ff. sowie des Senatsbeschlusses vom 27. Mai 2020 - VIII ZR 292/19, WuM 2020, 488 Rn. 6 ff.).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:29:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 123/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.01.2022 - VIII ZR 123/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

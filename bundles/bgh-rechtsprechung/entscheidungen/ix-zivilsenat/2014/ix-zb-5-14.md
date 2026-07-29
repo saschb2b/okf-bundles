@@ -10,8 +10,14 @@ aktenzeichen: "IX ZB 5/14"
 doknr: "KORE311842014"
 normen: ["§ 13 Abs 1 InsO, § 20 Abs 2 InsO, § 287 Abs 1 S 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:09Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 04.12.2014 - IX ZB 5/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Hat ein Gläubigerantrag zur Eröffnung des Insolvenzverfahrens geführt, kann der Schuldner auch dann keinen Eigenantrag verbunden mit dem Antrag auf Restschuldbefreiung mehr stellen, wenn der Eröffnungsbeschluss noch nicht rechtskräftig ist.
@@ -23,8 +29,3 @@ Hat ein Gläubigerantrag zur Eröffnung des Insolvenzverfahrens geführt, kann d
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 5/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.12.2014 - IX ZB 5/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

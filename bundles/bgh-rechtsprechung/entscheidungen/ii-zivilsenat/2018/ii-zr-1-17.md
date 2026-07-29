@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:060318UIIZR1.17.0"
 doknr: "KORE308462018"
 normen: ["§ 133 BGB, § 157 BGB, § 705 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.03.2018 - II ZR 1/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Der Beschluss einer Publikumspersonengesellschaft ist nach seinem objektiven Erklärungsbefund auszulegen.
@@ -24,8 +30,3 @@ Der Beschluss einer Publikumspersonengesellschaft ist nach seinem objektiven Erk
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZR 1/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.03.2018 - II ZR 1/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

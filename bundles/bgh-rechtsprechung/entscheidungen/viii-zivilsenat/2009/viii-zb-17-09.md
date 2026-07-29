@@ -9,13 +9,14 @@ datum: 2009-08-18
 aktenzeichen: "VIII ZB 17/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:23:24Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:23:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZB__17-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 18.08.2009 - VIII ZB 17/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 17/09 vom 18.08.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.08.2009 - VIII ZB 17/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZB__17-09.pdf?__blob=publicationFile&v=1)
-

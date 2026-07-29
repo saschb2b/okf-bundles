@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:300123BVIAZB15.22.0"
 doknr: "KORE650362023"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO, § 520 Abs 2 S 2 ZPO, § 522 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.01.2023 - VIa ZB 15/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 85 Abs 2 ZPO, § 233 ZPO, § 520 Abs 2 S 2 ZPO, § 522 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIa ZB 15/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.01.2023 - VIa ZB 15/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

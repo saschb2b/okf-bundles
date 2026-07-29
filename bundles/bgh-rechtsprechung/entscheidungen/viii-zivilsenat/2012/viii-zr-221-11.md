@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 221/11"
 doknr: "KORE605152012"
 normen: ["§ 241 Abs 2 BGB, § 280 Abs 1 BGB, § 10 Abs 3  AbsFondsG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.03.2012 - VIII ZR 221/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 241 Abs 2 BGB, § 280 Abs 1 BGB, § 10 Abs 3  AbsFondsG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:33:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 221/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.03.2012 - VIII ZR 221/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

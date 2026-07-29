@@ -10,8 +10,14 @@ aktenzeichen: "II ZA 4/12"
 doknr: "JURE130012676"
 normen: ["§ 147 Abs 2 AktG, § 26 Abs 1 S 1 UmwG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:33Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.06.2013 - II ZA 4/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 147 Abs 2 AktG, § 26 Abs 1 S 1 UmwG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:33Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZA 4/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.06.2013 - II ZA 4/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

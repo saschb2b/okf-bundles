@@ -5,7 +5,12 @@ description: Betrug ist die Vermögensschädigung durch Täuschung; objektiv üb
 resource: https://www.gesetze-im-internet.de/stgb/__263.html
 tags: [strafrecht-bt, betrug, taeuschung, vermoegensschaden]
 norm: "§ 263 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__263.html
+    title: "§ 263 StGB"
 ---
 
 # Tatbestand (§ 263 Abs. 1)
@@ -28,7 +33,3 @@ Erforderlich sind Vorsatz und die **Absicht**, sich oder einem Dritten einen rec
 # Bezug
 
 Verwandt ist die Untreue (§ 266, Schädigung von innen durch einen Vermögensbetreuungspflichtigen). Tritt Zwang statt Täuschung hinzu, greift die [Erpressung](/strafrecht-bt/raub-und-erpressung-249-253.md).
-
-# Citations
-
-[1] [§ 263 StGB](https://www.gesetze-im-internet.de/stgb/__263.html)

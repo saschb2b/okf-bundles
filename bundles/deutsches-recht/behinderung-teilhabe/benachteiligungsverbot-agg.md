@@ -5,7 +5,14 @@ description: Niemand darf wegen einer Behinderung benachteiligt werden; das AGG 
 resource: https://www.gesetze-im-internet.de/agg/
 tags: [behinderung-teilhabe, agg, diskriminierung, gleichstellung, un-brk]
 norm: "§§ 1, 3, 7, 15, 19 AGG; Art. 3 Abs. 3 GG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/agg/
+    title: "Allgemeines Gleichbehandlungsgesetz (AGG)"
+  - resource: https://www.gesetze-im-internet.de/gg/art_3.html
+    title: "Art. 3 GG"
 ---
 
 # Verfassungs- und völkerrechtlicher Rahmen
@@ -23,8 +30,3 @@ Das Allgemeine Gleichbehandlungsgesetz verbietet Benachteiligungen unter anderem
 # Abgrenzung
 
 Das AGG schafft Diskriminierungsschutz; die **leistungsrechtlichen** Ansprüche (Teilhabe, Eingliederungshilfe, Hilfsmittel) folgen aus dem [SGB IX](/behinderung-teilhabe/teilhabe-persoenliches-budget.md) und [SGB V](/behinderung-teilhabe/hilfsmittel-rollstuhl-33.md), die Zugänglichkeit aus dem [Barrierefreiheitsrecht](/behinderung-teilhabe/barrierefreiheit-bgg-bfsg.md).
-
-# Citations
-
-[1] [Allgemeines Gleichbehandlungsgesetz (AGG)](https://www.gesetze-im-internet.de/agg/)
-[2] [Art. 3 GG](https://www.gesetze-im-internet.de/gg/art_3.html)

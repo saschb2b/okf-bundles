@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:200219UVIIIZR7.18.0"
 doknr: "KORE304112019"
 normen: ["§ 151 BGB, § 157 BGB, § 315 Abs 3 S 1 BGB, § 316 BGB, § 433 Abs 2 BGB, § 651 S 1 BGB, § 812 Abs 1 S 2 Alt 1 BGB, § 14 Abs 4 S 1 Nr 7 UStG, § 14 Abs 4 S 1 Nr 8 UStG, § 14 Abs 6 Nr 5 UStG, § 14c Abs 1 S 1 UStG, § 14c Abs 1 S 2 UStG, § 31 Abs 5 S 1 Buchst b UStDV, § 37 Abs 2 S 1 AO, § 233a Abs 1 AO, § 233a Abs 3 AO, § 233a Abs 5 AO, § 238 AO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.02.2019 - VIII ZR 7/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Stellt ein Krankenhaus in seiner hauseigenen Apotheke patientenindividuell Zytostatika für eine ambulante Behandlung des Patienten in seiner Klinik her, kommt regelmäßig (stillschweigend) eine Bruttopreisabrede zustande, bei der der darin enthaltene Umsatzsteueranteil lediglich einen unselbständigen Preisbestandteil bildet (Fortführung von BGH, Urteile vom 24. Februar 1988 - VIII ZR 64/87, BGHZ 103, 284, 287; vom 26. Juni 1991 - VIII ZR 198/90, BGHZ 115, 47, 50; vom 11. Mai 2001 - V ZR 492/99, NJW 2001, 2464 unter II 1; vom 28. Februar 2002 - I ZR 318/99, NJW 2002, 2312 unter II 1; Beschluss vom 29. Januar 2015 - IX ZR 138/14, juris Rn. 3).
@@ -34,8 +40,3 @@ timestamp: 2026-06-22T12:28:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 7/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.02.2019 - VIII ZR 7/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

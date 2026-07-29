@@ -3,7 +3,14 @@ type: Primitive
 title: Block and the blockchain
 description: A batch of transactions cryptographically chained to its predecessor, forming an append-only ledger.
 tags: [data-structure, block, ledger, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin whitepaper (Nakamoto, 2008)"
+  - resource: https://ethereum.org/en/developers/docs/blocks/
+    title: "Blocks (Ethereum.org docs)"
 ---
 
 # What it is
@@ -21,8 +28,3 @@ The back-reference is what makes history expensive to alter. Combined with [cons
 - **Size limits.** Bitcoin caps block weight; Ethereum meters blocks by a [gas](/concepts/gas-and-fees.md) limit rather than bytes.
 
 New blocks first circulate as candidates and draw from the [mempool](/concepts/mempool.md) of pending transactions.
-
-# Citations
-
-[1] [Bitcoin whitepaper (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
-[2] [Blocks (Ethereum.org docs)](https://ethereum.org/en/developers/docs/blocks/)

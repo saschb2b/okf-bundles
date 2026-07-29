@@ -4,7 +4,12 @@ title: Installation
 description: Overview of the ways to start using React, from trying it online to creating an app or adding it to an existing project.
 resource: https://react.dev/learn/installation
 tags: [react, installation, getting-started, setup]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/installation
+    title: "Installation"
 ---
 
 # Summary
@@ -42,7 +47,3 @@ Each option below has its own concept in this folder.
 # Next steps
 
 Read the Quick Start guide for a tour of the core React concepts you will use daily. See [Quick Start](/get-started/quick-start.md).
-
-# Citations
-
-[1] [Installation](https://react.dev/learn/installation)

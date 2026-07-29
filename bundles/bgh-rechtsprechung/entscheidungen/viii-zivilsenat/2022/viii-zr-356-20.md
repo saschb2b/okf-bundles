@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:220622UVIIIZR356.20.0"
 doknr: "KORE301622022"
 normen: ["§ 563a Abs 1 BGB, § 577a Abs 1 BGB, § 577a Abs 2 BGB, § 2 KSchKlV BE 2013"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.06.2022 - VIII ZR 356/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die vom Land Berlin erlassene "Verordnung im Sinne des § 577a Abs. 2 BGB über den verlängerten Kündigungsschutz bei Umwandlung einer Mietwohnung in eine Eigentumswohnung" (Kündigungsschutzklausel-Verordnung vom 13. August 2013, GVBl. S. 488), welche die Kündigungssperrfrist nach Bildung und Veräußerung von Wohnungseigentum im Sinne des § 577a Abs. 1 BGB für das gesamte Gebiet von Berlin auf zehn Jahre festlegt, ist wirksam.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 356/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.06.2022 - VIII ZR 356/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

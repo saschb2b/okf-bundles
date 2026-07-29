@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:080916UIIIZR7.15.0"
 doknr: "KORE301462016"
 normen: ["§ 293 ZPO, § 563 Abs 4 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.09.2016 - III ZR 7/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für das Stiftungskollisionsrecht ist auf die Grundsätze des Internationalen Gesellschaftsrechts zurückzugreifen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 7/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.09.2016 - III ZR 7/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

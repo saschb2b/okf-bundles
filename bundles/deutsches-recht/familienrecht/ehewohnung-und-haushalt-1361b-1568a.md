@@ -5,7 +5,18 @@ description: Bei Getrenntleben werden Haushaltsgegenstände nach Billigkeit vert
 resource: https://www.gesetze-im-internet.de/bgb/__1568a.html
 tags: [familienrecht, ehewohnung, haushaltsgegenstaende, getrenntleben, scheidung, wohnungszuweisung]
 norm: "§§ 1361a, 1361b, 1568a, 1568b BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1568a.html
+    title: "§ 1568a BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1361b.html
+    title: "§ 1361b BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1361a.html
+    title: "§ 1361a BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1568b.html
+    title: "§ 1568b BGB"
 ---
 
 # Während des Getrenntlebens
@@ -21,10 +32,3 @@ timestamp: 2026-06-19T12:00:00Z
 # Bezug
 
 Die Ehewohnungs- und Haushaltssache ist eine [Folgesache des Scheidungsverbunds](/familienrecht/familienverfahren-famfg.md) (§ 137 FamFG) und tritt neben den [Zugewinnausgleich](/familienrecht/zugewinnausgleich-1378.md). Bei Gewalt überschneidet sie sich mit der Wohnungsüberlassung nach dem [Gewaltschutzgesetz](/familienrecht/gewaltschutz-gewschg.md).
-
-# Citations
-
-[1] [§ 1568a BGB](https://www.gesetze-im-internet.de/bgb/__1568a.html)
-[2] [§ 1361b BGB](https://www.gesetze-im-internet.de/bgb/__1361b.html)
-[3] [§ 1361a BGB](https://www.gesetze-im-internet.de/bgb/__1361a.html)
-[4] [§ 1568b BGB](https://www.gesetze-im-internet.de/bgb/__1568b.html)

@@ -5,7 +5,16 @@ description: Der Ersatz des Erfüllungsinteresses tritt an die Stelle der Leistu
 resource: https://www.gesetze-im-internet.de/bgb/__281.html
 tags: [schuldrecht-at, schadensersatz, fristsetzung, leistungsstoerung]
 norm: "§§ 281, 283, 311a BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__281.html
+    title: "§ 281 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__283.html
+    title: "§ 283 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__311a.html
+    title: "§ 311a BGB"
 ---
 
 # Regel
@@ -25,9 +34,3 @@ Beim Schadensersatz **statt** der Leistung erlischt der Anspruch auf die Leistun
 # Bezug
 
 Setzt die [Pflichtverletzung nach § 280](/schuldrecht-at/pflichtverletzung-280.md) und das [Vertretenmüssen](/schuldrecht-at/vertretenmuessen.md) voraus. Neben dem Schadensersatz kann der Gläubiger nach Fristsetzung auch [zurücktreten](/schuldrecht-at/ruecktritt.md); beides schließt sich nicht aus (§ 325).
-
-# Citations
-
-[1] [§ 281 BGB](https://www.gesetze-im-internet.de/bgb/__281.html)
-[2] [§ 283 BGB](https://www.gesetze-im-internet.de/bgb/__283.html)
-[3] [§ 311a BGB](https://www.gesetze-im-internet.de/bgb/__311a.html)

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 334/12"
 doknr: "KORE301402013"
 normen: ["§ 281 Abs 1 S 1 BGB, § 288 Abs 2 BGB, § 535 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.07.2013 - VIII ZR 334/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Dem Anspruch des Leasinggebers auf Minderwertausgleich bei einem Leasingvertrag mit Kilometerabrechnung kann der Leasingnehmer schadensrechtliche Einwände nicht entgegenhalten (im Anschluss an die Senatsurteile vom 24. April 2013, VIII ZR 265/12, NJW 2013, 1420; vom 14. November 2012, VIII ZR 22/12, DAR 2013, 143).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:14:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 334/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.07.2013 - VIII ZR 334/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

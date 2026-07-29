@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:060416UXIIZR29.15.0"
 doknr: "KORE303712016"
 normen: ["§ 307 BGB, § 309 Nr 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.04.2016 - XII ZR 29/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Einschränkung der Aufrechnungsmöglichkeit mit unbestrittenen oder rechtskräftig festgestellten Forderungen durch Allgemeine Geschäftsbedingungen in einem gewerblichen Mietvertrag.
@@ -24,8 +30,3 @@ Zur Einschränkung der Aufrechnungsmöglichkeit mit unbestrittenen oder rechtskr
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 29/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.04.2016 - XII ZR 29/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

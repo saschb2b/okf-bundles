@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:110220UXIIIZR27.19.0"
 doknr: "KORE300772020"
 normen: ["§ 11 Abs 1 EEG 2012, § 12 Abs 1 EEG 2012, § 14 Abs 1 EEG 2014, § 15 Abs 1 EEG 2014"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.02.2020 - XIII ZR 27/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Einspeisemanagement
@@ -28,8 +34,3 @@ Einspeisemanagement
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZR 27/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.02.2020 - XIII ZR 27/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:270617BIIZR5.16.0"
 doknr: "KORE302352017"
 normen: ["§ 18 GenG, § 25 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.06.2017 - II ZR 5/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die der Genossenschaft obliegende Ermittlung der Grundlagen für eine Verbandsstrafe, die in ihren Grundzügen und auch hinsichtlich der Höchstgrenze in der Satzung selbst geregelt ist, kann auf ein Regelwerk unterhalb der Satzung gestützt werden (hier Bestimmung in der Milchlieferordnung zur Schätzung der satzungswidrig nicht an die Genossenschaft abgelieferten Milch).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZR 5/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.06.2017 - II ZR 5/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

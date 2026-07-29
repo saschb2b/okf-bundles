@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:231122UXIIZR96.21.0"
 doknr: "KORE313202022"
 normen: ["§ 275 Abs 1 BGB, § 313 Abs 1 BGB, § 326 Abs 1 BGB, § 326 Abs 4 BGB, § 536 Abs 1 S 1 BGB, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.11.2022 - XII ZR 96/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die durch die COVID-19-Pandemie bedingten Betriebsbeschränkungen eines Friseur- und Kosmetikbetriebsgeschäfts führen nicht zu einem Mangel der Mietsache im Sinne von § 536 Abs. 1 Satz 1 BGB. Dem Vermieter wird dadurch die vertraglich geschuldete Leistung zur Überlassung und Erhaltung der Mietsache in einem zum vertragsgemäßen Gebrauch geeigneten Zustand auch nicht ganz oder teilweise unmöglich (im Anschluss an Senatsurteil vom 12. Januar 2022 - XII ZR 8/21, BGHZ 232, 178 = NJW 2022, 1370).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 96/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.11.2022 - XII ZR 96/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

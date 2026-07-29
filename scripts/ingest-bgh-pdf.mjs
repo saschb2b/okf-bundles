@@ -148,13 +148,17 @@ function concept({ az, isoDate, ddmmyyyy, sen, pdfUrl, parsed }) {
     `resource: ${pdfUrl}`, "gericht: Bundesgerichtshof", `senat: ${yaml(sen.label)}`,
     `datum: ${isoDate}`, `aktenzeichen: ${yaml(az)}`, `normen: ${yaml(parsed.normen)}`,
     "tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]",
-    `timestamp: ${new Date().toISOString().replace(/\.\d+Z$/, "Z")}`, "---", "",
+    // OKF v0.2 provenance: this file is machine-produced, so the actor is the
+    // process, never a human, and the source moves into frontmatter.
+    "generated:", `  by: process:ingest-bgh-pdf`,
+    `  at: ${new Date().toISOString().replace(/\.\d+Z$/, "Z")}`,
+    "sources:", `  - resource: ${pdfUrl}`,
+    `    title: ${yaml(`${title} (bundesgerichtshof.de, PDF)`)}`, "---", "", "",
   ].join("\n");
   const body = [];
   if (parsed.leitsatz) body.push("# Leitsatz", "", parsed.leitsatz, "");
   body.push("# Volltext", "",
-    `Volltext (PDF) beim Bundesgerichtshof: ${az} vom ${ddmmyyyy}.`, "",
-    "# Citations", "", `[1] [${title} (bundesgerichtshof.de, PDF)](${pdfUrl})`, "");
+    `Volltext (PDF) beim Bundesgerichtshof: ${az} vom ${ddmmyyyy}.`, "");
   return fm + body.join("\n") + "\n";
 }
 

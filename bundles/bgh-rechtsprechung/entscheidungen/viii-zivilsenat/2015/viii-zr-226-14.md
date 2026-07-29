@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 226/14"
 doknr: "KORE303962015"
 normen: ["§ 531 Abs 2 S 1 Nr 1 ZPO, § 531 Abs 2 S 1 Nr 3 ZPO, § 323 Abs 2 Nr 1 BGB, § 437 Nr 2 BGB, § 437 Nr 3 BGB, § 439 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.07.2015 - VIII ZR 226/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Der Anwendung des § 531 Abs. 2 Satz 1 Nr. 1 ZPO steht nicht entgegen, dass die erstmals im Berufungsverfahren erfolgte Geltendmachung eines Angriffs- oder Verteidigungsmittels in der ersten Instanz aus Gründen unterblieben ist, die eine Nachlässigkeit im Sinne von § 531 Abs. 2 Satz 1 Nr. 3 ZPO darstellen (im Anschluss an Senat, Urteil vom 21. Dezember 2011, VIII ZR 166/11, NJW-RR 2012, 341 Rn. 17 f.).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 226/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.07.2015 - VIII ZR 226/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

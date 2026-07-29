@@ -4,7 +4,16 @@ title: Linting for the Compiler
 description: How eslint-plugin-react-hooks keeps code compiler-clean, which rules matter most for the compiler, and how silent skips make lint cleanup iterative.
 resource: https://react.dev/reference/eslint-plugin-react-hooks
 tags: [react, react-compiler, eslint, linting, rules-of-react]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks
+    title: "eslint-plugin-react-hooks"
+  - resource: https://react.dev/blog/2025/10/07/react-compiler-1
+    title: "React Compiler v1.0"
+  - resource: https://blog.logrocket.com/react-compiler-rc/
+    title: "React Compiler RC"
 ---
 
 # Why linting is the compiler's front line
@@ -48,9 +57,3 @@ Because a bailed component can hide downstream findings, fixing one violation of
 - [Production experience](production-experience.md): the silent opt-outs these rules prevent.
 - [Debugging](debugging.md): what to do when a runtime issue slips past the linter.
 - [config lint](/reference/eslint-plugin-react-hooks/lints/config.md): validating the plugin and compiler configuration.
-
-# Citations
-
-[1] [eslint-plugin-react-hooks](https://react.dev/reference/eslint-plugin-react-hooks)
-[2] [React Compiler v1.0](https://react.dev/blog/2025/10/07/react-compiler-1)
-[3] [React Compiler RC](https://blog.logrocket.com/react-compiler-rc/)

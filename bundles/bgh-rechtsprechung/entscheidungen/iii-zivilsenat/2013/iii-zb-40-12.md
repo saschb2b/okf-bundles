@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 40/12"
 doknr: "KORE305442013"
 normen: ["§ 1061 Abs 1 ZPO, § 20 Abs 2 GVG, Art 25 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.01.2013 - III ZB 40/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Verfahren auf Vollstreckbarerklärung eines ausländischen Schiedsspruchs (§ 1061 ZPO) ist kein Verfahren der Zwangsvollstreckung, sondern ein Erkenntnisverfahren eigener Art, auf das die Grundsätze über die Immunität ausländischer Staaten im Erkenntnisverfahren anzuwenden sind.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:29:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 40/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.01.2013 - III ZB 40/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

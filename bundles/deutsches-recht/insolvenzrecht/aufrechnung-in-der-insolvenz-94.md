@@ -5,7 +5,16 @@ description: Eine bei Eröffnung schon bestehende Aufrechnungslage bleibt erhalt
 resource: https://www.gesetze-im-internet.de/inso/__94.html
 tags: [insolvenzrecht, aufrechnung, aufrechnungslage, aufrechnungsverbot, sicherungswirkung]
 norm: "§§ 94, 95, 96 InsO; §§ 387 ff. BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__94.html
+    title: "§ 94 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__95.html
+    title: "§ 95 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__96.html
+    title: "§ 96 InsO"
 ---
 
 # Bestehende Aufrechnungslage bleibt (§ 94)
@@ -30,9 +39,3 @@ Diese Verbote verhindern, dass sich ein Gläubiger nach Eintritt der Krise nacht
 # Bezug
 
 Die Aufrechnung folgt den allgemeinen Voraussetzungen der [§§ 387 ff. BGB](/schuldrecht-at/aufrechnung-387.md); die InsO modifiziert nur, ob sie im Verfahren wirkt. Sie steht neben der [Insolvenzanfechtung](/insolvenzrecht/insolvenzanfechtung-129.md) (§ 96 Abs. 1 Nr. 3 verzahnt beide) und beeinflusst die Höhe der zur [Tabelle](/insolvenzrecht/forderungsanmeldung-174.md) anzumeldenden Restforderung.
-
-# Citations
-
-[1] [§ 94 InsO](https://www.gesetze-im-internet.de/inso/__94.html)
-[2] [§ 95 InsO](https://www.gesetze-im-internet.de/inso/__95.html)
-[3] [§ 96 InsO](https://www.gesetze-im-internet.de/inso/__96.html)

@@ -5,7 +5,14 @@ description: Zwei Kataloge typischer AGB-Klauseln; § 309 erklärt sie ohne jede
 resource: https://www.gesetze-im-internet.de/bgb/__309.html
 tags: [agb-recht, bgb, klauselverbote, inhaltskontrolle]
 norm: "§§ 308, 309 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__308.html
+    title: "§ 308 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__309.html
+    title: "§ 309 BGB"
 ---
 
 # Regel
@@ -36,8 +43,3 @@ Für die vollständigen Kataloge ist der Normtext maßgeblich.
 # Unternehmerischer Verkehr
 
 Gegenüber Unternehmern gelten §§ 308 und 309 **nicht unmittelbar** ([§ 310 Abs. 1](/agb-kontrolle/anwendungsbereich-310.md)). Sie entfalten dort aber **Indizwirkung**: Was im Verbraucherverkehr verboten ist, ist im B2B regelmäßig ein gewichtiges Anzeichen für eine unangemessene Benachteiligung im Rahmen des § 307, soweit nicht Handelsbräuche etwas anderes gebieten.
-
-# Citations
-
-[1] [§ 308 BGB](https://www.gesetze-im-internet.de/bgb/__308.html)
-[2] [§ 309 BGB](https://www.gesetze-im-internet.de/bgb/__309.html)

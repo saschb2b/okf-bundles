@@ -9,13 +9,14 @@ datum: 2008-12-16
 aktenzeichen: "VIII ZR 198/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:38:15Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:38:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR_198-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 16.12.2008 - VIII ZR 198/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 198/07 vom 16.12.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.12.2008 - VIII ZR 198/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR_198-07.pdf?__blob=publicationFile&v=1)
-

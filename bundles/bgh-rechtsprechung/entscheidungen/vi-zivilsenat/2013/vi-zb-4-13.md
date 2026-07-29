@@ -10,8 +10,14 @@ aktenzeichen: "VI ZB 4/13"
 doknr: "KORE312072013"
 normen: ["§ 233 ZPO, § 574 ZPO, § 577 Abs 5 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.11.2013 - VI ZB 4/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Verschuldensmaßstab im Rahmen des § 233 ZPO ist nicht die äußerste oder größtmögliche Sorgfalt, sondern die von einem ordentlichen Rechtsanwalt zu fordernde übliche Sorgfalt.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:31:12Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZB 4/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.11.2013 - VI ZB 4/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

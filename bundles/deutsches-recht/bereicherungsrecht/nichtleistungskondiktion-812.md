@@ -5,7 +5,12 @@ description: Wer ohne Leistung in sonstiger Weise auf Kosten eines anderen ohne 
 resource: https://www.gesetze-im-internet.de/bgb/__812.html
 tags: [bereicherungsrecht, eingriffskondiktion, subsidiaritaet]
 norm: "§ 812 Abs. 1 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__812.html
+    title: "§ 812 BGB"
 ---
 
 # Regel
@@ -25,7 +30,3 @@ Die Nichtleistungskondiktion ist gegenüber der [Leistungskondiktion](/bereicher
 # Rechtsfolge
 
 Herausgabe nach [§ 818](/bereicherungsrecht/umfang-818.md).
-
-# Citations
-
-[1] [§ 812 BGB](https://www.gesetze-im-internet.de/bgb/__812.html)

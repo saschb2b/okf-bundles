@@ -5,7 +5,18 @@ description: Ein Vertrag kommt durch zwei übereinstimmende Willenserklärungen 
 resource: https://www.gesetze-im-internet.de/bgb/__145.html
 tags: [bgb-at, vertragsschluss, angebot, annahme, dissens]
 norm: "§§ 145 bis 157 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__145.html
+    title: "§ 145 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__147.html
+    title: "§ 147 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__150.html
+    title: "§ 150 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__154.html
+    title: "§ 154 BGB"
 ---
 
 # Regel
@@ -30,10 +41,3 @@ Solange sich die Parteien nicht über alle Punkte geeinigt haben, über die nach
 # Bezug
 
 Beide Erklärungen sind [Willenserklärungen](/bgb-at/willenserklaerung.md) und werden nach dem objektiven Empfängerhorizont ausgelegt. Wirksam erklären kann nur, wer [geschäftsfähig](/bgb-at/geschaeftsfaehigkeit.md) ist.
-
-# Citations
-
-[1] [§ 145 BGB](https://www.gesetze-im-internet.de/bgb/__145.html)
-[2] [§ 147 BGB](https://www.gesetze-im-internet.de/bgb/__147.html)
-[3] [§ 150 BGB](https://www.gesetze-im-internet.de/bgb/__150.html)
-[4] [§ 154 BGB](https://www.gesetze-im-internet.de/bgb/__154.html)

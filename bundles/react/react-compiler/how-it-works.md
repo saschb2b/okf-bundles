@@ -4,7 +4,22 @@ title: How the Compiler Works
 description: The React Compiler's build-time pipeline, from lowering source into an HIR control-flow graph through SSA, type and mutability inference, reactive scope inference, and code generation.
 resource: https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md
 tags: [react, react-compiler, internals, hir, ssa, compiler-pipeline]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md
+    title: "React Compiler design goals"
+  - resource: https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Pipeline.ts
+    title: "React Compiler pipeline (Pipeline.ts)"
+  - resource: https://github.com/facebook/react/pull/29061
+    title: "Open-source React Compiler (PR #29061)"
+  - resource: https://yongseok.me/blog/en/react_compiler_3/
+    title: "React Compiler, How Does It Work? [3] - HIR Transformation (Lowering)"
+  - resource: https://shapkarin.me/articles/drop-react-manual-memoization/
+    title: "The Mutability and Aliasing Model in React"
+  - resource: https://react.dev/learn/react-compiler/introduction
+    title: "Introduction"
 ---
 
 # What it is
@@ -96,12 +111,3 @@ And the surrounding concepts:
 - [Introduction](introduction.md): the user-facing promise this machinery delivers.
 - [Debugging](debugging.md): why runtime issues trace back to Rules of React violations the analysis could not see.
 - [Rules of React](/reference/rules/components-and-hooks-must-be-pure.md): the contract the whole pipeline assumes.
-
-# Citations
-
-[1] [React Compiler design goals](https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md)
-[2] [React Compiler pipeline (Pipeline.ts)](https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Pipeline.ts)
-[3] [Open-source React Compiler (PR #29061)](https://github.com/facebook/react/pull/29061)
-[4] [React Compiler, How Does It Work? [3] - HIR Transformation (Lowering)](https://yongseok.me/blog/en/react_compiler_3/)
-[5] [The Mutability and Aliasing Model in React](https://shapkarin.me/articles/drop-react-manual-memoization/)
-[6] [Introduction](https://react.dev/learn/react-compiler/introduction)

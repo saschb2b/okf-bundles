@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 3/12"
 doknr: "JURE130005269"
 normen: ["§ 15 Abs 2 AIHonO, § 280 BGB, § 631 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.02.2013 - VII ZR 3/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 15 Abs 2 AIHonO, § 280 BGB, § 631 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 3/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.02.2013 - VII ZR 3/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

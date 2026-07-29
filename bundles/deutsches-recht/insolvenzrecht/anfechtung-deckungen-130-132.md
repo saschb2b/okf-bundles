@@ -5,7 +5,18 @@ description: Sicherungen und Befriedigungen in der Drei-Monats-Krise sind anfech
 resource: https://www.gesetze-im-internet.de/inso/__131.html
 tags: [insolvenzrecht, anfechtung, deckungsanfechtung, kongruent, inkongruent, zahlungsunfaehigkeit]
 norm: "§§ 130, 131, 132 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__130.html
+    title: "§ 130 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__131.html
+    title: "§ 131 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__132.html
+    title: "§ 132 InsO"
+  - resource: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.01.2011&Aktenzeichen=IX+ZR+8/10
+    title: "BGH, Urteil vom 20.01.2011 - IX ZR 8/10 (dejure.org)"
 ---
 
 # Kongruente Deckung (§ 130)
@@ -39,10 +50,3 @@ Ein **Rechtsgeschäft des Schuldners, das die Insolvenzgläubiger unmittelbar be
 # Bezug
 
 Die Deckungsanfechtung ist eine **besondere Insolvenzanfechtung** und setzt den [Grundtatbestand des § 129](/insolvenzrecht/insolvenzanfechtung-129.md) (objektive Gläubigerbenachteiligung) voraus. Reicht ihr enger Zeitrahmen nicht, greift die [Vorsatzanfechtung](/insolvenzrecht/vorsatzanfechtung-133.md) mit ihrer langen Frist. Rechtsfolge ist stets die [Rückgewähr](/insolvenzrecht/anfechtung-rechtsfolgen-143-146.md) zur Masse.
-
-# Citations
-
-[1] [§ 130 InsO](https://www.gesetze-im-internet.de/inso/__130.html)
-[2] [§ 131 InsO](https://www.gesetze-im-internet.de/inso/__131.html)
-[3] [§ 132 InsO](https://www.gesetze-im-internet.de/inso/__132.html)
-[4] [BGH, Urteil vom 20.01.2011 - IX ZR 8/10 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=20.01.2011&Aktenzeichen=IX+ZR+8/10)

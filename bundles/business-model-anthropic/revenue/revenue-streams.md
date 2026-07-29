@@ -4,7 +4,22 @@ title: Anthropic revenue streams
 description: The five channels through which Anthropic earns, and their relative weight.
 resource: https://www.anthropic.com/pricing
 tags: [anthropic, revenue, api, subscriptions, claude-code]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://valueaddvc.com/blog/how-anthropic-makes-money-claude-api-enterprise-and-the-business-model-breakdown
+    title: "How Anthropic makes money (Value Add VC, 2026)"
+  - resource: https://sacra.com/c/anthropic/
+    title: "Anthropic company profile (Sacra, 2026)"
+  - resource: https://www.anthropic.com/news/claude-code-on-team-and-enterprise
+    title: "Claude Code on Team and Enterprise (Anthropic, 2026)"
+  - resource: https://platform.claude.com/docs/en/about-claude/pricing
+    title: "Claude pricing docs (Anthropic, 2026)"
+  - resource: https://www.saastr.com/anthropic-just-hit-14-billion-in-arr-up-from-1-billion-just-14-months-ago/
+    title: "Anthropic hits $14B ARR (SaaStr, 2026)"
+  - resource: https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth
+    title: "Anthropic hit a $30B revenue run-rate (VentureBeat, 2026)"
 ---
 
 # The five streams
@@ -33,12 +48,3 @@ Generally available since May 2025, Claude Code reached ~$1B annualized by Novem
 - ~$30B run-rate reported by Anthropic in April 2026; third-party trackers estimate higher (into the $40Bs) but those are not Anthropic disclosures. [6][2]
 
 Treat anything above ~$30B as estimated. The scale of these figures is what the [funding and valuation](/strategy/governance.md) trajectory is priced against.
-
-# Citations
-
-[1] [How Anthropic makes money (Value Add VC, 2026)](https://valueaddvc.com/blog/how-anthropic-makes-money-claude-api-enterprise-and-the-business-model-breakdown)
-[2] [Anthropic company profile (Sacra, 2026)](https://sacra.com/c/anthropic/)
-[3] [Claude Code on Team and Enterprise (Anthropic, 2026)](https://www.anthropic.com/news/claude-code-on-team-and-enterprise)
-[4] [Claude pricing docs (Anthropic, 2026)](https://platform.claude.com/docs/en/about-claude/pricing)
-[5] [Anthropic hits $14B ARR (SaaStr, 2026)](https://www.saastr.com/anthropic-just-hit-14-billion-in-arr-up-from-1-billion-just-14-months-ago/)
-[6] [Anthropic hit a $30B revenue run-rate (VentureBeat, 2026)](https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth)

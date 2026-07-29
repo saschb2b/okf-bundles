@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:141216UVIIIZR232.15.0"
 doknr: "KORE300082017"
 normen: ["§ 241 Abs 2 BGB, § 242 BGB, § 280 Abs 1 BGB, § 573 Abs 2 Nr 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.12.2016 - VIII ZR 232/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine teilrechtsfähige (Außen-)Gesellschaft des bürgerlichen Rechts kann sich in entsprechender Anwendung des § 573 Abs. 2 Nr. 2 BGB auf den Eigenbedarf eines ihrer Gesellschafter oder dessen Angehörigen berufen (Fortführung von Senat, Urteile vom 27. Juni 2007, VIII ZR 271/06, NJW 2007, 2845 Rn. 15; vom 16. Juli 2009, VIII ZR 231/08, NJW 2009, 2738 Rn. 13 f. und vom 23. November 2011, VIII ZR 74/11, NJW-RR 2012, 237 Rn. 23).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 232/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.12.2016 - VIII ZR 232/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

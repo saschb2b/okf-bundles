@@ -4,7 +4,12 @@ title: <textarea>
 description: The built-in browser textarea component for multiline text input, covering controlled vs uncontrolled usage and why children are not used.
 resource: https://react.dev/reference/react-dom/components/textarea
 tags: [react, react-dom, forms, controlled-components, textarea]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/textarea
+    title: "<textarea>"
 ---
 
 # Reference
@@ -56,7 +61,3 @@ timestamp: 2026-06-30T12:00:00Z
 - Does not update when typing: you passed `value` without `onChange`. Add `onChange`, switch to `defaultValue`, or set `readOnly`.
 - Caret jumps to the start: update state synchronously to exactly `e.target.value`, never transformed or async.
 - "Changing an uncontrolled input to be controlled": keep `value` a string the whole lifetime; use `value={someValue ?? ''}`.
-
-# Citations
-
-[1] [<textarea>](https://react.dev/reference/react-dom/components/textarea)

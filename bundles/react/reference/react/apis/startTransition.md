@@ -4,7 +4,12 @@ title: startTransition
 description: Marks a state update as a Transition so part of the UI renders in the background without blocking.
 resource: https://react.dev/reference/react/startTransition
 tags: [react, transitions, concurrent, performance]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/startTransition
+    title: "startTransition"
 ---
 
 # Reference
@@ -54,6 +59,3 @@ startTransition(() => {
 - A Transition update is interrupted by other state updates; React restarts the transition work after handling the interrupting update.
 - Transition updates cannot be used to control text inputs.
 - Multiple ongoing Transitions are currently batched together, a limitation that may be removed.
-
-# Citations
-[1] [startTransition](https://react.dev/reference/react/startTransition)

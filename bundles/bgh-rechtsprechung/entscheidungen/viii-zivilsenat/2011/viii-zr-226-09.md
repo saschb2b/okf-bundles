@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 226/09"
 doknr: "KORE303462011"
 normen: ["§ 573 Abs 2 Nr 3 BGB, Art 14 Abs 1 S 1 GG, Art 14 Abs 2 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:09Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.06.2011 - VIII ZR 226/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zu den Voraussetzungen einer Verwertungskündigung zum Zweck der Veräußerung einer im vermieteten Zustand unrentablen und nicht oder nur unter erheblichem Preisabschlag verkäuflichen Immobilie .
@@ -23,8 +29,3 @@ Zu den Voraussetzungen einer Verwertungskündigung zum Zweck der Veräußerung e
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 226/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.06.2011 - VIII ZR 226/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

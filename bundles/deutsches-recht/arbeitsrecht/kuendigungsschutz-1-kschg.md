@@ -5,7 +5,14 @@ description: Nach sechs Monaten Betriebszugehörigkeit ist eine Kündigung unwir
 resource: https://www.gesetze-im-internet.de/kschg/__1.html
 tags: [arbeitsrecht, kuendigungsschutz, soziale-rechtfertigung, sozialauswahl]
 norm: "§ 1 KSchG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/kschg/__1.html
+    title: "§ 1 KSchG"
+  - resource: https://www.gesetze-im-internet.de/kschg/__23.html
+    title: "§ 23 KSchG"
 ---
 
 # Anwendbarkeit
@@ -27,8 +34,3 @@ Bei der betriebsbedingten Kündigung muss der Arbeitgeber unter den vergleichbar
 # Bezug
 
 Die Unwirksamkeit muss fristgerecht mit der [Kündigungsschutzklage](/arbeitsrecht/kuendigungsschutzklage-4-kschg.md) geltend gemacht werden. Die einzuhaltende Frist regelt [§ 622](/arbeitsrecht/ordentliche-kuendigung-622.md).
-
-# Citations
-
-[1] [§ 1 KSchG](https://www.gesetze-im-internet.de/kschg/__1.html)
-[2] [§ 23 KSchG](https://www.gesetze-im-internet.de/kschg/__23.html)

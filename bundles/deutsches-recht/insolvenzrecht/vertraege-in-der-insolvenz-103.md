@@ -5,7 +5,18 @@ description: Bei beiderseits noch nicht vollständig erfüllten gegenseitigen Ve
 resource: https://www.gesetze-im-internet.de/inso/__103.html
 tags: [insolvenzrecht, wahlrecht, gegenseitige-vertraege, dauerschuldverhaeltnis, kuendigung, loesungsklausel]
 norm: "§§ 103, 105, 108, 109, 113, 119 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__103.html
+    title: "§ 103 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__108.html
+    title: "§ 108 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__113.html
+    title: "§ 113 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__119.html
+    title: "§ 119 InsO"
 ---
 
 # Wahlrecht (§ 103)
@@ -29,10 +40,3 @@ Vereinbarungen, die das Wahlrecht des Verwalters **im Voraus ausschließen oder 
 # Bezug
 
 Das Wahlrecht setzt die [Eröffnung](/insolvenzrecht/eroeffnungsgruende-17-19.md) und den Übergang der Verfügungsbefugnis auf den [Verwalter](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) voraus. Abgelehnte Erfüllungsansprüche teilen das Schicksal der übrigen [Tabellenforderungen](/insolvenzrecht/forderungsanmeldung-174.md).
-
-# Citations
-
-[1] [§ 103 InsO](https://www.gesetze-im-internet.de/inso/__103.html)
-[2] [§ 108 InsO](https://www.gesetze-im-internet.de/inso/__108.html)
-[3] [§ 113 InsO](https://www.gesetze-im-internet.de/inso/__113.html)
-[4] [§ 119 InsO](https://www.gesetze-im-internet.de/inso/__119.html)

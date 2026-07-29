@@ -4,7 +4,12 @@ title: renderToStaticMarkup
 description: Renders a non-interactive React tree to an HTML string that cannot be hydrated.
 resource: https://react.dev/reference/react-dom/server/renderToStaticMarkup
 tags: [react, react-dom, server, ssr, static-html]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/server/renderToStaticMarkup
+    title: "renderToStaticMarkup"
 ---
 
 # Reference
@@ -45,7 +50,3 @@ app.use('/', (request, response) => {
 - The output cannot be hydrated. For interactive apps, use [renderToString](/reference/react-dom/server/renderToString.md) on the server and [hydrateRoot](/reference/react-dom/client/hydrateRoot.md) on the client.
 - Limited Suspense support. If a component suspends, `renderToStaticMarkup` immediately sends its fallback as HTML.
 - It works in the browser, but to render a component to HTML on the client, render it into a DOM node instead.
-
-# Citations
-
-[1] [renderToStaticMarkup](https://react.dev/reference/react-dom/server/renderToStaticMarkup)

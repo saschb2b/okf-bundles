@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 23/15"
 doknr: "JURE150016467"
 normen: ["Art 103 Abs 1 GG, § 543 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:03Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.09.2015 - XII ZR 23/15 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 103 Abs 1 GG, § 543 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:14:03Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 23/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.09.2015 - XII ZR 23/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:101122UIIIZR13.22.0"
 doknr: "KORE317692022"
 normen: ["§ 526 Abs 2 S 1 Nr 1 ZPO, § 526 Abs 2 S 2 ZPO, § 526 Abs 3 ZPO, § 547 Nr 1 ZPO, Art 101 Abs 1 S 2 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.11.2022 - III ZR 13/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Hat das Berufungsgericht die Sache einem Einzelrichter zur Entscheidung übertragen und ergibt sich danach aus einer wesentlichen Änderung der Prozesslage die grundsätzliche Bedeutung der Rechtssache, muss der Einzelrichter gemäß § 526 Abs. 2 Satz 1 Nr. 1 ZPO die Sache dem vollbesetzten Spruchkörper zur Übernahme vorlegen und dieser sie nach § 526 Abs. 2 Satz 2 ZPO übernehmen.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:32:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 13/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.11.2022 - III ZR 13/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

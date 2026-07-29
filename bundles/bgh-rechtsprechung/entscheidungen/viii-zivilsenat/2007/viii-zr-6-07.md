@@ -9,13 +9,14 @@ datum: 2007-09-19
 aktenzeichen: "VIII ZR 6/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:17:51Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:17:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR___6-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 19.09.2007 - VIII ZR 6/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 6/07 vom 19.09.2007.
-
-# Citations
-
-[1] [BGH, Urteil vom 19.09.2007 - VIII ZR 6/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR___6-07.pdf?__blob=publicationFile&v=1)
-

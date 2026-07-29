@@ -5,7 +5,18 @@ description: Gegenüber nahestehenden Personen kehrt sich die Beweislast zur Ken
 resource: https://www.gesetze-im-internet.de/inso/__138.html
 tags: [insolvenzrecht, anfechtung, nahestehende-personen, beweislastumkehr, bargeschaeft, zeitpunkt]
 norm: "§§ 138, 140, 142 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__138.html
+    title: "§ 138 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__142.html
+    title: "§ 142 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__140.html
+    title: "§ 140 InsO"
+  - resource: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=10.07.2014&Aktenzeichen=IX+ZR+192/13
+    title: "BGH, Urteil vom 10.07.2014 - IX ZR 192/13 (dejure.org)"
 ---
 
 # Nahestehende Personen (§ 138)
@@ -32,10 +43,3 @@ Die **Unmittelbarkeit** verlangt einen engen zeitlichen Zusammenhang nach Art de
 # Bezug
 
 Diese Normen wirken quer zu allen [Anfechtungstatbeständen](/insolvenzrecht/insolvenzanfechtung-129.md): § 138 verteilt die Beweislast (besonders bei der [Deckungsanfechtung](/insolvenzrecht/anfechtung-deckungen-130-132.md)), § 142 begrenzt vor allem die [Vorsatzanfechtung](/insolvenzrecht/vorsatzanfechtung-133.md), und § 140 bestimmt den Fristbeginn für alle.
-
-# Citations
-
-[1] [§ 138 InsO](https://www.gesetze-im-internet.de/inso/__138.html)
-[2] [§ 142 InsO](https://www.gesetze-im-internet.de/inso/__142.html)
-[3] [§ 140 InsO](https://www.gesetze-im-internet.de/inso/__140.html)
-[4] [BGH, Urteil vom 10.07.2014 - IX ZR 192/13 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=10.07.2014&Aktenzeichen=IX+ZR+192/13)

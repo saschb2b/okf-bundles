@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:201218BIIIZR17.18.0"
 doknr: "KORE303672019"
 normen: ["§ 204 Abs 1 Nr 1 BGB, § 204 Abs 2 S 1 BGB, § 522 Abs 2 ZPO, § 524 Abs 4 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:18Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:18Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.12.2018 - III ZR 17/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird der Anspruch (erstmals) klageerweiternd im Wege der Anschlussberufung geltend gemacht, so führt dies zur Verjährungshemmung nach § 204 Abs. 1 Nr. 1 BGB.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:18Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 17/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.12.2018 - III ZR 17/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

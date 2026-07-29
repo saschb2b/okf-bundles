@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:230221BXIIIZB50.20.0"
 doknr: "KORE301342021"
 normen: ["§ 62b Abs 1 S 1 Nr 3 S 2 Buchst d AufenthG, § 62b Abs 2  AufenthG, § 62b Abs 3 S 1  AufenthG, § 417 FamFG, §§ 417ff FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.02.2021 - XIII ZB 50/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Ausübung des Ermessens bei der Anordnung des Ausreisegewahrsams nach § 62b AufenthG erfordert eine Berücksichtigung der relevanten persönlichen Umstände des Betroffenen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 50/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.02.2021 - XIII ZB 50/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

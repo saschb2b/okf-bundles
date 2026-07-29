@@ -10,8 +10,14 @@ aktenzeichen: "GSSt 1/09"
 doknr: "KORE317982010"
 normen: ["§ 247 S 4 StPO, § 338 Nr 5 StPO, § 132 Abs 2 GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.04.2010 - GSSt 1/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Verhandlung über die Entlassung eines Zeugen ist kein Teil der Vernehmung im Sinne von § 247 StPO .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen GSSt 1/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.04.2010 - GSSt 1/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

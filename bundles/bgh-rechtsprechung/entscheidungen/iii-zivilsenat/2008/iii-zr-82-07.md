@@ -9,13 +9,14 @@ datum: 2008-06-12
 aktenzeichen: "III ZR 82/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:36:33Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:36:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__82-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 12.06.2008 - III ZR 82/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 82/07 vom 12.06.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.06.2008 - III ZR 82/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZR__82-07.pdf?__blob=publicationFile&v=1)
-

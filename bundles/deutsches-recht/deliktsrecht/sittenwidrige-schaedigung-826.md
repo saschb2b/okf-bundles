@@ -5,7 +5,12 @@ description: Wer einem anderen in einer gegen die guten Sitten verstoßenden Wei
 resource: https://www.gesetze-im-internet.de/bgb/__826.html
 tags: [deliktsrecht, sittenwidrigkeit, vorsatz, vermoegensschaden]
 norm: "§ 826 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__826.html
+    title: "§ 826 BGB"
 ---
 
 # Regel
@@ -25,7 +30,3 @@ Typische Felder sind die vorsätzliche Erteilung falscher Auskünfte und Gutacht
 # Abgrenzung
 
 § 826 ist neben [§ 823 Abs. 1](/deliktsrecht/grundtatbestand-823-1.md) und [§ 823 Abs. 2](/deliktsrecht/schutzgesetzverletzung-823-2.md) der dritte Grundtatbestand und verlangt mit Sittenwidrigkeit und Vorsatz die strengsten Voraussetzungen.
-
-# Citations
-
-[1] [§ 826 BGB](https://www.gesetze-im-internet.de/bgb/__826.html)

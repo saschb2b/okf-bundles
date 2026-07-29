@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:140125BENVZ9.23.0"
 doknr: "KORE703832025"
 normen: ["§ 78 Abs 4 S 1 Nr 1 EnWG, § 86 Abs 2 Nr 1 EnWG, § 94 VwGO, § 148 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.01.2025 - EnVZ 9/23 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 78 Abs 4 S 1 Nr 1 EnWG, § 86 Abs 2 Nr 1 EnWG, § 94 VwGO, § 148 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:39:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVZ 9/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.01.2025 - EnVZ 9/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

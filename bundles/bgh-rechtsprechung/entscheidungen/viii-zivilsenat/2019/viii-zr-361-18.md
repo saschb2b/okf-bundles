@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:111219UVIIIZR361.18.0"
 doknr: "KORE300232020"
 normen: ["§ 19 Abs 2 S 2 Nr 2 StVZO, § 19 Abs 5 StVZO, § 323 Abs 5 S 2 BGB, § 326 Abs 5 BGB, § 434 Abs 1 BGB, § 437 Nr 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.12.2019 - VIII ZR 361/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Betriebserlaubnis für ein Fahrzeug erlischt im Falle nachträglicher Veränderungen (hier: Montage nicht zugelassener Felgen) nur dann, wenn diese mit einem gewissen Grad an Wahrscheinlichkeit eine Gefährdung für andere Verkehrsteilnehmer verursachen. Dabei haben Behörden und Gerichte für jeden konkreten Einzelfall zu ermitteln, ob die betreffende Veränderung eine Gefährdung von Verkehrsteilnehmern nicht nur für möglich erscheinen, sondern erwarten lässt.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 361/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.12.2019 - VIII ZR 361/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

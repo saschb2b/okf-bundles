@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 63/09"
 doknr: "KORE312962011"
 normen: ["§ 1572 BGB, § 1578b BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.03.2011 - XII ZR 63/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Herabsetzung und Befristung nachehelichen Krankheitsunterhalts     .
@@ -23,8 +29,3 @@ Zur Herabsetzung und Befristung nachehelichen Krankheitsunterhalts     .
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 63/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.03.2011 - XII ZR 63/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

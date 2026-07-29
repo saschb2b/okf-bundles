@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:041120BVIIZB69.18.0"
 doknr: "KORE308702020"
 normen: ["§ 724 ZPO, § 725 ZPO, § 132 ZVG, § 432 BGB, § 2039 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 04.11.2020 - VII ZB 69/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Miterbe, der allein oder zusammen mit weiteren Miterben Titelgläubiger (hier: in einem Zuschlagsbeschluss) eines zum Nachlass gehörenden Anspruchs ist, kann die Erteilung einer vollstreckbaren Ausfertigung des Titels verlangen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:12Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 69/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.11.2020 - VII ZB 69/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

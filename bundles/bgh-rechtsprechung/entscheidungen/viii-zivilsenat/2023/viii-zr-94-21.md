@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:050723UVIIIZR94.21.0"
 doknr: "KORE304932023"
 normen: ["§ 556d Abs 1 BGB, § 556d Abs 2 BGB, §§ 556dff BGB, § 556e Abs 1 BGB, § 557b Abs 4 BGB, § 556g Abs 1 S 3  BGB, § 812 Abs 1 S 1 Alt 1  BGB, MietBegrV BE, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 05.07.2023 - VIII ZR 94/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur rechtzeitigen Bekanntmachung der Begründung zur Berliner Mietenbegrenzungsverordnung vom 28. April 2015 (im Anschluss an Senatsurteil vom 27. Mai 2020 - VIII ZR 45/19, BGHZ 225, 352 Rn. 86 ff.).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:29:02Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 94/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 05.07.2023 - VIII ZR 94/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

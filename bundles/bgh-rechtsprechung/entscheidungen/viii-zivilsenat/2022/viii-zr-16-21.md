@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:270922BVIIIZR16.21.0"
 doknr: "KORE638262022"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.09.2022 - VIII ZR 16/21 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 (keine ausgewiesen)
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 16/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.09.2022 - VIII ZR 16/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:250624BENVR3.22.0"
 doknr: "KORE705242024"
 normen: ["§ 5 Abs 1 ARegV, § 5 Abs 2 ARegV, § 5 Abs 3 S 1 ARegV, § 5 Abs 3 S 2 ARegV, § 18 StromNEV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:00Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.06.2024 - EnVR 3/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Netzreservekapazität III
@@ -30,8 +36,3 @@ Netzreservekapazität III
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 3/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.06.2024 - EnVR 3/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

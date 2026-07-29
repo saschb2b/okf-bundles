@@ -10,8 +10,14 @@ aktenzeichen: "IV ZR 2/11"
 doknr: "KORE606072012"
 normen: ["§ 12 Abs 3 aF VVG, § 32 VGB 2005, § 39 VGB 2005, Art 1 Abs 1 VVGEG, Art 1 Abs 2 VVGEG, Art 1 Abs 4 VVGEG, Art 3 Abs 4 VVGEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.02.2012 - IV ZR 2/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 12 Abs 3 aF VVG, § 32 VGB 2005, § 39 VGB 2005, Art 1 Abs 1 VVGEG, Art 1 Abs 2 VVGEG, Art 1 Abs 4 VVGEG, Art 3 Abs 4 VVGEG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:33:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV ZR 2/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.02.2012 - IV ZR 2/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

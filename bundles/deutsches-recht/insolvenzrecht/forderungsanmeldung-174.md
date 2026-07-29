@@ -5,7 +5,16 @@ description: Insolvenzgläubiger melden ihre Forderung schriftlich beim Verwalte
 resource: https://www.gesetze-im-internet.de/inso/__174.html
 tags: [insolvenzrecht, forderungsanmeldung, tabelle, quote, feststellung, vollstreckungsverbot]
 norm: "§§ 174 bis 178, 87, 89, 187 ff. InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__174.html
+    title: "§ 174 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__178.html
+    title: "§ 178 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__89.html
+    title: "§ 89 InsO"
 ---
 
 # Anmeldung (§ 174)
@@ -27,9 +36,3 @@ Insolvenzgläubiger machen ihre Forderung nicht durch Klage oder Vollstreckung g
 # Bezug
 
 Die Anmeldung setzt die [Eröffnung des Verfahrens](/insolvenzrecht/eroeffnungsgruende-17-19.md) und die Einordnung als [Insolvenzgläubiger](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) voraus. Im Forderungsmanagement ersetzt die Anmeldung zur Tabelle die einzelne [Zwangsvollstreckung](/zivilprozess/zwangsvollstreckung-704.md), sobald über den Schuldner das Insolvenzverfahren eröffnet ist; die offene Forderung wird mit Kosten und Zinsen bis zur Eröffnung angemeldet (Zinsen danach sind nachrangig, § 39).
-
-# Citations
-
-[1] [§ 174 InsO](https://www.gesetze-im-internet.de/inso/__174.html)
-[2] [§ 178 InsO](https://www.gesetze-im-internet.de/inso/__178.html)
-[3] [§ 89 InsO](https://www.gesetze-im-internet.de/inso/__89.html)

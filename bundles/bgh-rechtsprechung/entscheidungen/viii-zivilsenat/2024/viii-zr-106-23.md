@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:231024UVIIIZR106.23.0"
 doknr: "KORE708972024"
 normen: ["Art 20 Abs 3 GG, § 543 Abs 1 BGB, § 543 Abs 2 S 1 Nr 3 BGB, § 569 Abs 3 Nr 2 S 1 BGB, § 573 Abs 1 BGB, § 573 Abs 2 Nr 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.10.2024 - VIII ZR 106/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein innerhalb der Schonfrist des § 569 Abs. 3 Nr. 2 Satz 1 BGB erfolgter Ausgleich des Mietrückstands beziehungsweise eine entsprechende Verpflichtung einer öffentlichen Stelle hat lediglich Folgen für die auf § 543 Abs. 1, 2 Satz 1 Nr. 3 BGB gestützte fristlose, nicht jedoch für eine aufgrund desselben Mietrückstands hilfsweise auf § 573 Abs. 1, 2 Nr. 1 BGB gestützte ordentliche Kündigung (Bestätigung der Senatsurteile vom 13. Oktober 2021 - VIII ZR 91/20, NZM 2022, 49 Rn. 29 ff. und vom 5. Oktober 2022 - VIII ZR 307/21, NZM 2023, 28 Rn. 13 ff.; jeweils m.w.N.).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:40:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 106/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.10.2024 - VIII ZR 106/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

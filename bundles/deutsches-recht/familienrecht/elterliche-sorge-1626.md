@@ -5,7 +5,14 @@ description: Die Eltern haben die Pflicht und das Recht, für das minderjährige
 resource: https://www.gesetze-im-internet.de/bgb/__1626.html
 tags: [familienrecht, elterliche-sorge, personensorge, kindeswohl]
 norm: "§§ 1626, 1627, 1671 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1626.html
+    title: "§ 1626 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1671.html
+    title: "§ 1671 BGB"
 ---
 
 # Inhalt (§ 1626)
@@ -19,8 +26,3 @@ Leben Eltern, denen die Sorge gemeinsam zusteht, nicht nur vorübergehend getren
 # Bezug
 
 Der Umgang des Kindes mit beiden Elternteilen ist eigenständig geregelt (§ 1684). Bei Gefährdung des Kindeswohls greift das Familiengericht nach § 1666 ein.
-
-# Citations
-
-[1] [§ 1626 BGB](https://www.gesetze-im-internet.de/bgb/__1626.html)
-[2] [§ 1671 BGB](https://www.gesetze-im-internet.de/bgb/__1671.html)

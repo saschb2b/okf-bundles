@@ -9,13 +9,14 @@ datum: 2002-05-22
 aktenzeichen: "VIII ZB 25/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:05:17Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:05:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2002/VIII_ZB__25-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 22.05.2002 - VIII ZB 25/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 25/02 vom 22.05.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.05.2002 - VIII ZB 25/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2002/VIII_ZB__25-02.pdf?__blob=publicationFile&v=1)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:150616UVIIIZR134.15.0"
 doknr: "KORE304302016"
 normen: ["§ 323 BGB, § 346 Abs 1 BGB, § 348 BGB, § 434 Abs 1 BGB, § 437 Nr 2 BGB, § 459 Abs 1 aF BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.06.2016 - VIII ZR 134/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der durch das Schuldrechtsmodernisierungsgesetz an die Stelle des § 459 BGB aF getretene § 434 BGB geht von einem wesentlich weiteren Sachmangelbegriff aus, so dass auf diese Vorschrift die enge Beschaffenheitsdefinition des § 459 Abs. 1 BGB aF nicht mehr angewendet werden kann.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 134/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.06.2016 - VIII ZR 134/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

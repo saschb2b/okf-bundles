@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 284/14"
 doknr: "KORE308992015"
 normen: ["§ 133 BGB, § 145 BGB, § 157 BGB, § 433 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:18Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:18Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.09.2015 - VIII ZR 284/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein bei der Internetplattform eBay eingestelltes Verkaufsangebot ist aus der Sicht des an der eBay-Auktion teilnehmenden Bieters dahin auszulegen, dass es unter dem Vorbehalt einer nach den eBay-Bedingungen berechtigten Angebotsrücknahme steht (Bestätigung von BGH, Urteile vom 8. Juni 2011, VIII ZR 305/10, NJW 2011, 2643 Rn. 17; vom 8. Januar 2014, VIII ZR 63/13, NJW 2014, 1292, Rn. 20; vom 10. Dezember 2014, VIII ZR 90/14, NJW 2015, 1009, Rn. 14).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:18Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 284/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.09.2015 - VIII ZR 284/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

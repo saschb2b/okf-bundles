@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 10/14"
 doknr: "KORE316392014"
 normen: ["§ 545 Abs 1 S 1 BGB, § 167 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.06.2014 - VIII ZR 10/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Frist für die Erklärung des Widerspruchs gegen die stillschweigende Verlängerung des Mietverhältnisses (§ 545 Abs. 1 BGB) wird durch eine vor Fristablauf eingereichte und gemäß § 167 ZPO "demnächst" zugestellte Räumungsklage gewahrt.
@@ -23,8 +29,3 @@ Die Frist für die Erklärung des Widerspruchs gegen die stillschweigende Verlä
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 10/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.06.2014 - VIII ZR 10/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

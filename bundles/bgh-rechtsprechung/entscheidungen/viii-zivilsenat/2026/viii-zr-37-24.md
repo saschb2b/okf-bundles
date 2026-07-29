@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2026:110226UVIIIZR37.24.0"
 doknr: "KORE704542026"
 normen: ["§ 119 Abs 2 BGB, § 123 Abs 1 Alt 1 BGB, § 130 Abs 1 BGB, § 133 BGB, § 138 Abs 1 BGB, § 142 Abs 1 BGB, § 143 BGB, § 249 Abs 1 BGB, § 280 Abs 1 BGB, § 311 Abs 2 BGB, § 312b Abs 1 S 1 Nr 1 BGB, § 312g Abs 1 BGB, § 323 Abs 1 BGB, § 346 Abs 1 BGB, § 348 BGB, § 349 BGB, § 355 BGB, § 356 Abs 3 BGB, § 357 Abs 1 BGB, § 433 BGB, § 434 Abs 1 S 2 Nr 2 BGB vom 02.01.2002, § 434 Abs 3 BGB vom 02.01.2002, § 437 Nr 2 BGB, § 812 Abs 1 S 1 Alt 1 BGB, § 286 ZPO, § 543 Abs 1 Nr 1 ZPO, § 562 Abs 1 ZPO, § 563 Abs 1 ZPO, § 563 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.02.2026 - VIII ZR 37/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1.    Erklärt ein Käufer ausdrücklich (nur) die Anfechtung und den Widerruf des Kaufvertrags, schließt dies auch dann, wenn die Erklärung nicht von dem Käufer persönlich, sondern von dessen Rechtsanwalt abgegeben wurde, eine Auslegung dahingehend, dass der Käufer damit (konkludent) auch den Rücktritt von dem Vertrag erklärt hat, nicht aus (im Anschluss an BGH, Urteile vom 9. Oktober 1980 - VII ZR 332/79, BGHZ 78, 216, 221; vom 13. Juli 2011 - VIII ZR 215/10, ZIP 2011, 1571 Rn. 1, 12; Beschluss vom 3. November 2014 - IV ZR 230/14, juris Rn. 12; jeweils mwN).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:39:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 37/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.02.2026 - VIII ZR 37/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

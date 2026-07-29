@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 84/10"
 doknr: "JURE110008969"
 normen: ["§ 119 Abs 1 Nr 1 Buchst b GVG, § 119 Abs 1 Nr 1 Buchst c GVG, Art 2 Abs 1 EGV 44/2001, Art 60 Abs 1 EGV 44/2001, § 40 GVGEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.04.2011 - III ZB 84/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 119 Abs 1 Nr 1 Buchst b GVG, § 119 Abs 1 Nr 1 Buchst c GVG, Art 2 Abs 1 EGV 44/2001, Art 60 Abs 1 EGV 44/2001, § 40 GVGEG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:02Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 84/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.04.2011 - III ZB 84/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

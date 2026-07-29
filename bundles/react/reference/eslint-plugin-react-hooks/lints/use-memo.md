@@ -4,7 +4,12 @@ title: use-memo
 description: Flags useMemo callbacks with no return value, which signals the wrong hook is being used.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/use-memo
 tags: [react, eslint, lint, memoization, hooks]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/use-memo
+    title: "use-memo"
 ---
 
 # What it flags
@@ -51,7 +56,3 @@ useEffect(() => {
 # Related
 
 Related to manual memoization with [useMemo](/reference/react/hooks/useMemo.md) and the compiler-driven ["use memo" directive](/reference/react-compiler/directives/use-memo.md).
-
-# Citations
-
-[1] [use-memo](https://react.dev/reference/eslint-plugin-react-hooks/lints/use-memo)

@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 59/10"
 doknr: "KORE313372011"
 normen: ["Art 340 AEUV, Art 4 Abs 1 EWGRL 388/77, Art 4 Abs 2 EWGRL 388/77, Art 17 Abs 1 EWGRL 388/77, Art 17 Abs 2 Buchst a EWGRL 388/77, § 203 S 1 BGB, § 204 Abs 1 BGB vom 17.12.2008, § 209 Abs 1 BGB vom 25.08.1998, § 839 BGB, § 1 Abs 1 StHG, § 4 Abs 3 StHG, § 164 Abs 2 S 2 AO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.05.2011 - III ZR 59/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zum qualifizierten Verstoß gegen Art. 4 der Richtlinie 77/388/EWG, wenn die Finanzbehörden einem Unternehmen in der Aufbauphase den Vorsteuerabzug versagen, da Ausgangsumsätze bis zum Entscheidungszeitpunkt weder erzielt worden noch überhaupt erzielbar gewesen seien       .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:31:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 59/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.05.2011 - III ZR 59/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

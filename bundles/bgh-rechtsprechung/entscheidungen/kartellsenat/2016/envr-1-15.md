@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:070616BENVR1.15.0"
 doknr: "KORE304352016"
 normen: ["§ 15 Abs 1 ARegV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.06.2016 - EnVR 1/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 inetz GmbH
@@ -26,8 +32,3 @@ inetz GmbH
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 1/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.06.2016 - EnVR 1/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

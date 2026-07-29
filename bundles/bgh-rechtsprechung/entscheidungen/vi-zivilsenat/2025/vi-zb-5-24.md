@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:110325BVIZB5.24.0"
 doknr: "KORE709372025"
 normen: ["Art 2 Abs 1  GG, § 130a Abs 3 S 1 ZPO, § 130a Abs 4 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.03.2025 - VI ZB 5/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zu den Anforderungen des § 130a Abs. 3 Satz 1 ZPO an die Übermittlung eines elektronischen Dokuments.
@@ -24,8 +30,3 @@ Zu den Anforderungen des § 130a Abs. 3 Satz 1 ZPO an die Übermittlung eines el
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZB 5/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.03.2025 - VI ZB 5/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

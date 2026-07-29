@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 179/13"
 doknr: "KORE303632014"
 normen: ["§ 305c Abs 1 BGB, § 307 Abs 1 S 2 BGB, § 307 Abs 3 BGB, § 1 Abs 1 Nr 1 UStG, § 10 Abs 1 UStG, Art 2 Nr 1 EWGRL 388/77"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die in ein Antragsformular auf Abschluss eines Verbraucherleasingvertrags über ein Kraftfahrzeug vom Leasinggeber deutlich sichtbar eingesetzte Formularklausel
@@ -33,8 +39,3 @@ timestamp: 2026-06-22T12:28:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 179/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.05.2014 - VIII ZR 179/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

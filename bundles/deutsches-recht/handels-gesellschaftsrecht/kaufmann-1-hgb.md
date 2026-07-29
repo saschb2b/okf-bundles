@@ -5,7 +5,16 @@ description: Kaufmann ist, wer ein Handelsgewerbe betreibt; an die Kaufmannseige
 resource: https://www.gesetze-im-internet.de/hgb/__1.html
 tags: [handelsrecht, kaufmann, handelsgewerbe, hgb]
 norm: "§§ 1, 2, 5 HGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/hgb/__1.html
+    title: "§ 1 HGB"
+  - resource: https://www.gesetze-im-internet.de/hgb/__2.html
+    title: "§ 2 HGB"
+  - resource: https://www.gesetze-im-internet.de/hgb/__5.html
+    title: "§ 5 HGB"
 ---
 
 # Regel
@@ -21,9 +30,3 @@ Das HGB gilt als Sonderprivatrecht für Kaufleute. Wer Kaufmann ist, entscheidet
 # Bezug
 
 An die Eintragung knüpft die [Publizität des Handelsregisters (§ 15)](/handels-gesellschaftsrecht/handelsregister-publizitaet-15-hgb.md). Handelsgesellschaften (OHG, KG, GmbH, AG) sind kraft Rechtsform Kaufleute oder Formkaufleute.
-
-# Citations
-
-[1] [§ 1 HGB](https://www.gesetze-im-internet.de/hgb/__1.html)
-[2] [§ 2 HGB](https://www.gesetze-im-internet.de/hgb/__2.html)
-[3] [§ 5 HGB](https://www.gesetze-im-internet.de/hgb/__5.html)

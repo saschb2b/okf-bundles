@@ -10,8 +10,14 @@ aktenzeichen: "StbSt (R) 2/10"
 doknr: "JURE100070294"
 normen: ["§ 57 Abs 1 StBerG, § 57a StBerG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.09.2010 - StbSt (R) 2/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 57 Abs 1 StBerG, § 57a StBerG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen StbSt (R) 2/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.09.2010 - StbSt (R) 2/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

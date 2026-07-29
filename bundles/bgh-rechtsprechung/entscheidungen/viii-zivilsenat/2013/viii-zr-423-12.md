@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 423/12"
 doknr: "KORE301932013"
 normen: ["§ 25 HGB, Art 4 UNWaVtrÜbk, Art 7 UNWaVtrÜbk, Art 14 UNWaVtrÜbk, Art 53 UNWaVtrÜbk, Art 2934 Abs 1  CC ITA, Art 2935 CC ITA, Art 2946 CC ITA"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 23.10.2013 - VIII ZR 423/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei einem dem UN-Kaufrechtsübereinkommen (CISG) unterliegenden internationalen Warenkauf beurteilt sich ein gesetzlicher Schuldbeitritt aufgrund Firmenfortführung nach dem am Ort der gewerblichen Niederlassung des fortgeführten Unternehmens geltenden Recht (Firmenstatut).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 423/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 23.10.2013 - VIII ZR 423/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

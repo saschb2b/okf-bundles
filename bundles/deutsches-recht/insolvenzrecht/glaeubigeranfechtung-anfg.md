@@ -5,7 +5,18 @@ description: Auch ohne Insolvenzverfahren kann ein einzelner Gläubiger mit voll
 resource: https://www.gesetze-im-internet.de/anfg_1999/
 tags: [insolvenzrecht, anfechtung, anfg, glaeubigeranfechtung, einzelvollstreckung, vorsatzanfechtung]
 norm: "§§ 1, 2, 3, 4, 11 AnfG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/anfg_1999/
+    title: "Anfechtungsgesetz (AnfG)"
+  - resource: https://www.gesetze-im-internet.de/anfg_1999/__3.html
+    title: "§ 3 AnfG"
+  - resource: https://www.gesetze-im-internet.de/anfg_1999/__4.html
+    title: "§ 4 AnfG"
+  - resource: https://www.gesetze-im-internet.de/anfg_1999/__11.html
+    title: "§ 11 AnfG"
 ---
 
 # Zweck und Voraussetzung (§§ 1, 2 AnfG)
@@ -27,10 +38,3 @@ Der Anfechtungsgegner muss **dulden, dass der Gläubiger auf das Weggegebene zug
 # Bezug
 
 Das AnfG ist das Gegenstück zur [Insolvenzanfechtung](/insolvenzrecht/insolvenzanfechtung-129.md) im Stadium der **Einzelzwangsvollstreckung** und damit für das [Forderungsmanagement](/zivilprozess/vollstreckungsarten-803.md) relevant, wenn der Schuldner Vermögen beiseitegeschafft hat, aber (noch) kein Insolvenzverfahren läuft. Wird später ein Verfahren eröffnet, verdrängen die §§ 129 ff. InsO das AnfG.
-
-# Citations
-
-[1] [Anfechtungsgesetz (AnfG)](https://www.gesetze-im-internet.de/anfg_1999/)
-[2] [§ 3 AnfG](https://www.gesetze-im-internet.de/anfg_1999/__3.html)
-[3] [§ 4 AnfG](https://www.gesetze-im-internet.de/anfg_1999/__4.html)
-[4] [§ 11 AnfG](https://www.gesetze-im-internet.de/anfg_1999/__11.html)

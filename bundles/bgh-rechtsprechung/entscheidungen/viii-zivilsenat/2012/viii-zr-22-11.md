@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 22/11"
 doknr: "JURE120008574"
 normen: ["§ 536 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.02.2012 - VIII ZR 22/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 536 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 22/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.02.2012 - VIII ZR 22/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

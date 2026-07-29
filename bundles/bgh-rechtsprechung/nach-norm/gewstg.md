@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu GewStG"
 description: "BGH-Entscheidungen zu GewStG, geordnet nach Vorschrift."
 tags: [register, navigation, gewstg]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

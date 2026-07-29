@@ -5,7 +5,12 @@ description: Wer eine Tat begeht, die zur Abwehr eines gegenwärtigen rechtswidr
 resource: https://www.gesetze-im-internet.de/stgb/__32.html
 tags: [strafrecht-at, notwehr, rechtfertigung, verteidigung]
 norm: "§ 32 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__32.html
+    title: "§ 32 StGB"
 ---
 
 # Regel
@@ -22,7 +27,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Abgrenzung
 
 Fehlt eine Notwehrlage, kommt der [Notstand (§ 34)](/strafrecht-at/notstand-34-35.md) in Betracht, der eine Interessenabwägung verlangt. Wer die Grenzen der Notwehr aus Verwirrung, Furcht oder Schrecken überschreitet, bleibt nach § 33 straflos.
-
-# Citations
-
-[1] [§ 32 StGB](https://www.gesetze-im-internet.de/stgb/__32.html)

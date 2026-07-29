@@ -5,7 +5,14 @@ description: Der Vermieter kann Zustimmung zur Erhöhung bis zur ortsüblichen V
 resource: https://www.gesetze-im-internet.de/bgb/__558.html
 tags: [mietrecht, mieterhoehung, vergleichsmiete, kappungsgrenze]
 norm: "§ 558 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__558.html
+    title: "§ 558 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__556d.html
+    title: "§ 556d BGB"
 ---
 
 # Regel (§ 558 Abs. 1)
@@ -27,8 +34,3 @@ Die Mieterhöhung im laufenden Verhältnis (§ 558) ist von der **Mietpreisbrems
 # Siehe auch
 
 Die Miete ist die Hauptleistungspflicht des Mieters aus dem [Mietvertrag](/mietrecht/mietvertrag-pflichten-535.md).
-
-# Citations
-
-[1] [§ 558 BGB](https://www.gesetze-im-internet.de/bgb/__558.html)
-[2] [§ 556d BGB](https://www.gesetze-im-internet.de/bgb/__556d.html)

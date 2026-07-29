@@ -9,13 +9,14 @@ datum: 2009-07-01
 aktenzeichen: "XII ZR 93/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:39:46Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:39:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2007/XII_ZR__93-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 01.07.2009 - XII ZR 93/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZR 93/07 vom 01.07.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.07.2009 - XII ZR 93/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2007/XII_ZR__93-07.pdf?__blob=publicationFile&v=1)
-

@@ -9,13 +9,14 @@ datum: 2009-10-27
 aktenzeichen: "VIII ZB 42/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:23:51Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:23:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZB__42-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 27.10.2009 - VIII ZB 42/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 42/08 vom 27.10.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.10.2009 - VIII ZB 42/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZB__42-08.pdf?__blob=publicationFile&v=1)
-

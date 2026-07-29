@@ -4,7 +4,12 @@ title: Ethereum accounts and state
 description: Externally owned and contract accounts over a global state, Ethereum's alternative to Bitcoin's UTXOs.
 resource: https://ethereum.org/en/developers/docs/accounts/
 tags: [ethereum, accounts, state, account-model]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/developers/docs/accounts/
+    title: "Accounts (Ethereum.org docs)"
 ---
 
 # Two kinds of account
@@ -28,7 +33,3 @@ Every account has four protocol-defined fields: [1]
 # Why this shape
 
 Persistent per-account storage is the natural home for an evolving [smart contract](/concepts/smart-contract.md)'s state, which is why programmable chains favor accounts over [UTXOs](/concepts/utxo-model.md). The cost is that shared mutable state serializes transactions touching the same account and makes privacy weaker (a reused address links activity). The full tradeoff is in [UTXO vs account](/comparison/utxo-vs-account.md).
-
-# Citations
-
-[1] [Accounts (Ethereum.org docs)](https://ethereum.org/en/developers/docs/accounts/)

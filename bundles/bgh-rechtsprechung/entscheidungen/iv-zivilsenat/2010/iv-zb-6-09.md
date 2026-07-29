@@ -10,8 +10,14 @@ aktenzeichen: "IV ZB 6/09"
 doknr: "KORE317902010"
 normen: ["§ 15 RVG, Nr 3100 RVG-VV, Nr 3104 RVG-VV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.04.2010 - IV ZB 6/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird in einem Verfahren mündlich verhandelt und dieses sodann mit einem anderen Verfahren verbunden, in dem bisher noch nicht mündlich verhandelt wurde, so ist die bereits entstandene Terminsgebühr auf die nach Verbindung aus dem Gesamtstreitwert zu ermittelnde Terminsgebühr (Nr. 3104 RVG-VV) anzurechnen .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV ZB 6/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.04.2010 - IV ZB 6/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

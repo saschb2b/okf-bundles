@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:260820BVIIZB39.19.0"
 doknr: "KORE311222020"
 normen: ["§ 291 ZPO, § 567 ZPO, §§ 567ff ZPO, § 567 Abs 1 Nr 2 ZPO, § 727 Abs 1 ZPO, § 727 Abs 2 ZPO, § 750 Abs 1 ZPO, § 750 Abs 2 ZPO, § 11 Abs 1 RPflG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.08.2020 - VII ZB 39/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für den Rechtsnachfolger eines Gläubigers ist bei Ablehnung eines Antrags auf Erteilung einer vollstreckbaren Ausfertigung nach § 727 ZPO durch den zuständigen Rechtspfleger eines Amts- oder Landgerichts im ersten Rechtszug die sofortige Beschwerde nach § 11 Abs. 1 RPflG, §§ 567 ff. ZPO der statthafte Rechtsbehelf. Nichts Anderes gilt, wenn dem Antragsteller eine vollstreckbare Ausfertigung im Sinne von § 727 ZPO erteilt wird, er aber geltend macht, diese entspreche nicht dem Gesetz und beeinträchtige daher sein Recht auf fehlerfreie Erteilung einer Vollstreckungsklausel.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:30:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 39/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.08.2020 - VII ZB 39/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

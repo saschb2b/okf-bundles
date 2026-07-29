@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:181023BXIIZB31.23.0"
 doknr: "KORE305382023"
 normen: ["§ 85 Abs 2 ZPO, § 233 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:14Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.10.2023 - XII ZB 31/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Überträgt ein Rechtsanwalt die Notierung von Fristen einer Kanzleikraft, muss er durch geeignete organisatorische Maßnahmen oder durch konkrete Einzelanweisung sicherstellen, dass die Fristen zuverlässig festgehalten und kontrolliert werden. Bei notwendiger Korrektur einer Rechtsmittelbegründungsfrist muss eine mündliche Einzelanweisung klar und präzise beinhalten, dass die Frist sofort und vor allen anderen Aufgaben im Fristenkalender zu korrigieren ist (im Anschluss an Senatsbeschluss vom 11. März 2020 - XII ZB 446/19, FamRZ 2020, 938).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:14Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 31/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.10.2023 - XII ZB 31/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

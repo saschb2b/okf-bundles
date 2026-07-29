@@ -5,7 +5,14 @@ description: Ehegatten können ihre güterrechtlichen Verhältnisse und den Vers
 resource: https://www.gesetze-im-internet.de/bgb/__1408.html
 tags: [familienrecht, ehevertrag, inhaltskontrolle, kernbereichslehre]
 norm: "§§ 1408, 1410 BGB; §§ 138, 242 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1408.html
+    title: "§ 1408 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1410.html
+    title: "§ 1410 BGB"
 ---
 
 # Gestaltungsfreiheit (§ 1408)
@@ -22,8 +29,3 @@ Die Vertragsfreiheit ist nicht schrankenlos. Die Rechtsprechung kontrolliert Ehe
 # Bezug
 
 Eheverträge gestalten gerade die berechenbaren Scheidungsfolgen ([Zugewinn](/familienrecht/zugewinn-berechnung.md), [Versorgungsausgleich](/familienrecht/versorgungsausgleich.md), [nachehelicher Unterhalt](/familienrecht/ehegattenunterhalt-1361-1569.md)); ihre Kontrolle ist daher für jede Folgenberechnung vorab zu prüfen.
-
-# Citations
-
-[1] [§ 1408 BGB](https://www.gesetze-im-internet.de/bgb/__1408.html)
-[2] [§ 1410 BGB](https://www.gesetze-im-internet.de/bgb/__1410.html)

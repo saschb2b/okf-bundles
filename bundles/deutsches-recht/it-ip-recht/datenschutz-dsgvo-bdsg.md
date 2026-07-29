@@ -5,7 +5,14 @@ description: Die Verarbeitung personenbezogener Daten ist nur auf einer der Rech
 resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
 tags: [it-recht, datenschutz, dsgvo, bdsg, auftragsverarbeitung, betroffenenrechte]
 norm: "Art. 5, 6, 9, 15 bis 22, 28, 32, 33, 34, 83 DSGVO; BDSG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+    title: "Verordnung (EU) 2016/679 (DSGVO), EUR-Lex"
+  - resource: https://www.gesetze-im-internet.de/bdsg_2018/
+    title: "Bundesdatenschutzgesetz (BDSG)"
 ---
 
 # Grundsätze (Art. 5 DSGVO)
@@ -44,8 +51,3 @@ Das **Bundesdatenschutzgesetz** füllt die Öffnungsklauseln der DSGVO aus, etwa
 # Bezug
 
 Die DSGVO ist eine [Verordnung](/europarecht/rechtsquellen-handlungsformen-288.md), gilt also unmittelbar und mit [Anwendungsvorrang](/europarecht/vorrang-und-unmittelbare-wirkung.md). Für digitale Dienste treten die Informationspflichten des [DDG](/it-ip-recht/telemedien-impressum-ddg.md) hinzu; die Einwilligung ist zugleich eine [Willenserklärung](/bgb-at/willenserklaerung.md).
-
-# Citations
-
-[1] [Verordnung (EU) 2016/679 (DSGVO), EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679)
-[2] [Bundesdatenschutzgesetz (BDSG)](https://www.gesetze-im-internet.de/bdsg_2018/)

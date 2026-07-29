@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:181017UVIIIZR32.16.0"
 doknr: "KORE313932017"
 normen: ["§ 14 Abs 1 BGB, § 346 Abs 1 BGB, § 434 Abs 1 S 1 BGB, § 434 Abs 1 S 2 Nr 1 BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 437 Nr 2 BGB, § 476 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.10.2017 - VIII ZR 32/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Auch bei einem hochpreisigen Dressurpferd begründet das Vorhandensein eines "Röntgenbefundes", sofern die Kaufvertragsparteien keine anderslautende Beschaffenheitsvereinbarung geschlossen haben, für sich genommen grundsätzlich noch keinen Sachmangel nach § 434 Abs. 1 Satz 2 BGB (Bestätigung und Fortführung der Senatsurteile vom 7. Februar 2007, VIII ZR 266/06, NJW 2007, 1351 Rn. 14 ff.; vom 29. März 2006, VIII ZR 173/05, BGHZ 167, 40 Rn. 27 ff.). Hierbei kommt es nicht entscheidend darauf an, wie häufig derartige Röntgenbefunde vorkommen (insoweit Klarstellung des Senatsurteils vom 7. Februar 2007, VIII ZR 266/06, aaO Rn. 20).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 32/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.10.2017 - VIII ZR 32/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

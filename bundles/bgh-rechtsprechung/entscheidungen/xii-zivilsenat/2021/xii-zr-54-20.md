@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:100321BXIIZR54.20.0"
 doknr: "KORE637632021"
 normen: ["Art 103 Abs 1 GG, § 286 Abs 1 BGB, § 313 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:04Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:04Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.03.2021 - XII ZR 54/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 103 Abs 1 GG, § 286 Abs 1 BGB, § 313 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:04Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 54/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.03.2021 - XII ZR 54/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

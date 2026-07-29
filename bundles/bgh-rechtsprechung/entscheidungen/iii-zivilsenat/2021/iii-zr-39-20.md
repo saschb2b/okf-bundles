@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:040321UIIIZR39.20.0"
 doknr: "KORE307842021"
 normen: ["§ 23 Abs 1 S 1 PostG, § 23 Abs 2 S 1 PostG, § 184 BGB, § 199 Abs 1 Nr 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.03.2021 - III ZR 39/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Entgeltgenehmigung für Postdienstleistungen
@@ -28,8 +34,3 @@ Entgeltgenehmigung für Postdienstleistungen
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 39/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.03.2021 - III ZR 39/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

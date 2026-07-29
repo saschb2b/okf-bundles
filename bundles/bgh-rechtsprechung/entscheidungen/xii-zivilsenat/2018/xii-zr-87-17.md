@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:280218BXIIZR87.17.0"
 doknr: "KORE308292018"
 normen: ["§ 70 Abs 1 FamFG, § 266 Abs 1 Nr 3 FamFG, § 17a Abs 6 GVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.02.2018 - XII ZR 87/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für die Prüfung, ob der zur Entscheidung anstehende Verfahrensgegenstand eine bürgerlich-rechtliche Streitigkeit oder eine Familiensache im Sinne des § 17a Abs. 6 GVG darstellt, kommt es nicht allein auf den Vortrag der Klägerseite, sondern ebenfalls auf das Verteidigungsvorbringen der Gegenseite an (im Anschluss an Senatsbeschluss vom 5. Dezember 2012, XII ZB 652/11, FamRZ 2013, 281).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:02Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 87/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.02.2018 - XII ZR 87/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,12 @@ description: § 310 modifiziert die AGB-Kontrolle nach Vertragstyp; er lockert s
 resource: https://www.gesetze-im-internet.de/bgb/__310.html
 tags: [agb-recht, bgb, anwendungsbereich, b2b, verbrauchervertrag]
 norm: "§ 310 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__310.html
+    title: "§ 310 BGB"
 ---
 
 # Regel
@@ -27,7 +32,3 @@ Bei Verträgen zwischen Unternehmer und Verbraucher:
 # Abs. 4, Ausnahmen
 
 Der Abschnitt findet **keine Anwendung** bei Verträgen auf dem Gebiet des Erb-, Familien- und Gesellschaftsrechts sowie bei Tarifverträgen und Betriebs- oder Dienstvereinbarungen. Bei **Arbeitsverträgen** ist er anwendbar, jedoch sind die im Arbeitsrecht geltenden Besonderheiten angemessen zu berücksichtigen; § 305 Abs. 2 und 3 gilt dort nicht.
-
-# Citations
-
-[1] [§ 310 BGB](https://www.gesetze-im-internet.de/bgb/__310.html)

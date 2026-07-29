@@ -5,7 +5,20 @@ description: Computerprogramme sind als Sprachwerke geschützt, sofern sie indiv
 resource: https://www.gesetze-im-internet.de/urhg/__69a.html
 tags: [it-recht, urheberrecht, software, computerprogramm, dekompilierung, arbeitnehmer]
 norm: "§§ 69a, 69b, 69c, 69d, 69e UrhG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/urhg/__69a.html
+    title: "§ 69a UrhG"
+  - resource: https://www.gesetze-im-internet.de/urhg/__69b.html
+    title: "§ 69b UrhG"
+  - resource: https://www.gesetze-im-internet.de/urhg/__69c.html
+    title: "§ 69c UrhG"
+  - resource: https://www.gesetze-im-internet.de/urhg/__69d.html
+    title: "§ 69d UrhG"
+  - resource: https://www.gesetze-im-internet.de/urhg/__69e.html
+    title: "§ 69e UrhG"
 ---
 
 # Schutzgegenstand (§ 69a)
@@ -39,11 +52,3 @@ Ohne Zustimmung zulässig sind:
 # Bezug
 
 Wer das Programm über die erlaubten Handlungen hinaus nutzen will, braucht ein [Nutzungsrecht](/it-ip-recht/urheberrecht-und-lizenz-31-97.md) (Lizenz). Die Zuordnung zum Arbeitgeber nach § 69b ergänzt den [Arbeitsvertrag](/arbeitsrecht/arbeitsvertrag-611a.md); bei freien Entwicklern richtet sich der Rechteübergang nach dem Vertrag.
-
-# Citations
-
-[1] [§ 69a UrhG](https://www.gesetze-im-internet.de/urhg/__69a.html)
-[2] [§ 69b UrhG](https://www.gesetze-im-internet.de/urhg/__69b.html)
-[3] [§ 69c UrhG](https://www.gesetze-im-internet.de/urhg/__69c.html)
-[4] [§ 69d UrhG](https://www.gesetze-im-internet.de/urhg/__69d.html)
-[5] [§ 69e UrhG](https://www.gesetze-im-internet.de/urhg/__69e.html)

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 183/12"
 doknr: "KORE311542013"
 normen: ["§ 123 BGB, § 307 Abs 1 BGB, § 307 Abs 2 BGB, § 309 Nr 7 Buchst a BGB, § 309 Nr 7 Buchst b BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:03Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.06.2013 - VIII ZR 183/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Frage, ob ein Händler verpflichtet ist, sich vor dem Weiterverkauf eines Gebrauchtwagens Kenntnis von einer beim Hersteller geführten "Reparaturhistorie" des Fahrzeugs zu verschaffen.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:31:03Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 183/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.06.2013 - VIII ZR 183/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

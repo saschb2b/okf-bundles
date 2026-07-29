@@ -5,7 +5,16 @@ description: Körperverletzung ist die körperliche Misshandlung oder Gesundheit
 resource: https://www.gesetze-im-internet.de/stgb/__223.html
 tags: [strafrecht-bt, koerperverletzung, gefaehrliche-kv, todesfolge]
 norm: "§§ 223, 224, 226, 227 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__223.html
+    title: "§ 223 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__224.html
+    title: "§ 224 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__227.html
+    title: "§ 227 StGB"
 ---
 
 # Grundtatbestand (§ 223)
@@ -21,9 +30,3 @@ Wer eine andere Person **körperlich misshandelt** (üble, unangemessene Behandl
 # Bezug
 
 Die Einwilligung kann rechtfertigend wirken, ist aber bei Sittenwidrigkeit begrenzt (§ 228). Allgemein gilt der [Deliktsaufbau](/strafrecht-at/aufbau-der-straftat.md).
-
-# Citations
-
-[1] [§ 223 StGB](https://www.gesetze-im-internet.de/stgb/__223.html)
-[2] [§ 224 StGB](https://www.gesetze-im-internet.de/stgb/__224.html)
-[3] [§ 227 StGB](https://www.gesetze-im-internet.de/stgb/__227.html)

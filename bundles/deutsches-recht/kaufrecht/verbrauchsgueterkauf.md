@@ -5,7 +5,16 @@ description: Kauft ein Verbraucher von einem Unternehmer eine bewegliche Sache, 
 resource: https://www.gesetze-im-internet.de/bgb/__474.html
 tags: [kaufrecht, verbrauchsgueterkauf, verbraucherschutz, beweislastumkehr]
 norm: "§§ 474 bis 479 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__474.html
+    title: "§ 474 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__476.html
+    title: "§ 476 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__477.html
+    title: "§ 477 BGB"
 ---
 
 # Anwendungsbereich (§ 474)
@@ -21,9 +30,3 @@ Ein Verbrauchsgüterkauf liegt vor, wenn ein Verbraucher von einem Unternehmer e
 # Bezug
 
 Aufbauend auf [Sachmangel (§ 434)](/kaufrecht/sachmangel-434.md), [Mängelrechte (§ 437)](/kaufrecht/maengelrechte-437.md) und der [Verjährung (§ 438)](/kaufrecht/verjaehrung-438.md); diese werden durch die §§ 474 ff. zugunsten des Verbrauchers modifiziert.
-
-# Citations
-
-[1] [§ 474 BGB](https://www.gesetze-im-internet.de/bgb/__474.html)
-[2] [§ 476 BGB](https://www.gesetze-im-internet.de/bgb/__476.html)
-[3] [§ 477 BGB](https://www.gesetze-im-internet.de/bgb/__477.html)

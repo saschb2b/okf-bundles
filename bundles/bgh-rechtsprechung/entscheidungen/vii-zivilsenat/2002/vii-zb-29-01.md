@@ -9,13 +9,14 @@ datum: 2002-02-28
 aktenzeichen: "VII ZB 29/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:04:48Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:04:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2001/VII_ZB__29-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 28.02.2002 - VII ZB 29/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VII ZB 29/01 vom 28.02.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.02.2002 - VII ZB 29/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2001/VII_ZB__29-01.pdf?__blob=publicationFile&v=1)
-

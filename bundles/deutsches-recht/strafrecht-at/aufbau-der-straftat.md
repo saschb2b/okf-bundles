@@ -4,7 +4,12 @@ title: "Aufbau der Straftat"
 description: Eine Straftat wird in drei aufeinander aufbauenden Stufen geprüft: Tatbestand, Rechtswidrigkeit und Schuld; erst wenn alle drei bejaht sind, ist die Tat strafbar.
 tags: [strafrecht-at, deliktsaufbau, tatbestand, rechtswidrigkeit, schuld]
 norm: "StGB Allgemeiner Teil"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/
+    title: "Strafgesetzbuch (StGB)"
 ---
 
 # Die drei Stufen
@@ -20,7 +25,3 @@ Die Strafbarkeit wird in fester Reihenfolge geprüft. Fällt eine Stufe weg, end
 # Danach
 
 Stehen Tatbestand, Rechtswidrigkeit und Schuld fest, ist die Tat strafbar. Auf der Rechtsfolgenseite folgen Strafzumessung und etwaige Konkurrenzen. Sonderformen sind der [Versuch](/strafrecht-at/versuch-und-ruecktritt-22-24.md) und die [Teilnahme](/strafrecht-at/taeterschaft-und-teilnahme-25-27.md).
-
-# Citations
-
-[1] [Strafgesetzbuch (StGB)](https://www.gesetze-im-internet.de/stgb/)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:050324BXIIIZB12.22.0"
 doknr: "KORE315192024"
 normen: ["Art 2 Abs 2 S 1 GG, Art 2 Abs 2 S 2 GG, § 422 Abs 2 S 1 FamFG, § 60a Abs 2 AufenthG, § 60a Abs 2c S 2 AufenthG, § 60a Abs 2c S 3 AufenthG, § 60a Abs 2c S 4 AufenthG, § 60a Abs 2d AufenthG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.03.2024 - XIII ZB 12/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Antrag der zuständigen Verwaltungsbehörde ist für die Anordnung der sofortigen Wirksamkeit der Haftanordnung nicht erforderlich.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:32:12Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 12/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.03.2024 - XIII ZB 12/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

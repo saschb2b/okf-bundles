@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:060416UVIIIZR211.10.0"
 doknr: "KORE303592016"
 normen: ["§ 133 BGB, § 157 BGB, § 315 BGB, § 433 Abs 2 BGB, § 4 Abs 1 AVBEltV, § 4 Abs 2 AVBEltV, § 4 Abs 1 AVBGasV, § 4 Abs 2 AVBGasV, § 5 Abs 2 StromGVV vom 26.10.2006, Art 3 Abs 5 Anh A EGRL 54/2003"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.04.2016 - VIII ZR 211/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 4 Abs. 1 und 2 AVBEltV und § 5 Abs. 2 StromGVV sind mit den Transparenzanforderungen der Strom-Richtlinie 2003/54/EG nicht vereinbar (Anschluss an EuGH, Urteil vom 23. Oktober 2014, Rechtssachen C-359/11 und C-400/11, NJW 2015, 849 - Schulz und Egbringhoff).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:28:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 211/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.04.2016 - VIII ZR 211/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

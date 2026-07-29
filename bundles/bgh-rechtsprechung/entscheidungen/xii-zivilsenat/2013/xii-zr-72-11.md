@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 72/11"
 doknr: "KORE303012013"
 normen: ["§ 119 BGB, §§ 119ff BGB, § 313 BGB, § 779 Abs 1 BGB, § 1578b Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.03.2013 - XII ZR 72/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Unterhaltsvereinbarungen, die auf der durch die Entscheidung des Bundesverfassungsgerichts vom 25. Januar 2011 (BVerfG, 25. Januar 2011, 1 BvR 918/10, FamRZ 2011, 437) beanstandeten Rechtsprechung des Senats zur Bedarfsermittlung durch Dreiteilung des zur Verfügung stehenden Gesamteinkommens des Unterhaltspflichtigen sowie des früheren und des jetzigen unterhaltsberechtigten Ehegatten beruhen (BGH, 30. Juli 2008, XII ZR 177/06, BGHZ 177, 356), sind weder nach § 779 Abs. 1 BGB unwirksam noch nach §§ 119 ff. BGB anfechtbar.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 72/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.03.2013 - XII ZR 72/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,16 @@ description: Besitz ist die tatsächliche Herrschaft über eine Sache; er wird d
 resource: https://www.gesetze-im-internet.de/bgb/__854.html
 tags: [sachenrecht, besitz, besitzschutz, verbotene-eigenmacht]
 norm: "§§ 854, 858, 861 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__854.html
+    title: "§ 854 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__858.html
+    title: "§ 858 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__861.html
+    title: "§ 861 BGB"
 ---
 
 # Besitz als tatsächliche Herrschaft (§ 854)
@@ -17,9 +26,3 @@ Der Besitz einer Sache wird durch die Erlangung der **tatsächlichen Gewalt** ü
 - **Verbotene Eigenmacht (§ 858).** Wer dem Besitzer ohne dessen Willen den Besitz entzieht oder ihn stört, handelt widerrechtlich (verbotene Eigenmacht), sofern das Gesetz die Entziehung nicht gestattet.
 - **Selbsthilfe (§ 859).** Der Besitzer darf sich verbotener Eigenmacht mit Gewalt erwehren und frische Besitzentziehung rückgängig machen.
 - **Possessorischer Anspruch (§ 861).** Wird der Besitz durch verbotene Eigenmacht entzogen, kann der Besitzer die Wiedereinräumung verlangen, **ohne** dass es auf das Recht zum Besitz ankommt. Der Besitzschutz sichert den Rechtsfrieden, nicht die materielle Rechtslage.
-
-# Citations
-
-[1] [§ 854 BGB](https://www.gesetze-im-internet.de/bgb/__854.html)
-[2] [§ 858 BGB](https://www.gesetze-im-internet.de/bgb/__858.html)
-[3] [§ 861 BGB](https://www.gesetze-im-internet.de/bgb/__861.html)

@@ -4,7 +4,20 @@ title: Anthropic corporate structure and governance
 description: Public benefit corporation, the Long-Term Benefit Trust, and the funding trajectory.
 resource: https://www.anthropic.com/news/the-long-term-benefit-trust
 tags: [anthropic, governance, pbc, ltbt, funding]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://time.com/6983420/anthropic-structure-openai-incentives/
+    title: "Anthropic's structure and incentives (TIME, 2024)"
+  - resource: https://www.anthropic.com/news/the-long-term-benefit-trust
+    title: "The Long-Term Benefit Trust (Anthropic)"
+  - resource: https://www.anthropic.com/news/narasimhan-board
+    title: "Narasimhan board appointment (Anthropic, 2026)"
+  - resource: https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation
+    title: "Series G, $30B at $380B post-money (Anthropic, 2026)"
+  - resource: https://www.anthropic.com/news/series-h
+    title: "Series H funding (Anthropic, 2026)"
 ---
 
 # A public benefit corporation
@@ -25,11 +38,3 @@ A five-member Long-Term Benefit Trust (LTBT) of financially disinterested truste
 The Series H was led by Altimeter, Dragoneer, Greenoaks, and Sequoia, with co-leads including Capital Group, Coatue, D1, GIC, ICONIQ, and XN, and included $15B previously committed by hyperscalers (see [go-to-market](/distribution/go-to-market.md)). It is widely framed as likely the last private round before an IPO. [5] Major investors include Amazon and Google as the largest strategic holders, alongside Sequoia, Lightspeed, General Catalyst, GIC, Temasek, Fidelity, T. Rowe Price, Coatue, and ICONIQ. [5]
 
 The near-trillion-dollar valuation is what the [revenue run-rate](/revenue/revenue-streams.md) and the [margin-expansion story](/economics/cost-structure.md) are being priced against.
-
-# Citations
-
-[1] [Anthropic's structure and incentives (TIME, 2024)](https://time.com/6983420/anthropic-structure-openai-incentives/)
-[2] [The Long-Term Benefit Trust (Anthropic)](https://www.anthropic.com/news/the-long-term-benefit-trust)
-[3] [Narasimhan board appointment (Anthropic, 2026)](https://www.anthropic.com/news/narasimhan-board)
-[4] [Series G, $30B at $380B post-money (Anthropic, 2026)](https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation)
-[5] [Series H funding (Anthropic, 2026)](https://www.anthropic.com/news/series-h)

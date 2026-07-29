@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 89/10"
 doknr: "KORE303572011"
 normen: ["§ 726 Abs 1 ZPO, § 727 Abs 1 ZPO, § 731 ZPO, § 768 ZPO, § 794 Abs 1 Nr 5 ZPO, § 795 ZPO, § 797 Abs 2 ZPO, § 800 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:14Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.06.2011 - VII ZB 89/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Auslegung einer notariellen Unterwerfungserklärung muss der Notar im Klauselerteilungsverfahren grundsätzlich von dem Wortlaut der Urkunde ausgehen. Ist eine Vollstreckungsbedingung im Sinne des § 726 Abs. 1 ZPO im Wortlaut der notariellen Urkunde nicht angelegt, verbietet sich für den Notar die Annahme einer solchen Bedingung. Er kann sie nicht allein aus einer Interessenabwägung herleiten  .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:28:14Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 89/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.06.2011 - VII ZB 89/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

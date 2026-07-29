@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 352/12"
 doknr: "JURE140014899"
 normen: ["§ 91a ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.08.2014 - VIII ZR 352/12 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 91a ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 352/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.08.2014 - VIII ZR 352/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

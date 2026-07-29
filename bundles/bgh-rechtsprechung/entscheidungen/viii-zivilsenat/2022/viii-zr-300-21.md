@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:280922UVIIIZR300.21.0"
 doknr: "KORE304592022"
 normen: ["§ 242 BGB, § 556d Abs 1 BGB, § 556g Abs 1 S 3 BGB, § 556g Abs 2 BGB vom 21.04.2015, § 557 Abs 1 BGB, § 558 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.09.2022 - VIII ZR 300/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Durch die Zustimmung eines Mieters zu einem Mieterhöhungsverlangen des Vermieters kommt in der Regel eine Vereinbarung über die Erhöhung der Miete auf die neue Miethöhe zustande, die den Rechtsgrund für die daraufhin erbrachten erhöhten Mietzahlungen darstellt.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 300/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.09.2022 - VIII ZR 300/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

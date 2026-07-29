@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ 3/13"
 doknr: "JURE140014716"
 normen: ["§ 106 Abs 2 BRAO, § 160 Abs 2 BRAO, § 165 Abs 2 BRAO, § 42 Abs 2 ZPO, § 45 Abs 1 ZPO, § 46 ZPO, § 48 Alt 1 ZPO, § 54 Abs 1 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.08.2014 - AnwZ 3/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 106 Abs 2 BRAO, § 160 Abs 2 BRAO, § 165 Abs 2 BRAO, § 42 Abs 2 ZPO, § 45 Abs 1 ZPO, § 46 ZPO, § 48 Alt 1 ZPO, § 54 Abs 1 VwGO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ 3/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.08.2014 - AnwZ 3/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

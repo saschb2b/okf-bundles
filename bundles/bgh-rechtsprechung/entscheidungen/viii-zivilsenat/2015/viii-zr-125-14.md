@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 125/14"
 doknr: "KORE308392015"
 normen: ["Art 5 EGV 44/2001, Art 23 Abs 1 S 3 Buchst a EGV 44/2001, Art 23 Abs 1 S 3 Buchst b EGV 44/2001, Art 23 Abs 2 EGV 44/2001, Art 1 Abs 1 EGV 593/2008, Art 4 Abs 1 Buchst b EGV 593/2008, Art 1 Abs 1 Nr 1 UNWaVtrÜbk, Art 3 Abs 2 UNWaVtrÜbk, Art 4 S 2 UNWaVtrÜbk, Art 8 UNWaVtrÜbk, Art 11 UNWaVtrÜbk, Art 14 UNWaVtrÜbk, Art 18 UNWaVtrÜbk, Art 19 Abs 1 UNWaVtrÜbk, Art 19 Abs 3 UNWaVtrÜbk, Art 33 Buchst c UNWaVtrÜbk, Art 81 Abs 1 S 2 UNWaVtrÜbk, § 133 BGB, § 145 BGB, § 148 BGB, § 150 Abs 2 BGB, § 157 BGB, § 177 BGB, § 184 BGB, § 54 HGB, Art 3 Nr 1 Buchst b BGBEG, Art 3 Nr 2 BGBEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:05Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:05Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.03.2015 - VIII ZR 125/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Abgrenzung eines verbindlichen Angebots von der Aufforderung zur Abgabe eines Angebots sowie zur teilweisen Annahmefähigkeit von Angeboten.
@@ -33,8 +39,3 @@ timestamp: 2026-06-22T12:30:05Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 125/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.03.2015 - VIII ZR 125/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

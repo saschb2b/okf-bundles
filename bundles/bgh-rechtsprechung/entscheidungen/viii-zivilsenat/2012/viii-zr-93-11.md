@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 93/11"
 doknr: "JURE120007425"
 normen: ["§ 133 BGB, § 157 BGB, § 307 Abs 1 BGB, § 433 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.03.2012 - VIII ZR 93/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 133 BGB, § 157 BGB, § 307 Abs 1 BGB, § 433 Abs 2 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 93/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.03.2012 - VIII ZR 93/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

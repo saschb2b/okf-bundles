@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:200616UANWZ.BRFG.10.15.0"
 doknr: "KORE313862016"
 normen: ["§ 43c Abs 4 BRAO, § 15 FAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.06.2016 - AnwZ (Brfg) 10/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Ein nur auf der eigenen Homepage veröffentlichter Fachbeitrag ist keine wissenschaftliche Publikation, mit der ein Fachanwalt seine Fortbildungspflicht erfüllen kann.
@@ -24,8 +30,3 @@ Ein nur auf der eigenen Homepage veröffentlichter Fachbeitrag ist keine wissens
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 10/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.06.2016 - AnwZ (Brfg) 10/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

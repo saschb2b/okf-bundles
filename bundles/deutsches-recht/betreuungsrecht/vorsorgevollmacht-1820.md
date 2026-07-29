@@ -5,7 +5,12 @@ description: Mit einer Vorsorgevollmacht bestimmt eine Person im Voraus einen Be
 resource: https://www.gesetze-im-internet.de/bgb/__1820.html
 tags: [betreuungsrecht, vorsorgevollmacht, kontrollbetreuung, vorsorge]
 norm: "§§ 1814 Abs. 3, 1820 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1820.html
+    title: "§ 1820 BGB"
 ---
 
 # Vorsorgevollmacht
@@ -23,7 +28,3 @@ Kann der Vollmachtgeber gegenüber dem Bevollmächtigten seine Rechte nicht mehr
 # Bezug
 
 Verwandt ist die **Betreuungsverfügung** (Wünsche zur Auswahl und Amtsführung eines etwaigen Betreuers) und die [Patientenverfügung](/betreuungsrecht/patientenverfuegung-1827.md) für medizinische Entscheidungen.
-
-# Citations
-
-[1] [§ 1820 BGB](https://www.gesetze-im-internet.de/bgb/__1820.html)

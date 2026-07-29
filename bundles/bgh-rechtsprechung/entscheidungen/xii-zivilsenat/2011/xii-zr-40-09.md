@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 40/09"
 doknr: "KORE302922011"
 normen: ["§ 1375 Abs 1 BGB, § 1376 Abs 2 BGB, § 1378 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.02.2011 - XII ZR 40/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Goodwill einer freiberuflichen Praxis ist als immaterieller Vermögenswert grundsätzlich in den Zugewinnausgleich einzubeziehen .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:27:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 40/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.02.2011 - XII ZR 40/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

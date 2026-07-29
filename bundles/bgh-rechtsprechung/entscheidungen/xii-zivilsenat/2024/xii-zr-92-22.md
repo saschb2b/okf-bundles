@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:120624BXIIZR92.22.0"
 doknr: "KORE304422024"
 normen: ["§ 522 Abs 2 S 1 ZPO, § 522 Abs 2 S 2 ZPO, § 1056 Abs 2 S 1 BGB, § 1967 BGB, Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.06.2024 - XII ZR 92/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der nach § 522 Abs. 2 Satz 1 ZPO gebotene Hinweis auf die beabsichtigte Beschlusszurückweisung der Berufung kann im Hinblick auf den Anspruch des Berufungsklägers auf Gewährung rechtlichen Gehörs verfahrensordnungsgemäß erst nach dem Vorliegen der Berufungsgründe einschließlich etwaiger (zulässig) geltend gemachter neuer Angriffs- und Verteidigungsmittel erteilt werden.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 92/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.06.2024 - XII ZR 92/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

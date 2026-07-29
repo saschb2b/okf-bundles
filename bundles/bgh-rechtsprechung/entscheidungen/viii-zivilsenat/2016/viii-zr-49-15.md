@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:130716UVIIIZR49.15.0"
 doknr: "KORE301162016"
 normen: ["§ 281 Abs 1 BGB, § 323 Abs 1 BGB, § 437 Nr 2 BGB, § 437 Nr 3 BGB, § 440 S 1 Alt 3 BGB, § 475 Abs 1 BGB, § 651 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.07.2016 - VIII ZR 49/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Bei der Beurteilung, ob eine vom Käufer zur Nacherfüllung bestimmte Frist angemessen ist, ist - in den Grenzen des § 475 Abs. 1 BGB - in erster Linie eine Vereinbarung der Parteien maßgeblich (Fortführung von BGH, Urteil vom 6. Februar 1954, II ZR 176/53, BGHZ 12, 267, 269 f.). Dabei darf der Käufer eine vom Verkäufer selbst angegebene Frist als angemessen ansehen, auch wenn sie objektiv zu kurz ist.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 49/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.07.2016 - VIII ZR 49/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 45/13"
 doknr: "KORE600082014"
 normen: ["§ 27 Abs 1 BRAO, § 29a Abs 2 BRAO, § 30 Abs 1 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.07.2014 - AnwZ (Brfg) 45/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 27 Abs 1 BRAO, § 29a Abs 2 BRAO, § 30 Abs 1 BRAO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:32:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 45/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.07.2014 - AnwZ (Brfg) 45/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

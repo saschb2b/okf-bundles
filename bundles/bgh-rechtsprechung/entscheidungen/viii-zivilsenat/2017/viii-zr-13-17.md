@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:081117UVIIIZR13.17.0"
 doknr: "KORE319002017"
 normen: ["§ 307 Abs 1 S 1 BGB, § 307 Abs 2 Nr 1 BGB, § 548 Abs 1 S 1 BGB, § 548 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.11.2017 - VIII ZR 13/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die in einem von dem Vermieter verwendeten Formularmietvertrag enthaltene Bestimmung
@@ -28,8 +34,3 @@ Die in einem von dem Vermieter verwendeten Formularmietvertrag enthaltene Bestim
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 13/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.11.2017 - VIII ZR 13/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

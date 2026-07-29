@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu StVollzG"
 description: "BGH-Entscheidungen zu StVollzG, geordnet nach Vorschrift."
 tags: [register, navigation, stvollzg]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

@@ -9,13 +9,14 @@ datum: 2001-02-19
 aktenzeichen: "VI ZB 3/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:18:09Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:18:09Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2001/VI_ZB___3-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 19.02.2001 - VI ZB 3/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VI ZB 3/01 vom 19.02.2001.
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.02.2001 - VI ZB 3/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2001/VI_ZB___3-01.pdf?__blob=publicationFile&v=1)
-

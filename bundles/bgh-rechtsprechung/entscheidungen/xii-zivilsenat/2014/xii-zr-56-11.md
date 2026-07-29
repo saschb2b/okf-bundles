@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 56/11"
 doknr: "KORE304182014"
 normen: ["§ 305c BGB, § 307 Abs 1 S 2 BGB, § 307 Abs 2 BGB, § 308 Nr 5 BGB, § 310 BGB, § 535 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 10.09.2014 - XII ZR 56/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Umlage von "Verwaltungskosten" in Allgemeinen Geschäftsbedingungen eines Mietvertrages über Geschäftsräume ist weder überraschend im Sinne von § 305c BGB, noch verstößt sie gegen das Transparenzgebot gemäß § 307 Abs. 1 Satz 2 BGB, auch wenn die Klausel keine Bezifferung oder höhenmäßige Begrenzung der Verwaltungskosten enthält (im Anschluss an Senatsurteile vom 9. Dezember 2009, XII ZR 109/08, BGHZ 183, 299 = NJW 2010, 671 und vom 26. September 2012, XII ZR 112/10, NJW 2013, 41).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 56/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 10.09.2014 - XII ZR 56/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

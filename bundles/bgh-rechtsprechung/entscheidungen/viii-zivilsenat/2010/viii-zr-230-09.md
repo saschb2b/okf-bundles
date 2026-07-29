@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 230/09"
 doknr: "KORE313832010"
 normen: ["§ 307 Abs 1 BGB, § 307 Abs 2 BGB, § 565a Abs 1 BGB vom 14.07.1964, Art 229 § 3 Abs 3 BGBEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.06.2010 - VIII ZR 230/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 In einem vor Inkrafttreten des Mietrechtsreformgesetzes abgeschlossenen, auf ursprünglich fünf Jahre befristeten Mietvertrag hält eine formularmäßige Verlängerungsklausel folgenden Inhalts der Inhaltskontrolle nach § 307 Abs. 1, Abs. 2 BGB stand:
@@ -25,8 +31,3 @@ In einem vor Inkrafttreten des Mietrechtsreformgesetzes abgeschlossenen, auf urs
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 230/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.06.2010 - VIII ZR 230/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

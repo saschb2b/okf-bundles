@@ -9,13 +9,14 @@ datum: 2007-07-04
 aktenzeichen: "XII ZB 5/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:34:11Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:34:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2005/XII_ZB___5-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 04.07.2007 - XII ZB 5/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 5/05 vom 04.07.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.07.2007 - XII ZB 5/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2005/XII_ZB___5-05.pdf?__blob=publicationFile&v=1)
-

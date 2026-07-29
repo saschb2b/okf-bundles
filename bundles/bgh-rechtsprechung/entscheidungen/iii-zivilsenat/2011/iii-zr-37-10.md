@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 37/10"
 doknr: "KORE312642011"
 normen: ["§ 204 Abs 1 Nr 1 BGB, § 209 BGB, § 839 BGB, § 96 SGB 5, § 97 SGB 5, § 41 Abs 3 ZO-Ärzte"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.02.2011 - III ZR 37/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die für das Abstimmungsverhalten der von ihr bestellten Mitglieder der Zulassungsgremien (Zulassungsausschuss, Berufungsausschuss) in Haftung genommene Körperschaft trifft mit Rücksicht darauf, dass nach § 41 Abs. 3 Ärzte-ZV über den Hergang der Beratungen und über das Stimmenverhältnis Stillschweigen zu bewahren ist, die Darlegungs- und Beweislast, dass ihre Mitglieder einer rechtswidrig ergangenen (Mehrheits-)Entscheidung des Kollegiums nicht zugestimmt haben .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 37/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.02.2011 - III ZR 37/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

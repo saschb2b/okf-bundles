@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:100620UVIIIZR289.19.0"
 doknr: "KORE308022020"
 normen: ["§ 305 Abs 1 BGB, § 305c Abs 2 BGB, § 309 Nr 5 Buchst a BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.06.2020 - VIII ZR 289/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Bei der Auslegung Allgemeiner Geschäftsbedingungen sind regelmäßig auch Formularklauseln eines "Gesamtklauselwerks", die mit der Klausel inhaltlich zu einer Einheit verbunden sind, zu berücksichtigen (im Anschluss an BGH, Urteile vom 5. November 1991 - XI ZR 246/90, NJW 1992, 180 unter 3 b; vom 10. Februar 1993 - XII ZR 74/91, NJW 1993, 1133 unter II 2 c; vom 14. März 2012 - VIII ZR 202/11, NJW-RR 2012, 1333 Rn. 19 ff.; vom 18. Juli 2012 - VIII ZR 337/11, BGHZ 194, 121 Rn. 18 f.). Mit "Gesamtklauselwerk" ist jedoch grundsätzlich nur der Kontext gemeint, den das Klauselwerk setzt, in dem die auszulegende Allgemeine Geschäftsbedingung aufgeführt ist, nicht dagegen Bestimmungen, die in gesonderten Urkunden niedergelegt sind und auf die die auszulegende Klausel nicht Bezug nimmt.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 289/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.06.2020 - VIII ZR 289/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

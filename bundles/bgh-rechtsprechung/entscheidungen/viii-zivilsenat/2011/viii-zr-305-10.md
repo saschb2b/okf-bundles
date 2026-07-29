@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 305/10"
 doknr: "KORE305732011"
 normen: ["§ 157 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.06.2011 - VIII ZR 305/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Auslegung einer Bestimmung über das Recht des Anbieters zur vorzeitigen Beendigung der Auktion in den Allgemeinen Geschäftsbedingungen für eine Internetauktion  .
@@ -23,8 +29,3 @@ Zur Auslegung einer Bestimmung über das Recht des Anbieters zur vorzeitigen Bee
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 305/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.06.2011 - VIII ZR 305/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

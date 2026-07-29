@@ -4,7 +4,12 @@ title: globals
 description: Flags assignment to or mutation of global variables during render, which breaks render purity.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/globals
 tags: [react, eslint, lint, purity, side-effects]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/globals
+    title: "globals"
 ---
 
 # What it flags
@@ -66,7 +71,3 @@ function Component({ title }) {
   return <div>Page: {title}</div>;
 }
 ```
-
-# Citations
-
-[1] [globals](https://react.dev/reference/eslint-plugin-react-hooks/lints/globals)

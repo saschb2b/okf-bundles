@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:231117UIIIZR60.16.0"
 doknr: "KORE319232017"
 normen: ["§ 823 Abs 1 BGB, § 839 Abs 1 S 1 BGB, Art 34 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.11.2017 - III ZR 60/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die zur Badeaufsicht in einem Schwimmbad eingesetzten Personen sind verpflichtet, den Badebetrieb und damit auch das Geschehen im Wasser zu beobachten und mit regelmäßigen Kontrollblicken darauf zu überprüfen, ob Gefahrensituationen für die Badegäste auftreten. Dabei ist der Standort so zu wählen, dass der gesamte Schwimm- und Sprungbereich überwacht und auch in das Wasser hineingeblickt werden kann (Anschluss an BGH, Urteile vom 2. Oktober 1979, VI ZR 106/78, NJW 1980, 392, 393 und vom 21. März 2000, VI ZR 158/99, NJW 2000, 1946 f). In Notfällen ist für rasche und wirksame Hilfeleistung zu sorgen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:32:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 60/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.11.2017 - III ZR 60/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

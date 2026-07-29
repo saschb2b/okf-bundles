@@ -4,7 +4,14 @@ title: Reactive Scope
 description: The React Compiler's unit of memoization, a group of values created and mutated together plus the reactive inputs they depend on.
 resource: https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md
 tags: [react, react-compiler, reactive-scope, memoization, dependencies, internals]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md
+    title: "React Compiler design goals"
+  - resource: https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Pipeline.ts
+    title: "React Compiler pipeline (Pipeline.ts)"
 ---
 
 # What it is
@@ -41,8 +48,3 @@ Each surviving scope becomes a guarded block in the generated code: a run of [ca
 - [HIR](hir.md): the representation scopes are inferred over.
 - [Effect and mutability model](mutability-model.md): the analysis that decides which values share a scope.
 - [How the compiler works](../how-it-works.md): the full pass sequence.
-
-# Citations
-
-[1] [React Compiler design goals](https://github.com/facebook/react/blob/main/compiler/docs/DESIGN_GOALS.md)
-[2] [React Compiler pipeline (Pipeline.ts)](https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Pipeline.ts)

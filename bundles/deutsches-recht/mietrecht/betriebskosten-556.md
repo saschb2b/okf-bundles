@@ -5,7 +5,12 @@ description: Betriebskosten dürfen nur bei Vereinbarung umgelegt werden und sin
 resource: https://www.gesetze-im-internet.de/bgb/__556.html
 tags: [mietrecht, betriebskosten, nebenkosten, abrechnungsfrist]
 norm: "§ 556 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__556.html
+    title: "§ 556 BGB"
 ---
 
 # Regel
@@ -17,7 +22,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Bezug
 
 Eine formularmäßige Umlagevereinbarung unterliegt der [Inhaltskontrolle](/agb-kontrolle/inhaltskontrolle-307.md). Vorauszahlungen sind Teil der vom Mieter nach [§ 535 Abs. 2](/mietrecht/mietvertrag-pflichten-535.md) geschuldeten Leistung.
-
-# Citations
-
-[1] [§ 556 BGB](https://www.gesetze-im-internet.de/bgb/__556.html)

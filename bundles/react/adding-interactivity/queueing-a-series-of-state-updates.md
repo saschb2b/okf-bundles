@@ -4,7 +4,12 @@ title: Queueing a Series of State Updates
 description: How React batches state updates within an event, and how updater functions queue multiple changes to the same state.
 resource: https://react.dev/learn/queueing-a-series-of-state-updates
 tags: [react, state, batching, updater-function]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/queueing-a-series-of-state-updates
+    title: "Queueing a Series of State Updates"
 ---
 
 # Summary
@@ -102,7 +107,3 @@ setEnabled(prevEnabled => !prevEnabled);
 - Setting state does not change the variable in the existing render, it requests a new render.
 - React processes state updates after event handlers finish running. This is batching.
 - To update some state multiple times in one event, use an updater function like `setNumber(n => n + 1)`.
-
-# Citations
-
-[1] [Queueing a Series of State Updates](https://react.dev/learn/queueing-a-series-of-state-updates)

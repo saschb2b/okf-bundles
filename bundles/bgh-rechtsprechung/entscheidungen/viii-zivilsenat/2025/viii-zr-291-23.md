@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:180625UVIIIZR291.23.0"
 doknr: "KORE717782025"
 normen: ["§ 546a Abs 1 BGB, § 812 Abs 1 S 1 Alt 1 BGB, § 812 Abs 1 S 2 Alt 1 BGB, § 818 Abs 1 BGB, § 818 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:41:14Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:41:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.06.2025 - VIII ZR 291/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Mietsache wird dem Vermieter dann im Sinne des § 546a Abs. 1 BGB nach Beendigung des Mietverhältnisses vorenthalten, wenn - kumulativ - der Mieter die Mietsache nicht zurückgibt und das Unterlassen der Herausgabe dem Willen des Vermieters widerspricht (Bestätigung von Senatsurteil vom 12. Juli 2017 - VIII ZR 214/16, NJW 2017, 2997 Rn. 19, 25; siehe auch BGH, Urteil vom 13. März 2013 - XII ZR 34/12, BGHZ 196, 318 Rn. 23; jeweils m.w.N.).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:41:14Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 291/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.06.2025 - VIII ZR 291/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "WpSt (R) 1/12"
 doknr: "KORE311332012"
 normen: ["§ 61 Abs 1 S 1  WiPrO, § 67 WiPrO, § 68 WiPrO, § 128 Abs 3  WiPrO, § 264 StPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:59Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:59Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.08.2012 - WpSt (R) 1/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Nichtbezahlung einer wegen einer Berufspflichtverletzung verhängten Geldbuße begründet regelmäßig keine gesondert zu ahndende Berufspflichtverletzung.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:59Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen WpSt (R) 1/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.08.2012 - WpSt (R) 1/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

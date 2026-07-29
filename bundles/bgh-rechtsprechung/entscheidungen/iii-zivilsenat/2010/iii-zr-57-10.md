@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 57/10"
 doknr: "KORE301412010"
 normen: ["§ 314 Abs 1 S 1 BGB, § 626 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.11.2010 - III ZR 57/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Vorzeitige Kündigung eines DSL-Vertrags
@@ -25,8 +31,3 @@ Vorzeitige Kündigung eines DSL-Vertrags
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 57/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.11.2010 - III ZR 57/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

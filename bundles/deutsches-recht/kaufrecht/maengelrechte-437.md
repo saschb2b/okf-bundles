@@ -5,7 +5,12 @@ description: Bei einem Mangel kann der Käufer Nacherfüllung verlangen, zurück
 resource: https://www.gesetze-im-internet.de/bgb/__437.html
 tags: [kaufrecht, maengelrechte, gewaehrleistung]
 norm: "§ 437 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__437.html
+    title: "§ 437 BGB"
 ---
 
 # Regel
@@ -19,7 +24,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Struktur (Vorrang der Nacherfüllung)
 
 Die Nacherfüllung ist vorrangig: Rücktritt, Minderung und Schadensersatz statt der Leistung setzen regelmäßig voraus, dass dem Verkäufer zuvor erfolglos eine angemessene Frist zur Nacherfüllung gesetzt wurde (oder diese entbehrlich war). § 437 schafft keine eigenen Voraussetzungen, sondern verknüpft das Kaufrecht mit dem allgemeinen [Leistungsstörungsrecht](/schuldrecht-at/verzug.md).
-
-# Citations
-
-[1] [§ 437 BGB](https://www.gesetze-im-internet.de/bgb/__437.html)

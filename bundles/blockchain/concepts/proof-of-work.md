@@ -3,7 +3,14 @@ type: Consensus Mechanism
 title: Proof of work
 description: Sybil resistance by spending energy: producers race to find a hash below a target.
 tags: [consensus, proof-of-work, mining, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin whitepaper, section 4 (Nakamoto, 2008)"
+  - resource: https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/
+    title: "Proof-of-work (Ethereum.org docs)"
 ---
 
 # What it is
@@ -20,8 +27,3 @@ Proof of work makes block production costly by requiring producers ("miners") to
 # In practice
 
 Bitcoin's [mining](/bitcoin/mining.md) is the canonical example: double-SHA-256, a ~10-minute target, and difficulty retargeting every 2016 blocks. Ethereum used proof of work until it switched to [proof of stake](/concepts/proof-of-stake.md) at [the Merge](/ethereum/proof-of-stake.md). The tradeoffs between the two are laid out in [PoW vs PoS](/comparison/pow-vs-pos.md).
-
-# Citations
-
-[1] [Bitcoin whitepaper, section 4 (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
-[2] [Proof-of-work (Ethereum.org docs)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pow/)

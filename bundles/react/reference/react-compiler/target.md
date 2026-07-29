@@ -4,7 +4,12 @@ title: target
 description: Specifies which React major version the compiler should generate runtime code for.
 resource: https://react.dev/reference/react-compiler/target
 tags: [react, react-compiler, configuration, runtime]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-compiler/target
+    title: "target"
 ---
 
 # Reference
@@ -73,7 +78,3 @@ timestamp: 2026-06-30T12:00:00Z
 - To confirm the correct runtime is used, check the import: `react/compiler-runtime` means the built-in (React 19), `react-compiler-runtime` means the standalone polyfill (React 17/18).
 
 Library authors targeting older React versions should also read [the compiling libraries guide](/reference/react-compiler/compiling-libraries.md). For an overview, see [the React Compiler guide](/react-compiler/react-compiler.md).
-
-# Citations
-
-[1] [target](https://react.dev/reference/react-compiler/target)

@@ -4,7 +4,12 @@ title: Describing the UI
 description: Section landing page for building, customizing, and conditionally displaying React components.
 resource: https://react.dev/learn/describing-the-ui
 tags: [react, ui, components, learn, overview]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/describing-the-ui
+    title: "Describing the UI"
 ---
 
 # Summary
@@ -36,7 +41,3 @@ Read these topic concepts in order:
 - You render lists with `filter()` and `map()`, specifying a `key` for each array item.
 - A pure component minds its own business and returns the same output for the same inputs. Writing components as pure functions avoids a class of baffling bugs.
 - React models component relationships as a render tree, and build tools model module relationships as a dependency tree.
-
-# Citations
-
-[1] [Describing the UI](https://react.dev/learn/describing-the-ui)

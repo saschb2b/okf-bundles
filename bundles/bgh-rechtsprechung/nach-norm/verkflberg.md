@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu VerkFlBerG"
 description: "BGH-Entscheidungen zu VerkFlBerG, geordnet nach Vorschrift."
 tags: [register, navigation, verkflberg]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

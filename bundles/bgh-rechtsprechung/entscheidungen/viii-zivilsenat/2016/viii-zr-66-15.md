@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:030216UVIIIZR66.15.0"
 doknr: "JURE160004092"
 normen: ["§ 558 BGB, § 558a Abs 1 BGB, § 558a Abs 2 Nr 3 BGB, § 558a Abs 2 Nr 4 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:08Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:08Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 03.02.2016 - VIII ZR 66/15 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 558 BGB, § 558a Abs 1 BGB, § 558a Abs 2 Nr 3 BGB, § 558a Abs 2 Nr 4 BGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:08Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 66/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 03.02.2016 - VIII ZR 66/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

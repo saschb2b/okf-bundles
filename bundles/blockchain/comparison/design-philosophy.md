@@ -3,7 +3,14 @@ type: Comparison
 title: Bitcoin vs Ethereum design philosophy
 description: Sound money and minimalism versus a programmable, evolving world computer, and why their choices cohere.
 tags: [comparison, philosophy, bitcoin, ethereum]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/what-is-ethereum/
+    title: "What is Ethereum? (Ethereum.org)"
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin: A Peer-to-Peer Electronic Cash System (Nakamoto, 2008)"
 ---
 
 # One sentence each
@@ -29,8 +36,3 @@ Cardano is useful precisely because it refuses the binary. It keeps Bitcoin's [U
 # The through-line
 
 The pattern is coherence, not superiority: Bitcoin's limited scripting, UTXO ledger, fixed supply, and soft-fork caution all serve credibility and minimal change; Ethereum's Turing-complete EVM, account state, dynamic money, and roadmap all serve programmability and iteration; Cardano's EUTXO, peer-reviewed consensus, and on-chain governance serve a research-first bid to have programmability without giving up UTXO's guarantees. Read against the shared [primitives](/concepts/consensus.md), all three are the same idea, a decentralized ledger secured by [Sybil-resistant consensus](/concepts/consensus.md), placed differently along the [scalability trilemma](/concepts/scalability-trilemma.md) and the money-versus-platform axis. That is exactly what the specific comparisons, [UTXO vs account](/comparison/utxo-vs-account.md) and [PoW vs PoS](/comparison/pow-vs-pos.md), make concrete.
-
-# Citations
-
-[1] [What is Ethereum? (Ethereum.org)](https://ethereum.org/en/what-is-ethereum/)
-[2] [Bitcoin: A Peer-to-Peer Electronic Cash System (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)

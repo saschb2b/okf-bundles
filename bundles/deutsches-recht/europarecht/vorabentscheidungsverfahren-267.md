@@ -5,7 +5,12 @@ description: Nationale Gerichte können dem EuGH Fragen zur Auslegung des Unions
 resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
 tags: [europarecht, vorabentscheidung, eugh, vorlagepflicht]
 norm: "Art. 267 AEUV"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
+    title: "AEUV bei EUR-Lex"
 ---
 
 # Regel (Art. 267 AEUV)
@@ -21,7 +26,3 @@ Der EuGH entscheidet im Wege der Vorabentscheidung über die **Auslegung** der V
 # Bedeutung
 
 Das Verfahren sichert die **einheitliche Auslegung** des Unionsrechts in allen Mitgliedstaaten und ist das zentrale Bindeglied zwischen nationalen Gerichten und dem EuGH. Die Nichtvorlage durch ein letztinstanzliches Gericht kann den gesetzlichen Richter (Art. 101 Abs. 1 Satz 2 GG) verletzen.
-
-# Citations
-
-[1] [AEUV bei EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)

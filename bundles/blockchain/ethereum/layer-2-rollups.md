@@ -4,7 +4,16 @@ title: Layer-2 rollups and blobs
 description: Ethereum's scaling strategy: execute off-chain, post data to L1, and inherit its security.
 resource: https://ethereum.org/en/developers/docs/scaling/
 tags: [ethereum, layer-2, rollups, eip-4844, danksharding]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/developers/docs/scaling/
+    title: "Scaling and rollups (Ethereum.org docs)"
+  - resource: https://ethereum.org/en/roadmap/dencun/
+    title: "Dencun upgrade (Ethereum.org)"
+  - resource: https://ethereum.org/en/roadmap/scaling/
+    title: "Scaling roadmap (Ethereum.org)"
 ---
 
 # Scale off-chain, secure on-chain
@@ -23,9 +32,3 @@ The **Dencun** upgrade (activated March 13, 2024) shipped **EIP-4844 / proto-dan
 # The road ahead
 
 **Danksharding** is the full form, adding data-availability sampling to scale blob capacity far further. [3] The scaling work sits within Ethereum's broader roadmap (Vitalik's canonical phases: the Merge, Surge, Scourge, Verge, Purge, Splurge), though the live roadmap is now organized around goals and dated upgrades (Dencun, Pectra, and later Fusaka) rather than those phase labels. [3]
-
-# Citations
-
-[1] [Scaling and rollups (Ethereum.org docs)](https://ethereum.org/en/developers/docs/scaling/)
-[2] [Dencun upgrade (Ethereum.org)](https://ethereum.org/en/roadmap/dencun/)
-[3] [Scaling roadmap (Ethereum.org)](https://ethereum.org/en/roadmap/scaling/)

@@ -9,13 +9,14 @@ datum: 2007-08-14
 aktenzeichen: "II ZA 4/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:25:02Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:25:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZA___4-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 14.08.2007 - II ZA 4/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: II ZA 4/07 vom 14.08.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.08.2007 - II ZA 4/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/II_ZS/2007/II_ZA___4-07.pdf?__blob=publicationFile&v=1)
-

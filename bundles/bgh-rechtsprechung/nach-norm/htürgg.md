@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu HTürGG"
 description: "BGH-Entscheidungen zu HTürGG, geordnet nach Vorschrift."
 tags: [register, navigation, htürgg]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

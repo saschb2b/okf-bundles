@@ -4,7 +4,12 @@ title: Scaling Up with Reducer and Context
 description: How to combine a reducer with context so state and dispatch reach any component in the tree without prop drilling.
 resource: https://react.dev/learn/scaling-up-with-reducer-and-context
 tags: [react, state, reducer, context]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/scaling-up-with-reducer-and-context
+    title: "Scaling Up with Reducer and Context"
 ---
 
 # Summary
@@ -134,7 +139,3 @@ You can have many such context-reducer pairs in one app for different concerns.
 - To provide state and dispatch to the tree: create two contexts (state and dispatch), provide both from the component that uses the reducer, then read whichever you need from child components.
 - Declutter by moving the reducer, contexts, and provider into a single file, exposing custom Hooks like useTasks and useTasksDispatch.
 - You can have many context-reducer pairs in your app.
-
-# Citations
-
-[1] [Scaling Up with Reducer and Context](https://react.dev/learn/scaling-up-with-reducer-and-context)

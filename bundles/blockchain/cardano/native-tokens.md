@@ -4,7 +4,12 @@ title: Cardano native tokens
 description: A multi-asset ledger where custom tokens are first-class citizens, minted without a smart contract.
 resource: https://docs.cardano.org/
 tags: [cardano, native-tokens, multi-asset]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://docs.cardano.org/about-cardano/new-to-cardano/native-tokens/
+    title: "Native tokens (docs.cardano.org)"
 ---
 
 # Tokens as ledger citizens
@@ -18,7 +23,3 @@ Cardano's ledger is **multi-asset**: custom tokens are handled by the ledger its
 - **Contrast with the [account model](/concepts/account-model.md).** Ethereum's token-as-contract approach is more flexible but pushes correctness and safety into user-written code; Cardano's ledger-level approach trades some flexibility for safety and predictability.
 
 Native multi-asset support was delivered by the **Mary** [hard fork](/cardano/hard-forks.md), part of realizing the programmable-ledger vision alongside [Plutus](/cardano/plutus.md) contracts.
-
-# Citations
-
-[1] [Native tokens (docs.cardano.org)](https://docs.cardano.org/about-cardano/new-to-cardano/native-tokens/)

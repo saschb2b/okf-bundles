@@ -4,7 +4,12 @@ title: renderToReadableStream
 description: Renders a React tree to a Readable Web Stream for streaming server-side rendering.
 resource: https://react.dev/reference/react-dom/server/renderToReadableStream
 tags: [react, react-dom, server, ssr, streaming, web-streams]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/server/renderToReadableStream
+    title: "renderToReadableStream"
 ---
 
 # Reference
@@ -86,7 +91,3 @@ const stream = await renderToReadableStream(<App />, {
 
 - This API depends on Web Streams. For Node.js, use [renderToPipeableStream](/reference/react-dom/server/renderToPipeableStream.md).
 - The Promise rejects only on shell errors. Errors outside the shell reach `onError` but do not reject, since the shell already streamed.
-
-# Citations
-
-[1] [renderToReadableStream](https://react.dev/reference/react-dom/server/renderToReadableStream)

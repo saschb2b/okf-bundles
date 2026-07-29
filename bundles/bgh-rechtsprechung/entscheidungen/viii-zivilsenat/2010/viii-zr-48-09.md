@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 48/09"
 doknr: "KORE302662010"
 normen: ["§ 307 Abs 1 S 1 BGB, § 28 Abs 4 S 3 BVO 2"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.01.2010 - VIII ZR 48/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Außenanstrich von Türen und Fenstern sowie das Abziehen und Wiederherstellen einer Parkettversiegelung sind keine Schönheitsreparaturmaßnahmen im Sinne von § 28 Abs. 4 Satz 3 II. BV  .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:27:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 48/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.01.2010 - VIII ZR 48/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

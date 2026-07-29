@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:140525BXIIZR88.23.0"
 doknr: "KORE714002025"
 normen: ["§ 242 BGB, § 550 S 1 BGB, § 566 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:41:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:41:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.05.2025 - XII ZR 88/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Änderung der im Ursprungsmietvertrag vereinbarten Nebenkostenvorauszahlungen stellt unabhängig von ihrer relativen oder absoluten Höhe eine wesentliche und - jedenfalls soweit sie für mehr als ein Jahr erfolgt und nicht jederzeit vom Vermieter widerrufen werden kann - dem Formzwang des § 550 Satz 1 BGB unterfallende Vertragsänderung dar (im Anschluss an Senatsurteil vom 25. November 2015 - XII ZR 114/14, NZM 2016, 98).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:41:01Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 88/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.05.2025 - XII ZR 88/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:220817BVIIIZR226.16.0"
 doknr: "KORE308482017"
 normen: ["§ 535 BGB, § 536 BGB, Art 103 Abs 1  GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.08.2017 - VIII ZR 226/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Rücksichtnahmepflicht unter Mietern bei (Kinder-)Lärm aus der Nachbarwohnung eines Mehrfamilienhauses.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 226/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.08.2017 - VIII ZR 226/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

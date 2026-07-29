@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:191017UIXZR3.17.0"
 doknr: "KORE320132017"
 normen: ["§ 850k Abs 1 S 1 ZPO, § 850k Abs 1 S 3 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.10.2017 - IX ZR 3/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Vollstreckungsschuldner verfügt nur dann über das Pfändungsschutzkonto, wenn er die kontoführende Bank anweist, einen Zahlungsvorgang auszulösen, und diese den beauftragten Zahlungsvorgang ausführt. Der vergebliche Versuch einer Barabhebung stellt keine Verfügung über den Freibetrag dar.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:32:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 3/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.10.2017 - IX ZR 3/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

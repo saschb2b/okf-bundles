@@ -9,13 +9,14 @@ datum: 2005-05-31
 aktenzeichen: "VIII ZR 222/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:11:51Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:11:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2004/VIII_ZR_222-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 31.05.2005 - VIII ZR 222/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 222/04 vom 31.05.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 31.05.2005 - VIII ZR 222/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2004/VIII_ZR_222-04.pdf?__blob=publicationFile&v=1)
-

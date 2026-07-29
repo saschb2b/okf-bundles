@@ -9,13 +9,14 @@ datum: 2002-05-15
 aktenzeichen: "NotZ 3/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:20:49Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:20:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2002/NotZ___3-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 15.05.2002 - NotZ 3/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: NotZ 3/02 vom 15.05.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.05.2002 - NotZ 3/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2002/NotZ___3-02.pdf?__blob=publicationFile&v=1)
-

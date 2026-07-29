@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:010920BENVR7.19.0"
 doknr: "KORE304192020"
 normen: ["§ 13 Abs 1 EnWG, § 31 EnWG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 01.09.2020 - EnVR 7/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Baltic Cable AB II
@@ -28,8 +34,3 @@ Baltic Cable AB II
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 7/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.09.2020 - EnVR 7/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

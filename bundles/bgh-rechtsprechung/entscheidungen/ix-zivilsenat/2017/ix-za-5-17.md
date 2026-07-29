@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:220317BIXZA5.17.0"
 doknr: "KORE607052017"
 normen: ["§ 317 Abs 4 ZPO, § 329 Abs 1 S 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:08Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:08Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.03.2017 - IX ZA 5/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 317 Abs 4 ZPO, § 329 Abs 1 S 2 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:08Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZA 5/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.03.2017 - IX ZA 5/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

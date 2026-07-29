@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 326/09"
 doknr: "JURE100069927"
 normen: ["§ 252 BGB, § 546a BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.07.2010 - VIII ZR 326/09 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 252 BGB, § 546a BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 326/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.07.2010 - VIII ZR 326/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

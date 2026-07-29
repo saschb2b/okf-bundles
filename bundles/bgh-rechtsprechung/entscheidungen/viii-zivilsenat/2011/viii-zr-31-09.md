@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 31/09"
 doknr: "KORE310832011"
 normen: ["§ 307 BGB, § 310 BGB, § 437 BGB, § 3 EEG 2000, § 5 EEG 2004, § 7 EEG 2000, § 10 EEG 2000, § 12 Abs 4 S 1 EEG 2004, § 21 EEG 2004, § 22 AVBEltV, § 16 NAV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.04.2011 - VIII ZR 31/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das in einem Formularvertrag über die Einspeisung von Strom aus Erneuerbaren Energien zugunsten des Netzbetreibers vereinbarte Blindarbeitsentgelt verstößt weder gegen dessen Verpflichtung, die im EEG vorgeschriebene Mindestvergütung zu zahlen noch ist die Vereinbarung eines solchen Entgelts gemäß § 307 BGB unwirksam       .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 31/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.04.2011 - VIII ZR 31/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

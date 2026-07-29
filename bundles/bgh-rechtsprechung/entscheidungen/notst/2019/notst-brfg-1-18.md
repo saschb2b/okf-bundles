@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:280819BNOTST.BRFG.1.18.0"
 doknr: "KORE313312019"
 normen: ["§ 14 Abs 2 BNotO, § 14 Abs 3 BNotO, § 97 Abs 2 S 1 BNotO, § 97 Abs 4 S 2 BNotO, § 17 Abs 1 BeurkG, § 17 Abs 2a S 2 BeurkG vom 23.07.2002"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.08.2019 - NotSt (Brfg) 1/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zu der planmäßigen und missbräuchlichen Aufspaltung von Kaufverträgen in Angebot und Annahme. Die Auswahl eines Notars mit einem etwas weiter entfernt gelegenen Amtssitz oder die Angabe eines Bauträgers, man habe generell wenig Zeit, kann eine planmäßige Aufspaltung aller von diesem geschlossener Verträge offensichtlich nicht rechtfertigen.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotSt (Brfg) 1/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.08.2019 - NotSt (Brfg) 1/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

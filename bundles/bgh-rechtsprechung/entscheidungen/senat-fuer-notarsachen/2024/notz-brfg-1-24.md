@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:111124BNOTZ.BRFG.1.24.0"
 doknr: "KORE701622025"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.11.2024 - NotZ (Brfg) 1/24 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 (keine ausgewiesen)
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:39:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 1/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.11.2024 - NotZ (Brfg) 1/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

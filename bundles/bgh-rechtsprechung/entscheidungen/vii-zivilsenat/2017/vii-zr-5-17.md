@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:310817UVIIZR5.17.0"
 doknr: "KORE302282017"
 normen: ["§ 157 BGB, § 633 Abs 2 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 31.08.2017 - VII ZR 5/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ob die Parteien eines Werkvertrags eine Beschaffenheitsvereinbarung im Sinne des § 633 Abs. 2 Satz 1 BGB getroffen und welche Beschaffenheit sie gegebenenfalls vereinbart haben, ist durch Auslegung des Werkvertrags zu ermitteln.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 5/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 31.08.2017 - VII ZR 5/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

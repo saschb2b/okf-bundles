@@ -4,7 +4,12 @@ title: immutability
 description: Flags direct mutation of props, state, and other immutable values instead of creating new values.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/immutability
 tags: [react, eslint, lint, state, immutability]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/immutability
+    title: "immutability"
 ---
 
 # What it flags
@@ -58,7 +63,3 @@ setUser({
 # Related
 
 This lint backs the purity rule in [Keeping Components Pure](/describing-the-ui/keeping-components-pure.md), and the same discipline appears in [Updating Objects in State](/adding-interactivity/updating-objects-in-state.md): React state and props must not be mutated in place.
-
-# Citations
-
-[1] [immutability](https://react.dev/reference/eslint-plugin-react-hooks/lints/immutability)

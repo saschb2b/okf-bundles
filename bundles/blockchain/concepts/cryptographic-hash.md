@@ -3,7 +3,14 @@ type: Primitive
 title: Cryptographic hash function
 description: A one-way function mapping arbitrary data to a fixed-size digest, the workhorse primitive of every blockchain.
 tags: [cryptography, hashing, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin: A Peer-to-Peer Electronic Cash System (Nakamoto, 2008)"
+  - resource: https://ethereum.org/en/developers/docs/
+    title: "Cryptographic hash functions (Ethereum.org docs)"
 ---
 
 # What it is
@@ -27,8 +34,3 @@ Hashing is the glue of the whole system, used in at least four places:
 # Where the chains differ
 
 Bitcoin uses **SHA-256** (applied twice, "double SHA-256") for block hashing, mining, and Merkle roots. Ethereum uses **Keccak-256** for hashing in the [EVM](/ethereum/evm.md) and for addresses. The choice is a design decision, not a correctness one: both are collision-resistant 256-bit functions.
-
-# Citations
-
-[1] [Bitcoin: A Peer-to-Peer Electronic Cash System (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
-[2] [Cryptographic hash functions (Ethereum.org docs)](https://ethereum.org/en/developers/docs/)

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 220/10"
 doknr: "KORE303362011"
 normen: ["§ 269 Abs 1 BGB, § 269 Abs 2 BGB, § 439 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.04.2011 - VIII ZR 220/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Erfüllungsort der Nacherfüllung hat im Kaufrecht des Bürgerlichen Gesetzbuches keine eigenständige Regelung erfahren. Für seine Bestimmung gilt daher die allgemeine Vorschrift des § 269 Abs. 1 BGB .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 220/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.04.2011 - VIII ZR 220/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

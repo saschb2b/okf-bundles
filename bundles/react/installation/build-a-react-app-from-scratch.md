@@ -4,7 +4,12 @@ title: Build a React App from Scratch
 description: How to set up a React project from scratch with a build tool, and the application patterns you must solve yourself.
 resource: https://react.dev/learn/build-a-react-app-from-scratch
 tags: [react, vite, parcel, rsbuild, build-tools]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/build-a-react-app-from-scratch
+    title: "Build a React app from Scratch"
 ---
 
 # Summary
@@ -75,7 +80,3 @@ The right strategy per route can improve Time to First Byte, First Contentful Pa
 # Pitfalls
 
 - The problems above are interconnected and can require deep expertise. If you do not want to solve them yourself, [get started with a framework](/installation/creating-a-react-app.md) that provides them out of the box.
-
-# Citations
-
-[1] [Build a React app from Scratch](https://react.dev/learn/build-a-react-app-from-scratch)

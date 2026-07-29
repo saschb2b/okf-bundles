@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:180517BVIIZB38.16.0"
 doknr: "KORE301392017"
 normen: ["§ 766 Abs 1 ZPO, § 767 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:52Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 18.05.2017 - VII ZB 38/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Der Schuldner kann die Aufhebung einer Pfändung nicht im Wege der Vollstreckungserinnerung (§ 766 Abs. 1 ZPO) unter Berufung auf eine vollstreckungsbeschränkende Vereinbarung, mit der die Vollstreckung in den gepfändeten Gegenstand ausgeschlossen wird, erreichen. Insoweit stellt die Vollstreckungsabwehrklage entsprechend § 767 Abs. 1 ZPO einen geeigneten Rechtsbehelf dar.
@@ -24,8 +30,3 @@ Der Schuldner kann die Aufhebung einer Pfändung nicht im Wege der Vollstreckung
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 38/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.05.2017 - VII ZB 38/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 2/11"
 doknr: "KORE311472012"
 normen: ["§ 851c Abs 1 ZPO, § 1228 Abs 1  BGB, § 1228 Abs 2  BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.08.2012 - VII ZB 2/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zugunsten eines Gläubigers einer ihm verpfändeten Forderung aus einem Rentenversicherungsvertrag ist § 851c Abs. 1 ZPO jedenfalls dann anzuwenden, wenn er im Versicherungsvertrag als versicherte Person benannt ist und die Rentenversicherung der Rückdeckung einer ihm als Gesellschafter-Geschäftsführer gegebenen Pensionszusage dient.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:02Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 2/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.08.2012 - VII ZB 2/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

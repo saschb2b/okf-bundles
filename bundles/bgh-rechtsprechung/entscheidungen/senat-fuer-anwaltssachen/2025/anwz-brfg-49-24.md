@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:130325BANWZ.BRFG.49.24.0"
 doknr: "KORE708982025"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.03.2025 - AnwZ (Brfg) 49/24 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 (keine ausgewiesen)
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:40:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 49/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.03.2025 - AnwZ (Brfg) 49/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SachenRBerG"
 description: "BGH-Entscheidungen zu SachenRBerG, geordnet nach Vorschrift."
 tags: [register, navigation, sachenrberg]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

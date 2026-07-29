@@ -9,13 +9,14 @@ datum: 2009-08-12
 aktenzeichen: "VIII ZA 18/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:23:07Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:23:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZA__18-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 12.08.2009 - VIII ZA 18/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZA 18/09 vom 12.08.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.08.2009 - VIII ZA 18/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZA__18-09.pdf?__blob=publicationFile&v=1)
-

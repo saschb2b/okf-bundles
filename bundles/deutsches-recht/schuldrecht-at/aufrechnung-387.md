@@ -5,7 +5,16 @@ description: Schulden zwei Personen einander gleichartige Leistungen, kann jede 
 resource: https://www.gesetze-im-internet.de/bgb/__387.html
 tags: [schuldrecht-at, aufrechnung, gegenforderung, erloeschen]
 norm: "§§ 387, 388, 389, 390, 393, 394 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__387.html
+    title: "§ 387 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__389.html
+    title: "§ 389 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__394.html
+    title: "§ 394 BGB"
 ---
 
 # Aufrechnungslage (§ 387)
@@ -28,9 +37,3 @@ Die Aufrechnung erfolgt durch **Erklärung** gegenüber dem anderen Teil (§ 388
 # Bezug
 
 Die Aufrechnung ist neben der [Erfüllung](/schuldrecht-at/erfuellung-362.md) ein Erlöschensgrund und im [Forderungskonto](/schuldrecht-at/tilgungsreihenfolge-366-367.md) wie eine Zahlung zum Stichtag der Aufrechnungslage zu behandeln.
-
-# Citations
-
-[1] [§ 387 BGB](https://www.gesetze-im-internet.de/bgb/__387.html)
-[2] [§ 389 BGB](https://www.gesetze-im-internet.de/bgb/__389.html)
-[3] [§ 394 BGB](https://www.gesetze-im-internet.de/bgb/__394.html)

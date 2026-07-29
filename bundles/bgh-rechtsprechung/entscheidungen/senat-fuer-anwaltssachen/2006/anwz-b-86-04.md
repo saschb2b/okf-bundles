@@ -9,13 +9,14 @@ datum: 2006-02-03
 aktenzeichen: "AnwZ (B) 86/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:30:32Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:30:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__86-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 03.02.2006 - AnwZ (B) 86/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 86/04 vom 03.02.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.02.2006 - AnwZ (B) 86/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B__86-04.pdf?__blob=publicationFile&v=1)
-

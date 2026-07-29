@@ -5,7 +5,12 @@ description: Geschäftsführer müssen die Sorgfalt eines ordentlichen Geschäft
 resource: https://www.gesetze-im-internet.de/gmbhg/__43.html
 tags: [gesellschaftsrecht, gmbh, geschaeftsfuehrerhaftung, business-judgment]
 norm: "§ 43 GmbHG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gmbhg/__43.html
+    title: "§ 43 GmbHG"
 ---
 
 # Sorgfaltsmaßstab (§ 43 Abs. 1)
@@ -23,7 +28,3 @@ Bei unternehmerischen Entscheidungen besteht ein haftungsfreier Ermessensspielra
 # Bezug
 
 Die Haftung schützt das [Gesellschaftsvermögen](/handels-gesellschaftsrecht/gmbh.md), auf das die Gläubiger wegen der Haftungsbeschränkung allein zugreifen können. Parallelnorm im Aktienrecht ist § 93 AktG.
-
-# Citations
-
-[1] [§ 43 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__43.html)

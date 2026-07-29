@@ -5,7 +5,14 @@ description: Die Reihenfolge, in der eine vorformulierte Klausel auf Einbeziehun
 resource: https://www.gesetze-im-internet.de/bgb/__306.html
 tags: [agb-recht, bgb, pruefschema, klauselkontrolle]
 norm: "§§ 305 bis 310 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__306.html
+    title: "§ 306 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__305.html
+    title: "§§ 305 bis 310 BGB"
 ---
 
 # Schema
@@ -27,8 +34,3 @@ Eine AGB-Klausel wird in dieser Reihenfolge geprüft. Jede Stufe kann die Klause
 # Bezug
 
 Jede Stufe verlinkt in die Einzelnorm. Den Anwendungsbereich (B2B, Verbraucher, ausgenommene Gebiete) regelt übergreifend [§ 310](/agb-kontrolle/anwendungsbereich-310.md).
-
-# Citations
-
-[1] [§ 306 BGB](https://www.gesetze-im-internet.de/bgb/__306.html)
-[2] [§§ 305 bis 310 BGB](https://www.gesetze-im-internet.de/bgb/__305.html)

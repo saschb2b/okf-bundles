@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:301123BIIIZB4.23.0"
 doknr: "KORE303592024"
 normen: ["§ 85 Abs 2 ZPO, § 130a Abs 3 S 1 Alt 2 ZPO, § 130a Abs 4 S 1 Nr 2 ZPO, § 233 S 1 ZPO, § 236 ZPO, § 574 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.11.2023 - III ZB 4/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Elektronisches Dokument; einfache Signatur
@@ -26,8 +32,3 @@ Elektronisches Dokument; einfache Signatur
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 4/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.11.2023 - III ZB 4/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

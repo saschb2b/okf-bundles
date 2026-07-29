@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:190225UVIIIZR138.23.0"
 doknr: "KORE707722025"
 normen: ["§ 249 Abs 1 BGB, § 280 Abs 1 BGB, § 280 Abs 2 BGB, § 286 BGB, § 362 BGB, § 364 Abs 1 BGB, § 2 Abs 1 RDG, § 2 Abs 3 Nr 6 RDG, § 13e Abs 1 RDG, § 15 AktG, Nr 2300 RVG-VV vom 25.06.2021, § 606 ZPO vom 12.07.2018"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.02.2025 - VIII ZR 138/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für das Vorliegen eines nach § 249 Abs. 1 BGB ersatzfähigen Schadens in Gestalt der Belastung mit einer Verbindlichkeit gegenüber einem Dritten kommt es grundsätzlich nicht auf die zwischen dem Geschädigten und dem Dritten (hier: einem Inkassounternehmen im Rahmen des sogenannten Konzerninkassos) getroffenen Vereinbarungen über die Leistungszeit und die Art und Weise der Erfüllung der Verbindlichkeit (hier: einer Inkassovergütung) an.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:40:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 138/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.02.2025 - VIII ZR 138/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

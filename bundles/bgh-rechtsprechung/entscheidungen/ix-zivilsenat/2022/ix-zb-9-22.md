@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:241122BIXZB9.22.0"
 doknr: "KORE619022023"
 normen: ["§ 78 Abs 1 S 1 ZPO, § 114 ZPO, § 117 Abs 2 S 1 ZPO, § 233 ZPO, § 517 ZPO, § 522 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.11.2022 - IX ZB 9/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 78 Abs 1 S 1 ZPO, § 114 ZPO, § 117 Abs 2 S 1 ZPO, § 233 ZPO, § 517 ZPO, § 522 Abs 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 9/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.11.2022 - IX ZB 9/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

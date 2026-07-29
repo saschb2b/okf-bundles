@@ -4,7 +4,12 @@ title: "'use server'"
 description: The "use server" directive marks server-side async functions that can be called from client-side code.
 resource: https://react.dev/reference/rsc/use-server
 tags: [react, rsc, directive, server-functions, security]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/rsc/use-server
+    title: "'use server' directive"
 ---
 
 # Reference
@@ -88,7 +93,3 @@ const onClick = () => {
 - The functions this directive creates: [Server Functions](/reference/rsc/server-functions.md).
 - Where they run: [Server Components](/reference/rsc/server-components.md). The client-side counterpart directive is [`"use client"`](/reference/rsc/use-client.md).
 - Pending state and forms: [`useActionState`](/reference/react/hooks/useActionState.md), [`useTransition`](/reference/react/hooks/useTransition.md).
-
-# Citations
-
-[1] ['use server' directive](https://react.dev/reference/rsc/use-server)

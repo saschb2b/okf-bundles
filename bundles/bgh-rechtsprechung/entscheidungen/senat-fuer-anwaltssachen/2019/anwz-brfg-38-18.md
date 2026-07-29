@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:300919UANWZ.BRFG.38.18.0"
 doknr: "KORE313382019"
 normen: ["§ 7 Nr 8 BRAO, § 46a Abs 1 S 1 Nr 2 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.09.2019 - AnwZ (Brfg) 38/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Zulassung als Syndikusrechtsanwalt scheidet aus, wenn der Antragsteller am Erlass hoheitlicher Maßnahmen mit Entscheidungsbefugnis beteiligt ist. Es kommt dabei weder auf den Umfang der hoheitlichen Tätigkeit im Verhältnis zur Gesamttätigkeit noch darauf an, ob der Antragsteller als Entscheidungsträger nach außen auftritt oder erkennbar ist.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 38/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.09.2019 - AnwZ (Brfg) 38/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

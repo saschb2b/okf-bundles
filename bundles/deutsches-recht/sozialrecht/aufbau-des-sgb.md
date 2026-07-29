@@ -5,7 +5,12 @@ description: Das Sozialrecht ist im Sozialgesetzbuch in mehreren Büchern gerege
 resource: https://www.gesetze-im-internet.de/sgb_1/
 tags: [sozialrecht, sgb, sozialrechtsweg, sozialleistungen]
 norm: "SGB I bis XII"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_1/
+    title: "SGB I"
 ---
 
 # Die Bücher des SGB
@@ -25,7 +30,3 @@ Sozialleistungen verlangen einen gesetzlichen Anspruch; vielfach gilt der **Nach
 # Rechtsweg
 
 Streitigkeiten in Angelegenheiten der Sozialversicherung, der Grundsicherung und weiterer Bereiche entscheidet die **Sozialgerichtsbarkeit** (Sozialgericht, Landessozialgericht, Bundessozialgericht) im Verfahren nach dem [SGG](/sozialrecht/sozialgerichtliches-verfahren-sgg.md).
-
-# Citations
-
-[1] [SGB I](https://www.gesetze-im-internet.de/sgb_1/)

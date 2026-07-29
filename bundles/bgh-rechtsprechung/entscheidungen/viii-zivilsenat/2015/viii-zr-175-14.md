@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 175/14"
 doknr: "KORE312832015"
 normen: ["§ 276 BGB, § 278 BGB, § 286 Abs 4 BGB, § 535 BGB, § 543 Abs 1 BGB, § 543 Abs 2 S 1 Nr 3 BGB, § 569 Abs 3 Nr 2 S 1 BGB, § 573 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.02.2015 - VIII ZR 175/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Dem für einen Mietzahlungsverzug des Mieters gemäß § 286 Abs. 4 BGB erforderlichen Vertretenmüssen steht nicht entgegen, dass er, um die Miete entrichten zu können, auf Sozialleistungen einer öffentlichen Stelle angewiesen ist und diese Leistungen rechtzeitig beantragt hat.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 175/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.02.2015 - VIII ZR 175/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

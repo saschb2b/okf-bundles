@@ -5,7 +5,14 @@ description: Vor Anfechtungs- und Verpflichtungsklage sind Rechtmäßigkeit und 
 resource: https://www.gesetze-im-internet.de/vwgo/__68.html
 tags: [verwaltungsrecht, widerspruch, vorverfahren, vwgo]
 norm: "§§ 68 bis 73 VwGO"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/vwgo/__68.html
+    title: "§ 68 VwGO"
+  - resource: https://www.gesetze-im-internet.de/vwgo/__70.html
+    title: "§ 70 VwGO"
 ---
 
 # Regel (§ 68)
@@ -20,8 +27,3 @@ Vor Erhebung der [Anfechtungsklage](/verwaltungsrecht/klagearten-42-vwgo.md) sin
 # Einschränkungen
 
 § 68 Abs. 1 Satz 2 lässt zu, dass ein Gesetz das Vorverfahren entbehrlich macht. Zahlreiche Länder haben es durch Landesgesetz für weite Bereiche **abgeschafft oder eingeschränkt**; ob ein Widerspruch statthaft ist, richtet sich daher nach dem jeweiligen Landesrecht.
-
-# Citations
-
-[1] [§ 68 VwGO](https://www.gesetze-im-internet.de/vwgo/__68.html)
-[2] [§ 70 VwGO](https://www.gesetze-im-internet.de/vwgo/__70.html)

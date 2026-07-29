@@ -4,7 +4,12 @@ title: useState
 description: React Hook that adds a local state variable to a component.
 resource: https://react.dev/reference/react/useState
 tags: [react, hooks, state, reactivity]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useState
+    title: "useState"
 ---
 
 # Reference
@@ -67,7 +72,3 @@ State is a component's memory. See the guide [State: A Component's Memory](/addi
 - In Strict Mode, React calls your updater function twice in development.
 - The `set` function has a stable identity, so it is often omitted from Effect dependencies.
 - To store a function in state, wrap it: `useState(() => someFn)` and `setFn(() => someOtherFn)`. A bare function is treated as an initializer or updater and gets called.
-
-# Citations
-
-[1] [useState](https://react.dev/reference/react/useState)

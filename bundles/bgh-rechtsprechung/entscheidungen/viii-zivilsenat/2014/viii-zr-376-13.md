@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 376/13"
 doknr: "KORE303952014"
 normen: ["§ 133 BGB, § 157 BGB, § 535 BGB, § 549 Abs 1 BGB, § 578 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.07.2014 - VIII ZR 376/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein einheitliches Mietverhältnis über Wohnräume und Geschäftsräume ist zwingend entweder als Wohnraummietverhältnis oder als Mietverhältnis über andere Räume zu bewerten. Für die rechtliche Einordnung ist entscheidend, welche Nutzungsart nach den getroffenen Vereinbarungen überwiegt (insoweit Bestätigung von BGH, Urteil vom 16. April 1986, VIII ZR 60/85, NJW-RR 1986, 877). Dabei ist maßgebend auf die Umstände des Einzelfalls abzustellen, wobei der Tatrichter beim Fehlen ausdrücklicher Abreden auf Indizien zurückgreifen kann.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 376/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.07.2014 - VIII ZR 376/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

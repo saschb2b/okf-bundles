@@ -5,7 +5,14 @@ description: Der Schuldner hat Vorsatz und Fahrlässigkeit zu vertreten; Fahrlä
 resource: https://www.gesetze-im-internet.de/bgb/__276.html
 tags: [schuldrecht-at, vertretenmuessen, verschulden, fahrlaessigkeit, erfuellungsgehilfe]
 norm: "§§ 276 bis 278 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__276.html
+    title: "§ 276 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__278.html
+    title: "§ 278 BGB"
 ---
 
 # Regel
@@ -23,8 +30,3 @@ Der Schuldner hat ein Verschulden seines gesetzlichen Vertreters und der Persone
 # Bezug
 
 Das Vertretenmüssen ist Tatbestandsmerkmal des [Schadensersatzes nach § 280](/schuldrecht-at/pflichtverletzung-280.md) und wird dort zu Lasten des Schuldners vermutet.
-
-# Citations
-
-[1] [§ 276 BGB](https://www.gesetze-im-internet.de/bgb/__276.html)
-[2] [§ 278 BGB](https://www.gesetze-im-internet.de/bgb/__278.html)

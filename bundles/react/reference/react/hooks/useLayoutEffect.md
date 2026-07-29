@@ -4,7 +4,12 @@ title: useLayoutEffect
 description: Version of useEffect that fires synchronously before the browser repaints the screen.
 resource: https://react.dev/reference/react/useLayoutEffect
 tags: [react, hooks, effects, layout]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useLayoutEffect
+    title: "useLayoutEffect"
 ---
 
 # Reference
@@ -60,7 +65,3 @@ Key difference from `useEffect`: `useLayoutEffect` blocks the browser from repai
 - Effects only run on the client, not during server rendering. On the server `useLayoutEffect` does nothing and warns; mark the component client-only or fall back to `useEffect` if flicker is acceptable.
 - The code inside `useLayoutEffect` and all state updates it schedules block the browser from repainting. Used excessively, this makes the app slow. Prefer `useEffect`.
 - If you trigger a state update inside `useLayoutEffect`, React executes all remaining Effects immediately, including `useEffect`.
-
-# Citations
-
-[1] [useLayoutEffect](https://react.dev/reference/react/useLayoutEffect)

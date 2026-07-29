@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:100221UXIIZR26.20.0"
 doknr: "KORE301142021"
 normen: ["§ 126 Abs 1 BGB, § 126 Abs 2 BGB, § 535 BGB, § 550 S 1 BGB, § 578 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.02.2021 - XII ZR 26/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Rechtsnatur eines Vertrags über die Aufstellung eines Geldautomaten (im Anschluss an Senatsurteil vom 4. November 2020 - XII ZR 104/19, NZM 2020, 1111).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 26/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.02.2021 - XII ZR 26/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

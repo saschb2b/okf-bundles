@@ -5,7 +5,14 @@ description: Der Vermieter von Wohnraum kann nur bei berechtigtem Interesse kün
 resource: https://www.gesetze-im-internet.de/bgb/__573.html
 tags: [mietrecht, kuendigung, eigenbedarf, berechtigtes-interesse]
 norm: "§§ 573, 573c BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__573.html
+    title: "§ 573 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__573c.html
+    title: "§ 573c BGB"
 ---
 
 # Berechtigtes Interesse (§ 573)
@@ -29,8 +36,3 @@ Gegen eine wirksame Kündigung kann der Mieter unter Härtegesichtspunkten die F
 # Siehe auch
 
 Die Kündigung beendet das Mietverhältnis aus dem [Mietvertrag](/mietrecht/mietvertrag-pflichten-535.md).
-
-# Citations
-
-[1] [§ 573 BGB](https://www.gesetze-im-internet.de/bgb/__573.html)
-[2] [§ 573c BGB](https://www.gesetze-im-internet.de/bgb/__573c.html)

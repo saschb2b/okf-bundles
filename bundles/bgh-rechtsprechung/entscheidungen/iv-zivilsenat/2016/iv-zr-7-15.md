@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:141216UIVZR7.15.0"
 doknr: "KORE312512017"
 normen: ["§ 125 S 1  BGB, § 134 BGB, § 139 BGB, § 817 S 2 BGB, § 1 Abs 2 Nr 2 SchwarzArbG, § 15 Abs 4 S 1  GmbHG, § 370 AO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.12.2016 - IV ZR 7/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist ein Vertrag gemäß §§ 134, 139 BGB unwirksam, weil mit einer vertraglichen Regelung (hier: Rückdatierung) eine Steuerverkürzung beabsichtigt war, so steht § 817 Satz 2 BGB der Rückforderung einer erbrachten Leistung nur insoweit entgegen, wie diese Leistung dem Vertragspartner gerade als Gegenleistung für die steuerverkürzende Abrede zufließen sollte.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV ZR 7/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.12.2016 - IV ZR 7/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

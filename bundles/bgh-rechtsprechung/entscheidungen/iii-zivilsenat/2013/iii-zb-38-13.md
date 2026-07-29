@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 38/13"
 doknr: "KORE312062013"
 normen: ["§ 485 Abs 2 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.11.2013 - III ZB 38/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Gegenstand eines Antrages auf schriftliche Begutachtung durch einen Sachverständigen gemäß § 485 Abs. 2 Nr. 1 ZPO kann nicht die Begutachtung darüber sein, ob dem Antragsteller durch das Verhalten des Antragsgegners Gewinne in einer bestimmten Mindesthöhe entgangen sind.
@@ -23,8 +29,3 @@ Gegenstand eines Antrages auf schriftliche Begutachtung durch einen Sachverstän
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 38/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.11.2013 - III ZB 38/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

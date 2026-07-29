@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (B) 79/09"
 doknr: "JURE100055435"
 normen: ["§ 14 Abs 2 Nr 7 BRAO, § 259 Abs 1 S 2 InsO, § 291 Abs 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.01.2010 - AnwZ (B) 79/09 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 14 Abs 2 Nr 7 BRAO, § 259 Abs 1 S 2 InsO, § 291 Abs 1 InsO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (B) 79/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.01.2010 - AnwZ (B) 79/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 20/11"
 doknr: "JURE110023113"
 normen: ["§ 14 Abs 2 Nr 7 BRAO, § 248 InsO, § 291 Abs 1 InsO, § 308 InsO, § 915 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.10.2011 - AnwZ (Brfg) 20/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 14 Abs 2 Nr 7 BRAO, § 248 InsO, § 291 Abs 1 InsO, § 308 InsO, § 915 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:10Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 20/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.10.2011 - AnwZ (Brfg) 20/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

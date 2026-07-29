@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:190717UVIIIZR268.15.0"
 doknr: "KORE313592017"
 normen: ["§ 24 Abs 3 S 1 AVBFernwärmeV vom 20.06.1980, § 24 Abs 4 S 1 AVBFernwärmeV vom 04.11.2010"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.07.2017 - VIII ZR 268/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 24 Abs. 4 Satz 1 AVBFernwärmeV ist dahin (erweiternd) auszulegen, dass ein Fernwärmeversorgungsunternehmen, welches die von ihm bereitgestellte Fernwärme als solche von einem Vorlieferanten bezieht, seine mit dem Endkunden vereinbarte Preisanpassungsklausel so auszugestalten hat, dass sie an die tatsächliche Entwicklung der eigenen Wärmebezugskosten - und nicht an die Brennstoffkosten des Vorlieferanten - anknüpft.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:31:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 268/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.07.2017 - VIII ZR 268/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

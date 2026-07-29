@@ -5,7 +5,12 @@ description: Unionsrecht genießt Anwendungsvorrang vor entgegenstehendem nation
 resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT
 tags: [europarecht, vorrang, unmittelbare-wirkung, eugh]
 norm: "Art. 4 Abs. 3 EUV; EuGH-Rechtsprechung"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016M/TXT
+    title: "EUV bei EUR-Lex"
 ---
 
 # Anwendungsvorrang
@@ -19,7 +24,3 @@ Bestimmungen des Unionsrechts können **unmittelbar** Rechte des Einzelnen begr�
 # Bezug
 
 Die einheitliche Auslegung und die Verwerfung unionsrechtswidriger Normen sichert das [Vorabentscheidungsverfahren](/europarecht/vorabentscheidungsverfahren-267.md). Die Pflicht zur loyalen Zusammenarbeit folgt aus Art. 4 Abs. 3 EUV.
-
-# Citations
-
-[1] [EUV bei EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016M/TXT)

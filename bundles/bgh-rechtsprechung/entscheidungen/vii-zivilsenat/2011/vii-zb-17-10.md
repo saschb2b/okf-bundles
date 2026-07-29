@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 17/10"
 doknr: "KORE305522011"
 normen: ["§ 829 ZPO, § 242 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:18Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:18Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.05.2011 - VII ZB 17/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Pfändung des Geldentschädigungsanspruchs eines Strafgefangenen wegen menschenunwürdiger Haftbedingungen durch den Staat ist unzulässig .
@@ -23,8 +29,3 @@ Die Pfändung des Geldentschädigungsanspruchs eines Strafgefangenen wegen mensc
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 17/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.05.2011 - VII ZB 17/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

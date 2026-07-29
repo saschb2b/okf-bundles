@@ -4,7 +4,12 @@ title: Children
 description: Legacy API for manipulating and transforming the children prop. Using Children is uncommon and fragile. Prefer exposing components, accepting array props, or render props.
 resource: https://react.dev/reference/react/Children
 tags: [react, legacy, children, jsx, api]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/Children
+    title: "Children"
 ---
 
 # Legacy notice
@@ -95,6 +100,3 @@ result.reverse();
 - Use a render prop. Pass a function that returns JSX (for example `renderContent`) and call it where needed.
 
 `cloneElement` is often used together with `Children.map`; see [cloneElement](/reference/react/legacy/cloneElement.md), which is also legacy. To build elements programmatically, see [createElement](/reference/react/legacy/createElement.md).
-
-# Citations
-[1] [Children](https://react.dev/reference/react/Children)

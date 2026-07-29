@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:100123BVIIIZR9.21.0"
 doknr: "KORE303772023"
 normen: ["§ 218 Abs 1 BGB, § 346 BGB, § 437 Nr 2 BGB, § 438 Abs 3 S 1 BGB, § 826 BGB, Art 103 Abs 1 GG, § 138 Abs 1 ZPO, § 138 Abs 2 ZPO, § 543 Abs 2 S 1 Nr 2 Alt 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.01.2023 - VIII ZR 9/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Verletzung des Anspruchs der Partei auf rechtliches Gehör gemäß Art. 103 Abs. 1 GG durch überspannte Substantiierungsanforderungen hinsichtlich des zur Darlegung einer Arglist des Verkäufers eines vom sogenannten Abgasskandal betroffenen Fahrzeugs gehaltenen Vortrags zur Prüfstandsbezogenheit der Kühlmittel-Solltemperatur-Regelung.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 9/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.01.2023 - VIII ZR 9/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 6/14"
 doknr: "JURE140011640"
 normen: ["§ 14 Abs 2 Nr 7 BRAO, § 36 Abs 2 BRAO vom 30.07.2009, § 36a Abs 3 BRAO vom 26.03.2007"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 04.06.2014 - AnwZ (Brfg) 6/14 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 14 Abs 2 Nr 7 BRAO, § 36 Abs 2 BRAO vom 30.07.2009, § 36a Abs 3 BRAO vom 26.03.2007
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 6/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.06.2014 - AnwZ (Brfg) 6/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

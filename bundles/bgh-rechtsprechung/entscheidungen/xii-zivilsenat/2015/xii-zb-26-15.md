@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 26/15"
 doknr: "KORE301472015"
 normen: ["§ 1603 BGB, § 1610 BGB, § 61 SGB 12, § 93 SGB 12, §§ 93ff SGB 12"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.10.2015 - XII ZB 26/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Unterhaltsbedarf des Elternteils bestimmt sich grundsätzlich durch seine Unterbringung in einem Heim und deckt sich regelmäßig mit den dort anfallenden Kosten (im Anschluss an Senatsurteil vom 21. November 2012, XII ZR 150/10, FamRZ 2013, 203 Rn. 15 mwN).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:14:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 26/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.10.2015 - XII ZB 26/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

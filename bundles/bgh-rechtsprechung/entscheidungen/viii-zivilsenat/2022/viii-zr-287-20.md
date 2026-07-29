@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:010622UVIIIZR287.20.0"
 doknr: "KORE301512022"
 normen: ["§ 134 BGB, § 306 BGB, § 24 Abs 4 S 1 AVBFernwärmeV vom 04.11.2010, § 24 Abs 4 S 2 AVBFernwärmeV vom 04.11.2010, Art 6 Abs 1 EWGRL 13/93"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.06.2022 - VIII ZR 287/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei Preisänderungsklauseln in Fernwärmelieferungsverträgen gebietet das Transparenzgebot in § 24 Abs. 4 Satz 2 AVBFernwärmeV eine Erläuterung der Zusammensetzung der Bezugspreise des Fernwärmeversorgungsunternehmens, also insbesondere der diesen zugrundeliegenden vertraglichen und preislichen Bestimmungen oder auch die namentliche Bezeichnung des Bezugslieferanten, nicht. Diese Gesichtspunkte können allerdings für die Prüfung der inhaltlichen Angemessenheit von gegenüber den Endkunden verwendeten Preisänderungsklauseln nach § 24 Abs. 4 Satz 1 AVBFernwärmeV von Bedeutung sein.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 287/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.06.2022 - VIII ZR 287/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,18 @@ description: Die Staatsanwaltschaft muss bei zureichenden Anhaltspunkten ermitte
 resource: https://www.gesetze-im-internet.de/stpo/__170.html
 tags: [strafprozess, legalitaetsprinzip, anklage, opportunitaet, ermittlungsverfahren, eroeffnungsbeschluss]
 norm: "§§ 152, 160, 170, 153, 153a, 199, 203 StPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stpo/__170.html
+    title: "§ 170 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__152.html
+    title: "§ 152 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__153a.html
+    title: "§ 153a StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__203.html
+    title: "§ 203 StPO"
 ---
 
 # Legalitätsprinzip (§ 152)
@@ -26,10 +37,3 @@ Das Legalitätsprinzip wird beim Opportunitätsprinzip durchbrochen: Bei **gerin
 # Bezug
 
 Der Beschuldigte hat im Ermittlungsverfahren bereits die [Belehrungs- und Verteidigungsrechte](/strafprozess/beschuldigtenrechte-und-belehrung-136.md); die Verfolgung muss eine [Straftat](/strafrecht-at/aufbau-der-straftat.md) im materiellen Sinn betreffen.
-
-# Citations
-
-[1] [§ 170 StPO](https://www.gesetze-im-internet.de/stpo/__170.html)
-[2] [§ 152 StPO](https://www.gesetze-im-internet.de/stpo/__152.html)
-[3] [§ 153a StPO](https://www.gesetze-im-internet.de/stpo/__153a.html)
-[4] [§ 203 StPO](https://www.gesetze-im-internet.de/stpo/__203.html)

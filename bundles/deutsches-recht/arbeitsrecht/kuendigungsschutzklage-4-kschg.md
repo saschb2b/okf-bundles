@@ -5,7 +5,14 @@ description: Wer die Unwirksamkeit einer Kündigung geltend machen will, muss bi
 resource: https://www.gesetze-im-internet.de/kschg/__4.html
 tags: [arbeitsrecht, kuendigungsschutzklage, klagefrist, praeklusion]
 norm: "§§ 4, 7 KSchG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/kschg/__4.html
+    title: "§ 4 KSchG"
+  - resource: https://www.gesetze-im-internet.de/kschg/__7.html
+    title: "§ 7 KSchG"
 ---
 
 # Regel (§ 4 KSchG)
@@ -19,8 +26,3 @@ Wird die Rechtsunwirksamkeit nicht rechtzeitig geltend gemacht, **gilt die Künd
 # Reichweite
 
 Die Frist gilt nicht nur für die fehlende soziale Rechtfertigung nach [§ 1 KSchG](/arbeitsrecht/kuendigungsschutz-1-kschg.md), sondern für nahezu alle Unwirksamkeitsgründe, auch außerhalb des KSchG-Anwendungsbereichs, und über § 13 KSchG auch für die [außerordentliche Kündigung](/arbeitsrecht/ausserordentliche-kuendigung-626.md). Eine verspätete Klage kann nur unter den engen Voraussetzungen des § 5 KSchG nachträglich zugelassen werden.
-
-# Citations
-
-[1] [§ 4 KSchG](https://www.gesetze-im-internet.de/kschg/__4.html)
-[2] [§ 7 KSchG](https://www.gesetze-im-internet.de/kschg/__7.html)

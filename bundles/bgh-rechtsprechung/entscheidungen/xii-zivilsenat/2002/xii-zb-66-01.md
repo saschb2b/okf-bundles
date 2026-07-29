@@ -9,13 +9,14 @@ datum: 2002-01-23
 aktenzeichen: "XII ZB 66/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:20:04Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:20:04Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2001/XII_ZB__66-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 23.01.2002 - XII ZB 66/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZB 66/01 vom 23.01.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.01.2002 - XII ZB 66/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2001/XII_ZB__66-01.pdf?__blob=publicationFile&v=1)
-

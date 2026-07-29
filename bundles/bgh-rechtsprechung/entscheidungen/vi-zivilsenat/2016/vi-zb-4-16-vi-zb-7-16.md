@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:260416BVIZB4.16.0"
 doknr: "KORE300912016"
 normen: ["§ 139 ZPO, § 234 ZPO, § 236 Abs 2 ZPO, § 294 ZPO, § 574 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.04.2016 - VI ZB 4/16, VI ZB 7/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Rechtsanwalt hat bei der Versendung fristgebundener Schriftsätze per Telefax durch organisatorische Vorkehrungen sicherzustellen, dass die Telefax-Nummer des angeschriebenen Gerichts verwendet wird. Dazu gehört die Anweisung an das Büropersonal, dass die in einem Sendebericht ausgewiesene Faxnummer nach Ausdruck noch einmal auf ihre Zuordnung zu dem angeschriebenen Gericht zu überprüfen ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZB 4/16, VI ZB 7/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.04.2016 - VI ZB 4/16, VI ZB 7/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

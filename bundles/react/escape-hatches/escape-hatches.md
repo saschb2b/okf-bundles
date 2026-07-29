@@ -4,7 +4,12 @@ title: Escape Hatches
 description: Section landing for React features that step outside React to connect with external systems via refs, Effects, and custom Hooks.
 resource: https://react.dev/learn/escape-hatches
 tags: [react, escape-hatches, refs, effects, custom-hooks]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/escape-hatches
+    title: "Escape Hatches"
 ---
 
 # Summary
@@ -32,7 +37,3 @@ Some components need to control and synchronize with systems outside of React: f
 - **Separating events from Effects.** All code inside Effects is reactive. Code inside Effect Events is not, letting you prevent some values from re-triggering Effects.
 - **Removing Effect dependencies.** The dependency list describes your code, you do not choose it. Unnecessary dependencies can cause an Effect to run too often or loop infinitely. To change the list, change the code.
 - **Reusing logic with custom Hooks.** Build your own Hooks for specific needs, compose them, pass data between them, and reuse them. As an app grows you write fewer Effects by hand.
-
-# Citations
-
-[1] [Escape Hatches](https://react.dev/learn/escape-hatches)

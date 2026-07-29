@@ -4,7 +4,16 @@ title: Production Experience
 description: What adopting teams actually reported: the boring compounding wins, and the silent opt-out failure mode where components quietly stop being memoized.
 resource: https://saschb2b.com/blog/react-compiler-year-in-review
 tags: [react, react-compiler, production, case-study, debugging, silent-failure]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://saschb2b.com/blog/react-compiler-year-in-review
+    title: "The React Compiler at Eighteen Months"
+  - resource: https://react.dev/blog/2025/10/07/react-compiler-1
+    title: "React Compiler v1.0"
+  - resource: https://react.dev/learn/react-compiler/debugging
+    title: "Debugging and Troubleshooting"
 ---
 
 # The boring wins
@@ -44,9 +53,3 @@ New apps get the wins for free. Existing apps do the work: the compiler makes pr
 - [Debugging](debugging.md): the workflow for isolating a compiler-related runtime issue.
 - [Linting for the compiler](linting.md): catching silent opt-outs before they ship.
 - [Adoption timeline](adoption-timeline.md): how these reports fit the two-year arc.
-
-# Citations
-
-[1] [The React Compiler at Eighteen Months](https://saschb2b.com/blog/react-compiler-year-in-review)
-[2] [React Compiler v1.0](https://react.dev/blog/2025/10/07/react-compiler-1)
-[3] [Debugging and Troubleshooting](https://react.dev/learn/react-compiler/debugging)

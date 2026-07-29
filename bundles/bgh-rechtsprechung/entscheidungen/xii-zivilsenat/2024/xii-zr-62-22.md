@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:280824BXIIZR62.22.0"
 doknr: "KORE704262024"
 normen: ["§ 415 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.08.2024 - XII ZR 62/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Sind öffentliche Urkunden im Sinne von § 415 Abs. 1 ZPO echt und mangelfrei, erbringen sie den vollen Beweis dafür, dass die Erklärung des Urkundsbeteiligten mit dem niedergelegten Inhalt so, wie beurkundet und nicht anders, abgegeben wurde.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:39:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 62/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.08.2024 - XII ZR 62/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

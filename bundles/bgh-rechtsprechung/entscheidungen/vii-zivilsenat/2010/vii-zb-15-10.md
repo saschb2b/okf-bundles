@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 15/10"
 doknr: "KORE308952010"
 normen: ["§ 15a Abs 2 RVG, § 104 ZPO, Nr 2300 RVG-VV, Nr 3100 RVG-VV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.10.2010 - VII ZB 15/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Auch in Altfällen ist eine Geschäftsgebühr nur unter den Voraussetzungen des § 15a Abs. 2 RVG auf die Verfahrensgebühr anzurechnen (im Anschluss an BGH, Beschluss vom 9. Dezember 2009, XII ZB 175/07, FamRZ 2010, 456) .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 15/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.10.2010 - VII ZB 15/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

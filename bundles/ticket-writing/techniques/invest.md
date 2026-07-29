@@ -4,7 +4,12 @@ title: INVEST
 description: "Bill Wake's six-point checklist for a well-formed user story: Independent, Negotiable, Valuable, Estimable, Small, Testable."
 resource: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
 tags: [user-stories, quality-checklist, slicing]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
+    title: "INVEST in Good Stories, and SMART Tasks (Bill Wake)"
 ---
 
 # Definition
@@ -27,7 +32,3 @@ A good story is:
 # Notes
 
 Origin: Bill Wake, 2003. The same article gives the cake metaphor behind [vertical slicing](/techniques/vertical-slicing.md). See the [reference](/references/invest-wake.md).
-
-# Citations
-
-[1] [INVEST in Good Stories, and SMART Tasks (Bill Wake)](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)

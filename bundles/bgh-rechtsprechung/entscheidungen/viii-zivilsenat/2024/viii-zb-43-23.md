@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:300124BVIIIZB43.23.0"
 doknr: "KORE303992024"
 normen: ["§ 307 Abs 1 S 1 BGB, § 307 Abs 1 S 2 BGB, § 307 Abs 2 Nr 1 BGB, § 535 Abs 1 S 2 BGB, § 91a ZPO, § 574 Abs 3 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.01.2024 - VIII ZB 43/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Gegen eine Kostenentscheidung nach § 91a ZPO darf die Rechtsbeschwerde nicht aus materiell-rechtlichen Gründen zugelassen werden, da es nicht Zweck des Kostenverfahrens ist, Rechtsfragen von grundsätzlicher Bedeutung zu klären oder das Recht fortzubilden, soweit es um Fragen des materiellen Rechts geht. Lässt das Beschwerdegericht unter Missachtung dieses Grundsatzes die Rechtsbeschwerde gleichwohl zu, ist das Rechtsbeschwerdegericht daran nach § 574 Abs. 3 Satz 1 ZPO gebunden (st. Rspr.; im Anschluss an BGH, Beschluss vom 27. April 2021 - VIII ZB 44/20, NJW-RR 2021, 737 Rn. 10 m.w.N.).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 43/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.01.2024 - VIII ZB 43/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

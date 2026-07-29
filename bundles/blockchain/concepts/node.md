@@ -3,7 +3,14 @@ type: Primitive
 title: Node
 description: A participant that stores the chain and independently validates every rule, the basis of decentralization.
 tags: [node, decentralization, validation, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/en/full-node
+    title: "Bitcoin full node (Bitcoin.org)"
+  - resource: https://ethereum.org/en/developers/docs/nodes-and-clients/
+    title: "Nodes and clients (Ethereum.org docs)"
 ---
 
 # What it is
@@ -19,8 +26,3 @@ A node is a computer running the chain's software. It holds a copy of the ledger
 # Why it matters
 
 The number and distribution of independent full nodes is what "decentralization" concretely means: the more cheaply an ordinary user can run one, the harder the network is to capture or censor. Keeping node requirements low is a core value, and one arm of the [scalability trilemma](/concepts/scalability-trilemma.md), which is why chains resist simply raising block sizes.
-
-# Citations
-
-[1] [Bitcoin full node (Bitcoin.org)](https://bitcoin.org/en/full-node)
-[2] [Nodes and clients (Ethereum.org docs)](https://ethereum.org/en/developers/docs/nodes-and-clients/)

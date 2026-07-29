@@ -3,7 +3,14 @@ type: Primitive
 title: Forks
 description: Divergences in the chain or its rules, from momentary reorgs to permanent protocol splits.
 tags: [fork, governance, upgrade, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://en.bitcoin.it/wiki/Softfork
+    title: "Soft fork and hard fork (Bitcoin Wiki)"
+  - resource: https://ethereum.org/en/history/
+    title: "Ethereum upgrades and forks (Ethereum.org docs)"
 ---
 
 # Two very different meanings
@@ -20,8 +27,3 @@ timestamp: 2026-07-07T16:00:00Z
 # Why it matters
 
 Forks are how a decentralized system with no central authority upgrades itself, and how disputes ultimately get resolved: by whoever runs the software. The contrasting upgrade cultures, Bitcoin's conservative soft-fork norm versus Ethereum's scheduled hard-fork roadmap, are part of the [design-philosophy comparison](/comparison/design-philosophy.md). Cardano adds a third stance: its [hard fork combinator](/cardano/hard-fork-combinator.md) makes hard forks routine and non-splitting, coordinated through [on-chain governance](/cardano/governance.md) rather than social consensus.
-
-# Citations
-
-[1] [Soft fork and hard fork (Bitcoin Wiki)](https://en.bitcoin.it/wiki/Softfork)
-[2] [Ethereum upgrades and forks (Ethereum.org docs)](https://ethereum.org/en/history/)

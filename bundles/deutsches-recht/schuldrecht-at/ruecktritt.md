@@ -5,7 +5,14 @@ description: Bei nicht oder nicht vertragsgemäß erbrachter Leistung kann der G
 resource: https://www.gesetze-im-internet.de/bgb/__323.html
 tags: [schuldrecht-at, ruecktritt, rueckabwicklung, fristsetzung]
 norm: "§§ 323, 346 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__323.html
+    title: "§ 323 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__346.html
+    title: "§ 346 BGB"
 ---
 
 # Voraussetzungen (§ 323)
@@ -25,8 +32,3 @@ Rücktritt und [Schadensersatz](/schuldrecht-at/schadensersatz-statt-der-leistun
 # Bezug
 
 Im Kaufrecht ist der Rücktritt eines der [Mängelrechte](/kaufrecht/maengelrechte-437.md) und wird über § 437 Nr. 2 erschlossen.
-
-# Citations
-
-[1] [§ 323 BGB](https://www.gesetze-im-internet.de/bgb/__323.html)
-[2] [§ 346 BGB](https://www.gesetze-im-internet.de/bgb/__346.html)

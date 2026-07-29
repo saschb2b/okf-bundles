@@ -4,7 +4,12 @@ title: captureOwnerStack
 description: Reads the current Owner Stack in development and returns it as a string for debugging.
 resource: https://react.dev/reference/react/captureOwnerStack
 tags: [react, debugging, development, owner-stack]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/captureOwnerStack
+    title: "captureOwnerStack"
 ---
 
 # Reference
@@ -55,6 +60,3 @@ console.error = function patchedConsoleError(...args) {
 # Related
 
 A development-only diagnostic, like [<StrictMode>](/reference/react/components/StrictMode.md), for surfacing where in the component tree a problem originates.
-
-# Citations
-[1] [captureOwnerStack](https://react.dev/reference/react/captureOwnerStack)

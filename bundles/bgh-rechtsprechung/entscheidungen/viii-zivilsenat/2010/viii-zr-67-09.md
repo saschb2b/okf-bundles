@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 67/09"
 doknr: "KORE313012010"
 normen: ["§ 305 Abs 1 S 1 BGB, §§ 305ff BGB, § 310 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.02.2010 - VIII ZR 67/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Stellen von Vertragsbedingungen liegt nicht vor, wenn die Einbeziehung vorformulierter Vertragsbedingungen in einen Vertrag auf einer freien Entscheidung desjenigen beruht, der vom anderen Vertragsteil mit dem Verwendungsvorschlag konfrontiert wird. Dazu ist es erforderlich, dass er in der Auswahl der in Betracht kommenden Vertragstexte frei ist und insbesondere Gelegenheit erhält, alternativ eigene Textvorschläge mit der effektiven Möglichkeit ihrer Durchsetzung in die Verhandlungen einzubringen .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 67/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.02.2010 - VIII ZR 67/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

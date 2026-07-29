@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:301019UVIIIZR177.18.0"
 doknr: "KORE305612019"
 normen: ["§ 249 BGB, § 280 Abs 1 BGB, § 280 Abs 3 BGB, § 281 Abs 1 BGB, § 535 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.10.2019 - VIII ZR 177/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei vorzeitiger Beendigung eines Mietkauf- oder Leasingvertrags ist der Kündigungsschaden des Mietverkäufers/Leasinggebers konkret zu berechnen, wenn sich eine von ihm verwendete Formularbestimmung über die Abzinsung der Mietkauf- beziehungsweise Leasingraten als unwirksam erweist (Bestätigung von BGH, Urteil vom 26. Juni 2002 - VIII ZR 147/01, BGHZ 151, 188, 195 mwN).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:29:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 177/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.10.2019 - VIII ZR 177/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 12/13"
 doknr: "KORE305112014"
 normen: ["§ 204 Abs 1 Nr 1 Alt 1 BGB, § 280 Abs 1 BGB, § 280 Abs 3 BGB, § 281 Abs 1 S 1 BGB, § 548 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.01.2014 - XII ZR 12/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die kurze Verjährungsfrist des § 548 Abs. 1 BGB gilt auch für die Ansprüche des Vermieters auf Erfüllung der vom Mieter vertraglich übernommenen Instandsetzungs- und Instandhaltungspflicht und auf Schadensersatz wegen deren Nichterfüllung (im Anschluss an Senatsurteil vom 23. Juni 2010, XII ZR 52/08, NJW 2010, 2652 Rn. 12).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 12/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.01.2014 - XII ZR 12/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

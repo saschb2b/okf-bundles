@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:030717UANWZ.BRFG.45.15.0"
 doknr: "KORE301852017"
 normen: ["§ 73 Abs 2 Nr 1 BRAO, § 73 Abs 2 Nr 4 BRAO, § 112c Abs 1 S 1 BRAO, § 43 Abs 1 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 03.07.2017 - AnwZ (Brfg) 45/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Abgrenzung einer einfachen Belehrung beziehungsweise eines präventiven Hinweises von einem belehrenden Hinweis beziehungsweise einer missbilligende Belehrung durch die Rechtsanwaltskammer (Bestätigung und Fortführung der Senatsurteile vom 12. Juli 2012, AnwZ (Brfg) 37/11, BGHZ 194, 79 Rn. 12; vom 27. Oktober 2014, AnwZ (Brfg) 67/13, NJW 2015, 72 Rn. 7 f.; vom 18. Juli 2016, AnwZ (Brfg) 22/15, juris Rn. 10 und vom 7. November 2016, AnwZ (Brfg) 47/15, NJW 2017, 407 Rn. 10, 12).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 45/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 03.07.2017 - AnwZ (Brfg) 45/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

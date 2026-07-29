@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:150317UVIIIZR270.15.0"
 doknr: "KORE302942017"
 normen: ["§ 573 Abs 2 Nr 2 BGB, § 573 Abs 3 BGB, § 574 BGB, § 574a BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.03.2017 - VIII ZR 270/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Dem Zweck des nach § 573 Abs. 3 BGB bestehenden Begründungserfordernisses wird bei einer Kündigung wegen Eigenbedarfs grundsätzlich durch die Angabe der Person, für die die Wohnung benötigt wird, und die Darlegung des Interesses, das diese Person an der Erlangung der Wohnung hat, genügt (Bestätigung der Senatsrechtsprechung, zuletzt Urteil vom 23. September 2015, VIII ZR 297/14, NJW 2015, 3368 Rn. 11 f. mwN). Dagegen muss die Begründung keine Ausführungen zu Räumlichkeiten enthalten, die für den Begünstigten alternativ als Wohnraum in Betracht kommen könnten.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 270/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.03.2017 - VIII ZR 270/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

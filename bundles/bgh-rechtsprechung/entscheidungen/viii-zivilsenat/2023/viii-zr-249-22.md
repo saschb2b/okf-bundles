@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:270923UVIIIZR249.22.0"
 doknr: "KORE301282023"
 normen: ["§ 4 Abs 1 AVBFernwärmeV, § 4 Abs 2 AVBFernwärmeV, § 24 Abs 4 AVBFernwärmeV vom 04.11.2010, § 315 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.09.2023 - VIII ZR 249/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ersetzt der Fernwärmeversorger während des laufenden Fernwärmelieferungsverhältnisses eine unwirksame Preisänderungsklausel für die Zukunft in - nach Maßgabe der Rechtsprechung des Senats - zulässiger Weise einseitig durch eine angepasste Preisänderungsklausel, kommt ihm ein eigener Gestaltungsspielraum zu (Bestätigung von Senatsurteil vom 26. Januar 2022 - VIII ZR 175/19, BGHZ 232, 312 Rn. 46 ff., 53).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:14:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 249/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.09.2023 - VIII ZR 249/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

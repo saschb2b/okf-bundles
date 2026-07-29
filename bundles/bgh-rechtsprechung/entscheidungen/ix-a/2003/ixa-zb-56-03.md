@@ -9,13 +9,14 @@ datum: 2003-02-14
 aktenzeichen: "IXa ZB 56/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:22:29Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:22:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IXa_ZS/2003/IXa_ZB__56-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 14.02.2003 - IXa ZB 56/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IXa ZB 56/03 vom 14.02.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.02.2003 - IXa ZB 56/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IXa_ZS/2003/IXa_ZB__56-03.pdf?__blob=publicationFile&v=1)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 9/12"
 doknr: "KORE304192012"
 normen: ["§ 70 ZPO, § 78 Abs 1 S 1 ZPO, § 78 Abs 3 ZPO, § 486 Abs 4 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.07.2012 - VII ZB 9/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Beitrittserklärung eines Nebenintervenienten in einem beim Landgericht anhängigen selbständigen Beweisverfahren unterliegt nicht dem Anwaltszwang.
@@ -23,8 +29,3 @@ Die Beitrittserklärung eines Nebenintervenienten in einem beim Landgericht anh�
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 9/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.07.2012 - VII ZB 9/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

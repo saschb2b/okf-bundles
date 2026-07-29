@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:210318UVIIIZR104.17.0"
 doknr: "KORE300542018"
 normen: ["§ 573 Abs 2 Nr 2 BGB, § 577a Abs 1a S 1 Nr 1 Alt 1 BGB, Art 3 Abs 1 GG, Art 14 Abs 1 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.03.2018 - VIII ZR 104/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Kündigungsbeschränkung nach § 577a Abs. 1a Satz 1 BGB erfordert nicht, dass zusätzlich zu den im Tatbestand dieser Vorschrift genannten Voraussetzungen - hier die nach der Überlassung an den Mieter erfolgte Veräußerung des vermieteten Wohnraums an eine Personengesellschaft (§ 577a Abs. 1a Satz 1 Nr. 1 Alt. 1 BGB) - an dem vermieteten Wohnraum Wohnungseigentum begründet worden ist oder der Erwerber zumindest die Absicht hat, eine solche Wohnungsumwandlung vorzunehmen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 104/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.03.2018 - VIII ZR 104/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

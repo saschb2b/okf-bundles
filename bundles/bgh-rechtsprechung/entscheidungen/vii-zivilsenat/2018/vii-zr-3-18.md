@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:211118BVIIZR3.18.0"
 doknr: "KORE620282019"
 normen: ["§ 316 HGB, § 317 HGB, § 323 Abs 1 S 3 HGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.11.2018 - VII ZR 3/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 316 HGB, § 317 HGB, § 323 Abs 1 S 3 HGB
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 3/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.11.2018 - VII ZR 3/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

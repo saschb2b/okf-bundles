@@ -4,7 +4,12 @@ title: memo
 description: Skips re-rendering a component when its props are unchanged.
 resource: https://react.dev/reference/react/memo
 tags: [react, performance, memoization, re-rendering]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/memo
+    title: "memo"
 ---
 
 # Reference
@@ -57,6 +62,3 @@ Memoization helps with granular interactions (such as a drawing editor moving sh
 - Avoid deep equality checks inside `arePropsEqual` unless the data structure has a known limited depth; deep checks can become very slow and freeze the app.
 - `memo` is only a performance optimization. If your code does not work without it, fix the underlying problem first.
 - A memoized component still re-renders when a prop is a freshly created object, array, or function, because shallow equality sees a new reference. Simplify or memoize those props in the parent.
-
-# Citations
-[1] [memo](https://react.dev/reference/react/memo)

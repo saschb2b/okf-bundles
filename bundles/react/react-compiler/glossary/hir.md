@@ -4,7 +4,16 @@ title: HIR (High-level Intermediate Representation)
 description: The control-flow-graph representation the React Compiler analyzes, its basic blocks, instructions, Places, and its SSA form with phi nodes.
 resource: https://yongseok.me/blog/en/react_compiler_3/
 tags: [react, react-compiler, hir, cfg, ssa, internals]
-timestamp: 2026-07-24T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-24T12:00:00Z
+sources:
+  - resource: https://yongseok.me/blog/en/react_compiler_3/
+    title: "React Compiler, How Does It Work? [3] - HIR Transformation (Lowering)"
+  - resource: https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Pipeline.ts
+    title: "React Compiler pipeline (Pipeline.ts)"
+  - resource: https://github.com/facebook/react/pull/29061
+    title: "Open-source React Compiler (PR #29061)"
 ---
 
 # What it is
@@ -82,9 +91,3 @@ bb2:
 - [How the compiler works](../how-it-works.md): the full pass sequence that consumes this representation.
 - [Effect and mutability model](mutability-model.md): the effect metadata attached to each `Place`.
 - [Reactive scope](reactive-scope.md): the memoization units inferred over the HIR.
-
-# Citations
-
-[1] [React Compiler, How Does It Work? [3] - HIR Transformation (Lowering)](https://yongseok.me/blog/en/react_compiler_3/)
-[2] [React Compiler pipeline (Pipeline.ts)](https://github.com/facebook/react/blob/main/compiler/packages/babel-plugin-react-compiler/src/Entrypoint/Pipeline.ts)
-[3] [Open-source React Compiler (PR #29061)](https://github.com/facebook/react/pull/29061)

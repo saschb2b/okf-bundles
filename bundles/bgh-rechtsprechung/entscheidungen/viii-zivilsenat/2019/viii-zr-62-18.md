@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:240419UVIIIZR62.18.0"
 doknr: "KORE300912019"
 normen: ["§ 558 Abs 1 S 1 BGB, § 558 Abs 2 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.04.2019 - VIII ZR 62/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Ermittlung der ortsüblichen Vergleichsmiete durch einen Sachverständigen, dessen Unterstützung sich der Tatrichter bedient, kommen unterschiedliche wissenschaftliche Bewertungsmethoden in Betracht. Die Wahl einer bestimmten Bewertungsmethode ist generell dem - sachverständig beratenen - Tatrichter vorbehalten und im Revisionsverfahren nur eingeschränkt überprüfbar, nämlich darauf, ob das Berufungsurteil insoweit gegen Denkgesetze oder Erfahrungssätze verstößt oder sonst auf rechtsfehlerhaften Erwägungen beruht (Anschluss an BGH, Urteil vom 28. April 1999 - XII ZR 150/97, BGHZ 141, 257, 264 f.; BFH, Urteil vom 10. Oktober 2018 - IX R 30/17, DStR 2019, 376 Rn. 16).
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:14:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 62/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.04.2019 - VIII ZR 62/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

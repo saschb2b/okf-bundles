@@ -4,7 +4,12 @@ title: useEffectEvent
 description: React Hook that creates an Effect Event, a non-reactive function callable from Effects that always reads the latest props and state.
 resource: https://react.dev/reference/react/useEffectEvent
 tags: [react, hook, effects, events]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useEffectEvent
+    title: "useEffectEvent"
 ---
 
 # Reference
@@ -68,7 +73,3 @@ An Effect Event function with the same type signature as your `callback`. You ca
 - Effect Events can only be called from inside Effects or other Effect Events. Do not call them during rendering or pass them to other components or Hooks. The `eslint-plugin-react-hooks` linter enforces this.
 - Do not use `useEffectEvent` just to avoid specifying dependencies. That hides bugs and makes code harder to understand. Use it only for logic that is genuinely an event fired from Effects.
 - Effect Event functions do not have a stable identity. Their identity intentionally changes on every render. This acts as a runtime assertion: if your code wrongly depends on the function identity, the Effect re-runs every render and the bug becomes obvious.
-
-# Citations
-
-[1] [useEffectEvent](https://react.dev/reference/react/useEffectEvent)

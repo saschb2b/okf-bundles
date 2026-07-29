@@ -9,13 +9,14 @@ datum: 2008-04-18
 aktenzeichen: "AnwZ (B) 85/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:19:43Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:19:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2007/AnwZ_B__85-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 18.04.2008 - AnwZ (B) 85/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 85/07 vom 18.04.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 18.04.2008 - AnwZ (B) 85/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2007/AnwZ_B__85-07.pdf?__blob=publicationFile&v=1)
-

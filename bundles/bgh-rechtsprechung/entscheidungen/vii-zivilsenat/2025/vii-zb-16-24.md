@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:200825BVIIZB16.24.0"
 doknr: "KORE722842025"
 normen: ["§ 85a ZPO, § 130a Abs 3 S 1  ZPO, § 130a Abs 4 Nr 2 ZPO, § 169 Abs 4 ZPO, § 169 Abs 5 ZPO, § 172 Abs 1 ZPO, § 233 ZPO, § 234 ZPO, § 517 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:41:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:41:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.08.2025 - VII ZB 16/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein elektronisches Dokument, das aus einem besonderen elektronischen Anwaltspostfach versandt wird und nicht mit einer qualifizierten elektronischen Signatur versehen ist, ist nur dann auf einem sicheren Übermittlungsweg eingereicht, wenn die das Dokument signierende und damit verantwortende Person mit der des tatsächlichen Versenders übereinstimmt (Anschluss an BGH, Beschluss vom 7. Mai 2024 - VI ZB 22/23, MDR 2024, 927; Beschluss vom 28. Februar 2024 - IX ZB 30/23, NJW 2024, 1660; Beschluss vom 7. September 2022 - XII ZB 215/22, NJW 2022, 3512).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:41:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 16/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.08.2025 - VII ZB 16/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

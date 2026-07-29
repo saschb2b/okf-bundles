@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:041022BVIIIZA9.22.0"
 doknr: "KORE678132022"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:00Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 04.10.2022 - VIII ZA 9/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 (keine ausgewiesen)
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:39:00Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZA 9/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.10.2022 - VIII ZA 9/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

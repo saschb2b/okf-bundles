@@ -9,13 +9,14 @@ datum: 2007-04-19
 aktenzeichen: "III ZR 74/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:16:29Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:16:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2006/III_ZR__74-06A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 19.04.2007 - III ZR 74/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 74/06 vom 19.04.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.04.2007 - III ZR 74/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2006/III_ZR__74-06A.pdf?__blob=publicationFile&v=1)
-

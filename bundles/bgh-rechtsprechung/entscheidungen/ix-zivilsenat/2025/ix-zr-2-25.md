@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:201125UIXZR2.25.0"
 doknr: "KORE701902026"
 normen: ["§ 878 Abs 1 ZPO, § 878 Abs 2 ZPO, § 115 Abs 1 S 2 ZVG, § 120 ZVG, § 124 ZVG, § 812 Abs 1 S 1 BGB, §§ 812ff BGB, § 1179a BGB, § 1936 BGB, § 1990 BGB, § 1991 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.11.2025 - IX ZR 2/25 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Sieht das Vollstreckungsgericht im Teilungsplan eine den Widerspruch berücksichtigende Hilfsverteilung vor und ordnet es im Hinblick auf den Widerspruch eine der Hilfsverteilung entsprechende Hinterlegung des streitigen Betrags an, ist der Teilungsplan allein durch die Hinterlegung noch nicht vollständig ausgeführt. In diesem Fall ist die Widerspruchsklage nicht schon unzulässig, weil das Vollstreckungsgericht den streitigen Betrag hinterlegt hat.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:39:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 2/25 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.11.2025 - IX ZR 2/25 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:050718BVIIZB40.17.0"
 doknr: "KORE305302018"
 normen: ["§ 850d Abs 1 S 2 ZPO, § 558c BGB, § 558d BGB, § 558e BGB, § 35 Abs 1 S 1 SGB 12"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.07.2018 - VII ZB 40/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der unpfändbare notwendige Unterhalt des Schuldners im Sinne des § 850d Abs. 1 Satz 2 ZPO entspricht grundsätzlich dem notwendigen Lebensunterhalt im Sinne des 3. und 11. Kapitels des Zwölften Buches Sozialgesetzbuch (im Anschluss an BGH, Beschluss vom 25. November 2010, VII ZB 111/09, NJW-RR 2011, 706).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:12Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 40/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.07.2018 - VII ZB 40/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

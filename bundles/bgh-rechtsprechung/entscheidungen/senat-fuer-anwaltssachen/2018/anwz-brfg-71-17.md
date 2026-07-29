@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:290518BANWZ.BRFG.71.17.0"
 doknr: "KORE624592018"
 normen: ["§ 14 Abs 2 Nr 7 BRAO, § 124 Abs 2 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:36:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:36:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.05.2018 - AnwZ (Brfg) 71/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 14 Abs 2 Nr 7 BRAO, § 124 Abs 2 VwGO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:36:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 71/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.05.2018 - AnwZ (Brfg) 71/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

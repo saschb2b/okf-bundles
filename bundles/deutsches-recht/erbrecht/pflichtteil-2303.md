@@ -5,7 +5,12 @@ description: Wird ein Abkömmling, Elternteil oder der Ehegatte durch Verfügung
 resource: https://www.gesetze-im-internet.de/bgb/__2303.html
 tags: [erbrecht, pflichtteil, enterbung, geldanspruch]
 norm: "§ 2303 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__2303.html
+    title: "§ 2303 BGB"
 ---
 
 # Regel
@@ -21,7 +26,3 @@ Ist ein **Abkömmling** des Erblassers durch Verfügung von Todes wegen von der 
 # Bezug
 
 Die Höhe knüpft an die [gesetzliche Erbfolge](/erbrecht/gesetzliche-erbfolge-1924.md) und beim Ehegatten an das [Ehegattenerbrecht](/erbrecht/ehegattenerbrecht-1931.md) an. Der Pflichtteil ist eine [Nachlassverbindlichkeit](/erbrecht/haftung-erben-1967.md).
-
-# Citations
-
-[1] [§ 2303 BGB](https://www.gesetze-im-internet.de/bgb/__2303.html)

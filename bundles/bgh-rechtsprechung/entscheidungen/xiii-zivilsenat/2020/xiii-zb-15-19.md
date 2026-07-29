@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:120220BXIIIZB15.19.0"
 doknr: "KORE310482020"
 normen: ["§ 62 Abs 3 S 3 AufenthG, § 72 Abs 4 S 1 AufenthG, § 417 Abs 2 S 2 Nr 5 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.02.2020 - XIII ZB 15/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ergibt sich ein laufendes Ermittlungsverfahren weder aus dem Haftantrag noch aus den ihm beigefügten Unterlagen, führt allein das Fehlen eines nach § 72 Abs. 4 Satz 1 AufenthG erforderlichen Einvernehmens der Staatsanwaltschaft nicht zur Rechtswidrigkeit einer Haftanordnung (Aufgabe von BGH, Beschluss vom 17. Juni 2010 - V ZB 93/10, NVwZ 2010, 1574).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:30:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 15/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.02.2020 - XIII ZB 15/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

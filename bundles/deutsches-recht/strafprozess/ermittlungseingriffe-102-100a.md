@@ -5,7 +5,18 @@ description: Beschlagnahme, Durchsuchung und Telekommunikationsüberwachung grei
 resource: https://www.gesetze-im-internet.de/stpo/__102.html
 tags: [strafprozess, durchsuchung, beschlagnahme, telekommunikationsueberwachung, richtervorbehalt]
 norm: "§§ 94, 98, 102, 105, 100a, 100e StPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stpo/__102.html
+    title: "§ 102 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__105.html
+    title: "§ 105 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__94.html
+    title: "§ 94 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__100a.html
+    title: "§ 100a StPO"
 ---
 
 # Beschlagnahme (§§ 94, 98)
@@ -30,10 +41,3 @@ Die Anordnung trifft grundsätzlich das **Gericht** (§ 100e), bei Gefahr im Ver
 # Bezug
 
 Alle drei Eingriffe sind am Verhältnismäßigkeitsgrundsatz und an den betroffenen Grundrechten (Art. 13, 10 GG) zu messen; rechtswidrig erlangte Beweise können einem Verwertungsverbot unterliegen, das in der [Beweiswürdigung](/strafprozess/beweisaufnahme-und-wuerdigung-244-261.md) wirkt. Die Untersuchungshaft als Eingriff in die Freiheit ist gesondert in [§ 112](/strafprozess/untersuchungshaft-112.md) geregelt.
-
-# Citations
-
-[1] [§ 102 StPO](https://www.gesetze-im-internet.de/stpo/__102.html)
-[2] [§ 105 StPO](https://www.gesetze-im-internet.de/stpo/__105.html)
-[3] [§ 94 StPO](https://www.gesetze-im-internet.de/stpo/__94.html)
-[4] [§ 100a StPO](https://www.gesetze-im-internet.de/stpo/__100a.html)

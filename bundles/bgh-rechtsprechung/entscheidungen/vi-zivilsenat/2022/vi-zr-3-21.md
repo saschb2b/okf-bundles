@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:080222UVIZR3.21.0"
 doknr: "KORE303802022"
 normen: ["§ 844 Abs 3 BGB, § 104 Abs 1 S 1 SGB 7, § 105 Abs 1 S 1 SGB 7"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.02.2022 - VI ZR 3/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Der Haftungsausschluss gemäß § 104 Abs. 1 SGB VII und § 105 Abs. 1 SGB VII erfasst auch die Ansprüche der Hinterbliebenen auf Hinterbliebenengeld gemäß § 844 Abs. 3 BGB.
@@ -24,8 +30,3 @@ Der Haftungsausschluss gemäß § 104 Abs. 1 SGB VII und § 105 Abs. 1 SGB VII e
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZR 3/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.02.2022 - VI ZR 3/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 59/10"
 doknr: "KORE305772011"
 normen: ["§ 1032 Abs 2 ZPO, § 103 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.06.2011 - III ZB 59/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Soweit nach § 1032 Abs. 2 ZPO beim staatlichen Gericht ein Antrag auf Feststellung der Zulässigkeit oder Unzulässigkeit eines schiedsrichterlichen Verfahrens nur bis zur Bildung des Schiedsgerichts gestellt werden kann, ist entscheidend der Eingang des Antrags bei Gericht, nicht der Zeitpunkt der Zustellung an die Gegenseite .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 59/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.06.2011 - III ZB 59/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

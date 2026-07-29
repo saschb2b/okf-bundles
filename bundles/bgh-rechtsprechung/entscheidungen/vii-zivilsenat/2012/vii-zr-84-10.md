@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 84/10"
 doknr: "KORE302592013"
 normen: ["§ 287 Abs 1 ZPO, § 251 BGB, § 635 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.12.2012 - VII ZR 84/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Schätzung eines Mindestbetrages für einen merkantilen Minderwert eines Gebäudes nach Beseitigung von Rissen im Innen- und Außenputz.
@@ -23,8 +29,3 @@ Zur Schätzung eines Mindestbetrages für einen merkantilen Minderwert eines Geb
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 84/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.12.2012 - VII ZR 84/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

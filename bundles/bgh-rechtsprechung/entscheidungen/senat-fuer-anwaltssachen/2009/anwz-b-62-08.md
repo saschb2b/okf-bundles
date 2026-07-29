@@ -9,13 +9,14 @@ datum: 2009-06-15
 aktenzeichen: "AnwZ (B) 62/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:39:45Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:39:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2008/AnwZ_B__62-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 15.06.2009 - AnwZ (B) 62/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 62/08 vom 15.06.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.06.2009 - AnwZ (B) 62/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2008/AnwZ_B__62-08.pdf?__blob=publicationFile&v=1)
-

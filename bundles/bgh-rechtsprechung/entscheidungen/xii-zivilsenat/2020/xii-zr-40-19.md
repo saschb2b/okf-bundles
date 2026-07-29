@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:251120UXIIZR40.19.0"
 doknr: "KORE300012021"
 normen: ["§ 536 Abs 1 BGB, § 536 Abs 3 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:21Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:21Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 25.11.2020 - XII ZR 40/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Unterschreitung der vertraglich vereinbarten durch die dem Mieter vom Vermieter tatsächlich überlassenen Fläche stellt auch dann einen Sachmangel der Mietsache dar, wenn die Flächendifferenz die Folge von nach Abschluss des Mietvertrags erfolgten Umbauarbeiten ist, durch die diese Fläche dem angrenzenden Mietobjekt zugeschlagen worden ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:21Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 40/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 25.11.2020 - XII ZR 40/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

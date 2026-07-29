@@ -10,8 +10,14 @@ aktenzeichen: "II ZB 7/13"
 doknr: "KORE316092013"
 normen: ["§ 382 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 09.07.2013 - II ZB 7/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Wenn ein Antrag auf eine Eintragung in das Handelsregister zurückgewiesen oder nach einem gerichtlichen Hinweis auf Eintragungshindernisse zurückgenommen wurde, fehlt das Rechtsschutzbedürfnis für einen gleichlautenden Antrag auf Eintragung, wenn sich die Sach- und Rechtslage nicht geändert hat.
@@ -23,8 +29,3 @@ Wenn ein Antrag auf eine Eintragung in das Handelsregister zurückgewiesen oder 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 7/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.07.2013 - II ZB 7/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:281124UIIIZR20.23.0"
 doknr: "KORE711902024"
 normen: ["§ 280 Abs 1 S 1 BGB, § 3 Nr 3 Alt 4 EBKrG, § 13 Abs 1 S 1 EBKrG, § 1 Abs 1 EKrV 1, § 1 Abs 2 Nr 3 EKrV 1, Art 103 Abs 1 GG, § 9 Abs 1 StrG ST, § 10 StrG ST"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.11.2024 - III ZR 20/23 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Schadensersatz im kreuzungsrechtlichen Gemeinschaftsverhältnis
@@ -28,8 +34,3 @@ Schadensersatz im kreuzungsrechtlichen Gemeinschaftsverhältnis
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 20/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.11.2024 - III ZR 20/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

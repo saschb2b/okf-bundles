@@ -4,7 +4,18 @@ title: Anthropic customer segments
 description: Developers, enterprises, prosumers, and coding as the standout segment.
 resource: https://www.anthropic.com/product/enterprise
 tags: [anthropic, customers, enterprise, developers]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://valueaddvc.com/blog/how-anthropic-makes-money-claude-api-enterprise-and-the-business-model-breakdown
+    title: "How Anthropic makes money (Value Add VC, 2026)"
+  - resource: https://www.anthropic.com/news/claude-code-on-team-and-enterprise
+    title: "Claude Code on Team and Enterprise (Anthropic, 2026)"
+  - resource: https://www.anthropic.com/product/enterprise
+    title: "Anthropic enterprise page (Anthropic, 2026)"
+  - resource: https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up
+    title: "80% of new production code authored by Claude (VentureBeat, 2026)"
 ---
 
 # The segments
@@ -25,10 +36,3 @@ Named enterprise customers include Block, Carvana, Indeed, Notion, Snowflake, eS
 # Coding is the standout segment
 
 [Claude Code](/revenue/revenue-streams.md) production adopters named by Anthropic include Netflix, Microsoft, Uber, Mercado Libre, Shopify, Goldman Sachs, ServiceNow, Spotify, KPMG, L'Oreal, and Salesforce. Mercado Libre is targeting 90% autonomous coding across roughly 23,000 engineers by Q3 2026. [2][4] The strength here is what makes coding capability a [moat](/moat/moats.md), not just a feature.
-
-# Citations
-
-[1] [How Anthropic makes money (Value Add VC, 2026)](https://valueaddvc.com/blog/how-anthropic-makes-money-claude-api-enterprise-and-the-business-model-breakdown)
-[2] [Claude Code on Team and Enterprise (Anthropic, 2026)](https://www.anthropic.com/news/claude-code-on-team-and-enterprise)
-[3] [Anthropic enterprise page (Anthropic, 2026)](https://www.anthropic.com/product/enterprise)
-[4] [80% of new production code authored by Claude (VentureBeat, 2026)](https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up)

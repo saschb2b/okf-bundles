@@ -9,13 +9,14 @@ datum: 2009-10-29
 aktenzeichen: "III ZB 73/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:30:37Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:30:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2009/III_ZB__73-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 29.10.2009 - III ZB 73/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZB 73/09 vom 29.10.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.10.2009 - III ZB 73/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2009/III_ZB__73-09.pdf?__blob=publicationFile&v=1)
-

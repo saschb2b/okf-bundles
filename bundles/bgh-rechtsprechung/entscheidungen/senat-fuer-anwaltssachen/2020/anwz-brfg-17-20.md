@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:071220UANWZ.BRFG.17.20.0"
 doknr: "KORE631802021"
 normen: ["§ 46 Abs 2 S 1 BRAO, § 46 Abs 3 BRAO, § 46 Abs 4 BRAO, § 37 Abs 1 GmbHG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.12.2020 - AnwZ (Brfg) 17/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 46 Abs 2 S 1 BRAO, § 46 Abs 3 BRAO, § 46 Abs 4 BRAO, § 37 Abs 1 GmbHG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 17/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.12.2020 - AnwZ (Brfg) 17/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: static-components
 description: Flags components defined inside other components, which are recreated every render and reset their state.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/static-components
 tags: [react, eslint, lint, components, performance]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/static-components
+    title: "static-components"
 ---
 
 # What it flags
@@ -67,7 +72,3 @@ Wanting an inner component to access local variables is a sign you should pass p
 # Related
 
 Closely related to [component-hook-factories](component-hook-factories.md), which flags factory functions that return components or Hooks.
-
-# Citations
-
-[1] [static-components](https://react.dev/reference/eslint-plugin-react-hooks/lints/static-components)

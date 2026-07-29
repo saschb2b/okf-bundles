@@ -5,7 +5,16 @@ description: Die soziale Pflegeversicherung leistet bei Pflegebedürftigkeit nac
 resource: https://www.gesetze-im-internet.de/sgb_11/__15.html
 tags: [sozialrecht, pflegeversicherung, sgb-xi, pflegegrad, wohnumfeld]
 norm: "§§ 14, 15, 36, 37, 40 SGB XI"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_11/__15.html
+    title: "§ 15 SGB XI"
+  - resource: https://www.gesetze-im-internet.de/sgb_11/__40.html
+    title: "§ 40 SGB XI"
+  - resource: https://www.gesetze-im-internet.de/sgb_11/__14.html
+    title: "§ 14 SGB XI"
 ---
 
 # Pflegebedürftigkeit und Pflegegrade
@@ -26,9 +35,3 @@ timestamp: 2026-06-19T12:00:00Z
 # Bezug
 
 Die Pflegeversicherung steht neben der [Krankenversicherung](/sozialrecht/krankenversicherung-sgb5.md) und den Teilhabeleistungen des [SGB IX](/behinderung-teilhabe/eingliederungshilfe.md); Rechtsschutz über das [Sozialgericht](/sozialrecht/sozialgerichtliches-verfahren-sgg.md). Den mietrechtlichen Umbauanspruch regelt [§ 554 BGB](/mietrecht/barrierefreiheit-554.md).
-
-# Citations
-
-[1] [§ 15 SGB XI](https://www.gesetze-im-internet.de/sgb_11/__15.html)
-[2] [§ 40 SGB XI](https://www.gesetze-im-internet.de/sgb_11/__40.html)
-[3] [§ 14 SGB XI](https://www.gesetze-im-internet.de/sgb_11/__14.html)

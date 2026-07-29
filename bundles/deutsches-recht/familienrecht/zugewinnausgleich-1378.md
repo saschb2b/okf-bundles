@@ -5,7 +5,14 @@ description: Bei Beendigung der Zugewinngemeinschaft erhält der Ehegatte mit de
 resource: https://www.gesetze-im-internet.de/bgb/__1378.html
 tags: [familienrecht, zugewinnausgleich, ausgleichsforderung, endvermoegen]
 norm: "§§ 1373, 1378 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1378.html
+    title: "§ 1378 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1373.html
+    title: "§ 1373 BGB"
 ---
 
 # Zugewinn (§ 1373)
@@ -19,8 +26,3 @@ Der Zugewinn ist der Betrag, um den das **Endvermögen** eines Ehegatten sein **
 # Bezug
 
 Endet die Zugewinngemeinschaft durch Tod, wird der Ausgleich erbrechtlich pauschaliert (§ 1371, siehe [Ehegattenerbrecht](/erbrecht/ehegattenerbrecht-1931.md)); bei [Scheidung](/familienrecht/scheidung-1565.md) wird der konkrete Zugewinn berechnet.
-
-# Citations
-
-[1] [§ 1378 BGB](https://www.gesetze-im-internet.de/bgb/__1378.html)
-[2] [§ 1373 BGB](https://www.gesetze-im-internet.de/bgb/__1373.html)

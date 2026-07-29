@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:050820BVIIIZR290.19.0"
 doknr: "KORE608412020"
 normen: ["§ 3 ZPO, § 5 ZPO, § 544 Abs 2 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.08.2020 - VIII ZR 290/19 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 3 ZPO, § 5 ZPO, § 544 Abs 2 Nr 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 290/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.08.2020 - VIII ZR 290/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,16 @@ description: Anbieter geschäftsmäßiger digitaler Dienste müssen leicht erken
 resource: https://www.gesetze-im-internet.de/ddg/__5.html
 tags: [it-recht, ddg, tmg, impressum, anbieterkennzeichnung, providerhaftung]
 norm: "§§ 5, 7, 8, 9, 10 DDG; § 18 MStV"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/ddg/__5.html
+    title: "§ 5 DDG"
+  - resource: https://www.gesetze-im-internet.de/ddg/__7.html
+    title: "§ 7 DDG"
+  - resource: https://www.gesetze-im-internet.de/ddg/__10.html
+    title: "§ 10 DDG"
 ---
 
 # Vom TMG zum DDG
@@ -39,9 +48,3 @@ Abgestufte Haftung danach, ob eigene oder fremde Inhalte betroffen sind:
 # Bezug
 
 Die Impressumspflicht trifft jeden gewerblichen Betreiber eines digitalen Dienstes, ergänzend zum [Datenschutz](/it-ip-recht/datenschutz-dsgvo-bdsg.md) (Datenschutzerklärung) und zur [Fernabsatz-](/besondere-schuldverhaeltnisse/werkvertrag-631.md) und Verbraucherinformation im Onlinehandel.
-
-# Citations
-
-[1] [§ 5 DDG](https://www.gesetze-im-internet.de/ddg/__5.html)
-[2] [§ 7 DDG](https://www.gesetze-im-internet.de/ddg/__7.html)
-[3] [§ 10 DDG](https://www.gesetze-im-internet.de/ddg/__10.html)

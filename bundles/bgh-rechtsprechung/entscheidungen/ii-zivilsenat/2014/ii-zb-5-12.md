@@ -10,8 +10,14 @@ aktenzeichen: "II ZB 5/12"
 doknr: "KORE305322014"
 normen: ["§ 131 Abs 3 S 1 Nr 1 AktG, § 131 Abs 5 AktG, § 132 AktG, § 74 Abs 3 S 4 FamFG, § 559 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.01.2014 - II ZB 5/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Rechtsbeschwerdegericht hat gemäß § 74 Abs. 3 Satz 4 FamFG, § 559 Abs. 2 ZPO bei der Beurteilung der Erforderlichkeit einer verlangten Auskunft nach § 131 AktG grundsätzlich von dem Sachverhalt auszugehen, den das Beschwerdegericht festgestellt hat. Das gilt auch für die Frage, ob die Erteilung der Auskunft geeignet wäre, der Gesellschaft einen nicht unerheblichen Nachteil im Sinne des § 131 Abs. 3 Satz 1 Nr. 1 AktG zuzufügen.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:29:13Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 5/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.01.2014 - II ZB 5/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 59/10"
 doknr: "KORE300812010"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO, § 522 Abs 1 S 4 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.07.2010 - XII ZB 59/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Beschlüsse, die der Rechtsbeschwerde unterliegen, müssen den maßgeblichen Sachverhalt, über den entschieden wird, wiedergeben .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:14:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 59/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.07.2010 - XII ZB 59/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

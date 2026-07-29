@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:170322UIIIZR79.21.0"
 doknr: "KORE312522022"
 normen: ["§ 28 Abs 1 IfSG, § 56 Abs 1 IfSG, § 56 Abs 1a IfSG, § 60 IfSG, § 65 Abs 1 IfSG, § 6 Abs 1 CoronaV2V BB, § 6 Abs 2 CoronaV2V BB, § 6 Abs 5 CoronaV2V BB, Art 14 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.03.2022 - III ZR 79/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 56 Abs. 1 und § 65 Abs. 1 des Infektionsschutzgesetzes (IfSG) gewähren Gewerbetreibenden, die im Rahmen der Bekämpfung der COVID-19-Pandemie als infektionsschutzrechtliche Nichtstörer durch eine auf § 28 Abs. 1 IfSG gestützte flächendeckende Schutzmaßnahme, insbesondere eine Betriebsschließung oder Betriebsbeschränkung, wirtschaftliche Einbußen erlitten haben, weder in unmittelbarer oder entsprechender Anwendung noch im Wege verfassungskonformer Auslegung einen Anspruch auf Entschädigung.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:31:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 79/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.03.2022 - III ZR 79/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

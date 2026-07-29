@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:290121BANWST.B.4.20.0"
 doknr: "KORE634322021"
 normen: ["§ 24 Abs 2 StPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.01.2021 - AnwSt (B) 4/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 24 Abs 2 StPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwSt (B) 4/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.01.2021 - AnwSt (B) 4/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

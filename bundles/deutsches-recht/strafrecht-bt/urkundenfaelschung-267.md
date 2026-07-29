@@ -5,7 +5,12 @@ description: Urkundenfälschung begeht, wer zur Täuschung im Rechtsverkehr eine
 resource: https://www.gesetze-im-internet.de/stgb/__267.html
 tags: [strafrecht-bt, urkundenfaelschung, urkunde, rechtsverkehr]
 norm: "§ 267 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__267.html
+    title: "§ 267 StGB"
 ---
 
 # Tatbestand (§ 267 Abs. 1)
@@ -25,7 +30,3 @@ Geschützt ist die **Echtheit** der Urkunde (wer hat sie ausgestellt), nicht ihr
 # Siehe auch
 
 Wie jedes Delikt folgt § 267 dem [Aufbau der Straftat](/strafrecht-at/aufbau-der-straftat.md).
-
-# Citations
-
-[1] [§ 267 StGB](https://www.gesetze-im-internet.de/stgb/__267.html)

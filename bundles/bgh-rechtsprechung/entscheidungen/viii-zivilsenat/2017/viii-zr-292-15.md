@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:100517UVIIIZR292.15.0"
 doknr: "KORE301432017"
 normen: ["§ 573 Abs 1 S 1 BGB, § 573 Abs 2 Nr 2 BGB, § 573 Abs 2 Nr 3 BGB, § 574 BGB, Art 14 Abs 1 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.05.2017 - VIII ZR 292/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Aus dem Umstand, dass der generalklauselartige Kündigungstatbestand des § 573 Abs. 1 Satz 1 BGB den in Absatz 2 dieser Vorschrift beispielhaft genannten Kündigungsgründen gleichgewichtig ist, folgt nicht, dass bestimmte - in Absatz 2 nicht aufgezählte - Fallgruppen eines Vermieterbedarfs von vornherein ein berechtigtes Interesse an der Kündigung des Mietverhältnisses begründeten (im Anschluss an Senatsurteil vom 29. März 2017, VIII ZR 45/16, Rn. 24, BGHZ 214, 269).
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:14:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 292/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.05.2017 - VIII ZR 292/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

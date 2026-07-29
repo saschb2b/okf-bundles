@@ -4,7 +4,12 @@ title: Installation
 description: How to install React Compiler and configure it for Babel, Vite, Next.js, React Router, Webpack, Expo, Metro, Rspack, and Rsbuild, plus how to verify it works.
 resource: https://react.dev/learn/react-compiler/installation
 tags: [react, react-compiler, installation, babel, vite]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/react-compiler/installation
+    title: "Installation"
 ---
 
 # Summary
@@ -144,7 +149,3 @@ Fix the underlying issue and remove the directive once resolved. For more help, 
 - [Incremental adoption strategies](incremental-adoption.md) for existing codebases.
 - [Debugging techniques](debugging.md) for troubleshooting.
 - [Compiling libraries](/reference/react-compiler/compiling-libraries.md) for shipping compiled code.
-
-# Citations
-
-[1] [Installation](https://react.dev/learn/react-compiler/installation)

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 19/11"
 doknr: "KORE303642011"
 normen: ["§ 276 FamFG, § 294 FamFG, § 1908d BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.06.2011 - XII ZB 19/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Verfahrenspfleger ist im Betreuungsverfahren dann zu bestellen, wenn der Betroffene nicht mehr in der Lage ist, seinen Willen kundzutun bzw. einen freien Willen überhaupt noch zu bilden .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 19/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.06.2011 - XII ZB 19/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

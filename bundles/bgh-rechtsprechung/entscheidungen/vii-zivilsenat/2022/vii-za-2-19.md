@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:120122BVIIZA2.19.0"
 doknr: "KORE625932022"
 normen: ["§ 850i ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:36:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:36:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.01.2022 - VII ZA 2/19 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 850i ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:36:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZA 2/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.01.2022 - VII ZA 2/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

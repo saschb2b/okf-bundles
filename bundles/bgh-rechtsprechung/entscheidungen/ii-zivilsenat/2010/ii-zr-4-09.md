@@ -10,8 +10,14 @@ aktenzeichen: "II ZR 4/09"
 doknr: "KORE314002010"
 normen: ["Art 103 Abs 1 GG, § 544 Abs 7 ZPO, § 242 BGB, § 328 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 15.03.2010 - II ZR 4/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Gesellschafter einer GmbH können im Wege einer schuldrechtlichen Nebenabrede im Interesse der Gesellschaft abweichend von einer Satzungsbestimmung eine geringere Abfindungshöhe für den Fall des Ausscheidens aus der Gesellschaft vereinbaren .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZR 4/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.03.2010 - II ZR 4/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

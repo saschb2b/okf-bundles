@@ -4,7 +4,12 @@ title: React Compiler
 description: Landing page for the LEARN-side React Compiler guide, orienting you across introduction, installation, incremental adoption, and debugging.
 resource: https://react.dev/learn/react-compiler
 tags: [react, react-compiler, optimization, build-tools, memoization]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/react-compiler
+    title: "React Compiler"
 ---
 
 # Summary
@@ -38,7 +43,3 @@ For detailed configuration options and API reference, see the reference-side con
 # Additional resources
 
 Beyond these docs, the [React Compiler Working Group](https://github.com/reactwg/react-compiler) carries further information and discussion about the compiler.
-
-# Citations
-
-[1] [React Compiler](https://react.dev/learn/react-compiler)

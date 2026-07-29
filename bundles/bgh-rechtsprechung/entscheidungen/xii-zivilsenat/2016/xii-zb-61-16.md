@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:060716BXIIZB61.16.0"
 doknr: "KORE304492016"
 normen: ["§ 1896 Abs 3 BGB, § 1901a BGB, § 1901b BGB, § 1904 Abs 1 S 1 BGB, § 1904 Abs 2 BGB, § 1904 Abs 5 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.07.2016 - XII ZB 61/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Bevollmächtigte kann in eine der in § 1904 Abs. 1 Satz 1, Abs. 2 BGB genannten Maßnahmen nur einwilligen, nicht einwilligen oder die Einwilligung widerrufen, wenn der Vollmachttext hinreichend klar umschreibt, dass sich die Entscheidungskompetenz des Bevollmächtigten auf die im Gesetz genannten ärztlichen Maßnahmen sowie darauf bezieht, sie zu unterlassen oder am Betroffenen vornehmen zu lassen. Hierzu muss aus der Vollmacht auch deutlich werden, dass die jeweilige Entscheidung mit der begründeten Gefahr des Todes oder eines schweren und länger dauernden gesundheitlichen Schadens verbunden sein kann.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 61/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.07.2016 - XII ZB 61/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

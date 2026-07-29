@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:221116BXIZB9.13.0"
 doknr: "KORE300362017"
 normen: ["§ 6 KapMuG, § 8 Abs 1 KapMuG, § 20 KapMuG, § 22 KapMuG, § 41a RVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.11.2016 - XI ZB 9/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Feststellungen eines Musterentscheids entfalten nur in den nach § 8 Abs. 1 KapMuG ausgesetzten Verfahren und dort nur innerhalb des Streitgegenstands Wirkung, anlässlich dessen das jeweilige Ausgangsverfahren im Hinblick auf das zugehörige Musterverfahren ausgesetzt worden ist.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XI ZB 9/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.11.2016 - XI ZB 9/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

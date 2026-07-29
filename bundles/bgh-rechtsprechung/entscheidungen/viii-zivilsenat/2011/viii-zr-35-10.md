@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 35/10"
 doknr: "KORE310322011"
 normen: ["§ 11 Abs 2 S 1 EEG 2004, § 11 Abs 3 EEG 2004, § 11 Abs 5 EEG 2004"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.02.2011 - VIII ZR 35/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Erfordernis der ausschließlichen Anbringung an oder auf einem Gebäude im Sinne des § 11 Abs. 2 Satz 1 EEG 2004 ist auch dann erfüllt, wenn das Tragwerk einer bereits bestehenden Photovoltaikanlage nachträglich dergestalt in ein später errichtetes Gebäude integriert wird, dass es zugleich unverzichtbarer Teil der Gebäudestatik ist (Fortführung von BGH, Urteil vom 29. Oktober 2008, VIII ZR 313/07, NJOZ 2009, 783) .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:30:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 35/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.02.2011 - VIII ZR 35/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:270819BVIZB8.18.0"
 doknr: "KORE301862019"
 normen: ["§ 114 Abs 1 ZPO, § 1360a Abs 4 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.08.2019 - VI ZB 8/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Stützt der Anspruchsteller seinen Schadensersatzanspruch auf angeblich strafbares Verhalten des Anspruchsgegners, so ist die Abwehr dieses Anspruchs für den Anspruchsgegner grundsätzlich auch dann eine persönliche Angelegenheit im Sinne von § 1360a Abs. 4 Satz 1 BGB, wenn der Anspruch seine Grundlage in der beruflichen Tätigkeit des Anspruchsgegners findet.
@@ -24,8 +30,3 @@ Stützt der Anspruchsteller seinen Schadensersatzanspruch auf angeblich strafbar
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZB 8/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.08.2019 - VI ZB 8/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "II ZB 2/10"
 doknr: "JURE110012712"
 normen: ["§ 305 Abs 1 AktG, § 305 Abs 3 S 2 AktG, § 327b Abs 1 S 1 AktG, § 30 Abs 1 S 1 UmwG, § 28 Abs 2 S 1 FGG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:05Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:05Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.06.2011 - II ZB 2/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 305 Abs 1 AktG, § 305 Abs 3 S 2 AktG, § 327b Abs 1 S 1 AktG, § 30 Abs 1 S 1 UmwG, § 28 Abs 2 S 1 FGG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:05Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 2/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.06.2011 - II ZB 2/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

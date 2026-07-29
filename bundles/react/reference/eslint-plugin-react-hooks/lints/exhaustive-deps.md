@@ -4,7 +4,12 @@ title: exhaustive-deps
 description: Validates that dependency arrays for React Hooks contain every value the Hook references.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/exhaustive-deps
 tags: [react, eslint, hooks, lint, dependencies]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/exhaustive-deps
+    title: "exhaustive-deps"
 ---
 
 # What it flags
@@ -67,7 +72,3 @@ For backward compatibility a rule-level option also exists. If set, it takes pre
   }
 }
 ```
-
-# Citations
-
-[1] [exhaustive-deps](https://react.dev/reference/eslint-plugin-react-hooks/lints/exhaustive-deps)

@@ -4,7 +4,12 @@ title: Lightning Network
 description: Bitcoin's layer-2 scaling via bidirectional off-chain payment channels settled on the base chain.
 resource: https://lightning.network/lightning-network-paper.pdf
 tags: [bitcoin, lightning, layer-2, scaling]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://lightning.network/lightning-network-paper.pdf
+    title: "The Bitcoin Lightning Network (Poon & Dryja, 2016)"
 ---
 
 # What it is
@@ -20,7 +25,3 @@ The Lightning Network is Bitcoin's main layer-2, proposed by Joseph Poon and Tha
 # Why it matters
 
 Lightning is Bitcoin's answer to the [scalability trilemma](/concepts/scalability-trilemma.md): rather than enlarge blocks and raise [node](/concepts/node.md) costs, it moves high-volume, low-value payments off the base layer. This mirrors, from a different starting point, Ethereum's choice to scale via [layer-2 rollups](/ethereum/layer-2-rollups.md).
-
-# Citations
-
-[1] [The Bitcoin Lightning Network (Poon & Dryja, 2016)](https://lightning.network/lightning-network-paper.pdf)

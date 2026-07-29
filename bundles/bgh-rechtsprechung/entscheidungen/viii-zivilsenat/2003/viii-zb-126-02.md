@@ -9,13 +9,14 @@ datum: 2003-06-10
 aktenzeichen: "VIII ZB 126/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:07:44Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:07:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2002/VIII_ZB_126-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 10.06.2003 - VIII ZB 126/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 126/02 vom 10.06.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.06.2003 - VIII ZB 126/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2002/VIII_ZB_126-02.pdf?__blob=publicationFile&v=1)
-

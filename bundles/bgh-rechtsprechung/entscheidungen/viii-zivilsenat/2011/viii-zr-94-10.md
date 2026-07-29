@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 94/10"
 doknr: "KORE313012011"
 normen: ["§ 123 BGB, § 139 BGB, § 166 BGB, § 278 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 30.03.2011 - VIII ZR 94/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Frage einer Zurechnung des Verhaltens eines vom Leasinggeber mit der Vorbereitung des Leasingvertrags betrauten Lieferanten, der dem Leasingnehmer unter Hinweis auf eine angebliche "Kostenneutralität" des Gesamtgeschäfts ohne Wissen des Leasinggebers den Abschluss eines "Werbevertrags" anrät (im Anschluss an BGH, Urteile vom 20. Oktober 2004, VIII ZR 36/03, NJW 2005, 365 und BGH, 1. Juni 2005, VIII ZR 234/04, NJW-RR 2005, 1421) .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 94/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 30.03.2011 - VIII ZR 94/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

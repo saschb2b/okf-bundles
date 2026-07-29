@@ -10,8 +10,14 @@ aktenzeichen: "II ZB 1/11"
 doknr: "KORE300892013"
 normen: ["§ 71 Abs 3 ZPO, § 80 ZPO, § 108 Abs 1 AktG, § 112 AktG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.05.2013 - II ZB 1/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die von einem Nebenintervenienten bis zur Zurückweisung seines Beitritts wirksam vorgenommenen Prozesshandlungen behalten auch nach Rechtskraft der Zurückweisungsentscheidung ihre Wirksamkeit.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:14:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 1/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.05.2013 - II ZB 1/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

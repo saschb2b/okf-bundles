@@ -4,7 +4,12 @@ title: JavaScript in JSX with Curly Braces
 description: How to reference JavaScript variables, calls, and objects inside JSX using curly braces.
 resource: https://react.dev/learn/javascript-in-jsx-with-curly-braces
 tags: [react, jsx, javascript, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/javascript-in-jsx-with-curly-braces
+    title: "JavaScript in JSX with Curly Braces"
 ---
 
 # Summary
@@ -90,7 +95,3 @@ return (
 - Curly braces bring JavaScript logic and variables into your markup.
 - They work inside JSX tag content or immediately after `=` in attributes.
 - `{{` and `}}` is not special syntax: it is a JavaScript object inside JSX curly braces.
-
-# Citations
-
-[1] [JavaScript in JSX with Curly Braces](https://react.dev/learn/javascript-in-jsx-with-curly-braces)

@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 87/13"
 doknr: "KORE300662014"
 normen: ["§ 45m Abs 1 S 1 TKG, § 78 Abs 2 Nr 3 TKG, § 12 BGB, Art 5 Abs 1 Buchst a EGRL 22/2002, Art 25 Abs 1  EGRL 22/2002"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.04.2014 - III ZR 87/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. "Name" im Sinne von § 45m Abs. 1 Satz 1 TKG ist auch die Geschäftsbezeichnung, unter der ein Teilnehmer ein Gewerbe betreibt, für das der Telefonanschluss besteht.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 87/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.04.2014 - III ZR 87/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

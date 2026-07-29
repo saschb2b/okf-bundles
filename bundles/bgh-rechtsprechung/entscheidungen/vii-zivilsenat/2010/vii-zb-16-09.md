@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 16/09"
 doknr: "KORE312812010"
 normen: ["§ 811 Abs 1 Nr 5 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.01.2010 - VII ZB 16/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Unpfändbar sind auch die Gegenstände des Schuldners, die sein Ehegatte zur Fortsetzung einer Erwerbstätigkeit benötigt    .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 16/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.01.2010 - VII ZB 16/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

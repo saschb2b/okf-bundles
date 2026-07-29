@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:130722UVIIIZR317.21.0"
 doknr: "KORE302052022"
 normen: ["§ 312g Abs 1 BGB, § 312g Abs 2 Nr 9 BGB, § 313 Abs 1 BGB, § 313 Abs 3 BGB, § 453 Abs 1 BGB, § 807 BGB, § 929 BGB, §§ 929ff BGB, Art 240 § 5 BGBEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.07.2022 - VIII ZR 317/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei dem Vertrieb von Eintrittskarten über eine Vorverkaufsstelle, die als Kommissionärin des Veranstalters handelt, wird zwischen dieser und dem Käufer ein Rechtskaufvertrag abgeschlossen. Kaufgegenstand ist das Recht auf Teilnahme an der von dem Veranstalter durchzuführenden Veranstaltung, das durch die Eintrittskarte als kleines Inhaberpapier (§ 807 BGB) verbrieft ist und durch deren Übereignung (§§ 929 ff. BGB) übertragen wird.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:27:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 317/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.07.2022 - VIII ZR 317/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

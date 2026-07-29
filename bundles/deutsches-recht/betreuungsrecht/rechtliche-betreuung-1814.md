@@ -5,7 +5,16 @@ description: Kann ein Volljähriger seine Angelegenheiten krankheits- oder behin
 resource: https://www.gesetze-im-internet.de/bgb/__1814.html
 tags: [betreuungsrecht, betreuung, erforderlichkeit, aufgabenbereiche]
 norm: "§§ 1814, 1815, 1816 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1814.html
+    title: "§ 1814 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1815.html
+    title: "§ 1815 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1816.html
+    title: "§ 1816 BGB"
 ---
 
 # Voraussetzungen (§ 1814)
@@ -26,9 +35,3 @@ Bei der Auswahl ist dem **Wunsch** des Betreuten zu entsprechen; Vorrang haben n
 # Bezug
 
 Der Betreuer ist gesetzlicher Vertreter im Aufgabenbereich (vergleiche [Stellvertretung](/bgb-at/stellvertretung.md)), aber an die [Wünsche des Betreuten](/betreuungsrecht/wuensche-und-selbstbestimmung-1821.md) gebunden. Die Betreuung der Person Minderjähriger ist die [elterliche Sorge](/familienrecht/elterliche-sorge-1626.md).
-
-# Citations
-
-[1] [§ 1814 BGB](https://www.gesetze-im-internet.de/bgb/__1814.html)
-[2] [§ 1815 BGB](https://www.gesetze-im-internet.de/bgb/__1815.html)
-[3] [§ 1816 BGB](https://www.gesetze-im-internet.de/bgb/__1816.html)

@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu AufwErstV"
 description: "BGH-Entscheidungen zu AufwErstV, geordnet nach Vorschrift."
 tags: [register, navigation, aufwerstv]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

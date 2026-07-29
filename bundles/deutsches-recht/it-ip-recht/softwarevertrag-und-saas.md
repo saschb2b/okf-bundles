@@ -5,7 +5,18 @@ description: Die rechtliche Einordnung der Softwareüberlassung richtet sich nac
 resource: https://www.gesetze-im-internet.de/bgb/__327.html
 tags: [it-recht, softwarevertrag, saas, werkvertrag, digitale-produkte, vertragstypen]
 norm: "§§ 433, 453, 535, 631, 327 bis 327u BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__327.html
+    title: "§ 327 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__327f.html
+    title: "§ 327f BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__535.html
+    title: "§ 535 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__631.html
+    title: "§ 631 BGB"
 ---
 
 # Einordnung nach Überlassungsform
@@ -33,10 +44,3 @@ Software- und SaaS-Verträge werden meist über AGB geschlossen; Haftungs-, Verf
 # Bezug
 
 Die Nutzung setzt die Einräumung von [Nutzungsrechten](/it-ip-recht/urheberrecht-und-lizenz-31-97.md) voraus; der Vertrag kombiniert daher schuldrechtliche Überlassung und urheberrechtliche Lizenz. Verträge mit Verbrauchern berühren zudem den [Datenschutz](/it-ip-recht/datenschutz-dsgvo-bdsg.md), wenn mit Daten gezahlt wird.
-
-# Citations
-
-[1] [§ 327 BGB](https://www.gesetze-im-internet.de/bgb/__327.html)
-[2] [§ 327f BGB](https://www.gesetze-im-internet.de/bgb/__327f.html)
-[3] [§ 535 BGB](https://www.gesetze-im-internet.de/bgb/__535.html)
-[4] [§ 631 BGB](https://www.gesetze-im-internet.de/bgb/__631.html)

@@ -10,8 +10,14 @@ aktenzeichen: "ARNot 1/21"
 doknr: "KORE306512022"
 normen: ["§ 42 Abs 2 ZPO, § 43  ZPO, § 45 Abs 3 ZPO, § 80 Abs 5 VwGO, § 123 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 15.11.2021 - ARNot 1/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In der schriftsätzlichen Stellung und Begründung von Anträgen im vorläufigen Rechtsschutzverfahren gemäß § 80 Abs. 5, § 123 VwGO liegt eine Einlassung im Sinn von § 43 ZPO.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen ARNot 1/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.11.2021 - ARNot 1/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:051022BXIIZB74.20.0"
 doknr: "KORE307622022"
 normen: ["§ 23 VersAusglG, § 24 VersAusglG, § 39 VersAusglG, § 40 VersAusglG, § 70 FamFG, § 150 FamFG, § 223 FamFG, § 224 FamFG, § 280 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.10.2022 - XII ZB 74/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Zulassung der Rechtsbeschwerde kann auf die Frage der Zulässigkeit des Antrags beschränkt werden, über die vorab durch Zwischenbeschluss entschieden werden kann; dies gilt in Familienverfahren nicht nur für Familienstreitsachen, sondern auch für kontradiktorisch geführte Streitsachen der freiwilligen Gerichtsbarkeit, in denen ein Zwischenbeschluss über die strittigen Fragen der Zulässigkeit des verfahrenseinleitenden Antrags ergehen kann.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 74/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.10.2022 - XII ZB 74/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

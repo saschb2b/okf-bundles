@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 34/16"
 doknr: "KORE600042016"
 normen: ["§ 227 Abs 1 ZPO, § 227 Abs 4 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:55Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:55Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.09.2016 - AnwZ (Brfg) 34/16 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 227 Abs 1 ZPO, § 227 Abs 4 S 1 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:32:55Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 34/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.09.2016 - AnwZ (Brfg) 34/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

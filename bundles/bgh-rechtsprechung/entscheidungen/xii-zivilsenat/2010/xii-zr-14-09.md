@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 14/09"
 doknr: "KORE315862010"
 normen: ["§ 162 BGB, § 242 BGB, § 741 BGB, § 743 Abs 1 BGB, § 745 Abs 2 BGB, § 748 BGB, § 1090 BGB, § 1091 BGB, § 1092 BGB, § 1093 BGB, Art 96 BGBEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.08.2010 - XII ZR 14/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Dem Ehegatten, der nach endgültiger Trennung aus der im Alleineigentum des anderen Ehegatten stehenden Ehewohnung ausgezogen ist, kann in entsprechender Anwendung des § 745 Abs. 2 BGB ein Anspruch auf Nutzungsentschädigung zustehen, wenn er an der Ehewohnung ein dingliches Mitbenutzungsrecht in Form einer beschränkten persönlichen Dienstbarkeit nach §§ 1090 bis 1092 BGB hat     .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 14/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.08.2010 - XII ZR 14/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

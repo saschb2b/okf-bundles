@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:220519UVIIIZR180.18.0"
 doknr: "KORE308592019"
 normen: ["§ 573 Abs 2 Nr 2 BGB, § 574 Abs 1 S 1 BGB, § 574 Abs 2 BGB, § 574a Abs 2 BGB, § 144 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.05.2019 - VIII ZR 180/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Eine Fortsetzung des Mietverhältnisses setzt nicht voraus, dass die auf Seiten des Mieters bestehende Härte die Interessen des Vermieters deutlich überwiegt. Maßgebend ist allein, ob sich ein Übergewicht der Belange der Mieterseite feststellen lässt, also die Interessenabwägung zu einem klaren Ergebnis führt.
@@ -46,8 +52,3 @@ timestamp: 2026-06-22T12:30:10Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 180/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.05.2019 - VIII ZR 180/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

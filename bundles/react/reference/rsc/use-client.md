@@ -4,7 +4,12 @@ title: "'use client'"
 description: The "use client" directive marks a module and its dependencies as client code, creating a server-client boundary in the module tree.
 resource: https://react.dev/reference/rsc/use-client
 tags: [react, rsc, directive, client-components, boundary]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/rsc/use-client
+    title: "'use client' directive"
 ---
 
 # Reference
@@ -66,7 +71,3 @@ Props passed from a Server Component to a Client Component must be serializable.
 
 - The default, server-rendered counterpart: [Server Components](/reference/rsc/server-components.md).
 - The server-side directive for callable functions: [`"use server"`](/reference/rsc/use-server.md) and [Server Functions](/reference/rsc/server-functions.md).
-
-# Citations
-
-[1] ['use client' directive](https://react.dev/reference/rsc/use-client)

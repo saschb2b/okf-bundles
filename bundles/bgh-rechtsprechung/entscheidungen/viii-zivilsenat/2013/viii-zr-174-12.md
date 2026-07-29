@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 174/12"
 doknr: "KORE306172013"
 normen: ["§ 305c Abs 2 BGB, § 309 Nr 7 Buchst a BGB, § 309 Nr 7 Buchst b BGB, § 437 BGB, § 287 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.05.2013 - VIII ZR 174/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Klausel in Allgemeinen Geschäftsbedingungen (hier: eines Gebrauchtwagenkaufvertrags), mit der die gesetzliche Verjährungsfrist für die Ansprüche des Käufers wegen eines Mangels der verkauften Sache abgekürzt wird, ist wegen Verstoßes gegen die Klauselverbote des § 309 Nr. 7 Buchst. a und b BGB insgesamt unwirksam, wenn die in diesen Klauselverboten bezeichneten Schadensersatzansprüche nicht von der Abkürzung der Verjährungsfrist ausgenommen werden (Bestätigung von BGH, Urteile vom 15. November 2006, VIII ZR 3/06, BGHZ 170, 31 Rn. 19 und vom 26. Februar 2009, Xa ZR 141/07, NJW 2009, 1486 Rn. 17).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 174/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.05.2013 - VIII ZR 174/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

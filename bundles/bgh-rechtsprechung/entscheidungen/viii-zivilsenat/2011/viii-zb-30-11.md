@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 30/11"
 doknr: "JURE110023155"
 normen: ["§ 520 Abs 3 Nr 1 ZPO, § 520 Abs 3 Nr 2 ZPO, § 535 BGB, § 536 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:11Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.11.2011 - VIII ZB 30/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 520 Abs 3 Nr 1 ZPO, § 520 Abs 3 Nr 2 ZPO, § 535 BGB, § 536 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:11Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 30/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.11.2011 - VIII ZB 30/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

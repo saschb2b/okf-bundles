@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:030220UANWZ.BRFG.36.18.0"
 doknr: "KORE604262020"
 normen: ["§ 7 Nr 8 BRAO, § 46a Abs 1 S 1 Nr 2 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 03.02.2020 - AnwZ (Brfg) 36/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Zulassungshindernis des § 7 Nr. 8 BRAO kann auch einer Zulassung als Syndikusrechtsanwalt entgegenstehen.
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:33:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 36/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 03.02.2020 - AnwZ (Brfg) 36/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

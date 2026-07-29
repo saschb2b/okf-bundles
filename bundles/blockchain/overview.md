@@ -3,7 +3,9 @@ type: Bundle Overview
 title: Blockchain bundle at a glance
 description: Shared blockchain primitives plus per-chain concepts, so the differences between chains fall out of the graph.
 tags: [blockchain, bitcoin, ethereum, overview]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
 ---
 
 # What this bundle is

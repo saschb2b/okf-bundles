@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 166/14"
 doknr: "KORE313082015"
 normen: ["§ 242 BGB, § 573 Abs 2 Nr 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.03.2015 - VIII ZR 166/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Gerichte haben grundsätzlich zu respektieren, welchen Wohnbedarf der Vermieter für sich oder seine Angehörigen als angemessen sieht. Sie sind daher nicht berechtigt, ihre Vorstellungen von angemessenem Wohnen verbindlich an die Stelle der Lebensplanung des Vermieters (oder seiner Angehörigen) zu setzen (im Anschluss an BVerfG, 14. Februar 1989, 1 BvR 308/88, BVerfGE 79, 292, 304 f.; BVerfG, 26. Mai 1993, 1 BvR 208/93, BVerfGE 89, 1, 9; BVerfG, 2. Februar 1994, 1 BvR 1422/93, NJW 1994, 995; BVerfG, 20. Februar 1995, 1 BvR 665/94, NJW 1995, 1480, 1481; BVerfG, 20. Mai 1999, 1 BvR 29/99, NJW-RR 1999, 1097, 1098).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:31:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 166/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.03.2015 - VIII ZR 166/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

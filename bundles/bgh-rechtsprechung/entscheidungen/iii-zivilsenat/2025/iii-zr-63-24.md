@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:130225UIIIZR63.24.0"
 doknr: "KORE705142025"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:59Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:59Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.02.2025 - III ZR 63/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Darlegungs- und Beweislast im Amtshaftungsprozess; Anspruch aus Aufopferung bei Verletzung des allgemeinen Persönlichkeitsrechts
@@ -30,8 +36,3 @@ Darlegungs- und Beweislast im Amtshaftungsprozess; Anspruch aus Aufopferung bei 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 63/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.02.2025 - III ZR 63/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

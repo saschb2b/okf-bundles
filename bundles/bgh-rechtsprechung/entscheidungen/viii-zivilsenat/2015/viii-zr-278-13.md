@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 278/13"
 doknr: "KORE303972015"
 normen: ["§ 573 Abs 1 S 1 BGB, § 573 Abs 2 Nr 1 BGB, § 573d Abs 1 BGB, § 1056 Abs 1 BGB, § 1056 Abs 2 BGB, § 2135 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.07.2015 - VIII ZR 278/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Recht des Nacherben, ein vom Vorerben über ein zum Nachlass gehörendes Grundstück abgeschlossenes und bei Eintritt der Nacherbfolge noch bestehendes Wohnraummietverhältnis außerordentlich unter Einhaltung der gesetzlichen Kündigungsfrist nach §§ 2135, 1056 Abs. 2 BGB zu kündigen, setzt ein berechtigtes Interesse des Nacherben an der Beendigung des Mietverhältnisses voraus (§ 573d Abs. 1, § 573 Abs. 1 Satz 1 BGB).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 278/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.07.2015 - VIII ZR 278/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

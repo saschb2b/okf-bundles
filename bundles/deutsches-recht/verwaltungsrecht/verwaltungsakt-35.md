@@ -5,7 +5,12 @@ description: Der Verwaltungsakt ist jede hoheitliche Maßnahme einer Behörde zu
 resource: https://www.gesetze-im-internet.de/vwvfg/__35.html
 tags: [verwaltungsrecht, verwaltungsakt, vwvfg, handlungsform]
 norm: "§ 35 VwVfG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/vwvfg/__35.html
+    title: "§ 35 VwVfG"
 ---
 
 # Definition (§ 35 Satz 1)
@@ -23,7 +28,3 @@ Verwaltungsakt ist jede **Verfügung, Entscheidung oder andere hoheitliche Maßn
 # Bedeutung
 
 Die Einordnung als Verwaltungsakt entscheidet über die Handlungsform der Behörde, über die statthafte [Klageart](/verwaltungsrecht/klagearten-42-vwgo.md) (Anfechtungs- oder Verpflichtungsklage) und über die Anwendbarkeit der Vorschriften über [Nebenbestimmungen](/verwaltungsrecht/nebenbestimmungen-36.md) sowie [Rücknahme und Widerruf](/verwaltungsrecht/ruecknahme-widerruf-48-49.md).
-
-# Citations
-
-[1] [§ 35 VwVfG](https://www.gesetze-im-internet.de/vwvfg/__35.html)

@@ -5,7 +5,14 @@ description: Ohne Testament erben die Verwandten nach Ordnungen; eine vorhergehe
 resource: https://www.gesetze-im-internet.de/bgb/__1924.html
 tags: [erbrecht, gesetzliche-erbfolge, ordnungen, stamm]
 norm: "§§ 1924 bis 1930 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1924.html
+    title: "§ 1924 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1922.html
+    title: "§ 1922 BGB"
 ---
 
 # Gesamtrechtsnachfolge
@@ -28,8 +35,3 @@ Ein lebender Abkömmling schließt die durch ihn verwandten Abkömmlinge aus (§
 # Bezug
 
 Neben den Verwandten erbt der überlebende Ehegatte nach eigenem Recht ([§ 1931](/erbrecht/ehegattenerbrecht-1931.md)). Wer durch Testament ausgeschlossen ist, kann den [Pflichtteil](/erbrecht/pflichtteil-2303.md) verlangen.
-
-# Citations
-
-[1] [§ 1924 BGB](https://www.gesetze-im-internet.de/bgb/__1924.html)
-[2] [§ 1922 BGB](https://www.gesetze-im-internet.de/bgb/__1922.html)

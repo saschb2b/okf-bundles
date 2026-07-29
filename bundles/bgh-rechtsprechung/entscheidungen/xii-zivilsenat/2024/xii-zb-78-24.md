@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:201124BXIIZB78.24.0"
 doknr: "KORE700782025"
 normen: ["§ 1603 Abs 2 S 1  BGB, § 1603 Abs 2 S 3  BGB, § 1612a Abs 1 BGB, § 1612b Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:39:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:39:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.11.2024 - XII ZB 78/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1.    Anders als beim Zusammenleben des Unterhaltspflichtigen mit einem Ehegatten oder Partner in nichtehelicher Lebensgemeinschaft ist die Herabsetzung des notwendigen Selbstbehalts bei einer Wohn- oder Haushaltsgemeinschaft mit einem Dritten nicht gerechtfertigt (Fortführung des Senatsurteils vom 9. Januar 2008 - XII ZR 170/05, FamRZ 2008, 594).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:39:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 78/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.11.2024 - XII ZB 78/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

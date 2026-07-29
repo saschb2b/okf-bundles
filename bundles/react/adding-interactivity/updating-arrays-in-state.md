@@ -4,7 +4,12 @@ title: Updating Arrays in State
 description: Update an array held in React state with non-mutating operations that return a new array.
 resource: https://react.dev/learn/updating-arrays-in-state
 tags: [react, state, immutability, arrays, immer]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/updating-arrays-in-state
+    title: "Updating Arrays in State"
 ---
 
 # Summary
@@ -131,7 +136,3 @@ updateMyList(draft => {
 - Use `filter()` and `map()` to remove or transform items into a new array.
 - Copy the array first if you need `reverse()` or `sort()`, and copy nested objects to change their fields.
 - Use Immer to keep update logic concise.
-
-# Citations
-
-[1] [Updating Arrays in State](https://react.dev/learn/updating-arrays-in-state)

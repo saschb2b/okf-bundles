@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 45/12"
 doknr: "KORE300582013"
 normen: ["§ 91a ZPO, § 314 S 1 ZPO, § 511 ZPO, § 535 BGB, §§ 535ff BGB, § 546 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.03.2013 - VIII ZB 45/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Beweisregel des § 314 Satz 1 ZPO gilt auch für die im Urteil aufgeführten prozessualen Erklärungen der Parteien, die in der mündlichen Verhandlung abgegeben worden sind (im Anschluss an BVerwG, 3. Juli 1987, 4 C 12/84, NJW 1988, 1228).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 45/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.03.2013 - VIII ZB 45/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

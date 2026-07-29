@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 81/09"
 doknr: "JURE100063004"
 normen: ["§ 240 ZPO, § 574 Abs 3 S 2  ZPO, § 568 S 2 Nr 2 ZPO, Art 101 Abs 1 S 2  GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.04.2010 - VIII ZB 81/09 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 240 ZPO, § 574 Abs 3 S 2  ZPO, § 568 S 2 Nr 2 ZPO, Art 101 Abs 1 S 2  GG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 81/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.04.2010 - VIII ZB 81/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

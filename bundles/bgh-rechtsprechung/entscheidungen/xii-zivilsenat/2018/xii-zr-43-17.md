@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:110418UXIIZR43.17.0"
 doknr: "KORE300702018"
 normen: ["§ 140 BGB, § 550 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.04.2018 - XII ZR 43/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Änderung der Miete, die auf einer Vertragsklausel beruht, wonach eine Vertragspartei bei Vorliegen einer bestimmten Indexänderung eine Neufestsetzung verlangen kann, unterfällt - anders als bei einer Anpassungsautomatik oder einem einseitigen Änderungsrecht - dem Schriftformerfordernis des § 550 Satz 1 BGB.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:14:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 43/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.04.2018 - XII ZR 43/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

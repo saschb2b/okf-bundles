@@ -4,7 +4,12 @@ title: createRoot
 description: The react-dom/client API that creates a React root for a browser DOM node and returns render and unmount methods to manage a fully client-rendered app.
 resource: https://react.dev/reference/react-dom/client/createRoot
 tags: [react, react-dom, client, rendering, root]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/client/createRoot
+    title: "createRoot"
 ---
 
 # Reference
@@ -66,7 +71,3 @@ Destroys the rendered tree, unmounts all components, and detaches React from the
 - "Target container is not a DOM element": the argument is not a DOM node (for example `getElementById` returned `null` due to an ID typo or a script that runs before the node exists), or you wrote `createRoot(<App />)` instead of `createRoot(domNode)`.
 - "Functions are not valid as a React child": you passed `App` or `createApp` instead of `<App />` or `createApp()` to `render`.
 - Server-rendered HTML re-created from scratch: use `hydrateRoot` instead of `createRoot`.
-
-# Citations
-
-[1] [createRoot](https://react.dev/reference/react-dom/client/createRoot)

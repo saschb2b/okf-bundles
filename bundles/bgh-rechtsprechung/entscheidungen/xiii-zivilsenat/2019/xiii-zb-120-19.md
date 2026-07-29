@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:121119BXIIIZB120.19.0"
 doknr: "KORE313582019"
 normen: ["Art 2 Buchst b  EGV 1370/2007, Art 5 Abs 1 S 2 EGV 1370/2007, Art 5 Abs 2 EGV 1370/2007, § 1 Abs 1  KomGArbG NW, § 6 KomGArbG NW, § 3 Abs 1  ÖPNVG NW"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.11.2019 - XIII ZB 120/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Busvergabe Heinsberg
@@ -28,8 +34,3 @@ Busvergabe Heinsberg
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 120/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.11.2019 - XIII ZB 120/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

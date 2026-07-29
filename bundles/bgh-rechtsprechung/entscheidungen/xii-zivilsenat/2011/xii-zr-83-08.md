@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 83/08"
 doknr: "KORE310162011"
 normen: ["§ 242 BGB, § 1571 BGB, § 1573 BGB, § 1577 BGB, § 1578 BGB, § 1578b Abs 1 BGB, § 1578b Abs 2 BGB, § 1603 BGB, § 1606 BGB, § 1610 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.01.2011 - XII ZR 83/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine vom Unterhaltspflichtigen nach Erreichen der Regelaltersgrenze für die gesetzliche Rente ausgeübte Erwerbstätigkeit ist - entsprechend der Lage für den Unterhaltsberechtigten - sowohl hinsichtlich des Ehegattenunterhalts als auch des Kindesunterhalts regelmäßig überobligatorisch. Hierfür ist es unerheblich, ob der Unterhaltspflichtige abhängig beschäftigt oder selbständig tätig ist .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:30:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 83/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.01.2011 - XII ZR 83/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

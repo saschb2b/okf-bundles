@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 162/09"
 doknr: "KORE315262011"
 normen: ["§ 307 BGB, § 310 Abs 2 BGB, § 315 BGB, § 1 AVBGasV, § 4 AVBGasV, § 32 Abs 2 AVBGasV, Art 1 Abs 2 EWGRL 13/93, Art 3 Abs 3 Anh 1 Nr 1 Buchst j EWGRL 13/93, Art 3 Abs 3 Anh 1 Nr 2 Buchst b S 2 EWGRL 13/93, Art 5 EWGRL 13/93, Art 3 Abs 3 Anh A Buchst b EGRL 55/2003, Art 3 Abs 3 Anh A Buchst c EGRL 55/2003, Art 267 AEUV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, EuGH-Vorlage vom 09.02.2011 - VIII ZR 162/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Dem Gerichtshof der Europäischen Union werden folgende Fragen zur Auslegung des Gemeinschaftsrechts gemäß Art. 267 AEUV zur Vorabentscheidung vorgelegt:
@@ -27,8 +33,3 @@ Dem Gerichtshof der Europäischen Union werden folgende Fragen zur Auslegung des
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 162/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, EuGH-Vorlage vom 09.02.2011 - VIII ZR 162/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

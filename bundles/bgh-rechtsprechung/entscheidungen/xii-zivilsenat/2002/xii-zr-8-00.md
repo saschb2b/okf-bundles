@@ -9,13 +9,14 @@ datum: 2002-05-08
 aktenzeichen: "XII ZR 8/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:05:11Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:05:11Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2000/XII_ZR___8-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 08.05.2002 - XII ZR 8/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZR 8/00 vom 08.05.2002.
-
-# Citations
-
-[1] [BGH, Urteil vom 08.05.2002 - XII ZR 8/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2000/XII_ZR___8-00.pdf?__blob=publicationFile&v=1)
-

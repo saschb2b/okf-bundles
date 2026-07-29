@@ -5,7 +5,16 @@ description: Eine Forderung kann durch Vertrag auf einen neuen Gläubiger übert
 resource: https://www.gesetze-im-internet.de/bgb/__398.html
 tags: [schuldrecht-at, abtretung, zession, glaeubigerwechsel, forderungskauf]
 norm: "§§ 398, 404, 406, 407, 409 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__398.html
+    title: "§ 398 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__404.html
+    title: "§ 404 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__407.html
+    title: "§ 407 BGB"
 ---
 
 # Regel (§ 398)
@@ -24,9 +33,3 @@ Weil der Schuldner an der Abtretung nicht beteiligt ist, schützt ihn das Gesetz
 # Bezug
 
 Bei einer abgetretenen oder zum Inkasso übertragenen Forderung führt der neue Gläubiger das [Forderungskonto](/schuldrecht-at/tilgungsreihenfolge-366-367.md) fort; einredebehaftete oder verjährte Forderungen bleiben es auch in seiner Hand.
-
-# Citations
-
-[1] [§ 398 BGB](https://www.gesetze-im-internet.de/bgb/__398.html)
-[2] [§ 404 BGB](https://www.gesetze-im-internet.de/bgb/__404.html)
-[3] [§ 407 BGB](https://www.gesetze-im-internet.de/bgb/__407.html)

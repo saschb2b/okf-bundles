@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:220621BVIIIZB56.20.0"
 doknr: "KORE302222021"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO, § 234 ZPO, § 520 Abs 2 S 3 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.06.2021 - VIII ZB 56/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zu den Anforderungen an das Fristenwesen des Rechtsanwalts für den Fall eines Fristverlängerungsantrags (im Anschluss an Senatsbeschluss vom 4. September 2018 - VIII ZB 70/17, NJW-RR 2018, 1325 Rn. 15 mwN).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 56/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.06.2021 - VIII ZB 56/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

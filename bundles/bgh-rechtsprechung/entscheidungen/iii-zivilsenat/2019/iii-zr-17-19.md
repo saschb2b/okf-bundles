@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:071119UIIIZR17.19.0"
 doknr: "KORE309082019"
 normen: ["§ 242 BGB, § 394 S 1 BGB, § 399 Alt 1 BGB, § 851 Abs 1 ZPO, § 198 Abs 1 S 1 GVG, § 198 Abs 5 S 3 GVG, Art 6 Abs 1 S 1  MRK"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.11.2019 - III ZR 17/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 198 Abs. 1 Satz 1 GVG normiert einen staatshaftungsrechtlichen, verschuldensunabhängigen Entschädigungsanspruch sui generis, der Verfahrensbeteiligten das Recht auf eine angemessene Entschädigung für Nachteile gewährt, die infolge einer unangemessenen Dauer eines Gerichtsverfahrens eingetreten sind. Anders als bei einem Amtshaftungsanspruch wegen menschenunwürdiger Haftbedingungen soll durch die Gewährung einer Entschädigung kein schuldhaftes Fehlverhalten staatlicher Stellen mit spürbaren Auswirkungen für den ersatzpflichtigen Staat sanktioniert ("bestraft") werden (Abgrenzung zu dem Senatsurteil vom 1. Oktober 2009 - III ZR 18/09, BGHZ 182, 301).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 17/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.11.2019 - III ZR 17/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,18 @@ description: Der Insolvenzplan erlaubt es, Befriedigung, Verwertung und Verteilu
 resource: https://www.gesetze-im-internet.de/inso/__217.html
 tags: [insolvenzrecht, insolvenzplan, sanierung, gruppenbildung, obstruktionsverbot, planbestaetigung]
 norm: "§§ 217, 219, 221, 222, 244, 245, 248, 254 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__217.html
+    title: "§ 217 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__222.html
+    title: "§ 222 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__245.html
+    title: "§ 245 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__254.html
+    title: "§ 254 InsO"
 ---
 
 # Gestaltungsmöglichkeit (§ 217)
@@ -31,10 +42,3 @@ Nach Annahme und Zustimmung des Schuldners **bestätigt das Gericht** den Plan (
 # Bezug
 
 Der Plan wird oft in der [Eigenverwaltung oder unter dem Schutzschirm](/insolvenzrecht/eigenverwaltung-und-schutzschirm-270.md) vorbereitet. Er verteilt anders als die gesetzliche [Quote](/insolvenzrecht/forderungsanmeldung-174.md) und kann die [Restschuldbefreiung](/insolvenzrecht/restschuldbefreiung-286.md) natürlicher Personen ersetzen oder ergänzen.
-
-# Citations
-
-[1] [§ 217 InsO](https://www.gesetze-im-internet.de/inso/__217.html)
-[2] [§ 222 InsO](https://www.gesetze-im-internet.de/inso/__222.html)
-[3] [§ 245 InsO](https://www.gesetze-im-internet.de/inso/__245.html)
-[4] [§ 254 InsO](https://www.gesetze-im-internet.de/inso/__254.html)

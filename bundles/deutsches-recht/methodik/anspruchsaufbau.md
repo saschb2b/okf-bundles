@@ -3,7 +3,12 @@ type: Methodik
 title: "Anspruchsaufbau"
 description: Die zivilrechtliche Fallprüfung fragt "Wer will was von wem woraus" und prüft die Anspruchsgrundlage in der Reihenfolge Entstehung, Untergang, Durchsetzbarkeit.
 tags: [methodik, anspruchsgrundlage, fallloesung, zivilrecht]
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/
+    title: "Bürgerliches Gesetzbuch (BGB)"
 ---
 
 # Leitfrage
@@ -25,7 +30,3 @@ Bei mehreren in Betracht kommenden Grundlagen gilt eine übliche Prüfungsreihen
 # Bezug
 
 Jede Stufe greift auf Konzepte des [BGB AT](/bgb-at/willenserklaerung.md) und des [Schuldrecht AT](/schuldrecht-at/verzug.md) zu. Die Darstellung folgt dem [Gutachtenstil](/methodik/gutachtenstil.md).
-
-# Citations
-
-[1] [Bürgerliches Gesetzbuch (BGB)](https://www.gesetze-im-internet.de/bgb/)

@@ -3,7 +3,14 @@ type: Accounting Model
 title: Account model
 description: A global state of balances that transactions mutate directly, the natural fit for stateful smart contracts.
 tags: [account, accounting, ethereum, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/developers/docs/accounts/
+    title: "Accounts (Ethereum.org docs)"
+  - resource: https://ethereum.org/en/developers/docs/intro-to-ethereum/
+    title: "Intro to Ethereum (Ethereum.org docs)"
 ---
 
 # What it is
@@ -19,8 +26,3 @@ In the **account model**, the ledger is a global map from accounts to state (a b
 # In practice, and the contrast
 
 Ethereum is the canonical account chain, with two account kinds detailed in [Ethereum accounts](/ethereum/accounts.md). The tradeoffs against Bitcoin's UTXO approach, for privacy, parallelism, and programmability, are drawn out in [UTXO vs account](/comparison/utxo-vs-account.md).
-
-# Citations
-
-[1] [Accounts (Ethereum.org docs)](https://ethereum.org/en/developers/docs/accounts/)
-[2] [Intro to Ethereum (Ethereum.org docs)](https://ethereum.org/en/developers/docs/intro-to-ethereum/)

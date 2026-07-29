@@ -9,13 +9,14 @@ datum: 2003-03-20
 aktenzeichen: "IXa ZB 39/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:22:37Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:22:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IXa_ZS/2003/IXa_ZB__39-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 20.03.2003 - IXa ZB 39/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IXa ZB 39/03 vom 20.03.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.03.2003 - IXa ZB 39/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IXa_ZS/2003/IXa_ZB__39-03.pdf?__blob=publicationFile&v=1)
-

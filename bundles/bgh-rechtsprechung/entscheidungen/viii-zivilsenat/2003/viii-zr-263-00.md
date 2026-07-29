@@ -9,13 +9,14 @@ datum: 2003-03-05
 aktenzeichen: "VIII ZR 263/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:22:43Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:22:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2000/VIII_ZR_263-00A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.03.2003 - VIII ZR 263/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 263/00 vom 05.03.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.03.2003 - VIII ZR 263/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2000/VIII_ZR_263-00A.pdf?__blob=publicationFile&v=1)
-

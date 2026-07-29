@@ -9,13 +9,14 @@ datum: 2009-11-10
 aktenzeichen: "VIII ZB 60/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:40:44Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:40:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZB__60-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 10.11.2009 - VIII ZB 60/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 60/09 vom 10.11.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.11.2009 - VIII ZB 60/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2009/VIII_ZB__60-09.pdf?__blob=publicationFile&v=1)
-

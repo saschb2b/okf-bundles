@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:060416UVIIIZR71.10.0"
 doknr: "KORE305012016"
 normen: ["§ 133 BGB, § 157 BGB, § 315 BGB, § 433 Abs 2 BGB, § 1 Abs 1 EnWG 2005, § 2 Abs 1 EnWG 2005, § 4 Abs 1 AVBGasV 2005, § 4 Abs 2 AVBGasV 2005, § 5 Abs 2  GasGVV vom 26.10.2006, Art 3 Abs 3 Anh A EGRL 55/2003"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:04Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:04Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.04.2016 - VIII ZR 71/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Den Vorschriften des § 4 Abs. 1, 2 AVBGasV und des § 5 Abs. 2 GasGVV aF kann ein gesetzliches Preisanpassungsrecht des Gasgrundversorgers für die Zeit ab dem 1. Juli 2004 - dem Ablauf der Umsetzungsfrist der Gas-Richtlinie 2003/55/EG - nicht (mehr) entnommen werden, weil eine solche Auslegung nicht mit den Transparenzanforderungen des Art. 3 Abs. 3 in Verbindung mit Anhang A dieser Richtlinie vereinbar ist; jedoch ergibt sich aus der gebotenen ergänzenden Vertragsauslegung (§§ 157, 133 BGB) des Gaslieferungsvertrages, dass der Gasversorger Preiserhöhungen zwar nicht mehr in dem bisher nach den genannten Vorschriften der Gasgrundversorgungsverordnungen für möglich erachteten Umfang vornehmen darf, er aber berechtigt ist, Steigerungen seiner eigenen (Bezugs-)Kosten, soweit diese nicht durch Kostensenkungen in anderen Bereichen ausgeglichen werden, an den Kunden weiterzugeben, und dass er verpflichtet ist, bei einer Tarifanpassung Kostensenkungen ebenso zu berücksichtigen wie Kostenerhöhungen (Bestätigung und Fortführung der Senatsurteile vom 28. Oktober 2015, VIII ZR 158/11, BGHZ 207, 209, ZIP 2015, 2226 und VIII ZR 13/12, juris, ZIP 2015, 2236; vom 9. Dezember 2015, VIII ZR 208/12, juris, EnWZ 2016, 166, VIII ZR 236/12, juris, und VIII ZR 330/12, juris, EnWZ 2016, 168).
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:29:04Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 71/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.04.2016 - VIII ZR 71/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

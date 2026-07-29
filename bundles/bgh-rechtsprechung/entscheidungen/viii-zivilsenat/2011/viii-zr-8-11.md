@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 8/11"
 doknr: "KORE301912011"
 normen: ["§ 548 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 12.10.2011 - VIII ZR 8/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zum Beginn der Verjährung nach § 548 Abs. 1 Satz 2 BGB .
@@ -23,8 +29,3 @@ Zum Beginn der Verjährung nach § 548 Abs. 1 Satz 2 BGB .
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 8/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 12.10.2011 - VIII ZR 8/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

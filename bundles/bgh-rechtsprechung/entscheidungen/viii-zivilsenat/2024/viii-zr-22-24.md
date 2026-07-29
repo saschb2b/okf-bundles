@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:260324BVIIIZR22.24.0"
 doknr: "KORE300472024"
 normen: ["§ 108 Abs 1 ZPO, § 708 Nr 10 ZPO, § 709 S 2 ZPO, § 711 S 2 ZPO, § 718 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.03.2024 - VIII ZR 22/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Einem Antrag auf Herabsetzung der nach dem Berufungsurteil zur Abwendung der Zwangsvollstreckung zu leistenden Sicherheit durch das Revisionsgericht fehlt es an einer gesetzlichen Grundlage (im Anschluss an BGH, Beschlüsse vom 3. April 1996 - XII ZR 26/96, juris Rn. 3; vom 13. August 1998 - III ZR 81/98, NJW-RR 1999, 213).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 22/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.03.2024 - VIII ZR 22/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

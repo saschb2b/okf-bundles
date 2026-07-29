@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:210325BANWZ.BRFG.29.24.0"
 doknr: "KORE709772025"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.03.2025 - AnwZ(Brfg) 29/24 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 (keine ausgewiesen)
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:40:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ(Brfg) 29/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.03.2025 - AnwZ(Brfg) 29/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:191223BENVR9.21.0"
 doknr: "KORE310192024"
 normen: ["§ 6b Abs 3 S 6 EnWG, § 21 EnWG, § 7 Abs 2 S 1 GasNEV, § 7 Abs 2 S 2 Nr 5 GasNEV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.12.2023 - EnVR 9/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Kapitalverrechnungsposten
@@ -26,8 +32,3 @@ Kapitalverrechnungsposten
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 9/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.12.2023 - EnVR 9/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

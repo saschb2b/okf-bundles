@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 25/10"
 doknr: "KORE300572011"
 normen: ["§ 511 ZPO, § 524 Abs 4 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.03.2011 - VIII ZB 25/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Auslegung einer "Anschlussberufung", die die Anforderungen an die Zulässigkeit einer eigenständigen Berufung erfüllt (im Anschluss an BGH, Beschluss vom 30. April 2003, V ZB 71/02, NJW 2003, 2388) .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 25/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.03.2011 - VIII ZB 25/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

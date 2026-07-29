@@ -5,7 +5,16 @@ description: Beim Werkvertrag schuldet der Unternehmer die Herstellung eines Wer
 resource: https://www.gesetze-im-internet.de/bgb/__631.html
 tags: [schuldrecht-bt, werkvertrag, abnahme, maengelrechte]
 norm: "§§ 631, 633, 634, 640 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__631.html
+    title: "§ 631 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__634.html
+    title: "§ 634 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__640.html
+    title: "§ 640 BGB"
 ---
 
 # Regel (§ 631)
@@ -20,9 +29,3 @@ Durch den Werkvertrag wird der Unternehmer zur **Herstellung des versprochenen W
 # Bauvertrag
 
 Für den Bauvertrag und Verbraucherbauvertrag bestehen seit 2018 Sondervorschriften (§§ 650a ff.), etwa zum Anordnungsrecht und zur Abschlagszahlung.
-
-# Citations
-
-[1] [§ 631 BGB](https://www.gesetze-im-internet.de/bgb/__631.html)
-[2] [§ 634 BGB](https://www.gesetze-im-internet.de/bgb/__634.html)
-[3] [§ 640 BGB](https://www.gesetze-im-internet.de/bgb/__640.html)

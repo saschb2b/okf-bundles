@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 4/12"
 doknr: "KORE303472013"
 normen: ["§ 254 Abs 1 BGB, § 633 Abs 1 BGB vom 06.12.1976, § 635 aF BGB, § 15 Abs 1 Nr 1 AIHonO vom 21.09.1995, § 15 Abs 2 Nr 1 AIHonO vom 21.09.1995, § 64 Abs 1 Nr 1 AIHonO vom 21.09.1995, § 64 Abs 3 Nr 1 AIHonO vom 21.09.1995"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.06.2013 - VII ZR 4/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der mit der Grundlagenermittlung beauftragte Architekt muss mit dem Auftraggeber erörtern, ob dieser trotz ihm bekannter risikoreicher Bodenverhältnisse - hier: unzureichende Standsicherheit des Bauvorhabens wegen der Lage an einem abbruchgefährdeten Steilhang - an dem Bauvorhaben festhalten will.
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:28:10Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 4/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.06.2013 - VII ZR 4/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

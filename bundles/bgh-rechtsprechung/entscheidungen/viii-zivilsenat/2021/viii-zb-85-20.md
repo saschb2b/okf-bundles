@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:140921BVIIIZB85.20.0"
 doknr: "KORE311762021"
 normen: ["§ 91 Abs 2 S 1 Halbs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.09.2021 - VIII ZB 85/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Frage der Notwendigkeit der Hinzuziehung eines nicht am Prozessort und auch nicht am Sitz der Partei ansässigen Prozessbevollmächtigten.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 85/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.09.2021 - VIII ZB 85/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

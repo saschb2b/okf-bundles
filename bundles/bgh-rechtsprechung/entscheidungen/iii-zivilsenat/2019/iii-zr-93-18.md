@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:270619UIIIZR93.18.0"
 doknr: "KORE313012019"
 normen: ["§ 1 Abs 1 StHaftG BB, § 2 Abs 1 S 1 KAG BB, § 8 Abs 7 S 2 KAG BB vom 27.06.1991, § 8 Abs 7 S 2 KAG BB vom 31.03.2004, § 19 Abs 1 KAG BB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.06.2019 - III ZR 93/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Rückforderung von Trinkwasseranschlussbeiträgen
@@ -28,8 +34,3 @@ Rückforderung von Trinkwasseranschlussbeiträgen
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 93/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.06.2019 - III ZR 93/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

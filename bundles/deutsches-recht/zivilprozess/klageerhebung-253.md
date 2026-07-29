@@ -5,7 +5,12 @@ description: Die Klage wird durch Zustellung der Klageschrift erhoben; diese mus
 resource: https://www.gesetze-im-internet.de/zpo/__253.html
 tags: [zivilprozess, klage, streitgegenstand, zustaendigkeit]
 norm: "§ 253 ZPO; §§ 23, 71 GVG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/zpo/__253.html
+    title: "§ 253 ZPO"
 ---
 
 # Regel (§ 253)
@@ -25,7 +30,3 @@ Die Klage ist beim zuständigen Gericht zu erheben. Die **sachliche** Zuständig
 # Bezug
 
 Mit der Klageerhebung tritt die [Rechtshängigkeit](/zivilprozess/rechtshaengigkeit-261.md) ein. Über den Streitgegenstand entscheidet das [rechtskräftige](/zivilprozess/rechtskraft-322.md) Urteil.
-
-# Citations
-
-[1] [§ 253 ZPO](https://www.gesetze-im-internet.de/zpo/__253.html)

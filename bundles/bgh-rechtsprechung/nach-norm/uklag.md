@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UKlaG"
 description: "BGH-Entscheidungen zu UKlaG, geordnet nach Vorschrift."
 tags: [register, navigation, uklag]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

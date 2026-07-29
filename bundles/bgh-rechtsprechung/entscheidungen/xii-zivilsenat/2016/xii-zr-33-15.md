@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:270116UXIIZR33.15.0"
 doknr: "KORE300292016"
 normen: ["§ 138 BGB, § 314 BGB, § 598 BGB, § 605 Nr 1 BGB, § 2039 S 1 BGB, § 2113 Abs 2 BGB, § 2135 BGB, § 2138 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.01.2016 - XII ZR 33/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Verstirbt der Kläger während des Rechtsstreits und wird er vom Beklagten und einem Dritten als Miterben beerbt, so wird der Prozess auf Klägerseite allein vom Dritten fortgeführt und behält der Beklagte seine prozessuale Stellung bei (im Anschluss an BGH Beschluss vom 27. Februar 2014, III ZB 99/13, NJW 2014, 1886).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 33/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.01.2016 - XII ZR 33/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,14 @@ description: Die gesetzliche Krankenversicherung ist eine Pflichtversicherung; i
 resource: https://www.gesetze-im-internet.de/sgb_5/
 tags: [sozialrecht, sgb-v, krankenversicherung, sachleistungsprinzip]
 norm: "§§ 2, 5 SGB V"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_5/__2.html
+    title: "§ 2 SGB V"
+  - resource: https://www.gesetze-im-internet.de/sgb_5/__5.html
+    title: "§ 5 SGB V"
 ---
 
 # Versicherungspflicht (§ 5)
@@ -19,8 +26,3 @@ Die Krankenkassen stellen den Versicherten die Leistungen grundsätzlich als **S
 # Leistungen
 
 Der Leistungskatalog umfasst unter anderem Krankenbehandlung, ärztliche und zahnärztliche Versorgung, Arznei-, Heil- und Hilfsmittel, Krankenhausbehandlung und Krankengeld. Über Streitigkeiten entscheidet die [Sozialgerichtsbarkeit](/sozialrecht/sozialgerichtliches-verfahren-sgg.md).
-
-# Citations
-
-[1] [§ 2 SGB V](https://www.gesetze-im-internet.de/sgb_5/__2.html)
-[2] [§ 5 SGB V](https://www.gesetze-im-internet.de/sgb_5/__5.html)

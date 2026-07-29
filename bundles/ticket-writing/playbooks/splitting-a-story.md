@@ -3,7 +3,16 @@ type: Playbook
 title: Splitting a story
 description: A step-by-step for cutting a too-big or wrongly-sliced story into thin vertical slices that each deliver value.
 tags: [slicing, story-splitting, playbook]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories
+    title: "SPIDR (Mike Cohn)"
+  - resource: https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
+    title: "The Humanizing Work Guide to Splitting User Stories"
+  - resource: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
+    title: "INVEST in Good Stories (Bill Wake)"
 ---
 
 # Steps
@@ -20,9 +29,3 @@ timestamp: 2026-06-18T11:30:00Z
 # Practice
 
 Build the muscle with [Elephant Carpaccio](/techniques/elephant-carpaccio.md).
-
-# Citations
-
-[1] [SPIDR (Mike Cohn)](https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories)
-[2] [The Humanizing Work Guide to Splitting User Stories](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
-[3] [INVEST in Good Stories (Bill Wake)](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)

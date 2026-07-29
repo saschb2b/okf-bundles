@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:210218UVIIIZR255.16.0"
 doknr: "KORE304672018"
 normen: ["§ 280 Abs 1 BGB, § 535 Abs 1 BGB, § 823 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.02.2018 - VIII ZR 255/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Vermieter und Grundstückseigentümer, dem die Gemeinde nicht als Anlieger die allgemeine Räum- und Streupflicht übertragen hat, ist regelmäßig nicht aus dem Mietvertrag gemäß § 535 Abs. 1 BGB verpflichtet, auch über die Grundstücksgrenze hinaus Teile des öffentlichen Gehwegs zu räumen und zu streuen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 255/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.02.2018 - VIII ZR 255/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

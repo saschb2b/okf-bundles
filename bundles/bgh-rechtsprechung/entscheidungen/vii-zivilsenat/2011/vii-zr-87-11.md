@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 87/11"
 doknr: "KORE303942011"
 normen: ["§ 633 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:29Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:29Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.09.2011 - VII ZR 87/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Abweichung von der vereinbarten Beschaffenheit liegt vor, wenn der mit dem Vertrag verfolgte Zweck der Herstellung eines Werkes nicht erreicht wird und das Werk seine vereinbarte oder nach dem Vertrag vorausgesetzte Funktion nicht erfüllt .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:29Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 87/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.09.2011 - VII ZR 87/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

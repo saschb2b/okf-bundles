@@ -3,7 +3,14 @@ type: Primitive
 title: Public-key cryptography and digital signatures
 description: Keypairs and signatures let a holder prove ownership and authorize transactions without revealing the secret key.
 tags: [cryptography, signatures, keys, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin: A Peer-to-Peer Electronic Cash System (Nakamoto, 2008)"
+  - resource: https://ethereum.org/en/developers/docs/accounts/
+    title: "Accounts (Ethereum.org docs)"
 ---
 
 # What it is
@@ -21,8 +28,3 @@ Ownership on a blockchain is simply control of a private key. Spending a coin me
 # Where the chains differ
 
 Both Bitcoin and Ethereum use **ECDSA over the secp256k1 curve**. Bitcoin added **Schnorr signatures** with the [Taproot upgrade](/bitcoin/upgrades.md), enabling signature aggregation and better privacy. Ethereum's [accounts](/ethereum/accounts.md) come in two forms, one controlled directly by a key (an externally owned account) and one controlled by [contract code](/concepts/smart-contract.md).
-
-# Citations
-
-[1] [Bitcoin: A Peer-to-Peer Electronic Cash System (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
-[2] [Accounts (Ethereum.org docs)](https://ethereum.org/en/developers/docs/accounts/)

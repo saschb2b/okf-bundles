@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:241018UVIIIZR66.17.0"
 doknr: "KORE302382018"
 normen: ["§ 242 BGB, § 275 Abs 1 BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 439 Abs 1 Alt 1 BGB, § 439 Abs 1 Alt 2 BGB, § 439 Abs 2 BGB, § 439 Abs 3 S 2 BGB vom 02.01.2002, § 439 Abs 4 S 2 BGB, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 24.10.2018 - VIII ZR 66/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Ein Fahrzeug ist nicht frei von Sachmängeln, wenn die Software der Kupplungsüberhitzungsanzeige eine Warnmeldung einblendet, die den Fahrer zum Anhalten auffordert, um die Kupplung abkühlen zu lassen, obwohl dies auch bei Fortsetzung der Fahrt möglich ist.
@@ -40,8 +46,3 @@ timestamp: 2026-06-22T12:27:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 66/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 24.10.2018 - VIII ZR 66/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

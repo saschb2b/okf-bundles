@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 88/10"
 doknr: "KORE303532012"
 normen: ["§ 556 Abs 1 S 1 BGB, § 27 Abs 1 Anl 3 BVO 2 vom 13.07.1992"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 02.05.2012 - XII ZR 88/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Wirksamkeit der Abrede in einem Mietvertrag über Wohnraum, der Mieter habe einen Betriebskostenvorschuss in bestimmter Höhe zu zahlen, als Vereinbarung über die Umlegung von Betriebskosten.
@@ -23,8 +29,3 @@ Zur Wirksamkeit der Abrede in einem Mietvertrag über Wohnraum, der Mieter habe 
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 88/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 02.05.2012 - XII ZR 88/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

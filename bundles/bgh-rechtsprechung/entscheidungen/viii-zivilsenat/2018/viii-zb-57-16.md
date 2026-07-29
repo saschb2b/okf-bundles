@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:300118BVIIIZB57.16.0"
 doknr: "KORE312322018"
 normen: ["§ 511 Abs 2 Nr 1 ZPO, § 535 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.01.2018 - VIII ZB 57/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wird eine Klage des Mieters gegen den Vermieter auf Zustimmung zur Tierhaltung in der gemieteten Wohnung abgewiesen, erfordert die Beurteilung, ob der Wert des Beschwerdegegenstandes einer dagegen gerichteten Berufung die Wertgrenze des § 511 Abs. 2 Nr. 1 ZPO übersteigt, eine umfassende Betrachtung des auf die begehrte Tierhaltung in der Mietwohnung gerichteten Interesses des Mieters. Das schließt subjektive Gesichtspunkte ein, weil die Wohnung für jedermann Mittelpunkt seiner privaten Existenz ist und dem Einzelnen damit die Entfaltung und eigenverantwortliche Gestaltung seines Lebens ermöglicht. Daher sind nicht nur objektive Kriterien, sondern namentlich die Beweggründe und Bedürfnisse des Mieters zu berücksichtigen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 57/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.01.2018 - VIII ZB 57/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

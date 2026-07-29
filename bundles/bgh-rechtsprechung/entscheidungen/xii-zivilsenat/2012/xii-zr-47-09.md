@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 47/09"
 doknr: "KORE301152012"
 normen: ["§ 123 BGB, § 313 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.06.2012 - XII ZR 47/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Geschäftsgrundlage einer im Zuge der Trennung erfolgten Zuwendung (hier: Schenkung) unter Ehegatten kann auch die leibliche Abstammung eines Kindes vom Ehemann sein, wenn dessen Zuwendung auch dazu bestimmt war, entweder unmittelbar oder mittelbar den Unterhaltsbedarf des Kindes zu befriedigen.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 47/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.06.2012 - XII ZR 47/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

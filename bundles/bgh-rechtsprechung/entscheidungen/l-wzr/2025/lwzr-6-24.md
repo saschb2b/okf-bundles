@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:090525BLWZR6.24.0"
 doknr: "KORE711432025"
 normen: ["§ 550 BGB, § 585a BGB vom 02.01.2002, § 594a Abs 1 S 1 BGB, § 543 Abs 2 S 1 Nr 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:40:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:40:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 09.05.2025 - LwZR 6/24 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 550 BGB, § 585a BGB vom 02.01.2002, § 594a Abs 1 S 1 BGB, § 543 Abs 2 S 1 Nr 2 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:40:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen LwZR 6/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.05.2025 - LwZR 6/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

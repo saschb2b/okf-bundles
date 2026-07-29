@@ -9,13 +9,14 @@ datum: 2007-07-04
 aktenzeichen: "VII ZB 15/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:24:49Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:24:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2007/VII_ZB__15-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 04.07.2007 - VII ZB 15/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VII ZB 15/07 vom 04.07.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.07.2007 - VII ZB 15/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2007/VII_ZB__15-07.pdf?__blob=publicationFile&v=1)
-

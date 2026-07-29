@@ -5,7 +5,16 @@ description: Die Prokura ist eine handelsrechtliche Vollmacht mit gesetzlich fes
 resource: https://www.gesetze-im-internet.de/hgb/__48.html
 tags: [handelsrecht, prokura, vollmacht, vertretung]
 norm: "§§ 48 bis 50 HGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/hgb/__48.html
+    title: "§ 48 HGB"
+  - resource: https://www.gesetze-im-internet.de/hgb/__49.html
+    title: "§ 49 HGB"
+  - resource: https://www.gesetze-im-internet.de/hgb/__50.html
+    title: "§ 50 HGB"
 ---
 
 # Erteilung (§ 48)
@@ -23,9 +32,3 @@ Eine **Beschränkung des Umfangs der Prokura** ist Dritten gegenüber **unwirksa
 # Abgrenzung
 
 Die Prokura ist weiter als die Handlungsvollmacht (§ 54) und enger als die organschaftliche Vertretungsmacht der Geschäftsführer und Vorstände. Zur allgemeinen rechtsgeschäftlichen Vertretung siehe [Stellvertretung (§§ 164 ff. BGB)](/bgb-at/stellvertretung.md).
-
-# Citations
-
-[1] [§ 48 HGB](https://www.gesetze-im-internet.de/hgb/__48.html)
-[2] [§ 49 HGB](https://www.gesetze-im-internet.de/hgb/__49.html)
-[3] [§ 50 HGB](https://www.gesetze-im-internet.de/hgb/__50.html)

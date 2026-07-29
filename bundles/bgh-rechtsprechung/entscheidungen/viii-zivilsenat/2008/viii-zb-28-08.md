@@ -9,13 +9,14 @@ datum: 2008-10-28
 aktenzeichen: "VIII ZB 28/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:37:50Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:37:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZB__28-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 28.10.2008 - VIII ZB 28/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 28/08 vom 28.10.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.10.2008 - VIII ZB 28/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2008/VIII_ZB__28-08.pdf?__blob=publicationFile&v=1)
-

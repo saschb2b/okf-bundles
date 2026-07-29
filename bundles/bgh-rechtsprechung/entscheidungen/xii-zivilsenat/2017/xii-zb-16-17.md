@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:300817BXIIZB16.17.0"
 doknr: "KORE308592017"
 normen: ["§ 69 Abs 1 FamFG, § 1896 BGB, § 666 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 30.08.2017 - XII ZB 16/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Kommt das Beschwerdegericht in einem Betreuungsverfahren zu dem Ergebnis, dass die Betreuung zu Recht angeordnet ist, muss es auch die Betreuerauswahl auf ihre Richtigkeit hin überprüfen. Nur wenn im Beschwerdeverfahren durch bloße Aufhebung der angegriffenen Entscheidung abschließend über das Verfahren entschieden werden kann, etwa weil hierdurch die Anhängigkeit des Verfahrens endet, ist eine weitere Sachentscheidung des Beschwerdegerichts oder eine Zurückverweisung an das erstinstanzliche Gericht entbehrlich.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:10Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 16/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.08.2017 - XII ZB 16/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

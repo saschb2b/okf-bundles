@@ -3,7 +3,14 @@ type: Consensus Mechanism
 title: Proof of stake
 description: Sybil resistance by capital at risk: validators stake tokens and are penalized for misbehavior.
 tags: [consensus, proof-of-stake, staking, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/
+    title: "Proof-of-stake (Ethereum.org docs)"
+  - resource: https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/gasper/
+    title: "Gasper: Casper FFG + LMD-GHOST (Ethereum.org)"
 ---
 
 # What it is
@@ -20,8 +27,3 @@ Proof of stake ties block-production rights to **capital locked as collateral** 
 # In practice
 
 Ethereum's [proof-of-stake system](/ethereum/proof-of-stake.md) (adopted at the Merge) is the largest example: validators stake 32 ETH, attest each slot, and the chain finalizes roughly every two epochs. It replaced the [proof of work](/concepts/proof-of-work.md) Ethereum launched with. Cardano's [Ouroboros](/cardano/ouroboros.md) is a different realization of the same idea, notable for being peer-reviewed and for using delegated stake pools with **no slashing and no lock-up**, a reminder that "proof of stake" names a family of designs, not one mechanism.
-
-# Citations
-
-[1] [Proof-of-stake (Ethereum.org docs)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/)
-[2] [Gasper: Casper FFG + LMD-GHOST (Ethereum.org)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/gasper/)

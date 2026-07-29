@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 83/13"
 doknr: "JURE140018928"
 normen: ["Art 267 Abs 2 AEUV, Art 267 Abs 3 AEUV, § 543 Abs 2 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.11.2014 - III ZR 83/13 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 267 Abs 2 AEUV, Art 267 Abs 3 AEUV, § 543 Abs 2 S 1 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 83/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.11.2014 - III ZR 83/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

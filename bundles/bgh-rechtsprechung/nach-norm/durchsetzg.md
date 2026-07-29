@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu DurchsetzG"
 description: "BGH-Entscheidungen zu DurchsetzG, geordnet nach Vorschrift."
 tags: [register, navigation, durchsetzg]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

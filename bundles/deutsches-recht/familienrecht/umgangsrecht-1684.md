@@ -5,7 +5,14 @@ description: Das Kind hat ein Recht auf Umgang mit jedem Elternteil, und jeder E
 resource: https://www.gesetze-im-internet.de/bgb/__1684.html
 tags: [familienrecht, umgangsrecht, kindeswohl, wohlverhaltenspflicht]
 norm: "§§ 1684, 1685 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1684.html
+    title: "§ 1684 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1685.html
+    title: "§ 1685 BGB"
 ---
 
 # Regel (§ 1684)
@@ -21,8 +28,3 @@ Auch Großeltern, Geschwister und enge Bezugspersonen des Kindes (sozial-famili�
 # Bezug
 
 Maßstab jeder Entscheidung ist das **Kindeswohl**, wie bei der [elterlichen Sorge](/familienrecht/elterliche-sorge-1626.md); bei Gefährdung greift [§ 1666](/familienrecht/kindeswohlgefaehrdung-1666.md).
-
-# Citations
-
-[1] [§ 1684 BGB](https://www.gesetze-im-internet.de/bgb/__1684.html)
-[2] [§ 1685 BGB](https://www.gesetze-im-internet.de/bgb/__1685.html)

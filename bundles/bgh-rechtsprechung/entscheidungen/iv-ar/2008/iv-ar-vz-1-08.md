@@ -9,13 +9,14 @@ datum: 2008-11-19
 aktenzeichen: "IV AR (VZ) 1/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:38:05Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:38:05Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2008/IV_ar_VZ___1-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 19.11.2008 - IV AR (VZ) 1/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IV AR (VZ) 1/08 vom 19.11.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.11.2008 - IV AR (VZ) 1/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2008/IV_ar_VZ___1-08.pdf?__blob=publicationFile&v=1)
-

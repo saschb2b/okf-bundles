@@ -4,7 +4,12 @@ title: useReducer
 description: React Hook that manages component state with a reducer function and dispatched actions.
 resource: https://react.dev/reference/react/useReducer
 tags: [react, hooks, state, reducer]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useReducer
+    title: "useReducer"
 ---
 
 # Reference
@@ -89,7 +94,3 @@ Reducers consolidate state update logic. See the guide [Extracting State Logic i
 - If the next state is identical to the current state by `Object.is`, React skips re-rendering the component and its children.
 - React batches state updates. The screen updates after all event handlers have run.
 - To debug undefined state: ensure every case returns all fields (spread `...state`), every branch has a `return`, and unmatched actions throw.
-
-# Citations
-
-[1] [useReducer](https://react.dev/reference/react/useReducer)

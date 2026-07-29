@@ -5,7 +5,16 @@ description: Vor der Vernehmung ist dem Beschuldigten der Tatvorwurf zu eröffne
 resource: https://www.gesetze-im-internet.de/stpo/__136.html
 tags: [strafprozess, beschuldigtenrechte, belehrung, schweigerecht, verteidiger, verwertungsverbot, nemo-tenetur]
 norm: "§§ 136, 136a, 137, 163a StPO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stpo/__136.html
+    title: "§ 136 StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__136a.html
+    title: "§ 136a StPO"
+  - resource: https://www.gesetze-im-internet.de/stpo/__137.html
+    title: "§ 137 StPO"
 ---
 
 # Belehrung vor der Vernehmung (§ 136)
@@ -34,9 +43,3 @@ Unterbleibt die Belehrung über das Schweigerecht oder das Recht auf Verteidiger
 # Bezug
 
 Diese Rechte greifen bereits im [Ermittlungsverfahren](/strafprozess/legalitaetsprinzip-und-anklage-152-170.md) und sichern ein faires Verfahren (Art. 6 EMRK, Rechtsstaatsprinzip Art. 20 GG, vgl. [Staatsstrukturprinzipien](/verfassungsrecht/staatsstrukturprinzipien-20-gg.md)).
-
-# Citations
-
-[1] [§ 136 StPO](https://www.gesetze-im-internet.de/stpo/__136.html)
-[2] [§ 136a StPO](https://www.gesetze-im-internet.de/stpo/__136a.html)
-[3] [§ 137 StPO](https://www.gesetze-im-internet.de/stpo/__137.html)

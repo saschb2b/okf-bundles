@@ -4,7 +4,12 @@ title: "Tutorial: Tic-Tac-Toe"
 description: A hands-on walkthrough that builds a small tic-tac-toe game to introduce React components, props, state, lifting state up, immutability, and time travel.
 resource: https://react.dev/learn/tutorial-tic-tac-toe
 tags: [react, tutorial, useState, lifting-state-up, getting-started]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/tutorial-tic-tac-toe
+    title: "Tutorial: Tic-Tac-Toe"
 ---
 
 # Summary
@@ -118,7 +123,3 @@ const moves = history.map((squares, move) => {
 - **Immutability**: replace data with new copies (`.slice()`, spread) rather than mutating it.
 - **Lists need keys**: a stable `key` prop helps React identify which items changed.
 - **Derive, do not duplicate**: compute values like `xIsNext` and `currentSquares` from existing state instead of storing them separately.
-
-# Citations
-
-[1] [Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)

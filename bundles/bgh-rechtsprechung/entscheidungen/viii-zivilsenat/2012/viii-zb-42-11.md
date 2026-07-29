@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 42/11"
 doknr: "JURE120003132"
 normen: ["§ 139 ZPO, § 234 ZPO, § 236 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.01.2012 - VIII ZB 42/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 139 ZPO, § 234 ZPO, § 236 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:13Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 42/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.01.2012 - VIII ZB 42/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

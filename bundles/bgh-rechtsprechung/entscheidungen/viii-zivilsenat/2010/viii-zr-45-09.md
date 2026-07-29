@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 45/09"
 doknr: "KORE308412010"
 normen: ["§ 229 BGB, § 231 BGB, § 241 Abs 2 BGB, § 280 Abs 1 S 2 BGB, § 535 BGB, §§ 535ff BGB, § 823 Abs 1  BGB, § 858 Abs 1 BGB, § 287 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:05Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:05Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.07.2010 - VIII ZR 45/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die nicht durch einen gerichtlichen Titel gedeckte eigenmächtige Inbesitznahme einer Wohnung und deren eigenmächtiges Ausräumen durch einen Vermieter stellt eine unerlaubte Selbsthilfe dar, für deren Folgen der Vermieter verschuldensunabhängig nach § 231 BGB haftet (Bestätigung der Senatsurteile vom 6. Juli 1977, VIII ZR 277/75, WM 1977, 1126, und vom 1. Oktober 2003, VIII ZR 326/02, WuM 2003, 708) .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:05Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 45/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.07.2010 - VIII ZR 45/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

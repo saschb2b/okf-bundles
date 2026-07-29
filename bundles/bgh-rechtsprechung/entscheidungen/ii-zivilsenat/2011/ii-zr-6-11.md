@@ -10,8 +10,14 @@ aktenzeichen: "II ZR 6/11"
 doknr: "KORE304422011"
 normen: ["§ 114 ZPO, § 249 Abs 3 ZPO, § 30 Abs 1 S 3 GmbHG, § 39 Abs 1 Nr 5 InsO, § 135 Abs 1 Nr 2 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 15.11.2011 - II ZR 6/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Prozesskostenhilfe ist dem Rechtsmittelführer nicht zu bewilligen, wenn die angefochtene Entscheidung formell keinen Bestand haben kann, das materielle Ergebnis sich nach einer Zurückverweisung jedoch voraussichtlich nicht ändern wird.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZR 6/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.11.2011 - II ZR 6/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

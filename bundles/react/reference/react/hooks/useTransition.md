@@ -4,7 +4,12 @@ title: useTransition
 description: React Hook that renders part of the UI in the background by marking state updates as non-blocking Transitions.
 resource: https://react.dev/reference/react/useTransition
 tags: [react, hooks, transitions, concurrency]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useTransition
+    title: "useTransition"
 ---
 
 # Reference
@@ -85,7 +90,3 @@ startTransition(async () => {
 - A Transition update is interrupted by other state updates.
 - Transition updates cannot be used to control text inputs. Use a separate state variable or `useDeferredValue`.
 - Multiple ongoing Transitions are currently batched together.
-
-# Citations
-
-[1] [useTransition](https://react.dev/reference/react/useTransition)

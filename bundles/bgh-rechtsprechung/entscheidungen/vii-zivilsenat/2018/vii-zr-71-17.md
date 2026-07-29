@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:220318UVIIZR71.17.0"
 doknr: "KORE308442018"
 normen: ["§ 631 Abs 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 22.03.2018 - VII ZR 71/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Vertrag über die Platzierung einer elektronischen Werbeanzeige unter einer Domain ist rechtlich als Werkvertrag zu qualifizieren.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 71/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 22.03.2018 - VII ZR 71/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

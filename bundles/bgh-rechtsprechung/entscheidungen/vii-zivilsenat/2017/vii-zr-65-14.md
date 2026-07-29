@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:141117UVIIZR65.14.0"
 doknr: "KORE319192017"
 normen: ["§ 133 BGB, § 157 BGB, § 242 BGB, § 1 Nr 3 VOB B 2006, § 1 Nr 4 VOB B 2006, § 2 Nr 5 VOB B 2006, § 2 Nr 6 VOB B 2006, § 4 Nr 7 VOB B 2006, § 8 Nr 3 Abs 1 VOB B 2006, § 8 Nr 3 Abs 2 S 1 VOB B 2006, § 8 Nr 5 VOB B 2006, § 13 Nr 1 VOB B 2006"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.11.2017 - VII ZR 65/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Auftragnehmer schuldet gemäß § 13 Nr. 1 VOB/B (2006) grundsätzlich die Einhaltung der allgemein anerkannten Regeln der Technik zum Zeitpunkt der Abnahme. Dies gilt auch bei einer Änderung der allgemein anerkannten Regeln der Technik zwischen Vertragsschluss und Abnahme.
@@ -34,8 +40,3 @@ timestamp: 2026-06-22T12:32:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 65/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.11.2017 - VII ZR 65/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

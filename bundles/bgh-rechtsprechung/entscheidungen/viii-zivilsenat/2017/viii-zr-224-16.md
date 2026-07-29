@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:310517UVIIIZR224.16.0"
 doknr: "KORE301612017"
 normen: ["§ 418 Abs 1 ZPO, § 418 Abs 2 ZPO, § 520 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 31.05.2017 - VIII ZR 224/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der auf einem Schriftsatz aufgebrachte Eingangsstempel des Gerichts erbringt als öffentliche Urkunde im Sinne des § 418 Abs. 1 ZPO Beweis dafür, dass ein in den Nachtbriefkasten des Gerichts eingeworfener Schriftsatz erst an dem im Stempel angegebenen Tag beim Berufungsgericht eingegangen ist. Hiergegen ist jedoch gemäß § 418 Abs. 2 ZPO der im Wege des Freibeweises zu führende Gegenbeweis zulässig, der die volle Überzeugung des Gerichts von dem rechtzeitigen Eingang des Schriftsatzes erfordert (im Anschluss an BGH, Urteil vom 30. März 2000, IX ZR 251/99, NJW 2000, 1872 unter II 1 a; Beschlüsse vom 5. Juli 2000, XII ZB 110/00, NJW-RR 2001, 280; vom 21. Februar 2007, XII ZB 37/06, juris Rn. 8 und vom 8. Oktober 2013, VIII ZB 13/13, NJW-RR 2014, 179 Rn. 10).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 224/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 31.05.2017 - VIII ZR 224/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

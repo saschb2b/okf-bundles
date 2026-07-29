@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:080318BIIIZB70.17.0"
 doknr: "KORE621202018"
 normen: ["§ 2 ZPO, § 3 ZPO, § 511 Abs 2 Nr 1 ZPO, § 574 Abs 1 S 1 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.03.2018 - III ZB 70/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 2 ZPO, § 3 ZPO, § 511 Abs 2 Nr 1 ZPO, § 574 Abs 1 S 1 Nr 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 70/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.03.2018 - III ZB 70/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

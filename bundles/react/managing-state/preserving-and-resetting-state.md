@@ -4,7 +4,12 @@ title: Preserving and Resetting State
 description: How React decides when to keep a component's state and when to reset it, based on position in the render tree and the key prop.
 resource: https://react.dev/learn/preserving-and-resetting-state
 tags: [react, state, reconciliation, key]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/preserving-and-resetting-state
+    title: "Preserving and Resetting State"
 ---
 
 # Summary
@@ -104,7 +109,3 @@ Without the key, the same `Chat` stays at the same position and keeps the old dr
 - State is not kept in JSX tags. It is associated with the tree position you put that JSX in.
 - You can force a subtree to reset its state by giving it a different `key`.
 - Do not nest component definitions, or you will reset state by accident.
-
-# Citations
-
-[1] [Preserving and Resetting State](https://react.dev/learn/preserving-and-resetting-state)

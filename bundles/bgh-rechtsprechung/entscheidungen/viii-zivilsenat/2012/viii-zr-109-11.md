@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 109/11"
 doknr: "KORE303912012"
 normen: ["§ 533 ZPO, § 596 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.07.2012 - VIII ZR 109/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Abstehen vom Urkundenprozess ist in der Berufungsinstanz wie eine Klageänderung zu behandeln und daher zulässig, wenn der Beklagte einwilligt oder das Gericht es für sachdienlich erachtet (Anschluss an BGH, Urteil vom 13. April 2011, XII ZR 110/09, BGHZ 189, 182 Rn. 24 ff.).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 109/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.07.2012 - VIII ZR 109/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

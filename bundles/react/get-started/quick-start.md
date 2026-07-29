@@ -4,7 +4,12 @@ title: Quick Start
 description: A fast introduction to the React concepts you use daily: components, JSX, styles, data, conditions, lists, events, state, and sharing data.
 resource: https://react.dev/learn
 tags: [react, components, jsx, state, props]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn
+    title: "Quick Start"
 ---
 
 # Summary
@@ -176,7 +181,3 @@ When a button is clicked, its `onClick` prop (set to `handleClick` in `MyApp`) r
 # Next steps
 
 Put these basics into practice in the [Tic-Tac-Toe Tutorial](tutorial-tic-tac-toe.md), then dive deeper into syntax in the [Describing the UI](/describing-the-ui/describing-the-ui.md) section.
-
-# Citations
-
-[1] [Quick Start](https://react.dev/learn)

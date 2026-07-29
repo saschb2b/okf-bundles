@@ -4,7 +4,12 @@ title: React calls Components and Hooks
 description: React, not your code, is responsible for calling components and Hooks; never invoke them directly or pass Hooks around as values.
 resource: https://react.dev/reference/rules/react-calls-components-and-hooks
 tags: [react, rules, components, hooks, render]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/rules/react-calls-components-and-hooks
+    title: "React calls Components and Hooks"
 ---
 
 # Summary
@@ -84,7 +89,3 @@ Dynamic Hook usage increases complexity, inhibits local reasoning, and makes it 
 - Why render must stay pure for React to call code repeatedly: [Components and Hooks must be pure](/reference/rules/components-and-hooks-must-be-pure.md).
 - Conceptual background on render-as-formula: [Keeping Components Pure](/describing-the-ui/keeping-components-pure.md).
 - Lint enforcement: [rules-of-hooks](/reference/eslint-plugin-react-hooks/lints/rules-of-hooks.md).
-
-# Citations
-
-[1] [React calls Components and Hooks](https://react.dev/reference/rules/react-calls-components-and-hooks)

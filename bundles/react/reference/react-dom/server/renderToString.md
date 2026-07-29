@@ -4,7 +4,12 @@ title: renderToString
 description: Renders a React tree to an HTML string on the server, without streaming or data waiting.
 resource: https://react.dev/reference/react-dom/server/renderToString
 tags: [react, react-dom, server, ssr, static-html]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/server/renderToString
+    title: "renderToString"
 ---
 
 # Reference
@@ -63,7 +68,3 @@ console.log(div.innerHTML); // "<svg>...</svg>"
 - Streaming, Web Streams: [renderToReadableStream](/reference/react-dom/server/renderToReadableStream.md).
 - Static prerender, Node.js: [prerenderToNodeStream](/reference/react-dom/static/prerenderToNodeStream.md).
 - Static prerender, Web Streams: [prerender](/reference/react-dom/static/prerender.md).
-
-# Citations
-
-[1] [renderToString](https://react.dev/reference/react-dom/server/renderToString)

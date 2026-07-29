@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 262/12"
 doknr: "KORE306692013"
 normen: ["§ 3 Nr 1 S 1 EEG 2009, § 3 Abs 2 S 1 EEG 2004, § 3 Abs 2 S 2 EEG 2004, § 19 Abs 1 EEG 2009"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.10.2013 - VIII ZR 262/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 3 Nr. 1 Satz 1 EEG 2009 liegt ein weiter Anlagenbegriff zugrunde. Während nach dem (eng gefassten) Anlagenbegriff in § 3 Abs. 2 Satz 1 EEG 2004 jede technisch selbständige Einrichtung eine (eigene) Anlage darstellte, ist unter einer Anlage nach § 3 Nr. 1 Satz 1 EEG 2009 die Gesamtheit aller funktional zusammengehörenden technisch und baulich notwendigen Einrichtungen zu verstehen.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:37Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 262/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.10.2013 - VIII ZR 262/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

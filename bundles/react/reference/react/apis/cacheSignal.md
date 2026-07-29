@@ -4,7 +4,12 @@ title: cacheSignal
 description: Returns an AbortSignal that aborts when the cache() lifetime ends, for cancelling in-flight work.
 resource: https://react.dev/reference/react/cacheSignal
 tags: [react, server-components, caching, abort-signal]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/cacheSignal
+    title: "cacheSignal"
 ---
 
 # Reference
@@ -53,6 +58,3 @@ try {
 - `cacheSignal` is for Server Components only for now. In Client Components it always returns `null`. In the future it will also fire when a client cache refreshes or invalidates, so do not assume it is always null on the client.
 - If called outside of rendering it returns `null`, signalling that the current scope is not cached forever.
 - You cannot use `cacheSignal` to abort async work started outside of rendering. A request started at module scope will not actually be aborted when the component's rendering finishes.
-
-# Citations
-[1] [cacheSignal](https://react.dev/reference/react/cacheSignal)

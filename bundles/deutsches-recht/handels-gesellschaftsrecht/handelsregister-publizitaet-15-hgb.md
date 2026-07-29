@@ -5,7 +5,12 @@ description: Nicht eingetragene einzutragende Tatsachen kann der Betroffene gutg
 resource: https://www.gesetze-im-internet.de/hgb/__15.html
 tags: [handelsrecht, handelsregister, publizitaet, vertrauensschutz]
 norm: "§ 15 HGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/hgb/__15.html
+    title: "§ 15 HGB"
 ---
 
 # Negative Publizität (§ 15 Abs. 1)
@@ -20,7 +25,3 @@ Solange eine einzutragende Tatsache **nicht eingetragen und bekannt gemacht** is
 # Bezug
 
 Die Publizität setzt die Eintragungspflicht voraus, die wiederum an die [Kaufmannseigenschaft](/handels-gesellschaftsrecht/kaufmann-1-hgb.md) anknüpft. Sie ist ein Rechtsscheintatbestand, vergleichbar dem öffentlichen Glauben des [Grundbuchs](/sachenrecht/eigentumserwerb-grundstueck-873-925.md).
-
-# Citations
-
-[1] [§ 15 HGB](https://www.gesetze-im-internet.de/hgb/__15.html)

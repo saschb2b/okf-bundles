@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:050717BIVZB6.17.0"
 doknr: "KORE301752017"
 normen: ["§ 1975 BGB, § 1981 Abs 1 BGB, § 48 Abs 1 S 2 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:26Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:26Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.07.2017 - IV ZB 6/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Eine Aufhebung der Nachlassverwaltung im Falle der Zweckerreichung durch Befriedigung der Nachlassgläubiger kommt jedenfalls dann in Betracht, wenn ein am ursprünglichen Ausgangsverfahren materiell Beteiligter einen entsprechenden Antrag gestellt hat.
@@ -24,8 +30,3 @@ Eine Aufhebung der Nachlassverwaltung im Falle der Zweckerreichung durch Befried
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV ZB 6/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.07.2017 - IV ZB 6/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -5,7 +5,20 @@ description: Die AO ist das allgemeine Steuergesetz: sie regelt das Steuerschuld
 resource: https://www.gesetze-im-internet.de/ao_1977/__169.html
 tags: [steuerrecht, abgabenordnung, steuerbescheid, festsetzungsfrist, einspruch, steuerhinterziehung]
 norm: "§§ 3, 30, 37, 38, 155, 169, 172, 173, 347, 355, 370 AO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/ao_1977/__169.html
+    title: "§ 169 AO"
+  - resource: https://www.gesetze-im-internet.de/ao_1977/__3.html
+    title: "§ 3 AO"
+  - resource: https://www.gesetze-im-internet.de/ao_1977/__155.html
+    title: "§ 155 AO"
+  - resource: https://www.gesetze-im-internet.de/ao_1977/__355.html
+    title: "§ 355 AO"
+  - resource: https://www.gesetze-im-internet.de/ao_1977/__370.html
+    title: "§ 370 AO"
 ---
 
 # Steuerbegriff und Schuldverhältnis (§§ 3, 37, 38)
@@ -40,11 +53,3 @@ Bestandskräftige Bescheide können nur unter besonderen Voraussetzungen geände
 # Bezug
 
 Die AO trägt als allgemeines Gesetz die einzelnen Steuerarten: [Einkommensteuer](/steuerrecht/einkommensteuer.md), [Umsatzsteuer](/steuerrecht/umsatzsteuer.md) und [Unternehmenssteuern](/steuerrecht/unternehmensbesteuerung.md). Sie ist Ausdruck der [Gesetzmäßigkeit der Besteuerung](/steuerrecht/besteuerungsgrundsaetze.md).
-
-# Citations
-
-[1] [§ 169 AO](https://www.gesetze-im-internet.de/ao_1977/__169.html)
-[2] [§ 3 AO](https://www.gesetze-im-internet.de/ao_1977/__3.html)
-[3] [§ 155 AO](https://www.gesetze-im-internet.de/ao_1977/__155.html)
-[4] [§ 355 AO](https://www.gesetze-im-internet.de/ao_1977/__355.html)
-[5] [§ 370 AO](https://www.gesetze-im-internet.de/ao_1977/__370.html)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:250417BVIIIZR217.16.0"
 doknr: "KORE303332017"
 normen: ["§ 690 Abs 1 Nr 3 ZPO, § 204 Abs 1 Nr 3 BGB, Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.04.2017 - VIII ZR 217/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für die zur Hemmung der Verjährung durch Mahnbescheid erforderliche Individualisierung der darin geltend gemachten Ansprüche genügt es, wenn der Schuldner selbst - etwa anhand einer im Mahnbescheid genannten und ihm bekannten Forderungsaufstellung - erkennen kann, um welche Forderungen es geht (Bestätigung von BGH, Urteile vom 25. März 2015, VIII ZR 243/13, NJW 2015, 3228 Rn. 63 f., insoweit in BGHZ 204, 325 nicht abgedruckt und vom 17. November 2010, VIII ZR 211/09, NJW 2011, 613 Rn. 9).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 217/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.04.2017 - VIII ZR 217/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

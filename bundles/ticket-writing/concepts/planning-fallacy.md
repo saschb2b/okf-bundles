@@ -4,7 +4,12 @@ title: Planning fallacy
 description: The systematic tendency to underestimate the time, cost, and risk of one's own future tasks, even when past tasks ran long.
 resource: https://en.wikipedia.org/wiki/Planning_fallacy
 tags: [cognitive-bias, estimation]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://en.wikipedia.org/wiki/Planning_fallacy
+    title: "Planning fallacy (Wikipedia)"
 ---
 
 # Summary
@@ -14,7 +19,3 @@ Coined by Kahneman and Tversky (1979). The bias is asymmetric: people underestim
 # Why it matters for tickets
 
 The root cause behind [the Iceberg](/smells/iceberg.md). Counter it with team-based estimation, defining done, using ranges, and splitting before committing (see [INVEST](/techniques/invest.md)).
-
-# Citations
-
-[1] [Planning fallacy (Wikipedia)](https://en.wikipedia.org/wiki/Planning_fallacy)

@@ -4,7 +4,12 @@ title: resumeToPipeableStream
 description: Resumes rendering a prerendered React tree to a pipeable Node.js Stream from a postponed state.
 resource: https://react.dev/reference/react-dom/server/resumeToPipeableStream
 tags: [react, react-dom, server, ssr, streaming, nodejs]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/server/resumeToPipeableStream
+    title: "resumeToPipeableStream"
 ---
 
 # Reference
@@ -61,7 +66,3 @@ Resuming behaves like [renderToReadableStream](/reference/react-dom/server/rende
 - Does not accept `identifierPrefix`, since it must match the `prerender` call.
 - Only provide `nonce` here if you are not providing scripts to prerender, since `nonce` cannot be passed to prerender.
 - Re-renders from the root until it finds a component that was not fully pre-rendered. Only fully prerendered components (component and all children completed) are skipped entirely.
-
-# Citations
-
-[1] [resumeToPipeableStream](https://react.dev/reference/react-dom/server/resumeToPipeableStream)

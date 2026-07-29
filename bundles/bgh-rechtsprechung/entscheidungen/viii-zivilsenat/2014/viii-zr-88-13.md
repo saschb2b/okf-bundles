@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 88/13"
 doknr: "KORE302742015"
 normen: ["§ 554 Abs 2 BGB vom 02.01.2002, § 559 Abs 1 BGB vom 02.01.2002, § 286 Abs 1  ZPO, § 287 Abs 1 ZPO, § 287 Abs 2  ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.12.2014 - VIII ZR 88/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Werden mit einer Modernisierungsmaßnahme fällige Instandsetzungsmaßnahmen erspart, kann der auf die Instandsetzung entfallende Kostenanteil nicht auf den Wohnraummieter umgelegt werden (Fortführung von BGH, Urteil vom 3. März 2004, VIII ZR 149/03, NJW 2004, 1738 unter II 2 d).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:27:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 88/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.12.2014 - VIII ZR 88/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

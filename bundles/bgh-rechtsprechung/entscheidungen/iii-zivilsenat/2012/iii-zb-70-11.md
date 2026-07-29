@@ -10,8 +10,14 @@ aktenzeichen: "III ZB 70/11"
 doknr: "KORE314122012"
 normen: ["§ 130 Nr 6 ZPO, § 520 Abs 5 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:59Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:59Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 26.07.2012 - III ZB 70/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Ein Rechtsanwalt, der unter Angabe seiner Berufsbezeichnung einen bestimmenden Schriftsatz für einen anderen Rechtsanwalt unterzeichnet, übernimmt mit seiner Unterschrift auch dann die Verantwortung für den Inhalt des Schriftsatzes, wenn vermerkt ist, dass der andere Anwalt "nach Diktat außer Haus" ist.
@@ -23,8 +29,3 @@ Ein Rechtsanwalt, der unter Angabe seiner Berufsbezeichnung einen bestimmenden S
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 70/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 26.07.2012 - III ZB 70/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

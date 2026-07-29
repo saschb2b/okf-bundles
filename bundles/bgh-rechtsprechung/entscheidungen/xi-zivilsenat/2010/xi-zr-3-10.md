@@ -10,8 +10,14 @@ aktenzeichen: "XI ZR 3/10"
 doknr: "KORE315122011"
 normen: ["§ 307 Abs 1 S 1 BGB, § 307 Abs 1 S 2 BGB, § 307 Abs 2 Nr 1 BGB, § 307 Abs 3 S 1 BGB, § 307 Abs 3 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 07.12.2010 - XI ZR 3/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die in Allgemeinen Geschäftsbedingungen einer Bausparkasse enthaltene Klausel
@@ -27,8 +33,3 @@ Die in Allgemeinen Geschäftsbedingungen einer Bausparkasse enthaltene Klausel
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XI ZR 3/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 07.12.2010 - XI ZR 3/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

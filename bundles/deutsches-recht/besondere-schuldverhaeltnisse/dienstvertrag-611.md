@@ -5,7 +5,12 @@ description: Beim Dienstvertrag schuldet der Dienstverpflichtete die versprochen
 resource: https://www.gesetze-im-internet.de/bgb/__611.html
 tags: [schuldrecht-bt, dienstvertrag, taetigkeit, abgrenzung]
 norm: "§§ 611, 611a BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__611.html
+    title: "§ 611 BGB"
 ---
 
 # Regel (§ 611)
@@ -19,7 +24,3 @@ Der Dienstvertrag schuldet die Tätigkeit, der [Werkvertrag](/besondere-schuldve
 # Sonderform Arbeitsvertrag
 
 Der **Arbeitsvertrag** ([§ 611a](/arbeitsrecht/arbeitsvertrag-611a.md)) ist ein Dienstvertrag in persönlicher Abhängigkeit; auf ihn ist das gesamte Arbeitnehmerschutzrecht anwendbar.
-
-# Citations
-
-[1] [§ 611 BGB](https://www.gesetze-im-internet.de/bgb/__611.html)

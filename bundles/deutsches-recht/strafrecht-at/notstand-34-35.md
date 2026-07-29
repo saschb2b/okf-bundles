@@ -5,7 +5,14 @@ description: Der rechtfertigende Notstand (§ 34) erlaubt die Tat, wenn das gesc
 resource: https://www.gesetze-im-internet.de/stgb/__34.html
 tags: [strafrecht-at, notstand, rechtfertigung, entschuldigung]
 norm: "§§ 34, 35 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__34.html
+    title: "§ 34 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__35.html
+    title: "§ 35 StGB"
 ---
 
 # Rechtfertigender Notstand (§ 34)
@@ -19,8 +26,3 @@ Wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für **Leben, Leib 
 # Einordnung
 
 § 34 steht auf der Stufe der [Rechtswidrigkeit](/strafrecht-at/aufbau-der-straftat.md), § 35 auf der Stufe der [Schuld](/strafrecht-at/schuld-17-19-20.md). Gegen eine durch § 34 gerechtfertigte Tat gibt es keine Notwehr; gegen eine nur nach § 35 entschuldigte rechtswidrige Tat ist Notwehr möglich.
-
-# Citations
-
-[1] [§ 34 StGB](https://www.gesetze-im-internet.de/stgb/__34.html)
-[2] [§ 35 StGB](https://www.gesetze-im-internet.de/stgb/__35.html)

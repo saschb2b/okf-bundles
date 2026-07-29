@@ -4,7 +4,12 @@ title: React Developer Tools
 description: How to install React Developer Tools to inspect components, edit props and state, and find performance problems.
 resource: https://react.dev/learn/react-developer-tools
 tags: [react, devtools, debugging, profiler]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/react-developer-tools
+    title: "React Developer Tools"
 ---
 
 # Summary
@@ -54,7 +59,3 @@ For apps built with React Native, use React Native DevTools, the built in debugg
 # Pitfalls
 
 - For React Native versions earlier than 0.76, use the standalone build of React DevTools by following the Safari and other browsers steps above.
-
-# Citations
-
-[1] [React Developer Tools](https://react.dev/learn/react-developer-tools)

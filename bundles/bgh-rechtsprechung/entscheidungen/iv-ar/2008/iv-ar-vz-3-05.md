@@ -9,13 +9,14 @@ datum: 2008-01-30
 aktenzeichen: "IV AR (VZ) 3/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:35:42Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:35:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2005/IV_ar_VZ___3-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 30.01.2008 - IV AR (VZ) 3/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IV AR (VZ) 3/05 vom 30.01.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.01.2008 - IV AR (VZ) 3/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2005/IV_ar_VZ___3-05.pdf?__blob=publicationFile&v=1)
-

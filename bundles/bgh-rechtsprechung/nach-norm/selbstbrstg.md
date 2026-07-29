@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu SelbstbRStG"
 description: "BGH-Entscheidungen zu SelbstbRStG, geordnet nach Vorschrift."
 tags: [register, navigation, selbstbrstg]
-timestamp: 2026-06-22T15:49:41Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:41Z
 ---
 
 # Nach Vorschrift

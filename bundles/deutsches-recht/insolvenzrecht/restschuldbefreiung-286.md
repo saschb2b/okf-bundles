@@ -5,7 +5,20 @@ description: Eine redliche natürliche Person wird nach Ablauf einer dreijährig
 resource: https://www.gesetze-im-internet.de/inso/__286.html
 tags: [insolvenzrecht, restschuldbefreiung, abtretungsfrist, obliegenheiten, versagung]
 norm: "§§ 286, 287, 290, 295, 300, 301, 302 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__286.html
+    title: "§ 286 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__287.html
+    title: "§ 287 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__300.html
+    title: "§ 300 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__301.html
+    title: "§ 301 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__302.html
+    title: "§ 302 InsO"
 ---
 
 # Grundgedanke (§ 286)
@@ -32,11 +45,3 @@ Während der Abtretungsfrist treffen den Schuldner **Obliegenheiten** (§ 295): 
 # Bezug
 
 Die Restschuldbefreiung ist das Ziel des [Verbraucherinsolvenzverfahrens](/insolvenzrecht/verbraucherinsolvenz-304.md) (und des Regelverfahrens natürlicher Personen). Für Gläubiger im Forderungsmanagement bedeutet sie das endgültige Ende der Durchsetzbarkeit, sofern die Forderung nicht unter die Ausnahmen des § 302 fällt; dann lohnt schon die [Anmeldung](/insolvenzrecht/forderungsanmeldung-174.md) mit dem Vermerk der unerlaubten Handlung.
-
-# Citations
-
-[1] [§ 286 InsO](https://www.gesetze-im-internet.de/inso/__286.html)
-[2] [§ 287 InsO](https://www.gesetze-im-internet.de/inso/__287.html)
-[3] [§ 300 InsO](https://www.gesetze-im-internet.de/inso/__300.html)
-[4] [§ 301 InsO](https://www.gesetze-im-internet.de/inso/__301.html)
-[5] [§ 302 InsO](https://www.gesetze-im-internet.de/inso/__302.html)

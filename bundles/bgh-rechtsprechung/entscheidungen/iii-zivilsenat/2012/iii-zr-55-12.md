@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 55/12"
 doknr: "KORE301702012"
 normen: ["§ 280 BGB, § 675 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.11.2012 - III ZR 55/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zu den Anforderungen an die von einem Anlageberater geschuldete Plausibilitätsprüfung eines Prospekts.
@@ -23,8 +29,3 @@ Zu den Anforderungen an die von einem Anlageberater geschuldete Plausibilitätsp
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 55/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.11.2012 - III ZR 55/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

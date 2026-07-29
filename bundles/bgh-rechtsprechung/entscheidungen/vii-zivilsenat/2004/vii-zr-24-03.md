@@ -9,13 +9,14 @@ datum: 2004-07-08
 aktenzeichen: "VII ZR 24/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:26:22Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:26:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2003/VII_ZR__24-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 08.07.2004 - VII ZR 24/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VII ZR 24/03 vom 08.07.2004.
-
-# Citations
-
-[1] [BGH, Urteil vom 08.07.2004 - VII ZR 24/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2003/VII_ZR__24-03.pdf?__blob=publicationFile&v=1)
-

@@ -4,7 +4,14 @@ title: The Humanizing Work Guide to Splitting User Stories
 description: "Richard Lawrence's widely used guide: a meta-pattern, nine patterns, a flowchart, and two tie-breaker rules."
 resource: https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
 tags: [external, slicing, primary-source]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/
+    title: "The Humanizing Work Guide to Splitting User Stories"
+  - resource: https://www.humanizingwork.com/wp-content/uploads/2020/10/HW-Story-Splitting-Flowchart.pdf
+    title: "Story Splitting Flowchart (PDF)"
 ---
 
 # Summary
@@ -14,8 +21,3 @@ The most-referenced modern story-splitting guide. Meta-pattern: find the core co
 # Cited by
 
 [story-splitting patterns](/techniques/story-splitting-patterns.md) and the [splitting playbook](/playbooks/splitting-a-story.md).
-
-# Citations
-
-[1] [The Humanizing Work Guide to Splitting User Stories](https://www.humanizingwork.com/the-humanizing-work-guide-to-splitting-user-stories/)
-[2] [Story Splitting Flowchart (PDF)](https://www.humanizingwork.com/wp-content/uploads/2020/10/HW-Story-Splitting-Flowchart.pdf)

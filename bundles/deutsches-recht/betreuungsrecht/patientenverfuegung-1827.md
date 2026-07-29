@@ -5,7 +5,12 @@ description: In einer Patientenverfügung legt ein einwilligungsfähiger Volljä
 resource: https://www.gesetze-im-internet.de/bgb/__1827.html
 tags: [betreuungsrecht, patientenverfuegung, behandlungswuensche, selbstbestimmung, gesundheitssorge]
 norm: "§ 1827 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1827.html
+    title: "§ 1827 BGB"
 ---
 
 # Patientenverfügung (§ 1827 Abs. 1)
@@ -19,7 +24,3 @@ Liegt keine Patientenverfügung vor oder treffen ihre Festlegungen nicht auf die
 # Bezug
 
 Die Patientenverfügung ist die gesundheitsbezogene Vorausverfügung; für die Vertretung in Vermögens- und sonstigen Angelegenheiten dient die [Vorsorgevollmacht](/betreuungsrecht/vorsorgevollmacht-1820.md). Bei gefährlichen Maßnahmen und ärztlichen Zwangsmaßnahmen ist zusätzlich die [Genehmigung des Betreuungsgerichts](/betreuungsrecht/genehmigung-und-unterbringung-1831.md) erforderlich.
-
-# Citations
-
-[1] [§ 1827 BGB](https://www.gesetze-im-internet.de/bgb/__1827.html)

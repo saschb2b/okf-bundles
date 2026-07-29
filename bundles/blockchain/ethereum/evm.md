@@ -4,7 +4,12 @@ title: The Ethereum Virtual Machine (EVM)
 description: A Turing-complete, deterministic state machine that executes smart-contract bytecode on every node.
 resource: https://ethereum.org/en/developers/docs/evm/
 tags: [ethereum, evm, smart-contract]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://ethereum.org/en/developers/docs/evm/
+    title: "Ethereum Virtual Machine (EVM) (Ethereum.org docs)"
 ---
 
 # What it is
@@ -22,7 +27,3 @@ Unlike [Bitcoin Script](/bitcoin/script.md), the EVM is Turing-complete: contrac
 # Why it matters
 
 The Turing-complete EVM is the single feature that most separates Ethereum's ambition from Bitcoin's, turning a ledger into an application platform, at the cost of a larger attack surface from buggy contract code. The tradeoff is examined in [design philosophy](/comparison/design-philosophy.md).
-
-# Citations
-
-[1] [Ethereum Virtual Machine (EVM) (Ethereum.org docs)](https://ethereum.org/en/developers/docs/evm/)

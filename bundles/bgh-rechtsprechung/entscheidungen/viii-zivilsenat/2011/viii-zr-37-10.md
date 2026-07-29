@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 37/10"
 doknr: "KORE305792011"
 normen: ["§ 1 Abs 2 AVBFernwärmeV, § 1 Abs 3 S 1 AVBFernwärmeV, § 24 Abs 3 S 1 AVBFernwärmeV vom 20.06.1980, § 24 Abs 4 S 1 AVBFernwärmeV, § 305 BGB, §§ 305ff BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.07.2011 - VIII ZR 37/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Allgemeine Versorgungsbedingungen in einem Fernwärmeliefervertrag unterliegen - von den Fällen des § 1 Abs. 2 und 3 Satz 1 AVBFernwärmeV abgesehen - nicht den Vorschriften über Allgemeine Geschäftsbedingungen, sondern denjenigen der AVBFernwärmeV. Für die Auslegung von vorformulierten Allgemeinen Versorgungsbedingungen sind aber die gleichen Maßstäbe heranzuziehen wie bei Allgemeinen Geschäftsbedingungen im Rahmen der §§ 305ff. BGB .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 37/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.07.2011 - VIII ZR 37/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:161220UVIIIZR367.18.0"
 doknr: "KORE300202021"
 normen: ["§ 558 BGB vom 02.01.2002, §§ 558ff BGB vom 02.01.2002, § 559 Abs 1 BGB vom 02.01.2002"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:26Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:26Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 16.12.2020 - VIII ZR 367/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Möglichkeit einer (weiteren) Erhöhung der Miete auf Grundlage der umlegbaren Modernisierungskosten nach § 559 BGB [aF] ist einem Vermieter, der im Anschluss an die Durchführung einer Modernisierungsmaßnahme die Miete zunächst auf Grundlage der ortsüblichen Vergleichsmiete für den modernisierten Wohnraum nach §§ 558 ff. BGB erhöht hat, nicht verwehrt.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:26Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 367/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 16.12.2020 - VIII ZR 367/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

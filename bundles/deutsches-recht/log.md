@@ -1,3 +1,7 @@
+## 2026-07-29
+
+* **Migration (OKF v0.1 auf v0.2)**: Das Wurzel-`index.md` deklariert jetzt `okf_version: "0.2"`. In jedem Konzept wurde `timestamp` zu `generated: { by, at }`; der Zeitpunkt bleibt unverändert, der Akteur ist wahrheitsgemäß benannt (`claude-code/unrecorded`: von einem Agenten geschrieben, das genaue Modell wurde je Konzept nie festgehalten). Jeder `# Citations`-Abschnitt im Körper wurde zu `sources`-Einträgen im Frontmatter (`resource` und `title`), der Abschnitt selbst entfällt. Bewusst nicht getan: kein `verified` nachgetragen, weil keine Prüfung stattgefunden hat, und kein pauschales `status` oder `stale_after`. Der Wissensbestand ist unverändert; ausgeführt von `scripts/migrate-okf-v02.mjs`.
+
 ## 2026-06-30
 
 * **Wartung (Graph)**: Querverweise auf concept-to-concept umgestellt, damit das Bündel als sauberer Graph navigierbar ist. Verweise, die bisher auf ein `index.md` (Verzeichnislisting, kein Konzept) zeigten, jetzt auf das zentrale Konzept des jeweiligen Gebiets gerichtet (Überblick und einige Querverweise in den Konzepten). Neun verwaiste Konzepte (Bürgschaft, Schenkung, drei Mietrecht-Konzepte, Tötungs- und Urkundsdelikte, einstweiliger Rechtsschutz, EUR-Lex-Referenz) über eine "Siehe auch"-Verknüpfung in den Graphen eingebunden. Reine Navigation, der Rechtsinhalt bleibt unverändert.

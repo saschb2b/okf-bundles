@@ -5,7 +5,16 @@ description: Das Schuldverhältnis erlischt mit Bewirkung der geschuldeten Leist
 resource: https://www.gesetze-im-internet.de/bgb/__362.html
 tags: [schuldrecht-at, erfuellung, teilleistung, forderungskonto]
 norm: "§§ 362, 363, 364, 266 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__362.html
+    title: "§ 362 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__266.html
+    title: "§ 266 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__364.html
+    title: "§ 364 BGB"
 ---
 
 # Erfüllung (§ 362)
@@ -23,9 +32,3 @@ Eine andere als die geschuldete Leistung tilgt die Schuld nur, wenn der Gläubig
 # Bedeutung für das Forderungskonto
 
 Bei einer offenen Forderung aus Hauptforderung, Zinsen und Kosten ist jede eingehende Zahlung eine Teilleistung, die nach §§ 366, 367 zu verbuchen ist; erst die vollständige Tilgung lässt die Forderung erlöschen.
-
-# Citations
-
-[1] [§ 362 BGB](https://www.gesetze-im-internet.de/bgb/__362.html)
-[2] [§ 266 BGB](https://www.gesetze-im-internet.de/bgb/__266.html)
-[3] [§ 364 BGB](https://www.gesetze-im-internet.de/bgb/__364.html)

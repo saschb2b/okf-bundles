@@ -4,7 +4,12 @@ title: useId
 description: React Hook that generates a unique, stable ID string suitable for accessibility attributes and matching across server and client.
 resource: https://react.dev/reference/react/useId
 tags: [react, hook, accessibility, ssr, id]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useId
+    title: "useId"
 ---
 
 # Reference
@@ -61,7 +66,3 @@ A unique ID string associated with this particular `useId` call in this particul
 - Do not use `useId` to generate keys in a list. Keys should be generated from your data.
 - It currently cannot be used in async Server Components.
 - With server rendering it requires an identical component tree on the server and the client. If the trees do not match exactly, the generated IDs will not match.
-
-# Citations
-
-[1] [useId](https://react.dev/reference/react/useId)

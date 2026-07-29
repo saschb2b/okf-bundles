@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 22/07"
 doknr: "KORE315202010"
 normen: ["§ 133 BGB, § 157 BGB, § 556 Abs 3 S 2 BGB, § 556 Abs 3 S 3 BGB, § 578 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:12Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:12Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.01.2010 - XII ZR 22/07 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Vermieter von Geschäftsräumen ist zur Abrechnung über die Nebenkosten, auf die der Mieter Vorauszahlungen geleistet hat, innerhalb einer angemessenen Frist verpflichtet. Diese Frist endet regelmäßig zum Ablauf eines Jahres nach Ende des Abrechnungszeitraums .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:32:12Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 22/07 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.01.2010 - XII ZR 22/07 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

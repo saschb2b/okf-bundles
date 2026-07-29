@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 17/09"
 doknr: "KORE311492011"
 normen: ["§ 1573 Abs 2 BGB, § 1578b BGB, § 36 Nr 1 ZPOEG, URechtÄndG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.06.2011 - XII ZR 17/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Anwendung des § 36 Nr. 1 EGZPO und des darin enthaltenen Zumutbarkeitskriteriums ist auf die Fälle beschränkt, in denen sich der Abänderungsgrund aus dem Unterhaltsrechtsänderungsgesetz vom 21. Dezember 2007 ergibt (im Anschluss an Senatsurteile BGH, 18. November 2009, XII ZR 65/09, BGHZ 183, 197 = FamRZ 2010, 111; BGH, 26. Mai 2010, XII ZR 143/08, BGHZ 186, 1 = FamRZ 2010, 1238 und vom 27. Januar 2010, XII ZR 100/08, FamRZ 2010, 538).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:02Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 17/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.06.2011 - XII ZR 17/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

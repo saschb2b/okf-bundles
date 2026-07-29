@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2026:070526UIIIZR6.24.0"
 doknr: "KORE303562026"
 normen: ["§ 15 Abs 2 HGB, § 15 Abs 3 HGB, § 159 Abs 1 HGB vom 26.11.2001, § 159 Abs 2 HGB vom 26.11.2001, § 159 Abs 3 HGB vom 26.11.2001, § 160 HGB vom 26.11.2001, § 161 Abs 2 HGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:14Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:14Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 07.05.2026 - III ZR 6/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Verjährungsbeginn, Darlegungs- und Beweislast
@@ -28,8 +34,3 @@ Verjährungsbeginn, Darlegungs- und Beweislast
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 6/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 07.05.2026 - III ZR 6/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

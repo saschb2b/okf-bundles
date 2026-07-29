@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 7/15"
 doknr: "KORE309412015"
 normen: ["§ 1361 BGB, § 1573 Abs 2 BGB, § 308 Abs 1 S 1  ZPO, § 113 Abs 1 S 2  FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.11.2015 - XII ZB 7/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Anspruch auf (Aufstockungs-)Unterhalt kann auch dadurch entstehen, dass das Einkommen des für den Kindesunterhalt barunterhaltspflichtigen Ehegatten durch den Vorwegabzug des Kindesunterhalts unter das Einkommen des kinderbetreuenden Ehegatten absinkt.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 7/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.11.2015 - XII ZB 7/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

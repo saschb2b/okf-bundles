@@ -10,8 +10,14 @@ aktenzeichen: "VI ZR 4/11"
 doknr: "KORE306672011"
 normen: ["§ 252 BGB, § 823 Abs 2 BGB, § 850f Abs 2 ZPO, § 263 StGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:37Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:37Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 15.11.2011 - VI ZR 4/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Hat der Käufer marktgängiger Ware über seine Zahlungswilligkeit oder -fähigkeit getäuscht, wird zu Gunsten des Verkäufers vermutet, dass der Kaufpreis ohne die Täuschung dem Verkäufer über ein Geschäft mit einem Dritten zugeflossen wäre.
@@ -23,8 +29,3 @@ Hat der Käufer marktgängiger Ware über seine Zahlungswilligkeit oder -fähigk
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZR 4/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 15.11.2011 - VI ZR 4/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

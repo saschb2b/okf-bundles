@@ -9,13 +9,14 @@ datum: 2002-09-12
 aktenzeichen: "III ZB 43/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:21:32Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:21:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2002/III_ZB__43-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 12.09.2002 - III ZB 43/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZB 43/02 vom 12.09.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.09.2002 - III ZB 43/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2002/III_ZB__43-02.pdf?__blob=publicationFile&v=1)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2026:200526UVIIIZR6.24.0"
 doknr: "KORE303622026"
 normen: ["§ 1 Abs 2 BetrKV, § 2 BetrKV, § 241 Abs 2 BGB, § 280 Abs 1 BGB, § 556 Abs 1 BGB, § 556 Abs 3 S 1 BGB, § 556 Abs 3 S 2 BGB, § 556 Abs 3 S 3 BGB, § 556 Abs 3 S 5 BGB, § 556 Abs 3 S 6 BGB, § 559 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.05.2026 - VIII ZR 6/24 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Regelungen über den Einwendungsausschluss gemäß § 556 Abs. 3 Satz 5, 6 BGB finden grundsätzlich auch in dem Fall Anwendung, dass der Mieter geltend macht, der Vermieter habe den Grundsatz der Wirtschaftlichkeit entgegen § 556 Abs. 3 Satz 1 Halbs. 2 BGB nicht beachtet.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 6/24 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.05.2026 - VIII ZR 6/24 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

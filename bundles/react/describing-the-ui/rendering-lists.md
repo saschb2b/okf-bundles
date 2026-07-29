@@ -4,7 +4,12 @@ title: Rendering Lists
 description: How to render multiple components from a collection using map() and filter(), with stable keys.
 resource: https://react.dev/learn/rendering-lists
 tags: [react, lists, keys, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/rendering-lists
+    title: "Rendering Lists"
 ---
 
 # Summary
@@ -86,7 +91,3 @@ const listItems = people.map(person =>
 - Give each list item a unique, stable `key`.
 - Keys help React identify which items changed, were added, or were deleted.
 - Use a keyed `<Fragment>` when an item renders multiple DOM nodes.
-
-# Citations
-
-[1] [Rendering Lists](https://react.dev/learn/rendering-lists)

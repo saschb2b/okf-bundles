@@ -9,13 +9,14 @@ datum: 2000-06-02
 aktenzeichen: "NotZ 7/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:16:53Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:16:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2000/NotZ___7-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 02.06.2000 - NotZ 7/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: NotZ 7/00 vom 02.06.2000.
-
-# Citations
-
-[1] [BGH, Beschluss vom 02.06.2000 - NotZ 7/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/NotS/2000/NotZ___7-00.pdf?__blob=publicationFile&v=1)
-

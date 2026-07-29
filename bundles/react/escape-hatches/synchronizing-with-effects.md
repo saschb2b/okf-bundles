@@ -4,7 +4,12 @@ title: Synchronizing with Effects
 description: Use Effects to run code after rendering that synchronizes a component with an external system, and how to add dependencies and cleanup.
 resource: https://react.dev/learn/synchronizing-with-effects
 tags: [react, effects, useEffect, cleanup, dependencies]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/synchronizing-with-effects
+    title: "Synchronizing with Effects"
 ---
 
 # Summary
@@ -114,7 +119,3 @@ In development with Strict Mode, React mounts the component, immediately remount
 - An empty `[]` array corresponds to mounting.
 - In Strict Mode React mounts components twice in development to stress-test Effects.
 - If remounting breaks your Effect, implement a cleanup function. React calls it before the next run and on unmount.
-
-# Citations
-
-[1] [Synchronizing with Effects](https://react.dev/learn/synchronizing-with-effects)

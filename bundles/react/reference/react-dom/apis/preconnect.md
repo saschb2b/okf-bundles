@@ -4,7 +4,12 @@ title: preconnect
 description: A react-dom resource hint that asks the browser to open a connection to a server you expect to load resources from, speeding up later loads.
 resource: https://react.dev/reference/react-dom/preconnect
 tags: [react, react-dom, resource-hints, performance, preloading]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/preconnect
+    title: "preconnect"
 ---
 
 # Reference
@@ -60,7 +65,3 @@ function CallToAction() {
 - If you know the specific resources, prefer the resource preloading APIs like [`preload`](/reference/react-dom/apis/preload.md) or [`preinit`](/reference/react-dom/apis/preinit.md), which start loading right away.
 - No benefit to preconnecting to the page's own host, already connected.
 - When speculatively connecting to many domains, [`prefetchDNS`](/reference/react-dom/apis/prefetchDNS.md) may be better, since many preconnections add overhead.
-
-# Citations
-
-[1] [preconnect](https://react.dev/reference/react-dom/preconnect)

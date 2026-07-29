@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 338/09"
 doknr: "JURE110006633"
 normen: ["Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.03.2011 - VIII ZR 338/09 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 103 Abs 1 GG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:01Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 338/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.03.2011 - VIII ZR 338/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: State as a Snapshot
 description: Why state behaves like a snapshot fixed per render, so it does not update immediately after you set it.
 resource: https://react.dev/learn/state-as-a-snapshot
 tags: [react, state, rendering, snapshot]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/state-as-a-snapshot
+    title: "State as a Snapshot"
 ---
 
 # Summary
@@ -72,7 +77,3 @@ React keeps state values fixed within one render's event handlers. A form that r
 - Every render (and the functions inside it) always sees the snapshot of the state React gave that render.
 - You can mentally substitute state in event handlers, like you do for the rendered JSX.
 - Event handlers created in the past hold the state values from the render in which they were created.
-
-# Citations
-
-[1] [State as a Snapshot](https://react.dev/learn/state-as-a-snapshot)

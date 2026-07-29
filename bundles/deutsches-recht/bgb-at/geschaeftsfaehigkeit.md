@@ -5,7 +5,16 @@ description: Die Fähigkeit, wirksam Willenserklärungen abzugeben; Geschäftsun
 resource: https://www.gesetze-im-internet.de/bgb/__104.html
 tags: [bgb-at, geschaeftsfaehigkeit, minderjaehrige]
 norm: "§§ 104 bis 113 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__104.html
+    title: "§ 104 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__107.html
+    title: "§ 107 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__110.html
+    title: "§ 110 BGB"
 ---
 
 # Regel
@@ -28,9 +37,3 @@ Minderjährige zwischen sieben und 18 Jahren sind beschränkt geschäftsfähig (
 # Bezug
 
 Die Geschäftsfähigkeit ist Wirksamkeitsvoraussetzung jeder [Willenserklärung](/bgb-at/willenserklaerung.md) und damit jedes [Vertragsschlusses](/bgb-at/vertragsschluss.md).
-
-# Citations
-
-[1] [§ 104 BGB](https://www.gesetze-im-internet.de/bgb/__104.html)
-[2] [§ 107 BGB](https://www.gesetze-im-internet.de/bgb/__107.html)
-[3] [§ 110 BGB](https://www.gesetze-im-internet.de/bgb/__110.html)

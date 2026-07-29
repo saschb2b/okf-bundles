@@ -5,7 +5,16 @@ description: Die Kündigung schwerbehinderter Menschen bedarf der vorherigen Zus
 resource: https://www.gesetze-im-internet.de/sgb_9_2018/__168.html
 tags: [arbeitsrecht, schwerbehinderung, kuendigungsschutz, integrationsamt, zusatzurlaub]
 norm: "§§ 151, 154, 164, 168, 177, 208 SGB IX"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__168.html
+    title: "§ 168 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__164.html
+    title: "§ 164 SGB IX"
+  - resource: https://www.gesetze-im-internet.de/sgb_9_2018/__208.html
+    title: "§ 208 SGB IX"
 ---
 
 # Besonderer Kündigungsschutz (§ 168)
@@ -22,9 +31,3 @@ Die Kündigung des Arbeitsverhältnisses eines schwerbehinderten Menschen durch 
 
 - **Schwerbehindertenvertretung (§ 177).** In Betrieben mit wenigstens fünf schwerbehinderten Beschäftigten wird eine Vertrauensperson gewählt; sie ist vor Entscheidungen, die schwerbehinderte Menschen betreffen, zu beteiligen (§ 178); ohne ihre Anhörung ist eine Kündigung unwirksam.
 - **Beschäftigungspflicht und Ausgleichsabgabe (§§ 154, 160).** Arbeitgeber mit wenigstens 20 Arbeitsplätzen müssen einen Anteil (in der Regel fünf Prozent) mit schwerbehinderten Menschen besetzen; sonst ist eine **Ausgleichsabgabe** zu zahlen.
-
-# Citations
-
-[1] [§ 168 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__168.html)
-[2] [§ 164 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__164.html)
-[3] [§ 208 SGB IX](https://www.gesetze-im-internet.de/sgb_9_2018/__208.html)

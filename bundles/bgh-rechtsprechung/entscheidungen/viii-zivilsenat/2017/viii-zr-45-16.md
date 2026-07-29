@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:290317UVIIIZR45.16.0"
 doknr: "KORE313182017"
 normen: ["§ 573 Abs 1 S 1 BGB, § 573 Abs 2 Nr 2 BGB, § 573 Abs 2 Nr 3 BGB, § 574 BGB, Art 2 Abs 1 GG, Art 6 Abs 1 GG, Art 12 Abs 1 GG, Art 14 Abs 1 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.03.2017 - VIII ZR 45/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Beurteilung der Frage, ob ein berechtigtes Interesse an der Beendigung des Mietverhältnisses im Sinne von § 573 Abs. 1 Satz 1 BGB vorliegt, entzieht sich einer verallgemeinerungsfähigen Betrachtung (Senatsbeschluss vom 20. Juli 2016, VIII ZR 238/15, WuM 2016, 682 Rn. 9). Sie erfordert vielmehr eine umfassende Würdigung der Umstände des Einzelfalls (Bestätigung von Senatsurteile vom 9. Mai 2012, VIII ZR 238/11, NJW 2012, 2342 Rn. 10; vom 26. September 2012, VIII ZR 330/11, NJW 2013, 225 Rn. 12 und Senatsbeschluss vom 20. Juli 2016, VIII ZR 238/15, aaO).
@@ -38,8 +44,3 @@ timestamp: 2026-06-22T12:31:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 45/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.03.2017 - VIII ZR 45/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

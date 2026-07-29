@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 53/09"
 doknr: "KORE302852010"
 normen: ["§ 134 BGB, § 402 BGB, § 203 Abs 1 Nr 6 StGB, § 49b Abs 4 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.02.2010 - VIII ZR 53/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zu den in § 203 Abs. 1 Nr. 6 StGB der Geheimhaltung unterworfenen Personen gehört auch ein selbstständiger Versicherungsvertreter .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 53/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.02.2010 - VIII ZR 53/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

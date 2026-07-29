@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:230120UIIIZR28.19.0"
 doknr: "KORE300352020"
 normen: ["§ 17 Abs 1 BeurkG, § 14 Abs 1 S 2 BNotO, § 19 Abs 1 S 2 BNotO, § 146 BGB, § 150 Abs 1 BGB, § 308 Nr 1 BGB, § 287 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.01.2020 - III ZR 28/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Notarhaftung, unbefristete Fortgeltungsklausel
@@ -28,8 +34,3 @@ Notarhaftung, unbefristete Fortgeltungsklausel
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 28/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.01.2020 - III ZR 28/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

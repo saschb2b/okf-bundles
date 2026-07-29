@@ -5,7 +5,12 @@ description: Der Verkäufer schuldet Übergabe und Eigentumsverschaffung frei vo
 resource: https://www.gesetze-im-internet.de/bgb/__433.html
 tags: [kaufrecht, kaufvertrag, hauptpflichten]
 norm: "§ 433 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__433.html
+    title: "§ 433 BGB"
 ---
 
 # Regel
@@ -18,7 +23,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Bedeutung
 
 Weil die Lieferung einer mangelfreien Sache geschuldet ist, ist die Lieferung einer mangelhaften Sache eine [Pflichtverletzung](/schuldrecht-at/pflichtverletzung-280.md). Was ein Mangel ist, bestimmt [§ 434](/kaufrecht/sachmangel-434.md); welche Rechte daraus folgen, bündelt [§ 437](/kaufrecht/maengelrechte-437.md).
-
-# Citations
-
-[1] [§ 433 BGB](https://www.gesetze-im-internet.de/bgb/__433.html)

@@ -4,7 +4,12 @@ title: preload
 description: A react-dom API that eagerly fetches a resource such as a stylesheet, font, or external script that you expect to use, without evaluating it.
 resource: https://react.dev/reference/react-dom/preload
 tags: [react, react-dom, resource-hints, performance, preloading]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/preload
+    title: "preload"
 ---
 
 React-based frameworks often handle resource loading for you, so you might not need this API directly.
@@ -85,7 +90,3 @@ function CallToAction() {
 - Multiple equivalent calls behave like a single call. Two calls are equivalent if they share the same `href`, except that with `as: "image"` they must also share the same `imageSrcSet` and `imageSizes`.
 - In the browser, callable in any situation: rendering, an Effect, an event handler.
 - During server-side rendering or Server Components, it only has an effect when called while rendering a component or in an async context originating from rendering. Other calls are ignored.
-
-# Citations
-
-[1] [preload](https://react.dev/reference/react-dom/preload)

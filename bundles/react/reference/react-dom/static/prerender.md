@@ -4,7 +4,12 @@ title: prerender
 description: Renders a React tree to static HTML via a Web Stream, waiting for all data to load.
 resource: https://react.dev/reference/react-dom/static/prerender
 tags: [react, react-dom, static, ssg, web-streams]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/static/prerender
+    title: "prerender"
 ---
 
 # Reference
@@ -75,7 +80,3 @@ while (true) {
 
 - `nonce` is not available when prerendering. Nonces must be unique per request, so including one in prerendered content would be insecure under CSP.
 - Does not stream as content loads. It waits for the entire app to finish before resolving. To stream, use [renderToReadableStream](/reference/react-dom/server/renderToReadableStream.md).
-
-# Citations
-
-[1] [prerender](https://react.dev/reference/react-dom/static/prerender)

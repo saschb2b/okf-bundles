@@ -5,7 +5,18 @@ description: Handlungen, die der Schuldner mit Gläubigerbenachteiligungsvorsatz
 resource: https://www.gesetze-im-internet.de/inso/__133.html
 tags: [insolvenzrecht, vorsatzanfechtung, glaeubigerbenachteiligungsvorsatz, kenntnisvermutung, reform-2017, kongruente-deckung]
 norm: "§ 133 InsO; § 142 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__133.html
+    title: "§ 133 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__142.html
+    title: "§ 142 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__138.html
+    title: "§ 138 InsO"
+  - resource: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX%20ZR%2072/20
+    title: "BGH, Urteil vom 06.05.2021 - IX ZR 72/20 (dejure.org)"
 ---
 
 # Grundtatbestand (§ 133 Abs. 1)
@@ -40,11 +51,3 @@ Die vollständige, fortlaufend aktualisierte Rechtsprechung zu § 133 InsO (mehr
 # Bezug
 
 Die Vorsatzanfechtung ist die **allgemeine** Insolvenzanfechtung mit der weitesten Reichweite und ergänzt die kurzfristige [Deckungsanfechtung](/insolvenzrecht/anfechtung-deckungen-130-132.md). Sie setzt den [Grundtatbestand des § 129](/insolvenzrecht/insolvenzanfechtung-129.md) voraus; Rechtsfolge ist die [Rückgewähr](/insolvenzrecht/anfechtung-rechtsfolgen-143-146.md).
-
-# Citations
-
-[1] [§ 133 InsO](https://www.gesetze-im-internet.de/inso/__133.html)
-[2] [§ 142 InsO](https://www.gesetze-im-internet.de/inso/__142.html)
-[3] [§ 138 InsO](https://www.gesetze-im-internet.de/inso/__138.html)
-[4] [BGH, Urteil vom 06.05.2021 - IX ZR 72/20 (dejure.org)](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.05.2021&Aktenzeichen=IX%20ZR%2072/20)
-

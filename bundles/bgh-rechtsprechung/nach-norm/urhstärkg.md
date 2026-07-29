@@ -3,7 +3,9 @@ type: Rechtsprechungsregister
 title: "Rechtsprechung zu UrhStärkG"
 description: "BGH-Entscheidungen zu UrhStärkG, geordnet nach Vorschrift."
 tags: [register, navigation, urhstärkg]
-timestamp: 2026-06-22T15:49:42Z
+generated:
+  by: process:build-rechtsprechung-index
+  at: 2026-06-22T15:49:42Z
 ---
 
 # Nach Vorschrift

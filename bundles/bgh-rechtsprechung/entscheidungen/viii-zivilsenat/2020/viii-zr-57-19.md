@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:280120BVIIIZR57.19.0"
 doknr: "KORE303262020"
 normen: ["Art 103 Abs 1 GG, § 434 Abs 1 BGB, § 522 Abs 2 S 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:04Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:04Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 28.01.2020 - VIII ZR 57/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Überspannung der Substantiierungsanforderungen an die Darlegung des Vorhandenseins eines Sachmangels wegen Einbaus einer unzulässigen Abschalteinrichtung in einem Dieselmotor (hier: Motorentyp OM 651).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:04Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 57/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.01.2020 - VIII ZR 57/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:121223BVIIIZR22.23.0"
 doknr: "KORE600522024"
 normen: ["§ 3 ZPO, §§ 3ff ZPO, § 4 Abs 1 Halbs 2 ZPO, § 544 Abs 2 Nr 1 ZPO, § 104 ZPO, §§ 104ff ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:03Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.12.2023 - VIII ZR 22/23 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 3 ZPO, §§ 3ff ZPO, § 4 Abs 1 Halbs 2 ZPO, § 544 Abs 2 Nr 1 ZPO, § 104 ZPO, §§ 104ff ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:33:03Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 22/23 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.12.2023 - VIII ZR 22/23 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

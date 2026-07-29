@@ -4,7 +4,12 @@ title: use
 description: Reads the value of a Promise or context, callable inside loops and conditionals.
 resource: https://react.dev/reference/react/use
 tags: [react, suspense, context, promises]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/use
+    title: "use"
 ---
 
 # Reference
@@ -72,6 +77,3 @@ export function fetchData(url) {
 - Promises passed to `use` must be cached so the same instance is reused; an uncached Promise warns "A component was suspended by an uncached promise".
 - When passing a Promise from a Server Component to a Client Component, its resolved value must be serializable.
 - Do not bypass `use` by reading `promise.status` or `promise.value` directly; always pass the Promise to `use`. You may call `use` conditionally, but do not condition that call on the promise's own settled state.
-
-# Citations
-[1] [use](https://react.dev/reference/react/use)

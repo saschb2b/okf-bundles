@@ -10,8 +10,14 @@ aktenzeichen: "IX ZB 1/10"
 doknr: "JURE100073592"
 normen: ["§ 6 InsO, § 212 InsO, § 216 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:58:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:58:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.10.2010 - IX ZB 1/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 6 InsO, § 212 InsO, § 216 InsO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T10:58:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 1/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.10.2010 - IX ZB 1/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

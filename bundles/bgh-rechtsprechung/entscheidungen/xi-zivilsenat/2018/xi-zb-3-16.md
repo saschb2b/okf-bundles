@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:231018BXIZB3.16.0"
 doknr: "KORE306002018"
 normen: ["§ 41 Abs 5 Halbs 2 InvG vom 21.12.2007, § 127 Abs 1 InvG vom 21.12.2007, § 127 Abs 5 InvG vom 21.12.2007, § 165 Abs 3 Nr 8 KAGB, § 280 Abs 1 BGB, § 311 Abs 2 BGB, § 1 Abs 1 KapMuG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.10.2018 - XI ZB 3/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Angabe in einem Verkaufsprospekt, die Kapitalanlagegesellschaft verwende "einen Teil" der ihr aus dem Sondervermögen geleisteten Vergütungen für wiederkehrende Vergütungen an Vermittler von Anteilen als Vermittlungsfolgeprovision, genügt den gesetzlichen Anforderungen des § 41 Abs. 5 Halbs. 2 InvG in der Fassung vom 21. Dezember 2007 (jetzt: § 165 Abs. 3 Nr. 8 KAGB).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XI ZB 3/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.10.2018 - XI ZB 3/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

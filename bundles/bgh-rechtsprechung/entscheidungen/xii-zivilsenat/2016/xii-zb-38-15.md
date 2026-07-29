@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:100216BXIIZB38.15.0"
 doknr: "KORE312992016"
 normen: ["Art 8 EGV 2201/2003, Art 9 EGV 2201/2003, Art 10 EGV 2201/2003, Art 11 EGV 2201/2003, Art 12 EGV 2201/2003, Art 13 EGV 2201/2003, Art 14 EGV 2201/2003, Art 20 Abs 1 EGV 2201/2003, Art 28 EGV 2201/2003, Art 28ff EGV 2201/2003"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:33Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:33Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.02.2016 - XII ZB 38/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Enthält die eine einstweilige Maßnahme anordnende Entscheidung keine eindeutige Begründung für die Zuständigkeit des Ursprungsgerichts in der Hauptsache unter Bezugnahme auf eine der in den Art. 8 bis 14 Brüssel IIa-VO genannten Zuständigkeiten, und ergibt sich die Hauptsachezuständigkeit auch nicht offensichtlich aus der erlassenen Entscheidung, ist davon auszugehen, dass die Entscheidung nicht nach den Zuständigkeitsvorschriften der Brüssel IIa-VO ergangen ist. In diesem Fall ist zu prüfen, ob die Entscheidung unter die Öffnungsklausel des Art. 20 Brüssel IIa-VO fällt (im Anschluss an Senatsbeschluss BGH, 9. Februar 2011, XII ZB 182/08, BGHZ 188, 270 = FamRZ 2011, 542).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:31:33Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 38/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.02.2016 - XII ZB 38/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

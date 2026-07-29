@@ -5,7 +5,18 @@ description: Das anfechtbar Weggegebene ist zur Masse zurückzugewähren, der Em
 resource: https://www.gesetze-im-internet.de/inso/__143.html
 tags: [insolvenzrecht, anfechtung, rueckgewaehr, verschaerfte-haftung, wiederaufleben, verjaehrung]
 norm: "§§ 143, 144, 145, 146 InsO; §§ 195, 199, 818, 819 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__143.html
+    title: "§ 143 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__144.html
+    title: "§ 144 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__146.html
+    title: "§ 146 InsO"
+  - resource: https://www.gesetze-im-internet.de/bgb/__199.html
+    title: "§ 199 BGB"
 ---
 
 # Rückgewähr zur Masse (§ 143)
@@ -31,10 +42,3 @@ Der Anfechtungsanspruch **verjährt nach den Regeln über die regelmäßige Verj
 # Bezug
 
 Die Rechtsfolge gilt einheitlich für alle Anfechtungstatbestände, von der [Deckungs-](/insolvenzrecht/anfechtung-deckungen-130-132.md) über die [Vorsatz-](/insolvenzrecht/vorsatzanfechtung-133.md) bis zur Schenkungsanfechtung. Sie füllt die [Masse](/insolvenzrecht/insolvenzmasse-und-verwalter-35-80.md) auf und stützt sich systematisch auf das [Bereicherungsrecht](/bereicherungsrecht/verschaerfte-haftung-819.md).
-
-# Citations
-
-[1] [§ 143 InsO](https://www.gesetze-im-internet.de/inso/__143.html)
-[2] [§ 144 InsO](https://www.gesetze-im-internet.de/inso/__144.html)
-[3] [§ 146 InsO](https://www.gesetze-im-internet.de/inso/__146.html)
-[4] [§ 199 BGB](https://www.gesetze-im-internet.de/bgb/__199.html)

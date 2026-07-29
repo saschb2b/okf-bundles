@@ -4,7 +4,18 @@ title: NVIDIA key strategic bets
 description: The annual roadmap cadence, rack-scale selling, networking, software, sovereign AI, robotics, and the OpenAI/Intel stakes.
 resource: https://www.cnbc.com/2025/09/22/nvidia-openai-data-center.html
 tags: [nvidia, strategy, rubin, sovereign-ai, robotics, investments]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://www.cnbc.com/2025/09/22/nvidia-openai-data-center.html
+    title: "NVIDIA and OpenAI data-center deal (CNBC, Sept 22 2025)"
+  - resource: https://fortune.com/2025/12/02/nvidia-openai-deal-not-signed-yet-100-billion-rally-colette-kress/
+    title: "NVIDIA-OpenAI deal not yet signed (Fortune, Dec 2 2025)"
+  - resource: https://fortune.com/2025/09/22/nvidia-openai-chatgpt-100-billion-investment/
+    title: "NVIDIA $5B Intel stake (Fortune, Sept 22 2025)"
+  - resource: https://www.cnbc.com/2025/09/26/nvidias-investment-portfolio.html
+    title: "NVIDIA's investment portfolio (CNBC, Sept 26 2025)"
 ---
 
 # Six bets
@@ -36,10 +47,3 @@ NVIDIA is deploying capital into the buyers and builders of AI compute, a flywhe
 - **OpenAI:** intent to invest up to $100B, tied to ~10 GW of NVIDIA systems (first phase 2H2026 on Vera Rubin), announced Sept 22, 2025, though NVIDIA's CFO noted in Dec 2025 it was not yet a definitive agreement. [1][2]
 - **Intel:** a $5B equity stake plus AI-processor collaboration, announced Sept 2025. [3]
 - A growing investment portfolio (CoreWeave and others) tied to the same compute-demand flywheel. [4]
-
-# Citations
-
-[1] [NVIDIA and OpenAI data-center deal (CNBC, Sept 22 2025)](https://www.cnbc.com/2025/09/22/nvidia-openai-data-center.html)
-[2] [NVIDIA-OpenAI deal not yet signed (Fortune, Dec 2 2025)](https://fortune.com/2025/12/02/nvidia-openai-deal-not-signed-yet-100-billion-rally-colette-kress/)
-[3] [NVIDIA $5B Intel stake (Fortune, Sept 22 2025)](https://fortune.com/2025/09/22/nvidia-openai-chatgpt-100-billion-investment/)
-[4] [NVIDIA's investment portfolio (CNBC, Sept 26 2025)](https://www.cnbc.com/2025/09/26/nvidias-investment-portfolio.html)

@@ -9,13 +9,14 @@ datum: 2001-11-28
 aktenzeichen: "VIII ZR 37/01"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:19:44Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:19:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2001/VIII_ZR__37-01.pdf?__blob=publicationFile&v=1
+    title: "BGH, Versäumnisurteil vom 28.11.2001 - VIII ZR 37/01 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 37/01 vom 28.11.2001.
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 28.11.2001 - VIII ZR 37/01 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2001/VIII_ZR__37-01.pdf?__blob=publicationFile&v=1)
-

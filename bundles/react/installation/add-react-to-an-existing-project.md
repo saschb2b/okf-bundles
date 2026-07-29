@@ -4,7 +4,12 @@ title: Add React to an Existing Project
 description: How to add interactive React components to an existing website or app, by subroute or by page region.
 resource: https://react.dev/learn/add-react-to-an-existing-project
 tags: [react, integration, vite, createRoot, existing-project]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/add-react-to-an-existing-project
+    title: "Add React to an Existing Project"
 ---
 
 # Summary
@@ -82,7 +87,3 @@ It is common to start with small interactive components and gradually move upwar
 # Using React Native in an existing native app
 
 [React Native](https://reactnative.dev/) can be integrated incrementally into an existing Android (Java or Kotlin) or iOS (Objective-C or Swift) app. Follow the [React Native integration guide](https://reactnative.dev/docs/integration-with-existing-apps) to add a React Native screen.
-
-# Citations
-
-[1] [Add React to an Existing Project](https://react.dev/learn/add-react-to-an-existing-project)

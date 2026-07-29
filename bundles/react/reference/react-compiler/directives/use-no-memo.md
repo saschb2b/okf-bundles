@@ -4,7 +4,12 @@ title: "use no memo"
 description: A directive that prevents a function from being optimized by React Compiler.
 resource: https://react.dev/reference/react-compiler/directives/use-no-memo
 tags: [react, react-compiler, directive, opt-out]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-compiler/directives/use-no-memo
+    title: "\"use no memo\""
 ---
 
 # Reference
@@ -65,7 +70,3 @@ This directive takes precedence over all compilation modes and other directives.
 
 - To opt in instead, use [`"use memo"`](/reference/react-compiler/directives/use-memo.md).
 - For an overview, see [the React Compiler guide](/react-compiler/react-compiler.md).
-
-# Citations
-
-[1] ["use no memo"](https://react.dev/reference/react-compiler/directives/use-no-memo)

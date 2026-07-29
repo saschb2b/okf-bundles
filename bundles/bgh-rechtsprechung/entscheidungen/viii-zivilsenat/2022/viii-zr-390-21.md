@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:261022UVIIIZR390.21.0"
 doknr: "KORE302422022"
 normen: ["§ 574 Abs 1 S 1 BGB, § 574a Abs 2 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.10.2022 - VIII ZR 390/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zu den Voraussetzungen einer nicht zu rechtfertigenden Härte im Sinne des § 574 Abs. 1 Satz 1 BGB bei der ernsthaften Gefahr eines Suizids des Mieters im Falle einer Verurteilung zur Räumung.
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:27:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 390/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.10.2022 - VIII ZR 390/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

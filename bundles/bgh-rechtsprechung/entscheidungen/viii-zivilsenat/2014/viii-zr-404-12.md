@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 404/12"
 doknr: "KORE315902014"
 normen: ["§ 305 Abs 1 BGB, § 307 Abs 1 S 1 BGB, § 307 Abs 1 S 2 BGB, § 307 Abs 3 S 1 BGB, § 311 Abs 1 BGB, § 1 UKlaG, § 3 UKlaG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:23Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:23Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.04.2014 - VIII ZR 404/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Der Begriff der Allgemeinen Geschäftsbedingung setzt eine Erklärung des Verwenders voraus, die den Vertragsinhalt regeln soll. Für die Unterscheidung von allgemeinen (verbindlichen) Vertragsbedingungen und (unverbindlichen) Bitten, Empfehlungen oder tatsächlichen Hinweisen ist auf den Empfängerhorizont abzustellen, wobei von einem rechtlich nicht vorgebildeten Durchschnittskunden und den typischerweise gegebenen Verhältnissen auszugehen ist (im Anschluss an Senatsurteile vom 3. Juli 1996, VIII ZR 221/95, BGHZ 133, 184, 187 ff. mwN; vom 4. Februar 2009, VIII ZR 32/08, NJW 2009, 1337 Rn. 11, 17, 19).
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:32:23Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 404/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.04.2014 - VIII ZR 404/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

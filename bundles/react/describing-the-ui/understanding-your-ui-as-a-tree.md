@@ -4,7 +4,12 @@ title: Understanding Your UI as a Tree
 description: Why modeling your UI as a render tree and a module dependency tree helps debug performance and bundle size.
 resource: https://react.dev/learn/understanding-your-ui-as-a-tree
 tags: [react, render-tree, performance, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/understanding-your-ui-as-a-tree
+    title: "Understanding Your UI as a Tree"
 ---
 
 # Summary
@@ -63,7 +68,3 @@ Dependency trees are used by bundlers to decide which modules to ship to the cli
 - Render trees help identify top-level and leaf components, which is useful for understanding and debugging rendering performance.
 - Dependency trees represent the module import relationships in a React app.
 - Build tools use dependency trees to bundle the code needed to ship an app, so they help debug large bundle sizes.
-
-# Citations
-
-[1] [Understanding Your UI as a Tree](https://react.dev/learn/understanding-your-ui-as-a-tree)

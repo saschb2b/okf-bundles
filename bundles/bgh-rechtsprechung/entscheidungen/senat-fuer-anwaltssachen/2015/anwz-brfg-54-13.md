@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (Brfg) 54/13"
 doknr: "KORE313092015"
 normen: ["§ 5 Abs 1 Buchst q FAO, § 14j FAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.02.2015 - AnwZ (Brfg) 54/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Fallbearbeitungen aus dem Telekommunikationsrecht genügen nur dann für den Erwerb der erforderlichen besonderen praktischen Erfahrungen im Fachgebiet "Urheber- und Medienrecht", wenn die Fälle einen konkret darzulegenden urheber- oder medienrechtlichen Bezug aufweisen (Fortführung von Senatsurteil vom 10. März 2014, AnwZ (Brfg) 58/12, NJW RR 2014, 752 Rn. 13 ff. und Senatsbeschluss vom 25. Februar 2008, AnwZ (B) 17/07, NJW-RR 2008, 925 Rn. 10 ff.).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:31:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 54/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.02.2015 - AnwZ (Brfg) 54/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:050219BVIIIZR277.17.0"
 doknr: "KORE303992019"
 normen: ["§ 26 Nr 8 S 1 ZPOEG, § 2 ZPO, § 3 ZPO, §§ 3ff ZPO, § 1 UKlaG, § 2 UKlaG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.02.2019 - VIII ZR 277/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Die Festsetzung des Wertes des Beschwerdegegenstands bei Rechtsmitteln richtet sich - wie sich aus § 2 ZPO ergibt - nach den Vorschriften der §§ 3 ff. ZPO. Dies gilt auch für die Ermittlung des Wertes der im Rahmen einer Nichtzulassungsbeschwerde mit der Revision geltend zu machenden Beschwer nach § 26 Nr. 8 Satz 1 EGZPO (Bestätigung von BGH, Beschlüsse vom 25. November 2003 - VI ZR 418/02, NJW-RR 2004, 638 unter II und vom 23. Juli 2015 - XI ZR 263/14, BGHZ 206, 276 Rn. 3; jeweils mwN).
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:28:31Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 277/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.02.2019 - VIII ZR 277/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

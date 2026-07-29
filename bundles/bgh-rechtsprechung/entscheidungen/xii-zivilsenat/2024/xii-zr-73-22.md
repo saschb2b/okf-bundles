@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:050624BXIIZR73.22.0"
 doknr: "KORE620392024"
 normen: ["Art 103 Abs 1 GG, § 543 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:35:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:35:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 05.06.2024 - XII ZR 73/22 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 103 Abs 1 GG, § 543 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:35:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 73/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.06.2024 - XII ZR 73/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

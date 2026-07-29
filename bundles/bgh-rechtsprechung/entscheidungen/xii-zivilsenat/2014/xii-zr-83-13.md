@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 83/13"
 doknr: "KORE310232014"
 normen: ["§ 12 Abs 3  SchuldRAnpG, § 21 Abs 2 ImmoWertV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.01.2014 - XII ZR 83/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Verkehrswertermittlung nach § 12 Abs. 3 SchuldRAnpG ist auch der Wert des Bauwerks zu berücksichtigen, soweit dem Grundstückseigentümer im Hinblick auf seine Dispositionsfreiheit über die weitere Grundstücksnutzung hinaus durch das Bauwerk ein tatsächlich für ihn realisierbarer Wert zufließt.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 83/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.01.2014 - XII ZR 83/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

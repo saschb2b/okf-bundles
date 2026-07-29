@@ -9,13 +9,14 @@ datum: 2009-09-08
 aktenzeichen: "XI ZB 9/09"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:23:24Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:23:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2009/XI_ZB___9-09.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 08.09.2009 - XI ZB 9/09 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XI ZB 9/09 vom 08.09.2009.
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.09.2009 - XI ZB 9/09 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XI_ZS/2009/XI_ZB___9-09.pdf?__blob=publicationFile&v=1)
-

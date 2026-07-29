@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2025:200825BVIIZB4.25.0"
 doknr: "KORE722092025"
 normen: ["§ 264 Abs 1 BGB, § 650f BGB, § 887 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:41:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:41:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.08.2025 - VII ZB 4/25 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Anspruch auf Stellung einer Bauhandwerkersicherung nach § 650f BGB wird gemäß § 887 ZPO vollstreckt.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:41:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 4/25 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.08.2025 - VII ZB 4/25 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

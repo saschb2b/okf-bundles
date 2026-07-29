@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:091019UVIIIZR240.18.0"
 doknr: "KORE308932019"
 normen: ["§ 474 Abs 2 S 2 BGB, § 307 Abs 1 S 1 BGB, § 307 Abs 2 BGB, § 309 Nr 7 Buchst a BGB, § 309 Nr 7 Buchst b BGB, § 309 Nr 8 Buchst b DBuchst ff BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.10.2019 - VIII ZR 240/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Bei Tieren ist im Rahmen der Abgrenzung "neu"/"neu hergestellt" und "gebraucht" im Sinne der § 474 Abs. 2 Satz 2, § 309 Nr. 8 Buchst. b Doppelbuchst. ff BGB nicht nur eine nutzungs-, sondern auch eine rein lebensaltersbedingte Steigerung des Sachmängelrisikos zu berücksichtigen (Fortentwicklung von Senatsurteil vom 15. November 2006 - VIII ZR 3/06, BGHZ 170, 31).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:30:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 240/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.10.2019 - VIII ZR 240/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

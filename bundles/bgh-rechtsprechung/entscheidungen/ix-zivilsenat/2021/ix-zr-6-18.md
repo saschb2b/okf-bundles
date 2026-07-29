@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:100621UIXZR6.18.0"
 doknr: "KORE304382021"
 normen: ["§ 35 Abs 1 InsO, § 80 Abs 1 InsO, § 91 Abs 1 InsO, § 103 InsO, § 7 Abs 2 Nr 1 FamFG, § 59 Abs 1 FamFG, § 63 Abs 3 S 1 FamFG, § 219 FamFG, § 10 Abs 1 VersAusglG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.06.2021 - IX ZR 6/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Versorgungsanrechte können durch eine nach Eröffnung des Insolvenzverfahrens über das Vermögen des ausgleichspflichtigen Ehegatten ergehende rechtskräftige Entscheidung zum Versorgungsausgleich im Wege der internen Teilung erworben werden.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 6/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.06.2021 - IX ZR 6/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:180321UVIIIZR305.19.0"
 doknr: "KORE304062021"
 normen: ["§ 555c Abs 1 S 2 BGB vom 11.03.2013, § 555c Abs 1 S 2  BGB vom 18.12.2018, § 555d BGB, § 555e BGB, § 559 BGB vom 11.03.2013, § 559 BGB vom 18.12.2018, Art 229 § 49 Abs 1 S 2 BGBEG, § 606 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.03.2021 - VIII ZR 305/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Modernisierungsankündigung nach § 555c Abs. 1 BGB ist in zeitlicher Hinsicht dann zulässig, wenn die Planungen so weit fortgeschritten sind, dass die inhaltlichen Anforderungen des § 555c Abs. 1 Satz 2 BGB eingehalten werden können. Eines engen zeitlichen Zusammenhangs zwischen einer Modernisierungsankündigung nach § 555c Abs. 1 BGB und dem dort angekündigten voraussichtlichen Beginn der Modernisierungsmaßnahme im Sinne einer Höchstfrist oder eines fortgeschrittenen Planungsstandes bedarf es dagegen nicht.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 305/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.03.2021 - VIII ZR 305/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

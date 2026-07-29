@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 162/09"
 doknr: "KORE316362013"
 normen: ["§ 307 Abs 1 BGB, § 310 Abs 2 BGB, § 315 BGB, § 1 AVBGasV, § 4 AVBGasV, § 32 AVBGasV, Art 1 EWGRL 13/93, Art 3 EWGRL 13/93, Art 5 EWGRL 13/93, Art 3 EGRL 55/2003"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 31.07.2013 - VIII ZR 162/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In Allgemeinen Geschäftsbedingungen, die ein Energieversorgungsunternehmen in Gasversorgungsverträgen mit Endverbrauchern (Normsonderkunden) verwendet, halten die Klauseln
@@ -31,8 +37,3 @@ timestamp: 2026-06-22T12:32:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 162/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 31.07.2013 - VIII ZR 162/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

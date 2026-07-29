@@ -3,7 +3,14 @@ type: Primitive
 title: Smart contract
 description: Code deployed to the chain that executes deterministically when called, enabling programmable money.
 tags: [smart-contract, programmability, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://en.bitcoin.it/wiki/Script
+    title: "Bitcoin Script (Bitcoin Wiki)"
+  - resource: https://ethereum.org/en/developers/docs/smart-contracts/
+    title: "Introduction to smart contracts (Ethereum.org docs)"
 ---
 
 # What it is
@@ -20,8 +27,3 @@ Chains differ sharply in how much computation they allow, and it is a deliberate
 # Why the model matters
 
 General programmability is what turns a payment ledger into a platform, and it is the deepest reason Bitcoin and Ethereum feel like different kinds of system, a point developed in [design philosophy](/comparison/design-philosophy.md). It also enlarges the attack surface: bugs in contract code are exploitable and, because deployment is immutable, hard to fix.
-
-# Citations
-
-[1] [Bitcoin Script (Bitcoin Wiki)](https://en.bitcoin.it/wiki/Script)
-[2] [Introduction to smart contracts (Ethereum.org docs)](https://ethereum.org/en/developers/docs/smart-contracts/)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:120122BANWST.B.4.21.0"
 doknr: "KORE634932022"
 normen: ["§ 43 BRAO, § 43a BRAO, § 116 Abs 1 S 2 BRAO, § 145 Abs 5 S 1  BRAO, § 145 Abs 5 S 2  BRAO, § 33a StPO, § 356a StPO, Art 103 Abs 1  GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.01.2022 - AnwSt (B) 4/21 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 43 BRAO, § 43a BRAO, § 116 Abs 1 S 2 BRAO, § 145 Abs 5 S 1  BRAO, § 145 Abs 5 S 2  BRAO, § 33a StPO, § 356a StPO, Art 103 Abs 1  GG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwSt (B) 4/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.01.2022 - AnwSt (B) 4/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

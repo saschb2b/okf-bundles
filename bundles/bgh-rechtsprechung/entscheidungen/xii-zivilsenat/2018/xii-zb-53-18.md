@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:191218BXIIZB53.18.0"
 doknr: "KORE308142019"
 normen: ["§ 114 Abs 1 FamFG, § 117 Abs 5 FamFG, § 85 Abs 2 ZPO, § 233 ZPO, § 234 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:59Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:59Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.12.2018 - XII ZB 53/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zum Verschulden eines Rechtsanwalts, der den Antrag auf Verlängerung der Beschwerdebegründungsfrist in einer Familienstreitsache seinem Kanzleiangestellten überlässt, an der Fristversäumung.
@@ -24,8 +30,3 @@ Zum Verschulden eines Rechtsanwalts, der den Antrag auf Verlängerung der Beschw
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 53/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.12.2018 - XII ZB 53/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

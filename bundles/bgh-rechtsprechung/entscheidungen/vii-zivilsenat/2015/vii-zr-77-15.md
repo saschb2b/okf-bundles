@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 77/15"
 doknr: "JURE150019869"
 normen: ["§ 133 BGB, § 145 BGB, §§ 145ff BGB, Art 103 Abs 1 GG, § 15 Abs 1 S 1 Nr 1 UStG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 03.12.2015 - VII ZR 77/15 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 133 BGB, § 145 BGB, §§ 145ff BGB, Art 103 Abs 1 GG, § 15 Abs 1 S 1 Nr 1 UStG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:14:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 77/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.12.2015 - VII ZR 77/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

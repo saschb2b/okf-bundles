@@ -5,7 +5,12 @@ description: Der Vermieter muss die Mietsache in vertragsgemäßem Zustand über
 resource: https://www.gesetze-im-internet.de/bgb/__535.html
 tags: [mietrecht, mietvertrag, hauptpflichten, instandhaltung]
 norm: "§ 535 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__535.html
+    title: "§ 535 BGB"
 ---
 
 # Regel
@@ -18,7 +23,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Bedeutung
 
 Weil die Erhaltung in vertragsgemäßem Zustand echte Vermieterpflicht ist, löst ein Mangel der Mietsache unmittelbar die [Minderung und Gewährleistung](/mietrecht/maengel-und-minderung-536.md) aus. Die Überwälzung von Schönheitsreparaturen und Instandhaltung auf den Mieter durch Formularklauseln unterliegt der [AGB-Kontrolle](/agb-kontrolle/inhaltskontrolle-307.md).
-
-# Citations
-
-[1] [§ 535 BGB](https://www.gesetze-im-internet.de/bgb/__535.html)

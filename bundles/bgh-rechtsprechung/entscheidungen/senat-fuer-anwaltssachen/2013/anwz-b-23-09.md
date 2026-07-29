@@ -10,8 +10,14 @@ aktenzeichen: "AnwZ (B) 23/09"
 doknr: "JURE130016953"
 normen: ["§ 14 Abs 2 Nr 7 Halbs 2 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:13:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:13:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 03.09.2013 - AnwZ (B) 23/09 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 14 Abs 2 Nr 7 Halbs 2 BRAO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:13:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (B) 23/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.09.2013 - AnwZ (B) 23/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

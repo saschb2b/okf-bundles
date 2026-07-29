@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:200723BIXZB7.22.0"
 doknr: "KORE304992023"
 normen: ["§ 383 Abs 1 Nr 3 ZPO, § 384 Nr 2 ZPO, § 387 Abs 3 ZPO, § 567 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:03Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.07.2023 - IX ZB 7/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Begründet der Zeuge im Zwischenstreit das Recht zur Zeugnisverweigerung einerseits mit der Verwandt- oder Schwägerschaft zur Partei und andererseits mit der Gefahr strafrechtlicher Verfolgung, handelt es sich um zwei unterschiedliche Verfahrensgegenstände.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:03Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 7/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.07.2023 - IX ZB 7/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

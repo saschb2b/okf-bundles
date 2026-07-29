@@ -9,13 +9,14 @@ datum: 2007-06-21
 aktenzeichen: "VI ZB 9/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:33:57Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:33:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2007/VI_ZB___9-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 21.06.2007 - VI ZB 9/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VI ZB 9/07 vom 21.06.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.06.2007 - VI ZB 9/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VI_ZS/2007/VI_ZB___9-07.pdf?__blob=publicationFile&v=1)
-

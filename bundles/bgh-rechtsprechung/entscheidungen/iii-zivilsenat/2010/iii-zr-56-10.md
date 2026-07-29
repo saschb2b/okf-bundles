@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 56/10"
 doknr: "JURE100064097"
 normen: ["§ 116 S 1 Nr 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:12:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:12:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.05.2010 - III ZR 56/10 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 116 S 1 Nr 2 ZPO
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:12:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 56/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.05.2010 - III ZR 56/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

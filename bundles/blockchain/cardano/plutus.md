@@ -4,7 +4,12 @@ title: Plutus and Cardano smart contracts
 description: Haskell-based on-chain scripts that validate spending in the EUTXO model, with Marlowe and newer languages.
 resource: https://docs.cardano.org/
 tags: [cardano, plutus, smart-contract, marlowe]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://docs.cardano.org/about-cardano/learn/plutus/
+    title: "Learn about Plutus (docs.cardano.org)"
 ---
 
 # How contracts work on Cardano
@@ -22,7 +27,3 @@ Cardano's [smart contracts](/concepts/smart-contract.md) are **validator scripts
 Ethereum's [EVM](/ethereum/evm.md) is a Turing-complete state machine where contracts hold and mutate their own storage. Cardano's model instead validates state transitions expressed as UTXO spends, which yields the [determinism and predictable fees](/cardano/eutxo.md) EUTXO is built for, but requires developers to think in terms of outputs and validators rather than mutable contract state. The two approaches are the smart-contract face of the broader [design-philosophy](/comparison/design-philosophy.md) split.
 
 Programmability arrived with the **Alonzo** [hard fork](/cardano/hard-forks.md), which brought Plutus to mainnet.
-
-# Citations
-
-[1] [Learn about Plutus (docs.cardano.org)](https://docs.cardano.org/about-cardano/learn/plutus/)

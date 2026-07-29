@@ -10,8 +10,14 @@ aktenzeichen: "III ZR (Ü) 1/15"
 doknr: "KORE314312015"
 normen: ["§ 198 GVG, §§ 198ff GVG, § 201 Abs 2 S 3 GVG, § 341 ZPO, § 341a ZPO, § 345 ZPO, § 514 Abs 2 ZPO, § 565 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:03Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:03Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.10.2015 - III ZR (Ü) 1/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Gegen ein zweites Versäumnisurteil, das von dem erstinstanzlich zuständigen Oberlandesgericht im Rahmen eines Verfahrens nach §§ 198 ff. GVG erlassen wird, findet die Revision ohne Zulassung und ohne Rücksicht auf den Wert des Beschwerdegegenstands statt.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:03Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR (Ü) 1/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.10.2015 - III ZR (Ü) 1/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

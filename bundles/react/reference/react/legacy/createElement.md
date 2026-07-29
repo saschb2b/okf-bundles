@@ -4,7 +4,12 @@ title: createElement
 description: Legacy API that creates a React element without JSX. Prefer JSX in modern code; createElement is the alternative when JSX is unavailable.
 resource: https://react.dev/reference/react/createElement
 tags: [react, legacy, elements, jsx, api]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/createElement
+    title: "createElement"
 ---
 
 # Legacy notice
@@ -60,6 +65,3 @@ createElement(Greeting, { name: 'Taylor' });
 # Related
 
 To check whether a value is a valid element, see [isValidElement](/reference/react/legacy/isValidElement.md). To derive a new element from one, see [cloneElement](/reference/react/legacy/cloneElement.md).
-
-# Citations
-[1] [createElement](https://react.dev/reference/react/createElement)

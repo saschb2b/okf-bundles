@@ -4,7 +4,12 @@ title: State: A Component's Memory
 description: How to give a component memory across renders with the useState Hook, and the rules of Hooks.
 resource: https://react.dev/learn/state-a-components-memory
 tags: [react, state, useState, hooks]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/state-a-components-memory
+    title: "State: A Component's Memory"
 ---
 
 # Summary
@@ -86,7 +91,3 @@ State is local to a component instance on screen. If you render the same compone
 - `useState` returns a pair: the current state and the function to update it.
 - You can have more than one state variable. React matches them by call order.
 - State is private to the component. Rendered in two places, each copy gets its own state.
-
-# Citations
-
-[1] [State: A Component's Memory](https://react.dev/learn/state-a-components-memory)

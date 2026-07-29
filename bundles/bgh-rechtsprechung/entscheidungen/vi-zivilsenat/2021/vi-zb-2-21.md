@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:211221BVIZB2.21.0"
 doknr: "KORE300192022"
 normen: ["§ 85 Abs 2 ZPO, § 233 S 1 ZPO, § 234 ZPO, § 520 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:26Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:26Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 21.12.2021 - VI ZB 2/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Rechtsanwalt genügt seiner Pflicht zur wirksamen Ausgangskontrolle fristwahrender Schriftsätze nur dann, wenn er seine Angestellten anweist, nach einer Übermittlung per Telefax anhand des Sendeprotokolls zu überprüfen, ob der Schriftsatz vollständig und an das richtige Gericht übermittelt worden ist. Dabei darf sich die Kontrolle des Sendeberichts grundsätzlich nicht darauf beschränken, die auf diesem ausgedruckte Faxnummer mit der zuvor aufgeschriebenen, etwa in den Schriftsatz eingefügten Faxnummer zu vergleichen. Vielmehr muss der Abgleich anhand einer zuverlässigen Quelle, etwa anhand eines geeigneten Verzeichnisses, vorgenommen werden, aus der die Faxnummer des Gerichts hervorgeht, für das die Sendung bestimmt ist.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:26Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZB 2/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.12.2021 - VI ZB 2/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

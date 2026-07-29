@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:191219BIIIZB28.19.0"
 doknr: "KORE303032020"
 normen: ["§ 511 Abs 2 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:58Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.12.2019 - III ZB 28/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Rechenschaftslegung, Beschwer
@@ -26,8 +32,3 @@ Rechenschaftslegung, Beschwer
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 28/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.12.2019 - III ZB 28/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

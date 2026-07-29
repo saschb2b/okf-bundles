@@ -9,13 +9,14 @@ datum: 2005-11-16
 aktenzeichen: "IV ZR 7/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:13:07Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:13:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2005/IV_ZR___7-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 16.11.2005 - IV ZR 7/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IV ZR 7/05 vom 16.11.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.11.2005 - IV ZR 7/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IV_ZS/2005/IV_ZR___7-05.pdf?__blob=publicationFile&v=1)
-

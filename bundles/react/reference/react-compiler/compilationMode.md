@@ -4,7 +4,12 @@ title: compilationMode
 description: Controls the strategy the React Compiler uses to decide which functions it will optimize.
 resource: https://react.dev/reference/react-compiler/compilationMode
 tags: [react, react-compiler, configuration, compilationMode]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-compiler/compilationMode
+    title: "compilationMode"
 ---
 
 # Reference
@@ -59,7 +64,3 @@ timestamp: 2026-06-30T12:00:00Z
 - A `"use no memo"` directive always skips compilation, in every mode.
 
 This option is set in the React Compiler config. For an overview of adopting the compiler, see [the React Compiler guide](/react-compiler/react-compiler.md).
-
-# Citations
-
-[1] [compilationMode](https://react.dev/reference/react-compiler/compilationMode)

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:211118UXIIZR78.17.0"
 doknr: "KORE312122019"
 normen: ["§ 550 S 1 BGB, § 150 Abs 1 ZVG, § 152 Abs 2 ZVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 21.11.2018 - XII ZR 78/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Option zur Verlängerung eines Mietvertrags ist während der für das vermietete Grundstück bestehenden Zwangsverwaltung gegenüber dem Zwangsverwalter auszuüben.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:13Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 78/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 21.11.2018 - XII ZR 78/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

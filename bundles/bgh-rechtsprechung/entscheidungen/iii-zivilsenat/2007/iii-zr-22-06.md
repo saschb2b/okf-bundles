@@ -9,13 +9,14 @@ datum: 2007-05-31
 aktenzeichen: "III ZR 22/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:16:43Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:16:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2006/III_ZR__22-06.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 31.05.2007 - III ZR 22/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 22/06 vom 31.05.2007.
-
-# Citations
-
-[1] [BGH, Urteil vom 31.05.2007 - III ZR 22/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2006/III_ZR__22-06.pdf?__blob=publicationFile&v=1)
-

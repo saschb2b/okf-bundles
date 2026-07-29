@@ -9,13 +9,14 @@ datum: 2006-07-06
 aktenzeichen: "IX ZA 5/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:14:35Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:14:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2006/IX_ZA___5-06.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 06.07.2006 - IX ZA 5/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZA 5/06 vom 06.07.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.07.2006 - IX ZA 5/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2006/IX_ZA___5-06.pdf?__blob=publicationFile&v=1)
-

@@ -9,13 +9,14 @@ datum: 2007-08-01
 aktenzeichen: "III ZA 16/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:17:19Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:17:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZA__16-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 01.08.2007 - III ZA 16/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZA 16/07 vom 01.08.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 01.08.2007 - III ZA 16/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2007/III_ZA__16-07.pdf?__blob=publicationFile&v=1)
-

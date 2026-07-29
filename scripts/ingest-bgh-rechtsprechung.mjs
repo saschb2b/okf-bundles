@@ -206,8 +206,16 @@ function toConcept(xml) {
     doknr ? `doknr: ${yaml(doknr)}` : null,
     `normen: ${yaml(normen)}`,
     "tags: [bgh, rechtsprechung, gemeinfrei]",
-    `timestamp: ${new Date().toISOString().replace(/\.\d+Z$/, "Z")}`,
+    // OKF v0.2 provenance: this file is machine-produced, so the actor is the
+    // process, never a human, and the source moves into frontmatter.
+    "generated:",
+    "  by: process:ingest-bgh-rechtsprechung",
+    `  at: ${new Date().toISOString().replace(/\.\d+Z$/, "Z")}`,
+    "sources:",
+    "  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html",
+    `    title: ${yaml(`${title} (bundesgerichtshof.de)`)}`,
     "---",
+    "",
     "",
   ].filter((l) => l !== null).join("\n");
 
@@ -223,10 +231,6 @@ function toConcept(xml) {
     "# Volltext",
     "",
     `Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen ${az} (Entscheidungen sind nach § 5 UrhG gemeinfrei).`,
-    "",
-    "# Citations",
-    "",
-    `[1] [${title} (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)`,
     "",
   );
 

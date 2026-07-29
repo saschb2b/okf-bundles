@@ -4,7 +4,12 @@ title: Common components (e.g. <div>)
 description: The shared props, events, ref callbacks, and the React event object supported by every built-in browser component.
 resource: https://react.dev/reference/react-dom/components/common
 tags: [react, react-dom, dom, events, props]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-dom/components/common
+    title: "Common components (e.g. <div>)"
 ---
 
 # Reference
@@ -107,7 +112,3 @@ Instead of a ref object, you can pass a function to `ref`. React calls it with t
 - You cannot pass both `children` and `dangerouslySetInnerHTML` on the same element.
 - Some events (`onAbort`, `onLoad`) do not bubble in the browser but do bubble in React.
 - `e.currentTarget`, `eventPhase`, `target`, and `type` reflect your React tree, not React's internal root-level delegation. For polyfilled events `e.type` may differ from `e.nativeEvent.type`.
-
-# Citations
-
-[1] [Common components (e.g. <div>)](https://react.dev/reference/react-dom/components/common)

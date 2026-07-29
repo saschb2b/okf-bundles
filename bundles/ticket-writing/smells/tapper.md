@@ -3,7 +3,18 @@ type: Ticket Smell
 title: The Tapper
 description: A ticket written by one expert in such terse, context-free, solution-dictating terms that whoever picks it up cannot tell what done means and runs in circles.
 tags: [ticket-smell, clarity, acceptance-criteria, shared-understanding]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://hbr.org/2006/12/the-curse-of-knowledge
+    title: "The Curse of Knowledge (Harvard Business Review)"
+  - resource: https://heathbrothers.com/made-to-stick-introduction/
+    title: "Made to Stick, Introduction (Heath Brothers)"
+  - resource: https://www.mountaingoatsoftware.com/blog/short-answers-to-your-big-questions-about-user-stories
+    title: "Short Answers About User Stories (Mike Cohn)"
+  - resource: https://cucumber.io/blog/bdd/example-mapping-introduction/
+    title: "Introducing Example Mapping (Matt Wynne)"
 ---
 
 # What it is
@@ -38,10 +49,3 @@ Set a 300s TTL on the profile resolver cache key. Use cacheWrap. Bust on PROFILE
 ```
 
 Cured: state the slow-profile problem, the "so that", and acceptance criteria covering a cache hit, immediate freshness after an edit, and a graceful miss. Note the implementation as one option, not the requirement.
-
-# Citations
-
-[1] [The Curse of Knowledge (Harvard Business Review)](https://hbr.org/2006/12/the-curse-of-knowledge)
-[2] [Made to Stick, Introduction (Heath Brothers)](https://heathbrothers.com/made-to-stick-introduction/)
-[3] [Short Answers About User Stories (Mike Cohn)](https://www.mountaingoatsoftware.com/blog/short-answers-to-your-big-questions-about-user-stories)
-[4] [Introducing Example Mapping (Matt Wynne)](https://cucumber.io/blog/bdd/example-mapping-introduction/)

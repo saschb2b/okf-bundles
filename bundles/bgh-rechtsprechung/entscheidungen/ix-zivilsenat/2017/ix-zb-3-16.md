@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:060417BIXZB3.16.0"
 doknr: "KORE303182017"
 normen: ["§ 63 Abs 1 S 2 InsO, § 1 Abs 1 S 1 InsVV, § 6 Abs 1 InsVV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:59:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:59:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 06.04.2017 - IX ZB 3/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Massezuflüsse zwischen dem Vollzug der Schlussverteilung und der Beendigung des Insolvenzverfahrens erhöhen die Berechnungsgrundlage der Vergütung des Insolvenzverwalters. Konnten sie bei der bereits erfolgten Festsetzung der Vergütung noch nicht berücksichtigt werden, kann der Insolvenzverwalter eine ergänzende Festsetzung beantragen.
@@ -24,8 +30,3 @@ Massezuflüsse zwischen dem Vollzug der Schlussverteilung und der Beendigung des
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 3/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 06.04.2017 - IX ZB 3/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

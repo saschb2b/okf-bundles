@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 78/14"
 doknr: "JURE150011064"
 normen: ["§ 280 Abs 1 BGB, § 536a Abs 1 Alt 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:00Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.06.2015 - XII ZR 78/14 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 280 Abs 1 BGB, § 536a Abs 1 Alt 2 BGB
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:14:00Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 78/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.06.2015 - XII ZR 78/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

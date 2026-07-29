@@ -9,13 +9,14 @@ datum: 2008-11-28
 aktenzeichen: "LwZR 2/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:38:16Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:38:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/LwZR___2-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 28.11.2008 - LwZR 2/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: LwZR 2/08 vom 28.11.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.11.2008 - LwZR 2/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/LdwS/2008/LwZR___2-08.pdf?__blob=publicationFile&v=1)
-

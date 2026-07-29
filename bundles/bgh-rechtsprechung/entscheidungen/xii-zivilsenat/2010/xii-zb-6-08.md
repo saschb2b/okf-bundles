@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 6/08"
 doknr: "KORE302582011"
 normen: ["§ 1587a Abs 2 Nr 3 BGB, § 2 Abs 2 BarwertV vom 01.07.2008, § 2 Abs 3 BarwertV vom 01.07.2008"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.11.2010 - XII ZB 6/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Versorgungsanrechte der Versorgungsanstalt der deutschen Bühnen (VddB) sind im Anwartschaftsstadium statisch und im Leistungsstadium volldynamisch .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:27:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 6/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.11.2010 - XII ZB 6/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

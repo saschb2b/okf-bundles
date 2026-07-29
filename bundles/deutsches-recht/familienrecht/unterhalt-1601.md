@@ -5,7 +5,16 @@ description: Unterhalt setzt Bedürftigkeit des Berechtigten und Leistungsfähig
 resource: https://www.gesetze-im-internet.de/bgb/__1601.html
 tags: [familienrecht, unterhalt, leistungsfaehigkeit, selbstbehalt, rangfolge]
 norm: "§§ 1601, 1602, 1603, 1605, 1609 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1601.html
+    title: "§ 1601 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1603.html
+    title: "§ 1603 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1609.html
+    title: "§ 1609 BGB"
 ---
 
 # Grundvoraussetzungen
@@ -38,9 +47,3 @@ Verwandte und Ehegatten können voneinander **Auskunft über Einkünfte und Verm
 # Bezug
 
 Die Höhe des konkreten Anspruchs regeln der [Kindesunterhalt](/familienrecht/kindesunterhalt-1612a.md) und der [Ehegattenunterhalt](/familienrecht/ehegattenunterhalt-1361-1569.md).
-
-# Citations
-
-[1] [§ 1601 BGB](https://www.gesetze-im-internet.de/bgb/__1601.html)
-[2] [§ 1603 BGB](https://www.gesetze-im-internet.de/bgb/__1603.html)
-[3] [§ 1609 BGB](https://www.gesetze-im-internet.de/bgb/__1609.html)

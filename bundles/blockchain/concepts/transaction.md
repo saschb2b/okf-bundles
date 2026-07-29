@@ -3,7 +3,14 @@ type: Primitive
 title: Transaction
 description: A signed, authorized state change: moving value or invoking code on the ledger.
 tags: [transaction, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://bitcoin.org/bitcoin.pdf
+    title: "Bitcoin whitepaper (Nakamoto, 2008)"
+  - resource: https://ethereum.org/en/developers/docs/transactions/
+    title: "Transactions (Ethereum.org docs)"
 ---
 
 # What it is
@@ -22,8 +29,3 @@ The consequences of this choice are drawn out in [UTXO vs account](/comparison/u
 # Common fields
 
 Regardless of model, a transaction carries a signature (authorization), a fee (priority to producers), and replay protection (a UTXO can only be spent once; an account uses an incrementing nonce). Validity is checked independently by every [node](/concepts/node.md).
-
-# Citations
-
-[1] [Bitcoin whitepaper (Nakamoto, 2008)](https://bitcoin.org/bitcoin.pdf)
-[2] [Transactions (Ethereum.org docs)](https://ethereum.org/en/developers/docs/transactions/)

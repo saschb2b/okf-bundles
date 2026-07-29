@@ -5,7 +5,14 @@ description: Eine Ehe wird geschieden, wenn sie gescheitert ist; das Scheitern w
 resource: https://www.gesetze-im-internet.de/bgb/__1565.html
 tags: [familienrecht, scheidung, zerruettung, trennungsjahr]
 norm: "§§ 1565, 1566 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1565.html
+    title: "§ 1565 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1566.html
+    title: "§ 1566 BGB"
 ---
 
 # Scheiterungsprinzip (§ 1565)
@@ -24,8 +31,3 @@ Das Scheitern wird unwiderlegbar vermutet, wenn
 # Bezug
 
 Mit der Scheidung werden Folgesachen geregelt: der [Zugewinnausgleich](/familienrecht/zugewinnausgleich-1378.md), der Versorgungsausgleich, der nacheheliche [Unterhalt](/familienrecht/unterhalt-1601.md) und die [elterliche Sorge](/familienrecht/elterliche-sorge-1626.md).
-
-# Citations
-
-[1] [§ 1565 BGB](https://www.gesetze-im-internet.de/bgb/__1565.html)
-[2] [§ 1566 BGB](https://www.gesetze-im-internet.de/bgb/__1566.html)

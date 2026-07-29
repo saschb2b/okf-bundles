@@ -3,7 +3,18 @@ type: Ticket Smell
 title: The Iceberg
 description: A ticket that looks small on the surface but hides most of its work below the waterline, surfacing as surprise complexity mid-sprint.
 tags: [ticket-smell, estimation, complexity, slicing]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://en.wikipedia.org/wiki/Planning_fallacy
+    title: "Planning fallacy (Wikipedia)"
+  - resource: https://blog.codinghorror.com/the-mysterious-cone-of-uncertainty/
+    title: "The Mysterious Cone of Uncertainty (Coding Horror)"
+  - resource: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
+    title: "INVEST in Good Stories (Bill Wake)"
+  - resource: https://www.mountaingoatsoftware.com/blog/spikes
+    title: "What Are Agile Spikes? (Mountain Goat Software)"
 ---
 
 # What it is
@@ -28,10 +39,3 @@ A ticket whose visible scope (one field, one mechanical move) conceals a migrati
 - Split it before committing. "Too big to estimate confidently" usually means "not understood well enough to commit". See [INVEST](/techniques/invest.md) (Estimable, Small).
 - If the uncertainty is real, run a [spike](/techniques/spike.md): a timeboxed investigation to buy enough knowledge to estimate or split. Keep spikes rare.
 - Re-slice vertically with [SPIDR](/techniques/spidr.md) or the [story-splitting patterns](/techniques/story-splitting-patterns.md).
-
-# Citations
-
-[1] [Planning fallacy (Wikipedia)](https://en.wikipedia.org/wiki/Planning_fallacy)
-[2] [The Mysterious Cone of Uncertainty (Coding Horror)](https://blog.codinghorror.com/the-mysterious-cone-of-uncertainty/)
-[3] [INVEST in Good Stories (Bill Wake)](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
-[4] [What Are Agile Spikes? (Mountain Goat Software)](https://www.mountaingoatsoftware.com/blog/spikes)

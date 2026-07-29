@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:080119BVIIIZR225.17.0"
 doknr: "KORE312292019"
 normen: ["§ 133 BGB, § 157 BGB, § 275 Abs 1 BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 439 Abs 1 Alt 2 BGB, § 439 Abs 4 BGB, § 5 Abs 1 FZV, Art 3 Nr 10 EGV 715/2007, Art 5 Abs 2 S 1 EGV 715/2007"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 08.01.2019 - VIII ZR 225/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Ein Fahrzeug ist nicht frei von Sachmängeln, wenn bei Übergabe an den Käufer eine - den Stickoxidausstoß auf dem Prüfstand gegenüber dem normalen Fahrbetrieb reduzierende - Abschalteinrichtung im Sinne von Art. 3 Nr. 10 VO 715/2007/EG installiert ist, die gemäß Art. 5 Abs. 2 Satz 1 VO 715/2007/EG unzulässig ist.
@@ -34,8 +40,3 @@ timestamp: 2026-06-22T12:31:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 225/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 08.01.2019 - VIII ZR 225/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

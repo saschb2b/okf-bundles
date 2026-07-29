@@ -10,8 +10,14 @@ aktenzeichen: "IX ZR 6/14"
 doknr: "KORE300492015"
 normen: ["§ 133 Abs 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:59:00Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:59:00Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 16.04.2015 - IX ZR 6/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Bitte des Schuldners auf Abschluss einer Ratenzahlungsvereinbarung ist, wenn sie sich im Rahmen der Gepflogenheiten des Geschäftsverkehrs hält, als solche kein Indiz für eine Zahlungseinstellung oder Zahlungsunfähigkeit des Schuldners (im Anschluss an die ständige Rechtsprechung, zuletzt BGH, 10. Juli 2014, IX ZR 280/13, ZIP 2014, 1887 Rn. 28).
@@ -23,8 +29,3 @@ Die Bitte des Schuldners auf Abschluss einer Ratenzahlungsvereinbarung ist, wenn
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZR 6/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 16.04.2015 - IX ZR 6/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

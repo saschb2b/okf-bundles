@@ -4,7 +4,12 @@ title: lazy
 description: Defers loading a component's code until it is rendered for the first time.
 resource: https://react.dev/reference/react/lazy
 tags: [react, code-splitting, suspense, lazy-loading]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/lazy
+    title: "lazy"
 ---
 
 # Reference
@@ -48,6 +53,3 @@ A React component you can render. While its code is still loading, rendering it 
 # Caveats
 
 - Do not declare `lazy` components inside other components, which resets all state on re-renders because a new lazy component is created each render. Always declare them at the top level of your module.
-
-# Citations
-[1] [lazy](https://react.dev/reference/react/lazy)

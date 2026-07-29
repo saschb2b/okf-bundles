@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:290616UVIIIZR173.15.0"
 doknr: "KORE301022016"
 normen: ["§ 278 BGB, § 543 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.06.2016 - VIII ZR 173/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine Behörde, die im Rahmen der Daseinsvorsorge staatliche Transferleistungen erbringt, wird nicht als Erfüllungsgehilfe des Mieters tätig, wenn sie für ihn die Miete an den Vermieter zahlt (Bestätigung der Senatsurteile vom 21. Oktober 2009, VIII ZR 64/09, NJW 2009, 3781 Rn. 27 ff.; sowie vom 4. Februar 2015, VIII ZR 175/14, BGHZ 204, 134 Rn. 20).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 173/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.06.2016 - VIII ZR 173/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 61/20"
 doknr: "KORE310902020"
 normen: ["§ 1896 Abs 1 BGB, § 1896 Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.05.2020 - XII ZB 61/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Bestellung eines Betreuers für „alle Angelegenheiten“ des Betroffenen kommt nur in Betracht, wenn dieser aufgrund seiner Erkrankung oder Behinderung keine seiner Angelegenheiten selbst besorgen kann. Zusätzlich muss in sämtlichen Bereichen, die das Leben des Betroffenen ausmachen, ein Handlungsbedarf bestehen.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:49Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 61/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.05.2020 - XII ZB 61/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

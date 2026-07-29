@@ -4,7 +4,12 @@ title: useSyncExternalStore
 description: React Hook that subscribes a component to an external data store.
 resource: https://react.dev/reference/react/useSyncExternalStore
 tags: [react, hooks, store, subscription]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/useSyncExternalStore
+    title: "useSyncExternalStore"
 ---
 
 # Reference
@@ -63,7 +68,3 @@ function subscribe(callback) {
 - If a different `subscribe` function is passed on re-render, React re-subscribes. Declare `subscribe` outside the component to avoid this.
 - If the store is mutated during a non-blocking Transition, React falls back to a blocking update. For every Transition update, React calls `getSnapshot` a second time just before applying DOM changes; if the value differs from the original call, React restarts the update as blocking so all components reflect the same store version.
 - Avoid suspending a render based on a value from `useSyncExternalStore`. Store mutations cannot be marked as non-blocking Transitions, so they trigger the nearest Suspense fallback, replacing on-screen content with a spinner.
-
-# Citations
-
-[1] [useSyncExternalStore](https://react.dev/reference/react/useSyncExternalStore)

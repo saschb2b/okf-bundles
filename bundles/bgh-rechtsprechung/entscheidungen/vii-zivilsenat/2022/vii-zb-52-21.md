@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:290622BVIIZB52.21.0"
 doknr: "KORE302192022"
 normen: ["§ 204 Abs 2 BGB, Art 2 Abs 1 GG, Art 20 Abs 3 GG, Art 103 Abs 1 GG, § 240 S 1 ZPO vom 05.10.1994, § 516 ZPO vom 13.06.1980, § 518 Abs 4 ZPO vom 03.12.1976, § 519b Abs 1 S 2 ZPO vom 03.12.1976, § 520 Abs 1 ZPO vom 17.12.1999, § 26 Nr 5 S 1 ZPOEG, § 26 Nr 7 ZPOEG, § 26 Nr 10 ZPOEG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:38Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:38Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 29.06.2022 - VII ZB 52/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Gericht hat im Wege freier Beweiswürdigung zu klären, ob die Berufung der Partei fristgerecht eingegangen ist. Es hat den Sachverhalt vollständig und ohne Beschränkung auf die förmlichen Beweismittel des Zivilprozesses zu würdigen (st. Rspr. vgl. nur BGH, Beschluss vom 14. Februar 2017 - XI ZR 283/16, juris).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:27:38Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 52/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 29.06.2022 - VII ZB 52/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

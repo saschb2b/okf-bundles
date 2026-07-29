@@ -4,7 +4,12 @@ title: INVEST in Good Stories, and SMART Tasks (Bill Wake)
 description: The 2003 article that coined the INVEST acronym and the vertical cake-slicing metaphor for user stories.
 resource: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
 tags: [external, user-stories, primary-source]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/
+    title: "INVEST in Good Stories, and SMART Tasks"
 ---
 
 # Summary
@@ -14,7 +19,3 @@ Bill Wake coined INVEST (Independent, Negotiable, Valuable, Estimable, Small, Te
 # Cited by
 
 [INVEST](/techniques/invest.md), [vertical slicing](/techniques/vertical-slicing.md), and most of the [smells](/smells/iceberg.md).
-
-# Citations
-
-[1] [INVEST in Good Stories, and SMART Tasks](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)

@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 45/10"
 doknr: "KORE306402010"
 normen: ["§ 249 BGB, §§ 249ff BGB, § 29 Abs 1 BJagdG, § 31 Abs 2 BJagdG, § 286 Abs 1 ZPO, § 287 Abs 1 ZPO, § 412 Abs 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.11.2010 - III ZR 45/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Bemessung des Wildschadens an Baumpflanzungen einer Forstwirtschaft  .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 45/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.11.2010 - III ZR 45/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

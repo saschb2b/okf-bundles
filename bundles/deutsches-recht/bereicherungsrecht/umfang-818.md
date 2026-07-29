@@ -5,7 +5,12 @@ description: Herauszugeben sind das Erlangte samt Nutzungen und Surrogaten, sons
 resource: https://www.gesetze-im-internet.de/bgb/__818.html
 tags: [bereicherungsrecht, entreicherung, wertersatz, saldotheorie]
 norm: "§ 818 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__818.html
+    title: "§ 818 BGB"
 ---
 
 # Regel
@@ -23,7 +28,3 @@ Bei der Rückabwicklung eines gegenseitigen, nichtigen Vertrags werden die beide
 # Bezug
 
 Das Entreicherungsprivileg endet mit der [verschärften Haftung](/bereicherungsrecht/verschaerfte-haftung-819.md) bei Bösgläubigkeit oder Rechtshängigkeit (§ 818 Abs. 4).
-
-# Citations
-
-[1] [§ 818 BGB](https://www.gesetze-im-internet.de/bgb/__818.html)

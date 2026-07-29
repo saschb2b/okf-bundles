@@ -9,13 +9,14 @@ datum: 2007-12-13
 aktenzeichen: "IX ZB 2/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:35:45Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:35:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2005/IX_ZB___2-05.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 13.12.2007 - IX ZB 2/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: IX ZB 2/05 vom 13.12.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.12.2007 - IX ZB 2/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/IX_ZS/2005/IX_ZB___2-05.pdf?__blob=publicationFile&v=1)
-

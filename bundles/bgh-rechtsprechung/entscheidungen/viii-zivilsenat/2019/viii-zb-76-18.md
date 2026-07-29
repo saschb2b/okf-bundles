@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:040619BVIIIZB76.18.0"
 doknr: "KORE625642019"
 normen: ["§ 511 Abs 2 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:36:36Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:36:36Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 04.06.2019 - VIII ZB 76/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 511 Abs 2 Nr 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:36:36Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 76/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 04.06.2019 - VIII ZB 76/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

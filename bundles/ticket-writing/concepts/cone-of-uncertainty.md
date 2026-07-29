@@ -3,7 +3,12 @@ type: Concept
 title: Cone of Uncertainty
 description: Estimate variability is widest at the start of work and narrows only as unknowns are resolved, not as time passes.
 tags: [estimation, uncertainty]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://blog.codinghorror.com/the-mysterious-cone-of-uncertainty/
+    title: "The Mysterious Cone of Uncertainty (Coding Horror, quoting McConnell)"
 ---
 
 # Summary
@@ -13,7 +18,3 @@ Popularized by Steve McConnell (after Boehm). At initial concept, an estimate ca
 # Why it matters for tickets
 
 Explains why early estimates on [Icebergs](/smells/iceberg.md) are unreliable, and why a [spike](/techniques/spike.md) (which resolves unknowns) narrows the cone where merely waiting does not.
-
-# Citations
-
-[1] [The Mysterious Cone of Uncertainty (Coding Horror, quoting McConnell)](https://blog.codinghorror.com/the-mysterious-cone-of-uncertainty/)

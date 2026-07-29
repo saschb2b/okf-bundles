@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:170123BIIZB6.22.0"
 doknr: "KORE303902023"
 normen: ["§ 181 Alt 1 BGB, § 78 Abs 4 S 1 AktG, § 112 S 1 AktG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.01.2023 - II ZB 6/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Vertretungsmacht des Vorstandsmitglieds einer Aktiengesellschaft ist bei der Beschlussfassung über seine Bestellung als Geschäftsführer der Tochtergesellschaft nach § 181 Fall 1 BGB beschränkt.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:28Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen II ZB 6/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.01.2023 - II ZB 6/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

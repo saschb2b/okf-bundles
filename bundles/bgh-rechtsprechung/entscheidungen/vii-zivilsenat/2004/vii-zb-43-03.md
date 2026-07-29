@@ -9,13 +9,14 @@ datum: 2004-09-23
 aktenzeichen: "VII ZB 43/03"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:10:15Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:10:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2003/VII_ZB__43-03.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 23.09.2004 - VII ZB 43/03 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VII ZB 43/03 vom 23.09.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.09.2004 - VII ZB 43/03 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VII_ZS/2003/VII_ZB__43-03.pdf?__blob=publicationFile&v=1)
-

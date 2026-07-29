@@ -4,7 +4,12 @@ title: Ouroboros proof of stake
 description: Cardano's peer-reviewed PoS: delegated stake pools, liquid staking, and no slashing or lock-up.
 resource: https://cardano.org/ouroboros/
 tags: [cardano, ouroboros, proof-of-stake, staking]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://cardano.org/ouroboros/
+    title: "Ouroboros (cardano.org)"
 ---
 
 # What it is
@@ -23,7 +28,3 @@ Two design choices distinguish Ouroboros from [Ethereum's proof of stake](/ether
 - **No slashing.** Cardano does not destroy a misbehaving operator's stake; poor performance simply forgoes rewards. Ethereum uses slashing to punish provable faults.
 
 These make participation lower-risk for ordinary holders, at the cost of the strong disincentives slashing provides, a tradeoff within the broader [PoW vs PoS](/comparison/pow-vs-pos.md) discussion.
-
-# Citations
-
-[1] [Ouroboros (cardano.org)](https://cardano.org/ouroboros/)

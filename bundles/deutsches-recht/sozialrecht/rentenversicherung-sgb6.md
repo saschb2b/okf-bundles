@@ -5,7 +5,14 @@ description: Die gesetzliche Rentenversicherung gewährt Renten wegen Alters, ve
 resource: https://www.gesetze-im-internet.de/sgb_6/
 tags: [sozialrecht, sgb-vi, rente, erwerbsminderung, wartezeit]
 norm: "§§ 43, 50 SGB VI"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/sgb_6/__43.html
+    title: "§ 43 SGB VI"
+  - resource: https://www.gesetze-im-internet.de/sgb_6/__50.html
+    title: "§ 50 SGB VI"
 ---
 
 # Renten und Wartezeit
@@ -22,8 +29,3 @@ Zusätzlich sind versicherungsrechtliche Voraussetzungen zu erfüllen (in den le
 # Bezug
 
 Über die Bewilligung entscheidet der Rentenversicherungsträger durch [Verwaltungsakt](/sozialrecht/sozialverwaltungsakt-ueberpruefung-44-sgb10.md); der Rechtsschutz richtet sich nach dem [SGG](/sozialrecht/sozialgerichtliches-verfahren-sgg.md). Der Status als abhängig Beschäftigter oder Selbständiger entscheidet über die Beitragspflicht.
-
-# Citations
-
-[1] [§ 43 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__43.html)
-[2] [§ 50 SGB VI](https://www.gesetze-im-internet.de/sgb_6/__50.html)

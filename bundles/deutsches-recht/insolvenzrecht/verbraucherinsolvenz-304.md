@@ -5,7 +5,16 @@ description: Für natürliche Personen ohne (wesentliche) selbständige Tätigke
 resource: https://www.gesetze-im-internet.de/inso/__304.html
 tags: [insolvenzrecht, verbraucherinsolvenz, einigungsversuch, schuldenbereinigungsplan]
 norm: "§§ 304, 305, 305a, 306, 307, 309 InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__304.html
+    title: "§ 304 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__305.html
+    title: "§ 305 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__309.html
+    title: "§ 309 InsO"
 ---
 
 # Anwendungsbereich (§ 304)
@@ -29,9 +38,3 @@ Vor dem Antrag muss der Schuldner **erfolglos versucht haben, sich mit den Gläu
 # Bezug
 
 Das Verfahren setzt einen [Eröffnungsgrund](/insolvenzrecht/eroeffnungsgruende-17-19.md) voraus (bei Verbrauchern praktisch die Zahlungsunfähigkeit) und ist der übliche Weg natürlicher Personen zur [Restschuldbefreiung](/insolvenzrecht/restschuldbefreiung-286.md). Für Gläubiger heißt das: Anstelle der Einzelvollstreckung steht die [Forderungsanmeldung](/insolvenzrecht/forderungsanmeldung-174.md) und am Ende der Wegfall der Restschuld.
-
-# Citations
-
-[1] [§ 304 InsO](https://www.gesetze-im-internet.de/inso/__304.html)
-[2] [§ 305 InsO](https://www.gesetze-im-internet.de/inso/__305.html)
-[3] [§ 309 InsO](https://www.gesetze-im-internet.de/inso/__309.html)

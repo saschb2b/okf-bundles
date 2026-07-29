@@ -4,7 +4,12 @@ title: forwardRef
 description: Legacy API that lets a component receive a ref and forward it to a child. In React 19 it is no longer necessary; pass ref as a regular prop. forwardRef will be deprecated in a future release.
 resource: https://react.dev/reference/react/forwardRef
 tags: [react, legacy, refs, deprecated, api]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/forwardRef
+    title: "forwardRef"
 ---
 
 # Legacy notice
@@ -86,6 +91,3 @@ const MyInput = forwardRef(function MyInput(props, ref) {
 # Migration in React 19
 
 Pass `ref` as a normal prop and read it from `props`, dropping the `forwardRef` wrapper. See the React 19 ref-as-a-prop change. For class components, refs use [createRef](/reference/react/legacy/createRef.md).
-
-# Citations
-[1] [forwardRef](https://react.dev/reference/react/forwardRef)

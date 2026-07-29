@@ -5,7 +5,14 @@ description: Ist die Leistung unmöglich, entfällt die Leistungspflicht von sel
 resource: https://www.gesetze-im-internet.de/bgb/__275.html
 tags: [schuldrecht-at, unmoeglichkeit, leistungspflicht, gegenleistung]
 norm: "§ 275 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__275.html
+    title: "§ 275 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__326.html
+    title: "§ 326 BGB"
 ---
 
 # Regel
@@ -24,8 +31,3 @@ Entfällt die Leistungspflicht nach § 275, entfällt grundsätzlich auch der An
 
 - [Schadensersatz statt der Leistung](/schuldrecht-at/schadensersatz-statt-der-leistung.md) bei zu vertretender nachträglicher Unmöglichkeit (§§ 280, 283) oder bei anfänglicher Unmöglichkeit (§ 311a Abs. 2),
 - der Anspruch auf das stellvertretende commodum (§ 285).
-
-# Citations
-
-[1] [§ 275 BGB](https://www.gesetze-im-internet.de/bgb/__275.html)
-[2] [§ 326 BGB](https://www.gesetze-im-internet.de/bgb/__326.html)

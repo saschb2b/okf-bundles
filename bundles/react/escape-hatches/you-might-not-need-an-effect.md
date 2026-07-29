@@ -4,7 +4,12 @@ title: You Might Not Need an Effect
 description: When to remove unnecessary Effects by calculating during render, handling logic in events, and using keys, memoization, and external store Hooks.
 resource: https://react.dev/learn/you-might-not-need-an-effect
 tags: [react, effects, useEffect, useMemo, performance]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/you-might-not-need-an-effect
+    title: "You Might Not Need an Effect"
 ---
 
 # Summary
@@ -75,7 +80,3 @@ The rule: ask why the code runs. If it runs because the component was displayed,
 - To update several components' state, do it in a single event.
 - When trying to keep state variables in different components in sync, lift state up.
 - You can fetch data with Effects, but add cleanup to avoid race conditions.
-
-# Citations
-
-[1] [You Might Not Need an Effect](https://react.dev/learn/you-might-not-need-an-effect)

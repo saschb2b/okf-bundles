@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 222/10"
 doknr: "KORE311932011"
 normen: ["§ 89b Abs 1 S 1 Nr 2 HGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 26.10.2011 - VIII ZR 222/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Übernimmt eine neu gegründete Gesellschaft sowohl die Kunden als auch den Handelsvertreter eines insolvent gewordenen Unternehmens, so sind die bisherigen Kunden des insolventen Unternehmens, die aufgrund der Tätigkeit des Handelsvertreters erstmals ein Geschäft mit dem neu gegründeten Unternehmen abgeschlossen haben, als vom Handelsvertreter geworbene Neukunden dieses Unternehmens anzusehen .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:31:10Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 222/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 26.10.2011 - VIII ZR 222/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

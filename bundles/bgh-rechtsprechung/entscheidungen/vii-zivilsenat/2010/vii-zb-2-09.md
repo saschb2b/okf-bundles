@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 2/09"
 doknr: "KORE314082010"
 normen: ["Art 103 Abs 1 GG, § 321a Abs 5 ZPO, § 726 Abs 1 ZPO, § 732 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:58Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 19.08.2010 - VII ZB 2/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Ein Verstoß gegen den Anspruch auf rechtliches Gehör liegt auch dann vor, wenn ein Gericht versehentlich einen fristgerecht eingereichten Schriftsatz nicht berücksichtigt .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:31:58Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 2/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 19.08.2010 - VII ZB 2/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

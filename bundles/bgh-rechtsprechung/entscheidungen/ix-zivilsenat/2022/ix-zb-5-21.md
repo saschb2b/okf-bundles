@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:240222BIXZB5.21.0"
 doknr: "KORE300912022"
 normen: ["§ 305 Abs 1 Nr 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T10:59:04Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T10:59:04Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 24.02.2022 - IX ZB 5/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Dem Insolvenzgericht steht keine inhaltliche Prüfungsbefugnis der von dem Schuldner vorgelegten Bescheinigung über das Scheitern des außergerichtlichen Einigungsversuchs zu.
@@ -24,8 +30,3 @@ Dem Insolvenzgericht steht keine inhaltliche Prüfungsbefugnis der von dem Schul
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IX ZB 5/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.02.2022 - IX ZB 5/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

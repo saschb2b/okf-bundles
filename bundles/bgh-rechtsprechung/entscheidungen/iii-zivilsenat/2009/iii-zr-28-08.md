@@ -9,13 +9,14 @@ datum: 2009-01-15
 aktenzeichen: "III ZR 28/08"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:38:46Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:38:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2008/III_ZR__28-08.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 15.01.2009 - III ZR 28/08 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 28/08 vom 15.01.2009.
-
-# Citations
-
-[1] [BGH, Urteil vom 15.01.2009 - III ZR 28/08 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2008/III_ZR__28-08.pdf?__blob=publicationFile&v=1)
-

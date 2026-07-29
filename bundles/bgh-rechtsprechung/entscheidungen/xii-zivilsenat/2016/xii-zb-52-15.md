@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:220616BXIIZB52.15.0"
 doknr: "KORE301182016"
 normen: ["§ 21 Abs 1 Nr 3 PStG, § 22 Abs 3 PStG, Art 1 Abs 1 GG, Art 2 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 22.06.2016 - XII ZB 52/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Das Personenstandsgesetz lässt eine Eintragung wie "inter" oder "divers" als Angabe des Geschlechts im Geburtenregister nicht zu.
@@ -24,8 +30,3 @@ Das Personenstandsgesetz lässt eine Eintragung wie "inter" oder "divers" als An
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 52/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 22.06.2016 - XII ZB 52/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

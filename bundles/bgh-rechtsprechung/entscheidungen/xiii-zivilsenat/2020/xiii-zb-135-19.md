@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:140720BXIIIZB135.19.0"
 doknr: "KORE308242020"
 normen: ["§ 167 Abs 1 GWB, § 171 Abs 2 Halbs 2 GWB, § 172 Abs 1 GWB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:01Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:01Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.07.2020 - XIII ZB 135/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Fahrscheindrucker
@@ -26,8 +32,3 @@ Fahrscheindrucker
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 135/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.07.2020 - XIII ZB 135/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

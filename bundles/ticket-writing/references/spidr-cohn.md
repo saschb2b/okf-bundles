@@ -4,7 +4,12 @@ title: "SPIDR: Five Simple but Powerful Ways to Split User Stories (Mike Cohn)"
 description: Mike Cohn's canonical write-up of the five story-splitting patterns, with worked examples.
 resource: https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories
 tags: [external, slicing, primary-source]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories
+    title: "SPIDR: Five Simple but Powerful Ways to Split User Stories"
 ---
 
 # Summary
@@ -14,7 +19,3 @@ Defines SPIDR (Spike, Paths, Interfaces, Data, Rules) and argues almost any stor
 # Cited by
 
 [SPIDR](/techniques/spidr.md) and the [splitting playbook](/playbooks/splitting-a-story.md).
-
-# Citations
-
-[1] [SPIDR: Five Simple but Powerful Ways to Split User Stories](https://www.mountaingoatsoftware.com/blog/five-simple-but-powerful-ways-to-split-user-stories)

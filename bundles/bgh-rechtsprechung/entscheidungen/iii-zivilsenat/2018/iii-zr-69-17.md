@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:151118UIIIZR69.17.0"
 doknr: "KORE313222018"
 normen: ["§ 839 BGB, § 538 Abs 2 S 1 Nr 4 ZPO, § 538 Abs 2 S 1 Nr 7 ZPO, § 3 Nr 3 BRKG SN, Art 34 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:40Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:40Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.11.2018 - III ZR 69/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ist die auf § 538 Abs. 2 Satz 1 Nr. 4 ZPO gestützte Aufhebung und Zurückverweisung der Sache an das Gericht der ersten Instanz verfahrensfehlerhaft erfolgt, weil das Berufungsgericht über den Anspruchsgrund nicht vollständig selbst befunden hat, und war die Aufhebung und Zurückverweisung gemäß § 538 Abs. 2 Satz 1 Nr. 7 ZPO veranlasst, da das Erstgericht ein unzulässiges Teilurteil erlassen hat, so ist das Berufungsurteil vom Revisionsgericht aufzuheben, weil die Bindungswirkung der Rechtsauffassung des Berufungsgerichts für das Erstgericht in den Fällen des § 538 Abs. 2 Satz 1 Nr. 4 ZPO einerseits und des § 538 Abs. 2 Satz 1 Nr. 7 ZPO andererseits unterschiedlich weit reicht. In diesem Fall kann das Revisionsgericht die Sache direkt - unter Aufhebung des Ersturteils - an das erstinstanzliche Gericht zurückverweisen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:31:40Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 69/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.11.2018 - III ZR 69/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

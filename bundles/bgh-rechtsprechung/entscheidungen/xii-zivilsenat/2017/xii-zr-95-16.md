@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:061217UXIIZR95.16.0"
 doknr: "KORE300152018"
 normen: ["§ 562 BGB, § 562a BGB, § 50 InsO, § 166 Abs 1 InsO, § 170 Abs 1 InsO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.12.2017 - XII ZR 95/16 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Das Vermieterpfandrecht umfasst auch Fahrzeuge des Mieters, die auf dem gemieteten Grundstück regelmäßig abgestellt werden.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:25Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 95/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.12.2017 - XII ZR 95/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

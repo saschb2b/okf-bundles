@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 41/09"
 doknr: "KORE314252010"
 normen: ["§ 56 Abs 1 ZPO, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:02Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:02Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.09.2010 - XII ZR 41/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Klärung der Frage, ob eine Prozesspartei existiert .
@@ -23,8 +29,3 @@ Zur Klärung der Frage, ob eine Prozesspartei existiert .
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 41/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.09.2010 - XII ZR 41/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

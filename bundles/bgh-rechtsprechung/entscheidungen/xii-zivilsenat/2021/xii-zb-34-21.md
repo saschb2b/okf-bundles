@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:120521BXIIZB34.21.0"
 doknr: "KORE304482021"
 normen: ["§ 1666 BGB, § 9 Abs 1 Nr 3 FamFG, § 23 FamFG, § 59 FamFG, § 60 FamFG, § 76 Abs 1 FamFG, § 117 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.05.2021 - XII ZB 34/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In Verfahren wegen Kindeswohlgefährdung nach § 1666 BGB ist ein Minderjähriger auch dann, wenn er mindestens 14 Jahre alt ist, nicht nach § 9 Abs. 1 Nr. 3 FamFG verfahrensfähig.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 34/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.05.2021 - XII ZB 34/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

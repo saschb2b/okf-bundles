@@ -5,7 +5,16 @@ description: Versucht ist eine Tat, wer nach seiner Vorstellung unmittelbar zur 
 resource: https://www.gesetze-im-internet.de/stgb/__22.html
 tags: [strafrecht-at, versuch, ruecktritt, unmittelbares-ansetzen]
 norm: "§§ 22 bis 24 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__22.html
+    title: "§ 22 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__23.html
+    title: "§ 23 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__24.html
+    title: "§ 24 StGB"
 ---
 
 # Versuch (§§ 22, 23)
@@ -22,9 +31,3 @@ Wegen Versuchs wird **nicht bestraft**, wer
 - wird die Tat ohne sein Zutun nicht vollendet, **freiwillig und ernsthaft bemüht** ist, die Vollendung zu verhindern (§ 24 Abs. 1 Satz 2).
 
 Bei mehreren Beteiligten muss der Zurücktretende die Vollendung verhindern oder sich freiwillig und ernsthaft darum bemühen (§ 24 Abs. 2). Freiwillig ist der Rücktritt, wenn der Täter aus eigenem Antrieb handelt, nicht durch zwingende äußere Umstände.
-
-# Citations
-
-[1] [§ 22 StGB](https://www.gesetze-im-internet.de/stgb/__22.html)
-[2] [§ 23 StGB](https://www.gesetze-im-internet.de/stgb/__23.html)
-[3] [§ 24 StGB](https://www.gesetze-im-internet.de/stgb/__24.html)

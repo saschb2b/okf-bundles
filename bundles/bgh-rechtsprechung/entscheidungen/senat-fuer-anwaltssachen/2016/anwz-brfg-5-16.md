@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:071116BANWZ.BRFG.5.16.0"
 doknr: "JURE160019777"
 normen: ["§ 112c Abs 1 S 1 BRAO, § 60 Abs 1 VwGO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.11.2016 - AnwZ (Brfg) 5/16 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 112c Abs 1 S 1 BRAO, § 60 Abs 1 VwGO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 5/16 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.11.2016 - AnwZ (Brfg) 5/16 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

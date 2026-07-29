@@ -5,7 +5,12 @@ description: Die Bundesrepublik ist ein demokratischer und sozialer Bundesstaat;
 resource: https://www.gesetze-im-internet.de/gg/art_20.html
 tags: [verfassungsrecht, staatsstrukturprinzipien, rechtsstaat, demokratie, gewaltenteilung]
 norm: "Art. 20 GG"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/gg/art_20.html
+    title: "Art. 20 GG"
 ---
 
 # Die Prinzipien (Art. 20 Abs. 1 bis 3)
@@ -22,7 +27,3 @@ Art. 20 GG fasst die tragenden Strukturprinzipien des Staates zusammen:
 # Widerstandsrecht und Ewigkeitsgarantie
 
 Gegen jeden, der diese Ordnung beseitigen will, besteht ein Widerstandsrecht, wenn andere Abhilfe nicht möglich ist (Abs. 4). Die Grundsätze des Art. 20 sind über Art. 79 Abs. 3 GG (Ewigkeitsgarantie) der Verfassungsänderung entzogen.
-
-# Citations
-
-[1] [Art. 20 GG](https://www.gesetze-im-internet.de/gg/art_20.html)

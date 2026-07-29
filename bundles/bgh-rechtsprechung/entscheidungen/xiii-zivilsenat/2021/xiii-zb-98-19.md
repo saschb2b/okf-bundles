@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:200721BXIIIZB98.19.0"
 doknr: "KORE647752021"
 normen: ["Art 2 Abs 1 GG, Art 20 Abs 3 GG, § 427 FamFG, Art 28 Abs 2 EUV 604/2013, § 295 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.07.2021 - XIII ZB 98/19 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 2 Abs 1 GG, Art 20 Abs 3 GG, § 427 FamFG, Art 28 Abs 2 EUV 604/2013, § 295 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZB 98/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.07.2021 - XIII ZB 98/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

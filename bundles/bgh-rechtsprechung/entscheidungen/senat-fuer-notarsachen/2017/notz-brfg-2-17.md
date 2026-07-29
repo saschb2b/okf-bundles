@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:131117BNOTZ.BRFG.2.17.0"
 doknr: "KORE300022018"
 normen: ["§ 3 Abs 1 BNotO, § 6 Abs 3 BNotO, § 7 Abs 1 BNotO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:22Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.11.2017 - NotZ (Brfg) 2/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der dreijährige Anwärterdienst stellt nach der Vorschrift des § 7 Abs. 1 BNotO keine zwingende Voraussetzung für die Bestellung zum (hauptberuflichen) Notar dar. Die zuständige Landesjustizverwaltung ist nicht gezwungen, im Falle eines Konkurrenzverhältnisses von Notaren und landesangehörigen Notarassessoren, die ihren dreijährigen Anwärterdienst noch nicht beendet haben, von vornherein dem Notar den Vorrang einzuräumen.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:14:22Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 2/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.11.2017 - NotZ (Brfg) 2/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:131118BVIIIZB35.18.0"
 doknr: "KORE607992018"
 normen: ["§ 21 Abs 1 S 1 GKG, § 66 Abs 1 S 1 GKG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:15Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:15Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.11.2018 - VIII ZB 35/18 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 21 Abs 1 S 1 GKG, § 66 Abs 1 S 1 GKG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:15Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 35/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.11.2018 - VIII ZB 35/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

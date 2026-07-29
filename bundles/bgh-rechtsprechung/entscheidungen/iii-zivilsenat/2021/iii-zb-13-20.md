@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:070121BIIIZB13.20.0"
 doknr: "KORE310902021"
 normen: ["§ 13 GVG, § 426 BGB, § 48 S 1 BeamtStG, § 48 S 2 BeamtStG, § 54 Abs 1 BeamtStG, § 126 Abs 1 BRRG, § 126 Abs 2  BRRG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 07.01.2021 - III ZB 13/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Rechtsweg, Gesamtschuldnerausgleich unter Beamten
@@ -26,8 +32,3 @@ Rechtsweg, Gesamtschuldnerausgleich unter Beamten
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZB 13/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 07.01.2021 - III ZB 13/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

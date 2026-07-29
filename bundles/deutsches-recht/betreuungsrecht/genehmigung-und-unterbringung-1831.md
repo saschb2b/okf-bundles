@@ -5,7 +5,16 @@ description: Besonders eingriffsintensive Maßnahmen des Betreuers bedürfen der
 resource: https://www.gesetze-im-internet.de/bgb/__1831.html
 tags: [betreuungsrecht, unterbringung, zwangsmassnahme, genehmigung, freiheitsentziehung]
 norm: "§§ 1831, 1829, 1833 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1831.html
+    title: "§ 1831 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1829.html
+    title: "§ 1829 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1833.html
+    title: "§ 1833 BGB"
 ---
 
 # Freiheitsentziehende Unterbringung (§ 1831)
@@ -28,9 +37,3 @@ Genehmigungspflichtig sind außerdem die **Aufgabe der Wohnung** des Betreuten (
 # Bezug
 
 Diese Maßnahmen muss eine [Vorsorgevollmacht](/betreuungsrecht/vorsorgevollmacht-1820.md) ausdrücklich erfassen, und sie sind stets an den [Wünschen des Betreuten](/betreuungsrecht/wuensche-und-selbstbestimmung-1821.md) und der Verhältnismäßigkeit zu messen.
-
-# Citations
-
-[1] [§ 1831 BGB](https://www.gesetze-im-internet.de/bgb/__1831.html)
-[2] [§ 1829 BGB](https://www.gesetze-im-internet.de/bgb/__1829.html)
-[3] [§ 1833 BGB](https://www.gesetze-im-internet.de/bgb/__1833.html)

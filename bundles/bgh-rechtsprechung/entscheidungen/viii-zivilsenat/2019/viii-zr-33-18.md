@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:170419UVIIIZR33.18.0"
 doknr: "KORE301042019"
 normen: ["§ 536 Abs 1 BGB, § 558 Abs 1 BGB, § 558 Abs 3 BGB, § 4 Nr 4 WoFlV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:45Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:45Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.04.2019 - VIII ZR 33/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Verfahren der Mieterhöhung bis zur ortsüblichen Vergleichsmiete (§ 558 Abs. 1 BGB) bestimmt sich die der Berechnung der Kappungsgrenze (§ 558 Abs. 3 BGB) zu Grunde zu legende Ausgangsmiete auch im Falle einer Mietminderung wegen eines nicht behebbaren Mangels in Form nicht unerheblicher Wohnflächenabweichung (§ 536 Abs. 1 BGB) nach der vertraglich vereinbarten Miete.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:45Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 33/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.04.2019 - VIII ZR 33/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

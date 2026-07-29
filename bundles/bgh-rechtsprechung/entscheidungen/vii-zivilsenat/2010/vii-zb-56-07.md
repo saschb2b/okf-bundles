@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 56/07"
 doknr: "KORE307642010"
 normen: ["§ 494a ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.01.2010 - VII ZB 56/07 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Antragsgegner, der nach Abschluss eines selbstständigen Beweisverfahrens mit seinem Antrag auf Erhebung der Klage über eine angemessene Überlegungsfrist hinaus so lange wartet, bis der etwaige Anspruch des Antragstellers verjährt ist, handelt rechtsmissbräuchlich, wenn es für ihn keine triftigen Gründe gab, den Antrag nicht früher zu stellen .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:29:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 56/07 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.01.2010 - VII ZB 56/07 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

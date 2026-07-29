@@ -10,8 +10,14 @@ aktenzeichen: "VI ZB 1/10"
 doknr: "KORE315782010"
 normen: ["§ 85 Abs 2 ZPO, § 233 ZPO, § 234 ZPO, § 520 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:21Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:21Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 13.07.2010 - VI ZB 1/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Bei der Organisation des Fristenwesens in seiner Kanzlei hat der Anwalt durch geeignete Anweisungen sicherzustellen, dass die zur wirksamen Fristenkontrolle erforderlichen Handlungen zum frühestmöglichen Zeitpunkt und im unmittelbaren zeitlichen Zusammenhang mit dem den Fristenlauf auslösenden Ereignis vorgenommen werden .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:21Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VI ZB 1/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.07.2010 - VI ZB 1/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: panicThreshold
 description: Determines whether React Compiler errors fail the build or are skipped so the build continues.
 resource: https://react.dev/reference/react-compiler/panicThreshold
 tags: [react, react-compiler, configuration, build]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react-compiler/panicThreshold
+    title: "panicThreshold"
 ---
 
 # Reference
@@ -58,7 +63,3 @@ timestamp: 2026-06-30T12:00:00Z
 - Higher thresholds are only useful during development for debugging.
 
 This option is set in the React Compiler config. For an overview, see [the React Compiler guide](/react-compiler/react-compiler.md).
-
-# Citations
-
-[1] [panicThreshold](https://react.dev/reference/react-compiler/panicThreshold)

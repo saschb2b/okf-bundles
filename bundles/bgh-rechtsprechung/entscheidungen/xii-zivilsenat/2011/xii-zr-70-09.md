@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 70/09"
 doknr: "KORE313242011"
 normen: ["§ 781 BGB, § 1603 Abs 2 S 3 BGB, § 1606 Abs 3 S 2 BGB, § 323 Abs 1 ZPO, § 323 Abs 4 ZPO, § 522 Abs 1 ZPO, § 522 Abs 2 ZPO, § 522 Abs 3 ZPO, § 59 Abs 1 Nr 3 SGB 8, § 60 SGB 8"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.05.2011 - XII ZR 70/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Für die Abänderung einer Jugendamtsurkunde über den Kindesunterhalt ist in Verfahren, die vor dem 1. September 2009 eingeleitet wurden, die Abänderungsklage nach § 323 Abs. 4 ZPO zulässig .
@@ -29,8 +35,3 @@ timestamp: 2026-06-22T12:31:41Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 70/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.05.2011 - XII ZR 70/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

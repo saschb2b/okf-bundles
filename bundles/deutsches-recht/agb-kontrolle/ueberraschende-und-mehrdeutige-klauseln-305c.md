@@ -5,7 +5,12 @@ description: Ungewöhnliche, überrumpelnde Klauseln werden nicht Vertragsbestan
 resource: https://www.gesetze-im-internet.de/bgb/__305c.html
 tags: [agb-recht, bgb, ueberraschende-klausel, unklarheitenregel, auslegung]
 norm: "§ 305c BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__305c.html
+    title: "§ 305c BGB"
 ---
 
 # Regel
@@ -20,7 +25,3 @@ timestamp: 2026-06-18T12:00:00Z
 # Stellung in der Prüfung
 
 § 305c Abs. 1 ist eine **Einbeziehungsschranke**: Eine überraschende Klausel wird gar nicht erst Vertragsbestandteil und wird daher nach der [Einbeziehung](/agb-kontrolle/einbeziehung-305.md) und vor der [Inhaltskontrolle](/agb-kontrolle/inhaltskontrolle-307.md) geprüft. Die Auslegung nach Abs. 2 steht der Inhaltskontrolle voran, weil erst der Klauselinhalt feststehen muss.
-
-# Citations
-
-[1] [§ 305c BGB](https://www.gesetze-im-internet.de/bgb/__305c.html)

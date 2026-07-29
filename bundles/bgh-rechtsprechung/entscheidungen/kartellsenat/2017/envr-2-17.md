@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:121217BENVR2.17.0"
 doknr: "KORE300162018"
 normen: ["§ 36 VwVfG, § 29 Abs 1 EnWG, § 75 Abs 1 EnWG, § 15 Abs 2 GasNEV, § 15 Abs 3 GasNEV, § 30 Abs 2 Nr 7 GasNEV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.12.2017 - EnVR 2/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Festlegung BEATE
@@ -28,8 +34,3 @@ Festlegung BEATE
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 2/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.12.2017 - EnVR 2/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

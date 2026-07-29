@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:160222UXIIZR17.21.0"
 doknr: "KORE300592022"
 normen: ["§ 275 Abs 1 BGB, § 313 Abs 1 BGB, § 320 BGB, § 326 Abs 1 BGB, § 536 Abs 1 S 1 BGB, Art 240 § 7 BGBEG, § 592 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 16.02.2022 - XII ZR 17/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Geltendmachung der Gewerberaummiete durch den Vermieter und des Einwands der Störung der Geschäftsgrundlage durch den Mieter im Urkundenprozess.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:14:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 17/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 16.02.2022 - XII ZR 17/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

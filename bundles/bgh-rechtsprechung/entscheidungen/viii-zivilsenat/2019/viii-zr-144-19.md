@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:111219UVIIIZR144.19.0"
 doknr: "KORE310102020"
 normen: ["§ 573 Abs 2 Nr 2 BGB, § 574 Abs 1 S 1 BGB, § 574 Abs 2 BGB, Art 2 Abs 2 GG, Art 14 Abs 1 S 1 GG, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.12.2019 - VIII ZR 144/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Härtegrund des zu zumutbaren Bedingungen nicht zu beschaffenden Ersatzwohnraums setzt konkrete tatrichterliche Feststellungen voraus, welcher Ersatzwohnraum für den Mieter nach seinen finanziellen und persönlichen Verhältnissen angemessen ist, welche Bemühungen von dem Mieter nach diesen Verhältnissen anzustellen sind und ob er diesen Anstrengungen genügt hat (im Anschluss an Senatsurteil vom 22. Mai 2019 - VIII ZR 180/18, NJW 2019, 2765 Rn. 50, 53, BGHZ 222, 133).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 144/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.12.2019 - VIII ZR 144/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

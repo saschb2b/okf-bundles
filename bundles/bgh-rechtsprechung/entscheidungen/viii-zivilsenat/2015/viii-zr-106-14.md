@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 106/14"
 doknr: "KORE304252015"
 normen: ["Art 3  GG, Art 20 Abs 3 GG, § 315 BGB, § 433 BGB, § 2 AVBWasserV, § 4 AVBWasserV, § 6 KAG NW"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.07.2015 - VIII ZR 106/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Ein Wasserversorgungsunternehmen, das in seinem Versorgungsgebiet die Anschlussnehmer auf privatrechtlicher Grundlage versorgt, kann bei seiner Tarifgestaltung für die Lieferung von Trinkwasser neben verbrauchsabhängigen Entgelten zugleich verbrauchsunabhängige Grundpreise zur Abgeltung der durch das Bereitstellen und ständige Vorhalten der Versorgungseinrichtungen entstehenden verbrauchsunabhängigen Betriebskosten in Ansatz bringen (Bestätigung der Senatsurteile vom 20. Mai 2015, VIII ZR 136/14 und VIII ZR 164/14).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:28:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 106/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.07.2015 - VIII ZR 106/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

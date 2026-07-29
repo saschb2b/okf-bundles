@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 25/09"
 doknr: "KORE308882010"
 normen: ["§ 745 Abs 1 S 1 BGB, § 1056 Abs 2 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:16Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:16Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.10.2010 - XII ZR 25/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:30:16Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 25/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.10.2010 - XII ZR 25/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:290120UVIIIZR80.18.0"
 doknr: "KORE307312020"
 normen: ["Art 3 Abs 3 S 4 EGRL 55/2003, Art 3 Abs 3 S 5 EGRL 55/2003, Art 3 Abs 3 S 6 Anh A EGRL 55/2003, § 133 BGB, § 157 BGB, § 433 Abs 2 BGB, § 4 Abs 1 AVBGasV, § 4 Abs 2 AVBGasV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.01.2020 - VIII ZR 80/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Transparenzanforderungen des Art. 3 Abs. 3 Satz 4 bis 6 in Verbindung mit Anhang A der Gas-Richtlinie 2003/55/EG sind - ungeachtet der Frage, ob diese Bestimmungen die hierfür erforderliche inhaltliche Unbedingtheit und hinreichende Genauigkeit aufweisen - auf einseitige Preiserhöhungen eines Energieversorgungsunternehmens - hier eines Grundversorgers - grundsätzlich auch dann nicht unmittelbar anzuwenden, wenn sich die Gesellschaftsanteile des Energieversorgungsunternehmens (hier einer GmbH) vollständig in öffentlicher Hand befinden.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:29:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 80/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.01.2020 - VIII ZR 80/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2003-01-22
 aktenzeichen: "XII ZR 2/00"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:06:32Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:06:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2000/XII_ZR___2-00.pdf?__blob=publicationFile&v=1
+    title: "BGH, Urteil vom 22.01.2003 - XII ZR 2/00 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZR 2/00 vom 22.01.2003.
-
-# Citations
-
-[1] [BGH, Urteil vom 22.01.2003 - XII ZR 2/00 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2000/XII_ZR___2-00.pdf?__blob=publicationFile&v=1)
-

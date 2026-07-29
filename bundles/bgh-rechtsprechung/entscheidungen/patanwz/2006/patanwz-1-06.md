@@ -9,13 +9,14 @@ datum: 2006-10-30
 aktenzeichen: "PatAnwZ 1/06"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:32:24Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:32:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/PatAnwS/2006/PatAnwZ___1-06.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 30.10.2006 - PatAnwZ 1/06 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: PatAnwZ 1/06 vom 30.10.2006.
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.10.2006 - PatAnwZ 1/06 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/PatAnwS/2006/PatAnwZ___1-06.pdf?__blob=publicationFile&v=1)
-

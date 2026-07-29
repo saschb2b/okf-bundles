@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:270218BVIIIZR90.17.0"
 doknr: "KORE300452018"
 normen: ["§ 283 S 1 ZPO, § 296a S 2 ZPO, § 531 Abs 1 ZPO, § 531 Abs 2 ZPO, Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:32Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:32Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 27.02.2018 - VIII ZR 90/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 531 Abs. 1 ZPO, wonach Angriffs- und Verteidigungsmittel, die im ersten Rechtszug zu Recht zurückgewiesen worden sind, auch in der Berufungsinstanz ausgeschlossen sind, ist nicht anwendbar, wenn in erster Instanz Vorbringen nach § 296a ZPO unberücksichtigt geblieben ist (im Anschluss an BGH, Beschluss vom 21. März 2013, VII ZR 58/12, NJW-RR 2013, 655 Rn. 10).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:14:32Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 90/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.02.2018 - VIII ZR 90/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

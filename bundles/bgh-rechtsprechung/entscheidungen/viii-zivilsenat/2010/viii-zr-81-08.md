@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 81/08"
 doknr: "KORE302792010"
 normen: ["§ 133 BGB, § 157 BGB, § 306 BGB, § 307 BGB, § 310 BGB, § 315 BGB, § 4 AVBGasV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:51Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:51Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 13.01.2010 - VIII ZR 81/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Unwirksamkeit von Preisanpassungsklauseln in Erdgaslieferverträgen mit Normsonderkunden    .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:27:51Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 81/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 13.01.2010 - VIII ZR 81/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

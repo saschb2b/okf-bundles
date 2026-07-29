@@ -10,8 +10,14 @@ aktenzeichen: "NotZ (Brfg) 13/14"
 doknr: "KORE301162015"
 normen: ["Art 12 GG, Art 49 AEUV, Art 56 AEUV, § 11a S 3 BNotO, § 11a S 4 BNotO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:48Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:48Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.07.2015 - NotZ (Brfg) 13/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Befugnisse eines nach dem Recht von England und Wales bestellten Notary Scrivener bestimmen sich bei notarieller Urkundstätigkeit im Geltungsbereich der Bundesnotarordnung ausschließlich gemäß § 11a Satz 3 und 4 BNotO.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:14:48Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen NotZ (Brfg) 13/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.07.2015 - NotZ (Brfg) 13/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

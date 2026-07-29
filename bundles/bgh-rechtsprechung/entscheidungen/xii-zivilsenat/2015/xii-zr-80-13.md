@@ -10,8 +10,14 @@ aktenzeichen: "XII ZR 80/13"
 doknr: "KORE302992015"
 normen: ["§ 313 BGB, § 1578 Abs 2 BGB, § 1578 Abs 3 BGB, § 1578b Abs 1 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:57Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:57Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 18.02.2015 - XII ZR 80/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Haben die Parteien in einem Ehevertrag eine lebenslange Unterhaltsverpflichtung vereinbart, und hat sich die Rechtslage danach geändert (Möglichkeit der Befristung), bleibt es dem Unterhaltspflichtigen im Zweifel unbenommen, sich auf eine Störung der Geschäftsgrundlage zu berufen (im Anschluss an Senatsurteil vom 25. Januar 2012, XII ZR 139/09, FamRZ 2012, 525).
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:57Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 80/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 18.02.2015 - XII ZR 80/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

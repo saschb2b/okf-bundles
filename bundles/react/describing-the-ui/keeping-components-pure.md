@@ -4,7 +4,12 @@ title: Keeping Components Pure
 description: How to avoid a class of bugs by writing components as pure functions with the same output for the same inputs.
 resource: https://react.dev/learn/keeping-components-pure
 tags: [react, purity, components, learn]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/keeping-components-pure
+    title: "Keeping Components Pure"
 ---
 
 # Summary
@@ -98,7 +103,3 @@ In development, React's Strict Mode calls each component function twice. A pure 
 - Local mutation of values created during the same render is safe.
 - Put side effects in event handlers, or in `useEffect` as a last resort.
 - Strict Mode double-invokes components in development to surface impurity.
-
-# Citations
-
-[1] [Keeping Components Pure](https://react.dev/learn/keeping-components-pure)

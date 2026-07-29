@@ -4,7 +4,12 @@ title: Extracting State Logic into a Reducer
 description: How to consolidate many state updates spread across event handlers into a single reducer function with useReducer.
 resource: https://react.dev/learn/extracting-state-logic-into-a-reducer
 tags: [react, state, reducer, hooks]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/extracting-state-logic-into-a-reducer
+    title: "Extracting State Logic into a Reducer"
 ---
 
 # Summary
@@ -109,7 +114,3 @@ function tasksReducer(draft, action) {
 - Reducers must be pure.
 - Each action describes a single user interaction.
 - Use Immer if you want to write reducers in a mutating style.
-
-# Citations
-
-[1] [Extracting State Logic into a Reducer](https://react.dev/learn/extracting-state-logic-into-a-reducer)

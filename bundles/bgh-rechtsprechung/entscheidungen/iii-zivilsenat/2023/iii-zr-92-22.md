@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2023:200423UIIIZR92.22.0"
 doknr: "KORE304292023"
 normen: ["§ 823 Abs 2 BGB, § 37 Abs 1 S 2 WHG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 20.04.2023 - III ZR 92/22 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 37 Abs. 1 Satz 2 WHG ist - wie einige seiner landesrechtlichen Vorgängerbestimmungen - einschränkend dahin auszulegen, dass jedenfalls solche Änderungen der Stärke oder Richtung des Wasserabflusses, die infolge einer üblichen landwirtschaftlichen Nutzung eintreten, grundsätzlich keine unzulässige Veränderung darstellen.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:28:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 92/22 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 20.04.2023 - III ZR 92/22 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

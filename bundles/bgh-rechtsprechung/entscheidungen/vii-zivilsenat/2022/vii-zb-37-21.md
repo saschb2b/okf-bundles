@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:120122BVIIZB37.21.0"
 doknr: "KORE654482022"
 normen: ["Art 103 Abs 1 GG, § 574 Abs 1 S 1 Nr 1 ZPO, § 574 Abs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:39Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:39Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 12.01.2022 - VII ZB 37/21 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - Art 103 Abs 1 GG, § 574 Abs 1 S 1 Nr 1 ZPO, § 574 Abs 2 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:39Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 37/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 12.01.2022 - VII ZB 37/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

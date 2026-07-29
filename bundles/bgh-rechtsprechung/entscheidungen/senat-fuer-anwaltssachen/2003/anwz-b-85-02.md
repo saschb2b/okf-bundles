@@ -9,13 +9,14 @@ datum: 2003-10-13
 aktenzeichen: "AnwZ (B) 85/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T13:16:06Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T13:16:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2002/AnwZ_B__85-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 13.10.2003 - AnwZ (B) 85/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 85/02 vom 13.10.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 13.10.2003 - AnwZ (B) 85/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2002/AnwZ_B__85-02.pdf?__blob=publicationFile&v=1)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:020720BVIIZA3.19.0"
 doknr: "KORE301692020"
 normen: ["§ 803 ZPO, § 835 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 02.07.2020 - VII ZA 3/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die Überweisung einer gepfändeten Forderung zur Einziehung setzt als Hoheitsakt die öffentlich-rechtliche Beschlagnahme des Pfandgegenstandes (Verstrickung) voraus. Deshalb gehört eine wirksame Pfändung zum Tatbestand der Überweisung. Wirksam ist eine Pfändung, wenn sie nicht nichtig ist, das heißt unter einem besonders schweren und bei verständiger Würdigung aller in Betracht kommenden Umstände offenkundigen Fehler leidet.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:27:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZA 3/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 02.07.2020 - VII ZA 3/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

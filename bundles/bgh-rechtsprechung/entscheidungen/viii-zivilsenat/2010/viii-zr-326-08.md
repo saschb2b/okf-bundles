@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 326/08"
 doknr: "KORE313312010"
 normen: ["§ 305c BGB, § 307 Abs 1 BGB, § 310 BGB, § 36 EnWG 2005, § 38 EnWG 2005, § 39 EnWG 2005, § 1 GasGVV, § 3 GasGVV, § 5 Abs 2 GasGVV, § 5 Abs 3 GasGVV, § 19 Abs 1 GasGVV, § 19 Abs 2 GasGVV, § 20 GasGVV, § 33 AVBGasV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.01.2010 - VIII ZR 326/08 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In Allgemeinen Geschäftsbedingungen, die ein Gasversorgungsunternehmen gegenüber Verbrauchern in Verträgen über die Belieferung mit Erdgas verwendet, halten in Verträgen über die Grundversorgung folgende Klauseln einer Inhaltskontrolle nach § 307 Abs. 1 BGB nicht stand:
@@ -35,8 +41,3 @@ timestamp: 2026-06-22T12:31:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 326/08 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.01.2010 - VIII ZR 326/08 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

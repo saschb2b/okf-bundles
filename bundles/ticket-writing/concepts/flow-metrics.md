@@ -3,7 +3,16 @@ type: Concept
 title: Flow metrics
 description: Cycle time, throughput, WIP, and work item age, the lens that makes a stalled ticket visible before it is formally late.
 tags: [flow, kanban, metrics]
-timestamp: 2026-06-18T11:30:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T11:30:00Z
+sources:
+  - resource: https://www.scrum.org/resources/blog/4-key-flow-metrics-and-how-use-them-scrums-events
+    title: "4 Key Flow Metrics (Scrum.org)"
+  - resource: https://www.55degrees.se/blog/post/what-is-work-item-age
+    title: "What is Work Item Age? (55degrees)"
+  - resource: https://www.scrum.org/resources/blog/getting-85-agile-metrics-actionableagile-part-1
+    title: "Getting to 85: Agile Metrics with ActionableAgile (Scrum.org)"
 ---
 
 # The metrics
@@ -21,9 +30,3 @@ Plot each in-progress item's age against the team's historical cycle-time percen
 # Why it matters for tickets
 
 The detector for [the Boulder](/smells/boulder.md). Governed by [Little's Law](/concepts/littles-law.md) and [batch size](/concepts/batch-size.md).
-
-# Citations
-
-[1] [4 Key Flow Metrics (Scrum.org)](https://www.scrum.org/resources/blog/4-key-flow-metrics-and-how-use-them-scrums-events)
-[2] [What is Work Item Age? (55degrees)](https://www.55degrees.se/blog/post/what-is-work-item-age)
-[3] [Getting to 85: Agile Metrics with ActionableAgile (Scrum.org)](https://www.scrum.org/resources/blog/getting-85-agile-metrics-actionableagile-part-1)

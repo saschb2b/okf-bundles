@@ -4,7 +4,12 @@ title: gating
 description: Validates the React Compiler gating-mode configuration used to adopt the compiler incrementally.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/gating
 tags: [react, eslint, lint, compiler, gating]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/gating
+    title: "gating"
 ---
 
 # What it flags
@@ -52,7 +57,3 @@ export function isCompilerEnabled() { /* ... */ }
 ```
 
 Omitting `gating` compiles all components.
-
-# Citations
-
-[1] [gating](https://react.dev/reference/eslint-plugin-react-hooks/lints/gating)

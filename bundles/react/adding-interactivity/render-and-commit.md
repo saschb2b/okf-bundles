@@ -4,7 +4,12 @@ title: Render and Commit
 description: The three steps React takes to display components, trigger, render, and commit, and why rendering does not always touch the DOM.
 resource: https://react.dev/learn/render-and-commit
 tags: [react, rendering, dom, commit]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/render-and-commit
+    title: "Render and Commit"
 ---
 
 # Summary
@@ -69,7 +74,3 @@ After React updates the DOM, the browser repaints the screen. This step is calle
 - Any screen update in a React app happens in three steps: trigger, render, commit.
 - Use Strict Mode to find mistakes in your components.
 - React does not touch the DOM if the rendering result is the same as last time.
-
-# Citations
-
-[1] [Render and Commit](https://react.dev/learn/render-and-commit)

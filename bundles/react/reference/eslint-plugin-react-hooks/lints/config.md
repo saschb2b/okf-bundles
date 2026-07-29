@@ -4,7 +4,12 @@ title: config
 description: Validates React Compiler configuration options so typos or wrong value types fail loudly instead of silently.
 resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/config
 tags: [react, eslint, lint, compiler, configuration]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/eslint-plugin-react-hooks/lints/config
+    title: "config"
 ---
 
 # What it flags
@@ -53,7 +58,3 @@ module.exports = {
 # Troubleshooting
 
 Common mistakes: a typo in an option name, the wrong value type (for example `panicThreshold: true`), or an entirely unknown option like `optimizationLevel`. Refer to the React Compiler configuration reference for the full list of valid options.
-
-# Citations
-
-[1] [config](https://react.dev/reference/eslint-plugin-react-hooks/lints/config)

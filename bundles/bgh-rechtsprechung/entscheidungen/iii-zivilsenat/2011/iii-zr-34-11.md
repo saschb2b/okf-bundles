@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 34/11"
 doknr: "KORE606032011"
 normen: ["§ 19 Abs 1 BNotO, § 17 Abs 1 BeurkG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:33:54Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:33:54Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.10.2011 - III ZR 34/11 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 19 Abs 1 BNotO, § 17 Abs 1 BeurkG
@@ -19,8 +25,3 @@ timestamp: 2026-06-22T12:33:54Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 34/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.10.2011 - III ZR 34/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

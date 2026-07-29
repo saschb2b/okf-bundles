@@ -5,7 +5,16 @@ description: Während des Getrenntlebens besteht Trennungsunterhalt nach den ehe
 resource: https://www.gesetze-im-internet.de/bgb/__1361.html
 tags: [familienrecht, trennungsunterhalt, nachehelicher-unterhalt, befristung]
 norm: "§§ 1361, 1569 bis 1578b, 1579 BGB"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1361.html
+    title: "§ 1361 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1569.html
+    title: "§ 1569 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1578b.html
+    title: "§ 1578b BGB"
 ---
 
 # Trennungsunterhalt (§ 1361)
@@ -31,9 +40,3 @@ Nach der [Scheidung](/familienrecht/scheidung-1565.md) gilt der **Grundsatz der 
 # Bezug
 
 Die allgemeinen Voraussetzungen (Bedürftigkeit, Leistungsfähigkeit, Selbstbehalt, [Rangfolge](/familienrecht/unterhalt-1601.md)) gelten auch hier; im Mangelfall geht der Kindesunterhalt vor.
-
-# Citations
-
-[1] [§ 1361 BGB](https://www.gesetze-im-internet.de/bgb/__1361.html)
-[2] [§ 1569 BGB](https://www.gesetze-im-internet.de/bgb/__1569.html)
-[3] [§ 1578b BGB](https://www.gesetze-im-internet.de/bgb/__1578b.html)

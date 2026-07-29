@@ -10,8 +10,14 @@ aktenzeichen: "VII ZR 87/14"
 doknr: "KORE312882015"
 normen: ["§ 87 Abs 1 HGB, § 133 BGB, § 157 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 22.01.2015 - VII ZR 87/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Für die Frage, für welche Geschäfte der Handelsvertreter eine Provision erhalten soll und auf welchen Zeitpunkt es für das Entstehen des Provisionsanspruchs ankommt, ist die von den Parteien getroffene Vergütungsvereinbarung (hier im Zusammenhang mit Serienbelieferungsverträgen in der Automobilindustrie) maßgeblich.
@@ -23,8 +29,3 @@ Für die Frage, für welche Geschäfte der Handelsvertreter eine Provision erhal
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 87/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 22.01.2015 - VII ZR 87/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

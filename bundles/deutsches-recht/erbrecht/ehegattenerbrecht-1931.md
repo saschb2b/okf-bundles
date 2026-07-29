@@ -5,7 +5,14 @@ description: Der überlebende Ehegatte erbt neben Verwandten erster Ordnung ein 
 resource: https://www.gesetze-im-internet.de/bgb/__1931.html
 tags: [erbrecht, ehegattenerbrecht, gueterstand, zugewinn]
 norm: "§§ 1931, 1371 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__1931.html
+    title: "§ 1931 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__1371.html
+    title: "§ 1371 BGB"
 ---
 
 # Erbquote (§ 1931)
@@ -23,8 +30,3 @@ Lebten die Ehegatten im gesetzlichen Güterstand der **Zugewinngemeinschaft**, w
 # Bezug
 
 Die Verwandtenordnungen regelt die [gesetzliche Erbfolge](/erbrecht/gesetzliche-erbfolge-1924.md). Ist der Ehegatte testamentarisch ausgeschlossen, ist er [pflichtteilsberechtigt](/erbrecht/pflichtteil-2303.md).
-
-# Citations
-
-[1] [§ 1931 BGB](https://www.gesetze-im-internet.de/bgb/__1931.html)
-[2] [§ 1371 BGB](https://www.gesetze-im-internet.de/bgb/__1371.html)

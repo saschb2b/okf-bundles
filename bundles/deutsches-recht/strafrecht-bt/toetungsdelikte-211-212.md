@@ -5,7 +5,14 @@ description: Der Totschlag (§ 212) ist die vorsätzliche Tötung eines Menschen
 resource: https://www.gesetze-im-internet.de/stgb/__211.html
 tags: [strafrecht-bt, toetungsdelikte, mord, totschlag, mordmerkmale]
 norm: "§§ 211, 212 StGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/stgb/__211.html
+    title: "§ 211 StGB"
+  - resource: https://www.gesetze-im-internet.de/stgb/__212.html
+    title: "§ 212 StGB"
 ---
 
 # Totschlag (§ 212)
@@ -27,8 +34,3 @@ Das Verhältnis von § 211 zu § 212 ist umstritten (selbständiger Tatbestand n
 # Siehe auch
 
 Mord und Totschlag folgen dem allgemeinen [Aufbau der Straftat](/strafrecht-at/aufbau-der-straftat.md); zentral ist der [Vorsatz](/strafrecht-at/vorsatz-und-irrtum-15-16.md).
-
-# Citations
-
-[1] [§ 211 StGB](https://www.gesetze-im-internet.de/stgb/__211.html)
-[2] [§ 212 StGB](https://www.gesetze-im-internet.de/stgb/__212.html)

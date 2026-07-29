@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 213/12"
 doknr: "KORE315492013"
 normen: ["§ 535 Abs 1 BGB, § 563 Abs 4 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:17Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:17Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.04.2013 - VIII ZR 213/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Unter den nach der Verkehrsanschauung zu bestimmenden Begriff des "Wohnens" fallen nur solche berufliche Tätigkeiten des Mieters, die in einer nicht nach außen in Erscheinung tretenden Weise ausgeübt werden. Geschäftliche Aktivitäten des Mieters, die der Mieter in ausschließlich zu Wohnzwecken vermieteten Räumen ausübt und die nach außen in Erscheinung treten, muss der Vermieter nicht ohne vorherige Vereinbarung dulden.
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:32:17Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 213/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.04.2013 - VIII ZR 213/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

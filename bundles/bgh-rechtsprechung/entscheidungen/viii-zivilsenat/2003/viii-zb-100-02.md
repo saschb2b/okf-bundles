@@ -9,13 +9,14 @@ datum: 2003-04-30
 aktenzeichen: "VIII ZB 100/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:23:22Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:23:22Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2002/VIII_ZB_100-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 30.04.2003 - VIII ZB 100/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZB 100/02 vom 30.04.2003.
-
-# Citations
-
-[1] [BGH, Beschluss vom 30.04.2003 - VIII ZB 100/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2002/VIII_ZB_100-02.pdf?__blob=publicationFile&v=1)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:280622UXIIIZR4.21.0"
 doknr: "KORE307122022"
 normen: ["§ 15 Abs 1 S 1 EEG 2017, § 19 EEG 2017, § 20 EEG 2017, § 51 Abs 1 EEG 2017"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:41Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:41Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.06.2022 - XIII ZR 4/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Windpark Högel
@@ -30,8 +36,3 @@ Windpark Högel
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XIII ZR 4/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.06.2022 - XIII ZR 4/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

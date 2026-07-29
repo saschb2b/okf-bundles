@@ -5,7 +5,14 @@ description: Wer eine bewegliche Sache von einem Nichtberechtigten erwirbt, wird
 resource: https://www.gesetze-im-internet.de/bgb/__932.html
 tags: [sachenrecht, gutglaeubiger-erwerb, nichtberechtigter, abhandenkommen]
 norm: "§§ 932 bis 935 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__932.html
+    title: "§ 932 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__935.html
+    title: "§ 935 BGB"
 ---
 
 # Regel (§ 932)
@@ -19,8 +26,3 @@ Nicht in gutem Glauben ist der Erwerber, dem **bekannt** oder **infolge grober F
 # Ausschluss bei Abhandenkommen (§ 935)
 
 Kein gutgläubiger Erwerb findet statt an Sachen, die dem Eigentümer **gestohlen worden, verloren gegangen oder sonst abhandengekommen** sind (§ 935 Abs. 1). Ausgenommen sind Geld, Inhaberpapiere und im Wege öffentlicher Versteigerung veräußerte Sachen (§ 935 Abs. 2). Das Vertrauen des Erwerbers tritt hier hinter den Schutz des unfreiwillig entreicherten Eigentümers zurück.
-
-# Citations
-
-[1] [§ 932 BGB](https://www.gesetze-im-internet.de/bgb/__932.html)
-[2] [§ 935 BGB](https://www.gesetze-im-internet.de/bgb/__935.html)

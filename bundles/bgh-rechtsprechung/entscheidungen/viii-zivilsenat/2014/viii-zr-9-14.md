@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 9/14"
 doknr: "KORE302612015"
 normen: ["§ 241 Abs 2 BGB, § 242 BGB, § 8 Abs 1 HeizkostenV, § 9 Abs 4 HeizkostenV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:46Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:46Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.12.2014 - VIII ZR 9/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Auch bei hohen Wohnungsleerständen (hier: im Hinblick auf einen im Rahmen der Stadtplanung vorgesehenen Abriss eines 28-Familienhauses) hat es grundsätzlich bei der in § 9 Abs. 4, § 8 Abs. 1 HeizkostenVO vorgeschriebenen anteiligen Umlage von Warmwasserkosten nach Verbrauch zu bleiben.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:27:46Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 9/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.12.2014 - VIII ZR 9/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

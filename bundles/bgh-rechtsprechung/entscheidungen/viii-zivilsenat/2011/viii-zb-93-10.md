@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZB 93/10"
 doknr: "KORE301882011"
 normen: ["§ 91 Abs 2 S 1 Halbs 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 25.10.2011 - VIII ZB 93/10 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Macht die bei einem auswärtigen Gericht klagende Partei Reisekosten eines Rechtsanwalts geltend, der weder am Gerichtsort noch am Wohn- oder Geschäftsort der Partei ansässig ist ("Rechtsanwalt am dritten Ort"), sind diese Kosten regelmäßig nur bis zur Höhe der fiktiven Reisekosten eines am Wohn- oder Geschäftsort der Partei ansässigen Rechtsanwalts zu erstatten (Fortführung von BGH, Beschlüsse vom 7. Juni 2011, VIII ZB 102/08, WuM 2011, 433 Rn. 8 und vom 13. September 2011, VI ZB 9/10, juris Rn. 9; jeweils mwN) .
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:27:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZB 93/10 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 25.10.2011 - VIII ZB 93/10 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

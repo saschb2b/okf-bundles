@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 5/13"
 doknr: "KORE304442013"
 normen: ["§ 553 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:49Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.12.2013 - VIII ZR 5/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zu den Pflichten des Mieters nach Widerruf einer Untermieterlaubnis.
@@ -23,8 +29,3 @@ Zu den Pflichten des Mieters nach Widerruf einer Untermieterlaubnis.
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 5/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.12.2013 - VIII ZR 5/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

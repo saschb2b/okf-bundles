@@ -10,8 +10,14 @@ aktenzeichen: "VII ZB 79/09"
 doknr: "KORE307612010"
 normen: ["§ 788 ZPO, § 840 Abs 1 ZPO, § 840 Abs 2 S 2 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:47Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 14.01.2010 - VII ZB 79/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Die dem Gläubiger in Vorbereitung eines nicht von vornherein aussichtslosen Drittschuldnerprozesses entstandenen notwendigen Kosten können, soweit sie bei dem Drittschuldner nicht beigetrieben werden können, im Verfahren nach § 788 ZPO festgesetzt werden (im Anschluss an BGH, Beschluss vom 20. Dezember 2005, VII ZB 57/05, NJW 2006, 1141)   .
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:29:47Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 79/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 14.01.2010 - VII ZB 79/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

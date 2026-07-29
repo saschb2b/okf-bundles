@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 104/09"
 doknr: "KORE317722010"
 normen: ["§ 199 Abs 1 BGB, § 535 Abs 1 S 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 17.02.2010 - VIII ZR 104/09 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Der Anspruch des Mieters auf Mangelbeseitigung ist während der Mietzeit unverjährbar .
@@ -23,8 +29,3 @@ Der Anspruch des Mieters auf Mangelbeseitigung ist während der Mietzeit unverj�
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 104/09 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 17.02.2010 - VIII ZR 104/09 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

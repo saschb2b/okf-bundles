@@ -9,13 +9,14 @@ datum: 2002-10-31
 aktenzeichen: "III ZB 7/02"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:21:49Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:21:49Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2002/III_ZB___7-02.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 31.10.2002 - III ZB 7/02 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZB 7/02 vom 31.10.2002.
-
-# Citations
-
-[1] [BGH, Beschluss vom 31.10.2002 - III ZB 7/02 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2002/III_ZB___7-02.pdf?__blob=publicationFile&v=1)
-

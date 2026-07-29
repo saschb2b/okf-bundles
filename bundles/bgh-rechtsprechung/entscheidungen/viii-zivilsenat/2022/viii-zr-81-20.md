@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:150322BVIIIZR81.20.0"
 doknr: "KORE629132022"
 normen: ["§ 574 Abs 1 S 1 BGB, § 574 Abs 2 BGB, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:08Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:08Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 15.03.2022 - VIII ZR 81/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 574 Abs 1 S 1 BGB, § 574 Abs 2 BGB, § 286 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:08Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 81/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 15.03.2022 - VIII ZR 81/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

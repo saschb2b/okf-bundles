@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:100316BVIIZR47.13.0"
 doknr: "KORE303322016"
 normen: ["§ 139 Abs 3 ZPO, § 256 Abs 1 ZPO, § 522 Abs 2 ZPO, § 524 Abs 4 ZPO, Art 103 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 10.03.2016 - VII ZR 47/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Erachtet das Berufungsgericht eine Feststellungsklage entgegen der Auffassung des Erstgerichts für unzulässig, so muss es den Kläger gemäß § 139 Abs. 3 ZPO hierauf hinweisen. Darüber hinaus muss das Berufungsgericht dem Kläger jedenfalls dann Gelegenheit geben, auf einen solchen Hinweis in der Berufungsinstanz durch eine Antragsmodifizierung zu reagieren, wenn der vom Berufungsgericht erteilte Hinweis deshalb geboten war, weil das Erstgericht einen gegenteiligen Hinweis erteilt und dadurch die erstinstanzliche Antragstellung veranlasst hatte (Anschluss an BGH, Beschluss vom 23. April 2009, IX ZR 95/06, NJW-RR 2010, 70).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:28:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 47/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 10.03.2016 - VII ZR 47/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

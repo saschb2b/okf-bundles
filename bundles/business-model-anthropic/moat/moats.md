@@ -4,7 +4,20 @@ title: Anthropic competitive moats
 description: Frontier capability, secured compute access, safety governance, and enterprise trust.
 resource: https://www.anthropic.com/
 tags: [anthropic, moat, compute, safety, enterprise]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up
+    title: "80% of new production code authored by Claude (VentureBeat, 2026)"
+  - resource: https://www.anthropic.com/news/series-h
+    title: "Series H funding (Anthropic, 2026)"
+  - resource: https://time.com/6983420/anthropic-structure-openai-incentives/
+    title: "Anthropic's structure and incentives (TIME, 2024)"
+  - resource: https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai/
+    title: "Snowflake and Anthropic accelerate governed enterprise AI (Snowflake, 2026)"
+  - resource: https://www.saastr.com/anthropic-only-has-5000-employees-almost-no-one-has-ever-been-this-efficient-thats-by-choice/
+    title: "Anthropic's efficiency by choice (SaaStr, 2026)"
 ---
 
 # The four moats
@@ -23,11 +36,3 @@ Frontier model quality is what wins the [coding segment](/market/segments.md), a
 # Governance as a differentiator
 
 The [safety-first positioning](/market/positioning.md) and the [Long-Term Benefit Trust](/strategy/governance.md) are marketed as reasons a regulated enterprise can trust Claude in production. Whether that is a durable moat or a temporary preference is the open question, and it is one of the [key strategic bets](/strategy/key-bets.md).
-
-# Citations
-
-[1] [80% of new production code authored by Claude (VentureBeat, 2026)](https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up)
-[2] [Series H funding (Anthropic, 2026)](https://www.anthropic.com/news/series-h)
-[3] [Anthropic's structure and incentives (TIME, 2024)](https://time.com/6983420/anthropic-structure-openai-incentives/)
-[4] [Snowflake and Anthropic accelerate governed enterprise AI (Snowflake, 2026)](https://www.snowflake.com/en/news/press-releases/snowflake-and-anthropic-accelerate-enterprise-ai-adoption-driven-by-rising-demand-for-governed-ai/)
-[5] [Anthropic's efficiency by choice (SaaStr, 2026)](https://www.saastr.com/anthropic-only-has-5000-employees-almost-no-one-has-ever-been-this-efficient-thats-by-choice/)

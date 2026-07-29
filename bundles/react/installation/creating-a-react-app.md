@@ -4,7 +4,12 @@ title: Creating a React App
 description: Recommended full-stack frameworks for starting a new React app, plus when to start from scratch instead.
 resource: https://react.dev/learn/creating-a-react-app
 tags: [react, frameworks, nextjs, react-router, expo]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/creating-a-react-app
+    title: "Creating a React App"
 ---
 
 # Summary
@@ -53,7 +58,3 @@ async function Talks({ confId }) {
 # Start from scratch
 
 If your app has constraints not served by existing frameworks, you prefer to build your own framework, or you just want to learn the basics, you can start from scratch with a build tool like Vite, Parcel, or RSbuild. This gives more flexibility but requires you to choose tools for routing, data fetching, and other patterns yourself, which is much like building your own framework. See [Build a React App from Scratch](/installation/build-a-react-app-from-scratch.md).
-
-# Citations
-
-[1] [Creating a React App](https://react.dev/learn/creating-a-react-app)

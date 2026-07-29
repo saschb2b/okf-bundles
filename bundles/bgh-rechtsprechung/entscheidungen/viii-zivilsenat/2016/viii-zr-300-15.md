@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:111016BVIIIZR300.15.0"
 doknr: "KORE309002016"
 normen: ["§ 573 Abs 2 Nr 2 BGB, § 286 Abs 1  ZPO, § 529 Abs 1 Nr 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:19Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:19Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.10.2016 - VIII ZR 300/15 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1a. Für eine Kündigung wegen Eigenbedarfs gemäß § 573 Abs. 2 Nr. 2 BGB reicht eine sogenannte Vorratskündigung, der ein gegenwärtig noch nicht absehbarer Nutzungswunsch der Eigenbedarfsperson zugrunde liegt, nicht aus (Bestätigung von BGH, Urteile vom 23. September 2015, VIII ZR 297/14, NJW 2015, 3368; vom 18. Mai 2005, VIII ZR 368/03, NJW 2005, 2395). Vielmehr muss sich der Nutzungswunsch so weit "verdichtet" haben, dass ein konkretes Interesse an einer alsbaldigen Eigennutzung besteht (Bestätigung von BGH, Urteil vom 23. September 2015, VIII ZR 297/14, aaO).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:30:19Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 300/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.10.2016 - VIII ZR 300/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

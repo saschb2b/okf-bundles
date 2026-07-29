@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:101121UVIIIZR107.20.0"
 doknr: "KORE312732021"
 normen: ["§ 556 Abs 1 BGB, § 2 Nr 10 BetrKV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 10.11.2021 - VIII ZR 107/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Kosten der Fällung eines - wie hier - morschen, nicht mehr standsicheren Baums sind grundsätzlich umlagefähige Kosten der Gartenpflege im Sinne von § 2 Nr. 10 BetrKV.
@@ -24,8 +30,3 @@ Die Kosten der Fällung eines - wie hier - morschen, nicht mehr standsicheren Ba
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 107/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 10.11.2021 - VIII ZR 107/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

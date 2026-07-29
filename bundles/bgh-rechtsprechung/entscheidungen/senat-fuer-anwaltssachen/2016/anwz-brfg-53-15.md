@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2016:281116UANWZ.BRFG.53.15.0"
 doknr: "JURE160020992"
 normen: ["§ 43c Abs 1 S 1 BRAO, § 2 Abs 1 FAO, § 5 Abs 1 Buchst q FAO, § 5 Abs 4 FAO, § 14j Nr 2 FAO, § 14j Nr 3 FAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:20Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:20Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 28.11.2016 - AnwZ (Brfg) 53/15 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 43c Abs 1 S 1 BRAO, § 2 Abs 1 FAO, § 5 Abs 1 Buchst q FAO, § 5 Abs 4 FAO, § 14j Nr 2 FAO, § 14j Nr 3 FAO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:14:20Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 53/15 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 28.11.2016 - AnwZ (Brfg) 53/15 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

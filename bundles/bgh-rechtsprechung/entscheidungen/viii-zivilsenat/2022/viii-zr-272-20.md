@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:091122UVIIIZR272.20.0"
 doknr: "KORE302502022"
 normen: ["§ 323 Abs 5 S 2 BGB, § 440 S 1 Alt 3 BGB, § 377 Abs 2 HGB, § 377 Abs 3 HGB, § 256 Abs 1 ZPO, Art 3 Abs 6 EGRL 44/1999"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:43Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:43Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 09.11.2022 - VIII ZR 272/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Unzulässigkeit einer Feststellungsklage (§ 256 Abs. 1 ZPO) des (aus abgetretenem Recht des Käufers/Leasinggebers vorgehenden) Leasingnehmers gegen den Verkäufer mit dem Ziel der Feststellung, dass sich der Kaufvertrag zwischen dem Verkäufer und dem Leasinggeber aufgrund des vom Leasingnehmer erklärten Rücktritts in ein Rückgewährschuldverhältnis umgewandelt habe.
@@ -30,8 +36,3 @@ timestamp: 2026-06-22T12:27:43Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 272/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 09.11.2022 - VIII ZR 272/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

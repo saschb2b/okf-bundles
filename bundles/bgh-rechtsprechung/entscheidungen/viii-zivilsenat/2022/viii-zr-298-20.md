@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:090822BVIIIZR298.20.0"
 doknr: "KORE638442022"
 normen: ["§ 133 BGB, § 157 BGB, § 398 BGB, § 551 BGB, § 10 RDG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:38:07Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:38:07Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 09.08.2022 - VIII ZR 298/20 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 133 BGB, § 157 BGB, § 398 BGB, § 551 BGB, § 10 RDG
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:38:07Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 298/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 09.08.2022 - VIII ZR 298/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

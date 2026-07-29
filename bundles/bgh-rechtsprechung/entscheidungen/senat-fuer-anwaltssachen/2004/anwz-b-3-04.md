@@ -9,13 +9,14 @@ datum: 2004-06-28
 aktenzeichen: "AnwZ (B) 3/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:25:47Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:25:47Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B___3-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 28.06.2004 - AnwZ (B) 3/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 3/04 vom 28.06.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 28.06.2004 - AnwZ (B) 3/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2004/AnwZ_B___3-04.pdf?__blob=publicationFile&v=1)
-

@@ -4,7 +4,7 @@
 
 **Expert knowledge, packaged as portable bundles your AI agent can read.**
 
-[![Open Knowledge Format](https://img.shields.io/badge/format-OKF%20v0.1-0969da)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
+[![Open Knowledge Format](https://img.shields.io/badge/format-OKF%20v0.2-0969da)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
 [![License](https://img.shields.io/badge/license-MIT-0969da)](./LICENSE)
 
 </div>
@@ -26,7 +26,7 @@ Where my [skills](https://github.com/saschb2b/skills) tell an agent _how to do_ 
 
 A bundle is a directory of markdown _concept_ documents. Each concept is YAML frontmatter (one required field, `type`) plus a structural markdown body. A root `index.md` declares the format version and links the concepts into a graph an agent can navigate by progressive disclosure. That is the whole format: just markdown, just files, just frontmatter. The contract is the format, so any producer can write a bundle and any consumer (an agent, a viewer, a search index) can read it.
 
-Read the spec: [OKF v0.1](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md). Background: [How the Open Knowledge Format can improve data sharing](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/).
+Read the spec: [OKF v0.2](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md). Background: [How the Open Knowledge Format can improve data sharing](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/).
 
 ## Bundles
 
@@ -39,6 +39,7 @@ Read the spec: [OKF v0.1](https://github.com/GoogleCloudPlatform/knowledge-catal
 | **[business-model-nvidia](./bundles/business-model-nvidia/index.md)** | A distilled teardown of how NVIDIA makes money, as of mid-2026 (FY2026 ended Jan 25, 2026). Ten cross-linked concepts across the same six domains: **revenue** (market platforms, Data Center ~90% of a $215.9B FY2026; the shift from chips to rack-scale systems), **market** (hyperscaler demand and the customer-concentration risk, sovereign AI, gaming, automotive; the ~80%-share positioning), **distribution** (direct-to-hyperscaler, OEM/ODM partners, the CUDA developer flywheel, TSMC on the supply side), **moat** (CUDA lock-in, full-stack integration, annual cadence, networking, and the AMD/custom-silicon threats), **economics** (the fabless TSMC/CoWoS/HBM constraints, margins, capital returns), and **strategy** (the Hopper-Blackwell-Rubin cadence, networking, software, sovereign AI, robotics, and the OpenAI/Intel stakes, plus China export-control exposure). Figures labeled fiscal vs calendar and verified vs estimated, with source citations. |
 | **[blockchain](./bundles/blockchain/index.md)** | A cross-linked knowledge base for understanding the most important blockchains **together**. Shared ideas live once as chain-agnostic **concepts** (hashing, signatures, Merkle trees, blocks, transactions, consensus with proof of work and proof of stake, the UTXO and account models, mempool, finality, forks, smart contracts, gas and fees, nodes, native tokens, the scalability trilemma); each chain describes only its own choices and links back to the primitive it implements, so **where and why the chains differ falls out of the graph**. Covers **Bitcoin** (peer-to-peer cash, proof of work, 21M cap, UTXO, Script, SegWit/Taproot, Lightning), **Ethereum** (the world computer, EVM, account model, gas/EIP-1559, proof of stake and the Merge, ETH issuance, layer-2 rollups), and **Cardano** (research-first PoS via Ouroboros, the EUTXO ledger, native tokens, Plutus, ADA's 45B cap, the hard fork combinator, Voltaire governance, and the full hard-fork history from Byron 2017 to van Rossem June 2026), plus explicit **comparisons** (UTXO vs account vs EUTXO, PoW vs PoS, design philosophy). 45 concepts, cited to primary sources (the Bitcoin whitepaper and BIPs, ethereum.org and the EIPs, cardano.org and the CIPs). Built to extend to more chains. |
 | **[react](./bundles/react/index.md)** | The official React documentation ([react.dev](https://react.dev)) as an OKF bundle, one concept per page (162 in all). The **Learn guide** (get started, installation, setup, React Compiler, and the four core sections: Describing the UI, Adding Interactivity, Managing State, Escape Hatches) and the **full API Reference** (react Hooks, components, top-level and legacy APIs; react-dom components, hooks, and client, server and static rendering APIs; the React Compiler config and directives; the Rules of React and the eslint-plugin-react-hooks lints; React Server Components; React DevTools). Each concept carries its canonical react.dev URL in `resource` and a transformed, structural summary (signatures, parameters, returns, caveats) rather than a copy. React documentation prose is CC BY 4.0 and its code MIT, by Meta and the React contributors. |
+| **[rezepte](./bundles/rezepte/index.md)** | A German-language recipe collection broken down to the individual ingredient and the individual technique, built so the graph reads **both ways**: a dish links its ingredients and the techniques it needs, and every ingredient links back to the dishes it appears in, so "what can I cook with what I have?" is answered by intersecting the `Wird verwendet in` sections (the method is in [Rückwärtssuche](./bundles/rezepte/guide/rueckwaertssuche.md)). **14 dishes** across six cuisines, most of them transcribed from personal Obsidian cooking notes and photos: the two curries ([Japanese](./bundles/rezepte/gerichte/japanisches-curry.md) with a homemade roux and [Indian](./bundles/rezepte/gerichte/chicken-curry-indisch.md) with coconut milk) side by side as counterparts, pan dishes (fried rice, tofu and broccoli, shrimp peanut noodles), rice dishes (paella with its socarrat, onigiri), handwork (jiaozi from scratch, sourdough rolls with a pre-bake-and-store method), batch cooking (freezer burritos, pulled beef) and brownies. Four layers underneath: shared **components** (curry roux, sushi rice, dumpling dough and filling), **ingredients** (one concept each, with varieties, buying, storage, kitchen handling and substitutes, in nine warengruppen), **techniques** (knife cuts, cooking methods, prep) and the **cuisines** as context. 128 concepts, 17 photos, sources cited per dish with the personal note marked `author: human:sascha`. German-language. |
 
 Start any bundle at its `index.md`, or read [bundles/ticket-writing/overview.md](./bundles/ticket-writing/overview.md) for the guided tour.
 
@@ -56,22 +57,23 @@ git clone https://github.com/saschb2b/okf-bundles
 
 ## Validate
 
-Every bundle here is conformant to OKF v0.1. To check after editing:
+Every bundle here is conformant to OKF v0.2. To check after editing:
 
 ```bash
 node scripts/check-bundles.mjs                  # validate every bundle in the repo
 node scripts/okf-validate.mjs bundles/ticket-writing   # validate one bundle
+node scripts/okf-validate.mjs bundles/ticket-writing --strict   # add the producer gate
 ```
 
-The checker errors only on the hard requirement (a concept missing frontmatter or a `type`) and warns on soft guidance (a broken cross-link, a non-ISO log date), mirroring how a permissive consumer reads a bundle.
+The checker errors only on the hard requirement (a concept missing frontmatter or a `type`) and warns on soft guidance (a broken cross-link, a non-ISO log date, an incomplete `sources` or `generated` entry), mirroring how a permissive consumer reads a bundle. Everything v0.2 added is optional, so none of it can be an error; `--strict` turns the connectivity and provenance guidance into a gate for producers.
 
 ## Authoring your own
 
 The structure is reusable:
 
 1. Create a folder under `bundles/` (`bundles/<bundle>/`).
-2. Add a root `bundles/<bundle>/index.md` whose frontmatter declares `okf_version: "0.1"`. It is the only `index.md` allowed frontmatter.
-3. Group concepts by domain in subfolders (`concepts/`, `techniques/`, and so on). Each concept is a markdown file whose frontmatter carries a non-empty `type`; body it with `#` sections and a `# Citations` block.
+2. Add a root `bundles/<bundle>/index.md` whose frontmatter declares `okf_version: "0.2"`. It is the only `index.md` allowed frontmatter.
+3. Group concepts by domain in subfolders (`concepts/`, `techniques/`, and so on). Each concept is a markdown file whose frontmatter carries a non-empty `type`; body it with `#` sections, and record provenance in frontmatter: `generated: { by, at }` for who wrote it and when, `sources` for what it derives from. Do not fill `verified` unless someone actually confirmed the concept.
 4. Link concepts with bundle-absolute links (`/techniques/invest.md`) and name the relationship in the prose.
 5. Add a `log.md` and a row in the [Bundles](#bundles) table, then run `node scripts/check-bundles.mjs`.
 

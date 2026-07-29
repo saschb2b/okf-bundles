@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:081221UVIIIZR190.19.0"
 doknr: "KORE312082022"
 normen: ["§ 133 BGB, § 157 BGB, § 275 Abs 2  BGB, § 434 Abs 1 S 2 Nr 2 BGB, § 439 Abs 1 Alt 2 BGB, § 439 Abs 3 BGB vom 02.01.2002, § 439 Abs 4 BGB, Art 3 Nr 10 EGV 715/2007, Art 5 Abs 1 EGV 715/2007, § 6 EG-FGV, § 27 EG-FGV, § 286 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:31:13Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:31:13Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 08.12.2021 - VIII ZR 190/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Verlangt der Käufer einer mangelhaften Sache, die nicht mehr hergestellt wird, die Lieferung eines mangelfreien Nachfolgemodells, kann im Rahmen der nach beiden Seiten interessengerechten Auslegung der zum Vertragsschluss führenden Willenserklärungen bei einem erheblichen Mehrwert der Ersatzsache Anlass bestehen zu prüfen, ob die Parteien bei Vertragsschluss die Ersatzlieferung eines Nachfolgemodells (insbesondere bei Fahrzeugen) übereinstimmend nur gegen eine vom Käufer zu leistende Zuzahlung als austauschbar mit dem ursprünglich gelieferten Kaufgegenstand angesehen haben (Bestätigung der Senatsurteile vom 21. Juli 2021 - VIII ZR 254/20, NJW 2021, 2958 Rn. 56, BGHZ 230, 296; VIII ZR 118/20, juris Rn. 60; VIII ZR 275/19, juris Rn. 57; VIII ZR 357/20, juris Rn. 55).
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:31:13Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 190/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 08.12.2021 - VIII ZR 190/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 23/11"
 doknr: "KORE302052011"
 normen: ["§ 9 Abs 1 AVBWasserV, § 9 Abs 4 AVBWasserV, § 9 Abs 5 AVBWasserV, § 10 Abs 4 Nr 1 AVBWasserV, § 10 Abs 4 Nr 2 AVBWasserV, § 10 Abs 6 AVBWasserV, Anlage I Kap V D III Nr 16 Buchst b EinigVtr vom 31.08.1990, § 929 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:27:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:27:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 23.11.2011 - VIII ZR 23/11 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zu den Voraussetzungen des Anspruchs des Wasserversorgungsunternehmens gegen den Anschlussnehmer auf Zahlung eines Baukostenzuschusses gemäß § 9 Abs. 1 AVBWasserV und auf Erstattung der Kosten für die Erstellung oder Veränderung des Hausanschlusses gemäß § 10 Abs. 4 AVBWasserV.
@@ -33,8 +39,3 @@ timestamp: 2026-06-22T12:27:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 23/11 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 23.11.2011 - VIII ZR 23/11 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

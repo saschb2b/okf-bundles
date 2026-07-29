@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2024:170124BVIIZB54.21.0"
 doknr: "KORE300292024"
 normen: ["§ 750 Abs 1 S 1 ZPO, § 767 ZPO, § 794 Abs 1 Nr 4 ZPO, § 795 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 17.01.2024 - VII ZB 54/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die Feststellung der Identität zwischen dem die Zwangsvollstreckung betreibenden Gläubiger und dem im Vollstreckungsbescheid genannten Titelgläubiger hat nach dem Grundsatz des formalisierten Zwangsvollstreckungsverfahrens aufgrund eines formalen Vergleichs zu erfolgen. Die Abtretung des titulierten Anspruchs ändert diese vollstreckungsrechtliche Lage nicht.
@@ -26,8 +32,3 @@ Die Feststellung der Identität zwischen dem die Zwangsvollstreckung betreibende
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZB 54/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 17.01.2024 - VII ZB 54/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

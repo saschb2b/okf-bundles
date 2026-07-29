@@ -9,13 +9,14 @@ datum: 2008-02-05
 aktenzeichen: "VIII ZR 94/07"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:18:53Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:18:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR__94-07.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 05.02.2008 - VIII ZR 94/07 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: VIII ZR 94/07 vom 05.02.2008.
-
-# Citations
-
-[1] [BGH, Beschluss vom 05.02.2008 - VIII ZR 94/07 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/VIII_ZS/2007/VIII_ZR__94-07.pdf?__blob=publicationFile&v=1)
-

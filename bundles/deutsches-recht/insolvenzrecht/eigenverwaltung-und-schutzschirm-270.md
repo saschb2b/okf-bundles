@@ -5,7 +5,16 @@ description: In der Eigenverwaltung behält der Schuldner die Verfügungsbefugni
 resource: https://www.gesetze-im-internet.de/inso/__270d.html
 tags: [insolvenzrecht, eigenverwaltung, schutzschirmverfahren, sachwalter, sanierung, saninsfog]
 norm: "§§ 270, 270a, 270b, 270d InsO"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/inso/__270d.html
+    title: "§ 270d InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__270.html
+    title: "§ 270 InsO"
+  - resource: https://www.gesetze-im-internet.de/inso/__270b.html
+    title: "§ 270b InsO"
 ---
 
 # Eigenverwaltung (§ 270)
@@ -23,9 +32,3 @@ Strebt der Schuldner bei **drohender Zahlungsunfähigkeit oder Überschuldung, a
 # Bezug
 
 Die Eigenverwaltung ist eine besondere Verfahrensart innerhalb des [eröffneten Verfahrens](/insolvenzrecht/eroeffnungsgruende-17-19.md) und mündet typischerweise in einen [Insolvenzplan](/insolvenzrecht/insolvenzplan-217.md). Greift die Sanierung schon **vor** der Insolvenzreife, steht daneben der [Restrukturierungsrahmen nach dem StaRUG](/insolvenzrecht/restrukturierung-starug.md).
-
-# Citations
-
-[1] [§ 270d InsO](https://www.gesetze-im-internet.de/inso/__270d.html)
-[2] [§ 270 InsO](https://www.gesetze-im-internet.de/inso/__270.html)
-[3] [§ 270b InsO](https://www.gesetze-im-internet.de/inso/__270b.html)

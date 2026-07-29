@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:230118BENVR5.17.0"
 doknr: "KORE300292018"
 normen: ["§ 48 Abs 1 S 1 VwVfG, § 12 ARegV, § 116 Abs 1 VwG SH"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:28Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:28Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.01.2018 - EnVR 5/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Stadtwerke Wedel GmbH
@@ -26,8 +32,3 @@ Stadtwerke Wedel GmbH
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen EnVR 5/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.01.2018 - EnVR 5/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

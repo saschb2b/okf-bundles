@@ -4,7 +4,12 @@ title: Responding to Events
 description: How to add event handlers to JSX, pass them as props, and control event propagation and default behavior.
 resource: https://react.dev/learn/responding-to-events
 tags: [react, events, event-handlers, propagation]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/learn/responding-to-events
+    title: "Responding to Events"
 ---
 
 # Summary
@@ -122,7 +127,3 @@ Yes. Event handlers are the best place for side effects. Unlike rendering functi
 - Events propagate upward. Call `e.stopPropagation()` on the first argument to prevent that.
 - Events may have unwanted default browser behavior. Call `e.preventDefault()` to prevent that.
 - Explicitly calling a handler prop from a child handler is a good alternative to propagation.
-
-# Citations
-
-[1] [Responding to Events](https://react.dev/learn/responding-to-events)

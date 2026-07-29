@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:150720UIVZR4.19.0"
 doknr: "KORE308032020"
 normen: ["§ 43 VVG, §§ 43ff VVG, § 74 aF VVG, §§ 74ff aF VVG, § 80 Abs 1 aF VVG, § 159 Abs 2 VVG, § 166 Abs 2 VVG, § 176 VVG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:56Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:56Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 15.07.2020 - IV ZR 4/19 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Zur Auslegung einer Berufsunfähigkeitsversicherung als Versicherung für fremde Rechnung (hier: minderjährige Tochter als versicherte Person).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:56Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen IV ZR 4/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 15.07.2020 - IV ZR 4/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2022:011222UIIIZR54.21.0"
 doknr: "KORE310402023"
 normen: ["§ 823 Abs 1  BGB, § 839 Abs 1 S 1 BGB, § 39 WHG, § 40 WHG, § 52 Abs 1 WasG ST, § 67 WasG ST, Art 34 S 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 01.12.2022 - III ZR 54/21 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Wenn und soweit die öffentlich-rechtliche Unterhaltungspflicht einer Verkehrssicherungspflicht inhaltlich gleichkommt, hat sie drittschützenden Charakter im Sinne von § 839 Abs. 1 Satz 1 BGB (Weiterentwicklung von Senat, Urteile vom 24. Februar 1994 - III ZR 4/93, BGHZ 125, 186, 188 und vom 25. Februar 1993 - III ZR 9/92, BGHZ 121, 367, 374).
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:30:34Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 54/21 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 01.12.2022 - III ZR 54/21 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -9,13 +9,14 @@ datum: 2007-03-21
 aktenzeichen: "AnwZ (B) 87/05"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T14:16:27Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T14:16:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2005/AnwZ_B__87-05A.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 21.03.2007 - AnwZ (B) 87/05 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: AnwZ (B) 87/05 vom 21.03.2007.
-
-# Citations
-
-[1] [BGH, Beschluss vom 21.03.2007 - AnwZ (B) 87/05 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/UebrigeSenate/AnwS/2005/AnwZ_B__87-05A.pdf?__blob=publicationFile&v=1)
-

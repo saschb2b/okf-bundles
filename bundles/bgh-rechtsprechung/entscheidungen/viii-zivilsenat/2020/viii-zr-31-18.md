@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:290420UVIIIZR31.18.0"
 doknr: "KORE301022020"
 normen: ["§ 133 BGB, § 157 BGB, § 242 BGB, § 535 BGB, § 536 Abs 1 S 1 BGB, § 906 Abs 1 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:44Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:44Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 29.04.2020 - VIII ZR 31/18 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Nach Abschluss des Mietvertrags eintretende erhöhte Geräusch- und Schmutzimmissionen begründen, auch wenn sie von einer auf einem Nachbargrundstück eines Dritten betriebenen Baustelle (hier: zur Errichtung eines Neubaus in einer Baulücke) herrühren, bei Fehlen anderslautender Beschaffenheitsvereinbarungen grundsätzlich keinen gemäß § 536 Abs. 1 Satz 1 BGB zur Mietminderung berechtigenden Mangel der Mietwohnung, wenn auch der Vermieter die Immissionen ohne eigene Abwehr- oder Entschädigungsmöglichkeit nach § 906 BGB hinnehmen muss (Bestätigung und Fortführung des Senatsurteils vom 29. April 2015 - VIII ZR 197/14, BGHZ 205, 177 Rn. 35, 39 ff. mwN).
@@ -32,8 +38,3 @@ timestamp: 2026-06-22T12:14:44Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 31/18 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 29.04.2020 - VIII ZR 31/18 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

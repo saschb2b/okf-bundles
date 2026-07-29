@@ -5,7 +5,18 @@ description: Die Einkommensteuer erfasst das Welteinkommen unbeschränkt Steuerp
 resource: https://www.gesetze-im-internet.de/estg/__2.html
 tags: [steuerrecht, einkommensteuer, einkunftsarten, zu-versteuerndes-einkommen, progression, tarif]
 norm: "§§ 1, 2, 32a, 32d EStG"
-timestamp: 2026-06-19T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-19T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/estg/__2.html
+    title: "§ 2 EStG"
+  - resource: https://www.gesetze-im-internet.de/estg/__1.html
+    title: "§ 1 EStG"
+  - resource: https://www.gesetze-im-internet.de/estg/__32a.html
+    title: "§ 32a EStG"
+  - resource: https://www.gesetze-im-internet.de/estg/__32d.html
+    title: "§ 32d EStG"
 ---
 
 # Steuerpflicht (§ 1)
@@ -42,10 +53,3 @@ Private Kapitaleinkünfte unterliegen grundsätzlich einer gesonderten **Abgeltu
 # Bezug
 
 Das Verfahren (Veranlagung, Bescheid, Fristen) richtet sich nach der [Abgabenordnung](/steuerrecht/abgabenordnung-und-verfahren.md). Gewerbliche und körperschaftliche Einkünfte werden zusätzlich von der [Unternehmensbesteuerung](/steuerrecht/unternehmensbesteuerung.md) erfasst. Der progressive Tarif ist Ausdruck des [Leistungsfähigkeitsprinzips](/steuerrecht/besteuerungsgrundsaetze.md).
-
-# Citations
-
-[1] [§ 2 EStG](https://www.gesetze-im-internet.de/estg/__2.html)
-[2] [§ 1 EStG](https://www.gesetze-im-internet.de/estg/__1.html)
-[3] [§ 32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html)
-[4] [§ 32d EStG](https://www.gesetze-im-internet.de/estg/__32d.html)

@@ -3,7 +3,14 @@ type: Primitive
 title: Mempool
 description: The pool of validated but unconfirmed transactions waiting to be included in a block.
 tags: [mempool, fees, primitive]
-timestamp: 2026-07-07T16:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-07-07T16:00:00Z
+sources:
+  - resource: https://developer.bitcoin.org/devguide/transactions.html
+    title: "Bitcoin developer guide: transactions"
+  - resource: https://ethereum.org/en/developers/docs/transactions/
+    title: "Transactions and the mempool (Ethereum.org docs)"
 ---
 
 # What it is
@@ -17,8 +24,3 @@ The mempool is where the **fee market** happens. When demand for block space exc
 # Where the chains differ
 
 Bitcoin's mempool holds [UTXO](/concepts/utxo-model.md) transactions ranked by satoshis per virtual byte. Ethereum's holds [account-model](/concepts/account-model.md) transactions ranked by fee under [EIP-1559](/ethereum/gas.md), and its rich contract interactions make MEV a much larger concern. There is no single global mempool; each node's view differs slightly.
-
-# Citations
-
-[1] [Bitcoin developer guide: transactions](https://developer.bitcoin.org/devguide/transactions.html)
-[2] [Transactions and the mempool (Ethereum.org docs)](https://ethereum.org/en/developers/docs/transactions/)

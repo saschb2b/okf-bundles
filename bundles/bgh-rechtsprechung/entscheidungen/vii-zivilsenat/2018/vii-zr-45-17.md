@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:270918UVIIZR45.17.0"
 doknr: "KORE309602018"
 normen: ["§ 307 Abs 1  BGB, § 307 Abs 2 Nr 1  BGB, § 635 aF BGB, § 13 Nr 4 Abs 1 Alt 1 VOB B 2000, § 13 Nr 5 Abs 1 S 2 VOB B 2000"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:24Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:24Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 27.09.2018 - VII ZR 45/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Sehen die Allgemeinen Geschäftsbedingungen des Auftraggebers in einem Vertrag über Bauleistungen die Geltung von § 13 Nr. 5 Abs. 1 Satz 2 VOB/B (2000) und zusätzlich eine Verjährungsfrist für die Gewährleistung von fünf Jahren vor, hält dies einer Inhaltskontrolle nach § 307 BGB stand (im Anschluss an BGH, Urteil vom 23. Februar 1989, VII ZR 89/87, BGHZ 107, 75).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:30:24Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 45/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 27.09.2018 - VII ZR 45/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

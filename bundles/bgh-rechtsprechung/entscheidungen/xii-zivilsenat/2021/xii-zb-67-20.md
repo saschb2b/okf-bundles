@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2021:030221BXIIZB67.20.0"
 doknr: "KORE304052021"
 normen: ["§ 1896 BGB, § 1897 Abs 1 BGB, § 1897 Abs 5 BGB, § 1897 Abs 6 S 1 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:34Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:34Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 03.02.2021 - XII ZB 67/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Zur Auswahl eines Berufsbetreuers anstelle eines Angehörigen und von diesem hilfsweise benannter ehrenamtlicher Personen.
@@ -24,8 +30,3 @@ Zur Auswahl eines Berufsbetreuers anstelle eines Angehörigen und von diesem hil
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 67/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 03.02.2021 - XII ZB 67/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

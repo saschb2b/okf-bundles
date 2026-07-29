@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:261017UVIIZR16.17.0"
 doknr: "KORE320142017"
 normen: ["§ 642 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:42Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:42Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Versäumnisurteil vom 26.10.2017 - VII ZR 16/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. § 642 BGB gewährt dem Unternehmer eine angemessene Entschädigung dafür, dass er während der Dauer des Annahmeverzugs des Bestellers infolge Unterlassens einer diesem obliegenden Mitwirkungshandlung Personal, Geräte und Kapital, also die Produktionsmittel zur Herstellung der Werkleistung, bereithält.
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:32:42Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VII ZR 16/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Versäumnisurteil vom 26.10.2017 - VII ZR 16/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

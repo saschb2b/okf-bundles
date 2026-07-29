@@ -5,7 +5,18 @@ description: Eine im Namen des Vertretenen mit Vertretungsmacht abgegebene Wille
 resource: https://www.gesetze-im-internet.de/bgb/__164.html
 tags: [bgb-at, stellvertretung, vollmacht, rechtsschein]
 norm: "§§ 164 bis 181 BGB"
-timestamp: 2026-06-18T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-18T12:00:00Z
+sources:
+  - resource: https://www.gesetze-im-internet.de/bgb/__164.html
+    title: "§ 164 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__167.html
+    title: "§ 167 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__179.html
+    title: "§ 179 BGB"
+  - resource: https://www.gesetze-im-internet.de/bgb/__181.html
+    title: "§ 181 BGB"
 ---
 
 # Regel
@@ -31,10 +42,3 @@ Aus dem Rechtsschein können Duldungs- und Anscheinsvollmacht entstehen: Duldet 
 # Schranken
 
 Ein Vertreter kann grundsätzlich kein Geschäft mit sich selbst oder als Vertreter eines Dritten vornehmen (Verbot des Selbstkontrahierens und der Mehrvertretung, § 181), es sei denn, es ist gestattet oder besteht ausschließlich in der Erfüllung einer Verbindlichkeit.
-
-# Citations
-
-[1] [§ 164 BGB](https://www.gesetze-im-internet.de/bgb/__164.html)
-[2] [§ 167 BGB](https://www.gesetze-im-internet.de/bgb/__167.html)
-[3] [§ 179 BGB](https://www.gesetze-im-internet.de/bgb/__179.html)
-[4] [§ 181 BGB](https://www.gesetze-im-internet.de/bgb/__181.html)

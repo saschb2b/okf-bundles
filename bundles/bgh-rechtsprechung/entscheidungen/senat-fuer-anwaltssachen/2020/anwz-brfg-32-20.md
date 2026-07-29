@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2020:231120BANWZ.BRFG.32.20.0"
 doknr: "KORE631732021"
 normen: ["Art 3 Abs 1 GG, Art 12 Abs 1 GG, § 14 Abs 2 Nr 7 BRAO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:30Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:30Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 23.11.2020 - AnwZ (Brfg) 32/20 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der Widerruf der Zulassung zur Rechtsanwaltschaft wegen Vermögensverfalls (§ 14 Abs. 2 Nr. 7 BRAO) verstößt nicht gegen das Grundrecht des Rechtsanwalts auf freie Berufsausübung. Denn die Regelung des § 14 Abs. 2 Nr. 7 BRAO dient dem Schutz der Funktionsfähigkeit der Rechtspflege, also eines überragend wichtigen Gemeinschaftsguts. Mildere, ebenso wirksame Maßnahmen, die dem Anliegen des Gesetzes in gleicher Weise Rechnung tragen, kommen nicht in Betracht.
@@ -28,8 +34,3 @@ timestamp: 2026-06-22T12:37:30Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 32/20 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 23.11.2020 - AnwZ (Brfg) 32/20 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

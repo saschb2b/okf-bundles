@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2018:110718UVIIIZR136.17.0"
 doknr: "KORE305232018"
 normen: ["§ 558a Abs 2 Nr 3 BGB, § 558b Abs 2 BGB"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:29:10Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:29:10Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 11.07.2018 - VIII ZR 136/17 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Im Falle der Beifügung eines Sachverständigengutachtens ist der Pflicht des Vermieters zur Begründung seines Mieterhöhungsverlangens grundsätzlich Genüge getan, wenn das Gutachten Angaben über Tatsachen enthält, aus denen die geforderte Mieterhöhung hergeleitet wird, und zwar in einem Umfang, der es dem Mieter gestattet, der Berechtigung des Erhöhungsverlangens nachzugehen und diese zumindest ansatzweise selbst überprüfen zu können. Der Sachverständige muss somit eine Aussage über die tatsächliche ortsübliche Vergleichsmiete treffen und die zu beurteilende Wohnung in das örtliche Preisgefüge einordnen (Fortführung von BGH, Urteil vom 3. Februar 2016, VIII ZR 69/15, NJW 2016, 1385 Rn. 10).
@@ -26,8 +32,3 @@ timestamp: 2026-06-22T12:29:10Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 136/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 11.07.2018 - VIII ZR 136/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

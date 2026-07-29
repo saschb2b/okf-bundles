@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2019:111219BANWZ.BRFG.50.19.0"
 doknr: "KORE616132020"
 normen: ["§ 14 Abs 2 Nr 7 Halbs 2  BRAO, § 882b ZPO, § 882c ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:34:50Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:34:50Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.12.2019 - AnwZ (Brfg) 50/19 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 14 Abs 2 Nr 7 Halbs 2  BRAO, § 882b ZPO, § 882c ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:34:50Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen AnwZ (Brfg) 50/19 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.12.2019 - AnwZ (Brfg) 50/19 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

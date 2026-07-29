@@ -9,13 +9,14 @@ datum: 2005-07-27
 aktenzeichen: "XII ZR 70/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:28:58Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:28:58Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2004/XII_ZR__70-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 27.07.2005 - XII ZR 70/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: XII ZR 70/04 vom 27.07.2005.
-
-# Citations
-
-[1] [BGH, Beschluss vom 27.07.2005 - XII ZR 70/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/XII_ZS/2004/XII_ZR__70-04.pdf?__blob=publicationFile&v=1)
-

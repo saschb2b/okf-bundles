@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 114/13"
 doknr: "KORE316162014"
 normen: ["§ 307 Abs 1 BGB, § 307 Abs 3 S 1 BGB, § 1 Abs 1 PrKG, § 8 PrKG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:25Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:25Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 14.05.2014 - VIII ZR 114/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Eine in den Allgemeinen Geschäftsbedingungen eines Erdgassondervertrags enthaltene Preisregelung, die sowohl der Berechnung des bei Vertragsbeginn geltenden Arbeitspreises als auch der Berechnung späterer Preisänderungen dient, ist als Preishauptabrede der Inhaltskontrolle gemäß § 307 Abs. 3 Satz 1 BGB entzogen, soweit durch sie der bei Vertragsbeginn geltende Arbeitspreis bestimmt wird. Sie stellt dagegen eine der Inhaltskontrolle unterworfene Preisnebenabrede dar, soweit sie künftige, noch ungewisse Preisanpassungen regelt.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:32:25Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 114/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 14.05.2014 - VIII ZR 114/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -4,7 +4,12 @@ title: PureComponent
 description: Legacy base class like Component that skips re-renders when props and state are unchanged via a shallow comparison. Class components are not recommended in new code; prefer a function component wrapped in memo.
 resource: https://react.dev/reference/react/PureComponent
 tags: [react, legacy, class-components, performance, api]
-timestamp: 2026-06-30T12:00:00Z
+generated:
+  by: claude-code/unrecorded
+  at: 2026-06-30T12:00:00Z
+sources:
+  - resource: https://react.dev/reference/react/PureComponent
+    title: "PureComponent"
 ---
 
 # Legacy notice
@@ -50,6 +55,3 @@ const Greeting = memo(function Greeting({ name }) {
 ```
 
 - Unlike `PureComponent`, `memo` does not compare state. In function components, calling a [useState](/reference/react/hooks/useState.md) setter with the same value already prevents re-renders by default, even without `memo`.
-
-# Citations
-[1] [PureComponent](https://react.dev/reference/react/PureComponent)

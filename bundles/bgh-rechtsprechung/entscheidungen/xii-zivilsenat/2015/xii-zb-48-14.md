@@ -10,8 +10,14 @@ aktenzeichen: "XII ZB 48/14"
 doknr: "KORE300422015"
 normen: ["§ 10 Abs 4 S 1 FamFG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:14:31Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:14:31Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 11.02.2015 - XII ZB 48/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 Die in einer Betreuungssache im Namen des Betroffenen eingelegte Rechtsbeschwerde ist unzulässig, wenn der sich für ihn legitimierende Rechtsanwalt nur von dem insoweit nicht vertretungsberechtigten Verfahrenspfleger beauftragt wurde (im Anschluss an Senatsbeschluss vom 14. August 2013, XII ZB 270/13 - juris).
@@ -23,8 +29,3 @@ Die in einer Betreuungssache im Namen des Betroffenen eingelegte Rechtsbeschwerd
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZB 48/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 11.02.2015 - XII ZB 48/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

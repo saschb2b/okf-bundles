@@ -10,8 +10,14 @@ aktenzeichen: "III ZR 71/12"
 doknr: "KORE304102012"
 normen: ["§ 45i Abs 4 S 1 TKG, § 241 Abs 2 BGB, § 254 Abs 1 BGB, § 276 Abs 1 BGB, § 16 Abs 3 S 3 TKV 1997"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:28:35Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:28:35Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 19.07.2012 - III ZR 71/12 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. Der noch zu § 16 Abs. 3 Satz 3 TKV 1997 aufgestellte Maßstab des § 276 Abs. 1 BGB (BGH, 16. März 2006, III ZR 152/05, BGHZ 166, 369 Rn. 20 und 4. März 2004, III ZR 96/03, BGHZ 158, 201, 205 ff) gilt auch für § 45i Abs. 4 Satz 1 TKG. Der Anschlussinhaber muss danach alle ihm zumutbaren geeigneten Vorkehrungen treffen, um eine von ihm nicht gebilligte Nutzung seines Anschlusses zu unterbinden.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:28:35Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen III ZR 71/12 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 19.07.2012 - III ZR 71/12 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 56/14"
 doknr: "KORE308432015"
 normen: ["§ 14 Abs 3 EEG 2004, § 14 Abs 6 EEG 2004, § 14 Abs 3 EEG 2006, § 14a Abs 5 EEG 2006, § 14a Abs 7 EEG 2006, Art 87 Abs 1 EGV, Art 107 Abs 1 AEUV"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:30:06Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:30:06Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 06.05.2015 - VIII ZR 56/14 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In den bundesweiten Ausgleichsmechanismus des Erneuerbare-Energien-Gesetzes einschließlich des Belastungsausgleichs zwischen den Elektrizitätsversorgungsunternehmen und dem für sie regelverantwortlichen Übertragungsnetzbetreiber nach § 14 Abs. 3 EEG 2004 und § 14 Abs. 3 EEG 2006 werden die von einem Elektrizitätsversorgungsunternehmen außerhalb eines der allgemeinen Versorgung dienenden Netzes an mit ihm verbundene, juristisch selbständige Unternehmen gelieferten Strommengen auch dann einbezogen, wenn es sich um einen eng verflochtenen Konzernverbund handelt. Von dem Belastungsausgleich sind als sogenannter "Eigenstrom" lediglich solche Strommengen ausgenommen, die von dem Letztverbraucher selbst erzeugt und verbraucht und nicht an andere abgegeben werden; in diesen Fällen fehlt es an einer Lieferung des Stroms im Sinne des Gesetzes (Bestätigung und Fortführung des Senatsurteils vom 9. Dezember 2009, VIII ZR 35/09, RdE 2010, 225 Rn. 23 ff.).
@@ -25,8 +31,3 @@ timestamp: 2026-06-22T12:30:06Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 56/14 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 06.05.2015 - VIII ZR 56/14 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

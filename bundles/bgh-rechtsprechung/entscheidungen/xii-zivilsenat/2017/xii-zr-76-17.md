@@ -11,8 +11,14 @@ ecli: "ECLI:DE:BGH:2017:200917BXIIZR76.17.0"
 doknr: "KORE634302017"
 normen: ["§ 719 Abs 2 S 1 ZPO"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:37:53Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:37:53Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Beschluss vom 20.09.2017 - XII ZR 76/17 (bundesgerichtshof.de)"
 ---
+
 # Normen
 
 - § 719 Abs 2 S 1 ZPO
@@ -20,8 +26,3 @@ timestamp: 2026-06-22T12:37:53Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen XII ZR 76/17 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Beschluss vom 20.09.2017 - XII ZR 76/17 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-

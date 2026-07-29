@@ -9,13 +9,14 @@ datum: 2004-06-24
 aktenzeichen: "III ZR 24/04"
 normen: []
 tags: [bgh, rechtsprechung, gemeinfrei, pdf-quelle]
-timestamp: 2026-06-22T15:25:52Z
+generated:
+  by: process:ingest-bgh-pdf
+  at: 2026-06-22T15:25:52Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2004/III_ZR__24-04.pdf?__blob=publicationFile&v=1
+    title: "BGH, Beschluss vom 24.06.2004 - III ZR 24/04 (bundesgerichtshof.de, PDF)"
 ---
+
 # Volltext
 
 Volltext (PDF) beim Bundesgerichtshof: III ZR 24/04 vom 24.06.2004.
-
-# Citations
-
-[1] [BGH, Beschluss vom 24.06.2004 - III ZR 24/04 (bundesgerichtshof.de, PDF)](https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/III_ZS/2004/III_ZR__24-04.pdf?__blob=publicationFile&v=1)
-

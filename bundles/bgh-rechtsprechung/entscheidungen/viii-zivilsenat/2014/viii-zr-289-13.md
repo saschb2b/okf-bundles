@@ -10,8 +10,14 @@ aktenzeichen: "VIII ZR 289/13"
 doknr: "KORE316402014"
 normen: ["§ 307 Abs 1 S 1 BGB, § 535 BGB, § 543 Abs 1 BGB, § 573 Abs 2 Nr 1 BGB, Art 13 Abs 1 GG"]
 tags: [bgh, rechtsprechung, gemeinfrei]
-timestamp: 2026-06-22T12:32:27Z
+generated:
+  by: process:ingest-bgh-rechtsprechung
+  at: 2026-06-22T12:32:27Z
+sources:
+  - resource: https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html
+    title: "BGH, Urteil vom 04.06.2014 - VIII ZR 289/13 (bundesgerichtshof.de)"
 ---
+
 # Leitsatz
 
 1. In die Würdigung, ob der Vermieter angesichts einer Pflichtverletzung des Mieters ein berechtigtes Interesse (§ 573 Abs. 2 Nr. 1 BGB) an der Beendigung des Mietvertrages hat oder die Fortsetzung des Mietverhältnisses für ihn unzumutbar ist (§ 543 Abs. 1 BGB), ist ein vorangegangenes vertragswidriges Verhalten des Vermieters einzubeziehen, insbesondere, wenn es das nachfolgende vertragswidrige Verhalten des Mieters provoziert hat.
@@ -27,8 +33,3 @@ timestamp: 2026-06-22T12:32:27Z
 # Volltext
 
 Volltext und Gründe über die Entscheidungssuche des Bundesgerichtshofs unter dem Aktenzeichen VIII ZR 289/13 (Entscheidungen sind nach § 5 UrhG gemeinfrei).
-
-# Citations
-
-[1] [BGH, Urteil vom 04.06.2014 - VIII ZR 289/13 (bundesgerichtshof.de)](https://www.bundesgerichtshof.de/SiteGlobals/Forms/Suche/EntscheidungssucheBGH_Formular.html)
-
