@@ -9,10 +9,14 @@ zeit_gesamt: 60 Minuten inklusive Kühlzeit
 schwierigkeit: einfach
 allergene: [Soja, Sesam]
 vorab: Muss vor dem Füllen 30 Minuten kalt stehen
+aufbewahrung:
+  eignung: eingeschränkt
+  kuehlschrank: 1 Tag
+  gefrierfach: nicht empfohlen, besser als fertige Teigtasche
 tags: [china, fuellung, hack, teigtaschen]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Jiaozi Filling.md
@@ -72,6 +76,16 @@ Für etwa 50 Teigtaschen.
 # Andere Verwendung
 
 Die Füllung ist nicht an die Teigtasche gebunden. Sie geht als Wan-Tan-Füllung, als Hackbällchen in einer Suppe oder als Fleischschicht in gedämpften Brötchen.
+
+# Aufbewahren
+
+Rohe Hackmasse ist der empfindlichste Zustand dieses Bundles, und die Füllung enthält zusätzlich blanchierten Kohl, der weiter Wasser abgibt.
+
+- **Kühlschrank.** 1 Tag, abgedeckt. Die vorgeschriebenen 30 Minuten Kühlzeit dürfen also zu einer Nacht werden, mehr nicht.
+- **Gefrierfach.** Nicht empfohlen. Beim Auftauen tritt Wasser aus, das die Masse krümelig macht und beim Falten die Naht sprengt. Die Bindung, die durch zehn Minuten Schlagen entstanden ist, geht dabei verloren.
+- **Der bessere Weg.** Die Füllung noch am selben Tag zu [Jiaozi](/gerichte/jiaozi.md) verarbeiten und **diese** roh [einfrieren](/techniken/einfrieren.md). Der Teigmantel hält das Wasser da, wo es hingehört, und die gefrorene Teigtasche geht direkt ins kochende Wasser.
+
+Wenn doch Füllung übrig bleibt, ist die andere Verwendung oben der sinnvollere Ausweg: zu Bällchen gedreht und durchgegart hält sie sich 3 Tage im Kühlschrank und lässt sich dann auch einfrieren, weil das Garen die Bindung fixiert hat.
 
 # Wird gebraucht für
 

@@ -10,10 +10,14 @@ zeit_gesamt: 45 Minuten
 schwierigkeit: mittel
 allergene: [Fisch, Krebstiere]
 vorab: Fond vorher ansetzen; die Paella selbst duldet keine Wartezeit
+aufbewahrung:
+  eignung: schlecht
+  kuehlschrank: 2 Tage
+  gefrierfach: nicht empfohlen
 tags: [spanien, reis, safran, pfanne, socarrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Paella.md
@@ -66,6 +70,16 @@ Der Ablauf ist ein Timing-Rezept, nicht ein Zutatenrezept. Die drei Zeitfenster 
 - Am Boden löst sich eine goldbraune, zusammenhängende Kruste, die knirscht.
 - Die Reisschicht ist flach, höchstens zwei Finger hoch, und die Körner liegen einzeln.
 - Die Farbe kommt vom Safran und der Tomate, nicht von Lebensmittelfarbe.
+
+# Aufbewahren
+
+Das Gericht dieses Bundles, das sich am schlechtesten lagern lässt, und zwar aus einem inhaltlichen Grund: der [Socarrat](/techniken/socarrat.md) ist das Qualitätsmaß der Paella, und er entsteht in den letzten 30 bis 60 Sekunden genau einmal. Aufgewärmt gibt es ihn nicht wieder. Eine Paella wird für den Tag gekocht, an dem sie auf dem Tisch steht.
+
+- **Kühlschrank.** 2 Tage, mit ehrlichem Verlust. Der [Bomba-Reis](/zutaten/grundzutaten/bomba-reis.md) hat viel Flüssigkeit aufgenommen und wird beim Stehen weicher.
+- **Gefrierfach.** Nicht empfohlen. Der gegarte Reis wird beim Auftauen matschig, und die [Garnelen](/zutaten/fisch/garnele.md) werden zäh.
+- **Aufwärmen.** Wenn schon, dann in der Pfanne mit einem Schuss Brühe und Deckel, danach kurz ohne Deckel bei hoher Hitze. Das ergibt kein Socarrat, aber wenigstens wieder eine trockene Oberfläche. Die Mikrowelle macht den Reis pappig.
+
+Die richtige Vorratsarbeit liegt bei diesem Gericht **davor**, nicht danach: der Fond lässt sich Tage vorher ansetzen und [einfrieren](/techniken/einfrieren.md), und mit fertigem Fond ist die Paella selbst in 45 Minuten gekocht.
 
 # Tipps
 

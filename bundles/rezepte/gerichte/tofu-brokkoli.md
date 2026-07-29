@@ -10,10 +10,14 @@ zeit_gesamt: 60 Minuten inklusive Pressen
 schwierigkeit: einfach
 allergene: [Soja, Gluten, Sesam]
 vorab: Tofu kann Stunden vorher gepresst werden
+aufbewahrung:
+  eignung: eingeschränkt
+  kuehlschrank: 3 Tage
+  gefrierfach: nicht empfohlen
 tags: [vegetarisch, vegan-moeglich, tofu, brokkoli, wok, schnell]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Tofu Brokkoli.md
@@ -73,6 +77,16 @@ Die Notiz endet nach der Sauce. Was folgt, ist die naheliegende Ergänzung und *
 # Vegan
 
 Den [Honig](/zutaten/wuerzmittel/honig.md) durch Agavendicksaft oder Ahornsirup ersetzen. Alles andere ist bereits pflanzlich.
+
+# Aufbewahren
+
+Das Gericht lebt von zwei Texturen, die beide schlecht lagern: der knusprigen Tofukruste und dem Biss des [Brokkoli](/zutaten/gemuese/brokkoli.md). Es ist deshalb ein Kühlschrankgericht, kein Gefrierfachgericht.
+
+- **Kühlschrank.** 3 Tage. Die Kruste weicht auf, der Geschmack bleibt. Wer [portioniert](/techniken/portionieren.md), packt Tofu und Glasur getrennt, dann bleibt wenigstens etwas Knusprigkeit.
+- **Gefrierfach.** Nicht empfohlen. [Tofu](/zutaten/grundzutaten/tofu.md) verändert sich beim Gefrieren grundlegend: das Wasser in seinen Poren dehnt sich aus und macht ihn schwammig und zäh. In der koreanischen und japanischen Küche wird genau das absichtlich genutzt, hier ist es ein Verlust. Der Brokkoli wird zusätzlich weich.
+- **Aufwärmen.** Trockene Pfanne oder Ofen bei 200 Grad, nie die Mikrowelle. Nur trockene Hitze bringt einen Teil der Kruste zurück, siehe [Auftauen und Aufwärmen](/techniken/auftauen-und-aufwaermen.md).
+
+Vorarbeit lohnt sich hier mehr als Nachlagerung: der [gepresste Tofu](/techniken/tofu-pressen.md) und die angerührte Sauce halten sich getrennt problemlos zwei Tage, und das Gericht ist dann in einer Viertelstunde fertig.
 
 # Tipps
 

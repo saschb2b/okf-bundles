@@ -10,10 +10,14 @@ zeit_gesamt: 40 Minuten
 schwierigkeit: einfach
 allergene: [Gluten, Milch]
 vorab: Schmeckt aufgewärmt besser, Sauce am Vortag kochbar
-tags: [japan, curry, yoshoku, ein-topf, schnell, hauptgericht]
+aufbewahrung:
+  eignung: gut
+  kuehlschrank: 3 bis 4 Tage
+  gefrierfach: 3 Monate
+tags: [japan, curry, yoshoku, ein-topf, schnell, hauptgericht, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Chicken Curry (Japanese).md
@@ -75,6 +79,16 @@ Dazu: gedämpfter [japanischer Kurzkornreis](/komponenten/japanischer-reis.md), 
 | Kontrolle | Röstgrad des Roux frei wählbar | Roux röstet nur so lange, wie das Fleisch es zulässt |
 
 Beide sind richtig. Diese Version ist die für einen Werktagabend, die andere die für einen Sonntag.
+
+# Aufbewahren
+
+Die Ein-Topf-Fassung lagert sich noch etwas besser als das [Grundrezept](/gerichte/japanisches-curry.md), weil hier keine großen Kartoffelstücke in der Sauce liegen, die beim Auftauen mehlig würden.
+
+- **Kühlschrank.** [Abgekühlt](/techniken/abkuehlen.md) und [portioniert](/techniken/portionieren.md) 3 bis 4 Tage, Sauce und [Reis](/komponenten/japanischer-reis.md) getrennt.
+- **Gefrierfach.** 3 Monate. Die [Erbsen](/zutaten/gemuese/erbse.md) überstehen das problemlos, sie kamen ohnehin aus dem Tiefkühler.
+- **Aufwärmen.** Topf, mittlere Hitze, ein Schuss Wasser gegen die nachgedickte Bindung. Siehe [Auftauen und Aufwärmen](/techniken/auftauen-und-aufwaermen.md).
+
+Genau wie beim Grundrezept gilt: einen Tag später ist es besser. Das Rezept ist damit ein guter Kandidat, um sonntags die doppelte Menge zu kochen.
 
 # Tipps
 

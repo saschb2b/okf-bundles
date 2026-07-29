@@ -10,10 +10,14 @@ zeit_gesamt: 75 Minuten plus Marinierzeit über Nacht
 schwierigkeit: mittel
 allergene: []
 vorab: Fleisch salzen und über Nacht marinieren
-tags: [indisch, curry, kokosmilch, marinade, hauptgericht]
+aufbewahrung:
+  eignung: gut
+  kuehlschrank: 3 Tage
+  gefrierfach: 2 Monate
+tags: [indisch, curry, kokosmilch, marinade, hauptgericht, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Chicken Curry (Indian).md
@@ -104,6 +108,15 @@ Langkornreis mit Salz, Sternanis, Lorbeerblättern und Kurkuma kochen. Die Gewü
 - Die Sauce ist samtig und trennt sich nicht in Öl und Wasser.
 - Das Fleisch ist bis in die Mitte gewürzt, nicht nur außen.
 - Der Reis duftet nach Sternanis, ohne dass man ihn heraussschmeckt.
+
+# Aufbewahren
+
+Das Curry gewinnt über Nacht, weil die Gewürze weiter in Fleisch und Sauce ziehen. Die [Kokosmilch](/zutaten/wuerzmittel/kokosmilch.md) bestimmt aber, wie es behandelt werden will.
+
+- **Kühlschrank.** [Abgekühlt](/techniken/abkuehlen.md) und [portioniert](/techniken/portionieren.md) 3 Tage. Sauce und [Reis](/zutaten/grundzutaten/langkornreis.md) getrennt.
+- **Gefrierfach.** 2 Monate, also kürzer als bei den Currys auf Mehlbasis. Kokosmilch trennt sich beim Gefrieren sichtbar in Fett und Wasser. Das ist kein Verderb und lässt sich beim Aufwärmen wieder einrühren, sieht aufgetaut aber erst einmal geronnen aus.
+- **Aufwärmen.** Kleine Hitze, nie sprudelnd kochen. Die Emulsion bricht bei starker Hitze endgültig, und dann bleibt sie getrennt. Details in [Auftauen und Aufwärmen](/techniken/auftauen-und-aufwaermen.md).
+- **Frisch dazu.** [Koriandergrün](/zutaten/gemuese/koriandergruen.md) und ein Spritzer [Limette](/zutaten/obst/limette.md) kommen erst auf den aufgewärmten Teller, nicht in die Vorratsdose.
 
 # Tipps
 

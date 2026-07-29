@@ -1,7 +1,7 @@
 ---
 type: Zutat
 title: Tomate
-description: Säure-, Süße- und Umamiquelle, deren Konzentration von der Verarbeitungsform abhängt: frisch, gestückelt, passiert oder als Mark.
+description: "Säure-, Süße- und Umamiquelle, deren Konzentration von der Verarbeitungsform abhängt: frisch, gestückelt, passiert oder als Mark."
 kategorie: Gemüse
 warengruppe: Fruchtgemüse
 vegan: true

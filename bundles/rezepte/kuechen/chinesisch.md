@@ -1,7 +1,7 @@
 ---
 type: Küche
 title: Chinesische Küche
-description: Die Prinzipien der chinesischen Küche in diesem Bundle: Hitze als Werkzeug, Vorbereitung als Hauptarbeit, und die Würzachse aus Sojasauce, Reiswein und Sesamöl.
+description: "Die Prinzipien der chinesischen Küche in diesem Bundle: Hitze als Werkzeug, Vorbereitung als Hauptarbeit, und die Würzachse aus Sojasauce, Reiswein und Sesamöl."
 tags: [kueche, china, wok]
 generated:
   by: claude-code/opus-5

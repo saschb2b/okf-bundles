@@ -10,10 +10,14 @@ zeit_gesamt: 13 bis 14 Stunden, davon mindestens 12 Stunden Kühlschrankgare
 schwierigkeit: mittel
 allergene: [Gluten]
 vorab: Teig muss mindestens 12 Stunden in den Kühlschrank; vorgebacken monatelang lagerbar
+aufbewahrung:
+  eignung: gut, vorgebacken
+  kuehlschrank: vorgebacken einige Monate
+  gefrierfach: fertig gebacken 3 Monate
 tags: [brot, backen, sauerteig, vorrat, beilage]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Brötchen.md
@@ -59,6 +63,16 @@ Der eigentliche Trick des Rezepts.
 2. Vollständig abkühlen lassen.
 3. In einer Plastiktüte bei Raumtemperatur bis zu 7 Tage. In einer Plastiktüte im Kühlschrank einige Monate.
 4. Zum Verzehr 10 Minuten bei 230 Grad fertig backen. Erst jetzt bekommt es Farbe und Kruste.
+
+# Aufbewahren
+
+Das Vorbackverfahren oben ist der Hauptweg und in dieser Sammlung der eleganteste Fall von [Vorratshaltung](/guide/vorratshaltung.md): gelagert wird ein halbfertiges Produkt, und der letzte Schritt der Zubereitung ist gleichzeitig das Aufwärmen. Daneben gelten für die fertigen Brötchen die üblichen Regeln.
+
+- **Fertig gebacken, Raumtemperatur.** 2 Tage, im Papier- oder Leinenbeutel, nicht in Plastik. Sauerteigbrot hält sich ohne Zusätze länger als Hefebrot, weil die Säure schimmelhemmend wirkt.
+- **Fertig gebacken, Kühlschrank.** Nicht empfohlen. Bei Kühlschranktemperatur altbackt Brot am schnellsten, die Stärke retrogradiert dort schneller als bei Raumtemperatur oder im Gefrierfach.
+- **Fertig gebacken, Gefrierfach.** 3 Monate. Abgekühlt einzeln [einfrieren](/techniken/einfrieren.md), gefroren 8 bis 10 Minuten bei 200 Grad aufbacken.
+- **Vorgebacken.** Siehe oben, das ist der Weg: Plastiktüte bei Raumtemperatur bis zu 7 Tage, im Kühlschrank einige Monate. Hier ist Plastik richtig, weil das blasse Brötchen nicht austrocknen soll.
+- **Altbacken.** Kein Verlust. Trockene Brötchen werden zu Croutons, zu Semmelbröseln oder eingeweicht zur Bindung in Hackmassen.
 
 # Kennzeichen des gelungenen Ergebnisses
 

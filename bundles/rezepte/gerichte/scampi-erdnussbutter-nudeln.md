@@ -9,10 +9,14 @@ zeit_aktiv: 25 Minuten
 zeit_gesamt: 25 Minuten
 schwierigkeit: einfach
 allergene: [Krebstiere, Erdnuss, Soja, Gluten]
+aufbewahrung:
+  eignung: schlecht
+  kuehlschrank: 1 bis 2 Tage
+  gefrierfach: nicht empfohlen
 tags: [nudeln, garnelen, erdnuss, schnell, feierabend]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Scampi Erdnussbutter Nudeln.md
@@ -64,6 +68,16 @@ Die Notiz enthält nur die Zutatenliste. Der folgende Ablauf ist die naheliegend
 - Die Sauce überzieht die Nudeln, statt am Pfannenboden zu stehen.
 - Die Garnelen sind gerade eben undurchsichtig, nicht gummiartig.
 - Das Topping ist knusprig, es zieht also erst kurz vor dem Essen darüber.
+
+# Aufbewahren
+
+Ein Frischgericht. Beide Hauptbestandteile vertragen kein zweites Erhitzen: [Garnelen](/zutaten/fisch/garnele.md) sind nach etwa 3 Minuten gar und werden beim Aufwärmen zwangsläufig zäh, und [Reisbandnudeln](/zutaten/grundzutaten/reisbandnudeln.md) saugen in der Sauce weiter und zerfallen. Das Rezept ist ohnehin auf eine Portion und 25 Minuten ausgelegt, also darauf, gar nichts übrig zu lassen.
+
+- **Kühlschrank.** 1 bis 2 Tage, kalt tatsächlich besser als aufgewärmt. Als kalter Nudelsalat mit einem Spritzer [Limette](/zutaten/obst/limette.md) funktioniert der Rest gut.
+- **Gefrierfach.** Nicht empfohlen.
+- **Aufwärmen.** Kurz in der Pfanne mit einem Löffel Wasser, Garnelen erst am Ende dazu. Siehe [Auftauen und Aufwärmen](/techniken/auftauen-und-aufwaermen.md).
+
+Was sich dagegen gut vorbereiten lässt, ist die **Sauce**: Erdnussbutter, Sojasauce, Tomatenmark und Gewürze halten fertig angerührt eine Woche im Kühlschrank. Dann bleibt am Feierabend nur noch Nudeln kochen und Garnelen braten.
 
 # Tipps
 

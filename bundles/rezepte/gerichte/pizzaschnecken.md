@@ -10,10 +10,14 @@ zeit_gesamt: 45 Minuten inklusive Kühlzeit
 schwierigkeit: einfach
 allergene: [Gluten, Milch, Ei]
 vorab: Rolle bis zum Schneiden bis zu 24 Stunden im Kühlschrank, roh einfrierbar
-tags: [party, fingerfood, schnell, backen, fertigteig, vorbereitbar]
+aufbewahrung:
+  eignung: gut, roh
+  kuehlschrank: Rolle roh 1 Tag, gebacken 3 Tage
+  gefrierfach: roh 3 Monate
+tags: [party, fingerfood, schnell, backen, fertigteig, vorbereitbar, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  at: 2026-07-29T21:00:00Z
 ---
 
 # Was es ist
@@ -91,6 +95,16 @@ Das ist der eigentliche Grund, dieses Rezept zu haben.
 - [ ] Oder roh einfrieren: geschnittene Scheiben auf einem Blech einzeln anfrieren, dann in einen Beutel. Direkt gefroren backen, plus 4 bis 5 Minuten.
 - [ ] Frisch gebacken sind sie am besten. Aufgewärmt gehen sie, in 5 Minuten bei 180 Grad, niemals in der Mikrowelle: der Boden wird zäh.
 - [ ] Warm servieren, nicht heiß. Bei Zimmertemperatur schmeckt der Käse am vollsten.
+
+# Aufbewahren
+
+Der Abschnitt oben behandelt die Vorbereitung vor dem Fest, dieser das, was danach übrig bleibt. Wie bei den [Jiaozi](/gerichte/jiaozi.md) ist die bessere Vorratsform die **rohe**.
+
+- **Roh, Kühlschrank.** Die ungeschnittene Rolle 24 Stunden in Frischhaltefolie, siehe oben.
+- **Roh, Gefrierfach.** 3 Monate. Geschnittene Scheiben auf dem Blech einzeln [vorfrieren](/techniken/einfrieren.md), dann in den Beutel, direkt gefroren backen mit 4 bis 5 Minuten Zuschlag.
+- **Gebacken, Kühlschrank.** 3 Tage in einer dichten Dose. Der Boden verliert dabei seine Knusprigkeit.
+- **Gebacken, Gefrierfach.** 2 Monate, aber deutlich schlechter als roh eingefroren: der zweimal gebackene Teig wird trocken.
+- **Aufwärmen.** 5 Minuten bei 180 Grad im Ofen, niemals in der Mikrowelle, sonst wird der Boden zäh. Der Grundsatz dahinter steht in [Auftauen und Aufwärmen](/techniken/auftauen-und-aufwaermen.md).
 
 # Tipps
 

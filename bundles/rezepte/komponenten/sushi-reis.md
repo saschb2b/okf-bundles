@@ -9,10 +9,14 @@ zeit_gesamt: 90 Minuten inklusive Quellen, Ziehen und Abkühlen
 schwierigkeit: einfach
 allergene: []
 vorab: Muss vor der Verarbeitung auf Raumtemperatur abkühlen
+aufbewahrung:
+  eignung: schlecht
+  kuehlschrank: nicht empfohlen
+  gefrierfach: nicht empfohlen
 tags: [japan, reis, sushi, grundlage]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Onigiri.md
@@ -67,6 +71,16 @@ Alles leicht erhitzen, bis sich Zucker und Salz gelöst haben. Nicht kochen: der
 - **Rühren statt Heben.** Setzt Stärke frei, der Reis wird zu Brei.
 - **Zu heiß gewürzt.** Direkt vom Herd verdampft ein Teil des Essigs, die Würzung wird flach.
 - **Im Kühlschrank abgekühlt.** Der Reis wird hart und lässt sich nicht mehr formen. Raumtemperatur ist das Ziel, nicht Kälte.
+
+# Aufbewahren
+
+Gewürzter Reis ist ein Tagesprodukt. Anders als der ungewürzte [japanische Reis](/komponenten/japanischer-reis.md), der sich portionsweise gut einfrieren lässt, verträgt er weder Kälte noch Gefrierfach: der Essig bleibt, die Textur nicht.
+
+- **Am selben Tag.** Bei Raumtemperatur, abgedeckt mit einem feuchten Tuch, damit die Oberfläche nicht antrocknet. So steht er in der Sushi-Bar den ganzen Dienst.
+- **Kühlschrank.** Nicht empfohlen. Die Stärke retrogradiert bei etwa 4 Grad am schnellsten, und die Körner werden hart und kreidig. Wenn es sein muss, dann höchstens einen Tag und vor dem Essen auf Raumtemperatur bringen.
+- **Gefrierfach.** Nicht als loser Reis. Verarbeitet zu [Onigiri](/gerichte/onigiri.md) funktioniert es dagegen gut, weil der geformte Ball seine Feuchtigkeit hält.
+
+Der Weg zum Vorrat führt bei diesem Konzept also über das Gericht, nicht über die Komponente: wer Reis übrig hat, formt daraus Onigiri und friert diese ein. Das schnelle [Abkühlen](/techniken/abkuehlen.md) innerhalb einer Stunde gilt trotzdem, gekochter Reis ist auch gewürzt der empfindlichste Posten dieser Sammlung.
 
 # Wird gebraucht für
 

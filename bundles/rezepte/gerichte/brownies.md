@@ -10,10 +10,15 @@ zeit_gesamt: 90 Minuten inklusive Abkühlen
 schwierigkeit: einfach
 allergene: [Gluten, Ei, Milch, Soja]
 vorab: Bis zu 4 Tage im Voraus backbar, fest eingewickelt bei Raumtemperatur
-tags: [dessert, backen, schokolade, brownies]
+aufbewahrung:
+  eignung: gut
+  raumtemperatur: 4 Tage, fest eingewickelt
+  kuehlschrank: nicht empfohlen
+  gefrierfach: 3 Monate
+tags: [dessert, backen, schokolade, brownies, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Brownies.md
@@ -68,6 +73,17 @@ Für 12 Stück, Form 20x20 cm (8x8 Zoll), Metall.
 - Die Oberfläche ist glänzend und dünn gecrackt, nicht matt.
 - Der Anschnitt ist dicht und feucht, nicht luftig-krümelig.
 - Die Ränder sind fest, die Mitte gibt auf Druck leicht nach.
+
+# Aufbewahren
+
+Der hohe Fett- und Zuckeranteil, der die Brownies fudgy macht, macht sie zugleich zum haltbarsten Gebäck dieses Bundles: Zucker bindet Wasser, und Fett schützt vor dem Austrocknen.
+
+- **Raumtemperatur.** 4 Tage, fest in Folie gewickelt oder in einer dichten Dose. Der Standardweg.
+- **Kühlschrank.** Nicht empfohlen. Kälte lässt das Fett fest werden, die Brownies werden hart und schmecken flach. Wer sie doch kalt lagert, lässt sie vor dem Essen eine halbe Stunde stehen.
+- **Gefrierfach.** 3 Monate. In Stücke schneiden, einzeln in Folie wickeln und [portioniert](/techniken/portionieren.md) [einfrieren](/techniken/einfrieren.md). Ein einzelnes Stück taut in einer halben Stunde bei Raumtemperatur auf, was sie zur besten Vorratsnachspeise dieser Sammlung macht.
+- **Aufwärmen.** Nicht nötig. Wer sie warm mag, gibt ein Stück 10 bis 15 Sekunden in die Mikrowelle, dann werden die [Schokoladenchips](/zutaten/suesswaren/schokoladenchips.md) wieder weich.
+
+Anschneiden erst nach dem vollständigen Abkühlen, und für den Vorrat lieber im Stück lassen: eine ganze Platte trocknet langsamer aus als zwölf einzelne Schnittflächen.
 
 # Tipps
 

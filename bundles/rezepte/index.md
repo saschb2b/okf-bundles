@@ -6,7 +6,7 @@ okf_version: "0.2"
 
 Sascha kocht. Eine Rezeptsammlung, die bis auf die einzelne Zutat und den einzelnen Handgriff heruntergebrochen ist: jedes Gericht verlinkt seine Zutaten und Techniken, und jede Zutat verlinkt zurück auf die Gerichte, in denen sie steckt. Damit lässt sich die Sammlung in beide Richtungen lesen, vom Gericht zur Einkaufsliste und von den vorhandenen Zutaten zum möglichen Gericht.
 
-Anfangen bei: [Überblick](overview.md). Die Suchmethode steht in [Rückwärtssuche](guide/rueckwaertssuche.md).
+Anfangen bei: [Überblick](overview.md). Die Suchmethode steht in [Rückwärtssuche](guide/rueckwaertssuche.md), und was nach dem Kochen mit den übrigen Portionen passiert, in [Vorratshaltung](guide/vorratshaltung.md).
 
 # Gerichte
 
@@ -42,7 +42,7 @@ Fünfzehn Gerichte aus sechs Küchen, die meisten aus persönlichen Kochnotizen.
 
 # Techniken
 
-* [Alle Zubereitungstechniken](techniken/index.md) - Schnitttechniken, Garmethoden und Vorbereitung, vom Würfeln über das Wok-Braten bis zum Socarrat.
+* [Alle Zubereitungstechniken](techniken/index.md) - Schnitttechniken, Garmethoden, Vorbereitung und Vorratshaltung, vom Würfeln über das Wok-Braten bis zum Socarrat.
 
 # Küchen
 
@@ -57,4 +57,5 @@ Fünfzehn Gerichte aus sechs Küchen, die meisten aus persönlichen Kochnotizen.
 # Anleitungen
 
 * [Rückwärtssuche](guide/rueckwaertssuche.md) - Von vorhandenen Zutaten zum passenden Gericht.
+* [Vorratshaltung](guide/vorratshaltung.md) - Portionieren, kühlen, einfrieren, aufwärmen, und welches Gericht sich wofür eignet.
 * [Arbeiten in diesem Bundle](guide/arbeiten-in-diesem-bundle.md) - Konventionen für neue Gerichte, Zutaten und Techniken.

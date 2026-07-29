@@ -8,10 +8,14 @@ zeit_aktiv: 10 Minuten
 zeit_gesamt: 10 Minuten
 schwierigkeit: einfach
 allergene: [Gluten, Milch]
-tags: [japan, curry, grundlage, bindung, roux]
+aufbewahrung:
+  eignung: gut
+  kuehlschrank: 2 Wochen
+  gefrierfach: 3 Monate
+tags: [japan, curry, grundlage, bindung, roux, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 ---
 
 # Was es ist
@@ -49,7 +53,11 @@ Der Punkt, an dem Klümpchen entstehen oder eben nicht:
 
 # Aufbewahren
 
-Die abgekühlte Masse in Eiswürfelformen oder als flaches Rechteck einfrieren und in Portionen brechen. Hält im Gefrierfach drei Monate, im Kühlschrank zwei Wochen. Aus dem Gefrierfach direkt in die heiße Sauce geben.
+Der Roux ist der Baustein dieser Sammlung, der sich am besten auf Vorrat legen lässt: fast reines Fett und Mehl, kaum Wasser, also kaum etwas, das verderben oder Eiskristalle bilden könnte.
+
+Die abgekühlte Masse in Eiswürfelformen oder als flaches Rechteck [einfrieren](/techniken/einfrieren.md) und in Portionen brechen. Hält im Gefrierfach drei Monate, im Kühlschrank zwei Wochen. Aus dem Gefrierfach direkt in die heiße Sauce geben, ohne Auftauen: er schmilzt in der Flüssigkeit, und das Verfahren aus „Einrühren in die Sauce" gilt unverändert.
+
+Ein Fach der Eiswürfelform fasst etwa 15 bis 20 ml, ein Curry für vier Personen braucht die ganze hier beschriebene Menge. Wer [portioniert](/techniken/portionieren.md), rechnet deshalb in Blöcken zu je vier Würfeln. Damit wird aus zehn Minuten Arbeit ein Vorrat für vier Currys, und das [japanische Curry](/gerichte/japanisches-curry.md) verkürzt sich auf die Zeit, die das Gemüse braucht.
 
 # Wird gebraucht für
 

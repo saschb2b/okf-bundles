@@ -5,7 +5,7 @@ description: Die Konventionen für neue Gerichte, Zutaten und Techniken, damit d
 tags: [anleitung, konventionen, okf]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T18:00:00Z
+  at: 2026-07-29T21:00:00Z
 ---
 
 # Die harte Regel
@@ -19,7 +19,7 @@ Alles Weitere hier ist Hauskonvention. Sie existiert, damit die [Rückwärtssuch
 Verwendete `type`-Werte, jeweils mit den Feldern, die über die OKF-Empfehlungen hinausgehen. Empfohlen und hier überall gesetzt sind `title`, `description`, `tags` und `generated` (`by`, also wer das Konzept geschrieben hat, und `at`, der Zeitpunkt); wo eine Quelle dahintersteht, kommt `sources` dazu. `verified` bleibt leer, solange niemand das Rezept tatsächlich nachgekocht und bestätigt hat:
 
 `Rezept`
-: Ein fertiges Gericht. Zusätzlich `kueche`, `gang`, `portionen`, `zeit_aktiv`, `zeit_gesamt`, `schwierigkeit`, optional `allergene` und `vorab` (was am Vortag geht). Beispiel: [Japanisches Curry](/gerichte/japanisches-curry.md).
+: Ein fertiges Gericht. Zusätzlich `kueche`, `gang`, `portionen`, `zeit_aktiv`, `zeit_gesamt`, `schwierigkeit`, `aufbewahrung` (siehe unten), optional `allergene` und `vorab` (was am Vortag geht). Beispiel: [Japanisches Curry](/gerichte/japanisches-curry.md).
 
 `Rezeptkomponente`
 : Ein Baustein, den mehrere Gerichte teilen (Saucen, Grundlagen, Beilagen). Gleiche Felder wie ein Rezept, aber `ergibt` statt `portionen`. Beispiel: [Curry-Roux](/komponenten/curry-roux.md).
@@ -28,7 +28,7 @@ Verwendete `type`-Werte, jeweils mit den Feldern, die über die OKF-Empfehlungen
 : Ein einzelnes Lebensmittel. Zusätzlich `kategorie`, `warengruppe`, `vegan`, `allergene`, `lagerung`, `haltbarkeit`, optional `saison`. Beispiel: [Karotte](/zutaten/gemuese/karotte.md).
 
 `Zubereitungstechnik`
-: Ein Handgriff oder eine Garmethode, unabhängig vom Gericht. Zusätzlich `kategorie` (Schnitttechnik, Garmethode, Vorbereitung), `werkzeug`, optional `temperatur` und `dauer`. Beispiel: [Anschwitzen](/techniken/anschwitzen.md).
+: Ein Handgriff oder eine Garmethode, unabhängig vom Gericht. Zusätzlich `kategorie` (Schnitttechnik, Garmethode, Vorbereitung, Vorratshaltung), `werkzeug`, optional `temperatur` und `dauer`. Beispiel: [Anschwitzen](/techniken/anschwitzen.md).
 
 Dazu kommen `Küche` für eine Landesküche ([Japanische Küche](/kuechen/japanisch.md)) und `Anleitung` für Konzepte wie dieses.
 
@@ -53,11 +53,12 @@ Dateinamen sind klein, ohne Umlaute, mit Bindestrich: `haehnchenschenkel.md`, `r
 1. **Gericht schreiben** unter `gerichte/<name>.md`. Die Zutatentabelle verlinkt jede Zeile auf das Zutatenkonzept, die Ablaufschritte verlinken auf die Techniken.
 2. **Fehlende Zutaten anlegen**, jede als eigene Datei in ihrer Warengruppe. Keine Sammel-Datei „Gewürze", auch nicht für Salz.
 3. **Fehlende Techniken anlegen**, jede als eigene Datei. Wenn ein Schritt eine Technik nur benutzt, gehört die Erklärung in die Technik, nicht in das Rezept. Das Rezept sagt „Zwiebeln [anschwitzen](/techniken/anschwitzen.md), bis sie glasig sind", nicht, wie Anschwitzen geht.
-4. **Rückverweise ergänzen.** In jeder verwendeten Zutat eine Zeile unter `# Wird verwendet in`, in jeder verwendeten Technik eine Zeile unter `# Wird gebraucht für`. Dieser Schritt wird am häufigsten vergessen und ist der einzige, der die Rückwärtssuche trägt.
-5. **Indexe aktualisieren**: die `index.md` jedes berührten Ordners und die Wurzel-`index.md`.
-6. **Bilder ablegen**, falls vorhanden, unter `assets/<gericht>.jpg`, auf etwa 1600 Pixel Kantenlänge verkleinert, und mit einem **relativen** Pfad (`../assets/…`) einbinden, damit sie auch auf GitHub angezeigt werden. Konzept-zu-Konzept-Links bleiben dagegen bundle-absolut.
-7. **`log.md` ergänzen**, neuester Eintrag oben, Datum als `## JJJJ-MM-TT`.
-8. **Validieren**: `node scripts/okf-validate.mjs bundles/rezepte --strict` aus dem Repo-Wurzelverzeichnis, oder `node scripts/check-bundles.mjs` für alle Bundles.
+4. **Abschnitt „Aufbewahren" schreiben.** Pflicht bei jedem Rezept und jeder Komponente, auch wenn die Antwort „hält sich nicht" lautet. Die drei Fragen dazu stehen in [Vorratshaltung](/guide/vorratshaltung.md).
+5. **Rückverweise ergänzen.** In jeder verwendeten Zutat eine Zeile unter `# Wird verwendet in`, in jeder verwendeten Technik eine Zeile unter `# Wird gebraucht für`. Dieser Schritt wird am häufigsten vergessen und ist der einzige, der die Rückwärtssuche trägt.
+6. **Indexe aktualisieren**: die `index.md` jedes berührten Ordners und die Wurzel-`index.md`.
+7. **Bilder ablegen**, falls vorhanden, unter `assets/<gericht>.jpg`, auf etwa 1600 Pixel Kantenlänge verkleinert, und mit einem **relativen** Pfad (`../assets/…`) einbinden, damit sie auch auf GitHub angezeigt werden. Konzept-zu-Konzept-Links bleiben dagegen bundle-absolut.
+8. **`log.md` ergänzen**, neuester Eintrag oben, Datum als `## JJJJ-MM-TT`.
+9. **Validieren**: `node scripts/okf-validate.mjs bundles/rezepte --strict` aus dem Repo-Wurzelverzeichnis, oder `node scripts/check-bundles.mjs` für alle Bundles.
 
 # Was den Graphen kaputt macht
 
@@ -71,6 +72,21 @@ Dateinamen sind klein, ohne Umlaute, mit Bindestrich: `haehnchenschenkel.md`, `r
 Stammt ein Gericht aus einer eigenen Notiz, gehört diese als `sources`-Eintrag mit `author: human:sascha` ins Frontmatter, verlinkte Videos und Rezeptseiten als eigene Einträge daneben. `generated.by` bleibt davon unberührt: dort steht, wer den Konzepttext geschrieben hat, nicht woher das Rezept stammt.
 
 Wird eine dünne Notiz aus einer fremden Quelle aufgefüllt, muss im Text stehen, wo die Notiz endet und die Ergänzung beginnt. Liegt gar keine Anleitung vor, bekommt das Konzept `status: draft` und eine Liste der offenen Punkte, wie beim [Pulled Beef](/gerichte/pulled-beef.md). `verified` wird nie vorsorglich gesetzt: es steht für ein tatsächlich nachgekochtes und bestätigtes Rezept.
+
+# Das Feld `aufbewahrung`
+
+Jedes `Rezept` und jede `Rezeptkomponente` trägt es. Es fasst zusammen, was der Abschnitt „Aufbewahren" im Text ausführt, und macht die Ebene maschinenlesbar, so dass sich das Bundle nach „was kann ich vorkochen" filtern lässt:
+
+```yaml
+aufbewahrung:
+  eignung: gut            # gut | eingeschränkt | schlecht, gerne mit Zusatz
+  kuehlschrank: 3 bis 4 Tage
+  gefrierfach: 3 Monate   # oder: nicht empfohlen
+```
+
+Weitere Schlüssel sind erlaubt, wo sie etwas beitragen, etwa `raumtemperatur` bei [Brownies](/gerichte/brownies.md). Wo sich Bestandteile unterschiedlich verhalten, sagt das der Wert selbst: bei der [Shakshuka](/gerichte/shakshuka.md) steht `Sauce 3 Monate, Eier nie`. Die Zeitangaben sind Qualitätsgrenzen und keine Sicherheitsgarantien, und sie gehören nicht geraten: wo eine Angabe unsicher ist, gehört das in den Text, nicht in ein glattes Feld.
+
+Die Zutatenkonzepte bleiben davon unberührt. Sie behandeln unter „Einkauf und Lagerung" das rohe Lebensmittel vor dem Kochen, `aufbewahrung` behandelt das fertige Gericht danach.
 
 # Was in ein Zutatenkonzept gehört
 

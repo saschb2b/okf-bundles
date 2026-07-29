@@ -1,7 +1,7 @@
 ---
 type: Küche
 title: Indische Küche
-description: Wie ein indisches Curry aufgebaut wird: Gewürze im Fett aufschließen, Zwiebelbasis, Säure, Bindung, und in welcher Reihenfolge das passiert.
+description: "Wie ein indisches Curry aufgebaut wird: Gewürze im Fett aufschließen, Zwiebelbasis, Säure, Bindung, und in welcher Reihenfolge das passiert."
 tags: [kueche, indien, curry, gewuerze]
 generated:
   by: claude-code/opus-5

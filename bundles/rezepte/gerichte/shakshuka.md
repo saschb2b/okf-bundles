@@ -10,10 +10,14 @@ zeit_gesamt: 35 Minuten
 schwierigkeit: einfach
 allergene: [Ei]
 vorab: Die Sauce lässt sich vorkochen, die Eier kommen frisch hinein
-tags: [ein-topf, eier, fruehstueck, vegetarisch, tomate]
+aufbewahrung:
+  eignung: gut, aber nur die Sauce
+  kuehlschrank: Sauce 4 Tage, mit Ei 1 Tag
+  gefrierfach: Sauce 3 Monate, Eier nie
+tags: [ein-topf, eier, fruehstueck, vegetarisch, tomate, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Shakshuka.md
@@ -64,6 +68,17 @@ Für 2 Personen.
 - Das Eiweiß ist vollständig gestockt, das Eigelb läuft beim Anstechen.
 - Die Sauce steht, sie ist nicht wässrig, und trennt sich nicht.
 - Man kann Brot hineintunken, ohne dass es sofort auseinanderfällt.
+
+# Aufbewahren
+
+Das Gericht besteht aus zwei Teilen, die sich völlig unterschiedlich lagern, und genau diese Trennung macht die Shakshuka zu einem der praktischsten Vorratsgerichte dieses Bundles: **die Sauce ist der Vorrat, das Ei ist die Frischarbeit.**
+
+- **Die Sauce, Kühlschrank.** 4 Tage. [Abgekühlt](/techniken/abkuehlen.md) und in Portionen für je zwei Eier [abgefüllt](/techniken/portionieren.md).
+- **Die Sauce, Gefrierfach.** 3 Monate. Eine reine Paprika-Tomaten-Sauce ohne Milchprodukte und ohne Stärke friert nahezu verlustfrei ein.
+- **Die fertigen Eier.** Halten nicht. Pochiertes Eiweiß wird beim Aufwärmen gummiartig und wässert aus, einfrieren scheidet ganz aus. Fertige Shakshuka mit Ei hält im Kühlschrank einen Tag und wird dabei nicht besser.
+- **Aus dem Vorrat.** Sauce im Topf erhitzen, bis sie blubbert, Mulden ziehen und die Eier frisch [hineinpochieren](/techniken/eier-in-sauce-pochieren.md). Vom Gefrierfach bis zum Teller sind das etwa 15 Minuten, und das Ergebnis ist von frisch gekocht nicht zu unterscheiden.
+
+Damit lohnt es sich, die Sauce gleich in der doppelten oder dreifachen Menge zu kochen. Sie ist außerdem die Basis, die sich für andere Zwecke abzweigen lässt, etwa als Tomatensauce für [Pizzaschnecken](/gerichte/pizzaschnecken.md).
 
 # Tipps
 

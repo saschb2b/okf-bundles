@@ -10,10 +10,14 @@ zeit_gesamt: 90 Minuten inklusive Quellen und Abkühlen
 schwierigkeit: einfach
 allergene: []
 vorab: Reis kann am selben Tag gekocht werden, muss aber vollständig abkühlen
-tags: [japan, reis, snack, bento, fingerfood]
+aufbewahrung:
+  eignung: gut, aber nur im Gefrierfach
+  kuehlschrank: nicht empfohlen
+  gefrierfach: 1 Monat, ohne Nori
+tags: [japan, reis, snack, bento, fingerfood, vorrat]
 generated:
   by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  at: 2026-07-29T21:00:00Z
 sources:
   - id: notiz
     resource: obsidian-vault:Onigiri.md
@@ -69,6 +73,17 @@ Ausführlich in [Sushi-Reis](/komponenten/sushi-reis.md); hier der Ablauf in Kur
 - Das Onigiri hält in der Hand, zerfällt aber beim Abbeißen in einzelne Körner.
 - Die Würzung ist leicht süß-säuerlich, das Salz steht im Hintergrund.
 - Der Reis glänzt, die Körner sind ganz und nicht zerdrückt.
+
+# Aufbewahren
+
+Onigiri sind das Gegenbeispiel zur Regel „Reste kommen in den Kühlschrank". Bei Kühlschranktemperatur retrogradiert die Stärke des Reises am schnellsten: die Körner werden hart, trocken und kreidig, und zwar innerhalb von Stunden. Das Gefrierfach überspringt diesen Bereich und ist deshalb die bessere Lagerung, nicht die schlechtere.
+
+- **Am selben Tag.** Bei Raumtemperatur, in Frischhaltefolie gewickelt, bis zu einem Tag. So werden sie in Japan als Bentō mitgenommen.
+- **Kühlschrank.** Nicht empfohlen, aus dem genannten Grund.
+- **Gefrierfach.** 1 Monat. Einzeln fest in Folie wickeln und [einfrieren](/techniken/einfrieren.md), am besten noch leicht warm, damit die Eigenfeuchte im Reis eingeschlossen wird.
+- **Aufwärmen.** In der Folie 1 bis 2 Minuten in die Mikrowelle, danach kurz offen stehen lassen. Der eingeschlossene Dampf macht den Reis wieder weich.
+
+Zwei Dinge gehören nicht mit ins Gefrierfach. Das [Noriblatt](/zutaten/grundzutaten/noriblatt.md) kommt erst nach dem Auftauen dazu, sonst ist es weich statt knusprig. Und frische oder rohe Füllungen eignen sich nicht: eingefroren werden nur Onigiri mit gegarter, salziger oder eingelegter Füllung.
 
 # Tipps
 
