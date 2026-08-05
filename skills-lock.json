@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "no-slop": {
+      "source": "saschb2b/skills",
+      "sourceType": "github",
+      "skillPath": "skills/productivity/no-slop/SKILL.md",
+      "computedHash": "4ca572b5f47c3dbbf9f1824c7f7002ead7efc99fa9edfaefb1b8ddac098f20c2"
+    },
     "okf": {
       "source": "saschb2b/skills",
       "sourceType": "github",
