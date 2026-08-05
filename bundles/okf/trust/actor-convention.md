@@ -5,13 +5,12 @@ description: One identity syntax for every by and author field, and the one rule
 tags: [trust, actors, identity, v0.2]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-06T00:00:00Z
 sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF v0.2 specification, section 7"
-    author: team:google-cloud
     last_modified: 2026-07-24
 ---
 
@@ -33,11 +32,15 @@ An agent writing a concept records itself. In this repo, that is `claude-code/op
 
 `human:` is correct when a person typed the words, or when a person read the concept and signed it off in `verified`.
 
-# An open ambiguity: `team:`
+# An open ambiguity: `team:`, and how it bit this bundle
 
 The three forms above are what §7 lists. The spec's own §5.1 example then writes `author: team:ga4-docs`, which §7 does not permit, and the contradiction is open in the tracker as an unanswered erratum. See [open questions](/ecosystem/open-questions.md).
 
-This bundle follows the §5.1 example and uses `team:` for organizational authors, so if §7 wins those entries become nonconforming. Naming the ambiguity beats guessing which way it resolves. A validator built from the §7 list alone will flag them, and one built from the general `prefix:value` shape will not, which is a good illustration of why the [conformance corpus proposal](/ecosystem/open-questions.md) matters.
+This bundle originally followed the §5.1 example and wrote `team:` for organizational authors, in 47 places. Then a real consumer ruled. OKF Studio implements §7 as written and flagged every one as a validation warning, while this repo's own validator, built from the general `prefix:value` shape, accepted them all. When a spec and its own example disagree, consumers implement the rule text, and the producer eats the difference.
+
+The resolution followed [core frontmatter](/spec/core-frontmatter.md)'s rule: drop a field you cannot fill honestly. An organization is not an agent, a person, or a process, so the `author` fields came out and the organization names stay in each source's `title`, where no convention constrains them. Shoehorning `team:google-cloud` into `process:google-cloud` would have traded a visible warning for a quiet lie.
+
+Two validators disagreeing over 47 fields in one bundle is also the whole argument for the [conformance corpus proposal](/ecosystem/open-questions.md) in miniature.
 
 # Choosing a version string
 

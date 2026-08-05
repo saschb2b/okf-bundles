@@ -11,7 +11,6 @@ sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF v0.2 specification, section 5.1"
-    author: team:google-cloud
     last_modified: 2026-07-24
 ---
 
@@ -22,7 +21,6 @@ sources:
   - id: ga4-schema
     resource: https://developers.google.com/analytics/bigquery/export-schema
     title: GA4 BigQuery Export schema
-    author: team:ga4-docs
     usage_count: 5000
     last_modified: 2026-05-30
 usage_window: { from: 2026-06-01, to: 2026-06-30 }

@@ -6,12 +6,11 @@ tags: [spec, links, graph, traversal]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 generated:
   by: claude-code/fable-5
-  at: 2026-08-05T22:00:00Z
+  at: 2026-08-06T00:00:00Z
 sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF v0.2 specification, section 6"
-    author: team:google-cloud
     last_modified: 2026-07-24
 ---
 
@@ -22,6 +21,8 @@ sources:
 
 `Relative`
 : An ordinary relative path resolved from the linking file's directory: `customers.md`, `../policies/revenue.md`.
+
+Consumer support splits along this line, and a producer should know it before choosing. The spec recommends bundle-absolute. Google's reference visualizer builds no edges from that form, GitHub renders it as a broken link, and OKF Studio resolves it while advising relative targets for portability. This bundle follows the spec and accepts the friction, and [open questions](/ecosystem/open-questions.md) tracks the gap.
 
 Path-valued frontmatter fields (`sources[].resource`, `computation`, `executor.resource`, `attester.resource`) accept an absolute URL, a bundle-absolute path, or a relative path.[^spec]
 

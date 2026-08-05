@@ -13,7 +13,6 @@ sources:
   - id: tracker
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/issues
     title: "OKF issue tracker, read 2026-08-05"
-    author: team:google-cloud
     last_modified: 2026-08-05
 ---
 

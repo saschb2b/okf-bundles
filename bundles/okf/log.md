@@ -1,5 +1,12 @@
 # Change log
 
+## 2026-08-06
+
+* **Update**: Resolved the `team:` actor erratum this bundle had carried deliberately since its ecosystem research. OKF Studio's compatibility report flagged all 44 warnings in the bundle, every one the same defect: `sources.author "team:..." is not an actor`. Studio implements §7 as written, this repo's validator accepts any `prefix:value`, and two validators disagreeing over the same fields is the conformance-corpus argument in miniature.
+  * Removed all 47 `author: team:*` lines across 40 concepts, per the bundle's own rule to drop a field you cannot fill honestly rather than shoehorn an organization into `producer/version` or `process:` form. The organization names remain in each source's `title`. The two surviving `team:` mentions are prose quoting the spec's contradictory example, which is the point of those passages.
+  * `trust/actor-convention.md` now tells the story to its end: the bundle followed the spec's example, a consumer implemented the rule text instead, and the producer ate the difference.
+  * Studio's remaining 519 findings are advice, not warnings: it suggests relative link targets over the bundle-absolute form. Left as authored, because the spec recommends bundle-absolute and this bundle follows the spec. `spec/cross-linking.md` now states the consumer split (reference visualizer, GitHub, and Studio each handle the two forms differently) so a producer can choose with open eyes.
+
 ## 2026-08-05
 
 * **Creation**: Built the `okf` bundle: OKF explained as a conformant OKF bundle. An `overview.md` entry point plus six domains and a references folder.

@@ -11,12 +11,10 @@ sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF v0.2 specification, reference implementations"
-    author: team:google-cloud
     last_modified: 2026-07-24
   - id: announcement
     resource: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/
     title: "How the Open Knowledge Format can improve data sharing"
-    author: team:google-cloud
 ---
 
 # What is in it

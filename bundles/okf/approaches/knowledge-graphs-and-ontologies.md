@@ -10,7 +10,6 @@ sources:
   - id: rdf-primer
     resource: https://www.w3.org/TR/rdf11-primer/
     title: "RDF 1.1 Primer (W3C Working Group Note, 24 June 2014)"
-    author: team:w3c
     last_modified: 2014-06-24
 ---
 

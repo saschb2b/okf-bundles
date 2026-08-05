@@ -10,7 +10,6 @@ sources:
   - id: agents-md
     resource: https://agents.md/
     title: "AGENTS.md, an open format for guiding coding agents"
-    author: team:agentic-ai-foundation
 ---
 
 # What it is

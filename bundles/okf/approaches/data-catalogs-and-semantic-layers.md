@@ -10,11 +10,9 @@ sources:
   - id: dbt-sl
     resource: https://docs.getdbt.com/docs/build/semantic-models
     title: "dbt semantic models and the dbt Semantic Layer"
-    author: team:dbt-labs
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF v0.2 specification, non-goals, and deferred items"
-    author: team:google-cloud
     last_modified: 2026-07-24
 ---
 

@@ -10,7 +10,6 @@ sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
     title: "OKF v0.2 specification"
-    author: team:google-cloud
     last_modified: 2026-07-24
   - id: skill
     resource: https://github.com/saschb2b/skills

@@ -13,16 +13,13 @@ sources:
   - id: repo
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog
     title: "GoogleCloudPlatform/knowledge-catalog, repository metadata and issue tracker"
-    author: team:google-cloud
     last_modified: 2026-08-05
   - id: announcement
     resource: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/
     title: "How the Open Knowledge Format can improve data sharing"
-    author: team:google-cloud
   - id: gitbook
     resource: https://www.gitbook.com/blog/what-is-okf-open-knowledge-format
     title: "GitBook, What is OKF? Understanding Google's Open Knowledge Format"
-    author: team:gitbook
 ---
 
 # Read this as a dated snapshot

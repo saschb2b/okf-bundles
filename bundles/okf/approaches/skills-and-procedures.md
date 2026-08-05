@@ -11,7 +11,6 @@ sources:
   - id: agent-skills
     resource: https://agentskills.io/
     title: "Agent Skills, an open format for extending agent capabilities"
-    author: team:agentskills
 ---
 
 # What it is
