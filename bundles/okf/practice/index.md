@@ -10,7 +10,7 @@ The producer's side, the consumer's side, and the bookkeeping that decides wheth
 # Producing
 
 - [Authoring a bundle](authoring-a-bundle.md) - From empty directory to a validated bundle, and the bookkeeping that keeps it from rotting.
-- [External references](external-references.md) - Pulling a webpage or a doc into a bundle as a Reference concept that stands alone offline.
+- [External references](external-references.md) - Pulling a webpage or a doc into a bundle as a Reference concept that stands alone offline, and the copyright line between summarizing a source and mirroring it.
 - [Validation](validation.md) - What the checker errors on, what it warns on, what --strict gates, and what no checker can tell you.
 - [Graph hygiene](graph-hygiene.md) - No orphans, no concept-to-index links, and the difference between a valid bundle and a navigable one.
 

@@ -14,16 +14,16 @@ The Open Knowledge Format, explained as an OKF bundle, in 63 concepts. OKF is Go
 # Why context is the problem
 
 - [How an agent's context works](context/index.md) - 5 concepts. The context window as a desk that is cleared every turn, the assembly step that fills it, the gap between world knowledge and yours, why your knowledge is scattered across surfaces no agent can read, and the history of why one agreed format beats a better bespoke one.
-- [The current toolbox, honestly](approaches/index.md) - 14 concepts. Prompt stuffing, fine-tuning, retrieval with its four failure modes and how to run it alongside a bundle, the "bigger windows will fix it" objection, tools and MCP, Agent Skills, briefing files, data catalogs and semantic layers, knowledge graphs and ontologies, the LLM-wiki and second-brain lineage OKF descends from, and format versus protocol.
+- [The current toolbox, honestly](approaches/index.md) - 14 concepts. Prompt stuffing, fine-tuning, retrieval with its four failure modes and how to run it alongside a bundle, the "bigger windows will fix it" objection, tools and MCP, Agent Skills, briefing files, data catalogs and semantic layers, knowledge graphs and ontologies, the LLM-wiki and Obsidian-style second-brain lineage OKF descends from, and format versus protocol.
 
 # The format
 
 - [The v0.2 specification, worked through](spec/index.md) - 13 concepts. Bundles, concept documents, concept IDs, core frontmatter, body conventions, cross-linking, index and log files, conformance, versioning, extensions, design principles, and non-goals.
-- [The trust layer](trust/index.md) - 8 concepts. What v0.2 added and why: sources with credibility signals, generated and verified, the three trust tiers, the actor convention, status and stale_after, attested computations, and verification versus attestation.
+- [The trust layer](trust/index.md) - 8 concepts. What v0.2 added and why: sources with credibility signals, generated and verified, the three trust tiers, the actor convention, status and stale_after, attested computations, verification versus attestation, and the security questions the layer leaves open.
 
 # Using it
 
-- [Practice](practice/index.md) - 10 concepts. A first bundle, the authoring procedure and the bookkeeping that stops rot, the consumer's loop, progressive disclosure, validation, graph hygiene, migration from v0.1, external references, distribution, and what to do on Monday.
+- [Practice](practice/index.md) - 10 concepts. A first bundle, the authoring procedure and the bookkeeping that stops rot, the consumer's loop, progressive disclosure, validation, graph hygiene, migration from v0.1, external references and their copyright line, distribution, and what to do on Monday.
 
 # Where it stands
 

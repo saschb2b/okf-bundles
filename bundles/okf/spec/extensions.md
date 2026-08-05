@@ -2,11 +2,11 @@
 type: Spec Element
 title: Extensions and unknown keys
 description: Producers may add any frontmatter key, and consumers preserve what they do not understand.
-tags: [spec, extensibility, frontmatter, tags]
+tags: [spec, extensibility, frontmatter, tags, language]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-05T23:30:00Z
 sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
@@ -26,6 +26,12 @@ OKF defines no schema to register against. A producer adds the fields its domain
 A domain gets to be specific without waiting for the spec. A legal bundle adds `gericht`, `aktenzeichen`, and `fundstelle` to a decision concept. A data bundle adds `partition_column` and `row_count`. Both stay conformant, both stay readable by a generic viewer, and both keep their domain fields when a tool round-trips the file.
 
 The cost is real and worth naming: an extension is local. Another team's consumer will not know what `aktenzeichen` means, so put anything a stranger needs in `type`, `title`, `description`, and the body, and treat extensions as a bonus for consumers that know your domain.
+
+# Language is unconstrained
+
+Nothing in [conformance](/spec/conformance.md) is English-specific. `type` values, titles, descriptions, and bodies can be written in any language, and the checker never inspects the words. The proof runs at scale in [this repository](/ecosystem/okf-bundles-repo.md): the German-language law and recipe bundles are conformant without any special field.
+
+What the spec lacks is a way to *declare* language: no `lang` key, no way to mark one concept as a translation of another. An upstream proposal (`#49`) asks for optional `lang` and `canonical` fields for multilingual concepts, and it has not landed. Until it does, a `lang:` key is an ordinary producer extension: consumers that know it can filter on it, and everyone else carries it through.
 
 # Tags are first-class and have no special file
 

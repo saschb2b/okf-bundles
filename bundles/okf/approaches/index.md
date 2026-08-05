@@ -14,7 +14,7 @@ Every way people get knowledge to an agent today, with honest definitions and th
 - [Tools and MCP](tools-and-mcp.md) - Letting the agent go and look: solves reach, not meaning.
 - [Skills and procedures](skills-and-procedures.md) - Packaging what an agent should do, as against what is true. The closest neighbour to OKF, and the cleanest complement.
 - [Briefing files (AGENTS.md and friends)](briefing-files.md) - Writing the agent a briefing file: astonishingly effective, standardized in location, and unstandardized in everything it says.
-- [LLM wikis and second brains](llm-wikis.md) - The compiled-knowledge pattern OKF descends from, why it is not dead, and how personal knowledge tools connect to it.
+- [LLM wikis and second brains](llm-wikis.md) - The compiled-knowledge pattern OKF descends from, why it is not dead, and what an Obsidian vault or a `[[wikilink]]` habit needs before it is a bundle.
 
 # The structured alternatives
 

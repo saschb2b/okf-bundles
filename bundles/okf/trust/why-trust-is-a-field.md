@@ -4,8 +4,8 @@ title: Why trust became a field
 description: An agent-written corpus has nobody to blame, so the consumer has to judge each concept on explicit signals.
 tags: [trust, v0.2, motivation]
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-05T23:30:00Z
 sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
@@ -43,6 +43,18 @@ The corollary is a rule the whole layer rests on: never write [`verified`](/trus
 # It is all optional
 
 None of these fields can make a bundle non-conformant. v0.2 adds vocabulary, not rules, and a bundle that adopts none of it is exactly as valid as before. See [conformance](/spec/conformance.md).
+
+# What the layer does not cover
+
+The five questions above are about believing content that arrived intact. Two security questions sit outside the layer, and a reader assessing OKF for production should know both are open rather than answered.
+
+`Authenticity`
+: Nothing in v0.2 proves a bundle comes from who it claims, unaltered. Signing and manifest proposals exist upstream and none has landed.
+
+`Safety`
+: A bundle is text an agent reads, and the spec says nothing about treating that text as data rather than instructions. Prompt injection through a poisoned concept is unaddressed, and the drafted trust-and-safety section sits in an unmerged pull request.
+
+Both are tracked with issue numbers in [open questions](/ecosystem/open-questions.md), which splits trust into four axes and shows which two the spec answers today.
 
 # Related
 

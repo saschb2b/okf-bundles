@@ -12,7 +12,7 @@ OKF v0.2, worked through. Where any concept here and the [upstream specification
 
 - [Core frontmatter fields](core-frontmatter.md) - type, title, description, resource, and tags: the cover sheet a consumer scans before opening the body.
 - [Body conventions](body-conventions.md) - Conventional headings, why structure beats prose, and picking the sharpest markdown form for a fact.
-- [Extensions and unknown keys](extensions.md) - Producers may add any frontmatter key, and consumers preserve what they do not understand.
+- [Extensions and unknown keys](extensions.md) - Producers may add any frontmatter key, and consumers preserve what they do not understand. Also covers language: nothing in conformance is English-specific.
 
 # Navigation and the graph
 
