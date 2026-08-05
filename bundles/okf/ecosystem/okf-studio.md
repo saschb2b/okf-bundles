@@ -41,7 +41,7 @@ The general point is not about one app. A deliberately minimal reference consume
 # What it does
 
 `Understand`
-: A force-directed graph beside a reader, with treemap and sunburst views, search, filters and live reload.
+: A force-directed graph beside a reader, with treemap and sunburst views, search, filters, and live reload.
 
 `Ask`
 : Run your own agent beside the bundle. Retrieval hands back a receipt for every selection, which is the route-reporting described in [consuming a bundle](/practice/consuming-a-bundle.md).

@@ -36,7 +36,7 @@ Each principle has teeth because it rejects something that would otherwise be te
 - Minimal opinion rules out a fixed taxonomy of types, which would have made every bundle a negotiation.
 - Independence rules out a reference implementation that any producer must run.
 - Format-not-platform rules out a hosted registry, and with it the account, the pricing page, and the shutdown risk.
-- Trust-as-data rules out a single credibility score, which would be subjective, unportable and stale the moment it was written. The [`sources`](/trust/sources.md) design follows directly.
+- Trust-as-data rules out a single credibility score, which would be subjective, unportable, and stale the moment it was written. The [`sources`](/trust/sources.md) design follows directly.
 
 # The consequence for adoption
 

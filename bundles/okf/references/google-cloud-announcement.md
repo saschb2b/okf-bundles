@@ -16,7 +16,7 @@ sources:
 
 # The framing
 
-The announcement introduces OKF from the data-sharing side rather than the prompting side: the problem is that meaning does not travel with data between producers and consumers, and every agent, tool and team reconstructs it.
+The announcement introduces OKF from the data-sharing side rather than the prompting side: the problem is that meaning does not travel with data between producers and consumers, and every agent, tool, and team reconstructs it.
 
 That framing explains two design choices that look odd from a pure agent-context view:
 

@@ -25,7 +25,7 @@ sources:
 `A subdirectory inside a larger repo`
 : `docs/knowledge/`, or a folder next to the service it documents. The knowledge moves with the code it is about.
 
-There is no installer and no package manager. OKF has no standard install command, so a bundle is something you clone or point an agent at. A community directory now indexes published bundles and exposes a JSON API and an MCP server, which makes bundles discoverable without making them installable. See [community tools](/ecosystem/community-tools.md).
+OKF has no installer and no package manager. OKF has no standard install command, so a bundle is something you clone or point an agent at. A community directory now indexes published bundles and exposes a JSON API and an MCP server, which makes bundles discoverable without making them installable. See [community tools](/ecosystem/community-tools.md).
 
 # What git gives the knowledge
 
@@ -33,7 +33,7 @@ Putting a bundle in version control transfers properties the knowledge did not h
 
 - **Review.** A change to the revenue definition arrives as a pull request, with a diff a person can read.
 - **Blame.** `git blame` says who changed the caveat and when, independently of what the [frontmatter](/trust/generated-and-verified.md) claims.
-- **Atomicity.** The concept, its links and its log entry land in one commit.
+- **Atomicity.** The concept, its links, and its log entry land in one commit.
 - **Rollback.** A bad definition is one revert away.
 
 This is also the argument for keeping the bundle next to the code rather than in a separate knowledge repo: the schema change and the concept describing it can be the same pull request.

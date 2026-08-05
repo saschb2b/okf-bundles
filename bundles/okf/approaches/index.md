@@ -24,7 +24,7 @@ Every way people get knowledge to an agent today, with honest definitions and th
 # Where retrieval breaks, and what to do
 
 - [Four ways retrieval lets an agent down](retrieval-failure-modes.md) - Shredding, similarity, missing relationships, and missing accountability.
-- [OKF versus retrieval](okf-versus-retrieval.md) - Side by side on unit, selection, structure, trust and review, and the split that says which to use where.
+- [OKF versus retrieval](okf-versus-retrieval.md) - Side by side on unit, selection, structure, trust, and review, plus the split that says which to use where.
 - [Running retrieval and OKF together](retrieval-and-okf-together.md) - Four ways a bundle improves an existing retrieval stack, and a diagnostic for whether yours is actually failing.
 
 # The distinction people miss

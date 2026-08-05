@@ -19,17 +19,17 @@ sources:
 
 Producers **MAY** include any additional frontmatter keys. Consumers **SHOULD** preserve unknown keys when round-tripping and **SHOULD NOT** reject documents that carry them.[^spec]
 
-There is no schema to register against. A producer adds the fields its domain needs, and a consumer that does not recognize them carries them through instead of dropping them.
+OKF defines no schema to register against. A producer adds the fields its domain needs, and a consumer that does not recognize them carries them through instead of dropping them.
 
 # What this buys
 
-A domain gets to be specific without waiting for the spec. A legal bundle adds `gericht`, `aktenzeichen` and `fundstelle` to a decision concept. A data bundle adds `partition_column` and `row_count`. Both stay conformant, both stay readable by a generic viewer, and both keep their domain fields when a tool round-trips the file.
+A domain gets to be specific without waiting for the spec. A legal bundle adds `gericht`, `aktenzeichen`, and `fundstelle` to a decision concept. A data bundle adds `partition_column` and `row_count`. Both stay conformant, both stay readable by a generic viewer, and both keep their domain fields when a tool round-trips the file.
 
-The cost is real and worth naming: an extension is local. Another team's consumer will not know what `aktenzeichen` means, so put anything a stranger needs in `type`, `title`, `description` and the body, and treat extensions as a bonus for consumers that know your domain.
+The cost is real and worth naming: an extension is local. Another team's consumer will not know what `aktenzeichen` means, so put anything a stranger needs in `type`, `title`, `description`, and the body, and treat extensions as a bonus for consumers that know your domain.
 
 # Tags are first-class and have no special file
 
-`tags` is a recommended [core field](/spec/core-frontmatter.md), and OKF defines no format for aggregating documents by tag. There is no `tags/` directory and no tag registry. A consumer that wants a tag-browsing view synthesizes it at consumption time by scanning frontmatter.
+`tags` is a recommended [core field](/spec/core-frontmatter.md), and OKF defines no format for aggregating documents by tag. OKF defines no `tags/` directory and no tag registry. A consumer that wants a tag-browsing view synthesizes it at consumption time by scanning frontmatter.
 
 That follows the same principle as index files: the bundle holds the data, and views over it are the consumer's job.
 

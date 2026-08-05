@@ -39,7 +39,7 @@ Authorship and confirmation are different events, usually by different actors. A
 
 # The rule that holds the layer up
 
-**Never backfill `verified`.** It records a confirmation that actually happened. Writing it because a concept looks right, or because a pipeline wants every page to appear reviewed, silently promotes the bundle's trust tier and makes "show only human-reviewed metrics" a filter that returns unreviewed metrics.
+**Never backfill `verified`.** It records a confirmation that actually happened. Writing it because a concept looks right, or because a pipeline wants every concept to appear reviewed, silently promotes the bundle's trust tier and makes "show only human-reviewed metrics" a filter that returns unreviewed metrics.
 
 Omit the field until a real human or process confirms the concept. Absence is a valid, meaningful state: it means unverified, and a consumer **MUST NOT** reject a concept for it.
 

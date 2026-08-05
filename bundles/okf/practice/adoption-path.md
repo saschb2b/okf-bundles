@@ -14,7 +14,7 @@ generated:
 
 **02. Write the five files that answer it.** [Frontmatter with a `type`](/spec/conformance.md), a body, and [links between them](/spec/cross-linking.md). That is a conformant bundle. The five files are usually the definition, the policy behind it, the table or system it reads, the sanctioned query, and the caveat everyone forgets. [Your first bundle](/practice/first-bundle.md) is those five files written out, in a copyable example that validates.
 
-**03. Put it in the repo next to the code.** Now it gets reviewed, diffed and blamed like everything else you trust. See [distribution](/practice/distribution.md).
+**03. Put it in the repo next to the code.** Now it gets reviewed, diffed, and blamed like everything else you trust. See [distribution](/practice/distribution.md).
 
 # The one rule while you do it
 

@@ -1,7 +1,7 @@
 ---
 type: Rationale
 title: Why trust became a field
-description: An agent-written corpus has nobody to blame, so the consumer has to judge each page on explicit signals.
+description: An agent-written corpus has nobody to blame, so the consumer has to judge each concept on explicit signals.
 tags: [trust, v0.2, motivation]
 generated:
   by: claude-code/opus-5
@@ -22,7 +22,7 @@ A human wiki page comes with someone to blame. An agent's does not. When ten tho
 
 # Five questions, answerable from the cover sheet
 
-The consumer has to judge each page on explicit signals, before reading a word of the body:
+The consumer has to judge each concept on explicit signals, before reading a word of the body:
 
 | Question | Field |
 | --- | --- |

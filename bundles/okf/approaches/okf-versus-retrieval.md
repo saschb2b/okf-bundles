@@ -1,7 +1,7 @@
 ---
 type: Comparison
 title: OKF versus retrieval
-description: Side by side on unit, selection, structure, trust and review, and the split that says which to use where.
+description: Side by side on unit, selection, structure, trust, and review, plus the split that says which to use where.
 tags: [rag, comparison, positioning]
 generated:
   by: claude-code/opus-5

@@ -27,7 +27,7 @@ Consumers **SHOULD** derive trust tiers and staleness only from the specified fi
 
 # The tier is derived, never declared
 
-There is no `trust:` key. A producer cannot write "trust me". The tier falls out of who actually signed, which is why [the actor convention](/trust/actor-convention.md) matters more than it looks: consumers key off the `human:` prefix, so writing `human:` for agent-generated content inflates the tier of every page it touches.
+OKF defines no `trust:` key. A producer cannot write "trust me". The tier falls out of who actually signed, which is why [the actor convention](/trust/actor-convention.md) matters more than it looks: consumers key off the `human:` prefix, so writing `human:` for agent-generated content inflates the tier of every concept it touches.
 
 # What it is for
 
@@ -41,7 +41,7 @@ Useful gates, in rough order of strictness:
 
 # Unverified is not rejected
 
-A consumer **MUST NOT** reject a concept for missing `verified`. The tier is an input to a decision, not a validity check. Most of a healthy bundle will sit at unverified, because review is expensive and most knowledge does not need it. The tier exists so the pages that *do* need it can be told apart.
+A consumer **MUST NOT** reject a concept for missing `verified`. The tier is an input to a decision, not a validity check. Most of a healthy bundle will sit at unverified, because review is expensive and most knowledge does not need it. The tier exists so the concepts that *do* need it can be told apart.
 
 # Combine it with freshness
 

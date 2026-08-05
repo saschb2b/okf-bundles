@@ -4,8 +4,8 @@ title: A bigger window is not a fix
 description: "\"Context windows keep growing, so this solves itself.\" Why capacity is not the binding constraint."
 tags: [approach, context, long-context, objection]
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T14:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-05T22:00:00Z
 sources:
   - id: lost-in-the-middle
     resource: https://arxiv.org/abs/2307.03172
@@ -22,10 +22,10 @@ It is the most reasonable-sounding objection in the set, because the trend is re
 # Four reasons it does not follow
 
 `Recall is not uniform across the window`
-: Performance is highest when the relevant information sits at the start or the end of the input and degrades measurably when the model must use something in the middle of a long context. The effect persists in models built for long inputs.[^lost-in-the-middle] Adding more material moves the good page toward the middle, so a bigger window can make a specific answer worse.
+: Models perform best when the relevant information sits at the start or the end of the input, and measurably worse when it sits in the middle of a long context. The effect persists in models built for long inputs.[^lost-in-the-middle] More material moves the good page toward the middle, so a bigger window can make a specific answer worse.
 
 `Cost and latency scale with what you send`
-: Every token is paid for on every turn. A pipeline that ships 500,000 tokens to answer a question answerable from 3,000 is not thorough, it is expensive, and the cost recurs per call.
+: You pay for every token on every turn. A pipeline that ships 500,000 tokens to answer a question 3,000 would cover is not thorough, it is expensive, and the cost recurs per call.
 
 `Contradiction is not resolved by capacity`
 : Put the current definition and the deprecated one in the same window and the model sees two plausible statements with no way to rank them. That is [retrieval failure 02](/approaches/retrieval-failure-modes.md), unchanged. Nothing about size tells the model which one Finance approved, and only [`status` and `stale_after`](/trust/lifecycle.md) do.
@@ -35,13 +35,13 @@ It is the most reasonable-sounding objection in the set, because the trend is re
 
 # What the trend actually changes
 
-Bigger windows are genuinely useful, and they move the boundary rather than removing it. They make [prompt stuffing](/approaches/prompt-stuffing.md) viable for larger documents, they let an agent hold a longer traversal without re-reading, and they reduce how aggressively [assembly](/context/context-assembly.md) has to prune.
+Bigger windows are genuinely useful, and they move the boundary rather than removing it. They make [prompt stuffing](/approaches/prompt-stuffing.md) viable for larger documents. They let an agent hold a longer traversal without re-reading. They reduce how aggressively [assembly](/context/context-assembly.md) has to prune.
 
 None of that removes selection. Something still decides what goes in and in what order, so the question stays "which pages, and can the model tell which to trust?" rather than "how many pages fit?"
 
-# The knowledge side is unaffected
+# Capacity does not touch the knowledge side
 
-Every argument for structure survives a larger window intact. A rule still needs to arrive with its caveat. A deprecated definition still needs to be marked. A number still needs [an attested computation](/trust/attested-computation.md) behind it. A page still needs an author and a review date. None of these are capacity problems, so none of them are solved by capacity.
+Every argument for structure survives a larger window intact. A rule still needs to arrive with its caveat. A deprecated definition still needs its marker. A number still needs [an attested computation](/trust/attested-computation.md) behind it. A page still needs an author and a review date. None of these are capacity problems, so capacity solves none of them.
 
 # Related
 

@@ -1,7 +1,7 @@
 ---
 type: Reference
 title: Google's sample bundles
-description: acme_retail exercises every v0.2 feature, and GA4, Stack Overflow and Bitcoin are the regenerated v0.1 samples.
+description: acme_retail exercises every v0.2 feature, and GA4, Stack Overflow, and Bitcoin are the regenerated v0.1 samples.
 tags: [ecosystem, examples, google, acme-retail]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf
 generated:
@@ -39,7 +39,7 @@ sources:
 : Revenue recognition as its own file, cited per claim through [footnoted source ids](/trust/sources.md).
 
 `Sources with credibility signals`
-: `author`, `usage_count` and `last_modified` filled where they are known.
+: `author`, `usage_count`, and `last_modified` filled where they are known.
 
 Its layout is the worked example in [the bundle](/spec/bundle.md): `tables/`, `metrics/`, `computations/`, `policies/`, `attesters/`.
 

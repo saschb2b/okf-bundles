@@ -30,7 +30,7 @@ sources:
 : An enrichment agent built on Google ADK and Gemini. It walks a BigQuery dataset in a metadata pass, then an optional web pass that crawls seed URLs and mints `references/<slug>` concepts.
 
 `A reference consumer`
-: A single self-contained HTML visualizer that renders a bundle as a force-directed graph, with type-colored nodes, cross-link edges, backlinks, search and type filters. Deliberately minimal, and best read as an existence proof rather than a tool. It surfaces none of the [v0.2 trust layer](/trust/trust-tiers.md), and it currently builds no edges from the bundle-absolute links the spec recommends. See [open questions](/ecosystem/open-questions.md).
+: A single self-contained HTML visualizer that renders a bundle as a force-directed graph, with type-colored nodes, cross-link edges, backlinks, search, and type filters. Deliberately minimal, and best read as an existence proof rather than a tool. It surfaces none of the [v0.2 trust layer](/trust/trust-tiers.md), and it currently builds no edges from the bundle-absolute links the spec recommends. See [open questions](/ecosystem/open-questions.md).
 
 `Sample bundles`
 : Four browsable bundles under `bundles/`. See [the sample bundles](/ecosystem/sample-bundles.md).

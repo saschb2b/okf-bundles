@@ -30,7 +30,7 @@ A summary that defers to the live link is a stub. "See the GA4 export schema for
 
 Absorb the substance, and do not mirror a third party's full text. Two reasons, and they point the same way:
 
-- **Copyright.** Most documentation, commentary and paid literature is protected. Reproducing it wholesale is a licensing problem regardless of how useful it would be.
+- **Copyright.** Most documentation, commentary, and paid literature is protected. Reproducing it wholesale is a licensing problem regardless of how useful it would be.
 - **Value.** A restructured summary keyed to your bundle's vocabulary is more useful to an agent than a verbatim copy, and it is the part that survives the source changing its layout.
 
 Public-domain material is the exception worth knowing: official texts such as statutes and court decisions can be reproduced, so a legal bundle may carry a verbatim official headnote where a docs bundle may not carry a vendor's page.

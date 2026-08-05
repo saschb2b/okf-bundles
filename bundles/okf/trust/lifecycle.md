@@ -5,8 +5,8 @@ description: Knowledge with a lifecycle and an expiry date, both checkable witho
 tags: [trust, lifecycle, freshness, deprecation, v0.2]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-05T22:00:00Z
 sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
@@ -35,13 +35,13 @@ stale_after: 2026-09-23 # absolute date; stale on or after this day
 
 Deprecation is the field that earns its keep in a real corpus. The old gross-margin formula stays in the bundle so last year's report can still be reproduced, and it is never served to new work. Retrieval cannot make that distinction, because the deprecated page reads exactly like the current one. See [retrieval failure 02](/approaches/retrieval-failure-modes.md).
 
-Write the replacement into the deprecated concept as a [link](/spec/cross-linking.md), with the relationship in the prose: "superseded by the FY2026 definition in `/metrics/gross-margin.md`". A deprecated concept with no forward pointer is a dead end.
+Write the replacement into the deprecated concept as a [cross-link](/spec/cross-linking.md), with the relationship in the prose: "superseded by the FY2026 definition in `/metrics/gross-margin.md`". A deprecated concept with no forward pointer is a dead end.
 
 # `stale_after`
 
 An absolute date. A concept is stale when `today >= stale_after`.
 
-Absolute rather than a relative TTL, on purpose: staleness becomes a date comparison any dumb script can do, and it does not depend on when the concept was read or how a consumer chose to interpret "90 days". No clock skew, no arithmetic, no ambiguity.
+Absolute rather than a relative TTL, on purpose: staleness becomes a date comparison a one-line script can do, and it does not depend on when the concept was read or how a consumer chose to interpret "90 days". No clock skew, no arithmetic, no ambiguity.
 
 Set it where the expiry is real. A quarterly figure expires at quarter end. A policy expires when the policy is next reviewed. A definition of "customer" probably never expires, and a blanket `stale_after` on every concept in a bundle degrades to noise within a month.
 

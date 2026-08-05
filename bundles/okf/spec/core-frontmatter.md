@@ -1,7 +1,7 @@
 ---
 type: Spec Element
 title: Core frontmatter fields
-description: type, title, description, resource and tags: the cover sheet a consumer scans before opening the body.
+description: type, title, description, resource, and tags: the cover sheet a consumer scans before opening the body.
 tags: [spec, frontmatter, fields]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 generated:
@@ -19,13 +19,13 @@ sources:
 
 | Field | Status | Type | Meaning |
 | --- | --- | --- | --- |
-| `type` | REQUIRED | string | The kind of concept. The only always-required key. Consumers use it for routing, filtering and presentation. |
+| `type` | REQUIRED | string | The kind of concept. The only always-required key. Consumers use it for routing, filtering, and presentation. |
 | `title` | recommended | string | Display name. If omitted, a consumer **MAY** derive one from the filename. |
-| `description` | recommended | string | One sentence. Used by index generators, search snippets and previews. |
+| `description` | recommended | string | One sentence. Used by index generators, search snippets, and previews. |
 | `resource` | recommended | URI | A URI identifying the underlying asset. Absent for concepts describing abstract ideas. |
 | `tags` | recommended | list of strings | Short strings for cross-cutting categorization. |
 
-The provenance, trust and lifecycle families (`sources`, `generated`, `verified`, `status`, `stale_after`) are separate and all optional. See [sources](/trust/sources.md), [generated and verified](/trust/generated-and-verified.md), and [lifecycle](/trust/lifecycle.md).
+The provenance, trust, and lifecycle families (`sources`, `generated`, `verified`, `status`, `stale_after`) are separate and all optional. See [sources](/trust/sources.md), [generated and verified](/trust/generated-and-verified.md), and [lifecycle](/trust/lifecycle.md).
 
 # Choosing a `type`
 

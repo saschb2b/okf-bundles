@@ -4,34 +4,28 @@ okf_version: "0.2"
 
 # OKF
 
-The Open Knowledge Format, explained as an OKF bundle. Google Cloud's vendor-neutral spec (v0.2, Apache 2.0) for the context an AI agent needs: a folder of markdown files with YAML frontmatter, in git, readable with no SDK. One required field, `type`, and a v0.2 trust layer that says who wrote a page, who checked it, and whether it is still true.
+The Open Knowledge Format, explained as an OKF bundle, in 62 concepts. OKF is Google Cloud's vendor-neutral spec for the context an AI agent needs. Markdown files with YAML frontmatter, kept in git, readable with no SDK. One required field, `type`. Published under Apache 2.0, currently at v0.2.
 
-Start here: [Overview](overview.md). It carries a reading order for the format, the trust layer, and the practice.
+# Two ways in
+
+- **To write a bundle in the next hour**, read [your first bundle](practice/first-bundle.md), then copy `bundles/hello-okf/`, a five-concept worked example in this repository that validates clean.
+- **To understand the format and the case for it**, read [the overview](overview.md). It carries a reading order by what you want, this bundle's type vocabulary, and an honest note on what is and is not sourced.
 
 # Why context is the problem
 
-- [How an agent's context actually works](context/index.md) - The context window as a desk, the assembly step that fills it, the gap between world knowledge and your knowledge, and why your knowledge is scattered.
-
-# What we do about it today
-
-- [The current toolbox, honestly](approaches/index.md) - Prompt stuffing, fine-tuning, retrieval and its four failure modes, tools and MCP, briefing files, format versus protocol, and OKF versus retrieval side by side.
+- [How an agent's context works](context/index.md) - 4 concepts. The context window as a desk that is cleared every turn, the assembly step that fills it, the gap between world knowledge and yours, and why your knowledge is scattered across surfaces no agent can read.
+- [The current toolbox, honestly](approaches/index.md) - 14 concepts. Prompt stuffing, fine-tuning, retrieval with its four failure modes and how to run it alongside a bundle, the "bigger windows will fix it" objection, tools and MCP, Agent Skills, briefing files, data catalogs and semantic layers, knowledge graphs and ontologies, the LLM-wiki and second-brain lineage OKF descends from, and format versus protocol.
 
 # The format
 
-- [The v0.2 specification, worked through](spec/index.md) - Bundles, concept documents, concept IDs, core frontmatter, body conventions, cross-linking, index and log files, conformance, versioning, extensions, design principles and non-goals.
+- [The v0.2 specification, worked through](spec/index.md) - 13 concepts. Bundles, concept documents, concept IDs, core frontmatter, body conventions, cross-linking, index and log files, conformance, versioning, extensions, design principles, and non-goals.
+- [The trust layer](trust/index.md) - 8 concepts. What v0.2 added and why: sources with credibility signals, generated and verified, the three trust tiers, the actor convention, status and stale_after, attested computations, and verification versus attestation.
 
-# The trust layer
+# Using it
 
-- [What v0.2 added, and why](trust/index.md) - sources, generated and verified, trust tiers, the actor convention, status and stale_after, attested computations, and verification versus attestation.
+- [Practice](practice/index.md) - 10 concepts. A first bundle, the authoring procedure and the bookkeeping that stops rot, the consumer's loop, progressive disclosure, validation, graph hygiene, migration from v0.1, external references, distribution, and what to do on Monday.
 
-# Doing it
+# Where it stands
 
-- [Authoring, consuming, validating, shipping](practice/index.md) - The producer's procedure and bookkeeping, the consumer's loop, progressive disclosure, validation, graph hygiene, migration from v0.1, external references, distribution, and the adoption path.
-
-# In the wild
-
-- [Implementations and neighbours](ecosystem/index.md) - Google's knowledge-catalog and its sample bundles, the okf skill, OKF Studio, the okf-bundles corpus, and how OKF stacks with sitemap.xml, llms.txt and ODSF.
-
-# Sources
-
-- [The primary documents](references/index.md) - The v0.2 specification with a section map, Google's announcement post, and the talk this bundle follows.
+- [In the wild](ecosystem/index.md) - 10 concepts. Google's knowledge-catalog and sample bundles, the okf skill, OKF Studio, this repository at 62,000 files, how OKF stacks with sitemap.xml, llms.txt and ODSF, plus four dated snapshots of adoption, community tooling, the live spec debates, and governance. Those four carry `status: draft` and `stale_after`, so filter them out if you want only durable claims.
+- [References](references/index.md) - 2 concepts. The v0.2 specification with a section-to-concept map, and Google's announcement post.

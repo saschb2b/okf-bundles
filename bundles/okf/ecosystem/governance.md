@@ -18,17 +18,17 @@ sources:
 
 # Where the format lives today
 
-In one directory of one company's repository. `okf/SPEC.md` inside `GoogleCloudPlatform/knowledge-catalog`, Apache 2.0, alongside Google's own tooling and samples. Spec changes land as ordinary commits from Google engineers. The v0.2 rewrite was a single merged pull request on 2026-07-24.
+In one directory of one company's repository. `okf/SPEC.md` inside `GoogleCloudPlatform/knowledge-catalog`, Apache 2.0, alongside Google's own tooling, and samples. Spec changes land as ordinary commits from Google engineers. The v0.2 rewrite was a single merged pull request on 2026-07-24.
 
 That is a normal and effective way to start a format. It is not the structure the format's own [design principles](/spec/design-principles.md) point at, and the community has noticed.
 
 # The four gaps the tracker is asking to close
 
 `A home of its own`
-: `#43` proposes giving OKF a first-class repository, separate from Google's catalog tooling. Today the spec, the reference agent, the visualizer and Google's BigQuery work share a tree, so "the format" and "Google's implementation of the format" are not separable by URL.
+: `#43` proposes giving OKF a first-class repository, separate from Google's catalog tooling. Today the spec, the reference agent, the visualizer, and Google's BigQuery work share a tree, so "the format" and "Google's implementation of the format" are not separable by URL.
 
 `An authoritative site`
-: `#231` asks whether one is planned. There is no `okf.dev`, no canonical rendered spec, and no versioned archive of prior revisions. Compare [`llms.txt`](/ecosystem/llms-txt-and-sitemap.md), which has `llmstxt.org`, and [Agent Skills](/approaches/skills-and-procedures.md), which has `agentskills.io` plus a foundation behind it.
+: `#231` asks whether one is planned. OKF has no `okf.dev`, no canonical rendered spec, and no versioned archive of prior revisions. Compare [`llms.txt`](/ecosystem/llms-txt-and-sitemap.md), which has `llmstxt.org`, and [Agent Skills](/approaches/skills-and-procedures.md), which has `agentskills.io` plus a foundation behind it.
 
 `A place to discuss`
 : `#51` requested one and was closed. Design debate therefore happens in issue threads, where a 22-comment convergence across three independent implementations is buried in a numbered ticket that no newcomer will find.
@@ -65,7 +65,7 @@ Every merged pull request comes from the repository's regular committers, the pe
 # Three worked examples of the cost
 
 `The community proposes, the release ships it separately`
-: PR `#50` (14 June) proposed an optional `sources` frontmatter field for machine-readable provenance, complementing `# Citations`. v0.2 shipped [exactly that](/trust/sources.md) on 24 July, through Google's own bulk migration commit. The originating PR is still open, unmerged and unclosed, 52 days on.
+: PR `#50` (14 June) proposed an optional `sources` frontmatter field for machine-readable provenance, complementing `# Citations`. v0.2 shipped [exactly that](/trust/sources.md) on 24 July, through Google's own bulk migration commit. The originating PR is still open, unmerged, and unclosed, 52 days on.
 
 `The same defect, identified and then re-fixed`
 : PR `#58` (15 June) flagged that §6 and §11 contradicted each other on index frontmatter, noting a conformance checker could not satisfy both. v0.2 resolved it the way the PR proposed. Still open. The same PR also adds the trust-and-safety section that later issue threads discuss as though it exists; it does not, because the PR never merged.

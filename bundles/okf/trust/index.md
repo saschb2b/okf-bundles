@@ -2,7 +2,7 @@
 
 v0.1 answered "what does the agent need to know?" v0.2 answers "should it believe this, and is it still true?" Every field here is optional and none can make a bundle non-conformant.
 
-- [Why trust became a field](why-trust-is-a-field.md) - An agent-written corpus has nobody to blame, so the consumer has to judge each page on explicit signals.
+- [Why trust became a field](why-trust-is-a-field.md) - An agent-written corpus has nobody to blame, so the consumer has to judge each concept on explicit signals.
 
 # Provenance
 

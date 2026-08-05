@@ -5,8 +5,8 @@ description: Ordinary markdown links make a bundle a graph, and the prose around
 tags: [spec, links, graph, traversal]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-05T22:00:00Z
 sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
@@ -27,9 +27,9 @@ Path-valued frontmatter fields (`sources[].resource`, `computation`, `executor.r
 
 # The link is the edge, the prose is the label
 
-A link from A to B asserts a *relationship*. Which kind it is (a foreign key, a derivation, a supersedes, a depends-on) is conveyed by the surrounding prose, not by the link.
+A link from A to B asserts a *relationship*. The surrounding prose, not the link, conveys which kind: a foreign key, a derivation, a supersedes, a depends-on.
 
-That is a deliberate simplification. There is no typed-edge syntax to learn, no ontology to agree on, and no graph database. The graph is the markdown links you were already writing. What that trade gives up, and when a real graph is the better tool, is worked through in [knowledge graphs and ontologies](/approaches/knowledge-graphs-and-ontologies.md).
+That is a deliberate simplification. The format defines no typed-edge syntax, requires no ontology, and needs no graph database. The graph is the markdown links you already write. [Knowledge graphs and ontologies](/approaches/knowledge-graphs-and-ontologies.md) works through what that trade gives up, and when a real graph is the better tool.
 
 Write the relationship into the sentence:
 
@@ -55,11 +55,11 @@ flowchart LR
 
 Each hop is a decision a person made about what depends on what. That is the thing [retrieval cannot reconstruct](/approaches/retrieval-failure-modes.md) from a ranked list.
 
-# Broken links are tolerated
+# Consumers tolerate broken links
 
-A link whose target does not exist in the bundle is not malformed, and consumers **MUST** tolerate it. That keeps a partial bundle usable while it is being written.
+A link whose target does not exist in the bundle is not malformed, and consumers **MUST** tolerate it. That keeps a partial bundle usable while someone writes it.
 
-Tolerated is not the same as good. A producer should still ship a connected graph with no orphans and no broken edges, because an agent cannot reach an orphan or cross a broken link. See [graph hygiene](/practice/graph-hygiene.md), which the `--strict` [validator](/practice/validation.md) gates on.
+Tolerated is not the same as good. A producer should still ship a connected graph with no orphans and no broken edges. An agent cannot reach an orphan or cross a broken link. See [graph hygiene](/practice/graph-hygiene.md), which the `--strict` [validator](/practice/validation.md) gates on.
 
 # Related
 

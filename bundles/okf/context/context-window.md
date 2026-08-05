@@ -4,8 +4,8 @@ title: The context window
 description: The finite space an agent reads before it answers, and the only place knowledge can reach a model.
 tags: [context, agent, fundamentals]
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-05T22:00:00Z
 sources:
   - id: lost-in-the-middle
     resource: https://arxiv.org/abs/2307.03172
@@ -31,19 +31,19 @@ All of it has to arrive through one channel: the context window. Think of a desk
 
 The window is finite, so the slices compete. A long conversation crowds out the knowledge slice. A hundred tool definitions crowd out both. The slice you control is the smallest one and the one that decides whether the answer is right.
 
-# Position matters, not just size
+# Recall drops in the middle of the window
 
-A bigger window does not make the space uniform. Models recall information best when it sits at the start or the end of the input, and measurably worse when it sits in the middle of a long context, an effect that persists in models built for long inputs.[^lost-in-the-middle]
+A bigger window does not make the space uniform. Models recall information best at the start and the end of the input, and measurably worse in the middle of a long context. The effect persists in models built for long inputs.[^lost-in-the-middle]
 
-Two consequences follow. Filling the window is not the same as using it, so padding the knowledge slice with everything that might be relevant buries the page that mattered. And where a page lands is a real decision, which makes it part of [context assembly](/context/context-assembly.md) rather than an implementation detail.
+Two consequences follow. Filling the window is not the same as using it: pad the knowledge slice with everything that might be relevant, and you bury the page that mattered. Where a page lands is a real decision, part of [context assembly](/context/context-assembly.md) rather than an implementation detail.
 
 This is also why growing windows do not dissolve the problem on their own. See [a bigger window is not a fix](/approaches/long-context.md).
 
 # Why agents "forget"
 
-The model reads the desk once, answers, and retains nothing. What looks like forgetting is the desk being cleared. Memory in an agent product is not the model remembering, it is something re-assembling the desk with a summary of what came before. That re-assembly step is [context assembly](/context/context-assembly.md), and it is where knowledge either arrives or does not.
+The model reads the desk once, answers, and retains nothing. What looks like forgetting is a cleared desk. An agent product's "memory" is a component that re-assembles the desk with a summary of what came before. That re-assembly step is [context assembly](/context/context-assembly.md), and it is where knowledge either arrives or does not.
 
-The consequence runs through the whole format: a bundle exists so the knowledge slice can be filled with the right pages, whole, on the turn that needs them. See [progressive disclosure](/practice/progressive-disclosure.md) for how a bundle keeps that slice small.
+The consequence runs through the whole format: a bundle exists so the knowledge slice gets the right pages, whole, on the turn that needs them. See [progressive disclosure](/practice/progressive-disclosure.md) for how a bundle keeps that slice small.
 
 # Related
 

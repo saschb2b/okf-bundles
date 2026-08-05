@@ -5,8 +5,8 @@ description: The live spec debates in the tracker as of August 2026, what is con
 tags: [ecosystem, roadmap, spec, community, snapshot]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/issues
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T16:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-05T22:00:00Z
 status: draft
 stale_after: 2026-11-05
 sources:
@@ -17,21 +17,21 @@ sources:
     last_modified: 2026-08-05
 ---
 
-# Nothing here is decided
+# Nothing here is settled
 
-These are open proposals in a public tracker, not a roadmap Google has published. Read them as where the pressure is, and do not build against any of them as though it were settled. Issue numbers are given so you can check the current state yourself.
+These are open proposals in a public tracker, not a roadmap Google has published. Read them as where the pressure is, and do not build against any of them as though it were settled. Each carries its issue number so you can check the current state yourself.
 
 # 1. Typed relationships, the most contested question
 
 `#148`, 22 comments, with an open pull request at `#195`.
 
-The complaint is the one [OKF answers by design](/spec/cross-linking.md): a plain markdown link loses the *kind* of relationship, so an agent cannot tell a dependency from a replacement without reading the prose. The proposer is running a GraphRAG engine over roughly 46,000 markdown files where `implements`, `depends_on`, `replaces` and `part_of` are handled differently at traversal time.
+The complaint is the one [OKF answers by design](/spec/cross-linking.md): a plain markdown link loses the *kind* of relationship, so an agent cannot tell a dependency from a replacement without reading the prose. The proposer runs a GraphRAG engine over roughly 46,000 markdown files, where traversal treats `implements`, `depends_on`, `replaces`, and `part_of` differently.
 
-What makes this thread unusual is where it converged. It did **not** converge on an ontology. Three independent production implementations arrived at the same narrow answer: register **two** edges, a lifecycle edge (`supersedes`) and a conflict edge (`contested_by`), and attach *query-time semantics* to each rather than argue about spellings. The lifecycle edge means exclude the retired concept from in-force retrieval. The conflict edge means surface both and defer. As one participant put it, the semantics are the part consumers cannot reconstruct from a field name.
+The thread is unusual for where it converged: **not** on an ontology. Three independent production implementations arrived at the same narrow answer. Register **two** edges, a lifecycle edge (`supersedes`) and a conflict edge (`contested_by`), and attach *query-time semantics* to each rather than argue about spellings. The lifecycle edge means exclude the retired concept from in-force retrieval. The conflict edge means surface both and defer. As one participant put it, the semantics are the part consumers cannot reconstruct from a field name.
 
-If anything from the tracker lands in v0.3, this is the most likely candidate, and it would be a small, sharply bounded addition rather than the semantic-web turn [that discussion](/approaches/knowledge-graphs-and-ontologies.md) usually takes.
+If anything from the tracker lands in v0.3, this is the most likely candidate. It would be a small, sharply bounded addition, not the semantic-web turn [that discussion](/approaches/knowledge-graphs-and-ontologies.md) usually takes.
 
-# 2. Trust is splitting into four axes
+# 2. Trust splits into four axes
 
 `#151` (12 comments), `#140`, `#158` (11 comments), `#160`.
 
@@ -44,7 +44,7 @@ v0.2 shipped [`generated`, `verified`](/trust/generated-and-verified.md) and [tr
 | Groundedness / citation | a claim is linked to its evidence | Shipped as [`sources`](/trust/sources.md) |
 | Reliability / confidence | how much to believe the claim itself | Open (`#151`) |
 
-The distinction that drives it: a concept can be perfectly signed, correctly cited, and still wrong. The proposals insist on two honesty rules that match [this bundle's own line on `verified`](/trust/generated-and-verified.md), that signed is not verified, and that any confidence value must be recomputable from exposed signals rather than an opaque score.
+The distinction that drives it: a concept can be perfectly signed, correctly cited, and still wrong. The proposals insist on two honesty rules that match [this bundle's own line on `verified`](/trust/generated-and-verified.md). Signed is not verified. A consumer must be able to recompute any confidence value from exposed signals rather than trust an opaque score.
 
 Prompt injection is worth flagging separately, because a bundle is text an agent reads and the spec currently says nothing about treating it as data rather than instructions. Later threads cite a "§12 trust-and-safety" section as though it were part of the spec. It is not. It exists in a community pull request open since 15 June, which is a good illustration of why [governance throughput](/ecosystem/governance.md) matters for what people believe the format says.
 
@@ -93,9 +93,9 @@ Two practical consequences. Test your bundle against more than one consumer. And
 
 The fix has been written three times. A community pull request closed the oldest of these issues on 15 June with the before-and-after diff, and two further contributors have since submitted the same fix independently. None has merged. See [governance](/ecosystem/governance.md).
 
-# What Google is building
+# What Google builds
 
-Read from merged commits rather than from statements, the reference work is moving toward the semantic and graph layer. `mdcode` gained a Semantic Model intermediate representation and a model loader, then the ability to generate BigQuery property-graph DDL from it, merged the day this was written, with a further semantic-model and BigQuery Graph push open. The enrichment agent gained Confluence and SharePoint sources producing OKF output, which is the enterprise-wiki ingestion path. A `ConversationLearner` mines conversation logs into proposals with human-in-the-loop review.
+Read from merged commits rather than from statements, the reference work moves toward the semantic and graph layer. `mdcode` gained a Semantic Model intermediate representation and a model loader, then the ability to generate BigQuery property-graph DDL from it, merged the day this snapshot was taken. A further semantic-model and BigQuery Graph push is open. The enrichment agent gained Confluence and SharePoint sources that produce OKF output, which is the enterprise-wiki ingestion path. A `ConversationLearner` mines conversation logs into proposals with human-in-the-loop review.
 
 The direction is bundles as an intermediate representation between existing enterprise sources and a queryable graph, which is more ambitious than the "folder of markdown" framing suggests and consistent with the [data-sharing motivation](/references/google-cloud-announcement.md).
 

@@ -23,7 +23,7 @@ sources:
 
 Read on **2026-08-05** from three instruments: the GitHub topic `open-knowledge-format`, BundleDex (a community bundle directory), and upstream pull request `#167`, in which a contributor assembled a curated index and coordinated one-line descriptions with a dozen tool maintainers. That pull request has been open since 1 July, so the best curated list of OKF tooling is a pending diff. See [governance](/ecosystem/governance.md).
 
-An earlier version of this concept listed ten tools and put the largest at 118 stars. That was wrong, because it was built from the projects that had announced themselves in one upstream issue thread. Self-announcement is a biased sample and it undercounts by roughly an order of magnitude. The corrected figures are below. Star counts are a popularity signal, not a quality one.
+An earlier version of this concept listed ten tools and put the largest at 118 stars. That was wrong, because it was built from the projects that had announced themselves in one upstream issue thread. Self-announcement is a biased sample and it undercounts by roughly an order of magnitude. Star counts are a popularity signal, not a quality one.
 
 # The scale
 
@@ -43,7 +43,7 @@ BundleDex also exposes a JSON API and an MCP server, which makes it a working re
 | [obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 3,121 | MIT | Framework for agents to build and maintain a digital brain through an Obsidian wiki. Added OKF bundle import/export interop. |
 | [iwe](https://github.com/iwe-org/iwe) | 1,359 | Apache-2.0 | Markdown knowledge graph: an LSP for your editor plus a CLI and MCP memory. The most-adopted bundle in the directory. |
 | [pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) | 264 | MIT | Self-maintaining, Obsidian-compatible knowledge base that turns raw sources into a wiki. |
-| [okf-skills](https://github.com/scaccogatto/okf-skills) | 230 | MIT | OKF toolkit for Claude Code: author, maintain, validate and visualize. |
+| [okf-skills](https://github.com/scaccogatto/okf-skills) | 230 | MIT | OKF toolkit for Claude Code: author, maintain, validate, and visualize. |
 | [okf-gem](https://github.com/serradura/okf-gem) | 118 | Apache-2.0 | Ruby harness: an agent skill, a CLI and library, and a server. |
 | [OWOX Model Canvas](https://github.com/OWOX/owox-model-canvas) | 86 | Apache-2.0 | Visual canvas and ERD editor for data models in OKF. |
 | [AKB](https://github.com/dnotitia/akb) | 75 | other | Organizational memory for agents: MCP plus REST, Postgres, per-vault git, RBAC. |
@@ -69,7 +69,7 @@ The [second-brain](/approaches/llm-wikis.md) direction has working conversion:
 
 - [okf-enforcer](https://github.com/MartinForreal/okf-enforcer), published in the official Obsidian community plugin directory, validates and enforces OKF v0.2 across a vault.
 - [obsidian-okf](https://github.com/kennyg/obsidian-okf) exports a vault or subfolder as a bundle, rewriting wikilinks and embeds into bundle-absolute links and generating the reserved files.
-- [awesome-okf](https://github.com/yzfly/awesome-okf) is a Chinese-language resource collection with converters for Feishu, Obsidian and Notion.
+- [awesome-okf](https://github.com/yzfly/awesome-okf) is a Chinese-language resource collection with converters for Feishu, Obsidian, and Notion.
 
 # Validation, again and again
 
@@ -77,13 +77,13 @@ The most duplicated category, with at least four dedicated projects beyond the o
 
 Everyone writes the validator because [conformance is prose](/spec/conformance.md) and there is no shared test corpus. That is the argument for the conformance-corpus proposal in [open questions](/ecosystem/open-questions.md), and it is the single clearest piece of wasted community effort visible in the ecosystem.
 
-# Serving, publishing and validating
+# Serving, publishing, and validating
 
 [Kiso](https://github.com/oak-invest/kiso) publishes bundles as static sites, emitting `llms.txt` and a sitemap alongside, which is [the three-layer stack](/ecosystem/llms-txt-and-sitemap.md) implemented rather than argued. [wiki-as-an-mcp](https://github.com/taikunudel/wiki-as-an-mcp) serves a wiki over MCP following OKF. [okft](https://github.com/PoorvaJ-WW/okft) lints and MCP-serves. [Data Olympus](https://github.com/knaisoma/data-olympus) adds a governance profile with a single-writer MCP server. [Surface](https://github.com/Connorrmcd6/surface) and [Throughline](https://github.com/inkxel/throughline) keep docs and repo memory as conformant bundles. [OKF Studio](/ecosystem/okf-studio.md) and [OnyxWriter](https://github.com/activetwist/OnyxWriter) read them on the desktop.
 
 # What the shape tells you
 
-**MCP is the default transport.** It recurs across AKB, Data Olympus, okft, iwe, wiki-as-an-mcp and BundleDex itself. The [format and protocol layers](/approaches/format-versus-protocol.md) compose in practice exactly as the theory says.
+**MCP is the default transport.** It recurs across AKB, Data Olympus, okft, iwe, wiki-as-an-mcp, and BundleDex itself. The [format and protocol layers](/approaches/format-versus-protocol.md) compose in practice exactly as the theory says.
 
 **Validation is the most duplicated work.** Independent linters exist in at least eight projects. That redundancy is the argument behind the conformance-corpus and `okf_profile` proposals in [open questions](/ecosystem/open-questions.md).
 

@@ -5,8 +5,8 @@ description: Conventional headings, why structure beats prose, and picking the s
 tags: [spec, body, markdown, authoring]
 resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
 generated:
-  by: claude-code/opus-5
-  at: 2026-08-05T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-05T22:00:00Z
 sources:
   - id: spec
     resource: https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md
@@ -22,7 +22,7 @@ sources:
 
 # Structure over prose
 
-The body is ordinary markdown. Producers **SHOULD** favor headings, lists, tables and fenced code over freeform prose, because structure is what a consumer can parse and present.[^spec] A paragraph describing five columns is one blob to an agent. A table of five columns is five facts.
+The body is ordinary markdown. Producers **SHOULD** favor headings, lists, tables, and fenced code over freeform prose, because a consumer can parse and present structure.[^spec] A paragraph describing five columns is one blob to an agent. A table of five columns is five facts.
 
 # Conventional headings
 
@@ -36,7 +36,7 @@ These are conventions, not a template. A concept may have only a body, or entire
 
 # Pick the sharpest form for the fact
 
-Beyond headings and tables, a fact with inherent shape has a markdown form that carries that shape. It parses better and renders richly where bundles are read, and where a consumer renders none of it the source still reads as plain markdown.[^skill]
+Beyond headings and tables, a fact with inherent shape has a markdown form that carries that shape. It parses better and renders richly where people read bundles. Where a consumer renders none of it, the source still reads as plain markdown.[^skill]
 
 | The fact | Write it as | Not as |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Keep prose for meaning and reasoning. Reach for these forms when the fact has sh
 
 # `# Citations` is gone
 
-v0.1 put provenance in a `# Citations` body section. v0.2 moves it to [the `sources` frontmatter family](/trust/sources.md), and a claim is attributed by a footnote whose label matches a source `id`. This is one of the two breaking changes; see [migration](/practice/migration-v01-to-v02.md).
+v0.1 put provenance in a `# Citations` body section. v0.2 moves it to [the `sources` frontmatter family](/trust/sources.md), and a footnote keyed to a source `id` now attributes each claim. This is one of the two breaking changes. See [migration](/practice/migration-v01-to-v02.md).
 
 # Related
 

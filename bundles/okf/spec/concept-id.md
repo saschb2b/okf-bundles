@@ -19,7 +19,7 @@ sources:
 
 A concept's identity is its file path within the bundle, with the `.md` suffix removed.[^spec] So `tables/users.md` has Concept ID `tables/users`.
 
-There is no id field, no UUID, and no registry. The filesystem is the identifier space.
+OKF defines no id field, no UUID, and no registry. The filesystem is the identifier space.
 
 # What follows from it
 

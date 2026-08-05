@@ -16,7 +16,7 @@ sources:
 
 # The older answer
 
-The semantic web solved "make meaning machine-readable" two decades ago. RDF expresses information as triples of subject, predicate and object, where each statement asserts a relationship between two resources. Vocabularies such as RDF Schema and OWL then define classes, properties and domain and range restrictions, giving the data formal semantics an engine can reason over.[^rdf-primer]
+The semantic web solved "make meaning machine-readable" two decades ago. RDF expresses information as triples of subject, predicate, and object, where each statement asserts a relationship between two resources. Vocabularies such as RDF Schema and OWL then define classes, properties, and domain and range restrictions, giving the data formal semantics an engine can reason over.[^rdf-primer]
 
 That is strictly more powerful than what OKF does. A markdown link asserts that two concepts are related and leaves the kind of relation to the surrounding prose. A triple names the relation, and an ontology constrains what relations are legal.
 
@@ -54,11 +54,11 @@ The two also stack. A bundle can describe a graph, and [`resource`](/spec/core-f
 
 # GraphRAG and the middle ground
 
-Building a graph out of a corpus with a model, then retrieving over it, sits between the two. It fixes [retrieval's missing relationships](/approaches/retrieval-failure-modes.md) without asking anyone to author an ontology, and it inherits the accountability gap: the extracted edges have no author, no review and no expiry. An OKF bundle is the opposite trade, fewer edges, each one authored and attributable.
+Building a graph out of a corpus with a model, then retrieving over it, sits between the two. It fixes [retrieval's missing relationships](/approaches/retrieval-failure-modes.md) without asking anyone to author an ontology, and it inherits the accountability gap: the extracted edges have no author, no review, and no expiry. An OKF bundle is the opposite trade, fewer edges, each one authored and attributable.
 
 # The community is pushing back on this
 
-The typed-edge question is the most contested item in the OKF tracker, and it did not converge on an ontology. Three independent production implementations landed on registering exactly two edges, a lifecycle one and a conflict one, with query-time semantics attached. See [open questions](/ecosystem/open-questions.md). If that lands, OKF gains a narrow, bounded piece of what this concept says it gives up, and still declines the general case.
+The typed-edge question is the most contested item in the OKF tracker, and it did not converge on an ontology. Three independent production implementations landed on registering exactly two edges, a lifecycle one, and a conflict one, with query-time semantics attached. See [open questions](/ecosystem/open-questions.md). If that lands, OKF gains a narrow, bounded piece of what this concept says it gives up, and still declines the general case.
 
 # Related
 

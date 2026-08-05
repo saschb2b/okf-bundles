@@ -16,7 +16,7 @@ sources:
 
 # What it is
 
-A skill is a folder containing a `SKILL.md`: frontmatter with at least a `name` and a `description`, then instructions telling an agent how to perform a task. It may bundle `scripts/`, `references/` and `assets/` alongside.[^agent-skills]
+A skill is a folder containing a `SKILL.md`: frontmatter with at least a `name` and a `description`, then instructions telling an agent how to perform a task. It may bundle `scripts/`, `references/`, and `assets/` alongside.[^agent-skills]
 
 ```
 my-skill/
@@ -46,7 +46,7 @@ That is the same idea as an [`index.md`](/spec/index-file.md) listing: a cheap l
 `A bundle`
 : **What is true** about a domain. Facts, definitions, relationships, and who vouches for them. Meaningless outside your context.
 
-The `okf` skill is the worked example. It knows how to write a conformant bundle, how to run the validator and what bookkeeping an edit implies. It knows nothing about your revenue definition, and it should not. See [the okf skill](/ecosystem/okf-skill.md).
+The `okf` skill is the worked example. It knows how to write a conformant bundle, how to run the validator, and what bookkeeping an edit implies. It knows nothing about your revenue definition, and it should not. See [the okf skill](/ecosystem/okf-skill.md).
 
 # Where the line gets blurry, honestly
 
