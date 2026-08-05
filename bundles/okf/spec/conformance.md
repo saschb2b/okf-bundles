@@ -43,7 +43,7 @@ The asymmetry is the design: producers aim to be precise, consumers aim to be fo
 
 # Why one field
 
-Standards die by demanding forty fields on day one. Nothing v0.2 added can make a bundle non-conformant, because all of it is optional. A team can adopt the format on a Friday afternoon with `type` alone, then add [`sources`](/trust/sources.md) when they need provenance and [`verified`](/trust/generated-and-verified.md) when they need review, without any file becoming invalid in between.
+Standards die by demanding forty fields on day one, which is [how OSI lost to TCP/IP](/context/why-standards-win.md). Nothing v0.2 added can make a bundle non-conformant, because all of it is optional. A team can adopt the format on a Friday afternoon with `type` alone, then add [`sources`](/trust/sources.md) when they need provenance and [`verified`](/trust/generated-and-verified.md) when they need review, without any file becoming invalid in between.
 
 # The `README.md` trap
 

@@ -4,7 +4,7 @@ okf_version: "0.2"
 
 # OKF
 
-The Open Knowledge Format, explained as an OKF bundle, in 62 concepts. OKF is Google Cloud's vendor-neutral spec for the context an AI agent needs. Markdown files with YAML frontmatter, kept in git, readable with no SDK. One required field, `type`. Published under Apache 2.0, currently at v0.2.
+The Open Knowledge Format, explained as an OKF bundle, in 63 concepts. OKF is Google Cloud's vendor-neutral spec for the context an AI agent needs. Markdown files with YAML frontmatter, kept in git, readable with no SDK. One required field, `type`. Published under Apache 2.0, currently at v0.2.
 
 # Two ways in
 
@@ -13,7 +13,7 @@ The Open Knowledge Format, explained as an OKF bundle, in 62 concepts. OKF is Go
 
 # Why context is the problem
 
-- [How an agent's context works](context/index.md) - 4 concepts. The context window as a desk that is cleared every turn, the assembly step that fills it, the gap between world knowledge and yours, and why your knowledge is scattered across surfaces no agent can read.
+- [How an agent's context works](context/index.md) - 5 concepts. The context window as a desk that is cleared every turn, the assembly step that fills it, the gap between world knowledge and yours, why your knowledge is scattered across surfaces no agent can read, and the history of why one agreed format beats a better bespoke one.
 - [The current toolbox, honestly](approaches/index.md) - 14 concepts. Prompt stuffing, fine-tuning, retrieval with its four failure modes and how to run it alongside a bundle, the "bigger windows will fix it" objection, tools and MCP, Agent Skills, briefing files, data catalogs and semantic layers, knowledge graphs and ontologies, the LLM-wiki and second-brain lineage OKF descends from, and format versus protocol.
 
 # The format

@@ -40,7 +40,7 @@ Each principle has teeth because it rejects something that would otherwise be te
 
 # The consequence for adoption
 
-A lingua franca is only worth the number of parties who speak it. That is why the bar is one field, why the license is Apache 2.0, and why the spec is roughly fourteen pages. Everything expensive was made optional so that the cheap part could spread.
+A lingua franca is only worth the number of parties who speak it. That is why the bar is one field, why the license is Apache 2.0, and why the spec is roughly fourteen pages. Everything expensive was made optional so that the cheap part could spread. [Why standards win](/context/why-standards-win.md) grounds this in the history the principles are drawn from.
 
 # Related
 

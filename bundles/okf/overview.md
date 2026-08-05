@@ -40,6 +40,7 @@ All of it is optional. A bundle that adopts none of it is exactly as valid as be
 | If you want | Start at |
 | --- | --- |
 | The argument, from the beginning | [The context window](/context/context-window.md) |
+| Why one shared format at all | [Why standards win](/context/why-standards-win.md), the historical evidence |
 | The honest comparison with what you run today | [OKF versus retrieval](/approaches/okf-versus-retrieval.md) |
 | To answer "but we already have X" | [retrieval](/approaches/retrieval-and-okf-together.md), [a catalog](/approaches/data-catalogs-and-semantic-layers.md), [a knowledge graph](/approaches/knowledge-graphs-and-ontologies.md), [skills](/approaches/skills-and-procedures.md), [a huge context window](/approaches/long-context.md) |
 | The format itself | [The bundle](/spec/bundle.md), then [the concept document](/spec/concept-document.md) |
@@ -67,7 +68,8 @@ All of it is optional. A bundle that adopts none of it is exactly as valid as be
 | `Rationale` | Why the format decided something | 3 |
 | `Reference` | External material absorbed into the bundle | 3 |
 | `Practice` | How something is done in the field | 2 |
-| `Analysis`, `Tutorial`, `Overview` | One each | 3 |
+| `Analysis` | An argument built from evidence | 2 |
+| `Tutorial`, `Overview` | One each | 2 |
 
 Two are worth filtering on deliberately. Every `Field Report` carries [`status: draft` and `stale_after`](/trust/lifecycle.md), because those four are dated snapshots rather than durable facts. Everything else is written to stay true.
 

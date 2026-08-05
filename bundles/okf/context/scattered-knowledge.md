@@ -33,6 +33,8 @@ The pattern shows up again inside the current toolbox: [briefing files](/approac
 
 A shared shape does not move the knowledge. It makes the knowledge readable by a party that did not write it. That is the whole claim behind [format versus protocol](/approaches/format-versus-protocol.md), and it is why OKF specifies [one required field](/spec/conformance.md) instead of an ingestion pipeline.
 
+The instinct to keep your own better shape instead is the oldest trap in standards history, and the formats that carried the most weight were rarely the strongest candidates. [Why standards win](/context/why-standards-win.md) makes that case with OSI, Xanadu, Gopher, and Markdown.
+
 # Related
 
 - [The knowledge gap](/context/knowledge-gap.md) is what these surfaces hold and fail to deliver.
