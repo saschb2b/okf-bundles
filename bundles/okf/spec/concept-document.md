@@ -23,13 +23,13 @@ Structurally it is two parts: a YAML frontmatter block fenced by `---`, then a f
 # The three registers of a concept
 
 `The cover sheet`
-: [Core frontmatter](/spec/core-frontmatter.md). What it is, what it points at, how to find it. Cheap to scan across ten thousand files without opening any of them.
+: [Core frontmatter](core-frontmatter.md). What it is, what it points at, how to find it. Cheap to scan across ten thousand files without opening any of them.
 
 `The decision fields`
-: The v0.2 families. Who wrote it, who checked it, when it expires, what it derives from. See [trust tiers](/trust/trust-tiers.md), [lifecycle](/trust/lifecycle.md), [sources](/trust/sources.md).
+: The v0.2 families. Who wrote it, who checked it, when it expires, what it derives from. See [trust tiers](../trust/trust-tiers.md), [lifecycle](../trust/lifecycle.md), [sources](../trust/sources.md).
 
 `The body`
-: Structural markdown. Tables, code, diagrams, formulas, with each claim footnoted to a source id. See [body conventions](/spec/body-conventions.md).
+: Structural markdown. Tables, code, diagrams, formulas, with each claim footnoted to a source id. See [body conventions](body-conventions.md).
 
 A human can read this. So can an agent. Neither needs a tool.
 
@@ -62,14 +62,14 @@ sources:
 | order_status | STRING | Recognised only at 'delivered'. |
 ```
 
-The `order_status` description is the claim that needs attribution, so in the real file it ends with a footnote whose label is `revenue-policy`, the `id` of the matching `sources` entry. See [sources](/trust/sources.md).
+The `order_status` description is the claim that needs attribution, so in the real file it ends with a footnote whose label is `revenue-policy`, the `id` of the matching `sources` entry. See [sources](../trust/sources.md).
 
-Everything below `type` is optional. A file carrying only `type` is fully conformant, which is the point of [the one rule](/spec/conformance.md).
+Everything below `type` is optional. A file carrying only `type` is fully conformant, which is the point of [the one rule](conformance.md).
 
 # Related
 
-- [Core frontmatter](/spec/core-frontmatter.md) covers the recommended fields and how to pick a `type`.
-- [Extensions](/spec/extensions.md) covers adding your own keys.
-- [Authoring a bundle](/practice/authoring-a-bundle.md) is the procedure for writing one.
+- [Core frontmatter](core-frontmatter.md) covers the recommended fields and how to pick a `type`.
+- [Extensions](extensions.md) covers adding your own keys.
+- [Authoring a bundle](../practice/authoring-a-bundle.md) is the procedure for writing one.
 
 [^spec]: OKF v0.2 specification, section 4.

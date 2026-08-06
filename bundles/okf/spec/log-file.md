@@ -38,11 +38,11 @@ The log is also where you record what a producer *did not* cover: a crawl bounda
 
 # The discipline
 
-Append an entry in the same change that touches a concept. A log written at the end of a month is a reconstruction. This is part of the bookkeeping that keeps a bundle from rotting silently, along with refreshing [`generated`](/trust/generated-and-verified.md) and regenerating the affected [index](/spec/index-file.md). See [authoring a bundle](/practice/authoring-a-bundle.md).
+Append an entry in the same change that touches a concept. A log written at the end of a month is a reconstruction. This is part of the bookkeeping that keeps a bundle from rotting silently, along with refreshing [`generated`](../trust/generated-and-verified.md) and regenerating the affected [index](index-file.md). See [authoring a bundle](../practice/authoring-a-bundle.md).
 
 # Related
 
-- [The index file](/spec/index-file.md) is the other reserved filename.
-- [Lifecycle](/trust/lifecycle.md) records per-concept state, and the log records the change that produced it.
+- [The index file](index-file.md) is the other reserved filename.
+- [Lifecycle](../trust/lifecycle.md) records per-concept state, and the log records the change that produced it.
 
 [^spec]: OKF v0.2 specification, section 9.

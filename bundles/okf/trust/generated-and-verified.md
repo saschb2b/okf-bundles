@@ -24,7 +24,7 @@ verified:
 ```
 
 `generated.by`
-: **REQUIRED** within `generated`. An [actor](/trust/actor-convention.md).
+: **REQUIRED** within `generated`. An [actor](actor-convention.md).
 
 `generated.at`
 : An ISO 8601 datetime marking the content's last meaningful change. This is what v0.1's `timestamp` becomes.
@@ -34,7 +34,7 @@ verified:
 
 # Why they are two fields
 
-Authorship and confirmation are different events, usually by different actors. An agent generated it. A human or a process later confirmed it. Collapsing the two loses the only signal that distinguishes reviewed knowledge from generated knowledge, which is the distinction [the trust tier](/trust/trust-tiers.md) is computed from.
+Authorship and confirmation are different events, usually by different actors. An agent generated it. A human or a process later confirmed it. Collapsing the two loses the only signal that distinguishes reviewed knowledge from generated knowledge, which is the distinction [the trust tier](trust-tiers.md) is computed from.
 
 # The rule that holds the layer up
 
@@ -46,10 +46,10 @@ Omit the field until a real human or process confirms the concept. Absence is a 
 
 A `verified` event vouches for the text that existed when it was recorded. If you materially change that text, the event no longer covers what the concept now says. Drop it rather than letting it vouch for words nobody checked, and refresh `generated` in the same edit, both `by` and `at`, because the actor may differ from whoever wrote it last.
 
-This is the bookkeeping that decides whether a bundle rots. See [authoring a bundle](/practice/authoring-a-bundle.md).
+This is the bookkeeping that decides whether a bundle rots. See [authoring a bundle](../practice/authoring-a-bundle.md).
 
 # Related
 
-- [The actor convention](/trust/actor-convention.md) governs both `by` fields.
-- [Trust tiers](/trust/trust-tiers.md) is what a consumer derives from `verified`.
-- [Verification versus attestation](/trust/attestation-versus-verification.md) separates confirming a definition from confirming a run.
+- [The actor convention](actor-convention.md) governs both `by` fields.
+- [Trust tiers](trust-tiers.md) is what a consumer derives from `verified`.
+- [Verification versus attestation](attestation-versus-verification.md) separates confirming a definition from confirming a run.

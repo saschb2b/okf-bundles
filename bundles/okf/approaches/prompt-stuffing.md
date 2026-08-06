@@ -10,7 +10,7 @@ generated:
 
 # What it is
 
-Paste the schema, the policy, or the whole wiki page into the conversation and ask the question after it. The knowledge slice of [the context window](/context/context-window.md) is filled by hand.
+Paste the schema, the policy, or the whole wiki page into the conversation and ask the question after it. The knowledge slice of [the context window](../context/context-window.md) is filled by hand.
 
 # Where it wins
 
@@ -25,9 +25,9 @@ It works immediately, with no infrastructure and no format. For a one-off questi
 
 # The lesson it carries forward
 
-Stuffing is the honest baseline: it proves the knowledge, not the model, was the problem. The rest of the toolbox is variations on "do the paste automatically" ([retrieval](/approaches/retrieval-augmented-generation.md)), "do the paste once for the whole team" ([briefing files](/approaches/briefing-files.md)), or "let the agent do its own paste" ([tools and MCP](/approaches/tools-and-mcp.md)).
+Stuffing is the honest baseline: it proves the knowledge, not the model, was the problem. The rest of the toolbox is variations on "do the paste automatically" ([retrieval](retrieval-augmented-generation.md)), "do the paste once for the whole team" ([briefing files](briefing-files.md)), or "let the agent do its own paste" ([tools and MCP](tools-and-mcp.md)).
 
 # Related
 
-- [Fine-tuning](/approaches/fine-tuning.md) is the approach most often confused with this one, and it solves a different problem.
+- [Fine-tuning](fine-tuning.md) is the approach most often confused with this one, and it solves a different problem.
 

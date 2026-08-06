@@ -24,9 +24,9 @@ A perfect pipe to an empty reservoir is still a drought.
 
 # Why the layers do not substitute
 
-A protocol makes the transfer uniform and stays silent about the payload. Two teams can both serve knowledge over MCP and still hand an agent two incompatible blobs, one a JSON catalog dump, one a wiki HTML page. The client has to be taught each one, which is the [scattered-knowledge](/context/scattered-knowledge.md) problem restored one layer up.
+A protocol makes the transfer uniform and stays silent about the payload. Two teams can both serve knowledge over MCP and still hand an agent two incompatible blobs, one a JSON catalog dump, one a wiki HTML page. The client has to be taught each one, which is the [scattered-knowledge](../context/scattered-knowledge.md) problem restored one layer up.
 
-A format makes the payload uniform and stays silent about the transfer. That is deliberate: OKF explicitly does not prescribe storage, serving, or query infrastructure. See [non-goals](/spec/non-goals.md).
+A format makes the payload uniform and stays silent about the transfer. That is deliberate: OKF explicitly does not prescribe storage, serving, or query infrastructure. See [non-goals](../spec/non-goals.md).
 
 # The stack, in practice
 
@@ -37,16 +37,16 @@ flowchart TB
   C --> D["Source systems<br/>warehouse, wiki, code"]
 ```
 
-The same bundle can be cloned into a repo, served by an MCP server, or read from disk by a local tool, without changing a byte. That property is what "portable" buys, and it is why [distribution](/practice/distribution.md) is a paragraph rather than a product.
+The same bundle can be cloned into a repo, served by an MCP server, or read from disk by a local tool, without changing a byte. That property is what "portable" buys, and it is why [distribution](../practice/distribution.md) is a paragraph rather than a product.
 
 # It also stacks with the web conventions
 
-OKF sits alongside `sitemap.xml` and `llms.txt` rather than competing with them. See [how OKF stacks with llms.txt](/ecosystem/llms-txt-and-sitemap.md).
+OKF sits alongside `sitemap.xml` and `llms.txt` rather than competing with them. See [how OKF stacks with llms.txt](../ecosystem/llms-txt-and-sitemap.md).
 
 # Related
 
-- [Tools and MCP](/approaches/tools-and-mcp.md) is the protocol layer in detail.
-- [Design principles](/spec/design-principles.md) names this as producer and consumer independence.
+- [Tools and MCP](tools-and-mcp.md) is the protocol layer in detail.
+- [Design principles](../spec/design-principles.md) names this as producer and consumer independence.
 
 [^mcp]: Model Context Protocol.
 

@@ -22,11 +22,11 @@ sources:
 | `human:<id>` | a person | `human:ahormati` |
 | `process:<id>` | an automated process | `process:finance-nightly` |
 
-The convention applies everywhere an identity is recorded: [`generated.by`](/trust/generated-and-verified.md), `verified[].by`, and [`sources[].author`](/trust/sources.md).
+The convention applies everywhere an identity is recorded: [`generated.by`](generated-and-verified.md), `verified[].by`, and [`sources[].author`](sources.md).
 
 # The one rule
 
-Consumers that classify trust key off the `human:` prefix, so producers **MUST** use it for hand-authored or human-confirmed content. The corollary matters more: **do not write `human:` for content an agent generated.** That single substitution silently inflates the bundle's [trust tier](/trust/trust-tiers.md) and turns a filter into decoration.
+Consumers that classify trust key off the `human:` prefix, so producers **MUST** use it for hand-authored or human-confirmed content. The corollary matters more: **do not write `human:` for content an agent generated.** That single substitution silently inflates the bundle's [trust tier](trust-tiers.md) and turns a filter into decoration.
 
 An agent writing a concept records itself. In this repo, that is `claude-code/opus-5` where the model is known and `claude-code/unrecorded` where it is not, never `human:sascha`, even though a person asked for the file. Requesting a document is not authoring it.
 
@@ -34,13 +34,13 @@ An agent writing a concept records itself. In this repo, that is `claude-code/op
 
 # An open ambiguity: `team:`, and how it bit this bundle
 
-The three forms above are what §7 lists. The spec's own §5.1 example then writes `author: team:ga4-docs`, which §7 does not permit, and the contradiction is open in the tracker as an unanswered erratum. See [open questions](/ecosystem/open-questions.md).
+The three forms above are what §7 lists. The spec's own §5.1 example then writes `author: team:ga4-docs`, which §7 does not permit, and the contradiction is open in the tracker as an unanswered erratum. See [open questions](../ecosystem/open-questions.md).
 
 This bundle originally followed the §5.1 example and wrote `team:` for organizational authors, in 47 places. Then a real consumer ruled. OKF Studio implements §7 as written and flagged every one as a validation warning, while this repo's own validator, built from the general `prefix:value` shape, accepted them all. When a spec and its own example disagree, consumers implement the rule text, and the producer eats the difference.
 
-The resolution followed [core frontmatter](/spec/core-frontmatter.md)'s rule: drop a field you cannot fill honestly. An organization is not an agent, a person, or a process, so the `author` fields came out and the organization names stay in each source's `title`, where no convention constrains them. Shoehorning `team:google-cloud` into `process:google-cloud` would have traded a visible warning for a quiet lie.
+The resolution followed [core frontmatter](../spec/core-frontmatter.md)'s rule: drop a field you cannot fill honestly. An organization is not an agent, a person, or a process, so the `author` fields came out and the organization names stay in each source's `title`, where no convention constrains them. Shoehorning `team:google-cloud` into `process:google-cloud` would have traded a visible warning for a quiet lie.
 
-Two validators disagreeing over 47 fields in one bundle is also the whole argument for the [conformance corpus proposal](/ecosystem/open-questions.md) in miniature.
+Two validators disagreeing over 47 fields in one bundle is also the whole argument for the [conformance corpus proposal](../ecosystem/open-questions.md) in miniature.
 
 # Choosing a version string
 
@@ -52,5 +52,5 @@ Use `process:<id>` when the actor is a scheduled or triggered job whose identity
 
 # Related
 
-- [Generated and verified](/trust/generated-and-verified.md) is where these strings mostly appear.
-- [Trust tiers](/trust/trust-tiers.md) is the classification this convention feeds.
+- [Generated and verified](generated-and-verified.md) is where these strings mostly appear.
+- [Trust tiers](trust-tiers.md) is the classification this convention feeds.

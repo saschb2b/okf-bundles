@@ -36,17 +36,17 @@ Ordering is part of the job, not a detail after it. Recall is highest for materi
 
 Assembly can only be as good as what it selects from. Three properties matter, and each maps to a part of the format:
 
-- **Whole units.** A rule and its caveat must travel together. See [the concept document](/spec/concept-document.md).
-- **Edges to follow.** The next thing to load should be derivable from the last thing loaded. See [cross-linking](/spec/cross-linking.md).
-- **Signals to filter on.** Assembly should be able to skip a deprecated or unreviewed page before spending tokens on it. See [trust tiers](/trust/trust-tiers.md) and [lifecycle](/trust/lifecycle.md).
+- **Whole units.** A rule and its caveat must travel together. See [the concept document](../spec/concept-document.md).
+- **Edges to follow.** The next thing to load should be derivable from the last thing loaded. See [cross-linking](../spec/cross-linking.md).
+- **Signals to filter on.** Assembly should be able to skip a deprecated or unreviewed page before spending tokens on it. See [trust tiers](../trust/trust-tiers.md) and [lifecycle](../trust/lifecycle.md).
 
-[Retrieval](/approaches/retrieval-augmented-generation.md) gives assembly a ranked pile of text fragments and none of the three. That gap is the argument for the format.
+[Retrieval](../approaches/retrieval-augmented-generation.md) gives assembly a ranked pile of text fragments and none of the three. That gap is the argument for the format.
 
 # Related
 
-- [The context window](/context/context-window.md) is what assembly fills.
-- [Scattered knowledge](/context/scattered-knowledge.md) is what assembly has to work with in most organizations.
-- [Consuming a bundle](/practice/consuming-a-bundle.md) is assembly done against an OKF bundle.
+- [The context window](context-window.md) is what assembly fills.
+- [Scattered knowledge](scattered-knowledge.md) is what assembly has to work with in most organizations.
+- [Consuming a bundle](../practice/consuming-a-bundle.md) is assembly done against an OKF bundle.
 
 [^lost-in-the-middle]: Liu et al., Lost in the Middle: How Language Models Use Long Contexts (2023).
 

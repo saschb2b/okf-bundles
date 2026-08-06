@@ -26,7 +26,7 @@ Reach. Before tools, knowledge had to be predicted and pre-loaded. With tools th
 
 Meaning. A pipe carries whatever is at the other end. If the warehouse returns four `customer` tables, MCP delivers four table names correctly and says nothing about which one Finance uses. The agent still has to guess, and it will.
 
-Reach and meaning are different problems, and conflating them is the most common misreading of "don't we already have MCP for this?" The distinction is worked through in [format versus protocol](/approaches/format-versus-protocol.md): a perfect pipe to an empty reservoir is still a drought.
+Reach and meaning are different problems, and conflating them is the most common misreading of "don't we already have MCP for this?" The distinction is worked through in [format versus protocol](format-versus-protocol.md): a perfect pipe to an empty reservoir is still a drought.
 
 # How the two compose
 
@@ -34,7 +34,7 @@ They are complements, and the good pattern is both. MCP moves the bundle to the 
 
 # Related
 
-- [Retrieval](/approaches/retrieval-augmented-generation.md) is the other half of most current stacks.
-- [Distribution](/practice/distribution.md) covers the mundane alternative: the bundle is a folder, so cloning it also works.
+- [Retrieval](retrieval-augmented-generation.md) is the other half of most current stacks.
+- [Distribution](../practice/distribution.md) covers the mundane alternative: the bundle is a folder, so cloning it also works.
 
 [^mcp]: Model Context Protocol

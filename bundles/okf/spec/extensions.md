@@ -28,24 +28,24 @@ The cost is real and worth naming: an extension is local. Another team's consume
 
 # Language is unconstrained
 
-Nothing in [conformance](/spec/conformance.md) is English-specific. `type` values, titles, descriptions, and bodies can be written in any language, and the checker never inspects the words. The proof runs at scale in [this repository](/ecosystem/okf-bundles-repo.md): the German-language law and recipe bundles are conformant without any special field.
+Nothing in [conformance](conformance.md) is English-specific. `type` values, titles, descriptions, and bodies can be written in any language, and the checker never inspects the words. The proof runs at scale in [this repository](../ecosystem/okf-bundles-repo.md): the German-language law and recipe bundles are conformant without any special field.
 
 What the spec lacks is a way to *declare* language: no `lang` key, no way to mark one concept as a translation of another. An upstream proposal (`#49`) asks for optional `lang` and `canonical` fields for multilingual concepts, and it has not landed. Until it does, a `lang:` key is an ordinary producer extension: consumers that know it can filter on it, and everyone else carries it through.
 
 # Tags are first-class and have no special file
 
-`tags` is a recommended [core field](/spec/core-frontmatter.md), and OKF defines no format for aggregating documents by tag. OKF defines no `tags/` directory and no tag registry. A consumer that wants a tag-browsing view synthesizes it at consumption time by scanning frontmatter.
+`tags` is a recommended [core field](core-frontmatter.md), and OKF defines no format for aggregating documents by tag. OKF defines no `tags/` directory and no tag registry. A consumer that wants a tag-browsing view synthesizes it at consumption time by scanning frontmatter.
 
 That follows the same principle as index files: the bundle holds the data, and views over it are the consumer's job.
 
 # Where extension stops
 
-Do not extend into the areas the spec [defers](/spec/versioning.md), namely the attestation runtime protocol, the attester ABI, caching, and semantic-layer templates. Inventing a field there produces something that looks standard and is not, which is worse than an obviously local key.
+Do not extend into the areas the spec [defers](versioning.md), namely the attestation runtime protocol, the attester ABI, caching, and semantic-layer templates. Inventing a field there produces something that looks standard and is not, which is worse than an obviously local key.
 
 # Related
 
-- [Core frontmatter](/spec/core-frontmatter.md) is the part every consumer understands.
-- [Conformance](/spec/conformance.md) states the tolerance rule this relies on.
-- [Design principles](/spec/design-principles.md) covers minimal opinion, the stance behind an open key space.
+- [Core frontmatter](core-frontmatter.md) is the part every consumer understands.
+- [Conformance](conformance.md) states the tolerance rule this relies on.
+- [Design principles](design-principles.md) covers minimal opinion, the stance behind an open key space.
 
 [^spec]: OKF v0.2 specification, sections 4 and 11.

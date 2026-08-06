@@ -16,7 +16,7 @@ sources:
 
 # What a bundle is
 
-A bundle is a self-contained, hierarchical collection of markdown files. It is the unit of distribution: what you clone, tar, or drop into another repo.[^spec] Every non-reserved `.md` file inside it is a [concept](/spec/concept-document.md).
+A bundle is a self-contained, hierarchical collection of markdown files. It is the unit of distribution: what you clone, tar, or drop into another repo.[^spec] Every non-reserved `.md` file inside it is a [concept](concept-document.md).
 
 OKF needs no central schema registry, no service, no database, and no account. If you can read a file you can read OKF, and if you can clone a repo you can ship it.
 
@@ -50,22 +50,22 @@ acme_retail/
 
 # Hierarchy is navigation, links are the graph
 
-The directory tree exists so a human and an agent can find things. It is not the relationship model. [Links](/spec/cross-linking.md) express the real graph and cross the hierarchy freely: a metric in `metrics/` points at a policy in `policies/` and a table in `tables/`.
+The directory tree exists so a human and an agent can find things. It is not the relationship model. [Links](cross-linking.md) express the real graph and cross the hierarchy freely: a metric in `metrics/` points at a policy in `policies/` and a table in `tables/`.
 
 Group by domain, not by file type. The spec has no opinion on which domains, and to add one you make a directory.
 
 # Reserved filenames
 
-`index.md` and `log.md` have defined meaning at any level and **MUST NOT** be used for concept documents. See [the index file](/spec/index-file.md) and [the log file](/spec/log-file.md).
+`index.md` and `log.md` have defined meaning at any level and **MUST NOT** be used for concept documents. See [the index file](index-file.md) and [the log file](log-file.md).
 
-OKF inherited these two names rather than inventing them. They are the catalog and the append-only record from the LLM wiki pattern OKF descends from, carried over with their meanings intact. See [LLM wikis and second brains](/approaches/llm-wikis.md).
+OKF inherited these two names rather than inventing them. They are the catalog and the append-only record from the LLM wiki pattern OKF descends from, carried over with their meanings intact. See [LLM wikis and second brains](../approaches/llm-wikis.md).
 
-Non-markdown files may live in a bundle. An [attested computation](/trust/attested-computation.md) references the `attesters/sql_equality.py` in the layout, and the script is not itself a concept.
+Non-markdown files may live in a bundle. An [attested computation](../trust/attested-computation.md) references the `attesters/sql_equality.py` in the layout, and the script is not itself a concept.
 
 # Related
 
-- [Conformance](/spec/conformance.md) states what makes this directory a valid bundle.
-- [Concept ID](/spec/concept-id.md) is how a file inside it gets its name.
-- [Distribution](/practice/distribution.md) covers how a bundle ships.
+- [Conformance](conformance.md) states what makes this directory a valid bundle.
+- [Concept ID](concept-id.md) is how a file inside it gets its name.
+- [Distribution](../practice/distribution.md) covers how a bundle ships.
 
 [^spec]: OKF v0.2 specification, sections 2 and 3.

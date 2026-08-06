@@ -25,11 +25,11 @@ The consumer has to judge each concept on explicit signals, before reading a wor
 
 | Question | Field |
 | --- | --- |
-| What was this made from? | [`sources`](/trust/sources.md) |
-| How much should I believe it? | [`generated` and `verified`](/trust/generated-and-verified.md) |
-| Is it still true? | [`stale_after`](/trust/lifecycle.md) |
-| Is it the current version? | [`status`](/trust/lifecycle.md) |
-| Was this number computed the sanctioned way? | [Attested Computation](/trust/attested-computation.md) |
+| What was this made from? | [`sources`](sources.md) |
+| How much should I believe it? | [`generated` and `verified`](generated-and-verified.md) |
+| Is it still true? | [`stale_after`](lifecycle.md) |
+| Is it the current version? | [`status`](lifecycle.md) |
+| Was this number computed the sanctioned way? | [Attested Computation](attested-computation.md) |
 
 All five are frontmatter, so answering them costs a file-header read rather than a full document read. At corpus scale that difference is the whole product.
 
@@ -37,11 +37,11 @@ All five are frontmatter, so answering them costs a file-header read rather than
 
 Whether to believe a concept is answered by fields a consumer computes over, not by how confident the prose sounds. That matters most exactly where a generated corpus is weakest: an agent writes fluent, assured prose about a fact it inferred, and fluency is not evidence.
 
-The corollary is a rule the whole layer rests on: never write [`verified`](/trust/generated-and-verified.md) unless a person or a process actually checked. One backfilled field silently inflates a bundle's trust tier and makes the filter meaningless.
+The corollary is a rule the whole layer rests on: never write [`verified`](generated-and-verified.md) unless a person or a process actually checked. One backfilled field silently inflates a bundle's trust tier and makes the filter meaningless.
 
 # It is all optional
 
-None of these fields can make a bundle non-conformant. v0.2 adds vocabulary, not rules, and a bundle that adopts none of it is exactly as valid as before. See [conformance](/spec/conformance.md).
+None of these fields can make a bundle non-conformant. v0.2 adds vocabulary, not rules, and a bundle that adopts none of it is exactly as valid as before. See [conformance](../spec/conformance.md).
 
 # What the layer does not cover
 
@@ -53,11 +53,11 @@ The five questions above are about believing content that arrived intact. Two se
 `Safety`
 : A bundle is text an agent reads, and the spec says nothing about treating that text as data rather than instructions. Prompt injection through a poisoned concept is unaddressed, and the drafted trust-and-safety section sits in an unmerged pull request.
 
-Both are tracked with issue numbers in [open questions](/ecosystem/open-questions.md), which splits trust into four axes and shows which two the spec answers today.
+Both are tracked with issue numbers in [open questions](../ecosystem/open-questions.md), which splits trust into four axes and shows which two the spec answers today.
 
 # Related
 
-- [Four ways retrieval lets an agent down](/approaches/retrieval-failure-modes.md) covers failure 04, the accountability gap this closes.
-- [Trust tiers](/trust/trust-tiers.md) is the derived signal a consumer filters on.
+- [Four ways retrieval lets an agent down](../approaches/retrieval-failure-modes.md) covers failure 04, the accountability gap this closes.
+- [Trust tiers](trust-tiers.md) is the derived signal a consumer filters on.
 
 [^spec]: OKF v0.2 specification, section 1.

@@ -31,14 +31,14 @@ Retrieval is also strong exactly where structure is absent. The long tail of uns
 
 # Where it stops
 
-The pipeline's steps 2 and 3 are lossy in ways that matter for the load-bearing core of a domain. Chunking discards structure. Similarity does not know which of two similar pages is current. A flat result list has no edges, and a chunk carries no author or review. [The four failure modes](/approaches/retrieval-failure-modes.md) works through each.
+The pipeline's steps 2 and 3 are lossy in ways that matter for the load-bearing core of a domain. Chunking discards structure. Similarity does not know which of two similar pages is current. A flat result list has no edges, and a chunk carries no author or review. [The four failure modes](retrieval-failure-modes.md) works through each.
 
-The practical conclusion is not a migration. Run both: OKF for the knowledge that must be right, retrieval for the long tail. The split is laid out in [OKF versus retrieval](/approaches/okf-versus-retrieval.md).
+The practical conclusion is not a migration. Run both: OKF for the knowledge that must be right, retrieval for the long tail. The split is laid out in [OKF versus retrieval](okf-versus-retrieval.md).
 
 # Related
 
-- [Context assembly](/context/context-assembly.md) is the step retrieval implements.
-- [Tools and MCP](/approaches/tools-and-mcp.md) usually run alongside retrieval and solve a different half of the problem.
+- [Context assembly](../context/context-assembly.md) is the step retrieval implements.
+- [Tools and MCP](tools-and-mcp.md) usually run alongside retrieval and solve a different half of the problem.
 
 [^rag-paper]: Lewis et al., Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020).
 

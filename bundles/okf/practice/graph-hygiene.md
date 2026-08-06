@@ -17,12 +17,12 @@ sources:
 # Two defects a file checker misses
 
 `Concept-to-index links`
-: A concept linking to an `index.md`. The file exists, so nothing errors, and to a graph consumer it is a dangling edge, because [an index is navigation and not a node](/spec/index-file.md). Point at the section's landing concept instead, or at a representative concept.
+: A concept linking to an `index.md`. The file exists, so nothing errors, and to a graph consumer it is a dangling edge, because [an index is navigation and not a node](../spec/index-file.md). Point at the section's landing concept instead, or at a representative concept.
 
 `Orphans`
 : A concept with no concept-to-concept link in or out. It is invisible to traversal. It exists, it validates, and no agent walking the graph will ever reach it.
 
-Both are reported as warnings by the default checker run and gated by `--strict`. See [validation](/practice/validation.md).
+Both are reported as warnings by the default checker run and gated by `--strict`. See [validation](validation.md).
 
 # Finding them
 
@@ -30,8 +30,8 @@ Both are reported as warnings by the default checker run and gated by `--strict`
 # concept-to-index links (ignore hits inside index.md files)
 grep -rn --include='*.md' -e '](.*index\.md' bundles/<bundle>
 
-# a concept with no outbound bundle-absolute link is a candidate orphan
-grep -Lr --include='*.md' -e '](/' bundles/<bundle>
+# a concept with no outbound concept link is a candidate orphan
+grep -Lr --include='*.md' -e '\.md)' bundles/<bundle>
 ```
 
 An orphan needs an edge in either direction. Either weave a link into the prose of a related concept, or give the orphan a `# Related` section that points outward. Prefer weaving it into prose, because that carries the relationship; a `# Related` list is the fallback when no sentence needs it.
@@ -44,9 +44,9 @@ The exemption is for corpora only. A curated bundle, one concept per idea, must 
 
 # Why this is worth enforcing
 
-A conformant bundle can still be unusable. Validation proves each file is well-formed. Connectivity proves the bundle is a graph rather than a pile of well-formed files, which is the property that made [traversal](/spec/cross-linking.md) the answer to [retrieval's third failure](/approaches/retrieval-failure-modes.md) in the first place.
+A conformant bundle can still be unusable. Validation proves each file is well-formed. Connectivity proves the bundle is a graph rather than a pile of well-formed files, which is the property that made [traversal](../spec/cross-linking.md) the answer to [retrieval's third failure](../approaches/retrieval-failure-modes.md) in the first place.
 
 # Related
 
-- [Cross-linking](/spec/cross-linking.md) is the format rule behind this discipline.
-- [Authoring a bundle](/practice/authoring-a-bundle.md) folds it into the per-change bookkeeping.
+- [Cross-linking](../spec/cross-linking.md) is the format rule behind this discipline.
+- [Authoring a bundle](authoring-a-bundle.md) folds it into the per-change bookkeeping.

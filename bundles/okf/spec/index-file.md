@@ -16,7 +16,7 @@ sources:
 
 # What it is for
 
-An `index.md` **MAY** appear in any directory, including the bundle root. It is the table of contents at that level: a short, curated listing so an agent can decide where to descend without reading every file.[^spec] That is [progressive disclosure](/practice/progressive-disclosure.md), and it is what keeps a ten-thousand-file bundle usable inside a finite [context window](/context/context-window.md).
+An `index.md` **MAY** appear in any directory, including the bundle root. It is the table of contents at that level: a short, curated listing so an agent can decide where to descend without reading every file.[^spec] That is [progressive disclosure](../practice/progressive-disclosure.md), and it is what keeps a ten-thousand-file bundle usable inside a finite [context window](../context/context-window.md).
 
 # The frontmatter rule
 
@@ -28,24 +28,24 @@ okf_version: "0.2"
 ---
 ```
 
-See [versioning](/spec/versioning.md).
+See [versioning](versioning.md).
 
 # The body shape
 
 One or more sections, each grouping concepts under a heading, as a bulleted list of links with short descriptions. Entries **SHOULD** carry the description from the linked concept's frontmatter and **MAY** link to subdirectories with a trailing slash:
 
-Modelled on this bundle's own trust listing, which groups [trust tiers](/trust/trust-tiers.md) and [lifecycle](/trust/lifecycle.md) under one heading:
+Modelled on this bundle's own trust listing, which groups [trust tiers](../trust/trust-tiers.md) and [lifecycle](../trust/lifecycle.md) under one heading. In the real file the targets are plain filenames, because an index lists its own directory. The example writes them from this concept's location so they stay followable here:
 
 ```markdown
 # Judgement
-* [Trust tiers](/trust/trust-tiers.md) - Three tiers a consumer derives from verified.
-* [status and stale_after](/trust/lifecycle.md) - Knowledge with a lifecycle and an expiry date.
+* [Trust tiers](../trust/trust-tiers.md) - Three tiers a consumer derives from verified.
+* [status and stale_after](../trust/lifecycle.md) - Knowledge with a lifecycle and an expiry date.
 
 # Subdirectories
 * [Practice](practice/) - Authoring, consuming, validating, shipping.
 ```
 
-Both link forms work in an index. Relative targets keep a listing short, and bundle-absolute targets survive the directory moving.
+Both link forms work in an index, and the same [consumer split](cross-linking.md) applies as everywhere else.
 
 Producers **MAY** generate index files automatically, and consumers **MAY** synthesize one when it is absent. Neither is required.
 
@@ -57,8 +57,8 @@ Index files linking to other index files is fine. That is navigation linking to 
 
 # Related
 
-- [The log file](/spec/log-file.md) is the other reserved filename.
-- [Graph hygiene](/practice/graph-hygiene.md) covers the concept-to-index mistake and how to find it.
-- [The bundle](/spec/bundle.md) shows where index files sit in the tree.
+- [The log file](log-file.md) is the other reserved filename.
+- [Graph hygiene](../practice/graph-hygiene.md) covers the concept-to-index mistake and how to find it.
+- [The bundle](bundle.md) shows where index files sit in the tree.
 
 [^spec]: OKF v0.2 specification, sections 8 and 12.

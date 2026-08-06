@@ -22,25 +22,25 @@ A markdown file in the repo that tells the coding agent how this project works: 
 
 It is the first approach that puts knowledge where the work happens, in version control, next to the thing it describes. It gets reviewed in a pull request, diffed, and blamed. It is written by the people who know, in the form they already write in. No pipeline, no embedding, no service.
 
-OKF keeps every one of those properties. A bundle is the same idea, [specified](/spec/conformance.md) instead of improvised.
+OKF keeps every one of those properties. A bundle is the same idea, [specified](../spec/conformance.md) instead of improvised.
 
 # Where it stops
 
-- **The location is standard, the content is not.** `AGENTS.md` settles where the file lives and what it is for. It says nothing about what is inside, so no consumer can rely on any field being present, and your file's shape teaches nothing to the next team's agent. That is precisely the [format versus protocol](/approaches/format-versus-protocol.md) split, one layer down: a predictable path is not a predictable payload.
+- **The location is standard, the content is not.** `AGENTS.md` settles where the file lives and what it is for. It says nothing about what is inside, so no consumer can rely on any field being present, and your file's shape teaches nothing to the next team's agent. That is precisely the [format versus protocol](format-versus-protocol.md) split, one layer down: a predictable path is not a predictable payload.
 - **One file, one audience.** It briefs the coding agent in this repo. It does not become the finance agent's revenue definition.
 - **No trust layer.** Nothing records who wrote a line, whether anyone checked it, or when it went out of date.
-- **It does not scale past one file.** Once the briefing is fifty pages, the agent needs [navigation](/practice/progressive-disclosure.md) and [edges](/spec/cross-linking.md), which a flat file does not have.
+- **It does not scale past one file.** Once the briefing is fifty pages, the agent needs [navigation](../practice/progressive-disclosure.md) and [edges](../spec/cross-linking.md), which a flat file does not have.
 
 # The pattern underneath
 
 Everyone is hand-rolling a wiki for machines. Same idea, twelve incompatible shapes. That is exactly the condition a format addresses, and it is why the OKF conformance bar is one field rather than forty: the briefing files already work, so the job is to make them portable, not to replace them.
 
-The two compose directly. Keep `AGENTS.md` as the entry point the tooling already looks for, and let it point at a bundle for the knowledge that outgrew one file. See [the adoption path](/practice/adoption-path.md).
+The two compose directly. Keep `AGENTS.md` as the entry point the tooling already looks for, and let it point at a bundle for the knowledge that outgrew one file. See [the adoption path](../practice/adoption-path.md).
 
 # Related
 
-- [Scattered knowledge](/context/scattered-knowledge.md) is the same fragmentation one level up.
-- [The adoption path](/practice/adoption-path.md) is how a briefing file becomes a bundle without a migration project.
+- [Scattered knowledge](../context/scattered-knowledge.md) is the same fragmentation one level up.
+- [The adoption path](../practice/adoption-path.md) is how a briefing file becomes a bundle without a migration project.
 
 [^agents-md]: AGENTS.md, an open format for guiding coding agents.
 

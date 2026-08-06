@@ -29,21 +29,21 @@ The layers degrade in a useful order. A sitemap points at everything and explain
 
 # Wiring them together
 
-Add a line to your `llms.txt` pointing at the bundle root, and you are done. An agent that follows the convention finds the shortlist and follows it to the bundle. It starts at [the root index](/spec/index-file.md), with [traversal](/spec/cross-linking.md) available from there.
+Add a line to your `llms.txt` pointing at the bundle root, and you are done. An agent that follows the convention finds the shortlist and follows it to the bundle. It starts at [the root index](../spec/index-file.md), with [traversal](../spec/cross-linking.md) available from there.
 
-No new protocol is involved. This is [format versus protocol](/approaches/format-versus-protocol.md) again: the transport is HTTP and a text file, and the payload is what changed.
+No new protocol is involved. This is [format versus protocol](../approaches/format-versus-protocol.md) again: the transport is HTTP and a text file, and the payload is what changed.
 
 # ODSF, a profile for design systems
 
 The Open Design System Format is a profile of OKF for design systems: machine-readable tokens plus runnable examples, so an agent produces on-brand UI rather than plausible UI.
 
-A profile is the interesting move for adoption. It constrains the open parts of OKF for one domain (which `type` values exist, which fields to expect) without changing the format. A generic OKF consumer still reads an ODSF bundle, and [extensions](/spec/extensions.md) make that possible.
+A profile is the interesting move for adoption. It constrains the open parts of OKF for one domain (which `type` values exist, which fields to expect) without changing the format. A generic OKF consumer still reads an ODSF bundle, and [extensions](../spec/extensions.md) make that possible.
 
-The community has since proposed the same pattern for the spec itself, as an opt-in `okf_profile` key. The rule that came with it: a profile warning is never core nonconformance, and a profile pass never rescues a core failure. See [open questions](/ecosystem/open-questions.md).
+The community has since proposed the same pattern for the spec itself, as an opt-in `okf_profile` key. The rule that came with it: a profile warning is never core nonconformance, and a profile pass never rescues a core failure. See [open questions](open-questions.md).
 
 # Related
 
-- [Distribution](/practice/distribution.md) covers the shipping side.
-- [Design principles](/spec/design-principles.md) explains why the format stays out of the transport layer.
+- [Distribution](../practice/distribution.md) covers the shipping side.
+- [Design principles](../spec/design-principles.md) explains why the format stays out of the transport layer.
 
 [^llmstxt]: The /llms.txt proposal.

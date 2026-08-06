@@ -12,13 +12,13 @@ stale_after: 2027-01-31
 
 # The problem
 
-[The customers table](/customers-table.md) contains trial accounts, and trial accounts can place orders with `status = 'paid'` when a trial converts mid-cycle. A count that filters only on order status therefore includes accounts that are not customers.
+[The customers table](customers-table.md) contains trial accounts, and trial accounts can place orders with `status = 'paid'` when a trial converts mid-cycle. A count that filters only on order status therefore includes accounts that are not customers.
 
 As of Q2 2026 trial accounts are about **8%** of rows in the table, so the error is large enough to change a board number and small enough that nobody notices it is wrong.
 
 # The fix
 
-Always filter `account_type = 'paid'`. This is why [the sanctioned query](/count-active-customers.md) exists and why an agent may not rewrite it.
+Always filter `account_type = 'paid'`. This is why [the sanctioned query](count-active-customers.md) exists and why an agent may not rewrite it.
 
 # Why it is not fixed upstream
 
@@ -26,5 +26,5 @@ Splitting trials into a separate table has been proposed and not scheduled. Unti
 
 # Related
 
-- [Active customer](/active-customer.md) is the metric this distorts.
-- [Customer status policy](/customer-status-policy.md) defines what a customer is.
+- [Active customer](active-customer.md) is the metric this distorts.
+- [Customer status policy](customer-status-policy.md) defines what a customer is.

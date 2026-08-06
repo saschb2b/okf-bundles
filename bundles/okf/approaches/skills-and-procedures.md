@@ -35,7 +35,7 @@ Skills load by **progressive disclosure**, in three stages:
 2. **Activation.** When a task matches the description, it reads the full `SKILL.md`.
 3. **Execution.** It follows the instructions, loading referenced files or running bundled code only as needed.
 
-That is the same idea as an [`index.md`](/spec/index-file.md) listing: a cheap layer of descriptions so the expensive content stays on disk until something needs it. Both formats are answering the same constraint, [a finite context window](/context/context-window.md). See [progressive disclosure](/practice/progressive-disclosure.md).
+That is the same idea as an [`index.md`](../spec/index-file.md) listing: a cheap layer of descriptions so the expensive content stays on disk until something needs it. Both formats are answering the same constraint, [a finite context window](../context/context-window.md). See [progressive disclosure](../practice/progressive-disclosure.md).
 
 # The distinction that matters
 
@@ -45,7 +45,7 @@ That is the same idea as an [`index.md`](/spec/index-file.md) listing: a cheap l
 `A bundle`
 : **What is true** about a domain. Facts, definitions, relationships, and who vouches for them. Meaningless outside your context.
 
-The `okf` skill is the worked example. It knows how to write a conformant bundle, how to run the validator, and what bookkeeping an edit implies. It knows nothing about your revenue definition, and it should not. See [the okf skill](/ecosystem/okf-skill.md).
+The `okf` skill is the worked example. It knows how to write a conformant bundle, how to run the validator, and what bookkeeping an edit implies. It knows nothing about your revenue definition, and it should not. See [the okf skill](../ecosystem/okf-skill.md).
 
 # Where the line gets blurry, honestly
 
@@ -53,7 +53,7 @@ The Agent Skills format describes itself as packaging specialized knowledge *and
 
 Two failure modes follow from getting it wrong:
 
-- **Facts baked into a skill.** Hardcode the revenue definition in a `SKILL.md` and it rots the moment Finance changes it. The skill carries no [`sources`](/trust/sources.md), no [`verified`](/trust/generated-and-verified.md), no [`stale_after`](/trust/lifecycle.md), so nothing records that it went stale or who last checked it.
+- **Facts baked into a skill.** Hardcode the revenue definition in a `SKILL.md` and it rots the moment Finance changes it. The skill carries no [`sources`](../trust/sources.md), no [`verified`](../trust/generated-and-verified.md), no [`stale_after`](../trust/lifecycle.md), so nothing records that it went stale or who last checked it.
 - **Procedure scattered across a bundle.** Steps written as concepts read as knowledge and get retrieved out of order. A procedure has a sequence, and a knowledge graph deliberately does not.
 
 # They compose
@@ -70,8 +70,8 @@ A skill can also *author* a bundle, which is what the `okf` skill does, and it c
 
 # Related
 
-- [Briefing files](/approaches/briefing-files.md) are the same instinct at repo scope, and stop at one file.
-- [Tools and MCP](/approaches/tools-and-mcp.md) give an agent reach, where a skill gives it method.
-- [The okf skill](/ecosystem/okf-skill.md) is a skill whose whole subject is producing bundles.
+- [Briefing files](briefing-files.md) are the same instinct at repo scope, and stop at one file.
+- [Tools and MCP](tools-and-mcp.md) give an agent reach, where a skill gives it method.
+- [The okf skill](../ecosystem/okf-skill.md) is a skill whose whole subject is producing bundles.
 
 [^agent-skills]: Agent Skills, an open format for extending agent capabilities.

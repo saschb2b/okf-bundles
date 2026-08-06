@@ -16,9 +16,9 @@ sources:
 
 # The convention
 
-External material a bundle depends on becomes an ordinary concept under `references/<slug>.md`, with `type: Reference` and the live URL in [`resource`](/spec/core-frontmatter.md), plus a dated [`generated`](/trust/generated-and-verified.md).
+External material a bundle depends on becomes an ordinary concept under `references/<slug>.md`, with `type: Reference` and the live URL in [`resource`](../spec/core-frontmatter.md), plus a dated [`generated`](../trust/generated-and-verified.md).
 
-The [`sources`](/trust/sources.md) entry of a concept that uses it then points at the local path rather than the URL, so the citation resolves inside the bundle.
+The [`sources`](../trust/sources.md) entry of a concept that uses it then points at the local path rather than the URL, so the citation resolves inside the bundle.
 
 # Absorb the substance
 
@@ -38,10 +38,10 @@ Public-domain material is the exception worth knowing: official texts such as st
 # Keep the reference honest
 
 - Record `last_modified` on the source when the page states one. It is the recency signal a consumer weighs.
-- Set [`stale_after`](/trust/lifecycle.md) when the source has a known review cadence.
-- Re-check the URL when you touch the concept, and note a dead link in [`log.md`](/spec/log-file.md) rather than leaving it silently broken.
+- Set [`stale_after`](../trust/lifecycle.md) when the source has a known review cadence.
+- Re-check the URL when you touch the concept, and note a dead link in [`log.md`](../spec/log-file.md) rather than leaving it silently broken.
 
 # Related
 
-- [Sources](/trust/sources.md) is where a reference gets cited from.
-- [Authoring a bundle](/practice/authoring-a-bundle.md) covers the surrounding procedure.
+- [Sources](../trust/sources.md) is where a reference gets cited from.
+- [Authoring a bundle](authoring-a-bundle.md) covers the surrounding procedure.

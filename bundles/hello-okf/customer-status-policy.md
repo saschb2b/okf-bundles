@@ -28,6 +28,6 @@ The window matches the longest standard billing cycle plus a 30-day grace period
 
 # Ownership
 
-Finance owns this rule. Engineering owns [the table it reads](/customers-table.md) and [the query that implements it](/count-active-customers.md). Neither may change the window without Finance.
+Finance owns this rule. Engineering owns [the table it reads](customers-table.md) and [the query that implements it](count-active-customers.md). Neither may change the window without Finance.
 
-The metric that implements this policy is [active customer](/active-customer.md).
+The metric that implements this policy is [active customer](active-customer.md).

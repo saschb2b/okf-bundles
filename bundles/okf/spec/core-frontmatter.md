@@ -24,7 +24,7 @@ sources:
 | `resource` | recommended | URI | A URI identifying the underlying asset. Absent for concepts describing abstract ideas. |
 | `tags` | recommended | list of strings | Short strings for cross-cutting categorization. |
 
-The provenance, trust, and lifecycle families (`sources`, `generated`, `verified`, `status`, `stale_after`) are separate and all optional. See [sources](/trust/sources.md), [generated and verified](/trust/generated-and-verified.md), and [lifecycle](/trust/lifecycle.md).
+The provenance, trust, and lifecycle families (`sources`, `generated`, `verified`, `status`, `stale_after`) are separate and all optional. See [sources](../trust/sources.md), [generated and verified](../trust/generated-and-verified.md), and [lifecycle](../trust/lifecycle.md).
 
 # Choosing a `type`
 
@@ -32,7 +32,7 @@ The provenance, trust, and lifecycle families (`sources`, `generated`, `verified
 
 Good values say what the reader is looking at without a lookup: `BigQuery Table`, `Metric`, `Runbook`, `Policy`, `Reference`, `Attested Computation`. Poor values are generic (`Document`, `Page`, `Item`) or encode the file rather than the knowledge (`Markdown`).
 
-Two conventions are worth holding inside a bundle: use one spelling for one kind, and keep the value stable, because consumers filter on it. `Attested Computation` is the one value the spec itself defines, because [the attestation machinery](/trust/attested-computation.md) keys off it.
+Two conventions are worth holding inside a bundle: use one spelling for one kind, and keep the value stable, because consumers filter on it. `Attested Computation` is the one value the spec itself defines, because [the attestation machinery](../trust/attested-computation.md) keys off it.
 
 # `resource` versus `sources`
 
@@ -48,12 +48,12 @@ A concept about an abstract idea has no `resource` and still has `sources`.
 
 # Drop what you cannot stand behind
 
-A recommended field you guess at is worse than a missing one, because a consumer treats it as an assertion. Omit rather than invent. That rule is sharpest for `verified`, which [must never be backfilled](/trust/generated-and-verified.md).
+A recommended field you guess at is worse than a missing one, because a consumer treats it as an assertion. Omit rather than invent. That rule is sharpest for `verified`, which [must never be backfilled](../trust/generated-and-verified.md).
 
 # Related
 
-- [The concept document](/spec/concept-document.md) shows these fields in place.
-- [Extensions](/spec/extensions.md) covers the keys you add yourself.
-- [Tags have no special file](/spec/extensions.md): a consumer synthesizes a tag view by scanning frontmatter.
+- [The concept document](concept-document.md) shows these fields in place.
+- [Extensions](extensions.md) covers the keys you add yourself.
+- [Tags have no special file](extensions.md): a consumer synthesizes a tag view by scanning frontmatter.
 
 [^spec]: OKF v0.2 specification, section 4.

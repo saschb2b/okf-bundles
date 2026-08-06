@@ -19,13 +19,13 @@ The announcement introduces OKF from the data-sharing side rather than the promp
 
 That framing explains two design choices that look odd from a pure agent-context view:
 
-- The format is vendor-neutral and Apache 2.0, because a sharing format that one party owns is not a sharing format. See [design principles](/spec/design-principles.md).
-- The first reference producer walks a BigQuery dataset, because a warehouse is where the meaning gap is most expensive. See [knowledge-catalog](/ecosystem/knowledge-catalog.md).
+- The format is vendor-neutral and Apache 2.0, because a sharing format that one party owns is not a sharing format. See [design principles](../spec/design-principles.md).
+- The first reference producer walks a BigQuery dataset, because a warehouse is where the meaning gap is most expensive. See [knowledge-catalog](../ecosystem/knowledge-catalog.md).
 
 # What it points to
 
-The post is the entry point to `GoogleCloudPlatform/knowledge-catalog`, which holds [the spec](/references/okf-spec-v02.md), the reference producer and consumer, and [the sample bundles](/ecosystem/sample-bundles.md).
+The post is the entry point to `GoogleCloudPlatform/knowledge-catalog`, which holds [the spec](okf-spec-v02.md), the reference producer and consumer, and [the sample bundles](../ecosystem/sample-bundles.md).
 
 # How it relates to the rest of this bundle
 
-Reading the announcement first frames OKF as a catalog and data-sharing format. Reading [the context sections](/context/knowledge-gap.md) first frames it as an agent-context format. Both are accurate, and the second is the broader case: the sixty thousand court decisions and the recipe graph in [okf-bundles](/ecosystem/okf-bundles-repo.md) are not data-catalog use cases.
+Reading the announcement first frames OKF as a catalog and data-sharing format. Reading [the context sections](../context/knowledge-gap.md) first frames it as an agent-context format. Both are accurate, and the second is the broader case: the sixty thousand court decisions and the recipe graph in [okf-bundles](../ecosystem/okf-bundles-repo.md) are not data-catalog use cases.

@@ -100,10 +100,10 @@ Consumers **SHOULD** surface, not silently drop, a failing attestation. A verdic
 
 # What OKF does and does not do here
 
-OKF records the computation and how to check it. It never executes anything itself. The runtime protocol, the receipt and verdict wire formats, the attester ABI, and attestation caching are all [deferred to a later revision](/spec/versioning.md), so treat your executor and attester as local implementations rather than as standard interfaces.
+OKF records the computation and how to check it. It never executes anything itself. The runtime protocol, the receipt and verdict wire formats, the attester ABI, and attestation caching are all [deferred to a later revision](../spec/versioning.md), so treat your executor and attester as local implementations rather than as standard interfaces.
 
 # Related
 
-- [Verification versus attestation](/trust/attestation-versus-verification.md) is the distinction people most often collapse.
-- [Four ways retrieval lets an agent down](/approaches/retrieval-failure-modes.md) ends at the number this concept protects.
+- [Verification versus attestation](attestation-versus-verification.md) is the distinction people most often collapse.
+- [Four ways retrieval lets an agent down](../approaches/retrieval-failure-modes.md) ends at the number this concept protects.
 

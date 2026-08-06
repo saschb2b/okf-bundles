@@ -30,29 +30,29 @@ Zero dependencies, so it runs anywhere Node runs.[^skill]
 # Three levels
 
 `Errors (exit 1)`
-: The [one hard rule](/spec/conformance.md). A concept missing frontmatter, or missing a non-empty `type`.
+: The [one hard rule](../spec/conformance.md). A concept missing frontmatter, or missing a non-empty `type`.
 
 `Warnings`
 : The soft guidance. A non-ISO date in `log.md`, a link whose target file is absent, an actor that is not `producer/version`, `human:id` or `process:id`, and the graph connectivity report.
 
 `--strict, the producer gate`
-: Turns the guidance into failures. On a bundle declaring `"0.2"` it also checks for leftover `timestamp` or `# Citations`, a `sources` entry with no `resource`, a `generated` with no `by`, an out-of-range `status`, and an [Attested Computation](/trust/attested-computation.md) with no `runtime` or no computation.
+: Turns the guidance into failures. On a bundle declaring `"0.2"` it also checks for leftover `timestamp` or `# Citations`, a `sources` entry with no `resource`, a `generated` with no `by`, an out-of-range `status`, and an [Attested Computation](../trust/attested-computation.md) with no `runtime` or no computation.
 
 Nothing v0.2 added can ever be an error, because all of it is optional. A v0.1 bundle validates clean either way.
 
 # The connectivity check
 
-Among the warnings the checker reports **orphans** (a concept with no concept-to-concept link in or out) and **broken concept links** (a link whose target is not a concept, including a link into a reserved `index.md`). `--strict` fails on both, because an agent traversing the bundle cannot reach an orphan or cross a broken link, so either is missing context by construction. See [graph hygiene](/practice/graph-hygiene.md).
+Among the warnings the checker reports **orphans** (a concept with no concept-to-concept link in or out) and **broken concept links** (a link whose target is not a concept, including a link into a reserved `index.md`). `--strict` fails on both, because an agent traversing the bundle cannot reach an orphan or cross a broken link, so either is missing context by construction. See [graph hygiene](graph-hygiene.md).
 
 # What it cannot tell you
 
 The checker verifies shape. It says nothing about whether the knowledge is right, whether the bundle covers its source, or whether a `verified` event reflects a review that happened. A thin stub of a fifty-page site passes clean.
 
-So a green run is necessary and not sufficient. Pair it with the coverage gate in [authoring a bundle](/practice/authoring-a-bundle.md), and remember that the trust fields are self-reported: the format makes trust *checkable by a consumer*, not *enforced by a validator*.
+So a green run is necessary and not sufficient. Pair it with the coverage gate in [authoring a bundle](authoring-a-bundle.md), and remember that the trust fields are self-reported: the format makes trust *checkable by a consumer*, not *enforced by a validator*.
 
 # Related
 
-- [Conformance](/spec/conformance.md) is what the checker implements.
-- [The okf skill](/ecosystem/okf-skill.md) ships the checker and wraps it in `/okf validate`.
+- [Conformance](../spec/conformance.md) is what the checker implements.
+- [The okf skill](../ecosystem/okf-skill.md) ships the checker and wraps it in `/okf validate`.
 
 [^skill]: The okf skill: okf-validate.mjs, a zero-dependency conformance checker.

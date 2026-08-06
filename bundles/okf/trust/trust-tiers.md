@@ -16,7 +16,7 @@ sources:
 
 # The three tiers
 
-| [`verified`](/trust/generated-and-verified.md) | Tier |
+| [`verified`](generated-and-verified.md) | Tier |
 | --- | --- |
 | absent | **unverified** |
 | present, non-`human:` actors only | **machine-confirmed** |
@@ -26,7 +26,7 @@ Consumers **SHOULD** derive trust tiers and staleness only from the specified fi
 
 # The tier is derived, never declared
 
-OKF defines no `trust:` key. A producer cannot write "trust me". The tier falls out of who actually signed, which is why [the actor convention](/trust/actor-convention.md) matters more than it looks: consumers key off the `human:` prefix, so writing `human:` for agent-generated content inflates the tier of every concept it touches.
+OKF defines no `trust:` key. A producer cannot write "trust me". The tier falls out of who actually signed, which is why [the actor convention](actor-convention.md) matters more than it looks: consumers key off the `human:` prefix, so writing `human:` for agent-generated content inflates the tier of every concept it touches.
 
 # What it is for
 
@@ -44,10 +44,10 @@ A consumer **MUST NOT** reject a concept for missing `verified`. The tier is an 
 
 # Combine it with freshness
 
-Tier answers "did anyone check this?" and says nothing about "is it still true?" A human-reviewed concept that expired in March is worse than an unverified one written yesterday. Read the tier together with [`status` and `stale_after`](/trust/lifecycle.md).
+Tier answers "did anyone check this?" and says nothing about "is it still true?" A human-reviewed concept that expired in March is worse than an unverified one written yesterday. Read the tier together with [`status` and `stale_after`](lifecycle.md).
 
 # Related
 
-- [Why trust became a field](/trust/why-trust-is-a-field.md) is the motivation for the whole layer.
-- [Consuming a bundle](/practice/consuming-a-bundle.md) shows the tier used in a retrieval decision.
+- [Why trust became a field](why-trust-is-a-field.md) is the motivation for the whole layer.
+- [Consuming a bundle](../practice/consuming-a-bundle.md) shows the tier used in a retrieval decision.
 

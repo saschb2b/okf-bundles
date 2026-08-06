@@ -40,13 +40,13 @@ usage_window: { from: 2026-06-01, to: 2026-06-30 }
 # Credibility signals, all optional
 
 `author`
-: Who or what produced the source, in [the actor convention](/trust/actor-convention.md). An authority signal.
+: Who or what produced the source, in [the actor convention](actor-convention.md). An authority signal.
 
 `usage_count`
 : How often `resource` was exercised (dashboard views, query executions, page reads) over `usage_window`. An adoption and liveness signal.
 
 `last_modified`
-: When the source itself last changed, as `YYYY-MM-DD`. A recency signal, distinct from [`generated.at`](/trust/generated-and-verified.md), which records when the *concept* was written.
+: When the source itself last changed, as `YYYY-MM-DD`. A recency signal, distinct from [`generated.at`](generated-and-verified.md), which records when the *concept* was written.
 
 `usage_window`
 : Written once as a sibling of `sources`, it frames every `usage_count` with a `{ from, to }` range.
@@ -65,12 +65,12 @@ The footnote definition at the foot of the file gives the human-readable label. 
 
 # This replaced `# Citations`
 
-v0.1 put provenance in a body section. Moving it to frontmatter is one of the two breaking changes, and it is what lets a consumer read provenance without parsing the body. See [migration](/practice/migration-v01-to-v02.md).
+v0.1 put provenance in a body section. Moving it to frontmatter is one of the two breaking changes, and it is what lets a consumer read provenance without parsing the body. See [migration](../practice/migration-v01-to-v02.md).
 
 # Related
 
-- [Why trust became a field](/trust/why-trust-is-a-field.md) is the motivation.
-- [Core frontmatter](/spec/core-frontmatter.md) distinguishes `sources[].resource` from the top-level `resource`.
-- [External references](/practice/external-references.md) covers mirroring a source under `references/`.
+- [Why trust became a field](why-trust-is-a-field.md) is the motivation.
+- [Core frontmatter](../spec/core-frontmatter.md) distinguishes `sources[].resource` from the top-level `resource`.
+- [External references](../practice/external-references.md) covers mirroring a source under `references/`.
 
 [^spec]: OKF v0.2 specification, section 5.1.

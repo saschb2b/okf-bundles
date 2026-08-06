@@ -32,12 +32,12 @@ WHERE c.account_type = 'paid'
 
 # How to use it
 
-An agent may set `as_of_date`. It may **not** edit the query. Changing the join, the 90-day interval or the `account_type` filter silently changes what the number means, and each of those encodes a decision from the [customer status policy](/customer-status-policy.md).
+An agent may set `as_of_date`. It may **not** edit the query. Changing the join, the 90-day interval or the `account_type` filter silently changes what the number means, and each of those encodes a decision from the [customer status policy](customer-status-policy.md).
 
 A run returns a receipt with the job id, the SQL that actually executed, and the result. A deterministic checker canonicalises the executed SQL and compares it to the query above. If they differ, the number is refused rather than displayed.
 
 # Why this exists
 
-Without it, an agent asked for the active customer count writes plausible SQL, forgets the `account_type` filter, and returns a number that is wrong by roughly 8%. See [trial accounts](/known-issue-trial-accounts.md).
+Without it, an agent asked for the active customer count writes plausible SQL, forgets the `account_type` filter, and returns a number that is wrong by roughly 8%. See [trial accounts](known-issue-trial-accounts.md).
 
-This implements [active customer](/active-customer.md) and reads [the customers table](/customers-table.md).
+This implements [active customer](active-customer.md) and reads [the customers table](customers-table.md).

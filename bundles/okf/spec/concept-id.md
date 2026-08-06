@@ -31,11 +31,11 @@ OKF defines no id field, no UUID, and no registry. The filesystem is the identif
 
 Use lowercase, hyphen-separated filenames that read as the concept's name: `revenue-recognition.md`, `proof-of-stake.md`. Keep `title` in the frontmatter for display, so the filename can stay stable while the display name changes.
 
-Never name a concept `index.md` or `log.md`. Those are [reserved](/spec/bundle.md), and a checker will treat any other `.md` file as a concept and fail it for a missing `type`.
+Never name a concept `index.md` or `log.md`. Those are [reserved](bundle.md), and a checker will treat any other `.md` file as a concept and fail it for a missing `type`.
 
 # Related
 
-- [Cross-linking](/spec/cross-linking.md) explains why bundle-absolute links survive a move better than relative ones.
-- [The bundle](/spec/bundle.md) is the space these IDs live in.
+- [Cross-linking](cross-linking.md) explains why bundle-absolute links survive a move better than relative ones.
+- [The bundle](bundle.md) is the space these IDs live in.
 
 [^spec]: OKF v0.2 specification, sections 2 and 6.

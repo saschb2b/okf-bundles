@@ -26,27 +26,27 @@ sources:
 # What `acme_retail` demonstrates
 
 `A verified metric`
-: Written by an agent, signed off by the VP of Finance. The [human-reviewed tier](/trust/trust-tiers.md), with the two actors kept distinct.
+: Written by an agent, signed off by the VP of Finance. The [human-reviewed tier](../trust/trust-tiers.md), with the two actors kept distinct.
 
 `A deprecated metric`
-: The pre-FY2026 gross-margin formula, kept in the bundle for reproducibility and never served to new work. See [lifecycle](/trust/lifecycle.md).
+: The pre-FY2026 gross-margin formula, kept in the bundle for reproducibility and never served to new work. See [lifecycle](../trust/lifecycle.md).
 
 `Attested SQL`
-: Revenue YTD, with a real SQL-equality attester script. See [Attested Computation](/trust/attested-computation.md).
+: Revenue YTD, with a real SQL-equality attester script. See [Attested Computation](../trust/attested-computation.md).
 
 `Policies as concepts`
-: Revenue recognition as its own file, cited per claim through [footnoted source ids](/trust/sources.md).
+: Revenue recognition as its own file, cited per claim through [footnoted source ids](../trust/sources.md).
 
 `Sources with credibility signals`
 : `author`, `usage_count`, and `last_modified` filled where they are known.
 
-Its layout is the worked example in [the bundle](/spec/bundle.md): `tables/`, `metrics/`, `computations/`, `policies/`, `attesters/`.
+Its layout is the worked example in [the bundle](../spec/bundle.md): `tables/`, `metrics/`, `computations/`, `policies/`, `attesters/`.
 
 # How to read a sample
 
-Start at its root `index.md` and walk one question through the graph, exactly as [a consumer would](/practice/consuming-a-bundle.md). Reading the files in directory order teaches the layout and misses the point, because the point is the traversal.
+Start at its root `index.md` and walk one question through the graph, exactly as [a consumer would](../practice/consuming-a-bundle.md). Reading the files in directory order teaches the layout and misses the point, because the point is the traversal.
 
 # Related
 
-- [knowledge-catalog](/ecosystem/knowledge-catalog.md) is the repository these live in.
-- [okf-bundles](/ecosystem/okf-bundles-repo.md) is a different kind of example: bundles at corpus scale.
+- [knowledge-catalog](knowledge-catalog.md) is the repository these live in.
+- [okf-bundles](okf-bundles-repo.md) is a different kind of example: bundles at corpus scale.

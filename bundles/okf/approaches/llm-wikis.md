@@ -30,7 +30,7 @@ Three layers:
 
 1. **Raw sources**, immutable originals.
 2. **The wiki**, LLM-generated markdown with cross-references.
-3. **The schema**, a configuration document such as `CLAUDE.md` or `AGENTS.md` defining structure and workflow. See [briefing files](/approaches/briefing-files.md).
+3. **The schema**, a configuration document such as `CLAUDE.md` or `AGENTS.md` defining structure and workflow. See [briefing files](briefing-files.md).
 
 Three operations. **Ingest** a source into several pages. **Query** the wiki and file valuable answers back as new pages. **Lint** for contradictions, stale claims, orphan pages, and missing cross-references.
 
@@ -40,30 +40,30 @@ It reached roughly 5,000 stars and 1,294 forks within 48 hours. The reaction spl
 
 # The lineage is not subtle
 
-OKF v0.1 arrived on 12 June 2026, about ten weeks later, and [reserves exactly two filenames](/spec/bundle.md): `index.md` and `log.md`. With the same meanings. The spec names its ancestry directly, listing "LLM wiki repositories that use markdown plus frontmatter as an agent-readable knowledge base" first among the patterns it is close to.[^spec]
+OKF v0.1 arrived on 12 June 2026, about ten weeks later, and [reserves exactly two filenames](../spec/bundle.md): `index.md` and `log.md`. With the same meanings. The spec names its ancestry directly, listing "LLM wiki repositories that use markdown plus frontmatter as an agent-readable knowledge base" first among the patterns it is close to.[^spec]
 
 | LLM wiki gist | OKF |
 | --- | --- |
-| Markdown wiki with cross-references | [Bundle of concepts](/spec/bundle.md), linked |
-| `index.md` catalog by category | [`index.md`](/spec/index-file.md), reserved, for progressive disclosure |
-| `log.md` append-only record | [`log.md`](/spec/log-file.md), reserved, dated newest-first |
+| Markdown wiki with cross-references | [Bundle of concepts](../spec/bundle.md), linked |
+| `index.md` catalog by category | [`index.md`](../spec/index-file.md), reserved, for progressive disclosure |
+| `log.md` append-only record | [`log.md`](../spec/log-file.md), reserved, dated newest-first |
 | Schema doc (`CLAUDE.md`) | Frontmatter on each concept, plus `okf_version` |
-| Lint for contradictions, stale claims, orphans | [Validation](/practice/validation.md) and [graph hygiene](/practice/graph-hygiene.md) |
-| Ingest, query | [`export`/`enrich`, `consume`](/ecosystem/okf-skill.md) |
+| Lint for contradictions, stale claims, orphans | [Validation](../practice/validation.md) and [graph hygiene](../practice/graph-hygiene.md) |
+| Ingest, query | [`export`/`enrich`, `consume`](../ecosystem/okf-skill.md) |
 
 # So are they dead? No, one of them got specified
 
 That is the honest answer, and it has two halves.
 
-**The pattern won.** Compiled knowledge that persists and compounds, rather than retrieval that starts over every turn, is the premise underneath OKF. Everything in [why retrieval falls short](/approaches/retrieval-failure-modes.md) is the same argument the gist made.
+**The pattern won.** Compiled knowledge that persists and compounds, rather than retrieval that starts over every turn, is the premise underneath OKF. Everything in [why retrieval falls short](retrieval-failure-modes.md) is the same argument the gist made.
 
-**The gist was a pattern, not a format.** It told one person how to run one wiki with one agent. It did not say what makes a wiki readable by *someone else's* agent, which is the entire [interoperability](/spec/conformance.md) problem: no required field, no conformance statement, no provenance, no trust signals, no version. Two people following the gist produce two incompatible wikis, which is [exactly the fragmentation](/context/scattered-knowledge.md) a format exists to remove.
+**The gist was a pattern, not a format.** It told one person how to run one wiki with one agent. It did not say what makes a wiki readable by *someone else's* agent, which is the entire [interoperability](../spec/conformance.md) problem: no required field, no conformance statement, no provenance, no trust signals, no version. Two people following the gist produce two incompatible wikis, which is [exactly the fragmentation](../context/scattered-knowledge.md) a format exists to remove.
 
-OKF took the shape and added the contract. What it deliberately did **not** take is the operations. Ingest, query, and lint are procedure, so they live in [skills and tooling](/approaches/skills-and-procedures.md) rather than in the format, which is the [procedure-versus-fact split](/approaches/skills-and-procedures.md) applied to this exact lineage.
+OKF took the shape and added the contract. What it deliberately did **not** take is the operations. Ingest, query, and lint are procedure, so they live in [skills and tooling](skills-and-procedures.md) rather than in the format, which is the [procedure-versus-fact split](skills-and-procedures.md) applied to this exact lineage.
 
 # The migration is visible in the tracker
 
-This is not a retrospective reading. In the OKF issue tracker, a maintainer of a production LLM wiki skill (a 600-line markdown skill generating agent-readable bundles) reports completing the migration to OKF and finding it straightforward, with roughly seven wikilinks to rewrite.[^tracker] Projects on GitHub carrying both labels are now common, for example an "agent-first local harness for OKF-compatible LLM Wikis" and a "self-maintaining, Obsidian-compatible knowledge base." See [community tools](/ecosystem/community-tools.md).
+This is not a retrospective reading. In the OKF issue tracker, a maintainer of a production LLM wiki skill (a 600-line markdown skill generating agent-readable bundles) reports completing the migration to OKF and finding it straightforward, with roughly seven wikilinks to rewrite.[^tracker] Projects on GitHub carrying both labels are now common, for example an "agent-first local harness for OKF-compatible LLM Wikis" and a "self-maintaining, Obsidian-compatible knowledge base." See [community tools](../ecosystem/community-tools.md).
 
 # Second brains: alive, and closer than you would think
 
@@ -71,23 +71,23 @@ Personal knowledge management (Obsidian, Logseq, Roam, Notion, Zettelkasten prac
 
 The remaining 10% is small and specific:
 
-- A non-empty [`type`](/spec/core-frontmatter.md) on every note, the one hard requirement.
+- A non-empty [`type`](../spec/core-frontmatter.md) on every note, the one hard requirement.
 - The reserved `index.md` and `log.md`.
 - **Standard markdown links instead of `[[wikilinks]]`.**
 
-The third is the real seam, and it is the most-discussed interop question from this direction. Wikilink resolution assumes a flat, globally-unique namespace, while [OKF identity is the file path](/spec/concept-id.md), so the two disagree about what a name means. The spec is currently silent, and two open proposals argue the silence is itself the problem. One asks the spec to declare wikilinks out of scope and canonicalize them. The other asks it to permit them as an equivalent form. Until it resolves, convert on export.
+The third is the real seam, and it is the most-discussed interop question from this direction. Wikilink resolution assumes a flat, globally-unique namespace, while [OKF identity is the file path](../spec/concept-id.md), so the two disagree about what a name means. The spec is currently silent, and two open proposals argue the silence is itself the problem. One asks the spec to declare wikilinks out of scope and canonicalize them. The other asks it to permit them as an equivalent form. Until it resolves, convert on export.
 
-Conversion is a solved problem in practice. Obsidian plugins exist that validate a vault against the spec, rewrite wikilinks and embeds into bundle-absolute links, and generate the reserved files. See [community tools](/ecosystem/community-tools.md).
+Conversion is a solved problem in practice. Obsidian plugins exist that validate a vault against the spec, rewrite wikilinks and embeds into bundle-absolute links, and generate the reserved files. See [community tools](../ecosystem/community-tools.md).
 
 # What to take from this
 
-If you already run an LLM wiki or a vault, you face a conformance pass, not a migration: add `type`, add the two reserved files, rewrite the links. [The adoption path](/practice/adoption-path.md) is shorter for you than for anyone else, and what you gain is that a second party can read the result.
+If you already run an LLM wiki or a vault, you face a conformance pass, not a migration: add `type`, add the two reserved files, rewrite the links. [The adoption path](../practice/adoption-path.md) is shorter for you than for anyone else, and what you gain is that a second party can read the result.
 
 # Related
 
-- [Briefing files](/approaches/briefing-files.md) are the gist's schema layer, standardized separately.
-- [OKF versus retrieval](/approaches/okf-versus-retrieval.md) is the same compiled-versus-retrieved argument the gist opened.
-- [Non-goals](/spec/non-goals.md) lists the patterns OKF positions itself against.
+- [Briefing files](briefing-files.md) are the gist's schema layer, standardized separately.
+- [OKF versus retrieval](okf-versus-retrieval.md) is the same compiled-versus-retrieved argument the gist opened.
+- [Non-goals](../spec/non-goals.md) lists the patterns OKF positions itself against.
 
 [^gist]: Andrej Karpathy, LLM Wiki (gist, 4 April 2026).
 [^spec]: OKF v0.2 specification, relationship to other formats.

@@ -27,18 +27,18 @@ Facts change on Tuesday. A fine-tune bakes the current revenue definition into w
 
 - Correcting a fact requires a training run, not an edit.
 - You cannot diff, review, or blame a weight.
-- Nothing in the output says which version of the fact it used, so a consumer cannot check [trust](/trust/trust-tiers.md) or [freshness](/trust/lifecycle.md).
+- Nothing in the output says which version of the fact it used, so a consumer cannot check [trust](../trust/trust-tiers.md) or [freshness](../trust/lifecycle.md).
 - You cannot share the knowledge with a different model, or carry it to the next model you migrate to.
 
-Retrieval's genuine contribution: it moved knowledge *out* of the model, into a store you can revise or swap without retraining.[^rag-paper] Keep that part. See [retrieval-augmented generation](/approaches/retrieval-augmented-generation.md).
+Retrieval's genuine contribution: it moved knowledge *out* of the model, into a store you can revise or swap without retraining.[^rag-paper] Keep that part. See [retrieval-augmented generation](retrieval-augmented-generation.md).
 
 # The rule of thumb
 
-Fine-tune for how the agent should behave. Put facts on the desk at inference time, where they can be edited, reviewed, and dated. A [concept document](/spec/concept-document.md) is that fact in a form both a person and an agent read.
+Fine-tune for how the agent should behave. Put facts on the desk at inference time, where they can be edited, reviewed, and dated. A [concept document](../spec/concept-document.md) is that fact in a form both a person and an agent read.
 
 # Related
 
-- [Prompt stuffing](/approaches/prompt-stuffing.md) sits at the other extreme: entirely at inference time, entirely manual.
+- [Prompt stuffing](prompt-stuffing.md) sits at the other extreme: entirely at inference time, entirely manual.
 
 [^rag-paper]: Lewis et al., Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (NeurIPS 2020).
 

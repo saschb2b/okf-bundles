@@ -15,7 +15,7 @@ sources:
 
 # Side by side
 
-| | [`verified`](/trust/generated-and-verified.md) | [Attestation](/trust/attested-computation.md) |
+| | [`verified`](generated-and-verified.md) | [Attestation](attested-computation.md) |
 | --- | --- | --- |
 | Confirms | The *definition* matches policy | A single *run* produced the values correctly |
 | Cadence | Doc-level, slow | Per-call, at runtime |
@@ -37,13 +37,13 @@ Checking one and calling it done leaves the other failure wide open.
 
 # The reading order for a consumer
 
-1. Check [`status` and `stale_after`](/trust/lifecycle.md). A deprecated or expired concept is out before anything else runs.
-2. Check the [trust tier](/trust/trust-tiers.md) against what this answer is for.
+1. Check [`status` and `stale_after`](lifecycle.md). A deprecated or expired concept is out before anything else runs.
+2. Check the [trust tier](trust-tiers.md) against what this answer is for.
 3. If a number is involved, execute through the attested computation and gate on the verdict.
 
 Steps 1 and 2 are free, being frontmatter reads. Step 3 costs a query, so it goes last.
 
 # Related
 
-- [Why trust became a field](/trust/why-trust-is-a-field.md) sets out all five questions the layer answers.
-- [Consuming a bundle](/practice/consuming-a-bundle.md) puts this order into a procedure.
+- [Why trust became a field](why-trust-is-a-field.md) sets out all five questions the layer answers.
+- [Consuming a bundle](../practice/consuming-a-bundle.md) puts this order into a procedure.

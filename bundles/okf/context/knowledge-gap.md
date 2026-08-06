@@ -28,14 +28,14 @@ The local facts share three properties that keep them out of training data:
 - They change on a business timescale, so a model trained six months ago would be wrong anyway.
 - They are conventions rather than logic, so they cannot be derived. Nothing about SQL implies that your finance team recognizes revenue at `delivered`.
 
-That rules out waiting for a better model, and it mostly rules out [fine-tuning](/approaches/fine-tuning.md), which teaches behavior rather than facts.
+That rules out waiting for a better model, and it mostly rules out [fine-tuning](../approaches/fine-tuning.md), which teaches behavior rather than facts.
 
 # What closing it costs today
 
-The knowledge usually exists. Somebody knows the revenue rule. It is just [scattered across surfaces](/context/scattered-knowledge.md) that no agent can read uniformly, so the cost lands on a person re-explaining it every week.
+The knowledge usually exists. Somebody knows the revenue rule. It is just [scattered across surfaces](scattered-knowledge.md) that no agent can read uniformly, so the cost lands on a person re-explaining it every week.
 
 # Related
 
-- [The context window](/context/context-window.md) is the only channel through which the gap can be closed.
-- [The adoption path](/practice/adoption-path.md) starts by picking one question in this gap and writing the files that answer it.
+- [The context window](context-window.md) is the only channel through which the gap can be closed.
+- [The adoption path](../practice/adoption-path.md) starts by picking one question in this gap and writing the files that answer it.
 

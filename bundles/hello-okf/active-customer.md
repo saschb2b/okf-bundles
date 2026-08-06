@@ -17,13 +17,13 @@ sources:
 A customer is **active** when both hold:
 
 - At least one order with `status = 'paid'` in the trailing 90 days.
-- The account is not a trial account. See [trial accounts](/known-issue-trial-accounts.md).
+- The account is not a trial account. See [trial accounts](known-issue-trial-accounts.md).
 
 $$
 \text{active} = \bigl|\{c : \exists\, o \in \text{orders}(c),\ o.status = \text{paid},\ o.date \ge \text{today} - 90\}\bigr|
 $$
 
-The 90-day window is a business decision, not a technical one. It comes from the [customer status policy](/customer-status-policy.md), which Finance owns.[^policy]
+The 90-day window is a business decision, not a technical one. It comes from the [customer status policy](customer-status-policy.md), which Finance owns.[^policy]
 
 # What does not count
 
@@ -31,11 +31,11 @@ The 90-day window is a business decision, not a technical one. It comes from the
 | --- | --- | --- |
 | Paid order 100 days ago | No | Outside the window |
 | Refunded order in window | No | `status` becomes `refunded` |
-| Trial account with usage | No | See [trial accounts](/known-issue-trial-accounts.md) |
+| Trial account with usage | No | See [trial accounts](known-issue-trial-accounts.md) |
 | Two paid orders in window | Once | The metric counts customers, not orders |
 
 # How to compute it
 
-Do not write your own SQL for this. Use the sanctioned query in [counting active customers](/count-active-customers.md), which reads [the customers table](/customers-table.md).
+Do not write your own SQL for this. Use the sanctioned query in [counting active customers](count-active-customers.md), which reads [the customers table](customers-table.md).
 
 [^policy]: Customer status policy.

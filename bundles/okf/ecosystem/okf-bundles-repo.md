@@ -29,22 +29,22 @@ Court rulings, framework docs, company teardowns, and personal cooking notes, in
 # The two shapes it shows
 
 `A curated bundle`
-: One concept per idea, fully connected, no orphans, concept-to-concept links throughout. React, blockchain, and the recipes are this shape, and it is what [graph hygiene](/practice/graph-hygiene.md) demands.
+: One concept per idea, fully connected, no orphans, concept-to-concept links throughout. React, blockchain, and the recipes are this shape, and it is what [graph hygiene](../practice/graph-hygiene.md) demands.
 
 `A bulk corpus`
-: One concept per record, reached through an index tree by id, date or norm. Nobody can hand-link sixty thousand court decisions, so the leaves stay index-navigable and the no-orphans expectation does not apply. See [the corpus exception](/practice/graph-hygiene.md).
+: One concept per record, reached through an index tree by id, date or norm. Nobody can hand-link sixty thousand court decisions, so the leaves stay index-navigable and the no-orphans expectation does not apply. See [the corpus exception](../practice/graph-hygiene.md).
 
 Knowing a bundle's shape decides how to validate it and how an agent should read it.
 
 # What scale actually tested
 
-- [Progressive disclosure](/practice/progressive-disclosure.md) is load-bearing rather than nice, since no agent reads 60,600 files.
-- Ingest is [`process:`](/trust/actor-convention.md) work, and scripted producers make the actor convention concrete.
-- [`sources`](/trust/sources.md) has to carry a licensing story. A producer may copy official texts, and may not copy commentary literature. See [external references](/practice/external-references.md).
-- A recipe bundle linking each ingredient back to the dishes it appears in answers "what can I cook with what I have?" by intersecting backlinks. That is [traversal](/spec/cross-linking.md) doing work no similarity search does.
+- [Progressive disclosure](../practice/progressive-disclosure.md) is load-bearing rather than nice, since no agent reads 60,600 files.
+- Ingest is [`process:`](../trust/actor-convention.md) work, and scripted producers make the actor convention concrete.
+- [`sources`](../trust/sources.md) has to carry a licensing story. A producer may copy official texts, and may not copy commentary literature. See [external references](../practice/external-references.md).
+- A recipe bundle linking each ingredient back to the dishes it appears in answers "what can I cook with what I have?" by intersecting backlinks. That is [traversal](../spec/cross-linking.md) doing work no similarity search does.
 
 # Related
 
-- [Sample bundles](/ecosystem/sample-bundles.md) is the small, feature-complete counterpart.
-- [The okf skill](/ecosystem/okf-skill.md) is what authors and validates this repo.
+- [Sample bundles](sample-bundles.md) is the small, feature-complete counterpart.
+- [The okf skill](okf-skill.md) is what authors and validates this repo.
 

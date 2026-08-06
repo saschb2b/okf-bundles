@@ -32,9 +32,9 @@ stale_after: 2026-09-23 # absolute date; stale on or after this day
 `deprecated`
 : Kept for links and history, no longer current.
 
-Deprecation is the field that earns its keep in a real corpus. The old gross-margin formula stays in the bundle so last year's report can still be reproduced, and it is never served to new work. Retrieval cannot make that distinction, because the deprecated page reads exactly like the current one. See [retrieval failure 02](/approaches/retrieval-failure-modes.md).
+Deprecation is the field that earns its keep in a real corpus. The old gross-margin formula stays in the bundle so last year's report can still be reproduced, and it is never served to new work. Retrieval cannot make that distinction, because the deprecated page reads exactly like the current one. See [retrieval failure 02](../approaches/retrieval-failure-modes.md).
 
-Write the replacement into the deprecated concept as a [cross-link](/spec/cross-linking.md), with the relationship in the prose: "superseded by the FY2026 definition in `/metrics/gross-margin.md`". A deprecated concept with no forward pointer is a dead end.
+Write the replacement into the deprecated concept as a [cross-link](../spec/cross-linking.md), with the relationship in the prose: "superseded by the FY2026 definition in `/metrics/gross-margin.md`". A deprecated concept with no forward pointer is a dead end.
 
 # `stale_after`
 
@@ -50,9 +50,9 @@ Set it where the expiry is real. A quarterly figure expires at quarter end. A po
 
 # Freshness is not trust
 
-They answer different questions. A concept can be human-reviewed and expired, or unverified and current. Read them together, and see [trust tiers](/trust/trust-tiers.md) for the other axis.
+They answer different questions. A concept can be human-reviewed and expired, or unverified and current. Read them together, and see [trust tiers](trust-tiers.md) for the other axis.
 
 # Related
 
-- [Why trust became a field](/trust/why-trust-is-a-field.md) covers the stale-looks-like-current failure.
-- [The log file](/spec/log-file.md) records the change that moved a concept to `deprecated`.
+- [Why trust became a field](why-trust-is-a-field.md) covers the stale-looks-like-current failure.
+- [The log file](../spec/log-file.md) records the change that moved a concept to `deprecated`.

@@ -48,11 +48,11 @@ Sam McVeety (Tech Lead, Data Analytics) and Amir Hormati (Tech Lead, BigQuery) a
 
 **Attention is real and broad.** 73 distinct issue authors in eight weeks is a genuine cross-organizational conversation, not a repo with one team talking to itself. Several threads run past ten substantive comments between people who do not work together.
 
-**Independent implementations are many.** 108 repositories carry the topic. Two stand out: a 3,121-star Obsidian agent framework that added OKF interop, and a 1,359-star markdown knowledge graph. Separate teams have implemented the format in Go, Rust, Ruby, Python, and TypeScript. That is what a format people build against looks like, rather than one people discuss. See [community tools](/ecosystem/community-tools.md).
+**Independent implementations are many.** 108 repositories carry the topic. Two stand out: a 3,121-star Obsidian agent framework that added OKF interop, and a 1,359-star markdown knowledge graph. Separate teams have implemented the format in Go, Rust, Ruby, Python, and TypeScript. That is what a format people build against looks like, rather than one people discuss. See [community tools](community-tools.md).
 
-**A second vendor produces OKF from its own catalog.** `aws-samples/sample-okf-llm-wiki` turns AWS Glue Data Catalog and Amazon Redshift sources into bundles and serves them to agents over MCP. It is a sample rather than a product, and it is still the strongest available evidence for [format, not platform](/spec/design-principles.md): a competing cloud emitting Google's format from its own metadata, with no coordination required.
+**A second vendor produces OKF from its own catalog.** `aws-samples/sample-okf-llm-wiki` turns AWS Glue Data Catalog and Amazon Redshift sources into bundles and serves them to agents over MCP. It is a sample rather than a product, and it is still the strongest available evidence for [format, not platform](../spec/design-principles.md): a competing cloud emitting Google's format from its own metadata, with no coordination required.
 
-**The pull comes from the wiki lineage, not the catalog framing.** The two largest projects both come from the [LLM wiki and second-brain](/approaches/llm-wikis.md) direction and added OKF to an existing user base. OKF launched as a data-sharing format, and adopters use it hardest as a knowledge-portability one.
+**The pull comes from the wiki lineage, not the catalog framing.** The two largest projects both come from the [LLM wiki and second-brain](../approaches/llm-wikis.md) direction and added OKF to an existing user base. OKF launched as a data-sharing format, and adopters use it hardest as a knowledge-portability one.
 
 **Convergent design is the strongest signal.** The AKB team reported reaching OKF's exact core model on their own, per-vault git repos of markdown with YAML frontmatter and path-as-identity, *before the spec existed*. A standard that names a shape people already built beats one that asks them to adopt a new shape.
 
@@ -69,11 +69,11 @@ Be careful with the word adoption. It conflates three different claims:
 `Production use of bundles as the knowledge layer`
 : The hardest to verify and the thing that actually matters. The tracker carries credible reports (a GraphRAG engine over ~46,000 markdown files, a wiki compiler at Lexenne, governance profiles in production) but no public census. Nobody can honestly tell you how many organizations run OKF today.
 
-**No adopter list exists upstream.** The `okf/README.md` has no community, ecosystem or implementations section, which is why two open issues request one. The community built [a directory](/ecosystem/community-tools.md) instead, so the authoritative place to check who uses OKF is not run by the format's authors.
+**No adopter list exists upstream.** The `okf/README.md` has no community, ecosystem or implementations section, which is why two open issues request one. The community built [a directory](community-tools.md) instead, so the authoritative place to check who uses OKF is not run by the format's authors.
 
 # Where the pull comes from
 
-The tracker skews toward people with a corpus problem rather than a data-catalog problem, which is broader than the launch framing suggested. Recurring producer contexts: enterprise SaaS documentation, wiki memory systems, civic and civil-society knowledge, ML experiment trails, legal and regulated corpora, and coding-agent governance. The [data-sharing framing](/references/google-cloud-announcement.md) brought the format out. The demand turns out to be general knowledge portability.
+The tracker skews toward people with a corpus problem rather than a data-catalog problem, which is broader than the launch framing suggested. Recurring producer contexts: enterprise SaaS documentation, wiki memory systems, civic and civil-society knowledge, ML experiment trails, legal and regulated corpora, and coding-agent governance. The [data-sharing framing](../references/google-cloud-announcement.md) brought the format out. The demand turns out to be general knowledge portability.
 
 # A caution about measuring this
 
@@ -83,16 +83,16 @@ The lesson generalizes past this bundle: for a young format with no official ado
 
 # The honest summary
 
-OKF at eight weeks has an implementation ecosystem larger than its age suggests: 108 tagged repositories, independent implementations in five languages, a community registry of 479 bundles, a second cloud vendor emitting the format from its own catalog, and the two largest adopters arriving from the [LLM wiki lineage](/approaches/llm-wikis.md) rather than from data cataloguing.
+OKF at eight weeks has an implementation ecosystem larger than its age suggests: 108 tagged repositories, independent implementations in five languages, a community registry of 479 bundles, a second cloud vendor emitting the format from its own catalog, and the two largest adopters arriving from the [LLM wiki lineage](../approaches/llm-wikis.md) rather than from data cataloguing.
 
-What is still missing is the boring institutional layer. No verified enterprise deployments in public, no official adopter list, no [governance](/ecosystem/governance.md) outside one vendor's repository, and a set of [open questions](/ecosystem/open-questions.md) with no maintainer verdict. One large documentation vendor is positioning without shipping.
+What is still missing is the boring institutional layer. No verified enterprise deployments in public, no official adopter list, no [governance](governance.md) outside one vendor's repository, and a set of [open questions](open-questions.md) with no maintainer verdict. One large documentation vendor is positioning without shipping.
 
 The fair reading is that OKF has won the early implementer argument and has not yet been tested as an institution. Formats fail at the second stage more often than the first.
 
 # Related
 
-- [Community tools](/ecosystem/community-tools.md) is the verified list behind the "ten tools" claim.
-- [knowledge-catalog](/ecosystem/knowledge-catalog.md) is the upstream these numbers describe.
+- [Community tools](community-tools.md) is the verified list behind the "ten tools" claim.
+- [knowledge-catalog](knowledge-catalog.md) is the upstream these numbers describe.
 
 [^announcement]: How the Open Knowledge Format can improve data sharing.
 [^gitbook]: GitBook, What is OKF? Understanding Google's Open Knowledge Format.

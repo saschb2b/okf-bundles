@@ -29,7 +29,7 @@ The body is ordinary markdown. Producers **SHOULD** favor headings, lists, table
 | --- | --- |
 | `# Schema` | A structured description of the asset's columns or fields, typically a table. |
 | `# Examples` | Concrete usage examples, typically fenced code. |
-| `# Computation` | The sanctioned computation, for [Attested Computation](/trust/attested-computation.md) concepts. |
+| `# Computation` | The sanctioned computation, for [Attested Computation](../trust/attested-computation.md) concepts. |
 
 These are conventions, not a template. A concept may have only a body, or entirely different headings.
 
@@ -50,12 +50,12 @@ Keep prose for meaning and reasoning. Reach for these forms when the fact has sh
 
 # `# Citations` is gone
 
-v0.1 put provenance in a `# Citations` body section. v0.2 moves it to [the `sources` frontmatter family](/trust/sources.md), and a footnote keyed to a source `id` now attributes each claim. This is one of the two breaking changes. See [migration](/practice/migration-v01-to-v02.md).
+v0.1 put provenance in a `# Citations` body section. v0.2 moves it to [the `sources` frontmatter family](../trust/sources.md), and a footnote keyed to a source `id` now attributes each claim. This is one of the two breaking changes. See [migration](../practice/migration-v01-to-v02.md).
 
 # Related
 
-- [The concept document](/spec/concept-document.md) is the file this body sits in.
-- [Authoring a bundle](/practice/authoring-a-bundle.md) puts these conventions into a procedure.
+- [The concept document](concept-document.md) is the file this body sits in.
+- [Authoring a bundle](../practice/authoring-a-bundle.md) puts these conventions into a procedure.
 
 [^spec]: OKF v0.2 specification, section 4.
 [^skill]: The okf skill: pick the sharpest markdown form.
