@@ -1,5 +1,9 @@
 # Log
 
+## 2026-08-06
+
+* **Update**: Removed three `author: team:*` lines (King Arthur Baking on the Focaccia, Edeka twice on the Einkaufs-Guide). Spec §7 kennt nur drei Actor-Formen, strikte Consumer (OKF Studio) warnen bei `team:`, und der aktualisierte Validator jetzt auch. Die Organisationsnamen stehen weiter im `title` der jeweiligen Quelle.
+
 ## 2026-07-29
 
 * **Neue Ebene (Wochenplanung)**: Über den Gerichten liegt jetzt eine Planungsebene, die beantwortet, wie eine ganze Woche zustande kommt, ohne täglich lange zu kochen und ohne dass der Einkauf halb verdirbt. Neu sind der neue `type: Wochenplan` mit drei gerechneten Wochen ([Standardwoche](wochenplaene/standardwoche.md), [Vorratswoche](wochenplaene/vorratswoche.md), [Schnelle Woche](wochenplaene/schnelle-woche.md)), die Methode in [Wochenplanung](guide/wochenplanung.md) und die Einkaufsebene in [Einkauf bei Edeka](guide/einkauf-edeka.md). Jeder Plan nennt Tagesfolge, Aktivzeit je Tag, Einkaufszettel nach Marktabteilungen und eine Tabelle, wohin jeder Rest geht.

@@ -10,11 +10,9 @@ sources:
   - id: mingchu
     resource: https://www.edeka.de/unsere-marken/ming-chu.jsp
     title: "Ming Chu, asiatische Küche bei EDEKA (Markenseite)"
-    author: team:edeka
   - id: mingchu-shop
     resource: https://www.edeka24.de/nach-marke/Ming-Chu/
     title: "Ming Chu im EDEKA24-Onlineshop, vollständige Markenliste"
-    author: team:edeka
   - id: p-sojasauce-dunkel
     resource: https://www.edeka.de/unsere-marken/produkte/ming-chu-sojasauce-dunkel-4311596616831/
     title: "Ming Chu Sojasauce dunkel (Produktseite)"

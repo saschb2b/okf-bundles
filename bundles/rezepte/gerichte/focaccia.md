@@ -27,7 +27,6 @@ sources:
   - id: king-arthur
     resource: https://www.kingarthurbaking.com/recipes/big-and-bubbly-focaccia-recipe
     title: "Big and Bubbly Focaccia (King Arthur Baking, Recipe of the Year 2025)"
-    author: team:king-arthur-baking
   - id: alexandra
     resource: https://alexandracooks.com/2018/03/02/overnight-refrigerator-focaccia-best-focaccia/
     title: "Overnight Refrigerator Focaccia (Alexandra's Kitchen)"
