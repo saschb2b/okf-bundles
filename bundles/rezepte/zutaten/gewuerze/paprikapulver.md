@@ -10,8 +10,8 @@ lagerung: Dunkel und luftdicht, kühl
 haltbarkeit: 6 bis 12 Monate, danach verblasst Farbe und Aroma
 tags: [gewuerz, farbe, suess, geraeuchert]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -53,3 +53,4 @@ Tomatenmark für die Farbe (nicht für den Geschmack), [Chilipulver](/zutaten/ge
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), in der Marinade.
 - [Paella](/gerichte/paella.md), im Sofrito.
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), edelsüß in der Würzpaste, geräuchert in der kräftigen Variante.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), gern geräuchert in der Chili-Würzung.

@@ -11,8 +11,8 @@ haltbarkeit: Frisch 3 bis 7 Tage, Dose Jahre
 saison: Freiland Juli bis Oktober
 tags: [gemuese, fruchtgemuese, saeure, umami]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T22:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -49,3 +49,7 @@ Passierte Tomaten gegen gestückelte ist unproblematisch. Tomatenmark ersetzt fr
 - [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), frisch und gewürfelt.
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), als [Tomatenmark](/zutaten/wuerzmittel/tomatenmark.md) statt als Sauce.
 - [Focaccia](/gerichte/focaccia.md), als halbierte Kirschtomaten in den Grübchen.
+- [Pico de Gallo](/komponenten/pico-de-gallo.md), roh gewürfelt als Hauptbestandteil.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), gerieben als schnelle Saucenbasis.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), in Scheiben mit Oregano.
+- [Oregano-Hähnchen](/gerichte/oregano-haehnchen.md), gewürfelt im Salat.

@@ -10,8 +10,8 @@ lagerung: Dunkel und luftdicht, ganz länger als gemahlen
 haltbarkeit: Ganz 2 bis 3 Jahre, gemahlen 6 bis 12 Monate
 tags: [gewuerz, erdig, indisch, levantinisch, mexikanisch]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -44,3 +44,4 @@ Koriandersamen (heller, zitrusartig, andere Richtung), Kümmel nur wenn man den 
 - [Shakshuka](/gerichte/shakshuka.md), als eines von zwei Leitgewürzen.
 - [Freezer-Burritos](/gerichte/burrito.md), in der Gewürzmischung.
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), in Marinade und Sauce.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), gemahlen in der Chili-Würzung.

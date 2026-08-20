@@ -12,6 +12,7 @@ Reis, Mehl, Teige, Nudeln, Öle und Vorratsware.
 * [Japanischer Kurzkornreis (Uruchimai)](japanischer-kurzkornreis.md) - Rundkörniger Reis mit hohem Amylopektinanteil, der gegart leicht klebt und sich mit Stäbchen essen lässt.
 * [Langkornreis](langkornreis.md) - Reis mit hohem Amylosegehalt, dessen Körner nach dem Kochen einzeln bleiben und der deshalb die Basis für Bratreis ist.
 * [Noriblatt](noriblatt.md) - Getrocknete und gepresste Rotalge, die geröstet nussig schmeckt und an feuchter Luft binnen Minuten zäh wird.
+* [Nudeln (Hartweizen)](nudeln.md) - Trockene Teigware aus Hartweizengrieß und Wasser, deren Form entscheidet, wie viel Sauce sie trägt und ob sie sich zum Überbacken eignet.
 * [Olive (eingelegt)](olive.md) - In Lake oder Öl eingelegte Steinfrucht, die roh ungenießbar ist und ihre Bitterstoffe erst durch Fermentation oder Laugenbehandlung verliert.
 * [Olivenöl](olivenoel.md) - Fruchtiges Öl aus Oliven, dessen native Qualität ein Geschmacksträger und dessen raffinierte ein Bratfett ist.
 * [Fertiger Pizzateig (Kühlregal)](pizzateig-fertig.md) - Bereits ausgerollter Hefeteig auf Backpapier, der die gesamte Teigarbeit ersetzt und sofort verarbeitet werden kann.

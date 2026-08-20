@@ -10,8 +10,8 @@ lagerung: Im Kühlschrank, geriebene Ware luftdicht
 haltbarkeit: Geriebene Ware 1 bis 2 Wochen, angebrochen wenige Tage
 tags: [kaese, schmelzkaese, mild]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -38,3 +38,6 @@ Gouda jung (kräftiger, schmilzt gut), Emmentaler (nussiger), Cheddar (färbt un
 
 - [Freezer-Burritos](/gerichte/burrito.md), zusammen mit Frischkäse in die Füllung gerührt.
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), gerieben als bindender Teil der Füllung.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), gerieben als überbackener Deckel.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), auf dem heißen Fleisch geschmolzen.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), in der Variante mit Käse.

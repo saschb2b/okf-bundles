@@ -7,8 +7,8 @@ werkzeug: [Topf mit Deckel]
 temperatur: 85 bis 95 Grad
 tags: [kochen, garen, grundtechnik, eintopf]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Prinzip
@@ -45,3 +45,5 @@ Im Eintopf kommt nicht alles gleichzeitig hinein, sonst ist eines zerkocht und d
 - [Japanisches Curry](/gerichte/japanisches-curry.md), sowohl beim Garen des Gemüses als auch beim Nachziehen der gebundenen Sauce.
 - [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), 10 Minuten für Kartoffeln und Karotten.
 - [Shakshuka](/gerichte/shakshuka.md), zum Eindicken der Sauce vor den Eiern.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), 20 bis 30 Minuten für die Tomatensauce.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), kurz, bis die Hack-Bohnen-Füllung sämig ist.

@@ -2,7 +2,9 @@
 
 Trockengewürze, Kräuter und Salz.
 
+* [Chilipulver](chilipulver.md) - Gemahlene getrocknete Chili, deren Sorte über Frucht, Tiefe und Schärfe entscheidet und die nicht mit der US-Gewürzmischung Chili Powder zu verwechseln ist.
 * [Currypulver](currypulver.md) - Fertige Gewürzmischung auf Kurkuma-Basis, in Japan eigenständig weiterentwickelt und Grundlage jedes Curry-Roux.
+* [Dill](dill.md) - Anisartig-frisches Kraut, das getrocknet zwar an Feinheit verliert, aber in kalten Saucen und zu Fisch zuverlässig funktioniert.
 * [Garam Masala](garam-masala.md) - Nordindische Mischung warmer Gewürze, die am Ende der Garzeit zugegeben wird und Tiefe statt Schärfe bringt.
 * [Koriandersamen](koriandersamen.md) - Der Samen der Korianderpflanze, zitrusartig und süßlich, geschmacklich völlig verschieden vom grünen Kraut.
 * [Kreuzkümmel (Cumin)](kreuzkuemmel.md) - Erdig-warmes Gewürz, das mit Kümmel nichts zu tun hat und dessen Aroma erst durch Rösten im Fett aufgeht.

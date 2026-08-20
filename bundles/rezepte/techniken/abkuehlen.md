@@ -8,8 +8,8 @@ temperatur: von Kochhitze auf unter 5 Grad
 dauer: Ziel sind zwei Stunden, bei Reis eine
 tags: [vorratshaltung, meal-prep, lagerung, hygiene, abkuehlen]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T21:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 sources:
   - id: erfahrung
     resource: Produzentenwissen, Stand 2026-07-29, nicht aus einer Vorlage dieses Bundles gelesen
@@ -54,4 +54,5 @@ Das steht nicht im Widerspruch zum Bratreis-Verfahren, bei dem der Reis über Na
 - [Freezer-Burritos](/gerichte/burrito.md), wo das Abkühlen ein nummerierter Rezeptschritt ist.
 - [Japanischer Reis](/komponenten/japanischer-reis.md) und [Sushi-Reis](/komponenten/sushi-reis.md), aus dem Reisgrund oben.
 - [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), dessen Vortagsreis offen im Kühlschrank abtrocknet.
+- [Gelber Reis](/komponenten/gelber-reis.md), flach ausgebreitet vor Kühlschrank oder Gefrierfach.
 - Jedes Gericht, das anschließend [portioniert](/techniken/portionieren.md) oder [eingefroren](/techniken/einfrieren.md) wird. Die Methode dahinter steht in [Vorratshaltung](/guide/vorratshaltung.md).

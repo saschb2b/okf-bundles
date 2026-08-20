@@ -7,8 +7,8 @@ werkzeug: [Dosen mit Deckel, Gefrierbeutel, Eiswürfelform, Waage, Stift]
 dauer: 5 bis 10 Minuten
 tags: [vorratshaltung, meal-prep, lagerung, portionen]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T21:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 sources:
   - id: erfahrung
     resource: Produzentenwissen, Stand 2026-07-29, nicht aus einer Vorlage dieses Bundles gelesen
@@ -57,4 +57,5 @@ Für Zutaten, von denen später ein Löffel gebraucht wird, ist die Eiswürfelfo
 - [Curry-Roux](/komponenten/curry-roux.md), der in Eiswürfelformen portioniert wird.
 - [Japanischer Reis](/komponenten/japanischer-reis.md), portionsweise noch warm gewickelt.
 - [Freezer-Burritos](/gerichte/burrito.md) und [Pulled Beef](/gerichte/pulled-beef.md), beides Gerichte, deren Zweck die Portion ist.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), dessen Überschuss portionsweise ins Gefrierfach geht.
 - Jedes Gericht vor dem [Einfrieren](/techniken/einfrieren.md). Die Methode dahinter steht in [Vorratshaltung](/guide/vorratshaltung.md).

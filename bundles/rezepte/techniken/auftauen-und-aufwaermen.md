@@ -8,8 +8,8 @@ temperatur: Kerntemperatur mindestens 75 Grad
 dauer: Auftauen über Nacht, Aufwärmen 5 bis 20 Minuten
 tags: [vorratshaltung, meal-prep, aufwaermen, auftauen, reste]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T21:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 sources:
   - id: erfahrung
     resource: Produzentenwissen, Stand 2026-07-29, nicht aus einer Vorlage dieses Bundles gelesen
@@ -68,4 +68,5 @@ Das ist keine Schwäche der Methode, sondern eine Eigenschaft dieser Gerichte, u
 - [Sauerteigbrötchen](/gerichte/broetchen.md), die aus dem Vorrat fertig gebacken werden.
 - [Jiaozi](/gerichte/jiaozi.md), die gefroren direkt ins kochende Wasser gehen.
 - [Japanisches Curry](/gerichte/japanisches-curry.md) und [Chicken Curry](/gerichte/chicken-curry-indisch.md), die aufgewärmt besser schmecken als frisch.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), abgedeckt im Ofen oder mit einem Löffel Wasser in der Mikrowelle.
 - Der Gegenpart zum [Einfrieren](/techniken/einfrieren.md), eingeordnet in [Vorratshaltung](/guide/vorratshaltung.md).

@@ -10,8 +10,8 @@ lagerung: Im Kühlschrank, Stiele in ein Glas Wasser
 haltbarkeit: 4 bis 6 Tage
 tags: [kraut, frisch, polarisierend]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -37,3 +37,6 @@ Es gibt keinen echten. [Petersilie](/zutaten/gemuese/petersilie.md) übernimmt d
 # Wird verwendet in
 
 - [Freezer-Burritos](/gerichte/burrito.md), optional in der Füllung.
+- [Pico de Gallo](/komponenten/pico-de-gallo.md), Blätter und feine Stiele.
+- [Hackfleisch-Reis-Bowl](/gerichte/hackfleisch-reis-bowl.md), nur die Stiele, fein gehackt als Crunch.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), als frisches Topping.

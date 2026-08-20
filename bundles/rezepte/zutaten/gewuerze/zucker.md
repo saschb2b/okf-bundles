@@ -10,8 +10,8 @@ lagerung: Trocken und luftdicht
 haltbarkeit: Praktisch unbegrenzt
 tags: [zucker, backen, karamell, struktur]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -44,3 +44,4 @@ Zum Auflösen braucht Zucker Flüssigkeit und Zeit oder Wärme. Die Würzmischun
 - [Brownies](/gerichte/brownies.md), 250 g, mit den Eiern geschlagen.
 - [Sushi-Reis](/komponenten/sushi-reis.md), in der Würzmischung.
 - [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md), eine Prise in der Würzung.
+- [Eingelegte rote Zwiebeln](/komponenten/eingelegte-rote-zwiebeln.md), optional ein Teelöffel in der Lake.

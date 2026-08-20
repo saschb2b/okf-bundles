@@ -8,8 +8,8 @@ temperatur: hohe Hitze, 160 Grad und mehr an der Oberfläche
 dauer: 2 bis 4 Minuten je Seite
 tags: [braten, fleisch, roestaromen, grundtechnik]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Prinzip
@@ -45,3 +45,6 @@ Die braunen, angeklebten Rückstände am Topfboden sind konzentrierter Geschmack
 - [Jiaozi](/gerichte/jiaozi.md), für den Boden der gebratenen Gyoza.
 - [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), für die Garnelen.
 - [Pulled Beef](/gerichte/pulled-beef.md), vor dem [Schmoren](/techniken/schmoren.md), weil das Schmoren selbst keine Röstaromen erzeugt.
+- [Hackfleisch-Reis-Bowl](/gerichte/hackfleisch-reis-bowl.md) und [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), wo das Hack angedrückt und erst nach der Krustenbildung bewegt wird.
+- [Oregano-Hähnchen](/gerichte/oregano-haehnchen.md), für die Oregano-Salzkruste bei kontrollierter Hitze.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), für das dünn geschnittene, in der Pfanne gehackte Hähnchen.

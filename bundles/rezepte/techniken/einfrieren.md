@@ -8,8 +8,8 @@ temperatur: minus 18 Grad
 dauer: Haltbarkeit je nach Gericht 1 bis 6 Monate
 tags: [vorratshaltung, meal-prep, tiefkuehl, lagerung, einfrieren]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T21:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 sources:
   - id: erfahrung
     resource: Produzentenwissen, Stand 2026-07-29, nicht aus einer Vorlage dieses Bundles gelesen
@@ -81,4 +81,5 @@ Nach diesen Zeiten wird nichts schlecht, solange die Kühlkette hält. Sie sind 
 - [Jiaozi](/gerichte/jiaozi.md) und [Pizzaschnecken](/gerichte/pizzaschnecken.md), beide roh eingefroren.
 - [Sauerteigbrötchen](/gerichte/broetchen.md), vorgebacken gelagert.
 - [Curry-Roux](/komponenten/curry-roux.md) und [japanischer Reis](/komponenten/japanischer-reis.md) als portionierte Bausteine.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md) und die Chili-Hack-Füllung der [gefüllten Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), beide als portionierter Vorrat.
 - Herausgeholt wird das alles nach [Auftauen und Aufwärmen](/techniken/auftauen-und-aufwaermen.md), eingeordnet in [Vorratshaltung](/guide/vorratshaltung.md).

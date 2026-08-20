@@ -11,8 +11,8 @@ haltbarkeit: 1 bis 2 Wochen, Spitzpaprika kürzer
 saison: Freiland Juli bis Oktober, sonst Gewächshaus und Import
 tags: [gemuese, fruchtgemuese, suess]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -51,3 +51,5 @@ Spitzpaprika gegen Blockpaprika ist meist unproblematisch, umgekehrt gibt es meh
 - [Shakshuka](/gerichte/shakshuka.md), als Spitzpaprika, weich geschwitzt.
 - [Freezer-Burritos](/gerichte/burrito.md), gewürfelt und mit den Bohnen weich gekocht.
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), optional.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), mit der Zwiebel langsam weich geschmort.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), fein gewürfelt in der Farce.

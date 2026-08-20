@@ -11,8 +11,8 @@ haltbarkeit: 2 bis 6 Monate ganze Knolle, geschälte Zehen 1 Woche im Kühlschra
 saison: Ganzjährig, frischer Knoblauch Juni bis August
 tags: [gemuese, aroma, wuerze, lauchgewaechs]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -57,3 +57,7 @@ Bärlauch (saisonal, milder), Schalotte plus eine Prise Knoblauchgranulat, oder 
 - [Paella](/gerichte/paella.md), als Beginn des Sofrito.
 - [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md), fein gehackt, optional.
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), fein gerieben in der Würzpaste.
+- [Gelber Reis](/komponenten/gelber-reis.md), als angedrückte Zehe im Kochwasser.
+- [Hackfleisch-Reis-Bowl](/gerichte/hackfleisch-reis-bowl.md), granuliert über dem krossen Hack.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), in der Chili-Würzung.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), angedrückt in der Sauce und in der Farce.

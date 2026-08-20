@@ -10,8 +10,8 @@ lagerung: Bei 0 bis 4 Grad, im untersten Kühlschrankfach
 haltbarkeit: 1 bis 2 Tage frisch, gegart 3 Tage
 tags: [fleisch, gefluegel, mager, schnellgarend]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -44,3 +44,5 @@ Vor dem Braten trockentupfen. Nasses Fleisch bräunt nicht.
 - [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), in Stücken angebraten.
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), mariniert.
 - [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), in der Variante mit Fleisch.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), hauchdünn geschnitten und in der Pfanne gehackt.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), im Blitzhacker zur Farce verarbeitet.

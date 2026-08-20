@@ -10,8 +10,8 @@ lagerung: Trocken, verschlossen
 haltbarkeit: Unbegrenzt
 tags: [gewuerz, grundwuerze, vorrat]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T22:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -48,3 +48,6 @@ Wichtig für Rezepte: gleiche Volumen wiegen unterschiedlich. Ein Teelöffel fei
 - [Shakshuka](/gerichte/shakshuka.md), [Freezer-Burritos](/gerichte/burrito.md), [Paella](/gerichte/paella.md) und [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), zum Abschmecken.
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), sparsam, weil Parmesan und Salami bereits salzen.
 - [Focaccia](/gerichte/focaccia.md), an drei Stellen mit drei Aufgaben: 2 Prozent im Teig, gelöst in der [Salamoia](/techniken/salamoia.md), und als Flockensalz obenauf.
+- [Eingelegte rote Zwiebeln](/komponenten/eingelegte-rote-zwiebeln.md), gelöst in der Lake.
+- [Oregano-Hähnchen](/gerichte/oregano-haehnchen.md), 1 Prozent des Fleischgewichts unter der Oregano-Kruste.
+- [Hackfleisch-Reis-Bowl](/gerichte/hackfleisch-reis-bowl.md), [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md) und [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), zum Würzen und Abschmecken.

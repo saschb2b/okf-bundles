@@ -7,8 +7,8 @@ werkzeug: [Teller, Küchenpapier, Kühlschrank]
 dauer: 1 Stunde bis über Nacht
 tags: [vorbereitung, salz, fleisch, saftigkeit]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Prinzip
@@ -46,3 +46,4 @@ Beim Einlegen in Salzlake (wet brine) nimmt das Fleisch Wasser auf und wirkt saf
 
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), vor dem [Marinieren](/techniken/marinieren.md).
 - [Pulled Beef](/gerichte/pulled-beef.md), als Teil der Trockenwürzung.
+- [Oregano-Hähnchen](/gerichte/oregano-haehnchen.md), 1 Prozent Salz als Unterbau der Oregano-Kruste.

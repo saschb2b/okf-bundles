@@ -8,8 +8,8 @@ temperatur: mittlere Hitze
 dauer: 15 bis 30 Minuten
 tags: [braten, zwiebel, suesse, maillard, geduld]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Prinzip
@@ -46,3 +46,4 @@ Der Geruch wechselt von scharf zu süß-brotartig. Die Masse hat auf etwa ein Vi
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), als erste Stufe der Sauce.
 - [Japanisches Curry](/gerichte/japanisches-curry.md), als Quelle der Süße.
 - [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), dort abgekürzt und durch Rosinen und Honig ersetzt.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), wo Zwiebel und Paprika zusammen 30 Minuten langsam geschmort werden.

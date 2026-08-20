@@ -10,8 +10,8 @@ lagerung: Frisch im Kühlschrank, getrocknet dunkel und luftdicht
 haltbarkeit: Frisch 1 bis 2 Wochen, getrocknet ein Jahr
 tags: [gemuese, scharf, capsaicin, gewuerz]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -47,3 +47,4 @@ Cayennepfeffer für reine Schärfe, geräuchertes [Paprikapulver](/zutaten/gewue
 - [Freezer-Burritos](/gerichte/burrito.md), als Jalapeño und als Ancho- und Chilipulver.
 - [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), als Cayennepfeffer.
 - [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), in der schärferen Variante.
+- [Pico de Gallo](/komponenten/pico-de-gallo.md), roh und fein gewürfelt, klassisch als Jalapeño.

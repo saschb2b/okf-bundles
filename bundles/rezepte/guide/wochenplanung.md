@@ -4,8 +4,8 @@ title: Wochenplanung, vom Rezept zur Woche
 description: Wie aus den Gerichten dieses Bundles ein Wochenplan wird, der abwechslungsreich ist, an keinem Werktag lange dauert und den Einkauf vollständig verwertet.
 tags: [anleitung, wochenplan, meal-prep, einkauf, planung]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T23:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 sources:
   - id: erfahrung
     resource: Produzentenwissen, Stand 2026-07-29, nicht aus einer Quelle gelesen
@@ -122,4 +122,4 @@ Auch keine Vorschrift. Ein Plan ist ein Vorschlag mit ausgerechnetem Einkauf, de
 
 # Verwandtes
 
-Die fertigen Pläne stehen in [Standardwoche](/wochenplaene/standardwoche.md), [Vorratswoche](/wochenplaene/vorratswoche.md) und [Schnelle Woche](/wochenplaene/schnelle-woche.md). Der Einkauf dazu steht in [Einkauf bei Edeka](/guide/einkauf-edeka.md), die Behandlung der Reste in [Vorratshaltung](/guide/vorratshaltung.md), und wer umgekehrt von vorhandenen Zutaten aus sucht, nimmt die [Rückwärtssuche](/guide/rueckwaertssuche.md).
+Die fertigen Pläne stehen in [Standardwoche](/wochenplaene/standardwoche.md), [Vorratswoche](/wochenplaene/vorratswoche.md), [Schnelle Woche](/wochenplaene/schnelle-woche.md) und [Budget-Woche](/wochenplaene/budget-woche.md). Der Einkauf dazu steht in [Einkauf bei Edeka](/guide/einkauf-edeka.md), die Behandlung der Reste in [Vorratshaltung](/guide/vorratshaltung.md), und wer umgekehrt von vorhandenen Zutaten aus sucht, nimmt die [Rückwärtssuche](/guide/rueckwaertssuche.md).

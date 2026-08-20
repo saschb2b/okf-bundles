@@ -10,7 +10,7 @@ Anfangen bei: [Überblick](overview.md). Die Suchmethode steht in [Rückwärtssu
 
 # Gerichte
 
-Sechzehn Gerichte, die meisten aus persönlichen Kochnotizen.
+Einundzwanzig Gerichte, die meisten aus persönlichen Kochnotizen, die jüngsten fünf aus einer Budget-Kochwoche auf YouTube.
 
 * [Japanisches Curry](gerichte/japanisches-curry.md) - Mildes, dickes Currygericht über Kurzkornreis, mit selbst gemachtem Roux.
 * [Japanisches Curry nach Kenji](gerichte/japanisches-curry-kenji.md) - Dieselbe Familie in der schnellen Ein-Topf-Fassung, mit Rosinen und Honig.
@@ -28,6 +28,11 @@ Sechzehn Gerichte, die meisten aus persönlichen Kochnotizen.
 * [Brownies](gerichte/brownies.md) - Dicht und fudgy, mit Schokolade in drei Formen.
 * [Pizzaschnecken](gerichte/pizzaschnecken.md) - Partyfingerfood aus Kühlregalteig, 20 Minuten Handarbeit.
 * [Focaccia](gerichte/focaccia.md) - Italienisches Blechbrot aus nassem Teig, mit Salamoia und viel Olivenöl.
+* [Hackfleisch-Reis-Bowl](gerichte/hackfleisch-reis-bowl.md) - Krosses Hack auf gelbem Reis mit Dillsauce und eingelegten Zwiebeln.
+* [Oregano-Hähnchen](gerichte/oregano-haehnchen.md) - Schenkel unter einer Oregano-Salzkruste, mit Reis, Salat und Zitrone.
+* [Gefüllte Ofenkartoffel](gerichte/gefuellte-ofenkartoffel.md) - Ofenkartoffel mit schnellem Chili aus Hack, Bohnen und geriebener Tomate.
+* [Hähnchen-Cheesesteak](gerichte/haehnchen-cheesesteak.md) - Pfannengehacktes Hähnchen, geschmortes Gemüse, geschmolzener Käse im Brötchen.
+* [Nudelauflauf mit Hähnchenbällchen](gerichte/nudelauflauf-mit-haehnchenbaellchen.md) - Baked Ziti mit selbst gehackter Hähnchenfarce, das Ankergericht für Vorratstage.
 
 # Komponenten
 
@@ -36,6 +41,10 @@ Sechzehn Gerichte, die meisten aus persönlichen Kochnotizen.
 * [Sushi-Reis](komponenten/sushi-reis.md) - Derselbe Reis, mit Essig, Zucker und Salz abgezogen.
 * [Jiaozi-Teig](komponenten/jiaozi-teig.md) - Brühteig aus Mehl und kochendem Wasser.
 * [Jiaozi-Füllung](komponenten/jiaozi-fuellung.md) - Schweinehack und Chinakohl, springend geschlagen.
+* [Eingelegte rote Zwiebeln](komponenten/eingelegte-rote-zwiebeln.md) - Das Wochen-Kondiment: Säure und Knack aus dem Schraubglas.
+* [Dillsauce](komponenten/dillsauce.md) - Kalte Rührsauce für Bowls, Hähnchen und Sandwiches.
+* [Gelber Reis](komponenten/gelber-reis.md) - Gewürzter Langkornreis als Basis für Bowls und Pfannengerichte.
+* [Pico de Gallo](komponenten/pico-de-gallo.md) - Rohe Salsa aus Tomate, Zwiebel, Chili und Koriander.
 
 # Wochenpläne
 
@@ -44,6 +53,7 @@ Fertig gerechnete Wochen für 2 Personen, mit Einkaufszettel und Restelogik.
 * [Standardwoche](wochenplaene/standardwoche.md) - Zwei Kochtage, 27 Minuten Aktivzeit im Schnitt, längster Tag 45 Minuten.
 * [Vorratswoche](wochenplaene/vorratswoche.md) - Ein Kochsonntag, danach höchstens 15 Minuten pro Werktag.
 * [Schnelle Woche](wochenplaene/schnelle-woche.md) - Kein Tag über 30 Minuten, auch der Sonntag nicht.
+* [Budget-Woche](wochenplaene/budget-woche.md) - Kleiner Einkauf, viel Protein, dieselben Bausteine in wechselnder Form.
 
 # Zutaten
 

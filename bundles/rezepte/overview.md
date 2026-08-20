@@ -4,8 +4,8 @@ title: Rezepte auf einen Blick
 description: Wie dieses Bundle Gerichte, Komponenten, Zutaten und Zubereitungstechniken so verknüpft, dass sich aus vorhandenen Zutaten passende Gerichte finden lassen.
 tags: [uebersicht, kochen, rezepte, zutaten]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T23:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was dieses Bundle ist
@@ -51,10 +51,10 @@ Die durchgezogenen Kanten schreibt das Rezept, die gestrichelten schreiben Zutat
 
 # Was drin ist
 
-- **Gerichte.** Sechzehn. Die beiden Currys ([japanisch](/gerichte/japanisches-curry.md) und [indisch](/gerichte/chicken-curry-indisch.md)) liegen als Gegenentwürfe nebeneinander, dazu Pfannengerichte ([Bratreis](/gerichte/bratreis-mit-ei-und-gemuese.md), [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), [Scampi-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md)), Reisgerichte ([Paella](/gerichte/paella.md), [Onigiri](/gerichte/onigiri.md)), Handarbeit ([Jiaozi](/gerichte/jiaozi.md), [Sauerteigbrötchen](/gerichte/broetchen.md)), Vorratsgerichte ([Freezer-Burritos](/gerichte/burrito.md), [Pulled Beef](/gerichte/pulled-beef.md)) ein Dessert ([Brownies](/gerichte/brownies.md)), Partyfingerfood ([Pizzaschnecken](/gerichte/pizzaschnecken.md)) und Blechbrot ([Focaccia](/gerichte/focaccia.md)).
-- **Komponenten.** Fünf Bausteine, die mehrfach vorkommen oder getrennt verwendbar sind: [Curry-Roux](/komponenten/curry-roux.md), [Japanischer Reis](/komponenten/japanischer-reis.md), [Sushi-Reis](/komponenten/sushi-reis.md), [Jiaozi-Teig](/komponenten/jiaozi-teig.md) und [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md).
-- **Zutaten.** Über 80 Konzepte in neun Warengruppen, von der [Zwiebel](/zutaten/gemuese/zwiebel.md) über [Bomba-Reis](/zutaten/grundzutaten/bomba-reis.md) und [Safran](/zutaten/gewuerze/safran.md) bis zum [Kakaopulver](/zutaten/suesswaren/kakaopulver.md).
-- **Wochenpläne.** Drei gerechnete Wochen: [Standardwoche](/wochenplaene/standardwoche.md), [Vorratswoche](/wochenplaene/vorratswoche.md) und [Schnelle Woche](/wochenplaene/schnelle-woche.md), jede mit Tagesfolge, Aktivzeiten, Einkaufszettel nach Edeka-Abteilungen und Restelogik.
+- **Gerichte.** Einundzwanzig. Die beiden Currys ([japanisch](/gerichte/japanisches-curry.md) und [indisch](/gerichte/chicken-curry-indisch.md)) liegen als Gegenentwürfe nebeneinander, dazu Pfannengerichte ([Bratreis](/gerichte/bratreis-mit-ei-und-gemuese.md), [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), [Scampi-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md)), Reisgerichte ([Paella](/gerichte/paella.md), [Onigiri](/gerichte/onigiri.md)), Handarbeit ([Jiaozi](/gerichte/jiaozi.md), [Sauerteigbrötchen](/gerichte/broetchen.md)), Vorratsgerichte ([Freezer-Burritos](/gerichte/burrito.md), [Pulled Beef](/gerichte/pulled-beef.md)) ein Dessert ([Brownies](/gerichte/brownies.md)), Partyfingerfood ([Pizzaschnecken](/gerichte/pizzaschnecken.md)), Blechbrot ([Focaccia](/gerichte/focaccia.md)) und die fünf Gerichte einer Budget-Kochwoche, von der [Hackfleisch-Reis-Bowl](/gerichte/hackfleisch-reis-bowl.md) bis zum [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md).
+- **Komponenten.** Neun Bausteine, die mehrfach vorkommen oder getrennt verwendbar sind: [Curry-Roux](/komponenten/curry-roux.md), [Japanischer Reis](/komponenten/japanischer-reis.md), [Sushi-Reis](/komponenten/sushi-reis.md), [Jiaozi-Teig](/komponenten/jiaozi-teig.md) und [Jiaozi-Füllung](/komponenten/jiaozi-fuellung.md), dazu die vier Wochen-Kondimente und Beilagen der Budget-Woche: [Eingelegte rote Zwiebeln](/komponenten/eingelegte-rote-zwiebeln.md), [Dillsauce](/komponenten/dillsauce.md), [Gelber Reis](/komponenten/gelber-reis.md) und [Pico de Gallo](/komponenten/pico-de-gallo.md).
+- **Zutaten.** Über 90 Konzepte in neun Warengruppen, von der [Zwiebel](/zutaten/gemuese/zwiebel.md) über [Bomba-Reis](/zutaten/grundzutaten/bomba-reis.md) und [Safran](/zutaten/gewuerze/safran.md) bis zum [Kakaopulver](/zutaten/suesswaren/kakaopulver.md).
+- **Wochenpläne.** Vier gerechnete Wochen: [Standardwoche](/wochenplaene/standardwoche.md), [Vorratswoche](/wochenplaene/vorratswoche.md), [Schnelle Woche](/wochenplaene/schnelle-woche.md) und [Budget-Woche](/wochenplaene/budget-woche.md), jede mit Tagesfolge, Aktivzeiten, Einkaufszettel nach Edeka-Abteilungen und Restelogik.
 - **Techniken.** 33 Handgriffe vom [Würfeln](/techniken/wuerfeln.md) über [Wok-Braten](/techniken/wok-braten.md), [Trockensalzen](/techniken/trockensalzen.md) und [Schmoren](/techniken/schmoren.md) bis zum [Socarrat](/techniken/socarrat.md), darunter vier zur Vorratshaltung, die erst nach dem Kochen einsetzen.
 
 # Herkunft und Bilder

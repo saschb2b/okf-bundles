@@ -4,8 +4,8 @@ title: US-amerikanische Küche
 description: "Barbecue-Logik und Backen nach Gewicht: lange Niedrigtemperatur beim Fleisch, exakte Verhältnisse beim Gebäck."
 tags: [kueche, usa, barbecue, backen]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Prinzip
@@ -34,6 +34,11 @@ Was beide Traditionen verbindet, ist, dass die Zeit im Rezept steht wie eine Zut
 
 - [Brownies](/gerichte/brownies.md), dicht und fudgy, nach einem in Serie getesteten Rezept.
 - [Pulled Beef](/gerichte/pulled-beef.md), im Schongarer geschmort und gezupft.
+- [Hackfleisch-Reis-Bowl](/gerichte/hackfleisch-reis-bowl.md), das Bowl-Prinzip der Meal-Prep-Küche.
+- [Gefüllte Ofenkartoffel mit Chili-Hack](/gerichte/gefuellte-ofenkartoffel.md), die Baked Potato als Hauptgericht.
+- [Oregano-Hähnchen](/gerichte/oregano-haehnchen.md), Alltagsküche aus Pfanne, Reis und Salat.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), das Philly-Sandwich in der Hähnchenfassung.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), italo-amerikanischer Baked Ziti.
 
 # Abgrenzung
 

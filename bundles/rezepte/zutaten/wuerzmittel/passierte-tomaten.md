@@ -10,8 +10,8 @@ lagerung: Trocken und dunkel, geöffnet im Kühlschrank
 haltbarkeit: Ungeöffnet Jahre, geöffnet 3 bis 5 Tage
 tags: [tomate, konserve, sauce, basis]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -41,3 +41,4 @@ Gestückelte Dosentomaten (püriert), Tomatenmark mit Wasser verdünnt (kräftig
 - [Freezer-Burritos](/gerichte/burrito.md), als Bindung der Füllung.
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), als Säurestufe vor der Kokosmilch.
 - Für ein Gebäck sind sie zu wässrig; dort übernimmt [Tomatenmark](/zutaten/wuerzmittel/tomatenmark.md), siehe [Pizzaschnecken](/gerichte/pizzaschnecken.md).
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), als kurz gekochte Sauce.

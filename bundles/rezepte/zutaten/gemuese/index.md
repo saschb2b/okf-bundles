@@ -6,6 +6,7 @@ Frisches Gemüse, Kräuter und Aromaten.
 * [Brokkoli](brokkoli.md) - Kohlgemüse aus ungeöffneten Blütenknospen, das kurz gegart leuchtend grün und bissfest bleibt und lang gegart schwefelig wird.
 * [Chili](chili.md) - Scharfe Paprikafrucht, deren Capsaicin in den Trennwänden sitzt und die getrocknet zu einem Gewürz mit eigenem Geschmack wird.
 * [Chinakohl](chinakohl.md) - Milder Kohl mit dicken, wasserreichen Blattrippen, der für Füllungen blanchiert und ausgedrückt werden muss.
+* [Eisbergsalat](eisbergsalat.md) - Fester, wasserreicher Kopfsalat, der kaum Eigengeschmack mitbringt, dafür Knackigkeit und die längste Haltbarkeit aller Salate.
 * [Erbse (tiefgekühlt)](erbse.md) - Süßes Hülsenfruchtgemüse, das tiefgekühlt fast immer besser ist als frisch und erst am Ende ins Gericht kommt.
 * [Frühlingszwiebel (Lauchzwiebel)](fruehlingszwiebel.md) - Junge Zwiebel mit essbarem grünem Lauch, deren weißer und grüner Teil zu verschiedenen Zeitpunkten ins Gericht gehören.
 * [Ingwer](ingwer.md) - Scharf-frisches Rhizom, das in der asiatischen Küche Schärfe und Zitrusnote liefert und den Eigengeruch von Fleisch abrundet.

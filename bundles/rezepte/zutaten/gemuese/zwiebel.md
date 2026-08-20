@@ -11,8 +11,8 @@ haltbarkeit: 4 bis 8 Wochen, angeschnitten 2 Tage abgedeckt im Kühlschrank
 saison: Ganzjährig verfügbar, Haupternte Juli bis Oktober
 tags: [gemuese, aroma, basis, lauchgewaechs]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T22:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -61,3 +61,7 @@ Schalotten (feiner, etwas weniger Volumen), Lauch (milder, weniger süß) oder G
 - [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), als Basis der Sauce.
 - [Pulled Beef](/gerichte/pulled-beef.md), ganz mitgeschmort.
 - [Focaccia](/gerichte/focaccia.md), als rohe rote Ringe in der Belagvariante.
+- [Eingelegte rote Zwiebeln](/komponenten/eingelegte-rote-zwiebeln.md), rot, in heißer Lake.
+- [Pico de Gallo](/komponenten/pico-de-gallo.md), roh und fein gewürfelt.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), mit der Paprika langsam geschmort.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), gerieben in der Sauce und gewürfelt in der Farce.

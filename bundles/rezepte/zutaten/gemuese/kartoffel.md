@@ -11,8 +11,8 @@ haltbarkeit: Mehrere Monate bei richtiger Lagerung, im Haushalt meist 2 bis 4 Wo
 saison: Ganzjährig, Frühkartoffeln ab Juni, Lagerware ab September
 tags: [gemuese, staerke, grundnahrungsmittel, knolle]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -49,3 +49,4 @@ Süßkartoffel (süßer, weicher, zerfällt eher), Steckrübe, Kürbis (kürzere
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), grob gewürfelt als sättigende Einlage.
 - [Japanisches Curry nach Kenji](/gerichte/japanisches-curry-kenji.md), in Stücken von etwa 4 cm.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), mehligkochend, ganz gebacken und aufgebrochen.

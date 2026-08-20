@@ -6,8 +6,8 @@ kategorie: Schnitttechnik
 werkzeug: [Kochmesser, Schneidebrett]
 tags: [schneiden, vorbereitung, grundtechnik]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T20:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Prinzip
@@ -46,3 +46,5 @@ Die Führhand liegt als Krallengriff auf dem Schnittgut, Fingerkuppen eingezogen
 - [Freezer-Burritos](/gerichte/burrito.md), für Paprika und Jalapeño.
 - [Scampi-Erdnussbutter-Nudeln](/gerichte/scampi-erdnussbutter-nudeln.md), für Zwiebel und Tomaten.
 - [Pizzaschnecken](/gerichte/pizzaschnecken.md), für die Salami, die als große Scheiben die Spirale auseinandertreiben würde.
+- [Pico de Gallo](/komponenten/pico-de-gallo.md), wo feines, gleichmäßiges Würfeln die halbe Salsa ist.
+- [Nudelauflauf mit Hähnchenbällchen](/gerichte/nudelauflauf-mit-haehnchenbaellchen.md), für Paprika und Zwiebel in der Farce.

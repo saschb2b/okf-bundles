@@ -4,8 +4,8 @@ title: Mexikanische Küche
 description: Mais und Weizen als Träger, Chili als Gewürz statt nur als Schärfe, und die Abgrenzung zwischen mexikanischer und Tex-Mex-Küche.
 tags: [kueche, mexiko, tex-mex, chili]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Prinzip
@@ -42,6 +42,7 @@ Wo indische Küchen ganze Gewürze im Fett aufschließen, arbeitet die Tex-Mex-K
 # Gerichte in diesem Bundle
 
 - [Freezer-Burritos](/gerichte/burrito.md), sechs Stück auf Vorrat mit Hähnchen, Bohnen und zwei Käsesorten.
+- [Pico de Gallo](/komponenten/pico-de-gallo.md), die rohe Salsa als Komponente, Topping der [gefüllten Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md).
 
 # Abgrenzung
 

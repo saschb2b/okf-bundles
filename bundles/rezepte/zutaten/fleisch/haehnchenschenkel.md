@@ -10,8 +10,8 @@ lagerung: Kühlschrank bei maximal 4 Grad, im untersten Fach, getrennt von rohem
 haltbarkeit: 1 bis 2 Tage frisch, 6 Monate tiefgefroren
 tags: [fleisch, gefluegel, schmoren, protein]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -50,3 +50,4 @@ Schweinenacken oder Rindfleisch aus der Schulter (beide brauchen 60 bis 90 Minut
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), in Stücken angebraten und mitgeschmort.
+- [Oregano-Hähnchen](/gerichte/oregano-haehnchen.md), unter einer angepressten Oregano-Salzkruste gebraten.

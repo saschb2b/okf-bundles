@@ -10,8 +10,8 @@ lagerung: Dunkel, kühl, verschlossen, nicht neben dem Herd
 haltbarkeit: 12 Monate raffiniert, kaltgepresst deutlich kürzer
 tags: [fett, oel, braten, vorrat]
 generated:
-  by: claude-code/unrecorded
-  at: 2026-07-29T12:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -49,3 +49,5 @@ Sonnenblumenöl, Erdnussöl oder raffiniertes Sojaöl sind austauschbar. Oliven�
 # Wird verwendet in
 
 - [Japanisches Curry](/gerichte/japanisches-curry.md), zum Anschwitzen der Zwiebeln und Anbraten des Fleisches.
+- [Oregano-Hähnchen](/gerichte/oregano-haehnchen.md), als Bratfett unter der Kruste.
+- [Hähnchen-Cheesesteak](/gerichte/haehnchen-cheesesteak.md), zum Schmoren des Gemüses und Braten des Fleischs.

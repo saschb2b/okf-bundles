@@ -10,8 +10,8 @@ lagerung: Kühl und dunkel, im Kühlschrank länger, aber weniger saftig
 haltbarkeit: 2 bis 4 Wochen
 tags: [obst, zitrus, saeure, finish]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -38,3 +38,5 @@ Zitrone (milder, weniger bitter), Reisessig plus eine Prise Zucker, in südostas
 
 - [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), optional zum Abschmecken.
 - [Freezer-Burritos](/gerichte/burrito.md), in der Füllung.
+- [Pico de Gallo](/komponenten/pico-de-gallo.md), der Saft als Säure.
+- [Gefüllte Ofenkartoffel](/gerichte/gefuellte-ofenkartoffel.md), als Spalten zum Beträufeln.

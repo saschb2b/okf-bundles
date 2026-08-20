@@ -10,8 +10,8 @@ lagerung: Trocken, luftdicht, dunkel
 haltbarkeit: 2 Jahre und mehr
 tags: [reis, getreide, grundzutat, beilage]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -44,3 +44,4 @@ Für Bratreis funktioniert auch abgekühlter Jasminreis. Kurzkornreis ist kein E
 - [Bratreis mit Ei und Gemüse](/gerichte/bratreis-mit-ei-und-gemuese.md), als kalter Reis vom Vortag.
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), mit Sternanis, Lorbeer und Kurkuma gekocht.
 - [Tofu mit Brokkoli](/gerichte/tofu-brokkoli.md), als Beilage.
+- [Gelber Reis](/komponenten/gelber-reis.md), mit Brühe, Kurkuma und Oregano gegart, als Basis von [Hackfleisch-Reis-Bowl](/gerichte/hackfleisch-reis-bowl.md) und [Oregano-Hähnchen](/gerichte/oregano-haehnchen.md).

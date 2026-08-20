@@ -10,8 +10,8 @@ lagerung: Dunkel und luftdicht
 haltbarkeit: Gemahlen 1 bis 2 Jahre
 tags: [gewuerz, farbe, indisch, wurzel]
 generated:
-  by: claude-code/opus-5
-  at: 2026-07-29T19:00:00Z
+  by: claude-code/fable-5
+  at: 2026-08-20T12:00:00Z
 ---
 
 # Was es ist
@@ -39,3 +39,4 @@ Ein Hinweis, der in Gesundheitsartikeln oft überbetont wird, aber küchentechni
 # Wird verwendet in
 
 - [Chicken Curry (indische Art)](/gerichte/chicken-curry-indisch.md), in der Sauce und im Reiskochwasser.
+- [Gelber Reis](/komponenten/gelber-reis.md), eine Messerspitze als Farbgeber.
